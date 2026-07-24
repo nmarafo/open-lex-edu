@@ -1,5 +1,5 @@
 version: '1.0'
-total_normas: 176
+total_normas: 297
 normas:
   norm-can-d-84-2024:
     id: norm-can-d-84-2024
@@ -128,6 +128,95 @@ normas:
     - estatuto_autonomia
     - competencias_educacion
     path: autonómica/canarias/01_marco_normativo_general_y_organico/LO1_2018_estatuto_autonomia_canarias.md
+  norm-can-res-boc-2021-038-3:
+    id: norm-can-res-boc-2021-038-3
+    codigo_sintetizado: Resolucion BOC 3
+    titulo: Resolución de 12 de febrero de 2021, por la que se delega en las Direcciones
+      Territoriales de Educación determinada competencia relativa a cargos directivos
+      de los centros públicos docentes del ámbito de gestión de este Departamento
+      (BOC n.º 38, de 24 de febrero).
+    jurisdiccion: Canarias
+    ambito: Autonómico
+    tipo_disposicion: Resolución
+    fecha_publicacion: ''
+    estado: Vigente
+    redaccion: libro_azul
+    categoria_canonica: 01_marco_normativo_general_y_organico
+    subcategoria: Estructura de la Consejería
+    tags:
+    - canarias
+    - resolucion
+    - boc
+    - 01_marco_normativo_general_y_organico
+    path: autonómica/canarias/01_marco_normativo_general_y_organico/RES_delega_direcciones_territoriales_educación_3.md
+  norm-can-res-boc-2017-132-1:
+    id: norm-can-res-boc-2017-132-1
+    codigo_sintetizado: Resolucion BOC 1
+    titulo: Resolución de 30 de junio de 2017, de la Dirección General de Centros
+      e Infraestructura Educativa, por la que se dictan instrucciones para la actuación
+      de los centros docentes sostenidos con fondos públicos, en los casos de padres,
+      madres, separados, divorciados, que hayan finalizado su convivencia, o representantes
+      legales, respecto a sus descendientes o representados, menores de edad, en el
+      ámbito de las enseñanzas no universitarias de la Comunidad Autónoma de Canarias
+      (BOC n.º 132, de 11 de julio).
+    jurisdiccion: Canarias
+    ambito: Autonómico
+    tipo_disposicion: Resolución
+    fecha_publicacion: ''
+    estado: Vigente
+    redaccion: libro_azul
+    categoria_canonica: 01_marco_normativo_general_y_organico
+    subcategoria: Protección jurídica de menores
+    tags:
+    - canarias
+    - resolucion
+    - boc
+    - 01_marco_normativo_general_y_organico
+    path: autonómica/canarias/01_marco_normativo_general_y_organico/RES_dirección_general_centros_infraestructura_1.md
+  norm-can-res-boc-2017-061-4:
+    id: norm-can-res-boc-2017-061-4
+    codigo_sintetizado: Resolucion BOC 4
+    titulo: Resolución de 16 de marzo de 2017, de la Dirección General de Centros
+      e Infraestructura Educativa, por la que se delega en la Dirección General de
+      Formación Profesional y Educación de Adultos, la competencia en materia de contratos
+      menores de material y equipamiento específico necesario para el desarrollo del
+      Proyecto Enlaza (BOC n.º 61, de 28 de marzo).
+    jurisdiccion: Canarias
+    ambito: Autonómico
+    tipo_disposicion: Resolución
+    fecha_publicacion: ''
+    estado: Vigente
+    redaccion: libro_azul
+    categoria_canonica: 01_marco_normativo_general_y_organico
+    subcategoria: Estructura de la Consejería
+    tags:
+    - canarias
+    - resolucion
+    - boc
+    - 01_marco_normativo_general_y_organico
+    path: autonómica/canarias/01_marco_normativo_general_y_organico/RES_dirección_general_centros_infraestructura_4.md
+  norm-can-res-boc-2017-020-2:
+    id: norm-can-res-boc-2017-020-2
+    codigo_sintetizado: Resolucion BOC 2
+    titulo: Resolución de 20 de enero de 2017, de la Dirección General de Ordenación,
+      Innovación y Promoción Educativa, por la que se delega en la Directora de la
+      Agencia Canaria de Calidad Universitaria y Evaluación Educativa determinadas
+      competencias en materia de innovación y promoción educativa (BOC n.º 20, de
+      30 de enero).
+    jurisdiccion: Canarias
+    ambito: Autonómico
+    tipo_disposicion: Resolución
+    fecha_publicacion: ''
+    estado: Vigente
+    redaccion: libro_azul
+    categoria_canonica: 01_marco_normativo_general_y_organico
+    subcategoria: Estructura de la Consejería
+    tags:
+    - canarias
+    - resolucion
+    - boc
+    - 01_marco_normativo_general_y_organico
+    path: autonómica/canarias/01_marco_normativo_general_y_organico/RES_dirección_general_ordenación_innovación_2.md
   norm-can-d-109-1999:
     id: norm-can-d-109-1999
     codigo_sintetizado: D109_1999 Colectivos de Escuelas Rurales (CER)
@@ -191,6 +280,432 @@ normas:
     - autonomia_gestion
     - pagos_en_firme
     path: autonómica/canarias/02_gestion_y_administracion_centros/D276_1997_gestion_economica_centros.md
+  norm-can-res-boc-2019-024-22:
+    id: norm-can-res-boc-2019-024-22
+    codigo_sintetizado: Resolucion BOC 22
+    titulo: Resolución de 29 de enero de 2019, por la que se aprueba la convocatoria
+      de reconocimiento de la trayectoria y proyección internacional de los centros
+      educativos públicos no universitarios de la Comunidad Autónoma de Canarias (BOC
+      n.º 24, de 5 de febrero).
+    jurisdiccion: Canarias
+    ambito: Autonómico
+    tipo_disposicion: Resolución
+    fecha_publicacion: ''
+    estado: Vigente
+    redaccion: libro_azul
+    categoria_canonica: 02_gestion_y_administracion_centros
+    subcategoria: Centros públicos
+    tags:
+    - canarias
+    - resolucion
+    - boc
+    - 02_gestion_y_administracion_centros
+    path: autonómica/canarias/02_gestion_y_administracion_centros/RES_aprueba_convocatoria_reconocimiento_trayectoria_22.md
+  norm-can-res-boc-2019-067-11:
+    id: norm-can-res-boc-2019-067-11
+    codigo_sintetizado: Resolucion BOC 11
+    titulo: Secretaría General Técnica.- Resolución de 21 de marzo de 2019, por la
+      que se crea el sello electrónico de la Dirección General de Universidades.
+    jurisdiccion: Canarias
+    ambito: Autonómico
+    tipo_disposicion: Resolución
+    fecha_publicacion: ''
+    estado: Vigente
+    redaccion: libro_azul
+    categoria_canonica: 02_gestion_y_administracion_centros
+    subcategoria: Administración electrónica y firmas
+    tags:
+    - canarias
+    - resolucion
+    - boc
+    - 02_gestion_y_administracion_centros
+    path: autonómica/canarias/02_gestion_y_administracion_centros/RES_crea_sello_electrónico_dirección_11.md
+  norm-can-res-boc-2019-016-12:
+    id: norm-can-res-boc-2019-016-12
+    codigo_sintetizado: Resolucion BOC 12
+    titulo: Secretaría General Técnica.- Resolución de 9 de enero de 2019, por la
+      que se crea el sello electrónico de la Dirección General de Centros e Infraestructura
+      Educativa (BOC n.º 16, de 24 de enero).
+    jurisdiccion: Canarias
+    ambito: Autonómico
+    tipo_disposicion: Resolución
+    fecha_publicacion: ''
+    estado: Vigente
+    redaccion: libro_azul
+    categoria_canonica: 02_gestion_y_administracion_centros
+    subcategoria: Administración electrónica y firmas
+    tags:
+    - canarias
+    - resolucion
+    - boc
+    - 02_gestion_y_administracion_centros
+    path: autonómica/canarias/02_gestion_y_administracion_centros/RES_crea_sello_electrónico_dirección_12.md
+  norm-can-res-boc-2019-016-13:
+    id: norm-can-res-boc-2019-016-13
+    codigo_sintetizado: Resolucion BOC 13
+    titulo: Secretaría General Técnica.- Resolución de 9 de enero de 2019, por la
+      que se crea el sello electrónico de la Dirección General de Formación Profesional
+      y Educación de Adultos de la Consejería de Educación y Universidades (BOC n.º
+      16, de 24 de enero).
+    jurisdiccion: Canarias
+    ambito: Autonómico
+    tipo_disposicion: Resolución
+    fecha_publicacion: ''
+    estado: Vigente
+    redaccion: libro_azul
+    categoria_canonica: 02_gestion_y_administracion_centros
+    subcategoria: Administración electrónica y firmas
+    tags:
+    - canarias
+    - resolucion
+    - boc
+    - 02_gestion_y_administracion_centros
+    path: autonómica/canarias/02_gestion_y_administracion_centros/RES_crea_sello_electrónico_dirección_13.md
+  norm-can-res-juriscan-75634-6:
+    id: norm-can-res-juriscan-75634-6
+    codigo_sintetizado: Resolucion BOC 6
+    titulo: Secretaría General Técnica.- Resolución de 24 de febrero de 2017, por
+      la que se crea el sello electrónico de la Dirección General de Ordenación, Innovación
+      y Promoción Educativa de la Consejería de Educación y Universidades (BOC n.º
+      44, de 3 de marzo).
+    jurisdiccion: Canarias
+    ambito: Autonómico
+    tipo_disposicion: Resolución
+    fecha_publicacion: ''
+    estado: Vigente
+    redaccion: libro_azul
+    categoria_canonica: 02_gestion_y_administracion_centros
+    subcategoria: Administración electrónica y firmas
+    tags:
+    - canarias
+    - resolucion
+    - boc
+    - 02_gestion_y_administracion_centros
+    path: autonómica/canarias/02_gestion_y_administracion_centros/RES_crea_sello_electrónico_dirección_6.md
+  norm-can-res-boc-2020-257-24:
+    id: norm-can-res-boc-2020-257-24
+    codigo_sintetizado: Resolucion BOC 24
+    titulo: Resolución de la Viceconsejería de Educación y Universidades, por la que
+      se dictan instrucciones para la oferta educativa y recursos en las escuelas
+      unitarias y los colectivos de escuelas rurales en canarias (13 de marzo de 2015).
+    jurisdiccion: Canarias
+    ambito: Autonómico
+    tipo_disposicion: Resolución
+    fecha_publicacion: ''
+    estado: Vigente
+    redaccion: libro_azul
+    categoria_canonica: 02_gestion_y_administracion_centros
+    subcategoria: Colectivos de Escuelas Rurales (CER)
+    tags:
+    - canarias
+    - resolucion
+    - boc
+    - 02_gestion_y_administracion_centros
+    path: autonómica/canarias/02_gestion_y_administracion_centros/RES_dictan_instrucciones_para_oferta_24.md
+  norm-can-res-juriscan-22458-15:
+    id: norm-can-res-juriscan-22458-15
+    codigo_sintetizado: Resolucion BOC 15
+    titulo: Resolución de 9 de mayo de 1995, de la Dirección General de Centros, por
+      la que se autorizan determinados ingresos, se fijan precios máximos con carácter
+      general y otros precios que puedan fijar los Centros docentes públicos no universitarios
+      de la Comunidad Autónoma de Canarias (BOC n.º 67, de 29 de mayo).
+    jurisdiccion: Canarias
+    ambito: Autonómico
+    tipo_disposicion: Resolución
+    fecha_publicacion: ''
+    estado: Vigente
+    redaccion: libro_azul
+    categoria_canonica: 02_gestion_y_administracion_centros
+    subcategoria: Gestión económica de centros
+    tags:
+    - canarias
+    - resolucion
+    - boc
+    - 02_gestion_y_administracion_centros
+    path: autonómica/canarias/02_gestion_y_administracion_centros/RES_dirección_general_centros_autorizan_15.md
+  norm-can-res-juriscan-75527-17:
+    id: norm-can-res-juriscan-75527-17
+    codigo_sintetizado: Resolucion BOC 17
+    titulo: Resolución de 2 de marzo de 2017, de la Dirección General de Ordenación,
+      Innovación y Promoción Educativa, por la que se establecen los procedimientos
+      administrativos sujetos al sistema de notificación electrónica mediante comparecencia
+      en sede electrónica (BOC n.º 49, de 10 de marzo).
+    jurisdiccion: Canarias
+    ambito: Autonómico
+    tipo_disposicion: Resolución
+    fecha_publicacion: ''
+    estado: Vigente
+    redaccion: libro_azul
+    categoria_canonica: 02_gestion_y_administracion_centros
+    subcategoria: Centros privados concertados
+    tags:
+    - canarias
+    - resolucion
+    - boc
+    - 02_gestion_y_administracion_centros
+    path: autonómica/canarias/02_gestion_y_administracion_centros/RES_dirección_general_ordenación_innovación_17.md
+  norm-can-res-boc-2018-220-18:
+    id: norm-can-res-boc-2018-220-18
+    codigo_sintetizado: Resolucion BOC 18
+    titulo: Resolución de 2 de noviembre de 2018, de la Dirección General de Ordenación,
+      Innovación y Promoción Educativa, por la que se dictan instrucciones para la
+      tramitación electrónica del procedimiento por el que se regula la justificación
+      correspondiente a la financiación de gastos de personal complementario, en los
+      centros privados concertados de Canarias (BOC n.º 220, de 14 de noviembre).
+    jurisdiccion: Canarias
+    ambito: Autonómico
+    tipo_disposicion: Resolución
+    fecha_publicacion: ''
+    estado: Vigente
+    redaccion: libro_azul
+    categoria_canonica: 02_gestion_y_administracion_centros
+    subcategoria: Centros privados concertados
+    tags:
+    - canarias
+    - resolucion
+    - boc
+    - 02_gestion_y_administracion_centros
+    path: autonómica/canarias/02_gestion_y_administracion_centros/RES_dirección_general_ordenación_innovación_18.md
+  norm-can-res-boc-2018-220-19:
+    id: norm-can-res-boc-2018-220-19
+    codigo_sintetizado: Resolucion BOC 19
+    titulo: Resolución de 2 de noviembre de 2018, de la Dirección General de Ordenación,
+      Innovación y Promoción Educativa, por la que se dictan instrucciones para la
+      tramitación electrónica del procedimiento por el que se regula la justificación
+      correspondiente a la financiación de otros gastos, en los centros privados concertados
+      de Canarias (BOC n.º 220, de 14 de noviembre).
+    jurisdiccion: Canarias
+    ambito: Autonómico
+    tipo_disposicion: Resolución
+    fecha_publicacion: ''
+    estado: Vigente
+    redaccion: libro_azul
+    categoria_canonica: 02_gestion_y_administracion_centros
+    subcategoria: Centros privados concertados
+    tags:
+    - canarias
+    - resolucion
+    - boc
+    - 02_gestion_y_administracion_centros
+    path: autonómica/canarias/02_gestion_y_administracion_centros/RES_dirección_general_ordenación_innovación_19.md
+  norm-can-res-juriscan-63878-20:
+    id: norm-can-res-juriscan-63878-20
+    codigo_sintetizado: Resolucion BOC 20
+    titulo: Resolución de 28 de julio de 2010, de la Dirección General de Promoción
+      Educativa, por la que se modifica el modelo al que ha de ajustarse la certificación
+      del acuerdo del Consejo Escolar de los centros privados concertados, en relación
+      a la justificación de las cantidades recibidas en concepto de «otros gastos»
+      (BOC n.º 158, de 12 de agosto).
+    jurisdiccion: Canarias
+    ambito: Autonómico
+    tipo_disposicion: Resolución
+    fecha_publicacion: ''
+    estado: Vigente
+    redaccion: libro_azul
+    categoria_canonica: 02_gestion_y_administracion_centros
+    subcategoria: Centros privados concertados
+    tags:
+    - canarias
+    - resolucion
+    - boc
+    - 02_gestion_y_administracion_centros
+    path: autonómica/canarias/02_gestion_y_administracion_centros/RES_dirección_general_promoción_educativa_20.md
+  norm-can-res-juriscan-64885-10:
+    id: norm-can-res-juriscan-64885-10
+    codigo_sintetizado: Resolucion BOC 10
+    titulo: Resolución de 28 de febrero de 2011, de la Dirección General de Telecomunicaciones
+      y Nuevas Tecnologías de la Consejería de Presidencia, Justicia y Seguridad,
+      por la que se actualiza la dirección electrónica de acceso al Registro General
+      Electrónico de la Administración Pública de la Comunidad Autónoma de Canarias
+      (BOC n.º 49, de 8 de marzo).
+    jurisdiccion: Canarias
+    ambito: Autonómico
+    tipo_disposicion: Resolución
+    fecha_publicacion: ''
+    estado: Vigente
+    redaccion: libro_azul
+    categoria_canonica: 02_gestion_y_administracion_centros
+    subcategoria: Administración electrónica y firmas
+    tags:
+    - canarias
+    - resolucion
+    - boc
+    - 02_gestion_y_administracion_centros
+    path: autonómica/canarias/02_gestion_y_administracion_centros/RES_dirección_general_telecomunicaciones_nuevas_10.md
+  norm-can-res-boc-2022-138-7:
+    id: norm-can-res-boc-2022-138-7
+    codigo_sintetizado: Resolucion BOC 7
+    titulo: Agencia Canaria de Calidad Universitaria y Evaluación Educativa (ACCUEE).-
+      Resolución de 30 de junio de 2022, del Director, por la que se crea el sello
+      electrónico cualificado de la Agencia Canaria de Calidad Universitaria y Evaluación
+      Educativa.
+    jurisdiccion: Canarias
+    ambito: Autonómico
+    tipo_disposicion: Resolución
+    fecha_publicacion: ''
+    estado: Vigente
+    redaccion: libro_azul
+    categoria_canonica: 02_gestion_y_administracion_centros
+    subcategoria: Administración electrónica y firmas
+    tags:
+    - canarias
+    - resolucion
+    - boc
+    - 02_gestion_y_administracion_centros
+    path: autonómica/canarias/02_gestion_y_administracion_centros/RES_director_crea_sello_electrónico_7.md
+  norm-can-res-boc-2018-127-9:
+    id: norm-can-res-boc-2018-127-9
+    codigo_sintetizado: Resolucion BOC 9
+    titulo: Resolución de 25 de junio de 2018, por la que se dispone la publicación
+      del Acuerdo que aprueba las instrucciones que conforman la normativa de seguridad
+      en el uso de los recursos informáticos, telefónicos y de redes de comunicación
+      de la Administración Pública de la Comunidad Autónoma de Canarias (BOC n.º 127,
+      de 3 de julio).
+    jurisdiccion: Canarias
+    ambito: Autonómico
+    tipo_disposicion: Resolución
+    fecha_publicacion: ''
+    estado: Vigente
+    redaccion: libro_azul
+    categoria_canonica: 02_gestion_y_administracion_centros
+    subcategoria: Administración electrónica y firmas
+    tags:
+    - canarias
+    - resolucion
+    - boc
+    - 02_gestion_y_administracion_centros
+    path: autonómica/canarias/02_gestion_y_administracion_centros/RES_dispone_publicación_acuerdo_aprueba_9.md
+  norm-can-res-juriscan-71394-16:
+    id: norm-can-res-juriscan-71394-16
+    codigo_sintetizado: Resolucion BOC 16
+    titulo: Dirección General de Dependencia, Infancia y Familia.- Resolución de 11
+      de septiembre de 2014, por la que se establecen las instrucciones y órdenes
+      de servicio del Documento 1 \"Protocolo de Registros a Personas y Dependencias
+      en los Centros de Internamiento Educativo para Menores Infractores (CIEMI) de
+      la Comunidad Autónoma de Canarias», relativo al protocolo de actuación en materia
+      de vigilancia y seguridad interior (BOC n.º 188, de 29 de septiembre).
+    jurisdiccion: Canarias
+    ambito: Autonómico
+    tipo_disposicion: Resolución
+    fecha_publicacion: ''
+    estado: Vigente
+    redaccion: libro_azul
+    categoria_canonica: 02_gestion_y_administracion_centros
+    subcategoria: Centros de internamiento de menores
+    tags:
+    - canarias
+    - resolucion
+    - boc
+    - 02_gestion_y_administracion_centros
+    path: autonómica/canarias/02_gestion_y_administracion_centros/RES_infancia_familia_resolución_septiembre_16.md
+  norm-can-res-boc-2022-158-21:
+    id: norm-can-res-boc-2022-158-21
+    codigo_sintetizado: Resolucion BOC 21
+    titulo: Resolución de 28 de julio de 2022, por la que se modifica parcialmente
+      la Resolución de 29 de mayo de 2007, que aprueba y publica las normas sobre
+      la gestión del pago delegado de la nómina de personal docente en centros privados
+      concertados (BOC n.º 158, de 10 de agosto).
+    jurisdiccion: Canarias
+    ambito: Autonómico
+    tipo_disposicion: Resolución
+    fecha_publicacion: ''
+    estado: Vigente
+    redaccion: libro_azul
+    categoria_canonica: 02_gestion_y_administracion_centros
+    subcategoria: Centros privados concertados
+    tags:
+    - canarias
+    - resolucion
+    - boc
+    - 02_gestion_y_administracion_centros
+    path: autonómica/canarias/02_gestion_y_administracion_centros/RES_modifica_parcialmente_resolución_mayo_21.md
+  norm-can-res-boc-2017-235-5:
+    id: norm-can-res-boc-2017-235-5
+    codigo_sintetizado: Resolucion BOC 5
+    titulo: Secretaría General Técnica.- Resolución de 15 de marzo de 2016, por la
+      que se ordena la publicación del Convenio de Colaboración entre la Consejería
+      de Educación y Universidades y la Agencia Canaria de Calidad Universitaria y
+      Evaluación Educativa (ACCUEE), para la incorporación de este organismo a la
+      sede electrónica de la Consejería de Educación y Universidades, para la utilización
+      de su registro electrónico (BOC n.º 57, de 23 de marzo).
+    jurisdiccion: Canarias
+    ambito: Autonómico
+    tipo_disposicion: Resolución
+    fecha_publicacion: ''
+    estado: Vigente
+    redaccion: libro_azul
+    categoria_canonica: 02_gestion_y_administracion_centros
+    subcategoria: Administración electrónica y firmas
+    tags:
+    - canarias
+    - resolucion
+    - boc
+    - 02_gestion_y_administracion_centros
+    path: autonómica/canarias/02_gestion_y_administracion_centros/RES_ordena_publicación_convenio_colaboración_5.md
+  norm-can-res-014:
+    id: norm-can-res-014
+    codigo_sintetizado: Resolucion BOC 14
+    titulo: Resolución de 27 de octubre de 2021, por la que se ordena la publicación
+      del Convenio Marco de Cooperación entre la Consejería de Educación, Universidades,
+      Cultura y Deportes y la Federación Canaria de Municipios (FECAM) para el desarrollo
+      de acciones y actuaciones en los centros docentes públicos no universitarios.
+    jurisdiccion: Canarias
+    ambito: Autonómico
+    tipo_disposicion: Resolución
+    fecha_publicacion: ''
+    estado: Vigente
+    redaccion: libro_azul
+    categoria_canonica: 02_gestion_y_administracion_centros
+    subcategoria: Cooperación con entidades locales
+    tags:
+    - canarias
+    - resolucion
+    - boc
+    - 02_gestion_y_administracion_centros
+    path: autonómica/canarias/02_gestion_y_administracion_centros/RES_ordena_publicación_convenio_marco_14.md
+  norm-can-res-juriscan-58182-8:
+    id: norm-can-res-juriscan-58182-8
+    codigo_sintetizado: Resolucion BOC 8
+    titulo: Inspección General de Servicios.- Resolución de 20 de noviembre de 2007,
+      por la que se publica el Protocolo para la coordinación del procedimiento de
+      identificación, valoración, expurgo y eliminación de series documentales específicas
+      (BOC n.º 238, de 28 de noviembre).
+    jurisdiccion: Canarias
+    ambito: Autonómico
+    tipo_disposicion: Resolución
+    fecha_publicacion: ''
+    estado: Vigente
+    redaccion: libro_azul
+    categoria_canonica: 02_gestion_y_administracion_centros
+    subcategoria: Administración electrónica y firmas
+    tags:
+    - canarias
+    - resolucion
+    - boc
+    - 02_gestion_y_administracion_centros
+    path: autonómica/canarias/02_gestion_y_administracion_centros/RES_publica_protocolo_para_coordinación_8.md
+  norm-can-res-boc-2022-143-23:
+    id: norm-can-res-boc-2022-143-23
+    codigo_sintetizado: Resolucion BOC 23
+    titulo: Resolución de 10 de junio de 2021, de la Viceconsejería de Educación,
+      Universidades y Deportes, por la que se establece la composición de la comisión
+      de seguimiento del acuerdo entre la Consejería de Educación y los Colectivos
+      de Escuelas Rurales/Unitarias sobre los servicios educativos públicos en las
+      Escuelas Unitarias de Canarias y se nombra a los vocales de dicha comisión.
+    jurisdiccion: Canarias
+    ambito: Autonómico
+    tipo_disposicion: Resolución
+    fecha_publicacion: ''
+    estado: Vigente
+    redaccion: libro_azul
+    categoria_canonica: 02_gestion_y_administracion_centros
+    subcategoria: Colectivos de Escuelas Rurales (CER)
+    tags:
+    - canarias
+    - resolucion
+    - boc
+    - 02_gestion_y_administracion_centros
+    path: autonómica/canarias/02_gestion_y_administracion_centros/RES_viceconsejería_educación_universidades_deportes_23.md
   norm-can-d-101-2023:
     id: norm-can-d-101-2023
     codigo_sintetizado: D101_2023 Ordenacion y Curriculo de Educacion Primaria en
@@ -274,6 +789,1310 @@ normas:
     - primer_ciclo
     - segundo_ciclo
     path: autonómica/canarias/03_ordenacion_curricular_y_ensenanzas/D196_2022_curriculo_educacion_infantil_canarias.md
+  norm-can-res-boc-2021-114:
+    id: norm-can-res-boc-2021-114
+    codigo_sintetizado: Resolucion BOC 80
+    titulo: Resolución de 24 de mayo de 2021, por la que se actualizan las instrucciones
+      para la impartición de los cursos de preparación de pruebas de acceso a ciclos
+      formativos de grado medio y superior de Formación Profesional (BOC n.º 114,
+      de 4 de junio).
+    jurisdiccion: Canarias
+    ambito: Autonómico
+    tipo_disposicion: Resolución
+    fecha_publicacion: ''
+    estado: Vigente
+    redaccion: libro_azul
+    categoria_canonica: 03_ordenacion_curricular_y_ensenanzas
+    subcategoria: Educación de Personas Adultas
+    tags:
+    - canarias
+    - resolucion
+    - boc
+    - 03_ordenacion_curricular_y_ensenanzas
+    path: autonómica/canarias/03_ordenacion_curricular_y_ensenanzas/RES_actualizan_instrucciones_para_impartición_80.md
+  norm-can-res-boc-2022-243:
+    id: norm-can-res-boc-2022-243
+    codigo_sintetizado: Resolucion BOC 81
+    titulo: Resolución de 28 de noviembre de 2022, por la que se adaptan los documentos
+      oficiales de evaluación a la Educación Básica de Personas Adultas en la Comunidad
+      Autónoma de Canarias (BOC n.º 243, de 13 de diciembre).
+    jurisdiccion: Canarias
+    ambito: Autonómico
+    tipo_disposicion: Resolución
+    fecha_publicacion: ''
+    estado: Vigente
+    redaccion: libro_azul
+    categoria_canonica: 03_ordenacion_curricular_y_ensenanzas
+    subcategoria: Educación de Personas Adultas
+    tags:
+    - canarias
+    - resolucion
+    - boc
+    - 03_ordenacion_curricular_y_ensenanzas
+    path: autonómica/canarias/03_ordenacion_curricular_y_ensenanzas/RES_adaptan_documentos_oficiales_evaluación_81.md
+  norm-can-res-boc-2026-070-41:
+    id: norm-can-res-boc-2026-070-41
+    codigo_sintetizado: Resolucion BOC 41
+    titulo: Resolución de 26 de marzo de 2026, por la que se amplían la Resolución
+      de 30 de octubre de 2024, que dicta instrucciones y orientaciones para la implantación
+      y desarrollo de los grados de formación D y E, a partir del curso escolar 2024/2025,
+      y se establece la distribución horaria y modular de los currículos; y la Resolución
+      de 21 de febrero de 2025, que dicta instrucciones para la implantación de los
+      itinerarios formativos de Formación Profesional Adaptada y el desarrollo de
+      los currículos de los módulos de carácter general a partir del curso escolar
+      2024/2025, en el ámbito de la Comunidad Autónoma de Canarias.
+    jurisdiccion: Canarias
+    ambito: Autonómico
+    tipo_disposicion: Resolución
+    fecha_publicacion: ''
+    estado: Vigente
+    redaccion: libro_azul
+    categoria_canonica: 03_ordenacion_curricular_y_ensenanzas
+    subcategoria: Formación Profesional
+    tags:
+    - canarias
+    - resolucion
+    - boc
+    - 03_ordenacion_curricular_y_ensenanzas
+    path: autonómica/canarias/03_ordenacion_curricular_y_ensenanzas/RES_amplían_resolución_octubre_2024_41.md
+  norm-can-res-boc-2026-077-49:
+    id: norm-can-res-boc-2026-077-49
+    codigo_sintetizado: Resolucion BOC 49
+    titulo: 'Resolución de 10 de abril de 2026, por la que se convocan pruebas de
+      certificación de Enseñanzas de Idiomas de Régimen Especial para aspirantes libres
+      y alumnado escolarizado en las Escuelas Oficiales de Idiomas de la Comunidad
+      Autónoma de Canarias, y se dictan instrucciones para su organización y aplicación
+      en el curso 2025-2026. Fechas de inscripción: Aspirantes libres de todos los
+      niveles y aspirantes escolarizados/as de los niveles B1, B2, C1 y C2: del 29
+      de abril al 13 de mayo de 2026. Aspirantes escolarizados del nivel A2: del 27
+      de mayo al 1 de junio de 2026.'
+    jurisdiccion: Canarias
+    ambito: Autonómico
+    tipo_disposicion: Resolución
+    fecha_publicacion: ''
+    estado: Vigente
+    redaccion: libro_azul
+    categoria_canonica: 03_ordenacion_curricular_y_ensenanzas
+    subcategoria: Enseñanzas de Idiomas
+    tags:
+    - canarias
+    - resolucion
+    - boc
+    - 03_ordenacion_curricular_y_ensenanzas
+    path: autonómica/canarias/03_ordenacion_curricular_y_ensenanzas/RES_convocan_pruebas_certificación_enseñanzas_49.md
+  norm-can-res-juriscan-65632:
+    id: norm-can-res-juriscan-65632
+    codigo_sintetizado: Resolucion BOC 66
+    titulo: Resolución de 2 de junio de 2011, por la que se corrigen errores materiales
+      en la Resolución de 25 de mayo de 2011, que dicta instrucciones sobre organización
+      y desarrollo de las pruebas de acceso a las enseñanzas artísticas superiores
+      de Grado en Música, , Arte Dramático y Diseño en la Comunidad Autónoma de Canarias,
+      y convoca las correspondientes al curso académico 2011-2012 (BOC n.º 124, de
+      24 de junio).
+    jurisdiccion: Canarias
+    ambito: Autonómico
+    tipo_disposicion: Resolución
+    fecha_publicacion: ''
+    estado: Vigente
+    redaccion: libro_azul
+    categoria_canonica: 03_ordenacion_curricular_y_ensenanzas
+    subcategoria: Enseñanzas Artísticas
+    tags:
+    - canarias
+    - resolucion
+    - boc
+    - 03_ordenacion_curricular_y_ensenanzas
+    path: autonómica/canarias/03_ordenacion_curricular_y_ensenanzas/RES_corrigen_errores_materiales_resolución_66.md
+  norm-can-res-juriscan-65428:
+    id: norm-can-res-juriscan-65428
+    codigo_sintetizado: Resolucion BOC 64
+    titulo: Resolución de 12 de mayo de 2011, por la que se corrige el error de hecho
+      detectado, por omisión, en la publicación de la Orden de 29 de abril de 2011,
+      que aprueba, con carácter experimental, la implantación de los estudios oficiales
+      de Grado en Música, Arte Dramático y Diseño en el ámbito de la Comunidad Autónoma
+      de Canarias, al no insertarse los anexos I, II y III (BOC n.º 91, de 9 de mayo).
+    jurisdiccion: Canarias
+    ambito: Autonómico
+    tipo_disposicion: Resolución
+    fecha_publicacion: ''
+    estado: Vigente
+    redaccion: libro_azul
+    categoria_canonica: 03_ordenacion_curricular_y_ensenanzas
+    subcategoria: Enseñanzas Artísticas
+    tags:
+    - canarias
+    - resolucion
+    - boc
+    - 03_ordenacion_curricular_y_ensenanzas
+    path: autonómica/canarias/03_ordenacion_curricular_y_ensenanzas/RES_corrige_error_hecho_detectado_64.md
+  norm-can-res-028:
+    id: norm-can-res-028
+    codigo_sintetizado: Resolucion BOC 28
+    titulo: Resolución de 17 de abril de 2026, que corrige error en la Resolución
+      de 26 de marzo de 2026, por la que se amplían la Resolución de 30 de octubre
+      de 2024, que dicta instrucciones y orientaciones par la implantación y desarrollo
+      de los grados de formación D y E, a partir del curso escolar 2024/2025, y se
+      establece la distribución horaria y modular de los currículos; y la Resolución
+      de 21 de febrero de 2025, que dicta instrucciones para la implantación de los
+      itinerarios formativos de Formación Profesional Adaptada y el desarrollo de
+      los currículos de los módulos de carácter general a partir del curso escolar
+      2024/2025, en el ámbito de la Comunidad Autónoma de Canarias (BOC n.º 70, de
+      13.4.2026).
+    jurisdiccion: Canarias
+    ambito: Autonómico
+    tipo_disposicion: Resolución
+    fecha_publicacion: ''
+    estado: Vigente
+    redaccion: libro_azul
+    categoria_canonica: 03_ordenacion_curricular_y_ensenanzas
+    subcategoria: Formación Profesional
+    tags:
+    - canarias
+    - resolucion
+    - boc
+    - 03_ordenacion_curricular_y_ensenanzas
+    path: autonómica/canarias/03_ordenacion_curricular_y_ensenanzas/RES_corrige_error_resolución_marzo_28.md
+  norm-can-res-juriscan-70096-50:
+    id: norm-can-res-juriscan-70096-50
+    codigo_sintetizado: Resolucion BOC 50
+    titulo: Resolución de 14 de enero de 2014, por la que se determinan las características
+      de las pruebas comunes de obtención del certificado de especialización de nivel
+      C1 de enseñanzas de idiomas de régimen especial, en la Comunidad Autónoma de
+      Canarias.
+    jurisdiccion: Canarias
+    ambito: Autonómico
+    tipo_disposicion: Resolución
+    fecha_publicacion: ''
+    estado: Vigente
+    redaccion: libro_azul
+    categoria_canonica: 03_ordenacion_curricular_y_ensenanzas
+    subcategoria: Enseñanzas de Idiomas
+    tags:
+    - canarias
+    - resolucion
+    - boc
+    - 03_ordenacion_curricular_y_ensenanzas
+    path: autonómica/canarias/03_ordenacion_curricular_y_ensenanzas/RES_determinan_características_pruebas_comunes_50.md
+  norm-can-res-boc-2018-048-56:
+    id: norm-can-res-boc-2018-048-56
+    codigo_sintetizado: Resolucion BOC 56
+    titulo: Resolución de 27 de febrero de 2018, por la que se determinan las características
+      de las pruebas para la obtención del certificado de nivel C2 de enseñanzas de
+      idiomas de régimen especial, en la Comunidad Autónoma de Canarias (BOC n.º 48,
+      de 8 de marzo).
+    jurisdiccion: Canarias
+    ambito: Autonómico
+    tipo_disposicion: Resolución
+    fecha_publicacion: ''
+    estado: Vigente
+    redaccion: libro_azul
+    categoria_canonica: 03_ordenacion_curricular_y_ensenanzas
+    subcategoria: Enseñanzas de Idiomas
+    tags:
+    - canarias
+    - resolucion
+    - boc
+    - 03_ordenacion_curricular_y_ensenanzas
+    path: autonómica/canarias/03_ordenacion_curricular_y_ensenanzas/RES_determinan_características_pruebas_para_56.md
+  norm-can-res-boc-2019-069-48:
+    id: norm-can-res-boc-2019-069-48
+    codigo_sintetizado: Resolucion BOC 48
+    titulo: Resolución de 26 de marzo de 2019, por la que se determina el acceso a
+      los distintos cursos de enseñanzas de idiomas de régimen especial en aplicación
+      de lo establecido en la Orden de 21 de septiembre de 2016, de esta Consejería,
+      que regula el reconocimiento de la acreditación de la competencia lingüística
+      conforme al Marco Común Europeo de Referencia para las Lenguas en la Comunidad
+      Autónoma de Canarias (BOC n.º 69, de 9 de abril).
+    jurisdiccion: Canarias
+    ambito: Autonómico
+    tipo_disposicion: Resolución
+    fecha_publicacion: ''
+    estado: Vigente
+    redaccion: libro_azul
+    categoria_canonica: 03_ordenacion_curricular_y_ensenanzas
+    subcategoria: Enseñanzas de Idiomas
+    tags:
+    - canarias
+    - resolucion
+    - boc
+    - 03_ordenacion_curricular_y_ensenanzas
+    path: autonómica/canarias/03_ordenacion_curricular_y_ensenanzas/RES_determina_acceso_distintos_cursos_48.md
+  norm-can-res-boc-2022-087-31:
+    id: norm-can-res-boc-2022-087-31
+    codigo_sintetizado: Resolucion BOC 31
+    titulo: Resolución de 21 de abril de 2022, por la que se dictan instrucciones
+      para la organización y el funcionamiento del Curso Específico de Acceso a Ciclos
+      Formativos de Formación Profesional de Grado Medio que se impartirá en centros
+      de educación de personas adultas dependientes de esta Consejería (BOC n.º 87,
+      de 4 de mayo).
+    jurisdiccion: Canarias
+    ambito: Autonómico
+    tipo_disposicion: Resolución
+    fecha_publicacion: ''
+    estado: Vigente
+    redaccion: libro_azul
+    categoria_canonica: 03_ordenacion_curricular_y_ensenanzas
+    subcategoria: Formación Profesional
+    tags:
+    - canarias
+    - resolucion
+    - boc
+    - 03_ordenacion_curricular_y_ensenanzas
+    path: autonómica/canarias/03_ordenacion_curricular_y_ensenanzas/RES_dictan_instrucciones_para_organización_31.md
+  norm-can-res-040:
+    id: norm-can-res-040
+    codigo_sintetizado: Resolucion BOC 40
+    titulo: Resolución de 25 de junio de 2026, por la que se dictan instrucciones
+      para la organización y el funcionamiento de los cursos de acceso directo a ciclos
+      formativos CAD2 y CAD3 (cursos de formación preparatorios para acceder a ciclos
+      formativos de grado medio y superior) en Canarias.
+    jurisdiccion: Canarias
+    ambito: Autonómico
+    tipo_disposicion: Resolución
+    fecha_publicacion: ''
+    estado: Vigente
+    redaccion: libro_azul
+    categoria_canonica: 03_ordenacion_curricular_y_ensenanzas
+    subcategoria: Formación Profesional
+    tags:
+    - canarias
+    - resolucion
+    - boc
+    - 03_ordenacion_curricular_y_ensenanzas
+    path: autonómica/canarias/03_ordenacion_curricular_y_ensenanzas/RES_dictan_instrucciones_para_organización_40.md
+  norm-can-res-boc-2023-085-51:
+    id: norm-can-res-boc-2023-085-51
+    codigo_sintetizado: Resolucion BOC 51
+    titulo: Resolución de 18 de abril de 2023, por la que se dictan instrucciones
+      para la organización de los cursos de especialización en idiomas y se regula
+      la planificación y autorización de su oferta y la admisión del alumnado en las
+      Escuelas Oficiales de Idiomas de la Comunidad Autónoma de Canarias (BOC n.º
+      85, de 3 de mayo).
+    jurisdiccion: Canarias
+    ambito: Autonómico
+    tipo_disposicion: Resolución
+    fecha_publicacion: ''
+    estado: Vigente
+    redaccion: libro_azul
+    categoria_canonica: 03_ordenacion_curricular_y_ensenanzas
+    subcategoria: Enseñanzas de Idiomas
+    tags:
+    - canarias
+    - resolucion
+    - boc
+    - 03_ordenacion_curricular_y_ensenanzas
+    path: autonómica/canarias/03_ordenacion_curricular_y_ensenanzas/RES_dictan_instrucciones_para_organización_51.md
+  norm-can-res-boc-2021-109:
+    id: norm-can-res-boc-2021-109
+    codigo_sintetizado: Resolucion BOC 79
+    titulo: Resolución de 19 de mayo de 2021, por la que se dictan instrucciones para
+      la organización y el funcionamiento del Curso Específico de Acceso a Ciclos
+      Formativos de Formación Profesional de Grado Medio a impartir en centros de
+      educación de personas adultas dependientes de esta Consejería (BOC n.º 109,
+      de 28 de mayo).
+    jurisdiccion: Canarias
+    ambito: Autonómico
+    tipo_disposicion: Resolución
+    fecha_publicacion: ''
+    estado: Vigente
+    redaccion: libro_azul
+    categoria_canonica: 03_ordenacion_curricular_y_ensenanzas
+    subcategoria: Educación de Personas Adultas
+    tags:
+    - canarias
+    - resolucion
+    - boc
+    - 03_ordenacion_curricular_y_ensenanzas
+    path: autonómica/canarias/03_ordenacion_curricular_y_ensenanzas/RES_dictan_instrucciones_para_organización_79.md
+  norm-can-res-boc-2020-236:
+    id: norm-can-res-boc-2020-236
+    codigo_sintetizado: Resolucion BOC 82
+    titulo: Resolución de 5 de noviembre de 2020, por la que se dictan instrucciones
+      para la organización y el funcionamiento de los niveles básico, intermedio y
+      avanzado de la enseñanza del idioma inglés a distancia para personas adultas
+      That's English!
+    jurisdiccion: Canarias
+    ambito: Autonómico
+    tipo_disposicion: Resolución
+    fecha_publicacion: ''
+    estado: Vigente
+    redaccion: libro_azul
+    categoria_canonica: 03_ordenacion_curricular_y_ensenanzas
+    subcategoria: Educación de Personas Adultas
+    tags:
+    - canarias
+    - resolucion
+    - boc
+    - 03_ordenacion_curricular_y_ensenanzas
+    path: autonómica/canarias/03_ordenacion_curricular_y_ensenanzas/RES_dictan_instrucciones_para_organización_82.md
+  norm-can-res-boc-2026-077-62:
+    id: norm-can-res-boc-2026-077-62
+    codigo_sintetizado: Resolucion BOC 62
+    titulo: Resolución de 14 de abril de 2026, por la que se dictan instrucciones
+      para la planificación, realización y gestión, en el ámbito de la Comunidad Autónoma
+      de Canarias, de la Prueba para el Acceso a la Universidad, aplicables al alumnado
+      que haya cursado el Bachillerato, así como los Ciclos Formativos de Grado Superior
+      de Formación Profesional, de Enseñanzas Profesionales de Artes Pláticas y Diseño,
+      y de Enseñanzas Deportivas.
+    jurisdiccion: Canarias
+    ambito: Autonómico
+    tipo_disposicion: Resolución
+    fecha_publicacion: ''
+    estado: Vigente
+    redaccion: libro_azul
+    categoria_canonica: 03_ordenacion_curricular_y_ensenanzas
+    subcategoria: Bachillerato
+    tags:
+    - canarias
+    - resolucion
+    - boc
+    - 03_ordenacion_curricular_y_ensenanzas
+    path: autonómica/canarias/03_ordenacion_curricular_y_ensenanzas/RES_dictan_instrucciones_para_planificación_62.md
+  norm-can-res-064:
+    id: norm-can-res-064
+    codigo_sintetizado: Resolucion BOC 63
+    titulo: Resolución de 7 de abril de 2025, por la que se dictan instrucciones para
+      la planificación, realización y gestión, en el ámbito de la Comunidad Autónoma
+      de Canarias, de la Prueba para el Acceso a la Universidad, aplicables al alumnado
+      que haya cursado el Bachillerato, así como Ciclos Formativos de Grado Superior
+      de Formación Profesional, de Enseñanzas Profesionales de Artes Plásticas y Diseño,
+      y de Enseñanzas Deportivas (BOC nº 74, de 15 de abril).
+    jurisdiccion: Canarias
+    ambito: Autonómico
+    tipo_disposicion: Resolución
+    fecha_publicacion: ''
+    estado: Vigente
+    redaccion: libro_azul
+    categoria_canonica: 03_ordenacion_curricular_y_ensenanzas
+    subcategoria: Bachillerato
+    tags:
+    - canarias
+    - resolucion
+    - boc
+    - 03_ordenacion_curricular_y_ensenanzas
+    path: autonómica/canarias/03_ordenacion_curricular_y_ensenanzas/RES_dictan_instrucciones_para_planificación_63.md
+  norm-can-res-boc-2017-036:
+    id: norm-can-res-boc-2017-036
+    codigo_sintetizado: Resolucion BOC 71
+    titulo: Resolución de 8 de febrero de 2017, por la que se dictan instrucciones
+      para el proceso de evaluación en las Enseñanzas Artísticas Superiores en la
+      Comunidad Autónoma de Canarias (BOC n.º 36, de 21 de febrero).
+    jurisdiccion: Canarias
+    ambito: Autonómico
+    tipo_disposicion: Resolución
+    fecha_publicacion: ''
+    estado: Vigente
+    redaccion: libro_azul
+    categoria_canonica: 03_ordenacion_curricular_y_ensenanzas
+    subcategoria: Enseñanzas Artísticas
+    tags:
+    - canarias
+    - resolucion
+    - boc
+    - 03_ordenacion_curricular_y_ensenanzas
+    path: autonómica/canarias/03_ordenacion_curricular_y_ensenanzas/RES_dictan_instrucciones_para_proceso_71.md
+  norm-can-res-dictan-instrucciones-para-proceso-75:
+    id: norm-can-res-dictan-instrucciones-para-proceso-75
+    codigo_sintetizado: Resolucion BOC 75
+    titulo: Resolución de 4 de febrero de 2017, por la que se dictan instrucciones
+      para el proceso de evaluación en las enseñanzas deportivas de régimen especial
+      en el ámbito de la Comunidad Autónoma de Canarias (BOC n.º 36, de 21 de febrero).
+    jurisdiccion: Canarias
+    ambito: Autonómico
+    tipo_disposicion: Resolución
+    fecha_publicacion: ''
+    estado: Vigente
+    redaccion: libro_azul
+    categoria_canonica: 03_ordenacion_curricular_y_ensenanzas
+    subcategoria: Enseñanzas Deportivas
+    tags:
+    - canarias
+    - resolucion
+    - boc
+    - 03_ordenacion_curricular_y_ensenanzas
+    path: autonómica/canarias/03_ordenacion_curricular_y_ensenanzas/RES_dictan_instrucciones_para_proceso_75.md
+  norm-can-res-juriscan-74499:
+    id: norm-can-res-juriscan-74499
+    codigo_sintetizado: Resolucion BOC 67
+    titulo: Resolución de 20 de abril de 2016, por la que se dictan instrucciones
+      para la realización de las prácticas externas de los estudiantes de enseñanzas
+      artísticas superiores en la Comunidad Autónoma de Canarias (BOC n.º 86, de 5
+      de mayo).
+    jurisdiccion: Canarias
+    ambito: Autonómico
+    tipo_disposicion: Resolución
+    fecha_publicacion: ''
+    estado: Vigente
+    redaccion: libro_azul
+    categoria_canonica: 03_ordenacion_curricular_y_ensenanzas
+    subcategoria: Enseñanzas Artísticas
+    tags:
+    - canarias
+    - resolucion
+    - boc
+    - 03_ordenacion_curricular_y_ensenanzas
+    path: autonómica/canarias/03_ordenacion_curricular_y_ensenanzas/RES_dictan_instrucciones_para_realización_67.md
+  norm-can-res-juriscan-73844:
+    id: norm-can-res-juriscan-73844
+    codigo_sintetizado: Resolucion BOC 69
+    titulo: Resolución de 27 de noviembre de 2015, por la que se dictan instrucciones
+      para la realización del trabajo fin de estudios correspondiente a las Enseñanzas
+      Artísticas Superiores en la Comunidad Autónoma de Canarias, en el curso académico
+      2015-2016 (BOC n.º 245, de 18 de diciembre).
+    jurisdiccion: Canarias
+    ambito: Autonómico
+    tipo_disposicion: Resolución
+    fecha_publicacion: ''
+    estado: Vigente
+    redaccion: libro_azul
+    categoria_canonica: 03_ordenacion_curricular_y_ensenanzas
+    subcategoria: Enseñanzas Artísticas
+    tags:
+    - canarias
+    - resolucion
+    - boc
+    - 03_ordenacion_curricular_y_ensenanzas
+    path: autonómica/canarias/03_ordenacion_curricular_y_ensenanzas/RES_dictan_instrucciones_para_realización_69.md
+  norm-can-res-boc-2002-148:
+    id: norm-can-res-boc-2002-148
+    codigo_sintetizado: Resolucion BOC 77
+    titulo: Resolución de 14 de octubre de 2002, por la que se dictan instrucciones
+      para la realización de horas lectivas extraordinarias en centros que desarrollen
+      ofertas formativas de Educación de Personas Adultas (BOC n.º 148, de 6 de noviembre).
+    jurisdiccion: Canarias
+    ambito: Autonómico
+    tipo_disposicion: Resolución
+    fecha_publicacion: ''
+    estado: Vigente
+    redaccion: libro_azul
+    categoria_canonica: 03_ordenacion_curricular_y_ensenanzas
+    subcategoria: Educación de Personas Adultas
+    tags:
+    - canarias
+    - resolucion
+    - boc
+    - 03_ordenacion_curricular_y_ensenanzas
+    path: autonómica/canarias/03_ordenacion_curricular_y_ensenanzas/RES_dictan_instrucciones_para_realización_77.md
+  norm-can-res-boc-2019-143:
+    id: norm-can-res-boc-2019-143
+    codigo_sintetizado: Resolucion BOC 74
+    titulo: Resolución de 10 de julio de 2019, por la que se dictan instrucciones
+      relativas al procedimiento para el reconocimiento de correspondencias, convalidaciones
+      y exenciones en las enseñanzas deportivas de régimen especial en la Comunidad
+      Autónoma de Canarias (BOC n.º 143, de 26 de julio).
+    jurisdiccion: Canarias
+    ambito: Autonómico
+    tipo_disposicion: Resolución
+    fecha_publicacion: ''
+    estado: Vigente
+    redaccion: libro_azul
+    categoria_canonica: 03_ordenacion_curricular_y_ensenanzas
+    subcategoria: Enseñanzas Deportivas
+    tags:
+    - canarias
+    - resolucion
+    - boc
+    - 03_ordenacion_curricular_y_ensenanzas
+    path: autonómica/canarias/03_ordenacion_curricular_y_ensenanzas/RES_dictan_instrucciones_relativas_procedimiento_74.md
+  norm-can-res-boc-2025-118-46:
+    id: norm-can-res-boc-2025-118-46
+    codigo_sintetizado: Resolucion BOC 46
+    titulo: Resolución de 9 de junio de 2025, por la que se dictan instrucciones respecto
+      al proceso de evaluación en los Ciclos Formativos (Grados C y D) y Cursos de
+      Especialización (Grado E) del sistema de formación profesional que se imparten
+      en la Comunidad Autónoma de Canarias a partir del curso escolar 2024/2025.
+    jurisdiccion: Canarias
+    ambito: Autonómico
+    tipo_disposicion: Resolución
+    fecha_publicacion: ''
+    estado: Vigente
+    redaccion: libro_azul
+    categoria_canonica: 03_ordenacion_curricular_y_ensenanzas
+    subcategoria: Formación Profesional
+    tags:
+    - canarias
+    - resolucion
+    - boc
+    - 03_ordenacion_curricular_y_ensenanzas
+    path: autonómica/canarias/03_ordenacion_curricular_y_ensenanzas/RES_dictan_instrucciones_respecto_proceso_46.md
+  norm-can-res-boc-2019-234-52:
+    id: norm-can-res-boc-2019-234-52
+    codigo_sintetizado: Resolucion BOC 52
+    titulo: Resolución de 18 de noviembre de 2019, por la que se dictan instrucciones
+      sobre evaluación de las pruebas de certificación de enseñanzas de idiomas de
+      régimen especial en la Comunidad Autónoma de Canarias (BOC n.º 234, de 3 de
+      diciembre).
+    jurisdiccion: Canarias
+    ambito: Autonómico
+    tipo_disposicion: Resolución
+    fecha_publicacion: ''
+    estado: Vigente
+    redaccion: libro_azul
+    categoria_canonica: 03_ordenacion_curricular_y_ensenanzas
+    subcategoria: Enseñanzas de Idiomas
+    tags:
+    - canarias
+    - resolucion
+    - boc
+    - 03_ordenacion_curricular_y_ensenanzas
+    path: autonómica/canarias/03_ordenacion_curricular_y_ensenanzas/RES_dictan_instrucciones_sobre_evaluación_52.md
+  norm-can-res-juriscan-65631:
+    id: norm-can-res-juriscan-65631
+    codigo_sintetizado: Resolucion BOC 68
+    titulo: Resolución de 25 de mayo de 2011, por la que se dictan instrucciones sobre
+      organización y desarrollo de las pruebas de acceso a las enseñanzas artísticas
+      superiores de Grado en Música, Arte Dramático y Diseño en la Comunidad Autónoma
+      de Canarias, y se convocan las correspondientes al curso académico 2011 (BOC
+      n.º 106, de 31 de mayo).
+    jurisdiccion: Canarias
+    ambito: Autonómico
+    tipo_disposicion: Resolución
+    fecha_publicacion: ''
+    estado: Vigente
+    redaccion: libro_azul
+    categoria_canonica: 03_ordenacion_curricular_y_ensenanzas
+    subcategoria: Enseñanzas Artísticas
+    tags:
+    - canarias
+    - resolucion
+    - boc
+    - 03_ordenacion_curricular_y_ensenanzas
+    path: autonómica/canarias/03_ordenacion_curricular_y_ensenanzas/RES_dictan_instrucciones_sobre_organización_68.md
+  norm-can-res-boc-2024-230-25:
+    id: norm-can-res-boc-2024-230-25
+    codigo_sintetizado: Resolucion BOC 25
+    titulo: Resolución de 5 de noviembre de 2024,de la Dirección General de Formación
+      Profesional y Enseñanzas de Régimen Especial, por la que se dictan instrucciones
+      y orientaciones para la formación dual en empresas u organismos equiparados
+      en los Certificados Profesionales (Grado C), los Ciclos Formativos de Grado
+      Básico, Medio y Superior (Grados D, niveles 1, 2 y 3) y Cursos de Especialización
+      (Grado E, niveles 2 y 3), en aplicación del Real Decreto 659/2023, de 18 de
+      julio, en los centros docentes no universitarios de la Comunidad Autónoma de
+      Canarias.
+    jurisdiccion: Canarias
+    ambito: Autonómico
+    tipo_disposicion: Resolución
+    fecha_publicacion: ''
+    estado: Vigente
+    redaccion: libro_azul
+    categoria_canonica: 03_ordenacion_curricular_y_ensenanzas
+    subcategoria: Formación Profesional
+    tags:
+    - canarias
+    - resolucion
+    - boc
+    - 03_ordenacion_curricular_y_ensenanzas
+    path: autonómica/canarias/03_ordenacion_curricular_y_ensenanzas/RES_dirección_general_formación_profesional_25.md
+  norm-can-res-027:
+    id: norm-can-res-027
+    codigo_sintetizado: Resolucion BOC 27
+    titulo: Resolución de 10 de diciembre de 2024, de la Dirección General de Formación
+      Profesional y Enseñanzas de Régimen Especial,-por la que se dictan instrucciones
+      y orientaciones para la implantación y desarrollo de la oferta en las modalidades
+      semipresencial y virtual de certificados profesionales de Grado C, ciclos formativos
+      de Grado D y cursos especialización de Grado E a partir del curso 2024/2025
+      en el ámbito de la Comunidad Autónoma de Canarias (BOC nº 251, de 18 de diciembre).
+    jurisdiccion: Canarias
+    ambito: Autonómico
+    tipo_disposicion: Resolución
+    fecha_publicacion: ''
+    estado: Vigente
+    redaccion: libro_azul
+    categoria_canonica: 03_ordenacion_curricular_y_ensenanzas
+    subcategoria: Formación Profesional
+    tags:
+    - canarias
+    - resolucion
+    - boc
+    - 03_ordenacion_curricular_y_ensenanzas
+    path: autonómica/canarias/03_ordenacion_curricular_y_ensenanzas/RES_dirección_general_formación_profesional_27.md
+  norm-can-res-030:
+    id: norm-can-res-030
+    codigo_sintetizado: Resolucion BOC 30
+    titulo: Resolución de 2 de mayo de 2025, de la Dirección General de Formación
+      Profesional y Enseñanzas de Régimen Especial por la que se dictan instrucciones
+      para la organización de la oferta de dobles titulaciones de formación profesional
+      (Grados D) de ciclos formativos con el primer curso en común en la Comunidad
+      Autónoma de Canarias a partir del curso 2025/2026 (BOC n.º 93, de 12 de mayo).
+    jurisdiccion: Canarias
+    ambito: Autonómico
+    tipo_disposicion: Resolución
+    fecha_publicacion: ''
+    estado: Vigente
+    redaccion: libro_azul
+    categoria_canonica: 03_ordenacion_curricular_y_ensenanzas
+    subcategoria: Formación Profesional
+    tags:
+    - canarias
+    - resolucion
+    - boc
+    - 03_ordenacion_curricular_y_ensenanzas
+    path: autonómica/canarias/03_ordenacion_curricular_y_ensenanzas/RES_dirección_general_formación_profesional_30.md
+  norm-can-res-032:
+    id: norm-can-res-032
+    codigo_sintetizado: Resolucion BOC 32
+    titulo: Resolución de 25 de febrero de 2026, de la Dirección General de Formación
+      Profesional y Enseñanzas de Régimen Especial por la que se dictan instrucciones
+      para la implantación y desarrollo del módulo profesional optativo en las ofertas
+      formativas de Grados D, niveles 2 (ciclos formativos de grado medio) y 3 (ciclos
+      formativos de grado superior), a partir del curso escolar 2026/2027, en la Comunidad
+      Autónoma de Canarias (BOC n.º 43, de 4 de marzo).
+    jurisdiccion: Canarias
+    ambito: Autonómico
+    tipo_disposicion: Resolución
+    fecha_publicacion: ''
+    estado: Vigente
+    redaccion: libro_azul
+    categoria_canonica: 03_ordenacion_curricular_y_ensenanzas
+    subcategoria: Formación Profesional
+    tags:
+    - canarias
+    - resolucion
+    - boc
+    - 03_ordenacion_curricular_y_ensenanzas
+    path: autonómica/canarias/03_ordenacion_curricular_y_ensenanzas/RES_dirección_general_formación_profesional_32.md
+  norm-can-res-042:
+    id: norm-can-res-042
+    codigo_sintetizado: Resolucion BOC 42
+    titulo: Resolución de 26 de noviembre de 2025, de la Dirección General de Formación
+      Profesional y Enseñanzas de Régimen Especial,por la que se dictan instrucciones
+      para la implantación y desarrollo de la oferta de dobles titulaciones de formación
+      profesional (Grados D) en la Comunidad Autónoma de Canarias, a partir del curso
+      escolar 2026/2027 (BOC n.º 250, de 18 de diciembre)
+    jurisdiccion: Canarias
+    ambito: Autonómico
+    tipo_disposicion: Resolución
+    fecha_publicacion: ''
+    estado: Vigente
+    redaccion: libro_azul
+    categoria_canonica: 03_ordenacion_curricular_y_ensenanzas
+    subcategoria: Formación Profesional
+    tags:
+    - canarias
+    - resolucion
+    - boc
+    - 03_ordenacion_curricular_y_ensenanzas
+    path: autonómica/canarias/03_ordenacion_curricular_y_ensenanzas/RES_dirección_general_formación_profesional_42.md
+  norm-can-res-043:
+    id: norm-can-res-043
+    codigo_sintetizado: Resolucion BOC 43
+    titulo: Resolución de 29 de julio de 2025, de la Dirección General de Formación
+      Profesional y Enseñanzas de Régimen Especial por la que se dictan instrucciones
+      y se establece el calendario para la renovación parcial o la nueva constitución
+      de los Consejos Sociales en los centros integrados de formación profesional,
+      de la Comunidad Autónoma de Canarias, a celebrar en el curso escolar 2025/2026
+      (BOC núm. 158, de 11 de agosto).
+    jurisdiccion: Canarias
+    ambito: Autonómico
+    tipo_disposicion: Resolución
+    fecha_publicacion: ''
+    estado: Vigente
+    redaccion: libro_azul
+    categoria_canonica: 03_ordenacion_curricular_y_ensenanzas
+    subcategoria: Formación Profesional
+    tags:
+    - canarias
+    - resolucion
+    - boc
+    - 03_ordenacion_curricular_y_ensenanzas
+    path: autonómica/canarias/03_ordenacion_curricular_y_ensenanzas/RES_dirección_general_formación_profesional_43.md
+  norm-can-res-boc-2024-226-44:
+    id: norm-can-res-boc-2024-226-44
+    codigo_sintetizado: Resolucion BOC 44
+    titulo: Resolución de 30 de octubre de 2024, de la Dirección General de Formación
+      Profesional y Enseñanzas de Régimen Especial, por la que se dictan instrucciones
+      y orientaciones para la implantación y desarrollo de los grados de formación
+      D y E, a partir del curso escolar 2024/2025, y se establece la distribución
+      horaria y modular de los currículos, en el ámbito de la Comunidad Autónoma de
+      Canarias.
+    jurisdiccion: Canarias
+    ambito: Autonómico
+    tipo_disposicion: Resolución
+    fecha_publicacion: ''
+    estado: Vigente
+    redaccion: libro_azul
+    categoria_canonica: 03_ordenacion_curricular_y_ensenanzas
+    subcategoria: Formación Profesional
+    tags:
+    - canarias
+    - resolucion
+    - boc
+    - 03_ordenacion_curricular_y_ensenanzas
+    path: autonómica/canarias/03_ordenacion_curricular_y_ensenanzas/RES_dirección_general_formación_profesional_44.md
+  norm-can-res-045:
+    id: norm-can-res-045
+    codigo_sintetizado: Resolucion BOC 45
+    titulo: Resolución de 9 de junio de 2025, de la Dirección General de Formación
+      Profesional y Enseñanzas de Régimen Especial, por la que se dictan instrucciones
+      respecto al proceso de evaluación en los Ciclos Formativos (Grados C y D) y
+      Cursos de Especialización (Grado E) del sistema de formación profesional que
+      se imparten en la Comunidad Autónoma de Canarias a partir del curso escolar
+      2024/2025 (BOC nº 118, de 17 de junio).
+    jurisdiccion: Canarias
+    ambito: Autonómico
+    tipo_disposicion: Resolución
+    fecha_publicacion: ''
+    estado: Vigente
+    redaccion: libro_azul
+    categoria_canonica: 03_ordenacion_curricular_y_ensenanzas
+    subcategoria: Formación Profesional
+    tags:
+    - canarias
+    - resolucion
+    - boc
+    - 03_ordenacion_curricular_y_ensenanzas
+    path: autonómica/canarias/03_ordenacion_curricular_y_ensenanzas/RES_dirección_general_formación_profesional_45.md
+  norm-can-res-053:
+    id: norm-can-res-053
+    codigo_sintetizado: Resolucion BOC 53
+    titulo: Resolución de 19 de noviembre de 2025, de la Dirección General de Formación
+      Profesional y Enseñanzas de Régimen Especial.por la que se convocan pruebas
+      para la obtención de la certificación de Enseñanzas de Idiomas de Régimen Especial
+      destinadas a la población escolar de centros docentes públicos de la Comunidad
+      Autónoma de Canarias, y se dictan instrucciones para su organización y aplicación
+      en el curso 2025/2026 (BOC nº 238, de 1 de diciembre).
+    jurisdiccion: Canarias
+    ambito: Autonómico
+    tipo_disposicion: Resolución
+    fecha_publicacion: ''
+    estado: Vigente
+    redaccion: libro_azul
+    categoria_canonica: 03_ordenacion_curricular_y_ensenanzas
+    subcategoria: Enseñanzas de Idiomas
+    tags:
+    - canarias
+    - resolucion
+    - boc
+    - 03_ordenacion_curricular_y_ensenanzas
+    path: autonómica/canarias/03_ordenacion_curricular_y_ensenanzas/RES_dirección_general_formación_profesional_53.md
+  norm-can-res-juriscan-49002-54:
+    id: norm-can-res-juriscan-49002-54
+    codigo_sintetizado: Resolucion BOC 54
+    titulo: Resolución de 23 de julio de 2004, de la Dirección General de Formación
+      Profesional y Educación de Adultos, por la que se dictan instrucciones para
+      la organización y funcionamiento de las Escuelas Oficiales de Idiomas dependientes
+      de la Consejería de Educación, Cultura y Deportes del Gobierno de Canarias (BOC
+      n.º 160, de 19 de agosto).
+    jurisdiccion: Canarias
+    ambito: Autonómico
+    tipo_disposicion: Resolución
+    fecha_publicacion: ''
+    estado: Vigente
+    redaccion: libro_azul
+    categoria_canonica: 03_ordenacion_curricular_y_ensenanzas
+    subcategoria: Enseñanzas de Idiomas
+    tags:
+    - canarias
+    - resolucion
+    - boc
+    - 03_ordenacion_curricular_y_ensenanzas
+    path: autonómica/canarias/03_ordenacion_curricular_y_ensenanzas/RES_dirección_general_formación_profesional_54.md
+  norm-can-res-055:
+    id: norm-can-res-055
+    codigo_sintetizado: Resolucion BOC 55
+    titulo: Resolución de 26 de junio de 2025, de la Dirección General de Formación
+      Profesional y Enseñanzas de Régimen Especial, por la que se dictan instrucciones
+      específicas complementarias para el curso 2025/2026 sobre organización, funcionamiento
+      y calendario de las Enseñanzas de Idiomas de Régimen Especial impartidas en
+      las Escuelas Oficiales de Idiomas de la Comunidad Autónoma de Canarias (BOC
+      núm.134, de 8 de julio).
+    jurisdiccion: Canarias
+    ambito: Autonómico
+    tipo_disposicion: Resolución
+    fecha_publicacion: ''
+    estado: Vigente
+    redaccion: libro_azul
+    categoria_canonica: 03_ordenacion_curricular_y_ensenanzas
+    subcategoria: Enseñanzas de Idiomas
+    tags:
+    - canarias
+    - resolucion
+    - boc
+    - 03_ordenacion_curricular_y_ensenanzas
+    path: autonómica/canarias/03_ordenacion_curricular_y_ensenanzas/RES_dirección_general_formación_profesional_55.md
+  norm-can-res-boc-2023-133-57:
+    id: norm-can-res-boc-2023-133-57
+    codigo_sintetizado: Resolucion BOC 57
+    titulo: Resolución de 27 de junio de 2023, de la Dirección General de Formación
+      Profesional y Educación de Adultos por la que se dictan instrucciones específicas
+      sobre organización y funcionamiento de la Escuela Oficial de Idiomas a Distancia
+      de Canarias. (BOC n.º 133, de 10 de julio).
+    jurisdiccion: Canarias
+    ambito: Autonómico
+    tipo_disposicion: Resolución
+    fecha_publicacion: ''
+    estado: Vigente
+    redaccion: libro_azul
+    categoria_canonica: 03_ordenacion_curricular_y_ensenanzas
+    subcategoria: Enseñanzas de Idiomas
+    tags:
+    - canarias
+    - resolucion
+    - boc
+    - 03_ordenacion_curricular_y_ensenanzas
+    path: autonómica/canarias/03_ordenacion_curricular_y_ensenanzas/RES_dirección_general_formación_profesional_57.md
+  norm-can-res-boc-2012-035-58:
+    id: norm-can-res-boc-2012-035-58
+    codigo_sintetizado: Resolucion BOC 58
+    titulo: Resolución de 3 de febrero de 2012, de la Dirección General de Formación
+      Profesional y Educación de Adultos (DGFPEA), por la que se dictan instrucciones
+      para la elaboración de las pruebas comunes de obtención de los certificados
+      enseñanzas de idiomas de régimen especial, en la Comunidad Autónoma de Canarias,
+      a partir del curso 2012-2013.
+    jurisdiccion: Canarias
+    ambito: Autonómico
+    tipo_disposicion: Resolución
+    fecha_publicacion: ''
+    estado: Vigente
+    redaccion: libro_azul
+    categoria_canonica: 03_ordenacion_curricular_y_ensenanzas
+    subcategoria: Enseñanzas de Idiomas
+    tags:
+    - canarias
+    - resolucion
+    - boc
+    - 03_ordenacion_curricular_y_ensenanzas
+    path: autonómica/canarias/03_ordenacion_curricular_y_ensenanzas/RES_dirección_general_formación_profesional_58.md
+  norm-can-res-boc-2017-220:
+    id: norm-can-res-boc-2017-220
+    codigo_sintetizado: Resolucion BOC 70
+    titulo: Resolución de 6 de noviembre de 2017, de la Dirección General de Formación
+      Profesional y Educación de Adultos, por la que se dictan instrucciones para
+      la organización y la evaluación de los módulos de obra final y de proyecto integrado
+      de las enseñanzas profesionales de Artes Plásticas y Diseño en la Comunidad
+      Autónoma de Canarias (BOC n.º 220, de 15 de noviembre).
+    jurisdiccion: Canarias
+    ambito: Autonómico
+    tipo_disposicion: Resolución
+    fecha_publicacion: ''
+    estado: Vigente
+    redaccion: libro_azul
+    categoria_canonica: 03_ordenacion_curricular_y_ensenanzas
+    subcategoria: Enseñanzas Artísticas
+    tags:
+    - canarias
+    - resolucion
+    - boc
+    - 03_ordenacion_curricular_y_ensenanzas
+    path: autonómica/canarias/03_ordenacion_curricular_y_ensenanzas/RES_dirección_general_formación_profesional_70.md
+  norm-can-res-boc-2004-158:
+    id: norm-can-res-boc-2004-158
+    codigo_sintetizado: Resolucion BOC 76
+    titulo: Resolución de 14 de julio de 2004, de la Dirección General de Formación
+      Profesional y Educación de Adultos, por la que se dictan instrucciones para
+      el funcionamiento de las Aulas Mentor.
+    jurisdiccion: Canarias
+    ambito: Autonómico
+    tipo_disposicion: Resolución
+    fecha_publicacion: ''
+    estado: Vigente
+    redaccion: libro_azul
+    categoria_canonica: 03_ordenacion_curricular_y_ensenanzas
+    subcategoria: Educación de Personas Adultas
+    tags:
+    - canarias
+    - resolucion
+    - boc
+    - 03_ordenacion_curricular_y_ensenanzas
+    path: autonómica/canarias/03_ordenacion_curricular_y_ensenanzas/RES_dirección_general_formación_profesional_76.md
+  norm-can-res-juriscan-72788-60:
+    id: norm-can-res-juriscan-72788-60
+    codigo_sintetizado: Resolucion BOC 60
+    titulo: Resolución de 13 de mayo de 2015, de la Dirección General de Ordenación,
+      Innovación y Promoción Educativa de la Consejería de Educación, Universidades
+      y Sostenibilidad, por la que se establecen las rúbricas de los criterios de
+      evaluación del segundo ciclo de la Educación Infantil y de la Educación Primaria
+      para orientar y facilitar la evaluación objetiva del alumnado en la Comunidad
+      Autónoma de Canarias (BOC n.º 100, de 27 de mayo).
+    jurisdiccion: Canarias
+    ambito: Autonómico
+    tipo_disposicion: Resolución
+    fecha_publicacion: ''
+    estado: Vigente
+    redaccion: libro_azul
+    categoria_canonica: 03_ordenacion_curricular_y_ensenanzas
+    subcategoria: Educación Infantil
+    tags:
+    - canarias
+    - resolucion
+    - boc
+    - 03_ordenacion_curricular_y_ensenanzas
+    path: autonómica/canarias/03_ordenacion_curricular_y_ensenanzas/RES_dirección_general_ordenación_innovación_60.md
+  norm-can-res-juriscan-72176:
+    id: norm-can-res-juriscan-72176
+    codigo_sintetizado: Resolucion BOC 78
+    titulo: Resolución de 18 de febrero de 2015, por la que se dispone la publicación
+      del Reglamento de acceso a la Universidad de La Laguna para mayores de 25, 40
+      y 45 años.
+    jurisdiccion: Canarias
+    ambito: Autonómico
+    tipo_disposicion: Resolución
+    fecha_publicacion: ''
+    estado: Vigente
+    redaccion: libro_azul
+    categoria_canonica: 03_ordenacion_curricular_y_ensenanzas
+    subcategoria: Educación de Personas Adultas
+    tags:
+    - canarias
+    - resolucion
+    - boc
+    - 03_ordenacion_curricular_y_ensenanzas
+    path: autonómica/canarias/03_ordenacion_curricular_y_ensenanzas/RES_dispone_publicación_reglamento_acceso_78.md
+  norm-can-res-033:
+    id: norm-can-res-033
+    codigo_sintetizado: Resolucion BOC 33
+    titulo: Resolución de 25 de febrero de 2026, por la que se establece la distribución
+      horaria y estructura modular de los Grados C (Certificados Profesionales) y
+      sus correspondientes Grados B (Certificados de Competencia), de niveles 2 y
+      3, de la familia profesional de Hostelería y Turismo, en el ámbito de la Comunidad
+      Autónoma de Canarias.
+    jurisdiccion: Canarias
+    ambito: Autonómico
+    tipo_disposicion: Resolución
+    fecha_publicacion: ''
+    estado: Vigente
+    redaccion: libro_azul
+    categoria_canonica: 03_ordenacion_curricular_y_ensenanzas
+    subcategoria: Formación Profesional
+    tags:
+    - canarias
+    - resolucion
+    - boc
+    - 03_ordenacion_curricular_y_ensenanzas
+    path: autonómica/canarias/03_ordenacion_curricular_y_ensenanzas/RES_establece_distribución_horaria_estructura_33.md
+  norm-can-res-034:
+    id: norm-can-res-034
+    codigo_sintetizado: Resolucion BOC 34
+    titulo: Resolución de 25 de febrero de 2026, por la que se establece la distribución
+      horaria y estructura modular de los Grados C (Certificados Profesionales) y
+      sus correspondientes Grados B (Certificados de Competencia), de niveles 2 y
+      3, de las familias profesionales de Actividades Físicas y Deportivas; Comercio
+      y Marketing; y Marítimo-Pesquera, en el ámbito de la Comunidad Autónoma de Canarias.
+    jurisdiccion: Canarias
+    ambito: Autonómico
+    tipo_disposicion: Resolución
+    fecha_publicacion: ''
+    estado: Vigente
+    redaccion: libro_azul
+    categoria_canonica: 03_ordenacion_curricular_y_ensenanzas
+    subcategoria: Formación Profesional
+    tags:
+    - canarias
+    - resolucion
+    - boc
+    - 03_ordenacion_curricular_y_ensenanzas
+    path: autonómica/canarias/03_ordenacion_curricular_y_ensenanzas/RES_establece_distribución_horaria_estructura_34.md
+  norm-can-res-035:
+    id: norm-can-res-035
+    codigo_sintetizado: Resolucion BOC 35
+    titulo: Resolución de 25 de febrero de 2026, por la que se establece la distribución
+      horaria y estructura modular de los Grados C (Certificados Profesionales) y
+      sus correspondientes Grados B (Certificados de Competencia), de niveles 2 y
+      3, de las familias profesionales de Administración y Gestión; Agraria; Informática
+      y Comunicaciones; y Madera, Mueble y Corcho, en el ámbito de la Comunidad Autónoma
+      de Canarias.
+    jurisdiccion: Canarias
+    ambito: Autonómico
+    tipo_disposicion: Resolución
+    fecha_publicacion: ''
+    estado: Vigente
+    redaccion: libro_azul
+    categoria_canonica: 03_ordenacion_curricular_y_ensenanzas
+    subcategoria: Formación Profesional
+    tags:
+    - canarias
+    - resolucion
+    - boc
+    - 03_ordenacion_curricular_y_ensenanzas
+    path: autonómica/canarias/03_ordenacion_curricular_y_ensenanzas/RES_establece_distribución_horaria_estructura_35.md
+  norm-can-res-036:
+    id: norm-can-res-036
+    codigo_sintetizado: Resolucion BOC 36
+    titulo: Resolución de 25 de febrero de 2026, por la que se establece la distribución
+      horaria y estructura modular de los Grados C (Certificados Profesionales) y
+      sus correspondientes Grados B (Certificados de Competencia), de niveles 2 y
+      3, de las familias profesionales de Artes Gráficas; Fabricación Mecánica; y
+      Servicios Socioculturales y a la Comunidad, en el ámbito de la Comunidad Autónoma
+      de Canarias.
+    jurisdiccion: Canarias
+    ambito: Autonómico
+    tipo_disposicion: Resolución
+    fecha_publicacion: ''
+    estado: Vigente
+    redaccion: libro_azul
+    categoria_canonica: 03_ordenacion_curricular_y_ensenanzas
+    subcategoria: Formación Profesional
+    tags:
+    - canarias
+    - resolucion
+    - boc
+    - 03_ordenacion_curricular_y_ensenanzas
+    path: autonómica/canarias/03_ordenacion_curricular_y_ensenanzas/RES_establece_distribución_horaria_estructura_36.md
+  norm-can-res-037:
+    id: norm-can-res-037
+    codigo_sintetizado: Resolucion BOC 37
+    titulo: Resolución de 25 de febrero de 2026, por la que se establece la distribución
+      horaria y estructura modular de los Grados C (Certificados Profesionales) y
+      sus correspondientes Grados B (Certificados de Competencia), de niveles 2 y
+      3, de las familias profesionales de Edificación y Obra Civil; Electricidad y
+      Electrónica; Energía y Agua; e Industrias Extractivas, en el ámbito de la Comunidad
+      Autónoma de Canarias.
+    jurisdiccion: Canarias
+    ambito: Autonómico
+    tipo_disposicion: Resolución
+    fecha_publicacion: ''
+    estado: Vigente
+    redaccion: libro_azul
+    categoria_canonica: 03_ordenacion_curricular_y_ensenanzas
+    subcategoria: Formación Profesional
+    tags:
+    - canarias
+    - resolucion
+    - boc
+    - 03_ordenacion_curricular_y_ensenanzas
+    path: autonómica/canarias/03_ordenacion_curricular_y_ensenanzas/RES_establece_distribución_horaria_estructura_37.md
+  norm-can-res-038:
+    id: norm-can-res-038
+    codigo_sintetizado: Resolucion BOC 38
+    titulo: Resolución de 25 de febrero de 2026, por la que se establece la distribución
+      horaria y estructura modular de los Grados C (Certificados Profesionales) y
+      sus correspondientes Grados B (Certificados de Competencia), de niveles 2 y
+      3, de las familias profesionales de Imagen Personal; Imagen y Sonido; Instalación
+      y Mantenimiento; y Química, en el ámbito de la Comunidad Autónoma de Canarias.
+    jurisdiccion: Canarias
+    ambito: Autonómico
+    tipo_disposicion: Resolución
+    fecha_publicacion: ''
+    estado: Vigente
+    redaccion: libro_azul
+    categoria_canonica: 03_ordenacion_curricular_y_ensenanzas
+    subcategoria: Formación Profesional
+    tags:
+    - canarias
+    - resolucion
+    - boc
+    - 03_ordenacion_curricular_y_ensenanzas
+    path: autonómica/canarias/03_ordenacion_curricular_y_ensenanzas/RES_establece_distribución_horaria_estructura_38.md
+  norm-can-res-039:
+    id: norm-can-res-039
+    codigo_sintetizado: Resolucion BOC 39
+    titulo: Resolución de 25 de febrero de 2026, por la que se establece la distribución
+      horaria y estructura modular de los Grados C (Certificados Profesionales) y
+      sus correspondientes Grados B (Certificados de Competencia), de niveles 2 y
+      3, de las familias profesionales de Industrias Alimentarias; Seguridad y Medio
+      Ambiente; Textil, Confección y Piel; y Transporte y Mantenimiento de Vehículos,
+      en el ámbito de la Comunidad Autónoma de Canarias.
+    jurisdiccion: Canarias
+    ambito: Autonómico
+    tipo_disposicion: Resolución
+    fecha_publicacion: ''
+    estado: Vigente
+    redaccion: libro_azul
+    categoria_canonica: 03_ordenacion_curricular_y_ensenanzas
+    subcategoria: Formación Profesional
+    tags:
+    - canarias
+    - resolucion
+    - boc
+    - 03_ordenacion_curricular_y_ensenanzas
+    path: autonómica/canarias/03_ordenacion_curricular_y_ensenanzas/RES_establece_distribución_horaria_estructura_39.md
+  norm-can-res-boc-2025-046-47:
+    id: norm-can-res-boc-2025-046-47
+    codigo_sintetizado: Resolucion BOC 47
+    titulo: Resolución de la Dirección General de Formación Profesional y Enseñanzas
+      de Régimen Especial, de 21 de febrero de 2025, por la que se dictan instrucciones
+      para la implantación de los itinerarios formativos de Formación Profesional
+      Adaptada y el desarrollo de los currículos de los módulos de carácter general
+      a partir del curso escolar 2024/2025, en el ámbito de la Comunidad Autónoma
+      de Canarias
+    jurisdiccion: Canarias
+    ambito: Autonómico
+    tipo_disposicion: Resolución
+    fecha_publicacion: ''
+    estado: Vigente
+    redaccion: libro_azul
+    categoria_canonica: 03_ordenacion_curricular_y_ensenanzas
+    subcategoria: Formación Profesional
+    tags:
+    - canarias
+    - resolucion
+    - boc
+    - 03_ordenacion_curricular_y_ensenanzas
+    path: autonómica/canarias/03_ordenacion_curricular_y_ensenanzas/RES_febrero_2025_dictan_instrucciones_47.md
+  norm-can-res-juriscan-55445:
+    id: norm-can-res-juriscan-55445
+    codigo_sintetizado: Resolucion BOC 83
+    titulo: Resolución de 7 de noviembre de 2006, por la que se hacen públicas las
+      modificaciones al Reglamento que regula en la Universidad de Las Palmas de Gran
+      Canaria el Acceso para mayores de 25 años (BOC n.º 226, de 21 de noviembre).
+    jurisdiccion: Canarias
+    ambito: Autonómico
+    tipo_disposicion: Resolución
+    fecha_publicacion: ''
+    estado: Vigente
+    redaccion: libro_azul
+    categoria_canonica: 03_ordenacion_curricular_y_ensenanzas
+    subcategoria: Educación de Personas Adultas
+    tags:
+    - canarias
+    - resolucion
+    - boc
+    - 03_ordenacion_curricular_y_ensenanzas
+    path: autonómica/canarias/03_ordenacion_curricular_y_ensenanzas/RES_hacen_públicas_modificaciones_reglamento_83.md
+  norm-can-res-juriscan-48984:
+    id: norm-can-res-juriscan-48984
+    codigo_sintetizado: Resolucion BOC 84
+    titulo: Resolución de 9 de julio de 2004, por la que se hace público el Reglamento
+      que regula en la Universidad de Las Palmas de Gran Canaria el Acceso para Mayores
+      de 25 años (BOC n.º 157, de 13 de agosto).
+    jurisdiccion: Canarias
+    ambito: Autonómico
+    tipo_disposicion: Resolución
+    fecha_publicacion: ''
+    estado: Vigente
+    redaccion: libro_azul
+    categoria_canonica: 03_ordenacion_curricular_y_ensenanzas
+    subcategoria: Educación de Personas Adultas
+    tags:
+    - canarias
+    - resolucion
+    - boc
+    - 03_ordenacion_curricular_y_ensenanzas
+    path: autonómica/canarias/03_ordenacion_curricular_y_ensenanzas/RES_hace_público_reglamento_regula_84.md
+  norm-can-res-boc-2026-060-61:
+    id: norm-can-res-boc-2026-060-61
+    codigo_sintetizado: Resolucion BOC 61
+    titulo: 'Resolución de la Dirección General de Ordenación de las Enseñanzas, Inclusión
+      e Innovación, por la que se dictan instrucciones para regular la implantación,
+      con carácter de experiencia piloto, del Programa del Diploma del Bachillerato
+      Internacional en centros educativos públicos de la Comunidad Autónoma de Canarias,
+      durante el curso 2026-2027. Presentación de solicitudes de participación del
+      alumnado por vía telemática: del 20 de abril al 11 de mayo (BOC nº 60, de 27
+      de marzo).'
+    jurisdiccion: Canarias
+    ambito: Autonómico
+    tipo_disposicion: Resolución
+    fecha_publicacion: ''
+    estado: Vigente
+    redaccion: libro_azul
+    categoria_canonica: 03_ordenacion_curricular_y_ensenanzas
+    subcategoria: Bachillerato
+    tags:
+    - canarias
+    - resolucion
+    - boc
+    - 03_ordenacion_curricular_y_ensenanzas
+    path: autonómica/canarias/03_ordenacion_curricular_y_ensenanzas/RES_inclusión_innovación_dictan_instrucciones_61.md
+  norm-can-res-boc-2004-189:
+    id: norm-can-res-boc-2004-189
+    codigo_sintetizado: Resolucion BOC 65
+    titulo: '- Resolución de la Dirección General de Formación Profesional y Educación
+      de Adultos,de 27 de julio de 2004, por la que se hacen públicas las instrucciones
+      dictadas sobre la organización y funcionamiento de los Conservatorios y Centros
+      Autorizados elementales y profesionales de música, en la Comunidad Autónoma
+      de Canarias'
+    jurisdiccion: Canarias
+    ambito: Autonómico
+    tipo_disposicion: Resolución
+    fecha_publicacion: ''
+    estado: Vigente
+    redaccion: libro_azul
+    categoria_canonica: 03_ordenacion_curricular_y_ensenanzas
+    subcategoria: Enseñanzas Artísticas
+    tags:
+    - canarias
+    - resolucion
+    - boc
+    - 03_ordenacion_curricular_y_ensenanzas
+    path: autonómica/canarias/03_ordenacion_curricular_y_ensenanzas/RES_julio_2004_hacen_públicas_65.md
+  norm-can-res-boc-2026-141-29:
+    id: norm-can-res-boc-2026-141-29
+    codigo_sintetizado: Resolucion BOC 29
+    titulo: Resolución de 2 de julio de 2026, por la que se modifican cuadros horarios
+      establecidos en las Resoluciones de 26 de noviembre de 2025 y de 27 de enero
+      de 2026, por las que se dictan instrucciones para la implantación y desarrollo
+      de la oferta de dobles titulaciones de formación profesional (Grados D) en la
+      Comunidad Autónoma de Canarias, a partir del curso escolar 2026/2027. (BOC n.º
+      141, de 15 de julio)
+    jurisdiccion: Canarias
+    ambito: Autonómico
+    tipo_disposicion: Resolución
+    fecha_publicacion: ''
+    estado: Vigente
+    redaccion: libro_azul
+    categoria_canonica: 03_ordenacion_curricular_y_ensenanzas
+    subcategoria: Formación Profesional
+    tags:
+    - canarias
+    - resolucion
+    - boc
+    - 03_ordenacion_curricular_y_ensenanzas
+    path: autonómica/canarias/03_ordenacion_curricular_y_ensenanzas/RES_modifican_cuadros_horarios_establecidos_29.md
+  norm-can-res-059:
+    id: norm-can-res-059
+    codigo_sintetizado: Resolucion BOC 59
+    titulo: Resolución de la Dirección General de Formación Profesional y Enseñanzas
+      de Régimen Especial, número 597/2025 de 4 de diciembre, por la que se convocan
+      pruebas para la obtención de certificados de nivel intermedio B2 y nivel avanzado
+      C1 de Inglés de Enseñanzas de Idiomas de Régimen Especial en la Comunidad Autónoma
+      de Canarias y se dictan instrucciones para su organización y aplicación en el
+      curso 2025-2026 (BOC núm 250, de 18 de diciembre).
+    jurisdiccion: Canarias
+    ambito: Autonómico
+    tipo_disposicion: Resolución
+    fecha_publicacion: ''
+    estado: Vigente
+    redaccion: libro_azul
+    categoria_canonica: 03_ordenacion_curricular_y_ensenanzas
+    subcategoria: Enseñanzas de Idiomas
+    tags:
+    - canarias
+    - resolucion
+    - boc
+    - 03_ordenacion_curricular_y_ensenanzas
+    path: autonómica/canarias/03_ordenacion_curricular_y_ensenanzas/RES_número_5972025_diciembre_convocan_59.md
+  norm-can-res-boc-2026-129-26:
+    id: norm-can-res-boc-2026-129-26
+    codigo_sintetizado: Resolucion BOC 26
+    titulo: Resolución de 16 de junio de 2026, por la que se ordena la publicación
+      del Protocolo General de Actuación entre la Consejería de Educación, Formación
+      Profesional, Actividad Física y Deportes y la Federación Canaria de Municipios,
+      como organismo intermedio, para el desarrollo de la formación en empresa u organismo
+      equiparado por el alumnado de formación profesional matriculado en centros docentes
+      de titularidad pública de la Comunidad Autónoma de Canarias.(BOC n.º 129, de
+      29.06.2026).
+    jurisdiccion: Canarias
+    ambito: Autonómico
+    tipo_disposicion: Resolución
+    fecha_publicacion: ''
+    estado: Vigente
+    redaccion: libro_azul
+    categoria_canonica: 03_ordenacion_curricular_y_ensenanzas
+    subcategoria: Formación Profesional
+    tags:
+    - canarias
+    - resolucion
+    - boc
+    - 03_ordenacion_curricular_y_ensenanzas
+    path: autonómica/canarias/03_ordenacion_curricular_y_ensenanzas/RES_ordena_publicación_protocolo_general_26.md
+  norm-can-res-boc-2011-099:
+    id: norm-can-res-boc-2011-099
+    codigo_sintetizado: Resolucion BOC 72
+    titulo: ver Resolución corrección de errores de 12 de mayo de 2011
+    jurisdiccion: Canarias
+    ambito: Autonómico
+    tipo_disposicion: Resolución
+    fecha_publicacion: ''
+    estado: Vigente
+    redaccion: libro_azul
+    categoria_canonica: 03_ordenacion_curricular_y_ensenanzas
+    subcategoria: Enseñanzas Artísticas
+    tags:
+    - canarias
+    - resolucion
+    - boc
+    - 03_ordenacion_curricular_y_ensenanzas
+    path: autonómica/canarias/03_ordenacion_curricular_y_ensenanzas/RES_resolución_corrección_errores_mayo_72.md
   norm-can-d-106-2009:
     id: norm-can-d-106-2009
     codigo_sintetizado: D106_2009 Funcion Directiva en Centros Docentes Publicos
@@ -378,6 +2197,321 @@ normas:
     - organizacion_centro
     - departamentos
     path: autonómica/canarias/04_organizacion_escolar_y_funcionamiento/O9_10_2013_desarrollo_reglamento_organico_centros.md
+  norm-can-res-100:
+    id: norm-can-res-100
+    codigo_sintetizado: Resolucion BOC 99
+    titulo: Resolución de 25 de marzo de 2026, por la que se aprueba la instrucción
+      de las ayudas de préstamo de libros de texto y materiales didácticos en los
+      centros públicos para el curso escolar 2026/2027.
+    jurisdiccion: Canarias
+    ambito: Autonómico
+    tipo_disposicion: Resolución
+    fecha_publicacion: ''
+    estado: Vigente
+    redaccion: libro_azul
+    categoria_canonica: 04_organizacion_escolar_y_funcionamiento
+    subcategoria: Instrucciones de organización y funcionamiento
+    tags:
+    - canarias
+    - resolucion
+    - boc
+    - 04_organizacion_escolar_y_funcionamiento
+    path: autonómica/canarias/04_organizacion_escolar_y_funcionamiento/RES_aprueba_instrucción_ayudas_préstamo_99.md
+  norm-can-res-091:
+    id: norm-can-res-091
+    codigo_sintetizado: Resolucion BOC 90
+    titulo: Resolución de 15 de junio de 2026, por la que se convoca el proceso y
+      se aprueba el calendario para la renovación parcial o la nueva constitución
+      de los Consejos de los Colectivos de Escuelas Rurales en la Comunidad Autónoma
+      de Canarias, a celebrar en el curso escolar 2026-2027.
+    jurisdiccion: Canarias
+    ambito: Autonómico
+    tipo_disposicion: Resolución
+    fecha_publicacion: ''
+    estado: Vigente
+    redaccion: libro_azul
+    categoria_canonica: 04_organizacion_escolar_y_funcionamiento
+    subcategoria: Consejos escolares
+    tags:
+    - canarias
+    - resolucion
+    - boc
+    - 04_organizacion_escolar_y_funcionamiento
+    path: autonómica/canarias/04_organizacion_escolar_y_funcionamiento/RES_convoca_proceso_aprueba_calendario_90.md
+  norm-can-res-boc-2026-075:
+    id: norm-can-res-boc-2026-075
+    codigo_sintetizado: Resolucion BOC 85
+    titulo: Resolución de 10 de abril de 2026, por la que se corrige error en la Resolución
+      de 17 de mazo de 2026, que establece el calendario escolar y dicta instrucciones
+      para la organización y desarrollo de las actividades de comienzo y finalización
+      del curso 2026-2027, para los centros de enseñanzas no universitarias de la
+      Comunidad Autónoma de Canaria.(BOC n.º 61, de 30.3.2026).
+    jurisdiccion: Canarias
+    ambito: Autonómico
+    tipo_disposicion: Resolución
+    fecha_publicacion: ''
+    estado: Vigente
+    redaccion: libro_azul
+    categoria_canonica: 04_organizacion_escolar_y_funcionamiento
+    subcategoria: Calendario escolar y jornadas
+    tags:
+    - canarias
+    - resolucion
+    - boc
+    - 04_organizacion_escolar_y_funcionamiento
+    path: autonómica/canarias/04_organizacion_escolar_y_funcionamiento/RES_corrige_error_resolución_mazo_85.md
+  norm-can-res-boc-2026-116:
+    id: norm-can-res-boc-2026-116
+    codigo_sintetizado: Resolucion BOC 87
+    titulo: Resolución de 29 de mayo de 2026, por la que se dictan instrucciones específicas
+      complementarias para el curso 2026-2027 sobre organización, funcionamiento y
+      calendario de las Enseñanzas de Idiomas de Régimen Especial impartidas en las
+      Escuelas Oficiales de Idiomas de la Comunidad Autónoma de Canarias.
+    jurisdiccion: Canarias
+    ambito: Autonómico
+    tipo_disposicion: Resolución
+    fecha_publicacion: ''
+    estado: Vigente
+    redaccion: libro_azul
+    categoria_canonica: 04_organizacion_escolar_y_funcionamiento
+    subcategoria: Calendario escolar y jornadas
+    tags:
+    - canarias
+    - resolucion
+    - boc
+    - 04_organizacion_escolar_y_funcionamiento
+    path: autonómica/canarias/04_organizacion_escolar_y_funcionamiento/RES_dictan_instrucciones_específicas_complementarias_87.md
+  norm-can-res-099:
+    id: norm-can-res-099
+    codigo_sintetizado: Resolucion BOC 98
+    titulo: Resolución de 23 de febrero de 2026, por la que se dictan instrucciones
+      para la tramitación electrónica de los títulos académicos y profesionales de
+      las enseñanzas no universitarias en el ámbito de la Comunidad Autónoma de Canarias
+      (BOC n.º 45, de 6 de marzo).
+    jurisdiccion: Canarias
+    ambito: Autonómico
+    tipo_disposicion: Resolución
+    fecha_publicacion: ''
+    estado: Vigente
+    redaccion: libro_azul
+    categoria_canonica: 04_organizacion_escolar_y_funcionamiento
+    subcategoria: Instrucciones de organización y funcionamiento
+    tags:
+    - canarias
+    - resolucion
+    - boc
+    - 04_organizacion_escolar_y_funcionamiento
+    path: autonómica/canarias/04_organizacion_escolar_y_funcionamiento/RES_dictan_instrucciones_para_tramitación_98.md
+  norm-can-res-juriscan-66772:
+    id: norm-can-res-juriscan-66772
+    codigo_sintetizado: Resolucion BOC 94
+    titulo: Resolución de 12 de enero de 2012, por la que se dictan instrucciones
+      de procedimiento y se establecen los indicadores para la evaluación de la función
+      directiva desempeñada por las directoras y directores al finalizar el mandato
+      en los centros públicos de enseñanzas no universitarias de la Comunidad Autónoma
+      de Canarias (BOC n.º 15, de 23 de enero).
+    jurisdiccion: Canarias
+    ambito: Autonómico
+    tipo_disposicion: Resolución
+    fecha_publicacion: ''
+    estado: Vigente
+    redaccion: libro_azul
+    categoria_canonica: 04_organizacion_escolar_y_funcionamiento
+    subcategoria: Función directiva y liderazgo
+    tags:
+    - canarias
+    - resolucion
+    - boc
+    - 04_organizacion_escolar_y_funcionamiento
+    path: autonómica/canarias/04_organizacion_escolar_y_funcionamiento/RES_dictan_instrucciones_procedimiento_establecen_94.md
+  norm-can-res-098:
+    id: norm-can-res-098
+    codigo_sintetizado: Resolucion BOC 97
+    titulo: Resolución de 11 de abril de 2025, de la Dirección General de Administración
+      de Centros, Escolarización y Servicios Complementarios por la que se aprueba
+      la instrucción de las ayudas de préstamo de libros de texto y materiales didácticos
+      para el curso escolar 2025/2026 (BOC n.º 87, de 2 de mayo).
+    jurisdiccion: Canarias
+    ambito: Autonómico
+    tipo_disposicion: Resolución
+    fecha_publicacion: ''
+    estado: Vigente
+    redaccion: libro_azul
+    categoria_canonica: 04_organizacion_escolar_y_funcionamiento
+    subcategoria: Instrucciones de organización y funcionamiento
+    tags:
+    - canarias
+    - resolucion
+    - boc
+    - 04_organizacion_escolar_y_funcionamiento
+    path: autonómica/canarias/04_organizacion_escolar_y_funcionamiento/RES_dirección_general_administración_centros_97.md
+  norm-can-res-096:
+    id: norm-can-res-096
+    codigo_sintetizado: Resolucion BOC 95
+    titulo: Resolución de 2 de diciembre de 2025, de la Dirección General de Personal
+      y Formación del Profesorado, por la que se convoca procedimiento para la selección
+      de directores y directoras de los centros públicos de enseñanzas no universitarias
+      de la Comunidad Autónoma de Canarias para el periodo de mandato 2026-2030 (BOC
+      n.º 246, de 12 de diciembre).
+    jurisdiccion: Canarias
+    ambito: Autonómico
+    tipo_disposicion: Resolución
+    fecha_publicacion: ''
+    estado: Vigente
+    redaccion: libro_azul
+    categoria_canonica: 04_organizacion_escolar_y_funcionamiento
+    subcategoria: Función directiva y liderazgo
+    tags:
+    - canarias
+    - resolucion
+    - boc
+    - 04_organizacion_escolar_y_funcionamiento
+    path: autonómica/canarias/04_organizacion_escolar_y_funcionamiento/RES_dirección_general_personal_formación_95.md
+  norm-can-res-097:
+    id: norm-can-res-097
+    codigo_sintetizado: Resolucion BOC 96
+    titulo: Resolución de 30 de enero de2026, de la Dirección General de Personal
+      y Formación del Profesorado, por la que se convoca, por el sistema de libre
+      designación, la provisión de puestos de dirección de centros públicos integrados
+      de formación profesional de la Comunidad Autónoma de Canarias para el periodo
+      de mandato 2026-2030 (BOC n.º 29, de 12 de febrero).
+    jurisdiccion: Canarias
+    ambito: Autonómico
+    tipo_disposicion: Resolución
+    fecha_publicacion: ''
+    estado: Vigente
+    redaccion: libro_azul
+    categoria_canonica: 04_organizacion_escolar_y_funcionamiento
+    subcategoria: Función directiva y liderazgo
+    tags:
+    - canarias
+    - resolucion
+    - boc
+    - 04_organizacion_escolar_y_funcionamiento
+    path: autonómica/canarias/04_organizacion_escolar_y_funcionamiento/RES_dirección_general_personal_formación_96.md
+  norm-can-res-boc-2025-044:
+    id: norm-can-res-boc-2025-044
+    codigo_sintetizado: Resolucion BOC 89
+    titulo: Resolución de la Dirección General de Administración de Centros, Escolarización
+      y Servicios Complementarios, de 20 de febrero de 2025, por la que se establece
+      el calendario escolar y se dictan instrucciones para la organización y desarrollo
+      de las actividades de comienzo y finalización del curso 2025-2026, para los
+      centros de enseñanzas no universitarias de la Comunidad Autónoma de Canarias
+      (BOC n.º 44, de 4 de marzo).
+    jurisdiccion: Canarias
+    ambito: Autonómico
+    tipo_disposicion: Resolución
+    fecha_publicacion: ''
+    estado: Vigente
+    redaccion: libro_azul
+    categoria_canonica: 04_organizacion_escolar_y_funcionamiento
+    subcategoria: Calendario escolar y jornadas
+    tags:
+    - canarias
+    - resolucion
+    - boc
+    - 04_organizacion_escolar_y_funcionamiento
+    path: autonómica/canarias/04_organizacion_escolar_y_funcionamiento/RES_escolarización_servicios_complementarios_febrero_89.md
+  norm-can-res-boc-2025-061:
+    id: norm-can-res-boc-2025-061
+    codigo_sintetizado: Resolucion BOC 88
+    titulo: Resolución de la Dirección General de Administración de Centros, Escolarización
+      y Servicios Complementarios, de 19 de marzo de 2025, por la que se corrige error
+      en la Resolución de 20 de febrero de 2025, que establece el calendario escolar
+      y dicta instrucciones para la organización y desarrollo de las actividades de
+      comienzo y finalización del curso 2025-2026, para los centros de enseñanzas
+      no universitarias de la Comunidad Autónoma de Canarias (BOC n. 44, de 4.3.2025).
+    jurisdiccion: Canarias
+    ambito: Autonómico
+    tipo_disposicion: Resolución
+    fecha_publicacion: ''
+    estado: Vigente
+    redaccion: libro_azul
+    categoria_canonica: 04_organizacion_escolar_y_funcionamiento
+    subcategoria: Calendario escolar y jornadas
+    tags:
+    - canarias
+    - resolucion
+    - boc
+    - 04_organizacion_escolar_y_funcionamiento
+    path: autonómica/canarias/04_organizacion_escolar_y_funcionamiento/RES_escolarización_servicios_complementarios_marzo_88.md
+  norm-can-res-087:
+    id: norm-can-res-087
+    codigo_sintetizado: Resolucion BOC 86
+    titulo: Resolución de 26 de enero de 2026, por la que se modifica la Resolución
+      de 20 de febrero de 2025, que establece el calendario escolar y dicta instrucciones
+      para la organización y desarrollo de las actividades de comienzo y finalización
+      del curso 2025-2026, para los centros de enseñanzas no universitarias de la
+      Comunidad Autónoma de Canarias, corregida por la Resolución de 19 de marzo de
+      2025 (BOC nº 23, de 4 de febrero).
+    jurisdiccion: Canarias
+    ambito: Autonómico
+    tipo_disposicion: Resolución
+    fecha_publicacion: ''
+    estado: Vigente
+    redaccion: libro_azul
+    categoria_canonica: 04_organizacion_escolar_y_funcionamiento
+    subcategoria: Calendario escolar y jornadas
+    tags:
+    - canarias
+    - resolucion
+    - boc
+    - 04_organizacion_escolar_y_funcionamiento
+    path: autonómica/canarias/04_organizacion_escolar_y_funcionamiento/RES_modifica_resolución_febrero_2025_86.md
+  norm-can-res-boc-2024-125:
+    id: norm-can-res-boc-2024-125
+    codigo_sintetizado: Resolucion BOC 91
+    titulo: Resolución de 20 de junio de 2024
+    jurisdiccion: Canarias
+    ambito: Autonómico
+    tipo_disposicion: Resolución
+    fecha_publicacion: ''
+    estado: Vigente
+    redaccion: libro_azul
+    categoria_canonica: 04_organizacion_escolar_y_funcionamiento
+    subcategoria: Consejos escolares
+    tags:
+    - canarias
+    - resolucion
+    - boc
+    - 04_organizacion_escolar_y_funcionamiento
+    path: autonómica/canarias/04_organizacion_escolar_y_funcionamiento/RES_resolución_junio_2024_91.md
+  norm-can-res-boc-2024-117:
+    id: norm-can-res-boc-2024-117
+    codigo_sintetizado: Resolucion BOC 93
+    titulo: Resolución de 3 de junio de 2024
+    jurisdiccion: Canarias
+    ambito: Autonómico
+    tipo_disposicion: Resolución
+    fecha_publicacion: ''
+    estado: Vigente
+    redaccion: libro_azul
+    categoria_canonica: 04_organizacion_escolar_y_funcionamiento
+    subcategoria: Consejos escolares
+    tags:
+    - canarias
+    - resolucion
+    - boc
+    - 04_organizacion_escolar_y_funcionamiento
+    path: autonómica/canarias/04_organizacion_escolar_y_funcionamiento/RES_resolución_junio_2024_93.md
+  norm-can-res-boc-2026-109:
+    id: norm-can-res-boc-2026-109
+    codigo_sintetizado: Resolucion BOC 92
+    titulo: Resolución de 26 de mayo de 2026
+    jurisdiccion: Canarias
+    ambito: Autonómico
+    tipo_disposicion: Resolución
+    fecha_publicacion: ''
+    estado: Vigente
+    redaccion: libro_azul
+    categoria_canonica: 04_organizacion_escolar_y_funcionamiento
+    subcategoria: Consejos escolares
+    tags:
+    - canarias
+    - resolucion
+    - boc
+    - 04_organizacion_escolar_y_funcionamiento
+    path: autonómica/canarias/04_organizacion_escolar_y_funcionamiento/RES_resolución_mayo_2026_92.md
   norm-can-d-40-2005:
     id: norm-can-d-40-2005
     codigo_sintetizado: D40_2005 Ordenacion de Residencias Escolares
@@ -458,6 +2592,476 @@ normas:
     - rutas_transporte
     - gratuidad_transporte
     path: autonómica/canarias/05_alumnado_y_servicios_escolares/O2_8_2006_transporte_escolar_canarias.md
+  norm-can-res-boc-2026-070:
+    id: norm-can-res-boc-2026-070
+    codigo_sintetizado: Resolucion BOC 115
+    titulo: 'Resolución de 26 de marzo de 2026, por la que se convocan los Premios
+      Extraordinarios de Bachillerato en el ámbito de la Comunidad Autónoma de Canarias,
+      correspondientes al curso escolar 2025/2026. Plazo para realizar la inscripción:
+      desde el 15 de mayo de 2026, día de la entrega de las calificaciones finales
+      de segundo curso de Bachillerato, al 15 de junio de 2026.'
+    jurisdiccion: Canarias
+    ambito: Autonómico
+    tipo_disposicion: Resolución
+    fecha_publicacion: ''
+    estado: Vigente
+    redaccion: libro_azul
+    categoria_canonica: 05_alumnado_y_servicios_escolares
+    subcategoria: Concursos y premios escolares
+    tags:
+    - canarias
+    - resolucion
+    - boc
+    - 05_alumnado_y_servicios_escolares
+    path: autonómica/canarias/05_alumnado_y_servicios_escolares/RES_convocan_premios_extraordinarios_bachillerato_115.md
+  norm-can-res-convocan-premios-extraordinarios-educación-116:
+    id: norm-can-res-convocan-premios-extraordinarios-educación-116
+    codigo_sintetizado: Resolucion BOC 116
+    titulo: 'Resolución de 26 de marzo de 2026, por la que se convocan los Premios
+      Extraordinarios de Educación Secundaria Obligatoria en el ámbito de la Comunidad
+      Autónoma de Canarias, correspondientes al curso escolar 2025-2026. Plazo para
+      realizar la solicitud de participación: del 19 de junio de 2026, día de la entrega
+      de las calificaciones finales de ESO, al 26 de junio de 2026.'
+    jurisdiccion: Canarias
+    ambito: Autonómico
+    tipo_disposicion: Resolución
+    fecha_publicacion: ''
+    estado: Vigente
+    redaccion: libro_azul
+    categoria_canonica: 05_alumnado_y_servicios_escolares
+    subcategoria: Concursos y premios escolares
+    tags:
+    - canarias
+    - resolucion
+    - boc
+    - 05_alumnado_y_servicios_escolares
+    path: autonómica/canarias/05_alumnado_y_servicios_escolares/RES_convocan_premios_extraordinarios_educación_116.md
+  norm-can-res-boc-2026-039:
+    id: norm-can-res-boc-2026-039
+    codigo_sintetizado: Resolucion BOC 102
+    titulo: Resolución de 13 de febrero de 2026, por la que se convoca el procedimiento
+      de admisión del alumnado a los Ciclos Formativos de Grado Básico, Medio y Superior
+      (Grado D, niveles 1, 2 y 3, respectivamente) y de los cursos de especialización
+      de Grado Medio y Superior (Grados E, niveles 2 y 3, respectivamente) de todas
+      las Enseñanzas de Formación Profesional autorizadas, Enseñanzas Profesionales
+      de Artes Plásticas y Diseño, Enseñanzas Deportivas, Enseñanzas Elementales y
+      Profesionales de Música y Enseñanzas de Idiomas en centros docentes sostenidos
+      con fondos públicos en la Comunidad Autónoma de Canarias para el curso escolar
+      2026-2027.
+    jurisdiccion: Canarias
+    ambito: Autonómico
+    tipo_disposicion: Resolución
+    fecha_publicacion: ''
+    estado: Vigente
+    redaccion: libro_azul
+    categoria_canonica: 05_alumnado_y_servicios_escolares
+    subcategoria: Admisión y escolarización del alumnado
+    tags:
+    - canarias
+    - resolucion
+    - boc
+    - 05_alumnado_y_servicios_escolares
+    path: autonómica/canarias/05_alumnado_y_servicios_escolares/RES_convoca_procedimiento_admisión_alumnado_102.md
+  norm-can-res-boc-2025-047:
+    id: norm-can-res-boc-2025-047
+    codigo_sintetizado: Resolucion BOC 107
+    titulo: Resolución de 24 de febrero de 2025, por la que se convoca el procedimiento
+      de admisión del alumnado a los Ciclos Formativos de Grado Básico, Medio y Superior
+      (niveles 1, 2 y 3, respectivamente) de las Enseñanzas de Formación Profesional
+      de Grado D, Enseñanzas Profesionales de Artes Plásticas y Diseño, Enseñanzas
+      Elementales y Profesionales de Música, Enseñanzas de Idiomas y Enseñanzas Deportivas
+      en centros docentes sostenidos con fondos públicos en la Comunidad Autónoma
+      de Canarias para el curso escolar 2025/2026.
+    jurisdiccion: Canarias
+    ambito: Autonómico
+    tipo_disposicion: Resolución
+    fecha_publicacion: ''
+    estado: Vigente
+    redaccion: libro_azul
+    categoria_canonica: 05_alumnado_y_servicios_escolares
+    subcategoria: Admisión y escolarización del alumnado
+    tags:
+    - canarias
+    - resolucion
+    - boc
+    - 05_alumnado_y_servicios_escolares
+    path: autonómica/canarias/05_alumnado_y_servicios_escolares/RES_convoca_procedimiento_admisión_alumnado_107.md
+  norm-can-res-corrigen-errores-instrucciones-sobre-106:
+    id: norm-can-res-corrigen-errores-instrucciones-sobre-106
+    codigo_sintetizado: Resolucion BOC 106
+    titulo: Resolución de 18 de marzo de 2025, por la que se corrigen errores en las
+      instrucciones sobre el proceso de admisión del alumnado a Ciclos Formativos
+      de Grado Básico, Medio y Superior (niveles 1, 2 y 3, respectivamente) de las
+      Enseñanzas de Formación Profesional de Grado D, Enseñanzas Profesionales de
+      Artes Plásticas y Diseño, Enseñanzas Elementales y Profesionales de Música,
+      Enseñanzas de Idiomas y Enseñanzas Deportivas en centros docentes sostenidos
+      con fondos públicos en la Comunidad Autónoma de Canarias para el curso escolar
+      2025-2026, aprobadas por Resolución de 24 de febrero de 2025 (BOC n.º 47, de
+      7.3.2025).
+    jurisdiccion: Canarias
+    ambito: Autonómico
+    tipo_disposicion: Resolución
+    fecha_publicacion: ''
+    estado: Vigente
+    redaccion: libro_azul
+    categoria_canonica: 05_alumnado_y_servicios_escolares
+    subcategoria: Admisión y escolarización del alumnado
+    tags:
+    - canarias
+    - resolucion
+    - boc
+    - 05_alumnado_y_servicios_escolares
+    path: autonómica/canarias/05_alumnado_y_servicios_escolares/RES_corrigen_errores_instrucciones_sobre_106.md
+  norm-can-res-111:
+    id: norm-can-res-111
+    codigo_sintetizado: Resolucion BOC 110
+    titulo: Resolución de 27 de febrero de 2026, por la que se corrige error en la
+      Resolución de 5 de febrero de 2026, que convoca el procedimiento de admisión
+      del alumnado en centros docentes que oferten enseñanzas de Educación Infantil,
+      Educación Primaria, Educación Secundaria Obligatoria, Bachillerato y Educación
+      de Personas Adultas sostenidos con fondos públicos, para el curso escolar 2026-2027,
+      en la Comunidad Autónoma de Canarias, corregida por Resolución de 18 de febrero
+      de 2026 (BOC núm. 37, de 24 de febrero).
+    jurisdiccion: Canarias
+    ambito: Autonómico
+    tipo_disposicion: Resolución
+    fecha_publicacion: ''
+    estado: Vigente
+    redaccion: libro_azul
+    categoria_canonica: 05_alumnado_y_servicios_escolares
+    subcategoria: Admisión y escolarización del alumnado
+    tags:
+    - canarias
+    - resolucion
+    - boc
+    - 05_alumnado_y_servicios_escolares
+    path: autonómica/canarias/05_alumnado_y_servicios_escolares/RES_corrige_error_resolución_febrero_110.md
+  norm-can-res-113:
+    id: norm-can-res-113
+    codigo_sintetizado: Resolucion BOC 112
+    titulo: Resolución de 6 de marzo de 2026, por la que se corrige error en la Resolución
+      de 13 de febrero de 2026, que convoca el procedimiento de admisión del alumnado
+      a los Ciclos Formativos de Grado Básico, Medio y Superior (Grado D, niveles
+      1, 2 y 3, respectivamente) y de los cursos de especialización de Grado Medio
+      y Superior (Grados E, niveles 2 y 3, respectivamente) de todas las Enseñanzas
+      de Formación Profesional autorizadas, Enseñanzas Profesionales de Artes Plásticas
+      y Diseño, Enseñanzas Deportivas, Enseñanzas Elementales y Profesionales de Música
+      y Enseñanzas de Idiomas en centros docentes sostenidos con fondos públicos en
+      la Comunidad Autónoma de Canarias para el curso escolar 2026-2027 (BOC n.º 39,
+      de 26.2.2026).
+    jurisdiccion: Canarias
+    ambito: Autonómico
+    tipo_disposicion: Resolución
+    fecha_publicacion: ''
+    estado: Vigente
+    redaccion: libro_azul
+    categoria_canonica: 05_alumnado_y_servicios_escolares
+    subcategoria: Admisión y escolarización del alumnado
+    tags:
+    - canarias
+    - resolucion
+    - boc
+    - 05_alumnado_y_servicios_escolares
+    path: autonómica/canarias/05_alumnado_y_servicios_escolares/RES_corrige_error_resolución_febrero_112.md
+  norm-can-res-boc-2026-132:
+    id: norm-can-res-boc-2026-132
+    codigo_sintetizado: Resolucion BOC 101
+    titulo: Dirección General de Formación Profesional y Enseñanzas de Régimen Especial.-
+      Resolución de 24 de junio de 2026, por la que se corrige la Resolución de 13
+      de febrero de 2026, que dicta instrucciones sobre el proceso de admisión del
+      alumnado a Ciclos Formativos de Grado Básico, Medio y Superior (Grado D, niveles
+      1, 2 y 3, respectivamente) de las Enseñanzas de Formación Profesional de Grados
+      D, Enseñanzas Profesionales de Artes Plásticas y Diseño, Enseñanzas Elementales
+      y Profesionales de Música, Enseñanzas de Idiomas y Enseñanzas Deportivas en
+      centros docentes sostenidos con fondos públicos en la Comunidad Autónoma de
+      Canarias para el curso escolar 2026/2027 (BOC n.º 39, de 26.2.2026).
+    jurisdiccion: Canarias
+    ambito: Autonómico
+    tipo_disposicion: Resolución
+    fecha_publicacion: ''
+    estado: Vigente
+    redaccion: libro_azul
+    categoria_canonica: 05_alumnado_y_servicios_escolares
+    subcategoria: Admisión y escolarización del alumnado
+    tags:
+    - canarias
+    - resolucion
+    - boc
+    - 05_alumnado_y_servicios_escolares
+    path: autonómica/canarias/05_alumnado_y_servicios_escolares/RES_corrige_resolución_febrero_2026_101.md
+  norm-can-res-boc-2026-073:
+    id: norm-can-res-boc-2026-073
+    codigo_sintetizado: Resolucion BOC 113
+    titulo: Resolución de 8 de abril de 2026, por la que se corrige la Resolución
+      de 13 de febrero de 2026, que dicta instrucciones sobre el proceso de admisión
+      del alumnado a Ciclos Formativos de Grado Básico, Medio y Superior (niveles
+      1, 2 y 3, respectivamente) de las Enseñanzas de Formación Profesional de Grados
+      D, Enseñanzas Profesionales de Artes Pláticas y Diseño, Enseñanzas Elementales
+      y Profesionales de Música, Enseñanzas de Idiomas y Enseñanzas Deportivas en
+      centros docentes sostenidos con fondos públicos en la Comunidad Autónoma de
+      Canarias para el curso escolar 2026/2027.
+    jurisdiccion: Canarias
+    ambito: Autonómico
+    tipo_disposicion: Resolución
+    fecha_publicacion: ''
+    estado: Vigente
+    redaccion: libro_azul
+    categoria_canonica: 05_alumnado_y_servicios_escolares
+    subcategoria: Admisión y escolarización del alumnado
+    tags:
+    - canarias
+    - resolucion
+    - boc
+    - 05_alumnado_y_servicios_escolares
+    path: autonómica/canarias/05_alumnado_y_servicios_escolares/RES_corrige_resolución_febrero_2026_113.md
+  norm-can-res-dgacesc-convoca-procedimiento-admisión-111:
+    id: norm-can-res-dgacesc-convoca-procedimiento-admisión-111
+    codigo_sintetizado: Resolucion BOC 111
+    titulo: Resolución de 5 de febrero de 2026, de la DGACESC, por la que se convoca
+      el procedimiento de admisión del alumnado en centros docentes que oferten enseñanzas
+      de Educación Infantil, Educación Primaria, Educación Secundaria Obligatoria,
+      Bachillerato y Educación de Personas Adultas sostenidos con fondos públicos,
+      para el curso escolar 2026-2027, en la Comunidad Autónoma de Canarias (BOC núm.
+      31, de 16 de febrero).
+    jurisdiccion: Canarias
+    ambito: Autonómico
+    tipo_disposicion: Resolución
+    fecha_publicacion: ''
+    estado: Vigente
+    redaccion: libro_azul
+    categoria_canonica: 05_alumnado_y_servicios_escolares
+    subcategoria: Admisión y escolarización del alumnado
+    tags:
+    - canarias
+    - resolucion
+    - boc
+    - 05_alumnado_y_servicios_escolares
+    path: autonómica/canarias/05_alumnado_y_servicios_escolares/RES_dgacesc_convoca_procedimiento_admisión_111.md
+  norm-can-res-boc-2026-037:
+    id: norm-can-res-boc-2026-037
+    codigo_sintetizado: Resolucion BOC 105
+    titulo: Resolución de 18 de febrero de 2026, de la DGACESC, por la que se corrige
+      error en la Resolución de 5 de febrero de 2026, que convoca el procedimiento
+      de admisión del alumnado en centros docentes que oferten enseñanzas de Educación
+      Infantil, Educación Primaria, Educación Secundaria Obligatoria, Bachillerato
+      y Educación de Personas Adultas sostenidos con fondos públicos, para el curso
+      escolar 20262027, en la Comunidad Autónoma de Canarias (BOC núm. 37, de 24 de
+      febrero).
+    jurisdiccion: Canarias
+    ambito: Autonómico
+    tipo_disposicion: Resolución
+    fecha_publicacion: ''
+    estado: Vigente
+    redaccion: libro_azul
+    categoria_canonica: 05_alumnado_y_servicios_escolares
+    subcategoria: Admisión y escolarización del alumnado
+    tags:
+    - canarias
+    - resolucion
+    - boc
+    - 05_alumnado_y_servicios_escolares
+    path: autonómica/canarias/05_alumnado_y_servicios_escolares/RES_dgacesc_corrige_error_resolución_105.md
+  norm-can-res-boc-2024-049:
+    id: norm-can-res-boc-2024-049
+    codigo_sintetizado: Resolucion BOC 109
+    titulo: Resolución de 27 de febrero de 2024, de la DGACESC, por la que se dictan
+      instrucciones sobre el proceso de admisión del alumnado en centros docentes
+      que oferten enseñanzas de Educación Infantil, Educación Primaria, Educación
+      Secundaria Obligatoria, Bachillerato y Educación de Personas Adultas en los
+      centros docentes sostenidos con fondos públicos en la Comunidad Autónoma de
+      Canarias (BOC núm. 49, de 7 de marzo).
+    jurisdiccion: Canarias
+    ambito: Autonómico
+    tipo_disposicion: Resolución
+    fecha_publicacion: ''
+    estado: Vigente
+    redaccion: libro_azul
+    categoria_canonica: 05_alumnado_y_servicios_escolares
+    subcategoria: Admisión y escolarización del alumnado
+    tags:
+    - canarias
+    - resolucion
+    - boc
+    - 05_alumnado_y_servicios_escolares
+    path: autonómica/canarias/05_alumnado_y_servicios_escolares/RES_dgacesc_dictan_instrucciones_sobre_109.md
+  norm-can-res-dictan-instrucciones-sobre-proceso-103:
+    id: norm-can-res-dictan-instrucciones-sobre-proceso-103
+    codigo_sintetizado: Resolucion BOC 103
+    titulo: Resolución de 13 de febrero de 2026, por la que se dictan instrucciones
+      sobre el proceso de admisión del alumnado a Ciclos Formativos de Grado Básico,
+      Medio y Superior (Grado D, niveles 1, 2 y 3, respectivamente) de las Enseñanzas
+      de Formación Profesional de Grados D, Enseñanzas Profesionales de Artes Plásticas
+      y Diseño, Enseñanzas Elementales y Profesionales de Música, Enseñanzas de Idiomas
+      y Enseñanzas Deportivas en centros docentes sostenidos con fondos públicos en
+      la Comunidad Autónoma de Canarias para el curso escolar 2026-2027.
+    jurisdiccion: Canarias
+    ambito: Autonómico
+    tipo_disposicion: Resolución
+    fecha_publicacion: ''
+    estado: Vigente
+    redaccion: libro_azul
+    categoria_canonica: 05_alumnado_y_servicios_escolares
+    subcategoria: Admisión y escolarización del alumnado
+    tags:
+    - canarias
+    - resolucion
+    - boc
+    - 05_alumnado_y_servicios_escolares
+    path: autonómica/canarias/05_alumnado_y_servicios_escolares/RES_dictan_instrucciones_sobre_proceso_103.md
+  norm-can-res-dictan-instrucciones-sobre-proceso-108:
+    id: norm-can-res-dictan-instrucciones-sobre-proceso-108
+    codigo_sintetizado: Resolucion BOC 108
+    titulo: Resolución de 24 de febrero de 2025, por la que se dictan instrucciones
+      sobre el proceso de admisión del alumnado a Ciclos Formativos de Grado Básico,
+      Medio y Superior (niveles 1, 2 y 3, respectivamente) de las Enseñanzas de Formación
+      Profesional de Grado D, Enseñanzas Profesionales de Artes Plásticas y Diseño,
+      Enseñanzas Elementales y Profesionales de Música, Enseñanzas de Idiomas y Enseñanzas
+      Deportivas en centros docentes sostenidos con fondos públicos en la Comunidad
+      Autónoma de Canarias para el curso escolar 2025/2026.
+    jurisdiccion: Canarias
+    ambito: Autonómico
+    tipo_disposicion: Resolución
+    fecha_publicacion: ''
+    estado: Vigente
+    redaccion: libro_azul
+    categoria_canonica: 05_alumnado_y_servicios_escolares
+    subcategoria: Admisión y escolarización del alumnado
+    tags:
+    - canarias
+    - resolucion
+    - boc
+    - 05_alumnado_y_servicios_escolares
+    path: autonómica/canarias/05_alumnado_y_servicios_escolares/RES_dictan_instrucciones_sobre_proceso_108.md
+  norm-can-res-boc-2025-039:
+    id: norm-can-res-boc-2025-039
+    codigo_sintetizado: Resolucion BOC 104
+    titulo: Resolución de 17 de febrero de 2025,de la Dirección General de Administración
+      de Centros, Escolarización y Servicios Complementarios, por la que se dictan
+      instrucciones específicas y se convoca procedimiento extraordinario de admisión
+      del alumnado del primer ciclo de Educación Infantil en determinados centros
+      docentes dependientes de esta Consejería, para el curso escolar 2024-2025.
+    jurisdiccion: Canarias
+    ambito: Autonómico
+    tipo_disposicion: Resolución
+    fecha_publicacion: ''
+    estado: Vigente
+    redaccion: libro_azul
+    categoria_canonica: 05_alumnado_y_servicios_escolares
+    subcategoria: Admisión y escolarización del alumnado
+    tags:
+    - canarias
+    - resolucion
+    - boc
+    - 05_alumnado_y_servicios_escolares
+    path: autonómica/canarias/05_alumnado_y_servicios_escolares/RES_dirección_general_administración_centros_104.md
+  norm-can-res-120:
+    id: norm-can-res-120
+    codigo_sintetizado: Resolucion BOC 119
+    titulo: Resolución de 8 de agosto de 2025,de la Dirección General de Administración
+      de Centros, Escolarización y Servicios Complementarios por la que se aprueban
+      las instrucciones de organización y funcionamiento de los comedores escolares
+      de los centros docentes públicos no universitarios para el curso escolar 2025-2026
+      (BOC nº 166, de 22 de agosto).
+    jurisdiccion: Canarias
+    ambito: Autonómico
+    tipo_disposicion: Resolución
+    fecha_publicacion: ''
+    estado: Vigente
+    redaccion: libro_azul
+    categoria_canonica: 05_alumnado_y_servicios_escolares
+    subcategoria: Comedores y desayunos escolares
+    tags:
+    - canarias
+    - resolucion
+    - boc
+    - 05_alumnado_y_servicios_escolares
+    path: autonómica/canarias/05_alumnado_y_servicios_escolares/RES_dirección_general_administración_centros_119.md
+  norm-can-res-boc-2018-106:
+    id: norm-can-res-boc-2018-106
+    codigo_sintetizado: Resolucion BOC 114
+    titulo: Resolución de 22 de mayo de 2018, de la Dirección General de Formación
+      Profesional y Educación de Adultos, por la que se dictan instrucciones para
+      la concesión de los Premios Extraordinarios de Enseñanzas Profesionales de Música
+      y de Artes Plásticas y Diseño en la Comunidad Autónoma de Canarias, en el curso
+      2017-2018 (BOC n.º 106, de 4 de junio).
+    jurisdiccion: Canarias
+    ambito: Autonómico
+    tipo_disposicion: Resolución
+    fecha_publicacion: ''
+    estado: Vigente
+    redaccion: libro_azul
+    categoria_canonica: 05_alumnado_y_servicios_escolares
+    subcategoria: Concursos y premios escolares
+    tags:
+    - canarias
+    - resolucion
+    - boc
+    - 05_alumnado_y_servicios_escolares
+    path: autonómica/canarias/05_alumnado_y_servicios_escolares/RES_dirección_general_formación_profesional_114.md
+  norm-can-res-boc-2017-169:
+    id: norm-can-res-boc-2017-169
+    codigo_sintetizado: Resolucion BOC 100
+    titulo: Resolución de 28 de agosto de 2017, de la Dirección General de Ordenación,
+      Innovación y Promoción Educativa, por la que se dictan instrucciones para la
+      tramitación electrónica del procedimiento que regula las actividades escolares
+      complementarias, actividades extraescolares y servicios escolares en los centros
+      privados concertados de Canarias (BOC n.º 169, de 1 de septiembre).
+    jurisdiccion: Canarias
+    ambito: Autonómico
+    tipo_disposicion: Resolución
+    fecha_publicacion: ''
+    estado: Vigente
+    redaccion: libro_azul
+    categoria_canonica: 05_alumnado_y_servicios_escolares
+    subcategoria: Actividades complementarias y extraescolares
+    tags:
+    - canarias
+    - resolucion
+    - boc
+    - 05_alumnado_y_servicios_escolares
+    path: autonómica/canarias/05_alumnado_y_servicios_escolares/RES_dirección_general_ordenación_innovación_100.md
+  norm-can-res-boc-1992-106:
+    id: norm-can-res-boc-1992-106
+    codigo_sintetizado: Resolucion BOC 117
+    titulo: Resolución de 15 de julio de 1992, de la Dirección General de Promoción
+      Educativa, por la que se dictan instrucciones para la organización y funcionamiento
+      de las Residencias Escolares.
+    jurisdiccion: Canarias
+    ambito: Autonómico
+    tipo_disposicion: Resolución
+    fecha_publicacion: ''
+    estado: Vigente
+    redaccion: libro_azul
+    categoria_canonica: 05_alumnado_y_servicios_escolares
+    subcategoria: Residencias escolares
+    tags:
+    - canarias
+    - resolucion
+    - boc
+    - 05_alumnado_y_servicios_escolares
+    path: autonómica/canarias/05_alumnado_y_servicios_escolares/RES_dirección_general_promoción_educativa_117.md
+  norm-can-res-119:
+    id: norm-can-res-119
+    codigo_sintetizado: Resolucion BOC 118
+    titulo: Extracto de la Resolución de 30 de abril de 2026, por la que se establece
+      el calendario, las instrucciones complementarias del procedimiento de admisión
+      del alumnado comensal y los criterios de concesión de las subvenciones, y por
+      la que se autoriza la oferta de plazas de comensales en los centros docentes
+      públicos no universitarios para el curso escolar 2026-2027.
+    jurisdiccion: Canarias
+    ambito: Autonómico
+    tipo_disposicion: Resolución
+    fecha_publicacion: ''
+    estado: Vigente
+    redaccion: libro_azul
+    categoria_canonica: 05_alumnado_y_servicios_escolares
+    subcategoria: Comedores y desayunos escolares
+    tags:
+    - canarias
+    - resolucion
+    - boc
+    - 05_alumnado_y_servicios_escolares
+    path: autonómica/canarias/05_alumnado_y_servicios_escolares/RES_establece_calendario_instrucciones_complementarias_118.md
   norm-can-d-23-1995:
     id: norm-can-d-23-1995
     codigo_sintetizado: D23_1995 Regulacion de la Orientacion Educativa en Canarias
@@ -541,6 +3145,76 @@ normas:
     - adaptaciones_curriculares_significativas
     - pmar_diversificacion
     path: autonómica/canarias/06_atencion_diversidad_y_orientacion/O7_6_2007_medidas_atencion_diversidad_ensenanza_basica.md
+  norm-can-res-juriscan-69937:
+    id: norm-can-res-juriscan-69937
+    codigo_sintetizado: Resolucion BOC 120
+    titulo: Resolución, 19 dic 2013, de la Dirección General de Ordenación, Innovación
+      y Promoción Educativa Consejería de Educación, Universidades y Sostenibilidad,
+      relativa a la publicación, para general conocimiento, de la Sentencia de 9 de
+      junio de 2011, dictada por la Sección Primera de la Sala de lo Contencioso-Administrativo
+      del Tribunal Superior de Justicia de Canarias, en el recurso 392-2006 seguido
+      a instancias de la Fundación de Ayuda a Niños Superdotados de Canarias (FANS),
+      contra la Orden de 22 de julio de 2005 (BOC 149, 1.8.2005), de la Consejería
+      de Educación, Cultura y Deportes, por la que se regula la atención educativa
+      al alumnado con altas capacidades intelectuales (BOC n.º 3, de 7 de enero).
+    jurisdiccion: Canarias
+    ambito: Autonómico
+    tipo_disposicion: Resolución
+    fecha_publicacion: ''
+    estado: Vigente
+    redaccion: libro_azul
+    categoria_canonica: 06_atencion_diversidad_y_orientacion
+    subcategoria: Alumnado con altas capacidades
+    tags:
+    - canarias
+    - resolucion
+    - boc
+    - 06_atencion_diversidad_y_orientacion
+    path: autonómica/canarias/06_atencion_diversidad_y_orientacion/RES_2013_dirección_general_ordenación_120.md
+  norm-can-res-juriscan-64838:
+    id: norm-can-res-juriscan-64838
+    codigo_sintetizado: Resolucion BOC 121
+    titulo: Resolución de 9 de febrero de 2011, por la que se dictan instrucciones
+      sobre los procedimientos y los plazos para la atención educativa del alumnado
+      con necesidades específicas de apoyo educativo en los centros escolares de la
+      Comunidad Autónoma de Canarias (BOC n.º 40, de 24 de febrero).
+    jurisdiccion: Canarias
+    ambito: Autonómico
+    tipo_disposicion: Resolución
+    fecha_publicacion: ''
+    estado: Vigente
+    redaccion: libro_azul
+    categoria_canonica: 06_atencion_diversidad_y_orientacion
+    subcategoria: Alumnado con altas capacidades
+    tags:
+    - canarias
+    - resolucion
+    - boc
+    - 06_atencion_diversidad_y_orientacion
+    path: autonómica/canarias/06_atencion_diversidad_y_orientacion/RES_dictan_instrucciones_sobre_procedimientos_121.md
+  norm-can-res-boc-2018-086:
+    id: norm-can-res-boc-2018-086
+    codigo_sintetizado: Resolucion BOC 122
+    titulo: Resolución de 8 de febrero de 2018, de la Secretaría General Técnica,
+      por la que se ordena la publicación del Convenio de Colaboración entre la Consejería
+      de Educación y Universidades y la Asociación de Padres de Personas con Autismo
+      de Tenerife (APANATE) para la atención educativa del alumnado no universitario
+      con necesidades específicas de apoyo educativo derivadas de Trastornos del Espectro
+      Autista (TEA) (BOC n.º 86, de 4 de mayo).
+    jurisdiccion: Canarias
+    ambito: Autonómico
+    tipo_disposicion: Resolución
+    fecha_publicacion: ''
+    estado: Vigente
+    redaccion: libro_azul
+    categoria_canonica: 06_atencion_diversidad_y_orientacion
+    subcategoria: Alumnado con NEAE
+    tags:
+    - canarias
+    - resolucion
+    - boc
+    - 06_atencion_diversidad_y_orientacion
+    path: autonómica/canarias/06_atencion_diversidad_y_orientacion/RES_secretaría_general_técnica_ordena_122.md
   norm-can-d-114-2011:
     id: norm-can-d-114-2011
     codigo_sintetizado: D114_2011 Decreto de Convivencia Escolar
