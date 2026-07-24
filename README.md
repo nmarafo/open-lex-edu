@@ -34,9 +34,6 @@ open-lex-edu/
 ├── index.yaml                          # Índice global y grafo de relaciones autogenerado
 ├── schema/
 │   └── norm_schema.json                # JSON Schema de validación OKF
-├── scripts/
-│   ├── validate_okf.py                 # Validador de sintaxis y duplicados
-│   └── generate_index.py               # Generador del grafo relacional index.yaml
 ├── estatal/                            # Normativa del Estado (BOE)
 │   ├── 01_marco_normativo_general_y_organico/
 │   ├── 02_gestion_y_administracion_centros/
@@ -112,11 +109,7 @@ fundamentos_derecho:
 
 1. Clona el repositorio.
 2. Añade o actualiza la norma en Markdown con su encabezado YAML en la carpeta canónica correspondiente.
-3. Ejecuta los scripts de validación e indexación:
-   ```bash
-   python scripts/validate_okf.py
-   python scripts/generate_index.py
-   ```
+3. Actualiza el archivo `index.yaml`.
 4. Envía tu Pull Request.
 
 ---
