@@ -67,7 +67,7 @@
     },
     "fuente_oficial": {
       "type": "string",
-      "pattern": "^https://(www\\.)?(boe\\.es|gobiernodecanarias\\.org|sede\\.gobiernodecanarias\\.org|eur-lex\\.europa\\.eu)/.*$"
+      "pattern": "^https://(www\\.|www3\\.)?(boe\\.es|gobiernodecanarias\\.org|sede\\.gobiernodecanarias\\.org|eur-lex\\.europa\\.eu)/(boc|juriscan|buscar|libroazul)/.*$"
     },
     "fuente_juriscan": {
       "type": "string"
