@@ -8,7 +8,8 @@ titulo: Resolución de 17 de febrero de 2025,de la Dirección General de Adminis
   de esta Consejería, para el curso escolar 2024-2025.
 jurisdiccion: Canarias
 ambito: Autonómico
-organo_emisor: Consejería de Educación
+organo_emisor: Dirección General de Administración de Centros, Escolarización y Servicios
+  Complementarios
 tipo_disposicion: Resolución
 estado: Vigente
 redaccion: libro_azul

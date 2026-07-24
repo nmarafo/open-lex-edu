@@ -7,7 +7,7 @@ titulo: Resolución de 18 de marzo de 1996, de la Secretaría General Técnica, 
   de Educación, Cultura y Deportes (BOC nº 57, de 10 de mayo).
 jurisdiccion: Canarias
 ambito: Autonómico
-organo_emisor: Consejería de Educación
+organo_emisor: Secretaría General Técnica
 tipo_disposicion: Resolución
 estado: Vigente
 redaccion: libro_azul

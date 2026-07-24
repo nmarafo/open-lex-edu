@@ -5,7 +5,7 @@ titulo: Secretaría General Técnica.- Resolución de 21 de marzo de 2019, por l
   se crea el sello electrónico de la Dirección General de Universidades.
 jurisdiccion: Canarias
 ambito: Autonómico
-organo_emisor: Consejería de Educación
+organo_emisor: Secretaría General Técnica
 tipo_disposicion: Resolución
 estado: Vigente
 redaccion: libro_azul

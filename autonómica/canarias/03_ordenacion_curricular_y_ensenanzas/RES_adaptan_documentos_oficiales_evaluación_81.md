@@ -6,7 +6,7 @@ titulo: Resolución de 28 de noviembre de 2022, por la que se adaptan los docume
   Autónoma de Canarias (BOC n.º 243, de 13 de diciembre).
 jurisdiccion: Canarias
 ambito: Autonómico
-organo_emisor: Consejería de Educación
+organo_emisor: Dirección General de Formación Profesional y Educación de Adultos
 tipo_disposicion: Resolución
 estado: Vigente
 redaccion: libro_azul

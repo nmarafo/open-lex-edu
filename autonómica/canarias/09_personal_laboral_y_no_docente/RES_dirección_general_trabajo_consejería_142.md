@@ -10,7 +10,7 @@ titulo: Resolución de 19 de agosto de 1998, de la Dirección General de Trabajo
   y Deportes (BOC n.º 140, de 6 de noviembre).
 jurisdiccion: Canarias
 ambito: Autonómico
-organo_emisor: Consejería de Educación
+organo_emisor: Dirección General de Trabajo
 tipo_disposicion: Resolución
 estado: Vigente
 redaccion: libro_azul

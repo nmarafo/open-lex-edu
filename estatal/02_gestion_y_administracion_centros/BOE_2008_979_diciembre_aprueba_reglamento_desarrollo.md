@@ -6,7 +6,8 @@ titulo: Real Decreto 1720/2007, de 21 de diciembre, por el que se aprueba el Reg
   de carácter personal.
 jurisdiccion: España
 ambito: Estatal
-organo_emisor: Jefatura del Estado / Ministerio
+organo_emisor: Ministerio de Educación, Formación Profesional y Deportes / Consejo
+  de Ministros
 tipo_disposicion: Real Decreto / Orden
 fecha_publicacion: '2008-01-19'
 boletin: BOE

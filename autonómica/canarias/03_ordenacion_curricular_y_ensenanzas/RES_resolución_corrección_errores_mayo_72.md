@@ -4,7 +4,7 @@ codigo_sintetizado: Resolucion BOC 72
 titulo: ver Resolución corrección de errores de 12 de mayo de 2011
 jurisdiccion: Canarias
 ambito: Autonómico
-organo_emisor: Consejería de Educación
+organo_emisor: Secretaría General Técnica
 tipo_disposicion: Resolución
 estado: Vigente
 redaccion: libro_azul

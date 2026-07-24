@@ -5,7 +5,7 @@ titulo: Ley 19/2013, de 9 de diciembre, de transparencia, acceso a la informaci�
   pública y buen gobierno.
 jurisdiccion: España
 ambito: Estatal
-organo_emisor: Jefatura del Estado
+organo_emisor: Jefatura del Estado / Cortes Generales
 tipo_disposicion: Ley
 numero_disposicion: 19/2013
 fecha_disposicion: '2013-12-09'

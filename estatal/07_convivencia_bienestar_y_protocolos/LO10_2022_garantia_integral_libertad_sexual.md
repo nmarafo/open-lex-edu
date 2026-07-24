@@ -5,7 +5,7 @@ titulo: Ley Orgánica 10/2022, de 6 de septiembre, de garantía integral de la l
   sexual.
 jurisdiccion: España
 ambito: Estatal
-organo_emisor: Jefatura del Estado
+organo_emisor: Jefatura del Estado / Cortes Generales
 tipo_disposicion: Ley Orgánica
 numero_disposicion: 10/2022
 fecha_disposicion: '2022-09-06'

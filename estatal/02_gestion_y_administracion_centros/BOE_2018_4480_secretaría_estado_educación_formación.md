@@ -9,7 +9,7 @@ titulo: Resolución de 23 de marzo de 2018, de la Secretaría de Estado de Educa
   español.
 jurisdiccion: España
 ambito: Estatal
-organo_emisor: Jefatura del Estado / Ministerio
+organo_emisor: Secretaría de Estado de Educación
 tipo_disposicion: Real Decreto / Orden
 fecha_publicacion: '2018-04-02'
 boletin: BOE

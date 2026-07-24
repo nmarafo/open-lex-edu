@@ -1,26 +1,27 @@
 ---
 id: norm-es-1996-3102
-codigo_sintetizado: "BOE-A-1996-3102"
-titulo: "Orden de 1 de febrero de 1996 por la que se aprueban los temarios que han de regir en los procedimientos de ingreso, adquisición de nuevas especialidades y movilidad para determinadas especialidades de los Cuerpos de Profesores de Enseñanza Secundaria y Profesores Técnicos de Formación Profesional."
-jurisdiccion: "España"
-ambito: "Estatal"
-organo_emisor: "Jefatura del Estado / Ministerio"
-tipo_disposicion: "Real Decreto / Orden"
-fecha_publicacion: "1996-02-13"
-boletin: "BOE"
-estado: "Vigente"
-redaccion: "consolidada"
-fuente_oficial: "https://www.boe.es/buscar/act.php?id=BOE-A-1996-3102"
-
+codigo_sintetizado: BOE-A-1996-3102
+titulo: Orden de 1 de febrero de 1996 por la que se aprueban los temarios que han
+  de regir en los procedimientos de ingreso, adquisición de nuevas especialidades
+  y movilidad para determinadas especialidades de los Cuerpos de Profesores de Enseñanza
+  Secundaria y Profesores Técnicos de Formación Profesional.
+jurisdiccion: España
+ambito: Estatal
+organo_emisor: Ministerio de Educación, Formación Profesional y Deportes / Consejo
+  de Ministros
+tipo_disposicion: Real Decreto / Orden
+fecha_publicacion: '1996-02-13'
+boletin: BOE
+estado: Vigente
+redaccion: consolidada
+fuente_oficial: https://www.boe.es/buscar/act.php?id=BOE-A-1996-3102
 clasificacion:
-  categoria_canonica: "08_personal_docente"
-  subcategoria: "Oposiciones y acceso"
-
+  categoria_canonica: 08_personal_docente
+  subcategoria: Oposiciones y acceso
 tags:
-  - estatal
-  - boe
-  - 08_personal_docente
-
+- estatal
+- boe
+- 08_personal_docente
 relaciones: {}
 fundamentos_derecho: []
 ---

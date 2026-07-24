@@ -1,33 +1,32 @@
 ---
 id: norm-can-lo-1-2018
-codigo_sintetizado: "LO1_2018 Estatuto de Autonomia de Canarias"
-titulo: "Ley Orgánica 1/2018, de 5 de noviembre, de reforma del Estatuto de Autonomía de Canarias."
-jurisdiccion: "Canarias"
-ambito: "Autonómico"
-organo_emisor: "Jefatura del Estado"
-tipo_disposicion: "Ley Orgánica"
-numero_disposicion: "1/2018"
-fecha_disposicion: "2018-11-05"
-fecha_publicacion: "2018-11-06"
-boletin: "BOE"
-numero_boletin: "268"
-estado: "Vigente"
-redaccion: "consolidada"
-fuente_oficial: "https://www.boe.es/buscar/act.php?id=BOE-A-2018-15138"
-
+codigo_sintetizado: LO1_2018 Estatuto de Autonomia de Canarias
+titulo: Ley Orgánica 1/2018, de 5 de noviembre, de reforma del Estatuto de Autonomía
+  de Canarias.
+jurisdiccion: Canarias
+ambito: Autonómico
+organo_emisor: Parlamento de Canarias / Gobierno de Canarias
+tipo_disposicion: Ley Orgánica
+numero_disposicion: 1/2018
+fecha_disposicion: '2018-11-05'
+fecha_publicacion: '2018-11-06'
+boletin: BOE
+numero_boletin: '268'
+estado: Vigente
+redaccion: consolidada
+fuente_oficial: https://www.boe.es/buscar/act.php?id=BOE-A-2018-15138
 clasificacion:
-  categoria_canonica: "01_marco_normativo_general_y_organico"
-  subcategoria: "Marco normativo general"
-
+  categoria_canonica: 01_marco_normativo_general_y_organico
+  subcategoria: Marco normativo general
 tags:
-  - canarias
-  - estatuto_autonomia
-  - competencias_educacion
-
+- canarias
+- estatuto_autonomia
+- competencias_educacion
 relaciones: {}
 fundamentos_derecho:
-  - norma_id: "norm-es-ce-1978"
-    articulos: ["147"]
+- norma_id: norm-es-ce-1978
+  articulos:
+  - '147'
 ---
 
 # Estatuto de Autonomía de Canarias (Ley Orgánica 1/2018)

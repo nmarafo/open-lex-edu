@@ -7,7 +7,7 @@ titulo: '- Resolución de la Dirección General de Formación Profesional y Educ
   Autorizados elementales y profesionales de música, en la Comunidad Autónoma de Canarias'
 jurisdiccion: Canarias
 ambito: Autonómico
-organo_emisor: Consejería de Educación
+organo_emisor: Dirección General de Formación Profesional y Educación de Adultos
 tipo_disposicion: Resolución
 estado: Vigente
 redaccion: libro_azul

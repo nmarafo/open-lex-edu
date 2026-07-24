@@ -8,7 +8,7 @@ titulo: Resolución de 6 de noviembre de 2017, de la Dirección General de Forma
   n.º 220, de 15 de noviembre).
 jurisdiccion: Canarias
 ambito: Autonómico
-organo_emisor: Consejería de Educación
+organo_emisor: Dirección General de Formación Profesional y Educación de Adultos
 tipo_disposicion: Resolución
 estado: Vigente
 redaccion: libro_azul

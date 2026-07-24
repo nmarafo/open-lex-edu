@@ -7,7 +7,7 @@ titulo: Resolución de 29 de enero de 2019, por la que se aprueba la convocatori
   5 de febrero).
 jurisdiccion: Canarias
 ambito: Autonómico
-organo_emisor: Consejería de Educación
+organo_emisor: Viceconsejería de Educación
 tipo_disposicion: Resolución
 estado: Vigente
 redaccion: libro_azul

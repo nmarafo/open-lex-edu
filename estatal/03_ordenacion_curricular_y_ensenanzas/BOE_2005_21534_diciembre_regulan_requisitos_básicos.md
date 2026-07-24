@@ -1,26 +1,25 @@
 ---
 id: norm-es-2005-21534
-codigo_sintetizado: "BOE-A-2005-21534"
-titulo: "Real Decreto 1558/2005, de 23 de diciembre, por el que se regulan los requisitos básicos de los Centros integrados de formación profesional."
-jurisdiccion: "España"
-ambito: "Estatal"
-organo_emisor: "Jefatura del Estado / Ministerio"
-tipo_disposicion: "Real Decreto / Orden"
-fecha_publicacion: "2005-12-30"
-boletin: "BOE"
-estado: "Vigente"
-redaccion: "consolidada"
-fuente_oficial: "https://www.boe.es/buscar/act.php?id=BOE-A-2005-21534"
-
+codigo_sintetizado: BOE-A-2005-21534
+titulo: Real Decreto 1558/2005, de 23 de diciembre, por el que se regulan los requisitos
+  básicos de los Centros integrados de formación profesional.
+jurisdiccion: España
+ambito: Estatal
+organo_emisor: Ministerio de Educación, Formación Profesional y Deportes / Consejo
+  de Ministros
+tipo_disposicion: Real Decreto / Orden
+fecha_publicacion: '2005-12-30'
+boletin: BOE
+estado: Vigente
+redaccion: consolidada
+fuente_oficial: https://www.boe.es/buscar/act.php?id=BOE-A-2005-21534
 clasificacion:
-  categoria_canonica: "03_ordenacion_curricular_y_ensenanzas"
-  subcategoria: "Formación Profesional"
-
+  categoria_canonica: 03_ordenacion_curricular_y_ensenanzas
+  subcategoria: Formación Profesional
 tags:
-  - estatal
-  - boe
-  - 03_ordenacion_curricular_y_ensenanzas
-
+- estatal
+- boe
+- 03_ordenacion_curricular_y_ensenanzas
 relaciones: {}
 fundamentos_derecho: []
 ---

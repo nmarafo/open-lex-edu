@@ -5,7 +5,8 @@ titulo: Real Decreto 68/2026, de 4 de febrero, por el que se regula la inspecci�
   educativa.
 jurisdiccion: España
 ambito: Estatal
-organo_emisor: Jefatura del Estado / Ministerio
+organo_emisor: Ministerio de Educación, Formación Profesional y Deportes / Consejo
+  de Ministros
 tipo_disposicion: Real Decreto / Orden
 fecha_publicacion: '2026-02-05'
 boletin: BOE

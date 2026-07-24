@@ -5,7 +5,8 @@ titulo: Real Decreto-ley 20/2012, de 13 de julio, de medidas para garantizar la 
   presupuestaria y de fomento de la competitividad.
 jurisdiccion: España
 ambito: Estatal
-organo_emisor: Jefatura del Estado / Ministerio
+organo_emisor: Ministerio de Educación, Formación Profesional y Deportes / Consejo
+  de Ministros
 tipo_disposicion: Real Decreto / Orden
 fecha_publicacion: '2012-07-14'
 boletin: BOE

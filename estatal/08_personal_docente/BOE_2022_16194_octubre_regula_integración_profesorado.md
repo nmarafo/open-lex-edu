@@ -7,7 +7,8 @@ titulo: Real Decreto 800/2022, de 4 de octubre, por el que se regula la integrac
   decretos relativos al profesorado de enseñanzas no universitarias.
 jurisdiccion: España
 ambito: Estatal
-organo_emisor: Jefatura del Estado / Ministerio
+organo_emisor: Ministerio de Educación, Formación Profesional y Deportes / Consejo
+  de Ministros
 tipo_disposicion: Real Decreto / Orden
 fecha_publicacion: '2022-10-05'
 boletin: BOE

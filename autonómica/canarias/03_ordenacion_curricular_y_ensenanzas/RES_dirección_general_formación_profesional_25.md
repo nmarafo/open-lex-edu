@@ -10,7 +10,7 @@ titulo: Resolución de 5 de noviembre de 2024,de la Dirección General de Formac
   docentes no universitarios de la Comunidad Autónoma de Canarias.
 jurisdiccion: Canarias
 ambito: Autonómico
-organo_emisor: Consejería de Educación
+organo_emisor: Dirección General de Formación Profesional y Educación de Adultos
 tipo_disposicion: Resolución
 estado: Vigente
 redaccion: libro_azul

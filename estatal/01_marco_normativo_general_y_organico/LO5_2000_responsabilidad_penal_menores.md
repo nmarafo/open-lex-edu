@@ -5,7 +5,7 @@ titulo: Ley Orgánica 5/2000, de 12 de enero, reguladora de la responsabilidad p
   de los menores.
 jurisdiccion: España
 ambito: Estatal
-organo_emisor: Jefatura del Estado
+organo_emisor: Jefatura del Estado / Cortes Generales
 tipo_disposicion: Ley Orgánica
 numero_disposicion: 5/2000
 fecha_disposicion: '2000-01-12'

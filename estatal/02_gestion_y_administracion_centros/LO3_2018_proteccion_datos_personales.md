@@ -1,35 +1,34 @@
 ---
 id: norm-es-lo-3-2018
-codigo_sintetizado: "LO3_2018 Proteccion de Datos Personales (LOPDGDD)"
-titulo: "Ley Orgánica 3/2018, de 5 de diciembre, de Protección de Datos Personales y garantía de los derechos digitales."
-jurisdiccion: "España"
-ambito: "Estatal"
-organo_emisor: "Jefatura del Estado"
-tipo_disposicion: "Ley Orgánica"
-numero_disposicion: "3/2018"
-fecha_disposicion: "2018-12-05"
-fecha_publicacion: "2018-12-06"
-boletin: "BOE"
-numero_boletin: "294"
-estado: "Vigente"
-redaccion: "consolidada"
-fuente_oficial: "https://www.boe.es/buscar/act.php?id=BOE-A-2018-16673"
-
+codigo_sintetizado: LO3_2018 Proteccion de Datos Personales (LOPDGDD)
+titulo: Ley Orgánica 3/2018, de 5 de diciembre, de Protección de Datos Personales
+  y garantía de los derechos digitales.
+jurisdiccion: España
+ambito: Estatal
+organo_emisor: Jefatura del Estado / Cortes Generales
+tipo_disposicion: Ley Orgánica
+numero_disposicion: 3/2018
+fecha_disposicion: '2018-12-05'
+fecha_publicacion: '2018-12-06'
+boletin: BOE
+numero_boletin: '294'
+estado: Vigente
+redaccion: consolidada
+fuente_oficial: https://www.boe.es/buscar/act.php?id=BOE-A-2018-16673
 clasificacion:
-  categoria_canonica: "02_gestion_y_administracion_centros"
-  subcategoria: "Protección de datos y seguridad de la información"
-
+  categoria_canonica: 02_gestion_y_administracion_centros
+  subcategoria: Protección de datos y seguridad de la información
 tags:
-  - proteccion_datos
-  - lopdgdd
-  - derechos_digitales
-  - seguridad_informacion
-  - estatal
-
+- proteccion_datos
+- lopdgdd
+- derechos_digitales
+- seguridad_informacion
+- estatal
 relaciones: {}
 fundamentos_derecho:
-  - norma_id: "norm-es-ce-1978"
-    articulos: ["18.4"]
+- norma_id: norm-es-ce-1978
+  articulos:
+  - '18.4'
 ---
 
 # Ley Orgánica 3/2018 de Protección de Datos Personales y Garantía de los Derechos Digitales

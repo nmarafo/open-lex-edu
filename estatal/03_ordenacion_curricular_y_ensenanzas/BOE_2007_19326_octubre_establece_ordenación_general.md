@@ -5,7 +5,8 @@ titulo: Real Decreto 1363/2007, de 24 de octubre, por el que se establece la ord
   general de las enseñanzas deportivas de régimen especial.
 jurisdiccion: España
 ambito: Estatal
-organo_emisor: Jefatura del Estado / Ministerio
+organo_emisor: Ministerio de Educación, Formación Profesional y Deportes / Consejo
+  de Ministros
 tipo_disposicion: Real Decreto / Orden
 fecha_publicacion: '2007-11-08'
 boletin: BOE

@@ -9,7 +9,7 @@ titulo: Resolución de 30 de enero de 2007, de la Dirección General de Trabajo 
   de Canarias (BOC n.º 36, de 19 de febrero).
 jurisdiccion: Canarias
 ambito: Autonómico
-organo_emisor: Consejería de Educación
+organo_emisor: Dirección General de Trabajo
 tipo_disposicion: Resolución
 estado: Vigente
 redaccion: libro_azul

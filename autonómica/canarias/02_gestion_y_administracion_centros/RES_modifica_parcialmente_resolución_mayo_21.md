@@ -7,7 +7,7 @@ titulo: Resolución de 28 de julio de 2022, por la que se modifica parcialmente 
   (BOC n.º 158, de 10 de agosto).
 jurisdiccion: Canarias
 ambito: Autonómico
-organo_emisor: Consejería de Educación
+organo_emisor: Dirección General de Personal y Formación del Profesorado
 tipo_disposicion: Resolución
 estado: Vigente
 redaccion: libro_azul

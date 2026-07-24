@@ -7,7 +7,8 @@ titulo: Orden ECD/3305/2002, de 16 de diciembre, por la que se modifican las de 
   títulos y estudios extranjeros de educación no universitaria.
 jurisdiccion: España
 ambito: Estatal
-organo_emisor: Jefatura del Estado / Ministerio
+organo_emisor: Ministerio de Educación, Formación Profesional y Deportes / Consejo
+  de Ministros
 tipo_disposicion: Real Decreto / Orden
 fecha_publicacion: '2002-12-28'
 boletin: BOE

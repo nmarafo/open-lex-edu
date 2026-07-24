@@ -9,7 +9,7 @@ titulo: Resolución de 28 de mayo de 2015, por la que se ordena la publicación 
   n.º 111, de 11 de junio).
 jurisdiccion: Canarias
 ambito: Autonómico
-organo_emisor: Consejería de Educación
+organo_emisor: Secretaría General Técnica
 tipo_disposicion: Resolución
 estado: Vigente
 redaccion: libro_azul

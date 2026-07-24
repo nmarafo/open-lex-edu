@@ -7,7 +7,7 @@ titulo: Resolución de 12 de febrero de 2021, por la que se delega en las Direcc
   n.º 38, de 24 de febrero).
 jurisdiccion: Canarias
 ambito: Autonómico
-organo_emisor: Consejería de Educación
+organo_emisor: Dirección General de Personal y Formación del Profesorado
 tipo_disposicion: Resolución
 estado: Vigente
 redaccion: libro_azul

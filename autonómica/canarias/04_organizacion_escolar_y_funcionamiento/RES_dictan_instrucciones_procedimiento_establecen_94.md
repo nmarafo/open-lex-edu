@@ -8,7 +8,7 @@ titulo: Resolución de 12 de enero de 2012, por la que se dictan instrucciones d
   de 23 de enero).
 jurisdiccion: Canarias
 ambito: Autonómico
-organo_emisor: Consejería de Educación
+organo_emisor: Dirección General de Personal y Formación del Profesorado
 tipo_disposicion: Resolución
 estado: Vigente
 redaccion: libro_azul

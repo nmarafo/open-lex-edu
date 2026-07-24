@@ -8,7 +8,8 @@ titulo: Resolución de 28 de julio de 2010, de la Dirección General de Promoci�
   agosto).
 jurisdiccion: Canarias
 ambito: Autonómico
-organo_emisor: Consejería de Educación
+organo_emisor: Dirección General de Administración de Centros, Escolarización y Servicios
+  Complementarios
 tipo_disposicion: Resolución
 estado: Vigente
 redaccion: libro_azul

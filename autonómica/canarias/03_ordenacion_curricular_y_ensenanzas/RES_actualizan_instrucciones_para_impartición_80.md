@@ -6,7 +6,7 @@ titulo: Resolución de 24 de mayo de 2021, por la que se actualizan las instrucc
   de grado medio y superior de Formación Profesional (BOC n.º 114, de 4 de junio).
 jurisdiccion: Canarias
 ambito: Autonómico
-organo_emisor: Consejería de Educación
+organo_emisor: Dirección General de Formación Profesional y Educación de Adultos
 tipo_disposicion: Resolución
 estado: Vigente
 redaccion: libro_azul

@@ -5,7 +5,8 @@ titulo: Real Decreto 126/2014, de 28 de febrero, por el que se establece el curr
   básico de la Educación Primaria.
 jurisdiccion: España
 ambito: Estatal
-organo_emisor: Jefatura del Estado / Ministerio
+organo_emisor: Ministerio de Educación, Formación Profesional y Deportes / Consejo
+  de Ministros
 tipo_disposicion: Real Decreto / Orden
 fecha_publicacion: '2014-03-01'
 boletin: BOE

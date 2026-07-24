@@ -6,7 +6,8 @@ titulo: Orden EDU/216/2011, de 8 de febrero, por la que se establece el procedim
   de fútbol y fútbol sala.
 jurisdiccion: España
 ambito: Estatal
-organo_emisor: Jefatura del Estado / Ministerio
+organo_emisor: Ministerio de Educación, Formación Profesional y Deportes / Consejo
+  de Ministros
 tipo_disposicion: Real Decreto / Orden
 fecha_publicacion: '2011-02-11'
 boletin: BOE

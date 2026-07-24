@@ -1,34 +1,33 @@
 ---
 id: norm-es-lo-1-2004
-codigo_sintetizado: "LO1_2004 Proteccion Integral contra la Violencia de Genero"
-titulo: "Ley Orgánica 1/2004, de 28 de diciembre, de Medidas de Protección Integral contra la Violencia de Género."
-jurisdiccion: "España"
-ambito: "Estatal"
-organo_emisor: "Jefatura del Estado"
-tipo_disposicion: "Ley Orgánica"
-numero_disposicion: "1/2004"
-fecha_disposicion: "2004-12-28"
-fecha_publicacion: "2004-12-29"
-boletin: "BOE"
-numero_boletin: "313"
-estado: "Vigente"
-redaccion: "consolidada"
-fuente_oficial: "https://www.boe.es/buscar/act.php?id=BOE-A-2004-21760"
-
+codigo_sintetizado: LO1_2004 Proteccion Integral contra la Violencia de Genero
+titulo: Ley Orgánica 1/2004, de 28 de diciembre, de Medidas de Protección Integral
+  contra la Violencia de Género.
+jurisdiccion: España
+ambito: Estatal
+organo_emisor: Jefatura del Estado / Cortes Generales
+tipo_disposicion: Ley Orgánica
+numero_disposicion: 1/2004
+fecha_disposicion: '2004-12-28'
+fecha_publicacion: '2004-12-29'
+boletin: BOE
+numero_boletin: '313'
+estado: Vigente
+redaccion: consolidada
+fuente_oficial: https://www.boe.es/buscar/act.php?id=BOE-A-2004-21760
 clasificacion:
-  categoria_canonica: "07_convivencia_bienestar_y_protocolos"
-  subcategoria: "Protocolos de actuación y protección"
-
+  categoria_canonica: 07_convivencia_bienestar_y_protocolos
+  subcategoria: Protocolos de actuación y protección
 tags:
-  - violencia_genero
-  - igualdad
-  - proteccion_victimas
-  - estatal
-
+- violencia_genero
+- igualdad
+- proteccion_victimas
+- estatal
 relaciones: {}
 fundamentos_derecho:
-  - norma_id: "norm-es-ce-1978"
-    articulos: ["14"]
+- norma_id: norm-es-ce-1978
+  articulos:
+  - '14'
 ---
 
 # Ley Orgánica 1/2004 de Medidas de Protección Integral contra la Violencia de Género

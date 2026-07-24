@@ -8,7 +8,7 @@ titulo: Resolución de la Dirección General de Formación Profesional y Enseña
   curso escolar 2024/2025, en el ámbito de la Comunidad Autónoma de Canarias
 jurisdiccion: Canarias
 ambito: Autonómico
-organo_emisor: Consejería de Educación
+organo_emisor: Dirección General de Formación Profesional y Educación de Adultos
 tipo_disposicion: Resolución
 estado: Vigente
 redaccion: libro_azul

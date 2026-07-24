@@ -7,7 +7,8 @@ titulo: Orden ECD/826/2004, de 22 de marzo, por la que se aprueban los temarios 
   y Maestros de Taller de Artes Plásticas y Diseño.
 jurisdiccion: España
 ambito: Estatal
-organo_emisor: Jefatura del Estado / Ministerio
+organo_emisor: Ministerio de Educación, Formación Profesional y Deportes / Consejo
+  de Ministros
 tipo_disposicion: Real Decreto / Orden
 fecha_publicacion: '2004-03-31'
 boletin: BOE

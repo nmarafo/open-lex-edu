@@ -1,26 +1,26 @@
 ---
 id: norm-es-1987-13494
-codigo_sintetizado: "BOE-A-1987-13494"
-titulo: "Orden de 4 de junio de 1987 sobre desarrollo del Real Decreto 605/1987, de 10 de abril, por el que se regula el procedimiento de autorización previa a la desafectación de los edificios públicos escolares de propiedad municipal."
-jurisdiccion: "España"
-ambito: "Estatal"
-organo_emisor: "Jefatura del Estado / Ministerio"
-tipo_disposicion: "Real Decreto / Orden"
-fecha_publicacion: "1987-06-09"
-boletin: "BOE"
-estado: "Vigente"
-redaccion: "consolidada"
-fuente_oficial: "https://www.boe.es/buscar/act.php?id=BOE-A-1987-13494"
-
+codigo_sintetizado: BOE-A-1987-13494
+titulo: Orden de 4 de junio de 1987 sobre desarrollo del Real Decreto 605/1987, de
+  10 de abril, por el que se regula el procedimiento de autorización previa a la desafectación
+  de los edificios públicos escolares de propiedad municipal.
+jurisdiccion: España
+ambito: Estatal
+organo_emisor: Ministerio de Educación, Formación Profesional y Deportes / Consejo
+  de Ministros
+tipo_disposicion: Real Decreto / Orden
+fecha_publicacion: '1987-06-09'
+boletin: BOE
+estado: Vigente
+redaccion: consolidada
+fuente_oficial: https://www.boe.es/buscar/act.php?id=BOE-A-1987-13494
 clasificacion:
-  categoria_canonica: "02_gestion_y_administracion_centros"
-  subcategoria: "Centros públicos"
-
+  categoria_canonica: 02_gestion_y_administracion_centros
+  subcategoria: Centros públicos
 tags:
-  - estatal
-  - boe
-  - 02_gestion_y_administracion_centros
-
+- estatal
+- boe
+- 02_gestion_y_administracion_centros
 relaciones: {}
 fundamentos_derecho: []
 ---

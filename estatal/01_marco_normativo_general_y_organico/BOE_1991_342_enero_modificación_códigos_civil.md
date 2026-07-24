@@ -1,26 +1,25 @@
 ---
 id: norm-es-1991-342
-codigo_sintetizado: "BOE-A-1991-342"
-titulo: "Ley 1/1991, de 7 de enero, de modificación de los Códigos Civil y Penal en materia de responsabilidad civil del profesorado."
-jurisdiccion: "España"
-ambito: "Estatal"
-organo_emisor: "Jefatura del Estado / Ministerio"
-tipo_disposicion: "Real Decreto / Orden"
-fecha_publicacion: "1991-01-08"
-boletin: "BOE"
-estado: "Vigente"
-redaccion: "consolidada"
-fuente_oficial: "https://www.boe.es/buscar/act.php?id=BOE-A-1991-342"
-
+codigo_sintetizado: BOE-A-1991-342
+titulo: Ley 1/1991, de 7 de enero, de modificación de los Códigos Civil y Penal en
+  materia de responsabilidad civil del profesorado.
+jurisdiccion: España
+ambito: Estatal
+organo_emisor: Ministerio de Educación, Formación Profesional y Deportes / Consejo
+  de Ministros
+tipo_disposicion: Real Decreto / Orden
+fecha_publicacion: '1991-01-08'
+boletin: BOE
+estado: Vigente
+redaccion: consolidada
+fuente_oficial: https://www.boe.es/buscar/act.php?id=BOE-A-1991-342
 clasificacion:
-  categoria_canonica: "01_marco_normativo_general_y_organico"
-  subcategoria: "Empleados públicos"
-
+  categoria_canonica: 01_marco_normativo_general_y_organico
+  subcategoria: Empleados públicos
 tags:
-  - estatal
-  - boe
-  - 01_marco_normativo_general_y_organico
-
+- estatal
+- boe
+- 01_marco_normativo_general_y_organico
 relaciones: {}
 fundamentos_derecho: []
 ---

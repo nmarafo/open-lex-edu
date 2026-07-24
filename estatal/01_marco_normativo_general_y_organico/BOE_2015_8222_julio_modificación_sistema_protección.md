@@ -5,7 +5,8 @@ titulo: Ley Orgánica 8/2015, de 22 de julio, de modificación del sistema de pr
   a la infancia y a la adolescencia.
 jurisdiccion: España
 ambito: Estatal
-organo_emisor: Jefatura del Estado / Ministerio
+organo_emisor: Ministerio de Educación, Formación Profesional y Deportes / Consejo
+  de Ministros
 tipo_disposicion: Real Decreto / Orden
 fecha_publicacion: '2015-07-23'
 boletin: BOE

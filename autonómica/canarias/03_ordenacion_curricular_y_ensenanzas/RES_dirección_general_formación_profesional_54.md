@@ -8,7 +8,7 @@ titulo: Resolución de 23 de julio de 2004, de la Dirección General de Formaci�
   agosto).
 jurisdiccion: Canarias
 ambito: Autonómico
-organo_emisor: Consejería de Educación
+organo_emisor: Dirección General de Formación Profesional y Educación de Adultos
 tipo_disposicion: Resolución
 estado: Vigente
 redaccion: libro_azul

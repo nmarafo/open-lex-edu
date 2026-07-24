@@ -1,34 +1,33 @@
 ---
 id: norm-es-lo-1-1982
-codigo_sintetizado: "LO1_1982 Proteccion Civil del Derecho al Honor e Intimidad"
-titulo: "Ley Orgánica 1/1982, de 5 de mayo, de protección civil del derecho al honor, a la intimidad personal y familiar y a la propia imagen."
-jurisdiccion: "España"
-ambito: "Estatal"
-organo_emisor: "Jefatura del Estado"
-tipo_disposicion: "Ley Orgánica"
-numero_disposicion: "1/1982"
-fecha_disposicion: "1982-05-05"
-fecha_publicacion: "1982-05-14"
-boletin: "BOE"
-numero_boletin: "115"
-estado: "Vigente"
-redaccion: "consolidada"
-fuente_oficial: "https://www.boe.es/buscar/act.php?id=BOE-A-1982-11196"
-
+codigo_sintetizado: LO1_1982 Proteccion Civil del Derecho al Honor e Intimidad
+titulo: Ley Orgánica 1/1982, de 5 de mayo, de protección civil del derecho al honor,
+  a la intimidad personal y familiar y a la propia imagen.
+jurisdiccion: España
+ambito: Estatal
+organo_emisor: Jefatura del Estado / Cortes Generales
+tipo_disposicion: Ley Orgánica
+numero_disposicion: 1/1982
+fecha_disposicion: '1982-05-05'
+fecha_publicacion: '1982-05-14'
+boletin: BOE
+numero_boletin: '115'
+estado: Vigente
+redaccion: consolidada
+fuente_oficial: https://www.boe.es/buscar/act.php?id=BOE-A-1982-11196
 clasificacion:
-  categoria_canonica: "01_marco_normativo_general_y_organico"
-  subcategoria: "Protección jurídica de menores"
-
+  categoria_canonica: 01_marco_normativo_general_y_organico
+  subcategoria: Protección jurídica de menores
 tags:
-  - derecho_honor
-  - intimidad_imagen
-  - proteccion_menores
-  - estatal
-
+- derecho_honor
+- intimidad_imagen
+- proteccion_menores
+- estatal
 relaciones: {}
 fundamentos_derecho:
-  - norma_id: "norm-es-ce-1978"
-    articulos: ["18"]
+- norma_id: norm-es-ce-1978
+  articulos:
+  - '18'
 ---
 
 # Ley Orgánica 1/1982 de Protección Civil del Derecho al Honor, a la Intimidad Personal y a la Propia Imagen

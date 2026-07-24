@@ -8,7 +8,8 @@ titulo: Orden ECD/1058/2013, de 7 de junio, por la que se modifica la Orden EDU/
   estudios de máster.
 jurisdiccion: España
 ambito: Estatal
-organo_emisor: Jefatura del Estado / Ministerio
+organo_emisor: Ministerio de Educación, Formación Profesional y Deportes / Consejo
+  de Ministros
 tipo_disposicion: Real Decreto / Orden
 fecha_publicacion: '2013-06-12'
 boletin: BOE

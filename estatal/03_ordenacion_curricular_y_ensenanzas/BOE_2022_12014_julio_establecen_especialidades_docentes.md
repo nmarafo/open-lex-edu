@@ -6,7 +6,8 @@ titulo: Real Decreto 588/2022, de 19 de julio, por el que se establecen las espe
   vinculadas a las enseñanzas de Arte Dramático.
 jurisdiccion: España
 ambito: Estatal
-organo_emisor: Jefatura del Estado / Ministerio
+organo_emisor: Ministerio de Educación, Formación Profesional y Deportes / Consejo
+  de Ministros
 tipo_disposicion: Real Decreto / Orden
 fecha_publicacion: '2022-07-20'
 boletin: BOE

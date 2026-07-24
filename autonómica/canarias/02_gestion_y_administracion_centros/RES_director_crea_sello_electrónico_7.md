@@ -6,7 +6,7 @@ titulo: Agencia Canaria de Calidad Universitaria y Evaluación Educativa (ACCUEE
   cualificado de la Agencia Canaria de Calidad Universitaria y Evaluación Educativa.
 jurisdiccion: Canarias
 ambito: Autonómico
-organo_emisor: Consejería de Educación
+organo_emisor: Secretaría General Técnica
 tipo_disposicion: Resolución
 estado: Vigente
 redaccion: libro_azul

@@ -8,7 +8,7 @@ titulo: Resolución de 12 de mayo de 2011, por la que se corrige el error de hec
   Canarias, al no insertarse los anexos I, II y III (BOC n.º 91, de 9 de mayo).
 jurisdiccion: Canarias
 ambito: Autonómico
-organo_emisor: Consejería de Educación
+organo_emisor: Secretaría General Técnica
 tipo_disposicion: Resolución
 estado: Vigente
 redaccion: libro_azul

@@ -1,26 +1,25 @@
 ---
 id: norm-es-1998-10720
-codigo_sintetizado: "BOE-A-1998-10720"
-titulo: "Real Decreto 777/1998, de 30 de abril, por el que se desarrollan determinados aspectos de la ordenación de la formación profesional en el ámbito del sistema educativo."
-jurisdiccion: "España"
-ambito: "Estatal"
-organo_emisor: "Jefatura del Estado / Ministerio"
-tipo_disposicion: "Real Decreto / Orden"
-fecha_publicacion: "1998-05-08"
-boletin: "BOE"
-estado: "Vigente"
-redaccion: "consolidada"
-fuente_oficial: "https://www.boe.es/buscar/act.php?id=BOE-A-1998-10720"
-
+codigo_sintetizado: BOE-A-1998-10720
+titulo: Real Decreto 777/1998, de 30 de abril, por el que se desarrollan determinados
+  aspectos de la ordenación de la formación profesional en el ámbito del sistema educativo.
+jurisdiccion: España
+ambito: Estatal
+organo_emisor: Ministerio de Educación, Formación Profesional y Deportes / Consejo
+  de Ministros
+tipo_disposicion: Real Decreto / Orden
+fecha_publicacion: '1998-05-08'
+boletin: BOE
+estado: Vigente
+redaccion: consolidada
+fuente_oficial: https://www.boe.es/buscar/act.php?id=BOE-A-1998-10720
 clasificacion:
-  categoria_canonica: "08_personal_docente"
-  subcategoria: "Especialidades y habilitaciones"
-
+  categoria_canonica: 08_personal_docente
+  subcategoria: Especialidades y habilitaciones
 tags:
-  - estatal
-  - boe
-  - 08_personal_docente
-
+- estatal
+- boe
+- 08_personal_docente
 relaciones: {}
 fundamentos_derecho: []
 ---

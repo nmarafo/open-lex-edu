@@ -7,7 +7,7 @@ titulo: Secretaría General Técnica.- Resolución de 24 de febrero de 2017, por
   3 de marzo).
 jurisdiccion: Canarias
 ambito: Autonómico
-organo_emisor: Consejería de Educación
+organo_emisor: Dirección General de Ordenación, Inclusión e Innovación
 tipo_disposicion: Resolución
 estado: Vigente
 redaccion: libro_azul

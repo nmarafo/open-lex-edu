@@ -1,26 +1,26 @@
 ---
 id: norm-es-2014-7684
-codigo_sintetizado: "BOE-A-2014-7684"
-titulo: "Real Decreto 625/2014, de 18 de julio, por el que se regulan determinados aspectos de la gestión y control de los procesos por incapacidad temporal en los primeros trescientos sesenta y cinco días de su duración."
-jurisdiccion: "España"
-ambito: "Estatal"
-organo_emisor: "Jefatura del Estado / Ministerio"
-tipo_disposicion: "Real Decreto / Orden"
-fecha_publicacion: "2014-07-21"
-boletin: "BOE"
-estado: "Vigente"
-redaccion: "consolidada"
-fuente_oficial: "https://www.boe.es/buscar/act.php?id=BOE-A-2014-7684"
-
+codigo_sintetizado: BOE-A-2014-7684
+titulo: Real Decreto 625/2014, de 18 de julio, por el que se regulan determinados
+  aspectos de la gestión y control de los procesos por incapacidad temporal en los
+  primeros trescientos sesenta y cinco días de su duración.
+jurisdiccion: España
+ambito: Estatal
+organo_emisor: Ministerio de Educación, Formación Profesional y Deportes / Consejo
+  de Ministros
+tipo_disposicion: Real Decreto / Orden
+fecha_publicacion: '2014-07-21'
+boletin: BOE
+estado: Vigente
+redaccion: consolidada
+fuente_oficial: https://www.boe.es/buscar/act.php?id=BOE-A-2014-7684
 clasificacion:
-  categoria_canonica: "08_personal_docente"
-  subcategoria: "Salud laboral y vigilancia"
-
+  categoria_canonica: 08_personal_docente
+  subcategoria: Salud laboral y vigilancia
 tags:
-  - estatal
-  - boe
-  - 08_personal_docente
-
+- estatal
+- boe
+- 08_personal_docente
 relaciones: {}
 fundamentos_derecho: []
 ---

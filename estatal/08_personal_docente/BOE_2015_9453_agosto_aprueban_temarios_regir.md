@@ -7,7 +7,8 @@ titulo: Orden ECD/1753/2015, de 25 de agosto, por la que se aprueban los temario
   vinculadas a las enseñanzas de música y de danza.
 jurisdiccion: España
 ambito: Estatal
-organo_emisor: Jefatura del Estado / Ministerio
+organo_emisor: Ministerio de Educación, Formación Profesional y Deportes / Consejo
+  de Ministros
 tipo_disposicion: Real Decreto / Orden
 fecha_publicacion: '2015-08-28'
 boletin: BOE

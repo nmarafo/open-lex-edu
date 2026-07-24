@@ -5,7 +5,8 @@ titulo: Ley 27/2013, de 27 de diciembre, de racionalización y sostenibilidad de
   Administración Local.
 jurisdiccion: España
 ambito: Estatal
-organo_emisor: Jefatura del Estado / Ministerio
+organo_emisor: Ministerio de Educación, Formación Profesional y Deportes / Consejo
+  de Ministros
 tipo_disposicion: Real Decreto / Orden
 fecha_publicacion: '2013-12-30'
 boletin: BOE

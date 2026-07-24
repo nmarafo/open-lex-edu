@@ -8,7 +8,7 @@ titulo: Resolución de 10 de enero de 2018, de la Dirección General de Personal
   del ámbito de la Consejería de Educación y Universidades (BOC n.º 19, de 26 de enero).
 jurisdiccion: Canarias
 ambito: Autonómico
-organo_emisor: Consejería de Educación
+organo_emisor: Dirección General de Personal y Formación del Profesorado
 tipo_disposicion: Resolución
 estado: Vigente
 redaccion: libro_azul

@@ -4,7 +4,8 @@ codigo_sintetizado: BOE-A-1984-17387
 titulo: Ley 30/1984, de 2 de agosto, de medidas para la reforma de la Función Pública.
 jurisdiccion: España
 ambito: Estatal
-organo_emisor: Jefatura del Estado / Ministerio
+organo_emisor: Ministerio de Educación, Formación Profesional y Deportes / Consejo
+  de Ministros
 tipo_disposicion: Real Decreto / Orden
 fecha_publicacion: '1984-08-03'
 boletin: BOE

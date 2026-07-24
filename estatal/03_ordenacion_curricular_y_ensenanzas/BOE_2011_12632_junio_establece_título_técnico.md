@@ -6,7 +6,8 @@ titulo: Real Decreto 878/2011, de 24 de junio, por el que se establece el títul
   los requisitos de acceso.
 jurisdiccion: España
 ambito: Estatal
-organo_emisor: Jefatura del Estado / Ministerio
+organo_emisor: Ministerio de Educación, Formación Profesional y Deportes / Consejo
+  de Ministros
 tipo_disposicion: Real Decreto / Orden
 fecha_publicacion: '2011-07-22'
 boletin: BOE

@@ -4,7 +4,8 @@ codigo_sintetizado: BOE-A-2022-11589
 titulo: Ley 15/2022, de 12 de julio, integral para la igualdad de trato y la no discriminación.
 jurisdiccion: España
 ambito: Estatal
-organo_emisor: Jefatura del Estado / Ministerio
+organo_emisor: Ministerio de Educación, Formación Profesional y Deportes / Consejo
+  de Ministros
 tipo_disposicion: Real Decreto / Orden
 fecha_publicacion: '2022-07-13'
 boletin: BOE

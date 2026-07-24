@@ -7,7 +7,7 @@ titulo: Resolución de 20 de enero de 2017, de la Dirección General de Ordenaci
   en materia de innovación y promoción educativa (BOC n.º 20, de 30 de enero).
 jurisdiccion: Canarias
 ambito: Autonómico
-organo_emisor: Consejería de Educación
+organo_emisor: Dirección General de Ordenación, Inclusión e Innovación
 tipo_disposicion: Resolución
 estado: Vigente
 redaccion: libro_azul

@@ -1,35 +1,35 @@
 ---
 id: norm-es-lo-8-2021
-codigo_sintetizado: "LO8_2021 Proteccion Integral a la Infancia y Adolescencia (LOPIVI)"
-titulo: "Ley Orgánica 8/2021, de 4 de junio, de protección integral a la infancia y la adolescencia frente a la violencia."
-jurisdiccion: "España"
-ambito: "Estatal"
-organo_emisor: "Jefatura del Estado"
-tipo_disposicion: "Ley Orgánica"
-numero_disposicion: "8/2021"
-fecha_disposicion: "2021-06-04"
-fecha_publicacion: "2021-06-05"
-boletin: "BOE"
-numero_boletin: "134"
-estado: "Vigente"
-redaccion: "consolidada"
-fuente_oficial: "https://www.boe.es/buscar/act.php?id=BOE-A-2021-9347"
-
+codigo_sintetizado: LO8_2021 Proteccion Integral a la Infancia y Adolescencia (LOPIVI)
+titulo: Ley Orgánica 8/2021, de 4 de junio, de protección integral a la infancia y
+  la adolescencia frente a la violencia.
+jurisdiccion: España
+ambito: Estatal
+organo_emisor: Jefatura del Estado / Cortes Generales
+tipo_disposicion: Ley Orgánica
+numero_disposicion: 8/2021
+fecha_disposicion: '2021-06-04'
+fecha_publicacion: '2021-06-05'
+boletin: BOE
+numero_boletin: '134'
+estado: Vigente
+redaccion: consolidada
+fuente_oficial: https://www.boe.es/buscar/act.php?id=BOE-A-2021-9347
 clasificacion:
-  categoria_canonica: "07_convivencia_bienestar_y_protocolos"
-  subcategoria: "Protocolos de actuación y protección"
-
+  categoria_canonica: 07_convivencia_bienestar_y_protocolos
+  subcategoria: Protocolos de actuación y protección
 tags:
-  - lopivi
-  - proteccion_menores
-  - coordinador_bienestar
-  - prevencion_violencia
-  - estatal
-
+- lopivi
+- proteccion_menores
+- coordinador_bienestar
+- prevencion_violencia
+- estatal
 relaciones: {}
 fundamentos_derecho:
-  - norma_id: "norm-es-ce-1978"
-    articulos: ["15", "39"]
+- norma_id: norm-es-ce-1978
+  articulos:
+  - '15'
+  - '39'
 ---
 
 # Ley Orgánica 8/2021 de Protección Integral a la Infancia y la Adolescencia frente a la Violencia (LOPIVI)

@@ -5,7 +5,8 @@ titulo: Real Decreto 806/1993, de 28 de mayo, sobre régimen de Centros docentes
   en España.
 jurisdiccion: España
 ambito: Estatal
-organo_emisor: Jefatura del Estado / Ministerio
+organo_emisor: Ministerio de Educación, Formación Profesional y Deportes / Consejo
+  de Ministros
 tipo_disposicion: Real Decreto / Orden
 fecha_publicacion: '1993-06-23'
 boletin: BOE

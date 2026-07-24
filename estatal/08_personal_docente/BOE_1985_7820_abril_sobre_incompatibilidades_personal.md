@@ -1,26 +1,26 @@
 ---
 id: norm-es-1985-7820
-codigo_sintetizado: "BOE-A-1985-7820"
-titulo: "Real Decreto 598/1985, de 30 de abril, sobre incompatibilidades del personal al servicio de la Administración del Estado, de la Seguridad Social y de los Entes, Organismos y Empresas dependientes."
-jurisdiccion: "España"
-ambito: "Estatal"
-organo_emisor: "Jefatura del Estado / Ministerio"
-tipo_disposicion: "Real Decreto / Orden"
-fecha_publicacion: "1985-05-04"
-boletin: "BOE"
-estado: "Vigente"
-redaccion: "consolidada"
-fuente_oficial: "https://www.boe.es/buscar/act.php?id=BOE-A-1985-7820"
-
+codigo_sintetizado: BOE-A-1985-7820
+titulo: Real Decreto 598/1985, de 30 de abril, sobre incompatibilidades del personal
+  al servicio de la Administración del Estado, de la Seguridad Social y de los Entes,
+  Organismos y Empresas dependientes.
+jurisdiccion: España
+ambito: Estatal
+organo_emisor: Ministerio de Educación, Formación Profesional y Deportes / Consejo
+  de Ministros
+tipo_disposicion: Real Decreto / Orden
+fecha_publicacion: '1985-05-04'
+boletin: BOE
+estado: Vigente
+redaccion: consolidada
+fuente_oficial: https://www.boe.es/buscar/act.php?id=BOE-A-1985-7820
 clasificacion:
-  categoria_canonica: "08_personal_docente"
-  subcategoria: "Funcionarios de carrera"
-
+  categoria_canonica: 08_personal_docente
+  subcategoria: Funcionarios de carrera
 tags:
-  - estatal
-  - boe
-  - 08_personal_docente
-
+- estatal
+- boe
+- 08_personal_docente
 relaciones: {}
 fundamentos_derecho: []
 ---

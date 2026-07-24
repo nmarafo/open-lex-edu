@@ -8,7 +8,7 @@ titulo: Resolución de 28 de febrero de 2011, de la Dirección General de Teleco
   8 de marzo).
 jurisdiccion: Canarias
 ambito: Autonómico
-organo_emisor: Consejería de Educación
+organo_emisor: Dirección General competente de la Consejería de Educación de Canarias
 tipo_disposicion: Resolución
 estado: Vigente
 redaccion: libro_azul

@@ -4,7 +4,8 @@ codigo_sintetizado: BOE-A-2003-23399
 titulo: Ley 59/2003, de 19 de diciembre, de firma electrónica.
 jurisdiccion: España
 ambito: Estatal
-organo_emisor: Jefatura del Estado / Ministerio
+organo_emisor: Ministerio de Educación, Formación Profesional y Deportes / Consejo
+  de Ministros
 tipo_disposicion: Real Decreto / Orden
 fecha_publicacion: '2003-12-20'
 boletin: BOE

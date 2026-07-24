@@ -5,7 +5,8 @@ titulo: Real Decreto 243/2022, de 5 de abril, por el que se establecen la ordena
   y las enseñanzas mínimas del Bachillerato.
 jurisdiccion: España
 ambito: Estatal
-organo_emisor: Ministerio de Educación y Formación Profesional
+organo_emisor: Ministerio de Educación, Formación Profesional y Deportes / Consejo
+  de Ministros
 tipo_disposicion: Real Decreto
 numero_disposicion: 243/2022
 fecha_disposicion: '2022-04-05'

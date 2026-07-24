@@ -6,7 +6,8 @@ titulo: Resolución de la Viceconsejería de Educación y Universidades, por la 
   y los colectivos de escuelas rurales en canarias (13 de marzo de 2015).
 jurisdiccion: Canarias
 ambito: Autonómico
-organo_emisor: Consejería de Educación
+organo_emisor: Dirección General de Administración de Centros, Escolarización y Servicios
+  Complementarios
 tipo_disposicion: Resolución
 estado: Vigente
 redaccion: libro_azul

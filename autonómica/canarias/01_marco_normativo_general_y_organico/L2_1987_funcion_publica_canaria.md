@@ -1,42 +1,42 @@
 ---
 id: norm-can-l-2-1987
-codigo_sintetizado: "L2_1987 Ley de la Funcion Publica Canaria"
-titulo: "Ley 2/1987, de 30 de marzo, de la Función Pública Canaria."
-jurisdiccion: "Canarias"
-ambito: "Autonómico"
-organo_emisor: "Presidencia del Gobierno de Canarias"
-tipo_disposicion: "Ley"
-numero_disposicion: "2/1987"
-fecha_disposicion: "1987-03-30"
-fecha_publicacion: "1987-04-03"
-boletin: "BOC"
-numero_boletin: "40"
-estado: "Vigente"
-redaccion: "consolidada"
-fuente_oficial: "https://www.boe.es/buscar/act.php?id=BOE-A-1987-11921"
-fuente_juriscan: "https://www.gobiernodecanarias.org/juriscan/ficha.jsp?id=2046"
-
+codigo_sintetizado: L2_1987 Ley de la Funcion Publica Canaria
+titulo: Ley 2/1987, de 30 de marzo, de la Función Pública Canaria.
+jurisdiccion: Canarias
+ambito: Autonómico
+organo_emisor: Parlamento de Canarias / Gobierno de Canarias
+tipo_disposicion: Ley
+numero_disposicion: 2/1987
+fecha_disposicion: '1987-03-30'
+fecha_publicacion: '1987-04-03'
+boletin: BOC
+numero_boletin: '40'
+estado: Vigente
+redaccion: consolidada
+fuente_oficial: https://www.boe.es/buscar/act.php?id=BOE-A-1987-11921
+fuente_juriscan: https://www.gobiernodecanarias.org/juriscan/ficha.jsp?id=2046
 clasificacion:
-  categoria_canonica: "01_marco_normativo_general_y_organico"
-  subcategoria: "Empleados públicos"
-
+  categoria_canonica: 01_marco_normativo_general_y_organico
+  subcategoria: Empleados públicos
 tags:
-  - canarias
-  - funcion_publica
-  - empleados_publicos
-  - seleccion_personal
-  - situacion_administrativa
-
+- canarias
+- funcion_publica
+- empleados_publicos
+- seleccion_personal
+- situacion_administrativa
 relaciones:
   desarrolla:
-    - norma_id: "norm-es-rdl-5-2015"
-      articulos_origen: ["Todos"]
-      articulos_destino: ["Todos"]
-      nota: "Desarrolla la legislación básica de función pública del Estado (TREBEP) en Canarias."
-
+  - norma_id: norm-es-rdl-5-2015
+    articulos_origen:
+    - Todos
+    articulos_destino:
+    - Todos
+    nota: Desarrolla la legislación básica de función pública del Estado (TREBEP)
+      en Canarias.
 fundamentos_derecho:
-  - norma_id: "norm-can-lo-1-2018"
-    articulos: ["136"]
+- norma_id: norm-can-lo-1-2018
+  articulos:
+  - '136'
 ---
 
 # Ley 2/1987 de la Función Pública Canaria

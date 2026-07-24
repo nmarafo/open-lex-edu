@@ -5,7 +5,8 @@ titulo: Real Decreto 104/1988, de 29 de enero, sobre homologación y convalidaci
   de títulos y estudios extranjeros de educación no universitaria.
 jurisdiccion: España
 ambito: Estatal
-organo_emisor: Jefatura del Estado / Ministerio
+organo_emisor: Ministerio de Educación, Formación Profesional y Deportes / Consejo
+  de Ministros
 tipo_disposicion: Real Decreto / Orden
 fecha_publicacion: '1988-02-17'
 boletin: BOE

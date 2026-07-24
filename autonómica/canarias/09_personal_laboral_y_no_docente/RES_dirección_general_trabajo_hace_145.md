@@ -6,7 +6,7 @@ titulo: Resolución de 28 de enero de 1992, de la Dirección General de Trabajo,
   Autónoma de Canarias (BOC n.º 18, de 6 de febrero).
 jurisdiccion: Canarias
 ambito: Autonómico
-organo_emisor: Consejería de Educación
+organo_emisor: Dirección General de Trabajo
 tipo_disposicion: Resolución
 estado: Vigente
 redaccion: libro_azul

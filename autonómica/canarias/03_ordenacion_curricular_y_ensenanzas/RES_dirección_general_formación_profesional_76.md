@@ -6,7 +6,7 @@ titulo: Resolución de 14 de julio de 2004, de la Dirección General de Formaci�
   de las Aulas Mentor.
 jurisdiccion: Canarias
 ambito: Autonómico
-organo_emisor: Consejería de Educación
+organo_emisor: Dirección General de Formación Profesional y Educación de Adultos
 tipo_disposicion: Resolución
 estado: Vigente
 redaccion: libro_azul

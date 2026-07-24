@@ -11,7 +11,7 @@ titulo: Resolución de 18 de marzo de 2025, por la que se corrigen errores en la
   n.º 47, de 7.3.2025).
 jurisdiccion: Canarias
 ambito: Autonómico
-organo_emisor: Consejería de Educación
+organo_emisor: Dirección General de Formación Profesional y Educación de Adultos
 tipo_disposicion: Resolución
 estado: Vigente
 redaccion: libro_azul

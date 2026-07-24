@@ -1,35 +1,36 @@
 ---
 id: norm-es-rd-443-2001
-codigo_sintetizado: "RD443_2001 Condiciones de Seguridad en el Transporte Escolar"
-titulo: "Real Decreto 443/2001, de 27 de abril, sobre condiciones de seguridad en el transporte escolar y de menores."
-jurisdiccion: "España"
-ambito: "Estatal"
-organo_emisor: "Ministerio de Fomento"
-tipo_disposicion: "Real Decreto"
-numero_disposicion: "443/2001"
-fecha_disposicion: "2001-04-27"
-fecha_publicacion: "2001-05-02"
-boletin: "BOE"
-numero_boletin: "105"
-estado: "Vigente"
-redaccion: "consolidada"
-fuente_oficial: "https://www.boe.es/buscar/act.php?id=BOE-A-2001-8503"
-
+codigo_sintetizado: RD443_2001 Condiciones de Seguridad en el Transporte Escolar
+titulo: Real Decreto 443/2001, de 27 de abril, sobre condiciones de seguridad en el
+  transporte escolar y de menores.
+jurisdiccion: España
+ambito: Estatal
+organo_emisor: Ministerio de Educación, Formación Profesional y Deportes / Consejo
+  de Ministros
+tipo_disposicion: Real Decreto
+numero_disposicion: 443/2001
+fecha_disposicion: '2001-04-27'
+fecha_publicacion: '2001-05-02'
+boletin: BOE
+numero_boletin: '105'
+estado: Vigente
+redaccion: consolidada
+fuente_oficial: https://www.boe.es/buscar/act.php?id=BOE-A-2001-8503
 clasificacion:
-  categoria_canonica: "05_alumnado_y_servicios_escolares"
-  subcategoria: "Transporte escolar"
-
+  categoria_canonica: 05_alumnado_y_servicios_escolares
+  subcategoria: Transporte escolar
 tags:
-  - transporte_escolar
-  - seguridad_menores
-  - acompanante_transporte
-  - servicios_escolares
-  - estatal
-
+- transporte_escolar
+- seguridad_menores
+- acompanante_transporte
+- servicios_escolares
+- estatal
 relaciones: {}
 fundamentos_derecho:
-  - norma_id: "norm-es-lo-2-2006"
-    articulos: ["80", "82"]
+- norma_id: norm-es-lo-2-2006
+  articulos:
+  - '80'
+  - '82'
 ---
 
 # Real Decreto 443/2001 sobre condiciones de seguridad en el transporte escolar y de menores

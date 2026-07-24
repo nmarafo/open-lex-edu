@@ -6,7 +6,8 @@ titulo: Secretaría General Técnica.- Resolución de 9 de enero de 2019, por la
   Educativa (BOC n.º 16, de 24 de enero).
 jurisdiccion: Canarias
 ambito: Autonómico
-organo_emisor: Consejería de Educación
+organo_emisor: Dirección General de Administración de Centros, Escolarización y Servicios
+  Complementarios
 tipo_disposicion: Resolución
 estado: Vigente
 redaccion: libro_azul

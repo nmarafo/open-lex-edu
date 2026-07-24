@@ -6,7 +6,8 @@ titulo: Orden EDU/2886/2011, de 20 de octubre, por la que se regula la convocato
   del profesorado.
 jurisdiccion: España
 ambito: Estatal
-organo_emisor: Jefatura del Estado / Ministerio
+organo_emisor: Ministerio de Educación, Formación Profesional y Deportes / Consejo
+  de Ministros
 tipo_disposicion: Real Decreto / Orden
 fecha_publicacion: '2011-10-28'
 boletin: BOE

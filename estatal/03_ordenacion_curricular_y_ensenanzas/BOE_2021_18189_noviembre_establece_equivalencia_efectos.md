@@ -6,7 +6,8 @@ titulo: Orden EFP/1210/2021, de 2 de noviembre, por la que se establece la equiv
   y títulos anteriores al actual sistema educativo.
 jurisdiccion: España
 ambito: Estatal
-organo_emisor: Jefatura del Estado / Ministerio
+organo_emisor: Ministerio de Educación, Formación Profesional y Deportes / Consejo
+  de Ministros
 tipo_disposicion: Real Decreto / Orden
 fecha_publicacion: '2021-11-08'
 boletin: BOE

@@ -1,26 +1,28 @@
 ---
 id: norm-es-2001-7022
-codigo_sintetizado: "BOE-A-2001-7022"
-titulo: "Orden de 20 de marzo de 2001 por la que se regula el régimen de equivalencias de los estudios básicos y medios cursados en los países signatarios del Convenio \"Andrés Bello\", con los correspondientes españoles de Educación Secundaria Obligatoria y Bachillerato establecidos por la Ley Orgánica 1/1990, de 3 de octubre, de Ordenación General del Sistema Educativo."
-jurisdiccion: "España"
-ambito: "Estatal"
-organo_emisor: "Jefatura del Estado / Ministerio"
-tipo_disposicion: "Real Decreto / Orden"
-fecha_publicacion: "2001-04-10"
-boletin: "BOE"
-estado: "Vigente"
-redaccion: "consolidada"
-fuente_oficial: "https://www.boe.es/buscar/act.php?id=BOE-A-2001-7022"
-
+codigo_sintetizado: BOE-A-2001-7022
+titulo: Orden de 20 de marzo de 2001 por la que se regula el régimen de equivalencias
+  de los estudios básicos y medios cursados en los países signatarios del Convenio
+  "Andrés Bello", con los correspondientes españoles de Educación Secundaria Obligatoria
+  y Bachillerato establecidos por la Ley Orgánica 1/1990, de 3 de octubre, de Ordenación
+  General del Sistema Educativo.
+jurisdiccion: España
+ambito: Estatal
+organo_emisor: Ministerio de Educación, Formación Profesional y Deportes / Consejo
+  de Ministros
+tipo_disposicion: Real Decreto / Orden
+fecha_publicacion: '2001-04-10'
+boletin: BOE
+estado: Vigente
+redaccion: consolidada
+fuente_oficial: https://www.boe.es/buscar/act.php?id=BOE-A-2001-7022
 clasificacion:
-  categoria_canonica: "02_gestion_y_administracion_centros"
-  subcategoria: "Centros extranjeros"
-
+  categoria_canonica: 02_gestion_y_administracion_centros
+  subcategoria: Centros extranjeros
 tags:
-  - estatal
-  - boe
-  - 02_gestion_y_administracion_centros
-
+- estatal
+- boe
+- 02_gestion_y_administracion_centros
 relaciones: {}
 fundamentos_derecho: []
 ---

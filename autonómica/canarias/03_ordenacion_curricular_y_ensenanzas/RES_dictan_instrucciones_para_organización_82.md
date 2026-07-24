@@ -6,7 +6,7 @@ titulo: Resolución de 5 de noviembre de 2020, por la que se dictan instruccione
   de la enseñanza del idioma inglés a distancia para personas adultas That's English!
 jurisdiccion: Canarias
 ambito: Autonómico
-organo_emisor: Consejería de Educación
+organo_emisor: Dirección General de Formación Profesional y Educación de Adultos
 tipo_disposicion: Resolución
 estado: Vigente
 redaccion: libro_azul

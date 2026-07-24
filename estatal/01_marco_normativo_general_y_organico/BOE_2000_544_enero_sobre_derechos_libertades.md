@@ -5,7 +5,8 @@ titulo: Ley Orgánica 4/2000, de 11 de enero, sobre derechos y libertades de los
   en España y su integración social.
 jurisdiccion: España
 ambito: Estatal
-organo_emisor: Jefatura del Estado / Ministerio
+organo_emisor: Ministerio de Educación, Formación Profesional y Deportes / Consejo
+  de Ministros
 tipo_disposicion: Real Decreto / Orden
 fecha_publicacion: '2000-01-12'
 boletin: BOE

@@ -9,7 +9,8 @@ titulo: Resolución de la Dirección General de Administración de Centros, Esco
   de la Comunidad Autónoma de Canarias (BOC n. 44, de 4.3.2025).
 jurisdiccion: Canarias
 ambito: Autonómico
-organo_emisor: Consejería de Educación
+organo_emisor: Dirección General de Administración de Centros, Escolarización y Servicios
+  Complementarios
 tipo_disposicion: Resolución
 estado: Vigente
 redaccion: libro_azul

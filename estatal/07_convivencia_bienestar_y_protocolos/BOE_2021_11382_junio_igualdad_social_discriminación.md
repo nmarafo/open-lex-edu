@@ -5,7 +5,8 @@ titulo: Ley 2/2021, de 7 de junio, de igualdad social y no discriminación por r
   de identidad de género, expresión de género y características sexuales.
 jurisdiccion: España
 ambito: Estatal
-organo_emisor: Jefatura del Estado / Ministerio
+organo_emisor: Ministerio de Educación, Formación Profesional y Deportes / Consejo
+  de Ministros
 tipo_disposicion: Real Decreto / Orden
 fecha_publicacion: '2021-07-09'
 boletin: BOE

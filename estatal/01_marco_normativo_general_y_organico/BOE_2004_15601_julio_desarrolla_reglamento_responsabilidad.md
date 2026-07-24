@@ -1,26 +1,26 @@
 ---
 id: norm-es-2004-15601
-codigo_sintetizado: "BOE-A-2004-15601"
-titulo: "Real Decreto 1774/2004, de 30 de julio, por el que se aprueba el Reglamento de la Ley Orgánica 5/2000, de 12 de enero, reguladora de la responsabilidad penal de los menores."
-jurisdiccion: "España"
-ambito: "Estatal"
-organo_emisor: "Jefatura del Estado / Ministerio"
-tipo_disposicion: "Real Decreto / Orden"
-fecha_publicacion: "2004-08-30"
-boletin: "BOE"
-estado: "Vigente"
-redaccion: "consolidada"
-fuente_oficial: "https://www.boe.es/buscar/act.php?id=BOE-A-2004-15601"
-
+codigo_sintetizado: BOE-A-2004-15601
+titulo: Real Decreto 1774/2004, de 30 de julio, por el que se aprueba el Reglamento
+  de la Ley Orgánica 5/2000, de 12 de enero, reguladora de la responsabilidad penal
+  de los menores.
+jurisdiccion: España
+ambito: Estatal
+organo_emisor: Ministerio de Educación, Formación Profesional y Deportes / Consejo
+  de Ministros
+tipo_disposicion: Real Decreto / Orden
+fecha_publicacion: '2004-08-30'
+boletin: BOE
+estado: Vigente
+redaccion: consolidada
+fuente_oficial: https://www.boe.es/buscar/act.php?id=BOE-A-2004-15601
 clasificacion:
-  categoria_canonica: "01_marco_normativo_general_y_organico"
-  subcategoria: "Protección jurídica de menores"
-
+  categoria_canonica: 01_marco_normativo_general_y_organico
+  subcategoria: Protección jurídica de menores
 tags:
-  - estatal
-  - boe
-  - 01_marco_normativo_general_y_organico
-
+- estatal
+- boe
+- 01_marco_normativo_general_y_organico
 relaciones: {}
 fundamentos_derecho: []
 ---

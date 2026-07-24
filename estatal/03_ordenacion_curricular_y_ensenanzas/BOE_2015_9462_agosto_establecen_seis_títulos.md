@@ -6,7 +6,8 @@ titulo: Real Decreto 774/2015, de 28 de agosto, por el que se establecen seis T�
   Profesional.
 jurisdiccion: España
 ambito: Estatal
-organo_emisor: Jefatura del Estado / Ministerio
+organo_emisor: Ministerio de Educación, Formación Profesional y Deportes / Consejo
+  de Ministros
 tipo_disposicion: Real Decreto / Orden
 fecha_publicacion: '2015-08-29'
 boletin: BOE

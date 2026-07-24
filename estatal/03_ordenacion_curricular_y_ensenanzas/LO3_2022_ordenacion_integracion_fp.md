@@ -1,35 +1,35 @@
 ---
 id: norm-es-lo-3-2022
-codigo_sintetizado: "LO3_2022 Ley de Ordenacion e Integracion de la FP"
-titulo: "Ley Orgánica 3/2022, de 31 de marzo, de ordenación e integración de la Formación Profesional."
-jurisdiccion: "España"
-ambito: "Estatal"
-organo_emisor: "Jefatura del Estado"
-tipo_disposicion: "Ley Orgánica"
-numero_disposicion: "3/2022"
-fecha_disposicion: "2022-03-31"
-fecha_publicacion: "2022-04-01"
-boletin: "BOE"
-numero_boletin: "78"
-estado: "Vigente"
-redaccion: "consolidada"
-fuente_oficial: "https://www.boe.es/buscar/act.php?id=BOE-A-2022-5139"
-
+codigo_sintetizado: LO3_2022 Ley de Ordenacion e Integracion de la FP
+titulo: Ley Orgánica 3/2022, de 31 de marzo, de ordenación e integración de la Formación
+  Profesional.
+jurisdiccion: España
+ambito: Estatal
+organo_emisor: Jefatura del Estado / Cortes Generales
+tipo_disposicion: Ley Orgánica
+numero_disposicion: 3/2022
+fecha_disposicion: '2022-03-31'
+fecha_publicacion: '2022-04-01'
+boletin: BOE
+numero_boletin: '78'
+estado: Vigente
+redaccion: consolidada
+fuente_oficial: https://www.boe.es/buscar/act.php?id=BOE-A-2022-5139
 clasificacion:
-  categoria_canonica: "03_ordenacion_curricular_y_ensenanzas"
-  subcategoria: "Formación Profesional"
-
+  categoria_canonica: 03_ordenacion_curricular_y_ensenanzas
+  subcategoria: Formación Profesional
 tags:
-  - fp
-  - formacion_profesional
-  - dual
-  - acreditacion_competencias
-  - estatal
-
+- fp
+- formacion_profesional
+- dual
+- acreditacion_competencias
+- estatal
 relaciones: {}
 fundamentos_derecho:
-  - norma_id: "norm-es-ce-1978"
-    articulos: ["27", "149.1.30"]
+- norma_id: norm-es-ce-1978
+  articulos:
+  - '27'
+  - 149.1.30
 ---
 
 # Ley Orgánica 3/2022 de Ordenación e Integración de la Formación Profesional

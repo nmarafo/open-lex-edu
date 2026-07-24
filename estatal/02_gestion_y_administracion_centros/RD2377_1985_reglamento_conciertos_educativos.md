@@ -5,7 +5,8 @@ titulo: Real Decreto 2377/1985, de 18 de diciembre, por el que se aprueba el Reg
   de Normas Básicas sobre Conciertos Educativos.
 jurisdiccion: España
 ambito: Estatal
-organo_emisor: Ministerio de Educación y Ciencia
+organo_emisor: Ministerio de Educación, Formación Profesional y Deportes / Consejo
+  de Ministros
 tipo_disposicion: Real Decreto
 numero_disposicion: 2377/1985
 fecha_disposicion: '1985-12-18'

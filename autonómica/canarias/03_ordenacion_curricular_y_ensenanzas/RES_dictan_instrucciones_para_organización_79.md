@@ -7,7 +7,7 @@ titulo: Resolución de 19 de mayo de 2021, por la que se dictan instrucciones pa
   adultas dependientes de esta Consejería (BOC n.º 109, de 28 de mayo).
 jurisdiccion: Canarias
 ambito: Autonómico
-organo_emisor: Consejería de Educación
+organo_emisor: Dirección General de Formación Profesional y Educación de Adultos
 tipo_disposicion: Resolución
 estado: Vigente
 redaccion: libro_azul

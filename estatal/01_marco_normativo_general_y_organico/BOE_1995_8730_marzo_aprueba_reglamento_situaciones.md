@@ -1,26 +1,26 @@
 ---
 id: norm-es-1995-8730
-codigo_sintetizado: "BOE-A-1995-8730"
-titulo: "Real Decreto 365/1995, de 10 de marzo, por el que se aprueba el Reglamento de Situaciones Administrativas de los Funcionarios Civiles de la Administración General del Estado."
-jurisdiccion: "España"
-ambito: "Estatal"
-organo_emisor: "Jefatura del Estado / Ministerio"
-tipo_disposicion: "Real Decreto / Orden"
-fecha_publicacion: "1995-04-10"
-boletin: "BOE"
-estado: "Vigente"
-redaccion: "consolidada"
-fuente_oficial: "https://www.boe.es/buscar/act.php?id=BOE-A-1995-8730"
-
+codigo_sintetizado: BOE-A-1995-8730
+titulo: Real Decreto 365/1995, de 10 de marzo, por el que se aprueba el Reglamento
+  de Situaciones Administrativas de los Funcionarios Civiles de la Administración
+  General del Estado.
+jurisdiccion: España
+ambito: Estatal
+organo_emisor: Ministerio de Educación, Formación Profesional y Deportes / Consejo
+  de Ministros
+tipo_disposicion: Real Decreto / Orden
+fecha_publicacion: '1995-04-10'
+boletin: BOE
+estado: Vigente
+redaccion: consolidada
+fuente_oficial: https://www.boe.es/buscar/act.php?id=BOE-A-1995-8730
 clasificacion:
-  categoria_canonica: "01_marco_normativo_general_y_organico"
-  subcategoria: "Empleados públicos"
-
+  categoria_canonica: 01_marco_normativo_general_y_organico
+  subcategoria: Empleados públicos
 tags:
-  - estatal
-  - boe
-  - 01_marco_normativo_general_y_organico
-
+- estatal
+- boe
+- 01_marco_normativo_general_y_organico
 relaciones: {}
 fundamentos_derecho: []
 ---

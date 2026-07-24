@@ -7,7 +7,8 @@ titulo: Orden EDU/2157/2010, de 30 de julio, por la que se regula el currículo 
   docentes españoles, así como los requisitos para su obtención.
 jurisdiccion: España
 ambito: Estatal
-organo_emisor: Jefatura del Estado / Ministerio
+organo_emisor: Ministerio de Educación, Formación Profesional y Deportes / Consejo
+  de Ministros
 tipo_disposicion: Real Decreto / Orden
 fecha_publicacion: '2010-08-07'
 boletin: BOE

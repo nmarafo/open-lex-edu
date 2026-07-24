@@ -5,7 +5,8 @@ titulo: Ley 37/2007, de 16 de noviembre, sobre reutilización de la información
   sector público.
 jurisdiccion: España
 ambito: Estatal
-organo_emisor: Jefatura del Estado / Ministerio
+organo_emisor: Ministerio de Educación, Formación Profesional y Deportes / Consejo
+  de Ministros
 tipo_disposicion: Real Decreto / Orden
 fecha_publicacion: '2007-11-17'
 boletin: BOE

@@ -1,33 +1,32 @@
 ---
 id: norm-can-l-4-2023
-codigo_sintetizado: "L4_2023 Ley del Gobierno de Canarias"
-titulo: "Ley 4/2023, de 23 de marzo, de la Presidencia y del Gobierno de Canarias."
-jurisdiccion: "Canarias"
-ambito: "Autonómico"
-organo_emisor: "Presidencia del Gobierno de Canarias"
-tipo_disposicion: "Ley"
-numero_disposicion: "4/2023"
-fecha_disposicion: "2023-03-23"
-fecha_publicacion: "2023-04-14"
-boletin: "BOE"
-numero_boletin: "89"
-estado: "Vigente"
-redaccion: "consolidada"
-fuente_oficial: "https://www.boe.es/buscar/act.php?id=BOE-A-2023-9195"
-
+codigo_sintetizado: L4_2023 Ley del Gobierno de Canarias
+titulo: Ley 4/2023, de 23 de marzo, de la Presidencia y del Gobierno de Canarias.
+jurisdiccion: Canarias
+ambito: Autonómico
+organo_emisor: Secretaría de Estado de Educación
+tipo_disposicion: Ley
+numero_disposicion: 4/2023
+fecha_disposicion: '2023-03-23'
+fecha_publicacion: '2023-04-14'
+boletin: BOE
+numero_boletin: '89'
+estado: Vigente
+redaccion: consolidada
+fuente_oficial: https://www.boe.es/buscar/act.php?id=BOE-A-2023-9195
 clasificacion:
-  categoria_canonica: "01_marco_normativo_general_y_organico"
-  subcategoria: "Estructura de la Consejería"
-
+  categoria_canonica: 01_marco_normativo_general_y_organico
+  subcategoria: Estructura de la Consejería
 tags:
-  - canarias
-  - gobierno_canarias
-  - administracion_autonomica
-
+- canarias
+- gobierno_canarias
+- administracion_autonomica
 relaciones: {}
 fundamentos_derecho:
-  - norma_id: "norm-can-lo-1-2018"
-    articulos: ["50", "51"]
+- norma_id: norm-can-lo-1-2018
+  articulos:
+  - '50'
+  - '51'
 ---
 
 # Ley 4/2023, de 23 de marzo, de la Presidencia y del Gobierno de Canarias

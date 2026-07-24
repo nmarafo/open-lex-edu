@@ -9,7 +9,7 @@ titulo: Secretaría General Técnica.- Resolución de 15 de marzo de 2016, por l
   n.º 57, de 23 de marzo).
 jurisdiccion: Canarias
 ambito: Autonómico
-organo_emisor: Consejería de Educación
+organo_emisor: Dirección General de Personal y Formación del Profesorado
 tipo_disposicion: Resolución
 estado: Vigente
 redaccion: libro_azul

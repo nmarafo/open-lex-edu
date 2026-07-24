@@ -1,34 +1,34 @@
 ---
 id: norm-es-rdl-5-2015
-codigo_sintetizado: "RD5_2015 Estatuto Basico del Empleado Publico (TREBEP)"
-titulo: "Real Decreto Legislativo 5/2015, de 30 de octubre, por el que se aprueba el texto refundido de la Ley del Estatuto Básico del Empleado Público."
-jurisdiccion: "España"
-ambito: "Estatal"
-organo_emisor: "Ministerio de Hacienda y Administraciones Públicas"
-tipo_disposicion: "Real Decreto Legislativo"
-numero_disposicion: "5/2015"
-fecha_disposicion: "2015-10-30"
-fecha_publicacion: "2015-10-31"
-boletin: "BOE"
-numero_boletin: "261"
-estado: "Vigente"
-redaccion: "consolidada"
-fuente_oficial: "https://www.boe.es/buscar/act.php?id=BOE-A-2015-11719"
-
+codigo_sintetizado: RD5_2015 Estatuto Basico del Empleado Publico (TREBEP)
+titulo: Real Decreto Legislativo 5/2015, de 30 de octubre, por el que se aprueba el
+  texto refundido de la Ley del Estatuto Básico del Empleado Público.
+jurisdiccion: España
+ambito: Estatal
+organo_emisor: Ministerio de Educación, Formación Profesional y Deportes / Consejo
+  de Ministros
+tipo_disposicion: Real Decreto Legislativo
+numero_disposicion: 5/2015
+fecha_disposicion: '2015-10-30'
+fecha_publicacion: '2015-10-31'
+boletin: BOE
+numero_boletin: '261'
+estado: Vigente
+redaccion: consolidada
+fuente_oficial: https://www.boe.es/buscar/act.php?id=BOE-A-2015-11719
 clasificacion:
-  categoria_canonica: "01_marco_normativo_general_y_organico"
-  subcategoria: "Empleados públicos"
-
+  categoria_canonica: 01_marco_normativo_general_y_organico
+  subcategoria: Empleados públicos
 tags:
-  - trebep
-  - empleado_publico
-  - funcion_publica
-  - estatal
-
+- trebep
+- empleado_publico
+- funcion_publica
+- estatal
 relaciones: {}
 fundamentos_derecho:
-  - norma_id: "norm-es-ce-1978"
-    articulos: ["103"]
+- norma_id: norm-es-ce-1978
+  articulos:
+  - '103'
 ---
 
 # Real Decreto Legislativo 5/2015 (TREBEP)

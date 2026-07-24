@@ -8,7 +8,8 @@ titulo: Orden EFP/935/2022, de 27 de septiembre, por la que se modifica la Orden
   los requisitos para su obtención.
 jurisdiccion: España
 ambito: Estatal
-organo_emisor: Jefatura del Estado / Ministerio
+organo_emisor: Ministerio de Educación, Formación Profesional y Deportes / Consejo
+  de Ministros
 tipo_disposicion: Real Decreto / Orden
 fecha_publicacion: '2022-10-01'
 boletin: BOE

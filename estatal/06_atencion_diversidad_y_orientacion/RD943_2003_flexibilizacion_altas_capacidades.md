@@ -6,7 +6,8 @@ titulo: Real Decreto 943/2003, de 18 de julio, por el que se regulan las condici
   para los alumnos superdotados intelectualmente.
 jurisdiccion: España
 ambito: Estatal
-organo_emisor: Ministerio de Educación, Cultura y Deporte
+organo_emisor: Ministerio de Educación, Formación Profesional y Deportes / Consejo
+  de Ministros
 tipo_disposicion: Real Decreto
 numero_disposicion: 943/2003
 fecha_disposicion: '2003-07-18'

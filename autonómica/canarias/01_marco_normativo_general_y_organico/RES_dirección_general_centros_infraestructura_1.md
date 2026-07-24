@@ -9,7 +9,8 @@ titulo: Resolución de 30 de junio de 2017, de la Dirección General de Centros 
   de la Comunidad Autónoma de Canarias (BOC n.º 132, de 11 de julio).
 jurisdiccion: Canarias
 ambito: Autonómico
-organo_emisor: Consejería de Educación
+organo_emisor: Dirección General de Administración de Centros, Escolarización y Servicios
+  Complementarios
 tipo_disposicion: Resolución
 estado: Vigente
 redaccion: libro_azul

@@ -8,7 +8,8 @@ titulo: Resolución de 5 de febrero de 2026, de la DGACESC, por la que se convoc
   2026-2027, en la Comunidad Autónoma de Canarias (BOC núm. 31, de 16 de febrero).
 jurisdiccion: Canarias
 ambito: Autonómico
-organo_emisor: Consejería de Educación
+organo_emisor: Dirección General de Administración de Centros, Escolarización y Servicios
+  Complementarios
 tipo_disposicion: Resolución
 estado: Vigente
 redaccion: libro_azul

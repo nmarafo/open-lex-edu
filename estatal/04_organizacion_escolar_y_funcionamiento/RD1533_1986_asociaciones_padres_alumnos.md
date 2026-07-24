@@ -5,7 +5,8 @@ titulo: Real Decreto 1533/1986, de 11 de julio, por el que se regulan las asocia
   de padres de alumnos.
 jurisdiccion: España
 ambito: Estatal
-organo_emisor: Ministerio de Educación y Ciencia
+organo_emisor: Ministerio de Educación, Formación Profesional y Deportes / Consejo
+  de Ministros
 tipo_disposicion: Real Decreto
 numero_disposicion: 1533/1986
 fecha_disposicion: '1986-07-11'

@@ -7,7 +7,7 @@ titulo: Resolución de 21 de abril de 2022, por la que se dictan instrucciones p
   de personas adultas dependientes de esta Consejería (BOC n.º 87, de 4 de mayo).
 jurisdiccion: Canarias
 ambito: Autonómico
-organo_emisor: Consejería de Educación
+organo_emisor: Dirección General de Formación Profesional y Educación de Adultos
 tipo_disposicion: Resolución
 estado: Vigente
 redaccion: libro_azul

@@ -5,7 +5,8 @@ titulo: Ley Orgánica 5/2002, de 19 de junio, de las Cualificaciones y de la For
   Profesional.
 jurisdiccion: España
 ambito: Estatal
-organo_emisor: Jefatura del Estado / Ministerio
+organo_emisor: Ministerio de Educación, Formación Profesional y Deportes / Consejo
+  de Ministros
 tipo_disposicion: Real Decreto / Orden
 fecha_publicacion: '2002-06-20'
 boletin: BOE

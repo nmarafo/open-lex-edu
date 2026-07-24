@@ -9,7 +9,7 @@ titulo: Resolución de 26 de marzo de 2019, por la que se determina el acceso a 
   (BOC n.º 69, de 9 de abril).
 jurisdiccion: Canarias
 ambito: Autonómico
-organo_emisor: Consejería de Educación
+organo_emisor: Dirección General de Formación Profesional y Educación de Adultos
 tipo_disposicion: Resolución
 estado: Vigente
 redaccion: libro_azul

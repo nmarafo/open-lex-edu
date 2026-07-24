@@ -12,7 +12,7 @@ titulo: Resolución, 19 dic 2013, de la Dirección General de Ordenación, Innov
   intelectuales (BOC n.º 3, de 7 de enero).
 jurisdiccion: Canarias
 ambito: Autonómico
-organo_emisor: Consejería de Educación
+organo_emisor: Dirección General de Ordenación, Inclusión e Innovación
 tipo_disposicion: Resolución
 estado: Vigente
 redaccion: libro_azul

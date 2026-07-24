@@ -1,35 +1,35 @@
 ---
 id: norm-es-rdl-2-2015
-codigo_sintetizado: "RDL2_2015 Texto Refundido del Estatuto de los Trabajadores (ET)"
-titulo: "Real Decreto Legislativo 2/2015, de 23 de octubre, por el que se aprueba el texto refundido de la Ley del Estatuto de los Trabajadores."
-jurisdiccion: "España"
-ambito: "Estatal"
-organo_emisor: "Ministerio de Empleo y Seguridad Social"
-tipo_disposicion: "Real Decreto Legislativo"
-numero_disposicion: "2/2015"
-fecha_disposicion: "2015-10-23"
-fecha_publicacion: "2015-10-24"
-boletin: "BOE"
-numero_boletin: "255"
-estado: "Vigente"
-redaccion: "consolidada"
-fuente_oficial: "https://www.boe.es/buscar/act.php?id=BOE-A-2015-11430"
-
+codigo_sintetizado: RDL2_2015 Texto Refundido del Estatuto de los Trabajadores (ET)
+titulo: Real Decreto Legislativo 2/2015, de 23 de octubre, por el que se aprueba el
+  texto refundido de la Ley del Estatuto de los Trabajadores.
+jurisdiccion: España
+ambito: Estatal
+organo_emisor: Ministerio de Educación, Formación Profesional y Deportes / Consejo
+  de Ministros
+tipo_disposicion: Real Decreto Legislativo
+numero_disposicion: 2/2015
+fecha_disposicion: '2015-10-23'
+fecha_publicacion: '2015-10-24'
+boletin: BOE
+numero_boletin: '255'
+estado: Vigente
+redaccion: consolidada
+fuente_oficial: https://www.boe.es/buscar/act.php?id=BOE-A-2015-11430
 clasificacion:
-  categoria_canonica: "09_personal_laboral_y_no_docente"
-  subcategoria: "Régimen disciplinario"
-
+  categoria_canonica: 09_personal_laboral_y_no_docente
+  subcategoria: Régimen disciplinario
 tags:
-  - estatuto_trabajadores
-  - personal_laboral
-  - contrato_trabajo
-  - derechos_laborales
-  - estatal
-
+- estatuto_trabajadores
+- personal_laboral
+- contrato_trabajo
+- derechos_laborales
+- estatal
 relaciones: {}
 fundamentos_derecho:
-  - norma_id: "norm-es-ce-1978"
-    articulos: ["35"]
+- norma_id: norm-es-ce-1978
+  articulos:
+  - '35'
 ---
 
 # Real Decreto Legislativo 2/2015 - Texto Refundido del Estatuto de los Trabajadores

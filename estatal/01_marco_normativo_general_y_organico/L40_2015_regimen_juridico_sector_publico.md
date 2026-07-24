@@ -4,7 +4,7 @@ codigo_sintetizado: L40_2015 Regimen Juridico del Sector Publico
 titulo: Ley 40/2015, de 1 de octubre, de Régimen Jurídico del Sector Público.
 jurisdiccion: España
 ambito: Estatal
-organo_emisor: Jefatura del Estado
+organo_emisor: Jefatura del Estado / Cortes Generales
 tipo_disposicion: Ley
 numero_disposicion: 40/2015
 fecha_disposicion: '2015-10-01'

@@ -8,7 +8,7 @@ titulo: 'Resolución de 26 de marzo de 2026, por la que se convocan los Premios 
   finales de ESO, al 26 de junio de 2026.'
 jurisdiccion: Canarias
 ambito: Autonómico
-organo_emisor: Consejería de Educación
+organo_emisor: Dirección General de Ordenación, Inclusión e Innovación
 tipo_disposicion: Resolución
 estado: Vigente
 redaccion: libro_azul

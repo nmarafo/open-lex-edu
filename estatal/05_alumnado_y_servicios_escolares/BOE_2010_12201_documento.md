@@ -5,7 +5,8 @@ titulo: Orden EDU/2058/2010, de 13 de julio, por la que se regulan los Premios N
   de Bachillerato establecidos por la Ley Orgánica 2/2006, de 3 de mayo, de Educación.
 jurisdiccion: España
 ambito: Estatal
-organo_emisor: Jefatura del Estado / Ministerio
+organo_emisor: Ministerio de Educación, Formación Profesional y Deportes / Consejo
+  de Ministros
 tipo_disposicion: Real Decreto / Orden
 fecha_publicacion: '2010-07-29'
 boletin: BOE

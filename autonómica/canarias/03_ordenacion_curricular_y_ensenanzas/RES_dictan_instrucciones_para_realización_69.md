@@ -7,7 +7,7 @@ titulo: Resolución de 27 de noviembre de 2015, por la que se dictan instruccion
   2015-2016 (BOC n.º 245, de 18 de diciembre).
 jurisdiccion: Canarias
 ambito: Autonómico
-organo_emisor: Consejería de Educación
+organo_emisor: Dirección General de Formación Profesional y Educación de Adultos
 tipo_disposicion: Resolución
 estado: Vigente
 redaccion: libro_azul

@@ -6,7 +6,8 @@ titulo: Real Decreto 132/2010, de 12 de febrero, por el que se establecen los re
   infantil, la educación primaria y la educación secundaria.
 jurisdiccion: España
 ambito: Estatal
-organo_emisor: Ministerio de Educación
+organo_emisor: Ministerio de Educación, Formación Profesional y Deportes / Consejo
+  de Ministros
 tipo_disposicion: Real Decreto
 numero_disposicion: 132/2010
 fecha_disposicion: '2010-02-12'

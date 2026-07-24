@@ -6,7 +6,7 @@ titulo: Resolución de 9 de julio de 2004, por la que se hace público el Reglam
   de 25 años (BOC n.º 157, de 13 de agosto).
 jurisdiccion: Canarias
 ambito: Autonómico
-organo_emisor: Consejería de Educación
+organo_emisor: Dirección General competente de la Consejería de Educación de Canarias
 tipo_disposicion: Resolución
 estado: Vigente
 redaccion: libro_azul

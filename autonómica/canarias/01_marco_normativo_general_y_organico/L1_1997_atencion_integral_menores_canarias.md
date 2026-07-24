@@ -4,7 +4,7 @@ codigo_sintetizado: L1_1997 Ley de Atencion Integral a los Menores de Canarias
 titulo: Ley 1/1997, de 7 de febrero, de Atención Integral a los Menores.
 jurisdiccion: Canarias
 ambito: Autonómico
-organo_emisor: Presidencia del Gobierno de Canarias
+organo_emisor: Parlamento de Canarias / Gobierno de Canarias
 tipo_disposicion: Ley
 numero_disposicion: 1/1997
 fecha_disposicion: '1997-02-07'

@@ -7,7 +7,7 @@ titulo: Resolución de 10 de julio de 2019, por la que se dictan instrucciones r
   (BOC n.º 143, de 26 de julio).
 jurisdiccion: Canarias
 ambito: Autonómico
-organo_emisor: Consejería de Educación
+organo_emisor: Dirección General de Formación Profesional y Educación de Adultos
 tipo_disposicion: Resolución
 estado: Vigente
 redaccion: libro_azul

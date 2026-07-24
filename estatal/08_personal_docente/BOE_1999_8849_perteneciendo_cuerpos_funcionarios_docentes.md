@@ -8,7 +8,8 @@ titulo: Orden de 9 de abril de 1999 por la que se dispone la publicación del Co
   Secundaria.
 jurisdiccion: España
 ambito: Estatal
-organo_emisor: Jefatura del Estado / Ministerio
+organo_emisor: Ministerio de Educación, Formación Profesional y Deportes / Consejo
+  de Ministros
 tipo_disposicion: Real Decreto / Orden
 fecha_publicacion: '1999-04-20'
 boletin: BOE

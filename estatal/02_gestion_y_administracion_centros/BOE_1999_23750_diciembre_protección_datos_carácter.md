@@ -1,26 +1,25 @@
 ---
 id: norm-es-1999-23750
-codigo_sintetizado: "BOE-A-1999-23750"
-titulo: "Ley Orgánica 15/1999, de 13 de diciembre, de Protección de Datos de Carácter Personal."
-jurisdiccion: "España"
-ambito: "Estatal"
-organo_emisor: "Jefatura del Estado / Ministerio"
-tipo_disposicion: "Real Decreto / Orden"
-fecha_publicacion: "1999-12-14"
-boletin: "BOE"
-estado: "Vigente"
-redaccion: "consolidada"
-fuente_oficial: "https://www.boe.es/buscar/act.php?id=BOE-A-1999-23750"
-
+codigo_sintetizado: BOE-A-1999-23750
+titulo: Ley Orgánica 15/1999, de 13 de diciembre, de Protección de Datos de Carácter
+  Personal.
+jurisdiccion: España
+ambito: Estatal
+organo_emisor: Ministerio de Educación, Formación Profesional y Deportes / Consejo
+  de Ministros
+tipo_disposicion: Real Decreto / Orden
+fecha_publicacion: '1999-12-14'
+boletin: BOE
+estado: Vigente
+redaccion: consolidada
+fuente_oficial: https://www.boe.es/buscar/act.php?id=BOE-A-1999-23750
 clasificacion:
-  categoria_canonica: "02_gestion_y_administracion_centros"
-  subcategoria: "Protección de datos y seguridad de la información"
-
+  categoria_canonica: 02_gestion_y_administracion_centros
+  subcategoria: Protección de datos y seguridad de la información
 tags:
-  - estatal
-  - boe
-  - 02_gestion_y_administracion_centros
-
+- estatal
+- boe
+- 02_gestion_y_administracion_centros
 relaciones: {}
 fundamentos_derecho: []
 ---

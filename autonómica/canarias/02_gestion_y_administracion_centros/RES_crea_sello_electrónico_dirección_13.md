@@ -7,7 +7,7 @@ titulo: Secretaría General Técnica.- Resolución de 9 de enero de 2019, por la
   de 24 de enero).
 jurisdiccion: Canarias
 ambito: Autonómico
-organo_emisor: Consejería de Educación
+organo_emisor: Dirección General de Formación Profesional y Educación de Adultos
 tipo_disposicion: Resolución
 estado: Vigente
 redaccion: libro_azul

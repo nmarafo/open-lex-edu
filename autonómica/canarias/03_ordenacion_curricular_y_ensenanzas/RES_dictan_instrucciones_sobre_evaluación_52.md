@@ -6,7 +6,7 @@ titulo: Resolución de 18 de noviembre de 2019, por la que se dictan instruccion
   especial en la Comunidad Autónoma de Canarias (BOC n.º 234, de 3 de diciembre).
 jurisdiccion: Canarias
 ambito: Autonómico
-organo_emisor: Consejería de Educación
+organo_emisor: Dirección General de Formación Profesional y Educación de Adultos
 tipo_disposicion: Resolución
 estado: Vigente
 redaccion: libro_azul

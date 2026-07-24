@@ -5,7 +5,8 @@ titulo: Real Decreto 33/1986, de 10 de enero, por el que se aprueba el Reglament
   de Régimen Disciplinario de los Funcionarios de la Administración del Estado.
 jurisdiccion: España
 ambito: Estatal
-organo_emisor: Jefatura del Estado / Ministerio
+organo_emisor: Ministerio de Educación, Formación Profesional y Deportes / Consejo
+  de Ministros
 tipo_disposicion: Real Decreto / Orden
 fecha_publicacion: '1986-01-17'
 boletin: BOE

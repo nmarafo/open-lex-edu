@@ -6,7 +6,8 @@ titulo: Real Decreto 209/2003, de 21 de febrero, por el que se regulan los regis
   para la sustitución de la aportación de certificados por los ciudadanos.
 jurisdiccion: España
 ambito: Estatal
-organo_emisor: Jefatura del Estado / Ministerio
+organo_emisor: Ministerio de Educación, Formación Profesional y Deportes / Consejo
+  de Ministros
 tipo_disposicion: Real Decreto / Orden
 fecha_publicacion: '2003-02-28'
 boletin: BOE

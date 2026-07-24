@@ -7,7 +7,8 @@ titulo: Dirección General de Promoción Educativa.- Resolución de 14 de octubr
   n.º 148, de 6 de noviembre).
 jurisdiccion: Canarias
 ambito: Autonómico
-organo_emisor: Consejería de Educación
+organo_emisor: Dirección General de Administración de Centros, Escolarización y Servicios
+  Complementarios
 tipo_disposicion: Resolución
 estado: Vigente
 redaccion: libro_azul

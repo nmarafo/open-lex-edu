@@ -5,7 +5,8 @@ titulo: Ley 26/2015, de 28 de julio, de modificación del sistema de protección
   infancia y a la adolescencia.
 jurisdiccion: España
 ambito: Estatal
-organo_emisor: Jefatura del Estado / Ministerio
+organo_emisor: Ministerio de Educación, Formación Profesional y Deportes / Consejo
+  de Ministros
 tipo_disposicion: Real Decreto / Orden
 fecha_publicacion: '2015-07-29'
 boletin: BOE

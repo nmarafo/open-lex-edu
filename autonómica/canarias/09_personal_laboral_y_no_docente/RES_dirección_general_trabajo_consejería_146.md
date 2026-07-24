@@ -7,7 +7,7 @@ titulo: Resolución de 28 de marzo de 2005, de la Dirección General de Trabajo 
   (BOC n.º 80, de 25 de abril).
 jurisdiccion: Canarias
 ambito: Autonómico
-organo_emisor: Consejería de Educación
+organo_emisor: Dirección General de Trabajo
 tipo_disposicion: Resolución
 estado: Vigente
 redaccion: libro_azul

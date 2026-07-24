@@ -1,26 +1,27 @@
 ---
 id: norm-es-2000-5990
-codigo_sintetizado: "BOE-A-2000-5990"
-titulo: "Real Decreto 320/2000, de 3 de marzo, por el que se establecen los títulos de Técnico Deportivo y Técnico Deportivo superior en las especialidades de Fútbol y Fútbol Sala, se aprueban las correspondientes enseñanzas mínimas y se regulan las pruebas y los requisitos de acceso a estas enseñanzas."
-jurisdiccion: "España"
-ambito: "Estatal"
-organo_emisor: "Jefatura del Estado / Ministerio"
-tipo_disposicion: "Real Decreto / Orden"
-fecha_publicacion: "2000-03-29"
-boletin: "BOE"
-estado: "Vigente"
-redaccion: "consolidada"
-fuente_oficial: "https://www.boe.es/buscar/act.php?id=BOE-A-2000-5990"
-
+codigo_sintetizado: BOE-A-2000-5990
+titulo: Real Decreto 320/2000, de 3 de marzo, por el que se establecen los títulos
+  de Técnico Deportivo y Técnico Deportivo superior en las especialidades de Fútbol
+  y Fútbol Sala, se aprueban las correspondientes enseñanzas mínimas y se regulan
+  las pruebas y los requisitos de acceso a estas enseñanzas.
+jurisdiccion: España
+ambito: Estatal
+organo_emisor: Ministerio de Educación, Formación Profesional y Deportes / Consejo
+  de Ministros
+tipo_disposicion: Real Decreto / Orden
+fecha_publicacion: '2000-03-29'
+boletin: BOE
+estado: Vigente
+redaccion: consolidada
+fuente_oficial: https://www.boe.es/buscar/act.php?id=BOE-A-2000-5990
 clasificacion:
-  categoria_canonica: "03_ordenacion_curricular_y_ensenanzas"
-  subcategoria: "Enseñanzas Deportivas"
-
+  categoria_canonica: 03_ordenacion_curricular_y_ensenanzas
+  subcategoria: Enseñanzas Deportivas
 tags:
-  - estatal
-  - boe
-  - 03_ordenacion_curricular_y_ensenanzas
-
+- estatal
+- boe
+- 03_ordenacion_curricular_y_ensenanzas
 relaciones: {}
 fundamentos_derecho: []
 ---

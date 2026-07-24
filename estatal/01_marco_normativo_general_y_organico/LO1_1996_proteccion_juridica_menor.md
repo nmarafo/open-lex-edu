@@ -1,34 +1,33 @@
 ---
 id: norm-es-lo-1-1996
-codigo_sintetizado: "LO1_1996 Proteccion Juridica del Menor"
-titulo: "Ley Orgánica 1/1996, de 15 de enero, de Protección Jurídica del Menor, de modificación parcial del Código Civil y de la Ley de Enjuiciamiento Civil."
-jurisdiccion: "España"
-ambito: "Estatal"
-organo_emisor: "Jefatura del Estado"
-tipo_disposicion: "Ley Orgánica"
-numero_disposicion: "1/1996"
-fecha_disposicion: "1996-01-15"
-fecha_publicacion: "1996-01-17"
-boletin: "BOE"
-numero_boletin: "15"
-estado: "Vigente"
-redaccion: "consolidada"
-fuente_oficial: "https://www.boe.es/buscar/act.php?id=BOE-A-1996-1069"
-
+codigo_sintetizado: LO1_1996 Proteccion Juridica del Menor
+titulo: Ley Orgánica 1/1996, de 15 de enero, de Protección Jurídica del Menor, de
+  modificación parcial del Código Civil y de la Ley de Enjuiciamiento Civil.
+jurisdiccion: España
+ambito: Estatal
+organo_emisor: Jefatura del Estado / Cortes Generales
+tipo_disposicion: Ley Orgánica
+numero_disposicion: 1/1996
+fecha_disposicion: '1996-01-15'
+fecha_publicacion: '1996-01-17'
+boletin: BOE
+numero_boletin: '15'
+estado: Vigente
+redaccion: consolidada
+fuente_oficial: https://www.boe.es/buscar/act.php?id=BOE-A-1996-1069
 clasificacion:
-  categoria_canonica: "01_marco_normativo_general_y_organico"
-  subcategoria: "Protección jurídica de menores"
-
+  categoria_canonica: 01_marco_normativo_general_y_organico
+  subcategoria: Protección jurídica de menores
 tags:
-  - proteccion_menores
-  - derechos_infancia
-  - tutela_guarda
-  - estatal
-
+- proteccion_menores
+- derechos_infancia
+- tutela_guarda
+- estatal
 relaciones: {}
 fundamentos_derecho:
-  - norma_id: "norm-es-ce-1978"
-    articulos: ["39"]
+- norma_id: norm-es-ce-1978
+  articulos:
+  - '39'
 ---
 
 # Ley Orgánica 1/1996 de Protección Jurídica del Menor

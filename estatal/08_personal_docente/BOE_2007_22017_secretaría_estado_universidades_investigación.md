@@ -9,7 +9,7 @@ titulo: Resolución de 17 de diciembre de 2007, de la Secretaría de Estado de U
   Obligatoria y Bachillerato, Formación Profesional y Enseñanzas de Idiomas.
 jurisdiccion: España
 ambito: Estatal
-organo_emisor: Jefatura del Estado / Ministerio
+organo_emisor: Secretaría de Estado de Educación
 tipo_disposicion: Real Decreto / Orden
 fecha_publicacion: '2007-12-21'
 boletin: BOE

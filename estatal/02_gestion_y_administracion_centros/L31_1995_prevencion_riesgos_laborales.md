@@ -1,34 +1,32 @@
 ---
 id: norm-es-l-31-1995
-codigo_sintetizado: "L31_1995 Prevencion de Riesgos Laborales (LPRL)"
-titulo: "Ley 31/1995, de 8 de noviembre, de Prevención de Riesgos Laborales."
-jurisdiccion: "España"
-ambito: "Estatal"
-organo_emisor: "Jefatura del Estado"
-tipo_disposicion: "Ley"
-numero_disposicion: "31/1995"
-fecha_disposicion: "1995-11-08"
-fecha_publicacion: "1995-11-10"
-boletin: "BOE"
-numero_boletin: "269"
-estado: "Vigente"
-redaccion: "consolidada"
-fuente_oficial: "https://www.boe.es/buscar/act.php?id=BOE-A-1995-24292"
-
+codigo_sintetizado: L31_1995 Prevencion de Riesgos Laborales (LPRL)
+titulo: Ley 31/1995, de 8 de noviembre, de Prevención de Riesgos Laborales.
+jurisdiccion: España
+ambito: Estatal
+organo_emisor: Jefatura del Estado / Cortes Generales
+tipo_disposicion: Ley
+numero_disposicion: 31/1995
+fecha_disposicion: '1995-11-08'
+fecha_publicacion: '1995-11-10'
+boletin: BOE
+numero_boletin: '269'
+estado: Vigente
+redaccion: consolidada
+fuente_oficial: https://www.boe.es/buscar/act.php?id=BOE-A-1995-24292
 clasificacion:
-  categoria_canonica: "02_gestion_y_administracion_centros"
-  subcategoria: "Prevención de riesgos y salud laboral"
-
+  categoria_canonica: 02_gestion_y_administracion_centros
+  subcategoria: Prevención de riesgos y salud laboral
 tags:
-  - prevencion_riesgos
-  - salud_laboral
-  - seguridad_trabajo
-  - estatal
-
+- prevencion_riesgos
+- salud_laboral
+- seguridad_trabajo
+- estatal
 relaciones: {}
 fundamentos_derecho:
-  - norma_id: "norm-es-ce-1978"
-    articulos: ["40.2"]
+- norma_id: norm-es-ce-1978
+  articulos:
+  - '40.2'
 ---
 
 # Ley 31/1995 de Prevención de Riesgos Laborales

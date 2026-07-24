@@ -4,7 +4,8 @@ codigo_sintetizado: BOE-A-1995-25444
 titulo: Ley Orgánica 10/1995, de 23 de noviembre, del Código Penal.
 jurisdiccion: España
 ambito: Estatal
-organo_emisor: Jefatura del Estado / Ministerio
+organo_emisor: Ministerio de Educación, Formación Profesional y Deportes / Consejo
+  de Ministros
 tipo_disposicion: Real Decreto / Orden
 fecha_publicacion: '1995-11-24'
 boletin: BOE

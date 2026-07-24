@@ -1,34 +1,33 @@
 ---
 id: norm-es-l-53-1984
-codigo_sintetizado: "L53_1984 Incompatibilidades del Personal Publico"
-titulo: "Ley 53/1984, de 26 de diciembre, de Incompatibilidades del personal al servicio de las Administraciones Públicas."
-jurisdiccion: "España"
-ambito: "Estatal"
-organo_emisor: "Jefatura del Estado"
-tipo_disposicion: "Ley"
-numero_disposicion: "53/1984"
-fecha_disposicion: "1984-12-26"
-fecha_publicacion: "1985-01-04"
-boletin: "BOE"
-numero_boletin: "4"
-estado: "Vigente"
-redaccion: "consolidada"
-fuente_oficial: "https://www.boe.es/buscar/act.php?id=BOE-A-1985-151"
-
+codigo_sintetizado: L53_1984 Incompatibilidades del Personal Publico
+titulo: Ley 53/1984, de 26 de diciembre, de Incompatibilidades del personal al servicio
+  de las Administraciones Públicas.
+jurisdiccion: España
+ambito: Estatal
+organo_emisor: Jefatura del Estado / Cortes Generales
+tipo_disposicion: Ley
+numero_disposicion: 53/1984
+fecha_disposicion: '1984-12-26'
+fecha_publicacion: '1985-01-04'
+boletin: BOE
+numero_boletin: '4'
+estado: Vigente
+redaccion: consolidada
+fuente_oficial: https://www.boe.es/buscar/act.php?id=BOE-A-1985-151
 clasificacion:
-  categoria_canonica: "01_marco_normativo_general_y_organico"
-  subcategoria: "Empleados públicos"
-
+  categoria_canonica: 01_marco_normativo_general_y_organico
+  subcategoria: Empleados públicos
 tags:
-  - incompatibilidades
-  - empleados_publicos
-  - funcion_publica
-  - estatal
-
+- incompatibilidades
+- empleados_publicos
+- funcion_publica
+- estatal
 relaciones: {}
 fundamentos_derecho:
-  - norma_id: "norm-es-ce-1978"
-    articulos: ["103.3"]
+- norma_id: norm-es-ce-1978
+  articulos:
+  - '103.3'
 ---
 
 # Ley 53/1984 de Incompatibilidades del Personal al Servicio de las Administraciones Públicas

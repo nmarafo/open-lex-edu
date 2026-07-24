@@ -5,7 +5,8 @@ titulo: Real Decreto 452/2026, de 3 de junio, por el que se establece la ordenac
   de las Enseñanzas Profesionales de Artes Plásticas y Diseño.
 jurisdiccion: España
 ambito: Estatal
-organo_emisor: Jefatura del Estado / Ministerio
+organo_emisor: Ministerio de Educación, Formación Profesional y Deportes / Consejo
+  de Ministros
 tipo_disposicion: Real Decreto / Orden
 fecha_publicacion: '2026-06-05'
 boletin: BOE

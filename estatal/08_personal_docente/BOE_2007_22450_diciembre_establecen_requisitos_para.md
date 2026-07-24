@@ -7,7 +7,8 @@ titulo: Orden ECI/3858/2007, de 27 de diciembre, por la que se establecen los re
   y Bachillerato, Formación Profesional y Enseñanzas de Idiomas.
 jurisdiccion: España
 ambito: Estatal
-organo_emisor: Jefatura del Estado / Ministerio
+organo_emisor: Ministerio de Educación, Formación Profesional y Deportes / Consejo
+  de Ministros
 tipo_disposicion: Real Decreto / Orden
 fecha_publicacion: '2007-12-29'
 boletin: BOE

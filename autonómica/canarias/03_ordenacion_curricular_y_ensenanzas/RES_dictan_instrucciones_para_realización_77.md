@@ -6,7 +6,8 @@ titulo: Resolución de 14 de octubre de 2002, por la que se dictan instrucciones
   formativas de Educación de Personas Adultas (BOC n.º 148, de 6 de noviembre).
 jurisdiccion: Canarias
 ambito: Autonómico
-organo_emisor: Consejería de Educación
+organo_emisor: Dirección General de Administración de Centros, Escolarización y Servicios
+  Complementarios
 tipo_disposicion: Resolución
 estado: Vigente
 redaccion: libro_azul

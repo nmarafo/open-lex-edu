@@ -5,7 +5,8 @@ titulo: Ley 2/2012, de 29 de junio, de Presupuestos Generales del Estado para el
   2012.
 jurisdiccion: España
 ambito: Estatal
-organo_emisor: Jefatura del Estado / Ministerio
+organo_emisor: Ministerio de Educación, Formación Profesional y Deportes / Consejo
+  de Ministros
 tipo_disposicion: Real Decreto / Orden
 fecha_publicacion: '2012-06-30'
 boletin: BOE

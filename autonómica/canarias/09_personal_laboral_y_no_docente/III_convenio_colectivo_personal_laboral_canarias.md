@@ -1,42 +1,45 @@
 ---
 id: norm-can-convenio-3-laboral
-codigo_sintetizado: "III Convenio Colectivo del Personal Laboral de Canarias"
-titulo: "Resolución de 28 de enero de 1992, de la Dirección General de Trabajo, por la que se hace público el III Convenio Colectivo del Personal Laboral de la Comunidad Autónoma de Canarias."
-jurisdiccion: "Canarias"
-ambito: "Autonómico"
-organo_emisor: "Consejería de Empleo y Asuntos Sociales"
-tipo_disposicion: "Resolución"
-numero_disposicion: "28/01/1992"
-fecha_disposicion: "1992-01-28"
-fecha_publicacion: "1992-02-12"
-boletin: "BOC"
-numero_boletin: "18"
-estado: "Vigente"
-redaccion: "libro_azul"
-fuente_oficial: "https://www.gobiernodecanarias.org/boc/1992/018/001.html"
-fuente_juriscan: "https://www.gobiernodecanarias.org/juriscan/ficha.jsp?id=11285"
-
+codigo_sintetizado: III Convenio Colectivo del Personal Laboral de Canarias
+titulo: Resolución de 28 de enero de 1992, de la Dirección General de Trabajo, por
+  la que se hace público el III Convenio Colectivo del Personal Laboral de la Comunidad
+  Autónoma de Canarias.
+jurisdiccion: Canarias
+ambito: Autonómico
+organo_emisor: Dirección General de Trabajo
+tipo_disposicion: Resolución
+numero_disposicion: 28/01/1992
+fecha_disposicion: '1992-01-28'
+fecha_publicacion: '1992-02-12'
+boletin: BOC
+numero_boletin: '18'
+estado: Vigente
+redaccion: libro_azul
+fuente_oficial: https://www.gobiernodecanarias.org/boc/1992/018/001.html
+fuente_juriscan: https://www.gobiernodecanarias.org/juriscan/ficha.jsp?id=11285
 clasificacion:
-  categoria_canonica: "09_personal_laboral_y_no_docente"
-  subcategoria: "Convenio colectivo y personal laboral"
-
+  categoria_canonica: 09_personal_laboral_y_no_docente
+  subcategoria: Convenio colectivo y personal laboral
 tags:
-  - canarias
-  - convenio_colectivo
-  - personal_laboral
-  - categorias_profesionales
-  - condiciones_trabajo
-
+- canarias
+- convenio_colectivo
+- personal_laboral
+- categorias_profesionales
+- condiciones_trabajo
 relaciones:
   desarrolla:
-    - norma_id: "norm-es-rdl-2-2015"
-      articulos_origen: ["Todos"]
-      articulos_destino: ["82", "83"]
-      nota: "Regula las condiciones de trabajo y régimen disciplinario del personal laboral de la Administración Canaria."
-
+  - norma_id: norm-es-rdl-2-2015
+    articulos_origen:
+    - Todos
+    articulos_destino:
+    - '82'
+    - '83'
+    nota: Regula las condiciones de trabajo y régimen disciplinario del personal laboral
+      de la Administración Canaria.
 fundamentos_derecho:
-  - norma_id: "norm-es-rdl-2-2015"
-    articulos: ["82"]
+- norma_id: norm-es-rdl-2-2015
+  articulos:
+  - '82'
 ---
 
 # III Convenio Colectivo del Personal Laboral de la Comunidad Autónoma de Canarias

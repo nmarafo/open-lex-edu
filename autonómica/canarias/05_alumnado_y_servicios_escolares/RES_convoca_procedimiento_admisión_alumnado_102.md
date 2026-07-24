@@ -11,7 +11,7 @@ titulo: Resolución de 13 de febrero de 2026, por la que se convoca el procedimi
   en la Comunidad Autónoma de Canarias para el curso escolar 2026-2027.
 jurisdiccion: Canarias
 ambito: Autonómico
-organo_emisor: Consejería de Educación
+organo_emisor: Dirección General de Formación Profesional y Educación de Adultos
 tipo_disposicion: Resolución
 estado: Vigente
 redaccion: libro_azul

@@ -7,7 +7,7 @@ titulo: Resolución de 27 de junio de 2023, de la Dirección General de Formaci�
   n.º 133, de 10 de julio).
 jurisdiccion: Canarias
 ambito: Autonómico
-organo_emisor: Consejería de Educación
+organo_emisor: Dirección General de Formación Profesional y Educación de Adultos
 tipo_disposicion: Resolución
 estado: Vigente
 redaccion: libro_azul

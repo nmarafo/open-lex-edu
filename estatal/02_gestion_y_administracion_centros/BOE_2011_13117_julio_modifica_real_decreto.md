@@ -7,7 +7,8 @@ titulo: Real Decreto 1146/2011, de 29 de julio, por el que se modifica el Real D
   8 de noviembre, y 860/2010, de 2 de julio, afectados por estas modificaciones.
 jurisdiccion: España
 ambito: Estatal
-organo_emisor: Jefatura del Estado / Ministerio
+organo_emisor: Ministerio de Educación, Formación Profesional y Deportes / Consejo
+  de Ministros
 tipo_disposicion: Real Decreto / Orden
 fecha_publicacion: '2011-07-30'
 boletin: BOE

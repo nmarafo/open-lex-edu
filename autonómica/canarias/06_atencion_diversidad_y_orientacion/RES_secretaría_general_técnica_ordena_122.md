@@ -9,7 +9,7 @@ titulo: Resolución de 8 de febrero de 2018, de la Secretaría General Técnica,
   Autista (TEA) (BOC n.º 86, de 4 de mayo).
 jurisdiccion: Canarias
 ambito: Autonómico
-organo_emisor: Consejería de Educación
+organo_emisor: Secretaría General Técnica
 tipo_disposicion: Resolución
 estado: Vigente
 redaccion: libro_azul

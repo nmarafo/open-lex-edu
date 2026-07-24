@@ -5,7 +5,8 @@ titulo: Real Decreto-ley 14/2012, de 20 de abril, de medidas urgentes de raciona
   del gasto público en el ámbito educativo.
 jurisdiccion: España
 ambito: Estatal
-organo_emisor: Jefatura del Estado / Ministerio
+organo_emisor: Ministerio de Educación, Formación Profesional y Deportes / Consejo
+  de Ministros
 tipo_disposicion: Real Decreto / Orden
 fecha_publicacion: '2012-04-21'
 boletin: BOE

@@ -6,7 +6,7 @@ titulo: Resolución de 4 de febrero de 2017, por la que se dictan instrucciones 
   ámbito de la Comunidad Autónoma de Canarias (BOC n.º 36, de 21 de febrero).
 jurisdiccion: Canarias
 ambito: Autonómico
-organo_emisor: Consejería de Educación
+organo_emisor: Dirección General de Formación Profesional y Educación de Adultos
 tipo_disposicion: Resolución
 estado: Vigente
 redaccion: libro_azul

@@ -1,44 +1,50 @@
 ---
 id: norm-can-d-9-2022
-codigo_sintetizado: "D9_2022 Admision del Alumnado en Canarias"
-titulo: "Decreto 9/2022, de 20 de enero, por el que se regula la admisión del alumnado en los centros docentes públicos y privados concertados que imparten enseñanzas no universitarias en la Comunidad Autónoma de Canarias."
-jurisdiccion: "Canarias"
-ambito: "Autonómico"
-organo_emisor: "Presidencia del Gobierno de Canarias"
-tipo_disposicion: "Decreto"
-numero_disposicion: "9/2022"
-fecha_disposicion: "2022-01-20"
-fecha_publicacion: "2022-01-26"
-boletin: "BOC"
-numero_boletin: "18"
-estado: "Vigente"
-redaccion: "libro_azul"
-fuente_oficial: "https://www.gobiernodecanarias.org/boc/2022/018/002.html"
-fuente_juriscan: "https://www.gobiernodecanarias.org/juriscan/ficha.jsp?id=81320"
-
+codigo_sintetizado: D9_2022 Admision del Alumnado en Canarias
+titulo: Decreto 9/2022, de 20 de enero, por el que se regula la admisión del alumnado
+  en los centros docentes públicos y privados concertados que imparten enseñanzas
+  no universitarias en la Comunidad Autónoma de Canarias.
+jurisdiccion: Canarias
+ambito: Autonómico
+organo_emisor: Gobierno de Canarias / Consejería de Educación
+tipo_disposicion: Decreto
+numero_disposicion: 9/2022
+fecha_disposicion: '2022-01-20'
+fecha_publicacion: '2022-01-26'
+boletin: BOC
+numero_boletin: '18'
+estado: Vigente
+redaccion: libro_azul
+fuente_oficial: https://www.gobiernodecanarias.org/boc/2022/018/002.html
+fuente_juriscan: https://www.gobiernodecanarias.org/juriscan/ficha.jsp?id=81320
 clasificacion:
-  categoria_canonica: "05_alumnado_y_servicios_escolares"
-  subcategoria: "Admisión del alumnado"
-
+  categoria_canonica: 05_alumnado_y_servicios_escolares
+  subcategoria: Admisión del alumnado
 tags:
-  - canarias
-  - admision_alumnado
-  - escolarizacion
-  - criterios_baremacion
-  - centros_concertados
-
+- canarias
+- admision_alumnado
+- escolarizacion
+- criterios_baremacion
+- centros_concertados
 relaciones:
   desarrolla:
-    - norma_id: "norm-es-lo-2-2006"
-      articulos_origen: ["Todos"]
-      articulos_destino: ["84", "85", "86", "87"]
-      nota: "Regula el procedimiento de admisión y baremación escolar en centros públicos y concertados de Canarias."
-
+  - norma_id: norm-es-lo-2-2006
+    articulos_origen:
+    - Todos
+    articulos_destino:
+    - '84'
+    - '85'
+    - '86'
+    - '87'
+    nota: Regula el procedimiento de admisión y baremación escolar en centros públicos
+      y concertados de Canarias.
 fundamentos_derecho:
-  - norma_id: "norm-can-l-6-2014"
-    articulos: ["54"]
-  - norma_id: "norm-es-lo-2-2006"
-    articulos: ["84"]
+- norma_id: norm-can-l-6-2014
+  articulos:
+  - '54'
+- norma_id: norm-es-lo-2-2006
+  articulos:
+  - '84'
 ---
 
 # Decreto 9/2022, de 20 de enero - Admisión del Alumnado en Canarias

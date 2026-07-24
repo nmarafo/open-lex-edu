@@ -7,7 +7,8 @@ titulo: Real Decreto 1834/2008, de 8 de noviembre, por el que se definen las con
   se establecen las especialidades de los cuerpos docentes de enseñanza secundaria.
 jurisdiccion: España
 ambito: Estatal
-organo_emisor: Ministerio de Educación, Política Social y Deporte
+organo_emisor: Ministerio de Educación, Formación Profesional y Deportes / Consejo
+  de Ministros
 tipo_disposicion: Real Decreto
 numero_disposicion: 1834/2008
 fecha_disposicion: '2008-11-08'

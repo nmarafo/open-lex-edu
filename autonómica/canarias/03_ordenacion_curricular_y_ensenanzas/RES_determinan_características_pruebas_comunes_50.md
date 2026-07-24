@@ -6,7 +6,7 @@ titulo: Resolución de 14 de enero de 2014, por la que se determinan las caracte
   C1 de enseñanzas de idiomas de régimen especial, en la Comunidad Autónoma de Canarias.
 jurisdiccion: Canarias
 ambito: Autonómico
-organo_emisor: Consejería de Educación
+organo_emisor: Dirección General de Formación Profesional y Educación de Adultos
 tipo_disposicion: Resolución
 estado: Vigente
 redaccion: libro_azul

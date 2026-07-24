@@ -7,7 +7,8 @@ titulo: Ley 12/1987, de 2 de julio, sobre establecimiento de la gratuidad de los
   públicos no universitarios.
 jurisdiccion: España
 ambito: Estatal
-organo_emisor: Jefatura del Estado / Ministerio
+organo_emisor: Ministerio de Educación, Formación Profesional y Deportes / Consejo
+  de Ministros
 tipo_disposicion: Real Decreto / Orden
 fecha_publicacion: '1987-07-03'
 boletin: BOE

@@ -6,7 +6,8 @@ titulo: Real Decreto 1495/2011, de 24 de octubre, por el que se desarrolla la Le
   para el ámbito del sector público estatal.
 jurisdiccion: España
 ambito: Estatal
-organo_emisor: Jefatura del Estado / Ministerio
+organo_emisor: Ministerio de Educación, Formación Profesional y Deportes / Consejo
+  de Ministros
 tipo_disposicion: Real Decreto / Orden
 fecha_publicacion: '2011-11-08'
 boletin: BOE

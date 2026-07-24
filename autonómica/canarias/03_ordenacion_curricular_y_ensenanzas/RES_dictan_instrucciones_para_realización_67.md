@@ -6,7 +6,7 @@ titulo: Resolución de 20 de abril de 2016, por la que se dictan instrucciones p
   superiores en la Comunidad Autónoma de Canarias (BOC n.º 86, de 5 de mayo).
 jurisdiccion: Canarias
 ambito: Autonómico
-organo_emisor: Consejería de Educación
+organo_emisor: Dirección General de Formación Profesional y Educación de Adultos
 tipo_disposicion: Resolución
 estado: Vigente
 redaccion: libro_azul

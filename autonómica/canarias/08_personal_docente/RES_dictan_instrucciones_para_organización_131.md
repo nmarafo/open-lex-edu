@@ -7,7 +7,7 @@ titulo: Resolución de 11 de junio de 2020, por la que se dictan instrucciones p
   adultas dependientes de esta Consejería (BOC n.º 130, de 30 de junio).
 jurisdiccion: Canarias
 ambito: Autonómico
-organo_emisor: Consejería de Educación
+organo_emisor: Dirección General de Formación Profesional y Educación de Adultos
 tipo_disposicion: Resolución
 estado: Vigente
 redaccion: libro_azul

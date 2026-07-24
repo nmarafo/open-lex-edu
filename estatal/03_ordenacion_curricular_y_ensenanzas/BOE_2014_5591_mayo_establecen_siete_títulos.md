@@ -6,7 +6,8 @@ titulo: Real Decreto 356/2014, de 16 de mayo, por el que se establecen siete tí
   Profesional.
 jurisdiccion: España
 ambito: Estatal
-organo_emisor: Jefatura del Estado / Ministerio
+organo_emisor: Ministerio de Educación, Formación Profesional y Deportes / Consejo
+  de Ministros
 tipo_disposicion: Real Decreto / Orden
 fecha_publicacion: '2014-05-29'
 boletin: BOE

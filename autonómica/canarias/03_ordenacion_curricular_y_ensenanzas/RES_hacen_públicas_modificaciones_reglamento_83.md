@@ -6,7 +6,7 @@ titulo: Resolución de 7 de noviembre de 2006, por la que se hacen públicas las
   para mayores de 25 años (BOC n.º 226, de 21 de noviembre).
 jurisdiccion: Canarias
 ambito: Autonómico
-organo_emisor: Consejería de Educación
+organo_emisor: Dirección General competente de la Consejería de Educación de Canarias
 tipo_disposicion: Resolución
 estado: Vigente
 redaccion: libro_azul

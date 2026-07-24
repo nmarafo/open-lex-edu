@@ -8,7 +8,7 @@ titulo: Resolución de 22 de mayo de 2018, de la Dirección General de Formació
   de 4 de junio).
 jurisdiccion: Canarias
 ambito: Autonómico
-organo_emisor: Consejería de Educación
+organo_emisor: Dirección General de Formación Profesional y Educación de Adultos
 tipo_disposicion: Resolución
 estado: Vigente
 redaccion: libro_azul

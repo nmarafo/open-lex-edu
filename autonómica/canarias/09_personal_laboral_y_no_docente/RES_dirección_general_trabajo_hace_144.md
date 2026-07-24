@@ -6,7 +6,7 @@ titulo: Resolución de 21 de junio de 1994, de la Dirección General de Trabajo,
   del Personal Laboral de la Comunidad Autónoma de Canarias (BOC n.º 83, de 8 de julio).
 jurisdiccion: Canarias
 ambito: Autonómico
-organo_emisor: Consejería de Educación
+organo_emisor: Dirección General de Trabajo
 tipo_disposicion: Resolución
 estado: Vigente
 redaccion: libro_azul

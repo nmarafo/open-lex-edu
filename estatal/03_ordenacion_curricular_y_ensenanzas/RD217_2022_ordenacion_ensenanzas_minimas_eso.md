@@ -5,7 +5,8 @@ titulo: Real Decreto 217/2022, de 29 de marzo, por el que se establece la ordena
   y las enseñanzas mínimas de la Educación Secundaria Obligatoria.
 jurisdiccion: España
 ambito: Estatal
-organo_emisor: Ministerio de Educación y Formación Profesional
+organo_emisor: Ministerio de Educación, Formación Profesional y Deportes / Consejo
+  de Ministros
 tipo_disposicion: Real Decreto
 numero_disposicion: 217/2022
 fecha_disposicion: '2022-03-29'

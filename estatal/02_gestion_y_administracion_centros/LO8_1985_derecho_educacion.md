@@ -1,35 +1,33 @@
 ---
 id: norm-es-lo-8-1985
-codigo_sintetizado: "LO8_1985 Ley Reguladora del Derecho a la Educacion (LODE)"
-titulo: "Ley Orgánica 8/1985, de 3 de julio, reguladora del Derecho a la Educación."
-jurisdiccion: "España"
-ambito: "Estatal"
-organo_emisor: "Jefatura del Estado"
-tipo_disposicion: "Ley Orgánica"
-numero_disposicion: "8/1985"
-fecha_disposicion: "1985-07-03"
-fecha_publicacion: "1985-07-04"
-boletin: "BOE"
-numero_boletin: "159"
-estado: "Vigente"
-redaccion: "consolidada"
-fuente_oficial: "https://www.boe.es/buscar/act.php?id=BOE-A-1985-12978"
-
+codigo_sintetizado: LO8_1985 Ley Reguladora del Derecho a la Educacion (LODE)
+titulo: Ley Orgánica 8/1985, de 3 de julio, reguladora del Derecho a la Educación.
+jurisdiccion: España
+ambito: Estatal
+organo_emisor: Jefatura del Estado / Cortes Generales
+tipo_disposicion: Ley Orgánica
+numero_disposicion: 8/1985
+fecha_disposicion: '1985-07-03'
+fecha_publicacion: '1985-07-04'
+boletin: BOE
+numero_boletin: '159'
+estado: Vigente
+redaccion: consolidada
+fuente_oficial: https://www.boe.es/buscar/act.php?id=BOE-A-1985-12978
 clasificacion:
-  categoria_canonica: "02_gestion_y_administracion_centros"
-  subcategoria: "Centros privados concertados"
-
+  categoria_canonica: 02_gestion_y_administracion_centros
+  subcategoria: Centros privados concertados
 tags:
-  - lode
-  - derecho_educacion
-  - centros_concertados
-  - ideario_centro
-  - estatal
-
+- lode
+- derecho_educacion
+- centros_concertados
+- ideario_centro
+- estatal
 relaciones: {}
 fundamentos_derecho:
-  - norma_id: "norm-es-ce-1978"
-    articulos: ["27"]
+- norma_id: norm-es-ce-1978
+  articulos:
+  - '27'
 ---
 
 # Ley Orgánica 8/1985 reguladora del Derecho a la Educación (LODE)

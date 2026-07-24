@@ -4,7 +4,8 @@ codigo_sintetizado: Resolucion BOC 91
 titulo: Resolución de 20 de junio de 2024
 jurisdiccion: Canarias
 ambito: Autonómico
-organo_emisor: Consejería de Educación
+organo_emisor: Dirección General de Administración de Centros, Escolarización y Servicios
+  Complementarios
 tipo_disposicion: Resolución
 estado: Vigente
 redaccion: libro_azul

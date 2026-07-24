@@ -6,7 +6,8 @@ titulo: Real Decreto 498/2024, de 21 de mayo, por el que se modifican determinad
   básico y se fijan sus enseñanzas mínimas.
 jurisdiccion: España
 ambito: Estatal
-organo_emisor: Jefatura del Estado / Ministerio
+organo_emisor: Ministerio de Educación, Formación Profesional y Deportes / Consejo
+  de Ministros
 tipo_disposicion: Real Decreto / Orden
 fecha_publicacion: '2024-05-28'
 boletin: BOE

@@ -6,7 +6,7 @@ titulo: Resolución de 27 de julio de 2022, por la que se aprueban nuevos criter
   sistema público educativo de Canarias entre Administración y sindicatos.
 jurisdiccion: Canarias
 ambito: Autonómico
-organo_emisor: Consejería de Educación
+organo_emisor: Dirección General de Personal y Formación del Profesorado
 tipo_disposicion: Resolución
 estado: Vigente
 redaccion: libro_azul

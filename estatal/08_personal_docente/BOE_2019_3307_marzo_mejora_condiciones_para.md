@@ -5,7 +5,8 @@ titulo: Ley 4/2019, de 7 de marzo, de mejora de las condiciones para el desempe�
   de la docencia y la enseñanza en el ámbito de la educación no universitaria.
 jurisdiccion: España
 ambito: Estatal
-organo_emisor: Jefatura del Estado / Ministerio
+organo_emisor: Ministerio de Educación, Formación Profesional y Deportes / Consejo
+  de Ministros
 tipo_disposicion: Real Decreto / Orden
 fecha_publicacion: '2019-03-08'
 boletin: BOE

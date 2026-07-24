@@ -1,26 +1,26 @@
 ---
 id: norm-es-1995-22212
-codigo_sintetizado: "BOE-A-1995-22212"
-titulo: "Real Decreto 1635/1995, de 6 de octubre, por el que se adscribe el profesorado de los Cuerpos de Profesores de Enseñanza Secundaria y Profesores Técnicos de Formación Profesional a las especialidades propias de la formación profesional específica."
-jurisdiccion: "España"
-ambito: "Estatal"
-organo_emisor: "Jefatura del Estado / Ministerio"
-tipo_disposicion: "Real Decreto / Orden"
-fecha_publicacion: "1995-10-10"
-boletin: "BOE"
-estado: "Vigente"
-redaccion: "consolidada"
-fuente_oficial: "https://www.boe.es/buscar/act.php?id=BOE-A-1995-22212"
-
+codigo_sintetizado: BOE-A-1995-22212
+titulo: Real Decreto 1635/1995, de 6 de octubre, por el que se adscribe el profesorado
+  de los Cuerpos de Profesores de Enseñanza Secundaria y Profesores Técnicos de Formación
+  Profesional a las especialidades propias de la formación profesional específica.
+jurisdiccion: España
+ambito: Estatal
+organo_emisor: Ministerio de Educación, Formación Profesional y Deportes / Consejo
+  de Ministros
+tipo_disposicion: Real Decreto / Orden
+fecha_publicacion: '1995-10-10'
+boletin: BOE
+estado: Vigente
+redaccion: consolidada
+fuente_oficial: https://www.boe.es/buscar/act.php?id=BOE-A-1995-22212
 clasificacion:
-  categoria_canonica: "08_personal_docente"
-  subcategoria: "Especialidades y habilitaciones"
-
+  categoria_canonica: 08_personal_docente
+  subcategoria: Especialidades y habilitaciones
 tags:
-  - estatal
-  - boe
-  - 08_personal_docente
-
+- estatal
+- boe
+- 08_personal_docente
 relaciones: {}
 fundamentos_derecho: []
 ---

@@ -6,7 +6,7 @@ titulo: Resolución de 25 de mayo de 2017, por la que se regula el Programa de M
   provisión de sus plazas (BOC nº 106, de 5 de junio).
 jurisdiccion: Canarias
 ambito: Autonómico
-organo_emisor: Consejería de Educación
+organo_emisor: Dirección General de Personal y Formación del Profesorado
 tipo_disposicion: Resolución
 estado: Vigente
 redaccion: libro_azul

@@ -7,7 +7,8 @@ titulo: Real Decreto 1364/2010, de 29 de octubre, por el que se regula el concur
   de provisión de plazas a cubrir por los mismos.
 jurisdiccion: España
 ambito: Estatal
-organo_emisor: Ministerio de Educación
+organo_emisor: Ministerio de Educación, Formación Profesional y Deportes / Consejo
+  de Ministros
 tipo_disposicion: Real Decreto
 numero_disposicion: 1364/2010
 fecha_disposicion: '2010-10-29'

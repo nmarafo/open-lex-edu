@@ -7,7 +7,7 @@ titulo: Resolución de 9 de mayo de 1995, de la Dirección General de Centros, p
   de la Comunidad Autónoma de Canarias (BOC n.º 67, de 29 de mayo).
 jurisdiccion: Canarias
 ambito: Autonómico
-organo_emisor: Consejería de Educación
+organo_emisor: Dirección General competente de la Consejería de Educación de Canarias
 tipo_disposicion: Resolución
 estado: Vigente
 redaccion: libro_azul

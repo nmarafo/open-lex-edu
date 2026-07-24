@@ -7,7 +7,8 @@ titulo: Orden PRE/1744/2010, de 30 de junio, por la que se regula el procedimien
   de la Seguridad Social de los Funcionarios Civiles del Estado.
 jurisdiccion: España
 ambito: Estatal
-organo_emisor: Jefatura del Estado / Ministerio
+organo_emisor: Ministerio de Educación, Formación Profesional y Deportes / Consejo
+  de Ministros
 tipo_disposicion: Real Decreto / Orden
 fecha_publicacion: '2010-07-01'
 boletin: BOE

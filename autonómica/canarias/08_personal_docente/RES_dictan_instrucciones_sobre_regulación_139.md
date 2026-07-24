@@ -8,7 +8,7 @@ titulo: Resolución de 24 de febrero de 2026, por la que se dictan instrucciones
   educativos. (BOC N.º 046. Lunes 9 de marzo de 2026).
 jurisdiccion: Canarias
 ambito: Autonómico
-organo_emisor: Consejería de Educación
+organo_emisor: Dirección General de Personal y Formación del Profesorado
 tipo_disposicion: Resolución
 estado: Vigente
 redaccion: libro_azul

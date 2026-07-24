@@ -7,7 +7,7 @@ titulo: Resolución de 21 de junio de 2018, de la Viceconsejería de Educación 
   para el curso 2018/19 (BOC n.º 124, de 28 de junio).
 jurisdiccion: Canarias
 ambito: Autonómico
-organo_emisor: Consejería de Educación
+organo_emisor: Viceconsejería de Educación
 tipo_disposicion: Resolución
 estado: Vigente
 redaccion: libro_azul

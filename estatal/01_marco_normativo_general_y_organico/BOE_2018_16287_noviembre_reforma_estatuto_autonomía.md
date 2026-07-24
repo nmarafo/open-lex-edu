@@ -1,26 +1,25 @@
 ---
 id: norm-es-2018-16287
-codigo_sintetizado: "BOE-A-2018-16287"
-titulo: "Resolución de 7 de noviembre de 2018, del Ayuntamiento de Zaragoza, referente a la convocatoria para proveer varias plazas."
-jurisdiccion: "España"
-ambito: "Estatal"
-organo_emisor: "Jefatura del Estado / Ministerio"
-tipo_disposicion: "Real Decreto / Orden"
-fecha_publicacion: "2018-11-29"
-boletin: "BOE"
-estado: "Vigente"
-redaccion: "consolidada"
-fuente_oficial: "https://www.boe.es/buscar/act.php?id=BOE-A-2018-16287"
-
+codigo_sintetizado: BOE-A-2018-16287
+titulo: Resolución de 7 de noviembre de 2018, del Ayuntamiento de Zaragoza, referente
+  a la convocatoria para proveer varias plazas.
+jurisdiccion: España
+ambito: Estatal
+organo_emisor: Ministerio de Educación, Formación Profesional y Deportes / Consejo
+  de Ministros
+tipo_disposicion: Real Decreto / Orden
+fecha_publicacion: '2018-11-29'
+boletin: BOE
+estado: Vigente
+redaccion: consolidada
+fuente_oficial: https://www.boe.es/buscar/act.php?id=BOE-A-2018-16287
 clasificacion:
-  categoria_canonica: "01_marco_normativo_general_y_organico"
-  subcategoria: "Marco normativo general"
-
+  categoria_canonica: 01_marco_normativo_general_y_organico
+  subcategoria: Marco normativo general
 tags:
-  - estatal
-  - boe
-  - 01_marco_normativo_general_y_organico
-
+- estatal
+- boe
+- 01_marco_normativo_general_y_organico
 relaciones: {}
 fundamentos_derecho: []
 ---

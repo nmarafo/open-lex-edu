@@ -8,7 +8,8 @@ titulo: Orden ECD/462/2016, de 31 de marzo, por la que se regula el procedimient
   currículo anterior a su implantación.
 jurisdiccion: España
 ambito: Estatal
-organo_emisor: Jefatura del Estado / Ministerio
+organo_emisor: Ministerio de Educación, Formación Profesional y Deportes / Consejo
+  de Ministros
 tipo_disposicion: Real Decreto / Orden
 fecha_publicacion: '2016-04-05'
 boletin: BOE

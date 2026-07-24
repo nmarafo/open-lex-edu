@@ -4,7 +4,8 @@ codigo_sintetizado: BOE-A-2012-9282
 titulo: Ley 4/2012, de 25 de junio, de medidas administrativas y fiscales.
 jurisdiccion: España
 ambito: Estatal
-organo_emisor: Jefatura del Estado / Ministerio
+organo_emisor: Ministerio de Educación, Formación Profesional y Deportes / Consejo
+  de Ministros
 tipo_disposicion: Real Decreto / Orden
 fecha_publicacion: '2012-07-12'
 boletin: BOE

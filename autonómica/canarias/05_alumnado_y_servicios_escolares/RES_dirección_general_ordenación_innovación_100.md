@@ -8,7 +8,7 @@ titulo: Resolución de 28 de agosto de 2017, de la Dirección General de Ordenac
   de Canarias (BOC n.º 169, de 1 de septiembre).
 jurisdiccion: Canarias
 ambito: Autonómico
-organo_emisor: Consejería de Educación
+organo_emisor: Dirección General de Ordenación, Inclusión e Innovación
 tipo_disposicion: Resolución
 estado: Vigente
 redaccion: libro_azul

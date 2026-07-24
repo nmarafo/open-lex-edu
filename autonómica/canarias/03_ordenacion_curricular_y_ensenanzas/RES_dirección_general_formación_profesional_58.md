@@ -7,7 +7,7 @@ titulo: Resolución de 3 de febrero de 2012, de la Dirección General de Formaci
   régimen especial, en la Comunidad Autónoma de Canarias, a partir del curso 2012-2013.
 jurisdiccion: Canarias
 ambito: Autonómico
-organo_emisor: Consejería de Educación
+organo_emisor: Dirección General de Formación Profesional y Educación de Adultos
 tipo_disposicion: Resolución
 estado: Vigente
 redaccion: libro_azul

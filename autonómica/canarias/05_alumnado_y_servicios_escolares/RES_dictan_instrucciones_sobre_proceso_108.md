@@ -10,7 +10,7 @@ titulo: Resolución de 24 de febrero de 2025, por la que se dictan instrucciones
   el curso escolar 2025/2026.
 jurisdiccion: Canarias
 ambito: Autonómico
-organo_emisor: Consejería de Educación
+organo_emisor: Dirección General de Formación Profesional y Educación de Adultos
 tipo_disposicion: Resolución
 estado: Vigente
 redaccion: libro_azul

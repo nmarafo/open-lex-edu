@@ -7,7 +7,7 @@ titulo: Resolución de 18 de abril de 2023, por la que se dictan instrucciones p
   de Idiomas de la Comunidad Autónoma de Canarias (BOC n.º 85, de 3 de mayo).
 jurisdiccion: Canarias
 ambito: Autonómico
-organo_emisor: Consejería de Educación
+organo_emisor: Dirección General de Formación Profesional y Educación de Adultos
 tipo_disposicion: Resolución
 estado: Vigente
 redaccion: libro_azul

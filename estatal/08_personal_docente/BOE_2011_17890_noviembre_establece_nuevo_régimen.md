@@ -8,7 +8,8 @@ titulo: Real Decreto 1619/2011, de 14 de noviembre, por el que se establece el n
   Sede de 3 de enero de 1979 sobre Enseñanza y Asuntos Culturales.
 jurisdiccion: España
 ambito: Estatal
-organo_emisor: Jefatura del Estado / Ministerio
+organo_emisor: Ministerio de Educación, Formación Profesional y Deportes / Consejo
+  de Ministros
 tipo_disposicion: Real Decreto / Orden
 fecha_publicacion: '2011-11-16'
 boletin: BOE

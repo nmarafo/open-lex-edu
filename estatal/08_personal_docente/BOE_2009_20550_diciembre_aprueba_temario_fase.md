@@ -6,7 +6,8 @@ titulo: Orden EDU/3429/2009, de 11 de diciembre, por la que se aprueba el temari
   de Educación.
 jurisdiccion: España
 ambito: Estatal
-organo_emisor: Jefatura del Estado / Ministerio
+organo_emisor: Ministerio de Educación, Formación Profesional y Deportes / Consejo
+  de Ministros
 tipo_disposicion: Real Decreto / Orden
 fecha_publicacion: '2009-12-21'
 boletin: BOE

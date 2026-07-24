@@ -8,7 +8,7 @@ titulo: Resolución de 10 de agosto de 2005, de la Dirección General de Trabajo
   Cultura y Deportes) (BOC n.º 167, de 25 de agosto).
 jurisdiccion: Canarias
 ambito: Autonómico
-organo_emisor: Consejería de Educación
+organo_emisor: Dirección General de Trabajo
 tipo_disposicion: Resolución
 estado: Vigente
 redaccion: libro_azul

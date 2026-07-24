@@ -1,41 +1,43 @@
 ---
 id: norm-can-l-16-2003
-codigo_sintetizado: "L16_2003 Prevencion y Proteccion de Mujeres contra la Violencia de Genero"
-titulo: "Ley 16/2003, de 8 de abril, de Prevención y Protección Integral de las Mujeres contra la Violencia de Género."
-jurisdiccion: "Canarias"
-ambito: "Autonómico"
-organo_emisor: "Presidencia del Gobierno de Canarias"
-tipo_disposicion: "Ley"
-numero_disposicion: "16/2003"
-fecha_disposicion: "2003-04-08"
-fecha_publicacion: "2003-04-25"
-boletin: "BOC"
-numero_boletin: "79"
-estado: "Vigente"
-redaccion: "consolidada"
-fuente_oficial: "https://www.boe.es/buscar/act.php?id=BOE-A-2003-13618"
-fuente_juriscan: "https://www.gobiernodecanarias.org/juriscan/ficha.jsp?id=43781"
-
+codigo_sintetizado: L16_2003 Prevencion y Proteccion de Mujeres contra la Violencia
+  de Genero
+titulo: Ley 16/2003, de 8 de abril, de Prevención y Protección Integral de las Mujeres
+  contra la Violencia de Género.
+jurisdiccion: Canarias
+ambito: Autonómico
+organo_emisor: Parlamento de Canarias / Gobierno de Canarias
+tipo_disposicion: Ley
+numero_disposicion: 16/2003
+fecha_disposicion: '2003-04-08'
+fecha_publicacion: '2003-04-25'
+boletin: BOC
+numero_boletin: '79'
+estado: Vigente
+redaccion: consolidada
+fuente_oficial: https://www.boe.es/buscar/act.php?id=BOE-A-2003-13618
+fuente_juriscan: https://www.gobiernodecanarias.org/juriscan/ficha.jsp?id=43781
 clasificacion:
-  categoria_canonica: "07_convivencia_bienestar_y_protocolos"
-  subcategoria: "Protocolos de actuación y protección"
-
+  categoria_canonica: 07_convivencia_bienestar_y_protocolos
+  subcategoria: Protocolos de actuación y protección
 tags:
-  - canarias
-  - violencia_genero
-  - coeducacion
-  - proteccion_mujeres
-
+- canarias
+- violencia_genero
+- coeducacion
+- proteccion_mujeres
 relaciones:
   desarrolla:
-    - norma_id: "norm-es-lo-1-2004"
-      articulos_origen: ["Todos"]
-      articulos_destino: ["Todos"]
-      nota: "Desarrolla el marco autonómico de prevención de la violencia de género en Canarias."
-
+  - norma_id: norm-es-lo-1-2004
+    articulos_origen:
+    - Todos
+    articulos_destino:
+    - Todos
+    nota: Desarrolla el marco autonómico de prevención de la violencia de género en
+      Canarias.
 fundamentos_derecho:
-  - norma_id: "norm-can-lo-1-2018"
-    articulos: ["16"]
+- norma_id: norm-can-lo-1-2018
+  articulos:
+  - '16'
 ---
 
 # Ley 16/2003 de Prevención y Protección Integral de las Mujeres contra la Violencia de Género de Canarias

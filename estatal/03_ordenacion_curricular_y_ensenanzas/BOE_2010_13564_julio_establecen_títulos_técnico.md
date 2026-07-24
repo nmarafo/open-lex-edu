@@ -6,7 +6,8 @@ titulo: Real Decreto 935/2010, de 23 de julio, por el que se establecen los tít
   libre, y se fijan sus enseñanzas mínimas y los requisitos de acceso.
 jurisdiccion: España
 ambito: Estatal
-organo_emisor: Jefatura del Estado / Ministerio
+organo_emisor: Ministerio de Educación, Formación Profesional y Deportes / Consejo
+  de Ministros
 tipo_disposicion: Real Decreto / Orden
 fecha_publicacion: '2010-08-31'
 boletin: BOE

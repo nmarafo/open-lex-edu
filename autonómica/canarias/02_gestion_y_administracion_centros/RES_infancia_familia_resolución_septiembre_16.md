@@ -9,7 +9,7 @@ titulo: Dirección General de Dependencia, Infancia y Familia.- Resolución de 1
   interior (BOC n.º 188, de 29 de septiembre).
 jurisdiccion: Canarias
 ambito: Autonómico
-organo_emisor: Consejería de Educación
+organo_emisor: Dirección General competente de la Consejería de Educación de Canarias
 tipo_disposicion: Resolución
 estado: Vigente
 redaccion: libro_azul

@@ -4,7 +4,7 @@ codigo_sintetizado: L6_2014 Ley Canaria de Educacion
 titulo: Ley 6/2014, de 25 de julio, Canaria de Educación no Universitaria.
 jurisdiccion: Canarias
 ambito: Autonómico
-organo_emisor: Presidencia del Gobierno de Canarias
+organo_emisor: Parlamento de Canarias / Gobierno de Canarias
 tipo_disposicion: Ley
 numero_disposicion: 6/2014
 fecha_disposicion: '2014-07-25'

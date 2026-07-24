@@ -7,7 +7,8 @@ titulo: Real Decreto 62/2022, de 25 de enero, de flexibilización de los requisi
   en centros del sistema educativo y de formación profesional para el empleo.
 jurisdiccion: España
 ambito: Estatal
-organo_emisor: Jefatura del Estado / Ministerio
+organo_emisor: Ministerio de Educación, Formación Profesional y Deportes / Consejo
+  de Ministros
 tipo_disposicion: Real Decreto / Orden
 fecha_publicacion: '2022-01-27'
 boletin: BOE

@@ -4,7 +4,8 @@ codigo_sintetizado: BOE-A-1985-5392
 titulo: Ley 7/1985, de 2 de abril, Reguladora de las Bases del Régimen Local
 jurisdiccion: España
 ambito: Estatal
-organo_emisor: Jefatura del Estado / Ministerio
+organo_emisor: Ministerio de Educación, Formación Profesional y Deportes / Consejo
+  de Ministros
 tipo_disposicion: Real Decreto / Orden
 fecha_publicacion: '1985-04-03'
 boletin: BOE

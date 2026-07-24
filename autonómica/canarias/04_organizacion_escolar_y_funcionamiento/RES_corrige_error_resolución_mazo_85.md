@@ -8,7 +8,8 @@ titulo: Resolución de 10 de abril de 2026, por la que se corrige error en la Re
   Autónoma de Canaria.(BOC n.º 61, de 30.3.2026).
 jurisdiccion: Canarias
 ambito: Autonómico
-organo_emisor: Consejería de Educación
+organo_emisor: Dirección General de Administración de Centros, Escolarización y Servicios
+  Complementarios
 tipo_disposicion: Resolución
 estado: Vigente
 redaccion: libro_azul

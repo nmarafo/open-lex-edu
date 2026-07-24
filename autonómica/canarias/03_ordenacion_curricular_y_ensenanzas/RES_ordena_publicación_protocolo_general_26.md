@@ -9,7 +9,7 @@ titulo: Resolución de 16 de junio de 2026, por la que se ordena la publicación
   pública de la Comunidad Autónoma de Canarias.(BOC n.º 129, de 29.06.2026).
 jurisdiccion: Canarias
 ambito: Autonómico
-organo_emisor: Consejería de Educación
+organo_emisor: Secretaría General Técnica
 tipo_disposicion: Resolución
 estado: Vigente
 redaccion: libro_azul

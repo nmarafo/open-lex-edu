@@ -9,7 +9,7 @@ titulo: 'Resolución de la Dirección General de Ordenación de las Enseñanzas,
   telemática: del 20 de abril al 11 de mayo (BOC nº 60, de 27 de marzo).'
 jurisdiccion: Canarias
 ambito: Autonómico
-organo_emisor: Consejería de Educación
+organo_emisor: Dirección General de Ordenación, Inclusión e Innovación
 tipo_disposicion: Resolución
 estado: Vigente
 redaccion: libro_azul

@@ -1,26 +1,28 @@
 ---
 id: norm-es-2002-4371
-codigo_sintetizado: "BOE-A-2002-4371"
-titulo: "Orden ECD/454/2002, de 22 de febrero, por la que se establecen los elementos básicos de los informes de evaluación de las enseñanzas que conducentes a la obtención de titulaciones de técnicos deportivos reguladas por el Real Decreto 1913/1997, de 19 de diciembre, así como los requisitos formales derivados del proceso de evaluación que son necesarios para garantizar la movilidad de los alumnos."
-jurisdiccion: "España"
-ambito: "Estatal"
-organo_emisor: "Jefatura del Estado / Ministerio"
-tipo_disposicion: "Real Decreto / Orden"
-fecha_publicacion: "2002-03-05"
-boletin: "BOE"
-estado: "Vigente"
-redaccion: "consolidada"
-fuente_oficial: "https://www.boe.es/buscar/act.php?id=BOE-A-2002-4371"
-
+codigo_sintetizado: BOE-A-2002-4371
+titulo: Orden ECD/454/2002, de 22 de febrero, por la que se establecen los elementos
+  básicos de los informes de evaluación de las enseñanzas que conducentes a la obtención
+  de titulaciones de técnicos deportivos reguladas por el Real Decreto 1913/1997,
+  de 19 de diciembre, así como los requisitos formales derivados del proceso de evaluación
+  que son necesarios para garantizar la movilidad de los alumnos.
+jurisdiccion: España
+ambito: Estatal
+organo_emisor: Ministerio de Educación, Formación Profesional y Deportes / Consejo
+  de Ministros
+tipo_disposicion: Real Decreto / Orden
+fecha_publicacion: '2002-03-05'
+boletin: BOE
+estado: Vigente
+redaccion: consolidada
+fuente_oficial: https://www.boe.es/buscar/act.php?id=BOE-A-2002-4371
 clasificacion:
-  categoria_canonica: "03_ordenacion_curricular_y_ensenanzas"
-  subcategoria: "Enseñanzas Deportivas"
-
+  categoria_canonica: 03_ordenacion_curricular_y_ensenanzas
+  subcategoria: Enseñanzas Deportivas
 tags:
-  - estatal
-  - boe
-  - 03_ordenacion_curricular_y_ensenanzas
-
+- estatal
+- boe
+- 03_ordenacion_curricular_y_ensenanzas
 relaciones: {}
 fundamentos_derecho: []
 ---

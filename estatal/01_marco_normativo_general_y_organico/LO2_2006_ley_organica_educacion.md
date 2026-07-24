@@ -5,7 +5,7 @@ titulo: Ley Orgánica 2/2006, de 3 de mayo, de Educación (Texto Consolidado con
   de la LOMLOE 3/2020).
 jurisdiccion: España
 ambito: Estatal
-organo_emisor: Jefatura del Estado
+organo_emisor: Jefatura del Estado / Cortes Generales
 tipo_disposicion: Ley Orgánica
 numero_disposicion: 2/2006
 fecha_disposicion: '2006-05-03'

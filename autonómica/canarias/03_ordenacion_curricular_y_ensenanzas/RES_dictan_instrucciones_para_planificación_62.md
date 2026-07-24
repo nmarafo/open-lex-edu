@@ -9,7 +9,7 @@ titulo: Resolución de 14 de abril de 2026, por la que se dictan instrucciones p
   de Enseñanzas Deportivas.
 jurisdiccion: Canarias
 ambito: Autonómico
-organo_emisor: Consejería de Educación
+organo_emisor: Viceconsejería de Educación
 tipo_disposicion: Resolución
 estado: Vigente
 redaccion: libro_azul

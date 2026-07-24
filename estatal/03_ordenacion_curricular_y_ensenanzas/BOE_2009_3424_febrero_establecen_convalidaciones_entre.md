@@ -8,7 +8,8 @@ titulo: Real Decreto 242/2009, de 27 de febrero, por el que se establecen conval
   las enseñanzas profesionales de Danza.
 jurisdiccion: España
 ambito: Estatal
-organo_emisor: Jefatura del Estado / Ministerio
+organo_emisor: Ministerio de Educación, Formación Profesional y Deportes / Consejo
+  de Ministros
 tipo_disposicion: Real Decreto / Orden
 fecha_publicacion: '2009-02-28'
 boletin: BOE

@@ -8,7 +8,7 @@ titulo: Resolución de 2 de noviembre de 2018, de la Dirección General de Orden
   (BOC n.º 220, de 14 de noviembre).
 jurisdiccion: Canarias
 ambito: Autonómico
-organo_emisor: Consejería de Educación
+organo_emisor: Dirección General de Ordenación, Inclusión e Innovación
 tipo_disposicion: Resolución
 estado: Vigente
 redaccion: libro_azul

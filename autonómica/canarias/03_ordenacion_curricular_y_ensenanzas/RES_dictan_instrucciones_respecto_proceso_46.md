@@ -7,7 +7,7 @@ titulo: Resolución de 9 de junio de 2025, por la que se dictan instrucciones re
   de Canarias a partir del curso escolar 2024/2025.
 jurisdiccion: Canarias
 ambito: Autonómico
-organo_emisor: Consejería de Educación
+organo_emisor: Dirección General de Formación Profesional y Educación de Adultos
 tipo_disposicion: Resolución
 estado: Vigente
 redaccion: libro_azul

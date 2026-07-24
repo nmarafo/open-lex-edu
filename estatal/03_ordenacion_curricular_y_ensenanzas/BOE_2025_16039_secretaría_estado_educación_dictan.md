@@ -1,26 +1,25 @@
 ---
 id: norm-es-2025-16039
-codigo_sintetizado: "BOE-A-2025-16039"
-titulo: "Resolución de 24 de julio de 2025, de la Secretaría de Estado de Educación, por la que se dictan instrucciones relativas al programa de doble titulación Bachiller-Baccalauréat correspondientes al curso 2025-2026."
-jurisdiccion: "España"
-ambito: "Estatal"
-organo_emisor: "Jefatura del Estado / Ministerio"
-tipo_disposicion: "Real Decreto / Orden"
-fecha_publicacion: "2025-08-02"
-boletin: "BOE"
-estado: "Vigente"
-redaccion: "consolidada"
-fuente_oficial: "https://www.boe.es/buscar/act.php?id=BOE-A-2025-16039"
-
+codigo_sintetizado: BOE-A-2025-16039
+titulo: Resolución de 24 de julio de 2025, de la Secretaría de Estado de Educación,
+  por la que se dictan instrucciones relativas al programa de doble titulación Bachiller-Baccalauréat
+  correspondientes al curso 2025-2026.
+jurisdiccion: España
+ambito: Estatal
+organo_emisor: Dirección General de Ordenación, Inclusión e Innovación
+tipo_disposicion: Real Decreto / Orden
+fecha_publicacion: '2025-08-02'
+boletin: BOE
+estado: Vigente
+redaccion: consolidada
+fuente_oficial: https://www.boe.es/buscar/act.php?id=BOE-A-2025-16039
 clasificacion:
-  categoria_canonica: "03_ordenacion_curricular_y_ensenanzas"
-  subcategoria: "Bachillerato"
-
+  categoria_canonica: 03_ordenacion_curricular_y_ensenanzas
+  subcategoria: Bachillerato
 tags:
-  - estatal
-  - boe
-  - 03_ordenacion_curricular_y_ensenanzas
-
+- estatal
+- boe
+- 03_ordenacion_curricular_y_ensenanzas
 relaciones: {}
 fundamentos_derecho: []
 ---

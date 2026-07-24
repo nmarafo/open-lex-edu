@@ -1,26 +1,26 @@
 ---
 id: norm-es-2024-10684
-codigo_sintetizado: "BOE-A-2024-10684"
-titulo: "Real Decreto 499/2024, de 21 de mayo, por el que se modifican determinados reales decretos por los que se establecen títulos de Formación Profesional de grado medio y se fijan sus enseñanzas mínimas."
-jurisdiccion: "España"
-ambito: "Estatal"
-organo_emisor: "Jefatura del Estado / Ministerio"
-tipo_disposicion: "Real Decreto / Orden"
-fecha_publicacion: "2024-05-28"
-boletin: "BOE"
-estado: "Vigente"
-redaccion: "consolidada"
-fuente_oficial: "https://www.boe.es/buscar/act.php?id=BOE-A-2024-10684"
-
+codigo_sintetizado: BOE-A-2024-10684
+titulo: Real Decreto 499/2024, de 21 de mayo, por el que se modifican determinados
+  reales decretos por los que se establecen títulos de Formación Profesional de grado
+  medio y se fijan sus enseñanzas mínimas.
+jurisdiccion: España
+ambito: Estatal
+organo_emisor: Ministerio de Educación, Formación Profesional y Deportes / Consejo
+  de Ministros
+tipo_disposicion: Real Decreto / Orden
+fecha_publicacion: '2024-05-28'
+boletin: BOE
+estado: Vigente
+redaccion: consolidada
+fuente_oficial: https://www.boe.es/buscar/act.php?id=BOE-A-2024-10684
 clasificacion:
-  categoria_canonica: "03_ordenacion_curricular_y_ensenanzas"
-  subcategoria: "Formación Profesional"
-
+  categoria_canonica: 03_ordenacion_curricular_y_ensenanzas
+  subcategoria: Formación Profesional
 tags:
-  - estatal
-  - boe
-  - 03_ordenacion_curricular_y_ensenanzas
-
+- estatal
+- boe
+- 03_ordenacion_curricular_y_ensenanzas
 relaciones: {}
 fundamentos_derecho: []
 ---

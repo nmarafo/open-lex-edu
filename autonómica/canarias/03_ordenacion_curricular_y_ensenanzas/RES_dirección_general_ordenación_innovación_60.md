@@ -9,7 +9,7 @@ titulo: Resolución de 13 de mayo de 2015, de la Dirección General de Ordenaci�
   100, de 27 de mayo).
 jurisdiccion: Canarias
 ambito: Autonómico
-organo_emisor: Consejería de Educación
+organo_emisor: Dirección General de Ordenación, Inclusión e Innovación
 tipo_disposicion: Resolución
 estado: Vigente
 redaccion: libro_azul

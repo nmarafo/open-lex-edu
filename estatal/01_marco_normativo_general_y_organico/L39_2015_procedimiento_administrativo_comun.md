@@ -1,34 +1,33 @@
 ---
 id: norm-es-l-39-2015
-codigo_sintetizado: "L39_2015 Procedimiento Administrativo Comun"
-titulo: "Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común de las Administraciones Públicas."
-jurisdiccion: "España"
-ambito: "Estatal"
-organo_emisor: "Jefatura del Estado"
-tipo_disposicion: "Ley"
-numero_disposicion: "39/2015"
-fecha_disposicion: "2015-10-01"
-fecha_publicacion: "2015-10-02"
-boletin: "BOE"
-numero_boletin: "236"
-estado: "Vigente"
-redaccion: "consolidada"
-fuente_oficial: "https://www.boe.es/buscar/act.php?id=BOE-A-2015-10565"
-
+codigo_sintetizado: L39_2015 Procedimiento Administrativo Comun
+titulo: Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común de las
+  Administraciones Públicas.
+jurisdiccion: España
+ambito: Estatal
+organo_emisor: Jefatura del Estado / Cortes Generales
+tipo_disposicion: Ley
+numero_disposicion: 39/2015
+fecha_disposicion: '2015-10-01'
+fecha_publicacion: '2015-10-02'
+boletin: BOE
+numero_boletin: '236'
+estado: Vigente
+redaccion: consolidada
+fuente_oficial: https://www.boe.es/buscar/act.php?id=BOE-A-2015-10565
 clasificacion:
-  categoria_canonica: "01_marco_normativo_general_y_organico"
-  subcategoria: "Marco normativo general"
-
+  categoria_canonica: 01_marco_normativo_general_y_organico
+  subcategoria: Marco normativo general
 tags:
-  - procedimiento_administrativo
-  - administracion_publica
-  - recursos
-  - estatal
-
+- procedimiento_administrativo
+- administracion_publica
+- recursos
+- estatal
 relaciones: {}
 fundamentos_derecho:
-  - norma_id: "norm-es-ce-1978"
-    articulos: ["149.1.18"]
+- norma_id: norm-es-ce-1978
+  articulos:
+  - 149.1.18
 ---
 
 # Ley 39/2015 del Procedimiento Administrativo Común

@@ -6,7 +6,8 @@ titulo: Real Decreto 860/2010, de 2 de julio, por el que se regulan las condicio
   en las enseñanzas de educación secundaria obligatoria o de bachillerato.
 jurisdiccion: España
 ambito: Estatal
-organo_emisor: Jefatura del Estado / Ministerio
+organo_emisor: Ministerio de Educación, Formación Profesional y Deportes / Consejo
+  de Ministros
 tipo_disposicion: Real Decreto / Orden
 fecha_publicacion: '2010-07-17'
 boletin: BOE

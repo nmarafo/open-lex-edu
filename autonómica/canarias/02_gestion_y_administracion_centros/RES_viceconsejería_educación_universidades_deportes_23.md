@@ -8,7 +8,8 @@ titulo: Resolución de 10 de junio de 2021, de la Viceconsejería de Educación,
   se nombra a los vocales de dicha comisión.
 jurisdiccion: Canarias
 ambito: Autonómico
-organo_emisor: Consejería de Educación
+organo_emisor: Dirección General de Administración de Centros, Escolarización y Servicios
+  Complementarios
 tipo_disposicion: Resolución
 estado: Vigente
 redaccion: libro_azul

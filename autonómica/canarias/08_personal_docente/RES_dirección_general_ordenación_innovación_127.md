@@ -7,7 +7,7 @@ titulo: Resolución de 15 de mayo de 1998, de la Dirección General de Ordenaci�
   General (BOC n.º 70, de 8 de junio).
 jurisdiccion: Canarias
 ambito: Autonómico
-organo_emisor: Consejería de Educación
+organo_emisor: Dirección General de Ordenación, Inclusión e Innovación
 tipo_disposicion: Resolución
 estado: Vigente
 redaccion: libro_azul

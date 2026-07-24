@@ -7,7 +7,7 @@ titulo: Dirección General de Formación Profesional y Educación de Adultos.- R
   Canarias (BOC n.º 82, de 30 de abril).
 jurisdiccion: Canarias
 ambito: Autonómico
-organo_emisor: Consejería de Educación
+organo_emisor: Dirección General de Formación Profesional y Educación de Adultos
 tipo_disposicion: Resolución
 estado: Vigente
 redaccion: libro_azul

@@ -6,7 +6,8 @@ titulo: Ley 1/2024, de 7 de junio, por la que se regulan las enseñanzas artíst
   profesionales.
 jurisdiccion: España
 ambito: Estatal
-organo_emisor: Jefatura del Estado / Ministerio
+organo_emisor: Ministerio de Educación, Formación Profesional y Deportes / Consejo
+  de Ministros
 tipo_disposicion: Real Decreto / Orden
 fecha_publicacion: '2024-06-08'
 boletin: BOE

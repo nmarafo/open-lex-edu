@@ -12,7 +12,7 @@ titulo: Dirección General de Formación Profesional y Enseñanzas de Régimen E
   (BOC n.º 39, de 26.2.2026).
 jurisdiccion: Canarias
 ambito: Autonómico
-organo_emisor: Consejería de Educación
+organo_emisor: Dirección General de Formación Profesional y Educación de Adultos
 tipo_disposicion: Resolución
 estado: Vigente
 redaccion: libro_azul

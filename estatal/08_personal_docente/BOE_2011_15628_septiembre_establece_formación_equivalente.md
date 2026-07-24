@@ -7,7 +7,8 @@ titulo: Orden EDU/2645/2011, de 23 de septiembre, por la que se establece la for
   no pueden realizar los estudios de máster.
 jurisdiccion: España
 ambito: Estatal
-organo_emisor: Jefatura del Estado / Ministerio
+organo_emisor: Ministerio de Educación, Formación Profesional y Deportes / Consejo
+  de Ministros
 tipo_disposicion: Real Decreto / Orden
 fecha_publicacion: '2011-10-05'
 boletin: BOE

@@ -1,44 +1,49 @@
 ---
 id: norm-can-d-168-2009
-codigo_sintetizado: "D168_2009 Prevencion de Riesgos Laborales en la Administracion Canaria"
-titulo: "Decreto 168/2009, de 29 de diciembre, por el que se adapta la normativa sobre prevención de riesgos laborales al ámbito de la Administración Pública de la Comunidad Autónoma de Canarias y sus Organismos Autónomos."
-jurisdiccion: "Canarias"
-ambito: "Autonómico"
-organo_emisor: "Presidencia del Gobierno de Canarias"
-tipo_disposicion: "Decreto"
-numero_disposicion: "168/2009"
-fecha_disposicion: "2009-12-29"
-fecha_publicacion: "2010-01-13"
-boletin: "BOC"
-numero_boletin: "7"
-estado: "Vigente"
-redaccion: "libro_azul"
-fuente_oficial: "https://www.gobiernodecanarias.org/boc/2010/007/001.html"
-fuente_juriscan: "https://www.gobiernodecanarias.org/juriscan/ficha.jsp?id=61845"
-
+codigo_sintetizado: D168_2009 Prevencion de Riesgos Laborales en la Administracion
+  Canaria
+titulo: Decreto 168/2009, de 29 de diciembre, por el que se adapta la normativa sobre
+  prevención de riesgos laborales al ámbito de la Administración Pública de la Comunidad
+  Autónoma de Canarias y sus Organismos Autónomos.
+jurisdiccion: Canarias
+ambito: Autonómico
+organo_emisor: Gobierno de Canarias / Consejería de Educación
+tipo_disposicion: Decreto
+numero_disposicion: 168/2009
+fecha_disposicion: '2009-12-29'
+fecha_publicacion: '2010-01-13'
+boletin: BOC
+numero_boletin: '7'
+estado: Vigente
+redaccion: libro_azul
+fuente_oficial: https://www.gobiernodecanarias.org/boc/2010/007/001.html
+fuente_juriscan: https://www.gobiernodecanarias.org/juriscan/ficha.jsp?id=61845
 clasificacion:
-  categoria_canonica: "02_gestion_y_administracion_centros"
-  subcategoria: "Prevención de riesgos y salud laboral"
-
+  categoria_canonica: 02_gestion_y_administracion_centros
+  subcategoria: Prevención de riesgos y salud laboral
 tags:
-  - canarias
-  - prevencion_riesgos
-  - servicio_prevencion_educacion
-  - salud_laboral
-  - comite_seguridad_salud
-
+- canarias
+- prevencion_riesgos
+- servicio_prevencion_educacion
+- salud_laboral
+- comite_seguridad_salud
 relaciones:
   desarrolla:
-    - norma_id: "norm-es-l-31-1995"
-      articulos_origen: ["Todos"]
-      articulos_destino: ["Todos"]
-      nota: "Adapta la Ley 31/1995 de Prevención de Riesgos Laborales al ámbito organizativo de la Administración Canaria."
-
+  - norma_id: norm-es-l-31-1995
+    articulos_origen:
+    - Todos
+    articulos_destino:
+    - Todos
+    nota: Adapta la Ley 31/1995 de Prevención de Riesgos Laborales al ámbito organizativo
+      de la Administración Canaria.
 fundamentos_derecho:
-  - norma_id: "norm-es-l-31-1995"
-    articulos: ["3.1", "6"]
-  - norma_id: "norm-can-l-2-1987"
-    articulos: ["1"]
+- norma_id: norm-es-l-31-1995
+  articulos:
+  - '3.1'
+  - '6'
+- norma_id: norm-can-l-2-1987
+  articulos:
+  - '1'
 ---
 
 # Decreto 168/2009, de 29 de diciembre - Prevención de Riesgos Laborales en la Administración Canaria

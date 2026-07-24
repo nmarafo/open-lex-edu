@@ -1,34 +1,34 @@
 ---
 id: norm-es-l-9-2017
-codigo_sintetizado: "L9_2017 Contratos del Sector Publico (LCSP)"
-titulo: "Ley 9/2017, de 8 de noviembre, de Contratos del Sector Público, por la que se transponen al ordenamiento jurídico español las Directivas del Parlamento Europeo y del Consejo 2014/23/UE y 2014/24/UE, de 26 de febrero de 2014."
-jurisdiccion: "España"
-ambito: "Estatal"
-organo_emisor: "Jefatura del Estado"
-tipo_disposicion: "Ley"
-numero_disposicion: "9/2017"
-fecha_disposicion: "2017-11-08"
-fecha_publicacion: "2017-11-09"
-boletin: "BOE"
-numero_boletin: "272"
-estado: "Vigente"
-redaccion: "consolidada"
-fuente_oficial: "https://www.boe.es/buscar/act.php?id=BOE-A-2017-12902"
-
+codigo_sintetizado: L9_2017 Contratos del Sector Publico (LCSP)
+titulo: Ley 9/2017, de 8 de noviembre, de Contratos del Sector Público, por la que
+  se transponen al ordenamiento jurídico español las Directivas del Parlamento Europeo
+  y del Consejo 2014/23/UE y 2014/24/UE, de 26 de febrero de 2014.
+jurisdiccion: España
+ambito: Estatal
+organo_emisor: Jefatura del Estado / Cortes Generales
+tipo_disposicion: Ley
+numero_disposicion: 9/2017
+fecha_disposicion: '2017-11-08'
+fecha_publicacion: '2017-11-09'
+boletin: BOE
+numero_boletin: '272'
+estado: Vigente
+redaccion: consolidada
+fuente_oficial: https://www.boe.es/buscar/act.php?id=BOE-A-2017-12902
 clasificacion:
-  categoria_canonica: "02_gestion_y_administracion_centros"
-  subcategoria: "Gestión económica de centros"
-
+  categoria_canonica: 02_gestion_y_administracion_centros
+  subcategoria: Gestión económica de centros
 tags:
-  - contratacion_publica
-  - lcsp
-  - gestion_economica
-  - estatal
-
+- contratacion_publica
+- lcsp
+- gestion_economica
+- estatal
 relaciones: {}
 fundamentos_derecho:
-  - norma_id: "norm-es-ce-1978"
-    articulos: ["149.1.18"]
+- norma_id: norm-es-ce-1978
+  articulos:
+  - 149.1.18
 ---
 
 # Ley 9/2017 de Contratos del Sector Público

@@ -5,7 +5,7 @@ titulo: Ley 14/1990, de 26 de julio, de Régimen Jurídico de las Administracion
   de Canarias.
 jurisdiccion: Canarias
 ambito: Autonómico
-organo_emisor: Presidencia del Gobierno de Canarias
+organo_emisor: Parlamento de Canarias / Gobierno de Canarias
 tipo_disposicion: Ley
 numero_disposicion: 14/1990
 fecha_disposicion: '1990-07-26'

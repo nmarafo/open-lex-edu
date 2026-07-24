@@ -6,7 +6,7 @@ titulo: Resolución de 27 de febrero de 2018, por la que se determinan las carac
   de régimen especial, en la Comunidad Autónoma de Canarias (BOC n.º 48, de 8 de marzo).
 jurisdiccion: Canarias
 ambito: Autonómico
-organo_emisor: Consejería de Educación
+organo_emisor: Dirección General de Formación Profesional y Educación de Adultos
 tipo_disposicion: Resolución
 estado: Vigente
 redaccion: libro_azul

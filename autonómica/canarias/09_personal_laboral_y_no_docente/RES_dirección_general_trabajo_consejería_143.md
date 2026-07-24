@@ -9,7 +9,7 @@ titulo: Resolución de 21 de diciembre de 2006, de la Dirección General de Trab
   (BOC n.º 9, de 12 de enero).
 jurisdiccion: Canarias
 ambito: Autonómico
-organo_emisor: Consejería de Educación
+organo_emisor: Dirección General de Trabajo
 tipo_disposicion: Resolución
 estado: Vigente
 redaccion: libro_azul

@@ -1,26 +1,25 @@
 ---
 id: norm-es-1985-19457
-codigo_sintetizado: "BOE-A-1985-19457"
-titulo: "Real Decreto 1633/1985, de 28 de agosto, por el que se fija la cuantía de la cuota del Seguro Escolar."
-jurisdiccion: "España"
-ambito: "Estatal"
-organo_emisor: "Jefatura del Estado / Ministerio"
-tipo_disposicion: "Real Decreto / Orden"
-fecha_publicacion: "1985-09-14"
-boletin: "BOE"
-estado: "Vigente"
-redaccion: "consolidada"
-fuente_oficial: "https://www.boe.es/buscar/act.php?id=BOE-A-1985-19457"
-
+codigo_sintetizado: BOE-A-1985-19457
+titulo: Real Decreto 1633/1985, de 28 de agosto, por el que se fija la cuantía de
+  la cuota del Seguro Escolar.
+jurisdiccion: España
+ambito: Estatal
+organo_emisor: Ministerio de Educación, Formación Profesional y Deportes / Consejo
+  de Ministros
+tipo_disposicion: Real Decreto / Orden
+fecha_publicacion: '1985-09-14'
+boletin: BOE
+estado: Vigente
+redaccion: consolidada
+fuente_oficial: https://www.boe.es/buscar/act.php?id=BOE-A-1985-19457
 clasificacion:
-  categoria_canonica: "05_alumnado_y_servicios_escolares"
-  subcategoria: "Seguro escolar"
-
+  categoria_canonica: 05_alumnado_y_servicios_escolares
+  subcategoria: Seguro escolar
 tags:
-  - estatal
-  - boe
-  - 05_alumnado_y_servicios_escolares
-
+- estatal
+- boe
+- 05_alumnado_y_servicios_escolares
 relaciones: {}
 fundamentos_derecho: []
 ---

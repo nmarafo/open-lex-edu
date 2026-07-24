@@ -6,7 +6,7 @@ titulo: Resolución de 18 de febrero de 2015, por la que se dispone la publicaci
   45 años.
 jurisdiccion: Canarias
 ambito: Autonómico
-organo_emisor: Consejería de Educación
+organo_emisor: Dirección General competente de la Consejería de Educación de Canarias
 tipo_disposicion: Resolución
 estado: Vigente
 redaccion: libro_azul

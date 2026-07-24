@@ -1,41 +1,43 @@
 ---
 id: norm-es-rd-659-2023
-codigo_sintetizado: "RD659_2023 Ordenacion General de la Formacion Profesional"
-titulo: "Real Decreto 659/2023, de 18 de julio, por el que se desarrolla la ordenación del Sistema de Formación Profesional."
-jurisdiccion: "España"
-ambito: "Estatal"
-organo_emisor: "Ministerio de Educación y Formación Profesional"
-tipo_disposicion: "Real Decreto"
-numero_disposicion: "659/2023"
-fecha_disposicion: "2023-07-18"
-fecha_publicacion: "2023-07-22"
-boletin: "BOE"
-numero_boletin: "174"
-estado: "Vigente"
-redaccion: "consolidada"
-fuente_oficial: "https://www.boe.es/buscar/act.php?id=BOE-A-2023-16889"
-
+codigo_sintetizado: RD659_2023 Ordenacion General de la Formacion Profesional
+titulo: Real Decreto 659/2023, de 18 de julio, por el que se desarrolla la ordenación
+  del Sistema de Formación Profesional.
+jurisdiccion: España
+ambito: Estatal
+organo_emisor: Ministerio de Educación, Formación Profesional y Deportes / Consejo
+  de Ministros
+tipo_disposicion: Real Decreto
+numero_disposicion: 659/2023
+fecha_disposicion: '2023-07-18'
+fecha_publicacion: '2023-07-22'
+boletin: BOE
+numero_boletin: '174'
+estado: Vigente
+redaccion: consolidada
+fuente_oficial: https://www.boe.es/buscar/act.php?id=BOE-A-2023-16889
 clasificacion:
-  categoria_canonica: "03_ordenacion_curricular_y_ensenanzas"
-  subcategoria: "Formación Profesional"
-
+  categoria_canonica: 03_ordenacion_curricular_y_ensenanzas
+  subcategoria: Formación Profesional
 tags:
-  - fp
-  - sistema_fp
-  - grados_fp
-  - dual
-  - estatal
-
+- fp
+- sistema_fp
+- grados_fp
+- dual
+- estatal
 relaciones:
   desarrolla:
-    - norma_id: "norm-es-lo-3-2022"
-      articulos_origen: ["Todos"]
-      articulos_destino: ["Todos"]
-      nota: "Desarrolla el reglamento general del Sistema de Formación Profesional establecido por la Ley Orgánica 3/2022."
-
+  - norma_id: norm-es-lo-3-2022
+    articulos_origen:
+    - Todos
+    articulos_destino:
+    - Todos
+    nota: Desarrolla el reglamento general del Sistema de Formación Profesional establecido
+      por la Ley Orgánica 3/2022.
 fundamentos_derecho:
-  - norma_id: "norm-es-lo-3-2022"
-    articulos: ["1"]
+- norma_id: norm-es-lo-3-2022
+  articulos:
+  - '1'
 ---
 
 # Real Decreto 659/2023 - Ordenación General del Sistema de Formación Profesional

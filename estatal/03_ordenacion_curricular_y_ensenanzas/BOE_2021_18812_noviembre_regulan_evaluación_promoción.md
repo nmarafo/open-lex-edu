@@ -7,7 +7,8 @@ titulo: Real Decreto 984/2021, de 16 de noviembre, por el que se regulan la eval
   Profesional.
 jurisdiccion: España
 ambito: Estatal
-organo_emisor: Jefatura del Estado / Ministerio
+organo_emisor: Ministerio de Educación, Formación Profesional y Deportes / Consejo
+  de Ministros
 tipo_disposicion: Real Decreto / Orden
 fecha_publicacion: '2021-11-17'
 boletin: BOE

@@ -7,7 +7,8 @@ titulo: Orden ECD/1611/2015, de 29 de julio, por la que se crean y regulan los P
   Plásticas y Diseño.
 jurisdiccion: España
 ambito: Estatal
-organo_emisor: Jefatura del Estado / Ministerio
+organo_emisor: Ministerio de Educación, Formación Profesional y Deportes / Consejo
+  de Ministros
 tipo_disposicion: Real Decreto / Orden
 fecha_publicacion: '2015-08-01'
 boletin: BOE

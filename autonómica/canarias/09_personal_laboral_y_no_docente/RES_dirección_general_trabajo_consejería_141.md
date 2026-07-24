@@ -8,7 +8,7 @@ titulo: Resolución de 1 de octubre de 2002, de la Dirección General de Trabajo
   147, de 4 de noviembre).
 jurisdiccion: Canarias
 ambito: Autonómico
-organo_emisor: Consejería de Educación
+organo_emisor: Dirección General de Trabajo
 tipo_disposicion: Resolución
 estado: Vigente
 redaccion: libro_azul

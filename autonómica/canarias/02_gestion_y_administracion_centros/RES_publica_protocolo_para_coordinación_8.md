@@ -7,7 +7,7 @@ titulo: Inspección General de Servicios.- Resolución de 20 de noviembre de 200
   de 28 de noviembre).
 jurisdiccion: Canarias
 ambito: Autonómico
-organo_emisor: Consejería de Educación
+organo_emisor: Inspección General de Servicios
 tipo_disposicion: Resolución
 estado: Vigente
 redaccion: libro_azul

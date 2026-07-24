@@ -1,40 +1,42 @@
 ---
 id: norm-es-rd-39-1997
-codigo_sintetizado: "RD39_1997 Reglamento de los Servicios de Prevencion"
-titulo: "Real Decreto 39/1997, de 17 de enero, por el que se aprueba el Reglamento de los Servicios de Prevención."
-jurisdiccion: "España"
-ambito: "Estatal"
-organo_emisor: "Ministerio de Trabajo y Asuntos Sociales"
-tipo_disposicion: "Real Decreto"
-numero_disposicion: "39/1997"
-fecha_disposicion: "1997-01-17"
-fecha_publicacion: "1997-01-31"
-boletin: "BOE"
-numero_boletin: "27"
-estado: "Vigente"
-redaccion: "consolidada"
-fuente_oficial: "https://www.boe.es/buscar/act.php?id=BOE-A-1997-1853"
-
+codigo_sintetizado: RD39_1997 Reglamento de los Servicios de Prevencion
+titulo: Real Decreto 39/1997, de 17 de enero, por el que se aprueba el Reglamento
+  de los Servicios de Prevención.
+jurisdiccion: España
+ambito: Estatal
+organo_emisor: Ministerio de Educación, Formación Profesional y Deportes / Consejo
+  de Ministros
+tipo_disposicion: Real Decreto
+numero_disposicion: 39/1997
+fecha_disposicion: '1997-01-17'
+fecha_publicacion: '1997-01-31'
+boletin: BOE
+numero_boletin: '27'
+estado: Vigente
+redaccion: consolidada
+fuente_oficial: https://www.boe.es/buscar/act.php?id=BOE-A-1997-1853
 clasificacion:
-  categoria_canonica: "02_gestion_y_administracion_centros"
-  subcategoria: "Prevención de riesgos y salud laboral"
-
+  categoria_canonica: 02_gestion_y_administracion_centros
+  subcategoria: Prevención de riesgos y salud laboral
 tags:
-  - servicios_prevencion
-  - evaluacion_riesgos
-  - planificacion_preventiva
-  - estatal
-
+- servicios_prevencion
+- evaluacion_riesgos
+- planificacion_preventiva
+- estatal
 relaciones:
   desarrolla:
-    - norma_id: "norm-es-l-31-1995"
-      articulos_origen: ["Todos"]
-      articulos_destino: ["31"]
-      nota: "Desarrolla el Reglamento de los Servicios de Prevención previsto en la Ley de Prevención de Riesgos Laborales."
-
+  - norma_id: norm-es-l-31-1995
+    articulos_origen:
+    - Todos
+    articulos_destino:
+    - '31'
+    nota: Desarrolla el Reglamento de los Servicios de Prevención previsto en la Ley
+      de Prevención de Riesgos Laborales.
 fundamentos_derecho:
-  - norma_id: "norm-es-l-31-1995"
-    articulos: ["6"]
+- norma_id: norm-es-l-31-1995
+  articulos:
+  - '6'
 ---
 
 # Real Decreto 39/1997 - Reglamento de los Servicios de Prevención

@@ -7,7 +7,8 @@ titulo: Real Decreto 286/2023, de 18 de abril, por el que se regula la asignaci�
   al profesorado de enseñanzas no universitarias.
 jurisdiccion: España
 ambito: Estatal
-organo_emisor: Jefatura del Estado / Ministerio
+organo_emisor: Ministerio de Educación, Formación Profesional y Deportes / Consejo
+  de Ministros
 tipo_disposicion: Real Decreto / Orden
 fecha_publicacion: '2023-04-19'
 boletin: BOE

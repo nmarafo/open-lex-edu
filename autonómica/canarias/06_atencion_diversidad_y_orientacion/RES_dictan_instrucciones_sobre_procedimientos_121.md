@@ -7,7 +7,7 @@ titulo: Resolución de 9 de febrero de 2011, por la que se dictan instrucciones 
   de Canarias (BOC n.º 40, de 24 de febrero).
 jurisdiccion: Canarias
 ambito: Autonómico
-organo_emisor: Consejería de Educación
+organo_emisor: Dirección General de Ordenación, Inclusión e Innovación
 tipo_disposicion: Resolución
 estado: Vigente
 redaccion: libro_azul

@@ -6,7 +6,7 @@ titulo: Decreto 234/1996, de 12 de septiembre, por el que se regulan las Asociac
   Autónoma de Canarias.
 jurisdiccion: Canarias
 ambito: Autonómico
-organo_emisor: Presidencia del Gobierno de Canarias
+organo_emisor: Gobierno de Canarias / Consejería de Educación
 tipo_disposicion: Decreto
 numero_disposicion: 234/1996
 fecha_disposicion: '1996-09-12'

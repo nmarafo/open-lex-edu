@@ -9,7 +9,7 @@ titulo: Resolución de 2 de julio de 2026, por la que se modifican cuadros horar
   de julio)
 jurisdiccion: Canarias
 ambito: Autonómico
-organo_emisor: Consejería de Educación
+organo_emisor: Dirección General de Formación Profesional y Educación de Adultos
 tipo_disposicion: Resolución
 estado: Vigente
 redaccion: libro_azul

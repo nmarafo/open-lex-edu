@@ -8,7 +8,8 @@ titulo: Real Decreto 276/2007, de 23 de febrero, por el que se aprueba el Reglam
   de la citada ley.
 jurisdiccion: España
 ambito: Estatal
-organo_emisor: Ministerio de Educación y Ciencia
+organo_emisor: Ministerio de Educación, Formación Profesional y Deportes / Consejo
+  de Ministros
 tipo_disposicion: Real Decreto
 numero_disposicion: 276/2007
 fecha_disposicion: '2007-02-23'

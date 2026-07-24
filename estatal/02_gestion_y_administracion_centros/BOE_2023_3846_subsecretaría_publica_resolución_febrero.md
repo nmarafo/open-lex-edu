@@ -1,26 +1,30 @@
 ---
 id: norm-es-2023-3846
-codigo_sintetizado: "BOE-A-2023-3846"
-titulo: "Resolución de 13 de febrero de 2023, de la Subsecretaría, por la que se publica la Resolución de 8 de febrero de 2023, conjunta de la Secretaría de Estado de Educación y la Secretaría General de Universidades, por la que se establecen las adaptaciones de la evaluación de Bachillerato para el acceso a la Universidad a las necesidades y situación de los centros españoles situados en el exterior del territorio nacional, los programas educativos en el exterior, los programas internacionales, el alumnado procedente de sistemas educativos extranjeros y las enseñanzas a distancia, en el curso 2022-2023."
-jurisdiccion: "España"
-ambito: "Estatal"
-organo_emisor: "Jefatura del Estado / Ministerio"
-tipo_disposicion: "Real Decreto / Orden"
-fecha_publicacion: "2023-02-14"
-boletin: "BOE"
-estado: "Vigente"
-redaccion: "consolidada"
-fuente_oficial: "https://www.boe.es/buscar/act.php?id=BOE-A-2023-3846"
-
+codigo_sintetizado: BOE-A-2023-3846
+titulo: Resolución de 13 de febrero de 2023, de la Subsecretaría, por la que se publica
+  la Resolución de 8 de febrero de 2023, conjunta de la Secretaría de Estado de Educación
+  y la Secretaría General de Universidades, por la que se establecen las adaptaciones
+  de la evaluación de Bachillerato para el acceso a la Universidad a las necesidades
+  y situación de los centros españoles situados en el exterior del territorio nacional,
+  los programas educativos en el exterior, los programas internacionales, el alumnado
+  procedente de sistemas educativos extranjeros y las enseñanzas a distancia, en el
+  curso 2022-2023.
+jurisdiccion: España
+ambito: Estatal
+organo_emisor: Secretaría de Estado de Educación
+tipo_disposicion: Real Decreto / Orden
+fecha_publicacion: '2023-02-14'
+boletin: BOE
+estado: Vigente
+redaccion: consolidada
+fuente_oficial: https://www.boe.es/buscar/act.php?id=BOE-A-2023-3846
 clasificacion:
-  categoria_canonica: "02_gestion_y_administracion_centros"
-  subcategoria: "Centros extranjeros"
-
+  categoria_canonica: 02_gestion_y_administracion_centros
+  subcategoria: Centros extranjeros
 tags:
-  - estatal
-  - boe
-  - 02_gestion_y_administracion_centros
-
+- estatal
+- boe
+- 02_gestion_y_administracion_centros
 relaciones: {}
 fundamentos_derecho: []
 ---

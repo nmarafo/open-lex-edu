@@ -6,7 +6,8 @@ titulo: Orden ECD/65/2015, de 21 de enero, por la que se describen las relacione
   primaria, la educación secundaria obligatoria y el bachillerato.
 jurisdiccion: España
 ambito: Estatal
-organo_emisor: Jefatura del Estado / Ministerio
+organo_emisor: Ministerio de Educación, Formación Profesional y Deportes / Consejo
+  de Ministros
 tipo_disposicion: Real Decreto / Orden
 fecha_publicacion: '2015-01-29'
 boletin: BOE

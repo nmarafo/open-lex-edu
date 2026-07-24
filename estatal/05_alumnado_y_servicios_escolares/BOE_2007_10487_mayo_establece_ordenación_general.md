@@ -5,7 +5,8 @@ titulo: Real Decreto 596/2007, de 4 de mayo, por el que se establece la ordenaci
   general de las enseñanzas profesionales de artes plásticas y diseño.
 jurisdiccion: España
 ambito: Estatal
-organo_emisor: Jefatura del Estado / Ministerio
+organo_emisor: Ministerio de Educación, Formación Profesional y Deportes / Consejo
+  de Ministros
 tipo_disposicion: Real Decreto / Orden
 fecha_publicacion: '2007-05-25'
 boletin: BOE

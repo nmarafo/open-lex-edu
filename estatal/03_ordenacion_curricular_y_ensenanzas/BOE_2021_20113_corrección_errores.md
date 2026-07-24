@@ -8,7 +8,8 @@ titulo: Corrección de errores de la Orden EFP/721/2021, de 2 de julio, por la q
   secciones internacionales españolas y «Bachibac» en liceos franceses.
 jurisdiccion: España
 ambito: Estatal
-organo_emisor: Jefatura del Estado / Ministerio
+organo_emisor: Ministerio de Educación, Formación Profesional y Deportes / Consejo
+  de Ministros
 tipo_disposicion: Real Decreto / Orden
 fecha_publicacion: '2021-12-06'
 boletin: BOE

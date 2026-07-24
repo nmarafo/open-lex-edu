@@ -1,26 +1,28 @@
 ---
 id: norm-es-2018-5111
-codigo_sintetizado: "BOE-A-2018-5111"
-titulo: "Resolución de 9 de abril de 2018, de la Secretaría de Estado de Educación, Formación Profesional y Universidades por la que se corrigen errores en la de 23 de marzo de 2018, por la que se establecen las instrucciones para el cálculo de la calificación final que debe figurar en las credenciales de convalidación por 1º de Bachillerato y de homologación de títulos extranjeros al título de Graduado o Graduada en Educación Secundaria Obligatoria y al de Bachiller español."
-jurisdiccion: "España"
-ambito: "Estatal"
-organo_emisor: "Jefatura del Estado / Ministerio"
-tipo_disposicion: "Real Decreto / Orden"
-fecha_publicacion: "2018-04-16"
-boletin: "BOE"
-estado: "Vigente"
-redaccion: "consolidada"
-fuente_oficial: "https://www.boe.es/buscar/act.php?id=BOE-A-2018-5111"
-
+codigo_sintetizado: BOE-A-2018-5111
+titulo: Resolución de 9 de abril de 2018, de la Secretaría de Estado de Educación,
+  Formación Profesional y Universidades por la que se corrigen errores en la de 23
+  de marzo de 2018, por la que se establecen las instrucciones para el cálculo de
+  la calificación final que debe figurar en las credenciales de convalidación por
+  1º de Bachillerato y de homologación de títulos extranjeros al título de Graduado
+  o Graduada en Educación Secundaria Obligatoria y al de Bachiller español.
+jurisdiccion: España
+ambito: Estatal
+organo_emisor: Secretaría de Estado de Educación
+tipo_disposicion: Real Decreto / Orden
+fecha_publicacion: '2018-04-16'
+boletin: BOE
+estado: Vigente
+redaccion: consolidada
+fuente_oficial: https://www.boe.es/buscar/act.php?id=BOE-A-2018-5111
 clasificacion:
-  categoria_canonica: "02_gestion_y_administracion_centros"
-  subcategoria: "Centros extranjeros"
-
+  categoria_canonica: 02_gestion_y_administracion_centros
+  subcategoria: Centros extranjeros
 tags:
-  - estatal
-  - boe
-  - 02_gestion_y_administracion_centros
-
+- estatal
+- boe
+- 02_gestion_y_administracion_centros
 relaciones: {}
 fundamentos_derecho: []
 ---

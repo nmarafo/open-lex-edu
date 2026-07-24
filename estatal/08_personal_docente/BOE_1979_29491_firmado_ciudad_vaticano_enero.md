@@ -1,26 +1,26 @@
 ---
 id: norm-es-1979-29491
-codigo_sintetizado: "BOE-A-1979-29491"
-titulo: "Instrumento de Ratificación del Acuerdo entre el Estado español y la Santa Sede sobre Enseñanza y Asuntos Culturales, firmado en la Ciudad del Vaticano el 3 de enero de 1979."
-jurisdiccion: "España"
-ambito: "Estatal"
-organo_emisor: "Jefatura del Estado / Ministerio"
-tipo_disposicion: "Real Decreto / Orden"
-fecha_publicacion: "1979-12-15"
-boletin: "BOE"
-estado: "Vigente"
-redaccion: "consolidada"
-fuente_oficial: "https://www.boe.es/buscar/act.php?id=BOE-A-1979-29491"
-
+codigo_sintetizado: BOE-A-1979-29491
+titulo: Instrumento de Ratificación del Acuerdo entre el Estado español y la Santa
+  Sede sobre Enseñanza y Asuntos Culturales, firmado en la Ciudad del Vaticano el
+  3 de enero de 1979.
+jurisdiccion: España
+ambito: Estatal
+organo_emisor: Ministerio de Educación, Formación Profesional y Deportes / Consejo
+  de Ministros
+tipo_disposicion: Real Decreto / Orden
+fecha_publicacion: '1979-12-15'
+boletin: BOE
+estado: Vigente
+redaccion: consolidada
+fuente_oficial: https://www.boe.es/buscar/act.php?id=BOE-A-1979-29491
 clasificacion:
-  categoria_canonica: "08_personal_docente"
-  subcategoria: "Profesorado de religión"
-
+  categoria_canonica: 08_personal_docente
+  subcategoria: Profesorado de religión
 tags:
-  - estatal
-  - boe
-  - 08_personal_docente
-
+- estatal
+- boe
+- 08_personal_docente
 relaciones: {}
 fundamentos_derecho: []
 ---

@@ -7,7 +7,7 @@ titulo: Resolución de 2 de marzo de 2017, de la Dirección General de Ordenaci�
   (BOC n.º 49, de 10 de marzo).
 jurisdiccion: Canarias
 ambito: Autonómico
-organo_emisor: Consejería de Educación
+organo_emisor: Dirección General de Ordenación, Inclusión e Innovación
 tipo_disposicion: Resolución
 estado: Vigente
 redaccion: libro_azul

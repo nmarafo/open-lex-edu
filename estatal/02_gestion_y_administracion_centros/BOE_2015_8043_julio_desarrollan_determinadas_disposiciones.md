@@ -8,7 +8,8 @@ titulo: Real Decreto 665/2015, de 17 de julio, por el que se desarrollan determi
   de Enseñanza Secundaria.
 jurisdiccion: España
 ambito: Estatal
-organo_emisor: Jefatura del Estado / Ministerio
+organo_emisor: Ministerio de Educación, Formación Profesional y Deportes / Consejo
+  de Ministros
 tipo_disposicion: Real Decreto / Orden
 fecha_publicacion: '2015-07-18'
 boletin: BOE

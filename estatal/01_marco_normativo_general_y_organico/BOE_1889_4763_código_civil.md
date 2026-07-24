@@ -1,26 +1,24 @@
 ---
 id: norm-es-1889-4763
-codigo_sintetizado: "BOE-A-1889-4763"
-titulo: "Real Decreto de 24 de julio de 1889 por el que se publica el Código Civil."
-jurisdiccion: "España"
-ambito: "Estatal"
-organo_emisor: "Jefatura del Estado / Ministerio"
-tipo_disposicion: "Real Decreto / Orden"
-fecha_publicacion: "1889-07-25"
-boletin: "BOE"
-estado: "Vigente"
-redaccion: "consolidada"
-fuente_oficial: "https://www.boe.es/buscar/act.php?id=BOE-A-1889-4763"
-
+codigo_sintetizado: BOE-A-1889-4763
+titulo: Real Decreto de 24 de julio de 1889 por el que se publica el Código Civil.
+jurisdiccion: España
+ambito: Estatal
+organo_emisor: Ministerio de Educación, Formación Profesional y Deportes / Consejo
+  de Ministros
+tipo_disposicion: Real Decreto / Orden
+fecha_publicacion: '1889-07-25'
+boletin: BOE
+estado: Vigente
+redaccion: consolidada
+fuente_oficial: https://www.boe.es/buscar/act.php?id=BOE-A-1889-4763
 clasificacion:
-  categoria_canonica: "01_marco_normativo_general_y_organico"
-  subcategoria: "Protección jurídica de menores"
-
+  categoria_canonica: 01_marco_normativo_general_y_organico
+  subcategoria: Protección jurídica de menores
 tags:
-  - estatal
-  - boe
-  - 01_marco_normativo_general_y_organico
-
+- estatal
+- boe
+- 01_marco_normativo_general_y_organico
 relaciones: {}
 fundamentos_derecho: []
 ---

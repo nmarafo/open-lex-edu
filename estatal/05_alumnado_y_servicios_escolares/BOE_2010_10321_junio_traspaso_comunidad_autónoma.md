@@ -6,7 +6,8 @@ titulo: Real Decreto 828/2010, de 25 de junio, de traspaso a la Comunidad Autón
   del Seguro Escolar.
 jurisdiccion: España
 ambito: Estatal
-organo_emisor: Jefatura del Estado / Ministerio
+organo_emisor: Ministerio de Educación, Formación Profesional y Deportes / Consejo
+  de Ministros
 tipo_disposicion: Real Decreto / Orden
 fecha_publicacion: '2010-06-29'
 boletin: BOE

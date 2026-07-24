@@ -6,7 +6,8 @@ titulo: Real Decreto 412/2014, de 6 de junio, por el que se establece la normati
   de Grado.
 jurisdiccion: España
 ambito: Estatal
-organo_emisor: Jefatura del Estado / Ministerio
+organo_emisor: Ministerio de Educación, Formación Profesional y Deportes / Consejo
+  de Ministros
 tipo_disposicion: Real Decreto / Orden
 fecha_publicacion: '2014-06-07'
 boletin: BOE

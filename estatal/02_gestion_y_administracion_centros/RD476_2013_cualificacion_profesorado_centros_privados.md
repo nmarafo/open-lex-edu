@@ -6,7 +6,8 @@ titulo: Real Decreto 476/2013, de 21 de junio, por el que se regulan las condici
   secundaria obligatoria y de bachillerato.
 jurisdiccion: España
 ambito: Estatal
-organo_emisor: Ministerio de Educación, Cultura y Deporte
+organo_emisor: Ministerio de Educación, Formación Profesional y Deportes / Consejo
+  de Ministros
 tipo_disposicion: Real Decreto
 numero_disposicion: 476/2013
 fecha_disposicion: '2013-06-21'

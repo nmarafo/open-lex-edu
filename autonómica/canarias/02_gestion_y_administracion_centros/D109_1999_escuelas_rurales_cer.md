@@ -1,42 +1,43 @@
 ---
 id: norm-can-d-109-1999
-codigo_sintetizado: "D109_1999 Colectivos de Escuelas Rurales (CER)"
-titulo: "Decreto 109/1999, de 25 de mayo, por el que se regula el régimen de creación y funcionamiento de los Colectivos de Escuelas Rurales."
-jurisdiccion: "Canarias"
-ambito: "Autonómico"
-organo_emisor: "Presidencia del Gobierno de Canarias"
-tipo_disposicion: "Decreto"
-numero_disposicion: "109/1999"
-fecha_disposicion: "1999-05-25"
-fecha_publicacion: "1999-06-18"
-boletin: "BOC"
-numero_boletin: "79"
-estado: "Vigente"
-redaccion: "libro_azul"
-fuente_oficial: "https://www.gobiernodecanarias.org/boc/1999/079/007.html"
-fuente_juriscan: "https://www.gobiernodecanarias.org/juriscan/ficha.jsp?id=32734"
-
+codigo_sintetizado: D109_1999 Colectivos de Escuelas Rurales (CER)
+titulo: Decreto 109/1999, de 25 de mayo, por el que se regula el régimen de creación
+  y funcionamiento de los Colectivos de Escuelas Rurales.
+jurisdiccion: Canarias
+ambito: Autonómico
+organo_emisor: Gobierno de Canarias / Consejería de Educación
+tipo_disposicion: Decreto
+numero_disposicion: 109/1999
+fecha_disposicion: '1999-05-25'
+fecha_publicacion: '1999-06-18'
+boletin: BOC
+numero_boletin: '79'
+estado: Vigente
+redaccion: libro_azul
+fuente_oficial: https://www.gobiernodecanarias.org/boc/1999/079/007.html
+fuente_juriscan: https://www.gobiernodecanarias.org/juriscan/ficha.jsp?id=32734
 clasificacion:
-  categoria_canonica: "02_gestion_y_administracion_centros"
-  subcategoria: "Colectivos de Escuelas Rurales (CER)"
-
+  categoria_canonica: 02_gestion_y_administracion_centros
+  subcategoria: Colectivos de Escuelas Rurales (CER)
 tags:
-  - canarias
-  - escuelas_rurales
-  - cer
-  - organizacion_escolar
-  - escuelas_unitarias
-
+- canarias
+- escuelas_rurales
+- cer
+- organizacion_escolar
+- escuelas_unitarias
 relaciones:
   desarrolla:
-    - norma_id: "norm-can-l-6-2014"
-      articulos_origen: ["Todos"]
-      articulos_destino: ["35"]
-      nota: "Regula la organización de las escuelas unitarias y su agrupación en Colectivos de Escuelas Rurales."
-
+  - norma_id: norm-can-l-6-2014
+    articulos_origen:
+    - Todos
+    articulos_destino:
+    - '35'
+    nota: Regula la organización de las escuelas unitarias y su agrupación en Colectivos
+      de Escuelas Rurales.
 fundamentos_derecho:
-  - norma_id: "norm-es-lo-2-2006"
-    articulos: ["82"]
+- norma_id: norm-es-lo-2-2006
+  articulos:
+  - '82'
 ---
 
 # Decreto 109/1999, de 25 de mayo - Colectivos de Escuelas Rurales (CER) en Canarias
