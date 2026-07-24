@@ -1,5 +1,5 @@
 version: '1.0'
-total_normas: 26
+total_normas: 32
 normas:
   norm-can-d-84-2024:
     id: norm-can-d-84-2024
@@ -128,6 +128,26 @@ normas:
     - estatuto_autonomia
     - competencias_educacion
     path: autonómica/canarias/01_marco_normativo_general_y_organico/LO1_2018_estatuto_autonomia_canarias.md
+  norm-can-d-109-1999:
+    id: norm-can-d-109-1999
+    codigo_sintetizado: D109_1999 Colectivos de Escuelas Rurales (CER)
+    titulo: Decreto 109/1999, de 25 de mayo, por el que se regula el régimen de creación
+      y funcionamiento de los Colectivos de Escuelas Rurales.
+    jurisdiccion: Canarias
+    ambito: Autonómico
+    tipo_disposicion: Decreto
+    fecha_publicacion: '1999-06-18'
+    estado: Vigente
+    redaccion: libro_azul
+    categoria_canonica: 02_gestion_y_administracion_centros
+    subcategoria: Colectivos de Escuelas Rurales (CER)
+    tags:
+    - canarias
+    - escuelas_rurales
+    - cer
+    - organizacion_escolar
+    - escuelas_unitarias
+    path: autonómica/canarias/02_gestion_y_administracion_centros/D109_1999_escuelas_rurales_cer.md
   norm-can-d-168-2009:
     id: norm-can-d-168-2009
     codigo_sintetizado: D168_2009 Prevencion de Riesgos Laborales en la Administracion
@@ -482,6 +502,25 @@ normas:
     - seguridad_informacion
     - estatal
     path: estatal/02_gestion_y_administracion_centros/LO3_2018_proteccion_datos_personales.md
+  norm-es-lo-8-1985:
+    id: norm-es-lo-8-1985
+    codigo_sintetizado: LO8_1985 Ley Reguladora del Derecho a la Educacion (LODE)
+    titulo: Ley Orgánica 8/1985, de 3 de julio, reguladora del Derecho a la Educación.
+    jurisdiccion: España
+    ambito: Estatal
+    tipo_disposicion: Ley Orgánica
+    fecha_publicacion: '1985-07-04'
+    estado: Vigente
+    redaccion: consolidada
+    categoria_canonica: 02_gestion_y_administracion_centros
+    subcategoria: Centros privados concertados
+    tags:
+    - lode
+    - derecho_educacion
+    - centros_concertados
+    - ideario_centro
+    - estatal
+    path: estatal/02_gestion_y_administracion_centros/LO8_1985_derecho_educacion.md
   norm-es-rd-132-2010:
     id: norm-es-rd-132-2010
     codigo_sintetizado: RD132_2010 Requisitos Minimos de Centros Docentes
@@ -502,6 +541,85 @@ normas:
     - aula_instalaciones
     - estatal
     path: estatal/02_gestion_y_administracion_centros/RD132_2010_requisitos_minimos_centros.md
+  norm-es-rd-1834-2008:
+    id: norm-es-rd-1834-2008
+    codigo_sintetizado: RD1834_2008 Condiciones de Formacion para Docencia en Secundaria
+    titulo: Real Decreto 1834/2008, de 8 de noviembre, por el que se definen las condiciones
+      de formación para el ejercicio de la docencia en la educación secundaria obligatoria,
+      el bachillerato, la formación profesional y las enseñanzas de régimen especial
+      y se establecen las especialidades de los cuerpos docentes de enseñanza secundaria.
+    jurisdiccion: España
+    ambito: Estatal
+    tipo_disposicion: Real Decreto
+    fecha_publicacion: '2008-11-28'
+    estado: Vigente
+    redaccion: consolidada
+    categoria_canonica: 02_gestion_y_administracion_centros
+    subcategoria: Centros públicos
+    tags:
+    - cualificacion_docente
+    - especialidades_secundaria
+    - master_profesorado
+    - estatal
+    path: estatal/02_gestion_y_administracion_centros/RD1834_2008_condiciones_docencia_secundaria.md
+  norm-es-rd-2377-1985:
+    id: norm-es-rd-2377-1985
+    codigo_sintetizado: RD2377_1985 Reglamento de Conciertos Educativos
+    titulo: Real Decreto 2377/1985, de 18 de diciembre, por el que se aprueba el Reglamento
+      de Normas Básicas sobre Conciertos Educativos.
+    jurisdiccion: España
+    ambito: Estatal
+    tipo_disposicion: Real Decreto
+    fecha_publicacion: '1985-12-27'
+    estado: Vigente
+    redaccion: consolidada
+    categoria_canonica: 02_gestion_y_administracion_centros
+    subcategoria: Centros privados concertados
+    tags:
+    - conciertos_educativos
+    - centros_concertados
+    - regimen_economico
+    - estatal
+    path: estatal/02_gestion_y_administracion_centros/RD2377_1985_reglamento_conciertos_educativos.md
+  norm-es-rd-39-1997:
+    id: norm-es-rd-39-1997
+    codigo_sintetizado: RD39_1997 Reglamento de los Servicios de Prevencion
+    titulo: Real Decreto 39/1997, de 17 de enero, por el que se aprueba el Reglamento
+      de los Servicios de Prevención.
+    jurisdiccion: España
+    ambito: Estatal
+    tipo_disposicion: Real Decreto
+    fecha_publicacion: '1997-01-31'
+    estado: Vigente
+    redaccion: consolidada
+    categoria_canonica: 02_gestion_y_administracion_centros
+    subcategoria: Prevención de riesgos y salud laboral
+    tags:
+    - servicios_prevencion
+    - evaluacion_riesgos
+    - planificacion_preventiva
+    - estatal
+    path: estatal/02_gestion_y_administracion_centros/RD39_1997_reglamento_servicios_prevencion.md
+  norm-es-rd-476-2013:
+    id: norm-es-rd-476-2013
+    codigo_sintetizado: RD476_2013 Cualificacion del Profesorado en Centros Privados
+    titulo: Real Decreto 476/2013, de 21 de junio, por el que se regulan las condiciones
+      de cualificación y formación del profesorado de los centros privados de educación
+      secundaria obligatoria y de bachillerato.
+    jurisdiccion: España
+    ambito: Estatal
+    tipo_disposicion: Real Decreto
+    fecha_publicacion: '2013-07-13'
+    estado: Vigente
+    redaccion: consolidada
+    categoria_canonica: 02_gestion_y_administracion_centros
+    subcategoria: Centros privados
+    tags:
+    - centros_privados
+    - cualificacion_profesorado
+    - titulaciones_requeridas
+    - estatal
+    path: estatal/02_gestion_y_administracion_centros/RD476_2013_cualificacion_profesorado_centros_privados.md
 relaciones_grafo:
 - origen: norm-can-d-84-2024
   tipo: desarrolla
@@ -531,6 +649,13 @@ relaciones_grafo:
   - Todos
   articulos_destino:
   - Todos
+- origen: norm-can-d-109-1999
+  tipo: desarrolla
+  destino: norm-can-l-6-2014
+  articulos_origen:
+  - Todos
+  articulos_destino:
+  - '35'
 - origen: norm-can-d-168-2009
   tipo: desarrolla
   destino: norm-es-l-31-1995
@@ -582,3 +707,33 @@ relaciones_grafo:
   - Todos
   articulos_destino:
   - '107'
+- origen: norm-es-rd-1834-2008
+  tipo: desarrolla
+  destino: norm-es-lo-2-2006
+  articulos_origen:
+  - Todos
+  articulos_destino:
+  - '94'
+  - '95'
+- origen: norm-es-rd-2377-1985
+  tipo: desarrolla
+  destino: norm-es-lo-8-1985
+  articulos_origen:
+  - Todos
+  articulos_destino:
+  - '47'
+- origen: norm-es-rd-39-1997
+  tipo: desarrolla
+  destino: norm-es-l-31-1995
+  articulos_origen:
+  - Todos
+  articulos_destino:
+  - '31'
+- origen: norm-es-rd-476-2013
+  tipo: desarrolla
+  destino: norm-es-lo-2-2006
+  articulos_origen:
+  - Todos
+  articulos_destino:
+  - '93'
+  - '94'
