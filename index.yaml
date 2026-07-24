@@ -1,5 +1,5 @@
 version: '1.0'
-total_normas: 5
+total_normas: 9
 normas:
   norm-can-l-6-2014:
     id: norm-can-l-6-2014
@@ -18,6 +18,24 @@ normas:
     - ley_canaria_educacion
     - marco_general
     path: autonómica/canarias/01_marco_normativo_general_y_organico/L6_2014_ley_canaria_educacion.md
+  norm-can-lo-1-2018:
+    id: norm-can-lo-1-2018
+    codigo_sintetizado: LO1_2018 Estatuto de Autonomia de Canarias
+    titulo: Ley Orgánica 1/2018, de 5 de noviembre, de reforma del Estatuto de Autonomía
+      de Canarias.
+    jurisdiccion: Canarias
+    ambito: Autonómico
+    tipo_disposicion: Ley Orgánica
+    fecha_publicacion: '2018-11-06'
+    estado: Vigente
+    redaccion: consolidada
+    categoria_canonica: 01_marco_normativo_general_y_organico
+    subcategoria: Marco normativo general
+    tags:
+    - canarias
+    - estatuto_autonomia
+    - competencias_educacion
+    path: autonómica/canarias/01_marco_normativo_general_y_organico/LO1_2018_estatuto_autonomia_canarias.md
   norm-can-d-81-2010:
     id: norm-can-d-81-2010
     codigo_sintetizado: D81_2010 Reglamento Organico de Centros (ROC)
@@ -81,6 +99,43 @@ normas:
     - conducta
     - disciplina
     path: autonómica/canarias/07_convivencia_bienestar_y_protocolos/D114_2011_convivencia_escolar.md
+  norm-es-ce-1978:
+    id: norm-es-ce-1978
+    codigo_sintetizado: CE_1978 Constitucion Espanola
+    titulo: Constitución Española de 1978.
+    jurisdiccion: España
+    ambito: Estatal
+    tipo_disposicion: Constitución
+    fecha_publicacion: '1978-12-29'
+    estado: Vigente
+    redaccion: consolidada
+    categoria_canonica: 01_marco_normativo_general_y_organico
+    subcategoria: Marco normativo general
+    tags:
+    - constitucion
+    - derechos_fundamentales
+    - derecho_educacion
+    - estatal
+    path: estatal/01_marco_normativo_general_y_organico/CE_1978_constitucion_espanola.md
+  norm-es-l-39-2015:
+    id: norm-es-l-39-2015
+    codigo_sintetizado: L39_2015 Procedimiento Administrativo Comun
+    titulo: Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común de
+      las Administraciones Públicas.
+    jurisdiccion: España
+    ambito: Estatal
+    tipo_disposicion: Ley
+    fecha_publicacion: '2015-10-02'
+    estado: Vigente
+    redaccion: consolidada
+    categoria_canonica: 01_marco_normativo_general_y_organico
+    subcategoria: Marco normativo general
+    tags:
+    - procedimiento_administrativo
+    - administracion_publica
+    - recursos
+    - estatal
+    path: estatal/01_marco_normativo_general_y_organico/L39_2015_procedimiento_administrativo_comun.md
   norm-es-lo-2-2006:
     id: norm-es-lo-2-2006
     codigo_sintetizado: LO2_2006 Ley Organica de Educacion
@@ -101,6 +156,25 @@ normas:
     - estatal
     - marco_general
     path: estatal/01_marco_normativo_general_y_organico/LO2_2006_ley_organica_educacion.md
+  norm-es-rdl-5-2015:
+    id: norm-es-rdl-5-2015
+    codigo_sintetizado: RD5_2015 Estatuto Basico del Empleado Publico (TREBEP)
+    titulo: Real Decreto Legislativo 5/2015, de 30 de octubre, por el que se aprueba
+      el texto refundido de la Ley del Estatuto Básico del Empleado Público.
+    jurisdiccion: España
+    ambito: Estatal
+    tipo_disposicion: Real Decreto Legislativo
+    fecha_publicacion: '2015-10-31'
+    estado: Vigente
+    redaccion: consolidada
+    categoria_canonica: 01_marco_normativo_general_y_organico
+    subcategoria: Empleados públicos
+    tags:
+    - trebep
+    - empleado_publico
+    - funcion_publica
+    - estatal
+    path: estatal/01_marco_normativo_general_y_organico/RD5_2015_estatuto_basico_empleado_publico.md
 relaciones_grafo:
 - origen: norm-can-l-6-2014
   tipo: desarrolla
