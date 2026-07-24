@@ -2627,7 +2627,7 @@ normas:
     tipo_disposicion: Resolución
     fecha_publicacion: ''
     estado: Vigente
-    redaccion: libro_azul
+    redaccion: pdf_oficial_boc
     categoria_canonica: 05_alumnado_y_servicios_escolares
     subcategoria: Concursos y premios escolares
     tags:
@@ -2703,7 +2703,7 @@ normas:
     tipo_disposicion: Resolución
     fecha_publicacion: ''
     estado: Vigente
-    redaccion: libro_azul
+    redaccion: pdf_oficial_boc
     categoria_canonica: 05_alumnado_y_servicios_escolares
     subcategoria: Admisión y escolarización del alumnado
     tags:
@@ -2754,7 +2754,7 @@ normas:
     tipo_disposicion: Resolución
     fecha_publicacion: ''
     estado: Vigente
-    redaccion: libro_azul
+    redaccion: pdf_oficial_boc
     categoria_canonica: 05_alumnado_y_servicios_escolares
     subcategoria: Admisión y escolarización del alumnado
     tags:
@@ -2780,7 +2780,7 @@ normas:
     tipo_disposicion: Resolución
     fecha_publicacion: ''
     estado: Vigente
-    redaccion: libro_azul
+    redaccion: pdf_oficial_boc
     categoria_canonica: 05_alumnado_y_servicios_escolares
     subcategoria: Admisión y escolarización del alumnado
     tags:
@@ -2805,7 +2805,7 @@ normas:
     tipo_disposicion: Resolución
     fecha_publicacion: ''
     estado: Vigente
-    redaccion: libro_azul
+    redaccion: pdf_oficial_boc
     categoria_canonica: 05_alumnado_y_servicios_escolares
     subcategoria: Admisión y escolarización del alumnado
     tags:
@@ -2828,7 +2828,7 @@ normas:
     tipo_disposicion: Resolución
     fecha_publicacion: ''
     estado: Vigente
-    redaccion: libro_azul
+    redaccion: pdf_oficial_boc
     categoria_canonica: 05_alumnado_y_servicios_escolares
     subcategoria: Admisión y escolarización del alumnado
     tags:
@@ -2852,7 +2852,7 @@ normas:
     tipo_disposicion: Resolución
     fecha_publicacion: ''
     estado: Vigente
-    redaccion: libro_azul
+    redaccion: pdf_oficial_boc
     categoria_canonica: 05_alumnado_y_servicios_escolares
     subcategoria: Admisión y escolarización del alumnado
     tags:
@@ -2875,7 +2875,7 @@ normas:
     tipo_disposicion: Resolución
     fecha_publicacion: ''
     estado: Vigente
-    redaccion: libro_azul
+    redaccion: pdf_oficial_boc
     categoria_canonica: 05_alumnado_y_servicios_escolares
     subcategoria: Admisión y escolarización del alumnado
     tags:
@@ -2899,7 +2899,7 @@ normas:
     tipo_disposicion: Resolución
     fecha_publicacion: ''
     estado: Vigente
-    redaccion: libro_azul
+    redaccion: pdf_oficial_boc
     categoria_canonica: 05_alumnado_y_servicios_escolares
     subcategoria: Admisión y escolarización del alumnado
     tags:
@@ -2923,7 +2923,7 @@ normas:
     tipo_disposicion: Resolución
     fecha_publicacion: ''
     estado: Vigente
-    redaccion: libro_azul
+    redaccion: pdf_oficial_boc
     categoria_canonica: 05_alumnado_y_servicios_escolares
     subcategoria: Admisión y escolarización del alumnado
     tags:
@@ -2945,7 +2945,7 @@ normas:
     tipo_disposicion: Resolución
     fecha_publicacion: ''
     estado: Vigente
-    redaccion: libro_azul
+    redaccion: pdf_oficial_boc
     categoria_canonica: 05_alumnado_y_servicios_escolares
     subcategoria: Admisión y escolarización del alumnado
     tags:
@@ -2967,7 +2967,7 @@ normas:
     tipo_disposicion: Resolución
     fecha_publicacion: ''
     estado: Vigente
-    redaccion: libro_azul
+    redaccion: pdf_oficial_boc
     categoria_canonica: 05_alumnado_y_servicios_escolares
     subcategoria: Comedores y desayunos escolares
     tags:
@@ -2989,7 +2989,7 @@ normas:
     tipo_disposicion: Resolución
     fecha_publicacion: ''
     estado: Vigente
-    redaccion: libro_azul
+    redaccion: pdf_oficial_boc
     categoria_canonica: 05_alumnado_y_servicios_escolares
     subcategoria: Concursos y premios escolares
     tags:
@@ -3011,7 +3011,7 @@ normas:
     tipo_disposicion: Resolución
     fecha_publicacion: ''
     estado: Vigente
-    redaccion: libro_azul
+    redaccion: pdf_oficial_boc
     categoria_canonica: 05_alumnado_y_servicios_escolares
     subcategoria: Actividades complementarias y extraescolares
     tags:
@@ -3053,7 +3053,7 @@ normas:
     tipo_disposicion: Resolución
     fecha_publicacion: ''
     estado: Vigente
-    redaccion: libro_azul
+    redaccion: pdf_oficial_boc
     categoria_canonica: 05_alumnado_y_servicios_escolares
     subcategoria: Comedores y desayunos escolares
     tags:
@@ -3093,7 +3093,7 @@ normas:
     tipo_disposicion: Decreto
     fecha_publicacion: '2018-03-06'
     estado: Vigente
-    redaccion: libro_azul
+    redaccion: pdf_oficial_boc
     categoria_canonica: 06_atencion_diversidad_y_orientacion
     subcategoria: Medidas de atención a la diversidad
     tags:
@@ -3114,7 +3114,7 @@ normas:
     tipo_disposicion: Orden
     fecha_publicacion: '2010-09-14'
     estado: Vigente
-    redaccion: libro_azul
+    redaccion: pdf_oficial_boc
     categoria_canonica: 06_atencion_diversidad_y_orientacion
     subcategoria: Equipos de Orientación (EOEP)
     tags:
@@ -3135,7 +3135,7 @@ normas:
     tipo_disposicion: Orden
     fecha_publicacion: '2007-06-22'
     estado: Vigente
-    redaccion: libro_azul
+    redaccion: pdf_oficial_boc
     categoria_canonica: 06_atencion_diversidad_y_orientacion
     subcategoria: Medidas de atención a la diversidad
     tags:
@@ -3250,7 +3250,7 @@ normas:
     tipo_disposicion: Resolución
     fecha_publicacion: ''
     estado: Vigente
-    redaccion: libro_azul
+    redaccion: pdf_oficial_boc
     categoria_canonica: 06_atencion_diversidad_y_orientacion
     subcategoria: Alumnado con NEAE
     tags:
@@ -3269,7 +3269,7 @@ normas:
     tipo_disposicion: Decreto
     fecha_publicacion: '2011-06-02'
     estado: Vigente
-    redaccion: libro_azul
+    redaccion: pdf_oficial_boc
     categoria_canonica: 07_convivencia_bienestar_y_protocolos
     subcategoria: Convivencia escolar y disciplina
     tags:
@@ -3312,7 +3312,7 @@ normas:
     tipo_disposicion: Resolución
     fecha_publicacion: ''
     estado: Vigente
-    redaccion: libro_azul
+    redaccion: pdf_oficial_boc
     categoria_canonica: 07_convivencia_bienestar_y_protocolos
     subcategoria: Protocolos de actuación y protección
     tags:
@@ -3333,7 +3333,7 @@ normas:
     tipo_disposicion: Resolución
     fecha_publicacion: ''
     estado: Vigente
-    redaccion: libro_azul
+    redaccion: pdf_oficial_boc
     categoria_canonica: 07_convivencia_bienestar_y_protocolos
     subcategoria: Orientaciones y guías de actuación
     tags:
@@ -3353,7 +3353,7 @@ normas:
     tipo_disposicion: Decreto
     fecha_publicacion: '2010-07-13'
     estado: Vigente
-    redaccion: libro_azul
+    redaccion: pdf_oficial_boc
     categoria_canonica: 08_personal_docente
     subcategoria: Selección y provisión de puestos
     tags:
@@ -3395,7 +3395,7 @@ normas:
     tipo_disposicion: Resolución
     fecha_publicacion: ''
     estado: Vigente
-    redaccion: libro_azul
+    redaccion: pdf_oficial_boc
     categoria_canonica: 08_personal_docente
     subcategoria: Funcionarios de carrera
     tags:
@@ -3438,7 +3438,7 @@ normas:
     tipo_disposicion: Resolución
     fecha_publicacion: ''
     estado: Vigente
-    redaccion: libro_azul
+    redaccion: pdf_oficial_boc
     categoria_canonica: 08_personal_docente
     subcategoria: Formación del profesorado
     tags:
@@ -3481,7 +3481,7 @@ normas:
     tipo_disposicion: Resolución
     fecha_publicacion: ''
     estado: Vigente
-    redaccion: libro_azul
+    redaccion: pdf_oficial_boc
     categoria_canonica: 08_personal_docente
     subcategoria: Permisos, licencias y vacaciones
     tags:
@@ -3525,7 +3525,7 @@ normas:
     tipo_disposicion: Resolución
     fecha_publicacion: ''
     estado: Vigente
-    redaccion: libro_azul
+    redaccion: pdf_oficial_boc
     categoria_canonica: 08_personal_docente
     subcategoria: Formación del profesorado
     tags:
@@ -3546,7 +3546,7 @@ normas:
     tipo_disposicion: Resolución
     fecha_publicacion: ''
     estado: Vigente
-    redaccion: libro_azul
+    redaccion: pdf_oficial_boc
     categoria_canonica: 08_personal_docente
     subcategoria: Funcionarios interinos
     tags:
@@ -3567,7 +3567,7 @@ normas:
     tipo_disposicion: Resolución
     fecha_publicacion: ''
     estado: Vigente
-    redaccion: libro_azul
+    redaccion: pdf_oficial_boc
     categoria_canonica: 08_personal_docente
     subcategoria: Funcionarios interinos
     tags:
@@ -3631,7 +3631,7 @@ normas:
     tipo_disposicion: Resolución
     fecha_publicacion: ''
     estado: Vigente
-    redaccion: libro_azul
+    redaccion: pdf_oficial_boc
     categoria_canonica: 08_personal_docente
     subcategoria: Funcionarios de carrera
     tags:
@@ -3653,7 +3653,7 @@ normas:
     tipo_disposicion: Resolución
     fecha_publicacion: ''
     estado: Vigente
-    redaccion: libro_azul
+    redaccion: pdf_oficial_boc
     categoria_canonica: 08_personal_docente
     subcategoria: Jornada laboral y horarios
     tags:
