@@ -41,6 +41,7 @@ fundamentos_derecho:
   articulos:
   - '22'
 fuente_pdf_oficial: https://www.gobiernodecanarias.org/boc/2007/124/boc-2007-124-001.pdf
+anexos_extraidos_pdf: true
 ---
 
 # Orden de 7 de junio de 2007, por la que se regulan las medidas de atención a la diversidad en la enseñanza básica en la Comunidad Autónoma de Canarias.
@@ -731,3 +732,15 @@ Boletín Oficial de Canarias núm. 124, jueves 21 de junio de 2007 15407
 A N E X O  I
 A N E X O  I I
  
+
+
+
+## ANEXOS COMPLEMENTARIOS (Descargados desde PDF del BOC)
+
+### Anexo Fuente: https://www.gobiernodecanarias.org/boc/2007/124/boc-2007-124-anexo-15408.pdf
+
+15408 Boletín Oficial de Canarias núm. 124, jueves 21 de junio de 2007
+A N E X O  I
+A N E X O  I I
+ 
+

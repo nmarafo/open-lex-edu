@@ -37,6 +37,7 @@ fundamentos_derecho:
 - norma_id: norm-can-l-6-2014
   articulos:
   - '56'
+anexos_extraidos_pdf: true
 ---
 
 # Orden de 2 de agosto de 2006, por la que se aprueban las bases que regulan la prestación del servicio de transporte escolar en la Comunidad Autónoma de Canarias.
@@ -296,3 +297,64 @@ Ver anexos - páginas 19249-19266
 Aviso Legal
 
 Sugerencias y Reclamaciones
+
+
+
+## ANEXOS COMPLEMENTARIOS (Descargados desde PDF del BOC)
+
+### Anexo Fuente: https://www.gobiernodecanarias.org/boc/2006/165/boc-2006-165-anexo-19249-19266.pdf
+
+Boletín Oficial de Canarias núm. 165, jueves 24 de agosto de 2006 19249
+
+
+19250 Boletín Oficial de Canarias núm. 165, jueves 24 de agosto de 2006
+
+
+Boletín Oficial de Canarias núm. 165, jueves 24 de agosto de 2006 19251
+
+
+19252 Boletín Oficial de Canarias núm. 165, jueves 24 de agosto de 2006
+
+
+Boletín Oficial de Canarias núm. 165, jueves 24 de agosto de 2006 19253
+
+
+19254 Boletín Oficial de Canarias núm. 165, jueves 24 de agosto de 2006
+
+
+Boletín Oficial de Canarias núm. 165, jueves 24 de agosto de 2006 19255
+
+
+19256 Boletín Oficial de Canarias núm. 165, jueves 24 de agosto de 2006
+
+
+Boletín Oficial de Canarias núm. 165, jueves 24 de agosto de 2006 19257
+
+
+19258 Boletín Oficial de Canarias núm. 165, jueves 24 de agosto de 2006
+
+
+Boletín Oficial de Canarias núm. 165, jueves 24 de agosto de 2006 19259
+
+
+19260 Boletín Oficial de Canarias núm. 165, jueves 24 de agosto de 2006
+
+
+Boletín Oficial de Canarias núm. 165, jueves 24 de agosto de 2006 19261
+
+
+19262 Boletín Oficial de Canarias núm. 165, jueves 24 de agosto de 2006
+
+
+Boletín Oficial de Canarias núm. 165, jueves 24 de agosto de 2006 19263
+
+
+19264 Boletín Oficial de Canarias núm. 165, jueves 24 de agosto de 2006
+
+
+Boletín Oficial de Canarias núm. 165, jueves 24 de agosto de 2006 19265
+
+
+19266 Boletín Oficial de Canarias núm. 165, jueves 24 de agosto de 2006
+
+
