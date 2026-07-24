@@ -13,7 +13,7 @@ boletin: BOE
 numero_boletin: '89'
 estado: Vigente
 redaccion: consolidada
-fuente_oficial: https://www.boe.es/buscar/act.php?id=BOE-A-2023-9195
+fuente_oficial: https://www.gobiernodecanarias.org/boc/2023/060/001.html
 clasificacion:
   categoria_canonica: 01_marco_normativo_general_y_organico
   subcategoria: Estructura de la Consejería
@@ -28,7 +28,6 @@ fundamentos_derecho:
   - '50'
   - '51'
 ---
-
 # Ley 4/2023, de 23 de marzo, de la Presidencia y del Gobierno de Canarias
 
 Las dos partes citadas en el encabezamiento, considerando que están interesadas en profundizar el posicionamiento del sector del chorizo español en el mercado internacional y en hacer así visible la presencia española en dicho mercado, y dados los fines que comparten en sus respectivos ámbitos de actuación, han decidido colaborar en la organización de una misión inversa de prescriptores de opinión del sector del chorizo a celebrar en diversas localidades en España, al objeto de poner a los misioneros en contacto directo con la oferta española del mencionado sector.

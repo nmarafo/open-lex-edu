@@ -13,7 +13,7 @@ boletin: BOC
 numero_boletin: '23'
 estado: Vigente
 redaccion: consolidada
-fuente_oficial: https://www.boe.es/buscar/act.php?id=BOE-A-1997-5498
+fuente_oficial: https://www.gobiernodecanarias.org/boc/1997/020/001.html
 fuente_juriscan: https://www.gobiernodecanarias.org/juriscan/ficha.jsp?id=24060
 clasificacion:
   categoria_canonica: 01_marco_normativo_general_y_organico
@@ -39,7 +39,6 @@ fundamentos_derecho:
   articulos:
   - '27'
 ---
-
 # Ley 1/1997 de Atención Integral a los Menores de Canarias
 
 Sea notorio a todos los ciudadanos que el Parlamento de Canarias ha aprobado y yo, en nombre del Rey y de acuerdo con lo que establece el artículo 12.8 del Estatuto de Autonomía, promulgo y ordeno la publicación de la siguiente Ley:

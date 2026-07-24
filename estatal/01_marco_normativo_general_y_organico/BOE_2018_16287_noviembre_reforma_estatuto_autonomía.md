@@ -12,7 +12,8 @@ fecha_publicacion: '2018-11-29'
 boletin: BOE
 estado: Vigente
 redaccion: consolidada
-fuente_oficial: https://www.boe.es/buscar/act.php?id=BOE-A-2018-16287
+fuente_oficial: https://www.boe.es/buscar/act.php?id=BOE-A-2018-15138
+fuente_pdf_oficial: https://www.boe.es/buscar/pdf/2018/BOE-A-2018-15138-consolidado.pdf7
 clasificacion:
   categoria_canonica: 01_marco_normativo_general_y_organico
   subcategoria: Marco normativo general

@@ -13,7 +13,7 @@ boletin: BOC
 numero_boletin: '40'
 estado: Vigente
 redaccion: consolidada
-fuente_oficial: https://www.boe.es/buscar/act.php?id=BOE-A-1987-11921
+fuente_oficial: https://www.gobiernodecanarias.org/boc/1987/040/001.html
 fuente_juriscan: https://www.gobiernodecanarias.org/juriscan/ficha.jsp?id=2046
 clasificacion:
   categoria_canonica: 01_marco_normativo_general_y_organico
@@ -38,7 +38,6 @@ fundamentos_derecho:
   articulos:
   - '136'
 ---
-
 # Ley 2/1987 de la Función Pública Canaria
 
 

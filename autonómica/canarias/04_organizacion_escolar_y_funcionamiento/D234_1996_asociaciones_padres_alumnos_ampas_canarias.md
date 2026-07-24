@@ -93,9 +93,7 @@ Descargar en formato pdf
 
 Advertido error en el texto remitido para la publicación de la Circular de 20 de junio de 1996, acerca de los documentos contables que deben aportarse en los expedientes de contratación del personal laboral fijo y eventual, inserta en el Boletín Oficial de Canarias nº 109, del día 28 de agosto de 1996, a continuación se transcribe a fin de proceder a su rectificación:
 
-En
-
-la página 7831, instrucción tercera, segundo párrafo, donde dice: AD-421, debe decir D-501.
+En  la página 7831, instrucción tercera, segundo párrafo, donde dice: AD-421, debe decir D-501.
 
 © Gobierno de Canarias
 

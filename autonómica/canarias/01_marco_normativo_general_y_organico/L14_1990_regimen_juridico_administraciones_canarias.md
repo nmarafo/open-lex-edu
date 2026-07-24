@@ -14,7 +14,7 @@ boletin: BOE
 numero_boletin: '225'
 estado: Vigente
 redaccion: consolidada
-fuente_oficial: https://www.boe.es/buscar/act.php?id=BOE-A-1990-23140
+fuente_oficial: https://www.gobiernodecanarias.org/boc/1990/096/001.html
 clasificacion:
   categoria_canonica: 01_marco_normativo_general_y_organico
   subcategoria: Estructura de la Consejería
@@ -31,7 +31,6 @@ fundamentos_derecho:
   articulos:
   - '136'
 ---
-
 # Ley 14/1990, de 26 de julio, de Régimen Jurídico de las Administraciones Públicas de Canarias
 
 

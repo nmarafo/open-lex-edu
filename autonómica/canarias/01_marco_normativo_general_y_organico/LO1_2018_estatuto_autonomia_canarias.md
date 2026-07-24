@@ -15,6 +15,7 @@ numero_boletin: '268'
 estado: Vigente
 redaccion: consolidada
 fuente_oficial: https://www.boe.es/buscar/act.php?id=BOE-A-2018-15138
+fuente_pdf_oficial: https://www.boe.es/buscar/pdf/2018/BOE-A-2018-15138-consolidado.pdf
 clasificacion:
   categoria_canonica: 01_marco_normativo_general_y_organico
   subcategoria: Marco normativo general
@@ -28,7 +29,6 @@ fundamentos_derecho:
   articulos:
   - '147'
 ---
-
 # Estatuto de Autonomía de Canarias (Ley Orgánica 1/2018)
 
 

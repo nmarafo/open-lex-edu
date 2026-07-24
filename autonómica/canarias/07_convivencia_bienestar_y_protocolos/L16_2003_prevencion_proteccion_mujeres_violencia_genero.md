@@ -15,7 +15,7 @@ boletin: BOC
 numero_boletin: '79'
 estado: Vigente
 redaccion: consolidada
-fuente_oficial: https://www.boe.es/buscar/act.php?id=BOE-A-2003-13618
+fuente_oficial: https://www.gobiernodecanarias.org/boc/2003/074/001.html
 fuente_juriscan: https://www.gobiernodecanarias.org/juriscan/ficha.jsp?id=43781
 clasificacion:
   categoria_canonica: 07_convivencia_bienestar_y_protocolos
@@ -39,7 +39,6 @@ fundamentos_derecho:
   articulos:
   - '16'
 ---
-
 # Ley 16/2003 de Prevención y Protección Integral de las Mujeres contra la Violencia de Género de Canarias
 
 Sea notorio a todos los ciudadanos que el Parlamento de Canarias ha aprobado y yo, en nombre del Rey y de acuerdo con lo que establece el artículo 12.8 del Estatuto de Autonomía, promulgo y ordeno la publicación de la Ley 16/2003, de 8 de abril, de Prevención y Protección Integral de las Mujeres contra la Violencia de Género.
