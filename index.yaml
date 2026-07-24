@@ -1,5 +1,5 @@
 version: '1.0'
-total_normas: 85
+total_normas: 176
 normas:
   norm-can-d-84-2024:
     id: norm-can-d-84-2024
@@ -1069,6 +1069,156 @@ normas:
     - funcion_publica
     - estatal
     path: estatal/01_marco_normativo_general_y_organico/RD5_2015_estatuto_basico_empleado_publico.md
+  norm-es-1985-5392:
+    id: norm-es-1985-5392
+    codigo_sintetizado: BOE-A-1985-5392
+    titulo: Ley 7/1985, de 2 de abril, Reguladora de las Bases del Régimen Local
+    jurisdiccion: España
+    ambito: Estatal
+    tipo_disposicion: Real Decreto / Orden
+    fecha_publicacion: '1985-04-03'
+    estado: Vigente
+    redaccion: consolidada
+    categoria_canonica: 02_gestion_y_administracion_centros
+    subcategoria: Cooperación con entidades locales
+    tags:
+    - estatal
+    - boe
+    - 02_gestion_y_administracion_centros
+    path: estatal/02_gestion_y_administracion_centros/BOE_1985_5392_abril_reguladora_bases_régimen.md
+  norm-es-1987-11341:
+    id: norm-es-1987-11341
+    codigo_sintetizado: BOE-A-1987-11341
+    titulo: Real Decreto 605/1987, de 10 de abril, por el que se regula el procedimiento
+      de autorización previa a la desafectación de edificios públicos escolares de
+      propiedad municipal.
+    jurisdiccion: España
+    ambito: Estatal
+    tipo_disposicion: Real Decreto / Orden
+    fecha_publicacion: '1987-05-09'
+    estado: Vigente
+    redaccion: consolidada
+    categoria_canonica: 02_gestion_y_administracion_centros
+    subcategoria: Centros públicos
+    tags:
+    - estatal
+    - boe
+    - 02_gestion_y_administracion_centros
+    path: estatal/02_gestion_y_administracion_centros/BOE_1987_11341_abril_regula_procedimiento_autorización.md
+  norm-es-1987-13494:
+    id: norm-es-1987-13494
+    codigo_sintetizado: BOE-A-1987-13494
+    titulo: Orden de 4 de junio de 1987 sobre desarrollo del Real Decreto 605/1987,
+      de 10 de abril, por el que se regula el procedimiento de autorización previa
+      a la desafectación de los edificios públicos escolares de propiedad municipal.
+    jurisdiccion: España
+    ambito: Estatal
+    tipo_disposicion: Real Decreto / Orden
+    fecha_publicacion: '1987-06-09'
+    estado: Vigente
+    redaccion: consolidada
+    categoria_canonica: 02_gestion_y_administracion_centros
+    subcategoria: Centros públicos
+    tags:
+    - estatal
+    - boe
+    - 02_gestion_y_administracion_centros
+    path: estatal/02_gestion_y_administracion_centros/BOE_1987_13494_abril_regula_procedimiento_autorización.md
+  norm-es-1987-15278:
+    id: norm-es-1987-15278
+    codigo_sintetizado: BOE-A-1987-15278
+    titulo: Ley 12/1987, de 2 de julio, sobre establecimiento de la gratuidad de los
+      estudios de Bachillerato, Formación Profesional y Artes Aplicadas y Oficios
+      Artísticos en los Centros públicos y la autonomía de gestión económica de los
+      Centros docentes públicos no universitarios.
+    jurisdiccion: España
+    ambito: Estatal
+    tipo_disposicion: Real Decreto / Orden
+    fecha_publicacion: '1987-07-03'
+    estado: Vigente
+    redaccion: consolidada
+    categoria_canonica: 02_gestion_y_administracion_centros
+    subcategoria: Gestión económica de centros
+    tags:
+    - estatal
+    - boe
+    - 02_gestion_y_administracion_centros
+    path: estatal/02_gestion_y_administracion_centros/BOE_1987_15278_julio_sobre_establecimiento_gratuidad.md
+  norm-es-1988-3987:
+    id: norm-es-1988-3987
+    codigo_sintetizado: BOE-A-1988-3987
+    titulo: Real Decreto 104/1988, de 29 de enero, sobre homologación y convalidación
+      de títulos y estudios extranjeros de educación no universitaria.
+    jurisdiccion: España
+    ambito: Estatal
+    tipo_disposicion: Real Decreto / Orden
+    fecha_publicacion: '1988-02-17'
+    estado: Vigente
+    redaccion: consolidada
+    categoria_canonica: 02_gestion_y_administracion_centros
+    subcategoria: Centros extranjeros
+    tags:
+    - estatal
+    - boe
+    - 02_gestion_y_administracion_centros
+    path: estatal/02_gestion_y_administracion_centros/BOE_1988_3987_enero_sobre_homologación_convalidación.md
+  norm-es-1988-6938:
+    id: norm-es-1988-6938
+    codigo_sintetizado: BOE-A-1988-6938
+    titulo: Orden de 14 de marzo de 1988 para la aplicación de lo dispuesto en el
+      Real Decreto 104/1988, de 29 de enero, sobre homologación y convalidación de
+      títulos y estudios extranjeros de educación no universitaria.
+    jurisdiccion: España
+    ambito: Estatal
+    tipo_disposicion: Real Decreto / Orden
+    fecha_publicacion: '1988-03-17'
+    estado: Vigente
+    redaccion: consolidada
+    categoria_canonica: 02_gestion_y_administracion_centros
+    subcategoria: Centros extranjeros
+    tags:
+    - estatal
+    - boe
+    - 02_gestion_y_administracion_centros
+    path: estatal/02_gestion_y_administracion_centros/BOE_1988_6938_enero_sobre_homologación_convalidación.md
+  norm-es-1993-16128:
+    id: norm-es-1993-16128
+    codigo_sintetizado: BOE-A-1993-16128
+    titulo: Real Decreto 806/1993, de 28 de mayo, sobre régimen de Centros docentes
+      extranjeros en España.
+    jurisdiccion: España
+    ambito: Estatal
+    tipo_disposicion: Real Decreto / Orden
+    fecha_publicacion: '1993-06-23'
+    estado: Vigente
+    redaccion: consolidada
+    categoria_canonica: 02_gestion_y_administracion_centros
+    subcategoria: Centros extranjeros
+    tags:
+    - estatal
+    - boe
+    - 02_gestion_y_administracion_centros
+    path: estatal/02_gestion_y_administracion_centros/BOE_1993_16128_mayo_sobre_régimen_centros.md
+  norm-es-1996-10210:
+    id: norm-es-1996-10210
+    codigo_sintetizado: BOE-A-1996-10210
+    titulo: Orden de 30 de abril de 1996 por la que se adecuan a la nueva ordenación
+      educativa determinados criterios en materia de homologación y convalidación
+      de títulos y estudios extranjeros de niveles no universitarios y se fija el
+      régimen de equivalencias con los correspondientes españoles.
+    jurisdiccion: España
+    ambito: Estatal
+    tipo_disposicion: Real Decreto / Orden
+    fecha_publicacion: '1996-05-08'
+    estado: Vigente
+    redaccion: consolidada
+    categoria_canonica: 02_gestion_y_administracion_centros
+    subcategoria: Centros extranjeros
+    tags:
+    - estatal
+    - boe
+    - 02_gestion_y_administracion_centros
+    path: estatal/02_gestion_y_administracion_centros/BOE_1996_10210_mayo.md
   norm-es-1999-23750:
     id: norm-es-1999-23750
     codigo_sintetizado: BOE-A-1999-23750
@@ -1087,6 +1237,47 @@ normas:
     - boe
     - 02_gestion_y_administracion_centros
     path: estatal/02_gestion_y_administracion_centros/BOE_1999_23750_diciembre_protección_datos_carácter.md
+  norm-es-2001-7022:
+    id: norm-es-2001-7022
+    codigo_sintetizado: BOE-A-2001-7022
+    titulo: Orden de 20 de marzo de 2001 por la que se regula el régimen de equivalencias
+      de los estudios básicos y medios cursados en los países signatarios del Convenio
+      "Andrés Bello", con los correspondientes españoles de Educación Secundaria Obligatoria
+      y Bachillerato establecidos por la Ley Orgánica 1/1990, de 3 de octubre, de
+      Ordenación General del Sistema Educativo.
+    jurisdiccion: España
+    ambito: Estatal
+    tipo_disposicion: Real Decreto / Orden
+    fecha_publicacion: '2001-04-10'
+    estado: Vigente
+    redaccion: consolidada
+    categoria_canonica: 02_gestion_y_administracion_centros
+    subcategoria: Centros extranjeros
+    tags:
+    - estatal
+    - boe
+    - 02_gestion_y_administracion_centros
+    path: estatal/02_gestion_y_administracion_centros/BOE_2001_7022_correspondientes_españoles_educación_secundaria.md
+  norm-es-2002-25289:
+    id: norm-es-2002-25289
+    codigo_sintetizado: BOE-A-2002-25289
+    titulo: Orden ECD/3305/2002, de 16 de diciembre, por la que se modifican las de
+      14 de marzo de 1988 y de 30 de abril de 1996, para la aplicación de lo dispuesto
+      en el Real Decreto 104/1988, de 29 de enero, sobre homologación y convalidación
+      de títulos y estudios extranjeros de educación no universitaria.
+    jurisdiccion: España
+    ambito: Estatal
+    tipo_disposicion: Real Decreto / Orden
+    fecha_publicacion: '2002-12-28'
+    estado: Vigente
+    redaccion: consolidada
+    categoria_canonica: 02_gestion_y_administracion_centros
+    subcategoria: Centros extranjeros
+    tags:
+    - estatal
+    - boe
+    - 02_gestion_y_administracion_centros
+    path: estatal/02_gestion_y_administracion_centros/BOE_2002_25289_diciembre_modifican_marzo_1988.md
   norm-es-2003-23399:
     id: norm-es-2003-23399
     codigo_sintetizado: BOE-A-2003-23399
@@ -1161,6 +1352,46 @@ normas:
     - boe
     - 02_gestion_y_administracion_centros
     path: estatal/02_gestion_y_administracion_centros/BOE_2008_979_diciembre_aprueba_reglamento_desarrollo.md
+  norm-es-2010-11426:
+    id: norm-es-2010-11426
+    codigo_sintetizado: BOE-A-2010-11426
+    titulo: Real Decreto 860/2010, de 2 de julio, por el que se regulan las condiciones
+      de formación inicial del profesorado de los centros privados para ejercer la
+      docencia en las enseñanzas de educación secundaria obligatoria o de bachillerato.
+    jurisdiccion: España
+    ambito: Estatal
+    tipo_disposicion: Real Decreto / Orden
+    fecha_publicacion: '2010-07-17'
+    estado: Vigente
+    redaccion: consolidada
+    categoria_canonica: 02_gestion_y_administracion_centros
+    subcategoria: Centros privados
+    tags:
+    - estatal
+    - boe
+    - 02_gestion_y_administracion_centros
+    path: estatal/02_gestion_y_administracion_centros/BOE_2010_11426_julio_regulan_condiciones_formación.md
+  norm-es-2011-13117:
+    id: norm-es-2011-13117
+    codigo_sintetizado: BOE-A-2011-13117
+    titulo: Real Decreto 1146/2011, de 29 de julio, por el que se modifica el Real
+      Decreto 1631/2006, de 29 de diciembre, por el que se esteblecen las enseñanzas
+      mínimas correspondientes a la Educación Secundaria Obligatoria, así como los
+      Reales Decretos 1834/2008, de 8 de noviembre, y 860/2010, de 2 de julio, afectados
+      por estas modificaciones.
+    jurisdiccion: España
+    ambito: Estatal
+    tipo_disposicion: Real Decreto / Orden
+    fecha_publicacion: '2011-07-30'
+    estado: Vigente
+    redaccion: consolidada
+    categoria_canonica: 02_gestion_y_administracion_centros
+    subcategoria: Centros privados
+    tags:
+    - estatal
+    - boe
+    - 02_gestion_y_administracion_centros
+    path: estatal/02_gestion_y_administracion_centros/BOE_2011_13117_julio_modifica_real_decreto.md
   norm-es-2013-13756:
     id: norm-es-2013-13756
     codigo_sintetizado: BOE-A-2013-13756
@@ -1179,6 +1410,95 @@ normas:
     - boe
     - 02_gestion_y_administracion_centros
     path: estatal/02_gestion_y_administracion_centros/BOE_2013_13756_diciembre_racionalización_sostenibilidad_administración.md
+  norm-es-2015-8043:
+    id: norm-es-2015-8043
+    codigo_sintetizado: BOE-A-2015-8043
+    titulo: Real Decreto 665/2015, de 17 de julio, por el que se desarrollan determinadas
+      disposiciones relativas al ejercicio de la docencia en la Educación Secundaria
+      Obligatoria, el Bachillerato, la Formación Profesional y las enseñanzas de régimen
+      especial, a la formación inicial del profesorado y a las especialidades de los
+      cuerpos docentes de Enseñanza Secundaria.
+    jurisdiccion: España
+    ambito: Estatal
+    tipo_disposicion: Real Decreto / Orden
+    fecha_publicacion: '2015-07-18'
+    estado: Vigente
+    redaccion: consolidada
+    categoria_canonica: 02_gestion_y_administracion_centros
+    subcategoria: Centros privados
+    tags:
+    - estatal
+    - boe
+    - 02_gestion_y_administracion_centros
+    path: estatal/02_gestion_y_administracion_centros/BOE_2015_8043_julio_desarrollan_determinadas_disposiciones.md
+  norm-es-2018-4480:
+    id: norm-es-2018-4480
+    codigo_sintetizado: BOE-A-2018-4480
+    titulo: Resolución de 23 de marzo de 2018, de la Secretaría de Estado de Educación,
+      Formación Profesional y Universidades, por la que se establecen las instrucciones
+      para el cálculo de la calificación final que debe figurar en las credenciales
+      de convalidación por 1º de Bachillerato y de homologación de títulos extranjeros
+      al título de Graduado o Graduada en Educación Secundaria Obligatoria y al de
+      Bachiller español.
+    jurisdiccion: España
+    ambito: Estatal
+    tipo_disposicion: Real Decreto / Orden
+    fecha_publicacion: '2018-04-02'
+    estado: Vigente
+    redaccion: consolidada
+    categoria_canonica: 02_gestion_y_administracion_centros
+    subcategoria: Centros extranjeros
+    tags:
+    - estatal
+    - boe
+    - 02_gestion_y_administracion_centros
+    path: estatal/02_gestion_y_administracion_centros/BOE_2018_4480_secretaría_estado_educación_formación.md
+  norm-es-2018-5111:
+    id: norm-es-2018-5111
+    codigo_sintetizado: BOE-A-2018-5111
+    titulo: Resolución de 9 de abril de 2018, de la Secretaría de Estado de Educación,
+      Formación Profesional y Universidades por la que se corrigen errores en la de
+      23 de marzo de 2018, por la que se establecen las instrucciones para el cálculo
+      de la calificación final que debe figurar en las credenciales de convalidación
+      por 1º de Bachillerato y de homologación de títulos extranjeros al título de
+      Graduado o Graduada en Educación Secundaria Obligatoria y al de Bachiller español.
+    jurisdiccion: España
+    ambito: Estatal
+    tipo_disposicion: Real Decreto / Orden
+    fecha_publicacion: '2018-04-16'
+    estado: Vigente
+    redaccion: consolidada
+    categoria_canonica: 02_gestion_y_administracion_centros
+    subcategoria: Centros extranjeros
+    tags:
+    - estatal
+    - boe
+    - 02_gestion_y_administracion_centros
+    path: estatal/02_gestion_y_administracion_centros/BOE_2018_5111_resolución_abril_2018.md
+  norm-es-2023-3846:
+    id: norm-es-2023-3846
+    codigo_sintetizado: BOE-A-2023-3846
+    titulo: Resolución de 13 de febrero de 2023, de la Subsecretaría, por la que se
+      publica la Resolución de 8 de febrero de 2023, conjunta de la Secretaría de
+      Estado de Educación y la Secretaría General de Universidades, por la que se
+      establecen las adaptaciones de la evaluación de Bachillerato para el acceso
+      a la Universidad a las necesidades y situación de los centros españoles situados
+      en el exterior del territorio nacional, los programas educativos en el exterior,
+      los programas internacionales, el alumnado procedente de sistemas educativos
+      extranjeros y las enseñanzas a distancia, en el curso 2022-2023.
+    jurisdiccion: España
+    ambito: Estatal
+    tipo_disposicion: Real Decreto / Orden
+    fecha_publicacion: '2023-02-14'
+    estado: Vigente
+    redaccion: consolidada
+    categoria_canonica: 02_gestion_y_administracion_centros
+    subcategoria: Centros extranjeros
+    tags:
+    - estatal
+    - boe
+    - 02_gestion_y_administracion_centros
+    path: estatal/02_gestion_y_administracion_centros/BOE_2023_3846_subsecretaría_publica_resolución_febrero.md
   norm-es-l-31-1995:
     id: norm-es-l-31-1995
     codigo_sintetizado: L31_1995 Prevencion de Riesgos Laborales (LPRL)
@@ -1355,6 +1675,690 @@ normas:
     - titulaciones_requeridas
     - estatal
     path: estatal/02_gestion_y_administracion_centros/RD476_2013_cualificacion_profesorado_centros_privados.md
+  norm-es-2000-5990:
+    id: norm-es-2000-5990
+    codigo_sintetizado: BOE-A-2000-5990
+    titulo: Real Decreto 320/2000, de 3 de marzo, por el que se establecen los títulos
+      de Técnico Deportivo y Técnico Deportivo superior en las especialidades de Fútbol
+      y Fútbol Sala, se aprueban las correspondientes enseñanzas mínimas y se regulan
+      las pruebas y los requisitos de acceso a estas enseñanzas.
+    jurisdiccion: España
+    ambito: Estatal
+    tipo_disposicion: Real Decreto / Orden
+    fecha_publicacion: '2000-03-29'
+    estado: Vigente
+    redaccion: consolidada
+    categoria_canonica: 03_ordenacion_curricular_y_ensenanzas
+    subcategoria: Enseñanzas Deportivas
+    tags:
+    - estatal
+    - boe
+    - 03_ordenacion_curricular_y_ensenanzas
+    path: estatal/03_ordenacion_curricular_y_ensenanzas/BOE_2000_5990_marzo_establecen_títulos_técnico.md
+  norm-es-2002-12018:
+    id: norm-es-2002-12018
+    codigo_sintetizado: BOE-A-2002-12018
+    titulo: Ley Orgánica 5/2002, de 19 de junio, de las Cualificaciones y de la Formación
+      Profesional.
+    jurisdiccion: España
+    ambito: Estatal
+    tipo_disposicion: Real Decreto / Orden
+    fecha_publicacion: '2002-06-20'
+    estado: Vigente
+    redaccion: consolidada
+    categoria_canonica: 03_ordenacion_curricular_y_ensenanzas
+    subcategoria: Formación Profesional
+    tags:
+    - estatal
+    - boe
+    - 03_ordenacion_curricular_y_ensenanzas
+    path: estatal/03_ordenacion_curricular_y_ensenanzas/BOE_2002_12018_junio_cualificaciones_formación_profesional.md
+  norm-es-2002-4371:
+    id: norm-es-2002-4371
+    codigo_sintetizado: BOE-A-2002-4371
+    titulo: Orden ECD/454/2002, de 22 de febrero, por la que se establecen los elementos
+      básicos de los informes de evaluación de las enseñanzas que conducentes a la
+      obtención de titulaciones de técnicos deportivos reguladas por el Real Decreto
+      1913/1997, de 19 de diciembre, así como los requisitos formales derivados del
+      proceso de evaluación que son necesarios para garantizar la movilidad de los
+      alumnos.
+    jurisdiccion: España
+    ambito: Estatal
+    tipo_disposicion: Real Decreto / Orden
+    fecha_publicacion: '2002-03-05'
+    estado: Vigente
+    redaccion: consolidada
+    categoria_canonica: 03_ordenacion_curricular_y_ensenanzas
+    subcategoria: Enseñanzas Deportivas
+    tags:
+    - estatal
+    - boe
+    - 03_ordenacion_curricular_y_ensenanzas
+    path: estatal/03_ordenacion_curricular_y_ensenanzas/BOE_2002_4371_febrero_establecen_elementos_básicos.md
+  norm-es-2005-21534:
+    id: norm-es-2005-21534
+    codigo_sintetizado: BOE-A-2005-21534
+    titulo: Real Decreto 1558/2005, de 23 de diciembre, por el que se regulan los
+      requisitos básicos de los Centros integrados de formación profesional.
+    jurisdiccion: España
+    ambito: Estatal
+    tipo_disposicion: Real Decreto / Orden
+    fecha_publicacion: '2005-12-30'
+    estado: Vigente
+    redaccion: consolidada
+    categoria_canonica: 03_ordenacion_curricular_y_ensenanzas
+    subcategoria: Formación Profesional
+    tags:
+    - estatal
+    - boe
+    - 03_ordenacion_curricular_y_ensenanzas
+    path: estatal/03_ordenacion_curricular_y_ensenanzas/BOE_2005_21534_diciembre_regulan_requisitos_básicos.md
+  norm-es-2007-19326:
+    id: norm-es-2007-19326
+    codigo_sintetizado: BOE-A-2007-19326
+    titulo: Real Decreto 1363/2007, de 24 de octubre, por el que se establece la ordenación
+      general de las enseñanzas deportivas de régimen especial.
+    jurisdiccion: España
+    ambito: Estatal
+    tipo_disposicion: Real Decreto / Orden
+    fecha_publicacion: '2007-11-08'
+    estado: Vigente
+    redaccion: consolidada
+    categoria_canonica: 03_ordenacion_curricular_y_ensenanzas
+    subcategoria: Enseñanzas Deportivas
+    tags:
+    - estatal
+    - boe
+    - 03_ordenacion_curricular_y_ensenanzas
+    path: estatal/03_ordenacion_curricular_y_ensenanzas/BOE_2007_19326_octubre_establece_ordenación_general.md
+  norm-es-2009-3424:
+    id: norm-es-2009-3424
+    codigo_sintetizado: BOE-A-2009-3424
+    titulo: Real Decreto 242/2009, de 27 de febrero, por el que se establecen convalidaciones
+      entre las enseñanzas profesionales de Música y de Danza y la Educación secundaria
+      obligatoria y el Bachillerato, así como los efectos que sobre la materia de
+      Educación física deben tener la condición de deportista de alto nivel o alto
+      rendimiento y las enseñanzas profesionales de Danza.
+    jurisdiccion: España
+    ambito: Estatal
+    tipo_disposicion: Real Decreto / Orden
+    fecha_publicacion: '2009-02-28'
+    estado: Vigente
+    redaccion: consolidada
+    categoria_canonica: 03_ordenacion_curricular_y_ensenanzas
+    subcategoria: Educación Secundaria Obligatoria (ESO)
+    tags:
+    - estatal
+    - boe
+    - 03_ordenacion_curricular_y_ensenanzas
+    path: estatal/03_ordenacion_curricular_y_ensenanzas/BOE_2009_3424_febrero_establecen_convalidaciones_entre.md
+  norm-es-2010-12706:
+    id: norm-es-2010-12706
+    codigo_sintetizado: BOE-A-2010-12706
+    titulo: Orden EDU/2157/2010, de 30 de julio, por la que se regula el currículo
+      mixto de las enseñanzas acogidas al Acuerdo entre el Gobierno de España y el
+      Gobierno de Francia relativo a la doble titulación de Bachiller y de Baccalauréat
+      en centros docentes españoles, así como los requisitos para su obtención.
+    jurisdiccion: España
+    ambito: Estatal
+    tipo_disposicion: Real Decreto / Orden
+    fecha_publicacion: '2010-08-07'
+    estado: Vigente
+    redaccion: consolidada
+    categoria_canonica: 03_ordenacion_curricular_y_ensenanzas
+    subcategoria: Bachillerato
+    tags:
+    - estatal
+    - boe
+    - 03_ordenacion_curricular_y_ensenanzas
+    path: estatal/03_ordenacion_curricular_y_ensenanzas/BOE_2010_12706_julio_regula_currículo_mixto.md
+  norm-es-2010-13564:
+    id: norm-es-2010-13564
+    codigo_sintetizado: BOE-A-2010-13564
+    titulo: Real Decreto 935/2010, de 23 de julio, por el que se establecen los títulos
+      de Técnico Deportivo en vela con aparejo fijo y Técnico Deportivo en vela con
+      aparejo libre, y se fijan sus enseñanzas mínimas y los requisitos de acceso.
+    jurisdiccion: España
+    ambito: Estatal
+    tipo_disposicion: Real Decreto / Orden
+    fecha_publicacion: '2010-08-31'
+    estado: Vigente
+    redaccion: consolidada
+    categoria_canonica: 03_ordenacion_curricular_y_ensenanzas
+    subcategoria: Enseñanzas Deportivas
+    tags:
+    - estatal
+    - boe
+    - 03_ordenacion_curricular_y_ensenanzas
+    path: estatal/03_ordenacion_curricular_y_ensenanzas/BOE_2010_13564_julio_establecen_títulos_técnico.md
+  norm-es-2010-4130:
+    id: norm-es-2010-4130
+    codigo_sintetizado: BOE-A-2010-4130
+    titulo: Real Decreto 102/2010, de 5 de febrero, por el que se regula la ordenación
+      de las enseñanzas acogidas al acuerdo entre el Gobierno de España y el Gobierno
+      de Francia relativo a la doble titulación de Bachiller y de Baccalauréat en
+      centros docentes españoles.
+    jurisdiccion: España
+    ambito: Estatal
+    tipo_disposicion: Real Decreto / Orden
+    fecha_publicacion: '2010-03-12'
+    estado: Vigente
+    redaccion: consolidada
+    categoria_canonica: 03_ordenacion_curricular_y_ensenanzas
+    subcategoria: Bachillerato
+    tags:
+    - estatal
+    - boe
+    - 03_ordenacion_curricular_y_ensenanzas
+    path: estatal/03_ordenacion_curricular_y_ensenanzas/BOE_2010_4130_febrero_regula_ordenación_enseñanzas.md
+  norm-es-2011-12632:
+    id: norm-es-2011-12632
+    codigo_sintetizado: BOE-A-2011-12632
+    titulo: Real Decreto 878/2011, de 24 de junio, por el que se establece el título
+      de Técnico Deportivo en Salvamento y Socorrismo y se fijan sus enseñanzas mínimas
+      y los requisitos de acceso.
+    jurisdiccion: España
+    ambito: Estatal
+    tipo_disposicion: Real Decreto / Orden
+    fecha_publicacion: '2011-07-22'
+    estado: Vigente
+    redaccion: consolidada
+    categoria_canonica: 03_ordenacion_curricular_y_ensenanzas
+    subcategoria: Enseñanzas Deportivas
+    tags:
+    - estatal
+    - boe
+    - 03_ordenacion_curricular_y_ensenanzas
+    path: estatal/03_ordenacion_curricular_y_ensenanzas/BOE_2011_12632_junio_establece_título_técnico.md
+  norm-es-2011-2615:
+    id: norm-es-2011-2615
+    codigo_sintetizado: BOE-A-2011-2615
+    titulo: Orden EDU/216/2011, de 8 de febrero, por la que se establece el procedimiento
+      de reconocimiento de las formaciones de entrenadores deportivos en las modalidades
+      de fútbol y fútbol sala.
+    jurisdiccion: España
+    ambito: Estatal
+    tipo_disposicion: Real Decreto / Orden
+    fecha_publicacion: '2011-02-11'
+    estado: Vigente
+    redaccion: consolidada
+    categoria_canonica: 03_ordenacion_curricular_y_ensenanzas
+    subcategoria: Enseñanzas Deportivas
+    tags:
+    - estatal
+    - boe
+    - 03_ordenacion_curricular_y_ensenanzas
+    path: estatal/03_ordenacion_curricular_y_ensenanzas/BOE_2011_2615_febrero_establece_procedimiento_reconocimiento.md
+  norm-es-2013-10219:
+    id: norm-es-2013-10219
+    codigo_sintetizado: BOE-A-2013-10219
+    titulo: Real Decreto 669/2013, de 6 de septiembre, por el que se establece el
+      título de Técnico Deportivo en Atletismo y se fijan sus enseñanzas mínimas y
+      los requisitos de acceso.
+    jurisdiccion: España
+    ambito: Estatal
+    tipo_disposicion: Real Decreto / Orden
+    fecha_publicacion: '2013-10-02'
+    estado: Vigente
+    redaccion: consolidada
+    categoria_canonica: 03_ordenacion_curricular_y_ensenanzas
+    subcategoria: Enseñanzas Deportivas
+    tags:
+    - estatal
+    - boe
+    - 03_ordenacion_curricular_y_ensenanzas
+    path: estatal/03_ordenacion_curricular_y_ensenanzas/BOE_2013_10219_septiembre_establece_título_técnico.md
+  norm-es-2014-2222:
+    id: norm-es-2014-2222
+    codigo_sintetizado: BOE-A-2014-2222
+    titulo: Real Decreto 126/2014, de 28 de febrero, por el que se establece el currículo
+      básico de la Educación Primaria.
+    jurisdiccion: España
+    ambito: Estatal
+    tipo_disposicion: Real Decreto / Orden
+    fecha_publicacion: '2014-03-01'
+    estado: Vigente
+    redaccion: consolidada
+    categoria_canonica: 03_ordenacion_curricular_y_ensenanzas
+    subcategoria: Educación Primaria
+    tags:
+    - estatal
+    - boe
+    - 03_ordenacion_curricular_y_ensenanzas
+    path: estatal/03_ordenacion_curricular_y_ensenanzas/BOE_2014_2222_febrero_establece_currículo_básico.md
+  norm-es-2014-5591:
+    id: norm-es-2014-5591
+    codigo_sintetizado: BOE-A-2014-5591
+    titulo: Real Decreto 356/2014, de 16 de mayo, por el que se establecen siete títulos
+      de Formación Profesional Básica del catálogo de títulos de las enseñanzas de
+      Formación Profesional.
+    jurisdiccion: España
+    ambito: Estatal
+    tipo_disposicion: Real Decreto / Orden
+    fecha_publicacion: '2014-05-29'
+    estado: Vigente
+    redaccion: consolidada
+    categoria_canonica: 03_ordenacion_curricular_y_ensenanzas
+    subcategoria: Formación Profesional
+    tags:
+    - estatal
+    - boe
+    - 03_ordenacion_curricular_y_ensenanzas
+    path: estatal/03_ordenacion_curricular_y_ensenanzas/BOE_2014_5591_mayo_establecen_siete_títulos.md
+  norm-es-2014-6008:
+    id: norm-es-2014-6008
+    codigo_sintetizado: BOE-A-2014-6008
+    titulo: Real Decreto 412/2014, de 6 de junio, por el que se establece la normativa
+      básica de los procedimientos de admisión a las enseñanzas universitarias oficiales
+      de Grado.
+    jurisdiccion: España
+    ambito: Estatal
+    tipo_disposicion: Real Decreto / Orden
+    fecha_publicacion: '2014-06-07'
+    estado: Vigente
+    redaccion: consolidada
+    categoria_canonica: 03_ordenacion_curricular_y_ensenanzas
+    subcategoria: Bachillerato
+    tags:
+    - estatal
+    - boe
+    - 03_ordenacion_curricular_y_ensenanzas
+    path: estatal/03_ordenacion_curricular_y_ensenanzas/BOE_2014_6008_junio_establece_normativa_básica.md
+  norm-es-2015-738:
+    id: norm-es-2015-738
+    codigo_sintetizado: BOE-A-2015-738
+    titulo: Orden ECD/65/2015, de 21 de enero, por la que se describen las relaciones
+      entre las competencias, los contenidos y los criterios de evaluación de la educación
+      primaria, la educación secundaria obligatoria y el bachillerato.
+    jurisdiccion: España
+    ambito: Estatal
+    tipo_disposicion: Real Decreto / Orden
+    fecha_publicacion: '2015-01-29'
+    estado: Vigente
+    redaccion: consolidada
+    categoria_canonica: 03_ordenacion_curricular_y_ensenanzas
+    subcategoria: Bachillerato
+    tags:
+    - estatal
+    - boe
+    - 03_ordenacion_curricular_y_ensenanzas
+    path: estatal/03_ordenacion_curricular_y_ensenanzas/BOE_2015_738_enero_describen_relaciones_entre.md
+  norm-es-2015-9462:
+    id: norm-es-2015-9462
+    codigo_sintetizado: BOE-A-2015-9462
+    titulo: Real Decreto 774/2015, de 28 de agosto, por el que se establecen seis
+      Títulos de Formación Profesional Básica del catálogo de Títulos de las enseñanzas
+      de Formación Profesional.
+    jurisdiccion: España
+    ambito: Estatal
+    tipo_disposicion: Real Decreto / Orden
+    fecha_publicacion: '2015-08-29'
+    estado: Vigente
+    redaccion: consolidada
+    categoria_canonica: 03_ordenacion_curricular_y_ensenanzas
+    subcategoria: Formación Profesional
+    tags:
+    - estatal
+    - boe
+    - 03_ordenacion_curricular_y_ensenanzas
+    path: estatal/03_ordenacion_curricular_y_ensenanzas/BOE_2015_9462_agosto_establecen_seis_títulos.md
+  norm-es-2016-3229:
+    id: norm-es-2016-3229
+    codigo_sintetizado: BOE-A-2016-3229
+    titulo: Orden ECD/462/2016, de 31 de marzo, por la que se regula el procedimiento
+      de incorporación del alumnado a un curso de Educación Secundaria Obligatoria
+      o de Bachillerato del sistema educativo definido por la Ley Orgánica 8/2013,
+      de 9 de diciembre, para la mejora de la calidad educativa, con materias no superadas
+      del currículo anterior a su implantación.
+    jurisdiccion: España
+    ambito: Estatal
+    tipo_disposicion: Real Decreto / Orden
+    fecha_publicacion: '2016-04-05'
+    estado: Vigente
+    redaccion: consolidada
+    categoria_canonica: 03_ordenacion_curricular_y_ensenanzas
+    subcategoria: Educación Secundaria Obligatoria (ESO)
+    tags:
+    - estatal
+    - boe
+    - 03_ordenacion_curricular_y_ensenanzas
+    path: estatal/03_ordenacion_curricular_y_ensenanzas/BOE_2016_3229_marzo_regula_procedimiento_incorporación.md
+  norm-es-2019-317:
+    id: norm-es-2019-317
+    codigo_sintetizado: BOE-A-2019-317
+    titulo: Real Decreto 1/2019, de 11 de enero, por el que se establecen los principios
+      básicos comunes de evaluación aplicables a las pruebas de certificación oficial
+      de los niveles Intermedio B1, Intermedio B2, Avanzado C1, y Avanzado C2 de las
+      enseñanzas de idiomas de régimen especial.
+    jurisdiccion: España
+    ambito: Estatal
+    tipo_disposicion: Real Decreto / Orden
+    fecha_publicacion: '2019-01-12'
+    estado: Vigente
+    redaccion: consolidada
+    categoria_canonica: 03_ordenacion_curricular_y_ensenanzas
+    subcategoria: Enseñanzas de Idiomas
+    tags:
+    - estatal
+    - boe
+    - 03_ordenacion_curricular_y_ensenanzas
+    path: estatal/03_ordenacion_curricular_y_ensenanzas/BOE_2019_317_enero_establecen_principios_básicos.md
+  norm-es-2020-17274:
+    id: norm-es-2020-17274
+    codigo_sintetizado: BOE-A-2020-17274
+    titulo: Real Decreto 1085/2020, de 9 de diciembre, por el que se establecen convalidaciones
+      de módulos profesionales de los títulos de Formación Profesional del sistema
+      educativo español y las medidas para su aplicación, y se modifica el Real Decreto
+      1147/2011, de 29 de julio, por el que se establece la ordenación general de
+      la formación profesional del sistema educativo.
+    jurisdiccion: España
+    ambito: Estatal
+    tipo_disposicion: Real Decreto / Orden
+    fecha_publicacion: '2020-12-30'
+    estado: Vigente
+    redaccion: consolidada
+    categoria_canonica: 03_ordenacion_curricular_y_ensenanzas
+    subcategoria: Formación Profesional
+    tags:
+    - estatal
+    - boe
+    - 03_ordenacion_curricular_y_ensenanzas
+    path: estatal/03_ordenacion_curricular_y_ensenanzas/BOE_2020_17274_diciembre_establecen_convalidaciones_módulos.md
+  norm-es-2021-18189:
+    id: norm-es-2021-18189
+    codigo_sintetizado: BOE-A-2021-18189
+    titulo: Orden EFP/1210/2021, de 2 de noviembre, por la que se establece la equivalencia,
+      a los efectos de acceso a enseñanzas de formación profesional, de determinados
+      estudios y títulos anteriores al actual sistema educativo.
+    jurisdiccion: España
+    ambito: Estatal
+    tipo_disposicion: Real Decreto / Orden
+    fecha_publicacion: '2021-11-08'
+    estado: Vigente
+    redaccion: consolidada
+    categoria_canonica: 03_ordenacion_curricular_y_ensenanzas
+    subcategoria: Formación Profesional
+    tags:
+    - estatal
+    - boe
+    - 03_ordenacion_curricular_y_ensenanzas
+    path: estatal/03_ordenacion_curricular_y_ensenanzas/BOE_2021_18189_noviembre_establece_equivalencia_efectos.md
+  norm-es-2021-18812:
+    id: norm-es-2021-18812
+    codigo_sintetizado: BOE-A-2021-18812
+    titulo: Real Decreto 984/2021, de 16 de noviembre, por el que se regulan la evaluación
+      y la promoción en la Educación Primaria, así como la evaluación, la promoción
+      y la titulación en la Educación Secundaria Obligatoria, el Bachillerato y la
+      Formación Profesional.
+    jurisdiccion: España
+    ambito: Estatal
+    tipo_disposicion: Real Decreto / Orden
+    fecha_publicacion: '2021-11-17'
+    estado: Vigente
+    redaccion: consolidada
+    categoria_canonica: 03_ordenacion_curricular_y_ensenanzas
+    subcategoria: Educación Primaria
+    tags:
+    - estatal
+    - boe
+    - 03_ordenacion_curricular_y_ensenanzas
+    path: estatal/03_ordenacion_curricular_y_ensenanzas/BOE_2021_18812_noviembre_regulan_evaluación_promoción.md
+  norm-es-2021-20113:
+    id: norm-es-2021-20113
+    codigo_sintetizado: BOE-A-2021-20113
+    titulo: Corrección de errores de la Orden EFP/721/2021, de 2 de julio, por la
+      que se modifica la Orden ECD/1767/2012, de 3 de agosto, por la que se regula
+      la expedición del título de Bachiller correspondiente a las enseñanzas reguladas
+      por la Ley Orgánica 2/2006, de 3 de mayo, de Educación, para el alumnado inscrito
+      en los programas de secciones internacionales españolas y «Bachibac» en liceos
+      franceses.
+    jurisdiccion: España
+    ambito: Estatal
+    tipo_disposicion: Real Decreto / Orden
+    fecha_publicacion: '2021-12-06'
+    estado: Vigente
+    redaccion: consolidada
+    categoria_canonica: 03_ordenacion_curricular_y_ensenanzas
+    subcategoria: Bachillerato
+    tags:
+    - estatal
+    - boe
+    - 03_ordenacion_curricular_y_ensenanzas
+    path: estatal/03_ordenacion_curricular_y_ensenanzas/BOE_2021_20113_corrección_errores.md
+  norm-es-2021-979:
+    id: norm-es-2021-979
+    codigo_sintetizado: BOE-A-2021-979
+    titulo: Corrección de errores del Real Decreto 1085/2020, de 9 de diciembre, por
+      el que se establecen convalidaciones de módulos profesionales de los títulos
+      de Formación Profesional del sistema educativo español y las medidas para su
+      aplicación, y se modifica el Real Decreto 1147/2011, de 29 de julio, por el
+      que se establece la ordenación general de la formación profesional del sistema
+      educativo.
+    jurisdiccion: España
+    ambito: Estatal
+    tipo_disposicion: Real Decreto / Orden
+    fecha_publicacion: '2021-01-23'
+    estado: Vigente
+    redaccion: consolidada
+    categoria_canonica: 03_ordenacion_curricular_y_ensenanzas
+    subcategoria: Formación Profesional
+    tags:
+    - estatal
+    - boe
+    - 03_ordenacion_curricular_y_ensenanzas
+    path: estatal/03_ordenacion_curricular_y_ensenanzas/BOE_2021_979_corrección_errores.md
+  norm-es-2022-12014:
+    id: norm-es-2022-12014
+    codigo_sintetizado: BOE-A-2022-12014
+    titulo: Real Decreto 588/2022, de 19 de julio, por el que se establecen las especialidades
+      docentes de los Cuerpos de Profesores y de Catedráticos de Música y Artes Escénicas
+      vinculadas a las enseñanzas de Arte Dramático.
+    jurisdiccion: España
+    ambito: Estatal
+    tipo_disposicion: Real Decreto / Orden
+    fecha_publicacion: '2022-07-20'
+    estado: Vigente
+    redaccion: consolidada
+    categoria_canonica: 03_ordenacion_curricular_y_ensenanzas
+    subcategoria: Enseñanzas Artísticas
+    tags:
+    - estatal
+    - boe
+    - 03_ordenacion_curricular_y_ensenanzas
+    path: estatal/03_ordenacion_curricular_y_ensenanzas/BOE_2022_12014_julio_establecen_especialidades_docentes.md
+  norm-es-2022-1274:
+    id: norm-es-2022-1274
+    codigo_sintetizado: BOE-A-2022-1274
+    titulo: Real Decreto 62/2022, de 25 de enero, de flexibilización de los requisitos
+      exigibles para impartir ofertas de formación profesional conducentes a la obtención
+      de certificados de profesionalidad, así como de la oferta de formación profesional
+      en centros del sistema educativo y de formación profesional para el empleo.
+    jurisdiccion: España
+    ambito: Estatal
+    tipo_disposicion: Real Decreto / Orden
+    fecha_publicacion: '2022-01-27'
+    estado: Vigente
+    redaccion: consolidada
+    categoria_canonica: 03_ordenacion_curricular_y_ensenanzas
+    subcategoria: Formación Profesional
+    tags:
+    - estatal
+    - boe
+    - 03_ordenacion_curricular_y_ensenanzas
+    path: estatal/03_ordenacion_curricular_y_ensenanzas/BOE_2022_1274_enero_flexibilización_requisitos_exigibles.md
+  norm-es-2022-15953:
+    id: norm-es-2022-15953
+    codigo_sintetizado: BOE-A-2022-15953
+    titulo: Orden EFP/935/2022, de 27 de septiembre, por la que se modifica la Orden
+      EDU/2157/2010, de 30 de julio, por la que se regula el currículo mixto de las
+      enseñanzas acogidas al Acuerdo entre el Gobierno de España y el Gobierno de
+      Francia relativo a la doble titulación de Bachiller y de Baccalauréat en centros
+      docentes españoles, así como los requisitos para su obtención.
+    jurisdiccion: España
+    ambito: Estatal
+    tipo_disposicion: Real Decreto / Orden
+    fecha_publicacion: '2022-10-01'
+    estado: Vigente
+    redaccion: consolidada
+    categoria_canonica: 03_ordenacion_curricular_y_ensenanzas
+    subcategoria: Bachillerato
+    tags:
+    - estatal
+    - boe
+    - 03_ordenacion_curricular_y_ensenanzas
+    path: estatal/03_ordenacion_curricular_y_ensenanzas/BOE_2022_15953_septiembre_modifica_orden_edu21572010.md
+  norm-es-2024-10683:
+    id: norm-es-2024-10683
+    codigo_sintetizado: BOE-A-2024-10683
+    titulo: Real Decreto 498/2024, de 21 de mayo, por el que se modifican determinados
+      reales decretos por los que se establecen títulos de Formación Profesional de
+      grado básico y se fijan sus enseñanzas mínimas.
+    jurisdiccion: España
+    ambito: Estatal
+    tipo_disposicion: Real Decreto / Orden
+    fecha_publicacion: '2024-05-28'
+    estado: Vigente
+    redaccion: consolidada
+    categoria_canonica: 03_ordenacion_curricular_y_ensenanzas
+    subcategoria: Formación Profesional
+    tags:
+    - estatal
+    - boe
+    - 03_ordenacion_curricular_y_ensenanzas
+    path: estatal/03_ordenacion_curricular_y_ensenanzas/BOE_2024_10683_mayo_modifican_determinados_reales.md
+  norm-es-2024-10684:
+    id: norm-es-2024-10684
+    codigo_sintetizado: BOE-A-2024-10684
+    titulo: Real Decreto 499/2024, de 21 de mayo, por el que se modifican determinados
+      reales decretos por los que se establecen títulos de Formación Profesional de
+      grado medio y se fijan sus enseñanzas mínimas.
+    jurisdiccion: España
+    ambito: Estatal
+    tipo_disposicion: Real Decreto / Orden
+    fecha_publicacion: '2024-05-28'
+    estado: Vigente
+    redaccion: consolidada
+    categoria_canonica: 03_ordenacion_curricular_y_ensenanzas
+    subcategoria: Formación Profesional
+    tags:
+    - estatal
+    - boe
+    - 03_ordenacion_curricular_y_ensenanzas
+    path: estatal/03_ordenacion_curricular_y_ensenanzas/BOE_2024_10684_mayo_modifican_determinados_reales.md
+  norm-es-2024-10685:
+    id: norm-es-2024-10685
+    codigo_sintetizado: BOE-A-2024-10685
+    titulo: Real Decreto 500/2024, de 21 de mayo, por el que se modifican determinados
+      reales decretos por los que se establecen títulos de Formación Profesional de
+      grado superior y se fijan sus enseñanzas mínimas.
+    jurisdiccion: España
+    ambito: Estatal
+    tipo_disposicion: Real Decreto / Orden
+    fecha_publicacion: '2024-05-28'
+    estado: Vigente
+    redaccion: consolidada
+    categoria_canonica: 03_ordenacion_curricular_y_ensenanzas
+    subcategoria: Formación Profesional
+    tags:
+    - estatal
+    - boe
+    - 03_ordenacion_curricular_y_ensenanzas
+    path: estatal/03_ordenacion_curricular_y_ensenanzas/BOE_2024_10685_mayo_modifican_determinados_reales.md
+  norm-es-2024-11613:
+    id: norm-es-2024-11613
+    codigo_sintetizado: BOE-A-2024-11613
+    titulo: Ley 1/2024, de 7 de junio, por la que se regulan las enseñanzas artísticas
+      superiores y se establece la organización y equivalencias de las enseñanzas
+      artísticas profesionales.
+    jurisdiccion: España
+    ambito: Estatal
+    tipo_disposicion: Real Decreto / Orden
+    fecha_publicacion: '2024-06-08'
+    estado: Vigente
+    redaccion: consolidada
+    categoria_canonica: 03_ordenacion_curricular_y_ensenanzas
+    subcategoria: Enseñanzas Artísticas
+    tags:
+    - estatal
+    - boe
+    - 03_ordenacion_curricular_y_ensenanzas
+    path: estatal/03_ordenacion_curricular_y_ensenanzas/BOE_2024_11613_junio_regulan_enseñanzas_artísticas.md
+  norm-es-2025-16039:
+    id: norm-es-2025-16039
+    codigo_sintetizado: BOE-A-2025-16039
+    titulo: Resolución de 24 de julio de 2025, de la Secretaría de Estado de Educación,
+      por la que se dictan instrucciones relativas al programa de doble titulación
+      Bachiller-Baccalauréat correspondientes al curso 2025-2026.
+    jurisdiccion: España
+    ambito: Estatal
+    tipo_disposicion: Real Decreto / Orden
+    fecha_publicacion: '2025-08-02'
+    estado: Vigente
+    redaccion: consolidada
+    categoria_canonica: 03_ordenacion_curricular_y_ensenanzas
+    subcategoria: Bachillerato
+    tags:
+    - estatal
+    - boe
+    - 03_ordenacion_curricular_y_ensenanzas
+    path: estatal/03_ordenacion_curricular_y_ensenanzas/BOE_2025_16039_secretaría_estado_educación_dictan.md
+  norm-es-2025-2039:
+    id: norm-es-2025-2039
+    codigo_sintetizado: BOE-A-2025-2039
+    titulo: Real Decreto 69/2025, de 4 de febrero, por el que se desarrollan los elementos
+      integrantes y los instrumentos de gestión del Sistema Nacional de Formación
+      Profesional, y se modifica el Real Decreto 375/1999, de 5 de marzo, por el que
+      se crea el Instituto Nacional de las Cualificaciones.
+    jurisdiccion: España
+    ambito: Estatal
+    tipo_disposicion: Real Decreto / Orden
+    fecha_publicacion: '2025-02-05'
+    estado: Vigente
+    redaccion: consolidada
+    categoria_canonica: 03_ordenacion_curricular_y_ensenanzas
+    subcategoria: Formación Profesional
+    tags:
+    - estatal
+    - boe
+    - 03_ordenacion_curricular_y_ensenanzas
+    path: estatal/03_ordenacion_curricular_y_ensenanzas/BOE_2025_2039_febrero_desarrollan_elementos_integrantes.md
+  norm-es-2026-12038:
+    id: norm-es-2026-12038
+    codigo_sintetizado: BOE-A-2026-12038
+    titulo: Real Decreto 452/2026, de 3 de junio, por el que se establece la ordenación
+      de las Enseñanzas Profesionales de Artes Plásticas y Diseño.
+    jurisdiccion: España
+    ambito: Estatal
+    tipo_disposicion: Real Decreto / Orden
+    fecha_publicacion: '2026-06-05'
+    estado: Vigente
+    redaccion: consolidada
+    categoria_canonica: 03_ordenacion_curricular_y_ensenanzas
+    subcategoria: Enseñanzas Artísticas
+    tags:
+    - estatal
+    - boe
+    - 03_ordenacion_curricular_y_ensenanzas
+    path: estatal/03_ordenacion_curricular_y_ensenanzas/BOE_2026_12038_junio_establece_ordenación_enseñanzas.md
+  norm-es-2026-15301:
+    id: norm-es-2026-15301
+    codigo_sintetizado: BOE-A-2026-15301
+    titulo: Corrección de errores del Real Decreto 452/2026, de 3 de junio, por el
+      que se establece la ordenación de las Enseñanzas Profesionales de Artes Plásticas
+      y Diseño.
+    jurisdiccion: España
+    ambito: Estatal
+    tipo_disposicion: Real Decreto / Orden
+    fecha_publicacion: '2026-07-14'
+    estado: Vigente
+    redaccion: consolidada
+    categoria_canonica: 03_ordenacion_curricular_y_ensenanzas
+    subcategoria: Enseñanzas Artísticas
+    tags:
+    - estatal
+    - boe
+    - 03_ordenacion_curricular_y_ensenanzas
+    path: estatal/03_ordenacion_curricular_y_ensenanzas/BOE_2026_15301_junio_establece_ordenación_enseñanzas.md
   norm-es-lo-3-2022:
     id: norm-es-lo-3-2022
     codigo_sintetizado: LO3_2022 Ley de Ordenacion e Integracion de la FP
@@ -1474,6 +2478,24 @@ normas:
     - ensenanzas_minimas
     - estatal
     path: estatal/03_ordenacion_curricular_y_ensenanzas/RD95_2022_ensenanzas_minimas_educacion_infantil.md
+  norm-es-2026-2622:
+    id: norm-es-2026-2622
+    codigo_sintetizado: BOE-A-2026-2622
+    titulo: Real Decreto 68/2026, de 4 de febrero, por el que se regula la inspección
+      educativa.
+    jurisdiccion: España
+    ambito: Estatal
+    tipo_disposicion: Real Decreto / Orden
+    fecha_publicacion: '2026-02-05'
+    estado: Vigente
+    redaccion: consolidada
+    categoria_canonica: 04_organizacion_escolar_y_funcionamiento
+    subcategoria: Inspección educativa
+    tags:
+    - estatal
+    - boe
+    - 04_organizacion_escolar_y_funcionamiento
+    path: estatal/04_organizacion_escolar_y_funcionamiento/BOE_2026_2622_febrero_regula_inspección_educativa.md
   norm-es-rd-1533-1986:
     id: norm-es-rd-1533-1986
     codigo_sintetizado: RD1533_1986 Regulacion de Asociaciones de Padres de Alumnos
@@ -1494,6 +2516,139 @@ normas:
     - comunidad_educativa
     - estatal
     path: estatal/04_organizacion_escolar_y_funcionamiento/RD1533_1986_asociaciones_padres_alumnos.md
+  norm-es-1971-1198:
+    id: norm-es-1971-1198
+    codigo_sintetizado: BOE-A-1971-1198
+    titulo: Decreto 2078/1971, de 13 de agosto, por el que se extiende el campo de
+      aplicación del Seguro Escolar a los alumnos que siguen las enseñanzas de Formación
+      Profesional y aquellas otras que, de conformidad con lo establecido en la Ley
+      General de Educación y Financiamiento de la Reforma Educativa, se han de integrar
+      en las enseñanzas de Formación Profesional.
+    jurisdiccion: España
+    ambito: Estatal
+    tipo_disposicion: Real Decreto / Orden
+    fecha_publicacion: '1971-09-18'
+    estado: Vigente
+    redaccion: consolidada
+    categoria_canonica: 05_alumnado_y_servicios_escolares
+    subcategoria: Seguro escolar
+    tags:
+    - estatal
+    - boe
+    - 05_alumnado_y_servicios_escolares
+    path: estatal/05_alumnado_y_servicios_escolares/BOE_1971_1198_agosto_extiende_campo_aplicación.md
+  norm-es-1985-19457:
+    id: norm-es-1985-19457
+    codigo_sintetizado: BOE-A-1985-19457
+    titulo: Real Decreto 1633/1985, de 28 de agosto, por el que se fija la cuantía
+      de la cuota del Seguro Escolar.
+    jurisdiccion: España
+    ambito: Estatal
+    tipo_disposicion: Real Decreto / Orden
+    fecha_publicacion: '1985-09-14'
+    estado: Vigente
+    redaccion: consolidada
+    categoria_canonica: 05_alumnado_y_servicios_escolares
+    subcategoria: Seguro escolar
+    tags:
+    - estatal
+    - boe
+    - 05_alumnado_y_servicios_escolares
+    path: estatal/05_alumnado_y_servicios_escolares/BOE_1985_19457_agosto_fija_cuantía_cuota.md
+  norm-es-2007-10487:
+    id: norm-es-2007-10487
+    codigo_sintetizado: BOE-A-2007-10487
+    titulo: Real Decreto 596/2007, de 4 de mayo, por el que se establece la ordenación
+      general de las enseñanzas profesionales de artes plásticas y diseño.
+    jurisdiccion: España
+    ambito: Estatal
+    tipo_disposicion: Real Decreto / Orden
+    fecha_publicacion: '2007-05-25'
+    estado: Vigente
+    redaccion: consolidada
+    categoria_canonica: 05_alumnado_y_servicios_escolares
+    subcategoria: Pruebas de acceso
+    tags:
+    - estatal
+    - boe
+    - 05_alumnado_y_servicios_escolares
+    path: estatal/05_alumnado_y_servicios_escolares/BOE_2007_10487_mayo_establece_ordenación_general.md
+  norm-es-2010-10321:
+    id: norm-es-2010-10321
+    codigo_sintetizado: BOE-A-2010-10321
+    titulo: Real Decreto 828/2010, de 25 de junio, de traspaso a la Comunidad Autónoma
+      de Canarias de los medios adscritos a la gestión de las prestaciones sanitarias
+      del Seguro Escolar.
+    jurisdiccion: España
+    ambito: Estatal
+    tipo_disposicion: Real Decreto / Orden
+    fecha_publicacion: '2010-06-29'
+    estado: Vigente
+    redaccion: consolidada
+    categoria_canonica: 05_alumnado_y_servicios_escolares
+    subcategoria: Seguro escolar
+    tags:
+    - estatal
+    - boe
+    - 05_alumnado_y_servicios_escolares
+    path: estatal/05_alumnado_y_servicios_escolares/BOE_2010_10321_junio_traspaso_comunidad_autónoma.md
+  norm-es-2010-12201:
+    id: norm-es-2010-12201
+    codigo_sintetizado: BOE-A-2010-12201
+    titulo: Orden EDU/2058/2010, de 13 de julio, por la que se regulan los Premios
+      Nacionales de Bachillerato establecidos por la Ley Orgánica 2/2006, de 3 de
+      mayo, de Educación.
+    jurisdiccion: España
+    ambito: Estatal
+    tipo_disposicion: Real Decreto / Orden
+    fecha_publicacion: '2010-07-29'
+    estado: Vigente
+    redaccion: consolidada
+    categoria_canonica: 05_alumnado_y_servicios_escolares
+    subcategoria: Concursos y premios escolares
+    tags:
+    - estatal
+    - boe
+    - 05_alumnado_y_servicios_escolares
+    path: estatal/05_alumnado_y_servicios_escolares/BOE_2010_12201_documento.md
+  norm-es-2015-8702:
+    id: norm-es-2015-8702
+    codigo_sintetizado: BOE-A-2015-8702
+    titulo: Orden ECD/1611/2015, de 29 de julio, por la que se crean y regulan los
+      Premios Nacionales al rendimiento académico del alumnado de Educación Secundaria
+      Obligatoria y de Enseñanzas Artísticas Profesionales en los ámbitos de Música,
+      Danza y Artes Plásticas y Diseño.
+    jurisdiccion: España
+    ambito: Estatal
+    tipo_disposicion: Real Decreto / Orden
+    fecha_publicacion: '2015-08-01'
+    estado: Vigente
+    redaccion: consolidada
+    categoria_canonica: 05_alumnado_y_servicios_escolares
+    subcategoria: Concursos y premios escolares
+    tags:
+    - estatal
+    - boe
+    - 05_alumnado_y_servicios_escolares
+    path: estatal/05_alumnado_y_servicios_escolares/BOE_2015_8702_julio_crean_regulan_premios.md
+  norm-es-2018-6348:
+    id: norm-es-2018-6348
+    codigo_sintetizado: BOE-A-2018-6348
+    titulo: Orden ECD/482/2018, de 4 de mayo, por la que se regulan los Premios Nacionales
+      de Bachillerato.
+    jurisdiccion: España
+    ambito: Estatal
+    tipo_disposicion: Real Decreto / Orden
+    fecha_publicacion: '2018-05-11'
+    estado: Vigente
+    redaccion: consolidada
+    categoria_canonica: 05_alumnado_y_servicios_escolares
+    subcategoria: Concursos y premios escolares
+    tags:
+    - estatal
+    - boe
+    - 05_alumnado_y_servicios_escolares
+    path: estatal/05_alumnado_y_servicios_escolares/BOE_2018_6348_mayo_regulan_premios_nacionales.md
   norm-es-rd-443-2001:
     id: norm-es-rd-443-2001
     codigo_sintetizado: RD443_2001 Condiciones de Seguridad en el Transporte Escolar
@@ -1535,6 +2690,96 @@ normas:
     - medidas_curriculares
     - estatal
     path: estatal/06_atencion_diversidad_y_orientacion/RD943_2003_flexibilizacion_altas_capacidades.md
+  norm-es-2007-6115:
+    id: norm-es-2007-6115
+    codigo_sintetizado: BOE-A-2007-6115
+    titulo: Ley Orgánica 3/2007, de 22 de marzo, para la igualdad efectiva de mujeres
+      y hombres.
+    jurisdiccion: España
+    ambito: Estatal
+    tipo_disposicion: Real Decreto / Orden
+    fecha_publicacion: '2007-03-23'
+    estado: Vigente
+    redaccion: consolidada
+    categoria_canonica: 07_convivencia_bienestar_y_protocolos
+    subcategoria: Igualdad de género y diversidad
+    tags:
+    - estatal
+    - boe
+    - 07_convivencia_bienestar_y_protocolos
+    path: estatal/07_convivencia_bienestar_y_protocolos/BOE_2007_6115_marzo_para_igualdad_efectiva.md
+  norm-es-2010-4518:
+    id: norm-es-2010-4518
+    codigo_sintetizado: BOE-A-2010-4518
+    titulo: Ley 1/2010, de 26 de febrero, canaria de igualdad entre mujeres y hombres.
+    jurisdiccion: España
+    ambito: Estatal
+    tipo_disposicion: Real Decreto / Orden
+    fecha_publicacion: '2010-03-18'
+    estado: Vigente
+    redaccion: consolidada
+    categoria_canonica: 07_convivencia_bienestar_y_protocolos
+    subcategoria: Igualdad de género y diversidad
+    tags:
+    - estatal
+    - boe
+    - 07_convivencia_bienestar_y_protocolos
+    path: estatal/07_convivencia_bienestar_y_protocolos/BOE_2010_4518_febrero_canaria_igualdad_entre.md
+  norm-es-2013-12632:
+    id: norm-es-2013-12632
+    codigo_sintetizado: BOE-A-2013-12632
+    titulo: Real Decreto Legislativo 1/2013, de 29 de noviembre, por el que se aprueba
+      el Texto Refundido de la Ley General de derechos de las personas con discapacidad
+      y de su inclusión social.
+    jurisdiccion: España
+    ambito: Estatal
+    tipo_disposicion: Real Decreto / Orden
+    fecha_publicacion: '2013-12-03'
+    estado: Vigente
+    redaccion: consolidada
+    categoria_canonica: 07_convivencia_bienestar_y_protocolos
+    subcategoria: Igualdad de género y diversidad
+    tags:
+    - estatal
+    - boe
+    - 07_convivencia_bienestar_y_protocolos
+    path: estatal/07_convivencia_bienestar_y_protocolos/BOE_2013_12632_noviembre_aprueba_texto_refundido.md
+  norm-es-2021-11382:
+    id: norm-es-2021-11382
+    codigo_sintetizado: BOE-A-2021-11382
+    titulo: Ley 2/2021, de 7 de junio, de igualdad social y no discriminación por
+      razón de identidad de género, expresión de género y características sexuales.
+    jurisdiccion: España
+    ambito: Estatal
+    tipo_disposicion: Real Decreto / Orden
+    fecha_publicacion: '2021-07-09'
+    estado: Vigente
+    redaccion: consolidada
+    categoria_canonica: 07_convivencia_bienestar_y_protocolos
+    subcategoria: Protocolos de actuación y protección
+    tags:
+    - estatal
+    - boe
+    - 07_convivencia_bienestar_y_protocolos
+    path: estatal/07_convivencia_bienestar_y_protocolos/BOE_2021_11382_junio_igualdad_social_discriminación.md
+  norm-es-2022-11589:
+    id: norm-es-2022-11589
+    codigo_sintetizado: BOE-A-2022-11589
+    titulo: Ley 15/2022, de 12 de julio, integral para la igualdad de trato y la no
+      discriminación.
+    jurisdiccion: España
+    ambito: Estatal
+    tipo_disposicion: Real Decreto / Orden
+    fecha_publicacion: '2022-07-13'
+    estado: Vigente
+    redaccion: consolidada
+    categoria_canonica: 07_convivencia_bienestar_y_protocolos
+    subcategoria: Igualdad de género y diversidad
+    tags:
+    - estatal
+    - boe
+    - 07_convivencia_bienestar_y_protocolos
+    path: estatal/07_convivencia_bienestar_y_protocolos/BOE_2022_11589_julio_integral_para_igualdad.md
   norm-es-lo-10-2022:
     id: norm-es-lo-10-2022
     codigo_sintetizado: LO10_2022 Garantia Integral de la Libertad Sexual
@@ -1594,6 +2839,536 @@ normas:
     - prevencion_violencia
     - estatal
     path: estatal/07_convivencia_bienestar_y_protocolos/LO8_2021_proteccion_infancia_adolescencia_violencia.md
+  norm-es-1979-29491:
+    id: norm-es-1979-29491
+    codigo_sintetizado: BOE-A-1979-29491
+    titulo: Instrumento de Ratificación del Acuerdo entre el Estado español y la Santa
+      Sede sobre Enseñanza y Asuntos Culturales, firmado en la Ciudad del Vaticano
+      el 3 de enero de 1979.
+    jurisdiccion: España
+    ambito: Estatal
+    tipo_disposicion: Real Decreto / Orden
+    fecha_publicacion: '1979-12-15'
+    estado: Vigente
+    redaccion: consolidada
+    categoria_canonica: 08_personal_docente
+    subcategoria: Profesorado de religión
+    tags:
+    - estatal
+    - boe
+    - 08_personal_docente
+    path: estatal/08_personal_docente/BOE_1979_29491_firmado_ciudad_vaticano_enero.md
+  norm-es-1985-7820:
+    id: norm-es-1985-7820
+    codigo_sintetizado: BOE-A-1985-7820
+    titulo: Real Decreto 598/1985, de 30 de abril, sobre incompatibilidades del personal
+      al servicio de la Administración del Estado, de la Seguridad Social y de los
+      Entes, Organismos y Empresas dependientes.
+    jurisdiccion: España
+    ambito: Estatal
+    tipo_disposicion: Real Decreto / Orden
+    fecha_publicacion: '1985-05-04'
+    estado: Vigente
+    redaccion: consolidada
+    categoria_canonica: 08_personal_docente
+    subcategoria: Funcionarios de carrera
+    tags:
+    - estatal
+    - boe
+    - 08_personal_docente
+    path: estatal/08_personal_docente/BOE_1985_7820_abril_sobre_incompatibilidades_personal.md
+  norm-es-1993-23257:
+    id: norm-es-1993-23257
+    codigo_sintetizado: BOE-A-1993-23257
+    titulo: Orden de 9 de septiembre de 1993 por la que se aprueban los temarios que
+      han de regir en los procedimientos de ingreso, adquisición de nuevas especialidades
+      y movilidad para determinadas especialidades de los Cuerpos de Maestros, Profesores
+      de Enseñanza Secundaria y Profesores de Escuelas Oficiales de Idiomas, regulados
+      por el Real Decreto 850/1993, de 4 de junio.
+    jurisdiccion: España
+    ambito: Estatal
+    tipo_disposicion: Real Decreto / Orden
+    fecha_publicacion: '1993-09-21'
+    estado: Vigente
+    redaccion: consolidada
+    categoria_canonica: 08_personal_docente
+    subcategoria: Oposiciones y acceso
+    tags:
+    - estatal
+    - boe
+    - 08_personal_docente
+    path: estatal/08_personal_docente/BOE_1993_23257_adquisición_nuevas_especialidades_movilidad.md
+  norm-es-1995-22212:
+    id: norm-es-1995-22212
+    codigo_sintetizado: BOE-A-1995-22212
+    titulo: Real Decreto 1635/1995, de 6 de octubre, por el que se adscribe el profesorado
+      de los Cuerpos de Profesores de Enseñanza Secundaria y Profesores Técnicos de
+      Formación Profesional a las especialidades propias de la formación profesional
+      específica.
+    jurisdiccion: España
+    ambito: Estatal
+    tipo_disposicion: Real Decreto / Orden
+    fecha_publicacion: '1995-10-10'
+    estado: Vigente
+    redaccion: consolidada
+    categoria_canonica: 08_personal_docente
+    subcategoria: Especialidades y habilitaciones
+    tags:
+    - estatal
+    - boe
+    - 08_personal_docente
+    path: estatal/08_personal_docente/BOE_1995_22212_octubre_adscribe_profesorado_cuerpos.md
+  norm-es-1996-3102:
+    id: norm-es-1996-3102
+    codigo_sintetizado: BOE-A-1996-3102
+    titulo: Orden de 1 de febrero de 1996 por la que se aprueban los temarios que
+      han de regir en los procedimientos de ingreso, adquisición de nuevas especialidades
+      y movilidad para determinadas especialidades de los Cuerpos de Profesores de
+      Enseñanza Secundaria y Profesores Técnicos de Formación Profesional.
+    jurisdiccion: España
+    ambito: Estatal
+    tipo_disposicion: Real Decreto / Orden
+    fecha_publicacion: '1996-02-13'
+    estado: Vigente
+    redaccion: consolidada
+    categoria_canonica: 08_personal_docente
+    subcategoria: Oposiciones y acceso
+    tags:
+    - estatal
+    - boe
+    - 08_personal_docente
+    path: estatal/08_personal_docente/BOE_1996_3102_adquisición_nuevas_especialidades_movilidad.md
+  norm-es-1998-10720:
+    id: norm-es-1998-10720
+    codigo_sintetizado: BOE-A-1998-10720
+    titulo: Real Decreto 777/1998, de 30 de abril, por el que se desarrollan determinados
+      aspectos de la ordenación de la formación profesional en el ámbito del sistema
+      educativo.
+    jurisdiccion: España
+    ambito: Estatal
+    tipo_disposicion: Real Decreto / Orden
+    fecha_publicacion: '1998-05-08'
+    estado: Vigente
+    redaccion: consolidada
+    categoria_canonica: 08_personal_docente
+    subcategoria: Especialidades y habilitaciones
+    tags:
+    - estatal
+    - boe
+    - 08_personal_docente
+    path: estatal/08_personal_docente/BOE_1998_10720_abril_desarrollan_determinados_aspectos.md
+  norm-es-1999-8849:
+    id: norm-es-1999-8849
+    codigo_sintetizado: BOE-A-1999-8849
+    titulo: Orden de 9 de abril de 1999 por la que se dispone la publicación del Convenio
+      sobre el régimen económico-laboral de las personas que, no perteneciendo a los
+      Cuerpos de Funcionarios Docentes, están encargadas de la enseñanza de la religión
+      católica en los centros públicos de Educación Infantil, de Educación Primaria
+      y de Educación Secundaria.
+    jurisdiccion: España
+    ambito: Estatal
+    tipo_disposicion: Real Decreto / Orden
+    fecha_publicacion: '1999-04-20'
+    estado: Vigente
+    redaccion: consolidada
+    categoria_canonica: 08_personal_docente
+    subcategoria: Profesorado de religión
+    tags:
+    - estatal
+    - boe
+    - 08_personal_docente
+    path: estatal/08_personal_docente/BOE_1999_8849_perteneciendo_cuerpos_funcionarios_docentes.md
+  norm-es-2004-5771:
+    id: norm-es-2004-5771
+    codigo_sintetizado: BOE-A-2004-5771
+    titulo: Orden ECD/826/2004, de 22 de marzo, por la que se aprueban los temarios
+      que han de regir en los procedimientos selectivos para el ingreso, acceso y
+      adquisición de nuevas especialidades en los Cuerpos de Profesores de Artes Plásticas
+      y Diseño y Maestros de Taller de Artes Plásticas y Diseño.
+    jurisdiccion: España
+    ambito: Estatal
+    tipo_disposicion: Real Decreto / Orden
+    fecha_publicacion: '2004-03-31'
+    estado: Vigente
+    redaccion: consolidada
+    categoria_canonica: 08_personal_docente
+    subcategoria: Oposiciones y acceso
+    tags:
+    - estatal
+    - boe
+    - 08_personal_docente
+    path: estatal/08_personal_docente/BOE_2004_5771_marzo_aprueban_temarios_regir.md
+  norm-es-2007-22017:
+    id: norm-es-2007-22017
+    codigo_sintetizado: BOE-A-2007-22017
+    titulo: Resolución de 17 de diciembre de 2007, de la Secretaría de Estado de Universidades
+      e Investigación, por la que se publica el Acuerdo de Consejo de Ministros de
+      14 de diciembre de 2007, por el que se establecen las condiciones a las que
+      deberán adecuarse los planes de estudios conducentes a la obtención de títulos
+      que habiliten para el ejercicio de las profesiones reguladas de Profesor de
+      Educación Secundaria Obligatoria y Bachillerato, Formación Profesional y Enseñanzas
+      de Idiomas.
+    jurisdiccion: España
+    ambito: Estatal
+    tipo_disposicion: Real Decreto / Orden
+    fecha_publicacion: '2007-12-21'
+    estado: Vigente
+    redaccion: consolidada
+    categoria_canonica: 08_personal_docente
+    subcategoria: Formación del profesorado
+    tags:
+    - estatal
+    - boe
+    - 08_personal_docente
+    path: estatal/08_personal_docente/BOE_2007_22017_secretaría_estado_universidades_investigación.md
+  norm-es-2007-22450:
+    id: norm-es-2007-22450
+    codigo_sintetizado: BOE-A-2007-22450
+    titulo: Orden ECI/3858/2007, de 27 de diciembre, por la que se establecen los
+      requisitos para la verificación de los títulos universitarios oficiales que
+      habiliten para el ejercicio de las profesiones de Profesor de Educación Secundaria
+      Obligatoria y Bachillerato, Formación Profesional y Enseñanzas de Idiomas.
+    jurisdiccion: España
+    ambito: Estatal
+    tipo_disposicion: Real Decreto / Orden
+    fecha_publicacion: '2007-12-29'
+    estado: Vigente
+    redaccion: consolidada
+    categoria_canonica: 08_personal_docente
+    subcategoria: Formación del profesorado
+    tags:
+    - estatal
+    - boe
+    - 08_personal_docente
+    path: estatal/08_personal_docente/BOE_2007_22450_diciembre_establecen_requisitos_para.md
+  norm-es-2007-5478:
+    id: norm-es-2007-5478
+    codigo_sintetizado: BOE-A-2007-5478
+    titulo: Orden ECI/592/2007, de 12 de marzo, por la que se aprueba el temario que
+      ha de regir en el procedimiento de ingreso, accesos y adquisición de nuevas
+      especialidades, para la especialidad de Primaria en el Cuerpo de Maestros, regulada
+      por el Real Decreto 276/2007, de 23 de febrero.
+    jurisdiccion: España
+    ambito: Estatal
+    tipo_disposicion: Real Decreto / Orden
+    fecha_publicacion: '2007-03-15'
+    estado: Vigente
+    redaccion: consolidada
+    categoria_canonica: 08_personal_docente
+    subcategoria: Oposiciones y acceso
+    tags:
+    - estatal
+    - boe
+    - 08_personal_docente
+    path: estatal/08_personal_docente/BOE_2007_5478_marzo_aprueba_temario_regir.md
+  norm-es-2009-20550:
+    id: norm-es-2009-20550
+    codigo_sintetizado: BOE-A-2009-20550
+    titulo: Orden EDU/3429/2009, de 11 de diciembre, por la que se aprueba el temario
+      de la fase de oposición del procedimiento selectivo de acceso al Cuerpo de Inspectores
+      de Educación.
+    jurisdiccion: España
+    ambito: Estatal
+    tipo_disposicion: Real Decreto / Orden
+    fecha_publicacion: '2009-12-21'
+    estado: Vigente
+    redaccion: consolidada
+    categoria_canonica: 08_personal_docente
+    subcategoria: Oposiciones y acceso
+    tags:
+    - estatal
+    - boe
+    - 08_personal_docente
+    path: estatal/08_personal_docente/BOE_2009_20550_diciembre_aprueba_temario_fase.md
+  norm-es-2010-10424:
+    id: norm-es-2010-10424
+    codigo_sintetizado: BOE-A-2010-10424
+    titulo: Orden PRE/1744/2010, de 30 de junio, por la que se regula el procedimiento
+      de reconocimiento, control y seguimiento de las situaciones de incapacidad temporal,
+      riesgo durante el embarazo y riesgo durante la lactancia natural en el Régimen
+      Especial de la Seguridad Social de los Funcionarios Civiles del Estado.
+    jurisdiccion: España
+    ambito: Estatal
+    tipo_disposicion: Real Decreto / Orden
+    fecha_publicacion: '2010-07-01'
+    estado: Vigente
+    redaccion: consolidada
+    categoria_canonica: 08_personal_docente
+    subcategoria: Salud laboral y vigilancia
+    tags:
+    - estatal
+    - boe
+    - 08_personal_docente
+    path: estatal/08_personal_docente/BOE_2010_10424_junio_regula_procedimiento_reconocimiento.md
+  norm-es-2011-15628:
+    id: norm-es-2011-15628
+    codigo_sintetizado: BOE-A-2011-15628
+    titulo: Orden EDU/2645/2011, de 23 de septiembre, por la que se establece la formación
+      equivalente a la formación pedagógica y didáctica exigida para aquellas personas
+      que estando en posesión de una titulación declarada equivalente a efectos de
+      docencia no pueden realizar los estudios de máster.
+    jurisdiccion: España
+    ambito: Estatal
+    tipo_disposicion: Real Decreto / Orden
+    fecha_publicacion: '2011-10-05'
+    estado: Vigente
+    redaccion: consolidada
+    categoria_canonica: 08_personal_docente
+    subcategoria: Formación del profesorado
+    tags:
+    - estatal
+    - boe
+    - 08_personal_docente
+    path: estatal/08_personal_docente/BOE_2011_15628_septiembre_establece_formación_equivalente.md
+  norm-es-2011-16923:
+    id: norm-es-2011-16923
+    codigo_sintetizado: BOE-A-2011-16923
+    titulo: Orden EDU/2886/2011, de 20 de octubre, por la que se regula la convocatoria,
+      reconocimiento, certificación y registro de las actividades de formación permanente
+      del profesorado.
+    jurisdiccion: España
+    ambito: Estatal
+    tipo_disposicion: Real Decreto / Orden
+    fecha_publicacion: '2011-10-28'
+    estado: Vigente
+    redaccion: consolidada
+    categoria_canonica: 08_personal_docente
+    subcategoria: Formación del profesorado
+    tags:
+    - estatal
+    - boe
+    - 08_personal_docente
+    path: estatal/08_personal_docente/BOE_2011_16923_octubre_regula_convocatoria_reconocimiento.md
+  norm-es-2011-17890:
+    id: norm-es-2011-17890
+    codigo_sintetizado: BOE-A-2011-17890
+    titulo: Real Decreto 1619/2011, de 14 de noviembre, por el que se establece el
+      nuevo régimen de equivalencias de los estudios y titulaciones de Ciencias Eclesiásticas
+      de nivel universitario respecto de los títulos universitarios oficiales españoles,
+      en cumplimiento de lo dispuesto en el Acuerdo entre el Estado español y la Santa
+      Sede de 3 de enero de 1979 sobre Enseñanza y Asuntos Culturales.
+    jurisdiccion: España
+    ambito: Estatal
+    tipo_disposicion: Real Decreto / Orden
+    fecha_publicacion: '2011-11-16'
+    estado: Vigente
+    redaccion: consolidada
+    categoria_canonica: 08_personal_docente
+    subcategoria: Profesorado de religión
+    tags:
+    - estatal
+    - boe
+    - 08_personal_docente
+    path: estatal/08_personal_docente/BOE_2011_17890_noviembre_establece_nuevo_régimen.md
+  norm-es-2012-5337:
+    id: norm-es-2012-5337
+    codigo_sintetizado: BOE-A-2012-5337
+    titulo: Real Decreto-ley 14/2012, de 20 de abril, de medidas urgentes de racionalización
+      del gasto público en el ámbito educativo.
+    jurisdiccion: España
+    ambito: Estatal
+    tipo_disposicion: Real Decreto / Orden
+    fecha_publicacion: '2012-04-21'
+    estado: Vigente
+    redaccion: consolidada
+    categoria_canonica: 08_personal_docente
+    subcategoria: Jornada laboral y horarios
+    tags:
+    - estatal
+    - boe
+    - 08_personal_docente
+    path: estatal/08_personal_docente/BOE_2012_5337_abril_medidas_urgentes_racionalización.md
+  norm-es-2012-8745:
+    id: norm-es-2012-8745
+    codigo_sintetizado: BOE-A-2012-8745
+    titulo: Ley 2/2012, de 29 de junio, de Presupuestos Generales del Estado para
+      el año 2012.
+    jurisdiccion: España
+    ambito: Estatal
+    tipo_disposicion: Real Decreto / Orden
+    fecha_publicacion: '2012-06-30'
+    estado: Vigente
+    redaccion: consolidada
+    categoria_canonica: 08_personal_docente
+    subcategoria: Jornada laboral y horarios
+    tags:
+    - estatal
+    - boe
+    - 08_personal_docente
+    path: estatal/08_personal_docente/BOE_2012_8745_junio_presupuestos_generales_estado.md
+  norm-es-2012-9282:
+    id: norm-es-2012-9282
+    codigo_sintetizado: BOE-A-2012-9282
+    titulo: Ley 4/2012, de 25 de junio, de medidas administrativas y fiscales.
+    jurisdiccion: España
+    ambito: Estatal
+    tipo_disposicion: Real Decreto / Orden
+    fecha_publicacion: '2012-07-12'
+    estado: Vigente
+    redaccion: consolidada
+    categoria_canonica: 08_personal_docente
+    subcategoria: Permisos, licencias y vacaciones
+    tags:
+    - estatal
+    - boe
+    - 08_personal_docente
+    path: estatal/08_personal_docente/BOE_2012_9282_junio_medidas_administrativas_fiscales.md
+  norm-es-2012-9364:
+    id: norm-es-2012-9364
+    codigo_sintetizado: BOE-A-2012-9364
+    titulo: Real Decreto-ley 20/2012, de 13 de julio, de medidas para garantizar la
+      estabilidad presupuestaria y de fomento de la competitividad.
+    jurisdiccion: España
+    ambito: Estatal
+    tipo_disposicion: Real Decreto / Orden
+    fecha_publicacion: '2012-07-14'
+    estado: Vigente
+    redaccion: consolidada
+    categoria_canonica: 08_personal_docente
+    subcategoria: Salud laboral y vigilancia
+    tags:
+    - estatal
+    - boe
+    - 08_personal_docente
+    path: estatal/08_personal_docente/BOE_2012_9364_julio_medidas_para_garantizar.md
+  norm-es-2013-6281:
+    id: norm-es-2013-6281
+    codigo_sintetizado: BOE-A-2013-6281
+    titulo: Orden ECD/1058/2013, de 7 de junio, por la que se modifica la Orden EDU/2645/2011,
+      de 23 de septiembre, por la que se establece la formación equivalente a la formación
+      pedagógica y didáctica exigida para aquellas personas que, estando en posesión
+      de una titulación declarada equivalente a efectos de docencia, no pueden realizar
+      los estudios de máster.
+    jurisdiccion: España
+    ambito: Estatal
+    tipo_disposicion: Real Decreto / Orden
+    fecha_publicacion: '2013-06-12'
+    estado: Vigente
+    redaccion: consolidada
+    categoria_canonica: 08_personal_docente
+    subcategoria: Formación del profesorado
+    tags:
+    - estatal
+    - boe
+    - 08_personal_docente
+    path: estatal/08_personal_docente/BOE_2013_6281_junio_modifica_orden_edu26452011.md
+  norm-es-2014-7684:
+    id: norm-es-2014-7684
+    codigo_sintetizado: BOE-A-2014-7684
+    titulo: Real Decreto 625/2014, de 18 de julio, por el que se regulan determinados
+      aspectos de la gestión y control de los procesos por incapacidad temporal en
+      los primeros trescientos sesenta y cinco días de su duración.
+    jurisdiccion: España
+    ambito: Estatal
+    tipo_disposicion: Real Decreto / Orden
+    fecha_publicacion: '2014-07-21'
+    estado: Vigente
+    redaccion: consolidada
+    categoria_canonica: 08_personal_docente
+    subcategoria: Salud laboral y vigilancia
+    tags:
+    - estatal
+    - boe
+    - 08_personal_docente
+    path: estatal/08_personal_docente/BOE_2014_7684_julio_regulan_determinados_aspectos.md
+  norm-es-2015-6839:
+    id: norm-es-2015-6839
+    codigo_sintetizado: BOE-A-2015-6839
+    titulo: Orden ESS/1187/2015, de 15 de junio, por la que se desarrolla el Real
+      Decreto 625/2014, de 18 de julio, por el que se regulan determinados aspectos
+      de la gestión y control de los procesos por incapacidad temporal en los primeros
+      trescientos sesenta y cinco días de su duración.
+    jurisdiccion: España
+    ambito: Estatal
+    tipo_disposicion: Real Decreto / Orden
+    fecha_publicacion: '2015-06-20'
+    estado: Vigente
+    redaccion: consolidada
+    categoria_canonica: 08_personal_docente
+    subcategoria: Salud laboral y vigilancia
+    tags:
+    - estatal
+    - boe
+    - 08_personal_docente
+    path: estatal/08_personal_docente/BOE_2015_6839_junio_desarrolla_real_decreto.md
+  norm-es-2015-9453:
+    id: norm-es-2015-9453
+    codigo_sintetizado: BOE-A-2015-9453
+    titulo: Orden ECD/1753/2015, de 25 de agosto, por la que se aprueban los temarios
+      que han de regir en los procedimientos de ingreso, acceso y adquisición de nuevas
+      especialidades en el Cuerpo de Profesores de Música y Artes Escénicas en las
+      especialidades vinculadas a las enseñanzas de música y de danza.
+    jurisdiccion: España
+    ambito: Estatal
+    tipo_disposicion: Real Decreto / Orden
+    fecha_publicacion: '2015-08-28'
+    estado: Vigente
+    redaccion: consolidada
+    categoria_canonica: 08_personal_docente
+    subcategoria: Oposiciones y acceso
+    tags:
+    - estatal
+    - boe
+    - 08_personal_docente
+    path: estatal/08_personal_docente/BOE_2015_9453_agosto_aprueban_temarios_regir.md
+  norm-es-2019-3307:
+    id: norm-es-2019-3307
+    codigo_sintetizado: BOE-A-2019-3307
+    titulo: Ley 4/2019, de 7 de marzo, de mejora de las condiciones para el desempeño
+      de la docencia y la enseñanza en el ámbito de la educación no universitaria.
+    jurisdiccion: España
+    ambito: Estatal
+    tipo_disposicion: Real Decreto / Orden
+    fecha_publicacion: '2019-03-08'
+    estado: Vigente
+    redaccion: consolidada
+    categoria_canonica: 08_personal_docente
+    subcategoria: Jornada laboral y horarios
+    tags:
+    - estatal
+    - boe
+    - 08_personal_docente
+    path: estatal/08_personal_docente/BOE_2019_3307_marzo_mejora_condiciones_para.md
+  norm-es-2022-16194:
+    id: norm-es-2022-16194
+    codigo_sintetizado: BOE-A-2022-16194
+    titulo: Real Decreto 800/2022, de 4 de octubre, por el que se regula la integración
+      del profesorado del Cuerpo, a extinguir, de Profesores Técnicos de Formación
+      Profesional en el Cuerpo de Profesores de Enseñanza Secundaria, y se modifican
+      diversos reales decretos relativos al profesorado de enseñanzas no universitarias.
+    jurisdiccion: España
+    ambito: Estatal
+    tipo_disposicion: Real Decreto / Orden
+    fecha_publicacion: '2022-10-05'
+    estado: Vigente
+    redaccion: consolidada
+    categoria_canonica: 08_personal_docente
+    subcategoria: Especialidades y habilitaciones
+    tags:
+    - estatal
+    - boe
+    - 08_personal_docente
+    path: estatal/08_personal_docente/BOE_2022_16194_octubre_regula_integración_profesorado.md
+  norm-es-2023-9553:
+    id: norm-es-2023-9553
+    codigo_sintetizado: BOE-A-2023-9553
+    titulo: Real Decreto 286/2023, de 18 de abril, por el que se regula la asignación
+      de materias en Educación Secundaria Obligatoria y en Bachillerato a las especialidades
+      de distintos cuerpos de funcionarios docentes, y se modifican diversas normas
+      relativas al profesorado de enseñanzas no universitarias.
+    jurisdiccion: España
+    ambito: Estatal
+    tipo_disposicion: Real Decreto / Orden
+    fecha_publicacion: '2023-04-19'
+    estado: Vigente
+    redaccion: consolidada
+    categoria_canonica: 08_personal_docente
+    subcategoria: Especialidades y habilitaciones
+    tags:
+    - estatal
+    - boe
+    - 08_personal_docente
+    path: estatal/08_personal_docente/BOE_2023_9553_abril_regula_asignación_materias.md
   norm-es-rd-1364-2010:
     id: norm-es-rd-1364-2010
     codigo_sintetizado: RD1364_2010 Regulacion del Concurso de Traslados Docente
