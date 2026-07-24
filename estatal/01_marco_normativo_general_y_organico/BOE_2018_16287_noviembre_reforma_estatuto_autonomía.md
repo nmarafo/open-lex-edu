@@ -1,0 +1,36 @@
+---
+id: norm-es-2018-16287
+codigo_sintetizado: "BOE-A-2018-16287"
+titulo: "Resolución de 7 de noviembre de 2018, del Ayuntamiento de Zaragoza, referente a la convocatoria para proveer varias plazas."
+jurisdiccion: "España"
+ambito: "Estatal"
+organo_emisor: "Jefatura del Estado / Ministerio"
+tipo_disposicion: "Real Decreto / Orden"
+fecha_publicacion: "2018-11-29"
+boletin: "BOE"
+estado: "Vigente"
+redaccion: "consolidada"
+fuente_oficial: "https://www.boe.es/buscar/act.php?id=BOE-A-2018-16287"
+
+clasificacion:
+  categoria_canonica: "01_marco_normativo_general_y_organico"
+  subcategoria: "Marco normativo general"
+
+tags:
+  - estatal
+  - boe
+  - 01_marco_normativo_general_y_organico
+
+relaciones: {}
+fundamentos_derecho: []
+---
+
+# Resolución de 7 de noviembre de 2018, del Ayuntamiento de Zaragoza, referente a la convocatoria para proveer varias plazas.
+
+En el «Boletín Oficial de la Provincia» número 256 de Zaragoza de 7 de noviembre de 2018 se han publicado íntegramente las bases que han de regir el proceso selectivo para la provisión de plazas del Cuerpo de la Policía Local (Cuatro plazas Inspector Grupo/Subgrupo A2, seis plazas Subinspector Grupo/Subgrupo A2, diecisiete plazas Oficial Grupo/Subgrupo C1, mediante acceso por el turno de promoción interna.
+
+El plazo de presentación de solicitudes será de veinte días naturales a contar desde el siguiente al de la publicación de este anuncio en el «Boletín Oficial del Estado».
+
+Los sucesivos anuncios referentes a esta convocatoria, cuando procedan de conformidad con las bases, se harán públicos en la forma prevista en las bases.
+
+Zaragoza, 7 de noviembre de 2018.–El Consejero Delegado de Servicios Públicos y Personal, Alberto Cubero Serrano.
