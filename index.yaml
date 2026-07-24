@@ -1,5 +1,5 @@
 version: '1.0'
-total_normas: 12
+total_normas: 16
 normas:
   norm-can-d-84-2024:
     id: norm-can-d-84-2024
@@ -39,6 +39,25 @@ normas:
     - administracion_publica
     - competencias
     path: autonómica/canarias/01_marco_normativo_general_y_organico/L14_1990_regimen_juridico_administraciones_canarias.md
+  norm-can-l-2-1987:
+    id: norm-can-l-2-1987
+    codigo_sintetizado: L2_1987 Ley de la Funcion Publica Canaria
+    titulo: Ley 2/1987, de 30 de marzo, de la Función Pública Canaria.
+    jurisdiccion: Canarias
+    ambito: Autonómico
+    tipo_disposicion: Ley
+    fecha_publicacion: '1987-04-03'
+    estado: Vigente
+    redaccion: consolidada
+    categoria_canonica: 01_marco_normativo_general_y_organico
+    subcategoria: Empleados públicos
+    tags:
+    - canarias
+    - funcion_publica
+    - empleados_publicos
+    - seleccion_personal
+    - situacion_administrativa
+    path: autonómica/canarias/01_marco_normativo_general_y_organico/L2_1987_funcion_publica_canaria.md
   norm-can-l-4-2023:
     id: norm-can-l-4-2023
     codigo_sintetizado: L4_2023 Ley del Gobierno de Canarias
@@ -172,6 +191,25 @@ normas:
     - derecho_educacion
     - estatal
     path: estatal/01_marco_normativo_general_y_organico/CE_1978_constitucion_espanola.md
+  norm-es-l-19-2013:
+    id: norm-es-l-19-2013
+    codigo_sintetizado: L19_2013 Transparencia y Buen Gobierno
+    titulo: Ley 19/2013, de 9 de diciembre, de transparencia, acceso a la información
+      pública y buen gobierno.
+    jurisdiccion: España
+    ambito: Estatal
+    tipo_disposicion: Ley
+    fecha_publicacion: '2013-12-10'
+    estado: Vigente
+    redaccion: consolidada
+    categoria_canonica: 01_marco_normativo_general_y_organico
+    subcategoria: Empleados públicos
+    tags:
+    - transparencia
+    - buen_gobierno
+    - acceso_informacion
+    - estatal
+    path: estatal/01_marco_normativo_general_y_organico/L19_2013_transparencia_buen_gobierno.md
   norm-es-l-39-2015:
     id: norm-es-l-39-2015
     codigo_sintetizado: L39_2015 Procedimiento Administrativo Comun
@@ -191,6 +229,44 @@ normas:
     - recursos
     - estatal
     path: estatal/01_marco_normativo_general_y_organico/L39_2015_procedimiento_administrativo_comun.md
+  norm-es-l-40-2015:
+    id: norm-es-l-40-2015
+    codigo_sintetizado: L40_2015 Regimen Juridico del Sector Publico
+    titulo: Ley 40/2015, de 1 de octubre, de Régimen Jurídico del Sector Público.
+    jurisdiccion: España
+    ambito: Estatal
+    tipo_disposicion: Ley
+    fecha_publicacion: '2015-10-02'
+    estado: Vigente
+    redaccion: consolidada
+    categoria_canonica: 01_marco_normativo_general_y_organico
+    subcategoria: Empleados públicos
+    tags:
+    - sector_publico
+    - regimen_juridico
+    - administracion
+    - responsabilidad_patrimonial
+    - estatal
+    path: estatal/01_marco_normativo_general_y_organico/L40_2015_regimen_juridico_sector_publico.md
+  norm-es-l-53-1984:
+    id: norm-es-l-53-1984
+    codigo_sintetizado: L53_1984 Incompatibilidades del Personal Publico
+    titulo: Ley 53/1984, de 26 de diciembre, de Incompatibilidades del personal al
+      servicio de las Administraciones Públicas.
+    jurisdiccion: España
+    ambito: Estatal
+    tipo_disposicion: Ley
+    fecha_publicacion: '1985-01-04'
+    estado: Vigente
+    redaccion: consolidada
+    categoria_canonica: 01_marco_normativo_general_y_organico
+    subcategoria: Empleados públicos
+    tags:
+    - incompatibilidades
+    - empleados_publicos
+    - funcion_publica
+    - estatal
+    path: estatal/01_marco_normativo_general_y_organico/L53_1984_incompatibilidades_personal_publico.md
   norm-es-lo-2-2006:
     id: norm-es-lo-2-2006
     codigo_sintetizado: LO2_2006 Ley Organica de Educacion
@@ -234,6 +310,13 @@ relaciones_grafo:
 - origen: norm-can-d-84-2024
   tipo: desarrolla
   destino: norm-can-d-123-2023
+  articulos_origen:
+  - Todos
+  articulos_destino:
+  - Todos
+- origen: norm-can-l-2-1987
+  tipo: desarrolla
+  destino: norm-es-rdl-5-2015
   articulos_origen:
   - Todos
   articulos_destino:
