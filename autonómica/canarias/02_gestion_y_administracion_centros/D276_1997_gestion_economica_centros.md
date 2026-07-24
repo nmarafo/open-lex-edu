@@ -41,21 +41,80 @@ fundamentos_derecho:
   - '63'
 ---
 
-# Decreto 276/1997, de 27 de noviembre - Gestión Económica de Centros Docentes Públicos en Canarias
+# Decreto 276/1997, de 27 de noviembre, por el que se regula el procedimiento de gestión económica de los centros docentes públicos no universitarios de la Comunidad Autónoma de Canarias.
 
-## Capítulo I. Disposiciones generales
+Gobierno de Canarias
 
-### Artículo 1. Objeto y ámbito de aplicación
-1. El presente decreto tiene por objeto regular el procedimiento de gestión económica y la autonomía en la administración de recursos de los centros docentes públicos no universitarios dependientes de la Consejería de Educación.
+Comunidad Autónoma de Canarias
 
-### Artículo 2. Autonomía de gestión económica
-1. Los centros docentes públicos dispondrán de autonomía en su gestión económica en los términos establecidos en las leyes y en el presente decreto.
+Boletín Oficial de Canarias
 
-### Artículo 3. Fondos en firme
-1. Los libramientos de fondos efectuados por la Consejería de Educación a los centros docentes públicos para gastos de funcionamiento tendrán la consideración de pagos en firme, no estando sujetos a devolución o reintegro al finalizar el ejercicio presupuestario.
+Accesibilidad
 
-## Capítulo II. Del Presupuesto del Centro
+Mapa web
 
-### Artículo 5. Elaboración y aprobación del presupuesto
-1. El equipo directivo elaborará el proyecto de presupuesto anual del centro conforme a las instrucciones dictadas por la Consejería competente en materia de educación.
-2. Corresponde al Consejo Escolar del centro la aprobación del proyecto de presupuesto presentado por la Dirección.
+Contacto
+
+Versión texto
+
+Inicio
+
+Archivo
+
+Búsqueda
+
+Estás en:
+
+Inicio
+
+Archivo
+
+Año 1997
+
+1997/162. Miércoles 17 de Diciembre de 1997
+
+1726
+
+<p>Menú de búsqueda y navegación</p>
+
+Siguiente
+
+BOC Nº 162. Miércoles 17 de Diciembre de 1997 - 1726
+
+I. DISPOSICIONES GENERALES - Consejería de Economía y Hacienda
+
+1726 - ORDEN de 12 de diciembre de 1997, por la que se modifica la Orden de 19 de agosto de 1997, que regula las operaciones de cierre del ejercicio 1997 y apertura de 1998 en relación a la contabilidad de los gastos e ingresos públicos (B.O.C. nº 116, de 5.9.97).
+
+Descargar en formato pdf
+
+La Orden de este Departamento de 19 de agosto de 1997 establece en su artículo 4º las fechas límites de entrada de los diferentes documentos contables de gestión presupuestaria, en las intervenciones.
+
+Las medidas de control del gasto público, así como la imposibilidad de la Administración del Estado para incorporar remanentes del ejercicio 1997 a 1998, pueden ocasionar que la Administración autonómica deje de recibir fondos estatales finalistas, debido a las fechas de admisión de la documentación contable de gestión del gasto con ellos financiados.
+
+Por ello, y en virtud de las facultades derivadas del artículo 89 de la Ley 7/1984, de 11 de diciembre, de la Hacienda Pública de la Comunidad Autónoma de Canarias; el artículo 32.c) de la Ley 1/1983, de 14 de abril, del Gobierno y de la Administración Pública de la Comunidad Autónoma de Canarias, y el artículo 17.2 del Decreto 338/1995,
+
+D I S P O N G O:
+
+Artículo único.- Se modifica la Orden de 19 de agosto de 1997, por la que se regulan las operaciones de cierre del ejercicio 1997 y apertura de 1998 en relación a la contabilidad de los gastos e ingresos públicos, añadiendo una Disposición Adicional Segunda, con el siguiente contenido:
+
+Segunda.- 1º) Los documentos contables RC-300, A, D, y AD referidos a expedientes de gastos financiados con recursos del Plan Integral de Empleo de Canarias (P.I.E.C.) tendrán como fecha límite de entrada en la Intervención el 31 de diciembre de 1997.
+
+2º) Los expedientes que justifiquen los documentos contables señalados en el número anterior, contendrán una resolución expresa del Consejero de Economía y Hacienda que determine las aplicaciones presupuestarias y proyectos de inversión o líneas de actuación que se financian con recursos del P.I.E.C.
+
+DISPOSICIÓN FINAL
+
+La presente Orden entrará en vigor el mismo día de su publicación en el Boletín Oficial de Canarias.
+
+Las Palmas de Gran Canaria, a 12 de diciembre de 1997.
+
+EL CONSEJERO DE
+
+ECONOMÍA Y HACIENDA,
+
+José Carlos Francisco Díaz.
+
+© Gobierno de Canarias
+
+Aviso Legal
+
+Sugerencias y Reclamaciones

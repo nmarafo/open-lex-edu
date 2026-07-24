@@ -40,15 +40,68 @@ fundamentos_derecho:
   - '61'
 ---
 
-# Decreto 82/1994, de 13 de mayo - Centros del Profesorado (CEP) en Canarias
+# Decreto 82/1994, de 13 de mayo, por el que se regulan la creación, organización y funcionamiento de los Centros del Profesorado en la Comunidad Autónoma de Canarias.
 
-## Capítulo I. Objeto y finalidad
+Gobierno de Canarias
 
-### Artículo 1. Naturaleza y definición
-1. Los Centros del Profesorado (CEP) son instituciones públicas educativas dependientes de la Consejería de Educación destinadas a la formación permanente del profesorado, la dinamización pedagógica y la innovación educativa en los centros docentes no universitarios de Canarias.
+Comunidad Autónoma de Canarias
 
-### Artículo 2. Funciones de los CEP
-Son funciones principales de los Centros del Profesorado:
-a) Detectar las necesidades formativas del profesorado en su ámbito de actuación.
-b) Diseñar, coordinar y ejecutar actividades de formación continua e innovación educativa.
-c) Asesorar a los equipos docentes en la elaboración e implantación de proyectos educativos y curriculares.
+Boletín Oficial de Canarias
+
+Accesibilidad
+
+Mapa web
+
+Contacto
+
+Versión texto
+
+Inicio
+
+Archivo
+
+Búsqueda
+
+Estás en:
+
+Inicio
+
+Archivo
+
+Año 1994
+
+1994/071. Viernes 10 de Junio de 1994
+
+828
+
+<p>Menú de búsqueda y navegación</p>
+
+Siguiente
+
+BOC Nº 071. Viernes 10 de Junio de 1994 - 828
+
+II. AUTORIDADES Y PERSONAL - Nombramientos, situaciones e incidencias - Presidencia del Gobierno
+
+828 - DECRETO 28/1994, de 6 de junio, del Presidente, por el que se dispone la sustitución del Director General del Servicio Jurídico durante su ausencia.
+
+Descargar en formato pdf
+
+De conformidad con lo previsto en el artículo 5, apartado 2, del Decreto 212/1991, de 11 de septiembre, de organización de los Departamentos de la Administración Autonómica de Canarias,
+
+D I S P O N G O:
+
+Que durante la ausencia del Director General del Servicio Jurídico, D. Martín Orozco Muñoz, del 8 al 12 de junio, ambos inclusive, del presente año, le sustituya la Letrada del Servicio Jurídico Dña. Begoña Ibarra García.
+
+Dado en Las Palmas de Gran Canaria, a 6 de junio de 1994.
+
+EL PRESIDENTE
+
+DEL GOBIERNO,
+
+Manuel Hermoso Rojas.
+
+© Gobierno de Canarias
+
+Aviso Legal
+
+Sugerencias y Reclamaciones

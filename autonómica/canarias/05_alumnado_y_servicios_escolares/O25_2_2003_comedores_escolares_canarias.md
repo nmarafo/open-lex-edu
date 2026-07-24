@@ -40,9 +40,74 @@ fundamentos_derecho:
   - '57'
 ---
 
-# Orden de 25 de febrero de 2003 - Comedores Escolares en Canarias
+# Orden de 25 de febrero de 2003, por la que se regula la organización y funcionamiento de los comedores escolares en los centros docentes públicos no universitarios dependientes de la Consejería de Educación, Cultura y Deportes.
 
-## Capítulo I. Objeto y naturaleza del servicio
+Gobierno de Canarias
 
-### Artículo 1. Definición
-1. El servicio de comedor escolar es un servicio educativo y complementario que la Consejería de Educación presta a la comunidad educativa para garantizar la escolarización y favorecer la conciliación de la vida laboral y familiar.
+Comunidad Autónoma de Canarias
+
+Boletín Oficial de Canarias
+
+Accesibilidad
+
+Mapa web
+
+Contacto
+
+Versión texto
+
+Inicio
+
+Archivo
+
+Búsqueda
+
+Estás en:
+
+Inicio
+
+Archivo
+
+Año 2003
+
+2003/046. Viernes 7 de Marzo de 2003
+
+395
+
+<p>Menú de búsqueda y navegación</p>
+
+Anterior
+
+Siguiente
+
+BOC Nº 046. Viernes 7 de Marzo de 2003 - 395
+
+III. OTRAS RESOLUCIONES - Consejería de Economía, Hacienda y Comercio
+
+395 - ORDEN de 14 de febrero de 2003, por la que se dispone la publicación de los programas de actuación, inversiones y financiación de las empresas públicas y participadas de la Comunidad Autónoma de Canarias para el ejercicio 2003.
+
+Descargar en formato pdf
+
+El artículo 58.2 de la Ley Territorial 7/1984, de 11 de diciembre, de la Hacienda Pública de la Comunidad Autónoma de Canarias, establece que los programas de actuación de las empresas públicas y participadas, una vez aprobados por el Consejo de Gobierno, se publicarán en el Boletín Oficial de Canarias.
+
+Aprobados por el Gobierno de Canarias, en sesión de 5 de diciembre de 2002, los referidos programas de actuación, y en el ejercicio de las facultades conferidas,
+
+D I S P O N G O:
+
+Publicar los programas de actuación, inversiones y financiación de las empresas públicas y participadas de la Comunidad Autónoma de Canarias para el 2003, conforme al detalle contenido en el anexo.
+
+Las Palmas de Gran Canaria, a 14 de febrero de 2003.
+
+EL CONSEJERO DE ECONOMÍA,
+
+HACIENDA Y COMERCIO,
+
+Adán Martín Menis.
+
+Ver anexos - páginas 3601-3766
+
+© Gobierno de Canarias
+
+Aviso Legal
+
+Sugerencias y Reclamaciones

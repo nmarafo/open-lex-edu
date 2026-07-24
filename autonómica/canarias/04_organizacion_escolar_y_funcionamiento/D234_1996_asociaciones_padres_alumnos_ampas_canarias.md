@@ -43,15 +43,62 @@ fundamentos_derecho:
   - '27'
 ---
 
-# Decreto 234/1996, de 12 de septiembre - AMPAS en Canarias
+# Decreto 234/1996, de 12 de septiembre, por el que se regulan las Asociaciones de Madres y Padres de Alumnos y sus Federaciones y Confederaciones en la Comunidad Autónoma de Canarias.
 
-## Capítulo I. Disposiciones generales
+Gobierno de Canarias
 
-### Artículo 1. Objeto y constitución
-1. El presente decreto tiene por objeto regular el régimen de constitución, reconocimiento, funcionamiento y registro de las Asociaciones de Madres y Padres de Alumnos (AMPAS) en los centros docentes no universitarios de la Comunidad Autónoma de Canarias.
+Comunidad Autónoma de Canarias
 
-### Artículo 2. Fines de las Asociaciones
-Son fines prioritarios de las AMPAS:
-a) Asistir a los padres, madres o tutores legales en todo lo concerniente a la educación de sus hijos e hijas.
-b) Colaborar en las actividades educativas de los centros docentes.
-c) Promover la participación de los padres y madres en la gestión del centro a través del Consejo Escolar.
+Boletín Oficial de Canarias
+
+Accesibilidad
+
+Mapa web
+
+Contacto
+
+Versión texto
+
+Inicio
+
+Archivo
+
+Búsqueda
+
+Estás en:
+
+Inicio
+
+Archivo
+
+Año 1996
+
+1996/121. Lunes 23 de Septiembre de 1996
+
+1622
+
+<p>Menú de búsqueda y navegación</p>
+
+Anterior
+
+Siguiente
+
+BOC Nº 121. Lunes 23 de Septiembre de 1996 - 1622
+
+III. OTRAS RESOLUCIONES - Consejería de Economía y Hacienda
+
+1622 - CORRECCIÓN de errores de la Circular nº 3 de 20 de junio de 1996, de la Intervención General, acerca de los documentos contables que deben aportarse en los expedientes de contratación del personal laboral fijo y eventual (B.O.C. nº 109, de 28.8.96).
+
+Descargar en formato pdf
+
+Advertido error en el texto remitido para la publicación de la Circular de 20 de junio de 1996, acerca de los documentos contables que deben aportarse en los expedientes de contratación del personal laboral fijo y eventual, inserta en el Boletín Oficial de Canarias nº 109, del día 28 de agosto de 1996, a continuación se transcribe a fin de proceder a su rectificación:
+
+En
+
+la página 7831, instrucción tercera, segundo párrafo, donde dice: AD-421, debe decir D-501.
+
+© Gobierno de Canarias
+
+Aviso Legal
+
+Sugerencias y Reclamaciones

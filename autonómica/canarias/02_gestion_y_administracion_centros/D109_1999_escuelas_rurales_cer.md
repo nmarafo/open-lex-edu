@@ -40,17 +40,70 @@ fundamentos_derecho:
   - '82'
 ---
 
-# Decreto 109/1999, de 25 de mayo - Colectivos de Escuelas Rurales (CER) en Canarias
+# Decreto 109/1999, de 25 de mayo, por el que se regula el régimen de creación y funcionamiento de los Colectivos de Escuelas Rurales.
 
-## Capítulo I. Objeto y naturaleza
+Gobierno de Canarias
 
-### Artículo 1. Objeto
-1. El presente decreto tiene por objeto regular la creación, organización y funcionamiento de los Colectivos de Escuelas Rurales (en adelante, CER) en la Comunidad Autónoma de Canarias.
+Comunidad Autónoma de Canarias
 
-### Artículo 2. Definición
-1. Los Colectivos de Escuelas Rurales constituyen agrupaciones de centros docentes públicos de Educación Infantil y Primaria de carácter unitario e incompleto ubicados en el medio rural, organizados pedagógicamente de forma agrupada para garantizar la calidad educativa y el intercambio de recursos.
+Boletín Oficial de Canarias
 
-## Capítulo II. Organización pedagógica y de gestión
+Accesibilidad
 
-### Artículo 4. Consejo Escolar del Colectivo
-1. En cada CER se constituirá un Consejo Escolar de Colectivo como órgano de participación de la comunidad educativa de las escuelas unitarias integradas.
+Mapa web
+
+Contacto
+
+Versión texto
+
+Inicio
+
+Archivo
+
+Búsqueda
+
+Estás en:
+
+Inicio
+
+Archivo
+
+Año 1999
+
+1999/079. Viernes 18 de Junio de 1999
+
+1007
+
+<p>Menú de búsqueda y navegación</p>
+
+Anterior
+
+Siguiente
+
+BOC Nº 079. Viernes 18 de Junio de 1999 - 1007
+
+II. AUTORIDADES Y PERSONAL - Otras Administraciones - Universidad de La Laguna
+
+1007 - RESOLUCIÓN de 15 de abril de 1999, por la que se convocan pruebas selectivas para la provisión de plazas vacantes de la plantilla de personal laboral de esta Universidad.
+
+Descargar en formato pdf
+
+En cumplimiento de lo dispuesto en los Estatutos de esta Universidad, aprobados por Decreto 192/1985, de 23 de junio (B.O.E. nº 248, de 16 de octubre) y del vigente Convenio Colectivo para el Personal Laboral de Universidades Estatales (B.O.E. de 6 de octubre de 1990), con el fin de atender las necesidades del personal laboral, este Rectorado, en uso de las competencias que le están atribuidas por los artículos 18 y 49 de la Ley 11/1983, de 25 de agosto, de Reforma Universitaria, así como en los Estatutos de esta Universidad, ha resuelto:
+
+Primero.- Convocar, por el procedimiento de concurso-oposición, las plazas vacantes de la plantilla laboral de esta Universidad, que se detallan en el anexo de la presente Resolución.
+
+Segundo.- La realización de las pruebas se ajustará a lo establecido en la Ley 30/1984, de 2 de agosto; Ley 23/1988, de 29 de julio, de modificación de la Ley de Medidas para la Reforma anterior; Real Decreto 364/1995, de 10 de marzo (B.O.E. de 10 de abril), que aprueba el Reglamento General de Ingreso del Personal al servicio de la Administración General del Estado y de Provisión de Puestos de Trabajo y Promoción Profesional de los Funcionarios Civiles de la Administración General del Estado, así como las bases de la convocatoria.
+
+Tercero.- Los requisitos específicos para la categoría profesional de las plazas, órganos de selección, contenido de los ejercicios, y demás bases de la convocatoria figuran expuestas en los tablones de anuncios del Rectorado de la Universidad de La Laguna.
+
+Cuarto.- El plazo de presentación de solicitudes es de veinte días naturales, contados a partir de la publicación de esta convocatoria en el Boletín Oficial de Canarias.
+
+Quinto.- Las relaciones provisionales de admitidos y excluidos se harán públicas en el Boletín Oficial de Canarias y en los tablones de anuncios del Rectorado.
+
+La Laguna, a 15 de abril de 1999.- El Rector, José S. Gómez Soliño.
+
+© Gobierno de Canarias
+
+Aviso Legal
+
+Sugerencias y Reclamaciones

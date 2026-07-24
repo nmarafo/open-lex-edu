@@ -50,16 +50,104 @@ fundamentos_derecho:
   - '151'
 ---
 
-# Decreto 52/2009, de 12 de mayo - Reglamento de Ordenación de la Inspección de Educación de Canarias
+# Decreto 52/2009, de 12 de mayo, por el que se aprueba el Reglamento de Ordenación de la Inspección de Educación de la Comunidad Autónoma de Canarias.
 
-## Capítulo I. Naturaleza, ámbito y funciones
+Gobierno de Canarias
 
-### Artículo 1. Naturaleza y ámbito de actuación
-1. La Inspección de Educación es el órgano técnico de la Consejería competente en materia de educación encargado del ejercicio de las funciones de inspección, evaluación, supervisión y asesoramiento en todos los centros, servicios y programas del sistema educativo no universitario de Canarias.
+Comunidad Autónoma de Canarias
 
-### Artículo 2. Funciones de la Inspección de Educación
-Corresponde a la Inspección de Educación el ejercicio de las siguientes funciones principales:
-a) Supervisar y controlar el funcionamiento de los centros docentes y los programas educativos.
-b) Evaluar el sistema educativo, los centros y la función directiva y docente.
-c) Asesorar, orientar e informar a los distintos sectores de la comunidad educativa.
-d) Informar sobre los recursos, necesidades y propuestas de mejora del sistema educativo.
+Boletín Oficial de Canarias
+
+Accesibilidad
+
+Mapa web
+
+Contacto
+
+Versión texto
+
+Inicio
+
+Archivo
+
+Búsqueda
+
+Estás en:
+
+Inicio
+
+Archivo
+
+Año 2009
+
+2009/096. Jueves 21 de Mayo de 2009
+
+762
+
+<p>Menú de búsqueda y navegación</p>
+
+Siguiente
+
+BOC Nº 096. Jueves 21 de Mayo de 2009 - 762
+
+II. AUTORIDADES Y PERSONAL - Oposiciones y concursos - Consejería de Presidencia, Justicia y Seguridad
+
+762 - ORDEN de 14 de mayo de 2009, por la que se resuelve la convocatoria para la provisión, por el procedimiento de libre designación, de un puesto de trabajo en este Departamento, efectuada por Orden de esta Consejería de 18 de marzo de 2009.
+
+Descargar en formato pdf
+
+Efectuada convocatoria pública, mediante Orden de la Consejería de Presidencia, Justicia y Seguridad de 18 de marzo de 2009 (B.O.C. nº 59, de 26 de marzo), para la provisión, por el procedimiento de libre designación, del puesto de trabajo nº 3923, "Secretaria de Dirección", en la Dirección General de Relaciones con la Administración de Justicia de este Departamento.
+
+Visto el informe evacuado por la Dirección General de la Función Pública de conformidad con la base quinta de la convocatoria.
+
+Visto igualmente el informe-propuesta de nombramiento emitido por la Dirección General de Relaciones con la Administración de Justicia.
+
+Teniendo en cuenta las circunstancias y méritos alegados por los aspirantes, el Consejero de Presidencia, Justicia y Seguridad, de acuerdo con la base sexta de la convocatoria y en uso de la competencia que tiene atribuida por el artículo 29.1.c) de la Ley Territorial 14/1990, de 26 de julio, de Régimen Jurídico de las Administraciones Públicas de Canarias,
+
+R E S U E L V E:
+
+Primero.- Designar a la funcionaria Dña. María Luisa Acevedo García para el desempeño del puesto de trabajo que a continuación se indica:
+
+CENTRO DIRECTIVO: Dirección General de Relaciones con la Administración de Justicia.
+
+UNIDAD: apoyo al Director General.
+
+CÓDIGO DEL PUESTO: 3923.
+
+DENOMINACIÓN: Secretaria de Dirección.
+
+FUNCIONES: asistencia y apoyo al titular del Centro Directivo. Control de visitas, llamadas telefónicas. Trabajos mecanográfico e informático.
+
+NIVEL: 18.
+
+PUNTOS COMPLEMENTO ESPECÍFICO: 26.
+
+VÍNCULO: funcionario de carrera.
+
+ADMINISTRACIÓN DE PROCEDENCIA: Comunidad Autónoma de Canarias.
+
+GRUPO: D.
+
+ADSCRIPCIÓN CUERPO/ESCALA: D611.
+
+JORNADA: especial.
+
+LOCALIZACIÓN: Santa Cruz de Tenerife o Las Palmas de Gran Canaria.
+
+Segundo.- La funcionaria designada cesará en su actual puesto de trabajo en el plazo de tres días, contados desde el siguiente a la publicación en el Boletín Oficial de Canarias de esta Orden, y habrá de tomar posesión en igual plazo, si reside en la misma isla, o en un mes, si reside fuera de ella, contados desde el día siguiente al del cese.
+
+Contra la presente Orden, que pone fin a la vía administrativa, cabe interponer recurso contencioso-administrativo, en el plazo de dos meses, contados a partir del día siguiente al de su publicación, ante el Juzgado de lo Contencioso-Administrativo de Santa Cruz de Tenerife, o ante el Juzgado del mismo orden en cuya circunscripción tenga su domicilio el recurrente, a su elección. Asimismo, a criterio de los interesados, podrá interponerse en vía administrativa el recurso potestativo de reposición ante esta Consejería en el plazo de un mes a contar a partir del día siguiente a la publicación de esta Orden, en los términos previstos en los artículos 116 y 117 de la Ley 30/1992, de 26 de noviembre, de Régimen Jurídico de las Administraciones Públicas y del Procedimiento Administrativo Común.
+
+Santa Cruz de Tenerife, a 14 de mayo de 2009.
+
+EL CONSEJERO DE PRESIDENCIA,
+
+JUSTICIA Y SEGURIDAD,
+
+José Miguel Ruano León.
+
+© Gobierno de Canarias
+
+Aviso Legal
+
+Sugerencias y Reclamaciones

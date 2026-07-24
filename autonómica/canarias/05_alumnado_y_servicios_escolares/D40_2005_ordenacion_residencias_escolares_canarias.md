@@ -39,14 +39,74 @@ fundamentos_derecho:
   - '58'
 ---
 
-# Decreto 40/2005, de 16 de marzo - Residencias Escolares en Canarias
+# Decreto 40/2005, de 16 de marzo, de ordenación de las Residencias Escolares en la Comunidad Autónoma de Canarias.
 
-## Capítulo I. Disposiciones generales
+Gobierno de Canarias
 
-### Artículo 1. Definición y objeto
-1. Las Residencias Escolares son centros públicos de la Comunidad Autónoma de Canarias que facilitan el acceso al sistema educativo al alumnado que cursa enseñanzas no universitarias y cuya situación de residencia geográfica o sociofamiliar dificulta su escolarización en su municipio o isla de origen.
+Comunidad Autónoma de Canarias
 
-### Artículo 2. Funciones
-Son funciones de las Residencias Escolares:
-a) Proporcionar alojamiento, manutención y atención formativa y residencial.
-b) Promover el desarrollo de actividades culturales, deportivas y de convivencia.
+Boletín Oficial de Canarias
+
+Accesibilidad
+
+Mapa web
+
+Contacto
+
+Versión texto
+
+Inicio
+
+Archivo
+
+Búsqueda
+
+Estás en:
+
+Inicio
+
+Archivo
+
+Año 2005
+
+2005/059. Miércoles 23 de Marzo de 2005
+
+377
+
+<p>Menú de búsqueda y navegación</p>
+
+Siguiente
+
+BOC Nº 059. Miércoles 23 de Marzo de 2005 - 377
+
+I. DISPOSICIONES GENERALES - Consejería de Economía y Hacienda
+
+377 - ORDEN de 17 de marzo de 2005, por la que se amplía el plazo de presentación del modelo 415 de declaración anual de operaciones con terceras personas, así como las condiciones y los diseños físicos y lógicos para la sustitución de las hojas interiores por soportes directamente legibles por ordenador y del modelo 416 de declaración anual de operaciones exentas del Impuesto General Indirecto Canario por aplicación de lo dispuesto en el artículo 25 de la Ley 19/1994, de 6 de julio, de Modificación del Régimen Económico y Fiscal de Canarias.
+
+Descargar en formato pdf
+
+Existiendo problemas de disponibilidad del soporte físico del modelo 416 de declaración anual de operaciones exentas del Impuesto General Indirecto Canario por aplicación de lo dispuesto en el artículo 25 de la Ley 19/1994, de 6 de julio, de Modificación del Régimen Económico y Fiscal de Canarias, se hace necesario prorrogar el plazo de presentación del mismo, dada la circunstancia sobrevenida.
+
+Conforme a todo ello,
+
+D I S P O N G O:
+
+Único.- Se amplía hasta el día 5 de mayo de 2005 el plazo de presentación del modelo 415 de declaración anual de operaciones con terceras personas, en soporte papel y soporte magnético que permita la sustitución de las hojas interiores por soportes directamente legibles por ordenador y del modelo 416 de declaración anual de operaciones exentas del Impuesto General Indirecto Canario por aplicación de lo dispuesto en el artículo 25 de la Ley 19/1994, de 6 de julio, de Modificación del Régimen Económico y Fiscal de Canarias, correspondiente al año 2004.
+
+DISPOSICIÓN FINAL
+
+La presente Orden entrará en vigor el mismo día de su publicación en el Boletín Oficial de Canarias.
+
+Las Palmas de Gran Canaria, a 17 de marzo de 2005.
+
+EL CONSEJERO DE
+
+ECONOMÍA Y HACIENDA,
+
+José Carlos Mauricio Rodríguez.
+
+© Gobierno de Canarias
+
+Aviso Legal
+
+Sugerencias y Reclamaciones
