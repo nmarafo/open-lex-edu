@@ -11,7 +11,7 @@ normas:
     tipo_disposicion: Decreto
     fecha_publicacion: '2024-06-17'
     estado: Vigente
-    redaccion: original
+    redaccion: pdf_oficial_boc
     categoria_canonica: 01_marco_normativo_general_y_organico
     subcategoria: Estructura de la Consejería
     tags:
@@ -102,7 +102,7 @@ normas:
     tipo_disposicion: Ley
     fecha_publicacion: '2014-08-07'
     estado: Vigente
-    redaccion: libro_azul
+    redaccion: pdf_oficial_boc
     categoria_canonica: 01_marco_normativo_general_y_organico
     subcategoria: Marco normativo general
     tags:
@@ -140,7 +140,7 @@ normas:
     tipo_disposicion: Resolución
     fecha_publicacion: ''
     estado: Vigente
-    redaccion: libro_azul
+    redaccion: pdf_oficial_boc
     categoria_canonica: 01_marco_normativo_general_y_organico
     subcategoria: Estructura de la Consejería
     tags:
@@ -164,7 +164,7 @@ normas:
     tipo_disposicion: Resolución
     fecha_publicacion: ''
     estado: Vigente
-    redaccion: libro_azul
+    redaccion: pdf_oficial_boc
     categoria_canonica: 01_marco_normativo_general_y_organico
     subcategoria: Protección jurídica de menores
     tags:
@@ -186,7 +186,7 @@ normas:
     tipo_disposicion: Resolución
     fecha_publicacion: ''
     estado: Vigente
-    redaccion: libro_azul
+    redaccion: pdf_oficial_boc
     categoria_canonica: 01_marco_normativo_general_y_organico
     subcategoria: Estructura de la Consejería
     tags:
@@ -208,7 +208,7 @@ normas:
     tipo_disposicion: Resolución
     fecha_publicacion: ''
     estado: Vigente
-    redaccion: libro_azul
+    redaccion: pdf_oficial_boc
     categoria_canonica: 01_marco_normativo_general_y_organico
     subcategoria: Estructura de la Consejería
     tags:
@@ -249,7 +249,7 @@ normas:
     tipo_disposicion: Decreto
     fecha_publicacion: '2010-01-13'
     estado: Vigente
-    redaccion: libro_azul
+    redaccion: pdf_oficial_boc
     categoria_canonica: 02_gestion_y_administracion_centros
     subcategoria: Prevención de riesgos y salud laboral
     tags:
@@ -292,7 +292,7 @@ normas:
     tipo_disposicion: Resolución
     fecha_publicacion: ''
     estado: Vigente
-    redaccion: libro_azul
+    redaccion: pdf_oficial_boc
     categoria_canonica: 02_gestion_y_administracion_centros
     subcategoria: Centros públicos
     tags:
@@ -311,7 +311,7 @@ normas:
     tipo_disposicion: Resolución
     fecha_publicacion: ''
     estado: Vigente
-    redaccion: libro_azul
+    redaccion: pdf_oficial_boc
     categoria_canonica: 02_gestion_y_administracion_centros
     subcategoria: Administración electrónica y firmas
     tags:
@@ -331,7 +331,7 @@ normas:
     tipo_disposicion: Resolución
     fecha_publicacion: ''
     estado: Vigente
-    redaccion: libro_azul
+    redaccion: pdf_oficial_boc
     categoria_canonica: 02_gestion_y_administracion_centros
     subcategoria: Administración electrónica y firmas
     tags:
@@ -352,7 +352,7 @@ normas:
     tipo_disposicion: Resolución
     fecha_publicacion: ''
     estado: Vigente
-    redaccion: libro_azul
+    redaccion: pdf_oficial_boc
     categoria_canonica: 02_gestion_y_administracion_centros
     subcategoria: Administración electrónica y firmas
     tags:
@@ -393,7 +393,7 @@ normas:
     tipo_disposicion: Resolución
     fecha_publicacion: ''
     estado: Vigente
-    redaccion: libro_azul
+    redaccion: pdf_oficial_boc
     categoria_canonica: 02_gestion_y_administracion_centros
     subcategoria: Colectivos de Escuelas Rurales (CER)
     tags:
@@ -457,7 +457,7 @@ normas:
     tipo_disposicion: Resolución
     fecha_publicacion: ''
     estado: Vigente
-    redaccion: libro_azul
+    redaccion: pdf_oficial_boc
     categoria_canonica: 02_gestion_y_administracion_centros
     subcategoria: Centros privados concertados
     tags:
@@ -479,7 +479,7 @@ normas:
     tipo_disposicion: Resolución
     fecha_publicacion: ''
     estado: Vigente
-    redaccion: libro_azul
+    redaccion: pdf_oficial_boc
     categoria_canonica: 02_gestion_y_administracion_centros
     subcategoria: Centros privados concertados
     tags:
@@ -544,7 +544,7 @@ normas:
     tipo_disposicion: Resolución
     fecha_publicacion: ''
     estado: Vigente
-    redaccion: libro_azul
+    redaccion: pdf_oficial_boc
     categoria_canonica: 02_gestion_y_administracion_centros
     subcategoria: Administración electrónica y firmas
     tags:
@@ -566,7 +566,7 @@ normas:
     tipo_disposicion: Resolución
     fecha_publicacion: ''
     estado: Vigente
-    redaccion: libro_azul
+    redaccion: pdf_oficial_boc
     categoria_canonica: 02_gestion_y_administracion_centros
     subcategoria: Administración electrónica y firmas
     tags:
@@ -610,7 +610,7 @@ normas:
     tipo_disposicion: Resolución
     fecha_publicacion: ''
     estado: Vigente
-    redaccion: libro_azul
+    redaccion: pdf_oficial_boc
     categoria_canonica: 02_gestion_y_administracion_centros
     subcategoria: Centros privados concertados
     tags:
@@ -633,7 +633,7 @@ normas:
     tipo_disposicion: Resolución
     fecha_publicacion: ''
     estado: Vigente
-    redaccion: libro_azul
+    redaccion: pdf_oficial_boc
     categoria_canonica: 02_gestion_y_administracion_centros
     subcategoria: Administración electrónica y firmas
     tags:
@@ -654,7 +654,7 @@ normas:
     tipo_disposicion: Resolución
     fecha_publicacion: ''
     estado: Vigente
-    redaccion: libro_azul
+    redaccion: pdf_oficial_boc
     categoria_canonica: 02_gestion_y_administracion_centros
     subcategoria: Cooperación con entidades locales
     tags:
@@ -697,7 +697,7 @@ normas:
     tipo_disposicion: Resolución
     fecha_publicacion: ''
     estado: Vigente
-    redaccion: libro_azul
+    redaccion: pdf_oficial_boc
     categoria_canonica: 02_gestion_y_administracion_centros
     subcategoria: Colectivos de Escuelas Rurales (CER)
     tags:
@@ -717,7 +717,7 @@ normas:
     tipo_disposicion: Decreto
     fecha_publicacion: '2023-05-23'
     estado: Vigente
-    redaccion: original
+    redaccion: pdf_oficial_boc
     categoria_canonica: 03_ordenacion_curricular_y_ensenanzas
     subcategoria: Educación Primaria
     tags:
@@ -738,7 +738,7 @@ normas:
     tipo_disposicion: Decreto
     fecha_publicacion: '2023-05-23'
     estado: Vigente
-    redaccion: original
+    redaccion: pdf_oficial_boc
     categoria_canonica: 03_ordenacion_curricular_y_ensenanzas
     subcategoria: Educación Secundaria Obligatoria (ESO)
     tags:
@@ -758,7 +758,7 @@ normas:
     tipo_disposicion: Decreto
     fecha_publicacion: '2023-05-23'
     estado: Vigente
-    redaccion: original
+    redaccion: pdf_oficial_boc
     categoria_canonica: 03_ordenacion_curricular_y_ensenanzas
     subcategoria: Bachillerato
     tags:
@@ -779,7 +779,7 @@ normas:
     tipo_disposicion: Decreto
     fecha_publicacion: '2022-10-20'
     estado: Vigente
-    redaccion: original
+    redaccion: pdf_oficial_boc
     categoria_canonica: 03_ordenacion_curricular_y_ensenanzas
     subcategoria: Educación Infantil
     tags:
@@ -801,7 +801,7 @@ normas:
     tipo_disposicion: Resolución
     fecha_publicacion: ''
     estado: Vigente
-    redaccion: libro_azul
+    redaccion: pdf_oficial_boc
     categoria_canonica: 03_ordenacion_curricular_y_ensenanzas
     subcategoria: Educación de Personas Adultas
     tags:
@@ -821,7 +821,7 @@ normas:
     tipo_disposicion: Resolución
     fecha_publicacion: ''
     estado: Vigente
-    redaccion: libro_azul
+    redaccion: pdf_oficial_boc
     categoria_canonica: 03_ordenacion_curricular_y_ensenanzas
     subcategoria: Educación de Personas Adultas
     tags:
@@ -846,7 +846,7 @@ normas:
     tipo_disposicion: Resolución
     fecha_publicacion: ''
     estado: Vigente
-    redaccion: libro_azul
+    redaccion: pdf_oficial_boc
     categoria_canonica: 03_ordenacion_curricular_y_ensenanzas
     subcategoria: Formación Profesional
     tags:
@@ -871,7 +871,7 @@ normas:
     tipo_disposicion: Resolución
     fecha_publicacion: ''
     estado: Vigente
-    redaccion: libro_azul
+    redaccion: pdf_oficial_boc
     categoria_canonica: 03_ordenacion_curricular_y_ensenanzas
     subcategoria: Enseñanzas de Idiomas
     tags:
@@ -943,7 +943,7 @@ normas:
     tipo_disposicion: Resolución
     fecha_publicacion: ''
     estado: Vigente
-    redaccion: libro_azul
+    redaccion: pdf_oficial_boc
     categoria_canonica: 03_ordenacion_curricular_y_ensenanzas
     subcategoria: Formación Profesional
     tags:
@@ -985,7 +985,7 @@ normas:
     tipo_disposicion: Resolución
     fecha_publicacion: ''
     estado: Vigente
-    redaccion: libro_azul
+    redaccion: pdf_oficial_boc
     categoria_canonica: 03_ordenacion_curricular_y_ensenanzas
     subcategoria: Enseñanzas de Idiomas
     tags:
@@ -1008,7 +1008,7 @@ normas:
     tipo_disposicion: Resolución
     fecha_publicacion: ''
     estado: Vigente
-    redaccion: libro_azul
+    redaccion: pdf_oficial_boc
     categoria_canonica: 03_ordenacion_curricular_y_ensenanzas
     subcategoria: Enseñanzas de Idiomas
     tags:
@@ -1030,7 +1030,7 @@ normas:
     tipo_disposicion: Resolución
     fecha_publicacion: ''
     estado: Vigente
-    redaccion: libro_azul
+    redaccion: pdf_oficial_boc
     categoria_canonica: 03_ordenacion_curricular_y_ensenanzas
     subcategoria: Formación Profesional
     tags:
@@ -1051,7 +1051,7 @@ normas:
     tipo_disposicion: Resolución
     fecha_publicacion: ''
     estado: Vigente
-    redaccion: libro_azul
+    redaccion: pdf_oficial_boc
     categoria_canonica: 03_ordenacion_curricular_y_ensenanzas
     subcategoria: Formación Profesional
     tags:
@@ -1073,7 +1073,7 @@ normas:
     tipo_disposicion: Resolución
     fecha_publicacion: ''
     estado: Vigente
-    redaccion: libro_azul
+    redaccion: pdf_oficial_boc
     categoria_canonica: 03_ordenacion_curricular_y_ensenanzas
     subcategoria: Enseñanzas de Idiomas
     tags:
@@ -1095,7 +1095,7 @@ normas:
     tipo_disposicion: Resolución
     fecha_publicacion: ''
     estado: Vigente
-    redaccion: libro_azul
+    redaccion: pdf_oficial_boc
     categoria_canonica: 03_ordenacion_curricular_y_ensenanzas
     subcategoria: Educación de Personas Adultas
     tags:
@@ -1116,7 +1116,7 @@ normas:
     tipo_disposicion: Resolución
     fecha_publicacion: ''
     estado: Vigente
-    redaccion: libro_azul
+    redaccion: pdf_oficial_boc
     categoria_canonica: 03_ordenacion_curricular_y_ensenanzas
     subcategoria: Educación de Personas Adultas
     tags:
@@ -1139,7 +1139,7 @@ normas:
     tipo_disposicion: Resolución
     fecha_publicacion: ''
     estado: Vigente
-    redaccion: libro_azul
+    redaccion: pdf_oficial_boc
     categoria_canonica: 03_ordenacion_curricular_y_ensenanzas
     subcategoria: Bachillerato
     tags:
@@ -1162,7 +1162,7 @@ normas:
     tipo_disposicion: Resolución
     fecha_publicacion: ''
     estado: Vigente
-    redaccion: libro_azul
+    redaccion: pdf_oficial_boc
     categoria_canonica: 03_ordenacion_curricular_y_ensenanzas
     subcategoria: Bachillerato
     tags:
@@ -1182,7 +1182,7 @@ normas:
     tipo_disposicion: Resolución
     fecha_publicacion: ''
     estado: Vigente
-    redaccion: libro_azul
+    redaccion: pdf_oficial_boc
     categoria_canonica: 03_ordenacion_curricular_y_ensenanzas
     subcategoria: Enseñanzas Artísticas
     tags:
@@ -1202,7 +1202,7 @@ normas:
     tipo_disposicion: Resolución
     fecha_publicacion: ''
     estado: Vigente
-    redaccion: libro_azul
+    redaccion: pdf_oficial_boc
     categoria_canonica: 03_ordenacion_curricular_y_ensenanzas
     subcategoria: Enseñanzas Deportivas
     tags:
@@ -1285,7 +1285,7 @@ normas:
     tipo_disposicion: Resolución
     fecha_publicacion: ''
     estado: Vigente
-    redaccion: libro_azul
+    redaccion: pdf_oficial_boc
     categoria_canonica: 03_ordenacion_curricular_y_ensenanzas
     subcategoria: Enseñanzas Deportivas
     tags:
@@ -1306,7 +1306,7 @@ normas:
     tipo_disposicion: Resolución
     fecha_publicacion: ''
     estado: Vigente
-    redaccion: libro_azul
+    redaccion: pdf_oficial_boc
     categoria_canonica: 03_ordenacion_curricular_y_ensenanzas
     subcategoria: Formación Profesional
     tags:
@@ -1327,7 +1327,7 @@ normas:
     tipo_disposicion: Resolución
     fecha_publicacion: ''
     estado: Vigente
-    redaccion: libro_azul
+    redaccion: pdf_oficial_boc
     categoria_canonica: 03_ordenacion_curricular_y_ensenanzas
     subcategoria: Enseñanzas de Idiomas
     tags:
@@ -1374,7 +1374,7 @@ normas:
     tipo_disposicion: Resolución
     fecha_publicacion: ''
     estado: Vigente
-    redaccion: libro_azul
+    redaccion: pdf_oficial_boc
     categoria_canonica: 03_ordenacion_curricular_y_ensenanzas
     subcategoria: Formación Profesional
     tags:
@@ -1397,7 +1397,7 @@ normas:
     tipo_disposicion: Resolución
     fecha_publicacion: ''
     estado: Vigente
-    redaccion: libro_azul
+    redaccion: pdf_oficial_boc
     categoria_canonica: 03_ordenacion_curricular_y_ensenanzas
     subcategoria: Formación Profesional
     tags:
@@ -1419,7 +1419,7 @@ normas:
     tipo_disposicion: Resolución
     fecha_publicacion: ''
     estado: Vigente
-    redaccion: libro_azul
+    redaccion: pdf_oficial_boc
     categoria_canonica: 03_ordenacion_curricular_y_ensenanzas
     subcategoria: Formación Profesional
     tags:
@@ -1442,7 +1442,7 @@ normas:
     tipo_disposicion: Resolución
     fecha_publicacion: ''
     estado: Vigente
-    redaccion: libro_azul
+    redaccion: pdf_oficial_boc
     categoria_canonica: 03_ordenacion_curricular_y_ensenanzas
     subcategoria: Formación Profesional
     tags:
@@ -1464,7 +1464,7 @@ normas:
     tipo_disposicion: Resolución
     fecha_publicacion: ''
     estado: Vigente
-    redaccion: libro_azul
+    redaccion: pdf_oficial_boc
     categoria_canonica: 03_ordenacion_curricular_y_ensenanzas
     subcategoria: Formación Profesional
     tags:
@@ -1487,7 +1487,7 @@ normas:
     tipo_disposicion: Resolución
     fecha_publicacion: ''
     estado: Vigente
-    redaccion: libro_azul
+    redaccion: pdf_oficial_boc
     categoria_canonica: 03_ordenacion_curricular_y_ensenanzas
     subcategoria: Formación Profesional
     tags:
@@ -1510,7 +1510,7 @@ normas:
     tipo_disposicion: Resolución
     fecha_publicacion: ''
     estado: Vigente
-    redaccion: libro_azul
+    redaccion: pdf_oficial_boc
     categoria_canonica: 03_ordenacion_curricular_y_ensenanzas
     subcategoria: Formación Profesional
     tags:
@@ -1533,7 +1533,7 @@ normas:
     tipo_disposicion: Resolución
     fecha_publicacion: ''
     estado: Vigente
-    redaccion: libro_azul
+    redaccion: pdf_oficial_boc
     categoria_canonica: 03_ordenacion_curricular_y_ensenanzas
     subcategoria: Formación Profesional
     tags:
@@ -1556,7 +1556,7 @@ normas:
     tipo_disposicion: Resolución
     fecha_publicacion: ''
     estado: Vigente
-    redaccion: libro_azul
+    redaccion: pdf_oficial_boc
     categoria_canonica: 03_ordenacion_curricular_y_ensenanzas
     subcategoria: Enseñanzas de Idiomas
     tags:
@@ -1601,7 +1601,7 @@ normas:
     tipo_disposicion: Resolución
     fecha_publicacion: ''
     estado: Vigente
-    redaccion: libro_azul
+    redaccion: pdf_oficial_boc
     categoria_canonica: 03_ordenacion_curricular_y_ensenanzas
     subcategoria: Enseñanzas de Idiomas
     tags:
@@ -1622,7 +1622,7 @@ normas:
     tipo_disposicion: Resolución
     fecha_publicacion: ''
     estado: Vigente
-    redaccion: libro_azul
+    redaccion: pdf_oficial_boc
     categoria_canonica: 03_ordenacion_curricular_y_ensenanzas
     subcategoria: Enseñanzas de Idiomas
     tags:
@@ -1644,7 +1644,7 @@ normas:
     tipo_disposicion: Resolución
     fecha_publicacion: ''
     estado: Vigente
-    redaccion: libro_azul
+    redaccion: pdf_oficial_boc
     categoria_canonica: 03_ordenacion_curricular_y_ensenanzas
     subcategoria: Enseñanzas de Idiomas
     tags:
@@ -1666,7 +1666,7 @@ normas:
     tipo_disposicion: Resolución
     fecha_publicacion: ''
     estado: Vigente
-    redaccion: libro_azul
+    redaccion: pdf_oficial_boc
     categoria_canonica: 03_ordenacion_curricular_y_ensenanzas
     subcategoria: Enseñanzas Artísticas
     tags:
@@ -1751,7 +1751,7 @@ normas:
     tipo_disposicion: Resolución
     fecha_publicacion: ''
     estado: Vigente
-    redaccion: libro_azul
+    redaccion: pdf_oficial_boc
     categoria_canonica: 03_ordenacion_curricular_y_ensenanzas
     subcategoria: Formación Profesional
     tags:
@@ -1773,7 +1773,7 @@ normas:
     tipo_disposicion: Resolución
     fecha_publicacion: ''
     estado: Vigente
-    redaccion: libro_azul
+    redaccion: pdf_oficial_boc
     categoria_canonica: 03_ordenacion_curricular_y_ensenanzas
     subcategoria: Formación Profesional
     tags:
@@ -1796,7 +1796,7 @@ normas:
     tipo_disposicion: Resolución
     fecha_publicacion: ''
     estado: Vigente
-    redaccion: libro_azul
+    redaccion: pdf_oficial_boc
     categoria_canonica: 03_ordenacion_curricular_y_ensenanzas
     subcategoria: Formación Profesional
     tags:
@@ -1819,7 +1819,7 @@ normas:
     tipo_disposicion: Resolución
     fecha_publicacion: ''
     estado: Vigente
-    redaccion: libro_azul
+    redaccion: pdf_oficial_boc
     categoria_canonica: 03_ordenacion_curricular_y_ensenanzas
     subcategoria: Formación Profesional
     tags:
@@ -1842,7 +1842,7 @@ normas:
     tipo_disposicion: Resolución
     fecha_publicacion: ''
     estado: Vigente
-    redaccion: libro_azul
+    redaccion: pdf_oficial_boc
     categoria_canonica: 03_ordenacion_curricular_y_ensenanzas
     subcategoria: Formación Profesional
     tags:
@@ -1864,7 +1864,7 @@ normas:
     tipo_disposicion: Resolución
     fecha_publicacion: ''
     estado: Vigente
-    redaccion: libro_azul
+    redaccion: pdf_oficial_boc
     categoria_canonica: 03_ordenacion_curricular_y_ensenanzas
     subcategoria: Formación Profesional
     tags:
@@ -1887,7 +1887,7 @@ normas:
     tipo_disposicion: Resolución
     fecha_publicacion: ''
     estado: Vigente
-    redaccion: libro_azul
+    redaccion: pdf_oficial_boc
     categoria_canonica: 03_ordenacion_curricular_y_ensenanzas
     subcategoria: Formación Profesional
     tags:
@@ -1910,7 +1910,7 @@ normas:
     tipo_disposicion: Resolución
     fecha_publicacion: ''
     estado: Vigente
-    redaccion: libro_azul
+    redaccion: pdf_oficial_boc
     categoria_canonica: 03_ordenacion_curricular_y_ensenanzas
     subcategoria: Formación Profesional
     tags:
@@ -1974,7 +1974,7 @@ normas:
     tipo_disposicion: Resolución
     fecha_publicacion: ''
     estado: Vigente
-    redaccion: libro_azul
+    redaccion: pdf_oficial_boc
     categoria_canonica: 03_ordenacion_curricular_y_ensenanzas
     subcategoria: Bachillerato
     tags:
@@ -2019,7 +2019,7 @@ normas:
     tipo_disposicion: Resolución
     fecha_publicacion: ''
     estado: Vigente
-    redaccion: libro_azul
+    redaccion: pdf_oficial_boc
     categoria_canonica: 03_ordenacion_curricular_y_ensenanzas
     subcategoria: Formación Profesional
     tags:
@@ -2042,7 +2042,7 @@ normas:
     tipo_disposicion: Resolución
     fecha_publicacion: ''
     estado: Vigente
-    redaccion: libro_azul
+    redaccion: pdf_oficial_boc
     categoria_canonica: 03_ordenacion_curricular_y_ensenanzas
     subcategoria: Enseñanzas de Idiomas
     tags:
@@ -2066,7 +2066,7 @@ normas:
     tipo_disposicion: Resolución
     fecha_publicacion: ''
     estado: Vigente
-    redaccion: libro_azul
+    redaccion: pdf_oficial_boc
     categoria_canonica: 03_ordenacion_curricular_y_ensenanzas
     subcategoria: Formación Profesional
     tags:
@@ -2084,7 +2084,7 @@ normas:
     tipo_disposicion: Resolución
     fecha_publicacion: ''
     estado: Vigente
-    redaccion: libro_azul
+    redaccion: pdf_oficial_boc
     categoria_canonica: 03_ordenacion_curricular_y_ensenanzas
     subcategoria: Enseñanzas Artísticas
     tags:
@@ -2165,7 +2165,7 @@ normas:
     tipo_disposicion: Decreto
     fecha_publicacion: '2010-07-22'
     estado: Vigente
-    redaccion: libro_azul
+    redaccion: pdf_oficial_boc
     categoria_canonica: 04_organizacion_escolar_y_funcionamiento
     subcategoria: Instrucciones de organización y funcionamiento
     tags:
@@ -2187,7 +2187,7 @@ normas:
     tipo_disposicion: Orden
     fecha_publicacion: '2013-10-16'
     estado: Vigente
-    redaccion: libro_azul
+    redaccion: pdf_oficial_boc
     categoria_canonica: 04_organizacion_escolar_y_funcionamiento
     subcategoria: Instrucciones de organización y funcionamiento
     tags:
@@ -2208,7 +2208,7 @@ normas:
     tipo_disposicion: Resolución
     fecha_publicacion: ''
     estado: Vigente
-    redaccion: libro_azul
+    redaccion: pdf_oficial_boc
     categoria_canonica: 04_organizacion_escolar_y_funcionamiento
     subcategoria: Instrucciones de organización y funcionamiento
     tags:
@@ -2229,7 +2229,7 @@ normas:
     tipo_disposicion: Resolución
     fecha_publicacion: ''
     estado: Vigente
-    redaccion: libro_azul
+    redaccion: pdf_oficial_boc
     categoria_canonica: 04_organizacion_escolar_y_funcionamiento
     subcategoria: Consejos escolares
     tags:
@@ -2251,7 +2251,7 @@ normas:
     tipo_disposicion: Resolución
     fecha_publicacion: ''
     estado: Vigente
-    redaccion: libro_azul
+    redaccion: pdf_oficial_boc
     categoria_canonica: 04_organizacion_escolar_y_funcionamiento
     subcategoria: Calendario escolar y jornadas
     tags:
@@ -2272,7 +2272,7 @@ normas:
     tipo_disposicion: Resolución
     fecha_publicacion: ''
     estado: Vigente
-    redaccion: libro_azul
+    redaccion: pdf_oficial_boc
     categoria_canonica: 04_organizacion_escolar_y_funcionamiento
     subcategoria: Calendario escolar y jornadas
     tags:
@@ -2293,7 +2293,7 @@ normas:
     tipo_disposicion: Resolución
     fecha_publicacion: ''
     estado: Vigente
-    redaccion: libro_azul
+    redaccion: pdf_oficial_boc
     categoria_canonica: 04_organizacion_escolar_y_funcionamiento
     subcategoria: Instrucciones de organización y funcionamiento
     tags:
@@ -2336,7 +2336,7 @@ normas:
     tipo_disposicion: Resolución
     fecha_publicacion: ''
     estado: Vigente
-    redaccion: libro_azul
+    redaccion: pdf_oficial_boc
     categoria_canonica: 04_organizacion_escolar_y_funcionamiento
     subcategoria: Instrucciones de organización y funcionamiento
     tags:
@@ -2358,7 +2358,7 @@ normas:
     tipo_disposicion: Resolución
     fecha_publicacion: ''
     estado: Vigente
-    redaccion: libro_azul
+    redaccion: pdf_oficial_boc
     categoria_canonica: 04_organizacion_escolar_y_funcionamiento
     subcategoria: Función directiva y liderazgo
     tags:
@@ -2380,7 +2380,7 @@ normas:
     tipo_disposicion: Resolución
     fecha_publicacion: ''
     estado: Vigente
-    redaccion: libro_azul
+    redaccion: pdf_oficial_boc
     categoria_canonica: 04_organizacion_escolar_y_funcionamiento
     subcategoria: Función directiva y liderazgo
     tags:
@@ -2403,7 +2403,7 @@ normas:
     tipo_disposicion: Resolución
     fecha_publicacion: ''
     estado: Vigente
-    redaccion: libro_azul
+    redaccion: pdf_oficial_boc
     categoria_canonica: 04_organizacion_escolar_y_funcionamiento
     subcategoria: Calendario escolar y jornadas
     tags:
@@ -2426,7 +2426,7 @@ normas:
     tipo_disposicion: Resolución
     fecha_publicacion: ''
     estado: Vigente
-    redaccion: libro_azul
+    redaccion: pdf_oficial_boc
     categoria_canonica: 04_organizacion_escolar_y_funcionamiento
     subcategoria: Calendario escolar y jornadas
     tags:
@@ -2449,7 +2449,7 @@ normas:
     tipo_disposicion: Resolución
     fecha_publicacion: ''
     estado: Vigente
-    redaccion: libro_azul
+    redaccion: pdf_oficial_boc
     categoria_canonica: 04_organizacion_escolar_y_funcionamiento
     subcategoria: Calendario escolar y jornadas
     tags:
@@ -2467,7 +2467,7 @@ normas:
     tipo_disposicion: Resolución
     fecha_publicacion: ''
     estado: Vigente
-    redaccion: libro_azul
+    redaccion: pdf_oficial_boc
     categoria_canonica: 04_organizacion_escolar_y_funcionamiento
     subcategoria: Consejos escolares
     tags:
@@ -2485,7 +2485,7 @@ normas:
     tipo_disposicion: Resolución
     fecha_publicacion: ''
     estado: Vigente
-    redaccion: libro_azul
+    redaccion: pdf_oficial_boc
     categoria_canonica: 04_organizacion_escolar_y_funcionamiento
     subcategoria: Consejos escolares
     tags:
@@ -2503,7 +2503,7 @@ normas:
     tipo_disposicion: Resolución
     fecha_publicacion: ''
     estado: Vigente
-    redaccion: libro_azul
+    redaccion: pdf_oficial_boc
     categoria_canonica: 04_organizacion_escolar_y_funcionamiento
     subcategoria: Consejos escolares
     tags:
@@ -2542,7 +2542,7 @@ normas:
     tipo_disposicion: Decreto
     fecha_publicacion: '2022-01-26'
     estado: Vigente
-    redaccion: libro_azul
+    redaccion: pdf_oficial_boc
     categoria_canonica: 05_alumnado_y_servicios_escolares
     subcategoria: Admisión del alumnado
     tags:
@@ -2605,7 +2605,7 @@ normas:
     tipo_disposicion: Resolución
     fecha_publicacion: ''
     estado: Vigente
-    redaccion: libro_azul
+    redaccion: pdf_oficial_boc
     categoria_canonica: 05_alumnado_y_servicios_escolares
     subcategoria: Concursos y premios escolares
     tags:
@@ -2653,7 +2653,7 @@ normas:
     tipo_disposicion: Resolución
     fecha_publicacion: ''
     estado: Vigente
-    redaccion: libro_azul
+    redaccion: pdf_oficial_boc
     categoria_canonica: 05_alumnado_y_servicios_escolares
     subcategoria: Admisión y escolarización del alumnado
     tags:
@@ -2677,7 +2677,7 @@ normas:
     tipo_disposicion: Resolución
     fecha_publicacion: ''
     estado: Vigente
-    redaccion: libro_azul
+    redaccion: pdf_oficial_boc
     categoria_canonica: 05_alumnado_y_servicios_escolares
     subcategoria: Admisión y escolarización del alumnado
     tags:
@@ -2727,7 +2727,7 @@ normas:
     tipo_disposicion: Resolución
     fecha_publicacion: ''
     estado: Vigente
-    redaccion: libro_azul
+    redaccion: pdf_oficial_boc
     categoria_canonica: 05_alumnado_y_servicios_escolares
     subcategoria: Admisión y escolarización del alumnado
     tags:
