@@ -1,5 +1,5 @@
 version: '1.0'
-total_normas: 51
+total_normas: 56
 normas:
   norm-can-d-84-2024:
     id: norm-can-d-84-2024
@@ -458,6 +458,89 @@ normas:
     - rutas_transporte
     - gratuidad_transporte
     path: autonómica/canarias/05_alumnado_y_servicios_escolares/O2_8_2006_transporte_escolar_canarias.md
+  norm-can-d-23-1995:
+    id: norm-can-d-23-1995
+    codigo_sintetizado: D23_1995 Regulacion de la Orientacion Educativa en Canarias
+    titulo: Decreto 23/1995, de 24 de febrero, por el que se regula la orientación
+      educativa en la Comunidad Autónoma de Canarias.
+    jurisdiccion: Canarias
+    ambito: Autonómico
+    tipo_disposicion: Decreto
+    fecha_publicacion: '1995-03-20'
+    estado: Vigente
+    redaccion: libro_azul
+    categoria_canonica: 06_atencion_diversidad_y_orientacion
+    subcategoria: Equipos de Orientación (EOEP)
+    tags:
+    - canarias
+    - orientacion_educativa
+    - eoep
+    - tutoria
+    - evaluacion_psicopedagogica
+    path: autonómica/canarias/06_atencion_diversidad_y_orientacion/D23_1995_orientacion_educativa_canarias.md
+  norm-can-d-25-2018:
+    id: norm-can-d-25-2018
+    codigo_sintetizado: D25_2018 Regulacion de la Atencion a la Diversidad en Canarias
+    titulo: Decreto 25/2018, de 26 de febrero, por el que se regula la atención a
+      la diversidad en el ámbito de las enseñanzas no universitarias de la Comunidad
+      Autónoma de Canarias.
+    jurisdiccion: Canarias
+    ambito: Autonómico
+    tipo_disposicion: Decreto
+    fecha_publicacion: '2018-03-06'
+    estado: Vigente
+    redaccion: libro_azul
+    categoria_canonica: 06_atencion_diversidad_y_orientacion
+    subcategoria: Medidas de atención a la diversidad
+    tags:
+    - canarias
+    - atencion_diversidad
+    - neae
+    - medidas_inclusivas
+    - adaptaciones_curriculares
+    path: autonómica/canarias/06_atencion_diversidad_y_orientacion/D25_2018_atencion_diversidad_canarias.md
+  norm-can-o-1-9-2010:
+    id: norm-can-o-1-9-2010
+    codigo_sintetizado: O1_9_2010 Organizacion y Funcionamiento de los EOEP en Canarias
+    titulo: Orden de 1 de septiembre de 2010, por la que se desarrolla la organización
+      y funcionamiento de los equipos de orientación educativa y psicopedagógica de
+      zona y específicos de la Comunidad Autónoma de Canarias.
+    jurisdiccion: Canarias
+    ambito: Autonómico
+    tipo_disposicion: Orden
+    fecha_publicacion: '2010-09-14'
+    estado: Vigente
+    redaccion: libro_azul
+    categoria_canonica: 06_atencion_diversidad_y_orientacion
+    subcategoria: Equipos de Orientación (EOEP)
+    tags:
+    - canarias
+    - eoep
+    - orientacion_psicopedagogica
+    - eoep_especificos
+    - dictamen_escolarizacion
+    path: autonómica/canarias/06_atencion_diversidad_y_orientacion/O1_9_2010_organizacion_funcionamiento_eoep_canarias.md
+  norm-can-o-7-6-2007:
+    id: norm-can-o-7-6-2007
+    codigo_sintetizado: O7_6_2007 Medidas de Atencion a la Diversidad en la Ensenanza
+      Basica
+    titulo: Orden de 7 de junio de 2007, por la que se regulan las medidas de atención
+      a la diversidad en la enseñanza básica en la Comunidad Autónoma de Canarias.
+    jurisdiccion: Canarias
+    ambito: Autonómico
+    tipo_disposicion: Orden
+    fecha_publicacion: '2007-06-22'
+    estado: Vigente
+    redaccion: libro_azul
+    categoria_canonica: 06_atencion_diversidad_y_orientacion
+    subcategoria: Medidas de atención a la diversidad
+    tags:
+    - canarias
+    - atencion_diversidad
+    - refuerzo_educativo
+    - adaptaciones_curriculares_significativas
+    - pmar_diversificacion
+    path: autonómica/canarias/06_atencion_diversidad_y_orientacion/O7_6_2007_medidas_atencion_diversidad_ensenanza_basica.md
   norm-can-d-114-2011:
     id: norm-can-d-114-2011
     codigo_sintetizado: D114_2011 Decreto de Convivencia Escolar
@@ -1003,6 +1086,27 @@ normas:
     - servicios_escolares
     - estatal
     path: estatal/05_alumnado_y_servicios_escolares/RD443_2001_seguridad_transporte_escolar.md
+  norm-es-rd-943-2003:
+    id: norm-es-rd-943-2003
+    codigo_sintetizado: RD943_2003 Flexibilizacion para Alumnado con Altas Capacidades
+    titulo: Real Decreto 943/2003, de 18 de julio, por el que se regulan las condiciones
+      para flexibilizar la duración de los diversos niveles y etapas del sistema educativo
+      para los alumnos superdotados intelectualmente.
+    jurisdiccion: España
+    ambito: Estatal
+    tipo_disposicion: Real Decreto
+    fecha_publicacion: '2003-07-31'
+    estado: Vigente
+    redaccion: consolidada
+    categoria_canonica: 06_atencion_diversidad_y_orientacion
+    subcategoria: Alumnado con altas capacidades
+    tags:
+    - altas_capacidades
+    - superdotacion
+    - flexibilizacion_escolar
+    - medidas_curriculares
+    - estatal
+    path: estatal/06_atencion_diversidad_y_orientacion/RD943_2003_flexibilizacion_altas_capacidades.md
 relaciones_grafo:
 - origen: norm-can-d-84-2024
   tipo: desarrolla
@@ -1164,6 +1268,43 @@ relaciones_grafo:
   - Todos
   articulos_destino:
   - Todos
+- origen: norm-can-d-23-1995
+  tipo: desarrolla
+  destino: norm-es-lo-2-2006
+  articulos_origen:
+  - Todos
+  articulos_destino:
+  - 91.1.d
+- origen: norm-can-d-25-2018
+  tipo: desarrolla
+  destino: norm-es-lo-2-2006
+  articulos_origen:
+  - Todos
+  articulos_destino:
+  - '71'
+  - '72'
+  - '73'
+  - '74'
+  - '75'
+  - '76'
+  - '77'
+  - '78'
+  - '79'
+- origen: norm-can-o-1-9-2010
+  tipo: desarrolla
+  destino: norm-can-d-23-1995
+  articulos_origen:
+  - Todos
+  articulos_destino:
+  - Todos
+- origen: norm-can-o-7-6-2007
+  tipo: desarrolla
+  destino: norm-es-lo-2-2006
+  articulos_origen:
+  - Todos
+  articulos_destino:
+  - '71'
+  - '72'
 - origen: norm-can-d-114-2011
   tipo: desarrolla
   destino: norm-can-l-6-2014
@@ -1266,3 +1407,11 @@ relaciones_grafo:
   - Todos
   articulos_destino:
   - '5'
+- origen: norm-es-rd-943-2003
+  tipo: desarrolla
+  destino: norm-es-lo-2-2006
+  articulos_origen:
+  - Todos
+  articulos_destino:
+  - '76'
+  - '77'
