@@ -1,28 +1,29 @@
 ---
 id: norm-es-2000-544
-codigo_sintetizado: "BOE-A-2000-544"
-titulo: "Ley Orgánica 4/2000, de 11 de enero, sobre derechos y libertades de los extranjeros en España y su integración social."
-jurisdiccion: "España"
-ambito: "Estatal"
-organo_emisor: "Jefatura del Estado / Ministerio"
-tipo_disposicion: "Real Decreto / Orden"
-fecha_publicacion: "2000-01-12"
-boletin: "BOE"
-estado: "Vigente"
-redaccion: "consolidada"
-fuente_oficial: "https://www.boe.es/buscar/act.php?id=BOE-A-2000-544"
-
+codigo_sintetizado: BOE-A-2000-544
+titulo: Ley Orgánica 4/2000, de 11 de enero, sobre derechos y libertades de los extranjeros
+  en España y su integración social.
+jurisdiccion: España
+ambito: Estatal
+organo_emisor: Jefatura del Estado / Ministerio
+tipo_disposicion: Real Decreto / Orden
+fecha_publicacion: '2000-01-12'
+boletin: BOE
+estado: Vigente
+redaccion: consolidada
+fuente_oficial: https://www.boe.es/buscar/act.php?id=BOE-A-2000-544
 clasificacion:
-  categoria_canonica: "01_marco_normativo_general_y_organico"
-  subcategoria: "Protección jurídica de menores"
-
+  categoria_canonica: 01_marco_normativo_general_y_organico
+  subcategoria: Protección jurídica de menores
 tags:
-  - estatal
-  - boe
-  - 01_marco_normativo_general_y_organico
-
+- estatal
+- boe
+- 01_marco_normativo_general_y_organico
 relaciones: {}
-fundamentos_derecho: []
+fundamentos_derecho:
+- norma_id: norm-es-ce-1978
+  articulos:
+  - '27'
 ---
 
 # Ley Orgánica 4/2000, de 11 de enero, sobre derechos y libertades de los extranjeros en España y su integración social.

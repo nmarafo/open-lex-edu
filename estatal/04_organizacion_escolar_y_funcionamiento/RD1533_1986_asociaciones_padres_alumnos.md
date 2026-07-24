@@ -1,40 +1,44 @@
 ---
 id: norm-es-rd-1533-1986
-codigo_sintetizado: "RD1533_1986 Regulacion de Asociaciones de Padres de Alumnos (AMPAS)"
-titulo: "Real Decreto 1533/1986, de 11 de julio, por el que se regulan las asociaciones de padres de alumnos."
-jurisdiccion: "España"
-ambito: "Estatal"
-organo_emisor: "Ministerio de Educación y Ciencia"
-tipo_disposicion: "Real Decreto"
-numero_disposicion: "1533/1986"
-fecha_disposicion: "1986-07-11"
-fecha_publicacion: "1986-07-29"
-boletin: "BOE"
-numero_boletin: "180"
-estado: "Vigente"
-redaccion: "consolidada"
-fuente_oficial: "https://www.boe.es/buscar/act.php?id=BOE-A-1986-20181"
-
+codigo_sintetizado: RD1533_1986 Regulacion de Asociaciones de Padres de Alumnos (AMPAS)
+titulo: Real Decreto 1533/1986, de 11 de julio, por el que se regulan las asociaciones
+  de padres de alumnos.
+jurisdiccion: España
+ambito: Estatal
+organo_emisor: Ministerio de Educación y Ciencia
+tipo_disposicion: Real Decreto
+numero_disposicion: 1533/1986
+fecha_disposicion: '1986-07-11'
+fecha_publicacion: '1986-07-29'
+boletin: BOE
+numero_boletin: '180'
+estado: Vigente
+redaccion: consolidada
+fuente_oficial: https://www.boe.es/buscar/act.php?id=BOE-A-1986-20181
 clasificacion:
-  categoria_canonica: "04_organizacion_escolar_y_funcionamiento"
-  subcategoria: "Asociaciones de Padres y Madres (AMPAS)"
-
+  categoria_canonica: 04_organizacion_escolar_y_funcionamiento
+  subcategoria: Asociaciones de Padres y Madres (AMPAS)
 tags:
-  - ampas
-  - participacion_familias
-  - comunidad_educativa
-  - estatal
-
+- ampas
+- participacion_familias
+- comunidad_educativa
+- estatal
 relaciones:
   desarrolla:
-    - norma_id: "norm-es-lo-8-1985"
-      articulos_origen: ["Todos"]
-      articulos_destino: ["5"]
-      nota: "Desarrolla el derecho de participación de los padres de alumnos regulado en el artículo 5 de la LODE."
-
+  - norma_id: norm-es-lo-8-1985
+    articulos_origen:
+    - Todos
+    articulos_destino:
+    - '5'
+    nota: Desarrolla el derecho de participación de los padres de alumnos regulado
+      en el artículo 5 de la LODE.
 fundamentos_derecho:
-  - norma_id: "norm-es-lo-8-1985"
-    articulos: ["5"]
+- norma_id: norm-es-lo-8-1985
+  articulos:
+  - '5'
+- norma_id: norm-es-ce-1978
+  articulos:
+  - '27'
 ---
 
 # Real Decreto 1533/1986 por el que se regulan las asociaciones de padres de alumnos

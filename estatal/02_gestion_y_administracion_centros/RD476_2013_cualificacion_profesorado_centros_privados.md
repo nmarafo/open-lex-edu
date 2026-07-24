@@ -1,40 +1,47 @@
 ---
 id: norm-es-rd-476-2013
-codigo_sintetizado: "RD476_2013 Cualificacion del Profesorado en Centros Privados"
-titulo: "Real Decreto 476/2013, de 21 de junio, por el que se regulan las condiciones de cualificación y formación del profesorado de los centros privados de educación secundaria obligatoria y de bachillerato."
-jurisdiccion: "España"
-ambito: "Estatal"
-organo_emisor: "Ministerio de Educación, Cultura y Deporte"
-tipo_disposicion: "Real Decreto"
-numero_disposicion: "476/2013"
-fecha_disposicion: "2013-06-21"
-fecha_publicacion: "2013-07-13"
-boletin: "BOE"
-numero_boletin: "167"
-estado: "Vigente"
-redaccion: "consolidada"
-fuente_oficial: "https://www.boe.es/buscar/act.php?id=BOE-A-2013-7708"
-
+codigo_sintetizado: RD476_2013 Cualificacion del Profesorado en Centros Privados
+titulo: Real Decreto 476/2013, de 21 de junio, por el que se regulan las condiciones
+  de cualificación y formación del profesorado de los centros privados de educación
+  secundaria obligatoria y de bachillerato.
+jurisdiccion: España
+ambito: Estatal
+organo_emisor: Ministerio de Educación, Cultura y Deporte
+tipo_disposicion: Real Decreto
+numero_disposicion: 476/2013
+fecha_disposicion: '2013-06-21'
+fecha_publicacion: '2013-07-13'
+boletin: BOE
+numero_boletin: '167'
+estado: Vigente
+redaccion: consolidada
+fuente_oficial: https://www.boe.es/buscar/act.php?id=BOE-A-2013-7708
 clasificacion:
-  categoria_canonica: "02_gestion_y_administracion_centros"
-  subcategoria: "Centros privados"
-
+  categoria_canonica: 02_gestion_y_administracion_centros
+  subcategoria: Centros privados
 tags:
-  - centros_privados
-  - cualificacion_profesorado
-  - titulaciones_requeridas
-  - estatal
-
+- centros_privados
+- cualificacion_profesorado
+- titulaciones_requeridas
+- estatal
 relaciones:
   desarrolla:
-    - norma_id: "norm-es-lo-2-2006"
-      articulos_origen: ["Todos"]
-      articulos_destino: ["93", "94"]
-      nota: "Regula las condiciones específicas de titulación para impartir docencia en centros privados no universitarios."
-
+  - norma_id: norm-es-lo-2-2006
+    articulos_origen:
+    - Todos
+    articulos_destino:
+    - '93'
+    - '94'
+    nota: Regula las condiciones específicas de titulación para impartir docencia
+      en centros privados no universitarios.
 fundamentos_derecho:
-  - norma_id: "norm-es-lo-2-2006"
-    articulos: ["93", "94"]
+- norma_id: norm-es-lo-2-2006
+  articulos:
+  - '93'
+  - '94'
+- norma_id: norm-es-ce-1978
+  articulos:
+  - '27'
 ---
 
 # Real Decreto 476/2013 - Cualificación del Profesorado en Centros Privados

@@ -1,28 +1,31 @@
 ---
 id: norm-es-2022-1274
-codigo_sintetizado: "BOE-A-2022-1274"
-titulo: "Real Decreto 62/2022, de 25 de enero, de flexibilización de los requisitos exigibles para impartir ofertas de formación profesional conducentes a la obtención de certificados de profesionalidad, así como de la oferta de formación profesional en centros del sistema educativo y de formación profesional para el empleo."
-jurisdiccion: "España"
-ambito: "Estatal"
-organo_emisor: "Jefatura del Estado / Ministerio"
-tipo_disposicion: "Real Decreto / Orden"
-fecha_publicacion: "2022-01-27"
-boletin: "BOE"
-estado: "Vigente"
-redaccion: "consolidada"
-fuente_oficial: "https://www.boe.es/buscar/act.php?id=BOE-A-2022-1274"
-
+codigo_sintetizado: BOE-A-2022-1274
+titulo: Real Decreto 62/2022, de 25 de enero, de flexibilización de los requisitos
+  exigibles para impartir ofertas de formación profesional conducentes a la obtención
+  de certificados de profesionalidad, así como de la oferta de formación profesional
+  en centros del sistema educativo y de formación profesional para el empleo.
+jurisdiccion: España
+ambito: Estatal
+organo_emisor: Jefatura del Estado / Ministerio
+tipo_disposicion: Real Decreto / Orden
+fecha_publicacion: '2022-01-27'
+boletin: BOE
+estado: Vigente
+redaccion: consolidada
+fuente_oficial: https://www.boe.es/buscar/act.php?id=BOE-A-2022-1274
 clasificacion:
-  categoria_canonica: "03_ordenacion_curricular_y_ensenanzas"
-  subcategoria: "Formación Profesional"
-
+  categoria_canonica: 03_ordenacion_curricular_y_ensenanzas
+  subcategoria: Formación Profesional
 tags:
-  - estatal
-  - boe
-  - 03_ordenacion_curricular_y_ensenanzas
-
+- estatal
+- boe
+- 03_ordenacion_curricular_y_ensenanzas
 relaciones: {}
-fundamentos_derecho: []
+fundamentos_derecho:
+- norma_id: norm-es-l-39-2015
+  articulos:
+  - '1'
 ---
 
 # Real Decreto 62/2022, de 25 de enero, de flexibilización de los requisitos exigibles para impartir ofertas de formación profesional conducentes a la obtención de certificados de profesionalidad, así como de la oferta de formación profesional en centros del sistema educativo y de formación profesional para el empleo.

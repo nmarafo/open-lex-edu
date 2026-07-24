@@ -1,40 +1,50 @@
 ---
 id: norm-es-rd-95-2022
-codigo_sintetizado: "RD95_2022 Ensenanzas Minimas de Educacion Infantil"
-titulo: "Real Decreto 95/2022, de 1 de febrero, por el que se establece la ordenación y las enseñanzas mínimas de la Educación Infantil."
-jurisdiccion: "España"
-ambito: "Estatal"
-organo_emisor: "Ministerio de Educación y Formación Profesional"
-tipo_disposicion: "Real Decreto"
-numero_disposicion: "95/2022"
-fecha_disposicion: "2022-02-01"
-fecha_publicacion: "2022-02-02"
-boletin: "BOE"
-numero_boletin: "28"
-estado: "Vigente"
-redaccion: "consolidada"
-fuente_oficial: "https://www.boe.es/buscar/act.php?id=BOE-A-2022-1654"
-
+codigo_sintetizado: RD95_2022 Ensenanzas Minimas de Educacion Infantil
+titulo: Real Decreto 95/2022, de 1 de febrero, por el que se establece la ordenación
+  y las enseñanzas mínimas de la Educación Infantil.
+jurisdiccion: España
+ambito: Estatal
+organo_emisor: Ministerio de Educación y Formación Profesional
+tipo_disposicion: Real Decreto
+numero_disposicion: 95/2022
+fecha_disposicion: '2022-02-01'
+fecha_publicacion: '2022-02-02'
+boletin: BOE
+numero_boletin: '28'
+estado: Vigente
+redaccion: consolidada
+fuente_oficial: https://www.boe.es/buscar/act.php?id=BOE-A-2022-1654
 clasificacion:
-  categoria_canonica: "03_ordenacion_curricular_y_ensenanzas"
-  subcategoria: "Educación Infantil"
-
+  categoria_canonica: 03_ordenacion_curricular_y_ensenanzas
+  subcategoria: Educación Infantil
 tags:
-  - educacion_infantil
-  - ordenacion_infantil
-  - ensenanzas_minimas
-  - estatal
-
+- educacion_infantil
+- ordenacion_infantil
+- ensenanzas_minimas
+- estatal
 relaciones:
   desarrolla:
-    - norma_id: "norm-es-lo-2-2006"
-      articulos_origen: ["Todos"]
-      articulos_destino: ["14", "15"]
-      nota: "Establece la ordenación y enseñanzas mínimas de Educación Infantil tras la reforma LOMLOE."
-
+  - norma_id: norm-es-lo-2-2006
+    articulos_origen:
+    - Todos
+    articulos_destino:
+    - '14'
+    - '15'
+    nota: Establece la ordenación y enseñanzas mínimas de Educación Infantil tras
+      la reforma LOMLOE.
 fundamentos_derecho:
-  - norma_id: "norm-es-lo-2-2006"
-    articulos: ["6.2", "14", "15"]
+- norma_id: norm-es-lo-2-2006
+  articulos:
+  - '6.2'
+  - '14'
+  - '15'
+- norma_id: norm-es-ce-1978
+  articulos:
+  - '27'
+- norma_id: norm-es-l-39-2015
+  articulos:
+  - '1'
 ---
 
 # Real Decreto 95/2022 - Ordenación y Enseñanzas Mínimas de la Educación Infantil

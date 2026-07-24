@@ -1,28 +1,31 @@
 ---
 id: norm-es-2012-9282
-codigo_sintetizado: "BOE-A-2012-9282"
-titulo: "Ley 4/2012, de 25 de junio, de medidas administrativas y fiscales."
-jurisdiccion: "España"
-ambito: "Estatal"
-organo_emisor: "Jefatura del Estado / Ministerio"
-tipo_disposicion: "Real Decreto / Orden"
-fecha_publicacion: "2012-07-12"
-boletin: "BOE"
-estado: "Vigente"
-redaccion: "consolidada"
-fuente_oficial: "https://www.boe.es/buscar/act.php?id=BOE-A-2012-9282"
-
+codigo_sintetizado: BOE-A-2012-9282
+titulo: Ley 4/2012, de 25 de junio, de medidas administrativas y fiscales.
+jurisdiccion: España
+ambito: Estatal
+organo_emisor: Jefatura del Estado / Ministerio
+tipo_disposicion: Real Decreto / Orden
+fecha_publicacion: '2012-07-12'
+boletin: BOE
+estado: Vigente
+redaccion: consolidada
+fuente_oficial: https://www.boe.es/buscar/act.php?id=BOE-A-2012-9282
 clasificacion:
-  categoria_canonica: "08_personal_docente"
-  subcategoria: "Permisos, licencias y vacaciones"
-
+  categoria_canonica: 08_personal_docente
+  subcategoria: Permisos, licencias y vacaciones
 tags:
-  - estatal
-  - boe
-  - 08_personal_docente
-
+- estatal
+- boe
+- 08_personal_docente
 relaciones: {}
-fundamentos_derecho: []
+fundamentos_derecho:
+- norma_id: norm-es-ce-1978
+  articulos:
+  - '27'
+- norma_id: norm-can-l-2-1987
+  articulos:
+  - '1'
 ---
 
 # Ley 4/2012, de 25 de junio, de medidas administrativas y fiscales.

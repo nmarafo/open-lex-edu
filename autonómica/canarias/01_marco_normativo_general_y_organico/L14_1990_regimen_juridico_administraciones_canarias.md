@@ -1,31 +1,35 @@
 ---
 id: norm-can-l-14-1990
-codigo_sintetizado: "L14_1990 Regimen Juridico Administraciones Canarias"
-titulo: "Ley 14/1990, de 26 de julio, de Régimen Jurídico de las Administraciones Públicas de Canarias."
-jurisdiccion: "Canarias"
-ambito: "Autonómico"
-organo_emisor: "Presidencia del Gobierno de Canarias"
-tipo_disposicion: "Ley"
-numero_disposicion: "14/1990"
-fecha_disposicion: "1990-07-26"
-fecha_publicacion: "1990-09-19"
-boletin: "BOE"
-numero_boletin: "225"
-estado: "Vigente"
-redaccion: "consolidada"
-fuente_oficial: "https://www.boe.es/buscar/act.php?id=BOE-A-1990-23140"
-
+codigo_sintetizado: L14_1990 Regimen Juridico Administraciones Canarias
+titulo: Ley 14/1990, de 26 de julio, de Régimen Jurídico de las Administraciones Públicas
+  de Canarias.
+jurisdiccion: Canarias
+ambito: Autonómico
+organo_emisor: Presidencia del Gobierno de Canarias
+tipo_disposicion: Ley
+numero_disposicion: 14/1990
+fecha_disposicion: '1990-07-26'
+fecha_publicacion: '1990-09-19'
+boletin: BOE
+numero_boletin: '225'
+estado: Vigente
+redaccion: consolidada
+fuente_oficial: https://www.boe.es/buscar/act.php?id=BOE-A-1990-23140
 clasificacion:
-  categoria_canonica: "01_marco_normativo_general_y_organico"
-  subcategoria: "Estructura de la Consejería"
-
+  categoria_canonica: 01_marco_normativo_general_y_organico
+  subcategoria: Estructura de la Consejería
 tags:
-  - canarias
-  - administracion_publica
-  - competencias
-
+- canarias
+- administracion_publica
+- competencias
 relaciones: {}
-fundamentos_derecho: []
+fundamentos_derecho:
+- norma_id: norm-es-ce-1978
+  articulos:
+  - '27'
+- norma_id: norm-can-lo-1-2018
+  articulos:
+  - '136'
 ---
 
 # Ley 14/1990, de 26 de julio, de Régimen Jurídico de las Administraciones Públicas de Canarias

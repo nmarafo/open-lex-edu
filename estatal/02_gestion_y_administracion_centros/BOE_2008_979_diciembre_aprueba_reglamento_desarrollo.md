@@ -1,28 +1,33 @@
 ---
 id: norm-es-2008-979
-codigo_sintetizado: "BOE-A-2008-979"
-titulo: "Real Decreto 1720/2007, de 21 de diciembre, por el que se aprueba el Reglamento de desarrollo de la Ley Orgánica 15/1999, de 13 de diciembre, de protección de datos de carácter personal."
-jurisdiccion: "España"
-ambito: "Estatal"
-organo_emisor: "Jefatura del Estado / Ministerio"
-tipo_disposicion: "Real Decreto / Orden"
-fecha_publicacion: "2008-01-19"
-boletin: "BOE"
-estado: "Vigente"
-redaccion: "consolidada"
-fuente_oficial: "https://www.boe.es/buscar/act.php?id=BOE-A-2008-979"
-
+codigo_sintetizado: BOE-A-2008-979
+titulo: Real Decreto 1720/2007, de 21 de diciembre, por el que se aprueba el Reglamento
+  de desarrollo de la Ley Orgánica 15/1999, de 13 de diciembre, de protección de datos
+  de carácter personal.
+jurisdiccion: España
+ambito: Estatal
+organo_emisor: Jefatura del Estado / Ministerio
+tipo_disposicion: Real Decreto / Orden
+fecha_publicacion: '2008-01-19'
+boletin: BOE
+estado: Vigente
+redaccion: consolidada
+fuente_oficial: https://www.boe.es/buscar/act.php?id=BOE-A-2008-979
 clasificacion:
-  categoria_canonica: "02_gestion_y_administracion_centros"
-  subcategoria: "Protección de datos y seguridad de la información"
-
+  categoria_canonica: 02_gestion_y_administracion_centros
+  subcategoria: Protección de datos y seguridad de la información
 tags:
-  - estatal
-  - boe
-  - 02_gestion_y_administracion_centros
-
+- estatal
+- boe
+- 02_gestion_y_administracion_centros
 relaciones: {}
-fundamentos_derecho: []
+fundamentos_derecho:
+- norma_id: norm-es-l-39-2015
+  articulos:
+  - '1'
+- norma_id: norm-es-lo-3-2018
+  articulos:
+  - '1'
 ---
 
 # Real Decreto 1720/2007, de 21 de diciembre, por el que se aprueba el Reglamento de desarrollo de la Ley Orgánica 15/1999, de 13 de diciembre, de protección de datos de carácter personal.

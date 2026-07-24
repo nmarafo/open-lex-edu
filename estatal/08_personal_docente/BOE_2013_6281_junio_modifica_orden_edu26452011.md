@@ -1,28 +1,33 @@
 ---
 id: norm-es-2013-6281
-codigo_sintetizado: "BOE-A-2013-6281"
-titulo: "Orden ECD/1058/2013, de 7 de junio, por la que se modifica la Orden EDU/2645/2011, de 23 de septiembre, por la que se establece la formación equivalente a la formación pedagógica y didáctica exigida para aquellas personas que, estando en posesión de una titulación declarada equivalente a efectos de docencia, no pueden realizar los estudios de máster."
-jurisdiccion: "España"
-ambito: "Estatal"
-organo_emisor: "Jefatura del Estado / Ministerio"
-tipo_disposicion: "Real Decreto / Orden"
-fecha_publicacion: "2013-06-12"
-boletin: "BOE"
-estado: "Vigente"
-redaccion: "consolidada"
-fuente_oficial: "https://www.boe.es/buscar/act.php?id=BOE-A-2013-6281"
-
+codigo_sintetizado: BOE-A-2013-6281
+titulo: Orden ECD/1058/2013, de 7 de junio, por la que se modifica la Orden EDU/2645/2011,
+  de 23 de septiembre, por la que se establece la formación equivalente a la formación
+  pedagógica y didáctica exigida para aquellas personas que, estando en posesión de
+  una titulación declarada equivalente a efectos de docencia, no pueden realizar los
+  estudios de máster.
+jurisdiccion: España
+ambito: Estatal
+organo_emisor: Jefatura del Estado / Ministerio
+tipo_disposicion: Real Decreto / Orden
+fecha_publicacion: '2013-06-12'
+boletin: BOE
+estado: Vigente
+redaccion: consolidada
+fuente_oficial: https://www.boe.es/buscar/act.php?id=BOE-A-2013-6281
 clasificacion:
-  categoria_canonica: "08_personal_docente"
-  subcategoria: "Formación del profesorado"
-
+  categoria_canonica: 08_personal_docente
+  subcategoria: Formación del profesorado
 tags:
-  - estatal
-  - boe
-  - 08_personal_docente
-
+- estatal
+- boe
+- 08_personal_docente
 relaciones: {}
-fundamentos_derecho: []
+fundamentos_derecho:
+- norma_id: norm-es-lo-2-2006
+  articulos:
+  - '1'
+  - '2'
 ---
 
 # Orden ECD/1058/2013, de 7 de junio, por la que se modifica la Orden EDU/2645/2011, de 23 de septiembre, por la que se establece la formación equivalente a la formación pedagógica y didáctica exigida para aquellas personas que, estando en posesión de una titulación declarada equivalente a efectos de docencia, no pueden realizar los estudios de máster.

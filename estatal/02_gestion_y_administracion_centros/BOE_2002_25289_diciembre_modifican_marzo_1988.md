@@ -1,28 +1,31 @@
 ---
 id: norm-es-2002-25289
-codigo_sintetizado: "BOE-A-2002-25289"
-titulo: "Orden ECD/3305/2002, de 16 de diciembre, por la que se modifican las de 14 de marzo de 1988 y de 30 de abril de 1996, para la aplicación de lo dispuesto en el Real Decreto 104/1988, de 29 de enero, sobre homologación y convalidación de títulos y estudios extranjeros de educación no universitaria."
-jurisdiccion: "España"
-ambito: "Estatal"
-organo_emisor: "Jefatura del Estado / Ministerio"
-tipo_disposicion: "Real Decreto / Orden"
-fecha_publicacion: "2002-12-28"
-boletin: "BOE"
-estado: "Vigente"
-redaccion: "consolidada"
-fuente_oficial: "https://www.boe.es/buscar/act.php?id=BOE-A-2002-25289"
-
+codigo_sintetizado: BOE-A-2002-25289
+titulo: Orden ECD/3305/2002, de 16 de diciembre, por la que se modifican las de 14
+  de marzo de 1988 y de 30 de abril de 1996, para la aplicación de lo dispuesto en
+  el Real Decreto 104/1988, de 29 de enero, sobre homologación y convalidación de
+  títulos y estudios extranjeros de educación no universitaria.
+jurisdiccion: España
+ambito: Estatal
+organo_emisor: Jefatura del Estado / Ministerio
+tipo_disposicion: Real Decreto / Orden
+fecha_publicacion: '2002-12-28'
+boletin: BOE
+estado: Vigente
+redaccion: consolidada
+fuente_oficial: https://www.boe.es/buscar/act.php?id=BOE-A-2002-25289
 clasificacion:
-  categoria_canonica: "02_gestion_y_administracion_centros"
-  subcategoria: "Centros extranjeros"
-
+  categoria_canonica: 02_gestion_y_administracion_centros
+  subcategoria: Centros extranjeros
 tags:
-  - estatal
-  - boe
-  - 02_gestion_y_administracion_centros
-
+- estatal
+- boe
+- 02_gestion_y_administracion_centros
 relaciones: {}
-fundamentos_derecho: []
+fundamentos_derecho:
+- norma_id: norm-es-l-39-2015
+  articulos:
+  - '1'
 ---
 
 # Orden ECD/3305/2002, de 16 de diciembre, por la que se modifican las de 14 de marzo de 1988 y de 30 de abril de 1996, para la aplicación de lo dispuesto en el Real Decreto 104/1988, de 29 de enero, sobre homologación y convalidación de títulos y estudios extranjeros de educación no universitaria.

@@ -1,28 +1,34 @@
 ---
 id: norm-es-2007-22017
-codigo_sintetizado: "BOE-A-2007-22017"
-titulo: "Resolución de 17 de diciembre de 2007, de la Secretaría de Estado de Universidades e Investigación, por la que se publica el Acuerdo de Consejo de Ministros de 14 de diciembre de 2007, por el que se establecen las condiciones a las que deberán adecuarse los planes de estudios conducentes a la obtención de títulos que habiliten para el ejercicio de las profesiones reguladas de Profesor de Educación Secundaria Obligatoria y Bachillerato, Formación Profesional y Enseñanzas de Idiomas."
-jurisdiccion: "España"
-ambito: "Estatal"
-organo_emisor: "Jefatura del Estado / Ministerio"
-tipo_disposicion: "Real Decreto / Orden"
-fecha_publicacion: "2007-12-21"
-boletin: "BOE"
-estado: "Vigente"
-redaccion: "consolidada"
-fuente_oficial: "https://www.boe.es/buscar/act.php?id=BOE-A-2007-22017"
-
+codigo_sintetizado: BOE-A-2007-22017
+titulo: Resolución de 17 de diciembre de 2007, de la Secretaría de Estado de Universidades
+  e Investigación, por la que se publica el Acuerdo de Consejo de Ministros de 14
+  de diciembre de 2007, por el que se establecen las condiciones a las que deberán
+  adecuarse los planes de estudios conducentes a la obtención de títulos que habiliten
+  para el ejercicio de las profesiones reguladas de Profesor de Educación Secundaria
+  Obligatoria y Bachillerato, Formación Profesional y Enseñanzas de Idiomas.
+jurisdiccion: España
+ambito: Estatal
+organo_emisor: Jefatura del Estado / Ministerio
+tipo_disposicion: Real Decreto / Orden
+fecha_publicacion: '2007-12-21'
+boletin: BOE
+estado: Vigente
+redaccion: consolidada
+fuente_oficial: https://www.boe.es/buscar/act.php?id=BOE-A-2007-22017
 clasificacion:
-  categoria_canonica: "08_personal_docente"
-  subcategoria: "Formación del profesorado"
-
+  categoria_canonica: 08_personal_docente
+  subcategoria: Formación del profesorado
 tags:
-  - estatal
-  - boe
-  - 08_personal_docente
-
+- estatal
+- boe
+- 08_personal_docente
 relaciones: {}
-fundamentos_derecho: []
+fundamentos_derecho:
+- norma_id: norm-es-lo-2-2006
+  articulos:
+  - '1'
+  - '2'
 ---
 
 # Resolución de 17 de diciembre de 2007, de la Secretaría de Estado de Universidades e Investigación, por la que se publica el Acuerdo de Consejo de Ministros de 14 de diciembre de 2007, por el que se establecen las condiciones a las que deberán adecuarse los planes de estudios conducentes a la obtención de títulos que habiliten para el ejercicio de las profesiones reguladas de Profesor de Educación Secundaria Obligatoria y Bachillerato, Formación Profesional y Enseñanzas de Idiomas.

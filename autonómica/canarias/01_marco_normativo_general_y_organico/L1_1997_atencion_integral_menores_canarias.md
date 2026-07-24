@@ -1,41 +1,43 @@
 ---
 id: norm-can-l-1-1997
-codigo_sintetizado: "L1_1997 Ley de Atencion Integral a los Menores de Canarias"
-titulo: "Ley 1/1997, de 7 de febrero, de Atención Integral a los Menores."
-jurisdiccion: "Canarias"
-ambito: "Autonómico"
-organo_emisor: "Presidencia del Gobierno de Canarias"
-tipo_disposicion: "Ley"
-numero_disposicion: "1/1997"
-fecha_disposicion: "1997-02-07"
-fecha_publicacion: "1997-02-17"
-boletin: "BOC"
-numero_boletin: "23"
-estado: "Vigente"
-redaccion: "consolidada"
-fuente_oficial: "https://www.boe.es/buscar/act.php?id=BOE-A-1997-5498"
-fuente_juriscan: "https://www.gobiernodecanarias.org/juriscan/ficha.jsp?id=24060"
-
+codigo_sintetizado: L1_1997 Ley de Atencion Integral a los Menores de Canarias
+titulo: Ley 1/1997, de 7 de febrero, de Atención Integral a los Menores.
+jurisdiccion: Canarias
+ambito: Autonómico
+organo_emisor: Presidencia del Gobierno de Canarias
+tipo_disposicion: Ley
+numero_disposicion: 1/1997
+fecha_disposicion: '1997-02-07'
+fecha_publicacion: '1997-02-17'
+boletin: BOC
+numero_boletin: '23'
+estado: Vigente
+redaccion: consolidada
+fuente_oficial: https://www.boe.es/buscar/act.php?id=BOE-A-1997-5498
+fuente_juriscan: https://www.gobiernodecanarias.org/juriscan/ficha.jsp?id=24060
 clasificacion:
-  categoria_canonica: "01_marco_normativo_general_y_organico"
-  subcategoria: "Protección jurídica de menores"
-
+  categoria_canonica: 01_marco_normativo_general_y_organico
+  subcategoria: Protección jurídica de menores
 tags:
-  - canarias
-  - proteccion_menores
-  - atencion_integral
-  - desamparo_riesgo
-
+- canarias
+- proteccion_menores
+- atencion_integral
+- desamparo_riesgo
 relaciones:
   desarrolla:
-    - norma_id: "norm-es-lo-1-1996"
-      articulos_origen: ["Todos"]
-      articulos_destino: ["Todos"]
-      nota: "Desarrolla el marco básico estatal de protección de menores en Canarias."
-
+  - norma_id: norm-es-lo-1-1996
+    articulos_origen:
+    - Todos
+    articulos_destino:
+    - Todos
+    nota: Desarrolla el marco básico estatal de protección de menores en Canarias.
 fundamentos_derecho:
-  - norma_id: "norm-can-lo-1-2018"
-    articulos: ["144"]
+- norma_id: norm-can-lo-1-2018
+  articulos:
+  - '144'
+- norma_id: norm-es-ce-1978
+  articulos:
+  - '27'
 ---
 
 # Ley 1/1997 de Atención Integral a los Menores de Canarias

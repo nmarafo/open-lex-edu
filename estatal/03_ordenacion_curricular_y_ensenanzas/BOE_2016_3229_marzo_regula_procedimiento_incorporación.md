@@ -1,28 +1,36 @@
 ---
 id: norm-es-2016-3229
-codigo_sintetizado: "BOE-A-2016-3229"
-titulo: "Orden ECD/462/2016, de 31 de marzo, por la que se regula el procedimiento de incorporación del alumnado a un curso de Educación Secundaria Obligatoria o de Bachillerato del sistema educativo definido por la Ley Orgánica 8/2013, de 9 de diciembre, para la mejora de la calidad educativa, con materias no superadas del currículo anterior a su implantación."
-jurisdiccion: "España"
-ambito: "Estatal"
-organo_emisor: "Jefatura del Estado / Ministerio"
-tipo_disposicion: "Real Decreto / Orden"
-fecha_publicacion: "2016-04-05"
-boletin: "BOE"
-estado: "Vigente"
-redaccion: "consolidada"
-fuente_oficial: "https://www.boe.es/buscar/act.php?id=BOE-A-2016-3229"
-
+codigo_sintetizado: BOE-A-2016-3229
+titulo: Orden ECD/462/2016, de 31 de marzo, por la que se regula el procedimiento
+  de incorporación del alumnado a un curso de Educación Secundaria Obligatoria o de
+  Bachillerato del sistema educativo definido por la Ley Orgánica 8/2013, de 9 de
+  diciembre, para la mejora de la calidad educativa, con materias no superadas del
+  currículo anterior a su implantación.
+jurisdiccion: España
+ambito: Estatal
+organo_emisor: Jefatura del Estado / Ministerio
+tipo_disposicion: Real Decreto / Orden
+fecha_publicacion: '2016-04-05'
+boletin: BOE
+estado: Vigente
+redaccion: consolidada
+fuente_oficial: https://www.boe.es/buscar/act.php?id=BOE-A-2016-3229
 clasificacion:
-  categoria_canonica: "03_ordenacion_curricular_y_ensenanzas"
-  subcategoria: "Educación Secundaria Obligatoria (ESO)"
-
+  categoria_canonica: 03_ordenacion_curricular_y_ensenanzas
+  subcategoria: Educación Secundaria Obligatoria (ESO)
 tags:
-  - estatal
-  - boe
-  - 03_ordenacion_curricular_y_ensenanzas
-
+- estatal
+- boe
+- 03_ordenacion_curricular_y_ensenanzas
 relaciones: {}
-fundamentos_derecho: []
+fundamentos_derecho:
+- norma_id: norm-es-ce-1978
+  articulos:
+  - '27'
+- norma_id: norm-es-lo-2-2006
+  articulos:
+  - '1'
+  - '2'
 ---
 
 # Orden ECD/462/2016, de 31 de marzo, por la que se regula el procedimiento de incorporación del alumnado a un curso de Educación Secundaria Obligatoria o de Bachillerato del sistema educativo definido por la Ley Orgánica 8/2013, de 9 de diciembre, para la mejora de la calidad educativa, con materias no superadas del currículo anterior a su implantación.

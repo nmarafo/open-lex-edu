@@ -1,28 +1,30 @@
 ---
 id: norm-es-1993-16128
-codigo_sintetizado: "BOE-A-1993-16128"
-titulo: "Real Decreto 806/1993, de 28 de mayo, sobre régimen de Centros docentes extranjeros en España."
-jurisdiccion: "España"
-ambito: "Estatal"
-organo_emisor: "Jefatura del Estado / Ministerio"
-tipo_disposicion: "Real Decreto / Orden"
-fecha_publicacion: "1993-06-23"
-boletin: "BOE"
-estado: "Vigente"
-redaccion: "consolidada"
-fuente_oficial: "https://www.boe.es/buscar/act.php?id=BOE-A-1993-16128"
-
+codigo_sintetizado: BOE-A-1993-16128
+titulo: Real Decreto 806/1993, de 28 de mayo, sobre régimen de Centros docentes extranjeros
+  en España.
+jurisdiccion: España
+ambito: Estatal
+organo_emisor: Jefatura del Estado / Ministerio
+tipo_disposicion: Real Decreto / Orden
+fecha_publicacion: '1993-06-23'
+boletin: BOE
+estado: Vigente
+redaccion: consolidada
+fuente_oficial: https://www.boe.es/buscar/act.php?id=BOE-A-1993-16128
 clasificacion:
-  categoria_canonica: "02_gestion_y_administracion_centros"
-  subcategoria: "Centros extranjeros"
-
+  categoria_canonica: 02_gestion_y_administracion_centros
+  subcategoria: Centros extranjeros
 tags:
-  - estatal
-  - boe
-  - 02_gestion_y_administracion_centros
-
+- estatal
+- boe
+- 02_gestion_y_administracion_centros
 relaciones: {}
-fundamentos_derecho: []
+fundamentos_derecho:
+- norma_id: norm-es-lo-8-1985
+  articulos:
+  - '1'
+  - '6'
 ---
 
 # Real Decreto 806/1993, de 28 de mayo, sobre régimen de Centros docentes extranjeros en España.

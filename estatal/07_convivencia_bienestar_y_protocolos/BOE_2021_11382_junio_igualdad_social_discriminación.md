@@ -1,28 +1,29 @@
 ---
 id: norm-es-2021-11382
-codigo_sintetizado: "BOE-A-2021-11382"
-titulo: "Ley 2/2021, de 7 de junio, de igualdad social y no discriminación por razón de identidad de género, expresión de género y características sexuales."
-jurisdiccion: "España"
-ambito: "Estatal"
-organo_emisor: "Jefatura del Estado / Ministerio"
-tipo_disposicion: "Real Decreto / Orden"
-fecha_publicacion: "2021-07-09"
-boletin: "BOE"
-estado: "Vigente"
-redaccion: "consolidada"
-fuente_oficial: "https://www.boe.es/buscar/act.php?id=BOE-A-2021-11382"
-
+codigo_sintetizado: BOE-A-2021-11382
+titulo: Ley 2/2021, de 7 de junio, de igualdad social y no discriminación por razón
+  de identidad de género, expresión de género y características sexuales.
+jurisdiccion: España
+ambito: Estatal
+organo_emisor: Jefatura del Estado / Ministerio
+tipo_disposicion: Real Decreto / Orden
+fecha_publicacion: '2021-07-09'
+boletin: BOE
+estado: Vigente
+redaccion: consolidada
+fuente_oficial: https://www.boe.es/buscar/act.php?id=BOE-A-2021-11382
 clasificacion:
-  categoria_canonica: "07_convivencia_bienestar_y_protocolos"
-  subcategoria: "Protocolos de actuación y protección"
-
+  categoria_canonica: 07_convivencia_bienestar_y_protocolos
+  subcategoria: Protocolos de actuación y protección
 tags:
-  - estatal
-  - boe
-  - 07_convivencia_bienestar_y_protocolos
-
+- estatal
+- boe
+- 07_convivencia_bienestar_y_protocolos
 relaciones: {}
-fundamentos_derecho: []
+fundamentos_derecho:
+- norma_id: norm-can-lo-1-2018
+  articulos:
+  - '136'
 ---
 
 # Ley 2/2021, de 7 de junio, de igualdad social y no discriminación por razón de identidad de género, expresión de género y características sexuales.

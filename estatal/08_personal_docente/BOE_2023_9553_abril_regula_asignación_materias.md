@@ -1,28 +1,31 @@
 ---
 id: norm-es-2023-9553
-codigo_sintetizado: "BOE-A-2023-9553"
-titulo: "Real Decreto 286/2023, de 18 de abril, por el que se regula la asignación de materias en Educación Secundaria Obligatoria y en Bachillerato a las especialidades de distintos cuerpos de funcionarios docentes, y se modifican diversas normas relativas al profesorado de enseñanzas no universitarias."
-jurisdiccion: "España"
-ambito: "Estatal"
-organo_emisor: "Jefatura del Estado / Ministerio"
-tipo_disposicion: "Real Decreto / Orden"
-fecha_publicacion: "2023-04-19"
-boletin: "BOE"
-estado: "Vigente"
-redaccion: "consolidada"
-fuente_oficial: "https://www.boe.es/buscar/act.php?id=BOE-A-2023-9553"
-
+codigo_sintetizado: BOE-A-2023-9553
+titulo: Real Decreto 286/2023, de 18 de abril, por el que se regula la asignación
+  de materias en Educación Secundaria Obligatoria y en Bachillerato a las especialidades
+  de distintos cuerpos de funcionarios docentes, y se modifican diversas normas relativas
+  al profesorado de enseñanzas no universitarias.
+jurisdiccion: España
+ambito: Estatal
+organo_emisor: Jefatura del Estado / Ministerio
+tipo_disposicion: Real Decreto / Orden
+fecha_publicacion: '2023-04-19'
+boletin: BOE
+estado: Vigente
+redaccion: consolidada
+fuente_oficial: https://www.boe.es/buscar/act.php?id=BOE-A-2023-9553
 clasificacion:
-  categoria_canonica: "08_personal_docente"
-  subcategoria: "Especialidades y habilitaciones"
-
+  categoria_canonica: 08_personal_docente
+  subcategoria: Especialidades y habilitaciones
 tags:
-  - estatal
-  - boe
-  - 08_personal_docente
-
+- estatal
+- boe
+- 08_personal_docente
 relaciones: {}
-fundamentos_derecho: []
+fundamentos_derecho:
+- norma_id: norm-es-ce-1978
+  articulos:
+  - '27'
 ---
 
 # Real Decreto 286/2023, de 18 de abril, por el que se regula la asignación de materias en Educación Secundaria Obligatoria y en Bachillerato a las especialidades de distintos cuerpos de funcionarios docentes, y se modifican diversas normas relativas al profesorado de enseñanzas no universitarias.

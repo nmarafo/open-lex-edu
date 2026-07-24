@@ -1,28 +1,36 @@
 ---
 id: norm-es-2015-8470
-codigo_sintetizado: "BOE-A-2015-8470"
-titulo: "Ley 26/2015, de 28 de julio, de modificación del sistema de protección a la infancia y a la adolescencia."
-jurisdiccion: "España"
-ambito: "Estatal"
-organo_emisor: "Jefatura del Estado / Ministerio"
-tipo_disposicion: "Real Decreto / Orden"
-fecha_publicacion: "2015-07-29"
-boletin: "BOE"
-estado: "Vigente"
-redaccion: "consolidada"
-fuente_oficial: "https://www.boe.es/buscar/act.php?id=BOE-A-2015-8470"
-
+codigo_sintetizado: BOE-A-2015-8470
+titulo: Ley 26/2015, de 28 de julio, de modificación del sistema de protección a la
+  infancia y a la adolescencia.
+jurisdiccion: España
+ambito: Estatal
+organo_emisor: Jefatura del Estado / Ministerio
+tipo_disposicion: Real Decreto / Orden
+fecha_publicacion: '2015-07-29'
+boletin: BOE
+estado: Vigente
+redaccion: consolidada
+fuente_oficial: https://www.boe.es/buscar/act.php?id=BOE-A-2015-8470
 clasificacion:
-  categoria_canonica: "01_marco_normativo_general_y_organico"
-  subcategoria: "Protección jurídica de menores"
-
+  categoria_canonica: 01_marco_normativo_general_y_organico
+  subcategoria: Protección jurídica de menores
 tags:
-  - estatal
-  - boe
-  - 01_marco_normativo_general_y_organico
-
+- estatal
+- boe
+- 01_marco_normativo_general_y_organico
 relaciones: {}
-fundamentos_derecho: []
+fundamentos_derecho:
+- norma_id: norm-es-ce-1978
+  articulos:
+  - '27'
+- norma_id: norm-es-lo-2-2006
+  articulos:
+  - '1'
+  - '2'
+- norma_id: norm-es-rdl-5-2015
+  articulos:
+  - '1'
 ---
 
 # Ley 26/2015, de 28 de julio, de modificación del sistema de protección a la infancia y a la adolescencia.

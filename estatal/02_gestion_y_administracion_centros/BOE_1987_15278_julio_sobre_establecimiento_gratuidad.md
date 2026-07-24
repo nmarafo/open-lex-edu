@@ -1,28 +1,35 @@
 ---
 id: norm-es-1987-15278
-codigo_sintetizado: "BOE-A-1987-15278"
-titulo: "Ley 12/1987, de 2 de julio, sobre establecimiento de la gratuidad de los estudios de Bachillerato, Formación Profesional y Artes Aplicadas y Oficios Artísticos en los Centros públicos y la autonomía de gestión económica de los Centros docentes públicos no universitarios."
-jurisdiccion: "España"
-ambito: "Estatal"
-organo_emisor: "Jefatura del Estado / Ministerio"
-tipo_disposicion: "Real Decreto / Orden"
-fecha_publicacion: "1987-07-03"
-boletin: "BOE"
-estado: "Vigente"
-redaccion: "consolidada"
-fuente_oficial: "https://www.boe.es/buscar/act.php?id=BOE-A-1987-15278"
-
+codigo_sintetizado: BOE-A-1987-15278
+titulo: Ley 12/1987, de 2 de julio, sobre establecimiento de la gratuidad de los estudios
+  de Bachillerato, Formación Profesional y Artes Aplicadas y Oficios Artísticos en
+  los Centros públicos y la autonomía de gestión económica de los Centros docentes
+  públicos no universitarios.
+jurisdiccion: España
+ambito: Estatal
+organo_emisor: Jefatura del Estado / Ministerio
+tipo_disposicion: Real Decreto / Orden
+fecha_publicacion: '1987-07-03'
+boletin: BOE
+estado: Vigente
+redaccion: consolidada
+fuente_oficial: https://www.boe.es/buscar/act.php?id=BOE-A-1987-15278
 clasificacion:
-  categoria_canonica: "02_gestion_y_administracion_centros"
-  subcategoria: "Gestión económica de centros"
-
+  categoria_canonica: 02_gestion_y_administracion_centros
+  subcategoria: Gestión económica de centros
 tags:
-  - estatal
-  - boe
-  - 02_gestion_y_administracion_centros
-
+- estatal
+- boe
+- 02_gestion_y_administracion_centros
 relaciones: {}
-fundamentos_derecho: []
+fundamentos_derecho:
+- norma_id: norm-es-ce-1978
+  articulos:
+  - '27'
+- norma_id: norm-es-lo-8-1985
+  articulos:
+  - '1'
+  - '6'
 ---
 
 # Ley 12/1987, de 2 de julio, sobre establecimiento de la gratuidad de los estudios de Bachillerato, Formación Profesional y Artes Aplicadas y Oficios Artísticos en los Centros públicos y la autonomía de gestión económica de los Centros docentes públicos no universitarios.

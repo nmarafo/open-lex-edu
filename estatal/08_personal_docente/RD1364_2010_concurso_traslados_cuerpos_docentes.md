@@ -1,41 +1,46 @@
 ---
 id: norm-es-rd-1364-2010
-codigo_sintetizado: "RD1364_2010 Regulacion del Concurso de Traslados Docente"
-titulo: "Real Decreto 1364/2010, de 29 de octubre, por el que se regula el concurso de traslados de ámbito estatal entre personal funcionario de los cuerpos docentes contemplados en la Ley Orgánica 2/2006, de 3 de mayo, de Educación y otros procedimientos de provisión de plazas a cubrir por los mismos."
-jurisdiccion: "España"
-ambito: "Estatal"
-organo_emisor: "Ministerio de Educación"
-tipo_disposicion: "Real Decreto"
-numero_disposicion: "1364/2010"
-fecha_disposicion: "2010-10-29"
-fecha_publicacion: "2010-10-30"
-boletin: "BOE"
-numero_boletin: "263"
-estado: "Vigente"
-redaccion: "consolidada"
-fuente_oficial: "https://www.boe.es/buscar/act.php?id=BOE-A-2010-16551"
-
+codigo_sintetizado: RD1364_2010 Regulacion del Concurso de Traslados Docente
+titulo: Real Decreto 1364/2010, de 29 de octubre, por el que se regula el concurso
+  de traslados de ámbito estatal entre personal funcionario de los cuerpos docentes
+  contemplados en la Ley Orgánica 2/2006, de 3 de mayo, de Educación y otros procedimientos
+  de provisión de plazas a cubrir por los mismos.
+jurisdiccion: España
+ambito: Estatal
+organo_emisor: Ministerio de Educación
+tipo_disposicion: Real Decreto
+numero_disposicion: 1364/2010
+fecha_disposicion: '2010-10-29'
+fecha_publicacion: '2010-10-30'
+boletin: BOE
+numero_boletin: '263'
+estado: Vigente
+redaccion: consolidada
+fuente_oficial: https://www.boe.es/buscar/act.php?id=BOE-A-2010-16551
 clasificacion:
-  categoria_canonica: "08_personal_docente"
-  subcategoria: "Selección y provisión de puestos"
-
+  categoria_canonica: 08_personal_docente
+  subcategoria: Selección y provisión de puestos
 tags:
-  - concurso_traslados
-  - provision_plazas
-  - baremo_meritos
-  - movilidad_docente
-  - estatal
-
+- concurso_traslados
+- provision_plazas
+- baremo_meritos
+- movilidad_docente
+- estatal
 relaciones:
   desarrolla:
-    - norma_id: "norm-es-lo-2-2006"
-      articulos_origen: ["Todos"]
-      articulos_destino: ["Disposición adicional sexta"]
-      nota: "Regula el concurso de traslados estatal entre funcionarios docentes."
-
+  - norma_id: norm-es-lo-2-2006
+    articulos_origen:
+    - Todos
+    articulos_destino:
+    - Disposición adicional sexta
+    nota: Regula el concurso de traslados estatal entre funcionarios docentes.
 fundamentos_derecho:
-  - norma_id: "norm-es-lo-2-2006"
-    articulos: ["Disposición adicional sexta"]
+- norma_id: norm-es-lo-2-2006
+  articulos:
+  - Disposición adicional sexta
+- norma_id: norm-es-rdl-5-2015
+  articulos:
+  - '1'
 ---
 
 # Real Decreto 1364/2010 - Concurso de Traslados Estatal Docente

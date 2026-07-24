@@ -1,34 +1,39 @@
 ---
 id: norm-es-l-19-2013
-codigo_sintetizado: "L19_2013 Transparencia y Buen Gobierno"
-titulo: "Ley 19/2013, de 9 de diciembre, de transparencia, acceso a la información pública y buen gobierno."
-jurisdiccion: "España"
-ambito: "Estatal"
-organo_emisor: "Jefatura del Estado"
-tipo_disposicion: "Ley"
-numero_disposicion: "19/2013"
-fecha_disposicion: "2013-12-09"
-fecha_publicacion: "2013-12-10"
-boletin: "BOE"
-numero_boletin: "295"
-estado: "Vigente"
-redaccion: "consolidada"
-fuente_oficial: "https://www.boe.es/buscar/act.php?id=BOE-A-2013-12887"
-
+codigo_sintetizado: L19_2013 Transparencia y Buen Gobierno
+titulo: Ley 19/2013, de 9 de diciembre, de transparencia, acceso a la información
+  pública y buen gobierno.
+jurisdiccion: España
+ambito: Estatal
+organo_emisor: Jefatura del Estado
+tipo_disposicion: Ley
+numero_disposicion: 19/2013
+fecha_disposicion: '2013-12-09'
+fecha_publicacion: '2013-12-10'
+boletin: BOE
+numero_boletin: '295'
+estado: Vigente
+redaccion: consolidada
+fuente_oficial: https://www.boe.es/buscar/act.php?id=BOE-A-2013-12887
 clasificacion:
-  categoria_canonica: "01_marco_normativo_general_y_organico"
-  subcategoria: "Empleados públicos"
-
+  categoria_canonica: 01_marco_normativo_general_y_organico
+  subcategoria: Empleados públicos
 tags:
-  - transparencia
-  - buen_gobierno
-  - acceso_informacion
-  - estatal
-
+- transparencia
+- buen_gobierno
+- acceso_informacion
+- estatal
 relaciones: {}
 fundamentos_derecho:
-  - norma_id: "norm-es-ce-1978"
-    articulos: ["105.b"]
+- norma_id: norm-es-ce-1978
+  articulos:
+  - 105.b
+- norma_id: norm-es-l-39-2015
+  articulos:
+  - '1'
+- norma_id: norm-es-lo-3-2018
+  articulos:
+  - '1'
 ---
 
 # Ley 19/2013 de Transparencia, Acceso a la Información Pública y Buen Gobierno

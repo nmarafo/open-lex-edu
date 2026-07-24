@@ -1,28 +1,30 @@
 ---
 id: norm-es-2003-4151
-codigo_sintetizado: "BOE-A-2003-4151"
-titulo: "Real Decreto 209/2003, de 21 de febrero, por el que se regulan los registros y las notificaciones telemáticas, así como la utilización de medios telemáticos para la sustitución de la aportación de certificados por los ciudadanos."
-jurisdiccion: "España"
-ambito: "Estatal"
-organo_emisor: "Jefatura del Estado / Ministerio"
-tipo_disposicion: "Real Decreto / Orden"
-fecha_publicacion: "2003-02-28"
-boletin: "BOE"
-estado: "Vigente"
-redaccion: "consolidada"
-fuente_oficial: "https://www.boe.es/buscar/act.php?id=BOE-A-2003-4151"
-
+codigo_sintetizado: BOE-A-2003-4151
+titulo: Real Decreto 209/2003, de 21 de febrero, por el que se regulan los registros
+  y las notificaciones telemáticas, así como la utilización de medios telemáticos
+  para la sustitución de la aportación de certificados por los ciudadanos.
+jurisdiccion: España
+ambito: Estatal
+organo_emisor: Jefatura del Estado / Ministerio
+tipo_disposicion: Real Decreto / Orden
+fecha_publicacion: '2003-02-28'
+boletin: BOE
+estado: Vigente
+redaccion: consolidada
+fuente_oficial: https://www.boe.es/buscar/act.php?id=BOE-A-2003-4151
 clasificacion:
-  categoria_canonica: "02_gestion_y_administracion_centros"
-  subcategoria: "Administración electrónica y firmas"
-
+  categoria_canonica: 02_gestion_y_administracion_centros
+  subcategoria: Administración electrónica y firmas
 tags:
-  - estatal
-  - boe
-  - 02_gestion_y_administracion_centros
-
+- estatal
+- boe
+- 02_gestion_y_administracion_centros
 relaciones: {}
-fundamentos_derecho: []
+fundamentos_derecho:
+- norma_id: norm-es-l-39-2015
+  articulos:
+  - '1'
 ---
 
 # Real Decreto 209/2003, de 21 de febrero, por el que se regulan los registros y las notificaciones telemáticas, así como la utilización de medios telemáticos para la sustitución de la aportación de certificados por los ciudadanos.

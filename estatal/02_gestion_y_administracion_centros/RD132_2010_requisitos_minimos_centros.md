@@ -1,40 +1,46 @@
 ---
 id: norm-es-rd-132-2010
-codigo_sintetizado: "RD132_2010 Requisitos Minimos de Centros Docentes"
-titulo: "Real Decreto 132/2010, de 12 de febrero, por el que se establecen los requisitos mínimos de los centros que impartan las enseñanzas del segundo ciclo de la educación infantil, la educación primaria y la educación secundaria."
-jurisdiccion: "España"
-ambito: "Estatal"
-organo_emisor: "Ministerio de Educación"
-tipo_disposicion: "Real Decreto"
-numero_disposicion: "132/2010"
-fecha_disposicion: "2010-02-12"
-fecha_publicacion: "2010-03-12"
-boletin: "BOE"
-numero_boletin: "62"
-estado: "Vigente"
-redaccion: "consolidada"
-fuente_oficial: "https://www.boe.es/buscar/act.php?id=BOE-A-2010-4132"
-
+codigo_sintetizado: RD132_2010 Requisitos Minimos de Centros Docentes
+titulo: Real Decreto 132/2010, de 12 de febrero, por el que se establecen los requisitos
+  mínimos de los centros que impartan las enseñanzas del segundo ciclo de la educación
+  infantil, la educación primaria y la educación secundaria.
+jurisdiccion: España
+ambito: Estatal
+organo_emisor: Ministerio de Educación
+tipo_disposicion: Real Decreto
+numero_disposicion: 132/2010
+fecha_disposicion: '2010-02-12'
+fecha_publicacion: '2010-03-12'
+boletin: BOE
+numero_boletin: '62'
+estado: Vigente
+redaccion: consolidada
+fuente_oficial: https://www.boe.es/buscar/act.php?id=BOE-A-2010-4132
 clasificacion:
-  categoria_canonica: "02_gestion_y_administracion_centros"
-  subcategoria: "Centros públicos"
-
+  categoria_canonica: 02_gestion_y_administracion_centros
+  subcategoria: Centros públicos
 tags:
-  - requisitos_minimos
-  - instalaciones_centros
-  - aula_instalaciones
-  - estatal
-
+- requisitos_minimos
+- instalaciones_centros
+- aula_instalaciones
+- estatal
 relaciones:
   desarrolla:
-    - norma_id: "norm-es-lo-2-2006"
-      articulos_origen: ["Todos"]
-      articulos_destino: ["107"]
-      nota: "Establece los requisitos mínimos de instalaciones y plantilla para los centros docentes no universitarios."
-
+  - norma_id: norm-es-lo-2-2006
+    articulos_origen:
+    - Todos
+    articulos_destino:
+    - '107'
+    nota: Establece los requisitos mínimos de instalaciones y plantilla para los centros
+      docentes no universitarios.
 fundamentos_derecho:
-  - norma_id: "norm-es-lo-2-2006"
-    articulos: ["107"]
+- norma_id: norm-es-lo-2-2006
+  articulos:
+  - '107'
+- norma_id: norm-es-lo-8-1985
+  articulos:
+  - '1'
+  - '6'
 ---
 
 # Real Decreto 132/2010 de Requisitos Mínimos de Centros Docentes

@@ -1,28 +1,32 @@
 ---
 id: norm-es-2002-12018
-codigo_sintetizado: "BOE-A-2002-12018"
-titulo: "Ley Orgánica 5/2002, de 19 de junio, de las Cualificaciones y de la Formación Profesional."
-jurisdiccion: "España"
-ambito: "Estatal"
-organo_emisor: "Jefatura del Estado / Ministerio"
-tipo_disposicion: "Real Decreto / Orden"
-fecha_publicacion: "2002-06-20"
-boletin: "BOE"
-estado: "Vigente"
-redaccion: "consolidada"
-fuente_oficial: "https://www.boe.es/buscar/act.php?id=BOE-A-2002-12018"
-
+codigo_sintetizado: BOE-A-2002-12018
+titulo: Ley Orgánica 5/2002, de 19 de junio, de las Cualificaciones y de la Formación
+  Profesional.
+jurisdiccion: España
+ambito: Estatal
+organo_emisor: Jefatura del Estado / Ministerio
+tipo_disposicion: Real Decreto / Orden
+fecha_publicacion: '2002-06-20'
+boletin: BOE
+estado: Vigente
+redaccion: consolidada
+fuente_oficial: https://www.boe.es/buscar/act.php?id=BOE-A-2002-12018
 clasificacion:
-  categoria_canonica: "03_ordenacion_curricular_y_ensenanzas"
-  subcategoria: "Formación Profesional"
-
+  categoria_canonica: 03_ordenacion_curricular_y_ensenanzas
+  subcategoria: Formación Profesional
 tags:
-  - estatal
-  - boe
-  - 03_ordenacion_curricular_y_ensenanzas
-
+- estatal
+- boe
+- 03_ordenacion_curricular_y_ensenanzas
 relaciones: {}
-fundamentos_derecho: []
+fundamentos_derecho:
+- norma_id: norm-es-ce-1978
+  articulos:
+  - '27'
+- norma_id: norm-es-l-31-1995
+  articulos:
+  - '1'
 ---
 
 # Ley Orgánica 5/2002, de 19 de junio, de las Cualificaciones y de la Formación Profesional.

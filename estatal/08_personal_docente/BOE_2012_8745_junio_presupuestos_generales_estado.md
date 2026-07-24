@@ -1,28 +1,29 @@
 ---
 id: norm-es-2012-8745
-codigo_sintetizado: "BOE-A-2012-8745"
-titulo: "Ley 2/2012, de 29 de junio, de Presupuestos Generales del Estado para el año 2012."
-jurisdiccion: "España"
-ambito: "Estatal"
-organo_emisor: "Jefatura del Estado / Ministerio"
-tipo_disposicion: "Real Decreto / Orden"
-fecha_publicacion: "2012-06-30"
-boletin: "BOE"
-estado: "Vigente"
-redaccion: "consolidada"
-fuente_oficial: "https://www.boe.es/buscar/act.php?id=BOE-A-2012-8745"
-
+codigo_sintetizado: BOE-A-2012-8745
+titulo: Ley 2/2012, de 29 de junio, de Presupuestos Generales del Estado para el año
+  2012.
+jurisdiccion: España
+ambito: Estatal
+organo_emisor: Jefatura del Estado / Ministerio
+tipo_disposicion: Real Decreto / Orden
+fecha_publicacion: '2012-06-30'
+boletin: BOE
+estado: Vigente
+redaccion: consolidada
+fuente_oficial: https://www.boe.es/buscar/act.php?id=BOE-A-2012-8745
 clasificacion:
-  categoria_canonica: "08_personal_docente"
-  subcategoria: "Jornada laboral y horarios"
-
+  categoria_canonica: 08_personal_docente
+  subcategoria: Jornada laboral y horarios
 tags:
-  - estatal
-  - boe
-  - 08_personal_docente
-
+- estatal
+- boe
+- 08_personal_docente
 relaciones: {}
-fundamentos_derecho: []
+fundamentos_derecho:
+- norma_id: norm-es-ce-1978
+  articulos:
+  - '27'
 ---
 
 # Ley 2/2012, de 29 de junio, de Presupuestos Generales del Estado para el año 2012.

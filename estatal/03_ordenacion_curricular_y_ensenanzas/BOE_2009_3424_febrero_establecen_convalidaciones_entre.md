@@ -1,28 +1,36 @@
 ---
 id: norm-es-2009-3424
-codigo_sintetizado: "BOE-A-2009-3424"
-titulo: "Real Decreto 242/2009, de 27 de febrero, por el que se establecen convalidaciones entre las enseñanzas profesionales de Música y de Danza y la Educación secundaria obligatoria y el Bachillerato, así como los efectos que sobre la materia de Educación física deben tener la condición de deportista de alto nivel o alto rendimiento y las enseñanzas profesionales de Danza."
-jurisdiccion: "España"
-ambito: "Estatal"
-organo_emisor: "Jefatura del Estado / Ministerio"
-tipo_disposicion: "Real Decreto / Orden"
-fecha_publicacion: "2009-02-28"
-boletin: "BOE"
-estado: "Vigente"
-redaccion: "consolidada"
-fuente_oficial: "https://www.boe.es/buscar/act.php?id=BOE-A-2009-3424"
-
+codigo_sintetizado: BOE-A-2009-3424
+titulo: Real Decreto 242/2009, de 27 de febrero, por el que se establecen convalidaciones
+  entre las enseñanzas profesionales de Música y de Danza y la Educación secundaria
+  obligatoria y el Bachillerato, así como los efectos que sobre la materia de Educación
+  física deben tener la condición de deportista de alto nivel o alto rendimiento y
+  las enseñanzas profesionales de Danza.
+jurisdiccion: España
+ambito: Estatal
+organo_emisor: Jefatura del Estado / Ministerio
+tipo_disposicion: Real Decreto / Orden
+fecha_publicacion: '2009-02-28'
+boletin: BOE
+estado: Vigente
+redaccion: consolidada
+fuente_oficial: https://www.boe.es/buscar/act.php?id=BOE-A-2009-3424
 clasificacion:
-  categoria_canonica: "03_ordenacion_curricular_y_ensenanzas"
-  subcategoria: "Educación Secundaria Obligatoria (ESO)"
-
+  categoria_canonica: 03_ordenacion_curricular_y_ensenanzas
+  subcategoria: Educación Secundaria Obligatoria (ESO)
 tags:
-  - estatal
-  - boe
-  - 03_ordenacion_curricular_y_ensenanzas
-
+- estatal
+- boe
+- 03_ordenacion_curricular_y_ensenanzas
 relaciones: {}
-fundamentos_derecho: []
+fundamentos_derecho:
+- norma_id: norm-es-ce-1978
+  articulos:
+  - '27'
+- norma_id: norm-es-lo-2-2006
+  articulos:
+  - '1'
+  - '2'
 ---
 
 # Real Decreto 242/2009, de 27 de febrero, por el que se establecen convalidaciones entre las enseñanzas profesionales de Música y de Danza y la Educación secundaria obligatoria y el Bachillerato, así como los efectos que sobre la materia de Educación física deben tener la condición de deportista de alto nivel o alto rendimiento y las enseñanzas profesionales de Danza.

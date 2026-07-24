@@ -1,41 +1,52 @@
 ---
 id: norm-es-rd-217-2022
-codigo_sintetizado: "RD217_2022 Ordenacion y Ensenanzas Minimas de la ESO"
-titulo: "Real Decreto 217/2022, de 29 de marzo, por el que se establece la ordenación y las enseñanzas mínimas de la Educación Secundaria Obligatoria."
-jurisdiccion: "España"
-ambito: "Estatal"
-organo_emisor: "Ministerio de Educación y Formación Profesional"
-tipo_disposicion: "Real Decreto"
-numero_disposicion: "217/2022"
-fecha_disposicion: "2022-03-29"
-fecha_publicacion: "2022-03-30"
-boletin: "BOE"
-numero_boletin: "76"
-estado: "Vigente"
-redaccion: "consolidada"
-fuente_oficial: "https://www.boe.es/buscar/act.php?id=BOE-A-2022-4975"
-
+codigo_sintetizado: RD217_2022 Ordenacion y Ensenanzas Minimas de la ESO
+titulo: Real Decreto 217/2022, de 29 de marzo, por el que se establece la ordenación
+  y las enseñanzas mínimas de la Educación Secundaria Obligatoria.
+jurisdiccion: España
+ambito: Estatal
+organo_emisor: Ministerio de Educación y Formación Profesional
+tipo_disposicion: Real Decreto
+numero_disposicion: 217/2022
+fecha_disposicion: '2022-03-29'
+fecha_publicacion: '2022-03-30'
+boletin: BOE
+numero_boletin: '76'
+estado: Vigente
+redaccion: consolidada
+fuente_oficial: https://www.boe.es/buscar/act.php?id=BOE-A-2022-4975
 clasificacion:
-  categoria_canonica: "03_ordenacion_curricular_y_ensenanzas"
-  subcategoria: "Educación Secundaria Obligatoria (ESO)"
-
+  categoria_canonica: 03_ordenacion_curricular_y_ensenanzas
+  subcategoria: Educación Secundaria Obligatoria (ESO)
 tags:
-  - eso
-  - educacion_secundaria
-  - ensenanzas_minimas
-  - perfil_salida
-  - estatal
-
+- eso
+- educacion_secundaria
+- ensenanzas_minimas
+- perfil_salida
+- estatal
 relaciones:
   desarrolla:
-    - norma_id: "norm-es-lo-2-2006"
-      articulos_origen: ["Todos"]
-      articulos_destino: ["22", "24", "25", "28"]
-      nota: "Establece la ordenación y enseñanzas mínimas de la Educación Secundaria Obligatoria."
-
+  - norma_id: norm-es-lo-2-2006
+    articulos_origen:
+    - Todos
+    articulos_destino:
+    - '22'
+    - '24'
+    - '25'
+    - '28'
+    nota: Establece la ordenación y enseñanzas mínimas de la Educación Secundaria
+      Obligatoria.
 fundamentos_derecho:
-  - norma_id: "norm-es-lo-2-2006"
-    articulos: ["6.2", "22", "24", "25", "28"]
+- norma_id: norm-es-lo-2-2006
+  articulos:
+  - '6.2'
+  - '22'
+  - '24'
+  - '25'
+  - '28'
+- norma_id: norm-es-l-39-2015
+  articulos:
+  - '1'
 ---
 
 # Real Decreto 217/2022 - Ordenación y Enseñanzas Mínimas de la Educación Secundaria Obligatoria

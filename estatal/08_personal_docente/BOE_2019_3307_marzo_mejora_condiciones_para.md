@@ -1,28 +1,36 @@
 ---
 id: norm-es-2019-3307
-codigo_sintetizado: "BOE-A-2019-3307"
-titulo: "Ley 4/2019, de 7 de marzo, de mejora de las condiciones para el desempeño de la docencia y la enseñanza en el ámbito de la educación no universitaria."
-jurisdiccion: "España"
-ambito: "Estatal"
-organo_emisor: "Jefatura del Estado / Ministerio"
-tipo_disposicion: "Real Decreto / Orden"
-fecha_publicacion: "2019-03-08"
-boletin: "BOE"
-estado: "Vigente"
-redaccion: "consolidada"
-fuente_oficial: "https://www.boe.es/buscar/act.php?id=BOE-A-2019-3307"
-
+codigo_sintetizado: BOE-A-2019-3307
+titulo: Ley 4/2019, de 7 de marzo, de mejora de las condiciones para el desempeño
+  de la docencia y la enseñanza en el ámbito de la educación no universitaria.
+jurisdiccion: España
+ambito: Estatal
+organo_emisor: Jefatura del Estado / Ministerio
+tipo_disposicion: Real Decreto / Orden
+fecha_publicacion: '2019-03-08'
+boletin: BOE
+estado: Vigente
+redaccion: consolidada
+fuente_oficial: https://www.boe.es/buscar/act.php?id=BOE-A-2019-3307
 clasificacion:
-  categoria_canonica: "08_personal_docente"
-  subcategoria: "Jornada laboral y horarios"
-
+  categoria_canonica: 08_personal_docente
+  subcategoria: Jornada laboral y horarios
 tags:
-  - estatal
-  - boe
-  - 08_personal_docente
-
+- estatal
+- boe
+- 08_personal_docente
 relaciones: {}
-fundamentos_derecho: []
+fundamentos_derecho:
+- norma_id: norm-es-ce-1978
+  articulos:
+  - '27'
+- norma_id: norm-es-lo-2-2006
+  articulos:
+  - '1'
+  - '2'
+- norma_id: norm-es-l-39-2015
+  articulos:
+  - '1'
 ---
 
 # Ley 4/2019, de 7 de marzo, de mejora de las condiciones para el desempeño de la docencia y la enseñanza en el ámbito de la educación no universitaria.

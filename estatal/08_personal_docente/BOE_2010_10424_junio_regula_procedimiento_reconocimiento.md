@@ -1,28 +1,31 @@
 ---
 id: norm-es-2010-10424
-codigo_sintetizado: "BOE-A-2010-10424"
-titulo: "Orden PRE/1744/2010, de 30 de junio, por la que se regula el procedimiento de reconocimiento, control y seguimiento de las situaciones de incapacidad temporal, riesgo durante el embarazo y riesgo durante la lactancia natural en el Régimen Especial de la Seguridad Social de los Funcionarios Civiles del Estado."
-jurisdiccion: "España"
-ambito: "Estatal"
-organo_emisor: "Jefatura del Estado / Ministerio"
-tipo_disposicion: "Real Decreto / Orden"
-fecha_publicacion: "2010-07-01"
-boletin: "BOE"
-estado: "Vigente"
-redaccion: "consolidada"
-fuente_oficial: "https://www.boe.es/buscar/act.php?id=BOE-A-2010-10424"
-
+codigo_sintetizado: BOE-A-2010-10424
+titulo: Orden PRE/1744/2010, de 30 de junio, por la que se regula el procedimiento
+  de reconocimiento, control y seguimiento de las situaciones de incapacidad temporal,
+  riesgo durante el embarazo y riesgo durante la lactancia natural en el Régimen Especial
+  de la Seguridad Social de los Funcionarios Civiles del Estado.
+jurisdiccion: España
+ambito: Estatal
+organo_emisor: Jefatura del Estado / Ministerio
+tipo_disposicion: Real Decreto / Orden
+fecha_publicacion: '2010-07-01'
+boletin: BOE
+estado: Vigente
+redaccion: consolidada
+fuente_oficial: https://www.boe.es/buscar/act.php?id=BOE-A-2010-10424
 clasificacion:
-  categoria_canonica: "08_personal_docente"
-  subcategoria: "Salud laboral y vigilancia"
-
+  categoria_canonica: 08_personal_docente
+  subcategoria: Salud laboral y vigilancia
 tags:
-  - estatal
-  - boe
-  - 08_personal_docente
-
+- estatal
+- boe
+- 08_personal_docente
 relaciones: {}
-fundamentos_derecho: []
+fundamentos_derecho:
+- norma_id: norm-es-rdl-5-2015
+  articulos:
+  - '1'
 ---
 
 # Orden PRE/1744/2010, de 30 de junio, por la que se regula el procedimiento de reconocimiento, control y seguimiento de las situaciones de incapacidad temporal, riesgo durante el embarazo y riesgo durante la lactancia natural en el Régimen Especial de la Seguridad Social de los Funcionarios Civiles del Estado.

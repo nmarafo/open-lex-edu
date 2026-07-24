@@ -1,28 +1,33 @@
 ---
 id: norm-es-2010-10321
-codigo_sintetizado: "BOE-A-2010-10321"
-titulo: "Real Decreto 828/2010, de 25 de junio, de traspaso a la Comunidad Autónoma de Canarias de los medios adscritos a la gestión de las prestaciones sanitarias del Seguro Escolar."
-jurisdiccion: "España"
-ambito: "Estatal"
-organo_emisor: "Jefatura del Estado / Ministerio"
-tipo_disposicion: "Real Decreto / Orden"
-fecha_publicacion: "2010-06-29"
-boletin: "BOE"
-estado: "Vigente"
-redaccion: "consolidada"
-fuente_oficial: "https://www.boe.es/buscar/act.php?id=BOE-A-2010-10321"
-
+codigo_sintetizado: BOE-A-2010-10321
+titulo: Real Decreto 828/2010, de 25 de junio, de traspaso a la Comunidad Autónoma
+  de Canarias de los medios adscritos a la gestión de las prestaciones sanitarias
+  del Seguro Escolar.
+jurisdiccion: España
+ambito: Estatal
+organo_emisor: Jefatura del Estado / Ministerio
+tipo_disposicion: Real Decreto / Orden
+fecha_publicacion: '2010-06-29'
+boletin: BOE
+estado: Vigente
+redaccion: consolidada
+fuente_oficial: https://www.boe.es/buscar/act.php?id=BOE-A-2010-10321
 clasificacion:
-  categoria_canonica: "05_alumnado_y_servicios_escolares"
-  subcategoria: "Seguro escolar"
-
+  categoria_canonica: 05_alumnado_y_servicios_escolares
+  subcategoria: Seguro escolar
 tags:
-  - estatal
-  - boe
-  - 05_alumnado_y_servicios_escolares
-
+- estatal
+- boe
+- 05_alumnado_y_servicios_escolares
 relaciones: {}
-fundamentos_derecho: []
+fundamentos_derecho:
+- norma_id: norm-es-ce-1978
+  articulos:
+  - '27'
+- norma_id: norm-can-lo-1-2018
+  articulos:
+  - '136'
 ---
 
 # Real Decreto 828/2010, de 25 de junio, de traspaso a la Comunidad Autónoma de Canarias de los medios adscritos a la gestión de las prestaciones sanitarias del Seguro Escolar.

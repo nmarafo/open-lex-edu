@@ -1,28 +1,33 @@
 ---
 id: norm-es-2007-10487
-codigo_sintetizado: "BOE-A-2007-10487"
-titulo: "Real Decreto 596/2007, de 4 de mayo, por el que se establece la ordenación general de las enseñanzas profesionales de artes plásticas y diseño."
-jurisdiccion: "España"
-ambito: "Estatal"
-organo_emisor: "Jefatura del Estado / Ministerio"
-tipo_disposicion: "Real Decreto / Orden"
-fecha_publicacion: "2007-05-25"
-boletin: "BOE"
-estado: "Vigente"
-redaccion: "consolidada"
-fuente_oficial: "https://www.boe.es/buscar/act.php?id=BOE-A-2007-10487"
-
+codigo_sintetizado: BOE-A-2007-10487
+titulo: Real Decreto 596/2007, de 4 de mayo, por el que se establece la ordenación
+  general de las enseñanzas profesionales de artes plásticas y diseño.
+jurisdiccion: España
+ambito: Estatal
+organo_emisor: Jefatura del Estado / Ministerio
+tipo_disposicion: Real Decreto / Orden
+fecha_publicacion: '2007-05-25'
+boletin: BOE
+estado: Vigente
+redaccion: consolidada
+fuente_oficial: https://www.boe.es/buscar/act.php?id=BOE-A-2007-10487
 clasificacion:
-  categoria_canonica: "05_alumnado_y_servicios_escolares"
-  subcategoria: "Pruebas de acceso"
-
+  categoria_canonica: 05_alumnado_y_servicios_escolares
+  subcategoria: Pruebas de acceso
 tags:
-  - estatal
-  - boe
-  - 05_alumnado_y_servicios_escolares
-
+- estatal
+- boe
+- 05_alumnado_y_servicios_escolares
 relaciones: {}
-fundamentos_derecho: []
+fundamentos_derecho:
+- norma_id: norm-es-lo-2-2006
+  articulos:
+  - '1'
+  - '2'
+- norma_id: norm-es-l-31-1995
+  articulos:
+  - '1'
 ---
 
 # Real Decreto 596/2007, de 4 de mayo, por el que se establece la ordenación general de las enseñanzas profesionales de artes plásticas y diseño.

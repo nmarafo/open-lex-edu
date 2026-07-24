@@ -1,28 +1,28 @@
 ---
 id: norm-es-2022-11589
-codigo_sintetizado: "BOE-A-2022-11589"
-titulo: "Ley 15/2022, de 12 de julio, integral para la igualdad de trato y la no discriminación."
-jurisdiccion: "España"
-ambito: "Estatal"
-organo_emisor: "Jefatura del Estado / Ministerio"
-tipo_disposicion: "Real Decreto / Orden"
-fecha_publicacion: "2022-07-13"
-boletin: "BOE"
-estado: "Vigente"
-redaccion: "consolidada"
-fuente_oficial: "https://www.boe.es/buscar/act.php?id=BOE-A-2022-11589"
-
+codigo_sintetizado: BOE-A-2022-11589
+titulo: Ley 15/2022, de 12 de julio, integral para la igualdad de trato y la no discriminación.
+jurisdiccion: España
+ambito: Estatal
+organo_emisor: Jefatura del Estado / Ministerio
+tipo_disposicion: Real Decreto / Orden
+fecha_publicacion: '2022-07-13'
+boletin: BOE
+estado: Vigente
+redaccion: consolidada
+fuente_oficial: https://www.boe.es/buscar/act.php?id=BOE-A-2022-11589
 clasificacion:
-  categoria_canonica: "07_convivencia_bienestar_y_protocolos"
-  subcategoria: "Igualdad de género y diversidad"
-
+  categoria_canonica: 07_convivencia_bienestar_y_protocolos
+  subcategoria: Igualdad de género y diversidad
 tags:
-  - estatal
-  - boe
-  - 07_convivencia_bienestar_y_protocolos
-
+- estatal
+- boe
+- 07_convivencia_bienestar_y_protocolos
 relaciones: {}
-fundamentos_derecho: []
+fundamentos_derecho:
+- norma_id: norm-es-ce-1978
+  articulos:
+  - '27'
 ---
 
 # Ley 15/2022, de 12 de julio, integral para la igualdad de trato y la no discriminación.

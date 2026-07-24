@@ -1,28 +1,33 @@
 ---
 id: norm-es-2018-4480
-codigo_sintetizado: "BOE-A-2018-4480"
-titulo: "Resolución de 23 de marzo de 2018, de la Secretaría de Estado de Educación, Formación Profesional y Universidades, por la que se establecen las instrucciones para el cálculo de la calificación final que debe figurar en las credenciales de convalidación por 1º de Bachillerato y de homologación de títulos extranjeros al título de Graduado o Graduada en Educación Secundaria Obligatoria y al de Bachiller español."
-jurisdiccion: "España"
-ambito: "Estatal"
-organo_emisor: "Jefatura del Estado / Ministerio"
-tipo_disposicion: "Real Decreto / Orden"
-fecha_publicacion: "2018-04-02"
-boletin: "BOE"
-estado: "Vigente"
-redaccion: "consolidada"
-fuente_oficial: "https://www.boe.es/buscar/act.php?id=BOE-A-2018-4480"
-
+codigo_sintetizado: BOE-A-2018-4480
+titulo: Resolución de 23 de marzo de 2018, de la Secretaría de Estado de Educación,
+  Formación Profesional y Universidades, por la que se establecen las instrucciones
+  para el cálculo de la calificación final que debe figurar en las credenciales de
+  convalidación por 1º de Bachillerato y de homologación de títulos extranjeros al
+  título de Graduado o Graduada en Educación Secundaria Obligatoria y al de Bachiller
+  español.
+jurisdiccion: España
+ambito: Estatal
+organo_emisor: Jefatura del Estado / Ministerio
+tipo_disposicion: Real Decreto / Orden
+fecha_publicacion: '2018-04-02'
+boletin: BOE
+estado: Vigente
+redaccion: consolidada
+fuente_oficial: https://www.boe.es/buscar/act.php?id=BOE-A-2018-4480
 clasificacion:
-  categoria_canonica: "02_gestion_y_administracion_centros"
-  subcategoria: "Centros extranjeros"
-
+  categoria_canonica: 02_gestion_y_administracion_centros
+  subcategoria: Centros extranjeros
 tags:
-  - estatal
-  - boe
-  - 02_gestion_y_administracion_centros
-
+- estatal
+- boe
+- 02_gestion_y_administracion_centros
 relaciones: {}
-fundamentos_derecho: []
+fundamentos_derecho:
+- norma_id: norm-es-ce-1978
+  articulos:
+  - '27'
 ---
 
 # Resolución de 23 de marzo de 2018, de la Secretaría de Estado de Educación, Formación Profesional y Universidades, por la que se establecen las instrucciones para el cálculo de la calificación final que debe figurar en las credenciales de convalidación por 1º de Bachillerato y de homologación de títulos extranjeros al título de Graduado o Graduada en Educación Secundaria Obligatoria y al de Bachiller español.

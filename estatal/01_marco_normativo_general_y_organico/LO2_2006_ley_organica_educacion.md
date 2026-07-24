@@ -1,40 +1,45 @@
 ---
 id: norm-es-lo-2-2006
-codigo_sintetizado: "LO2_2006 Ley Organica de Educacion"
-titulo: "Ley Orgánica 2/2006, de 3 de mayo, de Educación (Texto Consolidado con modificaciones de la LOMLOE 3/2020)."
-jurisdiccion: "España"
-ambito: "Estatal"
-organo_emisor: "Jefatura del Estado"
-tipo_disposicion: "Ley Orgánica"
-numero_disposicion: "2/2006"
-fecha_disposicion: "2006-05-03"
-fecha_publicacion: "2006-05-04"
-boletin: "BOE"
-numero_boletin: "106"
-estado: "Vigente"
-redaccion: "consolidada"
-fuente_oficial: "https://www.boe.es/buscar/act.php?id=BOE-A-2006-7899"
-
+codigo_sintetizado: LO2_2006 Ley Organica de Educacion
+titulo: Ley Orgánica 2/2006, de 3 de mayo, de Educación (Texto Consolidado con modificaciones
+  de la LOMLOE 3/2020).
+jurisdiccion: España
+ambito: Estatal
+organo_emisor: Jefatura del Estado
+tipo_disposicion: Ley Orgánica
+numero_disposicion: 2/2006
+fecha_disposicion: '2006-05-03'
+fecha_publicacion: '2006-05-04'
+boletin: BOE
+numero_boletin: '106'
+estado: Vigente
+redaccion: consolidada
+fuente_oficial: https://www.boe.es/buscar/act.php?id=BOE-A-2006-7899
 clasificacion:
-  categoria_canonica: "01_marco_normativo_general_y_organico"
-  subcategoria: "Marco normativo general"
-
+  categoria_canonica: 01_marco_normativo_general_y_organico
+  subcategoria: Marco normativo general
 tags:
-  - loe
-  - lomloe
-  - ley_organica
-  - estatal
-  - marco_general
-
+- loe
+- lomloe
+- ley_organica
+- estatal
+- marco_general
 relaciones:
   modificado_por:
-    - norma_id: "norm-es-lo-3-2020"
-      fecha_modificacion: "2020-12-30"
-      nota: "Modificada de forma integral por la Ley Orgánica 3/2020 (LOMLOE)."
-
+  - norma_id: norm-es-lo-3-2020
+    fecha_modificacion: '2020-12-30'
+    nota: Modificada de forma integral por la Ley Orgánica 3/2020 (LOMLOE).
 fundamentos_derecho:
-  - norma_id: "norm-es-constitucion-1978"
-    articulos: ["27"]
+- norma_id: norm-es-constitucion-1978
+  articulos:
+  - '27'
+- norma_id: norm-es-ce-1978
+  articulos:
+  - '27'
+- norma_id: norm-es-lo-8-1985
+  articulos:
+  - '1'
+  - '6'
 ---
 
 # Ley Orgánica 2/2006, de 3 de mayo, de Educación (Texto Consolidado LOMLOE)

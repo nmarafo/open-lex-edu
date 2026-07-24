@@ -1,41 +1,54 @@
 ---
 id: norm-es-rd-243-2022
-codigo_sintetizado: "RD243_2022 Ordenacion y Ensenanzas Minimas del Bachillerato"
-titulo: "Real Decreto 243/2022, de 5 de abril, por el que se establecen la ordenación y las enseñanzas mínimas del Bachillerato."
-jurisdiccion: "España"
-ambito: "Estatal"
-organo_emisor: "Ministerio de Educación y Formación Profesional"
-tipo_disposicion: "Real Decreto"
-numero_disposicion: "243/2022"
-fecha_disposicion: "2022-04-05"
-fecha_publicacion: "2022-04-06"
-boletin: "BOE"
-numero_boletin: "82"
-estado: "Vigente"
-redaccion: "consolidada"
-fuente_oficial: "https://www.boe.es/buscar/act.php?id=BOE-A-2022-5521"
-
+codigo_sintetizado: RD243_2022 Ordenacion y Ensenanzas Minimas del Bachillerato
+titulo: Real Decreto 243/2022, de 5 de abril, por el que se establecen la ordenación
+  y las enseñanzas mínimas del Bachillerato.
+jurisdiccion: España
+ambito: Estatal
+organo_emisor: Ministerio de Educación y Formación Profesional
+tipo_disposicion: Real Decreto
+numero_disposicion: 243/2022
+fecha_disposicion: '2022-04-05'
+fecha_publicacion: '2022-04-06'
+boletin: BOE
+numero_boletin: '82'
+estado: Vigente
+redaccion: consolidada
+fuente_oficial: https://www.boe.es/buscar/act.php?id=BOE-A-2022-5521
 clasificacion:
-  categoria_canonica: "03_ordenacion_curricular_y_ensenanzas"
-  subcategoria: "Bachillerato"
-
+  categoria_canonica: 03_ordenacion_curricular_y_ensenanzas
+  subcategoria: Bachillerato
 tags:
-  - bachillerato
-  - modalidades_bachillerato
-  - ensenanzas_minimas
-  - ebau
-  - estatal
-
+- bachillerato
+- modalidades_bachillerato
+- ensenanzas_minimas
+- ebau
+- estatal
 relaciones:
   desarrolla:
-    - norma_id: "norm-es-lo-2-2006"
-      articulos_origen: ["Todos"]
-      articulos_destino: ["32", "34", "36", "37"]
-      nota: "Establece la ordenación y currículo básico del Bachillerato."
-
+  - norma_id: norm-es-lo-2-2006
+    articulos_origen:
+    - Todos
+    articulos_destino:
+    - '32'
+    - '34'
+    - '36'
+    - '37'
+    nota: Establece la ordenación y currículo básico del Bachillerato.
 fundamentos_derecho:
-  - norma_id: "norm-es-lo-2-2006"
-    articulos: ["6.2", "32", "34", "36", "37"]
+- norma_id: norm-es-lo-2-2006
+  articulos:
+  - '6.2'
+  - '32'
+  - '34'
+  - '36'
+  - '37'
+- norma_id: norm-es-ce-1978
+  articulos:
+  - '27'
+- norma_id: norm-es-l-39-2015
+  articulos:
+  - '1'
 ---
 
 # Real Decreto 243/2022 - Ordenación y Enseñanzas Mínimas del Bachillerato

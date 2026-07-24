@@ -1,28 +1,33 @@
 ---
 id: norm-es-2014-2222
-codigo_sintetizado: "BOE-A-2014-2222"
-titulo: "Real Decreto 126/2014, de 28 de febrero, por el que se establece el currículo básico de la Educación Primaria."
-jurisdiccion: "España"
-ambito: "Estatal"
-organo_emisor: "Jefatura del Estado / Ministerio"
-tipo_disposicion: "Real Decreto / Orden"
-fecha_publicacion: "2014-03-01"
-boletin: "BOE"
-estado: "Vigente"
-redaccion: "consolidada"
-fuente_oficial: "https://www.boe.es/buscar/act.php?id=BOE-A-2014-2222"
-
+codigo_sintetizado: BOE-A-2014-2222
+titulo: Real Decreto 126/2014, de 28 de febrero, por el que se establece el currículo
+  básico de la Educación Primaria.
+jurisdiccion: España
+ambito: Estatal
+organo_emisor: Jefatura del Estado / Ministerio
+tipo_disposicion: Real Decreto / Orden
+fecha_publicacion: '2014-03-01'
+boletin: BOE
+estado: Vigente
+redaccion: consolidada
+fuente_oficial: https://www.boe.es/buscar/act.php?id=BOE-A-2014-2222
 clasificacion:
-  categoria_canonica: "03_ordenacion_curricular_y_ensenanzas"
-  subcategoria: "Educación Primaria"
-
+  categoria_canonica: 03_ordenacion_curricular_y_ensenanzas
+  subcategoria: Educación Primaria
 tags:
-  - estatal
-  - boe
-  - 03_ordenacion_curricular_y_ensenanzas
-
+- estatal
+- boe
+- 03_ordenacion_curricular_y_ensenanzas
 relaciones: {}
-fundamentos_derecho: []
+fundamentos_derecho:
+- norma_id: norm-es-ce-1978
+  articulos:
+  - '27'
+- norma_id: norm-es-lo-2-2006
+  articulos:
+  - '1'
+  - '2'
 ---
 
 # Real Decreto 126/2014, de 28 de febrero, por el que se establece el currículo básico de la Educación Primaria.

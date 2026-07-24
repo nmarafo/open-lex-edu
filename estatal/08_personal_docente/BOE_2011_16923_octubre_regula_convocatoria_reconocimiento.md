@@ -1,28 +1,31 @@
 ---
 id: norm-es-2011-16923
-codigo_sintetizado: "BOE-A-2011-16923"
-titulo: "Orden EDU/2886/2011, de 20 de octubre, por la que se regula la convocatoria, reconocimiento, certificación y registro de las actividades de formación permanente del profesorado."
-jurisdiccion: "España"
-ambito: "Estatal"
-organo_emisor: "Jefatura del Estado / Ministerio"
-tipo_disposicion: "Real Decreto / Orden"
-fecha_publicacion: "2011-10-28"
-boletin: "BOE"
-estado: "Vigente"
-redaccion: "consolidada"
-fuente_oficial: "https://www.boe.es/buscar/act.php?id=BOE-A-2011-16923"
-
+codigo_sintetizado: BOE-A-2011-16923
+titulo: Orden EDU/2886/2011, de 20 de octubre, por la que se regula la convocatoria,
+  reconocimiento, certificación y registro de las actividades de formación permanente
+  del profesorado.
+jurisdiccion: España
+ambito: Estatal
+organo_emisor: Jefatura del Estado / Ministerio
+tipo_disposicion: Real Decreto / Orden
+fecha_publicacion: '2011-10-28'
+boletin: BOE
+estado: Vigente
+redaccion: consolidada
+fuente_oficial: https://www.boe.es/buscar/act.php?id=BOE-A-2011-16923
 clasificacion:
-  categoria_canonica: "08_personal_docente"
-  subcategoria: "Formación del profesorado"
-
+  categoria_canonica: 08_personal_docente
+  subcategoria: Formación del profesorado
 tags:
-  - estatal
-  - boe
-  - 08_personal_docente
-
+- estatal
+- boe
+- 08_personal_docente
 relaciones: {}
-fundamentos_derecho: []
+fundamentos_derecho:
+- norma_id: norm-es-lo-2-2006
+  articulos:
+  - '1'
+  - '2'
 ---
 
 # Orden EDU/2886/2011, de 20 de octubre, por la que se regula la convocatoria, reconocimiento, certificación y registro de las actividades de formación permanente del profesorado.

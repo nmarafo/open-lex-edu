@@ -1,28 +1,30 @@
 ---
 id: norm-es-2013-12632
-codigo_sintetizado: "BOE-A-2013-12632"
-titulo: "Real Decreto Legislativo 1/2013, de 29 de noviembre, por el que se aprueba el Texto Refundido de la Ley General de derechos de las personas con discapacidad y de su inclusión social."
-jurisdiccion: "España"
-ambito: "Estatal"
-organo_emisor: "Jefatura del Estado / Ministerio"
-tipo_disposicion: "Real Decreto / Orden"
-fecha_publicacion: "2013-12-03"
-boletin: "BOE"
-estado: "Vigente"
-redaccion: "consolidada"
-fuente_oficial: "https://www.boe.es/buscar/act.php?id=BOE-A-2013-12632"
-
+codigo_sintetizado: BOE-A-2013-12632
+titulo: Real Decreto Legislativo 1/2013, de 29 de noviembre, por el que se aprueba
+  el Texto Refundido de la Ley General de derechos de las personas con discapacidad
+  y de su inclusión social.
+jurisdiccion: España
+ambito: Estatal
+organo_emisor: Jefatura del Estado / Ministerio
+tipo_disposicion: Real Decreto / Orden
+fecha_publicacion: '2013-12-03'
+boletin: BOE
+estado: Vigente
+redaccion: consolidada
+fuente_oficial: https://www.boe.es/buscar/act.php?id=BOE-A-2013-12632
 clasificacion:
-  categoria_canonica: "07_convivencia_bienestar_y_protocolos"
-  subcategoria: "Igualdad de género y diversidad"
-
+  categoria_canonica: 07_convivencia_bienestar_y_protocolos
+  subcategoria: Igualdad de género y diversidad
 tags:
-  - estatal
-  - boe
-  - 07_convivencia_bienestar_y_protocolos
-
+- estatal
+- boe
+- 07_convivencia_bienestar_y_protocolos
 relaciones: {}
-fundamentos_derecho: []
+fundamentos_derecho:
+- norma_id: norm-es-ce-1978
+  articulos:
+  - '27'
 ---
 
 # Real Decreto Legislativo 1/2013, de 29 de noviembre, por el que se aprueba el Texto Refundido de la Ley General de derechos de las personas con discapacidad y de su inclusión social.

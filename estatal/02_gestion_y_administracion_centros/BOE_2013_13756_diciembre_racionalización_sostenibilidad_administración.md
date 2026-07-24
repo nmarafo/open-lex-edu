@@ -1,28 +1,29 @@
 ---
 id: norm-es-2013-13756
-codigo_sintetizado: "BOE-A-2013-13756"
-titulo: "Ley 27/2013, de 27 de diciembre, de racionalización y sostenibilidad de la Administración Local."
-jurisdiccion: "España"
-ambito: "Estatal"
-organo_emisor: "Jefatura del Estado / Ministerio"
-tipo_disposicion: "Real Decreto / Orden"
-fecha_publicacion: "2013-12-30"
-boletin: "BOE"
-estado: "Vigente"
-redaccion: "consolidada"
-fuente_oficial: "https://www.boe.es/buscar/act.php?id=BOE-A-2013-13756"
-
+codigo_sintetizado: BOE-A-2013-13756
+titulo: Ley 27/2013, de 27 de diciembre, de racionalización y sostenibilidad de la
+  Administración Local.
+jurisdiccion: España
+ambito: Estatal
+organo_emisor: Jefatura del Estado / Ministerio
+tipo_disposicion: Real Decreto / Orden
+fecha_publicacion: '2013-12-30'
+boletin: BOE
+estado: Vigente
+redaccion: consolidada
+fuente_oficial: https://www.boe.es/buscar/act.php?id=BOE-A-2013-13756
 clasificacion:
-  categoria_canonica: "02_gestion_y_administracion_centros"
-  subcategoria: "Cooperación con entidades locales"
-
+  categoria_canonica: 02_gestion_y_administracion_centros
+  subcategoria: Cooperación con entidades locales
 tags:
-  - estatal
-  - boe
-  - 02_gestion_y_administracion_centros
-
+- estatal
+- boe
+- 02_gestion_y_administracion_centros
 relaciones: {}
-fundamentos_derecho: []
+fundamentos_derecho:
+- norma_id: norm-es-ce-1978
+  articulos:
+  - '27'
 ---
 
 # Ley 27/2013, de 27 de diciembre, de racionalización y sostenibilidad de la Administración Local.

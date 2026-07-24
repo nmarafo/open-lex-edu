@@ -1,28 +1,31 @@
 ---
 id: norm-es-2013-10219
-codigo_sintetizado: "BOE-A-2013-10219"
-titulo: "Real Decreto 669/2013, de 6 de septiembre, por el que se establece el título de Técnico Deportivo en Atletismo y se fijan sus enseñanzas mínimas y los requisitos de acceso."
-jurisdiccion: "España"
-ambito: "Estatal"
-organo_emisor: "Jefatura del Estado / Ministerio"
-tipo_disposicion: "Real Decreto / Orden"
-fecha_publicacion: "2013-10-02"
-boletin: "BOE"
-estado: "Vigente"
-redaccion: "consolidada"
-fuente_oficial: "https://www.boe.es/buscar/act.php?id=BOE-A-2013-10219"
-
+codigo_sintetizado: BOE-A-2013-10219
+titulo: Real Decreto 669/2013, de 6 de septiembre, por el que se establece el título
+  de Técnico Deportivo en Atletismo y se fijan sus enseñanzas mínimas y los requisitos
+  de acceso.
+jurisdiccion: España
+ambito: Estatal
+organo_emisor: Jefatura del Estado / Ministerio
+tipo_disposicion: Real Decreto / Orden
+fecha_publicacion: '2013-10-02'
+boletin: BOE
+estado: Vigente
+redaccion: consolidada
+fuente_oficial: https://www.boe.es/buscar/act.php?id=BOE-A-2013-10219
 clasificacion:
-  categoria_canonica: "03_ordenacion_curricular_y_ensenanzas"
-  subcategoria: "Enseñanzas Deportivas"
-
+  categoria_canonica: 03_ordenacion_curricular_y_ensenanzas
+  subcategoria: Enseñanzas Deportivas
 tags:
-  - estatal
-  - boe
-  - 03_ordenacion_curricular_y_ensenanzas
-
+- estatal
+- boe
+- 03_ordenacion_curricular_y_ensenanzas
 relaciones: {}
-fundamentos_derecho: []
+fundamentos_derecho:
+- norma_id: norm-es-lo-2-2006
+  articulos:
+  - '1'
+  - '2'
 ---
 
 # Real Decreto 669/2013, de 6 de septiembre, por el que se establece el título de Técnico Deportivo en Atletismo y se fijan sus enseñanzas mínimas y los requisitos de acceso.

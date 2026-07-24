@@ -1,28 +1,32 @@
 ---
 id: norm-es-2007-22450
-codigo_sintetizado: "BOE-A-2007-22450"
-titulo: "Orden ECI/3858/2007, de 27 de diciembre, por la que se establecen los requisitos para la verificación de los títulos universitarios oficiales que habiliten para el ejercicio de las profesiones de Profesor de Educación Secundaria Obligatoria y Bachillerato, Formación Profesional y Enseñanzas de Idiomas."
-jurisdiccion: "España"
-ambito: "Estatal"
-organo_emisor: "Jefatura del Estado / Ministerio"
-tipo_disposicion: "Real Decreto / Orden"
-fecha_publicacion: "2007-12-29"
-boletin: "BOE"
-estado: "Vigente"
-redaccion: "consolidada"
-fuente_oficial: "https://www.boe.es/buscar/act.php?id=BOE-A-2007-22450"
-
+codigo_sintetizado: BOE-A-2007-22450
+titulo: Orden ECI/3858/2007, de 27 de diciembre, por la que se establecen los requisitos
+  para la verificación de los títulos universitarios oficiales que habiliten para
+  el ejercicio de las profesiones de Profesor de Educación Secundaria Obligatoria
+  y Bachillerato, Formación Profesional y Enseñanzas de Idiomas.
+jurisdiccion: España
+ambito: Estatal
+organo_emisor: Jefatura del Estado / Ministerio
+tipo_disposicion: Real Decreto / Orden
+fecha_publicacion: '2007-12-29'
+boletin: BOE
+estado: Vigente
+redaccion: consolidada
+fuente_oficial: https://www.boe.es/buscar/act.php?id=BOE-A-2007-22450
 clasificacion:
-  categoria_canonica: "08_personal_docente"
-  subcategoria: "Formación del profesorado"
-
+  categoria_canonica: 08_personal_docente
+  subcategoria: Formación del profesorado
 tags:
-  - estatal
-  - boe
-  - 08_personal_docente
-
+- estatal
+- boe
+- 08_personal_docente
 relaciones: {}
-fundamentos_derecho: []
+fundamentos_derecho:
+- norma_id: norm-es-lo-2-2006
+  articulos:
+  - '1'
+  - '2'
 ---
 
 # Orden ECI/3858/2007, de 27 de diciembre, por la que se establecen los requisitos para la verificación de los títulos universitarios oficiales que habiliten para el ejercicio de las profesiones de Profesor de Educación Secundaria Obligatoria y Bachillerato, Formación Profesional y Enseñanzas de Idiomas.

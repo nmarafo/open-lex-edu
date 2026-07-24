@@ -1,40 +1,49 @@
 ---
 id: norm-es-rd-1834-2008
-codigo_sintetizado: "RD1834_2008 Condiciones de Formacion para Docencia en Secundaria"
-titulo: "Real Decreto 1834/2008, de 8 de noviembre, por el que se definen las condiciones de formación para el ejercicio de la docencia en la educación secundaria obligatoria, el bachillerato, la formación profesional y las enseñanzas de régimen especial y se establecen las especialidades de los cuerpos docentes de enseñanza secundaria."
-jurisdiccion: "España"
-ambito: "Estatal"
-organo_emisor: "Ministerio de Educación, Política Social y Deporte"
-tipo_disposicion: "Real Decreto"
-numero_disposicion: "1834/2008"
-fecha_disposicion: "2008-11-08"
-fecha_publicacion: "2008-11-28"
-boletin: "BOE"
-numero_boletin: "287"
-estado: "Vigente"
-redaccion: "consolidada"
-fuente_oficial: "https://www.boe.es/buscar/act.php?id=BOE-A-2008-19174"
-
+codigo_sintetizado: RD1834_2008 Condiciones de Formacion para Docencia en Secundaria
+titulo: Real Decreto 1834/2008, de 8 de noviembre, por el que se definen las condiciones
+  de formación para el ejercicio de la docencia en la educación secundaria obligatoria,
+  el bachillerato, la formación profesional y las enseñanzas de régimen especial y
+  se establecen las especialidades de los cuerpos docentes de enseñanza secundaria.
+jurisdiccion: España
+ambito: Estatal
+organo_emisor: Ministerio de Educación, Política Social y Deporte
+tipo_disposicion: Real Decreto
+numero_disposicion: 1834/2008
+fecha_disposicion: '2008-11-08'
+fecha_publicacion: '2008-11-28'
+boletin: BOE
+numero_boletin: '287'
+estado: Vigente
+redaccion: consolidada
+fuente_oficial: https://www.boe.es/buscar/act.php?id=BOE-A-2008-19174
 clasificacion:
-  categoria_canonica: "02_gestion_y_administracion_centros"
-  subcategoria: "Centros públicos"
-
+  categoria_canonica: 02_gestion_y_administracion_centros
+  subcategoria: Centros públicos
 tags:
-  - cualificacion_docente
-  - especialidades_secundaria
-  - master_profesorado
-  - estatal
-
+- cualificacion_docente
+- especialidades_secundaria
+- master_profesorado
+- estatal
 relaciones:
   desarrolla:
-    - norma_id: "norm-es-lo-2-2006"
-      articulos_origen: ["Todos"]
-      articulos_destino: ["94", "95"]
-      nota: "Regula los requisitos de titulación pedagógica y especialidades docentes para la impartición de docencia."
-
+  - norma_id: norm-es-lo-2-2006
+    articulos_origen:
+    - Todos
+    articulos_destino:
+    - '94'
+    - '95'
+    nota: Regula los requisitos de titulación pedagógica y especialidades docentes
+      para la impartición de docencia.
 fundamentos_derecho:
-  - norma_id: "norm-es-lo-2-2006"
-    articulos: ["94", "95", "100"]
+- norma_id: norm-es-lo-2-2006
+  articulos:
+  - '94'
+  - '95'
+  - '100'
+- norma_id: norm-es-ce-1978
+  articulos:
+  - '27'
 ---
 
 # Real Decreto 1834/2008 - Condiciones de Formación para el Ejercicio de la Docencia

@@ -1,40 +1,44 @@
 ---
 id: norm-es-rd-2377-1985
-codigo_sintetizado: "RD2377_1985 Reglamento de Conciertos Educativos"
-titulo: "Real Decreto 2377/1985, de 18 de diciembre, por el que se aprueba el Reglamento de Normas Básicas sobre Conciertos Educativos."
-jurisdiccion: "España"
-ambito: "Estatal"
-organo_emisor: "Ministerio de Educación y Ciencia"
-tipo_disposicion: "Real Decreto"
-numero_disposicion: "2377/1985"
-fecha_disposicion: "1985-12-18"
-fecha_publicacion: "1985-12-27"
-boletin: "BOE"
-numero_boletin: "310"
-estado: "Vigente"
-redaccion: "consolidada"
-fuente_oficial: "https://www.boe.es/buscar/act.php?id=BOE-A-1985-26788"
-
+codigo_sintetizado: RD2377_1985 Reglamento de Conciertos Educativos
+titulo: Real Decreto 2377/1985, de 18 de diciembre, por el que se aprueba el Reglamento
+  de Normas Básicas sobre Conciertos Educativos.
+jurisdiccion: España
+ambito: Estatal
+organo_emisor: Ministerio de Educación y Ciencia
+tipo_disposicion: Real Decreto
+numero_disposicion: 2377/1985
+fecha_disposicion: '1985-12-18'
+fecha_publicacion: '1985-12-27'
+boletin: BOE
+numero_boletin: '310'
+estado: Vigente
+redaccion: consolidada
+fuente_oficial: https://www.boe.es/buscar/act.php?id=BOE-A-1985-26788
 clasificacion:
-  categoria_canonica: "02_gestion_y_administracion_centros"
-  subcategoria: "Centros privados concertados"
-
+  categoria_canonica: 02_gestion_y_administracion_centros
+  subcategoria: Centros privados concertados
 tags:
-  - conciertos_educativos
-  - centros_concertados
-  - regimen_economico
-  - estatal
-
+- conciertos_educativos
+- centros_concertados
+- regimen_economico
+- estatal
 relaciones:
   desarrolla:
-    - norma_id: "norm-es-lo-8-1985"
-      articulos_origen: ["Todos"]
-      articulos_destino: ["47"]
-      nota: "Desarrolla el régimen de conciertos educativos establecido en el Título IV de la LODE."
-
+  - norma_id: norm-es-lo-8-1985
+    articulos_origen:
+    - Todos
+    articulos_destino:
+    - '47'
+    nota: Desarrolla el régimen de conciertos educativos establecido en el Título
+      IV de la LODE.
 fundamentos_derecho:
-  - norma_id: "norm-es-lo-8-1985"
-    articulos: ["47"]
+- norma_id: norm-es-lo-8-1985
+  articulos:
+  - '47'
+- norma_id: norm-es-ce-1978
+  articulos:
+  - '27'
 ---
 
 # Real Decreto 2377/1985 - Reglamento de Normas Básicas sobre Conciertos Educativos

@@ -1,28 +1,33 @@
 ---
 id: norm-es-2018-6348
-codigo_sintetizado: "BOE-A-2018-6348"
-titulo: "Orden ECD/482/2018, de 4 de mayo, por la que se regulan los Premios Nacionales de Bachillerato."
-jurisdiccion: "España"
-ambito: "Estatal"
-organo_emisor: "Jefatura del Estado / Ministerio"
-tipo_disposicion: "Real Decreto / Orden"
-fecha_publicacion: "2018-05-11"
-boletin: "BOE"
-estado: "Vigente"
-redaccion: "consolidada"
-fuente_oficial: "https://www.boe.es/buscar/act.php?id=BOE-A-2018-6348"
-
+codigo_sintetizado: BOE-A-2018-6348
+titulo: Orden ECD/482/2018, de 4 de mayo, por la que se regulan los Premios Nacionales
+  de Bachillerato.
+jurisdiccion: España
+ambito: Estatal
+organo_emisor: Jefatura del Estado / Ministerio
+tipo_disposicion: Real Decreto / Orden
+fecha_publicacion: '2018-05-11'
+boletin: BOE
+estado: Vigente
+redaccion: consolidada
+fuente_oficial: https://www.boe.es/buscar/act.php?id=BOE-A-2018-6348
 clasificacion:
-  categoria_canonica: "05_alumnado_y_servicios_escolares"
-  subcategoria: "Concursos y premios escolares"
-
+  categoria_canonica: 05_alumnado_y_servicios_escolares
+  subcategoria: Concursos y premios escolares
 tags:
-  - estatal
-  - boe
-  - 05_alumnado_y_servicios_escolares
-
+- estatal
+- boe
+- 05_alumnado_y_servicios_escolares
 relaciones: {}
-fundamentos_derecho: []
+fundamentos_derecho:
+- norma_id: norm-es-lo-2-2006
+  articulos:
+  - '1'
+  - '2'
+- norma_id: norm-es-l-39-2015
+  articulos:
+  - '1'
 ---
 
 # Orden ECD/482/2018, de 4 de mayo, por la que se regulan los Premios Nacionales de Bachillerato.

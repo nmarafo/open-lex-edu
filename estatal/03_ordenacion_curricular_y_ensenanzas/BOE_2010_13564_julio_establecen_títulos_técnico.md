@@ -1,28 +1,31 @@
 ---
 id: norm-es-2010-13564
-codigo_sintetizado: "BOE-A-2010-13564"
-titulo: "Real Decreto 935/2010, de 23 de julio, por el que se establecen los títulos de Técnico Deportivo en vela con aparejo fijo y Técnico Deportivo en vela con aparejo libre, y se fijan sus enseñanzas mínimas y los requisitos de acceso."
-jurisdiccion: "España"
-ambito: "Estatal"
-organo_emisor: "Jefatura del Estado / Ministerio"
-tipo_disposicion: "Real Decreto / Orden"
-fecha_publicacion: "2010-08-31"
-boletin: "BOE"
-estado: "Vigente"
-redaccion: "consolidada"
-fuente_oficial: "https://www.boe.es/buscar/act.php?id=BOE-A-2010-13564"
-
+codigo_sintetizado: BOE-A-2010-13564
+titulo: Real Decreto 935/2010, de 23 de julio, por el que se establecen los títulos
+  de Técnico Deportivo en vela con aparejo fijo y Técnico Deportivo en vela con aparejo
+  libre, y se fijan sus enseñanzas mínimas y los requisitos de acceso.
+jurisdiccion: España
+ambito: Estatal
+organo_emisor: Jefatura del Estado / Ministerio
+tipo_disposicion: Real Decreto / Orden
+fecha_publicacion: '2010-08-31'
+boletin: BOE
+estado: Vigente
+redaccion: consolidada
+fuente_oficial: https://www.boe.es/buscar/act.php?id=BOE-A-2010-13564
 clasificacion:
-  categoria_canonica: "03_ordenacion_curricular_y_ensenanzas"
-  subcategoria: "Enseñanzas Deportivas"
-
+  categoria_canonica: 03_ordenacion_curricular_y_ensenanzas
+  subcategoria: Enseñanzas Deportivas
 tags:
-  - estatal
-  - boe
-  - 03_ordenacion_curricular_y_ensenanzas
-
+- estatal
+- boe
+- 03_ordenacion_curricular_y_ensenanzas
 relaciones: {}
-fundamentos_derecho: []
+fundamentos_derecho:
+- norma_id: norm-es-lo-2-2006
+  articulos:
+  - '1'
+  - '2'
 ---
 
 # Real Decreto 935/2010, de 23 de julio, por el que se establecen los títulos de Técnico Deportivo en vela con aparejo fijo y Técnico Deportivo en vela con aparejo libre, y se fijan sus enseñanzas mínimas y los requisitos de acceso.

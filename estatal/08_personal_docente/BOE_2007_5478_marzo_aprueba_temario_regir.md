@@ -1,28 +1,32 @@
 ---
 id: norm-es-2007-5478
-codigo_sintetizado: "BOE-A-2007-5478"
-titulo: "Orden ECI/592/2007, de 12 de marzo, por la que se aprueba el temario que ha de regir en el procedimiento de ingreso, accesos y adquisición de nuevas especialidades, para la especialidad de Primaria en el Cuerpo de Maestros, regulada por el Real Decreto 276/2007, de 23 de febrero."
-jurisdiccion: "España"
-ambito: "Estatal"
-organo_emisor: "Jefatura del Estado / Ministerio"
-tipo_disposicion: "Real Decreto / Orden"
-fecha_publicacion: "2007-03-15"
-boletin: "BOE"
-estado: "Vigente"
-redaccion: "consolidada"
-fuente_oficial: "https://www.boe.es/buscar/act.php?id=BOE-A-2007-5478"
-
+codigo_sintetizado: BOE-A-2007-5478
+titulo: Orden ECI/592/2007, de 12 de marzo, por la que se aprueba el temario que ha
+  de regir en el procedimiento de ingreso, accesos y adquisición de nuevas especialidades,
+  para la especialidad de Primaria en el Cuerpo de Maestros, regulada por el Real
+  Decreto 276/2007, de 23 de febrero.
+jurisdiccion: España
+ambito: Estatal
+organo_emisor: Jefatura del Estado / Ministerio
+tipo_disposicion: Real Decreto / Orden
+fecha_publicacion: '2007-03-15'
+boletin: BOE
+estado: Vigente
+redaccion: consolidada
+fuente_oficial: https://www.boe.es/buscar/act.php?id=BOE-A-2007-5478
 clasificacion:
-  categoria_canonica: "08_personal_docente"
-  subcategoria: "Oposiciones y acceso"
-
+  categoria_canonica: 08_personal_docente
+  subcategoria: Oposiciones y acceso
 tags:
-  - estatal
-  - boe
-  - 08_personal_docente
-
+- estatal
+- boe
+- 08_personal_docente
 relaciones: {}
-fundamentos_derecho: []
+fundamentos_derecho:
+- norma_id: norm-es-lo-2-2006
+  articulos:
+  - '1'
+  - '2'
 ---
 
 # Orden ECI/592/2007, de 12 de marzo, por la que se aprueba el temario que ha de regir en el procedimiento de ingreso, accesos y adquisición de nuevas especialidades, para la especialidad de Primaria en el Cuerpo de Maestros, regulada por el Real Decreto 276/2007, de 23 de febrero.

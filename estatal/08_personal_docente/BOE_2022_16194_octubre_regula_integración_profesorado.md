@@ -1,28 +1,31 @@
 ---
 id: norm-es-2022-16194
-codigo_sintetizado: "BOE-A-2022-16194"
-titulo: "Real Decreto 800/2022, de 4 de octubre, por el que se regula la integración del profesorado del Cuerpo, a extinguir, de Profesores Técnicos de Formación Profesional en el Cuerpo de Profesores de Enseñanza Secundaria, y se modifican diversos reales decretos relativos al profesorado de enseñanzas no universitarias."
-jurisdiccion: "España"
-ambito: "Estatal"
-organo_emisor: "Jefatura del Estado / Ministerio"
-tipo_disposicion: "Real Decreto / Orden"
-fecha_publicacion: "2022-10-05"
-boletin: "BOE"
-estado: "Vigente"
-redaccion: "consolidada"
-fuente_oficial: "https://www.boe.es/buscar/act.php?id=BOE-A-2022-16194"
-
+codigo_sintetizado: BOE-A-2022-16194
+titulo: Real Decreto 800/2022, de 4 de octubre, por el que se regula la integración
+  del profesorado del Cuerpo, a extinguir, de Profesores Técnicos de Formación Profesional
+  en el Cuerpo de Profesores de Enseñanza Secundaria, y se modifican diversos reales
+  decretos relativos al profesorado de enseñanzas no universitarias.
+jurisdiccion: España
+ambito: Estatal
+organo_emisor: Jefatura del Estado / Ministerio
+tipo_disposicion: Real Decreto / Orden
+fecha_publicacion: '2022-10-05'
+boletin: BOE
+estado: Vigente
+redaccion: consolidada
+fuente_oficial: https://www.boe.es/buscar/act.php?id=BOE-A-2022-16194
 clasificacion:
-  categoria_canonica: "08_personal_docente"
-  subcategoria: "Especialidades y habilitaciones"
-
+  categoria_canonica: 08_personal_docente
+  subcategoria: Especialidades y habilitaciones
 tags:
-  - estatal
-  - boe
-  - 08_personal_docente
-
+- estatal
+- boe
+- 08_personal_docente
 relaciones: {}
-fundamentos_derecho: []
+fundamentos_derecho:
+- norma_id: norm-es-l-39-2015
+  articulos:
+  - '1'
 ---
 
 # Real Decreto 800/2022, de 4 de octubre, por el que se regula la integración del profesorado del Cuerpo, a extinguir, de Profesores Técnicos de Formación Profesional en el Cuerpo de Profesores de Enseñanza Secundaria, y se modifican diversos reales decretos relativos al profesorado de enseñanzas no universitarias.

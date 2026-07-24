@@ -1,28 +1,35 @@
 ---
 id: norm-es-2011-17890
-codigo_sintetizado: "BOE-A-2011-17890"
-titulo: "Real Decreto 1619/2011, de 14 de noviembre, por el que se establece el nuevo régimen de equivalencias de los estudios y titulaciones de Ciencias Eclesiásticas de nivel universitario respecto de los títulos universitarios oficiales españoles, en cumplimiento de lo dispuesto en el Acuerdo entre el Estado español y la Santa Sede de 3 de enero de 1979 sobre Enseñanza y Asuntos Culturales."
-jurisdiccion: "España"
-ambito: "Estatal"
-organo_emisor: "Jefatura del Estado / Ministerio"
-tipo_disposicion: "Real Decreto / Orden"
-fecha_publicacion: "2011-11-16"
-boletin: "BOE"
-estado: "Vigente"
-redaccion: "consolidada"
-fuente_oficial: "https://www.boe.es/buscar/act.php?id=BOE-A-2011-17890"
-
+codigo_sintetizado: BOE-A-2011-17890
+titulo: Real Decreto 1619/2011, de 14 de noviembre, por el que se establece el nuevo
+  régimen de equivalencias de los estudios y titulaciones de Ciencias Eclesiásticas
+  de nivel universitario respecto de los títulos universitarios oficiales españoles,
+  en cumplimiento de lo dispuesto en el Acuerdo entre el Estado español y la Santa
+  Sede de 3 de enero de 1979 sobre Enseñanza y Asuntos Culturales.
+jurisdiccion: España
+ambito: Estatal
+organo_emisor: Jefatura del Estado / Ministerio
+tipo_disposicion: Real Decreto / Orden
+fecha_publicacion: '2011-11-16'
+boletin: BOE
+estado: Vigente
+redaccion: consolidada
+fuente_oficial: https://www.boe.es/buscar/act.php?id=BOE-A-2011-17890
 clasificacion:
-  categoria_canonica: "08_personal_docente"
-  subcategoria: "Profesorado de religión"
-
+  categoria_canonica: 08_personal_docente
+  subcategoria: Profesorado de religión
 tags:
-  - estatal
-  - boe
-  - 08_personal_docente
-
+- estatal
+- boe
+- 08_personal_docente
 relaciones: {}
-fundamentos_derecho: []
+fundamentos_derecho:
+- norma_id: norm-es-ce-1978
+  articulos:
+  - '27'
+- norma_id: norm-es-l-39-2015
+  articulos:
+  - '1'
 ---
 
 # Real Decreto 1619/2011, de 14 de noviembre, por el que se establece el nuevo régimen de equivalencias de los estudios y titulaciones de Ciencias Eclesiásticas de nivel universitario respecto de los títulos universitarios oficiales españoles, en cumplimiento de lo dispuesto en el Acuerdo entre el Estado español y la Santa Sede de 3 de enero de 1979 sobre Enseñanza y Asuntos Culturales.

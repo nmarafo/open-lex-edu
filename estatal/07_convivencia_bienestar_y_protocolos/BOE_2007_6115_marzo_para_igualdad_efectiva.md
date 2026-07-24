@@ -1,28 +1,29 @@
 ---
 id: norm-es-2007-6115
-codigo_sintetizado: "BOE-A-2007-6115"
-titulo: "Ley Orgánica 3/2007, de 22 de marzo, para la igualdad efectiva de mujeres y hombres."
-jurisdiccion: "España"
-ambito: "Estatal"
-organo_emisor: "Jefatura del Estado / Ministerio"
-tipo_disposicion: "Real Decreto / Orden"
-fecha_publicacion: "2007-03-23"
-boletin: "BOE"
-estado: "Vigente"
-redaccion: "consolidada"
-fuente_oficial: "https://www.boe.es/buscar/act.php?id=BOE-A-2007-6115"
-
+codigo_sintetizado: BOE-A-2007-6115
+titulo: Ley Orgánica 3/2007, de 22 de marzo, para la igualdad efectiva de mujeres
+  y hombres.
+jurisdiccion: España
+ambito: Estatal
+organo_emisor: Jefatura del Estado / Ministerio
+tipo_disposicion: Real Decreto / Orden
+fecha_publicacion: '2007-03-23'
+boletin: BOE
+estado: Vigente
+redaccion: consolidada
+fuente_oficial: https://www.boe.es/buscar/act.php?id=BOE-A-2007-6115
 clasificacion:
-  categoria_canonica: "07_convivencia_bienestar_y_protocolos"
-  subcategoria: "Igualdad de género y diversidad"
-
+  categoria_canonica: 07_convivencia_bienestar_y_protocolos
+  subcategoria: Igualdad de género y diversidad
 tags:
-  - estatal
-  - boe
-  - 07_convivencia_bienestar_y_protocolos
-
+- estatal
+- boe
+- 07_convivencia_bienestar_y_protocolos
 relaciones: {}
-fundamentos_derecho: []
+fundamentos_derecho:
+- norma_id: norm-es-ce-1978
+  articulos:
+  - '27'
 ---
 
 # Ley Orgánica 3/2007, de 22 de marzo, para la igualdad efectiva de mujeres y hombres.

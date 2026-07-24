@@ -1,28 +1,33 @@
 ---
 id: norm-es-2021-20113
-codigo_sintetizado: "BOE-A-2021-20113"
-titulo: "Corrección de errores de la Orden EFP/721/2021, de 2 de julio, por la que se modifica la Orden ECD/1767/2012, de 3 de agosto, por la que se regula la expedición del título de Bachiller correspondiente a las enseñanzas reguladas por la Ley Orgánica 2/2006, de 3 de mayo, de Educación, para el alumnado inscrito en los programas de secciones internacionales españolas y «Bachibac» en liceos franceses."
-jurisdiccion: "España"
-ambito: "Estatal"
-organo_emisor: "Jefatura del Estado / Ministerio"
-tipo_disposicion: "Real Decreto / Orden"
-fecha_publicacion: "2021-12-06"
-boletin: "BOE"
-estado: "Vigente"
-redaccion: "consolidada"
-fuente_oficial: "https://www.boe.es/buscar/act.php?id=BOE-A-2021-20113"
-
+codigo_sintetizado: BOE-A-2021-20113
+titulo: Corrección de errores de la Orden EFP/721/2021, de 2 de julio, por la que
+  se modifica la Orden ECD/1767/2012, de 3 de agosto, por la que se regula la expedición
+  del título de Bachiller correspondiente a las enseñanzas reguladas por la Ley Orgánica
+  2/2006, de 3 de mayo, de Educación, para el alumnado inscrito en los programas de
+  secciones internacionales españolas y «Bachibac» en liceos franceses.
+jurisdiccion: España
+ambito: Estatal
+organo_emisor: Jefatura del Estado / Ministerio
+tipo_disposicion: Real Decreto / Orden
+fecha_publicacion: '2021-12-06'
+boletin: BOE
+estado: Vigente
+redaccion: consolidada
+fuente_oficial: https://www.boe.es/buscar/act.php?id=BOE-A-2021-20113
 clasificacion:
-  categoria_canonica: "03_ordenacion_curricular_y_ensenanzas"
-  subcategoria: "Bachillerato"
-
+  categoria_canonica: 03_ordenacion_curricular_y_ensenanzas
+  subcategoria: Bachillerato
 tags:
-  - estatal
-  - boe
-  - 03_ordenacion_curricular_y_ensenanzas
-
+- estatal
+- boe
+- 03_ordenacion_curricular_y_ensenanzas
 relaciones: {}
-fundamentos_derecho: []
+fundamentos_derecho:
+- norma_id: norm-es-lo-2-2006
+  articulos:
+  - '1'
+  - '2'
 ---
 
 # Corrección de errores de la Orden EFP/721/2021, de 2 de julio, por la que se modifica la Orden ECD/1767/2012, de 3 de agosto, por la que se regula la expedición del título de Bachiller correspondiente a las enseñanzas reguladas por la Ley Orgánica 2/2006, de 3 de mayo, de Educación, para el alumnado inscrito en los programas de secciones internacionales españolas y «Bachibac» en liceos franceses.

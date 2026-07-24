@@ -1,41 +1,48 @@
 ---
 id: norm-es-rd-943-2003
-codigo_sintetizado: "RD943_2003 Flexibilizacion para Alumnado con Altas Capacidades"
-titulo: "Real Decreto 943/2003, de 18 de julio, por el que se regulan las condiciones para flexibilizar la duración de los diversos niveles y etapas del sistema educativo para los alumnos superdotados intelectualmente."
-jurisdiccion: "España"
-ambito: "Estatal"
-organo_emisor: "Ministerio de Educación, Cultura y Deporte"
-tipo_disposicion: "Real Decreto"
-numero_disposicion: "943/2003"
-fecha_disposicion: "2003-07-18"
-fecha_publicacion: "2003-07-31"
-boletin: "BOE"
-numero_boletin: "182"
-estado: "Vigente"
-redaccion: "consolidada"
-fuente_oficial: "https://www.boe.es/buscar/act.php?id=BOE-A-2003-15365"
-
+codigo_sintetizado: RD943_2003 Flexibilizacion para Alumnado con Altas Capacidades
+titulo: Real Decreto 943/2003, de 18 de julio, por el que se regulan las condiciones
+  para flexibilizar la duración de los diversos niveles y etapas del sistema educativo
+  para los alumnos superdotados intelectualmente.
+jurisdiccion: España
+ambito: Estatal
+organo_emisor: Ministerio de Educación, Cultura y Deporte
+tipo_disposicion: Real Decreto
+numero_disposicion: 943/2003
+fecha_disposicion: '2003-07-18'
+fecha_publicacion: '2003-07-31'
+boletin: BOE
+numero_boletin: '182'
+estado: Vigente
+redaccion: consolidada
+fuente_oficial: https://www.boe.es/buscar/act.php?id=BOE-A-2003-15365
 clasificacion:
-  categoria_canonica: "06_atencion_diversidad_y_orientacion"
-  subcategoria: "Alumnado con altas capacidades"
-
+  categoria_canonica: 06_atencion_diversidad_y_orientacion
+  subcategoria: Alumnado con altas capacidades
 tags:
-  - altas_capacidades
-  - superdotacion
-  - flexibilizacion_escolar
-  - medidas_curriculares
-  - estatal
-
+- altas_capacidades
+- superdotacion
+- flexibilizacion_escolar
+- medidas_curriculares
+- estatal
 relaciones:
   desarrolla:
-    - norma_id: "norm-es-lo-2-2006"
-      articulos_origen: ["Todos"]
-      articulos_destino: ["76", "77"]
-      nota: "Establece las condiciones reglamentarias para flexibilizar la escolarización del alumnado con altas capacidades."
-
+  - norma_id: norm-es-lo-2-2006
+    articulos_origen:
+    - Todos
+    articulos_destino:
+    - '76'
+    - '77'
+    nota: Establece las condiciones reglamentarias para flexibilizar la escolarización
+      del alumnado con altas capacidades.
 fundamentos_derecho:
-  - norma_id: "norm-es-lo-2-2006"
-    articulos: ["76", "77"]
+- norma_id: norm-es-lo-2-2006
+  articulos:
+  - '76'
+  - '77'
+- norma_id: norm-es-ce-1978
+  articulos:
+  - '27'
 ---
 
 # Real Decreto 943/2003 - Flexibilización de la escolarización para alumnado con Altas Capacidades

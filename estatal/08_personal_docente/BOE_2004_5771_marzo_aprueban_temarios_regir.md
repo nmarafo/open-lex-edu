@@ -1,28 +1,31 @@
 ---
 id: norm-es-2004-5771
-codigo_sintetizado: "BOE-A-2004-5771"
-titulo: "Orden ECD/826/2004, de 22 de marzo, por la que se aprueban los temarios que han de regir en los procedimientos selectivos para el ingreso, acceso y adquisición de nuevas especialidades en los Cuerpos de Profesores de Artes Plásticas y Diseño y Maestros de Taller de Artes Plásticas y Diseño."
-jurisdiccion: "España"
-ambito: "Estatal"
-organo_emisor: "Jefatura del Estado / Ministerio"
-tipo_disposicion: "Real Decreto / Orden"
-fecha_publicacion: "2004-03-31"
-boletin: "BOE"
-estado: "Vigente"
-redaccion: "consolidada"
-fuente_oficial: "https://www.boe.es/buscar/act.php?id=BOE-A-2004-5771"
-
+codigo_sintetizado: BOE-A-2004-5771
+titulo: Orden ECD/826/2004, de 22 de marzo, por la que se aprueban los temarios que
+  han de regir en los procedimientos selectivos para el ingreso, acceso y adquisición
+  de nuevas especialidades en los Cuerpos de Profesores de Artes Plásticas y Diseño
+  y Maestros de Taller de Artes Plásticas y Diseño.
+jurisdiccion: España
+ambito: Estatal
+organo_emisor: Jefatura del Estado / Ministerio
+tipo_disposicion: Real Decreto / Orden
+fecha_publicacion: '2004-03-31'
+boletin: BOE
+estado: Vigente
+redaccion: consolidada
+fuente_oficial: https://www.boe.es/buscar/act.php?id=BOE-A-2004-5771
 clasificacion:
-  categoria_canonica: "08_personal_docente"
-  subcategoria: "Oposiciones y acceso"
-
+  categoria_canonica: 08_personal_docente
+  subcategoria: Oposiciones y acceso
 tags:
-  - estatal
-  - boe
-  - 08_personal_docente
-
+- estatal
+- boe
+- 08_personal_docente
 relaciones: {}
-fundamentos_derecho: []
+fundamentos_derecho:
+- norma_id: norm-es-ce-1978
+  articulos:
+  - '27'
 ---
 
 # Orden ECD/826/2004, de 22 de marzo, por la que se aprueban los temarios que han de regir en los procedimientos selectivos para el ingreso, acceso y adquisición de nuevas especialidades en los Cuerpos de Profesores de Artes Plásticas y Diseño y Maestros de Taller de Artes Plásticas y Diseño.

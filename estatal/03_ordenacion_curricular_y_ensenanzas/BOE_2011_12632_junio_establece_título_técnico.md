@@ -1,28 +1,31 @@
 ---
 id: norm-es-2011-12632
-codigo_sintetizado: "BOE-A-2011-12632"
-titulo: "Real Decreto 878/2011, de 24 de junio, por el que se establece el título de Técnico Deportivo en Salvamento y Socorrismo y se fijan sus enseñanzas mínimas y los requisitos de acceso."
-jurisdiccion: "España"
-ambito: "Estatal"
-organo_emisor: "Jefatura del Estado / Ministerio"
-tipo_disposicion: "Real Decreto / Orden"
-fecha_publicacion: "2011-07-22"
-boletin: "BOE"
-estado: "Vigente"
-redaccion: "consolidada"
-fuente_oficial: "https://www.boe.es/buscar/act.php?id=BOE-A-2011-12632"
-
+codigo_sintetizado: BOE-A-2011-12632
+titulo: Real Decreto 878/2011, de 24 de junio, por el que se establece el título de
+  Técnico Deportivo en Salvamento y Socorrismo y se fijan sus enseñanzas mínimas y
+  los requisitos de acceso.
+jurisdiccion: España
+ambito: Estatal
+organo_emisor: Jefatura del Estado / Ministerio
+tipo_disposicion: Real Decreto / Orden
+fecha_publicacion: '2011-07-22'
+boletin: BOE
+estado: Vigente
+redaccion: consolidada
+fuente_oficial: https://www.boe.es/buscar/act.php?id=BOE-A-2011-12632
 clasificacion:
-  categoria_canonica: "03_ordenacion_curricular_y_ensenanzas"
-  subcategoria: "Enseñanzas Deportivas"
-
+  categoria_canonica: 03_ordenacion_curricular_y_ensenanzas
+  subcategoria: Enseñanzas Deportivas
 tags:
-  - estatal
-  - boe
-  - 03_ordenacion_curricular_y_ensenanzas
-
+- estatal
+- boe
+- 03_ordenacion_curricular_y_ensenanzas
 relaciones: {}
-fundamentos_derecho: []
+fundamentos_derecho:
+- norma_id: norm-es-lo-2-2006
+  articulos:
+  - '1'
+  - '2'
 ---
 
 # Real Decreto 878/2011, de 24 de junio, por el que se establece el título de Técnico Deportivo en Salvamento y Socorrismo y se fijan sus enseñanzas mínimas y los requisitos de acceso.

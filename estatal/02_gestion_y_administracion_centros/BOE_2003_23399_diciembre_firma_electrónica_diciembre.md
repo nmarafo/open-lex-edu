@@ -1,28 +1,28 @@
 ---
 id: norm-es-2003-23399
-codigo_sintetizado: "BOE-A-2003-23399"
-titulo: "Ley 59/2003, de 19 de diciembre, de firma electrónica."
-jurisdiccion: "España"
-ambito: "Estatal"
-organo_emisor: "Jefatura del Estado / Ministerio"
-tipo_disposicion: "Real Decreto / Orden"
-fecha_publicacion: "2003-12-20"
-boletin: "BOE"
-estado: "Vigente"
-redaccion: "consolidada"
-fuente_oficial: "https://www.boe.es/buscar/act.php?id=BOE-A-2003-23399"
-
+codigo_sintetizado: BOE-A-2003-23399
+titulo: Ley 59/2003, de 19 de diciembre, de firma electrónica.
+jurisdiccion: España
+ambito: Estatal
+organo_emisor: Jefatura del Estado / Ministerio
+tipo_disposicion: Real Decreto / Orden
+fecha_publicacion: '2003-12-20'
+boletin: BOE
+estado: Vigente
+redaccion: consolidada
+fuente_oficial: https://www.boe.es/buscar/act.php?id=BOE-A-2003-23399
 clasificacion:
-  categoria_canonica: "02_gestion_y_administracion_centros"
-  subcategoria: "Administración electrónica y firmas"
-
+  categoria_canonica: 02_gestion_y_administracion_centros
+  subcategoria: Administración electrónica y firmas
 tags:
-  - estatal
-  - boe
-  - 02_gestion_y_administracion_centros
-
+- estatal
+- boe
+- 02_gestion_y_administracion_centros
 relaciones: {}
-fundamentos_derecho: []
+fundamentos_derecho:
+- norma_id: norm-es-ce-1978
+  articulos:
+  - '27'
 ---
 
 # Ley 59/2003, de 19 de diciembre, de firma electrónica.

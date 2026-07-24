@@ -1,34 +1,37 @@
 ---
 id: norm-es-lo-10-2022
-codigo_sintetizado: "LO10_2022 Garantia Integral de la Libertad Sexual"
-titulo: "Ley Orgánica 10/2022, de 6 de septiembre, de garantía integral de la libertad sexual."
-jurisdiccion: "España"
-ambito: "Estatal"
-organo_emisor: "Jefatura del Estado"
-tipo_disposicion: "Ley Orgánica"
-numero_disposicion: "10/2022"
-fecha_disposicion: "2022-09-06"
-fecha_publicacion: "2022-09-07"
-boletin: "BOE"
-numero_boletin: "215"
-estado: "Vigente"
-redaccion: "consolidada"
-fuente_oficial: "https://www.boe.es/buscar/act.php?id=BOE-A-2022-14630"
-
+codigo_sintetizado: LO10_2022 Garantia Integral de la Libertad Sexual
+titulo: Ley Orgánica 10/2022, de 6 de septiembre, de garantía integral de la libertad
+  sexual.
+jurisdiccion: España
+ambito: Estatal
+organo_emisor: Jefatura del Estado
+tipo_disposicion: Ley Orgánica
+numero_disposicion: 10/2022
+fecha_disposicion: '2022-09-06'
+fecha_publicacion: '2022-09-07'
+boletin: BOE
+numero_boletin: '215'
+estado: Vigente
+redaccion: consolidada
+fuente_oficial: https://www.boe.es/buscar/act.php?id=BOE-A-2022-14630
 clasificacion:
-  categoria_canonica: "07_convivencia_bienestar_y_protocolos"
-  subcategoria: "Protocolos de actuación y protección"
-
+  categoria_canonica: 07_convivencia_bienestar_y_protocolos
+  subcategoria: Protocolos de actuación y protección
 tags:
-  - libertad_sexual
-  - coeducacion
-  - prevencion_violencia_sexual
-  - estatal
-
+- libertad_sexual
+- coeducacion
+- prevencion_violencia_sexual
+- estatal
 relaciones: {}
 fundamentos_derecho:
-  - norma_id: "norm-es-ce-1978"
-    articulos: ["9.2", "14"]
+- norma_id: norm-es-ce-1978
+  articulos:
+  - '9.2'
+  - '14'
+- norma_id: norm-es-rdl-5-2015
+  articulos:
+  - '1'
 ---
 
 # Ley Orgánica 10/2022 de Garantía Integral de la Libertad Sexual

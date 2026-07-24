@@ -1,28 +1,35 @@
 ---
 id: norm-es-2026-2622
-codigo_sintetizado: "BOE-A-2026-2622"
-titulo: "Real Decreto 68/2026, de 4 de febrero, por el que se regula la inspección educativa."
-jurisdiccion: "España"
-ambito: "Estatal"
-organo_emisor: "Jefatura del Estado / Ministerio"
-tipo_disposicion: "Real Decreto / Orden"
-fecha_publicacion: "2026-02-05"
-boletin: "BOE"
-estado: "Vigente"
-redaccion: "consolidada"
-fuente_oficial: "https://www.boe.es/buscar/act.php?id=BOE-A-2026-2622"
-
+codigo_sintetizado: BOE-A-2026-2622
+titulo: Real Decreto 68/2026, de 4 de febrero, por el que se regula la inspección
+  educativa.
+jurisdiccion: España
+ambito: Estatal
+organo_emisor: Jefatura del Estado / Ministerio
+tipo_disposicion: Real Decreto / Orden
+fecha_publicacion: '2026-02-05'
+boletin: BOE
+estado: Vigente
+redaccion: consolidada
+fuente_oficial: https://www.boe.es/buscar/act.php?id=BOE-A-2026-2622
 clasificacion:
-  categoria_canonica: "04_organizacion_escolar_y_funcionamiento"
-  subcategoria: "Inspección educativa"
-
+  categoria_canonica: 04_organizacion_escolar_y_funcionamiento
+  subcategoria: Inspección educativa
 tags:
-  - estatal
-  - boe
-  - 04_organizacion_escolar_y_funcionamiento
-
+- estatal
+- boe
+- 04_organizacion_escolar_y_funcionamiento
 relaciones: {}
-fundamentos_derecho: []
+fundamentos_derecho:
+- norma_id: norm-es-ce-1978
+  articulos:
+  - '27'
+- norma_id: norm-es-l-39-2015
+  articulos:
+  - '1'
+- norma_id: norm-es-rdl-5-2015
+  articulos:
+  - '1'
 ---
 
 # Real Decreto 68/2026, de 4 de febrero, por el que se regula la inspección educativa.

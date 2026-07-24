@@ -1,41 +1,55 @@
 ---
 id: norm-es-rd-157-2022
-codigo_sintetizado: "RD157_2022 Ensenanzas Minimas de Educacion Primaria"
-titulo: "Real Decreto 157/2022, de 1 de marzo, por el que se establecen la ordenación y las enseñanzas mínimas de la Educación Primaria."
-jurisdiccion: "España"
-ambito: "Estatal"
-organo_emisor: "Ministerio de Educación y Formación Profesional"
-tipo_disposicion: "Real Decreto"
-numero_disposicion: "157/2022"
-fecha_disposicion: "2022-03-01"
-fecha_publicacion: "2022-03-02"
-boletin: "BOE"
-numero_boletin: "52"
-estado: "Vigente"
-redaccion: "consolidada"
-fuente_oficial: "https://www.boe.es/buscar/act.php?id=BOE-A-2022-3296"
-
+codigo_sintetizado: RD157_2022 Ensenanzas Minimas de Educacion Primaria
+titulo: Real Decreto 157/2022, de 1 de marzo, por el que se establecen la ordenación
+  y las enseñanzas mínimas de la Educación Primaria.
+jurisdiccion: España
+ambito: Estatal
+organo_emisor: Ministerio de Educación y Formación Profesional
+tipo_disposicion: Real Decreto
+numero_disposicion: 157/2022
+fecha_disposicion: '2022-03-01'
+fecha_publicacion: '2022-03-02'
+boletin: BOE
+numero_boletin: '52'
+estado: Vigente
+redaccion: consolidada
+fuente_oficial: https://www.boe.es/buscar/act.php?id=BOE-A-2022-3296
 clasificacion:
-  categoria_canonica: "03_ordenacion_curricular_y_ensenanzas"
-  subcategoria: "Educación Primaria"
-
+  categoria_canonica: 03_ordenacion_curricular_y_ensenanzas
+  subcategoria: Educación Primaria
 tags:
-  - educacion_primaria
-  - ordenacion_primaria
-  - ensenanzas_minimas
-  - perfil_salida
-  - estatal
-
+- educacion_primaria
+- ordenacion_primaria
+- ensenanzas_minimas
+- perfil_salida
+- estatal
 relaciones:
   desarrolla:
-    - norma_id: "norm-es-lo-2-2006"
-      articulos_origen: ["Todos"]
-      articulos_destino: ["16", "18", "19", "20"]
-      nota: "Establece la ordenación y currículo básico de Educación Primaria tras la reforma LOMLOE."
-
+  - norma_id: norm-es-lo-2-2006
+    articulos_origen:
+    - Todos
+    articulos_destino:
+    - '16'
+    - '18'
+    - '19'
+    - '20'
+    nota: Establece la ordenación y currículo básico de Educación Primaria tras la
+      reforma LOMLOE.
 fundamentos_derecho:
-  - norma_id: "norm-es-lo-2-2006"
-    articulos: ["6.2", "16", "18", "19", "20"]
+- norma_id: norm-es-lo-2-2006
+  articulos:
+  - '6.2'
+  - '16'
+  - '18'
+  - '19'
+  - '20'
+- norma_id: norm-es-ce-1978
+  articulos:
+  - '27'
+- norma_id: norm-es-l-39-2015
+  articulos:
+  - '1'
 ---
 
 # Real Decreto 157/2022 - Ordenación y Enseñanzas Mínimas de la Educación Primaria

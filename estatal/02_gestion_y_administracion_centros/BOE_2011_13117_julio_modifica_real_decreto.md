@@ -1,28 +1,32 @@
 ---
 id: norm-es-2011-13117
-codigo_sintetizado: "BOE-A-2011-13117"
-titulo: "Real Decreto 1146/2011, de 29 de julio, por el que se modifica el Real Decreto 1631/2006, de 29 de diciembre, por el que se esteblecen las enseñanzas mínimas correspondientes a la Educación Secundaria Obligatoria, así como los Reales Decretos 1834/2008, de 8 de noviembre, y 860/2010, de 2 de julio, afectados por estas modificaciones."
-jurisdiccion: "España"
-ambito: "Estatal"
-organo_emisor: "Jefatura del Estado / Ministerio"
-tipo_disposicion: "Real Decreto / Orden"
-fecha_publicacion: "2011-07-30"
-boletin: "BOE"
-estado: "Vigente"
-redaccion: "consolidada"
-fuente_oficial: "https://www.boe.es/buscar/act.php?id=BOE-A-2011-13117"
-
+codigo_sintetizado: BOE-A-2011-13117
+titulo: Real Decreto 1146/2011, de 29 de julio, por el que se modifica el Real Decreto
+  1631/2006, de 29 de diciembre, por el que se esteblecen las enseñanzas mínimas correspondientes
+  a la Educación Secundaria Obligatoria, así como los Reales Decretos 1834/2008, de
+  8 de noviembre, y 860/2010, de 2 de julio, afectados por estas modificaciones.
+jurisdiccion: España
+ambito: Estatal
+organo_emisor: Jefatura del Estado / Ministerio
+tipo_disposicion: Real Decreto / Orden
+fecha_publicacion: '2011-07-30'
+boletin: BOE
+estado: Vigente
+redaccion: consolidada
+fuente_oficial: https://www.boe.es/buscar/act.php?id=BOE-A-2011-13117
 clasificacion:
-  categoria_canonica: "02_gestion_y_administracion_centros"
-  subcategoria: "Centros privados"
-
+  categoria_canonica: 02_gestion_y_administracion_centros
+  subcategoria: Centros privados
 tags:
-  - estatal
-  - boe
-  - 02_gestion_y_administracion_centros
-
+- estatal
+- boe
+- 02_gestion_y_administracion_centros
 relaciones: {}
-fundamentos_derecho: []
+fundamentos_derecho:
+- norma_id: norm-es-lo-2-2006
+  articulos:
+  - '1'
+  - '2'
 ---
 
 # Real Decreto 1146/2011, de 29 de julio, por el que se modifica el Real Decreto 1631/2006, de 29 de diciembre, por el que se esteblecen las enseñanzas mínimas correspondientes a la Educación Secundaria Obligatoria, así como los Reales Decretos 1834/2008, de 8 de noviembre, y 860/2010, de 2 de julio, afectados por estas modificaciones.

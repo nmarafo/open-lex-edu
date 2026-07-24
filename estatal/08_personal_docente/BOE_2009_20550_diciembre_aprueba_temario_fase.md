@@ -1,28 +1,34 @@
 ---
 id: norm-es-2009-20550
-codigo_sintetizado: "BOE-A-2009-20550"
-titulo: "Orden EDU/3429/2009, de 11 de diciembre, por la que se aprueba el temario de la fase de oposición del procedimiento selectivo de acceso al Cuerpo de Inspectores de Educación."
-jurisdiccion: "España"
-ambito: "Estatal"
-organo_emisor: "Jefatura del Estado / Ministerio"
-tipo_disposicion: "Real Decreto / Orden"
-fecha_publicacion: "2009-12-21"
-boletin: "BOE"
-estado: "Vigente"
-redaccion: "consolidada"
-fuente_oficial: "https://www.boe.es/buscar/act.php?id=BOE-A-2009-20550"
-
+codigo_sintetizado: BOE-A-2009-20550
+titulo: Orden EDU/3429/2009, de 11 de diciembre, por la que se aprueba el temario
+  de la fase de oposición del procedimiento selectivo de acceso al Cuerpo de Inspectores
+  de Educación.
+jurisdiccion: España
+ambito: Estatal
+organo_emisor: Jefatura del Estado / Ministerio
+tipo_disposicion: Real Decreto / Orden
+fecha_publicacion: '2009-12-21'
+boletin: BOE
+estado: Vigente
+redaccion: consolidada
+fuente_oficial: https://www.boe.es/buscar/act.php?id=BOE-A-2009-20550
 clasificacion:
-  categoria_canonica: "08_personal_docente"
-  subcategoria: "Oposiciones y acceso"
-
+  categoria_canonica: 08_personal_docente
+  subcategoria: Oposiciones y acceso
 tags:
-  - estatal
-  - boe
-  - 08_personal_docente
-
+- estatal
+- boe
+- 08_personal_docente
 relaciones: {}
-fundamentos_derecho: []
+fundamentos_derecho:
+- norma_id: norm-es-ce-1978
+  articulos:
+  - '27'
+- norma_id: norm-es-lo-2-2006
+  articulos:
+  - '1'
+  - '2'
 ---
 
 # Orden EDU/3429/2009, de 11 de diciembre, por la que se aprueba el temario de la fase de oposición del procedimiento selectivo de acceso al Cuerpo de Inspectores de Educación.

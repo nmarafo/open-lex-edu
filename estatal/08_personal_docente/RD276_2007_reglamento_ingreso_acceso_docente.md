@@ -1,43 +1,51 @@
 ---
 id: norm-es-rd-276-2007
-codigo_sintetizado: "RD276_2007 Reglamento de Ingreso y Acceso a los Cuerpos Docentes"
-titulo: "Real Decreto 276/2007, de 23 de febrero, por el que se aprueba el Reglamento de ingreso, accesos y adquisición de nuevas especialidades en los cuerpos docentes a que se refiere la Ley Orgánica 2/2006, de 3 de mayo, de Educación, y se regula el régimen transitorio de ingreso a que se refiere la disposición transitoria decimoséptima de la citada ley."
-jurisdiccion: "España"
-ambito: "Estatal"
-organo_emisor: "Ministerio de Educación y Ciencia"
-tipo_disposicion: "Real Decreto"
-numero_disposicion: "276/2007"
-fecha_disposicion: "2007-02-23"
-fecha_publicacion: "2007-03-02"
-boletin: "BOE"
-numero_boletin: "53"
-estado: "Vigente"
-redaccion: "consolidada"
-fuente_oficial: "https://www.boe.es/buscar/act.php?id=BOE-A-2007-4372"
-
+codigo_sintetizado: RD276_2007 Reglamento de Ingreso y Acceso a los Cuerpos Docentes
+titulo: Real Decreto 276/2007, de 23 de febrero, por el que se aprueba el Reglamento
+  de ingreso, accesos y adquisición de nuevas especialidades en los cuerpos docentes
+  a que se refiere la Ley Orgánica 2/2006, de 3 de mayo, de Educación, y se regula
+  el régimen transitorio de ingreso a que se refiere la disposición transitoria decimoséptima
+  de la citada ley.
+jurisdiccion: España
+ambito: Estatal
+organo_emisor: Ministerio de Educación y Ciencia
+tipo_disposicion: Real Decreto
+numero_disposicion: 276/2007
+fecha_disposicion: '2007-02-23'
+fecha_publicacion: '2007-03-02'
+boletin: BOE
+numero_boletin: '53'
+estado: Vigente
+redaccion: consolidada
+fuente_oficial: https://www.boe.es/buscar/act.php?id=BOE-A-2007-4372
 clasificacion:
-  categoria_canonica: "08_personal_docente"
-  subcategoria: "Selección y provisión de puestos"
-
+  categoria_canonica: 08_personal_docente
+  subcategoria: Selección y provisión de puestos
 tags:
-  - ingreso_docente
-  - oposiciones
-  - concurso_oposicion
-  - adquisicion_especialidades
-  - estatal
-
+- ingreso_docente
+- oposiciones
+- concurso_oposicion
+- adquisicion_especialidades
+- estatal
 relaciones:
   desarrolla:
-    - norma_id: "norm-es-lo-2-2006"
-      articulos_origen: ["Todos"]
-      articulos_destino: ["Disposición adicional duodécima"]
-      nota: "Regula el sistema general de ingreso y accesos a la función pública docente no universitaria."
-
+  - norma_id: norm-es-lo-2-2006
+    articulos_origen:
+    - Todos
+    articulos_destino:
+    - Disposición adicional duodécima
+    nota: Regula el sistema general de ingreso y accesos a la función pública docente
+      no universitaria.
 fundamentos_derecho:
-  - norma_id: "norm-es-rdl-5-2015"
-    articulos: ["61"]
-  - norma_id: "norm-es-lo-2-2006"
-    articulos: ["Disposición adicional duodécima"]
+- norma_id: norm-es-rdl-5-2015
+  articulos:
+  - '61'
+- norma_id: norm-es-lo-2-2006
+  articulos:
+  - Disposición adicional duodécima
+- norma_id: norm-es-ce-1978
+  articulos:
+  - '27'
 ---
 
 # Real Decreto 276/2007 - Reglamento de Ingreso, Accesos y Adquisición de Nuevas Especialidades en Cuerpos Docentes

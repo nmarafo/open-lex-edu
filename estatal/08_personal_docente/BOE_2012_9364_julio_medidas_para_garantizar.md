@@ -1,28 +1,29 @@
 ---
 id: norm-es-2012-9364
-codigo_sintetizado: "BOE-A-2012-9364"
-titulo: "Real Decreto-ley 20/2012, de 13 de julio, de medidas para garantizar la estabilidad presupuestaria y de fomento de la competitividad."
-jurisdiccion: "España"
-ambito: "Estatal"
-organo_emisor: "Jefatura del Estado / Ministerio"
-tipo_disposicion: "Real Decreto / Orden"
-fecha_publicacion: "2012-07-14"
-boletin: "BOE"
-estado: "Vigente"
-redaccion: "consolidada"
-fuente_oficial: "https://www.boe.es/buscar/act.php?id=BOE-A-2012-9364"
-
+codigo_sintetizado: BOE-A-2012-9364
+titulo: Real Decreto-ley 20/2012, de 13 de julio, de medidas para garantizar la estabilidad
+  presupuestaria y de fomento de la competitividad.
+jurisdiccion: España
+ambito: Estatal
+organo_emisor: Jefatura del Estado / Ministerio
+tipo_disposicion: Real Decreto / Orden
+fecha_publicacion: '2012-07-14'
+boletin: BOE
+estado: Vigente
+redaccion: consolidada
+fuente_oficial: https://www.boe.es/buscar/act.php?id=BOE-A-2012-9364
 clasificacion:
-  categoria_canonica: "08_personal_docente"
-  subcategoria: "Salud laboral y vigilancia"
-
+  categoria_canonica: 08_personal_docente
+  subcategoria: Salud laboral y vigilancia
 tags:
-  - estatal
-  - boe
-  - 08_personal_docente
-
+- estatal
+- boe
+- 08_personal_docente
 relaciones: {}
-fundamentos_derecho: []
+fundamentos_derecho:
+- norma_id: norm-es-rdl-5-2015
+  articulos:
+  - '1'
 ---
 
 # Real Decreto-ley 20/2012, de 13 de julio, de medidas para garantizar la estabilidad presupuestaria y de fomento de la competitividad.

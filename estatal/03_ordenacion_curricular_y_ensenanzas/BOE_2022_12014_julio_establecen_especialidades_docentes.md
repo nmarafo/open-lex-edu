@@ -1,28 +1,33 @@
 ---
 id: norm-es-2022-12014
-codigo_sintetizado: "BOE-A-2022-12014"
-titulo: "Real Decreto 588/2022, de 19 de julio, por el que se establecen las especialidades docentes de los Cuerpos de Profesores y de Catedráticos de Música y Artes Escénicas vinculadas a las enseñanzas de Arte Dramático."
-jurisdiccion: "España"
-ambito: "Estatal"
-organo_emisor: "Jefatura del Estado / Ministerio"
-tipo_disposicion: "Real Decreto / Orden"
-fecha_publicacion: "2022-07-20"
-boletin: "BOE"
-estado: "Vigente"
-redaccion: "consolidada"
-fuente_oficial: "https://www.boe.es/buscar/act.php?id=BOE-A-2022-12014"
-
+codigo_sintetizado: BOE-A-2022-12014
+titulo: Real Decreto 588/2022, de 19 de julio, por el que se establecen las especialidades
+  docentes de los Cuerpos de Profesores y de Catedráticos de Música y Artes Escénicas
+  vinculadas a las enseñanzas de Arte Dramático.
+jurisdiccion: España
+ambito: Estatal
+organo_emisor: Jefatura del Estado / Ministerio
+tipo_disposicion: Real Decreto / Orden
+fecha_publicacion: '2022-07-20'
+boletin: BOE
+estado: Vigente
+redaccion: consolidada
+fuente_oficial: https://www.boe.es/buscar/act.php?id=BOE-A-2022-12014
 clasificacion:
-  categoria_canonica: "03_ordenacion_curricular_y_ensenanzas"
-  subcategoria: "Enseñanzas Artísticas"
-
+  categoria_canonica: 03_ordenacion_curricular_y_ensenanzas
+  subcategoria: Enseñanzas Artísticas
 tags:
-  - estatal
-  - boe
-  - 03_ordenacion_curricular_y_ensenanzas
-
+- estatal
+- boe
+- 03_ordenacion_curricular_y_ensenanzas
 relaciones: {}
-fundamentos_derecho: []
+fundamentos_derecho:
+- norma_id: norm-es-ce-1978
+  articulos:
+  - '27'
+- norma_id: norm-es-l-39-2015
+  articulos:
+  - '1'
 ---
 
 # Real Decreto 588/2022, de 19 de julio, por el que se establecen las especialidades docentes de los Cuerpos de Profesores y de Catedráticos de Música y Artes Escénicas vinculadas a las enseñanzas de Arte Dramático.

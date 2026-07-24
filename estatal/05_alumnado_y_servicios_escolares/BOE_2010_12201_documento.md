@@ -1,28 +1,33 @@
 ---
 id: norm-es-2010-12201
-codigo_sintetizado: "BOE-A-2010-12201"
-titulo: "Orden EDU/2058/2010, de 13 de julio, por la que se regulan los Premios Nacionales de Bachillerato establecidos por la Ley Orgánica 2/2006, de 3 de mayo, de Educación."
-jurisdiccion: "España"
-ambito: "Estatal"
-organo_emisor: "Jefatura del Estado / Ministerio"
-tipo_disposicion: "Real Decreto / Orden"
-fecha_publicacion: "2010-07-29"
-boletin: "BOE"
-estado: "Vigente"
-redaccion: "consolidada"
-fuente_oficial: "https://www.boe.es/buscar/act.php?id=BOE-A-2010-12201"
-
+codigo_sintetizado: BOE-A-2010-12201
+titulo: Orden EDU/2058/2010, de 13 de julio, por la que se regulan los Premios Nacionales
+  de Bachillerato establecidos por la Ley Orgánica 2/2006, de 3 de mayo, de Educación.
+jurisdiccion: España
+ambito: Estatal
+organo_emisor: Jefatura del Estado / Ministerio
+tipo_disposicion: Real Decreto / Orden
+fecha_publicacion: '2010-07-29'
+boletin: BOE
+estado: Vigente
+redaccion: consolidada
+fuente_oficial: https://www.boe.es/buscar/act.php?id=BOE-A-2010-12201
 clasificacion:
-  categoria_canonica: "05_alumnado_y_servicios_escolares"
-  subcategoria: "Concursos y premios escolares"
-
+  categoria_canonica: 05_alumnado_y_servicios_escolares
+  subcategoria: Concursos y premios escolares
 tags:
-  - estatal
-  - boe
-  - 05_alumnado_y_servicios_escolares
-
+- estatal
+- boe
+- 05_alumnado_y_servicios_escolares
 relaciones: {}
-fundamentos_derecho: []
+fundamentos_derecho:
+- norma_id: norm-es-lo-2-2006
+  articulos:
+  - '1'
+  - '2'
+- norma_id: norm-es-l-39-2015
+  articulos:
+  - '1'
 ---
 
 # Orden EDU/2058/2010, de 13 de julio, por la que se regulan los Premios Nacionales de Bachillerato establecidos por la Ley Orgánica 2/2006, de 3 de mayo, de Educación.

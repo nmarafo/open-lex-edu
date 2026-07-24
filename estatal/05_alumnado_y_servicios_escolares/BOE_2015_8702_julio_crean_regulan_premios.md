@@ -1,28 +1,35 @@
 ---
 id: norm-es-2015-8702
-codigo_sintetizado: "BOE-A-2015-8702"
-titulo: "Orden ECD/1611/2015, de 29 de julio, por la que se crean y regulan los Premios Nacionales al rendimiento académico del alumnado de Educación Secundaria Obligatoria y de Enseñanzas Artísticas Profesionales en los ámbitos de Música, Danza y Artes Plásticas y Diseño."
-jurisdiccion: "España"
-ambito: "Estatal"
-organo_emisor: "Jefatura del Estado / Ministerio"
-tipo_disposicion: "Real Decreto / Orden"
-fecha_publicacion: "2015-08-01"
-boletin: "BOE"
-estado: "Vigente"
-redaccion: "consolidada"
-fuente_oficial: "https://www.boe.es/buscar/act.php?id=BOE-A-2015-8702"
-
+codigo_sintetizado: BOE-A-2015-8702
+titulo: Orden ECD/1611/2015, de 29 de julio, por la que se crean y regulan los Premios
+  Nacionales al rendimiento académico del alumnado de Educación Secundaria Obligatoria
+  y de Enseñanzas Artísticas Profesionales en los ámbitos de Música, Danza y Artes
+  Plásticas y Diseño.
+jurisdiccion: España
+ambito: Estatal
+organo_emisor: Jefatura del Estado / Ministerio
+tipo_disposicion: Real Decreto / Orden
+fecha_publicacion: '2015-08-01'
+boletin: BOE
+estado: Vigente
+redaccion: consolidada
+fuente_oficial: https://www.boe.es/buscar/act.php?id=BOE-A-2015-8702
 clasificacion:
-  categoria_canonica: "05_alumnado_y_servicios_escolares"
-  subcategoria: "Concursos y premios escolares"
-
+  categoria_canonica: 05_alumnado_y_servicios_escolares
+  subcategoria: Concursos y premios escolares
 tags:
-  - estatal
-  - boe
-  - 05_alumnado_y_servicios_escolares
-
+- estatal
+- boe
+- 05_alumnado_y_servicios_escolares
 relaciones: {}
-fundamentos_derecho: []
+fundamentos_derecho:
+- norma_id: norm-es-lo-2-2006
+  articulos:
+  - '1'
+  - '2'
+- norma_id: norm-es-l-39-2015
+  articulos:
+  - '1'
 ---
 
 # Orden ECD/1611/2015, de 29 de julio, por la que se crean y regulan los Premios Nacionales al rendimiento académico del alumnado de Educación Secundaria Obligatoria y de Enseñanzas Artísticas Profesionales en los ámbitos de Música, Danza y Artes Plásticas y Diseño.

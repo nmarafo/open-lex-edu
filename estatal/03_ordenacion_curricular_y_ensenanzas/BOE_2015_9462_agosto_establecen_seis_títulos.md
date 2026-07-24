@@ -1,28 +1,37 @@
 ---
 id: norm-es-2015-9462
-codigo_sintetizado: "BOE-A-2015-9462"
-titulo: "Real Decreto 774/2015, de 28 de agosto, por el que se establecen seis Títulos de Formación Profesional Básica del catálogo de Títulos de las enseñanzas de Formación Profesional."
-jurisdiccion: "España"
-ambito: "Estatal"
-organo_emisor: "Jefatura del Estado / Ministerio"
-tipo_disposicion: "Real Decreto / Orden"
-fecha_publicacion: "2015-08-29"
-boletin: "BOE"
-estado: "Vigente"
-redaccion: "consolidada"
-fuente_oficial: "https://www.boe.es/buscar/act.php?id=BOE-A-2015-9462"
-
+codigo_sintetizado: BOE-A-2015-9462
+titulo: Real Decreto 774/2015, de 28 de agosto, por el que se establecen seis Títulos
+  de Formación Profesional Básica del catálogo de Títulos de las enseñanzas de Formación
+  Profesional.
+jurisdiccion: España
+ambito: Estatal
+organo_emisor: Jefatura del Estado / Ministerio
+tipo_disposicion: Real Decreto / Orden
+fecha_publicacion: '2015-08-29'
+boletin: BOE
+estado: Vigente
+redaccion: consolidada
+fuente_oficial: https://www.boe.es/buscar/act.php?id=BOE-A-2015-9462
 clasificacion:
-  categoria_canonica: "03_ordenacion_curricular_y_ensenanzas"
-  subcategoria: "Formación Profesional"
-
+  categoria_canonica: 03_ordenacion_curricular_y_ensenanzas
+  subcategoria: Formación Profesional
 tags:
-  - estatal
-  - boe
-  - 03_ordenacion_curricular_y_ensenanzas
-
+- estatal
+- boe
+- 03_ordenacion_curricular_y_ensenanzas
 relaciones: {}
-fundamentos_derecho: []
+fundamentos_derecho:
+- norma_id: norm-es-ce-1978
+  articulos:
+  - '27'
+- norma_id: norm-es-lo-2-2006
+  articulos:
+  - '1'
+  - '2'
+- norma_id: norm-es-l-31-1995
+  articulos:
+  - '1'
 ---
 
 # Real Decreto 774/2015, de 28 de agosto, por el que se establecen seis Títulos de Formación Profesional Básica del catálogo de Títulos de las enseñanzas de Formación Profesional.

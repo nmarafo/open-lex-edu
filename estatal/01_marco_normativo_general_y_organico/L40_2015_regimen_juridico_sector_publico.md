@@ -1,35 +1,37 @@
 ---
 id: norm-es-l-40-2015
-codigo_sintetizado: "L40_2015 Regimen Juridico del Sector Publico"
-titulo: "Ley 40/2015, de 1 de octubre, de Régimen Jurídico del Sector Público."
-jurisdiccion: "España"
-ambito: "Estatal"
-organo_emisor: "Jefatura del Estado"
-tipo_disposicion: "Ley"
-numero_disposicion: "40/2015"
-fecha_disposicion: "2015-10-01"
-fecha_publicacion: "2015-10-02"
-boletin: "BOE"
-numero_boletin: "236"
-estado: "Vigente"
-redaccion: "consolidada"
-fuente_oficial: "https://www.boe.es/buscar/act.php?id=BOE-A-2015-10566"
-
+codigo_sintetizado: L40_2015 Regimen Juridico del Sector Publico
+titulo: Ley 40/2015, de 1 de octubre, de Régimen Jurídico del Sector Público.
+jurisdiccion: España
+ambito: Estatal
+organo_emisor: Jefatura del Estado
+tipo_disposicion: Ley
+numero_disposicion: 40/2015
+fecha_disposicion: '2015-10-01'
+fecha_publicacion: '2015-10-02'
+boletin: BOE
+numero_boletin: '236'
+estado: Vigente
+redaccion: consolidada
+fuente_oficial: https://www.boe.es/buscar/act.php?id=BOE-A-2015-10566
 clasificacion:
-  categoria_canonica: "01_marco_normativo_general_y_organico"
-  subcategoria: "Empleados públicos"
-
+  categoria_canonica: 01_marco_normativo_general_y_organico
+  subcategoria: Empleados públicos
 tags:
-  - sector_publico
-  - regimen_juridico
-  - administracion
-  - responsabilidad_patrimonial
-  - estatal
-
+- sector_publico
+- regimen_juridico
+- administracion
+- responsabilidad_patrimonial
+- estatal
 relaciones: {}
 fundamentos_derecho:
-  - norma_id: "norm-es-ce-1978"
-    articulos: ["103", "106"]
+- norma_id: norm-es-ce-1978
+  articulos:
+  - '103'
+  - '106'
+- norma_id: norm-es-l-39-2015
+  articulos:
+  - '1'
 ---
 
 # Ley 40/2015 del Régimen Jurídico del Sector Público

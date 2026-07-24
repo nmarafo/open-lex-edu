@@ -1,28 +1,34 @@
 ---
 id: norm-es-2011-2615
-codigo_sintetizado: "BOE-A-2011-2615"
-titulo: "Orden EDU/216/2011, de 8 de febrero, por la que se establece el procedimiento de reconocimiento de las formaciones de entrenadores deportivos en las modalidades de fútbol y fútbol sala."
-jurisdiccion: "España"
-ambito: "Estatal"
-organo_emisor: "Jefatura del Estado / Ministerio"
-tipo_disposicion: "Real Decreto / Orden"
-fecha_publicacion: "2011-02-11"
-boletin: "BOE"
-estado: "Vigente"
-redaccion: "consolidada"
-fuente_oficial: "https://www.boe.es/buscar/act.php?id=BOE-A-2011-2615"
-
+codigo_sintetizado: BOE-A-2011-2615
+titulo: Orden EDU/216/2011, de 8 de febrero, por la que se establece el procedimiento
+  de reconocimiento de las formaciones de entrenadores deportivos en las modalidades
+  de fútbol y fútbol sala.
+jurisdiccion: España
+ambito: Estatal
+organo_emisor: Jefatura del Estado / Ministerio
+tipo_disposicion: Real Decreto / Orden
+fecha_publicacion: '2011-02-11'
+boletin: BOE
+estado: Vigente
+redaccion: consolidada
+fuente_oficial: https://www.boe.es/buscar/act.php?id=BOE-A-2011-2615
 clasificacion:
-  categoria_canonica: "03_ordenacion_curricular_y_ensenanzas"
-  subcategoria: "Enseñanzas Deportivas"
-
+  categoria_canonica: 03_ordenacion_curricular_y_ensenanzas
+  subcategoria: Enseñanzas Deportivas
 tags:
-  - estatal
-  - boe
-  - 03_ordenacion_curricular_y_ensenanzas
-
+- estatal
+- boe
+- 03_ordenacion_curricular_y_ensenanzas
 relaciones: {}
-fundamentos_derecho: []
+fundamentos_derecho:
+- norma_id: norm-es-lo-2-2006
+  articulos:
+  - '1'
+  - '2'
+- norma_id: norm-es-l-39-2015
+  articulos:
+  - '1'
 ---
 
 # Orden EDU/216/2011, de 8 de febrero, por la que se establece el procedimiento de reconocimiento de las formaciones de entrenadores deportivos en las modalidades de fútbol y fútbol sala.

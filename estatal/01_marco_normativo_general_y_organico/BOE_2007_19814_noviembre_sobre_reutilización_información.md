@@ -1,28 +1,35 @@
 ---
 id: norm-es-2007-19814
-codigo_sintetizado: "BOE-A-2007-19814"
-titulo: "Ley 37/2007, de 16 de noviembre, sobre reutilización de la información del sector público."
-jurisdiccion: "España"
-ambito: "Estatal"
-organo_emisor: "Jefatura del Estado / Ministerio"
-tipo_disposicion: "Real Decreto / Orden"
-fecha_publicacion: "2007-11-17"
-boletin: "BOE"
-estado: "Vigente"
-redaccion: "consolidada"
-fuente_oficial: "https://www.boe.es/buscar/act.php?id=BOE-A-2007-19814"
-
+codigo_sintetizado: BOE-A-2007-19814
+titulo: Ley 37/2007, de 16 de noviembre, sobre reutilización de la información del
+  sector público.
+jurisdiccion: España
+ambito: Estatal
+organo_emisor: Jefatura del Estado / Ministerio
+tipo_disposicion: Real Decreto / Orden
+fecha_publicacion: '2007-11-17'
+boletin: BOE
+estado: Vigente
+redaccion: consolidada
+fuente_oficial: https://www.boe.es/buscar/act.php?id=BOE-A-2007-19814
 clasificacion:
-  categoria_canonica: "01_marco_normativo_general_y_organico"
-  subcategoria: "Empleados públicos"
-
+  categoria_canonica: 01_marco_normativo_general_y_organico
+  subcategoria: Empleados públicos
 tags:
-  - estatal
-  - boe
-  - 01_marco_normativo_general_y_organico
-
+- estatal
+- boe
+- 01_marco_normativo_general_y_organico
 relaciones: {}
-fundamentos_derecho: []
+fundamentos_derecho:
+- norma_id: norm-es-ce-1978
+  articulos:
+  - '27'
+- norma_id: norm-es-l-39-2015
+  articulos:
+  - '1'
+- norma_id: norm-es-lo-3-2018
+  articulos:
+  - '1'
 ---
 
 # Ley 37/2007, de 16 de noviembre, sobre reutilización de la información del sector público.

@@ -1,34 +1,37 @@
 ---
 id: norm-es-lo-5-2000
-codigo_sintetizado: "LO5_2000 Responsabilidad Penal de los Menores"
-titulo: "Ley Orgánica 5/2000, de 12 de enero, reguladora de la responsabilidad penal de los menores."
-jurisdiccion: "España"
-ambito: "Estatal"
-organo_emisor: "Jefatura del Estado"
-tipo_disposicion: "Ley Orgánica"
-numero_disposicion: "5/2000"
-fecha_disposicion: "2000-01-12"
-fecha_publicacion: "2000-01-13"
-boletin: "BOE"
-numero_boletin: "11"
-estado: "Vigente"
-redaccion: "consolidada"
-fuente_oficial: "https://www.boe.es/buscar/act.php?id=BOE-A-2000-641"
-
+codigo_sintetizado: LO5_2000 Responsabilidad Penal de los Menores
+titulo: Ley Orgánica 5/2000, de 12 de enero, reguladora de la responsabilidad penal
+  de los menores.
+jurisdiccion: España
+ambito: Estatal
+organo_emisor: Jefatura del Estado
+tipo_disposicion: Ley Orgánica
+numero_disposicion: 5/2000
+fecha_disposicion: '2000-01-12'
+fecha_publicacion: '2000-01-13'
+boletin: BOE
+numero_boletin: '11'
+estado: Vigente
+redaccion: consolidada
+fuente_oficial: https://www.boe.es/buscar/act.php?id=BOE-A-2000-641
 clasificacion:
-  categoria_canonica: "01_marco_normativo_general_y_organico"
-  subcategoria: "Protección jurídica de menores"
-
+  categoria_canonica: 01_marco_normativo_general_y_organico
+  subcategoria: Protección jurídica de menores
 tags:
-  - responsabilidad_penal
-  - menores_infractores
-  - medidas_educativas
-  - estatal
-
+- responsabilidad_penal
+- menores_infractores
+- medidas_educativas
+- estatal
 relaciones: {}
 fundamentos_derecho:
-  - norma_id: "norm-es-ce-1978"
-    articulos: ["25", "39"]
+- norma_id: norm-es-ce-1978
+  articulos:
+  - '25'
+  - '39'
+- norma_id: norm-es-l-39-2015
+  articulos:
+  - '1'
 ---
 
 # Ley Orgánica 5/2000 reguladora de la responsabilidad penal de los menores
