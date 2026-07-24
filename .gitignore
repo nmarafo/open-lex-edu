@@ -1,0 +1,5 @@
+# Ignorar carpeta de scripts de mantenimiento local
+scripts/
+__pycache__/
+*.pyc
+.DS_Store
