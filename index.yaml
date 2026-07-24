@@ -1,5 +1,5 @@
 version: '1.0'
-total_normas: 20
+total_normas: 25
 normas:
   norm-can-d-84-2024:
     id: norm-can-d-84-2024
@@ -128,6 +128,27 @@ normas:
     - estatuto_autonomia
     - competencias_educacion
     path: autonómica/canarias/01_marco_normativo_general_y_organico/LO1_2018_estatuto_autonomia_canarias.md
+  norm-can-d-276-1997:
+    id: norm-can-d-276-1997
+    codigo_sintetizado: D276_1997 Gestion Economica de Centros Docentes Publicos
+    titulo: Decreto 276/1997, de 27 de noviembre, por el que se regula el procedimiento
+      de gestión económica de los centros docentes públicos no universitarios de la
+      Comunidad Autónoma de Canarias.
+    jurisdiccion: Canarias
+    ambito: Autonómico
+    tipo_disposicion: Decreto
+    fecha_publicacion: '1997-12-17'
+    estado: Vigente
+    redaccion: libro_azul
+    categoria_canonica: 02_gestion_y_administracion_centros
+    subcategoria: Gestión económica de centros
+    tags:
+    - canarias
+    - gestion_economica
+    - presupuestos_centros
+    - autonomia_gestion
+    - pagos_en_firme
+    path: autonómica/canarias/02_gestion_y_administracion_centros/D276_1997_gestion_economica_centros.md
   norm-can-d-81-2010:
     id: norm-can-d-81-2010
     codigo_sintetizado: D81_2010 Reglamento Organico de Centros (ROC)
@@ -381,6 +402,84 @@ normas:
     - funcion_publica
     - estatal
     path: estatal/01_marco_normativo_general_y_organico/RD5_2015_estatuto_basico_empleado_publico.md
+  norm-es-l-31-1995:
+    id: norm-es-l-31-1995
+    codigo_sintetizado: L31_1995 Prevencion de Riesgos Laborales (LPRL)
+    titulo: Ley 31/1995, de 8 de noviembre, de Prevención de Riesgos Laborales.
+    jurisdiccion: España
+    ambito: Estatal
+    tipo_disposicion: Ley
+    fecha_publicacion: '1995-11-10'
+    estado: Vigente
+    redaccion: consolidada
+    categoria_canonica: 02_gestion_y_administracion_centros
+    subcategoria: Prevención de riesgos y salud laboral
+    tags:
+    - prevencion_riesgos
+    - salud_laboral
+    - seguridad_trabajo
+    - estatal
+    path: estatal/02_gestion_y_administracion_centros/L31_1995_prevencion_riesgos_laborales.md
+  norm-es-l-9-2017:
+    id: norm-es-l-9-2017
+    codigo_sintetizado: L9_2017 Contratos del Sector Publico (LCSP)
+    titulo: Ley 9/2017, de 8 de noviembre, de Contratos del Sector Público, por la
+      que se transponen al ordenamiento jurídico español las Directivas del Parlamento
+      Europeo y del Consejo 2014/23/UE y 2014/24/UE, de 26 de febrero de 2014.
+    jurisdiccion: España
+    ambito: Estatal
+    tipo_disposicion: Ley
+    fecha_publicacion: '2017-11-09'
+    estado: Vigente
+    redaccion: consolidada
+    categoria_canonica: 02_gestion_y_administracion_centros
+    subcategoria: Gestión económica de centros
+    tags:
+    - contratacion_publica
+    - lcsp
+    - gestion_economica
+    - estatal
+    path: estatal/02_gestion_y_administracion_centros/L9_2017_contratos_sector_publico.md
+  norm-es-lo-3-2018:
+    id: norm-es-lo-3-2018
+    codigo_sintetizado: LO3_2018 Proteccion de Datos Personales (LOPDGDD)
+    titulo: Ley Orgánica 3/2018, de 5 de diciembre, de Protección de Datos Personales
+      y garantía de los derechos digitales.
+    jurisdiccion: España
+    ambito: Estatal
+    tipo_disposicion: Ley Orgánica
+    fecha_publicacion: '2018-12-06'
+    estado: Vigente
+    redaccion: consolidada
+    categoria_canonica: 02_gestion_y_administracion_centros
+    subcategoria: Protección de datos y seguridad de la información
+    tags:
+    - proteccion_datos
+    - lopdgdd
+    - derechos_digitales
+    - seguridad_informacion
+    - estatal
+    path: estatal/02_gestion_y_administracion_centros/LO3_2018_proteccion_datos_personales.md
+  norm-es-rd-132-2010:
+    id: norm-es-rd-132-2010
+    codigo_sintetizado: RD132_2010 Requisitos Minimos de Centros Docentes
+    titulo: Real Decreto 132/2010, de 12 de febrero, por el que se establecen los
+      requisitos mínimos de los centros que impartan las enseñanzas del segundo ciclo
+      de la educación infantil, la educación primaria y la educación secundaria.
+    jurisdiccion: España
+    ambito: Estatal
+    tipo_disposicion: Real Decreto
+    fecha_publicacion: '2010-03-12'
+    estado: Vigente
+    redaccion: consolidada
+    categoria_canonica: 02_gestion_y_administracion_centros
+    subcategoria: Centros públicos
+    tags:
+    - requisitos_minimos
+    - instalaciones_centros
+    - aula_instalaciones
+    - estatal
+    path: estatal/02_gestion_y_administracion_centros/RD132_2010_requisitos_minimos_centros.md
 relaciones_grafo:
 - origen: norm-can-d-84-2024
   tipo: desarrolla
@@ -410,6 +509,13 @@ relaciones_grafo:
   - Todos
   articulos_destino:
   - Todos
+- origen: norm-can-d-276-1997
+  tipo: desarrolla
+  destino: norm-es-lo-2-2006
+  articulos_origen:
+  - Todos
+  articulos_destino:
+  - '122'
 - origen: norm-can-d-81-2010
   tipo: desarrollado_por
   destino: norm-can-o-2013-10-09
@@ -440,3 +546,10 @@ relaciones_grafo:
   destino: norm-es-lo-3-2020
   articulos_origen: []
   articulos_destino: []
+- origen: norm-es-rd-132-2010
+  tipo: desarrolla
+  destino: norm-es-lo-2-2006
+  articulos_origen:
+  - Todos
+  articulos_destino:
+  - '107'
