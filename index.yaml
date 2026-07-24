@@ -1,5 +1,5 @@
 version: '1.0'
-total_normas: 64
+total_normas: 66
 normas:
   norm-can-d-84-2024:
     id: norm-can-d-84-2024
@@ -623,6 +623,27 @@ normas:
     - formacion_permanente
     - innovacion_educativa
     path: autonómica/canarias/08_personal_docente/D82_1994_centros_profesorado_cep_canarias.md
+  norm-can-convenio-3-laboral:
+    id: norm-can-convenio-3-laboral
+    codigo_sintetizado: III Convenio Colectivo del Personal Laboral de Canarias
+    titulo: Resolución de 28 de enero de 1992, de la Dirección General de Trabajo,
+      por la que se hace público el III Convenio Colectivo del Personal Laboral de
+      la Comunidad Autónoma de Canarias.
+    jurisdiccion: Canarias
+    ambito: Autonómico
+    tipo_disposicion: Resolución
+    fecha_publicacion: '1992-02-12'
+    estado: Vigente
+    redaccion: libro_azul
+    categoria_canonica: 09_personal_laboral_y_no_docente
+    subcategoria: Convenio colectivo y personal laboral
+    tags:
+    - canarias
+    - convenio_colectivo
+    - personal_laboral
+    - categorias_profesionales
+    - condiciones_trabajo
+    path: autonómica/canarias/09_personal_laboral_y_no_docente/III_convenio_colectivo_personal_laboral_canarias.md
   norm-es-ce-1978:
     id: norm-es-ce-1978
     codigo_sintetizado: CE_1978 Constitucion Espanola
@@ -1273,6 +1294,27 @@ normas:
     - adquisicion_especialidades
     - estatal
     path: estatal/08_personal_docente/RD276_2007_reglamento_ingreso_acceso_docente.md
+  norm-es-rdl-2-2015:
+    id: norm-es-rdl-2-2015
+    codigo_sintetizado: RDL2_2015 Texto Refundido del Estatuto de los Trabajadores
+      (ET)
+    titulo: Real Decreto Legislativo 2/2015, de 23 de octubre, por el que se aprueba
+      el texto refundido de la Ley del Estatuto de los Trabajadores.
+    jurisdiccion: España
+    ambito: Estatal
+    tipo_disposicion: Real Decreto Legislativo
+    fecha_publicacion: '2015-10-24'
+    estado: Vigente
+    redaccion: consolidada
+    categoria_canonica: 09_personal_laboral_y_no_docente
+    subcategoria: Régimen disciplinario
+    tags:
+    - estatuto_trabajadores
+    - personal_laboral
+    - contrato_trabajo
+    - derechos_laborales
+    - estatal
+    path: estatal/09_personal_laboral_y_no_docente/RDL2_2015_estatuto_trabajadores.md
 relaciones_grafo:
 - origen: norm-can-d-84-2024
   tipo: desarrolla
@@ -1500,6 +1542,14 @@ relaciones_grafo:
   - Todos
   articulos_destino:
   - '61'
+- origen: norm-can-convenio-3-laboral
+  tipo: desarrolla
+  destino: norm-es-rdl-2-2015
+  articulos_origen:
+  - Todos
+  articulos_destino:
+  - '82'
+  - '83'
 - origen: norm-es-lo-2-2006
   tipo: modificado_por
   destino: norm-es-lo-3-2020
