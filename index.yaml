@@ -1,5 +1,5 @@
 version: '1.0'
-total_normas: 60
+total_normas: 64
 normas:
   norm-can-d-84-2024:
     id: norm-can-d-84-2024
@@ -581,6 +581,48 @@ normas:
     - coeducacion
     - proteccion_mujeres
     path: autonómica/canarias/07_convivencia_bienestar_y_protocolos/L16_2003_prevencion_proteccion_mujeres_violencia_genero.md
+  norm-can-d-74-2010:
+    id: norm-can-d-74-2010
+    codigo_sintetizado: D74_2010 Seleccion de Personal Interino Docente
+    titulo: Decreto 74/2010, de 1 de julio, por el que se establece el procedimiento
+      de selección del personal funcionario interino docente en el ámbito de la Comunidad
+      Autónoma de Canarias.
+    jurisdiccion: Canarias
+    ambito: Autonómico
+    tipo_disposicion: Decreto
+    fecha_publicacion: '2010-07-13'
+    estado: Vigente
+    redaccion: libro_azul
+    categoria_canonica: 08_personal_docente
+    subcategoria: Selección y provisión de puestos
+    tags:
+    - canarias
+    - interinos_docentes
+    - listas_empleo
+    - sustituciones_docentes
+    - ordenacion_listas
+    path: autonómica/canarias/08_personal_docente/D74_2010_seleccion_interinos_docentes_canarias.md
+  norm-can-d-82-1994:
+    id: norm-can-d-82-1994
+    codigo_sintetizado: D82_1994 Regulacion de los Centros del Profesorado (CEP)
+    titulo: Decreto 82/1994, de 13 de mayo, por el que se regulan la creación, organización
+      y funcionamiento de los Centros del Profesorado en la Comunidad Autónoma de
+      Canarias.
+    jurisdiccion: Canarias
+    ambito: Autonómico
+    tipo_disposicion: Decreto
+    fecha_publicacion: '1994-06-13'
+    estado: Vigente
+    redaccion: libro_azul
+    categoria_canonica: 08_personal_docente
+    subcategoria: Formación del profesorado
+    tags:
+    - canarias
+    - cep
+    - centros_profesorado
+    - formacion_permanente
+    - innovacion_educativa
+    path: autonómica/canarias/08_personal_docente/D82_1994_centros_profesorado_cep_canarias.md
   norm-es-ce-1978:
     id: norm-es-ce-1978
     codigo_sintetizado: CE_1978 Constitucion Espanola
@@ -1186,6 +1228,51 @@ normas:
     - prevencion_violencia
     - estatal
     path: estatal/07_convivencia_bienestar_y_protocolos/LO8_2021_proteccion_infancia_adolescencia_violencia.md
+  norm-es-rd-1364-2010:
+    id: norm-es-rd-1364-2010
+    codigo_sintetizado: RD1364_2010 Regulacion del Concurso de Traslados Docente
+    titulo: Real Decreto 1364/2010, de 29 de octubre, por el que se regula el concurso
+      de traslados de ámbito estatal entre personal funcionario de los cuerpos docentes
+      contemplados en la Ley Orgánica 2/2006, de 3 de mayo, de Educación y otros procedimientos
+      de provisión de plazas a cubrir por los mismos.
+    jurisdiccion: España
+    ambito: Estatal
+    tipo_disposicion: Real Decreto
+    fecha_publicacion: '2010-10-30'
+    estado: Vigente
+    redaccion: consolidada
+    categoria_canonica: 08_personal_docente
+    subcategoria: Selección y provisión de puestos
+    tags:
+    - concurso_traslados
+    - provision_plazas
+    - baremo_meritos
+    - movilidad_docente
+    - estatal
+    path: estatal/08_personal_docente/RD1364_2010_concurso_traslados_cuerpos_docentes.md
+  norm-es-rd-276-2007:
+    id: norm-es-rd-276-2007
+    codigo_sintetizado: RD276_2007 Reglamento de Ingreso y Acceso a los Cuerpos Docentes
+    titulo: Real Decreto 276/2007, de 23 de febrero, por el que se aprueba el Reglamento
+      de ingreso, accesos y adquisición de nuevas especialidades en los cuerpos docentes
+      a que se refiere la Ley Orgánica 2/2006, de 3 de mayo, de Educación, y se regula
+      el régimen transitorio de ingreso a que se refiere la disposición transitoria
+      decimoséptima de la citada ley.
+    jurisdiccion: España
+    ambito: Estatal
+    tipo_disposicion: Real Decreto
+    fecha_publicacion: '2007-03-02'
+    estado: Vigente
+    redaccion: consolidada
+    categoria_canonica: 08_personal_docente
+    subcategoria: Selección y provisión de puestos
+    tags:
+    - ingreso_docente
+    - oposiciones
+    - concurso_oposicion
+    - adquisicion_especialidades
+    - estatal
+    path: estatal/08_personal_docente/RD276_2007_reglamento_ingreso_acceso_docente.md
 relaciones_grafo:
 - origen: norm-can-d-84-2024
   tipo: desarrolla
@@ -1399,6 +1486,20 @@ relaciones_grafo:
   - Todos
   articulos_destino:
   - Todos
+- origen: norm-can-d-74-2010
+  tipo: desarrolla
+  destino: norm-can-l-2-1987
+  articulos_origen:
+  - Todos
+  articulos_destino:
+  - '48'
+- origen: norm-can-d-82-1994
+  tipo: desarrolla
+  destino: norm-can-l-6-2014
+  articulos_origen:
+  - Todos
+  articulos_destino:
+  - '61'
 - origen: norm-es-lo-2-2006
   tipo: modificado_por
   destino: norm-es-lo-3-2020
@@ -1501,3 +1602,17 @@ relaciones_grafo:
   articulos_destino:
   - '76'
   - '77'
+- origen: norm-es-rd-1364-2010
+  tipo: desarrolla
+  destino: norm-es-lo-2-2006
+  articulos_origen:
+  - Todos
+  articulos_destino:
+  - Disposición adicional sexta
+- origen: norm-es-rd-276-2007
+  tipo: desarrolla
+  destino: norm-es-lo-2-2006
+  articulos_origen:
+  - Todos
+  articulos_destino:
+  - Disposición adicional duodécima
