@@ -1,5 +1,5 @@
 version: '1.0'
-total_normas: 56
+total_normas: 60
 normas:
   norm-can-d-84-2024:
     id: norm-can-d-84-2024
@@ -561,6 +561,26 @@ normas:
     - conducta
     - disciplina
     path: autonómica/canarias/07_convivencia_bienestar_y_protocolos/D114_2011_convivencia_escolar.md
+  norm-can-l-16-2003:
+    id: norm-can-l-16-2003
+    codigo_sintetizado: L16_2003 Prevencion y Proteccion de Mujeres contra la Violencia
+      de Genero
+    titulo: Ley 16/2003, de 8 de abril, de Prevención y Protección Integral de las
+      Mujeres contra la Violencia de Género.
+    jurisdiccion: Canarias
+    ambito: Autonómico
+    tipo_disposicion: Ley
+    fecha_publicacion: '2003-04-25'
+    estado: Vigente
+    redaccion: consolidada
+    categoria_canonica: 07_convivencia_bienestar_y_protocolos
+    subcategoria: Protocolos de actuación y protección
+    tags:
+    - canarias
+    - violencia_genero
+    - coeducacion
+    - proteccion_mujeres
+    path: autonómica/canarias/07_convivencia_bienestar_y_protocolos/L16_2003_prevencion_proteccion_mujeres_violencia_genero.md
   norm-es-ce-1978:
     id: norm-es-ce-1978
     codigo_sintetizado: CE_1978 Constitucion Espanola
@@ -1107,6 +1127,65 @@ normas:
     - medidas_curriculares
     - estatal
     path: estatal/06_atencion_diversidad_y_orientacion/RD943_2003_flexibilizacion_altas_capacidades.md
+  norm-es-lo-10-2022:
+    id: norm-es-lo-10-2022
+    codigo_sintetizado: LO10_2022 Garantia Integral de la Libertad Sexual
+    titulo: Ley Orgánica 10/2022, de 6 de septiembre, de garantía integral de la libertad
+      sexual.
+    jurisdiccion: España
+    ambito: Estatal
+    tipo_disposicion: Ley Orgánica
+    fecha_publicacion: '2022-09-07'
+    estado: Vigente
+    redaccion: consolidada
+    categoria_canonica: 07_convivencia_bienestar_y_protocolos
+    subcategoria: Protocolos de actuación y protección
+    tags:
+    - libertad_sexual
+    - coeducacion
+    - prevencion_violencia_sexual
+    - estatal
+    path: estatal/07_convivencia_bienestar_y_protocolos/LO10_2022_garantia_integral_libertad_sexual.md
+  norm-es-lo-1-2004:
+    id: norm-es-lo-1-2004
+    codigo_sintetizado: LO1_2004 Proteccion Integral contra la Violencia de Genero
+    titulo: Ley Orgánica 1/2004, de 28 de diciembre, de Medidas de Protección Integral
+      contra la Violencia de Género.
+    jurisdiccion: España
+    ambito: Estatal
+    tipo_disposicion: Ley Orgánica
+    fecha_publicacion: '2004-12-29'
+    estado: Vigente
+    redaccion: consolidada
+    categoria_canonica: 07_convivencia_bienestar_y_protocolos
+    subcategoria: Protocolos de actuación y protección
+    tags:
+    - violencia_genero
+    - igualdad
+    - proteccion_victimas
+    - estatal
+    path: estatal/07_convivencia_bienestar_y_protocolos/LO1_2004_medidas_proteccion_violencia_genero.md
+  norm-es-lo-8-2021:
+    id: norm-es-lo-8-2021
+    codigo_sintetizado: LO8_2021 Proteccion Integral a la Infancia y Adolescencia
+      (LOPIVI)
+    titulo: Ley Orgánica 8/2021, de 4 de junio, de protección integral a la infancia
+      y la adolescencia frente a la violencia.
+    jurisdiccion: España
+    ambito: Estatal
+    tipo_disposicion: Ley Orgánica
+    fecha_publicacion: '2021-06-05'
+    estado: Vigente
+    redaccion: consolidada
+    categoria_canonica: 07_convivencia_bienestar_y_protocolos
+    subcategoria: Protocolos de actuación y protección
+    tags:
+    - lopivi
+    - proteccion_menores
+    - coordinador_bienestar
+    - prevencion_violencia
+    - estatal
+    path: estatal/07_convivencia_bienestar_y_protocolos/LO8_2021_proteccion_infancia_adolescencia_violencia.md
 relaciones_grafo:
 - origen: norm-can-d-84-2024
   tipo: desarrolla
@@ -1313,6 +1392,13 @@ relaciones_grafo:
   articulos_destino:
   - '55'
   - '56'
+- origen: norm-can-l-16-2003
+  tipo: desarrolla
+  destino: norm-es-lo-1-2004
+  articulos_origen:
+  - Todos
+  articulos_destino:
+  - Todos
 - origen: norm-es-lo-2-2006
   tipo: modificado_por
   destino: norm-es-lo-3-2020
