@@ -1,5 +1,5 @@
 version: '1.0'
-total_normas: 46
+total_normas: 51
 normas:
   norm-can-d-84-2024:
     id: norm-can-d-84-2024
@@ -378,6 +378,86 @@ normas:
     - organizacion_centro
     - departamentos
     path: autonómica/canarias/04_organizacion_escolar_y_funcionamiento/O9_10_2013_desarrollo_reglamento_organico_centros.md
+  norm-can-d-40-2005:
+    id: norm-can-d-40-2005
+    codigo_sintetizado: D40_2005 Ordenacion de Residencias Escolares
+    titulo: Decreto 40/2005, de 16 de marzo, de ordenación de las Residencias Escolares
+      en la Comunidad Autónoma de Canarias.
+    jurisdiccion: Canarias
+    ambito: Autonómico
+    tipo_disposicion: Decreto
+    fecha_publicacion: '2005-03-23'
+    estado: Vigente
+    redaccion: libro_azul
+    categoria_canonica: 05_alumnado_y_servicios_escolares
+    subcategoria: Residencias escolares
+    tags:
+    - canarias
+    - residencias_escolares
+    - servicios_complementarios
+    - igualdad_oportunidades
+    path: autonómica/canarias/05_alumnado_y_servicios_escolares/D40_2005_ordenacion_residencias_escolares_canarias.md
+  norm-can-d-9-2022:
+    id: norm-can-d-9-2022
+    codigo_sintetizado: D9_2022 Admision del Alumnado en Canarias
+    titulo: Decreto 9/2022, de 20 de enero, por el que se regula la admisión del alumnado
+      en los centros docentes públicos y privados concertados que imparten enseñanzas
+      no universitarias en la Comunidad Autónoma de Canarias.
+    jurisdiccion: Canarias
+    ambito: Autonómico
+    tipo_disposicion: Decreto
+    fecha_publicacion: '2022-01-26'
+    estado: Vigente
+    redaccion: libro_azul
+    categoria_canonica: 05_alumnado_y_servicios_escolares
+    subcategoria: Admisión del alumnado
+    tags:
+    - canarias
+    - admision_alumnado
+    - escolarizacion
+    - criterios_baremacion
+    - centros_concertados
+    path: autonómica/canarias/05_alumnado_y_servicios_escolares/D9_2022_admision_alumnado_canarias.md
+  norm-can-o-25-2-2003:
+    id: norm-can-o-25-2-2003
+    codigo_sintetizado: O25_2_2003 Regulacion de Comedores Escolares
+    titulo: Orden de 25 de febrero de 2003, por la que se regula la organización y
+      funcionamiento de los comedores escolares en los centros docentes públicos no
+      universitarios dependientes de la Consejería de Educación, Cultura y Deportes.
+    jurisdiccion: Canarias
+    ambito: Autonómico
+    tipo_disposicion: Orden
+    fecha_publicacion: '2003-03-07'
+    estado: Vigente
+    redaccion: libro_azul
+    categoria_canonica: 05_alumnado_y_servicios_escolares
+    subcategoria: Comedores y desayunos escolares
+    tags:
+    - canarias
+    - comedores_escolares
+    - servicios_complementarios
+    - cuotas_subvenciones
+    path: autonómica/canarias/05_alumnado_y_servicios_escolares/O25_2_2003_comedores_escolares_canarias.md
+  norm-can-o-2-8-2006:
+    id: norm-can-o-2-8-2006
+    codigo_sintetizado: O2_8_2006 Regulacion del Transporte Escolar en Canarias
+    titulo: Orden de 2 de agosto de 2006, por la que se aprueban las bases que regulan
+      la prestación del servicio de transporte escolar en la Comunidad Autónoma de
+      Canarias.
+    jurisdiccion: Canarias
+    ambito: Autonómico
+    tipo_disposicion: Orden
+    fecha_publicacion: '2006-08-24'
+    estado: Vigente
+    redaccion: libro_azul
+    categoria_canonica: 05_alumnado_y_servicios_escolares
+    subcategoria: Transporte escolar
+    tags:
+    - canarias
+    - transporte_escolar
+    - rutas_transporte
+    - gratuidad_transporte
+    path: autonómica/canarias/05_alumnado_y_servicios_escolares/O2_8_2006_transporte_escolar_canarias.md
   norm-can-d-114-2011:
     id: norm-can-d-114-2011
     codigo_sintetizado: D114_2011 Decreto de Convivencia Escolar
@@ -903,6 +983,26 @@ normas:
     - comunidad_educativa
     - estatal
     path: estatal/04_organizacion_escolar_y_funcionamiento/RD1533_1986_asociaciones_padres_alumnos.md
+  norm-es-rd-443-2001:
+    id: norm-es-rd-443-2001
+    codigo_sintetizado: RD443_2001 Condiciones de Seguridad en el Transporte Escolar
+    titulo: Real Decreto 443/2001, de 27 de abril, sobre condiciones de seguridad
+      en el transporte escolar y de menores.
+    jurisdiccion: España
+    ambito: Estatal
+    tipo_disposicion: Real Decreto
+    fecha_publicacion: '2001-05-02'
+    estado: Vigente
+    redaccion: consolidada
+    categoria_canonica: 05_alumnado_y_servicios_escolares
+    subcategoria: Transporte escolar
+    tags:
+    - transporte_escolar
+    - seguridad_menores
+    - acompanante_transporte
+    - servicios_escolares
+    - estatal
+    path: estatal/05_alumnado_y_servicios_escolares/RD443_2001_seguridad_transporte_escolar.md
 relaciones_grafo:
 - origen: norm-can-d-84-2024
   tipo: desarrolla
@@ -1033,6 +1133,37 @@ relaciones_grafo:
   destino: norm-can-o-2023-09-28
   articulos_origen: []
   articulos_destino: []
+- origen: norm-can-d-40-2005
+  tipo: desarrolla
+  destino: norm-can-l-6-2014
+  articulos_origen:
+  - Todos
+  articulos_destino:
+  - '58'
+- origen: norm-can-d-9-2022
+  tipo: desarrolla
+  destino: norm-es-lo-2-2006
+  articulos_origen:
+  - Todos
+  articulos_destino:
+  - '84'
+  - '85'
+  - '86'
+  - '87'
+- origen: norm-can-o-25-2-2003
+  tipo: desarrolla
+  destino: norm-can-l-6-2014
+  articulos_origen:
+  - Todos
+  articulos_destino:
+  - '57'
+- origen: norm-can-o-2-8-2006
+  tipo: desarrolla
+  destino: norm-es-rd-443-2001
+  articulos_origen:
+  - Todos
+  articulos_destino:
+  - Todos
 - origen: norm-can-d-114-2011
   tipo: desarrolla
   destino: norm-can-l-6-2014
