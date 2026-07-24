@@ -1,5 +1,5 @@
 version: '1.0'
-total_normas: 16
+total_normas: 20
 normas:
   norm-can-d-84-2024:
     id: norm-can-d-84-2024
@@ -39,6 +39,24 @@ normas:
     - administracion_publica
     - competencias
     path: autonómica/canarias/01_marco_normativo_general_y_organico/L14_1990_regimen_juridico_administraciones_canarias.md
+  norm-can-l-1-1997:
+    id: norm-can-l-1-1997
+    codigo_sintetizado: L1_1997 Ley de Atencion Integral a los Menores de Canarias
+    titulo: Ley 1/1997, de 7 de febrero, de Atención Integral a los Menores.
+    jurisdiccion: Canarias
+    ambito: Autonómico
+    tipo_disposicion: Ley
+    fecha_publicacion: '1997-02-17'
+    estado: Vigente
+    redaccion: consolidada
+    categoria_canonica: 01_marco_normativo_general_y_organico
+    subcategoria: Protección jurídica de menores
+    tags:
+    - canarias
+    - proteccion_menores
+    - atencion_integral
+    - desamparo_riesgo
+    path: autonómica/canarias/01_marco_normativo_general_y_organico/L1_1997_atencion_integral_menores_canarias.md
   norm-can-l-2-1987:
     id: norm-can-l-2-1987
     codigo_sintetizado: L2_1987 Ley de la Funcion Publica Canaria
@@ -267,6 +285,44 @@ normas:
     - funcion_publica
     - estatal
     path: estatal/01_marco_normativo_general_y_organico/L53_1984_incompatibilidades_personal_publico.md
+  norm-es-lo-1-1982:
+    id: norm-es-lo-1-1982
+    codigo_sintetizado: LO1_1982 Proteccion Civil del Derecho al Honor e Intimidad
+    titulo: Ley Orgánica 1/1982, de 5 de mayo, de protección civil del derecho al
+      honor, a la intimidad personal y familiar y a la propia imagen.
+    jurisdiccion: España
+    ambito: Estatal
+    tipo_disposicion: Ley Orgánica
+    fecha_publicacion: '1982-05-14'
+    estado: Vigente
+    redaccion: consolidada
+    categoria_canonica: 01_marco_normativo_general_y_organico
+    subcategoria: Protección jurídica de menores
+    tags:
+    - derecho_honor
+    - intimidad_imagen
+    - proteccion_menores
+    - estatal
+    path: estatal/01_marco_normativo_general_y_organico/LO1_1982_proteccion_honor_intimid_imagen.md
+  norm-es-lo-1-1996:
+    id: norm-es-lo-1-1996
+    codigo_sintetizado: LO1_1996 Proteccion Juridica del Menor
+    titulo: Ley Orgánica 1/1996, de 15 de enero, de Protección Jurídica del Menor,
+      de modificación parcial del Código Civil y de la Ley de Enjuiciamiento Civil.
+    jurisdiccion: España
+    ambito: Estatal
+    tipo_disposicion: Ley Orgánica
+    fecha_publicacion: '1996-01-17'
+    estado: Vigente
+    redaccion: consolidada
+    categoria_canonica: 01_marco_normativo_general_y_organico
+    subcategoria: Protección jurídica de menores
+    tags:
+    - proteccion_menores
+    - derechos_infancia
+    - tutela_guarda
+    - estatal
+    path: estatal/01_marco_normativo_general_y_organico/LO1_1996_proteccion_juridica_menor.md
   norm-es-lo-2-2006:
     id: norm-es-lo-2-2006
     codigo_sintetizado: LO2_2006 Ley Organica de Educacion
@@ -287,6 +343,25 @@ normas:
     - estatal
     - marco_general
     path: estatal/01_marco_normativo_general_y_organico/LO2_2006_ley_organica_educacion.md
+  norm-es-lo-5-2000:
+    id: norm-es-lo-5-2000
+    codigo_sintetizado: LO5_2000 Responsabilidad Penal de los Menores
+    titulo: Ley Orgánica 5/2000, de 12 de enero, reguladora de la responsabilidad
+      penal de los menores.
+    jurisdiccion: España
+    ambito: Estatal
+    tipo_disposicion: Ley Orgánica
+    fecha_publicacion: '2000-01-13'
+    estado: Vigente
+    redaccion: consolidada
+    categoria_canonica: 01_marco_normativo_general_y_organico
+    subcategoria: Protección jurídica de menores
+    tags:
+    - responsabilidad_penal
+    - menores_infractores
+    - medidas_educativas
+    - estatal
+    path: estatal/01_marco_normativo_general_y_organico/LO5_2000_responsabilidad_penal_menores.md
   norm-es-rdl-5-2015:
     id: norm-es-rdl-5-2015
     codigo_sintetizado: RD5_2015 Estatuto Basico del Empleado Publico (TREBEP)
@@ -310,6 +385,13 @@ relaciones_grafo:
 - origen: norm-can-d-84-2024
   tipo: desarrolla
   destino: norm-can-d-123-2023
+  articulos_origen:
+  - Todos
+  articulos_destino:
+  - Todos
+- origen: norm-can-l-1-1997
+  tipo: desarrolla
+  destino: norm-es-lo-1-1996
   articulos_origen:
   - Todos
   articulos_destino:
