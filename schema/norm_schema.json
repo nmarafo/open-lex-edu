@@ -1,0 +1,127 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "title": "OKFNormSchema",
+  "type": "object",
+  "required": [
+    "id",
+    "titulo",
+    "jurisdiccion",
+    "ambito",
+    "tipo_disposicion",
+    "fecha_publicacion",
+    "boletin",
+    "estado",
+    "redaccion",
+    "fuente_oficial",
+    "clasificacion",
+    "tags"
+  ],
+  "properties": {
+    "id": {
+      "type": "string",
+      "pattern": "^norm-(es|can)-[a-z0-9-]+$"
+    },
+    "codigo_sintetizado": {
+      "type": "string"
+    },
+    "titulo": {
+      "type": "string"
+    },
+    "jurisdiccion": {
+      "type": "string",
+      "enum": ["España", "Canarias"]
+    },
+    "ambito": {
+      "type": "string",
+      "enum": ["Estatal", "Autonómico"]
+    },
+    "organo_emisor": {
+      "type": "string"
+    },
+    "tipo_disposicion": {
+      "type": "string"
+    },
+    "numero_disposicion": {
+      "type": "string"
+    },
+    "fecha_disposicion": {
+      "type": "string"
+    },
+    "fecha_publicacion": {
+      "type": "string"
+    },
+    "boletin": {
+      "type": "string",
+      "enum": ["BOE", "BOC", "DOUE"]
+    },
+    "numero_boletin": {
+      "type": "string"
+    },
+    "estado": {
+      "type": "string",
+      "enum": ["Vigente", "Derogada", "Modificada"]
+    },
+    "redaccion": {
+      "type": "string",
+      "enum": ["original", "consolidada", "libro_azul"]
+    },
+    "fuente_oficial": {
+      "type": "string"
+    },
+    "fuente_juriscan": {
+      "type": "string"
+    },
+    "clasificacion": {
+      "type": "object",
+      "required": ["categoria_canonica"],
+      "properties": {
+        "categoria_canonica": {
+          "type": "string",
+          "enum": [
+            "01_marco_normativo_general_y_organico",
+            "02_gestion_y_administracion_centros",
+            "03_ordenacion_curricular_y_ensenanzas",
+            "04_organizacion_escolar_y_funcionamiento",
+            "05_alumnado_y_servicios_escolares",
+            "06_atencion_diversidad_y_orientacion",
+            "07_convivencia_bienestar_y_protocolos",
+            "08_personal_docente",
+            "09_personal_laboral_y_no_docente"
+          ]
+        },
+        "subcategoria": {
+          "type": "string"
+        }
+      }
+    },
+    "tags": {
+      "type": "array",
+      "items": {
+        "type": "string"
+      }
+    },
+    "relaciones": {
+      "type": "object",
+      "properties": {
+        "desarrolla": {
+          "type": "array"
+        },
+        "modifica_a": {
+          "type": "array"
+        },
+        "modificado_por": {
+          "type": "array"
+        },
+        "afecta_a_articulos": {
+          "type": "array"
+        }
+      }
+    },
+    "fundamentos_derecho": {
+      "type": "array",
+      "items": {
+        "type": "object"
+      }
+    }
+  }
+}
