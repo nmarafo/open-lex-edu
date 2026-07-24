@@ -1,5 +1,5 @@
 version: '1.0'
-total_normas: 32
+total_normas: 42
 normas:
   norm-can-d-84-2024:
     id: norm-can-d-84-2024
@@ -191,6 +191,89 @@ normas:
     - autonomia_gestion
     - pagos_en_firme
     path: autonómica/canarias/02_gestion_y_administracion_centros/D276_1997_gestion_economica_centros.md
+  norm-can-d-101-2023:
+    id: norm-can-d-101-2023
+    codigo_sintetizado: D101_2023 Ordenacion y Curriculo de Educacion Primaria en
+      Canarias
+    titulo: Decreto 101/2023, de 9 de mayo, por el que se establece la ordenación
+      y el currículo de la Educación Primaria en la Comunidad Autónoma de Canarias.
+    jurisdiccion: Canarias
+    ambito: Autonómico
+    tipo_disposicion: Decreto
+    fecha_publicacion: '2023-05-23'
+    estado: Vigente
+    redaccion: original
+    categoria_canonica: 03_ordenacion_curricular_y_ensenanzas
+    subcategoria: Educación Primaria
+    tags:
+    - canarias
+    - educacion_primaria
+    - curriculo_primaria
+    - competencias_clave
+    - evaluacion_primaria
+    path: autonómica/canarias/03_ordenacion_curricular_y_ensenanzas/D101_2023_curriculo_educacion_primaria_canarias.md
+  norm-can-d-102-2023:
+    id: norm-can-d-102-2023
+    codigo_sintetizado: D102_2023 Ordenacion y Curriculo de la ESO en Canarias
+    titulo: Decreto 102/2023, de 9 de mayo, por el que se establece la ordenación
+      y el currículo de la Educación Secundaria Obligatoria en la Comunidad Autónoma
+      de Canarias.
+    jurisdiccion: Canarias
+    ambito: Autonómico
+    tipo_disposicion: Decreto
+    fecha_publicacion: '2023-05-23'
+    estado: Vigente
+    redaccion: original
+    categoria_canonica: 03_ordenacion_curricular_y_ensenanzas
+    subcategoria: Educación Secundaria Obligatoria (ESO)
+    tags:
+    - canarias
+    - eso
+    - curriculo_eso
+    - perfil_salida
+    - evaluacion_eso
+    path: autonómica/canarias/03_ordenacion_curricular_y_ensenanzas/D102_2023_curriculo_eso_canarias.md
+  norm-can-d-103-2023:
+    id: norm-can-d-103-2023
+    codigo_sintetizado: D103_2023 Ordenacion y Curriculo del Bachillerato en Canarias
+    titulo: Decreto 103/2023, de 9 de mayo, por el que se establece la ordenación
+      y el currículo del Bachillerato en la Comunidad Autónoma de Canarias.
+    jurisdiccion: Canarias
+    ambito: Autonómico
+    tipo_disposicion: Decreto
+    fecha_publicacion: '2023-05-23'
+    estado: Vigente
+    redaccion: original
+    categoria_canonica: 03_ordenacion_curricular_y_ensenanzas
+    subcategoria: Bachillerato
+    tags:
+    - canarias
+    - bachillerato
+    - curriculo_bachillerato
+    - modalidades_bachillerato
+    - evaluacion_bachillerato
+    path: autonómica/canarias/03_ordenacion_curricular_y_ensenanzas/D103_2023_curriculo_bachillerato_canarias.md
+  norm-can-d-196-2022:
+    id: norm-can-d-196-2022
+    codigo_sintetizado: D196_2022 Ordenacion y Curriculo de Educacion Infantil en
+      Canarias
+    titulo: Decreto 196/2022, de 13 de octubre, por el que se establece la ordenación
+      y el currículo de la Educación Infantil en la Comunidad Autónoma de Canarias.
+    jurisdiccion: Canarias
+    ambito: Autonómico
+    tipo_disposicion: Decreto
+    fecha_publicacion: '2022-10-20'
+    estado: Vigente
+    redaccion: original
+    categoria_canonica: 03_ordenacion_curricular_y_ensenanzas
+    subcategoria: Educación Infantil
+    tags:
+    - canarias
+    - educacion_infantil
+    - curriculo_infantil
+    - primer_ciclo
+    - segundo_ciclo
+    path: autonómica/canarias/03_ordenacion_curricular_y_ensenanzas/D196_2022_curriculo_educacion_infantil_canarias.md
   norm-can-d-81-2010:
     id: norm-can-d-81-2010
     codigo_sintetizado: D81_2010 Reglamento Organico de Centros (ROC)
@@ -620,6 +703,125 @@ normas:
     - titulaciones_requeridas
     - estatal
     path: estatal/02_gestion_y_administracion_centros/RD476_2013_cualificacion_profesorado_centros_privados.md
+  norm-es-lo-3-2022:
+    id: norm-es-lo-3-2022
+    codigo_sintetizado: LO3_2022 Ley de Ordenacion e Integracion de la FP
+    titulo: Ley Orgánica 3/2022, de 31 de marzo, de ordenación e integración de la
+      Formación Profesional.
+    jurisdiccion: España
+    ambito: Estatal
+    tipo_disposicion: Ley Orgánica
+    fecha_publicacion: '2022-04-01'
+    estado: Vigente
+    redaccion: consolidada
+    categoria_canonica: 03_ordenacion_curricular_y_ensenanzas
+    subcategoria: Formación Profesional
+    tags:
+    - fp
+    - formacion_profesional
+    - dual
+    - acreditacion_competencias
+    - estatal
+    path: estatal/03_ordenacion_curricular_y_ensenanzas/LO3_2022_ordenacion_integracion_fp.md
+  norm-es-rd-157-2022:
+    id: norm-es-rd-157-2022
+    codigo_sintetizado: RD157_2022 Ensenanzas Minimas de Educacion Primaria
+    titulo: Real Decreto 157/2022, de 1 de marzo, por el que se establecen la ordenación
+      y las enseñanzas mínimas de la Educación Primaria.
+    jurisdiccion: España
+    ambito: Estatal
+    tipo_disposicion: Real Decreto
+    fecha_publicacion: '2022-03-02'
+    estado: Vigente
+    redaccion: consolidada
+    categoria_canonica: 03_ordenacion_curricular_y_ensenanzas
+    subcategoria: Educación Primaria
+    tags:
+    - educacion_primaria
+    - ordenacion_primaria
+    - ensenanzas_minimas
+    - perfil_salida
+    - estatal
+    path: estatal/03_ordenacion_curricular_y_ensenanzas/RD157_2022_ensenanzas_minimas_educacion_primaria.md
+  norm-es-rd-217-2022:
+    id: norm-es-rd-217-2022
+    codigo_sintetizado: RD217_2022 Ordenacion y Ensenanzas Minimas de la ESO
+    titulo: Real Decreto 217/2022, de 29 de marzo, por el que se establece la ordenación
+      y las enseñanzas mínimas de la Educación Secundaria Obligatoria.
+    jurisdiccion: España
+    ambito: Estatal
+    tipo_disposicion: Real Decreto
+    fecha_publicacion: '2022-03-30'
+    estado: Vigente
+    redaccion: consolidada
+    categoria_canonica: 03_ordenacion_curricular_y_ensenanzas
+    subcategoria: Educación Secundaria Obligatoria (ESO)
+    tags:
+    - eso
+    - educacion_secundaria
+    - ensenanzas_minimas
+    - perfil_salida
+    - estatal
+    path: estatal/03_ordenacion_curricular_y_ensenanzas/RD217_2022_ordenacion_ensenanzas_minimas_eso.md
+  norm-es-rd-243-2022:
+    id: norm-es-rd-243-2022
+    codigo_sintetizado: RD243_2022 Ordenacion y Ensenanzas Minimas del Bachillerato
+    titulo: Real Decreto 243/2022, de 5 de abril, por el que se establecen la ordenación
+      y las enseñanzas mínimas del Bachillerato.
+    jurisdiccion: España
+    ambito: Estatal
+    tipo_disposicion: Real Decreto
+    fecha_publicacion: '2022-04-06'
+    estado: Vigente
+    redaccion: consolidada
+    categoria_canonica: 03_ordenacion_curricular_y_ensenanzas
+    subcategoria: Bachillerato
+    tags:
+    - bachillerato
+    - modalidades_bachillerato
+    - ensenanzas_minimas
+    - ebau
+    - estatal
+    path: estatal/03_ordenacion_curricular_y_ensenanzas/RD243_2022_ordenacion_ensenanzas_minimas_bachillerato.md
+  norm-es-rd-659-2023:
+    id: norm-es-rd-659-2023
+    codigo_sintetizado: RD659_2023 Ordenacion General de la Formacion Profesional
+    titulo: Real Decreto 659/2023, de 18 de julio, por el que se desarrolla la ordenación
+      del Sistema de Formación Profesional.
+    jurisdiccion: España
+    ambito: Estatal
+    tipo_disposicion: Real Decreto
+    fecha_publicacion: '2023-07-22'
+    estado: Vigente
+    redaccion: consolidada
+    categoria_canonica: 03_ordenacion_curricular_y_ensenanzas
+    subcategoria: Formación Profesional
+    tags:
+    - fp
+    - sistema_fp
+    - grados_fp
+    - dual
+    - estatal
+    path: estatal/03_ordenacion_curricular_y_ensenanzas/RD659_2023_ordenacion_general_formacion_profesional.md
+  norm-es-rd-95-2022:
+    id: norm-es-rd-95-2022
+    codigo_sintetizado: RD95_2022 Ensenanzas Minimas de Educacion Infantil
+    titulo: Real Decreto 95/2022, de 1 de febrero, por el que se establece la ordenación
+      y las enseñanzas mínimas de la Educación Infantil.
+    jurisdiccion: España
+    ambito: Estatal
+    tipo_disposicion: Real Decreto
+    fecha_publicacion: '2022-02-02'
+    estado: Vigente
+    redaccion: consolidada
+    categoria_canonica: 03_ordenacion_curricular_y_ensenanzas
+    subcategoria: Educación Infantil
+    tags:
+    - educacion_infantil
+    - ordenacion_infantil
+    - ensenanzas_minimas
+    - estatal
+    path: estatal/03_ordenacion_curricular_y_ensenanzas/RD95_2022_ensenanzas_minimas_educacion_infantil.md
 relaciones_grafo:
 - origen: norm-can-d-84-2024
   tipo: desarrolla
@@ -670,6 +872,34 @@ relaciones_grafo:
   - Todos
   articulos_destino:
   - '122'
+- origen: norm-can-d-101-2023
+  tipo: desarrolla
+  destino: norm-es-rd-157-2022
+  articulos_origen:
+  - Todos
+  articulos_destino:
+  - Todos
+- origen: norm-can-d-102-2023
+  tipo: desarrolla
+  destino: norm-es-rd-217-2022
+  articulos_origen:
+  - Todos
+  articulos_destino:
+  - Todos
+- origen: norm-can-d-103-2023
+  tipo: desarrolla
+  destino: norm-es-rd-243-2022
+  articulos_origen:
+  - Todos
+  articulos_destino:
+  - Todos
+- origen: norm-can-d-196-2022
+  tipo: desarrolla
+  destino: norm-es-rd-95-2022
+  articulos_origen:
+  - Todos
+  articulos_destino:
+  - Todos
 - origen: norm-can-d-81-2010
   tipo: desarrollado_por
   destino: norm-can-o-2013-10-09
@@ -737,3 +967,48 @@ relaciones_grafo:
   articulos_destino:
   - '93'
   - '94'
+- origen: norm-es-rd-157-2022
+  tipo: desarrolla
+  destino: norm-es-lo-2-2006
+  articulos_origen:
+  - Todos
+  articulos_destino:
+  - '16'
+  - '18'
+  - '19'
+  - '20'
+- origen: norm-es-rd-217-2022
+  tipo: desarrolla
+  destino: norm-es-lo-2-2006
+  articulos_origen:
+  - Todos
+  articulos_destino:
+  - '22'
+  - '24'
+  - '25'
+  - '28'
+- origen: norm-es-rd-243-2022
+  tipo: desarrolla
+  destino: norm-es-lo-2-2006
+  articulos_origen:
+  - Todos
+  articulos_destino:
+  - '32'
+  - '34'
+  - '36'
+  - '37'
+- origen: norm-es-rd-659-2023
+  tipo: desarrolla
+  destino: norm-es-lo-3-2022
+  articulos_origen:
+  - Todos
+  articulos_destino:
+  - Todos
+- origen: norm-es-rd-95-2022
+  tipo: desarrolla
+  destino: norm-es-lo-2-2006
+  articulos_origen:
+  - Todos
+  articulos_destino:
+  - '14'
+  - '15'
