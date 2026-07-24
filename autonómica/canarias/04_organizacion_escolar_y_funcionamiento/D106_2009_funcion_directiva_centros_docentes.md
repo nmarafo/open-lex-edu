@@ -50,6 +50,7 @@ fundamentos_derecho:
   articulos:
   - '131'
   - '132'
+anexos_extraidos_pdf: true
 ---
 
 # Decreto 106/2009, de 28 de julio, por el que se regula la función directiva en los centros docentes públicos no universitarios de la Comunidad Autónoma de Canarias.
@@ -431,3 +432,14 @@ Ver anexos - página 17626
 Aviso Legal
 
 Sugerencias y Reclamaciones
+
+
+
+## ANEXOS COMPLEMENTARIOS (Descargados desde PDF del BOC)
+
+### Anexo Fuente: https://www.gobiernodecanarias.org/boc/2009/151/boc-2009-151-anexo-17626.pdf
+
+17626 Boletín Oficial de Canarias núm. 151, miércoles 5 de agosto de 2009
+A N E X O I
+ 
+

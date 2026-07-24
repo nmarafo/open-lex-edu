@@ -25,6 +25,7 @@ fundamentos_derecho:
 - norma_id: norm-can-l-6-2014
   articulos:
   - '1'
+anexos_extraidos_pdf: true
 ---
 
 # Resolución de 14 de octubre de 2002, por la que se dictan instrucciones para la realización de horas lectivas extraordinarias en centros que desarrollen ofertas formativas de Educación de Personas Adultas (BOC n.º 148, de 6 de noviembre).
@@ -102,3 +103,19 @@ Ver anexos - páginas 18136-18138
 © Gobierno de Canarias
 Aviso Legal
 Sugerencias y Reclamaciones
+
+
+
+## ANEXOS COMPLEMENTARIOS (Descargados desde PDF del BOC)
+
+### Anexo Fuente: https://www.gobiernodecanarias.org/boc/2002/148/boc-2002-148-anexo-18136-18138.pdf
+
+18136 Boletín Oficial de Canarias núm. 148, miércoles 6 de noviembre de 2002
+A N E X O  I
+
+Boletín Oficial de Canarias núm. 148, miércoles 6 de noviembre de 2002 18137
+A N E X O  I I
+
+18138 Boletín Oficial de Canarias núm. 148, miércoles 6 de noviembre de 2002
+A N E X O  I I I
+

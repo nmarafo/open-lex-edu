@@ -25,6 +25,7 @@ fundamentos_derecho:
 - norma_id: norm-can-l-6-2014
   articulos:
   - '1'
+anexos_extraidos_pdf: true
 ---
 
 # - Resolución de la Dirección General de Formación Profesional y Educación de Adultos,de 27 de julio de 2004, por la que se hacen públicas las instrucciones dictadas sobre la organización y funcionamiento de los Conservatorios y Centros Autorizados elementales y profesionales de música, en la Comunidad Autónoma de Canarias
@@ -183,3 +184,76 @@ El Director es el máximo órgano unipersonal y ostenta la representación insti
 El Vicedirector es el órgano responsable de la dirección del CSMC, bajo la supervisión del Director, en la sede alterna en la que éste se ubique. Hasta tanto se elabore el Reglamento General del CSMC, el Vicedirector asumirá las funciones de organización y coordinación de las actividades artísticas, científicas y culturales del Centro, en colaboración con los Jefes de Departamentos. Sustituye al Director en ausencia de éste.
 2.b.3. Los Jefes de Estudios.
 Los Jefes de Estudios son los respo
+
+
+
+## ANEXOS COMPLEMENTARIOS (Descargados desde PDF del BOC)
+
+### Anexo Fuente: https://www.gobiernodecanarias.org/boc/2004/189/boc-2004-189-anexo-17058-17059.pdf
+
+17058 Boletín Oficial de Canarias núm. 189, miércoles 29 de septiembre de 2004
+A N E X O
+
+B. RÉGIMEN DE ENSEÑANZAS
+B.1. Plan de Estudios.
+1. De conformidad con lo dispuesto en la Dispo-
+sición Transitoria Primera del Decreto 137/2002, de
+23 de septiembre, por el que se crea el Conservato-
+rio Superior de Música de Canarias, hasta tanto se es-
+tablezca el plan de estudios específico para estas en-
+señanzas, en consonancia con la norma básica
+correspondiente, será de aplicación la Orden Minis-
+terial de 25 de junio de 1999, por la que se estable-
+ce el currículo del grado superior de las enseñanzas
+de Música.
+2. El currículo vigente de las enseñanzas superiores
+de Arte Dramático en la Comunidad Autónoma de Ca-
+narias es el establecido mediante el Decreto Territo-
+rial 118, de 17 de junio de 1999 (B.O.C. de 17 de ju-
+lio). En este marco, la EAC impartirá estas enseñanzas,
+de acuerdo con la concreción curricular establecida
+en su Proyecto Curricular de Centro.
+B.2. Clasificación de las asignaturas.
+1. Según lo dispuesto en el apartado octavo de la
+Orden Ministerial de 25 de junio de 1999, los con-
+tenidos del currículo de las diversas especialidades
+se ordenan y distribuyen en tres tipos de asignaturas:
+obligatorias, optativas y de libre elección por el alum-
+nado.
+2. De acuerdo con lo establecido en el artículo 10.7
+del Decreto Territorial 118/1999, de 27 de junio, las
+asignaturas obligatorias del currículo de enseñanzas
+superiores de Arte Dramático podrán ser anuales,
+cuatrimestrales, modulares y de proyectos de fin de
+estudios. Asimismo, el artículo 10.8 del menciona-
+do Decreto contempla la posibilidad de ofertar asig-
+naturas optativas y concertadas con otros Centros.
+3. En función de la carga lectiva asignada en el
+currículo a cada materia, los períodos lectivos de las
+distintas asignaturas podrán ser anuales y cuatri-
+mestrales. Corresponde a cada Centro Superior fijar,
+en su Proyecto Curricular de Centro, la duración o
+período lectivo de las materias o asignaturas de las
+distintas especialidades.
+4. Para la autorización de asignaturas optativas en
+los Centros Superiores de Enseñanzas Artísticas, se
+estará a lo dispuesto en la Resolución que la Direc-
+ción General de Formación Profesional y Educación
+de Adultos establezca, a estos efectos.
+5. Para el establecimiento de las asignaturas de li-
+bre elección, los Centros Superiores suscribirán los
+convenios de colaboración con las Universidades
+canarias y/o con otros Centros Superiores de Ense-
+ñanzas Artísticas.
+B.3. Convocatorias.
+1. En cada curso académico se realizarán dos con-
+vocatorias, que se celebrarán en junio y en septiem-
+bre, en los casos en que sea preceptiva la realización
+de un examen con Tribunal para la superación de la
+correspondiente asignatura. En los demás casos, la
+convocatoria tendrá lugar en febrero o junio, según
+el período lectivo establecido para la asignatura, y la
+segunda en junio o septiembre, respectivamente.
+Boletín Oficial de Canarias núm. 189, miércoles 29 de septiembre de 2004 17059
+
+
