@@ -1,6 +1,61 @@
 version: '1.0'
-total_normas: 9
+total_normas: 12
 normas:
+  norm-can-d-84-2024:
+    id: norm-can-d-84-2024
+    codigo_sintetizado: D84_2024 Reglamento Organico de la Consejeria de Educacion
+    titulo: Decreto 84/2024, de 10 de junio, por el que se aprueba el Reglamento Orgánico
+      de la Consejería de Educación, Formación Profesional, Actividad Física y Deportes.
+    jurisdiccion: Canarias
+    ambito: Autonómico
+    tipo_disposicion: Decreto
+    fecha_publicacion: '2024-06-17'
+    estado: Vigente
+    redaccion: original
+    categoria_canonica: 01_marco_normativo_general_y_organico
+    subcategoria: Estructura de la Consejería
+    tags:
+    - canarias
+    - consejeria_educacion
+    - estructura_organica
+    - reglamento_organico
+    - inspeccion_educativa
+    path: autonómica/canarias/01_marco_normativo_general_y_organico/D84_2024_reglamento_organico_consejeria.md
+  norm-can-l-14-1990:
+    id: norm-can-l-14-1990
+    codigo_sintetizado: L14_1990 Regimen Juridico Administraciones Canarias
+    titulo: Ley 14/1990, de 26 de julio, de Régimen Jurídico de las Administraciones
+      Públicas de Canarias.
+    jurisdiccion: Canarias
+    ambito: Autonómico
+    tipo_disposicion: Ley
+    fecha_publicacion: '1990-09-19'
+    estado: Vigente
+    redaccion: consolidada
+    categoria_canonica: 01_marco_normativo_general_y_organico
+    subcategoria: Estructura de la Consejería
+    tags:
+    - canarias
+    - administracion_publica
+    - competencias
+    path: autonómica/canarias/01_marco_normativo_general_y_organico/L14_1990_regimen_juridico_administraciones_canarias.md
+  norm-can-l-4-2023:
+    id: norm-can-l-4-2023
+    codigo_sintetizado: L4_2023 Ley del Gobierno de Canarias
+    titulo: Ley 4/2023, de 23 de marzo, de la Presidencia y del Gobierno de Canarias.
+    jurisdiccion: Canarias
+    ambito: Autonómico
+    tipo_disposicion: Ley
+    fecha_publicacion: '2023-04-14'
+    estado: Vigente
+    redaccion: consolidada
+    categoria_canonica: 01_marco_normativo_general_y_organico
+    subcategoria: Estructura de la Consejería
+    tags:
+    - canarias
+    - gobierno_canarias
+    - administracion_autonomica
+    path: autonómica/canarias/01_marco_normativo_general_y_organico/L4_2023_gobierno_canarias.md
   norm-can-l-6-2014:
     id: norm-can-l-6-2014
     codigo_sintetizado: L6_2014 Ley Canaria de Educacion
@@ -176,6 +231,13 @@ normas:
     - estatal
     path: estatal/01_marco_normativo_general_y_organico/RD5_2015_estatuto_basico_empleado_publico.md
 relaciones_grafo:
+- origen: norm-can-d-84-2024
+  tipo: desarrolla
+  destino: norm-can-d-123-2023
+  articulos_origen:
+  - Todos
+  articulos_destino:
+  - Todos
 - origen: norm-can-l-6-2014
   tipo: desarrolla
   destino: norm-es-lo-2-2006
