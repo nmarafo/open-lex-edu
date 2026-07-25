@@ -43,6 +43,7 @@ fundamentos_derecho:
 - norma_id: norm-es-lo-3-2022
 - norma_id: norm-es-rd-659-2023
 - norma_id: norm-es-2010-12201
+- norma_id: norm-can-res-boc-2024-226-44
 fuente_pdf_oficial: https://sede.gobiernodecanarias.org/boc/boc-a-2025-118-2219.pdf
 ---
 # Resolución de 9 de junio de 2025, por la que se dictan instrucciones respecto al proceso de evaluación en los Ciclos Formativos (Grados C y D) y Cursos de Especialización (Grado E) del sistema de formación profesional que se imparten en la Comunidad Autónoma de Canarias a partir del curso escolar 2024/2025.
@@ -621,7 +622,7 @@ conforme al desarrollo del currículo autonómico en esta materia.
 y Salud Laboral, y en todo caso antes de su incorporación a la FEOE, emitirá, previa solicitud 
 de la persona interesada, la certificación de la formación en nivel básico de prevención 
 de riesgos laborales de acuerdo con el modelo que se determina en el Anexo IX de la 
-Resolución de 30 de octubre de 2024, por la que se dictan instrucciones y orientaciones 
+[Resolución de 30 de octubre de 2024](R30_10_2024_dictan_instrucciones_orientaciones_implantacion_desarrollo_grados.md), por la que se dictan instrucciones y orientaciones 
 para la implantación y desarrollo de los grados de formación D y E, a partir del curso 
 escolar 2024/2025, y se establece la distribución horaria y modular de los currículos, en el 
 ámbito de la Comunidad Autónoma de Canarias.

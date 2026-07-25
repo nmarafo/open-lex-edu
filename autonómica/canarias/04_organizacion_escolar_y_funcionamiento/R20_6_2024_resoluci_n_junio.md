@@ -31,6 +31,7 @@ fundamentos_derecho:
 - norma_id: norm-can-d-109-1999
 - norma_id: norm-es-2021-20113
 - norma_id: norm-es-2010-12201
+- norma_id: norm-can-res-boc-2024-117-93
 fuente_pdf_oficial: https://sede.gobiernodecanarias.org/boc/boc-a-2024-125-2080.pdf
 ---
 # Resolución de 20 de junio de 2024
@@ -78,7 +79,7 @@ centros educativos sostenidos con fondos públicos del ámbito de la Comunidad A
 
 de Canarias, actualiza el marco normativo para el procedimiento de la elección, renovación 
 y constitución de este órgano colegiado, incluyendo los Consejos de los CER.
-Cuarto.- La Resolución de 3 de junio de 2024, por la que se convoca el proceso y se 
+Cuarto.- La [Resolución de 3 de junio de 2024](R3_6_2024_resoluci_n_junio.md), por la que se convoca el proceso y se 
 aprueba el calendario para la renovación parcial o la nueva constitución de los Consejos 
 Escolares de los centros educativos sostenidos con fondos públicos del ámbito de la Comunidad 
 Autónoma de Canarias, a celebrar en el curso escolar 2024-2025.

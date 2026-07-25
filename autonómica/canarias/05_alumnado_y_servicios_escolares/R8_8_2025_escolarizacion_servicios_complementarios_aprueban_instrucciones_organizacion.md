@@ -39,6 +39,7 @@ fundamentos_derecho:
 - norma_id: norm-can-o-25-2-2003
 - norma_id: norm-can-d-114-2011
 - norma_id: norm-es-l-39-2015
+- norma_id: norm-can-res-boc-2025-061-88
 fuente_pdf_oficial: https://sede.gobiernodecanarias.org/boc/boc-a-2025-166-3041.pdf
 ---
 # Resolución de 8 de agosto de 2025,de la Dirección General de Administración de Centros, Escolarización y Servicios Complementarios por la que se aprueban las instrucciones de organización y funcionamiento de los comedores escolares de los centros docentes públicos no universitarios para el curso escolar 2025-2026 (BOC nº 166, de 22 de agosto).
@@ -151,7 +152,7 @@ de Educación, Formación Profesional, Actividad Física y Deportes, mediante la
 de la DGACESC de aprobación del Calendario Escolar, no excediendo su puesta en marcha 
 transcurridos tres días del inicio lectivo. Su finalización coincidirá con el último día lectivo 
 del curso escolar.
-El periodo lectivo se fijó en la Resolución de 20 de febrero de 2025, de la DGACESC, 
+El periodo lectivo se fijó en la [Resolución de 20 de febrero de 2025](../04_organizacion_escolar_y_funcionamiento/R19_3_2025_escolarizacion_servicios_complementarios_corrige_error_resolucion.md), de la DGACESC, 
 por la que se establece el calendario escolar y se dictan instrucciones para la organización y 
 desarrollo de las actividades de comienzo y finalización del curso 2025-2026, y modificado 
 por la Resolución de 19 de marzo de 2025, por la que se corrige error en la citada Resolución de 

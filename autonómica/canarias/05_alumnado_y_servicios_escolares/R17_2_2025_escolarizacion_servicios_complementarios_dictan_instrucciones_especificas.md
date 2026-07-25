@@ -42,6 +42,8 @@ fundamentos_derecho:
 - norma_id: norm-es-lo-2-2006
 - norma_id: norm-es-2021-20113
 - norma_id: norm-es-2010-12201
+- norma_id: norm-can-res-boc-2017-132-1
+- norma_id: norm-can-res-boc-2024-049-109
 fuente_pdf_oficial: https://sede.gobiernodecanarias.org/boc/boc-a-2025-039-739.pdf
 ---
 # Resolución de 17 de febrero de 2025,de la Dirección General de Administración de Centros, Escolarización y Servicios Complementarios, por la que se dictan instrucciones específicas y se convoca procedimiento extraordinario de admisión del alumnado del primer ciclo de Educación Infantil en determinados centros docentes dependientes de esta Consejería, para el curso escolar 2024-2025.
@@ -63,7 +65,7 @@ Primero.- En la convocatoria del procedimiento de admisión del alumnado en cent
 docentes que ofertan enseñanzas de Educación Infantil, Educación Primaria, Educación 
 Secundaria Obligatoria, Bachillerato y Educación de Personas Adultas sostenidas con 
 fondos públicos para el curso escolar 2024-2025, en la Comunidad Autónoma de Canarias, 
-dictada mediante la Resolución de 27 de febrero de 2024, se ofertaron plazas del primer 
+dictada mediante la [Resolución de 27 de febrero de 2024](R27_2_2024_dgacesc_dictan_instrucciones_proceso_admision_alumnado.md), se ofertaron plazas del primer 
 ciclo de Educación Infantil.
 Sin embargo, con posterioridad se han convocado dos procedimientos extraordinarios 
 de admisión para el alumnado del primer ciclo de Educación Infantil en determinados 
@@ -102,7 +104,7 @@ sobre el proceso de admisión del alumnado en centros docentes que oferten ense�
 Educación Infantil, Educación Primaria, Educación Secundaria Obligatoria, Bachillerato y 
 Educación de Personas Adultas en los centros docentes sostenidos con fondos públicos en 
 la Comunidad Autónoma de Canarias.
-Cuarto.- Resolución de 30 de junio de 2017, por la que se dictan instrucciones para la 
+Cuarto.- [Resolución de 30 de junio de 2017](../01_marco_normativo_general_y_organico/R30_6_2017_dictan_instrucciones_actuacion_centros_docentes_sostenidos.md), por la que se dictan instrucciones para la 
 actuación de los centros docentes sostenidos con fondos públicos, en los casos de padres, 
 madres, separados, divorciados, que hayan finalizado su convivencia, o representantes 
 legales, respecto a sus descendientes o representados, menores de edad, en el ámbito de las 

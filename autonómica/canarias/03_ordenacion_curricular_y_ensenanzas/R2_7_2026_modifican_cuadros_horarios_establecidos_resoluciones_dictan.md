@@ -39,6 +39,7 @@ fundamentos_derecho:
 - norma_id: norm-es-lo-3-2022
 - norma_id: norm-es-rd-659-2023
 - norma_id: norm-es-2010-12201
+- norma_id: norm-can-res-030
 fuente_pdf_oficial: https://sede.gobiernodecanarias.org/boc/boc-a-2026-141-2508.pdf
 ---
 # Resolución de 2 de julio de 2026, por la que se modifican cuadros horarios establecidos en las Resoluciones de 26 de noviembre de 2025 y de 27 de enero de 2026, por las que se dictan instrucciones para la implantación y desarrollo de la oferta de dobles titulaciones de formación profesional (Grados D) en la Comunidad Autónoma de Canarias, a partir del curso escolar 2026/2027. (BOC n.º 141, de 15 de julio)
@@ -72,7 +73,7 @@ Especial (en lo sucesivo,
 DGFPERE), por la que se modifican la Resolución de 26 de 
 noviembre de 2025, que dicta instrucciones para la implantación y desarrollo de la oferta 
 de dobles titulaciones de formación profesional (Grados D) en la Comunidad Autónoma de 
-Canarias, a partir del curso escolar 2026/2027, y la Resolución de 2 de mayo de 2025, que 
+Canarias, a partir del curso escolar 2026/2027, y la [Resolución de 2 de mayo de 2025](R2_5_2025_resoluci_n_mayo_direcci_n_general.md), que 
 dicta instrucciones para la organización de la oferta de dobles titulaciones de formación 
 profesional (Grados D) de ciclos formativos con el primer curso en común en la Comunidad 
 Autónoma de Canarias, a partir del curso 2025/2026.

@@ -39,9 +39,11 @@ fundamentos_derecho:
   - '1'
 - norma_id: norm-es-l-39-2015
 - norma_id: norm-can-d-84-2024
+- norma_id: norm-can-res-boc-2026-039-102
+- norma_id: norm-can-res-boc-2026-039-103
 fuente_pdf_oficial: https://sede.gobiernodecanarias.org/boc/boc-a-2026-132-2304.pdf
 ---
-# Dirección General de Formación Profesional y Enseñanzas de Régimen Especial.- Resolución de 24 de junio de 2026, por la que se corrige la Resolución de 13 de febrero de 2026, que dicta instrucciones sobre el proceso de admisión del alumnado a Ciclos Formativos de Grado Básico, Medio y Superior (Grado D, niveles 1, 2 y 3, respectivamente) de las Enseñanzas de Formación Profesional de Grados D, Enseñanzas Profesionales de Artes Plásticas y Diseño, Enseñanzas Elementales y Profesionales de Música, Enseñanzas de Idiomas y Enseñanzas Deportivas en centros docentes sostenidos con fondos públicos en la Comunidad Autónoma de Canarias para el curso escolar 2026/2027 (BOC n.º 39, de 26.2.2026).
+# Dirección General de Formación Profesional y Enseñanzas de Régimen Especial.- Resolución de 24 de junio de 2026, por la que se corrige la [Resolución de 13 de febrero de 2026](R13_2_2026_convoca_procedimiento_admision_alumnado_ciclos_formativos.md), que dicta instrucciones sobre el proceso de admisión del alumnado a Ciclos Formativos de Grado Básico, Medio y Superior (Grado D, niveles 1, 2 y 3, respectivamente) de las Enseñanzas de Formación Profesional de Grados D, Enseñanzas Profesionales de Artes Plásticas y Diseño, Enseñanzas Elementales y Profesionales de Música, Enseñanzas de Idiomas y Enseñanzas Deportivas en centros docentes sostenidos con fondos públicos en la Comunidad Autónoma de Canarias para el curso escolar 2026/2027 (BOC n.º 39, de 26.2.2026).
 
 III. Otras Resoluciones
 Consejería de Educación, Formación Profesional, Actividad Física y Deportes

@@ -35,10 +35,11 @@ fundamentos_derecho:
 - norma_id: norm-es-lo-2-2006
   articulos:
   - '120'
+- norma_id: norm-es-2018-4480
 ---
 # Resolución de 9 de abril de 2018, de la Secretaría de Estado de Educación, Formación Profesional y Universidades por la que se corrigen errores en la de 23 de marzo de 2018, por la que se establecen las instrucciones para el cálculo de la calificación final que debe figurar en las credenciales de convalidación por 1º de Bachillerato y de homologación de títulos extranjeros al título de Graduado o Graduada en Educación Secundaria Obligatoria y al de Bachiller español.
 
-Advertidos errores en la Resolución de 23 de marzo de 2018, de la Secretaría de Estado de Educación, Formación Profesional y Universidades, por la que se establecen las instrucciones para el cálculo de la calificación final que debe figurar en las credenciales de convalidación por 1.º de Bachillerato y de homologación de títulos extranjeros al título de Graduado o Graduada en Educación Secundaria Obligatoria y al de Bachiller español, se procede a efectuar la oportuna rectificación:
+Advertidos errores en la [Resolución de 23 de marzo de 2018](R23_3_2018_secretaria_estado_educacion_formacion_profesional_universidades.md), de la Secretaría de Estado de Educación, Formación Profesional y Universidades, por la que se establecen las instrucciones para el cálculo de la calificación final que debe figurar en las credenciales de convalidación por 1.º de Bachillerato y de homologación de títulos extranjeros al título de Graduado o Graduada en Educación Secundaria Obligatoria y al de Bachiller español, se procede a efectuar la oportuna rectificación:
 
 En la página 34545, en el apartado tercero, donde dice:
 

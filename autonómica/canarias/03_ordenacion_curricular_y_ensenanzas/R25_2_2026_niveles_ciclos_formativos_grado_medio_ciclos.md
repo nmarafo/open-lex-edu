@@ -43,9 +43,17 @@ fundamentos_derecho:
 - norma_id: norm-es-2021-979
 - norma_id: norm-es-lo-3-2022
 - norma_id: norm-es-rd-659-2023
+- norma_id: norm-can-res-033
+- norma_id: norm-can-res-034
+- norma_id: norm-can-res-035
+- norma_id: norm-can-res-036
+- norma_id: norm-can-res-037
+- norma_id: norm-can-res-038
+- norma_id: norm-can-res-039
+- norma_id: norm-can-res-boc-2024-226-44
 fuente_pdf_oficial: https://sede.gobiernodecanarias.org/boc/boc-a-2026-043-703.pdf
 ---
-# Resolución de 25 de febrero de 2026, de la Dirección General de Formación Profesional y Enseñanzas de Régimen Especial por la que se dictan instrucciones para la implantación y desarrollo del módulo profesional optativo en las ofertas formativas de Grados D, niveles 2 (ciclos formativos de grado medio) y 3 (ciclos formativos de grado superior), a partir del curso escolar 2026/2027, en la Comunidad Autónoma de Canarias (BOC n.º 43, de 4 de marzo).
+# [Resolución de 25 de febrero de 2026](R25_2_2026_establece_distribucion_horaria_estructura_modular_grados.md), de la Dirección General de Formación Profesional y Enseñanzas de Régimen Especial por la que se dictan instrucciones para la implantación y desarrollo del módulo profesional optativo en las ofertas formativas de Grados D, niveles 2 (ciclos formativos de grado medio) y 3 (ciclos formativos de grado superior), a partir del curso escolar 2026/2027, en la Comunidad Autónoma de Canarias (BOC n.º 43, de 4 de marzo).
 
 III. Otras Resoluciones
 Consejería de Educación, Formación Profesional, Actividad Física y Deportes
@@ -90,7 +98,7 @@ formativos de grado medio y superior, configurándola como un módulo destinado 
 adquisición de competencias transversales o a la ampliación de la formación general del 
 alumnado, contribuyendo a su empleabilidad.
 
-Tercero.- La Resolución de 30 de octubre de 2024, de la Dirección General de 
+Tercero.- La [Resolución de 30 de octubre de 2024](R30_10_2024_dictan_instrucciones_orientaciones_implantacion_desarrollo_grados.md), de la Dirección General de 
 Formación Profesional y Enseñanzas de Régimen Especial, por la que se dictan las 
 instrucciones y orientaciones para la implantación y desarrollo de los grados D y E, 
 estableció la incorporación del módulo profesional optativo a los planes de estudios de la 

@@ -32,10 +32,11 @@ fundamentos_derecho:
 - norma_id: norm-can-l-6-2014
   articulos:
   - '1'
+- norma_id: norm-can-res-boc-2002-148-77
 fuente_pdf_oficial: http://www.gobiernodecanarias.org/boc/2002/148/boc-2002-148-011.pdf
 fuente_juriscan: http://www.gobcan.es/juriscan/ficha.jsp?id=41360
 ---
-# Dirección General de Promoción Educativa.- Resolución de 14 de octubre de 2002, por la que se dictan instrucciones para la realización de horas lectivas extraordinarias en centros que desarrollen ofertas formativas de Educación de Personas Adultas (BOC n.º 148, de 6 de noviembre).
+# Dirección General de Promoción Educativa.- [Resolución de 14 de octubre de 2002](../03_ordenacion_curricular_y_ensenanzas/R14_10_2002_dictan_instrucciones_realizacion_horas_lectivas_extraordinarias.md), por la que se dictan instrucciones para la realización de horas lectivas extraordinarias en centros que desarrollen ofertas formativas de Educación de Personas Adultas (BOC n.º 148, de 6 de noviembre).
 
 1603 Dirección General de Promoción Educativa.-
 Resolución de 14 de octubre de 2002, por la

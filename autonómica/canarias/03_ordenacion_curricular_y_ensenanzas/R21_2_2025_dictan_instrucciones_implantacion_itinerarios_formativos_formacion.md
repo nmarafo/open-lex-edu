@@ -378,7 +378,7 @@ certificado profesional correspondiente.
 apoyo a las 
 NEAE será responsable de la elaboración del plan formativo para las empresas, 
 que deberá ser coordinado con los tutores o tutoras de empresa. El modelo de plan formativo 
-será el establecido en el Anexo II de la Resolución de 5 de noviembre de 2024, por la que 
+será el establecido en el Anexo II de la [Resolución de 5 de noviembre de 2024](RD659_2023_dictan_instrucciones_orientaciones_formacion_dual_empresas.md), por la que 
 se dictan instrucciones y orientaciones para la formación dual en empresas u organismos 
 equiparados en los Certificados Profesionales (Grado C), los Ciclos Formativos de Grado 
 Básico, Medio y Superior (Grados D, niveles 1, 2 y 3) y Cursos de Especialización (Grado 

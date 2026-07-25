@@ -30,6 +30,7 @@ fundamentos_derecho:
 - norma_id: norm-es-lo-2-2006
 - norma_id: norm-es-2021-20113
 - norma_id: norm-es-2010-12201
+- norma_id: norm-can-res-juriscan-74499-67
 fuente_pdf_oficial: https://sede.gobiernodecanarias.org/boc/boc-a-2017-036-808.pdf
 ---
 # Resolución de 8 de febrero de 2017, por la que se dictan instrucciones para el proceso de evaluación en las Enseñanzas Artísticas Superiores en la Comunidad Autónoma de Canarias (BOC n.º 36, de 21 de febrero).
@@ -194,7 +195,7 @@ su evaluación, se estará a lo establecido en la Resolución de 2 de noviembre 
 que se dictan instrucciones para la realización del Trabajo fin de estudios correspondiente a 
 las Enseñanzas Artísticas Superiores en la Comunidad Autónoma de Canarias.
 9. Con respecto a la evaluación de las prácticas externas, se estará a lo establecido en la 
-Resolución de 20 de abril de 2016, por la que se dictan instrucciones para la realización de las 
+[Resolución de 20 de abril de 2016](R20_4_2016_dictan_instrucciones_realizacion_practicas_externas_estudiantes.md), por la que se dictan instrucciones para la realización de las 
 Prácticas externas de los estudiantes de Enseñanzas Artísticas Superiores en la Comunidad 
 Autónoma de Canarias.
 

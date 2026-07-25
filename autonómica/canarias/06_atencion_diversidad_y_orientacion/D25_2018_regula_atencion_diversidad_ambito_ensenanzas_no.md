@@ -58,6 +58,7 @@ fundamentos_derecho:
 - norma_id: norm-es-2021-20113
 - norma_id: norm-es-2010-12201
 - norma_id: norm-es-2013-12632
+- norma_id: norm-can-res-juriscan-64838-121
 fuente_pdf_oficial: https://sede.gobiernodecanarias.org/boc/boc-a-2018-046-1008.pdf
 ---
 # Decreto 25/2018, de 26 de febrero, por el que se regula la atención a la diversidad en el ámbito de las enseñanzas no universitarias de la Comunidad Autónoma de Canarias.
@@ -645,7 +646,7 @@ alumnado con necesidades específicas de apoyo educativo.
 Mientras no se dicten normas que desarrollen este Decreto, mantienen su vigencia, 
 la Orden de 13 de diciembre de 2010, por la que se regula la atención al alumnado con 
 necesidades específicas de apoyo educativo en la Comunidad Autónoma de Canarias (BOC 
-nº 250, de 22 de diciembre), y la Resolución de 9 de febrero de 2011, por la que se dictan 
+nº 250, de 22 de diciembre), y la [Resolución de 9 de febrero de 2011](R9_2_2011_dictan_instrucciones_procedimientos_plazos_atencion_educativa.md), por la que se dictan 
 instrucciones sobre los procedimientos y los plazos para la atención educativa del alumnado 
 con necesidades específicas de apoyo educativo en los centros escolares de la Comunidad 
 Autónoma de Canarias (BOC nº 40, de 24 de febrero), así como aquellas otras que tengan 

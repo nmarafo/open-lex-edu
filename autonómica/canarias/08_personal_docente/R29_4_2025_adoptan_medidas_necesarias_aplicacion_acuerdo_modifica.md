@@ -30,6 +30,7 @@ fundamentos_derecho:
   - '1'
 - norma_id: norm-can-d-84-2024
 - norma_id: norm-es-l-39-2015
+- norma_id: norm-can-res-boc-2022-158-132
 fuente_pdf_oficial: https://sede.gobiernodecanarias.org/boc/boc-a-2025-094-1775.pdf
 ---
 # Resolución de 29 de abril de 2025, de la Viceconsejería de Educación, por la que se adoptan las medidas necesarias para la aplicación del Acuerdo de 8 de abril de 2025, que modifica el Acuerdo de mejora del Sistema Público Educativo de Canarias, de 18 de julio de 2022, entre Administración y Sindicatos (BOC nº 94, de 13 de mayo).
@@ -89,7 +90,7 @@ aprueban nuevos criterios para la dotación de profesorado en sintonía con el A
 educativo de Canarias, que fijó entre sus objetivos estratégicos:
 OE_01) La mejora de la calidad, la equidad y la inclusión en el sistema educativo 
 canario, vinculados a determinados objetivos específicos.
-La citada Resolución de 27 de julio de 2022 acordó:
+La citada [Resolución de 27 de julio de 2022](R27_7_2022_aprueban_nuevos_criterios_dotacion_profesorado_conformidad.md) acordó:
 “Primero.- Aprobar el nuevo catálogo para la determinación de las plantillas correspondientes 
 al Cuerpo de Maestros en centros públicos no universitarios (Anexo I).
 Segundo.- Aprobar nuevos criterios para la configuración de las plantillas orgánicas 

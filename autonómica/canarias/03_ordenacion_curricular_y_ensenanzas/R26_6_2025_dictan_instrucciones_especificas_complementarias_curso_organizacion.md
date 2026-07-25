@@ -38,6 +38,8 @@ fundamentos_derecho:
 - norma_id: norm-es-2019-317
 - norma_id: norm-es-2021-20113
 - norma_id: norm-es-2010-12201
+- norma_id: norm-can-res-boc-2023-133-57
+- norma_id: norm-can-res-boc-2025-061-88
 fuente_pdf_oficial: https://sede.gobiernodecanarias.org/boc/boc-a-2025-134-2514.pdf
 ---
 # Resolución de 26 de junio de 2025, de la Dirección General de Formación Profesional y Enseñanzas de Régimen Especial, por la que se dictan instrucciones específicas complementarias para el curso 2025/2026 sobre organización, funcionamiento y calendario de las Enseñanzas de Idiomas de Régimen Especial impartidas en las Escuelas Oficiales de Idiomas de la Comunidad Autónoma de Canarias (BOC núm.134, de 8 de julio).
@@ -122,13 +124,13 @@ Profesional y Educación de Adultos, por la que se dictan instrucciones sobre la
 características y elaboración de las pruebas de certificación de Enseñanzas de Idiomas de 
 Régimen Especial en la Comunidad Autónoma de Canarias, determina la configuración y 
 el funcionamiento de las comisiones encargadas de su elaboración.
-Noveno.- La Resolución de 27 de junio de 2023, de la Dirección General de Formación 
+Noveno.- La [Resolución de 27 de junio de 2023](R27_6_2023_resoluci_n_junio_direcci_n_general.md), de la Dirección General de Formación 
 Profesional y Educación de Adultos, por la que se dictan instrucciones específicas sobre 
 organización y funcionamiento de la Escuela Oficial de Idiomas a Distancia de Canarias, 
 incluye las modalidades y formatos de los cursos ofertados a través de dicha escuela y su 
 organización y distribución horaria.
 
-Décimo.- La Resolución de 20 de febrero de 2025, de la Dirección General de 
+Décimo.- La [Resolución de 20 de febrero de 2025](../04_organizacion_escolar_y_funcionamiento/R19_3_2025_escolarizacion_servicios_complementarios_corrige_error_resolucion.md), de la Dirección General de 
 Administración de Centros, Escolarización y Servicios Complementarios, por la que se 
 establece el calendario escolar y se dictan instrucciones para la organización y desarrollo 
 de las actividades de comienzo y finalización del curso 2025-2026, para los centros de 

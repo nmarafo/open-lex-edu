@@ -39,6 +39,8 @@ fundamentos_derecho:
 - norma_id: norm-es-lo-3-2018
 - norma_id: norm-es-2021-20113
 - norma_id: norm-es-2010-12201
+- norma_id: norm-can-res-boc-2026-039-102
+- norma_id: norm-can-res-boc-2026-039-103
 fuente_pdf_oficial: https://sede.gobiernodecanarias.org/boc/boc-a-2026-067-1098.pdf
 ---
 # Resolución de 25 de marzo de 2026, por la que se aprueba la instrucción de las ayudas de préstamo de libros de texto y materiales didácticos en los centros públicos para el curso escolar 2026/2027.
@@ -482,7 +484,7 @@ Los plazos se encuentran vinculados a las Resoluciones de 5 y 18 de febrero de
 Complementarios, por la que se convoca el procedimiento de admisión y matrícula del 
 alumnado de Educación Infantil, Educación Primaria y Educación Secundaria Obligatoria, 
 en centros sostenidos con fondos públicos, para el curso escolar 2026/2027, en la 
-Comunidad Autónoma de Canarias; y a la Resolución de 13 de febrero de 2026, de la 
+Comunidad Autónoma de Canarias; y a la [Resolución de 13 de febrero de 2026](../05_alumnado_y_servicios_escolares/R13_2_2026_convoca_procedimiento_admision_alumnado_ciclos_formativos.md), de la 
 Dirección General de Formación Profesional y Enseñanzas de Régimen Especial, por la 
 que se dictan instrucciones sobre el proceso de admisión del alumnado a Ciclos Formativos 
 de Grado Básico y a los Itinerarios de Formación Profesional Adaptada.

@@ -47,9 +47,17 @@ fundamentos_derecho:
 - norma_id: norm-es-2025-2039
 - norma_id: norm-es-lo-3-2022
 - norma_id: norm-es-rd-659-2023
+- norma_id: norm-can-res-033
+- norma_id: norm-can-res-034
+- norma_id: norm-can-res-035
+- norma_id: norm-can-res-036
+- norma_id: norm-can-res-037
+- norma_id: norm-can-res-039
+- norma_id: norm-can-res-032
+- norma_id: norm-can-res-boc-2024-226-44
 fuente_pdf_oficial: https://sede.gobiernodecanarias.org/boc/boc-a-2026-046-749.pdf
 ---
-# Resolución de 25 de febrero de 2026, por la que se establece la distribución horaria y estructura modular de los Grados C (Certificados Profesionales) y sus correspondientes Grados B (Certificados de Competencia), de niveles 2 y 3, de las familias profesionales de Imagen Personal; Imagen y Sonido; Instalación y Mantenimiento; y Química, en el ámbito de la Comunidad Autónoma de Canarias.
+# [Resolución de 25 de febrero de 2026](R25_2_2026_establece_distribucion_horaria_estructura_modular_grados.md), por la que se establece la distribución horaria y estructura modular de los Grados C (Certificados Profesionales) y sus correspondientes Grados B (Certificados de Competencia), de niveles 2 y 3, de las familias profesionales de Imagen Personal; Imagen y Sonido; Instalación y Mantenimiento; y Química, en el ámbito de la Comunidad Autónoma de Canarias.
 
 III. Otras Resoluciones
 Consejería de Educación, Formación Profesional, Actividad Física y Deportes
@@ -145,7 +153,7 @@ Deportes, atribuye a la Dirección General de Formación Profesional y Enseñanz
 Régimen Especial las competencias generales y específicas en materia de ordenación, 
 implantación y desarrollo de las enseñanzas de formación profesional en el ámbito de la 
 Comunidad Autónoma de Canarias.
-Sexto.- Mediante Resolución de 30 de octubre de 2024, de la Dirección General de 
+Sexto.- Mediante [Resolución de 30 de octubre de 2024](R30_10_2024_dictan_instrucciones_orientaciones_implantacion_desarrollo_grados.md), de la Dirección General de 
 Formación Profesional y Enseñanzas de Régimen Especial, se dictaron instrucciones y 
 orientaciones para la implantación y desarrollo de los Grados D y E, a partir del curso 
 escolar 2024/2025, estableciéndose, asimismo, la distribución horaria y modular de dichos 

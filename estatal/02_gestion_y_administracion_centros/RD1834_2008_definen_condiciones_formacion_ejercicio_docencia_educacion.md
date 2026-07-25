@@ -59,6 +59,7 @@ fundamentos_derecho:
 - norma_id: norm-es-2005-21534
 - norma_id: norm-es-2021-20113
 - norma_id: norm-es-2010-12201
+- norma_id: norm-es-2007-22017
 ---
 # Real Decreto 1834/2008 - Condiciones de Formación para el Ejercicio de la Docencia
 
@@ -190,7 +191,7 @@ En tanto no se regulen las especialidades y consiguiente atribución de docencia
 
 2. Asimismo los títulos profesionales de Especialización Didáctica y el Certificado de Cualificación Pedagógica organizados por las universidades al amparo de lo establecido en la Ley Orgánica 1/1990, de 3 de octubre, de Ordenación General del Sistema Educativo, obtenidos antes del 1 de octubre de 2009 acreditarán la formación pedagógica y didáctica a la que se refiere el artículo 100 de la citada Ley Orgánica.
 
-3.  A partir de la citada fecha de 1 de octubre de 2009, los títulos que habilitan para el ejercicio de las profesiones reguladas de Profesor de Educación Secundaria Obligatoria y Bachillerato, Formación Profesional y Escuelas Oficiales de Idiomas deberán ajustarse a la Resolución de 17 de diciembre de 2007, de la Secretaría de Estado de Universidades e Investigación, por la que se publica el Acuerdo de Consejo de Ministros de 14 de diciembre de 2007.
+3.  A partir de la citada fecha de 1 de octubre de 2009, los títulos que habilitan para el ejercicio de las profesiones reguladas de Profesor de Educación Secundaria Obligatoria y Bachillerato, Formación Profesional y Escuelas Oficiales de Idiomas deberán ajustarse a la [Resolución de 17 de diciembre de 2007](../08_personal_docente/R17_12_2007_secretaria_estado_universidades_e_investigacion_publica.md), de la Secretaría de Estado de Universidades e Investigación, por la que se publica el Acuerdo de Consejo de Ministros de 14 de diciembre de 2007.
 
 #### Disposición transitoria cuarta. Equivalencia de la docencia impartida a la formación pedagógica y didáctica.
 

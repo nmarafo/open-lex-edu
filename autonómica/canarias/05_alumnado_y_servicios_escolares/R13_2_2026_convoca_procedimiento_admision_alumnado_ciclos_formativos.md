@@ -44,9 +44,11 @@ fundamentos_derecho:
 - norma_id: norm-es-lo-3-2022
 - norma_id: norm-es-rd-659-2023
 - norma_id: norm-es-2010-12201
+- norma_id: norm-can-res-boc-2025-061-88
+- norma_id: norm-can-res-boc-2026-039-103
 fuente_pdf_oficial: https://sede.gobiernodecanarias.org/boc/boc-a-2026-039-642.pdf
 ---
-# Resolución de 13 de febrero de 2026, por la que se convoca el procedimiento de admisión del alumnado a los Ciclos Formativos de Grado Básico, Medio y Superior (Grado D, niveles 1, 2 y 3, respectivamente) y de los cursos de especialización de Grado Medio y Superior (Grados E, niveles 2 y 3, respectivamente) de todas las Enseñanzas de Formación Profesional autorizadas, Enseñanzas Profesionales de Artes Plásticas y Diseño, Enseñanzas Deportivas, Enseñanzas Elementales y Profesionales de Música y Enseñanzas de Idiomas en centros docentes sostenidos con fondos públicos en la Comunidad Autónoma de Canarias para el curso escolar 2026-2027.
+# [Resolución de 13 de febrero de 2026](R13_2_2026_dictan_instrucciones_proceso_admision_alumnado_ciclos.md), por la que se convoca el procedimiento de admisión del alumnado a los Ciclos Formativos de Grado Básico, Medio y Superior (Grado D, niveles 1, 2 y 3, respectivamente) y de los cursos de especialización de Grado Medio y Superior (Grados E, niveles 2 y 3, respectivamente) de todas las Enseñanzas de Formación Profesional autorizadas, Enseñanzas Profesionales de Artes Plásticas y Diseño, Enseñanzas Deportivas, Enseñanzas Elementales y Profesionales de Música y Enseñanzas de Idiomas en centros docentes sostenidos con fondos públicos en la Comunidad Autónoma de Canarias para el curso escolar 2026-2027.
 
 III. Otras Resoluciones
 Consejería de Educación, Formación Profesional, Actividad Física y Deportes
@@ -280,7 +282,7 @@ desempate.
 del expediente académico de los títulos que dan acceso a las enseñanzas de Grado D, niveles 
 2 y 3, atendiendo a lo establecido en los artículos 111 y 115 del Real Decreto 659/2023. 
 El calendario para la admisión de estas enseñanzas atenderá para el curso 2025/2026 a lo 
-establecido en la Resolución de 20 de febrero de 2025, por la que se establece el calendario 
+establecido en la [Resolución de 20 de febrero de 2025](../04_organizacion_escolar_y_funcionamiento/R19_3_2025_escolarizacion_servicios_complementarios_corrige_error_resolucion.md), por la que se establece el calendario 
 escolar y se dictan instrucciones para la organización y desarrollo de las actividades 
 de comienzo y finalización del curso 2025-2026, para los centros de enseñanzas no 
 universitarias de la Comunidad Autónoma de Canarias, con el fin de asegurar que por parte 

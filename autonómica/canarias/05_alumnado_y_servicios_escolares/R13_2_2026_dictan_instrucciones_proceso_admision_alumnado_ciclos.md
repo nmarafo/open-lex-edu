@@ -54,9 +54,11 @@ fundamentos_derecho:
 - norma_id: norm-es-rd-659-2023
 - norma_id: norm-es-2007-10487
 - norma_id: norm-es-2010-12201
+- norma_id: norm-can-res-boc-2017-132-1
+- norma_id: norm-can-res-boc-2026-039-102
 fuente_pdf_oficial: https://sede.gobiernodecanarias.org/boc/boc-a-2026-039-641.pdf
 ---
-# Resolución de 13 de febrero de 2026, por la que se dictan instrucciones sobre el proceso de admisión del alumnado a Ciclos Formativos de Grado Básico, Medio y Superior (Grado D, niveles 1, 2 y 3, respectivamente) de las Enseñanzas de Formación Profesional de Grados D, Enseñanzas Profesionales de Artes Plásticas y Diseño, Enseñanzas Elementales y Profesionales de Música, Enseñanzas de Idiomas y Enseñanzas Deportivas en centros docentes sostenidos con fondos públicos en la Comunidad Autónoma de Canarias para el curso escolar 2026-2027.
+# [Resolución de 13 de febrero de 2026](R13_2_2026_convoca_procedimiento_admision_alumnado_ciclos_formativos.md), por la que se dictan instrucciones sobre el proceso de admisión del alumnado a Ciclos Formativos de Grado Básico, Medio y Superior (Grado D, niveles 1, 2 y 3, respectivamente) de las Enseñanzas de Formación Profesional de Grados D, Enseñanzas Profesionales de Artes Plásticas y Diseño, Enseñanzas Elementales y Profesionales de Música, Enseñanzas de Idiomas y Enseñanzas Deportivas en centros docentes sostenidos con fondos públicos en la Comunidad Autónoma de Canarias para el curso escolar 2026-2027.
 
 III. Otras Resoluciones
 Consejería de Educación, Formación Profesional, Actividad Física y Deportes
@@ -177,7 +179,7 @@ de Canarias, en su Capítulo II, Sección 4.ª, señala las instrucciones espec�
 seguir la admisión de las Enseñanzas de Formación Profesional, Enseñanzas Elementales 
 y Profesionales de Música, Enseñanzas Profesionales de Artes Plásticas y Diseño, Enseñanzas 
 de Idiomas y Enseñanzas Deportivas.
-Duodécimo.- La Resolución de 30 de junio de 2017, por la que se dictan instrucciones 
+Duodécimo.- La [Resolución de 30 de junio de 2017](../01_marco_normativo_general_y_organico/R30_6_2017_dictan_instrucciones_actuacion_centros_docentes_sostenidos.md), por la que se dictan instrucciones 
 para la actuación de los centros docentes sostenidos con fondos públicos, en los casos 
 de padres, madres, separados, divorciados, que hayan finalizado su convivencia, o 
 representantes legales, respecto a sus descendientes o representados, menores de edad, en 

@@ -45,6 +45,9 @@ fundamentos_derecho:
 - norma_id: norm-es-2021-20113
 - norma_id: norm-es-2024-11613
 - norma_id: norm-es-2010-12201
+- norma_id: norm-can-res-juriscan-65631-68
+- norma_id: norm-can-res-boc-2026-039-102
+- norma_id: norm-can-res-boc-2026-039-103
 fuente_pdf_oficial: https://sede.gobiernodecanarias.org/boc/boc-a-2026-039-643.pdf
 ---
 # Resolución de 5 de febrero de 2026, de la DGACESC, por la que se convoca el procedimiento de admisión del alumnado en centros docentes que oferten enseñanzas de Educación Infantil, Educación Primaria, Educación Secundaria Obligatoria, Bachillerato y Educación de Personas Adultas sostenidos con fondos públicos, para el curso escolar 2026-2027, en la Comunidad Autónoma de Canarias (BOC núm. 31, de 16 de febrero).
@@ -52,7 +55,7 @@ fuente_pdf_oficial: https://sede.gobiernodecanarias.org/boc/boc-a-2026-039-643.p
 III. Otras Resoluciones
 Consejería de Educación, Formación Profesional, Actividad Física y Deportes
 643 Dirección General de Formación Profesional y Enseñanzas de Régimen Especial.- 
-Resolución de 13 de febrero de 2026, por la que se convocan el procedimiento de 
+[Resolución de 13 de febrero de 2026](R13_2_2026_convoca_procedimiento_admision_alumnado_ciclos_formativos.md), por la que se convocan el procedimiento de 
 admisión y las pruebas de acceso a las enseñanzas artísticas superiores de Diseño, 
 Música y Arte Dramático, en la Comunidad Autónoma de Canarias, para el curso 
 académico 2026-2027.
@@ -133,7 +136,7 @@ Asimismo, en su disposición final primera, apartado segundo, habilita a la Dire
 General competente en materia de enseñanzas artísticas superiores para establecer la 
 regulación de las pruebas de acceso a los estudios superiores de Arte Dramático, Música y 
 Diseño y realizar las convocatorias correspondientes.
-Octavo.- La Resolución de 25 de mayo de 2011, de la Dirección General de Formación 
+Octavo.- La [Resolución de 25 de mayo de 2011](../03_ordenacion_curricular_y_ensenanzas/R25_5_2011_dictan_instrucciones_organizacion_desarrollo_pruebas_acceso.md), de la Dirección General de Formación 
 Profesional y Educación de Adultos, por la que se dictan instrucciones sobre organización 
 y desarrollo de las pruebas de acceso a las enseñanzas artísticas superiores de Grado en 
 

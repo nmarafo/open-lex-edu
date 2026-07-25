@@ -103,7 +103,7 @@ encaminadas a la formación o cualificación en idiomas.
 Quinto.- El Decreto 142/2018, de 8 de octubre, por el que se establece la ordenación 
 y el currículo de las enseñanzas y la certificación de idiomas de régimen especial para la 
 Comunidad Autónoma de Canarias. 
-Sexto.- La Resolución de 26 de marzo de 2019, por la que se determina el acceso a los 
+Sexto.- La [Resolución de 26 de marzo de 2019](O26_3_2019_determina_acceso_distintos_cursos_ensenanzas_idiomas.md), por la que se determina el acceso a los 
 distintos cursos de enseñanzas de idiomas de régimen especial en aplicación de lo establecido 
 en la [Orden de 21 de septiembre de 2016](O26_3_2019_determina_acceso_distintos_cursos_ensenanzas_idiomas.md), de esta Consejería, que regula el reconocimiento 
 de la acreditación de la competencia lingüística conforme al Marco Común Europeo de 

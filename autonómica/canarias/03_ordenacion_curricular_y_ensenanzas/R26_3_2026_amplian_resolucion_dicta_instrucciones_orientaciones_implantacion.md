@@ -40,9 +40,12 @@ fundamentos_derecho:
 - norma_id: norm-es-2025-2039
 - norma_id: norm-es-rd-659-2023
 - norma_id: norm-es-2010-12201
+- norma_id: norm-can-res-boc-2024-226-44
+- norma_id: norm-can-res-boc-2026-070-115
+- norma_id: norm-can-res-boc-2026-070-116
 fuente_pdf_oficial: https://sede.gobiernodecanarias.org/boc/boc-a-2026-070-1143.pdf
 ---
-# Resolución de 26 de marzo de 2026, por la que se amplían la Resolución de 30 de octubre de 2024, que dicta instrucciones y orientaciones para la implantación y desarrollo de los grados de formación D y E, a partir del curso escolar 2024/2025, y se establece la distribución horaria y modular de los currículos; y la Resolución de 21 de febrero de 2025, que dicta instrucciones para la implantación de los itinerarios formativos de Formación Profesional Adaptada y el desarrollo de los currículos de los módulos de carácter general a partir del curso escolar 2024/2025, en el ámbito de la Comunidad Autónoma de Canarias.
+# [Resolución de 26 de marzo de 2026](../05_alumnado_y_servicios_escolares/R26_3_2026_convocan_premios_extraordinarios_bachillerato_ambito_comunidad.md), por la que se amplían la [Resolución de 30 de octubre de 2024](R30_10_2024_dictan_instrucciones_orientaciones_implantacion_desarrollo_grados.md), que dicta instrucciones y orientaciones para la implantación y desarrollo de los grados de formación D y E, a partir del curso escolar 2024/2025, y se establece la distribución horaria y modular de los currículos; y la Resolución de 21 de febrero de 2025, que dicta instrucciones para la implantación de los itinerarios formativos de Formación Profesional Adaptada y el desarrollo de los currículos de los módulos de carácter general a partir del curso escolar 2024/2025, en el ámbito de la Comunidad Autónoma de Canarias.
 
 III. Otras Resoluciones
 Consejería de Educación, Formación Profesional, Actividad Física y Deportes

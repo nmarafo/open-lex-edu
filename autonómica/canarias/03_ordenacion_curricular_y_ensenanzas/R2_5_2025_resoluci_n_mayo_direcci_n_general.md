@@ -233,7 +233,7 @@ de convalidación entre ofertas formativas, salvo que la DGFPERE regule la oblig
 realizar un complemento formativo en el currículo de la especialidad que se esté cursando, tal y 
 como se establece en el artículo 126.5 del Real Decreto 659/2023, de 18 de julio.
 4. La formación en empresa u organismo equiparado se desarrollará conforme a lo 
-dispuesto en la Resolución de 5 de noviembre de 2024, por la que se dictan instrucciones 
+dispuesto en la [Resolución de 5 de noviembre de 2024](RD659_2023_dictan_instrucciones_orientaciones_formacion_dual_empresas.md), por la que se dictan instrucciones 
 y orientaciones para la misma, sin perjuicio de lo establecido en la Resolución en la que se 
 dicten las instrucciones para la evaluación.
 5. En los ciclos formativos relacionados en el Anexo II, el alumnado que esté en 

@@ -33,6 +33,7 @@ fundamentos_derecho:
 - norma_id: norm-can-d-109-1999
 - norma_id: norm-es-2021-20113
 - norma_id: norm-es-2010-12201
+- norma_id: norm-can-res-boc-2026-109-92
 fuente_pdf_oficial: https://sede.gobiernodecanarias.org/boc/boc-a-2026-125-2192.pdf
 ---
 # Resolución de 15 de junio de 2026, por la que se convoca el proceso y se aprueba el calendario para la renovación parcial o la nueva constitución de los Consejos de los Colectivos de Escuelas Rurales en la Comunidad Autónoma de Canarias, a celebrar en el curso escolar 2026-2027.
@@ -83,7 +84,7 @@ y el procedimiento para la constitución y la renovación de los consejos escola
 centros educativos sostenidos con fondos públicos del ámbito de la Comunidad Autónoma 
 de Canarias, actualiza el marco normativo para el procedimiento de la elección, renovación 
 y constitución de este órgano colegiado, incluyendo los Consejos de los CER.
-Cuarto.- La Resolución de 26 de mayo de 2026, por la que se convoca el proceso y se 
+Cuarto.- La [Resolución de 26 de mayo de 2026](R26_5_2026_resoluci_n_mayo.md), por la que se convoca el proceso y se 
 aprueba el calendario para la renovación parcial o la nueva constitución de los Consejos 
 Escolares de los centros educativos sostenidos con fondos públicos del ámbito de la 
 Comunidad Autónoma de Canarias, a celebrar en el curso escolar 2026-2027.

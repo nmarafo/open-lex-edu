@@ -45,6 +45,8 @@ fundamentos_derecho:
 - norma_id: norm-can-res-134
 - norma_id: norm-es-lo-3-2022
 - norma_id: norm-es-rd-659-2023
+- norma_id: norm-can-res-boc-2024-226-44
+- norma_id: norm-can-res-boc-2025-118-46
 fuente_pdf_oficial: https://sede.gobiernodecanarias.org/boc/boc-a-2025-250-4323.pdf
 ---
 # Resolución de 26 de noviembre de 2025, de la Dirección General de Formación Profesional y Enseñanzas de Régimen Especial,por la que se dictan instrucciones para la implantación y desarrollo de la oferta de dobles titulaciones de formación profesional (Grados D) en la Comunidad Autónoma de Canarias, a partir del curso escolar 2026/2027 (BOC n.º 250, de 18 de diciembre)
@@ -272,7 +274,7 @@ d) Sesión de evaluación final de ciclo extraordinaria.
 
 3. Sesiones de evaluación de primer curso.
 Se realizará conforme a lo establecido en los apartados 1.3 y 2 de la instrucción tercera 
-del Anexo II de la Resolución de 9 de junio de 2025, anteriormente citada.
+del Anexo II de la [Resolución de 9 de junio de 2025](R9_6_2025_dictan_instrucciones_respecto_proceso_evaluacion_ciclos.md), anteriormente citada.
 4. Sesiones de evaluación de segundo curso.
 a) Sesión de evaluación inicial.
 Al comienzo del curso académico, el equipo docente realizará una sesión de evaluación 
@@ -564,7 +566,7 @@ se encuentre matriculado/a, con el visto bueno de la persona titular de la direc
 los centros de titularidad privada, este será visado por la persona titular de la dirección 
 del centro público al que esté adscrito. El certificado se emitirá, previa solicitud de la 
 persona interesada, una vez superado el ciclo formativo, conforme al modelo que figura en 
-el Anexo VIII de la Resolución de 30 de octubre de 2024, por la que se dictan instrucciones 
+el Anexo VIII de la [Resolución de 30 de octubre de 2024](R30_10_2024_dictan_instrucciones_orientaciones_implantacion_desarrollo_grados.md), por la que se dictan instrucciones 
 y orientaciones para la implantación y desarrollo de los grados de formación D y E, a 
 partir del curso escolar 2024/2025, y se establece la distribución horaria y modular de los 
 currículos, en el ámbito de la Comunidad Autónoma de Canarias.
