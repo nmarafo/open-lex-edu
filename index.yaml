@@ -1,6 +1,24 @@
 version: '1.0'
-total_normas: 323
+total_normas: 325
 normas:
+  norm-can-d-123-2023:
+    id: norm-can-d-123-2023
+    codigo_sintetizado: D123/2023 Estructura Organica del Gobierno de Canarias
+    titulo: Decreto 123/2023, de 17 de julio, por el que se determina la estructura
+      orgánica y las sedes de las Consejerías del Gobierno de Canarias.
+    jurisdiccion: Canarias
+    ambito: Autonómico
+    tipo_disposicion: Decreto
+    fecha_publicacion: '2023-07-18'
+    estado: Vigente
+    redaccion: original
+    categoria_canonica: 01_marco_normativo_general_y_organico
+    subcategoria: Estructura de la Consejería
+    tags:
+    - canarias
+    - gobierno_canarias
+    - estructura_organica
+    path: autonómica/canarias/01_marco_normativo_general_y_organico/D123_2023_estructura_organica_gobierno_canarias.md
   norm-can-d-84-2024:
     id: norm-can-d-84-2024
     codigo_sintetizado: D84_2024 Reglamento Organico de la Consejeria de Educacion
@@ -2175,6 +2193,26 @@ normas:
     - centros_publicos
     - equipo_directivo
     path: autonómica/canarias/04_organizacion_escolar_y_funcionamiento/D81_2010_reglamento_organico_centros.md
+  norm-can-o-2023-09-28:
+    id: norm-can-o-2023-09-28
+    codigo_sintetizado: O28_9_2023 Instrucciones de Organizacion y Funcionamiento
+      de Centros
+    titulo: Orden de 28 de septiembre de 2023, por la que se aprueban las instrucciones
+      de organización y funcionamiento de los centros docentes públicos no universitarios
+      de la Comunidad Autónoma de Canarias.
+    jurisdiccion: Canarias
+    ambito: Autonómico
+    tipo_disposicion: Orden
+    fecha_publicacion: '2023-10-06'
+    estado: Vigente
+    redaccion: original
+    categoria_canonica: 04_organizacion_escolar_y_funcionamiento
+    subcategoria: Instrucciones de organización y funcionamiento
+    tags:
+    - canarias
+    - organizacion_centros
+    - instrucciones_inicio_curso
+    path: autonómica/canarias/04_organizacion_escolar_y_funcionamiento/O28_9_2023_instrucciones_organizacion_funcionamiento_centros.md
   norm-can-o-2013-10-09:
     id: norm-can-o-2013-10-09
     codigo_sintetizado: O9_10_2013 Desarrollo del Reglamento Organico de Centros (ROC)
@@ -6787,6 +6825,12 @@ relaciones_grafo:
   destino: norm-can-o-2013-10-09
   articulos_origen: []
   articulos_destino: []
+- origen: norm-can-o-2023-09-28
+  tipo: desarrolla
+  destino: norm-can-d-81-2010
+  articulos_origen: []
+  articulos_destino:
+  - Todos
 - origen: norm-can-o-2013-10-09
   tipo: desarrolla
   destino: norm-can-d-81-2010
@@ -6905,8 +6949,8 @@ relaciones_grafo:
   - '82'
   - '83'
 - origen: norm-es-lo-2-2006
-  tipo: modificado_por
-  destino: norm-es-lo-3-2020
+  tipo: modificada_por
+  destino: norm-es-lo-2-2006
   articulos_origen: []
   articulos_destino: []
 - origen: norm-es-rd-132-2010

@@ -38,7 +38,7 @@ fundamentos_derecho:
 - norma_id: norm-es-lo-2-2006
   articulos:
   - '124'
-- norma_id: norm-can-estatuto-2018
+- norma_id: norm-can-lo-1-2018
   articulos:
   - '136'
 fuente_pdf_oficial: https://sede.gobiernodecanarias.org/boc/boc-a-2011-108-3000.pdf

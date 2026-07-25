@@ -25,12 +25,12 @@ tags:
 - estatal
 - marco_general
 relaciones:
-  modificado_por:
-  - norma_id: norm-es-lo-3-2020
+  modificada_por:
+  - norma_id: norm-es-lo-2-2006
     fecha_modificacion: '2020-12-30'
     nota: Modificada de forma integral por la Ley Orgánica 3/2020 (LOMLOE).
 fundamentos_derecho:
-- norma_id: norm-es-constitucion-1978
+- norma_id: norm-es-ce-1978
   articulos:
   - '27'
 - norma_id: norm-es-ce-1978

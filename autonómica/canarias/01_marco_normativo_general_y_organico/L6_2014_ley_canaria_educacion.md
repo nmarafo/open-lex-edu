@@ -32,10 +32,10 @@ relaciones:
     nota: Desarrolla la legislación básica del Estado (LOE) en el ámbito autonómico
       de Canarias.
 fundamentos_derecho:
-- norma_id: norm-es-constitucion-1978
+- norma_id: norm-es-ce-1978
   articulos:
   - '27'
-- norma_id: norm-can-estatuto-2018
+- norma_id: norm-can-lo-1-2018
   articulos:
   - '136'
 - norma_id: norm-es-ce-1978
