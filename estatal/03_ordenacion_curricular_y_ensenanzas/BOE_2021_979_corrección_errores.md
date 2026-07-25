@@ -24,9 +24,15 @@ tags:
 - boe
 - 03_ordenacion_curricular_y_ensenanzas
 relaciones: {}
-fundamentos_derecho: []
+fundamentos_derecho:
+- norma_id: norm-es-lo-2-2006
+  articulos:
+  - '6'
+  - 6bis
+- norma_id: norm-can-l-6-2014
+  articulos:
+  - '22'
 ---
-
 # Corrección de errores del Real Decreto 1085/2020, de 9 de diciembre, por el que se establecen convalidaciones de módulos profesionales de los títulos de Formación Profesional del sistema educativo español y las medidas para su aplicación, y se modifica el Real Decreto 1147/2011, de 29 de julio, por el que se establece la ordenación general de la formación profesional del sistema educativo.
 
 Advertido error en el Real Decreto 1085/2020, de 9 de diciembre, por el que se establecen convalidaciones de módulos profesionales de los títulos de Formación Profesional del sistema educativo español y las medidas para su aplicación, y se modifica el Real Decreto 1147/2011, de 29 de julio, por el que se establece la ordenación general de la formación profesional del sistema educativo, publicado en el «Boletín Oficial del Estado» número 340, de 30 de diciembre de 2020, se procede a efectuar la siguiente rectificación:

@@ -21,9 +21,15 @@ tags:
 - boe
 - 02_gestion_y_administracion_centros
 relaciones: {}
-fundamentos_derecho: []
+fundamentos_derecho:
+- norma_id: norm-can-d-81-2010
+  articulos:
+  - '1'
+  - '2'
+- norma_id: norm-es-lo-2-2006
+  articulos:
+  - '120'
 ---
-
 # Orden de 14 de marzo de 1988 para la aplicación de lo dispuesto en el Real Decreto 104/1988, de 29 de enero, sobre homologación y convalidación de títulos y estudios extranjeros de educación no universitaria.
 
 La aprobación del Real Decreto 104/1988, de 29 de enero («Boletín Oficial del Estado» de 17 de febrero), sobre homologación y convalidación de títulos y estudios extranjeros de educación no universitaria introduce, entre otras, la novedad de reducir a un procedimiento único las distintas formas de tramitación de los expedientes que la normativa anterior comportaba, según se tratase del régimen general o del específico de los emigrantes españoles y, dentro de este segundo supuesto, según se tratase de estudios de Educación General Básica y Bachillerato o de Formación Profesional. Por otro lado, buena parte de la gestión que se realizaba en la Secretaría General Técnica del Departamento se desconcentra con la nueva norma, de modo que el ciudadano puede tramitar sus solicitudes en el ámbito territorial de su propio domicilio. Resulta necesario, en consecuencia, desarrollar lo establecido por el Real Decreto mencionado, en materia de tramitación de los expedientes de homologación y convalidación de títulos y estudios extranjeros de educación no universitaria.

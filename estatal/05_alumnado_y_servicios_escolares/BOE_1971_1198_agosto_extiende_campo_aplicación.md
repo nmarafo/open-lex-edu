@@ -24,9 +24,15 @@ tags:
 - boe
 - 05_alumnado_y_servicios_escolares
 relaciones: {}
-fundamentos_derecho: []
+fundamentos_derecho:
+- norma_id: norm-can-d-9-2022
+  articulos:
+  - '1'
+  - '2'
+- norma_id: norm-es-lo-2-2006
+  articulos:
+  - '84'
 ---
-
 # Decreto 2078/1971, de 13 de agosto, por el que se extiende el campo de aplicación del Seguro Escolar a los alumnos que siguen las enseñanzas de Formación Profesional y aquellas otras que, de conformidad con lo establecido en la Ley General de Educación y Financiamiento de la Reforma Educativa, se han de integrar en las enseñanzas de Formación Profesional.
 
 Agencia Estatal Boletín Oficial del Estado

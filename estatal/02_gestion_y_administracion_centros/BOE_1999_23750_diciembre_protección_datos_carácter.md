@@ -21,9 +21,15 @@ tags:
 - boe
 - 02_gestion_y_administracion_centros
 relaciones: {}
-fundamentos_derecho: []
+fundamentos_derecho:
+- norma_id: norm-can-d-81-2010
+  articulos:
+  - '1'
+  - '2'
+- norma_id: norm-es-lo-2-2006
+  articulos:
+  - '120'
 ---
-
 # Ley Orgánica 15/1999, de 13 de diciembre, de Protección de Datos de Carácter Personal.
 
 

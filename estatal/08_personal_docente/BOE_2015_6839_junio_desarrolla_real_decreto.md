@@ -23,9 +23,14 @@ tags:
 - boe
 - 08_personal_docente
 relaciones: {}
-fundamentos_derecho: []
+fundamentos_derecho:
+- norma_id: norm-es-rd-276-2007
+  articulos:
+  - '1'
+- norma_id: norm-es-rdl-5-2015
+  articulos:
+  - '1'
 ---
-
 # Orden ESS/1187/2015, de 15 de junio, por la que se desarrolla el Real Decreto 625/2014, de 18 de julio, por el que se regulan determinados aspectos de la gestión y control de los procesos por incapacidad temporal en los primeros trescientos sesenta y cinco días de su duración.
 
 El Real Decreto 625/2014, de 18 de julio, por el que se regulan determinados aspectos de la gestión y control de los procesos por incapacidad temporal en los primeros trescientos sesenta y cinco días de su duración, ha venido a establecer una nueva regulación que incide en varias cuestiones de la gestión de la referida situación de incapacidad temporal. Dicha regulación responde, entre otras razones, a determinadas reformas legales introducidas en los últimos años en materia de incapacidad temporal, y al avance en los medios de coordinación de actuaciones entre las distintas entidades implicadas en su gestión.

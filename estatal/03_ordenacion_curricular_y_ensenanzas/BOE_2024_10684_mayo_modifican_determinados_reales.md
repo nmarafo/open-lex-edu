@@ -22,9 +22,15 @@ tags:
 - boe
 - 03_ordenacion_curricular_y_ensenanzas
 relaciones: {}
-fundamentos_derecho: []
+fundamentos_derecho:
+- norma_id: norm-es-lo-2-2006
+  articulos:
+  - '6'
+  - 6bis
+- norma_id: norm-can-l-6-2014
+  articulos:
+  - '22'
 ---
-
 # Real Decreto 499/2024, de 21 de mayo, por el que se modifican determinados reales decretos por los que se establecen títulos de Formación Profesional de grado medio y se fijan sus enseñanzas mínimas.
 
 

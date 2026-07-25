@@ -24,9 +24,15 @@ tags:
 - boe
 - 02_gestion_y_administracion_centros
 relaciones: {}
-fundamentos_derecho: []
+fundamentos_derecho:
+- norma_id: norm-can-d-81-2010
+  articulos:
+  - '1'
+  - '2'
+- norma_id: norm-es-lo-2-2006
+  articulos:
+  - '120'
 ---
-
 # Orden de 20 de marzo de 2001 por la que se regula el régimen de equivalencias de los estudios básicos y medios cursados en los países signatarios del Convenio "Andrés Bello", con los correspondientes españoles de Educación Secundaria Obligatoria y Bachillerato establecidos por la Ley Orgánica 1/1990, de 3 de octubre, de Ordenación General del Sistema Educativo.
 
 El Real Decreto 104/1988, de 29 de enero, sobre homologación y convalidación de títulos y estudios extranjeros de educación no universitaria («Boletín Oficial del Estado» de 17 de febrero), establece que en la resolución de los expedientes de homologación o convalidación se estará a lo dispuesto en los Convenios internacionales en los que España sea parte y a las tablas de equivalencias de títulos y planes de estudios aprobadas por el Ministerio de Educación, Cultura y Deporte.

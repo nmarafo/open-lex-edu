@@ -22,9 +22,15 @@ tags:
 - boe
 - 03_ordenacion_curricular_y_ensenanzas
 relaciones: {}
-fundamentos_derecho: []
+fundamentos_derecho:
+- norma_id: norm-es-lo-2-2006
+  articulos:
+  - '6'
+  - 6bis
+- norma_id: norm-can-l-6-2014
+  articulos:
+  - '22'
 ---
-
 # Corrección de errores del Real Decreto 452/2026, de 3 de junio, por el que se establece la ordenación de las Enseñanzas Profesionales de Artes Plásticas y Diseño.
 
 Advertidos errores en el Real Decreto 452/2026, de 3 de junio, por el que se establece la ordenación de las Enseñanzas Profesionales de Artes Plásticas y Diseño, publicado en el «Boletín Oficial del Estado» número 137, de 5 de junio de 2026, se procede a efectuar las oportunas rectificaciones:

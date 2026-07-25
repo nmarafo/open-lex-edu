@@ -23,9 +23,14 @@ tags:
 - boe
 - 08_personal_docente
 relaciones: {}
-fundamentos_derecho: []
+fundamentos_derecho:
+- norma_id: norm-es-rd-276-2007
+  articulos:
+  - '1'
+- norma_id: norm-es-rdl-5-2015
+  articulos:
+  - '1'
 ---
-
 # Orden de 1 de febrero de 1996 por la que se aprueban los temarios que han de regir en los procedimientos de ingreso, adquisición de nuevas especialidades y movilidad para determinadas especialidades de los Cuerpos de Profesores de Enseñanza Secundaria y Profesores Técnicos de Formación Profesional.
 
 El Real Decreto 850/1993, de 4 de junio («Boletín Oficial del Estado» del 30), por el que se regula el ingreso y la adquisición de nuevas especialidades en los Cuerpos de Funcionarios Docentes a que se refiere la Ley Orgánica 1/1990, de 3 de octubre, de Ordenación General del Sistema Educativo, establece un nuevo sistema de acceso que pone fin al procedimiento singular previsto en la disposición transitoria quinta de la misma Ley.

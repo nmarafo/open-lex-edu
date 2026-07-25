@@ -21,9 +21,14 @@ tags:
 - boe
 - 08_personal_docente
 relaciones: {}
-fundamentos_derecho: []
+fundamentos_derecho:
+- norma_id: norm-es-rd-276-2007
+  articulos:
+  - '1'
+- norma_id: norm-es-rdl-5-2015
+  articulos:
+  - '1'
 ---
-
 # Real Decreto 777/1998, de 30 de abril, por el que se desarrollan determinados aspectos de la ordenación de la formación profesional en el ámbito del sistema educativo.
 
 La Ley Orgánica 1/1990, de 3 de octubre, de Ordenación General del Sistema Educativo, define en el capítulo IV del Título I la configuración de la nueva ordenación académica de la formación profesional.

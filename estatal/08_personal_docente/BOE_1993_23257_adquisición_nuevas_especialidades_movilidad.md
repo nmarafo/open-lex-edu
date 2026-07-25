@@ -24,9 +24,14 @@ tags:
 - boe
 - 08_personal_docente
 relaciones: {}
-fundamentos_derecho: []
+fundamentos_derecho:
+- norma_id: norm-es-rd-276-2007
+  articulos:
+  - '1'
+- norma_id: norm-es-rdl-5-2015
+  articulos:
+  - '1'
 ---
-
 # Orden de 9 de septiembre de 1993 por la que se aprueban los temarios que han de regir en los procedimientos de ingreso, adquisición de nuevas especialidades y movilidad para determinadas especialidades de los Cuerpos de Maestros, Profesores de Enseñanza Secundaria y Profesores de Escuelas Oficiales de Idiomas, regulados por el Real Decreto 850/1993, de 4 de junio.
 
 Agencia Estatal Boletín Oficial del Estado

@@ -1,34 +1,34 @@
 ---
 id: norm-es-ce-1978
-codigo_sintetizado: "CE_1978 Constitucion Espanola"
-titulo: "Constitución Española de 1978."
-jurisdiccion: "España"
-ambito: "Estatal"
-organo_emisor: "Cortes Generales"
-tipo_disposicion: "Constitución"
-numero_disposicion: "s/n"
-fecha_disposicion: "1978-12-06"
-fecha_publicacion: "1978-12-29"
-boletin: "BOE"
-numero_boletin: "311"
-estado: "Vigente"
-redaccion: "consolidada"
-fuente_oficial: "https://www.boe.es/buscar/act.php?id=BOE-A-1978-31229"
-
+codigo_sintetizado: CE_1978 Constitucion Espanola
+titulo: Constitución Española de 1978.
+jurisdiccion: España
+ambito: Estatal
+organo_emisor: Cortes Generales
+tipo_disposicion: Constitución
+numero_disposicion: s/n
+fecha_disposicion: '1978-12-06'
+fecha_publicacion: '1978-12-29'
+boletin: BOE
+numero_boletin: '311'
+estado: Vigente
+redaccion: consolidada
+fuente_oficial: https://www.boe.es/buscar/act.php?id=BOE-A-1978-31229
 clasificacion:
-  categoria_canonica: "01_marco_normativo_general_y_organico"
-  subcategoria: "Marco normativo general"
-
+  categoria_canonica: 01_marco_normativo_general_y_organico
+  subcategoria: Marco normativo general
 tags:
-  - constitucion
-  - derechos_fundamentales
-  - derecho_educacion
-  - estatal
-
+- constitucion
+- derechos_fundamentales
+- derecho_educacion
+- estatal
 relaciones: {}
-fundamentos_derecho: []
+fundamentos_derecho:
+- norma_id: norm-es-lo-2-2006
+  articulos:
+  - '1'
+  - '2.1'
 ---
-
 # Constitución Española de 1978
 
 DON JUAN CARLOS I, REY DE ESPAÑA, A TODOS LOS QUE LA PRESENTE VIEREN Y ENTENDIEREN,

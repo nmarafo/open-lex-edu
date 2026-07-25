@@ -21,9 +21,12 @@ tags:
 - boe
 - 01_marco_normativo_general_y_organico
 relaciones: {}
-fundamentos_derecho: []
+fundamentos_derecho:
+- norma_id: norm-es-lo-2-2006
+  articulos:
+  - '1'
+  - '2.1'
 ---
-
 # Ley 1/1991, de 7 de enero, de modificación de los Códigos Civil y Penal en materia de responsabilidad civil del profesorado.
 
 

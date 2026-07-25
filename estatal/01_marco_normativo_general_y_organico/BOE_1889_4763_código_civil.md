@@ -20,9 +20,12 @@ tags:
 - boe
 - 01_marco_normativo_general_y_organico
 relaciones: {}
-fundamentos_derecho: []
+fundamentos_derecho:
+- norma_id: norm-es-lo-2-2006
+  articulos:
+  - '1'
+  - '2.1'
 ---
-
 # Real Decreto de 24 de julio de 1889 por el que se publica el Código Civil.
 
 Teniendo presente lo dispuesto en la ley de 26 de Mayo último; conformándome con lo propuesto por el Ministro de Gracia y Justicia, y de acuerdo con el parecer de mi Consejo de Ministros;
