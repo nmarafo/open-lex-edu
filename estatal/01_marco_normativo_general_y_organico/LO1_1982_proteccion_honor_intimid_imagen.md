@@ -20,16 +20,17 @@ clasificacion:
   subcategoria: Protección jurídica de menores
 tags:
 - derecho_honor
+- evaluacion
 - intimidad_imagen
+- protecci-n-jur-dica-de-menores
 - proteccion_menores
-- estatal
-relaciones: {}
+relaciones:
+  desarrolla: []
 fundamentos_derecho:
 - norma_id: norm-es-ce-1978
   articulos:
   - '18'
 ---
-
 # Ley Orgánica 1/1982 de Protección Civil del Derecho al Honor, a la Intimidad Personal y a la Propia Imagen
 
 **DON JUAN CARLOS I, REY DE ESPAÑA**

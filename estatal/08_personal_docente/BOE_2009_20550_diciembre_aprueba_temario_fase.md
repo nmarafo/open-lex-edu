@@ -18,10 +18,18 @@ clasificacion:
   categoria_canonica: 08_personal_docente
   subcategoria: Oposiciones y acceso
 tags:
-- estatal
-- boe
-- 08_personal_docente
-relaciones: {}
+- ebep
+- inspeccion-educativa
+- oposiciones
+- oposiciones-y-acceso
+- profesorado
+relaciones:
+  desarrolla:
+  - norma_id: norm-es-rd-276-2007
+    articulos_origen:
+    - Todos
+    articulos_destino:
+    - Todos
 fundamentos_derecho:
 - norma_id: norm-es-ce-1978
   articulos:
@@ -31,7 +39,6 @@ fundamentos_derecho:
   - '1'
   - '2'
 ---
-
 # Orden EDU/3429/2009, de 11 de diciembre, por la que se aprueba el temario de la fase de oposición del procedimiento selectivo de acceso al Cuerpo de Inspectores de Educación.
 
 La Ley Orgánica 2/2006, de 3 de mayo, de Educación, establece en su disposición adicional duodécima que el acceso al Cuerpo de Inspectores de Educación se realizará mediante concurso-oposición.

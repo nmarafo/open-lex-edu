@@ -17,16 +17,18 @@ clasificacion:
   categoria_canonica: 08_personal_docente
   subcategoria: Jornada laboral y horarios
 tags:
-- estatal
-- boe
-- 08_personal_docente
-relaciones: {}
+- curriculo
+- gestion-economica
+- inclusiva
+- jornada-laboral-y-horarios
+- oposiciones
+relaciones:
+  desarrolla: []
 fundamentos_derecho:
 - norma_id: norm-es-ce-1978
   articulos:
   - '27'
 ---
-
 # Ley 2/2012, de 29 de junio, de Presupuestos Generales del Estado para el año 2012.
 
 **JUAN CARLOS I**

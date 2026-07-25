@@ -17,18 +17,32 @@ clasificacion:
   categoria_canonica: 03_ordenacion_curricular_y_ensenanzas
   subcategoria: Formación Profesional
 tags:
-- canarias
-- resolucion
-- boc
-- 03_ordenacion_curricular_y_ensenanzas
-relaciones: {}
+- curriculo
+- ensenanzas-artisticas
+- ensenanzas-deportivas
+- equipos-directivos
+- formaci-n-profesional
+- formacion-profesional
+- inclusiva
+- oposiciones
+relaciones:
+  desarrolla:
+  - norma_id: norm-es-rd-659-2023
+    articulos_origen:
+    - Todos
+    articulos_destino:
+    - Todos
+  - norma_id: norm-es-lo-3-2022
+    articulos_origen:
+    - Todos
+    articulos_destino:
+    - Todos
 fundamentos_derecho:
 - norma_id: norm-can-l-6-2014
   articulos:
   - '1'
 fuente_pdf_oficial: https://sede.gobiernodecanarias.org/boc/boc-a-2025-046-918.pdf
 ---
-
 # Resolución de la Dirección General de Formación Profesional y Enseñanzas de Régimen Especial, de 21 de febrero de 2025, por la que se dictan instrucciones para la implantación de los itinerarios formativos de Formación Profesional Adaptada y el desarrollo de los currículos de los módulos de carácter general a partir del curso escolar 2024/2025, en el ámbito de la Comunidad Autónoma de Canarias
 
 III. Otras Resoluciones

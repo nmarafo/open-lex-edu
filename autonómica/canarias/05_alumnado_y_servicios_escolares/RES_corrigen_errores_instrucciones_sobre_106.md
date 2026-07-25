@@ -20,18 +20,24 @@ clasificacion:
   categoria_canonica: 05_alumnado_y_servicios_escolares
   subcategoria: Admisión y escolarización del alumnado
 tags:
-- canarias
-- resolucion
-- boc
-- 05_alumnado_y_servicios_escolares
-relaciones: {}
+- admisi-n-y-escolarizaci-n-del-alumnado
+- admision-alumnado
+- ensenanzas-artisticas
+- ensenanzas-deportivas
+- eoi
+- equipos-directivos
+- formacion-profesional
+- procedimiento-administrativo
+- profesorado
+relaciones:
+  desarrolla: []
 fundamentos_derecho:
 - norma_id: norm-can-l-6-2014
   articulos:
   - '1'
+- norma_id: norm-es-l-39-2015
 fuente_pdf_oficial: https://sede.gobiernodecanarias.org/boc/boc-a-2025-061-1212.pdf
 ---
-
 # Resolución de 18 de marzo de 2025, por la que se corrigen errores en las instrucciones sobre el proceso de admisión del alumnado a Ciclos Formativos de Grado Básico, Medio y Superior (niveles 1, 2 y 3, respectivamente) de las Enseñanzas de Formación Profesional de Grado D, Enseñanzas Profesionales de Artes Plásticas y Diseño, Enseñanzas Elementales y Profesionales de Música, Enseñanzas de Idiomas y Enseñanzas Deportivas en centros docentes sostenidos con fondos públicos en la Comunidad Autónoma de Canarias para el curso escolar 2025-2026, aprobadas por Resolución de 24 de febrero de 2025 (BOC n.º 47, de 7.3.2025).
 
 III. Otras Resoluciones

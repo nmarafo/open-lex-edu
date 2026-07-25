@@ -18,10 +18,14 @@ clasificacion:
   categoria_canonica: 03_ordenacion_curricular_y_ensenanzas
   subcategoria: Enseñanzas Deportivas
 tags:
-- estatal
-- boe
-- 03_ordenacion_curricular_y_ensenanzas
-relaciones: {}
+- consejo-escolar
+- curriculo
+- ense-anzas-deportivas
+- ensenanzas-deportivas
+- formacion-profesional
+- oposiciones
+relaciones:
+  desarrolla: []
 fundamentos_derecho:
 - norma_id: norm-es-lo-2-2006
   articulos:
@@ -31,7 +35,6 @@ fundamentos_derecho:
   articulos:
   - '1'
 ---
-
 # Orden EDU/216/2011, de 8 de febrero, por la que se establece el procedimiento de reconocimiento de las formaciones de entrenadores deportivos en las modalidades de fútbol y fútbol sala.
 
 El Real Decreto 320/2000, de 3 de marzo, estableció los títulos de Técnico Deportivo y Técnico Deportivo Superior en fútbol y fútbol sala, aprobó las correspondientes enseñanzas mínimas y reguló las pruebas de acceso a estas enseñanzas.

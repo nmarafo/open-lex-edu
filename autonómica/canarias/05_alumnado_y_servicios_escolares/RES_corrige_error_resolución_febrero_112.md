@@ -21,18 +21,24 @@ clasificacion:
   categoria_canonica: 05_alumnado_y_servicios_escolares
   subcategoria: Admisión y escolarización del alumnado
 tags:
-- canarias
-- resolucion
-- boc
-- 05_alumnado_y_servicios_escolares
-relaciones: {}
+- admisi-n-y-escolarizaci-n-del-alumnado
+- admision-alumnado
+- ensenanzas-artisticas
+- ensenanzas-deportivas
+- eoi
+- equipos-directivos
+- formacion-profesional
+- procedimiento-administrativo
+- profesorado
+relaciones:
+  desarrolla: []
 fundamentos_derecho:
 - norma_id: norm-can-l-6-2014
   articulos:
   - '1'
+- norma_id: norm-es-l-39-2015
 fuente_pdf_oficial: https://sede.gobiernodecanarias.org/boc/boc-a-2026-053-880.pdf
 ---
-
 # Resolución de 6 de marzo de 2026, por la que se corrige error en la Resolución de 13 de febrero de 2026, que convoca el procedimiento de admisión del alumnado a los Ciclos Formativos de Grado Básico, Medio y Superior (Grado D, niveles 1, 2 y 3, respectivamente) y de los cursos de especialización de Grado Medio y Superior (Grados E, niveles 2 y 3, respectivamente) de todas las Enseñanzas de Formación Profesional autorizadas, Enseñanzas Profesionales de Artes Plásticas y Diseño, Enseñanzas Deportivas, Enseñanzas Elementales y Profesionales de Música y Enseñanzas de Idiomas en centros docentes sostenidos con fondos públicos en la Comunidad Autónoma de Canarias para el curso escolar 2026-2027 (BOC n.º 39, de 26.2.2026).
 
 III. Otras Resoluciones

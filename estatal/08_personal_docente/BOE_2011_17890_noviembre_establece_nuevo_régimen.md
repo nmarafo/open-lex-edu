@@ -20,10 +20,9 @@ clasificacion:
   categoria_canonica: 08_personal_docente
   subcategoria: Profesorado de religión
 tags:
-- estatal
-- boe
-- 08_personal_docente
-relaciones: {}
+- profesorado-de-religi-n
+relaciones:
+  desarrolla: []
 fundamentos_derecho:
 - norma_id: norm-es-ce-1978
   articulos:
@@ -32,7 +31,6 @@ fundamentos_derecho:
   articulos:
   - '1'
 ---
-
 # Real Decreto 1619/2011, de 14 de noviembre, por el que se establece el nuevo régimen de equivalencias de los estudios y titulaciones de Ciencias Eclesiásticas de nivel universitario respecto de los títulos universitarios oficiales españoles, en cumplimiento de lo dispuesto en el Acuerdo entre el Estado español y la Santa Sede de 3 de enero de 1979 sobre Enseñanza y Asuntos Culturales.
 
 El Acuerdo entre el Estado español y la Santa Sede de 3 de enero de 1979, sobre Enseñanza y Asuntos Culturales, establece que la convalidación de los estudios y el reconocimiento por parte del Estado de los efectos civiles de los títulos otorgados en los Centros Superiores de Ciencias Eclesiásticas de la Iglesia Católica, sitos en España o en el extranjero, será objeto de regulación específica de común acuerdo entre las autoridades de la Iglesia y del Estado.

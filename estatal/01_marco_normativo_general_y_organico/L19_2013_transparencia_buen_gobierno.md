@@ -19,11 +19,15 @@ clasificacion:
   categoria_canonica: 01_marco_normativo_general_y_organico
   subcategoria: Empleados públicos
 tags:
-- transparencia
-- buen_gobierno
 - acceso_informacion
-- estatal
-relaciones: {}
+- admision-alumnado
+- buen_gobierno
+- empleados-p-blicos
+- oposiciones
+- rgpd
+- transparencia
+relaciones:
+  desarrolla: []
 fundamentos_derecho:
 - norma_id: norm-es-ce-1978
   articulos:
@@ -35,7 +39,6 @@ fundamentos_derecho:
   articulos:
   - '1'
 ---
-
 # Ley 19/2013 de Transparencia, Acceso a la Información Pública y Buen Gobierno
 
 **JUAN CARLOS I**

@@ -18,17 +18,19 @@ clasificacion:
   categoria_canonica: 03_ordenacion_curricular_y_ensenanzas
   subcategoria: Enseñanzas Deportivas
 tags:
-- estatal
-- boe
-- 03_ordenacion_curricular_y_ensenanzas
-relaciones: {}
+- curriculo
+- ense-anzas-deportivas
+- ensenanzas-deportivas
+- formacion-profesional
+- oposiciones
+relaciones:
+  desarrolla: []
 fundamentos_derecho:
 - norma_id: norm-es-lo-2-2006
   articulos:
   - '1'
   - '2'
 ---
-
 # Real Decreto 935/2010, de 23 de julio, por el que se establecen los títulos de Técnico Deportivo en vela con aparejo fijo y Técnico Deportivo en vela con aparejo libre, y se fijan sus enseñanzas mínimas y los requisitos de acceso.
 
 La Ley 10/1990, de 15 de octubre, del Deporte, encomendó al Gobierno la regulación de las enseñanzas de los técnicos deportivos según las exigencias marcadas por los distintos niveles educativos.

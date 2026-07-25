@@ -21,10 +21,17 @@ clasificacion:
   categoria_canonica: 02_gestion_y_administracion_centros
   subcategoria: Centros públicos
 tags:
-- requisitos_minimos
-- instalaciones_centros
 - aula_instalaciones
-- estatal
+- centros-p-blicos
+- curriculo
+- educacion-infantil
+- educacion-primaria
+- eso
+- evaluacion
+- instalaciones_centros
+- oposiciones
+- profesorado
+- requisitos_minimos
 relaciones:
   desarrolla:
   - norma_id: norm-es-lo-2-2006
@@ -43,7 +50,6 @@ fundamentos_derecho:
   - '1'
   - '6'
 ---
-
 # Real Decreto 132/2010 de Requisitos Mínimos de Centros Docentes
 
 La Ley Orgánica 8/1985, de 3 de julio, reguladora del Derecho a la Educación, establece, en su artículo 14, que todos los centros docentes, independientemente de su titularidad, deberán reunir unos requisitos mínimos referidos a titulación académica del profesorado, relación numérica alumno-profesor, instalaciones docentes y deportivas, y número de puestos escolares, para impartir enseñanzas con garantía de calidad. Por su parte, el artículo 23 de la misma ley condiciona la apertura y funcionamiento de los centros docentes privados al principio de autorización administrativa que se concederá siempre que aquellos reúnan los requisitos mínimos establecidos.

@@ -16,18 +16,24 @@ clasificacion:
   categoria_canonica: 04_organizacion_escolar_y_funcionamiento
   subcategoria: Calendario escolar y jornadas
 tags:
-- canarias
-- resolucion
-- boc
-- 04_organizacion_escolar_y_funcionamiento
-relaciones: {}
+- calendario-escolar-y-jornadas
+- ensenanzas-deportivas
+- eoi
+- equipos-directivos
+- evaluacion
+- formacion-profesional
+- oposiciones
+- organizacion-escolar
+- profesorado
+relaciones:
+  desarrolla: []
 fundamentos_derecho:
 - norma_id: norm-can-l-6-2014
   articulos:
   - '1'
+- norma_id: norm-es-lo-2-2006
 fuente_pdf_oficial: https://sede.gobiernodecanarias.org/boc/boc-a-2026-116-2013.pdf
 ---
-
 # Resolución de 29 de mayo de 2026, por la que se dictan instrucciones específicas complementarias para el curso 2026-2027 sobre organización, funcionamiento y calendario de las Enseñanzas de Idiomas de Régimen Especial impartidas en las Escuelas Oficiales de Idiomas de la Comunidad Autónoma de Canarias.
 
 III. Otras Resoluciones

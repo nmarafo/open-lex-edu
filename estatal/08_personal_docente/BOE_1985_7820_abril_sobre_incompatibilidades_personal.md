@@ -18,10 +18,9 @@ clasificacion:
   categoria_canonica: 08_personal_docente
   subcategoria: Funcionarios de carrera
 tags:
-- estatal
-- boe
-- 08_personal_docente
-relaciones: {}
+- funcionarios-de-carrera
+relaciones:
+  desarrolla: []
 fundamentos_derecho:
 - norma_id: norm-es-rd-276-2007
   articulos:
@@ -30,7 +29,6 @@ fundamentos_derecho:
   articulos:
   - '1'
 ---
-
 # Real Decreto 598/1985, de 30 de abril, sobre incompatibilidades del personal al servicio de la Administración del Estado, de la Seguridad Social y de los Entes, Organismos y Empresas dependientes.
 
 La Ley 53/1984, de 26 de diciembre, de incompatibilidades del personal al servicio de las Administraciones Públicas, requiere el desarrollo reglamentario de determinados preceptos, entre los que se encuentran los relativos a procedimiento y plazos, así como otros referentes a la forma y condiciones de los reconocimientos de compatibilidad de actividades privadas.

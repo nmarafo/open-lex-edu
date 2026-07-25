@@ -17,16 +17,15 @@ clasificacion:
   categoria_canonica: 08_personal_docente
   subcategoria: Salud laboral y vigilancia
 tags:
-- estatal
-- boe
-- 08_personal_docente
-relaciones: {}
+- ensenanzas-artisticas
+- salud-laboral-y-vigilancia
+relaciones:
+  desarrolla: []
 fundamentos_derecho:
 - norma_id: norm-es-rdl-5-2015
   articulos:
   - '1'
 ---
-
 # Real Decreto-ley 20/2012, de 13 de julio, de medidas para garantizar la estabilidad presupuestaria y de fomento de la competitividad.
 
 **I**

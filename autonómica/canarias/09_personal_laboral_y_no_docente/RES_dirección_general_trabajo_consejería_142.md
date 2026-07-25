@@ -19,17 +19,16 @@ clasificacion:
   categoria_canonica: 09_personal_laboral_y_no_docente
   subcategoria: Convenio colectivo y personal laboral
 tags:
-- canarias
-- resolucion
-- boc
-- 09_personal_laboral_y_no_docente
-relaciones: {}
+- convenio-colectivo-y-personal-laboral
+- ensenanzas-deportivas
+- equipos-directivos
+relaciones:
+  desarrolla: []
 fundamentos_derecho:
 - norma_id: norm-can-l-6-2014
   articulos:
   - '1'
 ---
-
 # Resolución de 19 de agosto de 1998, de la Dirección General de Trabajo de la Consejería de Empleo y Asuntos Sociales, por el que se hace público Acuerdo de la Comisión Negociadora del Convenio Colectivo del Personal Laboral al servicio de la Comunidad Autónoma de Canarias de 6 de abril de 1998, relativo a la posibilidad de ampliar la duración máxima de los contratos a que se refiere el artículo 15.1.b) del Estatuto de los Trabajadores y de aplicación a la Consejería de Educación, Cultura y Deportes (BOC n.º 140, de 6 de noviembre).
 
 BOC - 1998/140. Viernes 6 de Noviembre de 1998 - 3720

@@ -19,11 +19,12 @@ clasificacion:
   categoria_canonica: 01_marco_normativo_general_y_organico
   subcategoria: Protección jurídica de menores
 tags:
-- responsabilidad_penal
-- menores_infractores
 - medidas_educativas
-- estatal
-relaciones: {}
+- menores_infractores
+- protecci-n-jur-dica-de-menores
+- responsabilidad_penal
+relaciones:
+  desarrolla: []
 fundamentos_derecho:
 - norma_id: norm-es-ce-1978
   articulos:
@@ -33,7 +34,6 @@ fundamentos_derecho:
   articulos:
   - '1'
 ---
-
 # Ley Orgánica 5/2000 reguladora de la responsabilidad penal de los menores
 
 **JUAN CARLOS I**

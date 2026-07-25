@@ -18,10 +18,11 @@ clasificacion:
   categoria_canonica: 03_ordenacion_curricular_y_ensenanzas
   subcategoria: Formación Profesional
 tags:
-- estatal
-- boe
-- 03_ordenacion_curricular_y_ensenanzas
-relaciones: {}
+- curriculo
+- formaci-n-profesional
+- formacion-profesional
+relaciones:
+  desarrolla: []
 fundamentos_derecho:
 - norma_id: norm-es-ce-1978
   articulos:
@@ -34,7 +35,6 @@ fundamentos_derecho:
   articulos:
   - '1'
 ---
-
 # Real Decreto 774/2015, de 28 de agosto, por el que se establecen seis Títulos de Formación Profesional Básica del catálogo de Títulos de las enseñanzas de Formación Profesional.
 
 La Ley Orgánica 2/2006, de 3 de mayo, de Educación, dispone en el artículo 39.6 que el Gobierno, previa consulta a las comunidades autónomas, establecerá las titulaciones correspondientes a los estudios de formación profesional, así como los aspectos básicos del currículo de cada una de ellas.

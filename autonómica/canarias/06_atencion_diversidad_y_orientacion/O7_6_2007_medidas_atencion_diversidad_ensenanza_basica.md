@@ -21,11 +21,17 @@ clasificacion:
   categoria_canonica: 06_atencion_diversidad_y_orientacion
   subcategoria: Medidas de atención a la diversidad
 tags:
-- canarias
-- atencion_diversidad
-- refuerzo_educativo
 - adaptaciones_curriculares_significativas
+- atencion-diversidad
+- atencion_diversidad
+- curriculo
+- educacion-primaria
+- ensenanzas-deportivas
+- equipos-directivos
+- eso
+- medidas-de-atenci-n-a-la-diversidad
 - pmar_diversificacion
+- refuerzo_educativo
 relaciones:
   desarrolla:
   - norma_id: norm-es-lo-2-2006
@@ -43,7 +49,6 @@ fundamentos_derecho:
 fuente_pdf_oficial: https://www.gobiernodecanarias.org/boc/2007/124/boc-2007-124-001.pdf
 anexos_extraidos_pdf: true
 ---
-
 # Orden de 7 de junio de 2007, por la que se regulan las medidas de atención a la diversidad en la enseñanza básica en la Comunidad Autónoma de Canarias.
 
 I. Disposiciones generales

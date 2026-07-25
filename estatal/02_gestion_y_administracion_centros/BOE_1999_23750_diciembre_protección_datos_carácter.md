@@ -17,10 +17,12 @@ clasificacion:
   categoria_canonica: 02_gestion_y_administracion_centros
   subcategoria: Protección de datos y seguridad de la información
 tags:
-- estatal
-- boe
-- 02_gestion_y_administracion_centros
-relaciones: {}
+- curriculo
+- evaluacion
+- protecci-n-de-datos-y-seguridad-de-la-informaci-n
+- rgpd
+relaciones:
+  desarrolla: []
 fundamentos_derecho:
 - norma_id: norm-can-d-81-2010
   articulos:
@@ -30,7 +32,6 @@ fundamentos_derecho:
   articulos:
   - '120'
 ---
-
 # Ley Orgánica 15/1999, de 13 de diciembre, de Protección de Datos de Carácter Personal.
 
 **JUAN CARLOS I**

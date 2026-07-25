@@ -17,18 +17,23 @@ clasificacion:
   categoria_canonica: 05_alumnado_y_servicios_escolares
   subcategoria: Concursos y premios escolares
 tags:
-- canarias
-- resolucion
-- boc
-- 05_alumnado_y_servicios_escolares
-relaciones: {}
+- concursos-y-premios-escolares
+- educacion-personas-adultas
+- ensenanzas-artisticas
+- ensenanzas-deportivas
+- equipos-directivos
+- eso
+- evaluacion
+- formacion-profesional
+relaciones:
+  desarrolla: []
 fundamentos_derecho:
 - norma_id: norm-can-l-6-2014
   articulos:
   - '1'
+- norma_id: norm-es-lo-2-2006
 fuente_pdf_oficial: https://sede.gobiernodecanarias.org/boc/boc-a-2018-106-2612.pdf
 ---
-
 # Resolución de 22 de mayo de 2018, de la Dirección General de Formación Profesional y Educación de Adultos, por la que se dictan instrucciones para la concesión de los Premios Extraordinarios de Enseñanzas Profesionales de Música y de Artes Plásticas y Diseño en la Comunidad Autónoma de Canarias, en el curso 2017-2018 (BOC n.º 106, de 4 de junio).
 
 Lunes 4 de junio de 2018

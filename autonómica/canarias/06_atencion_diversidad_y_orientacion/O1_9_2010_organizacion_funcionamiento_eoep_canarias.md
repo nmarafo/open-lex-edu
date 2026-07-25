@@ -21,11 +21,16 @@ clasificacion:
   categoria_canonica: 06_atencion_diversidad_y_orientacion
   subcategoria: Equipos de Orientación (EOEP)
 tags:
-- canarias
-- eoep
-- orientacion_psicopedagogica
-- eoep_especificos
+- curriculo
 - dictamen_escolarizacion
+- eoep
+- eoep_especificos
+- equipos-de-orientaci-n-eoep
+- oposiciones
+- orientacion-educativa
+- orientacion_psicopedagogica
+- procedimiento-administrativo
+- profesorado
 relaciones:
   desarrolla:
   - norma_id: norm-can-d-23-1995
@@ -39,9 +44,9 @@ fundamentos_derecho:
 - norma_id: norm-can-d-23-1995
   articulos:
   - '1'
+- norma_id: norm-es-l-39-2015
 fuente_pdf_oficial: https://sede.gobiernodecanarias.org/boc/boc-a-2010-181-5209.pdf
 ---
-
 # Orden de 1 de septiembre de 2010, por la que se desarrolla la organización y funcionamiento de los equipos de orientación educativa y psicopedagógica de zona y específicos de la Comunidad Autónoma de Canarias.
 
 II. Autoridades y personal

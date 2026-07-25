@@ -20,11 +20,14 @@ clasificacion:
   categoria_canonica: 07_convivencia_bienestar_y_protocolos
   subcategoria: Convivencia escolar y disciplina
 tags:
-- canarias
-- convivencia
-- derechos_deberes
+- admision-alumnado
 - conducta
+- convivencia
+- convivencia-escolar-y-disciplina
+- derechos_deberes
 - disciplina
+- ensenanzas-deportivas
+- profesorado
 relaciones:
   desarrolla:
   - norma_id: norm-can-l-6-2014
@@ -43,7 +46,6 @@ fundamentos_derecho:
   - '136'
 fuente_pdf_oficial: https://sede.gobiernodecanarias.org/boc/boc-a-2011-108-3000.pdf
 ---
-
 # Decreto 114/2011, de 11 de mayo, por el que se regula la convivencia en el ámbito educativo de la Comunidad Autónoma de Canarias.
 
 I. Disposiciones generales

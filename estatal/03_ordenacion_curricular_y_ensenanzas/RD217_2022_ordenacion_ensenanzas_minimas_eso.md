@@ -20,11 +20,16 @@ clasificacion:
   categoria_canonica: 03_ordenacion_curricular_y_ensenanzas
   subcategoria: Educación Secundaria Obligatoria (ESO)
 tags:
-- eso
+- curriculo
+- educaci-n-secundaria-obligatoria-eso
 - educacion_secundaria
+- ensenanzas-artisticas
 - ensenanzas_minimas
+- eso
+- evaluacion
+- inclusiva
+- oposiciones
 - perfil_salida
-- estatal
 relaciones:
   desarrolla:
   - norma_id: norm-es-lo-2-2006
@@ -37,6 +42,17 @@ relaciones:
     - '28'
     nota: Establece la ordenación y enseñanzas mínimas de la Educación Secundaria
       Obligatoria.
+  desarrollado_por:
+  - norma_id: norm-can-d-102-2023
+    articulos_origen:
+    - Todos
+    articulos_destino:
+    - Todos
+  - norma_id: norm-es-2023-9553
+    articulos_origen:
+    - Todos
+    articulos_destino:
+    - Todos
 fundamentos_derecho:
 - norma_id: norm-es-lo-2-2006
   articulos:
@@ -49,7 +65,6 @@ fundamentos_derecho:
   articulos:
   - '1'
 ---
-
 # Real Decreto 217/2022 - Ordenación y Enseñanzas Mínimas de la Educación Secundaria Obligatoria
 
 La Ley Orgánica 3/2020, de 29 de diciembre, por la que se modifica la Ley Orgánica 2/2006, de 3 de mayo, de Educación, introduce importantes cambios, muchos de ellos derivados, tal y como indica la propia ley en su exposición de motivos, de la conveniencia de revisar las medidas previstas en el texto original con objeto de adaptar el sistema educativo a los retos y desafíos del siglo XXI, de acuerdo con los objetivos fijados por la Unión Europea y la UNESCO para la década 2020-2030.

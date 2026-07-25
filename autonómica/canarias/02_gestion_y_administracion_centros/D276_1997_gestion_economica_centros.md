@@ -21,11 +21,15 @@ clasificacion:
   categoria_canonica: 02_gestion_y_administracion_centros
   subcategoria: Gestión económica de centros
 tags:
-- canarias
-- gestion_economica
-- presupuestos_centros
+- admision-alumnado
 - autonomia_gestion
+- gesti-n-econ-mica-de-centros
+- gestion-economica
+- gestion_economica
+- oposiciones
 - pagos_en_firme
+- presupuestos_centros
+- profesorado
 relaciones:
   desarrolla:
   - norma_id: norm-es-lo-2-2006
@@ -40,7 +44,6 @@ fundamentos_derecho:
   articulos:
   - '63'
 ---
-
 # Decreto 276/1997, de 27 de noviembre, por el que se regula el procedimiento de gestión económica de los centros docentes públicos no universitarios de la Comunidad Autónoma de Canarias.
 
 Gobierno de Canarias

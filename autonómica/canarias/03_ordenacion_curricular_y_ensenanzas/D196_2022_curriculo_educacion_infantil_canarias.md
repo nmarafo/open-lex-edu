@@ -20,10 +20,17 @@ clasificacion:
   categoria_canonica: 03_ordenacion_curricular_y_ensenanzas
   subcategoria: Educación Infantil
 tags:
-- canarias
-- educacion_infantil
+- curriculo
 - curriculo_infantil
+- ebep
+- educaci-n-infantil
+- educacion-infantil
+- educacion_infantil
+- equipos-directivos
+- oposiciones
 - primer_ciclo
+- procedimiento-administrativo
+- roc
 - segundo_ciclo
 relaciones:
   desarrolla:
@@ -42,9 +49,9 @@ fundamentos_derecho:
   articulos:
   - '6.5'
   - '14'
+- norma_id: norm-es-l-39-2015
 fuente_pdf_oficial: https://sede.gobiernodecanarias.org/boc/boc-a-2022-208-3159.pdf
 ---
-
 # Decreto 196/2022, de 13 de octubre, por el que se establece la ordenación y el currículo de la Educación Infantil en la Comunidad Autónoma de Canarias.
 
 II. Autoridades y personal

@@ -21,11 +21,18 @@ clasificacion:
   categoria_canonica: 05_alumnado_y_servicios_escolares
   subcategoria: Admisión del alumnado
 tags:
-- canarias
+- admisi-n-del-alumnado
+- admision-alumnado
 - admision_alumnado
-- escolarizacion
-- criterios_baremacion
 - centros_concertados
+- criterios_baremacion
+- curriculo
+- ebep
+- equipos-directivos
+- escolarizacion
+- interinos
+- oposiciones
+- profesorado
 relaciones:
   desarrolla:
   - norma_id: norm-es-lo-2-2006
@@ -47,7 +54,6 @@ fundamentos_derecho:
   - '84'
 fuente_pdf_oficial: https://sede.gobiernodecanarias.org/boc/boc-a-2022-018-273.pdf
 ---
-
 # Decreto 9/2022, de 20 de enero, por el que se regula la admisión del alumnado en los centros docentes públicos y privados concertados que imparten enseñanzas no universitarias en la Comunidad Autónoma de Canarias.
 
 II. Autoridades y personal

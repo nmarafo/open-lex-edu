@@ -17,18 +17,23 @@ clasificacion:
   categoria_canonica: 08_personal_docente
   subcategoria: Permisos, licencias y vacaciones
 tags:
-- canarias
-- resolucion
-- boc
-- 08_personal_docente
-relaciones: {}
+- curriculo
+- ebep
+- ensenanzas-deportivas
+- equipos-directivos
+- formacion-profesional
+- gestion-economica
+- permisos-licencias
+- permisos-licencias-y-vacaciones
+- profesorado
+relaciones:
+  desarrolla: []
 fundamentos_derecho:
 - norma_id: norm-can-l-6-2014
   articulos:
   - '1'
 fuente_pdf_oficial: https://sede.gobiernodecanarias.org/boc/boc-a-2026-046-751.pdf
 ---
-
 # Resolución de 24 de febrero de 2026, por la que se dictan instrucciones sobre la regulación del periodo vacacional, régimen de permisos y licencias del personal docente no universitario al servicio de la Administración Educativa Canaria y se delegan competencias en las Direcciones Territoriales y direcciones de los centros educativos. (BOC N.º 046. Lunes 9 de marzo de 2026).
 
 III. Otras Resoluciones

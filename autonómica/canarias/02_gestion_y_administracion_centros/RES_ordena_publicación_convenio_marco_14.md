@@ -16,18 +16,17 @@ clasificacion:
   categoria_canonica: 02_gestion_y_administracion_centros
   subcategoria: Cooperación con entidades locales
 tags:
-- canarias
-- resolucion
-- boc
-- 02_gestion_y_administracion_centros
-relaciones: {}
+- cooperaci-n-con-entidades-locales
+- ensenanzas-deportivas
+- profesorado
+relaciones:
+  desarrolla: []
 fundamentos_derecho:
 - norma_id: norm-can-l-6-2014
   articulos:
   - '1'
 fuente_pdf_oficial: https://sede.gobiernodecanarias.org/boc/boc-a-2021-229-4680.pdf
 ---
-
 # Resolución de 27 de octubre de 2021, por la que se ordena la publicación del Convenio Marco de Cooperación entre la Consejería de Educación, Universidades, Cultura y Deportes y la Federación Canaria de Municipios (FECAM) para el desarrollo de acciones y actuaciones en los centros docentes públicos no universitarios.
 
 III. Otras Resoluciones

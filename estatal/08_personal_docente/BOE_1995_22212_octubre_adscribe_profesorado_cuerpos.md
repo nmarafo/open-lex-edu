@@ -18,10 +18,14 @@ clasificacion:
   categoria_canonica: 08_personal_docente
   subcategoria: Especialidades y habilitaciones
 tags:
-- estatal
-- boe
-- 08_personal_docente
-relaciones: {}
+- bachillerato
+- curriculo
+- eso
+- especialidades-y-habilitaciones
+- formacion-profesional
+- profesorado
+relaciones:
+  desarrolla: []
 fundamentos_derecho:
 - norma_id: norm-es-rd-276-2007
   articulos:
@@ -30,7 +34,6 @@ fundamentos_derecho:
   articulos:
   - '1'
 ---
-
 # Real Decreto 1635/1995, de 6 de octubre, por el que se adscribe el profesorado de los Cuerpos de Profesores de Enseñanza Secundaria y Profesores Técnicos de Formación Profesional a las especialidades propias de la formación profesional específica.
 
 La Ley Orgánica 1/1990, de 3 de octubre, de Ordenación General del Sistema Educativo, en su disposición adicional décima, crea los Cuerpos de Profesores de Enseñanza Secundaria y Profesores Técnicos de Formación Profesional y determina que el primero de estos Cuerpos desempeñará sus funciones en la educación secundaria obligatoria, bachillerato y formación profesional y el segundo lo hará en la formación profesional específica y, en las condiciones que se establezcan, en la educación secundaria obligatoria y en el bachillerato.

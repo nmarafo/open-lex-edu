@@ -16,18 +16,21 @@ clasificacion:
   categoria_canonica: 03_ordenacion_curricular_y_ensenanzas
   subcategoria: Enseñanzas Deportivas
 tags:
-- canarias
-- resolucion
-- boc
-- 03_ordenacion_curricular_y_ensenanzas
-relaciones: {}
+- curriculo
+- educacion-personas-adultas
+- ense-anzas-deportivas
+- ensenanzas-deportivas
+- equipos-directivos
+- formacion-profesional
+relaciones:
+  desarrolla: []
 fundamentos_derecho:
 - norma_id: norm-can-l-6-2014
   articulos:
   - '1'
+- norma_id: norm-es-lo-2-2006
 fuente_pdf_oficial: https://sede.gobiernodecanarias.org/boc/boc-a-2019-143-3820.pdf
 ---
-
 # Resolución de 10 de julio de 2019, por la que se dictan instrucciones relativas al procedimiento para el reconocimiento de correspondencias, convalidaciones y exenciones en las enseñanzas deportivas de régimen especial en la Comunidad Autónoma de Canarias (BOC n.º 143, de 26 de julio).
 
 Viernes 26 de julio de 2019

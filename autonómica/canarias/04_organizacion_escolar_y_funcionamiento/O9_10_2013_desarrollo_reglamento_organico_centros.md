@@ -22,11 +22,12 @@ clasificacion:
   categoria_canonica: 04_organizacion_escolar_y_funcionamiento
   subcategoria: Instrucciones de organización y funcionamiento
 tags:
-- canarias
-- roc
-- desarrollo_roc
-- organizacion_centro
 - departamentos
+- desarrollo_roc
+- instrucciones-de-organizaci-n-y-funcionamiento
+- organizacion_centro
+- profesorado
+- roc
 relaciones:
   desarrolla:
   - norma_id: norm-can-d-81-2010
@@ -45,7 +46,6 @@ fundamentos_derecho:
   - Disposición Final Primera
 fuente_pdf_oficial: https://sede.gobiernodecanarias.org/boc/boc-a-2013-200-5076.pdf
 ---
-
 # Orden de 9 de octubre de 2013, por la que se desarrolla el Decreto 81/2010, de 8 de julio, por el que se aprueba el Reglamento Orgánico de los centros docentes públicos no universitarios de la Comunidad Autónoma de Canarias, en lo referente a su organización y funcionamiento.
 
 https://sede.gobcan.es/cpji/boc

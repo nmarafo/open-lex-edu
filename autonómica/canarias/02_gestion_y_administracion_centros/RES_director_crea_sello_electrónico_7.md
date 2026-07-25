@@ -15,18 +15,24 @@ clasificacion:
   categoria_canonica: 02_gestion_y_administracion_centros
   subcategoria: Administración electrónica y firmas
 tags:
-- canarias
-- resolucion
-- boc
-- 02_gestion_y_administracion_centros
-relaciones: {}
+- administraci-n-electr-nica-y-firmas
+- ensenanzas-deportivas
+- equipos-directivos
+- evaluacion
+- oposiciones
+relaciones:
+  desarrolla:
+  - norma_id: norm-es-l-40-2015
+    articulos_origen:
+    - Todos
+    articulos_destino:
+    - Todos
 fundamentos_derecho:
 - norma_id: norm-can-l-6-2014
   articulos:
   - '1'
 fuente_pdf_oficial: https://sede.gobiernodecanarias.org/boc/boc-a-2022-138-2350.pdf
 ---
-
 # Agencia Canaria de Calidad Universitaria y Evaluación Educativa (ACCUEE).- Resolución de 30 de junio de 2022, del Director, por la que se crea el sello electrónico cualificado de la Agencia Canaria de Calidad Universitaria y Evaluación Educativa.
 
 III. Otras Resoluciones

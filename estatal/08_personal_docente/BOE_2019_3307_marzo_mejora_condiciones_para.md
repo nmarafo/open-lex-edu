@@ -17,10 +17,16 @@ clasificacion:
   categoria_canonica: 08_personal_docente
   subcategoria: Jornada laboral y horarios
 tags:
-- estatal
-- boe
-- 08_personal_docente
-relaciones: {}
+- curriculo
+- ebep
+- educacion-primaria
+- eso
+- gestion-economica
+- jornada-laboral-y-horarios
+- oposiciones
+- profesorado
+relaciones:
+  desarrolla: []
 fundamentos_derecho:
 - norma_id: norm-es-ce-1978
   articulos:
@@ -33,7 +39,6 @@ fundamentos_derecho:
   articulos:
   - '1'
 ---
-
 # Ley 4/2019, de 7 de marzo, de mejora de las condiciones para el desempeño de la docencia y la enseñanza en el ámbito de la educación no universitaria.
 
 **FELIPE VI**

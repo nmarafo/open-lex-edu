@@ -15,18 +15,21 @@ clasificacion:
   categoria_canonica: 03_ordenacion_curricular_y_ensenanzas
   subcategoria: Enseñanzas Artísticas
 tags:
-- canarias
-- resolucion
-- boc
-- 03_ordenacion_curricular_y_ensenanzas
-relaciones: {}
+- educacion-personas-adultas
+- ense-anzas-art-sticas
+- ensenanzas-artisticas
+- equipos-directivos
+- evaluacion
+- formacion-profesional
+relaciones:
+  desarrolla: []
 fundamentos_derecho:
 - norma_id: norm-can-l-6-2014
   articulos:
   - '1'
+- norma_id: norm-es-lo-2-2006
 fuente_pdf_oficial: https://sede.gobiernodecanarias.org/boc/boc-a-2017-036-808.pdf
 ---
-
 # Resolución de 8 de febrero de 2017, por la que se dictan instrucciones para el proceso de evaluación en las Enseñanzas Artísticas Superiores en la Comunidad Autónoma de Canarias (BOC n.º 36, de 21 de febrero).
 
 https://sede.gobcan.es/cpji/boc

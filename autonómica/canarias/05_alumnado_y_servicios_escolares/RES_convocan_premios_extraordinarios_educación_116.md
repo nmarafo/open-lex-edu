@@ -17,18 +17,22 @@ clasificacion:
   categoria_canonica: 05_alumnado_y_servicios_escolares
   subcategoria: Concursos y premios escolares
 tags:
-- canarias
-- resolucion
-- boc
-- 05_alumnado_y_servicios_escolares
-relaciones: {}
+- concursos-y-premios-escolares
+- ensenanzas-artisticas
+- ensenanzas-deportivas
+- equipos-directivos
+- eso
+- formacion-profesional
+- inclusiva
+relaciones:
+  desarrolla: []
 fundamentos_derecho:
 - norma_id: norm-can-l-6-2014
   articulos:
   - '1'
+- norma_id: norm-can-lo-1-2018
 fuente_pdf_oficial: https://sede.gobiernodecanarias.org/boc/boc-a-2026-070-1144.pdf
 ---
-
 # Resolución de 26 de marzo de 2026, por la que se convocan los Premios Extraordinarios de Educación Secundaria Obligatoria en el ámbito de la Comunidad Autónoma de Canarias, correspondientes al curso escolar 2025-2026. Plazo para realizar la solicitud de participación: del 19 de junio de 2026, día de la entrega de las calificaciones finales de ESO, al 26 de junio de 2026.
 
 III. Otras Resoluciones

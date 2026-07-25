@@ -19,16 +19,110 @@ clasificacion:
   categoria_canonica: 01_marco_normativo_general_y_organico
   subcategoria: Marco normativo general
 tags:
+- bienestar-infantil
+- convivencia
+- ley_organica
 - loe
 - lomloe
-- ley_organica
-- estatal
+- marco-normativo-general
 - marco_general
 relaciones:
   modificado_por:
   - norma_id: norm-es-lo-3-2020
     fecha_modificacion: '2020-12-30'
     nota: Modificada de forma integral por la Ley Orgánica 3/2020 (LOMLOE).
+  desarrolla: []
+  desarrollado_por:
+  - norma_id: norm-es-rd-95-2022
+    articulos_origen:
+    - Todos
+    articulos_destino:
+    - Todos
+  - norma_id: norm-es-rd-132-2010
+    articulos_origen:
+    - Todos
+    articulos_destino:
+    - Todos
+  - norma_id: norm-es-rd-1364-2010
+    articulos_origen:
+    - Todos
+    articulos_destino:
+    - Todos
+  - norma_id: norm-es-rd-1834-2008
+    articulos_origen:
+    - Todos
+    articulos_destino:
+    - Todos
+  - norma_id: norm-can-d-52-2009
+    articulos_origen:
+    - Todos
+    articulos_destino:
+    - Todos
+  - norma_id: norm-es-rd-217-2022
+    articulos_origen:
+    - Todos
+    articulos_destino:
+    - Todos
+  - norma_id: norm-es-rd-243-2022
+    articulos_origen:
+    - Todos
+    articulos_destino:
+    - Todos
+  - norma_id: norm-can-l-6-2014
+    articulos_origen:
+    - Todos
+    articulos_destino:
+    - Todos
+  - norma_id: norm-can-o-7-6-2007
+    articulos_origen:
+    - Todos
+    articulos_destino:
+    - Todos
+  - norma_id: norm-can-d-9-2022
+    articulos_origen:
+    - Todos
+    articulos_destino:
+    - Todos
+  - norma_id: norm-es-rd-157-2022
+    articulos_origen:
+    - Todos
+    articulos_destino:
+    - Todos
+  - norma_id: norm-es-rd-276-2007
+    articulos_origen:
+    - Todos
+    articulos_destino:
+    - Todos
+  - norma_id: norm-can-d-23-1995
+    articulos_origen:
+    - Todos
+    articulos_destino:
+    - Todos
+  - norma_id: norm-can-d-106-2009
+    articulos_origen:
+    - Todos
+    articulos_destino:
+    - Todos
+  - norma_id: norm-can-d-276-1997
+    articulos_origen:
+    - Todos
+    articulos_destino:
+    - Todos
+  - norma_id: norm-es-rd-943-2003
+    articulos_origen:
+    - Todos
+    articulos_destino:
+    - Todos
+  - norma_id: norm-can-d-25-2018
+    articulos_origen:
+    - Todos
+    articulos_destino:
+    - Todos
+  - norma_id: norm-es-rd-476-2013
+    articulos_origen:
+    - Todos
+    articulos_destino:
+    - Todos
 fundamentos_derecho:
 - norma_id: norm-es-ce-1978
   articulos:
@@ -41,7 +135,6 @@ fundamentos_derecho:
   - '1'
   - '6'
 ---
-
 # Ley Orgánica 2/2006, de 3 de mayo, de Educación (Texto Consolidado LOMLOE)
 
 **JUAN CARLOS I**

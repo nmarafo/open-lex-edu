@@ -18,10 +18,10 @@ clasificacion:
   categoria_canonica: 03_ordenacion_curricular_y_ensenanzas
   subcategoria: Enseñanzas Artísticas
 tags:
-- estatal
-- boe
-- 03_ordenacion_curricular_y_ensenanzas
-relaciones: {}
+- ense-anzas-art-sticas
+- ensenanzas-artisticas
+relaciones:
+  desarrolla: []
 fundamentos_derecho:
 - norma_id: norm-es-lo-2-2006
   articulos:
@@ -31,7 +31,6 @@ fundamentos_derecho:
   articulos:
   - '22'
 ---
-
 # Corrección de errores del Real Decreto 452/2026, de 3 de junio, por el que se establece la ordenación de las Enseñanzas Profesionales de Artes Plásticas y Diseño.
 
 En la página 76241, artículo 34, apartado 8, en la quinta línea, donde dice: «...en la disposición transitoria tercera...», debe decir: «...en la disposición transitoria cuarta...».

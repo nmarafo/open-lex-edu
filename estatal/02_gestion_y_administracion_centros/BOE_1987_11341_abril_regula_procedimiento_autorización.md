@@ -18,10 +18,9 @@ clasificacion:
   categoria_canonica: 02_gestion_y_administracion_centros
   subcategoria: Centros públicos
 tags:
-- estatal
-- boe
-- 02_gestion_y_administracion_centros
-relaciones: {}
+- centros-p-blicos
+relaciones:
+  desarrolla: []
 fundamentos_derecho:
 - norma_id: norm-can-d-81-2010
   articulos:

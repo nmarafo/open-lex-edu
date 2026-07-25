@@ -19,11 +19,15 @@ clasificacion:
   categoria_canonica: 01_marco_normativo_general_y_organico
   subcategoria: Estructura de la Consejería
 tags:
-- canarias
 - consejeria_educacion
+- curriculo
+- ensenanzas-deportivas
+- estructura-de-la-consejer-a
 - estructura_organica
-- reglamento_organico
+- formacion-profesional
 - inspeccion_educativa
+- reglamento_organico
+- roc
 relaciones:
   desarrolla:
   - norma_id: norm-can-d-123-2023
@@ -43,7 +47,6 @@ fuente_pdf_oficial: https://sede.gobiernodecanarias.org/boc/boc-a-2024-117-1913.
 ocr_procesado: true
 motor_ocr: rapidocr_onnxruntime
 ---
-
 # Decreto 84/2024, de 10 de junio, por el que se aprueba el Reglamento Orgánico de la Consejería de Educación, Formación Profesional, Actividad Física y Deportes.
 
 --- Página 1 (Transcripción OCR de Anexo/Imagen) ---

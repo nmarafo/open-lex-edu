@@ -19,17 +19,24 @@ clasificacion:
   categoria_canonica: 08_personal_docente
   subcategoria: Oposiciones y acceso
 tags:
-- estatal
-- boe
-- 08_personal_docente
-relaciones: {}
+- ebep
+- educacion-primaria
+- oposiciones
+- oposiciones-y-acceso
+- profesorado
+relaciones:
+  desarrolla:
+  - norma_id: norm-es-rd-276-2007
+    articulos_origen:
+    - Todos
+    articulos_destino:
+    - Todos
 fundamentos_derecho:
 - norma_id: norm-es-lo-2-2006
   articulos:
   - '1'
   - '2'
 ---
-
 # Orden ECI/592/2007, de 12 de marzo, por la que se aprueba el temario que ha de regir en el procedimiento de ingreso, accesos y adquisición de nuevas especialidades, para la especialidad de Primaria en el Cuerpo de Maestros, regulada por el Real Decreto 276/2007, de 23 de febrero.
 
 La Ley Orgánica 2/2006, de 3 de mayo, de Educación, en su disposición adicional sexta establece que, además de las recogidas en la Ley 30/1984, de 2 de agosto, de Medidas para la Reforma de la Función Pública, modificada por la Ley 23/1988, de 28 de julio, son bases de régimen estatutario de los funcionarios públicos docentes, las reguladas por la propia Ley Orgánica y la normativa que la desarrolla, para el ingreso y la movilidad entre los cuerpos docentes, encomendando al Gobierno su desarrollo reglamentario en aquellos aspectos básicos que sean necesarios para garantizar el marco común básico de la función pública docente.

@@ -18,16 +18,17 @@ clasificacion:
   categoria_canonica: 02_gestion_y_administracion_centros
   subcategoria: Administración electrónica y firmas
 tags:
-- estatal
-- boe
-- 02_gestion_y_administracion_centros
-relaciones: {}
+- administraci-n-electr-nica-y-firmas
+- gestion-economica
+- procedimiento-administrativo
+- rgpd
+relaciones:
+  desarrolla: []
 fundamentos_derecho:
 - norma_id: norm-es-l-39-2015
   articulos:
   - '1'
 ---
-
 # Real Decreto 209/2003, de 21 de febrero, por el que se regulan los registros y las notificaciones telemáticas, así como la utilización de medios telemáticos para la sustitución de la aportación de certificados por los ciudadanos.
 
 La llamada sociedad de la información, es decir, la plena incorporación de las tecnologías de la información y la comunicación a las actividades sociales y económicas, constituye un factor estratégico esencial para garantizar el desarrollo de nuestro país en un escenario de un vertiginoso progreso de la tecnología y de mundialización de mercados, en el que ya no es posible competir si no es a través de productos con un alto valor añadido.

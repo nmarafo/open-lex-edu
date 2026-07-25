@@ -19,10 +19,13 @@ clasificacion:
   categoria_canonica: 08_personal_docente
   subcategoria: Oposiciones y acceso
 tags:
-- estatal
-- boe
-- 08_personal_docente
-relaciones: {}
+- curriculo
+- formacion-profesional
+- oposiciones
+- oposiciones-y-acceso
+- profesorado
+relaciones:
+  desarrolla: []
 fundamentos_derecho:
 - norma_id: norm-es-rd-276-2007
   articulos:
@@ -31,7 +34,6 @@ fundamentos_derecho:
   articulos:
   - '1'
 ---
-
 # Orden de 1 de febrero de 1996 por la que se aprueban los temarios que han de regir en los procedimientos de ingreso, adquisición de nuevas especialidades y movilidad para determinadas especialidades de los Cuerpos de Profesores de Enseñanza Secundaria y Profesores Técnicos de Formación Profesional.
 
 Con objeto de adecuar el contenido de la parte A de los temarios a las nuevas enseñanzas de la Formación Profesional Específica, procede aprobar los temarios para las distintas especialidades de los Cuerpos de Profesores de Enseñanza Secundaria y Profesores Técnicos de Formación Profesional, en función de los contenidos básicos de los módulos profesionales sobre los que tienen atribución docente las especialidades del profesorado, según el Real Decreto 1635/1995. Igualmente, para concluir el proceso iniciado con la Orden de 9 de septiembre de 1993, se incluye el temario de la especialidad de Economía del Cuerpo de Profesores de Enseñanza Secundaria.

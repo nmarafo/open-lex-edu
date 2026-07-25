@@ -18,17 +18,16 @@ clasificacion:
   categoria_canonica: 03_ordenacion_curricular_y_ensenanzas
   subcategoria: Enseñanzas Artísticas
 tags:
-- estatal
-- boe
-- 03_ordenacion_curricular_y_ensenanzas
-relaciones: {}
+- ense-anzas-art-sticas
+- ensenanzas-artisticas
+relaciones:
+  desarrolla: []
 fundamentos_derecho:
 - norma_id: norm-es-lo-2-2006
   articulos:
   - '1'
   - '2'
 ---
-
 # Ley 1/2024, de 7 de junio, por la que se regulan las enseñanzas artísticas superiores y se establece la organización y equivalencias de las enseñanzas artísticas profesionales.
 
 **FELIPE VI**

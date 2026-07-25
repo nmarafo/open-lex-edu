@@ -15,18 +15,21 @@ clasificacion:
   categoria_canonica: 03_ordenacion_curricular_y_ensenanzas
   subcategoria: Enseñanzas de Idiomas
 tags:
-- canarias
-- resolucion
-- boc
-- 03_ordenacion_curricular_y_ensenanzas
-relaciones: {}
+- curriculo
+- educacion-personas-adultas
+- ense-anzas-de-idiomas
+- eoi
+- equipos-directivos
+- formacion-profesional
+relaciones:
+  desarrolla: []
 fundamentos_derecho:
 - norma_id: norm-can-l-6-2014
   articulos:
   - '1'
+- norma_id: norm-es-lo-2-2006
 fuente_pdf_oficial: https://sede.gobiernodecanarias.org/boc/boc-a-2018-048-1091.pdf
 ---
-
 # Resolución de 27 de febrero de 2018, por la que se determinan las características de las pruebas para la obtención del certificado de nivel C2 de enseñanzas de idiomas de régimen especial, en la Comunidad Autónoma de Canarias (BOC n.º 48, de 8 de marzo).
 
 Jueves 8 de marzo de 2018

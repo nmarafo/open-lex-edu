@@ -18,16 +18,15 @@ clasificacion:
   categoria_canonica: 01_marco_normativo_general_y_organico
   subcategoria: Empleados públicos
 tags:
-- estatal
-- boe
-- 01_marco_normativo_general_y_organico
-relaciones: {}
+- empleados-p-blicos
+- oposiciones
+relaciones:
+  desarrolla: []
 fundamentos_derecho:
 - norma_id: norm-es-l-39-2015
   articulos:
   - '1'
 ---
-
 # Real Decreto 1495/2011, de 24 de octubre, por el que se desarrolla la Ley 37/2007, de 16 de noviembre, sobre reutilización de la información del sector público, para el ámbito del sector público estatal.
 
 La Ley 37/2007, de 16 de noviembre, sobre reutilización de la información del sector público, por medio de la cual se incorpora a nuestro ordenamiento jurídico la Directiva 2003/98/CE, de 17 de noviembre de 2003, del Parlamento Europeo y del Consejo, relativa a la reutilización de la información del sector público, establece el régimen jurídico general para la reutilización de dicha información.

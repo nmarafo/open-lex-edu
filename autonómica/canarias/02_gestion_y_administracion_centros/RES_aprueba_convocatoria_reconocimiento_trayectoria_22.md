@@ -16,18 +16,18 @@ clasificacion:
   categoria_canonica: 02_gestion_y_administracion_centros
   subcategoria: Centros públicos
 tags:
-- canarias
-- resolucion
-- boc
-- 02_gestion_y_administracion_centros
-relaciones: {}
+- centros-p-blicos
+- evaluacion
+- profesorado
+relaciones:
+  desarrolla: []
 fundamentos_derecho:
 - norma_id: norm-can-l-6-2014
   articulos:
   - '1'
+- norma_id: norm-es-lo-2-2006
 fuente_pdf_oficial: https://sede.gobiernodecanarias.org/boc/boc-a-2019-024-502.pdf
 ---
-
 # Resolución de 29 de enero de 2019, por la que se aprueba la convocatoria de reconocimiento de la trayectoria y proyección internacional de los centros educativos públicos no universitarios de la Comunidad Autónoma de Canarias (BOC n.º 24, de 5 de febrero).
 
 Martes 5 de febrero de 2019

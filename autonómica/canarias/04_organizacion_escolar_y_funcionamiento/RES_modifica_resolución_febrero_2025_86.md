@@ -18,18 +18,24 @@ clasificacion:
   categoria_canonica: 04_organizacion_escolar_y_funcionamiento
   subcategoria: Calendario escolar y jornadas
 tags:
-- canarias
-- resolucion
-- boc
-- 04_organizacion_escolar_y_funcionamiento
-relaciones: {}
+- admision-alumnado
+- calendario-escolar-y-jornadas
+- curriculo
+- ensenanzas-deportivas
+- equipos-directivos
+- evaluacion
+- formacion-profesional
+- oposiciones
+- organizacion-escolar
+- roc
+relaciones:
+  desarrolla: []
 fundamentos_derecho:
 - norma_id: norm-can-l-6-2014
   articulos:
   - '1'
 fuente_pdf_oficial: https://sede.gobiernodecanarias.org/boc/boc-a-2026-023-346.pdf
 ---
-
 # Resolución de 26 de enero de 2026, por la que se modifica la Resolución de 20 de febrero de 2025, que establece el calendario escolar y dicta instrucciones para la organización y desarrollo de las actividades de comienzo y finalización del curso 2025-2026, para los centros de enseñanzas no universitarias de la Comunidad Autónoma de Canarias, corregida por la Resolución de 19 de marzo de 2025 (BOC nº 23, de 4 de febrero).
 
 III. Otras Resoluciones

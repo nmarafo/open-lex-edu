@@ -20,11 +20,17 @@ clasificacion:
   categoria_canonica: 03_ordenacion_curricular_y_ensenanzas
   subcategoria: Educación Primaria
 tags:
+- curriculo
+- educaci-n-primaria
+- educacion-primaria
 - educacion_primaria
-- ordenacion_primaria
+- ensenanzas-artisticas
 - ensenanzas_minimas
+- evaluacion
+- inclusiva
+- oposiciones
+- ordenacion_primaria
 - perfil_salida
-- estatal
 relaciones:
   desarrolla:
   - norma_id: norm-es-lo-2-2006
@@ -37,6 +43,12 @@ relaciones:
     - '20'
     nota: Establece la ordenación y currículo básico de Educación Primaria tras la
       reforma LOMLOE.
+  desarrollado_por:
+  - norma_id: norm-can-d-101-2023
+    articulos_origen:
+    - Todos
+    articulos_destino:
+    - Todos
 fundamentos_derecho:
 - norma_id: norm-es-lo-2-2006
   articulos:
@@ -52,7 +64,6 @@ fundamentos_derecho:
   articulos:
   - '1'
 ---
-
 # Real Decreto 157/2022 - Ordenación y Enseñanzas Mínimas de la Educación Primaria
 
 La Ley Orgánica 3/2020, de 29 de diciembre, por la que se modifica la Ley Orgánica 2/2006, de 3 de mayo, de Educación, introduce en la anterior redacción de la norma importantes cambios, muchos de ellos derivados, tal y como indica la propia ley en su exposición de motivos, de la conveniencia de revisar las medidas previstas en el texto original con objeto de adaptar el sistema educativo a los retos y desafíos del siglo XXI, de acuerdo con los objetivos fijados por la Unión Europea y la UNESCO para la década 2020-2030.

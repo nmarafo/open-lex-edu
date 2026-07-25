@@ -17,10 +17,17 @@ clasificacion:
   categoria_canonica: 03_ordenacion_curricular_y_ensenanzas
   subcategoria: Educación Primaria
 tags:
-- estatal
-- boe
-- 03_ordenacion_curricular_y_ensenanzas
-relaciones: {}
+- bachillerato
+- curriculo
+- educaci-n-primaria
+- educacion-primaria
+- ensenanzas-artisticas
+- eso
+- evaluacion
+- organizacion-escolar
+- profesorado
+relaciones:
+  desarrolla: []
 fundamentos_derecho:
 - norma_id: norm-es-ce-1978
   articulos:
@@ -30,7 +37,6 @@ fundamentos_derecho:
   - '1'
   - '2'
 ---
-
 # Real Decreto 126/2014, de 28 de febrero, por el que se establece el currículo básico de la Educación Primaria.
 
 La Ley Orgánica 8/2013, de 9 de diciembre, para la Mejora de la Calidad Educativa, ha modificado el artículo 6 de la Ley Orgánica 2/2006, de 3 de mayo, de Educación, para definir el currículo como la regulación de los elementos que determinan los procesos de enseñanza y aprendizaje para cada una de las enseñanzas. El currículo estará integrado por los objetivos de cada enseñanza y etapa educativa; las competencias, o capacidades para activar y aplicar de forma integrada los contenidos propios de cada enseñanza y etapa educativa, para lograr la realización adecuada de actividades y la resolución eficaz de problemas complejos, los contenidos, o conjuntos de conocimientos, habilidades, destrezas y actitudes que contribuyen al logro de los objetivos de cada enseñanza y etapa educativa y a la adquisición de competencias; la metodología didáctica, que comprende tanto la descripción de las prácticas docentes como la organización del trabajo de los docentes; los estándares y resultados de aprendizaje evaluables; y los criterios de evaluación del grado de adquisición de las competencias y del logro de los objetivos de cada enseñanza y etapa educativa. Los contenidos se ordenan en asignaturas, que se clasifican en materias, ámbitos, áreas y módulos en función de las enseñanzas, las etapas educativas o los programas en que participe el alumnado.

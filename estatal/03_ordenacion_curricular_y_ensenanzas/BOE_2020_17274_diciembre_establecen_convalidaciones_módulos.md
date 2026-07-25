@@ -20,10 +20,11 @@ clasificacion:
   categoria_canonica: 03_ordenacion_curricular_y_ensenanzas
   subcategoria: Formación Profesional
 tags:
-- estatal
-- boe
-- 03_ordenacion_curricular_y_ensenanzas
-relaciones: {}
+- formaci-n-profesional
+- formacion-profesional
+- procedimiento-administrativo
+relaciones:
+  desarrolla: []
 fundamentos_derecho:
 - norma_id: norm-es-ce-1978
   articulos:
@@ -36,7 +37,6 @@ fundamentos_derecho:
   articulos:
   - '1'
 ---
-
 # Real Decreto 1085/2020, de 9 de diciembre, por el que se establecen convalidaciones de módulos profesionales de los títulos de Formación Profesional del sistema educativo español y las medidas para su aplicación, y se modifica el Real Decreto 1147/2011, de 29 de julio, por el que se establece la ordenación general de la formación profesional del sistema educativo.
 
 Una de las intenciones perseguidas por la Ley Orgánica 2/2006, de 3 de mayo, de Educación, es mejorar la flexibilidad entre las enseñanzas y facilitar los mecanismos de convalidaciones y equivalencias. En este sentido, el artículo 44.6 dispone que el Gobierno regulará el régimen de convalidaciones y equivalencias entre los ciclos formativos de grado medio y superior de la Formación Profesional y el resto de enseñanzas y estudios oficiales, oídos los correspondientes órganos colegiados.

@@ -18,12 +18,57 @@ clasificacion:
   categoria_canonica: 01_marco_normativo_general_y_organico
   subcategoria: Empleados públicos
 tags:
-- sector_publico
-- regimen_juridico
 - administracion
+- curriculo
+- empleados-p-blicos
+- oposiciones
+- procedimiento-administrativo
+- regimen_juridico
 - responsabilidad_patrimonial
-- estatal
-relaciones: {}
+- sector_publico
+relaciones:
+  desarrolla: []
+  desarrollado_por:
+  - norma_id: norm-can-res-boc-2022-138-7
+    articulos_origen:
+    - Todos
+    articulos_destino:
+    - Todos
+  - norma_id: norm-can-res-098
+    articulos_origen:
+    - Todos
+    articulos_destino:
+    - Todos
+  - norma_id: norm-can-res-juriscan-75634-6
+    articulos_origen:
+    - Todos
+    articulos_destino:
+    - Todos
+  - norma_id: norm-can-res-boc-2019-016-13
+    articulos_origen:
+    - Todos
+    articulos_destino:
+    - Todos
+  - norma_id: norm-can-res-boc-2017-235-5
+    articulos_origen:
+    - Todos
+    articulos_destino:
+    - Todos
+  - norma_id: norm-can-res-boc-2019-067-11
+    articulos_origen:
+    - Todos
+    articulos_destino:
+    - Todos
+  - norma_id: norm-es-l-39-2015
+    articulos_origen:
+    - Todos
+    articulos_destino:
+    - Todos
+  - norma_id: norm-can-res-boc-2019-016-12
+    articulos_origen:
+    - Todos
+    articulos_destino:
+    - Todos
 fundamentos_derecho:
 - norma_id: norm-es-ce-1978
   articulos:
@@ -33,7 +78,6 @@ fundamentos_derecho:
   articulos:
   - '1'
 ---
-
 # Ley 40/2015 del Régimen Jurídico del Sector Público
 
 **FELIPE VI**

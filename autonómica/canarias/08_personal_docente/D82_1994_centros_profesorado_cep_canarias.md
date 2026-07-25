@@ -20,11 +20,14 @@ clasificacion:
   categoria_canonica: 08_personal_docente
   subcategoria: Formación del profesorado
 tags:
-- canarias
-- cep
 - centros_profesorado
+- cep
+- equipos-directivos
+- formaci-n-del-profesorado
 - formacion_permanente
 - innovacion_educativa
+- interinos
+- profesorado
 relaciones:
   desarrolla:
   - norma_id: norm-can-l-6-2014
@@ -39,7 +42,6 @@ fundamentos_derecho:
   articulos:
   - '61'
 ---
-
 # Decreto 82/1994, de 13 de mayo, por el que se regulan la creación, organización y funcionamiento de los Centros del Profesorado en la Comunidad Autónoma de Canarias.
 
 Gobierno de Canarias

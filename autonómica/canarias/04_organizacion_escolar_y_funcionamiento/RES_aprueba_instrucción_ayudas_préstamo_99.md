@@ -15,18 +15,25 @@ clasificacion:
   categoria_canonica: 04_organizacion_escolar_y_funcionamiento
   subcategoria: Instrucciones de organización y funcionamiento
 tags:
-- canarias
-- resolucion
-- boc
-- 04_organizacion_escolar_y_funcionamiento
-relaciones: {}
+- admision-alumnado
+- becas-ayudas
+- educacion-primaria
+- ensenanzas-deportivas
+- equipos-directivos
+- eso
+- formacion-profesional
+- gestion-economica
+- instrucciones-de-organizaci-n-y-funcionamiento
+- oposiciones
+relaciones:
+  desarrolla: []
 fundamentos_derecho:
 - norma_id: norm-can-l-6-2014
   articulos:
   - '1'
+- norma_id: norm-es-lo-2-2006
 fuente_pdf_oficial: https://sede.gobiernodecanarias.org/boc/boc-a-2026-067-1098.pdf
 ---
-
 # Resolución de 25 de marzo de 2026, por la que se aprueba la instrucción de las ayudas de préstamo de libros de texto y materiales didácticos en los centros públicos para el curso escolar 2026/2027.
 
 III. Otras Resoluciones

@@ -18,18 +18,27 @@ clasificacion:
   categoria_canonica: 05_alumnado_y_servicios_escolares
   subcategoria: Admisión y escolarización del alumnado
 tags:
-- canarias
-- resolucion
-- boc
-- 05_alumnado_y_servicios_escolares
-relaciones: {}
+- admisi-n-y-escolarizaci-n-del-alumnado
+- admision-alumnado
+- bachillerato
+- educacion-infantil
+- educacion-personas-adultas
+- educacion-primaria
+- ensenanzas-deportivas
+- equipos-directivos
+- eso
+- formacion-profesional
+- oposiciones
+- plantillas-docentes
+- profesorado
+relaciones:
+  desarrolla: []
 fundamentos_derecho:
 - norma_id: norm-can-l-6-2014
   articulos:
   - '1'
 fuente_pdf_oficial: https://sede.gobiernodecanarias.org/boc/boc-a-2025-039-739.pdf
 ---
-
 # Resolución de 17 de febrero de 2025,de la Dirección General de Administración de Centros, Escolarización y Servicios Complementarios, por la que se dictan instrucciones específicas y se convoca procedimiento extraordinario de admisión del alumnado del primer ciclo de Educación Infantil en determinados centros docentes dependientes de esta Consejería, para el curso escolar 2024-2025.
 
 III. Otras Resoluciones

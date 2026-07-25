@@ -18,18 +18,18 @@ clasificacion:
   categoria_canonica: 03_ordenacion_curricular_y_ensenanzas
   subcategoria: Formación Profesional
 tags:
-- canarias
-- resolucion
-- boc
-- 03_ordenacion_curricular_y_ensenanzas
-relaciones: {}
+- ensenanzas-deportivas
+- formaci-n-profesional
+- formacion-profesional
+- profesorado
+relaciones:
+  desarrolla: []
 fundamentos_derecho:
 - norma_id: norm-can-l-6-2014
   articulos:
   - '1'
 fuente_pdf_oficial: https://sede.gobiernodecanarias.org/boc/boc-a-2026-129-2245.pdf
 ---
-
 # Resolución de 16 de junio de 2026, por la que se ordena la publicación del Protocolo General de Actuación entre la Consejería de Educación, Formación Profesional, Actividad Física y Deportes y la Federación Canaria de Municipios, como organismo intermedio, para el desarrollo de la formación en empresa u organismo equiparado por el alumnado de formación profesional matriculado en centros docentes de titularidad pública de la Comunidad Autónoma de Canarias.(BOC n.º 129, de 29.06.2026).
 
 III. Otras Resoluciones

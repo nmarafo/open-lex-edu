@@ -20,11 +20,13 @@ clasificacion:
   categoria_canonica: 06_atencion_diversidad_y_orientacion
   subcategoria: Medidas de atención a la diversidad
 tags:
-- canarias
-- atencion_diversidad
-- neae
-- medidas_inclusivas
 - adaptaciones_curriculares
+- atencion-diversidad
+- atencion_diversidad
+- inclusiva
+- medidas-de-atenci-n-a-la-diversidad
+- medidas_inclusivas
+- neae
 relaciones:
   desarrolla:
   - norma_id: norm-es-lo-2-2006
@@ -53,7 +55,6 @@ fundamentos_derecho:
   - '71'
 fuente_pdf_oficial: https://sede.gobiernodecanarias.org/boc/boc-a-2018-046-1008.pdf
 ---
-
 # Decreto 25/2018, de 26 de febrero, por el que se regula la atención a la diversidad en el ámbito de las enseñanzas no universitarias de la Comunidad Autónoma de Canarias.
 
 Martes 6 de marzo de 2018

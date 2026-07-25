@@ -17,10 +17,13 @@ clasificacion:
   categoria_canonica: 05_alumnado_y_servicios_escolares
   subcategoria: Concursos y premios escolares
 tags:
-- estatal
-- boe
-- 05_alumnado_y_servicios_escolares
-relaciones: {}
+- bachillerato
+- concursos-y-premios-escolares
+- curriculo
+- ensenanzas-deportivas
+- profesorado
+relaciones:
+  desarrolla: []
 fundamentos_derecho:
 - norma_id: norm-es-lo-2-2006
   articulos:
@@ -30,7 +33,6 @@ fundamentos_derecho:
   articulos:
   - '1'
 ---
-
 # Orden ECD/482/2018, de 4 de mayo, por la que se regulan los Premios Nacionales de Bachillerato.
 
 La Ley Orgánica 2/2006, de 3 de mayo, de Educación, establece en su artículo 89 que el Ministerio de Educación, Cultura y Deporte, sin perjuicio de las competencias de las Comunidades Autónomas, podrá establecer, por sí mismo o en colaboración con otras entidades, premios y concursos de carácter estatal destinados a alumnado, profesorado o centros escolares.

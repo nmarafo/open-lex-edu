@@ -20,18 +20,25 @@ clasificacion:
   categoria_canonica: 09_personal_laboral_y_no_docente
   subcategoria: Régimen disciplinario
 tags:
-- estatuto_trabajadores
-- personal_laboral
 - contrato_trabajo
 - derechos_laborales
-- estatal
-relaciones: {}
+- estatuto_trabajadores
+- evaluacion
+- personal_laboral
+- r-gimen-disciplinario
+relaciones:
+  desarrolla: []
+  desarrollado_por:
+  - norma_id: norm-can-convenio-3-laboral
+    articulos_origen:
+    - Todos
+    articulos_destino:
+    - Todos
 fundamentos_derecho:
 - norma_id: norm-es-ce-1978
   articulos:
   - '35'
 ---
-
 # Real Decreto Legislativo 2/2015 - Texto Refundido del Estatuto de los Trabajadores
 
 El artículo Uno.d) de la Ley 20/2014, de 29 de octubre, por la que se delega en el Gobierno la potestad de dictar diversos textos refundidos, en virtud de lo establecido en el artículo 82 y siguientes de la Constitución Española, autorizó al Gobierno para aprobar un texto refundido en el que se integrasen, debidamente regularizadas, aclaradas y armonizadas, el texto refundido de la Ley del Estatuto de los Trabajadores, aprobado mediante Real Decreto Legislativo 1/1995, de 24 de marzo, y todas las disposiciones legales relacionadas que se enumeran en ese apartado, así como las normas con rango de ley que las hubieren modificado. El plazo para la realización de dicho texto era de doce meses a partir de la entrada en vigor de la citada Ley 20/2014, que tuvo lugar el 31 de octubre de 2014.

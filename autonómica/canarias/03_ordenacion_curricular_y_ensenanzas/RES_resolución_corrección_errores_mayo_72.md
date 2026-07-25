@@ -13,18 +13,21 @@ clasificacion:
   categoria_canonica: 03_ordenacion_curricular_y_ensenanzas
   subcategoria: Enseñanzas Artísticas
 tags:
-- canarias
-- resolucion
-- boc
-- 03_ordenacion_curricular_y_ensenanzas
-relaciones: {}
+- curriculo
+- ense-anzas-art-sticas
+- ensenanzas-artisticas
+- ensenanzas-deportivas
+- procedimiento-administrativo
+- roc
+relaciones:
+  desarrolla: []
 fundamentos_derecho:
 - norma_id: norm-can-l-6-2014
   articulos:
   - '1'
+- norma_id: norm-es-l-39-2015
 fuente_pdf_oficial: https://sede.gobiernodecanarias.org/boc/boc-a-2011-099-2678.pdf
 ---
-
 # ver Resolución corrección de errores de 12 de mayo de 2011
 
 I. Disposiciones generales

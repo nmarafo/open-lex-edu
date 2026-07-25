@@ -18,17 +18,16 @@ clasificacion:
   categoria_canonica: 09_personal_laboral_y_no_docente
   subcategoria: Convenio colectivo y personal laboral
 tags:
-- canarias
-- resolucion
-- boc
-- 09_personal_laboral_y_no_docente
-relaciones: {}
+- convenio-colectivo-y-personal-laboral
+- equipos-directivos
+- roc
+relaciones:
+  desarrolla: []
 fundamentos_derecho:
 - norma_id: norm-can-l-6-2014
   articulos:
   - '1'
 ---
-
 # Resolución de 30 de enero de 2007, de la Dirección General de Trabajo de la Consejería de Empleo y Asuntos Sociales, relativa al registro, deposito y publicación del Acuerdo de la Comisión Negociadora del Convenio Colectivo del Personal Laboral de la Comunidad Autónoma de Canarias, sobre encuadramiento de diferentes categorías profesionales del Convenio Colectivo del Personal Laboral de la Comunidad Autónoma de Canarias (BOC n.º 36, de 19 de febrero).
 
 BOC - 2007/036. Lunes 19 de Febrero de 2007 - 589

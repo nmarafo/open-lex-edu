@@ -16,18 +16,21 @@ clasificacion:
   categoria_canonica: 08_personal_docente
   subcategoria: Formación del profesorado
 tags:
-- canarias
-- resolucion
-- boc
-- 08_personal_docente
-relaciones: {}
+- educacion-personas-adultas
+- ensenanzas-deportivas
+- equipos-directivos
+- formaci-n-del-profesorado
+- formacion-profesional
+- oposiciones
+relaciones:
+  desarrolla: []
 fundamentos_derecho:
 - norma_id: norm-can-l-6-2014
   articulos:
   - '1'
+- norma_id: norm-es-lo-2-2006
 fuente_pdf_oficial: https://sede.gobiernodecanarias.org/boc/boc-a-2020-130-2054.pdf
 ---
-
 # Resolución de 11 de junio de 2020, por la que se dictan instrucciones para la organización y el funcionamiento del Curso Específico de Acceso a Ciclos Formativos de Formación Profesional de Grado Medio a impartir en centros de educación de personas adultas dependientes de esta Consejería (BOC n.º 130, de 30 de junio).
 
 Martes 30 de junio de 2020

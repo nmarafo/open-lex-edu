@@ -20,10 +20,17 @@ clasificacion:
   categoria_canonica: 05_alumnado_y_servicios_escolares
   subcategoria: Transporte escolar
 tags:
-- canarias
-- transporte_escolar
-- rutas_transporte
+- admision-alumnado
+- atencion-diversidad
+- consejo-escolar
+- curriculo
+- ensenanzas-deportivas
+- equipos-directivos
+- evaluacion
 - gratuidad_transporte
+- rutas_transporte
+- transporte-escolar
+- transporte_escolar
 relaciones:
   desarrolla:
   - norma_id: norm-es-rd-443-2001
@@ -37,9 +44,9 @@ fundamentos_derecho:
 - norma_id: norm-can-l-6-2014
   articulos:
   - '56'
+- norma_id: norm-es-lo-2-2006
 anexos_extraidos_pdf: true
 ---
-
 # Orden de 2 de agosto de 2006, por la que se aprueban las bases que regulan la prestación del servicio de transporte escolar en la Comunidad Autónoma de Canarias.
 
 Gobierno de Canarias

@@ -15,18 +15,22 @@ clasificacion:
   categoria_canonica: 03_ordenacion_curricular_y_ensenanzas
   subcategoria: Educación de Personas Adultas
 tags:
-- canarias
-- resolucion
-- boc
-- 03_ordenacion_curricular_y_ensenanzas
-relaciones: {}
+- curriculo
+- educaci-n-de-personas-adultas
+- educacion-personas-adultas
+- ensenanzas-deportivas
+- eoi
+- equipos-directivos
+- formacion-profesional
+relaciones:
+  desarrolla: []
 fundamentos_derecho:
 - norma_id: norm-can-l-6-2014
   articulos:
   - '1'
+- norma_id: norm-es-lo-2-2006
 fuente_pdf_oficial: https://sede.gobiernodecanarias.org/boc/boc-a-2020-236-4341.pdf
 ---
-
 # Resolución de 5 de noviembre de 2020, por la que se dictan instrucciones para la organización y el funcionamiento de los niveles básico, intermedio y avanzado de la enseñanza del idioma inglés a distancia para personas adultas That's English!
 
 Miércoles 18 de noviembre de 2020

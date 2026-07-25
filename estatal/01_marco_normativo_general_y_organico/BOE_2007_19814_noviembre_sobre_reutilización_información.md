@@ -17,10 +17,9 @@ clasificacion:
   categoria_canonica: 01_marco_normativo_general_y_organico
   subcategoria: Empleados públicos
 tags:
-- estatal
-- boe
-- 01_marco_normativo_general_y_organico
-relaciones: {}
+- empleados-p-blicos
+relaciones:
+  desarrolla: []
 fundamentos_derecho:
 - norma_id: norm-es-ce-1978
   articulos:
@@ -32,7 +31,6 @@ fundamentos_derecho:
   articulos:
   - '1'
 ---
-
 # Ley 37/2007, de 16 de noviembre, sobre reutilización de la información del sector público.
 
 **JUAN CARLOS I**

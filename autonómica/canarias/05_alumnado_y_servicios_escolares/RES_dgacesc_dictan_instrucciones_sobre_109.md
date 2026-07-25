@@ -18,18 +18,26 @@ clasificacion:
   categoria_canonica: 05_alumnado_y_servicios_escolares
   subcategoria: Admisión y escolarización del alumnado
 tags:
-- canarias
-- resolucion
-- boc
-- 05_alumnado_y_servicios_escolares
-relaciones: {}
+- admisi-n-y-escolarizaci-n-del-alumnado
+- admision-alumnado
+- bachillerato
+- educacion-infantil
+- educacion-personas-adultas
+- educacion-primaria
+- ensenanzas-deportivas
+- equipos-directivos
+- eso
+- formacion-profesional
+- plantillas-docentes
+- profesorado
+relaciones:
+  desarrolla: []
 fundamentos_derecho:
 - norma_id: norm-can-l-6-2014
   articulos:
   - '1'
 fuente_pdf_oficial: https://sede.gobiernodecanarias.org/boc/boc-a-2024-049-903.pdf
 ---
-
 # Resolución de 27 de febrero de 2024, de la DGACESC, por la que se dictan instrucciones sobre el proceso de admisión del alumnado en centros docentes que oferten enseñanzas de Educación Infantil, Educación Primaria, Educación Secundaria Obligatoria, Bachillerato y Educación de Personas Adultas en los centros docentes sostenidos con fondos públicos en la Comunidad Autónoma de Canarias (BOC núm. 49, de 7 de marzo).
 
 III. Otras Resoluciones

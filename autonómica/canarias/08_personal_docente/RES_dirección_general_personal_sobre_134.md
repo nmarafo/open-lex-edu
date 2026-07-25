@@ -16,18 +16,27 @@ clasificacion:
   categoria_canonica: 08_personal_docente
   subcategoria: Funcionarios interinos
 tags:
-- canarias
-- resolucion
-- boc
-- 08_personal_docente
-relaciones: {}
+- ensenanzas-deportivas
+- equipos-directivos
+- evaluacion
+- formacion-profesional
+- funcionarios-interinos
+- interinos
+- profesorado
+relaciones:
+  desarrolla:
+  - norma_id: norm-es-lo-3-2022
+    articulos_origen:
+    - Todos
+    articulos_destino:
+    - Todos
 fundamentos_derecho:
 - norma_id: norm-can-l-6-2014
   articulos:
   - '1'
+- norma_id: norm-es-lo-2-2006
 fuente_pdf_oficial: https://sede.gobiernodecanarias.org/boc/boc-a-2023-133-2237.pdf
 ---
-
 # Resolución de 30 de junio de 2023, de la Dirección General de Personal, sobre la ordenación y gestión de determinadas listas de empleo, tras la entrada en vigor de la Ley Orgánica 3/2022, de 31 de marzo, de ordenación e integración de la Formación Profesional (BOC nº 133, de 10 de julio).
 
 III. Otras Resoluciones

@@ -16,18 +16,23 @@ clasificacion:
   categoria_canonica: 03_ordenacion_curricular_y_ensenanzas
   subcategoria: Enseñanzas de Idiomas
 tags:
-- canarias
-- resolucion
-- boc
-- 03_ordenacion_curricular_y_ensenanzas
-relaciones: {}
+- educacion-personas-adultas
+- ense-anzas-de-idiomas
+- ensenanzas-deportivas
+- eoi
+- equipos-directivos
+- evaluacion
+- formacion-profesional
+- oposiciones
+relaciones:
+  desarrolla: []
 fundamentos_derecho:
 - norma_id: norm-can-l-6-2014
   articulos:
   - '1'
+- norma_id: norm-es-lo-2-2006
 fuente_pdf_oficial: https://sede.gobiernodecanarias.org/boc/boc-a-2023-133-2236.pdf
 ---
-
 # Resolución de 27 de junio de 2023, de la Dirección General de Formación Profesional y Educación de Adultos por la que se dictan instrucciones específicas sobre organización y funcionamiento de la Escuela Oficial de Idiomas a Distancia de Canarias. (BOC n.º 133, de 10 de julio).
 
 III. Otras Resoluciones

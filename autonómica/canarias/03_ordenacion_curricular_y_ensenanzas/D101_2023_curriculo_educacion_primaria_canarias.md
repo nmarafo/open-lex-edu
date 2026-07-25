@@ -20,11 +20,18 @@ clasificacion:
   categoria_canonica: 03_ordenacion_curricular_y_ensenanzas
   subcategoria: Educación Primaria
 tags:
-- canarias
-- educacion_primaria
-- curriculo_primaria
 - competencias_clave
+- curriculo
+- curriculo_primaria
+- ebep
+- educaci-n-primaria
+- educacion-primaria
+- educacion_primaria
+- equipos-directivos
 - evaluacion_primaria
+- interinos
+- oposiciones
+- roc
 relaciones:
   desarrolla:
   - norma_id: norm-es-rd-157-2022
@@ -44,7 +51,6 @@ fundamentos_derecho:
   - '18'
 fuente_pdf_oficial: https://sede.gobiernodecanarias.org/boc/boc-a-2023-096-1553.pdf
 ---
-
 # Decreto 101/2023, de 9 de mayo, por el que se establece la ordenación y el currículo de la Educación Primaria en la Comunidad Autónoma de Canarias.
 
 II. Autoridades y personal

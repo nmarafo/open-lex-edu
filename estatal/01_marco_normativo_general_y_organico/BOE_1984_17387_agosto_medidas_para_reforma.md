@@ -16,16 +16,17 @@ clasificacion:
   categoria_canonica: 01_marco_normativo_general_y_organico
   subcategoria: Empleados públicos
 tags:
-- estatal
-- boe
-- 01_marco_normativo_general_y_organico
-relaciones: {}
+- curriculo
+- ebep
+- empleados-p-blicos
+- ensenanzas-artisticas
+relaciones:
+  desarrolla: []
 fundamentos_derecho:
 - norma_id: norm-es-ce-1978
   articulos:
   - '27'
 ---
-
 # Ley 30/1984, de 2 de agosto, de medidas para la reforma de la Función Pública.
 
 **JUAN CARLOS I,**

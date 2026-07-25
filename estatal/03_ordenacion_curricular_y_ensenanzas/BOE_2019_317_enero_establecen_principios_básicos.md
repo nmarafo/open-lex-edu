@@ -19,10 +19,13 @@ clasificacion:
   categoria_canonica: 03_ordenacion_curricular_y_ensenanzas
   subcategoria: Enseñanzas de Idiomas
 tags:
-- estatal
-- boe
-- 03_ordenacion_curricular_y_ensenanzas
-relaciones: {}
+- curriculo
+- ense-anzas-de-idiomas
+- eoi
+- evaluacion
+- profesorado
+relaciones:
+  desarrolla: []
 fundamentos_derecho:
 - norma_id: norm-es-ce-1978
   articulos:
@@ -35,7 +38,6 @@ fundamentos_derecho:
   articulos:
   - '1'
 ---
-
 # Real Decreto 1/2019, de 11 de enero, por el que se establecen los principios básicos comunes de evaluación aplicables a las pruebas de certificación oficial de los niveles Intermedio B1, Intermedio B2, Avanzado C1, y Avanzado C2 de las enseñanzas de idiomas de régimen especial.
 
 La Ley Orgánica 2/2006, de 3 de mayo, de Educación, regula, en sus artículos 59 a 62, las enseñanzas de idiomas de régimen especial. Por lo que respecta a la certificación de estas enseñanzas, la citada ley, en su artículo 61.1, determina que la superación de las exigencias académicas establecidas para cada uno de los niveles de las enseñanzas de idiomas de régimen especial dará derecho a la obtención del certificado correspondiente, cuyos efectos se establecerán en la definición de los aspectos básicos del currículo de las distintas lenguas. Asimismo, en el apartado 2 de su artículo 61, la ley establece que la evaluación de los alumnos que cursen sus estudios en las escuelas oficiales de idiomas, a los efectos de lo previsto en dicho artículo 61, será hecha por el profesorado respectivo, y que las administraciones educativas regularán las pruebas terminales, que realizará el profesorado, para la obtención de los certificados oficiales de los niveles básico, intermedio y avanzado.

@@ -19,10 +19,14 @@ clasificacion:
   categoria_canonica: 03_ordenacion_curricular_y_ensenanzas
   subcategoria: Bachillerato
 tags:
-- estatal
-- boe
-- 03_ordenacion_curricular_y_ensenanzas
-relaciones: {}
+- bachillerato
+- consejo-escolar
+- curriculo
+- eso
+- evaluacion
+- profesorado
+relaciones:
+  desarrolla: []
 fundamentos_derecho:
 - norma_id: norm-es-ce-1978
   articulos:
@@ -32,7 +36,6 @@ fundamentos_derecho:
   - '1'
   - '2'
 ---
-
 # Real Decreto 102/2010, de 5 de febrero, por el que se regula la ordenación de las enseñanzas acogidas al acuerdo entre el Gobierno de España y el Gobierno de Francia relativo a la doble titulación de Bachiller y de Baccalauréat en centros docentes españoles.
 
 Con fecha 16 de mayo de 2005 se firma el Acuerdo Marco entre el Gobierno del Reino de España y el Gobierno de la República Francesa relativo a programas educativos, lingüísticos y culturales en centros escolares de los dos Estados. Dicho Acuerdo hace referencia en su artículo 7 a una posible integración de los currículos respectivos de Educación Secundaria en un currículo común mixto, con objeto de otorgar una doble titulación al término de los estudios secundarios, a los alumnos que superen este currículo integrado.

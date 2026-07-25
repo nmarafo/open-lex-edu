@@ -16,18 +16,26 @@ clasificacion:
   categoria_canonica: 03_ordenacion_curricular_y_ensenanzas
   subcategoria: Formación Profesional
 tags:
-- canarias
-- resolucion
-- boc
-- 03_ordenacion_curricular_y_ensenanzas
-relaciones: {}
+- curriculo
+- ensenanzas-deportivas
+- equipos-directivos
+- evaluacion
+- formaci-n-profesional
+- formacion-profesional
+- profesorado
+relaciones:
+  desarrolla:
+  - norma_id: norm-es-lo-3-2022
+    articulos_origen:
+    - Todos
+    articulos_destino:
+    - Todos
 fundamentos_derecho:
 - norma_id: norm-can-l-6-2014
   articulos:
   - '1'
 fuente_pdf_oficial: https://sede.gobiernodecanarias.org/boc/boc-a-2025-118-2219.pdf
 ---
-
 # Resolución de 9 de junio de 2025, por la que se dictan instrucciones respecto al proceso de evaluación en los Ciclos Formativos (Grados C y D) y Cursos de Especialización (Grado E) del sistema de formación profesional que se imparten en la Comunidad Autónoma de Canarias a partir del curso escolar 2024/2025.
 
 III. Otras Resoluciones

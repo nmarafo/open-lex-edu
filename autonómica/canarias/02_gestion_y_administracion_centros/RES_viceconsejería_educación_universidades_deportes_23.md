@@ -18,18 +18,20 @@ clasificacion:
   categoria_canonica: 02_gestion_y_administracion_centros
   subcategoria: Colectivos de Escuelas Rurales (CER)
 tags:
-- canarias
-- resolucion
-- boc
-- 02_gestion_y_administracion_centros
-relaciones: {}
+- autonomia-centro
+- colectivos-de-escuelas-rurales-cer
+- ensenanzas-deportivas
+- equipos-directivos
+- evaluacion
+relaciones:
+  desarrolla: []
 fundamentos_derecho:
 - norma_id: norm-can-l-6-2014
   articulos:
   - '1'
+- norma_id: norm-es-lo-2-2006
 fuente_pdf_oficial: https://sede.gobiernodecanarias.org/boc/boc-a-2022-143-2426.pdf
 ---
-
 # Resolución de 10 de junio de 2021, de la Viceconsejería de Educación, Universidades y Deportes, por la que se establece la composición de la comisión de seguimiento del acuerdo entre la Consejería de Educación y los Colectivos de Escuelas Rurales/Unitarias sobre los servicios educativos públicos en las Escuelas Unitarias de Canarias y se nombra a los vocales de dicha comisión.
 
 III. Otras Resoluciones

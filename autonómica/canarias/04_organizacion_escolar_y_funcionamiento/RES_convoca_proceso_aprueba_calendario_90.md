@@ -16,18 +16,20 @@ clasificacion:
   categoria_canonica: 04_organizacion_escolar_y_funcionamiento
   subcategoria: Consejos escolares
 tags:
-- canarias
-- resolucion
-- boc
-- 04_organizacion_escolar_y_funcionamiento
-relaciones: {}
+- admision-alumnado
+- consejos-escolares
+- ensenanzas-deportivas
+- equipos-directivos
+- formacion-profesional
+relaciones:
+  desarrolla: []
 fundamentos_derecho:
 - norma_id: norm-can-l-6-2014
   articulos:
   - '1'
+- norma_id: norm-es-lo-2-2006
 fuente_pdf_oficial: https://sede.gobiernodecanarias.org/boc/boc-a-2026-125-2192.pdf
 ---
-
 # Resolución de 15 de junio de 2026, por la que se convoca el proceso y se aprueba el calendario para la renovación parcial o la nueva constitución de los Consejos de los Colectivos de Escuelas Rurales en la Comunidad Autónoma de Canarias, a celebrar en el curso escolar 2026-2027.
 
 III. Otras Resoluciones

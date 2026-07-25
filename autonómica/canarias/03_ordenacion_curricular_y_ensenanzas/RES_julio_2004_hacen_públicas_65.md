@@ -16,18 +16,24 @@ clasificacion:
   categoria_canonica: 03_ordenacion_curricular_y_ensenanzas
   subcategoria: Enseñanzas Artísticas
 tags:
-- canarias
-- resolucion
-- boc
-- 03_ordenacion_curricular_y_ensenanzas
-relaciones: {}
+- curriculo
+- educacion-personas-adultas
+- ense-anzas-art-sticas
+- ensenanzas-artisticas
+- ensenanzas-deportivas
+- equipos-directivos
+- evaluacion
+- formacion-profesional
+- oposiciones
+- profesorado
+relaciones:
+  desarrolla: []
 fundamentos_derecho:
 - norma_id: norm-can-l-6-2014
   articulos:
   - '1'
 anexos_extraidos_pdf: true
 ---
-
 # - Resolución de la Dirección General de Formación Profesional y Educación de Adultos,de 27 de julio de 2004, por la que se hacen públicas las instrucciones dictadas sobre la organización y funcionamiento de los Conservatorios y Centros Autorizados elementales y profesionales de música, en la Comunidad Autónoma de Canarias
 
 BOC - 2004/189. Miércoles 29 de Septiembre de 2004 - 1380

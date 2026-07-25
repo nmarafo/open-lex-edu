@@ -16,18 +16,23 @@ clasificacion:
   categoria_canonica: 07_convivencia_bienestar_y_protocolos
   subcategoria: Orientaciones y guías de actuación
 tags:
-- canarias
-- resolucion
-- boc
-- 07_convivencia_bienestar_y_protocolos
-relaciones: {}
+- autonomia-centro
+- bachillerato
+- educacion-personas-adultas
+- ensenanzas-artisticas
+- eso
+- evaluacion
+- orientaciones-y-gu-as-de-actuaci-n
+- profesorado
+relaciones:
+  desarrolla: []
 fundamentos_derecho:
 - norma_id: norm-can-l-6-2014
   articulos:
   - '1'
+- norma_id: norm-es-lo-2-2006
 fuente_pdf_oficial: https://sede.gobiernodecanarias.org/boc/boc-a-2018-124-3068.pdf
 ---
-
 # Resolución de 21 de junio de 2018, de la Viceconsejería de Educación y Universidades, por la que se dictan instrucciones de organización y funcionamiento dirigidas a los centros docentes públicos no universitarios de la Comunidad Autónoma de Canarias para el curso 2018/19 (BOC n.º 124, de 28 de junio).
 
 Jueves 28 de junio de 2018

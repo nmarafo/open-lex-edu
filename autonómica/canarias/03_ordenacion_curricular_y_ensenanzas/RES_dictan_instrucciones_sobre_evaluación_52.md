@@ -15,18 +15,23 @@ clasificacion:
   categoria_canonica: 03_ordenacion_curricular_y_ensenanzas
   subcategoria: Enseñanzas de Idiomas
 tags:
-- canarias
-- resolucion
-- boc
-- 03_ordenacion_curricular_y_ensenanzas
-relaciones: {}
+- curriculo
+- educacion-personas-adultas
+- ense-anzas-de-idiomas
+- ensenanzas-deportivas
+- eoi
+- equipos-directivos
+- evaluacion
+- formacion-profesional
+relaciones:
+  desarrolla: []
 fundamentos_derecho:
 - norma_id: norm-can-l-6-2014
   articulos:
   - '1'
+- norma_id: norm-es-lo-2-2006
 fuente_pdf_oficial: https://sede.gobiernodecanarias.org/boc/boc-a-2019-234-5741.pdf
 ---
-
 # Resolución de 18 de noviembre de 2019, por la que se dictan instrucciones sobre evaluación de las pruebas de certificación de enseñanzas de idiomas de régimen especial en la Comunidad Autónoma de Canarias (BOC n.º 234, de 3 de diciembre).
 
 Martes 3 de diciembre de 2019

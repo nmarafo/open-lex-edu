@@ -16,17 +16,24 @@ clasificacion:
   categoria_canonica: 05_alumnado_y_servicios_escolares
   subcategoria: Residencias escolares
 tags:
-- canarias
-- resolucion
-- boc
-- 05_alumnado_y_servicios_escolares
-relaciones: {}
+- autonomia-centro
+- comedor-escolar
+- consejo-escolar
+- ensenanzas-deportivas
+- equipos-directivos
+- evaluacion
+- organizacion-escolar
+- orientacion-educativa
+- profesorado
+- residencias-escolares
+- roc
+relaciones:
+  desarrolla: []
 fundamentos_derecho:
 - norma_id: norm-can-l-6-2014
   articulos:
   - '1'
 ---
-
 # Resolución de 15 de julio de 1992, de la Dirección General de Promoción Educativa, por la que se dictan instrucciones para la organización y funcionamiento de las Residencias Escolares.
 
 BOC - 1992/106. Viernes 31 de Julio de 1992 - 1164

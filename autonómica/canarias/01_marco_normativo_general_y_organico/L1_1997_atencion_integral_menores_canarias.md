@@ -19,10 +19,13 @@ clasificacion:
   categoria_canonica: 01_marco_normativo_general_y_organico
   subcategoria: Protección jurídica de menores
 tags:
-- canarias
-- proteccion_menores
 - atencion_integral
+- bienestar-infantil
+- curriculo
 - desamparo_riesgo
+- gestion-economica
+- protecci-n-jur-dica-de-menores
+- proteccion_menores
 relaciones:
   desarrolla:
   - norma_id: norm-es-lo-1-1996
@@ -39,7 +42,6 @@ fundamentos_derecho:
   articulos:
   - '27'
 ---
-
 # Ley 1/1997 de Atención Integral a los Menores de Canarias
 
 Sea notorio a todos los ciudadanos que el Parlamento de Canarias ha aprobado y yo, en nombre del Rey y de acuerdo con lo que establece el artículo 12.8 del Estatuto de Autonomía, promulgo y ordeno la publicación de la siguiente Ley:

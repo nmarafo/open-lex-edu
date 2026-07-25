@@ -22,11 +22,17 @@ clasificacion:
   categoria_canonica: 08_personal_docente
   subcategoria: Selección y provisión de puestos
 tags:
-- concurso_traslados
-- provision_plazas
 - baremo_meritos
+- concurso-traslados
+- concurso_traslados
+- curriculo
+- ebep
 - movilidad_docente
-- estatal
+- oposiciones
+- plantillas-docentes
+- profesorado
+- provision_plazas
+- selecci-n-y-provisi-n-de-puestos
 relaciones:
   desarrolla:
   - norma_id: norm-es-lo-2-2006
@@ -43,7 +49,6 @@ fundamentos_derecho:
   articulos:
   - '1'
 ---
-
 # Real Decreto 1364/2010 - Concurso de Traslados Estatal Docente
 
 La Ley Orgánica 2/2006, de 3 de mayo, de Educación, tiene como objetivo esencial la exigencia de proporcionar una educación de calidad para todos y entre todos. Según se señala en su preámbulo, uno de sus principios orientadores se refiere a la necesidad de que todos los componentes de la comunidad educativa colaboren para conseguir ese objetivo, indicando expresamente que las políticas dirigidas al profesorado constituyen uno de los elementos más valiosos y decisivos a la hora de lograr la eficacia y la eficiencia de los sistemas de educación y de formación.

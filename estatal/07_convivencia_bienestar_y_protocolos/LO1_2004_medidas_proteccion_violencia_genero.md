@@ -19,17 +19,23 @@ clasificacion:
   categoria_canonica: 07_convivencia_bienestar_y_protocolos
   subcategoria: Protocolos de actuación y protección
 tags:
-- violencia_genero
 - igualdad
 - proteccion_victimas
-- estatal
-relaciones: {}
+- protocolos-de-actuaci-n-y-protecci-n
+- violencia_genero
+relaciones:
+  desarrolla: []
+  desarrollado_por:
+  - norma_id: norm-can-l-16-2003
+    articulos_origen:
+    - Todos
+    articulos_destino:
+    - Todos
 fundamentos_derecho:
 - norma_id: norm-es-ce-1978
   articulos:
   - '14'
 ---
-
 # Ley Orgánica 1/2004 de Medidas de Protección Integral contra la Violencia de Género
 
 **JUAN CARLOS I**

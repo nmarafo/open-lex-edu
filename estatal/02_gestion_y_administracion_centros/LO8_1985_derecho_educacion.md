@@ -18,18 +18,31 @@ clasificacion:
   categoria_canonica: 02_gestion_y_administracion_centros
   subcategoria: Centros privados concertados
 tags:
-- lode
-- derecho_educacion
+- bienestar-infantil
+- centros-privados-concertados
 - centros_concertados
+- derecho_educacion
 - ideario_centro
-- estatal
-relaciones: {}
+- lode
+- profesorado
+relaciones:
+  desarrolla: []
+  desarrollado_por:
+  - norma_id: norm-es-rd-2377-1985
+    articulos_origen:
+    - Todos
+    articulos_destino:
+    - Todos
+  - norma_id: norm-es-rd-1533-1986
+    articulos_origen:
+    - Todos
+    articulos_destino:
+    - Todos
 fundamentos_derecho:
 - norma_id: norm-es-ce-1978
   articulos:
   - '27'
 ---
-
 # Ley Orgánica 8/1985 reguladora del Derecho a la Educación (LODE)
 
 **JUAN CARLOS I,**

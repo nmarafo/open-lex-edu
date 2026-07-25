@@ -17,10 +17,11 @@ clasificacion:
   categoria_canonica: 02_gestion_y_administracion_centros
   subcategoria: Centros extranjeros
 tags:
-- estatal
-- boe
-- 02_gestion_y_administracion_centros
-relaciones: {}
+- centros-extranjeros
+- consejo-escolar
+- procedimiento-administrativo
+relaciones:
+  desarrolla: []
 fundamentos_derecho:
 - norma_id: norm-es-ce-1978
   articulos:
@@ -30,7 +31,6 @@ fundamentos_derecho:
   - '1'
   - '6'
 ---
-
 # Real Decreto 104/1988, de 29 de enero, sobre homologación y convalidación de títulos y estudios extranjeros de educación no universitaria.
 
 El artículo 149.1.30 de la Constitución establece que el Estado tiene competencia exclusiva en orden a la regulación de las condiciones de obtención, expedición y homologación de títulos académicos y profesionales.

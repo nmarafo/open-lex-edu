@@ -19,17 +19,23 @@ clasificacion:
   categoria_canonica: 01_marco_normativo_general_y_organico
   subcategoria: Protección jurídica de menores
 tags:
-- proteccion_menores
 - derechos_infancia
+- protecci-n-jur-dica-de-menores
+- proteccion_menores
 - tutela_guarda
-- estatal
-relaciones: {}
+relaciones:
+  desarrolla: []
+  desarrollado_por:
+  - norma_id: norm-can-l-1-1997
+    articulos_origen:
+    - Todos
+    articulos_destino:
+    - Todos
 fundamentos_derecho:
 - norma_id: norm-es-ce-1978
   articulos:
   - '39'
 ---
-
 # Ley Orgánica 1/1996 de Protección Jurídica del Menor
 
 **JUAN CARLOS I**

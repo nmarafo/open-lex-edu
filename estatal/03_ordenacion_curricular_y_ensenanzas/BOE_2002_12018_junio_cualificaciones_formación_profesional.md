@@ -17,10 +17,13 @@ clasificacion:
   categoria_canonica: 03_ordenacion_curricular_y_ensenanzas
   subcategoria: Formación Profesional
 tags:
-- estatal
-- boe
-- 03_ordenacion_curricular_y_ensenanzas
-relaciones: {}
+- convivencia
+- evaluacion
+- formaci-n-profesional
+- formacion-profesional
+- orientacion-educativa
+relaciones:
+  desarrolla: []
 fundamentos_derecho:
 - norma_id: norm-es-ce-1978
   articulos:
@@ -29,7 +32,6 @@ fundamentos_derecho:
   articulos:
   - '1'
 ---
-
 # Ley Orgánica 5/2002, de 19 de junio, de las Cualificaciones y de la Formación Profesional.
 
 **JUAN CARLOS I**

@@ -20,11 +20,15 @@ clasificacion:
   categoria_canonica: 03_ordenacion_curricular_y_ensenanzas
   subcategoria: Formación Profesional
 tags:
-- fp
-- sistema_fp
-- grados_fp
+- curriculo
 - dual
-- estatal
+- evaluacion
+- formaci-n-profesional
+- formacion-profesional
+- fp
+- grados_fp
+- orientacion-educativa
+- sistema_fp
 relaciones:
   desarrolla:
   - norma_id: norm-es-lo-3-2022
@@ -34,12 +38,72 @@ relaciones:
     - Todos
     nota: Desarrolla el reglamento general del Sistema de Formación Profesional establecido
       por la Ley Orgánica 3/2022.
+  desarrollado_por:
+  - norma_id: norm-can-res-042
+    articulos_origen:
+    - Todos
+    articulos_destino:
+    - Todos
+  - norma_id: norm-can-res-034
+    articulos_origen:
+    - Todos
+    articulos_destino:
+    - Todos
+  - norma_id: norm-can-res-035
+    articulos_origen:
+    - Todos
+    articulos_destino:
+    - Todos
+  - norma_id: norm-can-res-boc-2024-226-44
+    articulos_origen:
+    - Todos
+    articulos_destino:
+    - Todos
+  - norma_id: norm-can-res-036
+    articulos_origen:
+    - Todos
+    articulos_destino:
+    - Todos
+  - norma_id: norm-can-res-boc-2025-046-47
+    articulos_origen:
+    - Todos
+    articulos_destino:
+    - Todos
+  - norma_id: norm-es-2025-2039
+    articulos_origen:
+    - Todos
+    articulos_destino:
+    - Todos
+  - norma_id: norm-can-res-038
+    articulos_origen:
+    - Todos
+    articulos_destino:
+    - Todos
+  - norma_id: norm-can-res-037
+    articulos_origen:
+    - Todos
+    articulos_destino:
+    - Todos
+  - norma_id: norm-can-res-039
+    articulos_origen:
+    - Todos
+    articulos_destino:
+    - Todos
+  - norma_id: norm-can-res-033
+    articulos_origen:
+    - Todos
+    articulos_destino:
+    - Todos
+  - norma_id: norm-can-res-boc-2024-230-25
+    articulos_origen:
+    - Todos
+    articulos_destino:
+    - Todos
 fundamentos_derecho:
 - norma_id: norm-es-lo-3-2022
   articulos:
   - '1'
 ---
-
 # Real Decreto 659/2023 - Ordenación General del Sistema de Formación Profesional
 
 **ÍNDICE**

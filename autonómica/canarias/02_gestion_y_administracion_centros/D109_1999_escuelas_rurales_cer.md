@@ -20,11 +20,13 @@ clasificacion:
   categoria_canonica: 02_gestion_y_administracion_centros
   subcategoria: Colectivos de Escuelas Rurales (CER)
 tags:
-- canarias
-- escuelas_rurales
 - cer
-- organizacion_escolar
+- colectivos-de-escuelas-rurales-cer
+- curriculo
+- escuelas_rurales
 - escuelas_unitarias
+- oposiciones
+- organizacion_escolar
 relaciones:
   desarrolla:
   - norma_id: norm-can-l-6-2014
@@ -38,58 +40,83 @@ fundamentos_derecho:
 - norma_id: norm-es-lo-2-2006
   articulos:
   - '82'
+fuente_pdf_oficial: https://www.gobiernodecanarias.org/boc/1999/079/boc-1999-079-007.pdf
+anexos_extraidos_pdf: true
+ocr_procesado: true
 ---
-
 # Decreto 109/1999, de 25 de mayo, por el que se regula el régimen de creación y funcionamiento de los Colectivos de Escuelas Rurales.
 
-Gobierno de Canarias
+--- Página 1 (Transcripción OCR) ---
 
-Comunidad Autónoma de Canarias
-
-Boletín Oficial de Canarias
-
-Accesibilidad
-
-Mapa web
-
-Contacto
-
-Inicio
-
-Archivo
-
-Búsqueda
-
-Estás en:
-
-Inicio
-
-Archivo
-
-Año 1999
-
-1999/079. Viernes 18 de Junio de 1999
-
-Anterior
-
-Siguiente
-
-II. AUTORIDADES Y PERSONAL - Otras Administraciones - Universidad de La Laguna
-
-1007 - RESOLUCIÓN de 15 de abril de 1999, por la que se convocan pruebas selectivas para la provisión de plazas vacantes de la plantilla de personal laboral de esta Universidad.
-
-Descargar en formato pdf
-
-En cumplimiento de lo dispuesto en los Estatutos de esta Universidad, aprobados por Decreto 192/1985, de 23 de junio (B.O.E. nº 248, de 16 de octubre) y del vigente Convenio Colectivo para el Personal Laboral de Universidades Estatales (B.O.E. de 6 de octubre de 1990), con el fin de atender las necesidades del personal laboral, este Rectorado, en uso de las competencias que le están atribuidas por los artículos 18 y 49 de la Ley 11/1983, de 25 de agosto, de Reforma Universitaria, así como en los Estatutos de esta Universidad, ha resuelto:
-
-Primero.- Convocar, por el procedimiento de concurso-oposición, las plazas vacantes de la plantilla laboral de esta Universidad, que se detallan en el anexo de la presente Resolución.
-
-Segundo.- La realización de las pruebas se ajustará a lo establecido en la Ley 30/1984, de 2 de agosto; Ley 23/1988, de 29 de julio, de modificación de la Ley de Medidas para la Reforma anterior; Real Decreto 364/1995, de 10 de marzo (B.O.E. de 10 de abril), que aprueba el Reglamento General de Ingreso del Personal al servicio de la Administración General del Estado y de Provisión de Puestos de Trabajo y Promoción Profesional de los Funcionarios Civiles de la Administración General del Estado, así como las bases de la convocatoria.
-
-Tercero.- Los requisitos específicos para la categoría profesional de las plazas, órganos de selección, contenido de los ejercicios, y demás bases de la convocatoria figuran expuestas en los tablones de anuncios del Rectorado de la Universidad de La Laguna.
-
-Cuarto.- El plazo de presentación de solicitudes es de veinte días naturales, contados a partir de la publicación de esta convocatoria en el Boletín Oficial de Canarias.
-
-Quinto.- Las relaciones provisionales de admitidos y excluidos se harán públicas en el Boletín Oficial de Canarias y en los tablones de anuncios del Rectorado.
-
-La Laguna, a 15 de abril de 1999.- El Rector, José S. Gómez Soliño.
+9324
+Boletin Oficial de Canarias nim. 79, viernes 18 de junio de 1999
+ANEXO IV
+Primero.- Convocar, por el procedimiento de con-
+curso-oposicion, las plazas vacantes de la plantilla la-
+TABLADE EQUIVALENCIAS
+boral de esta Universidad, que se detallan en el ane-
+xo de la presente Resolucion.
+N' NUEVO
+N ANTIGUO
+130204002
+130204003
+Segundo.- La realizacion de las pruebas se ajus-
+130204003
+130204004
+tara a lo establecido en la Ley 30/1984, de 2 de ag0s-
+to; Ley 23/1988, de 29 de julio, de modificaci6n de
+la Ley de Medidas para la Reforma anterior; Real Decreto
+364/1995, de 10 de marz0 (B.0.E. de 10 de abril),
+que aprueba el Reglamento General de Ingreso del
+Personal al servicio de la Administracion General del
+II.AUTORIDADES Y PERSONAL
+Estado y de Provisin de Puestos de Trabajo y
+Oposiciones y concursos
+Promocion Profesional de los Funcionarios Civiles
+de la Administracion General del Estado, asi como
+Otras Administraciones
+las bases de la convocatoria.
+Universidad de La Laguna
+Tercero.- Los requisitos especificos para la cate-
+goria profesional de las plazas, organos de selec-
+1007 RESOLUCION de 15 de abril de 1999, por la
+cion, contenido de los ejercicios, y demas bases de
+que se convocan pruebas selectivas para la pro-
+la convocatoria figuran expuestas en los tablones de
+vision de plazas vacantes de la plantilla de per-
+anuncios del Rectorado de la Universidad de La
+sonal laboral de esta Universidad.
+Laguna.
+En cumplimiento de lo dispuesto en los Estatutos
+Cuarto.- El plazo de presentacion de solicitudes
+de esta Universidad, aprobados por Decreto 192/1985,
+es de veinte dias naturales, contados a partir de la pu-
+de 23 de junio (B.0.E. n° 248, de 16 de octubre) y
+blicacion de esta convocatoria en el Boletin Oficial
+del vigente Convenio Colectivo para el Personal
+de Canarias.
+Laboral de Universidades Estatales (B.O.E. de 6 de
+octubre de 1990), con el fin de atender las necesida-
+Quinto.- Las relaciones provisionales de admiti-
+des del personal laboral, este Rectorado, en uso de
+dos y excluidos se haran publicas en el Boletin Oficial
+las competencias que le estan atribuidas por los ar-
+de Canarias y en los tablones de anuncios del Rectorado.
+ticulos i8 y 49 de la Ley 11/1983, de 25 de agosto,
+de Reforma Universitaria, asi como en los Estatutos
+La Laguna, a 15 de abril de 1999.- El Rector, José
+de esta Universidad, ha resuelto:
+S. Gomez Solino.
+ANEXO
+NUMERO
+GRUPO
+CATEGORIA
+VACANTES
+CONVENIO
+PROFESIONAL
+TECNICO ESPECIALISTA (AS/400)
+TECNICO ESPECIALISTA (ESPECIALISTA
+DE SISTEMAS)
+TECNICA ESPECIALISTA
+(SOPORTE DE
+SISTEMAS ABIERTOS)

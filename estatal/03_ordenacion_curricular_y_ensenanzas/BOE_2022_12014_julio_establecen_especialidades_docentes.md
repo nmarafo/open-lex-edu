@@ -18,10 +18,15 @@ clasificacion:
   categoria_canonica: 03_ordenacion_curricular_y_ensenanzas
   subcategoria: Enseñanzas Artísticas
 tags:
-- estatal
-- boe
-- 03_ordenacion_curricular_y_ensenanzas
-relaciones: {}
+- bachillerato
+- curriculo
+- ebep
+- ense-anzas-art-sticas
+- ensenanzas-artisticas
+- evaluacion
+- profesorado
+relaciones:
+  desarrolla: []
 fundamentos_derecho:
 - norma_id: norm-es-ce-1978
   articulos:
@@ -29,8 +34,8 @@ fundamentos_derecho:
 - norma_id: norm-es-l-39-2015
   articulos:
   - '1'
+- norma_id: norm-es-lo-2-2006
 ---
-
 # Real Decreto 588/2022, de 19 de julio, por el que se establecen las especialidades docentes de los Cuerpos de Profesores y de Catedráticos de Música y Artes Escénicas vinculadas a las enseñanzas de Arte Dramático.
 
 La Ley Orgánica 2/2006, de 3 de mayo, de Educación, señala en su artículo 58 que corresponde al Gobierno, previa consulta a las Comunidades Autónomas y al Consejo Superior de Enseñanzas Artísticas, definir la estructura y el contenido básicos de los diferentes estudios de enseñanzas artísticas superiores regulados en ella.

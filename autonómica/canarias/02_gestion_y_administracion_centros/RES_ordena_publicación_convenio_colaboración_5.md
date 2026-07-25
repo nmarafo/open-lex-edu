@@ -18,18 +18,25 @@ clasificacion:
   categoria_canonica: 02_gestion_y_administracion_centros
   subcategoria: Administración electrónica y firmas
 tags:
-- canarias
-- resolucion
-- boc
-- 02_gestion_y_administracion_centros
-relaciones: {}
+- administraci-n-electr-nica-y-firmas
+- equipos-directivos
+- evaluacion
+- oposiciones
+- procedimiento-administrativo
+relaciones:
+  desarrolla:
+  - norma_id: norm-es-l-40-2015
+    articulos_origen:
+    - Todos
+    articulos_destino:
+    - Todos
 fundamentos_derecho:
 - norma_id: norm-can-l-6-2014
   articulos:
   - '1'
+- norma_id: norm-es-l-39-2015
 fuente_pdf_oficial: https://sede.gobiernodecanarias.org/boc/boc-a-2017-235-5824.pdf
 ---
-
 # Secretaría General Técnica.- Resolución de 15 de marzo de 2016, por la que se ordena la publicación del Convenio de Colaboración entre la Consejería de Educación y Universidades y la Agencia Canaria de Calidad Universitaria y Evaluación Educativa (ACCUEE), para la incorporación de este organismo a la sede electrónica de la Consejería de Educación y Universidades, para la utilización de su registro electrónico (BOC n.º 57, de 23 de marzo).
 
 https://sede.gobcan.es/cpji/boc

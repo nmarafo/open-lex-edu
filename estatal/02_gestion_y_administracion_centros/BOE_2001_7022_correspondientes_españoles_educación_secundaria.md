@@ -20,10 +20,12 @@ clasificacion:
   categoria_canonica: 02_gestion_y_administracion_centros
   subcategoria: Centros extranjeros
 tags:
-- estatal
-- boe
-- 02_gestion_y_administracion_centros
-relaciones: {}
+- bachillerato
+- centros-extranjeros
+- consejo-escolar
+- eso
+relaciones:
+  desarrolla: []
 fundamentos_derecho:
 - norma_id: norm-can-d-81-2010
   articulos:
@@ -33,7 +35,6 @@ fundamentos_derecho:
   articulos:
   - '120'
 ---
-
 # Orden de 20 de marzo de 2001 por la que se regula el régimen de equivalencias de los estudios básicos y medios cursados en los países signatarios del Convenio "Andrés Bello", con los correspondientes españoles de Educación Secundaria Obligatoria y Bachillerato establecidos por la Ley Orgánica 1/1990, de 3 de octubre, de Ordenación General del Sistema Educativo.
 
 En cumplimiento del artículo 4 del Convenio, la XIX Reunión de Ministros de Educación de los países signatarios aprobó la Resolución número 006-98 por la que se actualizan las equivalencias de estudios realizados conforme a los respectivos sistemas educativos. Es preciso, por tanto, incorporar tales equivalencias al ordenamiento español.

@@ -20,10 +20,19 @@ clasificacion:
   categoria_canonica: 01_marco_normativo_general_y_organico
   subcategoria: Estructura de la Consejería
 tags:
-- canarias
-- gobierno_canarias
+- curriculo
+- estructura-de-la-consejer-a
 - estructura_organica
-relaciones: {}
+- gobierno_canarias
+- roc
+relaciones:
+  desarrolla: []
+  desarrollado_por:
+  - norma_id: norm-can-d-84-2024
+    articulos_origen:
+    - Todos
+    articulos_destino:
+    - Todos
 fundamentos_derecho:
 - norma_id: norm-can-lo-1-2018
   articulos:
@@ -32,7 +41,6 @@ fundamentos_derecho:
 anexos_extraidos_pdf: true
 ocr_procesado: true
 ---
-
 # Decreto 123/2023, de 17 de julio, por el que se determina la estructura orgánica y las sedes de las Consejerías del Gobierno de Canarias.
 
 https://sede.gobiernodecanarias.org/boc

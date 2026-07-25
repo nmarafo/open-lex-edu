@@ -18,17 +18,29 @@ clasificacion:
   categoria_canonica: 02_gestion_y_administracion_centros
   subcategoria: Prevención de riesgos y salud laboral
 tags:
+- prevenci-n-de-riesgos-y-salud-laboral
+- prevencion-riesgos-laborales
 - prevencion_riesgos
 - salud_laboral
 - seguridad_trabajo
-- estatal
-relaciones: {}
+relaciones:
+  desarrolla: []
+  desarrollado_por:
+  - norma_id: norm-es-rd-39-1997
+    articulos_origen:
+    - Todos
+    articulos_destino:
+    - Todos
+  - norma_id: norm-can-d-168-2009
+    articulos_origen:
+    - Todos
+    articulos_destino:
+    - Todos
 fundamentos_derecho:
 - norma_id: norm-es-ce-1978
   articulos:
   - '40.2'
 ---
-
 # Ley 31/1995 de Prevención de Riesgos Laborales
 
 **JUAN CARLOS I**

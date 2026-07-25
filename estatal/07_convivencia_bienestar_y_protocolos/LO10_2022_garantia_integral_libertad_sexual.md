@@ -19,11 +19,12 @@ clasificacion:
   categoria_canonica: 07_convivencia_bienestar_y_protocolos
   subcategoria: Protocolos de actuación y protección
 tags:
-- libertad_sexual
 - coeducacion
+- libertad_sexual
 - prevencion_violencia_sexual
-- estatal
-relaciones: {}
+- protocolos-de-actuaci-n-y-protecci-n
+relaciones:
+  desarrolla: []
 fundamentos_derecho:
 - norma_id: norm-es-ce-1978
   articulos:
@@ -33,7 +34,6 @@ fundamentos_derecho:
   articulos:
   - '1'
 ---
-
 # Ley Orgánica 10/2022 de Garantía Integral de la Libertad Sexual
 
 **FELIPE VI**

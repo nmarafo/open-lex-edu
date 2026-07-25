@@ -19,16 +19,32 @@ clasificacion:
   categoria_canonica: 08_personal_docente
   subcategoria: Especialidades y habilitaciones
 tags:
-- estatal
-- boe
-- 08_personal_docente
-relaciones: {}
+- bachillerato
+- curriculo
+- ebep
+- eso
+- especialidades-y-habilitaciones
+- evaluacion
+- formacion-profesional
+- profesorado
+relaciones:
+  desarrolla:
+  - norma_id: norm-es-rd-217-2022
+    articulos_origen:
+    - Todos
+    articulos_destino:
+    - Todos
+  - norma_id: norm-es-rd-243-2022
+    articulos_origen:
+    - Todos
+    articulos_destino:
+    - Todos
 fundamentos_derecho:
 - norma_id: norm-es-ce-1978
   articulos:
   - '27'
+- norma_id: norm-es-lo-2-2006
 ---
-
 # Real Decreto 286/2023, de 18 de abril, por el que se regula la asignación de materias en Educación Secundaria Obligatoria y en Bachillerato a las especialidades de distintos cuerpos de funcionarios docentes, y se modifican diversas normas relativas al profesorado de enseñanzas no universitarias.
 
 La Ley Orgánica 2/2006, de 3 de mayo, de Educación, establece en sus artículos 91 al 99 las funciones del profesorado de las distintas enseñanzas que se regulan en ella, así como sus respectivas condiciones de titulación y formación pedagógica y didáctica. En la disposición adicional séptima, a su vez, se especifican las funciones de los diferentes cuerpos en los que se ordena la función pública docente.

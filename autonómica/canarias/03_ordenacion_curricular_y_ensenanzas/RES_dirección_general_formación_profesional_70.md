@@ -17,18 +17,22 @@ clasificacion:
   categoria_canonica: 03_ordenacion_curricular_y_ensenanzas
   subcategoria: Enseñanzas Artísticas
 tags:
-- canarias
-- resolucion
-- boc
-- 03_ordenacion_curricular_y_ensenanzas
-relaciones: {}
+- curriculo
+- educacion-personas-adultas
+- ense-anzas-art-sticas
+- ensenanzas-artisticas
+- equipos-directivos
+- evaluacion
+- formacion-profesional
+relaciones:
+  desarrolla: []
 fundamentos_derecho:
 - norma_id: norm-can-l-6-2014
   articulos:
   - '1'
+- norma_id: norm-es-lo-2-2006
 fuente_pdf_oficial: https://sede.gobiernodecanarias.org/boc/boc-a-2017-220-5354.pdf
 ---
-
 # Resolución de 6 de noviembre de 2017, de la Dirección General de Formación Profesional y Educación de Adultos, por la que se dictan instrucciones para la organización y la evaluación de los módulos de obra final y de proyecto integrado de las enseñanzas profesionales de Artes Plásticas y Diseño en la Comunidad Autónoma de Canarias (BOC n.º 220, de 15 de noviembre).
 
 https://sede.gobcan.es/cpji/boc

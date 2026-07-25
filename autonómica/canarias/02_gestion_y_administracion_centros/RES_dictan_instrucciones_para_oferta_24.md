@@ -16,18 +16,20 @@ clasificacion:
   categoria_canonica: 02_gestion_y_administracion_centros
   subcategoria: Colectivos de Escuelas Rurales (CER)
 tags:
-- canarias
-- resolucion
-- boc
-- 02_gestion_y_administracion_centros
-relaciones: {}
+- autonomia-centro
+- colectivos-de-escuelas-rurales-cer
+- ensenanzas-deportivas
+- equipos-directivos
+- evaluacion
+relaciones:
+  desarrolla: []
 fundamentos_derecho:
 - norma_id: norm-can-l-6-2014
   articulos:
   - '1'
+- norma_id: norm-es-lo-2-2006
 fuente_pdf_oficial: https://sede.gobiernodecanarias.org/boc/boc-a-2020-257-4915.pdf
 ---
-
 # Resolución de la Viceconsejería de Educación y Universidades, por la que se dictan instrucciones para la oferta educativa y recursos en las escuelas unitarias y los colectivos de escuelas rurales en canarias (13 de marzo de 2015).
 
 Martes 15 de diciembre de 2020

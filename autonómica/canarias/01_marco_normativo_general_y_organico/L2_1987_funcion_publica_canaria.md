@@ -19,9 +19,14 @@ clasificacion:
   categoria_canonica: 01_marco_normativo_general_y_organico
   subcategoria: Empleados públicos
 tags:
-- canarias
-- funcion_publica
+- curriculo
+- ebep
+- empleados-p-blicos
 - empleados_publicos
+- equipos-directivos
+- funcion_publica
+- interinos
+- profesorado
 - seleccion_personal
 - situacion_administrativa
 relaciones:
@@ -33,12 +38,17 @@ relaciones:
     - Todos
     nota: Desarrolla la legislación básica de función pública del Estado (TREBEP)
       en Canarias.
+  desarrollado_por:
+  - norma_id: norm-can-d-74-2010
+    articulos_origen:
+    - Todos
+    articulos_destino:
+    - Todos
 fundamentos_derecho:
 - norma_id: norm-can-lo-1-2018
   articulos:
   - '136'
 ---
-
 # Ley 2/1987 de la Función Pública Canaria
 
 **EL PRESIDENTE DEL GOBIERNO DE CANARIAS**

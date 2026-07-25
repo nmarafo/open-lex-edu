@@ -19,17 +19,23 @@ clasificacion:
   categoria_canonica: 01_marco_normativo_general_y_organico
   subcategoria: Marco normativo general
 tags:
-- procedimiento_administrativo
 - administracion_publica
+- marco-normativo-general
+- procedimiento-administrativo
+- procedimiento_administrativo
 - recursos
-- estatal
-relaciones: {}
+relaciones:
+  desarrolla:
+  - norma_id: norm-es-l-40-2015
+    articulos_origen:
+    - Todos
+    articulos_destino:
+    - Todos
 fundamentos_derecho:
 - norma_id: norm-es-ce-1978
   articulos:
   - 149.1.18
 ---
-
 # Ley 39/2015 del Procedimiento Administrativo Común
 
 **FELIPE VI**

@@ -19,17 +19,18 @@ clasificacion:
   categoria_canonica: 01_marco_normativo_general_y_organico
   subcategoria: Empleados públicos
 tags:
-- incompatibilidades
+- empleados-p-blicos
 - empleados_publicos
 - funcion_publica
-- estatal
-relaciones: {}
+- gestion-economica
+- incompatibilidades
+relaciones:
+  desarrolla: []
 fundamentos_derecho:
 - norma_id: norm-es-ce-1978
   articulos:
   - '103.3'
 ---
-
 # Ley 53/1984 de Incompatibilidades del Personal al Servicio de las Administraciones Públicas
 
 **JUAN CARLOS I,**

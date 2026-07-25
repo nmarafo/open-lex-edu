@@ -19,10 +19,18 @@ clasificacion:
   categoria_canonica: 08_personal_docente
   subcategoria: Oposiciones y acceso
 tags:
-- estatal
-- boe
-- 08_personal_docente
-relaciones: {}
+- ebep
+- ensenanzas-artisticas
+- oposiciones
+- oposiciones-y-acceso
+- profesorado
+relaciones:
+  desarrolla:
+  - norma_id: norm-es-rd-276-2007
+    articulos_origen:
+    - Todos
+    articulos_destino:
+    - Todos
 fundamentos_derecho:
 - norma_id: norm-es-ce-1978
   articulos:
@@ -35,7 +43,6 @@ fundamentos_derecho:
   articulos:
   - '1'
 ---
-
 # Orden ECD/1753/2015, de 25 de agosto, por la que se aprueban los temarios que han de regir en los procedimientos de ingreso, acceso y adquisición de nuevas especialidades en el Cuerpo de Profesores de Música y Artes Escénicas en las especialidades vinculadas a las enseñanzas de música y de danza.
 
 Aparte de las establecidas en la Ley 7/2007, de 12 de abril, del Estatuto Básico del Empleado Público, la disposición adicional sexta de la Ley Orgánica 2/2006, de 3 de mayo, de Educación, establece que, además de las recogidas en la Ley 30/1984, de 2 de agosto, de Medidas para la Reforma de la Función Pública, son bases del régimen estatutario de los funcionarios públicos docentes las reguladas por la propia Ley Orgánica 2/2006, de 3 de mayo, y la normativa que la desarrolla, para el ingreso y la movilidad entre los cuerpos docentes, encomendando al Gobierno su desarrollo reglamentario en aquellos aspectos básicos que sean necesarios para garantizar el marco común básico de la función pública docente.

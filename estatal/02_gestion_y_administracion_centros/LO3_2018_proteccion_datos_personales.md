@@ -19,18 +19,20 @@ clasificacion:
   categoria_canonica: 02_gestion_y_administracion_centros
   subcategoria: Protección de datos y seguridad de la información
 tags:
-- proteccion_datos
-- lopdgdd
 - derechos_digitales
+- lopdgdd
+- oposiciones
+- protecci-n-de-datos-y-seguridad-de-la-informaci-n
+- proteccion_datos
+- rgpd
 - seguridad_informacion
-- estatal
-relaciones: {}
+relaciones:
+  desarrolla: []
 fundamentos_derecho:
 - norma_id: norm-es-ce-1978
   articulos:
   - '18.4'
 ---
-
 # Ley Orgánica 3/2018 de Protección de Datos Personales y Garantía de los Derechos Digitales
 
 **FELIPE VI**

@@ -16,16 +16,14 @@ clasificacion:
   categoria_canonica: 02_gestion_y_administracion_centros
   subcategoria: Administración electrónica y firmas
 tags:
-- estatal
-- boe
-- 02_gestion_y_administracion_centros
-relaciones: {}
+- administraci-n-electr-nica-y-firmas
+relaciones:
+  desarrolla: []
 fundamentos_derecho:
 - norma_id: norm-es-ce-1978
   articulos:
   - '27'
 ---
-
 # Ley 59/2003, de 19 de diciembre, de firma electrónica.
 
 **JUAN CARLOS I**

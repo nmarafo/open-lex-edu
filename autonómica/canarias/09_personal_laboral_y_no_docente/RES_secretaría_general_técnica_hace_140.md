@@ -16,17 +16,19 @@ clasificacion:
   categoria_canonica: 09_personal_laboral_y_no_docente
   subcategoria: Circulares, instrucciones y condiciones de trabajo
 tags:
-- canarias
-- resolucion
-- boc
-- 09_personal_laboral_y_no_docente
-relaciones: {}
+- circulares-instrucciones-y-condiciones-de-trabajo
+- educacion-infantil
+- educacion-primaria
+- ensenanzas-deportivas
+- organizacion-escolar
+- profesorado
+relaciones:
+  desarrolla: []
 fundamentos_derecho:
 - norma_id: norm-can-l-6-2014
   articulos:
   - '1'
 ---
-
 # Resolución de 18 de marzo de 1996, de la Secretaría General Técnica, por la que se hace pública la Circular 1/1996, que dicta instrucciones sobre control de horarios y absentismo del personal no docente de Centros escolares de la Consejería de Educación, Cultura y Deportes (BOC nº 57, de 10 de mayo).
 
 BOC - 1996/057. Viernes 10 de Mayo de 1996 - 679

@@ -21,16 +21,17 @@ clasificacion:
   subcategoria: Gestión económica de centros
 tags:
 - contratacion_publica
-- lcsp
+- evaluacion
+- gesti-n-econ-mica-de-centros
 - gestion_economica
-- estatal
-relaciones: {}
+- lcsp
+relaciones:
+  desarrolla: []
 fundamentos_derecho:
 - norma_id: norm-es-ce-1978
   articulos:
   - 149.1.18
 ---
-
 # Ley 9/2017 de Contratos del Sector Público
 
 **FELIPE VI**

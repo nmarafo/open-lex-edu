@@ -19,10 +19,16 @@ clasificacion:
   categoria_canonica: 05_alumnado_y_servicios_escolares
   subcategoria: Concursos y premios escolares
 tags:
-- estatal
-- boe
-- 05_alumnado_y_servicios_escolares
-relaciones: {}
+- bachillerato
+- concursos-y-premios-escolares
+- curriculo
+- ensenanzas-artisticas
+- ensenanzas-deportivas
+- eso
+- formacion-profesional
+- profesorado
+relaciones:
+  desarrolla: []
 fundamentos_derecho:
 - norma_id: norm-es-lo-2-2006
   articulos:
@@ -32,7 +38,6 @@ fundamentos_derecho:
   articulos:
   - '1'
 ---
-
 # Orden ECD/1611/2015, de 29 de julio, por la que se crean y regulan los Premios Nacionales al rendimiento académico del alumnado de Educación Secundaria Obligatoria y de Enseñanzas Artísticas Profesionales en los ámbitos de Música, Danza y Artes Plásticas y Diseño.
 
 La Ley Orgánica 2/2006, de 3 de mayo, de Educación, señala en su artículo 2 bis 4, que el funcionamiento del Sistema Educativo Español se rige por los principios de calidad, cooperación, equidad, libertad de enseñanza, mérito, igualdad de oportunidades, no discriminación, eficiencia en la asignación de recursos públicos, transparencia y rendición de cuentas.

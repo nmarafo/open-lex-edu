@@ -17,18 +17,30 @@ clasificacion:
   categoria_canonica: 03_ordenacion_curricular_y_ensenanzas
   subcategoria: Formación Profesional
 tags:
-- canarias
-- resolucion
-- boc
-- 03_ordenacion_curricular_y_ensenanzas
-relaciones: {}
+- curriculo
+- ensenanzas-deportivas
+- equipos-directivos
+- evaluacion
+- formaci-n-profesional
+- formacion-profesional
+relaciones:
+  desarrolla:
+  - norma_id: norm-es-rd-659-2023
+    articulos_origen:
+    - Todos
+    articulos_destino:
+    - Todos
+  - norma_id: norm-es-lo-3-2022
+    articulos_origen:
+    - Todos
+    articulos_destino:
+    - Todos
 fundamentos_derecho:
 - norma_id: norm-can-l-6-2014
   articulos:
   - '1'
 fuente_pdf_oficial: https://sede.gobiernodecanarias.org/boc/boc-a-2025-250-4323.pdf
 ---
-
 # Resolución de 26 de noviembre de 2025, de la Dirección General de Formación Profesional y Enseñanzas de Régimen Especial,por la que se dictan instrucciones para la implantación y desarrollo de la oferta de dobles titulaciones de formación profesional (Grados D) en la Comunidad Autónoma de Canarias, a partir del curso escolar 2026/2027 (BOC n.º 250, de 18 de diciembre)
 
 III. Otras Resoluciones

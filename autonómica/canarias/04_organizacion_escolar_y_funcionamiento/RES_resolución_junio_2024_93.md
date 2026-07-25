@@ -14,18 +14,21 @@ clasificacion:
   categoria_canonica: 04_organizacion_escolar_y_funcionamiento
   subcategoria: Consejos escolares
 tags:
-- canarias
-- resolucion
-- boc
-- 04_organizacion_escolar_y_funcionamiento
-relaciones: {}
+- admision-alumnado
+- consejo-escolar
+- consejos-escolares
+- ensenanzas-deportivas
+- equipos-directivos
+- formacion-profesional
+- profesorado
+relaciones:
+  desarrolla: []
 fundamentos_derecho:
 - norma_id: norm-can-l-6-2014
   articulos:
   - '1'
 fuente_pdf_oficial: https://sede.gobiernodecanarias.org/boc/boc-a-2024-117-1919.pdf
 ---
-
 # Resolución de 3 de junio de 2024
 
 III. Otras Resoluciones

@@ -16,18 +16,24 @@ clasificacion:
   categoria_canonica: 02_gestion_y_administracion_centros
   subcategoria: Administración electrónica y firmas
 tags:
-- canarias
-- resolucion
-- boc
-- 02_gestion_y_administracion_centros
-relaciones: {}
+- administraci-n-electr-nica-y-firmas
+- equipos-directivos
+- oposiciones
+- procedimiento-administrativo
+relaciones:
+  desarrolla:
+  - norma_id: norm-es-l-40-2015
+    articulos_origen:
+    - Todos
+    articulos_destino:
+    - Todos
 fundamentos_derecho:
 - norma_id: norm-can-l-6-2014
   articulos:
   - '1'
+- norma_id: norm-es-l-39-2015
 fuente_pdf_oficial: https://sede.gobiernodecanarias.org/boc/boc-a-2019-016-310.pdf
 ---
-
 # Secretaría General Técnica.- Resolución de 9 de enero de 2019, por la que se crea el sello electrónico de la Dirección General de Centros e Infraestructura Educativa (BOC n.º 16, de 24 de enero).
 
 Jueves 24 de enero de 2019

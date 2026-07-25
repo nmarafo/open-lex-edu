@@ -16,16 +16,15 @@ clasificacion:
   categoria_canonica: 02_gestion_y_administracion_centros
   subcategoria: Cooperación con entidades locales
 tags:
-- estatal
-- boe
-- 02_gestion_y_administracion_centros
-relaciones: {}
+- convivencia
+- cooperaci-n-con-entidades-locales
+relaciones:
+  desarrolla: []
 fundamentos_derecho:
 - norma_id: norm-es-ce-1978
   articulos:
   - '27'
 ---
-
 # Ley 7/1985, de 2 de abril, Reguladora de las Bases del Régimen Local
 
 **JUAN CARLOS I**

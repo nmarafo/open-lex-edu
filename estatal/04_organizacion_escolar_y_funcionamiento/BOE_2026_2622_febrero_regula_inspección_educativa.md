@@ -17,10 +17,18 @@ clasificacion:
   categoria_canonica: 04_organizacion_escolar_y_funcionamiento
   subcategoria: Inspección educativa
 tags:
-- estatal
-- boe
-- 04_organizacion_escolar_y_funcionamiento
-relaciones: {}
+- concurso-traslados
+- inspecci-n-educativa
+- inspeccion-educativa
+- oposiciones
+- profesorado
+relaciones:
+  desarrolla:
+  - norma_id: norm-es-rd-276-2007
+    articulos_origen:
+    - Todos
+    articulos_destino:
+    - Todos
 fundamentos_derecho:
 - norma_id: norm-es-ce-1978
   articulos:
@@ -31,8 +39,8 @@ fundamentos_derecho:
 - norma_id: norm-es-rdl-5-2015
   articulos:
   - '1'
+- norma_id: norm-es-lo-2-2006
 ---
-
 # Real Decreto 68/2026, de 4 de febrero, por el que se regula la inspección educativa.
 
 El Cuerpo de Inspectores de Educación, como institución, se remonta a 1849, año en que se publica el real decreto de su creación, cuyo preámbulo la justifica por la necesidad del Gobierno de «observar muchas cosas que solo se descubren a los ojos de personas facultativas», con el objetivo último de promover mejoras en la educación.

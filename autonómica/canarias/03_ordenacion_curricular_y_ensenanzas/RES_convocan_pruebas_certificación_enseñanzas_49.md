@@ -19,18 +19,22 @@ clasificacion:
   categoria_canonica: 03_ordenacion_curricular_y_ensenanzas
   subcategoria: Enseñanzas de Idiomas
 tags:
-- canarias
-- resolucion
-- boc
-- 03_ordenacion_curricular_y_ensenanzas
-relaciones: {}
+- curriculo
+- ense-anzas-de-idiomas
+- ensenanzas-deportivas
+- eoi
+- equipos-directivos
+- evaluacion
+- formacion-profesional
+relaciones:
+  desarrolla: []
 fundamentos_derecho:
 - norma_id: norm-can-l-6-2014
   articulos:
   - '1'
+- norma_id: norm-es-lo-2-2006
 fuente_pdf_oficial: https://sede.gobiernodecanarias.org/boc/boc-a-2026-077-1287.pdf
 ---
-
 # Resolución de 10 de abril de 2026, por la que se convocan pruebas de certificación de Enseñanzas de Idiomas de Régimen Especial para aspirantes libres y alumnado escolarizado en las Escuelas Oficiales de Idiomas de la Comunidad Autónoma de Canarias, y se dictan instrucciones para su organización y aplicación en el curso 2025-2026. Fechas de inscripción: Aspirantes libres de todos los niveles y aspirantes escolarizados/as de los niveles B1, B2, C1 y C2: del 29 de abril al 13 de mayo de 2026. Aspirantes escolarizados del nivel A2: del 27 de mayo al 1 de junio de 2026.
 
 III. Otras Resoluciones

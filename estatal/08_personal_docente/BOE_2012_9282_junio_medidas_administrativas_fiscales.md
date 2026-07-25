@@ -16,10 +16,13 @@ clasificacion:
   categoria_canonica: 08_personal_docente
   subcategoria: Permisos, licencias y vacaciones
 tags:
-- estatal
-- boe
-- 08_personal_docente
-relaciones: {}
+- ebep
+- gestion-economica
+- permisos-licencias
+- permisos-licencias-y-vacaciones
+- retribuciones
+relaciones:
+  desarrolla: []
 fundamentos_derecho:
 - norma_id: norm-es-ce-1978
   articulos:
@@ -28,7 +31,6 @@ fundamentos_derecho:
   articulos:
   - '1'
 ---
-
 # Ley 4/2012, de 25 de junio, de medidas administrativas y fiscales.
 
 ## EXPOSICIÓN DE MOTIVOS

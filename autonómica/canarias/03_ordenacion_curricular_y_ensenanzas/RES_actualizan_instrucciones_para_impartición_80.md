@@ -15,18 +15,24 @@ clasificacion:
   categoria_canonica: 03_ordenacion_curricular_y_ensenanzas
   subcategoria: Educación de Personas Adultas
 tags:
-- canarias
-- resolucion
-- boc
-- 03_ordenacion_curricular_y_ensenanzas
-relaciones: {}
+- curriculo
+- educaci-n-de-personas-adultas
+- educacion-personas-adultas
+- ensenanzas-deportivas
+- equipos-directivos
+- evaluacion
+- formacion-profesional
+- oposiciones
+- roc
+relaciones:
+  desarrolla: []
 fundamentos_derecho:
 - norma_id: norm-can-l-6-2014
   articulos:
   - '1'
+- norma_id: norm-es-lo-2-2006
 fuente_pdf_oficial: https://sede.gobiernodecanarias.org/boc/boc-a-2021-114-2852.pdf
 ---
-
 # Resolución de 24 de mayo de 2021, por la que se actualizan las instrucciones para la impartición de los cursos de preparación de pruebas de acceso a ciclos formativos de grado medio y superior de Formación Profesional (BOC n.º 114, de 4 de junio).
 
 Viernes 4 de junio de 2021

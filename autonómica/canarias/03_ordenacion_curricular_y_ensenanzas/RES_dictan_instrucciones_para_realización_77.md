@@ -16,18 +16,23 @@ clasificacion:
   categoria_canonica: 03_ordenacion_curricular_y_ensenanzas
   subcategoria: Educación de Personas Adultas
 tags:
-- canarias
-- resolucion
-- boc
-- 03_ordenacion_curricular_y_ensenanzas
-relaciones: {}
+- bachillerato
+- educaci-n-de-personas-adultas
+- educacion-personas-adultas
+- ensenanzas-deportivas
+- equipos-directivos
+- evaluacion
+- oposiciones
+- profesorado
+- roc
+relaciones:
+  desarrolla: []
 fundamentos_derecho:
 - norma_id: norm-can-l-6-2014
   articulos:
   - '1'
 anexos_extraidos_pdf: true
 ---
-
 # Resolución de 14 de octubre de 2002, por la que se dictan instrucciones para la realización de horas lectivas extraordinarias en centros que desarrollen ofertas formativas de Educación de Personas Adultas (BOC n.º 148, de 6 de noviembre).
 
 BOC - 2002/148. Miércoles 6 de Noviembre de 2002 - 1603

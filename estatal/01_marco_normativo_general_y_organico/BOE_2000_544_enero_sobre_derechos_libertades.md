@@ -17,16 +17,15 @@ clasificacion:
   categoria_canonica: 01_marco_normativo_general_y_organico
   subcategoria: Protección jurídica de menores
 tags:
-- estatal
-- boe
-- 01_marco_normativo_general_y_organico
-relaciones: {}
+- curriculo
+- protecci-n-jur-dica-de-menores
+relaciones:
+  desarrolla: []
 fundamentos_derecho:
 - norma_id: norm-es-ce-1978
   articulos:
   - '27'
 ---
-
 # Ley Orgánica 4/2000, de 11 de enero, sobre derechos y libertades de los extranjeros en España y su integración social.
 
 **JUAN CARLOS I**

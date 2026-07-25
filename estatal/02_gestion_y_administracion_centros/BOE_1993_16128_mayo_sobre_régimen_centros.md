@@ -17,17 +17,18 @@ clasificacion:
   categoria_canonica: 02_gestion_y_administracion_centros
   subcategoria: Centros extranjeros
 tags:
-- estatal
-- boe
-- 02_gestion_y_administracion_centros
-relaciones: {}
+- centros-extranjeros
+- consejo-escolar
+- curriculo
+- profesorado
+relaciones:
+  desarrolla: []
 fundamentos_derecho:
 - norma_id: norm-es-lo-8-1985
   articulos:
   - '1'
   - '6'
 ---
-
 # Real Decreto 806/1993, de 28 de mayo, sobre régimen de Centros docentes extranjeros en España.
 
 La Ley Orgánica 8/1985, de 3 de julio, reguladora del Derecho a la Educación, establece en su artículo 12, apartado 2, que los centros extranjeros en España se ajustarán a lo que el Gobierno determine reglamentariamente. En aplicación de este mandato legal procede regular el régimen jurídico de aquellos centros que, independientemente de la nacionalidad de su titular, se caracterizan por impartir en España enseñanzas de niveles no universitarios, correspondientes a sistemas educativos de otros países.

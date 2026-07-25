@@ -21,10 +21,10 @@ clasificacion:
   categoria_canonica: 04_organizacion_escolar_y_funcionamiento
   subcategoria: Asociaciones de Padres y Madres (AMPAS)
 tags:
-- canarias
 - ampas
-- participacion_familias
+- asociaciones-de-padres-y-madres-ampas
 - federaciones_ampas
+- participacion_familias
 relaciones:
   desarrolla:
   - norma_id: norm-es-rd-1533-1986
@@ -42,7 +42,6 @@ fundamentos_derecho:
   articulos:
   - '27'
 ---
-
 # Decreto 234/1996, de 12 de septiembre, por el que se regulan las Asociaciones de Madres y Padres de Alumnos y sus Federaciones y Confederaciones en la Comunidad Autónoma de Canarias.
 
 Gobierno de Canarias

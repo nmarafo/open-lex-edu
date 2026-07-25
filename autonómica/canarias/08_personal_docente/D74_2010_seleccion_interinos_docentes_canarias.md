@@ -21,11 +21,14 @@ clasificacion:
   categoria_canonica: 08_personal_docente
   subcategoria: Selección y provisión de puestos
 tags:
-- canarias
+- ebep
+- interinos
 - interinos_docentes
 - listas_empleo
-- sustituciones_docentes
 - ordenacion_listas
+- profesorado
+- selecci-n-y-provisi-n-de-puestos
+- sustituciones_docentes
 relaciones:
   desarrolla:
   - norma_id: norm-can-l-2-1987
@@ -44,7 +47,6 @@ fundamentos_derecho:
   - '10'
 fuente_pdf_oficial: https://sede.gobiernodecanarias.org/boc/boc-a-2010-136-4028.pdf
 ---
-
 # Decreto 74/2010, de 1 de julio, por el que se establece el procedimiento de selección del personal funcionario interino docente en el ámbito de la Comunidad Autónoma de Canarias.
 
 I. Disposiciones generales

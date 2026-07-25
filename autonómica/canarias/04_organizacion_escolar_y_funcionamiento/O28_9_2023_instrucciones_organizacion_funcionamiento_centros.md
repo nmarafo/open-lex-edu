@@ -21,9 +21,11 @@ clasificacion:
   categoria_canonica: 04_organizacion_escolar_y_funcionamiento
   subcategoria: Instrucciones de organización y funcionamiento
 tags:
-- canarias
-- organizacion_centros
+- instrucciones-de-organizaci-n-y-funcionamiento
 - instrucciones_inicio_curso
+- oposiciones
+- organizacion_centros
+- profesorado
 relaciones:
   desarrolla:
   - norma_id: norm-can-d-81-2010
@@ -39,7 +41,6 @@ fundamentos_derecho:
   articulos:
   - '120'
 ---
-
 # Orden de 28 de septiembre de 2023, por la que se aprueban las instrucciones de organización y funcionamiento de los centros docentes públicos no universitarios de la Comunidad Autónoma de Canarias.
 
 Gobierno de Canarias

@@ -18,18 +18,16 @@ clasificacion:
   categoria_canonica: 06_atencion_diversidad_y_orientacion
   subcategoria: Alumnado con NEAE
 tags:
-- canarias
-- resolucion
-- boc
-- 06_atencion_diversidad_y_orientacion
-relaciones: {}
+- alumnado-con-neae
+- neae
+relaciones:
+  desarrolla: []
 fundamentos_derecho:
 - norma_id: norm-can-l-6-2014
   articulos:
   - '1'
 fuente_pdf_oficial: https://sede.gobiernodecanarias.org/boc/boc-a-2018-086-2126.pdf
 ---
-
 # Resolución de 8 de febrero de 2018, de la Secretaría General Técnica, por la que se ordena la publicación del Convenio de Colaboración entre la Consejería de Educación y Universidades y la Asociación de Padres de Personas con Autismo de Tenerife (APANATE) para la atención educativa del alumnado no universitario con necesidades específicas de apoyo educativo derivadas de Trastornos del Espectro Autista (TEA) (BOC n.º 86, de 4 de mayo).
 
 Viernes 4 de mayo de 2018

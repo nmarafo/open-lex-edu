@@ -18,10 +18,9 @@ clasificacion:
   categoria_canonica: 08_personal_docente
   subcategoria: Salud laboral y vigilancia
 tags:
-- estatal
-- boe
-- 08_personal_docente
-relaciones: {}
+- salud-laboral-y-vigilancia
+relaciones:
+  desarrolla: []
 fundamentos_derecho:
 - norma_id: norm-es-rd-276-2007
   articulos:
@@ -30,7 +29,6 @@ fundamentos_derecho:
   articulos:
   - '1'
 ---
-
 # Real Decreto 625/2014, de 18 de julio, por el que se regulan determinados aspectos de la gestión y control de los procesos por incapacidad temporal en los primeros trescientos sesenta y cinco días de su duración.
 
 El Real Decreto 575/1997, de 18 de abril, por el que se regulan determinados aspectos de la gestión y control de la prestación económica de la Seguridad Social por incapacidad temporal, modificado por el Real Decreto 1117/1998, de 5 de junio, y desarrollado por la Orden de 19 de junio de 1997, pretendía asegurar la efectividad en el percibo de la prestación económica de la Seguridad Social y evitar la utilización indebida de la protección, incidiendo en los principales aspectos de la gestión de la prestación. Al mismo tiempo, dicho real decreto también regulaba la forma de expedición de los partes de baja y alta médicas, así como el establecimiento de determinados controles en la comprobación del mantenimiento del derecho a la prestación, con la finalidad de conseguir un mayor rigor en la constatación de la enfermedad y de su repercusión en la capacidad de trabajo del interesado.

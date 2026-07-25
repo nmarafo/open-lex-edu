@@ -17,16 +17,16 @@ clasificacion:
   categoria_canonica: 07_convivencia_bienestar_y_protocolos
   subcategoria: Igualdad de género y diversidad
 tags:
-- estatal
-- boe
-- 07_convivencia_bienestar_y_protocolos
-relaciones: {}
+- evaluacion
+- igualdad-de-g-nero-y-diversidad
+- oposiciones
+relaciones:
+  desarrolla: []
 fundamentos_derecho:
 - norma_id: norm-es-ce-1978
   articulos:
   - '27'
 ---
-
 # Ley Orgánica 3/2007, de 22 de marzo, para la igualdad efectiva de mujeres y hombres.
 
 **JUAN CARLOS I**

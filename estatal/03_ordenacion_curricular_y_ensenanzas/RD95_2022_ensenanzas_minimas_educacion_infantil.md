@@ -20,10 +20,16 @@ clasificacion:
   categoria_canonica: 03_ordenacion_curricular_y_ensenanzas
   subcategoria: Educación Infantil
 tags:
+- curriculo
+- educaci-n-infantil
+- educacion-infantil
 - educacion_infantil
-- ordenacion_infantil
+- ensenanzas-artisticas
 - ensenanzas_minimas
-- estatal
+- evaluacion
+- inclusiva
+- oposiciones
+- ordenacion_infantil
 relaciones:
   desarrolla:
   - norma_id: norm-es-lo-2-2006
@@ -34,6 +40,12 @@ relaciones:
     - '15'
     nota: Establece la ordenación y enseñanzas mínimas de Educación Infantil tras
       la reforma LOMLOE.
+  desarrollado_por:
+  - norma_id: norm-can-d-196-2022
+    articulos_origen:
+    - Todos
+    articulos_destino:
+    - Todos
 fundamentos_derecho:
 - norma_id: norm-es-lo-2-2006
   articulos:
@@ -47,7 +59,6 @@ fundamentos_derecho:
   articulos:
   - '1'
 ---
-
 # Real Decreto 95/2022 - Ordenación y Enseñanzas Mínimas de la Educación Infantil
 
 La Ley Orgánica 3/2020, de 29 de diciembre, por la que se modifica la Ley Orgánica 2/2006, de 3 de mayo, de Educación, introduce en la anterior redacción de la norma importantes cambios, muchos de ellos derivados, tal y como indica la propia ley en su exposición de motivos, de la conveniencia de revisar las medidas previstas en el texto original con objeto de adaptar el sistema educativo a los retos y desafíos del siglo XXI de acuerdo con los objetivos fijados por la Unión Europea y la UNESCO para la década 2020-2030.

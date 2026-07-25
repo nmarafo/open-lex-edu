@@ -18,10 +18,14 @@ clasificacion:
   categoria_canonica: 03_ordenacion_curricular_y_ensenanzas
   subcategoria: Bachillerato
 tags:
-- estatal
-- boe
-- 03_ordenacion_curricular_y_ensenanzas
-relaciones: {}
+- admision-alumnado
+- bachillerato
+- ensenanzas-artisticas
+- evaluacion
+- formacion-profesional
+- oposiciones
+relaciones:
+  desarrolla: []
 fundamentos_derecho:
 - norma_id: norm-es-ce-1978
   articulos:
@@ -31,7 +35,6 @@ fundamentos_derecho:
   - '1'
   - '2'
 ---
-
 # Real Decreto 412/2014, de 6 de junio, por el que se establece la normativa básica de los procedimientos de admisión a las enseñanzas universitarias oficiales de Grado.
 
 La Ley Orgánica 8/2013, de 9 de diciembre, para la Mejora de la Calidad Educativa (LOMCE) modifica los requisitos de acceso y admisión a las enseñanzas oficiales de Grado desde el título de Bachiller o equivalente, desde el título de Técnico Superior de Formación Profesional, de Técnico Superior de Artes Plásticas y Diseño o de Técnico Deportivo Superior así como para los estudiantes procedentes de sistemas educativos extranjeros.

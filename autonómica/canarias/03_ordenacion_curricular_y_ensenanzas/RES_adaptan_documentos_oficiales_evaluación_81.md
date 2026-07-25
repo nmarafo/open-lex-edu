@@ -15,18 +15,24 @@ clasificacion:
   categoria_canonica: 03_ordenacion_curricular_y_ensenanzas
   subcategoria: Educación de Personas Adultas
 tags:
-- canarias
-- resolucion
-- boc
-- 03_ordenacion_curricular_y_ensenanzas
-relaciones: {}
+- bachillerato
+- curriculo
+- educaci-n-de-personas-adultas
+- educacion-personas-adultas
+- ensenanzas-deportivas
+- equipos-directivos
+- eso
+- evaluacion
+- formacion-profesional
+- roc
+relaciones:
+  desarrolla: []
 fundamentos_derecho:
 - norma_id: norm-can-l-6-2014
   articulos:
   - '1'
 fuente_pdf_oficial: https://sede.gobiernodecanarias.org/boc/boc-a-2022-243-3774.pdf
 ---
-
 # Resolución de 28 de noviembre de 2022, por la que se adaptan los documentos oficiales de evaluación a la Educación Básica de Personas Adultas en la Comunidad Autónoma de Canarias (BOC n.º 243, de 13 de diciembre).
 
 III. Otras Resoluciones

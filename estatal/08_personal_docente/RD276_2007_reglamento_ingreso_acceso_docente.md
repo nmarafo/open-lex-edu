@@ -23,11 +23,19 @@ clasificacion:
   categoria_canonica: 08_personal_docente
   subcategoria: Selección y provisión de puestos
 tags:
-- ingreso_docente
-- oposiciones
-- concurso_oposicion
 - adquisicion_especialidades
-- estatal
+- concurso-traslados
+- concurso_oposicion
+- ebep
+- ensenanzas-artisticas
+- eoi
+- equipos-directivos
+- evaluacion
+- ingreso_docente
+- inspeccion-educativa
+- oposiciones
+- profesorado
+- selecci-n-y-provisi-n-de-puestos
 relaciones:
   desarrolla:
   - norma_id: norm-es-lo-2-2006
@@ -37,6 +45,27 @@ relaciones:
     - Disposición adicional duodécima
     nota: Regula el sistema general de ingreso y accesos a la función pública docente
       no universitaria.
+  desarrollado_por:
+  - norma_id: norm-es-2009-20550
+    articulos_origen:
+    - Todos
+    articulos_destino:
+    - Todos
+  - norma_id: norm-es-2015-9453
+    articulos_origen:
+    - Todos
+    articulos_destino:
+    - Todos
+  - norma_id: norm-es-2007-5478
+    articulos_origen:
+    - Todos
+    articulos_destino:
+    - Todos
+  - norma_id: norm-es-2026-2622
+    articulos_origen:
+    - Todos
+    articulos_destino:
+    - Todos
 fundamentos_derecho:
 - norma_id: norm-es-rdl-5-2015
   articulos:
@@ -48,7 +77,6 @@ fundamentos_derecho:
   articulos:
   - '27'
 ---
-
 # Real Decreto 276/2007 - Reglamento de Ingreso, Accesos y Adquisición de Nuevas Especialidades en Cuerpos Docentes
 
 La Ley Orgánica 2/2006, de 3 de mayo, de Educación, en su disposición adicional sexta establece que, además de las recogidas en la Ley 30/1984, de 2 de agosto, de Medidas para la Reforma de la Función Pública, modificada por la Ley 23/1988, de 28 de julio, son bases del régimen estatutario de los funcionarios públicos docentes, las reguladas por la propia ley orgánica y la normativa que la desarrolle para el ingreso y la movilidad entre los cuerpos docentes, encomendando al Gobierno su desarrollo reglamentario en aquellos aspectos básicos que sean necesarios para garantizar el marco común básico de la función pública docente.

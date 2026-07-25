@@ -20,10 +20,13 @@ clasificacion:
   categoria_canonica: 01_marco_normativo_general_y_organico
   subcategoria: Marco normativo general
 tags:
-- canarias
-- estatuto_autonomia
 - competencias_educacion
-relaciones: {}
+- curriculo
+- ensenanzas-deportivas
+- estatuto_autonomia
+- marco-normativo-general
+relaciones:
+  desarrolla: []
 fundamentos_derecho:
 - norma_id: norm-es-ce-1978
   articulos:
@@ -31,7 +34,6 @@ fundamentos_derecho:
 ocr_procesado: true
 motor_ocr: rapidocr_onnxruntime
 ---
-
 # Ley Orgánica 1/2018, de 5 de noviembre, de reforma del Estatuto de Autonomía de Canarias.
 
 --- Página 1 (Transcripción OCR de Anexo/Imagen) ---

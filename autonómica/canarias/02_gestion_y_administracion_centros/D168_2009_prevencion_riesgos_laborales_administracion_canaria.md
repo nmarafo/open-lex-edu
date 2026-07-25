@@ -22,11 +22,13 @@ clasificacion:
   categoria_canonica: 02_gestion_y_administracion_centros
   subcategoria: Prevención de riesgos y salud laboral
 tags:
-- canarias
-- prevencion_riesgos
-- servicio_prevencion_educacion
-- salud_laboral
+- atencion-diversidad
 - comite_seguridad_salud
+- prevenci-n-de-riesgos-y-salud-laboral
+- prevencion-riesgos-laborales
+- prevencion_riesgos
+- salud_laboral
+- servicio_prevencion_educacion
 relaciones:
   desarrolla:
   - norma_id: norm-es-l-31-1995
@@ -46,7 +48,6 @@ fundamentos_derecho:
   - '1'
 fuente_pdf_oficial: https://sede.gobiernodecanarias.org/boc/boc-a-2010-007-187.pdf
 ---
-
 # Decreto 168/2009, de 29 de diciembre, por el que se adapta la normativa sobre prevención de riesgos laborales al ámbito de la Administración Pública de la Comunidad Autónoma de Canarias y sus Organismos Autónomos.
 
 I. Disposiciones generales

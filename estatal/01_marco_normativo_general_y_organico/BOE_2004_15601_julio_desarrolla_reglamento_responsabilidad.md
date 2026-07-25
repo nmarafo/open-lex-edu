@@ -18,17 +18,17 @@ clasificacion:
   categoria_canonica: 01_marco_normativo_general_y_organico
   subcategoria: Protección jurídica de menores
 tags:
-- estatal
-- boe
-- 01_marco_normativo_general_y_organico
-relaciones: {}
+- curriculo
+- permisos-licencias
+- protecci-n-jur-dica-de-menores
+relaciones:
+  desarrolla: []
 fundamentos_derecho:
 - norma_id: norm-es-lo-2-2006
   articulos:
   - '1'
   - '2.1'
 ---
-
 # Real Decreto 1774/2004, de 30 de julio, por el que se aprueba el Reglamento de la Ley Orgánica 5/2000, de 12 de enero, reguladora de la responsabilidad penal de los menores.
 
 La Ley Orgánica 5/2000, de 12 de enero, reguladora de la responsabilidad penal de los menores, en el apartado 24 de su exposición de motivos, prevé una regulación más extensa de algunos de sus aspectos en el reglamento que en su día se dicte en su desarrollo.

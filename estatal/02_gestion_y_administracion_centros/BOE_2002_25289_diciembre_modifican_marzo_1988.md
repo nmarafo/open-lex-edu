@@ -19,16 +19,20 @@ clasificacion:
   categoria_canonica: 02_gestion_y_administracion_centros
   subcategoria: Centros extranjeros
 tags:
-- estatal
-- boe
-- 02_gestion_y_administracion_centros
-relaciones: {}
+- admision-alumnado
+- centros-extranjeros
+- consejo-escolar
+- curriculo
+- ensenanzas-deportivas
+- eso
+- formacion-profesional
+relaciones:
+  desarrolla: []
 fundamentos_derecho:
 - norma_id: norm-es-l-39-2015
   articulos:
   - '1'
 ---
-
 # Orden ECD/3305/2002, de 16 de diciembre, por la que se modifican las de 14 de marzo de 1988 y de 30 de abril de 1996, para la aplicación de lo dispuesto en el Real Decreto 104/1988, de 29 de enero, sobre homologación y convalidación de títulos y estudios extranjeros de educación no universitaria.
 
 Por Real Decreto 104/1988, de 29 de enero, se regula la homologación y convalidación de títulos y estudios extranjeros por sus equivalentes españoles de educación no universitaria. Su artículo 7, apartado dos, señala que el Ministerio de Educación y Ciencia (actualmente de Educación, Cultura y Deporte) determinará el modelo de solicitud, la documentación que deba aportarse al expediente y los requisitos a que hayan de ajustarse los documentos expedidos en el extranjero. Por otra parte, la disposición final única del citado Real Decreto autoriza al Ministro de Educación y Ciencia para dictar las disposiciones necesarias para el desarrollo y aplicación de las normas contenidas en el mismo.

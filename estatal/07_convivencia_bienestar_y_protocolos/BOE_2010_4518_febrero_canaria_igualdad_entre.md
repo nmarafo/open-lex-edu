@@ -16,16 +16,15 @@ clasificacion:
   categoria_canonica: 07_convivencia_bienestar_y_protocolos
   subcategoria: Igualdad de género y diversidad
 tags:
-- estatal
-- boe
-- 07_convivencia_bienestar_y_protocolos
-relaciones: {}
+- igualdad-de-g-nero-y-diversidad
+- oposiciones
+relaciones:
+  desarrolla: []
 fundamentos_derecho:
 - norma_id: norm-es-ce-1978
   articulos:
   - '27'
 ---
-
 # Ley 1/2010, de 26 de febrero, canaria de igualdad entre mujeres y hombres.
 
 Sea notorio a todos los ciudadanos que el Parlamento de Canarias ha aprobado y yo, en nombre del Rey y de acuerdo con lo que establece el artículo 12.8 del Estatuto de Autonomía, promulgo y ordeno la publicación de la ley 1/2010, de 26 de febrero, canaria de igualdad entre mujeres y hombres.

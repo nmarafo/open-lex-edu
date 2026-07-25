@@ -18,18 +18,24 @@ clasificacion:
   categoria_canonica: 03_ordenacion_curricular_y_ensenanzas
   subcategoria: Formación Profesional
 tags:
-- canarias
-- resolucion
-- boc
-- 03_ordenacion_curricular_y_ensenanzas
-relaciones: {}
+- curriculo
+- ensenanzas-deportivas
+- equipos-directivos
+- formaci-n-profesional
+- formacion-profesional
+relaciones:
+  desarrolla:
+  - norma_id: norm-es-lo-3-2022
+    articulos_origen:
+    - Todos
+    articulos_destino:
+    - Todos
 fundamentos_derecho:
 - norma_id: norm-can-l-6-2014
   articulos:
   - '1'
 fuente_pdf_oficial: https://sede.gobiernodecanarias.org/boc/boc-a-2026-043-703.pdf
 ---
-
 # Resolución de 25 de febrero de 2026, de la Dirección General de Formación Profesional y Enseñanzas de Régimen Especial por la que se dictan instrucciones para la implantación y desarrollo del módulo profesional optativo en las ofertas formativas de Grados D, niveles 2 (ciclos formativos de grado medio) y 3 (ciclos formativos de grado superior), a partir del curso escolar 2026/2027, en la Comunidad Autónoma de Canarias (BOC n.º 43, de 4 de marzo).
 
 III. Otras Resoluciones

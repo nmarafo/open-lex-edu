@@ -17,10 +17,12 @@ clasificacion:
   categoria_canonica: 05_alumnado_y_servicios_escolares
   subcategoria: Concursos y premios escolares
 tags:
-- estatal
-- boe
-- 05_alumnado_y_servicios_escolares
-relaciones: {}
+- bachillerato
+- concursos-y-premios-escolares
+- curriculo
+- gestion-economica
+relaciones:
+  desarrolla: []
 fundamentos_derecho:
 - norma_id: norm-es-lo-2-2006
   articulos:
@@ -30,7 +32,6 @@ fundamentos_derecho:
   articulos:
   - '1'
 ---
-
 # Orden EDU/2058/2010, de 13 de julio, por la que se regulan los Premios Nacionales de Bachillerato establecidos por la Ley Orgánica 2/2006, de 3 de mayo, de Educación.
 
 El Ministerio de Educación ha venido convocando anualmente los Premios Nacionales de Bachillerato, como reconocimiento oficial de los méritos del alumnado que ha demostrado una especial preparación en los estudios correspondientes a esta etapa.

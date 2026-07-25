@@ -17,10 +17,17 @@ clasificacion:
   categoria_canonica: 05_alumnado_y_servicios_escolares
   subcategoria: Pruebas de acceso
 tags:
-- estatal
-- boe
-- 05_alumnado_y_servicios_escolares
-relaciones: {}
+- admision-alumnado
+- curriculo
+- ensenanzas-artisticas
+- eso
+- evaluacion
+- formacion-profesional
+- oposiciones
+- orientacion-educativa
+- pruebas-de-acceso
+relaciones:
+  desarrolla: []
 fundamentos_derecho:
 - norma_id: norm-es-lo-2-2006
   articulos:
@@ -30,7 +37,6 @@ fundamentos_derecho:
   articulos:
   - '1'
 ---
-
 # Real Decreto 596/2007, de 4 de mayo, por el que se establece la ordenación general de las enseñanzas profesionales de artes plásticas y diseño.
 
 La Ley Orgánica 2/2006, de 3 de mayo, de Educación, incluye las enseñanzas profesionales de artes plásticas y diseño en su capítulo VI sobre enseñanzas artísticas, y las organiza en ciclos de formación específica cuya finalidad es proporcionar al alumnado una formación artística de calidad y garantizar la cualificación de los futuros profesionales de las artes plásticas y el diseño.

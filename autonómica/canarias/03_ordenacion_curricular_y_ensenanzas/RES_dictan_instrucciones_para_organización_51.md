@@ -16,18 +16,24 @@ clasificacion:
   categoria_canonica: 03_ordenacion_curricular_y_ensenanzas
   subcategoria: Enseñanzas de Idiomas
 tags:
-- canarias
-- resolucion
-- boc
-- 03_ordenacion_curricular_y_ensenanzas
-relaciones: {}
+- admision-alumnado
+- curriculo
+- educacion-personas-adultas
+- ense-anzas-de-idiomas
+- ensenanzas-deportivas
+- eoi
+- equipos-directivos
+- formacion-profesional
+- profesorado
+relaciones:
+  desarrolla: []
 fundamentos_derecho:
 - norma_id: norm-can-l-6-2014
   articulos:
   - '1'
+- norma_id: norm-es-lo-2-2006
 fuente_pdf_oficial: https://sede.gobiernodecanarias.org/boc/boc-a-2023-085-1356.pdf
 ---
-
 # Resolución de 18 de abril de 2023, por la que se dictan instrucciones para la organización de los cursos de especialización en idiomas y se regula la planificación y autorización de su oferta y la admisión del alumnado en las Escuelas Oficiales de Idiomas de la Comunidad Autónoma de Canarias (BOC n.º 85, de 3 de mayo).
 
 III. Otras Resoluciones

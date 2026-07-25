@@ -16,16 +16,14 @@ clasificacion:
   categoria_canonica: 07_convivencia_bienestar_y_protocolos
   subcategoria: Igualdad de género y diversidad
 tags:
-- estatal
-- boe
-- 07_convivencia_bienestar_y_protocolos
-relaciones: {}
+- igualdad-de-g-nero-y-diversidad
+relaciones:
+  desarrolla: []
 fundamentos_derecho:
 - norma_id: norm-es-ce-1978
   articulos:
   - '27'
 ---
-
 # Ley 15/2022, de 12 de julio, integral para la igualdad de trato y la no discriminación.
 
 **FELIPE VI**

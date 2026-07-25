@@ -21,10 +21,14 @@ clasificacion:
   categoria_canonica: 05_alumnado_y_servicios_escolares
   subcategoria: Comedores y desayunos escolares
 tags:
-- canarias
+- comedor-escolar
+- comedores-y-desayunos-escolares
 - comedores_escolares
-- servicios_complementarios
 - cuotas_subvenciones
+- ensenanzas-deportivas
+- evaluacion
+- profesorado
+- servicios_complementarios
 relaciones:
   desarrolla:
   - norma_id: norm-can-l-6-2014
@@ -43,7 +47,6 @@ fuente_pdf_oficial: https://www.gobiernodecanarias.org/boc/2003/047/boc-2003-047
 ocr_procesado: true
 motor_ocr: rapidocr_onnxruntime
 ---
-
 # Orden de 25 de febrero de 2003, por la que se regula la organización y funcionamiento de los comedores escolares en los centros docentes públicos no universitarios dependientes de la Consejería de Educación, Cultura y Deportes.
 
 DISPOSICIONES FINALES

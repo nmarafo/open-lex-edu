@@ -17,10 +17,11 @@ clasificacion:
   categoria_canonica: 03_ordenacion_curricular_y_ensenanzas
   subcategoria: Formación Profesional
 tags:
-- estatal
-- boe
-- 03_ordenacion_curricular_y_ensenanzas
-relaciones: {}
+- formaci-n-profesional
+- formacion-profesional
+- roc
+relaciones:
+  desarrolla: []
 fundamentos_derecho:
 - norma_id: norm-es-lo-2-2006
   articulos:
@@ -30,7 +31,6 @@ fundamentos_derecho:
   articulos:
   - '22'
 ---
-
 # Real Decreto 1558/2005, de 23 de diciembre, por el que se regulan los requisitos básicos de los Centros integrados de formación profesional.
 
 La Ley Orgánica 5/2002, de 19 de junio, de las Cualificaciones y de la Formación Profesional, tiene por objeto «la ordenación de un sistema integral de formación profesional, cualificaciones y acreditación, que responda con eficacia y transparencia a las demandas sociales y económicas a través de las diversas modalidades formativas».

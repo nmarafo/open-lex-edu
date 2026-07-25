@@ -18,17 +18,18 @@ clasificacion:
   categoria_canonica: 08_personal_docente
   subcategoria: Formación del profesorado
 tags:
-- estatal
-- boe
-- 08_personal_docente
-relaciones: {}
+- atencion-diversidad
+- formaci-n-del-profesorado
+- orientacion-educativa
+- profesorado
+relaciones:
+  desarrolla: []
 fundamentos_derecho:
 - norma_id: norm-es-lo-2-2006
   articulos:
   - '1'
   - '2'
 ---
-
 # Orden EDU/2886/2011, de 20 de octubre, por la que se regula la convocatoria, reconocimiento, certificación y registro de las actividades de formación permanente del profesorado.
 
 La Ley Orgánica 2/2006, de 3 de mayo, de Educación, en su título preliminar, destaca entre los factores que favorecen la calidad de la enseñanza, y a los cuales se prestará una atención prioritaria, la cualificación y formación del profesorado, la investigación, la experimentación y la renovación educativa.

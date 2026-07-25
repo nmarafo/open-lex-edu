@@ -17,18 +17,19 @@ clasificacion:
   categoria_canonica: 03_ordenacion_curricular_y_ensenanzas
   subcategoria: Formación Profesional
 tags:
-- canarias
-- resolucion
-- boc
-- 03_ordenacion_curricular_y_ensenanzas
-relaciones: {}
+- ensenanzas-deportivas
+- equipos-directivos
+- formaci-n-profesional
+- formacion-profesional
+- profesorado
+relaciones:
+  desarrolla: []
 fundamentos_derecho:
 - norma_id: norm-can-l-6-2014
   articulos:
   - '1'
 fuente_pdf_oficial: https://sede.gobiernodecanarias.org/boc/boc-a-2025-158-2923.pdf
 ---
-
 # Resolución de 29 de julio de 2025, de la Dirección General de Formación Profesional y Enseñanzas de Régimen Especial por la que se dictan instrucciones y se establece el calendario para la renovación parcial o la nueva constitución de los Consejos Sociales en los centros integrados de formación profesional, de la Comunidad Autónoma de Canarias, a celebrar en el curso escolar 2025/2026 (BOC núm. 158, de 11 de agosto).
 
 III. Otras Resoluciones

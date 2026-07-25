@@ -18,18 +18,23 @@ clasificacion:
   categoria_canonica: 03_ordenacion_curricular_y_ensenanzas
   subcategoria: Bachillerato
 tags:
-- canarias
-- resolucion
-- boc
-- 03_ordenacion_curricular_y_ensenanzas
-relaciones: {}
+- admision-alumnado
+- bachillerato
+- consejo-escolar
+- curriculo
+- ensenanzas-artisticas
+- ensenanzas-deportivas
+- formacion-profesional
+- oposiciones
+relaciones:
+  desarrolla: []
 fundamentos_derecho:
 - norma_id: norm-can-l-6-2014
   articulos:
   - '1'
+- norma_id: norm-es-lo-2-2006
 fuente_pdf_oficial: https://sede.gobiernodecanarias.org/boc/boc-a-2026-077-1285.pdf
 ---
-
 # Resolución de 14 de abril de 2026, por la que se dictan instrucciones para la planificación, realización y gestión, en el ámbito de la Comunidad Autónoma de Canarias, de la Prueba para el Acceso a la Universidad, aplicables al alumnado que haya cursado el Bachillerato, así como los Ciclos Formativos de Grado Superior de Formación Profesional, de Enseñanzas Profesionales de Artes Pláticas y Diseño, y de Enseñanzas Deportivas.
 
 III. Otras Resoluciones

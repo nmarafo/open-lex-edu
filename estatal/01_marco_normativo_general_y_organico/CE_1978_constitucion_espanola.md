@@ -19,17 +19,18 @@ clasificacion:
   subcategoria: Marco normativo general
 tags:
 - constitucion
-- derechos_fundamentales
+- convivencia
 - derecho_educacion
-- estatal
-relaciones: {}
+- derechos_fundamentales
+- marco-normativo-general
+relaciones:
+  desarrolla: []
 fundamentos_derecho:
 - norma_id: norm-es-lo-2-2006
   articulos:
   - '1'
   - '2.1'
 ---
-
 # Constitución Española de 1978
 
 DON JUAN CARLOS I, REY DE ESPAÑA, A TODOS LOS QUE LA PRESENTE VIEREN Y ENTENDIEREN,

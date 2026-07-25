@@ -18,10 +18,19 @@ clasificacion:
   categoria_canonica: 03_ordenacion_curricular_y_ensenanzas
   subcategoria: Formación Profesional
 tags:
-- estatal
-- boe
-- 03_ordenacion_curricular_y_ensenanzas
-relaciones: {}
+- admision-alumnado
+- curriculo
+- evaluacion
+- formaci-n-profesional
+- formacion-profesional
+- profesorado
+relaciones:
+  desarrolla:
+  - norma_id: norm-es-lo-3-2022
+    articulos_origen:
+    - Todos
+    articulos_destino:
+    - Todos
 fundamentos_derecho:
 - norma_id: norm-es-ce-1978
   articulos:
@@ -30,7 +39,6 @@ fundamentos_derecho:
   articulos:
   - '1'
 ---
-
 # Real Decreto 498/2024, de 21 de mayo, por el que se modifican determinados reales decretos por los que se establecen títulos de Formación Profesional de grado básico y se fijan sus enseñanzas mínimas.
 
 **ÍNDICE**

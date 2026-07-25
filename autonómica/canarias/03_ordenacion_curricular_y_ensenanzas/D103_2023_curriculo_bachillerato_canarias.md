@@ -20,11 +20,15 @@ clasificacion:
   categoria_canonica: 03_ordenacion_curricular_y_ensenanzas
   subcategoria: Bachillerato
 tags:
-- canarias
 - bachillerato
+- curriculo
 - curriculo_bachillerato
-- modalidades_bachillerato
+- equipos-directivos
 - evaluacion_bachillerato
+- interinos
+- modalidades_bachillerato
+- oposiciones
+- profesorado
 relaciones:
   desarrolla:
   - norma_id: norm-es-rd-243-2022
@@ -44,7 +48,6 @@ fundamentos_derecho:
   - '34'
 fuente_pdf_oficial: https://sede.gobiernodecanarias.org/boc/boc-a-2023-096-1555.pdf
 ---
-
 # Decreto 103/2023, de 9 de mayo, por el que se establece la ordenación y el currículo del Bachillerato en la Comunidad Autónoma de Canarias.
 
 II. Autoridades y personal

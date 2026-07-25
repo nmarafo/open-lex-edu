@@ -15,17 +15,18 @@ clasificacion:
   categoria_canonica: 09_personal_laboral_y_no_docente
   subcategoria: Convenio colectivo y personal laboral
 tags:
-- canarias
-- resolucion
-- boc
-- 09_personal_laboral_y_no_docente
-relaciones: {}
+- convenio-colectivo-y-personal-laboral
+- ebep
+- equipos-directivos
+- evaluacion
+- roc
+relaciones:
+  desarrolla: []
 fundamentos_derecho:
 - norma_id: norm-can-l-6-2014
   articulos:
   - '1'
 ---
-
 # Resolución de 21 de junio de 1994, de la Dirección General de Trabajo, por la que se hace público Acuerdo de la Comisión Negociadora del Convenio Colectivo del Personal Laboral de la Comunidad Autónoma de Canarias (BOC n.º 83, de 8 de julio).
 
 BOC - 1994/083. Viernes 8 de Julio de 1994 - 1066

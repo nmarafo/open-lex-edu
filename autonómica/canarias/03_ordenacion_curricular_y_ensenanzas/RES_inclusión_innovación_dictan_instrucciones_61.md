@@ -18,18 +18,21 @@ clasificacion:
   categoria_canonica: 03_ordenacion_curricular_y_ensenanzas
   subcategoria: Bachillerato
 tags:
-- canarias
-- resolucion
-- boc
-- 03_ordenacion_curricular_y_ensenanzas
-relaciones: {}
+- bachillerato
+- bienestar-infantil
+- ensenanzas-deportivas
+- equipos-directivos
+- formacion-profesional
+- inclusiva
+- profesorado
+relaciones:
+  desarrolla: []
 fundamentos_derecho:
 - norma_id: norm-can-l-6-2014
   articulos:
   - '1'
 fuente_pdf_oficial: https://sede.gobiernodecanarias.org/boc/boc-a-2026-060-1011.pdf
 ---
-
 # Resolución de la Dirección General de Ordenación de las Enseñanzas, Inclusión e Innovación, por la que se dictan instrucciones para regular la implantación, con carácter de experiencia piloto, del Programa del Diploma del Bachillerato Internacional en centros educativos públicos de la Comunidad Autónoma de Canarias, durante el curso 2026-2027. Presentación de solicitudes de participación del alumnado por vía telemática: del 20 de abril al 11 de mayo (BOC nº 60, de 27 de marzo).
 
 III. Otras Resoluciones

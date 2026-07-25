@@ -18,18 +18,24 @@ clasificacion:
   categoria_canonica: 03_ordenacion_curricular_y_ensenanzas
   subcategoria: Formación Profesional
 tags:
-- canarias
-- resolucion
-- boc
-- 03_ordenacion_curricular_y_ensenanzas
-relaciones: {}
+- curriculo
+- ensenanzas-deportivas
+- equipos-directivos
+- formaci-n-profesional
+- formacion-profesional
+relaciones:
+  desarrolla:
+  - norma_id: norm-es-lo-3-2022
+    articulos_origen:
+    - Todos
+    articulos_destino:
+    - Todos
 fundamentos_derecho:
 - norma_id: norm-can-l-6-2014
   articulos:
   - '1'
 fuente_pdf_oficial: https://sede.gobiernodecanarias.org/boc/boc-a-2024-251-4224.pdf
 ---
-
 # Resolución de 10 de diciembre de 2024, de la Dirección General de Formación Profesional y Enseñanzas de Régimen Especial,-por la que se dictan instrucciones y orientaciones para la implantación y desarrollo de la oferta en las modalidades semipresencial y virtual de certificados profesionales de Grado C, ciclos formativos de Grado D y cursos especialización de Grado E a partir del curso 2024/2025 en el ámbito de la Comunidad Autónoma de Canarias (BOC nº 251, de 18 de diciembre).
 
 III. Otras Resoluciones

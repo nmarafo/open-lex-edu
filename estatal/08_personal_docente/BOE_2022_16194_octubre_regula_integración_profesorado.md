@@ -19,16 +19,21 @@ clasificacion:
   categoria_canonica: 08_personal_docente
   subcategoria: Especialidades y habilitaciones
 tags:
-- estatal
-- boe
-- 08_personal_docente
-relaciones: {}
+- ebep
+- eso
+- especialidades-y-habilitaciones
+- evaluacion
+- formacion-profesional
+- oposiciones
+- profesorado
+relaciones:
+  desarrolla: []
 fundamentos_derecho:
 - norma_id: norm-es-l-39-2015
   articulos:
   - '1'
+- norma_id: norm-es-lo-2-2006
 ---
-
 # Real Decreto 800/2022, de 4 de octubre, por el que se regula la integración del profesorado del Cuerpo, a extinguir, de Profesores Técnicos de Formación Profesional en el Cuerpo de Profesores de Enseñanza Secundaria, y se modifican diversos reales decretos relativos al profesorado de enseñanzas no universitarias.
 
 La Ley Orgánica 1/1990, de 3 de octubre, de Ordenación General del Sistema Educativo, efectuó la creación, en sus disposiciones adicionales décima y undécima, del Cuerpo de Profesores Técnicos de Formación Profesional, en el marco de la ordenación de la función pública docente de la enseñanza no universitaria. El Cuerpo de Profesores Técnicos de Formación Profesional desempeñaría sus funciones en la formación profesional y, excepcionalmente, en las condiciones que se pudieran establecer, en la educación secundaria obligatoria.

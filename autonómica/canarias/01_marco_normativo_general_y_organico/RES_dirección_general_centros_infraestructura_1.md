@@ -19,29 +19,33 @@ clasificacion:
   categoria_canonica: 01_marco_normativo_general_y_organico
   subcategoria: Protección jurídica de menores
 tags:
-- canarias
-- resolucion
-- boc
-- 01_marco_normativo_general_y_organico
-relaciones: {}
+- convivencia
+- equipos-directivos
+- profesorado
+- protecci-n-jur-dica-de-menores
+relaciones:
+  desarrolla: []
 fundamentos_derecho:
 - norma_id: norm-can-l-6-2014
   articulos:
   - '1'
 fuente_pdf_oficial: https://sede.gobiernodecanarias.org/boc/boc-a-2017-132-3376.pdf
+anexos_extraidos_pdf: true
+ocr_procesado: true
 ---
-
 # Resolución de 30 de junio de 2017, de la Dirección General de Centros e Infraestructura Educativa, por la que se dictan instrucciones para la actuación de los centros docentes sostenidos con fondos públicos, en los casos de padres, madres, separados, divorciados, que hayan finalizado su convivencia, o representantes legales, respecto a sus descendientes o representados, menores de edad, en el ámbito de las enseñanzas no universitarias de la Comunidad Autónoma de Canarias (BOC n.º 132, de 11 de julio).
 
+Boletín Oficial de Canarias núm. 132
 https://sede.gobcan.es/cpji/boc
 Martes 11 de julio de 2017
+19483
 III. Otras Resoluciones
 Consejería de Educación y Universidades
-3376 Dirección General de Centros e Infraestructura Educativa.- Resolución de 30 de 
+3376	 Dirección General de Centros e Infraestructura Educativa.- Resolución de 30 de 
 junio de 2017, por la que se dictan instrucciones para la actuación de los centros 
 docentes sostenidos con fondos públicos, en los casos de padres, madres, separados, 
 divorciados, que hayan finalizado su convivencia, o representantes legales, respecto 
-a sus descendientes o representados,  menores de edad, en el ámbito de las enseñanzas 
+a sus descendientes o representados,  menores de edad, en el ámbito de las enseñanzas 
 no universitarias de la Comunidad Autónoma de Canarias.
 El actual sistema educativo español reconoce que los padres, las madres o las personas 
 representantes legales son los primeros responsables de la educación de sus hijos o menores 
@@ -75,9 +79,12 @@ ocasiones, se resiente ante tales conflictos de pareja, por lo que los directore
 cargos directivos, profesorado, servicio de orientación, o personal de administración y 
 servicios, se encuentran con situaciones delicadas e imprevistas que les obliga a tomar 
 decisiones en relación con el alumnado cuyos padres, madres o personas representantes 
+boc-a-2017-132-3376
 
+Boletín Oficial de Canarias núm. 132
 https://sede.gobcan.es/cpji/boc
 Martes 11 de julio de 2017
+19484
 legales están atravesando por diferentes situaciones familiares: procesos de separación, 
 divorcio, ruptura de parejas de hecho, establecimiento o modificación de medidas judiciales 
 paterno-filiales, denuncias, acusaciones de toda índole, etc. 
@@ -117,12 +124,15 @@ a través de la presente Resolución, presenta cumplida respuesta a la demanda r
 las direcciones de los centros docentes y, en su caso de los padres, las madres o personas 
 representantes legales del alumnado menor de edad separados, divorciados o que han cesado 
 la convivencia de hecho, sobre la necesidad de establecer un marco de actuación para los 
-centros docentes en lo que a la educación de sus hijos e hijas se refiere y que básica mente 
+centros docentes en lo que a la educación de sus hijos e hijas se refiere y que básicamente 
 se centran en lo siguiente: la escolarización, los cambios de centro, la información, y la 
 recogida y entrega del menor en horario escolar.
+boc-a-2017-132-3376
 
+Boletín Oficial de Canarias núm. 132
 https://sede.gobcan.es/cpji/boc
 Martes 11 de julio de 2017
+19485
 Estas instrucciones pretenden guiar, fundamentalmente, al personal de los centros 
 docentes en su quehacer diario y también a las propias familias, proporcionando soluciones 
 ya pautadas ante determinadas situaciones o favoreciendo que puedan alcanzar un acuerdo 
@@ -160,15 +170,18 @@ Autónoma de Canarias (BOC nº 58, de 23 de marzo).
 julio, por el que se aprueba el Reglamento Orgánico de los centros docentes públicos no 
 universitarios de la Comunidad Autónoma de Canarias, en lo referente a su organización y 
 funcionamiento (BOC nº 200, de 16 de octubre). 
+boc-a-2017-132-3376
 
+Boletín Oficial de Canarias núm. 132
 https://sede.gobcan.es/cpji/boc
 Martes 11 de julio de 2017
+19486
 Considerando todo lo expuesto anteriormente, consultadas la Inspección de Educación y 
 las Direcciones Territoriales de Educación; y en uso de las atribuciones que me son propias, 
 conforme al artículo 10 del Decreto 135/2016, de 10 de octubre, por el que se aprueba el 
 Reglamento Orgánico de la Consejería de Educación y Universidades (BOC nº 203, de 19 
 de octubre),
-RESUELVO :
+R E S U E L V O:
 Primero.- Aprobar las instrucciones para su aplicación en los centros docentes 
 sostenidos con fondos públicos de enseñanzas no universitarias de la Comunidad Autónoma 
 de Canarias, sobre la actuación con los padres, las madres, separados, divorciados, personas 
@@ -179,9 +192,12 @@ Resolución.
 Segundo.- Esta Resolución tendrá efectos a partir del curso escolar 2017/2018.
 Santa Cruz de Tenerife, a 30 de junio de 2017.- La Directora General de Centros e 
 Infraestructura Educativa, Ana Isabel Dorta Alonso.
+boc-a-2017-132-3376
 
+Boletín Oficial de Canarias núm. 132
 https://sede.gobcan.es/cpji/boc
 Martes 11 de julio de 2017
+19487
 A N E X O
 INSTRUCCIONES PARA LA ACTUACIÓN DE LOS CENTROS DOCENTES SOSTENIDOS CON 
 FONDOS PÚBLICOS, EN LOS CASOS DE PADRES, MADRES, SEPARADOS, DIVORCIADOS, 
@@ -220,9 +236,12 @@ D) No aceptación del procedimiento de mediación ante la dirección del centro.
 E) Aceptación del procedimiento de mediación ante la inspección educativa. 
 F) Acta de mediación escolar con acuerdo entre las partes.
 G) Acta de mediación escolar sin acuerdo entre las partes.
+boc-a-2017-132-3376
 
+Boletín Oficial de Canarias núm. 132
 https://sede.gobcan.es/cpji/boc
 Martes 11 de julio de 2017
+19488
 INSTRUCCIONES
 Primera.- Objetivo y alcance de las presentes instrucciones. 
 El objetivo de las presentes instrucciones es establecer pautas comunes de actuación 
@@ -260,9 +279,12 @@ c) Proteger la convivencia y el buen clima escolar. La dirección del centro deb
 favorecer la convivencia en el centro, mediar en la resolución de los conflictos, velando por 
 el buen clima escolar, e impulsar la colaboración con las familias promoviendo compromisos 
 educativos pedagógicos y convivenciales.
+boc-a-2017-132-3376
 
+Boletín Oficial de Canarias núm. 132
 https://sede.gobcan.es/cpji/boc
 Martes 11 de julio de 2017
+19489
 d) Informar de los derechos y deberes. Corresponde al centro docente, en coordinación 
 con la Inspección Educativa, informar tanto de los derechos como de los deberes en el 
 ámbito educativo que tienen las personas responsables del alumnado menor de edad y otros 
@@ -297,16 +319,19 @@ las víctimas de violencia de género ... y atenerse al contenido de las mismas.
 responsabilidad de los padres, las madres o las personas representantes legales entregar en 
 el centro dichos documentos judiciales y actualizarlos si, con posterioridad, se dictan otras 
 resoluciones por el juzgado.
-b) Inexistencia de disposiciones judiciales.  En el caso de que no hayan recaído una 
+b) Inexistencia de disposiciones judiciales. En el caso de que no hayan recaído una 
 resolución judicial (auto, sentencia), medidas sobre la patria potestad, guarda y custodia, 
-o indicaciones referidas a la educación del menor de edad, se deberá intenta r un acuerdo 
+o indicaciones referidas a la educación del menor de edad, se deberá intentar un acuerdo 
 entre los progenitores a través de la mediación prevista en estas instrucciones. De no 
 prosperar la mediación, se dará preferencia para decidir sobre los aspectos contemplados 
 en las instrucciones cuarta y quinta, a quien tenga la guarda y custodia de hecho al convivir 
 consigo el hijo o la hija menor de edad. 
+boc-a-2017-132-3376
 
+Boletín Oficial de Canarias núm. 132
 https://sede.gobcan.es/cpji/boc
 Martes 11 de julio de 2017
+19490
 Asimismo, ante la carencia de documentación, notificación verbal o escrita, de cualquiera 
 de los progenitores sobre la existencia de separación legal o de hecho, divorcio, ruptura de la 
 convivencia en caso de parejas sin vínculos legales, u otras situaciones de conflicto familiar 
@@ -343,12 +368,15 @@ b) La firma solo uno de ellos si así lo determinase una resolución judicial (a
 c) La firma uno solo, al tener atribuida la guarda y custodia del menor sin limitación para 
 gestionar todo lo necesario en el procedimiento de admisión y matrícula previsto.
 En este sentido, respecto a terceros de buena fe, como sería la Administración educativa 
-o el centro docente, tal como establece el Código Civil (artículo 156), se presu mirá que el 
+o el centro docente, tal como establece el Código Civil (artículo 156), se presumirá que el 
 padre, la madre o la persona representante legal actúa en el ejercicio de la patria potestad con 
 el consentimiento del otro.
+boc-a-2017-132-3376
 
+Boletín Oficial de Canarias núm. 132
 https://sede.gobcan.es/cpji/boc
 Martes 11 de julio de 2017
+19491
 3. Matrícula durante el proceso anual de admisión.
 Una vez publicadas las listas definitivas del alumnado admitido y excluido, se procederá 
 a matricular al admitido. Por ello, los alumnos y las alumnas menores de edad tendrán que 
@@ -389,9 +417,12 @@ a la escolarización en el centro en el que el alumnado menor tenga hermanos o h
 y, en caso de que no los tenga, si convive habitualmente con uno de los progenitores o va a 
 ser llevado o recogido del centro por uno de ellos con mayor frecuencia, será el centro más 
 próximo al domicilio o centro de trabajo del referido progenitor o progenitora.
+boc-a-2017-132-3376
 
+Boletín Oficial de Canarias núm. 132
 https://sede.gobcan.es/cpji/boc
 Martes 11 de julio de 2017
+19492
 Si la custodia es compartida o convive por igual con ambos progenitores, o el régimen 
 de traslado y recogida del centro es idéntico, se dará prioridad al centro más próximo al 
 domicilio o centro de trabajo de cualquiera de los progenitores.
@@ -430,9 +461,12 @@ consulta al que tiene asignada la guarda y custodia, de que no existe impediment
 alguno (decisiones judiciales por violencia de género, prohibición respecto a los hijos e 
 hijas ...), ya que en caso contrario, deberá acreditarlo a la mayor brevedad posible con la 
 documentación justificativa. 
+boc-a-2017-132-3376
 
+Boletín Oficial de Canarias núm. 132
 https://sede.gobcan.es/cpji/boc
 Martes 11 de julio de 2017
+19493
 Sexta.- Derecho de información de los padres, las madres o las personas 
 representantes legales.
 1. Regulación. Los padres, las madres o las personas representantes legales tienen el 
@@ -472,12 +506,15 @@ progenitores se efectuará sin ningún trámite, salvo indicación expresa poste
 producido un cambio en esta situación legal. 
 3. Parejas de hecho. En los casos de parejas de hecho que hayan puesto fin a la convivencia, 
 se tendrá en cuenta, en caso de existir resolución judicial, las medidas paternofiliales 
+boc-a-2017-132-3376
 
+Boletín Oficial de Canarias núm. 132
 https://sede.gobcan.es/cpji/boc
 Martes 11 de julio de 2017
+19494
 adoptadas por parte de un juzgado o tribunal. Mientras no haya una resolución judicial, por 
 analogía, se facilitará la misma información a cualquiera de los progenitores.
-4. Contenido de la información.  En las condiciones señaladas anteriormente, se 
+4. Contenido de la información. En las condiciones señaladas anteriormente, se 
 trasladará información escolar cotidiana, sobre las cuestiones siguientes:
 a) El progreso del aprendizaje e integración socioeducativa (participación en actividades 
 complementarias y extraescolares del centro educativo, realización de talleres creativos o 
@@ -511,9 +548,12 @@ Si lo que solicitan son informes de otro carácter, para presentarlos en un proc
 abierto contra el otro progenitor o progenitora, en litigios civiles sobre la patria potestad, 
 guarda custodia, régimen de visitas ..., en otros pleitos penales o de cualquier otro orden, 
 únicamente se entregará información sobre datos objetivos o registros del centro, las 
+boc-a-2017-132-3376
 
+Boletín Oficial de Canarias núm. 132
 https://sede.gobcan.es/cpji/boc
 Martes 11 de julio de 2017
+19495
 calificaciones escolares, el rendimiento, la asistencia o las ausencias a clase. Cualquier otra 
 información deberá facilitarse solo a requerimiento del Juzgado, no a petición directa de las 
 partes o sus letrados. 
@@ -554,9 +594,12 @@ Los padres, las madres o las personas representantes legales cumplirán con las 
 de organización y funcionamiento del centro, respetando el horario escolar, y acudirán al 
 centro para la entrega y recogida de sus hijos e hijas, reuniones, actos o eventos para los que 
 han sido convocados. Por tanto, con carácter general no podrán interrumpir el proceso de 
+boc-a-2017-132-3376
 
+Boletín Oficial de Canarias núm. 132
 https://sede.gobcan.es/cpji/boc
 Martes 11 de julio de 2017
+19496
 aprendizaje ni el horario lectivo con el fin de comunicar con sus hijos o hijas dentro de la 
 jornada escolar, salvo que circunstancias extraordinarias o resoluciones judiciales aconsejen 
 o expresen lo contrario. Tampoco puede acceder el centro a las peticiones del padre o de la 
@@ -593,9 +636,12 @@ al centro, teniendo este constancia de su recepción, así como acreditar su aut
 Una vez recibida dicha resolución por el centro docente, este debe comunicarla al otro 
 progenitor también por cualquier medio que acredite su recepción, a fin de que se pronuncie, 
 a su vez, sobre su autenticidad y vigencia.
+boc-a-2017-132-3376
 
+Boletín Oficial de Canarias núm. 132
 https://sede.gobcan.es/cpji/boc
 Martes 11 de julio de 2017
+19497
 En caso de no recibir respuesta de la otra parte en el plazo de cinco días, se entenderá que 
 está conforme con la autenticidad y vigencia de la resolución. 
 Décima.- Procedimiento de Mediación.
@@ -634,9 +680,12 @@ las partes en conflictos para facilitar que estas alcancen un acuerdo que respet
 superior.
 c) Confidencialidad. Se garantizará a las partes en conflicto la estricta confidencialidad 
 de toda la información surgida durante el procedimiento de mediación, y no podrá utilizarse 
+boc-a-2017-132-3376
 
+Boletín Oficial de Canarias núm. 132
 https://sede.gobcan.es/cpji/boc
 Martes 11 de julio de 2017
+19498
 dicha información en el caso de continuarse la gestión del conflicto por otra vía ajena a la 
 mediación.
 d) Plazo. El procedimiento de mediación descrito en esta instrucción no puede durar 
@@ -675,9 +724,12 @@ el acta formalizando el acuerdo (documento F) y el acta constando la ausencia de
 Undécima.- Cooperar con otras Administraciones públicas.
 Toda la comunidad educativa tiene el deber de cooperar con los funcionarios de otras 
 administraciones (Juzgados, Tribunales, Ayuntamientos). Si este personal funcionario se 
+boc-a-2017-132-3376
 
+Boletín Oficial de Canarias núm. 132
 https://sede.gobcan.es/cpji/boc
 Martes 11 de julio de 2017
+19499
 presenta con un documento emitido por un Juzgado o Tribunal se estará a lo que en él se 
 disponga, y ante cualquier duda sobre el documento o su contenido se constatará con el 
 propio emisor del documento tanto su veracidad como la aclaración sobre su contenido. No 
@@ -715,9 +767,12 @@ solución a las controversias entre los progenitores del alumnado que incidan di
 en el ámbito escolar. Se basa en el diálogo a través de un encuentro voluntario entre las 
 partes implicadas y la persona mediadora, quien siendo ajena al conflicto y actuando de 
 forma imparcial les ayuda a comunicarse. El objetivo es que las partes encuentren y decidan 
+boc-a-2017-132-3376
 
+Boletín Oficial de Canarias núm. 132
 https://sede.gobcan.es/cpji/boc
 Martes 11 de julio de 2017
+19500
 de común acuerdo la manera de solucionar el problema que les mantenía en conflicto. El 
 acuerdo alcanzado debe ser satisfactorio para ambas partes. 
 e) Documentos judiciales con decisiones que pueden afectar a los menores en el 
@@ -754,31 +809,30 @@ personas que indique el auto que acuerda la medida, tales como hijos, familiares
 todo ello bajo apercibimiento de responsabilidad penal.
 - Prohibición de acudir a determinados lugares: impide al presunto agresor acudir a 
 determinados lugares.
+boc-a-2017-132-3376
 
+Boletín Oficial de Canarias núm. 132
 https://sede.gobcan.es/cpji/boc
 Martes 11 de julio de 2017
-Folio 22/28
-RESOLUCIÓN  DE  LA  DIRECCIÓN  GENERAL  DE  CENTROS  E
-INFRAESTRUCTURA EDUCATIVA POR LA QUE SE DICTAN INSTRUCCIONES
-PARA LA ACTUACIÓN DE LOS CENTROS DOCENTES SOSTENIDOS CON
-FONDOS PÚBLICOS , EN LOS CASOS DE PADRES, MADRES, SEPARADOS,
-DIVORCIADOS, QUE HAYAN FINALIZADO SU CONVIVENCIA, O
-REPRESENTANTES LEGALES, RESPECTO A SUS DESCENDIENTES O
-REPRESENTADOS,  MENORES DE EDAD, EN EL ÁMBITO DE LAS ENSEÑANZAS
-NO UNIVERSITARIAS DE LA COMUNIDAD AUTÓNOMA DE CANARIAS.
+19501
 DOCUMENTO A)
 COMUNICACIÓN DE OFRECIMIENTO DE MEDIACIÓN
-Centro docente: Fecha:
-D./D.ª: DNI n.º
-D./D.ª: DNI n.º
-Solicitado el inicio del procedimiento de mediación previsto par a los padres, las madres, separados, divorciados, parejas
+Centro docente:
+Fecha:
+D./D.ª:
+DNI n.º
+D./D.ª:
+DNI n.º
+Solicitado el inicio del procedimiento de mediación previsto para los padres, las madres, separados, divorciados, parejas
 de hecho que hayan puesto fin a su convivencia, o representantes legales, a realizar en el centro docente en el que cursa
 estudios su hijo/hija, pupilo/pupila menor de edad, sobre el que ejerce la patria potestad compartida, guarda legal o tutela,
 a fin de resolver el conflicto surgido en el ámbito escolar, de forma inmediata y en beneficio de su interés superior, hasta
 que se resuelva definitivamente por resolución judicial o administrativa, se formaliza el ofrecimiento del procedimiento
 mediante la presente comunicación. 
 Por ello, se convoca a una reunión debiendo asistir en la fecha, hora y lugar siguiente:
-Día: Hora: Lugar:
+Día:
+Hora: 
+Lugar:
 Motivo: iniciar el procedimiento de mediación para solucionar el conflicto surgido en el ámbito escolar.
 Dirección del centro
 Fdo. D./D.ª___________________________________________
@@ -787,27 +841,26 @@ D./ D.ª (indicar nombre y dos apellidos)_______________________________________
     
          DNI n.º______________________                                   Fecha ___________________________
 FIRMA
+boc-a-2017-132-3376
 
+Boletín Oficial de Canarias núm. 132
 https://sede.gobcan.es/cpji/boc
 Martes 11 de julio de 2017
-Folio 23/28
-RESOLUCIÓN  DE  LA  DIRECCIÓN  GENERAL  DE  CENTROS  E
-INFRAESTRUCTURA EDUCATIVA POR LA QUE SE DICTAN INSTRUCCIONES
-PARA LA ACTUACIÓN DE LOS CENTROS DOCENTES SOSTENIDOS CON
-FONDOS PÚBLICOS , EN LOS CASOS DE PADRES, MADRES, SEPARADOS,
-DIVORCIADOS, QUE HAYAN FINALIZADO SU CONVIVENCIA, O
-REPRESENTANTES LEGALES, RESPECTO A SUS DESCENDIENTES O
-REPRESENTADOS,  MENORES DE EDAD, EN EL ÁMBITO DE LAS ENSEÑANZAS
-NO UNIVERSITARIAS DE LA COMUNIDAD AUTÓNOMA DE CANARIAS.
+19502
 DOCUMENTO B)
 ACTA DE CONSTANCIA DE LA INASISTENCIA DE UNA O AMBAS PARTES
-Lugar: Día: Hora:
+Lugar:
+Día:
+Hora:
 Previamente citadas y convocadas para una reunión de inicio de la mediación las personas que se indican:
-D./D.ª: DNI n.º
+D./D.ª:
+DNI n.º
 en calidad de (padre/madre/representante legal): 
-D./D.ª: DNI n.º
+D./D.ª:
+DNI n.º
 en calidad de (padre/madre/representante legal):
-Alumno/alumna: Curso: 
+Alumno/alumna: 
+Curso: 
  NO asiste ninguno de los dos (marcar con una cruz)    
   
 SOLO  acude D./D.ª
@@ -818,50 +871,43 @@ al efecto.
 Observación: 
                  Dirección del centro                                                                             Compareciente
     Fdo. D./ D.ª __________________________                                Fdo. D./ D.ª __________________________
+boc-a-2017-132-3376
 
+Boletín Oficial de Canarias núm. 132
 https://sede.gobcan.es/cpji/boc
 Martes 11 de julio de 2017
-Folio 24/28
-RESOLUCIÓN  DE  LA  DIRECCIÓN  GENERAL  DE  CENTROS  E
-INFRAESTRUCTURA EDUCATIVA POR LA QUE SE DICTAN INSTRUCCIONES
-PARA LA ACTUACIÓN DE LOS CENTROS DOCENTES SOSTENIDOS CON
-FONDOS PÚBLICOS , EN LOS CASOS DE PADRES, MADRES, SEPARADOS,
-DIVORCIADOS, QUE HAYAN FINALIZADO SU CONVIVENCIA, O
-REPRESENTANTES LEGALES, RESPECTO A SUS DESCENDIENTES O
-REPRESENTADOS,  MENORES DE EDAD, EN EL ÁMBITO DE LAS ENSEÑANZAS
-NO UNIVERSITARIAS DE LA COMUNIDAD AUTÓNOMA DE CANARIAS.
+19503
 DOCUMENTO C)
 ACEPTACIÓN DEL PROCEDIMIENTO DE MEDIACIÓN ANTE LA DIRECCIÓN DEL CENTRO
 Centro docente:
 Día: 
 Hora:
 Director/Directora D./ D.ª: 
-D./D.ª: DNI n.º
+D./D.ª:
+DNI n.º
 en calidad de (padre/madre/representante legal): 
-D./D.ª: DNI n.º
+D./D.ª:
+DNI n.º
 en calidad de (padre/madre/representante legal):
-Alumno/alumna: Curso:
-Una vez informados de las  condiciones en que se realiza la mediación, y de la persona que llevará la misma,  ACEPTAN
+Alumno/alumna:
+Curso:
+Una vez informados de las condiciones en que se realiza la mediación, y de la persona que llevará la misma, ACEPTAN
 voluntariamente participar en dicha mediación y se comprometen a respetar los términos del acuerdo hasta que se
 resuelva definitivamente el conflicto, quedando citados, desde este acto, para ello. 
-Lugar: Día: Hora:
+Lugar:
+Día:
+Hora:
 Dirección del centro
 Fdo. D./ D.ª ___________________________________________
 Comparecientes
 Fdo. D./ D.ª ______________________________     Fdo. D./ D.ª  ______________________________
        
+boc-a-2017-132-3376
 
+Boletín Oficial de Canarias núm. 132
 https://sede.gobcan.es/cpji/boc
 Martes 11 de julio de 2017
-Folio 25/28
-RESOLUCIÓN  DE  LA  DIRECCIÓN  GENERAL  DE  CENTROS  E
-INFRAESTRUCTURA EDUCATIVA POR LA QUE SE DICTAN INSTRUCCIONES
-PARA LA ACTUACIÓN DE LOS CENTROS DOCENTES SOSTENIDOS CON
-FONDOS PÚBLICOS , EN LOS CASOS DE PADRES, MADRES, SEPARADOS,
-DIVORCIADOS, QUE HAYAN FINALIZADO SU CONVIVENCIA, O
-REPRESENTANTES LEGALES, RESPECTO A SUS DESCENDIENTES O
-REPRESENTADOS,  MENORES DE EDAD, EN EL ÁMBITO DE LAS ENSEÑANZAS
-NO UNIVERSITARIAS DE LA COMUNIDAD AUTÓNOMA DE CANARIAS.
+19504
 DOCUMENTO D)
   NO ACEPTACIÓN DEL PROCEDIMIENTO DE MEDIACIÓN 
 ANTE LA DIRECCIÓN DEL CENTRO
@@ -869,41 +915,43 @@ Centro docente:
 Día:
 Hora:
 Director/Directora D./ D.ª: 
-D./D.ª: DNI n.º
+D./D.ª:
+DNI n.º
 en calidad de (padre/madre/representante legal): 
-D./D.ª: DNI n.º
+D./D.ª:
+DNI n.º
 en calidad de (padre/madre/representante legal):
-Alumno/alumna: Curso:
+Alumno/alumna:
+Curso:
 Una vez informados de las condiciones en que se realiza la mediación, y de la persona que llevaría la misma,
 NO ACEPTAN participar en el procedimiento de mediación ofrecido.
-NO ACEPTA D./ D.ª
+NO ACEPTA
+D./ D.ª
 Dirección del centro
 Fdo. D./ D.ª ___________________________________________
 Comparecientes
 Fdo. D./ D.ª ______________________________     Fdo. D./ D.ª ____________________________
+boc-a-2017-132-3376
 
+Boletín Oficial de Canarias núm. 132
 https://sede.gobcan.es/cpji/boc
 Martes 11 de julio de 2017
-Folio 26/28
-RESOLUCIÓN  DE  LA  DIRECCIÓN  GENERAL  DE  CENTROS  E
-INFRAESTRUCTURA EDUCATIVA POR LA QUE SE DICTAN INSTRUCCIONES
-PARA LA ACTUACIÓN DE LOS CENTROS DOCENTES SOSTENIDOS CON
-FONDOS PÚBLICOS , EN LOS CASOS DE PADRES, MADRES, SEPARADOS,
-DIVORCIADOS, QUE HAYAN FINALIZADO SU CONVIVENCIA, O
-REPRESENTANTES LEGALES, RESPECTO A SUS DESCENDIENTES O
-REPRESENTADOS,  MENORES DE EDAD, EN EL ÁMBITO DE LAS ENSEÑANZAS
-NO UNIVERSITARIAS DE LA COMUNIDAD AUTÓNOMA DE CANARIAS.
+19505
 DOCUMENTO E)
 ACEPTACIÓN DEL PROCEDIMIENTO DE MEDIACIÓN ANTE LA INSPECCIÓN EDUCATIVA
 Sede de la Inspección:
 Día:
 Hora:
-Inspector/inspectora D./ D.ª: Zona:
-D./D.ª: DNI n.º
+Inspector/inspectora D./ D.ª:
+Zona:
+D./D.ª:
+DNI n.º
 en calidad de (padre/madre/representante legal): 
-D./D.ª: DNI n.º
+D./D.ª:
+DNI n.º
 en calidad de (padre/madre/representante legal): 
-Alumno/alumna: Curso:
+Alumno/alumna:
+Curso:
 Centro docente
 Con el objeto de alcanzar un acuerdo de mediación ante la Inspección Educativa, se ofrece la continuación del
 procedimiento de mediación previsto para los padres, las madres, separados, divorciados, parejas de hecho que hayan
@@ -911,34 +959,33 @@ puesto fin a su convivencia, o representantes legales, en los centros docentes r
 quien ejerce la patria potestad compartida, o guarda legal o tutela, a fin de resolver el conflicto surgido en el ámbito escolar,
 de forma inmediata y en beneficio de su interés superior, hasta que  se resuelva definitivamente por resolución judicial o
 administrativa ACEPTANDO dicha propuesta quedando citados para ello.
-Lugar: Día: Hora:
+Lugar:
+Día:
+Hora:
 Inspector/Inspectora del centro
 Fdo. D./ D.ª ___________________________________________
 Comparecientes
 Fdo.  D./ D.ª  ______________________________     Fdo.  D./ D.ª ____________________________
+boc-a-2017-132-3376
 
+Boletín Oficial de Canarias núm. 132
 https://sede.gobcan.es/cpji/boc
 Martes 11 de julio de 2017
-Folio 27/28
-RESOLUCIÓN  DE  LA  DIRECCIÓN  GENERAL  DE  CENTROS  E
-INFRAESTRUCTURA EDUCATIVA POR LA QUE SE DICTAN INSTRUCCIONES
-PARA LA ACTUACIÓN DE LOS CENTROS DOCENTES SOSTENIDOS CON
-FONDOS PÚBLICOS , EN LOS CASOS DE PADRES, MADRES, SEPARADOS,
-DIVORCIADOS, QUE HAYAN FINALIZADO SU CONVIVENCIA, O
-REPRESENTANTES LEGALES, RESPECTO A SUS DESCENDIENTES O
-REPRESENTADOS,  MENORES DE EDAD, EN EL ÁMBITO DE LAS ENSEÑANZAS
-NO UNIVERSITARIAS DE LA COMUNIDAD AUTÓNOMA DE CANARIAS.
+19506
 DOCUMENTO F)
 ACTA DE MEDIACIÓN ESCOLAR CON ACUERDO ENTRE LAS PARTES
 Reunidas las partes con la persona mediadora 
 Lugar:
 Día:
 Hora:
-D./D.ª: DNI n.º
+D./D.ª:
+DNI n.º
 en calidad de (padre/madre/representante legal) 
-D./D.ª: DNI n.º
+D./D.ª:
+DNI n.º
 en calidad de (padre/madre/representante legal)
-Alumno/alumna: Curso:
+Alumno/alumna:
+Curso:
 Director/Directora 
 Persona mediadora del centro
 Inspector/Inspectora del centro
@@ -953,29 +1000,26 @@ Inspector/Inspectora   !         Director/Directora    !      Persona del centro
 Fdo. D./ D.ª ___________________________________________
 Comparecientes
 Fdo. D./ D.ª ______________________________     Fdo.D./ D.ª  ____________________________
+boc-a-2017-132-3376
 
+Boletín Oficial de Canarias núm. 132
 https://sede.gobcan.es/cpji/boc
 Martes 11 de julio de 2017
-Folio 28/28
-RESOLUCIÓN  DE  LA  DIRECCIÓN  GENERAL  DE  CENTROS  E
-INFRAESTRUCTURA EDUCATIVA POR LA QUE SE DICTAN INSTRUCCIONES
-PARA LA ACTUACIÓN DE LOS CENTROS DOCENTES SOSTENIDOS CON
-FONDOS PÚBLICOS , EN LOS CASOS DE PADRES, MADRES, SEPARADOS,
-DIVORCIADOS, QUE HAYAN FINALIZADO SU CONVIVENCIA, O
-REPRESENTANTES LEGALES, RESPECTO A SUS DESCENDIENTES O
-REPRESENTADOS,  MENORES DE EDAD, EN EL ÁMBITO DE LAS ENSEÑANZAS
-NO UNIVERSITARIAS DE LA COMUNIDAD AUTÓNOMA DE CANARIAS.
+19507
 DOCUMENTO G)
 ACTA DE MEDIACIÓN ESCOLAR SIN ACUERDO ENTRE LAS PARTES
 Reunidas las partes con la persona mediadora 
 Lugar:
 Día:
 Hora:
-D./D.ª: DNI n.º
+D./D.ª:
+DNI n.º
 en calidad de (padre/madre/representante legal) 
-D./D.ª: DNI n.º
+D./D.ª:
+DNI n.º
 en calidad de (padre/madre/representante legal)
-Alumno/alumna: Curso:
+Alumno/alumna:
+Curso:
 Director/Directora 
 Persona mediadora del centro
 Inspector/Inspectora del centro
@@ -989,3 +1033,4 @@ Inspector/a   !         Director/a    !      Persona del centro designada !
 Fdo. D./D.ª___________________________________________
 Comparecientes
 Fdo. D./D.ª ______________________________     Fdo. D./D.ª____________________________
+boc-a-2017-132-3376

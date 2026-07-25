@@ -22,10 +22,20 @@ clasificacion:
   categoria_canonica: 02_gestion_y_administracion_centros
   subcategoria: Centros públicos
 tags:
+- bachillerato
+- centros-p-blicos
 - cualificacion_docente
+- curriculo
+- ebep
+- ensenanzas-artisticas
+- ensenanzas-deportivas
+- eoi
+- eso
 - especialidades_secundaria
+- evaluacion
+- formacion-profesional
 - master_profesorado
-- estatal
+- profesorado
 relaciones:
   desarrolla:
   - norma_id: norm-es-lo-2-2006
@@ -46,7 +56,6 @@ fundamentos_derecho:
   articulos:
   - '27'
 ---
-
 # Real Decreto 1834/2008 - Condiciones de Formación para el Ejercicio de la Docencia
 
 La Ley Orgánica 2/2006, de 3 de mayo, de Educación establece en sus artículos 91 al 99 las funciones del profesorado de las distintas enseñanzas que se regulan en ella, así como sus respectivas condiciones de titulación y formación pedagógica y didáctica. En la disposición adicional séptima, a su vez, se especifican las funciones de los diferentes cuerpos en los que se ordena la función pública docente.

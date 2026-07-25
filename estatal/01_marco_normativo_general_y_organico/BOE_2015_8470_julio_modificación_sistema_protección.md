@@ -17,10 +17,11 @@ clasificacion:
   categoria_canonica: 01_marco_normativo_general_y_organico
   subcategoria: Protección jurídica de menores
 tags:
-- estatal
-- boe
-- 01_marco_normativo_general_y_organico
-relaciones: {}
+- bienestar-infantil
+- curriculo
+- protecci-n-jur-dica-de-menores
+relaciones:
+  desarrolla: []
 fundamentos_derecho:
 - norma_id: norm-es-ce-1978
   articulos:
@@ -33,7 +34,6 @@ fundamentos_derecho:
   articulos:
   - '1'
 ---
-
 # Ley 26/2015, de 28 de julio, de modificación del sistema de protección a la infancia y a la adolescencia.
 
 **FELIPE VI**

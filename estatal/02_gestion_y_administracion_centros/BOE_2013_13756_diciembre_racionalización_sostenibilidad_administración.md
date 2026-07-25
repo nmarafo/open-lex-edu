@@ -17,16 +17,15 @@ clasificacion:
   categoria_canonica: 02_gestion_y_administracion_centros
   subcategoria: Cooperación con entidades locales
 tags:
-- estatal
-- boe
-- 02_gestion_y_administracion_centros
-relaciones: {}
+- cooperaci-n-con-entidades-locales
+- curriculo
+relaciones:
+  desarrolla: []
 fundamentos_derecho:
 - norma_id: norm-es-ce-1978
   articulos:
   - '27'
 ---
-
 # Ley 27/2013, de 27 de diciembre, de racionalización y sostenibilidad de la Administración Local.
 
 **JUAN CARLOS I**

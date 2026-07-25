@@ -17,16 +17,23 @@ clasificacion:
   categoria_canonica: 03_ordenacion_curricular_y_ensenanzas
   subcategoria: Enseñanzas Artísticas
 tags:
-- estatal
-- boe
-- 03_ordenacion_curricular_y_ensenanzas
-relaciones: {}
+- admision-alumnado
+- curriculo
+- ense-anzas-art-sticas
+- ensenanzas-artisticas
+- ensenanzas-deportivas
+- eso
+- evaluacion
+- formacion-profesional
+- oposiciones
+relaciones:
+  desarrolla: []
 fundamentos_derecho:
 - norma_id: norm-es-l-39-2015
   articulos:
   - '1'
+- norma_id: norm-es-lo-2-2006
 ---
-
 # Real Decreto 452/2026, de 3 de junio, por el que se establece la ordenación de las Enseñanzas Profesionales de Artes Plásticas y Diseño.
 
 La Ley Orgánica 2/2006, de 3 de mayo, de Educación, incluye las Enseñanzas Profesionales de Artes Plásticas y Diseño entre las enseñanzas artísticas, a las que dedica el capítulo VI de su título I. Su finalidad es proporcionar una formación artística de calidad al alumnado y garantizar la cualificación de los futuros profesionales del ámbito de las artes plásticas y el diseño.

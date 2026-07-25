@@ -18,18 +18,21 @@ clasificacion:
   categoria_canonica: 03_ordenacion_curricular_y_ensenanzas
   subcategoria: Enseñanzas de Idiomas
 tags:
-- canarias
-- resolucion
-- boc
-- 03_ordenacion_curricular_y_ensenanzas
-relaciones: {}
+- ense-anzas-de-idiomas
+- ensenanzas-deportivas
+- eoi
+- equipos-directivos
+- evaluacion
+- formacion-profesional
+- profesorado
+relaciones:
+  desarrolla: []
 fundamentos_derecho:
 - norma_id: norm-can-l-6-2014
   articulos:
   - '1'
 fuente_pdf_oficial: https://sede.gobiernodecanarias.org/boc/boc-a-2025-250-4324.pdf
 ---
-
 # Resolución de la Dirección General de Formación Profesional y Enseñanzas de Régimen Especial, número 597/2025 de 4 de diciembre, por la que se convocan pruebas para la obtención de certificados de nivel intermedio B2 y nivel avanzado C1 de Inglés de Enseñanzas de Idiomas de Régimen Especial en la Comunidad Autónoma de Canarias y se dictan instrucciones para su organización y aplicación en el curso 2025-2026 (BOC núm 250, de 18 de diciembre).
 
 III. Otras Resoluciones

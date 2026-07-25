@@ -17,18 +17,19 @@ clasificacion:
   categoria_canonica: 08_personal_docente
   subcategoria: Jornada laboral y horarios
 tags:
-- canarias
-- resolucion
-- boc
-- 08_personal_docente
-relaciones: {}
+- ensenanzas-deportivas
+- equipos-directivos
+- formacion-profesional
+- jornada-laboral-y-horarios
+- oposiciones
+relaciones:
+  desarrolla: []
 fundamentos_derecho:
 - norma_id: norm-can-l-6-2014
   articulos:
   - '1'
 fuente_pdf_oficial: https://sede.gobiernodecanarias.org/boc/boc-a-2025-094-1775.pdf
 ---
-
 # Resolución de 29 de abril de 2025, de la Viceconsejería de Educación, por la que se adoptan las medidas necesarias para la aplicación del Acuerdo de 8 de abril de 2025, que modifica el Acuerdo de mejora del Sistema Público Educativo de Canarias, de 18 de julio de 2022, entre Administración y Sindicatos (BOC nº 94, de 13 de mayo).
 
 III. Otras Resoluciones

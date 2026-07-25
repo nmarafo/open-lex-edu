@@ -19,10 +19,16 @@ clasificacion:
   categoria_canonica: 03_ordenacion_curricular_y_ensenanzas
   subcategoria: Educación Primaria
 tags:
-- estatal
-- boe
-- 03_ordenacion_curricular_y_ensenanzas
-relaciones: {}
+- bachillerato
+- curriculo
+- educaci-n-primaria
+- educacion-primaria
+- eso
+- evaluacion
+- formacion-profesional
+- profesorado
+relaciones:
+  desarrolla: []
 fundamentos_derecho:
 - norma_id: norm-es-ce-1978
   articulos:
@@ -30,8 +36,8 @@ fundamentos_derecho:
 - norma_id: norm-es-l-39-2015
   articulos:
   - '1'
+- norma_id: norm-es-lo-2-2006
 ---
-
 # Real Decreto 984/2021, de 16 de noviembre, por el que se regulan la evaluación y la promoción en la Educación Primaria, así como la evaluación, la promoción y la titulación en la Educación Secundaria Obligatoria, el Bachillerato y la Formación Profesional.
 
 La Ley Orgánica 3/2020, de 29 de diciembre, por la que se modifica la Ley Orgánica 2/2006, de 3 de mayo, de Educación, aborda una ambiciosa transformación del sistema educativo con el objetivo principal, según declara la propia ley en su preámbulo, de establecer un renovado ordenamiento legal que aumente las oportunidades educativas y formativas de toda la población, que contribuya a la mejora de los resultados educativos del alumnado y que satisfaga la demanda de una educación de calidad para todos.
