@@ -213,7 +213,7 @@ tario y los centros donde participará.
 5. De la ejecución del presente convenio no se derivarán obligaciones económicas, labo-
 rales ni de ningún otro tipo para la Consejería de Educación, Universidades y Sostenibilidad.
 6. El marco normativo del presente Convenio es el siguiente:
-- La Ley Orgánica 2/2006, de 3 de mayo, de Educación (BOE nº 106, de 4.5.06), modifi-
+- La [Ley Orgánica 2/2006](../../../estatal/01_marco_normativo_general_y_organico/LO2_2006_educacion_texto_consolidado_modificaciones_lomloe.md), de 3 de mayo, de Educación (BOE nº 106, de 4.5.06), modifi-
 cada por la [Ley Orgánica 8/2013](../../../estatal/03_ordenacion_curricular_y_ensenanzas/LO462_2016_ecd_regula_procedimiento_incorporacion_alumnado_curso.md), de 9 de diciembre, para la mejora de la calidad educativa 
 (BOE nº 295, de 10.12.13).
 - La Ley 4/1998, de 15 de mayo, de Voluntariado de Canarias (BOC nº 63, de 25.5.98).

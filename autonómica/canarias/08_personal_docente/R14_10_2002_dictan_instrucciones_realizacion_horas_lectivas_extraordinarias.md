@@ -39,7 +39,7 @@ fuente_juriscan: http://www.gobcan.es/juriscan/ficha.jsp?id=41360
 # Dirección General de Promoción Educativa.- [Resolución de 14 de octubre de 2002](../03_ordenacion_curricular_y_ensenanzas/R14_10_2002_dictan_instrucciones_realizacion_horas_lectivas_extraordinarias.md), por la que se dictan instrucciones para la realización de horas lectivas extraordinarias en centros que desarrollen ofertas formativas de Educación de Personas Adultas (BOC n.º 148, de 6 de noviembre).
 
 1603 Dirección General de Promoción Educativa.-
-Resolución de 14 de octubre de 2002, por la
+[Resolución de 14 de octubre de 2002](../03_ordenacion_curricular_y_ensenanzas/R14_10_2002_dictan_instrucciones_realizacion_horas_lectivas_extraordinarias.md), por la
 que se dictan instrucciones para la realización
 de horas lectivas extraordinarias en centros que
 desarrollen ofertas formativas de Educación

@@ -60,7 +60,7 @@ Primero.- La [Ley Orgánica 2/2006](../../../estatal/01_marco_normativo_general_
 establece y regula en su Título I, Capítulo VI, Sección Tercera, las Enseñanzas Artísticas 
 Superiores, entre las que se encuentran las de Diseño, Música y Arte Dramático. 
 Segundo.- El Real Decreto 1614/2009, de 26 de octubre, por el que se establece la orde-
-nación de las enseñanzas artísticas superiores reguladas por la Ley Orgánica 2/2006, de 3 de 
+nación de las enseñanzas artísticas superiores reguladas por la [Ley Orgánica 2/2006](../../../estatal/01_marco_normativo_general_y_organico/LO2_2006_educacion_texto_consolidado_modificaciones_lomloe.md), de 3 de 
 mayo, de Educación (BOE nº 259, de 27.10.09), en su redacción actual, establece en su ar-
 tículo 11, apartado sexto, que estas enseñanzas concluirán con la elaboración y presentación 
 de un trabajo fin de estudios por parte del estudiante, que tendrá una extensión mínima de 6 
@@ -69,7 +69,7 @@ y estar orientado a la evaluación de las competencias asociadas al título.
 Tercero.- Los Reales Decretos 630/2010, 631/2010 y 633/2010, todos ellos de 14 de 
 mayo, por los que se regula el contenido básico de las enseñanzas artísticas superiores de 
 Grado en Arte Dramático, de Grado en Música y de Grado en Diseño, respectivamente, 
-establecidas en la Ley Orgánica 2/2006, de 3 de mayo, de Educación (BOE nº 137, de 
+establecidas en la [Ley Orgánica 2/2006](../../../estatal/01_marco_normativo_general_y_organico/LO2_2006_educacion_texto_consolidado_modificaciones_lomloe.md), de 3 de mayo, de Educación (BOE nº 137, de 
 5.6.10), establecen en el artículo 6.3 de cada uno de ellos la distribución de los créditos 
 correspondientes. Asimismo, el artículo 9.2 de los citados Reales Decretos especifica que la 
 evaluación y calificación de dicho TFE requerirá haber aprobado la totalidad de las asigna-

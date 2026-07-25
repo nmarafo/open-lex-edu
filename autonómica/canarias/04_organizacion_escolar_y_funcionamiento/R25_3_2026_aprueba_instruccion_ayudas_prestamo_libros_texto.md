@@ -82,7 +82,7 @@ efectiva la gratuidad de las enseñanzas que en esta ley se declaran gratuitas y
 medidas para que la situación socioeconómica del alumnado no suponga una barrera para el 
 acceso a las actividades complementarias y los servicios escolares”.
 El artículo octogésimo primero de la Ley Orgánica 3/2020, de 29 de diciembre, por la 
-que se modifica la Ley Orgánica 2/2006, de 3 de mayo, de Educación, establece que con 
+que se modifica la [Ley Orgánica 2/2006](../../../estatal/01_marco_normativo_general_y_organico/LO2_2006_educacion_texto_consolidado_modificaciones_lomloe.md), de 3 de mayo, de Educación, establece que con 
 el fin de hacer efectivo el principio de equidad en el ejercicio del derecho a la educación, 
 se desarrollarán acciones dirigidas hacia las personas, grupos, entornos sociales y ámbitos 
 territoriales que se encuentren en situación de vulnerabilidad socioeducativa y cultural, 
@@ -142,7 +142,7 @@ libros de texto y materiales didácticos.
 FUNDAMENTOS DE DERECHO
 Primero.- La Ley Orgánica 3/2020, de 29 de diciembre, por la que se modifica la Ley 
 Orgánica 2/2006, de 3 de mayo, de Educación.
-Segundo.- La Ley 6/2014, de 25 de julio, Canaria de Educación no Universitaria.
+Segundo.- La [Ley 6/2014](../01_marco_normativo_general_y_organico/L6_2014_canaria_educacion_no_universitaria.md), de 25 de julio, Canaria de Educación no Universitaria.
 Tercero.- El artículo 1 del Real Decreto 1721/2007, de 21 de diciembre, por el que 
 se establece el régimen de las becas y ayudas al estudio personalizadas, define la ayuda 
 como toda cantidad o beneficio económico que se conceda para iniciar o proseguir 
@@ -176,7 +176,7 @@ Undécimo.- La disposición transitoria única de la Ley 43/2015, de 9 de octubr
 Tercer Sector de Acción Social.
 
 En virtud de las competencias que tengo legalmente atribuidas en el artículo 18.2.B.a) 
-del Decreto 84/2024, de 10 de junio, por el que se aprueba el Reglamento Orgánico de la 
+del [Decreto 84/2024](../01_marco_normativo_general_y_organico/D84_2024_aprueba_reglamento_organico_formacion_profesional_actividad.md), de 10 de junio, por el que se aprueba el Reglamento Orgánico de la 
 Consejería de Educación, Formación Profesional, Actividad Física y Deportes, así como 
 la disposición adicional única de la Orden de 5 de noviembre de 2012, por la que se regula 
 el sistema de préstamo de libros de texto o adquisición de libros de texto y materiales 
@@ -964,7 +964,7 @@ Los plazos se encuentran vinculados a las Resoluciones de 5 y 18 de febrero de
 Complementarios, por la que se convoca el procedimiento de admisión y matrícula del 
 alumnado de Educación Infantil, Educación Primaria y Educación Secundaria Obligatoria, 
 en centros sostenidos con fondos públicos, para el curso escolar 2026/2027, en la 
-Comunidad Autónoma de Canarias, y a la Resolución de 13 de febrero de 2026, de la 
+Comunidad Autónoma de Canarias, y a la [Resolución de 13 de febrero de 2026](../05_alumnado_y_servicios_escolares/R13_2_2026_convoca_procedimiento_admision_alumnado_ciclos_formativos.md), de la 
 Dirección General de Formación Profesional y Enseñanzas de Régimen Especial, por la 
 que se dictan instrucciones sobre el proceso de admisión del alumnado a Ciclos Formativos 
 de Grado Básico y a los Itinerarios de Formación Profesional Adaptada:
@@ -983,7 +983,7 @@ extraordinaria de Ciclos Formativos de Grado Básico.
 2.- Subsanación y reclamación de solicitudes así como grabación de aquellas 
 presentadas en tiempo y forma dentro del periodo ordinario de matrícula y no 
 cargadas en plazo por los centros educativos (Segunda Certificación).
-Subsanación. De acuerdo con lo establecido en el artículo 68 de la Ley 39/2015, de 
+Subsanación. De acuerdo con lo establecido en el artículo 68 de la [Ley 39/2015](../../../estatal/01_marco_normativo_general_y_organico/L39_2015_procedimiento_administrativo_comun_administraciones_publicas.md), de 
 1 de octubre, si la solicitud no reuniese los requisitos previstos, se requerirá a la persona 
 interesada para que, en un plazo de 10 días lectivos, subsane la falta mediante solicitud de 
 subsanación, acompañada de los documentos preceptivos, tras la comunicación recibida 
@@ -1020,7 +1020,7 @@ solicitud será denegada automáticamente por emitirse fuera de plazo.
 que se encuentran cargadas en Pincel 
 EKADE o aplicativo WEBGesALT, solicitadas 
 por las unidades de responsables.
-De acuerdo con lo establecido en el artículo 122 de la Ley 39/2015, de 1 de octubre, si 
+De acuerdo con lo establecido en el artículo 122 de la [Ley 39/2015](../../../estatal/01_marco_normativo_general_y_organico/L39_2015_procedimiento_administrativo_comun_administraciones_publicas.md), de 1 de octubre, si 
 la solicitud no reuniese los requisitos previstos, las personas interesadas podrán interponer 
 recurso de alzada en el plazo de un mes.
 El plazo máximo para dictar y notificar la resolución será de tres meses. Transcurrido 
@@ -1043,7 +1043,7 @@ Servicio en los aplicativos correspondientes.
 
 La Comisión de Valoración del Servicio de Programas Educativos y Actividades 
 Extraescolares propondrá la estimación de los recursos, si procede y comunicará la 
-inadmisión, según las causas establecidas en el artículo 116 de la Ley 39/2015, de 1 de 
+inadmisión, según las causas establecidas en el artículo 116 de la [Ley 39/2015](../../../estatal/01_marco_normativo_general_y_organico/L39_2015_procedimiento_administrativo_comun_administraciones_publicas.md), de 1 de 
 octubre, estimación y desestimación de los mismos.
 Se priorizará la notificación electrónica a las personas solicitantes en primer lugar, y 
 llegarán al centro copias de las resoluciones de los recursos estimados que no han podido 
@@ -1071,7 +1071,7 @@ El calendario de fases y plazos para el curso escolar 2026/2027 será establecid
 documentos posteriores que se harán llegar a los centros educativos y se publicarán en 
 la página web de la Consejería de Educación, Formación Profesional, Actividad Física y 
 Deportes.
-En atención a lo expuesto en los artículos 29 a 32 de la Ley 39/2015, los plazos 
+En atención a lo expuesto en los artículos 29 a 32 de la [Ley 39/2015](../../../estatal/01_marco_normativo_general_y_organico/L39_2015_procedimiento_administrativo_comun_administraciones_publicas.md), los plazos 
 indicados en los calendarios de procesos para cada una de las etapas educativas, que se 
 aportarán posteriormente, obligan a las/os administradas/os y al personal al servicio de 
 la Administración Educativa a su cumplimiento, siendo competencia de la Administración 
@@ -1088,7 +1088,7 @@ proceso.
 La comprobación por la administración educativa del cumplimiento de los requisitos 
 aportados por los/as interesados/as requiere la verificación de los datos que pueden obrar 
 en poder de las administraciones públicas.
-Conforme a lo dispuesto en el artículo 28 de la Ley 39/2015, de 1 de octubre, del 
+Conforme a lo dispuesto en el artículo 28 de la [Ley 39/2015](../../../estatal/01_marco_normativo_general_y_organico/L39_2015_procedimiento_administrativo_comun_administraciones_publicas.md), de 1 de octubre, del 
 Procedimiento Administrativo Común de las Administraciones Públicas, se presume, salvo 
 que el solicitante manifieste su oposición expresa o existiese imposibilidad material de 
 obtener datos exigidos en el procedimiento, por no obrar en la administración actuante 
@@ -1366,7 +1366,7 @@ del Servicio.
 General de Administración de Centros, Escolarización y Servicios Complementarios, que 
 actuará con voz, pero sin voto.
 El régimen jurídico aplicable a la Comisión de Valoración será el previsto en los 
-artículos 15 a 18 de la Ley 40/2015, de 1 de octubre, de Régimen Jurídico del Sector 
+artículos 15 a 18 de la [Ley 40/2015](../../../estatal/01_marco_normativo_general_y_organico/L40_2015_regimen_juridico_sector_publico.md), de 1 de octubre, de Régimen Jurídico del Sector 
 Público.
 Por la Comisión de Valoración se elaborará un informe haciendo constar la relación 
 de los solicitantes a los que se estima procedente conceder el disfrute por cumplir todos 
@@ -1559,7 +1559,7 @@ del Servicio.
 a la Dirección General de Administración de Centros, Escolarización y Servicios 
 Complementarios, que actuará con voz, pero sin voto.
 El régimen jurídico aplicable a la Comisión de Valoración será el previsto en los 
-artículos 15 a 18 de la Ley 40/2015, de 1 de octubre, de Régimen Jurídico del Sector 
+artículos 15 a 18 de la [Ley 40/2015](../../../estatal/01_marco_normativo_general_y_organico/L40_2015_regimen_juridico_sector_publico.md), de 1 de octubre, de Régimen Jurídico del Sector 
 Público.
 La Comisión de Valoración elaborará un informe haciendo constar la relación de 
 los solicitantes a los que se estima procedente conceder el disfrute por cumplir todos 
@@ -1615,7 +1615,7 @@ Han de registrar los apuntes contables de los ingresos recibidos y los gastos re
 durante el proceso del curso, informar de la justificación ante el claustro, y aprobarla ante el 
 Consejo Escolar, como parte de las cuentas justificativas del segundo semestre. Asimismo, 
 los centros públicos deberán justificar el gasto conforme establece el Capítulo VIII del 
-Decreto 276/1997, de 27 de noviembre, por el que se regula el procedimiento de gestión 
+[Decreto 276/1997](../02_gestion_y_administracion_centros/D276_1997_regula_procedimiento_gestion_economica_centros_docentes.md), de 27 de noviembre, por el que se regula el procedimiento de gestión 
 económica de los centros docentes públicos no universitarios dependientes de la Consejería 
 de Educación, Cultura y Deportes, en relación a la justificación económica de los centros 
 docentes públicos. Los centros públicos han de realizar la justificación económica en el 
@@ -1640,7 +1640,7 @@ Cuarta.- Justificación de los fondos recibidos.
 Han de registrar los apuntes contables de los ingresos recibidos y los gastos realizados durante el proceso del  
 curso, informar de la justificación ante el Claustro, y aprobarla ante el Consejo Escolar, como parte de las  
 Cuentas Justificativas del segundo semestre. Asimismo, los centros públicos deberán justificar el gasto conforme  
-establece el  Capítulo VIII del  Decreto 276/1997, de 27 de noviembre, por el que se regula el procedimiento de  
+establece el  Capítulo VIII del  [Decreto 276/1997](../02_gestion_y_administracion_centros/D276_1997_regula_procedimiento_gestion_economica_centros_docentes.md), de 27 de noviembre, por el que se regula el procedimiento de  
 gestión económica de los centros docentes públicos no universitarios dependientes de la Consejería de Educación, 
 Cultura y Deportes, en relación a la justificación económica de los centros docentes públicos. Los centros públicos 
 han de realizar la justificación económica en el aplicativo SIGECO.
@@ -1696,7 +1696,7 @@ puede ser comprobada la autenticidad de esta copia, mediante el número de
 documento electrónico siguiente:
  RP001-000grYFMvXBbPGgnNM5zVSvpg==
 Quinta.- Datos de carácter personal.
-De conformidad con la Ley Orgánica 3/2018, de 5 de diciembre, de Protección de Datos 
+De conformidad con la [Ley Orgánica 3/2018](../../../estatal/02_gestion_y_administracion_centros/LO3_2018_proteccion_datos_personales_garantia_derechos_digitales.md), de 5 de diciembre, de Protección de Datos 
 Personales y garantía de los derechos digitales, que recoge lo establecido en el artículo 30.1 
 del Reglamento (UE) 2016/679 del Parlamento Europeo y del Consejo, de 27 de abril de 
 2016. Este procedimiento será incluido en la Resolución n.º 177/2022, de 9 de febrero, en la 
@@ -1738,7 +1738,7 @@ miembros de la unidad de responsables tal como
 se indica en el Anexo de la presente Resolución.
 Familia numerosa La unidad de responsables se encuentra en situación económica crítica
 La Comunidad Autónoma de Canarias consultará los datos necesarios para la resolución de la presente 
-solicitud, de acuerdo con lo establecido en el artículo 28 de la Ley 39/2015, de 1 de octubre, del  
+solicitud, de acuerdo con lo establecido en el artículo 28 de la [Ley 39/2015](../../../estatal/01_marco_normativo_general_y_organico/L39_2015_procedimiento_administrativo_comun_administraciones_publicas.md), de 1 de octubre, del  
 Procedimiento Administrativo Común de las Administraciones Públicas, salvo que se oponga a dicha  
 consulta, debiendo en ese caso adjuntar el documento a esta solicitud.
 DATOS MADRE/PADRE/TUTOR/TUTORA
@@ -1829,7 +1829,7 @@ miembros de la unidad de responsables tal como
 se indica en el Anexo de la presente Resolución.
 Familia numerosa La unidad de responsables se encuentra en situación económica crítica
 La Comunidad Autónoma de Canarias consultará los datos necesarios para la resolución de la presente 
-solicitud, de acuerdo con lo establecido en el artículo 28 de la Ley 39/2015, de 1 de octubre, del  
+solicitud, de acuerdo con lo establecido en el artículo 28 de la [Ley 39/2015](../../../estatal/01_marco_normativo_general_y_organico/L39_2015_procedimiento_administrativo_comun_administraciones_publicas.md), de 1 de octubre, del  
 Procedimiento Administrativo Común de las Administraciones Públicas, salvo que se oponga a dicha  
 consulta, debiendo en ese caso adjuntar el documento a esta solicitud.
 DATOS MADRE/PADRE/TUTOR/TUTORA CON GUARDA Y CUSTODIA

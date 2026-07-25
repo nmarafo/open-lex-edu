@@ -112,7 +112,7 @@ Junta Electoral del CER, en su caso. De cualquier manera, deberá garantizarse l
 publicidad del calendario electoral con las modificaciones que pudieran autorizarse.
 Tercero.- Composición de los Consejos de los CER.
 El Consejo del CER tendrá la composición que viene determinada en el artículo 20 
-del Decreto 109/1999, de 25 de mayo, por el que se regula el régimen de creación y 
+del [Decreto 109/1999](../02_gestion_y_administracion_centros/D109_1999_regula_regimen_creacion_funcionamiento_colectivos_escuelas.md), de 25 de mayo, por el que se regula el régimen de creación y 
 funcionamiento de los Colectivos de Escuelas Rurales, en función de su tipología y de 
 las unidades asignadas por la Consejería de Educación, Formación Profesional, Actividad 
 Física y Deportes para su funcionamiento en el curso escolar 2026-2027.
@@ -167,7 +167,7 @@ o las alumnas que formen parte de los consejos escolares de las escuelas unitari
 
 ámbito del CER, elegidos entre ellos, así como los maestros o maestras que compongan el 
 equipo pedagógico, tal y como estipula el artículo 22, en concordancia con el 20, ambos del 
-indicado Decreto 109/1999, de 25 de mayo.
+indicado [Decreto 109/1999](../02_gestion_y_administracion_centros/D109_1999_regula_regimen_creacion_funcionamiento_colectivos_escuelas.md), de 25 de mayo.
 Octavo.- Elecciones de representantes del sector de padres, madres o personas 
 tutoras legales del alumnado, y del propio alumnado.
 1. Dadas las especiales características del proceso, las votaciones se realizarán en 

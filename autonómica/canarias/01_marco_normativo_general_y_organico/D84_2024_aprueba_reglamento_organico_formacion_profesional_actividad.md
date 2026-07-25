@@ -117,7 +117,7 @@ seguimiento o control de organos administrativos, por lo que ha de entenderse qu
 de las modificaciones que se introduzcan en tales decretos correspondera igualmente al
 Gobierno.
 A su vez, a través de la disposicion final cuarta del presente Decreto se incluye la
-modificacion de la disposicion adicional primera del Decreto 123/2023, de 17 de julio, por
+modificacion de la disposicion adicional primera del [Decreto 123/2023](./D123_2023_determina_estructura_organica_sedes_consejerias_gobierno.md), de 17 de julio, por
 el que se determina la estructura organica y las sedes de las Consejerias del Gobierno de
 Canarias, por una parte, en relacion con la supresion de la Direccion General de Formacion
 Profesional y Educacion de Adultos, al objeto de atribuir sus competencias en materia de
@@ -135,10 +135,10 @@ entenderse que las modificaciones que se introduzcan en tales decretos de estruc
 organica corresponderan, asimismo, al Gobierno.
 La regulacion que se contiene en esta norma se ajusta a los principios contemplados en
 el articulo 129 de la [Ley 39/2015](../../../estatal/01_marco_normativo_general_y_organico/L39_2015_procedimiento_administrativo_comun_administraciones_publicas.md), de 1 de octubre, del Procedimiento Administrativo Comun
-de las Administraciones Publicas, asi como en los articulos 66.2 y 80.5 de la Ley 4/2023,
+de las Administraciones Publicas, asi como en los articulos 66.2 y 80.5 de la [Ley 4/2023](./L4_2023_presidencia_gobierno_canarias.md),
 de 23 de marzo, de la Presidencia y del Gobierno de Canarias. En concreto, cumple con los
 principios de necesidad y eficacia, pues se trata de dar cumplimiento a lo establecido en la
-disposicion final segunda del citado Decreto 123/2023, de 17 de julio. También se adecua
+disposicion final segunda del citado [Decreto 123/2023](./D123_2023_determina_estructura_organica_sedes_consejerias_gobierno.md), de 17 de julio. También se adecua
 al principio de proporcionalidad, pues contiene la regulacion imprescindible para atender
 la necesidad que se pretende satisfacer con su aprobacion y no es restrictiva de derechos ni
 impone obligaciones ya que se trata de una norma organizativa. En cuanto a los principios
@@ -165,10 +165,10 @@ personas destinatarias de la norma son totalmente positivos.
 El presente Decreto aprueba el Reglamento Organico de la Consejeria de Educacion,
 Formacion Profesional, Actividad Fisica y Deportes, dando cumplimiento a las previsiones
 anteriormente citadas, especialmente a lo previsto en la disposicion final segunda del
-referido Decreto 123/2023, de 17 de julio.
+referido [Decreto 123/2023](./D123_2023_determina_estructura_organica_sedes_consejerias_gobierno.md), de 17 de julio.
 Compete al Gobierno aprobar la estructura organica y las sedes de las consejerias,
 asi como los reglamentos organicos de las mismas y de sus organismos publicos segun lo
-dispuesto en el articulo 31.a) de la citada Ley 4/2023, de 23 de marz0.
+dispuesto en el articulo 31.a) de la citada [Ley 4/2023](./L4_2023_presidencia_gobierno_canarias.md), de 23 de marz0.
 En su virtud, a propuesta conjunta del Presidente, de la Consejera de Presidencia,
 Administraciones Publicas, Justicia y Seguridad y del Consejero de Educacion, Formacion
 Profesional, Actividad Fisica y Deportes y previa deliberacion del Gobierno en su reunion
@@ -420,10 +420,10 @@ competente en materia de formacion profesional."
 Dos.- El apartado 1 del articulo 4 queda redactado de la siguiente forma:
 "La Vicepresidencia del Consejo correspondera a la persona titular del Departamento
 competente en materia de empleo."'
-Disposicion final cuarta.- Modificacion del Decreto 123/2023, de 17 de julio, por el
+Disposicion final cuarta.- Modificacion del [Decreto 123/2023](./D123_2023_determina_estructura_organica_sedes_consejerias_gobierno.md), de 17 de julio, por el
 que se determina la estructura organica y las sedes de las Consejerias del Gobierno
 de Canarias.
-Se modifica la disposicion adicional primera del Decreto 123/2023, de 17 de julio, por
+Se modifica la disposicion adicional primera del [Decreto 123/2023](./D123_2023_determina_estructura_organica_sedes_consejerias_gobierno.md), de 17 de julio, por
 el que se determina la estructura organica y las sedes de las Consejerias del Gobierno de
 Canarias, relativa a la supresion de organos, en lo concerniente a los parrafos correspondientes
 a la supresion de la Direccion General de Formacion Profesional y Educacion de Adultos
@@ -537,9 +537,9 @@ CONSEJERA O CONSEJERO
 Articulo 5.- Competencias de caracter general.
 1. La Consejera o el Consejero de Educacion, Formacion Profesional, Actividad Fisica
 y Deportes, al ostentar la Jefatura del Departamento y por ello la superior jerarquia de los
-6rganos del mismo, tiene las atribuciones enumeradas en el articulo 29.1 de la Ley 14/1990,
+6rganos del mismo, tiene las atribuciones enumeradas en el articulo 29.1 de la [Ley 14/1990](./L14_1990_regimen_juridico_administraciones_publicas_canarias.md),
 de 26 de julio, de Régimen Juridico de las Administraciones Publicas de Canarias, en
-relacion con lo preceptuado en el articulo 58.2 de la Ley 4/2023, de 23 de marz0, de la
+relacion con lo preceptuado en el articulo 58.2 de la [Ley 4/2023](./L4_2023_presidencia_gobierno_canarias.md), de 23 de marz0, de la
 Presidencia y del Gobierno de Canarias, o en las normas que sustituyan a las anteriores,
 asi como las que se recogen en este Reglamento Organico y en las demas disposiciones
 vigentes.
@@ -684,7 +684,7 @@ Seccion 1.a
 Viceconsejeria de Educacion
 Articulo 8.- Competencias generales y especificas.
 1. La Viceconsejeria de Educacion ejercera, en su ambito funcional, las competencias
-previstas en los articulos 11 y 20.1 del Decreto 212/1991, de 11 de septiembre, de
+previstas en los articulos 11 y 20.1 del [Decreto 212/1991](./D212_1991_organizacion_departamentos_administracion_autonomica_canarias.md), de 11 de septiembre, de
 organizacion de los Departamentos de la Administracion Autonomica de Canarias.
 
 --- Página 16 (Transcripción OCR de Anexo/Imagen) ---
@@ -777,7 +777,7 @@ Viceconsejeria de Formacion Profesional y Cualificaciones Profesionales
 Articulo 9.- Competencias generales y especificas.
 1. Corresponde a la Viceconsejeria de Formacion Profesional y Cualificaciones
 Profesionales, en el area material de competencias asignadas por el presente Reglamento,
-el desempeno de las funciones previstas en los articulos 11 y 20.1 del Decreto 212/1991, de
+el desempeno de las funciones previstas en los articulos 11 y 20.1 del [Decreto 212/1991](./D212_1991_organizacion_departamentos_administracion_autonomica_canarias.md), de
 11 de septiembre, de organizacion de los Departamentos de la Administracion Autonomica
 de Canarias.
 2. Asimismo, y bajo la superior direccion de la persona titular de la Consejeria de
@@ -869,7 +869,7 @@ Viceconsejeria de la Actividad Fisica y Deportes
 Articulo 10.- Competencias generales y especificas.
 1. Corresponde a la Viceconsejeria de la Actividad Fisica y Deportes, en el area
 material de competencias asignadas por el presente Reglamento, el desempeno de las
-funciones previstas en los articulos 11 y 20.1 del Decreto 212/1991, de 11 de septiembre,
+funciones previstas en los articulos 11 y 20.1 del [Decreto 212/1991](./D212_1991_organizacion_departamentos_administracion_autonomica_canarias.md), de 11 de septiembre,
 de organizacion de los Departamentos de la Administracion Autonomica de Canarias.
 2. Asimismo, y bajo la superior direccion de la persona titular de la Consejeria de
 Educacion, Formacion Profesional, Actividad Fisica y Deportes, le corresponden las
@@ -905,7 +905,7 @@ previstos legal y reglamentariamente y sin perjuicio de las atribuidas a otros o
 departamentos.
 k) Proponer a la persona titular del Departamento los proyectos de disposiciones
 de caracter general en materia de actividad fisica y deportes, para su aprobacion por el
-Gobierno de Canarias, de acuerdo con lo regulado en la Ley 4/2023, de 23 de marz0, de la
+Gobierno de Canarias, de acuerdo con lo regulado en la [Ley 4/2023](./L4_2023_presidencia_gobierno_canarias.md), de 23 de marz0, de la
 Presidencia y del Gobierno de Canarias.
 I) Impulsar la formalizacion de instrumentos de cooperacion, y el desarrollo de planes
 y programas en materia de actividad fisica y deportes.
@@ -928,7 +928,7 @@ Secretaria General Técnica
 Articulo 11.- Competencias de caracter general.
 1. Como organo horizontal de coordinacion administrativa general del Departamento
 que depende directamente de la persona titular de este, le corresponden a la Secretaria
-General Técnica las funciones previstas en el articulo 15 del Decreto 212/1991, de 11 de
+General Técnica las funciones previstas en el articulo 15 del [Decreto 212/1991](./D212_1991_organizacion_departamentos_administracion_autonomica_canarias.md), de 11 de
 septiembre, de organizacion de los Departamentos de la Administracion Autonomica de
 Canarias.
 2. Ademas de las previstas en el apartado anterior, le corresponden las competencias
@@ -1168,7 +1168,7 @@ Seccion 5.a
 Direccion General de Personal y Formacion del Profesorado
 Articulo 16.- Competencias generales y especificas.
 1. La Direccion General de Personal y Formacion del Profesorado ejercera, en su
-ambito funcional, las competencias previstas en el articulo 19 del Decreto 212/1991, de 11
+ambito funcional, las competencias previstas en el articulo 19 del [Decreto 212/1991](./D212_1991_organizacion_departamentos_administracion_autonomica_canarias.md), de 11
 de septiembre, de organizacion de los Departamentos de la Administracion Autonomica de
 Canarias.
 2. Asimismo, le corresponden las competencias de direccion, coordinacion, estudio
@@ -1267,7 +1267,7 @@ Direccion General de Ordenacion de las Ensenanzas, Inclusion e Innovacion
 Articulo 17.- Competencias generales y especificas.
 1. La Direccion General de Ordenacion de las Ensenanzas, Inclusion e Innovacion
 ejercera, en su ambito funcional, las competencias previstas en el articulo 19 del
-Decreto 212/1991, de 11 de septiembre, de organizacion de los Departamentos de la
+[Decreto 212/1991](./D212_1991_organizacion_departamentos_administracion_autonomica_canarias.md), de 11 de septiembre, de organizacion de los Departamentos de la
 Administracion Autonomica de Canarias.
 
 --- Página 30 (Transcripción OCR de Anexo/Imagen) ---
@@ -1357,7 +1357,7 @@ Complementarios
 Articulo 18.- Competencias generales y especificas.
 1. La Direccion General de Administracion de Centros, Escolarizacion y Servicios
 Complementarios ejercera, en su ambito funcional, las competencias previstas en el articulo
-19 del Decreto 212/1991, de 11 de septiembre, de organizacion de los Departamentos de la
+19 del [Decreto 212/1991](./D212_1991_organizacion_departamentos_administracion_autonomica_canarias.md), de 11 de septiembre, de organizacion de los Departamentos de la
 Administracion Autonomica de Canarias.
 2. Asimismo, le corresponden las competencias de direccion, coordinacion, estudio
 y resolucion en materia de administracion de centros, escolarizacion y servicios
@@ -1427,7 +1427,7 @@ Seccion 8.a
 Direccion General de Infraestructuras y Equipamientos
 Articulo 19.- Competencias generales y especificas.
 1. La Direccion General de Infraestructuras y Equipamientos ejercera, en su ambito
-funcional, las competencias previstas en el articulo 19 del Decreto 212/1991, de 11 de
+funcional, las competencias previstas en el articulo 19 del [Decreto 212/1991](./D212_1991_organizacion_departamentos_administracion_autonomica_canarias.md), de 11 de
 
 --- Página 34 (Transcripción OCR de Anexo/Imagen) ---
 
@@ -1482,7 +1482,7 @@ Direccion General de Formacion Profesional y Ensenanzas de Regimen Especial
 Articulo 20.- Competencias generales y especificas.
 1. La Direccion General de Formacion Profesional y Ensenanzas de Régimen
 Especial ejercera, en su ambito funcional, las competencias previstas en el articulo 19
-del Decreto 212/1991, de 11 de septiembre, de organizacion de los Departamentos de la
+del [Decreto 212/1991](./D212_1991_organizacion_departamentos_administracion_autonomica_canarias.md), de 11 de septiembre, de organizacion de los Departamentos de la
 Administracion Autonomica de Canarias.
 2. Asimismo, le corresponden las competencias de direccion, coordinacion, estudio
 y resolucion en materia de formacion profesional y ensenanzas de regimen especial no
@@ -1544,7 +1544,7 @@ Seccion 10.a
 Direccion General de Cualificaciones Profesionales
 Articulo 21.- Competencias generales y especificas.
 1. La Direccion General de Cualificaciones Profesionales ejercera, en su ambito
-funcional, las competencias previstas en el articulo 19 del Decreto 212/1991, de 11 de
+funcional, las competencias previstas en el articulo 19 del [Decreto 212/1991](./D212_1991_organizacion_departamentos_administracion_autonomica_canarias.md), de 11 de
 septiembre, de organizacion de los Departamentos de la Administracion Autonomica de
 Canarias.
 https:/sede.gobiernodecanarias.org/boc
@@ -1580,7 +1580,7 @@ Seccion 11.a
 Direccion General de la Actividad Fisica y el Deporte
 Articulo 22.- Competencias generales y especificas.
 1. La Direccion General de la Actividad Fisica y el Deporte ejercera, en su ambito
-funcional, las competencias previstas en el articulo 19 del Decreto 212/1991, de 11 de
+funcional, las competencias previstas en el articulo 19 del [Decreto 212/1991](./D212_1991_organizacion_departamentos_administracion_autonomica_canarias.md), de 11 de
 septiembre, de organizacion de los Departamentos de la Administracion Autonomica de
 Canarias.
 2. También le corresponde ejercer el seguimiento de los programas y actividades
@@ -1663,7 +1663,7 @@ Seccion 12.a
 Direccion General de Deportes Autoctonos
 Articulo 23.- Competencias generales y especificas.
 1. La Direccion General de Deportes Autoctonos ejercera, en su ambito funcional, las
-competencias previstas en el articulo 19 del Decreto 212/1991, de 11 de septiembre, de
+competencias previstas en el articulo 19 del [Decreto 212/1991](./D212_1991_organizacion_departamentos_administracion_autonomica_canarias.md), de 11 de septiembre, de
 organizacion de los Departamentos de la Administracion Autonomica de Canarias.
 
 --- Página 40 (Transcripción OCR de Anexo/Imagen) ---
@@ -1754,7 +1754,7 @@ b) Direccion Territorial de Santa Cruz de Tenerife, comprendiendo su ambito de
 actuacion las islas de Tenerife, La Palma, La Gomera y El Hierro.
 Articulo 26.- Competencias.
 1. Las Direcciones Territoriales de Educacion, ademas de las funciones que el articulo
-23 del Decreto 212/1991, de 11 de septiembre, de organizacion de los Departamentos de la
+23 del [Decreto 212/1991](./D212_1991_organizacion_departamentos_administracion_autonomica_canarias.md), de 11 de septiembre, de organizacion de los Departamentos de la
 Administracion Autonomica de Canarias, asigna con caracter general a las personas titulares
 de las Direcciones Territoriales, ejerceran las que se les atribuyen por este Reglamento
 Organico y cuantas les sean delegadas y encomendadas por los organos superiores del
@@ -1883,7 +1883,7 @@ de adoptar acuerdos.
 previstos en el presente Capitulo, salvo de las que forman parte de los mismos por razon del
 cargo que desempenan, se hara de tal modo que la composicion de cada uno de los organos
 respete la representacion equilibrada de mujeres y hombres, conforme a lo establecido en
-la Ley 1/2010, de 26 de febrero, Canaria de Igualdad entre Mujeres y Hombres.
+la [Ley 1/2010](../../../estatal/07_convivencia_bienestar_y_protocolos/L1_2010_canaria_igualdad_entre_mujeres_hombres.md), de 26 de febrero, Canaria de Igualdad entre Mujeres y Hombres.
 Seccion 2.a
 Organos colegiados con competencia en materia de educacion
 Articulo 31.- Consejo Escolar de Canarias.

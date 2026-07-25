@@ -66,7 +66,7 @@ Resolución de 5 de noviembre de 2024, por la que se dictan instrucciones y
 orientaciones para la formación dual en empresas u organismos equiparados en 
 los Certificados Profesionales (Grado C), los Ciclos Formativos de Grado Básico, 
 Medio y Superior (Grados D, niveles 1, 2 y 3) y Cursos de Especialización (Grado E, 
-niveles 2 y 3), en aplicación del Real Decreto 659/2023, de 18 de julio, en los centros 
+niveles 2 y 3), en aplicación del [Real Decreto 659/2023](../../../estatal/03_ordenacion_curricular_y_ensenanzas/RD659_2023_desarrolla_ordenacion_sistema_formacion_profesional.md), de 18 de julio, en los centros 
 docentes no universitarios de la Comunidad Autónoma de Canarias.
 La [Ley Orgánica 3/2022](../08_personal_docente/LO3_2022_ordenacion_gestion_determinadas_listas_empleo_tras.md), de 31 de marzo, de ordenación e integración de la Formación 
 Profesional, da relevancia a la formación del individuo a lo largo de la vida profesional 
@@ -83,14 +83,14 @@ Formativos de Grado Superior), y los Cursos de Especialización de nivel 2 (Espe
 3 (Máster) en el actual sistema canario de enseñanzas de formación profesional específica, 
 hasta el desarrollo de un nuevo Decreto en la Comunidad Autónoma de Canarias que 
 establezca el nuevo marco de ordenación del Sistema de Formación Profesional en nuestro 
-ámbito educativo, teniendo como referente el Real Decreto 659/2023, de 18 de julio, por 
+ámbito educativo, teniendo como referente el [Real Decreto 659/2023](../../../estatal/03_ordenacion_curricular_y_ensenanzas/RD659_2023_desarrolla_ordenacion_sistema_formacion_profesional.md), de 18 de julio, por 
 el que se desarrolla la ordenación del Sistema de Formación Profesional, que regula el 
 carácter dual a estas enseñanzas.
 Vista la necesidad de establecer instrucciones y orientaciones para la implantación y 
 desarrollo de la formación de carácter dual en empresa u organismos equiparados en la 
 Comunidad Autónoma de Canarias, y de acuerdo con los siguientes
 ANTECEDENTES DE HECHO
-Primero.- Con la publicación de la Ley Orgánica 3/2022, de 31 de marzo, de ordenación 
+Primero.- Con la publicación de la [Ley Orgánica 3/2022](../08_personal_docente/LO3_2022_ordenacion_gestion_determinadas_listas_empleo_tras.md), de 31 de marzo, de ordenación 
 e integración de la Formación Profesional, en adelante 
 LOOIFP, se regula en España el 
 carácter dual de toda la formación profesional, declarando este carácter a los grados C, D 
@@ -100,7 +100,7 @@ colaboración que, respecto a la formación, tienen los centros y las empresas u
 equiparados, poniendo de manifiesto la importancia de los derechos y deberes de estas 
 entidades colaboradoras con el Sistema de Formación Profesional y su papel en la acción 
 formativa.
-Segundo.- La publicación del Real Decreto 659/2023, de 18 de julio, por el que se 
+Segundo.- La publicación del [Real Decreto 659/2023](../../../estatal/03_ordenacion_curricular_y_ensenanzas/RD659_2023_desarrolla_ordenacion_sistema_formacion_profesional.md), de 18 de julio, por el que se 
 desarrolla la ordenación del Sistema de Formación Profesional, modificado por el Real 
 
 Decreto 658/2024, de 9 de julio, conlleva el establecimiento de las reglas generales de 
@@ -141,7 +141,7 @@ su redacción actual, indica que todos los ciclos formativos “incluirán una f
 de formación en los centros de trabajo, de la que podrán quedar exentos quienes acrediten 
 una experiencia laboral que se corresponda con los estudios profesionales cursados. Las 
 Administraciones educativas regularán esta fase y la mencionada exención”.
-Tercero.- El Título III de la Ley Orgánica 3/2022, de 31 de marzo, de ordenación 
+Tercero.- El Título III de la [Ley Orgánica 3/2022](../08_personal_docente/LO3_2022_ordenacion_gestion_determinadas_listas_empleo_tras.md), de 31 de marzo, de ordenación 
 e integración de la Formación Profesional, aborda y regula desde la norma básica el 
 carácter dual de toda la formación profesional de nuestro país, respondiendo con ello al 
 reto de convertir toda la formación profesional en una formación de excelencia, fruto de 
@@ -159,7 +159,7 @@ Decreto también pone de manifiesto en su artículo 10 que la administración co
 podrá implantar de manera anticipada la oferta de Grados C en los términos establecidos 
 en el artículo 35 de la LOOIFP, derivados de las ofertas de Grado D y E en vigor en el 
 momento de la anticipación.
-Quinto.- El Real Decreto 659/2023, de 18 de julio, por el que se desarrolla la ordenación 
+Quinto.- El [Real Decreto 659/2023](../../../estatal/03_ordenacion_curricular_y_ensenanzas/RD659_2023_desarrolla_ordenacion_sistema_formacion_profesional.md), de 18 de julio, por el que se desarrolla la ordenación 
 del Sistema de Formación Profesional, impulsa la dimensión dual de la Formación Profesional 
 y de sus vínculos con el sistema productivo en un marco de colaboración público-privada entre 
 administraciones, centros, empresas u organismos equiparados, organizaciones empresariales 
@@ -169,14 +169,14 @@ través de una adecuada adaptación territorial, y el uso eficaz de los recursos
 formativos y profesionales.
 Sexto.- Respecto a la formación en empresas u organismos equiparados en las ofertas de 
 ciclos formativos de Grado D y E, los siguientes reales decretos que modifican o complementan 
-al Real Decreto 659/2023:
+al [Real Decreto 659/2023](../../../estatal/03_ordenacion_curricular_y_ensenanzas/RD659_2023_desarrolla_ordenacion_sistema_formacion_profesional.md):
 - [Real Decreto 499/2024](../../../estatal/03_ordenacion_curricular_y_ensenanzas/RD499_2024_modifican_determinados_reales_decretos_establecen_titulos.md), de 21 de mayo, por el que se modifican determinados reales 
 decretos por los que se establecen títulos de Formación Profesional de grado medio y se 
 fijan sus enseñanzas mínimas.
 - [Real Decreto 498/2024](../../../estatal/03_ordenacion_curricular_y_ensenanzas/RD498_2024_modifican_determinados_reales_decretos_establecen_titulos.md), de 21 de mayo, por el que se modifican determinados reales 
 decretos por los que se establecen títulos de Formación Profesional de grado básico y se 
 fijan sus enseñanzas mínimas.
-- Real Decreto 499/2024, de 21 de mayo, por el que se modifican determinados reales 
+- [Real Decreto 499/2024](../../../estatal/03_ordenacion_curricular_y_ensenanzas/RD499_2024_modifican_determinados_reales_decretos_establecen_titulos.md), de 21 de mayo, por el que se modifican determinados reales 
 decretos por los que se establecen títulos de Formación Profesional de grado medio y se 
 fijan sus enseñanzas mínimas.
 - [Real Decreto 500/2024](../../../estatal/03_ordenacion_curricular_y_ensenanzas/RD500_2024_modifican_determinados_reales_decretos_establecen_titulos.md), de 21 de mayo, por el que se modifican determinados reales 
@@ -185,7 +185,7 @@ fijan sus enseñanzas mínimas.
 - Real Decreto 658/2024, de 9 de julio, por el que se modifican el [Real Decreto 
 132/2010](../../../estatal/02_gestion_y_administracion_centros/RD132_2010_establecen_requisitos_minimos_centros_impartan_ensenanzas.md), de 12 de febrero, por el que se establecen los requisitos mínimos de los centros 
 que impartan las enseñanzas del segundo ciclo de la educación infantil, la educación 
-primaria y la educación secundaria, y el Real Decreto 659/2023, de 18 de julio, por el que 
+primaria y la educación secundaria, y el [Real Decreto 659/2023](../../../estatal/03_ordenacion_curricular_y_ensenanzas/RD659_2023_desarrolla_ordenacion_sistema_formacion_profesional.md), de 18 de julio, por el que 
 se desarrolla la ordenación del Sistema de Formación Profesional.
 Séptimo.- La [Ley 6/2014](../01_marco_normativo_general_y_organico/L6_2014_canaria_educacion_no_universitaria.md), de 25 de julio, Canaria de Educación no Universitaria, en su 
 artículo 33, puntos 10 y 11, promueve los programas para que el alumnado pueda realizar 
@@ -201,11 +201,11 @@ temporales en los centros de trabajo.
 Octavo.- El Decreto 156/1996, de 20 junio, por el que se establece la Ordenación General 
 de las Enseñanzas de Formación Profesional Específica en la Comunidad Autónoma de 
 Canarias, cuyas referencias respecto a la formación en centros de trabajo deben entenderse 
-realizadas al artículo 42.3 de la Ley Orgánica 2/2006, de 3 de mayo, de Educación, establece 
+realizadas al artículo 42.3 de la [Ley Orgánica 2/2006](../../../estatal/01_marco_normativo_general_y_organico/LO2_2006_educacion_texto_consolidado_modificaciones_lomloe.md), de 3 de mayo, de Educación, establece 
 en su artículo 27 que la Consejería competente en materia educativa determinará en las 
 correspondientes reglamentaciones específicas el momento de impartición de la formación 
 en empresas, los requisitos exigidos para acceder a ellas y el momento de su evaluación, en 
-concordancia con el Real Decreto 659/2023.
+concordancia con el [Real Decreto 659/2023](../../../estatal/03_ordenacion_curricular_y_ensenanzas/RD659_2023_desarrolla_ordenacion_sistema_formacion_profesional.md).
 Noveno.- El Decreto 9/2023, de 26 de enero, en el que se regula y establece el 
 currículo de veintitrés CFGB en el ámbito de la Comunidad Autónoma de Canarias, 
 distribuye el módulo profesional de formación en empresas u organismos equiparados 
@@ -275,7 +275,7 @@ Segunda.- Aspectos generales de la formación en empresa.
 distribución adecuada de los procesos formativos entre los centros educativos de formación 
 profesional y las empresas u organismos equiparados, contribuyendo ambos al logro de las 
 competencias previstas en cada oferta de formación.
-2. De conformidad con lo dispuesto en el Real Decreto 659/2023, de 18 de julio, se 
+2. De conformidad con lo dispuesto en el [Real Decreto 659/2023](../../../estatal/03_ordenacion_curricular_y_ensenanzas/RD659_2023_desarrolla_ordenacion_sistema_formacion_profesional.md), de 18 de julio, se 
 distinguirán dos modalidades para la formación en la empresa:
 Modalidad de formación en régimen general:
 Las ofertas de formación profesional se entenderán realizadas en régimen general, 
@@ -306,7 +306,7 @@ que incluirá al menos el 30% de los resultados de aprendizaje de los módulos p
 3. El desarrollo de la formación en empresa u organismo equiparado se regirá, de manera 
 general, por lo dispuesto en los artículos 71 y 72 (Certificados Profesionales), 88 (Ciclos 
 Formativos de Grado Básico), 106 (Ciclos Formativos de Grado Medio y Superior), 116 
-(Cursos de Especialización) y 151 a 164 del Real Decreto 659/2023, de 18 de julio.
+(Cursos de Especialización) y 151 a 164 del [Real Decreto 659/2023](../../../estatal/03_ordenacion_curricular_y_ensenanzas/RD659_2023_desarrolla_ordenacion_sistema_formacion_profesional.md), de 18 de julio.
 4. La oferta de formación profesional de los Grados C y D incorporará una formación 
 en empresa u organismo equiparado como parte integrada del currículo previsto en cada 
 oferta formativa.
@@ -324,7 +324,7 @@ profesionales de la oferta formativa se desarrolle en el ámbito correspondiente
 desarrollan su actividad.
 8. Se promoverá la participación de las micro y pequeñas empresas con el soporte de los 
 organismos intermedios (asociaciones, federación, confederación, Cámara de Comercio, 
-clúster, …), tal y como se recoge en el artículo 152.4 del Real Decreto 659/2023, de 18 
+clúster, …), tal y como se recoge en el artículo 152.4 del [Real Decreto 659/2023](../../../estatal/03_ordenacion_curricular_y_ensenanzas/RD659_2023_desarrolla_ordenacion_sistema_formacion_profesional.md), de 18 
 de julio, incluyendo la designación mancomunada de la persona que vaya ejercer en ella 
 labores de tutorización.
 9. Las empresas podrán acogerse a proyectos de internacionalización, incluyendo 
@@ -394,7 +394,7 @@ sistemas de evaluación que garanticen dichas competencias.
 nivel 3), el resultado de aprendizaje que ha de adquirir el alumnado relativo a riesgos 
 específicos y las medidas de prevención en las actividades profesionales correspondientes 
 al perfil profesional es el descrito en el Anexo V (Currículo básico del Módulo Profesional 
-Itinerario Personal para la Empleabilidad I) del Real Decreto 659/2023, de 18 de julio. El 
+Itinerario Personal para la Empleabilidad I) del [Real Decreto 659/2023](../../../estatal/03_ordenacion_curricular_y_ensenanzas/RD659_2023_desarrolla_ordenacion_sistema_formacion_profesional.md), de 18 de julio. El 
 profesorado de la especialidad correspondiente programará este resultado de aprendizaje 
 para ser impartido en el primer trimestre del primer curso, al tratarse de un requisito 
 indispensable para su incorporación a la formación práctica en las empresas u organismos 
@@ -750,7 +750,7 @@ así como las medidas y recursos de atención educativa y profesional.
 que faciliten la igualdad de oportunidades para las personas con discapacidad y, en general, 
 de personas y colectivos con dificultades de inserción socio-laboral, para facilitar su 
 formación en las empresas u organismos equiparados. Para ello, podrá contar con el personal 
-de apoyo especializado a personas con discapacidad, definido en el Real Decreto 659/2023, 
+de apoyo especializado a personas con discapacidad, definido en el [Real Decreto 659/2023](../../../estatal/03_ordenacion_curricular_y_ensenanzas/RD659_2023_desarrolla_ordenacion_sistema_formacion_profesional.md), 
 de 18 de julio, por el que se desarrolla la ordenación del Sistema de Formación Profesional.
 Novena.- Asignación del alumnado a la formación en empresa u organismo 
 equiparado.
@@ -811,7 +811,7 @@ equiparado.
 1. El seguimiento y la evaluación de los resultados de aprendizaje incorporados al 
 Plan de formación serán coordinados por los tutores o tutoras del centro educativo y 
 de la empresa, en colaboración directa con el profesorado responsable de los módulos 
-profesionales, ajustándose a lo establecido en el artículo 163 del Real Decreto 659/2023, 
+profesionales, ajustándose a lo establecido en el artículo 163 del [Real Decreto 659/2023](../../../estatal/03_ordenacion_curricular_y_ensenanzas/RD659_2023_desarrolla_ordenacion_sistema_formacion_profesional.md), 
 de 18 de julio.
 
 2. El informe de evaluación será elaborado por el equipo educativo y se trasladará al 
@@ -1122,7 +1122,7 @@ Decimosexta.- Formación de carácter dual en el ámbito penitenciario.
 El desarrollo de ofertas formativas que conlleve formación en empresas u organismos 
 equiparados para personas en situación de privación de libertad, atenderá a lo establecido 
 en el Real Decreto 190/1996, de 9 de febrero, por el que se aprueba el Reglamento 
-Penitenciario, y en la Sección 6.ª del Capítulo IV del Real Decreto 659/2023. La presente 
+Penitenciario, y en la Sección 6.ª del Capítulo IV del [Real Decreto 659/2023](../../../estatal/03_ordenacion_curricular_y_ensenanzas/RD659_2023_desarrolla_ordenacion_sistema_formacion_profesional.md). La presente 
 Resolución tendrá, en lo que afecte, carácter complementario.
 Decimoséptima.- Formación de carácter dual en el ámbito de los 
 CIEMI.
@@ -1139,7 +1139,7 @@ alumnado.
 Decimoctava.- Transición entre la formación de carácter dual y el módulo de FCT
 1. De acuerdo con el calendario establecido en el artículo 11 del Real Decreto 
 278/2023, de 11 de abril, por el que se establece el calendario de implantación del Sistema 
-de Formación Profesional, establecido por la Ley Orgánica 3/2022, de 31 de marzo, de 
+de Formación Profesional, establecido por la [Ley Orgánica 3/2022](../08_personal_docente/LO3_2022_ordenacion_gestion_determinadas_listas_empleo_tras.md), de 31 de marzo, de 
 ordenación e integración de la Formación Profesional, en el curso escolar 2024-2025 se 
 implanta el primer curso de todos los ciclos formativos. Durante este curso académico, 
 para el segundo curso permanece en vigor la ordenación de los Ciclos Formativos de 

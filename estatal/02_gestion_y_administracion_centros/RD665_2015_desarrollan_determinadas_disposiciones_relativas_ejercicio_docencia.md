@@ -51,13 +51,13 @@ Por su parte, el [Real Decreto 860/2010](RD860_2010_regulan_condiciones_formacio
 
 La nueva configuración del currículo de Educación Secundaria Obligatoria y Bachillerato constituye uno de los aspectos fundamentales que conlleva la reforma educativa que se inicia tras la publicación de la [Ley Orgánica 8/2013](../03_ordenacion_curricular_y_ensenanzas/LO462_2016_ecd_regula_procedimiento_incorporacion_alumnado_curso.md), de 9 de diciembre, para la Mejora de la Calidad Educativa. En función de esta, se modifican los artículos 24 y 25 de la [Ley Orgánica 2/2006](../01_marco_normativo_general_y_organico/LO2_2006_educacion_texto_consolidado_modificaciones_lomloe.md), de Educación, referidos a la organización del primer ciclo y el cuarto curso de la Educación Secundaria Obligatoria, se da una nueva redacción al artículo 34 y se añaden dos nuevos artículos en los que se regula la organización del primer y segundo curso de Bachillerato. Como resultado de estas modificaciones desaparecen del currículo o cambian de denominación algunas materias y se introducen otras nuevas. Además, la organización de la Educación Secundaria Obligatoria y el Bachillerato deja de estar basada en la oferta de materias obligatorias, de modalidad y optativas, para pasar a agrupar las asignaturas en tres bloques: troncales, específicas, y de libre configuración autonómica.
 
-Además, la Ley Orgánica 8/2013, de 9 de diciembre, establece una nueva ordenación de la Formación Profesional y, como medida para facilitar la permanencia de los alumnos y las alumnas en el sistema educativo y ofrecerles mayores posibilidades para su desarrollo personal y profesional, crea los ciclos de Formación Profesional Básica dentro de la Formación Profesional del sistema educativo, y, prevé la desaparición progresiva de los programas de cualificación profesional inicial.
+Además, la [Ley Orgánica 8/2013](../03_ordenacion_curricular_y_ensenanzas/LO462_2016_ecd_regula_procedimiento_incorporacion_alumnado_curso.md), de 9 de diciembre, establece una nueva ordenación de la Formación Profesional y, como medida para facilitar la permanencia de los alumnos y las alumnas en el sistema educativo y ofrecerles mayores posibilidades para su desarrollo personal y profesional, crea los ciclos de Formación Profesional Básica dentro de la Formación Profesional del sistema educativo, y, prevé la desaparición progresiva de los programas de cualificación profesional inicial.
 
-Resulta por tanto necesario proceder a la modificación del Real Decreto 1834/2008, de 8 de noviembre, al objeto de adecuar sus disposiciones a las modificaciones que la Ley Orgánica 8/2013, de 9 de diciembre, introduce en la ordenación de las distintas enseñanzas, y asignar a cada una de las especialidades de los cuerpos docentes las materias que integran el currículo.
+Resulta por tanto necesario proceder a la modificación del [Real Decreto 1834/2008](./RD1834_2008_definen_condiciones_formacion_ejercicio_docencia_educacion.md), de 8 de noviembre, al objeto de adecuar sus disposiciones a las modificaciones que la [Ley Orgánica 8/2013](../03_ordenacion_curricular_y_ensenanzas/LO462_2016_ecd_regula_procedimiento_incorporacion_alumnado_curso.md), de 9 de diciembre, introduce en la ordenación de las distintas enseñanzas, y asignar a cada una de las especialidades de los cuerpos docentes las materias que integran el currículo.
 
-Con este mismo fin se modifica también a través de esta norma el Real Decreto 860/2010, de 2 de julio, incorporando al mismo, además, los requisitos de titulación necesarios para impartir los módulos profesionales asociados a los bloques comunes de la nueva Formación Profesional básica.
+Con este mismo fin se modifica también a través de esta norma el [Real Decreto 860/2010](./RD860_2010_regulan_condiciones_formacion_inicial_profesorado_centros.md), de 2 de julio, incorporando al mismo, además, los requisitos de titulación necesarios para impartir los módulos profesionales asociados a los bloques comunes de la nueva Formación Profesional básica.
 
-Por último, es necesario también establecer la correspondencia entre aquellas materias del currículo anterior a la Ley Orgánica 8/2013, de 9 de diciembre, que cambian de denominación y las que integran el currículo derivado de su implantación.
+Por último, es necesario también establecer la correspondencia entre aquellas materias del currículo anterior a la [Ley Orgánica 8/2013](../03_ordenacion_curricular_y_ensenanzas/LO462_2016_ecd_regula_procedimiento_incorporacion_alumnado_curso.md), de 9 de diciembre, que cambian de denominación y las que integran el currículo derivado de su implantación.
 
 Para la elaboración de este real decreto han sido consultadas las Comunidades Autónomas en el seno de la Conferencia Sectorial de Educación, y los ciudadanos a través de un trámite de información pública, ha emitido dictamen el Consejo Escolar del Estado y ha emitido informe la Comisión Superior de Personal.
 
@@ -65,7 +65,7 @@ En virtud de lo expuesto, a propuesta del Ministro de Educación, Cultura y Depo
 
 **DISPONGO:**
 
-#### Artículo primero. Modificación del Real Decreto 1834/2008, de 8 de noviembre, por el que se definen las condiciones de formación para el ejercicio de la docencia en la educación secundaria obligatoria, el bachillerato, la formación profesional y las enseñanzas de régimen especial y se establecen las especialidades de los cuerpos docentes de enseñanza secundaria.
+#### Artículo primero. Modificación del [Real Decreto 1834/2008](./RD1834_2008_definen_condiciones_formacion_ejercicio_docencia_educacion.md), de 8 de noviembre, por el que se definen las condiciones de formación para el ejercicio de la docencia en la educación secundaria obligatoria, el bachillerato, la formación profesional y las enseñanzas de régimen especial y se establecen las especialidades de los cuerpos docentes de enseñanza secundaria.
 
 Uno. Los apartados 5 y 6 del artículo 3 quedan redactados en los siguientes términos:
 
@@ -83,7 +83,7 @@ Tres. Se añade una nueva disposición adicional novena, que queda redactada en 
 
 «Disposición adicional novena. Ciclos formativos de Formación Profesional Básica.
 
-Los módulos profesionales de los ciclos formativos de Formación Profesional Básica asociados a los bloques comunes establecidos en el artículo 42.4 de la Ley Orgánica 2/2006, de 3 de mayo serán impartidos por personal funcionario de los cuerpos de catedráticos y profesores de enseñanza secundaria de alguna de las especialidades que tengan atribución docente para impartir cualquiera de las materias incluidas en el bloque común correspondiente conforme a lo establecido en el anexo VI».
+Los módulos profesionales de los ciclos formativos de Formación Profesional Básica asociados a los bloques comunes establecidos en el artículo 42.4 de la [Ley Orgánica 2/2006](../01_marco_normativo_general_y_organico/LO2_2006_educacion_texto_consolidado_modificaciones_lomloe.md), de 3 de mayo serán impartidos por personal funcionario de los cuerpos de catedráticos y profesores de enseñanza secundaria de alguna de las especialidades que tengan atribución docente para impartir cualquiera de las materias incluidas en el bloque común correspondiente conforme a lo establecido en el anexo VI».
 
 Cuatro. Se modifica el anexo III, que queda redactado en los siguientes términos:
 
@@ -523,7 +523,7 @@ Matemáticas.
 
 Tecnología.
 
-#### Artículo segundo. Modificación del Real Decreto 860/2010, de 2 de julio, por el que se regulan las condiciones de formación inicial del profesorado de los centros privados para ejercer la docencia en las enseñanzas de educación secundaria obligatoria o de bachillerato.
+#### Artículo segundo. Modificación del [Real Decreto 860/2010](./RD860_2010_regulan_condiciones_formacion_inicial_profesorado_centros.md), de 2 de julio, por el que se regulan las condiciones de formación inicial del profesorado de los centros privados para ejercer la docencia en las enseñanzas de educación secundaria obligatoria o de bachillerato.
 
 Uno. El artículo 7 queda redactado en los siguientes términos:
 
@@ -531,7 +531,7 @@ Uno. El artículo 7 queda redactado en los siguientes términos:
 
 1. Los ámbitos específicos que pudieran crearse dentro de los programas de mejora del aprendizaje y del rendimiento, establecidos en el artículo 27 de la Ley 2/2006, de 3 de mayo, los resultantes de la agrupación de materias del primer curso en ámbitos de conocimiento prevista en el artículo 24.7 de dicha Ley Orgánica, y los propios de la oferta específica para personas adultas serán impartidos por el profesorado que reúna los requisitos de formación inicial para impartir cualquiera de las materias que se integran en dichos ámbitos.
 
-2. Los módulos de los ciclos de Formación Profesional Básica asociados a los bloques comunes establecidos en el artículo 42.4 de la Ley Orgánica 2/2006, de 3 de mayo, serán impartidos por profesorado con la titulación y requisitos establecidos en la normativa vigente para la impartición de alguna de las materias incluidas en el bloque común correspondiente, conforme a lo dispuesto en el anexo II.
+2. Los módulos de los ciclos de Formación Profesional Básica asociados a los bloques comunes establecidos en el artículo 42.4 de la [Ley Orgánica 2/2006](../01_marco_normativo_general_y_organico/LO2_2006_educacion_texto_consolidado_modificaciones_lomloe.md), de 3 de mayo, serán impartidos por profesorado con la titulación y requisitos establecidos en la normativa vigente para la impartición de alguna de las materias incluidas en el bloque común correspondiente, conforme a lo dispuesto en el anexo II.
 
 3. Las Administraciones educativas regularán los requisitos para la acreditación de la cualificación específica adecuada para impartir las materias de libre configuración autonómica no reguladas por este real decreto y que formen parte del currículo de la Educación Secundaria Obligatoria o del Bachillerato.»
 
@@ -561,9 +561,9 @@ Análisis Musical.
 
 BTO
 
-Título Superior de Música o de Danza (artículo 54.3 de la Ley Orgánica 2/2006, de 3 de mayo).
+Título Superior de Música o de Danza (artículo 54.3 de la [Ley Orgánica 2/2006](../01_marco_normativo_general_y_organico/LO2_2006_educacion_texto_consolidado_modificaciones_lomloe.md), de 3 de mayo).
 
-Licenciado en Musicología o en Historia y Ciencia de la Música. Título superior de Música (artículo 42.3 de la Ley Orgánica 1/1990, de 3 de octubre) o titulaciones declaradas equivalentes a efectos de docencia.
+Licenciado en Musicología o en Historia y Ciencia de la Música. Título superior de Música (artículo 42.3 de la [Ley Orgánica 1/1990](./LO1_1990_regula_regimen_equivalencias_estudios_basicos_medios.md), de 3 de octubre) o titulaciones declaradas equivalentes a efectos de docencia.
 
 Lenguaje y Práctica Musical.
 
@@ -571,53 +571,53 @@ Historia de la Música y de la Danza.
 
 BTO
 
-Título Superior de Música o de Danza (artículo 54.3 de la Ley Orgánica 2/2006, de 3 de mayo).
+Título Superior de Música o de Danza (artículo 54.3 de la [Ley Orgánica 2/2006](../01_marco_normativo_general_y_organico/LO2_2006_educacion_texto_consolidado_modificaciones_lomloe.md), de 3 de mayo).
 
-Licenciado en Musicología o en Historia y Ciencia de la Música. Título superior de Música o de Danza (artículo 42.3 de la Ley Orgánica 1/1990, de 3 de octubre) o titulaciones declaradas equivalentes a efectos de docencia.
+Licenciado en Musicología o en Historia y Ciencia de la Música. Título superior de Música o de Danza (artículo 42.3 de la [Ley Orgánica 1/1990](./LO1_1990_regula_regimen_equivalencias_estudios_basicos_medios.md), de 3 de octubre) o titulaciones declaradas equivalentes a efectos de docencia.
 
 Anatomía Aplicada.
 
 BTO
 
-Título Superior de Danza (artículo 54.3 de la Ley Orgánica 2/2006, de 3 de mayo).
+Título Superior de Danza (artículo 54.3 de la [Ley Orgánica 2/2006](../01_marco_normativo_general_y_organico/LO2_2006_educacion_texto_consolidado_modificaciones_lomloe.md), de 3 de mayo).
 
 Cualquier título de Licenciado del área de Ciencias Experimentales y de la Salud o cualquier título oficial de Graduado o Graduada de la rama de conocimiento de Ciencias de la Salud, y además acreditar una experiencia docente o una formación superior adecuada para impartir el currículo de la materia.
 
-Título Superior de Danza (artículo 42.3 de la Ley Orgánica 1/1990, de 3 de octubre) o enseñanzas declaradas equivalentes a efectos de docencia.
+Título Superior de Danza (artículo 42.3 de la [Ley Orgánica 1/1990](./LO1_1990_regula_regimen_equivalencias_estudios_basicos_medios.md), de 3 de octubre) o enseñanzas declaradas equivalentes a efectos de docencia.
 
 Artes Escénicas.
 
 BTO
 
-Título Superior de Arte Dramático (artículo 55.3 de la Ley Orgánica 2/2006, de 3 de mayo).
+Título Superior de Arte Dramático (artículo 55.3 de la [Ley Orgánica 2/2006](../01_marco_normativo_general_y_organico/LO2_2006_educacion_texto_consolidado_modificaciones_lomloe.md), de 3 de mayo).
 
 Cualquier título de Licenciado del área de Humanidades o de las Ciencias Sociales y Jurídicas o cualquier título oficial de Graduado o Graduada de la rama de conocimiento de Artes y Humanidades o de Ciencias Sociales y Jurídicas, y además acreditar una experiencia docente o una formación superior adecuada para impartir el currículo de la materia.
 
-Título Superior de Arte Dramático (artículo 45.1 de la Ley Orgánica 1/1990, de 3 de octubre) o titulaciones declaradas equivalentes a efectos de docencia.
+Título Superior de Arte Dramático (artículo 45.1 de la [Ley Orgánica 1/1990](./LO1_1990_regula_regimen_equivalencias_estudios_basicos_medios.md), de 3 de octubre) o titulaciones declaradas equivalentes a efectos de docencia.
 
 Artes Escénicas y Danza.
 
 ESO
 
-Título Superior de Arte Dramático (artículo 55.3 de la Ley Orgánica 2/2006, de 3 de mayo).
+Título Superior de Arte Dramático (artículo 55.3 de la [Ley Orgánica 2/2006](../01_marco_normativo_general_y_organico/LO2_2006_educacion_texto_consolidado_modificaciones_lomloe.md), de 3 de mayo).
 
 Cualquier título de Licenciado del área de Humanidades o de las Ciencias Sociales y Jurídicas o cualquier título oficial de Graduado o Graduada de la rama de conocimiento de Artes y Humanidades o de Ciencias Sociales y Jurídicas, y además acreditar una experiencia docente o una formación superior adecuada para impartir el currículo de la materia.
 
 Título Superior de Arte Dramático
 
-(artículo 45.1 de la Ley Orgánica 1/1990, de 3 de octubre) o titulaciones declaradas equivalentes a efectos de docencia.
+(artículo 45.1 de la [Ley Orgánica 1/1990](./LO1_1990_regula_regimen_equivalencias_estudios_basicos_medios.md), de 3 de octubre) o titulaciones declaradas equivalentes a efectos de docencia.
 
 Música.
 
 ESO
 
-Título Superior de Música (artículo 54.3 de la Ley Orgánica 2/2006, de 3 de mayo).
+Título Superior de Música (artículo 54.3 de la [Ley Orgánica 2/2006](../01_marco_normativo_general_y_organico/LO2_2006_educacion_texto_consolidado_modificaciones_lomloe.md), de 3 de mayo).
 
-Cualquier título de Licenciado, Ingeniero, Arquitecto, Graduado o Graduada, y acreditar estar en posesión del Título Profesional de Música (artículo 42.2 de la Ley Orgánica 1/1990, de 3 de octubre, o artículo 50.1 de la Ley Orgánica 2/2006, de 3 de mayo) o el Título de Profesor regulado en el Decreto 2618/1966, de 10 de septiembre, de Reglamentación General de los Conservatorios de Música.
+Cualquier título de Licenciado, Ingeniero, Arquitecto, Graduado o Graduada, y acreditar estar en posesión del Título Profesional de Música (artículo 42.2 de la [Ley Orgánica 1/1990](./LO1_1990_regula_regimen_equivalencias_estudios_basicos_medios.md), de 3 de octubre, o artículo 50.1 de la [Ley Orgánica 2/2006](../01_marco_normativo_general_y_organico/LO2_2006_educacion_texto_consolidado_modificaciones_lomloe.md), de 3 de mayo) o el Título de Profesor regulado en el Decreto 2618/1966, de 10 de septiembre, de Reglamentación General de los Conservatorios de Música.
 
 Licenciado en Historia y Ciencias de la Música.
 
-Título Superior de Música (artículo 42.3 de la Ley Orgánica 1/1990, de 3 de octubre), o titulaciones declaradas equivalentes a efectos de docencia.
+Título Superior de Música (artículo 42.3 de la [Ley Orgánica 1/1990](./LO1_1990_regula_regimen_equivalencias_estudios_basicos_medios.md), de 3 de octubre), o titulaciones declaradas equivalentes a efectos de docencia.
 
 Cultura Audiovisual.
 
@@ -887,17 +887,17 @@ Matemáticas.
 
 Tecnología.
 
-#### Artículo tercero. Correspondencia entre determinadas materias del currículo anteriores a la implantación de las modificaciones introducidas en la Ley Orgánica 2/2006, de 3 de mayo, de Educación, por la Ley Orgánica 8/2013, de 9 de diciembre, para la mejora de la calidad educativa, según su disposición final quinta, y sus equivalentes en el currículo derivado de su implantación.
+#### Artículo tercero. Correspondencia entre determinadas materias del currículo anteriores a la implantación de las modificaciones introducidas en la [Ley Orgánica 2/2006](../01_marco_normativo_general_y_organico/LO2_2006_educacion_texto_consolidado_modificaciones_lomloe.md), de 3 de mayo, de Educación, por la [Ley Orgánica 8/2013](../03_ordenacion_curricular_y_ensenanzas/LO462_2016_ecd_regula_procedimiento_incorporacion_alumnado_curso.md), de 9 de diciembre, para la mejora de la calidad educativa, según su disposición final quinta, y sus equivalentes en el currículo derivado de su implantación.
 
 Se establecen las siguientes correspondencias:
 
-Materias anteriores a la implantación de las modificaciones introducidas en la Ley Orgánica 2/2006, de 3 de mayo,
+Materias anteriores a la implantación de las modificaciones introducidas en la [Ley Orgánica 2/2006](../01_marco_normativo_general_y_organico/LO2_2006_educacion_texto_consolidado_modificaciones_lomloe.md), de 3 de mayo,
 
-de Educación, por la Ley Orgánica 8/2013, de 9 de diciembre, para la mejora de la calidad educativa,
+de Educación, por la [Ley Orgánica 8/2013](../03_ordenacion_curricular_y_ensenanzas/LO462_2016_ecd_regula_procedimiento_incorporacion_alumnado_curso.md), de 9 de diciembre, para la mejora de la calidad educativa,
 
 según su disposición final quinta
 
-Materias posteriores a la implantación de las modificaciones introducidas en la Ley Orgánica 2/2006, de 3 de mayo, de Educación, por la Ley Orgánica 8/2013, de 9 de diciembre, para la mejora de la calidad educativa, según su disposición final quinta
+Materias posteriores a la implantación de las modificaciones introducidas en la [Ley Orgánica 2/2006](../01_marco_normativo_general_y_organico/LO2_2006_educacion_texto_consolidado_modificaciones_lomloe.md), de 3 de mayo, de Educación, por la [Ley Orgánica 8/2013](../03_ordenacion_curricular_y_ensenanzas/LO462_2016_ecd_regula_procedimiento_incorporacion_alumnado_curso.md), de 9 de diciembre, para la mejora de la calidad educativa, según su disposición final quinta
 
 Educación Secundaria Obligatoria
 
@@ -971,7 +971,7 @@ Cultura Científica.
 
 #### Disposición final primera. Calendario de implantación.
 
-La implantación de las modificaciones incluidas en este real decreto se realizará según el calendario de implantación establecido en la disposición final quinta de la Ley Orgánica 8/2013, de 9 de diciembre.
+La implantación de las modificaciones incluidas en este real decreto se realizará según el calendario de implantación establecido en la disposición final quinta de la [Ley Orgánica 8/2013](../03_ordenacion_curricular_y_ensenanzas/LO462_2016_ecd_regula_procedimiento_incorporacion_alumnado_curso.md), de 9 de diciembre.
 
 #### Disposición final segunda. Modificación de los reales decretos que regulan los títulos de Técnico y Técnico Superior de Artes Plásticas y Diseño de la familia profesional artística de Escultura.
 

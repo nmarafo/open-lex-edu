@@ -818,7 +818,7 @@ situación.
 2.10. Permisos y licencias. Bajas, altas y sustitu-
 ciones.
 Los permisos a los que se refiere el artículo 47 de
-la Ley 2/1987, de la Función Pública Canaria, serán
+la [Ley 2/1987](../01_marco_normativo_general_y_organico/L2_1987_funcion_publica_canaria.md), de la Función Pública Canaria, serán
 concedidos por la Dirección del centro.
 Las licencias contempladas en el artículo 48 de la
 misma Ley habrán de ser solicitadas (exceptuando

@@ -66,9 +66,9 @@ lo que incluye la solicitud de los títulos y duplicados a través de sede elect
 implantación de la firma electrónica en las propuestas de títulos por los agentes implicados, 
 por lo que es preciso dictar unas nuevas instrucciones que actualicen el procedimiento.
 FUNDAMENTOS DE DERECHO
-Primero.- Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común de 
+Primero.- [Ley 39/2015](../../../estatal/01_marco_normativo_general_y_organico/L39_2015_procedimiento_administrativo_comun_administraciones_publicas.md), de 1 de octubre, del Procedimiento Administrativo Común de 
 las Administraciones Públicas.
-Segundo.- Ley 40/2015, de 1 de octubre, de Régimen Jurídico del Sector Público.
+Segundo.- [Ley 40/2015](../../../estatal/01_marco_normativo_general_y_organico/L40_2015_regimen_juridico_sector_publico.md), de 1 de octubre, de Régimen Jurídico del Sector Público.
 Tercero.- Real Decreto 1850/2009, de 4 de diciembre, sobre expedición de títulos 
 académicos y profesionales correspondientes a las enseñanzas establecidas por la Ley 
 Orgánica 2/2006, de 3 de mayo, de Educación.

@@ -121,11 +121,11 @@ de que las administraciones competentes, de oficio o previa solicitud de los cen
 Sistema de Formación Profesional, integren dos titulaciones del mismo nivel del Catálogo 
 Nacional de Ofertas de Formación Profesional, bajo la denominación de “doble titulación 
 de formación profesional”.
-Quinto.- Asimismo, el artículo 7.2 del citado Real Decreto 659/2023, de 18 de julio, 
+Quinto.- Asimismo, el artículo 7.2 del citado [Real Decreto 659/2023](./RD659_2023_dictan_instrucciones_orientaciones_formacion_dual_empresas.md), de 18 de julio, 
 dispone que “Las administraciones educativas establecerán los currículos correspondientes 
 a los Grados D y E, respetando las atribuciones competenciales establecidas en el 
 artículo 6 de la [Ley Orgánica 2/2006](../../../estatal/01_marco_normativo_general_y_organico/LO2_2006_educacion_texto_consolidado_modificaciones_lomloe.md), de 3 de mayo, de Educación, y de acuerdo con lo 
-prescrito por la Ley Orgánica 3/2022, de 31 de marzo, de ordenación e integración de 
+prescrito por la [Ley Orgánica 3/2022](../08_personal_docente/LO3_2022_ordenacion_gestion_determinadas_listas_empleo_tras.md), de 31 de marzo, de ordenación e integración de 
 la Formación Profesional, esta disposición y el resto de los desarrollos normativos del 
 Sistema de Formación Profesional. En todo caso, se respetarán siempre todos los elementos 
 contemplados en el currículo básico”.

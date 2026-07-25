@@ -85,18 +85,18 @@ proceso de aprendizaje, de acuerdo con lo objetivos curriculares de estas enseñ
 https://sede.gobcan.es/cpji/boc
 Martes 21 de febrero de 2017
 FUNDAMENTOS DE DERECHO 
-Primero.- La Ley Orgánica 2/2006, de 3 de mayo, de Educación (BOE nº 106, de 4 de 
+Primero.- La [Ley Orgánica 2/2006](../../../estatal/01_marco_normativo_general_y_organico/LO2_2006_educacion_texto_consolidado_modificaciones_lomloe.md), de 3 de mayo, de Educación (BOE nº 106, de 4 de 
 mayo), en su redacción actual, en el artículo 3.6, que preceptúa que las enseñanzas deportivas 
 tendrán la consideración de enseñanzas de régimen especial, y en su Capítulo VIII del Título 
 I, que establece los principios generales de las enseñanzas deportivas así como las normas 
 fundamentales sobre su organización. 
-Segundo.- El Real Decreto 1363/2007, de 24 de octubre, por el que se establece la 
+Segundo.- El [Real Decreto 1363/2007](../../../estatal/03_ordenacion_curricular_y_ensenanzas/RD1363_2007_establece_ordenacion_general_ensenanzas_deportivas_regimen.md), de 24 de octubre, por el que se establece la 
 ordenación general de las enseñanzas deportivas de régimen especial (BOE nº 268, de 8 de 
 noviembre), que regula en su Capítulo IV la evaluación.
 Tercero.- El [Decreto 81/2010](../04_organizacion_escolar_y_funcionamiento/D81_2010_aprueba_reglamento_organico_centros_docentes_publicos.md), de 8 de julio, por el que se aprueba el Reglamento Orgánico 
 de los centros docentes públicos no universitarios de la Comunidad Autónoma de Canarias 
 (BOC nº 143, de 22 de julio).
-Cuarto.- La [Orden de 9 de octubre de 2013](../04_organizacion_escolar_y_funcionamiento/Ds_n_desarrolla_decreto_aprueba_reglamento_organico_centros.md), por la que se desarrolla el Decreto 81/2010, 
+Cuarto.- La [Orden de 9 de octubre de 2013](../04_organizacion_escolar_y_funcionamiento/Ds_n_desarrolla_decreto_aprueba_reglamento_organico_centros.md), por la que se desarrolla el [Decreto 81/2010](../04_organizacion_escolar_y_funcionamiento/D81_2010_aprueba_reglamento_organico_centros_docentes_publicos.md), 
 de 8 de julio, por el que se aprueba el Reglamento Orgánico de los centros docentes públicos 
 no universitarios de la Comunidad Autónoma de Canarias, en lo referente a su organización 
 y funcionamiento (BOC nº 200, de 16 de octubre).
@@ -119,7 +119,7 @@ Autónoma de Canarias.
 2. Será de aplicación en los centros que imparten enseñanzas deportivas de régimen 
 especial en la Comunidad Autónoma de Canarias.
 Segunda.- Aspectos generales de la evaluación.
-1. De acuerdo con los dispuesto en el artículo 13 del Real Decreto 1363/2007, de 24 
+1. De acuerdo con los dispuesto en el artículo 13 del [Real Decreto 1363/2007](../../../estatal/03_ordenacion_curricular_y_ensenanzas/RD1363_2007_establece_ordenacion_general_ensenanzas_deportivas_regimen.md), de 24 
 de octubre, por el que se establece la ordenación general de las enseñanzas deportivas de 
 
 https://sede.gobcan.es/cpji/boc
@@ -216,7 +216,7 @@ a la realización de la formación práctica, y en ella se llevará a cabo la ev
 módulos pendientes y del módulo de formación práctica. En cualquier caso, la evaluación de 
 la formación práctica quedará condicionada a la evaluación positiva del resto de los módulos 
 de enseñanza deportiva.
-De acuerdo con lo establecido en el artículo 29.4 del Real Decreto 1363/2007, de 24 
+De acuerdo con lo establecido en el artículo 29.4 del [Real Decreto 1363/2007](../../../estatal/03_ordenacion_curricular_y_ensenanzas/RD1363_2007_establece_ordenacion_general_ensenanzas_deportivas_regimen.md), de 24 
 de octubre, excepcionalmente se podrá acceder al bloque común del ciclo final de grado 
 medio sin haber superado el módulo de formación práctica del ciclo inicial, siempre que se 
 acrediten los requisitos de carácter específico que para el citado ciclo final se determinen 
@@ -245,7 +245,7 @@ extraordinaria para el alumnado con módulos pendientes que no ha accedido a la 
 práctica. Esta prueba será elaborada por el profesorado responsable del módulo correspondiente, 
 considerando, en todo caso, los aspectos curriculares mínimos no adquiridos, y podrá versar 
 sobre la totalidad o una parte de la programación didáctica del módulo.
-De acuerdo con lo dispuesto en el artículo 12, apartado 3, del Real Decreto 1363/2007, 
+De acuerdo con lo dispuesto en el artículo 12, apartado 3, del [Real Decreto 1363/2007](../../../estatal/03_ordenacion_curricular_y_ensenanzas/RD1363_2007_establece_ordenacion_general_ensenanzas_deportivas_regimen.md), 
 de 24 de octubre, dado su carácter integrador, el módulo de proyecto final se presentará una 
 vez superados los restantes módulos comunes y específicos de enseñanza deportiva.
 
@@ -273,7 +273,7 @@ No obstante, teniendo en cuenta la temporalidad de ciertas actividades deportiva
 formación práctica se podrá organizar en periodos coincidentes con el desarrollo de la 
 actividad deportiva propia del perfil profesional del título, siempre que se haya obtenido la 
 evaluación positiva en los módulos a que se refiere el apartado 1 anterior.
-3. De conformidad con lo dispuesto en el artículo 11 del Real Decreto 1363/2007, de 
+3. De conformidad con lo dispuesto en el artículo 11 del [Real Decreto 1363/2007](../../../estatal/03_ordenacion_curricular_y_ensenanzas/RD1363_2007_establece_ordenacion_general_ensenanzas_deportivas_regimen.md), de 
 24 de octubre, la formación práctica se desarrollará en centros deportivos o instituciones 
 colaboradoras en situaciones reales de trabajo, previo concierto específico de colaboración 
 para la formación en centro de trabajo suscrito con las entidades deportivas e instituciones 
@@ -308,7 +308,7 @@ asesoramiento y apoyo.
 8. La carga horaria del módulo de formación práctica será la establecida en la normativa 
 que establezca los currículos correspondientes. 
 Sexta.- Módulo de proyecto final.
-1. De conformidad con lo dispuesto en el artículo 12 del Real Decreto 1363/2007, de 
+1. De conformidad con lo dispuesto en el artículo 12 del [Real Decreto 1363/2007](../../../estatal/03_ordenacion_curricular_y_ensenanzas/RD1363_2007_establece_ordenacion_general_ensenanzas_deportivas_regimen.md), de 
 24 de octubre, el módulo de proyecto final se presentará al finalizar el resto de los módulos 
 comunes y específicos de enseñanza deportiva.
 2. El alumnado presentará en la Secretaría del centro en el plazo de diez días contados 
@@ -344,16 +344,16 @@ para el desarrollo del mismo, facilitándole los recursos necesarios. La Direcci
 educativo establecerá un calendario de sesiones para que el profesorado resuelva las dudas 
 y oriente al alumnado en el desarrollo del proyecto final.
 Séptima.- Calificación de la evaluación.
-1. De conformidad con lo previsto en el artículo 14.1 del Real Decreto 1363/2007, de 24 
+1. De conformidad con lo previsto en el artículo 14.1 del [Real Decreto 1363/2007](../../../estatal/03_ordenacion_curricular_y_ensenanzas/RD1363_2007_establece_ordenacion_general_ensenanzas_deportivas_regimen.md), de 24 
 de octubre, la calificación de los resultados de la evaluación de cada uno de los módulos que 
 componen el ciclo se ajustará a la escala numérica de 1 a 10, sin decimales. Se considerarán 
 positivas las calificaciones iguales o superiores a cinco y negativas las inferiores a cinco.
 El módulo de formación práctica será calificado en términos de “Apto” y “No Apto”.
  En los ciclos de grado superior el módulo de proyecto final será calificado en términos 
 de “Apto” o “No Apto”, salvo en las modalidades y especialidades que se hayan establecido 
-al amparo del Real Decreto 1913/1997, de 19 de diciembre, en las que, de acuerdo con la 
+al amparo del [Real Decreto 1913/1997](../../../estatal/03_ordenacion_curricular_y_ensenanzas/RD454_2002_ecd_establecen_elementos_basicos_informes_evaluacion.md), de 19 de diciembre, en las que, de acuerdo con la 
 regulación contenida en los reales decretos que crearon los títulos y enseñanzas mínimas, y en 
-aplicación de lo previsto en la Disposición transitoria segunda del Real Decreto 1363/2007, 
+aplicación de lo previsto en la Disposición transitoria segunda del [Real Decreto 1363/2007](../../../estatal/03_ordenacion_curricular_y_ensenanzas/RD1363_2007_establece_ordenacion_general_ensenanzas_deportivas_regimen.md), 
 de 24 de octubre, será calificado siguiendo la escala numérica de uno a diez puntos, sin 
 decimales, hasta que se implanten los nuevos títulos y enseñanzas.
 El requisito de acceso de carácter específico se calificará en su conjunto como “Apto” o 
@@ -381,7 +381,7 @@ inferiores a cinco.
 6. Las correspondencias, convalidaciones y exenciones son las establecidas en la 
 normativa vigente de aplicación.
 Octava.- Convocatorias.
-1. De acuerdo con lo establecido en el artículo 13.5 del Real Decreto 1363/2007, de 
+1. De acuerdo con lo establecido en el artículo 13.5 del [Real Decreto 1363/2007](../../../estatal/03_ordenacion_curricular_y_ensenanzas/RD1363_2007_establece_ordenacion_general_ensenanzas_deportivas_regimen.md), de 
 24 de octubre, el alumnado dispondrá de un máximo de cuatro convocatorias ordinarias 
 para superar cada uno de los módulos de enseñanza deportiva, excepto para los módulos de 
 formación práctica y de proyecto final, cuyo máximo será de dos convocatorias.
@@ -421,7 +421,7 @@ Novena.- Baja de matrícula y renuncia a la convocatoria de evaluación.
 1. La baja de matrícula podrá realizarse de oficio por el centro educativo o a instancia del 
 alumnado interesado.
 a) De acuerdo con lo dispuesto en el artículo 49, apartado 3, de la Orden de 9 de octubre 
-de 2013, por la que se desarrolla el Decreto 81/2010, de 8 de julio, por el que se aprueba el 
+de 2013, por la que se desarrolla el [Decreto 81/2010](../04_organizacion_escolar_y_funcionamiento/D81_2010_aprueba_reglamento_organico_centros_docentes_publicos.md), de 8 de julio, por el que se aprueba el 
 Reglamento Orgánico de los centros docentes públicos no universitarios de la Comunidad 
 Autónoma de Canarias, en lo referente a su organización y funcionamiento (BOC nº 200, 
 de 16 de octubre), la baja de matrícula se podrá realizar de oficio por el centro educativo en 
@@ -466,7 +466,7 @@ exclusivamente a la convocatoria del módulo para la que ha sido concedida.
 La renuncia no dará derecho a la devolución de las tasas abonadas en concepto de 
 matrícula.
 Décima.- Documentos de la evaluación.
-1. Conforme a lo dispuesto en el artículo 15 del Real Decreto 1363/2007, de 24 de octubre, 
+1. Conforme a lo dispuesto en el artículo 15 del [Real Decreto 1363/2007](../../../estatal/03_ordenacion_curricular_y_ensenanzas/RD1363_2007_establece_ordenacion_general_ensenanzas_deportivas_regimen.md), de 24 de octubre, 
 tienen la consideración de documentos de evaluación el expediente académico personal, 
 las actas de evaluación, la certificación académica oficial y los informes de evaluación 
 individualizados, teniendo carácter básico para la movilidad la certificación académica 

@@ -35,11 +35,11 @@ fundamentos_derecho:
 ---
 # Real Decreto 1774/2004, de 30 de julio, por el que se aprueba el Reglamento de la [Ley Orgánica 5/2000](LO5_2000_reguladora_responsabilidad_penal_menores.md), de 12 de enero, reguladora de la responsabilidad penal de los menores.
 
-La Ley Orgánica 5/2000, de 12 de enero, reguladora de la responsabilidad penal de los menores, en el apartado 24 de su exposición de motivos, prevé una regulación más extensa de algunos de sus aspectos en el reglamento que en su día se dicte en su desarrollo.
+La [Ley Orgánica 5/2000](./LO5_2000_reguladora_responsabilidad_penal_menores.md), de 12 de enero, reguladora de la responsabilidad penal de los menores, en el apartado 24 de su exposición de motivos, prevé una regulación más extensa de algunos de sus aspectos en el reglamento que en su día se dicte en su desarrollo.
 
 Asimismo, en diferentes artículos de la ley orgánica hay llamamientos concretos al desarrollo reglamentario para establecer: la periodicidad con que se remitirá al juez de menores y al Ministerio Fiscal los informes sobre la ejecución de la medida y sus incidencias, y sobre la evolución personal de los menores sometidos a ellas ; los permisos ordinarios y extraordinarios de los que podrá disfrutar el menor internado; los requisitos para trasladar al menor de centro fuera de la comunidad autónoma ; el derecho del menor a comunicarse libremente con sus padres y familiares, y a disfrutar de salidas y permisos; el derecho de las menores internadas a tener en su compañía a sus hijos menores de tres años; la forma y la periodicidad de las actuaciones de vigilancia y seguridad en los centros; los medios de contención para evitar actos de violencia, impedir actos de fuga y daños en las instalaciones, o ante la resistencia a las instrucciones del personal del centro, y el régimen disciplinario de los centros para la ejecución de las medidas privativas de libertad.
 
-A la vista de esta previsiones, se ha elaborado un reglamento que, conforme a su artículo 1, pretende abordar un desarrollo parcial de la Ley Orgánica 5/2000, de 12 de enero, reguladora de la responsabilidad penal de los menores, en lo relativo a tres materias concretas:
+A la vista de esta previsiones, se ha elaborado un reglamento que, conforme a su artículo 1, pretende abordar un desarrollo parcial de la [Ley Orgánica 5/2000](./LO5_2000_reguladora_responsabilidad_penal_menores.md), de 12 de enero, reguladora de la responsabilidad penal de los menores, en lo relativo a tres materias concretas:
 
 la actuación de la Policía Judicial y del equipo técnico, la ejecución de las medidas cautelares y definitivas y el régimen disciplinario de los centros.
 
@@ -51,7 +51,7 @@ Las denominadas reglas comunes comprenden el establecimiento de los principios q
 
 La sección concluye con un precepto que regula los casos en que el menor desee conciliarse con la víctima o reparar el daño causado. En estos casos, se encomiendan a la entidad pública las funciones de mediación.
 
-La sección 2.ª del capítulo III contempla reglas específicas para la ejecución de determinadas medidas no privativas de libertad, en desarrollo del artículo 7 de la Ley Orgánica 5/2000, de 12 de enero, comprendiendo la regulación de las medidas de tratamiento ambulatorio, asistencia a un centro de día, libertad vigilada, convivencia con otra persona, familia o grupo educativo, prestaciones en beneficio de la comunidad y realización de tareas socioeducativas. Es nota común a todas ellas la elaboración de un programa individualizado de ejecución.
+La sección 2.ª del capítulo III contempla reglas específicas para la ejecución de determinadas medidas no privativas de libertad, en desarrollo del artículo 7 de la [Ley Orgánica 5/2000](./LO5_2000_reguladora_responsabilidad_penal_menores.md), de 12 de enero, comprendiendo la regulación de las medidas de tratamiento ambulatorio, asistencia a un centro de día, libertad vigilada, convivencia con otra persona, familia o grupo educativo, prestaciones en beneficio de la comunidad y realización de tareas socioeducativas. Es nota común a todas ellas la elaboración de un programa individualizado de ejecución.
 
 La sección 3.ª es la más extensa y heterogénea del reglamento y bajo la rúbrica "Reglas específicas para la ejecución de las medidas privativas de libertad", regula tanto las medidas como los trámites para el ingreso, la asistencia del menor, su régimen de comunicación, etc.
 
@@ -65,7 +65,7 @@ En su virtud, a propuesta del Ministro de Justicia, con la aprobación previa de
 
 **D I S P O N G O :**
 
-#### Artículo único. Aprobación del Reglamento de la Ley Orgánica 5/2000, de 12 de enero, reguladora de la responsabilidad penal de los menores.
+#### Artículo único. Aprobación del Reglamento de la [Ley Orgánica 5/2000](./LO5_2000_reguladora_responsabilidad_penal_menores.md), de 12 de enero, reguladora de la responsabilidad penal de los menores.
 
 Se aprueba el Reglamento de la Ley
 
@@ -73,7 +73,7 @@ Orgánica 5/2000, de 12 de enero, reguladora de la responsabilidad penal de los 
 
 #### Disposición adicional única. Evaluación de resultados.
 
-Transcurrido un año desde la entrada en vigor del reglamento de la Ley Orgánica 5/2000, de 12 de enero, reguladora de la responsabilidad penal de los menores, el Gobierno procederá a evaluar los resultados de su aplicación, consultando para ello a las comunidades autónomas, al Consejo General del Poder Judicial y al Fiscal General del Estado.
+Transcurrido un año desde la entrada en vigor del reglamento de la [Ley Orgánica 5/2000](./LO5_2000_reguladora_responsabilidad_penal_menores.md), de 12 de enero, reguladora de la responsabilidad penal de los menores, el Gobierno procederá a evaluar los resultados de su aplicación, consultando para ello a las comunidades autónomas, al Consejo General del Poder Judicial y al Fiscal General del Estado.
 
 #### Disposición final única. Entrada en vigor.
 
@@ -85,7 +85,7 @@ El Ministro de Justicia,
 
 JUAN FERNANDO LÓPEZ AGUILAR
 
-[encabezado]REGLAMENTO DE LA LEY ORGÁNICA 5/2000, DE 12 DE ENERO, REGULADORA DE LA RESPONSABILIDAD PENAL DE LOS MENORES
+[encabezado]REGLAMENTO DE LA [LEY ORGÁNICA 5/2000](./LO5_2000_reguladora_responsabilidad_penal_menores.md), DE 12 DE ENERO, REGULADORA DE LA RESPONSABILIDAD PENAL DE LOS MENORES
 
 CAPÍTULO I
 
@@ -93,9 +93,9 @@ Disposiciones generales
 
 #### Artículo 1. Objeto y ámbito de aplicación.
 
-1. Este reglamento tiene por objeto el desarrollo de la Ley Orgánica 5/2000, de 12 de enero, reguladora de la responsabilidad penal de los menores, en lo referente a la actuación del equipo técnico y de la Policía Judicial, a la ejecución de las medidas cautelares y definitivas adoptadas de conformidad con aquella y al régimen disciplinario de los centros para la ejecución de las medidas privativas de libertad, sin perjuicio de las normas que en aplicación de lo dispuesto en el artículo 45.1 y la disposición final séptima de la citada ley orgánica establezcan las comunidades autónomas y las Ciudades de Ceuta y Melilla, en el ámbito de sus competencias.
+1. Este reglamento tiene por objeto el desarrollo de la [Ley Orgánica 5/2000](./LO5_2000_reguladora_responsabilidad_penal_menores.md), de 12 de enero, reguladora de la responsabilidad penal de los menores, en lo referente a la actuación del equipo técnico y de la Policía Judicial, a la ejecución de las medidas cautelares y definitivas adoptadas de conformidad con aquella y al régimen disciplinario de los centros para la ejecución de las medidas privativas de libertad, sin perjuicio de las normas que en aplicación de lo dispuesto en el artículo 45.1 y la disposición final séptima de la citada ley orgánica establezcan las comunidades autónomas y las Ciudades de Ceuta y Melilla, en el ámbito de sus competencias.
 
-2. Al efecto de designar a las personas a quienes se aplica este reglamento, en su articulado se utiliza el término menores para referirse a las personas que no han cumplido 18 años, sin perjuicio de lo previsto en los artículos 4 y 15 de la Ley Orgánica 5/2000, de 12 de enero, cuando sea aplicable.
+2. Al efecto de designar a las personas a quienes se aplica este reglamento, en su articulado se utiliza el término menores para referirse a las personas que no han cumplido 18 años, sin perjuicio de lo previsto en los artículos 4 y 15 de la [Ley Orgánica 5/2000](./LO5_2000_reguladora_responsabilidad_penal_menores.md), de 12 de enero, cuando sea aplicable.
 
 CAPÍTULO II
 
@@ -105,25 +105,25 @@ De la actuación de la Policía Judicial y del equipo técnico
 
 1. La Policía Judicial actúa en la investigación de los hechos cometidos por menores que pudieran ser constitutivos de delitos o faltas, bajo la dirección del Ministerio Fiscal.
 
-2. La actuación de la Policía Judicial se atendrá a las órdenes del Ministerio Fiscal y se sujetará a lo establecido en la Ley Orgánica 5/2000, de 12 de enero, reguladora de la responsabilidad penal de los menores, y en la Ley de Enjuiciamiento Criminal.
+2. La actuación de la Policía Judicial se atendrá a las órdenes del Ministerio Fiscal y se sujetará a lo establecido en la [Ley Orgánica 5/2000](./LO5_2000_reguladora_responsabilidad_penal_menores.md), de 12 de enero, reguladora de la responsabilidad penal de los menores, y en la Ley de Enjuiciamiento Criminal.
 
 Salvo la detención, toda diligencia policial restrictiva de derechos fundamentales será interesada al Ministerio Fiscal para que, por su conducto, se realice la oportuna solicitud al juez de menores competente.
 
 3. Los registros policiales donde consten la identidad y otros datos que afecten a la intimidad de los menores serán de carácter estrictamente confidencial y no podrán ser consultados por terceros. Solo tendrán acceso a dichos archivos las personas que participen directamente en la investigación de un caso en trámite o aquellas personas que, en el ejercicio de sus respectivas competencias, autoricen expresamente el juez de menores o el Ministerio Fiscal, todo ello sin perjuicio de las disposiciones que, en materia de regulación de ficheros y registros automatizados, dicten las comunidades autónomas de acuerdo con sus respectivas competencias.
 
-4. A tal efecto, cuando, de conformidad con el artículo 17 de la Ley Orgánica 5/2000, de 12 de enero, reguladora de la responsabilidad penal de los menores, se proceda a la detención de un menor, se podrá proceder a tomar reseña de sus impresiones dactilares, así como fotografías de su rostro, que se remitirán, como parte del atestado policial, al Ministerio Fiscal para la instrucción del expediente, y constarán en la base de datos de identificación personal.
+4. A tal efecto, cuando, de conformidad con el artículo 17 de la [Ley Orgánica 5/2000](./LO5_2000_reguladora_responsabilidad_penal_menores.md), de 12 de enero, reguladora de la responsabilidad penal de los menores, se proceda a la detención de un menor, se podrá proceder a tomar reseña de sus impresiones dactilares, así como fotografías de su rostro, que se remitirán, como parte del atestado policial, al Ministerio Fiscal para la instrucción del expediente, y constarán en la base de datos de identificación personal.
 
 5. El cacheo y aseguramiento físico de los menores detenidos se llevará a cabo en los casos en que sea estrictamente necesario y como medida proporcional de seguridad para el propio menor detenido y los funcionarios actuantes, cuando no sea posible otro medio de contención física del menor.
 
 6. Además de lo anterior, existirá un registro o archivo central donde, de modo específico para menores, se incorporará la información relativa a los datos de estos resultantes de la investigación. Tal registro o archivo solo podrá facilitar información a requerimiento del Ministerio Fiscal o del juez de menores.
 
-Tanto los registros policiales como el registro central al que se refiere este apartado estarán sometidos a lo dispuesto en la Ley Orgánica 15/1999, de 13 de diciembre, de Protección de Datos de Carácter Personal.
+Tanto los registros policiales como el registro central al que se refiere este apartado estarán sometidos a lo dispuesto en la [Ley Orgánica 15/1999](../02_gestion_y_administracion_centros/LO15_1999_proteccion_datos_caracter_personal.md), de 13 de diciembre, de Protección de Datos de Carácter Personal.
 
-7. Cuando el Ministerio Fiscal o el juez de menores, en el ejercicio de sus competencias atribuidas por la Ley Orgánica 5/2000, de 12 de enero, reguladora de la responsabilidad penal de los menores, deseen consultar datos relativos a la identidad o edad de un menor, requerirán del mencionado registro o archivo central que se comparen los datos que obran en su poder con los que existan en dicho registro, a fin de acreditar la identidad u otros datos del menor expedientado. A tal fin, dirigirán comunicación, directamente o a través del Grupo de Menores u otras unidades similares, al mencionado registro, que facilitará los datos y emitirá un informe sobre los extremos requeridos.
+7. Cuando el Ministerio Fiscal o el juez de menores, en el ejercicio de sus competencias atribuidas por la [Ley Orgánica 5/2000](./LO5_2000_reguladora_responsabilidad_penal_menores.md), de 12 de enero, reguladora de la responsabilidad penal de los menores, deseen consultar datos relativos a la identidad o edad de un menor, requerirán del mencionado registro o archivo central que se comparen los datos que obran en su poder con los que existan en dicho registro, a fin de acreditar la identidad u otros datos del menor expedientado. A tal fin, dirigirán comunicación, directamente o a través del Grupo de Menores u otras unidades similares, al mencionado registro, que facilitará los datos y emitirá un informe sobre los extremos requeridos.
 
 8. Los registros de menores a que se refiere este artículo no podrán ser utilizados en procesos de adultos relativos a casos subsiguientes en los que esté implicada la misma persona.
 
-9. Cuando la policía judicial investigue a una persona como presunto autor de una infracción penal de cuya minoría de edad se dude y no consten datos que permitan su determinación, se pondrá a disposición de la autoridad judicial de la jurisdicción ordinaria para que proceda a determinar la identidad y edad del presunto delincuente por las reglas de la Ley de Enjuiciamiento Criminal. Una vez acreditada la edad, si esta fuese inferior a los 18 años, se procederá conforme a lo previsto en la Ley Orgánica 5/2000, de 12 de enero, reguladora de la responsabilidad penal de los menores.
+9. Cuando la policía judicial investigue a una persona como presunto autor de una infracción penal de cuya minoría de edad se dude y no consten datos que permitan su determinación, se pondrá a disposición de la autoridad judicial de la jurisdicción ordinaria para que proceda a determinar la identidad y edad del presunto delincuente por las reglas de la Ley de Enjuiciamiento Criminal. Una vez acreditada la edad, si esta fuese inferior a los 18 años, se procederá conforme a lo previsto en la [Ley Orgánica 5/2000](./LO5_2000_reguladora_responsabilidad_penal_menores.md), de 12 de enero, reguladora de la responsabilidad penal de los menores.
 
 10. Cuando para la identificación de un menor haya de acudirse a la diligencia de reconocimiento prevista en el artículo 369 de la Ley de Enjuiciamiento Criminal, dicha diligencia solo podrá llevarse a cabo con orden o autorización del Ministerio Fiscal o del juez de menores según sus propias competencias.
 
@@ -137,9 +137,9 @@ Cuando la rueda esté compuesta por otros menores de edad, se deberá contar con
 
 2. Toda declaración del detenido se llevará a cabo en presencia de su letrado y de aquellos que ejerzan la patria potestad, tutela o guarda del menor, de hecho o de derecho, salvo que, en este último caso, las circunstancias aconsejen lo contrario. En defecto de estos últimos, la declaración se llevará a cabo en presencia del Ministerio Fiscal, representado por un fiscal distinto del instructor del expediente.
 
-3. Mientras dure la detención los menores deberán hallarse custodiados en dependencias adecuadas conforme establece la Ley Orgánica 5/2000, de 12 de enero, reguladora de la responsabilidad penal de los menores.
+3. Mientras dure la detención los menores deberán hallarse custodiados en dependencias adecuadas conforme establece la [Ley Orgánica 5/2000](./LO5_2000_reguladora_responsabilidad_penal_menores.md), de 12 de enero, reguladora de la responsabilidad penal de los menores.
 
-La custodia de los menores detenidos a que se refiere el párrafo anterior corresponderá a las Fuerzas y Cuerpos de Seguridad competentes hasta que el fiscal resuelva sobre la libertad del menor, el desistimiento o la incoación del expediente, con puesta a disposición del juez a que se refiere el artículo 17.5 de la Ley Orgánica 5/2000, de 12 de enero, reguladora de la responsabilidad penal de los menores. El fiscal resolverá en el menor espacio de tiempo posible y, en todo caso, dentro de las 48 horas siguientes a la detención.
+La custodia de los menores detenidos a que se refiere el párrafo anterior corresponderá a las Fuerzas y Cuerpos de Seguridad competentes hasta que el fiscal resuelva sobre la libertad del menor, el desistimiento o la incoación del expediente, con puesta a disposición del juez a que se refiere el artículo 17.5 de la [Ley Orgánica 5/2000](./LO5_2000_reguladora_responsabilidad_penal_menores.md), de 12 de enero, reguladora de la responsabilidad penal de los menores. El fiscal resolverá en el menor espacio de tiempo posible y, en todo caso, dentro de las 48 horas siguientes a la detención.
 
 4. Durante la detención debe garantizarse que todo menor disponga de alimentación, vestimenta y condiciones de intimidad, seguridad y sanidad adecuadas.
 
@@ -165,7 +165,7 @@ Este libro registro será único para todo lo concerniente a la detención del m
 
 #### Artículo 4. Actuación del equipo técnico.
 
-1. Los equipos técnicos estarán formados por psicólogos, educadores y trabajadores sociales cuya función es asistir técnicamente en las materias propias de sus disciplinas profesionales a los jueces de menores y al Ministerio Fiscal, elaborando los informes, efectuando las propuestas, siendo oídos en los supuestos y en la forma establecidos en la Ley Orgánica 5/2000, de 12 de enero, reguladora de la responsabilidad penal de los menores, y, en general, desempeñando las funciones que tengan legalmente atribuidas.
+1. Los equipos técnicos estarán formados por psicólogos, educadores y trabajadores sociales cuya función es asistir técnicamente en las materias propias de sus disciplinas profesionales a los jueces de menores y al Ministerio Fiscal, elaborando los informes, efectuando las propuestas, siendo oídos en los supuestos y en la forma establecidos en la [Ley Orgánica 5/2000](./LO5_2000_reguladora_responsabilidad_penal_menores.md), de 12 de enero, reguladora de la responsabilidad penal de los menores, y, en general, desempeñando las funciones que tengan legalmente atribuidas.
 
 Del mismo modo, prestarán asistencia profesional al menor desde el momento de su detención y realizarán funciones de mediación entre el menor y la víctima o perjudicado.
 
@@ -173,7 +173,7 @@ Podrán también incorporarse de modo temporal o permanente a los equipos técni
 
 2. Los profesionales integrantes de los equipos técnicos dependerán orgánicamente del Ministerio de Justicia o de las comunidades autónomas con competencias asumidas y estarán adscritos a los juzgados de menores.
 
-Durante la instrucción del expediente, desempeñarán las funciones establecidas en la Ley Orgánica 5/2000, de 12 de enero, bajo la dependencia funcional del Ministerio Fiscal y del juez de menores cuando lo ordene.
+Durante la instrucción del expediente, desempeñarán las funciones establecidas en la [Ley Orgánica 5/2000](./LO5_2000_reguladora_responsabilidad_penal_menores.md), de 12 de enero, bajo la dependencia funcional del Ministerio Fiscal y del juez de menores cuando lo ordene.
 
 No obstante lo anterior, en el ejercicio de su actividad técnica actuarán con independencia y con sujeción a criterios estrictamente profesionales.
 
@@ -185,15 +185,15 @@ No obstante lo anterior, en el ejercicio de su actividad técnica actuarán con 
 
 #### Artículo 5. Modo de llevar a cabo las soluciones extrajudiciales.
 
-1. En el supuesto previsto en el artículo 19 de la Ley Orgánica 5/2000, de 12 de enero, reguladora de la responsabilidad penal de los menores, se procederá del siguiente modo:
+1. En el supuesto previsto en el artículo 19 de la [Ley Orgánica 5/2000](./LO5_2000_reguladora_responsabilidad_penal_menores.md), de 12 de enero, reguladora de la responsabilidad penal de los menores, se procederá del siguiente modo:
 
 a) Si el Ministerio Fiscal, a la vista de las circunstancias concurrentes o a instancia del letrado del menor, apreciara la posibilidad de desistir de la continuación del expediente, solicitará del equipo técnico informe sobre la conveniencia de adoptar la solución extrajudicial más adecuada al interés del menor y al de la víctima.
 
 b) Recibida la solicitud por el equipo técnico, citará a su presencia al menor, a sus representantes legales y a su letrado defensor.
 
-c) El equipo técnico expondrá al menor la posibilidad de solución extrajudicial prevista en el artículo 19 de la Ley Orgánica 5/2000, de 12 de enero, y oirá a sus representantes legales. Si, con audiencia de su letrado, el menor aceptara alguna de las soluciones que el equipo le propone, a ser posible en el mismo acto, se recabará la conformidad de sus representantes legales.
+c) El equipo técnico expondrá al menor la posibilidad de solución extrajudicial prevista en el artículo 19 de la [Ley Orgánica 5/2000](./LO5_2000_reguladora_responsabilidad_penal_menores.md), de 12 de enero, y oirá a sus representantes legales. Si, con audiencia de su letrado, el menor aceptara alguna de las soluciones que el equipo le propone, a ser posible en el mismo acto, se recabará la conformidad de sus representantes legales.
 
-Si el menor o sus representantes legales manifestaran su negativa a aceptar una solución extrajudicial, el equipo técnico lo comunicará al Ministerio Fiscal e iniciará la elaboración del informe al que alude el artículo 27 de la Ley Orgánica 5/2000, de 12 de enero.
+Si el menor o sus representantes legales manifestaran su negativa a aceptar una solución extrajudicial, el equipo técnico lo comunicará al Ministerio Fiscal e iniciará la elaboración del informe al que alude el artículo 27 de la [Ley Orgánica 5/2000](./LO5_2000_reguladora_responsabilidad_penal_menores.md), de 12 de enero.
 
 d) El equipo técnico se pondrá en contacto con la víctima para que manifieste su conformidad o disconformidad a participar en un procedimiento de mediación, ya sea a través de comparecencia personal ante el equipo técnico, ya sea por cualquier otro medio que permita dejar constancia.
 
@@ -203,11 +203,11 @@ e) Si la víctima se mostrase conforme a participar en la mediación, el equipo 
 
 f) No siendo posible la conciliación o la reparación directa o social, o cuando el equipo técnico lo considere más adecuado al interés del menor, propondrá a este la realización de tareas socioeducativas o la prestación de servicios en beneficio de la comunidad.
 
-g) El equipo técnico pondrá en conocimiento del Ministerio Fiscal el resultado del proceso de mediación, los acuerdos alcanzados por las partes y su grado de cumplimiento o, en su caso, los motivos por los que no han podido llevarse a efecto los compromisos alcanzados por las partes, a efectos de lo dispuesto en el artículo 19.4 y 5 de la Ley Orgánica 5/2000, de 12 de enero, reguladora de la responsabilidad penal de los menores.
+g) El equipo técnico pondrá en conocimiento del Ministerio Fiscal el resultado del proceso de mediación, los acuerdos alcanzados por las partes y su grado de cumplimiento o, en su caso, los motivos por los que no han podido llevarse a efecto los compromisos alcanzados por las partes, a efectos de lo dispuesto en el artículo 19.4 y 5 de la [Ley Orgánica 5/2000](./LO5_2000_reguladora_responsabilidad_penal_menores.md), de 12 de enero, reguladora de la responsabilidad penal de los menores.
 
-2. Si, conforme a lo previsto en el artículo 27.3 de la Ley Orgánica 5/2000, de 12 de enero, reguladora de la responsabilidad penal de los menores, el equipo técnico considera conveniente que el menor efectúe una actividad reparadora o de conciliación con la víctima, informará de tal extremo al Ministerio Fiscal y al letrado del menor. Si este apreciara la posibilidad de desistir de la continuación del expediente, solicitará del equipo técnico informe sobre la solución extrajudicial más adecuada y se seguirán los trámites previstos en el apartado anterior.
+2. Si, conforme a lo previsto en el artículo 27.3 de la [Ley Orgánica 5/2000](./LO5_2000_reguladora_responsabilidad_penal_menores.md), de 12 de enero, reguladora de la responsabilidad penal de los menores, el equipo técnico considera conveniente que el menor efectúe una actividad reparadora o de conciliación con la víctima, informará de tal extremo al Ministerio Fiscal y al letrado del menor. Si este apreciara la posibilidad de desistir de la continuación del expediente, solicitará del equipo técnico informe sobre la solución extrajudicial más adecuada y se seguirán los trámites previstos en el apartado anterior.
 
-3. Lo dispuesto en este artículo podrá ser aplicable al procedimiento de mediación previsto en el artículo 51.2 de la Ley Orgánica 5/2000, de 12 de enero, reguladora de la responsabilidad penal de los menores, sin perjuicio de la competencia de la entidad pública y de lo dispuesto en el artículo 15 de este reglamento. Las referencias al equipo técnico hechas en este artículo se entenderán efectuadas a la entidad pública cuando, de conformidad con lo establecido en el artículo 8.7 de este reglamento, dicha entidad realice las funciones de mediación.
+3. Lo dispuesto en este artículo podrá ser aplicable al procedimiento de mediación previsto en el artículo 51.2 de la [Ley Orgánica 5/2000](./LO5_2000_reguladora_responsabilidad_penal_menores.md), de 12 de enero, reguladora de la responsabilidad penal de los menores, sin perjuicio de la competencia de la entidad pública y de lo dispuesto en el artículo 15 de este reglamento. Las referencias al equipo técnico hechas en este artículo se entenderán efectuadas a la entidad pública cuando, de conformidad con lo establecido en el artículo 8.7 de este reglamento, dicha entidad realice las funciones de mediación.
 
 CAPÍTULO III
 
@@ -245,37 +245,37 @@ Los menores y los jóvenes gozarán durante la ejecución de las medidas de los 
 
 #### Artículo 8. Competencia funcional.
 
-1. Corresponde a las comunidades autónomas y las Ciudades de Ceuta y Melilla, mediante las entidades públicas que estas designen con arreglo a la disposición final vigésima segunda de la Ley Orgánica 1/1996, de 15 de enero, de protección jurídica del menor:
+1. Corresponde a las comunidades autónomas y las Ciudades de Ceuta y Melilla, mediante las entidades públicas que estas designen con arreglo a la disposición final vigésima segunda de la [Ley Orgánica 1/1996](./LO1_1996_proteccion_juridica_menor_modificacion_parcial_codigo.md), de 15 de enero, de protección jurídica del menor:
 
-a) La ejecución de las medidas cautelares adoptadas de conformidad con el artículo 28 de la Ley Orgánica 5/2000, de 12 de enero, reguladora de la responsabilidad penal de los menores.
+a) La ejecución de las medidas cautelares adoptadas de conformidad con el artículo 28 de la [Ley Orgánica 5/2000](./LO5_2000_reguladora_responsabilidad_penal_menores.md), de 12 de enero, reguladora de la responsabilidad penal de los menores.
 
-b) La ejecución de las medidas adoptadas por los jueces de menores en sus sentencias firmes, previstas en los párrafos a) a k) del artículo 7.1 de la Ley Orgánica 5/2000, de 12 de enero.
+b) La ejecución de las medidas adoptadas por los jueces de menores en sus sentencias firmes, previstas en los párrafos a) a k) del artículo 7.1 de la [Ley Orgánica 5/2000](./LO5_2000_reguladora_responsabilidad_penal_menores.md), de 12 de enero.
 
-c) La ejecución del régimen de libertad vigilada y de la actividad socioeducativa a la que alude el artículo 40.2.c) de la Ley Orgánica 5/2000, de 12 de enero.
+c) La ejecución del régimen de libertad vigilada y de la actividad socioeducativa a la que alude el artículo 40.2.c) de la [Ley Orgánica 5/2000](./LO5_2000_reguladora_responsabilidad_penal_menores.md), de 12 de enero.
 
-Dichas entidades públicas llevarán a cabo, de acuerdo con sus respectivas normas de organización, la creación, dirección, organización y gestión de los servicios, instituciones y programas adecuados para garantizar la correcta ejecución de las medidas, sin perjuicio de los convenios y acuerdos de colaboración que puedan establecer de conformidad con el artículo 45.3 de la Ley Orgánica 5/2000, de 12 de enero, reguladora de la responsabilidad penal de los menores.
+Dichas entidades públicas llevarán a cabo, de acuerdo con sus respectivas normas de organización, la creación, dirección, organización y gestión de los servicios, instituciones y programas adecuados para garantizar la correcta ejecución de las medidas, sin perjuicio de los convenios y acuerdos de colaboración que puedan establecer de conformidad con el artículo 45.3 de la [Ley Orgánica 5/2000](./LO5_2000_reguladora_responsabilidad_penal_menores.md), de 12 de enero, reguladora de la responsabilidad penal de los menores.
 
-2. Corresponde al Estado, en los establecimientos y con el control del personal especializado que ponga a disposición de la Audiencia Nacional, la ejecución de la detención preventiva, de las medidas cautelares de internamiento y de las medidas adoptadas en sentencia firme que, de conformidad con la disposición adicional cuarta de la Ley Orgánica 5/2000, de 12 de enero, reguladora de la responsabilidad penal de los menores, acuerden el Juzgado Central de Menores o la sala correspondiente de la Audiencia Nacional, sin perjuicio de los convenios que, en su caso, pueda establecer para dicha finalidad con las comunidades autónomas y las Ciudades de Ceuta y Melilla.
+2. Corresponde al Estado, en los establecimientos y con el control del personal especializado que ponga a disposición de la Audiencia Nacional, la ejecución de la detención preventiva, de las medidas cautelares de internamiento y de las medidas adoptadas en sentencia firme que, de conformidad con la disposición adicional cuarta de la [Ley Orgánica 5/2000](./LO5_2000_reguladora_responsabilidad_penal_menores.md), de 12 de enero, reguladora de la responsabilidad penal de los menores, acuerden el Juzgado Central de Menores o la sala correspondiente de la Audiencia Nacional, sin perjuicio de los convenios que, en su caso, pueda establecer para dicha finalidad con las comunidades autónomas y las Ciudades de Ceuta y Melilla.
 
-3. Corresponde a las instituciones públicas que en el respectivo territorio tengan encomendada la ejecución de las medidas penales a las que alude el artículo 105.1 de la [Ley Orgánica 10/1995](LO10_1995_codigo_penal.md), de 23 de noviembre, del Código Penal, la ejecución de la medida de libertad vigilada impuesta de conformidad con la regla 5.ª del artículo 9 y, en su caso, con el apartado 2.c) de la disposición adicional cuarta de la Ley Orgánica 5/2000, de 12 de enero, reguladora de la responsabilidad penal de los menores.
+3. Corresponde a las instituciones públicas que en el respectivo territorio tengan encomendada la ejecución de las medidas penales a las que alude el artículo 105.1 de la [Ley Orgánica 10/1995](LO10_1995_codigo_penal.md), de 23 de noviembre, del Código Penal, la ejecución de la medida de libertad vigilada impuesta de conformidad con la regla 5.ª del artículo 9 y, en su caso, con el apartado 2.c) de la disposición adicional cuarta de la [Ley Orgánica 5/2000](./LO5_2000_reguladora_responsabilidad_penal_menores.md), de 12 de enero, reguladora de la responsabilidad penal de los menores.
 
-4. Las medidas de privación del permiso de conducir ciclomotores o vehículos a motor, o del derecho a obtenerlo, o de las licencias administrativas para caza o para cualquier tipo de armas y la inhabilitación absoluta, previstas en los párrafos m) y n) del artículo 7.1 de la Ley Orgánica 5/2000, de 12 de enero, reguladora de la responsabilidad penal de los menores, si no fueran ejecutadas directamente por el juez de menores, se ejecutarán por los órganos administrativos competentes por razón de la materia.
+4. Las medidas de privación del permiso de conducir ciclomotores o vehículos a motor, o del derecho a obtenerlo, o de las licencias administrativas para caza o para cualquier tipo de armas y la inhabilitación absoluta, previstas en los párrafos m) y n) del artículo 7.1 de la [Ley Orgánica 5/2000](./LO5_2000_reguladora_responsabilidad_penal_menores.md), de 12 de enero, reguladora de la responsabilidad penal de los menores, si no fueran ejecutadas directamente por el juez de menores, se ejecutarán por los órganos administrativos competentes por razón de la materia.
 
-5. Si en virtud de lo dispuesto en el artículo 15 de la Ley Orgánica 5/2000, de 12 de enero, reguladora de la responsabilidad penal de los menores, se ordena el cumplimiento de la medida de internamiento del menor en un centro penitenciario, la competencia para la ejecución de esta será de la Administración penitenciaria, sin perjuicio de las facultades propias del juez de menores competente. Esta competencia será extensiva a la ejecución de las medidas pendientes de cumplimiento del artículo 7.1.e) a k) de la Ley Orgánica 5/2000, de 12 de enero, una vez finalizado el internamiento.
+5. Si en virtud de lo dispuesto en el artículo 15 de la [Ley Orgánica 5/2000](./LO5_2000_reguladora_responsabilidad_penal_menores.md), de 12 de enero, reguladora de la responsabilidad penal de los menores, se ordena el cumplimiento de la medida de internamiento del menor en un centro penitenciario, la competencia para la ejecución de esta será de la Administración penitenciaria, sin perjuicio de las facultades propias del juez de menores competente. Esta competencia será extensiva a la ejecución de las medidas pendientes de cumplimiento del artículo 7.1.e) a k) de la [Ley Orgánica 5/2000](./LO5_2000_reguladora_responsabilidad_penal_menores.md), de 12 de enero, una vez finalizado el internamiento.
 
 6. Cuando de conformidad con la Ley
 
 Orgánica 5/2000, de 12 de enero, reguladora de la responsabilidad penal de los menores, el juez de menores o el Ministerio Fiscal remitan a la entidad pública de protección de menores testimonio de particulares sobre un menor de 14 años, será dicha entidad la competente para valorar la situación y decidir si se ha de adoptar alguna medida, conforme a las normas del Código Civil y la legislación de protección de menores.
 
-7. Sin perjuicio de las funciones de mediación atribuidas en el artículo 19.3 de la Ley Orgánica 5/2000, de 12 de enero, reguladora de la responsabilidad penal de los menores, a los equipos técnicos correspondientes, también las entidades públicas podrán poner a disposición del Ministerio Fiscal y de los juzgados de menores, en su caso, los programas necesarios para realizar las funciones de mediación a las que alude el citado artículo.
+7. Sin perjuicio de las funciones de mediación atribuidas en el artículo 19.3 de la [Ley Orgánica 5/2000](./LO5_2000_reguladora_responsabilidad_penal_menores.md), de 12 de enero, reguladora de la responsabilidad penal de los menores, a los equipos técnicos correspondientes, también las entidades públicas podrán poner a disposición del Ministerio Fiscal y de los juzgados de menores, en su caso, los programas necesarios para realizar las funciones de mediación a las que alude el citado artículo.
 
 #### Artículo 9. Punto de conexión para determinar la Administración competente en la ejecución de las medidas.
 
 1. Para la ejecución de las medidas previstas en el apartado 1 del artículo anterior, serán competentes las comunidades autónomas y las Ciudades de Ceuta y Melilla donde se ubique el juzgado de menores que las haya acordado.
 
-En el caso de que la entidad pública haya designado un centro de internamiento para la ejecución situado fuera de su comunidad autónoma, de acuerdo con lo previsto en la Ley Orgánica 5/2000, de 12 de enero, y en este reglamento, será la comunidad autónoma a la que pertenezca dicho centro la competente para la ejecución de la medida, en los términos previstos en el artículo 46.3 de la Ley Orgánica 5/2000, de 12 de enero, reguladora de la responsabilidad penal de los menores.
+En el caso de que la entidad pública haya designado un centro de internamiento para la ejecución situado fuera de su comunidad autónoma, de acuerdo con lo previsto en la [Ley Orgánica 5/2000](./LO5_2000_reguladora_responsabilidad_penal_menores.md), de 12 de enero, y en este reglamento, será la comunidad autónoma a la que pertenezca dicho centro la competente para la ejecución de la medida, en los términos previstos en el artículo 46.3 de la [Ley Orgánica 5/2000](./LO5_2000_reguladora_responsabilidad_penal_menores.md), de 12 de enero, reguladora de la responsabilidad penal de los menores.
 
-2. Si la aprobación judicial prevista en el artículo 46.3 de la Ley Orgánica 5/2000, de 12 de enero, reguladora de la responsabilidad penal de los menores, se adopta una vez iniciada la ejecución de la medida, dejará de ser competente la comunidad autónoma respectiva desde el momento del traslado efectivo del menor al nuevo centro o desde la notificación judicial a la comunidad autónoma de residencia para que designe el profesional responsable de la ejecución de la medida no privativa de libertad impuesta.
+2. Si la aprobación judicial prevista en el artículo 46.3 de la [Ley Orgánica 5/2000](./LO5_2000_reguladora_responsabilidad_penal_menores.md), de 12 de enero, reguladora de la responsabilidad penal de los menores, se adopta una vez iniciada la ejecución de la medida, dejará de ser competente la comunidad autónoma respectiva desde el momento del traslado efectivo del menor al nuevo centro o desde la notificación judicial a la comunidad autónoma de residencia para que designe el profesional responsable de la ejecución de la medida no privativa de libertad impuesta.
 
 3. En caso de traslado de centro por las circunstancias previstas en el artículo 35.1.b) y c) de este reglamento, continuará siendo competente de la ejecución de la medida la comunidad autónoma donde se ubique el juzgado de menores que la haya acordado, sin perjuicio de la colaboración prestada por la comunidad autónoma responsable del centro de destino.
 
@@ -283,23 +283,23 @@ En el caso de que la entidad pública haya designado un centro de internamiento 
 
 1. Para dar inicio a la ejecución de las medidas acordadas en sentencia firme, que sean competencia de las entidades públicas, se procederá conforme a las reglas siguientes:
 
-1.ª Recibidos en la entidad pública la ejecutoria y el testimonio de particulares del juzgado de menores, así como los informes técnicos que obren en la causa y la identificación del letrado del menor, la entidad pública competente, cuando la medida impuesta sea alguna de las previstas en los párrafos a) a d) del artículo 7.1 de la Ley Orgánica 5/2000, de 12 de enero, reguladora de la responsabilidad penal de los menores, o la de permanencia de fin de semana en un centro, designará de forma inmediata el centro que considere más adecuado para su ejecución de entre los más cercanos al domicilio del menor en los que existan plazas disponibles correspondientes al régimen o al tipo de internamiento impuesto. La designación se comunicará al juzgado de menores competente para que ordene el ingreso del menor si no estuviera ingresado cautelarmente.
+1.ª Recibidos en la entidad pública la ejecutoria y el testimonio de particulares del juzgado de menores, así como los informes técnicos que obren en la causa y la identificación del letrado del menor, la entidad pública competente, cuando la medida impuesta sea alguna de las previstas en los párrafos a) a d) del artículo 7.1 de la [Ley Orgánica 5/2000](./LO5_2000_reguladora_responsabilidad_penal_menores.md), de 12 de enero, reguladora de la responsabilidad penal de los menores, o la de permanencia de fin de semana en un centro, designará de forma inmediata el centro que considere más adecuado para su ejecución de entre los más cercanos al domicilio del menor en los que existan plazas disponibles correspondientes al régimen o al tipo de internamiento impuesto. La designación se comunicará al juzgado de menores competente para que ordene el ingreso del menor si no estuviera ingresado cautelarmente.
 
 2.ª Se requerirá la previa aprobación judicial del centro propuesto por la entidad pública en los casos siguientes:
 
-a) Cuando de conformidad con el artículo 46.3 de la Ley Orgánica 5/2000, de 12 de enero, se proponga, en interés del menor, el ingreso en un centro de la comunidad autónoma que se encuentre alejado de su domicilio y de su entorno social y familiar, aun existiendo plaza en un centro más cercano adecuada al régimen o al tipo de internamiento impuesto.
+a) Cuando de conformidad con el artículo 46.3 de la [Ley Orgánica 5/2000](./LO5_2000_reguladora_responsabilidad_penal_menores.md), de 12 de enero, se proponga, en interés del menor, el ingreso en un centro de la comunidad autónoma que se encuentre alejado de su domicilio y de su entorno social y familiar, aun existiendo plaza en un centro más cercano adecuada al régimen o al tipo de internamiento impuesto.
 
-b) Cuando se proponga para la ejecución de la medida el ingreso del menor en un centro sociosanitario, de conformidad con lo dispuesto en el artículo 54.2 de la Ley Orgánica 5/2000, de 12 de enero.
+b) Cuando se proponga para la ejecución de la medida el ingreso del menor en un centro sociosanitario, de conformidad con lo dispuesto en el artículo 54.2 de la [Ley Orgánica 5/2000](./LO5_2000_reguladora_responsabilidad_penal_menores.md), de 12 de enero.
 
 c) Cuando se proponga el ingreso del menor en un centro de otra comunidad autónoma, por los motivos descritos en el artículo 35.1 de este reglamento.
 
-3.ª La entidad pública designará de forma inmediata y, en todo caso, en el plazo máximo de cinco días un profesional que se responsabilizará de la ejecución de la medida impuesta, siempre que esta sea alguna de las previstas en los párrafos e), f), g), cuando en este caso la permanencia se ordene en el domicilio, h), i), j) y k) del artículo 7.1 de la Ley Orgánica 5/2000, de 12 de enero, reguladora de la responsabilidad penal de los menores. Dicha designación se comunicará al juzgado correspondiente.
+3.ª La entidad pública designará de forma inmediata y, en todo caso, en el plazo máximo de cinco días un profesional que se responsabilizará de la ejecución de la medida impuesta, siempre que esta sea alguna de las previstas en los párrafos e), f), g), cuando en este caso la permanencia se ordene en el domicilio, h), i), j) y k) del artículo 7.1 de la [Ley Orgánica 5/2000](./LO5_2000_reguladora_responsabilidad_penal_menores.md), de 12 de enero, reguladora de la responsabilidad penal de los menores. Dicha designación se comunicará al juzgado correspondiente.
 
 4.ª En la medida de libertad vigilada y en las medidas de internamiento, el profesional o el centro designado elaborarán el programa individualizado de ejecución en el plazo de 20 días desde el inicio de aquellas, prorrogable previa autorización judicial.
 
 En el resto de las medidas, el programa individualizado de ejecución se elaborará, previamente a su inicio, en el plazo de 20 días desde la fecha de la designación del profesional, prorrogable previa autorización judicial.
 
-5.ª El programa individualizado de ejecución de la medida se comunicará al juez competente para su aprobación. Si el juez rechazase, en todo o en parte, el programa propuesto, se someterá a su consideración uno nuevo o la modificación correspondiente del anterior, conforme a lo previsto en el artículo 44 de la Ley Orgánica 5/2000, de 12 de enero, reguladora de la responsabilidad penal de los menores.
+5.ª El programa individualizado de ejecución de la medida se comunicará al juez competente para su aprobación. Si el juez rechazase, en todo o en parte, el programa propuesto, se someterá a su consideración uno nuevo o la modificación correspondiente del anterior, conforme a lo previsto en el artículo 44 de la [Ley Orgánica 5/2000](./LO5_2000_reguladora_responsabilidad_penal_menores.md), de 12 de enero, reguladora de la responsabilidad penal de los menores.
 
 6.ª Una vez aprobado el programa individualizado de ejecución de la medida, la entidad pública la iniciará, salvo que ya estuviese iniciada por tratarse de una medida de internamiento o de libertad vigilada, y comunicará la fecha al juzgado de menores para que el secretario judicial practique la liquidación de la medida y la comunique al menor. A efectos de la liquidación, que practicará el secretario judicial, se considerarán como fechas de inicio las siguientes:
 
@@ -307,7 +307,7 @@ a) En las medidas de internamiento, la del día del ingreso o la de firmeza de l
 
 b) En las medidas de libertad vigilada, el día de la primera entrevista del profesional aludido en la regla 3.ª con el menor, que deberá llevarse a cabo en la fecha señalada por el juez de menores de entre las propuestas por la entidad pública y comunicada al menor una vez firme la sentencia. Si la medida ya estuviera iniciada cautelarmente, la fecha de inicio será la de la firmeza de la sentencia.
 
-Si el menor no compareciera, citado en debida forma, incurrirá en el quebrantamiento previsto en el artículo 50.2 de la Ley Orgánica 5/2000, de 12 de enero.
+Si el menor no compareciera, citado en debida forma, incurrirá en el quebrantamiento previsto en el artículo 50.2 de la [Ley Orgánica 5/2000](./LO5_2000_reguladora_responsabilidad_penal_menores.md), de 12 de enero.
 
 c) En las medidas de permanencia de fin de semana, el primer día de permanencia en el centro o en el domicilio.
 
@@ -321,7 +321,7 @@ Si ya estuviera en medida de convivencia cautelar, el día de la firmeza de la s
 
 g) En las medidas a las que alude el artículo 8.4 de este reglamento, el día en que el menor entregue en la secretaría del juzgado el permiso o licencia correspondiente, o en la fecha que el juez señale a la autoridad administrativa.
 
-7.ª En la liquidación de la medida practicada por el secretario del juzgado, se abonará en su caso el tiempo cumplido de las medidas cautelares en los términos del artículo 28.5 de la Ley Orgánica 5/2000, de 12 de enero, reguladora de la responsabilidad penal de los menores.
+7.ª En la liquidación de la medida practicada por el secretario del juzgado, se abonará en su caso el tiempo cumplido de las medidas cautelares en los términos del artículo 28.5 de la [Ley Orgánica 5/2000](./LO5_2000_reguladora_responsabilidad_penal_menores.md), de 12 de enero, reguladora de la responsabilidad penal de los menores.
 
 Una vez aprobada la liquidación por el juez, previo informe del Ministerio Fiscal y del letrado del menor, se comunicará a la entidad pública competente.
 
@@ -329,11 +329,11 @@ Una vez aprobada la liquidación por el juez, previo informe del Ministerio Fisc
 
 que serán los que el Gobierno ponga a disposición de la Audiencia Nacional, sin perjuicio de los convenios que, en su caso, pueda establecer con las comunidades autónomas.
 
-3. Para dar inicio a la ejecución de las medidas cautelares que se acuerden de conformidad con el artículo 28 de la Ley Orgánica 5/2000, de 12 de enero, reguladora de la responsabilidad penal de los menores, una vez adoptado y comunicado a la entidad pública el auto correspondiente, se aplicarán en lo que proceda las reglas 1.ª, 2.ª y 3.ª del apartado 1 de este artículo.
+3. Para dar inicio a la ejecución de las medidas cautelares que se acuerden de conformidad con el artículo 28 de la [Ley Orgánica 5/2000](./LO5_2000_reguladora_responsabilidad_penal_menores.md), de 12 de enero, reguladora de la responsabilidad penal de los menores, una vez adoptado y comunicado a la entidad pública el auto correspondiente, se aplicarán en lo que proceda las reglas 1.ª, 2.ª y 3.ª del apartado 1 de este artículo.
 
 #### Artículo 11. Ejecución de varias medidas.
 
-1. La ejecución de varias medidas se llevará a cabo en todo caso teniendo en cuenta lo acordado por el juez, de acuerdo con lo previsto en los artículos 13 y 47.1 de la Ley Orgánica 5/2000, de 12 de enero, reguladora de la responsabilidad penal de los menores.
+1. La ejecución de varias medidas se llevará a cabo en todo caso teniendo en cuenta lo acordado por el juez, de acuerdo con lo previsto en los artículos 13 y 47.1 de la [Ley Orgánica 5/2000](./LO5_2000_reguladora_responsabilidad_penal_menores.md), de 12 de enero, reguladora de la responsabilidad penal de los menores.
 
 Cuando concurran varias medidas impuestas en el mismo o en diferentes procedimientos, se cumplirán simultáneamente las que se relacionan a continuación:
 
@@ -343,11 +343,11 @@ b) La medida de permanencia de fin de semana cuando concurra con otra medida no 
 
 c) La amonestación, la privación del permiso de conducir ciclomotores o vehículos a motor, o del derecho a obtenerlo, o de las licencias administrativas para caza o para uso de cualquier tipo de armas y la inhabilitación absoluta, cuando concurran con otra medida diferente.
 
-2. El segundo período de las medidas de internamiento descritas en los párrafos a) a d) del artículo 7.1 de la Ley Orgánica 5/2000, de 12 de enero, reguladora de la responsabilidad penal de los menores, acordado en la sentencia en régimen de libertad vigilada, se cumplirá inmediatamente después de finalizado el primer período de internamiento en centro. No obstante, cuando existan otras medidas o penas privativas de libertad, su cumplimiento se regirá por lo previsto en los apartados 2 y 3 del artículo 47 de la citada ley orgánica.
+2. El segundo período de las medidas de internamiento descritas en los párrafos a) a d) del artículo 7.1 de la [Ley Orgánica 5/2000](./LO5_2000_reguladora_responsabilidad_penal_menores.md), de 12 de enero, reguladora de la responsabilidad penal de los menores, acordado en la sentencia en régimen de libertad vigilada, se cumplirá inmediatamente después de finalizado el primer período de internamiento en centro. No obstante, cuando existan otras medidas o penas privativas de libertad, su cumplimiento se regirá por lo previsto en los apartados 2 y 3 del artículo 47 de la citada ley orgánica.
 
-3. De igual forma, la medida de libertad vigilada prevista en la regla 5.ª del artículo 9 y en el apartado 2.c) de la disposición adicional cuarta de la Ley Orgánica 5/2000, de 12 de enero, reguladora de la responsabilidad penal de los menores, habrá de ejecutarse una vez finalizada la medida de internamiento en régimen cerrado, salvo que concurra con otras medidas o penas privativas de libertad ; en tal caso, será de aplicación lo dispuesto en el inciso último del apartado anterior.
+3. De igual forma, la medida de libertad vigilada prevista en la regla 5.ª del artículo 9 y en el apartado 2.c) de la disposición adicional cuarta de la [Ley Orgánica 5/2000](./LO5_2000_reguladora_responsabilidad_penal_menores.md), de 12 de enero, reguladora de la responsabilidad penal de los menores, habrá de ejecutarse una vez finalizada la medida de internamiento en régimen cerrado, salvo que concurra con otras medidas o penas privativas de libertad ; en tal caso, será de aplicación lo dispuesto en el inciso último del apartado anterior.
 
-4. Cuando concurran varias medidas de internamiento, definitivas o cautelares, de diferente régimen, se cumplirá antes la de régimen más restringido y, en su caso, se interrumpirá la de régimen menos restringido que se estuviera ejecutando, salvo que el juez de menores haya dispuesto otro orden en aplicación del apartado 3 del artículo 47 de la Ley Orgánica 5/2000, de 12 de enero, reguladora de la responsabilidad penal de los menores.
+4. Cuando concurran varias medidas de internamiento, definitivas o cautelares, de diferente régimen, se cumplirá antes la de régimen más restringido y, en su caso, se interrumpirá la de régimen menos restringido que se estuviera ejecutando, salvo que el juez de menores haya dispuesto otro orden en aplicación del apartado 3 del artículo 47 de la [Ley Orgánica 5/2000](./LO5_2000_reguladora_responsabilidad_penal_menores.md), de 12 de enero, reguladora de la responsabilidad penal de los menores.
 
 5. En todo caso, la ejecución de las medidas impuestas por el Juez Central de Menores o por la sala correspondiente de la Audiencia Nacional será preferente sobre las impuestas por otros jueces o salas de menores.
 
@@ -369,7 +369,7 @@ b) Los profesionales que de manera directa tienen encomendada la responsabilidad
 
 c) El menor, su letrado y, en su caso, el representante legal del menor, si lo solicitan de forma expresa a la entidad pública, conforme al procedimiento de acceso que esta establezca. Será de aplicación lo dispuesto en los artículos 35 y 37 de la Ley 30/1992, de 26 de noviembre, de Régimen Jurídico de las Administraciones Públicas y del Procedimiento Administrativo Común.
 
-4. Los profesionales que intervengan en la ejecución de la medida, pertenecientes a otras entidades públicas o privadas con las que la entidad pública competente haya establecido convenios o acuerdos de colaboración, podrán acceder al fichero informático dependiente de dicha entidad, al que alude el artículo 48.3 de la Ley Orgánica 5/2000, de 12 de enero, reguladora de la responsabilidad penal de los menores, cuando así lo autorice dicha entidad, sin perjuicio de lo dispuesto en la Ley Orgánica 15/1999, de 13 de diciembre, de Protección de Datos de Carácter Personal, y sus normas de desarrollo.
+4. Los profesionales que intervengan en la ejecución de la medida, pertenecientes a otras entidades públicas o privadas con las que la entidad pública competente haya establecido convenios o acuerdos de colaboración, podrán acceder al fichero informático dependiente de dicha entidad, al que alude el artículo 48.3 de la [Ley Orgánica 5/2000](./LO5_2000_reguladora_responsabilidad_penal_menores.md), de 12 de enero, reguladora de la responsabilidad penal de los menores, cuando así lo autorice dicha entidad, sin perjuicio de lo dispuesto en la [Ley Orgánica 15/1999](../02_gestion_y_administracion_centros/LO15_1999_proteccion_datos_caracter_personal.md), de 13 de diciembre, de Protección de Datos de Carácter Personal, y sus normas de desarrollo.
 
 5. Todos los que intervengan en la ejecución de la medida tienen el deber de mantener la reserva oportuna de la información que obtengan con relación a los menores y jóvenes en el ejercicio de sus funciones, y de no facilitarla a terceras personas ajenas a la ejecución, deber que persiste una vez finalizada esta.
 
@@ -389,7 +389,7 @@ c) En el resto de las medidas, un informe trimestral.
 
 3. No obstante lo dispuesto en el apartado anterior, la entidad pública remitirá informes de seguimiento al juez de menores y al Ministerio Fiscal, siempre que fuera requerida por estos o cuando la propia entidad lo considere necesario.
 
-4. Cuando el informe de seguimiento contenga una propuesta de revisión de la medida en alguno de los sentidos previstos en los artículos 14.1 ó 51 de la Ley Orgánica 5/2000, de 12 de enero, reguladora de la responsabilidad penal de los menores, se hará constar expresamente.
+4. Cuando el informe de seguimiento contenga una propuesta de revisión de la medida en alguno de los sentidos previstos en los artículos 14.1 ó 51 de la [Ley Orgánica 5/2000](./LO5_2000_reguladora_responsabilidad_penal_menores.md), de 12 de enero, reguladora de la responsabilidad penal de los menores, se hará constar expresamente.
 
 5. Una vez cumplida la medida, la entidad pública elaborará un informe final dirigido al juez de menores y al Ministerio Fiscal, en el que además de indicar dicha circunstancia se hará una valoración de la situación en la que queda el menor.
 
@@ -397,19 +397,19 @@ c) En el resto de las medidas, un informe trimestral.
 
 #### Artículo 14. Incumplimientos.
 
-La entidad pública comunicará al juez de menores y al Ministerio Fiscal a los efectos, en su caso, de lo dispuesto en el artículo 50 de la Ley Orgánica 5/2000, de 12 de enero, reguladora de la responsabilidad penal de los menores, los incumplimientos siguientes de los que tenga constancia:
+La entidad pública comunicará al juez de menores y al Ministerio Fiscal a los efectos, en su caso, de lo dispuesto en el artículo 50 de la [Ley Orgánica 5/2000](./LO5_2000_reguladora_responsabilidad_penal_menores.md), de 12 de enero, reguladora de la responsabilidad penal de los menores, los incumplimientos siguientes de los que tenga constancia:
 
 a) En las medidas de internamiento y de permanencia de fin de semana en un centro: la fuga del centro, el no retorno en la fecha o la hora indicadas después de una salida autorizada y la no presentación en el centro el día o la hora señalados para el cumplimiento de las permanencias establecidas.
 
 b) En la medida de permanencia de fin de semana en el domicilio: la no presentación en su domicilio y la ausencia no autorizada del domicilio, durante los días y horas establecidos de permanencia, así como el no retorno a este para continuar el cumplimiento de la medida después de una salida autorizada.
 
-c) En las medidas no privativas de libertad, la falta de presentación a las entrevistas a las que el menor haya sido citado para elaborar el programa de ejecución y el incumplimiento de cualquiera de las obligaciones que, según lo dispuesto en el artículo 7 de la Ley Orgánica 5/2000, de 12 de enero, conforman el contenido de cada medida.
+c) En las medidas no privativas de libertad, la falta de presentación a las entrevistas a las que el menor haya sido citado para elaborar el programa de ejecución y el incumplimiento de cualquiera de las obligaciones que, según lo dispuesto en el artículo 7 de la [Ley Orgánica 5/2000](./LO5_2000_reguladora_responsabilidad_penal_menores.md), de 12 de enero, conforman el contenido de cada medida.
 
 Además, la entidad pública comunicará a las Fuerzas y Cuerpos de Seguridad el incumplimiento de las medidas de internamiento y de permanencia de fin de semana en un centro a que se refiere el párrafo a), así como de las medidas de permanencia de fin de semana en el domicilio prevista en el párrafo b). Asimismo, se pondrá en conocimiento de las Fuerzas y Cuerpos de Seguridad el ingreso del menor en el centro en los términos previstos en el artículo 31.2 cuando se hubiese solicitado su búsqueda.
 
 #### Artículo 15. Revisión de la medida por conciliación.
 
-1. Si durante la ejecución de la medida el menor manifestara su voluntad de conciliarse con la víctima o perjudicado, o de repararles por el daño causado, la entidad pública informará al juzgado de menores y al Ministerio Fiscal de dicha circunstancia, realizará las funciones de mediación correspondientes entre el menor y la víctima e informará de los compromisos adquiridos y de su grado de cumplimiento al juez y al Ministerio Fiscal, a los efectos de lo dispuesto en el artículo 51.2 de la Ley Orgánica 5/2000, de 12 de enero, reguladora de la responsabilidad penal de los menores. Si la víctima fuera menor, deberá recabarse autorización del juez de menores en los términos del artículo 19.6 de la citada ley orgánica.
+1. Si durante la ejecución de la medida el menor manifestara su voluntad de conciliarse con la víctima o perjudicado, o de repararles por el daño causado, la entidad pública informará al juzgado de menores y al Ministerio Fiscal de dicha circunstancia, realizará las funciones de mediación correspondientes entre el menor y la víctima e informará de los compromisos adquiridos y de su grado de cumplimiento al juez y al Ministerio Fiscal, a los efectos de lo dispuesto en el artículo 51.2 de la [Ley Orgánica 5/2000](./LO5_2000_reguladora_responsabilidad_penal_menores.md), de 12 de enero, reguladora de la responsabilidad penal de los menores. Si la víctima fuera menor, deberá recabarse autorización del juez de menores en los términos del artículo 19.6 de la citada ley orgánica.
 
 2. Las funciones de mediación llevadas a cabo con menores internados no podrán suponer una alteración del régimen de cumplimiento de la medida impuesta, sin perjuicio de las salidas que para dicha finalidad pueda autorizar el juzgado de menores competente.
 
@@ -443,7 +443,7 @@ que el menor realizará, la periodicidad de la asistencia al centro de día y el
 
 3. Si con la medida se hubiera impuesto al menor alguna regla de conducta que requiera para su cumplimiento un programa o recurso específico, este se elaborará o designará por la entidad pública y se adjuntará al programa individualizado de ejecución de la medida.
 
-4. Lo dispuesto en este artículo será también de aplicación para la ejecución del período de libertad vigilada previsto en los artículos 7.2, 9.5.ª, 40.2.c) y apartado 2.c) de la disposición adicional cuarta de la Ley Orgánica 5/2000, de 12 de enero, reguladora de la responsabilidad penal de los menores.
+4. Lo dispuesto en este artículo será también de aplicación para la ejecución del período de libertad vigilada previsto en los artículos 7.2, 9.5.ª, 40.2.c) y apartado 2.c) de la disposición adicional cuarta de la [Ley Orgánica 5/2000](./LO5_2000_reguladora_responsabilidad_penal_menores.md), de 12 de enero, reguladora de la responsabilidad penal de los menores.
 
 #### Artículo 19. Convivencia con otra persona, familia o grupo educativo.
 
@@ -493,17 +493,17 @@ d) No estarán supeditadas a la consecución de intereses económicos.
 
 1. El profesional designado, después de entrevistarse con el menor para conocer sus características personales, su situación y sus necesidades, elaborará el programa individualizado de ejecución de la medida en el que expondrá las tareas específicas de carácter formativo, cultural y educativo que debe realizar el menor, encaminadas a facilitarle el desarrollo de su competencia social, el lugar donde se realizarán y el horario de realización, que deberá ser compatible con el de la actividad escolar si el menor se encuentra en el período de la enseñanza básica obligatoria, y, en la medida de lo posible, con su actividad laboral.
 
-2. Lo dispuesto en el apartado anterior será de aplicación para la ejecución de la actividad socioeducativa prevista en el artículo 40.2.c) de la Ley Orgánica 5/2000, de 12 de enero, reguladora de la responsabilidad penal de los menores.
+2. Lo dispuesto en el apartado anterior será de aplicación para la ejecución de la actividad socioeducativa prevista en el artículo 40.2.c) de la [Ley Orgánica 5/2000](./LO5_2000_reguladora_responsabilidad_penal_menores.md), de 12 de enero, reguladora de la responsabilidad penal de los menores.
 
 #### Artículo 22. Medidas cautelares.
 
-Cuando al menor se le impongan las medidas cautelares de libertad vigilada o convivencia con otra persona, familia o grupo educativo, previstas en el artículo 28 de la Ley Orgánica 5/2000, de 12 de enero, reguladora de la responsabilidad penal de los menores, serán de aplicación las reglas descritas en los artículos 18 y 19, respectivamente, de este reglamento, para su ejecución, respetando, no obstante, el principio de presunción de inocencia.
+Cuando al menor se le impongan las medidas cautelares de libertad vigilada o convivencia con otra persona, familia o grupo educativo, previstas en el artículo 28 de la [Ley Orgánica 5/2000](./LO5_2000_reguladora_responsabilidad_penal_menores.md), de 12 de enero, reguladora de la responsabilidad penal de los menores, serán de aplicación las reglas descritas en los artículos 18 y 19, respectivamente, de este reglamento, para su ejecución, respetando, no obstante, el principio de presunción de inocencia.
 
 SECCIÓN 3.ª REGLAS ESPECÍFICAS PARA LA EJECUCIÓN DE LAS MEDIDAS PRIVATIVAS DE LIBERTAD
 
 #### Artículo 23. Regímenes de internamiento.
 
-Los menores cumplirán la medida de internamiento en el régimen acordado en resolución motivada por el juez de menores, de acuerdo con lo establecido en los párrafos a), b) y c) del artículo 7.1 de la Ley Orgánica 5/2000, de 12 de enero, reguladora de la responsabilidad penal de los menores.
+Los menores cumplirán la medida de internamiento en el régimen acordado en resolución motivada por el juez de menores, de acuerdo con lo establecido en los párrafos a), b) y c) del artículo 7.1 de la [Ley Orgánica 5/2000](./LO5_2000_reguladora_responsabilidad_penal_menores.md), de 12 de enero, reguladora de la responsabilidad penal de los menores.
 
 #### Artículo 24. Internamiento en régimen cerrado.
 
@@ -545,9 +545,9 @@ Los menores sometidos a esta medida residirán en el centro y desarrollarán en 
 
 #### Artículo 29. Internamiento cautelar.
 
-1. Los menores a los que se aplique la medida de internamiento cautelar en aplicación de lo dispuesto en el artículo 28 de la Ley Orgánica 5/2000, de 12 de enero, reguladora de la responsabilidad penal de los menores, ingresarán en el centro designado por la entidad pública, en el régimen de internamiento que el juez haya establecido y les será de aplicación, en función de dicho régimen, lo dispuesto en los artículos anteriores de este capítulo.
+1. Los menores a los que se aplique la medida de internamiento cautelar en aplicación de lo dispuesto en el artículo 28 de la [Ley Orgánica 5/2000](./LO5_2000_reguladora_responsabilidad_penal_menores.md), de 12 de enero, reguladora de la responsabilidad penal de los menores, ingresarán en el centro designado por la entidad pública, en el régimen de internamiento que el juez haya establecido y les será de aplicación, en función de dicho régimen, lo dispuesto en los artículos anteriores de este capítulo.
 
-2. No obstante, para salvaguardar y respetar el principio de presunción de inocencia, el programa individualizado de ejecución de la medida se sustituirá por un modelo individualizado de intervención que deberá contener una planificación de actividades adecuadas a sus características y circunstancias personales, compatible con el régimen de internamiento y su situación procesal. Dicho modelo individualizado de intervención deberá someterse a la aprobación del juez de menores, conforme a lo previsto en el artículo 44 de la Ley Orgánica 5/2000, de 12 de enero, reguladora de la responsabilidad penal de los menores.
+2. No obstante, para salvaguardar y respetar el principio de presunción de inocencia, el programa individualizado de ejecución de la medida se sustituirá por un modelo individualizado de intervención que deberá contener una planificación de actividades adecuadas a sus características y circunstancias personales, compatible con el régimen de internamiento y su situación procesal. Dicho modelo individualizado de intervención deberá someterse a la aprobación del juez de menores, conforme a lo previsto en el artículo 44 de la [Ley Orgánica 5/2000](./LO5_2000_reguladora_responsabilidad_penal_menores.md), de 12 de enero, reguladora de la responsabilidad penal de los menores.
 
 #### Artículo 30. Normativa de funcionamiento interno.
 
@@ -641,7 +641,7 @@ b) Cuando la entidad pública competente proponga el internamiento en un centro 
 
 c) Cuando la entidad pública competente, por razones temporales de plena ocupación de sus centros o por otras causas, carezca de plaza disponible adecuada al régimen o al tipo de internamiento impuesto y disponga de plaza en otra comunidad autónoma con la que haya establecido el correspondiente acuerdo de colaboración, mientras se mantenga dicha situación.
 
-2. No se podrá trasladar al menor fuera del centro si no se recibiera orden o autorización del juez de menores a cuya disposición se encuentre, conforme a lo previsto en el artículo 46.3 de la Ley Orgánica 5/2000, de 12 de enero, reguladora de la responsabilidad penal de los menores.
+2. No se podrá trasladar al menor fuera del centro si no se recibiera orden o autorización del juez de menores a cuya disposición se encuentre, conforme a lo previsto en el artículo 46.3 de la [Ley Orgánica 5/2000](./LO5_2000_reguladora_responsabilidad_penal_menores.md), de 12 de enero, reguladora de la responsabilidad penal de los menores.
 
 3. El traslado del menor a una institución o centro hospitalario por razones de urgencia no requerirá la previa autorización del juzgado de menores competente, sin perjuicio de su comunicación inmediata al juez.
 
@@ -753,7 +753,7 @@ Las comunicaciones del menor con su abogado o procurador no podrán ser suspendi
 
 #### Artículo 43. Comunicaciones escritas.
 
-1. Los menores podrán enviar y recibir correspondencia libremente, sin ningún tipo de censura, salvo prohibición expresa del juez, acordada en el correspondiente expediente conforme a los preceptos de la Ley Orgánica 5/2000, de 12 de enero, reguladora de la responsabilidad penal de los menores.
+1. Los menores podrán enviar y recibir correspondencia libremente, sin ningún tipo de censura, salvo prohibición expresa del juez, acordada en el correspondiente expediente conforme a los preceptos de la [Ley Orgánica 5/2000](./LO5_2000_reguladora_responsabilidad_penal_menores.md), de 12 de enero, reguladora de la responsabilidad penal de los menores.
 
 2. Toda la correspondencia que expidan y reciban los internos será registrada con indicación del nombre del interno remitente o destinatario y la fecha correspondiente en el libro que para tal fin se llevará en el centro.
 
@@ -795,7 +795,7 @@ La dirección del centro o el órgano que la entidad pública haya establecido e
 
 5. La concesión del permiso compete al director del centro o al órgano que la entidad pública haya establecido en su normativa, y se disfrutará en las fechas, con la duración y en las condiciones establecidas.
 
-6. De la concesión, o denegación en su caso, del permiso, de las condiciones, duración y fechas de disfrute se dará cuenta al juez de menores competente. Cuando se acuerde denegar o suspender el permiso se notificará al menor, quien podrá recurrir la decisión conforme a lo dispuesto en el artículo 52 de la Ley Orgánica 5/2000, de 12 de enero, reguladora de la responsabilidad penal de los menores.
+6. De la concesión, o denegación en su caso, del permiso, de las condiciones, duración y fechas de disfrute se dará cuenta al juez de menores competente. Cuando se acuerde denegar o suspender el permiso se notificará al menor, quien podrá recurrir la decisión conforme a lo dispuesto en el artículo 52 de la [Ley Orgánica 5/2000](./LO5_2000_reguladora_responsabilidad_penal_menores.md), de 12 de enero, reguladora de la responsabilidad penal de los menores.
 
 7. Los menores internados por sentencia firme en régimen cerrado, una vez cumplido el primer tercio del período de internamiento, cuando la buena evolución personal durante la ejecución de la medida lo justifique y ello favorezca el proceso de reinserción social, y cumplan los requisitos establecidos en el apartado 4, podrán disfrutar de hasta 12 días de permiso al año, con una duración máxima de hasta cuatro días, cuando el juez de menores competente lo autorice.
 
@@ -849,9 +849,9 @@ La autorización de cualquier permiso o salida a los menores sometidos a medida 
 
 #### Artículo 50. Salidas y permisos de menores en internamiento terapéutico.
 
-1. Las salidas, permisos y comunicaciones con el exterior de los menores sometidos a internamiento terapéutico se autorizarán, en el marco del programa individual de tratamiento, por el juez de menores en los términos previstos en el artículo 44 de la Ley Orgánica 5/2000, de 12 de enero, reguladora de la responsabilidad penal de los menores.
+1. Las salidas, permisos y comunicaciones con el exterior de los menores sometidos a internamiento terapéutico se autorizarán, en el marco del programa individual de tratamiento, por el juez de menores en los términos previstos en el artículo 44 de la [Ley Orgánica 5/2000](./LO5_2000_reguladora_responsabilidad_penal_menores.md), de 12 de enero, reguladora de la responsabilidad penal de los menores.
 
-2. Las salidas, permisos y comunicaciones con el exterior podrán ser dejadas sin efecto por el juez de menores, conforme prevé el artículo 44 de la Ley Orgánica 5/2000, de 12 de enero, reguladora de la responsabilidad penal de los menores, en cualquier momento, si el menor incumple las condiciones.
+2. Las salidas, permisos y comunicaciones con el exterior podrán ser dejadas sin efecto por el juez de menores, conforme prevé el artículo 44 de la [Ley Orgánica 5/2000](./LO5_2000_reguladora_responsabilidad_penal_menores.md), de 12 de enero, reguladora de la responsabilidad penal de los menores, en cualquier momento, si el menor incumple las condiciones.
 
 #### Artículo 51. Domicilio durante las salidas y permisos.
 
@@ -859,7 +859,7 @@ La autorización de cualquier permiso o salida a los menores sometidos a medida 
 
 2. Cuando el menor esté bajo la tutela de la entidad pública de protección de menores, será competencia de dicha entidad determinar las personas o instituciones con las que estará el menor durante los permisos y salidas autorizadas, designándose igualmente un domicilio.
 
-3. Si los padres o representantes legales del menor no estuviesen localizables, se negasen a acogerlos durante las salidas y permisos, o si el menor se negase a estar en su compañía o en la de las personas que aquellos determinen, el juez de menores competente podrá autorizar el permiso o la salida con otras personas o instituciones conforme prevé el artículo 44 de la Ley Orgánica 5/2000, de 12 de enero, reguladora de la responsabilidad penal de los menores.
+3. Si los padres o representantes legales del menor no estuviesen localizables, se negasen a acogerlos durante las salidas y permisos, o si el menor se negase a estar en su compañía o en la de las personas que aquellos determinen, el juez de menores competente podrá autorizar el permiso o la salida con otras personas o instituciones conforme prevé el artículo 44 de la [Ley Orgánica 5/2000](./LO5_2000_reguladora_responsabilidad_penal_menores.md), de 12 de enero, reguladora de la responsabilidad penal de los menores.
 
 4. Los menores que disfruten de salidas o permisos indicarán un domicilio a efectos de poder ser localizados en caso necesario.
 
@@ -969,7 +969,7 @@ Asimismo, comunicará inmediatamente al juez de menores la adopción y cese de t
 
 #### Artículo 56. Informaciones.
 
-1. Todos los menores internados tienen derecho a recibir de la entidad pública, con la periodicidad adecuada y, en todo caso, siempre que lo requieran, información personal y actualizada de sus derechos y deberes, previstos en los artículos 56 y 57 de la Ley Orgánica 5/2000, de 12 de enero, reguladora de la responsabilidad penal de los menores. Dicha información será explicada de forma que se garantice su comprensión, en atención a la edad y a las circunstancias del menor.
+1. Todos los menores internados tienen derecho a recibir de la entidad pública, con la periodicidad adecuada y, en todo caso, siempre que lo requieran, información personal y actualizada de sus derechos y deberes, previstos en los artículos 56 y 57 de la [Ley Orgánica 5/2000](./LO5_2000_reguladora_responsabilidad_penal_menores.md), de 12 de enero, reguladora de la responsabilidad penal de los menores. Dicha información será explicada de forma que se garantice su comprensión, en atención a la edad y a las circunstancias del menor.
 
 2. Los representantes legales del menor internado serán informados por la dirección del centro o por el órgano que la entidad pública haya designado sobre la situación y la evolución del menor, y sobre los derechos que como representantes legales les corresponden durante la situación de internamiento.
 
@@ -987,7 +987,7 @@ Salvo prohibición judicial expresa, esta información será facilitada cuando l
 
 3. Las peticiones y quejas que presenten los menores a través del centro o la entidad pública serán registradas. La tramitación que se le haya dado y, en su caso, la resolución adoptada se comunicará al menor, con indicación de los recursos que procedan.
 
-4. Los recursos que de conformidad con lo dispuesto en el artículo 52.1 de la Ley Orgánica 5/2000, de 12 de enero, reguladora de la responsabilidad penal de los menores, interponga el menor contra cualquier resolución dictada para la ejecución de las medidas, que fueran presentados por el menor o por su letrado de forma escrita al director del centro, se pondrán en conocimiento del juez de menores competente dentro del siguiente día hábil. Si el menor manifestara al director del centro, de forma verbal, su intención de recurrir la resolución dictada, el director dará traslado de esta manifestación al juez de menores, dentro del plazo indicado anteriormente, y, en su caso, dará cumplimiento a las medidas que adopte el juez para oír la alegación del menor.
+4. Los recursos que de conformidad con lo dispuesto en el artículo 52.1 de la [Ley Orgánica 5/2000](./LO5_2000_reguladora_responsabilidad_penal_menores.md), de 12 de enero, reguladora de la responsabilidad penal de los menores, interponga el menor contra cualquier resolución dictada para la ejecución de las medidas, que fueran presentados por el menor o por su letrado de forma escrita al director del centro, se pondrán en conocimiento del juez de menores competente dentro del siguiente día hábil. Si el menor manifestara al director del centro, de forma verbal, su intención de recurrir la resolución dictada, el director dará traslado de esta manifestación al juez de menores, dentro del plazo indicado anteriormente, y, en su caso, dará cumplimiento a las medidas que adopte el juez para oír la alegación del menor.
 
 #### Artículo 58. Inspección de centros.
 
@@ -1015,7 +1015,7 @@ Del régimen disciplinario de los centros
 
 2. No podrán atribuirse al mismo órgano las fases de instrucción y resolución del procedimiento.
 
-3. La potestad disciplinaria habrá de ejercerse siempre respetando la dignidad del menor. Ninguna sanción podrá implicar, de manera directa o indirecta, castigos corporales, ni privación de los derechos de alimentación, enseñanza obligatoria y comunicaciones y visitas previstos en la Ley Orgánica 5/2000, de 12 de enero, reguladora de la responsabilidad penal de los menores, y en este reglamento.
+3. La potestad disciplinaria habrá de ejercerse siempre respetando la dignidad del menor. Ninguna sanción podrá implicar, de manera directa o indirecta, castigos corporales, ni privación de los derechos de alimentación, enseñanza obligatoria y comunicaciones y visitas previstos en la [Ley Orgánica 5/2000](./LO5_2000_reguladora_responsabilidad_penal_menores.md), de 12 de enero, reguladora de la responsabilidad penal de los menores, y en este reglamento.
 
 4. Las sanciones impuestas podrán ser reducidas, dejadas sin efecto en su totalidad, suspendidas o aplazadas en su ejecución, en los términos establecidos en este reglamento.
 
@@ -1199,7 +1199,7 @@ c) La calificación de la falta o faltas en las que ha podido incurrir.
 
 d) Las posibles sanciones aplicables.
 
-e) El órgano competente para la resolución del expediente de acuerdo con lo previsto en la norma autonómica correspondiente o, en su caso, en la Ley Orgánica 5/2000, de 12 de enero, o en este reglamento.
+e) El órgano competente para la resolución del expediente de acuerdo con lo previsto en la norma autonómica correspondiente o, en su caso, en la [Ley Orgánica 5/2000](./LO5_2000_reguladora_responsabilidad_penal_menores.md), de 12 de enero, o en este reglamento.
 
 f) La identificación del instructor.
 
@@ -1269,7 +1269,7 @@ Transcurrido el plazo máximo de un mes desde la iniciación del procedimiento d
 
 #### Artículo 78. Recursos.
 
-Las resoluciones sancionadoras podrán ser recurridas, antes del inicio del cumplimiento, ante el juez de menores, verbalmente en el mismo acto de la notificación o por escrito dentro del plazo de 24 horas, por el propio interesado o por su letrado, actuándose de conformidad con el artículo 60.7 de la Ley Orgánica 5/2000, de 12 de enero, reguladora de la responsabilidad penal de los menores.
+Las resoluciones sancionadoras podrán ser recurridas, antes del inicio del cumplimiento, ante el juez de menores, verbalmente en el mismo acto de la notificación o por escrito dentro del plazo de 24 horas, por el propio interesado o por su letrado, actuándose de conformidad con el artículo 60.7 de la [Ley Orgánica 5/2000](./LO5_2000_reguladora_responsabilidad_penal_menores.md), de 12 de enero, reguladora de la responsabilidad penal de los menores.
 
 #### Artículo 79. Procedimiento abreviado.
 
@@ -1297,7 +1297,7 @@ d) En todo caso, este procedimiento se documentará debidamente.
 
 Los acuerdos sancionadores no se harán efectivos en tanto no haya sido resuelto el recurso interpuesto, o en caso de que no se haya interpuesto, hasta que haya transcurrido el plazo para su impugnación, sin perjuicio de las medidas cautelares previstas en el artículo anterior.
 
-Durante la sustanciación del recurso, en el plazo de dos días, la entidad pública ejecutora de la medida podrá adoptar las decisiones precisas para restablecer el orden alterado de acuerdo con lo previsto en el artículo 60.7 de la Ley Orgánica 5/2000, de 12 de enero, reguladora de la responsabilidad penal de los menores.
+Durante la sustanciación del recurso, en el plazo de dos días, la entidad pública ejecutora de la medida podrá adoptar las decisiones precisas para restablecer el orden alterado de acuerdo con lo previsto en el artículo 60.7 de la [Ley Orgánica 5/2000](./LO5_2000_reguladora_responsabilidad_penal_menores.md), de 12 de enero, reguladora de la responsabilidad penal de los menores.
 
 #### Artículo 82. Reducción, suspensión y anulación de sanciones.
 
@@ -1325,7 +1325,7 @@ Los actos del menor que pongan de manifiesto buena conducta, espíritu de trabaj
 
 #### Disposición adicional única. Actuaciones policiales de vigilancia, custodia y traslado.
 
-1. Las actuaciones policiales de vigilancia, custodia y traslado de menores previstas en este reglamento serán realizadas por los cuerpos de policía autonómica o, en su caso, por las unidades adscritas del Cuerpo Nacional de Policía, en sus ámbitos territoriales de actuación, de conformidad con lo dispuesto en el artículo 45 de la Ley Orgánica 5/2000, de 12 de enero.
+1. Las actuaciones policiales de vigilancia, custodia y traslado de menores previstas en este reglamento serán realizadas por los cuerpos de policía autonómica o, en su caso, por las unidades adscritas del Cuerpo Nacional de Policía, en sus ámbitos territoriales de actuación, de conformidad con lo dispuesto en el artículo 45 de la [Ley Orgánica 5/2000](./LO5_2000_reguladora_responsabilidad_penal_menores.md), de 12 de enero.
 
 En caso de ausencia o insuficiencia de las anteriores, o cuando sean varias las comunidades autónomas afectadas, se realizarán por las Fuerzas y Cuerpos de Seguridad del Estado.
 

@@ -69,7 +69,7 @@ Gobierno, atribuyéndole las relativas a las telecomunicaciones y las tecnologí
 información, en general, en el ámbito de la Administración Pública de la Comunidad 
 Autónoma de Canarias, de sus organismos y entidades públicas vinculadas o dependientes. 
 Así mismo, la Vicepresidencia continúa con las competencias que tiene atribuidas.
-La letra j) del artículo 13 de la referida Ley 4/2023, de 23 de marzo, de la Presidencia y 
+La letra j) del artículo 13 de la referida [Ley 4/2023](./L4_2023_presidencia_gobierno_canarias.md), de 23 de marzo, de la Presidencia y 
 del Gobierno de Canarias, atribuye a la Presidencia la competencia para la aprobación del 
 reglamento orgánico de la Presidencia, por lo que procede determinar la estructura orgánica 
 de dicho departamento.
@@ -199,7 +199,7 @@ las demás que se determinen en el Reglamento Orgánico de la Presidencia del Go
 Disposición transitoria única.- Régimen transitorio del Reglamento Orgánico de 
 la Presidencia del Gobierno.
 En tanto no se apruebe por la Presidencia del Gobierno su Reglamento Orgánico, 
-de acuerdo con lo establecido en el artículo 13 de la Ley 4/2023, de 23 de marzo, de la 
+de acuerdo con lo establecido en el artículo 13 de la [Ley 4/2023](./L4_2023_presidencia_gobierno_canarias.md), de 23 de marzo, de la 
 Presidencia y del Gobierno de Canarias, continuará vigente el Reglamento Orgánico de la 
 Presidencia del Gobierno, aprobado por Decreto 356/2019, de 19 de diciembre, en todo lo 
 que no se oponga o resulte modificado por las disposiciones contenidas en este Decreto.

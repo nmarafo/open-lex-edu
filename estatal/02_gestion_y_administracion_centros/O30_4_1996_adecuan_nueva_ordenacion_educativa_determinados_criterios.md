@@ -77,7 +77,7 @@ No serán objeto de homologación o convalidación los estudios de sistemas educ
 
 2. La convalidación de estudios y la homologación de certificados, títulos o diplomas correspondientes a los niveles de enseñanza primaria y secundaria, realizados en los sistemas educativos de los países que se especifican en el anexo II a la presente Orden, por los correspondientes españoles de Educación Secundaria Obligatoria y de Bachillerato se efectuará de acuerdo con las Órdenes por las que se establezcan los respectivos regímenes de equivalencias.
 
-3. En el supuesto de modificación de los planes de estudios de cualquiera de los países incluidos en las tablas de equivalencias a las que se alude en los dos puntos anteriores, la convalidación de los cursos completos cursados y superados se realizará de acuerdo con los principios establecidos en el artículo 6.° del Real Decreto 104/1988, de 29 de enero.
+3. En el supuesto de modificación de los planes de estudios de cualquiera de los países incluidos en las tablas de equivalencias a las que se alude en los dos puntos anteriores, la convalidación de los cursos completos cursados y superados se realizará de acuerdo con los principios establecidos en el artículo 6.° del [Real Decreto 104/1988](./RD104_1988_aplicacion_lo_dispuesto_real_decreto_homologacion.md), de 29 de enero.
 
 #### Séptimo.
 
@@ -87,7 +87,7 @@ No serán objeto de homologación o convalidación los estudios de sistemas educ
 
 #### Disposición adicional.
 
-Se modifican el apartado 10 y el Anexo II de la [Orden de 14 de marzo de 1988](RD104_1988_aplicacion_lo_dispuesto_real_decreto_homologacion.md) para la aplicación de lo dispuesto en el Real Decreto 104/1988, de 29 de enero, sobre homologación y convalidación de títulos y estudios extranjeros de educación no universitaria, quedando redactados como sigue:
+Se modifican el apartado 10 y el Anexo II de la [Orden de 14 de marzo de 1988](RD104_1988_aplicacion_lo_dispuesto_real_decreto_homologacion.md) para la aplicación de lo dispuesto en el [Real Decreto 104/1988](./RD104_1988_aplicacion_lo_dispuesto_real_decreto_homologacion.md), de 29 de enero, sobre homologación y convalidación de títulos y estudios extranjeros de educación no universitaria, quedando redactados como sigue:
 
 «Décimo.
 
@@ -147,11 +147,11 @@ De conformidad con lo establecido en el número primero de la presente Orden, lo
 
 #### Disposición transitoria segunda.
 
-No obstante lo dispuesto en el número segundo de la presente Orden, será de aplicación lo dispuesto en el número sexto para aquellos alumnos que, previamente a los estudios que pretenden convalidar, hayan cursado en el sistema educativo español, durante el período de implantación anticipada, las enseñanzas establecidas en la Ley Orgánica 1/1990, de 3 de octubre, de Ordenación General del Sistema Educativo.
+No obstante lo dispuesto en el número segundo de la presente Orden, será de aplicación lo dispuesto en el número sexto para aquellos alumnos que, previamente a los estudios que pretenden convalidar, hayan cursado en el sistema educativo español, durante el período de implantación anticipada, las enseñanzas establecidas en la [Ley Orgánica 1/1990](./LO1_1990_regula_regimen_equivalencias_estudios_basicos_medios.md), de 3 de octubre, de Ordenación General del Sistema Educativo.
 
 #### Disposición transitoria tercera.
 
-En tanto no se establezcan los regímenes de convalidación y homologación de certificados, títulos y diplomas correspondientes a los sistemas educativos extranjeros no incluidos en el Anexo I de la presente Orden con las enseñanzas del sistema educativo español regulado por la Ley Orgánica 1/1990, de 3 de octubre, de Ordenación General del Sistema Educativo, se aplicarán los criterios y las normas vigentes que establecen las equivalencias con los estudios de Educación General Básica, Bachillerato Unificado y Polivalente y Curso de Orientación Universitaria. No obstante, a partir de la entrada en vigor de esta orden, será de plena aplicación lo dispuesto en el apartado primero de la misma a las convalidaciones y homologaciones mencionadas en esta disposición transitoria.
+En tanto no se establezcan los regímenes de convalidación y homologación de certificados, títulos y diplomas correspondientes a los sistemas educativos extranjeros no incluidos en el Anexo I de la presente Orden con las enseñanzas del sistema educativo español regulado por la [Ley Orgánica 1/1990](./LO1_1990_regula_regimen_equivalencias_estudios_basicos_medios.md), de 3 de octubre, de Ordenación General del Sistema Educativo, se aplicarán los criterios y las normas vigentes que establecen las equivalencias con los estudios de Educación General Básica, Bachillerato Unificado y Polivalente y Curso de Orientación Universitaria. No obstante, a partir de la entrada en vigor de esta orden, será de plena aplicación lo dispuesto en el apartado primero de la misma a las convalidaciones y homologaciones mencionadas en esta disposición transitoria.
 
 #### Disposición derogatoria.
 
@@ -169,7 +169,7 @@ Ilmos. Sres. Subsecretario y Secretario general técnico.
 
 ANEXO I
 
-Tabla de equivalencias para la convalidación de estudios y la homologación de certificados, títulos o diplomas extranjeros por los españoles de Educación Secundaria Obligatoria y de Bachillerato, correspondientes al sistema educativo establecido por la Ley Orgánica 1/1990, de 3 de octubre, de Ordenación General del Sistema Educativo
+Tabla de equivalencias para la convalidación de estudios y la homologación de certificados, títulos o diplomas extranjeros por los españoles de Educación Secundaria Obligatoria y de Bachillerato, correspondientes al sistema educativo establecido por la [Ley Orgánica 1/1990](./LO1_1990_regula_regimen_equivalencias_estudios_basicos_medios.md), de 3 de octubre, de Ordenación General del Sistema Educativo
 
 Equivalencia con el sistema español
 

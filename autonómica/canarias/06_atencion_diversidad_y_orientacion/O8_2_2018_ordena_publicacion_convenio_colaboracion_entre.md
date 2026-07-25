@@ -254,7 +254,7 @@ Convenio. En ese caso deberá suscribirse una adenda al presente Convenio y para
 curso escolar, especificando las tareas que realizará el personal voluntario y los centros 
 donde participará.
 5. El marco normativo del presente Convenio es el siguiente:
-1. La Ley Orgánica 2/2006, de 3 de mayo, de Educación (BOE nº 106, de 4.5.06), 
+1. La [Ley Orgánica 2/2006](../../../estatal/01_marco_normativo_general_y_organico/LO2_2006_educacion_texto_consolidado_modificaciones_lomloe.md), de 3 de mayo, de Educación (BOE nº 106, de 4.5.06), 
 modificada por la [Ley Orgánica 8/2013](../../../estatal/03_ordenacion_curricular_y_ensenanzas/LO462_2016_ecd_regula_procedimiento_incorporacion_alumnado_curso.md), de 9 de diciembre, para la mejora de la calidad 
 educativa (BOE nº 295, de 10.12.13).
 2. La Ley 4/1998, de 15 de mayo, de V oluntariado de Canarias (BOC nº 63, de 25.5.98).
@@ -302,7 +302,7 @@ de permisos, vacaciones, turnos, licencias y cualesquiera otras circunstancias e
 al personal funcionario, laboral o docente dependiente de la Consejería de Educación o 
 de empresas, entidades u otras administraciones que se encuentren realizando servicios 
 derivados del ámbito de la contratación administrativa u otros convenios de colaboración y 
-figuras afines previstas en la Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo 
+figuras afines previstas en la [Ley 39/2015](../../../estatal/01_marco_normativo_general_y_organico/L39_2015_procedimiento_administrativo_comun_administraciones_publicas.md), de 1 de octubre, del Procedimiento Administrativo 
 Común de las Administraciones Públicas, todo ello sin perjuicio de que cumplan con la 
 normativa vigente en materia de prevención de riesgos laborales que afecten al centro donde 
 debe realizar la tarea de voluntariado.

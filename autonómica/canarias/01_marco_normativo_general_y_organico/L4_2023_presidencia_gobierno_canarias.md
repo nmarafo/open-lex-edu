@@ -122,7 +122,7 @@ esta Comunidad Autónoma no se han vuelto a incrementar como si lo han hecho otr
 Comunidades Autónomas y territorios como son Castilla-La Mancha, Castilla y León, 
 Mallorca, Asturias, Aragón o Guipúzcoa, por nombrar solo algunas.
 En efecto, estas son las cuantías que se están aplicando actualmente en Canarias, de 
-conformidad con la disposición transitoria décima del citado Real Decreto-ley 20/2012:
+conformidad con la disposición transitoria décima del citado Real Decreto-[ley 20/2012](../../../estatal/08_personal_docente/RD20_2012_real_decreto_ley_medidas_garantizar_estabilidad.md):
 Grado
 Prestación económica
 vinculada al servicio
@@ -558,7 +558,7 @@ en cuenta la perspectiva de género en su análisis previo y haciendo un uso no 
 lenguaje utilizado en las expresiones utilizadas.
 Por tanto, en cuanto a la redacción de presente Decreto ley, y por lo que respecta a la 
 igualdad de género y de expresión de género, se ha dado cumplimiento, respectivamente, a 
-la Ley 1/2010, de 26 de febrero, Canaria de Igualdad entre Mujeres y Hombres, y a la [Ley 
+la [Ley 1/2010](../../../estatal/07_convivencia_bienestar_y_protocolos/L1_2010_canaria_igualdad_entre_mujeres_hombres.md), de 26 de febrero, Canaria de Igualdad entre Mujeres y Hombres, y a la [Ley 
 2/2021](../../../estatal/07_convivencia_bienestar_y_protocolos/L2_2021_igualdad_social_no_discriminacion_razon_identidad.md), de 7 de junio, de igualdad social y no discriminación por razón de identidad de género, 
 expresión de género y características sexuales. Esta disposición, por tanto, no contempla ni 
 prevé condiciones discriminatorias que supongan impacto negativo alguno en la igualdad de 
@@ -951,7 +951,7 @@ que se acuerde entre la Administración General del Estado y la Administración 
 cada una de las Comunidades Autónomas a través de los Convenios previstos en el 
 artículo 10 y finalmente el nivel adicional de protección que puede establecer cada 
 Comunidad Autónoma.
-Las prestaciones económicas se regulan actualmente en el Real Decreto-ley 20/2012, 
+Las prestaciones económicas se regulan actualmente en el Real Decreto-[ley 20/2012](../../../estatal/08_personal_docente/RD20_2012_real_decreto_ley_medidas_garantizar_estabilidad.md), 
 de 13 de julio, de medidas para garantizar la estabilidad presupuestaria y de fomento de la 
 competitividad. Dicho Real Decreto-ley supuso un perjuicio muy grave para el sistema de 
 la Dependencia en España, ya que implicó una serie de recortes de la citada Ley 39/2006, 
@@ -962,7 +962,7 @@ esta Comunidad Autónoma no se han vuelto a incrementar como si lo han hecho otr
 Comunidades Autónomas y territorios como son Castilla-La Mancha, Castilla y León, 
 Mallorca, Asturias, Aragón o Guipúzcoa, por nombrar solo algunas.
 En efecto, estas son las cuantías que se están aplicando actualmente en Canarias, de 
-conformidad con la disposición transitoria décima del citado Real Decreto-ley 20/2012:
+conformidad con la disposición transitoria décima del citado Real Decreto-[ley 20/2012](../../../estatal/08_personal_docente/RD20_2012_real_decreto_ley_medidas_garantizar_estabilidad.md):
 Grado
 Prestación económica
 vinculada al servicio
@@ -1299,7 +1299,7 @@ FJ 5; 182/1997, de 20 de octubre, FJ 3)].
 Debe señalarse también que este Decreto ley no afecta al ámbito de aplicación delimitado 
 por el artículo 46.2 del Estatuto de Autonomía de Canarias. Además, responde a los principios 
 de necesidad, eficacia, proporcionalidad, seguridad jurídica, transparencia, y eficiencia, tal 
-y como exige la Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común 
+y como exige la [Ley 39/2015](../../../estatal/01_marco_normativo_general_y_organico/L39_2015_procedimiento_administrativo_comun_administraciones_publicas.md), de 1 de octubre, del Procedimiento Administrativo Común 
 de las Administraciones Públicas. A estos efectos se pone de manifiesto el cumplimiento 
 de los principios de necesidad y eficacia dado el interés general en el que se fundamentan 
 las medidas que se establecen, siendo el Decreto ley el instrumento más adecuado para 
@@ -1340,7 +1340,7 @@ Por otra parte, dada la finalidad de este Decreto ley y el ámbito material de c
 donde se inserta, la presente disposición forma parte del bloque normativo sobre servicios 
 sociales derivado de las competencias exclusivas en esa materia reconocidas en el Estatuto 
 de Autonomía de Canarias. En efecto, el Estatuto de Autonomía de Canarias, aprobado 
-por la Ley Orgánica 1/2018, de 5 de noviembre, establece en su artículo 142, referido a 
+por la [Ley Orgánica 1/2018](./LO1_2018_reforma_estatuto_autonomia_canarias.md), de 5 de noviembre, establece en su artículo 142, referido a 
 los “Servicios sociales”, que “1. Corresponde a la Comunidad Autónoma de Canarias la 
 competencia exclusiva en materia de servicios sociales, que incluye, en todo caso: a) La 
 regulación y la ordenación de los servicios sociales, las prestaciones técnicas y económicas 
@@ -1384,7 +1384,7 @@ para el presente Decreto ley, el detectar, prevenir y atender las necesidades de
 dependencia con el objetivo de promover la autonomía de las personas, como uno de los 
 objetivos del sistema público de servicios sociales, señalados en el artículo 6 de la Ley de 
 Servicios Sociales de Canarias.
-Debe mencionarse la Ley 1/2010, de 26 de febrero, Canaria de Igualdad entre Mujeres 
+Debe mencionarse la [Ley 1/2010](../../../estatal/07_convivencia_bienestar_y_protocolos/L1_2010_canaria_igualdad_entre_mujeres_hombres.md), de 26 de febrero, Canaria de Igualdad entre Mujeres 
 y Hombres, que establece en su artículo 4 los principios generales de actuación de los 
 poderes públicos de Canarias, entre ellos, el de transversalidad, principio que comporta 
 aplicar la perspectiva de género en las fases de planificación, ejecución y evaluación de 
@@ -1398,7 +1398,7 @@ en cuenta la perspectiva de género en su análisis previo y haciendo un uso no 
 lenguaje utilizado en las expresiones utilizadas.
 Por tanto, en cuanto a la redacción de presente Decreto ley, y por lo que respecta a la 
 igualdad de género y de expresión de género, se ha dado cumplimiento, respectivamente, a 
-la Ley 1/2010, de 26 de febrero, Canaria de Igualdad entre Mujeres y Hombres, y a la Ley 
+la [Ley 1/2010](../../../estatal/07_convivencia_bienestar_y_protocolos/L1_2010_canaria_igualdad_entre_mujeres_hombres.md), de 26 de febrero, Canaria de Igualdad entre Mujeres y Hombres, y a la Ley 
 2/2021, de 7 de junio, de igualdad social y no discriminación por razón de identidad de género, 
 expresión de género y características sexuales. Esta disposición, por tanto, no contempla ni 
 prevé condiciones discriminatorias que supongan impacto negativo alguno en la igualdad de 
@@ -1788,7 +1788,7 @@ que se acuerde entre la Administración General del Estado y la Administración 
 cada una de las Comunidades Autónomas a través de los Convenios previstos en el 
 artículo 10 y finalmente el nivel adicional de protección que puede establecer cada 
 Comunidad Autónoma.
-Las prestaciones económicas se regulan actualmente en el Real Decreto-ley 20/2012, 
+Las prestaciones económicas se regulan actualmente en el Real Decreto-[ley 20/2012](../../../estatal/08_personal_docente/RD20_2012_real_decreto_ley_medidas_garantizar_estabilidad.md), 
 de 13 de julio, de medidas para garantizar la estabilidad presupuestaria y de fomento de la 
 competitividad. Dicho Real Decreto-ley supuso un perjuicio muy grave para el sistema de 
 la Dependencia en España, ya que implicó una serie de recortes de la citada Ley 39/2006, 
@@ -1799,7 +1799,7 @@ esta Comunidad Autónoma no se han vuelto a incrementar como si lo han hecho otr
 Comunidades Autónomas y territorios como son Castilla-La Mancha, Castilla y León, 
 Mallorca, Asturias, Aragón o Guipúzcoa, por nombrar solo algunas.
 En efecto, estas son las cuantías que se están aplicando actualmente en Canarias, de 
-conformidad con la disposición transitoria décima del citado Real Decreto-ley 20/2012:
+conformidad con la disposición transitoria décima del citado Real Decreto-[ley 20/2012](../../../estatal/08_personal_docente/RD20_2012_real_decreto_ley_medidas_garantizar_estabilidad.md):
 Grado
 Prestación económica
 vinculada al servicio
@@ -2136,7 +2136,7 @@ FJ 5; 182/1997, de 20 de octubre, FJ 3)].
 Debe señalarse también que este Decreto ley no afecta al ámbito de aplicación delimitado 
 por el artículo 46.2 del Estatuto de Autonomía de Canarias. Además, responde a los principios 
 de necesidad, eficacia, proporcionalidad, seguridad jurídica, transparencia, y eficiencia, tal 
-y como exige la Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común 
+y como exige la [Ley 39/2015](../../../estatal/01_marco_normativo_general_y_organico/L39_2015_procedimiento_administrativo_comun_administraciones_publicas.md), de 1 de octubre, del Procedimiento Administrativo Común 
 de las Administraciones Públicas. A estos efectos se pone de manifiesto el cumplimiento 
 de los principios de necesidad y eficacia dado el interés general en el que se fundamentan 
 las medidas que se establecen, siendo el Decreto ley el instrumento más adecuado para 
@@ -2177,7 +2177,7 @@ Por otra parte, dada la finalidad de este Decreto ley y el ámbito material de c
 donde se inserta, la presente disposición forma parte del bloque normativo sobre servicios 
 sociales derivado de las competencias exclusivas en esa materia reconocidas en el Estatuto 
 de Autonomía de Canarias. En efecto, el Estatuto de Autonomía de Canarias, aprobado 
-por la Ley Orgánica 1/2018, de 5 de noviembre, establece en su artículo 142, referido a 
+por la [Ley Orgánica 1/2018](./LO1_2018_reforma_estatuto_autonomia_canarias.md), de 5 de noviembre, establece en su artículo 142, referido a 
 los “Servicios sociales”, que “1. Corresponde a la Comunidad Autónoma de Canarias la 
 competencia exclusiva en materia de servicios sociales, que incluye, en todo caso: a) La 
 regulación y la ordenación de los servicios sociales, las prestaciones técnicas y económicas 
@@ -2221,7 +2221,7 @@ para el presente Decreto ley, el detectar, prevenir y atender las necesidades de
 dependencia con el objetivo de promover la autonomía de las personas, como uno de los 
 objetivos del sistema público de servicios sociales, señalados en el artículo 6 de la Ley de 
 Servicios Sociales de Canarias.
-Debe mencionarse la Ley 1/2010, de 26 de febrero, Canaria de Igualdad entre Mujeres 
+Debe mencionarse la [Ley 1/2010](../../../estatal/07_convivencia_bienestar_y_protocolos/L1_2010_canaria_igualdad_entre_mujeres_hombres.md), de 26 de febrero, Canaria de Igualdad entre Mujeres 
 y Hombres, que establece en su artículo 4 los principios generales de actuación de los 
 poderes públicos de Canarias, entre ellos, el de transversalidad, principio que comporta 
 aplicar la perspectiva de género en las fases de planificación, ejecución y evaluación de 
@@ -2235,7 +2235,7 @@ en cuenta la perspectiva de género en su análisis previo y haciendo un uso no 
 lenguaje utilizado en las expresiones utilizadas.
 Por tanto, en cuanto a la redacción de presente Decreto ley, y por lo que respecta a la 
 igualdad de género y de expresión de género, se ha dado cumplimiento, respectivamente, a 
-la Ley 1/2010, de 26 de febrero, Canaria de Igualdad entre Mujeres y Hombres, y a la Ley 
+la [Ley 1/2010](../../../estatal/07_convivencia_bienestar_y_protocolos/L1_2010_canaria_igualdad_entre_mujeres_hombres.md), de 26 de febrero, Canaria de Igualdad entre Mujeres y Hombres, y a la Ley 
 2/2021, de 7 de junio, de igualdad social y no discriminación por razón de identidad de género, 
 expresión de género y características sexuales. Esta disposición, por tanto, no contempla ni 
 prevé condiciones discriminatorias que supongan impacto negativo alguno en la igualdad de 

@@ -102,7 +102,7 @@ Lo dispuesto en este reglamento será de aplicación en todo el territorio espa�
 
 #### Artículo 8.
 
-La cuestiones litigiosas derivadas de la aplicación del régimen de conciertos, sin perjuicio de lo dispuesto en el artículo 61 de la ley orgánica 8/1985, de 3 de julio, serán resueltas por el órgano competente para la aprobación de los conciertos educativos, cuyos actos pondrán fin a la vía administrativa. Contra dichos actos podrá interponerse recurso contencioso-administrativo, de acuerdo con la ley reguladora de dicha jurisdicción, sin perjuicio de los recursos que procedan en virtud de la ley 62/1978, de 26 de diciembre, de Protección Jurisdiccional de los Derechos Fundamentales.
+La cuestiones litigiosas derivadas de la aplicación del régimen de conciertos, sin perjuicio de lo dispuesto en el artículo 61 de la [ley orgánica 8/1985](./LO8_1985_reguladora_derecho_educacion.md), de 3 de julio, serán resueltas por el órgano competente para la aprobación de los conciertos educativos, cuyos actos pondrán fin a la vía administrativa. Contra dichos actos podrá interponerse recurso contencioso-administrativo, de acuerdo con la ley reguladora de dicha jurisdicción, sin perjuicio de los recursos que procedan en virtud de la ley 62/1978, de 26 de diciembre, de Protección Jurisdiccional de los Derechos Fundamentales.
 
 **TITULO II**
 
@@ -110,11 +110,11 @@ La cuestiones litigiosas derivadas de la aplicación del régimen de conciertos,
 
 #### Artículo 9.
 
-Los conciertos educativos tienen por objeto garantizar la impartición de la educación básica obligatoria y gratuita en centros privados mediante la asignación de fondos públicos destinados a este fin por la Administración, en orden a la prestación del servicio público de la educación en los términos previstos en la ley orgánica 8/1985, de 3 de julio.
+Los conciertos educativos tienen por objeto garantizar la impartición de la educación básica obligatoria y gratuita en centros privados mediante la asignación de fondos públicos destinados a este fin por la Administración, en orden a la prestación del servicio público de la educación en los términos previstos en la [ley orgánica 8/1985](./LO8_1985_reguladora_derecho_educacion.md), de 3 de julio.
 
 #### Artículo 10.
 
-En el concierto educativo constarán los derechos y obligaciones de ambas partes, con sujeción a lo establecido en este reglamento y demás disposiciones reguladoras del régimen de conciertos, de acuerdo con lo dispuesto en el artículo 48.1 de la ley orgánica 8/1985, de 3 de julio.
+En el concierto educativo constarán los derechos y obligaciones de ambas partes, con sujeción a lo establecido en este reglamento y demás disposiciones reguladoras del régimen de conciertos, de acuerdo con lo dispuesto en el artículo 48.1 de la [ley orgánica 8/1985](./LO8_1985_reguladora_derecho_educacion.md), de 3 de julio.
 
 #### Artículo 11.
 
@@ -142,7 +142,7 @@ c) Las cantidades pertinentes para atender al pago de los conceptos de antigüed
 
 2. Por la impartición de las enseñanzas del nivel educativo objeto del concierto no se podrá percibir concepto alguno que, directa o indirectamente, suponga una contrapartida económica por tal actividad.
 
-3. Por el concierto educativo el titular del centro se obliga al cumplimiento de las normas establecidas en el título IV de la ley orgánica 8/1985, de 3 de julio, y en los correspondientes reglamentos de aplicación de la misma.
+3. Por el concierto educativo el titular del centro se obliga al cumplimiento de las normas establecidas en el título IV de la [ley orgánica 8/1985](./LO8_1985_reguladora_derecho_educacion.md), de 3 de julio, y en los correspondientes reglamentos de aplicación de la misma.
 
 #### Artículo 15.
 
@@ -184,7 +184,7 @@ Centros autorizados
 
 #### Artículo 20.
 
-Tendrán preferencia para acogerse al régimen de conciertos los centros a que se refiere el artículo 48.3 de la ley orgánica 8/1985, de 3 de julio.
+Tendrán preferencia para acogerse al régimen de conciertos los centros a que se refiere el artículo 48.3 de la [ley orgánica 8/1985](./LO8_1985_reguladora_derecho_educacion.md), de 3 de julio.
 
 #### Artículo 21.
 
@@ -224,7 +224,7 @@ Los conciertos educativos se formalizarán en documento administrativo en el que
 
 2. El consejo escolar del centro se constituirá de acuerdo con un procedimiento que garantice la publicidad y objetividad del proceso electoral, así como el carácter personal, directo, igual y secreto del voto de los miembros de la comunidad escolar.
 
-3. A partir de la fecha de constitución del consejo escolar del centro, las vacantes que se produjeren se cubrirán de acuerdo con el procedimiento previsto en el artículo 60 de la ley orgánica 8/1985, de 3 de julio. No obstante, se exceptuarán de este procedimiento aquellas vacantes que se cubran por quienes, encontrándose en algunas de las situaciones previstas en el Estatuto de los Trabajadores, tengan derecho a reincorporarse al puesto de trabajo.
+3. A partir de la fecha de constitución del consejo escolar del centro, las vacantes que se produjeren se cubrirán de acuerdo con el procedimiento previsto en el artículo 60 de la [ley orgánica 8/1985](./LO8_1985_reguladora_derecho_educacion.md), de 3 de julio. No obstante, se exceptuarán de este procedimiento aquellas vacantes que se cubran por quienes, encontrándose en algunas de las situaciones previstas en el Estatuto de los Trabajadores, tengan derecho a reincorporarse al puesto de trabajo.
 
 #### Artículo 27.
 
@@ -386,7 +386,7 @@ El titular podrá solicitar la resolución del concierto si estimare que la Admi
 
 #### Artículo 51.
 
-La rescisión del concierto educativo sólo tendrá lugar cuando se produzca, un incumplimiento grave del mismo, de acuerdo con lo dispuesto en el artículo 62.2 de la ley orgánica 8/1985, de 3 de julio.
+La rescisión del concierto educativo sólo tendrá lugar cuando se produzca, un incumplimiento grave del mismo, de acuerdo con lo dispuesto en el artículo 62.2 de la [ley orgánica 8/1985](./LO8_1985_reguladora_derecho_educacion.md), de 3 de julio.
 
 #### Artículo 52.
 
@@ -402,7 +402,7 @@ A efectos de la determinación de posible incumplimiento por parte del titular, 
 
 #### Artículo 54.
 
-Si como consecuencia del expediente administrativo a que se refiere el artículo anterior, resultase que el titular del centro ha incumplido gravemente el concierto, la Administración procederá a su rescisión, con efectos, en su caso, desde el siguiente curso académico y adoptará las medidas necesarias de escolarización a que se refiere el artículo 63.1 de la ley orgánica 8/1985, de 3 de julio.
+Si como consecuencia del expediente administrativo a que se refiere el artículo anterior, resultase que el titular del centro ha incumplido gravemente el concierto, la Administración procederá a su rescisión, con efectos, en su caso, desde el siguiente curso académico y adoptará las medidas necesarias de escolarización a que se refiere el artículo 63.1 de la [ley orgánica 8/1985](./LO8_1985_reguladora_derecho_educacion.md), de 3 de julio.
 
 #### Artículo 55.
 
@@ -440,7 +440,7 @@ Extinguido el concierto educativo, la Administración adoptará, en su caso, las
 
 #### [precepto]Primera.
 
-1. Los centros de niveles obligatorios que a la entrada en vigor del presente real decreto que hayan obtenido la autorización definitiva y, en su caso, clasificación definitiva, podrán acogerse al régimen de conciertos sin perjuicio de lo que establezcan las normas de desarrollo del artículo 14 de la ley orgánica 8/1985, de 3 de julio, reguladora del Derecho a la Educación.
+1. Los centros de niveles obligatorios que a la entrada en vigor del presente real decreto que hayan obtenido la autorización definitiva y, en su caso, clasificación definitiva, podrán acogerse al régimen de conciertos sin perjuicio de lo que establezcan las normas de desarrollo del artículo 14 de la [ley orgánica 8/1985](./LO8_1985_reguladora_derecho_educacion.md), de 3 de julio, reguladora del Derecho a la Educación.
 
 2. No obstante lo dispuesto en la disposición anterior, la Administración podrá celebrar conciertos con aquellos centros que habiendo sido objeto de clasificación provisional o de autorización excepcional y transitoria, atiendan necesidades urgentes de escolarización que no puedan ser satisfechas de otro modo. Dichos conciertos tendrán una duración máxima de tres años con carácter improrrogable, salvo que en dicho período hubieren obtenido la clasificación definitiva. En todo caso; el concierto podrá prever la extinción progresiva de unidades.
 
@@ -458,7 +458,7 @@ Los conciertos educativos podrán considerar las características de los centros
 
 La Administración, al bonar las retribuciones de este profesorado, que tendrán un monto equivalente al que la Administración satisface por el concepto de salarios del personal docente, efectuará e ingresará en el Tesoro las retenciones correspondientes al impuesto sobre la renta de las personas físicas. Asimismo, realizará las oportunas cotizaciones a la Seguridad Social.
 
-2. A efectos de lo dispuesto en el artículo 60.6 de la ley orgánica 8/1985, de 3 de julio, la terminación de la actividad docente del profesorado a que se refiere la presente disposición no tendrá el carácter de despido. Las vacantes así producidas serán provistas en todo caso de acuerdo con el procedimiento establecido en el artículo 60 de la citada ley, procediéndose a la formalización del correspondiente contrato de trabajo, salvo que se produzca de nuevo la situación regulada en el apartado primero de la presente disposición.
+2. A efectos de lo dispuesto en el artículo 60.6 de la [ley orgánica 8/1985](./LO8_1985_reguladora_derecho_educacion.md), de 3 de julio, la terminación de la actividad docente del profesorado a que se refiere la presente disposición no tendrá el carácter de despido. Las vacantes así producidas serán provistas en todo caso de acuerdo con el procedimiento establecido en el artículo 60 de la citada ley, procediéndose a la formalización del correspondiente contrato de trabajo, salvo que se produzca de nuevo la situación regulada en el apartado primero de la presente disposición.
 
 3. Al personal a que hace referencia esta disposición le será aplicable por analogía la edad de jubilación que se establezca en la normativa laboral aplicable. Asimismo, y también por analogía, le será aplicable la excepción en el procedimiento de provisión prevista en el artículo 26.3 del presente reglamento.
 
@@ -466,13 +466,13 @@ La Administración, al bonar las retribuciones de este profesorado, que tendrán
 
 #### [precepto]Quinta.
 
-1. Los centros docentes de administración especial, financiados total o parcialmente con fondos públicos en virtud de convenio o de resolución administrativa, que a la entrada en vigor de la ley orgánica 8/1985, de 3 de julio, tengan la consideración de centros privados en virtud de lo dispuesto en el artículo 10.2 de dicha ley, podrán solicitar de la Administración educativa competente la celebración del correspondiente concierto en los términos previstos en este reglamento.
+1. Los centros docentes de administración especial, financiados total o parcialmente con fondos públicos en virtud de convenio o de resolución administrativa, que a la entrada en vigor de la [ley orgánica 8/1985](./LO8_1985_reguladora_derecho_educacion.md), de 3 de julio, tengan la consideración de centros privados en virtud de lo dispuesto en el artículo 10.2 de dicha ley, podrán solicitar de la Administración educativa competente la celebración del correspondiente concierto en los términos previstos en este reglamento.
 
 2. En virtud de lo establecido en esta disposición adicional, quedan denunciados los expresados convenios y derogadas las resoluciones administrativas correspondientes, debiendo notificar la Administración educativa competente dicho extremo a los titulares de los expresados centros.
 
 3. En los conciertos que se celebren con los titulares de los centros a que se refiere esta disposición, se hará referencia explícita a la situación del profesorado estatal que pudieran prestar servicios en los mismos. Las plazas existentes, ocupadas por profesores estatales con destino definitivo, se amortizarán toda vez que se produzcan vacantes. El profesorado público que ocupe plaza con destino provisional deberá, en el plazo máximo de un año a partir de la celebración del concierto, participar en los correspondientes concursos de traslados.
 
-4. Si los titulares de estos centros no solicitaran la celebración del concierto en los plazos señalados por este reglamento, el régimen jurídico de estos centros será el que corresponde a los centros privados no concertados de acuerdo con lo dispuesto en el artículo 25 de la ley orgánica 8/1985, de 3 de julio.
+4. Si los titulares de estos centros no solicitaran la celebración del concierto en los plazos señalados por este reglamento, el régimen jurídico de estos centros será el que corresponde a los centros privados no concertados de acuerdo con lo dispuesto en el artículo 25 de la [ley orgánica 8/1985](./LO8_1985_reguladora_derecho_educacion.md), de 3 de julio.
 
 #### [precepto]Sexta.
 
@@ -482,7 +482,7 @@ La Administración, al bonar las retribuciones de este profesorado, que tendrán
 
 #### [precepto]Séptima.
 
-El sostenimiento de los centros docentes cuyos titulares sean Corporaciones Locales y que a su entrada en vigor de la ley orgánica 8/1985, de 3 de julio, estuvieran subvencionados, se efectuará a través de los correspondientes convenios con la Administración educativa competente, debiendo adaptarse estos centros a lo previsto en dicha ley en el plazo de un año a contar desde su publicación.
+El sostenimiento de los centros docentes cuyos titulares sean Corporaciones Locales y que a su entrada en vigor de la [ley orgánica 8/1985](./LO8_1985_reguladora_derecho_educacion.md), de 3 de julio, estuvieran subvencionados, se efectuará a través de los correspondientes convenios con la Administración educativa competente, debiendo adaptarse estos centros a lo previsto en dicha ley en el plazo de un año a contar desde su publicación.
 
 #### [precepto]Octava.
 
@@ -500,7 +500,7 @@ Los conciertos educativos cuya vigencia se inicie en el curso académico 1986-87
 
 #### [precepto]Segunda.
 
-1. Los centros privados actualmente subvencionados que al entrar en vigor el régimen de conciertos previsto en la ley orgánica 8/1985, de 3 de julio, no puedan acogerse al mismo por insuficiencia de las consignaciones presupuestarias correspondientes, se incorporarán a dicho régimen en un plazo no superior a tres años.
+1. Los centros privados actualmente subvencionados que al entrar en vigor el régimen de conciertos previsto en la [ley orgánica 8/1985](./LO8_1985_reguladora_derecho_educacion.md), de 3 de julio, no puedan acogerse al mismo por insuficiencia de las consignaciones presupuestarias correspondientes, se incorporarán a dicho régimen en un plazo no superior a tres años.
 
 2. Durante el citado período, los conciertos singulares que, en su caso, se celebren, fijarán las cantidades que los titulares de dichos centros puedan percibir de los alumnos en concepto de financiación complementaria, las cuales, junto con las que provengan de fondos públicos, no podrán exceder de las correspondientes al régimen de conciertos. Todo ello sin perjuicio de su sujeción a lo preceptuado en el título IV de la referida ley orgánica.
 

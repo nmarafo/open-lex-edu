@@ -58,17 +58,17 @@ En virtud de lo expuesto, consultadas las Comunidades Autónomas en el seno de l
 
 #### Artículo 1. Objeto y ámbito de aplicación.
 
-En desarrollo del Real Decreto 102/2010, de 5 de febrero, por el que se regula la ordenación de las enseñanzas acogidas al Acuerdo entre el Gobierno de España y el Gobierno de Francia relativo a la doble titulación de Bachiller y de Baccalauréat en centros docentes españoles, esta orden tiene por objeto establecer, según lo acordado por las Partes, el currículo mixto integrador de los contenidos esenciales para el conocimiento de la lengua, de la cultura y de la realidad histórica, social y política de Francia, así como los requisitos para la obtención de la doble titulación en los centros españoles que deseen ofrecer estas enseñanzas.
+En desarrollo del [Real Decreto 102/2010](./RD102_2010_regula_ordenacion_ensenanzas_acogidas_acuerdo_entre.md), de 5 de febrero, por el que se regula la ordenación de las enseñanzas acogidas al Acuerdo entre el Gobierno de España y el Gobierno de Francia relativo a la doble titulación de Bachiller y de Baccalauréat en centros docentes españoles, esta orden tiene por objeto establecer, según lo acordado por las Partes, el currículo mixto integrador de los contenidos esenciales para el conocimiento de la lengua, de la cultura y de la realidad histórica, social y política de Francia, así como los requisitos para la obtención de la doble titulación en los centros españoles que deseen ofrecer estas enseñanzas.
 
 #### Artículo 2. El currículo mixto y sus componentes.
 
-1. Las materias específicas del currículo mixto acordadas por las Partes son la Lengua y literatura francesas, que podrá ser cursada como primera o como segunda lengua extranjera, y la Historia de Francia que se integrará en la parte correspondiente de la materia Historia de España. De acuerdo con lo establecido en el artículo 4.1 del Real Decreto 102/2010, de 5 de febrero, deberán ser impartidas íntegramente en francés y serán objeto de la prueba externa que se organizará para la obtención del Baccalauréat.
+1. Las materias específicas del currículo mixto acordadas por las Partes son la Lengua y literatura francesas, que podrá ser cursada como primera o como segunda lengua extranjera, y la Historia de Francia que se integrará en la parte correspondiente de la materia Historia de España. De acuerdo con lo establecido en el artículo 4.1 del [Real Decreto 102/2010](./RD102_2010_regula_ordenacion_ensenanzas_acogidas_acuerdo_entre.md), de 5 de febrero, deberán ser impartidas íntegramente en francés y serán objeto de la prueba externa que se organizará para la obtención del Baccalauréat.
 
 2. Los currículos de las materias específicas deberán integrar los aspectos básicos del bachillerato español más los contenidos y métodos pedagógicos propios del sistema educativo francés, según se recoge en el anexo I.
 
-3. Con el fin de alcanzar la proporción horaria estipulada en el artículo 2.2 del Real Decreto 102/2010, de 5 de febrero, las Administraciones educativas, teniendo en cuenta el profesorado habilitado al efecto, podrán autorizar a los centros la impartición en lengua francesa de otras materias no lingüísticas, sin modificación de sus currículos, que no serán objeto de prueba externa. En este caso, se procurará que el alumnado adquiera la terminología básica de las materias en ambas lenguas a lo largo de los dos cursos.
+3. Con el fin de alcanzar la proporción horaria estipulada en el artículo 2.2 del [Real Decreto 102/2010](./RD102_2010_regula_ordenacion_ensenanzas_acogidas_acuerdo_entre.md), de 5 de febrero, las Administraciones educativas, teniendo en cuenta el profesorado habilitado al efecto, podrán autorizar a los centros la impartición en lengua francesa de otras materias no lingüísticas, sin modificación de sus currículos, que no serán objeto de prueba externa. En este caso, se procurará que el alumnado adquiera la terminología básica de las materias en ambas lenguas a lo largo de los dos cursos.
 
-4. El alumnado acogido a este programa deberá recibir, al menos, un tercio del horario lectivo en lengua francesa en el conjunto del bachillerato, con el fin de que pueda alcanzar el nivel B2 del Marco Común Europeo de Referencia para las Lenguas, de acuerdo con lo establecido en el Real Decreto 102/2010.
+4. El alumnado acogido a este programa deberá recibir, al menos, un tercio del horario lectivo en lengua francesa en el conjunto del bachillerato, con el fin de que pueda alcanzar el nivel B2 del Marco Común Europeo de Referencia para las Lenguas, de acuerdo con lo establecido en el [Real Decreto 102/2010](./RD102_2010_regula_ordenacion_ensenanzas_acogidas_acuerdo_entre.md).
 
 #### Artículo 3. Asignación horaria.
 
@@ -76,7 +76,7 @@ El currículo mixto respetará en todo caso la estructura y la carga horaria del
 
 #### Artículo 4. Prueba externa.
 
-1. De acuerdo con lo establecido en el artículo 8 del Real Decreto 102/2010, de 5 de febrero, el alumnado de los centros docentes españoles que cursa las enseñanzas acogidas al Acuerdo entre el Gobierno de España y el Gobierno de Francia relativo a la doble titulación de Bachiller y de Baccalauréat, realizará una prueba externa sobre las materias específicas del currículo mixto correspondientes al segundo curso de bachillerato.
+1. De acuerdo con lo establecido en el artículo 8 del [Real Decreto 102/2010](./RD102_2010_regula_ordenacion_ensenanzas_acogidas_acuerdo_entre.md), de 5 de febrero, el alumnado de los centros docentes españoles que cursa las enseñanzas acogidas al Acuerdo entre el Gobierno de España y el Gobierno de Francia relativo a la doble titulación de Bachiller y de Baccalauréat, realizará una prueba externa sobre las materias específicas del currículo mixto correspondientes al segundo curso de bachillerato.
 
 2. La Comisión Técnica establecida en su artículo 9 será la encargada de preparar, previo acuerdo con la parte francesa, todo lo relativo a la prueba externa.
 
@@ -130,7 +130,7 @@ El alumnado de los centros docentes españoles que reúna las condiciones para l
 
 1. Para los alumnos que obtengan la doble titulación, tanto el expediente académico como el historial académico de Bachillerato, establecidos en el Real Decreto 1467/2007, de 2 de noviembre, por el que se establece la estructura del bachillerato y se fijan sus enseñanzas mínimas, recogerán mediante diligencia incluida en el anexo II que el alumno ha superado las enseñanzas del currículo mixto y que ha alcanzado el nivel B2 del Marco común europeo de referencia para las lenguas en lengua francesa.
 
-2. En las actas de evaluación de bachillerato se hará constar, en su caso, la referencia expresa al Real Decreto 102/2010, de 5 de febrero, que regula las enseñanzas del currículo integrado.
+2. En las actas de evaluación de bachillerato se hará constar, en su caso, la referencia expresa al [Real Decreto 102/2010](./RD102_2010_regula_ordenacion_ensenanzas_acogidas_acuerdo_entre.md), de 5 de febrero, que regula las enseñanzas del currículo integrado.
 
 #### Artículo 11. Admisión del alumnado en este programa.
 
@@ -144,7 +144,7 @@ Las Administraciones educativas remitirán al Ministerio de Educación, antes de
 
 #### Disposición adicional única. Acceso a la universidad española.
 
-El alumnado que haya obtenido el título de Baccalauréat en virtud del Real Decreto 102/2010, de 5 de febrero, por el que se regula la ordenación de las enseñanzas acogidas al Acuerdo entre el Gobierno de España y el Gobierno de Francia relativo a la doble titulación de Bachiller y de Baccalauréat en centros docentes españoles, podrá acogerse al artículo 38.5 de la Ley Orgánica 2/2006, de 3 de mayo, de Educación, para acceder a las universidades españolas.
+El alumnado que haya obtenido el título de Baccalauréat en virtud del [Real Decreto 102/2010](./RD102_2010_regula_ordenacion_ensenanzas_acogidas_acuerdo_entre.md), de 5 de febrero, por el que se regula la ordenación de las enseñanzas acogidas al Acuerdo entre el Gobierno de España y el Gobierno de Francia relativo a la doble titulación de Bachiller y de Baccalauréat en centros docentes españoles, podrá acogerse al artículo 38.5 de la [Ley Orgánica 2/2006](../01_marco_normativo_general_y_organico/LO2_2006_educacion_texto_consolidado_modificaciones_lomloe.md), de 3 de mayo, de Educación, para acceder a las universidades españolas.
 
 #### Disposición final primera. Título competencial.
 
@@ -798,7 +798,7 @@ ANEXO II
 
 Diligencia que ha de extenderse en el Expediente académico y en el Historial académico de Bachillerato, del/de la alumno/a:
 
-El/la alumno/a titular de este Expediente Académico/Historial académico de Bachillerato ha superado las enseñanzas del currículo mixto al que se refiere el Real Decreto 102/2010, de 5 de febrero, por el que se regula la ordenación de las enseñanzas acogidas al Acuerdo entre el Gobierno de España y el Gobierno de Francia relativo a la doble titulación de Bachiller y de Baccalauréat en centros docentes españoles, lo que le acredita un nivel B2 del Marco común europeo de referencia para las lenguas, en lengua francesa.
+El/la alumno/a titular de este Expediente Académico/Historial académico de Bachillerato ha superado las enseñanzas del currículo mixto al que se refiere el [Real Decreto 102/2010](./RD102_2010_regula_ordenacion_ensenanzas_acogidas_acuerdo_entre.md), de 5 de febrero, por el que se regula la ordenación de las enseñanzas acogidas al Acuerdo entre el Gobierno de España y el Gobierno de Francia relativo a la doble titulación de Bachiller y de Baccalauréat en centros docentes españoles, lo que le acredita un nivel B2 del Marco común europeo de referencia para las lenguas, en lengua francesa.
 
 El/la Secretario/a
 

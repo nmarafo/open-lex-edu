@@ -64,7 +64,7 @@ El alumnado deberá recuperar las materias cursadas y no superadas de los cursos
 
 En el caso de que las materias cursadas y no superadas, conforme al citado anexo, formen parte del bloque de asignaturas específicas, el alumno o alumna podrá optar, bien por cursarlas de nuevo, bien por sustituirlas por cualquier otra de su elección dentro de las pertenecientes al mismo bloque, con arreglo a la regulación establecida por las Administraciones educativas.
 
-2. Para obtener el título de Graduado en Educación Secundaria Obligatoria se deberán cumplir los requisitos establecidos en el artículo 23 del Real Decreto 1105/2014, de 26 de diciembre. Sin perjuicio de lo anterior, el alumnado que no haya obtenido el título de Graduado en Educación Secundaria podrá optar por presentarse a las pruebas anuales previstas en el artículo 68.2 de la Ley Orgánica 2/2006, de 3 de mayo, para la obtención del título de Graduado en Educación Secundaria Obligatoria, siempre que reúna los requisitos establecidos. Las Administraciones educativas determinarán las partes que se consideran superadas de dichas pruebas, en función de las materias o ámbitos cursados y las calificaciones obtenidas en los años que el alumno o alumna haya permanecido escolarizado en la Educación Secundaria Obligatoria.
+2. Para obtener el título de Graduado en Educación Secundaria Obligatoria se deberán cumplir los requisitos establecidos en el artículo 23 del Real Decreto 1105/2014, de 26 de diciembre. Sin perjuicio de lo anterior, el alumnado que no haya obtenido el título de Graduado en Educación Secundaria podrá optar por presentarse a las pruebas anuales previstas en el artículo 68.2 de la [Ley Orgánica 2/2006](../01_marco_normativo_general_y_organico/LO2_2006_educacion_texto_consolidado_modificaciones_lomloe.md), de 3 de mayo, para la obtención del título de Graduado en Educación Secundaria Obligatoria, siempre que reúna los requisitos establecidos. Las Administraciones educativas determinarán las partes que se consideran superadas de dichas pruebas, en función de las materias o ámbitos cursados y las calificaciones obtenidas en los años que el alumno o alumna haya permanecido escolarizado en la Educación Secundaria Obligatoria.
 
 #### Artículo 3. Bachillerato.
 
@@ -82,7 +82,7 @@ En el caso de que las materias cursadas y no superadas, conforme al citado anexo
 
 4. Para la recuperación de las materias no superadas será de aplicación el currículo derivado del citado Real Decreto 1105/2014, de 26 de diciembre.
 
-5. Para obtener el título de Bachiller se deberán cumplir los requisitos establecidos en el artículo 34 del Real Decreto 1105/2014, de 26 de diciembre. Sin perjuicio de lo anterior el alumnado que no haya obtenido el título de Bachiller podrá optar por presentarse a las pruebas anuales previstas en el artículo 69.4 de la Ley Orgánica 2/2006, de 3 de mayo, para la obtención del título de Bachiller, siempre que reúna los requisitos establecidos.
+5. Para obtener el título de Bachiller se deberán cumplir los requisitos establecidos en el artículo 34 del Real Decreto 1105/2014, de 26 de diciembre. Sin perjuicio de lo anterior el alumnado que no haya obtenido el título de Bachiller podrá optar por presentarse a las pruebas anuales previstas en el artículo 69.4 de la [Ley Orgánica 2/2006](../01_marco_normativo_general_y_organico/LO2_2006_educacion_texto_consolidado_modificaciones_lomloe.md), de 3 de mayo, para la obtención del título de Bachiller, siempre que reúna los requisitos establecidos.
 
 6. A todos los efectos, habrá de considerarse en los apartados anteriores que el alumnado que con anterioridad al curso 2015-2016, en el caso de primero de Bachillerato y del curso 2016-2017, en el caso de segundo, cursaba la modalidad de Ciencias y Tecnología le corresponderá la nueva modalidad de Ciencias.
 
@@ -110,9 +110,9 @@ ANEXO
 
 Correspondencia entre determinadas materias que han cambiado de denominación como consecuencia de la implantación de la Ley Orgánica 8/2013, de 9 de diciembre, y las derivadas de las modificaciones introducidas tras su aplicación
 
-Materias anteriores a la implantación de las modificaciones introducidas en la Ley Orgánica 2/2006, de 3 de mayo, de Educación, por la Ley Orgánica 8/2013, de 9 de diciembre, para la mejora de la calidad educativa, según su disposición final quinta
+Materias anteriores a la implantación de las modificaciones introducidas en la [Ley Orgánica 2/2006](../01_marco_normativo_general_y_organico/LO2_2006_educacion_texto_consolidado_modificaciones_lomloe.md), de 3 de mayo, de Educación, por la Ley Orgánica 8/2013, de 9 de diciembre, para la mejora de la calidad educativa, según su disposición final quinta
 
-Materias posteriores a la implantación de las modificaciones introducidas en la Ley Orgánica 2/2006, de 3 de mayo, de Educación, por la Ley Orgánica 8/2013, de 9 de diciembre, para la mejora de la calidad educativa, según su disposición final quinta
+Materias posteriores a la implantación de las modificaciones introducidas en la [Ley Orgánica 2/2006](../01_marco_normativo_general_y_organico/LO2_2006_educacion_texto_consolidado_modificaciones_lomloe.md), de 3 de mayo, de Educación, por la Ley Orgánica 8/2013, de 9 de diciembre, para la mejora de la calidad educativa, según su disposición final quinta
 
 Educación Secundaria Obligatoria
 
@@ -128,7 +128,7 @@ Física y Química (2.º ESO).
 
 Ciencias de la naturaleza (3.º ESO).
 
-(En aquellas administraciones educativas que, en aplicación del artículo 24.4 de la Ley Orgánica 2/2006, de 3 de mayo, hubieran dispuesto que en el tercer curso la materia de Ciencias de la naturaleza se desdoblase en Biología y Geología, por un lado, y Física y Química por otro deberá recuperarse únicamente la materia homónima no superada en la nueva ordenación).
+(En aquellas administraciones educativas que, en aplicación del artículo 24.4 de la [Ley Orgánica 2/2006](../01_marco_normativo_general_y_organico/LO2_2006_educacion_texto_consolidado_modificaciones_lomloe.md), de 3 de mayo, hubieran dispuesto que en el tercer curso la materia de Ciencias de la naturaleza se desdoblase en Biología y Geología, por un lado, y Física y Química por otro deberá recuperarse únicamente la materia homónima no superada en la nueva ordenación).
 
 Biología y Geología (3.º ESO) y Física y Química (3.º ESO).
 

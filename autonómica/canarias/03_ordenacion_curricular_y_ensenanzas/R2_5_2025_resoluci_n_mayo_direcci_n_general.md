@@ -223,7 +223,7 @@ aquellos que poseen los módulos profesionales del primer curso idénticos, cara
 por presentar los mismos códigos, las mismas denominaciones, resultados de aprendizaje, 
 contenidos y duración.
 
-2. En estos ciclos, y según lo dispuesto en el Real Decreto 659/2023, de 18 de julio, 
+2. En estos ciclos, y según lo dispuesto en el [Real Decreto 659/2023](./RD659_2023_dictan_instrucciones_orientaciones_formacion_dual_empresas.md), de 18 de julio, 
 serán objeto de convalidación los siguientes módulos del primer curso y mismo grado:
 • Inglés profesional.
 • Digitalización aplicada a los sectores productivos, siempre que se trate de ciclos 
@@ -231,7 +231,7 @@ formativos de la misma familia profesional.
 3. Asimismo, el modulo profesional de Itinerario personal para la empleabilidad I será objeto 
 de convalidación entre ofertas formativas, salvo que la DGFPERE regule la obligatoriedad de 
 realizar un complemento formativo en el currículo de la especialidad que se esté cursando, tal y 
-como se establece en el artículo 126.5 del Real Decreto 659/2023, de 18 de julio.
+como se establece en el artículo 126.5 del [Real Decreto 659/2023](./RD659_2023_dictan_instrucciones_orientaciones_formacion_dual_empresas.md), de 18 de julio.
 4. La formación en empresa u organismo equiparado se desarrollará conforme a lo 
 dispuesto en la [Resolución de 5 de noviembre de 2024](RD659_2023_dictan_instrucciones_orientaciones_formacion_dual_empresas.md), por la que se dictan instrucciones 
 y orientaciones para la misma, sin perjuicio de lo establecido en la Resolución en la que se 
@@ -266,7 +266,7 @@ formalizar su matrícula en el segundo curso del ciclo, trasladando de oficio al
 calificaciones obtenidas en los módulos profesionales comunes de primer curso superados, 
 que son aquellos que figuran en el Anexo II.
 
-En aplicación con lo dispuesto en el artículo 126.3 del Real Decreto 659/2023, de 18 de 
+En aplicación con lo dispuesto en el artículo 126.3 del [Real Decreto 659/2023](./RD659_2023_dictan_instrucciones_orientaciones_formacion_dual_empresas.md), de 18 de 
 julio, los módulos de Inglés profesional y Digitalización aplicada a los sectores productivos 
 serán convalidados de oficio por la dirección del centro público, trasladando la calificación 
 obtenida que conste en la documentación académica aportada; siendo también aplicable 
@@ -285,7 +285,7 @@ ciclo, trasladando al expediente las calificaciones obtenidas en los módulos pr
 de primer curso en los términos indicados en apartado 3 anterior.
 Quinta.- Ciclos formativos de grado superior con el primer curso en común a 
 excepción de un módulo.
-1. En estos ciclos, y según lo establecido en el Real Decreto 659/2023, de 18 de julio, 
+1. En estos ciclos, y según lo establecido en el [Real Decreto 659/2023](./RD659_2023_dictan_instrucciones_orientaciones_formacion_dual_empresas.md), de 18 de julio, 
 serán objeto de convalidación los siguientes módulos del primer curso y mismo grado:
 • Inglés profesional.
 • Digitalización aplicada a los sectores productivos, siempre que se trate de ciclos 
@@ -294,10 +294,10 @@ formativos de la misma familia profesional.
 será objeto de convalidación entre ofertas formativas, salvo que la 
 DGFPERE regule la 
 obligatoriedad de realizar un complemento formativo en el currículo de la especialidad que 
-se esté cursando, tal y como se establece en el artículo 126.5 del Real Decreto 659/2023, 
+se esté cursando, tal y como se establece en el artículo 126.5 del [Real Decreto 659/2023](./RD659_2023_dictan_instrucciones_orientaciones_formacion_dual_empresas.md), 
 de 18 de julio.
 3. La formación en empresa u organismo equiparado se desarrollará tal y como se 
-indica en la Resolución de 5 de noviembre de 2024, por la que se dictan instrucciones y 
+indica en la [Resolución de 5 de noviembre de 2024](./RD659_2023_dictan_instrucciones_orientaciones_formacion_dual_empresas.md), por la que se dictan instrucciones y 
 orientaciones para la misma, sin perjuicio de lo establecido en la Resolución en la que se 
 dicten las instrucciones para la evaluación.
 4. En los ciclos formativos de grado superior relacionados en el Anexo III, el alumnado 
@@ -367,7 +367,7 @@ del centro educativo público donde la haya obtenido procederá a formalizar su 
 en el segundo curso del ciclo correspondiente con el módulo de primer curso pendiente, 
 trasladando de oficio a su expediente las calificaciones obtenidas en los restantes módulos 
 comunes de primer curso superados, que son aquellos que figuran en el Anexo III.
-En aplicación con lo dispuesto en el artículo 126.3 del Real Decreto 659/2023, de 18 de 
+En aplicación con lo dispuesto en el artículo 126.3 del [Real Decreto 659/2023](./RD659_2023_dictan_instrucciones_orientaciones_formacion_dual_empresas.md), de 18 de 
 julio, los módulos de Inglés profesional y Digitalización aplicada a los sectores productivos 
 serán convalidados de oficio por la dirección del centro público, trasladando la calificación 
 obtenida que conste en la documentación académica aportada.
@@ -398,7 +398,7 @@ profesional en centros educativos de la Comunidad Autónoma de Canarias (BOC n.�
 del sistema que se extingue y, en su caso, del módulo pendiente de primer curso si este está 
 incluido en alguno de los ciclos del Anexo III.
 3. El alumnado cursará los módulos profesionales establecidos desde la publicación del 
-Real Decreto 659/2023, de 18 de julio, y en el caso de no tener la misma codificación se 
+[Real Decreto 659/2023](./RD659_2023_dictan_instrucciones_orientaciones_formacion_dual_empresas.md), de 18 de julio, y en el caso de no tener la misma codificación se 
 cursarán los siguientes como equivalentes, de acuerdo con la tabla que figura a continuación:
 Ordenación  de  acuerdo  con  Real  Decreto  
 659/2023, de 18 de julio

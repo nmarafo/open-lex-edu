@@ -49,7 +49,7 @@ autenticación de sitio web o medio equivalente. Así, en su artículo 40, apart
 determina que las Administraciones Públicas podrán identificarse mediante el uso de un 
 sello electrónico basado en un certificado electrónico reconocido o cualificado que reúna 
 los requisitos exigidos por la legislación de firma electrónica.
-Los artículos 41 y 42 de la Ley 40/2015, de 1 de octubre, regulan la actuación 
+Los artículos 41 y 42 de la [Ley 40/2015](../../../estatal/01_marco_normativo_general_y_organico/L40_2015_regimen_juridico_sector_publico.md), de 1 de octubre, regulan la actuación 
 administrativa automatizada y los sistemas de firma para la misma.
 Por su parte, el Decreto 19/2011, de 10 de febrero, por el que se regula la utilización 
 de los medios electrónicos en la Administración Pública de la Comunidad Autónoma de 
@@ -187,7 +187,7 @@ Canarias para general conocimiento.
 Contra la presente Resolución, que agota la vía administrativa, podrá interponerse 
 recurso potestativo de reposición ante la Dirección de la ACCUEE, en el plazo de un mes 
 contado a partir del día siguiente a su publicación en el Boletín Oficial de Canarias, de 
-conformidad con lo dispuesto en los artículos 123 y 124 de Ley 39/2015, de 1 de octubre, 
+conformidad con lo dispuesto en los artículos 123 y 124 de [Ley 39/2015](../../../estatal/01_marco_normativo_general_y_organico/L39_2015_procedimiento_administrativo_comun_administraciones_publicas.md), de 1 de octubre, 
 del Procedimiento Administrativo Común de las Administraciones Públicas; o directamente 
 recurso contencioso-administrativo ante los Juzgados de lo Contencioso-Administrativo 
 que correspondan, en el plazo de dos meses, contados a partir del día siguiente al de la 

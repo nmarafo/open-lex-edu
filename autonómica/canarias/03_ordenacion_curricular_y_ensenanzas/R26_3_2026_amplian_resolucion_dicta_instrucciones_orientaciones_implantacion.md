@@ -51,7 +51,7 @@ fuente_pdf_oficial: https://sede.gobiernodecanarias.org/boc/boc-a-2026-070-1143.
 III. Otras Resoluciones
 Consejería de Educación, Formación Profesional, Actividad Física y Deportes
 1143 Dirección General de Formación Profesional y Enseñanzas de Régimen Especial.- 
-Resolución de 26 de marzo de 2026, por la que se amplían la Resolución de 30 de 
+[Resolución de 26 de marzo de 2026](../05_alumnado_y_servicios_escolares/R26_3_2026_convocan_premios_extraordinarios_bachillerato_ambito_comunidad.md), por la que se amplían la Resolución de 30 de 
 octubre de 2024, que dicta instrucciones y orientaciones para la implantación y 
 desarrollo de los grados de formación D y E, a partir del curso escolar 2024/2025, y 
 se establece la distribución horaria y modular de los currículos; y la Resolución de 
@@ -152,9 +152,9 @@ el Repertorio Nacional de certificados de profesionalidad, modificado por el Rea
 682/2011, de 13 de mayo.
 Al certificado profesional con código AGAX0208, establecido en el citado Real Decreto 
 e incluido en el Anexo III de la presente Resolución, le es de aplicación la disposición 
-transitoria primera del Real Decreto 659/2023, de 18 de julio, así como la disposición 
+transitoria primera del [Real Decreto 659/2023](./RD659_2023_dictan_instrucciones_orientaciones_formacion_dual_empresas.md), de 18 de julio, así como la disposición 
 adicional cuarta del [Real Decreto 69/2025](../../../estatal/03_ordenacion_curricular_y_ensenanzas/RD69_2025_desarrollan_elementos_integrantes_instrumentos_gestion_sistema.md), de 4 de febrero.
-Decimocuarto.- La Resolución de 30 de octubre de 2024, por la que se dictan 
+Decimocuarto.- La [Resolución de 30 de octubre de 2024](./R30_10_2024_dictan_instrucciones_orientaciones_implantacion_desarrollo_grados.md), por la que se dictan 
 instrucciones y orientaciones para la implantación y desarrollo de los grados D y E del 
 Sistema de Formación Profesional a partir del curso escolar 2024/2025, y se establece la 
 distribución horaria y modular de sus currículos en el ámbito de la Comunidad Autónoma 
@@ -181,7 +181,7 @@ establece la distribución horaria y modular de los currículos en el ámbito de
 Autónoma de Canarias, conforme a lo establecido en el Anexo I de la presente Resolución.
 Segundo.- Aprobar la distribución horaria y la estructura modular de los Cursos de 
 especialización que se relacionan a continuación, y se amplía, a tal efecto, el Anexo VII de 
-la citada Resolución de 30 de octubre de 2024, conforme a lo dispuesto en el Anexo II de 
+la citada [Resolución de 30 de octubre de 2024](./R30_10_2024_dictan_instrucciones_orientaciones_implantacion_desarrollo_grados.md), conforme a lo dispuesto en el Anexo II de 
 la presente Resolución.
 • Curso de especialización de Formación Profesional de Grado Medio en Maestría de 
 corte y cata de jamón y paleta curados.

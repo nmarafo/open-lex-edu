@@ -95,11 +95,11 @@ alumnado en centros docentes que oferten enseñanzas no universitarias sostenida
 fondos públicos en la Comunidad Autónoma de Canarias, reglamento marco que establece, 
 en nuestro ámbito autonómico de gestión, el procedimiento de admisión del alumnado en 
 las distintas etapas o niveles educativos.
-Segundo.- La Orden de 3 de marzo de 2022, por la que se desarrolla el Decreto 9/2022, 
+Segundo.- La Orden de 3 de marzo de 2022, por la que se desarrolla el [Decreto 9/2022](./D9_2022_regula_admision_alumnado_centros_docentes_publicos.md), 
 de 20 de enero, que regula la admisión del alumnado en centros docentes que oferten 
 enseñanzas no universitarias sostenidas con fondos públicos en la Comunidad Autónoma 
 de Canarias.
-Tercero.- Resolución de 27 de febrero de 2024, por la que se dictan instrucciones 
+Tercero.- [Resolución de 27 de febrero de 2024](./R27_2_2024_dgacesc_dictan_instrucciones_proceso_admision_alumnado.md), por la que se dictan instrucciones 
 sobre el proceso de admisión del alumnado en centros docentes que oferten enseñanzas de 
 Educación Infantil, Educación Primaria, Educación Secundaria Obligatoria, Bachillerato y 
 Educación de Personas Adultas en los centros docentes sostenidos con fondos públicos en 
@@ -166,7 +166,7 @@ madre, tutor, tutora, guardador o guardadora, se entenderá que tiene atribuida 
 y custodia sin limitación para gestionar lo necesario en el procedimiento de admisión, y 
 cuenta con el consentimiento del otro u otra, salvo que el centro tenga conocimiento de la 
 oposición por parte del otro padre, madre, tutor o tutora, guardador o guardadora, en cuyo 
-caso se aplicará lo dispuesto en la Resolución de 30 de junio de 2017, por la que se dictan 
+caso se aplicará lo dispuesto en la [Resolución de 30 de junio de 2017](../01_marco_normativo_general_y_organico/R30_6_2017_dictan_instrucciones_actuacion_centros_docentes_sostenidos.md), por la que se dictan 
 instrucciones para la actuación de los centros docentes sostenidos con fondos públicos, en 
 los casos de padres, madres, o representantes legales, separados, divorciados, o que hayan 
 finalizado su convivencia, respecto a sus descendientes o representados, menores de edad, 
@@ -180,7 +180,7 @@ Cuarta.- Exclusión de solicitudes por duplicidad.
 En el caso de exclusión por duplicidad de solicitudes presentada por los padres, madres, 
 tutores o tutoras, guardadores o guardadoras, separados, divorciados, que hayan finalizado 
 su convivencia, o representantes legales, deberá seguirse el procedimiento previsto en la 
-Resolución de 30 de junio de 2017, por la que se dictan instrucciones para la actuación 
+[Resolución de 30 de junio de 2017](../01_marco_normativo_general_y_organico/R30_6_2017_dictan_instrucciones_actuacion_centros_docentes_sostenidos.md), por la que se dictan instrucciones para la actuación 
 de los centros docentes sostenidos con fondos públicos, en los casos de padres, madres, 
 separados, divorciados, que hayan finalizado su convivencia, o representantes legales, 
 respecto a sus descendientes o representados, menores de edad, en el ámbito de las enseñanzas 
@@ -547,7 +547,7 @@ competente; o por cualquier otro título, siempre que ello esté previsto en las
 condición de víctima de terrorismo mediante sentencia firme, por la que se le hubiere reconocido dicha condición o en su defecto, mediante la documentación
 acreditativa de haberse llevado a cabo las oportunas diligencias judiciales o incoado los procesos penales para el enjuiciamiento de dichos delitos.
 (11) Se contabilizarán todos los miembros de la unidad familiar, en el momento de presentar la solicitud, incluido el alumno/a. Considerando como Unidad Familiar
-a efectos del procedimiento de admisión el previsto en instrucción vigesimoquinta de la Resolución de 27 de febrero de 2024, por la que se dictan instrucciones
+a efectos del procedimiento de admisión el previsto en instrucción vigesimoquinta de la [Resolución de 27 de febrero de 2024](./R27_2_2024_dgacesc_dictan_instrucciones_proceso_admision_alumnado.md), por la que se dictan instrucciones
 sobre el proceso de admisión del alumnado en centros docentes con enseñanzas no universitarias sostenidas con fondos públicos (BOC núm.49, de 7 de marzo). La
 unidad familiar se acreditará aportando el Libro de Familia o registro individual digital o certificado de nacimiento para hijos pendiente de incluir en libro de
 familia o certificado/volante de empadronamiento o de residencia o disposición judicial de guarda y custodia, o documento oficial que acredite dicha circunstancia

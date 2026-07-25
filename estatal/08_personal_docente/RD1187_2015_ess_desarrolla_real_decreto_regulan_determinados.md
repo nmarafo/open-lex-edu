@@ -34,17 +34,17 @@ fundamentos_derecho:
 ---
 # Orden ESS/1187/2015, de 15 de junio, por la que se desarrolla el [Real Decreto 625/2014](RD625_2014_regulan_determinados_aspectos_gestion_control_procesos.md), de 18 de julio, por el que se regulan determinados aspectos de la gestión y control de los procesos por incapacidad temporal en los primeros trescientos sesenta y cinco días de su duración.
 
-El Real Decreto 625/2014, de 18 de julio, por el que se regulan determinados aspectos de la gestión y control de los procesos por incapacidad temporal en los primeros trescientos sesenta y cinco días de su duración, ha venido a establecer una nueva regulación que incide en varias cuestiones de la gestión de la referida situación de incapacidad temporal. Dicha regulación responde, entre otras razones, a determinadas reformas legales introducidas en los últimos años en materia de incapacidad temporal, y al avance en los medios de coordinación de actuaciones entre las distintas entidades implicadas en su gestión.
+El [Real Decreto 625/2014](./RD625_2014_regulan_determinados_aspectos_gestion_control_procesos.md), de 18 de julio, por el que se regulan determinados aspectos de la gestión y control de los procesos por incapacidad temporal en los primeros trescientos sesenta y cinco días de su duración, ha venido a establecer una nueva regulación que incide en varias cuestiones de la gestión de la referida situación de incapacidad temporal. Dicha regulación responde, entre otras razones, a determinadas reformas legales introducidas en los últimos años en materia de incapacidad temporal, y al avance en los medios de coordinación de actuaciones entre las distintas entidades implicadas en su gestión.
 
-Las modificaciones introducidas por el Real Decreto 625/2014 han afectado, principalmente, a la expedición de los partes médicos de baja, de confirmación y de alta, de manera que, manteniendo el rigor en la constatación de la enfermedad o lesiones del trabajador y de su incidencia en su capacidad para realizar el trabajo, se ahorren trámites burocráticos y se adapte la emisión de los partes a la duración estimada de cada proceso. Para ello, se han establecido unos protocolos de temporalidad de los actos médicos de confirmación de la baja en función de la duración estimada del proceso, la cual será fijada por el facultativo correspondiente, a su criterio médico, contando a tal fin con unas tablas de duración óptima basadas en el diagnóstico, la ocupación y la edad del trabajador.
+Las modificaciones introducidas por el [Real Decreto 625/2014](./RD625_2014_regulan_determinados_aspectos_gestion_control_procesos.md) han afectado, principalmente, a la expedición de los partes médicos de baja, de confirmación y de alta, de manera que, manteniendo el rigor en la constatación de la enfermedad o lesiones del trabajador y de su incidencia en su capacidad para realizar el trabajo, se ahorren trámites burocráticos y se adapte la emisión de los partes a la duración estimada de cada proceso. Para ello, se han establecido unos protocolos de temporalidad de los actos médicos de confirmación de la baja en función de la duración estimada del proceso, la cual será fijada por el facultativo correspondiente, a su criterio médico, contando a tal fin con unas tablas de duración óptima basadas en el diagnóstico, la ocupación y la edad del trabajador.
 
-Asimismo, el Real Decreto 625/2014 mejora los mecanismos de comunicación, coordinación y colaboración entre las distintas entidades que intervienen en la gestión de la incapacidad temporal, así como las posibilidades de control de la prestación, al objeto de aligerar los trámites y cargas existentes en la actualidad.
+Asimismo, el [Real Decreto 625/2014](./RD625_2014_regulan_determinados_aspectos_gestion_control_procesos.md) mejora los mecanismos de comunicación, coordinación y colaboración entre las distintas entidades que intervienen en la gestión de la incapacidad temporal, así como las posibilidades de control de la prestación, al objeto de aligerar los trámites y cargas existentes en la actualidad.
 
 La aplicación del citado real decreto requiere, de una parte, la puesta en práctica de diferentes mecanismos instrumentales, básicamente, de los nuevos modelos de partes médicos de baja/alta y de confirmación en los procesos de incapacidad temporal, siguiendo a tal efecto las previsiones contenidas en dicha norma y, de otra, el necesario desarrollo de determinados preceptos de la norma reglamentaria. A ello responde la presente orden ministerial.
 
 En el proceso de su tramitación, la orden ha sido sometida a consulta de las administraciones públicas implicadas y de los interlocutores sociales y también ha sido informada por el Ministerio de Sanidad, Servicios Sociales e Igualdad.
 
-La orden se dicta de conformidad con lo establecido en el artículo 5.2.b) del texto refundido de la Ley General de la Seguridad Social, aprobado por el Real Decreto Legislativo 1/1994, de 20 de junio, y en la disposición final séptima del Real Decreto 625/2014, de 18 de julio.
+La orden se dicta de conformidad con lo establecido en el artículo 5.2.b) del texto refundido de la Ley General de la Seguridad Social, aprobado por el Real Decreto Legislativo 1/1994, de 20 de junio, y en la disposición final séptima del [Real Decreto 625/2014](./RD625_2014_regulan_determinados_aspectos_gestion_control_procesos.md), de 18 de julio.
 
 En su virtud, en uso de las facultades conferidas, dispongo:
 
@@ -54,13 +54,13 @@ Normas generales
 
 #### Artículo 1. Partes médicos de incapacidad temporal.
 
-De conformidad con lo previsto en los artículos 2 y 5 del Real Decreto 625/2014, de 18 de julio, por el que se regulan determinados aspectos de la gestión y control de los procesos por incapacidad temporal en los primeros trescientos sesenta y cinco días de su duración, se aprueban los modelos de los partes médicos de baja/alta y de confirmación de la incapacidad temporal, que figuran como anexos a esta orden.
+De conformidad con lo previsto en los artículos 2 y 5 del [Real Decreto 625/2014](./RD625_2014_regulan_determinados_aspectos_gestion_control_procesos.md), de 18 de julio, por el que se regulan determinados aspectos de la gestión y control de los procesos por incapacidad temporal en los primeros trescientos sesenta y cinco días de su duración, se aprueban los modelos de los partes médicos de baja/alta y de confirmación de la incapacidad temporal, que figuran como anexos a esta orden.
 
 Los trabajadores deberán facilitar a los facultativos a los que corresponda la expedición de los mencionados partes médicos los datos necesarios para su correcta cumplimentación.
 
 #### Artículo 2. Tipos de procesos de incapacidad temporal en función de su duración estimada.
 
-1. De acuerdo con lo establecido en el artículo 2.3 del Real Decreto 625/2014, de 18 de julio, se distinguen cuatro tipos de procesos de incapacidad temporal, según cuál sea su duración estimada:
+1. De acuerdo con lo establecido en el artículo 2.3 del [Real Decreto 625/2014](./RD625_2014_regulan_determinados_aspectos_gestion_control_procesos.md), de 18 de julio, se distinguen cuatro tipos de procesos de incapacidad temporal, según cuál sea su duración estimada:
 
 a) Proceso de duración estimada muy corta: inferior a cinco días naturales.
 
@@ -70,7 +70,7 @@ c) Proceso de duración estimada media: de 31 a 60 días naturales.
 
 d) Proceso de duración estimada larga: de 61 o más días naturales.
 
-2. Corresponde al facultativo que emite el parte médico de baja y de confirmación determinar, en el momento de su expedición, la duración estimada del proceso. El facultativo podrá alterar esa duración estimada en un momento posterior como consecuencia de la modificación o actualización del diagnóstico o de la evolución sanitaria del trabajador. A tal efecto, según lo previsto en el artículo 2.4 del Real Decreto 625/2014, de 18 de julio, emitirá un parte de confirmación que recogerá la nueva duración estimada y, en su caso, el encuadramiento del proceso en un tipo diferente de los previstos en el apartado anterior.
+2. Corresponde al facultativo que emite el parte médico de baja y de confirmación determinar, en el momento de su expedición, la duración estimada del proceso. El facultativo podrá alterar esa duración estimada en un momento posterior como consecuencia de la modificación o actualización del diagnóstico o de la evolución sanitaria del trabajador. A tal efecto, según lo previsto en el artículo 2.4 del [Real Decreto 625/2014](./RD625_2014_regulan_determinados_aspectos_gestion_control_procesos.md), de 18 de julio, emitirá un parte de confirmación que recogerá la nueva duración estimada y, en su caso, el encuadramiento del proceso en un tipo diferente de los previstos en el apartado anterior.
 
 3. A efectos de asignar la duración estimada a cada proceso, el facultativo dispondrá de unas tablas de duración óptima de los distintos procesos patológicos susceptibles de generar incapacidades, así como tablas sobre el grado de incidencia de los mismos en las distintas actividades laborales. Dichas tablas serán suministradas y revisadas periódicamente por el Instituto Nacional de la Seguridad Social.
 
@@ -128,7 +128,7 @@ Este Instituto dictará resolución expresa en el ejercicio de las referidas com
 
 #### Artículo 5. Informes complementarios.
 
-En los procesos de incapacidad temporal de duración estimada superior a 30 días naturales, cuya gestión corresponda al servicio público de salud, cualquiera que sea la contingencia de que deriven, el segundo parte de confirmación de la baja, y los que correspondan conforme a lo previsto en el artículo 4.1 del Real Decreto 625/2014, irán acompañados de un informe médico complementario cumplimentado y actualizado por el facultativo que expida el parte de confirmación, en los términos y con el contenido señalado en el citado artículo.
+En los procesos de incapacidad temporal de duración estimada superior a 30 días naturales, cuya gestión corresponda al servicio público de salud, cualquiera que sea la contingencia de que deriven, el segundo parte de confirmación de la baja, y los que correspondan conforme a lo previsto en el artículo 4.1 del [Real Decreto 625/2014](./RD625_2014_regulan_determinados_aspectos_gestion_control_procesos.md), irán acompañados de un informe médico complementario cumplimentado y actualizado por el facultativo que expida el parte de confirmación, en los términos y con el contenido señalado en el citado artículo.
 
 CAPÍTULO III
 
@@ -142,15 +142,15 @@ Declaración de alta médica en los procesos de incapacidad temporal
 
 #### Artículo 7. Expedición de altas médicas por los inspectores médicos de los servicios públicos de salud.
 
-Los inspectores médicos del respectivo servicio público de salud que, de acuerdo con lo previsto en el artículo 5 del Real Decreto 625/2014, expidan partes de alta médica, utilizarán el modelo anexo I. La tramitación del parte de alta, del que se entregarán dos copias al trabajador, será la prevista en el capítulo IV de esta orden.
+Los inspectores médicos del respectivo servicio público de salud que, de acuerdo con lo previsto en el artículo 5 del [Real Decreto 625/2014](./RD625_2014_regulan_determinados_aspectos_gestion_control_procesos.md), expidan partes de alta médica, utilizarán el modelo anexo I. La tramitación del parte de alta, del que se entregarán dos copias al trabajador, será la prevista en el capítulo IV de esta orden.
 
 #### Artículo 8. Expedición de altas médicas por los inspectores médicos adscritos al Instituto Nacional de la Seguridad Social e Instituto Social de la Marina.
 
-1. Los inspectores médicos del Instituto Nacional de la Seguridad Social o del Instituto Social de la Marina que, conforme a lo previsto en el artículo 5 del Real Decreto 625/2014, expidan partes de alta médica, utilizarán el modelo que figura como anexo I. La tramitación del parte de alta, del que se entregarán dos copias al trabajador, será la prevista en los artículos 10, 11, 12 y 13 de esta orden.
+1. Los inspectores médicos del Instituto Nacional de la Seguridad Social o del Instituto Social de la Marina que, conforme a lo previsto en el artículo 5 del [Real Decreto 625/2014](./RD625_2014_regulan_determinados_aspectos_gestion_control_procesos.md), expidan partes de alta médica, utilizarán el modelo que figura como anexo I. La tramitación del parte de alta, del que se entregarán dos copias al trabajador, será la prevista en los artículos 10, 11, 12 y 13 de esta orden.
 
 El Instituto Nacional de la Seguridad Social o el Instituto Social de la Marina, según corresponda, dará traslado telemáticamente del parte de manera inmediata y, en todo caso, en el primer día hábil siguiente al de dicha expedición, al servicio público de salud, para su conocimiento, y a la mutua cuando, tratándose de contingencias comunes, le corresponda la cobertura de la prestación económica.
 
-2. En los casos en que las mutuas formulen al Instituto Nacional de la Seguridad Social o al Instituto Social de la Marina solicitudes de alta, conforme a lo previsto en el artículo 6.3 del Real Decreto 625/2014, lo harán por vía telemática. La entidad gestora resolverá en el plazo de cuatro días establecido en el citado artículo.
+2. En los casos en que las mutuas formulen al Instituto Nacional de la Seguridad Social o al Instituto Social de la Marina solicitudes de alta, conforme a lo previsto en el artículo 6.3 del [Real Decreto 625/2014](./RD625_2014_regulan_determinados_aspectos_gestion_control_procesos.md), lo harán por vía telemática. La entidad gestora resolverá en el plazo de cuatro días establecido en el citado artículo.
 
 Si la entidad gestora considera que no procede el alta solicitada por la mutua, se lo comunicará a esta por vía telemática, de manera inmediata y, en todo caso, en el primer día hábil siguiente a aquel en que se hubiera adoptado dicha decisión.
 

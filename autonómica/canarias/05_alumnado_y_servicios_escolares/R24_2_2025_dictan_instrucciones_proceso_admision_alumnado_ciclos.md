@@ -64,7 +64,7 @@ fuente_pdf_oficial: https://sede.gobiernodecanarias.org/boc/boc-a-2025-047-935.p
 III. Otras Resoluciones
 Consejería de Educación, Formación Profesional, Actividad Física y Deportes
 935 Dirección General de Formación Profesional y Enseñanzas de Régimen Especial.- 
-Resolución de 24 de febrero de 2025, por la que se dictan instrucciones sobre el 
+[Resolución de 24 de febrero de 2025](./R24_2_2025_convoca_procedimiento_admision_alumnado_ciclos_formativos.md), por la que se dictan instrucciones sobre el 
 proceso de admisión del alumnado a Ciclos Formativos de Grado Básico, Medio 
 y Superior (niveles 1, 2 y 3, respectivamente) de las Enseñanzas de Formación 
 Profesional de Grado D, Enseñanzas Profesionales de Artes Plásticas y Diseño, 
@@ -97,7 +97,7 @@ definir el nuevo procedimiento de admisión del alumnado en centros docentes sos
 con fondos públicos en los Ciclos Formativos de Grado Básico, Grado Medio y Grado 
 Superior (Grados D, de los niveles 1, 2 y 3 del Sistema de Formación Profesional).
 FUNDAMENTOS DE DERECHO
-Primero.- La Ley Orgánica 2/2006, de 3 de mayo, de Educación, señala en su 
+Primero.- La [Ley Orgánica 2/2006](../../../estatal/01_marco_normativo_general_y_organico/LO2_2006_educacion_texto_consolidado_modificaciones_lomloe.md), de 3 de mayo, de Educación, señala en su 
 artículo 84.1 que “Las Administraciones educativas regularán la admisión de alumnos y 
 alumnas en centros públicos y privados concertados de tal forma que garantice el derecho 
 
@@ -113,7 +113,7 @@ educación y el acceso en condiciones de igualdad. En todo caso, se atenderá a 
 y equilibrada distribución entre los centros escolares del alumnado con necesidad específica 
 de apoyo educativo”.
 Tercero.- El [Real Decreto 659/2023](../03_ordenacion_curricular_y_ensenanzas/RD659_2023_dictan_instrucciones_orientaciones_formacion_dual_empresas.md), de 18 de julio, por el que se desarrolla la 
-ordenación del sistema de Formación Profesional, definido por la Ley Orgánica 3/2022, de 
+ordenación del sistema de Formación Profesional, definido por la [Ley Orgánica 3/2022](../08_personal_docente/LO3_2022_ordenacion_gestion_determinadas_listas_empleo_tras.md), de 
 31 de marzo, de ordenación e integración de la Formación Profesional, señala en su artículo 
 4 que entre las ofertas formativas del Sistema de Formación Profesional se encuentran los 
 denominados Grados D, de los que forman parte los Ciclos Formativos de Grado Básico, 
@@ -128,7 +128,7 @@ Cuarto.- El [Real Decreto 1085/2020](../../../estatal/03_ordenacion_curricular_y
 convalidaciones de módulos profesionales de los títulos de Formación Profesional del sistema 
 educativo español y las medidas para su aplicación, y se modifica el Real Decreto 1147/2011, 
 de 29 de julio, por el que se establece la ordenación general de la formación profesional 
-del sistema educativo, y al que hace alusión el Real Decreto 659/2023 de 18 de julio, en 
+del sistema educativo, y al que hace alusión el [Real Decreto 659/2023](../03_ordenacion_curricular_y_ensenanzas/RD659_2023_dictan_instrucciones_orientaciones_formacion_dual_empresas.md) de 18 de julio, en 
 su artículo 3 indica que “Los módulos profesionales que tengan los mismos códigos, las 
 mismas denominaciones, capacidades terminales o resultados de aprendizaje, contenidos y 
 duración, serán considerados módulos idénticos, independientemente del ciclo formativo al 
@@ -143,7 +143,7 @@ admisión del alumnado que quiera cursar enseñanzas de formación profesional, 
 elementales y profesionales de música, enseñanzas profesionales de artes plásticas y diseño, 
 enseñanzas de idiomas y enseñanzas deportivas se regirá por la normativa específica 
 prevista al efecto.
-Sexto.- La Orden de 3 de marzo de 2022, por la que se desarrolla el Decreto 9/2022, 
+Sexto.- La Orden de 3 de marzo de 2022, por la que se desarrolla el [Decreto 9/2022](./D9_2022_regula_admision_alumnado_centros_docentes_publicos.md), 
 de 20 de enero, que regula la admisión del alumnado en centros docentes que oferten 
 
 enseñanzas no universitarias sostenidas con fondos públicos en la Comunidad Autónoma 
@@ -268,7 +268,7 @@ madre, tutor, tutora, guardador o guardadora, se entenderá que tiene atribuida 
 y custodia sin limitación para gestionar lo necesario en el procedimiento de admisión, y 
 cuenta con el consentimiento del otro u otra, salvo que el centro tenga conocimiento de la 
 oposición por parte del otro padre, madre, tutor o tutora, guardador o guardadora, en cuyo 
-caso se aplicará lo dispuesto en la Resolución de 30 de junio de 2017, por la que se dictan 
+caso se aplicará lo dispuesto en la [Resolución de 30 de junio de 2017](../01_marco_normativo_general_y_organico/R30_6_2017_dictan_instrucciones_actuacion_centros_docentes_sostenidos.md), por la que se dictan 
 instrucciones para la actuación de los centros docentes sostenidos con fondos públicos, en 
 los casos de padres, madres, o representantes legales, separados, divorciados, o que hayan 
 finalizado su convivencia, respecto a sus descendientes o representados, menores de edad, 
@@ -305,7 +305,7 @@ Educación Secundaria Obligatoria que le corresponda.
 madres, tutores o tutoras, guardadores o guardadoras, separados, divorciados, que hayan 
 
 finalizado su convivencia, o representantes legales, deberá seguirse el procedimiento 
-previsto en la Resolución de 30 de junio de 2017, por la que se dictan instrucciones para la 
+previsto en la [Resolución de 30 de junio de 2017](../01_marco_normativo_general_y_organico/R30_6_2017_dictan_instrucciones_actuacion_centros_docentes_sostenidos.md), por la que se dictan instrucciones para la 
 actuación de los centros docentes sostenidos con fondos públicos, en los casos de padres, 
 madres, separados, divorciados, que hayan finalizado su convivencia, o representantes 
 legales, respecto a sus descendientes o representados, menores de edad, en el ámbito de las 
@@ -563,7 +563,7 @@ D, nivel 2), la prueba de acceso a Ciclos Formativos de Formación Profesional d
 Superior (Grado D, nivel 3), o la prueba de acceso a la universidad para mayores de 25 años.
 f) Estar en posesión del título de Bachiller.
 g) Acreditar algunas de las condiciones establecidas en la disposición adicional sexta 
-del Real Decreto 659/2023, de 18 de julio, por la que se desarrolla la ordenación del Sistema 
+del [Real Decreto 659/2023](../03_ordenacion_curricular_y_ensenanzas/RD659_2023_dictan_instrucciones_orientaciones_formacion_dual_empresas.md), de 18 de julio, por la que se desarrolla la ordenación del Sistema 
 de Formación Profesional del sistema educativo, relativa a otras titulaciones equivalentes 
 a efectos de acceso.
 En los supuestos de acceso al amparo de las letras c), d) y e) del apartado anterior, se 
@@ -599,7 +599,7 @@ Según orden de prioridad:
 2º. Técnico Superior.
 3º. Bachillerato.
 5%
-* De acuerdo con el art. 111.1.c) del Real Decreto 659/2023, la plazas reservadas forman parte del cómputo de oferta de plazas 
+* De acuerdo con el art. 111.1.c) del [Real Decreto 659/2023](../03_ordenacion_curricular_y_ensenanzas/RD659_2023_dictan_instrucciones_orientaciones_formacion_dual_empresas.md), la plazas reservadas forman parte del cómputo de oferta de plazas 
 únicamente a efectos de desdoble de los módulos profesionales objeto de matriculación, pero no del cómputo total de plazas ofertadas.
 **Anexo IV: vía preferente de formación profesional  por acceder con los títulos profesionales básicos (nivel 1) a formación 
 profesional de Grado Medio (nivel 2). 
@@ -651,7 +651,7 @@ académico.
 solicitudes o un mayor número de solicitudes que de plazas ofertadas en los cupos de 
 reserva para los graduados en Educación Secundaria Obligatoria o Técnico Básico de 
 Formación Profesional se actuará, atendiendo a lo establecido en el artículo 111.2 del 
-Real Decreto 659/2023, empleando la media aritmética de las materias que figuren en el 
+[Real Decreto 659/2023](../03_ordenacion_curricular_y_ensenanzas/RD659_2023_dictan_instrucciones_orientaciones_formacion_dual_empresas.md), empleando la media aritmética de las materias que figuren en el 
 expediente académico de 3.º y 4.º de la ESO o de los ámbitos, los módulos profesionales y 
 proyecto incluidos en el ciclo formativo de grado básico.
 En el caso de persistir empate en este cupo o para el resto de cupos en estos ciclos se 
@@ -675,7 +675,7 @@ de Grado Superior, o la prueba de acceso a la universidad para mayores de 25 añ
 f) Estar en posesión de un título de Técnico Superior de Formación Profesional o grado 
 universitario.
 g) Acreditar algunas de las condiciones establecidas en la disposición adicional sexta 
-del Real Decreto 659/2023, de 18 de julio, por la que se desarrolla la ordenación del Sistema 
+del [Real Decreto 659/2023](../03_ordenacion_curricular_y_ensenanzas/RD659_2023_dictan_instrucciones_orientaciones_formacion_dual_empresas.md), de 18 de julio, por la que se desarrolla la ordenación del Sistema 
 de Formación Profesional del sistema educativo, relativa a otras titulaciones equivalentes 
 a efectos de acceso.
 h) Estar en posesión de cualquier otra titulación equivalente a efectos de acceso 
@@ -729,7 +729,7 @@ efectos académicos.
 4.º Prueba de acceso a la universidad para mayores de 25 años.
 5.º Otras vías de acceso contempladas en la legislación vigente.
 5%
-* De acuerdo con el art. 115.1.c) del Real Decreto 659/2023, las plazas reservadas forman parte del cómputo de oferta de plazas
+* De acuerdo con el art. 115.1.c) del [Real Decreto 659/2023](../03_ordenacion_curricular_y_ensenanzas/RD659_2023_dictan_instrucciones_orientaciones_formacion_dual_empresas.md), las plazas reservadas forman parte del cómputo de oferta de plazas
 únicamente a efectos de desdoble de los módulos profesionales objeto de matriculación, pero no del cómputo total de plazas  
 ofertadas.
 Título de Bachiller o equivalente.
@@ -1591,7 +1591,7 @@ nivel de Canarias y se establecen medidas de apoyo.
 - Alguna de las exenciones contempladas en los reales decretos que establecen los 
 títulos de las Enseñanzas Deportivas.
 - Alguna de las situaciones previstas en el apartado dos de la disposición transitoria 
-segunda del Real Decreto 1363/2007, de 24 de octubre, por el que se establece la ordenación 
+segunda del [Real Decreto 1363/2007](../../../estatal/03_ordenacion_curricular_y_ensenanzas/RD1363_2007_establece_ordenacion_general_ensenanzas_deportivas_regimen.md), de 24 de octubre, por el que se establece la ordenación 
 general de las Enseñanzas Deportivas de Régimen Especial.
 La solicitud de exención se realizará en el momento de formalizar la solicitud de plaza 
 escolar en enseñanzas deportivas de régimen especial, acompañada de la documentación 
@@ -1632,7 +1632,7 @@ Acceso directo
 Para quienes reúnan los requisitos académicos de acceso. 55%
 Para  quienes  acrediten  homologación  de  su  diploma  federativo,  o  convalidación,  o  
 correspondencia, a las que se refiere  la disposición adicional cuarta y la disposición  
-transitoria primera del Real Decreto 1363/2007, de 24 de octubre, por el que se establece  
+transitoria primera del [Real Decreto 1363/2007](../../../estatal/03_ordenacion_curricular_y_ensenanzas/RD1363_2007_establece_ordenacion_general_ensenanzas_deportivas_regimen.md), de 24 de octubre, por el que se establece  
 la ordenación general de las Enseñanzas Deportivas de Régimen Especial.
 10%
 Prueba de acceso
@@ -1822,7 +1822,7 @@ los centros que impartan la oferta deberán prestar especial atención, además,
 asistencia del alumnado una vez iniciado el curso escolar en su sistema informático de 
 gestión, por su incidencia en las plazas disponibles a partir del 31 de octubre de 2025, 
 el proceso de evaluación continua de los módulos y en las posibles acreditaciones y 
-certificaciones que se emitan, de acuerdo con el Real Decreto 659/2023, de 18 de julio, por 
+certificaciones que se emitan, de acuerdo con el [Real Decreto 659/2023](../03_ordenacion_curricular_y_ensenanzas/RD659_2023_dictan_instrucciones_orientaciones_formacion_dual_empresas.md), de 18 de julio, por 
 el que se desarrolla la ordenación del Sistema de Formación Profesional y la normativa en 
 vigor en materia de absentismo en la Comunidad Autónoma de Canarias.
 La Inspección Educativa asesorará y supervisará, en el ámbito de sus competencias, a 
@@ -1932,7 +1932,7 @@ UN CICLO FORMATIVO DE GRADO BÁSICO
 Del análisis anterior se ha concluido que el grado de adquisición de las competencias clave del alumno o  alumna, así como el  
 resto de los aspectos valorados, hace aconsejable:
 Su incorporación a un ciclo formativo de grado básico para el que reúne los requisitos establecidos en el artículo 41.1 de la  
-Ley Orgánica 2/2006, de 3 de mayo, de Educación, modificada por la Ley Orgánica 3/2020, de 29 de diciembre.
+[Ley Orgánica 2/2006](../../../estatal/01_marco_normativo_general_y_organico/LO2_2006_educacion_texto_consolidado_modificaciones_lomloe.md), de 3 de mayo, de Educación, modificada por la Ley Orgánica 3/2020, de 29 de diciembre.
 Por todo ello, en nombre del equipo docente del curso y grupo señalados, en relación con el citado alumno/a, se formula, con  
 carácter orientativo, la propuesta señalada para el próximo curso.
 En ………………………………, a ………. de ……………………….. de 20……..

@@ -45,7 +45,7 @@ fuente_pdf_oficial: https://sede.gobiernodecanarias.org/boc/boc-a-2026-070-1144.
 III. Otras Resoluciones
 Consejería de Educación, Formación Profesional, Actividad Física y Deportes
 1144 Dirección General de Ordenación de las Enseñanzas, Inclusión e Innovación.- 
-Resolución de 26 de marzo de 2026, por la que se convocan los Premios 
+[Resolución de 26 de marzo de 2026](../03_ordenacion_curricular_y_ensenanzas/R26_3_2026_amplian_resolucion_dicta_instrucciones_orientaciones_implantacion.md), por la que se convocan los Premios 
 Extraordinarios de Educación Secundaria Obligatoria en el ámbito de la Comunidad 
 Autónoma de Canarias, correspondientes al curso escolar 2025-2026.
 Al objeto de mejorar la calidad educativa, y de reconocer el esfuerzo y la dedicación del 
@@ -326,7 +326,7 @@ en el ámbito de la Comunidad Autónoma de Canarias, indicando la Lengua Extranj
 y, en su caso, la opción de la materia de Matemáticas cursada. Esta comunicación deberá 
 efectuarse antes del día 15 de octubre de cada año, adoptando las medidas necesarias para 
 garantizar la seguridad y confidencialidad en la cesión de los datos, conforme a lo previsto 
-en la disposición adicional vigesimotercera de la Ley Orgánica 2/2006, de 3 de mayo, de 
+en la disposición adicional vigesimotercera de la [Ley Orgánica 2/2006](../../../estatal/01_marco_normativo_general_y_organico/LO2_2006_educacion_texto_consolidado_modificaciones_lomloe.md), de 3 de mayo, de 
 Educación, en su redacción actual.
 Decimotercero.- Asesoramiento y seguimiento.
 La Inspección de Educación asesorará a los centros educativos y al alumnado 
@@ -334,7 +334,7 @@ participante sobre dicha convocatoria.
 Contra la presente Resolución, que no agota la vía administrativa, cabe interponer 
 recurso de alzada ante la Viceconsejería de Educación, en el plazo de un mes desde su 
 publicación en el Boletín Oficial de Canarias en los términos previstos en los artículos 121 
-y 122 de la Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común de las 
+y 122 de la [Ley 39/2015](../../../estatal/01_marco_normativo_general_y_organico/L39_2015_procedimiento_administrativo_comun_administraciones_publicas.md), de 1 de octubre, del Procedimiento Administrativo Común de las 
 Administraciones Públicas, sin perjuicio de que la persona interesada pueda ejercitar, en su 
 caso, cualquier otro que estime procedente.
 Las Palmas de Gran Canaria, a 26 de marzo de 2026.- El Director General de Ordenación 

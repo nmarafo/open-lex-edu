@@ -46,7 +46,7 @@ Asimismo, reconoce que el Ministerio de Educación podrá ofrecer programas de f
 
 En el artículo 103 encomienda a las Administraciones educativas la planificación de las actividades de formación del profesorado garantizando una oferta diversificada y gratuita y estableciendo las medidas oportunas para favorecer la participación del profesorado. Además, en su artículo 106 garantiza que las actividades de formación, investigación e innovación serán tenidas en cuenta en los concursos de traslado y en la carrera docente.
 
-Por otra parte, el número de instituciones que, en virtud del artículo 102 de la Ley Orgánica 2/2006, de 3 de mayo, de Educación, colaboran en materia de formación permanente del profesorado se ha incrementado considerablemente en los últimos años, siendo necesario unificar y concretar los términos de esta colaboración.
+Por otra parte, el número de instituciones que, en virtud del artículo 102 de la [Ley Orgánica 2/2006](../01_marco_normativo_general_y_organico/LO2_2006_educacion_texto_consolidado_modificaciones_lomloe.md), de 3 de mayo, de Educación, colaboran en materia de formación permanente del profesorado se ha incrementado considerablemente en los últimos años, siendo necesario unificar y concretar los términos de esta colaboración.
 
 Para la elaboración de esta orden han sido consultadas las Comunidades Autónomas en el seno de la Conferencia Sectorial de Educación, las organizaciones sindicales representadas en la Mesa Sectorial y se ha recabado informe del Consejo Escolar del Estado.
 
@@ -62,7 +62,7 @@ La presente Orden tiene por objeto regular el proceso de convocatoria, reconocim
 
 #### Artículo 2. Concepto de formación permanente del profesorado.
 
-Se considera formación permanente del profesorado, a efectos de su reconocimiento por el Ministerio de Educación, el conjunto de actividades formativas dirigidas a mejorar la preparación científica, técnica, didáctica y profesional del profesorado y de todos aquellos que desarrollan su labor docente o especializada en los centros que imparten las enseñanzas reguladas en la Ley Orgánica 2/2006, de Educación, o en los Servicios Técnicos de Educación.
+Se considera formación permanente del profesorado, a efectos de su reconocimiento por el Ministerio de Educación, el conjunto de actividades formativas dirigidas a mejorar la preparación científica, técnica, didáctica y profesional del profesorado y de todos aquellos que desarrollan su labor docente o especializada en los centros que imparten las enseñanzas reguladas en la [Ley Orgánica 2/2006](../01_marco_normativo_general_y_organico/LO2_2006_educacion_texto_consolidado_modificaciones_lomloe.md), de Educación, o en los Servicios Técnicos de Educación.
 
 #### Artículo 3. Entidades organizadoras de la formación.
 
@@ -76,7 +76,7 @@ Se considera formación permanente del profesorado, a efectos de su reconocimien
 
 1. La presente Orden será de aplicación al personal docente en los territorios de Ceuta y Melilla, al de destino en el exterior, al de Servicios Técnicos del Ministerio de Educación, al de centros educativos pertenecientes al Ministerio de Defensa y las entidades que colaboren con el Ministerio de Educación.
 
-2. Las acciones de formación permanente irán dirigidas al profesorado y personal especializado de los centros que imparten las enseñanzas reguladas en la Ley Orgánica 2/2006, de Educación, así como al de los servicios técnicos de apoyo educativo en las citadas enseñanzas.
+2. Las acciones de formación permanente irán dirigidas al profesorado y personal especializado de los centros que imparten las enseñanzas reguladas en la [Ley Orgánica 2/2006](../01_marco_normativo_general_y_organico/LO2_2006_educacion_texto_consolidado_modificaciones_lomloe.md), de Educación, así como al de los servicios técnicos de apoyo educativo en las citadas enseñanzas.
 
 3. Asimismo, podrán asistir personas que no habiendo ejercido la docencia, cumplan todos los requisitos para ello establecidos en la normativa vigente.
 
@@ -288,7 +288,7 @@ i)	Logotipo del Ministerio de Educación, indicando que la actividad está recon
 
 5. La Dirección General de Formación Profesional elaborará las instrucciones correspondientes sobre los plazos y características de las actividades de formación en coherencia con las líneas prioritarias que establezca el Ministerio de Educación en este ámbito.
 
-6. El Ministerio de Educación podrá reconocer actividades organizadas por la Comisión Europea y por otros organismos públicos de carácter internacional de interés para el profesorado de enseñanzas reguladas por la Ley Orgánica 2/2006 de Educación.
+6. El Ministerio de Educación podrá reconocer actividades organizadas por la Comisión Europea y por otros organismos públicos de carácter internacional de interés para el profesorado de enseñanzas reguladas por la [Ley Orgánica 2/2006](../01_marco_normativo_general_y_organico/LO2_2006_educacion_texto_consolidado_modificaciones_lomloe.md) de Educación.
 
 CAPÍTULO IV
 
@@ -434,7 +434,7 @@ e) Documentación acreditativa de que el proyecto se desarrolló en función de 
 
 2. Podrán reconocerse a efectos de formación permanente del profesorado los cursos de Postgrado realizados en Universidades y aprobados por sus respectivas Juntas de Gobierno.
 
-3. La asignación de horas de formación se realizará teniendo en cuenta la duración de la actividad, su relación directa con las enseñanzas reguladas en la Ley Orgánica 2/2006, de Educación, y su incidencia en el desarrollo profesional docente. Se certificarán como máximo 150 horas de formación para estas actividades.
+3. La asignación de horas de formación se realizará teniendo en cuenta la duración de la actividad, su relación directa con las enseñanzas reguladas en la [Ley Orgánica 2/2006](../01_marco_normativo_general_y_organico/LO2_2006_educacion_texto_consolidado_modificaciones_lomloe.md), de Educación, y su incidencia en el desarrollo profesional docente. Se certificarán como máximo 150 horas de formación para estas actividades.
 
 4. El reconocimiento de los certificados, diplomas o cursos de posgrado universitario indicados en los apartados 1 y 2 del presente artículo lo será a los solos efectos de la formación del profesorado. En ningún caso, este reconocimiento sustituye los requisitos académicos o profesionales que se puedan exigir, en su caso, para el acceso a la función pública docente o al ejercicio de una profesión.
 
@@ -466,7 +466,7 @@ Documentación necesaria: Justificante de la realización de la actividad.
 
 #### Artículo 24. Actividades realizadas en el extranjero.
 
-Se reconocerán las actividades de formación del profesorado realizadas en el extranjero y organizadas por organismos oficiales, por Universidades o por Instituciones de formación del profesorado oficialmente reconocidas y que cuenten con prestigio acreditado por las autoridades educativas del respectivo país, siempre que su contenido guarde relación con las enseñanzas reguladas en la Ley Orgánica 2/2006 de Educación.
+Se reconocerán las actividades de formación del profesorado realizadas en el extranjero y organizadas por organismos oficiales, por Universidades o por Instituciones de formación del profesorado oficialmente reconocidas y que cuenten con prestigio acreditado por las autoridades educativas del respectivo país, siempre que su contenido guarde relación con las enseñanzas reguladas en la [Ley Orgánica 2/2006](../01_marco_normativo_general_y_organico/LO2_2006_educacion_texto_consolidado_modificaciones_lomloe.md) de Educación.
 
 Documentación necesaria: Fotocopia compulsada del certificado expedido por cualquiera de las entidades citadas en el párrafo anterior en el que conste que se ha superado la actividad, las horas de duración de la misma, así como el programa de la actividad. Dicho certificado deberá estar emitido en cualquiera de las lenguas oficiales de la Unión Europea e incluir traducción al castellano.
 

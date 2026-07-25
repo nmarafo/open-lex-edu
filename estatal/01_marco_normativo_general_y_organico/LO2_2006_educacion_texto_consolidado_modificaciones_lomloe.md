@@ -437,7 +437,7 @@ Currículo
 
 1. A los efectos de lo dispuesto en esta Ley, se entiende por currículo el conjunto de objetivos, competencias básicas, contenidos, métodos pedagógicos y criterios de evaluación de cada una de las enseñanzas reguladas en la presente Ley.
 
-2. Con el fin de asegurar una formación común y garantizar la validez de los títulos correspondientes, el Gobierno fijará, en relación con los objetivos, competencias básicas, contenidos y criterios de evaluación, los aspectos básicos del currículo que constituyen las enseñanzas mínimas a las que se refiere la disposición adicional primera, apartado 2, letra c) de la Ley Orgánica 8/1985, de 3 de julio, Reguladora del Derecho a la Educación.
+2. Con el fin de asegurar una formación común y garantizar la validez de los títulos correspondientes, el Gobierno fijará, en relación con los objetivos, competencias básicas, contenidos y criterios de evaluación, los aspectos básicos del currículo que constituyen las enseñanzas mínimas a las que se refiere la disposición adicional primera, apartado 2, letra c) de la [Ley Orgánica 8/1985](../02_gestion_y_administracion_centros/LO8_1985_reguladora_derecho_educacion.md), de 3 de julio, Reguladora del Derecho a la Educación.
 
 3. Los contenidos básicos de las enseñanzas mínimas requerirán el 55 por ciento de los horarios escolares para las Comunidades Autónomas que tengan lengua cooficial y el 65 por ciento para aquéllas que no la tengan.
 
@@ -1505,7 +1505,7 @@ Escolarización en centros públicos y privados concertados
 
 #### Artículo 88. Garantías de gratuidad.
 
-1. Para garantizar la posibilidad de escolarizar a todos los alumnos sin discriminación por motivos socioeconómicos, en ningún caso podrán los centros públicos o privados concertados percibir cantidades de las familias por recibir las enseñanzas de carácter gratuito, imponer a las familias la obligación de hacer aportaciones a fundaciones o asociaciones ni establecer servicios obligatorios, asociados a las enseñanzas, que requieran aportación económica, por parte de las familias de los alumnos. En el marco de lo dispuesto en el artículo 51 de la Ley Orgánica 8/1985, de 3 de julio, reguladora del Derecho a la Educación, quedan excluidas de esta categoría las actividades extraescolares, las complementarias, y los servicios escolares, que, en todo caso, tendrán carácter voluntario.
+1. Para garantizar la posibilidad de escolarizar a todos los alumnos sin discriminación por motivos socioeconómicos, en ningún caso podrán los centros públicos o privados concertados percibir cantidades de las familias por recibir las enseñanzas de carácter gratuito, imponer a las familias la obligación de hacer aportaciones a fundaciones o asociaciones ni establecer servicios obligatorios, asociados a las enseñanzas, que requieran aportación económica, por parte de las familias de los alumnos. En el marco de lo dispuesto en el artículo 51 de la [Ley Orgánica 8/1985](../02_gestion_y_administracion_centros/LO8_1985_reguladora_derecho_educacion.md), de 3 de julio, reguladora del Derecho a la Educación, quedan excluidas de esta categoría las actividades extraescolares, las complementarias, y los servicios escolares, que, en todo caso, tendrán carácter voluntario.
 
 2. Las Administraciones educativas dotarán a los centros de los recursos necesarios para hacer posible la gratuidad de las enseñanzas de carácter gratuito.
 
@@ -1599,7 +1599,7 @@ Para impartir las enseñanzas de educación secundaria obligatoria y de bachille
 
 1. Para impartir enseñanzas de idiomas se exigirán los mismos requisitos de titulación y formación establecidos en el artículo 94 para la educación secundaria obligatoria y el bachillerato.
 
-2. Las Administraciones educativas, excepcionalmente, podrán incorporar como profesores especialistas, atendiendo a su cualificación y a las necesidades del sistema educativo, a profesionales, no necesariamente titulados, de nacionalidad extranjera. Dicha incorporación se realizará en régimen laboral o administrativo, de acuerdo con la normativa que resulte de aplicación y deberá cumplirse el contenido de los artículos 9.5 y 36 de la Ley Orgánica 4/2000, de 11 de enero, sobre derechos y libertades de los extranjeros en España y su integración social, salvo en el caso de nacionales de los Estados miembros de la Unión Europea o de aquellos a quienes sea de aplicación el régimen comunitario de extranjería.
+2. Las Administraciones educativas, excepcionalmente, podrán incorporar como profesores especialistas, atendiendo a su cualificación y a las necesidades del sistema educativo, a profesionales, no necesariamente titulados, de nacionalidad extranjera. Dicha incorporación se realizará en régimen laboral o administrativo, de acuerdo con la normativa que resulte de aplicación y deberá cumplirse el contenido de los artículos 9.5 y 36 de la [Ley Orgánica 4/2000](./LO4_2000_derechos_libertades_extranjeros_espana_integracion_social.md), de 11 de enero, sobre derechos y libertades de los extranjeros en España y su integración social, salvo en el caso de nacionales de los Estados miembros de la Unión Europea o de aquellos a quienes sea de aplicación el régimen comunitario de extranjería.
 
 #### Artículo 98. Profesorado de enseñanzas deportivas.
 
@@ -1633,7 +1633,7 @@ El primer curso de ejercicio de la docencia en centros públicos se desarrollar�
 
 1. La formación permanente constituye un derecho y una obligación de todo el profesorado y una responsabilidad de las Administraciones educativas y de los propios centros.
 
-2. Los programas de formación permanente, deberán contemplar la adecuación de los conocimientos y métodos a la evolución de las ciencias y de las didácticas específicas, así como todos aquellos aspectos de coordinación, orientación, tutoría, atención educativa a la diversidad y organización encaminados a mejorar la calidad de la enseñanza y el funcionamiento de los centros. Asimismo, deberán incluir formación específica en materia de igualdad en los términos establecidos en el artículo siete de la Ley Orgánica 1/2004, de 28 de diciembre, de Medidas de Protección Integral contra la Violencia de Género.
+2. Los programas de formación permanente, deberán contemplar la adecuación de los conocimientos y métodos a la evolución de las ciencias y de las didácticas específicas, así como todos aquellos aspectos de coordinación, orientación, tutoría, atención educativa a la diversidad y organización encaminados a mejorar la calidad de la enseñanza y el funcionamiento de los centros. Asimismo, deberán incluir formación específica en materia de igualdad en los términos establecidos en el artículo siete de la [Ley Orgánica 1/2004](../07_convivencia_bienestar_y_protocolos/LO1_2004_medidas_proteccion_integral_contra_violencia_genero.md), de 28 de diciembre, de Medidas de Protección Integral contra la Violencia de Género.
 
 3. Las Administraciones educativas promoverán la utilización de las tecnologías de la información y la comunicación y la formación en lenguas extranjeras de todo el profesorado, independientemente de su especialidad, estableciendo programas específicos de formación en este ámbito. Igualmente, les corresponde fomentar programas de investigación e innovación.
 
@@ -1693,9 +1693,9 @@ Principios generales
 
 #### Artículo 107. Régimen jurídico.
 
-1. Los centros docentes que ofrezcan enseñanzas reguladas en esta Ley se regirán por lo dispuesto en la Ley Orgánica 8/1985, de 3 de julio, Reguladora del Derecho a la Educación, en la presente Ley Orgánica y en las disposiciones que la desarrollen, así como por lo establecido en las demás normas vigentes que les sean de aplicación, sin perjuicio de lo previsto en los apartados siguientes de este artículo.
+1. Los centros docentes que ofrezcan enseñanzas reguladas en esta Ley se regirán por lo dispuesto en la [Ley Orgánica 8/1985](../02_gestion_y_administracion_centros/LO8_1985_reguladora_derecho_educacion.md), de 3 de julio, Reguladora del Derecho a la Educación, en la presente Ley Orgánica y en las disposiciones que la desarrollen, así como por lo establecido en las demás normas vigentes que les sean de aplicación, sin perjuicio de lo previsto en los apartados siguientes de este artículo.
 
-2. En relación con los centros integrados y de referencia nacional de formación profesional se estará a lo dispuesto en la Ley Orgánica 5/2002, de 19 de junio, de las Cualificaciones y de la Formación Profesional y en las normas que la desarrollen.
+2. En relación con los centros integrados y de referencia nacional de formación profesional se estará a lo dispuesto en la [Ley Orgánica 5/2002](../03_ordenacion_curricular_y_ensenanzas/LO5_2002_cualificaciones_formacion_profesional.md), de 19 de junio, de las Cualificaciones y de la Formación Profesional y en las normas que la desarrollen.
 
 3. Corresponde a las Comunidades Autónomas regular la organización de los centros que ofrezcan algunas de las enseñanzas artísticas superiores definidas como tales en el artículo 45 de esta Ley.
 
@@ -1715,7 +1715,7 @@ Principios generales
 
 5. Los centros docentes orientarán su actividad a la consecución de los principios y fines de la educación establecidos en la presente Ley.
 
-6. Los padres o tutores, en relación con la educación de sus hijos o pupilos, tienen derecho, de acuerdo con lo establecido en el artículo 4 de la Ley Orgánica 8/1985, de 3 de julio, reguladora del Derecho a la Educación, a escoger centro docente tanto público como distinto de los creados por los poderes públicos, a los que se refiere el apartado 3 del presente artículo.
+6. Los padres o tutores, en relación con la educación de sus hijos o pupilos, tienen derecho, de acuerdo con lo establecido en el artículo 4 de la [Ley Orgánica 8/1985](../02_gestion_y_administracion_centros/LO8_1985_reguladora_derecho_educacion.md), de 3 de julio, reguladora del Derecho a la Educación, a escoger centro docente tanto público como distinto de los creados por los poderes públicos, a los que se refiere el apartado 3 del presente artículo.
 
 #### Artículo 109. Programación de la red de centros.
 
@@ -1797,7 +1797,7 @@ Centros privados concertados
 
 2. Entre los centros que cumplan los requisitos establecidos en el apartado anterior, tendrán preferencia para acogerse al régimen de conciertos aquellos que, atiendan a poblaciones escolares de condiciones económicas desfavorables o los que realicen experiencias de interés pedagógico para el sistema educativo. En todo caso, tendrán preferencia los centros que, cumpliendo los criterios anteriormente señalados, estén constituidos y funcionen en régimen de cooperativa.
 
-3. Corresponde al Gobierno establecer los aspectos básicos a los que deben someterse los conciertos. Estos aspectos se referirán al cumplimiento de los requisitos previstos en la Ley Orgánica 8/1985, de 3 de julio, del Derecho a la Educación y en las normas que le sean de aplicación de la presente Ley, a la tramitación de la solicitud, la duración máxima del concierto y las causas de extinción, a las obligaciones de la titularidad del centro concertado y de la Administración educativa, al sometimiento del concierto al derecho administrativo, a las singularidades del régimen del profesorado sin relación laboral, a la constitución del Consejo Escolar del centro al que se otorga el concierto y a la designación del director.
+3. Corresponde al Gobierno establecer los aspectos básicos a los que deben someterse los conciertos. Estos aspectos se referirán al cumplimiento de los requisitos previstos en la [Ley Orgánica 8/1985](../02_gestion_y_administracion_centros/LO8_1985_reguladora_derecho_educacion.md), de 3 de julio, del Derecho a la Educación y en las normas que le sean de aplicación de la presente Ley, a la tramitación de la solicitud, la duración máxima del concierto y las causas de extinción, a las obligaciones de la titularidad del centro concertado y de la Administración educativa, al sometimiento del concierto al derecho administrativo, a las singularidades del régimen del profesorado sin relación laboral, a la constitución del Consejo Escolar del centro al que se otorga el concierto y a la designación del director.
 
 4. Corresponde a las Comunidades Autónomas dictar las normas necesarias para el desarrollo del régimen de conciertos educativos, de acuerdo con lo previsto en el presente artículo y en el marco de lo dispuesto en los artículos 108 y 109. El concierto establecerá los derechos y obligaciones recíprocas en cuanto a régimen económico, duración, prórroga y extinción del mismo, número de unidades escolares concertadas y demás condiciones, con sujeción a las disposiciones reguladoras del régimen de conciertos.
 
@@ -1845,13 +1845,13 @@ Participación en el funcionamiento y el gobierno de los centros
 
 1. La participación es un valor básico para la formación de ciudadanos autónomos, libres, responsables y comprometidos con los principios y valores de la Constitución.
 
-2. La participación, autonomía y gobierno de los centros que ofrezcan enseñanzas reguladas en esta Ley se ajustarán a lo dispuesto en ella y en la Ley Orgánica 8/1985, de 3 de julio, Reguladora del Derecho a la Educación, y en las normas que se dicten en desarrollo de las mismas.
+2. La participación, autonomía y gobierno de los centros que ofrezcan enseñanzas reguladas en esta Ley se ajustarán a lo dispuesto en ella y en la [Ley Orgánica 8/1985](../02_gestion_y_administracion_centros/LO8_1985_reguladora_derecho_educacion.md), de 3 de julio, Reguladora del Derecho a la Educación, y en las normas que se dicten en desarrollo de las mismas.
 
 3. Las Administraciones educativas fomentarán, en el ámbito de su competencia, el ejercicio efectivo de la participación de alumnado, profesorado, familias y personal de administración y servicios en los centros educativos.
 
 4. A fin de hacer efectiva la corresponsabilidad entre el profesorado y las familias en la educación de sus hijos, las Administraciones educativas adoptarán medidas que promuevan e incentiven la colaboración efectiva entre la familia y la escuela.
 
-5. En relación con los centros integrados y de referencia nacional de formación profesional se estará a lo dispuesto en la Ley Orgánica 5/2002, de 19 de junio, de las Cualificaciones y de la Formación Profesional y en las normas que la desarrollen.
+5. En relación con los centros integrados y de referencia nacional de formación profesional se estará a lo dispuesto en la [Ley Orgánica 5/2002](../03_ordenacion_curricular_y_ensenanzas/LO5_2002_cualificaciones_formacion_profesional.md), de 19 de junio, de las Cualificaciones y de la Formación Profesional y en las normas que la desarrollen.
 
 6. Corresponde a las Administraciones educativas regular la participación en los centros que impartan enseñanzas artísticas superiores de acuerdo con la normativa básica que establezca el Gobierno.
 
@@ -1891,7 +1891,7 @@ Autonomía de los centros
 
 1. El proyecto educativo del centro recogerá los valores, los objetivos y las prioridades de actuación. Asimismo, incorporará la concreción de los currículos establecidos por la Administración educativa que corresponde fijar y aprobar al Claustro, así como el tratamiento transversal en las áreas, materias o módulos de la educación en valores y otras enseñanzas.
 
-2. Dicho proyecto, que deberá tener en cuenta las características del entorno social y cultural del centro, recogerá la forma de atención a la diversidad del alumnado y la acción tutorial, así como el plan de convivencia, y deberá respetar el principio de no discriminación y de inclusión educativa como valores fundamentales, así como los principios y objetivos recogidos en esta Ley y en la Ley Orgánica 8/1985, de 3 de julio, Reguladora del Derecho a la Educación.
+2. Dicho proyecto, que deberá tener en cuenta las características del entorno social y cultural del centro, recogerá la forma de atención a la diversidad del alumnado y la acción tutorial, así como el plan de convivencia, y deberá respetar el principio de no discriminación y de inclusión educativa como valores fundamentales, así como los principios y objetivos recogidos en esta Ley y en la [Ley Orgánica 8/1985](../02_gestion_y_administracion_centros/LO8_1985_reguladora_derecho_educacion.md), de 3 de julio, Reguladora del Derecho a la Educación.
 
 3. Corresponde a las Administraciones educativas establecer el marco general que permita a los centros públicos y privados concertados elaborar sus proyectos educativos, que deberán hacerse públicos con objeto de facilitar su conocimiento por el conjunto de la comunidad educativa. Asimismo, corresponde a las Administraciones educativas contribuir al desarrollo del currículo favoreciendo la elaboración de modelos abiertos de programación docente y de materiales didácticos que atiendan a las distintas necesidades de los alumnos y del profesorado.
 
@@ -2361,7 +2361,7 @@ En todo caso, la propuesta para la docencia corresponderá a las entidades relig
 
 1. En el ejercicio de la autonomía pedagógica, corresponde a los órganos de coordinación didáctica de los centros públicos adoptar los libros de texto y demás materiales que hayan de utilizarse en el desarrollo de las diversas enseñanzas.
 
-2. La edición y adopción de los libros de texto y demás materiales no requerirán la previa autorización de la Administración educativa. En todo caso, éstos deberán adaptarse al rigor científico adecuado a las edades de los alumnos y al currículo aprobado por cada Administración educativa. Asimismo, deberán reflejar y fomentar el respeto a los principios, valores, libertades, derechos y deberes constitucionales, así como a los principios y valores recogidos en la presente Ley y en la Ley Orgánica 1/2004, de 28 de diciembre, de Medidas de Protección Integral contra la Violencia de Género, a los que ha de ajustarse toda la actividad educativa.
+2. La edición y adopción de los libros de texto y demás materiales no requerirán la previa autorización de la Administración educativa. En todo caso, éstos deberán adaptarse al rigor científico adecuado a las edades de los alumnos y al currículo aprobado por cada Administración educativa. Asimismo, deberán reflejar y fomentar el respeto a los principios, valores, libertades, derechos y deberes constitucionales, así como a los principios y valores recogidos en la presente Ley y en la [Ley Orgánica 1/2004](../07_convivencia_bienestar_y_protocolos/LO1_2004_medidas_proteccion_integral_contra_violencia_genero.md), de 28 de diciembre, de Medidas de Protección Integral contra la Violencia de Género, a los que ha de ajustarse toda la actividad educativa.
 
 3. La supervisión de los libros de texto y otros materiales curriculares constituirá parte del proceso ordinario de inspección que ejerce la Administración educativa sobre la totalidad de elementos que integran el proceso de enseñanza y aprendizaje, que debe velar por el respeto a los principios y valores contenidos en la Constitución y a lo dispuesto en la presente Ley.
 
@@ -2371,7 +2371,7 @@ El calendario escolar, que fijarán anualmente las Administraciones educativas, 
 
 #### Disposición adicional sexta. Bases del régimen estatutario de la función pública docente.
 
-1. Son bases del régimen estatutario de los funcionarios públicos docentes, además de las recogidas, con tal carácter, en la Ley 30/1984, de 2 de agosto, de Medidas para la Reforma de la Función Pública, modificada por la Ley 23/1988, de 28 de julio, las reguladas por esta Ley y la normativa que la desarrolle, para el ingreso, la movilidad entre los cuerpos docentes, la reordenación de los cuerpos y escalas, y la provisión de plazas mediante concursos de traslados de ámbito estatal. El Gobierno desarrollará reglamentariamente dichas bases en aquellos aspectos básicos que sean necesarios para garantizar el marco común básico de la función pública docente.
+1. Son bases del régimen estatutario de los funcionarios públicos docentes, además de las recogidas, con tal carácter, en la [Ley 30/1984](./L30_1984_medidas_reforma_funcion_publica.md), de 2 de agosto, de Medidas para la Reforma de la Función Pública, modificada por la Ley 23/1988, de 28 de julio, las reguladas por esta Ley y la normativa que la desarrolle, para el ingreso, la movilidad entre los cuerpos docentes, la reordenación de los cuerpos y escalas, y la provisión de plazas mediante concursos de traslados de ámbito estatal. El Gobierno desarrollará reglamentariamente dichas bases en aquellos aspectos básicos que sean necesarios para garantizar el marco común básico de la función pública docente.
 
 2. Las Comunidades Autónomas ordenarán su función pública docente en el marco de sus competencias, respetando, en todo caso, las normas básicas a que se hace referencia en el apartado anterior.
 
@@ -2435,7 +2435,7 @@ e) La presidencia de los tribunales de acceso y en su caso ingreso a los respect
 
 3. En el momento de hacerse efectiva la integración en los cuerpos de catedráticos de enseñanza secundaria, de catedráticos de escuelas oficiales de idiomas y de catedráticos de artes plásticas y diseño, los funcionarios de los respectivos cuerpos con la condición de catedrático se incorporarán con la antigüedad que tuvieran en dicha condición y se les respetarán los derechos de que vinieran disfrutando en el momento de hacerse efectiva la integración, incluidos los derechos económicos reconocidos a los funcionarios provenientes del cuerpo de catedráticos numerarios de bachillerato. La integración en los distintos cuerpos de catedráticos se hará efectiva en los mismos puestos que tuvieran asignados en el momento de la misma.
 
-4. La habilitación prevista en la disposición adicional primera de la Ley Orgánica 5/2002, de 19 de junio, de las Cualificaciones y de la Formación profesional, se extenderá a los funcionarios de los cuerpos de catedráticos de enseñanza secundaria en las condiciones y con los requisitos establecidos en dicha Ley.
+4. La habilitación prevista en la disposición adicional primera de la [Ley Orgánica 5/2002](../03_ordenacion_curricular_y_ensenanzas/LO5_2002_cualificaciones_formacion_profesional.md), de 19 de junio, de las Cualificaciones y de la Formación profesional, se extenderá a los funcionarios de los cuerpos de catedráticos de enseñanza secundaria en las condiciones y con los requisitos establecidos en dicha Ley.
 
 5. Los funcionarios de los correspondientes cuerpos de catedráticos de enseñanza secundaria, escuelas oficiales de idiomas y de artes plásticas y diseño participarán en los concursos de provisión de puestos conjuntamente con los funcionarios de los cuerpos de profesores de los niveles correspondientes, a las mismas vacantes, sin perjuicio de los méritos específicos que les sean de aplicación por su pertenencia a los mencionados cuerpos de catedráticos.
 
@@ -2517,7 +2517,7 @@ Los candidatos seleccionados mediante el concurso-oposición deberán realizar p
 
 Los funcionarios del cuerpo de inspectores al servicio de la Administración educativa de las Comunidades Autónomas con destino definitivo, e integrados en los correspondientes cuerpos de acuerdo con la normativa dictada por aquéllas, tendrán derecho, a efectos de movilidad a participar en los concursos para la provisión de puestos de la inspección de educación.
 
-2. Aquellos funcionarios de los cuerpos docentes que accedieron a la función inspectora de conformidad con las disposiciones de la Ley 30/1984, de 2 de agosto, de Medidas para la Reforma de la Función Pública, modificada por la Ley 23/1988, de 28 de julio, y que no hubieran accedido al cuerpo de Inspectores de educación a la entrada en vigor de esta Ley, podrán continuar desempeñando la función inspectora con carácter definitivo y hasta su jubilación como funcionarios, de conformidad con las disposiciones por las que accedieron al mismo.
+2. Aquellos funcionarios de los cuerpos docentes que accedieron a la función inspectora de conformidad con las disposiciones de la [Ley 30/1984](./L30_1984_medidas_reforma_funcion_publica.md), de 2 de agosto, de Medidas para la Reforma de la Función Pública, modificada por la Ley 23/1988, de 28 de julio, y que no hubieran accedido al cuerpo de Inspectores de educación a la entrada en vigor de esta Ley, podrán continuar desempeñando la función inspectora con carácter definitivo y hasta su jubilación como funcionarios, de conformidad con las disposiciones por las que accedieron al mismo.
 
 #### Disposición adicional decimocuarta. Centros autorizados para impartir la modalidad de ciencias de la naturaleza y de la salud y la modalidad de tecnología en bachillerato.
 
@@ -2543,7 +2543,7 @@ En lo que se refiere a las corporaciones locales, se establecerán procedimiento
 
 #### Disposición adicional decimosexta. Denominación de las etapas educativas.
 
-Las referencias, contenidas en la Ley Orgánica 8/1985, de 3 de julio, Reguladora del Derecho a la Educación, a los niveles educativos se entienden sustituidas por las denominaciones que, para los distintos niveles y etapas educativas y para los respectivos centros, se establecen en esta Ley.
+Las referencias, contenidas en la [Ley Orgánica 8/1985](../02_gestion_y_administracion_centros/LO8_1985_reguladora_derecho_educacion.md), de 3 de julio, Reguladora del Derecho a la Educación, a los niveles educativos se entienden sustituidas por las denominaciones que, para los distintos niveles y etapas educativas y para los respectivos centros, se establecen en esta Ley.
 
 #### Disposición adicional decimoséptima. Claustro de profesores de los centros privados concertados.
 
@@ -2555,7 +2555,7 @@ La referencia en el articulado de esta Ley a las consultas previas a las Comunid
 
 #### Disposición adicional decimonovena. Alumnado extranjero.
 
-Lo establecido en esta Ley en relación con la escolarización, obtención de títulos y acceso al sistema general de becas y ayudas al estudio será aplicable al alumnado extranjero en los términos establecidos en la Ley Orgánica 4/2000, de 11 de enero, sobre derechos y libertades de los Extranjeros en España y su integración social, modificada por la Ley Orgánica 8/2000, de 22 de diciembre, y en la normativa que las desarrolla.
+Lo establecido en esta Ley en relación con la escolarización, obtención de títulos y acceso al sistema general de becas y ayudas al estudio será aplicable al alumnado extranjero en los términos establecidos en la [Ley Orgánica 4/2000](./LO4_2000_derechos_libertades_extranjeros_espana_integracion_social.md), de 11 de enero, sobre derechos y libertades de los Extranjeros en España y su integración social, modificada por la Ley Orgánica 8/2000, de 22 de diciembre, y en la normativa que las desarrolla.
 
 #### Disposición adicional vigésima. Atención a las víctimas del terrorismo.
 
@@ -2615,7 +2615,7 @@ Las Comunidades Autónomas podrán integrar en la respectiva red de centros doce
 
 1. El título de Graduado Escolar de la Ley 14/1970, de 4 de agosto, General de Educación y Financiamiento de la Reforma Educativa y el título de Graduado en Educación Secundaria de la Ley Orgánica 3/1990, de 3 de octubre, de Ordenación General del Sistema Educativo, tendrán los mismos efectos profesionales que el título de Graduado en Educación Secundaria Obligatoria establecido en la presente Ley.
 
-2. Los títulos de Bachiller de la Ley 14/1970, de 4 de agosto, General de Educación y Financiamiento de la Reforma Educativa y de la Ley Orgánica 1/1990, de 3 de octubre, de Ordenación General del Sistema Educativo, tendrán los mismos efectos profesionales que el nuevo título de Bachiller establecido en la presente Ley.
+2. Los títulos de Bachiller de la Ley 14/1970, de 4 de agosto, General de Educación y Financiamiento de la Reforma Educativa y de la [Ley Orgánica 1/1990](../02_gestion_y_administracion_centros/LO1_1990_regula_regimen_equivalencias_estudios_basicos_medios.md), de 3 de octubre, de Ordenación General del Sistema Educativo, tendrán los mismos efectos profesionales que el nuevo título de Bachiller establecido en la presente Ley.
 
 3. El título de Técnico Auxiliar de la Ley 14/1970, de 4 de agosto, General de Educación y Financiamiento de la Reforma Educativa tendrá los mismos efectos académicos que el título de Graduado en Educación Secundaria y los mismos efectos profesionales que el título de Técnico de la correspondiente profesión.
 
@@ -2627,15 +2627,15 @@ En el periodo de aplicación de esta Ley el Gobierno, según lo dispuesto en el 
 
 #### Disposición transitoria primera. Maestros adscritos a los cursos primero y segundo de la educación secundaria obligatoria.
 
-1. Los funcionarios del cuerpo de maestros adscritos con carácter definitivo, en aplicación de la disposición transitoria cuarta de la Ley Orgánica 1/1990, de 3 de octubre, de Ordenación General del Sistema Educativo, a puestos de los dos primeros cursos de la educación secundaria obligatoria, podrán continuar en dichos puestos indefinidamente, así como ejercer su movilidad en relación con las vacantes que a tal fin determine cada Administración educativa. En el supuesto de que accedieran al cuerpo de profesores de enseñanza secundaria conforme a lo previsto en la disposición adicional duodécima de esta Ley, podrán permanecer en su mismo destino en los términos que se establezcan.
+1. Los funcionarios del cuerpo de maestros adscritos con carácter definitivo, en aplicación de la disposición transitoria cuarta de la [Ley Orgánica 1/1990](../02_gestion_y_administracion_centros/LO1_1990_regula_regimen_equivalencias_estudios_basicos_medios.md), de 3 de octubre, de Ordenación General del Sistema Educativo, a puestos de los dos primeros cursos de la educación secundaria obligatoria, podrán continuar en dichos puestos indefinidamente, así como ejercer su movilidad en relación con las vacantes que a tal fin determine cada Administración educativa. En el supuesto de que accedieran al cuerpo de profesores de enseñanza secundaria conforme a lo previsto en la disposición adicional duodécima de esta Ley, podrán permanecer en su mismo destino en los términos que se establezcan.
 
-2. Los maestros que, en aplicación a la disposición transitoria octava de la Ley Orgánica 1/1990, de 3 de octubre, de Ordenación General del Sistema Educativo, vengan impartiendo los dos primeros cursos de la educación secundaria obligatoria en centros docentes privados, podrán continuar realizando la misma función en los puestos que vienen ocupando.
+2. Los maestros que, en aplicación a la disposición transitoria octava de la [Ley Orgánica 1/1990](../02_gestion_y_administracion_centros/LO1_1990_regula_regimen_equivalencias_estudios_basicos_medios.md), de 3 de octubre, de Ordenación General del Sistema Educativo, vengan impartiendo los dos primeros cursos de la educación secundaria obligatoria en centros docentes privados, podrán continuar realizando la misma función en los puestos que vienen ocupando.
 
 #### Disposición transitoria segunda. Jubilación voluntaria anticipada.
 
 1. Los funcionarios de carrera de los cuerpos docentes a los que se refiere la disposición adicional séptima de la presente Ley, así como los funcionarios de los cuerpos a extinguir a que se refiere la disposición transitoria quinta de la Ley 31/1991, de Presupuestos Generales del Estado para el año 1992, incluidos en el ámbito de aplicación del régimen de clases pasivas del Estado, podrán optar a un régimen de jubilación voluntaria hasta la fecha en que finalice el proceso de implantación de la presente Ley establecido en la disposición adicional primera, siempre que reúnan todos y cada uno de los requisitos siguientes:
 
-a) Haber permanecido en activo ininterrumpidamente en los quince años anteriores a la presentación de la solicitud en puestos pertenecientes a las correspondientes plantillas de centros docentes, o que durante una parte de ese periodo hayan permanecido en la situación de servicios especiales o hayan ocupado un puesto de trabajo que dependa funcional u orgánicamente de las Administraciones educativas, o bien les haya sido concedida excedencia por alguno de los supuestos contemplados en el artículo 29, apartado 4 de la Ley 30/1984, de 2 de agosto, de Medidas para la Reforma de la Función Pública, modificado por la Ley 39/1999, de 5 de noviembre, y por la Ley 51/2003, de 2 de diciembre.
+a) Haber permanecido en activo ininterrumpidamente en los quince años anteriores a la presentación de la solicitud en puestos pertenecientes a las correspondientes plantillas de centros docentes, o que durante una parte de ese periodo hayan permanecido en la situación de servicios especiales o hayan ocupado un puesto de trabajo que dependa funcional u orgánicamente de las Administraciones educativas, o bien les haya sido concedida excedencia por alguno de los supuestos contemplados en el artículo 29, apartado 4 de la [Ley 30/1984](./L30_1984_medidas_reforma_funcion_publica.md), de 2 de agosto, de Medidas para la Reforma de la Función Pública, modificado por la Ley 39/1999, de 5 de noviembre, y por la Ley 51/2003, de 2 de diciembre.
 
 b) Tener cumplidos sesenta años de edad.
 
@@ -2643,7 +2643,7 @@ c) Tener acreditados quince años de servicios efectivos al Estado.
 
 Los requisitos de edad y periodo de carencia exigidos en las letras b) y c) anteriores, deberán haberse cumplido en la fecha del hecho causante de la pensión de jubilación, que será a este efecto el 31 de agosto del año en que se solicite. A tal fin deberá formularse la solicitud, ante el órgano de jubilación correspondiente, dentro de los dos primeros meses del año en que se pretenda acceder a la jubilación voluntaria.
 
-Igualmente, podrán optar a dicho régimen de jubilación los funcionarios de los cuerpos de inspectores de educación, de inspectores al servicio de la Administración educativa y de directores escolares de enseñanza primaria, así como los funcionarios docentes adscritos a la función inspectora a que se refiere la disposición adicional decimoquinta de la Ley 30/1984, de 2 de agosto, de Medidas para la Reforma de la Función Pública modificada por la Ley 23/1988, de 28 de julio, siempre que en todos los casos reúnan los requisitos anteriores, salvo en lo que se refiere a la adscripción a puestos pertenecientes a las plantillas de los centros docentes.
+Igualmente, podrán optar a dicho régimen de jubilación los funcionarios de los cuerpos de inspectores de educación, de inspectores al servicio de la Administración educativa y de directores escolares de enseñanza primaria, así como los funcionarios docentes adscritos a la función inspectora a que se refiere la disposición adicional decimoquinta de la [Ley 30/1984](./L30_1984_medidas_reforma_funcion_publica.md), de 2 de agosto, de Medidas para la Reforma de la Función Pública modificada por la Ley 23/1988, de 28 de julio, siempre que en todos los casos reúnan los requisitos anteriores, salvo en lo que se refiere a la adscripción a puestos pertenecientes a las plantillas de los centros docentes.
 
 2. La cuantía de la pensión de jubilación será la que resulte de aplicar, a los haberes reguladores que en cada caso procedan, el porcentaje de cálculo correspondiente a la suma de los años de servicios efectivos prestados al Estado que, de acuerdo con la legislación de Clases Pasivas, tenga acreditados el funcionario al momento de la jubilación voluntaria y del período de tiempo que le falte hasta el cumplimiento de la edad de sesenta y cinco años.
 
@@ -2693,7 +2693,7 @@ Los profesores que estando acreditados para el ejercicio de la dirección de los
 
 #### Disposición transitoria octava. Formación pedagógica y didáctica.
 
-Los títulos Profesionales de Especialización Didáctica y el Certificado de Cualificación Pedagógica que a la entrada en vigor de esta Ley hubieran organizado las universidades al amparo de lo establecido en la Ley Orgánica 1/1990, de 3 de octubre, de Ordenación General del Sistema Educativo, el Certificado de Aptitud Pedagógica y otras certificaciones que el Gobierno pueda establecer serán equivalentes a la formación establecida en el artículo 100.2 de esta Ley, hasta tanto se regule para cada enseñanza. Estarán exceptuados de la exigencia de este título los maestros y los licenciados en pedagogía y psicopedagogía y quienes estén en posesión de licenciatura o titulación equivalente que incluya formación pedagógica y didáctica.
+Los títulos Profesionales de Especialización Didáctica y el Certificado de Cualificación Pedagógica que a la entrada en vigor de esta Ley hubieran organizado las universidades al amparo de lo establecido en la [Ley Orgánica 1/1990](../02_gestion_y_administracion_centros/LO1_1990_regula_regimen_equivalencias_estudios_basicos_medios.md), de 3 de octubre, de Ordenación General del Sistema Educativo, el Certificado de Aptitud Pedagógica y otras certificaciones que el Gobierno pueda establecer serán equivalentes a la formación establecida en el artículo 100.2 de esta Ley, hasta tanto se regule para cada enseñanza. Estarán exceptuados de la exigencia de este título los maestros y los licenciados en pedagogía y psicopedagogía y quienes estén en posesión de licenciatura o titulación equivalente que incluya formación pedagógica y didáctica.
 
 #### Disposición transitoria novena. Adaptación de los centros.
 
@@ -2755,7 +2755,7 @@ Los procedimientos de admisión de alumnos se adaptarán a lo previsto en el cap
 
 a) Ley 14/1970, de 4 de agosto, General de Educación y Financiamiento de la Reforma Educativa.
 
-b) Ley Orgánica 1/1990, de 3 de octubre, de Ordenación General del Sistema Educativo.
+b) [Ley Orgánica 1/1990](../02_gestion_y_administracion_centros/LO1_1990_regula_regimen_equivalencias_estudios_basicos_medios.md), de 3 de octubre, de Ordenación General del Sistema Educativo.
 
 c) Ley Orgánica 9/1995, de 20 de noviembre, de Participación, Evaluación y Gobierno de los Centros Docentes.
 
@@ -2765,9 +2765,9 @@ e) Ley 24/1994, de 12 de julio, por la que se establecen normas sobre concursos 
 
 2. Asimismo, quedan derogadas cuantas disposiciones de igual o inferior rango se opongan a lo dispuesto en la presente Ley.
 
-#### Disposición final primera. Modificación de la Ley Orgánica 8/1985, de 3 de julio, reguladora del Derecho a la Educación.
+#### Disposición final primera. Modificación de la [Ley Orgánica 8/1985](../02_gestion_y_administracion_centros/LO8_1985_reguladora_derecho_educacion.md), de 3 de julio, reguladora del Derecho a la Educación.
 
-1. El artículo 4 de la Ley Orgánica 8/1985, de 3 de julio, reguladora del Derecho a la Educación, queda redactado de la siguiente manera:
+1. El artículo 4 de la [Ley Orgánica 8/1985](../02_gestion_y_administracion_centros/LO8_1985_reguladora_derecho_educacion.md), de 3 de julio, reguladora del Derecho a la Educación, queda redactado de la siguiente manera:
 
 «1. Los padres o tutores, en relación con la educación de sus hijos o pupilos, tienen los siguientes derechos:
 
@@ -2801,11 +2801,11 @@ f) Respetar y hacer respetar las normas establecidas por el centro, la autoridad
 
 g) Fomentar el respeto por todos los componentes de la comunidad educativa.»
 
-2. El artículo 5.5 de la Ley Orgánica 8/1985, de 3 de julio, reguladora del Derecho a la Educación, queda redactado de la siguiente manera:
+2. El artículo 5.5 de la [Ley Orgánica 8/1985](../02_gestion_y_administracion_centros/LO8_1985_reguladora_derecho_educacion.md), de 3 de julio, reguladora del Derecho a la Educación, queda redactado de la siguiente manera:
 
 «Las Administraciones educativas favorecerán el ejercicio del derecho de asociación de los padres, así como la formación de federaciones y confederaciones.»
 
-3. El artículo 6 de la Ley Orgánica 8/1985, de 3 de julio, reguladora del Derecho a la Educación, queda redactado de la siguiente manera:
+3. El artículo 6 de la [Ley Orgánica 8/1985](../02_gestion_y_administracion_centros/LO8_1985_reguladora_derecho_educacion.md), de 3 de julio, reguladora del Derecho a la Educación, queda redactado de la siguiente manera:
 
 «1. Todos los alumnos tienen los mismos derechos y deberes, sin más distinciones que las derivadas de su edad y del nivel que estén cursando.
 
@@ -2849,23 +2849,23 @@ g) Respetar las normas de organización, convivencia y disciplina del centro edu
 
 h) Conservar y hacer un buen uso de las instalaciones del centro y materiales didácticos.»
 
-4. Al artículo 7 de la Ley Orgánica 8/1985, de 3 de julio, reguladora del Derecho a la Educación, se le añade un nuevo apartado, con la siguiente redacción:
+4. Al artículo 7 de la [Ley Orgánica 8/1985](../02_gestion_y_administracion_centros/LO8_1985_reguladora_derecho_educacion.md), de 3 de julio, reguladora del Derecho a la Educación, se le añade un nuevo apartado, con la siguiente redacción:
 
 «3. Las Administraciones educativas favorecerán el ejercicio del derecho de asociación de los alumnos, así como la formación de federaciones y confederaciones.»
 
-5. Al artículo 8 de la Ley Orgánica 8/1985, de 3 de julio, reguladora del Derecho a la Educación, se le añade un nuevo párrafo con la siguiente redacción:
+5. Al artículo 8 de la [Ley Orgánica 8/1985](../02_gestion_y_administracion_centros/LO8_1985_reguladora_derecho_educacion.md), de 3 de julio, reguladora del Derecho a la Educación, se le añade un nuevo párrafo con la siguiente redacción:
 
 «A fin de estimular el ejercicio efectivo de la participación de los alumnos en los centros educativos y facilitar su derecho de reunión, los centros educativos establecerán, al elaborar sus normas de organización y funcionamiento, las condiciones en las que sus alumnos pueden ejercer este derecho. En los términos que establezcan las Administraciones educativas, las decisiones colectivas que adopten los alumnos, a partir del tercer curso de la educación secundaria obligatoria, con respecto a la asistencia a clase no tendrán la consideración de faltas de conducta ni serán objeto de sanción, cuando éstas hayan sido resultado del ejercicio del derecho de reunión y sean comunicadas previamente a la dirección del centro.»
 
-6. El artículo 25 de la Ley Orgánica 8/1985, de 3 de julio, reguladora del Derecho a la Educación, tendrá la siguiente redacción:
+6. El artículo 25 de la [Ley Orgánica 8/1985](../02_gestion_y_administracion_centros/LO8_1985_reguladora_derecho_educacion.md), de 3 de julio, reguladora del Derecho a la Educación, tendrá la siguiente redacción:
 
 «Dentro de las disposiciones de la presente Ley y normas que la desarrollan, los centros privados no concertados gozarán de autonomía para establecer su régimen interno, seleccionar su profesorado de acuerdo con la titulación exigida por la legislación vigente, elaborar el proyecto educativo, organizar la jornada en función de las necesidades sociales y educativas de sus alumnos, ampliar el horario lectivo de áreas o materias, determinar el procedimiento de admisión de alumnos, establecer las normas de convivencia y definir su régimen económico.»
 
-7. Al artículo 31 de la Ley Orgánica 8/1985, de 3 de julio, reguladora del Derecho a la Educación, se le añade una nueva letra n) con el siguiente texto:
+7. Al artículo 31 de la [Ley Orgánica 8/1985](../02_gestion_y_administracion_centros/LO8_1985_reguladora_derecho_educacion.md), de 3 de julio, reguladora del Derecho a la Educación, se le añade una nueva letra n) con el siguiente texto:
 
 «n) Los Consejos Escolares de ámbito autonómico.»
 
-8. El artículo 56.1 de la Ley Orgánica 8/1985, de 3 de julio, reguladora del Derecho a la Educación, tendrá la siguiente redacción:
+8. El artículo 56.1 de la [Ley Orgánica 8/1985](../02_gestion_y_administracion_centros/LO8_1985_reguladora_derecho_educacion.md), de 3 de julio, reguladora del Derecho a la Educación, tendrá la siguiente redacción:
 
 «1. El Consejo Escolar de los centros privados concertados estará constituido por:
 
@@ -2891,7 +2891,7 @@ Uno de los representantes de los padres en el Consejo Escolar será designado po
 
 Asimismo, los centros concertados que impartan formación profesional podrán incorporar a su Consejo Escolar un representante del mundo de la empresa, designado por las organizaciones empresariales, de acuerdo con el procedimiento que las Administraciones educativas establezcan.»
 
-9. El artículo 57 de la Ley Orgánica 8/1985, de 3 de julio, reguladora del Derecho a la Educación, tendrá la siguiente redacción en sus apartados c), d), f) y m):
+9. El artículo 57 de la [Ley Orgánica 8/1985](../02_gestion_y_administracion_centros/LO8_1985_reguladora_derecho_educacion.md), de 3 de julio, reguladora del Derecho a la Educación, tendrá la siguiente redacción en sus apartados c), d), f) y m):
 
 «c) Participar en el proceso de admisión de alumnos, garantizando la sujeción a las normas sobre el mismo.
 
@@ -2901,7 +2901,7 @@ f) Aprobar y evaluar la programación general del centro que con carácter anual
 
 m) Proponer medidas e iniciativas que favorezcan la convivencia en el centro, la igualdad entre hombres y mujeres y la resolución pacífica de conflictos en todos los ámbitos de la vida personal, familiar y social.»
 
-10. El artículo 62 de la Ley Orgánica 8/1985, de 3 de julio, reguladora del Derecho a la Educación, tendrá la siguiente redacción:
+10. El artículo 62 de la [Ley Orgánica 8/1985](../02_gestion_y_administracion_centros/LO8_1985_reguladora_derecho_educacion.md), de 3 de julio, reguladora del Derecho a la Educación, tendrá la siguiente redacción:
 
 «1. Son causa de incumplimiento leve del concierto por parte del titular del centro las siguientes:
 
@@ -2953,9 +2953,9 @@ b) Si el titular no subsanase el incumplimiento leve, la administración impondr
 
 7. El incumplimiento y la sanción muy grave prescribirán a los tres años, el grave a los dos años y el leve al año. El plazo de prescripción se interrumpirá con la constitución de la Comisión de Conciliación para la corrección del incumplimiento cometido por el centro concertado.»
 
-#### Disposición final segunda. Modificación de la Ley 30/1984, de 2 de agosto, de Medidas para la Reforma de la Función Pública.
+#### Disposición final segunda. Modificación de la [Ley 30/1984](./L30_1984_medidas_reforma_funcion_publica.md), de 2 de agosto, de Medidas para la Reforma de la Función Pública.
 
-Se añade una nueva letra al artículo 29.2 de la Ley 30/1984, de 2 de agosto, de Medidas para la Reforma de la Función Pública, con la siguiente redacción:
+Se añade una nueva letra al artículo 29.2 de la [Ley 30/1984](./L30_1984_medidas_reforma_funcion_publica.md), de 2 de agosto, de Medidas para la Reforma de la Función Pública, con la siguiente redacción:
 
 «ñ) Cuando sean nombrados para desempeñar puestos en las Áreas Funcionales de la Alta Inspección de Educación funcionarios de los cuerpos docentes o escalas en que se ordena la función pública docente.»
 
@@ -2973,7 +2973,7 @@ La presente Ley se dicta con carácter básico al amparo de la competencia que c
 
 #### Disposición final sexta. Desarrollo de la presente Ley.
 
-Las normas de esta Ley podrán ser desarrolladas por las Comunidades Autónomas, a excepción de las relativas a aquellas materias cuya regulación se encomienda por la misma al Gobierno o que corresponden al Estado conforme a lo establecido en la disposición adicional primera, número 2, de la Ley Orgánica 8/1985, de 3 de julio, Reguladora del Derecho a la Educación.
+Las normas de esta Ley podrán ser desarrolladas por las Comunidades Autónomas, a excepción de las relativas a aquellas materias cuya regulación se encomienda por la misma al Gobierno o que corresponden al Estado conforme a lo establecido en la disposición adicional primera, número 2, de la [Ley Orgánica 8/1985](../02_gestion_y_administracion_centros/LO8_1985_reguladora_derecho_educacion.md), de 3 de julio, Reguladora del Derecho a la Educación.
 
 #### Disposición final séptima. Carácter de Ley Orgánica de la presente Ley.
 

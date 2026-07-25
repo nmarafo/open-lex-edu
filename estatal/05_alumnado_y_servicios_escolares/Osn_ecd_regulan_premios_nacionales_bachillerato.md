@@ -69,7 +69,7 @@ Las Administraciones educativas podrán convocar y conceder Premios Extraordinar
 
 #### Artículo 3. Convocatoria de los Premios Nacionales de Bachillerato.
 
-La Dirección General de Planificación y Gestión Educativa convocará y concederá anualmente quince Premios Nacionales de Bachillerato entre los alumnos que hayan cursado cualquiera de las modalidades del Bachillerato establecidas en la Ley Orgánica 2/2006, de 3 de mayo, y cumplan los requisitos previstos en el artículo siguiente, en régimen de concurrencia competitiva y publicidad, de acuerdo con el artículo 17.3.d) de la Ley 38/2003, de 17 de noviembre.
+La Dirección General de Planificación y Gestión Educativa convocará y concederá anualmente quince Premios Nacionales de Bachillerato entre los alumnos que hayan cursado cualquiera de las modalidades del Bachillerato establecidas en la [Ley Orgánica 2/2006](../01_marco_normativo_general_y_organico/LO2_2006_educacion_texto_consolidado_modificaciones_lomloe.md), de 3 de mayo, y cumplan los requisitos previstos en el artículo siguiente, en régimen de concurrencia competitiva y publicidad, de acuerdo con el artículo 17.3.d) de la Ley 38/2003, de 17 de noviembre.
 
 #### Artículo 4. Cuantía de los Premios Nacionales de Bachillerato.
 
@@ -79,7 +79,7 @@ La convocatoria de los Premios Nacionales de Bachillerato establecerá la cuant�
 
 1. Podrán optar a los Premios Nacionales de Bachillerato, previa solicitud de los alumnos, aquellos que hayan obtenido previamente el Premio Extraordinario de Bachillerato a que se refiere el artículo 2 tanto en el ámbito de gestión directa del Ministerio de Educación, Cultura y Deporte como en la Comunidad Autónoma en que hayan finalizado dichas enseñanzas, y que además cumplan los siguientes requisitos:
 
-a) Haber cursado primero y segundo de Bachillerato en cualquiera de las modalidades establecidas en la Ley Orgánica 2/2006, de 3 de mayo, en centros docentes españoles, bien en régimen presencial, bien en régimen a distancia.
+a) Haber cursado primero y segundo de Bachillerato en cualquiera de las modalidades establecidas en la [Ley Orgánica 2/2006](../01_marco_normativo_general_y_organico/LO2_2006_educacion_texto_consolidado_modificaciones_lomloe.md), de 3 de mayo, en centros docentes españoles, bien en régimen presencial, bien en régimen a distancia.
 
 b) Haber finalizado estos estudios en el año académico al que se refiere la convocatoria.
 
@@ -93,7 +93,7 @@ a) Uno por cada mil alumnos o fracción superior a quinientos, matriculados en
 
 b) Uno, en el caso en que el número de alumnos matriculados en el curso indicado sea inferior a quinientos.
 
-A los efectos previstos en este apartado, se tendrá en cuenta el número de alumnos procedentes de centros docentes públicos y privados en los que se impartan las enseñanzas de Bachillerato conforme a la Ley Orgánica 2/2006, de 3 de mayo, tanto en régimen presencial como a distancia.
+A los efectos previstos en este apartado, se tendrá en cuenta el número de alumnos procedentes de centros docentes públicos y privados en los que se impartan las enseñanzas de Bachillerato conforme a la [Ley Orgánica 2/2006](../01_marco_normativo_general_y_organico/LO2_2006_educacion_texto_consolidado_modificaciones_lomloe.md), de 3 de mayo, tanto en régimen presencial como a distancia.
 
 #### Artículo 6. Procedimiento de presentación de solicitudes y selección de los candidatos.
 
@@ -105,7 +105,7 @@ Esta solicitud podrá presentarse a través de la sede electrónica (https://sed
 
 3. El plazo de presentación de solicitudes será el que se determine en la correspondiente convocatoria. Este plazo no podrá ser superior a un mes.
 
-4. Recibidas las solicitudes el órgano instructor podrá requerir la subsanación de las mismas de acuerdo con el artículo 68.1 de la Ley 39/2015, de 1 de octubre, concediendo un plazo de diez días.
+4. Recibidas las solicitudes el órgano instructor podrá requerir la subsanación de las mismas de acuerdo con el artículo 68.1 de la [Ley 39/2015](../01_marco_normativo_general_y_organico/L39_2015_procedimiento_administrativo_comun_administraciones_publicas.md), de 1 de octubre, concediendo un plazo de diez días.
 
 5. En caso de que el número de solicitantes supere el cupo de candidatos que, de acuerdo con lo previsto en el artículo 5.2, corresponda a su Administración educativa, solo podrán concurrir aquellos que, siguiendo el orden que figura en la respectiva relación, no excedan de la cifra máxima.
 
@@ -159,11 +159,11 @@ La obtención del Premio Nacional de Bachillerato no será incompatible con la p
 
 #### Artículo 13. Recursos.
 
-1. Contra la resolución de convocatoria, regulada en el artículo 3 de esta orden, y contra la resolución por la que se adjudiquen los premios, recogida en el apartado 6 del artículo 8 de esta misma orden, se podrán interponer, en el plazo de un mes recurso potestativo de reposición ante el Director General de Planificación y Gestión Educativa, de acuerdo con los artículos 123 y 124 de la Ley 39/2015, de 1 de octubre, o, en el plazo de dos meses, directamente recurso contencioso administrativo ante la Sala de lo Contencioso Administrativo de la Audiencia Nacional.
+1. Contra la resolución de convocatoria, regulada en el artículo 3 de esta orden, y contra la resolución por la que se adjudiquen los premios, recogida en el apartado 6 del artículo 8 de esta misma orden, se podrán interponer, en el plazo de un mes recurso potestativo de reposición ante el Director General de Planificación y Gestión Educativa, de acuerdo con los artículos 123 y 124 de la [Ley 39/2015](../01_marco_normativo_general_y_organico/L39_2015_procedimiento_administrativo_comun_administraciones_publicas.md), de 1 de octubre, o, en el plazo de dos meses, directamente recurso contencioso administrativo ante la Sala de lo Contencioso Administrativo de la Audiencia Nacional.
 
 #### Disposición derogatoria única. Derogación normativa.
 
-Queda derogada la Orden EDU/2058/2010, de 13 de julio, del Ministerio de Educación, por la que se regulan los Premios Nacionales de Bachillerato establecidos por la Ley Orgánica 2/2006, de 3 de mayo.
+Queda derogada la Orden EDU/2058/2010, de 13 de julio, del Ministerio de Educación, por la que se regulan los Premios Nacionales de Bachillerato establecidos por la [Ley Orgánica 2/2006](../01_marco_normativo_general_y_organico/LO2_2006_educacion_texto_consolidado_modificaciones_lomloe.md), de 3 de mayo.
 
 #### Disposición final primera. Título competencial.
 

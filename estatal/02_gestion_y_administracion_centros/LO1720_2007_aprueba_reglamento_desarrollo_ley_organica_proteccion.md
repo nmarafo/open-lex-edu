@@ -35,11 +35,11 @@ fundamentos_derecho:
 ---
 # Real Decreto 1720/2007, de 21 de diciembre, por el que se aprueba el Reglamento de desarrollo de la [Ley Orgánica 15/1999](LO15_1999_proteccion_datos_caracter_personal.md), de 13 de diciembre, de protección de datos de carácter personal.
 
-La actual Ley Orgánica 15/1999, de 13 de diciembre de Protección de datos de carácter personal adaptó nuestro ordenamiento a lo dispuesto por la Directiva 95/46/CE del Parlamento Europeo y del Consejo de 24 de octubre de 1995, relativa a la protección de las personas físicas en lo que respecta al tratamiento de datos personales y a la libre circulación de estos datos, derogando a su vez la hasta entonces vigente Ley Orgánica 5/1992, de 29 de octubre, de Regulación del tratamiento automatizado de datos de carácter personal.
+La actual [Ley Orgánica 15/1999](./LO15_1999_proteccion_datos_caracter_personal.md), de 13 de diciembre de Protección de datos de carácter personal adaptó nuestro ordenamiento a lo dispuesto por la Directiva 95/46/CE del Parlamento Europeo y del Consejo de 24 de octubre de 1995, relativa a la protección de las personas físicas en lo que respecta al tratamiento de datos personales y a la libre circulación de estos datos, derogando a su vez la hasta entonces vigente Ley Orgánica 5/1992, de 29 de octubre, de Regulación del tratamiento automatizado de datos de carácter personal.
 
 La nueva ley, que ha nacido con una amplia vocación de generalidad, prevé en su artículo 1 que «tiene por objeto garantizar y proteger, en lo que concierne al tratamiento de los datos personales, las libertades públicas y los derechos fundamentales de las personas físicas, y especialmente de su honor e intimidad personal». Comprende por tanto el tratamiento automatizado y el no automatizado de los datos de carácter personal.
 
-A fin de garantizar la necesaria seguridad jurídica en un ámbito tan sensible para los derechos fundamentales como el de la protección de datos, el legislador declaró subsistentes las normas reglamentarias existentes y, en especial, los reales decretos 428/1993, de 26 de marzo, por el que se aprueba el Estatuto de la Agencia de Protección de Datos, 1332/1994, de 20 de junio, por el que se desarrollan determinados aspectos de la Ley Orgánica 5/1992, de 29 de octubre de Regulación del tratamiento automatizado de los datos de carácter personal y 994/1999, de 11 de junio, por el que se aprueba el Reglamento de Medidas de seguridad de los ficheros automatizados que contengan datos de carácter personal, a la vez que habilitó al Gobierno para la aprobación o modificación de las disposiciones reglamentarias necesarias para la aplicación y desarrollo de la Ley Orgánica 15/1999.
+A fin de garantizar la necesaria seguridad jurídica en un ámbito tan sensible para los derechos fundamentales como el de la protección de datos, el legislador declaró subsistentes las normas reglamentarias existentes y, en especial, los reales decretos 428/1993, de 26 de marzo, por el que se aprueba el Estatuto de la Agencia de Protección de Datos, 1332/1994, de 20 de junio, por el que se desarrollan determinados aspectos de la Ley Orgánica 5/1992, de 29 de octubre de Regulación del tratamiento automatizado de los datos de carácter personal y 994/1999, de 11 de junio, por el que se aprueba el Reglamento de Medidas de seguridad de los ficheros automatizados que contengan datos de carácter personal, a la vez que habilitó al Gobierno para la aprobación o modificación de las disposiciones reglamentarias necesarias para la aplicación y desarrollo de la [Ley Orgánica 15/1999](./LO15_1999_proteccion_datos_caracter_personal.md).
 
 Por otra parte, la Ley 34/2002, de 11 de julio, de Servicios de la sociedad de la información y de comercio electrónico y la Ley 32/2003, de 3 de noviembre, General de Telecomunicaciones atribuyen competencias en materia sancionadora a la Agencia Española de Protección de Datos. Éstas requieren de desarrollo reglamentario con la peculiaridad de que ambas normas se ordenan a la tutela no sólo de los derechos de las personas físicas, sino también de las jurídicas.
 
@@ -47,7 +47,7 @@ Por otra parte, la Ley 34/2002, de 11 de julio, de Servicios de la sociedad de l
 
 Este Reglamento comparte con la Ley Orgánica la finalidad de hacer frente a los riesgos que para los derechos de la personalidad pueden suponer el acopio y tratamiento de datos personales. Por ello, ha de destacarse que esta norma reglamentaria nace con la vocación de no reiterar los contenidos de la norma superior y de desarrollar, no sólo los mandatos contenidos en la Ley Orgánica de acuerdo con los principios que emanan de la Directiva, sino también aquellos que en estos años de vigencia de la Ley se ha demostrado que precisan de un mayor desarrollo normativo.
 
-Por tanto, se aprueba este Reglamento partiendo de la necesidad de dotar de coherencia a la regulación reglamentaria en todo lo relacionado con la transposición de la Directiva y de desarrollar los aspectos novedosos de la Ley Orgánica 15/1999, junto con aquellos en los que la experiencia ha aconsejado un cierto de grado de precisión que dote de seguridad jurídica al sistema.
+Por tanto, se aprueba este Reglamento partiendo de la necesidad de dotar de coherencia a la regulación reglamentaria en todo lo relacionado con la transposición de la Directiva y de desarrollar los aspectos novedosos de la [Ley Orgánica 15/1999](./LO15_1999_proteccion_datos_caracter_personal.md), junto con aquellos en los que la experiencia ha aconsejado un cierto de grado de precisión que dote de seguridad jurídica al sistema.
 
 **III**
 
@@ -55,9 +55,9 @@ El reglamento viene a abarcar el ámbito tutelado anteriormente por los reales d
 
 El reglamento se estructura en nueve títulos cuyo contenido desarrolla los aspectos esenciales en esta materia.
 
-El título I contempla el objeto y ámbito de aplicación del reglamento. A lo largo de la vigencia de la Ley Orgánica 15/1999, se ha advertido la conveniencia de desarrollar el apartado 2 de su artículo 2 para aclarar qué se entiende por ficheros y tratamientos relacionados con actividades personales o domésticas, aspecto muy relevante dado que están excluidos de la normativa sobre protección de datos de carácter personal.
+El título I contempla el objeto y ámbito de aplicación del reglamento. A lo largo de la vigencia de la [Ley Orgánica 15/1999](./LO15_1999_proteccion_datos_caracter_personal.md), se ha advertido la conveniencia de desarrollar el apartado 2 de su artículo 2 para aclarar qué se entiende por ficheros y tratamientos relacionados con actividades personales o domésticas, aspecto muy relevante dado que están excluidos de la normativa sobre protección de datos de carácter personal.
 
-Por otra parte, el presente reglamento no contiene previsiones para los tratamientos de datos personales a los que se refiere el apartado 3 del artículo 2 de la ley orgánica, dado que se rigen por sus disposiciones específicas y por lo especialmente previsto, en su caso, por la propia Ley Orgánica 15/1999. En consecuencia, se mantiene el régimen jurídico propio de estos tratamientos y ficheros.
+Por otra parte, el presente reglamento no contiene previsiones para los tratamientos de datos personales a los que se refiere el apartado 3 del artículo 2 de la ley orgánica, dado que se rigen por sus disposiciones específicas y por lo especialmente previsto, en su caso, por la propia [Ley Orgánica 15/1999](./LO15_1999_proteccion_datos_caracter_personal.md). En consecuencia, se mantiene el régimen jurídico propio de estos tratamientos y ficheros.
 
 Además, en este título se aporta un conjunto de definiciones que ayudan al correcto entendimiento de la norma, lo que resulta particularmente necesario en un ámbito tan tecnificado como el de la protección de datos personales. Por otra parte, fija el criterio a seguir en materia de cómputo de plazos con el fin de homogeneizar esta cuestión evitando distinciones que suponen diferencias de trato de los ficheros públicos respecto de los privados.
 
@@ -77,7 +77,7 @@ En su virtud, a propuesta del Ministro de Justicia, con la aprobación previa de
 
 #### Artículo único. Aprobación del reglamento.
 
-Se aprueba el Reglamento de desarrollo de la Ley Orgánica 15/1999, de 13 de diciembre, de Protección de datos de carácter personal, cuyo texto se incluye a continuación.
+Se aprueba el Reglamento de desarrollo de la [Ley Orgánica 15/1999](./LO15_1999_proteccion_datos_caracter_personal.md), de 13 de diciembre, de Protección de datos de carácter personal, cuyo texto se incluye a continuación.
 
 #### Disposición transitoria primera. Adaptación de los códigos tipo inscritos en el Registro General de Protección de Datos.
 
@@ -147,7 +147,7 @@ El Ministro de Justicia,
 
 MARIANO FERNÁNDEZ BERMEJO
 
-[encabezado]REGLAMENTO DE DESARROLLO DE LA LEY ORGÁNICA 15/1999, DE 13 DE DICIEMBRE, DE PROTECCIÓN DE DATOS DE CARÁCTER PERSONAL
+[encabezado]REGLAMENTO DE DESARROLLO DE LA [LEY ORGÁNICA 15/1999](./LO15_1999_proteccion_datos_caracter_personal.md), DE 13 DE DICIEMBRE, DE PROTECCIÓN DE DATOS DE CARÁCTER PERSONAL
 
 [indice]Título I. Disposiciones generales.
 
@@ -321,7 +321,7 @@ Título VI. Transferencias internacionales de datos.
 
 Capítulo I. Disposiciones generales.
 
-#### Artículo 65. Cumplimiento de las disposiciones de la Ley Orgánica 15/1999, de 13 de diciembre.
+#### Artículo 65. Cumplimiento de las disposiciones de la [Ley Orgánica 15/1999](./LO15_1999_proteccion_datos_caracter_personal.md), de 13 de diciembre.
 
 #### Artículo 66. Autorización y notificación.
 
@@ -491,7 +491,7 @@ Sección Tercera Procedimiento Sancionador.
 
 #### Artículo 128. Plazo máximo para resolver.
 
-Sección Cuarta. Procedimiento de declaración de infracción de la Ley Orgánica 15/1999, de 13 de diciembre, por las Administraciones Públicas.
+Sección Cuarta. Procedimiento de declaración de infracción de la [Ley Orgánica 15/1999](./LO15_1999_proteccion_datos_caracter_personal.md), de 13 de diciembre, por las Administraciones Públicas.
 
 #### Artículo 129. Disposición general.
 
@@ -583,9 +583,9 @@ Sección Segunda. Procedimiento para la autorización de conservación de datos 
 
 #### Artículo 1. Objeto.
 
-1. El presente reglamento tiene por objeto el desarrollo de la Ley Orgánica 15/1999, de 13 de diciembre, de Protección de datos de carácter personal.
+1. El presente reglamento tiene por objeto el desarrollo de la [Ley Orgánica 15/1999](./LO15_1999_proteccion_datos_caracter_personal.md), de 13 de diciembre, de Protección de datos de carácter personal.
 
-2. Asimismo, el capítulo III del título IX de este reglamento desarrolla las disposiciones relativas al ejercicio por la Agencia Española de Protección de Datos de la potestad sancionadora, en aplicación de lo dispuesto en la Ley Orgánica 15/1999, de 13 de diciembre, en el título VII de la Ley 34/2002, de 11 de julio, de Servicios de la sociedad de la información y de comercio electrónico, y en el título VIII de la Ley 32/2003, de 3 de noviembre, General de Telecomunicaciones.
+2. Asimismo, el capítulo III del título IX de este reglamento desarrolla las disposiciones relativas al ejercicio por la Agencia Española de Protección de Datos de la potestad sancionadora, en aplicación de lo dispuesto en la [Ley Orgánica 15/1999](./LO15_1999_proteccion_datos_caracter_personal.md), de 13 de diciembre, en el título VII de la Ley 34/2002, de 11 de julio, de Servicios de la sociedad de la información y de comercio electrónico, y en el título VIII de la Ley 32/2003, de 3 de noviembre, General de Telecomunicaciones.
 
 #### Artículo 2. Ámbito objetivo de aplicación.
 
@@ -721,9 +721,9 @@ En los supuestos en que este reglamento señale un plazo por días se computará
 
 #### Artículo 7. Fuentes accesibles al público.
 
-1. A efectos del artículo 3, párrafo j) de la Ley Orgánica 15/1999, se entenderá que sólo tendrán el carácter de fuentes accesibles al público:
+1. A efectos del artículo 3, párrafo j) de la [Ley Orgánica 15/1999](./LO15_1999_proteccion_datos_caracter_personal.md), se entenderá que sólo tendrán el carácter de fuentes accesibles al público:
 
-a) El censo promocional, regulado conforme a lo dispuesto en la Ley Orgánica 15/1999, de 13 de diciembre.
+a) El censo promocional, regulado conforme a lo dispuesto en la [Ley Orgánica 15/1999](./LO15_1999_proteccion_datos_caracter_personal.md), de 13 de diciembre.
 
 b) Las guías de servicios de comunicaciones electrónicas, en los términos previstos por su normativa específica.
 
@@ -761,7 +761,7 @@ Cuando los datos hubieran sido comunicados previamente, el responsable del fiche
 
 En el plazo de diez días desde la recepción de la notificación, el cesionario que mantuviera el tratamiento de los datos, deberá proceder a la rectificación y cancelación notificada.
 
-Esta actualización de los datos de carácter personal no requerirá comunicación alguna al interesado, sin perjuicio del ejercicio de los derechos por parte de los interesados reconocidos en la Ley Orgánica 15/1999, de 13 de diciembre.
+Esta actualización de los datos de carácter personal no requerirá comunicación alguna al interesado, sin perjuicio del ejercicio de los derechos por parte de los interesados reconocidos en la [Ley Orgánica 15/1999](./LO15_1999_proteccion_datos_caracter_personal.md), de 13 de diciembre.
 
 Lo dispuesto en este apartado se entiende sin perjuicio de las facultades que a los afectados reconoce el título III de este reglamento.
 
@@ -769,7 +769,7 @@ Lo dispuesto en este apartado se entiende sin perjuicio de las facultades que a 
 
 No obstante, podrán conservarse durante el tiempo en que pueda exigirse algún tipo de responsabilidad derivada de una relación u obligación jurídica o de la ejecución de un contrato o de la aplicación de medidas precontractuales solicitadas por el interesado.
 
-Una vez cumplido el período al que se refieren los párrafos anteriores, los datos sólo podrán ser conservados previa disociación de los mismos, sin perjuicio de la obligación de bloqueo prevista en la Ley Orgánica 15/1999, de 13 de diciembre, y en el presente reglamento.
+Una vez cumplido el período al que se refieren los párrafos anteriores, los datos sólo podrán ser conservados previa disociación de los mismos, sin perjuicio de la obligación de bloqueo prevista en la [Ley Orgánica 15/1999](./LO15_1999_proteccion_datos_caracter_personal.md), de 13 de diciembre, y en el presente reglamento.
 
 7. Los datos de carácter personal serán tratados de forma que permitan el ejercicio del derecho de acceso, en tanto no proceda su cancelación.
 
@@ -789,7 +789,7 @@ Para la determinación de los fines a los que se refiere el párrafo anterior se
 
 a) Lo autorice una norma con rango de ley o una norma de derecho comunitario y, en particular, cuando concurra uno de los supuestos siguientes:
 
-El tratamiento o la cesión tengan por objeto la satisfacción de un interés legítimo del responsable del tratamiento o del cesionario amparado por dichas normas, siempre que no prevalezca el interés o los derechos y libertades fundamentales de los interesados previstos en el artículo 1 de la Ley Orgánica 15/1999, de 13 de diciembre.
+El tratamiento o la cesión tengan por objeto la satisfacción de un interés legítimo del responsable del tratamiento o del cesionario amparado por dichas normas, siempre que no prevalezca el interés o los derechos y libertades fundamentales de los interesados previstos en el artículo 1 de la [Ley Orgánica 15/1999](./LO15_1999_proteccion_datos_caracter_personal.md), de 13 de diciembre.
 
 El tratamiento o la cesión de los datos sean necesarios para que el responsable del tratamiento cumpla un deber que le imponga una de dichas normas.
 
@@ -803,7 +803,7 @@ a) Se recojan para el ejercicio de las funciones propias de las Administraciones
 
 b) Se recaben por el responsable del tratamiento con ocasión de la celebración de un contrato o precontrato o de la existencia de una relación negocial, laboral o administrativa de la que sea parte el afectado y sean necesarios para su mantenimiento o cumplimiento.
 
-c) El tratamiento de los datos tenga por finalidad proteger un interés vital del interesado en los términos del apartado 6 del artículo 7 de la Ley Orgánica 15/1999, de 13 de diciembre.
+c) El tratamiento de los datos tenga por finalidad proteger un interés vital del interesado en los términos del apartado 6 del artículo 7 de la [Ley Orgánica 15/1999](./LO15_1999_proteccion_datos_caracter_personal.md), de 13 de diciembre.
 
 4. Será posible la cesión de los datos de carácter personal sin contar con el consentimiento del interesado cuando:
 
@@ -819,7 +819,7 @@ Los datos de carácter personal hayan sido recogidos o elaborados por una Admini
 
 La comunicación se realice para el ejercicio de competencias idénticas o que versen sobre las mismas materias.
 
-5. Los datos especialmente protegidos podrán tratarse y cederse en los términos previstos en los artículos 7 y 8 de la Ley Orgánica 15/1999, de 13 de diciembre.
+5. Los datos especialmente protegidos podrán tratarse y cederse en los términos previstos en los artículos 7 y 8 de la [Ley Orgánica 15/1999](./LO15_1999_proteccion_datos_caracter_personal.md), de 13 de diciembre.
 
 En particular, no será necesario el consentimiento del interesado para la comunicación de datos personales sobre la salud, incluso a través de medios electrónicos, entre organismos, centros y servicios del Sistema Nacional de Salud cuando se realice para la atención sanitaria de las personas, conforme a lo dispuesto en el Capítulo V de la [Ley 16/2003](../../autonómica/canarias/07_convivencia_bienestar_y_protocolos/L16_2003_prevencion_proteccion_integral_mujeres_contra_violencia.md), de 28 de mayo, de cohesión y calidad del Sistema Nacional de Salud.
 
@@ -857,7 +857,7 @@ La solicitud del consentimiento deberá ir referida a un tratamiento o serie de 
 
 1. El responsable del tratamiento podrá solicitar el consentimiento del interesado a través del procedimiento establecido en este artículo, salvo cuando la Ley exija al mismo la obtención del consentimiento expreso para el tratamiento de los datos.
 
-2. El responsable podrá dirigirse al afectado, informándole en los términos previstos en los artículos 5 de la Ley Orgánica 15/1999, de 13 de diciembre y 12.2 de este reglamento y deberá concederle un plazo de treinta días para manifestar su negativa al tratamiento, advirtiéndole de que en caso de no pronunciarse a tal efecto se entenderá que consiente el tratamiento de sus datos de carácter personal.
+2. El responsable podrá dirigirse al afectado, informándole en los términos previstos en los artículos 5 de la [Ley Orgánica 15/1999](./LO15_1999_proteccion_datos_caracter_personal.md), de 13 de diciembre y 12.2 de este reglamento y deberá concederle un plazo de treinta días para manifestar su negativa al tratamiento, advirtiéndole de que en caso de no pronunciarse a tal efecto se entenderá que consiente el tratamiento de sus datos de carácter personal.
 
 En particular, cuando se trate de responsables que presten al afectado un servicio que genere información periódica o reiterada, o facturación periódica, la comunicación podrá llevarse a cabo de forma conjunta a esta información o a la facturación del servicio prestado, siempre que se realice de forma claramente visible.
 
@@ -881,25 +881,25 @@ La solicitud del consentimiento para el tratamiento o cesión de los datos de tr
 
 1. El afectado podrá revocar su consentimiento a través de un medio sencillo, gratuito y que no implique ingreso alguno para el responsable del fichero o tratamiento. En particular, se considerará ajustado al presente reglamento el procedimiento en el que tal negativa pueda efectuarse, entre otros, mediante un envío prefranqueado al responsable del tratamiento o la llamada a un número telefónico gratuito o a los servicios de atención al público que el mismo hubiera establecido.
 
-No se considerarán conformes a lo dispuesto en la Ley Orgánica 15/1999, de 13 de diciembre, los supuestos en que el responsable establezca como medio para que el interesado pueda manifestar su negativa al tratamiento el envío de cartas certificadas o envíos semejantes, la utilización de servicios de telecomunicaciones que implique una tarificación adicional al afectado o cualesquiera otros medios que impliquen un coste adicional al interesado.
+No se considerarán conformes a lo dispuesto en la [Ley Orgánica 15/1999](./LO15_1999_proteccion_datos_caracter_personal.md), de 13 de diciembre, los supuestos en que el responsable establezca como medio para que el interesado pueda manifestar su negativa al tratamiento el envío de cartas certificadas o envíos semejantes, la utilización de servicios de telecomunicaciones que implique una tarificación adicional al afectado o cualesquiera otros medios que impliquen un coste adicional al interesado.
 
-2. El responsable cesará en el tratamiento de los datos en el plazo máximo de diez días a contar desde el de la recepción de la revocación del consentimiento, sin perjuicio de su obligación de bloquear los datos conforme a lo dispuesto en el artículo 16.3 de la Ley Orgánica 15/1999, de 13 de diciembre.
+2. El responsable cesará en el tratamiento de los datos en el plazo máximo de diez días a contar desde el de la recepción de la revocación del consentimiento, sin perjuicio de su obligación de bloquear los datos conforme a lo dispuesto en el artículo 16.3 de la [Ley Orgánica 15/1999](./LO15_1999_proteccion_datos_caracter_personal.md), de 13 de diciembre.
 
 3. Cuando el interesado hubiera solicitado del responsable del tratamiento la confirmación del cese en el tratamiento de sus datos, éste deberá responder expresamente a la solicitud.
 
-4. Si los datos hubieran sido cedidos previamente, el responsable del tratamiento, una vez revocado el consentimiento, deberá comunicarlo a los cesionarios, en el plazo previsto en el apartado 2, para que éstos, cesen en el tratamiento de los datos en caso de que aún lo mantuvieran, conforme al artículo 16.4 de la Ley Orgánica 15/1999, de 13 de diciembre.
+4. Si los datos hubieran sido cedidos previamente, el responsable del tratamiento, una vez revocado el consentimiento, deberá comunicarlo a los cesionarios, en el plazo previsto en el apartado 2, para que éstos, cesen en el tratamiento de los datos en caso de que aún lo mantuvieran, conforme al artículo 16.4 de la [Ley Orgánica 15/1999](./LO15_1999_proteccion_datos_caracter_personal.md), de 13 de diciembre.
 
 Sección 2.ª Deber de información al interesado
 
 #### Artículo 18. Acreditación del cumplimiento del deber de información.
 
-1. El deber de información al que se refiere el artículo 5 de la Ley Orgánica 15/1999, de 13 de diciembre, deberá llevarse a cabo a través de un medio que permita acreditar su cumplimiento, debiendo conservarse mientras persista el tratamiento de los datos del afectado.
+1. El deber de información al que se refiere el artículo 5 de la [Ley Orgánica 15/1999](./LO15_1999_proteccion_datos_caracter_personal.md), de 13 de diciembre, deberá llevarse a cabo a través de un medio que permita acreditar su cumplimiento, debiendo conservarse mientras persista el tratamiento de los datos del afectado.
 
 2. El responsable del fichero o tratamiento deberá conservar el soporte en el que conste el cumplimiento del deber de informar. Para el almacenamiento de los soportes, el responsable del fichero o tratamiento podrá utilizar medios informáticos o telemáticos. En particular podrá proceder al escaneado de la documentación en soporte papel, siempre y cuando se garantice que en dicha automatización no ha mediado alteración alguna de los soportes originales.
 
 #### Artículo 19. Supuestos especiales.
 
-En los supuestos en que se produzca una modificación del responsable del fichero como consecuencia de una operación de fusión, escisión, cesión global de activos y pasivos, aportación o transmisión de negocio o rama de actividad empresarial, o cualquier operación de reestructuración societaria de análoga naturaleza, contemplada por la normativa mercantil, no se producirá cesión de datos, sin perjuicio del cumplimiento por el responsable de lo dispuesto en el artículo 5 de la Ley Orgánica 15/1999, de 13 de diciembre.
+En los supuestos en que se produzca una modificación del responsable del fichero como consecuencia de una operación de fusión, escisión, cesión global de activos y pasivos, aportación o transmisión de negocio o rama de actividad empresarial, o cualquier operación de reestructuración societaria de análoga naturaleza, contemplada por la normativa mercantil, no se producirá cesión de datos, sin perjuicio del cumplimiento por el responsable de lo dispuesto en el artículo 5 de la [Ley Orgánica 15/1999](./LO15_1999_proteccion_datos_caracter_personal.md), de 13 de diciembre.
 
 CAPÍTULO III
 
@@ -907,7 +907,7 @@ Encargado del tratamiento
 
 #### Artículo 20. Relaciones entre el responsable y el encargado del tratamiento.
 
-1. El acceso a los datos por parte de un encargado del tratamiento que resulte necesario para la prestación de un servicio al responsable no se considerará comunicación de datos, siempre y cuando se cumpla lo establecido en la Ley Orgánica 15/1999, de 13 de diciembre y en el presente capítulo.
+1. El acceso a los datos por parte de un encargado del tratamiento que resulte necesario para la prestación de un servicio al responsable no se considerará comunicación de datos, siempre y cuando se cumpla lo establecido en la [Ley Orgánica 15/1999](./LO15_1999_proteccion_datos_caracter_personal.md), de 13 de diciembre y en el presente capítulo.
 
 El servicio prestado por el encargado del tratamiento podrá tener o no carácter remunerado y ser temporal o indefinido.
 
@@ -915,7 +915,7 @@ No obstante, se considerará que existe comunicación de datos cuando el acceso 
 
 2. Cuando el responsable del tratamiento contrate la prestación de un servicio que comporte un tratamiento de datos personales sometido a lo dispuesto en este capítulo deberá velar por que el encargado del tratamiento reúna las garantías para el cumplimiento de lo dispuesto en este Reglamento.
 
-3. En el caso de que el encargado del tratamiento destine los datos a otra finalidad, los comunique o los utilice incumpliendo las estipulaciones del contrato al que se refiere el apartado 2 del artículo 12 de la Ley Orgánica 15/1999, de 13 de diciembre, será considerado, también, responsable del tratamiento, respondiendo de las infracciones en que hubiera incurrido personalmente.
+3. En el caso de que el encargado del tratamiento destine los datos a otra finalidad, los comunique o los utilice incumpliendo las estipulaciones del contrato al que se refiere el apartado 2 del artículo 12 de la [Ley Orgánica 15/1999](./LO15_1999_proteccion_datos_caracter_personal.md), de 13 de diciembre, será considerado, también, responsable del tratamiento, respondiendo de las infracciones en que hubiera incurrido personalmente.
 
 No obstante, el encargado del tratamiento no incurrirá en responsabilidad cuando, previa indicación expresa del responsable, comunique los datos a un tercero designado por aquél, al que hubiera encomendado la prestación de un servicio conforme a lo previsto en el presente capítulo.
 
@@ -977,7 +977,7 @@ Cuando el responsable del fichero sea un órgano de las Administraciones públic
 
 3. El ejercicio por el afectado de sus derechos de acceso, rectificación, cancelación y oposición será gratuito y en ningún caso podrá suponer un ingreso adicional para el responsable del tratamiento ante el que se ejercitan.
 
-No se considerarán conformes a lo dispuesto en la Ley Orgánica 15/1999, de 13 de diciembre, y en el presente Reglamento los supuestos en que el responsable del tratamiento establezca como medio para que el interesado pueda ejercitar sus derechos el envío de cartas certificadas o semejantes, la utilización de servicios de telecomunicaciones que implique una tarificación adicional al afectado o cualesquiera otros medios que impliquen un coste excesivo para el interesado.
+No se considerarán conformes a lo dispuesto en la [Ley Orgánica 15/1999](./LO15_1999_proteccion_datos_caracter_personal.md), de 13 de diciembre, y en el presente Reglamento los supuestos en que el responsable del tratamiento establezca como medio para que el interesado pueda ejercitar sus derechos el envío de cartas certificadas o semejantes, la utilización de servicios de telecomunicaciones que implique una tarificación adicional al afectado o cualesquiera otros medios que impliquen un coste excesivo para el interesado.
 
 4. Cuando el responsable del fichero o tratamiento disponga de servicios de cualquier índole para la atención a su público o el ejercicio de reclamaciones relacionadas con el servicio prestado o los productos ofertados al mismo, podrá concederse la posibilidad al afectado de ejercer sus derechos de acceso, rectificación, cancelación y oposición a través de dichos servicios. En tal caso, la identidad del interesado se considerará acreditada por los medios establecidos para la identificación de los clientes del responsable en la prestación de sus servicios o contratación de sus productos.
 
@@ -1053,7 +1053,7 @@ Del mismo modo, si el responsable ofreciera un procedimiento para hacer efectivo
 
 #### Artículo 29. Otorgamiento del acceso.
 
-1. El responsable del fichero resolverá sobre la solicitud de acceso en el plazo máximo de un mes a contar desde la recepción de la solicitud. Transcurrido el plazo sin que de forma expresa se responda a la petición de acceso, el interesado podrá interponer la reclamación prevista en el artículo 18 de la Ley Orgánica 15/1999, de 13 de diciembre.
+1. El responsable del fichero resolverá sobre la solicitud de acceso en el plazo máximo de un mes a contar desde la recepción de la solicitud. Transcurrido el plazo sin que de forma expresa se responda a la petición de acceso, el interesado podrá interponer la reclamación prevista en el artículo 18 de la [Ley Orgánica 15/1999](./LO15_1999_proteccion_datos_caracter_personal.md), de 13 de diciembre.
 
 En el caso de que no disponga de datos de carácter personal de los afectados deberá igualmente comunicárselo en el mismo plazo.
 
@@ -1069,7 +1069,7 @@ Dicha información comprenderá todos los datos de base del afectado, los result
 
 2. Podrá también denegarse el acceso en los supuestos en que así lo prevea una Ley o una norma de derecho comunitario de aplicación directa o cuando éstas impidan al responsable del tratamiento revelar a los afectados el tratamiento de los datos a los que se refiera el acceso.
 
-3. En todo caso, el responsable del fichero informará al afectado de su derecho a recabar la tutela de la Agencia Española de Protección de Datos o, en su caso, de las autoridades de control de las comunidades autónomas, conforme a lo dispuesto en el artículo 18 de la Ley Orgánica 15/1999, de 13 de diciembre.
+3. En todo caso, el responsable del fichero informará al afectado de su derecho a recabar la tutela de la Agencia Española de Protección de Datos o, en su caso, de las autoridades de control de las comunidades autónomas, conforme a lo dispuesto en el artículo 18 de la [Ley Orgánica 15/1999](./LO15_1999_proteccion_datos_caracter_personal.md), de 13 de diciembre.
 
 CAPÍTULO III
 
@@ -1081,7 +1081,7 @@ Derechos de rectificación y cancelación
 
 2. El ejercicio del derecho de cancelación dará lugar a que se supriman los datos que resulten ser inadecuados o excesivos, sin perjuicio del deber de bloqueo conforme a este reglamento.
 
-En los supuestos en que el interesado invoque el ejercicio del derecho de cancelación para revocar el consentimiento previamente prestado, se estará a lo dispuesto en la Ley Orgánica 15/1999, de 13 de diciembre y en el presente reglamento.
+En los supuestos en que el interesado invoque el ejercicio del derecho de cancelación para revocar el consentimiento previamente prestado, se estará a lo dispuesto en la [Ley Orgánica 15/1999](./LO15_1999_proteccion_datos_caracter_personal.md), de 13 de diciembre y en el presente reglamento.
 
 #### Artículo 32. Ejercicio de los derechos de rectificación y cancelación.
 
@@ -1089,13 +1089,13 @@ En los supuestos en que el interesado invoque el ejercicio del derecho de cancel
 
 En la solicitud de cancelación, el interesado deberá indicar a qué datos se refiere, aportando al efecto la documentación que lo justifique, en su caso.
 
-2. El responsable del fichero resolverá sobre la solicitud de rectificación o cancelación en el plazo máximo de diez días a contar desde la recepción de la solicitud. Transcurrido el plazo sin que de forma expresa se responda a la petición, el interesado podrá interponer la reclamación prevista en el artículo 18 de la Ley Orgánica 15/1999, de 13 de diciembre.
+2. El responsable del fichero resolverá sobre la solicitud de rectificación o cancelación en el plazo máximo de diez días a contar desde la recepción de la solicitud. Transcurrido el plazo sin que de forma expresa se responda a la petición, el interesado podrá interponer la reclamación prevista en el artículo 18 de la [Ley Orgánica 15/1999](./LO15_1999_proteccion_datos_caracter_personal.md), de 13 de diciembre.
 
 En el caso de que no disponga de datos de carácter personal del afectado deberá igualmente comunicárselo en el mismo plazo.
 
 3. Si los datos rectificados o cancelados hubieran sido cedidos previamente, el responsable del fichero deberá comunicar la rectificación o cancelación efectuada al cesionario, en idéntico plazo, para que éste, también en el plazo de diez días contados desde la recepción de dicha comunicación, proceda, asimismo, a rectificar o cancelar los datos.
 
-La rectificación o cancelación efectuada por el cesionario no requerirá comunicación alguna al interesado, sin perjuicio del ejercicio de los derechos por parte de los interesados reconocidos en la Ley Orgánica 15/1999, de 13 de diciembre.
+La rectificación o cancelación efectuada por el cesionario no requerirá comunicación alguna al interesado, sin perjuicio del ejercicio de los derechos por parte de los interesados reconocidos en la [Ley Orgánica 15/1999](./LO15_1999_proteccion_datos_caracter_personal.md), de 13 de diciembre.
 
 #### Artículo 33. Denegación de los derechos de rectificación y cancelación.
 
@@ -1103,7 +1103,7 @@ La rectificación o cancelación efectuada por el cesionario no requerirá comun
 
 2. Podrá también denegarse los derechos de rectificación o cancelación en los supuestos en que así lo prevea una ley o una norma de derecho comunitario de aplicación directa o cuando éstas impidan al responsable del tratamiento revelar a los afectados el tratamiento de los datos a los que se refiera el acceso.
 
-3. En todo caso, el responsable del fichero informará al afectado de su derecho a recabar la tutela de la Agencia Española de Protección de Datos o, en su caso, de las autoridades de control de las Comunidades Autónomas, conforme a lo dispuesto en el artículo 18 de la Ley Orgánica 15/1999, de 13 de diciembre.
+3. En todo caso, el responsable del fichero informará al afectado de su derecho a recabar la tutela de la Agencia Española de Protección de Datos o, en su caso, de las autoridades de control de las Comunidades Autónomas, conforme a lo dispuesto en el artículo 18 de la [Ley Orgánica 15/1999](./LO15_1999_proteccion_datos_caracter_personal.md), de 13 de diciembre.
 
 CAPÍTULO IV
 
@@ -1125,7 +1125,7 @@ c) Cuando el tratamiento tenga por finalidad la adopción de una decisión refer
 
 Cuando la oposición se realice con base en la letra a) del artículo anterior, en la solicitud deberán hacerse constar los motivos fundados y legítimos, relativos a una concreta situación personal del afectado, que justifican el ejercicio de este derecho.
 
-2. El responsable del fichero resolverá sobre la solicitud de oposición en el plazo máximo de diez días a contar desde la recepción de la solicitud. Transcurrido el plazo sin que de forma expresa se responda a la petición, el interesado podrá interponer la reclamación prevista en el artículo 18 de la Ley Orgánica 15/1999, de 13 de diciembre.
+2. El responsable del fichero resolverá sobre la solicitud de oposición en el plazo máximo de diez días a contar desde la recepción de la solicitud. Transcurrido el plazo sin que de forma expresa se responda a la petición, el interesado podrá interponer la reclamación prevista en el artículo 18 de la [Ley Orgánica 15/1999](./LO15_1999_proteccion_datos_caracter_personal.md), de 13 de diciembre.
 
 En el caso de que no disponga de datos de carácter personal de los afectados deberá igualmente comunicárselo en el mismo plazo.
 
@@ -1153,7 +1153,7 @@ Sección 1.ª Disposiciones generales
 
 #### Artículo 37. Régimen aplicable.
 
-1. El tratamiento de datos de carácter personal sobre solvencia patrimonial y crédito, previsto en el apartado 1 del artículo 29 de la Ley Orgánica 15/1999, de 13 de diciembre, se someterá a lo establecido, con carácter general, en dicha ley orgánica y en el presente reglamento.
+1. El tratamiento de datos de carácter personal sobre solvencia patrimonial y crédito, previsto en el apartado 1 del artículo 29 de la [Ley Orgánica 15/1999](./LO15_1999_proteccion_datos_caracter_personal.md), de 13 de diciembre, se someterá a lo establecido, con carácter general, en dicha ley orgánica y en el presente reglamento.
 
 2. El ejercicio de los derechos de acceso, rectificación, cancelación y oposición en el caso de los ficheros a que se refiere el apartado anterior, se rige por lo dispuesto en los capítulos I a IV del título III del presente reglamento, con los siguientes criterios:
 
@@ -1161,7 +1161,7 @@ a) Cuando la petición de ejercicio de los derechos se dirigiera al responsable 
 
 b) Si la petición se dirigiera a las personas y entidades a las que se presta el servicio, éstas únicamente deberán comunicar al afectado aquellos datos relativos al mismo que les hayan sido comunicados y a facilitar la identidad del responsable para que, en su caso, puedan ejercitar sus derechos ante el mismo.
 
-3. De conformidad con el apartado 2 del artículo 29 de la Ley Orgánica 15/1999, de 13 de diciembre, también podrán tratarse los datos de carácter personal relativos al cumplimiento o incumplimiento de obligaciones dinerarias facilitados por el acreedor o por quien actúe por su cuenta o interés.
+3. De conformidad con el apartado 2 del artículo 29 de la [Ley Orgánica 15/1999](./LO15_1999_proteccion_datos_caracter_personal.md), de 13 de diciembre, también podrán tratarse los datos de carácter personal relativos al cumplimiento o incumplimiento de obligaciones dinerarias facilitados por el acreedor o por quien actúe por su cuenta o interés.
 
 Estos datos deberán conservarse en ficheros creados con la exclusiva finalidad de facilitar información crediticia del afectado y su tratamiento se regirá por lo dispuesto en el presente reglamento y, en particular, por las previsiones contenidas en la sección segunda de este capítulo.
 
@@ -1189,7 +1189,7 @@ El acreedor deberá informar al deudor, en el momento en que se celebre el contr
 
 #### Artículo 40. Notificación de inclusión.
 
-1. El responsable del fichero común deberá notificar a los interesados respecto de los que hayan registrado datos de carácter personal, en el plazo de treinta días desde dicho registro, una referencia de los que hubiesen sido incluidos, informándole asimismo de la posibilidad de ejercitar sus derechos de acceso, rectificación, cancelación y oposición, en los términos establecidos por la Ley Orgánica 15/1999, de 13 de diciembre.
+1. El responsable del fichero común deberá notificar a los interesados respecto de los que hayan registrado datos de carácter personal, en el plazo de treinta días desde dicho registro, una referencia de los que hubiesen sido incluidos, informándole asimismo de la posibilidad de ejercitar sus derechos de acceso, rectificación, cancelación y oposición, en los términos establecidos por la [Ley Orgánica 15/1999](./LO15_1999_proteccion_datos_caracter_personal.md), de 13 de diciembre.
 
 2. Se efectuará una notificación por cada deuda concreta y determinada con independencia de que ésta se tenga con el mismo o con distintos acreedores.
 
@@ -1227,13 +1227,13 @@ En los supuestos de contratación telefónica de los productos o servicios a los
 
 1. El acreedor o quien actúe por su cuenta o interés deberá asegurarse que concurren todos los requisitos exigidos en los artículos 38 y 39 en el momento de notificar los datos adversos al responsable del fichero común.
 
-2. El acreedor o quien actúe por su cuenta o interés será responsable de la inexistencia o inexactitud de los datos que hubiera facilitado para su inclusión en el fichero, en los términos previstos en la Ley Orgánica 15/1999, de 13 de diciembre.
+2. El acreedor o quien actúe por su cuenta o interés será responsable de la inexistencia o inexactitud de los datos que hubiera facilitado para su inclusión en el fichero, en los términos previstos en la [Ley Orgánica 15/1999](./LO15_1999_proteccion_datos_caracter_personal.md), de 13 de diciembre.
 
 #### Artículo 44. Ejercicio de los derechos de acceso, rectificación, cancelación y oposición.
 
 1. El ejercicio de los derechos de acceso, rectificación, cancelación y oposición se rige por lo dispuesto en los capítulos I a IV del título III de este reglamento, sin perjuicio de lo señalado en el presente artículo.
 
-2. Cuando el interesado ejercite su derecho de acceso en relación con la inclusión de sus datos en un fichero regulado por el artículo 29.2 de la Ley Orgánica 15/1999, de 13 de diciembre, se tendrán en cuenta las siguientes reglas:
+2. Cuando el interesado ejercite su derecho de acceso en relación con la inclusión de sus datos en un fichero regulado por el artículo 29.2 de la [Ley Orgánica 15/1999](./LO15_1999_proteccion_datos_caracter_personal.md), de 13 de diciembre, se tendrán en cuenta las siguientes reglas:
 
 1.ª Si la solicitud se dirigiera al titular del fichero común, éste deberá comunicar al afectado todos los datos relativos al mismo que obren en el fichero.
 
@@ -1241,7 +1241,7 @@ En este caso, el titular del fichero común deberá, además de dar cumplimiento
 
 2.ª Si la solicitud se dirigiera a cualquier otra entidad participante en el sistema, deberá comunicar al afectado todos los datos relativos al mismo a los que ella pueda acceder, así como la identidad y dirección del titular del fichero común para que pueda completar el ejercicio de su derecho de acceso.
 
-3. Cuando el interesado ejercite sus derechos de rectificación o cancelación en relación con la inclusión de sus datos en un fichero regulado por el artículo 29.2 de la Ley Orgánica 15/1999, de 13 de diciembre, se tendrán en cuenta las siguientes reglas:
+3. Cuando el interesado ejercite sus derechos de rectificación o cancelación en relación con la inclusión de sus datos en un fichero regulado por el artículo 29.2 de la [Ley Orgánica 15/1999](./LO15_1999_proteccion_datos_caracter_personal.md), de 13 de diciembre, se tendrán en cuenta las siguientes reglas:
 
 1.ª Si la solicitud se dirige al titular del fichero común, éste tomará las medidas oportunas para trasladar dicha solicitud a la entidad que haya facilitado los datos, para que ésta la resuelva. En el caso de que el responsable del fichero común no haya recibido contestación por parte de la entidad en el plazo de siete días, procederá a la rectificación o cancelación cautelar de los mismos.
 
@@ -1257,7 +1257,7 @@ Tratamientos para actividades de publicidad y prospección comercial
 
 1. Quienes se dediquen a la recopilación de direcciones, reparto de documentos, publicidad, venta a distancia, prospección comercial y otras actividades análogas, así como quienes realicen estas actividades con el fin de comercializar sus propios productos o servicios o los de terceros, sólo podrán utilizar nombres y direcciones u otros datos de carácter personal cuando los mismos se encuentren en uno de los siguientes casos:
 
-a) Figuren en alguna de las fuentes accesibles al público a las que se refiere la letra j) del artículo 3 de la Ley Orgánica 15/1999, de 13 de diciembre y el artículo 7 de este reglamento y el interesado no haya manifestado su negativa u oposición a que sus datos sean objeto de tratamiento para las actividades descritas en este apartado.
+a) Figuren en alguna de las fuentes accesibles al público a las que se refiere la letra j) del artículo 3 de la [Ley Orgánica 15/1999](./LO15_1999_proteccion_datos_caracter_personal.md), de 13 de diciembre y el artículo 7 de este reglamento y el interesado no haya manifestado su negativa u oposición a que sus datos sean objeto de tratamiento para las actividades descritas en este apartado.
 
 b) Hayan sido facilitados por los propios interesados u obtenidos con su consentimiento para finalidades determinadas, explícitas y legítimas relacionadas con la actividad de publicidad o prospección comercial, habiéndose informado a los interesados sobre los sectores específicos y concretos de actividad respecto de los que podrá recibir información o publicidad.
 
@@ -1267,7 +1267,7 @@ A tal efecto, el interesado deberá ser informado de que sus datos han sido obte
 
 #### Artículo 46. Tratamiento de datos en campañas publicitarias.
 
-1. Para que una entidad pueda realizar por sí misma una actividad publicitaria de sus productos o servicios entre sus clientes será preciso que el tratamiento se ampare en alguno de los supuestos contemplados en el artículo 6 de la Ley Orgánica 15/1999, de 13 de diciembre.
+1. Para que una entidad pueda realizar por sí misma una actividad publicitaria de sus productos o servicios entre sus clientes será preciso que el tratamiento se ampare en alguno de los supuestos contemplados en el artículo 6 de la [Ley Orgánica 15/1999](./LO15_1999_proteccion_datos_caracter_personal.md), de 13 de diciembre.
 
 2. En caso de que una entidad contrate o encomiende a terceros la realización de una determinada campaña publicitaria de sus productos o servicios, encomendándole el tratamiento de determinados datos, se aplicarán las siguientes normas:
 
@@ -1277,7 +1277,7 @@ b) Cuando los parámetros fueran determinados únicamente por la entidad o entid
 
 c) Cuando en la determinación de los parámetros intervengan ambas entidades, serán ambas responsables del tratamiento.
 
-3. En el supuesto contemplado en el apartado anterior, la entidad que encargue la realización de la campaña publicitaria deberá adoptar las medidas necesarias para asegurarse de que la entidad contratada ha recabado los datos cumpliendo las exigencias establecidas en la Ley Orgánica 15/1999, de 13 de diciembre, y en el presente reglamento.
+3. En el supuesto contemplado en el apartado anterior, la entidad que encargue la realización de la campaña publicitaria deberá adoptar las medidas necesarias para asegurarse de que la entidad contratada ha recabado los datos cumpliendo las exigencias establecidas en la [Ley Orgánica 15/1999](./LO15_1999_proteccion_datos_caracter_personal.md), de 13 de diciembre, y en el presente reglamento.
 
 4. A los efectos previstos en este artículo, se consideran parámetros identificativos de los destinatarios las variables utilizadas para identificar el público objetivo o destinatario de una campaña o promoción comercial de productos o servicios que permitan acotar los destinatarios individuales de la misma.
 
@@ -1299,7 +1299,7 @@ A tal efecto, los citados ficheros podrán contener los mínimos datos imprescin
 
 El afectado podrá solicitar su exclusión respecto de un fichero o tratamiento concreto o su inclusión en ficheros comunes de excluidos de carácter general o sectorial.
 
-3. La entidad responsable del fichero común podrá tratar los datos de los interesados que hubieran manifestado su negativa u oposición al tratamiento de sus datos con fines de publicidad o prospección comercial, cumpliendo las restantes obligaciones establecidas en la Ley Orgánica 15/1999, de 13 de diciembre, y en el presente Reglamento.
+3. La entidad responsable del fichero común podrá tratar los datos de los interesados que hubieran manifestado su negativa u oposición al tratamiento de sus datos con fines de publicidad o prospección comercial, cumpliendo las restantes obligaciones establecidas en la [Ley Orgánica 15/1999](./LO15_1999_proteccion_datos_caracter_personal.md), de 13 de diciembre, y en el presente Reglamento.
 
 4. Quienes pretendan efectuar un tratamiento relacionado con actividades de publicidad o prospección comercial deberán previamente consultar los ficheros comunes que pudieran afectar a su actuación, a fin de evitar que sean objeto de tratamiento los datos de los afectados que hubieran manifestado su oposición o negativa a ese tratamiento.
 
@@ -1309,7 +1309,7 @@ El afectado podrá solicitar su exclusión respecto de un fichero o tratamiento 
 
 2. Si el derecho se ejercitase ante una entidad que hubiese encargado a un tercero la realización de una campaña publicitaria, aquélla estará obligada, en el plazo de diez días, desde la recepción de la comunicación de la solicitud de ejercicio de derechos del afectado, a comunicar la solicitud al responsable del fichero a fin de que el mismo otorgue al afectado su derecho en el plazo de diez días desde la recepción de la comunicación, dando cuenta de ello al afectado.
 
-Lo dispuesto en el párrafo anterior se entenderá sin perjuicio del deber impuesto a la entidad mencionada en el apartado anterior, en todo caso, por el párrafo segundo del artículo 5.5 de la Ley Orgánica 15/1999, de 13 de diciembre.
+Lo dispuesto en el párrafo anterior se entenderá sin perjuicio del deber impuesto a la entidad mencionada en el apartado anterior, en todo caso, por el párrafo segundo del artículo 5.5 de la [Ley Orgánica 15/1999](./LO15_1999_proteccion_datos_caracter_personal.md), de 13 de diciembre.
 
 #### Artículo 51. Derecho de oposición.
 
@@ -1321,13 +1321,13 @@ La oposición a la que se refiere el párrafo anterior deberá entenderse sin pe
 
 3. Cuando el responsable del fichero o tratamiento disponga de servicios de cualquier índole para la atención a sus clientes o el ejercicio de reclamaciones relacionadas con el servicio prestado o los productos ofertados al mismo, deberá concederse la posibilidad al afectado de ejercer su oposición a través de dichos servicios.
 
-No se considerarán conformes a lo dispuesto en la Ley Orgánica 15/1999, de 13 de diciembre, los supuestos en que el responsable del tratamiento establezca como medio para que el interesado pueda ejercitar su oposición el envío de cartas certificadas o envíos semejantes, la utilización de servicios de telecomunicaciones que implique una tarificación adicional al afectado o cualesquiera otros medios que impliquen un coste excesivo para el interesado.
+No se considerarán conformes a lo dispuesto en la [Ley Orgánica 15/1999](./LO15_1999_proteccion_datos_caracter_personal.md), de 13 de diciembre, los supuestos en que el responsable del tratamiento establezca como medio para que el interesado pueda ejercitar su oposición el envío de cartas certificadas o envíos semejantes, la utilización de servicios de telecomunicaciones que implique una tarificación adicional al afectado o cualesquiera otros medios que impliquen un coste excesivo para el interesado.
 
 En todo caso, el ejercicio por el afectado de sus derechos no podrá suponer un ingreso adicional para el responsable del tratamiento ante el que se ejercitan.
 
 4. Si el derecho de oposición se ejercitase ante una entidad que hubiera encomendado a un tercero la realización de una campaña publicitaria, aquélla estará obligada, en el plazo de diez días, desde la recepción de la comunicación de la solicitud de ejercicio de derechos del afectado, a comunicar la solicitud al responsable del fichero a fin de que el mismo atienda el derecho del afectado en el plazo de diez días desde la recepción de la comunicación, dando cuenta de ello al afectado.
 
-Lo dispuesto en el párrafo anterior se entenderá sin perjuicio del deber impuesto a la entidad mencionada en el apartado anterior, en todo caso, por el párrafo segundo del artículo 5.5 de la Ley Orgánica 15/1999, de 13 de diciembre.
+Lo dispuesto en el párrafo anterior se entenderá sin perjuicio del deber impuesto a la entidad mencionada en el apartado anterior, en todo caso, por el párrafo segundo del artículo 5.5 de la [Ley Orgánica 15/1999](./LO15_1999_proteccion_datos_caracter_personal.md), de 13 de diciembre.
 
 ## TÍTULO V
 
@@ -1425,7 +1425,7 @@ Asimismo, se incluirán, en su caso, la identificación del encargado del tratam
 
 En el caso de ficheros de titularidad pública también se hará constar la referencia de la disposición general por la que ha sido creado, y en su caso, modificado.
 
-3. La inscripción de un fichero en el Registro General de Protección de Datos, no exime al responsable del cumplimiento del resto de las obligaciones previstas en la Ley Orgánica 15/1999, de 13 de diciembre, y demás disposiciones reglamentarias.
+3. La inscripción de un fichero en el Registro General de Protección de Datos, no exime al responsable del cumplimiento del resto de las obligaciones previstas en la [Ley Orgánica 15/1999](./LO15_1999_proteccion_datos_caracter_personal.md), de 13 de diciembre, y demás disposiciones reglamentarias.
 
 #### Artículo 61. Cancelación de la inscripción.
 
@@ -1441,7 +1441,7 @@ El Registro General de Protección de Datos podrá rectificar en cualquier momen
 
 1. En supuestos excepcionales con el fin de garantizar el derecho a la protección de datos de los afectados, y sin perjuicio de la obligación de notificación, se podrá proceder a la inscripción de oficio de un determinado fichero en el Registro General de Protección de Datos.
 
-2. Para que lo dispuesto en el apartado anterior resulte de aplicación, será requisito indispensable que la correspondiente norma o acuerdo regulador de los ficheros que contengan datos de carácter personal haya sido publicado en el correspondiente diario oficial y cumpla los requisitos establecidos en la Ley Orgánica 15/1999, de 13 de diciembre, y el presente reglamento.
+2. Para que lo dispuesto en el apartado anterior resulte de aplicación, será requisito indispensable que la correspondiente norma o acuerdo regulador de los ficheros que contengan datos de carácter personal haya sido publicado en el correspondiente diario oficial y cumpla los requisitos establecidos en la [Ley Orgánica 15/1999](./LO15_1999_proteccion_datos_caracter_personal.md), de 13 de diciembre, y el presente reglamento.
 
 3. El Director de la Agencia Española de Protección de Datos podrá, a propuesta del Registro General de Protección de Datos, acordar la inscripción del fichero de titularidad pública en el Registro, notificándose dicho acuerdo al órgano responsable del fichero.
 
@@ -1459,13 +1459,13 @@ CAPÍTULO I
 
 Disposiciones generales
 
-#### Artículo 65. Cumplimiento de las disposiciones de la Ley Orgánica 15/1999, de 13 de diciembre.
+#### Artículo 65. Cumplimiento de las disposiciones de la [Ley Orgánica 15/1999](./LO15_1999_proteccion_datos_caracter_personal.md), de 13 de diciembre.
 
-La transferencia internacional de datos no excluye en ningún caso la aplicación de las disposiciones contenidas en la Ley Orgánica 15/1999, de 13 de diciembre, y en el presente reglamento.
+La transferencia internacional de datos no excluye en ningún caso la aplicación de las disposiciones contenidas en la [Ley Orgánica 15/1999](./LO15_1999_proteccion_datos_caracter_personal.md), de 13 de diciembre, y en el presente reglamento.
 
 #### Artículo 66. Autorización y notificación.
 
-1. Para que la transferencia internacional de datos pueda considerarse conforme a lo dispuesto en la Ley Orgánica 15/1999, de 13 de diciembre, y en el presente Reglamento será necesaria la autorización del Director de la Agencia Española de Protección de Datos, que se otorgará en caso de que el exportador aporte las garantías a las que se refiere el artículo 70 del presente reglamento.
+1. Para que la transferencia internacional de datos pueda considerarse conforme a lo dispuesto en la [Ley Orgánica 15/1999](./LO15_1999_proteccion_datos_caracter_personal.md), de 13 de diciembre, y en el presente Reglamento será necesaria la autorización del Director de la Agencia Española de Protección de Datos, que se otorgará en caso de que el exportador aporte las garantías a las que se refiere el artículo 70 del presente reglamento.
 
 La autorización se otorgará conforme al procedimiento establecido en la sección primera del capítulo V del título IX de este reglamento.
 
@@ -1473,7 +1473,7 @@ La autorización se otorgará conforme al procedimiento establecido en la secci�
 
 a) Cuando el Estado en el que se encontrase el importador ofrezca un nivel adecuado de protección conforme a lo previsto en el capítulo II de este título.
 
-b) Cuando la transferencia se encuentre en uno de los supuestos contemplados en los apartados a) a j) del artículo 34 de la Ley Orgánica 15/1999, de 13 de diciembre.
+b) Cuando la transferencia se encuentre en uno de los supuestos contemplados en los apartados a) a j) del artículo 34 de la [Ley Orgánica 15/1999](./LO15_1999_proteccion_datos_caracter_personal.md), de 13 de diciembre.
 
 3. En todo caso, la transferencia internacional de datos deberá ser notificada a fin de proceder a su inscripción en el Registro General de Protección de Datos, conforme al procedimiento establecido en la sección primera del capítulo IV del título IX del presente reglamento.
 
@@ -1497,7 +1497,7 @@ No será necesaria la autorización del Director de la Agencia Española de Prot
 
 #### Artículo 69. Suspensión temporal de las transferencias.
 
-1. En los supuestos previstos en los artículos precedentes, el Director de la Agencia Española de Protección de Datos, en uso de la potestad que le otorga el artículo 37.1 f) de la Ley Orgánica 15/1999, de 13 de diciembre, podrá acordar, previa audiencia del exportador, la suspensión temporal de la transferencia de datos hacia un importador ubicado en un tercer Estado del que se haya declarado la existencia de un nivel adecuado de protección, cuando concurra alguna de las circunstancias siguientes:
+1. En los supuestos previstos en los artículos precedentes, el Director de la Agencia Española de Protección de Datos, en uso de la potestad que le otorga el artículo 37.1 f) de la [Ley Orgánica 15/1999](./LO15_1999_proteccion_datos_caracter_personal.md), de 13 de diciembre, podrá acordar, previa audiencia del exportador, la suspensión temporal de la transferencia de datos hacia un importador ubicado en un tercer Estado del que se haya declarado la existencia de un nivel adecuado de protección, cuando concurra alguna de las circunstancias siguientes:
 
 a) Que las autoridades de Protección de Datos del Estado importador o cualquier otra competente, en caso de no existir las primeras, resuelvan que el importador ha vulnerado las normas de protección de datos establecidas en su derecho interno.
 
@@ -1521,7 +1521,7 @@ La autorización de la transferencia se tramitará conforme al procedimiento est
 
 A tal efecto, se considerará que establecen las adecuadas garantías los contratos que se celebren de acuerdo con lo previsto en las Decisiones de la Comisión Europea 2001/497/CE, de 15 de Junio de 2001, 2002/16/CE, de 27 de diciembre de 2001, y 2004/915/CE, de 27 de diciembre de 2004 o de lo que dispongan las Decisiones de la Comisión que den cumplimiento a lo establecido en el artículo 26.4 de la Directiva 95/46/CE.
 
-3. En el supuesto contemplado en el apartado anterior, el Director de la Agencia Española de Protección de Datos podrá denegar o, en uso de la potestad que le otorga el artículo 37.1 f) de la Ley Orgánica 15/1999, de 13 de diciembre, suspender temporalmente, previa audiencia del exportador, la transferencia, cuando concurra alguna de las circunstancias siguientes:
+3. En el supuesto contemplado en el apartado anterior, el Director de la Agencia Española de Protección de Datos podrá denegar o, en uso de la potestad que le otorga el artículo 37.1 f) de la [Ley Orgánica 15/1999](./LO15_1999_proteccion_datos_caracter_personal.md), de 13 de diciembre, suspender temporalmente, previa audiencia del exportador, la transferencia, cuando concurra alguna de las circunstancias siguientes:
 
 a) Que la situación de protección de los derechos fundamentales y libertades públicas en el país de destino o su legislación impidan garantizar el íntegro cumplimiento del contrato y el ejercicio por los afectados de los derechos que el contrato garantiza.
 
@@ -1537,7 +1537,7 @@ La suspensión se acordará previa la tramitación del procedimiento establecido
 
 Las resoluciones del Director de la Agencia Española de Protección de Datos por las que se deniegue o suspenda una transferencia internacional de datos en virtud de las causas a las que se refiere este apartado serán notificadas a la Comisión de las Comunidades Europeas cuando así sea exigible.
 
-4. También podrá otorgarse la autorización para la transferencia internacional de datos en el seno de grupos multinacionales de empresas cuando hubiesen sido adoptados por los mismos normas o reglas internas en que consten las necesarias garantías de respeto a la protección de la vida privada y el derecho fundamental a la protección de datos de los afectados y se garantice asimismo el cumplimiento de los principios y el ejercicio de los derechos reconocidos en la Ley Orgánica 15/1999, de 13 de diciembre, y el presente reglamento.
+4. También podrá otorgarse la autorización para la transferencia internacional de datos en el seno de grupos multinacionales de empresas cuando hubiesen sido adoptados por los mismos normas o reglas internas en que consten las necesarias garantías de respeto a la protección de la vida privada y el derecho fundamental a la protección de datos de los afectados y se garantice asimismo el cumplimiento de los principios y el ejercicio de los derechos reconocidos en la [Ley Orgánica 15/1999](./LO15_1999_proteccion_datos_caracter_personal.md), de 13 de diciembre, y el presente reglamento.
 
 En este caso, para que proceda la autorización del Director de la Agencia Española de Protección de Datos será preciso que las normas o reglas resulten vinculantes para las empresas del Grupo y exigibles conforme al ordenamiento jurídico español.
 
@@ -1549,9 +1549,9 @@ En todo caso, la autorización del Director de la Agencia Española de Protecci�
 
 #### Artículo 71. Objeto y naturaleza.
 
-1. Los códigos tipo a los que se refiere el artículo 32 de la Ley Orgánica 15/1999, de 13 de diciembre, tienen por objeto adecuar lo establecido en la citada Ley Orgánica y en el presente reglamento a las peculiaridades de los tratamientos efectuados por quienes se adhieren a los mismos.
+1. Los códigos tipo a los que se refiere el artículo 32 de la [Ley Orgánica 15/1999](./LO15_1999_proteccion_datos_caracter_personal.md), de 13 de diciembre, tienen por objeto adecuar lo establecido en la citada Ley Orgánica y en el presente reglamento a las peculiaridades de los tratamientos efectuados por quienes se adhieren a los mismos.
 
-A tal efecto, contendrán reglas o estándares específicos que permitan armonizar los tratamientos de datos efectuados por los adheridos, facilitar el ejercicio de los derechos de los afectados y favorecer el cumplimiento de lo dispuesto en la Ley Orgánica 15/1999, de 13 de diciembre, y el presente reglamento.
+A tal efecto, contendrán reglas o estándares específicos que permitan armonizar los tratamientos de datos efectuados por los adheridos, facilitar el ejercicio de los derechos de los afectados y favorecer el cumplimiento de lo dispuesto en la [Ley Orgánica 15/1999](./LO15_1999_proteccion_datos_caracter_personal.md), de 13 de diciembre, y el presente reglamento.
 
 2. Los códigos tipo tendrán el carácter de códigos deontológicos o de buena práctica profesional y serán vinculantes para quienes se adhieran a los mismos.
 
@@ -1575,7 +1575,7 @@ a) La delimitación clara y precisa de su ámbito de aplicación, las actividade
 
 b) Las previsiones específicas para la aplicación de los principios de protección de datos.
 
-c) El establecimiento de estándares homogéneos para el cumplimiento por los adheridos al código de las obligaciones establecidas en la Ley Orgánica 15/1999, de 13 de diciembre.
+c) El establecimiento de estándares homogéneos para el cumplimiento por los adheridos al código de las obligaciones establecidas en la [Ley Orgánica 15/1999](./LO15_1999_proteccion_datos_caracter_personal.md), de 13 de diciembre.
 
 d) El establecimiento de procedimientos que faciliten el ejercicio por los afectados de sus derechos de acceso, rectificación, cancelación y oposición.
 
@@ -1601,7 +1601,7 @@ d) Modelos de cláusulas para el cumplimiento de los requisitos formales exigibl
 
 2. Además podrán contener cualquier otro compromiso que puedan establecer las entidades promotoras y, en particular, sobre:
 
-a) La adopción de medidas de seguridad adicionales a las exigidas por la Ley Orgánica 15/1999, de 13 de diciembre, y el presente Reglamento.
+a) La adopción de medidas de seguridad adicionales a las exigidas por la [Ley Orgánica 15/1999](./LO15_1999_proteccion_datos_caracter_personal.md), de 13 de diciembre, y el presente Reglamento.
 
 b) La identificación de las categorías de cesionarios o importadores de los datos.
 
@@ -1625,7 +1625,7 @@ d) Una graduación de sanciones que permita ajustarlas a la gravedad del incumpl
 
 e) La notificación al afectado de la decisión adoptada.
 
-3. Asimismo, y sin perjuicio de lo dispuesto en el artículo 19 de la Ley Orgánica 15/1999, de 13 de diciembre, los códigos tipo podrán contemplar procedimientos para la determinación de medidas reparadoras en caso de haberse causado un perjuicio a los afectados como consecuencia del incumplimiento del código tipo.
+3. Asimismo, y sin perjuicio de lo dispuesto en el artículo 19 de la [Ley Orgánica 15/1999](./LO15_1999_proteccion_datos_caracter_personal.md), de 13 de diciembre, los códigos tipo podrán contemplar procedimientos para la determinación de medidas reparadoras en caso de haberse causado un perjuicio a los afectados como consecuencia del incumplimiento del código tipo.
 
 4. Lo dispuesto en este artículo se aplicará sin perjuicio de las competencias de la Agencia Española de Protección de Datos y, en su caso, de las autoridades de control de las comunidades autónomas.
 
@@ -1635,7 +1635,7 @@ El código tipo deberá incorporar como anexo una relación de adheridos, que de
 
 #### Artículo 77. Depósito y publicidad de los códigos tipo.
 
-1. Para que los códigos tipo puedan ser considerados como tales a los efectos previstos en el artículo 32 de la Ley Orgánica 15/1999, de 13 de diciembre, y el presente reglamento, deberán ser depositados e inscritos en el Registro General de Protección de Datos de la Agencia Española de Protección de Datos o, cuando corresponda, en el registro que fuera creado por las comunidades autónomas, que darán traslado para su inclusión al Registro General de Protección de Datos.
+1. Para que los códigos tipo puedan ser considerados como tales a los efectos previstos en el artículo 32 de la [Ley Orgánica 15/1999](./LO15_1999_proteccion_datos_caracter_personal.md), de 13 de diciembre, y el presente reglamento, deberán ser depositados e inscritos en el Registro General de Protección de Datos de la Agencia Española de Protección de Datos o, cuando corresponda, en el registro que fuera creado por las comunidades autónomas, que darán traslado para su inclusión al Registro General de Protección de Datos.
 
 2. A tal efecto, los códigos tipo deberán ser presentados ante la correspondiente autoridad de control, tramitándose su inscripción, en caso de estar sometidos a la decisión de la Agencia Española de Protección de Datos, conforme al procedimiento establecido en el capítulo VI del título IX de este reglamento.
 
@@ -1683,7 +1683,7 @@ Las medidas de seguridad exigibles a los ficheros y tratamientos se clasifican e
 
 a) Los relativos a la comisión de infracciones administrativas o penales.
 
-b) Aquellos cuyo funcionamiento se rija por el artículo 29 de la Ley Orgánica 15/1999, de 13 de diciembre.
+b) Aquellos cuyo funcionamiento se rija por el artículo 29 de la [Ley Orgánica 15/1999](./LO15_1999_proteccion_datos_caracter_personal.md), de 13 de diciembre.
 
 c) Aquellos de los que sean responsables Administraciones tributarias y se relacionen con el ejercicio de sus potestades tributarias.
 
@@ -1785,7 +1785,7 @@ b) Los controles periódicos que se deban realizar para verificar el cumplimient
 
 5. Cuando exista un tratamiento de datos por cuenta de terceros, el documento de seguridad deberá contener la identificación de los ficheros o tratamientos que se traten en concepto de encargado con referencia expresa al contrato o documento que regule las condiciones del encargo, así como de la identificación del responsable y del período de vigencia del encargo.
 
-6. En aquellos casos en los que datos personales de un fichero o tratamiento se incorporen y traten de modo exclusivo en los sistemas del encargado, el responsable deberá anotarlo en su documento de seguridad. Cuando tal circunstancia afectase a parte o a la totalidad de los ficheros o tratamientos del responsable, podrá delegarse en el encargado la llevanza del documento de seguridad, salvo en lo relativo a aquellos datos contenidos en recursos propios. Este hecho se indicará de modo expreso en el contrato celebrado al amparo del artículo 12 de la Ley Orgánica 15/1999, de 13 de diciembre, con especificación de los ficheros o tratamientos afectados.
+6. En aquellos casos en los que datos personales de un fichero o tratamiento se incorporen y traten de modo exclusivo en los sistemas del encargado, el responsable deberá anotarlo en su documento de seguridad. Cuando tal circunstancia afectase a parte o a la totalidad de los ficheros o tratamientos del responsable, podrá delegarse en el encargado la llevanza del documento de seguridad, salvo en lo relativo a aquellos datos contenidos en recursos propios. Este hecho se indicará de modo expreso en el contrato celebrado al amparo del artículo 12 de la [Ley Orgánica 15/1999](./LO15_1999_proteccion_datos_caracter_personal.md), de 13 de diciembre, con especificación de los ficheros o tratamientos afectados.
 
 En tal caso, se atenderá al documento de seguridad del encargado al efecto del cumplimiento de lo dispuesto por este reglamento.
 
@@ -2045,7 +2045,7 @@ Disposiciones generales
 
 2. La publicación de estas resoluciones se realizará preferentemente mediante su inserción en el sitio web de la Agencia Española de Protección de Datos, dentro del plazo de un mes a contar desde la fecha de su notificación a los interesados.
 
-3. En la notificación de las resoluciones se informará expresamente a los interesados de la publicidad prevista en el artículo 37.2 de la Ley Orgánica 15/1999, de 13 de diciembre.
+3. En la notificación de las resoluciones se informará expresamente a los interesados de la publicidad prevista en el artículo 37.2 de la [Ley Orgánica 15/1999](./LO15_1999_proteccion_datos_caracter_personal.md), de 13 de diciembre.
 
 4. La publicación se realizará aplicando los criterios de disociación de los datos de carácter personal que a tal efecto se establezcan mediante Resolución del Director de la Agencia.
 
@@ -2055,7 +2055,7 @@ Procedimiento de tutela de los derechos de acceso, rectificación, cancelación 
 
 #### Artículo 117. Instrucción del procedimiento.
 
-1. El procedimiento se iniciará a instancia del afectado o afectados, expresando con claridad el contenido de su reclamación y de los preceptos de la Ley Orgánica 15/1999, de 13 de diciembre, que se consideran vulnerados.
+1. El procedimiento se iniciará a instancia del afectado o afectados, expresando con claridad el contenido de su reclamación y de los preceptos de la [Ley Orgánica 15/1999](./LO15_1999_proteccion_datos_caracter_personal.md), de 13 de diciembre, que se consideran vulnerados.
 
 2. Recibida la reclamación en la Agencia Española de Protección de Datos, se dará traslado de la misma al responsable del fichero, para que, en el plazo de quince días, formule las alegaciones que estime pertinentes.
 
@@ -2079,13 +2079,13 @@ Sección 1.ª Disposiciones generales
 
 #### Artículo 120. Ámbito de aplicación.
 
-1. Las disposiciones contenidas en el presente capítulo serán de aplicación a los procedimientos relativos al ejercicio por la Agencia Española de Protección de Datos de la potestad sancionadora que le viene atribuida por la Ley Orgánica 15/1999, de 13 de diciembre, de Protección de datos de carácter personal, en la Ley 34/2002, de 11 de julio, de Servicios de la sociedad de la información y de comercio electrónico, y en la Ley 32/2003, de 3 de noviembre, General de Telecomunicaciones.
+1. Las disposiciones contenidas en el presente capítulo serán de aplicación a los procedimientos relativos al ejercicio por la Agencia Española de Protección de Datos de la potestad sancionadora que le viene atribuida por la [Ley Orgánica 15/1999](./LO15_1999_proteccion_datos_caracter_personal.md), de 13 de diciembre, de Protección de datos de carácter personal, en la Ley 34/2002, de 11 de julio, de Servicios de la sociedad de la información y de comercio electrónico, y en la Ley 32/2003, de 3 de noviembre, General de Telecomunicaciones.
 
-2. No obstante, las disposiciones previstas en el ar-tículo 121 y en la sección cuarta de este capítulo únicamente serán aplicables a los procedimientos referidos al ejercicio de la potestad sancionadora prevista en la Ley Orgánica 15/1999, de 13 de diciembre.
+2. No obstante, las disposiciones previstas en el ar-tículo 121 y en la sección cuarta de este capítulo únicamente serán aplicables a los procedimientos referidos al ejercicio de la potestad sancionadora prevista en la [Ley Orgánica 15/1999](./LO15_1999_proteccion_datos_caracter_personal.md), de 13 de diciembre.
 
 #### Artículo 121. Inmovilización de ficheros.
 
-1. En el supuesto previsto como infracción muy grave en la Ley Orgánica 15/1999, de 13 de diciembre, consistente en la utilización o cesión ilícita de los datos de carácter personal en la que se impida gravemente o se atente de igual modo contra el ejercicio de los derechos de los ciudadanos y el libre desarrollo de la personalidad que la Constitución y las leyes garantizan, el Director de la Agencia Española de Protección de Datos podrá, en cualquier momento del procedimiento, requerir a los responsables de ficheros o tratamientos de datos de carácter personal, tanto de titularidad pública como privada, la cesación en la utilización o cesión ilícita de los datos.
+1. En el supuesto previsto como infracción muy grave en la [Ley Orgánica 15/1999](./LO15_1999_proteccion_datos_caracter_personal.md), de 13 de diciembre, consistente en la utilización o cesión ilícita de los datos de carácter personal en la que se impida gravemente o se atente de igual modo contra el ejercicio de los derechos de los ciudadanos y el libre desarrollo de la personalidad que la Constitución y las leyes garantizan, el Director de la Agencia Española de Protección de Datos podrá, en cualquier momento del procedimiento, requerir a los responsables de ficheros o tratamientos de datos de carácter personal, tanto de titularidad pública como privada, la cesación en la utilización o cesión ilícita de los datos.
 
 2. El requerimiento deberá ser atendido en el plazo improrrogable de tres días, durante el cual el responsable del fichero podrá formular las alegaciones que tenga por convenientes en orden al levantamiento de la medida.
 
@@ -2169,11 +2169,11 @@ g) Medidas de carácter provisional que pudieran acordarse, en su caso, conforme
 
 2. El vencimiento del citado plazo máximo, sin que se haya dictada y notificada resolución expresa, producirá la caducidad del procedimiento y el archivo de las actuaciones.
 
-Sección 4.ª Procedimiento de declaración de infracción de la Ley Orgánica 15/1999, de 13 de diciembre, por las administraciones públicas
+Sección 4.ª Procedimiento de declaración de infracción de la [Ley Orgánica 15/1999](./LO15_1999_proteccion_datos_caracter_personal.md), de 13 de diciembre, por las administraciones públicas
 
 #### Artículo 129. Disposición general.
 
-El procedimiento por el que se declare la existencia de una infracción de la Ley Orgánica 15/1999, de 13 de diciembre, cometida por las Administraciones públicas será el establecido en la sección tercera de este capítulo.
+El procedimiento por el que se declare la existencia de una infracción de la [Ley Orgánica 15/1999](./LO15_1999_proteccion_datos_caracter_personal.md), de 13 de diciembre, cometida por las Administraciones públicas será el establecido en la sección tercera de este capítulo.
 
 CAPÍTULO IV
 
@@ -2209,7 +2209,7 @@ Si la notificación referida a la creación, modificación o supresión del fich
 
 #### Artículo 133. Improcedencia o denegación de la inscripción.
 
-El Director de la Agencia Española de Protección de Datos, a propuesta del Registro General de Protección de Datos, dictará resolución denegando la inscripción, modificación o cancelación cuando de los documentos aportados por el responsable del fichero se desprenda que la notificación no resulta conforme a lo dispuesto en la Ley Orgánica 15/1999, de 13 de diciembre.
+El Director de la Agencia Española de Protección de Datos, a propuesta del Registro General de Protección de Datos, dictará resolución denegando la inscripción, modificación o cancelación cuando de los documentos aportados por el responsable del fichero se desprenda que la notificación no resulta conforme a lo dispuesto en la [Ley Orgánica 15/1999](./LO15_1999_proteccion_datos_caracter_personal.md), de 13 de diciembre.
 
 La resolución será debidamente motivada, con indicación expresa de las causas que impiden la inscripción, modificación o cancelación.
 
@@ -2239,7 +2239,7 @@ Sección 1.ª Procedimiento de autorización de transferencias internacionales d
 
 #### Artículo 137. Iniciación del procedimiento.
 
-1. El procedimiento para la obtención de la autorización para las transferencias internacionales de datos a países terceros a las que se refiere el artículo 33 de la Ley Orgánica 15/1999, de 13 de diciembre, y el artículo 70 de este reglamento se iniciará siempre a solicitud del exportador que pretenda llevar a cabo la transferencia.
+1. El procedimiento para la obtención de la autorización para las transferencias internacionales de datos a países terceros a las que se refiere el artículo 33 de la [Ley Orgánica 15/1999](./LO15_1999_proteccion_datos_caracter_personal.md), de 13 de diciembre, y el artículo 70 de este reglamento se iniciará siempre a solicitud del exportador que pretenda llevar a cabo la transferencia.
 
 2. En su solicitud, además de los requisitos legalmente exigidos, el exportador deberá consignar, en todo caso:
 
@@ -2375,7 +2375,7 @@ Sección 1.ª Procedimiento de exención del deber de información al interesado
 
 #### Artículo 153. Iniciación del procedimiento.
 
-1. El procedimiento para obtener de la Agencia Española de Protección de Datos la exención del deber de informar al interesado acerca del tratamiento de sus datos de carácter personal cuando resulte imposible o exija esfuerzos desproporcionados, prevista en el apartado 5 del artículo 5 de la Ley Orgánica 15/1999, de 13 de diciembre, se iniciará siempre a petición del responsable que pretenda obtener la aplicación de la exención.
+1. El procedimiento para obtener de la Agencia Española de Protección de Datos la exención del deber de informar al interesado acerca del tratamiento de sus datos de carácter personal cuando resulte imposible o exija esfuerzos desproporcionados, prevista en el apartado 5 del artículo 5 de la [Ley Orgánica 15/1999](./LO15_1999_proteccion_datos_caracter_personal.md), de 13 de diciembre, se iniciará siempre a petición del responsable que pretenda obtener la aplicación de la exención.
 
 2. En el escrito de solicitud, además de los requisitos recogidos en el art. 70 de la Ley 30/1992, de 26 de noviembre, el responsable deberá:
 
@@ -2407,7 +2407,7 @@ Sección 2.ª Procedimiento para la autorización  de conservación de datos par
 
 #### Artículo 157. Iniciación del procedimiento.
 
-1. El procedimiento para obtener de la Agencia Española de Protección de Datos la declaración de la concurrencia en un determinado tratamiento de datos de valores históricos, científicos o estadísticos, a los efectos previstos en la Ley Orgánica 15/1999, de 13 de diciembre, y en el presente Reglamento, se iniciará siempre a petición del responsable que pretenda obtener la declaración.
+1. El procedimiento para obtener de la Agencia Española de Protección de Datos la declaración de la concurrencia en un determinado tratamiento de datos de valores históricos, científicos o estadísticos, a los efectos previstos en la [Ley Orgánica 15/1999](./LO15_1999_proteccion_datos_caracter_personal.md), de 13 de diciembre, y en el presente Reglamento, se iniciará siempre a petición del responsable que pretenda obtener la declaración.
 
 2. En el escrito de solicitud, el responsable deberá:
 

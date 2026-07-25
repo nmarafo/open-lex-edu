@@ -99,7 +99,7 @@ Primero.- El artículo 1 de la [Ley Orgánica 2/2006](../../../estatal/01_marco_
 
 Segundo.- Asimismo, el artº. 1.j) del mismo texto legal, garantiza la participación de los distintos sectores de la comunidad educativa, en el ámbito de sus correspondientes competencias, en el desarrollo de la actividad escolar de los centros.
 
-Tercero.- El artº. 82 de la Ley Orgánica 2/2006, de 3 de mayo, prevé la prestación de forma gratuita del servicio del transporte escolar, para garantizar la calidad de la enseñanza de los alumnos de enseñanza obligatoria, que hayan de estar escolarizados en un municipio próximo al de su residencia o en una zona de escolarización establecida, de acuerdo con la normativa aplicable.
+Tercero.- El artº. 82 de la [Ley Orgánica 2/2006](../../../estatal/01_marco_normativo_general_y_organico/LO2_2006_educacion_texto_consolidado_modificaciones_lomloe.md), de 3 de mayo, prevé la prestación de forma gratuita del servicio del transporte escolar, para garantizar la calidad de la enseñanza de los alumnos de enseñanza obligatoria, que hayan de estar escolarizados en un municipio próximo al de su residencia o en una zona de escolarización establecida, de acuerdo con la normativa aplicable.
 
 Cuarto.- Asimismo, el artículo 110.2 de la citada Ley Orgánica, indica que "Las Administraciones Educativas promoverán los programas para adecuar las condiciones físicas de los transportes escolares a los alumnos con incapacidad".
 
@@ -109,7 +109,7 @@ Sexto.- Emitido Informe del Consejo Escolar de Canarias, de fecha 17 de julio de
 
 FUNDAMENTOS DE DERECHO
 
-Primero.- De conformidad con la Ley Orgánica 2/2006, de 3 de mayo, de Educación.
+Primero.- De conformidad con la [Ley Orgánica 2/2006](../../../estatal/01_marco_normativo_general_y_organico/LO2_2006_educacion_texto_consolidado_modificaciones_lomloe.md), de 3 de mayo, de Educación.
 
 Segundo.- De acuerdo con el [Real Decreto 443/2001](../../../estatal/05_alumnado_y_servicios_escolares/RD443_2001_condiciones_seguridad_transporte_escolar_menores.md), de 27 de abril, sobre condiciones de seguridad en el transporte escolar y de menores (B.O.E. nº 105, de 2.5.01), modificado por el Real Decreto 894/2002, de 30 de agosto (B.O.E. nº 209, de 31.8.02).
 
@@ -243,7 +243,7 @@ Undécima.- Acompañante durante la realización del transporte escolar.
 
 Será obligatoria la presencia de un acompañante a bordo del vehículo durante la realización del transporte escolar.
 
-Se garantizará la total implantación del acompañante en los vehículos de transporte para el curso escolar 2007/2008, de conformidad con la Disposición Transitoria Tercera "Competencia de aplicación progresiva" del Real Decreto 443/2001, de 27 de abril.
+Se garantizará la total implantación del acompañante en los vehículos de transporte para el curso escolar 2007/2008, de conformidad con la Disposición Transitoria Tercera "Competencia de aplicación progresiva" del [Real Decreto 443/2001](../../../estatal/05_alumnado_y_servicios_escolares/RD443_2001_condiciones_seguridad_transporte_escolar_menores.md), de 27 de abril.
 
 El acompañante tendrá como funciones principales:
 
@@ -253,7 +253,7 @@ Comunicar al/a la Director/a o miembro del equipo directivo del centro, cualquie
 
 Controlar que el alumnado transportado sea únicamente aquél que haya sido autorizado, de acuerdo con la información que a tal efecto facilite la dirección del centro.
 
-En lo no contemplado en esta Orden respecto de la figura del acompañante, se estará a lo dispuesto en el Real Decreto 443/2001, de 27 de abril, sobre condiciones de seguridad en el transporte escolar y de menores.
+En lo no contemplado en esta Orden respecto de la figura del acompañante, se estará a lo dispuesto en el [Real Decreto 443/2001](../../../estatal/05_alumnado_y_servicios_escolares/RD443_2001_condiciones_seguridad_transporte_escolar_menores.md), de 27 de abril, sobre condiciones de seguridad en el transporte escolar y de menores.
 
 Duodécima.- Peticiones del servicio de transporte escolar.
 

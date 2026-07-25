@@ -76,7 +76,7 @@ que los centros y el alumnado dispongan del instrumento necesario para el recono
 de las correspondencias, convalidaciones y exenciones en las enseñanzas deportivas de 
 régimen especial.
 FUNDAMENTOS DE DERECHO
-Primero.- La Ley Orgánica 2/2006, de 3 de mayo, de Educación (BOE nº 106, de 4 de 
+Primero.- La [Ley Orgánica 2/2006](../../../estatal/01_marco_normativo_general_y_organico/LO2_2006_educacion_texto_consolidado_modificaciones_lomloe.md), de 3 de mayo, de Educación (BOE nº 106, de 4 de 
 mayo), en su redacción actual, en el artículo 3.6, que preceptúa que las enseñanzas deportivas 
 tendrán la consideración de enseñanzas de régimen especial, y en su Capítulo VIII del Título 
 I, que establece los principios generales de las enseñanzas deportivas así como las normas 
@@ -84,7 +84,7 @@ fundamentales sobre su organización.
 Página 
 
 Viernes 26 de julio de 2019
-Segundo.- El Real Decreto 1363/2007, de 24 de octubre, por el que se establece la 
+Segundo.- El [Real Decreto 1363/2007](../../../estatal/03_ordenacion_curricular_y_ensenanzas/RD1363_2007_establece_ordenacion_general_ensenanzas_deportivas_regimen.md), de 24 de octubre, por el que se establece la 
 ordenación general de las enseñanzas deportivas de régimen especial (BOE nº 268, de 
 8 de noviembre), en su Capítulo IX, que regula las convalidaciones, correspondencias y 
 exenciones.
@@ -136,7 +136,7 @@ tivas de régimen especial en el ámbito de la Comunidad Autónoma de Canarias.
 2. Será de aplicación en los centros docentes públicos y privados que imparten enseñanzas deportivas
 de régimen especial en la Comunidad Autónoma de Canarias.
 Segunda.- Aspectos generales. 
-1. De acuerdo con lo establecido en los artículos 44.1 del Real Decreto 1363/2007, de 24 de octubre, y
+1. De acuerdo con lo establecido en los artículos 44.1 del [Real Decreto 1363/2007](../../../estatal/03_ordenacion_curricular_y_ensenanzas/RD1363_2007_establece_ordenacion_general_ensenanzas_deportivas_regimen.md), de 24 de octubre, y
 41.1
  del Decreto 93/2019, de 22 de mayo, por el que se regulan las enseñanzas deportivas de régimen es-
 pecial en la Comunidad Autónoma de Canarias, la tramitación de las solicitudes de reconocimiento de
@@ -190,7 +190,7 @@ b) Las enseñanzas universitarias, conforme a lo dispuesto en los anexos III, IV
 cionada Orden ECI/3224/2004, de 21 de septiembre. 
 c) La acreditación de unidades de competencia del Catálogo Nacional de Cualificaciones Pro-
 fesionales, previstos en los reales decretos por los que se establecen los títulos según los requi-
-sitos y condiciones establecidos en el artículo 40 del Real Decreto 1363/2007, de 24 de octu-
+sitos y condiciones establecidos en el artículo 40 del [Real Decreto 1363/2007](../../../estatal/03_ordenacion_curricular_y_ensenanzas/RD1363_2007_establece_ordenacion_general_ensenanzas_deportivas_regimen.md), de 24 de octu-
 bre.
 d) La superación de aquellos otros módulos de enseñanza del bloque específico que sean co -
 munes a varios ciclos de enseñanzas deportivas, siempre que tengan igual denominación, du -
@@ -205,7 +205,7 @@ cada ciclo de enseñanza, en cualquiera de las modalidades o especialidades depo
 establecidos al amparo de la [Ley Orgánica 1/1990](../../../estatal/02_gestion_y_administracion_centros/LO1_1990_regula_regimen_equivalencias_estudios_basicos_medios.md), de 3 de octubre, de Ordenación General del Siste-
 ma Educativo (LOGSE), por la totalidad de los módulos del bloque común del correspondiente ciclo
 de enseñanza deportiva en cualquiera de las modalidades o especialidades deportivas de los títulos es-
-tablecidos al amparo de la Ley Orgánica 2/2006, de 3 de mayo, de Educación (LOE ) y viceversa.
+tablecidos al amparo de la [Ley Orgánica 2/2006](../../../estatal/01_marco_normativo_general_y_organico/LO2_2006_educacion_texto_consolidado_modificaciones_lomloe.md), de 3 de mayo, de Educación (LOE ) y viceversa.
 4. Podrán ser objeto de convalidación los módulos de enseñanza deportiva mediante la acreditación de
 haber superado estudios oficiales relacionados con la actividad física y deportiva, siempre que sus
 contenidos sean concordantes y la carga lectiva superada sea igual o superior a la del módulo que se
@@ -387,11 +387,11 @@ que común de los ciclos inicial o final del título de
 Técnico Deportivo en una modalidad deportiva. 
 Convalidará por la totalidad de los módulos del bloque
 común, del correspondiente nivel, de los títulos esta-
-blecidos al amparo de la Ley Orgánica 1/1990, de 3 de
+blecidos al amparo de la [Ley Orgánica 1/1990](../../../estatal/02_gestion_y_administracion_centros/LO1_1990_regula_regimen_equivalencias_estudios_basicos_medios.md), de 3 de
 octubre, de Ordenación General del Sistema Educati -
 vo.
 • Por la superación de módulos de enseñanza deportiva de los títulos establecidos al amparo de
-la Ley Orgánica 1/1990, de 3 de octubre, de Ordenación General del Sistema Educativo, con
+la [Ley Orgánica 1/1990](../../../estatal/02_gestion_y_administracion_centros/LO1_1990_regula_regimen_equivalencias_estudios_basicos_medios.md), de 3 de octubre, de Ordenación General del Sistema Educativo, con
 módulos de enseñanza deportiva del bloque específico de los títulos de Técnico Deportivo. Di-
 chos módulos vendrán determinados en el correspondiente real decreto que establezca el título
 y las enseñanzas mínimas.

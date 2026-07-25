@@ -41,7 +41,7 @@ fuente_pdf_oficial: https://sede.gobiernodecanarias.org/boc/boc-a-2026-075-1240.
 III. Otras Resoluciones
 Consejería de Educación, Formación Profesional, Actividad Física y Deportes
 1240 Dirección General de Administración de Centros, Escolarización y Servicios 
-Complementarios.- Resolución de 10 de abril de 2026, por la que se corrige error 
+Complementarios.- [Resolución de 10 de abril de 2026](../03_ordenacion_curricular_y_ensenanzas/R10_4_2026_convocan_pruebas_certificacion_ensenanzas_idiomas_regimen.md), por la que se corrige error 
 en la Resolución de 17 de mazo de 2026, que establece el calendario escolar y dicta 
 instrucciones para la organización y desarrollo de las actividades de comienzo y 
 finalización del curso 2026-2027, para los centros de enseñanzas no universitarias 

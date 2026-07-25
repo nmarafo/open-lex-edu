@@ -84,7 +84,7 @@ general: proyecto educativo, proyecto de gestión, programación general anual (
 PGA), normas de organización y funcionamiento, así como de los planes, programas y 
 proyectos que conforman la identidad educativa y organizativa de cada centro.
 FUNDAMENTOS DE DERECHO
-Primero.- La Ley Orgánica 2/2006, de 3 de mayo, de Educación (en adelante LOE) 
+Primero.- La [Ley Orgánica 2/2006](../../../estatal/01_marco_normativo_general_y_organico/LO2_2006_educacion_texto_consolidado_modificaciones_lomloe.md), de 3 de mayo, de Educación (en adelante LOE) 
 reconoce la autonomía pedagógica y de gestión de los centros docentes y define el ejercicio 
 Página 
 
@@ -105,7 +105,7 @@ desarrollan, constituyen la expresión de la mejor respuesta educativa que cada 
 ofrecer a su alumnado. De ahí la importancia y la necesidad de lograr que cada uno de esos 
 documentos sea la expresión de un firme compromiso de toda la comunidad educativa, así 
 como la fuente de decisión de cada una de las acciones que se desarrollen en los centros.
-Segundo.- La Ley 6/2014, de 25 de julio, Canaria de Educación no Universitaria recoge 
+Segundo.- La [Ley 6/2014](../01_marco_normativo_general_y_organico/L6_2014_canaria_educacion_no_universitaria.md), de 25 de julio, Canaria de Educación no Universitaria recoge 
 en su exposición de motivos la necesidad para Canarias de contar con un sistema educativo 
 que siga de cerca los resultados obtenidos en todos y cada uno de los centros educativos 
 e impulse continuamente procesos de mejora encaminados a lograr que todo el alumnado 
@@ -146,10 +146,10 @@ abandono escolar, de una parte, y mediante la mejora del rendimiento educativo y
 de logro en la adquisición de las competencias por el alumnado, de otra parte.
 Las instrucciones y criterios que se definen en la presente Resolución están en 
 consonancia con lo dispuesto en la [Orden de 9 de octubre de 2013](../04_organizacion_escolar_y_funcionamiento/Ds_n_desarrolla_decreto_aprueba_reglamento_organico_centros.md), por la que se desarrolla 
-el Decreto 81/2010, de 8 de julio, por el que se aprueba el Reglamento Orgánico de los 
+el [Decreto 81/2010](../04_organizacion_escolar_y_funcionamiento/D81_2010_aprueba_reglamento_organico_centros_docentes_publicos.md), de 8 de julio, por el que se aprueba el Reglamento Orgánico de los 
 centros docentes públicos no universitarios de la Comunidad Autónoma de Canarias, 
 en lo referente a su organización y funcionamiento (BOC nº 200, de 16 de octubre), 
-en adelante, Orden de 9 de octubre de 2013, y deben contribuir a que cada uno de los 
+en adelante, [Orden de 9 de octubre de 2013](../04_organizacion_escolar_y_funcionamiento/Ds_n_desarrolla_decreto_aprueba_reglamento_organico_centros.md), y deben contribuir a que cada uno de los 
 centros pueda formalizar su compromiso con la mejora continua en los resultados de 
 aprendizaje de su alumnado y, especialmente, en la reducción de las tasas de absentismo 
 escolar y de abandono escolar.
@@ -321,11 +321,11 @@ tutorías, atención permanente a familias ...)».
 los centros, y realizarán las comunicaciones con la Administración educativa mediante los 
 aplicativos informáticos al efecto, y los que se determinen, en los plazos previstos.
 1.8. En materia de protección de datos de carácter personal, los centros tendrán en cuenta 
-lo previsto en el artículo 56 de la Orden de 9 de octubre de 2013 (BOC nº 200, de 16 de 
-octubre), por la que se desarrolla el Decreto 81/2010, de 8 de julio, por el que se aprueba el 
+lo previsto en el artículo 56 de la [Orden de 9 de octubre de 2013](../04_organizacion_escolar_y_funcionamiento/Ds_n_desarrolla_decreto_aprueba_reglamento_organico_centros.md) (BOC nº 200, de 16 de 
+octubre), por la que se desarrolla el [Decreto 81/2010](../04_organizacion_escolar_y_funcionamiento/D81_2010_aprueba_reglamento_organico_centros_docentes_publicos.md), de 8 de julio, por el que se aprueba el 
 Reglamento Orgánico de los centros docentes públicos no universitarios de la Comunidad 
 Autónoma de Canarias, en lo referente a su organización y funcionamiento (en adelante, 
-Orden de 9 de octubre de 2013). No obstante, en aquellos procedimientos que requieran la 
+[Orden de 9 de octubre de 2013](../04_organizacion_escolar_y_funcionamiento/Ds_n_desarrolla_decreto_aprueba_reglamento_organico_centros.md)). No obstante, en aquellos procedimientos que requieran la 
 publicación de datos referidos al alumnado se estará a lo dispuesto en la Circular nº 1 de 
 la Viceconsejería de Educación y Universidades por la que se dictan instrucciones sobre la 
 publicación de listas de alumnado.
@@ -397,7 +397,7 @@ específico de especial responsabilidad y de los descuentos de horas lectivas de
 docente de los centros escolares públicos dependientes de esta Consejería que desempeñen 
 cargos directivos (BOC nº 11, de 17 de enero de 2006).
 1.4. La jornada de trabajo semanal del profesorado de los Colegios de Educación Infantil 
-y Primaria es la establecida en los artículos 17 a 19 de la Orden de 9 de octubre de 2013.
+y Primaria es la establecida en los artículos 17 a 19 de la [Orden de 9 de octubre de 2013](../04_organizacion_escolar_y_funcionamiento/Ds_n_desarrolla_decreto_aprueba_reglamento_organico_centros.md).
 1.5. Los centros educativos podrán fijar en su proyecto de gestión la duración de las 
 distintas sesiones lectivas para cada área curricular y curso, de conformidad con la Orden 
 nº 331/2016, de 9 de septiembre de 2016, de la Excma. Sra. Consejera de Educación y 
@@ -455,11 +455,11 @@ alumnado que cursa la etapa de Educación Primaria (BOC nº 85, de 6 de mayo). N
 organizativamente, los centros podrán articular la etapa de Educación Primaria, conforme a 
 su Proyecto Educativo, en torno a ciclos en lo relativo a equipos docentes, su coordinación 
 y las normas aplicables en la elaboración y elección de horarios del profesorado que imparte 
-docencia en dicha etapa, tal y como se establece en la citada Orden de 9 de octubre de 2013.
+docencia en dicha etapa, tal y como se establece en la citada [Orden de 9 de octubre de 2013](../04_organizacion_escolar_y_funcionamiento/Ds_n_desarrolla_decreto_aprueba_reglamento_organico_centros.md).
 1.9. Coordinación entre etapas.
 a) Coordinación infantil-primaria. Con el objetivo de dar mayor coherencia a los procesos 
 de enseñanza y aprendizaje entre las etapas educativas, en consonancia con el artículo 8 de 
-la referida Orden de 9 de octubre de 2013, la coordinación de la planificación pedagógica 
+la referida [Orden de 9 de octubre de 2013](../04_organizacion_escolar_y_funcionamiento/Ds_n_desarrolla_decreto_aprueba_reglamento_organico_centros.md), la coordinación de la planificación pedagógica 
 entre el profesorado que imparte distintas etapas educativas en un mismo centro, incluido el 
 profesorado con atribuciones de atención al alumnado que presenta necesidades específicas 
 de apoyo educativo (en adelante, NEAE), se realizará entre el profesorado que imparte 
@@ -1879,7 +1879,7 @@ grupos serán expuestos para conocimiento de la comunidad educativa, publicándo
 horarios individuales del profesorado en un espacio reservado al efecto. La supervisión de 
 los horarios se llevará a cabo por la Inspección de Educación.
 La disponibilidad horaria se utilizará para las tareas previstas en el Capítulo III, Sección 
-3ª (artículos 17 a 19), de la Orden de 9 de octubre de 2013.
+3ª (artículos 17 a 19), de la [Orden de 9 de octubre de 2013](../04_organizacion_escolar_y_funcionamiento/Ds_n_desarrolla_decreto_aprueba_reglamento_organico_centros.md).
 1.16. Los centros educativos podrán aplicar otros criterios organizativos distintos a los 
 regulados en la presente Resolución cuando participen en planes, programas y proyectos 
 aprobados por la CEU, según las condiciones específicas de los mismos.
@@ -2061,12 +2061,12 @@ este programa se regirán por su normativa específica.
 4.2.1. En aquellos centros educativos en los que la docencia se organice en más de un 
 turno podrán existir tantas jefaturas de estudios como turnos. Dicha jefatura de estudios 
 tendrá, para su turno respectivo, la totalidad de las atribuciones establecidas en el artículo 7 
-del Decreto 106/2009, de 28 de julio, por el que se regula la función directiva en los centros 
+del [Decreto 106/2009](../04_organizacion_escolar_y_funcionamiento/D106_2009_regula_funcion_directiva_centros_docentes_publicos.md), de 28 de julio, por el que se regula la función directiva en los centros 
 docentes públicos no universitarios dependientes de la Comunidad Autónoma de Canarias 
 (BOC nº 195, de 11 de agosto), modificado por el Decreto 121/2015, de 22 de mayo (BOC 
 nº 101, de 28 de mayo). Las jefaturas de estudios de turno actuarán de forma coordinada con 
 el resto del equipo directivo.
-4.2.2. El artículo 3 del antedicho Decreto 106/2009, contempla la posibilidad de autorizar 
+4.2.2. El artículo 3 del antedicho [Decreto 106/2009](../04_organizacion_escolar_y_funcionamiento/D106_2009_regula_funcion_directiva_centros_docentes_publicos.md), contempla la posibilidad de autorizar 
 jefaturas de estudios adjuntas cuando el número de unidades y la complejidad organizativa 
 del centro docente, de la oferta de enseñanzas y de los proyectos singulares que en el 
 mismo se desarrolle así lo requieran, y según lo dispuesto en la normativa de organización y 
@@ -2074,7 +2074,7 @@ funcionamiento de los centros docentes públicos.
 La jefatura de estudios adjunta, cuando se autorice, formará parte del equipo directivo y 
 dependerá directamente de la persona que ejerza la jefatura de estudios, que le encomendará 
 las funciones que ha de desempeñar, de entre aquellas que le son propias, y que se relacionan 
-en el artículo 7 de dicho Decreto 106/2009. Además, tendrá las competencias que le asigne 
+en el artículo 7 de dicho [Decreto 106/2009](../04_organizacion_escolar_y_funcionamiento/D106_2009_regula_funcion_directiva_centros_docentes_publicos.md). Además, tendrá las competencias que le asigne 
 el director o directora del centro y las que le sean encomendadas por la Administración 
 educativa o las disposiciones vigentes.
 4.2.3. Se autorizará una jefatura de estudios adjunta en aquellos centros en los que se 
@@ -2099,7 +2099,7 @@ Jueves 28 de junio de 2018
 5. DISPONIBILIDAD HORARIA Y PROYECTO DE GESTIÓN.
 5.1. Los centros educativos deberán establecer en su proyecto de gestión los criterios 
 para el aprovechamiento de la disponibilidad horaria con el objeto de que el profesorado 
-realice sus distintas funciones (artículo 91 de la Ley Orgánica 2/2006, de 3 de mayo, de 
+realice sus distintas funciones (artículo 91 de la [Ley Orgánica 2/2006](../../../estatal/01_marco_normativo_general_y_organico/LO2_2006_educacion_texto_consolidado_modificaciones_lomloe.md), de 3 de mayo, de 
 Educación), la atención permanente al alumnado y sus familias, así como la asignación 
 horaria correspondiente a cada profesor o profesora con destino en el centro de forma 
 definitiva o provisional.
@@ -2117,7 +2117,7 @@ que se determina la fecha de efectos de la aplicación del complemento específi
 responsabilidad y de los descuentos de horas lectivas del personal docente de los centros 
 escolares públicos dependientes (BOC nº 11, de 17 de enero de 2006).
 5.4. La jornada de trabajo semanal del profesorado de los centros de Educación 
-Secundaria será la regulada en la Orden de 9 de octubre de 2013. En relación al horario del 
+Secundaria será la regulada en la [Orden de 9 de octubre de 2013](../04_organizacion_escolar_y_funcionamiento/Ds_n_desarrolla_decreto_aprueba_reglamento_organico_centros.md). En relación al horario del 
 profesorado de Formación Profesional, tal y como establece el artículo 37, las horas lectivas 
 como las complementarias podrán acumularse o variar su distribución semanal en distintos 
 periodos del curso. A continuación se muestran, para un mismo caso, diferentes ejemplos de 
@@ -3737,8 +3737,8 @@ PROFESORADO.
 1.1. El procedimiento para el control de asistencia y puntualidad se ajustará a lo regulado 
 en la normativa de organización y funcionamiento que desarrolle el Reglamento Orgánico 
 de los centros docentes públicos no universitarios de la Comunidad Autónoma de Canarias, 
-aprobado por el Decreto 81/2010, de 8 de julio (BOC nº 143, de 22 de julio). En este sentido, 
-se estará a lo dispuesto en el artículo 52 de la Orden de 9 de octubre de 2013 sobre el 
+aprobado por el [Decreto 81/2010](../04_organizacion_escolar_y_funcionamiento/D81_2010_aprueba_reglamento_organico_centros_docentes_publicos.md), de 8 de julio (BOC nº 143, de 22 de julio). En este sentido, 
+se estará a lo dispuesto en el artículo 52 de la [Orden de 9 de octubre de 2013](../04_organizacion_escolar_y_funcionamiento/Ds_n_desarrolla_decreto_aprueba_reglamento_organico_centros.md) sobre el 
 procedimiento general de control de asistencia y puntualidad del profesorado.
 Asimismo, y para esta materia, se atenderá a lo establecido en el artículo 20 de la Orden 
 de 1 de septiembre de 2010, por la que se desarrolla la organización y funcionamiento de los 

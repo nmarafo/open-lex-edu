@@ -84,7 +84,7 @@ Martes 3 de diciembre de 2019
 Segundo.- El Real Decreto 1041/2017, de 22 de diciembre, por el que se fijan las 
 exigencias mínimas del nivel básico a efectos de certificación, se establece el currículo 
 básico de los niveles Intermedio B1, Intermedio B2, Avanzado C1, y Avanzado C2, de las 
-Enseñanzas de idiomas de régimen especial reguladas por la Ley Orgánica 2/2006, de 3 
+Enseñanzas de idiomas de régimen especial reguladas por la [Ley Orgánica 2/2006](../../../estatal/01_marco_normativo_general_y_organico/LO2_2006_educacion_texto_consolidado_modificaciones_lomloe.md), de 3 
 de mayo, de Educación, y se establecen las equivalencias entre las Enseñanzas de idiomas 
 de régimen especial reguladas en diversos planes de estudios y las de este real decreto, 
 determina en su artículo 7 que, para obtener los certificados de los niveles Intermedio B1, 
@@ -106,7 +106,7 @@ competencias propias del nivel A del Marco Común Europeo de Referencia para las
 que se subdivide en los niveles A1 y A2; y que los certificados acreditativos de nivel Básico 
 expedidos por las Administraciones educativas surtirán efecto en todo el territorio nacional.
 En desarrollo del mencionado artículo 7 del Real Decreto 1041/2017, de 22 de diciembre, 
-se aprobó el Real Decreto 1/2019, de 11 de enero, por el que se establecen los principios 
+se aprobó el [Real Decreto 1/2019](../../../estatal/03_ordenacion_curricular_y_ensenanzas/RD1_2019_establecen_principios_basicos_comunes_evaluacion_aplicables.md), de 11 de enero, por el que se establecen los principios 
 básicos comunes de evaluación aplicables a las pruebas de certificación oficial de los niveles 
 Intermedio B1, Intermedio B2, Avanzado C1, y Avanzado C2 de las enseñanzas de idiomas 
 de régimen especial, regulando los principios básicos comunes que han de regir el diseño, la 
@@ -175,7 +175,7 @@ de este real decreto.
 2. Asimismo, resultará de aplicación el Decreto 142/2018, de 8 de octubre, por el que 
 se establece la ordenación y el currículo de las enseñanzas y la certificación de idiomas de 
 régimen especial para la Comunidad Autónoma de Canarias.
-3. Por último, será igualmente de aplicación el Real Decreto 1/2019, de 11 de enero, por 
+3. Por último, será igualmente de aplicación el [Real Decreto 1/2019](../../../estatal/03_ordenacion_curricular_y_ensenanzas/RD1_2019_establecen_principios_basicos_comunes_evaluacion_aplicables.md), de 11 de enero, por 
 el que se establecen los principios básicos comunes de evaluación aplicables a las pruebas de 
 certificación oficial de los niveles Intermedio B1, Intermedio B2, Avanzado C1, y Avanzado 
 C2 de las enseñanzas de idiomas de régimen especial.
@@ -185,7 +185,7 @@ fiables sobre la actuación de las personas aspirantes, el análisis de dichos d
 de un juicio sobre el nivel de competencia de las mismas que permita, en su caso, la 
 certificación oficial de competencias en el uso del idioma en los diversos niveles de dominio 
 y en las distintas actividades de lengua.
-2. De conformidad con el artículo 3.2 del Real Decreto 1/2019, de 11 de enero, las pruebas 
+2. De conformidad con el artículo 3.2 del [Real Decreto 1/2019](../../../estatal/03_ordenacion_curricular_y_ensenanzas/RD1_2019_establecen_principios_basicos_comunes_evaluacion_aplicables.md), de 11 de enero, las pruebas 
 se elaborarán, administrarán y evaluarán según unos estándares que garanticen su validez, 
 fiabilidad, viabilidad, equidad, transparencia e impacto positivo, así como el derecho del 
 alumnado a ser evaluado con plena objetividad.
@@ -359,7 +359,7 @@ pruebas.
 6. La Dirección General competente en materia de ordenación de enseñanzas de régimen 
 especial elaborará y publicará, para cada curso académico, un documento de especificaciones 
 que detallará las características de las pruebas de certificación que se convoquen, y recogerá 
-los aspectos fijados en el artículo 4.6 del Real Decreto 1/2019, de 11 de enero.
+los aspectos fijados en el artículo 4.6 del [Real Decreto 1/2019](../../../estatal/03_ordenacion_curricular_y_ensenanzas/RD1_2019_establecen_principios_basicos_comunes_evaluacion_aplicables.md), de 11 de enero.
 Novena.- Elaboración de las pruebas.
 1. Las pruebas de certificación serán elaboradas por el profesorado de EOI teniendo en 
 cuenta los objetivos, competencias, contenidos y criterios de evaluación establecidos para 
@@ -391,7 +391,7 @@ Martes 3 de diciembre de 2019
 2. En la evaluación y calificación de las pruebas de certificación se tomarán como 
 referencia los criterios de evaluación establecidos para cada nivel y actividad de lengua en 
 los currículos establecidos en el Decreto 142/2018, de 8 de octubre, así como los principios 
-comunes de evaluación establecidos en el Real Decreto 1/2019, de 11 de enero.
+comunes de evaluación establecidos en el [Real Decreto 1/2019](../../../estatal/03_ordenacion_curricular_y_ensenanzas/RD1_2019_establecen_principios_basicos_comunes_evaluacion_aplicables.md), de 11 de enero.
 3. El proceso de evaluación y calificación de pruebas se desarrollará según directrices que 
 aseguren la fiabilidad, la equidad y la transparencia de dicho proceso, que se recogerán en la 
 Guía de Evaluación y Calificación de Pruebas de Certificación que establezca la Dirección 
@@ -508,7 +508,7 @@ Decimoquinta.- Publicación de resultados y procedimiento de reclamación contra
 las calificaciones.
 1. Los resultados de las pruebas se harán públicos respetando lo que establece la 
 legislación vigente en materia de protección de datos de carácter personal, y, en todo caso, 
-a lo establecido en la disposición adicional vigesimotercera de la Ley Orgánica 2/2006, de 
+a lo establecido en la disposición adicional vigesimotercera de la [Ley Orgánica 2/2006](../../../estatal/01_marco_normativo_general_y_organico/LO2_2006_educacion_texto_consolidado_modificaciones_lomloe.md), de 
 3 de mayo, de Educación.
 2. La información que se facilite a las personas aspirantes sobre el resultado de las pruebas 
 de certificación incluirá tanto la calificación parcial de cada una de las partes que componen 

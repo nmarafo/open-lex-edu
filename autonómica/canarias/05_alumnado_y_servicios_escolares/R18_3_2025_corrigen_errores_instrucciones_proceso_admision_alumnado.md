@@ -54,10 +54,10 @@ Profesional de Grado D, Enseñanzas Profesionales de Artes Plásticas y Diseño,
 Enseñanzas Elementales y Profesionales de Música, Enseñanzas de Idiomas y 
 Enseñanzas Deportivas en centros docentes sostenidos con fondos públicos en la 
 Comunidad Autónoma de Canarias para el curso escolar 2025-2026, aprobadas por 
-Resolución de 24 de febrero de 2025 (BOC n.º 47, de 7.3.2025).
+[Resolución de 24 de febrero de 2025](./R24_2_2025_convoca_procedimiento_admision_alumnado_ciclos_formativos.md) (BOC n.º 47, de 7.3.2025).
 ANTECEDENTES DE HECHO
 Primero.- Con fecha 7 de marzo de 2025, se publica en el Boletín Oficial de Canarias 
-n.º 47 la Resolución de 24 de febrero de 2025, por la que se dictan instrucciones sobre 
+n.º 47 la [Resolución de 24 de febrero de 2025](./R24_2_2025_convoca_procedimiento_admision_alumnado_ciclos_formativos.md), por la que se dictan instrucciones sobre 
 el proceso de admisión del alumnado a Ciclos Formativos de Grado Básico, Medio y 
 Superior (niveles 1, 2 y 3, respectivamente) de las Enseñanzas de Formación Profesional de 
 Grado D, Enseñanzas Profesionales de Artes Plásticas y Diseño, Enseñanzas Elementales 
@@ -88,7 +88,7 @@ y Enseñanzas de Régimen Especial,
 RESUELVO :
 Primero.- Corregir el error material del Anexo VI referido a los Ciclos Formativos de 
 Grado Medio (Grado D, nivel 2) que dan prioridad para acceder a Ciclos Formativos de 
-Grado Superior (Grado D, nivel 3) de la Resolución de 24 de febrero de 2025, por la que 
+Grado Superior (Grado D, nivel 3) de la [Resolución de 24 de febrero de 2025](./R24_2_2025_convoca_procedimiento_admision_alumnado_ciclos_formativos.md), por la que 
 se dictan instrucciones sobre el proceso de admisión del alumnado a Ciclos Formativos de 
 Grado Básico, Medio y Superior (niveles 1, 2 y 3, respectivamente) de las Enseñanzas de 
 Formación Profesional de Grado D, Enseñanzas Profesionales de Artes Plásticas y Diseño, 

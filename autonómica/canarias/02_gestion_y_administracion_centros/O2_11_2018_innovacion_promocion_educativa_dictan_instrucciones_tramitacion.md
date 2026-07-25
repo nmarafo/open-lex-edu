@@ -55,20 +55,20 @@ los conciertos educativos. Asimismo, dicha Orden regula el procedimiento de just
 de los gastos de personal complementario percibidos de la Administración Educativa; 
 siendo la Dirección General de Ordenación, Innovación y Promoción Educativa el órgano 
 instructor del expediente.
-Segundo.- La Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común 
+Segundo.- La [Ley 39/2015](../../../estatal/01_marco_normativo_general_y_organico/L39_2015_procedimiento_administrativo_comun_administraciones_publicas.md), de 1 de octubre, del Procedimiento Administrativo Común 
 de las Administraciones Públicas, establece en su artículo 14 que las personas jurídicas 
 estarán obligadas a relacionarse a través de medios electrónicos con las Administraciones 
 Públicas para la realización de cualquier trámite de un procedimiento administrativo.
 Tercero.- La presente Resolución responde a la necesidad de dictar instrucciones sobre la 
 presentación de solicitudes y tramitación, vía telemática, del procedimiento de justificación 
 de gastos de personal complementario del concierto educativo, para su adecuación a la 
-citada Ley 39/2015, de 1 de octubre.
+citada [Ley 39/2015](../../../estatal/01_marco_normativo_general_y_organico/L39_2015_procedimiento_administrativo_comun_administraciones_publicas.md), de 1 de octubre.
 FUNDAMENTOS DE DERECHO
 Primero.- La Orden de 27 de junio de 2008, por la que se regula el personal 
 complementario de los centros privados concertados con unidades de Educación Especial 
 concertadas, financiado por esta Consejería a través de los conciertos educativos (BOC nº 
 142, de 16.7.08).
-Segundo.- La Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común 
+Segundo.- La [Ley 39/2015](../../../estatal/01_marco_normativo_general_y_organico/L39_2015_procedimiento_administrativo_comun_administraciones_publicas.md), de 1 de octubre, del Procedimiento Administrativo Común 
 de las Administraciones Públicas (BOE nº 236, de 2.10.15).
 Esta Dirección General de acuerdo con todo lo anterior, y en uso de las atribuciones 
 que le son propias con arreglo a lo previsto en el artículo 13 del [Decreto 135/2016](../01_marco_normativo_general_y_organico/D135_2016_reglamento_organico_consejeria_educacion_universidades_cultura.md), de 10 
@@ -140,7 +140,7 @@ esta instrucción 4ª, se deberá imprimir y firmar manualmente, para su posteri
 ante el órgano instructor del expediente o en las Direcciones Insulares y Territoriales de 
 Educación.
 Igualmente, se podrán presentar en cualquiera de las dependencias a que se refiere el 
-artículo 16.4 de la Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común 
+artículo 16.4 de la [Ley 39/2015](../../../estatal/01_marco_normativo_general_y_organico/L39_2015_procedimiento_administrativo_comun_administraciones_publicas.md), de 1 de octubre, del Procedimiento Administrativo Común 
 de las Administraciones Públicas. En caso de presentarse en una Oficina de Correos, la 
 solicitud deberá ser sellada y fechada por la Oficina de Correos antes de introducirla en el 
 sobre. 

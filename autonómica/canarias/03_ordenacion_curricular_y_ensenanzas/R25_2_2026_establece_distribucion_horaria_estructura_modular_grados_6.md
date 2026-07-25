@@ -161,7 +161,7 @@ escolar 2024/2025, estableciéndose, asimismo, la distribución horaria y modula
 currículos en el ámbito autonómico de la Comunidad Autónoma de Canarias.
 En atención a lo anteriormente indicado, en ejercicio de las competencias atribuidas 
 a la Viceconsejería de Formación Profesional y Cualificaciones Profesionales en el 
-artículo 9, apartado 2, del Decreto 84/2024, de 10 de junio, por el que se aprueba el 
+artículo 9, apartado 2, del [Decreto 84/2024](../01_marco_normativo_general_y_organico/D84_2024_aprueba_reglamento_organico_formacion_profesional_actividad.md), de 10 de junio, por el que se aprueba el 
 Reglamento Orgánico de la Consejería de Educación, Formación Profesional, Actividad 
 Física y Deportes, y el desempeño de las funciones previstas en los artículos 11 y 20.1 
 del [Decreto 212/1991](../01_marco_normativo_general_y_organico/D212_1991_organizacion_departamentos_administracion_autonomica_canarias.md), de 11 de septiembre, de organización de los Departamentos de la 

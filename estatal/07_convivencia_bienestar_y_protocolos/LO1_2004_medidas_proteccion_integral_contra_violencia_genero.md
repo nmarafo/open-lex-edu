@@ -918,7 +918,7 @@ Uno. Las letras b) y g) del artículo 2 de la [Ley Orgánica 8/1985](../02_gesti
 
 g) La formación para la paz, la cooperación y la solidaridad entre los pueblos y para la prevención de conflictos y para la resolución pacífica de los mismos y no violencia en todos los ámbitos de la vida personal, familiar y social.»
 
-Dos. Se incorporan tres nuevas letras en el apartado 1 del artículo 31 de la Ley Orgánica 8/1985, de 3 de julio, reguladora del Derecho a la Educación, que quedarán redactadas de la forma siguiente:
+Dos. Se incorporan tres nuevas letras en el apartado 1 del artículo 31 de la [Ley Orgánica 8/1985](../02_gestion_y_administracion_centros/LO8_1985_reguladora_derecho_educacion.md), de 3 de julio, reguladora del Derecho a la Educación, que quedarán redactadas de la forma siguiente:
 
 «k) Las organizaciones de mujeres con implantación en todo el territorio del Estado.
 
@@ -926,19 +926,19 @@ l) El Instituto de la Mujer.
 
 m) Personalidades de reconocido prestigio en la lucha para la erradicación de la violencia de género.»
 
-Tres. La letra e) del apartado 1 del artículo 32 de la Ley Orgánica 8/1985, de 3 de julio, reguladora del Derecho a la Educación, quedará redactada de la forma siguiente:
+Tres. La letra e) del apartado 1 del artículo 32 de la [Ley Orgánica 8/1985](../02_gestion_y_administracion_centros/LO8_1985_reguladora_derecho_educacion.md), de 3 de julio, reguladora del Derecho a la Educación, quedará redactada de la forma siguiente:
 
 «e) Las disposiciones que se refieran al desarrollo de la igualdad de derechos y oportunidades y al fomento de la igualdad real y efectiva entre hombres y mujeres en la enseñanza.»
 
-Cuatro. El apartado 1 del artículo 33 de la Ley Orgánica 8/1985, de 3 de julio, reguladora del Derecho a la Educación, quedará redactado de la forma siguiente:
+Cuatro. El apartado 1 del artículo 33 de la [Ley Orgánica 8/1985](../02_gestion_y_administracion_centros/LO8_1985_reguladora_derecho_educacion.md), de 3 de julio, reguladora del Derecho a la Educación, quedará redactado de la forma siguiente:
 
 «1. El Consejo Escolar del Estado elaborará y hará público anualmente un informe sobre el sistema educativo, donde deberán recogerse y valorarse los diversos aspectos del mismo, incluyendo la posible situación de violencia ejercida en la comunidad educativa. Asimismo se informará de las medidas que en relación con la prevención de violencia y fomento de la igualdad entre hombres y mujeres establezcan las Administraciones educativas.»
 
-Cinco. Se incluye un nuevo séptimo guión en el apartado 1 del artículo 56 de la Ley Orgánica 8/1985, de 3 de julio, reguladora del Derecho a la Educación, con la siguiente redacción:
+Cinco. Se incluye un nuevo séptimo guión en el apartado 1 del artículo 56 de la [Ley Orgánica 8/1985](../02_gestion_y_administracion_centros/LO8_1985_reguladora_derecho_educacion.md), de 3 de julio, reguladora del Derecho a la Educación, con la siguiente redacción:
 
 «–Una persona, elegida por los miembros del Consejo Escolar del Centro, que impulse medidas educativas que fomenten la igualdad real y efectiva entre hombres y mujeres.»
 
-Seis. Se adiciona una nueva letra m) en el artículo 57 de la Ley Orgánica 8/1985, de 3 de julio, reguladora del Derecho a la Educación, con la siguiente redacción:
+Seis. Se adiciona una nueva letra m) en el artículo 57 de la [Ley Orgánica 8/1985](../02_gestion_y_administracion_centros/LO8_1985_reguladora_derecho_educacion.md), de 3 de julio, reguladora del Derecho a la Educación, con la siguiente redacción:
 
 «m) Proponer medidas e iniciativas que favorezcan la convivencia en el centro, la igualdad entre hombres y mujeres y la resolución pacífica de conflictos en todos los ámbitos de la vida personal, familiar y social.»
 
@@ -948,13 +948,13 @@ Uno. Se modifica la letra b) del apartado 1 del artícu-lo 1 de la [Ley Orgánic
 
 «b) La formación en el respeto de los derechos y libertades fundamentales, de la igualdad entre hombres y mujeres y en el ejercicio de la tolerancia y de la libertad dentro de los principios democráticos de convivencia.»
 
-Dos. Se modifica la letra e) y se añade la letra l) en el apartado 3 del artículo 2 de la Ley Orgánica 1/1990, de 3 de octubre, de Ordenación General del Sistema Educativo, que quedarán redactadas de la siguiente forma:
+Dos. Se modifica la letra e) y se añade la letra l) en el apartado 3 del artículo 2 de la [Ley Orgánica 1/1990](../02_gestion_y_administracion_centros/LO1_1990_regula_regimen_equivalencias_estudios_basicos_medios.md), de 3 de octubre, de Ordenación General del Sistema Educativo, que quedarán redactadas de la siguiente forma:
 
 «e) El fomento de los hábitos de comportamiento democrático y las habilidades y técnica en la prevención de conflictos y en la resolución pacífica de los mismos.
 
 l) La formación para la prevención de conflictos y para la resolución pacífica de los mismos en todos los ámbitos de la vida personal, familiar y social.»
 
-Tres. Se modifica el apartado 3 del artículo 34 de la Ley Orgánica 1/1990, de 3 de octubre, de Ordenación General del Sistema Educativo, que quedará redactada de la siguiente forma:
+Tres. Se modifica el apartado 3 del artículo 34 de la [Ley Orgánica 1/1990](../02_gestion_y_administracion_centros/LO1_1990_regula_regimen_equivalencias_estudios_basicos_medios.md), de 3 de octubre, de Ordenación General del Sistema Educativo, que quedará redactada de la siguiente forma:
 
 «3. La metodología didáctica de la formación profesional específica promoverá la integración de contenidos científicos, tecnológicos y organizativos. Asimismo, favorecerá en el alumno la capacidad para aprender por sí mismo y para trabajar en equipo, así como la formación en la prevención de conflictos y para la resolución pacífica de los mismos en todos los ámbitos de la vida personal, familiar y social.»
 
@@ -1124,19 +1124,19 @@ La situación legal de desempleo prevista en los artículos 208.1.1e) y 208.1.2 
 
 #### Disposición adicional novena. Modificación de la Ley de Medidas para la Reforma de la Función Pública.
 
-Uno. El apartado 3 del artículo 1 de la Ley 30/1984, de 2 de agosto, de Medidas para la Reforma de la Función Pública, tendrá la siguiente redacción:
+Uno. El apartado 3 del artículo 1 de la [Ley 30/1984](../01_marco_normativo_general_y_organico/L30_1984_medidas_reforma_funcion_publica.md), de 2 de agosto, de Medidas para la Reforma de la Función Pública, tendrá la siguiente redacción:
 
 «3. Se consideran bases del régimen estatutario de los funcionarios públicos, dictadas al amparo del artículo 149.1.18.ª de la Constitución, y en consecuencia aplicables al personal de todas las Administraciones Públicas, los siguientes preceptos: artículos: 3.2.e) y f); 6; 7; 8; 11; 12; 13.2, 3 y 4; 14.4 y 5; 16; 17; 18.1 a 5; 19.1 y 3; 20.1.a), b), párrafo primero, c), e), g) en sus párrafos primero a cuarto, e i); 2 y 3; 21; 22.1, a excepción de los dos últimos párrafos; 23; 24; 25; 26; 29, a excepción del último párrafo de sus apartados 5, 6 y 7; 30.5; 31; 32; 33; disposiciones adicionales tercera, 2 y 3, cuarta, duodécima y decimoquinta; disposiciones transitoria segunda, octava y novena.»
 
-Dos. Se añade un nuevo apartado 3 al artículo 17 de la Ley 30/1984, de 2 de agosto, de Medidas para la Reforma de la Función Pública.
+Dos. Se añade un nuevo apartado 3 al artículo 17 de la [Ley 30/1984](../01_marco_normativo_general_y_organico/L30_1984_medidas_reforma_funcion_publica.md), de 2 de agosto, de Medidas para la Reforma de la Función Pública.
 
 «3. En el marco de los Acuerdos que las Administraciones Públicas suscriban con la finalidad de facilitar la movilidad entre los funcionarios de las mismas, se tendrá especial consideración los casos de movilidad geográfica de las funcionarias víctimas de violencia de género.»
 
-Tres. Se añade una letra i) al apartado 1 del artículo 20 de la Ley 30/1984, de 2 de agosto, de Medidas para la Reforma de la Función Pública, con el siguiente contenido:
+Tres. Se añade una letra i) al apartado 1 del artículo 20 de la [Ley 30/1984](../01_marco_normativo_general_y_organico/L30_1984_medidas_reforma_funcion_publica.md), de 2 de agosto, de Medidas para la Reforma de la Función Pública, con el siguiente contenido:
 
 «i) La funcionaria víctima de violencia sobre la mujer que se vea obligada a abandonar el puesto de trabajo en la localidad donde venía prestando sus servicios, para hacer efectiva su protección o su derecho a la asistencia social integral, tendrá derecho preferente a ocupar otro puesto de trabajo propio de su Cuerpo o Escala y de análogas características que se encuentre vacante y sea de necesaria provisión. En tales supuestos la Administración Pública competente en cada caso estará obligada a comunicarle las vacantes de necesaria provisión ubicadas en la misma localidad o en las localidades que la interesada expresamente solicite.»
 
-Cuatro. Se añade un nuevo apartado 8 en el artículo 29 de la Ley 30/1984, de 2 de agosto, de Medidas para la Reforma de la Función Pública, con el siguiente contenido:
+Cuatro. Se añade un nuevo apartado 8 en el artículo 29 de la [Ley 30/1984](../01_marco_normativo_general_y_organico/L30_1984_medidas_reforma_funcion_publica.md), de 2 de agosto, de Medidas para la Reforma de la Función Pública, con el siguiente contenido:
 
 «8. Excedencia por razón de violencia sobre la mujer funcionaria.
 
@@ -1144,7 +1144,7 @@ Las funcionarias públicas víctimas de violencia de género, para hacer efectiv
 
 Esto no obstante, cuando de las actuaciones de tutela judicial resultase que la efectividad del derecho de protección de la víctima lo exigiere, se podrá prorrogar por períodos de tres meses, con un máximo de dieciocho, el período en el que, de acuerdo con el párrafo anterior, se tendrá derecho a la reserva del puesto de trabajo, con idénticos efectos a los señalados en dicho párrafo.»
 
-Cinco. Se añade un nuevo apartado 5 al artículo 30 de la Ley 30/1984, de 2 de agosto, de Medidas para la Reforma de la Función Pública con el siguiente contenido:
+Cinco. Se añade un nuevo apartado 5 al artículo 30 de la [Ley 30/1984](../01_marco_normativo_general_y_organico/L30_1984_medidas_reforma_funcion_publica.md), de 2 de agosto, de Medidas para la Reforma de la Función Pública con el siguiente contenido:
 
 «5. En los casos en los que las funcionarias víctimas de violencia de género tuvieran que ausentarse por ello de su puesto de trabajo, estas faltas de asistencia, totales o parciales, tendrán la consideración de justificadas por el tiempo y en las condiciones en que así lo determinen los servicios sociales de atención o salud, según proceda.
 

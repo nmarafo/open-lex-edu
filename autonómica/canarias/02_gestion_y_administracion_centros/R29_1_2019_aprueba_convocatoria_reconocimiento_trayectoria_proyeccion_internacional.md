@@ -158,7 +158,7 @@ asp e irá acompañada de la documentación en formato electrónico justificativ
 méritos alegados (ficheros en formato pdf y/o rutas de acceso donde estén alojados los 
 ficheros).
 2. Plazo:
-Conforme al artículo 83 de la Ley 39/2015, de 1 de octubre, del Procedimiento 
+Conforme al artículo 83 de la [Ley 39/2015](../../../estatal/01_marco_normativo_general_y_organico/L39_2015_procedimiento_administrativo_comun_administraciones_publicas.md), de 1 de octubre, del Procedimiento 
 Administrativo Común de las Administraciones Públicas, para la presentación de solicitudes 
 se establece un plazo de veinte días hábiles a contar a partir de la publicación de su publicación 
 en el Boletín Oficial de Canarias.

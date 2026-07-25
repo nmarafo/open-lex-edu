@@ -99,7 +99,7 @@ Viernes 26 de enero de 2018
 Tercero.- La financiación de la mejora del marco retributivo será de carácter plurianual, 
 y se desarrollará de forma gradual en 5 anualidades, comprendidas entre el año 2018 y 
 el 2022, ambos inclusive, en consonancia con el aumento presupuestario progresivo que 
-establece la Ley 6/2014, de 25 de julio, Canaria de Educación no Universitaria.
+establece la [Ley 6/2014](../01_marco_normativo_general_y_organico/L6_2014_canaria_educacion_no_universitaria.md), de 25 de julio, Canaria de Educación no Universitaria.
 II-COMPLEMENTO POR FORMACIÓN PERMANENTE-SEXENIOS.
 Cuarto.- El abono del complemento por formación permanente se ajustará, para cada 
 sexenio, a la financiación gradual señalada en el apartado tercero, hasta un máximo de cinco 

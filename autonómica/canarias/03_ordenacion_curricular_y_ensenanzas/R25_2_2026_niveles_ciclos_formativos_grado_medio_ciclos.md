@@ -58,7 +58,7 @@ fuente_pdf_oficial: https://sede.gobiernodecanarias.org/boc/boc-a-2026-043-703.p
 III. Otras Resoluciones
 Consejería de Educación, Formación Profesional, Actividad Física y Deportes
 703 Dirección General de Formación Profesional y Enseñanzas de Régimen Especial.- 
-Resolución de 25 de febrero de 2026, por la que se dictan instrucciones para la 
+[Resolución de 25 de febrero de 2026](./R25_2_2026_establece_distribucion_horaria_estructura_modular_grados.md), por la que se dictan instrucciones para la 
 implantación y desarrollo del módulo profesional optativo en las ofertas formativas 
 de Grados D, niveles 2 (ciclos formativos de grado medio) y 3 (ciclos formativos de 
 grado superior), a partir del curso escolar 2026/2027, en la Comunidad Autónoma 
@@ -86,7 +86,7 @@ Vista la necesidad de establecer unas instrucciones que regulen la implantación
 desarrollo del módulo optativo en los ciclos formativos de grado medio y superior en la 
 Comunidad Autónoma de Canarias, y de acuerdo con los siguientes
 ANTECEDENTES DE HECHO
-Primero.- La Ley Orgánica 3/2022, de 31 de marzo, de ordenación e integración de la 
+Primero.- La [Ley Orgánica 3/2022](../08_personal_docente/LO3_2022_ordenacion_gestion_determinadas_listas_empleo_tras.md), de 31 de marzo, de ordenación e integración de la 
 Formación Profesional (en adelante 
 LOOIFP), tiene como finalidad garantizar una oferta 
 formativa ágil y eficaz, adaptada al entorno productivo al que se dirige la formación del 
@@ -121,12 +121,12 @@ establece en su artículo 33.3 que “De acuerdo con la normativa básica del Es
 aprobado el real decreto correspondiente a un título de formación profesional y hasta que 
 sea completado el currículo correspondiente a la comunidad autónoma, aquel actuará como 
 norma subsidiaria”.
-Tercero.- La Ley Orgánica 3/2022, de 31 de marzo, de ordenación e integración de 
+Tercero.- La [Ley Orgánica 3/2022](../08_personal_docente/LO3_2022_ordenacion_gestion_determinadas_listas_empleo_tras.md), de 31 de marzo, de ordenación e integración de 
 la Formación Profesional, en su artículo 40, determina la estructura modular de los ciclos 
 formativos de grado medio y superior, disponiendo que la misma consta de una parte de 
 optatividad integrada por módulos profesionales que doten de mayor flexibilidad a la 
 configuración y capacidad de adaptación de la oferta.
-Cuarto.- El Real Decreto 659/2023, de 18 de julio, por el que se desarrolla la ordenación 
+Cuarto.- El [Real Decreto 659/2023](./RD659_2023_dictan_instrucciones_orientaciones_formacion_dual_empresas.md), de 18 de julio, por el que se desarrolla la ordenación 
 del Sistema de Formación Profesional, desarrolla en su artículo 102 la configuración de la 
 optatividad del currículo de los ciclos formativos de grado medio y superior, disponiendo 
 en su apartado 2 que “Corresponde a las administraciones competentes la regulación 
@@ -149,7 +149,7 @@ Sexto.- La Resolución de 27 de junio de 2025, de la Secretaría General de Form
 Profesional, por la que se establece el repertorio de módulos profesionales optativos de 
 formación profesional para el ámbito de gestión del Ministerio de Educación, Formación 
 Profesional y Deportes.
-Séptimo.- La Resolución de 30 de octubre de 2024, por la que se dictan instrucciones 
+Séptimo.- La [Resolución de 30 de octubre de 2024](./R30_10_2024_dictan_instrucciones_orientaciones_implantacion_desarrollo_grados.md), por la que se dictan instrucciones 
 y orientaciones para la implantación y desarrollo de los grados D y E del Sistema de 
 Formación Profesional a partir del curso escolar 2024/2025, y se establece la distribución 
 horaria y modular de sus currículos en el ámbito de la Comunidad Autónoma de Canarias, 
@@ -597,7 +597,7 @@ solicitar la convalidación de otros módulos profesionales.
 la resolución de las solicitudes de convalidación reguladas en la presente instrucción, 
 por tratarse de convalidaciones entre módulos profesionales del sistema educativo y del 
 currículo autonómico, de conformidad con lo dispuesto en el [Real Decreto 1085/2020](../../../estatal/03_ordenacion_curricular_y_ensenanzas/RD1085_2020_establecen_convalidaciones_modulos_profesionales_titulos_formacion.md), de 9 
-de diciembre, y en el artículo 102 del Real Decreto 659/2023, de 18 de julio, sin perjuicio 
+de diciembre, y en el artículo 102 del [Real Decreto 659/2023](./RD659_2023_dictan_instrucciones_orientaciones_formacion_dual_empresas.md), de 18 de julio, sin perjuicio 
 de aquellos supuestos cuya competencia esté expresamente atribuida a otros órganos 
 conforme a la normativa básica estatal.
 10. Contra las resoluciones de convalidación podrá interponerse recurso de alzada 
@@ -621,11 +621,11 @@ conduzca a una titulación, acreditación o certificación oficial.
 a las siguientes especificaciones:
 a) La dirección del centro designará una comisión que, de forma colegiada, evaluará 
 las solicitudes presentadas y verificará el cumplimiento de los requisitos previstos en 
-los apartados 4.b) y 4.c) del artículo 102 del Real Decreto 659/2023, de 18 de julio. El 
+los apartados 4.b) y 4.c) del artículo 102 del [Real Decreto 659/2023](./RD659_2023_dictan_instrucciones_orientaciones_formacion_dual_empresas.md), de 18 de julio. El 
 reconocimiento será competencia de la dirección del centro, que nombrará una comisión 
 que, de forma colegiada evalúe las solicitudes presentadas por el alumnado y determine 
 si el curso o actividad formativa presentada cumple con los requisitos prescritos en los 
-apartados 4.b) y 4.c) del artículo 102 del Real Decreto 659/2023, de 18 de julio.
+apartados 4.b) y 4.c) del artículo 102 del [Real Decreto 659/2023](./RD659_2023_dictan_instrucciones_orientaciones_formacion_dual_empresas.md), de 18 de julio.
 La Comisión comprobará:
 • Que los cursos o actividades formativas no formales presentadas estén directamente 
 relacionados con competencias vinculadas al sector productivo al que se refiere la formación 
@@ -1595,7 +1595,7 @@ Real Decreto 1144/2012,
 de 27 de julio
 • Según lo establecido en el
 capítulo IV del título V del
-Real Decreto 659/2023, de
+[Real Decreto 659/2023](./RD659_2023_dictan_instrucciones_orientaciones_formacion_dual_empresas.md), de
 18 de julio
 CAN-1174A.  Regulación  y  mantenimiento  de  automatismos  en  buques  y  
 embarcaciones
@@ -1790,7 +1790,7 @@ CAN-1510. Gestión de recursos de emergencia y protección civil
 22 de noviembre
 • Según lo establecido en el
 capítulo IV del título V del
-Real Decreto 659/2023, de
+[Real Decreto 659/2023](./RD659_2023_dictan_instrucciones_orientaciones_formacion_dual_empresas.md), de
 18 de julio
 CAN-1548A. Control de aguas
 (Se seleccionan Resultados de aprendizaje hasta sumar 96 h)
@@ -1864,7 +1864,7 @@ Real Decreto 831/2014, de
 3 de octubre
 • Según lo establecido en el
 capítulo IV del título V del
-Real Decreto 659/2023, de
+[Real Decreto 659/2023](./RD659_2023_dictan_instrucciones_orientaciones_formacion_dual_empresas.md), de
 18 de julio
 CAN-1123A. Actividades de ocio y tiempo libre 
 (Se seleccionan Resultados de aprendizaje hasta sumar 96 h)

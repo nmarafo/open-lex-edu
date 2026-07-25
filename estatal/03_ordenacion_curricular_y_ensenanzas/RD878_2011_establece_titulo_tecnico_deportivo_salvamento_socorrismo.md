@@ -44,9 +44,9 @@ La Ley 10/1990, de 15 de octubre, del Deporte, encomendó al Gobierno la regulac
 
 La [Ley Orgánica 2/2006](../01_marco_normativo_general_y_organico/LO2_2006_educacion_texto_consolidado_modificaciones_lomloe.md), de 3 de mayo, de Educación, dispone en su artículo 64.6 que el Gobierno, previa consulta a las Comunidades Autónomas, establecerá las titulaciones correspondientes a los estudios de enseñanzas deportivas, los aspectos básicos del currículo y los requisitos mínimos de los centros.
 
-La [Ley Orgánica 5/2002](LO5_2002_cualificaciones_formacion_profesional.md), de 19 de junio, de las Cualificaciones y de la Formación Profesional, establece el Sistema Nacional de Cualificaciones y Formación Profesional como marco de las acciones formativas dirigidas a responder a las demandas del sector productivo. Algunas modalidades de las enseñanzas deportivas tienen características que permiten relacionarlas con el concepto genérico de formación profesional, sin que por ello se deba renunciar a su condición de oferta específica dirigida al sistema deportivo y diferenciada de la oferta que, dentro de la formación profesional del sistema educativo, realiza la familia profesional de Actividades Físicas y Deportivas para el resto del sector. Por ello, la citada Ley Orgánica 2/2006 establece la posibilidad de que las enseñanzas deportivas se refieran al Catálogo Nacional de Cualificaciones Profesionales.
+La [Ley Orgánica 5/2002](LO5_2002_cualificaciones_formacion_profesional.md), de 19 de junio, de las Cualificaciones y de la Formación Profesional, establece el Sistema Nacional de Cualificaciones y Formación Profesional como marco de las acciones formativas dirigidas a responder a las demandas del sector productivo. Algunas modalidades de las enseñanzas deportivas tienen características que permiten relacionarlas con el concepto genérico de formación profesional, sin que por ello se deba renunciar a su condición de oferta específica dirigida al sistema deportivo y diferenciada de la oferta que, dentro de la formación profesional del sistema educativo, realiza la familia profesional de Actividades Físicas y Deportivas para el resto del sector. Por ello, la citada [Ley Orgánica 2/2006](../01_marco_normativo_general_y_organico/LO2_2006_educacion_texto_consolidado_modificaciones_lomloe.md) establece la posibilidad de que las enseñanzas deportivas se refieran al Catálogo Nacional de Cualificaciones Profesionales.
 
-Este marco normativo hace necesario que ahora el Gobierno, previa consulta a las comunidades autónomas, establezca cada uno de los títulos que formarán el Catálogo de las enseñanzas deportivas del sistema educativo, sus enseñanzas mínimas y aquellos otros aspectos de la ordenación académica que, sin perjuicio de las competencias atribuidas a las Administraciones educativas en esta materia, constituyan los aspectos básicos del currículo que aseguren una formación común y garanticen la validez de los títulos, en cumplimiento con lo dispuesto en el artículo 6.2 de la Ley Orgánica 2/2006, de 3 de mayo, de Educación.
+Este marco normativo hace necesario que ahora el Gobierno, previa consulta a las comunidades autónomas, establezca cada uno de los títulos que formarán el Catálogo de las enseñanzas deportivas del sistema educativo, sus enseñanzas mínimas y aquellos otros aspectos de la ordenación académica que, sin perjuicio de las competencias atribuidas a las Administraciones educativas en esta materia, constituyan los aspectos básicos del currículo que aseguren una formación común y garanticen la validez de los títulos, en cumplimiento con lo dispuesto en el artículo 6.2 de la [Ley Orgánica 2/2006](../01_marco_normativo_general_y_organico/LO2_2006_educacion_texto_consolidado_modificaciones_lomloe.md), de 3 de mayo, de Educación.
 
 El [Real Decreto 1363/2007](RD1363_2007_establece_ordenacion_general_ensenanzas_deportivas_regimen.md), de 24 de octubre, ha establecido la ordenación general de las enseñanzas deportivas de régimen especial, y define en el artículo 4 la estructura de las enseñanzas deportivas.
 
@@ -56,9 +56,9 @@ A estos efectos procede determinar para cada título su identificación, su perf
 
 El marcado carácter técnico de estas enseñanzas, definidas por la peculiaridad de sus procedimientos, materiales, equipos y prácticas específicas de cada modalidad, hace necesario un desarrollo exhaustivo que garantice un mínimo común denominador, claro y orientador, a través de una norma reglamentaria.
 
-Así, el presente real decreto, se dicta en desarrollo del Real Decreto 1363/2007, de 24 de octubre, por el que se establece la ordenación general de las enseñanzas deportivas de régimen especial, y establece y regula, en los aspectos y elementos básicos antes indicados, el título de Técnico Deportivo en Salvamento y Socorrismo.
+Así, el presente real decreto, se dicta en desarrollo del [Real Decreto 1363/2007](./RD1363_2007_establece_ordenacion_general_ensenanzas_deportivas_regimen.md), de 24 de octubre, por el que se establece la ordenación general de las enseñanzas deportivas de régimen especial, y establece y regula, en los aspectos y elementos básicos antes indicados, el título de Técnico Deportivo en Salvamento y Socorrismo.
 
-Finalmente, este real decreto adapta al ámbito de las enseñanzas deportivas de salvamento y socorrismo, las previsiones de la Ley 51/2003, de 2 de diciembre, de igualdad de oportunidades, no discriminación y accesibilidad universal de las personas con discapacidad, ya contenidas en el citado Real Decreto 1363/2007, de 24 de octubre, y desarrolla en este ámbito las previsiones de la [Ley Orgánica 3/2007](../07_convivencia_bienestar_y_protocolos/LO3_2007_igualdad_efectiva_mujeres_hombres.md), de 22 de marzo, para la igualdad efectiva de mujeres y hombres.
+Finalmente, este real decreto adapta al ámbito de las enseñanzas deportivas de salvamento y socorrismo, las previsiones de la Ley 51/2003, de 2 de diciembre, de igualdad de oportunidades, no discriminación y accesibilidad universal de las personas con discapacidad, ya contenidas en el citado [Real Decreto 1363/2007](./RD1363_2007_establece_ordenacion_general_ensenanzas_deportivas_regimen.md), de 24 de octubre, y desarrolla en este ámbito las previsiones de la [Ley Orgánica 3/2007](../07_convivencia_bienestar_y_protocolos/LO3_2007_igualdad_efectiva_mujeres_hombres.md), de 22 de marzo, para la igualdad efectiva de mujeres y hombres.
 
 En el proceso de elaboración de este real decreto han sido consultadas las comunidades autónomas, en el seno de la Conferencia Sectorial de Educación, y han emitido informe el Consejo Escolar del Estado y el Ministerio de Política Territorial y Administración Pública.
 
@@ -74,7 +74,7 @@ Objeto
 
 1. El objeto del presente real decreto es el establecimiento del título de Técnico Deportivo en Salvamento y Socorrismo, con carácter oficial y validez en todo el territorio nacional, así como de sus correspondientes enseñanzas mínimas.
 
-2. De conformidad con lo establecido en el Real Decreto 1363/2007, de 24 de octubre, por el que se establece la ordenación general de las enseñanzas deportivas de régimen especial, los elementos recogidos en el presente real decreto, no constituyen una regulación del ejercicio de profesión titulada alguna.
+2. De conformidad con lo establecido en el [Real Decreto 1363/2007](./RD1363_2007_establece_ordenacion_general_ensenanzas_deportivas_regimen.md), de 24 de octubre, por el que se establece la ordenación general de las enseñanzas deportivas de régimen especial, los elementos recogidos en el presente real decreto, no constituyen una regulación del ejercicio de profesión titulada alguna.
 
 CAPÍTULO II
 
@@ -370,7 +370,7 @@ Para iniciar los módulos de formación práctica de los ciclos inicial y final 
 
 #### Artículo 17. Determinación del currículo.
 
-Las Administraciones educativas establecerán los currículos correspondientes respetando, en todo caso, lo establecido en este real decreto y de acuerdo con lo dispuesto en el artículo 16 del Real Decreto 1363/2007, de 24 de octubre, por el que se establece la ordenación general de las enseñanzas deportivas de régimen especial.
+Las Administraciones educativas establecerán los currículos correspondientes respetando, en todo caso, lo establecido en este real decreto y de acuerdo con lo dispuesto en el artículo 16 del [Real Decreto 1363/2007](./RD1363_2007_establece_ordenacion_general_ensenanzas_deportivas_regimen.md), de 24 de octubre, por el que se establece la ordenación general de las enseñanzas deportivas de régimen especial.
 
 #### Artículo 18. Espacios y equipamientos deportivos.
 
@@ -388,7 +388,7 @@ Acceso a cada uno de los ciclos
 
 #### Artículo 20. Requisitos de acceso al ciclo inicial de grado medio en salvamento y socorrismo para personas sin el título de Graduado en Educación Secundaria Obligatoria.
 
-Se podrá acceder a las enseñanzas del ciclo inicial de grado medio en salvamento y socorrismo sin el título de Graduado en Educación Secundaria Obligatoria, siempre que el aspirante reúna los otros requisitos de carácter específico que se establecen en el presente real decreto, cumpla las condiciones de edad y supere la prueba establecida en el artículo 31.1.a) del Real Decreto 1363/2007, de 24 de octubre, por el que se establece la ordenación general de las enseñanzas deportivas de régimen especial.
+Se podrá acceder a las enseñanzas del ciclo inicial de grado medio en salvamento y socorrismo sin el título de Graduado en Educación Secundaria Obligatoria, siempre que el aspirante reúna los otros requisitos de carácter específico que se establecen en el presente real decreto, cumpla las condiciones de edad y supere la prueba establecida en el artículo 31.1.a) del [Real Decreto 1363/2007](./RD1363_2007_establece_ordenacion_general_ensenanzas_deportivas_regimen.md), de 24 de octubre, por el que se establece la ordenación general de las enseñanzas deportivas de régimen especial.
 
 #### Artículo 21. Requisitos de acceso específicos al ciclo inicial de grado medio en salvamento y socorrismo.
 
@@ -418,7 +418,7 @@ d) Los socorristas que hayan competido en campeonatos de España de salvamento y
 
 #### Artículo 24. Requisitos de acceso de personas que acrediten discapacidades.
 
-Las personas con discapacidad podrán acceder a las enseñanzas de estos ciclos conforme a la disposición adicional tercera del Real Decreto 1363/2007, de 24 de octubre, por el que se establece la ordenación general de las enseñanzas deportivas de régimen especial, siendo obligación de las administraciones competentes llevar a cabo los ajustes razonables para que este acceso no comporte restricciones injustificadas contrarias al principio de igualdad de oportunidades.
+Las personas con discapacidad podrán acceder a las enseñanzas de estos ciclos conforme a la disposición adicional tercera del [Real Decreto 1363/2007](./RD1363_2007_establece_ordenacion_general_ensenanzas_deportivas_regimen.md), de 24 de octubre, por el que se establece la ordenación general de las enseñanzas deportivas de régimen especial, siendo obligación de las administraciones competentes llevar a cabo los ajustes razonables para que este acceso no comporte restricciones injustificadas contrarias al principio de igualdad de oportunidades.
 
 #### Artículo 25. Composición y perfil del tribunal de la prueba de carácter específico.
 
@@ -440,7 +440,7 @@ d) La evaluación final de los aspirantes.
 
 2. El tribunal, como órgano colegiado, se regirá por lo establecido en el título II, capitulo II de la Ley 30/1992, de 26 de noviembre, de Régimen Jurídico de las Administraciones Públicas y del Procedimiento Administrativo Común.
 
-3. En el caso de que alguno de los aspirantes acredite algún tipo de discapacidad, el tribunal actuará de acuerdo con lo dispuesto en la disposición adicional tercera del Real Decreto 1363/2007, de 24 de octubre.
+3. En el caso de que alguno de los aspirantes acredite algún tipo de discapacidad, el tribunal actuará de acuerdo con lo dispuesto en la disposición adicional tercera del [Real Decreto 1363/2007](./RD1363_2007_establece_ordenacion_general_ensenanzas_deportivas_regimen.md), de 24 de octubre.
 
 CAPÍTULO VI
 
@@ -480,7 +480,7 @@ El título de Técnico Deportivo en Salvamento y Socorrismo permitirá el acceso
 
 4. Serán objeto de convalidación los módulos comunes y específicos de enseñanza deportiva con la misma denominación y código.
 
-5. La superación de la totalidad de los módulos del bloque común del 1.er o 2.º nivel, en cualquiera de las modalidades o especialidades deportivas de los títulos establecidos al amparo de la [Ley Orgánica 1/1990](../02_gestion_y_administracion_centros/LO1_1990_regula_regimen_equivalencias_estudios_basicos_medios.md), de 3 de octubre de Ordenación General del Sistema Educativo, se convalidará por la totalidad de los módulos del bloque común del correspondiente ciclo inicial o final de enseñanza deportiva en salvamento y socorrismo. La superación de la totalidad de los módulos del bloque común de los ciclos inicial o final del título de Técnico Deportivo en Salvamento y Socorrismo, se convalidará por la totalidad de los módulos del bloque común, del correspondiente nivel, de los títulos establecidos al amparo de la Ley Orgánica 1/1990, de 3 de octubre, de Ordenación General del Sistema Educativo.
+5. La superación de la totalidad de los módulos del bloque común del 1.er o 2.º nivel, en cualquiera de las modalidades o especialidades deportivas de los títulos establecidos al amparo de la [Ley Orgánica 1/1990](../02_gestion_y_administracion_centros/LO1_1990_regula_regimen_equivalencias_estudios_basicos_medios.md), de 3 de octubre de Ordenación General del Sistema Educativo, se convalidará por la totalidad de los módulos del bloque común del correspondiente ciclo inicial o final de enseñanza deportiva en salvamento y socorrismo. La superación de la totalidad de los módulos del bloque común de los ciclos inicial o final del título de Técnico Deportivo en Salvamento y Socorrismo, se convalidará por la totalidad de los módulos del bloque común, del correspondiente nivel, de los títulos establecidos al amparo de la [Ley Orgánica 1/1990](../02_gestion_y_administracion_centros/LO1_1990_regula_regimen_equivalencias_estudios_basicos_medios.md), de 3 de octubre, de Ordenación General del Sistema Educativo.
 
 #### Artículo 31. Exención del módulo de formación práctica.
 
@@ -488,7 +488,7 @@ Podrán ser objeto de exención total o parcial del módulo de formación práct
 
 #### Artículo 32. Correspondencia formativa de los módulos de enseñanza deportiva con la experiencia docente.
 
-1. La correspondencia formativa entre los módulos de enseñanza deportiva de los ciclos inicial y final de grado medio en salvamento y socorrismo, y la experiencia docente acreditable de las formaciones anteriores de entrenadores deportivos a las que se refiere la disposición transitoria primera del Real Decreto 1363/2007, de 24 de octubre, por el que se establece la ordenación general de las enseñanzas deportivas de régimen especial, y las formaciones de entrenadores a las que se refiere la disposición transitoria primera del Real Decreto 1913/1997, de 19 de diciembre, se establece en el Anexo XIII.
+1. La correspondencia formativa entre los módulos de enseñanza deportiva de los ciclos inicial y final de grado medio en salvamento y socorrismo, y la experiencia docente acreditable de las formaciones anteriores de entrenadores deportivos a las que se refiere la disposición transitoria primera del [Real Decreto 1363/2007](./RD1363_2007_establece_ordenacion_general_ensenanzas_deportivas_regimen.md), de 24 de octubre, por el que se establece la ordenación general de las enseñanzas deportivas de régimen especial, y las formaciones de entrenadores a las que se refiere la disposición transitoria primera del [Real Decreto 1913/1997](./RD454_2002_ecd_establecen_elementos_basicos_informes_evaluacion.md), de 19 de diciembre, se establece en el Anexo XIII.
 
 2. La correspondencia formativa será aplicada por los centros, siguiendo el procedimiento establecido por la correspondiente Administración educativa.
 
@@ -502,11 +502,11 @@ Los módulos de enseñanza deportiva que se establecen en el Anexo XIV, podrán 
 
 #### Disposición adicional tercera. Clave identificativa de los certificados de superación del ciclo inicial.
 
-La clave identificativa de los certificados oficiales acreditativos de la superación del ciclo inicial de grado medio en salvamento y socorrismo a la que hace referencia el artículo 15.4 del Real Decreto 1363/2007, de 24 de octubre, incluirá:
+La clave identificativa de los certificados oficiales acreditativos de la superación del ciclo inicial de grado medio en salvamento y socorrismo a la que hace referencia el artículo 15.4 del [Real Decreto 1363/2007](./RD1363_2007_establece_ordenacion_general_ensenanzas_deportivas_regimen.md), de 24 de octubre, incluirá:
 
 a) Certificación académica oficial: CA.
 
-b) Dígito de la Comunidad Autónoma: De acuerdo con lo establecido en el Anexo IV de la Orden ECD/454/2002, de 22 de febrero, por la que se establecen los elementos básicos de los informes de evaluación de las enseñanzas conducentes a la obtención de titulaciones de técnicos deportivos reguladas por el Real Decreto 1913/1997, de 19 de diciembre, así como los requisitos formales derivados del proceso de evaluación que son necesarios para garantizar la movilidad de los alumnos.
+b) Dígito de la Comunidad Autónoma: De acuerdo con lo establecido en el Anexo IV de la Orden ECD/454/2002, de 22 de febrero, por la que se establecen los elementos básicos de los informes de evaluación de las enseñanzas conducentes a la obtención de titulaciones de técnicos deportivos reguladas por el [Real Decreto 1913/1997](./RD454_2002_ecd_establecen_elementos_basicos_informes_evaluacion.md), de 19 de diciembre, así como los requisitos formales derivados del proceso de evaluación que son necesarios para garantizar la movilidad de los alumnos.
 
 c) Dígitos de modalidad deportiva: SSSS.
 
@@ -516,17 +516,17 @@ Todas las referencias al alumnado, profesorado y a titulaciones para las que en 
 
 #### Disposición transitoria primera. Extinción de la formación del período transitorio en Salvamento y Socorrismo en las modalidades o especialidades reguladas en el presente real decreto.
 
-1. De acuerdo con lo establecido en el apartado 1 de la disposición transitoria primera del Real Decreto 1363/2007, de 24 de octubre, por el que establece la ordenación general de las enseñanzas deportivas de régimen especial, el período transitorio en la modalidad de salvamento y socorrismo, según la Orden EDU/3186/2010, de 7 de diciembre, por la que se regulan los aspectos curriculares, los requisitos generales y los efectos de la formación en materia deportiva, a los que se refiere la disposición transitoria primera del Real Decreto 1363/2007, de 24 de octubre, se extinguirá durante el curso académico establecido en la disposición final segunda del presente real decreto.
+1. De acuerdo con lo establecido en el apartado 1 de la disposición transitoria primera del [Real Decreto 1363/2007](./RD1363_2007_establece_ordenacion_general_ensenanzas_deportivas_regimen.md), de 24 de octubre, por el que establece la ordenación general de las enseñanzas deportivas de régimen especial, el período transitorio en la modalidad de salvamento y socorrismo, según la Orden EDU/3186/2010, de 7 de diciembre, por la que se regulan los aspectos curriculares, los requisitos generales y los efectos de la formación en materia deportiva, a los que se refiere la disposición transitoria primera del [Real Decreto 1363/2007](./RD1363_2007_establece_ordenacion_general_ensenanzas_deportivas_regimen.md), de 24 de octubre, se extinguirá durante el curso académico establecido en la disposición final segunda del presente real decreto.
 
 2. La extinción se producirá durante el curso académico establecido en la disposición final segunda del presente real decreto.
 
 3. Los órganos competentes en materia de deportes o, en su caso, de formación deportiva de las Comunidades Autónomas y de las Ciudades de Ceuta y Melilla establecerán el procedimiento adecuado, en el territorio de su competencia, para que quienes hubieran iniciado formaciones reguladas en la mencionada Orden ECD/3310/2002, de 16 de diciembre, en la modalidad de salvamento y socorrismo puedan completarla hasta su tercer nivel, durante los dos cursos académicos siguientes al de la implantación de las enseñanzas de este real decreto.
 
-#### Disposición transitoria segunda. Reconocimiento de las formaciones deportivas y plazo para solicitar la homologación, convalidación y equivalencia de las formaciones a las que se refieren la disposición adicional quinta y la disposición transitoria primera del Real Decreto 1363/2007, de 24 de octubre, y la disposición transitoria primera del Real Decreto 1913/1997, de 19 de diciembre, en la modalidad de salvamento y socorrismo.
+#### Disposición transitoria segunda. Reconocimiento de las formaciones deportivas y plazo para solicitar la homologación, convalidación y equivalencia de las formaciones a las que se refieren la disposición adicional quinta y la disposición transitoria primera del [Real Decreto 1363/2007](./RD1363_2007_establece_ordenacion_general_ensenanzas_deportivas_regimen.md), de 24 de octubre, y la disposición transitoria primera del [Real Decreto 1913/1997](./RD454_2002_ecd_establecen_elementos_basicos_informes_evaluacion.md), de 19 de diciembre, en la modalidad de salvamento y socorrismo.
 
-1. El reconocimiento de las formaciones deportivas anteriores a las que se refiere la disposición adicional quinta del Real Decreto 1363/2007, de 24 de octubre, llevadas a cabo en la modalidad de salvamento y socorrismo por los órganos competentes de las comunidades autónomas y de las Ciudades de Ceuta y Melilla y las federaciones deportivas de la modalidad mencionada, podrá solicitarse ante el Consejo Superior Deportes por los órganos competentes de las comunidades autónomas y por la Federación Española de Salvamento y Socorrismo, dentro de los sesenta días naturales siguientes a la fecha de entrada en vigor del presente real decreto, conforme a lo que se dispone en la Orden de 30 de julio de 1999, por la que se regula el procedimiento para el reconocimiento de las formaciones de entrenadores deportivos y en la disposición adicional quinta del Real Decreto 1363/2007, de 24 de octubre.
+1. El reconocimiento de las formaciones deportivas anteriores a las que se refiere la disposición adicional quinta del [Real Decreto 1363/2007](./RD1363_2007_establece_ordenacion_general_ensenanzas_deportivas_regimen.md), de 24 de octubre, llevadas a cabo en la modalidad de salvamento y socorrismo por los órganos competentes de las comunidades autónomas y de las Ciudades de Ceuta y Melilla y las federaciones deportivas de la modalidad mencionada, podrá solicitarse ante el Consejo Superior Deportes por los órganos competentes de las comunidades autónomas y por la Federación Española de Salvamento y Socorrismo, dentro de los sesenta días naturales siguientes a la fecha de entrada en vigor del presente real decreto, conforme a lo que se dispone en la Orden de 30 de julio de 1999, por la que se regula el procedimiento para el reconocimiento de las formaciones de entrenadores deportivos y en la disposición adicional quinta del [Real Decreto 1363/2007](./RD1363_2007_establece_ordenacion_general_ensenanzas_deportivas_regimen.md), de 24 de octubre.
 
-2. El procedimiento de reconocimiento de las formaciones a las que se refieren la disposición transitoria primera del Real Decreto 1363/2007, de 24 de octubre, y la disposición transitoria primera del Real Decreto 1913/1997, de 19 de diciembre, en la modalidad de salvamento y socorrismo, se efectuará en cuanto a la solicitud y la documentación, los plazos de subsanación, las prácticas de diligencias y el trámite de audiencia, conforme a lo previsto en la ya citada Orden de 30 de julio de 1999. El reconocimiento se iniciará a instancia del órgano competente en materia de deporte o, en su caso, competente en materia de formación deportiva, de la comunidad autónoma.
+2. El procedimiento de reconocimiento de las formaciones a las que se refieren la disposición transitoria primera del [Real Decreto 1363/2007](./RD1363_2007_establece_ordenacion_general_ensenanzas_deportivas_regimen.md), de 24 de octubre, y la disposición transitoria primera del [Real Decreto 1913/1997](./RD454_2002_ecd_establecen_elementos_basicos_informes_evaluacion.md), de 19 de diciembre, en la modalidad de salvamento y socorrismo, se efectuará en cuanto a la solicitud y la documentación, los plazos de subsanación, las prácticas de diligencias y el trámite de audiencia, conforme a lo previsto en la ya citada Orden de 30 de julio de 1999. El reconocimiento se iniciará a instancia del órgano competente en materia de deporte o, en su caso, competente en materia de formación deportiva, de la comunidad autónoma.
 
 El plazo de presentación de las solicitudes de reconocimiento de formaciones deportivas a las que se refiere este apartado y que hayan finalizado antes de la publicación del presente real decreto, será de 90 días naturales a partir de su entrada en vigor. Para las formaciones realizadas durante el periodo de extinción marcado en la disposición transitoria primera de este real decreto el plazo de presentación será de 90 días naturales a partir de la finalización plazo de extinción establecido en la misma.
 
@@ -5106,7 +5106,7 @@ MED-SSSS104: Organización de eventos de iniciación en salvamento y socorrismo.
 
 MED-SSSS105: Seguridad e intervención en las Instalaciones Acuáticas.
 
-Al menos 100 horas de docencia acreditada en formación de entrenadores en el nivel 1, 2 ó 3 de salvamento y socorrismo en las formaciones a las que se refiere la disposición adicional quinta y la disposición transitoria primera del Real Decreto 1363/2007, de 24 de octubre, así como de la disposición transitoria primera del Real Decreto 1913/1997, de 19 de diciembre.
+Al menos 100 horas de docencia acreditada en formación de entrenadores en el nivel 1, 2 ó 3 de salvamento y socorrismo en las formaciones a las que se refiere la disposición adicional quinta y la disposición transitoria primera del [Real Decreto 1363/2007](./RD1363_2007_establece_ordenacion_general_ensenanzas_deportivas_regimen.md), de 24 de octubre, así como de la disposición transitoria primera del [Real Decreto 1913/1997](./RD454_2002_ecd_establecen_elementos_basicos_informes_evaluacion.md), de 19 de diciembre.
 
 Al menos 2 años de ejercicio deportivo-laboral relacionado con las competencias profesionales del ciclo inicial, realizado en los 4 años inmediatamente anteriores al nombramiento.
 
@@ -5122,7 +5122,7 @@ MED-SSSS-205: Espacios acuáticos y materiales.
 
 MED-SSSS-206: Seguridad e intervención en Espacios Acuáticos Naturales.
 
-Al menos 100 horas de docencia acreditada en formación de entrenadores en el nivel 2 ó 3 de salvamento y socorrismo en las formaciones a las que se refiere la disposición adicional quinta y la disposición transitoria primera del Real Decreto 1363/2007, de 24 de octubre, así como de la disposición transitoria primera del Real Decreto 1913/1997, de 19 de diciembre.
+Al menos 100 horas de docencia acreditada en formación de entrenadores en el nivel 2 ó 3 de salvamento y socorrismo en las formaciones a las que se refiere la disposición adicional quinta y la disposición transitoria primera del [Real Decreto 1363/2007](./RD1363_2007_establece_ordenacion_general_ensenanzas_deportivas_regimen.md), de 24 de octubre, así como de la disposición transitoria primera del [Real Decreto 1913/1997](./RD454_2002_ecd_establecen_elementos_basicos_informes_evaluacion.md), de 19 de diciembre.
 
 Al menos 2 años de ejercicio deportivo-laboral relacionado con las competencias profesionales del ciclo final, realizado en los 4 años inmediatamente anteriores al nombramiento
 

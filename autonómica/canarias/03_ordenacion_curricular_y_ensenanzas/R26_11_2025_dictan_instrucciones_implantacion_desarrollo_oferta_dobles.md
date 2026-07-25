@@ -94,7 +94,7 @@ de Canarias la competencia de desarrollo legislativo y de ejecución, entre otra
 
 ordenación de las enseñanza y la actividad docente y educativa, así como el establecimiento 
 de los correspondientes planes de estudio, incluida la ordenación curricular.
-Segundo.- El artículo 22.4.d) del Real Decreto 659/2023, de 18 de julio, por el 
+Segundo.- El artículo 22.4.d) del [Real Decreto 659/2023](./RD659_2023_dictan_instrucciones_orientaciones_formacion_dual_empresas.md), de 18 de julio, por el 
 que se desarrolla la ordenación del Sistema de Formación Profesional, indica que las 
 administraciones, en el marco de la programación de su oferta según los Grados, podrán 
 establecer dobles titulaciones de Grado D, que incluyan en una única secuencia formativa 
@@ -103,7 +103,7 @@ respetarse los módulos profesionales de ambos ciclos formativos y la duración 
 de ellos, de acuerdo con el currículo establecido a nivel autonómico. La optatividad en estos 
 itinerarios, así como los módulos asociados a las habilidades y capacidades transversales 
 serán los prescriptivos para una única oferta.
-Tercero.- El artículo 84 del Real Decreto 659/2023, de 18 de julio, por el que se 
+Tercero.- El artículo 84 del [Real Decreto 659/2023](./RD659_2023_dictan_instrucciones_orientaciones_formacion_dual_empresas.md), de 18 de julio, por el que se 
 desarrolla la ordenación del Sistema de Formación Profesional, indica lo siguiente:
 1. Las administraciones competentes podrán, de oficio o previa solicitud de los centros 
 del Sistema de Formación Profesional, desarrollar o autorizar ofertas de Grado D que 
@@ -148,7 +148,7 @@ de Régimen Especial, de 5 de noviembre de 2024, por la que se dictan instruccio
 orientaciones para la formación dual en empresas u organismos equiparados en los 
 Certificados Profesionales (Grado C), los Ciclos Formativos de Grado Básico, Medio y 
 Superior (Grados D, niveles 1, 2 y 3) y Cursos de Especialización (Grado E, niveles 2 y 
-3), en aplicación del Real Decreto 659/2023, de 18 de julio, en los centros docentes no 
+3), en aplicación del [Real Decreto 659/2023](./RD659_2023_dictan_instrucciones_orientaciones_formacion_dual_empresas.md), de 18 de julio, en los centros docentes no 
 universitarios de la Comunidad Autónoma de Canarias.
 Séptimo.- La Resolución de la Dirección General de Formación Profesional y 
 Enseñanzas de Régimen Especial, de 9 de junio de 2025, por la que se dictan instrucciones 
@@ -205,7 +205,7 @@ DE GRADO MEDIO Y SUPERIOR (GRADOS D), A PARTIR DEL CURSO 2026/2027.
 Primera.- Objeto y ámbito de aplicación.
 1. Las presentes instrucciones tienen por objeto regular la implantación y el desarrollo 
 de la oferta de “Doble titulación de formación profesional”, de conformidad con lo previsto 
-en los artículos 22 y 84 del Real Decreto 659/2023, de 18 de julio, por el que se establece 
+en los artículos 22 y 84 del [Real Decreto 659/2023](./RD659_2023_dictan_instrucciones_orientaciones_formacion_dual_empresas.md), de 18 de julio, por el que se establece 
 la ordenación del Sistema de Formación Profesional.
 2. La oferta de doble titulación de Grado D integra dos titulaciones del mismo nivel del 
 Catálogo Nacional de Ofertas de Formación Profesional bajo la denominación de “Doble 
@@ -379,7 +379,7 @@ superados, para lo cual formalizará la matrícula ordinaria de primer y/o segun
 incorporará al grupo correspondiente.
 Sexta.- Acceso a la formación en la empresa u organismo equiparado.
 Se llevará a cabo según lo establecido en la instrucción quinta del Anexo II de la 
-Resolución de 9 de junio de 2025, por la que se dictan instrucciones respecto al proceso de 
+[Resolución de 9 de junio de 2025](./R9_6_2025_dictan_instrucciones_respecto_proceso_evaluacion_ciclos.md), por la que se dictan instrucciones respecto al proceso de 
 evaluación en los Ciclos Formativos (Grados C y D) y Cursos de Especialización (Grado 
 E) del Sistema de Formación Profesional que se imparten en la Comunidad Autónoma de 
 Canarias a partir del curso escolar 2024/2025.
@@ -473,7 +473,7 @@ medio y de grado superior será de aplicación, respectivamente, al segundo y te
 los ciclos de doble titulación de formación profesional.
 Octava.- Evaluación de la formación en empresa u organismo equiparado.
 Se llevará a cabo según lo establecido en la instrucción sexta del Anexo II de la 
-Resolución de 9 de junio de 2025, por la que se dictan instrucciones respecto al proceso de 
+[Resolución de 9 de junio de 2025](./R9_6_2025_dictan_instrucciones_respecto_proceso_evaluacion_ciclos.md), por la que se dictan instrucciones respecto al proceso de 
 
 evaluación en los Ciclos Formativos (Grados C y D) y Cursos de Especialización (Grado 
 E) del sistema de formación profesional que se imparten en la Comunidad Autónoma de 
@@ -506,7 +506,7 @@ profesional de proyecto intermodular en segundo y tercer curso sea el establecid
 Anexo II y III de la presente Resolución.
 Décima.- Calificación.
 Se llevará a cabo según lo establecido en la instrucción séptima del Anexo II de la 
-Resolución de 9 de junio de 2025, por la que se dictan instrucciones respecto al proceso de 
+[Resolución de 9 de junio de 2025](./R9_6_2025_dictan_instrucciones_respecto_proceso_evaluacion_ciclos.md), por la que se dictan instrucciones respecto al proceso de 
 evaluación en los Ciclos Formativos (Grados C y D) y Cursos de Especialización (Grado 
 E) del sistema de formación profesional que se imparten en la Comunidad Autónoma de 
 Canarias a partir del curso escolar 2024/2025.
@@ -581,11 +581,11 @@ establecerá los criterios y procedimientos para la autorización y desarrollo d
 enseñanzas, de conformidad con lo dispuesto en la presente Resolución.
 Decimosexta.- Admisión.
 1. Para los ciclos formativos de grado medio, el proceso de admisión se regirá por lo 
-establecido en el artículo 111 del Real Decreto 659/2023, de 18 de julio, y las instrucciones 
+establecido en el artículo 111 del [Real Decreto 659/2023](./RD659_2023_dictan_instrucciones_orientaciones_formacion_dual_empresas.md), de 18 de julio, y las instrucciones 
 que dicte la 
 DGFPERE en el ámbito de la Comunidad Autónoma de Canarias.
 2. Para los ciclos formativos de grado superior, el proceso de admisión se regirá por lo 
-establecido en el artículo 115 del Real Decreto 659/2023, de 18 de julio, y las instrucciones 
+establecido en el artículo 115 del [Real Decreto 659/2023](./RD659_2023_dictan_instrucciones_orientaciones_formacion_dual_empresas.md), de 18 de julio, y las instrucciones 
 que dicte la 
 DGFPERE en el ámbito de la Comunidad Autónoma de Canarias.
 

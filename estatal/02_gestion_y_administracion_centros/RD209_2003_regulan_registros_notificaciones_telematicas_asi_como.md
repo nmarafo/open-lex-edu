@@ -72,7 +72,7 @@ En su virtud, a propuesta de los Ministros de Hacienda y de Administraciones Pú
 
 1. El presente real decreto tiene como objeto la regulación de los registros telemáticos, las notificaciones telemáticas y los certificados y transmisiones telemáticas, en desarrollo de los artículos 38.9, 45, 59.3 y disposición adicional decimoctava de la Ley 30/1992, de 26 de noviembre, de Régimen Jurídico de las Administraciones Públicas y del Procedimiento Administrativo Común, así como de los apartados 3 y 8 del artículo 105 de la Ley 230/1963, de 28 de diciembre, General Tributaria.
 
-2. Lo dispuesto en este real decreto se aplicará en todo caso de conformidad con lo previsto en la Ley Orgánica 15/1999 de 13 de diciembre, de Protección de Datos de Carácter Personal.
+2. Lo dispuesto en este real decreto se aplicará en todo caso de conformidad con lo previsto en la [Ley Orgánica 15/1999](./LO15_1999_proteccion_datos_caracter_personal.md) de 13 de diciembre, de Protección de Datos de Carácter Personal.
 
 #### Artículo 2. Modificación del Real Decreto 263/1996, de 16 de febrero, por el que se regula la utilización de técnicas electrónicas, informáticas y telemáticas por la Administración General del Estado.
 
@@ -114,7 +114,7 @@ Certificados telemáticos y transmisiones de datos
 
 1. Siempre que el interesado así lo autorice o una norma de rango legal lo disponga, los certificados administrativos en soporte papel serán sustituidos por certificados telemáticos o por transmisiones de datos.
 
-2. En ambos casos, su expedición, tratamiento y efectos se regirán por lo dispuesto en este real decreto con estricta sujeción a lo dispuesto en la Ley Orgánica 15/1999, de 13 de diciembre, de Protección de Datos de Carácter Personal.
+2. En ambos casos, su expedición, tratamiento y efectos se regirán por lo dispuesto en este real decreto con estricta sujeción a lo dispuesto en la [Ley Orgánica 15/1999](./LO15_1999_proteccion_datos_caracter_personal.md), de 13 de diciembre, de Protección de Datos de Carácter Personal.
 
 [ignorar]Artículo 14. Certificados telemáticos.
 

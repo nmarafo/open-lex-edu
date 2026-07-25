@@ -160,7 +160,7 @@ Artículo 8.- Competencias generales y específicas.
 
 Sección 2ª - Secretaría General Técnica
 Artículo 9.- Competencias generales y específicas.
-1. Corresponden a la Secretaría General Técnica las competencias previstas en el artículo 15 del Decreto 212/1991, de 11 de septiembre, de organización de los Departamentos de la Administración Autonómica de Canarias.
+1. Corresponden a la Secretaría General Técnica las competencias previstas en el artículo 15 del [Decreto 212/1991](./D212_1991_organizacion_departamentos_administracion_autonomica_canarias.md), de 11 de septiembre, de organización de los Departamentos de la Administración Autonómica de Canarias.
 2. Además, le corresponden la gestión administrativa en contratación, nóminas, personal no docente, convenios e informática.
 
 Sección 3ª - Dirección General de Centros e Infraestructura Educativa

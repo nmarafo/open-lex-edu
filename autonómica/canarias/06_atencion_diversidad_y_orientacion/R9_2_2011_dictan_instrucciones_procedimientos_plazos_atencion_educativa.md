@@ -185,7 +185,7 @@ to Orgánico de la Consejería de Educación, Cultura
 y Deportes, aprobado por el Decreto 113/2006, de 26
 de julio (BOC nº 148, de 1.8.06) en su redacción ac-
 tual, así como en relación a este último, por el artícu-
-lo 4, apartado 1 del Decreto 212/1991, de 11 de sep-
+lo 4, apartado 1 del [Decreto 212/1991](../01_marco_normativo_general_y_organico/D212_1991_organizacion_departamentos_administracion_autonomica_canarias.md), de 11 de sep-
 tiembre, de organización de los Departamentos de la
 Administración Autonómica de Canarias (BOC nº 122,
 de 16.9.91), 
@@ -924,7 +924,7 @@ recursos humanos y materiales específicos e infra-
 estructura de difícil generalización.
 3. La escolarización de este alumnado se realiza-
 rá conforme al procedimiento establecido en el artícu-
-lo 33.2 de la Orden de 1 de septiembre de 2010. 
+lo 33.2 de la [Orden de 1 de septiembre de 2010](./O1_9_2010_desarrolla_organizacion_funcionamiento_equipos_orientacion_educativa.md). 
 4. Los requerimientos para la respuesta educati-
 va al alumnado con discapacidad auditiva o motora
 escolarizado en centros ordinarios de atención edu-
@@ -1072,7 +1072,7 @@ ciembre de 2010 y en la presente Resolución.
 4. La escolarización de alumnado de aulas encla-
 ve y centros de educación especial se realizará con-
 forme al procedimiento establecido en el artículo
-33.2 de la Orden de 1 de septiembre de 2010. 
+33.2 de la [Orden de 1 de septiembre de 2010](./O1_9_2010_desarrolla_organizacion_funcionamiento_equipos_orientacion_educativa.md). 
 5. Para la organización de los agrupamientos se
 atenderá preferentemente a los siguientes criterios,
 teniendo en cuenta las ratios profesorado tutor-alum-

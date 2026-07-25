@@ -40,7 +40,7 @@ El Ministerio de Educación ha venido convocando anualmente los Premios Nacional
 
 Previamente, las Comunidades Autónomas y el propio Ministerio de Educación venían convocando anualmente también, en sus correspondientes ámbitos territoriales de competencias, los Premios Extraordinarios de Bachillerato, cuyos premiados podían optar al Premio Nacional de Bachillerato.
 
-La Ley Orgánica 2/2006, de 3 de mayo, de Educación, establece una nueva regulación de las enseñanzas del Bachillerato, con distintas modalidades, y en su artículo 89 establece que el Ministerio de Educación y Ciencia, sin perjuicio de las competencias de las Comunidades Autónomas, podrá establecer, por sí mismo o en colaboración con otras entidades, premios y concursos de carácter estatal destinados a alumnos, profesores o centros escolares.
+La [Ley Orgánica 2/2006](../01_marco_normativo_general_y_organico/LO2_2006_educacion_texto_consolidado_modificaciones_lomloe.md), de 3 de mayo, de Educación, establece una nueva regulación de las enseñanzas del Bachillerato, con distintas modalidades, y en su artículo 89 establece que el Ministerio de Educación y Ciencia, sin perjuicio de las competencias de las Comunidades Autónomas, podrá establecer, por sí mismo o en colaboración con otras entidades, premios y concursos de carácter estatal destinados a alumnos, profesores o centros escolares.
 
 La implantación del nuevo Bachillerato hace necesaria la creación de unos nuevos Premios Nacionales Bachillerato que incentiven y reconozcan el esfuerzo y la dedicación del alumnado que curse estos estudios con una trayectoria académica cualificada.
 
@@ -52,7 +52,7 @@ Por todo ello, consultadas las Comunidades Autónomas, dispongo:
 
 #### Artículo 1. Objeto.
 
-Esta Orden tiene por objeto la creación de los Premios Nacionales de Bachillerato, como reconocimiento del especial aprovechamiento del alumnado que haya cursado cualquiera de las modalidades del Bachillerato establecidas en la Ley Orgánica 2/2006, de 3 de mayo, de Educación.
+Esta Orden tiene por objeto la creación de los Premios Nacionales de Bachillerato, como reconocimiento del especial aprovechamiento del alumnado que haya cursado cualquiera de las modalidades del Bachillerato establecidas en la [Ley Orgánica 2/2006](../01_marco_normativo_general_y_organico/LO2_2006_educacion_texto_consolidado_modificaciones_lomloe.md), de 3 de mayo, de Educación.
 
 #### Artículo 2. Convocatoria de los Premios Nacionales de Bachillerato.
 
@@ -78,7 +78,7 @@ La nota media será la media aritmética de las calificaciones de las materias c
 
 2. Podrá concederse, como máximo, un Premio Extraordinario de Bachillerato por cada mil alumnos, o fracción superior a quinientos, matriculados en segundo curso de Bachillerato el año académico al que se refiere la convocatoria. En los casos en que el número de alumnos matriculados en el curso indicado sea inferior a quinientos, podrá concederse un Premio Extraordinario de Bachillerato.
 
-3. A los efectos previstos en los apartados 1 y 2 de este artículo, se tendrá en cuenta el alumnado procedente de centros docentes públicos y privados en los que se impartan las enseñanzas de Bachillerato conforme a la Ley Orgánica 2/2006, de 3 de mayo, tanto en régimen presencial como a distancia.
+3. A los efectos previstos en los apartados 1 y 2 de este artículo, se tendrá en cuenta el alumnado procedente de centros docentes públicos y privados en los que se impartan las enseñanzas de Bachillerato conforme a la [Ley Orgánica 2/2006](../01_marco_normativo_general_y_organico/LO2_2006_educacion_texto_consolidado_modificaciones_lomloe.md), de 3 de mayo, tanto en régimen presencial como a distancia.
 
 #### Artículo 5. Procedimiento de concesión de los Premios Nacionales de Bachillerato.
 

@@ -60,7 +60,7 @@ Comunidad Autónoma de Canarias para el curso escolar 2026-2027 (BOC n.º 39,
 de 26.2.2026).
 ANTECEDENTES DE HECHO
 Primero.- Con fecha 26 de febrero de 2026 se publica en el Boletín Oficial de Canarias 
-n.º 39 la Resolución de 13 de febrero de 2026, por la que se convoca el procedimiento 
+n.º 39 la [Resolución de 13 de febrero de 2026](./R13_2_2026_convoca_procedimiento_admision_alumnado_ciclos_formativos.md), por la que se convoca el procedimiento 
 de admisión del alumnado a los Ciclos Formativos de Grado Básico, Medio y Superior 
 (Grado D, niveles 1, 2 y 3, respectivamente) y de los cursos de especialización de Grado 
 Medio y Superior (Grados E, niveles 2 y 3, respectivamente) de todas las Enseñanzas de 
@@ -76,7 +76,7 @@ Administrativo Común de las Administraciones Públicas, dispone que: “Las Adm
 Públicas podrán, asimismo, rectificar en cualquier momento, de oficio o a instancia de los 
 interesados, los errores materiales, de hecho, o aritméticos existentes en sus actos”.
 A este respecto se ha detectado un error material en la tabla perteneciente al Anexo I 
-de la Resolución de 13 de febrero de 2026, por la que se convoca el procedimiento de 
+de la [Resolución de 13 de febrero de 2026](./R13_2_2026_convoca_procedimiento_admision_alumnado_ciclos_formativos.md), por la que se convoca el procedimiento de 
 admisión del alumnado a los Ciclos Formativos de Grado Básico, Medio y Superior (Grado 
 D, niveles 1, 2 y 3, respectivamente) y de los cursos de especialización de Grado Medio y 
 Superior (Grados E, niveles 2 y 3, respectivamente) de todas las Enseñanzas de Formación 

@@ -1362,7 +1362,7 @@ Los funcionarios que ejerciten el derecho a la huelga no devengarán ni percibir
 
 #### Sexta.
 
-Quienes excepcionalmente sean contratados, al amparo de la disposición adicional cuarta número 2 de la Ley 30/1984, de 2 de agosto, para realizar trabajos específicos y concretos, no habituales de la correspondiente dependencia administrativa, se regirán por las normas específicas del Estado dictadas en el marco de la legislación contractual, sin perjuicio, en su caso, de la aplicación de la normativa civil o mercantil.
+Quienes excepcionalmente sean contratados, al amparo de la disposición adicional cuarta número 2 de la [Ley 30/1984](../../../estatal/01_marco_normativo_general_y_organico/L30_1984_medidas_reforma_funcion_publica.md), de 2 de agosto, para realizar trabajos específicos y concretos, no habituales de la correspondiente dependencia administrativa, se regirán por las normas específicas del Estado dictadas en el marco de la legislación contractual, sin perjuicio, en su caso, de la aplicación de la normativa civil o mercantil.
 
 #### Séptima.
 
@@ -1466,7 +1466,7 @@ Tres. La Consejería de la Presidencia realizará las clasificaciones pertinente
 
 #### Segunda.
 
-El personal de la Seguridad Social regulado en el Estatuto Jurídico del Personal Médico de la Seguridad Social, en el Estatuto del Personal Auxiliar Sanitario Titular y Auxiliar de Clínica de la Seguridad Social, en el Estatuto de Personal no Sanitario al Servicio de las Instituciones Sanitarias de la Seguridad Social, así como de los Cuerpos y Escalas Sanitarias y de Asesores Médicos previstos en la disposición adicional 16 de la Ley 30/1984, de 2 de agosto, se regirán por sus Estatutos respectivos, mientras no se dicte la legislación específica correspondiente, para adaptarlos a la presente Ley, y podrán ocupar los puestos de trabajo de ámbito sanitario de acuerdo con lo que se determine en las correspondientes relaciones de puestos de trabajo.
+El personal de la Seguridad Social regulado en el Estatuto Jurídico del Personal Médico de la Seguridad Social, en el Estatuto del Personal Auxiliar Sanitario Titular y Auxiliar de Clínica de la Seguridad Social, en el Estatuto de Personal no Sanitario al Servicio de las Instituciones Sanitarias de la Seguridad Social, así como de los Cuerpos y Escalas Sanitarias y de Asesores Médicos previstos en la disposición adicional 16 de la [Ley 30/1984](../../../estatal/01_marco_normativo_general_y_organico/L30_1984_medidas_reforma_funcion_publica.md), de 2 de agosto, se regirán por sus Estatutos respectivos, mientras no se dicte la legislación específica correspondiente, para adaptarlos a la presente Ley, y podrán ocupar los puestos de trabajo de ámbito sanitario de acuerdo con lo que se determine en las correspondientes relaciones de puestos de trabajo.
 
 2. El personal de los Cuerpos Técnicos Sanitarios al servicio de la Sanidad Local mantendrá un régimen retributivo específico conforme a lo establecido en los Presupuestos Generales del Estado, en tanto no se proceda a la regulación definitiva.
 
@@ -1492,7 +1492,7 @@ El sistema retributivo previsto en el título VII de esta Ley entrará en vigor,
 
 #### Sexta.
 
-El régimen transitorio de jubilaciones se regirá por las normas previstas en la Ley 30/1984, de 2 de agosto, de Medidas para la Reforma de la Función Pública.
+El régimen transitorio de jubilaciones se regirá por las normas previstas en la [Ley 30/1984](../../../estatal/01_marco_normativo_general_y_organico/L30_1984_medidas_reforma_funcion_publica.md), de 2 de agosto, de Medidas para la Reforma de la Función Pública.
 
 #### Séptima.
 

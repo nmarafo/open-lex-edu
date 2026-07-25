@@ -626,7 +626,7 @@ SR. RECTOR MAGNÍFICO DE LA UNIVERSIDAD DE LA LAGUNA.
 Servicio de Recursos Humanos 
 ANEXO II. SOLICITUD DE ADMISIÓN AL CONCURSO 
 PROTECCI ÓN DE DATOS 
-En cumplimiento de lo dispuesto en Ley Orgánica 15/1999, de 13 de diciembre, de Protección de Datos de Carácter Personal, el Se rvicio de Recursos Humanos le informa que los 
+En cumplimiento de lo dispuesto en [Ley Orgánica 15/1999](../../../estatal/02_gestion_y_administracion_centros/LO15_1999_proteccion_datos_caracter_personal.md), de 13 de diciembre, de Protección de Datos de Carácter Personal, el Se rvicio de Recursos Humanos le informa que los 
 datos personales obtenidos mediante la cumplimentación de este documento y demás que se adjuntan van a ser incorporados para su  tratamiento, en un fichero automatizado que 
 tratará los datos de todos los participantes en la presente convocatoria, conforme al procedimiento establecido en la misma. Da  acuerdo con lo previsto en la citada Ley Orgánica, 
 puede ejercitar los derechos de acceso, rectificación, cancelación y oposición dirigiendo un escrito al Servicio de Recursos Hu manos, Rectorado, C/ Molinos de Agua, s/n, 38071. 
@@ -670,7 +670,7 @@ SR. RECTOR MAGNÍFICO DE LA UNIVERSIDAD DE LA LAGUNA.
 Servicio de Recursos Humanos 
 ANEXO II. SOLICITUD DE ADMISIÓN AL CONCURSO 
 PROTECCI ÓN DE DATOS 
-En cumplimiento de lo dispuesto en Ley Orgánica 15/1999, de 13 de diciembre, de Protección de Datos de Carácter Personal, el Se rvicio de Recursos Humanos le informa que los 
+En cumplimiento de lo dispuesto en [Ley Orgánica 15/1999](../../../estatal/02_gestion_y_administracion_centros/LO15_1999_proteccion_datos_caracter_personal.md), de 13 de diciembre, de Protección de Datos de Carácter Personal, el Se rvicio de Recursos Humanos le informa que los 
 datos personales obtenidos mediante la cumplimentación de este documento y demás que se adjuntan van a ser incorporados para su  tratamiento, en un fichero automatizado que 
 tratará los datos de todos los participantes en la presente convocatoria, conforme al procedimiento establecido en la misma. Da  acuerdo con lo previsto en la citada Ley Orgánica, 
 puede ejercitar los derechos de acceso, rectificación, cancelación y oposición dirigiendo un escrito al Servicio de Recursos Hu manos, Rectorado, C/ Molinos de Agua, s/n, 38071. 

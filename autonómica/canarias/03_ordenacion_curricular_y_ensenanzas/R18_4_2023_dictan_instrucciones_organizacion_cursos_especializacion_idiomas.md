@@ -73,7 +73,7 @@ colectivos profesionales y de la población adulta en general.
 Tercero.- El Real Decreto 1041/2017, de 22 de diciembre, por el que se fijan las 
 exigencias mínimas del nivel básico a efectos de certificación, se establece el currículo 
 básico de los niveles Intermedio B1, Intermedio B2, Avanzado C1, y Avanzado C2, de las 
-Enseñanzas de idiomas de régimen especial reguladas por la Ley Orgánica 2/2006, de 3 de 
+Enseñanzas de idiomas de régimen especial reguladas por la [Ley Orgánica 2/2006](../../../estatal/01_marco_normativo_general_y_organico/LO2_2006_educacion_texto_consolidado_modificaciones_lomloe.md), de 3 de 
 mayo, de Educación, y se establecen las equivalencias entre las Enseñanzas de idiomas de 
 régimen especial reguladas en diversos planes de estudios y las de este real decreto, recoge 
 

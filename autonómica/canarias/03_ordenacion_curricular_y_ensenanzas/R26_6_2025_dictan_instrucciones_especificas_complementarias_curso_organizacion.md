@@ -90,7 +90,7 @@ Orgánico de los centros docentes públicos no universitarios de la Comunidad Au
 de Canarias, determina en su disposición adicional tercera, sobre centros de características 
 especiales, que las Escuelas Oficiales de Idiomas se regirán por su normativa específica y, 
 supletoriamente, por el reglamento aprobado por el citado decreto.
-Cuarto.- La [Orden de 9 de octubre de 2013](../04_organizacion_escolar_y_funcionamiento/Ds_n_desarrolla_decreto_aprueba_reglamento_organico_centros.md), por la que se desarrolla el Decreto 81/2010, 
+Cuarto.- La [Orden de 9 de octubre de 2013](../04_organizacion_escolar_y_funcionamiento/Ds_n_desarrolla_decreto_aprueba_reglamento_organico_centros.md), por la que se desarrolla el [Decreto 81/2010](../04_organizacion_escolar_y_funcionamiento/D81_2010_aprueba_reglamento_organico_centros_docentes_publicos.md), 
 de 8 de julio, por el que se aprueba el Reglamento Orgánico de los centros docentes públicos 
 no universitarios de la Comunidad Autónoma de Canarias, en lo referente a su organización 
 y funcionamiento recoge que las Escuelas Oficiales de Idiomas se regirán por su normativa 
@@ -103,7 +103,7 @@ Quinto.- El marco general de las Enseñanzas de Idiomas de Régimen Especial que
 regulado por el Real Decreto 1041/2017, de 22 de diciembre, por el que se fijan las 
 exigencias mínimas del nivel básico a efectos de certificación, se establece el currículo 
 básico de los niveles Intermedio B1, Intermedio B2, Avanzado C1, y Avanzado C2, de las 
-Enseñanzas de idiomas de régimen especial reguladas por la Ley Orgánica 2/2006, de 3 de 
+Enseñanzas de idiomas de régimen especial reguladas por la [Ley Orgánica 2/2006](../../../estatal/01_marco_normativo_general_y_organico/LO2_2006_educacion_texto_consolidado_modificaciones_lomloe.md), de 3 de 
 mayo, de Educación, y se establecen las equivalencias entre las Enseñanzas de idiomas de 
 régimen especial reguladas en diversos planes de estudios y las de este Real Decreto, y, en 
 el ámbito autonómico, por el Decreto 142/2018, de 8 de octubre, por el que se establece 
@@ -204,7 +204,7 @@ final de curso.
 1. AUTONOMÍA DE LOS CENTROS Y PROCESOS DE MEJORA.
 Los documentos institucionales de las Escuelas Oficiales de Idiomas (en adelante, EOI) 
 se actualizarán al inicio del curso escolar en base a lo establecido en el Título II, Capítulo 
-primero del Decreto 81/2010, de 8 de julio, por el que se aprueba el Reglamento Orgánico 
+primero del [Decreto 81/2010](../04_organizacion_escolar_y_funcionamiento/D81_2010_aprueba_reglamento_organico_centros_docentes_publicos.md), de 8 de julio, por el que se aprueba el Reglamento Orgánico 
 de los centros docentes públicos no universitarios de la Comunidad Autónoma de Canarias.
 Asimismo, tal y como recoge la Resolución conjunta de la Viceconsejería de Educación 
 y la Viceconsejería de Formación Profesional y Cualificaciones Profesionales, por la que 
@@ -219,7 +219,7 @@ estos documentos, implementar las medidas acordadas y velar por el cumplimiento 
 criterios y objetivos de mejora fijados en consonancia con los objetivos de la Consejería de 
 Educación, Formación Profesional, Actividad Física y Deportes (en adelante, CEFPAFD).
 La programación general anual (PGA) incluirá, además de los aspectos recogidos en el 
-Decreto 81/2010 ‒así como en la Resolución de 27 de junio de 2023 de la Dirección General 
+[Decreto 81/2010](../04_organizacion_escolar_y_funcionamiento/D81_2010_aprueba_reglamento_organico_centros_docentes_publicos.md) ‒así como en la [Resolución de 27 de junio de 2023](./R27_6_2023_resoluci_n_junio_direcci_n_general.md) de la Dirección General 
 de Formación Profesional y Educación de Adultos, por la que se dictan instrucciones 
 específicas sobre la organización y el funcionamiento de la EOI a Distancia de Canarias‒, 
 las propuestas de mejora organizativas y pedagógicas necesarias para impulsar los 
@@ -331,7 +331,7 @@ Bloque asíncrono de 2 horas 15 minutos
 La jornada semanal del profesorado de EOI será la establecida con carácter general 
 para el personal docente no universitario de centros públicos en el artículo 36 de la Orden 
 de 9 de octubre de 2013, que se ajustará a lo indicado en la Orden de 16 de julio de 2019, 
-así como a la Orden de 28 de septiembre de 2023.
+así como a la [Orden de 28 de septiembre de 2023](../04_organizacion_escolar_y_funcionamiento/O28_9_2023_aprueban_instrucciones_organizacion_funcionamiento_centros_docentes.md).
 En lo que respecta al control de asistencia y puntualidad, incorporaciones, ceses y 
 sustituciones del profesorado, se estará a lo dispuesto en la normativa correspondiente 
 establecida con carácter general para todos los centros de enseñanza dependientes de la 
@@ -384,7 +384,7 @@ e) En el ámbito de la autonomía de los centros se podrá dedicar una parte del
 no lectivo a actividades o funciones que se determinen en la programación general anual 
 (PGA) de la EOI como, por ejemplo, la organización y funcionamiento de la biblioteca y 
 del aula multimedia, etc.
-Según lo establecido en la Orden de 28 de septiembre de 2023, cuando, excepcionalmente, 
+Según lo establecido en la [Orden de 28 de septiembre de 2023](../04_organizacion_escolar_y_funcionamiento/O28_9_2023_aprueban_instrucciones_organizacion_funcionamiento_centros_docentes.md), cuando, excepcionalmente, 
 el número de horas lectivas exceda lo establecido con carácter general, el profesorado 
 afectado compensará cada una de estas horas de exceso con una hora complementaria y 
 reducirá en la misma medida las horas de obligada permanencia en el centro.
@@ -538,7 +538,7 @@ DGFPERE.
 
 3.4. Elaboración de pruebas de certificación de idiomas.
 Atendiendo al artículo 7.3 del Real Decreto 1041/2017, de 22 de diciembre, y el artículo 
-5.1 del Real Decreto 1/2019, de 11 de enero, será el profesorado de las Escuelas Oficiales 
+5.1 del [Real Decreto 1/2019](../../../estatal/03_ordenacion_curricular_y_ensenanzas/RD1_2019_establecen_principios_basicos_comunes_evaluacion_aplicables.md), de 11 de enero, será el profesorado de las Escuelas Oficiales 
 de Idiomas el encargado del proceso de elaboración de las pruebas de certificación de 
 Enseñanzas de Idiomas de Régimen Especial, para todos los idiomas y niveles que se 
 impartan en la Comunidad Autónoma de Canarias.
@@ -695,8 +695,8 @@ En la organización de estos procesos de evaluación se tendrá en cuenta, siemp
 necesidades organizativas del centro lo permitan, el número de horas de docencia directa 
 del profesorado. En todo caso, se respetará el número de horas de obligada permanencia 
 en el centro establecido con carácter general para el personal docente no universitario de 
-centros públicos en la Orden de 9 de octubre de 2013, y se ajustará a lo indicado en la 
-Orden de 16 de julio de 2019 y en la Orden de 28 de septiembre de 2023.
+centros públicos en la [Orden de 9 de octubre de 2013](../04_organizacion_escolar_y_funcionamiento/Ds_n_desarrolla_decreto_aprueba_reglamento_organico_centros.md), y se ajustará a lo indicado en la 
+Orden de 16 de julio de 2019 y en la [Orden de 28 de septiembre de 2023](../04_organizacion_escolar_y_funcionamiento/O28_9_2023_aprueban_instrucciones_organizacion_funcionamiento_centros_docentes.md).
 
 Igualmente, podrán constituirse tribunales para administrar y evaluar las pruebas de 
 certificación que se convoquen en fechas distintas a las de la convocatoria anual general 
@@ -743,7 +743,7 @@ en todo caso, lo establecido en la disposición adicional vigesimotercera de la 
 2/2006, de 3 de mayo, de Educación, en su redacción actual.
 4.3. Fecha límite para incorporación de nuevo alumnado y anulación de matrícula.
 De acuerdo con lo establecido en el artículo 49.4 de la Orden de 9 de octubre de 
-2013, por la que se desarrolla el Decreto 81/2010, de 8 de julio, por el que se aprueba el 
+2013, por la que se desarrolla el [Decreto 81/2010](../04_organizacion_escolar_y_funcionamiento/D81_2010_aprueba_reglamento_organico_centros_docentes_publicos.md), de 8 de julio, por el que se aprueba el 
 Reglamento Orgánico de los centros docentes públicos no universitarios de la Comunidad 
 
 Autónoma de Canarias, podrá incorporarse nuevo alumnado que no haya obtenido plaza 
@@ -758,7 +758,7 @@ se establece la ordenación y el currículo de las enseñanzas y la certificaci�
 régimen especial para la Comunidad Autónoma de Canarias.
 4.4. Certificación de matrícula (modelo 0), programación general anual (PGA) y memoria 
 final de curso.
-De acuerdo a lo establecido en la Resolución de 20 de febrero de 2025, de la Dirección 
+De acuerdo a lo establecido en la [Resolución de 20 de febrero de 2025](../04_organizacion_escolar_y_funcionamiento/R19_3_2025_escolarizacion_servicios_complementarios_corrige_error_resolucion.md), de la Dirección 
 General de Administración de Centros, Escolarización y Servicios Complementarios, por 
 la que se establece el calendario escolar y se dictan instrucciones para la organización y 
 desarrollo de las actividades de comienzo y finalización del curso 2025-2026, para los 

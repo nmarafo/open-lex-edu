@@ -186,7 +186,7 @@ por [Decreto 84/2024](../01_marco_normativo_general_y_organico/D84_2024_aprueba_
 RESUELVO :
 Primero.- Aprobar nuevos criterios para la configuración de las plantillas orgánicas 
 correspondientes a la Especialidad Orientación Educativa en centros públicos no universitarios 
-(Anexo II de la Resolución de 27 de julio de 2022) en los siguientes términos:
+(Anexo II de la [Resolución de 27 de julio de 2022](./R27_7_2022_aprueban_nuevos_criterios_dotacion_profesorado_conformidad.md)) en los siguientes términos:
 Tipo de centro N.º Orientadores/as N.º Alumnos
 EOEP (CEIP, CEP, EEI) 1 Cada 250 alumnos/as
 IES
@@ -206,7 +206,7 @@ De 17 a 25 2
 Más de 25 3
 Segundo.- Aprobar nuevos criterios para la configuración de las plantillas orgánicas 
 correspondientes a la Especialidad Pedagogía Terapéutica y Audición y Lenguaje en centros 
-públicos no universitarios (Anexo III de la Resolución de 27 de julio de 2022) en los siguientes 
+públicos no universitarios (Anexo III de la [Resolución de 27 de julio de 2022](./R27_7_2022_aprueban_nuevos_criterios_dotacion_profesorado_conformidad.md)) en los siguientes 
 términos:
 
 Profesorado de Pedagogía Terapéutica.
@@ -263,7 +263,7 @@ los que estén escolarizados 1 o 2 alumnos/as con NEE y ACUS o alumnado con tras
 trastorno grave de la comunicación o del lenguaje.
 2 Para centros de 8 unidades o menos.
 Tercero.- Aprobar nuevas ratios en centros públicos no universitarios (Anexo IV de la 
-Resolución de 27 de julio de 2022) en los siguientes términos:
+[Resolución de 27 de julio de 2022](./R27_7_2022_aprueban_nuevos_criterios_dotacion_profesorado_conformidad.md)) en los siguientes términos:
 • Se establece el siguiente plan plurianual de reducción de ratio en Educación Infantil 
 y Primaria:
 N.º Grupos de Educación Infantil 
@@ -333,7 +333,7 @@ documento electrónico siguiente:
  RP001-0008Da9I/2B4wudlpd3IKnl3Q==
 El presente documento ha sido descargado el 30/04/2025 - 11:33:18
 Cuarto.- Aprobar criterios para la compensación de las desigualdades en centros 
-públicos no universitarios (Anexo VI de la Resolución de 27 de julio de 2022) en los 
+públicos no universitarios (Anexo VI de la [Resolución de 27 de julio de 2022](./R27_7_2022_aprueban_nuevos_criterios_dotacion_profesorado_conformidad.md)) en los 
 siguientes términos:
 “Atendiendo a los objetivos de la Consejería de Educación, Formación Profesional, 
 Actividad Física y Deportes de mejora de las competencias en comunicación lingüística y 
@@ -351,7 +351,7 @@ Contra la presente Resolución, que no agota la vía administrativa, cabe interp
 recurso de alzada ante el Consejero de Educación, Formación, Profesional, Actividad Física 
 y Deportes, en el plazo de un mes a partir de la notificación de la presente Resolución, y sin 
 perjuicio de cualquier otro recurso que pudiera interponerse, conforme a lo establecido en 
-los artículos 121 y 122 de la Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo 
+los artículos 121 y 122 de la [Ley 39/2015](../../../estatal/01_marco_normativo_general_y_organico/L39_2015_procedimiento_administrativo_comun_administraciones_publicas.md), de 1 de octubre, del Procedimiento Administrativo 
 Común de las Administraciones Públicas.
 Las Palmas de Gran Canaria, a 29 de abril de 2025.- El Viceconsejero de Educación, 
 José Manuel Cabrera Delgado.

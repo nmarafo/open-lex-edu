@@ -66,9 +66,9 @@ Disposiciones generales
 
 #### Artículo 1. Ámbito de aplicación.
 
-1. El presente Reglamento será de aplicación a los funcionarios de la Administración general del Estado y sus Organismos autónomos comprendidos en el ámbito de aplicación de la Ley 30/1984, de 2 de agosto, de Medidas para la Reforma de la Función Pública.
+1. El presente Reglamento será de aplicación a los funcionarios de la Administración general del Estado y sus Organismos autónomos comprendidos en el ámbito de aplicación de la [Ley 30/1984](./L30_1984_medidas_reforma_funcion_publica.md), de 2 de agosto, de Medidas para la Reforma de la Función Pública.
 
-2. No obstante lo dispuesto en el apartado anterior, no serán de aplicación a los funcionarios de los Cuerpos o Escalas en que se ordena la función pública docente las disposiciones del presente Reglamento relativas a las situaciones aludidas en el apartado 1, párrafo segundo de la disposición adicional decimoquinta de la Ley 30/1984, de 2 de agosto, de Medidas para la Reforma de la Función Pública, adicionado por la Ley 22/1993, de 29 de diciembre, de Medidas Fiscales, de Reforma del Régimen Jurídico de la Función Pública y de la Protección por desempleo.
+2. No obstante lo dispuesto en el apartado anterior, no serán de aplicación a los funcionarios de los Cuerpos o Escalas en que se ordena la función pública docente las disposiciones del presente Reglamento relativas a las situaciones aludidas en el apartado 1, párrafo segundo de la disposición adicional decimoquinta de la [Ley 30/1984](./L30_1984_medidas_reforma_funcion_publica.md), de 2 de agosto, de Medidas para la Reforma de la Función Pública, adicionado por la Ley 22/1993, de 29 de diciembre, de Medidas Fiscales, de Reforma del Régimen Jurídico de la Función Pública y de la Protección por desempleo.
 
 #### Artículo 2. Situaciones administrativas.
 
@@ -104,21 +104,21 @@ Servicio activo
 
 Los funcionarios se hallan en situación de servicio activo:
 
-a) Cuando desempeñen un puesto que, conforme a la correspondiente relación de puestos de trabajo, esté adscrito a los funcionarios comprendidos en el ámbito de aplicación de la Ley 30/1984, de 2 de agosto, de Medidas para la Reforma de la Función Pública.
+a) Cuando desempeñen un puesto que, conforme a la correspondiente relación de puestos de trabajo, esté adscrito a los funcionarios comprendidos en el ámbito de aplicación de la [Ley 30/1984](./L30_1984_medidas_reforma_funcion_publica.md), de 2 de agosto, de Medidas para la Reforma de la Función Pública.
 
-b) Cuando desempeñen puestos en las Corporaciones Locales o las Universidades públicas que puedan ser ocupados por los funcionarios comprendidos en el ámbito de aplicación de la Ley 30/1984, de 2 de agosto, de Medidas para la Reforma de la Función Pública.
+b) Cuando desempeñen puestos en las Corporaciones Locales o las Universidades públicas que puedan ser ocupados por los funcionarios comprendidos en el ámbito de aplicación de la [Ley 30/1984](./L30_1984_medidas_reforma_funcion_publica.md), de 2 de agosto, de Medidas para la Reforma de la Función Pública.
 
 c) Cuando se encuentren en comisión de servicios.
 
-d) Cuando presten servicios en puestos de trabajo de niveles incluidos en el intervalo correspondiente a su Cuerpo o Escala en los Gabinetes de la Presidencia del Gobierno, de los Ministros o de los Secretarios de Estado, y opten por permanecer en esta situación, conforme al artículo 29.2.i) de la Ley 30/1984, de 2 de agosto, de Medidas para la Reforma de la Función Pública. Asimismo, cuando presten servicios en puestos de niveles comprendidos en el intervalo correspondiente al Grupo en el que figure clasificado su Cuerpo o Escala en Gabinetes de Delegados del Gobierno o Gobernadores Civiles.
+d) Cuando presten servicios en puestos de trabajo de niveles incluidos en el intervalo correspondiente a su Cuerpo o Escala en los Gabinetes de la Presidencia del Gobierno, de los Ministros o de los Secretarios de Estado, y opten por permanecer en esta situación, conforme al artículo 29.2.i) de la [Ley 30/1984](./L30_1984_medidas_reforma_funcion_publica.md), de 2 de agosto, de Medidas para la Reforma de la Función Pública. Asimismo, cuando presten servicios en puestos de niveles comprendidos en el intervalo correspondiente al Grupo en el que figure clasificado su Cuerpo o Escala en Gabinetes de Delegados del Gobierno o Gobernadores Civiles.
 
 e) Cuando presten servicios en las Cortes Generales, de conformidad con lo dispuesto en el Estatuto del Personal de las mismas o en el Tribunal de Cuentas, y no les corresponda quedar en otra situación.
 
-f) Cuando accedan a la condición de miembros de las Asambleas Legislativas de las Comunidades Autónomas y, no percibiendo retribuciones periódicas por el desempeño de la función, opten por permanecer en esta situación, conforme al artículo 29.2.g) de la Ley 30/1984, de 2 de agosto.
+f) Cuando accedan a la condición de miembros de las Asambleas Legislativas de las Comunidades Autónomas y, no percibiendo retribuciones periódicas por el desempeño de la función, opten por permanecer en esta situación, conforme al artículo 29.2.g) de la [Ley 30/1984](./L30_1984_medidas_reforma_funcion_publica.md), de 2 de agosto.
 
 g) Cuando accedan a la condición de miembros de las Corporaciones Locales, conforme al régimen previsto por el artículo 74 de la [Ley 7/1985](../02_gestion_y_administracion_centros/L7_1985_reguladora_bases_regimen_local.md), de 2 de abril, reguladora de las Bases de Régimen Local, salvo que desempeñen cargo retribuido y de dedicación exclusiva en las mismas.
 
-h) Cuando queden a disposición del Subsecretario, Director del Organismo autónomo, Delegado del Gobierno o Gobernador Civil, de acuerdo con lo dispuesto en el artículo 21.2.b) de la Ley 30/1984, de 2 de agosto, de Medidas para la Reforma de la Función Pública.
+h) Cuando queden a disposición del Subsecretario, Director del Organismo autónomo, Delegado del Gobierno o Gobernador Civil, de acuerdo con lo dispuesto en el artículo 21.2.b) de la [Ley 30/1984](./L30_1984_medidas_reforma_funcion_publica.md), de 2 de agosto, de Medidas para la Reforma de la Función Pública.
 
 i) Cuando cesen en un puesto de trabajo por haber obtenido otro mediante procedimientos de provisión de puestos de trabajo, durante el plazo posesorio.
 
@@ -154,7 +154,7 @@ Cuando no perciban dichas retribuciones podrán optar entre permanecer en la sit
 
 h) Cuando desempeñen cargos electivos retribuidos y de dedicación exclusiva en las Corporaciones Locales.
 
-i) Cuando presten servicios en puestos de trabajo de niveles incluidos en el intervalo correspondiente a su Cuerpo y Escala, en los Gabinetes de la Presidencia del Gobierno, de los Ministros o de los Secretarios de Estado, y opten por pasar a esta situación, conforme al artículo 29.2.i) de la Ley 30/1984, de 2 de agosto. Asimismo, cuando presten servicios en puestos de niveles no incluidos en el intervalo correspondiente al Grupo en el que figure clasificado su Cuerpo o Escala en los Gabinetes de la Presidencia del Gobierno, de los Ministros, Secretarios de Estado, Delegados del Gobierno y Gobernadores Civiles.
+i) Cuando presten servicios en puestos de trabajo de niveles incluidos en el intervalo correspondiente a su Cuerpo y Escala, en los Gabinetes de la Presidencia del Gobierno, de los Ministros o de los Secretarios de Estado, y opten por pasar a esta situación, conforme al artículo 29.2.i) de la [Ley 30/1984](./L30_1984_medidas_reforma_funcion_publica.md), de 2 de agosto. Asimismo, cuando presten servicios en puestos de niveles no incluidos en el intervalo correspondiente al Grupo en el que figure clasificado su Cuerpo o Escala en los Gabinetes de la Presidencia del Gobierno, de los Ministros, Secretarios de Estado, Delegados del Gobierno y Gobernadores Civiles.
 
 j) Cuando sean nombrados para cualquier cargo de carácter político del que se derive incompatibilidad para ejercer la función pública.
 
@@ -168,7 +168,7 @@ n) Cuando así se determine en una norma con rango de Ley.
 
 #### Artículo 5. Cargo de carácter político.
 
-Para declarar el pase a la situación de servicios especiales en el supuesto del apartado j) del artículo 29.2 de la Ley 30/1984 será necesario haber sido nombrado para el desempeño en el sector público de un cargo de carácter político, entendiendo por tal el cargo de confianza que no implique una relación profesional de carácter permanente, del que se derive incompatibilidad para ejercer la función pública y que, conforme a los criterios que establezca el Ministerio para las Administraciones Públicas, conlleve responsabilidades directivas o asesoramiento a nivel político.
+Para declarar el pase a la situación de servicios especiales en el supuesto del apartado j) del artículo 29.2 de la [Ley 30/1984](./L30_1984_medidas_reforma_funcion_publica.md) será necesario haber sido nombrado para el desempeño en el sector público de un cargo de carácter político, entendiendo por tal el cargo de confianza que no implique una relación profesional de carácter permanente, del que se derive incompatibilidad para ejercer la función pública y que, conforme a los criterios que establezca el Ministerio para las Administraciones Públicas, conlleve responsabilidades directivas o asesoramiento a nivel político.
 
 #### Artículo 6. Declaración de la situación de servicios especiales.
 
@@ -224,7 +224,7 @@ Expectativa de destino
 
 #### Artículo 12. Expectativa de destino
 
-1. Los funcionarios afectados por un procedimiento de reasignación de efectivos, que no hayan obtenido puesto en las dos primeras fases previstas en el apartado g) del artículo 20.1 de la Ley 30/1984, de 2 de agosto, de Medidas para la Reforma de la Función Pública, pasarán a la situación de expectativa de destino. Los funcionarios en expectativa de destino se adscribirán al Ministerio para las Administraciones Públicas, a través de relaciones específicas de puestos en reasignación, pudiendo ser reasignados por éste en los términos establecidos en el mencionado artículo.
+1. Los funcionarios afectados por un procedimiento de reasignación de efectivos, que no hayan obtenido puesto en las dos primeras fases previstas en el apartado g) del artículo 20.1 de la [Ley 30/1984](./L30_1984_medidas_reforma_funcion_publica.md), de 2 de agosto, de Medidas para la Reforma de la Función Pública, pasarán a la situación de expectativa de destino. Los funcionarios en expectativa de destino se adscribirán al Ministerio para las Administraciones Públicas, a través de relaciones específicas de puestos en reasignación, pudiendo ser reasignados por éste en los términos establecidos en el mencionado artículo.
 
 2. Los funcionarios permanecerán en esta situación un período máximo de un año, transcurrido el cual pasarán a la situación de excedencia forzosa.
 
@@ -248,7 +248,7 @@ Excedencia forzosa
 
 1. La excedencia forzosa se produce por las siguientes causas:
 
-a) Para los funcionarios en situación de expectativa de destino, por el transcurso del período máximo establecido para la misma, o por el incumplimiento de las obligaciones determinadas en el párrafo segundo del apartado 5 del artículo 29 de la Ley 30/1984, de 2 de agosto, de Medidas para la Reforma de la Función Pública.
+a) Para los funcionarios en situación de expectativa de destino, por el transcurso del período máximo establecido para la misma, o por el incumplimiento de las obligaciones determinadas en el párrafo segundo del apartado 5 del artículo 29 de la [Ley 30/1984](./L30_1984_medidas_reforma_funcion_publica.md), de 2 de agosto, de Medidas para la Reforma de la Función Pública.
 
 b) Cuando el funcionario declarado en la situación de suspensión firme, que no tenga reservado puesto de trabajo, solicite el reingreso y no se le conceda en el plazo de seis meses contados a partir de la extinción de la responsabilidad penal o disciplinaria, en los términos establecidos en el artículo 22 de este Reglamento.
 
@@ -258,11 +258,11 @@ b) Cuando el funcionario declarado en la situación de suspensión firme, que no
 
 4. El incumplimiento de las obligaciones recogidas en este artículo determinará el pase a la situación de excedencia voluntaria por interés particular.
 
-5. Los excedentes forzosos no podrán desempeñar puestos de trabajo en el sector público bajo ningún tipo de relación funcionarial o contractual, sea ésta de naturaleza laboral o administrativa. Si obtienen puesto de trabajo en dicho sector pasarán a la situación de excedencia voluntaria regulada en el apartado 3.a) del artículo 29 de la Ley 30/1984, de 2 de agosto, de Medidas para la Reforma de la Función Pública.
+5. Los excedentes forzosos no podrán desempeñar puestos de trabajo en el sector público bajo ningún tipo de relación funcionarial o contractual, sea ésta de naturaleza laboral o administrativa. Si obtienen puesto de trabajo en dicho sector pasarán a la situación de excedencia voluntaria regulada en el apartado 3.a) del artículo 29 de la [Ley 30/1984](./L30_1984_medidas_reforma_funcion_publica.md), de 2 de agosto, de Medidas para la Reforma de la Función Pública.
 
 6. Los funcionarios en esta situación tendrán derecho a percibir las retribuciones básicas y, en su caso, las prestaciones familiares por hijo a cargo, así como al cómputo del tiempo en dicha situación a efectos de derechos pasivos y de trienios.
 
-7. Corresponde a la Secretaría de Estado para la Administración Pública acordar la declaración de la excedencia forzosa prevista en el párrafo a) del apartado 1 de este artículo, y, en su caso, el pase a la excedencia voluntaria por interés particular y la excedencia voluntaria regulada en el apartado 3.a) del artículo 29 de la Ley 30/1984 de estos excedentes forzosos, así como la gestión del personal afectado.
+7. Corresponde a la Secretaría de Estado para la Administración Pública acordar la declaración de la excedencia forzosa prevista en el párrafo a) del apartado 1 de este artículo, y, en su caso, el pase a la excedencia voluntaria por interés particular y la excedencia voluntaria regulada en el apartado 3.a) del artículo 29 de la [Ley 30/1984](./L30_1984_medidas_reforma_funcion_publica.md) de estos excedentes forzosos, así como la gestión del personal afectado.
 
 La declaración de excedencia forzosa prevista en el párrafo b) del apartado 1 y, en su caso, la de excedencia voluntaria por interés particular o por prestación de otros servicios en el sector público de estos excedentes forzosos, corresponderá a los Departamentos ministeriales en relación con los funcionarios de los Cuerpos o Escalas adscritos a los mismos, y a la Dirección General de la Función Pública en relación con los funcionarios de los Cuerpos y Escalas adscritos al Ministerio para las Administraciones Públicas y dependientes de la Secretaría de Estado para la Administración Pública.
 
@@ -322,7 +322,7 @@ Cuando el funcionario pertenezca a un Cuerpo o Escala que tenga reservados puest
 
 #### Artículo 18. Excedencia voluntaria incentivada.
 
-1. Los funcionarios afectados por un proceso de reasignación de efectivos que se encuentren en alguna de las dos primeras fases a que hace referencia el artículo 20.1.g) de la Ley 30/1984, de 2 de agosto, podrán ser declarados, a su solicitud, en situación de excedencia voluntaria incentivada.
+1. Los funcionarios afectados por un proceso de reasignación de efectivos que se encuentren en alguna de las dos primeras fases a que hace referencia el artículo 20.1.g) de la [Ley 30/1984](./L30_1984_medidas_reforma_funcion_publica.md), de 2 de agosto, podrán ser declarados, a su solicitud, en situación de excedencia voluntaria incentivada.
 
 2. Asimismo, quienes se encuentren en las situaciones de expectativa de destino o de excedencia forzosa como consecuencia de la aplicación de un Plan de Empleo tendrán derecho a pasar, a su solicitud, a dicha situación.
 
@@ -384,7 +384,7 @@ Los funcionarios públicos de las Comunidades Autónomas y de las Corporaciones 
 
 #### Disposición adicional segunda. Funcionarios de la Administración General del Estado destinados en Corporaciones Locales.
 
-Los funcionarios de la Administración General del Estado que pasen a ocupar puestos de trabajo en las Corporaciones Locales quedarán sometidos a lo dispuesto en el artículo 92.1 de la Ley 7/1985, de 2 de abril, y a la legislación sobre función pública aplicable en la Administración Local en todo lo referente a su relación de servicios con la respectiva Entidad o Corporación, sin perjuicio de la sanción de separación del servicio, que será acordada por el Ministro del Departamento a que esté adscrito en cada caso el Cuerpo o Escala del funcionario, previa incoación de expediente disciplinario por la Corporación Local.
+Los funcionarios de la Administración General del Estado que pasen a ocupar puestos de trabajo en las Corporaciones Locales quedarán sometidos a lo dispuesto en el artículo 92.1 de la [Ley 7/1985](../02_gestion_y_administracion_centros/L7_1985_reguladora_bases_regimen_local.md), de 2 de abril, y a la legislación sobre función pública aplicable en la Administración Local en todo lo referente a su relación de servicios con la respectiva Entidad o Corporación, sin perjuicio de la sanción de separación del servicio, que será acordada por el Ministro del Departamento a que esté adscrito en cada caso el Cuerpo o Escala del funcionario, previa incoación de expediente disciplinario por la Corporación Local.
 
 #### Disposición adicional tercera. Personal destinado en Organos Constitucionales.
 
@@ -398,7 +398,7 @@ De acuerdo con lo previsto en los artículos 44.2 y 49.4 de la Ley Orgánica 11/
 
 #### Disposición adicional quinta. Cesación progresiva de actividades.
 
-1. Corresponde a los Subsecretarios de los Ministerios, respecto a los funcionarios destinados en los Servicios Centrales, Organismos autónomos y demás Entidades dependientes de los mismos y a los Delegados del Gobierno y Gobernadores Civiles, en relación con los funcionarios destinados en servicios periféricos de ámbito regional y provincial, respectivamente, la concesión, a solicitud del funcionario, de reducción de su jornada de trabajo, en las circunstancias señaladas en el artículo 30.4 de la Ley 30/1984, de 2 de agosto. En el ámbito del Ministerio de Defensa esta competencia debe entenderse referida al Secretario de Estado de Administración Militar.
+1. Corresponde a los Subsecretarios de los Ministerios, respecto a los funcionarios destinados en los Servicios Centrales, Organismos autónomos y demás Entidades dependientes de los mismos y a los Delegados del Gobierno y Gobernadores Civiles, en relación con los funcionarios destinados en servicios periféricos de ámbito regional y provincial, respectivamente, la concesión, a solicitud del funcionario, de reducción de su jornada de trabajo, en las circunstancias señaladas en el artículo 30.4 de la [Ley 30/1984](./L30_1984_medidas_reforma_funcion_publica.md), de 2 de agosto. En el ámbito del Ministerio de Defensa esta competencia debe entenderse referida al Secretario de Estado de Administración Militar.
 
 2. La concesión de jornada reducida estará condicionada a las necesidades del servicio y será efectiva por un período de seis meses a partir del primer día del mes siguiente a la fecha en que se conceda, renovándose automáticamente por períodos semestrales hasta la jubilación del funcionario, salvo que éste solicite volver al régimen de jornada anterior, con aviso previo de un mes a la finalización de su régimen de jornada reducida. Los períodos y plazos de tiempo anteriores no serán exigibles en el caso de reducción de jornada solicitada y obtenida, de manera temporal, por aquellos funcionarios que la precisen en procesos de recuperación, por razón de enfermedad.
 
@@ -412,14 +412,14 @@ De acuerdo con lo previsto en los artículos 44.2 y 49.4 de la Ley Orgánica 11/
 
 En materia de actos presuntos y de plazos para la resolución de los procedimientos administrativos de gestión de personal serán de aplicación las disposiciones contenidas en el Real Decreto 1777/1994, de 5 de agosto, de adecuación de las normas reguladoras de los procedimientos de gestión de personal a la Ley 30/1992, de 26 de noviembre, de Régimen Jurídico de las Administraciones Públicas y del Procedimiento Administrativo Común.
 
-#### Disposición transitoria primera. Excedencia voluntaria de la disposición transitoria octava de la Ley 30/1984.
+#### Disposición transitoria primera. Excedencia voluntaria de la disposición transitoria octava de la [Ley 30/1984](./L30_1984_medidas_reforma_funcion_publica.md).
 
-Los funcionarios en situación de excedencia voluntaria concedida al amparo de lo previsto en el apartado 6 de la disposición transitoria octava de la Ley 30/1984, de 2 de agosto, gozarán de preferencia para el reingreso, una vez transcurrido el plazo mínimo de cinco años, respecto de los que se encuentren en las demás modalidades de dicha situación. Gozarán, asimismo, y por una sola vez, de preferencia para obtener un puesto en el Ministerio y municipio de procedencia.
+Los funcionarios en situación de excedencia voluntaria concedida al amparo de lo previsto en el apartado 6 de la disposición transitoria octava de la [Ley 30/1984](./L30_1984_medidas_reforma_funcion_publica.md), de 2 de agosto, gozarán de preferencia para el reingreso, una vez transcurrido el plazo mínimo de cinco años, respecto de los que se encuentren en las demás modalidades de dicha situación. Gozarán, asimismo, y por una sola vez, de preferencia para obtener un puesto en el Ministerio y municipio de procedencia.
 
 #### Disposición transitoria segunda. Cómputo de plazos de la excedencia voluntaria por interés particular.
 
 Los funcionarios que el 1 de enero de 1994 se encontraran en la situación de excedencia voluntaria por interés particular podrán permanecer en ella hasta que transcurran, como máximo, quince años contados del siguiente modo:
 
-a) A partir del 23 de agosto de 1984, si la excedencia les fue concedida con anterioridad a la entrada en vigor de la Ley 30/1984, de 2 de agosto.
+a) A partir del 23 de agosto de 1984, si la excedencia les fue concedida con anterioridad a la entrada en vigor de la [Ley 30/1984](./L30_1984_medidas_reforma_funcion_publica.md), de 2 de agosto.
 
 b) Desde la fecha del pase a dicha situación, si la excedencia les fue concedida con posterioridad a la entrada en vigor de la Ley expresada.

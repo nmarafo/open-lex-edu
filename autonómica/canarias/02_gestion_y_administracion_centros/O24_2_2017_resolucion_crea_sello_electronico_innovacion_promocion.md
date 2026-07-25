@@ -153,7 +153,7 @@ Quinto.- Actuaciones administrativas automatizadas.
 El sello electrónico podrá ser utilizado para las siguientes actuaciones automatizadas:
 1. La obtención de imágenes electrónicas de documentos en papel, con su misma validez 
 y eficacia, a través de procesos de digitalización, de acuerdo con lo previsto en el artículo 
-27 de la Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común de las 
+27 de la [Ley 39/2015](../../../estatal/01_marco_normativo_general_y_organico/L39_2015_procedimiento_administrativo_comun_administraciones_publicas.md), de 1 de octubre, del Procedimiento Administrativo Común de las 
 Administraciones Públicas, y en el apartado 5 del artículo 41 del Decreto 19/2011, de 10 de 
 febrero, por el que se regula la utilización de los medios electrónicos en la Administración 
 Pública de la Comunidad Autónoma de Canarias.
@@ -174,7 +174,7 @@ y Universidades y, para general conocimiento, en el Boletín Oficial de Canarias
 Contra la presente Resolución se podrá interponer recurso de alzada ante la Presidencia 
 de la Agencia Canaria de Calidad Universitaria y Evaluación Educativa (ACCUEE), en 
 el plazo de un mes a partir del día siguiente al de su publicación en el Boletín Oficial de 
-Canarias, de conformidad con lo dispuesto en los artículos 121 y 122 de la Ley 39/2015, de 
+Canarias, de conformidad con lo dispuesto en los artículos 121 y 122 de la [Ley 39/2015](../../../estatal/01_marco_normativo_general_y_organico/L39_2015_procedimiento_administrativo_comun_administraciones_publicas.md), de 
 1 de octubre, del Procedimiento Administrativo Común de las Administraciones Públicas.
 Santa Cruz de Tenerife, a 23 de marzo de 2017.- La Directora, María Teresa Acosta 
 Tejera. 

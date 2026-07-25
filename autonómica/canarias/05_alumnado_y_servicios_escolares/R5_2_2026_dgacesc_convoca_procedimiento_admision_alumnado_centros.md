@@ -96,7 +96,7 @@ siempre que no sean contradictorias con lo dispuesto en la
 LEA.
 
 Tercero.- La disposición final segunda de la LEA suprime el apartado 5 del artículo 69 
-de la Ley Orgánica 2/2006, de 3 de mayo, de Educación, que indicaba lo siguiente: “Los 
+de la [Ley Orgánica 2/2006](../../../estatal/01_marco_normativo_general_y_organico/LO2_2006_educacion_texto_consolidado_modificaciones_lomloe.md), de 3 de mayo, de Educación, que indicaba lo siguiente: “Los 
 mayores de dieciocho años de edad podrán acceder directamente a las enseñanzas artísticas 
 superiores mediante la superación de una prueba específica, regulada y organizada por 
 las Administraciones educativas, que acredite que el aspirante posee los conocimientos, 
@@ -117,7 +117,7 @@ o contemplados en aquella.
 Quinto.- En su desarrollo reglamentario, los Reales Decretos 630/2010, 631/2010 y 
 633/2010, de 14 de mayo, por los que se regula el contenido básico de las enseñanzas 
 artísticas superiores de Arte Dramático, Música y Diseño, respectivamente, establecidas 
-en la Ley Orgánica 2/2006, de 3 de mayo, de Educación, determinan los requisitos y 
+en la [Ley Orgánica 2/2006](../../../estatal/01_marco_normativo_general_y_organico/LO2_2006_educacion_texto_consolidado_modificaciones_lomloe.md), de 3 de mayo, de Educación, determinan los requisitos y 
 condiciones para el acceso a las enseñanzas artísticas superiores mencionadas, en lo que 
 sea de aplicación.
 Sexto.- El Decreto 44/2018, de 6 de abril, por el que se establecen y regulan los planes 
@@ -176,7 +176,7 @@ aptitudes necesarias para cursar con aprovechamiento las enseñanzas.
 realizar la prueba específica de acceso, quienes estén en posesión del título de Técnico 
 Superior de Artes Plásticas y Diseño, de conformidad con lo dispuesto en el artículo 5.7 
 del Real Decreto 633/2010, de 14 de mayo, por el que se regula el contenido básico de las 
-enseñanzas artísticas superiores de Grado de Diseño establecidas en la Ley Orgánica 2/2006, 
+enseñanzas artísticas superiores de Grado de Diseño establecidas en la [Ley Orgánica 2/2006](../../../estatal/01_marco_normativo_general_y_organico/LO2_2006_educacion_texto_consolidado_modificaciones_lomloe.md), 
 de 3 de mayo, de Educación.
 
 3. Podrán también acceder a las enseñanzas artísticas superiores de Música las personas 
@@ -391,7 +391,7 @@ solicitarán a la Dirección General de Formación Profesional y Enseñanzas de 
 Especial, una convocatoria extraordinaria de prueba específica de acceso.
 6. Certificación de los resultados de la prueba.
 De conformidad con lo establecido en el Anexo I, instrucción vigésima cuarta de 
-la Resolución de 25 de mayo de 2011, a las personas aspirantes que superen la prueba 
+la [Resolución de 25 de mayo de 2011](../03_ordenacion_curricular_y_ensenanzas/R25_5_2011_dictan_instrucciones_organizacion_desarrollo_pruebas_acceso.md), a las personas aspirantes que superen la prueba 
 específica de acceso a las enseñanzas artísticas superiores se les expedirá la correspondiente 
 certificación, según el modelo recogido en el Anexo XIII de la presente Resolución.
 7. Validez de las pruebas específicas de acceso.
@@ -470,7 +470,7 @@ General.
 3.1. Esta prueba se dirige a las personas aspirantes de dieciséis y de diecisiete años 
 de edad que quieran acceder a las enseñanzas artísticas superiores de Música y que no se 
 encuentren en posesión de ninguna de las titulaciones recogidas en el artículo 7.1, apartado a), 
-de la Ley 1/2024, de 7 de junio (título de Bachiller o haber superado la prueba de acceso 
+de la [Ley 1/2024](../../../estatal/03_ordenacion_curricular_y_ensenanzas/L1_2024_regulan_ensenanzas_artisticas_superiores_establece_organizacion.md), de 7 de junio (título de Bachiller o haber superado la prueba de acceso 
 a la universidad para mayores de 25 años, o estar en posesión de un título de enseñanzas 
 artísticas superiores, título universitario o título de Técnico Superior).
 3.2. La superación de esta prueba acreditará que el aspirante posee los conocimientos, 
@@ -488,7 +488,7 @@ Canaria.
 - Tenerife: calle Pedro Suárez Hernández, 2, código postal 38009-Santa Cruz de 
 Tenerife.
 5. Estructura, contenido y calificación de la prueba.
-5.1. Según lo establecido en el Anexo I de la Resolución de 25 de mayo de 2011, por 
+5.1. Según lo establecido en el Anexo I de la [Resolución de 25 de mayo de 2011](../03_ordenacion_curricular_y_ensenanzas/R25_5_2011_dictan_instrucciones_organizacion_desarrollo_pruebas_acceso.md), por 
 la que se dictan instrucciones sobre organización y desarrollo de las pruebas de acceso a 
 
 las enseñanzas artísticas superiores de Grado en Música, Arte Dramático y Diseño en la 
@@ -578,14 +578,14 @@ Educación, se guardará, en su totalidad, la documentación generada para el ca
 resuelva en firme la reclamación o se hayan agotado las vías establecidas normativamente.
 9. Solicitud de certificación de los resultados de la prueba.
 De conformidad con lo establecido en el Anexo I, instrucción decimoséptima de 
-la Resolución de 25 de mayo de 2011, a las personas que lo soliciten se les expedirá la 
+la [Resolución de 25 de mayo de 2011](../03_ordenacion_curricular_y_ensenanzas/R25_5_2011_dictan_instrucciones_organizacion_desarrollo_pruebas_acceso.md), a las personas que lo soliciten se les expedirá la 
 correspondiente certificación de los resultados obtenidos en la prueba de acceso, según el 
 modelo recogido en el Anexo XII de la presente Resolución.
 Sexto.- Admisión del alumnado y reserva de plazas.
 1. Una vez finalizado el procedimiento de convocatoria de pruebas de acceso a 
 las enseñanzas artísticas superiores, y en relación a la admisión y reserva de plazas en 
 las citadas enseñanzas, se estará a lo dispuesto en la instrucción vigésima sexta de la 
-Resolución de 25 de mayo de 2011, por la que se dictan instrucciones sobre organización 
+[Resolución de 25 de mayo de 2011](../03_ordenacion_curricular_y_ensenanzas/R25_5_2011_dictan_instrucciones_organizacion_desarrollo_pruebas_acceso.md), por la que se dictan instrucciones sobre organización 
 y desarrollo de las pruebas de acceso a las enseñanzas artísticas superiores de Grado en 
 Música, Arte Dramático y Diseño en la Comunidad Autónoma de Canarias, y se convocan 
 las correspondientes al curso académico 2011-2012.
@@ -611,7 +611,7 @@ del centro en el que hubiera efectuado la inscripción para la realización de l
 los términos establecidos en la legislación sobre protección de datos.
 2. Los datos personales recogidos serán tratados exclusivamente a efectos de gestión 
 educativa, con las garantías previstas en la disposición adicional vigésima tercera, de 
-la Ley Orgánica 2/2006, de 3 de mayo, de Educación, en los ficheros de admisión del 
+la [Ley Orgánica 2/2006](../../../estatal/01_marco_normativo_general_y_organico/LO2_2006_educacion_texto_consolidado_modificaciones_lomloe.md), de 3 de mayo, de Educación, en los ficheros de admisión del 
 
 alumnado y gestión de centros escolares públicos. El órgano responsable de los ficheros 
 es la Consejería de Educación, Formación Profesional, Actividad Física y Deportes. Los 
@@ -807,7 +807,7 @@ Tratamiento de datos de carácter personal. Responsable del tratamiento: Conseje
 Actividad Física y Deportes del Gobierno de Canarias. Finalidad del tratamiento: Gestionar la escolarización del alumnado  
 que accede por primera vez a un centro público o privado concertado de enseñanzas no universitarias o que accede a  
 enseñanzas postobligatorias. Legitimación:- Artículo 6.1.c) del Reglamento UE 2016/679 General de Protección de Datos.  
--Ley Orgánica 2/2006, de 3 de mayo, de Educación. [Ley 6/2014](../01_marco_normativo_general_y_organico/L6_2014_canaria_educacion_no_universitaria.md), de 25 de julio, Canaria de Educación no Universitaria.  
+-[Ley Orgánica 2/2006](../../../estatal/01_marco_normativo_general_y_organico/LO2_2006_educacion_texto_consolidado_modificaciones_lomloe.md), de 3 de mayo, de Educación. [Ley 6/2014](../01_marco_normativo_general_y_organico/L6_2014_canaria_educacion_no_universitaria.md), de 25 de julio, Canaria de Educación no Universitaria.  
 Destinatarios de cesiones o transferencias: No hay cesiones. No hay transferencias internacionales previstas. Derechos de  
 las personas interesadas: De acuerdo con el Reglamento General de Protección de Datos, podrá ejercer los derechos de  
 acceso,  rectificación,  supresión,  limitación  del  tratamiento,  oposición  y  a  no  ser  objeto  de  decisiones  individualizadas 
@@ -844,7 +844,7 @@ Tratamiento de datos de carácter personal. Responsable del tratamiento: Conseje
 Actividad Física y Deportes del Gobierno de Canarias. Finalidad del tratamiento: Gestionar la escolarización del alumnado  
 que accede por primera vez a un centro público o privado concertado de enseñanzas no universitarias o que accede a  
 enseñanzas postobligatorias. Legitimación:- Artículo 6.1.c) del Reglamento UE 2016/679 General de Protección de Datos.  
--Ley Orgánica 2/2006, de 3 de mayo, de Educación. Ley 6/2014, de 25 de julio, Canaria de Educación no Universitaria.  
+-[Ley Orgánica 2/2006](../../../estatal/01_marco_normativo_general_y_organico/LO2_2006_educacion_texto_consolidado_modificaciones_lomloe.md), de 3 de mayo, de Educación. [Ley 6/2014](../01_marco_normativo_general_y_organico/L6_2014_canaria_educacion_no_universitaria.md), de 25 de julio, Canaria de Educación no Universitaria.  
 Destinatarios de cesiones o transferencias: No hay cesiones. No hay transferencias internacionales previstas. 
 Derechos de las personas interesadas: De acuerdo con el Reglamento General de Protección de Datos, podrá ejercer los  
 derechos  de  acceso,  rectificación,  supresión,  limitación  del  tratamiento,  oposición  y  a  no  ser  objeto  de  decisiones  

@@ -70,15 +70,15 @@ El objeto de este Real Decreto-ley es adoptar medidas urgentes para la racionali
 
 #### Artículo 2. Ratios de alumnos por aula.
 
-Cuando, por razones de limitación del gasto público, la Ley de Presupuestos Generales del Estado no autorice la incorporación de personal de nuevo ingreso mediante Oferta de Empleo Público o establezca, con carácter básico, una tasa de reposición de efectivos inferior al 50 por 100, las Administraciones educativas podrán ampliar hasta un 20 por 100 el número máximo de alumnos establecido en el artículo 157.1.a) de la Ley Orgánica 2/2006, de 3 de mayo, de Educación, para la educación primaria y secundaria obligatoria.
+Cuando, por razones de limitación del gasto público, la Ley de Presupuestos Generales del Estado no autorice la incorporación de personal de nuevo ingreso mediante Oferta de Empleo Público o establezca, con carácter básico, una tasa de reposición de efectivos inferior al 50 por 100, las Administraciones educativas podrán ampliar hasta un 20 por 100 el número máximo de alumnos establecido en el artículo 157.1.a) de la [Ley Orgánica 2/2006](../01_marco_normativo_general_y_organico/LO2_2006_educacion_texto_consolidado_modificaciones_lomloe.md), de 3 de mayo, de Educación, para la educación primaria y secundaria obligatoria.
 
-Este porcentaje de ampliación resultará asimismo aplicable a los límites máximos de número de alumnos fijados mediante norma reglamentaria para las restantes enseñanzas reguladas por la Ley Orgánica 2/2006, de 3 de mayo, de Educación.
+Este porcentaje de ampliación resultará asimismo aplicable a los límites máximos de número de alumnos fijados mediante norma reglamentaria para las restantes enseñanzas reguladas por la [Ley Orgánica 2/2006](../01_marco_normativo_general_y_organico/LO2_2006_educacion_texto_consolidado_modificaciones_lomloe.md), de 3 de mayo, de Educación.
 
 Lo dispuesto en este artículo resulta de aplicación tanto a los centros docentes públicos como a los privados sostenidos con fondos públicos.
 
 #### Artículo 3. Jornada lectiva.
 
-1. La parte lectiva de la jornada semanal del personal docente que imparte las enseñanzas reguladas en la Ley Orgánica 2/2006, de 3 de mayo, de Educación, en centros públicos y privados sostenidos con fondos públicos será, como mínimo, de 25 horas en educación infantil y primaria y de 20 horas en las restantes enseñanzas, sin perjuicio de las situaciones de reducción de jornada contempladas en la normativa vigente.
+1. La parte lectiva de la jornada semanal del personal docente que imparte las enseñanzas reguladas en la [Ley Orgánica 2/2006](../01_marco_normativo_general_y_organico/LO2_2006_educacion_texto_consolidado_modificaciones_lomloe.md), de 3 de mayo, de Educación, en centros públicos y privados sostenidos con fondos públicos será, como mínimo, de 25 horas en educación infantil y primaria y de 20 horas en las restantes enseñanzas, sin perjuicio de las situaciones de reducción de jornada contempladas en la normativa vigente.
 
 2. El régimen de compensación con horas complementarias será como máximo de una hora complementaria por cada período lectivo, y únicamente podrá computarse a partir de los mínimos a los que se refiere el apartado anterior.
 

@@ -108,7 +108,7 @@ comunidad escolar en los Consejos de los CER se desarrollarán conforme al calen
 figura en el Anexo I de esta Resolución.
 Tercero.- Representantes a renovar.
 1. El número de representantes que deberán ser renovados se determinará según lo 
-dispuesto en el artículo 22 de citado Decreto 109/1999, de 25 de mayo.
+dispuesto en el artículo 22 de citado [Decreto 109/1999](./D109_1999_regula_regimen_creacion_funcionamiento_colectivos_escuelas.md), de 25 de mayo.
 2. A los efectos de definir el número de miembros que le corresponde a cada sector en el 
 Consejo del CER, se tendrá en cuenta el número de unidades autorizadas para cada uno de 
 los CER en funcionamiento para el presente curso escolar 2020/2021.
@@ -166,7 +166,7 @@ h) Solicitar de los ayuntamientos que conforman el CER la designación del conce
 la concejala, o la persona representante del municipio que haya de formar parte del Consejo 
 del CER. En el caso de que el ámbito del CER afecte a más de un municipio, se tendrá en 
 cuenta el carácter rotativo de la representación, de acuerdo a lo estipulado en el artículo 20 
-del Decreto 109/1999, de 25 de mayo.
+del [Decreto 109/1999](./D109_1999_regula_regimen_creacion_funcionamiento_colectivos_escuelas.md), de 25 de mayo.
 i) Adoptar medidas para facilitar la máxima participación de todos los sectores en el 
 proceso electoral.
 j) Resolver en primera instancia las reclamaciones sobre cualquier cuestión relativa al 
@@ -186,7 +186,7 @@ Sexto.- Miembros electores y elegibles.
 madres o tutores legales del alumnado, y los alumnos o las alumnas que formen parte de los 
 Consejos Escolares de los centros del ámbito del CER, así como los maestros o maestras que 
 compongan el equipo pedagógico, tal y como estipula el artículo 22 en concordancia con el 
-20, ambos del indicado Decreto 109/1999, de 25 de mayo.
+20, ambos del indicado [Decreto 109/1999](./D109_1999_regula_regimen_creacion_funcionamiento_colectivos_escuelas.md), de 25 de mayo.
 
 Martes 15 de diciembre de 2020
 2. En los casos en que la patria potestad de los hijos e hijas se encuentre conferida a uno 

@@ -158,7 +158,7 @@ te reparación responsable del daño causado.
 III
 Corresponde, en primer lugar , al centro docen -
 te, en el ejercicio de su autonomía, consagrado en
-el artículo 120 de la Ley Orgánica 2/2006, de 3 de
+el artículo 120 de la [Ley Orgánica 2/2006](../../../estatal/01_marco_normativo_general_y_organico/LO2_2006_educacion_texto_consolidado_modificaciones_lomloe.md), de 3 de
 mayo, de Educación, que tiene su consecuencia en
 el artículo 124 de la misma, regular la conviven-
 cia a través del proyecto educativo. Es función
@@ -777,7 +777,7 @@ El profesorado tiene derecho a recibir, por parte de
 la Administración educativa, la formación en materia de
 convivencia que se establezca en la normativa específi-
 ca, y en los términos establecidos en el artículo 102 de
-la Ley Orgánica 2/2006, de 3 de mayo, de Educación. 
+la [Ley Orgánica 2/2006](../../../estatal/01_marco_normativo_general_y_organico/LO2_2006_educacion_texto_consolidado_modificaciones_lomloe.md), de 3 de mayo, de Educación. 
 Artículo 28.-Derecho a la consideración de auto-
 ridad pública. 
 El profesorado tiene derecho a la consideración de
@@ -956,7 +956,7 @@ las decisiones que generan y vertebran los diferen -
 tes proyectos, planes y actividades del centro. 
 
 2. Además de lo previsto en el artículo 121.2 de
-la Ley Orgánica 2/2006, de 3 de mayo, recogerá los
+la [Ley Orgánica 2/2006](../../../estatal/01_marco_normativo_general_y_organico/LO2_2006_educacion_texto_consolidado_modificaciones_lomloe.md), de 3 de mayo, recogerá los
 valores, los objetivos y las prioridades de actuación.
 Asimismo, incorporará la concreción de los currícu-
 los establecidos por la Administración educativa que

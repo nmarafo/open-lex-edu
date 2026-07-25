@@ -61,7 +61,7 @@ fuente_pdf_oficial: https://sede.gobiernodecanarias.org/boc/boc-a-2010-143-4245.
 I. Disposiciones generales
 Consejería de Educación, Universidades, 
 Cultura y Deportes
-4245 DECRETO 81/2010, de 8 de julio, por el que
+4245 [DECRETO 81/2010](./Ds_n_desarrolla_decreto_aprueba_reglamento_organico_centros.md), de 8 de julio, por el que
 se aprueba el Reglamento Orgánico de los
 centros docentes públicos no universitarios
 de la Comunidad Autónoma de Canarias.
@@ -81,7 +81,7 @@ ción y formación, que se ha traducido en el estable-
 cimiento de unos objetivos educativos comunes. En
 ese contexto se encuadra la organización y funcio-
 namiento de los centros docentes.
-La Ley Orgánica 2/2006 presta particular atención
+La [Ley Orgánica 2/2006](../../../estatal/01_marco_normativo_general_y_organico/LO2_2006_educacion_texto_consolidado_modificaciones_lomloe.md) presta particular atención
 a la autonomía de los centros docentes, tanto en lo
 pedagógico, a través de la elaboración de sus proyec-
 tos educativos, como en lo que respecta a la gestión
@@ -565,7 +565,7 @@ gobierno de los centros y estará integrado por las
 personas titulares de la dirección, de la jefatura de
 estudios, y de la secretaría y, en su caso, de la vi-
 cedirección y de las jefaturas de estudios adjuntas,
-en el marco de lo dispuesto en el Decreto 106/2009,
+en el marco de lo dispuesto en el [Decreto 106/2009](./D106_2009_regula_funcion_directiva_centros_docentes_publicos.md),
 de 28 de julio, por el que se regula la función di-
 rectiva en los centros docentes públicos no univer-
 sitarios dependientes de la Comunidad Autónoma
@@ -600,7 +600,7 @@ Los órganos de gobierno, en el ámbito de sus fun-
 ciones y competencias, se regirán por los siguientes
 principios de actuación, sin menoscabo de los prin-
 cipios generales previstos para los equipos directi-
-vos en el artículo 2 del Decreto 106/2009:
+vos en el artículo 2 del [Decreto 106/2009](./D106_2009_regula_funcion_directiva_centros_docentes_publicos.md):
 a) Velar por el cumplimiento de lo establecido en
 la Constitución así como lo expresado en los princi-
 pios y fines de la educación establecidos en las le-

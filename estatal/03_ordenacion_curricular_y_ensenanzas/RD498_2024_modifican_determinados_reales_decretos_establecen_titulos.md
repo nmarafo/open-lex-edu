@@ -1035,7 +1035,7 @@ Catorce. En el Real Decreto 127/2014, de 28 de febrero, por el que se regula
 
 – Procesos y Productos de Vidrio y Cerámica.
 
-– Especialidades docentes asignadas a los ámbitos no profesionales de los ciclos formativos de grado básico, según lo establecido en el anexo IV del Real Decreto 286/2023, de 18 de abril.
+– Especialidades docentes asignadas a los ámbitos no profesionales de los ciclos formativos de grado básico, según lo establecido en el anexo IV del [Real Decreto 286/2023](../08_personal_docente/RD286_2023_regula_asignacion_materias_educacion_secundaria_obligatoria.md), de 18 de abril.
 
 – Catedráticos de Enseñanza Secundaria.
 
@@ -1741,7 +1741,7 @@ Veintiocho. En el Real Decreto 73/2018, de 19 de febrero, por el que se esta
 
 – Educación física.
 
-– Especialidades docentes asignadas a los ámbitos no profesionales de los ciclos formativos de grado básico, según lo establecido en el anexo IV del Real Decreto 286/2023, de 18 de abril.
+– Especialidades docentes asignadas a los ámbitos no profesionales de los ciclos formativos de grado básico, según lo establecido en el anexo IV del [Real Decreto 286/2023](../08_personal_docente/RD286_2023_regula_asignacion_materias_educacion_secundaria_obligatoria.md), de 18 de abril.
 
 – Catedráticos de Enseñanza Secundaria.
 

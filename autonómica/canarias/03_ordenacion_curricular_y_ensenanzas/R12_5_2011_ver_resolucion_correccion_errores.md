@@ -132,12 +132,12 @@ enseñanzas artísticas superiores.
 Posteriormente, el Real Decreto 1614/2009, de 26
 de octubre, por el que se establece la ordenación de
 las enseñanzas artísticas superiores reguladas por la
-Ley Orgánica 2/2006, de 3 de mayo, de Educación
+[Ley Orgánica 2/2006](../../../estatal/01_marco_normativo_general_y_organico/LO2_2006_educacion_texto_consolidado_modificaciones_lomloe.md), de 3 de mayo, de Educación
 (BOE nº 259, de 27 de octubre), en el artículo 1, ex-
 plicita que “el objeto del real decreto es desarrollar
 la estructura y los aspectos básicos de las enseñan-
 zas artísticas superiores, de acuerdo con lo previsto
-en el artículo 58 de la citada Ley Orgánica 2/2006,
+en el artículo 58 de la citada [Ley Orgánica 2/2006](../../../estatal/01_marco_normativo_general_y_organico/LO2_2006_educacion_texto_consolidado_modificaciones_lomloe.md),
 y de conformidad con las líneas emanadas del Espa-
 
 cio Europeo de Educación Superior”. Asimismo, en
@@ -156,7 +156,7 @@ tico y diseño.
 El Real Decreto 630/2010, de 14 de mayo, por el
 que se regula el contenido básico de las enseñanzas
 artísticas superiores de Grado en Arte Dramático es-
-tablecidas en la Ley Orgánica 2/2006, de 3 de ma-
+tablecidas en la [Ley Orgánica 2/2006](../../../estatal/01_marco_normativo_general_y_organico/LO2_2006_educacion_texto_consolidado_modificaciones_lomloe.md), de 3 de ma-
 yo, de Educación (BOE nº 137, de 5 de mayo), de-
 termina la finalidad del grado y perfiles profesionales,
 las características básicas de los planes de estudios
@@ -167,7 +167,7 @@ estos estudios.
 El Real Decreto 631/2010, de 14 de mayo, por el
 que se regula el contenido básico de las enseñanzas
 artísticas superiores de Grado en Música estableci-
-das en la Ley Orgánica 2/2006, de 3 de mayo, de Edu-
+das en la [Ley Orgánica 2/2006](../../../estatal/01_marco_normativo_general_y_organico/LO2_2006_educacion_texto_consolidado_modificaciones_lomloe.md), de 3 de mayo, de Edu-
 cación (BOE nº 137, de 5 de mayo), determina las
 características básicas de los planes de estudios ofi-
 ciales de Grado, de sus respectivas titulaciones, re-
@@ -177,7 +177,7 @@ estos estudios.
 El Real Decreto 633/2010, de 14 de mayo, por el
 que se regula el contenido básico de las enseñanzas
 artísticas superiores de Grado de Diseño estableci-
-das en la Ley Orgánica 2/2006, de 3 de mayo, de Edu-
+das en la [Ley Orgánica 2/2006](../../../estatal/01_marco_normativo_general_y_organico/LO2_2006_educacion_texto_consolidado_modificaciones_lomloe.md), de 3 de mayo, de Edu-
 cación (BOE nº 137, de 5 de mayo), determina las
 características básicas de los planes de estudios ofi-
 ciales de Grado, de sus respectivas titulaciones, las
@@ -244,7 +244,7 @@ el curso 2010-2011, con carácter experimental, en la
 Comunidad Autónoma de Canarias. 
 Artículo 2.- Ámbito de aplicación.
 De conformidad con lo previsto en el artículo 58.3
-de la Ley Orgánica 2/2006, de 3 de mayo, de Edu-
+de la [Ley Orgánica 2/2006](../../../estatal/01_marco_normativo_general_y_organico/LO2_2006_educacion_texto_consolidado_modificaciones_lomloe.md), de 3 de mayo, de Edu-
 cación, sobre los centros en los que deben cursarse
 dichos estudios, esta Orden será de aplicación para
 los centros públicos y privados debidamente autori-
@@ -364,7 +364,7 @@ de estudios oficiales de Grado en Música, de confor-
 midad con lo dispuesto en el Real Decreto 631/2010,
 de 14 de mayo, por el que se regula el contenido bá-
 sico de las enseñanzas artísticas superiores de Gra-
-do en Música establecidas en la Ley Orgánica 2/2006,
+do en Música establecidas en la [Ley Orgánica 2/2006](../../../estatal/01_marco_normativo_general_y_organico/LO2_2006_educacion_texto_consolidado_modificaciones_lomloe.md),
 de 3 de mayo, de Educación. 
 2. Paralelamente, en el mismo curso 2010-2011,
 se ha extinguido el primer curso de las enseñanzas
@@ -381,7 +381,7 @@ Grado en Arte Dramático, de conformidad con lo dis-
 puesto en el Real Decreto 630/2010, de 14 de mayo,
 por el que se regula el contenido básico de las ense-
 ñanzas artísticas superiores de Grado en Arte Dramá-
-tico establecidas en la Ley Orgánica 2/2006, de 3 de
+tico establecidas en la [Ley Orgánica 2/2006](../../../estatal/01_marco_normativo_general_y_organico/LO2_2006_educacion_texto_consolidado_modificaciones_lomloe.md), de 3 de
 mayo, de Educación. 
 4. Paralelamente, en el mismo curso 2010-2011,
 se ha extinguido el primer curso de las enseñanzas
@@ -398,7 +398,7 @@ Diseño, de conformidad con lo dispuesto en el Real
 Decreto 633/2010, de 14 de mayo, por el que se re-
 gula el contenido básico de las enseñanzas artísticas
 superiores de Grado de Diseño establecidas en la
-Ley Orgánica 2/2006, de 3 de mayo, de Educación. 
+[Ley Orgánica 2/2006](../../../estatal/01_marco_normativo_general_y_organico/LO2_2006_educacion_texto_consolidado_modificaciones_lomloe.md), de 3 de mayo, de Educación. 
 6. Paralelamente, en el mismo curso 2010-2011,
 se ha extinguido el primer curso de los estudios su-
 periores de Diseño, regulados por el Decreto 86/2009,
@@ -467,7 +467,7 @@ Artículo 6.-Acceso, oferta de plazas y admisión.
 1. Las condiciones de acceso a las enseñanzas
 conducentes a las titulaciones de Grado objeto de es-
 ta Orden, se atendrán a lo dispuesto en el artículo 54
-y siguientes de la Ley Orgánica 2/2006, de 3 de ma-
+y siguientes de la [Ley Orgánica 2/2006](../../../estatal/01_marco_normativo_general_y_organico/LO2_2006_educacion_texto_consolidado_modificaciones_lomloe.md), de 3 de ma-
 yo, de Educación, al artículo 12 del Real Decreto
 1614/2009, de 26 de octubre, y a cualesquiera otras
 disposiciones que establezcan al efecto las Admi-
@@ -506,7 +506,7 @@ nos, tres especialidades, en los términos exigidos en
 el artículo 21, apartado 1 del Real Decreto 303/2010,
 de 15 de marzo, por el que se establecen los requisi-
 tos mínimos de los centros que impartan enseñanzas
-artísticas reguladas en la Ley Orgánica 2/2006, de 3
+artísticas reguladas en la [Ley Orgánica 2/2006](../../../estatal/01_marco_normativo_general_y_organico/LO2_2006_educacion_texto_consolidado_modificaciones_lomloe.md), de 3
 de mayo, de Educación.
 5. El número de estudiantes matriculados en una
 asignatura de carácter optativo para que se pueda
@@ -874,7 +874,7 @@ vinculadas con ellos.
 educativa. 
 2.1. De conformidad con lo establecido en el Real Decreto 631/2010, de 14 de mayo, por el 
 que se regula el contenido básico  de las enseñanzas artísticas superiores de Grado en Música 
-establecidas en la Ley Orgánica 2/2006, de 3 de mayo, de Educación, las enseñanzas que se 
+establecidas en la [Ley Orgánica 2/2006](../../../estatal/01_marco_normativo_general_y_organico/LO2_2006_educacion_texto_consolidado_modificaciones_lomloe.md), de 3 de mayo, de Educación, las enseñanzas que se 
 implantan en la Comunidad Autónoma de Canarias , son las de Grado en Música, en las espe- 
 cialidades de Composición, Interpretación y Pedagogía. 
 2.2. La distribución de las citadas especialidades , atendiendo a la estructura territorial del 

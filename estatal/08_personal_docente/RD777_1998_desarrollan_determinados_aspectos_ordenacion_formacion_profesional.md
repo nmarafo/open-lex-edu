@@ -107,7 +107,7 @@ b) El expediente académico del alumno en el que se valorará sucesivamente la n
 
 #### Artículo 6. Reserva de plazas para el acceso mediante prueba.
 
-Las Administraciones educativas podrán establecer el porcentaje de plazas de formación profesional de grado medio y grado superior reservadas para quienes accedan a través de la prueba establecida en el artículo 32 de la Ley Orgánica 1/1990, de 3 de octubre, de Ordenación General del Sistema Educativo.
+Las Administraciones educativas podrán establecer el porcentaje de plazas de formación profesional de grado medio y grado superior reservadas para quienes accedan a través de la prueba establecida en el artículo 32 de la [Ley Orgánica 1/1990](../02_gestion_y_administracion_centros/LO1_1990_regula_regimen_equivalencias_estudios_basicos_medios.md), de 3 de octubre, de Ordenación General del Sistema Educativo.
 
 #### Artículo 7. Acreditaciones en el Libro de Calificaciones de Formación Profesional.
 
@@ -131,7 +131,7 @@ El título de Técnico Especialista en la correspondiente especialidad tiene los
 
 #### Artículo 11. Acceso al bachillerato con el título de Técnico.
 
-En cumplimiento de lo dispuesto en el artículo 35.3 de la Ley Orgánica 1/1990, de 3 de octubre, de Ordenación General del Sistema Educativo, quienes estén en posesión del título de Técnico, por haber superado la formación profesional específica de grado medio según lo dispuesto en el artículo 32.1 de la citada Ley Orgánica, tienen acceso directo a las distintas modalidades del bachillerato.
+En cumplimiento de lo dispuesto en el artículo 35.3 de la [Ley Orgánica 1/1990](../02_gestion_y_administracion_centros/LO1_1990_regula_regimen_equivalencias_estudios_basicos_medios.md), de 3 de octubre, de Ordenación General del Sistema Educativo, quienes estén en posesión del título de Técnico, por haber superado la formación profesional específica de grado medio según lo dispuesto en el artículo 32.1 de la citada Ley Orgánica, tienen acceso directo a las distintas modalidades del bachillerato.
 
 CAPÍTULO III
 
@@ -315,9 +315,9 @@ Se modifican los apartados 3.2, 4.1 y 6.2 del anexo al Real Decreto 1653/1994, d
 
 En los módulos profesionales de los ciclos formativos de Edificación y Obra Civil, en los que en el apartado 4.1 del anexo al Real Decreto correspondiente, se señala que en la impartición de estos módulos profesionales colaborará un Profesor Especialista, la contribución horaria del Profesor de Enseñanza Secundaria de la especialidad de Construcciones Civiles y Edificación será determinada por las Administraciones educativas.
 
-#### Disposición adicional octava. Modificación y ampliación del Real Decreto 1635/1995.
+#### Disposición adicional octava. Modificación y ampliación del [Real Decreto 1635/1995](./RD1635_1995_adscribe_profesorado_cuerpos_profesores_ensenanza_secundaria.md).
 
-Se modifica y completa el Real Decreto 1635/1995, de 6 de octubre, por el que se adscribe el profesorado de los Cuerpos de Profesores de Enseñanza Secundaria y de Profesores Técnicos de Formación Profesional a las especialidades propias de la formación profesional específica, en la forma siguiente:
+Se modifica y completa el [Real Decreto 1635/1995](./RD1635_1995_adscribe_profesorado_cuerpos_profesores_ensenanza_secundaria.md), de 6 de octubre, por el que se adscribe el profesorado de los Cuerpos de Profesores de Enseñanza Secundaria y de Profesores Técnicos de Formación Profesional a las especialidades propias de la formación profesional específica, en la forma siguiente:
 
 1. Teniendo en cuenta lo establecido en el Real Decreto 2050/1995, de 22 de diciembre, se modifican las denominaciones de determinadas especialidades del profesorado establecidas en los anexos II a) y IV a) por las que se detallan en el anexo VIII a) del presente Real Decreto.
 
@@ -367,7 +367,7 @@ Las equivalencias a efectos de docencia recogidas en el anexo III del [Real Decr
 
 #### Disposición transitoria tercera. Oferta de plazas de especialidades a profesores funcionarios según titulación.
 
-Hasta que finalice el calendario del proceso de implantación del sistema educativo establecido por la Ley Orgánica 1/1990, de 3 de octubre, en las convocatorias de provisión de vacantes correspondientes al profesorado de las especialidades propias de la formación profesional específica de los Cuerpos de Profesores de Enseñanza Secundaria y de Profesores Técnicos de Formación Profesional, las Administraciones educativas podrán ofertar determinadas plazas a funcionarios de uno o ambos cuerpos, siempre que cumplan los requisitos de titulación que se establecen en el anexo XI al presente Real Decreto o posean las titulaciones declaradas equivalentes, a efectos de docencia relacionadas en los anexos VI a) y VI b).
+Hasta que finalice el calendario del proceso de implantación del sistema educativo establecido por la [Ley Orgánica 1/1990](../02_gestion_y_administracion_centros/LO1_1990_regula_regimen_equivalencias_estudios_basicos_medios.md), de 3 de octubre, en las convocatorias de provisión de vacantes correspondientes al profesorado de las especialidades propias de la formación profesional específica de los Cuerpos de Profesores de Enseñanza Secundaria y de Profesores Técnicos de Formación Profesional, las Administraciones educativas podrán ofertar determinadas plazas a funcionarios de uno o ambos cuerpos, siempre que cumplan los requisitos de titulación que se establecen en el anexo XI al presente Real Decreto o posean las titulaciones declaradas equivalentes, a efectos de docencia relacionadas en los anexos VI a) y VI b).
 
 En la adjudicación de estas vacantes se respetará, en todo caso, la prioridad y obligación que para impartir los módulos profesionales correspondientes tienen los profesores titulares de las especialidades, que tendrán preferencia para ser adscritos a las plazas de su especialidad respecto a los profesores que reúnan los requisitos de titulación anteriormente citados.
 
@@ -379,7 +379,7 @@ Quedan derogados los artículos 31 y 32.1 del Real Decreto 1004/1991, de 14 de j
 
 #### Disposición final primera. Carácter básico y normas de desarrollo.
 
-1. El presente Real Decreto, que se dicta en virtud de la habilitación que confiere al Gobierno la Ley Orgánica 1/1990, de 3 de octubre, en sus disposiciones adicionales novena, apartado 1, y décima, apartado 8, y en uso de la competencia estatal para la ordenación general del sistema educativo recogida expresamente en la disposición adicional primera 2, a), de la Ley Orgánica 8/1985, de 3 de julio, reguladora del Derecho a la Educación, tiene carácter de norma básica, salvo lo establecido en los artículos 4.2, 6, 16.2, 19.2 y 19.5.
+1. El presente Real Decreto, que se dicta en virtud de la habilitación que confiere al Gobierno la [Ley Orgánica 1/1990](../02_gestion_y_administracion_centros/LO1_1990_regula_regimen_equivalencias_estudios_basicos_medios.md), de 3 de octubre, en sus disposiciones adicionales novena, apartado 1, y décima, apartado 8, y en uso de la competencia estatal para la ordenación general del sistema educativo recogida expresamente en la disposición adicional primera 2, a), de la [Ley Orgánica 8/1985](../02_gestion_y_administracion_centros/LO8_1985_reguladora_derecho_educacion.md), de 3 de julio, reguladora del Derecho a la Educación, tiene carácter de norma básica, salvo lo establecido en los artículos 4.2, 6, 16.2, 19.2 y 19.5.
 
 2. El Ministerio de Educación y Cultura y los órganos correspondientes de las Comunidades Autónomas podrán dictar, en el ámbito de sus respectivas competencias, las normas que sean precisas para la aplicación y desarrollo de este Real Decreto, salvo lo dispuesto en los artículos 14 y 15 que será desarrollado por los Ministerios de Educación y Cultura y de Trabajo y Asuntos Sociales, según se establece en dichos artículos.
 
@@ -5617,7 +5617,7 @@ Profesor de Enseñanza Secundaria.
 
 ANEXO VIII
 
-MODIFICACIÓN Y AMPLIACIÓN DEL REAL DECRETO 1635/1995 DE 6 DE OCTUBRE
+MODIFICACIÓN Y AMPLIACIÓN DEL [REAL DECRETO 1635/1995](./RD1635_1995_adscribe_profesorado_cuerpos_profesores_ensenanza_secundaria.md) DE 6 DE OCTUBRE
 
 **VIII a) Modificación de las denominaciones de los Anexos II a) y IV a)**
 

@@ -165,7 +165,7 @@ Primera.- Objeto de la convocatoria, régimen jurídico y publicación.
 
 1.- Es objeto de la presente convocatoria la selección por el sistema de concurso-oposición, turno de acceso libre, para cubrir una plaza con la categoría de Jefe/a de Desarrollo, Grupo I, vacante en la Plantilla Orgánica y Relación de Puestos de Trabajo del Parlamento de Canarias, para su contratación como personal laboral fijo, con las siguientes características y funciones: organización, coordinación y control del trabajo del Área de Desarrollo. Colaboración en la realización de las propuestas de Planes Informáticos. Estudio de los proyectos que se vayan a realizar, elección de herramientas que se vayan a utilizar. Control estratégico de cada proyecto, de la calidad de las aplicaciones y de su puesta en marcha. Definición de los requisitos de integridad de los datos y de confidencialidad de la información contenida en las aplicaciones. Seguimiento del mantenimiento de las aplicaciones del servicio, con adopción de las medidas necesarias para su optimización, evaluando las modificaciones solicitadas y asignando los recursos de personal necesario para su realización. Diseño de la documentación de las aplicaciones terminadas y de los programas de formación de usuarios correspondientes. Elaboración de estudios para la implantación de nuevas técnicas. Cualquier otra análoga que se le encomiende.
 
-2.- La presente convocatoria queda sujeta a las bases de la misma y se regirá por el Convenio Colectivo y, supletoriamente, para lo no previsto en el mismo, por este orden, a lo dispuesto en el Real Decreto Legislativo 2/2015, de 23 de octubre, por el que se aprueba el texto refundido de la Ley del Estatuto de los Trabajadores, a las Normas de Gobierno Interior del Parlamento de Canarias y el resto de la legislación laboral de obligado cumplimiento, que en ningún caso podrá ir en contra de lo establecido en el Convenio Colectivo.
+2.- La presente convocatoria queda sujeta a las bases de la misma y se regirá por el Convenio Colectivo y, supletoriamente, para lo no previsto en el mismo, por este orden, a lo dispuesto en el [Real Decreto Legislativo 2/2015](../../../estatal/09_personal_laboral_y_no_docente/RDL2_2015_aprueba_texto_refundido_ley_estatuto_trabajadores.md), de 23 de octubre, por el que se aprueba el texto refundido de la Ley del Estatuto de los Trabajadores, a las Normas de Gobierno Interior del Parlamento de Canarias y el resto de la legislación laboral de obligado cumplimiento, que en ningún caso podrá ir en contra de lo establecido en el Convenio Colectivo.
 
 3.- Las bases de la presente convocatoria serán publicadas en el Boletín Oficial del Parlamento de Canarias (en adelante, BOPC) y en el Boletín Oficial de Canarias (en adelante, BOC), así como en la página web del Parlamento, portal de transparencia y en la sede electrónica del Parlamento de Canarias, en el punto de acceso: https://sede.parcan.es/sede/es/empleo-publico
 
@@ -287,7 +287,7 @@ La secretaria o secretario del tribunal habrá de prestar servicios en el Parlam
 
 3.- El procedimiento de actuación del tribunal se ajustará a lo previsto en la [Ley 40/2015](../../../estatal/01_marco_normativo_general_y_organico/L40_2015_regimen_juridico_sector_publico.md), de 1 de octubre, de Régimen Jurídico del Sector Público, y demás normativa de aplicación.
 
-4.- Serán causa de abstención o recusación de las personas integrantes del tribunal las previstas en los artículos 23 y 24 de la Ley 40/2015, de 1 de octubre, de Régimen Jurídico del Sector Público.
+4.- Serán causa de abstención o recusación de las personas integrantes del tribunal las previstas en los artículos 23 y 24 de la [Ley 40/2015](../../../estatal/01_marco_normativo_general_y_organico/L40_2015_regimen_juridico_sector_publico.md), de 1 de octubre, de Régimen Jurídico del Sector Público.
 
 No podrán formar parte de los tribunales de selección quienes hubieran realizado tareas de preparación de las personas aspirantes admitidas en la respectiva convocatoria, dentro de los tres años anteriores a la publicación de aquella en la que hayan de intervenir.
 
@@ -523,13 +523,13 @@ Transcurrido el periodo de prueba de noventa días naturales, la persona contrat
 
 Durante el periodo de prueba, la Mesa de la Cámara por acuerdo motivado, a propuesta de la presidencia y previo informe del Letrado-Secretario General, podrá poner fin a la relación laboral sin derecho alguno a indemnización.
 
-El contrato de trabajo quedará formalizado por escrito y con las cláusulas y requisitos establecidos en el I Convenio Colectivo del Personal Laboral del Parlamento de Canarias y demás legislación que le sea de aplicación, y, con carácter supletorio, el Real Decreto Legislativo 2/2015, de 23 de octubre, por el que se aprueba el texto refundido de la Ley del Estatuto de los Trabajadores, en las Normas de Gobierno Interior del Parlamento de Canarias y en el resto de la legislación laboral de obligado cumplimiento.
+El contrato de trabajo quedará formalizado por escrito y con las cláusulas y requisitos establecidos en el I Convenio Colectivo del Personal Laboral del Parlamento de Canarias y demás legislación que le sea de aplicación, y, con carácter supletorio, el [Real Decreto Legislativo 2/2015](../../../estatal/09_personal_laboral_y_no_docente/RDL2_2015_aprueba_texto_refundido_ley_estatuto_trabajadores.md), de 23 de octubre, por el que se aprueba el texto refundido de la Ley del Estatuto de los Trabajadores, en las Normas de Gobierno Interior del Parlamento de Canarias y en el resto de la legislación laboral de obligado cumplimiento.
 
 Decimoquinta.- Régimen de impugnaciones.
 
 1.- El tribunal queda facultado para resolver las dudas que se presenten y tomar los acuerdos necesarios para el buen orden de la oposición en todo lo no previsto en estas bases.
 
-2.- Contra la presente convocatoria y sus bases, se podrá interponer con carácter potestativo recurso de reposición en el plazo de un mes ante el órgano que las haya dictado según lo establecido en la Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común, o directamente recurso contencioso-administrativo en el plazo de dos meses, ante la Sala de lo Contencioso-administrativo de Santa Cruz de Tenerife del Tribunal Superior de Justicia de Canarias, de conformidad con lo establecido en la Ley 29/1998, de 13 de julio, reguladora de la Jurisdicción Contencioso-administrativa.
+2.- Contra la presente convocatoria y sus bases, se podrá interponer con carácter potestativo recurso de reposición en el plazo de un mes ante el órgano que las haya dictado según lo establecido en la [Ley 39/2015](../../../estatal/01_marco_normativo_general_y_organico/L39_2015_procedimiento_administrativo_comun_administraciones_publicas.md), de 1 de octubre, del Procedimiento Administrativo Común, o directamente recurso contencioso-administrativo en el plazo de dos meses, ante la Sala de lo Contencioso-administrativo de Santa Cruz de Tenerife del Tribunal Superior de Justicia de Canarias, de conformidad con lo establecido en la Ley 29/1998, de 13 de julio, reguladora de la Jurisdicción Contencioso-administrativa.
 
 ANEXO
 
@@ -557,7 +557,7 @@ Tema 9.- Reglamento del Parlamento de Canarias: La iniciativa legislativa y sus 
 
 Tema 10.- Reglamento del Parlamento de Canarias: Los procedimientos legislativos especiales. Especial referencia al proyecto de Ley de Presupuestos Generales de la Comunidad Autónoma. Reforma del Estatuto de Autonomía de Canarias. La iniciativa ante las Cortes Generales. Decretos legislativos y decretos leyes del Gobierno.
 
-Tema 11.- Real Decreto Legislativo 5/2015, de 30 de octubre, por el que se aprueba el texto refundido de la Ley del Estatuto Básico del Empleado Público. Adquisición y pérdida de la condición funcionarial. Situaciones administrativas. Régimen disciplinario. Especial referencia a la Ley de la Función Pública Canaria.
+Tema 11.- [Real Decreto Legislativo 5/2015](../../../estatal/01_marco_normativo_general_y_organico/RDL5_2015_aprueba_texto_refundido_ley_estatuto_basico.md), de 30 de octubre, por el que se aprueba el texto refundido de la Ley del Estatuto Básico del Empleado Público. Adquisición y pérdida de la condición funcionarial. Situaciones administrativas. Régimen disciplinario. Especial referencia a la Ley de la Función Pública Canaria.
 
 Tema 12.- Las Normas de Gobierno Interior del Parlamento de Canarias: Estructura. Contenido. El personal al servicio del Parlamento de Canarias. La Secretaría General. El letrado-secretario general o letrada-secretaria general. Los servicios/unidades de la Cámara. La Administración parlamentaria: estructura y funciones.
 
@@ -565,7 +565,7 @@ Tema 13.- Las Normas de Gobierno Interior del Parlamento de Canarias: Ingreso y 
 
 Tema 14.- Convenio Colectivo del Personal Laboral del Parlamento de Canarias. Ámbito de aplicación y contenido. Condiciones de trabajo. La comisión de seguimiento. La negociación colectiva. Régimen de supletoriedad. Régimen retributivo.
 
-Tema 15.- Convenio Colectivo de personal laboral del Parlamento de Canarias. Órganos competentes en materia de personal y funciones. Régimen de selección, provisión y cese. Derechos y deberes del personal laboral del Parlamento de Canarias. Régimen disciplinario. Especial referencia al Real Decreto Legislativo 2/2015, de 23 de octubre, por el que se aprueba el texto refundido de la Ley del Estatuto de los Trabajadores.
+Tema 15.- Convenio Colectivo de personal laboral del Parlamento de Canarias. Órganos competentes en materia de personal y funciones. Régimen de selección, provisión y cese. Derechos y deberes del personal laboral del Parlamento de Canarias. Régimen disciplinario. Especial referencia al [Real Decreto Legislativo 2/2015](../../../estatal/09_personal_laboral_y_no_docente/RDL2_2015_aprueba_texto_refundido_ley_estatuto_trabajadores.md), de 23 de octubre, por el que se aprueba el texto refundido de la Ley del Estatuto de los Trabajadores.
 
 Tema 16.- El contrato de trabajo. Concepto, caracteres, naturaleza y clases. Las partes del contrato. El contenido del contrato. La novación del contrato: los diversos supuestos de modificación. La suspensión del contrato. La extinción del contrato y sus causas. El despido.
 
@@ -579,11 +579,11 @@ Tema 20.- El régimen jurídico de la protección de datos de carácter personal
 
 Tema 21.- Los derechos de la ciudadanía en sus relaciones con la Administración Pública. La participación ciudadana en las Administraciones Públicas. Los interesados o interesadas en el procedimiento administrativo. Términos y plazos. Estudio especial de los informes.
 
-Tema 22.- El procedimiento administrativo en la Ley 39/2015, de 1 de octubre, de Procedimiento Administrativo Común de las Administraciones Públicas: concepto y clases. Las fases del procedimiento administrativo: iniciación, ordenación, instrucción, finalización. Ejecución.
+Tema 22.- El procedimiento administrativo en la [Ley 39/2015](../../../estatal/01_marco_normativo_general_y_organico/L39_2015_procedimiento_administrativo_comun_administraciones_publicas.md), de 1 de octubre, de Procedimiento Administrativo Común de las Administraciones Públicas: concepto y clases. Las fases del procedimiento administrativo: iniciación, ordenación, instrucción, finalización. Ejecución.
 
 Tema 23.- La invalidez de los actos administrativos: nulidad, anulabilidad e irregularidades no invalidantes. Los recursos administrativos.
 
-Tema 24.- La Ley 40/2015, de 1 de octubre, de Régimen jurídico del sector público. Funcionamiento electrónico del sector público. Normativa de aplicación. Sede electrónica. Identificación y autentificación. Registros, comunicaciones y notificaciones electrónicas. La gestión electrónica de los procedimientos.
+Tema 24.- La [Ley 40/2015](../../../estatal/01_marco_normativo_general_y_organico/L40_2015_regimen_juridico_sector_publico.md), de 1 de octubre, de Régimen jurídico del sector público. Funcionamiento electrónico del sector público. Normativa de aplicación. Sede electrónica. Identificación y autentificación. Registros, comunicaciones y notificaciones electrónicas. La gestión electrónica de los procedimientos.
 
 Tema 25.- El sistema electoral español. Elecciones generales al Congreso y Senado. Elecciones al Parlamento de Canarias. Elecciones al Parlamento Europeo. Elecciones municipales. La Junta Electoral Central. Las Juntas Provinciales y de Zona. Especial referencia a la Junta Electoral de Canarias.
 

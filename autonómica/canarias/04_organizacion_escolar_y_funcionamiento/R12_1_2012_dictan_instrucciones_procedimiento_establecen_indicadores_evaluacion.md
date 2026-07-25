@@ -105,7 +105,7 @@ por el que se regula la función directiva en los cen-
 tros docentes públicos no universitarios dependien-
 tes de la Comunidad Autónoma de Canarias (BOC
 nº 155, de 11.8.09) que desarrolla el artículo 139 de
-la Ley Orgánica 2/2006, y establece en su Capítu-
+la [Ley Orgánica 2/2006](../../../estatal/01_marco_normativo_general_y_organico/LO2_2006_educacion_texto_consolidado_modificaciones_lomloe.md), y establece en su Capítu-
 lo V las bases para el reconocimiento y evaluación
 de la función directiva, indicando en su artículo
 26.3 que la evaluación del desempeño de la función
@@ -281,12 +281,12 @@ se realizará por la Inspección educativa, de acuerdo
 con la normativa vigente en su momento.
 2.3. A los órganos de gobierno unipersonales de
 los Colectivos de Escuelas Rurales y Residencias
-Escolares, a los que el Decreto 106/2009, de 28 de
+Escolares, a los que el [Decreto 106/2009](./D106_2009_regula_funcion_directiva_centros_docentes_publicos.md), de 28 de
 julio citado en su Disposición Adicional Primera,
 excluye expresamente de su ámbito de aplicación, se-
 ñalando que su selección, nombramiento y cese se
 regirán por su normativa específica vigente, en lo que
-no se oponga a la Ley Orgánica 2/2006, de 3 de ma-
+no se oponga a la [Ley Orgánica 2/2006](../../../estatal/01_marco_normativo_general_y_organico/LO2_2006_educacion_texto_consolidado_modificaciones_lomloe.md), de 3 de ma-
 yo, de Educación.
 Tercero.- Desarrollo del procedimiento.
 3.1. Presentación de la memoria por los directo-

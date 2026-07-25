@@ -48,7 +48,7 @@ III. Otras Resoluciones
 Consejería de Educación, Formación Profesional, Actividad Física y Deportes
 1342 Dirección General de Formación Profesional y Enseñanzas de Régimen Especial.- 
 Resolución de 17 de abril de 2026, que corrige error en la Resolución de 26 de 
-marzo de 2026, por la que se amplían la Resolución de 30 de octubre de 2024, que 
+marzo de 2026, por la que se amplían la [Resolución de 30 de octubre de 2024](./R30_10_2024_dictan_instrucciones_orientaciones_implantacion_desarrollo_grados.md), que 
 dicta instrucciones y orientaciones par la implantación y desarrollo de los grados de 
 formación D y E, a partir del curso escolar 2024/2025, y se establece la distribución 
 horaria y modular de los currículos; y la Resolución de 21 de febrero de 2025, que 
@@ -58,7 +58,7 @@ general a partir del curso escolar 2024/2025, en el ámbito de la Comunidad
 Autónoma de Canarias (BOC n.º 70, de 13.4.2026).
 ANTECEDENTES DE HECHO
 Primero.- Con fecha 13 de abril de 2026 se publicó en el Boletín Oficial de Canarias 
-n.º 70 la Resolución de 26 de marzo de 2026, por la que se amplían la Resolución de 30 de 
+n.º 70 la [Resolución de 26 de marzo de 2026](./R26_3_2026_amplian_resolucion_dicta_instrucciones_orientaciones_implantacion.md), por la que se amplían la Resolución de 30 de 
 octubre de 2024, que dicta instrucciones y orientaciones para la implantación y desarrollo 
 de los grados de formación D y E, a partir del curso escolar 2024/2025, y se establece la 
 distribución horaria y modular de los currículos; y la Resolución de 21 de febrero de 2025, 
@@ -94,8 +94,8 @@ Física y Deportes, aprobado por el [Decreto 84/2024](../01_marco_normativo_gene
 las competencias generales y específicas a la Dirección General de Formación Profesional 
 y Enseñanzas de Régimen Especial,
 RESUELVO :
-Primero.- Corregir el error advertido en la Resolución de 26 de marzo de 2026, por la que 
-se amplían la Resolución de 30 de octubre de 2024, que dicta instrucciones y orientaciones 
+Primero.- Corregir el error advertido en la [Resolución de 26 de marzo de 2026](./R26_3_2026_amplian_resolucion_dicta_instrucciones_orientaciones_implantacion.md), por la que 
+se amplían la [Resolución de 30 de octubre de 2024](./R30_10_2024_dictan_instrucciones_orientaciones_implantacion_desarrollo_grados.md), que dicta instrucciones y orientaciones 
 para la implantación y desarrollo de los grados de formación D y E, a partir del curso 
 escolar 2024/2025, y se establece la distribución horaria y modular de los currículos; y la 
 Resolución de 21 de febrero de 2025, que dicta instrucciones para la implantación de los 

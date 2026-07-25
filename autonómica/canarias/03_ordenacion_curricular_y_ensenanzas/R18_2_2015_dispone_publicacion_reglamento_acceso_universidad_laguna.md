@@ -521,7 +521,7 @@ ciones educativas, cuantas disposiciones sean necesarias para la ejecución y de
 establecido en el presente Reglamento.
 DISPOSICIÓN TRANSITORIA
 En tanto la Comunidad Autónoma de Canarias desarrolle, en uso de sus competencias, el 
-Real Decreto 412/2014, de 6 de junio, se considerará aplicable la Orden de 14 de diciembre 
+[Real Decreto 412/2014](../../../estatal/03_ordenacion_curricular_y_ensenanzas/RD412_2014_establece_normativa_basica_procedimientos_admision_ensenanzas.md), de 6 de junio, se considerará aplicable la Orden de 14 de diciembre 
 de 2009 (Boletín Oficial de Canarias nº 249, martes 22 de diciembre de 2009), que regula en 
 la Comunidad el acceso a los títulos universitarios de Grado por criterios de edad, en todo 
 aquello que no contravenga la normativa estatal.

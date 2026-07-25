@@ -59,7 +59,7 @@ con fondos públicos en la Comunidad Autónoma de Canarias para el curso escolar
 2026/2027. 
 ANTECEDENTES DE HECHO
 Primero.- Con fecha de 26 de febrero de 2026, se publica en el Boletín Oficial de 
-Canarias n.º 39 la Resolución de 13 de febrero de 2026, por la que se dictan instrucciones 
+Canarias n.º 39 la [Resolución de 13 de febrero de 2026](./R13_2_2026_convoca_procedimiento_admision_alumnado_ciclos_formativos.md), por la que se dictan instrucciones 
 sobre el proceso de admisión del alumnado a Ciclos Formativos de Grado Básico, Medio y 
 Superior (niveles 1, 2 y 3, respectivamente) de las Enseñanzas de Formación Profesional de 
 Grados D, Enseñanzas Profesionales de Artes Plásticas y Diseño, Enseñanzas Elementales 
@@ -90,7 +90,7 @@ Física y Deportes, aprobado por el [Decreto 84/2024](../01_marco_normativo_gene
 las competencias generales y específicas a la Dirección General de Formación Profesional 
 y Enseñanzas de Régimen Especial,
 RESUELVO :
-Primero.- Corregir los errores materiales de la Resolución de 13 de febrero de 2026 
+Primero.- Corregir los errores materiales de la [Resolución de 13 de febrero de 2026](./R13_2_2026_convoca_procedimiento_admision_alumnado_ciclos_formativos.md) 
 (BOC n.º 39, de 26.2.2026), en las instrucciones decimonovena y vigésima quinta, en los 
 siguientes términos:
 Decimonovena.- Acceso a los Ciclos Formativos de Grado Medio (nivel 2).
@@ -133,7 +133,7 @@ Grado Superior (Grado D, nivel 3).
 g) Haber superado la prueba de acceso a la universidad para mayores de 25 años.
 h) Estar en posesión del Título de Bachiller.
 i) Acreditar algunas de las condiciones establecidas en la disposición adicional sexta del 
-Real Decreto 659/2023, de 18 de julio, por la que se desarrolla la ordenación del Sistema 
+[Real Decreto 659/2023](../03_ordenacion_curricular_y_ensenanzas/RD659_2023_dictan_instrucciones_orientaciones_formacion_dual_empresas.md), de 18 de julio, por la que se desarrolla la ordenación del Sistema 
 de Formación Profesional del sistema educativo, relativa a otras titulaciones equivalentes 
 a efectos de acceso.
 h) Estar en posesión de una acreditación de competencias básicas de nivel 3 obtenidas 

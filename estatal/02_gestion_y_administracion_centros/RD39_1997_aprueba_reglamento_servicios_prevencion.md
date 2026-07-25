@@ -204,7 +204,7 @@ c) Constituyendo un servicio de prevención propio.
 
 d) Recurriendo a un servicio de prevención ajeno.
 
-2. En los términos previstos en el capítulo IV de la Ley 31/1995, de 8 de noviembre, de Prevención de Riesgos Laborales, se entenderá por servicio de prevención propio el conjunto de medios humanos y materiales de la empresa necesarios para la realización de las actividades de prevención, y por servicio de prevención ajeno el prestado por una entidad especializada que concierte con la empresa la realización de actividades de prevención, el asesoramiento y apoyo que precise en función de los tipos de riesgos o ambas actuaciones conjuntamente.
+2. En los términos previstos en el capítulo IV de la [Ley 31/1995](./L31_1995_prevencion_riesgos_laborales.md), de 8 de noviembre, de Prevención de Riesgos Laborales, se entenderá por servicio de prevención propio el conjunto de medios humanos y materiales de la empresa necesarios para la realización de las actividades de prevención, y por servicio de prevención ajeno el prestado por una entidad especializada que concierte con la empresa la realización de actividades de prevención, el asesoramiento y apoyo que precise en función de los tipos de riesgos o ambas actuaciones conjuntamente.
 
 3. Los servicios de prevención tendrán carácter interdisciplinario, entendiendo como tal la conjunción coordinada de dos o más disciplinas técnicas o científicas en materia de prevención de riesgos laborales.
 
@@ -382,7 +382,7 @@ e) Actividades especializadas que, en su caso, tiene previsto contratar con otra
 
 #### Artículo 25. Aprobación provisional.
 
-1. Recibidos la solicitud y el proyecto señalados en el artículo 23, la autoridad laboral remitirá copia a la autoridad sanitaria competente del lugar en el que radiquen las instalaciones principales de la entidad especializada, a los fines previstos en el apartado 5 del artículo 31 de la Ley 31/1995, de 8 de noviembre, de Prevención de Riesgos Laborales. Dicha autoridad sanitaria comunicará a la autoridad laboral su decisión acerca de la aprobación del proyecto en cuanto a los requisitos de carácter sanitario.
+1. Recibidos la solicitud y el proyecto señalados en el artículo 23, la autoridad laboral remitirá copia a la autoridad sanitaria competente del lugar en el que radiquen las instalaciones principales de la entidad especializada, a los fines previstos en el apartado 5 del artículo 31 de la [Ley 31/1995](./L31_1995_prevencion_riesgos_laborales.md), de 8 de noviembre, de Prevención de Riesgos Laborales. Dicha autoridad sanitaria comunicará a la autoridad laboral su decisión acerca de la aprobación del proyecto en cuanto a los requisitos de carácter sanitario.
 
 2. Al mismo tiempo, solicitará informe de los órganos técnicos en materia preventiva de las Comunidades Autónomas o, en su caso, del Instituto Nacional de Seguridad e Higiene en el Trabajo, así como aquellos otros que considere necesarios acerca de los aspectos no contemplados en el apartado anterior.
 
@@ -584,7 +584,7 @@ e) La vigilancia y control de la salud de los trabajadores en los términos señ
 
 a) Los servicios de prevención que desarrollen funciones de vigilancia y control de la salud de los trabajadores deberán contar con un médico especialista en Medicina del Trabajo o diplomado en Medicina de Empresa y un ATS/DUE de empresa, sin perjuicio de la participación de otros profesionales sanitarios con competencia técnica, formación y capacidad acreditada.
 
-b) En materia de vigilancia de la salud, la actividad sanitaria deberá abarcar, en las condiciones fijadas por el artículo 22 de la Ley 31/1995, de Prevención de Riesgos Laborales:
+b) En materia de vigilancia de la salud, la actividad sanitaria deberá abarcar, en las condiciones fijadas por el artículo 22 de la [Ley 31/1995](./L31_1995_prevencion_riesgos_laborales.md), de Prevención de Riesgos Laborales:
 
 1.º Una evaluación de la salud de los trabajadores inicial después de la incorporación al trabajo o después de la asignación de tareas específicas con nuevos riesgos para la salud.
 
@@ -614,7 +614,7 @@ Colaboración de los servicios de prevención con el Sistema Nacional de Salud
 
 #### Artículo 38. Colaboración con el Sistema Nacional de Salud.
 
-1. De acuerdo con lo establecido en el artículo 10 de la Ley 31/1995, de Prevención de Riesgos Laborales, y artículo 21 de la Ley 14/1986, General de Sanidad, el servicio de prevención colaborará con los servicios de atención primaria de salud y de asistencia sanitaria especializada para el diagnóstico, tratamiento y rehabilitación de enfermedades relacionadas con el trabajo, y con las Administraciones sanitarias competentes en la actividad de salud laboral que se planifique, siendo las unidades responsables de salud pública del Área de Salud, que define la Ley General de Sanidad, las competentes para la coordinación entre los servicios de prevención que actúen en esa Area y el sistema sanitario. Esta coordinación será desarrollada por las Comunidades Autónomas en el ámbito de sus competencias.
+1. De acuerdo con lo establecido en el artículo 10 de la [Ley 31/1995](./L31_1995_prevencion_riesgos_laborales.md), de Prevención de Riesgos Laborales, y artículo 21 de la Ley 14/1986, General de Sanidad, el servicio de prevención colaborará con los servicios de atención primaria de salud y de asistencia sanitaria especializada para el diagnóstico, tratamiento y rehabilitación de enfermedades relacionadas con el trabajo, y con las Administraciones sanitarias competentes en la actividad de salud laboral que se planifique, siendo las unidades responsables de salud pública del Área de Salud, que define la Ley General de Sanidad, las competentes para la coordinación entre los servicios de prevención que actúen en esa Area y el sistema sanitario. Esta coordinación será desarrollada por las Comunidades Autónomas en el ámbito de sus competencias.
 
 2. El servicio de prevención colaborará en las campañas sanitarias y epidemiológicas organizadas por las Administraciones públicas competentes en materia sanitaria.
 

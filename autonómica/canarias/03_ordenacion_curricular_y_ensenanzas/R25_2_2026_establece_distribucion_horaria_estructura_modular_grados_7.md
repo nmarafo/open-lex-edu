@@ -63,7 +63,7 @@ fuente_pdf_oficial: https://sede.gobiernodecanarias.org/boc/boc-a-2026-046-750.p
 III. Otras Resoluciones
 Consejería de Educación, Formación Profesional, Actividad Física y Deportes
 750 Viceconsejería de Formación Profesional y Cualificaciones Profesionales.- 
-Resolución de 25 de febrero de 2026, por la que se establece la distribución 
+[Resolución de 25 de febrero de 2026](./R25_2_2026_establece_distribucion_horaria_estructura_modular_grados.md), por la que se establece la distribución 
 horaria y estructura modular de los Grados C (Certificados Profesionales) y sus 
 correspondientes Grados B (Certificados de Competencia), de niveles 2 y 3, de las 
 familias profesionales de Industrias Alimentarias; Seguridad y Medio Ambiente; 
@@ -185,13 +185,13 @@ la Resolución de 21 de febrero de 2025, que dicta instrucciones para la implant
 
 itinerarios formativos de Formación Profesional Adaptada y el desarrollo de los currículos 
 de los módulos de carácter general a partir del curso escolar 2024/2025, en el ámbito de la 
-Comunidad Autónoma de Canarias, y la Resolución de 30 de octubre de 2024, por la que 
+Comunidad Autónoma de Canarias, y la [Resolución de 30 de octubre de 2024](./R30_10_2024_dictan_instrucciones_orientaciones_implantacion_desarrollo_grados.md), por la que 
 se dictan instrucciones y orientaciones para la implantación y desarrollo de los Grados 
 de Formación D y E, a partir del curso escolar 2024/2025, y se establece la distribución 
 horaria y modular de los currículos, en el ámbito de la Comunidad Autónoma de Canarias.
 En atención a lo anteriormente indicado, en ejercicio de las competencias atribuidas a 
 la Viceconsejería de Formación Profesional y Cualificaciones Profesionales en el artículo 
-9, apartado 2, del Decreto 84/2024, de 10 de junio, por el que se aprueba el Reglamento 
+9, apartado 2, del [Decreto 84/2024](../01_marco_normativo_general_y_organico/D84_2024_aprueba_reglamento_organico_formacion_profesional_actividad.md), de 10 de junio, por el que se aprueba el Reglamento 
 Orgánico de la Consejería de Educación, Formación Profesional, Actividad Física y 
 Deportes, y el desempeño de las funciones previstas en los artículos 11 y 20.1 del Decreto 
 212/1991, de 11 de septiembre, de organización de los Departamentos de la Administración 

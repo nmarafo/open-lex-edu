@@ -41,13 +41,13 @@ fundamentos_derecho:
 
 La Ley 10/1990, de 15 de octubre, del Deporte, encomendó al Gobierno la regulación de las enseñanzas de los técnicos deportivos según las exigencias marcadas por los distintos niveles educativos. En cumplimiento de dicho mandato se dictó el Real Decreto 594/1994, de 8 de abril, sobre enseñanzas y títulos de los técnicos deportivos. La [Ley Orgánica 1/1990](../02_gestion_y_administracion_centros/LO1_1990_regula_regimen_equivalencias_estudios_basicos_medios.md), de 3 de octubre, de Ordenación General del Sistema Educativo, posibilitó en su artículo 3.4 el establecimiento de nuevas enseñanzas de régimen especial. De acuerdo con dicho precepto se dictó el [Real Decreto 1913/1997](RD454_2002_ecd_establecen_elementos_basicos_informes_evaluacion.md), de 19 de diciembre, por el que se configuran como enseñanzas de régimen especial las conducentes a la obtención de titulaciones de técnicos deportivos, se aprueban las directrices generales de los títulos y de las correspondientes enseñanzas mínimas, norma que vino a corregir las limitaciones que establecía el Real Decreto 594/1994 en el desarrollo de los técnicos deportivos. La consideración de las enseñanzas deportivas como enseñanzas de régimen especial se recogió también en la Ley Orgánica 10/2002, de 23 de diciembre, de Calidad de la Educación. Su imbricación en el sistema educativo se define fundamentalmente en la [Ley Orgánica 2/2006](../01_marco_normativo_general_y_organico/LO2_2006_educacion_texto_consolidado_modificaciones_lomloe.md), de 3 de mayo, de Educación, que da a estas enseñanzas un tratamiento similar al de las demás enseñanzas que ofrece el sistema educativo.
 
-La [Ley Orgánica 5/2002](LO5_2002_cualificaciones_formacion_profesional.md), de 19 de junio, de las Cualificaciones y de la Formación Profesional, establece el Sistema Nacional de Cualificaciones y Formación Profesional como marco de las acciones formativas dirigidas a responder a las demandas del sector productivo. La actividad física y el deporte es un sector relevante a efectos económicos, posee un gran dinamismo, capacidad de crecimiento y ofrece una gran diversidad de servicios, entre ellos el deportivo. Este crecimiento hace indispensable la profesionalización de los recursos humanos, junto con un incremento de las competencias exigidas a los técnicos. Algunas modalidades de las enseñanzas deportivas tienen características que permiten relacionarlas con el concepto genérico de formación profesional, sin que por ello se deba renunciar a su condición de oferta específica dirigida al sistema deportivo y diferenciada de la oferta que, dentro de la formación profesional del sistema educativo, realiza la familia profesional de Actividades Físicas y Deportivas para el resto del sector. Por ello, la citada Ley Orgánica 2/2006, de 3 de mayo, de Educación establece la posibilidad de que las enseñanzas deportivas se refieran al Catálogo Nacional de Cualificaciones Profesionales.
+La [Ley Orgánica 5/2002](LO5_2002_cualificaciones_formacion_profesional.md), de 19 de junio, de las Cualificaciones y de la Formación Profesional, establece el Sistema Nacional de Cualificaciones y Formación Profesional como marco de las acciones formativas dirigidas a responder a las demandas del sector productivo. La actividad física y el deporte es un sector relevante a efectos económicos, posee un gran dinamismo, capacidad de crecimiento y ofrece una gran diversidad de servicios, entre ellos el deportivo. Este crecimiento hace indispensable la profesionalización de los recursos humanos, junto con un incremento de las competencias exigidas a los técnicos. Algunas modalidades de las enseñanzas deportivas tienen características que permiten relacionarlas con el concepto genérico de formación profesional, sin que por ello se deba renunciar a su condición de oferta específica dirigida al sistema deportivo y diferenciada de la oferta que, dentro de la formación profesional del sistema educativo, realiza la familia profesional de Actividades Físicas y Deportivas para el resto del sector. Por ello, la citada [Ley Orgánica 2/2006](../01_marco_normativo_general_y_organico/LO2_2006_educacion_texto_consolidado_modificaciones_lomloe.md), de 3 de mayo, de Educación establece la posibilidad de que las enseñanzas deportivas se refieran al Catálogo Nacional de Cualificaciones Profesionales.
 
 El modelo organizativo del deporte en España se organiza a partir de los órganos de las Comunidades Autónomas competentes en materia de deportes y del propio Consejo Superior de Deportes, apoyándose en la estructura formada por los clubes y asociaciones deportivas, agrupadas en federaciones de ámbito territorial y nacional, alrededor de la práctica competitiva de una o varias modalidades o especialidades deportivas, sin que ello descarte la práctica recreativa. Existe una clara intervención desde la Administración en esta estructura a través de los programas de promoción y tecnificación deportiva, y de los dirigidos a la alta competición. Dentro de esta estructura, y durante el proceso de iniciación deportiva y especialización técnica dirigido hacia el alto rendimiento del deportista, el técnico deportivo es una de las figuras clave. El técnico asume, en cada una de las etapas, la función de dirigir el proceso y colabora en implementar los medios necesarios para conseguir los objetivos que se plantean, tanto formativos como de rendimiento.
 
 La Ley 10/1990, de 15 de octubre, del Deporte, establece en su artículo 33 las funciones de las federaciones deportivas españolas, entre las que figuran la de colaborar con la Administración del Estado y la de las Comunidades Autónomas en la formación de técnicos deportivos, así como diseñar, elaborar y ejecutar, en colaboración con las federaciones de ámbito autonómico, los planes de preparación de los deportistas de alto nivel en su respectiva modalidad deportiva. Esta doble responsabilidad, unida al carácter que tienen las federaciones deportivas de máximos demandantes de los técnicos de alto nivel y al hecho de que dichas federaciones son las titulares o responsables de los entornos de práctica (equipos nacionales, etc.) utilizados para la formación de los mismos, hace necesaria la participación de las federaciones deportivas españolas en la formación de los técnicos deportivos.
 
-La Ley Orgánica 2/2006, de 3 de mayo, de Educación, dispone en su Capítulo VIII que el Gobierno, previa consulta a las Comunidades Autónomas, establecerá las titulaciones correspondientes a los estudios de enseñanzas deportivas, los aspectos básicos del currículo y los requisitos mínimos de los centros. La ley regula las enseñanzas deportivas, que se organizan tomando como base las modalidades y especialidades deportivas reconocidas por el Consejo Superior de Deportes, y que tienen como finalidad preparar a los alumnos para la actividad profesional en relación con una modalidad o especialidad deportiva, así como facilitar su adaptación a la evolución del mundo laboral y deportivo y a la ciudadanía activa. Esta ley supone un compromiso decidido por la mejora de la calidad de las enseñanzas deportivas y su adecuación a la realidad del sistema deportivo español. La ley determina el carácter secuencial de estas enseñanzas, las vincula a la práctica deportiva activa al abrir la posibilidad del exigir la superación de una prueba de carácter técnico o la acreditación de un mérito deportivo, y favorece la vinculación al resto de enseñanzas, incluida la universitaria. Todo ello supone el reconocimiento de la estructura de las enseñanzas deportivas establecida en el Real Decreto 1913/1997, de 19 de diciembre. Asimismo, fomenta una mayor flexibilidad del sistema e impulsa el aprendizaje a lo largo de la vida ofreciendo posibilidades a las personas jóvenes y adultas de combinar el estudio y la formación con la actividad laboral o con otras actividades.
+La [Ley Orgánica 2/2006](../01_marco_normativo_general_y_organico/LO2_2006_educacion_texto_consolidado_modificaciones_lomloe.md), de 3 de mayo, de Educación, dispone en su Capítulo VIII que el Gobierno, previa consulta a las Comunidades Autónomas, establecerá las titulaciones correspondientes a los estudios de enseñanzas deportivas, los aspectos básicos del currículo y los requisitos mínimos de los centros. La ley regula las enseñanzas deportivas, que se organizan tomando como base las modalidades y especialidades deportivas reconocidas por el Consejo Superior de Deportes, y que tienen como finalidad preparar a los alumnos para la actividad profesional en relación con una modalidad o especialidad deportiva, así como facilitar su adaptación a la evolución del mundo laboral y deportivo y a la ciudadanía activa. Esta ley supone un compromiso decidido por la mejora de la calidad de las enseñanzas deportivas y su adecuación a la realidad del sistema deportivo español. La ley determina el carácter secuencial de estas enseñanzas, las vincula a la práctica deportiva activa al abrir la posibilidad del exigir la superación de una prueba de carácter técnico o la acreditación de un mérito deportivo, y favorece la vinculación al resto de enseñanzas, incluida la universitaria. Todo ello supone el reconocimiento de la estructura de las enseñanzas deportivas establecida en el [Real Decreto 1913/1997](./RD454_2002_ecd_establecen_elementos_basicos_informes_evaluacion.md), de 19 de diciembre. Asimismo, fomenta una mayor flexibilidad del sistema e impulsa el aprendizaje a lo largo de la vida ofreciendo posibilidades a las personas jóvenes y adultas de combinar el estudio y la formación con la actividad laboral o con otras actividades.
 
 Este real decreto establece la ordenación de las enseñanzas conducentes a los títulos de Técnico deportivo y de Técnico deportivo superior. Las enseñanzas se organizan en ciclos jerarquizados, tomando como base las modalidades y especialidades deportivas reconocidas por el Consejo Superior de Deportes. A su vez se organizan en módulos y bloques de formación deportiva. La superación del ciclo anterior es requisito para el acceso al siguiente, permitiendo la asimilación y consolidación progresiva del conocimiento en situaciones reales de entrenamiento o competición.
 
@@ -67,7 +67,7 @@ Las disposiciones adicionales quinta, sexta y séptima regulan los criterios y c
 
 La disposición transitoria primera ordena la formación de los entrenadores hasta que se desarrollen las enseñanzas oficiales de su modalidad o especialidad deportiva, contando con la participación de los órganos competentes de deportes de las Comunidades Autónomas y de las federaciones deportivas correspondientes, y previendo su correspondencia formativa con la formación oficial.
 
-Las enseñanzas deportivas establecidas al amparo de lo dispuesto en el Real Decreto 1913/1997, de 19 de diciembre, se seguirán impartiendo conforme a lo previsto en sus respectivos reales decretos y les serán de aplicación determinadas medidas dirigidas a flexibilizar la oferta y facilitar la incorporación de los deportistas de alto rendimiento y otros colectivos propios de la modalidad correspondiente.
+Las enseñanzas deportivas establecidas al amparo de lo dispuesto en el [Real Decreto 1913/1997](./RD454_2002_ecd_establecen_elementos_basicos_informes_evaluacion.md), de 19 de diciembre, se seguirán impartiendo conforme a lo previsto en sus respectivos reales decretos y les serán de aplicación determinadas medidas dirigidas a flexibilizar la oferta y facilitar la incorporación de los deportistas de alto rendimiento y otros colectivos propios de la modalidad correspondiente.
 
 Finalmente, este real decreto desarrolla, en el ámbito de las enseñanzas deportivas, las previsiones contenidas en la Ley 51/2003, de 2 de diciembre de igualdad de oportunidades, no discriminación y accesibilidad universal de las personas con discapacidad.
 
@@ -83,11 +83,11 @@ Finalidad, objetivos y principios de las enseñanzas deportivas
 
 #### Artículo 1. Finalidad.
 
-Conforme a lo previsto en el artículo 63.1 de la Ley Orgánica 2/2006, de 3 de mayo, de Educación, las enseñanzas deportivas tienen como finalidad preparar a los alumnos para la actividad profesional en el sistema deportivo en relación con una modalidad o especialidad deportiva, y facilitar la adaptación de los técnicos formados a la evolución del mundo laboral y deportivo y a la ciudadanía activa.
+Conforme a lo previsto en el artículo 63.1 de la [Ley Orgánica 2/2006](../01_marco_normativo_general_y_organico/LO2_2006_educacion_texto_consolidado_modificaciones_lomloe.md), de 3 de mayo, de Educación, las enseñanzas deportivas tienen como finalidad preparar a los alumnos para la actividad profesional en el sistema deportivo en relación con una modalidad o especialidad deportiva, y facilitar la adaptación de los técnicos formados a la evolución del mundo laboral y deportivo y a la ciudadanía activa.
 
 #### Artículo 2. Objetivos de las enseñanzas deportivas.
 
-1. De acuerdo a lo previsto en el artículo 63.2 de la Ley Orgánica 2/2006, de 3 de mayo, de Educación, las enseñanzas deportivas contribuirán a conseguir en los alumnos las capacidades que les permitan:
+1. De acuerdo a lo previsto en el artículo 63.2 de la [Ley Orgánica 2/2006](../01_marco_normativo_general_y_organico/LO2_2006_educacion_texto_consolidado_modificaciones_lomloe.md), de 3 de mayo, de Educación, las enseñanzas deportivas contribuirán a conseguir en los alumnos las capacidades que les permitan:
 
 a) Desarrollar la competencia general correspondiente al perfil profesional definido en el título respectivo.
 
@@ -113,13 +113,13 @@ h) Capacitar para el desempeño de actividades e iniciativas empresariales.
 
 2. La organización y diseño de las enseñanzas conducentes a títulos de enseñanza deportiva tendrán en cuenta la transversalidad de los conocimientos y capacidades.
 
-3. El diseño de las enseñanzas deportivas conducentes a títulos se realizará de forma que facilite el reconocimiento y la capitalización de la formación adquirida durante la práctica deportiva de la modalidad o especialidad, la experiencia laboral u otras vías no formales de formación. Este reconocimiento, para la formación asociada al Catálogo Nacional de Cualificaciones, se realizará por el procedimiento que se establezca en desarrollo del artículo 8.3 de la Ley Orgánica 5/2002, de 19 de junio, de las Cualificaciones y la Formación Profesional.
+3. El diseño de las enseñanzas deportivas conducentes a títulos se realizará de forma que facilite el reconocimiento y la capitalización de la formación adquirida durante la práctica deportiva de la modalidad o especialidad, la experiencia laboral u otras vías no formales de formación. Este reconocimiento, para la formación asociada al Catálogo Nacional de Cualificaciones, se realizará por el procedimiento que se establezca en desarrollo del artículo 8.3 de la [Ley Orgánica 5/2002](./LO5_2002_cualificaciones_formacion_profesional.md), de 19 de junio, de las Cualificaciones y la Formación Profesional.
 
 4. La formación conducente a títulos de enseñanza deportiva tiene carácter secuencial.
 
-5. De acuerdo con lo dispuesto en el artículo 3.6 de la Ley Orgánica 2/2006, de 3 de mayo, de Educación, se establece que las enseñanzas deportivas tienen carácter de enseñanzas de régimen especial.
+5. De acuerdo con lo dispuesto en el artículo 3.6 de la [Ley Orgánica 2/2006](../01_marco_normativo_general_y_organico/LO2_2006_educacion_texto_consolidado_modificaciones_lomloe.md), de 3 de mayo, de Educación, se establece que las enseñanzas deportivas tienen carácter de enseñanzas de régimen especial.
 
-6. De acuerdo con lo dispuesto en el artículo 64.1 de la Ley Orgánica 2/2006, de 3 de mayo, de Educación, las enseñanzas deportivas podrán estar referidas al Catálogo Nacional de las Cualificaciones Profesionales, en la medida en que éste recoja las necesidades y los perfiles competenciales propios del sistema deportivo y dé respuesta a las necesidades del contexto deportivo-laboral de la modalidad de que se trate.
+6. De acuerdo con lo dispuesto en el artículo 64.1 de la [Ley Orgánica 2/2006](../01_marco_normativo_general_y_organico/LO2_2006_educacion_texto_consolidado_modificaciones_lomloe.md), de 3 de mayo, de Educación, las enseñanzas deportivas podrán estar referidas al Catálogo Nacional de las Cualificaciones Profesionales, en la medida en que éste recoja las necesidades y los perfiles competenciales propios del sistema deportivo y dé respuesta a las necesidades del contexto deportivo-laboral de la modalidad de que se trate.
 
 CAPÍTULO II
 
@@ -127,13 +127,13 @@ Ordenación de las enseñanzas deportivas
 
 #### Artículo 4. Estructura de las enseñanzas deportivas.
 
-1. Las enseñanzas deportivas se estructurarán en dos grados: grado medio y grado superior, según lo dispuesto en el artículo 64. 1 de la Ley Orgánica 2/2006, de 3 de mayo, de Educación.
+1. Las enseñanzas deportivas se estructurarán en dos grados: grado medio y grado superior, según lo dispuesto en el artículo 64. 1 de la [Ley Orgánica 2/2006](../01_marco_normativo_general_y_organico/LO2_2006_educacion_texto_consolidado_modificaciones_lomloe.md), de 3 de mayo, de Educación.
 
-2. De acuerdo con lo dispuesto en el artículo 3 de la Ley Orgánica 2/2006, de 3 de mayo, de Educación, las enseñanzas deportivas de grado medio y de grado superior forman parte de la educación secundaria postobligatoria y de la educación superior, respectivamente.
+2. De acuerdo con lo dispuesto en el artículo 3 de la [Ley Orgánica 2/2006](../01_marco_normativo_general_y_organico/LO2_2006_educacion_texto_consolidado_modificaciones_lomloe.md), de 3 de mayo, de Educación, las enseñanzas deportivas de grado medio y de grado superior forman parte de la educación secundaria postobligatoria y de la educación superior, respectivamente.
 
 #### Artículo 5. Organización básica de las enseñanzas deportivas.
 
-1. Conforme a lo previsto en el artículo 63.3 de la Ley Orgánica 2/2006, de 3 de mayo, de Educación, las enseñanzas deportivas se organizarán tomando como base las modalidades deportivas y, en su caso, sus especialidades, de conformidad con el reconocimiento otorgado por el Consejo Superior de Deportes de acuerdo con el artículo 8 b) de la Ley 10 /1990, de 15 de octubre, del Deporte.
+1. Conforme a lo previsto en el artículo 63.3 de la [Ley Orgánica 2/2006](../01_marco_normativo_general_y_organico/LO2_2006_educacion_texto_consolidado_modificaciones_lomloe.md), de 3 de mayo, de Educación, las enseñanzas deportivas se organizarán tomando como base las modalidades deportivas y, en su caso, sus especialidades, de conformidad con el reconocimiento otorgado por el Consejo Superior de Deportes de acuerdo con el artículo 8 b) de la Ley 10 /1990, de 15 de octubre, del Deporte.
 
 2. Las enseñanzas deportivas se organizarán en ciclos de enseñanza deportiva:
 
@@ -281,9 +281,9 @@ El currículo
 
 1. A los efectos de lo dispuesto en este real decreto, se entiende por currículo el conjunto de objetivos, competencias básicas, contenidos, métodos pedagógicos y criterios de evaluación establecidos para cada ciclo de enseñanza deportiva.
 
-2. Conforme a lo dispuesto en el artículo 63.4 de la Ley Orgánica 2/2006, de 3 de mayo, de Educación, el currículo de las enseñanzas deportivas se ajustará a las exigencias derivadas del Sistema Nacional de Cualificaciones y Formación Profesional y a lo establecido en el artículo 6.3 de la citada ley.
+2. Conforme a lo dispuesto en el artículo 63.4 de la [Ley Orgánica 2/2006](../01_marco_normativo_general_y_organico/LO2_2006_educacion_texto_consolidado_modificaciones_lomloe.md), de 3 de mayo, de Educación, el currículo de las enseñanzas deportivas se ajustará a las exigencias derivadas del Sistema Nacional de Cualificaciones y Formación Profesional y a lo establecido en el artículo 6.3 de la citada ley.
 
-3. Las Administraciones competentes establecerán el currículo de las modalidades y, en su caso, especialidades deportivas, de acuerdo con lo previsto en el artículo 6.4 de la Ley Orgánica 2/2006, de 3 de mayo, de Educación, teniendo en cuenta la realidad del sistema deportivo en el territorio de su competencia con la finalidad de que las enseñanzas respondan a sus necesidades de cualificación.
+3. Las Administraciones competentes establecerán el currículo de las modalidades y, en su caso, especialidades deportivas, de acuerdo con lo previsto en el artículo 6.4 de la [Ley Orgánica 2/2006](../01_marco_normativo_general_y_organico/LO2_2006_educacion_texto_consolidado_modificaciones_lomloe.md), de 3 de mayo, de Educación, teniendo en cuenta la realidad del sistema deportivo en el territorio de su competencia con la finalidad de que las enseñanzas respondan a sus necesidades de cualificación.
 
 4. La ampliación y contextualización de los contenidos se referirá a la formación asociada y no asociada a las cualificaciones y unidades de competencia del Catálogo Nacional de las Cualificaciones Profesionales e incluidas en el título, respetando el perfil profesional del mismo y sin perjuicio alguno para la movilidad del alumnado.
 
@@ -407,7 +407,7 @@ La evaluación final para cada uno de los módulos de enseñanza deportiva cursa
 
 1. Los centros que impartan enseñanzas deportivas a distancia deberán contar con autorización previa para impartir esas mismas enseñanzas en régimen presencial.
 
-2. Las Administraciones educativas, en el ámbito de sus competencias, podrán adoptar las medidas necesarias y dictar las instrucciones precisas a los centros de su ámbito territorial para la puesta en marcha y funcionamiento de la oferta de módulos de enseñanza deportiva a distancia, con el fin de que puedan disponer de los espacios, equipamiento, recursos y profesorado que garanticen la calidad de estas enseñanzas. Asimismo, dichos centros deberán contar con los materiales curriculares adecuados y se adaptarán a lo preceptuado en la disposición adicional cuarta de la Ley Orgánica 2/2006, de 3 de mayo, de Educación.
+2. Las Administraciones educativas, en el ámbito de sus competencias, podrán adoptar las medidas necesarias y dictar las instrucciones precisas a los centros de su ámbito territorial para la puesta en marcha y funcionamiento de la oferta de módulos de enseñanza deportiva a distancia, con el fin de que puedan disponer de los espacios, equipamiento, recursos y profesorado que garanticen la calidad de estas enseñanzas. Asimismo, dichos centros deberán contar con los materiales curriculares adecuados y se adaptarán a lo preceptuado en la disposición adicional cuarta de la [Ley Orgánica 2/2006](../01_marco_normativo_general_y_organico/LO2_2006_educacion_texto_consolidado_modificaciones_lomloe.md), de 3 de mayo, de Educación.
 
 CAPÍTULO VIII
 
@@ -473,7 +473,7 @@ En todos los casos serán positivas las calificaciones iguales o superiores a ci
 
 #### Artículo 33. Acceso de los deportistas de alto rendimiento a las enseñanzas deportivas.
 
-1. De acuerdo con lo previsto en los artículos 67 y 85 de la Ley Orgánica 2/2006, de 3 de mayo, de Educación, y en el artículo 53 de la Ley 10/1990, de 15 de octubre, del Deporte, quienes acrediten la condición de deportista de alto nivel o deportista de alto rendimiento estarán exentos de cumplir los requisitos de carácter específico para tener acceso a las enseñanzas deportivas en la modalidad o especialidad correspondiente.
+1. De acuerdo con lo previsto en los artículos 67 y 85 de la [Ley Orgánica 2/2006](../01_marco_normativo_general_y_organico/LO2_2006_educacion_texto_consolidado_modificaciones_lomloe.md), de 3 de mayo, de Educación, y en el artículo 53 de la Ley 10/1990, de 15 de octubre, del Deporte, quienes acrediten la condición de deportista de alto nivel o deportista de alto rendimiento estarán exentos de cumplir los requisitos de carácter específico para tener acceso a las enseñanzas deportivas en la modalidad o especialidad correspondiente.
 
 2. El real decreto que establezca el título y las enseñanzas mínimas determinará la acreditación de competencias relacionadas con los requisitos de carácter específico que proceda otorgar a aquellos deportistas con licencia expedida u homologada por la respectiva Federación deportiva española, que cumplan alguna de las siguientes condiciones:
 
@@ -525,7 +525,7 @@ El Gobierno, previa consulta a las Comunidades Autónomas, establecerá las conv
 
 #### Artículo 38. Convalidaciones entre módulos de enseñanza deportiva de grado superior y las enseñanzas universitarias.
 
-El Gobierno, oído el Consejo de Universidades, establecerá las convalidaciones entre estudios universitarios y estudios de enseñanzas deportivas de grado superior, conforme a lo dispuesto en el artículo 65.4 de la Ley Orgánica 2/2006, de 3 de mayo, de Educación.
+El Gobierno, oído el Consejo de Universidades, establecerá las convalidaciones entre estudios universitarios y estudios de enseñanzas deportivas de grado superior, conforme a lo dispuesto en el artículo 65.4 de la [Ley Orgánica 2/2006](../01_marco_normativo_general_y_organico/LO2_2006_educacion_texto_consolidado_modificaciones_lomloe.md), de 3 de mayo, de Educación.
 
 #### Artículo 39. Exención del módulo de formación práctica.
 
@@ -539,7 +539,7 @@ a) Cualquier otro título de las enseñanzas deportivas o de formación profesio
 
 b) Certificado de profesionalidad.
 
-c) Acreditación parcial conforme a lo que se establezca en cumplimiento de lo previsto en el artículo 8.3 de la Ley Orgánica 5/2002, de 19 de junio, de las Cualificaciones y de la Formación Profesional.
+c) Acreditación parcial conforme a lo que se establezca en cumplimiento de lo previsto en el artículo 8.3 de la [Ley Orgánica 5/2002](./LO5_2002_cualificaciones_formacion_profesional.md), de 19 de junio, de las Cualificaciones y de la Formación Profesional.
 
 #### Artículo 41. Validez de los módulos de enseñanza deportiva del bloque común.
 
@@ -577,7 +577,7 @@ a) Centros de formación públicos o privados, autorizados por la Administració
 
 b) Los centros integrados de formación profesional, que deberán cumplir los requisitos establecidos por la norma que determine los títulos y las enseñanzas mínimas de la modalidad o especialidad correspondiente.
 
-c) Los centros de referencia nacional especializados en el sector deportivo a los que hace referencia el artículo 11.7 de la Ley Orgánica 5/2002, de 19 de junio, de las Cualificaciones y de la Formación Profesional. Los centros de referencia nacional en los que se impartan enseñanzas deportivas deberán cumplir, además de lo que se establezca en la norma específica que regule dichos centros en desarrollo de la Ley Orgánica 5/2002, de 19 de junio de las Cualificaciones y de la Formación Profesional, los fijados en este real decreto y los que determinen las normas que regulen los títulos y enseñanzas mínimas de la modalidad o especialidad deportiva.
+c) Los centros de referencia nacional especializados en el sector deportivo a los que hace referencia el artículo 11.7 de la [Ley Orgánica 5/2002](./LO5_2002_cualificaciones_formacion_profesional.md), de 19 de junio, de las Cualificaciones y de la Formación Profesional. Los centros de referencia nacional en los que se impartan enseñanzas deportivas deberán cumplir, además de lo que se establezca en la norma específica que regule dichos centros en desarrollo de la [Ley Orgánica 5/2002](./LO5_2002_cualificaciones_formacion_profesional.md), de 19 de junio de las Cualificaciones y de la Formación Profesional, los fijados en este real decreto y los que determinen las normas que regulen los títulos y enseñanzas mínimas de la modalidad o especialidad deportiva.
 
 d) Los centros docentes del sistema de enseñanza militar, en virtud de los convenios establecidos entre los Ministerios de Educación y Ciencia y de Defensa.
 
@@ -605,11 +605,11 @@ En el caso de una red de una misma titularidad, conformada por un centro base y 
 
 #### Artículo 49. Requisitos de titulación del profesorado.
 
-1. En aplicación de lo establecido en el artículo 98 y 100 de la Ley Orgánica 2/2006, de 3 de mayo, de Educación, para ejercer la docencia de las enseñanzas que se regulan en este real decreto se requiere:
+1. En aplicación de lo establecido en el artículo 98 y 100 de la [Ley Orgánica 2/2006](../01_marco_normativo_general_y_organico/LO2_2006_educacion_texto_consolidado_modificaciones_lomloe.md), de 3 de mayo, de Educación, para ejercer la docencia de las enseñanzas que se regulan en este real decreto se requiere:
 
-a) Para los módulos de enseñanza deportiva del bloque común: estar en posesión del título de licenciado, ingeniero, arquitecto o título de grado correspondiente o las titulaciones que, a efectos de esta docencia, se declaren equivalentes, junto con la formación pedagógica y didáctica conforme a la normativa que desarrolle el artículo 100 de la Ley Orgánica 2/2006, de 3 de mayo, de Educación.
+a) Para los módulos de enseñanza deportiva del bloque común: estar en posesión del título de licenciado, ingeniero, arquitecto o título de grado correspondiente o las titulaciones que, a efectos de esta docencia, se declaren equivalentes, junto con la formación pedagógica y didáctica conforme a la normativa que desarrolle el artículo 100 de la [Ley Orgánica 2/2006](../01_marco_normativo_general_y_organico/LO2_2006_educacion_texto_consolidado_modificaciones_lomloe.md), de 3 de mayo, de Educación.
 
-b) Para los módulos de enseñanza deportiva del bloque específico: estar en posesión del título de licenciado, ingeniero, arquitecto o título de grado correspondiente o las titulaciones que, a efectos de esta docencia, se declaren equivalentes, junto con la formación pedagógica y didáctica conforme a la normativa que desarrolle el artículo 100 de la Ley Orgánica 2/2006, de 3 de mayo, de Educación.
+b) Para los módulos de enseñanza deportiva del bloque específico: estar en posesión del título de licenciado, ingeniero, arquitecto o título de grado correspondiente o las titulaciones que, a efectos de esta docencia, se declaren equivalentes, junto con la formación pedagógica y didáctica conforme a la normativa que desarrolle el artículo 100 de la [Ley Orgánica 2/2006](../01_marco_normativo_general_y_organico/LO2_2006_educacion_texto_consolidado_modificaciones_lomloe.md), de 3 de mayo, de Educación.
 
 c) Además podrán impartir los módulos de enseñanza deportiva del bloque especifico: quienes posean el título de Técnico deportivo superior en la correspondiente modalidad y, en su caso, especialidad deportiva; quienes posean el título de Técnico deportivo en el caso de modalidades deportivas que solamente tengan aprobados los títulos y enseñanzas mínimas de grado medio; quienes estén autorizados por las Administraciones educativas de conformidad con lo previsto en el artículo 51.1.c).
 
@@ -655,9 +655,9 @@ Sin perjuicio de su especialización, los títulos y enseñanzas mínimas de má
 
 Además, en su caso, el tribunal podrá adaptar los requisitos y pruebas de acceso de carácter específico que deban superar los aspirantes que, en todo caso, deberán respetar lo esencial de los objetivos generales fijados en el artículo 3 y los objetivos que para el ciclo y grado de cada título se establezcan en la norma que apruebe el referido título y sus enseñanzas mínimas.
 
-#### Disposición adicional cuarta. Equivalencia de los títulos establecidos con anterioridad a la Ley Orgánica 2/2006, de 3 de mayo, de Educación.
+#### Disposición adicional cuarta. Equivalencia de los títulos establecidos con anterioridad a la [Ley Orgánica 2/2006](../01_marco_normativo_general_y_organico/LO2_2006_educacion_texto_consolidado_modificaciones_lomloe.md), de 3 de mayo, de Educación.
 
-Los títulos de Técnico deportivo y Técnico deportivo superior establecidos con anterioridad a la Ley Orgánica 2/2006, de 3 de mayo, de Educación, serán equivalentes a todos los efectos a los correspondientes de grado medio y grado superior de las enseñanzas establecidas por la citada Ley Orgánica, 2/2006, de 3 de mayo, de Educación.
+Los títulos de Técnico deportivo y Técnico deportivo superior establecidos con anterioridad a la [Ley Orgánica 2/2006](../01_marco_normativo_general_y_organico/LO2_2006_educacion_texto_consolidado_modificaciones_lomloe.md), de 3 de mayo, de Educación, serán equivalentes a todos los efectos a los correspondientes de grado medio y grado superior de las enseñanzas establecidas por la citada Ley Orgánica, 2/2006, de 3 de mayo, de Educación.
 
 #### Disposición adicional quinta. Efectos de las formaciones de entrenadores deportivos.
 
@@ -667,11 +667,11 @@ Podrán ser objeto de reconocimiento las formaciones, diplomas y certificados de
 
 a) Que las formaciones hayan sido promovidas y los diplomas o certificados expedidos por los órganos competentes de las Comunidades Autónomas o por las Federaciones deportivas, en el ejercicio de las competencias reconocidas en sus estatutos y reglamentos.
 
-b) Que las formaciones hayan sido promovidas hasta el día 15 de julio de 1999, fecha en la que entró en vigor la Orden de 5 de julio de 1999, por la que se completan los aspectos curriculares y los requisitos generales de las formaciones en materia deportiva a las que se refiere la disposición transitoria primera del Real Decreto 1913/1997, de 19 de diciembre.
+b) Que las formaciones hayan sido promovidas hasta el día 15 de julio de 1999, fecha en la que entró en vigor la Orden de 5 de julio de 1999, por la que se completan los aspectos curriculares y los requisitos generales de las formaciones en materia deportiva a las que se refiere la disposición transitoria primera del [Real Decreto 1913/1997](./RD454_2002_ecd_establecen_elementos_basicos_informes_evaluacion.md), de 19 de diciembre.
 
 c) Que se refieran exclusivamente a las modalidades y especialidades deportivas que estuvieran reconocidas por el Consejo Superior de Deportes, de acuerdo con el artículo 8, b) de la Ley 10/1990, del Deporte.
 
-Las entidades a las que se refiere el apartado a) acreditarán ante el Consejo Superior de Deportes las formaciones promovidas y los certificados y diplomas expedidos, de acuerdo con lo previsto en la norma que establezca el título y enseñanzas mínimas y en la Orden de 30 de julio de 1999, por la que se regula el procedimiento para el reconocimiento de entrenadores deportivos a los que se refieren el artículo 42 y la disposición transitoria primera del Real Decreto 1913/1997, de 19 de diciembre, o norma que la sustituya.
+Las entidades a las que se refiere el apartado a) acreditarán ante el Consejo Superior de Deportes las formaciones promovidas y los certificados y diplomas expedidos, de acuerdo con lo previsto en la norma que establezca el título y enseñanzas mínimas y en la Orden de 30 de julio de 1999, por la que se regula el procedimiento para el reconocimiento de entrenadores deportivos a los que se refieren el artículo 42 y la disposición transitoria primera del [Real Decreto 1913/1997](./RD454_2002_ecd_establecen_elementos_basicos_informes_evaluacion.md), de 19 de diciembre, o norma que la sustituya.
 
 2. Las propuestas de homologación, convalidación y equivalencia se adoptarán sobre la base de los siguientes criterios:
 
@@ -695,7 +695,7 @@ g) En los casos de convalidación, se requerirá el título académico y edad re
 
 3. Para la tramitación y resolución de los expedientes individuales se tendrá en cuenta lo siguiente:
 
-b) La tramitación de los expedientes se ajustará al procedimiento que dispone la Orden ECD/189/2004, de 21 de enero, por la que se regula el procedimiento de tramitación de los expedientes de homologación, convalidación y equivalencia a efectos profesionales, de las formaciones de entrenadores deportivos, por las enseñanzas deportivas de régimen especial, a los efectos de lo previsto en el artículo 42 del Real Decreto 1913/1997, de 19 de diciembre, o norma que la sustituya.
+b) La tramitación de los expedientes se ajustará al procedimiento que dispone la Orden ECD/189/2004, de 21 de enero, por la que se regula el procedimiento de tramitación de los expedientes de homologación, convalidación y equivalencia a efectos profesionales, de las formaciones de entrenadores deportivos, por las enseñanzas deportivas de régimen especial, a los efectos de lo previsto en el artículo 42 del [Real Decreto 1913/1997](./RD454_2002_ecd_establecen_elementos_basicos_informes_evaluacion.md), de 19 de diciembre, o norma que la sustituya.
 
 c) Corresponderá a la unidad competente del Consejo Superior de Deportes formular la propuesta de resolución.
 
@@ -703,7 +703,7 @@ d) La resolución de los expedientes corresponderá al Ministro de Educación y 
 
 #### Disposición adicional sexta. Efectos de las formaciones anteriores convocadas por los órganos competentes de las Comunidades Autónomas.
 
-1. Podrán ser objeto de convalidación las formaciones relacionadas con materias del bloque común que hayan sido promovidas por los órganos competentes en materia de deporte de las Comunidades Autónomas en virtud de lo previsto en sus estatutos y reglamentos, siempre que se hayan llevado a cabo antes del 15 de julio de 1999, fecha en la que entró en vigor la Orden de 5 de julio de 1999, por la que se completan los aspectos curriculares y los requisitos generales de las formaciones en materia deportiva a las que se refiere la disposición transitoria primera del Real Decreto 1913/1997, de 19 de diciembre.
+1. Podrán ser objeto de convalidación las formaciones relacionadas con materias del bloque común que hayan sido promovidas por los órganos competentes en materia de deporte de las Comunidades Autónomas en virtud de lo previsto en sus estatutos y reglamentos, siempre que se hayan llevado a cabo antes del 15 de julio de 1999, fecha en la que entró en vigor la Orden de 5 de julio de 1999, por la que se completan los aspectos curriculares y los requisitos generales de las formaciones en materia deportiva a las que se refiere la disposición transitoria primera del [Real Decreto 1913/1997](./RD454_2002_ecd_establecen_elementos_basicos_informes_evaluacion.md), de 19 de diciembre.
 
 2. Las Comunidades Autónomas a las que se refiere el punto anterior acreditarán la formación ante el Consejo Superior de Deportes, dentro de un plazo de sesenta días naturales contados desde el día siguiente al de entrada en vigor de este real decreto.
 
@@ -715,7 +715,7 @@ d) La resolución de los expedientes corresponderá al Ministro de Educación y 
 
 1. La formación llevada a cabo en centros docentes militares y de la guardia civil podrá ser objeto de homologación, convalidación y equivalencia a efectos profesionales, siempre que reúna los siguientes requisitos:
 
-a) Que las formaciones hayan sido promovidas hasta el día 15 de julio de 1999, fecha en la que entró en vigor la Orden de 5 de julio de 1999, por la que se completan los aspectos curriculares y los requisitos generales de la formación en materia deportiva a la que se refiere la disposición transitoria primera del Real Decreto 1913/1997, de 19 de diciembre.
+a) Que las formaciones hayan sido promovidas hasta el día 15 de julio de 1999, fecha en la que entró en vigor la Orden de 5 de julio de 1999, por la que se completan los aspectos curriculares y los requisitos generales de la formación en materia deportiva a la que se refiere la disposición transitoria primera del [Real Decreto 1913/1997](./RD454_2002_ecd_establecen_elementos_basicos_informes_evaluacion.md), de 19 de diciembre.
 
 b) Que se refieran exclusivamente a las modalidades y especialidades deportivas que estuvieran reconocidas por el Consejo Superior de Deportes, de acuerdo con el artículo 8, b) de la Ley 10/1990, del Deporte.
 
@@ -733,7 +733,7 @@ En el caso de las títulos ya establecidos, de las modalidades o especialidades 
 
 2. Dichas formaciones no podrán utilizar ninguna de las denominaciones establecidas para los certificados, ciclos, grados o títulos oficiales que se regulan en este real decreto, ni las correspondientes a las denominaciones de los centros, ni cualesquiera otras que pudieran inducir a error o confusión con aquellas.
 
-3. Los materiales de los soportes, los formatos y los tamaños que utilicen para expedir sus diplomas o certificados se diferenciarán netamente de los establecidos para los títulos oficiales en el Anexo III del Real Decreto 733/1995, de 5 de mayo, sobre expedición de títulos académicos y profesionales correspondientes a las enseñanzas establecidas por la Ley Orgánica 1/1990, de 3 de octubre, de Ordenación General del Sistema Educativo.
+3. Los materiales de los soportes, los formatos y los tamaños que utilicen para expedir sus diplomas o certificados se diferenciarán netamente de los establecidos para los títulos oficiales en el Anexo III del Real Decreto 733/1995, de 5 de mayo, sobre expedición de títulos académicos y profesionales correspondientes a las enseñanzas establecidas por la [Ley Orgánica 1/1990](../02_gestion_y_administracion_centros/LO1_1990_regula_regimen_equivalencias_estudios_basicos_medios.md), de 3 de octubre, de Ordenación General del Sistema Educativo.
 
 4. En lugar destacado de la publicidad que emitan deberá figurar una referencia clara al carácter no oficial de los estudios que se imparten y de los diplomas o certificados que, a su término, se expiden.
 
@@ -779,7 +779,7 @@ k) Todos los títulos y situaciones que se detallan en el punto 2 de esta dispos
 
 2. Para el acceso a las enseñanzas del grado superior o para la iniciación de los expedientes de equiparación de las formaciones y enseñanzas de dicho grado previstas en este real decreto, se podrá acreditar alguna de las siguientes condiciones:
 
-a) El título de Bachiller establecido por la Ley Orgánica 1/1990, de 3 de octubre, de Ordenación general del Sistema Educativo.
+a) El título de Bachiller establecido por la [Ley Orgánica 1/1990](../02_gestion_y_administracion_centros/LO1_1990_regula_regimen_equivalencias_estudios_basicos_medios.md), de 3 de octubre, de Ordenación general del Sistema Educativo.
 
 b) La superación de la prueba de acceso sustitutoria del requisito del título de Bachiller para el acceso a las enseñanzas deportivas de grado superior.
 
@@ -801,7 +801,7 @@ i) La superación de otros estudios que hubieran sido declarados equivalentes a 
 
 #### Disposición adicional decimotercera. Procedimiento de evaluación y acreditación de unidades de competencia adquiridas por la experiencia laboral y aprendizajes no formales.
 
-1. La evaluación y acreditación de las unidades de competencia que formen parte del Catálogo Nacional de Cualificaciones Profesionales, adquiridas mediante la experiencia profesional, o por vía de aprendizajes no formales, se realizará mediante la acreditación parcial obtenida a través del procedimiento que se establezca en cumplimiento de lo dispuesto en el artículo 8.4 de la Ley Orgánica 5/2002, de 19 de junio, de las Cualificaciones y de la Formación Profesional.
+1. La evaluación y acreditación de las unidades de competencia que formen parte del Catálogo Nacional de Cualificaciones Profesionales, adquiridas mediante la experiencia profesional, o por vía de aprendizajes no formales, se realizará mediante la acreditación parcial obtenida a través del procedimiento que se establezca en cumplimiento de lo dispuesto en el artículo 8.4 de la [Ley Orgánica 5/2002](./LO5_2002_cualificaciones_formacion_profesional.md), de 19 de junio, de las Cualificaciones y de la Formación Profesional.
 
 2. El Ministerio de Educación y Ciencia establecerá el procedimiento de acreditación de aquellas competencias no referidas al Catálogo Nacional de Cualificaciones Profesionales que formen parte del perfil profesional de los títulos objeto de regulación en este real decreto, adquiridas mediante la experiencia profesional y deportiva, o por vías de aprendizaje no formales.
 
@@ -829,9 +829,9 @@ c) La superación de la formación del bloque común, del bloque específico y d
 
 2. A tal fin, el citado Ministerio regulará el procedimiento oportuno, previa consulta con los órganos competentes de las Comunidades Autónomas en materia de educación y en materia de deportes.
 
-#### Disposición transitoria segunda. Vigencia de las enseñanzas establecidas al amparo del Real Decreto 1913/1997, de 19 de diciembre.
+#### Disposición transitoria segunda. Vigencia de las enseñanzas establecidas al amparo del [Real Decreto 1913/1997](./RD454_2002_ecd_establecen_elementos_basicos_informes_evaluacion.md), de 19 de diciembre.
 
-1. Hasta que se creen los nuevos títulos y enseñanzas en las modalidades y especialidades de atletismo, baloncesto, balonmano, deportes de montaña y escalada, deportes de invierno y fútbol, que fueron establecidas al amparo de lo dispuesto en el Real Decreto 1913/1997, de 19 de diciembre, se impartirán conforme a lo previsto en los reales decretos que crearon los respectivos títulos y enseñanzas mínimas, excepto en los aspectos que a continuación se detallan, que seguirán los criterios que se determina en los puntos siguientes.
+1. Hasta que se creen los nuevos títulos y enseñanzas en las modalidades y especialidades de atletismo, baloncesto, balonmano, deportes de montaña y escalada, deportes de invierno y fútbol, que fueron establecidas al amparo de lo dispuesto en el [Real Decreto 1913/1997](./RD454_2002_ecd_establecen_elementos_basicos_informes_evaluacion.md), de 19 de diciembre, se impartirán conforme a lo previsto en los reales decretos que crearon los respectivos títulos y enseñanzas mínimas, excepto en los aspectos que a continuación se detallan, que seguirán los criterios que se determina en los puntos siguientes.
 
 2. Quedarán exentos de las pruebas específicas de acceso a las enseñanzas:
 
@@ -861,7 +861,7 @@ b) La aplicación de las medidas sobre reserva de plazas que se establecen en la
 
 c) Centros con las medidas y requisitos previstos en el capítulo X.
 
-#### Disposición transitoria tercera. Vigencia de las normas de desarrollo de las enseñanzas deportivas establecidas al amparo del Real Decreto 1913/1997, de 19 de diciembre.
+#### Disposición transitoria tercera. Vigencia de las normas de desarrollo de las enseñanzas deportivas establecidas al amparo del [Real Decreto 1913/1997](./RD454_2002_ecd_establecen_elementos_basicos_informes_evaluacion.md), de 19 de diciembre.
 
 1. En tanto el Ministerio de Educación y Ciencia no regule lo establecido en la disposición transitoria primera, continuará vigente la Orden ECD/3310/2002, de 16 de diciembre (BOE de 30 de diciembre), excepto en los aspectos que a continuación se detallan:
 
@@ -907,7 +907,7 @@ e) La Orden ECI/3224/2004, de 21 de septiembre, (BOE de 8 de octubre), que estab
 
 #### Disposición derogatoria primera.
 
-1. Queda derogado el Real Decreto 1913/1997, de 19 de diciembre, por el que se configuran como enseñanzas de régimen especial las conducentes a la obtención de las titulaciones de técnicos deportivos, se aprueban las directrices generales de los títulos y de las correspondientes enseñanzas mínimas, sin perjuicio de lo que se establece en las disposiciones transitorias segunda y tercera de este real decreto.
+1. Queda derogado el [Real Decreto 1913/1997](./RD454_2002_ecd_establecen_elementos_basicos_informes_evaluacion.md), de 19 de diciembre, por el que se configuran como enseñanzas de régimen especial las conducentes a la obtención de las titulaciones de técnicos deportivos, se aprueban las directrices generales de los títulos y de las correspondientes enseñanzas mínimas, sin perjuicio de lo que se establece en las disposiciones transitorias segunda y tercera de este real decreto.
 
 2. Quedan asimismo derogadas todas aquellas disposiciones de igual o inferior rango que se opongan o contradigan lo dispuesto en este real decreto.
 
@@ -917,7 +917,7 @@ El Ministerio de Educación y Ciencia regulará aquellos aspectos necesarios par
 
 #### Disposición final segunda. Modificación de determinados aspectos que se regulan en el [Real Decreto 320/2000](RD320_2000_establecen_titulos_tecnico_deportivo_tecnico_deportivo.md), de 3 de marzo.
 
-Se modifica el punto 7 del anexo II del Real Decreto 320/2000, de 3 de marzo, por el que se establecen los títulos de Técnico deportivo y Técnico deportivo superior en las especialidades de Fútbol y Fútbol Sala, se aprueban las correspondientes enseñanzas mínimas y se regulan las pruebas y los requisitos de acceso a estas enseñanzas, que queda redactado como sigue:
+Se modifica el punto 7 del anexo II del [Real Decreto 320/2000](./RD320_2000_establecen_titulos_tecnico_deportivo_tecnico_deportivo.md), de 3 de marzo, por el que se establecen los títulos de Técnico deportivo y Técnico deportivo superior en las especialidades de Fútbol y Fútbol Sala, se aprueban las correspondientes enseñanzas mínimas y se regulan las pruebas y los requisitos de acceso a estas enseñanzas, que queda redactado como sigue:
 
 «1. Para el acceso a las enseñanzas de Técnico deportivo superior en Fútbol y de Técnico deportivo superior en Fútbol Sala, será necesario acreditar la experiencia adquirida después de haber obtenido el título de Técnico deportivo, como entrenador titular de equipos que participen, durante al menos una temporada, en: Tercera división, Categoría Regional Preferente, Categoría Regional Ordinaria, Liga Nacional Juvenil, o en competiciones de las categorías juvenil, cadete, infantil, alevín o benjamín.
 

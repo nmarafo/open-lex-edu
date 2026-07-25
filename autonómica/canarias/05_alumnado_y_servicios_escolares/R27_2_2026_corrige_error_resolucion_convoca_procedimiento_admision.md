@@ -48,7 +48,7 @@ III. Otras Resoluciones
 Consejería de Educación, Formación Profesional, Actividad Física y Deportes
 752 Dirección General de Administración de Centros, Escolarización y Servicios 
 Complementarios.- Resolución de 27 de febrero de 2026, por la que se corrige error 
-en la Resolución de 5 de febrero de 2026, que convoca el procedimiento de admisión 
+en la [Resolución de 5 de febrero de 2026](./R5_2_2026_dgacesc_convoca_procedimiento_admision_alumnado_centros.md), que convoca el procedimiento de admisión 
 del alumnado en centros docentes que oferten enseñanzas de Educación Infantil, 
 Educación Primaria, Educación Secundaria Obligatoria, Bachillerato y Educación 
 de Personas Adultas sostenidos con fondos públicos, para el curso escolar 2026-

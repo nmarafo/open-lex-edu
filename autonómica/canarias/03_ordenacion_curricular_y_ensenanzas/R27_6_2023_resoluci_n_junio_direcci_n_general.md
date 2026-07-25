@@ -89,7 +89,7 @@ Tercero.- El marco general de las Enseñanzas de Idiomas de Régimen Especial
 queda regulado por el Real Decreto 1041/2017, de 22 de diciembre, por el que se fijan las 
 exigencias mínimas del nivel básico a efectos de certificación, se establece el currículo 
 básico de los niveles Intermedio B1, Intermedio B2, Avanzado C1, y Avanzado C2, de las 
-Enseñanzas de idiomas de régimen especial reguladas por la Ley Orgánica 2/2006, de 3 de 
+Enseñanzas de idiomas de régimen especial reguladas por la [Ley Orgánica 2/2006](../../../estatal/01_marco_normativo_general_y_organico/LO2_2006_educacion_texto_consolidado_modificaciones_lomloe.md), de 3 de 
 mayo, de Educación, y se establecen las equivalencias entre las Enseñanzas de Idiomas de 
 régimen especial reguladas en diversos planes de estudios y las de este real decreto, y, en 
 el ámbito autonómico, por el Decreto 142/2018, de 8 de octubre, por el que se establece 
@@ -107,7 +107,7 @@ de Canarias, determina en su disposición adicional tercera, sobre centros de ca
 especiales, que las escuelas oficiales de idiomas se regirán por su normativa específica y, 
 supletoriamente, por el Reglamento aprobado por el citado Decreto.
 Sexto.- En este mismo sentido, la [Orden de 9 de octubre de 2013](../04_organizacion_escolar_y_funcionamiento/Ds_n_desarrolla_decreto_aprueba_reglamento_organico_centros.md), que desarrolla el 
-mencionado Decreto 81/2010, de 8 de julio, dispone en el artículo 1.2, en cuanto a la 
+mencionado [Decreto 81/2010](../04_organizacion_escolar_y_funcionamiento/D81_2010_aprueba_reglamento_organico_centros_docentes_publicos.md), de 8 de julio, dispone en el artículo 1.2, en cuanto a la 
 organización y funcionamiento de los centros docentes públicos no universitarios, que las 
 Escuelas oficiales de Idiomas se regirán por su normativa específica y, supletoriamente, por 
 lo dispuesto en la citada Orden.
@@ -440,7 +440,7 @@ realizar los procedimientos administrativos, incluyendo la formalización de la 
 b. Coordinar al personal de administración y servicios con el objetivo de mejorar la 
 comunicación y atención telemáticas de las personas usuarias.
 7. Claustro del profesorado.
-Además de las competencias atribuidas en el artículo 21 del Decreto 81/2010, de 8 de 
+Además de las competencias atribuidas en el artículo 21 del [Decreto 81/2010](../04_organizacion_escolar_y_funcionamiento/D81_2010_aprueba_reglamento_organico_centros_docentes_publicos.md), de 8 de 
 julio, por el que se aprueba el Reglamento Orgánico de los centros docentes públicos no 
 universitarios de la Comunidad Autónoma de Canarias, el claustro del profesorado de la 
 Escuela Oficial de Idiomas a Distancia de Canarias asumirá las siguientes competencias:
@@ -532,8 +532,8 @@ se desvincule de la actividad académica.
 prolongada, de cara a disminuir y prevenir el absentismo y abandono.
 10. Horario general del profesorado.
 10.1. La jornada laboral semanal del profesorado de la Escuela Oficial de Idiomas a 
-Distancia de Canarias será la establecida en la Orden de 9 de octubre de 2013, por la que se 
-desarrolla el Decreto 81/2010, de 8 de julio, por el que se aprueba el Reglamento Orgánico 
+Distancia de Canarias será la establecida en la [Orden de 9 de octubre de 2013](../04_organizacion_escolar_y_funcionamiento/Ds_n_desarrolla_decreto_aprueba_reglamento_organico_centros.md), por la que se 
+desarrolla el [Decreto 81/2010](../04_organizacion_escolar_y_funcionamiento/D81_2010_aprueba_reglamento_organico_centros_docentes_publicos.md), de 8 de julio, por el que se aprueba el Reglamento Orgánico 
 
 de los centros docentes públicos no universitarios de la Comunidad Autónoma de Canarias, 
 modificada por la Orden de 16 de julio de 2019.

@@ -404,7 +404,7 @@ d) Se realizarán programas de sensibilización, información y formación conti
 
 1. Son funciones específicas de los servicios de orientación educativa apoyar a los centros docentes en el proceso hacia la inclusión y, especialmente, en las funciones de orientación, evaluación e intervención educativa, contribuyendo a la dinamización pedagógica, a la calidad y la innovación educativa.
 
-2. A efectos de la participación en el control y gestión de los centros docentes previsto en la [Ley Orgánica 8/1985](../02_gestion_y_administracion_centros/LO8_1985_reguladora_derecho_educacion.md), de 3 de julio, reguladora del derecho a la educación, y en la Ley Orgánica 2/2006, de 3 de mayo, de educación, se tendrá en cuenta la especialidad de esta ley en lo que se refiere a los servicios de orientación educativa.
+2. A efectos de la participación en el control y gestión de los centros docentes previsto en la [Ley Orgánica 8/1985](../02_gestion_y_administracion_centros/LO8_1985_reguladora_derecho_educacion.md), de 3 de julio, reguladora del derecho a la educación, y en la [Ley Orgánica 2/2006](../01_marco_normativo_general_y_organico/LO2_2006_educacion_texto_consolidado_modificaciones_lomloe.md), de 3 de mayo, de educación, se tendrá en cuenta la especialidad de esta ley en lo que se refiere a los servicios de orientación educativa.
 
 CAPÍTULO V
 
@@ -1140,7 +1140,7 @@ a) A los órganos competentes de las comunidades autónomas en cuyo territorio s
 
 b) A la Oficina de Atención a la Discapacidad.
 
-Estas actuaciones se realizarán en todo caso de conformidad con lo establecido en la legislación de protección de datos personales, para lo cual los citados órganos únicamente podrán tratar los datos en los términos previstos en el artículo 4.2 de la Ley Orgánica 15/1999, de 13 de diciembre.
+Estas actuaciones se realizarán en todo caso de conformidad con lo establecido en la legislación de protección de datos personales, para lo cual los citados órganos únicamente podrán tratar los datos en los términos previstos en el artículo 4.2 de la [Ley Orgánica 15/1999](../02_gestion_y_administracion_centros/LO15_1999_proteccion_datos_caracter_personal.md), de 13 de diciembre.
 
 Sección 3.ª Órganos competentes
 
@@ -1164,7 +1164,7 @@ Esta ley se aplicará sin perjuicio de las competencias exclusivas reconocidas a
 
 #### Disposición adicional segunda. Tratamiento de la información.
 
-En las actuaciones previstas en esta ley que tengan relación con la recogida y tratamiento de datos de carácter personal se estará a lo previsto en la Ley Orgánica 15/1999, de 13 de diciembre, y su normativa de desarrollo.
+En las actuaciones previstas en esta ley que tengan relación con la recogida y tratamiento de datos de carácter personal se estará a lo previsto en la [Ley Orgánica 15/1999](../02_gestion_y_administracion_centros/LO15_1999_proteccion_datos_caracter_personal.md), de 13 de diciembre, y su normativa de desarrollo.
 
 #### Disposición adicional tercera. Exigibilidad de las condiciones básicas de accesibilidad y no discriminación.
 

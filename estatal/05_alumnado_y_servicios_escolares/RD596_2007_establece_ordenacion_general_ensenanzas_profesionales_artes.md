@@ -100,7 +100,7 @@ Ordenación de las enseñanzas profesionales de artes plásticas y diseño: Tít
 
 #### Artículo 4. Títulos de las enseñanzas profesionales de artes plásticas y diseño.
 
-1. Los títulos de las enseñanzas profesionales de artes plásticas y diseño en el sistema educativo son los de Técnico y Técnico Superior de Artes Plásticas y Diseño, de conformidad con lo dispuesto en el artículo 53 de la Ley Orgánica 2/2006, de 3 de mayo, de Educación.
+1. Los títulos de las enseñanzas profesionales de artes plásticas y diseño en el sistema educativo son los de Técnico y Técnico Superior de Artes Plásticas y Diseño, de conformidad con lo dispuesto en el artículo 53 de la [Ley Orgánica 2/2006](../01_marco_normativo_general_y_organico/LO2_2006_educacion_texto_consolidado_modificaciones_lomloe.md), de 3 de mayo, de Educación.
 
 2. Los títulos de Técnico y Técnico Superior de Artes Plásticas y Diseño constituyen un documento de carácter oficial y validez académica y profesional en todo el territorio nacional, que acredita el nivel de formación, la cualificación y la competencia profesional específica de la especialidad artística correspondiente.
 
@@ -190,7 +190,7 @@ Currículo de los ciclos formativos
 
 #### Artículo 13. Establecimiento del currículo de los ciclos formativos.
 
-1. Las Administraciones educativas, en el ámbito de sus competencias, establecerán el currículo correspondiente a cada título, de acuerdo con lo establecido en el artículo 6 de la Ley Orgánica 2/2006, de 3 de mayo, de Educación, en el presente real decreto y en las normas que regulen los títulos respectivos.
+1. Las Administraciones educativas, en el ámbito de sus competencias, establecerán el currículo correspondiente a cada título, de acuerdo con lo establecido en el artículo 6 de la [Ley Orgánica 2/2006](../01_marco_normativo_general_y_organico/LO2_2006_educacion_texto_consolidado_modificaciones_lomloe.md), de 3 de mayo, de Educación, en el presente real decreto y en las normas que regulen los títulos respectivos.
 
 2. Los centros que impartan enseñanzas profesionales de artes plásticas y diseño desarrollarán y completarán los currículos establecidos por la Administración educativa correspondiente, mediante la puesta en práctica de su proyecto educativo y la implementación de programaciones didácticas que tomen en consideración las características del contexto social y cultural, las necesidades del alumnado, con especial atención a las de quienes presenten una discapacidad, y las posibilidades formativas del entorno.
 
@@ -202,9 +202,9 @@ Acceso y admisión
 
 #### Artículo 14. Requisitos de acceso a las enseñanzas de profesionales de artes plásticas y diseño.
 
-1. Conforme al artículo 52.1 de la Ley Orgánica 2/2006, de 3 de mayo, de Educación, para acceder al grado medio de las enseñanzas profesionales de artes plásticas y diseño será necesario estar en posesión del título de Graduado en Educación Secundaria Obligatoria, o título declarado equivalente.
+1. Conforme al artículo 52.1 de la [Ley Orgánica 2/2006](../01_marco_normativo_general_y_organico/LO2_2006_educacion_texto_consolidado_modificaciones_lomloe.md), de 3 de mayo, de Educación, para acceder al grado medio de las enseñanzas profesionales de artes plásticas y diseño será necesario estar en posesión del título de Graduado en Educación Secundaria Obligatoria, o título declarado equivalente.
 
-2. Conforme al artículo 52.2 de la Ley Orgánica 2/2006, de 3 de mayo, de Educación, para acceder al grado superior de las enseñanzas profesionales de artes plásticas y diseño será necesario estar en posesión del título de Bachiller, o título declarado equivalente.
+2. Conforme al artículo 52.2 de la [Ley Orgánica 2/2006](../01_marco_normativo_general_y_organico/LO2_2006_educacion_texto_consolidado_modificaciones_lomloe.md), de 3 de mayo, de Educación, para acceder al grado superior de las enseñanzas profesionales de artes plásticas y diseño será necesario estar en posesión del título de Bachiller, o título declarado equivalente.
 
 3. Asimismo, para acceder al grado medio y al grado superior de las enseñanzas profesionales de artes plásticas y diseño, además de los requisitos académicos recogidos en los apartados anteriores, se deberá superar una prueba específica que permita demostrar las aptitudes y los conocimientos artísticos necesarios para cursar con aprovechamiento las enseñanzas de que se trate.
 
@@ -236,17 +236,17 @@ e) Arquitectura.
 
 f) Ingeniería Técnica en Diseño Industrial.
 
-4. Asimismo las Administraciones Educativas regularán la exención de la prueba específica de acceso a los grados medio y superior de las enseñanzas profesionales de artes plásticas y diseño, a quienes estando en posesión de los requisitos académicos de acceso conforme lo establecido en los artículos 52.1 y 52.2 de la Ley Orgánica 2/2006, de 3 de mayo, de Educación, acrediten tener experiencia laboral de, al menos, un año, relacionada directamente con las competencias profesionales del ciclo formativo de grado medio o superior al que se quiere acceder, debiendo aportar, al menos, la siguiente documentación:
+4. Asimismo las Administraciones Educativas regularán la exención de la prueba específica de acceso a los grados medio y superior de las enseñanzas profesionales de artes plásticas y diseño, a quienes estando en posesión de los requisitos académicos de acceso conforme lo establecido en los artículos 52.1 y 52.2 de la [Ley Orgánica 2/2006](../01_marco_normativo_general_y_organico/LO2_2006_educacion_texto_consolidado_modificaciones_lomloe.md), de 3 de mayo, de Educación, acrediten tener experiencia laboral de, al menos, un año, relacionada directamente con las competencias profesionales del ciclo formativo de grado medio o superior al que se quiere acceder, debiendo aportar, al menos, la siguiente documentación:
 
 Certificación de la empresa donde haya adquirido la experiencia laboral, en la que conste específicamente la duración del contrato, la actividad desarrollada y el periodo de tiempo en el que se ha realizado dicha actividad. En el caso de trabajadores por cuenta propia, certificación de alta en el censo de obligados tributarios.
 
 #### Artículo 16. Acceso sin requisitos académicos al grado medio y superior de las enseñanzas profesionales de artes plásticas y diseño.
 
-1. Conforme al artículo 52.3 de la Ley Orgánica 2/2006, de 3 de mayo, de Educación, podrán acceder al grado medio de las enseñanzas profesionales de artes plásticas y diseño, sin estar en posesión de los requisitos académicos de acceso, quienes acrediten, mediante la superación de una prueba de acceso, poseer los conocimientos y habilidades suficientes para cursar con aprovechamiento dichas enseñanzas, además de las aptitudes necesarias a las que se refiere el artículo 14.3 del presente real decreto, y tengan como mínimo diecisiete años cumplidos en el año de realización de la prueba.
+1. Conforme al artículo 52.3 de la [Ley Orgánica 2/2006](../01_marco_normativo_general_y_organico/LO2_2006_educacion_texto_consolidado_modificaciones_lomloe.md), de 3 de mayo, de Educación, podrán acceder al grado medio de las enseñanzas profesionales de artes plásticas y diseño, sin estar en posesión de los requisitos académicos de acceso, quienes acrediten, mediante la superación de una prueba de acceso, poseer los conocimientos y habilidades suficientes para cursar con aprovechamiento dichas enseñanzas, además de las aptitudes necesarias a las que se refiere el artículo 14.3 del presente real decreto, y tengan como mínimo diecisiete años cumplidos en el año de realización de la prueba.
 
-2. Conforme al artículo 52.3 de la Ley Orgánica 2/2006, de 3 de mayo, de Educación, podrán acceder al grado superior de las enseñanzas profesionales de artes plásticas y diseño, sin estar en posesión de los requisitos académicos de acceso, quienes acrediten mediante la superación de una prueba de acceso, poseer la madurez en relación con los objetivos de Bachillerato, además de las aptitudes necesarias a las que se refiere el artículo 14.3 del presente real decreto, y tengan como mínimo diecinueve años cumplidos en el año de realización de la prueba, o dieciocho años si se acredita estar en posesión de un título de Técnico relacionado con aquel al que se desea acceder.
+2. Conforme al artículo 52.3 de la [Ley Orgánica 2/2006](../01_marco_normativo_general_y_organico/LO2_2006_educacion_texto_consolidado_modificaciones_lomloe.md), de 3 de mayo, de Educación, podrán acceder al grado superior de las enseñanzas profesionales de artes plásticas y diseño, sin estar en posesión de los requisitos académicos de acceso, quienes acrediten mediante la superación de una prueba de acceso, poseer la madurez en relación con los objetivos de Bachillerato, además de las aptitudes necesarias a las que se refiere el artículo 14.3 del presente real decreto, y tengan como mínimo diecinueve años cumplidos en el año de realización de la prueba, o dieciocho años si se acredita estar en posesión de un título de Técnico relacionado con aquel al que se desea acceder.
 
-3. Las pruebas de acceso a que hace referencia el artículo al artículo 52.4 de la Ley Orgánica 2/2006, de 3 de mayo, de Educación, constarán de dos partes:
+3. Las pruebas de acceso a que hace referencia el artículo al artículo 52.4 de la [Ley Orgánica 2/2006](../01_marco_normativo_general_y_organico/LO2_2006_educacion_texto_consolidado_modificaciones_lomloe.md), de 3 de mayo, de Educación, constarán de dos partes:
 
 a) La parte general que, para el acceso al grado medio, versará sobre las capacidades básicas de la educación secundaria obligatoria y, para el acceso al grado superior, versará sobre los conocimientos y capacidades básicas de las materias comunes del bachillerato.
 
@@ -386,7 +386,7 @@ Con el fin de promover la formación a lo largo de la vida, las Administraciones
 
 #### Disposición adicional cuarta. Otras titulaciones equivalentes a efectos de acceso.
 
-Sin perjuicio de los requisitos establecidos en el artículo 52 de la Ley Orgánica 2/2006, de 3 de mayo, de Educación, y a los efectos de lo establecido en el artículo 14 de este Real Decreto, se podrá acceder a las enseñanzas profesionales de Artes Plásticas y Diseño con las siguientes titulaciones:
+Sin perjuicio de los requisitos establecidos en el artículo 52 de la [Ley Orgánica 2/2006](../01_marco_normativo_general_y_organico/LO2_2006_educacion_texto_consolidado_modificaciones_lomloe.md), de 3 de mayo, de Educación, y a los efectos de lo establecido en el artículo 14 de este Real Decreto, se podrá acceder a las enseñanzas profesionales de Artes Plásticas y Diseño con las siguientes titulaciones:
 
 1. Para los ciclos formativos de grado medio:
 
@@ -422,11 +422,11 @@ Igualmente quedan derogadas cuantas disposiciones de igual o inferior rango se o
 
 #### Disposición final primera. Equivalencia entre los actuales títulos de Técnico y Técnico superior de Artes Plásticas y Diseño y las nuevas titulaciones.
 
-El Gobierno, previa consulta a las Comunidades Autónomas, determinará las equivalencias entre los diferentes títulos de Técnico y Técnico superior de Artes Plásticas y Diseño vigentes y los que se establezcan al amparo de Ley Orgánica 2/2006, de 3 de mayo, de Educación.
+El Gobierno, previa consulta a las Comunidades Autónomas, determinará las equivalencias entre los diferentes títulos de Técnico y Técnico superior de Artes Plásticas y Diseño vigentes y los que se establezcan al amparo de [Ley Orgánica 2/2006](../01_marco_normativo_general_y_organico/LO2_2006_educacion_texto_consolidado_modificaciones_lomloe.md), de 3 de mayo, de Educación.
 
 #### Disposición final segunda. Título competencial.
 
-Este real decreto tiene carácter de norma básica y es de aplicación en todo el territorio nacional y se dicta en virtud de las competencias que atribuye al Estado el artículo 149.1.1.ª y 30.ª de la Constitución y al amparo de la disposición final sexta de la Ley Orgánica 2/2006, de 3 de mayo, de Educación.
+Este real decreto tiene carácter de norma básica y es de aplicación en todo el territorio nacional y se dicta en virtud de las competencias que atribuye al Estado el artículo 149.1.1.ª y 30.ª de la Constitución y al amparo de la disposición final sexta de la [Ley Orgánica 2/2006](../01_marco_normativo_general_y_organico/LO2_2006_educacion_texto_consolidado_modificaciones_lomloe.md), de 3 de mayo, de Educación.
 
 #### Disposición final tercera. Entrada en vigor.
 

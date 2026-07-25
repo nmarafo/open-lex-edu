@@ -48,9 +48,9 @@ fundamentos_derecho:
 
 La [Ley Orgánica 2/2006](../01_marco_normativo_general_y_organico/LO2_2006_educacion_texto_consolidado_modificaciones_lomloe.md), de 3 de mayo, de Educación, establece en su disposición adicional duodécima que el acceso al Cuerpo de Inspectores de Educación se realizará mediante concurso-oposición.
 
-El Real Decreto 806/2006, de 30 de junio, por el que se establece el calendario de aplicación de la nueva ordenación del sistema educativo establecida en la Ley Orgánica 2/2006, de 3 de mayo, de Educación, deroga de acuerdo con el artículo 154 de la mencionada Ley, el Real Decreto 1538/2003, de 5 de diciembre, por el que se establecen las especialidades básicas de inspección educativa.
+El Real Decreto 806/2006, de 30 de junio, por el que se establece el calendario de aplicación de la nueva ordenación del sistema educativo establecida en la [Ley Orgánica 2/2006](../01_marco_normativo_general_y_organico/LO2_2006_educacion_texto_consolidado_modificaciones_lomloe.md), de 3 de mayo, de Educación, deroga de acuerdo con el artículo 154 de la mencionada Ley, el Real Decreto 1538/2003, de 5 de diciembre, por el que se establecen las especialidades básicas de inspección educativa.
 
-Por otra parte, el [Real Decreto 276/2007](RD592_2007_eci_aprueba_temario_ha_regir_procedimiento.md), de 23 de febrero, por el que se aprueba el reglamento de ingreso, accesos y adquisición de nuevas especialidades en los cuerpos docentes a que se refiere la Ley Orgánica 2/2006, de 3 de mayo, de Educación, y se regula el régimen transitorio de ingreso a que se refiere la disposición transitoria decimoséptima de la citada ley, regula el procedimiento de acceso al citado Cuerpo de Inspectores de Educación, que será mediante concurso-oposición, existiendo, así mismo, una fase de prácticas que formará parte del proceso selectivo y atribuye en su artículo 43 al Ministerio de Educación, previa consulta con las Comunidades Autónomas, el establecimiento del temario correspondiente a la fase de oposición, que tendrá dos partes claramente diferenciadas.
+Por otra parte, el [Real Decreto 276/2007](RD592_2007_eci_aprueba_temario_ha_regir_procedimiento.md), de 23 de febrero, por el que se aprueba el reglamento de ingreso, accesos y adquisición de nuevas especialidades en los cuerpos docentes a que se refiere la [Ley Orgánica 2/2006](../01_marco_normativo_general_y_organico/LO2_2006_educacion_texto_consolidado_modificaciones_lomloe.md), de 3 de mayo, de Educación, y se regula el régimen transitorio de ingreso a que se refiere la disposición transitoria decimoséptima de la citada ley, regula el procedimiento de acceso al citado Cuerpo de Inspectores de Educación, que será mediante concurso-oposición, existiendo, así mismo, una fase de prácticas que formará parte del proceso selectivo y atribuye en su artículo 43 al Ministerio de Educación, previa consulta con las Comunidades Autónomas, el establecimiento del temario correspondiente a la fase de oposición, que tendrá dos partes claramente diferenciadas.
 
 Por todo ello, considerando que la inspección educativa la ejercen las Administraciones educativas a través de funcionarios públicos del Cuerpo de Inspectores de Educación y del Cuerpo de Inspectores al Servicio de la Administración educativa creado por la [Ley 30/1984](../01_marco_normativo_general_y_organico/L30_1984_medidas_reforma_funcion_publica.md), de 2 de agosto, de Medidas para la Reforma de la Función Pública, modificada por la Ley 23/1988, de 28 de julio, considerando asimismo las funciones y atribuciones que la Ley Orgánica de Educación otorga a los citados funcionarios públicos, y teniendo en cuenta el carácter marcadamente técnico y la naturaleza coyuntural y cambiante del temario, resulta necesario como complemento indispensable para asegurar el mínimo común denominador establecido en las normas legales básicas, determinar el contenido del temario común para la fase de oposición del procedimiento selectivo de acceso a un Cuerpo de carácter estatal como es el Cuerpo de Inspectores de Educación.
 
@@ -94,7 +94,7 @@ Parte A del temario de la fase de oposición del procedimiento de Acceso al Cuer
 
 5. Los objetivos del sistema educativo en el marco de los objetivos educativos Europeos.
 
-6. La Ley Orgánica 2/2006, de 3 de mayo, de Educación. Estructura, Principios, fines y contenido.
+6. La [Ley Orgánica 2/2006](../01_marco_normativo_general_y_organico/LO2_2006_educacion_texto_consolidado_modificaciones_lomloe.md), de 3 de mayo, de Educación. Estructura, Principios, fines y contenido.
 
 7. El sistema educativo en España: características, estructura y organización.
 
@@ -158,7 +158,7 @@ Parte A del temario de la fase de oposición del procedimiento de Acceso al Cuer
 
 37. Los centros privados. Tipos de centros. Autorización de centros privados. Competencias y carácter propio. Los centros privados concertados. Disposiciones que los regulan.
 
-38. La admisión del alumnado en los centros sostenidos con fondos públicos en la Ley Orgánica 2/2006, de 3 de mayo, de Educación. Igualdad en la aplicación de las normas de admisión. Escolarización equilibrada. Garantías de gratuidad.
+38. La admisión del alumnado en los centros sostenidos con fondos públicos en la [Ley Orgánica 2/2006](../01_marco_normativo_general_y_organico/LO2_2006_educacion_texto_consolidado_modificaciones_lomloe.md), de 3 de mayo, de Educación. Igualdad en la aplicación de las normas de admisión. Escolarización equilibrada. Garantías de gratuidad.
 
 39. La supervisión escolar: planteamientos, tendencias y escuelas.
 

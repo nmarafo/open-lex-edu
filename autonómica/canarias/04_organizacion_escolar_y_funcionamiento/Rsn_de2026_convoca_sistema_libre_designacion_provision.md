@@ -318,7 +318,7 @@ Educación.
 Profesional y Enseñanzas de Régimen Especial.
 4.2. Incompatibilidades, abstención y recusación.
 Los miembros de las Comisiones de Valoración estarán sujetos a las causas de 
-abstención previstas en el artículo 23 de la Ley 40/2015, de 1 de octubre, de Régimen 
+abstención previstas en el artículo 23 de la [Ley 40/2015](../../../estatal/01_marco_normativo_general_y_organico/L40_2015_regimen_juridico_sector_publico.md), de 1 de octubre, de Régimen 
 Jurídico del Sector Público, debiendo abstenerse de intervenir en el procedimiento en caso 
 de concurrir dichas causas, comunicándolo a la Dirección General de Personal y Formación 
 del Profesorado, que resolverá lo que proceda.

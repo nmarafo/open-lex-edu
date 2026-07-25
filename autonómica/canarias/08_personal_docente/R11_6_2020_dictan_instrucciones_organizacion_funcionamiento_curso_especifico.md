@@ -55,12 +55,12 @@ ANTECEDENTES DE HECHO
 Primero.- La Formación Profesional comprende un conjunto de ciclos formativos que 
 tienen como finalidad preparar al alumnado para el desempeño cualificado de las diversas 
 profesiones, el acceso al empleo y la participación activa en la vida social, cultural y 
-económica. La Ley Orgánica 2/2006, de 3 de mayo, de Educación, introduce una mayor 
+económica. La [Ley Orgánica 2/2006](../../../estatal/01_marco_normativo_general_y_organico/LO2_2006_educacion_texto_consolidado_modificaciones_lomloe.md), de 3 de mayo, de Educación, introduce una mayor 
 flexibilidad en el acceso, así como en las relaciones entre los distintos subsistemas de la 
 formación profesional. Con objeto de aumentar la flexibilidad del sistema educativo y 
 favorecer la formación permanente, se establecen diversas conexiones entre la educación 
 general y la formación profesional.
-Segundo.- En el artículo 41.2, apartado c) de la La Ley Orgánica 2/2006, de 3 de mayo, 
+Segundo.- En el artículo 41.2, apartado c) de la La [Ley Orgánica 2/2006](../../../estatal/01_marco_normativo_general_y_organico/LO2_2006_educacion_texto_consolidado_modificaciones_lomloe.md), de 3 de mayo, 
 de Educación, se establece como una de las condiciones para el acceso a ciclos formativos 
 de grado medio “haber superado un curso de formación específico para el acceso a ciclos 
 de grado medio en centros públicos o privados autorizados por la administración educativa, 
@@ -76,7 +76,7 @@ Página
 
 Martes 30 de junio de 2020
 FUNDAMENTOS DE DERECHO
-Primero.- La Ley Orgánica 2/2006, de 3 de mayo, de Educación, en su artículo 41.2 
+Primero.- La [Ley Orgánica 2/2006](../../../estatal/01_marco_normativo_general_y_organico/LO2_2006_educacion_texto_consolidado_modificaciones_lomloe.md), de 3 de mayo, de Educación, en su artículo 41.2 
 establece, como una de las condiciones para el acceso a los ciclos formativos de grado 
 medio: “c) Haber superado un curso de formación específico para el acceso a ciclos de grado 
 medio en centros públicos o privados autorizados por la administración educativa, y tener 17 

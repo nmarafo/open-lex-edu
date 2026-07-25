@@ -162,7 +162,7 @@ c) No deberán ser discriminatorias para categorías comparables de reutilizaci�
 
 5. Las Administraciones y organismos del sector público facilitarán mecanismos accesibles electrónicamente que posibiliten la búsqueda de los documentos disponibles para su reutilización, creando sistemas de gestión documental que permitan a los ciudadanos la adecuada recuperación de la información, tales como listados, bases de datos o índices y portales que enlacen con listados descentralizados.
 
-6. La reutilización de documentos que contengan datos de carácter personal se regirá por lo dispuesto en la Ley Orgánica 15/1999, de 13 de diciembre, de protección de datos de carácter personal.
+6. La reutilización de documentos que contengan datos de carácter personal se regirá por lo dispuesto en la [Ley Orgánica 15/1999](../02_gestion_y_administracion_centros/LO15_1999_proteccion_datos_caracter_personal.md), de 13 de diciembre, de protección de datos de carácter personal.
 
 #### Artículo 5. Formatos disponibles para la reutilización.
 

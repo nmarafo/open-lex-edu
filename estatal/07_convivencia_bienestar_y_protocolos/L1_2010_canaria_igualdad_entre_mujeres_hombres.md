@@ -418,7 +418,7 @@ Los poderes públicos de Canarias, en el marco de sus políticas de fomento empr
 
 2. Las administraciones públicas canarias incorporarán, con carácter integral y normalizado, la perspectiva de género y la evaluación del impacto de género en la planificación y ejecución de su política económica, de desarrollo, creación de empleo y relaciones con el tejido productivo y los agentes económicos y sociales de Canarias, con el objeto de alcanzar un nivel de desarrollo sostenible y una sociedad del bienestar mediante la incorporación de todos los recursos humanos de población activa en condiciones de igualdad y de ausencia de discriminación por razón de género.
 
-3. En virtud de lo dispuesto en la Ley Orgánica 3/2007, de 22 de marzo, para la igualdad efectiva de mujeres y hombres, en el territorio de la Comunidad Autónoma de Canarias las empresas están obligadas a respetar la igualdad de trato y de oportunidades de mujeres y hombres en el ámbito laboral. A tal efecto, están obligadas a adoptar medidas de acción positiva dirigidas a eliminar cualquier tipo de discriminación laboral por razón de sexo, mediante la elaboración y aplicación de planes de igualdad, las empresas que cuenten en su plantilla con más de 250 trabajadoras o trabajadores.
+3. En virtud de lo dispuesto en la [Ley Orgánica 3/2007](./LO3_2007_igualdad_efectiva_mujeres_hombres.md), de 22 de marzo, para la igualdad efectiva de mujeres y hombres, en el territorio de la Comunidad Autónoma de Canarias las empresas están obligadas a respetar la igualdad de trato y de oportunidades de mujeres y hombres en el ámbito laboral. A tal efecto, están obligadas a adoptar medidas de acción positiva dirigidas a eliminar cualquier tipo de discriminación laboral por razón de sexo, mediante la elaboración y aplicación de planes de igualdad, las empresas que cuenten en su plantilla con más de 250 trabajadoras o trabajadores.
 
 4. Por el organismo de igualdad autonómico se fomentará que las empresas radicadas en Canarias que cuenten en su plantilla con un número superior a 50 trabajadores, adopten medidas de acción positiva dirigidas a eliminar cualquier tipo de discriminación por razón de sexo teniendo en cuenta las características particulares de cada una de las siete islas, y sin perjuicio de lo dispuesto en la legislación estatal sobre empresas de superior dimensión.
 
@@ -810,11 +810,11 @@ En los términos en que reglamentariamente se determine, se elaborará un inform
 
 1. Los poderes públicos de Canarias adoptarán las medidas necesarias para garantizar el respeto al principio de igualdad de trato entre mujeres y hombres, mediante la ausencia de discriminación directa e indirecta por razón de sexo, en lo relativo al acceso a bienes y servicios y su suministro.
 
-2. De acuerdo con el artículo 69 de la Ley Orgánica 3/2007, de 22 de marzo, para la igualdad efectiva de mujeres y hombres, la prestación de bienes y servicios de forma exclusiva o principal a las personas de uno de los sexos sólo será admisible cuando la diferencia de trato esté justificada por un propósito legítimo y los medios para lograr tal finalidad sean adecuados y necesarios.
+2. De acuerdo con el artículo 69 de la [Ley Orgánica 3/2007](./LO3_2007_igualdad_efectiva_mujeres_hombres.md), de 22 de marzo, para la igualdad efectiva de mujeres y hombres, la prestación de bienes y servicios de forma exclusiva o principal a las personas de uno de los sexos sólo será admisible cuando la diferencia de trato esté justificada por un propósito legítimo y los medios para lograr tal finalidad sean adecuados y necesarios.
 
 #### Artículo 74. Acción de cesación y rectificación de la publicidad ilícita.
 
-1. De conformidad con lo dispuesto en el artículo 12 de la Ley Orgánica 1/2004, de 28 de diciembre, de Medidas de Protección Integral contra la Violencia de Género, el Instituto Canario de Igualdad y las asociaciones que tengan como objetivo único la defensa de los intereses de las mujeres estarán legitimados para ejercitar la acción de cesación de publicidad ilícita por utilizar de forma vejatoria la imagen de la mujer, en los términos establecidos en la legislación vigente.
+1. De conformidad con lo dispuesto en el artículo 12 de la [Ley Orgánica 1/2004](./LO1_2004_medidas_proteccion_integral_contra_violencia_genero.md), de 28 de diciembre, de Medidas de Protección Integral contra la Violencia de Género, el Instituto Canario de Igualdad y las asociaciones que tengan como objetivo único la defensa de los intereses de las mujeres estarán legitimados para ejercitar la acción de cesación de publicidad ilícita por utilizar de forma vejatoria la imagen de la mujer, en los términos establecidos en la legislación vigente.
 
 2. El Consejo de Administración de la Radiotelevisión Canaria podrá solicitar de los anunciantes y empresas audiovisuales, por iniciativa propia o a instancia de las partes interesadas, el cese o la rectificación de la publicidad ilícita o prohibida, y, cuando proceda, disponerlo, de conformidad con la legislación aplicable y en los supuestos que la misma establezca.
 
@@ -824,7 +824,7 @@ Se autoriza al Gobierno de Canarias a efectuar las modificaciones presupuestaria
 
 #### Disposición adicional segunda. Modificaciones en la legislación autonómica de Canarias.
 
-En aplicación de lo dispuesto en la Ley Orgánica 3/2007, de 22 de marzo, para la igualdad efectiva de mujeres y hombres, en relación con la condición de plena ciudadanía de las mujeres en Canarias, se revisarán todos los textos normativos de las administraciones públicas canarias suprimiendo el uso del masculino genérico sistemático en el lenguaje y adaptándolo a la representación paritaria de ambos sexos, en los términos que proceda en cada caso.
+En aplicación de lo dispuesto en la [Ley Orgánica 3/2007](./LO3_2007_igualdad_efectiva_mujeres_hombres.md), de 22 de marzo, para la igualdad efectiva de mujeres y hombres, en relación con la condición de plena ciudadanía de las mujeres en Canarias, se revisarán todos los textos normativos de las administraciones públicas canarias suprimiendo el uso del masculino genérico sistemático en el lenguaje y adaptándolo a la representación paritaria de ambos sexos, en los términos que proceda en cada caso.
 
 #### Disposición adicional tercera. Modificación de la Ley 1/1994, de 13 de enero, del Instituto Canario de la Mujer.
 

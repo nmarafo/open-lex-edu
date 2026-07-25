@@ -2108,7 +2108,7 @@ Sin perjuicio de lo indicado en el artículo 49, letra c), la duración del perm
 
 #### Disposición transitoria séptima. Referencia a los Organismos Reguladores.
 
-Hasta que se produzca la entrada en vigor de la Ley 40/2015, de 1 de octubre, de Régimen Jurídico del Sector Público, las previsiones contenidas en la disposición adicional cuarta de esta ley se entenderán referidas a los organismos reguladores de la disposición adicional décima, 1 de la Ley 6/1997, de 14 de abril, de Organización y Funcionamiento de la Administración General del Estado.
+Hasta que se produzca la entrada en vigor de la [Ley 40/2015](./L40_2015_regimen_juridico_sector_publico.md), de 1 de octubre, de Régimen Jurídico del Sector Público, las previsiones contenidas en la disposición adicional cuarta de esta ley se entenderán referidas a los organismos reguladores de la disposición adicional décima, 1 de la Ley 6/1997, de 14 de abril, de Organización y Funcionamiento de la Administración General del Estado.
 
 #### Disposición transitoria octava. Aplicación del artículo 84.3.
 
@@ -2138,7 +2138,7 @@ Las disposiciones de este Estatuto se dictan al amparo del artículo 149.1.18.ª
 
 Las previsiones de esta ley son de aplicación a todas las comunidades autónomas respetando en todo caso las posiciones singulares en materia de sistema institucional y las competencias exclusivas y compartidas en materia de función pública y de autoorganización que les atribuyen los respectivos Estatutos de Autonomía, en el marco de la Constitución.
 
-#### Disposición final tercera. Modificación de la Ley 53/1984, de 26 de diciembre, de incompatibilidades del personal al servicio de las Administraciones Públicas.
+#### Disposición final tercera. Modificación de la [Ley 53/1984](./L53_1984_incompatibilidades_personal_servicio_administraciones_publicas.md), de 26 de diciembre, de incompatibilidades del personal al servicio de las Administraciones Públicas.
 
 Se modifica el apartado 1 del artículo 16, que queda redactado de la siguiente forma:
 

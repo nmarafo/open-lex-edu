@@ -181,7 +181,7 @@ municipios y en los días declarados como fiestas propias de la Comunidad Autón
 Canarias.
 3.1.c) Procedimiento para la cobertura de una vacante.
 La cobertura de las vacantes, a tenor de lo dispuesto en la disposición final primera de 
-la Ley Orgánica 3/2020, de 29 de diciembre, por la que se modifica la Ley Orgánica 2/2006, 
+la Ley Orgánica 3/2020, de 29 de diciembre, por la que se modifica la [Ley Orgánica 2/2006](../../../estatal/01_marco_normativo_general_y_organico/LO2_2006_educacion_texto_consolidado_modificaciones_lomloe.md), 
 de 3 de mayo, de Educación.
 1º) El centro deberá cumplimentar el modelo de anuncio de publicación de vacante, 
 debiendo figurar, en todo caso, el nivel de enseñanza, la especialidad a impartir y el tipo de 
@@ -235,7 +235,7 @@ h) Informe de vida laboral, en caso de solicitar el reconocimiento de antigüeda
 centro, a efectos de su acreditación.
 i) Modelo de Comunicación de datos al pagador (Modelo 145).
 j) Justificante bancario en el que se acredite la condición de titular de la cuenta corriente.
-En cumplimiento de la disposición adicional cuarta del Real Decreto 2377/1985, 
+En cumplimiento de la disposición adicional cuarta del [Real Decreto 2377/1985](../../../estatal/02_gestion_y_administracion_centros/RD2377_1985_aprueba_reglamento_normas_basicas_conciertos_educativos.md), 
 de 18 de diciembre, de Normas Básicas sobre conciertos educativos, cuando se trate de 
 altas de personal docente que carezca de relación laboral, que presten sus servicios en 
 Centros Privados que hayan suscrito concierto educativo con la Consejería de Educación, 

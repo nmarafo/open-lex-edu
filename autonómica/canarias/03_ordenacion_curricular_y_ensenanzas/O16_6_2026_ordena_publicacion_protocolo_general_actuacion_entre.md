@@ -146,7 +146,7 @@ que presenta el módulo de Formación en Centros de Trabajo (en adelante
 FCT) según se 
 desprende del artículo 11.3 y 4 del Real Decreto 278/2023, de 11 de abril, por el que 
 se establece el calendario de implementación del Sistema de Formación Profesional 
-establecido por la citada Ley Orgánica 3/2022, de 31 de marzo, considerando la existencia 
+establecido por la citada [Ley Orgánica 3/2022](../08_personal_docente/LO3_2022_ordenacion_gestion_determinadas_listas_empleo_tras.md), de 31 de marzo, considerando la existencia 
 actual de Ciclos Formativos regulados sobre la base de la [Ley Orgánica 1/1990](../../../estatal/02_gestion_y_administracion_centros/LO1_1990_regula_regimen_equivalencias_estudios_basicos_medios.md), de 3 de 
 octubre, de Ordenación General del Sistema Educativo.
 Cuarto.- La [Ley 6/2014](../01_marco_normativo_general_y_organico/L6_2014_canaria_educacion_no_universitaria.md), de 25 de julio, Canaria de Educación no Universitaria, en su 
@@ -168,7 +168,7 @@ CEFPAFD), a través de la Dirección General de
 Formación Profesional y Enseñanzas de Régimen Especial, tiene competencias en materia de 
 Formación Profesional, según el artículo 20.2.e) del Reglamento Orgánico de la Consejería 
 de Educación, Formación Profesional, Actividad Física y Deportes, aprobado mediante el 
-Decreto 84/2024, de 10 de junio, estando capacitada para promover la participación y la 
+[Decreto 84/2024](../01_marco_normativo_general_y_organico/D84_2024_aprueba_reglamento_organico_formacion_profesional_actividad.md), de 10 de junio, estando capacitada para promover la participación y la 
 colaboración con distintos agentes sociales, administraciones públicas y otras entidades, a 
 través de convenios y acuerdos relacionados con las enseñanzas de su ámbito competencial.
 Séptimo.- La 
@@ -384,7 +384,7 @@ normativa reguladora de protección de datos de carácter personal.
 Decimoprimera.- Naturaleza y jurisdicción.
 El presente Protocolo General de Actuación tiene naturaleza administrativa, siendo 
 el régimen aplicable el previsto en la [Ley 39/2015](../../../estatal/01_marco_normativo_general_y_organico/L39_2015_procedimiento_administrativo_comun_administraciones_publicas.md), de 1 de octubre, del Procedimiento 
-Administrativo Común de las Administraciones Públicas, y en la Ley 40/2015, de 1 de 
+Administrativo Común de las Administraciones Públicas, y en la [Ley 40/2015](../../../estatal/01_marco_normativo_general_y_organico/L40_2015_regimen_juridico_sector_publico.md), de 1 de 
 octubre, de Régimen Jurídico del Sector Público, estando excluido del ámbito de aplicación 
 de la [Ley 9/2017](../../../estatal/02_gestion_y_administracion_centros/L9_2017_contratos_sector_publico_transponen_ordenamiento_juridico.md), de 8 de noviembre, de Contratos del Sector Público, siéndole de aplicación, 
 en defecto de normas específicas, los principios de esta Ley y del resto del ordenamiento 
@@ -408,7 +408,7 @@ AUTÓNOMA DE CANARIAS.
 El/la Ilmo./a. Sr./Sra. D./Dña. ………………………………, en calidad de Alcalde/sa Presidente/a 
 del  Ayuntamiento  de  …………………………………...…..,  con  DNI  número 
 …………….……….,  actuando  en  nombre  y  representación  del  mismo,  en  virtud  de  las 
-competencias que le otorga la Ley 7/1985, de 2 de abril, Reguladora de las Bases de Régimen 
+competencias que le otorga la [Ley 7/1985](../../../estatal/02_gestion_y_administracion_centros/L7_1985_reguladora_bases_regimen_local.md), de 2 de abril, Reguladora de las Bases de Régimen 
 Local y la Ley 7/2015, de 1 de abril, de los municipios de Canarias,
 DECLARA
 Que el Pleno/Junta de Gobierno Local del Ayuntamiento de ………… ....………….......… ha 
@@ -433,7 +433,7 @@ realización de la formación en empresa u organismo equiparado por el alumnado 
 en el Sistema de Formación Profesional de la Comunidad Autónoma de Canarias. 
 Vista  la Memoria  Propuesta  suscrita por  la  Directora  General  de  Formación  Profesional  y 
 Enseñanzas de Régimen Especial de fecha 30 de julio de 2025, y teniendo en cuenta lo siguiente:
-Primero.- La Ley Orgánica 3/2022 de 31 de marzo, de Ordenación e Integración de la Formación  
+Primero.- La [Ley Orgánica 3/2022](../08_personal_docente/LO3_2022_ordenacion_gestion_determinadas_listas_empleo_tras.md) de 31 de marzo, de Ordenación e Integración de la Formación  
 Profesional (en adelante LOOIFP), establece la constitución y ordenación de un sistema único e  
 integrado  de  la  formación  profesional  en  todo  el  territorio  nacional,  transformando  
 significativamente el sistema de formación profesional.
@@ -447,7 +447,7 @@ autorizados para impartir enseñanzas de formación profesional del sistema educ
 titularidad  pública  o  privada,  establecerán  los  acuerdos  con  las  empresas  u  organismos  
 equiparados  que  aseguren  el  acceso  efectivo  de  todo  el  alumnado  a  la  realización  de  la  
 formación en empresa u organismos equiparado». 
-Segundo.- El Real Decreto 659/2023, de 18 de julio, por el que se desarrolla la ordenación del  
+Segundo.- El [Real Decreto 659/2023](./RD659_2023_dictan_instrucciones_orientaciones_formacion_dual_empresas.md), de 18 de julio, por el que se desarrolla la ordenación del  
 sistema de formación profesional en su artículo 156.1 preceptúa que  «el centro de formación  
 profesional autorizado para impartir las ofertas de formación profesional establecerá un acuerdo  
 marco o convenio de cooperación con la empresa, empresas u organismos equiparados, en los  
@@ -455,12 +455,12 @@ términos que cada Administración competente establezca».
 En  esta  línea,  el  apartado  2  establece  el  contenido  mínimo  que  deben  tener  los  acuerdos  o 
 convenios  que  se  suscriban  cuyo  modelo  deberá  ser  aprobado  por  la  administración  
 correspondiente. 
-Tercero.- En consonancia con lo anterior, procede señalar que la Ley 6/2014, de 25 de julio, Canaria 
+Tercero.- En consonancia con lo anterior, procede señalar que la [Ley 6/2014](../01_marco_normativo_general_y_organico/L6_2014_canaria_educacion_no_universitaria.md), de 25 de julio, Canaria 
 de Educación no Universitaria establece, en su artículo 33 relativo a la formación profesional, la  
 promoción  de  la  colaboración  con  las  empresas  y  entidades  empresariales  y  de  profesionales 
 autónomos y, en particular, con aquellas relacionadas con los sectores emergentes, en crecimiento e 
 innovadores.
-Cuarto.-  El artículo 12 de la Ley 40/2015, de 1 de octubre, de Régimen Jurídico del Sector  
+Cuarto.-  El artículo 12 de la [Ley 40/2015](../../../estatal/01_marco_normativo_general_y_organico/L40_2015_regimen_juridico_sector_publico.md), de 1 de octubre, de Régimen Jurídico del Sector  
 Público establece que los titulares de los órganos administrativos podrán, en materias de su  
 competencia, que ostenten, bien por atribución, bien por delegación de competencias, delegar la  
 firma de sus resoluciones y actos administrativos en los titulares de los órganos o unidades  
@@ -474,15 +474,15 @@ artículo  5.2,  g)  que  el  Consejero  o  Consejera  le  corresponde  la  comp
 convenios y acuerdos con otras Administraciones, instituciones y entidades públicas o privadas  
 relativos  a  planes,  programas,  servicios,  actividades  y  medios  relacionados  con  las  áreas  
 materiales de educación, formación profesional, actividad física y deportes». 
-En virtud de lo expuesto, y de acuerdo con lo previsto en el artículo 29 de la Ley 14/1990 de 26 de 
+En virtud de lo expuesto, y de acuerdo con lo previsto en el artículo 29 de la [Ley 14/1990](../01_marco_normativo_general_y_organico/L14_1990_regimen_juridico_administraciones_publicas_canarias.md) de 26 de 
 julio, de Régimen Jurídico de las Administraciones Públicas de Canarias, en relación con el  
 artículo 5.2 g) del Reglamento Orgánico de Educación, Formación Profesional, Actividad Física y 
-Deportes, aprobado por Decreto 84/2024, de 10 de junio.
+Deportes, aprobado por [Decreto 84/2024](../01_marco_normativo_general_y_organico/D84_2024_aprueba_reglamento_organico_formacion_profesional_actividad.md), de 10 de junio.
 RESUELVO
 Primero.- Aprobar el modelo tipo de convenio de colaboración para la realización de la fase de  
 formación en empresas u organismos equiparados de las enseñanzas de Formación Profesional  
 que posibilite y regule la realización de la fase de formación práctica del alumnado de formación  
-profesional que se prevé en el artículo 156 del Real Decreto 659/2023, de 18 de julio, por el que  
+profesional que se prevé en el artículo 156 del [Real Decreto 659/2023](./RD659_2023_dictan_instrucciones_orientaciones_formacion_dual_empresas.md), de 18 de julio, por el que  
 se desarrolla la ordenación del Sistema de Formación Profesional y que se recoge como Anexo a  
 la presente Orden.
 Segundo.- Este convenio tipo de colaboración deberá ser suscrito obligatoriamente por los centros 
@@ -495,7 +495,7 @@ convenios  que,  siguiendo  el  modelo  aprobado  en  el  presente  acto,  suscr
 docentes con las empresas u organismos equiparados cuando se trate de centros docentes públicos  
 dependientes de la Consejería competente en materia de formación profesional.
 Cuarto.- La vigencia de los convenios suscritos conforme al modelo tipo recogido en el Anexo  
-atenderá a lo dispuesto en el artículo 49, h) de la Ley 40/2015, de 1 de octubre, del Régimen  
+atenderá a lo dispuesto en el artículo 49, h) de la [Ley 40/2015](../../../estatal/01_marco_normativo_general_y_organico/L40_2015_regimen_juridico_sector_publico.md), de 1 de octubre, del Régimen  
 Jurídico del Sector Público.
 Quinto.- Autorizar a la  persona titular de la Dirección General de Formación Profesional y  
 Enseñanzas de Régimen Especial para modificar, mediante resolución, el modelo de convenio tipo 
@@ -531,7 +531,7 @@ representante legal de_________, con domicilio social en __________, término mu
 _______, provincia de_______, teléfono _________, e-mail ______________, en adelante  
 referida como "la entidad colaboradora".
 EXPONEN
-Primero.- La Ley Orgánica 2/2006, de 3 de mayo, de Educación, define en el artículo 42.bis la  
+Primero.- La [Ley Orgánica 2/2006](../../../estatal/01_marco_normativo_general_y_organico/LO2_2006_educacion_texto_consolidado_modificaciones_lomloe.md), de 3 de mayo, de Educación, define en el artículo 42.bis la  
 Formación Profesional dual  del Sistema  Educativo  Español como  el conjunto  de acciones  e 
 iniciativas  formativas  que,  en  corresponsabilidad  con  las  empresas,  tienen  por  objeto  la 
 cualificación profesional de las personas, armonizando los procesos de enseñanza y aprendizaje  
@@ -574,7 +574,7 @@ periodo de formación en empresa u organismo equiparado a contraprestación o do
 parte  del  centro  de  formación  profesional,  ni  directamente  ni  a  través  de  fundaciones  u  
 organizaciones  vinculadas  con  ellos,  cuando  la  citada  estancia  de  formación  en  empresa  u 
 organismo equiparado forme parte del currículo de la oferta formativa.»
-Tercero.- El  Real Decreto 659/2023, de 18 de julio, por el que se desarrolla la ordenación del  
+Tercero.- El  [Real Decreto 659/2023](./RD659_2023_dictan_instrucciones_orientaciones_formacion_dual_empresas.md), de 18 de julio, por el que se desarrolla la ordenación del  
 Sistema de Formación Profesional establece en su artículo 156.2 el contenido mínimo que debe  
 tener el acuerdo o convenio a suscribir por la dirección de los centros de formación profesional  
 autorizados  para  impartir  las  ofertas  de  dichas  enseñanzas  con  las  empresas  u  organismo 
@@ -663,7 +663,7 @@ financiera y eficiencia de la actividad.
 TERCERA.- Duración.
 1. La duración del presente  convenio será de _______ meses a partir de la fecha de firma.
 2. Se prorrogará, por acuerdo unánime de los firmantes, de acuerdo con lo dispuesto en el artículo
-49 h) de la Ley 40/2015, de 1 de octubre, de Régimen Jurídico del Sector Público, hasta un  
+49 h) de la [Ley 40/2015](../../../estatal/01_marco_normativo_general_y_organico/L40_2015_regimen_juridico_sector_publico.md), de 1 de octubre, de Régimen Jurídico del Sector Público, hasta un  
 máximo de cuatro años adici
 onales, salvo denuncia expresa de alguna de las partes, que deberá  
 comunicarse por escrito con una antelación de al menos quince días.
@@ -683,7 +683,7 @@ de las derivadas de la vinculación en régimen intensivo.
 2. La empresa u organismo equiparado no podrá cubrir, ni siquiera con carácter interino, ningún
 puesto de trabajo en plantilla con la persona que realice actividades formativas en la misma, salvo  
 que se establezca al efecto una relación laboral, debiéndose cumplir con lo dispuesto en el artículo 
-156.2, i) del Real Decreto 659/2023, de 18 de julio . En este caso, se considerará que la persona en  
+156.2, i) del [Real Decreto 659/2023](./RD659_2023_dictan_instrucciones_orientaciones_formacion_dual_empresas.md), de 18 de julio . En este caso, se considerará que la persona en  
 formación abandona el  plan de formación o, en su caso, programa formativo,  y la empresa u  
 organismo equiparado comunicará este hecho a l a persona titular de la Dirección del centro de  
 formación, quien a su vez lo pondrá en conocimiento de la Dirección General competente en  
@@ -750,7 +750,7 @@ reproducción o almacenamiento de los datos de la misma, así como su transmisi�
 cualquier medio.
 i) Comunicar al alumnado en formación en empresa u organismo equiparado los criterios de
 asignación de empresa establecidos en la cláusula novena del presente convenio, en las  
-condiciones establecidas en el artículo 155 del Real Decreto 659/2023, de 18 de julio.
+condiciones establecidas en el artículo 155 del [Real Decreto 659/2023](./RD659_2023_dictan_instrucciones_orientaciones_formacion_dual_empresas.md), de 18 de julio.
 
 j) Colaborar con el tutor o tutora dual en la valoración de la adquisición de los resultados de
 aprendizaje alcanzados, de acuerdo con los criterios de evaluación establecidos, recogida en los  
@@ -771,7 +771,7 @@ aprueba el Texto Refundido de la Ley General de la Seguridad Social, gestionada 
 centro directivo competente en materia de Formación Profesional.
 B) Compromisos de la empresa u organismo equiparado:
 La empresa u organismo equiparado se compromete para la consecución de los fines del presente 
-acuerdo,  además de los establecidos en el artículo 153.2 del real Decreto 659/2023, a:
+acuerdo,  además de los establecidos en el artículo 153.2 del [real Decreto 659/2023](./RD659_2023_dictan_instrucciones_orientaciones_formacion_dual_empresas.md), a:
 a) Apoyar y desarrollar la realización formativa de formación profesional, tanto del plan de formación
 como programa formativo, en sus centros de trabajo o a través de la modalidad de teletrabajo, según  
 lo dispuesto de forma expresa en el plan formación o programa formativo específico,  en las 
@@ -877,7 +877,7 @@ escolar correspondiente a cada curso académico, debiendo cumplir con el horario
 2. La  jornada  de  trabajo  se  desarrollará  atendiendo  a  las  condiciones  específicas  del  grupo
 profesional por el cual se desarrolle la formación en empresa u organismo equiparado. En todo  
 caso, habrá que atender a lo dispuesto en la normativa laboral vigente aplicable a cada caso  
-concreto, así como a los límites establecidos en el Real Decreto 659/2023, de 18 de julio para la  
+concreto, así como a los límites establecidos en el [Real Decreto 659/2023](./RD659_2023_dictan_instrucciones_orientaciones_formacion_dual_empresas.md), de 18 de julio para la  
 formación  en  empresa  u  organismo  equiparado  y  las  instrucciones  publicadas  por  la  
 Administración educativa competente en el ámbito de la Comunidad Autónoma de Canarias.
 3. Cada periodo de formación en la empresa será compatible con la atención periódica en el centro
@@ -921,7 +921,7 @@ Dirección General de Formación Profesional y Enseñanzas de Régimen Especial 
 un seguimiento efectivo del alumnado.
 DÉCIMA.- Régimen de becas para la formación en empresas.
 La relación entre el alumnado y el profesorado con la empresa,  podrá celebrarse en régimen  
-general conforme lo dispuesto en el Real Decreto 659/2023, de 18 de julio,  por lo que no se 
+general conforme lo dispuesto en el [Real Decreto 659/2023](./RD659_2023_dictan_instrucciones_orientaciones_formacion_dual_empresas.md), de 18 de julio,  por lo que no se 
 devengará retribución alguna por su actividad ni por los resultados derivados de ella. El alumnado 
 que realiza las actividades formativas en la empresa, podrá percibir una beca mensual.
 UNDÉCIMA.- Formación en la empresa en régimen intensivo.
@@ -992,7 +992,7 @@ a) Transcurso del plazo de vigencia.
 b) El mutuo acuerdo de las partes.
 c) El incumplimiento del objeto o de cualquiera de sus estipulaciones, imputable a alguna de las
 partes del mismo.
-d) Por cualquier otra causa de las previstas en el artículo 51.2 de la Ley 40/2015, de 1 de
+d) Por cualquier otra causa de las previstas en el artículo 51.2 de la [Ley 40/2015](../../../estatal/01_marco_normativo_general_y_organico/L40_2015_regimen_juridico_sector_publico.md), de 1 de
 octubre.
 e) Por decisión judicial declaratoria de la nulidad del convenio.
 En el supuesto establecido en la letra c), cualquiera de las partes podrá notificar a la parte
@@ -1004,7 +1004,7 @@ resuelto el convenio. Dicha circunstancia deberá ser puesta en conocimiento de 
 de Seguimiento para la determinación, en su caso, de la indemnización de los perjuicios
 causados.
 En lo que se refiere a los efectos de la resolución del convenio se estará a lo previsto en el
-artículo 52 de la Ley 40/2015, de 1 de octubre. En  cualquier caso, la extinción del convenio
+artículo 52 de la [Ley 40/2015](../../../estatal/01_marco_normativo_general_y_organico/L40_2015_regimen_juridico_sector_publico.md), de 1 de octubre. En  cualquier caso, la extinción del convenio
 deberá respetar la finalización de las  actividades formativas que hayan sido organizadas al
 amparo del presente convenio.
 2. Quedará sin efecto el plan de formación o programa formativo acordado, por decisión unilateral
@@ -1015,7 +1015,7 @@ del centro docente, de la empresa, o conjunta de ambos, en los siguientes casos:
 
 DECIMOQUINTA.- Causas de extinción.
 Los convenios se extinguen por el cumplimiento de las actuaciones que constituyen su objeto o
-por incurrir en causa de resolución tal como se recoge en el artículo 51 de la Ley 40/2015, de 1 de
+por incurrir en causa de resolución tal como se recoge en el artículo 51 de la [Ley 40/2015](../../../estatal/01_marco_normativo_general_y_organico/L40_2015_regimen_juridico_sector_publico.md), de 1 de
 octubre.
 DECIMOSEXTA- Comisión de Seguimiento.
 1. Se  establecerá  una  Comisión  de  Seguimiento  constituida,  al  menos,  por  dos  personas
@@ -1046,7 +1046,7 @@ forma de liquidación del mismo, emitiendo un informe de actuaciones realizadas 
 fecha,  garantizando  la  finalización  de  las  actividades  programadas  y,  en  todo  caso,  la 
 escolarización del alumnado.
 6. El régimen de funcionamiento y organización de la Comisión de Seguimiento será el previsto
-para los órganos colegiados en la sección 3ª del capítulo ll del título preliminar de la Ley 40/2015,  
+para los órganos colegiados en la sección 3ª del capítulo ll del título preliminar de la [Ley 40/2015](../../../estatal/01_marco_normativo_general_y_organico/L40_2015_regimen_juridico_sector_publico.md),  
 de 1 de octubre, de Régimen Jurídico del Sector Público.
 
 DECIMOSÉPTIMA.- Datos de carácter personal.
@@ -1054,7 +1054,7 @@ DECIMOSÉPTIMA.- Datos de carácter personal.
 finalizada su vigencia, mientras traten datos personales de la otra parte, el Reglamento (UE)  
 2016/679 del Parlamento Europeo y el Consejo de 27 de abril de 2016 relativo a la protección de  
 personas físicas en lo que respecta al tratamiento de datos personales y a la libre circulación de  
-estos datos y la Ley Orgánica 3/2018, de 5 de diciembre, de Protección de Datos Personales, y  
+estos datos y la [Ley Orgánica 3/2018](../../../estatal/02_gestion_y_administracion_centros/LO3_2018_proteccion_datos_personales_garantia_derechos_digitales.md), de 5 de diciembre, de Protección de Datos Personales, y  
 garantía  de  los  derechos  digitales,  así  como  al  resto  de  la  normativa  europea  y  nacional 
 relacionada.
 2. La Viceconsejería de Formación Profesional y Cualificaciones Profesionales de la Consejería
@@ -1063,7 +1063,7 @@ tratamiento de los datos personales. Como tal, le corresponde, de conformidad co
 (UE) 2016/679 del Parlamento Europeo y del Consejo de 27 de abril de 2016 relativo a la  
 protección de las personas físicas en lo que respecta al tratamiento de datos personales y a la libre  
 circulación de estos datos y por el que se deroga la Directiva 95/46/CE (en adelante RGPD) y la  
-Ley Orgánica 3/2018, de 5 de diciembre, de Protección de Datos Personales y garantía de los  
+[Ley Orgánica 3/2018](../../../estatal/02_gestion_y_administracion_centros/LO3_2018_proteccion_datos_personales_garantia_derechos_digitales.md), de 5 de diciembre, de Protección de Datos Personales y garantía de los  
 derechos digitales (en adelante LPDGDD), la determinación de los fines, contenido, medios y uso  
 del tratamiento de dichos datos.
 La   Viceconsejería  de  Formación  Profesional  y  Cualificaciones  Profesionales  dispone  de  un 
@@ -1135,13 +1135,13 @@ opinión, una instrucción infringe el presente Reglamento u otras disposiciones
 protección de datos de la Unión Europea o de los Estados miembros.
                                                                                                                 
 
-4. En cumplimiento del artículo 5 de la Ley Orgánica 3/2018, de 5 de diciembre, las personas
+4. En cumplimiento del artículo 5 de la [Ley Orgánica 3/2018](../../../estatal/02_gestion_y_administracion_centros/LO3_2018_proteccion_datos_personales_garantia_derechos_digitales.md), de 5 de diciembre, las personas
 responsables y encargadas del tratamiento de datos así como todas las personas que intervengan  
 en cualquier fase de este estarán sujetas al deber de confidencialidad al que se refiere el artículo  
 5.1.f) del Reglamento (UE) 2016/679,manteniéndose dicha obligación cuando hubiese finalizado  
 la relación del obligado con el/la responsable o encargado/a del tratamiento.
 DECIMOCTA V A.- Protección de menores.
-Según lo indicado en el artículo 57.1 de la Ley Orgánica 8/2021, de 4 de junio, de protección
+Según lo indicado en el artículo 57.1 de la [Ley Orgánica 8/2021](../../../estatal/07_convivencia_bienestar_y_protocolos/LO8_2021_proteccion_integral_infancia_adolescencia_frente_violencia.md), de 4 de junio, de protección
  
 integral a la infancia y a la adolescencia frente a la violencia: “ será requisito para el acceso y  
 ejercicio de cualesquiera profesiones, oficios y actividades que impliquen contacto habitual  
@@ -1155,13 +1155,13 @@ Central de delincuentes sexuales ”. Por tanto, los tutores o tutoras de empres
 equiparado  que  ejerzan  la  tutoría  de  menores  de  edad  deberán  cumplir  este  requisito. 
 Asimismo,  y  exclusivamente  para  el  alumnado  que  realice  actividades  formativas  que 
 impliquen contacto habitual con menores, dicho alumnado aportará la certificación negativa  
-citada en el artículo 57.1 de la Ley Orgánica 8/2021, previa solicitud ante la Administración de  
+citada en el artículo 57.1 de la [Ley Orgánica 8/2021](../../../estatal/07_convivencia_bienestar_y_protocolos/LO8_2021_proteccion_integral_infancia_adolescencia_frente_violencia.md), previa solicitud ante la Administración de  
 Justicia, o alternativamente podrá autorizar a la consejería competente en materia de educación  
 para que solicite, en su nombre, la citada certificación.
 DECIMONOVENA.- Naturaleza jurídica del convenio.
 Este convenio tiene naturaleza administrativa y se regirá, además de por su clausulado, en lo no  
-previsto en el mismo por lo dispuesto en el capítulo VI del título preliminar de la Ley 40/2015, de  
-1 de octubre, quedando excluido de la aplicación de la Ley 9/2017, de 8 de noviembre, de  
+previsto en el mismo por lo dispuesto en el capítulo VI del título preliminar de la [Ley 40/2015](../../../estatal/01_marco_normativo_general_y_organico/L40_2015_regimen_juridico_sector_publico.md), de  
+1 de octubre, quedando excluido de la aplicación de la [Ley 9/2017](../../../estatal/02_gestion_y_administracion_centros/L9_2017_contratos_sector_publico_transponen_ordenamiento_juridico.md), de 8 de noviembre, de  
 contratos de Sector Público, por la que se se transponen al ordenamiento jurídico español las  
 Directivas del Parlamento Europeo y del Consejo 2014/23/UE y 2014/24/UE, de 26 de febrero de  
 2014, al amparo de lo dispuesto en su artículo 6. Todo ello, sin perjuicio de que, conforme a su  

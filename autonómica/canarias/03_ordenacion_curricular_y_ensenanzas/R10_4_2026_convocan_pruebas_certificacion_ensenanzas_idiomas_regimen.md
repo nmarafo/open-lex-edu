@@ -47,7 +47,7 @@ fuente_pdf_oficial: https://sede.gobiernodecanarias.org/boc/boc-a-2026-077-1287.
 III. Otras Resoluciones
 Consejería de Educación, Formación Profesional, Actividad Física y Deportes
 1287 Dirección General de Formación Profesional y Enseñanzas de Régimen Especial.- 
-Resolución de 10 de abril de 2026, por la que se convocan pruebas de certificación 
+[Resolución de 10 de abril de 2026](../04_organizacion_escolar_y_funcionamiento/R10_4_2026_corrige_error_resolucion_mazo_establece_calendario.md), por la que se convocan pruebas de certificación 
 de Enseñanzas de Idiomas de Régimen Especial para aspirantes libres y alumnado 
 escolarizado en las Escuelas Oficiales de Idiomas de la Comunidad Autónoma de 
 Canarias, y se dictan instrucciones para su organización y aplicación en el curso 
@@ -76,7 +76,7 @@ A1, A2, B1, B2, C1 y C2.
 Segundo.- El Real Decreto 1041/2017, de 22 de diciembre, por el que se fijan las 
 exigencias mínimas del nivel básico a efectos de certificación, se establece el currículo 
 básico de los Niveles Intermedio B1, Intermedio B2, Avanzado C1 y Avanzado C2, de las 
-enseñanzas de idiomas de régimen especial reguladas por la Ley Orgánica 2/2006, de 3 de 
+enseñanzas de idiomas de régimen especial reguladas por la [Ley Orgánica 2/2006](../../../estatal/01_marco_normativo_general_y_organico/LO2_2006_educacion_texto_consolidado_modificaciones_lomloe.md), de 3 de 
 mayo, de Educación, y se establecen las equivalencias entre las Enseñanzas de Idiomas de 
 Régimen Especial reguladas en diversos planes de estudios y las de este real decreto, viene 
 a desarrollar las modificaciones en materia de Enseñanzas de Idiomas de Régimen Especial 
@@ -2204,7 +2204,7 @@ los Apéndice VII y VIII de la presente resolución.
 13.- Evaluación y calificación de las pruebas.
 13.1. En la evaluación y calificación de las  PCEI se tomarán como referencia los criterios de evaluación  
 fijados para cada nivel y actividad de lengua en los currículos establecidos en el Decreto 142/2018, de 8 de  
-octubre, así como los principios comunes de evaluación recogidos en el Real Decreto 1/2019, de 11 de enero. 
+octubre, así como los principios comunes de evaluación recogidos en el [Real Decreto 1/2019](../../../estatal/03_ordenacion_curricular_y_ensenanzas/RD1_2019_establecen_principios_basicos_comunes_evaluacion_aplicables.md), de 11 de enero. 
 De igual forma, la evaluación y calificación de las pruebas ha de ajustar se a lo recogido en la Orden de 15 de 
 septiembre de 2022 de la Consejería de Educación, Universidades, Cultura y Deportes, por la que se regula la 
 evaluación del alumnado de enseñanzas de idiomas y de las pruebas de certificación de Idiomas de Régimen  
@@ -2233,7 +2233,7 @@ convocados se recogen en los Apéndice VII y VIII de la presente Resolución.
 13.1. En la evaluación y calificación de las PCEI se tomarán como referencia los 
 criterios de evaluación fijados para cada nivel y actividad de lengua en los currículos 
 establecidos en el Decreto 142/2018, de 8 de octubre, así como los principios comunes 
-de evaluación recogidos en el Real Decreto 1/2019, de 11 de enero. De igual forma, la 
+de evaluación recogidos en el [Real Decreto 1/2019](../../../estatal/03_ordenacion_curricular_y_ensenanzas/RD1_2019_establecen_principios_basicos_comunes_evaluacion_aplicables.md), de 11 de enero. De igual forma, la 
 evaluación y calificación de las pruebas ha de ajustarse a lo recogido en la Orden de 15 de 
 septiembre de 2022, de la Consejería de Educación, Universidades, Cultura y Deportes, 
 por la que se regula la evaluación del alumnado de enseñanzas de idiomas y de las pruebas 
@@ -2293,7 +2293,7 @@ ostente la dirección del centro.
 14.- Publicación de los resultados, solicitud de aclaraciones y reclamaciones.
 14.1. Los resultados de las pruebas se harán públicos respetando lo que establece la 
 legislación vigente en materia de protección de datos de carácter personal, y, en todo caso, 
-a lo establecido en la disposición adicional vigesimotercera de la Ley Orgánica 2/2006, de 
+a lo establecido en la disposición adicional vigesimotercera de la [Ley Orgánica 2/2006](../../../estatal/01_marco_normativo_general_y_organico/LO2_2006_educacion_texto_consolidado_modificaciones_lomloe.md), de 
 3 de mayo, de Educación.
 14.2. Quienes se hayan presentado a las pruebas, en su propio nombre, o a través de su 
 representante legal, podrán solicitar cuantas aclaraciones consideren necesarias acerca de 

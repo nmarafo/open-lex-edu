@@ -44,9 +44,9 @@ La Ley 10/1990, de 15 de octubre, del Deporte, encomendó al Gobierno la regulac
 
 La [Ley Orgánica 2/2006](../01_marco_normativo_general_y_organico/LO2_2006_educacion_texto_consolidado_modificaciones_lomloe.md), de 3 de mayo, de Educación, dispone en su artículo 64.6 que el Gobierno, previa consulta a las Comunidades Autónomas, establecerá las titulaciones correspondientes a los estudios de enseñanzas deportivas, los aspectos básicos del currículo y los requisitos mínimos de los centros.
 
-La [Ley Orgánica 5/2002](LO5_2002_cualificaciones_formacion_profesional.md), de 19 de junio, de las Cualificaciones y de la Formación Profesional, establece el Sistema Nacional de Cualificaciones y Formación Profesional como marco de las acciones formativas dirigidas a responder a las demandas del sector productivo. Algunas modalidades de las enseñanzas deportivas tienen características que permiten relacionarlas con el concepto genérico de formación profesional, sin que por ello se deba renunciar a su condición de oferta específica dirigida al sistema deportivo y diferenciada de la oferta que, dentro de la formación profesional del sistema educativo, realiza la familia profesional de Actividades Físicas y Deportivas para el resto del sector. Por ello, la citada Ley Orgánica 2/2006, de 3 de mayo, de Educación establece la posibilidad de que las enseñanzas deportivas se refieran al Catálogo Nacional de Cualificaciones Profesionales.
+La [Ley Orgánica 5/2002](LO5_2002_cualificaciones_formacion_profesional.md), de 19 de junio, de las Cualificaciones y de la Formación Profesional, establece el Sistema Nacional de Cualificaciones y Formación Profesional como marco de las acciones formativas dirigidas a responder a las demandas del sector productivo. Algunas modalidades de las enseñanzas deportivas tienen características que permiten relacionarlas con el concepto genérico de formación profesional, sin que por ello se deba renunciar a su condición de oferta específica dirigida al sistema deportivo y diferenciada de la oferta que, dentro de la formación profesional del sistema educativo, realiza la familia profesional de Actividades Físicas y Deportivas para el resto del sector. Por ello, la citada [Ley Orgánica 2/2006](../01_marco_normativo_general_y_organico/LO2_2006_educacion_texto_consolidado_modificaciones_lomloe.md), de 3 de mayo, de Educación establece la posibilidad de que las enseñanzas deportivas se refieran al Catálogo Nacional de Cualificaciones Profesionales.
 
-Este marco normativo hace necesario que ahora el Gobierno, previa consulta a las Comunidades Autónomas, actualice el título de Técnico Deportivo en Atletismo establecido al amparo de la [Ley Orgánica 1/1990](../02_gestion_y_administracion_centros/LO1_1990_regula_regimen_equivalencias_estudios_basicos_medios.md), de 3 de octubre, de Ordenación General del Sistema Educativo, y que formará parte del Catálogo de las enseñanzas deportivas del sistema educativo, y estableciendo sus enseñanzas mínimas y aquellos otros aspectos de la ordenación académica que, sin perjuicio de las competencias atribuidas a las Administraciones educativas en esta materia, constituyan los aspectos básicos del currículo que aseguren una formación común y garanticen la validez de los títulos, en cumplimiento con lo dispuesto en el artículo 6.2 de la Ley Orgánica 2/2006, de 3 de mayo, de Educación.
+Este marco normativo hace necesario que ahora el Gobierno, previa consulta a las Comunidades Autónomas, actualice el título de Técnico Deportivo en Atletismo establecido al amparo de la [Ley Orgánica 1/1990](../02_gestion_y_administracion_centros/LO1_1990_regula_regimen_equivalencias_estudios_basicos_medios.md), de 3 de octubre, de Ordenación General del Sistema Educativo, y que formará parte del Catálogo de las enseñanzas deportivas del sistema educativo, y estableciendo sus enseñanzas mínimas y aquellos otros aspectos de la ordenación académica que, sin perjuicio de las competencias atribuidas a las Administraciones educativas en esta materia, constituyan los aspectos básicos del currículo que aseguren una formación común y garanticen la validez de los títulos, en cumplimiento con lo dispuesto en el artículo 6.2 de la [Ley Orgánica 2/2006](../01_marco_normativo_general_y_organico/LO2_2006_educacion_texto_consolidado_modificaciones_lomloe.md), de 3 de mayo, de Educación.
 
 El [Real Decreto 1363/2007](RD1363_2007_establece_ordenacion_general_ensenanzas_deportivas_regimen.md), de 24 de octubre, por el que se establece la ordenación general de las enseñanzas deportivas de régimen especial, ha establecido la ordenación general de las enseñanzas deportivas de régimen especial, y define en el artículo 4 la estructura de las enseñanzas deportivas.
 
@@ -56,9 +56,9 @@ A estos efectos procede determinar para cada título su identificación, su perf
 
 El marcado carácter técnico de estas enseñanzas, definidas por la peculiaridad de sus procedimientos, materiales, equipos y prácticas específicas de cada modalidad, hace necesario un desarrollo que garantice un mínimo común denominador, claro y orientador, a través de una norma reglamentaria.
 
-El presente real decreto se dicta en desarrollo del Real Decreto 1363/2007, de 24 de octubre, por el que se establece la ordenación general de las enseñanzas deportivas de régimen especial, y establece y regula, en los aspectos y elementos básicos antes indicados, el título de Técnico Deportivo en Atletismo.
+El presente real decreto se dicta en desarrollo del [Real Decreto 1363/2007](./RD1363_2007_establece_ordenacion_general_ensenanzas_deportivas_regimen.md), de 24 de octubre, por el que se establece la ordenación general de las enseñanzas deportivas de régimen especial, y establece y regula, en los aspectos y elementos básicos antes indicados, el título de Técnico Deportivo en Atletismo.
 
-Finalmente, este real decreto adapta al ámbito de las enseñanzas deportivas en atletismo las previsiones de la Ley 51/2003, de 2 de diciembre, de igualdad de oportunidades, no discriminación y accesibilidad universal de las personas con discapacidad, ya contenidas en el citado Real Decreto 1363/2007, de 24 de octubre, y desarrolla en este ámbito las previsiones de la [Ley Orgánica 3/2007](../07_convivencia_bienestar_y_protocolos/LO3_2007_igualdad_efectiva_mujeres_hombres.md), de 22 de marzo, para la igualdad efectiva de mujeres y hombres.
+Finalmente, este real decreto adapta al ámbito de las enseñanzas deportivas en atletismo las previsiones de la Ley 51/2003, de 2 de diciembre, de igualdad de oportunidades, no discriminación y accesibilidad universal de las personas con discapacidad, ya contenidas en el citado [Real Decreto 1363/2007](./RD1363_2007_establece_ordenacion_general_ensenanzas_deportivas_regimen.md), de 24 de octubre, y desarrolla en este ámbito las previsiones de la [Ley Orgánica 3/2007](../07_convivencia_bienestar_y_protocolos/LO3_2007_igualdad_efectiva_mujeres_hombres.md), de 22 de marzo, para la igualdad efectiva de mujeres y hombres.
 
 En el proceso de elaboración de este real decreto han sido consultadas las Comunidades Autónomas, en el seno de las Conferencia Sectorial de Educación, y han emitido informe el Consejo Escolar del Estado y el Ministerio de Hacienda y Administraciones Públicas.
 
@@ -76,7 +76,7 @@ Objeto
 
 2. Lo dispuesto en este real decreto sustituye a la regulación del título de Técnico Deportivo en Atletismo contenida en el Real Decreto 254/2004, de 13 de febrero, por el que se establecen los títulos de Técnico Deportivo y Técnico Deportivo Superior en Atletismo, se aprueban las correspondientes enseñanzas comunes y se regulan las pruebas de acceso a estas enseñanzas.
 
-3. De conformidad con lo establecido en el Real Decreto 1363/2007, de 24 de octubre, por el que se establece la ordenación general de las enseñanzas deportivas de régimen especial, los elementos recogidos en el presente real decreto no constituyen una regulación del ejercicio de profesión titulada alguna.
+3. De conformidad con lo establecido en el [Real Decreto 1363/2007](./RD1363_2007_establece_ordenacion_general_ensenanzas_deportivas_regimen.md), de 24 de octubre, por el que se establece la ordenación general de las enseñanzas deportivas de régimen especial, los elementos recogidos en el presente real decreto no constituyen una regulación del ejercicio de profesión titulada alguna.
 
 CAPÍTULO II
 
@@ -296,7 +296,7 @@ Para iniciar los módulos de formación práctica de los ciclos inicial y final 
 
 #### Artículo 15. Determinación del currículo.
 
-Las Administraciones educativas establecerán los currículos correspondientes respetando lo establecido en este real decreto y de acuerdo con lo dispuesto en el artículo 16 del Real Decreto 1363/2007, de 24 de octubre, por el que se establece la ordenación general de las enseñanzas deportivas de régimen especial.
+Las Administraciones educativas establecerán los currículos correspondientes respetando lo establecido en este real decreto y de acuerdo con lo dispuesto en el artículo 16 del [Real Decreto 1363/2007](./RD1363_2007_establece_ordenacion_general_ensenanzas_deportivas_regimen.md), de 24 de octubre, por el que se establece la ordenación general de las enseñanzas deportivas de régimen especial.
 
 #### Artículo 16. Espacios y equipamientos deportivos.
 
@@ -314,7 +314,7 @@ Acceso a cada uno de los ciclos
 
 #### Artículo 18. Requisitos de acceso al ciclo inicial de grado medio en atletismo para personas sin el título de Graduado en Educación Secundaria Obligatoria.
 
-Se podrá acceder a las enseñanzas del ciclo inicial de grado medio en atletismo sin el título de Graduado en Educación Secundaria Obligatoria, siempre que el aspirante reúna los otros requisitos de carácter específico que se establecen en el presente real decreto, cumpla las condiciones de edad y supere la prueba establecida en el artículo 31.1.a) del Real Decreto 1363/2007, de 24 de octubre, por el que se establece la ordenación general de las enseñanzas deportivas de régimen especial.
+Se podrá acceder a las enseñanzas del ciclo inicial de grado medio en atletismo sin el título de Graduado en Educación Secundaria Obligatoria, siempre que el aspirante reúna los otros requisitos de carácter específico que se establecen en el presente real decreto, cumpla las condiciones de edad y supere la prueba establecida en el artículo 31.1.a) del [Real Decreto 1363/2007](./RD1363_2007_establece_ordenacion_general_ensenanzas_deportivas_regimen.md), de 24 de octubre, por el que se establece la ordenación general de las enseñanzas deportivas de régimen especial.
 
 #### Artículo 19. Requisitos de acceso específicos al ciclo inicial de grado medio en atletismo.
 
@@ -342,7 +342,7 @@ c) Haber sido clasificado entre los ocho primeros, al menos una vez en los últi
 
 #### Artículo 22. Requisitos de acceso de personas que acrediten discapacidades.
 
-Las personas con discapacidad podrán acceder a las enseñanzas de estos ciclos conforme a la disposición adicional tercera del Real Decreto 1363/2007, de 24 de octubre, siendo obligación de las administraciones competentes llevar a cabo los ajustes razonables para que este acceso no comporte restricciones injustificadas contrarias al principio de igualdad de oportunidades.
+Las personas con discapacidad podrán acceder a las enseñanzas de estos ciclos conforme a la disposición adicional tercera del [Real Decreto 1363/2007](./RD1363_2007_establece_ordenacion_general_ensenanzas_deportivas_regimen.md), de 24 de octubre, siendo obligación de las administraciones competentes llevar a cabo los ajustes razonables para que este acceso no comporte restricciones injustificadas contrarias al principio de igualdad de oportunidades.
 
 #### Artículo 23. Composición y perfil del tribunal de la prueba de carácter específico:
 
@@ -364,7 +364,7 @@ d) La evaluación final de los aspirantes.
 
 2. El tribunal, como órgano colegiado, se regirá por lo establecido en el Título II, Capítulo II de la Ley 30/1992, de 26 de noviembre, de Régimen Jurídico de las Administraciones Públicas y del Procedimiento Administrativo Común.
 
-3. En el caso de que alguno de los aspirantes acredite algún tipo de discapacidad, el tribunal actuará de acuerdo con lo dispuesto en la disposición adicional tercera del Real Decreto 1363/2007, de 24 de octubre.
+3. En el caso de que alguno de los aspirantes acredite algún tipo de discapacidad, el tribunal actuará de acuerdo con lo dispuesto en la disposición adicional tercera del [Real Decreto 1363/2007](./RD1363_2007_establece_ordenacion_general_ensenanzas_deportivas_regimen.md), de 24 de octubre.
 
 CAPÍTULO VI
 
@@ -400,11 +400,11 @@ El título de Técnico Deportivo en Atletismo permitirá el acceso directo a tod
 
 1. El Ministerio de Educación, Cultura y Deporte, establecerá las convalidaciones que proceda otorgar del bloque común de las enseñanzas reguladas en el presente real decreto, a aquellos que acrediten estudios o el título de: Licenciado en Ciencias de la Actividad Física y el Deporte, regulado por el Real Decreto 1670/1993, de 24 de septiembre; por el que se establece el título universitario oficial de Licenciado en Ciencias de la Actividad Física y del Deporte y las directrices generales propias de los planes de estudios conducente a la obtención del mismo, de Diplomado en Educación Física y Licenciado en Educación Física, regulado por el Real Decreto 790/1981, de 24 de abril, sobre Institutos Nacionales de Educación Física y las enseñanzas que imparten; de Maestro Especialista en Educación Física, regulado por el Real Decreto 1440/1991, de 30 de agosto, por el que se establece el título universitario, oficial de Maestro, en sus diversas especialidades y las directrices generales propias de los planes de estudios conducentes a su obtención; de Técnico Superior en Animación de Actividades Físicas y Deportivas, regulado por el Real Decreto 2048/1995, de 22 de diciembre por el que se establece el título de Formación Profesional de Técnico superior en Animación de Actividades Físicas y Deportivas y las correspondientes enseñanzas mínimas; de Técnico en Conducción de Actividades Físico-Deportivas en el Medio Natural regulado por el Real Decreto 2049/1995, de 22 de diciembre por el que se establece el título de Técnico en Conducción de Actividades Físico-Deportivas en el Medio Natural y las correspondientes enseñanzas mínimas; y de Graduado regulado en la ordenación de la enseñanza universitaria oficial establecida en el Real Decreto 1393/2007, de 29 de octubre, por el que se establece la ordenación de las enseñanzas universitarias oficiales que acrediten la obtención de las competencias adecuadas; así como con las materias de bachillerato y los títulos establecidos al amparo del [Real Decreto 1913/1997](RD454_2002_ecd_establecen_elementos_basicos_informes_evaluacion.md), de 19 de diciembre por el que se configuran como enseñanzas de régimen especial las conducentes a la obtención de titulaciones de técnicos deportivos, se aprueban las directrices generales de los títulos y de las correspondientes enseñanzas mínimas.
 
-2. Las convalidaciones de módulos de enseñanza deportiva de los títulos establecidos al amparo de la Ley Orgánica 1/1990, de 3 de octubre, de Ordenación General del Sistema Educativo, con los módulos de enseñanza deportiva del bloque específico del título de Técnico Deportivo en Atletismo se establecen en el anexo XI.
+2. Las convalidaciones de módulos de enseñanza deportiva de los títulos establecidos al amparo de la [Ley Orgánica 1/1990](../02_gestion_y_administracion_centros/LO1_1990_regula_regimen_equivalencias_estudios_basicos_medios.md), de 3 de octubre, de Ordenación General del Sistema Educativo, con los módulos de enseñanza deportiva del bloque específico del título de Técnico Deportivo en Atletismo se establecen en el anexo XI.
 
 3. Serán objeto de convalidación los módulos comunes y específicos de enseñanza deportiva con la misma denominación y código.
 
-4. La superación de la totalidad de los módulos del bloque común del 1.er o 2.º nivel, en cualquiera de las modalidades o especialidades deportivas de los títulos establecidos al amparo de la Ley Orgánica 1/1990, de 3 de octubre, de Ordenación General del Sistema Educativo, se convalidará por la totalidad de los módulos del bloque común del correspondiente ciclo inicial o final de enseñanza deportiva en atletismo. La superación de la totalidad de los módulos del bloque común de los ciclos inicial o final del título de Técnico Deportivo en Atletismo, se convalidará por la totalidad de los módulos del bloque común, del correspondiente nivel, de los títulos establecidos al amparo de la Ley Orgánica 1/1990, de 3 de octubre, de Ordenación General del Sistema Educativo.
+4. La superación de la totalidad de los módulos del bloque común del 1.er o 2.º nivel, en cualquiera de las modalidades o especialidades deportivas de los títulos establecidos al amparo de la [Ley Orgánica 1/1990](../02_gestion_y_administracion_centros/LO1_1990_regula_regimen_equivalencias_estudios_basicos_medios.md), de 3 de octubre, de Ordenación General del Sistema Educativo, se convalidará por la totalidad de los módulos del bloque común del correspondiente ciclo inicial o final de enseñanza deportiva en atletismo. La superación de la totalidad de los módulos del bloque común de los ciclos inicial o final del título de Técnico Deportivo en Atletismo, se convalidará por la totalidad de los módulos del bloque común, del correspondiente nivel, de los títulos establecidos al amparo de la Ley Orgánica 1/1990, de 3 de octubre, de Ordenación General del Sistema Educativo.
 
 #### Artículo 29. Exención del módulo de formación práctica.
 
@@ -420,11 +420,11 @@ Los módulos de enseñanza deportiva que se establecen en el anexo XIII, podrán
 
 #### Disposición adicional tercera. Clave identificativa de los certificados de superación del ciclo inicial.
 
-La clave identificativa de los certificados oficiales acreditativos de la superación del ciclo inicial de grado medio en atletismo a la que hace referencia el artículo 15.4 del Real Decreto 1363/2007, de 24 de octubre, incluirá:
+La clave identificativa de los certificados oficiales acreditativos de la superación del ciclo inicial de grado medio en atletismo a la que hace referencia el artículo 15.4 del [Real Decreto 1363/2007](./RD1363_2007_establece_ordenacion_general_ensenanzas_deportivas_regimen.md), de 24 de octubre, incluirá:
 
 a) Certificación académica oficial: CA.
 
-b) Dígito de la Comunidad Autónoma: De acuerdo con lo establecido en el anexo IV de la Orden ECD/454/2002, de 22 de febrero, por la que se establecen los elementos básicos de los informes de evaluación de las enseñanzas conducentes a la obtención de titulaciones de técnicos deportivos reguladas por el Real Decreto 1913/1997, de 19 de diciembre, así como los requisitos formales derivados del proceso de evaluación que son necesarios para garantizar la movilidad de los alumnos.
+b) Dígito de la Comunidad Autónoma: De acuerdo con lo establecido en el anexo IV de la Orden ECD/454/2002, de 22 de febrero, por la que se establecen los elementos básicos de los informes de evaluación de las enseñanzas conducentes a la obtención de titulaciones de técnicos deportivos reguladas por el [Real Decreto 1913/1997](./RD454_2002_ecd_establecen_elementos_basicos_informes_evaluacion.md), de 19 de diciembre, así como los requisitos formales derivados del proceso de evaluación que son necesarios para garantizar la movilidad de los alumnos.
 
 c) Dígitos de modalidad deportiva: ATAT.
 
@@ -5414,9 +5414,9 @@ Condición de Profesor especialista en centros públicos de la Administración e
 
 Ciclo inicial y final
 
-En el caso de las formación a las que se refiere la disposición adicional quinta del Real Decreto 1363/2007, de 24 de octubre, la Real Federación Española de Atletismo, emitirá la correspondiente certificación de la experiencia docente en la que conste: las materias impartidas, el número de horas impartidas, la fecha del curso en el que se impartió la materia o materias, y la fecha de la resolución de reconocimiento de la formación por parte del Consejo Superior de Deportes junto con la fecha de publicación en el BOE.
+En el caso de las formación a las que se refiere la disposición adicional quinta del [Real Decreto 1363/2007](./RD1363_2007_establece_ordenacion_general_ensenanzas_deportivas_regimen.md), de 24 de octubre, la Real Federación Española de Atletismo, emitirá la correspondiente certificación de la experiencia docente en la que conste: las materias impartidas, el número de horas impartidas, la fecha del curso en el que se impartió la materia o materias, y la fecha de la resolución de reconocimiento de la formación por parte del Consejo Superior de Deportes junto con la fecha de publicación en el BOE.
 
-En el caso de las formaciones a las que se refiere la disposición transitoria primera del Real Decreto 1913/1997, de 19 de diciembre, el órgano competente de la Comunidad autónoma que autorizó las formaciones emitirá la correspondiente certificación de la experiencia docente en la que consten las materias y el número de horas impartidas.
+En el caso de las formaciones a las que se refiere la disposición transitoria primera del [Real Decreto 1913/1997](./RD454_2002_ecd_establecen_elementos_basicos_informes_evaluacion.md), de 19 de diciembre, el órgano competente de la Comunidad autónoma que autorizó las formaciones emitirá la correspondiente certificación de la experiencia docente en la que consten las materias y el número de horas impartidas.
 
 La experiencia laboral se acreditará mediante la certificación de la empresa donde haya adquirido dicha experiencia en la que conste específicamente la duración del contrato, la actividad desarrollada y el periodo de tiempo en el que se ha realizado la actividad. En el caso de trabajadores por cuenta propia, se exigirá la certificación de alta en el censo de obligados tributarios, con una antigüedad mínima de un año, así como una declaración del interesado de las actividades más representativas.
 
@@ -5520,7 +5520,7 @@ MED-ATAT208 Formación práctica.
 
 ANEXO XI
 
-Convalidaciones entre módulos de enseñanza deportiva establecidos al amparo de la Ley Orgánica 1/1990, de 3 de octubre de 1990, de Ordenación General del Sistema Educativo y los módulos de enseñanza deportiva del bloque específico del técnico deportivo en atletismo
+Convalidaciones entre módulos de enseñanza deportiva establecidos al amparo de la [Ley Orgánica 1/1990](../02_gestion_y_administracion_centros/LO1_1990_regula_regimen_equivalencias_estudios_basicos_medios.md), de 3 de octubre de 1990, de Ordenación General del Sistema Educativo y los módulos de enseñanza deportiva del bloque específico del técnico deportivo en atletismo
 
 Ciclo inicial
 

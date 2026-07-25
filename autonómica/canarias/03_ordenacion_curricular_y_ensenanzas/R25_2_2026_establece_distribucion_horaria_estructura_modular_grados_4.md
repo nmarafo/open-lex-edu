@@ -155,13 +155,13 @@ certificados de profesionalidad de la familia profesional Servicios Sociocultura
 Comunidad que se incluyen en el Repertorio Nacional de certificados de profesionalidad.
 Al certificado profesional con código SSCS0208, establecido en el citado Real Decreto 
 e incluido en el Anexo III de la presente Resolución, le es de aplicación la disposición 
-transitoria primera del Real Decreto 659/2023, de 18 de julio, por el que se desarrolla 
+transitoria primera del [Real Decreto 659/2023](./RD659_2023_dictan_instrucciones_orientaciones_formacion_dual_empresas.md), de 18 de julio, por el que se desarrolla 
 la ordenación del Sistema de Formación Profesional, así como la disposición adicional 
 cuarta del [Real Decreto 69/2025](../../../estatal/03_ordenacion_curricular_y_ensenanzas/RD69_2025_desarrollan_elementos_integrantes_instrumentos_gestion_sistema.md), de 4 de febrero, por el que se desarrollan los elementos 
 integrantes y los instrumentos de gestión del Sistema Nacional de Formación Profesional, 
 y se modifica el Real Decreto 375/1999, de 5 de marzo, por el que se crea el Instituto 
 Nacional de las Cualificaciones.
-Sexto.- El Real Decreto 69/2025, de 4 de febrero, por el que se desarrollan los elementos 
+Sexto.- El [Real Decreto 69/2025](../../../estatal/03_ordenacion_curricular_y_ensenanzas/RD69_2025_desarrollan_elementos_integrantes_instrumentos_gestion_sistema.md), de 4 de febrero, por el que se desarrollan los elementos 
 integrantes y los instrumentos de gestión del Sistema Nacional de Formación Profesional, 
 y se modifica el Real Decreto 375/1999, de 5 de marzo, por el que se crea el Instituto 
 Nacional de las Cualificaciones, establece en su artículo 12, relativo a la naturaleza del 
@@ -189,13 +189,13 @@ escolar 2024/2025, estableciéndose, asimismo, la distribución horaria y modula
 currículos en el ámbito autonómico de la Comunidad Autónoma de Canarias.
 Noveno.- Con fecha 27 de enero de 2026, se aprobó la Resolución de la Dirección 
 General de Formación Profesional y Enseñanzas de Régimen Especial, por la que se amplía 
-y modifica la Resolución de 30 de octubre de 2024, que dicta instrucciones y orientaciones 
+y modifica la [Resolución de 30 de octubre de 2024](./R30_10_2024_dictan_instrucciones_orientaciones_implantacion_desarrollo_grados.md), que dicta instrucciones y orientaciones 
 para la implantación y desarrollo de los Grados de Formación D y E, a partir del curso 
 escolar 2024/2025, y establece la distribución horaria y modular de los currículos, en el 
 ámbito de la Comunidad Autónoma de Canarias.
 En atención a lo anteriormente indicado, en ejercicio de las competencias atribuidas a 
 la Viceconsejería de Formación Profesional y Cualificaciones Profesionales en el artículo 
-9, apartado 2, del Decreto 84/2024, de 10 de junio, por el que se aprueba el Reglamento 
+9, apartado 2, del [Decreto 84/2024](../01_marco_normativo_general_y_organico/D84_2024_aprueba_reglamento_organico_formacion_profesional_actividad.md), de 10 de junio, por el que se aprueba el Reglamento 
 Orgánico de la Consejería de Educación, Formación Profesional, Actividad Física y 
 Deportes, y el desempeño de las funciones previstas en los artículos 11 y 20.1 del Decreto 
 212/1991, de 11 de septiembre, de organización de los Departamentos de la Administración 

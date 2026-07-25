@@ -38,13 +38,13 @@ fundamentos_derecho:
 ---
 # Orden de 14 de marzo de 1988 para la aplicación de lo dispuesto en el [Real Decreto 104/1988](RD104_1988_homologacion_convalidacion_titulos_estudios_extranjeros_educacion.md), de 29 de enero, sobre homologación y convalidación de títulos y estudios extranjeros de educación no universitaria.
 
-En su virtud y en uso de la autorización conferida por la disposición final primera del Real Decreto 104/1988, de 29 de enero,
+En su virtud y en uso de la autorización conferida por la disposición final primera del [Real Decreto 104/1988](./RD104_1988_homologacion_convalidacion_titulos_estudios_extranjeros_educacion.md), de 29 de enero,
 
 Este Ministerio ha dispuesto:
 
 #### Primero.
 
-La tramitación de los expedientes de homologación y convalidación de títulos y estudios extranjeros de educación no universitaria se regirá por lo dispuesto en el REAL Decreto 104/1988, de 29 de enero, y en la presente Orden.
+La tramitación de los expedientes de homologación y convalidación de títulos y estudios extranjeros de educación no universitaria se regirá por lo dispuesto en el [REAL Decreto 104/1988](./RD104_1988_homologacion_convalidacion_titulos_estudios_extranjeros_educacion.md), de 29 de enero, y en la presente Orden.
 
 #### Segundo.
 
@@ -78,7 +78,7 @@ c) Certificación acreditativa de la nacionalidad del solicitante expedida por l
 
 #### Quinto.
 
-En los supuestos de solicitudes de homologación y convalidación de títulos y estudios extranjeros no incluidos en las tablas de equivalencias a las que se refiere el Real Decreto 104/1988, o cuya resolución no deba realizarse en virtud de convenios de cooperación cultural suscritos por España, la documentación especificada en el número anterior de la presente Orden podrá, asimismo, completarse con cuantos documentos de carácter académico puedan contribuir a un mejor análisis y resolución del expediente respectivo.
+En los supuestos de solicitudes de homologación y convalidación de títulos y estudios extranjeros no incluidos en las tablas de equivalencias a las que se refiere el [Real Decreto 104/1988](./RD104_1988_homologacion_convalidacion_titulos_estudios_extranjeros_educacion.md), o cuya resolución no deba realizarse en virtud de convenios de cooperación cultural suscritos por España, la documentación especificada en el número anterior de la presente Orden podrá, asimismo, completarse con cuantos documentos de carácter académico puedan contribuir a un mejor análisis y resolución del expediente respectivo.
 
 #### Sexto.
 
@@ -98,7 +98,7 @@ Los documentos originales podrán presentarse juntamente con fotocopia de los mi
 
 2. El plazo al que se refiere el párrafo anterior podrá ampliarse hasta tres meses si se trata de documentos que no reunieran los requisitos formales para surtir efectos en España o que, sin tener el carácter de preceptivos, fueran necesarios para la resolución del expediente y hubieran de obtenerse en el extranjero.
 
-3. En todo caso, los plazos que el Real Decreto 104/1988 establece para la resolución de los expedientes comenzarán a contar a partir de la fecha en que la documentación correspondiente a una determinada solicitud esté completa en las condiciones y con los requisitos que la presente Orden establece.
+3. En todo caso, los plazos que el [Real Decreto 104/1988](./RD104_1988_homologacion_convalidacion_titulos_estudios_extranjeros_educacion.md) establece para la resolución de los expedientes comenzarán a contar a partir de la fecha en que la documentación correspondiente a una determinada solicitud esté completa en las condiciones y con los requisitos que la presente Orden establece.
 
 #### Décimo.
 
@@ -116,13 +116,13 @@ Propuesta de resolución
 
 #### Duodécimo.
 
-En los supuestos de expedientes cuya resolución no esté condicionada por el contenido de tablas de equivalencias aprobadas por Orden, los expedientes serán remitidos a la Subdirección General de Títulos, Convalidaciones y Homologaciones, la cual formulará la propuesta de resolución que proceda, de acuerdo con el contenido de los Tratados o Convenios Internacionales que resulten aplicables, con los principios mencionados en el artículo sexto del Real Decreto 104/1988, de 29 de enero, y, en su caso, con los informes de las comisiones de expertos a las que se refiere el artículo diez del citado Real Decreto.
+En los supuestos de expedientes cuya resolución no esté condicionada por el contenido de tablas de equivalencias aprobadas por Orden, los expedientes serán remitidos a la Subdirección General de Títulos, Convalidaciones y Homologaciones, la cual formulará la propuesta de resolución que proceda, de acuerdo con el contenido de los Tratados o Convenios Internacionales que resulten aplicables, con los principios mencionados en el artículo sexto del [Real Decreto 104/1988](./RD104_1988_homologacion_convalidacion_titulos_estudios_extranjeros_educacion.md), de 29 de enero, y, en su caso, con los informes de las comisiones de expertos a las que se refiere el artículo diez del citado Real Decreto.
 
 Comisiones de expertos
 
 #### Decimotercero.
 
-1. En los supuestos en que no resulten aplicables Tratados ni Convenios Internacionales en los que España sea parte, ni tablas de equivalencias, la Subdirección General de Títulos, Convalidaciones y Homologaciones podrá someter los expedientes a informe de las Comisiones de expertos previstas en el artículo diez del Real Decreto 104/1988, de 29 de enero, antes de proceder a formular las propuestas de resolución pertinentes.
+1. En los supuestos en que no resulten aplicables Tratados ni Convenios Internacionales en los que España sea parte, ni tablas de equivalencias, la Subdirección General de Títulos, Convalidaciones y Homologaciones podrá someter los expedientes a informe de las Comisiones de expertos previstas en el artículo diez del [Real Decreto 104/1988](./RD104_1988_homologacion_convalidacion_titulos_estudios_extranjeros_educacion.md), de 29 de enero, antes de proceder a formular las propuestas de resolución pertinentes.
 
 2. Las Comisiones mencionadas en el párrafo anterior estarán integradas por expertos en las materias propias de los estudios y títulos de que se trate, se constituirán cada vez que su asesoramiento sea necesario para el análisis de los expedientes pendientes de resolución y sus miembros serán designados por el Secretario General Técnico del Departamento.
 

@@ -90,7 +90,7 @@ Segundo.- En consonancia con los citados precep-
 tos, el artículo 12, apartado 1, del Real Decreto
 1614/2009, de 26 de octubre, por el que se estable-
 ce la ordenación de las enseñanzas artísticas supe-
-riores reguladas por la Ley Orgánica 2/2006, de 3
+riores reguladas por la [Ley Orgánica 2/2006](../../../estatal/01_marco_normativo_general_y_organico/LO2_2006_educacion_texto_consolidado_modificaciones_lomloe.md), de 3
 de mayo, de Educación (BOE nº 259, de 27 de oc-
 tubre) y el artículo 5 de los Reales Decretos 630/2010,
 631/2010 y 633/2010, de 14 de mayo, por los que
@@ -131,7 +131,7 @@ de Grado en la Comunidad Autónoma de Canarias,
 con la finalidad de establecer el marco normativo
 de referencia para el acceso a estas enseñanzas,
 adecuándolo a la normativa básica de aplicación ema-
-nada de la Ley Orgánica 2/2006, de 3 de mayo, de
+nada de la [Ley Orgánica 2/2006](../../../estatal/01_marco_normativo_general_y_organico/LO2_2006_educacion_texto_consolidado_modificaciones_lomloe.md), de 3 de mayo, de
 Educación. Asimismo, es preciso proceder a reali-
 zar la convocatoria de tales pruebas para el curso
 académico 2011-2012, con el fin de garantizar su
@@ -166,7 +166,7 @@ del Reglamento Orgánico de la Consejería de Edu-
 cación, Cultura y Deportes (BOC nº 148, de 1 de agos-
 to), aprobado por el Decreto 113/2006, de 26 de ju-
 lio, en su redacción actual, así como en relación con
-el artículo 19.1 del Decreto 212/1991, de 11 de sep-
+el artículo 19.1 del [Decreto 212/1991](../01_marco_normativo_general_y_organico/D212_1991_organizacion_departamentos_administracion_autonomica_canarias.md), de 11 de sep-
 tiembre, de organización de los Departamentos de la
 Administración Autonómica de Canarias (BOC nº 122,
 de 16 de septiembre),
@@ -220,7 +220,7 @@ tada Orden de 29 de abril de 2011.
 Segunda.- Requisitos de acceso a las enseñanzas
 artísticas superiores de Grado.
 De conformidad con lo establecido en los artícu-
-los 54.2, 55.2, 56.1 y 57.2 de la Ley Orgánica 2/2006,
+los 54.2, 55.2, 56.1 y 57.2 de la [Ley Orgánica 2/2006](../../../estatal/01_marco_normativo_general_y_organico/LO2_2006_educacion_texto_consolidado_modificaciones_lomloe.md),
 de 3 de mayo, de Educación, para acceder a las en-
 señanzas artísticas superiores de Grado, en los diver-
 sos ámbitos, será preciso reunir los siguientes requisitos:
@@ -234,7 +234,7 @@ cesarios para cursar con aprovechamiento las enseñanzas
 correspondientes. 
 Tercera.- Acceso sin requisitos académicos.
 Conforme a lo dispuesto en el artículo 69.5 de la
-Ley Orgánica 2/2006, de 3 de mayo, de Educación,
+[Ley Orgánica 2/2006](../../../estatal/01_marco_normativo_general_y_organico/LO2_2006_educacion_texto_consolidado_modificaciones_lomloe.md), de 3 de mayo, de Educación,
 las personas mayores de diecinueve años de edad que,
 sin reunir los requisitos señalados en la Instrucción
 anterior, deseen acceder a las enseñanzas artísticas
@@ -521,7 +521,7 @@ de los Reales Decretos 630/2010, 631/2010 y 633/2010,
 de 14 de mayo de 2010, por los que se regula el con-
 tenido básico de las enseñanzas artísticas superiores
 de Grado en Arte Dramático, Música y Diseño, res-
-pectivamente, establecidas en la Ley Orgánica 2/2006,
+pectivamente, establecidas en la [Ley Orgánica 2/2006](../../../estatal/01_marco_normativo_general_y_organico/LO2_2006_educacion_texto_consolidado_modificaciones_lomloe.md),
 de 3 de mayo, de Educación.
 CAPÍTULO III
 PRUEBA ESPECÍFICA DE ACCESO A LAS

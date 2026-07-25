@@ -160,16 +160,16 @@ Será de aplicación en todos los centros integrados de formación profesional d
 de la Consejería de Educación, Formación Profesional, Actividad Física y Deportes del 
 Gobierno de Canarias.
 Segunda.- Funciones del Consejo Social.
-Las funciones del Consejo Social dispuestas en el Real Decreto 1558/2005, de 23 
+Las funciones del Consejo Social dispuestas en el [Real Decreto 1558/2005](../../../estatal/03_ordenacion_curricular_y_ensenanzas/RD1558_2005_regulan_requisitos_basicos_centros_integrados_formacion.md), de 23 
 de diciembre, por el que se regulan los requisitos básicos de los Centros integrados de 
-formación profesional, se han visto ampliadas con el desarrollo del Real Decreto 659/2023, 
+formación profesional, se han visto ampliadas con el desarrollo del [Real Decreto 659/2023](./RD659_2023_dictan_instrucciones_orientaciones_formacion_dual_empresas.md), 
 de 18 de julio, por el que se desarrolla la ordenación del Sistema de Formación Profesional, 
 estableciéndose las siguientes:
 a) Establecer las directrices para elaborar el proyecto funcional de centro que incluirá 
 lo relativo a ofertas de formación, orientación profesional y acreditación de competencias 
 profesionales, aprobar dicho proyecto, y realizar durante su vigencia las propuestas de 
 mejora del mismo, el cual seguirá el plan de actuación plurianual recogido en el artículo 10, 
-apartado 1, del Real Decreto 1558/2005, de 23 de diciembre, y el artículo 10 del Decreto 
+apartado 1, del [Real Decreto 1558/2005](../../../estatal/03_ordenacion_curricular_y_ensenanzas/RD1558_2005_regulan_requisitos_basicos_centros_integrados_formacion.md), de 23 de diciembre, y el artículo 10 del Decreto 
 112/2011, de 11 de mayo, así como aprobar dicho proyecto.
 b) Elaborar las propuestas sobre los ajustes de la oferta formativa y el régimen y 
 modalidad en que ha de ofertarse y que deberán elevarse a la Administración competente.
@@ -201,7 +201,7 @@ Cuarta.- Composición del Consejo Social.
 composición que se establece en el Decreto 224/2017, de 13 de noviembre, por el que 
 se aprueba el Reglamento de organización y funcionamiento de los centros integrados de 
 formación profesional en la Comunidad Autónoma de Canarias.
-2. De acuerdo con el artículo 203 del Real Decreto 659/2023, el Consejo Social contará 
+2. De acuerdo con el artículo 203 del [Real Decreto 659/2023](./RD659_2023_dictan_instrucciones_orientaciones_formacion_dual_empresas.md), el Consejo Social contará 
 con un mínimo de 6 y un máximo de 12 miembros, procurando el principio de presencia 
 equilibrada de mujeres y hombres.
 3. De acuerdo con el artículo 11 del Decreto 224/2017, los Consejos Sociales de los 

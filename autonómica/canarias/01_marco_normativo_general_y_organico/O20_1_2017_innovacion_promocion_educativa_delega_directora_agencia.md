@@ -152,7 +152,7 @@ la Dirección del referido Organismo autónomo y dependencia orgánica de la Dir
 General de Ordenación, Innovación y Promoción Educativa.
 Esta Dirección General es competente para efectuar la delegación de competencias 
 objeto de la presente resolución, de conformidad con lo preceptuado en el artículo 13.2.A) 
-del Decreto 135/2016, de 10 de octubre, por el que se aprueba el Reglamento Orgánico de 
+del [Decreto 135/2016](./D135_2016_reglamento_organico_consejeria_educacion_universidades_cultura.md), de 10 de octubre, por el que se aprueba el Reglamento Orgánico de 
 la Consejería de Educación y Universidades (BOC nº 203, de 19.10.16), así como con lo 
 previsto en el artículo 19 del [Decreto 212/1991](D212_1991_organizacion_departamentos_administracion_autonomica_canarias.md), de 11 de septiembre, de organización de los 
 Departamentos de la Administración Autonómica de Canarias (BOC nº 122, de 16.9.91), 
@@ -291,14 +291,14 @@ de Calidad Universitaria y Evaluación Educativa (ACCUEE), con el fin de agiliza
 tramitación de procedimientos administrativos dimanantes del ejercicio de las mismas, en 
 aras de mejorar la eficiencia de la gestión pública, y de conformidad con los siguientes
 ANTECEDENTES DE HECHO
-Primero.- El artículo 13.2 del Decreto 135/2016, de 10 de octubre, por el que se aprueba 
+Primero.- El artículo 13.2 del [Decreto 135/2016](./D135_2016_reglamento_organico_consejeria_educacion_universidades_cultura.md), de 10 de octubre, por el que se aprueba 
 el Reglamento Orgánico de la Consejería de Educación y Universidades (BOC nº 203, de 
 19.10.16), preceptúa que la Dirección General de Ordenación, Innovación y Promoción 
 Educativa es el órgano superior del Departamento al que corresponden, entre otras, las 
 competencias de dirección, coordinación, estudio y resolución en materia de innovación 
 educativa no atribuidas específicamente a otro órgano y, en concreto, las relacionadas en el 
 apartado A) del citado precepto reglamentario.
-Segundo.- De conformidad con la previsión contenida en el artículo 12 de la Ley 4/2012, 
+Segundo.- De conformidad con la previsión contenida en el artículo 12 de la [Ley 4/2012](../../../estatal/08_personal_docente/L4_2012_medidas_administrativas_fiscales.md), 
 de 25 de junio, de medidas administrativas y fiscales (BOC nº 124, de 26.6.12), la Agencia 
 Canaria de Evaluación de la Calidad Educativa y Acreditación Universitaria (ACECAU), 
 organismo autónomo de carácter administrativo creado por la Ley 2/2002, de 27 de marzo, 
@@ -332,7 +332,7 @@ delegación de competencias en materia de innovación y promoción educativa, as
 traspaso de los medios personales y materiales necesarios para se ejercicio efectivo.
 A los precitados antecedentes le son de aplicación los siguientes
 FUNDAMENTOS DE DERECHO
-Primero.- 1. El artículo 9.1 de la Ley 40/2015, de 1 de octubre, de Régimen Jurídico 
+Primero.- 1. El artículo 9.1 de la [Ley 40/2015](../../../estatal/01_marco_normativo_general_y_organico/L40_2015_regimen_juridico_sector_publico.md), de 1 de octubre, de Régimen Jurídico 
 del Sector Público (BOE nº 236, de 2.10.15), preceptúa que los órganos de las diferentes 
 Administraciones Públicas podrán delegar el ejercicio de las competencias que tengan 
 atribuidas en otros órganos de la misma Administración, aun cuando no sean jerárquicamente 
@@ -356,7 +356,7 @@ así como cuantas otras correspondan a la Agencia y no vengan atribuidas a ning�
 En consecuencia, corresponde al titular de la Dirección de la Agencia manifestar la 
 aceptación expresa de la delegación que se atribuye en materia de innovación y promoción 
 educativa.
-Segundo.- Por su parte, el artículo 31.3 de la Ley 14/1990, de 26 de julio, de Régimen 
+Segundo.- Por su parte, el artículo 31.3 de la [Ley 14/1990](./L14_1990_regimen_juridico_administraciones_publicas_canarias.md), de 26 de julio, de Régimen 
 Jurídico de las Administraciones Públicas de Canarias (BOC nº 96, de 1.8.90), establece que 
 el ejercicio de competencias propias podrá ser delegado en el órgano que, por la aplicación 
 del principio de eficacia, sea más idóneo para su consecución, debiendo ser publicada tal 
@@ -388,9 +388,9 @@ la Dirección del referido Organismo autónomo y dependencia orgánica de la Dir
 General de Ordenación, Innovación y Promoción Educativa.
 Esta Dirección General es competente para efectuar la delegación de competencias 
 objeto de la presente resolución, de conformidad con lo preceptuado en el artículo 13.2.A) 
-del Decreto 135/2016, de 10 de octubre, por el que se aprueba el Reglamento Orgánico de 
+del [Decreto 135/2016](./D135_2016_reglamento_organico_consejeria_educacion_universidades_cultura.md), de 10 de octubre, por el que se aprueba el Reglamento Orgánico de 
 la Consejería de Educación y Universidades (BOC nº 203, de 19.10.16), así como con lo 
-previsto en el artículo 19 del Decreto 212/1991, de 11 de septiembre, de organización de los 
+previsto en el artículo 19 del [Decreto 212/1991](./D212_1991_organizacion_departamentos_administracion_autonomica_canarias.md), de 11 de septiembre, de organización de los 
 Departamentos de la Administración Autonómica de Canarias (BOC nº 122, de 16.9.91), 
 en cuya virtud, los titulares de las direcciones generales, en el área de actividad que tienen 
 encomendada, desempeñan las atribuciones del correspondiente reglamento orgánico.

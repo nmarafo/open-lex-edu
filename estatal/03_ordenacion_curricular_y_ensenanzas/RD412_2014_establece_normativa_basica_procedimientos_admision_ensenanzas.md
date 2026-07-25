@@ -50,11 +50,11 @@ Los criterios de valoración y procedimientos de admisión establecidos por las 
 
 Los estudiantes procedentes de sistemas educativos pertenecientes a países con los que no se hayan suscrito acuerdos internacionales para el reconocimiento de títulos en régimen de reciprocidad podrán acceder a los estudios oficiales de Grado previa homologación de sus estudios por los correspondientes españoles, de acuerdo con los criterios de admisión específicos establecidos por las Universidades y regulados en este real decreto.
 
-Esta nueva regulación exige, de acuerdo con lo dispuesto en el apartado 3 del artículo 42 de la Ley Orgánica 6/2001, de 21 de diciembre, de Universidades, en su redacción introducida por la Ley Orgánica 8/2013, de 9 de diciembre, que el Gobierno, previo informe de la Conferencia General de Política Universitaria, establezca las normas básicas para la admisión de los estudiantes que soliciten ingresar en los centros universitarios, siempre con respeto a los principios de igualdad, mérito y capacidad y en todo caso de conformidad con lo indicado en el artículo 38 de la Ley Orgánica 2/2006, de 3 de mayo, de Educación.
+Esta nueva regulación exige, de acuerdo con lo dispuesto en el apartado 3 del artículo 42 de la Ley Orgánica 6/2001, de 21 de diciembre, de Universidades, en su redacción introducida por la [Ley Orgánica 8/2013](./LO462_2016_ecd_regula_procedimiento_incorporacion_alumnado_curso.md), de 9 de diciembre, que el Gobierno, previo informe de la Conferencia General de Política Universitaria, establezca las normas básicas para la admisión de los estudiantes que soliciten ingresar en los centros universitarios, siempre con respeto a los principios de igualdad, mérito y capacidad y en todo caso de conformidad con lo indicado en el artículo 38 de la [Ley Orgánica 2/2006](../01_marco_normativo_general_y_organico/LO2_2006_educacion_texto_consolidado_modificaciones_lomloe.md), de 3 de mayo, de Educación.
 
 De acuerdo con este mandato, el presente real decreto tiene por objeto establecer la normativa básica de los procedimientos de admisión a las enseñanzas universitarias oficiales de Grado. Asimismo, se establece el calendario de implantación de este procedimiento, se determinan los criterios y condiciones para el mantenimiento de la calificación obtenida en la prueba de acceso a la universidad y se establece un período transitorio hasta llegar a la implantación general de esta nueva normativa.
 
-En cuanto al calendario de implantación, este nuevo sistema de admisión a las enseñanzas universitarias oficiales de Grado será de aplicación a los estudiantes que hayan obtenido el título de Bachiller del Sistema Educativo Español regulado en la Ley Orgánica 8/2013, de 9 de diciembre, y que accedan a estas enseñanzas a partir del curso académico 2017-2018. Para los estudiantes en posesión de los títulos de Técnico Superior de Formación Profesional, de Técnico Superior de Artes Plásticas y Diseño o de Técnico Deportivo Superior, así como para los estudiantes procedentes de sistemas educativos extranjeros, los nuevos criterios de acceso y admisión a las enseñanzas universitarias oficiales de Grado serán de aplicación a partir del curso académico 2014-2015.
+En cuanto al calendario de implantación, este nuevo sistema de admisión a las enseñanzas universitarias oficiales de Grado será de aplicación a los estudiantes que hayan obtenido el título de Bachiller del Sistema Educativo Español regulado en la [Ley Orgánica 8/2013](./LO462_2016_ecd_regula_procedimiento_incorporacion_alumnado_curso.md), de 9 de diciembre, y que accedan a estas enseñanzas a partir del curso académico 2017-2018. Para los estudiantes en posesión de los títulos de Técnico Superior de Formación Profesional, de Técnico Superior de Artes Plásticas y Diseño o de Técnico Deportivo Superior, así como para los estudiantes procedentes de sistemas educativos extranjeros, los nuevos criterios de acceso y admisión a las enseñanzas universitarias oficiales de Grado serán de aplicación a partir del curso académico 2014-2015.
 
 Para este período transitorio que abarca los cursos académicos 2014-2015 a 2016-2017, este real decreto regula criterios de admisión específicos que las Universidades podrán aplicar para garantizar la admisión en condiciones de igualdad.
 
@@ -74,7 +74,7 @@ Disposiciones Generales
 
 #### Artículo 1. Objeto y ámbito de aplicación.
 
-El presente real decreto tiene por objeto establecer los requisitos de acceso y la normativa básica relativa a los procedimientos de admisión a las enseñanzas universitarias oficiales de Grado, de acuerdo con los criterios establecidos en los artículos 38 y 69 y las disposiciones adicionales trigésimo tercera y trigésimo sexta de la Ley Orgánica 2/2006, de 3 de mayo, de Educación.
+El presente real decreto tiene por objeto establecer los requisitos de acceso y la normativa básica relativa a los procedimientos de admisión a las enseñanzas universitarias oficiales de Grado, de acuerdo con los criterios establecidos en los artículos 38 y 69 y las disposiciones adicionales trigésimo tercera y trigésimo sexta de la [Ley Orgánica 2/2006](../01_marco_normativo_general_y_organico/LO2_2006_educacion_texto_consolidado_modificaciones_lomloe.md), de 3 de mayo, de Educación.
 
 #### Artículo 2. Definiciones.
 
@@ -118,7 +118,7 @@ k) Estudiantes en posesión de un título universitario oficial de Diplomado uni
 
 l) Estudiantes que hayan cursado estudios universitarios parciales extranjeros o españoles, o que habiendo finalizado los estudios universitarios extranjeros no hayan obtenido su homologación en España y deseen continuar estudios en una universidad española. En este supuesto, será requisito indispensable que la universidad correspondiente les haya reconocido al menos 30 créditos ECTS.
 
-m) Estudiantes que estuvieran en condiciones de acceder a la universidad según ordenaciones del Sistema Educativo Español anteriores a la Ley Orgánica 8/2013, de 9 de diciembre.
+m) Estudiantes que estuvieran en condiciones de acceder a la universidad según ordenaciones del Sistema Educativo Español anteriores a la [Ley Orgánica 8/2013](./LO462_2016_ecd_regula_procedimiento_incorporacion_alumnado_curso.md), de 9 de diciembre.
 
 2. En el ámbito de sus competencias, las Administraciones educativas podrán coordinar los procedimientos de acceso a las Universidades de su territorio.
 
@@ -192,7 +192,7 @@ b) Estudiantes en posesión de un título universitario oficial de Diplomado uni
 
 c) Estudiantes que hayan cursado estudios universitarios parciales extranjeros o españoles, o que habiendo finalizado los estudios universitarios extranjeros no hayan obtenido su homologación o equivalencia en España y deseen continuar estudios en una universidad española. En este supuesto, será requisito indispensable que la Universidad correspondiente les haya reconocido al menos 30 créditos ECTS.
 
-d) Estudiantes que estuvieran en condiciones de acceder a la universidad según ordenaciones del Sistema Educativo Español anteriores a la Ley Orgánica 8/2013, de 9 de diciembre.
+d) Estudiantes que estuvieran en condiciones de acceder a la universidad según ordenaciones del Sistema Educativo Español anteriores a la [Ley Orgánica 8/2013](./LO462_2016_ecd_regula_procedimiento_incorporacion_alumnado_curso.md), de 9 de diciembre.
 
 e) Estudiantes en posesión de títulos, diplomas o estudios diferentes de los equivalentes a los títulos de Bachiller, Técnico Superior de Formación Profesional, Técnico Superior de Artes Plásticas y Diseño, o de Técnico Deportivo Superior del Sistema Educativo Español, obtenidos o realizados en un Estado miembro de la Unión Europea o en otros Estados con los que se hayan suscrito acuerdos internacionales aplicables a este respecto, en régimen de reciprocidad, cuando dichos estudiantes cumplan los requisitos académicos exigidos en dicho Estado miembro para acceder a sus Universidades.
 
@@ -462,9 +462,9 @@ La admisión a las enseñanzas universitarias oficiales de Grado que se impartan
 
 2. No se aplicará al total de plazas ofertadas para las centros universitarios de la defensa los cupos de reserva a los que se refieren los artículos 24 al 28, ambos inclusive, del presente real decreto.
 
-#### Disposición adicional tercera. Estudiantes en posesión de títulos, estudios y diplomas obtenidos con anterioridad a la entrada en vigor de la Ley Orgánica 8/2013, de 9 de diciembre, para la Mejora de la Calidad Educativa.
+#### Disposición adicional tercera. Estudiantes en posesión de títulos, estudios y diplomas obtenidos con anterioridad a la entrada en vigor de la [Ley Orgánica 8/2013](./LO462_2016_ecd_regula_procedimiento_incorporacion_alumnado_curso.md), de 9 de diciembre, para la Mejora de la Calidad Educativa.
 
-1. Aquellos estudiantes que hubieran superado la prueba de acceso a la universidad establecida en el artículo 38 de la Ley Orgánica 2/2006, de 3 de mayo, con anterioridad a su modificación por la Ley Orgánica 8/2013, de 9 de diciembre, mantendrán la calificación obtenida en la misma en los siguientes términos:
+1. Aquellos estudiantes que hubieran superado la prueba de acceso a la universidad establecida en el artículo 38 de la [Ley Orgánica 2/2006](../01_marco_normativo_general_y_organico/LO2_2006_educacion_texto_consolidado_modificaciones_lomloe.md), de 3 de mayo, con anterioridad a su modificación por la [Ley Orgánica 8/2013](./LO462_2016_ecd_regula_procedimiento_incorporacion_alumnado_curso.md), de 9 de diciembre, mantendrán la calificación obtenida en la misma en los siguientes términos:
 
 a) La calificación obtenida en la fase general de la prueba de acceso a la universidad tendrá validez indefinida como requisito de acceso y admisión a las enseñanzas universitarias oficiales de Grado.
 
@@ -472,9 +472,9 @@ b) La calificación de las materias de la fase específica tendrá validez como 
 
 Asimismo, y con la finalidad de mejorar la calificación obtenida en esta prueba de acceso, estos estudiantes podrán presentarse a los procedimientos de admisión fijados por las Universidades, de acuerdo con las disposiciones de este real decreto.
 
-2. Aquellos estudiantes que hubieran superado pruebas de acceso a la universidad española previas a la establecida en el artículo 38 de la Ley Orgánica 2/2006, de 3 de mayo, con anterioridad a su modificación por la Ley Orgánica 8/2013, de 9 de diciembre, mantendrán la calificación obtenida con carácter indefinido, si bien podrán presentarse a los procedimientos de admisión fijados por las Universidades, de acuerdo con las disposiciones de este real decreto, con la finalidad de mejorar la calificación obtenida en esta prueba de acceso.
+2. Aquellos estudiantes que hubieran superado pruebas de acceso a la universidad española previas a la establecida en el artículo 38 de la [Ley Orgánica 2/2006](../01_marco_normativo_general_y_organico/LO2_2006_educacion_texto_consolidado_modificaciones_lomloe.md), de 3 de mayo, con anterioridad a su modificación por la [Ley Orgánica 8/2013](./LO462_2016_ecd_regula_procedimiento_incorporacion_alumnado_curso.md), de 9 de diciembre, mantendrán la calificación obtenida con carácter indefinido, si bien podrán presentarse a los procedimientos de admisión fijados por las Universidades, de acuerdo con las disposiciones de este real decreto, con la finalidad de mejorar la calificación obtenida en esta prueba de acceso.
 
-3. Quienes no hubieran superado ninguna prueba de acceso a la universidad y hubieran obtenido el título de Bachiller con anterioridad a la implantación de la evaluación final de Bachillerato establecida en el artículo 37 de la Ley Orgánica 2/2006, de 3 de mayo, en la redacción dada por la Ley Orgánica 8/2013, de 9 de diciembre, podrán acceder directamente a las enseñanzas universitarias oficiales de Grado, si bien deberán superar los procedimientos de admisión que fijen las Universidades.
+3. Quienes no hubieran superado ninguna prueba de acceso a la universidad y hubieran obtenido el título de Bachiller con anterioridad a la implantación de la evaluación final de Bachillerato establecida en el artículo 37 de la [Ley Orgánica 2/2006](../01_marco_normativo_general_y_organico/LO2_2006_educacion_texto_consolidado_modificaciones_lomloe.md), de 3 de mayo, en la redacción dada por la [Ley Orgánica 8/2013](./LO462_2016_ecd_regula_procedimiento_incorporacion_alumnado_curso.md), de 9 de diciembre, podrán acceder directamente a las enseñanzas universitarias oficiales de Grado, si bien deberán superar los procedimientos de admisión que fijen las Universidades.
 
 4. Los estudiantes procedentes de sistemas educativos extranjeros que hayan superado la prueba de acceso a la universidad establecida en la Orden EDU/473/2010, de 26 de febrero, por la que se establece el procedimiento de acceso a las enseñanzas universitarias oficiales de Grado para los estudiantes procedentes de sistemas educativos extranjeros con estudios homologables al título de Bachiller español, mantendrán la calificación obtenida en la misma en los siguientes términos:
 
@@ -488,7 +488,7 @@ Los estudiantes podrán presentarse a los procedimientos de admisión fijados po
 
 Los procedimientos de admisión a las enseñanzas universitarias oficiales de Grado regulados en el presente real decreto se aplicarán a partir de los siguientes cursos académicos:
 
-a) A partir del curso académico 2017-2018, a los estudiantes que hayan obtenido el título de Bachiller del Sistema Educativo Español de acuerdo con la redacción del artículo 37 de la Ley Orgánica 2/2006, de 3 de mayo, introducida por la Ley Orgánica 8/2013, de 9 de diciembre.
+a) A partir del curso académico 2017-2018, a los estudiantes que hayan obtenido el título de Bachiller del Sistema Educativo Español de acuerdo con la redacción del artículo 37 de la [Ley Orgánica 2/2006](../01_marco_normativo_general_y_organico/LO2_2006_educacion_texto_consolidado_modificaciones_lomloe.md), de 3 de mayo, introducida por la [Ley Orgánica 8/2013](./LO462_2016_ecd_regula_procedimiento_incorporacion_alumnado_curso.md), de 9 de diciembre.
 
 b) A partir del curso académico 2014-2015, al resto de estudiantes.
 
@@ -504,7 +504,7 @@ Para la realización de la prueba de acceso a la universidad se tendrán en cuen
 
 4. La regulación de las pruebas para personas mayores de 25 años y de 45 años contenida en los artículos 11 a 15 y 17 a 20 de este real decreto comenzará a aplicarse en el acceso al curso académico 2015-2016; para el acceso al curso académico 2014-2015 se aplicará la regulación contenida en el Real Decreto 1892/2008, de 14 de noviembre.
 
-5. Para la admisión a los estudios universitarios oficiales de Grado en las Universidades españolas en los cursos académicos 2014-2015, 2015-2016 y 2016-2017 las Universidades podrán utilizar como criterio de valoración en los procedimientos de admisión la credencial para el acceso a la universidad española expedida por la Universidad Nacional de Educación a Distancia (UNED), de acuerdo con los requisitos establecidos en la Orden EDU/1161/2010, de 4 de mayo, por la que se establece el procedimiento para el acceso a la Universidad española por parte de los estudiantes procedentes de sistemas educativos a los que es de aplicación el artículo 38.5 de la Ley Orgánica 2/2006, de 3 de mayo, de Educación, para los estudiantes indicados en el artículo 9.1.b) de este real decreto.
+5. Para la admisión a los estudios universitarios oficiales de Grado en las Universidades españolas en los cursos académicos 2014-2015, 2015-2016 y 2016-2017 las Universidades podrán utilizar como criterio de valoración en los procedimientos de admisión la credencial para el acceso a la universidad española expedida por la Universidad Nacional de Educación a Distancia (UNED), de acuerdo con los requisitos establecidos en la Orden EDU/1161/2010, de 4 de mayo, por la que se establece el procedimiento para el acceso a la Universidad española por parte de los estudiantes procedentes de sistemas educativos a los que es de aplicación el artículo 38.5 de la [Ley Orgánica 2/2006](../01_marco_normativo_general_y_organico/LO2_2006_educacion_texto_consolidado_modificaciones_lomloe.md), de 3 de mayo, de Educación, para los estudiantes indicados en el artículo 9.1.b) de este real decreto.
 
 #### Disposición derogatoria única. Derogación normativa.
 

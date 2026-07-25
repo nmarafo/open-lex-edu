@@ -840,7 +840,7 @@ De la gestión de los presupuestos docentes
 
 Uno. De acuerdo con lo establecido en los apartados segundo y tercero del artículo 117 y de la disposición adicional vigésima séptima de la [Ley Orgánica 2/2006](../01_marco_normativo_general_y_organico/LO2_2006_educacion_texto_consolidado_modificaciones_lomloe.md), de 3 de mayo, de Educación, el importe del módulo económico por unidad escolar, a efectos de distribución de la cuantía global de los fondos públicos destinados al sostenimiento de los centros concertados para el año 2012, es el fijado en el anexo IV de esta Ley.
 
-A fin de dar cumplimiento a lo previsto en el artículo 116.1 en relación con el 15.2 de la Ley Orgánica 2/2006, de 3 de mayo, de Educación, las unidades que se concierten en las enseñanzas de Educación Infantil se financiarán conforme a los módulos económicos establecidos en el anexo IV de esta Ley.
+A fin de dar cumplimiento a lo previsto en el artículo 116.1 en relación con el 15.2 de la [Ley Orgánica 2/2006](../01_marco_normativo_general_y_organico/LO2_2006_educacion_texto_consolidado_modificaciones_lomloe.md), de 3 de mayo, de Educación, las unidades que se concierten en las enseñanzas de Educación Infantil se financiarán conforme a los módulos económicos establecidos en el anexo IV de esta Ley.
 
 Los Ciclos Formativos de Grado Medio y de Grado Superior se financiarán con arreglo a los módulos económicos establecidos en el anexo IV de la presente Ley. En la partida correspondiente a otros gastos de aquellas unidades concertadas de formación profesional que cuenten con autorización para una ratio inferior a 30 alumnos por unidad escolar, se aplicará un coeficiente reductor de 0,015 por cada alumno menos autorizado.
 
@@ -858,19 +858,19 @@ Las cuantías señaladas para salarios del personal docente, incluidas cargas so
 
 La cuantía correspondiente a «otros gastos» se abonará mensualmente, pudiendo los centros justificar su aplicación al finalizar el correspondiente ejercicio económico de forma conjunta para todas las enseñanzas concertadas del centro. En los ciclos formativos de grado medio y superior cuya duración sea de 1.300 ó 1.400 horas, las Administraciones educativas podrán establecer el abono de la partida de otros gastos del segundo curso, fijada en el módulo contemplado en el Anexo IV de forma conjunta con la correspondiente al primer curso, sin que ello suponga en ningún caso un incremento de la cuantía global resultante.
 
-Dos. A los centros docentes que tengan unidades concertadas en todos los cursos de la Educación Secundaria Obligatoria se les dotará de la financiación de los servicios de orientación educativa a que se refiere el artículo 22.3 de la Ley Orgánica 2/2006, de 3 de mayo, de Educación. Esta dotación se realizará sobre la base de calcular el equivalente a una jornada completa del profesional adecuado a estas funciones, por cada 25 unidades concertadas de Educación Secundaria Obligatoria. Por tanto, los centros concertados tendrán derecho a la jornada correspondiente del citado profesional, en función del número de unidades de Educación Secundaria Obligatoria que tengan concertadas. En el ámbito de sus competencias y de acuerdo con sus disponibilidades presupuestarias, las Administraciones educativas podrán incrementar la financiación de los servicios de orientación educativa.
+Dos. A los centros docentes que tengan unidades concertadas en todos los cursos de la Educación Secundaria Obligatoria se les dotará de la financiación de los servicios de orientación educativa a que se refiere el artículo 22.3 de la [Ley Orgánica 2/2006](../01_marco_normativo_general_y_organico/LO2_2006_educacion_texto_consolidado_modificaciones_lomloe.md), de 3 de mayo, de Educación. Esta dotación se realizará sobre la base de calcular el equivalente a una jornada completa del profesional adecuado a estas funciones, por cada 25 unidades concertadas de Educación Secundaria Obligatoria. Por tanto, los centros concertados tendrán derecho a la jornada correspondiente del citado profesional, en función del número de unidades de Educación Secundaria Obligatoria que tengan concertadas. En el ámbito de sus competencias y de acuerdo con sus disponibilidades presupuestarias, las Administraciones educativas podrán incrementar la financiación de los servicios de orientación educativa.
 
 Tres. En el ámbito de sus competencias, las Administraciones educativas podrán fijar las relaciones profesor/unidad concertada, adecuadas para impartir el plan de estudios vigente en cada nivel objeto del concierto, calculadas en base a jornadas de profesor con veinticinco horas lectivas semanales.
 
 La Administración no asumirá los incrementos retributivos, las reducciones horarias, o cualquier otra circunstancia que conduzca a superar lo previsto en los módulos económicos del anexo IV.
 
-Asimismo, la Administración no asumirá los incrementos retributivos, fijados en convenio colectivo, que supongan un porcentaje superior al incremento establecido para el profesorado de la enseñanza pública en los distintos niveles de enseñanza salvo que, en aras a la consecución de la equiparación gradual a que hace referencia el artículo 117.4 de la Ley Orgánica 2/2006, de 3 de mayo, de Educación, se produzca su reconocimiento expreso por la Administración y la consiguiente consignación presupuestaria.
+Asimismo, la Administración no asumirá los incrementos retributivos, fijados en convenio colectivo, que supongan un porcentaje superior al incremento establecido para el profesorado de la enseñanza pública en los distintos niveles de enseñanza salvo que, en aras a la consecución de la equiparación gradual a que hace referencia el artículo 117.4 de la [Ley Orgánica 2/2006](../01_marco_normativo_general_y_organico/LO2_2006_educacion_texto_consolidado_modificaciones_lomloe.md), de 3 de mayo, de Educación, se produzca su reconocimiento expreso por la Administración y la consiguiente consignación presupuestaria.
 
 Cuatro. Las Administraciones educativas podrán, en el ámbito de sus competencias, incrementar las relaciones profesor/unidad de los centros concertados, en función del número total de profesores afectados por las medidas de recolocación que se hayan venido adoptando hasta la entrada en vigor de esta Ley y se encuentren en este momento incluidos en la nómina de pago delegado, así como de la progresiva potenciación de los equipos docentes.
 
 Todo ello sin perjuicio de las modificaciones de unidades que se produzcan en los centros concertados, como consecuencia de la normativa vigente en materia de conciertos educativos.
 
-Cinco. A los centros concertados se les dotará de las compensaciones económicas y profesionales para el ejercicio de la función directiva a que hace referencia el artículo 117.3 de la Ley Orgánica 2/2006, de 3 de mayo, de Educación.
+Cinco. A los centros concertados se les dotará de las compensaciones económicas y profesionales para el ejercicio de la función directiva a que hace referencia el artículo 117.3 de la [Ley Orgánica 2/2006](../01_marco_normativo_general_y_organico/LO2_2006_educacion_texto_consolidado_modificaciones_lomloe.md), de 3 de mayo, de Educación.
 
 Seis. Las cantidades máximas a percibir de los alumnos en concepto de financiación complementaria a la proveniente de los fondos públicos que se asignen al régimen de conciertos singulares, suscritos para enseñanzas de niveles no obligatorios, y en concepto exclusivo de enseñanza reglada, son las que se establecen a continuación:
 
@@ -884,7 +884,7 @@ Los centros que en el año 2011 estuvieran autorizados para percibir cuotas supe
 
 La cantidad abonada por la Administración no podrá ser inferior a la resultante de minorar en 3.606,08 euros el importe correspondiente al componente de «otros gastos» de los módulos económicos establecidos en el anexo IV de la presente Ley, pudiendo las Administraciones educativas competentes establecer la regulación necesaria al respecto.
 
-Siete. Financiación de la enseñanza concertada en las Ciudades de Ceuta y Melilla: al objeto de dotar a los centros de los equipos directivos en los términos establecidos en el artículo 117.3 de la Ley Orgánica 2/2006, de 3 de mayo, de Educación, y de proceder al aumento de la dotación de la financiación de los servicios de orientación educativa a que se refiere el artículo 22.3 de la misma ley, sobre la base de calcular el equivalente a una jornada completa del profesional adecuado a estas funciones, por cada 16 unidades concertadas de Educación Secundaria Obligatoria, el importe del módulo económico por unidad escolar para el ámbito territorial de las Ciudades de Ceuta y Melilla será el que se establece en el anexo V de la presente Ley.
+Siete. Financiación de la enseñanza concertada en las Ciudades de Ceuta y Melilla: al objeto de dotar a los centros de los equipos directivos en los términos establecidos en el artículo 117.3 de la [Ley Orgánica 2/2006](../01_marco_normativo_general_y_organico/LO2_2006_educacion_texto_consolidado_modificaciones_lomloe.md), de 3 de mayo, de Educación, y de proceder al aumento de la dotación de la financiación de los servicios de orientación educativa a que se refiere el artículo 22.3 de la misma ley, sobre la base de calcular el equivalente a una jornada completa del profesional adecuado a estas funciones, por cada 16 unidades concertadas de Educación Secundaria Obligatoria, el importe del módulo económico por unidad escolar para el ámbito territorial de las Ciudades de Ceuta y Melilla será el que se establece en el anexo V de la presente Ley.
 
 #### Artículo 18. Autorización de los costes de personal de la Universidad Nacional de Educación a Distancia (UNED).
 
@@ -1006,7 +1006,7 @@ C2
 
 214,80
 
-E (Ley 30/1984) y Agrupaciones Profesionales (Ley 7/2007)
+E ([Ley 30/1984](../01_marco_normativo_general_y_organico/L30_1984_medidas_reforma_funcion_publica.md)) y Agrupaciones Profesionales (Ley 7/2007)
 
 6.581,64
 
@@ -1058,23 +1058,23 @@ C2
 
 17,73
 
-E (Ley 30/1984) y Agrupaciones Profesionales (Ley 7/2007)
+E ([Ley 30/1984](../01_marco_normativo_general_y_organico/L30_1984_medidas_reforma_funcion_publica.md)) y Agrupaciones Profesionales (Ley 7/2007)
 
 548,47
 
 13,47
 
-Seis. A efectos de lo dispuesto en el apartado anterior, las retribuciones a percibir por los funcionarios públicos que hasta la Ley de Presupuestos Generales del Estado para el año 2007 han venido referenciadas a los grupos de titulación previstos en el artículo 25 de la Ley 30/1984, de 2 de agosto, de Medidas para la Reforma de la Función Pública, están referenciadas a los grupos y subgrupos de clasificación profesional establecidos en el artículo 76 y disposición transitoria tercera de la Ley 7/2007, de 12 de abril, por la que se aprueba el Estatuto Básico del Empleado Público, sin experimentar otras variaciones que las derivadas de esta ley. Las equivalencias entre ambos sistemas de clasificación son las siguientes:
+Seis. A efectos de lo dispuesto en el apartado anterior, las retribuciones a percibir por los funcionarios públicos que hasta la Ley de Presupuestos Generales del Estado para el año 2007 han venido referenciadas a los grupos de titulación previstos en el artículo 25 de la [Ley 30/1984](../01_marco_normativo_general_y_organico/L30_1984_medidas_reforma_funcion_publica.md), de 2 de agosto, de Medidas para la Reforma de la Función Pública, están referenciadas a los grupos y subgrupos de clasificación profesional establecidos en el artículo 76 y disposición transitoria tercera de la Ley 7/2007, de 12 de abril, por la que se aprueba el Estatuto Básico del Empleado Público, sin experimentar otras variaciones que las derivadas de esta ley. Las equivalencias entre ambos sistemas de clasificación son las siguientes:
 
-Grupo A Ley 30/1984: Subgrupo A1 Ley 7/2007.
+Grupo A [Ley 30/1984](../01_marco_normativo_general_y_organico/L30_1984_medidas_reforma_funcion_publica.md): Subgrupo A1 Ley 7/2007.
 
-Grupo B Ley 30/1984: Subgrupo A2 Ley 7/2007.
+Grupo B [Ley 30/1984](../01_marco_normativo_general_y_organico/L30_1984_medidas_reforma_funcion_publica.md): Subgrupo A2 Ley 7/2007.
 
-Grupo C Ley 30/1984: Subgrupo C1 Ley 7/2007.
+Grupo C [Ley 30/1984](../01_marco_normativo_general_y_organico/L30_1984_medidas_reforma_funcion_publica.md): Subgrupo C1 Ley 7/2007.
 
-Grupo D Ley 30/1984: Subgrupo C2 Ley 7/2007.
+Grupo D [Ley 30/1984](../01_marco_normativo_general_y_organico/L30_1984_medidas_reforma_funcion_publica.md): Subgrupo C2 Ley 7/2007.
 
-Grupo E Ley 30/1984: Agrupaciones profesionales Ley 7/2007.
+Grupo E [Ley 30/1984](../01_marco_normativo_general_y_organico/L30_1984_medidas_reforma_funcion_publica.md): Agrupaciones profesionales Ley 7/2007.
 
 Siete. Lo dispuesto en los apartados anteriores debe entenderse sin perjuicio de las adecuaciones retributivas que, con carácter singular y excepcional, resulten imprescindibles por el contenido de los puestos de trabajo, por la variación del número de efectivos asignados a cada programa o por el grado de consecución de los objetivos fijados al mismo.
 
@@ -1092,7 +1092,7 @@ Uno. 1. A lo largo del ejercicio 2012 no se procederá en el sector público del
 
 2. Respetando, en todo caso, las disponibilidades presupuestarias del capítulo I de los correspondientes presupuestos de gastos, la limitación contenida en el apartado anterior no será de aplicación a los siguientes sectores y administraciones en los que la tasa de reposición se fija en el 10 por ciento:
 
-A) A las Administraciones Públicas con competencias educativas para el desarrollo de la Ley Orgánica 2/2006, de 3 de mayo, de Educación, en relación con la determinación del número de plazas para el acceso a los cuerpos de funcionarios docentes.
+A) A las Administraciones Públicas con competencias educativas para el desarrollo de la [Ley Orgánica 2/2006](../01_marco_normativo_general_y_organico/LO2_2006_educacion_texto_consolidado_modificaciones_lomloe.md), de 3 de mayo, de Educación, en relación con la determinación del número de plazas para el acceso a los cuerpos de funcionarios docentes.
 
 B) A las Administraciones Públicas con competencias sanitarias respecto de las plazas de hospitales y centros de salud del Sistema Nacional de Salud.
 
@@ -1430,7 +1430,7 @@ Remuneraciones anuales (a percibir en 14 mensualidades)
 
 Dos. Además de las cantidades derivadas de lo dispuesto en el apartado anterior dichos cargos percibirán, en su caso, con el límite previsto en el apartado anterior, las retribuciones fijadas en los Acuerdos aprobados por el propio Órgano en materia de adecuación por el concepto de antigüedad, y si hubieran tenido la condición previa de funcionarios públicos, con independencia de su situación de actividad, jubilación o retiro como funcionarios, tendrán derecho a seguir perfeccionando los trienios reconocidos bajo dicha condición según la normativa en cada caso aplicable y a percibir, en catorce mensualidades, la diferencia resultante por este concepto cuando la cuantía derivada de dicha normativa fuera superior a la aprobada en los referidos Acuerdos.
 
-#### Artículo 26. Retribuciones de los funcionarios del Estado incluidos en el ámbito de aplicación de la Ley 30/1984, de 2 de agosto, de Medidas para la Reforma de la Función Pública en los términos de la Disposición Final Cuarta de la Ley 7/2007, de 12 de abril, del Estatuto Básico del Empleado Público.
+#### Artículo 26. Retribuciones de los funcionarios del Estado incluidos en el ámbito de aplicación de la [Ley 30/1984](../01_marco_normativo_general_y_organico/L30_1984_medidas_reforma_funcion_publica.md), de 2 de agosto, de Medidas para la Reforma de la Función Pública en los términos de la Disposición Final Cuarta de la Ley 7/2007, de 12 de abril, del Estatuto Básico del Empleado Público.
 
 Uno. En el año 2012 las retribuciones de los funcionarios serán las siguientes:
 
@@ -1634,7 +1634,7 @@ A) El sueldo y los trienios, excluidos éstos en los casos en que la normativa a
 
 B) Las pagas extraordinarias, que serán dos al año, incorporarán, cada una de ellas, las cuantías de sueldo y trienios fijadas en el artículo 22.Cinco.2 de esta Ley, en función del grupo o subgrupo en el que esté clasificado el empleo correspondiente, y el complemento de empleo mensual que se perciba.
 
-La valoración y devengo de los trienios, en su caso, y de las pagas extraordinarias se efectuará de acuerdo con la normativa específica aplicable a este personal y, supletoriamente, con la normativa de los funcionarios incluidos en el ámbito de aplicación de la Ley 30/1984, de 2 de agosto, de Medidas para la reforma de la Función Pública, en los términos de la Ley 7/2007, de 12 de abril, del Estatuto Básico del Empleado Público.
+La valoración y devengo de los trienios, en su caso, y de las pagas extraordinarias se efectuará de acuerdo con la normativa específica aplicable a este personal y, supletoriamente, con la normativa de los funcionarios incluidos en el ámbito de aplicación de la [Ley 30/1984](../01_marco_normativo_general_y_organico/L30_1984_medidas_reforma_funcion_publica.md), de 2 de agosto, de Medidas para la reforma de la Función Pública, en los términos de la Ley 7/2007, de 12 de abril, del Estatuto Básico del Empleado Público.
 
 C) Las retribuciones complementarias de carácter general, el componente singular del complemento específico y el complemento por incorporación, en su caso, no experimentarán ningún incremento respecto de las vigentes a 31 de diciembre de 2011, sin perjuicio, en su caso, de lo dispuesto en el artículo 22. Siete de esta Ley.
 
@@ -1650,7 +1650,7 @@ Tres. Cuando el Ministerio de Defensa haya suscrito conciertos con las Universid
 
 Dicho personal podrá percibir, asimismo, la ayuda para vestuario, y el complemento de dedicación especial en concepto de atención continuada, según lo establecido en el apartado D) del número anterior, así como las pensiones por recompensas y las prestaciones familiares que pudieran corresponderles.
 
-Cuatro. Los miembros de las Fuerzas Armadas que ocupen puestos de trabajo incluidos en las relaciones de puestos de trabajo del Ministerio o sus Organismos autónomos, percibirán en el año 2012 las retribuciones básicas correspondientes a su empleo militar y las complementarias asignadas al puesto que desempeñen, de acuerdo con las cuantías establecidas en la presente Ley para los funcionarios del Estado incluidos en el ámbito de aplicación de la Ley 30/1984, de 2 de agosto, en los términos de la disposición final cuarta de la Ley 7/2007, de 12 de abril, sin perjuicio de continuar percibiendo las pensiones y gratificaciones que sean consecuencia de recompensas militares así como la ayuda para vestuario en la misma cuantía y condiciones que el resto del personal de las Fuerzas Armadas.
+Cuatro. Los miembros de las Fuerzas Armadas que ocupen puestos de trabajo incluidos en las relaciones de puestos de trabajo del Ministerio o sus Organismos autónomos, percibirán en el año 2012 las retribuciones básicas correspondientes a su empleo militar y las complementarias asignadas al puesto que desempeñen, de acuerdo con las cuantías establecidas en la presente Ley para los funcionarios del Estado incluidos en el ámbito de aplicación de la [Ley 30/1984](../01_marco_normativo_general_y_organico/L30_1984_medidas_reforma_funcion_publica.md), de 2 de agosto, en los términos de la disposición final cuarta de la Ley 7/2007, de 12 de abril, sin perjuicio de continuar percibiendo las pensiones y gratificaciones que sean consecuencia de recompensas militares así como la ayuda para vestuario en la misma cuantía y condiciones que el resto del personal de las Fuerzas Armadas.
 
 Lo dispuesto en el presente artículo debe entenderse sin perjuicio de la regulación específica que para determinados conceptos y personal de las Fuerzas Armadas se establece en la normativa vigente.
 
@@ -1664,7 +1664,7 @@ A) El sueldo y los trienios que correspondan al Grupo o Subgrupo de equivalencia
 
 B) Las pagas extraordinarias, que serán dos al año, incorporarán, cada una de ellas, las cuantías de sueldo y trienios fijadas en el artículo 22. Cinco. 2 de esta Ley, en función del grupo o subgrupo que corresponda al empleo que se ostente y el complemento de destino mensual que se perciba.
 
-La valoración y devengo de los trienios y de las pagas extraordinarias se efectuará de acuerdo con la normativa aplicable a este personal y, supletoriamente, con la normativa de los funcionarios públicos incluidos en el ámbito de aplicación de la Ley 30/1984, de 2 de agosto, de Medidas para la reforma de la Función Pública, en los términos de la Ley 7/2007, de 12 de abril, del Estatuto Básico del Empleado Público.
+La valoración y devengo de los trienios y de las pagas extraordinarias se efectuará de acuerdo con la normativa aplicable a este personal y, supletoriamente, con la normativa de los funcionarios públicos incluidos en el ámbito de aplicación de la [Ley 30/1984](../01_marco_normativo_general_y_organico/L30_1984_medidas_reforma_funcion_publica.md), de 2 de agosto, de Medidas para la reforma de la Función Pública, en los términos de la Ley 7/2007, de 12 de abril, del Estatuto Básico del Empleado Público.
 
 C) Las retribuciones complementarias de carácter fijo y periódico, que no experimentarán ningún incremento respecto de las vigentes a 31 de diciembre de 2011, sin perjuicio, en su caso, de lo previsto en el artículo 22. Siete de esta Ley.
 
@@ -1680,7 +1680,7 @@ A) El sueldo y los trienios que correspondan al Grupo o Subgrupo de equivalencia
 
 B) Las pagas extraordinarias, que serán dos al año, incorporarán, cada una de ellas, las cuantías de sueldo y trienios fijadas en el artículo 22.Cinco. 2 de esta Ley, en función del grupo o subgrupo que corresponda a la categoría que se ostente, y el complemento de destino mensual que se perciba.
 
-La valoración y devengo de los trienios y de las pagas extraordinarias se efectuará de acuerdo con la normativa aplicable a este personal y, supletoriamente, con la normativa de los funcionarios incluidos en el ámbito de aplicación de la Ley 30/1984, de 2 de agosto, de Medidas para la reforma de la Función Pública, en los términos de la Ley 7/2007, de 12 de abril, del Estatuto Básico del Empleado Público.
+La valoración y devengo de los trienios y de las pagas extraordinarias se efectuará de acuerdo con la normativa aplicable a este personal y, supletoriamente, con la normativa de los funcionarios incluidos en el ámbito de aplicación de la [Ley 30/1984](../01_marco_normativo_general_y_organico/L30_1984_medidas_reforma_funcion_publica.md), de 2 de agosto, de Medidas para la reforma de la Función Pública, en los términos de la Ley 7/2007, de 12 de abril, del Estatuto Básico del Empleado Público.
 
 C) Las retribuciones complementarias de carácter fijo y periódico, que no experimentarán ningún incremento respecto de las vigentes a 31 de diciembre de 2011, sin perjuicio de lo previsto en el artículo 22. Siete de esta Ley.
 
@@ -1738,7 +1738,7 @@ Abogado Fiscal
 
 2. La retribución por antigüedad o trienios que, en su caso, corresponda.
 
-3. Las pagas extraordinarias, que se devengarán de acuerdo con la normativa aplicable a los funcionarios incluidos en el ámbito de aplicación de la Ley 30/1984, de 2 de agosto, en los términos de la disposición final cuarta de la Ley 7/2007, de 12 de abril, del Estatuto Básico del Empleado Público, serán dos al año por un importe, cada una de ellas, de una mensualidad del sueldo, antigüedad o trienios, según el caso, y la cuantía que se señala en el Anexo X de la Ley 39/2010, de 22 de diciembre, de Presupuestos Generales del Estado para el año 2011.
+3. Las pagas extraordinarias, que se devengarán de acuerdo con la normativa aplicable a los funcionarios incluidos en el ámbito de aplicación de la [Ley 30/1984](../01_marco_normativo_general_y_organico/L30_1984_medidas_reforma_funcion_publica.md), de 2 de agosto, en los términos de la disposición final cuarta de la Ley 7/2007, de 12 de abril, del Estatuto Básico del Empleado Público, serán dos al año por un importe, cada una de ellas, de una mensualidad del sueldo, antigüedad o trienios, según el caso, y la cuantía que se señala en el Anexo X de la Ley 39/2010, de 22 de diciembre, de Presupuestos Generales del Estado para el año 2011.
 
 4. Las retribuciones complementarias y las variables y especiales de los miembros de las carreras judicial y fiscal que no experimentarán ningún incremento respecto de las vigentes a 31 de diciembre de 2011.
 
@@ -1850,7 +1850,7 @@ Cuerpo de Secretarios de Juzgados de Paz de municipios con mas de 7.000 habitant
 
 Los trienios perfeccionados con anterioridad a 1 de enero de 1995 por el personal encuadrado en los Cuerpos de Médicos Forenses y Técnicos Facultativos, quedan establecidos para el año 2012 en 642,12 euros anuales, referidos a doce mensualidades.
 
-2. Las pagas extraordinarias, que se devengarán de acuerdo con la normativa aplicable a los funcionarios incluidos en el ámbito de aplicación de la Ley 30/1984, de 2 de agosto, en los términos de la disposición final cuarta de la Ley 7/2007, de 12 de abril, del Estatuto Básico del Empleado Público, serán dos al año por un importe, cada una de ellas, de una mensualidad del sueldo, antigüedad o trienios, según el caso, y la cuantía complementaria que se señala en el Anexo XI de la Ley 39/2010, de 22 de diciembre, de Presupuestos Generales del Estado para el año 2011.
+2. Las pagas extraordinarias, que se devengarán de acuerdo con la normativa aplicable a los funcionarios incluidos en el ámbito de aplicación de la [Ley 30/1984](../01_marco_normativo_general_y_organico/L30_1984_medidas_reforma_funcion_publica.md), de 2 de agosto, en los términos de la disposición final cuarta de la Ley 7/2007, de 12 de abril, del Estatuto Básico del Empleado Público, serán dos al año por un importe, cada una de ellas, de una mensualidad del sueldo, antigüedad o trienios, según el caso, y la cuantía complementaria que se señala en el Anexo XI de la Ley 39/2010, de 22 de diciembre, de Presupuestos Generales del Estado para el año 2011.
 
 3.a) El complemento general de puesto para los puestos adscritos a los funcionarios del Cuerpo de Secretarios Judiciales, cuando les resulte de aplicación el Real Decreto 2033/2009, de 30 de diciembre, queda establecido para el año 2012 en las siguientes cuantías, referidas a doce mensualidades:
 
@@ -2128,7 +2128,7 @@ Total
 
 106.922,96 €
 
-3. Los miembros del Poder Judicial y del Ministerio Fiscal a que se refieren los números anteriores de este apartado, a excepción del Fiscal General del Estado que se regula en el párrafo siguiente, percibirán 14 mensualidades de la retribución por antigüedad o trienios, en su caso, que les corresponda. Asimismo, percibirán dos pagas al año por la cuantía que se detalla, para cada uno de los cargos, en el Anexo X de la Ley 39/2010, de 22 de diciembre, de Presupuestos Generales del Estado para el año 2011. Dichas cuantías se devengarán de acuerdo con la normativa sobre pagas extraordinarias aplicable a los funcionarios incluidos en el ámbito de aplicación de la Ley 30/1984, de 2 de agosto.
+3. Los miembros del Poder Judicial y del Ministerio Fiscal a que se refieren los números anteriores de este apartado, a excepción del Fiscal General del Estado que se regula en el párrafo siguiente, percibirán 14 mensualidades de la retribución por antigüedad o trienios, en su caso, que les corresponda. Asimismo, percibirán dos pagas al año por la cuantía que se detalla, para cada uno de los cargos, en el Anexo X de la Ley 39/2010, de 22 de diciembre, de Presupuestos Generales del Estado para el año 2011. Dichas cuantías se devengarán de acuerdo con la normativa sobre pagas extraordinarias aplicable a los funcionarios incluidos en el ámbito de aplicación de la [Ley 30/1984](../01_marco_normativo_general_y_organico/L30_1984_medidas_reforma_funcion_publica.md), de 2 de agosto.
 
 El Fiscal General del Estado percibirá, además de la cuantía señalada en el número 2 de este apartado, 14 mensualidades de la retribución por antigüedad o trienios, en su caso, que le corresponda y las derivadas de la aplicación del artículo 32.Cuatro, número 3, párrafo segundo, de la Ley 51/2007, de 26 de diciembre, de Presupuestos Generales del Estado para el año 2008, en las cuantías previstas en el número 3, segundo párrafo, del artículo 32.Cinco.B), de la Ley 26/2009, de Presupuestos Generales del Estado para 2010.
 
@@ -2294,7 +2294,7 @@ C2
 
 18.966,88
 
-E (Ley 30/1984) y Agrupaciones Profesionales (Ley 7/2007)
+E ([Ley 30/1984](../01_marco_normativo_general_y_organico/L30_1984_medidas_reforma_funcion_publica.md)) y Agrupaciones Profesionales (Ley 7/2007)
 
 16.170,77
 
@@ -6198,7 +6198,7 @@ C2
 
 51,63
 
-E (Ley 30/1984) y Agrup.
+E ([Ley 30/1984](../01_marco_normativo_general_y_organico/L30_1984_medidas_reforma_funcion_publica.md)) y Agrup.
 
 Profesionales (Ley 7/2007)
 
@@ -6232,7 +6232,7 @@ C2
 
 22,60
 
-E (Ley 30/1984) y Agrup.
+E ([Ley 30/1984](../01_marco_normativo_general_y_organico/L30_1984_medidas_reforma_funcion_publica.md)) y Agrup.
 
 Profesionales (Ley 7/2007)
 
@@ -9084,7 +9084,7 @@ El Ministerio de Empleo y Seguridad Social informará anualmente a las comisione
 
 #### [precepto]Vigésima octava. Modificación de la [ley 16/2003](../../autonómica/canarias/07_convivencia_bienestar_y_protocolos/L16_2003_prevencion_proteccion_integral_mujeres_contra_violencia.md) de 28 de mayo, de cohesión y calidad del Sistema Nacional de Salud.
 
-Con efectos desde la entrada en vigor de esta ley y vigencia indefinida, se da nueva redacción a la letra d) del apartado 2 del artículo 3, de la Ley 16/2003, de 28 de mayo, de cohesión y calidad del Sistema Nacional de Salud, que queda redactada como sigue:
+Con efectos desde la entrada en vigor de esta ley y vigencia indefinida, se da nueva redacción a la letra d) del apartado 2 del artículo 3, de la [Ley 16/2003](../../autonómica/canarias/07_convivencia_bienestar_y_protocolos/L16_2003_prevencion_proteccion_integral_mujeres_contra_violencia.md), de 28 de mayo, de cohesión y calidad del Sistema Nacional de Salud, que queda redactada como sigue:
 
 «d) Haber agotado la prestación o el subsidio por desempleo y encontrarse en situación de desempleo, no acreditando la condición de asegurado por cualquier otro título.»
 

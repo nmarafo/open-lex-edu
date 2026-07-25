@@ -239,7 +239,7 @@ En relación con esta iniciativa, debe significarse que, si bien la modificació
 
 La disposición final quinta modifica la Ley 40/2003, de 18 de noviembre, de Protección a las Familias Numerosas, para reformar las condiciones de mantenimiento de los efectos del título oficial de familia numerosa. La normativa actual condiciona la vigencia del título hasta que el número de hijos que cumplan los requisitos previstos sea el mínimo establecido. Esto supone que cuando los hermanos mayores van saliendo del título, por dejar de cumplir el requisito de edad, fundamentalmente, la familia puede perder el derecho al título si quedan menos de tres o dos hermanos que cumplan los requisitos, dándose la paradoja de que los hermanos menores que han generado para la familia el derecho al título luego no pueden disfrutar de estos beneficios. Teniendo en cuenta que, en un porcentaje elevadísimo, los títulos vigentes corresponden a familias numerosas con tres o dos hijos, el cumplimiento de la edad máxima por parte del mayor arrastra la pérdida del título y de todos los beneficios para toda la familia con bastante frecuencia. Por ello, esta reforma pretende acomodarse a la situación efectiva de las familias numerosas y evitar una situación de discriminación entre los hermanos.
 
-Las disposiciones finales sexta y séptima introducen sendas modificaciones de la Ley Orgánica 2/2006, de 3 de mayo, de Educación, y de la Ley Orgánica 8/2013, de 9 de diciembre, para la Mejora de la Calidad Educativa, para revisar los criterios de asignación de plaza escolar con vistas a tener en cuenta la condición legal de familia numerosa y situación de acogimiento familiar del alumno o la alumna, así como incrementar la reserva de plazas en los centros educativos para casos del inicio de una medida de acogimiento familiar en el alumno o la alumna.
+Las disposiciones finales sexta y séptima introducen sendas modificaciones de la [Ley Orgánica 2/2006](./LO2_2006_educacion_texto_consolidado_modificaciones_lomloe.md), de 3 de mayo, de Educación, y de la [Ley Orgánica 8/2013](../03_ordenacion_curricular_y_ensenanzas/LO462_2016_ecd_regula_procedimiento_incorporacion_alumnado_curso.md), de 9 de diciembre, para la Mejora de la Calidad Educativa, para revisar los criterios de asignación de plaza escolar con vistas a tener en cuenta la condición legal de familia numerosa y situación de acogimiento familiar del alumno o la alumna, así como incrementar la reserva de plazas en los centros educativos para casos del inicio de una medida de acogimiento familiar en el alumno o la alumna.
 
 La disposición final octava modifica la Ley 43/2006, de 29 de diciembre, para la mejora del crecimiento y del empleo, como consecuencia de la necesidad de protección de las personas que hayan sido víctimas de trata de seres humanos.
 
@@ -251,9 +251,9 @@ Más específicamente, la nueva normativa impide el acceso a las citadas prestac
 
 Se completa así un nuevo entorno normativo que mejora el anteriormente existente y supone un paso adicional de gran importancia desde la perspectiva de los mecanismos de protección social dentro de un ámbito especialmente sensible y en el que ha de contarse con iniciativas y actuaciones desde las diferentes áreas para garantizar un marco de protección integral.
 
-#### Artículo primero. Modificación de la Ley Orgánica 1/1996, de 15 de enero, de Protección Jurídica del Menor, de modificación parcial del código Civil y de la Ley de Enjuiciamiento Civil.
+#### Artículo primero. Modificación de la [Ley Orgánica 1/1996](./LO1_1996_proteccion_juridica_menor_modificacion_parcial_codigo.md), de 15 de enero, de Protección Jurídica del Menor, de modificación parcial del código Civil y de la Ley de Enjuiciamiento Civil.
 
-La Ley Orgánica 1/1996, de 15 de enero, de Protección Jurídica del Menor, de modificación parcial del código Civil y de la Ley de Enjuiciamiento Civil, queda modificada en los siguientes términos:
+La [Ley Orgánica 1/1996](./LO1_1996_proteccion_juridica_menor_modificacion_parcial_codigo.md), de 15 de enero, de Protección Jurídica del Menor, de modificación parcial del código Civil y de la Ley de Enjuiciamiento Civil, queda modificada en los siguientes términos:
 
 Uno. Se modifica la rúbrica del título I, que queda redactada como sigue:
 
@@ -331,7 +331,7 @@ f) Presentar denuncias individuales al Comité de Derechos del Niño, en los té
 
 «3. Los menores extranjeros que se encuentren en España tienen derecho a la educación, asistencia sanitaria y servicios y prestaciones sociales básicas, en las mismas condiciones que los menores españoles. Las Administraciones Públicas velarán por los grupos especialmente vulnerables como los menores extranjeros no acompañados, los que presenten necesidades de protección internacional, los menores con discapacidad y los que sean víctimas de abusos sexuales, explotación sexual, pornografía infantil, de trata o de tráfico de seres humanos, garantizando el cumplimiento de los derechos previstos en la ley.
 
-Los poderes públicos, en el diseño y elaboración de las políticas públicas, tendrán como objetivo lograr la plena integración de los menores extranjeros en la sociedad española, mientras permanezcan en el territorio del Estado español, en los términos establecidos en la Ley Orgánica 4/2000, de 11 de enero, sobre derechos y libertades de los extranjeros en España y su integración social.
+Los poderes públicos, en el diseño y elaboración de las políticas públicas, tendrán como objetivo lograr la plena integración de los menores extranjeros en la sociedad española, mientras permanezcan en el territorio del Estado español, en los términos establecidos en la [Ley Orgánica 4/2000](./LO4_2000_derechos_libertades_extranjeros_espana_integracion_social.md), de 11 de enero, sobre derechos y libertades de los extranjeros en España y su integración social.
 
 4. Cuando la Entidad Pública asuma la tutela de un menor extranjero que se encuentre en España, la Administración General del Estado le facilitará, si no la tuviere, a la mayor celeridad, y junto con la presentación del certificado de tutela expedido por dicha Entidad Pública, la documentación acreditativa de su situación y la autorización de residencia, una vez que haya quedado acreditada la imposibilidad de retorno con su familia o al país de origen, y según lo dispuesto en la normativa vigente en materia de extranjería e inmigración.
 
@@ -1371,7 +1371,7 @@ Once. Se modifica el artículo 10, que queda redactado como sigue:
 
 1. Se entiende por idoneidad la capacidad, aptitud y motivación adecuadas para ejercer la responsabilidad parental, atendiendo a las necesidades de los menores a adoptar, y para asumir las peculiaridades, consecuencias y responsabilidades que conlleva la adopción.
 
-2. A tal efecto, la declaración de idoneidad requerirá una valoración psicosocial sobre la situación personal, familiar y relacional de las personas que se ofrecen para la adopción, su capacidad para establecer vínculos estables y seguros, sus habilidades educativas y su aptitud para atender a un menor en función de sus particulares circunstancias, así como cualquier otro elemento útil relacionado con la singularidad de la adopción internacional. Asimismo, en dicha valoración psicosocial se deberá escuchar a los hijos de quienes se ofrecen para la adopción, de conformidad con lo establecido en el artículo 9 de la Ley Orgánica 1/1996, de 15 de enero, de Protección Jurídica del Menor, de modificación parcial del código Civil y de la Ley de Enjuiciamiento Civil.
+2. A tal efecto, la declaración de idoneidad requerirá una valoración psicosocial sobre la situación personal, familiar y relacional de las personas que se ofrecen para la adopción, su capacidad para establecer vínculos estables y seguros, sus habilidades educativas y su aptitud para atender a un menor en función de sus particulares circunstancias, así como cualquier otro elemento útil relacionado con la singularidad de la adopción internacional. Asimismo, en dicha valoración psicosocial se deberá escuchar a los hijos de quienes se ofrecen para la adopción, de conformidad con lo establecido en el artículo 9 de la [Ley Orgánica 1/1996](./LO1_1996_proteccion_juridica_menor_modificacion_parcial_codigo.md), de 15 de enero, de Protección Jurídica del Menor, de modificación parcial del código Civil y de la Ley de Enjuiciamiento Civil.
 
 Las Entidades Públicas procurarán la necesaria coordinación con el fin de homogeneizar los criterios de valoración de la idoneidad.
 
@@ -1405,7 +1405,7 @@ Catorce. Se modifica el artículo 13, que queda redactado como sigue:
 
 «Artículo 13. Protección de datos de carácter personal.
 
-1. El tratamiento y la cesión de datos derivados del cumplimiento de las previsiones de la presente ley se encontrarán sometidos a lo dispuesto en la Ley Orgánica 15/1999, de 13 de diciembre, de Protección de Datos de Carácter Personal.
+1. El tratamiento y la cesión de datos derivados del cumplimiento de las previsiones de la presente ley se encontrarán sometidos a lo dispuesto en la [Ley Orgánica 15/1999](../02_gestion_y_administracion_centros/LO15_1999_proteccion_datos_caracter_personal.md), de 13 de diciembre, de Protección de Datos de Carácter Personal.
 
 2. Los datos obtenidos por las Entidades Públicas o por los organismos acreditados únicamente podrán ser tratados para las finalidades relacionadas con el desarrollo, en cada caso, de las funciones descritas para cada una de ellas en los artículos 5 y 6.3 de la presente ley.
 
@@ -1671,7 +1671,7 @@ Los acogimientos constituidos judicialmente con anterioridad a la entrada en vig
 
 #### Disposición transitoria cuarta. Certificación de antecedentes penales.
 
-Hasta que entre en funcionamiento el Registro Central de Delincuentes Sexuales, la certificación a la que se refiere el artículo 13 de la Ley Orgánica 1/1996, de 15 de enero, de Protección Jurídica del Menor, de modificación parcial del código Civil y de la Ley de Enjuiciamiento Civil será emitida por el Registro Central de Antecedentes Penales.
+Hasta que entre en funcionamiento el Registro Central de Delincuentes Sexuales, la certificación a la que se refiere el artículo 13 de la [Ley Orgánica 1/1996](./LO1_1996_proteccion_juridica_menor_modificacion_parcial_codigo.md), de 15 de enero, de Protección Jurídica del Menor, de modificación parcial del código Civil y de la Ley de Enjuiciamiento Civil será emitida por el Registro Central de Antecedentes Penales.
 
 #### Disposición transitoria quinta. Extensión de los beneficios relativos a los derechos de matriculación y examen en el ámbito de la educación a los títulos de familia numerosa en vigor a partir de 1 de enero de 2015.
 
@@ -1703,7 +1703,7 @@ a) Cuando el paciente no sea capaz de tomar decisiones, a criterio del médico r
 
 b) Cuando el paciente tenga la capacidad modificada judicialmente y así conste en la sentencia.
 
-c) Cuando el paciente menor de edad no sea capaz intelectual ni emocionalmente de comprender el alcance de la intervención. En este caso, el consentimiento lo dará el representante legal del menor, después de haber escuchado su opinión, conforme a lo dispuesto en el artículo 9 de la Ley Orgánica 1/1996, de 15 de enero, de Protección Jurídica del Menor.
+c) Cuando el paciente menor de edad no sea capaz intelectual ni emocionalmente de comprender el alcance de la intervención. En este caso, el consentimiento lo dará el representante legal del menor, después de haber escuchado su opinión, conforme a lo dispuesto en el artículo 9 de la [Ley Orgánica 1/1996](./LO1_1996_proteccion_juridica_menor_modificacion_parcial_codigo.md), de 15 de enero, de Protección Jurídica del Menor.
 
 4. Cuando se trate de menores emancipados o mayores de 16 años que no se encuentren en los supuestos b) y c) del apartado anterior, no cabe prestar el consentimiento por representación.
 
@@ -1749,9 +1749,9 @@ Las memorias del análisis de impacto normativo que deben acompañar a los antep
 
 Cuatro. El Gobierno remitirá a las Cortes Generales, en el plazo más breve posible, un Proyecto de Ley de reforma de la Ley 40/2003, de 18 de noviembre, de Protección a las Familias Numerosas, con el objetivo de garantizar la igualdad de oportunidades y el acceso a los bienes y servicios públicos, contribuyendo a la redistribución de la renta y la riqueza de las familias.
 
-#### Disposición final sexta. Modificación de la Ley Orgánica 2/2006, de 3 de mayo, de Educación.
+#### Disposición final sexta. Modificación de la [Ley Orgánica 2/2006](./LO2_2006_educacion_texto_consolidado_modificaciones_lomloe.md), de 3 de mayo, de Educación.
 
-La Ley Orgánica 2/2006, de 3 de mayo, de Educación, queda modificada en los siguientes términos:
+La [Ley Orgánica 2/2006](./LO2_2006_educacion_texto_consolidado_modificaciones_lomloe.md), de 3 de mayo, de Educación, queda modificada en los siguientes términos:
 
 Uno. Se modifica el apartado 2 del artículo 84, que queda redactado como sigue:
 
@@ -1765,13 +1765,13 @@ Dos. Se modifica el apartado 2 del artículo 87, que queda redactado como sigue:
 
 Asimismo, podrán autorizar un incremento de hasta un diez por ciento del número máximo de alumnos y alumnas por aula en los centros públicos y privados concertados de una misma área de escolarización, bien para atender necesidades inmediatas de escolarización del alumnado de incorporación tardía, bien por necesidades que vengan motivadas por traslado de la unidad familiar en período de escolarización extraordinaria, debido a la movilidad forzosa de cualquiera de los padres, madres o tutores legales, o debido al inicio de una medida de acogimiento familiar en el alumno o la alumna.»
 
-#### Disposición final séptima. Modificación de la Ley Orgánica 8/2013, de 9 de diciembre, para la Mejora de la Calidad Educativa.
+#### Disposición final séptima. Modificación de la [Ley Orgánica 8/2013](../03_ordenacion_curricular_y_ensenanzas/LO462_2016_ecd_regula_procedimiento_incorporacion_alumnado_curso.md), de 9 de diciembre, para la Mejora de la Calidad Educativa.
 
-Uno. El apartado sesenta del artículo único de la Ley Orgánica 8/2013, de 9 de diciembre, para la Mejora de la Calidad Educativa queda modificado del modo que el primer párrafo del apartado 2 del artículo 84 de la Ley Orgánica 2/2006, de 3 de mayo, de Educación, tendrá el siguiente contenido:
+Uno. El apartado sesenta del artículo único de la [Ley Orgánica 8/2013](../03_ordenacion_curricular_y_ensenanzas/LO462_2016_ecd_regula_procedimiento_incorporacion_alumnado_curso.md), de 9 de diciembre, para la Mejora de la Calidad Educativa queda modificado del modo que el primer párrafo del apartado 2 del artículo 84 de la [Ley Orgánica 2/2006](./LO2_2006_educacion_texto_consolidado_modificaciones_lomloe.md), de 3 de mayo, de Educación, tendrá el siguiente contenido:
 
 «Cuando no existan plazas suficientes, el proceso de admisión se regirá por los criterios prioritarios de existencia de hermanos matriculados en el centro, padres, madres o tutores legales que trabajen en el mismo, proximidad del domicilio o del lugar de trabajo de alguno de sus padres, madres o tutores legales, renta per cápita de la unidad familiar y condición legal de familia numerosa, situación de acogimiento familiar del alumno o alumna, y concurrencia de discapacidad en el alumno o alumna o en alguno de sus padres, madres o hermanos, sin que ninguno de ellos tenga carácter excluyente y sin perjuicio de lo establecido en el apartado 7 de este artículo.»
 
-Dos. El apartado sesenta del artículo único de la Ley Orgánica 8/2013, de 9 de diciembre, para la mejora de la calidad educativa queda modificado del modo que el apartado 2 del artículo 87 de la Ley Orgánica 2/2006, de 3 de mayo, de Educación, tendrá el siguiente contenido:
+Dos. El apartado sesenta del artículo único de la [Ley Orgánica 8/2013](../03_ordenacion_curricular_y_ensenanzas/LO462_2016_ecd_regula_procedimiento_incorporacion_alumnado_curso.md), de 9 de diciembre, para la mejora de la calidad educativa queda modificado del modo que el apartado 2 del artículo 87 de la [Ley Orgánica 2/2006](./LO2_2006_educacion_texto_consolidado_modificaciones_lomloe.md), de 3 de mayo, de Educación, tendrá el siguiente contenido:
 
 «Asimismo, podrán autorizar un incremento de hasta un diez por ciento del número máximo de alumnos y alumnas por aula en los centros públicos y privados concertados de una misma área de escolarización, bien por necesidades que vengan motivadas por traslado de la unidad familiar en período de escolarización extraordinaria debido a la movilidad forzosa de cualquiera de los padres, madres o tutores legales, o debido al inicio de una medida de acogimiento familiar en el alumno o la alumna.»
 
@@ -1779,7 +1779,7 @@ Dos. El apartado sesenta del artículo único de la Ley Orgánica 8/2013, de 9 d
 
 Se introduce un nuevo apartado 4 ter en el artículo 2 de la Ley 43/2006, de 29 de diciembre, para la mejora del crecimiento y del empleo en los siguientes términos:
 
-«4 ter. Los empleadores que contraten indefinidamente a víctimas de trata de seres humanos, identificadas de acuerdo con lo dispuesto en el artículo 59 bis de la Ley Orgánica 4/2000, de 11 de enero, sobre derechos y libertades de los extranjeros en España y su integración social, y que, en su caso, hayan obtenido la autorización de residencia y trabajo por circunstancias excepcionales, sin que sea necesaria la condición de estar en desempleo, tendrán derecho, desde la fecha de celebración del contrato, a una bonificación mensual de la cuota empresarial a la Seguridad Social o, en su caso, por su equivalente diario, por trabajador contratado de 125 euros/mes (1.500 euros/año) durante 2 años.
+«4 ter. Los empleadores que contraten indefinidamente a víctimas de trata de seres humanos, identificadas de acuerdo con lo dispuesto en el artículo 59 bis de la [Ley Orgánica 4/2000](./LO4_2000_derechos_libertades_extranjeros_espana_integracion_social.md), de 11 de enero, sobre derechos y libertades de los extranjeros en España y su integración social, y que, en su caso, hayan obtenido la autorización de residencia y trabajo por circunstancias excepcionales, sin que sea necesaria la condición de estar en desempleo, tendrán derecho, desde la fecha de celebración del contrato, a una bonificación mensual de la cuota empresarial a la Seguridad Social o, en su caso, por su equivalente diario, por trabajador contratado de 125 euros/mes (1.500 euros/año) durante 2 años.
 
 En el caso de que se celebren contratos temporales con estas personas se tendrá derecho a una bonificación mensual de la cuota empresarial a la Seguridad Social o, en su caso, por su equivalente diario, por trabajador contratado de 50 euros/mes (600 euros/año), durante toda la vigencia del contrato.»
 
@@ -1861,7 +1861,7 @@ Dos. Se añade un nuevo artículo, el 37 bis, con la siguiente redacción:
 
 «Artículo 37 bis. Impedimento para ser beneficiario de las prestaciones en favor de los familiares.
 
-Sin perjuicio de lo establecido en la disposición adicional primera de la Ley Orgánica 1/2004, de 28 de diciembre, de Medidas de Protección Integral contra la Violencia de Género, no podrá tener la condición de beneficiario de las prestaciones en favor de los familiares que hubieran podido corresponderle, quien fuera condenado por sentencia firme por la comisión de un delito doloso de homicidio en cualquiera de sus formas, cuando la víctima fuera el sujeto causante de la prestación.
+Sin perjuicio de lo establecido en la disposición adicional primera de la [Ley Orgánica 1/2004](../07_convivencia_bienestar_y_protocolos/LO1_2004_medidas_proteccion_integral_contra_violencia_genero.md), de 28 de diciembre, de Medidas de Protección Integral contra la Violencia de Género, no podrá tener la condición de beneficiario de las prestaciones en favor de los familiares que hubieran podido corresponderle, quien fuera condenado por sentencia firme por la comisión de un delito doloso de homicidio en cualquiera de sus formas, cuando la víctima fuera el sujeto causante de la prestación.
 
 La Administración podrá revisar, por sí misma y en cualquier momento, el acto o acuerdo por el cual hubiera reconocido el derecho a una prestación en favor de los familiares a quien fuera condenado por sentencia firme en el supuesto indicado, viniendo el mismo obligado a devolver las cantidades que, en su caso, hubiera percibido por tal concepto.
 

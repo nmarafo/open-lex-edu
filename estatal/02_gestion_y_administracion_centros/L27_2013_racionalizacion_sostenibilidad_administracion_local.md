@@ -47,7 +47,7 @@ Con este propósito se plantea esta reforma que persigue varios objetivos básic
 
 Respecto al objetivo de clarificar las competencias locales y avanzar en el principio «una Administración una competencia», se trata de evitar los problemas de solapamientos competenciales entre Administraciones hasta ahora existentes.
 
-En efecto, la Ley 7/1985, de 2 de abril, Reguladora de las Bases de Régimen Local, diseñó un modelo competencial que ha dado lugar a disfuncionalidades, generando en no pocos supuestos situaciones de concurrencia competencial entre varias Administraciones Públicas, duplicidad en la prestación de servicios, o que los Ayuntamientos presten servicios sin un título competencial específico que les habilite y sin contar con los recursos adecuados para ello, dando lugar al ejercicio de competencias que no tienen legalmente atribuidas ni delegadas y a la duplicidad de competencias entre Administraciones. El sistema competencial de los Municipios españoles se configura en la praxis como un modelo excesivamente complejo, del que se derivan dos consecuencias que inciden sobre planos diferentes.
+En efecto, la [Ley 7/1985](./L7_1985_reguladora_bases_regimen_local.md), de 2 de abril, Reguladora de las Bases de Régimen Local, diseñó un modelo competencial que ha dado lugar a disfuncionalidades, generando en no pocos supuestos situaciones de concurrencia competencial entre varias Administraciones Públicas, duplicidad en la prestación de servicios, o que los Ayuntamientos presten servicios sin un título competencial específico que les habilite y sin contar con los recursos adecuados para ello, dando lugar al ejercicio de competencias que no tienen legalmente atribuidas ni delegadas y a la duplicidad de competencias entre Administraciones. El sistema competencial de los Municipios españoles se configura en la praxis como un modelo excesivamente complejo, del que se derivan dos consecuencias que inciden sobre planos diferentes.
 
 Por una parte, este sistema competencial municipal hace que se difumine la responsabilidad de los gobiernos locales en su ejercicio y se confunda con los ámbitos competenciales propios de otras Administraciones Públicas, generando, en no pocas ocasiones, el desconcierto de los ciudadanos que desconocen cuál es la Administración responsable de los servicios públicos.
 
@@ -89,7 +89,7 @@ En la línea de garantizar la profesionalidad y la eficacia de las funciones de 
 
 Finalmente, para favorecer la iniciativa económica privada, evitando intervenciones administrativas desproporcionadas, se limita el uso de autorizaciones administrativas para iniciar una actividad económica a casos en los que su necesidad y proporcionalidad queden claramente justificadas. Asimismo, se suprimen monopolios municipales que venían heredados del pasado y que recaen sobre sectores económicos pujantes en la actualidad.
 
-La presente Ley tiene como objeto principal modificar la Ley 7/1985, de 2 de abril, Reguladora de las Bases del Régimen Local, así como el texto refundido de la Ley Reguladora de las Haciendas Locales, aprobado por el Real Decreto Legislativo 2/2004, de 5 de marzo. Asimismo, se derogan, entre otras, la disposición adicional segunda y la disposición transitoria séptima de la Ley 7/2007, de 12 de abril, del Estatuto Básico del Empleado Público, y se modifica la Ley 30/1992, de 26 de noviembre, de Régimen Jurídico de las Administraciones Públicas y del Procedimiento Administrativo Común, para incluir una nueva disposición adicional.
+La presente Ley tiene como objeto principal modificar la [Ley 7/1985](./L7_1985_reguladora_bases_regimen_local.md), de 2 de abril, Reguladora de las Bases del Régimen Local, así como el texto refundido de la Ley Reguladora de las Haciendas Locales, aprobado por el Real Decreto Legislativo 2/2004, de 5 de marzo. Asimismo, se derogan, entre otras, la disposición adicional segunda y la disposición transitoria séptima de la Ley 7/2007, de 12 de abril, del Estatuto Básico del Empleado Público, y se modifica la Ley 30/1992, de 26 de noviembre, de Régimen Jurídico de las Administraciones Públicas y del Procedimiento Administrativo Común, para incluir una nueva disposición adicional.
 
 Y del mismo modo, la presente Ley quiere contribuir a dar un nuevo impulso a los objetivos y a los mandatos a los que responda la vigente Ley de Igualdad de Oportunidades, No Discriminación y Accesibilidad Universal de 2003 y, en particular, a la eliminación de barreras y obstáculos que puedan limitar la plena integración, la participación, el acceso a la información y la igualdad de oportunidades de las personas que padecen discapacidad.
 
@@ -97,9 +97,9 @@ Por otra parte, la Ley incluye una serie de disposiciones adicionales y de dispo
 
 La Ley se cierra con una disposición derogatoria única y seis disposiciones finales que aluden, entre otros elementos, a los títulos competenciales en virtud de los que se aprueba esta Ley y a su inmediata entrada en vigor.
 
-#### Artículo primero. Modificación de la Ley 7/1985, de 2 de abril, reguladora de las Bases del Régimen Local.
+#### Artículo primero. Modificación de la [Ley 7/1985](./L7_1985_reguladora_bases_regimen_local.md), de 2 de abril, reguladora de las Bases del Régimen Local.
 
-La Ley 7/1985, de 2 de abril, reguladora de las Bases del Régimen Local, queda modificada como sigue:
+La [Ley 7/1985](./L7_1985_reguladora_bases_regimen_local.md), de 2 de abril, reguladora de las Bases del Régimen Local, queda modificada como sigue:
 
 Uno. El apartado 1 del artículo 2 queda redactado del siguiente modo:
 
@@ -951,9 +951,9 @@ Cuatro. Se modifica la disposición adicional octava que queda redactada como si
 
 «Disposición adicional octava. Régimen foral vasco.
 
-1. Los Territorios Históricos del País Vasco continuarán conservando su régimen especial en materia municipal en lo que afecta al régimen económico-financiero en los términos de la Ley del Concierto Económico, sin que ello pueda significar un nivel de autonomía de las corporaciones locales vascas inferior al que tengan las demás corporaciones locales, sin perjuicio de la aplicación de lo dispuesto en la Ley 7/1985, de 2 de abril, reguladora de las Bases del Régimen Local, y de las competencias que a este respecto puedan corresponder a la Comunidad Autónoma.
+1. Los Territorios Históricos del País Vasco continuarán conservando su régimen especial en materia municipal en lo que afecta al régimen económico-financiero en los términos de la Ley del Concierto Económico, sin que ello pueda significar un nivel de autonomía de las corporaciones locales vascas inferior al que tengan las demás corporaciones locales, sin perjuicio de la aplicación de lo dispuesto en la [Ley 7/1985](./L7_1985_reguladora_bases_regimen_local.md), de 2 de abril, reguladora de las Bases del Régimen Local, y de las competencias que a este respecto puedan corresponder a la Comunidad Autónoma.
 
-Las instituciones vascas podrán, en sus respectivos ámbitos competenciales, atribuir competencias como propias a los municipios de sus respectivos territorios, con sujeción, en todo caso, a los criterios señalados en los apartados 3, 4 y 5 del artículo 25 de la Ley 7/1985, de 2 de abril, reguladora de las Bases del Régimen Local.
+Las instituciones vascas podrán, en sus respectivos ámbitos competenciales, atribuir competencias como propias a los municipios de sus respectivos territorios, con sujeción, en todo caso, a los criterios señalados en los apartados 3, 4 y 5 del artículo 25 de la [Ley 7/1985](./L7_1985_reguladora_bases_regimen_local.md), de 2 de abril, reguladora de las Bases del Régimen Local.
 
 2. De conformidad con la disposición final tercera de la Ley Orgánica 2/2012, de 27 de abril, de Estabilidad Presupuestaria y Sostenibilidad Financiera, y de la cláusula subrogatoria prevista en el artículo 48 quinto de la Ley del Concierto Económico con el País Vasco, los Territorios Históricos recibirán los informes a que se refieren los artículos 193 bis y 218 de la presente Ley. Asimismo, los órganos interventores de las administraciones locales del País Vasco remitirán también al Tribunal Vasco de Cuentas Públicas, sin perjuicio de las competencias atribuidas al Tribunal de Cuentas, los informes a que se refiere el artículo 218 de la presente Ley.
 
@@ -1001,7 +1001,7 @@ Cuando la Diputación o entidad equivalente acredite en un informe que el acuerd
 
 3. En el ámbito de las competencias enumeradas en los artículos 21 y 22 de las citadas Leyes Orgánicas 1/1995 y 2/1995, de 13 de marzo, cuando no exista legislación sectorial estatal específica, las Asambleas de Ceuta y Melilla, en ejercicio de su potestad reglamentaria, podrán tipificar infracciones y determinar las sanciones correspondientes por el incumplimiento de deberes, prohibiciones o limitaciones de acuerdo con criterios mínimos de antijuridicidad basados en la intensidad de la perturbación, de los daños o del peligro causados. Las sanciones que puedan imponerse por la comisión de las conductas infractoras podrán consistir en multas o prohibiciones, por tiempo razonable y proporcionado, bien del ejercicio de actividades, incluso de las autorizadas o comunicadas, bien del acceso a equipamientos, infraestructuras e instalaciones.
 
-Respecto a las competencias de régimen local atribuidas a las Ciudades por el artículo 25 de sus respectivos Estatutos, siempre que se trate de garantizar la adecuada ordenación de las relaciones de convivencia y del uso de los servicios, equipamientos, infraestructuras, instalaciones y espacios públicos, las Asambleas de Ceuta y Melilla podrán tipificar infracciones e imponer sanciones en los términos del Título XI de la Ley 7/1985, de 2 de abril, reguladora de las Bases del Régimen Local.
+Respecto a las competencias de régimen local atribuidas a las Ciudades por el artículo 25 de sus respectivos Estatutos, siempre que se trate de garantizar la adecuada ordenación de las relaciones de convivencia y del uso de los servicios, equipamientos, infraestructuras, instalaciones y espacios públicos, las Asambleas de Ceuta y Melilla podrán tipificar infracciones e imponer sanciones en los términos del Título XI de la [Ley 7/1985](./L7_1985_reguladora_bases_regimen_local.md), de 2 de abril, reguladora de las Bases del Régimen Local.
 
 4. Las Ciudades de Ceuta y Melilla podrán llevar a cabo actuaciones de cooperación con relación a materias que sean competencia del Estado, suscribiendo, a tal efecto, los correspondientes Convenios de Colaboración. Asimismo, ambas Ciudades y la Administración General del Estado podrán celebrar Convenios de Colaboración referidos a competencias estatutariamente asumidas en virtud de los respectivos Estatutos de Autonomía, conforme a lo establecido en la disposición adicional decimocuarta de la Ley 30/1992, de 26 de noviembre, de Régimen Jurídico de las Administraciones Públicas y del Procedimiento Administrativo Común.
 
@@ -1029,7 +1029,7 @@ En el supuesto de incumplimiento de lo dispuesto en el artículo 81.1.d) del tex
 
 #### Disposición adicional novena. Convenios sobre ejercicio de competencias y servicios municipales.
 
-1. Los convenios, acuerdos y demás instrumentos de cooperación ya suscritos, en el momento de la entrada en vigor de esta Ley, por el Estado y las Comunidades Autónomas con toda clase de Entidades Locales, que lleven aparejada cualquier tipo de financiación destinada a sufragar el ejercicio por parte de éstas últimas de competencias delegadas o competencias distintas a las enumeradas en los artículos 25 y 27 de la Ley 7/1985, de 2 de abril, Reguladora de las Bases del Régimen Local, deberán adaptarse a lo previsto en esta Ley a 31 de diciembre de 2014. Transcurrido este plazo sin haberse adaptado quedarán sin efecto.
+1. Los convenios, acuerdos y demás instrumentos de cooperación ya suscritos, en el momento de la entrada en vigor de esta Ley, por el Estado y las Comunidades Autónomas con toda clase de Entidades Locales, que lleven aparejada cualquier tipo de financiación destinada a sufragar el ejercicio por parte de éstas últimas de competencias delegadas o competencias distintas a las enumeradas en los artículos 25 y 27 de la [Ley 7/1985](./L7_1985_reguladora_bases_regimen_local.md), de 2 de abril, Reguladora de las Bases del Régimen Local, deberán adaptarse a lo previsto en esta Ley a 31 de diciembre de 2014. Transcurrido este plazo sin haberse adaptado quedarán sin efecto.
 
 2. La adaptación a las previsiones de esta Ley de los instrumentos de cooperación suscritos por las Entidades Locales para el funcionamiento de Centros Asociados de la Universidad Nacional de Educación a Distancia deberá realizarse en el plazo de tres años desde su entrada en vigor. Durante el plazo de adaptación de los instrumentos de cooperación, la financiación de las Administraciones locales a los centros asociados no se extenderá a los servicios académicos que se presten a los alumnos matriculados con posterioridad a la entrada en vigor de esta Ley.
 
@@ -1049,7 +1049,7 @@ Dicho informe y éstas resoluciones serán igualmente comunicadas al Ministerio 
 
 #### Disposición adicional decimotercera. Consorcios constituidos para la prestación de servicios mínimos.
 
-El personal al servicio de los consorcios constituidos, antes de la entrada en vigor de esta Ley, que presten servicios mínimos a los que se refiere el artículo 26 de la Ley 7/1985, de 2 de abril, reguladora de las bases de Régimen Local, podrá integrarse por quienes no sean personal funcionario o laboral procedente de una reasignación de puestos de trabajo de las Administraciones participantes en el consorcio.
+El personal al servicio de los consorcios constituidos, antes de la entrada en vigor de esta Ley, que presten servicios mínimos a los que se refiere el artículo 26 de la [Ley 7/1985](./L7_1985_reguladora_bases_regimen_local.md), de 2 de abril, reguladora de las bases de Régimen Local, podrá integrarse por quienes no sean personal funcionario o laboral procedente de una reasignación de puestos de trabajo de las Administraciones participantes en el consorcio.
 
 #### Disposición adicional decimocuarta. Régimen jurídico especial de determinados consorcios.
 
@@ -1067,7 +1067,7 @@ Las normas reguladoras del sistema de financiación de las Comunidades Autónoma
 
 #### Disposición adicional decimoséptima. Apertura de lugares de culto.
 
-Para la apertura de lugares de culto las iglesias, confesiones o comunidades religiosas deberán acreditar su personalidad jurídica civil mediante certificado del Registro de Entidades Religiosas, emitido al efecto, en el que constará la ubicación del lugar de culto que se pretenda constituir. Obtenida esa certificación, su tramitación se ajustará a lo dispuesto en el artículo 84.1.c) de la Ley 7/1985, de 2 de abril, reguladora de las Bases del Régimen Local, sin perjuicio de recabar la licencia urbanística que corresponda.
+Para la apertura de lugares de culto las iglesias, confesiones o comunidades religiosas deberán acreditar su personalidad jurídica civil mediante certificado del Registro de Entidades Religiosas, emitido al efecto, en el que constará la ubicación del lugar de culto que se pretenda constituir. Obtenida esa certificación, su tramitación se ajustará a lo dispuesto en el artículo 84.1.c) de la [Ley 7/1985](./L7_1985_reguladora_bases_regimen_local.md), de 2 de abril, reguladora de las Bases del Régimen Local, sin perjuicio de recabar la licencia urbanística que corresponda.
 
 #### Disposición transitoria primera. Asunción por las Comunidades Autónomas de las competencias relativas a la salud.
 
@@ -1081,7 +1081,7 @@ A estos efectos la Comunidad Autónoma, elaborará un plan para la evaluación y
 
 3. En todo caso, la gestión por las Comunidades Autónomas de los servicios anteriormente citados no podrá suponer un mayor gasto para el conjunto de las Administraciones Públicas.
 
-4. Lo dispuesto en los apartados anteriores se entiende sin perjuicio de la posibilidad de las Comunidades Autónomas de delegar dichas competencias en los Municipios, Diputaciones Provinciales o entidades equivalentes, de conformidad con el artículo 27 de la Ley 7/1985, de 2 de abril, reguladora de las Bases del Régimen Local.
+4. Lo dispuesto en los apartados anteriores se entiende sin perjuicio de la posibilidad de las Comunidades Autónomas de delegar dichas competencias en los Municipios, Diputaciones Provinciales o entidades equivalentes, de conformidad con el artículo 27 de la [Ley 7/1985](./L7_1985_reguladora_bases_regimen_local.md), de 2 de abril, reguladora de las Bases del Régimen Local.
 
 5. En los términos previstos en el apartado 1, y de acuerdo con las normas reguladoras del sistema de financiación de las Comunidades Autónomas y de las Haciendas Locales, cada año que transcurra, dentro del período de cinco años anteriormente mencionado, sin que las Comunidades Autónomas hayan asumido el desarrollo del veinte por cien de los servicios previsto en esta disposición o, en su caso, hayan acordado su delegación, los servicios seguirán prestándose por el municipio, Diputación Provincial o entidad equivalente con cargo a la Comunidad Autónoma. Si la Comunidad Autónoma no transfiriera las cuantías precisas para ello se aplicarán retenciones en las transferencias que les correspondan por aplicación de su sistema de financiación, teniendo en cuenta lo que disponga su normativa reguladora.
 
@@ -1095,7 +1095,7 @@ Las Comunidades Autónomas asumirán la titularidad de estas competencias, con i
 
 3. En todo caso, la gestión por las Comunidades Autónomas de los servicios anteriormente citados no podrá suponer un mayor gasto para el conjunto de las Administraciones Públicas.
 
-4. Lo dispuesto en los apartados anteriores se entiende sin perjuicio de la posibilidad de las Comunidades Autónomas de delegar dichas competencias en los Municipios, Diputaciones Provinciales o entidades equivalentes, de conformidad con el artículo 27 de la Ley 7/1985, de 2 de abril, reguladora de las Bases del Régimen Local.
+4. Lo dispuesto en los apartados anteriores se entiende sin perjuicio de la posibilidad de las Comunidades Autónomas de delegar dichas competencias en los Municipios, Diputaciones Provinciales o entidades equivalentes, de conformidad con el artículo 27 de la [Ley 7/1985](./L7_1985_reguladora_bases_regimen_local.md), de 2 de abril, reguladora de las Bases del Régimen Local.
 
 5. Si en la fecha citada en el apartado 1 de esta disposición, en los términos previstos en las normas reguladoras del sistema de financiación de las Comunidades Autónomas y de las Haciendas Locales, las Comunidades Autónomas no hubieren asumido el desarrollo de los servicios de su competencia prestados por los Municipios, Diputaciones Provinciales o entidades equivalentes, Entidades Locales, o en su caso, no hubieren acordado su delegación, los servicios seguirán prestándose por el municipio con cargo a la Comunidad Autónoma. Si la Comunidad Autónoma no transfiriera las cuantías precisas para ello se aplicarán retenciones en las transferencias que les correspondan por aplicación de su sistema de financiación, teniendo en cuenta lo que disponga su normativa reguladora.
 
@@ -1129,7 +1129,7 @@ Si esta adaptación diera lugar a un cambio en el régimen jurídico aplicable a
 
 #### Disposición transitoria séptima. Régimen transitorio de los funcionarios de Administración Local con habilitación de carácter estatal.
 
-En tanto no entre en vigor el Reglamento previsto en el artículo 92 bis de la Ley 7/1985, de 2 de abril, reguladora de las Bases de Régimen Local, y en todo aquello que no se oponga a lo dispuesto en esta Ley, mantiene su vigencia la normativa reglamentaria referida a los funcionarios incluidos en el ámbito de aplicación del citado artículo.
+En tanto no entre en vigor el Reglamento previsto en el artículo 92 bis de la [Ley 7/1985](./L7_1985_reguladora_bases_regimen_local.md), de 2 de abril, reguladora de las Bases de Régimen Local, y en todo aquello que no se oponga a lo dispuesto en esta Ley, mantiene su vigencia la normativa reglamentaria referida a los funcionarios incluidos en el ámbito de aplicación del citado artículo.
 
 Los procedimientos administrativos referidos a funcionarios de Administración Local con habilitación de carácter estatal iniciados con anterioridad a la entrada en vigor de esta Ley continuarán su tramitación y se resolverán de acuerdo con la normativa vigente en el momento de su iniciación.
 
@@ -1137,15 +1137,15 @@ Las referencias a la Escala de funcionarios con habilitación de carácter estat
 
 #### Disposición transitoria octava. Régimen transitorio para el personal directivo de las Diputaciones, Cabildos y Consejos Insulares.
 
-El régimen previsto en el artículo 32 bis de la Ley 7/1985, de 2 de abril, reguladora de las Bases del Régimen Local será de aplicación a los nombramientos que se produzcan con posterioridad a la entrada en vigor de esta Ley.
+El régimen previsto en el artículo 32 bis de la [Ley 7/1985](./L7_1985_reguladora_bases_regimen_local.md), de 2 de abril, reguladora de las Bases del Régimen Local será de aplicación a los nombramientos que se produzcan con posterioridad a la entrada en vigor de esta Ley.
 
 #### Disposición transitoria novena. Régimen transitorio para los Directores Generales de las Entidades Locales.
 
-Lo previsto en el apartado tercero del artículo 130 de la Ley 7/1985, de 2 de abril, Reguladora de las Bases del Régimen Local será de aplicación a los nombramientos que se produzcan con posterioridad a la entrada en vigor de esta Ley.
+Lo previsto en el apartado tercero del artículo 130 de la [Ley 7/1985](./L7_1985_reguladora_bases_regimen_local.md), de 2 de abril, Reguladora de las Bases del Régimen Local será de aplicación a los nombramientos que se produzcan con posterioridad a la entrada en vigor de esta Ley.
 
 #### Disposición transitoria décima. Aplicación de las limitaciones referidas al número de personal eventual y cargos públicos con dedicación exclusiva.
 
-1. A las Entidades Locales que cumplan con los objetivos de estabilidad presupuestaria y deuda pública, y además su período medio de pago a los proveedores no supere en más de 30 días el plazo máximo previsto de la normativa de morosidad, no les aplicará, con carácter excepcional, los límites previstos en los artículos 75 bis y ter y 104 bis de la Ley 7/1985, de 2 de abril, reguladora de las Bases del Régimen Local hasta el 30 de junio de 2015.
+1. A las Entidades Locales que cumplan con los objetivos de estabilidad presupuestaria y deuda pública, y además su período medio de pago a los proveedores no supere en más de 30 días el plazo máximo previsto de la normativa de morosidad, no les aplicará, con carácter excepcional, los límites previstos en los artículos 75 bis y ter y 104 bis de la [Ley 7/1985](./L7_1985_reguladora_bases_regimen_local.md), de 2 de abril, reguladora de las Bases del Régimen Local hasta el 30 de junio de 2015.
 
 2. El cumplimiento de los requisitos previstos en el apartado anterior, será verificado por la Secretaría General de Coordinación Autonómica y Local del Ministerio de Hacienda y Administraciones Públicas, que, en virtud de la información comunicada por las Entidades Locales al mencionado Ministerio, publicará una lista de las Entidades Locales que cumplen los requisitos previstos en el apartado anterior.
 
@@ -1155,9 +1155,9 @@ Lo previsto en el apartado tercero del artículo 130 de la Ley 7/1985, de 2 de a
 
 #### Disposición transitoria undécima. Mancomunidades de municipios.
 
-En el plazo de seis meses desde la entrada en vigor de esta Ley, las mancomunidades de municipios deberán de adaptar sus estatutos a lo previsto en el artículo 44 de la Ley 7/1985, de 2 de abril, reguladora de las Bases de Régimen Local, para no incurrir en causa de disolución.
+En el plazo de seis meses desde la entrada en vigor de esta Ley, las mancomunidades de municipios deberán de adaptar sus estatutos a lo previsto en el artículo 44 de la [Ley 7/1985](./L7_1985_reguladora_bases_regimen_local.md), de 2 de abril, reguladora de las Bases de Régimen Local, para no incurrir en causa de disolución.
 
-Las competencias de las mancomunidades de municipios estarán orientadas exclusivamente a la realización de obras y la prestación de los servicios públicos que sean necesarios para que los municipios puedan ejercer las competencias o prestar los servicios enumerados en los artículos 25 y 26 de la Ley 7/1985, de 2 de abril, reguladora de las Bases de Régimen Local.
+Las competencias de las mancomunidades de municipios estarán orientadas exclusivamente a la realización de obras y la prestación de los servicios públicos que sean necesarios para que los municipios puedan ejercer las competencias o prestar los servicios enumerados en los artículos 25 y 26 de la [Ley 7/1985](./L7_1985_reguladora_bases_regimen_local.md), de 2 de abril, reguladora de las Bases de Régimen Local.
 
 El expediente para la disolución será iniciado y resuelto por el Órgano de Gobierno de la Comunidad Autónoma, y en todo caso conllevará:
 
@@ -1173,7 +1173,7 @@ A la entrada en vigor de esta Ley quedan derogadas cuantas disposiciones de igua
 
 Se modifica el apartado segundo del artículo 97 del texto refundido de las Disposiciones Legales vigentes en materia de Régimen Local, aprobado por el Real Decreto Legislativo 781/1986, de 18 de abril, que queda redactado en los siguientes términos:
 
-«2. Para la ejecución efectiva en régimen de monopolio de las actividades reservadas de acuerdo con lo dispuesto en el artículo 86.2 de la Ley 7/1985, de 2 de abril, Reguladora de las Bases de Régimen Local, se requerirá el cumplimiento de los trámites previstos en el número anterior referidos a la conveniencia del régimen de monopolio y se recabará informe de la autoridad de competencia correspondiente, si bien el acuerdo a que se refiere su apartado d) deberá ser optado por mayoría absoluta del número legal de miembros de la Corporación.
+«2. Para la ejecución efectiva en régimen de monopolio de las actividades reservadas de acuerdo con lo dispuesto en el artículo 86.2 de la [Ley 7/1985](./L7_1985_reguladora_bases_regimen_local.md), de 2 de abril, Reguladora de las Bases de Régimen Local, se requerirá el cumplimiento de los trámites previstos en el número anterior referidos a la conveniencia del régimen de monopolio y se recabará informe de la autoridad de competencia correspondiente, si bien el acuerdo a que se refiere su apartado d) deberá ser optado por mayoría absoluta del número legal de miembros de la Corporación.
 
 Recaído acuerdo de la Corporación, se elevará el expediente completo al órgano competente de la Comunidad Autónoma. El Consejo de Gobierno de ésta deberá resolver sobre su aprobación en el plazo de tres meses.
 

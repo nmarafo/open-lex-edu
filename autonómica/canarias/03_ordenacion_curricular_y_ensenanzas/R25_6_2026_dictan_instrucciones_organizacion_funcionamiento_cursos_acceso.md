@@ -117,7 +117,7 @@ ciclo de la educación infantil, la educación primaria y la educación secundar
 Decreto 659/2023, de 18 de julio, por el que se desarrolla la ordenación del Sistema de 
 Formación Profesional específica, en consonancia con lo establecido por los artículos 
 41.2.b) y 41.3.b) de la Ley Orgánica 3/2020, de 29 de diciembre, por la que se modifica la 
-Ley Orgánica 2/2006, de 3 de mayo, de Educación, las condiciones para el acceso a ciclos 
+[Ley Orgánica 2/2006](../../../estatal/01_marco_normativo_general_y_organico/LO2_2006_educacion_texto_consolidado_modificaciones_lomloe.md), de 3 de mayo, de Educación, las condiciones para el acceso a ciclos 
 formativos.
 En este sentido, los artículos 108 y 112 recogen, respectivamente, como una de las 
 posibles vías de acceso a los ciclos formativos de grado medio y grado superior, “haber 
@@ -420,7 +420,7 @@ entorno virtual habilitado al efecto, el cual cumplirá lo establecido en el pun
 instrucciones.
 3. Currículo, programación y evaluación.
 3.1. Currículo.
-Según lo establecido en el artículo 109 del Real Decreto 659/2023, de 18 de julio, por 
+Según lo establecido en el artículo 109 del [Real Decreto 659/2023](./RD659_2023_dictan_instrucciones_orientaciones_formacion_dual_empresas.md), de 18 de julio, por 
 el que se desarrolla la ordenación del Sistema de Formación Profesional, el “currículo 
 de referencia para la organización del curso se centrará en las competencias básicas 
 que permitan cursar con éxito los ciclos de Formación Profesional de grado medio y se 
@@ -831,7 +831,7 @@ como finalidad la atención al alumnado (resolución de dudas, práctica y refue
 habilidades o realización de actividades complementarias, entre otras).
 3. Currículo, programación y evaluación.
 3.1. Currículo.
-Según lo establecido en el artículo 113.3 del Real Decreto 659/2023, de 18 de julio, 
+Según lo establecido en el artículo 113.3 del [Real Decreto 659/2023](./RD659_2023_dictan_instrucciones_orientaciones_formacion_dual_empresas.md), de 18 de julio, 
 por el que se desarrolla la ordenación del Sistema de Formación Profesional, el currículo 
 de referencia para la organización del curso “se centrará en las competencias que permitan 
 cursar con éxito los ciclos de formación profesional de grado superior” y “se organizará 

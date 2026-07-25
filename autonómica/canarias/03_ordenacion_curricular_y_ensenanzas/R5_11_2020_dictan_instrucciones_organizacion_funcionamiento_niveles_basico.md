@@ -74,7 +74,7 @@ idioma inglés a distancia para personas adultas That’s English!,  recogiendo 
 normativas que afectan a esta enseñanza.
 A los anteriores hechos les son de aplicación los siguientes
 FUNDAMENTOS DE DERECHO
-Primero.- La Ley Orgánica 2/2006, de 3 de mayo, de Educación, modificada por la Ley 
+Primero.- La [Ley Orgánica 2/2006](../../../estatal/01_marco_normativo_general_y_organico/LO2_2006_educacion_texto_consolidado_modificaciones_lomloe.md), de 3 de mayo, de Educación, modificada por la Ley 
 Orgánica 8/2013, de 9 de diciembre, de Mejora de la Calidad Educativa, establece que las 
 Página 
 
@@ -85,7 +85,7 @@ niveles siguientes: básico, intermedio y avanzado.
 Segundo.- El Real Decreto 1041/2017, de 22 de diciembre, por el que se fijan las 
 exigencias mínimas del nivel básico a efectos de certificación, se establece el currículo 
 básico de los niveles Intermedio B1, Intermedio B2, Avanzado C1, y Avanzado C2, de las 
-Enseñanzas de idiomas de régimen especial reguladas por la Ley Orgánica 2/2006, de 3 de 
+Enseñanzas de idiomas de régimen especial reguladas por la [Ley Orgánica 2/2006](../../../estatal/01_marco_normativo_general_y_organico/LO2_2006_educacion_texto_consolidado_modificaciones_lomloe.md), de 3 de 
 mayo, de Educación, y se establecen las equivalencias entre las enseñanzas de idiomas de 
 régimen especial reguladas en diversos planes de estudios y las de este Real Decreto.
 Tercero.- El [Real Decreto 1/2019](../../../estatal/03_ordenacion_curricular_y_ensenanzas/RD1_2019_establecen_principios_basicos_comunes_evaluacion_aplicables.md), de 11 de enero, por el que se establecen los principios 
@@ -231,13 +231,13 @@ a) Haber superado el nivel A2 de las enseñanzas del idioma inglés en la modali
 presencial, semipresencial o a distancia.
 b) Estar en posesión del Título de Bachiller, siempre que el inglés haya sido el idioma 
 cursado como primera lengua extranjera y hasta que no hayan sido fijadas las equivalencias 
-a las que se refiere el artículo 62.1 de la Ley Orgánica 2/2006, de 3 de mayo, de Educación. 
+a las que se refiere el artículo 62.1 de la [Ley Orgánica 2/2006](../../../estatal/01_marco_normativo_general_y_organico/LO2_2006_educacion_texto_consolidado_modificaciones_lomloe.md), de 3 de mayo, de Educación. 
 c) Haber obtenido informe positivo en la Valoración Inicial del Alumno (VIA) según lo 
 establecido en el punto 2.2. de este anexo.
 d) Estar en posesión de certificados reconocidos como A2 según el Marco Común 
 Europeo de Referencia para las Lenguas (MCERL) o de certificaciones reconocidas para 
 el acceso a las enseñanzas de inglés de régimen especial de nivel Intermedio B1 por la 
-Resolución de 26 de marzo de 2019, por la que se determina el acceso a los distintos cursos 
+[Resolución de 26 de marzo de 2019](./O26_3_2019_determina_acceso_distintos_cursos_ensenanzas_idiomas.md), por la que se determina el acceso a los distintos cursos 
 de enseñanzas de idiomas de régimen especial en aplicación de lo establecido en la Orden de 
 21 de septiembre de 2016, de esta Consejería, que regula el reconocimiento de la acreditación 
 de la competencia lingüística conforme al Marco Común Europeo de Referencia para las 
@@ -254,7 +254,7 @@ reguladas por el Real Decreto 967/1988, de 2 de septiembre.
 d) Estar en posesión de certificados reconocidos como B1 según el Marco Común Europeo 
 de Referencia para las Lenguas (MCERL) o de certificaciones reconocidas para el acceso 
 al primer curso de las enseñanzas de inglés de régimen especial de nivel Intermedio B2 
-por la Resolución de 26 de marzo de 2019, por la que se determina el acceso a los distintos 
+por la [Resolución de 26 de marzo de 2019](./O26_3_2019_determina_acceso_distintos_cursos_ensenanzas_idiomas.md), por la que se determina el acceso a los distintos 
 
 Miércoles 18 de noviembre de 2020
 cursos de enseñanzas de idiomas de régimen especial en aplicación de lo establecido en 

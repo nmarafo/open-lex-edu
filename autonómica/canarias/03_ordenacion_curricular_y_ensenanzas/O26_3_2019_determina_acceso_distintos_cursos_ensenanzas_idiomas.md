@@ -77,14 +77,14 @@ ordenación de las enseñanzas de idiomas de régimen especial.
 Segundo.- El Real Decreto 1041/2017, de 22 de diciembre, por el que se fijan las 
 exigencias mínimas del nivel básico a efectos de certificación, se establece el currículo 
 básico de los niveles Intermedio B1, Intermedio B2, Avanzado C1, y Avanzado C2, de las 
-Enseñanzas de idiomas de régimen especial reguladas por la Ley Orgánica 2/2006, de 3 de 
+Enseñanzas de idiomas de régimen especial reguladas por la [Ley Orgánica 2/2006](../../../estatal/01_marco_normativo_general_y_organico/LO2_2006_educacion_texto_consolidado_modificaciones_lomloe.md), de 3 de 
 mayo, de Educación, y se establecen las equivalencias entre las Enseñanzas de idiomas de 
 Página 
 
 Martes 9 de abril de 2019
 régimen especial reguladas en diversos planes de estudios y las de este Real Decreto (BOE 
 nº 311, de 23.12.17) viene a desarrollar las modificaciones en materia de enseñanzas de 
-idiomas de régimen especial introducidas por la Ley Orgánica 8/2013, de 9 de diciembre, 
+idiomas de régimen especial introducidas por la [Ley Orgánica 8/2013](../../../estatal/03_ordenacion_curricular_y_ensenanzas/LO462_2016_ecd_regula_procedimiento_incorporacion_alumnado_curso.md), de 9 de diciembre, 
 para la mejora de la calidad educativa. Entre esas modificaciones se encuentra un nuevo 
 anclaje de los niveles impartidos en las Escuelas Oficiales de Idiomas y la regulación básica 
 para la obtención de la certificación oficial de los distintos niveles de idiomas.
@@ -202,9 +202,9 @@ ACLES (Asociación de Centros de Lenguas en la Ense-
 1 Orden de 11 de abril de 2018 por la que se actualizan los títulos y certificados establecidos en el Anexo I de la Orden de 21 de septiembre de 2016 de la Consejería de Educación y Universidades,  por la que se regula
 el reconocimiento de la acreditación de la competencia lingüística conforme al Marco Común Europeo de Referencia para las Lenguas en la Comunidad Autónoma de Canarias (BOC núm. 76, de 19 de abril de 2018).
 2 Real Decreto 1041/2017, de 22 de diciembre, por el que se fijan las exigencias mínimas del nivel básico a efectos de certificación, se establece el currículo básico de los niveles Intermedio B1, Intermedio B2, Avan-
-zado C1, y Avanzado C2, de las Enseñanzas de idiomas de régimen especial reguladas por la Ley Orgánica 2/2006, de 3 de mayo, de Educación, y se establecen las equivalencias entre las Enseñanzas de idiomas de ré-
+zado C1, y Avanzado C2, de las Enseñanzas de idiomas de régimen especial reguladas por la [Ley Orgánica 2/2006](../../../estatal/01_marco_normativo_general_y_organico/LO2_2006_educacion_texto_consolidado_modificaciones_lomloe.md), de 3 de mayo, de Educación, y se establecen las equivalencias entre las Enseñanzas de idiomas de ré-
 gimen especial reguladas en diversos planes de estudios y las de este real decreto (BOE núm. 311, de 23 de diciembre de 2017).
-3 Real Decreto 1629/2006, de 29 de diciembre, por el que se fijan los aspectos básicos del currículo de las enseñanzas de idiomas de régimen especial reguladas por la Ley Orgánica 2/2006, de 3 de mayo, de Educación
+3 Real Decreto 1629/2006, de 29 de diciembre, por el que se fijan los aspectos básicos del currículo de las enseñanzas de idiomas de régimen especial reguladas por la [Ley Orgánica 2/2006](../../../estatal/01_marco_normativo_general_y_organico/LO2_2006_educacion_texto_consolidado_modificaciones_lomloe.md), de 3 de mayo, de Educación
 (BOE núm. 4, de 4 de enero de 2007).
 4 Real Decreto 967/1988, de 2 de septiembre, sobre Ordenación de las Enseñanzas correspondientes al primer nivel de las enseñanzas especializadas de idiomas (BOE núm. 218, de 10 de septiembre de 1988).
 Este documento ha sido firmado electrónicamente por:

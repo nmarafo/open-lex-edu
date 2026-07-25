@@ -218,7 +218,7 @@ La disposición final séptima modifica la Ley 1/1996, de 10 de enero, de asiste
 
 La disposición final octava correspondiente a la modificación de la Ley Orgánica 1/1996, de 15 de enero, de Protección Jurídica del Menor, de modificación parcial del Código Civil y de la Ley de Enjuiciamiento Civil, viene a completar la revisión del sistema de protección de la infancia y adolescencia llevada a cabo en el año 2015 con la descripción de los indicadores de riesgo para la valoración de la situación de riesgo. Asimismo, se introduce un nuevo artículo 14 bis para facilitar la labor de los servicios sociales en casos de urgencia. Por último, se establece un sistema de garantías en los sistemas de protección a la infancia, de las que deben cuidar las entidades públicas de protección, en especial respecto de niños, niñas y adolescentes en situación de vulnerabilidad, como es el caso de los niños o niñas que llegan solos a España o de los niños, niñas y adolescentes privados de cuidado parental.
 
-La reforma operada en la citada Ley Orgánica 1/1996, de 15 de enero, se completa con la introducción de los artículos 20 ter a 20 quinquies a fin de regular las condiciones y el procedimiento aplicable a las solicitudes de acogimiento transfronterizo de menores procedentes de un Estado miembro de la Unión Europea o de un Estado parte del Convenio de La Haya de 1996. La Autoridad Central Española debe garantizar el cumplimiento en estos casos de los derechos del niño y asegurarse que la medida de protección que se pretende ejecutar en España proteja su interés superior. También se regula el procedimiento para la transmisión de las solicitudes de acogimiento transfronterizo desde España a otro Estado miembro de la Unión Europea, conforme a los Reglamentos (CE) n.º 2201/2003 del Consejo, de 27 de noviembre de 2003, relativo a la competencia, el reconocimiento y la ejecución de resoluciones judiciales en materia matrimonial y de responsabilidad parental, por el que se deroga el Reglamento (CE) n.º 1347/2000 y (UE) 2019/1111 del Consejo, de 25 de junio de 2019, relativo a la competencia, el reconocimiento y la ejecución de resoluciones en materia matrimonial y de responsabilidad parental, y sobre la sustracción internacional de menores, o a un Estado parte del citado Convenio de La Haya de 1996.
+La reforma operada en la citada [Ley Orgánica 1/1996](../01_marco_normativo_general_y_organico/LO1_1996_proteccion_juridica_menor_modificacion_parcial_codigo.md), de 15 de enero, se completa con la introducción de los artículos 20 ter a 20 quinquies a fin de regular las condiciones y el procedimiento aplicable a las solicitudes de acogimiento transfronterizo de menores procedentes de un Estado miembro de la Unión Europea o de un Estado parte del Convenio de La Haya de 1996. La Autoridad Central Española debe garantizar el cumplimiento en estos casos de los derechos del niño y asegurarse que la medida de protección que se pretende ejecutar en España proteja su interés superior. También se regula el procedimiento para la transmisión de las solicitudes de acogimiento transfronterizo desde España a otro Estado miembro de la Unión Europea, conforme a los Reglamentos (CE) n.º 2201/2003 del Consejo, de 27 de noviembre de 2003, relativo a la competencia, el reconocimiento y la ejecución de resoluciones judiciales en materia matrimonial y de responsabilidad parental, por el que se deroga el Reglamento (CE) n.º 1347/2000 y (UE) 2019/1111 del Consejo, de 25 de junio de 2019, relativo a la competencia, el reconocimiento y la ejecución de resoluciones en materia matrimonial y de responsabilidad parental, y sobre la sustracción internacional de menores, o a un Estado parte del citado Convenio de La Haya de 1996.
 
 De este modo, se da cumplimiento no solo a las obligaciones derivadas de Convenios internacionales, sino que se adecúa la nueva redacción a los últimos criterios jurisprudenciales tanto del Tribunal Constitucional en la sentencia del Pleno 64/2019, de 9 de mayo de 2019, como del Tribunal Europeo de Derechos Humanos en la sentencia de 11 de octubre de 2016.
 
@@ -316,7 +316,7 @@ n) Proteger la imagen del menor desde su nacimiento hasta después de su falleci
 
 #### Artículo 4. Criterios generales.
 
-1. Serán de aplicación los principios y criterios generales de interpretación del interés superior del menor, recogidos en el artículo 2 de la Ley Orgánica 1/1996, de 15 de enero, de Protección Jurídica del Menor, de modificación parcial del Código Civil y de la Ley de Enjuiciamiento Civil, así como los siguientes:
+1. Serán de aplicación los principios y criterios generales de interpretación del interés superior del menor, recogidos en el artículo 2 de la [Ley Orgánica 1/1996](../01_marco_normativo_general_y_organico/LO1_1996_proteccion_juridica_menor_modificacion_parcial_codigo.md), de 15 de enero, de Protección Jurídica del Menor, de modificación parcial del Código Civil y de la Ley de Enjuiciamiento Civil, así como los siguientes:
 
 a) Prohibición de toda forma de violencia sobre los niños, niñas y adolescentes.
 
@@ -396,7 +396,7 @@ b) El mayor grado de eficacia y eficiencia en la identificación, formulación y
 
 c) La participación de las administraciones públicas en la formación y evaluación de la Estrategia de erradicación de la violencia sobre la infancia y la adolescencia.
 
-3. La Conferencia Sectorial aprobará su reglamento de organización y funcionamiento interno de acuerdo con lo establecido en el artículo 147.3 de la Ley 40/2015, de 1 de octubre, garantizándose la presencia e intervención de las comunidades autónomas, entidades locales y del Alto Comisionado para la lucha contra la pobreza infantil.
+3. La Conferencia Sectorial aprobará su reglamento de organización y funcionamiento interno de acuerdo con lo establecido en el artículo 147.3 de la [Ley 40/2015](../01_marco_normativo_general_y_organico/L40_2015_regimen_juridico_sector_publico.md), de 1 de octubre, garantizándose la presencia e intervención de las comunidades autónomas, entidades locales y del Alto Comisionado para la lucha contra la pobreza infantil.
 
 #### Artículo 8. Colaboración público-privada.
 
@@ -708,7 +708,7 @@ Los niños, niñas y adolescentes en todas las etapas educativas e independiente
 
 #### Artículo 31. De la organización educativa.
 
-1. Todos los centros educativos elaborarán un plan de convivencia, de conformidad con el artículo 124 de la Ley Orgánica 2/2006, de 3 de mayo, de Educación, entre cuyas actividades se incluirá la adquisición de habilidades, sensibilización y formación de la comunidad educativa, promoción del buen trato y resolución pacífica de conflictos por el personal del centro, el alumnado y la comunidad educativa sobre la resolución pacífica de conflictos.
+1. Todos los centros educativos elaborarán un plan de convivencia, de conformidad con el artículo 124 de la [Ley Orgánica 2/2006](../01_marco_normativo_general_y_organico/LO2_2006_educacion_texto_consolidado_modificaciones_lomloe.md), de 3 de mayo, de Educación, entre cuyas actividades se incluirá la adquisición de habilidades, sensibilización y formación de la comunidad educativa, promoción del buen trato y resolución pacífica de conflictos por el personal del centro, el alumnado y la comunidad educativa sobre la resolución pacífica de conflictos.
 
 2. Asimismo, dicho plan recogerá los códigos de conducta consensuados entre el profesorado que ejerce funciones de tutor/a, los equipos docentes y el alumnado ante situaciones de acoso escolar o ante cualquier otra situación que afecte a la convivencia en el centro educativo, con independencia de si estas se producen en el propio centro educativo o si se producen, o continúan, a través de las tecnologías de la información y de la comunicación.
 
@@ -850,7 +850,7 @@ En aquellas situaciones que se consideren de especial gravedad por la tipología
 
 1. Los servicios sociales de atención primaria deberán establecer, de conformidad con el procedimiento que se regule en cada comunidad autónoma, un sistema de seguimiento y registro de los casos de violencia sobre la infancia y la adolescencia en el que consten las notificaciones y comunicaciones recibidas, los casos confirmados y las distintas medidas puestas en marcha en relación con la intervención de dichos servicios sociales.
 
-2. La información estadística de casos de violencia sobre la infancia y la adolescencia procedente de los servicios sociales de atención primaria, junto con la procedente de la entidad pública de protección a la infancia, será incorporada, con la desagregación establecida, en el Registro Unificado de Maltrato Infantil al que se refiere el artículo 22 ter de la Ley Orgánica 1/1996, de 15 de enero, y que pasa a denominarse Registro Unificado de Servicios Sociales sobre Violencia contra la Infancia (en adelante RUSSVI).
+2. La información estadística de casos de violencia sobre la infancia y la adolescencia procedente de los servicios sociales de atención primaria, junto con la procedente de la entidad pública de protección a la infancia, será incorporada, con la desagregación establecida, en el Registro Unificado de Maltrato Infantil al que se refiere el artículo 22 ter de la [Ley Orgánica 1/1996](../01_marco_normativo_general_y_organico/LO1_1996_proteccion_juridica_menor_modificacion_parcial_codigo.md), de 15 de enero, y que pasa a denominarse Registro Unificado de Servicios Sociales sobre Violencia contra la Infancia (en adelante RUSSVI).
 
 CAPÍTULO VIII
 
@@ -860,7 +860,7 @@ De las nuevas tecnologías
 
 1. Las administraciones públicas desarrollarán campañas de educación, sensibilización y difusión dirigidas a los niños, niñas y adolescentes, familias, educadores y otros profesionales que trabajen habitualmente con personas menores de edad sobre el uso seguro y responsable de Internet y las tecnologías de la información y la comunicación, así como sobre los riesgos derivados de un uso inadecuado que puedan generar fenómenos de violencia sexual contra los niños, niñas y adolescentes como el ciberbullying, el grooming, la ciberviolencia de género o el sexting, así como el acceso y consumo de pornografía entre la población menor de edad.
 
-Asimismo, fomentarán medidas de acompañamiento a las familias, reforzando y apoyando el rol de los progenitores a través del desarrollo de competencias y habilidades que favorezcan el cumplimiento de sus obligaciones legales y, en particular, las establecidas en el artículo 84.1 de la Ley Orgánica 3/2018, de 5 de diciembre, de Protección de Datos Personales y garantía de los derechos digitales.
+Asimismo, fomentarán medidas de acompañamiento a las familias, reforzando y apoyando el rol de los progenitores a través del desarrollo de competencias y habilidades que favorezcan el cumplimiento de sus obligaciones legales y, en particular, las establecidas en el artículo 84.1 de la [Ley Orgánica 3/2018](../02_gestion_y_administracion_centros/LO3_2018_proteccion_datos_personales_garantia_derechos_digitales.md), de 5 de diciembre, de Protección de Datos Personales y garantía de los derechos digitales.
 
 2. Las administraciones públicas pondrán a disposición de los niños, niñas y adolescentes, familias, personal educador y otros profesionales que trabajen habitualmente con personas menores de edad un servicio específico de línea de ayuda sobre el uso seguro y responsable de Internet, que ofrezca a los usuarios asistencia y asesoramiento ante situaciones potenciales de riesgo y emergencia de las personas menores de edad en Internet.
 
@@ -994,7 +994,7 @@ d) Deberán contemplar actuaciones específicas cuando el acoso tenga como motiv
 
 e) Deberán tener en cuenta las situaciones en las que es aconsejable el traslado de la persona menor de edad a otro centro para garantizar su interés superior y su bienestar.
 
-2. Lo previsto en este artículo se entiende sin perjuicio de lo señalado en capítulo IV del título II de la Ley Orgánica 1/1996, de 15 de enero, y en el artículo 778 bis de la Ley 1/2000, de 7 de enero, de Enjuiciamiento Civil, con respecto a centros específicos de protección de menores con problemas de conducta.
+2. Lo previsto en este artículo se entiende sin perjuicio de lo señalado en capítulo IV del título II de la [Ley Orgánica 1/1996](../01_marco_normativo_general_y_organico/LO1_1996_proteccion_juridica_menor_modificacion_parcial_codigo.md), de 15 de enero, y en el artículo 778 bis de la Ley 1/2000, de 7 de enero, de Enjuiciamiento Civil, con respecto a centros específicos de protección de menores con problemas de conducta.
 
 #### Artículo 54. Intervención ante casos de explotación sexual y trata de personas menores de edad sujetas a medidas de protección.
 
@@ -1038,7 +1038,7 @@ De la certificación negativa del Registro Central de Delincuentes Sexuales y de
 
 #### Artículo 57. Requisito para el acceso a profesiones, oficios y actividades que impliquen contacto habitual con personas menores de edad.
 
-1. Será requisito para el acceso y ejercicio de cualesquiera profesiones, oficios y actividades que impliquen contacto habitual con personas menores de edad, el no haber sido condenado por sentencia firme por cualquier delito contra la libertad e indemnidad sexuales tipificados en el título VIII de la Ley Orgánica 10/1995, de 23 de noviembre, del Código Penal, así como por cualquier delito de trata de seres humanos tipificado en el título VII bis del Código Penal. A tal efecto, quien pretenda el acceso a tales profesiones, oficios o actividades deberá acreditar esta circunstancia mediante la aportación de una certificación negativa del Registro Central de delincuentes sexuales
+1. Será requisito para el acceso y ejercicio de cualesquiera profesiones, oficios y actividades que impliquen contacto habitual con personas menores de edad, el no haber sido condenado por sentencia firme por cualquier delito contra la libertad e indemnidad sexuales tipificados en el título VIII de la [Ley Orgánica 10/1995](../01_marco_normativo_general_y_organico/LO10_1995_codigo_penal.md), de 23 de noviembre, del Código Penal, así como por cualquier delito de trata de seres humanos tipificado en el título VII bis del Código Penal. A tal efecto, quien pretenda el acceso a tales profesiones, oficios o actividades deberá acreditar esta circunstancia mediante la aportación de una certificación negativa del Registro Central de delincuentes sexuales
 
 2. A los efectos de esta ley, son profesiones, oficios y actividades que implican contacto habitual con personas menores de edad, todas aquellas, retribuidas o no, que por su propia naturaleza y esencia conllevan el trato repetido, directo y regular y no meramente ocasional con niños, niñas o adolescentes, así como, en todo caso, todas aquellas que tengan como destinatarios principales a personas menores de edad.
 
@@ -1118,7 +1118,7 @@ Las autoridades competentes garantizarán a los niños y niñas en necesidad de 
 
 #### Disposición adicional novena. Seguridad Social de las personas acogedoras especializadas de dedicación exclusiva.
 
-Reglamentariamente el Gobierno determinará en el plazo de un año de la entrada en vigor de la presente ley orgánica, el alcance y condiciones de la incorporación a la Seguridad Social de las personas que sean designadas como acogedoras especializadas de dedicación exclusiva, previstas en el artículo 20.1 de la Ley Orgánica 1/1996, de 15 de enero, de Protección Jurídica del Menor, de modificación parcial del Código Civil y de la Ley de Enjuiciamiento Civil, en el Régimen que les corresponda, así como los requisitos y procedimiento de afiliación, alta y cotización.
+Reglamentariamente el Gobierno determinará en el plazo de un año de la entrada en vigor de la presente ley orgánica, el alcance y condiciones de la incorporación a la Seguridad Social de las personas que sean designadas como acogedoras especializadas de dedicación exclusiva, previstas en el artículo 20.1 de la [Ley Orgánica 1/1996](../01_marco_normativo_general_y_organico/LO1_1996_proteccion_juridica_menor_modificacion_parcial_codigo.md), de 15 de enero, de Protección Jurídica del Menor, de modificación parcial del Código Civil y de la Ley de Enjuiciamiento Civil, en el Régimen que les corresponda, así como los requisitos y procedimiento de afiliación, alta y cotización.
 
 #### Disposición derogatoria única. Derogación normativa.
 
@@ -1392,13 +1392,13 @@ Se modifica el párrafo a) del artículo 3 de la Ley 34/1988, de 11 de noviembre
 
 «a) La publicidad que atente contra la dignidad de la persona o vulnere los valores y derechos reconocidos en la Constitución Española, especialmente a los que se refieren sus artículos 14, 18 y 20, apartado 4.
 
-Se entenderán incluidos en la previsión anterior los anuncios que presenten a las mujeres de forma vejatoria o discriminatoria, bien utilizando particular y directamente su cuerpo o partes del mismo como mero objeto desvinculado del producto que se pretende promocionar, bien su imagen asociada a comportamientos estereotipados que vulneren los fundamentos de nuestro ordenamiento coadyuvando a generar la violencia a que se refiere la Ley Orgánica 1/2004, de 28 de diciembre, de Medidas de Protección Integral contra la Violencia de Género.
+Se entenderán incluidos en la previsión anterior los anuncios que presenten a las mujeres de forma vejatoria o discriminatoria, bien utilizando particular y directamente su cuerpo o partes del mismo como mero objeto desvinculado del producto que se pretende promocionar, bien su imagen asociada a comportamientos estereotipados que vulneren los fundamentos de nuestro ordenamiento coadyuvando a generar la violencia a que se refiere la [Ley Orgánica 1/2004](./LO1_2004_medidas_proteccion_integral_contra_violencia_genero.md), de 28 de diciembre, de Medidas de Protección Integral contra la Violencia de Género.
 
 Asimismo, se entenderá incluida en la previsión anterior cualquier forma de publicidad que coadyuve a generar violencia o discriminación en cualquiera de sus manifestaciones sobre las personas menores de edad, o fomente estereotipos de carácter sexista, racista, estético o de carácter homofóbico o transfóbico o por razones de discapacidad.»
 
-#### Disposición final sexta. Modificación de la Ley Orgánica 10/1995, de 23 de noviembre, del Código Penal.
+#### Disposición final sexta. Modificación de la [Ley Orgánica 10/1995](../01_marco_normativo_general_y_organico/LO10_1995_codigo_penal.md), de 23 de noviembre, del Código Penal.
 
-Se modifica la Ley Orgánica 10/1995, de 23 de noviembre, del Código Penal, que queda redactada en los siguientes términos:
+Se modifica la [Ley Orgánica 10/1995](../01_marco_normativo_general_y_organico/LO10_1995_codigo_penal.md), de 23 de noviembre, del Código Penal, que queda redactada en los siguientes términos:
 
 Uno. Se modifica la circunstancia 4.ª del artículo 22, que queda redactada como sigue:
 
@@ -1654,9 +1654,9 @@ A los efectos de la concesión del beneficio de justicia gratuita, la condición
 
 En los distintos procesos que puedan iniciarse como consecuencia de la condición de víctima de los delitos a que se refiere esta letra y, en especial, en los de violencia de género, deberá ser el mismo abogado el que asista a aquella, siempre que con ello se garantice debidamente su derecho de defensa.»
 
-#### Disposición final octava. Modificación de la Ley Orgánica 1/1996, de 15 de enero, de Protección Jurídica del Menor, de modificación parcial del Código Civil y de la Ley de Enjuiciamiento Civil.
+#### Disposición final octava. Modificación de la [Ley Orgánica 1/1996](../01_marco_normativo_general_y_organico/LO1_1996_proteccion_juridica_menor_modificacion_parcial_codigo.md), de 15 de enero, de Protección Jurídica del Menor, de modificación parcial del Código Civil y de la Ley de Enjuiciamiento Civil.
 
-La Ley Orgánica 1/1996, de 15 de enero, de Protección Jurídica del Menor, de modificación parcial del Código Civil y de la Ley de Enjuiciamiento Civil, queda modificada en los siguientes términos:
+La [Ley Orgánica 1/1996](../01_marco_normativo_general_y_organico/LO1_1996_proteccion_juridica_menor_modificacion_parcial_codigo.md), de 15 de enero, de Protección Jurídica del Menor, de modificación parcial del Código Civil y de la Ley de Enjuiciamiento Civil, queda modificada en los siguientes términos:
 
 Uno. Se modifica el primer párrafo y la letra c) del apartado 5 del artículo 2, que quedan redactados como sigue:
 
@@ -1726,7 +1726,7 @@ g) El riesgo de sufrir ablación, mutilación genital femenina o cualquier otra 
 
 h) La identificación de las madres como víctimas de trata.
 
-i) Las niñas y adolescentes víctimas de violencia de género en los términos establecidos en el artículo 1.1 de la Ley Orgánica 1/2004, de 28 de diciembre, de medidas de protección integral contra la violencia de género.
+i) Las niñas y adolescentes víctimas de violencia de género en los términos establecidos en el artículo 1.1 de la [Ley Orgánica 1/2004](./LO1_2004_medidas_proteccion_integral_contra_violencia_genero.md), de 28 de diciembre, de medidas de protección integral contra la violencia de género.
 
 j) Los ingresos múltiples de personas menores de edad en distintos hospitales con síntomas recurrentes, inexplicables y/o que no se confirman diagnósticamente.
 
@@ -1740,7 +1740,7 @@ Seis. Se añade un nuevo artículo 17 bis con el siguiente contenido:
 
 «Artículo 17 bis. Personas menores de catorce años en conflicto con la ley.
 
-Las personas a las que se refiere el artículo 3 de la Ley Orgánica 5/2000, de 12 de enero, de responsabilidad penal de los menores serán incluidas en un plan de seguimiento que valore su situación socio-familiar diseñado y realizado por los servicios sociales competentes de cada comunidad autónoma.
+Las personas a las que se refiere el artículo 3 de la [Ley Orgánica 5/2000](../01_marco_normativo_general_y_organico/LO5_2000_reguladora_responsabilidad_penal_menores.md), de 12 de enero, de responsabilidad penal de los menores serán incluidas en un plan de seguimiento que valore su situación socio-familiar diseñado y realizado por los servicios sociales competentes de cada comunidad autónoma.
 
 Si el acto violento pudiera ser constitutivo de un delito contra la libertad o indemnidad sexual o de violencia de género, el plan de seguimiento deberá incluir un módulo formativo en igualdad de género.»
 
@@ -1908,17 +1908,17 @@ Acordada la acumulación, se procederá según dispone el artículo 84, con la e
 
 Contra el auto que deniegue la acumulación podrán interponerse los recursos de reposición y apelación sin efectos suspensivos. Contra el auto que acuerde la acumulación no se dará recurso alguno.»
 
-#### Disposición final décima. Modificación de la Ley Orgánica 1/2004, de 28 de diciembre, de Medidas de Protección Integral contra la Violencia de Género.
+#### Disposición final décima. Modificación de la [Ley Orgánica 1/2004](./LO1_2004_medidas_proteccion_integral_contra_violencia_genero.md), de 28 de diciembre, de Medidas de Protección Integral contra la Violencia de Género.
 
-La Ley Orgánica 1/2004, de 28 de diciembre, de Medidas de Protección Integral contra la Violencia de Género queda modificada en los siguientes términos:
+La [Ley Orgánica 1/2004](./LO1_2004_medidas_proteccion_integral_contra_violencia_genero.md), de 28 de diciembre, de Medidas de Protección Integral contra la Violencia de Género queda modificada en los siguientes términos:
 
 Se añade un apartado nuevo 4 al artículo 1, con la siguiente redacción:
 
 «4. La violencia de género a que se refiere esta Ley también comprende la violencia que con el objetivo de causar perjuicio o daño a las mujeres se ejerza sobre sus familiares o allegados menores de edad por parte de las personas indicadas en el apartado primero.»
 
-#### Disposición final undécima. Modificación de la Ley Orgánica 5/2000, de 12 de enero, reguladora de la responsabilidad penal de los menores.
+#### Disposición final undécima. Modificación de la [Ley Orgánica 5/2000](../01_marco_normativo_general_y_organico/LO5_2000_reguladora_responsabilidad_penal_menores.md), de 12 de enero, reguladora de la responsabilidad penal de los menores.
 
-Se modifica la Ley Orgánica 5/2000, de 12 de enero, reguladora de la responsabilidad penal de los menores, que queda redactado en los siguientes términos:
+Se modifica la [Ley Orgánica 5/2000](../01_marco_normativo_general_y_organico/LO5_2000_reguladora_responsabilidad_penal_menores.md), de 12 de enero, reguladora de la responsabilidad penal de los menores, que queda redactado en los siguientes términos:
 
 Uno. Se modifica el artículo 4, que queda redactado como sigue:
 

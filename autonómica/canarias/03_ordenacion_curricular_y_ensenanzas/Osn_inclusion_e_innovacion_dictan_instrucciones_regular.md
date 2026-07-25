@@ -120,7 +120,7 @@ habilidades y actitudes que le permitan desarrollar funciones sociales e incorpo
 vida activa con responsabilidad y competencia, así como la adquisición de competencias 
 indispensables para el futuro formativo y profesional y la capacitación para el acceso a la 
 educación superior.
-Segundo.- La Ley Orgánica 2/2006, de 3 de mayo, de Educación, en la redacción dada 
+Segundo.- La [Ley Orgánica 2/2006](../../../estatal/01_marco_normativo_general_y_organico/LO2_2006_educacion_texto_consolidado_modificaciones_lomloe.md), de 3 de mayo, de Educación, en la redacción dada 
 por la Ley Orgánica 3/2020, establece con carácter básico la ordenación de las enseñanzas 
 de Bachillerato. En virtud de este marco, la Comunidad Autónoma puede desarrollar la 
 organización de las enseñanzas, sin perjuicio de la normativa específica aplicable al acceso 
@@ -137,7 +137,7 @@ igualdad de oportunidades y la eficacia de los centros para atender a las necesi
 alumnado y alcanzar los mejores resultados de aprendizaje, fundamentando la adopción de 
 medidas que refuercen la calidad y el rendimiento del sistema mediante procedimientos 
 objetivos, transparentes y coordinados con el régimen ordinario.
-Quinto.- Igualmente, el artículo 5 de la Ley 6/2014, en su letra d), establece como 
+Quinto.- Igualmente, el artículo 5 de la [Ley 6/2014](../01_marco_normativo_general_y_organico/L6_2014_canaria_educacion_no_universitaria.md), en su letra d), establece como 
 finalidad impulsar la convergencia del sistema educativo canario con los mejores sistemas 
 educativos estatales y europeos, superando debilidades y potenciando fortalezas. En este 
 marco, el pilotaje del Programa del Diploma del Bachillerato Internacional se configura 
@@ -183,7 +183,7 @@ participantes, se establecen las presentes instrucciones y sus anexos, sin perju
 condición de autorización definitiva de los centros por la Organización del Bachillerato 
 Internacional.
 En virtud de lo anteriormente expuesto y conforme a la competencia prevista en el 
-artículo 17.2.j) del Decreto 84/2024, de 10 de junio, por el que se aprueba el Reglamento 
+artículo 17.2.j) del [Decreto 84/2024](../01_marco_normativo_general_y_organico/D84_2024_aprueba_reglamento_organico_formacion_profesional_actividad.md), de 10 de junio, por el que se aprueba el Reglamento 
 Orgánico de la Consejería de Educación, Formación Profesional, Actividad Física y 
 Deportes, para desarrollar e impulsar iniciativas de investigación e innovación educativas, 
 incluidas la gestión económica y administrativa de las mismas,

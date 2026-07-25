@@ -43,7 +43,7 @@ En su virtud, a propuesta del Ministro de la Presidencia, previo informe de la C
 
 #### Artículo único.
 
-Se aprueba el Reglamento de Régimen Disciplinario de los Funcionarios de la Administración del Estado, en desarrollo y ejecución de la Ley 30/1984, de 2 de agosto, cuyo texto se inserta a continuación.
+Se aprueba el Reglamento de Régimen Disciplinario de los Funcionarios de la Administración del Estado, en desarrollo y ejecución de la [Ley 30/1984](./L30_1984_medidas_reforma_funcion_publica.md), de 2 de agosto, cuyo texto se inserta a continuación.
 
 Dado en Madrid a 10 de enero de 1986.
 
@@ -65,7 +65,7 @@ Disposiciones generales
 
 #### Artículo 1.
 
-El presente Reglamento será de aplicación al personal funcionario comprendido en el artículo 1, 1, de la Ley 30/1984, de 2 de agosto, de Medidas para la Reforma de la Función Pública.
+El presente Reglamento será de aplicación al personal funcionario comprendido en el artículo 1, 1, de la [Ley 30/1984](./L30_1984_medidas_reforma_funcion_publica.md), de 2 de agosto, de Medidas para la Reforma de la Función Pública.
 
 #### Artículo 2.
 
@@ -323,7 +323,7 @@ El órgano competente para incoar el procedimiento podrá acordar previamente la
 
 #### Artículo 30.
 
-En la resolución por la que se incoe el procedimiento se nombrará Instructor, que deberá ser un funcionario público perteneciente a un cuerpo o escala de igual o superior grupo al del inculpado, de los establecidos en el artículo 25 de la Ley 30/1984, de 2 de agosto. En el caso de que dependa de otro Departamento, se requerirá la previa autorización del Subsecretario de éste.
+En la resolución por la que se incoe el procedimiento se nombrará Instructor, que deberá ser un funcionario público perteneciente a un cuerpo o escala de igual o superior grupo al del inculpado, de los establecidos en el artículo 25 de la [Ley 30/1984](./L30_1984_medidas_reforma_funcion_publica.md), de 2 de agosto. En el caso de que dependa de otro Departamento, se requerirá la previa autorización del Subsecretario de éste.
 
 Cuando la complejidad o trascendencia de los hechos a investigar así lo exija, se procederá al nombramiento de Secretario, que en todo caso deberá tener la condición de funcionario.
 
@@ -485,7 +485,7 @@ Los expedientes disciplinarios que se encuentren en tramitación en el momento d
 
 #### [precepto]Segunda.
 
-Sin perjuicio del cumplimiento de lo dispuesto en la disposición adicional cuarta de la Ley 30/1984, de 2 de agosto, el presente Reglamento será de aplicación al personal que hubiera sido contratado en régimen de colaboración temporal al amparo de lo dispuesto en el artículo 6 de la Ley Articulada de Funcionarios Civiles del Estado, de 7 de febrero de 1964, y al personal con contrato eventual de la Administración de la Seguridad Social que continúe prestando servicios bajo dicha condición.
+Sin perjuicio del cumplimiento de lo dispuesto en la disposición adicional cuarta de la [Ley 30/1984](./L30_1984_medidas_reforma_funcion_publica.md), de 2 de agosto, el presente Reglamento será de aplicación al personal que hubiera sido contratado en régimen de colaboración temporal al amparo de lo dispuesto en el artículo 6 de la Ley Articulada de Funcionarios Civiles del Estado, de 7 de febrero de 1964, y al personal con contrato eventual de la Administración de la Seguridad Social que continúe prestando servicios bajo dicha condición.
 
 #### DISPOSICIÓN DEROGATORIA
 

@@ -65,7 +65,7 @@ Primero.- La [Ley Orgánica 2/2006](../../../estatal/01_marco_normativo_general_
 mayo), regula en sus artículos del 59 al 62 las enseñanzas de idiomas de régimen especial.
 Segundo.- El Real Decreto 1629/2006, de 29 de diciembre, por el que se fijan los aspec-
 tos básicos del currículo de las enseñanzas de idiomas de régimen especial reguladas por la 
-Ley Orgánica 2/2006, de 3 de mayo, de Educación (BOE nº 4, de 4 de enero de 2007), fija 
+[Ley Orgánica 2/2006](../../../estatal/01_marco_normativo_general_y_organico/LO2_2006_educacion_texto_consolidado_modificaciones_lomloe.md), de 3 de mayo, de Educación (BOE nº 4, de 4 de enero de 2007), fija 
 las enseñanzas mínimas que deberán formar parte de los currículos que las Administraciones 
 educativas establezcan para los niveles intermedio y avanzado de estas enseñanzas y en su 
 boc-a-2014-021-349

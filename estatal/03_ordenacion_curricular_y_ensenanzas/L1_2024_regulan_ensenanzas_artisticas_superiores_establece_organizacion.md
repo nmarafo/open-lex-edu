@@ -1006,7 +1006,7 @@ El profesorado de estos cuerpos desempeñará sus funciones en las enseñanzas a
 
 5. Mediante norma de rango reglamentario, el Gobierno, previa consulta a las comunidades autónomas, establecerá vías para favorecer la movilidad vertical entre los cuerpos docentes de las enseñanzas artísticas profesionales y los correspondientes a los cuerpos de enseñanzas artísticas superiores.
 
-6. Serán aplicables a los cuerpos docentes previstos en esta ley las bases del régimen estatutario de la función pública docente establecidas en la disposición adicional sexta de la Ley Orgánica 2/2006, de 3 de mayo, de Educación.
+6. Serán aplicables a los cuerpos docentes previstos en esta ley las bases del régimen estatutario de la función pública docente establecidas en la disposición adicional sexta de la [Ley Orgánica 2/2006](../01_marco_normativo_general_y_organico/LO2_2006_educacion_texto_consolidado_modificaciones_lomloe.md), de 3 de mayo, de Educación.
 
 #### Artículo 70. Cuerpos de Catedráticos y Catedráticas.
 

@@ -77,7 +77,7 @@ básico de los niveles Intermedio B1, Intermedio B2, Avanzado C1, y Avanzado C2,
 Página 
 
 Jueves 8 de marzo de 2018
-Enseñanzas de idiomas de régimen especial reguladas por la Ley Orgánica 2/2006, de 3 de 
+Enseñanzas de idiomas de régimen especial reguladas por la [Ley Orgánica 2/2006](../../../estatal/01_marco_normativo_general_y_organico/LO2_2006_educacion_texto_consolidado_modificaciones_lomloe.md), de 3 de 
 mayo, de Educación, y se establecen las equivalencias entre las enseñanzas de idiomas de 
 régimen especial reguladas en diversos planes de estudios (BOE nº 311, de 23 de diciembre 
 de 2017), a los efectos de la certificación, fija las exigencias mínimas de nivel básico y el 

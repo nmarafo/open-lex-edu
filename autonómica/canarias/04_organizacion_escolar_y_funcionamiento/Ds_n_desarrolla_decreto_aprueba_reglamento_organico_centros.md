@@ -61,7 +61,7 @@ https://sede.gobcan.es/cpji/boc
 Miércoles 16 de octubre de 2013
 I. Disposiciones generales
 Consejería de Educación, Universidades y Sostenibilidad
-5076 ORDEN de 9 de octubre de 2013, por la que se desarrolla el Decreto 81/2010, de 
+5076 ORDEN de 9 de octubre de 2013, por la que se desarrolla el [Decreto 81/2010](./D81_2010_aprueba_reglamento_organico_centros_docentes_publicos.md), de 
 8 de julio, por el que se aprueba el Reglamento Orgánico de los centros docentes 
 públicos no universitarios de la Comunidad Autónoma de Canarias, en lo referente 
 a su organización y funcionamiento.
@@ -138,7 +138,7 @@ contribuir a la utilización eficaz de las competencias que los centros tienen a
 fortaleciendo la equidad y la calidad del sistema educativo; promover la cultura demo -
 crática en estos y facilitar la adopción de decisiones justas que eviten cualquier tipo de 
 discriminación.
-La presente Orden desarrolla el Decreto 81/2010, de 8 de julio, por el que se aprueba el 
+La presente Orden desarrolla el [Decreto 81/2010](./D81_2010_aprueba_reglamento_organico_centros_docentes_publicos.md), de 8 de julio, por el que se aprueba el 
 Reglamento Orgánico de los centros docentes públicos no universitarios de la Comunidad 
 Autónoma de Canarias (BOC nº 143, de 22 de julio), que regula, para nuestro ámbito de 
 gestión, una parte tan destacada de la [Ley Orgánica 2/2006](../../../estatal/01_marco_normativo_general_y_organico/LO2_2006_educacion_texto_consolidado_modificaciones_lomloe.md), de Educación, como la referida 
@@ -176,7 +176,7 @@ agosto), en particular, en lo referido a determinadas preferencias reconocidas a
 que desempeñan cargos directivos.
 Por último, es importante, además, resaltar la aprobación del [Decreto 114/2011](../07_convivencia_bienestar_y_protocolos/D114_2011_regula_convivencia_ambito_educativo_comunidad_autonoma.md), de 11 de 
 mayo, por el que se regula la convivencia en el ámbito educativo de la Comunidad Autóno-
-ma de Canarias (BOC nº 108, de 2 de junio), que desarrolla la Ley Orgánica 2/2006, de 3 
+ma de Canarias (BOC nº 108, de 2 de junio), que desarrolla la [Ley Orgánica 2/2006](../../../estatal/01_marco_normativo_general_y_organico/LO2_2006_educacion_texto_consolidado_modificaciones_lomloe.md), de 3 
 de mayo, de Educación, que establece, en su artículo 1, entre los principios inspiradores del 
 sistema educativo español, la educación para la prevención de conflictos y para la resolución 
 pacífica de estos, así como la no violencia en todos los ámbitos de la vida personal, familiar 
@@ -292,7 +292,7 @@ artículos 32 y 37 de la Ley 1/1983, de 14 de abril, del Gobierno y de la Admini
 Comunidad Autónoma de Canarias (BOC nº 11, de 30 de abril); en el artículo 29 de la [Ley 
 14/1990](../01_marco_normativo_general_y_organico/L14_1990_regimen_juridico_administraciones_publicas_canarias.md), de 26 de julio, de Reforma de la Ley 8/1986, de 18 de noviembre, de Régimen Ju-
 rídico de las Administraciones Públicas de Canarias (BOC nº 96, de 1 de agosto); y en virtud 
-de la habilitación expresa prevista en la Disposición Final Primera del Decreto 81/2010, de 
+de la habilitación expresa prevista en la Disposición Final Primera del [Decreto 81/2010](./D81_2010_aprueba_reglamento_organico_centros_docentes_publicos.md), de 
 
 https://sede.gobcan.es/cpji/boc
 Miércoles 16 de octubre de 2013
@@ -301,7 +301,7 @@ universitarios de la Comunidad Autónoma de Canarias (BOC nº 143, de 22 de juli
 D I S P O N G O:
 CAPÍTULO PRELIMINAR
 Artículo 1.- Objeto y ámbito de aplicación.
-1. La presente Orden tiene por objeto desarrollar el Decreto 81/2010, de 8 de julio, por el 
+1. La presente Orden tiene por objeto desarrollar el [Decreto 81/2010](./D81_2010_aprueba_reglamento_organico_centros_docentes_publicos.md), de 8 de julio, por el 
 que se aprueba el Reglamento Orgánico de los centros docentes públicos no universitarios 
 de la Comunidad Autónoma de Canarias, en cuanto a su organización y funcionamiento. 
 Se aplicará a los centros docentes públicos que imparten Educación Infantil, Educación 
@@ -344,7 +344,7 @@ y resolución pacífica de conflictos, a lograr la conciliación y la reparació
 trarias a la convivencia escolar, o que permitan el ejercicio del derecho a la manifestación 
 de la discrepancia del alumnado, así como las directrices para la asunción de compromisos 
 educativos para la convivencia y para la prevención, intervención y seguimiento del absen-
-tismo escolar, teniendo en cuenta lo dispuesto en el Decreto 114/2011, de 11 de mayo, por el 
+tismo escolar, teniendo en cuenta lo dispuesto en el [Decreto 114/2011](../07_convivencia_bienestar_y_protocolos/D114_2011_regula_convivencia_ambito_educativo_comunidad_autonoma.md), de 11 de mayo, por el 
 que se regula la convivencia en el ámbito educativo de la Comunidad Autónoma de Canarias 
 (BOC nº 108, de 2 de junio).
 Artículo 4.- Medidas para fomentar la igualdad entre mujeres y hombres.
@@ -376,7 +376,7 @@ centro tendrán atribuidas, además de las funciones establecidas en el artícul
 
 https://sede.gobcan.es/cpji/boc
 Miércoles 16 de octubre de 2013
-2, de la Ley 1/2010, de 26 de febrero, Canaria de Igualdad entre Mujeres y Hombres, las 
+2, de la [Ley 1/2010](../../../estatal/07_convivencia_bienestar_y_protocolos/L1_2010_canaria_igualdad_entre_mujeres_hombres.md), de 26 de febrero, Canaria de Igualdad entre Mujeres y Hombres, las 
 siguientes funciones específicas:
 - Proponer criterios al Claustro y al Consejo Escolar para la revisión del proyecto edu -
 cativo, de las normas de organización y funcionamiento, y de la planificación y desarrollo 
@@ -1388,7 +1388,7 @@ cualificación. A los efectos de atribución docente en la asignación de horari
 cuenta la siguiente tabla:
 3. Para la elaboración de los horarios del profesorado del cuerpo de maestros adscritos a 
 la Educación Secundaria Obligatoria, en función de la disposición transitoria primera de la 
-Ley Orgánica 2/2006, de 3 de mayo, de Educación (BOE nº 106, de 4 de mayo), será priori-
+[Ley Orgánica 2/2006](../../../estatal/01_marco_normativo_general_y_organico/LO2_2006_educacion_texto_consolidado_modificaciones_lomloe.md), de 3 de mayo, de Educación (BOE nº 106, de 4 de mayo), será priori-
  
  60 
 Materia/Especialidades del profesorado Materia 
@@ -1545,7 +1545,7 @@ consonancia con el artículo 28 de esta Orden y según lo regulado al efecto en 
 adicional quinta de la Orden de 2 de agosto de 2010, por la que se determinan los puestos de 
 trabajo docentes de carácter singular, sus condiciones y requisitos y se establecen las normas 
 aplicables a los concursos de traslados que se convoquen para funcionarios y funcionarias de 
-los Cuerpos docentes a que se refiere la Ley Orgánica 2/2006, de 3 de mayo, de Educación, 
+los Cuerpos docentes a que se refiere la [Ley Orgánica 2/2006](../../../estatal/01_marco_normativo_general_y_organico/LO2_2006_educacion_texto_consolidado_modificaciones_lomloe.md), de 3 de mayo, de Educación, 
 así como a la ordenación del personal docente, en el ámbito de la Comunidad Autónoma de 
 Canarias (BOC nº 157, de 11 de agosto).
 
@@ -1656,7 +1656,7 @@ absentismo escolar. En particular, están obligadas a colaborar con los servicio
 competentes para garantizar la escolaridad obligatoria y para evitar y resolver, en su caso, las 
 situaciones de riesgo de menores escolarizados en Educación Primaria o Educación Secun-
 daria Obligatoria. A este respecto, será de aplicación lo previsto en la disposición adicional 
-sexta del Decreto 114/2011, de 11 de mayo, por el que se regula la convivencia en el ámbito 
+sexta del [Decreto 114/2011](../07_convivencia_bienestar_y_protocolos/D114_2011_regula_convivencia_ambito_educativo_comunidad_autonoma.md), de 11 de mayo, por el que se regula la convivencia en el ámbito 
 educativo de la Comunidad Autónoma de Canarias.
 2. A principio de curso, los tutores y las tutoras darán cuenta de las normas sobre el con-
 trol de asistencia al alumnado de su grupo, a sus padres, madres o representantes legales, 
@@ -1753,7 +1753,7 @@ dicho aplicativo informático.
 La matrícula adquirirá carácter definitivo una vez recibido el historial académico debi -
 damente cumplimentado.
 4. El alumnado que cambie de centro con motivo de un expediente disciplinario, según 
-lo establecido en el Decreto 114/2011, de 11 de mayo, deberá permanecer escolarizado en el 
+lo establecido en el [Decreto 114/2011](../07_convivencia_bienestar_y_protocolos/D114_2011_regula_convivencia_ambito_educativo_comunidad_autonoma.md), de 11 de mayo, deberá permanecer escolarizado en el 
 centro de origen hasta que la Dirección Territorial de Educación determine el centro de destino, 
 salvo acuerdo expreso entre los dos centros, previa comunicación a la Inspección Educativa.
 
@@ -2375,11 +2375,11 @@ profesores de una misma especialidad. Los departamentos didácticos incorporará
 propias aquellas materias optativas que el centro imparta en el marco del plan de oferta de 
 enseñanzas previamente autorizado. 
 3. La competencia de los departamentos de coordinación didáctica se regulará conforme 
-a los términos establecidos en el artículo 32 del Decreto 81/2010, de 8 de julio, por el que 
+a los términos establecidos en el artículo 32 del [Decreto 81/2010](./D81_2010_aprueba_reglamento_organico_centros_docentes_publicos.md), de 8 de julio, por el que 
 se aprueba el Reglamento Orgánico de los centros docentes públicos no universitarios de la 
 Comunidad Autónoma de Canarias.
 4. La jefatura de los departamentos de coordinación didáctica se regulará conforme a 
-los términos establecidos en el artículo 31 del Decreto 81/2010, de 8 de julio, por el que se 
+los términos establecidos en el artículo 31 del [Decreto 81/2010](./D81_2010_aprueba_reglamento_organico_centros_docentes_publicos.md), de 8 de julio, por el que se 
 aprueba el Reglamento Orgánico de los centros docentes públicos no universitarios de la 
 Comunidad Autónoma de Canarias.»
 Disposición final segunda. Modificación de la Orden de 13 de diciembre de 2010, por la 

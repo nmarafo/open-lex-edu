@@ -233,7 +233,7 @@ se abonará a la persona encargada del comedor la asistencia realizada mediante 
 en la cuenta de percepción de sus haberes.
 Quinta.- Personal laboral al servicio de cada comedor, en atención al número de plazas 
 de comensales autorizadas que se ofertan por los centros educativos correspondientes.
-Con arreglo a lo previsto en el artículo 9.1 de la Orden de 25 de febrero de 2003, por la 
+Con arreglo a lo previsto en el artículo 9.1 de la [Orden de 25 de febrero de 2003](./O25_2_2003_regula_organizacion_funcionamiento_comedores_escolares_centros.md), por la 
 que se regula la organización y funcionamiento de los comedores escolares en los centros 
 públicos docentes no universitarios dependientes de la Consejería de Educación, Cultura 
 y Deportes, al inicio de cada curso escolar, la 
@@ -300,7 +300,7 @@ subvención”, requerirá la aplicación del procedimiento que establece el [De
 de 11 de mayo, por el que se regula la convivencia en el ámbito educativo de la Comunidad 
 Autónoma de Canarias en relación con la normativa vigente reguladora del procedimiento 
 administrativo común.
-2. Con arreglo a lo previsto en el artículo 9.3 de la Orden de 25 de febrero de 2003, 
+2. Con arreglo a lo previsto en el artículo 9.3 de la [Orden de 25 de febrero de 2003](./O25_2_2003_regula_organizacion_funcionamiento_comedores_escolares_centros.md), 
 por la que se regula la organización y funcionamiento de los comedores escolares en los 
 centros públicos docentes no universitarios dependientes de la Consejería de Educación, 
 Cultura y Deportes, el Consejo Escolar garantizará la seguridad de los comensales y el 
@@ -353,7 +353,7 @@ alimentarias (menús diferenciados) cuando sean prescritas por los servicios mé
 causas de índole religioso debidamente fundamentadas.
 9. El Consejo Escolar se asegurará de que exista una programación adecuada de 
 menús, teniendo en cuenta que los mismos sean equilibrados, variados y adaptados a los 
-comensales, artículo 9.3 de la Orden de 25 de febrero de 2003.
+comensales, artículo 9.3 de la [Orden de 25 de febrero de 2003](./O25_2_2003_regula_organizacion_funcionamiento_comedores_escolares_centros.md).
 
 10. Con carácter general, deberán tenerse en cuenta los objetivos previstos en el Decreto 
 3/1997, de 21 de enero, por el que se aprueba el Plan de Salud de Canarias, debiendo 
@@ -418,7 +418,7 @@ Escolares.pdf (gobiernodecanarias.org).
 Guía pediátrica de la alimentación. Pautas de alimentación y actividad física de 0 a 18 años. 
 https://www.programapipo.com/guia-pediatrica/
 Novena.- Aumento de módulo.
-La Orden de 25 de febrero de 2003, por la que se regula la organización y funcionamiento 
+La [Orden de 25 de febrero de 2003](./O25_2_2003_regula_organizacion_funcionamiento_comedores_escolares_centros.md), por la que se regula la organización y funcionamiento 
 de los comedores escolares en los centros públicos docentes no universitarios dependientes 
 de la Consejería de Educación, Cultura y Deportes, y se establecen las bases de la 
 convocatoria de plazas y ayudas con destino al alumnado comensal, establece en el artículo 
@@ -453,7 +453,7 @@ escolar 2025-2026 por puesta en funcionamiento de nuevas Aulas Enclave con concr
 curricular en infantil y primaria en 
 CEIP o para el alumnado de nueva incorporación en 
 Centros de Educación Especial, estará abierto a lo largo de todo el curso escolar.
-Asimismo, y de acuerdo a la Orden de 25 de febrero de 2003, el centro educativo deberá 
+Asimismo, y de acuerdo a la [Orden de 25 de febrero de 2003](./O25_2_2003_regula_organizacion_funcionamiento_comedores_escolares_centros.md), el centro educativo deberá 
 seguir funcionando con el módulo que tiene autorizado hasta que, desde esta Dirección 
 General, se autorice el aumento de módulo solicitado.
 Décima.- Gestión, planificación y justificación de los comedores escolares.
@@ -546,7 +546,7 @@ puede ser comprobada la autenticidad de esta copia, mediante el número de
 documento electrónico siguiente:
  0NyUczyvhBSASpIfZarSlvDlLyp3VxmcC
 6. Todas las certificaciones y documentación remitidas a esta Dirección General deberán 
-estar firmadas a través de firma electrónica, tal y como establece la Ley 39/2015 de 1 de 
+estar firmadas a través de firma electrónica, tal y como establece la [Ley 39/2015](../../../estatal/01_marco_normativo_general_y_organico/L39_2015_procedimiento_administrativo_comun_administraciones_publicas.md) de 1 de 
 octubre, del Procedimiento Administrativo Común de las Administraciones Públicas, en su 
 artículo 14.2.e).
 

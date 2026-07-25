@@ -53,7 +53,7 @@ fuente_pdf_oficial: https://sede.gobiernodecanarias.org/boc/boc-a-2026-039-642.p
 III. Otras Resoluciones
 Consejería de Educación, Formación Profesional, Actividad Física y Deportes
 642 Dirección General de Formación Profesional y Enseñanzas de Régimen Especial.- 
-Resolución de 13 de febrero de 2026, por la que se convoca el procedimiento de 
+[Resolución de 13 de febrero de 2026](./R13_2_2026_dictan_instrucciones_proceso_admision_alumnado_ciclos.md), por la que se convoca el procedimiento de 
 admisión del alumnado a los Ciclos Formativos de Grado Básico, Medio y Superior 
 (Grado D, niveles 1, 2 y 3, respectivamente) y de los cursos de especialización de 
 Grado Medio y Superior (Grados E, niveles 2 y 3, respectivamente) de todas las 
@@ -132,7 +132,7 @@ alumnado en centros docentes que oferten enseñanzas no universitarias sostenida
 con fondos públicos en la Comunidad Autónoma de Canarias, garantiza el derecho a la 
 educación, el acceso en condiciones de igualdad y la libertad de elección de centro por 
 padres, madres, tutores o tutoras legales o por el alumno o alumna mayor de edad.
-Quinto.- La Orden de 3 de marzo de 2022, por la que se desarrolla el Decreto 9/2022, 
+Quinto.- La Orden de 3 de marzo de 2022, por la que se desarrolla el [Decreto 9/2022](./D9_2022_regula_admision_alumnado_centros_docentes_publicos.md), 
 de 20 de enero, que regula la admisión del alumnado en centros docentes que oferten 
 
 enseñanzas no universitarias sostenidas con fondos públicos en la Comunidad Autónoma 
@@ -169,7 +169,7 @@ E, niveles 2 y 3), Enseñanzas Profesionales de Artes Plásticas y Diseño, Ense
 Deportivas, Enseñanzas Elementales y Profesionales de Música y Enseñanzas de Idiomas.
 En atención a lo anteriormente indicado, y de acuerdo con la atribución prevista en la 
 disposición adicional tercera de la Orden de 3 de marzo de 2022, por la que se desarrolla el 
-Decreto 9/2022, de 20 de enero, por el que se regula la admisión del alumnado en centros 
+[Decreto 9/2022](./D9_2022_regula_admision_alumnado_centros_docentes_publicos.md), de 20 de enero, por el que se regula la admisión del alumnado en centros 
 docentes que oferten enseñanzas no universitarias sostenidas con fondos públicos, en 
 la Comunidad Autónoma de Canarias, y en ejercicio de las competencias atribuidas en 
 el artículo 20.2.d) del Reglamento Orgánico de la Consejería de Educación, Formación 
@@ -280,7 +280,7 @@ Cuarta.- Nota media para el acceso a Formación Profesional y criterios de
 desempate.
 1. En Formación Profesional se tendrá en cuenta como criterio prioritario la nota media 
 del expediente académico de los títulos que dan acceso a las enseñanzas de Grado D, niveles 
-2 y 3, atendiendo a lo establecido en los artículos 111 y 115 del Real Decreto 659/2023. 
+2 y 3, atendiendo a lo establecido en los artículos 111 y 115 del [Real Decreto 659/2023](../03_ordenacion_curricular_y_ensenanzas/RD659_2023_dictan_instrucciones_orientaciones_formacion_dual_empresas.md). 
 El calendario para la admisión de estas enseñanzas atenderá para el curso 2025/2026 a lo 
 establecido en la [Resolución de 20 de febrero de 2025](../04_organizacion_escolar_y_funcionamiento/R19_3_2025_escolarizacion_servicios_complementarios_corrige_error_resolucion.md), por la que se establece el calendario 
 escolar y se dictan instrucciones para la organización y desarrollo de las actividades 
@@ -291,7 +291,7 @@ Formación Profesional calculen la nota media del expediente académico en su to
 2. En el caso de los ciclos formativos de Grado Medio, de haber más solicitudes que 
 plazas ofertadas, y existir empate en los cupos de reserva para los graduados en Educación 
 Secundaria Obligatoria o Técnico Básico de Formación Profesional, se actuará atendiendo a 
-lo establecido en el artículo 111.2 del Real Decreto 659/2023, empleando la media aritmética 
+lo establecido en el artículo 111.2 del [Real Decreto 659/2023](../03_ordenacion_curricular_y_ensenanzas/RD659_2023_dictan_instrucciones_orientaciones_formacion_dual_empresas.md), empleando la media aritmética 
 de las materias que figuren en el expediente académico de 3.º y 4.º de la ESO o de los 
 ámbitos, los módulos profesionales y proyecto incluidos en el ciclo formativo de Grado 
 Básico. De persistir esta situación, en este caso, se actuará de acuerdo a lo establecido en 

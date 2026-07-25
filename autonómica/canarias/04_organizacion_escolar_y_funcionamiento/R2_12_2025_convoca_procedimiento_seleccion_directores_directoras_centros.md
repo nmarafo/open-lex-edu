@@ -413,7 +413,7 @@ momento de la convocatoria.
 - Las personas candidatas a ser seleccionadas y las personas propuestas, en su caso, en 
 el proyecto de dirección de aquel.
 Los miembros de las Comisiones de Selección están sujetos, además, a las causas de 
-abstención previstas en el artículo 23 de la Ley 40/2015, de 1 de octubre, de Régimen 
+abstención previstas en el artículo 23 de la [Ley 40/2015](../../../estatal/01_marco_normativo_general_y_organico/L40_2015_regimen_juridico_sector_publico.md), de 1 de octubre, de Régimen 
 Jurídico del Sector Público, debiendo abstenerse de intervenir en el procedimiento en 
 caso de concurrir alguna causa, comunicándolo a la Dirección Territorial de Educación 
 correspondiente, que resolverá lo que proceda, pudiendo, del mismo modo, promoverse 
@@ -678,7 +678,7 @@ La dirección podrá formular propuesta de nombramiento de profesorado con desti
 otro centro docente, siempre que puedan impartir alguna de las enseñanzas encomendadas 
 al centro.
 El cese del resto de miembros del equipo directivo se producirá en los supuestos 
-previstos en el artículo 21 del Decreto 106/2009, de 28 de julio, por el que se regula la 
+previstos en el artículo 21 del [Decreto 106/2009](./D106_2009_regula_funcion_directiva_centros_docentes_publicos.md), de 28 de julio, por el que se regula la 
 función directiva en los centros docentes públicos no universitarios dependientes de la 
 Comunidad Autónoma de Canarias.
 
@@ -830,7 +830,7 @@ mediante original y copia para cotejo.
 2.4.  Por  cada  año  de  servicios  
 efectivos  prestados  en  la  situación 
 de  servicio  activo  en  los  cuerpos 
-previstos en la Ley Orgánica 2/2006,  
+previstos en la [Ley Orgánica 2/2006](../../../estatal/01_marco_normativo_general_y_organico/LO2_2006_educacion_texto_consolidado_modificaciones_lomloe.md),  
 de 3  de  mayo, de  Educación, que 
 sobrepase  los  cinco  años  exigidos 
 como requisito.

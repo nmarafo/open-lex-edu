@@ -90,7 +90,7 @@ que tienen atribuida para el resto de cargos directivos de los centros docentes 
 gestión de esta Consejería.
 A los anteriores hechos son de aplicación los siguientes
 FUNDAMENTOS DE DERECHO
-Primero.- El artículo 12 del Decreto 135/2016, de 10 de octubre, por el que se aprueba el 
+Primero.- El artículo 12 del [Decreto 135/2016](./D135_2016_reglamento_organico_consejeria_educacion_universidades_cultura.md), de 10 de octubre, por el que se aprueba el 
 Reglamento Orgánico de la Consejería de Educación, Universidades, Cultura y Deportes que 
 establece las competencias de la Dirección General de Personal, en relación con su artículo 
 17 que dispone que las Direcciones Territoriales ejercerán, además de las que atribuye el 

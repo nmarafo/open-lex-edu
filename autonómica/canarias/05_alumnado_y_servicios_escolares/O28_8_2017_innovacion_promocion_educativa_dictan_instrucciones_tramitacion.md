@@ -52,7 +52,7 @@ Primero.- La Orden de 20 de junio de 2007, de la Consejería de Educación, Cult
 Deportes, regula las actividades escolares complementarias, actividades extraescolares y 
 servicios escolares en los centros privados concertados de Canarias, siendo la Dirección 
 General de Ordenación, Innovación y Promoción Educativa órgano instructor del expediente. 
-Segundo.- La Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común 
+Segundo.- La [Ley 39/2015](../../../estatal/01_marco_normativo_general_y_organico/L39_2015_procedimiento_administrativo_comun_administraciones_publicas.md), de 1 de octubre, del Procedimiento Administrativo Común 
 de las Administraciones Públicas, establece en su artículo 14 que las personas jurídicas 
 estarán obligadas a relacionarse a través de medios electrónicos con las Administraciones 
 Públicas para la realización de cualquier trámite de un procedimiento administrativo.
@@ -60,13 +60,13 @@ Tercero.- La presente Resolución responde a la necesidad de dictar instruccione
 sobre la presentación de solicitudes y tramitación, vía telemática, del procedimiento de 
 autorización de cantidades a percibir por actividades escolares complementarias y remisión 
 de información sobre actividades extraescolares y servicios escolares, para su adecuación a 
-la citada Ley 39/2015, de 1 de octubre.
+la citada [Ley 39/2015](../../../estatal/01_marco_normativo_general_y_organico/L39_2015_procedimiento_administrativo_comun_administraciones_publicas.md), de 1 de octubre.
 FUNDAMENTOS DE DERECHO
 Primero.- La Orden de 20 de junio de 2007, de la Consejería de Educación, Cultura 
 y Deportes, regula las actividades escolares complementarias, actividades extraescolares 
 y servicios escolares en los centros privados concertados de Canarias (BOC nº 144, de 
 18.7.07).
-Segundo.- La Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común 
+Segundo.- La [Ley 39/2015](../../../estatal/01_marco_normativo_general_y_organico/L39_2015_procedimiento_administrativo_comun_administraciones_publicas.md), de 1 de octubre, del Procedimiento Administrativo Común 
 de las Administraciones Públicas (BOE nº 236, de 2.10.15).
 Esta Dirección General de acuerdo con todo lo anterior, y en uso de las atribuciones 
 que le son propias con arreglo a lo previsto en el artículo 13 del [Decreto 135/2016](../01_marco_normativo_general_y_organico/D135_2016_reglamento_organico_consejeria_educacion_universidades_cultura.md), de 10 
@@ -104,7 +104,7 @@ cantidades a percibir por actividades escolares complementarias y remisión de i
 sobre actividades extraescolares y servicios escolares, recogido en la Orden de 20 de 
 junio de 2007, de la Consejería de Educación, Cultura y Deportes, por la que se regulan 
 las actividades escolares complementarias, actividades extraescolares y servicios escolares 
-en los centros privados concertados de Canarias, a la Ley 39/2015, de 1 de octubre, del 
+en los centros privados concertados de Canarias, a la [Ley 39/2015](../../../estatal/01_marco_normativo_general_y_organico/L39_2015_procedimiento_administrativo_comun_administraciones_publicas.md), de 1 de octubre, del 
 Procedimiento Administrativo Común de las Administraciones Públicas.
 2. Ámbito de aplicación.
 Estas instrucciones serán de aplicación para todos los centros educativos privados 
@@ -141,7 +141,7 @@ esta instrucción 4ª, se deberá imprimir y firmar manualmente, para su posteri
 ante el órgano instructor del expediente o en las Direcciones Insulares y Territoriales de 
 Educación.
 Igualmente, se podrán presentar en cualquiera de las dependencias a que se refiere el 
-artículo 16.4 de la Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común 
+artículo 16.4 de la [Ley 39/2015](../../../estatal/01_marco_normativo_general_y_organico/L39_2015_procedimiento_administrativo_comun_administraciones_publicas.md), de 1 de octubre, del Procedimiento Administrativo Común 
 de las Administraciones Públicas. En caso de presentarse en una Oficina de Correos, la 
 solicitud deberá ser sellada y fechada por la Oficina de Correos antes de introducirla en el 
 sobre. 

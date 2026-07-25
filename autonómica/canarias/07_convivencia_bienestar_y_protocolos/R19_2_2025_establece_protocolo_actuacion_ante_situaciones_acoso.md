@@ -216,7 +216,7 @@ uno u otro colectivo.
 De acuerdo con todo lo anterior, en ejercicio de las competencias que le atribuye el 
 vigente [Decreto 84/2024](../01_marco_normativo_general_y_organico/D84_2024_aprueba_reglamento_organico_formacion_profesional_actividad.md), de 10 de junio, por el que se aprueba el Reglamento Orgánico de 
 la Consejería de Educación, Formación Profesional, Actividad Física y Deportes, en sus 
-artículos 16.n), ñ), o) y p) así como el artículo 12 del Decreto 168/2009, de adaptación de la 
+artículos 16.n), ñ), o) y p) así como el artículo 12 del [Decreto 168/2009](../02_gestion_y_administracion_centros/D168_2009_adapta_normativa_prevencion_riesgos_laborales_ambito.md), de adaptación de la 
 normativa sobre prevención de riesgos laborales en el ámbito de la Administración Pública 
 de la Comunidad Autónoma de Canarias y sus Organismos Autónomos,
 RESUELVO :
@@ -395,7 +395,7 @@ Procedimiento Administrativo Común de las Administraciones Públicas.
 Artículo 6.- Confidencialidad y protección de datos de carácter personal.
 1. Se garantizará en todo caso la confidencialidad y la protección de datos de carácter 
 personal en los términos legalmente previstos en todas las actuaciones a realizar, documentos 
-a confeccionar y expedientes, de conformidad con Ley Orgánica 3/2018, de 5 de diciembre, 
+a confeccionar y expedientes, de conformidad con [Ley Orgánica 3/2018](../../../estatal/02_gestion_y_administracion_centros/LO3_2018_proteccion_datos_personales_garantia_derechos_digitales.md), de 5 de diciembre, 
 de Protección de Datos Personales y garantía de los derechos digitales
 2. La Dirección General de Personal y Formación del Profesorado y la Secretaría 
 General Técnica asumirán los deberes derivados de la responsabilidad de protección de 
@@ -470,7 +470,7 @@ presente Protocolo.
 de aplicación del presente Protocolo y personal de otras Administraciones Públicas o de 
 empresas externas contratadas, se aplicarán los mecanismos de coordinación empresarial 
 establecidos en el Real Decreto 171/2004, de 30 de enero, por el que se desarrolla el artículo 
-24 de la Ley 31/1995, de 8 de noviembre, de Prevención de Riesgos Laborales, en materia 
+24 de la [Ley 31/1995](../../../estatal/02_gestion_y_administracion_centros/L31_1995_prevencion_riesgos_laborales.md), de 8 de noviembre, de Prevención de Riesgos Laborales, en materia 
 de coordinación de actividades empresariales.
 Sección III
 CV AL
@@ -548,7 +548,7 @@ miembros, titulares y suplentes, por cada provincia de las CV AL ordinarias y ex
 así como sus posibles modificaciones.
 Artículo 12.- Régimen de funcionamiento.
 1. Los miembros de la CV AL estarán sujetos al régimen de abstención y recusación 
-regulado en la Ley 40/2015. Los supuestos de abstención y de recusación deberán resolverse 
+regulado en la [Ley 40/2015](../../../estatal/01_marco_normativo_general_y_organico/L40_2015_regimen_juridico_sector_publico.md). Los supuestos de abstención y de recusación deberán resolverse 
 por el órgano gestor, a propuesta de la CV AL.
 La suplencia de los miembros de la CV AL operará en caso de vacante, ausencia o 
 enfermedad y recusación o abstención. Se entenderá por ausencia prolongada, debidamente 
@@ -570,7 +570,7 @@ acta.
 CV AL se podrán celebrar tanto de forma presencial como a través 
 de videoconferencia.
 5. Las convocatorias de las sesiones de la CV AL serán remitidas a sus miembros de 
-conformidad con lo dispuesto en el artículo 17.3 de la Ley 40/2015.
+conformidad con lo dispuesto en el artículo 17.3 de la [Ley 40/2015](../../../estatal/01_marco_normativo_general_y_organico/L40_2015_regimen_juridico_sector_publico.md).
 6. Los miembros de la CV AL utilizarán los recursos tecnológicos corporativos 
 disponibles de las unidades administrativas de las que formen parte (correos electrónicos; 
 portafirmas; Hiperreg; Entorno de Trabajo Colaborativo, etc.), dejando constancia de su 
@@ -654,7 +654,7 @@ En el caso de que se presente de forma física, se hará en soporte papel y en u
 cerrado. La persona que presente la denuncia deberá firmar el sobre cerrado haciendo 
 coincidir su firma con la solapa de cierre del sobre. La presentación se hará preferentemente 
 en los registros de la Consejería con competencia en materia de educación o en cualquiera 
-de los registros oficiales, conforme a la Ley 39/2015, de 1 de octubre. Estos documentos se 
+de los registros oficiales, conforme a la [Ley 39/2015](../../../estatal/01_marco_normativo_general_y_organico/L39_2015_procedimiento_administrativo_comun_administraciones_publicas.md), de 1 de octubre. Estos documentos se 
 dirigirán, en caso de personal docente, a la Dirección General de Personal y Formación del 
 Profesorado y, en el caso de personal de administración y servicios, a la Secretaría General 
 Técnica.
@@ -722,7 +722,7 @@ Artículo 19.- Actuaciones previas.
 admisión o no a trámite de la denuncia. Para ello, de ser necesario, podrá abrir un periodo 
 de información o actuaciones previas con el fin de conocer las circunstancias del caso 
 concreto y la conveniencia o no de iniciar el procedimiento, conforme prevé el artículo 55 
-de la Ley 39/2015, de 1 de octubre.
+de la [Ley 39/2015](../../../estatal/01_marco_normativo_general_y_organico/L39_2015_procedimiento_administrativo_comun_administraciones_publicas.md), de 1 de octubre.
 2. A tal fin, la Secretaría de la 
 CV AL, a la mayor brevedad posible, podrá solicitar a 
 otros órganos administrativos, entidades públicas o privadas informes sobre las cuestiones 
@@ -1479,7 +1479,7 @@ La superioridad psicológica o poder psicológico no tiene por qué coincidir co
 que se ocupa en la cadena de mando. La persona acosadora puede pertenecer a cualquier 
 sexo y la persona acosada puede pertenecer a cualquier sexo.
 Aspectos jurídicos.
-Está regulado en los artículos 7, 8 y 13 de la Ley Orgánica 3/2007, de 22 de marzo, 
+Está regulado en los artículos 7, 8 y 13 de la [Ley Orgánica 3/2007](../../../estatal/07_convivencia_bienestar_y_protocolos/LO3_2007_igualdad_efectiva_mujeres_hombres.md), de 22 de marzo, 
 para la igualdad efectiva de mujeres y hombres. De acuerdo con las Leyes procesales, en 
 aquellos procedimientos en los que las alegaciones de la parte actora se fundamenten en 
 actuaciones discriminatorias por razón de sexo, corresponderá a la persona demandada 
@@ -1672,7 +1672,7 @@ A tal efecto, adjunto a la presente solicitud, en sobre cerrado*, la correspondi
 (documento 2), además de documentación probatoria de los hechos denunciados.
 * El sobre debe presentarse grapado a esta solicitud y marcado en el exterior como “CONFIDENCIAL”.
 Declaro bajo mi responsabilidad, con los efectos legales previstos en el artículo 69 de la 
-Ley 39/2015,  de 1 de octubre, del Procedimiento Administrativo  Común de las 
+[Ley 39/2015](../../../estatal/01_marco_normativo_general_y_organico/L39_2015_procedimiento_administrativo_comun_administraciones_publicas.md),  de 1 de octubre, del Procedimiento Administrativo  Común de las 
 Administraciones Públicas,  que son ciertos los datos contenidos  en la presente solicitud, así 
 como en la denuncia que se aporta en sobre cerrado y grapado a esta solicitud.
 Firma de la persona solicitante,
@@ -1840,7 +1840,7 @@ investigación de este conflicto.
 2º.-- Uso y confidencialidad de los datos. Los datos que se obtengan de su participación serán utilizados 
 únicamente  con  fines  de  investigación  y  solamente  por  parte  del  equipo  de  investigación, 
 custodiándose sus datos personales en un lugar seguro de tal manera que ninguna persona ajena pueda 
-acceder a esta información y atendiendo a un estricto cumplimiento de la Ley Orgánica 3/2018, de 5 
+acceder a esta información y atendiendo a un estricto cumplimiento de la [Ley Orgánica 3/2018](../../../estatal/02_gestion_y_administracion_centros/LO3_2018_proteccion_datos_personales_garantia_derechos_digitales.md), de 5 
 de diciembre, de Protección de Datos Personales y garantía de los derechos digitales. Lo contenido en 
 las grabaciones se resumirá en el informe final de investigación y podrán acceder a su contenido las 
 personas implicadas en el proceso de investigación, denunciante y denunciado. Se garantizará el 

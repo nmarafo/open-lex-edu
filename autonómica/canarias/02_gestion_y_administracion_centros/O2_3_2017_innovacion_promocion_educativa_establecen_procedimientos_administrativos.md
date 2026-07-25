@@ -78,7 +78,7 @@ en el Boletín Oficial de Canarias.
 Contra la presente Resolución se podrá interponer recurso de alzada ante la Consejera 
 de Educación y Universidades, en el plazo de un mes a partir del día siguiente al de su 
 publicación en el Boletín Oficial de Canarias, de conformidad con lo dispuesto en los 
-artículos 121 y 122 de la Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo 
+artículos 121 y 122 de la [Ley 39/2015](../../../estatal/01_marco_normativo_general_y_organico/L39_2015_procedimiento_administrativo_comun_administraciones_publicas.md), de 1 de octubre, del Procedimiento Administrativo 
 Común de las Administraciones Públicas.
 Las Palmas de Gran Canaria, a 2 de marzo de 2017.- El Director General de Ordenación, 
 Innovación y Promoción Educativa, Juan Rafael Bailón Casanova.

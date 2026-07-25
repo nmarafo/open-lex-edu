@@ -45,25 +45,25 @@ En su virtud, a propuesta del Ministro de la Presidencia, previo informe de la C
 
 #### Artículo 1.
 
-El ámbito de aplicación de este Real Decreto es el determinado en el artículo segundo de la Ley 53/1984, de 26 de diciembre, de incompatibilidades del personal al servicio de las Administraciones Públicas, a excepción del personal de las Fuerzas Armadas a que se refiere la disposición adicional quinta de la citada Ley y del que desempeñe, como única o principal, una actividad pública al servicio de una Comunidad Autónoma o Corporación Local.
+El ámbito de aplicación de este Real Decreto es el determinado en el artículo segundo de la [Ley 53/1984](../01_marco_normativo_general_y_organico/L53_1984_incompatibilidades_personal_servicio_administraciones_publicas.md), de 26 de diciembre, de incompatibilidades del personal al servicio de las Administraciones Públicas, a excepción del personal de las Fuerzas Armadas a que se refiere la disposición adicional quinta de la citada Ley y del que desempeñe, como única o principal, una actividad pública al servicio de una Comunidad Autónoma o Corporación Local.
 
 [encabezado]II. Compatibilidad de actividades en el sector público
 
 #### Art. 2.
 
-A los efectos exclusivos del régimen de incompatibilidades, se entenderán entidades colaboradoras y concertadas de la Seguridad Social en la prestación sanitaria, incluidas en el sector público que delimita el artículo primero de la Ley 53/1984, aquellas entidades de carácter hospitalario o que realicen actividades propias de estos centros, que mantengan concierto o colaboración con alguna de las Entidades gestoras de la Seguridad Social, siendo su objeto precisamente la asistencia sanitaria que éstas están obligadas a prestar a los beneficiarios de cualquiera de los regímenes de la Seguridad Social.
+A los efectos exclusivos del régimen de incompatibilidades, se entenderán entidades colaboradoras y concertadas de la Seguridad Social en la prestación sanitaria, incluidas en el sector público que delimita el artículo primero de la [Ley 53/1984](../01_marco_normativo_general_y_organico/L53_1984_incompatibilidades_personal_servicio_administraciones_publicas.md), aquellas entidades de carácter hospitalario o que realicen actividades propias de estos centros, que mantengan concierto o colaboración con alguna de las Entidades gestoras de la Seguridad Social, siendo su objeto precisamente la asistencia sanitaria que éstas están obligadas a prestar a los beneficiarios de cualquiera de los regímenes de la Seguridad Social.
 
 #### Art. 3.
 
-1. Al personal sujeto al ámbito de aplicación de este Real Decreto podrá autorizársele la compatibilidad para el desempeño de un puesto de Profesor universitario asociado en los casos y con los requisitos establecidos en el artículo cuarto, 1, de la Ley 53/1984.
+1. Al personal sujeto al ámbito de aplicación de este Real Decreto podrá autorizársele la compatibilidad para el desempeño de un puesto de Profesor universitario asociado en los casos y con los requisitos establecidos en el artículo cuarto, 1, de la [Ley 53/1984](../01_marco_normativo_general_y_organico/L53_1984_incompatibilidades_personal_servicio_administraciones_publicas.md).
 
 2. A los Profesores indicados o en el artículo cuarto, 2, de dicha Ley, sujetos al ámbito de este Real Decreto, podrán autorizárseles la compatibilidad para un puesto de trabajo en el sector público sanitario o de carácter investigador en centros públicos de investigación, en los casos y con los requisitos establecidos en el precepto aludido.
 
-3. Al personal sujeto al ámbito de aplicación de este Real Decreto podrá autorizársele la compatibilidad para actividades de investigación de carácter no permanente o de asesoramiento en supuestos concretos, en los términos establecidos en el artículo sexto de la Ley 53/1984.
+3. Al personal sujeto al ámbito de aplicación de este Real Decreto podrá autorizársele la compatibilidad para actividades de investigación de carácter no permanente o de asesoramiento en supuestos concretos, en los términos establecidos en el artículo sexto de la [Ley 53/1984](../01_marco_normativo_general_y_organico/L53_1984_incompatibilidades_personal_servicio_administraciones_publicas.md).
 
 #### Art. 4.
 
-En los supuestos en que sea posible la autorización de compatibilidad de actividades públicas, esta se entenderá condicionada a la aplicación de las limitaciones retributivas previstas en el artículo séptimo de la Ley 53/1984.
+En los supuestos en que sea posible la autorización de compatibilidad de actividades públicas, esta se entenderá condicionada a la aplicación de las limitaciones retributivas previstas en el artículo séptimo de la [Ley 53/1984](../01_marco_normativo_general_y_organico/L53_1984_incompatibilidades_personal_servicio_administraciones_publicas.md).
 
 #### Art. 5.
 
@@ -87,11 +87,11 @@ Los Interventores delegados del Interventor general de la Administración del Es
 
 #### Art. 8.
 
-La obtención del reconocimiento de compatibilidad será requisito previo imprescindible para que el personal sometido al ámbito de aplicación de este Real Decreto pueda comenzar la realización de las actividades privadas a que se refiere el capítulo IV de la Ley 53/1984.
+La obtención del reconocimiento de compatibilidad será requisito previo imprescindible para que el personal sometido al ámbito de aplicación de este Real Decreto pueda comenzar la realización de las actividades privadas a que se refiere el capítulo IV de la [Ley 53/1984](../01_marco_normativo_general_y_organico/L53_1984_incompatibilidades_personal_servicio_administraciones_publicas.md).
 
 #### Art. 9.
 
-De acuerdo con lo dispuesto en los artículos primero, 3, y once, 1, de la Ley 53/1984, no será posible el reconocimiento de compatibilidad con actividades privadas, incluidas las de carácter profesional, cuyo contenido se relacione directamente con los asuntos sometidos a informe, decisión, ayuda financiera o control en el Departamento, Organismo, Ente o Empresa públicos a los que el interesado esté adscrito o preste sus servicios.
+De acuerdo con lo dispuesto en los artículos primero, 3, y once, 1, de la [Ley 53/1984](../01_marco_normativo_general_y_organico/L53_1984_incompatibilidades_personal_servicio_administraciones_publicas.md), no será posible el reconocimiento de compatibilidad con actividades privadas, incluidas las de carácter profesional, cuyo contenido se relacione directamente con los asuntos sometidos a informe, decisión, ayuda financiera o control en el Departamento, Organismo, Ente o Empresa públicos a los que el interesado esté adscrito o preste sus servicios.
 
 #### Art. 10.
 
@@ -99,7 +99,7 @@ No podrá reconocerse compatibilidad para la realización de actividades privada
 
 #### Art. 11.
 
-En aplicación de lo previsto en el artículo once, 2, de la Ley 53/1984, no podrá reconocerse compatibilidad para el desempeño de las actividades privadas que en cada caso se expresan al personal que se enumera en los apartados siguientes:
+En aplicación de lo previsto en el artículo once, 2, de la [Ley 53/1984](../01_marco_normativo_general_y_organico/L53_1984_incompatibilidades_personal_servicio_administraciones_publicas.md), no podrá reconocerse compatibilidad para el desempeño de las actividades privadas que en cada caso se expresan al personal que se enumera en los apartados siguientes:
 
 1. El personal que realice cualquier clase de funciones en la Administración, con el desempeño de servicios de gestoría administrativa, ya sea como titular, ya como empleado en tales oficinas.
 
@@ -117,7 +117,7 @@ Tendrán la misma incompatibilidad los Letrados de la Banca Oficial, Institucion
 
 7. Los Arquitectos, Ingenieros y otros titulados y demás personal incluido en el ámbito de aplicación de este Real Decreto, respecto de toda actividad, ya sea de dirección de obra de explotación o cualquier otra que pueda suponer coincidencia de horario, aunque sea esporádica, con su actividad en el sector público.
 
-8. El personal sanitario comprendido en el artículo segundo de la Ley 53/1984, en el ejercicio de actividades de colaboración o concierto con la Seguridad Social en la prestación sanitaria que no tengan carácter de públicas según lo establecido en el artículo segundo de este Real Decreto.
+8. El personal sanitario comprendido en el artículo segundo de la [Ley 53/1984](../01_marco_normativo_general_y_organico/L53_1984_incompatibilidades_personal_servicio_administraciones_publicas.md), en el ejercicio de actividades de colaboración o concierto con la Seguridad Social en la prestación sanitaria que no tengan carácter de públicas según lo establecido en el artículo segundo de este Real Decreto.
 
 #### Art. 12.
 
@@ -127,11 +127,11 @@ El reconocimiento de compatibilidad para el ejercicio con carácter general de a
 
 #### Art. 13.
 
-1. En la diligencia de toma de posesión o en el acto de la firma del contrato personal sujeto al ámbito de aplicación de este Real Decreto, deberá hacerse constar la manifestación del interesado de no venir desempeñando ningún puesto o actividad en el sector público delimitado por el artículo primero de la Ley 53/1984, indicando asimismo que no realiza actividad privada incompatible o sujeta a reconocimiento de compatibilidad.
+1. En la diligencia de toma de posesión o en el acto de la firma del contrato personal sujeto al ámbito de aplicación de este Real Decreto, deberá hacerse constar la manifestación del interesado de no venir desempeñando ningún puesto o actividad en el sector público delimitado por el artículo primero de la [Ley 53/1984](../01_marco_normativo_general_y_organico/L53_1984_incompatibilidades_personal_servicio_administraciones_publicas.md), indicando asimismo que no realiza actividad privada incompatible o sujeta a reconocimiento de compatibilidad.
 
-La citada manifestación hará referencia también a la circunstancia de si el interesado se encuentra o no percibiendo pensión de jubilación, retiro u orfandad, por derechos pasivos o por cualquier régimen de Seguridad Social público y obligatorio a los efectos previstos en el artículo tercero, 2, y en la disposición transitoria novena de la Ley 53/1984.
+La citada manifestación hará referencia también a la circunstancia de si el interesado se encuentra o no percibiendo pensión de jubilación, retiro u orfandad, por derechos pasivos o por cualquier régimen de Seguridad Social público y obligatorio a los efectos previstos en el artículo tercero, 2, y en la disposición transitoria novena de la [Ley 53/1984](../01_marco_normativo_general_y_organico/L53_1984_incompatibilidades_personal_servicio_administraciones_publicas.md).
 
-2. Si el interesado viniere desempeñando ya otro puesto o actividad en el sector público se deberá proceder en la forma que determina el artículo diez de la Ley 53/1984.
+2. Si el interesado viniere desempeñando ya otro puesto o actividad en el sector público se deberá proceder en la forma que determina el artículo diez de la [Ley 53/1984](../01_marco_normativo_general_y_organico/L53_1984_incompatibilidades_personal_servicio_administraciones_publicas.md).
 
 3. Si el que accede a un puesto público viniere realizando una actividad privada que requiera el reconocimiento de compatibilidad, deberá obtener ésta o cesar en la realización de la actividad privada antes de comenzar el ejercicio de sus funciones públicas, si solicita la compatibilidad en los diez primeros días del plazo posesorio se prorrogará éste hasta que recaiga la resolución correspondiente.
 
@@ -139,13 +139,13 @@ La citada manifestación hará referencia también a la circunstancia de si el i
 
 #### Art. 14.
 
-En todos los puestos en que la Ley 53/1984, de 26 de diciembre, o este Real Decreto se refieren a puestos de trabajo con jornada de tiempo parcial, se ha de entender por tal aquella que no supere las treinta horas semanales.
+En todos los puestos en que la [Ley 53/1984](../01_marco_normativo_general_y_organico/L53_1984_incompatibilidades_personal_servicio_administraciones_publicas.md), de 26 de diciembre, o este Real Decreto se refieren a puestos de trabajo con jornada de tiempo parcial, se ha de entender por tal aquella que no supere las treinta horas semanales.
 
 #### Art. 15.
 
-1. El personal docente universitario con dedicación a tiempo completo no podrá ser autorizado para la realización de otras actividades en el sector público o privado, sin perjuicio de lo dispuesto en los artículos once de la Ley de Reforma Universitaria y diecinueve de la Ley 53/1984.
+1. El personal docente universitario con dedicación a tiempo completo no podrá ser autorizado para la realización de otras actividades en el sector público o privado, sin perjuicio de lo dispuesto en los artículos once de la Ley de Reforma Universitaria y diecinueve de la [Ley 53/1984](../01_marco_normativo_general_y_organico/L53_1984_incompatibilidades_personal_servicio_administraciones_publicas.md).
 
-2. El resto del personal incluido en el ámbito de este Real Decreto, si desempeña un puesto de trabajo que comporte la percepción de complemento específico o concepto equiparable, o se trata de personal retribuido por arancel, sólo podrá será autorizado para ejercer como Profesor universitario asociado en los términos del apartado 1 del artículo cuarto de la Ley 53/1984, y para realizar las actividades de investigación y asesoramiento previstas en el artículo sexto de la misma.
+2. El resto del personal incluido en el ámbito de este Real Decreto, si desempeña un puesto de trabajo que comporte la percepción de complemento específico o concepto equiparable, o se trata de personal retribuido por arancel, sólo podrá será autorizado para ejercer como Profesor universitario asociado en los términos del apartado 1 del artículo cuarto de la [Ley 53/1984](../01_marco_normativo_general_y_organico/L53_1984_incompatibilidades_personal_servicio_administraciones_publicas.md), y para realizar las actividades de investigación y asesoramiento previstas en el artículo sexto de la misma.
 
 #### Art. 16.
 
@@ -153,21 +153,21 @@ La autoridad que imponga sanciones disciplinarias por faltas de asistencias de t
 
 #### Art. 17.
 
-1. Las actividades enumeras en el artículo diecinueve de la Ley 53/1984 podrán realizarse sin necesidad de autorización o reconocimiento de compatibilidad únicamente cuando concurran los requisitos establecidos para cada caso concreto, tanto en dicha norma como en las disposiciones que determinan los deberes generales o especiales del personal al servicio de la Administración.
+1. Las actividades enumeras en el artículo diecinueve de la [Ley 53/1984](../01_marco_normativo_general_y_organico/L53_1984_incompatibilidades_personal_servicio_administraciones_publicas.md) podrán realizarse sin necesidad de autorización o reconocimiento de compatibilidad únicamente cuando concurran los requisitos establecidos para cada caso concreto, tanto en dicha norma como en las disposiciones que determinan los deberes generales o especiales del personal al servicio de la Administración.
 
 2. La preparación para el acceso a la función pública, que implicará en todo caso incompatibilidad para formar parte de órganos de selección del personal en los terminos que prevé el artículo 12.3 del Real Decreto 2223/1984, de 19 de diciembre, sólo se considerará actividad exceptuada del régimen de incompatibilidades cuando no suponga una dedicación superior a setenta y cinco horas anuales y no pueda implicar incumplimiento del horario de trabajo.
 
 3. Cuando no concurran los requisitos exigidos por el artículo diecinueve de la Ley 53/1984, para considerar a alguna de las actividades como exceptuada del régimen de incompatibilidades, deberá solicitarse la correspondiente autorización o reconocimiento de compatibilidad en la forma establecida con carácter general.
 
-[encabezado]V. Normas aplicables a los regímenes de transitoriedad contemplados en la Ley 53/1984
+[encabezado]V. Normas aplicables a los regímenes de transitoriedad contemplados en la [Ley 53/1984](../01_marco_normativo_general_y_organico/L53_1984_incompatibilidades_personal_servicio_administraciones_publicas.md)
 
 #### Art. 18.
 
-Las limitaciones retributivas previstas en el apartado 1 del artículo séptimo de la Ley 53/1984 no serán de aplicación a los regímenes contemplados en las disposiciones transitorias de la misma, con excepción de las compatibilidades que puedan mantenerse con posterioridad al 1 de enero de 1986, como consecuencia de lo establecido en la disposición transitoria tercera de la citada Ley, a las que se les aplicará a partir de dicha fecha.
+Las limitaciones retributivas previstas en el apartado 1 del artículo séptimo de la [Ley 53/1984](../01_marco_normativo_general_y_organico/L53_1984_incompatibilidades_personal_servicio_administraciones_publicas.md) no serán de aplicación a los regímenes contemplados en las disposiciones transitorias de la misma, con excepción de las compatibilidades que puedan mantenerse con posterioridad al 1 de enero de 1986, como consecuencia de lo establecido en la disposición transitoria tercera de la citada Ley, a las que se les aplicará a partir de dicha fecha.
 
 #### Art. 19.
 
-1. Las autorizaciones de compatibilidad para el desempeño de puestos, cargos o actividades públicos que hubieren sido concedidas con arreglo a la legislación anterior han quedado sin efecto a partir del 25 de abril de 1985, por aplicación de la disposición final tercera, 1, de la Ley 53/1984, si bien con las salvedades que se establecen en el apartado 2 del presente artículo y en las disposiciones adicionales y transitorias de la propia Ley.
+1. Las autorizaciones de compatibilidad para el desempeño de puestos, cargos o actividades públicos que hubieren sido concedidas con arreglo a la legislación anterior han quedado sin efecto a partir del 25 de abril de 1985, por aplicación de la disposición final tercera, 1, de la [Ley 53/1984](../01_marco_normativo_general_y_organico/L53_1984_incompatibilidades_personal_servicio_administraciones_publicas.md), si bien con las salvedades que se establecen en el apartado 2 del presente artículo y en las disposiciones adicionales y transitorias de la propia Ley.
 
 2. Ello no obstante, las autorizaciones de compatibilidad concedidas a los funcionarios de la Administración Civil del Estado y sus Organismos autónomos afectados por el nuevo régimen de retribuciones previsto en el artículo 11 y concordantes de la Ley 50/1984, de 30 de diciembre, quedarán sin efecto a los tres meses de la entrada en vigor del mismo.
 
@@ -175,25 +175,25 @@ En el plazo indicado deberán ejercitar la opción establecida con carácter gen
 
 #### Art. 20.
 
-1. El Ministerio de la Presidencia procederá a adoptar las medidas necesarias para que se produzca el cese en el segundo puesto o actividad y se declare al interesado en la situación que proceda, respecto del personal que hubiere realizado la opción a que se refiere la disposición transitoria primera, a), de la Ley 53/1984.
+1. El Ministerio de la Presidencia procederá a adoptar las medidas necesarias para que se produzca el cese en el segundo puesto o actividad y se declare al interesado en la situación que proceda, respecto del personal que hubiere realizado la opción a que se refiere la disposición transitoria primera, a), de la [Ley 53/1984](../01_marco_normativo_general_y_organico/L53_1984_incompatibilidades_personal_servicio_administraciones_publicas.md).
 
-Cuando se trate de personal sometido al ámbito de aplicación de la [Ley 30/1984](../01_marco_normativo_general_y_organico/L30_1984_medidas_reforma_funcion_publica.md), de 2 de agosto, y el puesto en el que se haya de cesar esté comprendido en el artículo 2.º de la Ley 53/1984, de 26 de diciembre, la situación administrativa procedente será la que se determina en el apartado a) del artículo 29.3 De la disposición legal primeramente citada.
+Cuando se trate de personal sometido al ámbito de aplicación de la [Ley 30/1984](../01_marco_normativo_general_y_organico/L30_1984_medidas_reforma_funcion_publica.md), de 2 de agosto, y el puesto en el que se haya de cesar esté comprendido en el artículo 2.º de la [Ley 53/1984](../01_marco_normativo_general_y_organico/L53_1984_incompatibilidades_personal_servicio_administraciones_publicas.md), de 26 de diciembre, la situación administrativa procedente será la que se determina en el apartado a) del artículo 29.3 De la disposición legal primeramente citada.
 
 En todos los supuestos a que se refiere este apartado, el cese del interesado en la prestación de servicios en el segundo puesto se producirá como consecuencia de la declaración de excedencia adaptada por el órgano competente, cuyos efectos, en todo caso, no podrán ser posteriores al día último del mes siguiente a aquel en que se produjera la pertinente comunicación del Ministerio de la Presidencia.
 
-2. A falta de opción expresa antes del 25 de abril de 1985 o en el plazo establecido en el apartado 2 del artículo 19 de este Real Decreto, se entenderá que los interesados han optado por el puesto que resulte de la aplicación de los criterios contenidos en el apartado a) de la disposición transitoria primera de la Ley 53/1984, pasando a la situación de excedencia a la que, en su caso, corresponda.
+2. A falta de opción expresa antes del 25 de abril de 1985 o en el plazo establecido en el apartado 2 del artículo 19 de este Real Decreto, se entenderá que los interesados han optado por el puesto que resulte de la aplicación de los criterios contenidos en el apartado a) de la disposición transitoria primera de la [Ley 53/1984](../01_marco_normativo_general_y_organico/L53_1984_incompatibilidades_personal_servicio_administraciones_publicas.md), pasando a la situación de excedencia a la que, en su caso, corresponda.
 
 En los supuestos no previstos expresamente en la citada norma legal se atenderá al criterio de la mayor retribución.
 
 Si se percibieran haberes con posterioridad al plazo de opción sin haberla ejercitado, procederá al reintegro de los mismos, con independencia de la responsabilidad disciplinaria en que se hubiere podido incurrir.
 
-3. En el supuesto de que la opción expresada se haya realizado cumpliendo los requisitos que exige el apartado b) de la disposición transitoria primera de la Ley 53/1984, se autorizará la continuación en el desempeño del segundo puesto incompatible, durante un plazo máximo de tres años, si bien, cuando el desempeño de este segundo puesto derive de una relación contractual temporal, el plazo aludido no podrá exceder del tiempo que reste de duración del contrato.
+3. En el supuesto de que la opción expresada se haya realizado cumpliendo los requisitos que exige el apartado b) de la disposición transitoria primera de la [Ley 53/1984](../01_marco_normativo_general_y_organico/L53_1984_incompatibilidades_personal_servicio_administraciones_publicas.md), se autorizará la continuación en el desempeño del segundo puesto incompatible, durante un plazo máximo de tres años, si bien, cuando el desempeño de este segundo puesto derive de una relación contractual temporal, el plazo aludido no podrá exceder del tiempo que reste de duración del contrato.
 
 La retribución que ha de tomarse en consideración a los efectos previstos en el párrafo anterior, tendrá una cuantía máxima íntegra mensual de 79.875 pesetas, referidas a los devengos del mes de enero de 1985. A efectos del computo de la retribución indicada, no deberán incluirse las retribuciones personales por antigüedad, ayuda familiar u otras similares.
 
 Los servicios prestados en el segundo puesto no se computarán a efectos de trienios y otras percepciones que tengan su causa en la antigüedad, ni de derechos pasivos de la Seguridad Social.
 
-Concluido el periodo de tiempo durante el cual se aplaza la eficacia de la incompatibilidad, el interesado quedará en el segundo puesto en la situación de excedencia prevista en el apartado a) del artículo 29.3 de la Ley 30/1984, de 2 de agosto, o en la situación que corresponda en caso de no serle aplicable la expresada Ley.
+Concluido el periodo de tiempo durante el cual se aplaza la eficacia de la incompatibilidad, el interesado quedará en el segundo puesto en la situación de excedencia prevista en el apartado a) del artículo 29.3 de la [Ley 30/1984](../01_marco_normativo_general_y_organico/L30_1984_medidas_reforma_funcion_publica.md), de 2 de agosto, o en la situación que corresponda en caso de no serle aplicable la expresada Ley.
 
 #### Art. 21.
 
@@ -201,9 +201,9 @@ Sin perjuicio de lo establecido en el artículo 19.2 del presente Real Decreto, 
 
 #### Art. 22.
 
-1. Quienes vengan desempeñando alguna actividad privada que, con arreglo a las normas de la Ley 53/1984, y de este Real Decreto, resulte incompatible con la que realicen al servicio de la Administración, deberán optar por una y otra antes del 1 de enero de 1986. En caso de que no opten expresamente en dicho plazo se entenderá que optan por la actividad pública.
+1. Quienes vengan desempeñando alguna actividad privada que, con arreglo a las normas de la [Ley 53/1984](../01_marco_normativo_general_y_organico/L53_1984_incompatibilidades_personal_servicio_administraciones_publicas.md), y de este Real Decreto, resulte incompatible con la que realicen al servicio de la Administración, deberán optar por una y otra antes del 1 de enero de 1986. En caso de que no opten expresamente en dicho plazo se entenderá que optan por la actividad pública.
 
-2. Quienes vinieran ejerciendo una actividad privada que pueda resultar compatible con arreglo a la Ley 53/1984, deberán solicitar, antes del 1 de enero 1986, el correspondiente reconocimiento de compatibilidad ante el Ministerio de la Presidencia.
+2. Quienes vinieran ejerciendo una actividad privada que pueda resultar compatible con arreglo a la [Ley 53/1984](../01_marco_normativo_general_y_organico/L53_1984_incompatibilidades_personal_servicio_administraciones_publicas.md), deberán solicitar, antes del 1 de enero 1986, el correspondiente reconocimiento de compatibilidad ante el Ministerio de la Presidencia.
 
 3. En los dos supuestos anteriores, podrán ultimar los asuntos o actuaciones profesionales que tengan oficialmente indicados con anterioridad a la entrada en vigor del presente Real Decreto, siempre que no exista colisión con los intereses públicos y otra manifiesta incompatibilidad.
 
@@ -213,11 +213,11 @@ Sin perjuicio de lo establecido en el artículo 19.2 del presente Real Decreto, 
 
 El Ministerio de la Presidencia resolverá acerca de la compatibilidad solicitada a medida que se vaya procediendo a la reclasificación de puestos en el sector sanitario y a la reestructuración de los servicios, salvo que se trate de supuestos con situaciones de colisión de horarios o con otras incompatibilidades manifiestas.
 
-2. Cuando se trate de personal sanitario incluido en el ámbito de aplicación de la disposición transitoria tercera de la Ley 53/1984, habrá de tenerse en cuenta, por lo que al reconocimiento de compatibilidad de actividades privadas se refiere, lo que se determina en la regla quinta del artículo siguiente.
+2. Cuando se trate de personal sanitario incluido en el ámbito de aplicación de la disposición transitoria tercera de la [Ley 53/1984](../01_marco_normativo_general_y_organico/L53_1984_incompatibilidades_personal_servicio_administraciones_publicas.md), habrá de tenerse en cuenta, por lo que al reconocimiento de compatibilidad de actividades privadas se refiere, lo que se determina en la regla quinta del artículo siguiente.
 
 #### Art. 24.
 
-En los supuestos previstos en la disposición transitoria tercera de la Ley 53/1984, se aplicarán las siguientes reglas:
+En los supuestos previstos en la disposición transitoria tercera de la [Ley 53/1984](../01_marco_normativo_general_y_organico/L53_1984_incompatibilidades_personal_servicio_administraciones_publicas.md), se aplicarán las siguientes reglas:
 
 Primera.–El personal sanitario que viniera desempeñando dos puestos de trabajo en el sector público con anterioridad al 1 de enero de 1983, o hubiera obtenido autorización expresa entre dicha fecha y el 24 de enero de 1985, podrá seguir compatibilizando los dos puestos de trabajo en el sector público hasta el 30 de septiembre de 1985, sin necesidad de solicitar autorización para ello, siempre que no fueran incompatibles al 1 de enero de 1983, ni existiera coincidencias de horarios.
 
@@ -225,13 +225,13 @@ Segunda.–Esta situación transitoria finalizará antes de la indicada fecha cu
 
 Tercera.–A partir del día 1 de octubre de 1985 sólo podrán compatibilizarse dos puestos en el sector público sanitario si ambos se vinieran desempeñando a tiempo parcial, debiendo solicitarse en tales supuestos la correspondiente autorización de compatibilidad antes del día 1 de enero de 1986 si se deseara continuar en su desempeño hasta que tenga lugar la reordenación de alguno de los puestos, momento en el cual quedará automáticamente anulada la autorización de compatibilidad obtenida, debiendo optarse en el plazo de tres meses por uno de ellos.
 
-Cuarta.–Si, por el contrario, las actividades que se vinieran desempeñando, resultaran incompatibles como consecuencia de lo dispuesto en la Ley 53/1984, o en el presente Real Decreto, el interesado deberá cesar en una de ellas tras ejercer opción por la otra, de acuerdo con el procedimiento establecido al efecto. Dicha opción deberá formularse antes del día 1 de enero de 1986.
+Cuarta.–Si, por el contrario, las actividades que se vinieran desempeñando, resultaran incompatibles como consecuencia de lo dispuesto en la [Ley 53/1984](../01_marco_normativo_general_y_organico/L53_1984_incompatibilidades_personal_servicio_administraciones_publicas.md), o en el presente Real Decreto, el interesado deberá cesar en una de ellas tras ejercer opción por la otra, de acuerdo con el procedimiento establecido al efecto. Dicha opción deberá formularse antes del día 1 de enero de 1986.
 
-Quinta.–Sin perjuicio de lo dispuesto en los artículos 11 y 12 de la Ley 53/1984, el personal sanitario que viniere realizando actividad sanitaria privada podrá continuar desempeñándola, si no existe colisión de horarios o incompatibilidad manifiesta, hasta que surja la obligación de ejercitar la opción por uno de los puestos del sector público, o de solicitar la declaración de compatibilidad en los casos que sea posible de acuerdo con lo que se establece en las reglas anteriores, en cuyo momento deberá solicitarse conjuntamente el reconocimiento de compatibilidad de la actividad privada.
+Quinta.–Sin perjuicio de lo dispuesto en los artículos 11 y 12 de la [Ley 53/1984](../01_marco_normativo_general_y_organico/L53_1984_incompatibilidades_personal_servicio_administraciones_publicas.md), el personal sanitario que viniere realizando actividad sanitaria privada podrá continuar desempeñándola, si no existe colisión de horarios o incompatibilidad manifiesta, hasta que surja la obligación de ejercitar la opción por uno de los puestos del sector público, o de solicitar la declaración de compatibilidad en los casos que sea posible de acuerdo con lo que se establece en las reglas anteriores, en cuyo momento deberá solicitarse conjuntamente el reconocimiento de compatibilidad de la actividad privada.
 
 #### Art. 25
 
-1. En los supuestos a que se refiere la disposición transitoria cuarta de la Ley 53/1984, si la jornada que resulta del conjunto de actividad colectiva y docente asistencial es inferior a cuarenta horas semanales, no podrá autorizarse la compatibilidad para otro puesto en el sector público, pero sí será posible el reconocimiento de compatibilidad con actividades privadas.
+1. En los supuestos a que se refiere la disposición transitoria cuarta de la [Ley 53/1984](../01_marco_normativo_general_y_organico/L53_1984_incompatibilidades_personal_servicio_administraciones_publicas.md), si la jornada que resulta del conjunto de actividad colectiva y docente asistencial es inferior a cuarenta horas semanales, no podrá autorizarse la compatibilidad para otro puesto en el sector público, pero sí será posible el reconocimiento de compatibilidad con actividades privadas.
 
 2. Si el conjunto de actividades que se desarrollan en el sector público implica una jornada de trabajo igual o superior a las cuarenta horas semanales, se estimará que existe una dedicación a tiempo completo y, consiguientemente, no será posible la compatibilidad con cualquier otra actividad pública o privada.
 
@@ -239,7 +239,7 @@ Quinta.–Sin perjuicio de lo dispuesto en los artículos 11 y 12 de la Ley 53/1
 
 El personal que realice actividad sanitaria en hospitales de la Seguridad Social en régimen de jornada ordinaria podrá realizar ademas, solicitando al efecto el correspondiente reconocimiento de compatibilidad, una actividad sanitaria de carácter privado, salvo si percibe complemento de especial dedicación o cualquier otro de naturaleza similar.
 
-De conformidad con lo dispuesto en el artículo 12.1 a), de la Ley 53/1984, la citada actividad privada no podrá ser ejercida respecto de personas que estén siendo atendidas, o lo hayan sido en el curso del mismo proceso patológico, en el hospital en que se desempeña la actividad de carácter público.
+De conformidad con lo dispuesto en el artículo 12.1 a), de la [Ley 53/1984](../01_marco_normativo_general_y_organico/L53_1984_incompatibilidades_personal_servicio_administraciones_publicas.md), la citada actividad privada no podrá ser ejercida respecto de personas que estén siendo atendidas, o lo hayan sido en el curso del mismo proceso patológico, en el hospital en que se desempeña la actividad de carácter público.
 
 #### Art. 27.
 
@@ -255,7 +255,7 @@ Lo dispuesto en los párrafos anteriores será de aplicación únicamente en tan
 
 #### Art. 28
 
-1. La situación, contemplada en la disposición transitoria quinta de la Ley 53/1984, de los funcionarios de los Cuerpos Especiales al servicio de la Sanidad Local que deben prestar asistencia sanitaria a los beneficiarios de la Seguridad Social o tengan encomendadas actividades de salud pública, se mantendrá, sin necesidad de solicitud ni autorización de compatibilidad, hasta que tenga lugar la reestructuración de las funciones o Cuerpos aludidos.
+1. La situación, contemplada en la disposición transitoria quinta de la [Ley 53/1984](../01_marco_normativo_general_y_organico/L53_1984_incompatibilidades_personal_servicio_administraciones_publicas.md), de los funcionarios de los Cuerpos Especiales al servicio de la Sanidad Local que deben prestar asistencia sanitaria a los beneficiarios de la Seguridad Social o tengan encomendadas actividades de salud pública, se mantendrá, sin necesidad de solicitud ni autorización de compatibilidad, hasta que tenga lugar la reestructuración de las funciones o Cuerpos aludidos.
 
 2. El personal a que se refiere el apartado anterior podrá compatibilizar sus funciones con el ejercicio privado de la actividad sanitaria, siempre que se trate de personas que no esté incluidas en su cupo.
 
@@ -267,7 +267,7 @@ Lo dispuesto en los párrafos anteriores será de aplicación únicamente en tan
 
 #### [precepto]Primera.
 
-En tanto se proceda a la regulación de la materia por norma con rango de Ley, los Ministerios de Educación y Ciencia y de Sanidad y Consumo, en el ámbito de sus respectivas competencias, podrán determinar, de conformidad con el Ministerio de la Presidencia, los puestos de trabajo, en el sector público de investigación y en el sector público sanitario, que sean susceptibles de prestación a tiempo parcial, de acuerdo con lo previsto en la disposición adicional cuarta de la Ley 53/1984.
+En tanto se proceda a la regulación de la materia por norma con rango de Ley, los Ministerios de Educación y Ciencia y de Sanidad y Consumo, en el ámbito de sus respectivas competencias, podrán determinar, de conformidad con el Ministerio de la Presidencia, los puestos de trabajo, en el sector público de investigación y en el sector público sanitario, que sean susceptibles de prestación a tiempo parcial, de acuerdo con lo previsto en la disposición adicional cuarta de la [Ley 53/1984](../01_marco_normativo_general_y_organico/L53_1984_incompatibilidades_personal_servicio_administraciones_publicas.md).
 
 #### [precepto]Segunda.
 

@@ -177,7 +177,7 @@ concertados de la Comunidad Autónoma de Canarias (BOC nº 70, de 9 de abril).
 de 2007, que desarrolla el procedimiento de admisión del alumnado en las enseñanzas no 
 universitarias en los centros docentes públicos y privados concertados de la Comunidad 
 Autónoma de Canarias (BOC nº 58, de 23 de marzo).
-8) [Orden de 9 de octubre de 2013](../04_organizacion_escolar_y_funcionamiento/Ds_n_desarrolla_decreto_aprueba_reglamento_organico_centros.md), por la que se desarrolla el Decreto 81/2010, de 8 de 
+8) [Orden de 9 de octubre de 2013](../04_organizacion_escolar_y_funcionamiento/Ds_n_desarrolla_decreto_aprueba_reglamento_organico_centros.md), por la que se desarrolla el [Decreto 81/2010](../04_organizacion_escolar_y_funcionamiento/D81_2010_aprueba_reglamento_organico_centros_docentes_publicos.md), de 8 de 
 julio, por el que se aprueba el Reglamento Orgánico de los centros docentes públicos no 
 universitarios de la Comunidad Autónoma de Canarias, en lo referente a su organización y 
 funcionamiento (BOC nº 200, de 16 de octubre). 
@@ -438,7 +438,7 @@ Si la custodia es compartida o convive por igual con ambos progenitores, o el r�
 de traslado y recogida del centro es idéntico, se dará prioridad al centro más próximo al 
 domicilio o centro de trabajo de cualquiera de los progenitores.
 Quinta.- Cambios de centro durante el curso escolar. 
-1. Conforme establece el artículo 48 de la precitada Orden de 9 de octubre de 2013, una 
+1. Conforme establece el artículo 48 de la precitada [Orden de 9 de octubre de 2013](../04_organizacion_escolar_y_funcionamiento/Ds_n_desarrolla_decreto_aprueba_reglamento_organico_centros.md), una 
 vez iniciado el curso escolar, el cambio de centro que conlleva el correspondiente traslado 
 del historial académico y del informe personal por traslado o, en su caso, de la certificación 
 académica personal, será autorizado en cualquier momento del curso por la dirección del 
@@ -549,7 +549,7 @@ sobre lo que a la salud de sus hijos e hijas se refiere al ser inherente al ejer
 patria potestad compartida. Quien tenga asignada la guarda y custodia deberá comunicar 
 dicho incidente a la otra persona, en especial, cuando afecte al régimen de visitas acordado 
 judicialmente. Respecto a lo referido a la asistencia sanitaria del alumnado, se estará a lo 
-dispuesto en el artículo 64 de la referida Orden de 9 de octubre de 2013.
+dispuesto en el artículo 64 de la referida [Orden de 9 de octubre de 2013](../04_organizacion_escolar_y_funcionamiento/Ds_n_desarrolla_decreto_aprueba_reglamento_organico_centros.md).
 6. Solicitud de informes. Los padres, las madres o las personas representantes legales 
 pueden solicitar por escrito y previo registro en el centro, informes sobre datos o documentos 
 que ya existen en el expediente del alumnado, incluidos los informes psicopedagógicos, las 

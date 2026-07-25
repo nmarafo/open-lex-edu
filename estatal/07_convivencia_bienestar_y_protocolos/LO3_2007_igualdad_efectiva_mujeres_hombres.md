@@ -1220,7 +1220,7 @@ Veintiuno. Se añade una nueva disposición adicional decimoctava, en los siguie
 
 #### Disposición adicional duodécima. Modificaciones de la Ley de Prevención de Riesgos Laborales.
 
-La Ley 31/1995, de 8 de noviembre, de Prevención de Riesgos Laborales queda modificada como sigue:
+La [Ley 31/1995](../02_gestion_y_administracion_centros/L31_1995_prevencion_riesgos_laborales.md), de 8 de noviembre, de Prevención de Riesgos Laborales queda modificada como sigue:
 
 Uno. Se introduce un nuevo apartado 4 en el artículo 5, que quedará redactado como sigue:
 
@@ -1428,7 +1428,7 @@ c) Si el trabajador es mayor de 26 años de edad en la fecha del parto o en la f
 
 2. En el supuesto de parto, y con aplicación exclusiva a la madre biológica, la edad señalada en el apartado anterior será la que tenga cumplida la interesada en el momento de inicio del descanso, tomándose como referente el momento del parto a efectos de verificar la acreditación del período mínimo de cotización que, en su caso, corresponda.
 
-3. En los supuestos previstos en el penúltimo párrafo del artículo 48.4 del texto refundido de la Ley del Estatuto de los Trabajadores, aprobado por Real Decreto Legislativo 1/1995, de 24 de marzo, y en el párrafo octavo del artículo 30.3 de la Ley 30/1984, de 2 de agosto, de medidas para la reforma de la Función Pública, la edad señalada en el apartado 1 será la que tengan cumplida los interesados en el momento de inicio del descanso, tomándose como referente el momento de la resolución a efectos de verificar la acreditación del período mínimo de cotización que, en su caso, corresponda.
+3. En los supuestos previstos en el penúltimo párrafo del artículo 48.4 del texto refundido de la Ley del Estatuto de los Trabajadores, aprobado por Real Decreto Legislativo 1/1995, de 24 de marzo, y en el párrafo octavo del artículo 30.3 de la [Ley 30/1984](../01_marco_normativo_general_y_organico/L30_1984_medidas_reforma_funcion_publica.md), de 2 de agosto, de medidas para la reforma de la Función Pública, la edad señalada en el apartado 1 será la que tengan cumplida los interesados en el momento de inicio del descanso, tomándose como referente el momento de la resolución a efectos de verificar la acreditación del período mínimo de cotización que, en su caso, corresponda.
 
 [ignorar]Artículo 133 quáter. Prestación económica.
 
@@ -1458,7 +1458,7 @@ Paternidad
 
 [ignorar]Artículo 133 octies. Situación protegida.
 
-A efectos de la prestación por paternidad, se considerarán situaciones protegidas el nacimiento de hijo, la adopción y el acogimiento, tanto preadoptivo como permanente o simple, de conformidad con el Código Civil o las leyes civiles de las Comunidades Autónomas que lo regulen, siempre que, en este último caso, su duración no sea inferior a un año, y aunque dichos acogimientos sean provisionales, durante el período de suspensión que, por tales situaciones, se disfrute de acuerdo con lo previsto en el artículo 48. bis del texto refundido de la Ley del Estatuto de los Trabajadores, aprobado por Real Decreto Legislativo 1/1995, de 24 de marzo, o durante el período de permiso que se disfrute, en los mismos supuestos, de acuerdo con lo dispuesto en la letra a) del artículo 30.1 de la Ley 30/1984, de 2 de agosto, de Medidas para la reforma de la Función Pública.
+A efectos de la prestación por paternidad, se considerarán situaciones protegidas el nacimiento de hijo, la adopción y el acogimiento, tanto preadoptivo como permanente o simple, de conformidad con el Código Civil o las leyes civiles de las Comunidades Autónomas que lo regulen, siempre que, en este último caso, su duración no sea inferior a un año, y aunque dichos acogimientos sean provisionales, durante el período de suspensión que, por tales situaciones, se disfrute de acuerdo con lo previsto en el artículo 48. bis del texto refundido de la Ley del Estatuto de los Trabajadores, aprobado por Real Decreto Legislativo 1/1995, de 24 de marzo, o durante el período de permiso que se disfrute, en los mismos supuestos, de acuerdo con lo dispuesto en la letra a) del artículo 30.1 de la [Ley 30/1984](../01_marco_normativo_general_y_organico/L30_1984_medidas_reforma_funcion_publica.md), de 2 de agosto, de Medidas para la reforma de la Función Pública.
 
 [ignorar]Artículo 133 nonies. Beneficiarios.
 
@@ -1472,7 +1472,7 @@ Ocho. Se modifica el artículo 134 del texto refundido de la Ley General de la S
 
 «Artículo 134. Situación protegida.
 
-A los efectos de la prestación económica por riesgo durante el embarazo, se considera situación protegida el periodo de suspensión del contrato de trabajo en los supuestos en que, debiendo la mujer trabajadora cambiar de puesto de trabajo por otro compatible con su estado, en los términos previstos en el artículo 26, apartado 3, de la Ley 31/1995, de 8 de noviembre, de Prevención de Riesgos Laborales, dicho cambio de puesto no resulte técnica u objetivamente posible, o no pueda razonablemente exigirse por motivos justificados.
+A los efectos de la prestación económica por riesgo durante el embarazo, se considera situación protegida el periodo de suspensión del contrato de trabajo en los supuestos en que, debiendo la mujer trabajadora cambiar de puesto de trabajo por otro compatible con su estado, en los términos previstos en el artículo 26, apartado 3, de la [Ley 31/1995](../02_gestion_y_administracion_centros/L31_1995_prevencion_riesgos_laborales.md), de 8 de noviembre, de Prevención de Riesgos Laborales, dicho cambio de puesto no resulte técnica u objetivamente posible, o no pueda razonablemente exigirse por motivos justificados.
 
 La prestación correspondiente a la situación de riesgo durante el embarazo tendrá la naturaleza de prestación derivada de contingencias profesionales.»
 
@@ -1496,7 +1496,7 @@ Riesgo durante la lactancia natural
 
 [ignorar]Artículo 135 bis. Situación protegida.
 
-A los efectos de la prestación económica por riesgo durante la lactancia natural, se considera situación protegida el período de suspensión del contrato de trabajo en los supuestos en que, debiendo la mujer trabajadora cambiar de puesto de trabajo por otro compatible con su situación, en los términos previstos en el artículo 26.4 de la Ley 31/1995, de 8 de noviembre, de prevención de riesgos laborales, dicho cambio de puesto no resulte técnica u objetivamente posible, o no pueda razonablemente exigirse por motivos justificados.
+A los efectos de la prestación económica por riesgo durante la lactancia natural, se considera situación protegida el período de suspensión del contrato de trabajo en los supuestos en que, debiendo la mujer trabajadora cambiar de puesto de trabajo por otro compatible con su situación, en los términos previstos en el artículo 26.4 de la [Ley 31/1995](../02_gestion_y_administracion_centros/L31_1995_prevencion_riesgos_laborales.md), de 8 de noviembre, de prevención de riesgos laborales, dicho cambio de puesto no resulte técnica u objetivamente posible, o no pueda razonablemente exigirse por motivos justificados.
 
 [ignorar]Artículo 135 ter. Prestación económica.
 
@@ -1590,7 +1590,7 @@ A efectos de las pensiones contributivas de jubilación y de incapacidad permane
 
 #### Disposición adicional decimonovena. Modificaciones a la Ley de Medidas para la Reforma de la Función Pública.
 
-Se modifican los siguientes preceptos de la Ley 30/1984, de 2 de agosto, de Medidas para la Reforma de la Función Pública:
+Se modifican los siguientes preceptos de la [Ley 30/1984](../01_marco_normativo_general_y_organico/L30_1984_medidas_reforma_funcion_publica.md), de 2 de agosto, de Medidas para la Reforma de la Función Pública:
 
 Uno. Se modifica el párrafo segundo del artículo 29.4, que queda redactado de la siguiente manera:
 
@@ -1712,7 +1712,7 @@ Cinco. Se incluye un nuevo apartado 6 en el artículo 148, con la siguiente reda
 
 El apartado 3 del artículo 69 del texto articulado de la Ley de Funcionarios Civiles del Estado, aprobado por Decreto 315/1964, de 7 de febrero, queda redactado como sigue:
 
-«3. Cuando las circunstancias a que se refieren los números 3 y 4 del artículo 26 de la Ley 31/1995, de 8 de noviembre, de Prevención de Riesgos Laborales, afectasen a una funcionaria incluida en el ámbito de aplicación del mutualismo administrativo, podrá concederse licencia por riesgo durante el embarazo o licencia por riesgo durante la lactancia en los mismos términos y condiciones que las previstas en los números anteriores.»
+«3. Cuando las circunstancias a que se refieren los números 3 y 4 del artículo 26 de la [Ley 31/1995](../02_gestion_y_administracion_centros/L31_1995_prevencion_riesgos_laborales.md), de 8 de noviembre, de Prevención de Riesgos Laborales, afectasen a una funcionaria incluida en el ámbito de aplicación del mutualismo administrativo, podrá concederse licencia por riesgo durante el embarazo o licencia por riesgo durante la lactancia en los mismos términos y condiciones que las previstas en los números anteriores.»
 
 #### Disposición adicional vigésima segunda. Modificación de la Ley 55/2003, del Estatuto Marco del Personal Estatutario de los Servicios de salud.
 
@@ -1836,7 +1836,7 @@ En tanto no se aprueben las disposiciones reglamentarias a las que se refiere el
 
 #### Disposición transitoria sexta. Retroactividad de efectos para medidas de conciliación.
 
-Los preceptos de la Ley 30/1984, de 2 de agosto, de Medidas para la reforma de la Función Pública modificados por esta Ley tendrán carácter retroactivo respecto de los hechos causantes originados y vigentes a 1 de enero de 2006 en el ámbito de la Administración General del Estado.
+Los preceptos de la [Ley 30/1984](../01_marco_normativo_general_y_organico/L30_1984_medidas_reforma_funcion_publica.md), de 2 de agosto, de Medidas para la reforma de la Función Pública modificados por esta Ley tendrán carácter retroactivo respecto de los hechos causantes originados y vigentes a 1 de enero de 2006 en el ámbito de la Administración General del Estado.
 
 #### Disposición transitoria séptima. Régimen transitorio de los nuevos derechos en materia de maternidad, paternidad, riesgo durante el embarazo y consideración como cotizados a efectos de Seguridad Social de determinados períodos.
 

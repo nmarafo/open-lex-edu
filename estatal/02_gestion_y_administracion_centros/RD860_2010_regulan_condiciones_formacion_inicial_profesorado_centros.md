@@ -40,7 +40,7 @@ fundamentos_derecho:
 ---
 # Real Decreto 860/2010, de 2 de julio, por el que se regulan las condiciones de formación inicial del profesorado de los centros privados para ejercer la docencia en las enseñanzas de educación secundaria obligatoria o de bachillerato.
 
-El artículo 94 de la [Ley Orgánica 2/2006](../01_marco_normativo_general_y_organico/LO2_2006_educacion_texto_consolidado_modificaciones_lomloe.md), de 3 de mayo, de Educación, supedita el ejercicio de la docencia en las enseñanzas de Educación Secundaria Obligatoria y de Bachillerato a dos requisitos de formación. En primer lugar, será necesario tener un título oficial de Licenciado, Ingeniero o Arquitecto, o un título de Educación superior de Graduado, sin perjuicio de la habilitación de otras titulaciones que, a efectos de docencia pudiera establecerse. Además, será necesario estar en posesión de un título oficial de Máster que acredite la formación pedagógica y didáctica de acuerdo con lo exigido por el artículos 94 de la Ley Orgánica 2/2006, de 3 de mayo, de Educación.
+El artículo 94 de la [Ley Orgánica 2/2006](../01_marco_normativo_general_y_organico/LO2_2006_educacion_texto_consolidado_modificaciones_lomloe.md), de 3 de mayo, de Educación, supedita el ejercicio de la docencia en las enseñanzas de Educación Secundaria Obligatoria y de Bachillerato a dos requisitos de formación. En primer lugar, será necesario tener un título oficial de Licenciado, Ingeniero o Arquitecto, o un título de Educación superior de Graduado, sin perjuicio de la habilitación de otras titulaciones que, a efectos de docencia pudiera establecerse. Además, será necesario estar en posesión de un título oficial de Máster que acredite la formación pedagógica y didáctica de acuerdo con lo exigido por el artículos 94 de la [Ley Orgánica 2/2006](../01_marco_normativo_general_y_organico/LO2_2006_educacion_texto_consolidado_modificaciones_lomloe.md), de 3 de mayo, de Educación.
 
 Las condiciones de formación para el ejercicio de la docencia en la Educación Secundaria Obligatoria y el Bachillerato en los centros públicos quedaron establecidas mediante el [Real Decreto 1834/2008](RD1834_2008_definen_condiciones_formacion_ejercicio_docencia_educacion.md), de 8 de noviembre, por el que se definen las condiciones de formación para el ejercicio de la docencia en la Educación Secundaria Obligatoria, el Bachillerato, la formación profesional y las enseñanzas de régimen especial y se establecen las especialidades de los cuerpos docentes de enseñanza secundaria. La disposición transitoria primera de este Real Decreto preveía que, mientras tanto no se actualicen las exigencias de titulación, continuarán siendo de aplicación las contenidas en la Orden de 24 de julio de 1995, por la que se regulan las titulaciones mínimas que deben poseer los profesores de los centros privados de Educación Secundaria Obligatoria y Bachillerato, y en la Orden ECI/759/2008, de 19 de febrero, que la complementa.
 
@@ -66,7 +66,7 @@ a) Tener un título de Licenciado, Ingeniero o Arquitecto, o un título oficial 
 
 b) Acreditar una cualificación específica adecuada para impartir las materias respectivas.
 
-c) Tener la formación pedagógica y didáctica a la que hace referencia el artículo 100.2 de la Ley Orgánica 2/2006, de 3 de mayo, de Educación.
+c) Tener la formación pedagógica y didáctica a la que hace referencia el artículo 100.2 de la [Ley Orgánica 2/2006](../01_marco_normativo_general_y_organico/LO2_2006_educacion_texto_consolidado_modificaciones_lomloe.md), de 3 de mayo, de Educación.
 
 #### Artículo 3. Acreditación de la cualificación específica.
 
@@ -74,7 +74,7 @@ c) Tener la formación pedagógica y didáctica a la que hace referencia el art�
 
 a) La acreditación de alguna de las condiciones de formación inicial exigidas para impartir la correspondiente materia que se encuentran recogidas en el anexo de este Real Decreto.
 
-b) La certificación de haber superado la prueba a que hace referencia el artículo 21.1 del [Real Decreto 276/2007](../08_personal_docente/RD592_2007_eci_aprueba_temario_ha_regir_procedimiento.md), de 23 de febrero, por el que se aprueba el Reglamento de ingreso, accesos y adquisición de nuevas especialidades en los cuerpos docentes a que se refiere la Ley Orgánica 2/2006, de 3 de mayo, de Educación, y se regula el régimen transitorio de ingreso a que se refiere la disposición transitoria decimoséptima de la citada Ley, de la especialidad a la que está asignada la materia correspondiente en los anexos III, IV y V del Real Decreto 1834/2008, de 8 de noviembre, por el que se definen las condiciones de formación para el ejercicio de la docencia en la Educación Secundaria Obligatoria, el Bachillerato, la formación profesional y las enseñanzas de régimen especial y se establecen las especialidades de los cuerpos docentes de enseñanza secundaria.
+b) La certificación de haber superado la prueba a que hace referencia el artículo 21.1 del [Real Decreto 276/2007](../08_personal_docente/RD592_2007_eci_aprueba_temario_ha_regir_procedimiento.md), de 23 de febrero, por el que se aprueba el Reglamento de ingreso, accesos y adquisición de nuevas especialidades en los cuerpos docentes a que se refiere la [Ley Orgánica 2/2006](../01_marco_normativo_general_y_organico/LO2_2006_educacion_texto_consolidado_modificaciones_lomloe.md), de 3 de mayo, de Educación, y se regula el régimen transitorio de ingreso a que se refiere la disposición transitoria decimoséptima de la citada Ley, de la especialidad a la que está asignada la materia correspondiente en los anexos III, IV y V del [Real Decreto 1834/2008](./RD1834_2008_definen_condiciones_formacion_ejercicio_docencia_educacion.md), de 8 de noviembre, por el que se definen las condiciones de formación para el ejercicio de la docencia en la Educación Secundaria Obligatoria, el Bachillerato, la formación profesional y las enseñanzas de régimen especial y se establecen las especialidades de los cuerpos docentes de enseñanza secundaria.
 
 2. La experiencia docente o de la formación de educación superior adecuada para impartir el currículo de la materia podrá acreditarse mediante alguno de los siguientes procedimientos:
 
@@ -86,7 +86,7 @@ c) Realización de actividades de formación del profesorado, relacionadas con d
 
 #### Artículo 4. Formación pedagógica y didáctica.
 
-El profesorado que imparta Educación Secundaria Obligatoria o Bachillerato deberá acreditar la formación pedagógica y didáctica establecida en el artículo 100.2 de la Ley Orgánica 2/2006, de 3 de mayo, de Educación, por tanto, estar en posesión del correspondiente título de Máster regulado por la Orden ECI/3858/2007, de 27 de diciembre, por la que se establecen los requisitos de verificación de los títulos universitarios oficiales que habiliten para el ejercicio de las profesiones de profesor de Educación Secundaria Obligatoria y Bachillerato, Formación Profesional y Enseñanza de Idiomas.
+El profesorado que imparta Educación Secundaria Obligatoria o Bachillerato deberá acreditar la formación pedagógica y didáctica establecida en el artículo 100.2 de la [Ley Orgánica 2/2006](../01_marco_normativo_general_y_organico/LO2_2006_educacion_texto_consolidado_modificaciones_lomloe.md), de 3 de mayo, de Educación, por tanto, estar en posesión del correspondiente título de Máster regulado por la Orden ECI/3858/2007, de 27 de diciembre, por la que se establecen los requisitos de verificación de los títulos universitarios oficiales que habiliten para el ejercicio de las profesiones de profesor de Educación Secundaria Obligatoria y Bachillerato, Formación Profesional y Enseñanza de Idiomas.
 
 #### Artículo 5. Condiciones de formación para ejercer funciones de orientación educativa.
 
@@ -94,7 +94,7 @@ El profesorado que imparta Educación Secundaria Obligatoria o Bachillerato debe
 
 2. Asimismo, podrán desarrollar la función de orientación educativa aquellos profesores que, con titulación de Licenciado o Graduado, acrediten la formación complementaria suficiente que determinen las Administraciones educativas. En todo caso, deberán acreditar, mediante la formación regulada por las Administraciones educativas, las competencias necesarias para el desempeño de sus funciones en relación con el alumnado con necesidades educativas especiales derivadas de discapacidad.
 
-3. El profesorado de Orientación educativa realizará tareas de orientación y, además, podrá desempeñar docencia en las condiciones establecidas en los artículos 2 y 3. En ambos casos se deberá acreditar la formación pedagógica y didáctica establecida en el artículo 100.2 de la Ley Orgánica 2/2006, de 3 de mayo, de Educación, por tanto, estar en posesión del correspondiente título de Máster regulado por la Orden ECI/3858/2007, de 27 de diciembre.
+3. El profesorado de Orientación educativa realizará tareas de orientación y, además, podrá desempeñar docencia en las condiciones establecidas en los artículos 2 y 3. En ambos casos se deberá acreditar la formación pedagógica y didáctica establecida en el artículo 100.2 de la [Ley Orgánica 2/2006](../01_marco_normativo_general_y_organico/LO2_2006_educacion_texto_consolidado_modificaciones_lomloe.md), de 3 de mayo, de Educación, por tanto, estar en posesión del correspondiente título de Máster regulado por la Orden ECI/3858/2007, de 27 de diciembre.
 
 #### Artículo 6. Profesorado de apoyo.
 
@@ -102,7 +102,7 @@ Las Administraciones educativas podrán determinar la cualificación específica
 
 #### Artículo 7. Programas de diversificación curricular, programas de cualificación profesional inicial y materias optativas.
 
-1. Los ámbitos de los programas de diversificación curricular y los de los módulos voluntarios de los programas de cualificación profesional inicial previstos en el artículo 30.3.c) de la Ley Orgánica 2/2006, de 3 de mayo, de Educación, serán impartidos por el profesorado que reúna los requisitos de formación inicial para impartir cualquiera de las materias que se integran en dichos ámbitos.
+1. Los ámbitos de los programas de diversificación curricular y los de los módulos voluntarios de los programas de cualificación profesional inicial previstos en el artículo 30.3.c) de la [Ley Orgánica 2/2006](../01_marco_normativo_general_y_organico/LO2_2006_educacion_texto_consolidado_modificaciones_lomloe.md), de 3 de mayo, de Educación, serán impartidos por el profesorado que reúna los requisitos de formación inicial para impartir cualquiera de las materias que se integran en dichos ámbitos.
 
 2. Las Administraciones educativas regularán los requisitos para la acreditación de la cualificación específica adecuada para impartir las materias optativas no reguladas por este real decreto y que formen parte del currículo de la Educación Secundaria Obligatoria o del Bachillerato, así como de los módulos obligatorios de los programas de cualificación profesional inicial.
 
@@ -116,11 +116,11 @@ El profesorado que, a la entrada en vigor de este real decreto, reúna los requi
 
 #### Disposición adicional segunda. Docencia de maestros en la Educación Secundaria Obligatoria.
 
-De acuerdo con lo dispuesto en la disposición transitoria primera de la Ley Orgánica 2/2006, de 3 de mayo, de Educación, los maestros que vengan impartiendo los dos primeros cursos de la Educación Secundaria Obligatoria podrán continuar realizando la misma función en los puestos que vienen ocupando o incorporarse a otros centros privados.
+De acuerdo con lo dispuesto en la disposición transitoria primera de la [Ley Orgánica 2/2006](../01_marco_normativo_general_y_organico/LO2_2006_educacion_texto_consolidado_modificaciones_lomloe.md), de 3 de mayo, de Educación, los maestros que vengan impartiendo los dos primeros cursos de la Educación Secundaria Obligatoria podrán continuar realizando la misma función en los puestos que vienen ocupando o incorporarse a otros centros privados.
 
 #### Disposición adicional tercera. Enseñanza de lengua extranjera en educación primaria.
 
-El profesorado que reúna los requisitos para impartir docencia de lenguas extranjeras en la Educación Secundaria Obligatoria o Bachillerato podrá excepcionalmente y por un tiempo limitado, impartir enseñanzas de las lenguas extranjeras respectivas en la etapa de Educación primaria, por extensión y analogía con lo dispuesto en la disposición adicional séptima de la Ley Orgánica 2/2006, de 3 de mayo, de Educación. A estos efectos, las Administraciones educativas deberán fijar en su ámbito de gestión, el tiempo máximo durante el que este profesorado podrá impartir docencia en educación primaria.
+El profesorado que reúna los requisitos para impartir docencia de lenguas extranjeras en la Educación Secundaria Obligatoria o Bachillerato podrá excepcionalmente y por un tiempo limitado, impartir enseñanzas de las lenguas extranjeras respectivas en la etapa de Educación primaria, por extensión y analogía con lo dispuesto en la disposición adicional séptima de la [Ley Orgánica 2/2006](../01_marco_normativo_general_y_organico/LO2_2006_educacion_texto_consolidado_modificaciones_lomloe.md), de 3 de mayo, de Educación. A estos efectos, las Administraciones educativas deberán fijar en su ámbito de gestión, el tiempo máximo durante el que este profesorado podrá impartir docencia en educación primaria.
 
 #### Disposición adicional cuarta. Referencia a títulos de Licenciado, Ingeniero o Arquitecto y adscripción de titulaciones a ramas o áreas de conocimientos.
 
@@ -148,9 +148,9 @@ Hasta el 31 de agosto de 2010, la cualificación específica a la que se refiere
 
 #### Disposición transitoria segunda. Acreditación de la formación pedagógica y didáctica.
 
-1. Los títulos profesionales de Especialización Didáctica, el Certificado de Cualificación Pedagógica, el Certificado de Aptitud Pedagógica, los títulos de Maestro, de Licenciado en Pedagogía y en Psicopedagogía y los de quienes estén en posesión de licenciatura o titulación equivalente que incluya formación pedagógica y didáctica obtenidos antes del 1 de octubre de 2009, acreditarán la formación pedagógica y didáctica a la que se refiere el artículo 100.2 de la Ley Orgánica 2/2006, de acuerdo con lo establecido en la disposición transitoria octava de la Ley Orgánica 2/2006, de 3 de mayo, de Educación, y en la disposición transitoria tercera del Real Decreto 1834/2008, de 8 de noviembre, por el que se definen las condiciones de formación para el ejercicio de la docencia en la Educación Secundaria Obligatoria, el Bachillerato, la formación profesional y las enseñanzas de régimen especial y se establecen las especialidades de los cuerpos docentes de enseñanza secundaria.
+1. Los títulos profesionales de Especialización Didáctica, el Certificado de Cualificación Pedagógica, el Certificado de Aptitud Pedagógica, los títulos de Maestro, de Licenciado en Pedagogía y en Psicopedagogía y los de quienes estén en posesión de licenciatura o titulación equivalente que incluya formación pedagógica y didáctica obtenidos antes del 1 de octubre de 2009, acreditarán la formación pedagógica y didáctica a la que se refiere el artículo 100.2 de la [Ley Orgánica 2/2006](../01_marco_normativo_general_y_organico/LO2_2006_educacion_texto_consolidado_modificaciones_lomloe.md), de acuerdo con lo establecido en la disposición transitoria octava de la [Ley Orgánica 2/2006](../01_marco_normativo_general_y_organico/LO2_2006_educacion_texto_consolidado_modificaciones_lomloe.md), de 3 de mayo, de Educación, y en la disposición transitoria tercera del [Real Decreto 1834/2008](./RD1834_2008_definen_condiciones_formacion_ejercicio_docencia_educacion.md), de 8 de noviembre, por el que se definen las condiciones de formación para el ejercicio de la docencia en la Educación Secundaria Obligatoria, el Bachillerato, la formación profesional y las enseñanzas de régimen especial y se establecen las especialidades de los cuerpos docentes de enseñanza secundaria.
 
-2. De acuerdo con lo establecido en la disposición transitoria cuarta del citado Real Decreto 1834/2008, a quienes acrediten haber impartido, hasta el término del curso 2008-2009, docencia durante dos cursos académicos completos o, en su defecto, 12 meses en períodos continuos o discontinuos, en centros públicos o privados de enseñanza reglada debidamente autorizados, en los niveles y enseñanzas cuyas especialidades docentes se regulan en el citado real decreto, se les reconocerá dicha docencia como equivalente a la formación pedagógica y didáctica establecida en el artículo 100.2 de la Ley Orgánica 2/2006, de 3 de mayo, de Educación.
+2. De acuerdo con lo establecido en la disposición transitoria cuarta del citado [Real Decreto 1834/2008](./RD1834_2008_definen_condiciones_formacion_ejercicio_docencia_educacion.md), a quienes acrediten haber impartido, hasta el término del curso 2008-2009, docencia durante dos cursos académicos completos o, en su defecto, 12 meses en períodos continuos o discontinuos, en centros públicos o privados de enseñanza reglada debidamente autorizados, en los niveles y enseñanzas cuyas especialidades docentes se regulan en el citado real decreto, se les reconocerá dicha docencia como equivalente a la formación pedagógica y didáctica establecida en el artículo 100.2 de la [Ley Orgánica 2/2006](../01_marco_normativo_general_y_organico/LO2_2006_educacion_texto_consolidado_modificaciones_lomloe.md), de 3 de mayo, de Educación.
 
 #### Disposición derogatoria única. Derogación normativa.
 
@@ -192,7 +192,7 @@ Análisis Musical.
 
 BTO
 
-Título superior de Música (artículo 42.3 de la Ley Orgánica 1/1990, de 3 de octubre) o titulaciones declaradas equivalentes a efectos de docencia. Título de Graduado en Música. Licenciado en Musicología o en Historia y Ciencia de la Música.
+Título superior de Música (artículo 42.3 de la [Ley Orgánica 1/1990](./LO1_1990_regula_regimen_equivalencias_estudios_basicos_medios.md), de 3 de octubre) o titulaciones declaradas equivalentes a efectos de docencia. Título de Graduado en Música. Licenciado en Musicología o en Historia y Ciencia de la Música.
 
 Lenguaje y Práctica Musical.
 
@@ -200,25 +200,25 @@ Historia de la Música y de la Danza.
 
 BTO
 
-Título superior de Música o de Danza (artículo 42.3 de la Ley Orgánica 1/1990, de 3 de octubre) o titulaciones declaradas equivalentes a efectos de docencia. Título de Graduado en Música o en Danza. Licenciado en Musicología o en Historia y Ciencia de la Música.
+Título superior de Música o de Danza (artículo 42.3 de la [Ley Orgánica 1/1990](./LO1_1990_regula_regimen_equivalencias_estudios_basicos_medios.md), de 3 de octubre) o titulaciones declaradas equivalentes a efectos de docencia. Título de Graduado en Música o en Danza. Licenciado en Musicología o en Historia y Ciencia de la Música.
 
 Anatomía Aplicada.
 
 BTO
 
-Título superior de Danza (artículo 42.3 de la Ley Orgánica 1/1990, de 3 de octubre) o enseñanzas declaradas equivalentes a efectos de docencia. Título de Graduado en Danza. Cualquier titulo de Licenciado del área de Ciencias Experimentales y de la Salud o cualquier título oficial de Graduado de la rama de conocimiento de Ciencias de la Salud, y acreditar una experiencia docente o una formación superior adecuada para impartir el currículo de la materia.
+Título superior de Danza (artículo 42.3 de la [Ley Orgánica 1/1990](./LO1_1990_regula_regimen_equivalencias_estudios_basicos_medios.md), de 3 de octubre) o enseñanzas declaradas equivalentes a efectos de docencia. Título de Graduado en Danza. Cualquier titulo de Licenciado del área de Ciencias Experimentales y de la Salud o cualquier título oficial de Graduado de la rama de conocimiento de Ciencias de la Salud, y acreditar una experiencia docente o una formación superior adecuada para impartir el currículo de la materia.
 
 Artes Escénicas.
 
 BTO
 
-Título superior de Arte Dramático (artículo 45.1 de la Ley Orgánica 1/1990, de 3 de octubre) o titulaciones declaradas equivalentes a efectos de docencia. Título de Graduado en Arte Dramático. Cualquier título de Licenciado del área de Humanidades o de las Ciencias Sociales y Jurídicas o cualquier título oficial de Graduado de la rama de conocimiento de Artes y Humanidades o de Ciencias Sociales y Jurídicas, y acreditar una experiencia docente o una formación superior adecuada para impartir el currículo de la materia.
+Título superior de Arte Dramático (artículo 45.1 de la [Ley Orgánica 1/1990](./LO1_1990_regula_regimen_equivalencias_estudios_basicos_medios.md), de 3 de octubre) o titulaciones declaradas equivalentes a efectos de docencia. Título de Graduado en Arte Dramático. Cualquier título de Licenciado del área de Humanidades o de las Ciencias Sociales y Jurídicas o cualquier título oficial de Graduado de la rama de conocimiento de Artes y Humanidades o de Ciencias Sociales y Jurídicas, y acreditar una experiencia docente o una formación superior adecuada para impartir el currículo de la materia.
 
 Música.
 
 ESO
 
-Licenciado en Historia y Ciencias de la Música. Título superior de Música (artículo 42.3 de la Ley Orgánica 1/1990, de 3 de octubre), o titulaciones declaradas equivalentes a efectos de docencia. Título de Graduado en Música. Cualquier titulación de Licenciado, Ingeniero, Arquitecto o Graduado, y acreditar estar en posesión del Título Profesional de Música (artículo 42.2 de la Ley Orgánica 1/1990, de 3 de octubre, o artículo 50.1 de la Ley Orgánica 2/2006, de 3 de mayo) o el Título de Profesor regulado en el Decreto 2618/1966, de 10 de septiembre, de Reglamentación General de los Conservatorios de Música.
+Licenciado en Historia y Ciencias de la Música. Título superior de Música (artículo 42.3 de la [Ley Orgánica 1/1990](./LO1_1990_regula_regimen_equivalencias_estudios_basicos_medios.md), de 3 de octubre), o titulaciones declaradas equivalentes a efectos de docencia. Título de Graduado en Música. Cualquier titulación de Licenciado, Ingeniero, Arquitecto o Graduado, y acreditar estar en posesión del Título Profesional de Música (artículo 42.2 de la [Ley Orgánica 1/1990](./LO1_1990_regula_regimen_equivalencias_estudios_basicos_medios.md), de 3 de octubre, o artículo 50.1 de la [Ley Orgánica 2/2006](../01_marco_normativo_general_y_organico/LO2_2006_educacion_texto_consolidado_modificaciones_lomloe.md), de 3 de mayo) o el Título de Profesor regulado en el Decreto 2618/1966, de 10 de septiembre, de Reglamentación General de los Conservatorios de Música.
 
 Cultura Audiovisual.
 

@@ -44,9 +44,9 @@ fundamentos_derecho:
 
 La Ley 2/2011, de 4 de marzo, de Economía Sostenible, en su disposición final vigésima cuarta, apartado 3, introduce modificaciones en algunos artículos de la [Ley Orgánica 2/2006](../01_marco_normativo_general_y_organico/LO2_2006_educacion_texto_consolidado_modificaciones_lomloe.md), de 3 de mayo, de Educación, destinadas a favorecer la adecuación del sistema educativo a la distintas situaciones y características del alumnado después de una escolarización de 9 años desde el inicio de la educación primaria, así como a favorecer que los estudiantes puedan continuar su formación una vez finalizada la Educación Secundaria Obligatoria. En esta línea se adelanta la edad de acceso a los Programas de Cualificación Profesional Inicial a los 15 años.
 
-Por otra parte la Ley Orgánica 4/2011, de 11 de marzo, complementaria de la Ley de Economía Sostenible, recoge modificaciones normativas de la Ley Orgánica 2/2006, de 3 de mayo, de Educación, dirigidas a establecer opciones orientadas hacia las diferentes modalidades de bachillerato y hacia los diferentes ciclos de grado medio de formación profesional, a fin de orientar la elección del alumnado, organizar los Programas de cualificación profesional inicial y establecer un certificado oficial en el que conste el nivel de adquisición de las competencias básicas del alumnado que finalice la educación secundaria obligatoria sin obtener el título de Graduado en Educación Secundaria Obligatoria.
+Por otra parte la Ley Orgánica 4/2011, de 11 de marzo, complementaria de la Ley de Economía Sostenible, recoge modificaciones normativas de la [Ley Orgánica 2/2006](../01_marco_normativo_general_y_organico/LO2_2006_educacion_texto_consolidado_modificaciones_lomloe.md), de 3 de mayo, de Educación, dirigidas a establecer opciones orientadas hacia las diferentes modalidades de bachillerato y hacia los diferentes ciclos de grado medio de formación profesional, a fin de orientar la elección del alumnado, organizar los Programas de cualificación profesional inicial y establecer un certificado oficial en el que conste el nivel de adquisición de las competencias básicas del alumnado que finalice la educación secundaria obligatoria sin obtener el título de Graduado en Educación Secundaria Obligatoria.
 
-Para ello, la citada Ley Orgánica Complementaria regula los aspectos orgánicos en materia educativa que complementan las disposiciones de la Ley 2/2011, de 4 de marzo, de Economía Sostenible, mediante la modificación de algunos artículos contenidos en la Ley Orgánica 2/2006, de 3 de mayo, de Educación.
+Para ello, la citada Ley Orgánica Complementaria regula los aspectos orgánicos en materia educativa que complementan las disposiciones de la Ley 2/2011, de 4 de marzo, de Economía Sostenible, mediante la modificación de algunos artículos contenidos en la [Ley Orgánica 2/2006](../01_marco_normativo_general_y_organico/LO2_2006_educacion_texto_consolidado_modificaciones_lomloe.md), de 3 de mayo, de Educación.
 
 De estas modificaciones se deriva la necesidad de reformar el Real Decreto 1631/2006, de 29 de diciembre, por el que se establecen las enseñanzas mínimas correspondientes a la Educación Secundaria Obligatoria, así como los reales decretos 1834/2008 y 860/2010, para adecuarlos a los cambios que se han producido en la citada Ley Orgánica. Las medidas propuestas persiguen la ampliación y flexibilización de la oferta educativa dirigida a los alumnos de 15 años que se encuentran al final de la escolarización obligatoria, para tratar de favorecer que concluyan con éxito sus estudios obligatorios. Por un lado, se profundiza en el carácter orientador del 4.º curso de la ESO, diseñando tres opciones, que no condicionan las modalidades de Bachillerato o de ciclos formativos de formación profesional de grado medio que puedan cursarse, e introduciendo tres nuevas materias en el currículo (Alimentación, nutrición y salud, Ciencias aplicadas a la actividad profesional y Orientación profesional e iniciativa emprendedora). Por otra parte, los alumnos de 15 años podrán acceder a los Programas de cualificación profesional inicial siempre y cuando se considere que es la mejor opción para finalizar con éxito la educación obligatoria y continuar estudios postobligatorios. Estos alumnos obtendrán el título de Graduado en Educación Secundaria Obligatoria, siempre que adquieran las competencias básicas establecidas en el Real Decreto 1631/2006, de 29 de diciembre, por el que se establecen las enseñanzas mínimas correspondientes a la Educación Secundaria Obligatoria.
 
@@ -62,7 +62,7 @@ Uno. Se modifica el artículo 5 del Real Decreto 1631/2006 que queda redactado e
 
 «Artículo 5. Organización del cuarto curso.
 
-1. De acuerdo con lo que establece el artículo 25 de la Ley Orgánica 2/2006, de 3 de mayo, de Educación, todos los alumnos deberán cursar las materias siguientes:
+1. De acuerdo con lo que establece el artículo 25 de la [Ley Orgánica 2/2006](../01_marco_normativo_general_y_organico/LO2_2006_educacion_texto_consolidado_modificaciones_lomloe.md), de 3 de mayo, de Educación, todos los alumnos deberán cursar las materias siguientes:
 
 – Educación ético-cívica.
 
@@ -144,7 +144,7 @@ b) Módulos voluntarios. Tienen por objeto complementar la formación necesaria 
 
 5. Las Administraciones educativas determinarán los requisitos que deben reunir los centros y el profesorado para ser autorizados a impartir los diferentes tipos de módulos que configuran estos Programas, teniendo en cuenta que:
 
-a) Cuando de acuerdo con el artículo 30.5 de la Ley Orgánica 2/2006, de 3 de mayo, de Educación, los módulos obligatorios del Programa de Cualificación Profesional Inicial no se impartan en un centro educativo, las Administraciones educativas determinarán el centro educativo al que están adscritas estas enseñanzas.
+a) Cuando de acuerdo con el artículo 30.5 de la [Ley Orgánica 2/2006](../01_marco_normativo_general_y_organico/LO2_2006_educacion_texto_consolidado_modificaciones_lomloe.md), de 3 de mayo, de Educación, los módulos obligatorios del Programa de Cualificación Profesional Inicial no se impartan en un centro educativo, las Administraciones educativas determinarán el centro educativo al que están adscritas estas enseñanzas.
 
 b) Los módulos voluntarios serán impartidos en centros educativos.
 
@@ -154,7 +154,7 @@ b) Los módulos voluntarios serán impartidos en centros educativos.
 
 8. Los programas de cualificación profesional inicial tendrán una duración de dos años y podrán adoptar modalidades diferentes con el fin de satisfacer las necesidades personales, sociales y educativas del alumnado. Excepcionalmente, para los alumnos de 16 años, las Administraciones educativas podrán autorizar programas de un año en función del nivel de adquisición de las competencias básicas que tenga el alumnado que se propone incorporar al Programa.
 
-De acuerdo con lo establecido en el artículo 75.1 de la Ley Orgánica 2/2006, de 3 de mayo, de Educación, entre estas modalidades se deberá incluir una oferta específica para jóvenes con necesidades educativas especiales que, teniendo un nivel de autonomía personal y social que les permita acceder a un puesto de trabajo, no puedan integrarse en una modalidad ordinaria.
+De acuerdo con lo establecido en el artículo 75.1 de la [Ley Orgánica 2/2006](../01_marco_normativo_general_y_organico/LO2_2006_educacion_texto_consolidado_modificaciones_lomloe.md), de 3 de mayo, de Educación, entre estas modalidades se deberá incluir una oferta específica para jóvenes con necesidades educativas especiales que, teniendo un nivel de autonomía personal y social que les permita acceder a un puesto de trabajo, no puedan integrarse en una modalidad ordinaria.
 
 9. La evaluación de los Programas de Cualificación Profesional Inicial se realizará de conformidad con las siguientes reglas:
 
@@ -234,7 +234,7 @@ Orientación Profesional e Iniciativa emprendedora: 70*.»
 
 #### Artículo segundo. Modificación del [Real Decreto 1834/2008](RD1834_2008_definen_condiciones_formacion_ejercicio_docencia_educacion.md), de 8 de noviembre, por el que se definen las condiciones de formación para el ejercicio de la docencia en la educación secundaria obligatoria, el bachillerato, la formación profesional y las enseñanzas de régimen especial y se establecen las especialidades de los cuerpos docentes de enseñanza secundaria.
 
-Se modifican los anexos III y V del Real Decreto 1834/2008, de 8 de noviembre, por el que se definen las condiciones de formación para el ejercicio de la docencia en la educación secundaria obligatoria, el bachillerato, la formación profesional y las enseñanzas de régimen especial y se establecen las especialidades de los cuerpos docentes de enseñanza secundaria, que quedan redactados en los siguientes términos:
+Se modifican los anexos III y V del [Real Decreto 1834/2008](./RD1834_2008_definen_condiciones_formacion_ejercicio_docencia_educacion.md), de 8 de noviembre, por el que se definen las condiciones de formación para el ejercicio de la docencia en la educación secundaria obligatoria, el bachillerato, la formación profesional y las enseñanzas de régimen especial y se establecen las especialidades de los cuerpos docentes de enseñanza secundaria, que quedan redactados en los siguientes términos:
 
 «ANEXO III
 
@@ -476,7 +476,7 @@ Los profesores de Formación y orientación laboral podrán impartir las materia
 
 #### Artículo tercero. Modificación del [Real Decreto 860/2010](RD860_2010_regulan_condiciones_formacion_inicial_profesorado_centros.md), de 2 de julio, por el que se regulan las condiciones de formación inicial del profesorado de los centros privados para ejercer la docencia en las enseñanzas de educación secundaria obligatoria o de bachillerato.
 
-Se modifica el anexo del Real Decreto 860/2010, incorporando las materias de Alimentación, nutrición y salud, Ciencias aplicadas a la actividad profesional, Orientación Profesional e Iniciativa emprendedora, en los bloques correspondientes, de la siguiente forma:
+Se modifica el anexo del [Real Decreto 860/2010](./RD860_2010_regulan_condiciones_formacion_inicial_profesorado_centros.md), incorporando las materias de Alimentación, nutrición y salud, Ciencias aplicadas a la actividad profesional, Orientación Profesional e Iniciativa emprendedora, en los bloques correspondientes, de la siguiente forma:
 
 «Materias
 
@@ -590,7 +590,7 @@ Licenciado o Ingeniero en Informática. Cualquier título de Ingeniero, Arquitec
 
 #### Disposición adicional segunda. Conciertos de los programas de cualificación profesional inicial.
 
-Las Administraciones educativas podrán concertar, con carácter preferente, la impartición de programas de cualificación profesional inicial con centros privados concertados que impartan la educación secundaria obligatoria, conforme a lo previsto en la Ley Orgánica 2/2006, de 3 de mayo, de Educación. Estos conciertos asegurarán que las familias no realicen aportaciones económicas.
+Las Administraciones educativas podrán concertar, con carácter preferente, la impartición de programas de cualificación profesional inicial con centros privados concertados que impartan la educación secundaria obligatoria, conforme a lo previsto en la [Ley Orgánica 2/2006](../01_marco_normativo_general_y_organico/LO2_2006_educacion_texto_consolidado_modificaciones_lomloe.md), de 3 de mayo, de Educación. Estos conciertos asegurarán que las familias no realicen aportaciones económicas.
 
 #### Disposición final primera. Desarrollo normativo.
 

@@ -89,7 +89,7 @@ así como Ciclos Formativos de Grado Superior de Formación Profesional, de Ense
 Profesionales de Artes Plásticas y Diseño, y de Enseñanzas Deportivas.
 
 FUNDAMENTOS DE DERECHO
-Primero.- El artículo 38.1 de la Ley Orgánica 2/2006, de 3 de mayo, de Educación (en 
+Primero.- El artículo 38.1 de la [Ley Orgánica 2/2006](../../../estatal/01_marco_normativo_general_y_organico/LO2_2006_educacion_texto_consolidado_modificaciones_lomloe.md), de 3 de mayo, de Educación (en 
 lo sucesivo LOE), establece que para acceder a los estudios universitarios será necesaria 
 la superación de una prueba que, junto con las calificaciones obtenidas en Bachillerato, 
 valorará, con carácter objetivo, la madurez académica y los conocimientos adquiridos en 
@@ -100,7 +100,7 @@ Por su parte, el artículo 38.4 señala que dicha prueba será organizada por la
 Administraciones educativas y las universidades de manera coordinada, garantizando la 
 adecuación de la misma a las competencias vinculadas al currículo del Bachillerato.
 Segundo.- La disposición final quinta de la Ley Orgánica 3/2020, de 29 de diciembre, 
-por la que se modifica la Ley Orgánica 2/2006, de 3 de mayo, de Educación, regula el 
+por la que se modifica la [Ley Orgánica 2/2006](../../../estatal/01_marco_normativo_general_y_organico/LO2_2006_educacion_texto_consolidado_modificaciones_lomloe.md), de 3 de mayo, de Educación, regula el 
 calendario de implantación de las medidas relativas al acceso y admisión a la universidad, 
 introducidas por dicha ley orgánica en la LOE.
 Tercero.- Resulta de aplicación el Real Decreto 534/2024, de 11 de junio, por el que 
@@ -467,7 +467,7 @@ relativa al alumnado, a los centros o al propio tribunal, que se haya producido 
 del proceso.
 Novena.- Participación en la prueba.
 1. Podrán participar en la prueba de acceso (en adelante fase general) quienes estén en 
-posesión del título de Bachiller al que se refiere el artículo 37 de la Ley Orgánica 2/2006, 
+posesión del título de Bachiller al que se refiere el artículo 37 de la [Ley Orgánica 2/2006](../../../estatal/01_marco_normativo_general_y_organico/LO2_2006_educacion_texto_consolidado_modificaciones_lomloe.md), 
 de 3 de mayo, con independencia de la modalidad y, en su caso, vía cursadas, tanto el 
 que lo haya obtenido en el curso 2025/2026 como aquel que lo haya obtenido en cursos 
 anteriores.
@@ -480,7 +480,7 @@ a) Quienes realicen la fase general en la misma convocatoria, o quienes estén e
 posesión del título de Bachiller y habiendo superado la prueba de acceso en convocatorias 
 anteriores quieran mejorar su nota de admisión.
 b) Alumnado que estando exento de realizar la fase general (disposición adicional 
-trigésima tercera de la Ley Orgánica 2/2006, de 3 de marzo), quiera mejorar su nota de 
+trigésima tercera de la [Ley Orgánica 2/2006](../../../estatal/01_marco_normativo_general_y_organico/LO2_2006_educacion_texto_consolidado_modificaciones_lomloe.md), de 3 de marzo), quiera mejorar su nota de 
 admisión. Esto es:
 - Alumnado que haya obtenido un título de Técnico o Técnica Superior de Formación 
 Profesional, de Técnico Superior de Artes Plásticas y Diseño o de Técnico Deportivo 
@@ -705,7 +705,7 @@ adecuadas a las competencias específicas evaluadas. El formato de respuesta deb
 garantizar la aplicación de los criterios objetivos de corrección y calificación previamente 
 aprobados.
 3. En consonancia con la definición de las competencias clave establecida en el Anexo I 
-del Real Decreto 243/2022, de 5 de abril, las preguntas o tareas se contextualizarán en 
+del [Real Decreto 243/2022](../../../estatal/03_ordenacion_curricular_y_ensenanzas/RD243_2022_establecen_ordenacion_ensenanzas_minimas_bachillerato.md), de 5 de abril, las preguntas o tareas se contextualizarán en 
 entornos artísticos, científicos, humanísticos y tecnológicos y, preferentemente, en entornos 
 próximos a la vida del alumnado.
 
@@ -745,7 +745,7 @@ textos producidos, así como su presentación.
 Decimoséptima.- Estructura de la prueba de acceso y mejora de la nota de 
 admisión.
 1. Podrán participar en la fase general quienes estén en posesión del título de Bachiller 
-al que se refiere el artículo 37 de la Ley Orgánica 2/2006, de 3 de mayo. El alumnado de 
+al que se refiere el artículo 37 de la [Ley Orgánica 2/2006](../../../estatal/01_marco_normativo_general_y_organico/LO2_2006_educacion_texto_consolidado_modificaciones_lomloe.md), de 3 de mayo. El alumnado de 
 Bachillerato que se matricule en la prueba y que no la haya superado con anterioridad, 
 estará obligado a realizar la fase general en esa convocatoria.
 
@@ -802,7 +802,7 @@ a las titulaciones oficiales de grado, sin que en ningún caso modifique la nota
 en la fase general. Si el estudiante desea mejorar la calificación de la fase general deberá 
 presentarse íntegramente a la misma.
 4. El alumnado que haya obtenido el título de Bachiller de acuerdo con lo establecido en 
-el artículo 23 del Real Decreto 243/2022, de 5 de abril, podrá sustituir la materia obligatoria 
+el artículo 23 del [Real Decreto 243/2022](../../../estatal/03_ordenacion_curricular_y_ensenanzas/RD243_2022_establecen_ordenacion_ensenanzas_minimas_bachillerato.md), de 5 de abril, podrá sustituir la materia obligatoria 
 de modalidad por la materia que no hubiera escogido previamente al optar entre Historia de 
 España e Historia de la Filosofía.
 5. El alumnado procedente del sistema establecido por la [Ley Orgánica 8/2013](../../../estatal/03_ordenacion_curricular_y_ensenanzas/LO462_2016_ecd_regula_procedimiento_incorporacion_alumnado_curso.md), 
@@ -943,4 +943,4 @@ por la [Ley Orgánica 1/1990](../../../estatal/02_gestion_y_administracion_centr
 - Certificado acreditativo de haber superado el Curso Preuniversitario.
 - Cualquier otro título que el Ministerio de Educación, Formación Profesional y 
 Deportes declare equivalente, a efectos académicos, al título de Bachiller regulado por la 
-Ley Orgánica 2/2006, de 3 de mayo.
+[Ley Orgánica 2/2006](../../../estatal/01_marco_normativo_general_y_organico/LO2_2006_educacion_texto_consolidado_modificaciones_lomloe.md), de 3 de mayo.

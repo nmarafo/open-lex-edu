@@ -86,14 +86,14 @@ desarrolla la ordenación del Sistema de Formación Profesional que regula el ca
 a estas enseñanzas.
 Vista la necesidad de establecer instrucciones para canalizar la oferta de los nuevos 
 grados de formación en la Comunidad Autónoma de Canarias, en línea con lo establecido 
-en la Ley Orgánica 3/2022 y el Real Decreto 659/2023 que la desarrolla, y de acuerdo con 
+en la [Ley Orgánica 3/2022](../08_personal_docente/LO3_2022_ordenacion_gestion_determinadas_listas_empleo_tras.md) y el [Real Decreto 659/2023](./RD659_2023_dictan_instrucciones_orientaciones_formacion_dual_empresas.md) que la desarrolla, y de acuerdo con 
 los siguientes
 ANTECEDENTES DE HECHO
 Primero.- En el curso 2024/2025 se completa la implantación del primer curso de todos 
 los ciclos formativos de las ofertas de Grado D y, con carácter general, de las ofertas de 
 Grado E, de conformidad con lo dispuesto en el artículo 11 del Real Decreto 278/2023, de 
 11 de abril, por el que se establece el calendario de implantación del Sistema de Formación 
-Profesional establecido por la Ley Orgánica 3/2022, de 31 de marzo, de ordenación e 
+Profesional establecido por la [Ley Orgánica 3/2022](../08_personal_docente/LO3_2022_ordenacion_gestion_determinadas_listas_empleo_tras.md), de 31 de marzo, de ordenación e 
 integración de la Formación Profesional (en adelante 
 LOOIFP). El mismo Real Decreto 
 indica en el artículo 10 que “El 1 de enero de 2024 se completará la impartición de ofertas 
@@ -144,7 +144,7 @@ de convertir toda la formación profesional en una formación de excelencia, fru
 corresponsabilidad y la colaboración de centros y empresas u organismos equiparados.
 Quinto.- De conformidad con lo dispuesto en el artículo 11 del Real Decreto 
 278/2023, de 11 de abril, por el que se establece el calendario de implantación del Sistema 
-de Formación Profesional, establecido por la Ley Orgánica 3/2022, de 31 de marzo, de 
+de Formación Profesional, establecido por la [Ley Orgánica 3/2022](../08_personal_docente/LO3_2022_ordenacion_gestion_determinadas_listas_empleo_tras.md), de 31 de marzo, de 
 ordenación e integración de la Formación Profesional:
 “1. En el año académico 2023-2024, comenzará la implantación gradual de las ofertas 
 de Grado D, en los términos establecidos en el artículo 40 de la Ley Orgánica. A lo largo de 
@@ -155,11 +155,11 @@ de los actuales ciclos formativos”.
 En el mismo sentido, el artículo 12 del citado Real Decreto 278/2023 establece:
 “2. En el año académico 2024-2025 se implantarán, con carácter general, las ofertas de 
 Grado E, en los términos establecidos en los artículos 51 y 52 de la Ley Orgánica”.
-Sexto.- De acuerdo con lo establecido en el artículo 7.2 del Real Decreto 659/2023, de 
+Sexto.- De acuerdo con lo establecido en el artículo 7.2 del [Real Decreto 659/2023](./RD659_2023_dictan_instrucciones_orientaciones_formacion_dual_empresas.md), de 
 18 de julio, por el que se desarrolla la ordenación del Sistema de Formación Profesional:
 “Las administraciones educativas establecerán los currículos correspondientes a los 
 Grados D y E, respetando las atribuciones competenciales establecidas en el artículo 6 de la 
-Ley Orgánica 2/2006, de 3 de mayo, de Educación, y de acuerdo con lo prescrito por la Ley 
+[Ley Orgánica 2/2006](../../../estatal/01_marco_normativo_general_y_organico/LO2_2006_educacion_texto_consolidado_modificaciones_lomloe.md), de 3 de mayo, de Educación, y de acuerdo con lo prescrito por la Ley 
 Orgánica 3/2022, de 31 de marzo, de ordenación e integración de la Formación Profesional, 
 esta disposición y el resto de desarrollos normativos del Sistema de Formación Profesional. 
 (...)”.
@@ -167,7 +167,7 @@ Séptimo.- Los Reales Decretos 497/2024, de 21 de mayo, 498/2024, de 21 de mayo,
 499/2024, de 21 de mayo, y 500/2024, de 21 de mayo, establecen los cambios de ordenación 
 necesarios de los cursos de especialización de grado medio y superior, así como de los 
 títulos de Formación Profesional de grado básico, medio y superior, para permitir su oferta 
-en el marco de la nueva estructura establecida por el Real Decreto 659/2023, de 18 de julio, 
+en el marco de la nueva estructura establecida por el [Real Decreto 659/2023](./RD659_2023_dictan_instrucciones_orientaciones_formacion_dual_empresas.md), de 18 de julio, 
 por el que se desarrolla la ordenación del Sistema de Formación Profesional.
 Por todo lo expuesto, de conformidad con lo establecido en el artículo 20 del [Decreto 
 84/2024](../01_marco_normativo_general_y_organico/D84_2024_aprueba_reglamento_organico_formacion_profesional_actividad.md), de 10 de junio, por el que se aprueba el Reglamento Orgánico de la Consejería de 
@@ -233,11 +233,11 @@ Autónoma de Canarias se establece en el Anexo VI de esta Resolución.
 Tercera.- Módulos de Itinerario personal para la empleabilidad I y II.
 1. Todos los ciclos formativos de grado medio y superior incluyen en su plan de estudios 
 los módulos de Itinerario personal para la empleabilidad I y II, cuyo currículo básico figura 
-como Anexos V del Real Decreto 659/2023, de 18 de julio.
+como Anexos V del [Real Decreto 659/2023](./RD659_2023_dictan_instrucciones_orientaciones_formacion_dual_empresas.md), de 18 de julio.
 2. El profesorado que imparta dichos módulos deberá adaptar el currículo al sector 
 productivo en el que se incardine cada ciclo formativo.
 
-3. En cumplimiento de lo establecido en el artículo 158 del Real Decreto 659/2023, de 
+3. En cumplimiento de lo establecido en el artículo 158 del [Real Decreto 659/2023](./RD659_2023_dictan_instrucciones_orientaciones_formacion_dual_empresas.md), de 
 18 de julio, antes de iniciar el periodo de formación en empresa, el alumnado deberá haber 
 adquirido las competencias y los contenidos relativos a riesgos específicos y las medidas de 
 prevención en las actividades profesionales correspondientes al perfil profesional de cada 
@@ -254,7 +254,7 @@ I y II se atribuye al profesorado de la especialidad de Formación y Orientació
 Cuarta.- Módulo de Digitalización aplicada a los sectores productivos.
 1. Todos los ciclos formativos de grado medio y superior incluyen en su plan de 
 estudios el módulo profesional de Digitalización aplicada a los sectores productivos, cuyos 
-currículos básicos figuran como Anexos VI y VII del Real Decreto 659/2023, de 18 de julio.
+currículos básicos figuran como Anexos VI y VII del [Real Decreto 659/2023](./RD659_2023_dictan_instrucciones_orientaciones_formacion_dual_empresas.md), de 18 de julio.
 2. El profesorado que imparta dichos módulos deberá adaptar los currículos al sector 
 productivo en el que se incardine cada ciclo formativo.
 3. La impartición del módulo profesional de Digitalización aplicada a los sectores 
@@ -264,7 +264,7 @@ de los títulos correspondientes.
 Quinta.- Módulo de Inglés profesional.
 1. Todos los ciclos formativos de grado medio y superior incluyen en su plan de estudios 
 el módulo de Inglés profesional, cuyos currículos básicos figuran como Anexos IX y X del 
-Real Decreto 659/2023, de 18 de julio.
+[Real Decreto 659/2023](./RD659_2023_dictan_instrucciones_orientaciones_formacion_dual_empresas.md), de 18 de julio.
 2. El profesorado que imparta dicho módulo deberá adaptar el currículo al sector 
 productivo en el que se incardine cada ciclo formativo, especialmente en lo concerniente al 
 vocabulario técnico y los intercambios comunicativos más frecuentes, facilitando con ello 
@@ -277,16 +277,16 @@ tenidas en cuenta en la calificación final del módulo.
 superior se atribuye al profesorado de la especialidad de Inglés.
 
 5. El alumnado que haya superado el módulo profesional Inglés (código 0156) de 
-un ciclo formativo derivado de la Ley Orgánica 2/2006, de 3 de mayo, de Educación, se 
+un ciclo formativo derivado de la [Ley Orgánica 2/2006](../../../estatal/01_marco_normativo_general_y_organico/LO2_2006_educacion_texto_consolidado_modificaciones_lomloe.md), de 3 de mayo, de Educación, se 
 considerará que tiene superado el módulo de Inglés profesional (código 0156), trasladándose 
 la calificación obtenida.
 6. El alumnado que haya superado el módulo profesional Inglés (código 0179) de 
-un ciclo formativo derivado de la Ley Orgánica 2/2006, de 3 de mayo, de Educación, 
+un ciclo formativo derivado de la [Ley Orgánica 2/2006](../../../estatal/01_marco_normativo_general_y_organico/LO2_2006_educacion_texto_consolidado_modificaciones_lomloe.md), de 3 de mayo, de Educación, 
 se considerará que tiene superado el módulo de Inglés profesional (código 0179), trasladándose 
 la calificación obtenida.
 7. El alumnado que haya superado el módulo profesional Lengua extranjera (Inglés), 
 cuyo desarrollo curricular en Canarias fue establecido para un ciclo formativo de Grado 
-Superior derivado de la Ley Orgánica 2/2006, de 3 de mayo, de Educación, en el Anexo IV 
+Superior derivado de la [Ley Orgánica 2/2006](../../../estatal/01_marco_normativo_general_y_organico/LO2_2006_educacion_texto_consolidado_modificaciones_lomloe.md), de 3 de mayo, de Educación, en el Anexo IV 
 de la Resolución de 4 de agosto de 2021, de la Dirección General de Formación Profesional 
 y Educación de Adultos, por la que se dictan instrucciones para el desarrollo de los 
 ciclos formativos de Formación Profesional de grado medio y superior y se establece la 
@@ -295,7 +295,7 @@ de Canarias, se considerará que tiene superado el módulo de Inglés profesiona
 0179), trasladándose la calificación obtenida.
 8. El alumnado que haya superado el módulo profesional Lengua extranjera (Inglés), 
 cuyo desarrollo curricular fue establecido para un ciclo formativo de Grado Medio derivado 
-de la Ley Orgánica 2/2006, de 3 de mayo, de Educación, en el Anexo III de la Resolución 
+de la [Ley Orgánica 2/2006](../../../estatal/01_marco_normativo_general_y_organico/LO2_2006_educacion_texto_consolidado_modificaciones_lomloe.md), de 3 de mayo, de Educación, en el Anexo III de la Resolución 
 de 4 de agosto de 2021 citada, se considerará que tiene superado el módulo de Inglés 
 profesional (código 0156), trasladándose la calificación obtenida.
 9. La convalidación del módulo Inglés profesional en los ciclos formativos de Grados 
@@ -339,7 +339,7 @@ c) El módulo será convalidado cuando se aporte título de Grado o equivalente 
 Filología Inglesa o en Traducción e Interpretación (Inglés).
 d) El módulo será objeto de convalidación cuando se aporten módulos 
 LOGSE de Lengua 
-Extranjera de acuerdo con lo dispuesto en el Anexo II del Real Decreto 1085/2020, de 9 de 
+Extranjera de acuerdo con lo dispuesto en el Anexo II del [Real Decreto 1085/2020](../../../estatal/03_ordenacion_curricular_y_ensenanzas/RD1085_2020_correccion_errores_real_decreto_establecen_convalidaciones.md), de 9 de 
 diciembre, por el que se establecen convalidaciones de módulos profesionales de los títulos 
 de Formación Profesional del sistema educativo español y las medidas para su aplicación, y 
 se modifica el Real Decreto 1147/2011, de 29 de julio, por el que se establece la ordenación 
@@ -349,7 +349,7 @@ Sexta.- Módulo de Sostenibilidad aplicada al sistema productivo.
 1. Todos los ciclos formativos de grado medio y superior incluyen en su plan de estudios 
 el módulo profesional de Sostenibilidad aplicada al sistema productivo, cuyo currículo de carácter 
 básico y común para los ciclos formativos de grado medio y superior, figura como Anexo VIII 
-del Real Decreto 659/2023, de 18 de julio.
+del [Real Decreto 659/2023](./RD659_2023_dictan_instrucciones_orientaciones_formacion_dual_empresas.md), de 18 de julio.
 2. El profesorado que imparta dicho módulo deberá adaptar el currículo al sector 
 productivo en el que se incardine cada ciclo formativo.
 3. La impartición del módulo profesional de Sostenibilidad aplicada al sistema 
@@ -490,7 +490,7 @@ profesional y se ajustará a las siguientes especificaciones:
 a) La dirección del centro nombrará una comisión de reconocimiento que, de forma 
 colegiada, evalúe las solicitudes presentadas por el alumnado y determine si el curso o 
 actividad formativa presentada cumple con los requisitos prescritos en los apartados 4.b) 
-y 4.c) del artículo 102 del Real Decreto 659/2023, de 18 de julio. Dicha comisión estará 
+y 4.c) del artículo 102 del [Real Decreto 659/2023](./RD659_2023_dictan_instrucciones_orientaciones_formacion_dual_empresas.md), de 18 de julio. Dicha comisión estará 
 constituida por la persona que ocupe la jefatura de la familia profesional correspondiente, 
 la persona que ocupe la jefatura de estudios con competencias en Formación Profesional y 
 el tutor o tutora del estudiante.
@@ -530,13 +530,13 @@ Referencia para las Lenguas en la Comunidad Autónoma de Canarias, que demuestre
 competencia lingüística correspondiente al nivel B2 o superior del marco.
 Duodécima.- Periodo de formación en empresa u organismo equiparado.
 La formación en empresa u organismo equiparado se regirá por lo dispuesto en los 
-artículos 106 y 151 al 164 del Real Decreto 659/2023, de 18 de julio y por la Resolución 
+artículos 106 y 151 al 164 del [Real Decreto 659/2023](./RD659_2023_dictan_instrucciones_orientaciones_formacion_dual_empresas.md), de 18 de julio y por la Resolución 
 que dicte la 
 DGFPERE para tal fin.
 Decimotercera.- Evaluación, promoción, permanencia y titulación.
 1. Aspectos generales de la evaluación.
 1.1. La evaluación del alumnado de ciclos formativos de grado medio y superior 
-responderá a lo dispuesto en los artículos 18 y 107 del Real Decreto 659/2023, de 18 de 
+responderá a lo dispuesto en los artículos 18 y 107 del [Real Decreto 659/2023](./RD659_2023_dictan_instrucciones_orientaciones_formacion_dual_empresas.md), de 18 de 
 julio, y en aquellos aspectos que no contradiga con el Real Decreto citado, lo establecido 
 en la Orden de 20 de octubre de 2000, por la que se regulan los procesos de evaluación 
 de las enseñanzas de la Formación Profesional Específica en el ámbito de la Comunidad 
@@ -584,13 +584,13 @@ funciones de nivel básico en Prevención de Riesgos Laborales.
 formación en la empresa u organismo equiparado y deberá continuar su formación en el centro.
 1.7. En las situaciones excepcionales en las que los contenidos relacionados con 
 la prevención de riesgos laborales no hayan sido superados, el alumnado continuará la 
-formación en el centro educativo conforme a lo establecido en el Real Decreto 659/2023, de 
+formación en el centro educativo conforme a lo establecido en el [Real Decreto 659/2023](./RD659_2023_dictan_instrucciones_orientaciones_formacion_dual_empresas.md), de 
 18 de julio, y en la resolución que regula la formación en empresa u organismo equiparado 
 en la Comunidad Autónoma de Canarias que dicte la 
 DGFPERE.
 2. Calificación.
 La expresión de la calificación para cada módulo profesional responderá a lo establecido 
-en el artículo 18.8 del Real Decreto 659/2023, de 18 de julio, y será, consecuentemente, 
+en el artículo 18.8 del [Real Decreto 659/2023](./RD659_2023_dictan_instrucciones_orientaciones_formacion_dual_empresas.md), de 18 de julio, y será, consecuentemente, 
 numérica entre 1 y 10, sin decimales.
 3. Promoción a segundo curso.
 3.1 El alumnado que se encuentra cursando el primer curso de un grado medio o 
@@ -642,7 +642,7 @@ superados.
 Decimocuarta.- Transición entre planes de estudio.
 1. De acuerdo con el calendario establecido en el artículo 11 del Real Decreto 278/2023, 
 de 11 de abril, por el que se establece el calendario de implantación del Sistema de Formación 
-Profesional, establecido por la Ley Orgánica 3/2022, de 31 de marzo, de ordenación e 
+Profesional, establecido por la [Ley Orgánica 3/2022](../08_personal_docente/LO3_2022_ordenacion_gestion_determinadas_listas_empleo_tras.md), de 31 de marzo, de ordenación e 
 integración de la Formación Profesional, en el curso 2024-2025 se completará la implantación 
 del primer curso de todos los ciclos formativos. Durante dicho curso académico, para el 
 segundo curso permanecerá vigente la ordenación de los ciclos formativos de grado medio y 
@@ -718,7 +718,7 @@ de riesgos laborales de acuerdo con lo establecido en la Resolución de 28 de no
 básico en prevención de riesgos laborales al alumnado que supere, en centros educativos de 
 la Comunidad Autónoma de Canarias, el módulo profesional de Formación y orientación 
 laboral de los ciclos formativos de grado medio y grado superior de las enseñanzas de 
-formación profesional establecidas en la Ley Orgánica 2/2006, de 3 de mayo, de Educación.
+formación profesional establecidas en la [Ley Orgánica 2/2006](../../../estatal/01_marco_normativo_general_y_organico/LO2_2006_educacion_texto_consolidado_modificaciones_lomloe.md), de 3 de mayo, de Educación.
 
 ANEXO II
 INSTRUCCIONES PARA LA IMPLANTACIÓN Y DESARROLLO DE LOS GRADOS 
@@ -738,7 +738,7 @@ que debe adquirir y los descriptores operativos de las competencias clave en la 
 básica. A su vez, el artículo 25.3 determina los ámbitos de los ciclos formativos de grado 
 básico y establece que se podrán incluir otras materias o módulos que contribuyan al 
 desarrollo de las competencias de la Educación Secundaria Obligatoria.
-En el Anexo V del citado Real Decreto 217/2022 se determina el currículo de los ámbitos 
+En el Anexo V del citado [Real Decreto 217/2022](../../../estatal/03_ordenacion_curricular_y_ensenanzas/RD217_2022_establece_ordenacion_ensenanzas_minimas_educacion_secundaria.md) se determina el currículo de los ámbitos 
 comunes de los ciclos formativos de grado básico, fijando las competencias específicas, así 
 como los criterios de evaluación y los contenidos, enunciados en forma de saberes básicos.
 2. En el ámbito de la Comunidad Autónoma de Canarias, el Decreto 9/2023, de 26 de 
@@ -771,7 +771,7 @@ profesorado de la especialidad de Formación y Orientación Laboral.
 Cuarta.- Módulo de Itinerario personal para la empleabilidad.
 1. Todos los ciclos formativos de grado básico incluyen en su plan de estudios el módulo 
 profesional de Itinerario personal para la empleabilidad en el segundo curso. El currículo del 
-módulo se recoge en el Anexo III del Real Decreto 659/2023, de 18 de julio, por el que se 
+módulo se recoge en el Anexo III del [Real Decreto 659/2023](./RD659_2023_dictan_instrucciones_orientaciones_formacion_dual_empresas.md), de 18 de julio, por el que se 
 desarrolla la ordenación del Sistema de Formación Profesional, y es común para todos los ciclos 
 formativos de grado básico, sin perjuicio de la obligatoriedad del profesorado que lo imparta de 
 adaptarlo al sector productivo concreto en el que se incardine la especialidad del ciclo.
@@ -797,7 +797,7 @@ trabajarán transversalmente los resultados de aprendizaje que figuran en el cur
 5. La impartición del módulo profesional de Proyecto intermodular de aprendizaje 
 colaborativo en los ciclos de grado básico se atribuye al profesorado de las especialidades 
 que imparten módulos específicos del ciclo formativo, de conformidad con el artículo 
-octavo del Real Decreto 498/2024, de 21 de mayo, que además asumirá las funciones de 
+octavo del [Real Decreto 498/2024](../../../estatal/03_ordenacion_curricular_y_ensenanzas/RD498_2024_modifican_determinados_reales_decretos_establecen_titulos.md), de 21 de mayo, que además asumirá las funciones de 
 tutor o tutora del grupo.
 
 Sexta.- Tutoría.
@@ -821,12 +821,12 @@ relacionadas con su futuro académico y profesional.
 alumnado contemplará una hora semanal de tutoría en cada uno de los cursos.
 Séptima.- Periodo de formación en empresa u organismo equiparado.
 La formación en empresa u organismo equiparado se regirá por lo dispuesto en los 
-artículos 88 y 151 al 164 del Real Decreto 659/2023, de 18 de julio, y por la Resolución 
+artículos 88 y 151 al 164 del [Real Decreto 659/2023](./RD659_2023_dictan_instrucciones_orientaciones_formacion_dual_empresas.md), de 18 de julio, y por la Resolución 
 que dicte la 
 DGFPERE para tal fin.
 Octava.- Evaluación.
 1. La evaluación del alumnado de ciclos formativos de grado básico responderá, con 
-carácter general, a lo establecido en los artículo 18 y 93 del Real Decreto 659/2023, de 
+carácter general, a lo establecido en los artículo 18 y 93 del [Real Decreto 659/2023](./RD659_2023_dictan_instrucciones_orientaciones_formacion_dual_empresas.md), de 
 18 de julio, y en el artículo 12 del Decreto 9/2023, de 26 de enero, por el que se regula y 
 establece el currículo de veintitrés ciclos formativos de grado básico en el ámbito de la 
 Comunidad Autónoma de Canarias.
@@ -838,7 +838,7 @@ transitorias para regular la evaluación, promoción y titulación del alumnado 
 formativos de grado básico en la Comunidad Autónoma de Canarias, con las salvedades, 
 en cuanto a calificación, expresadas en los párrafos siguientes.
 3. Para los ciclos formativos de Grado Básico con las modificaciones derivadas de la 
-aplicación del Real Decreto 659/2023, de 18 de julio:
+aplicación del [Real Decreto 659/2023](./RD659_2023_dictan_instrucciones_orientaciones_formacion_dual_empresas.md), de 18 de julio:
 
 • La calificación de los módulos profesionales, continuará siendo numérica del 1 al 
 10 sin decimales, considerándose superado un módulo cuando se obtenga una calificación 
@@ -870,7 +870,7 @@ competente del certificado o acreditaciones profesionales correspondientes.
 Décima.- Transición entre planes de estudio.
 1. De acuerdo con el calendario establecido en el artículo 11 del Real Decreto 
 278/2023, de 11 de abril, por el que se establece el calendario de implantación del Sistema 
-de Formación Profesional establecido por la Ley Orgánica 3/2022, de 31 de marzo, 
+de Formación Profesional establecido por la [Ley Orgánica 3/2022](../08_personal_docente/LO3_2022_ordenacion_gestion_determinadas_listas_empleo_tras.md), de 31 de marzo, 
 de ordenación e integración de la Formación Profesional, en el curso 2024-2025 se 
 completará la implantación del primer curso de todos los ciclos formativos. Durante dicho 
 curso académico, para el segundo curso permanecerá vigente la ordenación de los ciclos 
@@ -906,7 +906,7 @@ a las instrucciones desarrolladas en este anexo.
 Duodécima.- Certificación de la formación de nivel básico en prevención de riesgos 
 laborales.
 1. La superación del módulo de Prevención y Salud Laboral de un ciclo formativo 
-derivado de la Ley Orgánica 3/2022, de 31 de marzo, de ordenación e integración de 
+derivado de la [Ley Orgánica 3/2022](../08_personal_docente/LO3_2022_ordenacion_gestion_determinadas_listas_empleo_tras.md), de 31 de marzo, de ordenación e integración de 
 la Formación Profesional dará derecho al alumnado a solicitar la certificación para el 
 desempeño de las funciones de nivel básico en materia prevención de riesgos laborales, 
 conforme al desarrollo del currículo autonómico en esta materia.
@@ -923,7 +923,7 @@ que se establece el procedimiento para la certificación de la formación a nive
 prevención de riesgos laborales del alumnado que cursa ciclos formativos de formación 
 profesional básica en centros educativos de la Comunidad Autónoma de Canarias, y que 
 hayan obtenido el título de formación básica de las enseñanzas de formación profesional 
-establecidas en la Ley Orgánica 2/2006, de 3 de mayo, de Educación.
+establecidas en la [Ley Orgánica 2/2006](../../../estatal/01_marco_normativo_general_y_organico/LO2_2006_educacion_texto_consolidado_modificaciones_lomloe.md), de 3 de mayo, de Educación.
 
 ANEXO III
 INSTRUCCIONES PARA LA IMPLANTACIÓN Y DESARROLLO DE LOS GRADOS 
@@ -951,13 +951,13 @@ la distribución horaria de las tablas que figuran en el Anexo VII.
 Tercera.- Periodo de formación en empresa u organismo equiparado.
 Los cursos de especialización cuyos currículos así lo tengan recogido, incorporarán un 
 periodo de formación en empresa u organismo equiparado que se regirá por lo dispuesto en 
-los artículos 151 al 164 del Real Decreto 659/2023, de 18 de julio, y por la Resolución que 
+los artículos 151 al 164 del [Real Decreto 659/2023](./RD659_2023_dictan_instrucciones_orientaciones_formacion_dual_empresas.md), de 18 de julio, y por la Resolución que 
 la 
 DGFPERE dicte para tal fin.
 Cuarta.- Evaluación, permanencia y titulación.
 1. Aspectos generales de la evaluación.
 1.1. La evaluación del alumnado de los cursos de especialización responderá a lo 
-dispuesto en los artículos 18 y 123 del Real Decreto 659/2023, de 18 de julio.
+dispuesto en los artículos 18 y 123 del [Real Decreto 659/2023](./RD659_2023_dictan_instrucciones_orientaciones_formacion_dual_empresas.md), de 18 de julio.
 1.2. En caso de no haber superado algún resultado de aprendizaje, el profesorado pondrá 
 en marcha las medidas de refuerzo necesarias para resolver la carencia mostrada desde el 
 momento en el que sea necesario. Este documento se revisará en la siguiente sesión de 
@@ -1000,7 +1000,7 @@ superados.
 
 3. Calificación.
 3.1. La expresión de la calificación para cada módulo profesional responderá 
-a lo establecido en el artículo 18.8 del Real Decreto 659/2023, de 18 de julio, y será, 
+a lo establecido en el artículo 18.8 del [Real Decreto 659/2023](./RD659_2023_dictan_instrucciones_orientaciones_formacion_dual_empresas.md), de 18 de julio, y será, 
 consecuentemente, numérica entre 1 y 10, sin decimales.
 3.2. La nota final del curso de especialización será la media aritmética de los módulos 
 expresada con dos decimales, conforme a lo dispuesto en el artículo 124.2 del Real Decreto 
@@ -1036,7 +1036,7 @@ ENTORNO SOCIO-PRODUCTIVO DE CANARIAS Y LA METODOLOGÍA EN LAS
 OFERTAS DE FORMACIÓN PROFESIONAL DE GRADO D.
 Adaptación al entorno socio-productivo de Canarias.
 1. El currículo de los ciclos formativos que a partir del curso 2024-2025 se implanten 
-bajo el amparo del Real Decreto 659/2023, se desarrollarán en los centros educativos 
+bajo el amparo del [Real Decreto 659/2023](./RD659_2023_dictan_instrucciones_orientaciones_formacion_dual_empresas.md), se desarrollarán en los centros educativos 
 de la Comunidad Autónoma de Canarias considerando la realidad socioeconómica y las 
 características geográficas, socio-productivas y laborales propias del archipiélago canario.
 2. Los centros educativos que impartan formación profesional dispondrán de autonomía 
@@ -7096,7 +7096,7 @@ Que el/la alumno/alumna D/Dña. ________________________________________________
 documento  de  identidad  nº  _________________,  ha  cursado  con  aprovechamiento  la  formación  en 
 prevención de riesgos laborales del  título de (1) ____ ___________________________________ que le  
 capacita para el desempeño de las FUNCIONES DE NIVEL BÁSICO EN PREVENCIÓN DE RIESGOS  
-LABORALES, acorde a lo establecido en el artículo 35 del Real Decreto 39/1997, de 17 de enero, por el que  
+LABORALES, acorde a lo establecido en el artículo 35 del [Real Decreto 39/1997](../../../estatal/02_gestion_y_administracion_centros/RD39_1997_aprueba_reglamento_servicios_prevencion.md), de 17 de enero, por el que  
 se aprueba el Reglamento de los Servicios de Prevención, con la duración y contenidos que se especifican en  
 el reverso de la presente certificación.
 Y , para que conste y surta los efectos oportunos, expido el presente certificado en 

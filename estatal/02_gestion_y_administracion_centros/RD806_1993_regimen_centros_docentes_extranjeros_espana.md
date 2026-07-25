@@ -57,7 +57,7 @@ Los centros extranjeros en España se regirán:
 
 a) Por lo dispuesto en los tratados y convenios internacionales suscritos por España, teniendo en cuenta, en su defecto, el principio de reciprocidad.
 
-b) Por lo establecido en el Título preliminar y en los artículos 10, 12.2, 13, 21.2, 22, 25 y 26.1 de la Ley Orgánica 8/1985, de 3 de julio, reguladora del Derecho a la Educación, así como en las normas que los desarrollan.
+b) Por lo establecido en el Título preliminar y en los artículos 10, 12.2, 13, 21.2, 22, 25 y 26.1 de la [Ley Orgánica 8/1985](./LO8_1985_reguladora_derecho_educacion.md), de 3 de julio, reguladora del Derecho a la Educación, así como en las normas que los desarrollan.
 
 c) Por lo previsto en el presente Real Decreto y en las normas que, para su ejecución y desarrollo, dicten las Administraciones educativas competentes.
 
@@ -75,7 +75,7 @@ b) Centros en los que se cursen exclusivamente estudios de un sistema educativo 
 
 #### Artículo 4.
 
-Podrá ser titular de un centro extranjero en España cualquier persona física o jurídica, de nacionalidad española o extranjera, con excepción de las que se encuentren en alguna de las situaciones previstas en el artículo 21.2 de la Ley Orgánica 8/1985, de 3 de julio, reguladora del Derecho a la Educación.
+Podrá ser titular de un centro extranjero en España cualquier persona física o jurídica, de nacionalidad española o extranjera, con excepción de las que se encuentren en alguna de las situaciones previstas en el artículo 21.2 de la [Ley Orgánica 8/1985](./LO8_1985_reguladora_derecho_educacion.md), de 3 de julio, reguladora del Derecho a la Educación.
 
 #### Artículo 5.
 
@@ -269,7 +269,7 @@ Hasta que se fijen el currículo y el horario correspondientes a las enseñanzas
 
 #### Disposición final Primera.
 
-El presente Real Decreto se dicta al amparo de lo establecido en el artículo 149.1.30.ª de la Constitución y en virtud de lo dispuesto por el artículo 12.2 de la Ley Orgánica 8/1985, de 3 de julio, reguladora del derecho a la educación, a excepción de lo previsto en los artículos 7.5, 13.2, 15, 16.2, 17.2, 19.2 y 23, que serán de aplicación en defecto de regulación específica dictada por las Comunidades Autónomas.
+El presente Real Decreto se dicta al amparo de lo establecido en el artículo 149.1.30.ª de la Constitución y en virtud de lo dispuesto por el artículo 12.2 de la [Ley Orgánica 8/1985](./LO8_1985_reguladora_derecho_educacion.md), de 3 de julio, reguladora del derecho a la educación, a excepción de lo previsto en los artículos 7.5, 13.2, 15, 16.2, 17.2, 19.2 y 23, que serán de aplicación en defecto de regulación específica dictada por las Comunidades Autónomas.
 
 #### Disposición final segunda.
 

@@ -112,7 +112,7 @@ convocan las correspondientes al curso académico 2011-
 2012, en el sentido siguiente:
 1. Título de la Resolución:
 Donde dice:
-“Resolución de 25 de mayo de 2011, por la que
+“[Resolución de 25 de mayo de 2011](./R25_5_2011_dictan_instrucciones_organizacion_desarrollo_pruebas_acceso.md), por la que
 se dictan instrucciones sobre organización y desarro-
 llo de las pruebas de acceso a las enseñanzas artísti-
 cas superiores de Grado en Música, Arte Dramático
@@ -120,7 +120,7 @@ y Diseño en la Comunidad Autónoma de Canarias,
 y se convocan las correspondientes al curso acadé-
 mico 2011.”
 Debe decir:
-“Resolución de 25 de mayo de 2011, por la que
+“[Resolución de 25 de mayo de 2011](./R25_5_2011_dictan_instrucciones_organizacion_desarrollo_pruebas_acceso.md), por la que
 se dictan instrucciones sobre organización y desarro-
 llo de las pruebas de acceso a las enseñanzas artísti-
 cas superiores de Grado en Música, Arte Dramático

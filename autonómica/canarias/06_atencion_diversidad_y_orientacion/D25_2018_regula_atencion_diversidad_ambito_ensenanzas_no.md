@@ -144,7 +144,7 @@ abogan por el impulso de actuaciones que aseguren una atención educativa que se
 los principios de inclusividad y no segregación, como elementos ineludibles que deben regir 
 la escolarización de todas las personas, de manera que esta se produzca en un entorno común 
 y con los apoyos educativos necesarios.
-Asimismo, el artículo 28.9 de la citada Ley 6/2014, de 25 de julio, establece que: «La 
+Asimismo, el artículo 28.9 de la citada [Ley 6/2014](../01_marco_normativo_general_y_organico/L6_2014_canaria_educacion_no_universitaria.md), de 25 de julio, establece que: «La 
 Administración educativa canaria regulará el marco general de atención a la diversidad del 
 alumnado y las condiciones y recursos para la aplicación de las diferentes medidas que serán 
 desarrolladas por los centros docentes, de acuerdo con los principios rectores  del sistema 
@@ -183,7 +183,7 @@ Artículo 1.- Objeto y ámbito.
 de la enseñanza no universitaria de la Comunidad Autónoma de Canarias en la etapa de 
 Educación Infantil, en la educación básica, así como en el Bachillerato en los términos 
 previstos en esta norma. Para el resto de enseñanzas no universitarias previstas en artículo 
-3.2 de la Ley Orgánica 2/2006, de 3 de mayo, de Educación (LOE) se estará a lo previsto en 
+3.2 de la [Ley Orgánica 2/2006](../../../estatal/01_marco_normativo_general_y_organico/LO2_2006_educacion_texto_consolidado_modificaciones_lomloe.md), de 3 de mayo, de Educación (LOE) se estará a lo previsto en 
 su normativa específica y, supletoriamente, a lo establecido en este Decreto.
 2. Se establecen medidas para favorecer el desarrollo de una atención a la diversidad, 
 desde un enfoque inclusivo, que dé respuesta a las características y necesidades de todo el 
@@ -662,7 +662,7 @@ dictarán, en el ámbito de sus competencias, cuantas disposiciones sean precisa
 ejecución y el desarrollo de lo previsto en este Decreto.
 Disposición final segunda.- Plan Estratégico de Atención a la Diversidad.
 Corresponde a la Consejería competente en materia de educación aprobar, de conformidad 
-con lo establecido en la Ley 6/2014, de 25 de julio, Canaria de Educación no Universitaria, 
+con lo establecido en la [Ley 6/2014](../01_marco_normativo_general_y_organico/L6_2014_canaria_educacion_no_universitaria.md), de 25 de julio, Canaria de Educación no Universitaria, 
 el Plan Estratégico de Atención a la Diversidad.
 Disposición final tercera.- Entrada en vigor.
 El presente Decreto entrará en vigor el día siguiente al de su publicación en el Boletín 

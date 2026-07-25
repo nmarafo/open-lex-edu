@@ -102,7 +102,7 @@ Profesional, los siguientes itinerarios formativos facilitarán la posibilidad d
 de Competencias de Nivel 1 al alumnado participante en los mismos.
 Vista la necesidad de establecer instrucciones para canalizar la oferta de los presentes 
 itinerarios formativos de la formación profesional adaptada en la Comunidad Autónoma de 
-Canarias, en línea con lo establecido en la Ley Orgánica 3/2022 y el Real Decreto 659/2023 
+Canarias, en línea con lo establecido en la [Ley Orgánica 3/2022](../08_personal_docente/LO3_2022_ordenacion_gestion_determinadas_listas_empleo_tras.md) y el [Real Decreto 659/2023](./RD659_2023_dictan_instrucciones_orientaciones_formacion_dual_empresas.md) 
 que la desarrolla, y de acuerdo con los siguientes
 ANTECEDENTES DE HECHO
 Primero.- La [Ley 6/2014](../01_marco_normativo_general_y_organico/L6_2014_canaria_educacion_no_universitaria.md), de 25 de julio, Canaria de Educación no Universitaria, 
@@ -119,7 +119,7 @@ fijan los currículos básicos y se modifica el Real Decreto 1850/2009, de 4 de 
 sobre expedición de títulos académicos y profesionales correspondientes a las enseñanzas 
 establecidas en la [Ley Orgánica 2/2006](../../../estatal/01_marco_normativo_general_y_organico/LO2_2006_educacion_texto_consolidado_modificaciones_lomloe.md), de 3 de mayo, de Educación.
 Tercero.- Con la implantación del Sistema de Formación Profesional establecido por la 
-LOOIFP y desarrollado por el Real Decreto 659/2023, de 18 de julio, surge la necesidad de 
+LOOIFP y desarrollado por el [Real Decreto 659/2023](./RD659_2023_dictan_instrucciones_orientaciones_formacion_dual_empresas.md), de 18 de julio, surge la necesidad de 
 concretar determinados aspectos para la organización y desarrollo de ofertas de itinerarios 
 formativos conforme al actual marco jurídico en la Comunidad Autónoma de Canarias.
 FUNDAMENTOS DE DERECHO
@@ -130,7 +130,7 @@ de enseñanza no universitaria, con relación a las enseñanzas obligatorias y n
 que conducen a la obtención de un título académico o profesional con validez en todo 
 el Estado (...)”. Además del establecimiento de los correspondientes planes de estudio, 
 incluida la ordenación curricular de conformidad con el artículo 133.3.b).
-Segundo.- La Ley Orgánica 3/2022, de 31 de marzo, de ordenación e integración de la 
+Segundo.- La [Ley Orgánica 3/2022](../08_personal_docente/LO3_2022_ordenacion_gestion_determinadas_listas_empleo_tras.md), de 31 de marzo, de ordenación e integración de la 
 Formación Profesional, en el Título III, en su Sección 3.ª denominada “Modalidades dirigidas 
 a colectivos específicos”, en sus artículos 70, 71 y 73, establece modalidades formativas 
 dirigidas a colectivos específicos como personas con necesidades educativas especiales 
@@ -142,7 +142,7 @@ materia de formación profesional, a establecer “ofertas de formación profesi
 a las necesidades específicas de personas con fracaso escolar, discapacidad, pertenecientes 
 a minorías étnicas, parados de larga duración y, en general, personas con riesgo de exclusión 
 sociolaboral o en situación de vulnerabilidad”.
-Tercero.- El Real Decreto 659/2023, de 18 de julio, por el que se desarrolla la ordenación 
+Tercero.- El [Real Decreto 659/2023](./RD659_2023_dictan_instrucciones_orientaciones_formacion_dual_empresas.md), de 18 de julio, por el que se desarrolla la ordenación 
 del Sistema de Formación Profesional, regula en la Sección 3.ª del Capítulo IV , artículos 
 32 a 36, “Modalidades dirigidas a personas con necesidades educativas o formativas 
 especiales” cuya finalidad es “facilitar el proceso de aprendizaje profesional para posibilitar 
@@ -312,7 +312,7 @@ Novena.- Currículo.
 1. El currículo de los itinerarios formativos de la Formación Profesional Adaptada 
 tendrá como referencia las unidades de competencia de nivel 1 del Catálogo Nacional 
 de Cualificaciones Profesionales de acuerdo a lo establecido en la disposición transitoria 
-primera del Real Decreto 659/2023.
+primera del [Real Decreto 659/2023](./RD659_2023_dictan_instrucciones_orientaciones_formacion_dual_empresas.md).
 
 2. Los currículos de los módulos profesionales se desarrollarán siguiendo las disposiciones 
 normativas que se citan en los Anexos del III al X adjuntos a la presente Resolución. En 
@@ -382,7 +382,7 @@ será el establecido en el Anexo II de la [Resolución de 5 de noviembre de 2024
 se dictan instrucciones y orientaciones para la formación dual en empresas u organismos 
 equiparados en los Certificados Profesionales (Grado C), los Ciclos Formativos de Grado 
 Básico, Medio y Superior (Grados D, niveles 1, 2 y 3) y Cursos de Especialización (Grado 
-E, niveles 2 y 3), en aplicación del Real Decreto 659/2023, de 18 de julio, en los centros 
+E, niveles 2 y 3), en aplicación del [Real Decreto 659/2023](./RD659_2023_dictan_instrucciones_orientaciones_formacion_dual_empresas.md), de 18 de julio, en los centros 
 docentes no universitarios de la Comunidad Autónoma de Canarias.
 5. La Dirección General de Formación Profesional y Enseñanzas de Régimen Especial 
 podrá autorizar la realización de la estancia formativa en centros educativos o en instituciones 
@@ -561,7 +561,7 @@ autores Schalock y Verdugo (2002), la formación debe ir más allá de la capaci
 técnica e integrar aspectos como la autodeterminación, la inclusión social y el bienestar 
 emocional. Este enfoque holístico permite que las personas con discapacidad intelectual 
 no solo accedan a un empleo, sino que también disfruten de una vida plena y participativa.
-La Ley Orgánica 3/2022, de 31 de marzo, de Ordenación e Integración de la Formación 
+La [Ley Orgánica 3/2022](../08_personal_docente/LO3_2022_ordenacion_gestion_determinadas_listas_empleo_tras.md), de 31 de marzo, de Ordenación e Integración de la Formación 
 Profesional, establece una estructura más flexible, accesible y alineada con las demandas 
 del mercado laboral. Entre sus medidas destaca la implementación de itinerarios específicos 
 diseñados para garantizar la igualdad de oportunidades, fomentando la participación de 
@@ -3001,7 +3001,7 @@ D./Dña. _______________________________________________________________________
 Secretario/Secretaria del centro _____________________________________________________________, 
 código ___________________ localidad _____________________________________________________, 
 provincia de _______________________________ , en cumplimiento de lo establecido en los artículos 9.6.e) y  
-158 del Real Decreto 659/2023, de 18 de julio,
+158 del [Real Decreto 659/2023](./RD659_2023_dictan_instrucciones_orientaciones_formacion_dual_empresas.md), de 18 de julio,
 CERTIFICA:
 Que el/la alumno/alumna D./Dña. __________________________________________________________, con  
 DNI/NIE n.º ______________________, con matrícula en el Itinerario Formativo (1) ________   denominado  

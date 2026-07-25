@@ -55,14 +55,14 @@ I, Capítulo VI, Sección Tercera, establece y regula las Enseñanzas Artística
 entre las que se encuentran las de Arte Dramático, Diseño y Música, que forman parte de las 
 enseñanzas de régimen especial.
 Segundo.- El Real Decreto 1614/2009, de 26 de octubre, por el que se establece la 
-ordenación de las Enseñanzas Artísticas Superiores reguladas por la Ley Orgánica 2/2006, 
+ordenación de las Enseñanzas Artísticas Superiores reguladas por la [Ley Orgánica 2/2006](../../../estatal/01_marco_normativo_general_y_organico/LO2_2006_educacion_texto_consolidado_modificaciones_lomloe.md), 
 de 3 de mayo, de Educación, modificado por el Real Decreto 21/2015, de 23 de enero, fijó el 
 marco general de estas enseñanzas, de conformidad con las líneas y directrices establecidas 
 para el Espacio Europeo de Educación Superior.
 Con posterioridad, mediante los Reales Decretos 630/2010, 631/2010 y 633/2010, todos 
 ellos de 14 de mayo, fue regulado el contenido básico de las Enseñanzas Artísticas Superiores 
 de Grado en Arte Dramático, de Grado en Música y de Grado en Diseño, respectivamente, 
-establecidas en la Ley Orgánica 2/2006, de 3 de mayo, de Educación.
+establecidas en la [Ley Orgánica 2/2006](../../../estatal/01_marco_normativo_general_y_organico/LO2_2006_educacion_texto_consolidado_modificaciones_lomloe.md), de 3 de mayo, de Educación.
 Tercero.- En el ámbito de la Comunidad Autónoma de Canarias, mediante la Orden de 14 
 de marzo de 2014, por la que se modifica parcialmente la Orden de 29 de abril de 2011, que 
 aprueba, con carácter experimental, la implantación de los Estudios Oficiales de Grado en 
@@ -71,7 +71,7 @@ culminó el proceso de implantación experimental de dichos estudios, procediend
 dictar instrucciones sobre el proceso de evaluación, con el fin de que los centros dispongan 
 de un instrumento que facilite la valoración del proceso de aprendizaje del alumnado.
 FUNDAMENTOS DE DERECHO
-Primero.- La Ley Orgánica 2/2006, de 3 de mayo, de Educación, modificada por la Ley 
+Primero.- La [Ley Orgánica 2/2006](../../../estatal/01_marco_normativo_general_y_organico/LO2_2006_educacion_texto_consolidado_modificaciones_lomloe.md), de 3 de mayo, de Educación, modificada por la Ley 
 Orgánica 8/2013, de 9 de diciembre, para la Mejora de la Calidad Educativa (BOE nº 295, 
 de 10 de diciembre), regula las Enseñanzas Artísticas Superiores en su Título I, Capítulo VI, 
 Sección Tercera, estableciendo los principios generales, los aspectos fundamentales sobre 
@@ -81,7 +81,7 @@ enseñanzas.
 https://sede.gobcan.es/cpji/boc
 Martes 21 de febrero de 2017
 Segundo.- El Real Decreto 1614/2009, de 26 de octubre, por el que se establece la 
-ordenación de las Enseñanzas Artísticas Superiores reguladas por la Ley Orgánica 2/2006, 
+ordenación de las Enseñanzas Artísticas Superiores reguladas por la [Ley Orgánica 2/2006](../../../estatal/01_marco_normativo_general_y_organico/LO2_2006_educacion_texto_consolidado_modificaciones_lomloe.md), 
 de 3 de mayo, de Educación (BOE nº 259, de 27 de octubre), modificado por el Real 
 Decreto 21/2015, de 23 de enero (BOE nº 33, de 7 de febrero), establece la estructura y 
 los aspectos básicos de las Enseñanzas Artísticas Superiores, la configuración de los planes 
@@ -92,7 +92,7 @@ de evaluación.
 Tercero.- Los Reales Decretos 630/2010, 631/2010 y 633/2010, todos ellos de 14 de 
 mayo, por los que se regula el contenido básico de las Enseñanzas Artísticas Superiores 
 de Grado en Arte Dramático, de Grado en Música y de Grado en Diseño, respectivamente, 
-establecidas en la Ley Orgánica 2/2006, de 3 de mayo, de Educación (BOE nº 137, de 5 de 
+establecidas en la [Ley Orgánica 2/2006](../../../estatal/01_marco_normativo_general_y_organico/LO2_2006_educacion_texto_consolidado_modificaciones_lomloe.md), de 3 de mayo, de Educación (BOE nº 137, de 5 de 
 junio).
 Cuarto.- El Real Decreto 1027/2011, de 15 de julio, por el que se establece el Marco 
 Español de Cualificaciones para la Educación Superior (BOE nº 185, de 3 de agosto), en su 
@@ -464,7 +464,7 @@ los contenidos en los documentos oficiales a los que se refiere la presente reso
 cesión de unos centros a otros y la adopción de medidas que garanticen la seguridad y 
 confidencialidad de dichos datos, se someten a lo dispuesto en la legislación vigente en 
 materia de protección de datos de carácter personal y en la Disposición adicional vigésimo 
-tercera de la Ley Orgánica 2/2006, de 3 de mayo, de Educación.
+tercera de la [Ley Orgánica 2/2006](../../../estatal/01_marco_normativo_general_y_organico/LO2_2006_educacion_texto_consolidado_modificaciones_lomloe.md), de 3 de mayo, de Educación.
 Decimocuarta.- Titulación.
 1. Según lo establecido en el Real Decreto 21/2015, de 23 de enero, los Títulos Superiores 
 de Enseñanzas Artísticas tendrán la denominación que a continuación se establece, seguida 

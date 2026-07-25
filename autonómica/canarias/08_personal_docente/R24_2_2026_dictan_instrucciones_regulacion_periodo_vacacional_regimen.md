@@ -86,7 +86,7 @@ actualización del régimen de delegaciones operada en favor de las Direcciones 
 de Educación y de los titulares de la dirección de los centros educativos.
 FUNDAMENTOS DE DERECHO
 Primero.- El texto refundido de la Ley del Estatuto Básico del Empleado Público, 
-aprobado por Real Decreto Legislativo 5/2015, de 30 de octubre, regula en sus artículos 
+aprobado por [Real Decreto Legislativo 5/2015](../../../estatal/01_marco_normativo_general_y_organico/RDL5_2015_aprueba_texto_refundido_ley_estatuto_basico.md), de 30 de octubre, regula en sus artículos 
 48 a 51 los permisos y vacaciones del personal funcionario público y laboral, pudiendo 
 
 dictarse legislación específica para el personal docente, de conformidad con lo establecido 
@@ -140,10 +140,10 @@ Régimen Jurídico de las Administraciones Públicas de Canarias, dispone en su 
 31.3 que el ejercicio de las competencias propias podrá ser delegado en el órgano que, por 
 la aplicación del principio de eficacia, sea más idóneo para ello, debiendo publicarse el acto 
 de delegación en el Boletín Oficial de Canarias para surtir efectos.
-El Decreto 84/2024, de 10 de junio, por el que se aprueba el Reglamento Orgánico de la 
+El [Decreto 84/2024](../01_marco_normativo_general_y_organico/D84_2024_aprueba_reglamento_organico_formacion_profesional_actividad.md), de 10 de junio, por el que se aprueba el Reglamento Orgánico de la 
 Consejería de Educación, Formación Profesional, Actividad Física y Deportes, dispone en 
 su artículo 16.1 que la Dirección General de Personal y Formación del Profesorado ejercerá, 
-en su ámbito funcional, las competencias previstas en el artículo 19 del Decreto 212/1991, de 
+en su ámbito funcional, las competencias previstas en el artículo 19 del [Decreto 212/1991](../01_marco_normativo_general_y_organico/D212_1991_organizacion_departamentos_administracion_autonomica_canarias.md), de 
 11 de septiembre, de organización de los Departamentos de la Administración Autonómica 
 de Canarias, y es en uso de esas atribuciones, así como de la prevista en la letra f) de ese 
 mismo artículo, por lo que
@@ -1499,7 +1499,7 @@ la finalización del periodo concedido.
 Decimosegunda.- La duración de los permisos regulados, tanto en normativa básica 
 como en las presentes instrucciones, nunca podrá ser inferior o superior a lo estipulado en 
 las mismas.
-Decimotercera.- Según lo establecido en el artículo 14.2.e) de la Ley 39/2015, de 1 de 
+Decimotercera.- Según lo establecido en el artículo 14.2.e) de la [Ley 39/2015](../../../estatal/01_marco_normativo_general_y_organico/L39_2015_procedimiento_administrativo_comun_administraciones_publicas.md), de 1 de 
 octubre, del Procedimiento Administrativo Común de las Administraciones Públicas, todo 
 el personal docente estará obligado a relacionarse, con la Administración Pública, a través 
 de medios electrónicos en todos aquellos trámites y actuaciones que realicen con ella por 

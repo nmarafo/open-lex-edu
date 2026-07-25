@@ -91,7 +91,7 @@ C1 y C2.
 Segundo.- El Real Decreto 1041/2017, de 22 de diciembre, por el que se fijan las 
 exigencias mínimas del nivel básico a efectos de certificación, establece el currículo 
 básico de los niveles Intermedio B1, Intermedio B2, Avanzado C1, y Avanzado C2 de las 
-Enseñanzas de Idiomas de Régimen Especial reguladas por la Ley Orgánica 2/2006, de 
+Enseñanzas de Idiomas de Régimen Especial reguladas por la [Ley Orgánica 2/2006](../../../estatal/01_marco_normativo_general_y_organico/LO2_2006_educacion_texto_consolidado_modificaciones_lomloe.md), de 
 3 de mayo, de Educación, y establece las equivalencias entre las Enseñanzas de Idiomas 
 de Régimen Especial reguladas en diversos planes de estudios y las de este Real Decreto, 
 y en su artículo 7 dispone que, para obtener el Certificado del Nivel Intermedio B2 y de 
@@ -1240,7 +1240,7 @@ Profesional y Enseñanzas de Régimen Especial, la corrección y calificación d
 lengua que integran cada prueba.
 15.2. En la evaluación y la calificación de las pruebas se tomarán como referencia los criterios de evaluación  
 fijados para cada nivel y actividad de lengua en los currículos recogidos en el Decreto 142/2018, de 8 de  
-octubre, así como los principios comunes de evaluación del Real Decreto 1/2019, de 11 de enero. De igual  
+octubre, así como los principios comunes de evaluación del [Real Decreto 1/2019](../../../estatal/03_ordenacion_curricular_y_ensenanzas/RD1_2019_establecen_principios_basicos_comunes_evaluacion_aplicables.md), de 11 de enero. De igual  
 forma, la evaluación y calificación de las pruebas se ha de ajustar a lo recogido en la  Orden de 15 de  
 septiembre de 2022 de la Consejería de Educación, Universidades, Cultura y Deportes, por la que se regula  
 la evaluación del alumnado de enseñanzas de idiomas y de las pruebas de certificación de idiomas de  
@@ -1282,7 +1282,7 @@ calificación de todas las actividades de lengua que integran cada prueba.
 15.2. En la evaluación y la calificación de las pruebas se tomarán como referencia 
 los criterios de evaluación fijados para cada nivel y actividad de lengua en los currículos 
 recogidos en el Decreto 142/2018, de 8 de octubre, así como los principios comunes de 
-evaluación del Real Decreto 1/2019, de 11 de enero. De igual forma, la evaluación y 
+evaluación del [Real Decreto 1/2019](../../../estatal/03_ordenacion_curricular_y_ensenanzas/RD1_2019_establecen_principios_basicos_comunes_evaluacion_aplicables.md), de 11 de enero. De igual forma, la evaluación y 
 calificación de las pruebas se ha de ajustar a lo recogido en la Orden de 15 de septiembre 
 de 2022, de la Consejería de Educación, Universidades, Cultura y Deportes, por la que se 
 regula la evaluación del alumnado de enseñanzas de idiomas y de las pruebas de certificación 
@@ -1323,7 +1323,7 @@ firmadas por el tribunal examinador y visadas por quien ostente la dirección de
 16.- Publicación de resultados y reclamaciones.
 16.1. Los resultados de las pruebas se harán públicos respetando lo que establece la 
 legislación vigente en materia de protección de datos de carácter personal y, en todo caso, 
-a lo establecido en la disposición adicional vigesimotercera de la Ley Orgánica 2/2006, de 
+a lo establecido en la disposición adicional vigesimotercera de la [Ley Orgánica 2/2006](../../../estatal/01_marco_normativo_general_y_organico/LO2_2006_educacion_texto_consolidado_modificaciones_lomloe.md), de 
 3 de mayo, de Educación.
 16.2. Quienes se hayan presentado a estas pruebas, en su propio nombre o, en el caso de 
 alumnado menor de edad, a través de su representante legal, podrán solicitar aclaraciones 

@@ -52,19 +52,19 @@ Primero.- La Orden de 31 de diciembre de 1990, de la Consejería de Educación, 
 y Deportes, regula el procedimiento de justificación de las cantidades que, por el concepto de 
 “Otros Gastos”, perciben los centros concertados de Canarias; siendo la Dirección General 
 de Ordenación, Innovación y Promoción Educativa el órgano instructor del expediente.
-Segundo.- La Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común 
+Segundo.- La [Ley 39/2015](../../../estatal/01_marco_normativo_general_y_organico/L39_2015_procedimiento_administrativo_comun_administraciones_publicas.md), de 1 de octubre, del Procedimiento Administrativo Común 
 de las Administraciones Públicas, establece en su artículo 14 que las personas jurídicas 
 estarán obligadas a relacionarse a través de medios electrónicos con las Administraciones 
 Públicas para la realización de cualquier trámite de un procedimiento administrativo.
 Tercero.- La presente Resolución responde a la necesidad de dictar instrucciones sobre la 
 presentación de solicitudes y tramitación, vía telemática, del procedimiento de justificación 
-de otros gastos del concierto educativo, para su adecuación a la citada Ley 39/2015, de 1 de 
+de otros gastos del concierto educativo, para su adecuación a la citada [Ley 39/2015](../../../estatal/01_marco_normativo_general_y_organico/L39_2015_procedimiento_administrativo_comun_administraciones_publicas.md), de 1 de 
 octubre.
 FUNDAMENTOS DE DERECHO
 Primero.- La Orden de 31 de diciembre de 1990, por la que se regula el procedimiento de 
 justificación de las cantidades que, por el concepto de “Otros Gastos”, perciben los centros 
 concertados de Canarias (BOC nº 16, de 6.2.91).
-Segundo.- La Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común 
+Segundo.- La [Ley 39/2015](../../../estatal/01_marco_normativo_general_y_organico/L39_2015_procedimiento_administrativo_comun_administraciones_publicas.md), de 1 de octubre, del Procedimiento Administrativo Común 
 de las Administraciones Públicas (BOE nº 236, de 2.10.15).
 Esta Dirección General de acuerdo con todo lo anterior, y en uso de las atribuciones 
 que le son propias con arreglo a lo previsto en el artículo 13 del [Decreto 135/2016](../01_marco_normativo_general_y_organico/D135_2016_reglamento_organico_consejeria_educacion_universidades_cultura.md), de 10 
@@ -99,7 +99,7 @@ El objeto de las presentes instrucciones es adecuar el procedimiento de justific
 otros gastos del concierto educativo, recogido en la Orden 31 de diciembre de 1990, de la 
 Consejería de Educación, Cultura y Deportes, que regula el procedimiento de justificación 
 de las cantidades que, por el concepto de “Otros gastos”, perciben los centros concertados 
-en Canarias, a la Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común de 
+en Canarias, a la [Ley 39/2015](../../../estatal/01_marco_normativo_general_y_organico/L39_2015_procedimiento_administrativo_comun_administraciones_publicas.md), de 1 de octubre, del Procedimiento Administrativo Común de 
 las Administraciones Públicas.
 2.- Ámbito de aplicación.
 Estas instrucciones serán de aplicación para todos los centros educativos privados 
@@ -134,7 +134,7 @@ esta instrucción 4ª, se deberá imprimir y firmar manualmente, para su posteri
 ante el órgano instructor del expediente o en las Direcciones Insulares y Territoriales de 
 Educación.
 Igualmente, se podrán presentar en cualquiera de las dependencias a que se refiere el 
-artículo 16.4 de la Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común 
+artículo 16.4 de la [Ley 39/2015](../../../estatal/01_marco_normativo_general_y_organico/L39_2015_procedimiento_administrativo_comun_administraciones_publicas.md), de 1 de octubre, del Procedimiento Administrativo Común 
 de las Administraciones Públicas. En caso de presentarse en una Oficina de Correos, la 
 solicitud deberá ser sellada y fechada por la Oficina de Correos antes de introducirla en el 
 sobre. 

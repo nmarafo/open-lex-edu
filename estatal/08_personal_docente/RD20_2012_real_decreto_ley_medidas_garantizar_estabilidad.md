@@ -274,7 +274,7 @@ Así, por un lado, se promulgó el Real Decreto-ley 1/2012, de 27 de enero, por 
 
 Posteriormente, el Real Decreto-ley 13/2012, de 30 de marzo, por el que se transponen directivas en materia de mercados interiores de electricidad y gas y en materia de comunicaciones electrónicas, y por el que se adoptan medidas para la corrección de las desviaciones por desajustes entre los costes e ingresos de los sectores eléctrico y gasista, introdujo una batería de medidas con el objetivo de contribuir a alcanzar la suficiencia de los ingresos para cubrir los costes del sistema eléctrico. Estas medidas se complementaron con la revisión de peajes de acceso a las redes de transporte y distribución de aplicación a los suministros a partir del 1 de abril de 2012, que se llevó a cabo mediante la Orden IET/843/2012, de 25 de abril, por la que se establecen los peajes de acceso a partir de 1 de abril de 2012 y determinadas tarifas y primas de las instalaciones de régimen especial.
 
-Sin embargo, debe tenerse en cuenta la reciente aprobación de la Ley 2/2012, de 29 de junio, de Presupuestos Generales del Estado para el año 2012, que condicionada por las restricciones presupuestarias, deja en suspenso la aplicación del mecanismo de compensación con cargo a los Presupuestos Generales del Estado establecido en la disposición adicional primera del Real Decreto-ley 6/2009, de 30 de abril, conforme al cual se determinan las compensaciones por los extracostes de generación de los sistemas eléctricos Insulares y extrapeninsulares. Esto supone, por tanto, la incorporación como nuevo coste del sistema eléctrico, la partida correspondiente al 17 por ciento del sobrecoste de generación de los sistemas eléctricos insulares y extrapeninsulares en el año 2011.
+Sin embargo, debe tenerse en cuenta la reciente aprobación de la [Ley 2/2012](./L2_2012_presupuestos_generales_estado_ano.md), de 29 de junio, de Presupuestos Generales del Estado para el año 2012, que condicionada por las restricciones presupuestarias, deja en suspenso la aplicación del mecanismo de compensación con cargo a los Presupuestos Generales del Estado establecido en la disposición adicional primera del Real Decreto-ley 6/2009, de 30 de abril, conforme al cual se determinan las compensaciones por los extracostes de generación de los sistemas eléctricos Insulares y extrapeninsulares. Esto supone, por tanto, la incorporación como nuevo coste del sistema eléctrico, la partida correspondiente al 17 por ciento del sobrecoste de generación de los sistemas eléctricos insulares y extrapeninsulares en el año 2011.
 
 Esta circunstancia, unida a la necesidad del cumplimiento del principio de suficiencia de los ingresos obtenidos para cubrir los costes del sistema eléctrico a partir del 1 de enero de 2013 en la que inciden los recientes pronunciamientos judiciales, hace necesario la adopción con carácter urgente de medidas adicionales que equilibren el sistema eléctrico y de tal forma que el obligado ajuste sea compartido en este duro contexto económico actual por todos los agentes del sistema.
 
@@ -334,11 +334,11 @@ A estos efectos se considera también actividad en el sector público la desarro
 
 #### Artículo 2. Paga extraordinaria del mes de diciembre de 2012 del personal del sector público.
 
-1. En el año 2012 el personal del sector público definido en el artículo 22. Uno de la Ley 2/2012, de 29 de junio, de Presupuestos Generales del Estado, verá reducida sus retribuciones en las cuantías que corresponda percibir en el mes de diciembre como consecuencia de la supresión tanto de la paga extraordinaria como de la paga adicional de complemento específico o pagas adicionales equivalentes de dicho mes.
+1. En el año 2012 el personal del sector público definido en el artículo 22. Uno de la [Ley 2/2012](./L2_2012_presupuestos_generales_estado_ano.md), de 29 de junio, de Presupuestos Generales del Estado, verá reducida sus retribuciones en las cuantías que corresponda percibir en el mes de diciembre como consecuencia de la supresión tanto de la paga extraordinaria como de la paga adicional de complemento específico o pagas adicionales equivalentes de dicho mes.
 
 2. Para hacer efectivo lo dispuesto en el apartado anterior, se adoptarán las siguientes medidas:
 
-2.1 El personal funcionario no percibirá en el mes de diciembre las cantidades a que se refiere el artículo 22.Cinco.2 de la Ley 2/2012, de 29 de junio, de Presupuestos Generales del Estado para el año 2012 en concepto de sueldo y trienios.
+2.1 El personal funcionario no percibirá en el mes de diciembre las cantidades a que se refiere el artículo 22.Cinco.2 de la [Ley 2/2012](./L2_2012_presupuestos_generales_estado_ano.md), de 29 de junio, de Presupuestos Generales del Estado para el año 2012 en concepto de sueldo y trienios.
 
 Tampoco se percibirá las cuantías correspondientes al resto de los conceptos retributivos que integran tanto la paga extraordinaria como la paga adicional de complemento específico o pagas adicionales equivalentes del mes de diciembre, pudiendo, en este caso, acordarse por cada Administración competente que dicha reducción se ejecute de forma prorrateada entre las nóminas pendientes de percibir en el presente ejercicio a partir de la entrada en vigor de este Real Decreto-ley.
 
@@ -360,17 +360,17 @@ La reducción retributiva establecida en el apartado 1 de este artículo será t
 
 #### Artículo 3. Paga extraordinaria y adicional o equivalente del mes de diciembre de 2012 del personal del sector público estatal.
 
-1. De acuerdo con lo dispuesto en el artículo 2 de este Real Decreto-ley, el personal funcionario, estatutario y los miembros de las carreras judicial y fiscal incluido en los artículos 26, 28, 29, 30, 31 apartados Uno y Dos, 32 y 35 de la Ley 2/2012, de 29 de junio, de Presupuestos Generales del Estado para el año 2012, no percibirá en el mes de diciembre de 2012 ninguna cuantía ni en concepto de paga extraordinaria ni, en su caso, en concepto de paga adicional de complemento específico o equivalente.
+1. De acuerdo con lo dispuesto en el artículo 2 de este Real Decreto-ley, el personal funcionario, estatutario y los miembros de las carreras judicial y fiscal incluido en los artículos 26, 28, 29, 30, 31 apartados Uno y Dos, 32 y 35 de la [Ley 2/2012](./L2_2012_presupuestos_generales_estado_ano.md), de 29 de junio, de Presupuestos Generales del Estado para el año 2012, no percibirá en el mes de diciembre de 2012 ninguna cuantía ni en concepto de paga extraordinaria ni, en su caso, en concepto de paga adicional de complemento específico o equivalente.
 
-2. Al personal laboral del sector público estatal incluido en el artículo 27 de la Ley 2/2012 le será de aplicación lo dispuesto en el artículo 2, apartado 2.2, de este Real Decreto-ley.
+2. Al personal laboral del sector público estatal incluido en el artículo 27 de la [Ley 2/2012](./L2_2012_presupuestos_generales_estado_ano.md) le será de aplicación lo dispuesto en el artículo 2, apartado 2.2, de este Real Decreto-ley.
 
-3. Para el personal incluido en el artículo 31, apartado tres de la Ley 2/2012, la aplicación de lo previsto en el artículo 2 de este Real Decreto-ley se llevará a cabo, de acuerdo con lo previsto en la Ley Orgánica del Poder Judicial, respecto de los conceptos de sueldo y trienios, minorando una catorceava parte de la cuantía anual por dichos conceptos y prorrateando dicha minoración entre las mensualidades ordinarias y extraordinarias pendientes de percibir en el presente ejercicio a partir de la entrada en vigor de este Real Decreto-ley.
+3. Para el personal incluido en el artículo 31, apartado tres de la [Ley 2/2012](./L2_2012_presupuestos_generales_estado_ano.md), la aplicación de lo previsto en el artículo 2 de este Real Decreto-ley se llevará a cabo, de acuerdo con lo previsto en la Ley Orgánica del Poder Judicial, respecto de los conceptos de sueldo y trienios, minorando una catorceava parte de la cuantía anual por dichos conceptos y prorrateando dicha minoración entre las mensualidades ordinarias y extraordinarias pendientes de percibir en el presente ejercicio a partir de la entrada en vigor de este Real Decreto-ley.
 
 Tampoco percibirán, en el mes de diciembre, las cuantías contenidas en el anexo XI de la Ley 39/2010, de 22 de diciembre, de Presupuestos Generales del Estado para el año 2011, ni las correspondientes al citado mes de diciembre del apartado segundo del Acuerdo de Consejo de Ministros de 8 de mayo de 2009, publicado por Orden 1230/2009, de 18 de mayo, del Ministerio de la Presidencia.
 
 Al personal incluido en el artículo 31 apartado cuatro, le serán de aplicación las reducciones previstas en el presente artículo de acuerdo a la normativa que les resulte de aplicación.
 
-4. A los miembros del Poder Judicial y del Ministerio Fiscal a que se refiere el apartado cinco del artículo 31 de la Ley 2/2012, en aplicación de lo dispuesto en el artículo 2 de este Real Decreto-ley, se les reducirá una catorceava parte de las retribuciones totales anuales que figuran en el citado artículo, incluida la paga correspondiente al mes de diciembre recogida en el Anexo X de la Ley 39/2010, de 22 de diciembre, de Presupuestos Generales del Estado para 2011.
+4. A los miembros del Poder Judicial y del Ministerio Fiscal a que se refiere el apartado cinco del artículo 31 de la [Ley 2/2012](./L2_2012_presupuestos_generales_estado_ano.md), en aplicación de lo dispuesto en el artículo 2 de este Real Decreto-ley, se les reducirá una catorceava parte de las retribuciones totales anuales que figuran en el citado artículo, incluida la paga correspondiente al mes de diciembre recogida en el Anexo X de la Ley 39/2010, de 22 de diciembre, de Presupuestos Generales del Estado para 2011.
 
 5. La citada minoración se prorrateará entre las nóminas pendientes de percibir en el presente ejercicio a partir de la entrada en vigor de este Real Decreto-ley.
 
@@ -378,17 +378,17 @@ Al personal incluido en el artículo 31 apartado cuatro, le serán de aplicació
 
 #### Artículo 4. Paga extraordinaria del mes de diciembre de 2012 de los Altos cargos.
 
-1. A los Altos Cargos del Gobierno de la Nación, de sus órganos consultivos, de los miembros del Consejo General del Poder Judicial, del Tribunal Constitucional y del Tribunal de Cuentas, cuyas retribuciones no contemplan expresamente, entre sus conceptos retributivos, el de paga extraordinaria o equivalente, se les reducirá una catorceava parte de las retribuciones totales anuales que figuran en los artículos 24. Uno y 25 de la Ley 2/2012, de 29 de abril, de Presupuestos Generales del Estado para 2012. La citada minoración se prorrateará entre las nóminas pendientes de percibir en el presente ejercicio a partir de la entrada en vigor de este Real Decreto-Ley.
+1. A los Altos Cargos del Gobierno de la Nación, de sus órganos consultivos, de los miembros del Consejo General del Poder Judicial, del Tribunal Constitucional y del Tribunal de Cuentas, cuyas retribuciones no contemplan expresamente, entre sus conceptos retributivos, el de paga extraordinaria o equivalente, se les reducirá una catorceava parte de las retribuciones totales anuales que figuran en los artículos 24. Uno y 25 de la [Ley 2/2012](./L2_2012_presupuestos_generales_estado_ano.md), de 29 de abril, de Presupuestos Generales del Estado para 2012. La citada minoración se prorrateará entre las nóminas pendientes de percibir en el presente ejercicio a partir de la entrada en vigor de este Real Decreto-Ley.
 
 2. La reducción prevista en el artículo 2 de este Real Decreto-ley será de aplicación a los Secretarios de Estado, Subsecretarios, Directores Generales y asimilados, así como a los Consejeros Permanentes y Secretario General del Consejo de Estado en los mismos términos que al personal funcionario al servicio de la Administración General del Estado.
 
-Al personal incluido en el artículo 24.Tres de la Ley 2/2012 de Presupuestos Generales del Estado para 2012, se le aplicará igualmente lo previsto en el artículo 2 del presente Real Decreto-ley, procediéndose a la supresión de la paga extraordinaria del mes de diciembre o, de no existir dicha paga extraordinaria, a la minoración de una catorceava parte de sus retribuciones anuales totales, prorrateándose la citada minoración entre las nóminas pendientes de percibir en el presente ejercicio a partir de la entrada en vigor de este Real Decreto-Ley.
+Al personal incluido en el artículo 24.Tres de la [Ley 2/2012](./L2_2012_presupuestos_generales_estado_ano.md) de Presupuestos Generales del Estado para 2012, se le aplicará igualmente lo previsto en el artículo 2 del presente Real Decreto-ley, procediéndose a la supresión de la paga extraordinaria del mes de diciembre o, de no existir dicha paga extraordinaria, a la minoración de una catorceava parte de sus retribuciones anuales totales, prorrateándose la citada minoración entre las nóminas pendientes de percibir en el presente ejercicio a partir de la entrada en vigor de este Real Decreto-Ley.
 
 3. Lo dispuesto en este artículo será también de aplicación al Defensor del Pueblo.
 
 #### Artículo 5. Cotización al régimen general de Seguridad Social.
 
-A efectos del cálculo de la base de cotización por todas las contingencias de los empleados públicos encuadrados en el Régimen General de la Seguridad Social cuyas retribuciones sean objeto del ajuste previsto en este Real Decreto-ley, en tanto permanezca su relación laboral o de servicio, seguirá siendo de aplicación lo dispuesto en el artículo 120. Dieciséis de la Ley 2/2012, de 29 de junio de Presupuestos Generales del Estado para 2012.
+A efectos del cálculo de la base de cotización por todas las contingencias de los empleados públicos encuadrados en el Régimen General de la Seguridad Social cuyas retribuciones sean objeto del ajuste previsto en este Real Decreto-ley, en tanto permanezca su relación laboral o de servicio, seguirá siendo de aplicación lo dispuesto en el artículo 120. Dieciséis de la [Ley 2/2012](./L2_2012_presupuestos_generales_estado_ano.md), de 29 de junio de Presupuestos Generales del Estado para 2012.
 
 #### Artículo 6. Aplicación del artículo 31 del Estatuto de los Trabajadores, aprobado por Real Decreto Legislativo 1/1995, de 24 de marzo, al personal laboral del sector público.
 
@@ -582,7 +582,7 @@ Para ello, por el citado Ministerio se analizará la distribución del personal 
 
 #### Artículo 16. Suspensión de pactos, acuerdos y convenios.
 
-Se suspenden y quedan sin efecto los acuerdos, pactos y convenios para el personal del sector público definido en el artículo 22 de la Ley 2/2012, de 29 de junio, de Presupuestos generales del Estado, suscritos por las Administraciones públicas y sus organismos y entidades que contengan cláusulas que se opongan a lo dispuesto en el presente título.
+Se suspenden y quedan sin efecto los acuerdos, pactos y convenios para el personal del sector público definido en el artículo 22 de la [Ley 2/2012](./L2_2012_presupuestos_generales_estado_ano.md), de 29 de junio, de Presupuestos generales del Estado, suscritos por las Administraciones públicas y sus organismos y entidades que contengan cláusulas que se opongan a lo dispuesto en el presente título.
 
 ## TÍTULO II
 
@@ -1906,9 +1906,9 @@ En la determinación de estos criterios se tendrá en cuenta el consumo medio de
 
 Se habilita al Ministro de Industria, Energía y Turismo a determinar, previo Acuerdo de la Comisión Delegada del Gobierno para Asuntos Económicos, los concretos tributos y recargos que serán considerados a efectos de la aplicación del suplemento territorial a los peajes de acceso y tarifas de último recurso, de acuerdo con lo establecido en los artículos 17 y 18 de la Ley 54/1997, de 27 de noviembre, del Sector Eléctrico, así como los mecanismos necesarios para su gestión y liquidación
 
-#### Disposición adicional decimosexta. Aplicación de la disposición adicional sexta de la Ley 2/2012, de 29 de junio, de Presupuestos Generales del Estado para el año 2012.
+#### Disposición adicional decimosexta. Aplicación de la disposición adicional sexta de la [Ley 2/2012](./L2_2012_presupuestos_generales_estado_ano.md), de 29 de junio, de Presupuestos Generales del Estado para el año 2012.
 
-A los efectos de la aplicación de la disposición adicional sexta de la Ley 2/2012, de 29 de junio, de Presupuestos Generales del Estado para el año 2012, la consideración de los porcentajes de cesión a favor de las entidades locales incluidas en el modelo de cesión de impuestos estatales, citados en los apartados Uno y Tres de dicha disposición, a efectos de calcular la liquidación definitiva correspondiente al año 2010, se deberán entender de aplicación exclusiva para determinar la cesión del Impuesto sobre la Renta de las Personas Físicas. Por lo que se refiere a la citada liquidación de la cesión de los impuestos indirectos serán de aplicación los porcentajes de cesión establecidos en los artículos 93, 94, 95, 101, 102 y 103 de la Ley 26/2009, de 23 de diciembre, de Presupuestos Generales del Estado para el año 2010.»
+A los efectos de la aplicación de la disposición adicional sexta de la [Ley 2/2012](./L2_2012_presupuestos_generales_estado_ano.md), de 29 de junio, de Presupuestos Generales del Estado para el año 2012, la consideración de los porcentajes de cesión a favor de las entidades locales incluidas en el modelo de cesión de impuestos estatales, citados en los apartados Uno y Tres de dicha disposición, a efectos de calcular la liquidación definitiva correspondiente al año 2010, se deberán entender de aplicación exclusiva para determinar la cesión del Impuesto sobre la Renta de las Personas Físicas. Por lo que se refiere a la citada liquidación de la cesión de los impuestos indirectos serán de aplicación los porcentajes de cesión establecidos en los artículos 93, 94, 95, 101, 102 y 103 de la Ley 26/2009, de 23 de diciembre, de Presupuestos Generales del Estado para el año 2010.»
 
 #### Disposición adicional decimoséptima. Beneficios fiscales aplicables a la «Candidatura de Madrid 2020».
 
@@ -2242,9 +2242,9 @@ Las fundaciones, sociedades mercantiles y resto de entidades que conforman el se
 
 En el marco de las normas vigentes en materia de transparencia, las entidades mencionadas en el párrafo anterior, deberán informar al Ministerio de Hacienda y Administraciones Públicas u organismo autonómico competente en relación con estas materias, sin perjuicio de la protección de datos de carácter personal.
 
-#### Disposición final novena. Modificación de la Ley 2/2012, de 29 de abril, de Presupuestos Generales del Estado para 2012.
+#### Disposición final novena. Modificación de la [Ley 2/2012](./L2_2012_presupuestos_generales_estado_ano.md), de 29 de abril, de Presupuestos Generales del Estado para 2012.
 
-Se da nueva redacción al artículo 18 de la Ley 2/2012, de 29 de abril, de Presupuestos Generales del Estado para 2012 que queda redactado en los siguientes términos:
+Se da nueva redacción al artículo 18 de la [Ley 2/2012](./L2_2012_presupuestos_generales_estado_ano.md), de 29 de abril, de Presupuestos Generales del Estado para 2012 que queda redactado en los siguientes términos:
 
 «Al amparo de lo dispuesto en la disposición adicional primera de la Ley Orgánica 6/2001, de 21 de diciembre, de Universidades, se autorizan los costes de personal docente (funcionario y contratado) y del personal de administración y servicios (funcionario y laboral fijo) de la Universidad Nacional de Educación a Distancia (UNED) para el año 2012 y por los importes consignados a continuación, sin incluir trienios ni seguridad social:
 
@@ -2264,9 +2264,9 @@ Miles de euros
 
 25.426,66
 
-#### Disposición final décima. Modificación de la Ley 2/2012, de 29 de junio, de Presupuestos Generales del Estado para el año 2012.
+#### Disposición final décima. Modificación de la [Ley 2/2012](./L2_2012_presupuestos_generales_estado_ano.md), de 29 de junio, de Presupuestos Generales del Estado para el año 2012.
 
-Uno. Se modifica el apartado seis del artículo 17 de la Ley 2/2012, de 29 de junio, de Presupuestos Generales del Estado para el año 2012, que queda redactado en los siguientes términos:
+Uno. Se modifica el apartado seis del artículo 17 de la [Ley 2/2012](./L2_2012_presupuestos_generales_estado_ano.md), de 29 de junio, de Presupuestos Generales del Estado para el año 2012, que queda redactado en los siguientes términos:
 
 «Seis. Las cantidades máximas a percibir de los alumnos en concepto de financiación complementaria a la proveniente de los fondos públicos que se asignen al régimen de conciertos singulares, suscritos para enseñanzas de niveles no obligatorios, y en concepto exclusivo de enseñanza reglada, son las que se establecen a continuación:
 
@@ -2280,7 +2280,7 @@ Los centros que en el año 2011 estuvieran autorizados para percibir cuotas supe
 
 La cantidad abonada por la Administración no podrá ser inferior a la resultante de minorar en 3.606,08 euros el importe correspondiente al componente de «otros gastos» de los módulos económicos establecidos en el anexo IV de la presente Ley, pudiendo las Administraciones educativas competentes establecer la regulación necesaria al respecto.»
 
-Dos. Los anexos IV y V de la Ley 2/2012, de 29 de junio, de Presupuestos Generales del Estado para el año 2012 quedan redactados de la siguiente forma:
+Dos. Los anexos IV y V de la [Ley 2/2012](./L2_2012_presupuestos_generales_estado_ano.md), de 29 de junio, de Presupuestos Generales del Estado para el año 2012 quedan redactados de la siguiente forma:
 
 «ANEXO IV
 
@@ -3652,9 +3652,9 @@ Al personal docente de los Centros concertados ubicados en Ceuta y Melilla, se l
 
 (2) A los licenciados que impartan 1.º y 2.º curso de Educación Secundaria Obligatoria se les aplicará este módulo.
 
-#### Disposición final undécima. Modificación de la Ley 2/2012, de 29 de junio, de Presupuestos Generales del Estado para el año 2012
+#### Disposición final undécima. Modificación de la [Ley 2/2012](./L2_2012_presupuestos_generales_estado_ano.md), de 29 de junio, de Presupuestos Generales del Estado para el año 2012
 
-Se modifica el apartado seis del artículo 17 de la Ley 2/2012, de 29 de junio, de Presupuestos Generales del Estado para el año 2012, que queda redactado en los siguientes términos:
+Se modifica el apartado seis del artículo 17 de la [Ley 2/2012](./L2_2012_presupuestos_generales_estado_ano.md), de 29 de junio, de Presupuestos Generales del Estado para el año 2012, que queda redactado en los siguientes términos:
 
 «Seis. Las cantidades máximas a percibir de los alumnos en concepto de financiación complementaria a la proveniente de los fondos públicos que se asignen al régimen de conciertos singulares, suscritos para enseñanzas de niveles no obligatorios, y en concepto exclusivo de enseñanza reglada, son las que se establecen a continuación:
 

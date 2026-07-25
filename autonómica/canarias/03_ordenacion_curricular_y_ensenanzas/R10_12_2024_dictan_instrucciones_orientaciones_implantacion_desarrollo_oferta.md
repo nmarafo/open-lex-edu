@@ -74,7 +74,7 @@ semipresencial y virtual, a lo establecido en la Ley 3/2022 y a los Reales Decre
 desarrollan en la Comunidad Autónoma de Canarias, a partir del curso 2024-2025, y de 
 acuerdo con los siguientes
 ANTECEDENTES DE HECHO
-Primero.- La Ley Orgánica 3/2022, de 31 de marzo, de ordenación e integración 
+Primero.- La [Ley Orgánica 3/2022](../08_personal_docente/LO3_2022_ordenacion_gestion_determinadas_listas_empleo_tras.md), de 31 de marzo, de ordenación e integración 
 de la Formación Profesional, en adelante 
 LOOIFP, concreta el compromiso asumido por 
 España de modernización de nuestro país, facilitando la cualificación, la empleabilidad y, 
@@ -121,7 +121,7 @@ el sistema educativo sin ninguna titulación.
 Segundo.- La 
 LOOIFP indica que las enseñanzas de formación profesional pertenecientes 
 al sistema educativo en las modalidades semipresencial y virtual se deben adaptar a lo 
-dispuesto en el artículo 42.8 de la Ley Orgánica 2/2006, de 3 de mayo, manteniendo una 
+dispuesto en el artículo 42.8 de la [Ley Orgánica 2/2006](../../../estatal/01_marco_normativo_general_y_organico/LO2_2006_educacion_texto_consolidado_modificaciones_lomloe.md), de 3 de mayo, manteniendo una 
 oferta pública en estas modalidades que garanticen el acceso a las personas a la formación 
 profesional, siempre que esté garantizada, síncrona o asíncronamente, la interacción 
 didáctica adecuada y continua para las ofertas de los diferentes grados formativos.
@@ -153,13 +153,13 @@ basados en los principios de accesibilidad del Diseño Universal para el Aprendi
 Quinto.- El Real Decreto 658/2024, de 9 de julio, por el que se modifican el Real 
 Decreto 132/2010, de 12 de febrero, por el que se establecen los requisitos mínimos de 
 los centros que impartan las enseñanzas del segundo ciclo de la educación infantil, la educación 
-primaria y la educación secundaria, y el Real Decreto 659/2023, de 18 de julio, por el que 
+primaria y la educación secundaria, y el [Real Decreto 659/2023](./RD659_2023_dictan_instrucciones_orientaciones_formacion_dual_empresas.md), de 18 de julio, por el que 
 se desarrolla la ordenación del Sistema de Formación Profesional, que modifica el apartado 
-13 del artículo 18 del Real Decreto 659/2023 respecto al número de convocatorias objeto 
+13 del artículo 18 del [Real Decreto 659/2023](./RD659_2023_dictan_instrucciones_orientaciones_formacion_dual_empresas.md) respecto al número de convocatorias objeto 
 de evaluación de cada módulo profesional en función de la oferta formativa que se trate.
 Sexto.- Respecto a la formación en empresas u organismos equiparados en las ofertas 
 de ciclos formativos de Grado D y E, los siguientes Reales Decretos que complementan al 
-Real Decreto 659/2023:
+[Real Decreto 659/2023](./RD659_2023_dictan_instrucciones_orientaciones_formacion_dual_empresas.md):
 - Real Decreto 497/2024, de 21 de mayo, por el que se modifican determinados reales 
 decretos por los que se establecen, en el ámbito de la Formación Profesional, cursos de 
 especialización de grado medio y superior y se fijan sus enseñanzas mínimas.
@@ -272,7 +272,7 @@ de Régimen Especial para cada centro educativo.
 semipresencial o virtual podrán realizar una oferta de formación modular asociada a 
 estándares de competencia, de conformidad con los artículos 32 y 33 de la 
 LOOIFP y los 
-artículos del 28 al 31 del Real Decreto 659/2023, de 18 de julio.
+artículos del 28 al 31 del [Real Decreto 659/2023](./RD659_2023_dictan_instrucciones_orientaciones_formacion_dual_empresas.md), de 18 de julio.
 En caso de efectuarse esta oferta, la matrícula del alumnado no comportará ocupación 
 de plaza general, sino, en su caso, a efectos de desdobles en los módulos profesionales 
 afectados por la matrícula parcial.
@@ -325,7 +325,7 @@ escolar deberá atender al apartado A9.5 de la instrucción novena de este anexo
 semipresencial o virtual, deberá acreditarse el cumplimiento de los requisitos académicos 
 de acceso a la Formación Profesional contemplados para los diferentes grados en la 
 LOOIFP 
-y en el Real Decreto 659/2023, de 18 de julio.
+y en el [Real Decreto 659/2023](./RD659_2023_dictan_instrucciones_orientaciones_formacion_dual_empresas.md), de 18 de julio.
 
 4. Se podrá permitir el acceso a la formación modular, en la modalidad semipresencial 
 o virtual, a personas con experiencia laboral que no reúnan las condiciones académicas 
@@ -394,7 +394,7 @@ de que el alumnado pueda alcanzar de manera autónoma y autosuficiente los resul
 aprendizaje previstos en los diferentes módulos. Se emplearán en esta atención los soportes 
 didácticos y herramientas digitales que posibiliten la comunicación síncrona y asíncrona 
 entre el profesorado tutor y el alumnado en estas modalidades, tal y como indica el artículo 
-24 del Real Decreto 659/2023, de 18 de julio.
+24 del [Real Decreto 659/2023](./RD659_2023_dictan_instrucciones_orientaciones_formacion_dual_empresas.md), de 18 de julio.
 b) La atención tutorial colectiva.
 La atención colectiva incluye todas aquellas acciones que favorezcan el acompañamiento, 
 orientación y apoyo durante el proceso de aprendizaje del alumnado realizadas, de forma 
@@ -434,7 +434,7 @@ o, en su caso, de forma presencial, siendo su asistencia voluntaria.
 tutorías podrá ser obligatoria, cuando así se considere por el profesorado para el logro de los 
 resultados de aprendizaje. En tal caso, estas sesiones se grabarán y se pondrán a disposición del 
 alumnado en la plataforma de aprendizaje, para que el alumnado pueda consultarlas de manera 
-asíncrona cuando así lo necesite, en cumplimiento del artículo 24.1.b) del Real Decreto 659/2023. 
+asíncrona cuando así lo necesite, en cumplimiento del artículo 24.1.b) del [Real Decreto 659/2023](./RD659_2023_dictan_instrucciones_orientaciones_formacion_dual_empresas.md). 
 Las actividades realizadas en estas tutorías podrán ser tenidas en cuenta por el profesorado en la 
 programación didáctica del módulo profesional para su evaluación y calificación.
 • Cada centro podrá programar, en base a criterios pedagógicos establecidos por el 
@@ -575,7 +575,7 @@ ITK
 • La asistencia del alumnado a las tutorías colectivas presenciales en esta modalidad no 
 será obligatoria, pudiendo ser atendido de manera síncrona o asíncrona por el profesorado y 
 mediante la plataforma de teleformación dispuesta al efecto, siguiendo lo establecido para 
-esta modalidad en el Real Decreto 659/2023.
+esta modalidad en el [Real Decreto 659/2023](./RD659_2023_dictan_instrucciones_orientaciones_formacion_dual_empresas.md).
 • La asistencia presencial del alumnado será obligatoria a efectos de pruebas y exámenes 
 o actividades de aprendizaje de carácter obligatorio y que se consideran imprescindibles. 
 Tanto los criterios considerados para ello como el calendario de celebración deberán 
@@ -638,11 +638,11 @@ modalidad presencial, realizándose en un único periodo.
 en las ofertas de Grado C, D y, E en modalidad semipresencial y virtual, será presencial, 
 salvo que la empresa en la que se realiza permita el desarrollo de las actividades productivas 
 en forma de teletrabajo. Esta formación viene regulada por lo establecido en el Título IV 
-del Real Decreto 659/2023, de 18 de julio, y por la Resolución que establezca la 
+del [Real Decreto 659/2023](./RD659_2023_dictan_instrucciones_orientaciones_formacion_dual_empresas.md), de 18 de julio, y por la Resolución que establezca la 
 DGFPERE 
 a tal efecto.
 4. El inicio de la estancia en empresa u organismo equiparado se realizará de acuerdo 
-con lo establecido en el artículo 158 del Real Decreto 659/2023, de 18 de julio, y en la 
+con lo establecido en el artículo 158 del [Real Decreto 659/2023](./RD659_2023_dictan_instrucciones_orientaciones_formacion_dual_empresas.md), de 18 de julio, y en la 
 resolución que dicte la DGFPERE a tal efecto.
 5. Los centros educativos podrán establecer, al inicio de cada oferta formativa de Grado 
 C, D y E, atendiendo a las necesidades tanto del alumnado como del tejido empresarial del 
@@ -653,7 +653,7 @@ y en la programación general anual del centro.
 6. Con carácter general, el alumnado acumulará la totalidad de las horas de formación 
 en empresa u organismo equiparado al final del ciclo formativo, una vez superados todos 
 los módulos, hasta completar el periodo de formación en empresa u organismo equiparado. 
-Se podrá aplicar la excepción contemplada en el artículo 9.5 del Real Decreto 659/2023, de 
+Se podrá aplicar la excepción contemplada en el artículo 9.5 del [Real Decreto 659/2023](./RD659_2023_dictan_instrucciones_orientaciones_formacion_dual_empresas.md), de 
 18 de julio, preferentemente cuando el alumnado esté en condiciones de obtener el título, 
 sin menoscabo que lo pueda hacer al principio o durante su formación.
 7. Con carácter particular, atendiendo a las circunstancias profesionales y personales 
@@ -672,7 +672,7 @@ del plan de internacionalización del centro, atendiendo a lo establecido en la 
 la 
 DGFPERE para dichas circunstancias.
 10. La exención del periodo de formación en empresa u organismo equiparado se 
-realizará según lo establecido en los artículos 131 y 161 del Real Decreto 659/2023, de 
+realizará según lo establecido en los artículos 131 y 161 del [Real Decreto 659/2023](./RD659_2023_dictan_instrucciones_orientaciones_formacion_dual_empresas.md), de 
 18 de julio, o la normativa específica que se establezca por parte de la 
 DGFPERE.
 11. El alumnado podrá realizar la formación en empresa en un máximo de dos ocasiones, 
@@ -685,7 +685,7 @@ A) Características generales.
 modalidades se ajustará a lo dispuesto en la normativa vigente, adaptando las características, 
 procedimientos y documentos de evaluación a las peculiaridades organizativas y curriculares 
 de estas enseñanzas. En todo caso, se llevará a cabo de acuerdo con lo recogido en los 
-artículos 18, 27 y 107 del Real Decreto 659/2023, de 18 de julio.
+artículos 18, 27 y 107 del [Real Decreto 659/2023](./RD659_2023_dictan_instrucciones_orientaciones_formacion_dual_empresas.md), de 18 de julio.
 2. La evaluación respetará el carácter práctico de la formación, así como las necesidades 
 de adaptación metodológica y de recursos de las personas con necesidades específicas de 
 apoyo educativo o formativo, garantizando la accesibilidad de la evaluación.
@@ -728,7 +728,7 @@ el alumnado por cada curso académico, sin perjuicio de que puedan programarse p
 parciales que permitan la superación parcial de los contenidos y procedimientos de cada 
 módulo.
 10. La expresión de la calificación para cada módulo profesional y proyecto intermodular 
-atenderá a lo establecido en artículo 18.8 del Real Decreto 659/2023, de 18 de julio, siendo 
+atenderá a lo establecido en artículo 18.8 del [Real Decreto 659/2023](./RD659_2023_dictan_instrucciones_orientaciones_formacion_dual_empresas.md), de 18 de julio, siendo 
 numérica entre 1 y 10, sin decimales.
 B) Evaluación de la formación en empresa u organismo equiparado.
 1. La evaluación de la formación en empresa u organismo equiparado en modalidad 
@@ -979,7 +979,7 @@ que no haya superado la oferta de Formación Profesional semipresencial, conform
 ordenación académica vigente en el curso 2023-2024, se le aplicarán las convalidaciones 
 que para los módulos superados, han sido establecidas en el artículo 15, en su redacción 
 actual, de cada uno de los Reales Decretos que establece el título correspondiente y se fijan 
-los aspectos básicos del currículo y en el Real Decreto 659/2023, de 18 de julio.
+los aspectos básicos del currículo y en el [Real Decreto 659/2023](./RD659_2023_dictan_instrucciones_orientaciones_formacion_dual_empresas.md), de 18 de julio.
 2. En relación a los ciclos residuales 
 LOGSE, aún en vigor, quedan con la ordenación del 
 Sistema de Formación Profesional anterior, sin alteración alguna, manteniendo el módulo 

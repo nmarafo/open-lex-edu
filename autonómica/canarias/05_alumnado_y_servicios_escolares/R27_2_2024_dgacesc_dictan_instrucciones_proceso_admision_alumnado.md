@@ -108,7 +108,7 @@ alumnado en centros docentes que oferten enseñanzas no universitarias sostenida
 fondos públicos en la Comunidad Autónoma de Canarias, es el reglamento marco que 
 establece en nuestro ámbito autonómico de gestión el procedimiento de admisión del 
 alumnado en las distintas etapas o niveles educativos.
-Cuarto.- La Orden de 3 de marzo de 2022, por la que se desarrolla el Decreto 9/2022, 
+Cuarto.- La Orden de 3 de marzo de 2022, por la que se desarrolla el [Decreto 9/2022](./D9_2022_regula_admision_alumnado_centros_docentes_publicos.md), 
 de 20 de enero, que regula la admisión del alumnado en centros docentes que oferten 
 enseñanzas no universitarias sostenidas con fondos públicos en la Comunidad Autónoma 
 de Canarias, en su artículo 7.1 dispone que la dirección general competente en materia de 
@@ -120,7 +120,7 @@ de admisión del alumnado en las enseñanzas de Educación Infantil, Educación 
 Educación Secundaria Obligatoria, Bachillerato, y Educación de Personas Adultas, en los 
 centros docentes sostenidos con fondos públicos en la Comunidad Autónoma de Canarias
 En su virtud, y de acuerdo con la atribución prevista en la disposición adicional tercera 
-de la Orden de 3 de marzo de 2022, por la que se desarrolla el Decreto 9/2022, de 20 de 
+de la Orden de 3 de marzo de 2022, por la que se desarrolla el [Decreto 9/2022](./D9_2022_regula_admision_alumnado_centros_docentes_publicos.md), de 20 de 
 enero, por el que se regula la admisión del alumnado en centros docentes que oferten 
 enseñanzas no universitarias sostenidas con fondos públicos, en la Comunidad Autónoma 
 de Canarias, y en ejercicio de las competencias atribuidas en el artículo 17.2.e) del 

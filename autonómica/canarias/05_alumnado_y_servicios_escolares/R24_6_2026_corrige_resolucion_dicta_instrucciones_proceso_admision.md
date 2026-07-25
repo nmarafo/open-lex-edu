@@ -59,7 +59,7 @@ centros docentes sostenidos con fondos públicos en la Comunidad Autónoma de
 Canarias para el curso escolar 2026/2027 (BOC n.º 39, de 26.2.2026).
 ANTECEDENTES DE HECHO
 Primero.- Con fecha de 26 de febrero de 2026, se publica en el Boletín Oficial de 
-Canarias n.º 39 la Resolución de 13 de febrero de 2026, por la que se dictan instrucciones 
+Canarias n.º 39 la [Resolución de 13 de febrero de 2026](./R13_2_2026_convoca_procedimiento_admision_alumnado_ciclos_formativos.md), por la que se dictan instrucciones 
 sobre el proceso de admisión del alumnado a Ciclos Formativos de Grado Básico, Medio 
 y Superior (Grado D, niveles 1, 2 y 3, respectivamente) de las Enseñanzas de Formación 
 Profesional de Grado D, Enseñanzas Profesionales de Artes Plásticas y Diseño, Enseñanzas 
@@ -84,7 +84,7 @@ Física y Deportes, aprobado por el [Decreto 84/2024](../01_marco_normativo_gene
 las competencias generales y específicas a la Dirección General de Formación Profesional 
 y Enseñanzas de Régimen Especial,
 RESUELVO :
-Primero.- Corregir el error de hecho de la Resolución de 13 de febrero de 2026 (BOC 
+Primero.- Corregir el error de hecho de la [Resolución de 13 de febrero de 2026](./R13_2_2026_convoca_procedimiento_admision_alumnado_ciclos_formativos.md) (BOC 
 n.º 39, de 26.2.2026), en la instrucción decimotercera, en los siguientes términos:
 
 Decimotercera.- Reclamaciones y renuncias a la adjudicación provisional.

@@ -62,13 +62,13 @@ fundamentos_derecho:
 
 El artículo 92 de la [Ley Orgánica 2/2006](../01_marco_normativo_general_y_organico/LO2_2006_educacion_texto_consolidado_modificaciones_lomloe.md), de 3 de mayo, de Educación, establece que la atención educativa directa a los niños del primer ciclo de Educación Infantil correrá a cargo de profesionales que posean el título de Maestro con la especialización en Educación Infantil o el título de Grado equivalente y, en su caso, de otro personal con la debida titulación para la atención a las niñas y niños de esta edad. En todo caso, la elaboración y seguimiento de la propuesta pedagógica a la que hace referencia el apartado 2 del artículo 14, estarán bajo la responsabilidad de un profesional con el título de Maestro de Educación Infantil o título de Grado equivalente. El segundo ciclo de Educación Infantil será impartido por profesores con el título de Maestro y la especialidad en Educación Infantil o el título de Grado equivalente y podrán ser apoyados, en su labor docente, por Maestros de otras especialidades cuando las enseñanzas impartidas lo requieran.
 
-El artículo 93 de la Ley Orgánica 2/2006, de 3 de mayo, establece que para impartir las enseñanzas de Educación Primaria será necesario tener el título de Maestro de Educación Primaria o el título de Grado equivalente, sin perjuicio de la habilitación de otras titulaciones universitarias que, a efectos de docencia pudiera establecer el Gobierno para determinadas áreas, previa consulta a las Comunidades Autónomas. La Educación Primaria será impartida por Maestros, que tendrán competencia en todas las áreas de este nivel. La enseñanza de la música, de la Educación Física, de los idiomas extranjeros o de aquellas otras enseñanzas que determine el Gobierno, previa consulta a las Comunidades Autónomas, serán impartidas por Maestros con la especialización o cualificación correspondiente.
+El artículo 93 de la [Ley Orgánica 2/2006](../01_marco_normativo_general_y_organico/LO2_2006_educacion_texto_consolidado_modificaciones_lomloe.md), de 3 de mayo, establece que para impartir las enseñanzas de Educación Primaria será necesario tener el título de Maestro de Educación Primaria o el título de Grado equivalente, sin perjuicio de la habilitación de otras titulaciones universitarias que, a efectos de docencia pudiera establecer el Gobierno para determinadas áreas, previa consulta a las Comunidades Autónomas. La Educación Primaria será impartida por Maestros, que tendrán competencia en todas las áreas de este nivel. La enseñanza de la música, de la Educación Física, de los idiomas extranjeros o de aquellas otras enseñanzas que determine el Gobierno, previa consulta a las Comunidades Autónomas, serán impartidas por Maestros con la especialización o cualificación correspondiente.
 
 El artículo 8 del [Real Decreto 132/2010](RD132_2010_establecen_requisitos_minimos_centros_impartan_ensenanzas.md), de 12 de febrero, por el que se establecen los requisitos mínimos de los centros que impartan las enseñanzas del segundo ciclo de la Educación Infantil, la Educación Primaria y la Educación Secundaria, establece los requisitos de titulación de los profesionales que atienden la Educación Infantil indicando que la atención educativa en el primer ciclo de Educación Infantil correrá a cargo de profesionales que posean el título de Grado que habilite para el ejercicio de la profesión de Maestro de Educación Infantil, el título de Maestro con la especialidad de Educación Infantil, o el título de Técnico Superior en Educación Infantil regulado en el Real Decreto 1394/2007, de 29 de octubre, por el que se establece el título de Técnico Superior en Educación Infantil y se fijan sus enseñanzas mínimas.
 
 Asimismo, indica que el segundo ciclo de Educación Infantil correrá a cargo de profesionales que posean el título de Grado en Educación Infantil, o el título de Maestro con la especialidad de Educación Infantil. Cuando las enseñanzas impartidas lo requieran, el grupo podrá ser atendido por Maestros de otras especialidades.
 
-El artículo 12 del Real Decreto 132/2010, de 12 de febrero, se refiere a los requisitos de titulación académica del profesorado que imparte Educación Primaria, que deberá ser graduado en Educación Primaria o Maestro con la cualificación adecuada para impartir la enseñanza de la Música, la Educación Física y las Lenguas Extranjeras.
+El artículo 12 del [Real Decreto 132/2010](./RD132_2010_establecen_requisitos_minimos_centros_impartan_ensenanzas.md), de 12 de febrero, se refiere a los requisitos de titulación académica del profesorado que imparte Educación Primaria, que deberá ser graduado en Educación Primaria o Maestro con la cualificación adecuada para impartir la enseñanza de la Música, la Educación Física y las Lenguas Extranjeras.
 
 Asimismo indica que, además del personal docente, los centros de Educación Primaria que escolaricen a niños que presenten necesidad específica de apoyo educativo contarán, en su caso, con los recursos humanos y materiales de apoyo que determine la Administración educativa competente, necesarios para garantizar la correcta atención de este alumnado, que deberá disponer de la titulación o cualificación adecuada.
 
@@ -122,13 +122,13 @@ Estas enseñanzas también podrán ser impartidas por quienes estén en posesió
 
 a) Enseñanzas de Música:
 
-1.º Título Superior de Música relativo a las enseñanzas artísticas superiores a que se refiere el articulo 54 de la Ley Orgánica 2/2006, de 3 de mayo, de Educación.
+1.º Título Superior de Música relativo a las enseñanzas artísticas superiores a que se refiere el articulo 54 de la [Ley Orgánica 2/2006](../01_marco_normativo_general_y_organico/LO2_2006_educacion_texto_consolidado_modificaciones_lomloe.md), de 3 de mayo, de Educación.
 
 2.º Licenciado en Musicología o en Historia y Ciencia de la Música.
 
 3.º Título Superior de Música de la [Ley Orgánica 1/1990](LO1_1990_regula_regimen_equivalencias_estudios_basicos_medios.md), de 3 de octubre, de Ordenación General del Sistema Educativo, o titulaciones declaradas equivalentes a efectos de docencia.
 
-4.º Título Profesional de Música de la Ley Orgánica 1/1990, de 3 de octubre, o de la Ley Orgánica 2/2006, de 3 de mayo.
+4.º Título Profesional de Música de la [Ley Orgánica 1/1990](./LO1_1990_regula_regimen_equivalencias_estudios_basicos_medios.md), de 3 de octubre, o de la [Ley Orgánica 2/2006](../01_marco_normativo_general_y_organico/LO2_2006_educacion_texto_consolidado_modificaciones_lomloe.md), de 3 de mayo.
 
 5.º Diploma elemental o haber cursado las enseñanzas de Solfeo y Teoría de la Música, Conjunto Coral e Instrumento correspondientes al grado elemental conforme al Decreto 2618/1966, de 10 de septiembre.
 
@@ -212,7 +212,7 @@ Este requisito se entenderá cumplido al haber superado los cursos de especialid
 
 #### Artículo 8. Requisito de haber superado la fase de oposición de la especialidad correspondiente.
 
-Dicho requisito se refiere a la superación de la fase de oposición de la especialidad correspondiente, a la que hacen referencia los artículos 18 y siguientes del Reglamento de ingreso, accesos y adquisición de nuevas especialidades en los cuerpos docentes a que se refiere la Ley Orgánica 2/2006, de 3 de mayo, de Educación, aprobado por el [Real Decreto 276/2007](../08_personal_docente/RD592_2007_eci_aprueba_temario_ha_regir_procedimiento.md), de 23 de febrero, y será de aplicación a partir de la fecha de entrada en vigor del presente real decreto.
+Dicho requisito se refiere a la superación de la fase de oposición de la especialidad correspondiente, a la que hacen referencia los artículos 18 y siguientes del Reglamento de ingreso, accesos y adquisición de nuevas especialidades en los cuerpos docentes a que se refiere la [Ley Orgánica 2/2006](../01_marco_normativo_general_y_organico/LO2_2006_educacion_texto_consolidado_modificaciones_lomloe.md), de 3 de mayo, de Educación, aprobado por el [Real Decreto 276/2007](../08_personal_docente/RD592_2007_eci_aprueba_temario_ha_regir_procedimiento.md), de 23 de febrero, y será de aplicación a partir de la fecha de entrada en vigor del presente real decreto.
 
 #### Disposición adicional primera. Prórroga de la actividad docente.
 
@@ -230,7 +230,7 @@ Las Administraciones educativas regularán los requisitos de formación añadido
 
 #### Disposición adicional cuarta. Enseñanza de Lengua Extranjera en Educación Primaria por Profesorado de Educación Secundaria.
 
-El profesorado que reúna los requisitos para impartir docencia de lenguas extranjeras en la Educación Secundaria Obligatoria o Bachillerato podrá excepcionalmente y por un tiempo limitado, impartir enseñanzas de las lenguas extranjeras respectivas en la etapa de Educación Primaria, por extensión y analogía con lo dispuesto en la disposición adicional séptima de la Ley Orgánica 2/2006, de 3 de mayo, de Educación. A estos efectos, las Administraciones educativas deberán fijar en su ámbito de gestión, el tiempo máximo durante el que este profesorado podrá impartir docencia en Educación Primaria.
+El profesorado que reúna los requisitos para impartir docencia de lenguas extranjeras en la Educación Secundaria Obligatoria o Bachillerato podrá excepcionalmente y por un tiempo limitado, impartir enseñanzas de las lenguas extranjeras respectivas en la etapa de Educación Primaria, por extensión y analogía con lo dispuesto en la disposición adicional séptima de la [Ley Orgánica 2/2006](../01_marco_normativo_general_y_organico/LO2_2006_educacion_texto_consolidado_modificaciones_lomloe.md), de 3 de mayo, de Educación. A estos efectos, las Administraciones educativas deberán fijar en su ámbito de gestión, el tiempo máximo durante el que este profesorado podrá impartir docencia en Educación Primaria.
 
 #### Disposición adicional quinta. Enseñanzas propias de las lenguas cooficiales.
 

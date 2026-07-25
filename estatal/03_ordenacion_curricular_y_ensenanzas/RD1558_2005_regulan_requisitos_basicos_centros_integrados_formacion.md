@@ -37,13 +37,13 @@ fundamentos_derecho:
 
 La [Ley Orgánica 5/2002](LO5_2002_cualificaciones_formacion_profesional.md), de 19 de junio, de las Cualificaciones y de la Formación Profesional, tiene por objeto «la ordenación de un sistema integral de formación profesional, cualificaciones y acreditación, que responda con eficacia y transparencia a las demandas sociales y económicas a través de las diversas modalidades formativas».
 
-El artículo 11.1 de la Ley Orgánica 5/2002 habilita al Gobierno para establecer los requisitos básicos que deben reunir los centros que impartirán ofertas de formación profesional conducentes a la obtención de títulos de formación profesional y certificados de profesionalidad. Asimismo, el artículo 11.4 prevé la denominación de Centros integrados para aquellos centros de formación profesional que se caractericen por impartir todas las ofertas formativas a las que se refiere el artículo 10.1 de la misma. El objetivo de los Centros integrados es desarrollar acciones formativas derivadas de la integración de las ofertas de formación profesional, dirigidas a la población demandante, jóvenes, trabajadores en activo ocupados y desempleados, que faciliten el aprendizaje a lo largo de la vida.
+El artículo 11.1 de la [Ley Orgánica 5/2002](./LO5_2002_cualificaciones_formacion_profesional.md) habilita al Gobierno para establecer los requisitos básicos que deben reunir los centros que impartirán ofertas de formación profesional conducentes a la obtención de títulos de formación profesional y certificados de profesionalidad. Asimismo, el artículo 11.4 prevé la denominación de Centros integrados para aquellos centros de formación profesional que se caractericen por impartir todas las ofertas formativas a las que se refiere el artículo 10.1 de la misma. El objetivo de los Centros integrados es desarrollar acciones formativas derivadas de la integración de las ofertas de formación profesional, dirigidas a la población demandante, jóvenes, trabajadores en activo ocupados y desempleados, que faciliten el aprendizaje a lo largo de la vida.
 
 La creación de Centros integrados de formación profesional responde a la necesidad de asegurar nueva oferta integrada que capacite para el desempeño cualificado de las distintas profesiones y sirva de recurso formativo permanente a la población adulta para mejorar sus condiciones de empleabilidad. El Centro integrado se concibe como una institución al servicio de los ciudadanos y del sector productivo y debe contribuir a la cualificación y recualificación de las personas, acomodándose a sus distintas expectativas profesionales. El Centro integrado pretende, asimismo, atender a las necesidades de cualificación inmediatas y emergentes del sistema productivo, ser un referente orientador para el sector productivo y formativo de su entorno, facilitar la integración de las ofertas de formación profesional y rentabilizar los recursos humanos y materiales disponibles.
 
 Para cumplir los fines citados, los Centros integrados de formación profesional deben tener autonomía y flexibilidad organizativa, versatilidad en la programación de su oferta formativa y capacidad de respuesta formativa a las necesidades del mundo laboral como consecuencia de los rápidos cambios tecnológicos, organizativos y materiales.
 
-Por último, el artículo 11.4 de la Ley Orgánica 5/2002, de 19 de junio, prevé que las Administraciones públicas, en el ámbito de su competencia, podrán crear y autorizar dichos Centros integrados de formación profesional con las condiciones y requisitos que se establezcan. Los fines y funciones de los Centros integrados, las características de su funcionamiento, las condiciones de su creación y autorización, la definición de sus órganos de gobierno y participación, así como las condiciones de su gestión y financiación, son aspectos cuya regulación básica aborda la presente norma.
+Por último, el artículo 11.4 de la [Ley Orgánica 5/2002](./LO5_2002_cualificaciones_formacion_profesional.md), de 19 de junio, prevé que las Administraciones públicas, en el ámbito de su competencia, podrán crear y autorizar dichos Centros integrados de formación profesional con las condiciones y requisitos que se establezcan. Los fines y funciones de los Centros integrados, las características de su funcionamiento, las condiciones de su creación y autorización, la definición de sus órganos de gobierno y participación, así como las condiciones de su gestión y financiación, son aspectos cuya regulación básica aborda la presente norma.
 
 En el proceso de elaboración de este real decreto han sido consultados las comunidades autónomas, el Consejo General de la Formación Profesional y el Consejo Escolar del Estado.
 
@@ -53,11 +53,11 @@ En su virtud, a propuesta de los Ministros de Educación y Ciencia y de Trabajo 
 
 #### Artículo 1. Objeto.
 
-Este real decreto tiene por objeto regular los requisitos básicos de los Centros integrados de formación profesional, en desarrollo de lo establecido en el artículo 11 de la Ley Orgánica 5/2002, de 19 de junio, de las Cualificaciones y de la Formación Profesional.
+Este real decreto tiene por objeto regular los requisitos básicos de los Centros integrados de formación profesional, en desarrollo de lo establecido en el artículo 11 de la [Ley Orgánica 5/2002](./LO5_2002_cualificaciones_formacion_profesional.md), de 19 de junio, de las Cualificaciones y de la Formación Profesional.
 
 #### Artículo 2. Definición de Centro integrado de formación profesional.
 
-1. Son Centros integrados de formación profesional aquellos que, reuniendo los requisitos básicos establecidos en este real decreto, impartan todas las ofertas formativas referidas al Catálogo nacional de cualificaciones profesionales que conduzcan a títulos de formación profesional y certificados de profesionalidad, en consonancia con lo dispuesto en los artículos 11.4 y 10.1 de la Ley Orgánica 5/2002, de 19 de junio, de las Cualificaciones y de la Formación Profesional.
+1. Son Centros integrados de formación profesional aquellos que, reuniendo los requisitos básicos establecidos en este real decreto, impartan todas las ofertas formativas referidas al Catálogo nacional de cualificaciones profesionales que conduzcan a títulos de formación profesional y certificados de profesionalidad, en consonancia con lo dispuesto en los artículos 11.4 y 10.1 de la [Ley Orgánica 5/2002](./LO5_2002_cualificaciones_formacion_profesional.md), de 19 de junio, de las Cualificaciones y de la Formación Profesional.
 
 2. Los Centros integrados de formación profesional contribuirán a alcanzar los fines del Sistema nacional de las cualificaciones y formación profesional y dispondrán de una oferta modular y flexible, con alcance a los subsistemas existentes, para dar respuesta a las necesidades formativas de los sectores productivos, así como a las necesidades individuales y expectativas personales de promoción profesional. Para ello, estos centros facilitarán la participación de los agentes sociales más representativos en el ámbito de las comunidades autónomas.
 
@@ -113,7 +113,7 @@ c) Informar y orientar a los usuarios, tanto individual como colectivamente, par
 
 2. Además de las funciones establecidas en el apartado anterior, los centros integrantes de la Red a la que se refiere el artículo 4 y los Centros integrados privados concertados, que cuenten con autorización administrativa a tales efectos, podrán desarrollar las funciones siguientes:
 
-a) Participar en los procedimientos de evaluación y, en su caso, realizar la propuesta de acreditación oficial de las competencias profesionales adquiridas por las personas a través de la experiencia laboral o de vías no formales de formación, de acuerdo con lo que se establezca en desarrollo del artículo 8 de la Ley Orgánica 5/2002, de 19 de junio, de las Cualificaciones y de la Formación Profesional.
+a) Participar en los procedimientos de evaluación y, en su caso, realizar la propuesta de acreditación oficial de las competencias profesionales adquiridas por las personas a través de la experiencia laboral o de vías no formales de formación, de acuerdo con lo que se establezca en desarrollo del artículo 8 de la [Ley Orgánica 5/2002](./LO5_2002_cualificaciones_formacion_profesional.md), de 19 de junio, de las Cualificaciones y de la Formación Profesional.
 
 b) Impulsar y desarrollar acciones y proyectos de innovación y desarrollo, en colaboración con las empresas del entorno y los interlocutores sociales, y transferir el contenido y valoración de las experiencias desarrolladas al resto de los centros.
 
@@ -175,7 +175,7 @@ Corresponde a las Administraciones educativa y laboral, cada una en el ámbito d
 
 #### Artículo 12. Órganos de gobierno, participación y coordinación.
 
-1. La estructura de órganos de gobierno, participación y coordinación de los Centros integrados de formación profesional se atendrá a lo que este real decreto dispone y a lo que dispongan los consejos de gobierno de las comunidades autónomas, en el ámbito de sus competencias, de acuerdo con lo previsto en el artículo 11.6 de la Ley Orgánica 5/2002, de 19 de junio, de las Cualificaciones y de la Formación Profesional.
+1. La estructura de órganos de gobierno, participación y coordinación de los Centros integrados de formación profesional se atendrá a lo que este real decreto dispone y a lo que dispongan los consejos de gobierno de las comunidades autónomas, en el ámbito de sus competencias, de acuerdo con lo previsto en el artículo 11.6 de la [Ley Orgánica 5/2002](./LO5_2002_cualificaciones_formacion_profesional.md), de 19 de junio, de las Cualificaciones y de la Formación Profesional.
 
 2. En todo caso, serán órganos de gobierno y participación de los Centros integrados de formación profesional los siguientes:
 
@@ -263,7 +263,7 @@ En los Centros integrados públicos podrán ejercer la función de información 
 
 #### Artículo 17. Personal que desarrolla las funciones de aplicación de los procedimientos de evaluación de las competencias profesionales.
 
-En los Centros integrados públicos y en los Centros integrados privados concentrados autorizados al efecto, las funciones y los requisitos del personal que realice las funciones relativas a los procedimientos de evaluación de las competencias profesionales se ajustarán a lo que establezca el desarrollo normativo del artículo 8 de la Ley Orgánica 5/2002, de 19 de junio, de las Cualificaciones y de la Formación Profesional.
+En los Centros integrados públicos y en los Centros integrados privados concentrados autorizados al efecto, las funciones y los requisitos del personal que realice las funciones relativas a los procedimientos de evaluación de las competencias profesionales se ajustarán a lo que establezca el desarrollo normativo del artículo 8 de la [Ley Orgánica 5/2002](./LO5_2002_cualificaciones_formacion_profesional.md), de 19 de junio, de las Cualificaciones y de la Formación Profesional.
 
 #### Disposición adicional única. Régimen aplicable a los centros privados.
 
@@ -279,7 +279,7 @@ Las ofertas educativas y formativas en los Centros integrados serán las actualm
 
 #### Disposición final primera. Título competencial.
 
-Este real decreto tiene carácter de norma básica, es de aplicación en todo el territorio nacional y se dicta en virtud de las competencias que atribuye al Estado el artículo 149.1, 1.ª, 7.ª y 30.ª de la Constitución y al amparo de la disposición final primera.2 y 3 de la Ley Orgánica 5/2002, de 19 de junio, de las Cualificaciones y de la Formación Profesional, y de la habilitación que confiere al Gobierno el artículo 11.1 y 11.4 y la disposición final tercera de la citada Ley Orgánica 5/2002, 19 de junio.
+Este real decreto tiene carácter de norma básica, es de aplicación en todo el territorio nacional y se dicta en virtud de las competencias que atribuye al Estado el artículo 149.1, 1.ª, 7.ª y 30.ª de la Constitución y al amparo de la disposición final primera.2 y 3 de la [Ley Orgánica 5/2002](./LO5_2002_cualificaciones_formacion_profesional.md), de 19 de junio, de las Cualificaciones y de la Formación Profesional, y de la habilitación que confiere al Gobierno el artículo 11.1 y 11.4 y la disposición final tercera de la citada [Ley Orgánica 5/2002](./LO5_2002_cualificaciones_formacion_profesional.md), 19 de junio.
 
 #### Disposición final segunda. Normativa de aplicación supletoria.
 

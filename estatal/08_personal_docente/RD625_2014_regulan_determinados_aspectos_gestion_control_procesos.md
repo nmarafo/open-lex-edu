@@ -255,7 +255,7 @@ Los acuerdos y convenios en los que sean parte las mutuas requerirán la autoriz
 
 En virtud de la referida cooperación y coordinación, las entidades que suscriban los acuerdos y convenios promoverán el perfeccionamiento y la utilización en común de la información, con el fin primordial de hacer más eficaz el seguimiento y control de la gestión relativa a las situaciones de incapacidad temporal.
 
-En todo caso, los acuerdos o convenios suscritos establecerán las adecuadas garantías del derecho fundamental a la protección de datos de carácter personal, con pleno respeto a lo previsto en la Ley Orgánica 15/1999, de 13 de diciembre, así como la confidencialidad de los datos.
+En todo caso, los acuerdos o convenios suscritos establecerán las adecuadas garantías del derecho fundamental a la protección de datos de carácter personal, con pleno respeto a lo previsto en la [Ley Orgánica 15/1999](../02_gestion_y_administracion_centros/LO15_1999_proteccion_datos_caracter_personal.md), de 13 de diciembre, así como la confidencialidad de los datos.
 
 2. Se establecerán mecanismos específicos y estables de colaboración entre el Instituto Nacional de la Seguridad Social y las mutuas, que tendrán por objeto coordinar actuaciones, de acuerdo con sus respectivas competencias, sin perjuicio de las funciones de dirección y tutela que ostenta la Dirección General de Ordenación de la Seguridad Social sobre las mutuas y sobre las funciones y servicios que desarrollan.
 

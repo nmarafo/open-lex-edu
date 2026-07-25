@@ -55,7 +55,7 @@ En virtud de lo expuesto, y con la aprobación previa de la Vicepresidenta Prime
 
 #### Artículo 1. Objeto.
 
-1. La presente orden tiene por objeto establecer el procedimiento de reconocimiento, previsto en la disposición transitoria quinta del Real Decreto 1363/2007, de 24 de octubre, de las formaciones de entrenadores deportivos en las modalidades de fútbol y fútbol sala llevadas a cabo, con carácter meramente federativo en las condiciones que aquí se establecen, entre el 15 de julio de 1999 y el 9 de noviembre de 2007, fechas en las que entraron en vigor, respectivamente, la Orden de 5 de julio de 1999 y el referido Real Decreto 1363/2007, de 24 de octubre.
+1. La presente orden tiene por objeto establecer el procedimiento de reconocimiento, previsto en la disposición transitoria quinta del [Real Decreto 1363/2007](./RD1363_2007_establece_ordenacion_general_ensenanzas_deportivas_regimen.md), de 24 de octubre, de las formaciones de entrenadores deportivos en las modalidades de fútbol y fútbol sala llevadas a cabo, con carácter meramente federativo en las condiciones que aquí se establecen, entre el 15 de julio de 1999 y el 9 de noviembre de 2007, fechas en las que entraron en vigor, respectivamente, la Orden de 5 de julio de 1999 y el referido [Real Decreto 1363/2007](./RD1363_2007_establece_ordenacion_general_ensenanzas_deportivas_regimen.md), de 24 de octubre.
 
 2. El periodo al que se refiere el punto 1 podrá ser precisado para cada Comunidad Autónoma y las Ciudades de Ceuta y Melilla, por las Administraciones competentes a las que se refiere el artículo 2 de la presente orden, en función de las circunstancias que concurran en cada caso sobre la aplicación de la Orden de 5 de julio de 1999 y la fecha de implantación de las enseñanzas oficiales en la modalidad de fútbol y fútbol sala.
 
@@ -81,7 +81,7 @@ a) Homologación del diploma de Entrenador Nacional de Fútbol o Entrenador Naci
 
 b) Homologación del diploma de Entrenador Regional de Fútbol o Entrenador Regional de Fútbol Sala respectivamente con los títulos de Técnico Deportivo en Fútbol o de Técnico Deportivo en Fútbol Sala.
 
-c) Obtención del correspondiente Certificado académico oficial de fútbol o fútbol sala, previsto en el artículo 22.5 del Real Decreto 1363/2007, de 24 de octubre, por acreditar el diploma federativo de Instructor de Juveniles o Instructor de Fútbol Sala.
+c) Obtención del correspondiente Certificado académico oficial de fútbol o fútbol sala, previsto en el artículo 22.5 del [Real Decreto 1363/2007](./RD1363_2007_establece_ordenacion_general_ensenanzas_deportivas_regimen.md), de 24 de octubre, por acreditar el diploma federativo de Instructor de Juveniles o Instructor de Fútbol Sala.
 
 #### Artículo 5. Procedimiento.
 
@@ -99,7 +99,7 @@ a) Haber sido promovidas por las Federaciones autonómicas o española de fútbo
 
 b) Tener el aval de la Real Federación Española de Fútbol, mediante certificado según el modelo del anexo II.
 
-c) Estar acreditadas con las actas y plan de estudios, con expresión de la carga lectiva, que como mínimo será la establecida en el Real Decreto 320/2000, de 3 de marzo que estableció los títulos de Técnico Deportivo y Técnico Deportivo Superior en las especialidades de Fútbol y Fútbol Sala.
+c) Estar acreditadas con las actas y plan de estudios, con expresión de la carga lectiva, que como mínimo será la establecida en el [Real Decreto 320/2000](./RD320_2000_establecen_titulos_tecnico_deportivo_tecnico_deportivo.md), de 3 de marzo que estableció los títulos de Técnico Deportivo y Técnico Deportivo Superior en las especialidades de Fútbol y Fútbol Sala.
 
 2. Corresponderá al Consejo Superior de Deportes, mediante Resolución, determinar el reconocimiento de las formaciones en materia deportiva a que se refiere el apartado anterior.
 
@@ -113,31 +113,31 @@ Quienes acrediten haber superado la formación a la que se refiere el artículo 
 
 a) Acreditar la condición de Entrenador Nacional de Fútbol o Fútbol Sala mediante certificado expedido por la Real Federación Española de Fútbol según el modelo contenido en el anexo II.
 
-b) Acreditar el título de Bachiller establecido en la Ley Orgánica 2/2006, de 3 de mayo, de Educación, o equivalente a efectos académicos, o acreditar cualquiera de las condiciones que a efectos de acceso se detallan en la disposición adicional duodécima.2 del Real Decreto 1363/2007, de 24 de octubre.
+b) Acreditar el título de Bachiller establecido en la [Ley Orgánica 2/2006](../01_marco_normativo_general_y_organico/LO2_2006_educacion_texto_consolidado_modificaciones_lomloe.md), de 3 de mayo, de Educación, o equivalente a efectos académicos, o acreditar cualquiera de las condiciones que a efectos de acceso se detallan en la disposición adicional duodécima.2 del [Real Decreto 1363/2007](./RD1363_2007_establece_ordenacion_general_ensenanzas_deportivas_regimen.md), de 24 de octubre.
 
-c) Superar una prueba de conjunto sobre los contenidos referidos a las enseñanzas de Técnico Deportivo Superior en Fútbol o Fútbol Sala, que figuran en el Real Decreto 320/2000, de 3 de marzo. La prueba será diseñada por la correspondiente Administración educativa de cada Comunidad autónoma y las Ciudades de Ceuta y Melilla.
+c) Superar una prueba de conjunto sobre los contenidos referidos a las enseñanzas de Técnico Deportivo Superior en Fútbol o Fútbol Sala, que figuran en el [Real Decreto 320/2000](./RD320_2000_establecen_titulos_tecnico_deportivo_tecnico_deportivo.md), de 3 de marzo. La prueba será diseñada por la correspondiente Administración educativa de cada Comunidad autónoma y las Ciudades de Ceuta y Melilla.
 
 2. Para obtener la homologación del diploma federativo de Entrenador Regional de Fútbol o Fútbol Sala con el título de Técnico Deportivo en Fútbol o Fútbol Sala será necesario reunir todos y cada uno de los siguientes requisitos:
 
 a) Acreditar la condición de Entrenador Regional de Fútbol o Fútbol Sala mediante certificado expedido por la Real Federación Española de Fútbol según el modelo contenido en el anexo II.
 
-b) Acreditar el título de Graduado en Educación Secundaria Obligatoria establecido en la Ley Orgánica 2/2006, de 3 de mayo, de Educación, o equivalente a efectos académicos, o acreditar cualquiera de las condiciones que a efectos de acceso se detallan de la disposición adicional duodécima.1 del Real Decreto 1363/2007, de 24 de octubre.
+b) Acreditar el título de Graduado en Educación Secundaria Obligatoria establecido en la [Ley Orgánica 2/2006](../01_marco_normativo_general_y_organico/LO2_2006_educacion_texto_consolidado_modificaciones_lomloe.md), de 3 de mayo, de Educación, o equivalente a efectos académicos, o acreditar cualquiera de las condiciones que a efectos de acceso se detallan de la disposición adicional duodécima.1 del [Real Decreto 1363/2007](./RD1363_2007_establece_ordenacion_general_ensenanzas_deportivas_regimen.md), de 24 de octubre.
 
-c) Superar una prueba de conjunto sobre los contenidos referidos a las enseñanzas de Técnico Deportivo en Fútbol o Fútbol Sala, que figuran en el Real Decreto 320/2000, de 3 de marzo. La prueba será diseñada por la correspondiente Administración educativa de cada Comunidad autónoma y las Ciudades de Ceuta y Melilla.
+c) Superar una prueba de conjunto sobre los contenidos referidos a las enseñanzas de Técnico Deportivo en Fútbol o Fútbol Sala, que figuran en el [Real Decreto 320/2000](./RD320_2000_establecen_titulos_tecnico_deportivo_tecnico_deportivo.md), de 3 de marzo. La prueba será diseñada por la correspondiente Administración educativa de cada Comunidad autónoma y las Ciudades de Ceuta y Melilla.
 
-3. Para obtener el Certificado académico oficial de superación de primer nivel en la modalidad de Fútbol o Fútbol Sala, previsto en el artículo 22.5 del Real Decreto 1363/2007, de 24 de octubre, será necesario reunir todos y cada uno de los siguientes requisitos:
+3. Para obtener el Certificado académico oficial de superación de primer nivel en la modalidad de Fútbol o Fútbol Sala, previsto en el artículo 22.5 del [Real Decreto 1363/2007](./RD1363_2007_establece_ordenacion_general_ensenanzas_deportivas_regimen.md), de 24 de octubre, será necesario reunir todos y cada uno de los siguientes requisitos:
 
 a) Acreditar la condición de Instructor de Juveniles de fútbol o Instructor de Futbol Sala, mediante certificado expedido por la Real Federación Española de Fútbol según el modelo contenido en el anexo II.
 
-b) Acreditar el título de Graduado en Educación Secundaria Obligatoria establecido en la Ley Orgánica 2/2006, de 3 de mayo, de Educación, o equivalente a efectos académicos, o acreditar cualquiera de las condiciones que a efectos de acceso se detallan en la disposición adicional duodécima.1 del Real Decreto 1363/2007, de 24 de octubre.
+b) Acreditar el título de Graduado en Educación Secundaria Obligatoria establecido en la [Ley Orgánica 2/2006](../01_marco_normativo_general_y_organico/LO2_2006_educacion_texto_consolidado_modificaciones_lomloe.md), de 3 de mayo, de Educación, o equivalente a efectos académicos, o acreditar cualquiera de las condiciones que a efectos de acceso se detallan en la disposición adicional duodécima.1 del [Real Decreto 1363/2007](./RD1363_2007_establece_ordenacion_general_ensenanzas_deportivas_regimen.md), de 24 de octubre.
 
-c) Estar matriculado en un centro autorizado previsto en el artículo 45 del Real Decreto 1363/2007, de 24 de octubre, a fin de completar las enseñanzas de fútbol o fútbol sala.
+c) Estar matriculado en un centro autorizado previsto en el artículo 45 del [Real Decreto 1363/2007](./RD1363_2007_establece_ordenacion_general_ensenanzas_deportivas_regimen.md), de 24 de octubre, a fin de completar las enseñanzas de fútbol o fútbol sala.
 
 #### Artículo 9. Prueba de conjunto.
 
-1. La prueba de conjunto del grado medio tiene por objeto demostrar los conocimientos y habilidades suficientes adquiridas en la formación reconocida. Los contenidos de la misma versarán sobre las enseñanzas mínimas que para el título de Técnico Deportivo en Fútbol o Fútbol Sala se recogen en el Real Decreto 320/2000, de 3 de marzo, y constará de una parte común y una específica.
+1. La prueba de conjunto del grado medio tiene por objeto demostrar los conocimientos y habilidades suficientes adquiridas en la formación reconocida. Los contenidos de la misma versarán sobre las enseñanzas mínimas que para el título de Técnico Deportivo en Fútbol o Fútbol Sala se recogen en el [Real Decreto 320/2000](./RD320_2000_establecen_titulos_tecnico_deportivo_tecnico_deportivo.md), de 3 de marzo, y constará de una parte común y una específica.
 
-2. La prueba de conjunto del grado superior tiene por objeto demostrar los conocimientos y habilidades suficientes adquiridas en la formación reconocida. Los contenidos de la misma versarán sobre las enseñanzas mínimas que para el título de Técnico Deportivo Superior en Fútbol o Fútbol Sala se recogen el Real Decreto 320/2000, de 3 de marzo, y constará de una parte común y una específica
+2. La prueba de conjunto del grado superior tiene por objeto demostrar los conocimientos y habilidades suficientes adquiridas en la formación reconocida. Los contenidos de la misma versarán sobre las enseñanzas mínimas que para el título de Técnico Deportivo Superior en Fútbol o Fútbol Sala se recogen el [Real Decreto 320/2000](./RD320_2000_establecen_titulos_tecnico_deportivo_tecnico_deportivo.md), de 3 de marzo, y constará de una parte común y una específica
 
 3. Las Administraciones educativas de las Comunidades Autónomas y las Ciudades de Ceuta y Melilla, regularán las pruebas en el ámbito de sus competencias.
 

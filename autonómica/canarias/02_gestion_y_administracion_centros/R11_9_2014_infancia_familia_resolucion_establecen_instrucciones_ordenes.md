@@ -63,7 +63,7 @@ dicho borrador de Protocolo para su implantación.
 Dicho Protocolo se debe establecer conforme con los fundamentos jurídicos estatales y 
 autonómicos siguientes:
 Según dispone el artículo 45 de la [Ley Orgánica 5/2000](../../../estatal/01_marco_normativo_general_y_organico/LO5_2000_reguladora_responsabilidad_penal_menores.md), de 12 de enero, reguladora de la Res-
-ponsabilidad Penal de Menores (Ley Orgánica 5/2000), corresponde a la Administración Pública 
+ponsabilidad Penal de Menores ([Ley Orgánica 5/2000](../../../estatal/01_marco_normativo_general_y_organico/LO5_2000_reguladora_responsabilidad_penal_menores.md)), corresponde a la Administración Pública 
 de la Comunidad Autónoma, establecer, organizar y regular los recursos, servicios y programas 
 necesarios para la ejecución de medidas judiciales de su competencia. Y a tal fin, en la Comu-
 nidad Autónoma de Canarias, mediante el Decreto Territorial 36/2002, de 8 de abril, se aprueba 

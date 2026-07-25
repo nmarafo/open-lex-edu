@@ -54,7 +54,7 @@ Año 2002
 Anterior
 Siguiente
 III. OTRAS RESOLUCIONES - Consejería de Educación, Cultura y Deportes
-1603 - Dirección General de Promoción Educativa.- Resolución de 14 de octubre de 2002, por la que se dictan instrucciones para la realización de horas lectivas extraordinarias en centros que desarrollen ofertas formativas de Educación de Personas Adultas.
+1603 - Dirección General de Promoción Educativa.- [Resolución de 14 de octubre de 2002](../08_personal_docente/R14_10_2002_dictan_instrucciones_realizacion_horas_lectivas_extraordinarias.md), por la que se dictan instrucciones para la realización de horas lectivas extraordinarias en centros que desarrollen ofertas formativas de Educación de Personas Adultas.
 Descargar en formato pdf
 El Decreto 140/1996, de 20 de junio (B.O.C. nº 81, de 5 de julio), regula las condiciones de impartición de la Educación de personas adultas por parte del personal adscrito a la Consejería de Educación, Cultura y Deportes.
 La Orden de 10 de mayo de 1991 (B.O.C. nº 91, de 10 de julio), de la Consejería de Educación, Cultura y Deportes, por la que se establece el contenido y objetivos del Programa de Educación de Personas Adultas, dispone la posibilidad de que los Centros de Educación de Personas Adultas cuenten con funcionarios docentes de distintos niveles no universitarios para el desarrollo de sus actividades.

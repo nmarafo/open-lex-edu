@@ -65,7 +65,7 @@ de 60 créditos ECTS y que deberán ofrecerse preferentemente en la segunda mita
 de estudios.
 Segundo.- Los Reales Decretos 631/2010 y 633/2010, ambos de 14 de mayo, por los que 
 se regula el contenido básico de las enseñanzas artísticas superiores de Grado en Música 
-y de Grado en Diseño, respectivamente, establecidas en la Ley Orgánica 2/2006, de 3 de 
+y de Grado en Diseño, respectivamente, establecidas en la [Ley Orgánica 2/2006](../../../estatal/01_marco_normativo_general_y_organico/LO2_2006_educacion_texto_consolidado_modificaciones_lomloe.md), de 3 de 
 mayo, de Educación (BOE nº 137, de 5.6.10), en sus correspondientes artículos 11, apartado 
 tercero, establecen que las Administraciones educativas o los centros promoverán la firma 
 de convenios con empresas e instituciones para la realización de prácticas externas por parte 

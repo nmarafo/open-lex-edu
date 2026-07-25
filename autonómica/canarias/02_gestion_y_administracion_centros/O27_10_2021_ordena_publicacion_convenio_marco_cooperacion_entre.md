@@ -157,12 +157,12 @@ Deportes del Gobierno de Canarias como de la Federación Canaria de Municipios. 
 espacio virtual quedará constancia para los ayuntamientos las fechas y horas de envíos.
 Tercera.- Vigencia.
 El presente Convenio Marco de Cooperación tiene vigencia inicial de cuatro años, en 
-función de lo expuesto en el artículo 49 de la Ley 40/2015, de 1 de octubre, de Régimen 
+función de lo expuesto en el artículo 49 de la [Ley 40/2015](../../../estatal/01_marco_normativo_general_y_organico/L40_2015_regimen_juridico_sector_publico.md), de 1 de octubre, de Régimen 
 Jurídico del Sector Público, a partir del día siguiente a la fecha de la firma.
 No obstante, en cualquier momento antes de la finalización del plazo previsto en 
 el apartado anterior, los firmantes del Convenio Marco de Cooperación podrán acordar 
 unánimemente su prórroga por un periodo de hasta cuatro años adicionales o su extinción, 
-de conformidad con lo preceptuado en el artículo 49.h).1º y 2º de la Ley 40/2015, de 1 de 
+de conformidad con lo preceptuado en el artículo 49.h).1º y 2º de la [Ley 40/2015](../../../estatal/01_marco_normativo_general_y_organico/L40_2015_regimen_juridico_sector_publico.md), de 1 de 
 octubre, de Régimen Jurídico del Sector Público.
 Cuarta.- Obligaciones de las partes.
 Las partes firmantes de este Convenio Marco de Cooperación se comprometen a realizar 
@@ -257,7 +257,7 @@ de permisos, vacaciones, turno, licencias y cualesquiera otras circunstancias ex
 personal laboral o docente dependiente de la Consejería de Educación, Universidades, 
 Cultura y Deportes, o de empresas, entidades u otras administraciones que se encuentren 
 realizando servicios derivados del ámbito de la contratación administrativa u otros 
-convenios de cooperación y figuras afines prevista en la Ley 40/2015, de 1 de octubre, 
+convenios de cooperación y figuras afines prevista en la [Ley 40/2015](../../../estatal/01_marco_normativo_general_y_organico/L40_2015_regimen_juridico_sector_publico.md), de 1 de octubre, 
 de Régimen Jurídico del Sector Público, todo ello sin perjuicio de que se cumpla con la 
 normativa vigente en materia de prevención de riesgos laborales.
 
@@ -357,7 +357,7 @@ Cooperación.
 A los efectos de resolver dudas y subsanar defectos, que pudieran surgir en relación 
 con la interpretación y aplicación del Convenio Marco de Cooperación, también será de 
 aplicación lo previsto en la legislación estatal en materia de contratos del sector público, 
-de conformidad con el artículo 4 de la Ley 9/2017, de 8 de noviembre, de Contratos del 
+de conformidad con el artículo 4 de la [Ley 9/2017](../../../estatal/02_gestion_y_administracion_centros/L9_2017_contratos_sector_publico_transponen_ordenamiento_juridico.md), de 8 de noviembre, de Contratos del 
 Sector Público.
 Undécima.- Jurisdicción.
 Las cuestiones litigiosas que surjan en la interpretación o aplicación del presente 

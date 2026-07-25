@@ -90,7 +90,7 @@ Orgánico de los centros docentes públicos no universitarios de la Comunidad Au
 de Canarias, determina en su disposición adicional tercera, sobre centros de características 
 especiales, que las Escuelas Oficiales de Idiomas se regirán por su normativa específica y, 
 supletoriamente, por el reglamento aprobado por el citado decreto.
-Cuarto.- La [Orden de 9 de octubre de 2013](Ds_n_desarrolla_decreto_aprueba_reglamento_organico_centros.md), por la que se desarrolla el Decreto 81/2010, de 
+Cuarto.- La [Orden de 9 de octubre de 2013](Ds_n_desarrolla_decreto_aprueba_reglamento_organico_centros.md), por la que se desarrolla el [Decreto 81/2010](./D81_2010_aprueba_reglamento_organico_centros_docentes_publicos.md), de 
 8 de julio, por el que se aprueba el Reglamento Orgánico de los centros docentes públicos 
 no universitarios de la Comunidad Autónoma de Canarias, en lo referente a su organización 
 y funcionamiento recoge que las Escuelas Oficiales de Idiomas se regirán por su normativa 
@@ -103,7 +103,7 @@ Quinto.- El marco general de las Enseñanzas de Idiomas de Régimen Especial que
 regulado por el Real Decreto 1041/2017, de 22 de diciembre, por el que se fijan las 
 exigencias mínimas del nivel básico a efectos de certificación, se establece el currículo 
 básico de los niveles Intermedio B1, Intermedio B2, Avanzado C1, y Avanzado C2 de las 
-enseñanzas de idiomas de régimen especial reguladas por la Ley Orgánica 2/2006, de 3 de 
+enseñanzas de idiomas de régimen especial reguladas por la [Ley Orgánica 2/2006](../../../estatal/01_marco_normativo_general_y_organico/LO2_2006_educacion_texto_consolidado_modificaciones_lomloe.md), de 3 de 
 mayo, de Educación, y se establecen las equivalencias entre las enseñanzas de idiomas de 
 régimen especial reguladas en diversos planes de estudios y las de este real decreto, y, en 
 el ámbito autonómico, por el Decreto 142/2018, de 8 de octubre, por el que se establece 
@@ -210,7 +210,7 @@ final de curso.
 1. AUTONOMÍA DE LOS CENTROS Y PROCESOS DE MEJORA.
 Los documentos institucionales de las Escuelas Oficiales de Idiomas (en adelante, EOI) 
 se actualizarán al inicio del curso escolar en base a lo establecido en el Título II, Capítulo 
-primero, del Decreto 81/2010, de 8 de julio, por el que se aprueba el Reglamento Orgánico 
+primero, del [Decreto 81/2010](./D81_2010_aprueba_reglamento_organico_centros_docentes_publicos.md), de 8 de julio, por el que se aprueba el Reglamento Orgánico 
 de los centros docentes públicos no universitarios de la Comunidad Autónoma de Canarias.
 Asimismo, tal y como recoge la Resolución conjunta de la Viceconsejería de Educación 
 y la Viceconsejería de Formación Profesional y Cualificaciones Profesionales, por la que 
@@ -225,7 +225,7 @@ estos documentos, implementar las medidas acordadas y velar por el cumplimiento 
 criterios y objetivos de mejora fijados en consonancia con los objetivos de la Consejería de 
 Educación, Formación Profesional, Actividad Física y Deportes (en adelante, CEFPAFD).
 La programación general anual ( PGA) incluirá, además de los aspectos recogidos en 
-el Decreto 81/2010, las propuestas de mejora organizativas y pedagógicas necesarias para 
+el [Decreto 81/2010](./D81_2010_aprueba_reglamento_organico_centros_docentes_publicos.md), las propuestas de mejora organizativas y pedagógicas necesarias para 
 impulsar los aprendizajes del alumnado. Estas propuestas deben responder a las necesidades 
 detectadas en las evaluaciones de diagnóstico y en la información recogida en la memoria 
 final de curso.
@@ -462,7 +462,7 @@ cuatrimestrales 60 horas 3 sesiones síncronas
 4. RÉGIMEN DEL PROFESORADO
 4.1. Horario general del profesorado
 La jornada semanal del profesorado de EOI será la establecida con carácte r general para el personal  
-docente no universitario de centros públicos en el artículo 36 de la Orden de 9 de octubre de 2013, que  
+docente no universitario de centros públicos en el artículo 36 de la [Orden de 9 de octubre de 2013](./Ds_n_desarrolla_decreto_aprueba_reglamento_organico_centros.md), que  
 se ajustará a lo indicado en la Orden de 16 de julio de 2019, así como a la Orden de 28 de septiembre  
 de 2023. 
 En lo que respecta al control de asistencia y puntualidad, incorporaciones, ceses y sustituciones del  
@@ -509,7 +509,7 @@ cuatrimestrales 60 horas 3 sesiones síncronas
 4. RÉGIMEN DEL PROFESORADO
 4.1. Horario general del profesorado
 La jornada semanal del profesorado de EOI será la establecida con carácte r general para el personal  
-docente no universitario de centros públicos en el artículo 36 de la Orden de 9 de octubre de 2013, que  
+docente no universitario de centros públicos en el artículo 36 de la [Orden de 9 de octubre de 2013](./Ds_n_desarrolla_decreto_aprueba_reglamento_organico_centros.md), que  
 se ajustará a lo indicado en la Orden de 16 de julio de 2019, así como a la Orden de 28 de septiembre  
 de 2023. 
 En lo que respecta al control de asistencia y puntualidad, incorporaciones, ceses y sustituciones del  
@@ -539,7 +539,7 @@ La jornada semanal del profesorado de EOI será la establecida con carácter gen
 el personal docente no universitario de centros públicos en el artículo 36 de la Orden de 9 
 
 de octubre de 2013, que se ajustará a lo indicado en la Orden de 16 de julio de 2019, así 
-como a la Orden de 28 de septiembre de 2023.
+como a la [Orden de 28 de septiembre de 2023](./O28_9_2023_aprueban_instrucciones_organizacion_funcionamiento_centros_docentes.md).
 En lo que respecta al control de asistencia y puntualidad, incorporaciones, ceses y 
 sustituciones del profesorado, se estará a lo dispuesto en la normativa correspondiente 
 establecida con carácter general para todos los centros de enseñanza dependientes de la 
@@ -593,7 +593,7 @@ no lectivo a actividades o funciones que se determinen en la programación gener
 (PGA) de la EOI como, por ejemplo, la organización y funcionamiento de la biblioteca y 
 del aula multimedia, participación en el plan de internacionalización del centro cuando se 
 forma parte de un consorcio sin ser coordinador, etc.
-Según lo establecido en la Orden de 28 de septiembre de 2023, cuando, excepcionalmente, 
+Según lo establecido en la [Orden de 28 de septiembre de 2023](./O28_9_2023_aprueban_instrucciones_organizacion_funcionamiento_centros_docentes.md), cuando, excepcionalmente, 
 el número de horas lectivas exceda lo establecido con carácter general, el profesorado 
 afectado compensará cada una de estas horas de exceso con una hora complementaria y 
 reducirá en la misma medida las horas de obligada permanencia en el centro.
@@ -862,7 +862,7 @@ k) Cualquier otra función que le sea atribuida por los órganos de gobierno del
 por la DGFPERE.
 4.4. Elaboración de pruebas de certificación de idiomas.
 Atendiendo al artículo 7.3 del Real Decreto 1041/2017, de 22 de diciembre, y el artículo 
-5.1 del Real Decreto 1/2019, de 11 de enero, será el profesorado de las Escuelas Oficiales 
+5.1 del [Real Decreto 1/2019](../../../estatal/03_ordenacion_curricular_y_ensenanzas/RD1_2019_establecen_principios_basicos_comunes_evaluacion_aplicables.md), de 11 de enero, será el profesorado de las Escuelas Oficiales 
 de Idiomas el encargado del proceso de elaboración de las pruebas de certificación de 
 Enseñanzas de Idiomas de Régimen Especial, para todos los idiomas y niveles que se 
 impartan en la Comunidad Autónoma de Canarias.
@@ -1100,8 +1100,8 @@ Siempre que las necesidades organizativas del centro lo permitan, en la organiza
 estos procesos de evaluación se tendrá en cuenta el número de horas de docencia directa 
 del profesorado en el centro. En todo caso, se respetará el número de horas de obligada 
 permanencia en el centro establecido con carácter general para el personal docente no 
-universitario de centros públicos en la Orden de 9 de octubre de 2013, y se ajustará a lo 
-indicado en la Orden de 16 de julio de 2019 y en la Orden de 28 de septiembre de 2023.
+universitario de centros públicos en la [Orden de 9 de octubre de 2013](./Ds_n_desarrolla_decreto_aprueba_reglamento_organico_centros.md), y se ajustará a lo 
+indicado en la Orden de 16 de julio de 2019 y en la [Orden de 28 de septiembre de 2023](./O28_9_2023_aprueban_instrucciones_organizacion_funcionamiento_centros_docentes.md).
 Igualmente, podrán constituirse tribunales para administrar y evaluar las pruebas de 
 certificación que se convoquen en fechas distintas a las de la convocatoria anual general 
 para alumnado escolarizado y aspirantes libres. Las personas que integren estos tribunales 
@@ -1113,8 +1113,8 @@ enseñanza reglada para el curso 2026-2027 son las que se muestran a continuaci�
 
 Folio 17/20
 se respetará el número de horas de obligada permanencia en el centro establecido con carácter general  
-para el personal docente no universitario de centros públicos en la Orden de 9 de octubre de 2013, y se  
-ajustará a lo indicado en la Orden de 16 de julio de 2019 y en la Orden de 28 de septiembre de 2023.
+para el personal docente no universitario de centros públicos en la [Orden de 9 de octubre de 2013](./Ds_n_desarrolla_decreto_aprueba_reglamento_organico_centros.md), y se  
+ajustará a lo indicado en la Orden de 16 de julio de 2019 y en la [Orden de 28 de septiembre de 2023](./O28_9_2023_aprueban_instrucciones_organizacion_funcionamiento_centros_docentes.md).
 Igualmente podrán constituirse tribunales para administrar y evaluar las pruebas de certificación que se 
 convoquen en fechas distintas a las de la convocatoria anual general para alumnado escolarizado y  
 aspirantes libres. Las personas que integren estos tribunales serán designadas por la DGFPERE entre  
@@ -1172,8 +1172,8 @@ establece la legislación vigente en materia de protección de datos de carácte
 en todo caso, lo establecido en la disposición adicional vigesimotercera de la Ley Orgánica 
 2/2006, de 3 de mayo, de Educación, en su redacción actual.
 5.3. Fecha límite para incorporación de nuevo alumnado y anulación de matrícula.
-De acuerdo con lo establecido en el artículo 49.4 de la Orden de 9 de octubre de 2013, por 
-la que se desarrolla el Decreto 81/2010, de 8 de julio, por el que se aprueba el Reglamento 
+De acuerdo con lo establecido en el artículo 49.4 de la [Orden de 9 de octubre de 2013](./Ds_n_desarrolla_decreto_aprueba_reglamento_organico_centros.md), por 
+la que se desarrolla el [Decreto 81/2010](./D81_2010_aprueba_reglamento_organico_centros_docentes_publicos.md), de 8 de julio, por el que se aprueba el Reglamento 
 Orgánico de los centros docentes públicos no universitarios de la Comunidad Autónoma de 
 Canarias, podrá incorporarse nuevo alumnado que no haya obtenido plaza en el periodo de 
 solicitud de plaza para ese curso, siempre que queden plazas suficientes y con la fecha límite 
@@ -1197,11 +1197,11 @@ las gestiones que se relacionan a continuación:
 Folio 18/20
 En lo relativo a la documentación asociada a la evaluación se deberá respetar lo que establece la  
 legislación  vigente  en  materia  de  protección  de  datos  de  carácter  personal,  y,  en  todo  caso,  lo 
-establecido en la disposición adicional vigesimotercera de la Ley Orgánica 2/2006, de 3 de mayo, de  
+establecido en la disposición adicional vigesimotercera de la [Ley Orgánica 2/2006](../../../estatal/01_marco_normativo_general_y_organico/LO2_2006_educacion_texto_consolidado_modificaciones_lomloe.md), de 3 de mayo, de  
 Educación, en su redacción actual.
 5.3. Fecha límite para incorporación de nuevo alumnado y anulación de matrícula
-De acuerdo con lo establecido en el artículo 49.4 de la Orden de 9 de octubre de 2013, por la que se  
-desarrolla el Decreto 81/2010, de 8 de julio, por el que se aprueba el Reglamento Orgánico de los  
+De acuerdo con lo establecido en el artículo 49.4 de la [Orden de 9 de octubre de 2013](./Ds_n_desarrolla_decreto_aprueba_reglamento_organico_centros.md), por la que se  
+desarrolla el [Decreto 81/2010](./D81_2010_aprueba_reglamento_organico_centros_docentes_publicos.md), de 8 de julio, por el que se aprueba el Reglamento Orgánico de los  
 centros  docentes  públicos  no  universitarios  de  la  Comunidad  Autónoma  de  Canarias,  podrá 
 incorporarse nuevo alumnado que no haya obtenido plaza en el periodo de solicitud de plaza para ese  
 curso, siempre que queden plazas suficientes y con la fecha límite del día anterior al comienzo del  

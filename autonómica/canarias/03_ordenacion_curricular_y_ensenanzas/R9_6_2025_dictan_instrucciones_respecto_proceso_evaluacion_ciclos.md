@@ -100,7 +100,7 @@ adquisición de los resultados de aprendizaje en las condiciones de calidad esta
 los elementos básicos del currículo a través de la adaptación de las diferentes metodologías 
 de aprendizaje, respetando las necesidades de adaptación metodológica y de recursos de 
 las personas.
-Segundo.- El Real Decreto 659/2023, de 18 de julio, por el que se desarrolla la ordenación 
+Segundo.- El [Real Decreto 659/2023](./RD659_2023_dictan_instrucciones_orientaciones_formacion_dual_empresas.md), de 18 de julio, por el que se desarrolla la ordenación 
 del Sistema de Formación Profesional, en su texto consolidado, y en desarrollo de la LOOIFP, 
 dispone que la evaluación deberá ser objetiva a través de los oportunos procedimientos y 
 atendiendo, en todo caso, al carácter continuo y diferenciado de los módulos profesionales 
@@ -117,7 +117,7 @@ correspondiente se realizarán de acuerdo con lo recogido en la normativa básic
 Cuarto.- La Orden de 20 de octubre de 2000, por la que se regulan los procesos de 
 evaluación de las enseñanzas de la Formación Profesional Específica en el ámbito de la 
 Comunidad Autónoma de Canarias, modificada por la Orden 3 de 2003, será de aplicación 
-en aquellos aspectos que no contradigan el Real Decreto 659/2023, de 18 de julio, por el 
+en aquellos aspectos que no contradigan el [Real Decreto 659/2023](./RD659_2023_dictan_instrucciones_orientaciones_formacion_dual_empresas.md), de 18 de julio, por el 
 que se desarrolla la ordenación del Sistema de formación profesional y demás normativa 
 de carácter básico.
 Quinto.- La Resolución de la Dirección General de Formación Profesional y 
@@ -126,7 +126,7 @@ DGFPERE), de 5 de noviembre de 2024,
 por la que se dictan instrucciones y orientaciones para la formación dual en empresas u 
 organismos equiparados en los certificados profesionales (Grado C), los ciclos formativos 
 de grado básico, medio y superior (Grados D, niveles 1, 2 y 3), y cursos de especialización 
-(Grado E, niveles 2 y 3) en aplicación del Real Decreto 659/2023, de 18 de julio, en los 
+(Grado E, niveles 2 y 3) en aplicación del [Real Decreto 659/2023](./RD659_2023_dictan_instrucciones_orientaciones_formacion_dual_empresas.md), de 18 de julio, en los 
 centros docentes no universitarios de la Comunidad Autónoma de Canarias, regula, entre 
 otros aspectos, la evaluación en la empresa u organismo equiparado y establece el modelo 
 para la elaboración del plan formativo.
@@ -185,7 +185,7 @@ Será de aplicación en todos los centros educativos del Sistema de Formación P
 de la Comunidad Autónoma de Canarias, a partir del curso 2024/2025.
 Segunda.- Aspectos generales de la evaluación.
 1. La evaluación del alumnado de ciclos formativos de grado básico responderá, con 
-carácter general, a lo establecido en los artículo 18 y 93 del Real Decreto 659/2023, de 
+carácter general, a lo establecido en los artículo 18 y 93 del [Real Decreto 659/2023](./RD659_2023_dictan_instrucciones_orientaciones_formacion_dual_empresas.md), de 
 18 de julio, y en el artículo 12 del Decreto 9/2023, de 26 de enero, por el que se regula y 
 establece el currículo de veintitrés Ciclos Formativos de Grado Básico en el ámbito de la 
 Comunidad Autónoma de Canarias.
@@ -585,7 +585,7 @@ competente del certificado o acreditaciones profesionales correspondientes.
 Décima.- Transición entre planes de estudio.
 1. De acuerdo con el calendario establecido en el artículo 11 del Real Decreto 
 278/2023, de 11 de abril, por el que se establece el calendario de implantación del Sistema 
-de Formación Profesional establecido por la Ley Orgánica 3/2022, de 31 de marzo, 
+de Formación Profesional establecido por la [Ley Orgánica 3/2022](../08_personal_docente/LO3_2022_ordenacion_gestion_determinadas_listas_empleo_tras.md), de 31 de marzo, 
 de ordenación e integración de la Formación Profesional, en el curso 2024-2025 se 
 completará la implantación del primer curso de todos los ciclos formativos. Durante dicho 
 curso académico, para el segundo curso permanecerá vigente la ordenación de los ciclos 
@@ -614,7 +614,7 @@ denominación y codificación del plan de estudios a extinguir.
 Undécima.- Certificación de la formación de nivel básico en prevención de riesgos 
 laborales.
 1. La superación del módulo de Prevención y Salud Laboral de un ciclo formativo 
-derivado de la Ley Orgánica 3/2022, de 31 de marzo, de ordenación e integración de 
+derivado de la [Ley Orgánica 3/2022](../08_personal_docente/LO3_2022_ordenacion_gestion_determinadas_listas_empleo_tras.md), de 31 de marzo, de ordenación e integración de 
 la Formación Profesional, dará derecho al alumnado a solicitar la certificación para el 
 desempeño de las funciones de nivel básico en materia de prevención de riesgos laborales, 
 conforme al desarrollo del currículo autonómico en esta materia.
@@ -649,7 +649,7 @@ en todos los centros educativos del Sistema de Formación Profesional de la Comu
 Autónoma de Canarias.
 Segunda.- Aspectos generales de la evaluación.
 1. La evaluación del alumnado de ciclos formativos de grado medio y superior responderá 
-a lo dispuesto en los artículos 18 y 107 del Real Decreto 659/2023, de 18 de julio. Además, 
+a lo dispuesto en los artículos 18 y 107 del [Real Decreto 659/2023](./RD659_2023_dictan_instrucciones_orientaciones_formacion_dual_empresas.md), de 18 de julio. Además, 
 en aquellos aspectos que no contradigan el Real Decreto citado, será de aplicación la Orden 
 de 20 de octubre de 2000, por la que se regulan los procesos de evaluación de las enseñanzas 
 de la Formación Profesional Específica en el ámbito de la Comunidad Autónoma de Canarias, 
@@ -985,7 +985,7 @@ trimestre del primer curso, las actividades de enseñanza y aprendizaje que gara
 adquisición de los resultados de aprendizaje relativos a los riesgos específicos y las medidas 
 de prevención en las actividades profesionales correspondientes al perfil profesional de 
 cada ciclo, descritas en el Anexo V (Currículo básico del Módulo Profesional Itinerario 
-personal para la empleabilidad I) del Real Decreto 659/2023, de 18 de julio.
+personal para la empleabilidad I) del [Real Decreto 659/2023](./RD659_2023_dictan_instrucciones_orientaciones_formacion_dual_empresas.md), de 18 de julio.
 Sexta.- Evaluación de la formación en empresa u organismo equiparado
 1. La evaluación de la fase de formación en empresa u organismo equiparado tendrá 
 como finalidad la de verificar en el alumnado la adquisición de aquellas competencias 
@@ -1044,7 +1044,7 @@ periodo.
 
 Séptima.- Calificación.
 1. La expresión de la calificación para cada módulo profesional responderá a lo establecido 
-en el artículo 18 del Real Decreto 659/2023, de 18 de julio, y será, consecuentemente, 
+en el artículo 18 del [Real Decreto 659/2023](./RD659_2023_dictan_instrucciones_orientaciones_formacion_dual_empresas.md), de 18 de julio, y será, consecuentemente, 
 numérica entre 1 y 10, sin decimales e integrará la valoración realizada por los tutores y 
 tutoras de empresa.
 2. En las evaluaciones finales de primer y segundo curso, en aquellos casos en los que 
@@ -1113,7 +1113,7 @@ es obligatoria para la obtención del Certificado Profesional o Título correspo
 Duodécima.- Transición entre planes de estudio.
 1. De acuerdo con lo establecido en el artículo 11 del Real Decreto 278/2023, de 11 de abril, 
 por el que se establece el calendario de implantación del Sistema de Formación Profesional 
-establecido por la Ley Orgánica 3/2022, de 31 de marzo, de ordenación e integración de 
+establecido por la [Ley Orgánica 3/2022](../08_personal_docente/LO3_2022_ordenacion_gestion_determinadas_listas_empleo_tras.md), de 31 de marzo, de ordenación e integración de 
 la Formación Profesional, en el curso 2024-2025 se completará la implantación del primer 
 curso de todos los ciclos formativos. Durante dicho curso académico, para el segundo curso 
 permanecerá vigente la ordenación de los ciclos formativos de grado medio y superior 
@@ -1173,7 +1173,7 @@ de riesgos laborales de acuerdo con lo establecido en la Resolución de 28 de no
 básico en prevención de riesgos laborales al alumnado que supere, en centros educativos de 
 la Comunidad Autónoma de Canarias, el módulo profesional de Formación y Orientación 
 Laboral de los ciclos formativos de grado medio y grado superior de las enseñanzas de 
-formación profesional establecidas en la Ley Orgánica 2/2006, de 3 de mayo, de Educación.
+formación profesional establecidas en la [Ley Orgánica 2/2006](../../../estatal/01_marco_normativo_general_y_organico/LO2_2006_educacion_texto_consolidado_modificaciones_lomloe.md), de 3 de mayo, de Educación.
 
 ANEXO III
 INSTRUCCIONES PARA LA EV ALUACIÓN DEL ALUMNADO DE LOS GRADOS E, 
@@ -1188,7 +1188,7 @@ de Especialista) y de grado superior (nivel 3 - Título de Máster), a partir de
 Profesional de la Comunidad Autónoma de Canarias.
 Segunda.- Aspectos generales de la evaluación.
 1. La evaluación del alumnado de los cursos de especialización responderá a lo dispuesto 
-en los artículos 18 y 123 del Real Decreto 659/2023, de 18 de julio. Además, en aquellos 
+en los artículos 18 y 123 del [Real Decreto 659/2023](./RD659_2023_dictan_instrucciones_orientaciones_formacion_dual_empresas.md), de 18 de julio. Además, en aquellos 
 aspectos que no contradigan el Real Decreto citado, será de aplicación la Orden de 20 de 
 octubre de 2000, por la que se regulan los procesos de evaluación de las enseñanzas de la 
 Formación Profesional Específica en el ámbito de la Comunidad Autónoma de Canarias, 
@@ -1322,7 +1322,7 @@ formativo correspondiente. Esta información se recogerá en modelo documental, 
 de la citada Resolución.
 Sexta.- Calificación.
 1. La expresión de la calificación para cada módulo profesional responderá a lo establecido 
-en el artículo 18.8 del Real Decreto 659/2023, de 18 de julio, y será, consecuentemente, 
+en el artículo 18.8 del [Real Decreto 659/2023](./RD659_2023_dictan_instrucciones_orientaciones_formacion_dual_empresas.md), de 18 de julio, y será, consecuentemente, 
 numérica entre 1 y 10, sin decimales, integrando la valoración del centro y de la empresa, 
 siendo el responsable final el equipo docente del centro educativo o formativo.
 2. En aquellos casos en los que el Grado E conlleve la realización de la 
@@ -1341,7 +1341,7 @@ equiparado, se hará constar únicamente el valor numérico.
 se exprese de forma numérica entre 1 y 10 sin decimales, e integrará la valoración del 
 centro y de la empresa, en su caso.
 4. La nota final de los Grados E será la media aritmética de los módulos expresada con 
-dos decimales, conforme a lo dispuesto en el artículo 124.2 del Real Decreto 659/2023, de 
+dos decimales, conforme a lo dispuesto en el artículo 124.2 del [Real Decreto 659/2023](./RD659_2023_dictan_instrucciones_orientaciones_formacion_dual_empresas.md), de 
 18 de julio.
 Séptima.- Convocatorias y permanencia.
 1. El alumnado podrá permanecer cursando un curso de especialización durante un 
@@ -1385,7 +1385,7 @@ Segunda.- Aspectos generales de la evaluación.
 modalidades se ajustará a lo dispuesto en la normativa vigente, adaptando las características, 
 procedimientos y documentos de evaluación a las peculiaridades organizativas y curriculares 
 de estas enseñanzas, debiendo responder en todo caso a lo establecido en los artículos 18, 
-27, 107 y 123 del Real Decreto 659/2023, de 18 de julio, así como a la Resolución de 10 
+27, 107 y 123 del [Real Decreto 659/2023](./RD659_2023_dictan_instrucciones_orientaciones_formacion_dual_empresas.md), de 18 de julio, así como a la Resolución de 10 
 de diciembre de 2024, de la 
 DGFPERE, por la que se dictan instrucciones y orientaciones 
 para la implantación y desarrollo de la oferta en las modalidades semipresencial y 
@@ -1427,7 +1427,7 @@ debidamente justificadas que hubieran condicionado su asistencia al centro educa
 tendrán derecho a realizar todas las actividades evaluables. El alumnado afectado solicitará 
 al docente, a través de la plataforma de formación, la realización de dichas actividades en 
 las tutorías individuales.
-8. Conforme a lo dispuesto en el artículo 27 del Real Decreto 659/2023, de 18 de 
+8. Conforme a lo dispuesto en el artículo 27 del [Real Decreto 659/2023](./RD659_2023_dictan_instrucciones_orientaciones_formacion_dual_empresas.md), de 18 de 
 julio, se realizará una prueba de evaluación final de carácter presencial obligatoria por cada 
 módulo en ambas modalidades.
 Atendiendo a criterios pedagógicos y a la organización de los cursos en las modalidades 
@@ -1535,7 +1535,7 @@ FEOE.
 Sexta.- Acceso a la formación en empresa u organismo equiparado.
 1. El alumnado que se encuentre cursando un Grado D en las modalidades semipresencial 
 y virtual podrá acumular la totalidad de las horas de la FEOE al final de la formación, en 
-virtud de lo dispuesto en el artículo 9.5 del Real Decreto 659/2023, de 18 de julio.
+virtud de lo dispuesto en el artículo 9.5 del [Real Decreto 659/2023](./RD659_2023_dictan_instrucciones_orientaciones_formacion_dual_empresas.md), de 18 de julio.
 Sin perjuicio de lo anterior, atendiendo a las circunstancias profesionales y personales 
 del alumnado y siempre que exista disponibilidad del centro para realizar el seguimiento de 
 la formación en la empresa, el alumnado de primer curso de un Grado D podrá simultanear 
@@ -1561,7 +1561,7 @@ E a partir del curso 2024/2025 en el ámbito de la Comunidad Autónoma de Canari
 como por lo dispuesto en el presente anexo.
 Octava.- Calificación.
 1. La expresión de la calificación para cada módulo profesional responderá a lo establecido 
-en el artículo 18.8 del Real Decreto 659/2023, de 18 de julio, y será, consecuentemente, numérica 
+en el artículo 18.8 del [Real Decreto 659/2023](./RD659_2023_dictan_instrucciones_orientaciones_formacion_dual_empresas.md), de 18 de julio, y será, consecuentemente, numérica 
 entre 1 y 10, sin decimales.
 2. En las sesiones de evaluación parciales se evaluarán y calificarán los módulos que 
 en dicho momento se estén impartiendo, constando únicamente de valor numérico. Los no 
@@ -1592,7 +1592,7 @@ siempre y cuando tengan incluido un periodo de Formación en empresa u organismo
 equiparado.
 6. La nota final de los Grados D y E será la media aritmética de los módulos y, en su 
 caso, Proyecto, expresada con dos decimales, conforme a lo dispuesto en el artículo 18.11 
-del Real Decreto 659/2023, de 18 de julio.
+del [Real Decreto 659/2023](./RD659_2023_dictan_instrucciones_orientaciones_formacion_dual_empresas.md), de 18 de julio.
 Décima.- Convocatorias y renuncia.
 1. El alumnado matriculado en un Grado D podrá permanecer cursando en modalidad 
 semipresencial o virtual durante un máximo de seis (6) cursos académicos, consecutivos 
@@ -1689,7 +1689,7 @@ que no haya superado la oferta de Formación Profesional semipresencial, conform
 ordenación académica vigente en el curso 2023-2024, se le aplicarán las convalidaciones 
 que para los módulos superados, han sido establecidas en el artículo 15, en su redacción 
 actual, de cada uno de los Reales Decretos que establece el título correspondiente y se fijan 
-los aspectos básicos del currículo y en el Real Decreto 659/2023, de 18 de julio.
+los aspectos básicos del currículo y en el [Real Decreto 659/2023](./RD659_2023_dictan_instrucciones_orientaciones_formacion_dual_empresas.md), de 18 de julio.
 2. En relación a los ciclos residuales 
 LOGSE, aún en vigor, quedan con la ordenación del 
 Sistema de Formación Profesional anterior, sin alteración alguna, manteniendo el módulo 

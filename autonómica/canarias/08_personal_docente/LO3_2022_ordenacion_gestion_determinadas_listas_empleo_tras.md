@@ -46,13 +46,13 @@ III. Otras Resoluciones
 Consejería de Educación, Universidades, Cultura y Deportes
 2237 Dirección General de Personal.- Resolución de 30 de junio de 2023, sobre la 
 ordenación y gestión de determinadas listas de empleo, tras la entrada en vigor de la 
-Ley Orgánica 3/2022, de 31 de marzo, de ordenación e integración de la Formación 
+[Ley Orgánica 3/2022](../../../estatal/03_ordenacion_curricular_y_ensenanzas/LO3_2022_ordenacion_e_integracion_formacion_profesional.md), de 31 de marzo, de ordenación e integración de la Formación 
 Profesional.
 La Ley Orgánica 3/2020, de 29 de diciembre, por la que se modifica la Ley 
 Orgánica 2/2006, de 3 de mayo, de Educación, modifica la disposición adicional séptima 
 de la [Ley Orgánica 2/2006](../../../estatal/01_marco_normativo_general_y_organico/LO2_2006_educacion_texto_consolidado_modificaciones_lomloe.md), de 3 de mayo, de Educación, y declara a extinguir el Cuerpo de 
 Profesores Técnicos de Formación Profesional.
-Por su parte, la Ley Orgánica 3/2022, de 31 de marzo, de ordenación e integración de 
+Por su parte, la [Ley Orgánica 3/2022](../../../estatal/03_ordenacion_curricular_y_ensenanzas/LO3_2022_ordenacion_e_integracion_formacion_profesional.md), de 31 de marzo, de ordenación e integración de 
 la Formación Profesional, en el artículo 85 crea el Cuerpo de Profesores Especialistas en 
 Sectores Singulares de Formación Profesional, determinando en su disposición adicional 
 quinta las especialidades del Cuerpo a extinguir de Profesores Técnicos de Formación 

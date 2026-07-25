@@ -42,7 +42,7 @@ fuente_pdf_oficial: https://sede.gobiernodecanarias.org/boc/boc-a-2019-016-310.p
 Jueves 24 de enero de 2019
 III. Otras Resoluciones
 Consejería de Educación y Universidades
-310 Secretaría General Técnica.- Resolución de 9 de enero de 2019, por la que se crea 
+310 Secretaría General Técnica.- [Resolución de 9 de enero de 2019](./R9_1_2019_resolucion_crea_sello_electronico_2.md), por la que se crea 
 el sello electrónico de la Dirección General de Centros e Infraestructura Educativa.
 ANTECEDENTES DE HECHO
 La [Ley 39/2015](../../../estatal/01_marco_normativo_general_y_organico/L39_2015_procedimiento_administrativo_comun_administraciones_publicas.md), de 1 de octubre, del Procedimiento Administrativo Común de las 
@@ -141,7 +141,7 @@ Quinto.- Actuaciones administrativas automatizadas.
 El sello electrónico podrá ser utilizado para las siguientes actuaciones automatizadas:
 1. La obtención de imágenes electrónicas de documentos en papel, con su misma validez 
 y eficacia, a través de procesos de digitalización, de acuerdo con lo previsto en el artículo 
-27 de la Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común de las 
+27 de la [Ley 39/2015](../../../estatal/01_marco_normativo_general_y_organico/L39_2015_procedimiento_administrativo_comun_administraciones_publicas.md), de 1 de octubre, del Procedimiento Administrativo Común de las 
 Administraciones Públicas, y en el apartado 5 del artículo 41 del Decreto 19/2011, de 10 de 
 febrero, por el que se regula la utilización de los medios electrónicos en la Administración 
 Pública de la Comunidad Autónoma de Canarias.
@@ -165,7 +165,7 @@ y Universidades y, para general conocimiento, en el Boletín Oficial de Canarias
 Contra la presente resolución se podrá interponer recurso de alzada ante la Consejera 
 de Educación y Universidades, en el plazo de un mes a partir del día siguiente al de su 
 publicación en el Boletín Oficial de Canarias, de conformidad con lo dispuesto en los 
-artículos 121 y 122 de la Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo 
+artículos 121 y 122 de la [Ley 39/2015](../../../estatal/01_marco_normativo_general_y_organico/L39_2015_procedimiento_administrativo_comun_administraciones_publicas.md), de 1 de octubre, del Procedimiento Administrativo 
 Común de las Administraciones Públicas.
 Santa Cruz de Tenerife, a 9 de enero de 2019.- La Secretaria General Técnica, Ángeles 
 Bogas Gálvez.

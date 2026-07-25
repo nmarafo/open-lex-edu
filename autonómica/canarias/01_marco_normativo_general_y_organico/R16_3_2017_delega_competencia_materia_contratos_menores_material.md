@@ -60,14 +60,14 @@ ANTECEDENTES DE HECHO
 Primero.- [Decreto 135/2016](D135_2016_reglamento_organico_consejeria_educacion_universidades_cultura.md), de 10 de octubre, por el que se aprueba el Reglamento 
 Orgánico de la Consejería de Educación y Universidades (BOC nº 203, de 19 de octubre).
 Segundo.- Teniendo en cuenta que entre las atribuciones establecidas por el artículo 10 
-del Decreto 135/2016, de 10 de octubre, por el que se aprueba el Reglamento Orgánico de la 
+del [Decreto 135/2016](./D135_2016_reglamento_organico_consejeria_educacion_universidades_cultura.md), de 10 de octubre, por el que se aprueba el Reglamento Orgánico de la 
 Consejería de Educación y Universidades, a la Dirección General de Centros e Infraestructura 
 Educativa, figura la de determinar las necesidades y gestionar la dotación de mobiliario, 
 equipamiento y material escolar, incluyendo material digital, necesarios para la puesta en 
 funcionamiento de los centros públicos de enseñanzas no universitarias, de acuerdo con las 
 prescripciones técnicas establecidas por la Dirección General correspondiente.
 Tercero.- Teniendo en cuenta que entre las atribuciones establecidas por el artículo 11 
-del Decreto 135/2016, de 10 de octubre, por el que se aprueba el Reglamento Orgánico de la 
+del [Decreto 135/2016](./D135_2016_reglamento_organico_consejeria_educacion_universidades_cultura.md), de 10 de octubre, por el que se aprueba el Reglamento Orgánico de la 
 Consejería de Educación y Universidades, a la Dirección General de Formación Profesional 
 y Educación de Adultos, figura la de establecer los criterios, así como la organización de las 
 actuaciones sobre equipamiento del material específico necesario para el desarrollo de las 
@@ -100,7 +100,7 @@ Igualmente, el artículo 31.3 de la [Ley 14/1990](L14_1990_regimen_juridico_admi
 las Administraciones Públicas de Canarias (BOC nº 96, de 1 de agosto; en adelante Ley 
 14/1990), preceptúa que el ejercicio de las competencias propias podrá ser delegado en el 
 órgano que, por aplicación del principio de eficacia, sea más idóneo para ello. 
-Segundo.- Según prescribe el artículo 9.4 de la Ley 40/2015, de 1 de octubre, de 
+Segundo.- Según prescribe el artículo 9.4 de la [Ley 40/2015](../../../estatal/01_marco_normativo_general_y_organico/L40_2015_regimen_juridico_sector_publico.md), de 1 de octubre, de 
 Régimen Jurídico del Sector Público (BOE nº 236, de 2 de octubre de 2015), las resoluciones 
 administrativas que se adopten por delegación, indicarán expresamente esta circunstancia y 
 se considerarán dictadas por el órgano delegante.
@@ -133,7 +133,7 @@ https://sede.gobcan.es/cpji/boc
 Martes 28 de marzo de 2017
 8459
 Tercero.- Publicar la presente resolución en el Boletín Oficial de Canarias, en 
-cumplimiento con lo dispuesto en el apartado 3 del artículo 9 de la Ley 40/2015, de 1 de 
+cumplimiento con lo dispuesto en el apartado 3 del artículo 9 de la [Ley 40/2015](../../../estatal/01_marco_normativo_general_y_organico/L40_2015_regimen_juridico_sector_publico.md), de 1 de 
 octubre, de Régimen Jurídico del Sector Público.
 Cuarto.- La presente delegación surtirá sus efectos al día siguiente de su publicación en 
 el Boletín Oficial de Canarias.

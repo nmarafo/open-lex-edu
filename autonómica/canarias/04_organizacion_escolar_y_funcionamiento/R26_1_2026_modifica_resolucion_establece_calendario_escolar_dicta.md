@@ -44,12 +44,12 @@ III. Otras Resoluciones
 Consejería de Educación, Formación Profesional, Actividad Física y Deportes
 346 Dirección General de Administración de Centros, Escolarización y Servicios 
 Complementarios.- Resolución de 26 de enero de 2026, por la que se modifica la 
-Resolución de 20 de febrero de 2025, que establece el calendario escolar y dicta 
+[Resolución de 20 de febrero de 2025](./R19_3_2025_escolarizacion_servicios_complementarios_corrige_error_resolucion.md), que establece el calendario escolar y dicta 
 instrucciones para la organización y desarrollo de las actividades de comienzo y 
 finalización del curso 2025-2026, para los centros de enseñanzas no universitarias 
 de la Comunidad Autónoma de Canarias, corregida por la Resolución de 19 de 
 marzo de 2025.
-Mediante Resolución de 20 de febrero de 2025, se estableció el calendario escolar y 
+Mediante [Resolución de 20 de febrero de 2025](./R19_3_2025_escolarizacion_servicios_complementarios_corrige_error_resolucion.md), se estableció el calendario escolar y 
 se dictaron instrucciones para la organización y desarrollo de las actividades de comienzo 
 y finalización del curso 2025-2026, para los centros de enseñanzas no universitarias de la 
 Comunidad Autónoma de Canarias. Con fecha de 27 de marzo de 2025, tras detectar error 
@@ -70,7 +70,7 @@ el artículo 18.2.A).g) del Reglamento Orgánico de la Consejería de Educación
 Profesional, Actividad Física y Deportes, aprobado por el [Decreto 84/2024](../01_marco_normativo_general_y_organico/D84_2024_aprueba_reglamento_organico_formacion_profesional_actividad.md), de 10 de junio,
 RESUELVO :
 Único.- Modificar el Anexo I, de Calendario de Finalización de Actividades, curso 
-2025-2026, de la Resolución de 20 de febrero de 2025, por la que se establece el calendario 
+2025-2026, de la [Resolución de 20 de febrero de 2025](./R19_3_2025_escolarizacion_servicios_complementarios_corrige_error_resolucion.md), por la que se establece el calendario 
 y se dictan instrucciones para la organización y desarrollo de las actividades de comienzo 
 y finalización del curso 2025-2026, para los centros de enseñanzas no universitarias de la 
 Comunidad Autónoma de Canarias, y su posterior Resolución de 19 de marzo de 2025, por 
@@ -79,12 +79,12 @@ de Actividades, curso 2025-2026, en los siguientes términos:
 Folio 1/1
 RESOLUCIÓN  DEL  DIRECTOR  GENERAL  DE  ADMINISTRACIÓN  DE  CENTROS, 
 ESCOLARIZACIÓN  Y SERVICIOS  COMPLEMENTARIOS  POR  LA QUE  SE  MODIFICA LA  
-RESOLUCIÓN DE 20 DE FEBRERO DE 2025 POR LA QUE SE ESTABLECE EL CALENDARIO  
+[RESOLUCIÓN DE 20 DE FEBRERO DE 2025](./R19_3_2025_escolarizacion_servicios_complementarios_corrige_error_resolucion.md) POR LA QUE SE ESTABLECE EL CALENDARIO  
 ESCOLAR Y SE DICTAN INSTRUCCIONES PARA LA ORGANIZACIÓN Y DESARROLLO DE  
 LAS  ACTIVIDADES  DE COMIENZO  Y FINALIZACIÓN  DEL CURSO  2025-2026,  PARA LOS 
 CENTROS DE ENSEÑANZAS NO UNIVERSITARIAS DE LA COMUNIDAD AUTÓNOMA DE  
 CANARIAS, CORREGIDA POR LA RESOLUCIÓN DE 19 DE MARZO DE 2025.
-Mediante Resolución de 20 de febrero de 2025, se estableció el calendario escolar y se dictaron instrucciones 
+Mediante [Resolución de 20 de febrero de 2025](./R19_3_2025_escolarizacion_servicios_complementarios_corrige_error_resolucion.md), se estableció el calendario escolar y se dictaron instrucciones 
 para la organización y desarrollo de las actividades de comienzo y finalización del curso 2025-2026, para los  
 centros de enseñanzas no universitarias de la Comunidad Autónoma de Canarias. Con fecha de 27 de marzo  
 de 2025, tras detectar error material en el anexo I de la referida resolución, se procede a su corrección,  
@@ -100,10 +100,10 @@ la  calificación  obtenida  para  dicho  acceso  en  el  ciclo  formativo  que 
 convalidaciones de los créditos universitarios que correspondan.
 En virtud de lo citado anteriormente y en ejercicio de las competencias atribuidas en el artículo 18.2.A)g) del  
 Reglamento Orgánico de la Consejería de Educación, Formación Profesional, Actividad Física y Deportes,  
-aprobado por el Decreto 84/2024, de 10 de junio,
+aprobado por el [Decreto 84/2024](../01_marco_normativo_general_y_organico/D84_2024_aprueba_reglamento_organico_formacion_profesional_actividad.md), de 10 de junio,
 RESUELVO
 Único.  Modificar  el  anexo  I,  de  Calendario  de  Finalización  de  Actividades,  curso  2025-2026,  de  la 
-Resolución de 20 de febrero de 2025, por la que se establece el calendario y se dictan instrucciones para la  
+[Resolución de 20 de febrero de 2025](./R19_3_2025_escolarizacion_servicios_complementarios_corrige_error_resolucion.md), por la que se establece el calendario y se dictan instrucciones para la  
 organización y desarrollo de las actividades de comienzo y finalización del curso 2025-2026, para los  
 centros de enseñanzas no universitarias de la Comunidad Autónoma de Canarias, y su posterior resolución  
 de 19 de marzo de 2025, por la que se corrige error material en el anexo I, correspondiente al Calendario de  

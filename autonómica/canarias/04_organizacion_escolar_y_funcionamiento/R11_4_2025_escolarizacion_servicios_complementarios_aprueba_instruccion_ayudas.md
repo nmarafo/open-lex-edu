@@ -152,7 +152,7 @@ texto y materiales didácticos.
 FUNDAMENTOS DE DERECHO
 Primero.- La Ley Orgánica 3/2020, de 29 de diciembre, por la que se modifica la Ley 
 Orgánica 2/2006, de 3 de mayo, de Educación.
-Segundo.- La Ley 6/2014, de 25 de julio, Canaria de Educación no Universitaria.
+Segundo.- La [Ley 6/2014](../01_marco_normativo_general_y_organico/L6_2014_canaria_educacion_no_universitaria.md), de 25 de julio, Canaria de Educación no Universitaria.
 Tercero.- El artículo 1 del Real Decreto 1721/2007, de 21 de diciembre, por el que 
 se establece el régimen de las becas y ayudas al estudio personalizadas, define la ayuda 
 como toda cantidad o beneficio económico que se conceda para iniciar o proseguir 
@@ -186,7 +186,7 @@ a las Familias Numerosas.
 Undécimo.- La disposición transitoria única de la Ley 43/2015, de 9 de octubre, del 
 Tercer Sector de Acción Social.
 En virtud de las competencias que tengo legalmente atribuidas en el artículo 18.2.B.a) 
-del Decreto 84/2024, de 10 de junio, por el que se aprueba el Reglamento Orgánico de la 
+del [Decreto 84/2024](../01_marco_normativo_general_y_organico/D84_2024_aprueba_reglamento_organico_formacion_profesional_actividad.md), de 10 de junio, por el que se aprueba el Reglamento Orgánico de la 
 Consejería de Educación, Formación Profesional, Actividad Física y Deportes, así como 
 la disposición adicional única de la Orden de 5 de noviembre de 2012, por la que se regula 
 el sistema de préstamo de libros de texto o adquisición de libros de texto y materiales 
@@ -260,7 +260,7 @@ nivel en este curso escolar. Las variables para definir el máximo económico de
 como el número de ayudas abonadas, están establecidas en el apartado séptimo del presente 
 anexo.
 Las familias podrán presentar renuncia expresa a la totalidad de la ayuda concedida 
-de conformidad con lo dispuesto en el artículo 94 de la Ley 39/2015, de 1 de octubre, 
+de conformidad con lo dispuesto en el artículo 94 de la [Ley 39/2015](../../../estatal/01_marco_normativo_general_y_organico/L39_2015_procedimiento_administrativo_comun_administraciones_publicas.md), de 1 de octubre, 
 del Procedimiento Administrativo Común de las Administraciones Públicas, mediante el 
 modelo Apéndice VIII.
 Segundo.- Determinación de las diferentes modalidades de estudios.
@@ -469,7 +469,7 @@ extraordinaria de Ciclos Formativos de Grado Básico.
 2.- Subsanación y reclamación de solicitudes, así como grabación de aquellas 
 presentadas en tiempo y forma dentro del periodo ordinario de matrícula y no cargadas en 
 plazo por los centros educativos (segunda certificación).
-Subsanación. De acuerdo con lo establecido en el artículo 68 de la Ley 39/2015, de 
+Subsanación. De acuerdo con lo establecido en el artículo 68 de la [Ley 39/2015](../../../estatal/01_marco_normativo_general_y_organico/L39_2015_procedimiento_administrativo_comun_administraciones_publicas.md), de 
 1 de octubre, si la solicitud no reuniese los requisitos previstos, se requerirá a la persona 
 interesada para que, en un plazo de 10 días lectivos, subsane la falta mediante solicitud de 
 subsanación, y acompañe los documentos preceptivos tras la comunicación recibida por 
@@ -508,7 +508,7 @@ solicitud será denegada automáticamente por emitirse fuera de plazo.
 3.- Recurso de las solicitudes denegadas, tras las subsanaciones y reclamaciones, que 
 se encuentran cargadas en Pincel 
 EKADE o aplicativo WEBGesALT, solicitadas por las 
-unidades de responsables. De acuerdo con lo establecido en el artículo 124 de la Ley 39/2015, 
+unidades de responsables. De acuerdo con lo establecido en el artículo 124 de la [Ley 39/2015](../../../estatal/01_marco_normativo_general_y_organico/L39_2015_procedimiento_administrativo_comun_administraciones_publicas.md), 
 de 1 de octubre, si la solicitud no reuniese los requisitos previstos, las personas interesadas 
 podrán interponer recurso potestativo de reposición en el plazo de un mes.
 Las familias podrán presentar la solicitud de recurso de reposición mediante el modelo 
@@ -528,7 +528,7 @@ En primer lugar, llegarán al centro las resoluciones de los recursos estimados 
 sean trasladadas por el centro a las familias y, posteriormente, se remitirán las resoluciones 
 de los recursos desestimados. Las familias han de dejar constancia de su recepción en el 
 centro educativo.
-Según lo establecido en el artículo 25.1.a) de la Ley 39/2015, de 1 de octubre, en el caso 
+Según lo establecido en el artículo 25.1.a) de la [Ley 39/2015](../../../estatal/01_marco_normativo_general_y_organico/L39_2015_procedimiento_administrativo_comun_administraciones_publicas.md), de 1 de octubre, en el caso 
 de los procedimientos de los que pudiera derivarse el reconocimiento del derecho a la 
 percepción a la ayuda, las personas interesadas podrán entender desestimado su recurso por 
 silencio administrativo.
@@ -554,7 +554,7 @@ Deportes.
 La concesión de la ayuda se realizará siguiendo el orden de prelación propuesto por la 
 Comisión de Valoración, y establecido en el apartado séptimo de este anexo, hasta agotar 
 el crédito presupuestario consignado a esta finalidad.
-En atención a lo expuesto en los artículos 29 a 32 de la Ley 39/2015, los plazos 
+En atención a lo expuesto en los artículos 29 a 32 de la [Ley 39/2015](../../../estatal/01_marco_normativo_general_y_organico/L39_2015_procedimiento_administrativo_comun_administraciones_publicas.md), los plazos 
 indicados en los calendarios de procesos para cada una de las etapas educativas que se 
 aportarán posteriormente obligan a las/os administradas/os y al personal al servicio de la 
 Administración Educativa a su cumplimiento para la tramitación de los asuntos, siendo 
@@ -571,7 +571,7 @@ proceso.
 La comprobación por la administración educativa del cumplimiento de los requisitos 
 aportados por los/as interesados/as requiere la verificación por parte de la administración 
 educativa de datos que pueden obrar en poder de las administraciones públicas.
-Conforme a lo dispuesto en el artículo 28 de la Ley 39/2015, de 1 de octubre, del 
+Conforme a lo dispuesto en el artículo 28 de la [Ley 39/2015](../../../estatal/01_marco_normativo_general_y_organico/L39_2015_procedimiento_administrativo_comun_administraciones_publicas.md), de 1 de octubre, del 
 Procedimiento Administrativo Común de las Administraciones Públicas, se presume, salvo 
 que el solicitante manifieste su oposición expresa o existiese imposibilidad material de 
 obtener datos exigidos en el procedimiento por no obrar en la administración actuante 
@@ -851,7 +851,7 @@ del Servicio.
 General de Administración de Centros, Escolarización y Servicios Complementarios, que actuará 
 con voz, pero sin voto.
 El régimen jurídico aplicable a la Comisión de Valoración será el previsto en los 
-artículos 15 a 18 de la Ley 40/2015, de 1 de octubre, de Régimen Jurídico del Sector 
+artículos 15 a 18 de la [Ley 40/2015](../../../estatal/01_marco_normativo_general_y_organico/L40_2015_regimen_juridico_sector_publico.md), de 1 de octubre, de Régimen Jurídico del Sector 
 Público.
 Por la Comisión de Valoración se elaborará un informe haciendo constar la relación 
 de los solicitantes a los que se estima procedente conceder el disfrute por cumplir todos 
@@ -952,7 +952,7 @@ Han de registrar los apuntes contables de los ingresos recibidos y los gastos re
 durante el proceso del curso, informar de la justificación ante el Claustro, y aprobarla ante el 
 Consejo Escolar, como parte de las cuentas justificativas del segundo semestre. Asimismo, 
 los centros públicos deberán justificar el gasto conforme establece el Capítulo VIII del 
-Decreto 276/1997, de 27 de noviembre, por el que se regula el procedimiento de gestión 
+[Decreto 276/1997](../02_gestion_y_administracion_centros/D276_1997_regula_procedimiento_gestion_economica_centros_docentes.md), de 27 de noviembre, por el que se regula el procedimiento de gestión 
 económica de los centros docentes públicos no universitarios dependientes de la Consejería 
 de Educación, Cultura y Deportes, en relación a la justificación económica de los centros 
 docentes públicos. Los centros privados concertados quedarán sujetos al control de carácter 
@@ -1021,7 +1021,7 @@ c o m o s e i n d i c a e n e l  Anexo  de  la  presente
 Resolución.
 Familia numerosa La unidad familiar se encuentra en situación económica crítica
 La Comunidad Autónoma de Canarias consultará los datos necesarios para la resolución de la presente 
-solicitud, de acuerdo con lo establecido en el artículo 28 de la Ley 39/2015, de 1 de octubre, del  
+solicitud, de acuerdo con lo establecido en el artículo 28 de la [Ley 39/2015](../../../estatal/01_marco_normativo_general_y_organico/L39_2015_procedimiento_administrativo_comun_administraciones_publicas.md), de 1 de octubre, del  
 Procedimiento Administrativo Común de las Administraciones Públicas, salvo que se oponga a dicha  
 consulta, debiendo en ese caso adjuntar el documento a esta solicitud.
 Marcar con una X, si procede:
@@ -1212,7 +1212,7 @@ Presentó Subsanación/reclamación en plazo:    □ Sí   □No
 Documentación presentada en el periodo de Subsanación/reclamación y cargada en los aplicativos
 Modalidad de materiales de ayuda solicitada
 *Recuerde que en el periodo de interposición de recursos la documentación nueva entregada no será tenida
-en cuenta en la resolución del recurso (párrafo segundo del artículo 118.1 de la Ley 39/2015 de 1 de octubre,
+en cuenta en la resolución del recurso (párrafo segundo del artículo 118.1 de la [Ley 39/2015](../../../estatal/01_marco_normativo_general_y_organico/L39_2015_procedimiento_administrativo_comun_administraciones_publicas.md) de 1 de octubre,
 para el posterior estudio por parte de la administración educativa en el plazo de un mes natural tras la
 publicación del listado definitivo).
 DA TOS DEL SOLICITANTE (Madre/Padre/Tutora/Tutor legal)
@@ -1406,7 +1406,7 @@ recurso.
 No se precisa.
 El  silencio  administrativo  es  
 desestimatorio
-(art 25.1 a) Ley 39/2015)
+(art 25.1 a) [Ley 39/2015](../../../estatal/01_marco_normativo_general_y_organico/L39_2015_procedimiento_administrativo_comun_administraciones_publicas.md))
 El  Servicio  tiene  1  mes  para 
 notificar las estimadas
 Reasignación
@@ -1469,7 +1469,7 @@ recurso.
 No se precisa.
 El  silencio  administrativo  es  
 desestimatorio
-(art 25.1 a) Ley 39/2015)
+(art 25.1 a) [Ley 39/2015](../../../estatal/01_marco_normativo_general_y_organico/L39_2015_procedimiento_administrativo_comun_administraciones_publicas.md))
 El  Servicio  tiene  1  mes  para 
 notificar las estimadas
 Reasignación
@@ -1969,7 +1969,7 @@ WEBGesALT.
 11.4.- El equipo directivo ha de informar de la justificación ante el Claustro, y aprobarla 
 ante el Consejo Escolar, como parte de las Cuentas Justificativas del segundo semestre (no 
 se cargarán datos en el aplicativo WEBGesALT), conforme establece el Capítulo VIII del 
-Decreto 276/1997, de 27 de noviembre, por el que se regula el procedimiento de gestión 
+[Decreto 276/1997](../02_gestion_y_administracion_centros/D276_1997_regula_procedimiento_gestion_economica_centros_docentes.md), de 27 de noviembre, por el que se regula el procedimiento de gestión 
 económica de los centros docentes públicos no universitarios dependientes de la Consejería 
 de Educación.
 11.5.- No procederá el reintegro de los posibles remanentes existentes a 31 de diciembre 

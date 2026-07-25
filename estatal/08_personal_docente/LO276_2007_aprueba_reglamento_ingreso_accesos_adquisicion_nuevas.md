@@ -91,7 +91,7 @@ La promulgación de la citada ley orgánica ha llevado consigo una serie de nove
 
 Tal y como se ha indicado, la ley en diversos preceptos y, en especial, en la disposición adicional duodécima, regula los elementos fundamentales que deben configurar el sistema de ingreso y accesos en la función pública docente, de forma que se proporcione a dichos sistemas la homogeneidad necesaria para garantizar la posterior movilidad de estos funcionarios a través de los concursos de traslados de ámbito estatal, previstos igualmente en la misma.
 
-Por otra parte, se dan en este momento algunas circunstancias que deben ser tenidas en cuenta cuando se trata de regular el ingreso a los distintos cuerpos docentes, por ello, visto lo dispuesto al respecto en la disposición transitoria decimoséptima de la Ley Orgánica 2/2006, de 3 de mayo, de Educación, es necesario regular, de forma transitoria, un sistema de ingreso a los cuerpos de funcionarios docentes en el que se valore de forma preferente la experiencia docente previa en los centros públicos de la misma etapa educativa con total respeto a lo establecido en la jurisprudencia del Tribunal Constitucional sobre la materia.
+Por otra parte, se dan en este momento algunas circunstancias que deben ser tenidas en cuenta cuando se trata de regular el ingreso a los distintos cuerpos docentes, por ello, visto lo dispuesto al respecto en la disposición transitoria decimoséptima de la [Ley Orgánica 2/2006](../01_marco_normativo_general_y_organico/LO2_2006_educacion_texto_consolidado_modificaciones_lomloe.md), de 3 de mayo, de Educación, es necesario regular, de forma transitoria, un sistema de ingreso a los cuerpos de funcionarios docentes en el que se valore de forma preferente la experiencia docente previa en los centros públicos de la misma etapa educativa con total respeto a lo establecido en la jurisprudencia del Tribunal Constitucional sobre la materia.
 
 Este real decreto y el reglamento que por el mismo se aprueba ha sido objeto de consulta con las Administraciones educativas de las comunidades autónomas, se ha cumplido lo previsto en el artículo 32 de la Ley 9/1987, de 12 de junio, modificada por la Ley 7/1990, de 19 de julio, de órganos de representación, determinación de las condiciones de trabajo y participación del personal al servicio de las Administraciones públicas, y sobre él ha emitido informe la Comisión Superior de Personal. Asimismo ha sido sometido a informe del Consejo Escolar del Estado.
 
@@ -101,9 +101,9 @@ En su virtud, a propuesta de la Ministra de Educación y Ciencia, con la aprobac
 
 #### Artículo único. Aprobación del Reglamento.
 
-Se aprueba el Reglamento general de ingreso, accesos y adquisición de nuevas especialidades en los cuerpos de funcionarios docentes a que se refiere la Ley Orgánica 2/2006, de 3 de mayo, de Educación, cuyo texto se inserta a continuación.
+Se aprueba el Reglamento general de ingreso, accesos y adquisición de nuevas especialidades en los cuerpos de funcionarios docentes a que se refiere la [Ley Orgánica 2/2006](../01_marco_normativo_general_y_organico/LO2_2006_educacion_texto_consolidado_modificaciones_lomloe.md), de 3 de mayo, de Educación, cuyo texto se inserta a continuación.
 
-#### Disposición transitoria primera. Sistema de ingreso durante la implantación de la Ley Orgánica 2/2006, de 3 de mayo, de Educación.
+#### Disposición transitoria primera. Sistema de ingreso durante la implantación de la [Ley Orgánica 2/2006](../01_marco_normativo_general_y_organico/LO2_2006_educacion_texto_consolidado_modificaciones_lomloe.md), de 3 de mayo, de Educación.
 
 En cumplimiento de lo dispuesto en la disposición transitoria decimoséptima. 2 de la Ley Orgánica de Educación, las disposiciones contenidas en el título VI de este Reglamento se aplicarán a los procedimientos de ingreso a los cuerpos docentes que se convoquen durante los años de implantación de la misma.
 
@@ -121,7 +121,7 @@ Quedan derogadas todas las disposiciones de igual o inferior rango que se oponga
 
 #### Disposición final primera. Título competencial.
 
-El presente real decreto, así como el Reglamento, que se aprueba en el mismo, se dicta en uso de las competencias que atribuye al Estado el artículo 149.1, 1.ª, 18.ª y 30.ª de la Constitución y en virtud de la habilitación que confiere al Gobierno la disposición adicional sexta. 1 de la Ley Orgánica 2/2006, de 3 de mayo, de Educación, y tiene carácter básico.
+El presente real decreto, así como el Reglamento, que se aprueba en el mismo, se dicta en uso de las competencias que atribuye al Estado el artículo 149.1, 1.ª, 18.ª y 30.ª de la Constitución y en virtud de la habilitación que confiere al Gobierno la disposición adicional sexta. 1 de la [Ley Orgánica 2/2006](../01_marco_normativo_general_y_organico/LO2_2006_educacion_texto_consolidado_modificaciones_lomloe.md), de 3 de mayo, de Educación, y tiene carácter básico.
 
 Se exceptúan de dicho carácter básico los siguientes artículos del Reglamento: 3.2; 5; 6; 7; 8.1; 8.2; 10.2; 11; 16.2; 36.3, párrafo segundo; 53.2, párrafo tercero; 54.3, párrafo cuarto.
 
@@ -135,7 +135,7 @@ La Ministra de Educación y Ciencia,
 
 MERCEDES CABRERA CALVO-SOTELO
 
-[encabezado]REGLAMENTO DE INGRESO, ACCESOS Y ADQUISICIÓN DE NUEVAS ESPECIALIDADES EN LOS CUERPOS DE FUNCIONARIOS DOCENTES A LOS QUE SE REFIERE LA LEY ORGÁNICA 2/2006, DE 3 DE MAYO, DE EDUCACIÓN
+[encabezado]REGLAMENTO DE INGRESO, ACCESOS Y ADQUISICIÓN DE NUEVAS ESPECIALIDADES EN LOS CUERPOS DE FUNCIONARIOS DOCENTES A LOS QUE SE REFIERE LA [LEY ORGÁNICA 2/2006](../01_marco_normativo_general_y_organico/LO2_2006_educacion_texto_consolidado_modificaciones_lomloe.md), DE 3 DE MAYO, DE EDUCACIÓN
 
 ## TÍTULO I
 
@@ -147,7 +147,7 @@ Objeto y ámbito de aplicación
 
 #### Artículo 1. Objeto y ámbito de aplicación.
 
-El presente Reglamento tiene por objeto la regulación de los procedimientos que se convoquen por las Administraciones educativas para ingreso, accesos y adquisición de nuevas especialidades en los cuerpos de funcionarios docentes a que se refiere la Ley Orgánica 2/2006, de 3 de mayo, de Educación.
+El presente Reglamento tiene por objeto la regulación de los procedimientos que se convoquen por las Administraciones educativas para ingreso, accesos y adquisición de nuevas especialidades en los cuerpos de funcionarios docentes a que se refiere la [Ley Orgánica 2/2006](../01_marco_normativo_general_y_organico/LO2_2006_educacion_texto_consolidado_modificaciones_lomloe.md), de 3 de mayo, de Educación.
 
 ## TÍTULO II
 
@@ -219,7 +219,7 @@ d) La declaración de los aspirantes que hayan superado las fases de concurso y 
 
 #### Artículo 7. Composición.
 
-1. Los miembros de los tribunales serán funcionarios de carrera en activo de los cuerpos de funcionarios docentes o del Cuerpo a extinguir de Inspectores al Servicio de la Administración educativa, y pertenecerán todos a cuerpos de igual o superior grupo de clasificación que el que corresponda al cuerpo al que optan los aspirantes. En aplicación de la excepción prevista en el artículo 19.2 de la Ley 30/1984, de 2 de agosto, de Medidas para la Reforma de la Función Pública, los tribunales podrán estar formados mayoritariamente por funcionarios pertenecientes al cuerpo al que corresponda el proceso selectivo.
+1. Los miembros de los tribunales serán funcionarios de carrera en activo de los cuerpos de funcionarios docentes o del Cuerpo a extinguir de Inspectores al Servicio de la Administración educativa, y pertenecerán todos a cuerpos de igual o superior grupo de clasificación que el que corresponda al cuerpo al que optan los aspirantes. En aplicación de la excepción prevista en el artículo 19.2 de la [Ley 30/1984](../01_marco_normativo_general_y_organico/L30_1984_medidas_reforma_funcion_publica.md), de 2 de agosto, de Medidas para la Reforma de la Función Pública, los tribunales podrán estar formados mayoritariamente por funcionarios pertenecientes al cuerpo al que corresponda el proceso selectivo.
 
 2. Los tribunales estarán formados por un número impar de miembros, no inferior a cinco, debiendo designarse, como mínimo, el mismo número de miembros suplentes. En su composición se velará por el cumplimiento del principio de especialidad, de acuerdo con el cual, la mayoría de sus miembros deberá ser titular de la especialidad objeto del proceso selectivo y se tenderá a la paridad entre profesoras y profesores, salvo que razones fundadas y objetivas lo impidan.
 
@@ -333,13 +333,13 @@ Además de las condiciones generales que se establecen en el artículo anterior,
 
 a) Estar en posesión del título de Doctor, Licenciado, Ingeniero, Arquitecto o el título de grado correspondiente u otros títulos equivalentes a efectos de docencia.
 
-b) Estar en posesión de la formación pedagógica y didáctica a la que se refiere el artículo 100.2 de la Ley Orgánica 2/2006, de 3 de mayo, de Educación.
+b) Estar en posesión de la formación pedagógica y didáctica a la que se refiere el artículo 100.2 de la [Ley Orgánica 2/2006](../01_marco_normativo_general_y_organico/LO2_2006_educacion_texto_consolidado_modificaciones_lomloe.md), de 3 de mayo, de Educación.
 
 3. Para el ingreso en el Cuerpo de Profesores Técnicos de Formación Profesional:
 
 a) Estar en posesión de la titulación de Diplomado Universitario, Arquitecto Técnico, Ingeniero Técnico o el título de Grado correspondiente u otros títulos equivalentes a efectos de docencia.
 
-b) Estar en posesión de la formación pedagógica y didáctica a la que se refiere el artículo 100.2 de la Ley Orgánica 2/2006, de 3 de mayo, de Educación.
+b) Estar en posesión de la formación pedagógica y didáctica a la que se refiere el artículo 100.2 de la [Ley Orgánica 2/2006](../01_marco_normativo_general_y_organico/LO2_2006_educacion_texto_consolidado_modificaciones_lomloe.md), de 3 de mayo, de Educación.
 
 4. Para el ingreso al Cuerpo de Catedráticos de Música y Artes Escénicas: Estar en posesión del título de Doctor, Licenciado, Ingeniero, Arquitecto o título de Grado correspondiente, u otro título equivalente a efectos de docencia.
 
@@ -347,25 +347,25 @@ b) Estar en posesión de la formación pedagógica y didáctica a la que se refi
 
 a) Estar en posesión del título de Doctor, Licenciado, Ingeniero, Arquitecto o título de Grado correspondiente, u otros títulos equivalentes a efectos de docencia.
 
-b) Con la excepción de quienes ingresen en el cuerpo en especialidades propias de Arte Dramático, estar en posesión de la formación pedagógica y didáctica a la que se refiere el artículo 100.2 de la Ley Orgánica 2/2006, de 3 de mayo, de Educación.
+b) Con la excepción de quienes ingresen en el cuerpo en especialidades propias de Arte Dramático, estar en posesión de la formación pedagógica y didáctica a la que se refiere el artículo 100.2 de la [Ley Orgánica 2/2006](../01_marco_normativo_general_y_organico/LO2_2006_educacion_texto_consolidado_modificaciones_lomloe.md), de 3 de mayo, de Educación.
 
 6. Para el ingreso en el Cuerpo de Profesores de Artes Plásticas y Diseño:
 
 a) Estar en posesión del título de Doctor, Licenciado, Ingeniero, Arquitecto o título de Grado correspondiente, u otros títulos equivalentes a efectos de docencia.
 
-b) Estar en posesión de la formación pedagógica y didáctica a la que se refiere el artículo 100.2 de la Ley Orgánica 2/2006, de 3 de mayo, de Educación.
+b) Estar en posesión de la formación pedagógica y didáctica a la que se refiere el artículo 100.2 de la [Ley Orgánica 2/2006](../01_marco_normativo_general_y_organico/LO2_2006_educacion_texto_consolidado_modificaciones_lomloe.md), de 3 de mayo, de Educación.
 
 7. Para el ingreso en el Cuerpo de Maestros de Taller de Artes Plásticas y Diseño:
 
 a) Estar en posesión de la titulación de Diplomado Universitario, Arquitecto Técnico, Ingeniero Técnico o el título de Grado correspondiente u otros títulos equivalentes a efectos de docencia.
 
-b) Estar en posesión de la formación pedagógica y didáctica a la que se refiere el artículo 100.2 de la Ley Orgánica 2/2006, de 3 de mayo, de Educación.
+b) Estar en posesión de la formación pedagógica y didáctica a la que se refiere el artículo 100.2 de la [Ley Orgánica 2/2006](../01_marco_normativo_general_y_organico/LO2_2006_educacion_texto_consolidado_modificaciones_lomloe.md), de 3 de mayo, de Educación.
 
 8. Para el ingreso en el Cuerpo de Profesores de Escuelas Oficiales de Idiomas:
 
 a) Estar en posesión del título de Doctor, Licenciado, Ingeniero, Arquitecto o título de Grado correspondiente, u otros títulos equivalentes a efectos de docencia.
 
-b) Estar en posesión de la formación pedagógica y didáctica a la que se refiere el artículo 100.2 de la Ley Orgánica 2/2006, de 3 de mayo, de Educación.
+b) Estar en posesión de la formación pedagógica y didáctica a la que se refiere el artículo 100.2 de la [Ley Orgánica 2/2006](../01_marco_normativo_general_y_organico/LO2_2006_educacion_texto_consolidado_modificaciones_lomloe.md), de 3 de mayo, de Educación.
 
 #### Artículo 14. Plazo en el que deben reunirse los requisitos.
 
@@ -393,9 +393,9 @@ Normas generales
 
 1. El sistema de selección debe permitir evaluar la idoneidad de los aspirantes para el ejercicio de la docencia. Para ello, los procedimientos de selección han de comprobar no sólo los conocimientos específicos, científicos y técnicos de la especialidad docente a la que se opta, sino también la aptitud pedagógica y el dominio de las técnicas necesarias para el ejercicio docente.
 
-En concordancia con lo dispuesto en el artículo 58 de la Ley Orgánica 2/2006, de 3 de mayo, de Educación, en los procedimientos selectivos de ingreso a los cuerpos y especialidades que atienden exclusivamente las enseñanzas artísticas superiores, se deberá acreditar, además, la formación y capacidad de tutela en las investigaciones propias de las Enseñanzas Artísticas.
+En concordancia con lo dispuesto en el artículo 58 de la [Ley Orgánica 2/2006](../01_marco_normativo_general_y_organico/LO2_2006_educacion_texto_consolidado_modificaciones_lomloe.md), de 3 de mayo, de Educación, en los procedimientos selectivos de ingreso a los cuerpos y especialidades que atienden exclusivamente las enseñanzas artísticas superiores, se deberá acreditar, además, la formación y capacidad de tutela en las investigaciones propias de las Enseñanzas Artísticas.
 
-2. De conformidad con lo establecido en la disposición adicional duodécima de la Ley Orgánica 2/2006, de 3 de mayo, de Educación, el sistema de ingreso en la Función Pública Docente será el de concurso-oposición convocado por las respectivas Administraciones educativas. Asimismo existirá una fase de prácticas, que podrá incluir cursos de formación, y constituirá parte del proceso selectivo.
+2. De conformidad con lo establecido en la disposición adicional duodécima de la [Ley Orgánica 2/2006](../01_marco_normativo_general_y_organico/LO2_2006_educacion_texto_consolidado_modificaciones_lomloe.md), de 3 de mayo, de Educación, el sistema de ingreso en la Función Pública Docente será el de concurso-oposición convocado por las respectivas Administraciones educativas. Asimismo existirá una fase de prácticas, que podrá incluir cursos de formación, y constituirá parte del proceso selectivo.
 
 CAPÍTULO II
 
@@ -509,7 +509,7 @@ Una vez aplicados los criterios anteriores, si persistiera el empate, las convoc
 
 #### Artículo 28. Publicación de las listas de aspirantes seleccionados que han superado las fases de oposición y concurso.
 
-Una vez terminada la selección de los aspirantes, y dado que la fase de oposición no conlleva, por sí sola, derecho alguno al ingreso o acceso a los cuerpos de funcionarios docentes a los que se aspira, los órganos de selección harán pública la relación de aspirantes seleccionados que han superado las fases de oposición y concurso por orden de puntuación y, en su caso, por turno, no pudiendo superar éstos el número de plazas convocadas y elevarán dicha relación al órgano convocante, de acuerdo con lo dispuesto en el artículo 18.5 de la Ley 30/1984, de 2 de agosto, de Medidas para la Reforma de la Función Pública. Las Administraciones educativas incluirán en sus convocatorias la fijación de un plazo para la reclamación de los posibles errores.
+Una vez terminada la selección de los aspirantes, y dado que la fase de oposición no conlleva, por sí sola, derecho alguno al ingreso o acceso a los cuerpos de funcionarios docentes a los que se aspira, los órganos de selección harán pública la relación de aspirantes seleccionados que han superado las fases de oposición y concurso por orden de puntuación y, en su caso, por turno, no pudiendo superar éstos el número de plazas convocadas y elevarán dicha relación al órgano convocante, de acuerdo con lo dispuesto en el artículo 18.5 de la [Ley 30/1984](../01_marco_normativo_general_y_organico/L30_1984_medidas_reforma_funcion_publica.md), de 2 de agosto, de Medidas para la Reforma de la Función Pública. Las Administraciones educativas incluirán en sus convocatorias la fijación de un plazo para la reclamación de los posibles errores.
 
 CAPÍTULO V
 
@@ -557,7 +557,7 @@ Del acceso de los funcionarios de los cuerpos docentes a otros cuerpos docentes 
 
 #### Artículo 33. Ámbito de aplicación.
 
-El presente capítulo será de aplicación a los procedimientos de acceso a los cuerpos de funcionarios docentes a que se refiere el apartado 3. de la disposición adicional duodécima de la Ley Orgánica 2/2006, de 3 de mayo, de Educación.
+El presente capítulo será de aplicación a los procedimientos de acceso a los cuerpos de funcionarios docentes a que se refiere el apartado 3. de la disposición adicional duodécima de la [Ley Orgánica 2/2006](../01_marco_normativo_general_y_organico/LO2_2006_educacion_texto_consolidado_modificaciones_lomloe.md), de 3 de mayo, de Educación.
 
 #### Artículo 34. Reserva de plazas.
 
@@ -609,7 +609,7 @@ Del acceso a los Cuerpos de Catedráticos de Enseñanza Secundaria, de Música y
 
 #### Artículo 37. Ámbito de aplicación.
 
-El presente capítulo será de aplicación a los procedimientos de acceso a los cuerpos de funcionarios docentes a que se refieren los apartados 1, 2, 3 y 4 de la disposición adicional décima, así como el apartado 2 de la disposición adicional duodécima de la Ley Orgánica 2/2006, de 3 de mayo, de Educación.
+El presente capítulo será de aplicación a los procedimientos de acceso a los cuerpos de funcionarios docentes a que se refieren los apartados 1, 2, 3 y 4 de la disposición adicional décima, así como el apartado 2 de la disposición adicional duodécima de la [Ley Orgánica 2/2006](../01_marco_normativo_general_y_organico/LO2_2006_educacion_texto_consolidado_modificaciones_lomloe.md), de 3 de mayo, de Educación.
 
 A estos efectos y de conformidad con lo dispuesto en el último párrafo del apartado 2 de la disposición adicional duodécima de la Ley, deberá tenerse en cuenta que el número de funcionarios de los cuerpos de catedráticos, a excepción del Cuerpo de Catedráticos de Música y Artes Escénicas, no superará, en cada caso, el 30 por 100 del número total de funcionarios de cada cuerpo de origen.
 
@@ -651,7 +651,7 @@ Del acceso al Cuerpo de Inspectores de Educación
 
 #### Artículo 40. Ámbito de aplicación.
 
-El presente capítulo será de aplicación a los procedimientos de acceso al cuerpo de funcionarios docentes a que se refieren los apartados 5 de la disposición adicional décima y 4 de la disposición adicional duodécima de la Ley Orgánica 2/2006, de 3 de mayo, de Educación.
+El presente capítulo será de aplicación a los procedimientos de acceso al cuerpo de funcionarios docentes a que se refieren los apartados 5 de la disposición adicional décima y 4 de la disposición adicional duodécima de la [Ley Orgánica 2/2006](../01_marco_normativo_general_y_organico/LO2_2006_educacion_texto_consolidado_modificaciones_lomloe.md), de 3 de mayo, de Educación.
 
 #### Artículo 41. Requisitos de los participantes.
 
@@ -669,7 +669,7 @@ d) Acreditar, en su caso, el conocimiento de la lengua cooficial de la Comunidad
 
 1. El sistema de selección debe permitir evaluar la cualificación de los aspirantes para el ejercicio de la función inspectora que van a realizar, así como los conocimientos y técnicas específicas para el desempeño de la misma.
 
-2. De conformidad con lo establecido en el apartado 4 de la disposición adicional duodécima de la Ley Orgánica 2/2006, de 3 de mayo, de Educación, el sistema de acceso al Cuerpo de Inspectores de Educación será el de concurso-oposición. Asimismo existirá una fase de prácticas que formará parte del proceso selectivo.
+2. De conformidad con lo establecido en el apartado 4 de la disposición adicional duodécima de la [Ley Orgánica 2/2006](../01_marco_normativo_general_y_organico/LO2_2006_educacion_texto_consolidado_modificaciones_lomloe.md), de 3 de mayo, de Educación, el sistema de acceso al Cuerpo de Inspectores de Educación será el de concurso-oposición. Asimismo existirá una fase de prácticas que formará parte del proceso selectivo.
 
 3. De conformidad, asimismo, con lo dispuesto en la citada disposición y apartado, en las convocatorias de acceso a este cuerpo, las Administraciones educativas podrán reservar hasta un tercio de las plazas que se convoquen para la provisión mediante concurso de méritos destinado a los profesores que, reuniendo los requisitos generales, hayan ejercido con evaluación positiva, al menos durante tres mandatos, el cargo de director.
 
@@ -739,11 +739,11 @@ Del acceso de funcionarios docentes a otros cuerpos del mismo grupo y nivel de c
 
 #### Artículo 49. Ámbito de aplicación.
 
-El presente capítulo será de aplicación a los procedimientos de acceso entre los cuerpos de funcionarios docentes a que se refiere el apartado 5 de la disposición adicional duodécima de la Ley Orgánica 2/2006, de 3 de mayo, de Educación.
+El presente capítulo será de aplicación a los procedimientos de acceso entre los cuerpos de funcionarios docentes a que se refiere el apartado 5 de la disposición adicional duodécima de la [Ley Orgánica 2/2006](../01_marco_normativo_general_y_organico/LO2_2006_educacion_texto_consolidado_modificaciones_lomloe.md), de 3 de mayo, de Educación.
 
 #### Artículo 50. Requisitos de los participantes.
 
-Los funcionarios de carrera de los cuerpos docentes a que se refiere la Ley Orgánica 2/2006, de 3 de mayo, de Educación, podrán acceder a otros cuerpos de funcionarios docentes del mismo grupo y nivel de complemento de destino mediante su participación en los procedimientos que se regulan en este capítulo, sin limitación de antigüedad.
+Los funcionarios de carrera de los cuerpos docentes a que se refiere la [Ley Orgánica 2/2006](../01_marco_normativo_general_y_organico/LO2_2006_educacion_texto_consolidado_modificaciones_lomloe.md), de 3 de mayo, de Educación, podrán acceder a otros cuerpos de funcionarios docentes del mismo grupo y nivel de complemento de destino mediante su participación en los procedimientos que se regulan en este capítulo, sin limitación de antigüedad.
 
 A estos efectos deberán estar en posesión de las titulaciones que para el ingreso en los distintos cuerpos se establecen en el artículo 13 de este Reglamento, así como acreditar, en su caso, el conocimiento de la lengua cooficial de la Comunidad Autónoma convocante, de acuerdo con su normativa.
 
@@ -827,7 +827,7 @@ Para aquellas especialidades en que así se determine, la prueba podrá incorpor
 
 ## TÍTULO VI
 
-**Del procedimiento de ingreso a que se refiere la disposición transitoria decimoséptima de la Ley Orgánica 2/2006, de 3 de mayo, de Educación**
+**Del procedimiento de ingreso a que se refiere la disposición transitoria decimoséptima de la [Ley Orgánica 2/2006](../01_marco_normativo_general_y_organico/LO2_2006_educacion_texto_consolidado_modificaciones_lomloe.md), de 3 de mayo, de Educación**
 
 CAPÍTULO I
 
@@ -835,7 +835,7 @@ Normas generales
 
 #### Artículo 56. Ámbito de aplicación y principios rectores del procedimiento.
 
-1. El presente título será de aplicación al procedimiento selectivo de ingreso a que se refiere la disposición transitoria decimoséptima de la Ley Orgánica 2/2006, de 3 de mayo, de Educación.
+1. El presente título será de aplicación al procedimiento selectivo de ingreso a que se refiere la disposición transitoria decimoséptima de la [Ley Orgánica 2/2006](../01_marco_normativo_general_y_organico/LO2_2006_educacion_texto_consolidado_modificaciones_lomloe.md), de 3 de mayo, de Educación.
 
 2. Al presente procedimiento le serán de aplicación todas las normas reguladas en el Título II de este Reglamento.
 
@@ -845,7 +845,7 @@ Quienes aspiren a participar en los procedimientos selectivos regulados en este 
 
 #### Artículo 58. Sistema selectivo.
 
-Durante los años de implantación de la Ley Orgánica 2/2006, de 3 de mayo, de Educación, que conforme a la disposición adicional primera será de cinco años, el ingreso a la función publica docente se realizará mediante un procedimiento selectivo en el que, en la fase de concurso se valorarán la formación académica y, de forma preferente, la experiencia docente previa en los centros públicos de la misma etapa educativa, hasta los límites legales permitidos. La fase de oposición, que tendrá una sola prueba, versará sobre los contenidos de la especialidad que corresponda, la aptitud pedagógica y el dominio de las técnicas necesarias para el ejercicio de la docencia.
+Durante los años de implantación de la [Ley Orgánica 2/2006](../01_marco_normativo_general_y_organico/LO2_2006_educacion_texto_consolidado_modificaciones_lomloe.md), de 3 de mayo, de Educación, que conforme a la disposición adicional primera será de cinco años, el ingreso a la función publica docente se realizará mediante un procedimiento selectivo en el que, en la fase de concurso se valorarán la formación académica y, de forma preferente, la experiencia docente previa en los centros públicos de la misma etapa educativa, hasta los límites legales permitidos. La fase de oposición, que tendrá una sola prueba, versará sobre los contenidos de la especialidad que corresponda, la aptitud pedagógica y el dominio de las técnicas necesarias para el ejercicio de la docencia.
 
 CAPÍTULO II
 
@@ -945,15 +945,15 @@ A los efectos de este artículo será de aplicación lo dispuesto en el artícul
 
 5. Para el ingreso en el Cuerpo de Maestros de Taller de Artes Plásticas y Diseño, para las especialidades que se detallan en el Anexo IX al presente Reglamento, podrán ser admitidos quienes, aun careciendo de la titulación exigida con carácter general, estén en posesión de alguna de las titulaciones que, para cada una de ellas, se relacionan, asimismo, en el citado Anexo IX.
 
-6. Para el ingreso en el Cuerpo de Profesores Técnicos de Formación Profesional y únicamente en aquellos casos en que las Administraciones educativas no hayan llevado a término las cuatro primeras convocatorias de cada especialidad a que se refería la disposición transitoria segunda del [Real Decreto 777/1998](RD777_1998_desarrollan_determinados_aspectos_ordenacion_formacion_profesional.md), de 30 de abril, en su nueva redacción dada por el Real Decreto 334/2004, de 27 de febrero, podrán ser admitidos aquellos aspirantes que, aun careciendo de la titulación exigida con carácter general, acrediten experiencia docente de, al menos, dos años en centros educativos públicos dependientes de la Administración educativa convocante y estén en posesión de las titulaciones de Técnico Especialista o Técnico Superior en una especialidad de formación profesional que pertenezca a la familia profesional correspondiente y además para las especialidades de la familia profesional de Actividades Marítimo Pesqueras las de Patrón de Altura o Patrón Mayor de Cabotaje, entendiendo que el plazo de efectividad de las cuatro convocatorias se circunscribe a la fecha de entrada en vigor del anteriormente citado Real Decreto 777/1998, de 30 de abril.
+6. Para el ingreso en el Cuerpo de Profesores Técnicos de Formación Profesional y únicamente en aquellos casos en que las Administraciones educativas no hayan llevado a término las cuatro primeras convocatorias de cada especialidad a que se refería la disposición transitoria segunda del [Real Decreto 777/1998](RD777_1998_desarrollan_determinados_aspectos_ordenacion_formacion_profesional.md), de 30 de abril, en su nueva redacción dada por el Real Decreto 334/2004, de 27 de febrero, podrán ser admitidos aquellos aspirantes que, aun careciendo de la titulación exigida con carácter general, acrediten experiencia docente de, al menos, dos años en centros educativos públicos dependientes de la Administración educativa convocante y estén en posesión de las titulaciones de Técnico Especialista o Técnico Superior en una especialidad de formación profesional que pertenezca a la familia profesional correspondiente y además para las especialidades de la familia profesional de Actividades Marítimo Pesqueras las de Patrón de Altura o Patrón Mayor de Cabotaje, entendiendo que el plazo de efectividad de las cuatro convocatorias se circunscribe a la fecha de entrada en vigor del anteriormente citado [Real Decreto 777/1998](./RD777_1998_desarrollan_determinados_aspectos_ordenacion_formacion_profesional.md), de 30 de abril.
 
-#### Disposición transitoria única. Exigencia de la formación pedagógica y didáctica a que se refiere el artículo 100.2 de la Ley Orgánica 2/2006, de 3 de mayo, de Educación.
+#### Disposición transitoria única. Exigencia de la formación pedagógica y didáctica a que se refiere el artículo 100.2 de la [Ley Orgánica 2/2006](../01_marco_normativo_general_y_organico/LO2_2006_educacion_texto_consolidado_modificaciones_lomloe.md), de 3 de mayo, de Educación.
 
-1. Los títulos Profesionales de Especialización Didáctica y el Certificado de Cualificación Pedagógica, que a la entrada en vigor de la Ley Orgánica 2/2006, de 3 de mayo, de Educación, hubieran organizado las universidades al amparo de lo establecido en la [Ley Orgánica 1/1990](../02_gestion_y_administracion_centros/LO1_1990_regula_regimen_equivalencias_estudios_basicos_medios.md), de 3 de octubre, de Ordenación General del Sistema Educativo, el Certificado de Aptitud Pedagógica y otras certificaciones que el Gobierno pueda establecer, serán equivalentes a la formación establecida en el artículo 100.2 de la misma, hasta tanto se regule para cada enseñanza. Estarán exceptuados de la exigencia de este título los maestros y los licenciados en pedagogía y psicopedagogía y quienes estén en posesión de licenciatura o titulación equivalente que incluya formación pedagógica y didáctica.
+1. Los títulos Profesionales de Especialización Didáctica y el Certificado de Cualificación Pedagógica, que a la entrada en vigor de la [Ley Orgánica 2/2006](../01_marco_normativo_general_y_organico/LO2_2006_educacion_texto_consolidado_modificaciones_lomloe.md), de 3 de mayo, de Educación, hubieran organizado las universidades al amparo de lo establecido en la [Ley Orgánica 1/1990](../02_gestion_y_administracion_centros/LO1_1990_regula_regimen_equivalencias_estudios_basicos_medios.md), de 3 de octubre, de Ordenación General del Sistema Educativo, el Certificado de Aptitud Pedagógica y otras certificaciones que el Gobierno pueda establecer, serán equivalentes a la formación establecida en el artículo 100.2 de la misma, hasta tanto se regule para cada enseñanza. Estarán exceptuados de la exigencia de este título los maestros y los licenciados en pedagogía y psicopedagogía y quienes estén en posesión de licenciatura o titulación equivalente que incluya formación pedagógica y didáctica.
 
-2. La acreditación de una experiencia docente previa durante dos cursos académicos completos o, en su defecto, durante 12 meses ejercidos en periodos discontinuos, en centros públicos o privados de enseñanza reglada debidamente autorizados, será igualmente reconocida como equivalente a la formación establecida en el artículo 100.2 de la Ley Orgánica 2/2006, de 3 de mayo, hasta tanto no se regule para cada enseñanza.
+2. La acreditación de una experiencia docente previa durante dos cursos académicos completos o, en su defecto, durante 12 meses ejercidos en periodos discontinuos, en centros públicos o privados de enseñanza reglada debidamente autorizados, será igualmente reconocida como equivalente a la formación establecida en el artículo 100.2 de la [Ley Orgánica 2/2006](../01_marco_normativo_general_y_organico/LO2_2006_educacion_texto_consolidado_modificaciones_lomloe.md), de 3 de mayo, hasta tanto no se regule para cada enseñanza.
 
-3. Asimismo, en tanto no se regule para cada enseñanza la formación establecida en el artículo 100.2 de la Ley Orgánica 2/2006, de 3 de mayo, de Educación, queda diferida la exigencia de esta formación a los aspirantes a ingreso en las especialidades de Tecnología, de Psicología y Pedagogía y las correspondientes a las distintas enseñanzas de Formación Profesional de los Cuerpos de Profesores de Enseñanza Secundaria y de Profesores Técnicos de Formación Profesional, así como para el ingreso en los Cuerpos de Profesores de Música y Artes Escénicas, Profesores y Maestros de Taller de Artes Plásticas y Diseño y Profesores de Escuelas Oficiales de Idiomas.
+3. Asimismo, en tanto no se regule para cada enseñanza la formación establecida en el artículo 100.2 de la [Ley Orgánica 2/2006](../01_marco_normativo_general_y_organico/LO2_2006_educacion_texto_consolidado_modificaciones_lomloe.md), de 3 de mayo, de Educación, queda diferida la exigencia de esta formación a los aspirantes a ingreso en las especialidades de Tecnología, de Psicología y Pedagogía y las correspondientes a las distintas enseñanzas de Formación Profesional de los Cuerpos de Profesores de Enseñanza Secundaria y de Profesores Técnicos de Formación Profesional, así como para el ingreso en los Cuerpos de Profesores de Música y Artes Escénicas, Profesores y Maestros de Taller de Artes Plásticas y Diseño y Profesores de Escuelas Oficiales de Idiomas.
 
 4. Las Administraciones educativas podrán seguir organizando las enseñanzas conducentes al Certificado de Aptitud Pedagógica, que será equivalente a la formación pedagógica establecida en el citado artículo 100.2, hasta tanto se regule para cada enseñanza.
 
@@ -985,7 +985,7 @@ I. Experiencia docente previa
 
 1.4 Por cada año de experiencia docente en especialidades de distinto nivel o etapa educativa que el impartido por el cuerpo al que opta el aspirante, en otros centros: 0,250 puntos.
 
-Se entiende por centros públicos los centros a los que se refiere el Capítulo II del Título IV de la Ley Orgánica 2/2006, de 3 de mayo, de Educación, integrados en la red pública de centros creados y sostenidos por las Administraciones educativas.
+Se entiende por centros públicos los centros a los que se refiere el Capítulo II del Título IV de la [Ley Orgánica 2/2006](../01_marco_normativo_general_y_organico/LO2_2006_educacion_texto_consolidado_modificaciones_lomloe.md), de 3 de mayo, de Educación, integrados en la red pública de centros creados y sostenidos por las Administraciones educativas.
 
 A los efectos de este apartado se tendrá en cuenta un máximo de cinco años, cada uno de los cuales deberá ser valorado en uno solo de los subapartados anteriores.
 
@@ -1177,7 +1177,7 @@ I. Experiencia docente previa
 
 1.4 Por cada año de experiencia docente en especialidades de distinto nivel educativo que el impartido por el cuerpo al que opta el aspirante, en otros centros: 0,100 puntos.
 
-Se entiende por centros públicos los centros a los que se refiere el Capítulo II del Título IV de la Ley Orgánica 2/2006, de 3 de mayo, de Educación, integrados en la red pública de centros creados y sostenidos por las Administraciones educativas.
+Se entiende por centros públicos los centros a los que se refiere el Capítulo II del Título IV de la [Ley Orgánica 2/2006](../01_marco_normativo_general_y_organico/LO2_2006_educacion_texto_consolidado_modificaciones_lomloe.md), de 3 de mayo, de Educación, integrados en la red pública de centros creados y sostenidos por las Administraciones educativas.
 
 Las convocatorias establecerán la puntuación correspondiente a cada mes/fracción de año de manera proporcional a la valoración total asignada a cada subapartado.
 

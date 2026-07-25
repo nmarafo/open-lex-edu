@@ -91,7 +91,7 @@ b) Lo que se considerará uso indebido.
 c) La responsabilidad del personal con respecto al cumplimiento o violación de estas 
 normas.
 La entrada en vigor de la [Ley 39/2015](../../../estatal/01_marco_normativo_general_y_organico/L39_2015_procedimiento_administrativo_comun_administraciones_publicas.md), de 1 de octubre, del Procedimiento Administrativo 
-Común de las Administraciones Públicas, así como de la Ley 40/2015, de 1 de octubre, de 
+Común de las Administraciones Públicas, así como de la [Ley 40/2015](../../../estatal/01_marco_normativo_general_y_organico/L40_2015_regimen_juridico_sector_publico.md), de 1 de octubre, de 
 Régimen Jurídico del Sector Público, plantean un entorno de trabajo en el cual la tramitación 
 
 Martes 3 de julio de 2018
