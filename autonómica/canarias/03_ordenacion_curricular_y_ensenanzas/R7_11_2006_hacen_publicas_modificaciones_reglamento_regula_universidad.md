@@ -37,6 +37,7 @@ fuente_juriscan: http://www.gobiernodecanarias.org/juriscan/ficha.jsp?id=55445
 
 
 
+
 # Resolución de 7 de noviembre de 2006, por la que se hacen públicas las modificaciones al Reglamento que regula en la Universidad de Las Palmas de Gran Canaria el Acceso para mayores de 25 años (BOC n.º 226, de 21 de noviembre).
 
 d) La Directora del Servicio de Patrimonio y Con-

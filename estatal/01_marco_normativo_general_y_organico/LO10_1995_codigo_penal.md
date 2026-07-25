@@ -43,6 +43,7 @@ fundamentos_derecho:
 
 
 
+
 # Ley Orgánica 10/1995, de 23 de noviembre, del Código Penal.
 
 **JUAN CARLOS I**

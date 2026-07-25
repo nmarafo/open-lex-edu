@@ -42,6 +42,7 @@ fundamentos_derecho:
 
 
 
+
 # Real Decreto 365/1995, de 10 de marzo, por el que se aprueba el Reglamento de Situaciones Administrativas de los Funcionarios Civiles de la Administración General del Estado.
 
 La importancia de las modificaciones en materia de situaciones administrativas de los funcionarios llevadas a cabo por la Ley 22/1993, de 29 de diciembre, de Medidas Fiscales, de Reforma del Régimen Jurídico de la Función Pública y de la Protección por Desempleo, determina la necesidad de actualizar las normas reglamentarias dictadas al efecto en desarrollo de la [Ley 30/1984](L30_1984_medidas_reforma_funcion_publica.md), de 2 de agosto, de Medidas para la Reforma de la Función Pública, contenidas en el Reglamento aprobado por Real Decreto 730/1986, de 11 de abril, incorporando, al propio tiempo, las innovaciones que en esta materia introdujo la Ley 3/1989, de 3 de marzo, de ampliación del permiso por maternidad y medidas para favorecer la igualdad de trato de la mujer en el trabajo, así como las que traen causa de otras normas de modificación del régimen jurídico de la Función Pública, que tienen reflejo directo sobre el Reglamento aludido.

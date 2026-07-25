@@ -62,6 +62,7 @@ fuente_pdf_oficial: https://sede.gobiernodecanarias.org/boc/boc-a-2022-018-273.p
 
 
 
+
 # Decreto 9/2022, de 20 de enero, por el que se regula la admisión del alumnado en los centros docentes públicos y privados concertados que imparten enseñanzas no universitarias en la Comunidad Autónoma de Canarias.
 
 II. Autoridades y personal

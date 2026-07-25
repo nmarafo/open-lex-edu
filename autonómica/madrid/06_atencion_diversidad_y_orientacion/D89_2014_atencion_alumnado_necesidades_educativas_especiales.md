@@ -32,6 +32,7 @@ fundamentos_derecho:
 - norma_id: norm-es-lo-2-2006
 ---
 
+
 # Decreto 89/2014, de 24 de julio, del Consejo de Gobierno, por el que se establece la ordenación e impartición de la educación para alumnos con necesidades educativas especiales en la Comunidad de Madrid.
 
 ## Preámbulo

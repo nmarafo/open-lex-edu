@@ -56,6 +56,7 @@ fundamentos_derecho:
 
 
 
+
 # Real Decreto 596/2007, de 4 de mayo, por el que se establece la ordenación general de las enseñanzas profesionales de artes plásticas y diseño.
 
 La [Ley Orgánica 2/2006](../01_marco_normativo_general_y_organico/LO2_2006_educacion_texto_consolidado_modificaciones_lomloe.md), de 3 de mayo, de Educación, incluye las enseñanzas profesionales de artes plásticas y diseño en su capítulo VI sobre enseñanzas artísticas, y las organiza en ciclos de formación específica cuya finalidad es proporcionar al alumnado una formación artística de calidad y garantizar la cualificación de los futuros profesionales de las artes plásticas y el diseño.

@@ -41,6 +41,7 @@ fuente_juriscan: http://www.gobiernodecanarias.org/juriscan/ficha.jsp?id=61148
 
 
 
+
 # Dirección General de Formación Profesional y Educación de Adultos.- Resolución de 23 de marzo de 2009, por la que se determinan las zonas de actuación de la red pública de Centros de Educación de Personas Adultas de la Comunidad Autónoma de Canarias (BOC n.º 82, de 30 de abril).
 
 654

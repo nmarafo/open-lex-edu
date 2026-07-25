@@ -37,6 +37,7 @@ fuente_juriscan: http://www.gobiernodecanarias.org/juriscan/ficha.jsp?id=64885
 
 
 
+
 # Resolución de 28 de febrero de 2011, de la Dirección General de Telecomunicaciones y Nuevas Tecnologías de la Consejería de Presidencia, Justicia y Seguridad, por la que se actualiza la dirección electrónica de acceso al Registro General Electrónico de la Administración Pública de la Comunidad Autónoma de Canarias (BOC n.º 49, de 8 de marzo).
 
 Consejería de Presidencia, 

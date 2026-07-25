@@ -48,6 +48,7 @@ fundamentos_derecho:
 
 
 
+
 # Orden EDU/2886/2011, de 20 de octubre, por la que se regula la convocatoria, reconocimiento, certificación y registro de las actividades de formación permanente del profesorado.
 
 La [Ley Orgánica 2/2006](../01_marco_normativo_general_y_organico/LO2_2006_educacion_texto_consolidado_modificaciones_lomloe.md), de 3 de mayo, de Educación, en su título preliminar, destaca entre los factores que favorecen la calidad de la enseñanza, y a los cuales se prestará una atención prioritaria, la cualificación y formación del profesorado, la investigación, la experimentación y la renovación educativa.

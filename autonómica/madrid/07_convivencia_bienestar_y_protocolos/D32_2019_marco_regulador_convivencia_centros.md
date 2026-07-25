@@ -26,9 +26,12 @@ tags:
 relaciones:
   desarrolla:
   - norma_id: norm-es-lo-2-2006
+  desarrollado_por:
+  - norma_id: norm-mad-o-2767-2023
 fundamentos_derecho:
 - norma_id: norm-es-lo-2-2006
 ---
+
 
 
 

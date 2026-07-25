@@ -56,6 +56,7 @@ fuente_pdf_oficial: https://sede.gobiernodecanarias.org/boc/boc-a-2026-109-1901.
 
 
 
+
 # Resolución de 26 de mayo de 2026
 
 III. Otras Resoluciones

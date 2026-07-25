@@ -60,6 +60,7 @@ anexos_extraidos_pdf: true
 
 
 
+
 # Orden de 7 de junio de 2007, por la que se regulan las medidas de atención a la diversidad en la enseñanza básica en la Comunidad Autónoma de Canarias.
 
 I. Disposiciones generales

@@ -65,6 +65,7 @@ fundamentos_derecho:
 
 
 
+
 # Real Decreto 1364/2010 - Concurso de Traslados Estatal Docente
 
 La [Ley Orgánica 2/2006](../01_marco_normativo_general_y_organico/LO2_2006_educacion_texto_consolidado_modificaciones_lomloe.md), de 3 de mayo, de Educación, tiene como objetivo esencial la exigencia de proporcionar una educación de calidad para todos y entre todos. Según se señala en su preámbulo, uno de sus principios orientadores se refiere a la necesidad de que todos los componentes de la comunidad educativa colaboren para conseguir ese objetivo, indicando expresamente que las políticas dirigidas al profesorado constituyen uno de los elementos más valiosos y decisivos a la hora de lograr la eficacia y la eficiencia de los sistemas de educación y de formación.

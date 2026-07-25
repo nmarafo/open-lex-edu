@@ -50,6 +50,7 @@ fundamentos_derecho:
 
 
 
+
 # Decreto 52/2009, de 12 de mayo, por el que se aprueba el Reglamento de Ordenación de la Inspección de Educación de la Comunidad Autónoma de Canarias.
 
 Gobierno de Canarias

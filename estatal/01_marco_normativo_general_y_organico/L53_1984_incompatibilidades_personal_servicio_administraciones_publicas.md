@@ -48,6 +48,7 @@ fundamentos_derecho:
 
 
 
+
 # Ley 53/1984 de Incompatibilidades del Personal al Servicio de las Administraciones Públicas
 
 **JUAN CARLOS I,**

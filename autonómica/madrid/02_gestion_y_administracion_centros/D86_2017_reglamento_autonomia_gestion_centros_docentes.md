@@ -27,9 +27,12 @@ tags:
 relaciones:
   desarrolla:
   - norma_id: norm-es-lo-2-2006
+  desarrollado_por:
+  - norma_id: norm-mad-r-15-3-2022
 fundamentos_derecho:
 - norma_id: norm-es-lo-2-2006
 ---
+
 
 
 # Decreto 86/2017, de 17 de octubre, del Consejo de Gobierno, por el que se regula el modelo de autonomía de gestión de los centros docentes públicos no universitarios de la Comunidad de Madrid.

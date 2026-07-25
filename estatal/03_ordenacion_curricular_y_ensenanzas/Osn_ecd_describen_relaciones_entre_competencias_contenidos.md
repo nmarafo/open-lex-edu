@@ -47,6 +47,7 @@ fundamentos_derecho:
 
 
 
+
 # Orden ECD/65/2015, de 21 de enero, por la que se describen las relaciones entre las competencias, los contenidos y los criterios de evaluación de la educación primaria, la educación secundaria obligatoria y el bachillerato.
 
 Las orientaciones de la Unión Europea insisten en la necesidad de la adquisición de las competencias clave por parte de la ciudadanía como condición indispensable para lograr que los individuos alcancen un pleno desarrollo personal, social y profesional que se ajuste a las demandas de un mundo globalizado y haga posible el desarrollo económico, vinculado al conocimiento. Así se establece, desde el Consejo Europeo de Lisboa en el año 2000 hasta las Conclusiones del Consejo de 2009 sobre el Marco Estratégico para la cooperación europea en el ámbito de la educación y la formación («ET 2020»).

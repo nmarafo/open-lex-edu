@@ -55,6 +55,7 @@ fundamentos_derecho:
 
 
 
+
 # Orden de 30 de abril de 1996 por la que se adecuan a la nueva ordenación educativa determinados criterios en materia de homologación y convalidación de títulos y estudios extranjeros de niveles no universitarios y se fija el régimen de equivalencias con los correspondientes españoles.
 
 En el actual curso académico se han implantado con carácter general la totalidad de los estudios de Enseñanza Primaria. Está prevista la implantación de la Enseñanza Secundaria Obligatoria a partir del curso académico 1996/1997 y la de Bachillerato a partir del curso académico 1998/1999. Es preciso, pues, adecuar al sistema educativo vigente los criterios aplicables a la homologación y convalidación de títulos y estudios extranjeros de los niveles no universitarios.

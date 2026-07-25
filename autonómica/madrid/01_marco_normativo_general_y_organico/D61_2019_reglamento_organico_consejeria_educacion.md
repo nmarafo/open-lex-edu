@@ -31,11 +31,14 @@ tags:
 - marco-normativo-general
 - ordenacion-escolar
 relaciones:
+  desarrollado_por:
+  - norma_id: norm-mad-o-20-1-2021
   fundamentado_en:
   - norma_id: norm-es-l-40-2015
 fundamentos_derecho:
 - norma_id: norm-es-l-40-2015
 ---
+
 
 
 

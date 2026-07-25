@@ -47,6 +47,7 @@ fundamentos_derecho:
 
 
 
+
 # Resolución de 24 de julio de 2025, de la Secretaría de Estado de Educación, por la que se dictan instrucciones relativas al programa de doble titulación Bachiller-Baccalauréat correspondientes al curso 2025-2026.
 
 El [Real Decreto 102/2010](RD102_2010_regula_ordenacion_ensenanzas_acogidas_acuerdo_entre.md), de 5 de febrero, por el que se regula la ordenación de las enseñanzas acogidas al acuerdo entre el Gobierno de España y el Gobierno de Francia relativo a la doble titulación de Bachiller y de Baccalauréat en centros docentes españoles, establece las enseñanzas conducentes a la obtención de la doble titulación de Bachiller, del sistema educativo español, y de Baccalauréat, del sistema educativo francés, impartidas en centros docentes españoles, en virtud del Acuerdo Marco firmado con fecha 16 de mayo de 2005 entre el Gobierno del Reino de España y el Gobierno de la República Francesa, relativo a programas educativos, lingüísticos y culturales en centros escolares de los dos Estados, desarrollado por el Acuerdo de doble titulación firmado en París el 10 de enero de 2008 entre el Gobierno del Reino de España y el Gobierno de la República Francesa.
