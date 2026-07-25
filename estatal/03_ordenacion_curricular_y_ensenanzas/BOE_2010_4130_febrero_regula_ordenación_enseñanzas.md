@@ -51,21 +51,17 @@ En la elaboración del presente real decreto han sido consultadas las comunidade
 
 En su virtud y a propuesta del Ministro de Educación, de acuerdo con el Consejo de Estado y previa deliberación del Consejo de Ministros en su reunión del día 5 de febrero de 2010,
 
-
 **DISPONGO:**
-
 
 #### Artículo 1. Objeto.
 
 Este real decreto tiene por objeto regular las enseñanzas conducentes a la obtención de la doble titulación de Bachiller del sistema educativo español y de Baccalauréat del sistema educativo francés impartidas en centros docentes españoles, en virtud del Acuerdo Marco firmado con fecha 16 de mayo de 2005 entre el Gobierno del Reino de España y el Gobierno de la República Francesa, relativo a programas educativos, lingüísticos y culturales en centros escolares de los dos Estados, desarrollado por el Acuerdo de doble titulación firmado en París el 10 de enero de 2008 entre el Gobierno del Reino de España y el Gobierno de la República Francesa.
-
 
 #### Artículo 2. Currículo mixto.
 
 1. Los centros escolares españoles que deseen ofrecer las enseñanzas conducentes a la doble titulación de Bachiller y Baccalauréat deberán implantar un currículo mixto integrador de los contenidos esenciales para el conocimiento de la realidad histórica, social y política de Francia, así como los métodos pedagógicos y los criterios de evaluación acordados por las Partes.
 
 2. El alumnado acogido a este programa deberá recibir, al menos, un tercio del horario lectivo en lengua francesa en el conjunto del Bachillerato.
-
 
 #### Artículo 3. Componentes del currículo mixto.
 
@@ -79,7 +75,6 @@ Este real decreto tiene por objeto regular las enseñanzas conducentes a la obte
 
 5. El currículo mixto respetará en todo caso la proporcionalidad que corresponda a las enseñanzas comunes o mínimas establecidas con carácter estatal.
 
-
 #### Artículo 4. Enseñanzas de las materias especificas.
 
 1. En los centros a los que se refiere este real decreto y en las etapas afectadas se impartirá íntegramente en lengua francesa, al menos, las materias específicas del currículo mixto, cuyo contenido será objeto de acuerdo entre las Partes y estará incluido en la prueba específica en los términos establecidos en el artículo 7.
@@ -88,20 +83,17 @@ Este real decreto tiene por objeto regular las enseñanzas conducentes a la obte
 
 3. Podrán ser admitidos en este programa los alumnos y alumnas que hayan cursado la Educación secundaria obligatoria en una sección bilingüe hispano-francesa, los que hayan efectuado toda o parte de su escolaridad obligatoria en el sistema educativo de un país de lengua francesa, así como los que puedan acreditar un nivel equivalente al B1 del Marco común europeo de referencia para las lenguas, en el uso de la lengua francesa al comienzo del Bachillerato.
 
-
 #### Artículo 5. Formación del profesorado.
 
 1. El Ministerio de Educación, en colaboración con las comunidades autónomas, planificará las actividades de formación inicial y permanente del profesorado implicado en este currículo mixto, y establecerá las medidas oportunas para estimular la participación en ellas y para favorecer la movilidad internacional de estos docentes.
 
 2. De conformidad con el artículo 6 del Acuerdo de Doble Titulación, podrá establecerse un sistema de colaboración entre las Partes para la formación del profesorado implicado en este programa que podrá incluir la acogida de profesores nativos de ambos países.
 
-
 #### Artículo 6. Centros escolares.
 
 1. Los centros escolares que impartan este currículo mixto serán seleccionados por las Administraciones educativas correspondientes. Las Administraciones educativas comunicarán la relación de centros autorizados al Ministerio de Educación, que dará cuenta de dicha relación a la parte francesa.
 
 2. Las Administraciones educativas promoverán la organización de proyectos educativos comunes y de intercambios entre centros de ambos países, con el fin de favorecer los aprendizajes y afianzar la cooperación intercultural hispano-francesa.
-
 
 #### Artículo 7. Evaluación y calificación.
 
@@ -110,7 +102,6 @@ Este real decreto tiene por objeto regular las enseñanzas conducentes a la obte
 2. Los exámenes de las materias específicas del currículo mixto se realizarán íntegramente en lengua francesa, podrán ser escritos y/u orales y serán evaluados por examinadores españoles y franceses.
 
 3. Las materias específicas representarán, como máximo, un cuarenta por ciento del total de la evaluación final de la calificación del Baccalauréat.
-
 
 #### Artículo 8. Titulación.
 
@@ -124,37 +115,29 @@ Este real decreto tiene por objeto regular las enseñanzas conducentes a la obte
 
 5. Estos dos títulos otorgarán al alumnado que los obtenga el derecho a acceder a la enseñanza superior española y a la enseñanza superior francesa de conformidad con lo establecido en el artículo 1 del Acuerdo de Doble Titulación.
 
-
 #### Artículo 9. Supervisión del Acuerdo de Doble Titulación.
 
 1. La Comisión de seguimiento, prevista en el artículo 7 del Acuerdo de Doble Titulación, regulará y velará por el buen funcionamiento del mismo.
 
 2. La Comisión de seguimiento creará una Comisión técnica formada por tres representantes del Ministerio de Educación, y tres representantes de las comunidades autónomas, cuyos centros impartan el currículo mixto, que resolverá las cuestiones que le sean asignadas.
 
-
 #### Artículo 10. Supervisión del Currículo Mixto.
 
 Las Administraciones educativas podrán supervisar a través de sus respectivos Servicios de Inspección el funcionamiento del currículo mixto.
-
 
 #### Disposición adicional única. Expedición del título de Bachiller al alumnado de las secciones internacionales de lengua española en centros franceses.
 
 En razón de las similitudes curriculares y organizativas del programa al que se refiere este real decreto con el de secciones internacionales de lengua española en centros franceses incluido en el mismo Acuerdo Marco entre el Gobierno del Reino de España y el Gobierno de la República Francesa de 16 de mayo de 2005, del que derivan uno y otro programa, el Ministerio de Educación de España dispondrá, en el contexto de lo dispuesto en el artículo 8.4 de este real decreto, la expedición del título español de Bachiller a los alumnos de dichas secciones internacionales que, habiendo obtenido el título francés de OIB (Option Internationale du Baccalauréat), ante tribunales con participación española, hayan superado en el marco del Baccalauréat, las pruebas de las materias específicas impartidas en las referidas secciones internacionales de lengua española.
 
-
 #### Disposición final primera. Título competencial.
 
 Este real decreto, se dicta al amparo de lo previsto en el artículo 149.1.30a de la Constitución, que reserva al Estado la competencia para la regulación de las condiciones de obtención, expedición y homologación de títulos académicos y profesionales.
-
 
 #### Disposición final segunda. Autorización para el desarrollo.
 
 Se autoriza al titular del Ministerio de Educación, para dictar, en el ámbito de sus competencias, las normas que sean precisas para la aplicación y desarrollo de lo establecido en este real decreto.
 
-
 #### Disposición final tercera. Entrada en vigor.
-
-El presente real decreto entrará en vigor el día siguiente al de su publicación en el «Boletín Oficial del Estado».
 
 Dado en Madrid, el 5 de febrero de 2010.
 

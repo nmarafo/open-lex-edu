@@ -38,13 +38,12 @@ fundamentos_derecho:
   articulos:
   - '136'
 ---
-# Ley 2/1987 de la Función Pública Canaria
 
+# Ley 2/1987 de la Función Pública Canaria
 
 **EL PRESIDENTE DEL GOBIERNO DE CANARIAS**
 
 Sea notorio a todos los ciudadanos que el Parlamento de Canarias ha aprobado y yo, en nombre del Rey, de acuerdo con lo que establece el artículo 11.7 del Estatuto de Autonomía, y ordeno la publicación de la siguiente Ley:
-
 
 ## PREÁMBULO
 
@@ -80,17 +79,13 @@ Las retribuciones del personal se ordenan con la finalidad esencial de primar ec
 
 Por último, la Ley, con sus disposiciones adicionales, transitorias y finales, instrumenta los medios oportunos para su inmediata aplicación resolviendo los conflictos que la misma podría producir con las situaciones personales constituidas al amparo de la legislación anterior.
 
-
 ## TÍTULO PRIMERO
 
-
 **Del objeto, ámbito de aplicación y principios rectores de la Ley**
-
 
 #### Artículo 1.
 
 La presente Ley tiene por objeto la regulación de la relación de servicios del personal de la Comunidad Autónoma de Canarias en el marco de la legislación básica del Estado.
-
 
 #### Art. 2.
 
@@ -102,17 +97,13 @@ La presente Ley tiene por objeto la regulación de la relación de servicios del
 
 4. Al personal al servicio de la Administración local le serán de aplicación los preceptos contenidos en esta Ley en aquellos aspectos no reservados a la legislación básica del Estado o al desarrollo reglamentario de su autonomía organizativa.
 
-
 #### Art. 3.
 
 La Función Pública de la Administración de la Comunidad Autónoma de Canarias realiza sus tareas subordinando al interés general los intereses individuales y colectivos de sus miembros, atendiendo a los principios de eficacia, profesionalidad, diligencia e imparcialidad con sometimiento pleno a la Ley y al Derecho.
 
-
 ## TÍTULO II
 
-
 **De los órganos superiores con competencia en materia de personal**
-
 
 #### Art. 4.
 
@@ -125,7 +116,6 @@ El Consejero de la Presidencia.
 El Consejero de Hacienda.
 
 La Comisión de la Función Pública Canaria.
-
 
 #### Art. 5.
 
@@ -161,7 +151,6 @@ m) Determinar los intervalos de los niveles asignados a cada Cuerpo o Escala.
 
 n) Aprobar las medidas que garanticen los servicios mínimos en caso de huelga en la Administración de la Comunidad Autónoma a propuesta de la Consejería o Consejerías afectadas.
 
-
 #### Art. 6.
 
 1. Compete al Consejero de la Presidencia el desarrollo general, la coordinación y la supervisión de la ejecución de la política de personal fijada por el Gobierno de Canarias ejerciendo la potestad reglamentaria en los supuestos de autorización del mismo.
@@ -196,13 +185,11 @@ l) Ejercer las competencias que en las normas generales se les atribuyan y las q
 
 4. Todo el personal al servicio de la Administración de la Comunidad Autónoma de Canarias dependerá orgánicamente de la Consejería de la Presidencia.
 
-
 #### Art. 7.
 
 Corresponde a los Consejeros de la Presidencia y de Hacienda proponer al Consejo de Gobierno, en el marco respectivo de la política presupuestaria, las normas y directrices a que deberán ajustarse los gastos de personal de la Administración de la Comunidad Autónoma.
 
 Cualquier medida relativa al régimen retributivo del personal será previamente informada por la Consejería de Hacienda.
-
 
 #### Art. 8.
 
@@ -258,21 +245,17 @@ e) Proponer medidas para la coordinación de los Registros de Personal de las di
 
 f) Informar al Parlamento y al Consejo Consultivo de Canarias en materia de Función Pública.
 
-
 #### Art. 9.
 
 Podrán crearse en las distintas Consejerías, organismos paritarios compuestos por representantes del personal y de la Administración, con funciones de consulta y asesoramiento en materia de sistemas de racionalización y organización del trabajo.
 
-
 ## TÍTULO III
-
 
 **Del personal al servicio de la Comunidad Autónoma de Canarias**
 
 CAPÍTULO PRIMERO
 
 Clasificación del personal
-
 
 #### Art. 10.
 
@@ -286,11 +269,9 @@ c) El personal eventual.
 
 d) El personal contratado en régimen de Derecho Laboral.
 
-
 #### Art. 11.
 
 Son funcionarios de carrera quienes en virtud de nombramiento legal y mediante su ingreso en un Cuerpo o Escala, se incorporan al servicio de la Administración Pública de la Comunidad Autónoma con carácter permanente, quedando vinculados a la misma por una relación profesional de carácter estatutario, determinada por normas de Derecho Administrativo.
-
 
 #### Art. 12.
 
@@ -298,11 +279,9 @@ Es personal eventual el que en virtud de nombramiento, y en régimen no permanen
 
 No podrán ser ocupados por personal eventual los puestos de trabajo reservados a funcionarios de carrera.
 
-
 #### Art. 13.
 
 Es personal interino el que con carácter provisional y en virtud de nombramiento legal por razones de urgente necesidad, ocupe puestos de trabajo vacantes, dotados presupuestariamente y reservados a funcionarios de carrera, en tanto no se provean con éstos en la forma establecida en esta Ley.
-
 
 #### Art. 14.
 
@@ -314,11 +293,9 @@ CAPÍTULO II
 
 Relaciones de puestos de trabajo
 
-
 #### Art. 15.
 
 El Gobierno de Canarias, a través de la aprobación de las relaciones de puestos de trabajo de cada uno de sus Departamentos, racionaliza las estructuras internas de los órganos de su Administración, fija la dimensión del personal al servicio de los mismos, determina los requisitos y méritos preferentes para ocupar cada uno de los puestos y describe y valora los cometidos que conlleva su desempeño.
-
 
 #### Art. 16.
 
@@ -344,11 +321,9 @@ CAPÍTULO III
 
 Dotaciones presupuestarias del personal
 
-
 #### Art. 17.
 
 Las dotaciones presupuestarias de personal, que contendrán el coste de los puestos de trabajo asignados a cada programa de gasto, se distribuirán entre éstos de forma que se garantice el necesario equilibrio entre los medios personales y los materiales previstos para su consecución.
-
 
 #### Art. 18.
 
@@ -360,7 +335,6 @@ CAPÍTULO IV
 
 Registro de Personal
 
-
 #### Art. 19.
 
 1. En la Consejería de la Presidencia existirá un Registro en el que se inscribirá todo el personal que presta sus servicios en la Administración de la Comunidad Autónoma y en el que se tomará razón de los actos que, afectando a la vida administrativa del mismo, se determinen por Decretos del Gobierno.
@@ -368,7 +342,6 @@ Registro de Personal
 2. El Registro de Personal se llevará atendiendo a los criterios de coordinación y homogeneización fijados por la legislación básica del Estado.
 
 3. Para el más correcto funcionamiento del Registro de Personal, se establecerá un banco de datos para de forma mecanizada asumir la confección de las nóminas, el estado de las plantillas, la distribución de los efectivos de cualquier Cuerpo o Escala así como del personal eventual y laboral y las autorizaciones de compatibilidades concedidas.
-
 
 #### Art. 20.
 
@@ -382,19 +355,15 @@ Registro de Personal
 
 5. La utilización de los datos del Registro estará sometida a las limitaciones previstas en el artículo 18.4 de la Constitución.
 
-
 #### Art. 21.
 
 El personal tendrá libre acceso a su expediente individual y a obtener certificados del Registro referidos al mismo.
-
 
 #### Art. 22.
 
 Las certificaciones que emita el Registro relativas a los actos inscribibles harán constar los ya inscritos y aquellos de los que el Registro haya recibido comunicación formal y se hallen pendientes de inscripción.
 
-
 ## TÍTULO IV
-
 
 **De los funcionarios de carrera**
 
@@ -402,13 +371,11 @@ CAPÍTULO PRIMERO
 
 Grupos, Cuerpos y Escalas de funcionarios
 
-
 #### Art. 23.
 
 1. Los funcionarios al servicio de la Administración de la Comunidad Autónoma de Canarias se integrarán plenamente en la organización de la Función Pública de la misma, agrupándose por Cuerpos en razón al carácter homogéneo de las funciones a realizar. Los Cuerpos complementan los objetivos ordenadores de la relación de puestos de trabajo a efectos de la racionalización de las pruebas comunes de acceso, de la determinación de la carrera administrativa y de la promoción interna. En los Cuerpos, y en razón a la mejor especialización de aquéllos, podrán existir Escalas.
 
 2. Los Cuerpos de funcionarios de carrera se agruparán, de acuerdo con la titulación exigida para su ingreso, en los grupos descritos en la legislación básica estatal.
-
 
 #### Art. 24.
 
@@ -428,7 +395,6 @@ f) La regulación o establecimiento de criterios básicos que permitan el desarr
 
 2. La creación, modificación, unificación o extinción de Cuerpos o Escalas, que deberá ir precedida de un estudio económico y organizativo en el que se justifique la conveniencia y oportunidad de dicha medida, atenderá a la existencia o inexistencia de puestos de trabajo con características homogéneas en las relaciones de empleo de la Administración.
 
-
 #### Art. 25.
 
 Se garantiza la igualdad entre todos los funcionarios propios de la Administración de la Comunidad Autónoma cualquiera que sea la Administración de procedencia.
@@ -437,13 +403,11 @@ CAPÍTULO II
 
 Carrera administrativa
 
-
 #### Art. 26.
 
 El reconocimiento a los funcionarios del derecho a la carrera administrativa conlleva la asignación a los mismos de un grado personal y el derecho a la promoción interna.
 
 Sección 1.ª El grado de personal
-
 
 #### Art. 27.
 
@@ -452,7 +416,6 @@ Sección 1.ª El grado de personal
 2. Los funcionarios de nuevo ingreso se incorporarán normalmente a los puestos de trabajo que tengan asignados un nivel inferior dentro de las vacantes comprendidas en el intervalo de niveles correspondiente a su Cuerpo.
 
 3. En ningún caso podrá consolidarse un grado personal superior al nivel máximo que corresponda al funcionario en razón del grupo o Escala a que pertenezca.
-
 
 #### Art. 28.
 
@@ -463,7 +426,6 @@ Sección 1.ª El grado de personal
 3. El Gobierno podrá establecer, mediante la superación de curso de formación u otros requisitos objetivos, los procedimientos que habiliten a los funcionarios para la adquisición de los grados superiores del intervalo de niveles asignados a su Cuerpo o Escala. Dicha habilitación permitirá al funcionario participar en los procedimientos de provisión de puestos de trabajo correspondientes a dicho grado.
 
 Sección 2.ª Promoción interna
-
 
 #### Art. 29.
 
@@ -481,20 +443,17 @@ CAPÍTULO III
 
 Movilidad
 
-
 #### Art. 30.
 
 1. Se garantiza el derecho de los funcionarios de carrera de la Comunidad Autónoma de Canarias a ocupar los puestos de trabajo de acuerdo con las condiciones que se determinen en las relaciones de puestos de trabajo, y mediante los sistemas de provisión de éstos regulados en el Capítulo III del Título VI de esta Ley.
 
 2. Una vez al año, como mínimo, se procederá a convocar los correspondientes concursos de traslados entre los funcionarios para cubrir los puestos vacantes.
 
-
 #### Art. 31.
 
 1. La provisión de puestos de trabajo de la Administración de la Comunidad Autónoma de Canarias por funcionarios de carrera pertenecientes a la Administración del Estado, de otras Comunidades Autónomas o de las Corporaciones locales canarias, tendrá lugar en los casos y con los requisitos establecidos en las relaciones de puestos de trabajo.
 
 2. A los fines previstos en el número anterior, el Gobierno de Canarias, a propuesta del Consejero de la Presidencia, determinará los Cuerpos de los funcionarios de carrera de las Corporaciones Locales canarias que por la igualdad de titulación y similitud de programas y pruebas de acceso, puedan prestar servicios en la comunidad Autónoma de acuerdo con las relaciones de puestos de trabajo.
-
 
 #### Art. 32.
 
@@ -510,7 +469,6 @@ Régimen estatutario
 
 Sección 1.ª Adquisición de la condición de funcionario
 
-
 #### Art. 33.
 
 La condición de funcionario de carrera de la Administración de la Comunidad Autónoma de Canarias definida por el artículo 11 de esta Ley se adquiere por el cumplimiento sucesivo de los requisitos siguientes:
@@ -524,7 +482,6 @@ La condición de funcionario de carrera de la Administración de la Comunidad Au
 4.º Toma de posesión en los términos legalmente establecidos.
 
 Sección 2.ª Pérdida de la condición de funcionario
-
 
 #### Art. 34.
 
@@ -542,7 +499,6 @@ La condición de funcionario de carrera de la Administración de la Comunidad Au
 
 6.ª Pérdida de la nacionalidad española. En caso de recuperación de la nacionalidad española se readquirirá la condición de funcionario en los términos en los que así lo prevea la legislación básica del Estado.
 
-
 #### Art. 35.
 
 1. La renuncia a la condición de funcionario no inhabilita para nuevo ingreso en la Función Pública.
@@ -550,7 +506,6 @@ La condición de funcionario de carrera de la Administración de la Comunidad Au
 2. La pérdida de la condición de funcionario por separación del servicio tendrá carácter definitivo.
 
 3. La inhabilitación por sentencia quedará sujeta a los términos de la misma.
-
 
 #### Art. 36.
 
@@ -563,7 +518,6 @@ La condición de funcionario de carrera de la Administración de la Comunidad Au
 4. La jubilación voluntaria procederá en los casos y con los requisitos y efectos previstos en la legislación básica del Estado.
 
 Sección 3.ª Situaciones
-
 
 #### Art. 37.
 
@@ -579,7 +533,6 @@ d) Suspensión.
 
 e) Servicios en otras Administraciones Públicas.
 
-
 #### Art. 38.
 
 1. Se encuentra en situación de servicio activo el funcionario que ocupe un puesto de trabajo y el que se halle en los casos de comisión de servicios.
@@ -593,7 +546,6 @@ Si la comisión de servicios fuera de carácter forzoso y supusiera cambio de lo
 En las comisiones de servicio acordadas con carácter forzoso por razones de imperativas necesidades del servicio, se seguirá el orden inverso a la antigüedad de los funcionarios que cumplan los requisitos precisos para desempeñar el puesto de que se trate. En el caso de que entre dichos funcionarios no existan diferencias de antigüedad superiores a 3 años de servicio se atenderá también a la entidad de las cargas familiares.
 
 4. Todos los puestos de trabajo ocupados por funcionarios en comisión de servicios serán incluidos necesariamente en la siguiente convocatoria de provisión normal.
-
 
 #### Art. 39.
 
@@ -613,7 +565,6 @@ Los funcionarios excedentes no devengarán retribuciones, ni les será computabl
 
 6. La denegación de la excedencia voluntaria por interés particular deberá hacerse por escrito y motivada, en el plazo máximo de un mes.
 
-
 #### Art. 40.
 
 1. La excedencia forzosa se producirá por la supresión del puesto de trabajo de que sea titular el funcionario, cuando signifique el cese obligado en el servicio activo.
@@ -621,7 +572,6 @@ Los funcionarios excedentes no devengarán retribuciones, ni les será computabl
 2. Los excedentes forzosos tendrán derecho a percibir sus retribuciones básicas, el complemento familiar, y al abono del tiempo en la situación a efectos pasivos y de trienios.
 
 3. La Consejería de la Presidencia en relación a los funcionarios excedentes forzosos podrá disponer, cuando las necesidades del servicio lo exijan, la incorporación obligatoria y con carácter provisional de dichos funcionarios a puestos de trabajo.
-
 
 #### Art. 41.
 
@@ -657,7 +607,6 @@ A los funcionarios en situación de servicios especiales se les computará el ti
 
 Los Diputados, Senadores y los miembros de las Asambleas Legislativas de las Comunidades Autónomas que pierdan dicha condición por disolución de las correspondientes Cámaras o terminación del mandato de los mismos podrán permanecer en la situación de servicios especiales hasta su nueva constitución.
 
-
 #### Art. 42.
 
 1. No obstante lo dispuesto en el artículo anterior, los funcionarios de la Comunidad Autónoma que sean elegidos miembros del Parlamento de Canarias o de las Corporaciones Insulares o Municipales de esta Comunidad Autónoma, en este último supuesto en municipios con más de 20.000 habitantes, podrán acceder a la situación de servicios especiales y continuar percibiendo sus haberes de la Administración de la Comunidad Autónoma.
@@ -675,7 +624,6 @@ a) Ostentar la condición de Alcalde, en municipios de hasta 20.000 habitantes, 
 b) Ostentar la condición de portavoz de un grupo institucional, constituido a partir de una lista electoral que haya obtenido más del 20 por 100 de los sufragios.
 
 c) Ser portavoz de un grupo institucional insular, constituido a partir de una lista electoral, o ser el único Consejero electo de una lista que haya concurrido a las elecciones a los Cabildos Insulares.
-
 
 #### Art. 43.
 
@@ -701,7 +649,6 @@ En el tiempo de cumplimiento de la sanción o de la pena de suspensión firme, e
 
 Sección 4.ª Reingreso en el servicio activo
 
-
 #### Art. 44.
 
 1. El reingreso en el servicio activo de quienes no tengan reservada su plaza o destino se verificará con ocasión de vacante y respetando el siguiente orden de prelación:
@@ -717,7 +664,6 @@ c) Excedentes voluntarios de los números 3, 1 y 2 del artículo 39 de esta Ley,
 3. Los excedentes voluntarios sólo podrán utilizar este derecho de preferencia por una sola vez.
 
 Sección 5.ª Derechos de los funcionarios
-
 
 #### Art. 45.
 
@@ -741,7 +687,6 @@ g) A un período anual de vacaciones retribuidas de un mes, o a los días que en
 
 3. La Administración de la Comunidad Autónoma de Canarias velará de una forma especial por la seguridad e higiene en el trabajo de todo el personal a su servicio y, con este fin, adoptará las medidas adecuadas para garantizar el cumplimiento de los requisitos exigidos por la normativa vigente.
 
-
 #### Art. 46.
 
 La ocupación de un puesto de trabajo determinado no constituye un derecho adquirido por los funcionarios; en consecuencia, podrá ordenarse su adscripción a otro puesto en los siguientes casos:
@@ -755,7 +700,6 @@ En ambos supuestos, se reservará al funcionario el puesto de trabajo de origen,
 El destino o traslado quedará sin efecto y, en consecuencia, el funcionario volverá a su puesto de origen cuando el puesto a que fue destinado sea provisto por los procedimientos ordinarios.
 
 Sección 6.ª Permisos y licencias
-
 
 #### Art. 47.
 
@@ -771,7 +715,6 @@ d) Para deberes inexcusables de carácter público o personal, durante el tiempo
 
 2. Se podrá disponer de hasta seis días al año de permiso para asuntos personales sin justificación. Estos días de permiso, que en ningún caso se acumularán a las vacaciones, estarán subordinados en su concesión a las necesidades del servicio y, en todo caso, se habrá de garantizar que la misma unidad orgánica donde se presten los servicios asumirá, sin perjuicio a terceras personas o para la propia organización, los cometidos del funcionario a quien se haya concedido dicho permiso. Esta licencia no podrá disfrutarse, en ningún caso, por el personal docente.
 
-
 #### Art. 48.
 
 1. El Consejero podrá conceder licencia para la realización de estudios sobre materias directamente relacionadas con el puesto de trabajo. Si esta licencia se concede por interés propio de la Administración, lo que exigirá resolución motivada, el funcionario tendrá derecho a percibir todas sus retribuciones. En otro caso, no percibirá retribución alguna. De estas licencias se dará cuenta a la Comisión de la Función Pública Canaria.
@@ -786,7 +729,6 @@ d) Para deberes inexcusables de carácter público o personal, durante el tiempo
 
 6. Las licencias para realizar funciones sindicales, formación sindical o de representación del personal, se regularán de acuerdo con lo legalmente establecido.
 
-
 #### Art. 49.
 
 1. La funcionaria con un hijo menor de diez meses tendrá derecho a un permiso de una hora diaria de trabajo. Este período de tiempo podrá dividirse en dos fracciones de media hora cada una o sustituirse por una reducción de la jornada normal en una hora. En supuestos especiales, debidamente acreditados, de imposibilidad de asistencia por la madre del menor, corresponderá este derecho al cónyuge funcionario.
@@ -796,7 +738,6 @@ d) Para deberes inexcusables de carácter público o personal, durante el tiempo
 3. En casos debidamente justificados y por incapacidad física o psíquica de su cónyuge, o padre, o madre, o familiar hasta segundo grado de consanguinidad, que conviva con el trabajador, se podrá también solicitar la reducción de jornada. Cuando la incapacidad genere el derecho a percibir una pensión por gran invalidez no habrá lugar al ejercicio de este derecho.
 
 Sección 7.ª Deberes y responsabilidades
-
 
 #### Art. 50.
 
@@ -818,11 +759,9 @@ f) Procurar al máximo su propio perfeccionamiento personal, utilizando los medi
 
 g) Cumplir estrictamente la jornada y horario de trabajo que, dentro de los límites legales, reglamentariamente se determinará en función de la mejor atención a los administrados, de los objetivos señalados en los servicios y del buen funcionamiento de éstos.
 
-
 #### Art. 51.
 
 Los funcionarios serán responsables de la buena gestión de los servicios encomendados y procurarán resolver por iniciativa propia las dificultades que encuentren en el cumplimiento de su función. Esta responsabilidad no excluye la que pueda corresponder a sus superiores jerárquicos.
-
 
 #### Art. 52.
 
@@ -830,16 +769,13 @@ Sin perjuicio de su responsabilidad por el funcionamiento de los servicios públ
 
 Igualmente se procederá si, por falta grave o ignorancia inexcusable, se produjeran daños o perjuicios a los bienes o derechos de la Administración de la Comunidad Autónoma.
 
-
 #### Art. 53.
 
 El personal de la Comunidad Autónoma de Canarias comprendido en el ámbito de aplicación de esta Ley queda sometido a la legislación de incompatibilidades.
 
-
 #### Art. 54.
 
 Los particulares podrán exigir al personal al que se refiere la presente Ley, mediante el proceso declarativo correspondiente, el resarcimiento de los daños causados en sus personas o bienes, cuando se haya producido por culpa grave o ignorancia inexcusable.
-
 
 #### Art. 55.
 
@@ -847,11 +783,9 @@ Lo dispuesto en los artículos anteriores se entenderá sin perjuicio de dar con
 
 Sección 8.ª Régimen disciplinario
 
-
 #### Art. 56.
 
 El incumplimiento de las obligaciones y deberes propios del personal podrá dar lugar, previa resolución del correspondiente expediente disciplinario, a las sanciones previstas en esta Ley, con independencia de las responsabilidades civiles y criminales a que puedan dar lugar.
-
 
 #### Art. 57.
 
@@ -862,7 +796,6 @@ a) Muy graves.
 b) Graves.
 
 c) Leves.
-
 
 #### Art. 58.
 
@@ -897,7 +830,6 @@ m) Los actos limitativos de la libre expresión del pensamiento, de las ideas y 
 n) Causar intencionalmente daños al patrimonio de la Comunidad Autónoma, o al de otras Administraciones Públicas, sancionándose de la misma forma los causados por negligencia cuando, atendiendo a su entidad, puedan ser calificados como muy graves.
 
 ñ) Haber sido sancionado por la comisión de tres faltas graves en el período de un año.
-
 
 #### Art. 59.
 
@@ -939,7 +871,6 @@ p) Las acciones u omisiones dirigidas a evadir los sistemas de control de horari
 
 A efectos de lo dispuesto en el presente artículo, se entenderá por mes el período comprendido desde el día primero al último de cada uno de los doce que componen el año.
 
-
 #### Art. 60.
 
 Son faltas leves:
@@ -954,7 +885,6 @@ d) El descuido o negligencia en el ejercicio de sus funciones.
 
 e) El incumplimiento de los deberes y obligaciones del funcionario, siempre que no deban ser calificadas como falta muy grave o grave.
 
-
 #### Art. 61.
 
 El procedimiento sancionador se ajustará en todo caso a los siguientes principios:
@@ -968,7 +898,6 @@ c) Agilidad y eficacia de modo que no se entorpezca la buena marcha de los servi
 d) Publicidad y contradictoriedad, comprendiendo esencialmente los derechos de información, defensa y audiencia y vista del expediente. El derecho de defensa comprende la facultad de poder ser asistido en todo momento por un Letrado.
 
 e) Economía procesal.
-
 
 #### Art. 62.
 
@@ -996,11 +925,9 @@ Los funcionarios sancionados con traslado con cambio de residencia, no podrán o
 
 4. Las faltas de puntualidad y de asistencia, cuando constituyan faltas leves, se sancionarán con apercibimiento y entrañará una deducción proporcional de las retribuciones.
 
-
 #### Art. 63.
 
 Para graduar las faltas y las sanciones habrán de ser tenidos en cuenta todos los elementos objetivos y subjetivos que permitan valorar la entidad del resultado lesivo y apreciar la existencia de circunstancias agravantes o atenuantes, en los términos establecidos en la legislación sancionatoria común.
-
 
 #### Art. 64.
 
@@ -1010,16 +937,13 @@ Para graduar las faltas y las sanciones habrán de ser tenidos en cuenta todos l
 
 3. Las faltas y sanciones, así como sus cancelaciones, se inscribirán en el Registro de Personal.
 
-
 ## TÍTULO V
-
 
 **Del personal interino, eventual y laboral**
 
 CAPÍTULO PRIMERO
 
 Personal interino
-
 
 #### Art. 65.
 
@@ -1037,7 +961,6 @@ CAPÍTULO II
 
 Eventuales
 
-
 #### Art. 66.
 
 1. El personal eventual ocupará los puestos de trabajo a él reservados por su carácter de confianza o asesoramiento especial. El número del personal eventual se determinará anualmente al aprobarse la Ley de Presupuestos de la Comunidad Autónoma.
@@ -1050,7 +973,6 @@ CAPÍTULO III
 
 Personal laboral
 
-
 #### Art. 67.
 
 1. Los puestos de trabajo que vayan a ser desempeñados por personal laboral deberán estar determinados en las relaciones de puestos de trabajo. A dicho personal se le aplicarán las fórmulas legales de contratación laboral incluido el período de prueba. Los contratos de trabajo serán formalizados por escrito y su inscripción en el Registro determinará la fecha en que el Gobierno manifiesta su voluntad de contratar.
@@ -1061,7 +983,6 @@ Quienes autoricen la prestación de servicios por personal laboral sin el previo
 
 3. El contenido y efectos de esta relación de empleo estará regulada por el Derecho Laboral y los actos preparatorios a su constitución, sin perjuicio de las normas eventualmente fijadas al respecto en el ordenamiento laboral, por el Derecho Administrativo. En todo caso, la administración contratante conserva sus potestades organizatorias en razón a los intereses del servicio.
 
-
 #### Art. 68.
 
 También podrán celebrarse contratos laborales de carácter temporal para la realización de trabajos de carácter imprevisto, urgente y no permanente, que no correspondan a un puesto de trabajo presupuestariamente dotado. Su formalización corresponde al Consejero en cuyo Departamento vayan a prestarse los servicios, y deberá remitirse a la Comisión de la Función Pública Canaria, para su conocimiento, una comunicación justificativa de las contrataciones que con este carácter se formalicen.
@@ -1070,23 +991,19 @@ CAPÍTULO IV
 
 Aplicación del régimen estatutario
 
-
 #### Art. 69.
 
 1. Al personal eventual e interino se le aplicará por analogía y siempre que tal aplicación no desnaturalice su propia condición, el régimen estatutario de los funcionarios de carrera, viniendo en todo caso obligado a cumplir los principios rectores descritos en el artículo 3.º de la presente Ley. Esta obligación pesará, asimismo, sobre el personal laboral.
 
 2. No obstante lo anterior, el personal eventual y el interino no podrá disfrutar de las licencias previstas para la realización de estudios relacionados con su puesto de trabajo ni por asuntos propios ni de las situaciones de excedencia voluntaria, forzosa y servicios especiales.
 
-
 ## TÍTULO VI
-
 
 **De la selección del personal**
 
 CAPÍTULO PRIMERO
 
 La oferta de empleo público
-
 
 #### Art. 70.
 
@@ -1101,7 +1018,6 @@ La oferta de empleo público
 CAPÍTULO II
 
 De las convocatorias
-
 
 #### Art. 71.
 
@@ -1125,7 +1041,6 @@ h) Indicación de la oficina pública donde estarán de manifiesto las sucesivas
 
 2. No obstante lo dispuesto en el número precedente, el Consejero de la Presidencia podrá anunciar con antelación a la convocatoria el programa de oposiciones o concursos-oposiciones, que por su extensión o complejidad exijan un mayor tiempo de preparación de los candidatos que el que normalmente media entre la publicación de la convocatoria y la realización de las pruebas.
 
-
 #### Art. 72.
 
 Para poder ser admitido a las pruebas de selección de funcionarios se precisará:
@@ -1137,7 +1052,6 @@ b) Haber cumplido dieciocho años, o tener la edad que la convocatoria establezc
 c) Poseer la titulación suficiente o estar en condiciones de obtenerla en la fecha en que termine el plazo de presentación de solicitudes para tomar parte en las pruebas selectivas.
 
 d) No hallarse inhabilitado por sentencia firme para el ejercicio de funciones públicas ni hallarse separado, mediante expediente disciplinario, del servicio de Administración Pública alguna.
-
 
 #### Art. 73.
 
@@ -1151,7 +1065,6 @@ d) No hallarse inhabilitado por sentencia firme para el ejercicio de funciones p
 
 5. En todo caso, y a fin de garantizar el principio de igualdad, de utilizarse el sistema de concurso-oposición, la valoración de los méritos sólo se realizará una vez celebrada la fase de oposición y respecto de los candidatos que hayan superado dicha fase.
 
-
 #### Art. 74.
 
 1. El Tribunal de selección designado en la convocatoria estará integrado por personal al servicio de las Administraciones Públicas, capacitado para enjuiciar los conocimientos y aptitudes exigidos y que, en todo caso, habrán de poseer titulación académica igual o superior a la exigida a los candidatos y que sean del área de conocimiento necesaria para poder enjuiciarlos y no estarán formados mayoritariamente por miembros de los Cuerpos objeto de las pruebas.
@@ -1162,11 +1075,9 @@ d) No hallarse inhabilitado por sentencia firme para el ejercicio de funciones p
 
 4. Ante los Tribunales tendrán representación las centrales sindicales de mayor implantación y representatividad en el territorio de la Comunidad Autónoma. Los representantes sindicales, cuyo número no será en ningún caso superior a tres, podrán recabar información de los Tribunales y hacer constar, en su caso, cualquier cuestión que afecte al procedimiento de selección.
 
-
 #### Art. 75.
 
 Los Tribunales no podrán aprobar ni declarar que ha superado las pruebas respectivas un número superior de aspirantes al de vacantes convocadas. Las propuestas de aprobados que contravengan este límite serán nulas de pleno derecho.
-
 
 #### Art. 76.
 
@@ -1176,13 +1087,11 @@ CAPÍTULO III
 
 Provisión de puestos de trabajo
 
-
 #### Art. 77.
 
 1. Producida la vacante en un puesto de trabajo, la Consejería de la Presidencia, a propuesta del Departamento interesado, podrá acordar su provisión a través de los procedimientos señalados en el artículo siguiente y sin perjuicio de los mecanismos de traslado y de desempeño provisional previstos en esta Ley.
 
 2. Las convocatorias o concursos para la provisión se efectuarán, agrupadas, en los períodos de tiempo que reglamentariamente se determinen, en evitación de una constante perturbación de los mismos en el normal funcionamiento de los servicios.
-
 
 #### Art. 78.
 
@@ -1200,7 +1109,6 @@ CAPÍTULO IV
 
 Programas especiales de acceso
 
-
 #### Art. 79.
 
 Con el objeto de posibilitar una integración en el trabajo de personas disminuidas físicas, psíquicas o sensoriales, el Gobierno desarrollará reglamentariamente, previo informe de la Comisión de la Función Pública y de la Junta de Personal, el sistema por el que estas personas podrán acceder a prestar servicios en la Administración Canaria.
@@ -1217,19 +1125,15 @@ d) Establecerá los criterios de evaluación de las pruebas previstas en el apar
 
 Esta evaluación habrá de hacerla un equipo multiprofesional.
 
-
 #### Art. 80.
 
 1. El Gobierno de Canarias, previo informe de la Comisión de la Función Pública Canaria, podrá establecer sistemas experimentales de acceso a puestos de trabajo, no permanentes, para la integración de personas a las que sean de aplicación programas de reinserción social, con el único límite de la titulación exigida para desempeñar el puesto de trabajo.
 
 2. A tal fin, por el Consejero de la Presidencia podrán suscribirse convenios de colaboración con entidades e instituciones dedicadas a la tutela o protección de los marginados.
 
-
 ## TÍTULO VII
 
-
 **Sistema retributivo**
-
 
 #### Art. 81.
 
@@ -1242,7 +1146,6 @@ El sistema retributivo de la Comunidad Autónoma Canaria se basará en los princ
 3. Serán retribuidos de idénticas maneras y en idéntica cuantía, los puestos de trabajo que requieran la misma titulación y el mismo grado de dificultad en la selección y cuyas tareas y condiciones de trabajo sean semejantes.
 
 4. Los funcionarios no podrán ser retribuidos por conceptos diferentes a los especificados en el artículo siguiente.
-
 
 #### Art. 82.
 
@@ -1270,16 +1173,13 @@ d) Las gratificaciones por servicios extraordinarios que se presten fuera de la 
 
 4. Los funcionarios percibirán las indemnizaciones correspondientes por razón del servicio.
 
-
 #### Art. 83.
 
 Los interinos percibirán las retribuciones que se deriven del puesto de trabajo que ocupen, sin que en ningún caso tengan derecho a la percepción de trienios; no obstante, una vez hayan superado las correspondientes pruebas de acceso a la función pública, se les reconocerá automáticamente, a efectos de trienios y la totalidad de los servicios prestados por ellos en la Administración Autonómica, tanto en calidad de funcionarios interinos como los prestados en régimen de contratación administrativa.
 
-
 #### Art. 84.
 
 Los eventuales únicamente percibirán la retribución que se determine por el Gobierno, de acuerdo con las dotaciones presupuestarias establecidas al respecto y sin que en ningún caso, puedan sobrepasar las que correspondan a los funcionarios de carrera que realicen funciones similares o del mismo nivel de titulación.
-
 
 #### Art. 85.
 
@@ -1287,22 +1187,17 @@ Los eventuales únicamente percibirán la retribución que se determine por el G
 
 2. En la negociación de estas retribuciones se procurará, dentro de las disponibilidades presupuestarias, su homogeneidad con las de los funcionarios que presten servicios que exijan similar preparación y responsabilidad.
 
-
 ## TÍTULO VIII
 
-
 **De la Función Pública de las Corporaciones Locales Canarias**
-
 
 #### Art. 86.
 
 Las Corporaciones locales canarias realizarán las relaciones de puestos de trabajo, en las que deberán estar incluidas las retribuciones del personal de sus respectivas Administraciones, atendiendo a los criterios establecidos en la legislación básica del Estado, y comunicándolas a la Administración de la Comunidad Autónoma.
 
-
 #### Art. 87.
 
 En el Registro de Personal de cada Corporación local se inscribirán todas las personas a su servicio, se anotarán los actos que afecten a la vida administrativa de la relación de servicios de aquéllas, en los términos definidos por los reglamentos dictados por la Administración del Estado y, en su caso, por la Comunidad Autónoma, de acuerdo con la legislación estatal básica, y se tomará razón de los actos a que se refiere el artículo 20 de esta Ley.
-
 
 #### Art. 88.
 
@@ -1312,21 +1207,17 @@ En el Registro de Personal de cada Corporación local se inscribirán todas las 
 
 3. Las Corporaciones Locales Canarias, por acuerdo del Pleno, podrán solicitar de la Consejería de la Presidencia la selección de su personal por los procedimientos que regulen el ingreso en la función pública de la Comunidad Autónoma.
 
-
 #### Art. 89.
 
 Los funcionarios de las Corporaciones Locales Canarias tendrán derecho a las recompensas, permisos, licencias y vacaciones retribuidas previstas en esta Ley.
-
 
 #### Art. 90.
 
 Los funcionarios de las Corporaciones Locales Canarias tendrán las obligaciones que en esta Ley se determinan para los funcionarios de la Comunidad Autónoma.
 
-
 #### Art. 91.
 
 Los funcionarios a los que se refiere el apartado 2 del artículo 31 de esta Ley, cuando desempeñen un puesto de trabajo de la Administración Pública de la Comunidad Autónoma, percibirán sus retribuciones por los mismos conceptos y en las mismas cuantías que los que correspondan a un funcionario del mismo grupo de la Comunidad Autónoma en un puesto similar.
-
 
 #### Art. 92.
 
@@ -1336,17 +1227,13 @@ Los funcionarios a los que se refiere el apartado 2 del artículo 31 de esta Ley
 
 En cuanto a las faltas graves, leves y a la cancelación de las sanciones en general, se estará a lo previsto en la sección 8.ª, capítulo IV, del título IV.
 
-
 ## TÍTULO IX
 
-
 **Del Instituto Canario de Administración Pública**
-
 
 #### Art. 93.
 
 Dependiente de la Consejería de la Presidencia se crea el Instituto Canario de Administración Pública como Organismo autónomo de carácter administrativo.
-
 
 #### Art. 94.
 
@@ -1360,7 +1247,6 @@ c) La edición de publicaciones relacionadas con la ciencia de la administració
 
 d) La creación de un fondo bibliográfico y documental sobre Administración Pública.
 
-
 #### Art. 95.
 
 1. Los órganos rectores del Instituto Canario de Administración Pública son el Consejo de Administración y el Director.
@@ -1370,7 +1256,6 @@ d) La creación de un fondo bibliográfico y documental sobre Administración P�
 3. El Director, con rango de Director general, será nombrado y cesado por el Gobierno, a propuesta del Consejero de la Presidencia y oído el Consejo de Administración.
 
 4. El Director desarrollará las funciones ejecutivas y desempeñará la Presidencia del Consejo de Administración.
-
 
 #### Art. 96.
 
@@ -1384,13 +1269,11 @@ El Gobierno, a propuesta del Consejero de la Presidencia, aprobará el Reglament
 
 4. El Instituto será atendido por personal de la Administración de la Comunidad Autónoma de Canarias.
 
-
 #### Art. 97.
 
 Vinculada al Instituto Canario de la Función Pública se crea la Academia de la Policía Municipal, que tendrá a su cargo la selección, formación, perfeccionamiento y especialización de los Policías Municipales de la Comunidad Autónoma. El plazo para su puesta en funcionamiento no podrá ser superior al año.
 
 DISPOSICIONES ADICIONALES
-
 
 #### Primera.
 
@@ -1438,7 +1321,6 @@ Grupo E: Certificado de Escolaridad.
 
 7. Cuerpo Subalterno.
 
-
 #### Segunda.
 
 1. El Cuerpo Superior de Administradores comprende a los funcionarios habilitados para ocupar puestos de trabajo que impliquen las funciones de gestión, estudio y propuesta de carácter superior.
@@ -1455,26 +1337,21 @@ Grupo E: Certificado de Escolaridad.
 
 7. El Cuerpo de Subalternos acoge a los funcionarios que realizan tareas de vigilancia y custodia de oficinas e inmuebles, traslado de documentos y expedientes, entrega de notificaciones y otras tareas de naturaleza análoga.
 
-
 #### Tercera.
 
 Los Cuerpos Docentes de la Administración Autónoma se regularán por una Ley específica, en la que se establecerán los procedimientos y condiciones en que, excepcionalmente, puedan sus funcionarios pasar a desempeñar tareas en la Administración no docente, de conformidad con lo que a tal efecto se disponga en las relaciones de puestos de trabajo.
-
 
 #### Cuarta.
 
 Los funcionarios procedentes de otras Administraciones Públicas continuarán con el sistema de seguridad social o de previsión que tuvieren originariamente, incluso cuando se produzca su integración en los Cuerpos o Escalas de la Administración de la Comunidad Autónoma. Esta asumirá todas las obligaciones de las Administraciones de origen desde el momento de su incorporación a la Comunidad Autónoma.
 
-
 #### Quinta.
 
 Los funcionarios que ejerciten el derecho a la huelga no devengarán ni percibirán las retribuciones correspondientes al tiempo que hayan permanecido en esta situación, sin que la deducción de retribuciones que se efectúe tenga, en ningún caso, carácter de sanción disciplinaria ni afecte al régimen respectivo de sus prestaciones sociales.
 
-
 #### Sexta.
 
 Quienes excepcionalmente sean contratados, al amparo de la disposición adicional cuarta número 2 de la Ley 30/1984, de 2 de agosto, para realizar trabajos específicos y concretos, no habituales de la correspondiente dependencia administrativa, se regirán por las normas específicas del Estado dictadas en el marco de la legislación contractual, sin perjuicio, en su caso, de la aplicación de la normativa civil o mercantil.
-
 
 #### Séptima.
 
@@ -1483,7 +1360,6 @@ Los contratados laborales fijos al servicio de la Comunidad Autónoma de Canaria
 El personal que no haga uso de ese derecho preferente de acceso a la función pública, o que no supere las pruebas y cursos permanecerá en la situación laboral en los puestos que desempeñe a la entrada en vigor de esta Ley.
 
 DISPOSICIONES TRANSITORIAS
-
 
 #### Primera.
 
@@ -1577,7 +1453,6 @@ Dos. 1. Los funcionarios transferidos o asumidos de Cuerpos, Escalas, Subescalas
 
 Tres. La Consejería de la Presidencia realizará las clasificaciones pertinentes y aprobará las relaciones de todo el personal funcionario al servicio de la Administración de la Comunidad Autónoma de Canarias que se integren en los Grupos y Escalas o, en su caso, grupo, previstos en esta Ley, de acuerdo con las normas establecidas en esta disposición transitoria.
 
-
 #### Segunda.
 
 El personal de la Seguridad Social regulado en el Estatuto Jurídico del Personal Médico de la Seguridad Social, en el Estatuto del Personal Auxiliar Sanitario Titular y Auxiliar de Clínica de la Seguridad Social, en el Estatuto de Personal no Sanitario al Servicio de las Instituciones Sanitarias de la Seguridad Social, así como de los Cuerpos y Escalas Sanitarias y de Asesores Médicos previstos en la disposición adicional 16 de la Ley 30/1984, de 2 de agosto, se regirán por sus Estatutos respectivos, mientras no se dicte la legislación específica correspondiente, para adaptarlos a la presente Ley, y podrán ocupar los puestos de trabajo de ámbito sanitario de acuerdo con lo que se determine en las correspondientes relaciones de puestos de trabajo.
@@ -1586,18 +1461,15 @@ El personal de la Seguridad Social regulado en el Estatuto Jurídico del Persona
 
 3. A efectos de lo dispuesto en esta Ley, se considerará el haber superado tres cursos completos de una licenciatura como equivalente al título de diplomado universitario.
 
-
 #### Tercera.
 
 En el plazo de seis meses, contados a partir de la fecha de entrada en vigor de esta Ley, el Gobierno de Canarias iniciará el procedimiento para ordenar en categorías a la totalidad del personal laboral que presta servicios en la Administración de la Comunidad Autónoma y podrá negociar un convenio colectivo para el mismo.
 
 Se procurará establecer un régimen de retribuciones homogéneas para todo el personal laboral que desempeñe una misma función y categorías profesional.
 
-
 #### Cuarta.
 
 El sistema retributivo previsto en el título VII de esta Ley entrará en vigor, como máximo, a partir del 1 de enero de 1988, para lo cual se arbitrarán con anterioridad a esta fecha, por los servicios competentes de la Administración Autonómica, las medidas necesarias para su aplicación y las correspondientes previsiones económicas se contendrán en la Ley de Presupuestos de dicho año.
-
 
 #### Quinta.
 
@@ -1607,21 +1479,17 @@ El sistema retributivo previsto en el título VII de esta Ley entrará en vigor,
 
 3. En ningún caso se puede consolidar un grado que no corresponda a uno de los niveles propios del intervalo asignado al Cuerpo de funcionario. No obstante, si desempeñare un funcionario un puesto o puestos de trabajo distintos de los que corresponden al intervalo de su Cuerpo, durante el tiempo exigible para consolidar un grado, se entenderá que ha consolidado el nivel máximo o el nivel mínimo del intervalo del Cuerpo, según que los puestos de referencia se encuentren clasificados por encima o por debajo del intervalo de su Cuerpo.
 
-
 #### Sexta.
 
 El régimen transitorio de jubilaciones se regirá por las normas previstas en la Ley 30/1984, de 2 de agosto, de Medidas para la Reforma de la Función Pública.
-
 
 #### Séptima.
 
 Los funcionarios que, como consecuencia de la aplicación del régimen retributivo establecido en la presente Ley experimenten una disminución en el total de sus retribuciones anuales, con exclusión del actual concepto retributivo de dedicación exclusiva y de aquellos otros que dependen exclusivamente de las características de los puestos de trabajo o del nivel de rendimiento o de productividad, tendrán derecho a un complemento personal y transitorio por la diferencia, que será absorbido por cualquier futura mejora retributiva, salvo la derivada del complemento de productividad según los criterios que establezcan las sucesivas Leyes de Presupuestos.
 
-
 #### Octava.
 
 En tanto no se apruebe el Reglamento regulador de los sistemas de acceso a la función pública de la Administración de la Comunidad Autónoma de Canarias se aplicarán las normas reglamentarias del Estado en la materia.
-
 
 #### Novena.
 
@@ -1635,21 +1503,17 @@ En tanto no se apruebe el Reglamento regulador de los sistemas de acceso a la fu
 
 5. Este personal tendrá derecho preferente para ocupar las vacantes correspondientes al Departamento y en la localidad en que preste servicios.
 
-
 #### Décima.
 
 La dotación inicial al fondo del Instituto Canario de Administración Pública será de 50.000.000 de pesetas.
-
 
 #### Undécima.
 
 El Gobierno aprobará el Reglamento de Organización y Funcionamiento del Instituto Canario de Administración Pública, previsto en el artículo 96 de la presente Ley, en el plazo de dos meses.
 
-
 #### Duodécima.
 
 En tanto no se celebren las elecciones sindicales previstas en esta Ley, la Comisión de la Función Pública Canaria se constituirá con las representaciones sindicales designadas por dichas organizaciones de acuerdo con la representatividad derivada de los resultados de las elecciones sindicales celebradas en el ámbito de la Comunidad Autónoma de Canarias.
-
 
 #### DISPOSICIÓN DEROGATORIA
 
@@ -1657,16 +1521,13 @@ Quedan derogadas cuantas disposiciones se opongan a lo previsto en esta Ley y, e
 
 DISPOSICIONES FINALES
 
-
 #### Primera.
 
 Se autoriza al Gobierno de Canarias para que dicte las disposiciones reglamentarias que precise para el desarrollo y aplicación de la presente Ley.
 
-
 #### Segunda.
 
 El Gobierno en el plazo de seis meses, establecerá por Decreto la organización y función de la Inspección General de Servicios, habilitando créditos a tal fin.
-
 
 #### Tercera.
 

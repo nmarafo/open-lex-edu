@@ -54,8 +54,6 @@ Mapa web
 
 Contacto
 
-Versión texto
-
 Inicio
 
 Archivo
@@ -72,15 +70,9 @@ Año 2006
 
 2006/165. Jueves 24 de Agosto de 2006
 
-1202
-
-<p>Menú de búsqueda y navegación</p>
-
 Anterior
 
 Siguiente
-
-BOC Nº 165. Jueves 24 de Agosto de 2006 - 1202
 
 III. OTRAS RESOLUCIONES - Consejería de Educación, Cultura y Deportes
 
@@ -292,69 +284,6 @@ En la fijación de los itinerarios se deberá tener en cuenta que sea el más co
 
 Ver anexos - páginas 19249-19266
 
-© Gobierno de Canarias
-
-Aviso Legal
-
-Sugerencias y Reclamaciones
-
-
-
 ## ANEXOS COMPLEMENTARIOS (Descargados desde PDF del BOC)
 
 ### Anexo Fuente: https://www.gobiernodecanarias.org/boc/2006/165/boc-2006-165-anexo-19249-19266.pdf
-
-Boletín Oficial de Canarias núm. 165, jueves 24 de agosto de 2006 19249
-
-
-19250 Boletín Oficial de Canarias núm. 165, jueves 24 de agosto de 2006
-
-
-Boletín Oficial de Canarias núm. 165, jueves 24 de agosto de 2006 19251
-
-
-19252 Boletín Oficial de Canarias núm. 165, jueves 24 de agosto de 2006
-
-
-Boletín Oficial de Canarias núm. 165, jueves 24 de agosto de 2006 19253
-
-
-19254 Boletín Oficial de Canarias núm. 165, jueves 24 de agosto de 2006
-
-
-Boletín Oficial de Canarias núm. 165, jueves 24 de agosto de 2006 19255
-
-
-19256 Boletín Oficial de Canarias núm. 165, jueves 24 de agosto de 2006
-
-
-Boletín Oficial de Canarias núm. 165, jueves 24 de agosto de 2006 19257
-
-
-19258 Boletín Oficial de Canarias núm. 165, jueves 24 de agosto de 2006
-
-
-Boletín Oficial de Canarias núm. 165, jueves 24 de agosto de 2006 19259
-
-
-19260 Boletín Oficial de Canarias núm. 165, jueves 24 de agosto de 2006
-
-
-Boletín Oficial de Canarias núm. 165, jueves 24 de agosto de 2006 19261
-
-
-19262 Boletín Oficial de Canarias núm. 165, jueves 24 de agosto de 2006
-
-
-Boletín Oficial de Canarias núm. 165, jueves 24 de agosto de 2006 19263
-
-
-19264 Boletín Oficial de Canarias núm. 165, jueves 24 de agosto de 2006
-
-
-Boletín Oficial de Canarias núm. 165, jueves 24 de agosto de 2006 19265
-
-
-19266 Boletín Oficial de Canarias núm. 165, jueves 24 de agosto de 2006
-
-

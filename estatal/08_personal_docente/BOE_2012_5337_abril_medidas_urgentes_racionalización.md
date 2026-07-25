@@ -51,20 +51,15 @@ Las medidas que se adoptan en este real decreto-ley resultan imprescindibles par
 
 En su virtud, en uso de la autorización contenida en el artículo 86 de la Constitución Española, a propuesta del Ministro de Educación, Cultura y Deporte y previa deliberación del Consejo de Ministros en su reunión del día 20 de abril de 2012,
 
-
 **DISPONGO:**
-
 
 #### Artículo 1. Objeto.
 
 El objeto de este Real Decreto-ley es adoptar medidas urgentes para la racionalización del gasto público en el ámbito de la educación, de conformidad con los principios de eficiencia y austeridad que deben presidir el funcionamiento de los servicios públicos.
 
-
 ## TÍTULO I
 
-
 **Educación no universitaria**
-
 
 #### Artículo 2. Ratios de alumnos por aula.
 
@@ -74,20 +69,17 @@ Este porcentaje de ampliación resultará asimismo aplicable a los límites máx
 
 Lo dispuesto en este artículo resulta de aplicación tanto a los centros docentes públicos como a los privados sostenidos con fondos públicos.
 
-
 #### Artículo 3. Jornada lectiva.
 
 1. La parte lectiva de la jornada semanal del personal docente que imparte las enseñanzas reguladas en la Ley Orgánica 2/2006, de 3 de mayo, de Educación, en centros públicos y privados sostenidos con fondos públicos será, como mínimo, de 25 horas en educación infantil y primaria y de 20 horas en las restantes enseñanzas, sin perjuicio de las situaciones de reducción de jornada contempladas en la normativa vigente.
 
 2. El régimen de compensación con horas complementarias será como máximo de una hora complementaria por cada período lectivo, y únicamente podrá computarse a partir de los mínimos a los que se refiere el apartado anterior.
 
-
 #### Artículo 4. Sustitución de profesores.
 
 En los centros docentes públicos, el nombramiento de funcionarios interinos por sustitución transitoria de los profesores titulares se producirá únicamente cuando hayan transcurrido diez días lectivos desde la situación que da origen a dicho nombramiento. El período de diez días lectivos previo al nombramiento del funcionario interino deberá ser atendido con los recursos del propio centro docente.
 
 Lo dispuesto en el párrafo anterior resultará asimismo de aplicación a las sustituciones de profesorado en los centros docentes privados sostenidos con fondos públicos.
-
 
 #### Artículo 5. Implantación de enseñanzas de formación profesional.
 
@@ -97,12 +89,9 @@ Los ciclos formativos de grado medio y grado superior cuya implantación estuvie
 
 Las Administraciones educativas podrán anticipar la implantación de las medidas que consideren necesarias en los cursos anteriores.
 
-
 ## TÍTULO II
 
-
 **Enseñanza universitaria**
-
 
 #### Artículo 6. Modificación de la Ley Orgánica 6/2001, de 21 de diciembre, de Universidades.
 
@@ -192,7 +181,6 @@ Las Universidades remitirán copia de la liquidación de sus presupuestos y el r
 
 La falta de remisión de la liquidación del presupuesto, o la falta de adopción de medidas en caso de liquidación con remanente negativo, facultará a la Comunidad Autónoma para adoptar, en el ámbito de sus competencias, las medidas necesarias para garantizar la estabilidad presupuestaria de la Universidad.»
 
-
 #### Articulo 7. Financiación de las becas y ayudas al estudio.
 
 1. El coste del componente individual de las becas y ayudas al estudio destinado a financiar los gastos derivados de la matrícula de alumnos de estudios universitarios será financiado conforme a las siguientes reglas:
@@ -203,16 +191,13 @@ b) Las Comunidades Autónomas financiarán íntegramente con cargo a sus presupu
 
 2. Hasta que todas las universidades implanten sistemas de contabilidad analítica y, como máximo, hasta el curso universitario 2015/2016, la parte del componente de matrícula que se financiará con cargo a los Presupuestos Generales del Estado será el precio público vigente para cada titulación en el momento de entrada en vigor de este Real Decreto-ley. Estas cantidades se actualizarán cada curso mediante la aplicación del coeficiente que determine la Conferencia General de Política Universitaria.
 
-
 #### Disposición derogatoria única.
 
 Quedan derogados los apartados 3 y 4 del artículo 13 del Real Decreto 132/2010, de 12 de febrero, por el que se establecen los requisitos mínimos de los centros que impartan las enseñanzas del segundo ciclo de la educación infantil, la educación primaria y la educación secundaria.
 
-
 #### Disposición final primera. Fundamento competencial.
 
 Este real Decreto-ley tiene carácter de legislación básica y se dicta al amparo de las competencias que los apartados 1.ª, 13.ª, 18.ª y 30.ª del artículo 149.1 de la Constitución reservan al Estado en materia de regulación de las condiciones básicas que garanticen la igualdad de todos los españoles en el ejercicio de los derechos y en el cumplimiento de los deberes constitucionales, de planificación general de la actividad económica, de régimen estatutario de los funcionarios públicos, y de desarrollo del artículo 27 de la Constitución a fin de garantizar el cumplimiento de las obligaciones de los poderes públicos en esta materia.
-
 
 #### Disposición final segunda. Modificaciones relativas al Impuesto sobre Sociedades.
 
@@ -234,15 +219,11 @@ La base imponible del gravamen especial estará constituida por el importe ínte
 
 En este caso, la base imponible estará constituida por la renta obtenida en la transmisión, así como por la reversión de cualquier corrección de valor sobre la participación transmitida, que hubiera tenido la consideración de fiscalmente deducible durante el tiempo de tenencia de la participación.»
 
-
 #### Disposición final tercera. Facultades de desarrollo.
 
 El Gobierno dictará las disposiciones que sean precisas para el desarrollo y ejecución de lo establecido en este real Decreto-ley.
 
-
 #### Disposición final cuarta. Entrada en vigor.
-
-Este real Decreto-ley entrará en vigor el día siguiente al de su publicación en el «Boletín Oficial del Estado».
 
 Dado en Madrid, el 20 de abril de 2012.
 

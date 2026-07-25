@@ -31,10 +31,7 @@ fuente_pdf_oficial: https://sede.gobiernodecanarias.org/boc/boc-a-2018-019-376.p
 
 # Resolución de 10 de enero de 2018, de la Dirección General de Personal, por la que se dispone la publicación en el Boletín Oficial de Canarias del Acuerdo entre la Consejería de Educación y Universidades y las centrales sindicales representativas del profesorado sobre la mejora del marco retributivo del personal docente no universitario del ámbito de la Consejería de Educación y Universidades (BOC n.º 19, de 26 de enero).
 
-Boletín Oficial de Canarias núm. 19
-https://sede.gobcan.es/boc
 Viernes 26 de enero de 2018
-2561
 III. Otras Resoluciones
 Consejería de Educación y Universidades
 376 Dirección General de Personal.- Resolución de 10 de enero de 2018, por la que 
@@ -55,13 +52,8 @@ que se inserta a continuación.
 Las Palmas de Gran Canaria, a 10 de enero de 2018.- El Director General de Personal, 
 Juan Rafael Bailón Casanova. 
 Página 
-boc-a-2018-019-376
 
-
-Boletín Oficial de Canarias núm. 19
-https://sede.gobcan.es/boc
 Viernes 26 de enero de 2018
-2562
 La Ley 6/2014, de 25 de julio, Canaria de Educación no Universitaria (BOC 
 nº 152, de 7 de agosto) establece en el artículo 65 un conjunto de medidas para el 
 reconocimiento y la protección de la función docente. En este sentido, recoge el deber 
@@ -102,13 +94,8 @@ implementación y, en su caso abono, del complemento por formación permanente, 
 en el resto del Estado como sexenio, y el abono de otros complementos asociados a funciones 
 docentes de especial responsabilidad al personal docente no universitario de centros públicos 
 de la Consejería de Educación y Universidades del Gobierno de Canarias.
-boc-a-2018-019-376
 
-
-Boletín Oficial de Canarias núm. 19
-https://sede.gobcan.es/boc
 Viernes 26 de enero de 2018
-2563
 Tercero.- La financiación de la mejora del marco retributivo será de carácter plurianual, 
 y se desarrollará de forma gradual en 5 anualidades, comprendidas entre el año 2018 y 
 el 2022, ambos inclusive, en consonancia con el aumento presupuestario progresivo que 
@@ -182,13 +169,8 @@ RESOLUCION - Nº: 46 / 2018 - Tomo: 1 - Libro: 289 - Fecha: 10/01/2018 12:54:36 
 En la dirección https://sede.gobcan.es/sede/verifica_doc puede ser comprobada la
 autenticidad de esta copia, mediante el número de documento electrónico siguiente:
 0evepoYL4jgNDOQdP1jbWtdH5fQfdZcrS
-El presente documento ha sido descargado el 18/01/2018 - 16:12:30 boc-a-2018-019-376
 
-
-Boletín Oficial de Canarias núm. 19
-https://sede.gobcan.es/boc
 Viernes 26 de enero de 2018
-2564
 En ningún caso el exceso de horas realizadas durante los seis años correspondientes a un 
 sexenio será computable para completar otro periodo.
 3) Los funcionarios docentes que se encuentren en situación de servicios especiales, 
@@ -227,13 +209,8 @@ e) Participación como tutor o tutora en el centro educativo del practicum para 
 universitario de los grados conducentes al título de maestro o del máster en formación del 
 profesorado de Educación Secundaria Obligatoria y Bachillerato, Formación Profesional 
 y Enseñanzas de Idiomas, incluyendo el CAP o Título de Especialización Didáctica (hasta 
-boc-a-2018-019-376
 
-
-Boletín Oficial de Canarias núm. 19
-https://sede.gobcan.es/boc
 Viernes 26 de enero de 2018
-2565
 100 horas recogidas en el portafolio individual de formación del profesorado y/o en los 
 certificados acreditativos correspondientes), o como profesor en la impartición de docencia 
 en los títulos de grado y máster anteriormente citados en las universidades públicas canarias 
@@ -270,13 +247,8 @@ del marco retributivo del personal docente no universitario del ámbito de la Co
 Educación y Universidades, en especial para el reconocimiento del ejercicio de funciones 
 docentes de especial responsabilidad, imprescindibles para el buen funcionamiento y la 
 mejora del sistema educativo canario. 
-boc-a-2018-019-376
 
-
-Boletín Oficial de Canarias núm. 19
-https://sede.gobcan.es/boc
 Viernes 26 de enero de 2018
-2566
 En concreto, prevé el reconocimiento del ejercicio de cargos directivos en centros 
 educativos no universitarios del ámbito de la Consejería de Educación y Universidades, 
 por ser los puestos desde los que se articula la organización y gestión de los centros para 
@@ -377,13 +349,8 @@ En la dirección https://sede.gobcan.es/sede/verifica_doc puede ser comprobada l
 autenticidad de esta copia, mediante el número de documento electrónico siguiente:
 0evepoYL4jgNDOQdP1jbWtdH5fQfdZcrS
 El presente documento ha sido descargado el 18/01/2018 - 16:12:30
-boc-a-2018-019-376
 
-
-Boletín Oficial de Canarias núm. 19
-https://sede.gobcan.es/boc
 Viernes 26 de enero de 2018
-2567
 IV-CONSIDERACIONES FINALES. 
 Noveno.- La mejora del sistema retributivo del personal docente no universitario, en los 
 términos recogidos en el presente acuerdo, con carácter general, surtirán efecto a partir del 
@@ -403,5 +370,3 @@ organizaciones sindicales, ANPE, Pedro Crespo González; CCOO, Juan Jesús Berm�
 Ferrer; INSUCAN-CSIF, José Ángel Amador Sierra; STEC-IC, Fernando Pellicer Melo; 
 UGT, Francisco Javier Bautista Yanes; CO.BAS, Antonio Peña Santana; USPS-SEPCA, 
 Nieves Alonso Espinoza.
-boc-a-2018-019-376
-

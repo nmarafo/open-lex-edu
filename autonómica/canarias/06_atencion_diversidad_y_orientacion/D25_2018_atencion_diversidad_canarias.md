@@ -56,10 +56,7 @@ fuente_pdf_oficial: https://sede.gobiernodecanarias.org/boc/boc-a-2018-046-1008.
 
 # Decreto 25/2018, de 26 de febrero, por el que se regula la atención a la diversidad en el ámbito de las enseñanzas no universitarias de la Comunidad Autónoma de Canarias.
 
-Boletín Oficial de Canarias núm. 46
-https://sede.gobcan.es/boc
 Martes 6 de marzo de 2018
-7805
 I. Disposiciones generales
 Consejería de Educación y Universidades
 1008 DECRETO 25/2018, de 26 de febrero, por el que se regula la atención a la diversidad 
@@ -100,13 +97,8 @@ alumnado y alcanzar los mejores resultados de aprendizaje en este. Asimismo, en 
 orientado a garantizar a cada persona la atención adecuada para alcanzar el máximo nivel de 
 sus capacidades y competencias.
 Página 
-boc-a-2018-046-1008
 
-
-Boletín Oficial de Canarias núm. 46
-https://sede.gobcan.es/boc
 Martes 6 de marzo de 2018
-7806
 La inclusión supone, entonces, un marco de referencia amplio sobre los derechos de 
 las personas y especialmente de aquellas que, por distintas razones puedan encontrarse 
 en mayor riesgo de exclusión y de abandono escolar, orientada a transformar los sistemas 
@@ -150,13 +142,8 @@ Administración educativa canaria regulará el marco general de atención a la d
 alumnado y las condiciones y recursos para la aplicación de las diferentes medidas que serán 
 desarrolladas por los centros docentes, de acuerdo con los principios rectores  del sistema 
 educativo.»
-boc-a-2018-046-1008
 
-
-Boletín Oficial de Canarias núm. 46
-https://sede.gobcan.es/boc
 Martes 6 de marzo de 2018
-7807
 El presente Decreto traza el marco general para desarrollar las propuestas metodológicas 
 y organizativas para atender a la diversidad, que los centros educativos han de realizar dentro 
 de un enfoque inclusivo. No obstante, los centros educativos, en el ámbito de su autonomía 
@@ -195,13 +182,8 @@ su normativa específica y, supletoriamente, a lo establecido en este Decreto.
 desde un enfoque inclusivo, que dé respuesta a las características y necesidades de todo el 
 alumnado y, en especial, a aquel que pueda encontrarse en situación de riesgo de abandono 
 escolar temprano y, por ende, de exclusión social.
-boc-a-2018-046-1008
 
-
-Boletín Oficial de Canarias núm. 46
-https://sede.gobcan.es/boc
 Martes 6 de marzo de 2018
-7808
 3. Será de aplicación en los centros docentes sostenidos con fondos públicos y en los que 
 les afecte, en los privados, que imparten enseñanza no universitaria del sistema educativo 
 español en el ámbito de gestión de la Comunidad Autónoma de Canarias.
@@ -235,13 +217,8 @@ temprana de las necesidades educativas del alumnado con el fin de favorecer su a
 curricular, desarrollando programas preventivos dirigidos al éxito desde la Educación 
 Infantil y la Educación Primaria, de forma que le permita superar las barreras detectadas y 
 desarrollar medidas educativas de carácter inclusivo, para aquellos que no las superen.
-boc-a-2018-046-1008
 
-
-Boletín Oficial de Canarias núm. 46
-https://sede.gobcan.es/boc
 Martes 6 de marzo de 2018
-7809
 2. La detección temprana abarcará cualquier momento de la vida escolar del alumnado, 
 atendiendo a los cambios, las transiciones o las barreras contextuales que le puedan suponer 
 una dificultad para alcanzar el pleno desarrollo de sus competencias y, por ende, el éxito y 
@@ -281,13 +258,8 @@ organizativas más amplias que favorezcan la equidad y la excelencia.
 3. En el uso de los recursos personales y específicos para la atención a las necesidades 
 educativas, los centros deberán tender a nuevas formas de organización e integración en el 
 aula ordinaria mediante una actuación colaborativa con el profesorado de aula responsable 
-boc-a-2018-046-1008
 
-
-Boletín Oficial de Canarias núm. 46
-https://sede.gobcan.es/boc
 Martes 6 de marzo de 2018
-7810
 del área o materia, de manera que las intervenciones especializadas fuera del grupo-clase se 
 realicen solo para los casos absolutamente necesarios.
 4. Las medidas para atender a la diversidad del alumnado serán principalmente las 
@@ -323,13 +295,8 @@ dificultades esté equitativamente repartido entre los distintos grupos del mism
 b) La flexibilidad y la combinación de diferentes tipos de agrupamientos.
 c) La atención individualizada.
 d) Los sistemas de refuerzo que permitan la recuperación curricular.
-boc-a-2018-046-1008
 
-
-Boletín Oficial de Canarias núm. 46
-https://sede.gobcan.es/boc
 Martes 6 de marzo de 2018
-7811
 e) El apoyo idiomático para el alumnado no hispanohablante.
 f) La intervención de otros agentes de la comunidad educativa que puedan colaborar en la 
 implementación del currículo y contribuir a la mejora de la atención inclusiva al alumnado 
@@ -364,13 +331,8 @@ Artículo 7.- Plan de atención a la diversidad.
 proyecto educativo, y seguirán un modelo inclusivo de actuación.
 2. Dichas medidas conformarán su plan de atención a la diversidad, el cual ha de recoger 
 las medidas organizativas, metodológicas y de intervención que adopta el centro para dar 
-boc-a-2018-046-1008
 
-
-Boletín Oficial de Canarias núm. 46
-https://sede.gobcan.es/boc
 Martes 6 de marzo de 2018
-7812
 la mejor respuesta posible a la diversidad de su alumnado. Todas estas medidas quedarán 
 reflejadas en el documento del plan de atención a la diversidad, que deberá establecer 
 mecanismos de revisión que permitan la evaluación del impacto en la aplicación de estas y 
@@ -409,13 +371,8 @@ Artículo 10.- Evaluación de las medidas.
 y desarrollar la evaluación coordinada de las actuaciones que se reflejan en este Decreto, 
 tomando como referencia la evolución del alumnado y la valoración del impacto de las 
 medidas que se pongan en funcionamiento.
-boc-a-2018-046-1008
 
-
-Boletín Oficial de Canarias núm. 46
-https://sede.gobcan.es/boc
 Martes 6 de marzo de 2018
-7813
 2. Se establecerá, por dicha Consejería, los cauces de participación para las familias o 
 personas representantes legales del alumnado y sus organizaciones, así como la de otros 
 sectores implicados, en la valoración de los resultados alcanzados y de las propuestas de 
@@ -449,13 +406,8 @@ competencias previstos para su grupo de referencia por una escolarización desaj
 insuficiente, por limitaciones socioculturales, por razones de enfermedad o problemas de 
 salud temporales o crónicos, o por dificultades de ejecución funcional de tipo cognitivo 
 o neuropsicológico, que, sin llegar a ser un trastorno o discapacidad, influyen en el 
-boc-a-2018-046-1008
 
-
-Boletín Oficial de Canarias núm. 46
-https://sede.gobcan.es/boc
 Martes 6 de marzo de 2018
-7814
 rendimiento escolar y crean dificultades en el avance curricular. Este alumnado puede 
 presentar dificultades en la comunicación, el lenguaje o el habla derivadas de alguno o de la 
 combinación de varios de los motivos señalados.
@@ -492,13 +444,8 @@ autismo, en las condiciones que se determine.
 4. La evaluación de la eficacia de las medidas propuestas para el alumnado será objeto de 
 valoración y seguimiento, según los procedimientos que a este fin establezca la Consejería 
 competente en materia de educación.
-boc-a-2018-046-1008
 
-
-Boletín Oficial de Canarias núm. 46
-https://sede.gobcan.es/boc
 Martes 6 de marzo de 2018
-7815
 Artículo 13.- Modalidades de escolarización.
 1. La escolarización del alumnado con necesidades específicas de apoyo educativo se 
 realizará en los centros docentes ordinarios. Cuando esto no sea posible y se justifique de 
@@ -538,13 +485,8 @@ realizada.
 3. La Consejería competente en materia de educación establecerá los criterios para la 
 escolarización del alumnado con necesidades específicas de apoyo educativo en los distintos 
 niveles y etapas, reconociéndole derecho preferente para su admisión en aquellos centros 
-boc-a-2018-046-1008
 
-
-Boletín Oficial de Canarias núm. 46
-https://sede.gobcan.es/boc
 Martes 6 de marzo de 2018
-7816
 ordinarios sostenidos con fondos públicos. Con carácter general, se escolarizará en el centro 
 más cercano a su domicilio.
 4. La Consejería competente en materia de educación podrá flexibilizar, ampliando o 
@@ -583,13 +525,8 @@ educación determine.
 Artículo 16.- Recursos.
 1. La Consejería competente en materia de educación proporcionará a los centros 
 sostenidos con fondos públicos, los recursos materiales y el personal especialista necesario 
-boc-a-2018-046-1008
 
-
-Boletín Oficial de Canarias núm. 46
-https://sede.gobcan.es/boc
 Martes 6 de marzo de 2018
-7817
 para favorecer y cooperar en la puesta en práctica de actuaciones inclusivas que den respuesta 
 a la diversidad de su alumnado, estableciendo las normas de funcionamiento y utilización.
 2. La Consejería competente en materia de educación podrá establecer criterios 
@@ -629,13 +566,8 @@ actuaciones necesarias para la supresión de las barreras físicas y de la comun
 centros y servicios, potenciando las actuaciones que favorezcan la plena accesibilidad a 
 los espacios, la usabilidad y accesibilidad a las nuevas tecnologías y el empleo de cuantos 
 recursos tecnológicos faciliten la supresión de barreras físicas y de la comunicación.
-boc-a-2018-046-1008
 
-
-Boletín Oficial de Canarias núm. 46
-https://sede.gobcan.es/boc
 Martes 6 de marzo de 2018
-7818
 Artículo 18.- Adaptaciones curriculares. 
 1. La adaptación curricular de un área o materia es una medida extraordinaria para dar 
 respuesta a las necesidades del alumnado. En la medida de lo posible y como garantía de 
@@ -675,13 +607,8 @@ materia de educación.
 Disposición adicional segunda.- De los convenios y acuerdos de colaboración.
 La Consejería competente en materia de educación, dada la especificidad de algunos 
 de los recursos que precisa la atención al alumnado con necesidades específicas de apoyo 
-boc-a-2018-046-1008
 
-
-Boletín Oficial de Canarias núm. 46
-https://sede.gobcan.es/boc
 Martes 6 de marzo de 2018
-7819
 educativo, promoverá cuantas acciones, convenios y acuerdos de colaboración considere 
 necesarios con las distintas Consejerías, Administraciones públicas y otras organizaciones, 
 instituciones y entidades, públicas o privadas, con el fin de garantizar una respuesta 
@@ -720,13 +647,8 @@ relación con el contenido de este Decreto, en tanto no contradigan lo estableci
 Disposición derogatoria única.- Derogación normativa.
 Se deroga el Decreto 104/2010, de 29 de julio, por el que se regula la atención a la 
 diversidad del alumnado en el ámbito de la enseñanza no universitaria de Canarias.
-boc-a-2018-046-1008
 
-
-Boletín Oficial de Canarias núm. 46
-https://sede.gobcan.es/boc
 Martes 6 de marzo de 2018
-7820
 Disposición final primera.- Desarrollo reglamentario.
 Las Consejerías competentes en materia de educación, de sanidad y de políticas sociales 
 dictarán, en el ámbito de sus competencias, cuantas disposiciones sean precisas para la 
@@ -745,5 +667,3 @@ Fernando Clavijo Batlle.
 LA CONSEJERA DE EDUCACIÓN 
 Y UNIVERSIDADES,
 Soledad Monzón Cabrera.
-boc-a-2018-046-1008
-

@@ -31,9 +31,6 @@ fuente_pdf_oficial: https://sede.gobiernodecanarias.org/boc/boc-a-2025-087-1645.
 
 # Resolución de 11 de abril de 2025, de la Dirección General de Administración de Centros, Escolarización y Servicios Complementarios por la que se aprueba la instrucción de las ayudas de préstamo de libros de texto y materiales didácticos para el curso escolar 2025/2026 (BOC n.º 87, de 2 de mayo).
 
-https://sede.gobiernodecanarias.org/boc
-boc-a-2025-087-1645
-Boletín Oficial de Canarias núm. 87 Viernes 2 de mayo de 202519042
 III. Otras Resoluciones
 Consejería de Educación, Formación Profesional, Actividad Física y Deportes
 1645 Dirección General de Administración de Centros, Escolarización y Servicios 
@@ -76,9 +73,6 @@ libros de texto o material tecnológico.
 Es importante destacar que el apoyo a las familias, poniendo a disposición del alumnado 
 los materiales curriculares que han de ser el vehículo para desarrollar su aprendizaje, tiene 
 
-https://sede.gobiernodecanarias.org/boc
-boc-a-2025-087-1645
-Boletín Oficial de Canarias núm. 87 Viernes 2 de mayo de 202519043
 doble objetivo, el de la reutilización de los libros de texto o el material tecnológico como 
 fórmula para incrementar la disponibilidad en los centros educativos de material escolar 
 y el de fomentar los hábitos de cuidado y respeto en el uso de estos materiales para que 
@@ -125,9 +119,6 @@ Excepcionalmente, se podrá prever, además de la cuantía total máxima dentro 
 los créditos disponibles, un incremento de la misma cuya aplicación a la concesión de 
 las subvenciones no requerirá de una nueva convocatoria. En este supuesto, el órgano 
 
-https://sede.gobiernodecanarias.org/boc
-boc-a-2025-087-1645
-Boletín Oficial de Canarias núm. 87 Viernes 2 de mayo de 202519044
 concedente deberá publicar la declaración de créditos disponibles y la distribución 
 definitiva, con carácter previo a la resolución de concesión, en los mismos medios que la 
 convocatoria, sin que tal publicación implique la apertura de plazo para presentar nuevas 
@@ -170,9 +161,6 @@ regula el procedimiento de gestión económica de los centros docentes públicos
 universitarios dependientes de la Consejería de Educación, Cultura y Deportes, en relación 
 a la justificación económica de los centros docentes públicos.
 
-https://sede.gobiernodecanarias.org/boc
-boc-a-2025-087-1645
-Boletín Oficial de Canarias núm. 87 Viernes 2 de mayo de 202519045
 Séptimo.- El artículo 18.2.B.a) del Decreto 84/2024, de 10 de junio, por el que se 
 aprueba el Reglamento Orgánico de la Consejería de Educación, Formación Profesional, 
 Actividad Física y Deportes.
@@ -211,9 +199,6 @@ Modelo genérico de renuncia a la ayuda Apéndice VIII
 Aspectos importantes a tener en cuenta en el procedimiento de solicitud, 
 adquisición o préstamo de libros de texto y materiales didácticos Apéndice IX
 
-https://sede.gobiernodecanarias.org/boc
-boc-a-2025-087-1645
-Boletín Oficial de Canarias núm. 87 Viernes 2 de mayo de 202519046
 Tercero.- Ordenar la publicación de la presente Resolución en el Boletín Oficial 
 de Canarias y en la página web de la Consejería de Educación, Formación Profesional, 
 Actividad Física y Deportes, por motivos de interés público y para conocimiento de la 
@@ -233,9 +218,6 @@ Las Palmas de Gran Canaria, a 11 de abril de 2025.- El Director General de
 Administración de Centros, Escolarización y Servicios Complementarios, David Crego 
 Chaves.
 
-https://sede.gobiernodecanarias.org/boc
-boc-a-2025-087-1645
-Boletín Oficial de Canarias núm. 87 Viernes 2 de mayo de 202519047
 ANEXO
 INSTRUCCIONES PARA EL CURSO ESCOLAR 2025/2026 DEL PROCEDIMIENTO 
 DE GESTIÓN Y CONCESIÓN DEL DISFRUTE DEL PRÉSTAMO DE LIBROS DE TEXTO 
@@ -273,9 +255,6 @@ Segundo.- Determinación de las diferentes modalidades de estudios.
 Modalidad Infantil. Esta modalidad incluye los niveles de Segundo Ciclo de Educación 
 Infantil en los centros docentes públicos.
 
-https://sede.gobiernodecanarias.org/boc
-boc-a-2025-087-1645
-Boletín Oficial de Canarias núm. 87 Viernes 2 de mayo de 202519048
 Para los niveles de Segundo Ciclo de Educación Infantil, el importe de la ayuda 
 individual se corresponde con un máximo de 100,00 euros en la modalidad de materiales 
 “Material no reutilizable”.
@@ -313,9 +292,6 @@ y Materiales Didácticos, cofinanciado por el Ministerio de Educación y Formaci
 la Ley 5/2024, de 26 de diciembre, de Presupuestos Generales de la Comunidad Autónoma de 
 Canarias para 2025, ascienden a dos millones doscientos sesenta y cinco mil, ochocientos noventa 
 
-https://sede.gobiernodecanarias.org/boc
-boc-a-2025-087-1645
-Boletín Oficial de Canarias núm. 87 Viernes 2 de mayo de 202519049
 y cinco (2.265.895,00) euros, con cargo a la aplicación presupuestaria 18.21.324C.2299500, 
 “Uso Gratuito Libros de Texto”. La aportación de la Comunidad Autónoma de Canarias es 
 de un millón seiscientos noventa y siete mil, ochocientos noventa y cinco (1.697.895,00) 
@@ -360,9 +336,6 @@ centro docente público; o en los niveles aprobados a los centros privados conce
 inscritos como participantes en la acción “Uso Gratuito de Libros de Texto” en el periodo 
 comprendido desde la implantación de la medida hasta el curso 2011-2012.
 
-https://sede.gobiernodecanarias.org/boc
-boc-a-2025-087-1645
-Boletín Oficial de Canarias núm. 87 Viernes 2 de mayo de 202519050
 b) La renta de la unidad de responsables del alumnado solicitante debe ser inferior a 
 18.000,00 euros en unidades de dos a cuatro miembros computables, resultado de multiplicar el 
 valor del Indicador Público de Renta de Efectos Múltiples (IPREM) correspondiente al año 2023 
@@ -425,9 +398,6 @@ baremación
 1 3 5
 1 4 o más 6
 
-https://sede.gobiernodecanarias.org/boc
-boc-a-2025-087-1645
-Boletín Oficial de Canarias núm. 87 Viernes 2 de mayo de 202519051
 Las personas sometidas a tutela o acogimiento familiar permanente o preadoptivo 
 legalmente constituido tendrán la misma consideración que las hijas y los hijos. Las y 
 los menores que habiendo estado en alguna de estas situaciones alcancen la mayoría de 
@@ -473,9 +443,6 @@ han de garantizar que las solicitudes se encuentren cargadas en Pincel
 EKADE para el 
 alumnado de continuidad y el afectado por el proceso de admisión. Los centros privados 
 
-https://sede.gobiernodecanarias.org/boc
-boc-a-2025-087-1645
-Boletín Oficial de Canarias núm. 87 Viernes 2 de mayo de 202519052
 concertados inscritos como participantes desde la implantación de la medida hasta el curso 
 2011-2012 que no dispongan de Pincel EKADE, han de garantizar que las solicitudes se 
 encuentren cargadas en el aplicativo WEBGesALT (Portal docente).
@@ -518,9 +485,6 @@ subsanación o reclamación. Para conocer los datos de las situaciones económic
 familias solicitante, el personal del centro de destino podrá contactar con el centro de 
 origen o con el personal del Servicio.
 
-https://sede.gobiernodecanarias.org/boc
-boc-a-2025-087-1645
-Boletín Oficial de Canarias núm. 87 Viernes 2 de mayo de 202519053
 Tras la baremación por parte de los Servicios Centrales de Educación, se obtendrá 
 un nuevo listado en el que se adjudicarán las solicitudes subsanadas y reclamadas que 
 procedan, así como las nuevas cargas de solicitudes presentadas en periodo ordinario 
@@ -564,9 +528,6 @@ educativos.
 Si existiese disponibilidad presupuestaria, el Servicio de Programas Educativos y 
 Actividades Extraescolares contemplará la adjudicación de alumnado que se traslade a un 
 
-https://sede.gobiernodecanarias.org/boc
-boc-a-2025-087-1645
-Boletín Oficial de Canarias núm. 87 Viernes 2 de mayo de 202519054
 nuevo centro educativo, siempre y cuando dicho alumnado haya sido adjudicado en los 
 listados primero o segundo en el centro de origen, hasta el 31 de octubre de 2025. A partir 
 de esta fecha, serán las familias de ese alumnado quienes se hagan cargo de la adquisición 
@@ -609,9 +570,6 @@ y de aquellos otros indispensables para el disfrute de la medida, a través de s
 corporativas o mediante consulta a las plataformas de intermediación de datos u otros 
 sistemas electrónicos habilitados al efecto.
 
-https://sede.gobiernodecanarias.org/boc
-boc-a-2025-087-1645
-Boletín Oficial de Canarias núm. 87 Viernes 2 de mayo de 202519055
 Por tanto, las unidades de responsables del alumnado solicitante que quieran participar 
 del proceso han de seleccionar las opciones que se correspondan con la situación económica 
 que deseen justificar:
@@ -652,9 +610,6 @@ La unidad dependiente de las personas responsables la constituye ambas personas
 responsables, las hijas e hijos menores de veinticinco años, y las hijas e hijos mayores de 
 edad incapacitadas/os judicialmente sujetos a patria potestad prorrogada o rehabilitada que 
 
-https://sede.gobiernodecanarias.org/boc
-boc-a-2025-087-1645
-Boletín Oficial de Canarias núm. 87 Viernes 2 de mayo de 202519056
 aparezcan en la relación nominal contenida en la disposición judicial y el correspondiente 
 convenio regulador.
 En estos casos, el ingreso real se acredita y se trata como los ingresos de las unidades 
@@ -696,9 +651,6 @@ dicha medida. Se indicará en aplicativo Pincel
 EKADE.
 Este alumnado obtendrá la ayuda automáticamente.
 
-https://sede.gobiernodecanarias.org/boc
-boc-a-2025-087-1645
-Boletín Oficial de Canarias núm. 87 Viernes 2 de mayo de 202519057
 B) Documentación acreditativa de los ingresos de la unidad de responsables del 
 alumnado solicitante:
 IRPF 2023 Certificado de IRPF o el Certificado de Imputaciones de la Agencia 
@@ -753,9 +705,6 @@ SEPE, si se encuentra en situación de desempleo.
 Otros Se contemplarán los ingresos derivados de rentas de capital del 
 ejercicio fiscal del año 2023.
 
-https://sede.gobiernodecanarias.org/boc
-boc-a-2025-087-1645
-Boletín Oficial de Canarias núm. 87 Viernes 2 de mayo de 202519058
 Cuando el nivel de ingresos haya variado de manera significativa en los dos últimos 
 años, se podrá aportar:
 a) Certificado de empresa acreditando el cambio de situación económica en la 
@@ -796,9 +745,6 @@ En caso de no aportar de esta documentación, no será posible realizar el cálc
 la renta de unidad dependiente de las personas responsables y, por tanto, no podría ser 
 beneficiario de ayuda.
 
-https://sede.gobiernodecanarias.org/boc
-boc-a-2025-087-1645
-Boletín Oficial de Canarias núm. 87 Viernes 2 de mayo de 202519059
 b.3.- Si la acreditación de la identidad se ha hecho mediante pasaporte, el solicitante 
 deberá aportar una Resolución de los servicios sociales municipales o un certificado de una 
 organización no gubernamental (ONG) incluida en el inventario de las entidades del Tercer 
@@ -842,9 +788,6 @@ f.2.- Certificado de ser beneficiario de una renta activa de inserción de
 SEPE, si se 
 encuentra en situación de desempleo.
 
-https://sede.gobiernodecanarias.org/boc
-boc-a-2025-087-1645
-Boletín Oficial de Canarias núm. 87 Viernes 2 de mayo de 202519060
 En cualquier momento del procedimiento, la administración podrá requerir la aportación 
 de los documentos originales justificativos para su comprobación por los medios que eviten 
 traslados innecesarios y aglomeraciones.
@@ -881,9 +824,6 @@ No procederá libramiento al centro educativo.
 b) No suficiencia de lotes pero existe disponibilidad presupuestaria para todas las 
 solicitudes. En aquellos niveles en los que el número de solicitudes sea superior al número 
 
-https://sede.gobiernodecanarias.org/boc
-boc-a-2025-087-1645
-Boletín Oficial de Canarias núm. 87 Viernes 2 de mayo de 202519061
 de lotes disponibles en los centros para dicho nivel, se procederá a resolver sin necesidad 
 de priorización de las solicitudes, según lo indicado en el apartado A.a).
 c) No suficiencia de lotes ni disponibilidad presupuestaria para todas las solicitudes, se 
@@ -923,9 +863,6 @@ la Comunidad Autónoma de Canarias, cada centro docente incorporará a sus Norma
 Organización y Funcionamiento los criterios básicos para el funcionamiento del préstamo 
 de los libros de texto en cuanto a su utilización y conservación.
 
-https://sede.gobiernodecanarias.org/boc
-boc-a-2025-087-1645
-Boletín Oficial de Canarias núm. 87 Viernes 2 de mayo de 202519062
 Asimismo, se constituirá en el seno del Consejo Escolar una Comisión de Seguimiento 
 integrada por representantes de los distintos sectores de la comunidad educativa con la 
 finalidad de coordinar todas las actuaciones necesarias, compuesta al menos por:
@@ -963,9 +900,6 @@ docentes. Si existiese en un determinado centro remanente derivado de las asigna
 préstamo de libros del curso 2024-2025, este se detraerá del correspondiente libramiento a 
 efectuar en el curso 2025-2026. En ningún caso debe reintegrarse el remanente cuando el 
 
-https://sede.gobiernodecanarias.org/boc
-boc-a-2025-087-1645
-Boletín Oficial de Canarias núm. 87 Viernes 2 de mayo de 202519063
 centro educativo haya tramitado solicitudes de ayudas de préstamo de libros y/o material 
 didáctico, independientemente de sus posteriores adjudicaciones o denegaciones.
 Los centros deberán incorporar las cantidades recibidas por este concepto a sus propios 
@@ -1012,9 +946,6 @@ de Educación, Cultura y Deportes, en relación a la justificación económica d
 docentes públicos. Los centros privados concertados quedarán sujetos al control de carácter 
 financiero del órgano competente en esta materia.
 
-https://sede.gobiernodecanarias.org/boc
-boc-a-2025-087-1645
-Boletín Oficial de Canarias núm. 87 Viernes 2 de mayo de 202519064
 Los centros públicos han de realizar la justificación económica en el aplicativo SIGECO.
 Los centros privados concertados deberán enviar la justificación económica por sede 
 electrónica un certificado de justificación de los ingresos y los gastos correspondientes a la 
@@ -1061,9 +992,6 @@ documentos posteriores que se harán llegar a los centros educativos y se public
 página web de la Consejería de Educación, Formación Profesional, Actividad Física y 
 Deportes.
 
-boc-a-2025-087-1645
-Boletín Oficial de Canarias núm. 87 Viernes 2 de mayo de 202519065
-https://sede.gobiernodecanarias.org/boc
 APÉNDICE I
 SOLICITUD PARA LA ENTREGA PRESENCIAL
 (en caso de no poder utilizar el Formulario Unificado de Matrícula)
@@ -1109,9 +1037,6 @@ APÉNDICE I
 SOLICITUD PARA LA ENTREGA PRESENCIAL
 (en caso de no poder utilizar el Formulario Unificado de Matrícula)
 
-boc-a-2025-087-1645
-Boletín Oficial de Canarias núm. 87 Viernes 2 de mayo de 202519066
-https://sede.gobiernodecanarias.org/boc
 DECLARACIÓN RESPONSABLE DE LA DOCUMENTACIÓN A APORTAR EN EL CENTRO EDUCATIVO
 Dispongo de los informes de los estudios realizados de discapacidad de la alumna/ o de la madre/padre, TutoraTutor Legal. 
 Dispongo de la resolución judicial o administrativa sobre la tutela o guardia y custodia de la alumna/o o de la sentencia de  
@@ -1145,9 +1070,6 @@ a no ser objeto de decisiones individualizadas basadas únicamente en el tratami
 responsable del Tratamiento. Información adicional:
 https://www.gobiernodecanarias.org/administracionespublicas/tratamientodedatos/tratamientos/
 
-boc-a-2025-087-1645
-Boletín Oficial de Canarias núm. 87 Viernes 2 de mayo de 202519067
-https://sede.gobiernodecanarias.org/boc
 APÉNDICE II
 ACEPTACIÓN DE PRÉSTAMO DE LIBROS DE TEXTO Y MATERIALES DIDÁCTICOS
 CENTRO DOCENTE: 
@@ -1176,9 +1098,6 @@ Fdo: _____________________________________
 APÉNDICE II
 ACEPTACIÓN DE PRÉSTAMO DE LIBROS DE TEXTO Y MATERIALES DIDÁCTICOS
 
-boc-a-2025-087-1645
-Boletín Oficial de Canarias núm. 87 Viernes 2 de mayo de 202519068
-https://sede.gobiernodecanarias.org/boc
 APÉNDICE III
 COMUNICACIÓN DEL DEBER DE REPOSICIÓN
 Estimada Familia:
@@ -1205,9 +1124,6 @@ El/La Director/a del Centro o Titular del Centro Privado Concertado,
 APÉNDICE III
 COMUNICACIÓN DEL DEBER DE REPOSICIÓN
 
-boc-a-2025-087-1645
-Boletín Oficial de Canarias núm. 87 Viernes 2 de mayo de 202519069
-https://sede.gobiernodecanarias.org/boc
 APÉNDICE IV
 Etiquetas que se incorporarán o actualizarán en los libros de texto y en las tablets al comienzo de 
 curso
@@ -1215,9 +1131,6 @@ APÉNDICE IV
 Etiquetas que se incorporarán o actualizarán en los libros de texto y en las tablets  
 al comienzo de curso
 
-boc-a-2025-087-1645
-Boletín Oficial de Canarias núm. 87 Viernes 2 de mayo de 202519070
-https://sede.gobiernodecanarias.org/boc
 APÉNDICE V
 MODELO DE SOLICITUD DE INSTANCIA DE SUBSANACIÓN DE LA AYUDA DE LIBROS DE 
 TEXTO  O MATERIAL DIDÁCTICO
@@ -1244,9 +1157,6 @@ LIBROS DE TEXTO O MATERIAL DIDÁCTICO
 (Se entrega y gestiona en el centro educativo, cargando los nuevos  
 datos en Pincel EKADE)
 
-boc-a-2025-087-1645
-Boletín Oficial de Canarias núm. 87 Viernes 2 de mayo de 202519071
-https://sede.gobiernodecanarias.org/boc
 APÉNDICE VI
 MODELO DE SOLICITUD DE INSTANCIA DE RECLAMACIÓN DE LA AYUDA DE LIBROS 
 DE TEXTO  O MATERIAL DIDÁCTICO
@@ -1273,9 +1183,6 @@ LIBROS DE TEXTO O MATERIAL DIDÁCTICO
 (Se entrega y gestiona en el centro educativo, cargando los nuevos datos  
 en Pincel EKADE)
 
-boc-a-2025-087-1645
-Boletín Oficial de Canarias núm. 87 Viernes 2 de mayo de 202519072
-https://sede.gobiernodecanarias.org/boc
 APÉNDICE VII
 MODELO DE SOLICITUD DE RECURSO DE REPOSICIÓN DE LA AYUDA DE LIBROS DE 
 TEXTO O MATERIAL DIDÁCTICO
@@ -1308,9 +1215,6 @@ En _____________________________, a _______ de _______________ de ____________
 Firma del solicitante: ____________________________________
 SERVICIO DE PROGRAMAS EDUCATIVOS Y ACTIVIDADES EXTRAESCOLARES
 
-boc-a-2025-087-1645
-Boletín Oficial de Canarias núm. 87 Viernes 2 de mayo de 202519073
-https://sede.gobiernodecanarias.org/boc
 APÉNDICE VIII
 MODELO DE RENUNCIA 
 A LA AYUDA DE LIBROS/MATERIALES DIDÁCTICOS CONCEDIDA
@@ -1338,9 +1242,6 @@ APÉNDICE VIII
 MODELO DE RENUNCIA
 A LA AYUDA DE LIBROS/MATERIALES DIDÁCTICOS CONCEDIDA
 
-boc-a-2025-087-1645
-Boletín Oficial de Canarias núm. 87 Viernes 2 de mayo de 202519074
-https://sede.gobiernodecanarias.org/boc
 APÉNDICE IX
 ASPECTOS IMPORTANTES A TENER EN CUENTA EN EL PROCEDIMIENTO DE SOLICITUD, 
 ADQUISICIÓN O PRÉSTAMO DE LIBROS DE TEXTO, MATERIAL TECNOLÓGICO Y MATERIALES 
@@ -1411,9 +1312,6 @@ nivel en este curso escolar.
 5.- Los importes de las cuantías de ayudas para el curso 2025/2026 quedan establecidas 
 según la tabla:
 
-boc-a-2025-087-1645
-Boletín Oficial de Canarias núm. 87 Viernes 2 de mayo de 202519075
-https://sede.gobiernodecanarias.org/boc
 6.- Quedará excluido del disfrute del préstamo de los libros de texto aquel alumnado beneficiario que en el  
 curso anterior no haya cumplido con las obligaciones exigidas, y así se haya determinado en el acto dictado al 
 efecto por la comisión competente, establecida dentro del Consejo Escolar.  El centro deberá informar al  
@@ -1479,9 +1377,6 @@ ayuda de préstamo de libros y/o material didáctico. Esta información es neces
 proceder a la denegación de la solicitud en el aplicativo WEBGesALT.
 7.- Fases del proceso:
 
-boc-a-2025-087-1645
-Boletín Oficial de Canarias núm. 87 Viernes 2 de mayo de 202519076
-https://sede.gobiernodecanarias.org/boc
 Recurso
 Se  trasladarán  los  recursos  presentados  por  las 
 familias  al  Servicio  de  Programas  Educativos  y 
@@ -1669,9 +1564,6 @@ Se  indicará  esta  situación  en  Pincel  EKADE  o
 WEBGesALT.
 Se adjudicará la ayuda automáticamente.
 
-boc-a-2025-087-1645
-Boletín Oficial de Canarias núm. 87 Viernes 2 de mayo de 202519077
-https://sede.gobiernodecanarias.org/boc
 compartida. Relación  nominal  de  hijos/as  a  cargo  contenida  en  la 
 disposición  judicial  y  el  correspondiente  convenio 
 regulador.
@@ -1783,9 +1675,6 @@ No hay nacionalidad española,  se debe  añadir un cero en los
 datos no intermediados de IRPF.
 Responsable  con  mensaje  de  información No  hay  nacionalidad  española.  No  dispone  de  NIE.  Se 
 
-boc-a-2025-087-1645
-Boletín Oficial de Canarias núm. 87 Viernes 2 de mayo de 202519078
-https://sede.gobiernodecanarias.org/boc
 Situación 
 económica Documentación de justificación económica, intermediada o no
 En activo 
@@ -1933,9 +1822,6 @@ solicitante:
 Las discapacidades deben acreditarse documentalmente en la confirmación de matrícula en el centro 
 educativo.
 
-boc-a-2025-087-1645
-Boletín Oficial de Canarias núm. 87 Viernes 2 de mayo de 202519079
-https://sede.gobiernodecanarias.org/boc
 intermediada  de  IRPF  «No  hay  información 
 adicional».
 encuentra viviendo en España desde el año 2024 o 2025.
@@ -2056,9 +1942,6 @@ partida correspondiente al Préstamo de Ayudas de libros de texto y materiales d
 de la etapa por la que su centro participe (según lo expuesto en el punto séptimo del anexo 
 de la convocatoria).
 
-https://sede.gobiernodecanarias.org/boc
-boc-a-2025-087-1645
-Boletín Oficial de Canarias núm. 87 Viernes 2 de mayo de 202519080
 11.2.- Los centros han de registrar los apuntes contables de los ingresos recibidos y los 
 gastos realizados durante el proceso del curso.
 Los centros públicos han de realizarlo en el aplicativo SIGECO.

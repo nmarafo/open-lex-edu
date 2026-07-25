@@ -28,9 +28,6 @@ fuente_pdf_oficial: https://sede.gobiernodecanarias.org/boc/boc-a-2024-125-2080.
 
 # Resolución de 20 de junio de 2024
 
-https://sede.gobiernodecanarias.org/boc
-boc-a-2024-125-2080
-Boletín Oficial de Canarias núm. 125 Jueves 27 de junio de 202420292
 III. Otras Resoluciones
 Consejería de Educación, Formación Profesional, Actividad Física y Deportes
 2080 Dirección General de Administración de Centros, Escolarización y Servicios 
@@ -72,9 +69,6 @@ Tercero.- La Orden de 12 de mayo de 2016, por la que se regulan la composición
 y el procedimiento para la constitución y la renovación de los consejos escolares de los 
 centros educativos sostenidos con fondos públicos del ámbito de la Comunidad Autónoma 
 
-https://sede.gobiernodecanarias.org/boc
-boc-a-2024-125-2080
-Boletín Oficial de Canarias núm. 125 Jueves 27 de junio de 202420293
 de Canarias, actualiza el marco normativo para el procedimiento de la elección, renovación 
 y constitución de este órgano colegiado, incluyendo los Consejos de los CER.
 Cuarto.- La Resolución de 3 de junio de 2024, por la que se convoca el proceso y se 
@@ -113,9 +107,6 @@ Cuarto.- Renovación o nueva constitución.
 de los sectores del alumnado y de los padres y madres del alumnado y para la renovación 
 parcial de los representantes del equipo pedagógico.
 
-https://sede.gobiernodecanarias.org/boc
-boc-a-2024-125-2080
-Boletín Oficial de Canarias núm. 125 Jueves 27 de junio de 202420294
 2. De igual manera, mediante la presente convocatoria se deberá cubrir el representante 
 de cada uno de los ayuntamientos, para cuyo puesto de designación se procederá de 
 conformidad con lo previsto en el artículo 18 de la Orden de 12 de mayo de 2016.
@@ -156,9 +147,6 @@ El derecho a elegir y ser elegido representante en la renovación o nueva consti
 lo ostentan los padres, madres o personas tutoras legales del alumnado, y los alumnos 
 o las alumnas que formen parte de los consejos escolares de las escuelas unitarias del 
 
-https://sede.gobiernodecanarias.org/boc
-boc-a-2024-125-2080
-Boletín Oficial de Canarias núm. 125 Jueves 27 de junio de 202420295
 ámbito del CER, elegidos entre ellos, así como los maestros o maestras que compongan el 
 equipo pedagógico, tal y como estipula el artículo 22 en concordancia con el 20, ambos del 
 indicado Decreto 109/1999, de 25 de mayo.
@@ -198,9 +186,6 @@ señalará con una cruz la candidatura o las candidaturas por las que vota. Si l
 de acuerdo con sus competencias, hubiera establecido el modelo de papeleta, este se hará 
 público en el tablón de anuncios y en la web del CER, en su caso.
 
-https://sede.gobiernodecanarias.org/boc
-boc-a-2024-125-2080
-Boletín Oficial de Canarias núm. 125 Jueves 27 de junio de 202420296
 2. En las papeletas de votos del alumnado se harán constar, además, el curso y el centro 
 al que pertenezca el candidato o la candidata.
 3. La Junta electoral del CER facilitará a los candidatos y las candidatas proclamados 
@@ -233,9 +218,6 @@ Esta carga de datos configurará el Documento Resumen.
 2. Esta aplicación se encuentra ubicada en el Portal Docente-Centros/Escritorio del 
 Centro/Gestiones Generales/Elecciones al Consejo CER.
 
-https://sede.gobiernodecanarias.org/boc
-boc-a-2024-125-2080
-Boletín Oficial de Canarias núm. 125 Jueves 27 de junio de 202420297
 Decimoquinto.- Reclamaciones e impugnaciones.
 1. La Junta electoral resolverá en primera instancia las reclamaciones sobre cualquier 
 cuestión relativa al proceso electoral.
@@ -273,9 +255,6 @@ número de miembros que componen, de forma efectiva, el Consejo del CER.
 retrasarse, debiendo contar, en todo caso, con la autorización de la Dirección Territorial de 
 Educación correspondiente.
 
-https://sede.gobiernodecanarias.org/boc
-boc-a-2024-125-2080
-Boletín Oficial de Canarias núm. 125 Jueves 27 de junio de 202420298
 Decimoctavo.- Difusión del proceso electoral.
 1. La Consejería de Educación, Formación Profesional, Actividad Física y Deportes, 
 a través del Programa Familia y Participación Educativa de la Dirección General de 
@@ -316,9 +295,6 @@ de los centros, facilitarán que aquellos miembros de los Consejos Escolares que
 proclamados candidatos y candidatas, puedan darse a conocer a los electores, a través de 
 procedimientos que no alteren el normal funcionamiento de los centros.
 
-https://sede.gobiernodecanarias.org/boc
-boc-a-2024-125-2080
-Boletín Oficial de Canarias núm. 125 Jueves 27 de junio de 202420299
 Vigésimo.- Colaboración.
 Las direcciones de los diferentes centros escolares de cada CER prestarán la máxima 
 colaboración con aquellas actuaciones que les correspondan por lo establecido en la 
@@ -349,9 +325,6 @@ Las Palmas de Gran Canaria, a 20 de junio de 2024.- La Directora General de
 Administración de Centros, Escolarización y Servicios Complementarios, Carolina León 
 Martínez.
 
-boc-a-2024-125-2080
-Boletín Oficial de Canarias núm. 125 Jueves 27 de junio de 202420300
-https://sede.gobiernodecanarias.org/boc
 ANEXO
 CALENDARIO DEL PROCESO ELECTORAL
 RENOVACIÓN PARCIAL O NUEVA CONSTITUCIÓN  DE LOS CONSEJOS DE LOS CER
@@ -401,9 +374,6 @@ CALENDARIO DEL PROCESO ELECTORAL
 RENOV ACIÓN PARCIAL O NUEV A CONSTITUCIÓN DE LOS CONSEJOS  
 DE LOS CER CURSO 2024-2025
 
-boc-a-2024-125-2080
-Boletín Oficial de Canarias núm. 125 Jueves 27 de junio de 202420301
-https://sede.gobiernodecanarias.org/boc
 CONVOCATORIA DE ELECCIONES AL CONSEJO DEL CER
 CONVOCATORIA 
 Hasta el martes 28
@@ -453,9 +423,6 @@ número de votos obtenidos por cada persona candidata.
  Recepción de escrito con el nombre de la persona designada por el ayuntamiento o
 ayuntamientos.
 
-boc-a-2024-125-2080
-Boletín Oficial de Canarias núm. 125 Jueves 27 de junio de 202420302
-https://sede.gobiernodecanarias.org/boc
 Desde el lunes 10
 hasta el viernes 21
 de febrero

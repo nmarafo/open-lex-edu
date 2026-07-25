@@ -30,9 +30,6 @@ fuente_pdf_oficial: https://sede.gobiernodecanarias.org/boc/boc-a-2023-133-2236.
 
 # Resolución de 27 de junio de 2023, de la Dirección General de Formación Profesional y Educación de Adultos por la que se dictan instrucciones específicas sobre organización y funcionamiento de la Escuela Oficial de Idiomas a Distancia de Canarias. (BOC n.º 133, de 10 de julio).
 
-https://sede.gobiernodecanarias.org/boc
-boc-a-2023-133-2236
-Boletín Oficial de Canarias núm. 133 Lunes 10 de julio de 202341253
 III. Otras Resoluciones
 Consejería de Educación, Universidades, Cultura y Deportes
 2236 Dirección General de Formación Profesional y Educación de Adultos.- Resolución 
@@ -71,9 +68,6 @@ Segundo.- La Ley 6/2014, de 25 de julio, Canaria de Educación no Universitaria,
 complementa esta definición de las Enseñanzas de Régimen Especial, a las que dedica su 
 Capítulo III, en el que establece que los objetivos de estas enseñanzas, su organización y 
 
-https://sede.gobiernodecanarias.org/boc
-boc-a-2023-133-2236
-Boletín Oficial de Canarias núm. 133 Lunes 10 de julio de 202341254
 el acceso, la evaluación y la obtención del título correspondiente se realizarán de acuerdo 
 con lo recogido en la normativa básica del Estado. Además, en su artículo 35 se refiere a 
 las escuelas oficiales de idiomas, y regula aspectos básicos de las enseñanzas, tales como 
@@ -120,9 +114,6 @@ Primero.- Dictar las instrucciones específicas sobre organización y funcionami
 la Escuela Oficial de Idiomas a Distancia de Canarias que figuran en el anexo de la presente 
 Resolución.
 
-https://sede.gobiernodecanarias.org/boc
-boc-a-2023-133-2236
-Boletín Oficial de Canarias núm. 133 Lunes 10 de julio de 202341255
 Segundo.- Ordenar su publicación en el Boletín Oficial de Canarias para general 
 conocimiento y encomendar al equipo directivo de este centro docente que desarrolle el 
 procedimiento más adecuado para que la presente Resolución sea conocida y difundida 
@@ -139,9 +130,6 @@ cualesquiera otros que se estime procedente interponer.
 Santa Cruz de Tenerife, a 27 de junio de 2023.- La Directora General de Formación 
 Profesional y Educación de Adultos, María Rosario Gañan Pérez.
 
-https://sede.gobiernodecanarias.org/boc
-boc-a-2023-133-2236
-Boletín Oficial de Canarias núm. 133 Lunes 10 de julio de 202341256
 ANEXO
 1. Objeto y ámbito de aplicación.
 1.1. La presente Resolución tiene por objeto dictar instrucciones específicas sobre la 
@@ -179,9 +167,6 @@ e. La corrección y evaluación de las actividades y tareas, con la posibilidad 
 retroalimentación, por parte del profesorado;
 f. La realización de actividades de autoevaluación y coevaluación;
 
-https://sede.gobiernodecanarias.org/boc
-boc-a-2023-133-2236
-Boletín Oficial de Canarias núm. 133 Lunes 10 de julio de 202341257
 g. La utilización de mecanismos de heteroevaluación;
 h. El seguimiento del progreso por parte del alumnado a través de un libro de 
 calificaciones.
@@ -223,9 +208,6 @@ síncrona y asíncrona condiciona los aspectos metodológicos de diferentes form
 lado, es clave tener en cuenta el uso de la tecnología y cómo optimizarla. Estas herramientas 
 tecnológicas deben tener en cuenta tanto la actividad educativa síncrona como la asíncrona, 
 
-https://sede.gobiernodecanarias.org/boc
-boc-a-2023-133-2236
-Boletín Oficial de Canarias núm. 133 Lunes 10 de julio de 202341258
 haciendo un correcto uso de aquellas que se adapten mejor en cada contexto. Sin embargo, 
 el uso de la tecnología no puede ser un fin en sí mismo, sino un instrumento para que 
 el aprendizaje se produzca y, por lo tanto, ha de estar al servicio del profesorado y el 
@@ -272,9 +254,6 @@ Escuela Oficial de Idiomas a Distancia de Canarias que desee presentarse a las P
 de Certificación de Enseñanzas de Idiomas de Régimen Especial deberá hacerlo de forma 
 presencial, en su isla de residencia.
 
-https://sede.gobiernodecanarias.org/boc
-boc-a-2023-133-2236
-Boletín Oficial de Canarias núm. 133 Lunes 10 de julio de 202341259
 4. Modalidad y formato de los cursos.
 4.1. La Escuela Oficial de Idiomas a Distancia ofrecerá cursos reglados y cursos de 
 especialización en modalidad a distancia en línea.
@@ -346,9 +325,6 @@ B1 B1.1 + B1.2
 B2 B2.1 + B2.2
 C1 C1.1 + C1.2
 
-https://sede.gobiernodecanarias.org/boc
-boc-a-2023-133-2236
-Boletín Oficial de Canarias núm. 133 Lunes 10 de julio de 202341260
 4.4. Se ofertarán cursos de especialización de preparación de pruebas de certificación 
 de idiomas. Estos cursos tienen una duración de 60 horas y se imparten entre septiembre 
 y enero, los cursos de primer cuatrimestre, y entre enero y mayo, los cursos de segundo 
@@ -387,9 +363,6 @@ de coordinación didáctica y se recogerá en su programación.
 5.2. El número de horas lectivas síncronas dependerán del tipo de curso, esto es, el 
 formato, la duración y el número de horas, según se recoge en la siguiente tabla:
 
-https://sede.gobiernodecanarias.org/boc
-boc-a-2023-133-2236
-Boletín Oficial de Canarias núm. 133 Lunes 10 de julio de 202341261
 Formato Duración N.º
 Horas
 Horas lectivas del bloque síncrono
@@ -436,9 +409,6 @@ en la mejora continua del centro. Esta autoevaluación deberá incidir sobre aqu
 particularidades de estas enseñanzas, por ejemplo, la calidad de los recursos pedagógico, la 
 comunicación con la administración y el profesorado, entre otros.
 
-https://sede.gobiernodecanarias.org/boc
-boc-a-2023-133-2236
-Boletín Oficial de Canarias núm. 133 Lunes 10 de julio de 202341262
 g. Diseñar protocolos de comunicación -telefónica, por videoconferencia y otros 
 medios de telecomunicación- entre los distintos sectores de la comunidad educativa y velar 
 por su cumplimiento.
@@ -477,9 +447,6 @@ celeridad.
 d. Proponer medidas de evaluación y recuperación con el fin de atender a los distintos 
 perfiles de alumnado y facilitar su proceso de aprendizaje y progreso académico.
 
-https://sede.gobiernodecanarias.org/boc
-boc-a-2023-133-2236
-Boletín Oficial de Canarias núm. 133 Lunes 10 de julio de 202341263
 8. Departamentos de coordinación didáctica.
 Además de aquellas competencias recogidas en el artículo 30 del Decreto 8/2010, de 
 8 de julio, los departamentos de coordinación didáctica, con la jefatura al frente, tendrán 
@@ -518,9 +485,6 @@ alumnado sentirse acompañado en su proceso de aprendizaje.
 del aprendizaje a distancia en línea y por el perfil de un alumnado adulto, se requiere 
 una atención especializada durante su aprendizaje, tanto con orientación y asesoramiento 
 
-https://sede.gobiernodecanarias.org/boc
-boc-a-2023-133-2236
-Boletín Oficial de Canarias núm. 133 Lunes 10 de julio de 202341264
 pedagógico como técnico. Por lo tanto, resulta esencial la atención docente constante para 
 atender a las demandas de un alumnado a menudo necesitado de orientación y respuestas 
 inmediatas. Por ello, el profesorado de la escuela guiará a su alumnado para avanzar con 
@@ -560,9 +524,6 @@ prolongada, de cara a disminuir y prevenir el absentismo y abandono.
 Distancia de Canarias será la establecida en la Orden de 9 de octubre de 2013, por la que se 
 desarrolla el Decreto 81/2010, de 8 de julio, por el que se aprueba el Reglamento Orgánico 
 
-https://sede.gobiernodecanarias.org/boc
-boc-a-2023-133-2236
-Boletín Oficial de Canarias núm. 133 Lunes 10 de julio de 202341265
 de los centros docentes públicos no universitarios de la Comunidad Autónoma de Canarias, 
 modificada por la Orden de 16 de julio de 2019.
 10.2. El horario de obligada permanencia en el centro se distribuirá de lunes a viernes 
@@ -596,9 +557,6 @@ d. Administración de las pruebas presenciales.
 11.1. La enseñanza a distancia en línea requiere de un profesorado con un alto grado 
 de competencia digital que esté capacitado en el uso de las herramientas tecnológicas y 
 
-https://sede.gobiernodecanarias.org/boc
-boc-a-2023-133-2236
-Boletín Oficial de Canarias núm. 133 Lunes 10 de julio de 202341266
 metodológicas indispensables para impartir docencia en entornos virtuales de aprendizaje. 
 Por lo tanto, la Administración educativa competente determinará la formación y 
 actualización que este profesorado debe acreditar para cumplir con el perfil que se precisa.

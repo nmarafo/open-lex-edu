@@ -28,16 +28,13 @@ fundamentos_derecho:
 
 # Ley Orgánica 10/1995, de 23 de noviembre, del Código Penal.
 
-
 **JUAN CARLOS I**
-
 
 **REY DE ESPAÑA**
 
 A todos los que la presente vieren y entendieren.
 
 Sabed: Que las Cortes Generales han aprobado y Yo vengo en sancionar la siguiente Ley Orgánica:
-
 
 **EXPOSICION DE MOTIVOS**
 
@@ -69,12 +66,9 @@ En la elaboración del proyecto se han tenido muy presentes las discusiones parl
 
 No se pretende haber realizado una obra perfecta, sino, simplemente, una obra útil. El Gobierno no tiene aquí la última palabra, sino solamente la primera. Se limita, pues, con este proyecto, a pronunciarla, invitando a todas las fuerzas políticas y a todos los ciudadanos a colaborar en la tarea de su perfeccionamiento. Solamente si todos deseamos tener un Código Penal mejor y contribuimos a conseguirlo podrá lograrse un objetivo cuya importancia para la convivencia y el pacífico disfrute de los derechos y libertades que la Constitución proclama difícilmente podría exagerarse.
 
-
 **TITULO PRELIMINAR**
 
-
 **De las garantías penales y de la aplicación de la Ley penal**
-
 
 #### Artículo 1.
 
@@ -82,20 +76,17 @@ No se pretende haber realizado una obra perfecta, sino, simplemente, una obra ú
 
 2. Las medidas de seguridad sólo podrán aplicarse cuando concurran los presupuestos establecidos previamente por la Ley.
 
-
 #### Artículo 2.
 
 1. No será castigado ningún delito ni falta con pena que no se halle prevista por Ley anterior a su perpetración. Carecerán, igualmente, de efecto retroactivo las Leyes que establezcan medidas de seguridad.
 
 2. No obstante, tendrán efecto retroactivo aquellas leyes penales que favorezcan al reo, aunque al entrar en vigor hubiera recaído sentencia firme y el sujeto estuviese cumpliendo condena. En caso de duda sobre la determinación de la Ley más favorable, será oído el reo. Los hechos cometidos bajo la vigencia de una Ley temporal serán juzgados, sin embargo, conforme a ella, salvo que se disponga expresamente lo contrario.
 
-
 #### Artículo 3.
 
 1. No podrá ejecutarse pena ni medida de seguridad sino en virtud de sentencia firme dictada por el Juez o Tribunal competente, de acuerdo con las leyes procesales.
 
 2. Tampoco podrá ejecutarse pena ni medida de seguridad en otra forma que la prescrita por la Ley y reglamentos que la desarrollan, ni con otras circunstancias o accidentes que los expresados en su texto. La ejecución de la pena o de la medida de seguridad se realizará bajo el control de los Jueces y Tribunales competentes.
-
 
 #### Artículo 4.
 
@@ -109,11 +100,9 @@ No se pretende haber realizado una obra perfecta, sino, simplemente, una obra ú
 
 También podrá el Juez o Tribunal suspender la ejecución de la pena, mientras no se resuelva sobre el indulto cuando, de ser ejecutada la sentencia, la finalidad de éste pudiera resultar ilusoria.
 
-
 #### Artículo 5.
 
 No hay pena sin dolo o imprudencia.
-
 
 #### Artículo 6.
 
@@ -121,11 +110,9 @@ No hay pena sin dolo o imprudencia.
 
 2. Las medidas de seguridad no pueden resultar ni más gravosas ni de mayor duración que la pena abstractamente aplicable al hecho cometido, ni exceder el límite de lo necesario para prevenir la peligrosidad del autor.
 
-
 #### Artículo 7.
 
 A los efectos de determinar la Ley penal aplicable en el tiempo, los delitos y faltas se consideran cometidos en el momento en que el sujeto ejecuta la acción u omite el acto que estaba obligado a realizar.
-
 
 #### Artículo 8.
 
@@ -139,7 +126,6 @@ Los hechos susceptibles de ser calificados con arreglo a dos o más preceptos de
 
 4.ª En defecto de los criterios anteriores, el precepto penal más grave excluirá los que castiguen el hecho con pena menor.
 
-
 #### Artículo 9.
 
 Las disposiciones de este Título se aplicarán a los delitos y faltas que se hallen penados por leyes especiales. Las restantes disposiciones de este Código se aplicarán como supletorias en lo no previsto expresamente por aquéllas.
@@ -148,9 +134,7 @@ LIBRO I
 
 Disposiciones generales sobre los delitos y las faltas, las personas responsables, las penas, medidas de seguridad y demás consecuencias de la infracción penal
 
-
 **TITULO I**
-
 
 **De la infracción penal**
 
@@ -158,11 +142,9 @@ CAPITULO I
 
 De los delitos y faltas
 
-
 #### Artículo 10.
 
 Son delitos o faltas las acciones y omisiones dolosas o imprudentes penadas por la Ley.
-
 
 #### Artículo 11.
 
@@ -172,11 +154,9 @@ a) Cuando exista una específica obligación legal o contractual de actuar.
 
 b) Cuando el omitente haya creado una ocasión de riesgo para el bien jurídicamente protegido mediante una acción u omisión precedente.
 
-
 #### Artículo 12.
 
 Las acciones u omisiones imprudentes sólo se castigarán cuando expresamente lo disponga la Ley.
-
 
 #### Artículo 13.
 
@@ -188,7 +168,6 @@ Las acciones u omisiones imprudentes sólo se castigarán cuando expresamente lo
 
 4. Cuando la pena, por su extensión, pueda incluirse a la vez entre las mencionadas en los dos primeros números de este artículo, el delito se considerará, en todo caso, como grave.
 
-
 #### Artículo 14.
 
 1. El error invencible sobre un hecho constitutivo de la infracción penal excluye la responsabilidad criminal. Si el error, atendidas las circunstancias del hecho y las personales del autor, fuera vencible, la infracción será castigada, en su caso, como imprudente.
@@ -197,13 +176,11 @@ Las acciones u omisiones imprudentes sólo se castigarán cuando expresamente lo
 
 3. El error invencible sobre la ilicitud del hecho constitutivo de la infracción penal excluye la responsabilidad criminal. Si el error fuera vencible, se aplicará la pena inferior en uno o dos grados.
 
-
 #### Artículo 15.
 
 1. Son punibles el delito consumado y la tentativa de delito.
 
 2. Las faltas sólo se castigarán cuando hayan sido consumadas, excepto las intentadas contra las personas o el patrimonio.
-
 
 #### Artículo 16.
 
@@ -213,7 +190,6 @@ Las acciones u omisiones imprudentes sólo se castigarán cuando expresamente lo
 
 3. Cuando en un hecho intervengan varios sujetos, quedarán exentos de responsabilidad penal aquél o aquéllos que desistan de la ejecución ya iniciada, e impidan o intenten impedir, seria, firme y decididamente, la consumación, sin perjuicio de la responsabilidad en que pudieran haber incurrido por los actos ejecutados, si éstos fueren ya constitutivos de otro delito o falta.
 
-
 #### Artículo 17.
 
 1. La conspiración existe cuando dos o más personas se conciertan para la ejecución de un delito y resuelven ejecutarlo.
@@ -221,7 +197,6 @@ Las acciones u omisiones imprudentes sólo se castigarán cuando expresamente lo
 2. La proposición existe cuando el que ha resuelto cometer un delito invita a otra u otras personas a ejecutarlo.
 
 3. La conspiración y la proposición para delinquir sólo se castigarán en los casos especialmente previstos en la Ley.
-
 
 #### Artículo 18.
 
@@ -237,13 +212,11 @@ CAPITULO II
 
 De las causas que eximen de la responsabilidad criminal
 
-
 #### Artículo 19.
 
 Los menores de dieciocho años no serán responsables criminalmente con arreglo a este Código.
 
 Cuando un menor de dicha edad cometa un hecho delictivo podrá ser responsable con arreglo a lo dispuesto en la ley que regule la responsabilidad penal del menor.
-
 
 #### Artículo 20.
 
@@ -283,7 +256,6 @@ CAPITULO III
 
 De las circunstancias que atenúan la responsabilidad criminal
 
-
 #### Artículo 21.
 
 Son circunstancias atenuantes:
@@ -303,7 +275,6 @@ Son circunstancias atenuantes:
 CAPITULO IV
 
 De las circunstancias que agravan la responsabilidad criminal
-
 
 #### Artículo 22.
 
@@ -335,7 +306,6 @@ CAPITULO V
 
 De la circunstancia mixta de parentesco
 
-
 #### Artículo 23.
 
 Es circunstancia que puede atenuar o agravar la responsabilidad según la naturaleza, los motivos y los efectos del delito, ser el agraviado cónyuge o persona a quien se halle ligado de forma estable por análoga relación de afectividad, ascendiente, descendiente o hermano por naturaleza, por adopción o afinidad en los mismos grados del ofensor.
@@ -344,34 +314,27 @@ CAPITULO VI
 
 Disposiciones generales
 
-
 #### Artículo 24.
 
 1. A los efectos penales se reputará autoridad al que por sí solo o como miembro de alguna corporación, tribunal u órgano colegiado tenga mando o ejerza jurisdicción propia. En todo caso, tendrán la consideración de autoridad los miembros del Congreso de los Diputados, del Senado, de las Asambleas Legislativas de las Comunidades Autónomas y del Parlamento Europeo. Se reputará también autoridad a los funcionarios del Ministerio Fiscal.
 
 2. Se considerará funcionario público todo el que por disposición inmediata de la Ley o por elección o por nombramiento de autoridad competente participe en el ejercicio de funciones públicas.
 
-
 #### Artículo 25.
 
 A los efectos de este Código se considera incapaz a toda persona, haya sido o no declarada su incapacitación, que padezca una enfermedad de carácter persistente que le impida gobernar su persona o bienes por sí misma.
-
 
 #### Artículo 26.
 
 A los efectos de este Código se considera documento todo soporte material que exprese o incorpore datos, hechos o narraciones con eficacia probatoria o cualquier otro tipo de relevancia jurídica.
 
-
 **TITULO II**
 
-
 **De las personas criminalmente responsables de los delitos y faltas**
-
 
 #### Artículo 27.
 
 Son responsables criminalmente de los delitos y faltas los autores y los cómplices.
-
 
 #### Artículo 28.
 
@@ -383,11 +346,9 @@ a) Los que inducen directamente a otro u otros a ejecutarlo.
 
 b) Los que cooperan a su ejecución con un acto sin el cual no se habría efectuado.
 
-
 #### Artículo 29.
 
 Son cómplices los que, no hallándose comprendidos en el artículo anterior, cooperan a la ejecución del hecho con actos anteriores o simultáneos.
-
 
 #### Artículo 30.
 
@@ -405,14 +366,11 @@ Son cómplices los que, no hallándose comprendidos en el artículo anterior, co
 
 3. Cuando por cualquier motivo distinto de la extinción de la responsabilidad penal, incluso la declaración de rebeldía o la residencia fuera de España, no pueda perseguirse a ninguna de las personas comprendidas en alguno de los números del apartado anterior, se dirigirá el procedimiento contra las mencionadas en el número inmediatamente posterior.
 
-
 #### Artículo 31.
 
 El que actúe como administrador de hecho o de derecho de una persona jurídica, o en nombre o representación legal o voluntaria de otro, responderá personalmente, aunque no concurran en él las condiciones, cualidades o relaciones que la correspondiente figura de delito o falta requiera para poder ser sujeto activo del mismo, si tales circunstancias se dan en la entidad o persona en cuyo nombre o representación obre.
 
-
 **TITULO III**
-
 
 **De las penas**
 
@@ -422,11 +380,9 @@ De las penas, sus clases y efectos
 
 SECCIÓN 1.ª DE LAS PENAS Y SUS CLASES
 
-
 #### Artículo 32.
 
 Las penas que pueden imponerse con arreglo a este Código, bien con carácter principal bien como accesorias, son privativas de libertad, privativas de otros derechos y multa.
-
 
 #### Artículo 33.
 
@@ -486,7 +442,6 @@ e) Los trabajos en beneficio de la comunidad de dieciséis a noventa y seis hora
 
 6. Las penas accesorias tendrán la duración que respectivamente tenga la pena principal.
 
-
 #### Artículo 34.
 
 No se reputarán penas:
@@ -499,18 +454,15 @@ No se reputarán penas:
 
 SECCIÓN 2.ª DE LAS PENAS PRIVATIVAS DE LIBERTAD
 
-
 #### Artículo 35.
 
 Son penas privativas de libertad la prisión, el arresto de fin de semana y la responsabilidad personal subsidiaria por impago de multa.
-
 
 #### Artículo 36.
 
 La pena de prisión tendrá una duración mínima de seis meses y máxima de veinte años, salvo lo que excepcionalmente dispongan otros preceptos del presente Código.
 
 Su cumplimiento, así como los beneficios penitenciarios que supongan acortamiento de la condena, se ajustarán a lo dispuesto en las Leyes y en el presente Código.
-
 
 #### Artículo 37.
 
@@ -524,7 +476,6 @@ No obstante lo dispuesto en el párrafo anterior, si las circunstancias lo acons
 
 4. Las demás circunstancias de ejecución se establecerán reglamentariamente de acuerdo con lo dispuesto en la Ley penitenciaria, cuyas normas se aplicarán supletoriamente en lo no previsto expresamente en este Código.
 
-
 #### Artículo 38.
 
 1. Cuando el reo estuviere preso, la duración de las penas empezará a computarse desde el día en que la sentencia condenatoria haya quedado firme.
@@ -532,7 +483,6 @@ No obstante lo dispuesto en el párrafo anterior, si las circunstancias lo acons
 2. Cuando el reo no estuviere preso, la duración de las penas empezará a contarse desde que ingrese en el establecimiento adecuado para su cumplimiento.
 
 SECCIÓN 3.ª DE LAS PENAS PRIVATIVAS DE DERECHOS
-
 
 #### Artículo 39.
 
@@ -552,41 +502,33 @@ f) La privación del derecho a residir en determinados lugares o acudir a ellos.
 
 g) Los trabajos en beneficio de la comunidad.
 
-
 #### Artículo 40.
 
 La pena de inhabilitación absoluta tendrá una duración de seis a veinte años, las de inhabilitación especial, de seis meses a veinte años, la de suspensión de empleo o cargo público, de seis meses a seis años, la de privación del derecho a conducir vehículos a motor y ciclomotores y la de privación del derecho a la tenencia y porte de armas, de tres meses a diez años; la de privación del derecho a residir o acudir a determinados lugares, de seis meses a cinco años; y la de trabajos en beneficio de la comunidad, de un día a un año.
-
 
 #### Artículo 41.
 
 La pena de inhabilitación absoluta produce la privación definitiva de todos los honores, empleos y cargos públicos que tenga el penado, aunque sean electivos. Produce, además, la incapacidad para obtener los mismos o cualesquiera otros honores, cargos o empleos públicos, y la de ser elegido para cargo público, durante el tiempo de la condena.
 
-
 #### Artículo 42.
 
 La pena de inhabilitación especial para empleo o cargo público produce la privación definitiva del empleo o cargo sobre el que recayere y de los honores que le sean anejos. Produce, además, la incapacidad para obtener el mismo u otros análogos, durante el tiempo de la condena. En la sentencia habrán de especificarse los empleos, cargos y honores sobre los que recae la inhabilitación.
-
 
 #### Artículo 43.
 
 La suspensión de empleo o cargo público priva de su ejercicio al penado durante el tiempo de la condena.
 
-
 #### Artículo 44.
 
 La inhabilitación especial para el derecho de sufragio pasivo priva al penado, durante el tiempo de la condena, del derecho a ser elegido para cargos públicos.
-
 
 #### Artículo 45.
 
 La inhabilitación especial para profesión, oficio, industria o comercio o cualquier otro derecho, que ha de concretarse expresa y motivadamente en la sentencia, priva al penado de la facultad de ejercerlos durante el tiempo de la condena.
 
-
 #### Artículo 46.
 
 La inhabilitación especial para el ejercicio de la patria potestad, tutela, curatela, guarda o acogimiento, priva al penado de los derechos inherentes a la primera, y supone la extinción de las demás, así como la incapacidad para obtener nombramiento para dichos cargos durante el tiempo de la condena.
-
 
 #### Artículo 47.
 
@@ -594,11 +536,9 @@ La imposición de la pena de privación del derecho a conducir vehículos a moto
 
 La imposición de la pena de privación del derecho a la tenencia y porte de armas inhabilitará al penado para el ejercicio de este derecho por el tiempo fijado en la sentencia.
 
-
 #### Artículo 48.
 
 La privación del derecho a residir en determinados lugares o acudir a ellos impide al penado volver al lugar en que haya cometido el delito, o a aquél en que resida la víctima o su familia, si fueren distintos.
-
 
 #### Artículo 49.
 
@@ -618,7 +558,6 @@ Las demás circunstancias de su ejecución se establecerán reglamentariamente d
 
 SECCIÓN 4.ª DE LA PENA DE MULTA
 
-
 #### Artículo 50.
 
 1. La pena de multa consistirá en la imposición al condenado de una sanción pecuniaria.
@@ -633,18 +572,15 @@ SECCIÓN 4.ª DE LA PENA DE MULTA
 
 6. El Tribunal determinará en la sentencia el tiempo y forma del pago de las cuotas.
 
-
 #### Artículo 51.
 
 Si, después de la sentencia, el penado empeorare su fortuna, el Juez o Tribunal, excepcionalmente y tras la debida indagación de la capacidad económica de aquél, podrá reducir el importe de las cuotas.
-
 
 #### Artículo 52.
 
 1. No obstante lo dispuesto en los artículos anteriores y cuando el Código así lo determine, la multa se establecerá en proporción al daño causado, el valor del objeto del delito o el beneficio reportado por el mismo.
 
 2. En estos casos, en la aplicación de las multas, los Jueces y Tribunales podrán recorrer toda la extensión en que la Ley permita imponerlas, considerando para determinar en cada caso su cuantía, no sólo las circunstancias atenuantes y agravantes del hecho, sino principalmente la situación económica del culpable.
-
 
 #### Artículo 53.
 
@@ -660,21 +596,17 @@ También podrá el Juez o Tribunal, previa conformidad del penado, acordar que l
 
 SECCIÓN 5.ª DE LAS PENAS ACCESORIAS
 
-
 #### Artículo 54.
 
 Las penas de inhabilitación son accesorias en los casos en que, no imponiéndolas especialmente, la Ley declare que otras penas las llevan consigo.
-
 
 #### Artículo 55.
 
 La pena de prisión igual o superior a diez años llevará consigo la inhabilitación absoluta durante el tiempo de la condena, salvo que ésta ya estuviere prevista como pena principal para el supuesto de que se trate.
 
-
 #### Artículo 56.
 
 En las penas de prisión de hasta diez años, los Jueces o Tribunales impondrán, atendiendo a la gravedad del delito, como penas accesorias alguna de las siguientes: suspensión de empleo o cargo público, inhabilitación especial para el derecho de sufragio pasivo durante el tiempo de la condena, o inhabilitación especial para empleo o cargo público, profesión, oficio, industria o comercio o cualquier otro derecho, si éstos hubieran tenido relación directa con el delito cometido, debiendo determinarse expresamente en la sentencia esta vinculación.
-
 
 #### Artículo 57.
 
@@ -682,18 +614,15 @@ Los Jueces o Tribunales, en los delitos de homicidio, lesiones, aborto, contra l
 
 SECCIÓN 6.ª DISPOSICIONES COMUNES
 
-
 #### Artículo 58.
 
 1. El tiempo de privación de libertad sufrido preventivamente se abonará en su totalidad para el cumplimiento de la pena o penas impuestas en la causa en que dicha privación haya sido acordada o, en su defecto, de las que pudieran imponerse contra el reo en otras, siempre que hayan tenido por objeto hechos anteriores al ingreso en prisión.
 
 2. Igualmente, se abonarán en su totalidad, para el cumplimiento de la pena impuesta, las privaciones de derechos acordadas cautelarmente.
 
-
 #### Artículo 59.
 
 Cuando las medidas cautelares sufridas y la pena impuesta sean de distinta naturaleza, el Juez o Tribunal ordenará que se tenga por ejecutada la pena impuesta en aquella parte que estime compensada.
-
 
 #### Artículo 60.
 
@@ -707,33 +636,27 @@ De la aplicación de las penas
 
 SECCIÓN 1.ª REGLAS GENERALES PARA LA APLICACIÓN DE LAS PENAS
 
-
 #### Artículo 61.
 
 Cuando la Ley establece una pena, se entiende que la impone a los autores de la infracción consumada.
-
 
 #### Artículo 62.
 
 A los autores de tentativa de delito se les impondrá la pena inferior en uno o dos grados a la señalada por la Ley para el delito consumado, en la extensión que se estime adecuada, atendiendo al peligro inherente al intento y al grado de ejecución alcanzado.
 
-
 #### Artículo 63.
 
 A los cómplices de un delito consumado o intentado se les impondrá la pena inferior en grado a la fijada por la Ley para los autores del mismo delito.
 
-
 #### Artículo 64.
 
 Las reglas anteriores no serán de aplicación en los casos en que la tentativa y la complicidad se hallen especialmente penadas por la Ley.
-
 
 #### Artículo 65.
 
 1. Las circunstancias agravantes o atenuantes que consistan en la disposición moral del delincuente, en sus relaciones particulares con el ofendido o en otra causa personal, servirán para agravar o atenuar la responsabilidad sólo de aquéllos en quienes concurran.
 
 2. Las que consistan en la ejecución material del hecho o en los medios empleados para realizarla, servirán únicamente para agravar o atenuar la responsabilidad de los que hayan tenido conocimiento de ellas en el momento de la acción o de su cooperación para el delito.
-
 
 #### Artículo 66.
 
@@ -747,21 +670,17 @@ En la aplicación de la pena, los Jueces o Tribunales observarán, según haya o
 
 4.ª Cuando sean dos o más las circunstancias atenuantes o una sola muy cualificada, los Jueces o Tribunales, razonándolo en la sentencia, podrán imponer la pena inferior en uno o dos grados a la señalada por la Ley, aplicándola en la extensión que estimen pertinente, según la entidad y número de dichas circunstancias.
 
-
 #### Artículo 67.
 
 Las reglas del artículo anterior no se aplicarán a las circunstancias agravantes o atenuantes que la Ley haya tenido en cuenta al describir o sancionar una infracción, ni a las que sean de tal manera inherentes al delito que sin la concurrencia de ellas no podría cometerse.
-
 
 #### Artículo 68.
 
 En los casos previstos en la circunstancia 1.ª del artículo 21, los Jueces o Tribunales podrán imponer, razonándolo en la sentencia, la pena inferior en uno o dos grados a la señalada por la Ley, aplicándola en la extensión que estimen pertinente, atendidos el número y la entidad de los requisitos que falten o concurran, las circunstancias personales del autor y, en su caso, el resto de las circunstancias atenuantes o agravantes.
 
-
 #### Artículo 69.
 
 Al mayor de dieciocho años y menor de veintiuno que cometa un hecho delictivo, podrán aplicársele las disposiciones de la ley que regule la responsabilidad penal del menor en los casos y con los requisitos que ésta disponga.
-
 
 #### Artículo 70.
 
@@ -783,13 +702,11 @@ Al mayor de dieciocho años y menor de veintiuno que cometa un hecho delictivo, 
 
 5.º En el arresto de fin de semana, el mismo arresto, con la cláusula de que su duración máxima será de treinta y seis fines de semana.
 
-
 #### Artículo 71.
 
 1. En la determinación de la pena inferior en grado, los Jueces o Tribunales no quedarán limitados por las cuantías mínimas señaladas en la Ley a cada clase de pena, sino que podrán reducirlas en la forma que resulte de la aplicación de la regla correspondiente.
 
 2. No obstante, cuando por aplicación de las reglas anteriores proceda imponer una pena de prisión inferior a seis meses, ésta será en todo caso sustituida conforme a lo dispuesto en la sección 2.ª del capítulo III de este Título, sin perjuicio de la suspensión de la ejecución de la pena en los casos en que proceda.
-
 
 #### Artículo 72.
 
@@ -797,11 +714,9 @@ Cuando la pena señalada en la Ley no tenga una de las formas previstas especial
 
 SECCIÓN 2.ª REGLAS ESPECIALES PARA LA APLICACIÓN DE LAS PENAS
 
-
 #### Artículo 73.
 
 Al responsable de dos o más delitos o faltas se le impondrán todas las penas correspondientes a las diversas infracciones para su cumplimiento simultáneo, si fuera posible, por la naturaleza y efectos de las mismas.
-
 
 #### Artículo 74.
 
@@ -813,11 +728,9 @@ una generalidad de personas.
 
 3. Quedan exceptuadas de lo establecido en los apartados anteriores las ofensas a bienes eminentemente personales, salvo las constitutivas de infracciones contra el honor y la libertad sexual; en tales casos se atenderá a la naturaleza del hecho y del precepto infringido para aplicar o no la continuidad delictiva.
 
-
 #### Artículo 75.
 
 Cuando todas o algunas de las penas correspondientes a las diversas infracciones no puedan ser cumplidas simultáneamente por el condenado, se seguirá el orden de su respectiva gravedad para su cumplimiento sucesivo, en cuanto sea posible.
-
 
 #### Artículo 76.
 
@@ -829,7 +742,6 @@ b) De treinta años, cuando el sujeto haya sido condenado por dos o más delitos
 
 2. La limitación se aplicará aunque las penas se hayan impuesto en distintos procesos si los hechos, por su conexión, pudieran haberse enjuiciado en uno solo.
 
-
 #### Artículo 77.
 
 1. Lo dispuesto en los dos artículos anteriores, no es aplicable en el caso de que un solo hecho constituya dos o más infracciones, o cuando una de ellas sea medio necesario para cometer la otra.
@@ -838,13 +750,11 @@ b) De treinta años, cuando el sujeto haya sido condenado por dos o más delitos
 
 3. Cuando la pena así computada exceda de este límite, se sancionarán las infracciones por separado.
 
-
 #### Artículo 78.
 
 Si a consecuencia de las limitaciones establecidas en el artículo 76 la pena a cumplir resultase inferior a la mitad de la suma total de las impuestas, el Juez o Tribunal, atendida la peligrosidad criminal del penado, podrá acordar motivadamente que los beneficios penitenciarios y el cómputo de tiempo para la libertad condicional se refieran a la totalidad de las penas impuestas en las sentencias, sin perjuicio de lo que, a la vista del tratamiento, pueda resultar procedente.
 
 En este último caso, el Juez de Vigilancia Penitenciaria, valorando, en su caso, las circunstancias personales del reo, la evolución del tratamiento reeducador y el pronóstico de reinserción social, podrá acordar razonadamente, oído el Ministerio Fiscal, la aplicación del régimen general de cumplimiento.
-
 
 #### Artículo 79.
 
@@ -856,7 +766,6 @@ De las formas sustitutivas de la ejecución de las penas privativas de libertad
 
 SECCIÓN 1.ª DE LA SUSPENSIÓN DE LA EJECUCIÓN DE LAS PENAS PRIVATIVAS DE LIBERTAD
 
-
 #### Artículo 80.
 
 1. Los Jueces o Tribunales podrán dejar en suspenso la ejecución de las penas privativas de libertad inferiores a dos años mediante resolución motivada, atendiendo fundamentalmente a la peligrosidad criminal del sujeto.
@@ -866,7 +775,6 @@ SECCIÓN 1.ª DE LA SUSPENSIÓN DE LA EJECUCIÓN DE LAS PENAS PRIVATIVAS DE LIBE
 3. La suspensión de la ejecución de la pena no será extensiva a la responsabilidad civil derivada del delito o falta penados.
 
 4. Los Jueces y Tribunales sentenciadores podrán otorgar la suspensión de cualquier pena impuesta sin sujeción a requisito alguno en el caso de que el penado esté aquejado de una enfermedad muy grave con padecimientos incurables, salvo que en el momento de la comisión del delito tuviera ya otra pena suspendida por el mismo motivo.
-
 
 #### Artículo 81.
 
@@ -878,13 +786,11 @@ Serán condiciones necesarias para dejar en suspenso la ejecución de la pena, l
 
 3.ª Que se hayan satisfecho las responsabilidades civiles que se hubieren originado, salvo que el Juez o Tribunal sentenciador, después de oír a los interesados y al Ministerio Fiscal, declare la imposibilidad total o parcial de que el condenado haga frente a las mismas.
 
-
 #### Artículo 82.
 
 Declarada la firmeza de la sentencia y acreditados los requisitos establecidos en el artículo anterior, los Jueces o Tribunales se pronunciarán con la mayor urgencia sobre la concesión o no de la suspensión de la ejecución de la pena. Mientras tanto, no comunicarán ningún antecedente al Registro Central de Penados y Rebeldes.
 
 Si el Juez o Tribunal acordara la suspensión de la ejecución de la pena, la inscripción de la pena suspendida se llevará a cabo en una Sección especial, separada y reservada de dicho Registro, a la que sólo podrán pedir antecedentes los Jueces o Tribunales.
-
 
 #### Artículo 83.
 
@@ -902,7 +808,6 @@ Si el Juez o Tribunal acordara la suspensión de la ejecución de la pena, la in
 
 2. Los servicios correspondientes de la Administración competente informarán al Juez o Tribunal sentenciador, al menos cada tres meses, sobre la observancia de las reglas de conducta impuestas.
 
-
 #### Artículo 84.
 
 1. Si el sujeto delinquiera durante el plazo de suspensión fijado, el Juez o Tribunal revocará la suspensión de la ejecución de la pena.
@@ -915,18 +820,15 @@ b) Prorrogar el plazo de suspensión, sin que en ningún caso pueda exceder de c
 
 c) Revocar la suspensión de la ejecución de la pena, si el incumplimiento fuera reiterado.
 
-
 #### Artículo 85.
 
 1. Revocada la suspensión, se ordenará la ejecución de la pena, así como la inscripción de la misma en el Registro Central de Penados y Rebeldes.
 
 2. Transcurrido el plazo de suspensión fijado sin haber delinquido el sujeto, y cumplidas, en su caso, las reglas de conducta fijadas por el Juez o Tribunal, éste acordará la remisión de la pena, ordenando la cancelación de la inscripción hecha en la Sección especial del Registro Central de Penados y Rebeldes. Este antecedente penal no se tendrá en cuenta a ningún efecto.
 
-
 #### Artículo 86.
 
 En los delitos que sólo pueden ser perseguidos previa denuncia o querella del ofendido, los Jueces y Tribunales oirán a éste y, en su caso, a quien le represente, antes de conceder los beneficios de la suspensión de la ejecución de la pena.
-
 
 #### Artículo 87.
 
@@ -948,7 +850,6 @@ Transcurrido el plazo de suspensión sin haber delinquido el sujeto, el Juez o T
 
 SECCIÓN 2.ª DE LA SUSTITUCIÓN DE LAS PENAS PRIVATIVAS DE LIBERTAD
 
-
 #### Artículo 88.
 
 1. Los Jueces o Tribunales podrán sustituir, previa audiencia de las partes, en la misma sentencia, o posteriormente en auto motivado, antes de dar inicio a su ejecución, las penas de prisión que no excedan de un año por arresto de fin de semana o multa, aunque la Ley no prevea estas penas para el delito de que se trate, cuando las circunstancias personales del reo, la naturaleza del hecho, su conducta y, en particular, el esfuerzo para reparar el daño causado así lo aconsejen, siempre que no se trate de reos habituales. Cada semana de prisión será sustituida por dos arrestos de fin de semana; y cada día de prisión será sustituido por dos cuotas de multa. En estos casos el Juez o Tribunal podrá además imponer al penado la observancia de una o varias de las obligaciones o deberes previstos en el artículo 83 de este Código.
@@ -961,7 +862,6 @@ Excepcionalmente podrán los Jueces o Tribunales sustituir las penas de prisión
 
 4. En ningún caso se podrán sustituir penas que sean sustitutivas de otras.
 
-
 #### Artículo 89.
 
 1. Las penas privativas de libertad inferiores a seis años impuestas a un extranjero no residente legalmente en España podrán ser sustituidas por su expulsión del territorio nacional. Igualmente, los Jueces o Tribunales, a instancia del Ministerio Fiscal, podrán acordar la expulsión del territorio nacional del extranjero condenado a pena de prisión igual o superior a seis años, siempre que haya cumplido las tres cuartas partes de la condena. En ambos casos será necesario oír previamente al penado.
@@ -971,7 +871,6 @@ Excepcionalmente podrán los Jueces o Tribunales sustituir las penas de prisión
 3. No obstante lo dispuesto en el apartado anterior, el extranjero que intentara quebrantar una decisión judicial de expulsión con prohibición expresa de regresar al territorio español y fuese sorprendido en la frontera, será expulsado por la autoridad gubernativa.
 
 SECCIÓN 3.ª DE LA LIBERTAD CONDICIONAL
-
 
 #### Artículo 90.
 
@@ -985,11 +884,9 @@ SECCIÓN 3.ª DE LA LIBERTAD CONDICIONAL
 
 2. El Juez de Vigilancia, al decretar la libertad condicional de los penados, podrá imponerles la observancia de una o varias de las reglas de conducta previstas en el artículo 105 del presente Código.
 
-
 #### Artículo 91.
 
 Excepcionalmente, cumplidas las circunstancias 1.ª y 3.ª del apartado 1 del artículo anterior, el Juez de Vigilancia Penitenciaria podrá conceder la libertad condicional a los sentenciados a penas privativas de libertad que hayan extinguido las dos terceras partes de su condena, siempre que merezcan dicho beneficio por haber desarrollado continuadamente actividades laborales, culturales u ocupacionales.
-
 
 #### Artículo 92.
 
@@ -997,28 +894,23 @@ No obstante lo dispuesto en los artículos anteriores, los sentenciados que hubi
 
 El mismo criterio se aplicará cuando, según informe médico, se trate de enfermos muy graves, con padecimientos incurables.
 
-
 #### Artículo 93.
 
 El período de libertad condicional durará todo el tiempo que le falte al sujeto para cumplir su condena. Si en dicho período el reo delinquiere o inobservare las reglas de conducta impuestas, el Juez de Vigilancia Penitenciaria revocará la libertad concedida, y el penado reingresará en prisión en el período o grado penitenciario que corresponda, sin perjuicio del cómputo del tiempo pasado en libertad condicional.
 
 SECCIÓN 4.ª DISPOSICIONES COMUNES
 
-
 #### Artículo 94.
 
 A los efectos previstos en las secciones 1.ª y 2.ª de este capítulo se consideran reos habituales los que hubieren cometido tres o más delitos de los comprendidos en un mismo capítulo, en un plazo no superior a cinco años, y hayan sido condenados por ello.
 
-
 **TITULO IV**
-
 
 **De las medidas de seguridad**
 
 CAPITULO I
 
 De las medidas de seguridad en general
-
 
 #### Artículo 95.
 
@@ -1029,7 +921,6 @@ De las medidas de seguridad en general
 2.ª Que del hecho y de las circunstancias personales del sujeto pueda deducirse un pronóstico de comportamiento futuro que revele la probabilidad de comisión de nuevos delitos.
 
 2. Cuando la pena que hubiere podido imponerse por el delito cometido no fuere privativa de libertad, el Juez o Tribunal sentenciador sólo podrá acordar alguna o algunas de las medidas previstas en el artículo 105.
-
 
 #### Artículo 96.
 
@@ -1057,7 +948,6 @@ De las medidas de seguridad en general
 
 6.ª Las demás previstas en el artículo 105 de este Código.
 
-
 #### Artículo 97.
 
 Durante la ejecución de la sentencia, el Juez o Tribunal sentenciador podrá, mediante un procedimiento contradictorio, previa propuesta del Juez de Vigilancia Penitenciaria:
@@ -1070,16 +960,13 @@ c) Dejar en suspenso la ejecución de la medida en atención al resultado ya obt
 
 A estos efectos el Juez de Vigilancia Penitenciaria estará obligado a elevar al menos anualmente una propuesta de mantenimiento, cese, sustitución o suspensión de la medida de seguridad privativa de libertad impuesta.
 
-
 #### Artículo 98.
 
 Para formular la propuesta a que se refiere el artículo anterior el Juez de Vigilancia Penitenciaria deberá valorar los informes emitidos por los facultativos y profesionales que asistan al sometido a medida de seguridad, y, en su caso, el resultado de las demás actuaciones que a este fin ordene.
 
-
 #### Artículo 99.
 
 En el caso de concurrencia de penas y medidas de seguridad privativas de libertad, el Juez o Tribunal ordenará el cumplimiento de la medida, que se abonará para el de la pena. Una vez alzada la medida de seguridad, el Juez o Tribunal podrá, si con la ejecución de la pena se pusieran en peligro los efectos conseguidos a través de aquélla, suspender el cumplimiento del resto de la pena por un plazo no superior a la duración de la misma, o aplicar alguna de las medidas previstas en el artículo 105.
-
 
 #### Artículo 100.
 
@@ -1093,20 +980,17 @@ De la aplicación de las medidas de seguridad
 
 SECCIÓN 1.ª DE LAS MEDIDAS PRIVATIVAS DE LIBERTAD
 
-
 #### Artículo 101.
 
 1. Al sujeto que sea declarado exento de responsabilidad criminal conforme al número 1.º del artículo 20, se le podrá aplicar, si fuere necesaria, la medida de internamiento para tratamiento médico o educación especial en un establecimiento adecuado al tipo de anomalía o alteración psíquica que se aprecie, o cualquier otra de las medidas previstas en el apartado 3 del artículo 96. El internamiento no podrá exceder del tiempo que habría durado la pena privativa de libertad, si hubiera sido declarado responsable el sujeto, y a tal efecto el Juez o Tribunal fijará en la sentencia ese límite máximo.
 
 2. El sometido a esta medida no podrá abandonar el establecimiento sin autorización del Juez o Tribunal sentenciador, de conformidad con lo previsto en el artículo 97 de este Código.
 
-
 #### Artículo 102.
 
 1. A los exentos de responsabilidad penal conforme al número 2.º del artículo 20 se les aplicará, si fuere necesaria, la medida de internamiento en centro de deshabituación público, o privado debidamente acreditado u homologado, o cualquiera otra de las medidas previstas en el apartado 3 del artículo 96. El internamiento no podrá exceder del tiempo que habría durado la pena privativa de libertad, si el sujeto hubiere sido declarado responsable, y a tal efecto el Juez o Tribunal fijará ese límite máximo en la sentencia.
 
 2. El sometido a esta medida no podrá abandonar el establecimiento sin autorización del Juez o Tribunal sentenciador de conformidad con lo previsto en el artículo 97 de este Código.
-
 
 #### Artículo 103.
 
@@ -1116,13 +1000,11 @@ SECCIÓN 1.ª DE LAS MEDIDAS PRIVATIVAS DE LIBERTAD
 
 3. En este supuesto, la propuesta a que se refiere el artículo 97 de este Código deberá hacerse al terminar cada curso o grado de enseñanza.
 
-
 #### Artículo 104.
 
 En los supuestos de eximente incompleta en relación con los números 1.º, 2.º y 3.º del artículo 20, el Juez o Tribunal podrá imponer, además de la pena correspondiente, las medidas previstas en los artículos 101, 102 y 103. No obstante, la medida de internamiento sólo será aplicable cuando la pena impuesta sea privativa de libertad y su duración no podrá exceder de la de la pena prevista por el Código para el delito. Para su aplicación se observará lo dispuesto en el artículo 99.
 
 SECCIÓN 2.ª DE LAS MEDIDAS NO PRIVATIVAS DE LIBERTAD
-
 
 #### Artículo 105.
 
@@ -1150,16 +1032,13 @@ b) La privación del derecho a la conducción de vehículos a motor y ciclomotor
 
 El Juez de Vigilancia Penitenciaria o los servicios correspondientes del Ministerio de Justicia e Interior o de la Administración Autonómica informarán al Juez o Tribunal sentenciador sobre el cumplimiento de estas medidas.
 
-
 #### Artículo 106.
 
 En los casos previstos en el artículo anterior, el Juez o Tribunal sentenciador dispondrá que los servicios de asistencia social competentes presten la ayuda o atención que precise y legalmente le corresponda al sometido a medidas de seguridad no privativas de libertad.
 
-
 #### Artículo 107.
 
 El Juez o Tribunal podrá decretar razonadamente la medida de inhabilitación para el ejercicio de determinado derecho, profesión, oficio, industria o comercio, cargo o empleo, por un tiempo de uno a cinco años, cuando el sujeto haya cometido con abuso de dicho ejercicio, o en relación con él, un hecho delictivo, y cuando de la valoración de las circunstancias concurrentes pueda deducirse el peligro de que vuelva a cometer el mismo delito u otros semejantes, siempre que no sea posible imponerle la pena correspondiente por encontrarse en alguna de las situaciones previstas en los números 1.º, 2.º y 3.º del artículo 20.
-
 
 #### Artículo 108.
 
@@ -1167,9 +1046,7 @@ El Juez o Tribunal podrá decretar razonadamente la medida de inhabilitación pa
 
 2. El sujeto a esta medida no podrá volver a entrar en España durante el plazo que se señale, sin que pueda exceder de diez años.
 
-
 **TITULO V**
-
 
 **De la responsabilidad civil derivada de los delitos y faltas y de las costas procesales**
 
@@ -1177,13 +1054,11 @@ CAPITULO I
 
 De la responsabilidad civil y su extensión
 
-
 #### Artículo 109.
 
 1. La ejecución de un hecho descrito por la Ley como delito o falta obliga a reparar, en los términos previstos en las Leyes, los daños y perjuicios por él causados.
 
 2. El perjudicado podrá optar, en todo caso, por exigir la responsabilidad civil ante la Jurisdicción Civil.
-
 
 #### Artículo 110.
 
@@ -1195,28 +1070,23 @@ La responsabilidad establecida en el artículo anterior comprende:
 
 3.º La indemnización de perjuicios materiales y morales.
 
-
 #### Artículo 111.
 
 1. Deberá restituirse, siempre que sea posible, el mismo bien, con abono de los deterioros y menoscabos que el Juez o Tribunal determinen. La restitución tendrá lugar aunque el bien se halle en poder de tercero y éste lo haya adquirido legalmente y de buena fe, dejando a salvo su derecho de repetición contra quien corresponda y, en su caso, el de ser indemnizado por el responsable civil del delito o falta.
 
 2. Esta disposición no es aplicable cuando el tercero haya adquirido el bien en la forma y con los requisitos establecidos por las Leyes para hacerlo irreivindicable.
 
-
 #### Artículo 112.
 
 La reparación del daño podrá consistir en obligaciones de dar, de hacer o de no hacer que el Juez o Tribunal establecerá atendiendo a la naturaleza de aquél y a las condiciones personales y patrimoniales del culpable, determinando si han de ser cumplidas por él mismo o pueden ser ejecutadas a su costa.
-
 
 #### Artículo 113.
 
 La indemnización de perjuicios materiales y morales comprenderá no sólo los que se hubieren causado al agraviado, sino también los que se hubieren irrogado a sus familiares o a terceros.
 
-
 #### Artículo 114.
 
 Si la víctima hubiere contribuido con su conducta a la producción del daño o perjuicio sufrido, los Jueces o Tribunales podrán moderar el importe de su reparación o indemnización.
-
 
 #### Artículo 115.
 
@@ -1225,7 +1095,6 @@ Los Jueces y Tribunales, al declarar la existencia de responsabilidad civil, est
 CAPITULO II
 
 De las personas civilmente responsables
-
 
 #### Artículo 116.
 
@@ -1237,11 +1106,9 @@ La responsabilidad subsidiaria se hará efectiva: primero, en los bienes de los 
 
 Tanto en los casos en que se haga efectiva la responsabilidad solidaria como la subsidiaria, quedará a salvo la repetición del que hubiere pagado contra los demás por las cuotas correspondientes a cada uno.
 
-
 #### Artículo 117.
 
 Los aseguradores que hubieren asumido el riesgo de las responsabilidades pecuniarias derivadas del uso o explotación de cualquier bien, empresa, industria o actividad, cuando, como consecuencia de un hecho previsto en este Código, se produzca el evento que determine el riesgo asegurado, serán responsables civiles directos hasta el límite de la indemnización legalmente establecida o convencionalmente pactada, sin perjuicio del derecho de repetición contra quien corresponda.
-
 
 #### Artículo 118.
 
@@ -1261,11 +1128,9 @@ Cuando las cuotas de que deba responder el interesado no sean equitativamente as
 
 2. En el caso del artículo 14, serán responsables civiles los autores del hecho.
 
-
 #### Artículo 119.
 
 En todos los supuestos del artículo anterior, el Juez o Tribunal que dicte sentencia absolutoria por estimar la concurrencia de alguna de las causas de exención citadas, procederá a fijar las responsabilidades civiles salvo que se haya hecho expresa reserva de las acciones para reclamarlas en la vía que corresponda.
-
 
 #### Artículo 120.
 
@@ -1281,13 +1146,11 @@ Son también responsables civilmente, en defecto de los que lo sean criminalment
 
 5.º Las personas naturales o jurídicas titulares de vehículos susceptibles de crear riesgos para terceros, por los delitos o faltas cometidos en la utilización de aquellos por sus dependientes o representantes o personas autorizadas.
 
-
 #### Artículo 121.
 
 El Estado, la Comunidad Autónoma, la provincia, la isla, el municipio y demás entes públicos, según los casos, responden subsidiariamente de los daños causados por los penalmente responsables de los delitos dolosos o culposos, cuando éstos sean autoridad, agentes y contratados de la misma o funcionarios públicos en el ejercicio de sus cargos o funciones siempre que la lesión sea consecuencia directa del funcionamiento de los servicios públicos que les estuvieren confiados, sin perjuicio de la responsabilidad patrimonial derivada del funcionamiento normal o anormal de dichos servicios exigible conforme a las normas de procedimiento administrativo, y sin que, en ningún caso, pueda darse una duplicidad indemnizatoria.
 
 Si se exigiera en el proceso penal la responsabilidad civil de la autoridad, agentes y contratados de la misma o funcionarios públicos, la pretensión deberá dirigirse simultáneamente contra la Administración o ente público presuntamente responsable civil subsidiario.
-
 
 #### Artículo 122.
 
@@ -1297,11 +1160,9 @@ CAPITULO III
 
 De las costas procesales
 
-
 #### Artículo 123.
 
 Las costas procesales se entienden impuestas por la Ley a los criminalmente responsables de todo delito o falta.
-
 
 #### Artículo 124.
 
@@ -1311,11 +1172,9 @@ CAPITULO IV
 
 Del cumplimiento de la responsabilidad civil y demás responsabilidades pecuniarias
 
-
 #### Artículo 125.
 
 Cuando los bienes del responsable civil no sean bastantes para satisfacer de una vez todas las responsabilidades pecuniarias, el Juez o Tribunal, previa audiencia al perjudicado, podrá fraccionar su pago, señalando, según su prudente arbitrio y en atención a las necesidades del perjudicado y a las posibilidades económicas del responsable, el período e importe de los plazos.
-
 
 #### Artículo 126.
 
@@ -1333,22 +1192,17 @@ Cuando los bienes del responsable civil no sean bastantes para satisfacer de una
 
 2. Cuando el delito hubiere sido de los que sólo pueden perseguirse a instancia de parte, se satisfarán las costas del acusador privado con preferencia a la indemnización del Estado.
 
-
 **TITULO VI**
 
-
 **De las consecuencias accesorias**
-
 
 #### Artículo 127.
 
 Toda pena que se imponga por un delito o falta dolosos llevará consigo la pérdida de los efectos que de ellos provengan y de los instrumentos con que se haya ejecutado, así como las ganancias provenientes del delito, cualesquiera que sean las transformaciones que hubieren podido experimentar. Los unos y las otras serán decomisados, a no ser que pertenezcan a un tercero de buena fe no responsable del delito que los haya adquirido legalmente. Los que se decomisan se venderán, si son de lícito comercio, aplicándose su producto a cubrir las responsabilidades civiles del penado y, si no lo son, se les dará el destino que se disponga reglamentariamente y, en su defecto, se inutilizarán.
 
-
 #### Artículo 128.
 
 Cuando los referidos efectos e instrumentos sean de lícito comercio y su valor no guarde proporción con la naturaleza o gravedad de la infracción penal, o se hayan satisfecho completamente las responsabilidades civiles, podrá el Juez o Tribunal no decretar el decomiso, o decretarlo parcialmente.
-
 
 #### Artículo 129.
 
@@ -1368,16 +1222,13 @@ e) La intervención de la empresa para salvaguardar los derechos de los trabajad
 
 3. Las consecuencias accesorias previstas en este artículo estarán orientadas a prevenir la continuidad en la actividad delictiva y los efectos de la misma.
 
-
 **TITULO VII**
-
 
 **De la extinción de la responsabilidad criminal y sus efectos**
 
 CAPITULO I
 
 De las causas que extinguen la responsabilidad criminal
-
 
 #### Artículo 130.
 
@@ -1398,7 +1249,6 @@ Para rechazar el perdón a que se refiere el párrafo anterior, el Juez o Tribun
 5.º Por la prescripción del delito.
 
 6.º Por la prescripción de la pena.
-
 
 #### Artículo 131.
 
@@ -1422,13 +1272,11 @@ Los delitos de calumnia e injuria prescriben al año.
 
 4. El delito de genocidio no prescribirá en ningún caso.
 
-
 #### Artículo 132.
 
 1. Los términos previstos en el artículo precedente se computarán desde el día en que se haya cometido la infracción punible. En los casos de delito continuado y delito permanente, tales términos se computarán respectivamente, desde el día en que se realizó la última infracción y desde que se eliminó la situación ilícita.
 
 2. La prescripción se interrumpirá, quedando sin efecto el tiempo transcurrido, cuando el procedimiento se dirija contra el culpable, comenzando a correr de nuevo el término de la prescripción desde que se paralice el procedimiento o se termine sin condena.
-
 
 #### Artículo 133.
 
@@ -1448,11 +1296,9 @@ Al año, las penas leves.
 
 2. Las penas impuestas por delito de genocidio no prescribirán en ningún caso.
 
-
 #### Artículo 134.
 
 El tiempo de la prescripción de la pena se computará desde la fecha de la sentencia firme, o desde el quebrantamiento de la condena, si ésta hubiese comenzado a cumplirse.
-
 
 #### Artículo 135.
 
@@ -1465,7 +1311,6 @@ El tiempo de la prescripción de la pena se computará desde la fecha de la sent
 CAPITULO II
 
 De la cancelación de antecedentes delictivos
-
 
 #### Artículo 136.
 
@@ -1485,7 +1330,6 @@ No obstante lo dispuesto en el párrafo anterior, en el caso previsto en el art�
 
 5. En los casos en que, a pesar de cumplirse los requisitos establecidos en este artículo para la cancelación, bien por solicitud del interesado, bien de oficio por el Ministerio de Justicia e Interior, ésta no se haya producido, el Juez o Tribunal, acreditadas tales circunstancias, ordenará la cancelación y no tendrá en cuenta dichos antecedentes.
 
-
 #### Artículo 137.
 
 Las anotaciones de las medidas de seguridad impuestas conforme a lo dispuesto en este Código o en otras leyes penales serán canceladas una vez cumplida o prescrita la respectiva medida; mientras tanto, sólo figurarán en las certificaciones que el Registro expida con destino a Jueces o Tribunales o autoridades administrativas, en los casos establecidos por la Ley.
@@ -1494,17 +1338,13 @@ LIBRO II
 
 Delitos y sus penas
 
-
 **TITULO I**
 
-
 **Del homicidio y sus formas**
-
 
 #### Artículo 138.
 
 El que matare a otro será castigado, como reo de homicidio, con la pena de prisión de diez a quince años.
-
 
 #### Artículo 139.
 
@@ -1516,16 +1356,13 @@ Será castigado con la pena de prisión de quince a veinte años, como reo de as
 
 3.ª Con ensañamiento, aumentando deliberada e inhumanamente el dolor del ofendido.
 
-
 #### Artículo 140.
 
 Cuando en un asesinato concurran más de una de las circunstancias previstas en el artículo anterior, se impondrá la pena de prisión de veinte a veinticinco años.
 
-
 #### Artículo 141.
 
 La provocación, la conspiración y la proposición para cometer los delitos previstos en los tres artículos precedentes, será castigada con la pena inferior en uno o dos grados a la señalada en su caso en los artículos anteriores.
-
 
 #### Artículo 142.
 
@@ -1534,7 +1371,6 @@ La provocación, la conspiración y la proposición para cometer los delitos pre
 2. Cuando el homicidio imprudente sea cometido utilizando un vehículo a motor, un ciclomotor o un arma de fuego, se impondrá asimismo, y respectivamente, la pena de privación del derecho a conducir vehículos a motor y ciclomotores o la privación del derecho a la tenencia y porte de armas, de uno a seis años.
 
 3. Cuando el homicidio fuere cometido por imprudencia profesional se impondrá además la pena de inhabilitación especial para el ejercicio de la profesión, oficio o cargo por un período de tres a seis años.
-
 
 #### Artículo 143.
 
@@ -1546,12 +1382,9 @@ La provocación, la conspiración y la proposición para cometer los delitos pre
 
 4. El que causare o cooperare activamente con actos necesarios y directos a la muerte de otro, por la petición expresa, seria e inequívoca de éste, en el caso de que la víctima sufriera una enfermedad grave que conduciría necesariamente a su muerte, o que produjera graves padecimientos permanentes y difíciles de soportar, será castigado con la pena inferior en uno o dos grados a las señaladas en los números 2 y 3 de este artículo.
 
-
 **TITULO II**
 
-
 **Del aborto**
-
 
 #### Artículo 144.
 
@@ -1559,13 +1392,11 @@ El que produzca el aborto de una mujer, sin su consentimiento, será castigado c
 
 Las mismas penas se impondrán al que practique el aborto habiendo obtenido la anuencia de la mujer mediante violencia, amenaza o engaño.
 
-
 #### Artículo 145.
 
 1. El que produzca el aborto de una mujer, con su consentimiento, fuera de los casos permitidos por la ley, será castigado con la pena de prisión de uno a tres años e inhabilitación especial para ejercer cualquier profesión sanitaria, o para prestar servicios de toda índole en clínicas, establecimientos o consultorios ginecológicos, públicos o privados, por tiempo de uno a seis años.
 
 2. La mujer que produjere su aborto o consintiere que otra persona se lo cause, fuera de los casos permitidos por la ley, será castigada con la pena de prisión de seis meses a un año o multa de seis a veinticuatro meses.
-
 
 #### Artículo 146.
 
@@ -1575,19 +1406,15 @@ Cuando el aborto fuere cometido por imprudencia profesional se impondrá asimism
 
 La embarazada no será penada a tenor de este precepto.
 
-
 **TITULO III**
 
-
 **De las lesiones**
-
 
 #### Artículo 147.
 
 1. El que, por cualquier medio o procedimiento, causare a otro una lesión que menoscabe su integridad corporal o su salud física o mental, será castigado como reo del delito de lesiones con la pena de prisión de seis meses a tres años, siempre que la lesión requiera objetivamente para su sanidad, además de una primera asistencia facultativa, tratamiento médico o quirúrgico. La simple vigilancia o seguimiento facultativo del curso de la lesión no se considerará tratamiento médico.
 
 2. No obstante, el hecho descrito en el apartado anterior será castigado con la pena de arresto de siete a veinticuatro fines de semana o multa de tres a doce meses, cuando sea de menor gravedad, atendidos el medio empleado o el resultado producido.
-
 
 #### Artículo 148.
 
@@ -1601,21 +1428,17 @@ psíquica, del lesionado.
 
 3.º Si la víctima fuere menor de doce años o incapaz.
 
-
 #### Artículo 149.
 
 El que causare a otro, por cualquier medio o procedimiento, la pérdida o la inutilidad de un órgano o miembro principal, o de un sentido, la impotencia, la esterilidad, una grave deformidad, o una grave enfermedad somática o psíquica, será castigado con la pena de prisión de seis a doce años.
-
 
 #### Artículo 150.
 
 El que causare a otro la pérdida o la inutilidad de un órgano o miembro no principal, o la deformidad, será castigado con la pena de prisión de tres a seis años.
 
-
 #### Artículo 151
 
 La provocación, la conspiración y la proposición para cometer los delitos previstos en los artículos precedentes de este Título, será castigada con la pena inferior en uno o dos grados a la del delito correspondiente.
-
 
 #### Artículo 152.
 
@@ -1631,16 +1454,13 @@ La provocación, la conspiración y la proposición para cometer los delitos pre
 
 3. Cuando las lesiones fueren cometidas por imprudencia profesional se impondrá asimismo la pena de inhabilitación especial para el ejercicio de la profesión, oficio o cargo por un período de uno a cuatro años.
 
-
 #### Artículo 153.
 
 El que habitualmente ejerza violencia física sobre su cónyuge o persona a la que se halle ligado de forma estable por análoga relación de afectividad o sobre los hijos propios o del cónyuge o conviviente, pupilos, ascendientes o incapaces que con él convivan o que se hallen sujetos a la potestad, tutela, curatela o guarda de hecho de uno u otro, será castigado con la pena de prisión de seis meses a tres años, sin perjuicio de las penas que pudieran corresponder por el resultado que, en cada caso, se causare.
 
-
 #### Artículo 154.
 
 Quienes riñeren entre sí, acometiéndose tumultuariamente, y utilizando medios o instrumentos que pongan en peligro la vida o integridad de las personas, serán castigados por su participación en la riña con la pena de prisión de seis meses a un año o multa superior a dos y hasta doce meses.
-
 
 #### Artículo 155.
 
@@ -1648,24 +1468,19 @@ En los delitos de lesiones, si ha mediado el consentimiento válida, libre, espo
 
 No será válido el consentimiento otorgado por un menor de edad o un incapaz.
 
-
 #### Artículo 156.
 
 No obstante lo dispuesto en el artículo anterior, el consentimiento válida, libre, consciente y expresamente emitido exime de responsabilidad penal en los supuestos de trasplante de órganos efectuado con arreglo a lo dispuesto en la Ley, esterilizaciones y cirugía transexual realizadas por facultativo, salvo que el consentimiento se haya obtenido viciadamente, o mediante precio o recompensa, o el otorgante sea menor de edad o incapaz; en cuyo caso no será válido el prestado por éstos ni por sus representantes legales.
 
 Sin embargo, no será punible la esterilización de persona incapacitada que adolezca de grave deficiencia psíquica cuando aquélla, tomándose como criterio rector el del mayor interés del incapaz, haya sido autorizada por el Juez, bien en el mismo procedimiento de incapacitación, bien en un expediente de jurisdicción voluntaria, tramitado con posterioridad al mismo, a petición del representante legal del incapaz, oído el dictamen de dos especialistas, el Ministerio Fiscal y previa exploración del incapaz.
 
-
 **TITULO IV**
 
-
 **De las lesiones al feto**
-
 
 #### Artículo 157.
 
 El que, por cualquier medio o procedimiento, causare en un feto una lesión o enfermedad que perjudique gravemente su normal desarrollo, o provoque en el mismo una grave tara física o psíquica, será castigado con pena de prisión de uno a cuatro años e inhabilitación especial para ejercer cualquier profesión sanitaria, o para prestar servicios de toda índole en clínicas, establecimientos o consultorios ginecológicos, públicos o privados, por tiempo de dos a ocho años.
-
 
 #### Artículo 158.
 
@@ -1675,12 +1490,9 @@ Cuando los hechos descritos en el artículo anterior fueren cometidos por imprud
 
 La embarazada no será penada a tenor de este precepto.
 
-
 **TITULO V**
 
-
 **Delitos relativos a la manipulación genética**
-
 
 #### Artículo 159.
 
@@ -1688,11 +1500,9 @@ La embarazada no será penada a tenor de este precepto.
 
 2. Si la alteración del genotipo fuere realizada por imprudencia grave, la pena será de multa de seis a quince meses e inhabilitación especial para empleo o cargo público, profesión u oficio de uno a tres años.
 
-
 #### Artículo 160.
 
 La utilización de la ingeniería genética para producir armas biológicas o exterminadoras de la especie humana será castigada con la pena de prisión de tres a siete años e inhabilitación especial para empleo o cargo público, profesión u oficio por tiempo de siete a diez años.
-
 
 #### Artículo 161.
 
@@ -1700,23 +1510,19 @@ La utilización de la ingeniería genética para producir armas biológicas o ex
 
 2. Con la misma pena se castigarán la creación de seres humanos idénticos por clonación u otros procedimientos dirigidos a la selección de la raza.
 
-
 #### Artículo 162.
 
 1. Quien practicare reproducción asistida en una mujer, sin su consentimiento, será castigado con la pena de prisión de dos a seis años, e inhabilitación especial para empleo o cargo público, profesión u oficio por tiempo de uno a cuatro años.
 
 2. Para proceder por este delito será precisa denuncia de la persona agraviada o de su representante legal. Cuando aquélla sea menor de edad, incapaz, o una persona desvalida, también podrá denunciar el Ministerio Fiscal.
 
-
 **TITULO VI**
-
 
 **Delitos contra la libertad**
 
 CAPITULO I
 
 De las detenciones ilegales y secuestros
-
 
 #### Artículo 163.
 
@@ -1728,26 +1534,21 @@ De las detenciones ilegales y secuestros
 
 4. El particular que, fuera de los casos permitidos por las leyes, aprehendiere a una persona para presentarla inmediatamente a la autoridad, será castigado con la pena de multa de tres a seis meses.
 
-
 #### Artículo 164.
 
 El secuestro de una persona exigiendo alguna condición para ponerla en libertad, será castigado con la pena de prisión de seis a diez años. Si en el secuestro se hubiera dado la circunstancia del artículo 163.3, se impondrá la pena superior en grado, y la inferior en grado si se dieren las condiciones del artículo 163.2.
-
 
 #### Artículo 165.
 
 Las penas de los artículos anteriores se impondrán en su mitad superior, en los respectivos casos, si la detención ilegal o secuestro se ha ejecutado con simulación de autoridad o función pública, o la víctima fuere menor de edad o incapaz o funcionario público en el ejercicio de sus funciones.
 
-
 #### Artículo 166.
 
 El reo de detención ilegal o secuestro que no dé razón del paradero de la persona detenida será castigado, según los casos, con las penas superiores en grado a las señaladas en los artículos anteriores de este capítulo, salvo que la haya dejado en libertad.
 
-
 #### Artículo 167.
 
 La autoridad o funcionario público que, fuera de los casos permitidos por la Ley, y sin mediar causa por delito, cometiere alguno de los hechos descritos en los artículos anteriores será castigado con las penas respectivamente previstas en éstos, en su mitad superior y, además, con la de inhabilitación absoluta por tiempo de ocho a doce años.
-
 
 #### Artículo 168.
 
@@ -1756,7 +1557,6 @@ La provocación, la conspiración y la proposición para cometer los delitos pre
 CAPITULO II
 
 De las amenazas
-
 
 #### Artículo 169.
 
@@ -1768,11 +1568,9 @@ Las penas señaladas en el párrafo anterior se impondrán en su mitad superior 
 
 2.º Con la pena de prisión de seis meses a dos años, cuando la amenaza no haya sido condicional.
 
-
 #### Artículo 170.
 
 Si las amenazas de un mal que constituyere delito fuesen dirigidas a atemorizar a los habitantes de una población, grupo étnico, o a un amplio grupo de personas y tuvieran la gravedad necesaria para conseguirlo, se impondrán, respectivamente, las penas superiores en grado a las previstas en el artículo anterior.
-
 
 #### Artículo 171.
 
@@ -1786,24 +1584,19 @@ CAPITULO III
 
 De las coacciones
 
-
 #### Artículo 172.
 
 El que sin estar legítimamente autorizado impidiere a otro con violencia hacer lo que la Ley no prohíbe, o le compeliere a efectuar lo que no quiere, sea justo o injusto, será castigado con la pena de prisión de seis meses a tres años o con multa de seis a veinticuatro meses, según la gravedad de la coacción o de los medios empleados.
 
 Cuando la coacción ejercida tuviera como objeto impedir el ejercicio de un derecho fundamental se impondrán las penas en su mitad superior, salvo que el hecho tuviera señalada mayor pena en otro precepto de este Código.
 
-
 **TITULO VII**
 
-
 **De las torturas y otros delitos contra la integridad moral**
-
 
 #### Artículo 173.
 
 El que infligiere a otra persona un trato degradante, menoscabando gravemente su integridad moral, será castigado con la pena de prisión de seis meses a dos años.
-
 
 #### Artículo 174.
 
@@ -1811,24 +1604,19 @@ El que infligiere a otra persona un trato degradante, menoscabando gravemente su
 
 2. En las mismas penas incurrirán, respectivamente, la autoridad o funcionario de instituciones penitenciarias o de centros de protección o corrección de menores que cometiere, respecto de detenidos, internos o presos, los actos a que se refiere el apartado anterior.
 
-
 #### Artículo 175.
 
 La autoridad o funcionario público que, abusando de su cargo y fuera de los casos comprendidos en el artículo anterior, atentare contra la integridad moral de una persona será castigado con la pena de prisión de dos a cuatro años si el atentado fuera grave, y de prisión de seis meses a dos años si no lo es. Se impondrá, en todo caso, al autor, además de las penas señaladas, la de inhabilitación especial para empleo o cargo público de dos a cuatro años.
-
 
 #### Artículo 176.
 
 Se impondrán las penas respectivamente establecidas en los artículos precedentes a la autoridad o funcionario que, faltando a los deberes de su cargo, permitiere que otras personas ejecuten los hechos previstos en ellos.
 
-
 #### Artículo 177.
 
 Si en los delitos descritos en los artículos precedentes, además del atentado a la integridad moral, se produjere lesión o daño a la vida, integridad física, salud, libertad sexual o bienes de la víctima o de un tercero, se castigarán los hechos separadamente con la pena que les corresponda por los delitos o faltas cometidos, excepto cuando aquél ya se halle especialmente castigado por la Ley.
 
-
 **TITULO VIII**
-
 
 **Delitos contra la libertad sexual**
 
@@ -1836,16 +1624,13 @@ CAPITULO I
 
 De las agresiones sexuales
 
-
 #### Artículo 178.
 
 El que atentare contra la libertad sexual de otra persona, con violencia o intimidación, será castigado como culpable de agresión sexual con la pena de prisión de uno a cuatro años.
 
-
 #### Artículo 179.
 
 Cuando la agresión sexual consista en acceso carnal, introducción de objetos o penetración bucal o anal, la pena será de prisión de seis a doce años.
-
 
 #### Artículo 180.
 
@@ -1867,7 +1652,6 @@ CAPITULO II
 
 De los abusos sexuales
 
-
 #### Artículo 181.
 
 1. El que, sin violencia o intimidación y sin que medie consentimiento, realizare actos que atenten contra la libertad sexual de otra persona, será castigado como culpable de abuso sexual con la pena de multa de doce a veinticuatro meses.
@@ -1882,7 +1666,6 @@ En estos casos, se impondrá la pena de prisión de seis meses a dos años.
 
 3. Cuando el consentimiento se obtenga prevaliéndose el culpable de una situación de superioridad manifiesta que coarte la libertad de la víctima se impondrá la pena de multa de seis a doce meses.
 
-
 #### Artículo 182.
 
 Cuando el abuso sexual consista en acceso carnal, introducción de objetos o penetración bucal o anal, la pena será de prisión de cuatro a diez años en los casos de falta de consentimiento, y de uno a seis años en los de abuso de superioridad.
@@ -1892,7 +1675,6 @@ Las penas señaladas en el párrafo anterior se impondrán en su mitad superior 
 1.º Cuando el delito se cometa, prevaliéndose de su relación de parentesco, por ascendiente, descendiente o hermano, por naturaleza o adopción, de la víctima.
 
 2.º Cuando la víctima sea persona especialmente vulnerable por razón de su edad, enfermedad o situación.
-
 
 #### Artículo 183.
 
@@ -1904,7 +1686,6 @@ CAPITULO III
 
 Del acoso sexual
 
-
 #### Artículo 184.
 
 El que solicitare favores de naturaleza sexual para sí o para un tercero prevaliéndose de una situación de superioridad laboral, docente o análoga, con el anuncio expreso o tácito de causar a la víctima un mal relacionado con las legítimas expectativas que pueda tener en el ámbito de dicha relación, será castigado como autor de acoso sexual con la pena de arresto de doce a veinticuatro fines de semana o multa de seis a doce meses.
@@ -1913,11 +1694,9 @@ CAPITULO IV
 
 De los delitos de exhibicionismo y provocación sexual
 
-
 #### Artículo 185.
 
 El que ejecutare o hiciere ejecutar a otros actos de exhibición obscena ante menores de edad o incapaces, será castigado con la pena de multa de tres a diez meses.
-
 
 #### Artículo 186.
 
@@ -1927,13 +1706,11 @@ CAPITULO V
 
 De los delitos relativos a la prostitución
 
-
 #### Artículo 187.
 
 1. El que induzca, promueva, favorezca o facilite la prostitución de una persona menor de edad o incapaz, será castigado con las penas de prisión de uno a cuatro años y multa de doce a veinticuatro meses.
 
 2. Incurrirán en la pena de prisión prevista en su mitad superior y además en la de inhabilitación absoluta de seis a doce años, los que realicen las conductas anteriores prevaliéndose de su condición de autoridad pública, agente de ésta o funcionario público.
-
 
 #### Artículo 188.
 
@@ -1943,7 +1720,6 @@ De los delitos relativos a la prostitución
 
 3. Si aquellas conductas se ejercieren sobre persona menor de edad o incapaz, se impondrá la pena superior en grado.
 
-
 #### Artículo 189.
 
 1. El que utilizare a un menor de edad o a un incapaz con fines o en espectáculos exhibicionistas o pornográficos será castigado con la pena de prisión de uno a tres años.
@@ -1951,7 +1727,6 @@ De los delitos relativos a la prostitución
 2. El que tuviere bajo su potestad, tutela, guarda o acogimiento un menor de edad o incapaz y que, con noticia de la prostitución de éste, no haga lo posible para impedir su continuación en tal estado, o no acudiere a la autoridad para el mismo fin si carece de medios para su custodia, incurrirá en la pena de multa de tres a diez meses.
 
 3. El Ministerio Fiscal promoverá las acciones pertinentes con objeto de privar de la patria potestad, tutela, guarda o acogimiento familiar, a la persona que incurra en alguna de las conductas mencionadas en el párrafo anterior.
-
 
 #### Artículo 190.
 
@@ -1961,13 +1736,11 @@ CAPITULO VI
 
 Disposiciones comunes a los capítulos anteriores
 
-
 #### Artículo 191.
 
 1. Para proceder por los delitos de agresiones, acoso o abusos sexuales, será precisa denuncia de la persona agraviada, de su representante legal o querella del Ministerio Fiscal, que actuará ponderando los legítimos intereses en presencia. Cuando la víctima sea menor de edad, incapaz o una persona desvalida, bastará la denuncia del Ministerio Fiscal.
 
 2. En estos delitos el perdón del ofendido o del representante legal no extingue la acción penal ni la responsabilidad de esa clase.
-
 
 #### Artículo 192.
 
@@ -1977,22 +1750,17 @@ No se aplicará esta regla cuando la circunstancia en ella contenida esté espec
 
 2. El Juez o Tribunal podrá imponer razonadamente, además, la pena de inhabilitación especial para el ejercicio de los derechos de la patria potestad, tutela, curatela, guarda, empleo o cargo público o ejercicio de la profesión u oficio, por el tiempo de seis meses a seis años.
 
-
 #### Artículo 193.
 
 En las sentencias condenatorias por delitos contra la libertad sexual, además del pronunciamiento correspondiente a la responsabilidad civil, se harán, en su caso, los que procedan en orden a la filiación y fijación de alimentos.
-
 
 #### Artículo 194.
 
 En los supuestos tipificados en los capítulos IV y V de este Título, cuando en la realización de los actos se utilizaren establecimientos o locales, abiertos o no al público, podrá decretarse en la sentencia condenatoria su clausura temporal o definitiva. La clausura temporal, que no podrá exceder de cinco años, podrá adoptarse también con carácter cautelar.
 
-
 **TITULO IX**
 
-
 **De la omisión del deber de socorro**
-
 
 #### Artículo 195.
 
@@ -2002,21 +1770,17 @@ En los supuestos tipificados en los capítulos IV y V de este Título, cuando en
 
 3. Si la víctima lo fuere por accidente ocasionado fortuitamente por el que omitió el auxilio, la pena será de prisión de seis meses a un año y multa de seis a doce meses, y si el accidente se debiere a imprudencia, la de prisión de seis meses a dos años y multa de seis a veinticuatro meses.
 
-
 #### Artículo 196.
 
 El profesional que, estando obligado a ello, denegare asistencia sanitaria o abandonare los servicios sanitarios, cuando de la denegación o abandono se derive riesgo grave para la salud de las personas, será castigado con las penas del artículo precedente en su mitad superior y con la de inhabilitación especial para empleo o cargo público, profesión u oficio, por tiempo de seis meses a tres años.
 
-
 **TITULO X**
-
 
 **Delitos contra la intimidad, el derecho a la propia imagen y la inviolabilidad del domicilio**
 
 CAPITULO I
 
 Del descubrimiento y revelación de secretos
-
 
 #### Artículo 197.
 
@@ -2032,11 +1796,9 @@ Será castigado con las penas de prisión de uno a tres años y multa de doce a 
 
 6. Si los hechos se realizan con fines lucrativos, se impondrán las penas respectivamente previstas en los apartados 1 al 4 de este artículo en su mitad superior. Si además afectan a datos de los mencionados en el apartado 5, la pena a imponer será la de prisión de cuatro a siete años.
 
-
 #### Artículo 198.
 
 La autoridad o funcionario público que, fuera de los casos permitidos por la Ley, sin mediar causa legal por delito, y prevaliéndose de su cargo, realizare cualquiera de las conductas descritas en el artículo anterior, será castigado con las penas respectivamente previstas en el mismo, en su mitad superior y, además, con la de inhabilitación absoluta por tiempo de seis a doce años.
-
 
 #### Artículo 199.
 
@@ -2044,11 +1806,9 @@ La autoridad o funcionario público que, fuera de los casos permitidos por la Le
 
 2. El profesional que, con incumplimiento de su obligación de sigilo o reserva, divulgue los secretos de otra persona, será castigado con la pena de prisión de uno a cuatro años, multa de doce a veinticuatro meses e inhabilitación especial para dicha profesión por tiempo de dos a seis años.
 
-
 #### Artículo 200.
 
 Lo dispuesto en este capítulo será aplicable al que descubriere, revelare o cediere datos reservados de personas jurídicas, sin el consentimiento de sus representantes, salvo lo dispuesto en otros preceptos de este Código.
-
 
 #### Artículo 201.
 
@@ -2062,13 +1822,11 @@ CAPITULO II
 
 Del allanamiento de morada, domicilio de personas jurídicas y establecimientos abiertos al público
 
-
 #### Artículo 202.
 
 1. El particular que, sin habitar en ella, entrare en morada ajena o se mantuviere en la misma contra la voluntad de su morador, será castigado con la pena de prisión de seis meses a dos años.
 
 2. Si el hecho se ejecutare con violencia o intimidación la pena será de prisión de uno a cuatro años y multa de seis a doce meses.
-
 
 #### Artículo 203.
 
@@ -2076,14 +1834,11 @@ Del allanamiento de morada, domicilio de personas jurídicas y establecimientos 
 
 2. Será castigado con la pena de prisión de seis meses a tres años, el que con violencia o intimidación entrare o se mantuviere contra la voluntad de su titular en el domicilio de una persona jurídica pública o privada, despacho profesional u oficina, o en establecimiento mercantil o local abierto al público.
 
-
 #### Artículo 204.
 
 La autoridad o funcionario público que, fuera de los casos permitidos por la Ley y sin mediar causa legal por delito, cometiere cualquiera de los hechos descritos en los dos artículos anteriores, será castigado con la pena prevista respectivamente en los mismos, en su mitad superior, e inhabilitación absoluta de seis a doce años.
 
-
 **TITULO XI**
-
 
 **Delitos contra el honor**
 
@@ -2091,16 +1846,13 @@ CAPITULO I
 
 De la calumnia
 
-
 #### Artículo 205.
 
 Es calumnia la imputación de un delito hecha con conocimiento de su falsedad o temerario desprecio hacia la verdad.
 
-
 #### Artículo 206.
 
 Las calumnias serán castigadas con las penas de prisión de seis meses a dos años o multa de seis a veinticuatro meses, si se propagaran con publicidad, y, en otro caso, con multa de cuatro a diez meses.
-
 
 #### Artículo 207.
 
@@ -2110,7 +1862,6 @@ CAPITULO II
 
 De la injuria
 
-
 #### Artículo 208.
 
 Es injuria la acción o expresión que lesionan la dignidad de otra persona, menoscabando su fama o atentando contra su propia estimación.
@@ -2119,11 +1870,9 @@ Solamente serán constitutivas de delito las injurias que, por su naturaleza, ef
 
 Las injurias que consistan en la imputación de hechos no se considerarán graves, salvo cuando se hayan llevado a cabo con conocimiento de su falsedad o temerario desprecio hacia la verdad.
 
-
 #### Artículo 209.
 
 Las injurias graves hechas con publicidad se castigarán con la pena de multa de seis a catorce meses y, en otro caso, con la de tres a siete meses.
-
 
 #### Artículo 210.
 
@@ -2133,28 +1882,23 @@ CAPITULO III
 
 Disposiciones generales
 
-
 #### Artículo 211.
 
 La calumnia y la injuria se reputarán hechas con publicidad cuando se propaguen por medio de la imprenta, la radiodifusión o por cualquier otro medio de eficacia semejante.
-
 
 #### Artículo 212.
 
 En los casos a los que se refiere el artículo anterior, será responsable civil solidaria la persona física o jurídica propietaria del medio informativo a través del cual se haya propagado la calumnia o injuria.
 
-
 #### Artículo 213.
 
 Si la calumnia o injuria fueren cometidas mediante precio, recompensa o promesa, los Tribunales impondrán, además de las penas señaladas para los delitos de que se trate, la de inhabilitación especial prevista en los artículos 42 ó 45 del presente Código, por tiempo de seis meses a dos años.
-
 
 #### Artículo 214.
 
 Si el acusado de calumnia o injuria reconociere ante la autoridad judicial la falsedad o falta de certeza de las imputaciones y se retractare de ellas, el Juez o Tribunal impondrá la pena inmediatamente inferior en grado y podrá dejar de imponer la pena de inhabilitación que establece el artículo anterior.
 
 El Juez o Tribunal ante quien se produjera el reconocimiento ordenará que se entregue testimonio de retractación al ofendido y, si éste lo solicita, ordenará su publicación en el mismo medio en que se vertió la calumnia o injuria, en espacio idéntico o similar a aquél en que se produjo su difusión y dentro del plazo que señale el Juez o Tribunal sentenciador.
-
 
 #### Artículo 215.
 
@@ -2164,14 +1908,11 @@ El Juez o Tribunal ante quien se produjera el reconocimiento ordenará que se en
 
 3. El culpable de calumnia o injuria quedará exento de responsabilidad criminal mediante el perdón de la persona ofendida por el delito o de su representante legal, sin perjuicio de lo dispuesto en el segundo párrafo del número 4.º del artículo 130 de este Código.
 
-
 #### Artículo 216.
 
 En los delitos de calumnia o injuria se considera que la reparación del daño comprende también la publicación o divulgación de la sentencia condenatoria, a costa del condenado por tales delitos, en el tiempo y forma que el Juez o Tribunal consideren más adecuado a tal fin, oídas las dos partes.
 
-
 **TITULO XII**
-
 
 **Delitos contra las relaciones familiares**
 
@@ -2179,18 +1920,15 @@ CAPITULO I
 
 De los matrimonios ilegales
 
-
 #### Artículo 217.
 
 El que contrajere segundo o ulterior matrimonio, a sabiendas de que subsiste legalmente el anterior, será castigado con la pena de prisión de seis meses a un año.
-
 
 #### Artículo 218.
 
 1. El que, para perjudicar al otro contrayente, celebrare matrimonio inválido será castigado con la pena de prisión de seis meses a dos años.
 
 2. El responsable quedará exento de pena si el matrimonio fuese posteriormente convalidado.
-
 
 #### Artículo 219.
 
@@ -2201,7 +1939,6 @@ El que contrajere segundo o ulterior matrimonio, a sabiendas de que subsiste leg
 CAPITULO II
 
 De la suposición de parto y de la alteración de la paternidad, estado o condición del menor
-
 
 #### Artículo 220.
 
@@ -2215,7 +1952,6 @@ De la suposición de parto y de la alteración de la paternidad, estado o condic
 
 5. Las sustituciones de un niño por otro que se produjeren en centros sanitarios o socio-sanitarios por imprudencia grave de los responsables de su identificación y custodia, serán castigadas con la pena de prisión de seis meses a un año.
 
-
 #### Artículo 221.
 
 1. Los que, mediando compensación económica, entreguen a otra persona un hijo, descendiente o cualquier menor aunque no concurra relación de filiación o parentesco, eludiendo los procedimientos legales de la guarda, acogimiento o adopción, con la finalidad de establecer una relación análoga a la de filiación, serán castigados con las penas de prisión de uno a cinco años y de inhabilitación especial para el ejercicio del derecho de patria potestad por tiempo de cuatro a diez años.
@@ -2223,7 +1959,6 @@ De la suposición de parto y de la alteración de la paternidad, estado o condic
 2. Con la misma pena serán castigados la persona que lo reciba y el intermediario, aunque la entrega del menor se hubiese efectuado en país extranjero.
 
 3. Si los hechos se cometieren utilizando guarderías, colegios u otros locales o establecimientos donde se recojan niños, se impondrá a los culpables la pena de inhabilitación especial para el ejercicio de las referidas actividades por tiempo de dos a seis años y se podrá acordar la clausura temporal o definitiva de los establecimientos. En la clausura temporal, el plazo no podrá exceder de cinco años.
-
 
 #### Artículo 222.
 
@@ -2237,16 +1972,13 @@ De los delitos contra los derechos y deberes familiares
 
 SECCIÓN 1.ª DEL QUEBRANTAMIENTO DE LOS DEBERES DE CUSTODIA Y DE LA INDUCCIÓN DE MENORES AL ABANDONO DE DOMICILIO
 
-
 #### Artículo 223.
 
 El que, teniendo a su cargo la custodia de un menor de edad o un incapaz, no lo presentare a sus padres o guardadores sin justificación para ello, cuando fuere requerido por ellos, será castigado con la pena de prisión de seis meses a dos años, sin perjuicio de que los hechos constituyan otro delito más grave.
 
-
 #### Artículo 224.
 
 El que indujere a un menor de edad o a un incapaz a que abandone el domicilio familiar, o lugar donde resida con anuencia de sus padres, tutores o guardadores, será castigado con la pena de prisión de seis meses a dos años.
-
 
 #### Artículo 225.
 
@@ -2254,13 +1986,11 @@ Cuando el responsable de los delitos previstos en esta Sección restituya al men
 
 SECCIÓN 2.ª DEL ABANDONO DE FAMILIA, MENORES O INCAPACES
 
-
 #### Artículo 226.
 
 1. El que dejare de cumplir los deberes legales de asistencia inherentes a la patria potestad, tutela, guarda o acogimiento familiar o de prestar la asistencia necesaria legalmente establecida para el sustento de sus descendientes, ascendientes o cónyuge, que se hallen necesitados, será castigado con la pena de arresto de ocho a veinte fines de semana.
 
 2. El Juez o Tribunal podrá imponer, motivadamente, al reo la pena de inhabilitación especial para el ejercicio del derecho de patria potestad, tutela, guarda o acogimiento familiar por tiempo de cuatro a diez años.
-
 
 #### Artículo 227.
 
@@ -2270,11 +2000,9 @@ SECCIÓN 2.ª DEL ABANDONO DE FAMILIA, MENORES O INCAPACES
 
 3. La reparación del daño procedente del delito comportará siempre el pago de las cuantías adeudadas.
 
-
 #### Artículo 228.
 
 Los delitos previstos en los dos artículos anteriores, sólo se perseguirán previa denuncia de la persona agraviada o de su representante legal. Cuando aquélla sea menor de edad, incapaz o una persona desvalida, también podrá denunciar el Ministerio Fiscal.
-
 
 #### Artículo 229.
 
@@ -2284,11 +2012,9 @@ Los delitos previstos en los dos artículos anteriores, sólo se perseguirán pr
 
 3. Se impondrá la pena de prisión de dos a cuatro años cuando por las circunstancias del abandono se haya puesto en concreto peligro la vida, salud, integridad física o libertad sexual del menor de edad o del incapaz, sin perjuicio de castigar el hecho como corresponda si constituyera otro delito más grave.
 
-
 #### Artículo 230.
 
 El abandono temporal de un menor de edad o de un incapaz será castigado, en sus respectivos casos, con las penas inferiores en grado a las previstas en el artículo anterior.
-
 
 #### Artículo 231.
 
@@ -2296,13 +2022,11 @@ El abandono temporal de un menor de edad o de un incapaz será castigado, en sus
 
 2. Si con la entrega se hubiere puesto en concreto peligro la vida, salud, integridad física o libertad sexual del menor de edad o del incapaz se impondrá la pena de prisión de seis meses a dos años.
 
-
 #### Artículo 232.
 
 1. Los que utilizaren o prestaren a menores de edad o incapaces para la práctica de la mendicidad, incluso si ésta es encubierta, serán castigados con la pena de prisión de seis meses a un año.
 
 2. Si para los fines del apartado anterior se traficare con menores de edad o incapaces, se empleare con ellos violencia o intimidación, o se les suministrare sustancias perjudiciales para su salud, se impondrá la pena de prisión de uno a cuatro años.
-
 
 #### Artículo 233.
 
@@ -2312,9 +2036,7 @@ El abandono temporal de un menor de edad o de un incapaz será castigado, en sus
 
 3. En todo caso, el Ministerio Fiscal instará de la autoridad competente las medidas pertinentes para la debida custodia y protección del menor.
 
-
 **TITULO XIII**
-
 
 **Delitos contra el patrimonio y contra el orden socioeconómico**
 
@@ -2322,11 +2044,9 @@ CAPITULO I
 
 De los hurtos
 
-
 #### Artículo 234.
 
 El que, con ánimo de lucro, tomare las cosas muebles ajenas sin la voluntad de su dueño, será castigado, como reo de hurto, con la pena de prisión de seis a dieciocho meses, si la cuantía de lo sustraído excede de cincuenta mil pesetas.
-
 
 #### Artículo 235.
 
@@ -2340,7 +2060,6 @@ El hurto será castigado con la pena de prisión de uno a tres años:
 
 4. Cuando ponga a la víctima o a su familia en grave situación económica o se haya realizado abusando de las circunstancias personales de la víctima.
 
-
 #### Artículo 236.
 
 Será castigado con multa de tres a doce meses el que, siendo dueño de una cosa mueble o actuando con el consentimiento de éste, la sustrajere de quien la tenga legítimamente en su poder, con perjuicio del mismo o de un tercero, siempre que el valor de aquélla excediere de cincuenta mil pesetas.
@@ -2349,11 +2068,9 @@ CAPITULO II
 
 De los robos
 
-
 #### Artículo 237.
 
 Son reos del delito de robo los que, con ánimo de lucro, se apoderaren de las cosas muebles ajenas empleando fuerza en las cosas para acceder al lugar donde éstas se encuentran o violencia o intimidación en las personas.
-
 
 #### Artículo 238.
 
@@ -2369,7 +2086,6 @@ Son reos del delito de robo con fuerza en las cosas los que ejecuten el hecho cu
 
 5.º Inutilización de sistemas específicos de alarma o guarda.
 
-
 #### Artículo 239.
 
 Se considerarán llaves falsas:
@@ -2382,11 +2098,9 @@ Se considerarán llaves falsas:
 
 A los efectos del presente artículo, se consideran llaves las tarjetas, magnéticas o perforadas, y los mandos o instrumentos de apertura a distancia.
 
-
 #### Artículo 240.
 
 El culpable de robo con fuerza en las cosas será castigado con la pena de prisión de uno a tres años.
-
 
 #### Artículo 241.
 
@@ -2395,7 +2109,6 @@ El culpable de robo con fuerza en las cosas será castigado con la pena de prisi
 2. Se considera casa habitada todo albergue que constituya morada de una o más personas, aunque accidentalmente se encuentren ausentes de ella cuando el robo tenga lugar.
 
 3. Se consideran dependencias de casa habitada o de edificio o local abiertos al público, sus patios, garajes y demás departamentos o sitios cercados y contiguos al edificio y en comunicación interior con él, y con el cual formen una unidad física.
-
 
 #### Artículo 242.
 
@@ -2409,7 +2122,6 @@ CAPITULO III
 
 De la extorsión
 
-
 #### Artículo 243.
 
 El que, con ánimo de lucro, obligare a otro, con violencia o intimidación, a realizar u omitir un acto o negocio jurídico en perjuicio de su patrimonio o del de un tercero, será castigado con la pena de prisión de uno a cinco años, sin perjuicio de las que pudieran imponerse por los actos de violencia física realizados.
@@ -2417,7 +2129,6 @@ El que, con ánimo de lucro, obligare a otro, con violencia o intimidación, a r
 CAPITULO IV
 
 Del robo y hurto de uso de vehículos
-
 
 #### Artículo 244.
 
@@ -2433,18 +2144,15 @@ CAPITULO V
 
 De la usurpación
 
-
 #### Artículo 245.
 
 1. Al que con violencia o intimidación en las personas ocupare una cosa inmueble o usurpare un derecho real inmobiliario de pertenencia ajena, se le impondrá, además de las penas en que incurriere por las violencias ejercidas, una multa de seis a dieciocho meses, que se fijará teniendo en cuenta la utilidad obtenida y el daño causado.
 
 2. El que ocupare, sin autorización debida, un inmueble, vivienda o edificio ajenos que no constituyan morada, o se mantuviere en ellos contra la voluntad de su titular, será castigado con la pena de multa de tres a seis meses.
 
-
 #### Artículo 246.
 
 El que alterare términos o lindes de pueblos o heredades o cualquier clase de señales o mojones destinados a fijar los límites de propiedades o demarcaciones de predios contiguos, tanto de dominio público como privado, será castigado con la pena de multa de tres a dieciocho meses, si la utilidad reportada o pretendida excede de cincuenta mil pesetas.
-
 
 #### Artículo 247.
 
@@ -2456,7 +2164,6 @@ De las defraudaciones
 
 SECCIÓN 1.ª DE LAS ESTAFAS
 
-
 #### Artículo 248.
 
 1. Cometen estafa los que, con ánimo de lucro, utilizaren engaño bastante para producir error en otro, induciéndolo a realizar un acto de disposición en perjuicio propio o ajeno.
@@ -2465,11 +2172,9 @@ SECCIÓN 1.ª DE LAS ESTAFAS
 
 patrimonial en perjuicio de tercero.
 
-
 #### Artículo 249.
 
 Los reos de estafa serán castigados con la pena de prisión de seis meses a cuatro años, si la cuantía de lo defraudado excediere de cincuenta mil pesetas. Para la fijación de la pena se tendrá en cuenta el importe de lo defraudado, el quebranto económico causado al perjudicado, las relaciones entre éste y el defraudador, los medios empleados por éste y cuantas otras circunstancias sirvan para valorar la gravedad de la infracción.
-
 
 #### Artículo 250.
 
@@ -2491,7 +2196,6 @@ Los reos de estafa serán castigados con la pena de prisión de seis meses a cua
 
 2. Si concurrieran las circunstancias 6.ª o 7.ª con la 1.ª del número anterior, se impondrán las penas de prisión de cuatro a ocho años y multa de doce a veinticuatro meses.
 
-
 #### Artículo 251.
 
 Será castigado con la pena de prisión de uno a cuatro años:
@@ -2504,23 +2208,19 @@ Será castigado con la pena de prisión de uno a cuatro años:
 
 SECCIÓN 2.ª DE LA APROPIACIÓN INDEBIDA
 
-
 #### Artículo 252.
 
 Serán castigados con las penas del artículo 249 ó 250, en su caso, los que en perjuicio de otro se apropiaren o distrajeren dinero, efectos, valores o cualquier otra cosa mueble o activo patrimonial que hayan recibido en depósito, comisión o administración, o por otro título que produzca obligación de entregarlos o devolverlos, o negaren haberlos recibido, cuando la cuantía de lo apropiado exceda de cincuenta mil pesetas. Dicha pena se impondrá en su mitad superior en el caso de depósito necesario o miserable.
 
-
 #### Artículo 253.
 
 Serán castigados con la pena de multa de tres a seis meses los que, con ánimo de lucro, se apropiaren de cosa perdida o de dueño desconocido, siempre que en ambos casos el valor de lo apropiado exceda de cincuenta mil pesetas. Si se tratara de cosas de valor artístico, histórico, cultural o científico, la pena será de prisión de seis meses a dos años.
-
 
 #### Artículo 254.
 
 Será castigado con la pena de multa de tres a seis meses el que, habiendo recibido indebidamente, por error del transmitente, dinero o alguna otra cosa mueble, niegue haberla recibido o, comprobado el error, no proceda a su devolución, siempre que la cuantía de lo recibido exceda de cincuenta mil pesetas.
 
 SECCIÓN 3.ª DE LAS DEFRAUDACIONES DE FLUIDO ELÉCTRICO Y ANÁLOGAS
-
 
 #### Artículo 255.
 
@@ -2532,7 +2232,6 @@ Será castigado con la pena de multa de tres a doce meses el que cometiere defra
 
 3.º Empleando cualesquiera otros medios clandestinos.
 
-
 #### Artículo 256.
 
 El que hiciere uso de cualquier equipo terminal de telecomunicación, sin consentimiento de su titular, ocasionando a éste un perjuicio superior a cincuenta mil pesetas, será castigado con la pena de multa de tres a doce meses.
@@ -2540,7 +2239,6 @@ El que hiciere uso de cualquier equipo terminal de telecomunicación, sin consen
 CAPITULO VII
 
 De las insolvencias punibles
-
 
 #### Artículo 257.
 
@@ -2554,16 +2252,13 @@ De las insolvencias punibles
 
 3. Este delito será perseguido aun cuando tras su comisión se iniciara una ejecución concursal.
 
-
 #### Artículo 258.
 
 El responsable de cualquier hecho delictivo que, con posterioridad a su comisión, y con la finalidad de eludir el cumplimiento de las responsabilidades civiles dimanantes del mismo, realizare actos de disposición o contrajere obligaciones que disminuyan su patrimonio, haciéndose total o parcialmente insolvente, será castigado con la pena de prisión de uno a cuatro años y multa de doce a veinticuatro meses.
 
-
 #### Artículo 259.
 
 Será castigado con las penas de prisión de uno a cuatro años y multa de doce a veinticuatro meses, el deudor que una vez admitida a trámite la solicitud de quiebra, concurso o suspensión de pagos, sin estar autorizado para ello ni judicialmente ni por los órganos concursales, y fuera de los casos permitidos por la Ley, realice cualquier acto de disposición patrimonial o generador de obligaciones, destinado a pagar a uno o varios acreedores, preferentes o no, con posposición del resto.
-
 
 #### Artículo 260.
 
@@ -2575,7 +2270,6 @@ Será castigado con las penas de prisión de uno a cuatro años y multa de doce 
 
 4. En ningún caso, la calificación de la insolvencia en el proceso civil vincula a la jurisdicción penal.
 
-
 #### Artículo 261.
 
 El que en procedimiento de quiebra, concurso o expediente de suspensión de pagos presentare, a sabiendas, datos falsos relativos al estado contable, con el fin de lograr indebidamente la declaración de aquéllos, será castigado con la pena de prisión de uno a dos años y multa de seis a doce meses.
@@ -2583,7 +2277,6 @@ El que en procedimiento de quiebra, concurso o expediente de suspensión de pago
 CAPITULO VIII
 
 De la alteración de precios en concursos y subastas públicas
-
 
 #### Artículo 262.
 
@@ -2593,11 +2286,9 @@ CAPITULO IX
 
 De los daños
 
-
 #### Artículo 263.
 
 El que causare daños en propiedad ajena no comprendidos en otros Títulos de este Código, será castigado con la pena de multa de seis a veinticuatro meses, atendidas la condición económica de la víctima y la cuantía del daño, si éste excediera de cincuenta mil pesetas.
-
 
 #### Artículo 264.
 
@@ -2615,16 +2306,13 @@ El que causare daños en propiedad ajena no comprendidos en otros Títulos de es
 
 2. La misma pena se impondrá al que por cualquier medio destruya, altere, inutilice o de cualquier otro modo dañe los datos, programas o documentos electrónicos ajenos contenidos en redes, soportes o sistemas informáticos.
 
-
 #### Artículo 265.
 
 El que destruyere, dañare de modo grave, o inutilizare para el servicio, aun de forma temporal, obras, establecimientos o instalaciones militares, buques de guerra, aeronaves militares, medios de transporte o transmisión militar, material de guerra, aprovisionamiento u otros medios o recursos afectados al servicio de las Fuerzas Armadas o de las Fuerzas y Cuerpos de Seguridad, será castigado con la pena de prisión de dos a cuatro años si el daño causado excediere de cincuenta mil pesetas.
 
-
 #### Artículo 266.
 
 Será castigado con la pena de prisión de cuatro a ocho años el que cometa los hechos descritos en el artículo anterior, mediante incendio o cualquier otro medio capaz de causar graves estragos o que pongan en peligro la vida o integridad de las personas.
-
 
 #### Artículo 267.
 
@@ -2638,13 +2326,11 @@ CAPITULO X
 
 Disposiciones comunes a los capítulos anteriores
 
-
 #### Artículo 268.
 
 1. Están exentos de responsabilidad criminal y sujetos únicamente a la civil los cónyuges que no estuvieren separados legalmente o de hecho o en proceso judicial de separación, divorcio o nulidad de su matrimonio y los ascendientes, descendientes y hermanos por naturaleza o por adopción, así como los afines en primer grado si viviesen juntos, por los delitos patrimoniales que se causaren entre sí, siempre que no concurra violencia o intimidación.
 
 2. Esta disposición no es aplicable a los extraños que participaren en el delito.
-
 
 #### Artículo 269.
 
@@ -2656,7 +2342,6 @@ De los delitos relativos a la propiedad intelectual e industrial, al mercado y a
 
 SECCIÓN 1.ª DE LOS DELITOS RELATIVOS A LA PROPIEDAD INTELECTUAL
 
-
 #### Artículo 270.
 
 Será castigado con la pena de prisión de seis meses a dos años o de multa de seis a veinticuatro meses quien, con ánimo de lucro y en perjuicio de tercero, reproduzca, plagie, distribuya o comunique públicamente, en todo o en parte, una obra literaria, artística o científica, o su transformación, interpretación o ejecución artística fijada en cualquier tipo de soporte o comunicada a través de cualquier medio, sin la autorización de los titulares de los correspondientes derechos de propiedad intelectual o de sus cesionarios.
@@ -2664,7 +2349,6 @@ Será castigado con la pena de prisión de seis meses a dos años o de multa de 
 La misma pena se impondrá a quien intencionadamente importe, exporte o almacene ejemplares de dichas obras o producciones o ejecuciones sin la referida autorización.
 
 Será castigada también con la misma pena la fabricación, puesta en circulación y tenencia de cualquier medio específicamente destinada a facilitar la supresión no autorizada o la neutralización de cualquier dispositivo técnico que se haya utilizado para proteger programas de ordenador.
-
 
 #### Artículo 271.
 
@@ -2676,7 +2360,6 @@ b) Que el daño causado revista especial gravedad.
 
 En tales casos, el Juez o Tribunal podrá, asímismo, decretar el cierre temporal o definitivo de la industria o establecimiento del condenado. El cierre temporal no podrá exceder de cinco años.
 
-
 #### Artículo 272.
 
 1. La extensión de la responsabilidad civil derivada de los delitos tipificados en los dos artículos anteriores se regirá por las disposiciones de la Ley de Propiedad Intelectual relativas al cese de la actividad ilícita y a la indemnización de daños y perjuicios.
@@ -2684,7 +2367,6 @@ En tales casos, el Juez o Tribunal podrá, asímismo, decretar el cierre tempora
 2. En el supuesto de sentencia condenatoria, el Juez o Tribunal podrá decretar la publicación de ésta, a costa del infractor, en un periódico oficial.
 
 SECCIÓN 2.ª DE LOS DELITOS RELATIVOS A LA PROPIEDAD INDUSTRIAL
-
 
 #### Artículo 273.
 
@@ -2694,18 +2376,15 @@ SECCIÓN 2.ª DE LOS DELITOS RELATIVOS A LA PROPIEDAD INDUSTRIAL
 
 3. Será castigado con las mismas penas el que realice cualquiera de los actos tipificados en el párrafo primero de este artículo concurriendo iguales circunstancias en relación con objetos amparados en favor de tercero por un modelo o dibujo industrial o artístico o topografía de un producto semiconductor.
 
-
 #### Artículo 274.
 
 1. Será castigado con las penas de seis meses a dos años de prisión y multa de seis a veinticuatro meses el que, con fines industriales o comerciales, sin consentimiento del titular de un derecho de propiedad industrial registrado conforme a la legislación de marcas, y con conocimiento del registro, reproduzca, imite, modifique, o de cualquier otro modo utilice un signo distintivo idéntico o confundible con aquél, para distinguir los mismos o similares productos, servicios, actividades o establecimientos para los que el derecho de propiedad industrial se encuentra registrado.
 
 2. Las mismas penas se impondrán al que, a sabiendas posea para su comercialización, o ponga en el comercio, productos o servicios con signos distintivos que, de acuerdo con el apartado 1 de este artículo, suponen una infracción de los derechos exclusivos del titular de los mismos, aun cuando se trate de productos importados del extranjero.
 
-
 #### Artículo 275.
 
 Las mismas penas previstas en el artículo anterior se impondrán a quien intencionadamente y sin estar autorizado para ello, utilice en el tráfico económico una denominación de origen o una indicación geográfica representativa de una calidad determinada legalmente protegidas para distinguir los productos amparados por ellas, con conocimiento de esta protección.
-
 
 #### Artículo 276.
 
@@ -2713,13 +2392,11 @@ Las mismas penas previstas en el artículo anterior se impondrán a quien intenc
 
 2. En dicho supuesto, el Juez podrá decretar el cierre temporal o definitivo de la industria o establecimiento del condenado. El cierre temporal no podrá exceder de cinco años.
 
-
 #### Artículo 277.
 
 Será castigado con las penas de prisión de seis meses a dos años y multa de seis a veinticuatro meses, el que intencionadamente haya divulgado la invención objeto de una solicitud de patente secreta, en contravención con lo dispuesto en la legislación de patentes, siempre que ello sea en perjuicio de la defensa nacional.
 
 SECCIÓN 3.ª DE LOS DELITOS RELATIVOS AL MERCADO Y A LOS CONSUMIDORES
-
 
 #### Artículo 278.
 
@@ -2729,18 +2406,15 @@ SECCIÓN 3.ª DE LOS DELITOS RELATIVOS AL MERCADO Y A LOS CONSUMIDORES
 
 3. Lo dispuesto en el presente artículo se entenderá sin perjuicio de las penas que pudieran corresponder por el apoderamiento o destrucción de los soportes informáticos.
 
-
 #### Artículo 279.
 
 La difusión, revelación o cesión de un secreto de empresa llevada a cabo por quien tuviere legal o contractualmente obligación de guardar reserva, se castigará con la pena de prisión de dos a cuatro años y multa de doce a veinticuatro meses.
 
 Si el secreto se utilizara en provecho propio, las penas se impondrán en su mitad inferior.
 
-
 #### Artículo 280.
 
 El que, con conocimiento de su origen ilícito, y sin haber tomado parte en su descubrimiento, realizare alguna de las conductas descritas en los dos artículos anteriores, será castigado con la pena de prisión de uno a tres años y multa de doce a veinticuatro meses.
-
 
 #### Artículo 281.
 
@@ -2748,26 +2422,21 @@ El que, con conocimiento de su origen ilícito, y sin haber tomado parte en su d
 
 2. Se impondrá la pena superior en grado si el hecho se realiza en situaciones de grave necesidad o catastróficas.
 
-
 #### Artículo 282.
 
 Serán castigados con la pena de prisión de seis meses a un año o multa de seis a dieciocho meses los fabricantes o comerciantes que, en sus ofertas o publicidad de productos o servicios, hagan alegaciones falsas o manifiesten características inciertas sobre los mismos, de modo que puedan causar un perjuicio grave y manifiesto a los consumidores, sin perjuicio de la pena que corresponda aplicar por la comisión de otros delitos.
-
 
 #### Artículo 283.
 
 Se impondrán las penas de prisión de seis meses a un año y multa de seis a dieciocho meses a los que, en perjuicio del consumidor, facturen cantidades superiores por productos o servicios cuyo costo o precio se mida por aparatos automáticos, mediante la alteración o manipulación de éstos.
 
-
 #### Artículo 284.
 
 Se impondrá la pena de prisión de seis meses a dos años, o multa de seis a dieciocho meses, a los que, difundiendo noticias falsas, empleando violencia, amenaza o engaño, o utilizando información privilegiada, intentaren alterar los precios que habrían de resultar de la libre concurrencia de productos, mercancías, títulos valores, servicios o cualesquiera otras cosas muebles o inmuebles que sean objeto de contratación, sin perjuicio de la pena que pudiera corresponderles por otros delitos cometidos.
 
-
 #### Artículo 285.
 
 Quien de forma directa o por persona interpuesta usare de alguna información relevante para la cotización de cualquier clase de valores o instrumentos negociados en algún mercado organizado, oficial o reconocido, a la que haya tenido acceso reservado con ocasión del ejercicio de su actividad profesional o empresarial, o la suministrare obteniendo para sí o para un tercero un beneficio económico superior a setenta y cinco millones de pesetas o causando un perjuicio de idéntica cantidad, será castigado con la pena de prisión de uno a cuatro años y multa de tanto al triplo del beneficio obtenido o favorecido.
-
 
 #### Artículo 286.
 
@@ -2781,13 +2450,11 @@ Se aplicará la pena de prisión de cuatro a seis años y multa de doce a veinti
 
 SECCIÓN 4.ª DISPOSICIONES COMUNES A LAS SECCIONES ANTERIORES
 
-
 #### Artículo 287.
 
 1. Para proceder por los delitos previstos en los artículos anteriores del presente capítulo será necesaria denuncia de la persona agraviada o de sus representantes legales. Cuando aquélla sea menor de edad, incapaz o una persona desvalida, también podrá denunciar el Ministerio Fiscal.
 
 2. No será precisa la denuncia exigida en el apartado anterior cuando la comisión del delito afecte a los intereses generales o a una pluralidad de personas.
-
 
 #### Artículo 288.
 
@@ -2799,7 +2466,6 @@ CAPITULO XII
 
 De la sustracción de cosa propia a su utilidad social o cultural
 
-
 #### Artículo 289.
 
 El que por cualquier medio destruyere, inutilizare o dañare una cosa propia de utilidad social o cultural, o de cualquier modo la sustrajere al cumplimiento de los deberes legales impuestos en interés de la comunidad, será castigado con la pena de arresto de siete a veinticuatro fines de semana o multa de cuatro a dieciséis meses.
@@ -2808,28 +2474,23 @@ CAPITULO XIII
 
 De los delitos societarios
 
-
 #### Artículo 290.
 
 Los administradores, de hecho o de derecho, de una sociedad constituida o en formación, que falsearen las cuentas anuales u otros documentos que deban reflejar la situación jurídica o económica de la entidad, de forma idónea para causar un perjuicio económico a la misma, a alguno de sus socios, o a un tercero, serán castigados con la pena de prisión de uno a tres años y multa de seis a doce meses.
 
 Si se llegare a causar el perjuicio económico se impondrán las penas en su mitad superior.
 
-
 #### Artículo 291.
 
 Los que, prevaliéndose de su situación mayoritaria en la Junta de accionistas o el órgano de administración de cualquier sociedad constituida o en formación, impusieren acuerdos abusivos, con ánimo de lucro propio o ajeno, en perjuicio de los demás socios, y sin que reporten beneficios a la misma, serán castigados con la pena de prisión de seis meses a tres años o multa del tanto al triplo del beneficio obtenido.
-
 
 #### Artículo 292.
 
 La misma pena del artículo anterior se impondrá a los que impusieren o se aprovecharen para sí o para un tercero, en perjuicio de la sociedad o de alguno de sus socios, de un acuerdo lesivo adoptado por una mayoría ficticia, obtenida por abuso de firma en blanco, por atribución indebida del derecho de voto a quienes legalmente carezcan del mismo, por negación ilícita del ejercicio de este derecho a quienes lo tengan reconocido por la Ley, o por cualquier otro medio o procedimiento semejante, y sin perjuicio de castigar el hecho como corresponde si constituyese otro delito.
 
-
 #### Artículo 293.
 
 Los administradores de hecho o de derecho de cualquier sociedad constituida o en formación, que sin causa legal negaren o impidieren a un socio el ejercicio de los derechos de información, participación en la gestión o control de la actividad social, o suscripción preferente de acciones reconocidos por las Leyes, serán castigados con la pena de multa de seis a doce meses.
-
 
 #### Artículo 294.
 
@@ -2837,18 +2498,15 @@ Los que, como administradores de hecho o de derecho de cualquier sociedad consti
 
 Además de las penas previstas en el párrafo anterior, la autoridad judicial podrá decretar algunas de las medidas previstas en el artículo 129 de este Código.
 
-
 #### Artículo 295.
 
 Los administradores de hecho o de derecho o los socios de cualquier sociedad constituida o en formación, que en beneficio propio o de un tercero, con abuso de las funciones propias de su cargo, dispongan fraudulentamente de los bienes de la sociedad o contraigan obligaciones a cargo de ésta causando directamente un perjuicio económicamente evaluable a sus socios, depositarios, cuentapartícipes o titulares de los bienes, valores o capital que administren, serán castigados con la pena de prisión de seis meses a cuatro años, o multa del tanto al triplo del beneficio obtenido.
-
 
 #### Artículo 296.
 
 1. Los hechos descritos en el presente capítulo, sólo serán perseguibles mediante denuncia de la persona agraviada o de su representante legal. Cuando aquélla sea menor de edad, incapaz o una persona desvalida, también podrá denunciar el Ministerio Fiscal.
 
 2. No será precisa la denuncia exigida en el apartado anterior cuando la comisión del delito afecte a los intereses generales o a una pluralidad de personas.
-
 
 #### Artículo 297.
 
@@ -2858,7 +2516,6 @@ CAPITULO XIV
 
 De la receptación y otras conductas afines
 
-
 #### Artículo 298.
 
 1. El que, con ánimo de lucro y con conocimiento de la comisión de un delito contra el patrimonio o el orden socioeconómico, en el que no haya intervenido ni como autor ni como cómplice, ayude a los responsables a aprovecharse de los efectos del mismo, o reciba, adquiera u oculte tales efectos, será castigado con la pena de prisión de seis meses a dos años.
@@ -2867,18 +2524,15 @@ De la receptación y otras conductas afines
 
 3. En ningún caso podrá imponerse pena privativa de libertad que exceda de la señalada al delito encubierto. Si éste estuviese castigado con pena de otra naturaleza, la pena privativa de libertad será sustituida por la de multa de seis a veinticuatro meses, salvo que el delito encubierto tenga asignada pena igual o inferior a ésta; en tal caso, se impondrá al culpable la pena de aquel delito en su mitad inferior.
 
-
 #### Artículo 299.
 
 1. El que, con ánimo de lucro y con conocimiento de la comisión de hechos constitutivos de falta contra la propiedad, habitualmente se aprovechare o auxiliare a los culpables para que se beneficien de los efectos de las mismas, será castigado con la pena de multa de seis a doce meses.
 
 2. Si los efectos los recibiere o adquiriere para traficar con ellos, se impondrá la pena de multa de ocho a dieciséis meses y, si se realizaren los hechos en local abierto al público, podrá acordarse la clausura temporal o definitiva del mismo. En la clausura temporal, el plazo no podrá exceder de cinco años.
 
-
 #### Artículo 300.
 
 Las disposiciones de este capítulo se aplicarán aun cuando el autor o el cómplice del hecho de que provengan los efectos aprovechados fuera irresponsable o estuviera personalmente exento de pena.
-
 
 #### Artículo 301.
 
@@ -2892,7 +2546,6 @@ Las penas se impondrán en su mitad superior cuando los bienes tengan su origen 
 
 4. El culpable será igualmente castigado aunque el delito del que provinieren los bienes, o los actos penados en los apartados anteriores hubiesen sido cometidos, total o parcialmente, en el extranjero.
 
-
 #### Artículo 302.
 
 En los supuestos previstos en el artículo anterior se impondrán las penas privativas de libertad en su mitad superior a las personas que pertenezcan a una organización dedicada a los fines señalados en los mismos, y la pena superior en grado a los jefes, administradores o encargados de las referidas organizaciones.
@@ -2905,24 +2558,19 @@ b) Suspensión de las actividades de la organización, o clausura de sus locales
 
 c) Prohibición a las mismas de realizar aquellas actividades, operaciones mercantiles o negocios, en cuyo ejercicio se haya facilitado o encubierto el delito, por tiempo no superior a cinco años.
 
-
 #### Artículo 303.
 
 Si los hechos previstos en los artículos anteriores fueran realizados por empresario, intermediario en el sector financiero, facultativo, funcionario público, trabajador social, docente o educador, en el ejercicio de su cargo, profesión u oficio, se le impondrá, además de la pena correspondiente, la de inhabilitación especial para empleo o cargo público, profesión u oficio, industria o comercio, de tres a diez años. Se impondrá la pena de inhabilitación absoluta de diez a veinte años cuando los referidos hechos fueren realizados por autoridad o agente de la misma.
 
 A tal efecto, se entiende que son facultativos los médicos, psicólogos, las personas en posesión de títulos sanitarios, los veterinarios, los farmacéuticos y sus dependientes.
 
-
 #### Artículo 304.
 
 La provocación, la conspiración y la proposición para cometer los delitos previstos en los artículos 301 a 303 se castigará, respectivamente, con la pena inferior en uno o dos grados.
 
-
 **TITULO XIV**
 
-
 **De los delitos contra la Hacienda Pública y contra la Seguridad Social**
-
 
 #### Artículo 305.
 
@@ -2944,11 +2592,9 @@ Además de las penas señaladas, se impondrá al responsable la pérdida de la p
 
 La exención de responsabilidad penal contemplada en el párrafo anterior alcanzará igualmente a dicho sujeto por las posibles irregularidades contables u otras falsedades instrumentales que, exclusivamente en relación a la deuda tributaria objeto de regularización, el mismo pudiera haber cometido con carácter previo a la regularización de su situación tributaria.
 
-
 #### Artículo 306.
 
 El que por acción u omisión defraude a los presupuestos generales de las Comunidades u otros administrados por éstas, en cuantía superior a cincuenta mil ecus, eludiendo el pago de cantidades que se deban ingresar, o dando a los fondos obtenidos una aplicación distinta de aquella a que estuvieren destinados, será castigado con la pena de prisión de uno a cuatro años y multa del tanto al séxtuplo de la citada cuantía.
-
 
 #### Artículo 307.
 
@@ -2966,7 +2612,6 @@ b) La especial trascendencia y gravedad de la defraudación atendiendo al import
 
 La exención de responsabilidad penal contemplada en el párrafo anterior alcanzará igualmente a dicho sujeto por las posibles falsedades instrumentales que, exclusivamente en relación a la deuda objeto de regularización, el mismo pudiera haber cometido con carácter previo a la regularización de su situación.
 
-
 #### Artículo 308.
 
 1. El que obtenga una subvención, desgravación o ayuda de las Administraciones públicas de más de diez millones de pesetas falseando las condiciones requeridas para su concesión u ocultando las que la hubiesen impedido, será castigado con la pena de prisión de uno a cuatro años y multa del tanto al séxtuplo de su importe.
@@ -2979,11 +2624,9 @@ La exención de responsabilidad penal contemplada en el párrafo anterior alcanz
 
 La exención de responsabilidad penal contemplada en el párrafo anterior alcanzará igualmente a dicho sujeto por las posibles falsedades instrumentales que, exclusivamente en relación a la deuda objeto de regularización, el mismo pudiera haber cometido con carácter previo a la regularización de su situación.
 
-
 #### Artículo 309.
 
 El que obtenga indebidamente fondos de los presupuestos generales de las Comunidades u otros administrados por éstas, en cuantía superior a cincuenta mil ecus, falseando las condiciones requeridas para su concesión u ocultando las que la hubieren impedido, será castigado con la pena de prisión de uno a cuatro años y multa del tanto al séxtuplo de la citada cuantía.
-
 
 #### Artículo 310.
 
@@ -2999,12 +2642,9 @@ d) Hubiere practicado en los libros obligatorios anotaciones contables ficticias
 
 La consideración como delito de los supuestos de hecho, a que se refieren las letras c) y d) anteriores, requerirá que se hayan omitido las declaraciones tributarias o que las presentadas fueren reflejo de su falsa contabilidad y que la cuantía, en más o menos, de los cargos o abonos omitidos o falseados exceda, sin compensación aritmética entre ellos, de treinta millones de pesetas por cada ejercicio económico.
 
-
 **TITULO XV**
 
-
 **De los delitos contra los derechos de los trabajadores**
-
 
 #### Artículo 311.
 
@@ -3016,13 +2656,11 @@ Serán castigados con las penas de prisión de seis meses a tres años y multa d
 
 3.º Si las conductas reseñadas en los apartados anteriores se llevaren a cabo con violencia o intimidación se impondrán las penas superiores en grado.
 
-
 #### Artículo 312.
 
 1. Serán castigados con las penas de prisión de seis meses a tres años y multa de seis a doce meses, los que trafiquen de manera ilegal con mano de obra.
 
 2. En la misma pena incurrirán quienes recluten personas o las determinen a abandonar su puesto de trabajo ofreciendo empleo o condiciones de trabajo engañosas o falsas, y quienes empleen a súbditos extranjeros sin permiso de trabajo en condiciones que perjudiquen, supriman o restrinjan los derechos que tuviesen reconocidos por disposiciones legales, convenios colectivos o contrato individual.
-
 
 #### Artículo 313.
 
@@ -3030,11 +2668,9 @@ Serán castigados con las penas de prisión de seis meses a tres años y multa d
 
 2. Con la misma pena será castigado el que, simulando contrato o colocación, o usando de otro engaño semejante, determinare o favoreciere la emigración de alguna persona a otro país.
 
-
 #### Artículo 314.
 
 Los que produzcan una grave discriminación en el empleo, público o privado, contra alguna persona por razón de su ideología, religión o creencias, su pertenencia a una etnia, raza o nación, su sexo, orientación sexual, situación familiar, enfermedad o minusvalía, por ostentar la representación legal o sindical de los trabajadores, por el parentesco con otros trabajadores de la empresa o por el uso de alguna de las lenguas oficiales dentro del Estado español, y no restablezcan la situación de igualdad ante la Ley tras requerimiento o sanción administrativa, reparando los daños económicos que se hayan derivado, serán castigados con la pena de prisión de seis meses a dos años o multa de seis a doce meses.
-
 
 #### Artículo 315.
 
@@ -3044,31 +2680,25 @@ Los que produzcan una grave discriminación en el empleo, público o privado, co
 
 3. Las mismas penas del apartado segundo se impondrán a los que, actuando en grupo, o individualmente pero de acuerdo con otros, coaccionen a otras personas a iniciar o continuar una huelga.
 
-
 #### Artículo 316.
 
 Los que con infracción de las normas de prevención de riesgos laborales y estando legalmente obligados, no faciliten los medios necesarios para que los trabajadores desempeñen su actividad con las medidas de seguridad e higiene adecuadas, de forma que pongan así en peligro grave su vida, salud o integridad física, serán castigados con las penas de prisión de seis meses a tres años y multa de seis a doce meses.
-
 
 #### Artículo 317.
 
 Cuando el delito a que se refiere el artículo anterior se cometa por imprudencia grave, será castigado con la pena inferior en grado.
 
-
 #### Artículo 318.
 
 Cuando los hechos previstos en los artículos anteriores se atribuyeran a personas jurídicas, se impondrá la pena señalada a los administradores o encargados del servicio que hayan sido responsables de los mismos y a quienes, conociéndolos y pudiendo remediarlo, no hubieren adoptado medidas para ello.
 
-
 **TITULO XVI**
-
 
 **De los delitos relativos a la ordenación del territorio y la protección del patrimonio histórico y del medio ambiente**
 
 CAPITULO I
 
 De los delitos sobre la ordenación del territorio
-
 
 #### Artículo 319.
 
@@ -3077,7 +2707,6 @@ De los delitos sobre la ordenación del territorio
 2. Se impondrá la pena de prisión de seis meses a dos años, multa de doce a veinticuatro meses e inhabilitación especial para profesión u oficio por tiempo de seis meses a tres años, a los promotores, constructores o técnicos directores que lleven a cabo una edificación no autorizable en el suelo no urbanizable.
 
 3. En cualquier caso, los Jueces o Tribunales, motivadamente, podrán ordenar, a cargo del autor del hecho, la demolición de la obra, sin perjuicio de las indemnizaciones debidas a terceros de buena fe.
-
 
 #### Artículo 320.
 
@@ -3089,13 +2718,11 @@ CAPITULO II
 
 De los delitos sobre el patrimonio histórico
 
-
 #### Artículo 321.
 
 Los que derriben o alteren gravemente edificios singularmente protegidos por su interés histórico, artístico, cultural o monumental serán castigados con las penas de prisión de seis meses a tres años, multa de doce a veinticuatro meses y, en todo caso, inhabilitación especial para profesión u oficio por tiempo de uno a cinco años.
 
 En cualquier caso, los Jueces o Tribunales, motivadamente, podrán ordenar, a cargo del autor del hecho, la reconstrucción o restauración de la obra, sin perjuicio de las indemnizaciones debidas a terceros de buena fe.
-
 
 #### Artículo 322.
 
@@ -3103,13 +2730,11 @@ En cualquier caso, los Jueces o Tribunales, motivadamente, podrán ordenar, a ca
 
 2. Con las mismas penas se castigará a la autoridad o funcionario público que por sí mismo o como miembro de un organismo colegiado haya resuelto o votado a favor de su concesión a sabiendas de su injusticia.
 
-
 #### Artículo 323.
 
 Será castigado con la pena de prisión de uno a tres años y multa de doce a veinticuatro meses el que cause daños en un archivo, registro, museo, biblioteca, centro docente, gabinete científico, institución análoga o en bienes de valor histórico, artístico, científico, cultural o monumental, así como en yacimientos arqueológicos.
 
 En este caso, los Jueces o Tribunales podrán ordenar, a cargo del autor del daño, la adopción de medidas encaminadas a restaurar, en lo posible, el bien dañado.
-
 
 #### Artículo 324.
 
@@ -3121,11 +2746,9 @@ CAPITULO III
 
 De los delitos contra los recursos naturales y el medio ambiente
 
-
 #### Artículo 325.
 
 Será castigado con las penas de prisión de seis meses a cuatro años, multa de ocho a veinticuatro meses e inhabilitación especial para profesión u oficio por tiempo de uno a tres años el que, contraviniendo las Leyes u otras disposiciones de carácter general protectoras del medio ambiente, provoque o realice directa o indirectamente emisiones, vertidos, radiaciones, extracciones o excavaciones, aterramientos, ruidos, vibraciones, inyecciones o depósitos, en la atmósfera, el suelo, el subsuelo, o las aguas terrestres, marítimas o subterráneas, con incidencia, incluso, en los espacios transfronterizos, así como las captaciones de aguas que puedan perjudicar gravemente el equilibrio de los sistemas naturales. Si el riesgo de grave perjuicio fuese para la salud de las personas, la pena de prisión se impondrá en su mitad superior.
-
 
 #### Artículo 326.
 
@@ -3143,16 +2766,13 @@ e) Que se haya producido un riesgo de deterioro irreversible o catastrófico.
 
 f) Que se produzca una extracción ilegal de aguas en período de restricciones.
 
-
 #### Artículo 327.
 
 En todos los casos previstos en los dos artículos anteriores, el Juez o Tribunal podrá acordar alguna de las medidas previstas en las letras a) o e) del artículo 129 de este Código.
 
-
 #### Artículo 328.
 
 Serán castigados con la pena de multa de dieciocho a veinticuatro meses y arresto de dieciocho a veinticuatro fines de semana quienes establecieren depósitos o vertederos de desechos o residuos sólidos o líquidos que sean tóxicos o peligrosos y puedan perjudicar gravemente el equilibrio de los sistemas naturales o la salud de las personas.
-
 
 #### Artículo 329.
 
@@ -3160,11 +2780,9 @@ Serán castigados con la pena de multa de dieciocho a veinticuatro meses y arres
 
 2. Con las mismas penas se castigará a la autoridad o funcionario público que por sí mismo o como miembro de un organismo colegiado hubiese resuelto o votado a favor de su concesión a sabiendas de su injusticia.
 
-
 #### Artículo 330.
 
 Quien, en un espacio natural protegido, dañare gravemente alguno de los elementos que hayan servido para calificarlo, incurrirá en la pena de prisión de uno a cuatro años y multa de doce a veinticuatro meses.
-
 
 #### Artículo 331.
 
@@ -3174,16 +2792,13 @@ CAPITULO IV
 
 De los delitos relativos a la protección de la flora y fauna
 
-
 #### Artículo 332.
 
 El que corte, tale, queme, arranque, recolecte o efectúe tráfico ilegal de alguna especie o subespecie de flora amenazada o de sus propágulos, o destruya o altere gravemente su hábitat, será castigado con la pena de prisión de seis meses a dos años o multa de ocho a veinticuatro meses.
 
-
 #### Artículo 333.
 
 El que introdujera o liberara especies de flora o fauna no autóctona, de modo que perjudique el equilibrio biológico, contraviniendo las Leyes o disposiciones de carácter general protectoras de las especies de flora o fauna, será castigado con la pena de prisión de seis meses a dos años o multa de ocho a veinticuatro meses.
-
 
 #### Artículo 334.
 
@@ -3191,16 +2806,13 @@ El que introdujera o liberara especies de flora o fauna no autóctona, de modo q
 
 2. La pena se impondrá en su mitad superior si se trata de especies o subespecies catalogadas en peligro de extinción.
 
-
 #### Artículo 335.
 
 El que cace o pesque especies distintas a las indicadas en el artículo anterior, no estando expresamente autorizada su caza o pesca por las normas específicas en la materia, será castigado con la pena de multa de cuatro a ocho meses.
 
-
 #### Artículo 336.
 
 El que, sin estar legalmente autorizado, emplee para la caza o pesca veneno, medios explosivos u otros instrumentos o artes de similar eficacia destructiva para la fauna, será castigado con la pena de prisión de seis meses a dos años o multa de ocho a veinticuatro meses. Si el daño causado fuera de notoria importancia se impondrá la pena de prisión antes mencionada en su mitad superior.
-
 
 #### Artículo 337.
 
@@ -3210,24 +2822,19 @@ CAPITULO V
 
 Disposiciones comunes
 
-
 #### Artículo 338.
 
 Cuando las conductas definidas en este Título afecten a algún espacio natural protegido, se impondrán las penas superiores en grado a las respectivamente previstas.
-
 
 #### Artículo 339.
 
 Los Jueces o Tribunales, motivadamente, podrán ordenar la adopción, a cargo del autor del hecho, de medidas encaminadas a restaurar el equilibrio ecológico perturbado, así como adoptar cualquier otra medida cautelar necesaria para la protección de los bienes tutelados en este Título.
 
-
 #### Artículo 340.
 
 Si el culpable de cualquiera de los hechos tipificados en este Título hubiera procedido voluntariamente a reparar el daño causado, los Jueces y Tribunales le impondrán la pena inferior en grado a las respectivamente previstas.
 
-
 **TITULO XVII**
-
 
 **De los delitos contra la seguridad colectiva**
 
@@ -3237,26 +2844,21 @@ De los delitos de riesgo catastrófico
 
 SECCIÓN 1.ª DE LOS DELITOS RELATIVOS A LA ENERGÍA NUCLEAR Y A LAS RADIACIONES IONIZANTES
 
-
 #### Artículo 341.
 
 El que libere energía nuclear o elementos radiactivos que pongan en peligro la vida o la salud de las personas o sus bienes, aunque no se produzca explosión, será sancionado con la pena de prisión de quince a veinte años, e inhabilitación especial para empleo o cargo público, profesión u oficio por tiempo de diez a veinte años.
-
 
 #### Artículo 342.
 
 El que, sin estar comprendido en el artículo anterior, perturbe el funcionamiento de una instalación nuclear o radiactiva, o altere el desarrollo de actividades en las que intervengan materiales o equipos productores de radiaciones ionizantes, creando una situación de grave peligro para la vida o la salud de las personas, será sancionado con la pena de prisión de cuatro a diez años, e inhabilitación especial para empleo o cargo público, profesión u oficio por tiempo de seis a diez años.
 
-
 #### Artículo 343.
 
 El que exponga a una o varias personas a radiaciones ionizantes que pongan en peligro su vida, integridad, salud o bienes, será sancionado con la pena de prisión de seis a doce años, e inhabilitación especial para empleo o cargo público, profesión u oficio por tiempo de seis a diez años.
 
-
 #### Artículo 344.
 
 Los hechos previstos en los artículos anteriores serán sancionados con la pena inferior en grado, en sus respectivos supuestos, cuando se hayan cometido por imprudencia grave.
-
 
 #### Artículo 345.
 
@@ -3268,13 +2870,11 @@ Los hechos previstos en los artículos anteriores serán sancionados con la pena
 
 SECCIÓN 2.ª DE LOS ESTRAGOS
 
-
 #### Artículo 346.
 
 Los que, provocando explosiones o utilizando cualquier otro medio de similar potencia destructiva causaren la destrucción de aeropuertos, puertos, estaciones, edificios, locales públicos, depósitos que contengan materiales inflamables o explosivos, vías de comunicación, medios de transporte colectivos, o la inmersión o varamiento de nave, inundación, explosión de una mina o instalación industrial, levantamiento de los carriles de una vía férrea, cambio malicioso de las señales empleadas en el servicio de ésta para la seguridad de los medios de transporte, voladura de puente, destrozo de calzada pública, perturbación grave de cualquier clase o medio de comunicación, incurrirán en la pena de prisión de diez a veinte años, cuando los estragos comportaren necesariamente un peligro para la vida o integridad de las personas.
 
 Si, además del peligro, se hubiere producido lesión para la vida, integridad física o salud de las personas, los hechos se castigarán separadamente con la pena correspondiente al delito cometido.
-
 
 #### Artículo 347.
 
@@ -3282,16 +2882,13 @@ El que por imprudencia grave provocare un delito de estragos será castigado con
 
 SECCIÓN 3.ª DE OTROS DELITOS DE RIESGO PROVOCADOS POR OTROS AGENTES
 
-
 #### Artículo 348.
 
 Los que en la fabricación, manipulación, transporte, tenencia o comercialización de explosivos, sustancias inflamables o corrosivas, tóxicas y asfixiantes, o cualesquiera otras materias, aparatos o artificios que puedan causar estragos, contravinieren las normas de seguridad establecidas, poniendo en concreto peligro la vida, la integridad física o la salud de las personas, o el medio ambiente, serán castigados con la pena de prisión de seis meses a dos años, multa de seis a doce meses, e inhabilitación especial para empleo o cargo público, profesión u oficio por tiempo de tres a seis años.
 
-
 #### Artículo 349.
 
 Los que en la manipulación, transporte o tenencia de organismos contravinieren las normas o medidas de seguridad establecidas, poniendo en concreto peligro la vida, la integridad física o la salud de las personas, o el medio ambiente, serán castigados con las penas de prisión de seis meses a dos años, multa de seis a doce meses, e inhabilitación especial para el empleo o cargo público, profesión u oficio por tiempo de tres a seis años.
-
 
 #### Artículo 350.
 
@@ -3303,20 +2900,17 @@ De los incendios
 
 SECCIÓN 1.ª DE LOS DELITOS DE INCENDIO
 
-
 #### Artículo 351.
 
 Los que provocaren un incendio que comporte un peligro para la vida o integridad física de las personas, serán castigados con la pena de prisión de diez a veinte años. Los Jueces o Tribunales podrán imponer la pena inferior en grado atendidas la menor entidad del peligro causado y las demás circunstancias del hecho.
 
 SECCIÓN 2.ª DE LOS INCENDIOS FORESTALES
 
-
 #### Artículo 352.
 
 Los que incendiaren montes o masas forestales, serán castigados con las penas de prisión de uno a cinco años y multa de doce a dieciocho meses.
 
 Si ha existido peligro para la vida o integridad física de las personas, se castigará el hecho conforme a lo dispuesto en el artículo 351, imponiéndose, en todo caso, la pena de multa de doce a veinticuatro meses.
-
 
 #### Artículo 353.
 
@@ -3332,13 +2926,11 @@ Si ha existido peligro para la vida o integridad física de las personas, se cas
 
 2. También se impondrán dichas penas en su mitad superior cuando el autor actúe para obtener un beneficio económico con los efectos derivados del incendio.
 
-
 #### Artículo 354.
 
 1. El que prendiere fuego a montes o masas forestales sin que llegue a propagarse el incendio de los mismos, será castigado con la pena de prisión de seis meses a un año y multa de seis a doce meses.
 
 2. La conducta prevista en el apartado anterior quedará exenta de pena si el incendio no se propaga por la acción voluntaria y positiva de su autor.
-
 
 #### Artículo 355.
 
@@ -3346,20 +2938,17 @@ En todos los casos previstos en esta sección, los Jueces o Tribunales podrán a
 
 SECCIÓN 3.ª DE LOS INCENDIOS EN ZONAS NO FORESTALES
 
-
 #### Artículo 356.
 
 El que incendiare zonas de vegetación no forestales perjudicando gravemente el medio natural, será castigado con la pena de prisión de seis meses a dos años y multa de seis a veinticuatro meses.
 
 SECCIÓN 4.ª DE LOS INCENDIOS EN BIENES PROPIOS
 
-
 #### Artículo 357.
 
 El incendiario de bienes propios será castigado con la pena de prisión de uno a cuatro años si tuviere propósito de defraudar o perjudicar a terceros, hubiere causado defraudación o perjuicio, existiere peligro de propagación a edificio, arbolado o plantío ajeno o hubiere perjudicado gravemente las condiciones de la vida silvestre, los bosques o los espacios naturales.
 
 SECCIÓN 5.ª DISPOSICIÓN COMÚN
-
 
 #### Artículo 358.
 
@@ -3369,21 +2958,17 @@ CAPITULO III
 
 De los delitos contra la salud pública
 
-
 #### Artículo 359.
 
 El que, sin hallarse debidamente autorizado, elabore sustancias nocivas para la salud o productos químicos que puedan causar estragos, o los despache o suministre, o comercie con ellos, será castigado con la pena de prisión de seis meses a tres años y multa de seis a doce meses, e inhabilitación especial para profesión o industria por tiempo de seis meses a dos años.
-
 
 #### Artículo 360.
 
 El que, hallándose autorizado para el tráfico de las sustancias o productos a que se refiere el artículo anterior, los despache o suministre sin cumplir con las formalidades previstas en las Leyes y Reglamentos respectivos, será castigado con la pena de multa de seis a doce meses e inhabilitación para la profesión u oficio de seis meses a dos años.
 
-
 #### Artículo 361.
 
 Los que expendan o despachen medicamentos deteriorados o caducados, o que incumplan las exigencias técnicas relativas a su composición, estabilidad y eficacia, o sustituyan unos por otros, y con ello pongan en peligro la vida o la salud de las personas serán castigados con las penas de prisión de seis meses a dos años, multa de seis a dieciocho meses e inhabilitación especial para profesión u oficio de seis meses a dos años.
-
 
 #### Artículo 362.
 
@@ -3396,7 +2981,6 @@ Los que expendan o despachen medicamentos deteriorados o caducados, o que incump
 2. Las penas de inhabilitación previstas en este artículo y en los anteriores serán de tres a seis años cuando los hechos sean cometidos por farmacéuticos, o por los directores técnicos de laboratorios legalmente autorizados, en cuyo nombre o representación actúen.
 
 3. En casos de suma gravedad, los Jueces o Tribunales, teniendo en cuenta las circunstancias personales del autor y las del hecho, podrán imponer las penas superiores en grado a las antes señaladas.
-
 
 #### Artículo 363.
 
@@ -3412,7 +2996,6 @@ Serán castigados con la pena de prisión de uno a cuatro años, multa de seis a
 
 5. Ocultando o sustrayendo efectos destinados a ser inutilizados o desinfectados, para comerciar con ellos.
 
-
 #### Artículo 364.
 
 1. El que adulterare con aditivos u otros agentes no autorizados susceptibles de causar daños a la salud de las personas los alimentos, sustancias o bebidas destinadas al comercio alimentario, será castigado con las penas del artículo anterior. Si el reo fuera el propietario o el responsable de producción de una fábrica de productos alimenticios, se le impondrá, además, la pena de inhabilitación especial para profesión, oficio, industria o comercio de seis a diez años.
@@ -3427,26 +3010,21 @@ Serán castigados con la pena de prisión de uno a cuatro años, multa de seis a
 
 4.º Despachar al consumo público las carnes o productos de los animales de abasto sin respetar los períodos de espera en su caso reglamentariamente previstos.
 
-
 #### Artículo 365.
 
 Será castigado con la pena de prisión de dos a seis años el que envenenare o adulterare con sustancias infecciosas, u otras que puedan ser gravemente nocivas para la salud, las aguas potables o las sustancias alimenticias destinadas al uso público o al consumo de una colectividad de personas.
-
 
 #### Artículo 366.
 
 En el caso de los artículos anteriores, se podrá imponer la medida de clausura del establecimiento, fábrica, laboratorio o local por tiempo de hasta cinco años, y en los supuestos de extrema gravedad podrá decretarse el cierre definitivo conforme a lo previsto en el artículo 129.
 
-
 #### Artículo 367.
 
 Si los hechos previstos en todos los artículos anteriores fueran realizados por imprudencia grave, se impondrán, respectivamente, las penas inferiores en grado.
 
-
 #### Artículo 368.
 
 Los que ejecuten actos de cultivo, elaboración o tráfico, o de otro modo promuevan, favorezcan o faciliten el consumo ilegal de drogas tóxicas, estupefacientes o sustancias psicotrópicas, o las posean con aquellos fines, serán castigados con las penas de prisión de tres a nueve años y multa del tanto al triplo del valor de la droga objeto del delito si se tratare de sustancias o productos que causen grave daño a la salud, y de prisión de uno a tres años y multa del tanto al duplo en los demás casos.
-
 
 #### Artículo 369.
 
@@ -3470,7 +3048,6 @@ Se impondrán las penas privativas de libertad superiores en grado a las respect
 
 9.º Se utilice a menores de dieciséis años para cometer estos delitos.
 
-
 #### Artículo 370.
 
 Los Jueces o Tribunales impondrán las penas privativas de libertad superiores en grado a las señaladas en el artículo anterior y multa del tanto al séxtuplo cuando las conductas en él definidas sean de extrema gravedad, o cuando se trate de los jefes, administradores o encargados de las organizaciones o asociaciones mencionadas en su número 6.º En este último caso, así como cuando concurra el supuesto previsto en el número 2.º del mencionado artículo, la autoridad judicial podrá decretar, además, alguna de las medidas siguientes:
@@ -3481,7 +3058,6 @@ b) Suspensión de las actividades de la organización o asociación, o clausura 
 
 c) Prohibición a las mismas de realizar aquellas actividades, operaciones mercantiles o negocios, en cuyo ejercicio se haya facilitado o encubierto el delito, por tiempo no superior a cinco años.
 
-
 #### Artículo 371.
 
 1. El que fabrique, transporte, distribuya, comercie o tenga en su poder equipos, materiales o sustancias enumeradas en el cuadro I y cuadro II de la Convención de Naciones Unidas, hecha en Viena el 20 de diciembre de 1988, sobre el tráfico ilícito de estupefacientes y sustancias psicotrópicas, y cualesquiera otros productos adicionados al mismo Convenio o que se incluyan en otros futuros Convenios de la misma naturaleza, ratificados por España, a sabiendas de que van a utilizarse en el cultivo, la producción o la fabricación ilícitas de drogas tóxicas, estupefacientes o sustancias psicotrópicas, o para estos fines, será castigado con la pena de prisión de tres a seis años y multa del tanto al triplo del valor de los géneros o efectos.
@@ -3490,18 +3066,15 @@ c) Prohibición a las mismas de realizar aquellas actividades, operaciones merca
 
 En tales casos, los Jueces o Tribunales impondrán, además de las penas correspondientes, la de inhabilitación especial del reo para el ejercicio de su profesión o industria por tiempo de tres a seis años, y las demás medidas previstas en el artículo 370.
 
-
 #### Artículo 372.
 
 Si los hechos previstos en este capítulo fueran realizados por empresario, intermediario en el sector financiero, facultativo, funcionario público, trabajador social, docente o educador, en el ejercicio de su cargo, profesión u oficio, se le impondrá, además de la pena correspondiente, la de inhabilitación especial para empleo o cargo público, profesión u oficio, industria o comercio, de tres a diez años. Se impondrá la pena de inhabilitación absoluta de diez a veinte años cuando los referidos hechos fueren realizados por autoridad o agente de la misma, en el ejercicio de su cargo.
 
 A tal efecto, se entiende que son facultativos los médicos, psicólogos, las personas en posesión de título sanitario, los veterinarios, los farmacéuticos y sus dependientes.
 
-
 #### Artículo 373.
 
 La provocación, la conspiración y la proposición para cometer los delitos previstos en los artículos 368 al 372, se castigarán con la pena inferior en uno a dos grados a la que corresponde, respectivamente, a los hechos previstos en los preceptos anteriores.
-
 
 #### Artículo 374.
 
@@ -3511,21 +3084,17 @@ La provocación, la conspiración y la proposición para cometer los delitos pre
 
 3. Los bienes, efectos e instrumentos definitivamente decomisados por sentencia se adjudicarán al Estado.
 
-
 #### Artículo 375.
 
 Las condenas de Jueces o Tribunales extranjeros por delitos de la misma naturaleza que los previstos en los artículos 368 al 372 de este capítulo producirán los efectos de reincidencia, salvo que el antecedente penal haya sido cancelado o pueda serlo con arreglo al Derecho español.
-
 
 #### Artículo 376.
 
 En los delitos previstos en los artículos 368 al 372, los Jueces o Tribunales, razonándolo en sentencia, podrán imponer la pena inferior en uno o dos grados a la señalada por la Ley para el delito de que se trate, siempre que el sujeto haya abandonado voluntariamente sus actividades delictivas, y se haya presentado a las autoridades confesando los hechos en que hubiera participado y haya colaborado activamente con éstas, bien para impedir la producción del delito, bien para obtener pruebas decisivas para la identificación o captura de otros responsables o para impedir la actuación o el desarrollo de las organizaciones o asociaciones a las que haya pertenecido o con las que haya colaborado.
 
-
 #### Artículo 377.
 
 Para la determinación de la cuantía de las multas que se impongan en aplicación de los artículos 368 al 372, el valor de la droga objeto del delito o de los géneros o efectos intervenidos será el precio final del producto o, en su caso, la recompensa o ganancia obtenida por el reo, o que hubiera podido obtener.
-
 
 #### Artículo 378.
 
@@ -3545,21 +3114,17 @@ CAPITULO IV
 
 De los delitos contra la seguridad del tráfico
 
-
 #### Artículo 379.
 
 El que condujere un vehículo a motor o un ciclomotor bajo la influencia de drogas tóxicas, estupefacientes, sustancias psicotrópicas o de bebidas alcohólicas, será castigado con la pena de arresto de ocho a doce fines de semana o multa de tres a ocho meses y, en cualquier caso, privación del derecho a conducir vehículos a motor y ciclomotores, respectivamente, por tiempo superior a uno y hasta cuatro años.
-
 
 #### Artículo 380.
 
 El conductor que, requerido por el agente de la autoridad, se negare a someterse a las pruebas legalmente establecidas para la comprobación de los hechos descritos en el artículo anterior, será castigado como autor de un delito de desobediencia grave, previsto en el artículo 556 de este Código.
 
-
 #### Artículo 381.
 
 El que condujere un vehículo a motor o un ciclomotor con temeridad manifiesta y pusiera en concreto peligro la vida o la integridad de las personas, será castigado con las penas de prisión de seis meses a dos años y privación del derecho a conducir vehículos a motor y ciclomotores por tiempo superior a uno y hasta seis años.
-
 
 #### Artículo 382.
 
@@ -3569,13 +3134,11 @@ Será castigado con la pena de prisión de seis meses a dos años o multa de tre
 
 2.º No restableciendo la seguridad de la vía, cuando haya obligación de hacerlo.
 
-
 #### Artículo 383.
 
 Cuando con los actos sancionados en los artículos 379, 381 y 382 se ocasionara, además del riesgo prevenido, un resultado lesivo, cualquiera que sea su gravedad, los Jueces y Tribunales apreciarán tan sólo la infracción más gravemente penada, condenando en todo caso al resarcimiento de la responsabilidad civil que se haya originado.
 
 En la aplicación de las penas establecidas en los citados artículos, procederán los Jueces y Tribunales según su prudente arbitrio, sin sujetarse a las reglas prescritas en el artículo 66.
-
 
 #### Artículo 384.
 
@@ -3583,21 +3146,17 @@ Será castigado con las penas de prisión de uno a cuatro años, multa de seis a
 
 Cuando no se haya puesto en concreto peligro la vida o la integridad de las personas, la pena de prisión será de uno a dos años, manteniéndose el resto de las penas.
 
-
 #### Artículo 385.
 
 El vehículo a motor o el ciclomotor utilizado en los hechos previstos en el artículo anterior, se considerará instrumento del delito a los efectos del artículo 127 de este Código.
 
-
 **TITULO XVIII**
-
 
 **De las falsedades**
 
 CAPITULO I
 
 De la falsificación de moneda y efectos timbrados
-
 
 #### Artículo 386.
 
@@ -3613,16 +3172,13 @@ La tenencia de moneda falsa para su expendición o distribución será castigada
 
 El que habiendo recibido de buena fe moneda falsa, la expenda o distribuya después de constarle su falsedad será castigado con las penas de arresto de nueve a quince fines de semana y multa de seis a veinticuatro meses, si el valor aparente de la moneda fuera superior a cincuenta mil pesetas.
 
-
 #### Artículo 387.
 
 A los efectos del artículo anterior se entiende por moneda la metálica y papel moneda de curso legal. A los mismos efectos se considerarán moneda las tarjetas de crédito, las de débito y los cheques de viaje. Igualmente, se equipararán a la moneda nacional, la de la Unión Europea y las extranjeras.
 
-
 #### Artículo 388.
 
 La condena de un Tribunal extranjero, impuesta por delito de la misma naturaleza de los comprendidos en este capítulo, será equiparada a las sentencias de los Jueces o Tribunales españoles a los efectos de reincidencia, salvo que el antecedente penal haya sido cancelado o pudiese serlo con arreglo al Derecho español.
-
 
 #### Artículo 389.
 
@@ -3635,7 +3191,6 @@ CAPITULO II
 De las falsedades documentales
 
 SECCIÓN 1.ª DE LA FALSIFICACIÓN DE DOCUMENTOS PÚBLICOS, OFICIALES Y MERCANTILES Y DE LOS DESPACHOS TRANSMITIDOS POR SERVICIOS DE TELECOMUNICACIÓN
-
 
 #### Artículo 390.
 
@@ -3651,21 +3206,17 @@ SECCIÓN 1.ª DE LA FALSIFICACIÓN DE DOCUMENTOS PÚBLICOS, OFICIALES Y MERCANTI
 
 2. Será castigado con las mismas penas a las señaladas en el apartado anterior el responsable de cualquier confesión religiosa que incurra en alguna de las conductas descritas en los números anteriores, respecto de actos y documentos que puedan producir efecto en el estado de las personas o en el orden civil.
 
-
 #### Artículo 391.
 
 La autoridad o funcionario público que por imprudencia grave incurriere en alguna de las falsedades previstas en el artículo anterior o diere lugar a que otro las cometa, será castigado con la pena de multa de seis a doce meses y suspensión de empleo o cargo público por tiempo de seis meses a un año.
-
 
 #### Artículo 392.
 
 El particular que cometiere en documento público, oficial o mercantil, alguna de las falsedades descritas en los tres primeros números del apartado 1 del artículo 390, será castigado con las penas de prisión de seis meses a tres años y multa de seis a doce meses.
 
-
 #### Artículo 393.
 
 El que, a sabiendas de su falsedad, presentare en juicio o, para perjudicar a otro, hiciere uso de un documento falso de los comprendidos en los artículos precedentes, será castigado con la pena inferior en grado a la señalada a los falsificadores.
-
 
 #### Artículo 394.
 
@@ -3675,11 +3226,9 @@ El que, a sabiendas de su falsedad, presentare en juicio o, para perjudicar a ot
 
 SECCIÓN 2.ª DE LA FALSIFICACIÓN DE DOCUMENTOS PRIVADOS
 
-
 #### Artículo 395.
 
 El que, para perjudicar a otro, cometiere en documento privado alguna de las falsedades previstas en los tres primeros números del apartado 1 del artículo 390, será castigado con la pena de prisión de seis meses a dos años.
-
 
 #### Artículo 396.
 
@@ -3687,16 +3236,13 @@ El que, a sabiendas de su falsedad, presentare en juicio o, para perjudicar a ot
 
 SECCIÓN 3.ª DE LA FALSIFICACIÓN DE CERTIFICADOS
 
-
 #### Artículo 397.
 
 El facultativo que librare certificado falso será castigado con la pena de multa de tres a doce meses.
 
-
 #### Artículo 398.
 
 La autoridad o funcionario público que librare certificación falsa será castigado con la pena de suspensión de seis meses a dos años.
-
 
 #### Artículo 399.
 
@@ -3706,9 +3252,7 @@ La autoridad o funcionario público que librare certificación falsa será casti
 
 CAPITULO III
 
-
 #### Disposición general
-
 
 #### Artículo 400.
 
@@ -3718,7 +3262,6 @@ CAPITULO IV
 
 De la usurpación del estado civil
 
-
 #### Artículo 401.
 
 El que usurpare el estado civil de otro será castigado con la pena de prisión de seis meses a tres años.
@@ -3727,11 +3270,9 @@ CAPITULO V
 
 De la usurpación de funciones públicas y del intrusismo
 
-
 #### Artículo 402.
 
 El que ilegítimamente ejerciere actos propios de una autoridad o funcionario público atribuyéndose carácter oficial, será castigado con la pena de prisión de uno a tres años.
-
 
 #### Artículo 403.
 
@@ -3739,9 +3280,7 @@ El que ejerciere actos propios de una profesión sin poseer el correspondiente t
 
 Si el culpable, además, se atribuyese públicamente la cualidad de profesional amparada por el título referido, se le impondrá la pena de prisión de seis meses a dos años.
 
-
 **TITULO XIX**
-
 
 **Delitos contra la Administración pública**
 
@@ -3749,16 +3288,13 @@ CAPITULO I
 
 De la prevaricación de los funcionarios públicos y otros comportamientos injustos
 
-
 #### Artículo 404.
 
 A la autoridad o funcionario público que, a sabiendas de su injusticia, dictare una resolución arbitraria en un asunto administrativo se le castigará con la pena de inhabilitación especial para empleo o cargo público por tiempo de siete a diez años.
 
-
 #### Artículo 405.
 
 A la autoridad o funcionario público que, en el ejercicio de su competencia y a sabiendas de su ilegalidad, propusiere, nombrare o diere posesión para el ejercicio de un determinado cargo público a cualquier persona sin que concurran los requisitos legalmente establecidos para ello, se le castigará con las penas de multa de tres a ocho meses y suspensión de empleo o cargo público por tiempo de seis meses a dos años.
-
 
 #### Artículo 406.
 
@@ -3768,18 +3304,15 @@ CAPITULO II
 
 Del abandono de destino y de la omisión del deber de perseguir delitos
 
-
 #### Artículo 407.
 
 1. A la autoridad o funcionario público que abandonare su destino con el propósito de no impedir o no perseguir cualquiera de los delitos comprendidos en los Títulos XXI, XXII, XXIII y XXIV se le castigará con la pena de prisión de uno a cuatro años e inhabilitación absoluta para empleo o cargo público por tiempo de seis a diez años. Si hubiera realizado el abandono para no impedir o no perseguir cualquier otro delito, se le impondrá la pena de inhabilitación especial para empleo o cargo público por tiempo de uno a tres años.
 
 2. Las mismas penas se impondrán, respectivamente, cuando el abandono tenga por objeto no ejecutar las penas correspondientes a estos delitos impuestas por la autoridad judicial competente.
 
-
 #### Artículo 408.
 
 La autoridad o funcionario que, faltando a la obligación de su cargo, dejare intencionadamente de promover la persecución de los delitos de que tenga noticia o de sus responsables, incurrirá en la pena de inhabilitación especial para empleo o cargo público por tiempo de seis meses a dos años.
-
 
 #### Artículo 409.
 
@@ -3791,18 +3324,15 @@ CAPITULO III
 
 De la desobediencia y denegación de auxilio
 
-
 #### Artículo 410.
 
 1. Las autoridades o funcionarios públicos que se negaren abiertamente a dar el debido cumplimiento a resoluciones judiciales, decisiones u órdenes de la autoridad superior, dictadas dentro del ámbito de su respectiva competencia y revestidas de las formalidades legales, incurrirán en la pena de multa de tres a doce meses e inhabilitación especial para empleo o cargo público por tiempo de seis meses a dos años.
 
 2. No obstante lo dispuesto en el apartado anterior, no incurrirán en responsabilidad criminal las autoridades o funcionarios por no dar cumplimiento a un mandato que constituya una infracción manifiesta, clara y terminante de un precepto de Ley o de cualquier otra disposición general.
 
-
 #### Artículo 411.
 
 La autoridad o funcionario público que, habiendo suspendido, por cualquier motivo que no sea el expresado en el apartado segundo del artículo anterior, la ejecución de las órdenes de sus superiores, las desobedeciere después de que aquéllos hubieren desaprobado la suspensión, incurrirá en las penas de multa de doce a veinticuatro meses, e inhabilitación especial para empleo o cargo público por tiempo de uno a tres años.
-
 
 #### Artículo 412.
 
@@ -3822,11 +3352,9 @@ De la infidelidad en la custodia de documentos
 
 y de la violación de secretos
 
-
 #### Artículo 413.
 
 La autoridad o funcionario público que, a sabiendas, sustrajere, destruyere, inutilizare u ocultare, total o parcialmente, documentos cuya custodia le esté encomendada por razón de su cargo, incurrirá en las penas de prisión de uno a cuatro años, multa de siete a veinticuatro meses, e inhabilitación especial para empleo o cargo público por tiempo de tres a seis años.
-
 
 #### Artículo 414.
 
@@ -3834,16 +3362,13 @@ La autoridad o funcionario público que, a sabiendas, sustrajere, destruyere, in
 
 2. El particular que destruyere o inutilizare los medios a que se refiere el apartado anterior, será castigado con la pena de multa de seis a dieciocho meses.
 
-
 #### Artículo 415.
 
 La autoridad o funcionario público no comprendido en el artículo anterior que, a sabiendas y sin la debida autorización, accediere o permitiere acceder a documentos secretos cuya custodia le esté confiada por razón de su cargo, incurrirá en la pena de multa de seis a doce meses, e inhabilitación especial para empleo o cargo público por tiempo de uno a tres años.
 
-
 #### Artículo 416.
 
 Serán castigados con las penas de prisión o multa inmediatamente inferiores a las respectivamente señaladas en los tres artículos anteriores los particulares encargados accidentalmente del despacho o custodia de documentos, por comisión del Gobierno o de las autoridades o funcionarios públicos a quienes hayan sido confiados por razón de su cargo, que incurran en las conductas descritas en los mismos.
-
 
 #### Artículo 417.
 
@@ -3853,7 +3378,6 @@ Si de la revelación a que se refiere el párrafo anterior resultara grave daño
 
 2. Si se tratara de secretos de un particular, las penas serán las de prisión de dos a cuatro años, multa de doce a dieciocho meses, y suspensión de empleo o cargo público por tiempo de uno a tres años.
 
-
 #### Artículo 418.
 
 El particular que aprovechare para sí o para un tercero el secreto o la información privilegiada que obtuviere de un funcionario público o autoridad, será castigado con multa del tanto al triplo del beneficio obtenido o facilitado. Si resultara grave daño para la causa pública o para tercero, la pena será de prisión de uno a seis años.
@@ -3862,26 +3386,21 @@ CAPITULO V
 
 Del cohecho
 
-
 #### Artículo 419.
 
 La autoridad o funcionario público que, en provecho propio o de un tercero, solicitare o recibiere, por sí o por persona interpuesta, dádiva o presente o aceptare ofrecimiento o promesa para realizar en el ejercicio de su cargo una acción u omisión constitutivas de delito, incurrirá en la pena de prisión de dos a seis años, multa del tanto al triplo del valor de la dádiva e inhabilitación especial para empleo o cargo público por tiempo de siete a doce años, sin perjuicio de la pena correspondiente al delito cometido en razón de la dádiva o promesa.
-
 
 #### Artículo 420.
 
 La autoridad o funcionario público que, en provecho propio o de un tercero, solicite o reciba, por sí o por persona interpuesta, dádiva o promesa por ejecutar un acto injusto relativo al ejercicio de su cargo que no constituya delito, y lo ejecute, incurrirá en la pena de prisión de uno a cuatro años e inhabilitación especial para empleo o cargo público por tiempo de seis a nueve años, y de prisión de uno a dos años e inhabilitación especial para empleo o cargo público por tiempo de tres a seis años, si no llegara a ejecutarlo. En ambos casos se impondrá, además, la multa del tanto al triplo del valor de la dádiva.
 
-
 #### Artículo 421.
 
 Cuando la dádiva solicitada, recibida o prometida tenga por objeto que la autoridad o funcionario público se abstenga de un acto que debiera practicar en el ejercicio de su cargo, las penas serán de multa del tanto al duplo del valor de la dádiva e inhabilitación especial para empleo o cargo público por tiempo de uno a tres años.
 
-
 #### Artículo 422.
 
 Lo dispuesto en los artículos precedentes será también aplicable a los jurados, árbitros, peritos, o cualesquiera personas que participen en el ejercicio de la función pública.
-
 
 #### Artículo 423.
 
@@ -3891,11 +3410,9 @@ Lo dispuesto en los artículos precedentes será también aplicable a los jurado
 
 inferior en grado a la prevista en el apartado anterior.
 
-
 #### Artículo 424.
 
 Cuando el soborno mediare en causa criminal en favor del reo por parte de su cónyuge u otra persona a la que se halle ligado de forma estable por análoga relación de afectividad, o de algún ascendiente, descendiente o hermano, por naturaleza, por adopción o afines en los mismos grados, se impondrá al sobornador la pena de multa de tres a seis meses.
-
 
 #### Artículo 425.
 
@@ -3903,11 +3420,9 @@ Cuando el soborno mediare en causa criminal en favor del reo por parte de su có
 
 2. En el caso de recompensa por el acto ya realizado, si éste fuera constitutivo de delito se impondrá, además, la pena de prisión de uno a tres años, multa de seis a diez meses e inhabilitación especial para empleo o cargo público por tiempo de diez a quince años.
 
-
 #### Artículo 426.
 
 La autoridad o funcionario público que admitiere dádiva o regalo que le fueren ofrecidos en consideración a su función o para la consecución de un acto no prohibido legalmente, incurrirá en la pena de multa de tres a seis meses.
-
 
 #### Artículo 427.
 
@@ -3917,23 +3432,19 @@ CAPITULO VI
 
 Del tráfico de influencias
 
-
 #### Artículo 428.
 
 El funcionario público o autoridad que influyere en otro funcionario público o autoridad prevaliéndose del ejercicio de las facultades de su cargo o de cualquier otra situación derivada de su relación personal o jerárquica con éste o con otro funcionario o autoridad para conseguir una resolución que le pueda generar directa o indirectamente un beneficio económico para sí o para un tercero, incurrirá en las penas de prisión de seis meses a un año, multa del tanto al duplo del beneficio perseguido u obtenido, e inhabilitación especial para empleo o cargo público por tiempo de tres a seis años. Si obtuviere el beneficio perseguido se impondrán las penas en su mitad superior.
 
-
 #### Artículo 429.
 
 El particular que influyere en un funcionario público o autoridad prevaliéndose de cualquier situación derivada de su relación personal con éste o con otro funcionario público o autoridad para conseguir una resolución que le pueda generar, directa o indirectamente, un beneficio económico para sí o para un tercero, será castigado con las penas de prisión de seis meses a un año, y multa del tanto al duplo del beneficio perseguido u obtenido. Si obtuviere el beneficio perseguido se impondrán las penas en su mitad superior.
-
 
 #### Artículo 430.
 
 Los que, ofreciéndose a realizar las conductas descritas en los artículos anteriores, solicitaren de terceros dádivas, presentes o cualquier otra remuneración, o aceptaren ofrecimiento o promesa, serán castigados con la pena de prisión de seis meses a un año.
 
 En cualquiera de los supuestos a que se refiere este artículo, la autoridad judicial podrá imponer también la suspensión de las actividades de la sociedad, empresa, organización o despacho y la clausura de sus dependencias abiertas al público por tiempo de seis meses a tres años.
-
 
 #### Artículo 431.
 
@@ -3943,7 +3454,6 @@ CAPITULO VII
 
 De la malversación
 
-
 #### Artículo 432.
 
 1. La autoridad o funcionario público que, con ánimo de lucro, sustrajere o consintiere que un tercero, con igual ánimo, sustraiga los caudales o efectos públicos que tenga a su cargo por razón de sus funciones, incurrirá en la pena de prisión de tres a seis años e inhabilitación absoluta por tiempo de seis a diez años.
@@ -3952,18 +3462,15 @@ De la malversación
 
 3. Cuando la sustracción no alcance la cantidad de quinientas mil pesetas, se impondrán las penas de multa superior a dos y hasta cuatro meses, prisión de seis meses a tres años y suspensión de empleo o cargo público por tiempo de seis meses a un año.
 
-
 #### Artículo 433.
 
 La autoridad o funcionario público que destinare a usos ajenos a la función pública los caudales o efectos puestos a su cargo por razón de sus funciones, incurrirá en la pena de multa de seis a doce meses, y suspensión de empleo o cargo público por tiempo de seis meses a tres años.
 
 Si el culpable no reintegrara el importe de lo distraído dentro de los diez días siguientes al de la incoación del proceso, se le impondrán las penas del artículo anterior.
 
-
 #### Artículo 434.
 
 La autoridad o funcionario público que, con ánimo de lucro propio o ajeno y con grave perjuicio para la causa pública, diere una aplicación privada a bienes muebles o inmuebles pertenecientes a cualquier Administración o Entidad estatal, autonómica o local u Organismos dependientes de alguna de ellas, incurrirá en las penas de prisión de uno a tres años e inhabilitación especial para empleo o cargo público por tiempo de tres a seis años.
-
 
 #### Artículo 435.
 
@@ -3979,16 +3486,13 @@ CAPITULO VIII
 
 De los fraudes y exacciones ilegales
 
-
 #### Artículo 436.
 
 La autoridad o funcionario público que, interviniendo por razón de su cargo en cualquiera de los actos de las modalidades de contratación pública o en liquidaciones de efectos o haberes públicos, se concertara con los interesados o usase de cualquier otro artificio para defraudar a cualquier ente público, incurrirá en las penas de prisión de uno a tres años e inhabilitación especial para empleo o cargo público por tiempo de seis a diez años.
 
-
 #### Artículo 437.
 
 La autoridad o funcionario público que exigiere, directa o indirectamente, derechos, tarifas por aranceles o minutas que no sean debidos o en cuantía mayor a la legalmente señalada, será castigado, sin perjuicio de los reintegros a que viniere obligado, con las penas de multa de seis a veinticuatro meses y de suspensión de empleo o cargo público por tiempo de seis meses a cuatro años.
-
 
 #### Artículo 438.
 
@@ -3998,21 +3502,17 @@ CAPITULO IX
 
 De las negociaciones y actividades prohibidas a los funcionarios públicos y de los abusos en el ejercicio de su función
 
-
 #### Artículo 439.
 
 La autoridad o funcionario público que, debiendo informar, por razón de su cargo, en cualquier clase de contrato, asunto, operación o actividad, se aproveche de tal circunstancia para forzar o facilitarse cualquier forma de participación, directa o por persona interpuesta, en tales negocios o actuaciones, incurrirá en la pena de multa de doce a veinticuatro meses e inhabilitación especial para empleo o cargo público por tiempo de uno a cuatro años.
-
 
 #### Artículo 440.
 
 Los peritos, árbitros y contadores partidores que se condujeren del modo previsto en el artículo anterior, respecto de los bienes o cosas en cuya tasación, partición o adjudicación hubieran intervenido, y los tutores, curadores o albaceas respecto de los pertenecientes a sus pupilos o testamentarías, serán castigados con la pena de multa de doce a veinticuatro meses e inhabilitación especial para empleo o cargo público, profesión u oficio, guarda, tutela o curatela, según los casos, por tiempo de tres a seis años.
 
-
 #### Artículo 441.
 
 La autoridad o funcionario público que, fuera de los casos admitidos en las Leyes o Reglamentos, realizare, por sí o por persona interpuesta, una actividad profesional o de asesoramiento permanente o accidental, bajo la dependencia o al servicio de entidades privadas o de particulares, en asunto en que deba intervenir o haya intervenido por razón de su cargo, o en los que se tramiten, informen o resuelvan en la oficina o centro directivo en que estuviere destinado o del que dependa, incurrirá en las penas de multa de seis a doce meses, y suspensión de empleo o cargo público por tiempo de uno a tres años.
-
 
 #### Artículo 442.
 
@@ -4020,11 +3520,9 @@ La autoridad o funcionario público que haga uso de un secreto del que tenga con
 
 Si resultara grave daño para la causa pública o para tercero, la pena será de prisión de uno a seis años, e inhabilitación especial para empleo o cargo público por tiempo de siete a diez años. A los efectos de este artículo, se entiende por información privilegiada toda información de carácter concreto que se tenga exclusivamente por razón del oficio o cargo público y que no haya sido notificada, publicada o divulgada.
 
-
 #### Artículo 443.
 
 Será castigado con la pena de prisión de uno a dos años e inhabilitación absoluta por tiempo de seis a doce años, la autoridad o funcionario público que solicitare sexualmente a una persona que, para sí misma o para su cónyuge u otra persona con la que se halle ligado de forma estable por análoga relación de afectividad, ascendiente, descendiente, hermano, por naturaleza, por adopción, o afín en los mismos grados, tenga pretensiones pendientes de la resolución de aquél o acerca de las cuales deba evacuar informe o elevar consulta a su superior.
-
 
 #### Artículo 444.
 
@@ -4032,21 +3530,17 @@ Será castigado con la pena de prisión de uno a dos años e inhabilitación abs
 
 2. En las mismas penas incurrirán cuando la persona solicitada fuera ascendiente, descendiente, hermano, por naturaleza, por adopción, o afines en los mismos grados, de persona que tuviere bajo su guarda. Incurrirá, asimismo, en estas penas cuando la persona solicitada sea cónyuge de persona que tenga bajo su guarda o se halle ligada a ésta de forma estable por análoga relación de afectividad.
 
-
 #### Artículo 445.
 
 Las penas previstas en los dos artículos anteriores se impondrán sin perjuicio de las que correspondan por los delitos contra la libertad sexual efectivamente cometidos.
 
-
 **TITULO XX**
-
 
 **Delitos contra la Administración de Justicia**
 
 CAPITULO I
 
 De la prevaricación
-
 
 #### Artículo 446.
 
@@ -4058,16 +3552,13 @@ El Juez o Magistrado que, a sabiendas, dictare sentencia o resolución injusta s
 
 3.º Con la pena de multa de doce a veinticuatro meses e inhabilitación especial para empleo o cargo público por tiempo de diez a veinte años, cuando dictara cualquier otra sentencia o resolución injustas.
 
-
 #### Artículo 447.
 
 El Juez o Magistrado que por imprudencia grave o ignorancia inexcusable dictara sentencia o resolución manifiestamente injusta incurrirá en la pena de inhabilitación especial para empleo o cargo público por tiempo de dos a seis años.
 
-
 #### Artículo 448.
 
 El Juez o Magistrado que se negase a juzgar, sin alegar causa legal, o so pretexto de oscuridad, insuficiencia o silencio de la Ley, será castigado con la pena de inhabilitación especial para empleo o cargo público por tiempo de seis meses a cuatro años.
-
 
 #### Artículo 449.
 
@@ -4079,7 +3570,6 @@ CAPITULO II
 
 De la omisión de los deberes de impedir delitos o de promover su persecución
 
-
 #### Artículo 450.
 
 1. El que, pudiendo hacerlo con su intervención inmediata y sin riesgo propio o ajeno, no impidiere la comisión de un delito que afecte a las personas en su vida, integridad o salud, libertad o libertad sexual, será castigado con la pena de prisión de seis meses a dos años si el delito fuera contra la vida, y la de multa de seis a veinticuatro meses en los demás casos, salvo que al delito no impedido le correspondiera igual o menor pena, en cuyo caso se impondrá la pena inferior en grado a la de aquél.
@@ -4089,7 +3579,6 @@ De la omisión de los deberes de impedir delitos o de promover su persecución
 CAPITULO III
 
 Del encubrimiento
-
 
 #### Artículo 451.
 
@@ -4105,16 +3594,13 @@ a) Que el hecho encubierto sea constitutivo de traición, homicidio del Rey, de 
 
 b) Que el favorecedor haya obrado con abuso de funciones públicas. En este caso se impondrá, además de la pena de privación de libertad, la de inhabilitación especial para empleo o cargo público por tiempo de dos a cuatro años si el delito encubierto fuere menos grave, y la de inhabilitación absoluta por tiempo de seis a doce años si aquél fuera grave.
 
-
 #### Artículo 452.
 
 En ningún caso podrá imponerse pena privativa de libertad que exceda de la señalada al delito encubierto. Si éste estuviera castigado con pena de otra naturaleza, la pena privativa de libertad será sustituida por la de multa de seis a veinticuatro meses, salvo que el delito encubierto tenga asignada pena igual o inferior a ésta, en cuyo caso se impondrá al culpable la pena de aquel delito en su mitad inferior.
 
-
 #### Artículo 453.
 
 Las disposiciones de este capítulo se aplicarán aun cuando el autor del hecho encubierto sea irresponsable o esté personalmente exento de pena.
-
 
 #### Artículo 454.
 
@@ -4123,7 +3609,6 @@ Están exentos de las penas impuestas a los encubridores los que lo sean de su c
 CAPITULO IV
 
 De la realización arbitraria del propio derecho
-
 
 #### Artículo 455.
 
@@ -4134,7 +3619,6 @@ De la realización arbitraria del propio derecho
 CAPITULO V
 
 De la acusación y denuncia falsas y de la simulación de delitos
-
 
 #### Artículo 456.
 
@@ -4148,7 +3632,6 @@ De la acusación y denuncia falsas y de la simulación de delitos
 
 2. No podrá procederse contra el denunciante o acusador sino tras sentencia firme o auto también firme, de sobreseimiento o archivo del Juez o Tribunal que haya conocido de la infracción imputada. Estos mandarán proceder de oficio contra el denunciante o acusador siempre que de la causa principal resulten indicios bastantes de la falsedad de la imputación, sin perjuicio de que el hecho pueda también perseguirse previa denuncia del ofendido.
 
-
 #### Artículo 457.
 
 El que, ante alguno de los funcionarios señalados en el artículo anterior, simulare ser responsable o víctima de una infracción penal o denunciare una inexistente, provocando actuaciones procesales, será castigado con la multa de seis a doce meses.
@@ -4156,7 +3639,6 @@ El que, ante alguno de los funcionarios señalados en el artículo anterior, sim
 CAPITULO VI
 
 Del falso testimonio
-
 
 #### Artículo 458.
 
@@ -4166,16 +3648,13 @@ Del falso testimonio
 
 3. Las mismas penas se impondrán si el falso testimonio tuviera lugar ante Tribunales Internacionales que, en virtud de Tratados debidamente ratificados conforme a la Constitución Española, ejerzan competencias derivadas de ella, o se realizara en España al declarar en virtud de comisión rogatoria remitida por un Tribunal extranjero.
 
-
 #### Artículo 459.
 
 Las penas de los artículos precedentes se impondrán en su mitad superior a los peritos o intérpretes que faltaren a la verdad maliciosamente en su dictamen o traducción, los cuales serán, además, castigados con la pena de inhabilitación especial para profesión u oficio, empleo o cargo público, por tiempo de seis a doce años.
 
-
 #### Artículo 460.
 
 Cuando el testigo, perito o intérprete, sin faltar sustancialmente a la verdad, la alterare con reticencias, inexactitudes o silenciando hechos o datos relevantes que le fueran conocidos, será castigado con la pena de multa de seis a doce meses y, en su caso, de suspensión de empleo o cargo público, profesión u oficio, de seis meses a tres años.
-
 
 #### Artículo 461.
 
@@ -4185,7 +3664,6 @@ Cuando el testigo, perito o intérprete, sin faltar sustancialmente a la verdad,
 
 3. Si el responsable de este delito fuese abogado, procurador, graduado social o representante del Ministerio Fiscal, en actuación profesional o ejercicio de su función, se impondrá en cada caso la pena en su mitad superior y la de inhabilitación especial para empleo o cargo público, profesión u oficio, por tiempo de dos a cuatro años.
 
-
 #### Artículo 462.
 
 Quedará exento de pena el que, habiendo prestado un falso testimonio en causa criminal, se retracte en tiempo y forma, manifestando la verdad para que surta efecto antes de que se dicte sentencia en el proceso de que se trate. Si a consecuencia del falso testimonio, se hubiese producido la privación de libertad, se impondrán las penas correspondientes inferiores en grado.
@@ -4193,7 +3671,6 @@ Quedará exento de pena el que, habiendo prestado un falso testimonio en causa c
 CAPITULO VII
 
 De la obstrucción a la Justicia y la deslealtad profesional
-
 
 #### Artículo 463.
 
@@ -4203,7 +3680,6 @@ De la obstrucción a la Justicia y la deslealtad profesional
 
 3. Si la suspensión tuviere lugar, en el caso del apartado 1 de este artículo, como consecuencia de la incomparecencia del Juez o miembro del Tribunal o de quien ejerza las funciones de Secretario Judicial, se impondrá la pena de arresto de dieciocho a veinticuatro fines de semana, multa de seis a doce meses de inhabilitación especial por tiempo de dos a cuatro años.
 
-
 #### Artículo 464.
 
 1. El que con violencia o intimidación intentare influir directa o indirectamente en quien sea denunciante, parte o imputado, abogado, procurador, perito, intérprete o testigo en un procedimiento para que modifique su actuación procesal, será castigado con la pena de prisión de uno a cuatro años y multa de seis a veinticuatro meses.
@@ -4212,13 +3688,11 @@ Si el autor del hecho alcanzara su objetivo se impondrá la pena en su mitad sup
 
 2. Iguales penas se impondrán a quien realizare cualquier acto atentatorio contra la vida, integridad, libertad, libertad sexual o bienes, como represalia contra las personas citadas en el apartado anterior, por su actuación en procedimiento judicial, sin perjuicio de la pena correspondiente a la infracción de que tales hechos sean constitutivos.
 
-
 #### Artículo 465.
 
 1. El que, interviniendo en un proceso como abogado o procurador, con abuso de su función, destruyere, inutilizare u ocultare documentos o actuaciones de los que haya recibido traslado en aquella calidad, será castigado con la pena de prisión de seis meses a dos años, multa de siete a doce meses e inhabilitación especial para su profesión, empleo o cargo público de tres a seis años.
 
 2. Si los hechos descritos en el apartado primero de este artículo fueran realizados por un particular, la pena será de multa de tres a seis meses.
-
 
 #### Artículo 466.
 
@@ -4227,7 +3701,6 @@ Si el autor del hecho alcanzara su objetivo se impondrá la pena en su mitad sup
 2. Si la revelación de las actuaciones declaradas secretas fuese realizada por el Juez o miembro del Tribunal, representante del Ministerio Fiscal, Secretario Judicial o cualquier funcionario al servicio de la Administración de Justicia, se le impondrán las penas previstas en el artículo 417 en su mitad superior.
 
 3. Si la conducta descrita en el apartado primero fuere realizada por cualquier otro particular que intervenga en el proceso, la pena se impondrá en su mitad inferior.
-
 
 #### Artículo 467.
 
@@ -4241,16 +3714,13 @@ CAPITULO VIII
 
 Del quebrantamiento de condena
 
-
 #### Artículo 468.
 
 Los que quebrantaren su condena, medida de seguridad, prisión, medida cautelar, conducción o custodia, serán castigados con la pena de prisión de seis meses a un año si estuvieran privados de libertad, y con la multa de doce a veinticuatro meses en los demás casos.
 
-
 #### Artículo 469.
 
 Los sentenciados o presos que se fugaren del lugar en que estén recluidos, haciendo uso de violencia o intimidación en las personas o fuerza en las cosas o tomando parte en motín, serán castigados con la pena de prisión de seis meses a cuatro años.
-
 
 #### Artículo 470.
 
@@ -4260,21 +3730,17 @@ Los sentenciados o presos que se fugaren del lugar en que estén recluidos, haci
 
 3. Si se tratara de alguna de las personas citadas en el artículo 454, se les castigará con la pena de multa de tres a seis meses, pudiendo en este caso el Juez o Tribunal imponer tan sólo las penas correspondientes a los daños causados o a las amenazas o violencias ejercidas.
 
-
 #### Artículo 471.
 
 Se impondrá la pena superior en grado, en sus respectivos casos, si el culpable fuera un funcionario público encargado de la conducción o custodia de un condenado, preso o detenido. El funcionario será castigado, además, con la pena de inhabilitación especial para empleo o cargo público de seis a diez años si el fugitivo estuviera condenado por sentencia ejecutoria, y con la inhabilitación especial para empleo o cargo público de tres a seis años en los demás casos.
 
-
 **TITULO XXI**
-
 
 **Delitos contra la Constitución**
 
 CAPITULO I
 
 Rebelión
-
 
 #### Artículo 472.
 
@@ -4294,18 +3760,15 @@ Son reos del delito de rebelión los que se alzaren violenta y públicamente par
 
 7.º Sustraer cualquier clase de fuerza armada a la obediencia del Gobierno.
 
-
 #### Artículo 473.
 
 1. Los que, induciendo a los rebeldes, hayan promovido o sostengan la rebelión, y los jefes principales de ésta, serán castigados con la pena de prisión de quince a veinticinco años e inhabilitación absoluta por el mismo tiempo; los que ejerzan un mando subalterno, con la de prisión de diez a quince años e inhabilitación absoluta de diez a quince años, y los meros participantes, con la de prisión de cinco a diez años e inhabilitación especial para empleo o cargo público por tiempo de seis a diez años.
 
 2. Si se han esgrimido armas, o si ha habido combate entre la fuerza de su mando y los sectores leales a la autoridad legítima, o la rebelión hubiese causado estragos en propiedades de titularidad pública o privada, cortado las comunicaciones telegráficas, telefónicas, por ondas, ferroviarias o de otra clase, ejercido violencias graves contra las personas, exigido contribuciones o distraído los caudales públicos de su legítima inversión, las penas de prisión serán, respectivamente, de veinticinco a treinta años para los primeros, de quince a veinticinco años para los segundos y de diez a quince años para los últimos.
 
-
 #### Artículo 474.
 
 Cuando la rebelión no haya llegado a organizarse con jefes conocidos, se reputarán como tales los que de hecho dirijan a los demás, o lleven la voz por ellos, o firmen escritos expedidos a su nombre, o ejerzan otros actos semejantes de dirección o representación.
-
 
 #### Artículo 475.
 
@@ -4313,23 +3776,19 @@ Serán castigados como rebeldes con la pena de prisión de cinco a diez años e 
 
 Si llegara a tener efecto la rebelión, se reputarán promotores y sufrirán la pena señalada en el artículo 473.
 
-
 #### Artículo 476.
 
 1. El militar que no empleare los medios a su alcance para contener la rebelión en las fuerzas de su mando, será castigado con las penas de prisión de dos a cinco años e inhabilitación absoluta de seis a diez años.
 
 2. Será castigado con las mismas penas previstas en el apartado anterior en su mitad inferior el militar que, teniendo conocimiento de que se trata de cometer un delito de rebelión, no lo denuncie inmediatamente a sus superiores o a las autoridades o funcionarios que, por razón de su cargo, tengan la obligación de perseguir el delito.
 
-
 #### Artículo 477.
 
 La provocación, la conspiración y la proposición para cometer rebelión serán castigadas, además de con la inhabilitación prevista en los artículos anteriores, con la pena de prisión inferior en uno o dos grados a la del delito correspondiente.
 
-
 #### Artículo 478.
 
 En el caso de hallarse constituido en autoridad el que cometa cualquiera de los delitos previstos en este capítulo, la pena de inhabilitación que estuviese prevista en cada caso se sustituirá por la inhabilitación absoluta por tiempo de quince a veinte años, salvo que tal circunstancia se halle específicamente contemplada en el tipo penal de que se trate.
-
 
 #### Artículo 479.
 
@@ -4339,28 +3798,23 @@ Si los sublevados no depusieran su actitud inmediatamente después de la intimac
 
 No será necesaria la intimación desde el momento en que los rebeldes rompan el fuego.
 
-
 #### Artículo 480.
 
 1. Quedará exento de pena el que, implicado en un delito de rebelión, lo revelare a tiempo de poder evitar sus consecuencias.
 
 2. A los meros ejecutores que depongan las armas antes de haber hecho uso de ellas, sometiéndose a las autoridades legítimas, se les aplicará la pena de prisión inferior en grado. La misma pena se impondrá si los rebeldes se disolvieran o sometieran a la autoridad legítima antes de la intimación o a consecuencia de ella.
 
-
 #### Artículo 481.
 
 Los delitos particulares cometidos en una rebelión o con motivo de ella serán castigados, respectivamente, según las disposiciones de este Código.
-
 
 #### Artículo 482.
 
 Las autoridades que no hayan resistido la rebelión, serán castigadas con la pena de inhabilitación absoluta de doce a veinte años.
 
-
 #### Artículo 483.
 
 Los funcionarios que continúen desempeñando sus cargos bajo el mando de los alzados o que, sin habérseles admitido la renuncia de su empleo, lo abandonen cuando haya peligro de rebelión, incurrirán en la pena de inhabilitación especial para empleo o cargo público de seis a doce años.
-
 
 #### Artículo 484.
 
@@ -4370,7 +3824,6 @@ CAPITULO II
 
 Delitos contra la Corona
 
-
 #### Artículo 485.
 
 1. El que matare al Rey, o a cualquiera de sus ascendientes o descendientes, a la Reina consorte o al consorte de la Reina, al Regente o a algún miembro de la Regencia, o al Príncipe heredero de la Corona, será castigado con la pena de prisión de veinte a veinticinco años.
@@ -4378,7 +3831,6 @@ Delitos contra la Corona
 2. La tentativa del mismo delito se castigará con la pena inferior en un grado.
 
 3. Si concurrieran en el delito dos o más circunstancias agravantes, se impondrá la pena de prisión de veinticinco a treinta años.
-
 
 #### Artículo 486.
 
@@ -4388,23 +3840,19 @@ Si se tratara de alguna de las lesiones previstas en el artículo 150, se castig
 
 2. El que les causare cualquier otra lesión, será castigado con la pena de prisión de cuatro a ocho años.
 
-
 #### Artículo 487.
 
 Será castigado con la pena de prisión de quince a veinte años el que privare al Rey, o a cualquiera de sus ascendientes o descendientes, a la Reina consorte o al consorte de la Reina, al Regente o a algún miembro de la Regencia, o al Príncipe heredero de la Corona, de su libertad personal, salvo que los hechos estén castigados con mayor pena en otros preceptos de este Código.
 
-
 #### Artículo 488.
 
 La provocación, la conspiración y la proposición para los delitos previstos en los artículos anteriores se castigará con la pena inferior en uno o dos grados a las respectivamente previstas.
-
 
 #### Artículo 489.
 
 El que con violencia o intimidación grave obligare a las personas referidas en los artículos anteriores a ejecutar un acto contra su voluntad, será castigado con la pena de prisión de ocho a doce años.
 
 En el caso previsto en el párrafo anterior, si la violencia o la intimidación no fueran graves, se impondrá la pena inferior en grado.
-
 
 #### Artículo 490.
 
@@ -4413,7 +3861,6 @@ En el caso previsto en el párrafo anterior, si la violencia o la intimidación 
 2. Con la pena de prisión de tres a seis años será castigado el que amenazare gravemente a cualquiera de las personas mencionadas en el apartado anterior, y con la pena de prisión de uno a tres años si la amenaza fuera leve.
 
 3. El que calumniare o injuriare al Rey o a cualquiera de sus ascendientes o descendientes, a la Reina consorte o al consorte de la Reina, al Regente o a algún miembro de la Regencia, o al Príncipe heredero de la Corona, en el ejercicio de sus funciones o con motivo u ocasión de éstas, será castigado con la pena de prisión de seis meses a dos años si la calumnia o injuria fueran graves, y con la de multa de seis a doce meses si no lo son.
-
 
 #### Artículo 491.
 
@@ -4427,21 +3874,17 @@ De los delitos contra las Instituciones del Estado y la división de poderes
 
 SECCIÓN 1.ª DELITOS CONTRA LAS INSTITUCIONES DEL ESTADO
 
-
 #### Artículo 492.
 
 Los que, al vacar la Corona o quedar inhabilitado su Titular para el ejercicio de su autoridad, impidieren a las Cortes Generales reunirse para nombrar la Regencia o el tutor del Titular menor de edad, serán sancionados con la pena de prisión de diez a quince años e inhabilitación absoluta por tiempo de diez a quince años, sin perjuicio de la pena que pudiera corresponderles por la comisión de otras infracciones más graves.
-
 
 #### Artículo 493.
 
 Los que, sin alzarse públicamente, invadieren con fuerza, violencia o intimidación las sedes del Congreso de los Diputados, del Senado o de una Asamblea Legislativa de Comunidad Autónoma, si están reunidos, serán castigados con la pena de prisión de tres a cinco años.
 
-
 #### Artículo 494.
 
 Incurrirán en la pena de prisión de seis meses a un año o multa de doce a veinticuatro meses los que promuevan, dirijan o presidan manifestaciones u otra clase de reuniones ante las sedes del Congreso de los Diputados, del Senado o de una Asamblea Legislativa de Comunidad Autónoma, cuando estén reunidos, alterando su normal funcionamiento.
-
 
 #### Artículo 495.
 
@@ -4449,13 +3892,11 @@ Incurrirán en la pena de prisión de seis meses a un año o multa de doce a vei
 
 2. La pena prevista en el apartado anterior se aplicará en su mitad superior a quienes promuevan, dirijan o presidan el grupo.
 
-
 #### Artículo 496.
 
 El que injuriare gravemente a las Cortes Generales o a una Asamblea Legislativa de Comunidad Autónoma, hallándose en sesión, o a alguna de sus Comisiones en los actos públicos en que las representen, será castigado con la pena de multa de doce a dieciocho meses.
 
 El imputado de las injurias descritas en el párrafo anterior quedará exento de pena si se dan las circunstancias previstas en el artículo 210.
-
 
 #### Artículo 497.
 
@@ -4463,26 +3904,21 @@ El imputado de las injurias descritas en el párrafo anterior quedará exento de
 
 2. Cuando la perturbación del orden de las sesiones a que se refiere el apartado anterior no sea grave, se impondrá la pena de multa de seis a doce meses.
 
-
 #### Artículo 498.
 
 Los que emplearen fuerza, violencia, intimidación o amenaza grave para impedir a un miembro del Congreso de los Diputados, del Senado o de una Asamblea Legislativa de Comunidad Autónoma asistir a sus reuniones, o, por los mismos medios, coartaren la libre manifestación de sus opiniones o la emisión de su voto, serán castigados con la pena de prisión de tres a cinco años.
-
 
 #### Artículo 499.
 
 La autoridad o funcionario público que quebrantare la inviolabilidad de las Cortes Generales o de una Asamblea Legislativa de Comunidad Autónoma, será castigado con las penas de inhabilitación especial para empleo o cargo público por tiempo de diez a veinte años, sin perjuicio de las que pudieran corresponderle si el hecho constituyera otro delito más grave.
 
-
 #### Artículo 500.
 
 La autoridad o funcionario público que detuviere a un miembro de las Cortes Generales o de una Asamblea Legislativa de Comunidad Autónoma fuera de los supuestos o sin los requisitos establecidos por la legislación vigente incurrirá, según los casos, en las penas previstas en este Código, impuestas en su mitad superior, y además en la de inhabilitación especial para empleo o cargo público de seis a doce años.
 
-
 #### Artículo 501.
 
 La autoridad judicial que inculpare o procesare a un miembro de las Cortes Generales o de una Asamblea Legislativa de Comunidad Autónoma sin los requisitos establecidos por la legislación vigente, será castigada con la pena de inhabilitación especial para empleo o cargo público de diez a veinte años.
-
 
 #### Artículo 502.
 
@@ -4492,7 +3928,6 @@ La autoridad judicial que inculpare o procesare a un miembro de las Cortes Gener
 
 3. El que convocado ante una Comisión parlamentaria de investigación faltare a la verdad en su testimonio, será castigado con la pena de prisión de seis meses a un año o multa de seis a doce meses.
 
-
 #### Artículo 503.
 
 Incurrirán en la pena de prisión de dos a cuatro años:
@@ -4500,7 +3935,6 @@ Incurrirán en la pena de prisión de dos a cuatro años:
 1.º Los que invadan violentamente o con intimidación el local donde esté constituido el Consejo de Ministros o un Consejo de Gobierno de Comunidad Autónoma.
 
 2.º Los que coarten o por cualquier medio pongan obstáculos a la libertad del Gobierno reunido en Consejo o de los miembros de un Gobierno de Comunidad Autónoma, reunido en Consejo, salvo que los hechos sean constitutivos de otro delito más grave.
-
 
 #### Artículo 504.
 
@@ -4510,7 +3944,6 @@ El culpable de calumnias o injurias conforme a lo dispuesto en el párrafo anter
 
 Se impondrá la pena de prisión de tres a cinco años a los que empleen fuerza, violencia o intimidación para impedir a los miembros de dichos Organismos asistir a sus respectivas reuniones.
 
-
 #### Artículo 505.
 
 Los que injuriaren o amenazaren gravemente a los Ejércitos, Clases o Cuerpos y Fuerzas de Seguridad, serán castigados con la pena de multa de doce a dieciocho meses.
@@ -4519,23 +3952,19 @@ El culpable de las injurias previstas en el párrafo anterior quedará exento de
 
 SECCIÓN 2.ª DE LA USURPACIÓN DE ATRIBUCIONES
 
-
 #### Artículo 506.
 
 La autoridad o funcionario público que, careciendo de atribuciones para ello, dictare una disposición general o suspendiere su ejecución, será castigado con la pena de prisión de uno a tres años, multa de seis a doce meses e inhabilitación especial para empleo o cargo público por tiempo de seis a doce años.
 
-
 #### Artículo 507.
 
 El Juez o Magistrado que se arrogare atribuciones administrativas de las que careciere, o impidiere su legítimo ejercicio por quien las ostentare, será castigado con la pena de prisión de seis meses a un año, multa de tres a seis meses y suspensión de empleo o cargo público por tiempo de uno a tres años.
-
 
 #### Artículo 508.
 
 1. La autoridad o funcionario público que se arrogare atribuciones judiciales o impidiere ejecutar una resolución dictada por la autoridad judicial competente, será castigado con las penas de prisión de seis meses a un año, multa de tres a ocho meses y suspensión de empleo o cargo público por tiempo de uno a tres años.
 
 2. La autoridad o funcionario administrativo o militar que atentare contra la independencia de los Jueces o Magistrados, garantizada por la Constitución, dirigiéndoles instrucción, orden o intimación relativas a causas o actuaciones que estén conociendo, será castigado con la pena de prisión de uno a dos años, multa de cuatro a diez meses e inhabilitación especial para empleo o cargo público por tiempo de dos a seis años.
-
 
 #### Artículo 509.
 
@@ -4547,13 +3976,11 @@ De los delitos relativos al ejercicio de los derechos fundamentales y libertades
 
 SECCIÓN 1.ª DE LOS DELITOS COMETIDOS CON OCASIÓN DEL EJERCICIO DE LOS DERECHOS FUNDAMENTALES Y DE LAS LIBERTADES PÚBLICAS GARANTIZADOS POR LA CONSTITUCIÓN
 
-
 #### Artículo 510.
 
 1. Los que provocaren a la discriminación, al odio o a la violencia contra grupos o asociaciones, por motivos racistas, antisemitas u otros referentes a la ideología, religión o creencias, situación familiar, la pertenencia de sus miembros a una etnia o raza, su origen nacional, su sexo, orientación sexual, enfermedad o minusvalía, serán castigados con la pena de prisión de uno a tres años y multa de seis a doce meses.
 
 2. Serán castigados con la misma pena los que, con conocimiento de su falsedad o temerario desprecio hacia la verdad, difundieren informaciones injuriosas sobre grupos o asociaciones en relación a su ideología, religión o creencias, la pertenencia de sus miembros a una etnia o raza, su origen nacional, su sexo, orientación sexual, enfermedad o minusvalía.
-
 
 #### Artículo 511.
 
@@ -4563,11 +3990,9 @@ SECCIÓN 1.ª DE LOS DELITOS COMETIDOS CON OCASIÓN DEL EJERCICIO DE LOS DERECHO
 
 3. Los funcionarios públicos que cometan alguno de los hechos previstos en este artículo, incurrirán en las mismas penas en su mitad superior y en la de inhabilitación especial para empleo o cargo público por tiempo de dos a cuatro años.
 
-
 #### Artículo 512.
 
 Los que en el ejercicio de sus actividades profesionales o empresariales denegaren a una persona una prestación a la que tenga derecho por razón de su ideología, religión o creencias, su pertenencia a una etnia, raza o nación, su sexo, orientación sexual, situación familiar, enfermedad o minusvalía, incurrirán en la pena de inhabilitación especial para el ejercicio de profesión, oficio, industria o comercio, por un período de uno a cuatro años.
-
 
 #### Artículo 513.
 
@@ -4577,7 +4002,6 @@ Son punibles las reuniones o manifestaciones ilícitas, y tienen tal consideraci
 
 2.º Aquéllas a las que concurran personas con armas, artefactos explosivos u objetos contundentes o de cualquier otro modo peligroso.
 
-
 #### Artículo 514.
 
 1. Los promotores o directores de cualquier reunión o manifestación comprendida en el número 1.º del artículo anterior y los que, en relación con el número 2.º del mismo, no hayan tratado de impedir por todos los medios a su alcance las circunstancias en ellos mencionadas, incurrirán en las penas de prisión de uno a tres años y multa de doce a veinticuatro meses. A estos efectos, se reputarán directores o promotores de la reunión o manifestación los que las convoquen o presidan.
@@ -4585,7 +4009,6 @@ Son punibles las reuniones o manifestaciones ilícitas, y tienen tal consideraci
 2. Los asistentes a una reunión o manifestación que porten armas u otros medios igualmente peligrosos serán castigados con la pena de prisión de uno a dos años y multa de seis a doce meses. Los Jueces o Tribunales, atendiendo a los antecedentes del sujeto, circunstancias del caso y características del arma o instrumento portado, podrán rebajar en un grado la pena señalada.
 
 3. Las personas que, con ocasión de la celebración de una reunión o manifestación, realicen actos de violencia contra la autoridad, sus agentes, personas o propiedades públicas o privadas, serán castigadas con la pena que a su delito corresponda, en su mitad superior.
-
 
 #### Artículo 515.
 
@@ -4601,7 +4024,6 @@ Son punibles las asociaciones ilícitas, teniendo tal consideración:
 
 5.º Las que promuevan la discriminación, el odio o la violencia contra personas, grupos o asociaciones por razón de su ideología, religión o creencias, la pertenencia de sus miembros o de alguno de ellos a una etnia, raza o nación, su sexo, orientación sexual, situación familiar, enfermedad o minusvalía, o inciten a ello.
 
-
 #### Artículo 516.
 
 En los casos previstos en el número 2.º del artículo anterior, se impondrán las siguientes penas:
@@ -4612,7 +4034,6 @@ cualquiera de sus grupos, las de prisión de ocho a catorce años y de inhabilit
 
 2.º A los integrantes de las citadas organizaciones, la de prisión de seis a doce años, e inhabilitación especial para empleo o cargo público por tiempo de seis a catorce años.
 
-
 #### Artículo 517.
 
 En los casos previstos en los números 1.º y 3.º al 5.º del artículo 515 se impondrán las siguientes penas:
@@ -4621,28 +4042,23 @@ En los casos previstos en los números 1.º y 3.º al 5.º del artículo 515 se 
 
 2.º A los miembros activos, las de prisión de uno a tres años y multa de doce a veinticuatro meses.
 
-
 #### Artículo 518.
 
 Los que con su cooperación económica o de cualquier otra clase, en todo caso relevante, favorezcan la fundación, organización o actividad de las asociaciones comprendidas en los números 1.º y 3.º al 5.º del artículo 515, incurrirán en las penas de prisión de uno a tres años, multa de doce a veinticuatro meses, e inhabilitación especial para empleo o cargo público por tiempo de uno a cuatro años.
-
 
 #### Artículo 519.
 
 La provocación, la conspiración y la proposición para cometer el delito de asociación ilícita se castigarán con la pena inferior en uno o dos grados a la que corresponda, respectivamente, a los hechos previstos en los artículos anteriores.
 
-
 #### Artículo 520.
 
 Los Jueces o Tribunales, en los supuestos previstos en el artículo 515, acordarán la disolución de la asociación ilícita y, en su caso, cualquier otra de las consecuencias accesorias del artículo 129 de este Código.
-
 
 #### Artículo 521.
 
 En el delito de asociación ilícita, si el reo fuera autoridad, agente de ésta o funcionario público, se le impondrá, además de las penas señaladas, la de inhabilitación absoluta de diez a quince años.
 
 SECCIÓN 2.ª DE LOS DELITOS CONTRA LA LIBERTAD DE CONCIENCIA, LOS SENTIMIENTOS RELIGIOSOS Y EL RESPETO A LOS DIFUNTOS
-
 
 #### Artículo 522.
 
@@ -4652,16 +4068,13 @@ Incurrirán en la pena de multa de cuatro a diez meses:
 
 2.º Los que por iguales medios fuercen a otro u otros a practicar o concurrir a actos de culto o ritos, o a realizar actos reveladores de profesar o no profesar una religión, o a mudar la que profesen.
 
-
 #### Artículo 523.
 
 El que con violencia, amenaza, tumulto o vías de hecho, impidiere, interrumpiere o perturbare los actos, funciones, ceremonias o manifestaciones de las confesiones religiosas inscritas en el correspondiente registro público del Ministerio de Justicia e Interior, será castigado con la pena de prisión de seis meses a seis años, si el hecho se ha cometido en lugar destinado al culto, y con la de multa de cuatro a diez meses si se realiza en cualquier otro lugar.
 
-
 #### Artículo 524.
 
 El que en templo, lugar destinado al culto o en ceremonias religiosas, ejecutare actos de profanación en ofensa de los sentimientos religiosos legalmente tutelados, será castigado con la pena de prisión de seis meses a un año o multa de cuatro a diez meses.
-
 
 #### Artículo 525.
 
@@ -4669,13 +4082,11 @@ El que en templo, lugar destinado al culto o en ceremonias religiosas, ejecutare
 
 2. En las mismas penas incurrirán los que hagan públicamente escarnio, de palabra o por escrito, de quienes no profesan religión o creencia alguna.
 
-
 #### Artículo 526.
 
 El que, faltando al respeto debido a la memoria de los muertos, violare los sepulcros o sepulturas, profanare un cadáver o sus cenizas o, con ánimo de ultraje, destruyere, alterare o dañare las urnas funerarias, panteones, lápidas o nichos, será castigado con la pena de arresto de doce a veinticuatro fines de semana y multa de tres a seis meses.
 
 SECCIÓN 3.ª DE LOS DELITOS CONTRA EL DEBER DE CUMPLIMIENTO DE LA PRESTACIÓN SOCIAL SUSTITUTORIA
-
 
 #### Artículo 527.
 
@@ -4691,7 +4102,6 @@ La inhabilitación incluirá la incapacidad para desempeñar cualquier empleo o 
 
 Una vez cumplida la condena impuesta, el penado quedará exento del cumplimiento de la prestación.
 
-
 #### Artículo 528.
 
 Cuando hubiere constancia de que la objeción de conciencia se ha alegado falsamente, las conductas descritas en el artículo anterior se castigarán con las penas del artículo 604 en su mitad superior.
@@ -4702,35 +4112,29 @@ De los delitos cometidos por los funcionarios públicos contra las garantías co
 
 SECCIÓN 1.ª DE LOS DELITOS COMETIDOS POR LOS FUNCIONARIOS PÚBLICOS CONTRA LA LIBERTAD INDIVIDUAL
 
-
 #### Artículo 529.
 
 1. El Juez o Magistrado que entregare una causa criminal a otra autoridad o funcionario, militar o administrativo, que ilegalmente se la reclame, será castigado con la pena de inhabilitación especial para empleo o cargo público por tiempo de seis meses a dos años.
 
 2. Si además entregara la persona de un detenido, se le impondrá la pena superior en grado.
 
-
 #### Artículo 530.
 
 La autoridad o funcionario público que, mediando causa por delito, acordare, practicare o prolongare cualquier privación de libertad de un detenido, preso o sentenciado, con violación de los plazos o demás garantías constitucionales o legales, será castigado con la pena de inhabilitación especial para empleo o cargo público por tiempo de cuatro a ocho años.
-
 
 #### Artículo 531.
 
 La autoridad o funcionario público que, mediando causa por delito, decretare, practicare o prolongare la incomunicación de un detenido, preso o sentenciado, con violación de los plazos o demás garantías constitucionales o legales, será castigado con la pena de inhabilitación especial para empleo o cargo público por tiempo de dos a seis años.
 
-
 #### Artículo 532.
 
 Si los hechos descritos en los dos artículos anteriores fueran cometidos por imprudencia grave, se castigarán con la pena de suspensión de empleo o cargo público por tiempo de seis meses a dos años.
-
 
 #### Artículo 533.
 
 El funcionario penitenciario o de centros de protección o corrección de menores que impusiere a los reclusos o internos sanciones o privaciones indebidas, o usare con ellos de un rigor innecesario, será castigado con la pena de inhabilitación especial para empleo o cargo público por tiempo de dos a seis años.
 
 SECCIÓN 2.ª DE LOS DELITOS COMETIDOS POR LOS FUNCIONARIOS PÚBLICOS CONTRA LA INVIOLABILIDAD DOMICILIARIA Y DEMÁS GARANTÍAS DE LA INTIMIDAD
-
 
 #### Artículo 534.
 
@@ -4744,13 +4148,11 @@ Si no devolviera al dueño, inmediatamente después del registro, los papeles, d
 
 2. La autoridad o funcionario público que, con ocasión de lícito registro de papeles, documentos o efectos de una persona, cometa cualquier vejación injusta o daño innecesario en sus bienes, será castigado con las penas previstas para estos hechos, impuestas en su mitad superior, y, además, con la pena de inhabilitación especial para empleo o cargo público por tiempo de dos a seis años.
 
-
 #### Artículo 535.
 
 La autoridad o funcionario público que, mediando causa por delito, interceptare cualquier clase de correspondencia privada, postal o telegráfica, con violación de las garantías constitucionales o legales, incurrirá en la pena de inhabilitación especial para empleo o cargo público de dos a seis años.
 
 Si divulgara o revelara la información obtenida, se impondrá la pena de inhabilitación especial, en su mitad superior, y, además, la de multa de seis a dieciocho meses.
-
 
 #### Artículo 536.
 
@@ -4760,31 +4162,25 @@ Si divulgare o revelare la información obtenida, se impondrán las penas de inh
 
 SECCIÓN 3.ª DE LOS DELITOS COMETIDOS POR LOS FUNCIONARIOS PÚBLICOS CONTRA OTROS DERECHOS INDIVIDUALES
 
-
 #### Artículo 537.
 
 La autoridad o funcionario público que impida u obstaculice el derecho a la asistencia de abogado al detenido o preso, procure o favorezca la renuncia del mismo a dicha asistencia o no le informe de forma inmediata y de modo que le sea comprensible de sus derechos y de las razones de su detención, será castigado con la pena de multa de cuatro a diez meses e inhabilitación especial para empleo o cargo público de dos a cuatro años.
-
 
 #### Artículo 538.
 
 La autoridad o funcionario público que establezca la censura previa o, fuera de los casos permitidos por la Constitución y las Leyes, recoja ediciones de libros o periódicos o suspenda su publicación o la difusión de cualquier emisión radiotelevisiva, incurrirá en la pena de inhabilitación absoluta de seis a diez años.
 
-
 #### Artículo 539.
 
 La autoridad o funcionario público que disuelva o suspenda en sus actividades a una asociación legalmente constituida, sin previa resolución judicial, o sin causa legítima le impida la celebración de sus sesiones, será castigado con la pena de inhabilitación especial para empleo o cargo público de ocho a doce años y multa de seis a doce meses.
-
 
 #### Artículo 540.
 
 La autoridad o funcionario público que prohiba una reunión pacífica o la disuelva fuera de los casos expresamente permitidos por las Leyes, será castigado con la pena de inhabilitación especial para empleo o cargo público de cuatro a ocho años y multa de seis a nueve meses.
 
-
 #### Artículo 541.
 
 La autoridad o funcionario público que expropie a una persona de sus bienes fuera de los casos permitidos y sin cumplir los requisitos legales, incurrirá en las penas de inhabilitación especial para empleo o cargo público de uno a cuatro años y multa de seis a doce meses.
-
 
 #### Artículo 542.
 
@@ -4794,14 +4190,11 @@ CAPITULO VI
 
 De los ultrajes a España
 
-
 #### Artículo 543.
 
 Las ofensas o ultrajes de palabra, por escrito o de hecho a España, a sus Comunidades Autónomas o a sus símbolos o emblemas, efectuados con publicidad, se castigarán con la pena de multa de siete a doce meses.
 
-
 **TITULO XXII**
-
 
 **Delitos contra el orden público**
 
@@ -4809,11 +4202,9 @@ CAPITULO I
 
 Sedición
 
-
 #### Artículo 544.
 
 Son reos de sedición los que, sin estar comprendidos en el delito de rebelión, se alcen pública y tumultuariamente para impedir, por la fuerza o fuera de las vías legales, la aplicación de las Leyes o a cualquier autoridad, corporación oficial o funcionario público, el legítimo ejercicio de sus funciones o el cumplimiento de sus acuerdos, o de las resoluciones administrativas o judiciales.
-
 
 #### Artículo 545.
 
@@ -4821,21 +4212,17 @@ Son reos de sedición los que, sin estar comprendidos en el delito de rebelión,
 
 2. Fuera de estos casos, se impondrá la pena de cuatro a ocho años de prisión, y la de inhabilitación especial para empleo o cargo público por tiempo de cuatro a ocho años.
 
-
 #### Artículo 546.
 
 Lo dispuesto en el artículo 474 es aplicable al caso de sedición cuando ésta no haya llegado a organizarse con jefes conocidos.
-
 
 #### Artículo 547.
 
 En el caso de que la sedición no haya llegado a entorpecer de un modo grave el ejercicio de la autoridad pública y no haya tampoco ocasionado la perpetración de otro delito al que la Ley señale penas graves, los Jueces o Tribunales rebajarán en uno o dos grados las penas señaladas en este capítulo.
 
-
 #### Artículo 548.
 
 La provocación, la conspiración y la proposición para la sedición serán castigadas con las penas inferiores en uno o dos grados a las respectivamente previstas, salvo que llegue a tener efecto la sedición, en cuyo caso se castigará con la pena señalada en el primer apartado del artículo 545, y a sus autores se los considerará promotores.
-
 
 #### Artículo 549.
 
@@ -4845,18 +4232,15 @@ CAPITULO II
 
 De los atentados contra la autoridad, sus agentes y los funcionarios públicos, y de la resistencia y desobediencia
 
-
 #### Artículo 550.
 
 Son reos de atentado los que acometan a la autoridad, a sus agentes o funcionarios públicos, o empleen fuerza contra ellos, los intimiden gravemente o les hagan resistencia activa también grave, cuando se hallen ejecutando las funciones de sus cargos o con ocasión de ellas.
-
 
 #### Artículo 551.
 
 1. Los atentados comprendidos en el artículo anterior serán castigados con las penas de prisión de dos a cuatro años y multa de tres a seis meses si el atentado fuera contra autoridad y de prisión de uno a tres años en los demás casos.
 
 2. No obstante lo previsto en el apartado anterior, si la autoridad contra la que se atentare fuera miembro del Gobierno, de los Consejos de Gobierno de las Comunidades Autónomas, del Congreso de los Diputados, del Senado o de las Asambleas Legislativas de las Comunidades Autónomas, del Consejo General del Poder Judicial o Magistrado del Tribunal Constitucional, se impondrá la pena de prisión de cuatro a seis años y multa de seis a doce meses.
-
 
 #### Artículo 552.
 
@@ -4866,11 +4250,9 @@ Se impondrán las penas superiores en grado a las respectivamente previstas en e
 
 2.ª Si el autor del hecho se prevaliera de su condición de autoridad, agente de ésta o funcionario público.
 
-
 #### Artículo 553.
 
 La provocación, la conspiración y la proposición para cualquiera de los delitos previstos en los artículos anteriores, será castigada con la pena inferior en uno o dos grados a la del delito correspondiente.
-
 
 #### Artículo 554.
 
@@ -4878,11 +4260,9 @@ La provocación, la conspiración y la proposición para cualquiera de los delit
 
 2. A estos efectos, se entenderán por fuerza armada los militares que, vistiendo uniforme, presten un servicio que legalmente esté encomendado a las Fuerzas Armadas y les haya sido reglamentariamente ordenado.
 
-
 #### Artículo 555.
 
 Las penas previstas en los artículos 551 y 552 se impondrán en un grado inferior, en sus respectivos casos, a los que acometan o intimiden a las personas que acudan en auxilio de la autoridad, sus agentes o funcionarios.
-
 
 #### Artículo 556.
 
@@ -4892,21 +4272,17 @@ CAPITULO III
 
 De los desórdenes públicos
 
-
 #### Artículo 557.
 
 Serán castigados con la pena de prisión de seis meses a tres años los que, actuando en grupo, y con el fin de atentar contra la paz pública, alteren el orden público causando lesiones a las personas, produciendo daños en las propiedades, obstaculizando las vías públicas o los accesos a las mismas de manera peligrosa para los que por ellas circulen, o invadiendo instalaciones o edificios, sin perjuicio de las penas que les puedan corresponder conforme a otros preceptos de este Código.
-
 
 #### Artículo 558.
 
 Serán castigados con la pena de arresto de siete a veinticuatro fines de semana o multa de tres a doce meses, los que perturben gravemente el orden en la audiencia de un Tribunal o Juzgado, en los actos públicos propios de cualquier autoridad o corporación, en colegio electoral, oficina o establecimiento público, centro docente, o con motivo de la celebración de espectáculos deportivos o culturales.
 
-
 #### Artículo 559.
 
 Los que perturben gravemente el orden público con objeto de impedir a alguna persona el ejercicio de sus derechos cívicos, serán castigados con las penas de multa de tres a doce meses y de inhabilitación especial para el derecho de sufragio pasivo por tiempo de dos a seis años.
-
 
 #### Artículo 560.
 
@@ -4916,16 +4292,13 @@ Los que perturben gravemente el orden público con objeto de impedir a alguna pe
 
 3. Igual pena se impondrá a los que dañen las conducciones o transmisiones de agua, gas o electricidad para las poblaciones, interrumpiendo o alterando gravemente el suministro o servicio.
 
-
 #### Artículo 561.
 
 El que, con ánimo de atentar contra la paz pública, afirme falsamente la existencia de aparatos explosivos u otros que puedan causar el mismo efecto, será castigado con la pena de prisión de seis meses a un año o multa de seis a dieciocho meses, atendida la alarma o alteración del orden efectivamente producida.
 
 CAPITULO IV
 
-
 #### Disposición común a los capítulos anteriores
-
 
 #### Artículo 562.
 
@@ -4937,11 +4310,9 @@ De la tenencia, tráfico y depósito de armas, municiones o explosivos y de los 
 
 SECCIÓN 1.ª DE LA TENENCIA, TRÁFICO Y DEPÓSITO DE ARMAS, MUNICIONES O EXPLOSIVOS
 
-
 #### Artículo 563.
 
 La tenencia de armas prohibidas y la de aquellas que sean resultado de la modificación sustancial de las características de fabricación de armas reglamentadas, será castigada con la pena de prisión de uno a tres años.
-
 
 #### Artículo 564.
 
@@ -4959,11 +4330,9 @@ La tenencia de armas prohibidas y la de aquellas que sean resultado de la modifi
 
 3.ª Que hayan sido transformadas, modificando sus características originales.
 
-
 #### Artículo 565.
 
 Los Jueces o Tribunales podrán rebajar en un grado las penas señaladas en los artículos anteriores, siempre que por las circunstancias del hecho y del culpable se evidencie la falta de intención de usar las armas con fines ilícitos.
-
 
 #### Artículo 566.
 
@@ -4975,7 +4344,6 @@ Los que fabriquen, comercialicen o establezcan depósitos de armas o municiones 
 
 3.º Con las mismas penas será castigado, en sus respectivos casos, el tráfico de armas o municiones de guerra o de defensa, o de armas químicas.
 
-
 #### Artículo 567.
 
 1. Se considera depósito de armas de guerra la fabricación, la comercialización o la tenencia de cualquiera de dichas armas, con independencia de su modelo o clase, aun cuando se hallen en piezas desmontadas. Se considera depósito de armas químicas la fabricación, comercialización o tenencia de las mismas.
@@ -4986,16 +4354,13 @@ Los que fabriquen, comercialicen o establezcan depósitos de armas o municiones 
 
 4. Respecto de las municiones, los Jueces y Tribunales, teniendo en cuenta la cantidad y clase de las mismas, declararán si constituyen depósito a los efectos de este capítulo.
 
-
 #### Artículo 568.
 
 La tenencia o el depósito de sustancias o aparatos explosivos, inflamables, incendiarios o asfixiantes, o sus componentes, así como su fabricación, tráfico o transporte, o suministro de cualquier forma, no autorizado por las Leyes o la autoridad competente, serán castigados con la pena de prisión de cuatro a ocho años, si se trata de sus promotores y organizadores, y con la pena de prisión de tres a cinco años para los que hayan cooperado a su formación.
 
-
 #### Artículo 569.
 
 Los depósitos de armas, municiones o explosivos establecidos en nombre o por cuenta de una asociación con propósito delictivo, determinarán la declaración judicial de ilicitud y su consiguiente disolución.
-
 
 #### Artículo 570.
 
@@ -5003,11 +4368,9 @@ En los casos previstos en este capítulo, si el delincuente estuviera autorizado
 
 SECCIÓN 2.ª DE LOS DELITOS DE TERRORISMO
 
-
 #### Artículo 571.
 
 Los que perteneciendo, actuando al servicio o colaborando con bandas armadas, organizaciones o grupos cuya finalidad sea la de subvertir el orden constitucional o alterar gravemente la paz pública, cometan los delitos de estragos o de incendios tipificados en los artículos 346 y 351, respectivamente, serán castigados con la pena de prisión de quince a veinte años, sin perjuicio de la pena que les corresponda si se produjera lesión para la vida, integridad física o salud de las personas.
-
 
 #### Artículo 572.
 
@@ -5021,21 +4384,17 @@ Los que perteneciendo, actuando al servicio o colaborando con bandas armadas, or
 
 2. Si los hechos se realizaran contra las personas mencionadas en el apartado 2 del artículo 551 o contra miembros de las Fuerzas Armadas, de las Fuerzas y Cuerpos de Seguridad del Estado, Policías de las Comunidades Autónomas o de los Entes locales, se impondrá la pena en su mitad superior.
 
-
 #### Artículo 573.
 
 El depósito de armas o municiones o la tenencia o depósito de sustancias o aparatos explosivos, inflamables, incendiarios o asfixiantes, o de sus componentes, así como su fabricación, tráfico, transporte o suministro de cualquier forma, y la mera colocación o empleo de tales sustancias o de los medios o artificios adecuados, serán castigados con la pena de prisión de seis a diez años cuando tales hechos sean cometidos por quienes pertenezcan, actúen al servicio o colaboren con las bandas armadas, organizaciones o grupos terroristas descritos en los artículos anteriores.
-
 
 #### Artículo 574.
 
 Los que perteneciendo, actuando al servicio o colaborando con bandas armadas, organizaciones o grupos terroristas, cometan cualquier otra infracción con alguna de las finalidades expresadas en el artículo 571, serán castigados con la pena señalada al delito o falta ejecutados en su mitad superior.
 
-
 #### Artículo 575.
 
 Los que, con el fin de allegar fondos a las bandas armadas, organizaciones o grupos terroristas señalados anteriormente, o con el propósito de favorecer sus finalidades, atentaren contra el patrimonio, serán castigados con la pena superior en grado a la que correspondiere por el delito cometido, sin perjuicio de las que proceda imponer conforme a lo dispuesto en el artículo siguiente por el acto de colaboración.
-
 
 #### Artículo 576.
 
@@ -5045,29 +4404,23 @@ Los que, con el fin de allegar fondos a las bandas armadas, organizaciones o gru
 
 Cuando la información o vigilancia de personas mencionada en el párrafo anterior ponga en peligro la vida, la integridad física, la libertad o el patrimonio de las mismas, se impondrá la pena prevista en el apartado 1, en su mitad superior. Si llegara a ejecutarse el riesgo prevenido, se castigará el hecho como coautoría o complicidad, según los casos.
 
-
 #### Artículo 577.
 
 Los que, sin pertenecer a banda armada, organización o grupo terrorista, y con la finalidad de subvertir el orden constitucional o de alterar gravemente la paz pública, cometieren homicidios, lesiones de las tipificadas en los artículos 149 ó 150, detenciones ilegales, secuestros, amenazas o coacciones contra las personas, o llevaren a cabo cualesquiera delitos de incendios, estragos o tenencia, tráfico y depósitos de armas o municiones, serán castigados con la pena que corresponda al hecho cometido, en su mitad superior.
-
 
 #### Artículo 578.
 
 La provocación, la conspiración y la proposición para cometer los delitos previstos en los artículos 571 a 577, se castigarán con la pena inferior en uno o dos grados a la que corresponda, respectivamente, a los hechos previstos en los artículos anteriores.
 
-
 #### Artículo 579.
 
 En los delitos previstos en esta sección, los Jueces y Tribunales, razonándolo en sentencia, podrán imponer la pena inferior en uno o dos grados a la señalada por la Ley para el delito de que se trate, cuando el sujeto haya abandonado voluntariamente sus actividades delictivas y se presente a las autoridades confesando los hechos en que haya participado y además colabore activamente con éstas para impedir la producción del delito o coadyuve eficazmente a la obtención de pruebas decisivas para la identificación o captura de otros responsables o para impedir la actuación o el desarrollo de bandas armadas, organizaciones o grupos terroristas a los que haya pertenecido o con los que haya colaborado.
-
 
 #### Artículo 580.
 
 En todos los delitos relacionados con la actividad de las bandas armadas, organizaciones o grupos terroristas, la condena de un Juez o Tribunal extranjero será equiparada a las sentencias de los Jueces o Tribunales españoles a los efectos de aplicación de la agravante de reincidencia.
 
-
 **TITULO XXIII**
-
 
 **De los delitos de traición y contra la paz o la independencia del Estado y relativos a la Defensa Nacional**
 
@@ -5075,11 +4428,9 @@ CAPITULO I
 
 Delitos de traición
 
-
 #### Artículo 581.
 
 El español que indujere a una potencia extranjera a declarar la guerra a España o se concertare con ella para el mismo fin, será castigado con la pena de prisión de quince a veinte años.
-
 
 #### Artículo 582.
 
@@ -5090,7 +4441,6 @@ Será castigado con la pena de prisión de doce a veinte años:
 2.º El español que seduzca o allegue tropa española o que se halle al servicio de España, para que se pase a las filas enemigas o deserte de sus banderas estando en campaña.
 
 3.º El español que reclute gente o suministre armas u otros medios eficaces para hacer la guerra a España, bajo banderas enemigas.
-
 
 #### Artículo 583.
 
@@ -5106,26 +4456,21 @@ Se impondrá la pena superior en grado al que obre como jefe o promotor, o tenga
 
 4.º El español que, en tiempo de guerra, impida que las tropas nacionales reciban los auxilios expresados en el número 2.º o los datos y noticias indicados en el número 3.º de este artículo.
 
-
 #### Artículo 584.
 
 El español que, con el propósito de favorecer a una potencia extranjera, asociación u organización internacional, se procure, falsee, inutilice o revele información clasificada como reservada o secreta, susceptible de perjudicar la seguridad nacional o la defensa nacional, será castigado, como traidor, con la pena de prisión de seis a doce años.
-
 
 #### Artículo 585.
 
 La provocación, la conspiración y la proposición para cualquiera de los delitos previstos en los artículos anteriores de este capítulo, serán castigadas con la pena de prisión inferior en uno o dos grados a la del delito correspondiente.
 
-
 #### Artículo 586.
 
 El extranjero residente en España que cometiere alguno de los delitos comprendidos en este capítulo será castigado con la pena inferior en grado a la señalada para ellos, salvo lo establecido por Tratados o por el Derecho de gentes acerca de los funcionarios diplomáticos, consulares y de Organizaciones internacionales.
 
-
 #### Artículo 587.
 
 Las penas señaladas en los artículos anteriores de este capítulo son aplicables a los que cometieren los delitos comprendidos en los mismos contra una potencia aliada de España, en caso de hallarse en campaña contra el enemigo común.
-
 
 #### Artículo 588.
 
@@ -5135,11 +4480,9 @@ CAPITULO II
 
 Delitos que comprometen la paz o la independencia del Estado
 
-
 #### Artículo 589.
 
 El que publicare o ejecutare en España cualquier orden, disposición o documento de un Gobierno extranjero que atente contra la independencia o seguridad del Estado, se oponga a la observancia de sus Leyes o provoque su incumplimiento, será castigado con la pena de prisión de uno a tres años.
-
 
 #### Artículo 590.
 
@@ -5147,11 +4490,9 @@ El que publicare o ejecutare en España cualquier orden, disposición o document
 
 2. Si la guerra no llegara a declararse ni a tener efecto las vejaciones o represalias, se impondrá, respectivamente, la pena inmediata inferior.
 
-
 #### Artículo 591.
 
 Con las mismas penas señaladas en el artículo anterior será castigado, en sus respectivos casos, el que, durante una guerra en que no intervenga España, ejecutare cualquier acto que comprometa la neutralidad del Estado o infringiere las disposiciones publicadas por el Gobierno para mantenerla.
-
 
 #### Artículo 592.
 
@@ -5159,11 +4500,9 @@ Con las mismas penas señaladas en el artículo anterior será castigado, en sus
 
 2. Quien realizara los actos referidos en el apartado anterior con la intención de provocar una guerra o rebelión será castigado con arreglo a los artículos 581, 473 ó 475 de este Código según los casos.
 
-
 #### Artículo 593.
 
 Se impondrá la pena de prisión de ocho a quince años a quien violare tregua o armisticio acordado entre la Nación española y otra enemiga, o entre sus fuerzas beligerantes.
-
 
 #### Artículo 594.
 
@@ -5171,11 +4510,9 @@ Se impondrá la pena de prisión de ocho a quince años a quien violare tregua o
 
 2. En las mismas penas incurrirá el extranjero que en el territorio español realizare cualquiera de los hechos comprendidos en el apartado anterior.
 
-
 #### Artículo 595.
 
 El que, sin autorización legalmente concedida, levantare tropas en España para el servicio de una potencia extranjera, cualquiera que sea el objeto que se proponga o la Nación a la que intente hostilizar, será castigado con la pena de prisión de cuatro a ocho años.
-
 
 #### Artículo 596.
 
@@ -5184,7 +4521,6 @@ El que, sin autorización legalmente concedida, levantare tropas en España para
 2. En las mismas penas incurrirá el que ejecutare los delitos comprendidos en este artículo, aunque dirija la correspondencia por país amigo o neutral para eludir la Ley.
 
 3. Si el reo se propusiera servir al enemigo con sus avisos o noticias, se estimará comprendido en el número 3.º o el número 4.º del artículo 583.
-
 
 #### Artículo 597.
 
@@ -5196,11 +4532,9 @@ De los delitos relativos a la defensa nacional
 
 SECCIÓN 1.ª DEL DESCUBRIMIENTO Y REVELACIÓN DE SECRETOS E INFORMACIONES RELATIVAS A LA DEFENSA NACIONAL
 
-
 #### Artículo 598.
 
 El que, sin propósito de favorecer a una potencia extranjera, se procurare, revelare, falseare o inutilizare información legalmente calificada como reservada o secreta, relacionada con la seguridad nacional o la defensa nacional o relativa a los medios técnicos o sistemas empleados por las Fuerzas Armadas o las industrias de interés militar, será castigado con la pena de prisión de uno a cuatro años.
-
 
 #### Artículo 599.
 
@@ -5210,30 +4544,25 @@ La pena establecida en el artículo anterior se aplicará en su mitad superior c
 
 2.º Que la revelación consistiera en dar publicidad al secreto o información en algún medio de comunicación social o de forma que asegure su difusión.
 
-
 #### Artículo 600.
 
 1. El que sin autorización expresa reprodujere planos o documentación referentes a zonas, instalaciones o materiales militares que sean de acceso restringido y cuyo conocimiento esté protegido y reservado por una información legalmente calificada como reservada o secreta, será castigado con la pena de prisión de seis meses a tres años.
 
 2. Con la misma pena será castigado el que tenga en su poder objetos o información legalmente calificada como reservada o secreta, relativos a la seguridad o a la defensa nacional, sin cumplir las disposiciones establecidas en la legislación vigente.
 
-
 #### Artículo 601.
 
 El que, por razón de su cargo, comisión o servicio, tenga en su poder o conozca oficialmente objetos o información legalmente calificada como reservada o secreta o de interés militar, relativos a la seguridad nacional o la defensa nacional, y por imprudencia grave dé lugar a que sean conocidos por persona no autorizada o divulgados, publicados o inutilizados, será castigado con la pena de prisión de seis meses a un año.
 
-
 #### Artículo 602.
 
 El que descubriere, violare, revelare, sustrajere o utilizare información legalmente calificada como reservada o secreta relacionada con la energía nuclear, será castigado con la pena de prisión de seis meses a tres años, salvo que el hecho tenga señalada pena más grave en otra Ley.
-
 
 #### Artículo 603.
 
 El que destruyere, inutilizare, falseare o abriere sin autorización la correspondencia o documentación legalmente calificada como reservada o secreta, relacionadas con la defensa nacional y que tenga en su poder por razones de su cargo o destino, será castigado con la pena de prisión de dos a cinco años e inhabilitación especial de empleo o cargo público por tiempo de tres a seis años.
 
 SECCIÓN 2.ª DE LOS DELITOS CONTRA EL DEBER DE PRESTACIÓN DEL SERVICIO MILITAR
-
 
 #### Artículo 604.
 
@@ -5243,16 +4572,13 @@ La inhabilitación incluirá la incapacidad para desempeñar cualquier empleo o 
 
 Una vez cumplida la condena impuesta, el penado quedará exento del cumplimiento del Servicio Militar, excepto en el supuesto de movilización por causa de guerra.
 
-
 **TITULO XXIV**
-
 
 **Delitos contra la Comunidad Internacional**
 
 CAPITULO I
 
 Delitos contra el Derecho de gentes
-
 
 #### Artículo 605.
 
@@ -5264,7 +4590,6 @@ Si se tratara de alguna de las lesiones previstas en el artículo 150 se castiga
 
 3. Cualquier otro delito cometido contra las personas mencionadas en los números precedentes, o contra los locales oficiales, la residencia particular o los medios de transporte de dichas personas, será castigado con las penas establecidas en este Código para los respectivos delitos, en su mitad superior.
 
-
 #### Artículo 606.
 
 1. El que violare la inmunidad personal del Jefe de otro Estado o de otra persona internacionalmente protegida por un Tratado, será castigado con la pena de prisión de seis meses a tres años.
@@ -5274,7 +4599,6 @@ Si se tratara de alguna de las lesiones previstas en el artículo 150 se castiga
 CAPITULO II
 
 Delitos de genocidio
-
 
 #### Artículo 607.
 
@@ -5298,7 +4622,6 @@ CAPITULO III
 
 De los delitos contra las personas y bienes protegidos en caso de conflicto armado
 
-
 #### Artículo 608.
 
 A los efectos de este capítulo, se entenderá por personas protegidas:
@@ -5315,16 +4638,13 @@ A los efectos de este capítulo, se entenderá por personas protegidas:
 
 6.º Cualquier otra que tenga aquella condición en virtud del Protocolo II Adicional de 8 de junio de 1977 o de cualesquiera otros Tratados internacionales en los que España fuere parte.
 
-
 #### Artículo 609.
 
 El que, con ocasión de un conflicto armado, maltrate de obra o ponga en grave peligro la vida, la salud o la integridad de cualquier persona protegida, la haga objeto de tortura o tratos inhumanos, incluidos los experimentos biológicos, le cause grandes sufrimientos o la someta a cualquier acto médico que no esté indicado por su estado de salud ni de acuerdo con las normas médicas generalmente reconocidas que la Parte responsable de la actuación aplicaría, en análogas circunstancias médicas, a sus propios nacionales no privados de libertad, será castigado con la pena de prisión de cuatro a ocho años, sin perjuicio de la pena que pueda corresponder por los resultados lesivos producidos.
 
-
 #### Artículo 610.
 
 El que, con ocasión de un conflicto armado, emplee u ordene emplear métodos o medios de combate prohibidos o destinados a causar sufrimientos innecesarios o males superfluos, así como aquellos concebidos para causar o de los que fundadamente quepa prever que causen daños extensos, duraderos y graves al medio ambiente natural, comprometiendo la salud o la supervivencia de la población, será castigado con la pena de prisión de diez a quince años, sin perjuicio de la pena que corresponda por los resultados producidos.
-
 
 #### Artículo 611.
 
@@ -5344,7 +4664,6 @@ Será castigado con la pena de prisión de diez a quince años, sin perjuicio de
 
 7.º Impida o demore, injustificadamente, la liberación o la repatriación de prisioneros de guerra o de personas civiles.
 
-
 #### Artículo 612.
 
 Será castigado con la pena de prisión de tres a siete años, sin perjuicio de la pena que corresponda por los resultados producidos, el que, con ocasión de un conflicto armado:
@@ -5362,7 +4681,6 @@ Será castigado con la pena de prisión de tres a siete años, sin perjuicio de 
 6.º Utilice indebidamente o de modo pérfido bandera de parlamento o de rendición, atente contra la inviolabilidad o retenga indebidamente a parlamentario o a cualquiera de las personas que lo acompañen, a personal de la Potencia Protectora o su sustituto, o a miembro de la Comisión Internacional de Encuesta.
 
 7.º Despoje de sus efectos a un cadáver, herido, enfermo, náufrago, prisionero de guerra o persona civil internada.
-
 
 #### Artículo 613.
 
@@ -5382,7 +4700,6 @@ e) Destruya, dañe o se apodere, sin necesidad militar, de cosas que no le perte
 
 2. En el caso de que se trate de bienes culturales bajo protección especial, o en los supuestos de extrema gravedad, se podrá imponer la pena superior en grado.
 
-
 #### Artículo 614.
 
 El que, con ocasión de un conflicto armado, realizare u ordenare realizar cualesquiera otras infracciones o actos contrarios a las prescripciones de los Tratados internacionales en los que España fuere parte y relativos a la conducción de las hostilidades, protección de los heridos, enfermos y náufragos, trato a los prisioneros de guerra, protección de las personas civiles y protección de los bienes culturales en caso de conflicto armado, será castigado con la pena de prisión de seis meses a dos años.
@@ -5391,11 +4708,9 @@ CAPITULO IV
 
 Disposiciones comunes
 
-
 #### Artículo 615.
 
 La provocación, la conspiración y la proposición para la ejecución de los delitos previstos en este Título, se castigarán con la pena inferior en uno o dos grados a la que correspondería a los mismos.
-
 
 #### Artículo 616.
 
@@ -5405,12 +4720,9 @@ LIBRO III
 
 Faltas y sus penas
 
-
 **TITULO I**
 
-
 **Faltas contra las personas**
-
 
 #### Artículo 617.
 
@@ -5420,16 +4732,13 @@ Faltas y sus penas
 
 Cuando los ofendidos sean el cónyuge o persona a quien se halle ligado de forma estable por análoga relación de afectividad, o los hijos propios, o del cónyuge o conviviente, pupilos, o ascendientes, siempre que con él convivan, la pena será la de arresto de tres a seis fines de semana o multa de uno a dos meses.
 
-
 #### Artículo 618.
 
 Serán castigados con la pena de arresto de tres a seis fines de semana o multa de uno a dos meses los que, encontrando abandonado a un menor de edad o a un incapaz, no lo presenten a la autoridad o a su familia, o no le presten, en su caso, el auxilio que las circunstancias requieran.
 
-
 #### Artículo 619.
 
 Serán castigados con la pena de multa de diez a veinte días los que dejaren de prestar asistencia o, en su caso, el auxilio que las circunstancias requieran a una persona de edad avanzada o discapacitada que se encuentre desvalida y dependa de sus cuidados.
-
 
 #### Artículo 620.
 
@@ -5440,7 +4749,6 @@ Serán castigados con la pena de multa de diez a veinte días:
 2.º Los que causen a otro una amenaza, coacción, injuria o vejación injusta de carácter leve.
 
 Los hechos descritos en este artículo sólo serán perseguibles mediante denuncia de la persona agraviada o de su representante legal.
-
 
 #### Artículo 621.
 
@@ -5456,17 +4764,13 @@ Los hechos descritos en este artículo sólo serán perseguibles mediante denunc
 
 6. Las infracciones penadas en este artículo sólo serán perseguibles mediante denuncia de la persona agraviada o de su representante legal.
 
-
 #### Artículo 622.
 
 Los padres, tutores o guardadores de un menor que, sin llegar a incurrir, en su caso, en el delito de desobediencia, quebrantaren la resolución adoptada por el Juez o Tribunal, apoderándose del menor, sacándolo de la guarda establecida en la resolución judicial o por decisión de la entidad pública que tenga encomendada la tutela, retirándolo del establecimiento, familia, persona o institución tutelar a quien se le hubiese encomendado, o no restituyéndolo cuando estuvieren obligados, serán castigados con la pena de multa de uno a dos meses.
 
-
 **TITULO II**
 
-
 **Faltas contra el patrimonio**
-
 
 #### Artículo 623.
 
@@ -5482,11 +4786,9 @@ Si el hecho se ejecutase empleando fuerza en las cosas, se impondrá la pena en 
 
 4. Los que cometan estafa, apropiación indebida, o defraudación de electricidad, gas, agua u otro elemento, energía o fluido, o en equipos terminales de telecomunicación, en cuantía no superior a cincuenta mil pesetas.
 
-
 #### Artículo 624.
 
 El que ejecutare los actos comprendidos en el artículo 246, será castigado con multa de diez a treinta días si la utilidad no excede de cincuenta mil pesetas o no sea estimable, siempre que medie denuncia del perjudicado.
-
 
 #### Artículo 625.
 
@@ -5494,89 +4796,69 @@ El que ejecutare los actos comprendidos en el artículo 246, será castigado con
 
 2. Se impondrá la pena en su mitad superior si los daños se causaran en bienes de valor histórico, artístico, cultural o monumental.
 
-
 #### Artículo 626.
 
 Los que deslucieren bienes inmuebles de dominio público o privado, sin la debida autorización de la Administración o de sus propietarios, serán castigados con la pena de arresto de uno a tres fines de semana.
-
 
 #### Artículo 627.
 
 El que defraudare a la Hacienda de las Comunidades más de cuatro mil ecus por cualquiera de los procedimientos descritos en el artículo 305, será castigado con multa de cinco días a dos meses.
 
-
 #### Artículo 628.
 
 El que defraudare a los presupuestos generales de las Comunidades, u otros administrados por éstas, u obtuviere indebidamente fondos de las mismas, por alguno de los procedimientos descritos en los artículos 306 y 309, en cuantía superior a cuatro mil ecus, será castigado con la pena de multa de cinco días a dos meses.
 
-
 **TITULO III**
 
-
 **Faltas contra los intereses generales**
-
 
 #### Artículo 629.
 
 Serán castigados con la pena de arresto de uno a cuatro fines de semana o multa de quince a sesenta días, los que, habiendo recibido de buena fe moneda, billetes, sellos de correos o efectos timbrados falsos, los expendieren en cantidad que no exceda de cincuenta mil pesetas, a sabiendas de su falsedad.
 
-
 #### Artículo 630.
 
 Los que abandonaren jeringuillas, en todo caso, u otros instrumentos peligrosos, de modo o con circunstancias que pudieran causar daño a las personas o contagiar enfermedades, o en lugares frecuentados por menores, serán castigados con las penas de arresto de tres a cinco fines de semana o multa de uno a dos meses.
-
 
 #### Artículo 631.
 
 Los dueños o encargados de la custodia de animales feroces o dañinos que los dejaren sueltos o en condiciones de causar mal, serán castigados con la pena de multa de quince a treinta días.
 
-
 #### Artículo 632.
 
 Los que maltrataren cruelmente a los animales domésticos o a cualesquiera otros en espectáculos no autorizados legalmente, serán castigados con la pena de multa de diez a sesenta días.
 
-
 **TITULO IV**
 
-
 **Faltas contra el orden público**
-
 
 #### Artículo 633.
 
 Los que perturbaren levemente el orden en la audiencia de un Tribunal o Juzgado, en los actos públicos, en espectáculos deportivos o culturales, solemnidades o reuniones numerosas, serán castigados con las penas de arresto de uno a seis fines de semana y multa de diez a treinta días.
 
-
 #### Artículo 634.
 
 Los que faltaren al respeto y consideración debida a la autoridad o sus agentes, o los desobedecieren levemente, cuando ejerzan sus funciones, serán castigados con la pena de multa de diez a sesenta días.
-
 
 #### Artículo 635.
 
 Serán castigados con las penas de arresto de uno a cinco fines de semana y multa de uno a dos meses el que se mantuviere contra la voluntad de su titular, fuera de las horas de apertura, en el domicilio de una persona jurídica pública o privada, despacho profesional u oficina, o establecimiento mercantil o local abierto al público.
 
-
 #### Artículo 636.
 
 Los que realizaren actividades careciendo de los seguros obligatorios de responsabilidad civil que se exigieran legalmente para el ejercicio de aquéllas, serán castigados con la pena de multa de uno a dos meses.
-
 
 #### Artículo 637.
 
 El que usare pública e indebidamente uniforme, traje, insignia o condecoración oficiales, o se atribuyere públicamente la cualidad de profesional amparada por un título académico que no posea, será castigado con la pena de arresto de uno a cinco fines de semana o multa de diez a treinta días.
 
-
 **TITULO V**
 
-
 **Disposiciones comunes a las faltas**
-
 
 #### Artículo 638.
 
 En la aplicación de las penas de este Libro procederán los Jueces y Tribunales, según su prudente arbitrio, dentro de los límites de cada una, atendiendo a las circunstancias del caso y del culpable, sin ajustarse a las reglas de los artículos 61 a 72 de este Código.
-
 
 #### Artículo 639.
 
@@ -5586,11 +4868,9 @@ La ausencia de denuncia no impedirá la práctica de diligencias a prevención.
 
 En estas faltas, el perdón del ofendido o su representante legal extinguirá la acción penal o la pena impuesta, salvo lo dispuesto en el segundo párrafo del número 4.º del artículo 130.
 
-
 #### Disposición adicional primera.
 
 Cuando una persona sea declarada exenta de responsabilidad criminal por concurrir alguna de las causas previstas en los números 1.º y 3.º del artículo 20 de este Código, el Ministerio Fiscal instará, si fuera procedente, la declaración de incapacidad ante la Jurisdicción Civil, salvo que la misma hubiera sido ya anteriormente acordada y, en su caso, el internamiento conforme a las normas de la legislación civil.
-
 
 #### Disposición adicional segunda.
 
@@ -5598,16 +4878,13 @@ Cuando la autoridad gubernativa tenga conocimiento de la existencia de un menor 
 
 Asimismo, en los supuestos en que el Juez o Tribunal acuerde la inhabilitación especial para el ejercicio de la patria potestad, el acogimiento, la guarda, tutela o curatela, lo comunicará de inmediato a la entidad pública que en el respectivo territorio tenga encomendada la protección de los menores y al Ministerio Fiscal para que actúen de conformidad con sus respectivas competencias.
 
-
 #### Disposición adicional tercera.
 
 Cuando, mediando denuncia o reclamación del perjudicado, se incoe un procedimiento penal por hechos constitutivos de infracciones previstas y penadas en los artículos 267 y 621 del presente Código, podrán comparecer en las diligencias penales que se incoen y mostrarse parte todos aquellos otros implicados en los mismos hechos que se consideren perjudicados, cualquiera que sea la cuantía de los daños que reclamen.
 
-
 #### Disposición transitoria primera.
 
 Los delitos y faltas cometidos hasta el día de la entrada en vigor de este Código se juzgarán conforme al cuerpo legal y demás leyes penales especiales que se derogan. Una vez que entre en vigor el presente Código, si las disposiciones del mismo son más favorables para el reo, se aplicarán éstas.
-
 
 #### Disposición transitoria segunda.
 
@@ -5615,16 +4892,13 @@ Para la determinación de cuál sea la ley más favorable se tendrá en cuenta l
 
 En todo caso, será oído el reo.
 
-
 #### Disposición transitoria tercera.
 
 Los Directores de los establecimientos penitenciarios remitirán a la mayor urgencia, a partir de la publicación del nuevo Código Penal, a los Jueces o Tribunales que estén conociendo de la ejecutoria, relación de los penados internos en el Centro que dirijan, y liquidación provisional de la pena en ejecución, señalando los días que el reo haya redimido por el trabajo y los que pueda redimir, en su caso, en el futuro conforme al artículo 100 del Código Penal que se deroga y disposiciones complementarias.
 
-
 #### Disposición transitoria cuarta.
 
 Los Jueces o Tribunales mencionados en la disposición anterior procederán, una vez recibida la anterior liquidación de condena, a dar traslado al Ministerio Fiscal, para que informe sobre si procede revisar la sentencia y, en tal caso, los términos de la revisión. Una vez haya informado el Fiscal, procederán también a oir al reo, notificándole los términos de la revisión propuesta, así como a dar traslado al Letrado que asumió su defensa en el juicio oral, para que exponga lo que estime más favorable para el reo.
-
 
 #### Disposición transitoria quinta.
 
@@ -5636,23 +4910,19 @@ No se revisarán las sentencias en que el cumplimiento de la pena esté suspendi
 
 Tampoco se revisarán las sentencias en que, con arreglo al Código derogado y al nuevo, corresponda, exclusivamente, pena de multa.
 
-
 #### Disposición transitoria sexta.
 
 No serán revisadas las sentencias en que la pena esté ejecutada o suspendida, aunque se encuentren pendientes de ejecutar otros pronunciamientos del fallo, así como las ya totalmente ejecutadas, sin perjuicio de que el Juez o Tribunal que en el futuro pudiera tenerlas en cuenta a efectos de reincidencia deba examinar previamente si el hecho en ellas penado ha dejado de ser delito o pudiera corresponderle una pena menor de la impuesta conforme a este Código.
 
 En los supuestos de indulto parcial, no se revisarán las sentencias cuando la pena resultante que se halle cumpliendo el condenado se encuentre comprendida en un marco imponible inferior respecto al nuevo Código.
 
-
 #### Disposición transitoria séptima.
 
 A efectos de la apreciación de la agravante de reincidencia, se entenderán comprendidos en el mismo Título de este Código, aquellos delitos previstos en el Cuerpo legal que se deroga y que tengan análoga denominación y ataquen del mismo modo a idéntico bien jurídico.
 
-
 #### Disposición transitoria octava.
 
 En los casos en que la pena que pudiera corresponder por la aplicación de este Código fuera la de arresto de fin de semana, se considerará, para valorar su gravedad comparativa, que la duración de la privación de libertad equivale a dos días por cada fin de semana que correspondiera imponer. Si la pena fuera la de multa, se considerará que cada día de arresto sustitutorio que se haya impuesto o pudiese imponer el Juez o Tribunal conforme al Código que se deroga, equivale a dos cuotas diarias de la multa del presente Cuerpo legal.
-
 
 #### Disposición transitoria novena.
 
@@ -5664,13 +4934,11 @@ b) Si se trata de un recurso de casación, aún no formalizado, el recurrente po
 
 c) Si, interpuesto recurso de casación, estuviera sustanciándose, se pasará de nuevo al recurrente, de oficio o a instancia de parte, por el término de ocho días, para que adapte, si lo estima procedente, los motivos de casación alegados a los preceptos del nuevo Código, y del recurso así modificado se instruirán las partes interesadas, el Fiscal y el Magistrado ponente, continuando la tramitación conforme a Derecho.
 
-
 #### Disposición transitoria décima.
 
 Las medidas de seguridad que se hallen en ejecución o pendientes de ella, acordadas conforme a la Ley de Peligrosidad y Rehabilitación Social, o en aplicación de los números 1.º y 3.º del artículo 8 o del número 1.º del artículo 9 del Código Penal que se deroga, serán revisadas conforme a los preceptos del Título IV del Libro I de este Código y a las reglas anteriores.
 
 En aquellos casos en que la duración máxima de la medida prevista en este Código sea inferior al tiempo que efectivamente hayan cumplido los sometidos a la misma, el Juez o Tribunal dará por extinguido dicho cumplimiento y, en el caso de tratarse de una medida de internamiento, ordenará su inmediata puesta en libertad.
-
 
 #### Disposición transitoria undécima.
 
@@ -5702,11 +4970,9 @@ l) Cualquier otra pena de las suprimidas en este Código, por la pena o medida d
 
 2. En caso de duda, será oído el reo.
 
-
 #### Disposición transitoria duodécima.
 
 Hasta la aprobación de la ley que regule la responsabilidad penal del menor, en los procedimientos que se sustancien por razón de un delito o falta presuntamente cometido por un menor de dieciocho años, el Juez o Tribunal competente requerirá a los equipos técnicos que están al servicio de los Jueces de menores, la elaboración de un informe sobre la situación psicológica, educativa y familiar del menor, así como sobre su entorno social y, en general, sobre cualquier otra circunstancia que pueda haber influido en el hecho que se le imputa.
-
 
 #### Disposición derogatoria única.
 
@@ -5758,7 +5024,6 @@ El artículo 6 de la Ley 57/1968, de 27 de julio, sobre Percibo de Cantidades An
 
 2. Quedan también derogadas cuantas normas sean incompatibles con lo dispuesto en este Código.
 
-
 #### Disposición final primera.
 
 La Ley de Enjuiciamiento Criminal quedará modificada en los siguientes términos:
@@ -5770,7 +5035,6 @@ Tercero. Para el conocimiento y fallo de las causas por delitos menos graves, as
 «Artículo 779.
 
 Sin perjuicio de lo establecido para los demás procesos especiales, el procedimiento regulado en este Título se aplicará al enjuiciamiento de los delitos castigados con pena privativa de libertad no superior a nueve años, o bien con cualesquiera otras penas de distinta naturaleza, bien sean únicas, conjuntas o alternativas, cualquiera que sea su cuantía o duración.»
-
 
 #### Disposición final segunda.
 
@@ -5802,7 +5066,6 @@ k) De las negociaciones prohibidas a funcionarios (artículos 439 y 440).
 
 l) De la infidelidad en la custodia de presos (artículo 471).»
 
-
 #### Disposición final tercera.
 
 1. El capítulo VI de la Ley 35/1988, de 22 de noviembre, sobre Técnicas de Reproducción Asistida, quedará modificado en los siguientes términos:
@@ -5812,7 +5075,6 @@ l) De la infidelidad en la custodia de presos (artículo 471).»
 2.º El texto de la letra r) de dicho apartado 2.B) se sustituirá por el siguiente: «la transferencia de gametos o preembriones humanos en el útero de otra especie animal o la operación inversa, así como las fecundaciones entre gametos humanos y animales que no estén autorizadas».
 
 2. El artículo 21 del capítulo VII de la Ley 35/1988, sobre Técnicas de Reproducción Asistida, pasará a ser artículo 24.
-
 
 #### Disposición final cuarta.
 
@@ -5826,22 +5088,17 @@ La Ley Orgánica 1/1982, de 5 de mayo, de Protección del Derecho al Honor, a la
 
 7. La imputación de hechos o la manifestación de juicios de valor a través de acciones o expresiones que de cualquier modo lesionen la dignidad de otra persona, menoscabando su fama o atentando contra su propia estimación.»
 
-
 #### Disposición final quinta.
 
 La disposición adicional segunda de la Ley Orgánica 6/1995, de 29 de junio, quedará modificada en los siguientes términos:
 
 «La exención de responsabilidad penal contemplada en los párrafos segundos de los artículos 306, apartado 4; 308, apartado 3, y 309, apartado 4, resultará igualmente aplicable aunque las deudas objeto de regularización sean inferiores a las cuantías establecidas en los citados artículos.»
 
-
 #### Disposición final sexta.
 
 El Título V del Libro I de este Código, los artículos 193, 212, 233.3 y 272, así como las disposiciones adicionales primera y segunda, la disposición transitoria duodécima y las disposiciones finales primera y tercera tienen carácter de Ley ordinaria.
 
-
 #### Disposición final séptima.
-
-El presente Código entrará en vigor a los seis meses de su completa publicación en el «Boletín Oficial del Estado» y se aplicará a todos los hechos punibles que se cometan a partir de su vigencia.
 
 No obstante lo anterior, queda exceptuada la entrada en vigor de su artículo 19 hasta tanto adquiera vigencia la ley que regule la responsabilidad penal del menor a que se refiere dicho precepto.
 

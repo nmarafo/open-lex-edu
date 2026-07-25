@@ -30,9 +30,6 @@ fuente_pdf_oficial: https://sede.gobiernodecanarias.org/boc/boc-a-2026-139-2475.
 
 # Resolución de 25 de junio de 2026, por la que se dictan instrucciones para la organización y el funcionamiento de los cursos de acceso directo a ciclos formativos CAD2 y CAD3 (cursos de formación preparatorios para acceder a ciclos formativos de grado medio y superior) en Canarias.
 
-https://sede.gobiernodecanarias.org/boc
-boc-a-2026-139-2475
-Boletín Oficial de Canarias núm. 139 Lunes 13 de julio de 202626064
 III. Otras Resoluciones
 Consejería de Educación, Formación Profesional, Actividad Física y Deportes
 2475 Dirección General de Ordenación de las Enseñanzas, Inclusión e Innovación.- 
@@ -75,9 +72,6 @@ apartado 41.3.b) incluye como posible vía de acceso “haber superado un curso 
 específico preparatorio para el acceso a ciclos de grado superior en centros públicos o 
 privados autorizados por la Administración educativa”.
 
-https://sede.gobiernodecanarias.org/boc
-boc-a-2026-139-2475
-Boletín Oficial de Canarias núm. 139 Lunes 13 de julio de 202626065
 En el Preámbulo de esta Ley se establece que “es importante resaltar que todos los 
 alumnos o alumnas que finalizan la educación secundaria obligatoria, además de poder 
 incorporarse al mundo laboral, deben tener opciones de formación posterior. Por esta razón, 
@@ -123,9 +117,6 @@ formales de formación y aprendizajes informales, establece en su Anexo I un mar
 referencia para la evaluación y acreditación de las competencias básicas de las personas 
 adultas.
 
-https://sede.gobiernodecanarias.org/boc
-boc-a-2026-139-2475
-Boletín Oficial de Canarias núm. 139 Lunes 13 de julio de 202626066
 Asimismo, en el artículo 22 determina los niveles del marco de referencia en que se 
 basarán los currículos de los cursos de formación preparatorios para acceder al grado D 
 (ciclos formativos de grado medio y superior) y faculta a las Administraciones educativas 
@@ -169,9 +160,6 @@ cualesquiera otros que se estime procedente interponer.
 Las Palmas de Gran Canaria, a 25 de junio de 2026.- El Director General de Ordenación 
 de las Enseñanzas, Inclusión e Innovación, David Pablos González.
 
-https://sede.gobiernodecanarias.org/boc
-boc-a-2026-139-2475
-Boletín Oficial de Canarias núm. 139 Lunes 13 de julio de 202626067
 ANEXOS
 ANEXO I. Curso de acceso directo a ciclos formativos de grado medio (CAD2).
 1. Características.
@@ -210,9 +198,6 @@ ANEXO II. Curso de acceso directo a ciclos formativos de grado superior (CAD3).
 1.4. Incompatibilidades.
 1.5. Asistencia del alumnado e incorporación al curso.
 
-https://sede.gobiernodecanarias.org/boc
-boc-a-2026-139-2475
-Boletín Oficial de Canarias núm. 139 Lunes 13 de julio de 202626068
 2. Organización.
 2.1. Estructura.
 2.2. Modalidades y distribución horaria.
@@ -246,9 +231,6 @@ acceso directo a ciclos formativos de grado superior.
 APÉNDICE V . Certificado de calificaciones: Curso de acceso directo a ciclos formativos 
 de grado medio.
 
-https://sede.gobiernodecanarias.org/boc
-boc-a-2026-139-2475
-Boletín Oficial de Canarias núm. 139 Lunes 13 de julio de 202626069
 APÉNDICE VI. Certificado de calificaciones: Curso de acceso directo a ciclos formativos 
 de grado superior.
 APÉNDICE VII. Acta de evaluación: Curso de acceso directo a ciclos formativos de 
@@ -264,9 +246,6 @@ de grado medio.
 APÉNDICE XII. Solicitud de exención en el Curso de acceso directo a ciclos formativos 
 de grado superior.
 
-https://sede.gobiernodecanarias.org/boc
-boc-a-2026-139-2475
-Boletín Oficial de Canarias núm. 139 Lunes 13 de julio de 202626070
 ANEXO I
 CURSO DE ACCESO DIRECTO A CICLOS FORMATIVOS DE GRADO MEDIO (CAD2)
 El “Curso de acceso directo a ciclos formativos de grado medio” (CAD2) regulado en la 
@@ -304,9 +283,6 @@ curso deberá aportar en su matrícula un informe individualizado de propuesta d
 el visto bueno de la Inspección de Educación (Apéndice IX) y el consentimiento de los 
 padres, madres o personas que ejerzan la tutoría legal (Apéndice X).
 
-https://sede.gobiernodecanarias.org/boc
-boc-a-2026-139-2475
-Boletín Oficial de Canarias núm. 139 Lunes 13 de julio de 202626071
 1.4. Incompatibilidades.
 Este curso no puede ser simultaneado con ninguno de los siguientes estudios:
 • Estudios conducentes a la obtención del título de Graduado en Educación Secundaria 
@@ -374,9 +350,6 @@ puede ser comprobada la autenticidad de esta copia, mediante el número de
 documento electrónico siguiente:
  RP001-000BNC517WyzWEB+AcQjNn7Rw==
 
-https://sede.gobiernodecanarias.org/boc
-boc-a-2026-139-2475
-Boletín Oficial de Canarias núm. 139 Lunes 13 de julio de 202626072
 2.2. Modalidades y distribución horaria.
 El curso se puede desarrollar en las modalidades presencial y semipresencial.
 La distribución horaria de las competencias será la siguiente:
@@ -443,9 +416,6 @@ por vías no formales de formación y aprendizajes informales. Según el artícu
 que da acceso directo a ciclos formativos de grado medio tendrá como referente el nivel 3 de 
 competencias básicas del marco de referencia descrito en el Anexo I de la citada norma.
 
-https://sede.gobiernodecanarias.org/boc
-boc-a-2026-139-2475
-Boletín Oficial de Canarias núm. 139 Lunes 13 de julio de 202626073
 3.2. Programación.
 Las programaciones didácticas se adecuarán al nivel de competencia curricular, a las 
 características del alumnado y a la carga horaria asignada.
@@ -480,9 +450,6 @@ En el caso de haber realizado anteriormente el curso de acceso directo a ciclos
 formativos de grado medio y haber superado alguna o algunas de las competencias básicas, 
 será obligatorio presentar la solicitud de exención.
 
-https://sede.gobiernodecanarias.org/boc
-boc-a-2026-139-2475
-Boletín Oficial de Canarias núm. 139 Lunes 13 de julio de 202626074
 3.3.2. Sesiones de evaluación.
 Se realizarán tres sesiones de evaluación:
 a) Evaluación sin notas, al inicio del curso.
@@ -519,9 +486,6 @@ en las tres competencias se obtenga una calificación igual o superior a cinco (
 docente podrá adoptar de manera colegiada la decisión de superación atendiendo a la 
 suficiente madurez de la persona y su capacidad de progreso académico.
 
-https://sede.gobiernodecanarias.org/boc
-boc-a-2026-139-2475
-Boletín Oficial de Canarias núm. 139 Lunes 13 de julio de 202626075
 La superación parcial o total de este curso supondrá la exención parcial o total de la 
 prueba de acceso a ciclos formativos de grado medio en las condiciones que determine la 
 dirección general responsable de la convocatoria de la prueba.
@@ -557,9 +521,6 @@ a) Guía didáctica de cada competencia, donde figuren:
 a.1) Orientaciones generales para el estudio.
 a.2) Secuenciación de los contenidos.
 
-https://sede.gobiernodecanarias.org/boc
-boc-a-2026-139-2475
-Boletín Oficial de Canarias núm. 139 Lunes 13 de julio de 202626076
 a.3) Evaluación:
 a.3.1) Criterios de evaluación y de calificación.
 a.3.2) Instrumentos de evaluación.
@@ -619,9 +580,6 @@ documento electrónico siguiente:
 7. Ratio.
 La ratio mínima será de 20 y la máxima de 30 alumnos o alumnas.
 
-https://sede.gobiernodecanarias.org/boc
-boc-a-2026-139-2475
-Boletín Oficial de Canarias núm. 139 Lunes 13 de julio de 202626077
 8. Admisión.
 El proceso de admisión y su calendario serán establecidos anualmente junto al resto de 
 enseñanzas ofertadas por la consejería competente en materia de educación.
@@ -639,9 +597,6 @@ vacante, en los términos establecidos en el apartado 1.5 de estas instrucciones
 Si un alumno o alumna se incorpora al curso desde la lista de reserva, se articularán las 
 medidas necesarias para la superación de los contenidos impartidos.
 
-https://sede.gobiernodecanarias.org/boc
-boc-a-2026-139-2475
-Boletín Oficial de Canarias núm. 139 Lunes 13 de julio de 202626078
 ANEXO II
 CURSO DE ACCESO DIRECTO A CICLOS FORMATIVOS DE GRADO SUPERIOR (CAD3)
 El “Curso de acceso directo a ciclos formativos de grado superior” (CAD3) regulado en la 
@@ -680,9 +635,6 @@ una declaración jurada o de responsabilidad de no simultanear estudios (Apéndi
 No obstante, el alumnado matriculado en el curso de acceso directo podrá optar, si así lo desea, 
 por presentarse a la convocatoria de la prueba de acceso a ciclos formativos de grado superior.
 
-https://sede.gobiernodecanarias.org/boc
-boc-a-2026-139-2475
-Boletín Oficial de Canarias núm. 139 Lunes 13 de julio de 202626079
 1.5. Asistencia del alumnado e incorporación al curso.
 a) La asistencia a todas las sesiones de la modalidad presencial y a las horas lectivas 
 grupales (HLG) de la modalidad a distancia es de carácter obligatorio.
@@ -763,9 +715,6 @@ puede ser comprobada la autenticidad de esta copia, mediante el número de
 documento electrónico siguiente:
  RP001-000BNC517WyzWEB+AcQjNn7Rw==
 
-https://sede.gobiernodecanarias.org/boc
-boc-a-2026-139-2475
-Boletín Oficial de Canarias núm. 139 Lunes 13 de julio de 202626080
 2.2. Modalidades y distribución horaria.
 El curso se puede desarrollar en las modalidades presencial y a distancia.
 La distribución horaria en cada una de las partes será la siguiente:
@@ -858,9 +807,6 @@ Toda la carga horaria de la modalidad a distancia se impartirá de forma síncro
 través del entorno virtual habilitado al efecto, el cual cumplirá con lo establecido en el 
 punto 5 de estas instrucciones.
 
-https://sede.gobiernodecanarias.org/boc
-boc-a-2026-139-2475
-Boletín Oficial de Canarias núm. 139 Lunes 13 de julio de 202626081
 Las sesiones de clase se distribuirán en horas lectivas grupales ( HLG) y horas lectivas 
 de apoyo ( HLA). En las horas lectivas grupales, de carácter obligatorio y síncrono, el 
 profesorado desarrollará la programación didáctica y avanzará sobre los aprendizajes 
@@ -899,9 +845,6 @@ Las programaciones deberán incluir, como mínimo, los siguientes apartados:
 • Dominio competencial.
 • Criterios de evaluación.
 
-https://sede.gobiernodecanarias.org/boc
-boc-a-2026-139-2475
-Boletín Oficial de Canarias núm. 139 Lunes 13 de julio de 202626082
 • Saberes básicos.
 • Metodología.
 • Materiales y recursos didácticos.
@@ -934,9 +877,6 @@ Esta evaluación será informativa. En ella se tomarán decisiones consensuadas 
 aspectos como la metodología, necesidades de adaptación de las programaciones, respuesta 
 coordinada para nuevas incorporaciones u otros aspectos que el equipo docente determine.
 
-https://sede.gobiernodecanarias.org/boc
-boc-a-2026-139-2475
-Boletín Oficial de Canarias núm. 139 Lunes 13 de julio de 202626083
 b) Primera evaluación, durante el mes de enero o en la primera quincena de febrero.
 Permitirá, en el caso de no superación de alguna competencia, establecer cauces de 
 recuperación para la evaluación final.
@@ -975,9 +915,6 @@ c) Que la media aritmética de las calificaciones obtenidas en todas las compete
 curso sea igual o superior a cinco (5). En este caso, a efectos del cálculo de la calificación 
 final del curso, se considerará la nota numérica obtenida en la competencia no superada.
 
-https://sede.gobiernodecanarias.org/boc
-boc-a-2026-139-2475
-Boletín Oficial de Canarias núm. 139 Lunes 13 de julio de 202626084
 La superación parcial o total de este curso supondrá la exención parcial o total de la 
 prueba de acceso a ciclos formativos de grado superior en las condiciones que determine la 
 dirección general responsable de la convocatoria de la prueba.
@@ -1011,9 +948,6 @@ En la modalidad a distancia, además, el tutor o tutora establecerá un aula vir
 el propósito de facilitar y mejorar la comunicación con el alumnado. En esta aula virtual 
 deberá aparecer, al menos, una herramienta de videoconferencia para la sesión tutorial.
 
-https://sede.gobiernodecanarias.org/boc
-boc-a-2026-139-2475
-Boletín Oficial de Canarias núm. 139 Lunes 13 de julio de 202626085
 5. Aula virtual.
 El aula virtual debe incluir, como mínimo, los siguientes elementos:
 a) Guía didáctica de cada competencia, donde figuren:
@@ -1047,9 +981,6 @@ alguno de los siguientes Cuerpos:
 En las modalidades presencial y a distancia la ratio mínima será de 30 y la máxima de 
 50 alumnos o alumnas.
 
-https://sede.gobiernodecanarias.org/boc
-boc-a-2026-139-2475
-Boletín Oficial de Canarias núm. 139 Lunes 13 de julio de 202626086
 8. Admisión.
 Cuando el número de solicitudes presentadas dentro de plazo supere el número de 
 vacantes ofertadas, se constituirá una lista de reserva para la adjudicación de plazas, 
@@ -1065,9 +996,6 @@ vacante, en los términos establecidos en el apartado 1.5 de estas instrucciones
 Si un alumno o alumna se incorpora al curso desde la lista de reserva, se articularán las 
 medidas necesarias para la superación de los contenidos impartidos.
 
-boc-a-2026-139-2475
-Boletín Oficial de Canarias núm. 139 Lunes 13 de julio de 202626087
-https://sede.gobiernodecanarias.org/boc
 APÉNDICE I
 Exenciones: Curso de acceso directo a ciclos formativos de grado medio (CAD2)
 EXENCIÓN DE LA COMPETENCIA BÁSICA COMUNICATIV A EN LENGUA CASTELLANA
@@ -1111,9 +1039,6 @@ APÉNDICE I
 EXENCIONES: CURSO DE ACCESO DIRECTO A CICLOS FORMATIVOS 
 DE GRADO MEDIO (CAD2)
 
-boc-a-2026-139-2475
-Boletín Oficial de Canarias núm. 139 Lunes 13 de julio de 202626088
-https://sede.gobiernodecanarias.org/boc
 EXENCIÓN DE LA COMPETENCIA BÁSICA MATEMÁTICA
 Enseñanza Materias superadas Calificación
 4.º de ESO
@@ -1152,9 +1077,6 @@ formativos  de  grado  medio  (RD  1147/2011  o  RD
 Acreditación  del  nivel  3  de  la  competencia  básica  matemática  del  marco  de  referencia  para  la 
 evaluación y acreditación de competencias básicas de las personas adultas (RD 86/2025)
 
-boc-a-2026-139-2475
-Boletín Oficial de Canarias núm. 139 Lunes 13 de julio de 202626089
-https://sede.gobiernodecanarias.org/boc
 EXENCIÓN DE LA COMPETENCIA BÁSICA DIGITAL
 Enseñanza Materias superadas Calificación
 4.º  de  ESO  /  2.º  curso  del  PDC  (Programa  de
@@ -1176,9 +1098,6 @@ IV
 Acreditación del nivel 3 de la competencia básica digital del marco de referencia para la evaluación y  
 acreditación de competencias básicas de las personas adultas (RD 86/2025)
 
-boc-a-2026-139-2475
-Boletín Oficial de Canarias núm. 139 Lunes 13 de julio de 202626090
-https://sede.gobiernodecanarias.org/boc
 APÉNDICE II
 Exenciones: Curso de acceso directo a ciclos formativos de grado superior (CAD3)
 EXENCIÓN DE LA COMPETENCIA BÁSICA COMUNICATIV A EN LENGUA CASTELLANA
@@ -1223,9 +1142,6 @@ APÉNDICE II
 EXENCIONES: CURSO DE ACCESO DIRECTO A CICLOS FORMATIVOS 
 DE GRADO SUPERIOR (CAD3)
 
-boc-a-2026-139-2475
-Boletín Oficial de Canarias núm. 139 Lunes 13 de julio de 202626091
-https://sede.gobiernodecanarias.org/boc
 EXENCIÓN DE LA COMPETENCIA BÁSICA DIGITAL
 Enseñanza Materias superadas Calificación
 2.º de Bachillerato
@@ -1254,9 +1170,6 @@ Curso  de  formación  preparatorio  para  acceder  a  ciclos
 formativos de grado superior (acceso directo - RD 659/2023) Competencia clave Ex 
 (calificación)
 
-boc-a-2026-139-2475
-Boletín Oficial de Canarias núm. 139 Lunes 13 de julio de 202626092
-https://sede.gobiernodecanarias.org/boc
 APÉNDICE III
 Declaración jurada o de responsabilidad para la admisión en el Curso de acceso directo a ciclos 
 formativos de grado medio (CAD3)
@@ -1278,9 +1191,6 @@ DECLARACIÓN JURADA O DE RESPONSABILIDAD PARA LA ADMISIÓN
 EN EL CURSO DE ACCESO DIRECTO A CICLOS FORMATIVOS 
 DE GRADO MEDIO (CAD3)
 
-boc-a-2026-139-2475
-Boletín Oficial de Canarias núm. 139 Lunes 13 de julio de 202626093
-https://sede.gobiernodecanarias.org/boc
 APÉNDICE IV
 Declaración jurada o de responsabilidad para la admisión en el Curso de acceso directo a ciclos 
 formativos de grado superior (CAD3)
@@ -1302,9 +1212,6 @@ DECLARACIÓN JURADA O DE RESPONSABILIDAD PARA LA ADMISIÓN
 EN EL CURSO DE ACCESO DIRECTO A CICLOS FORMATIVOS 
 DE GRADO SUPERIOR (CAD3)
 
-boc-a-2026-139-2475
-Boletín Oficial de Canarias núm. 139 Lunes 13 de julio de 202626094
-https://sede.gobiernodecanarias.org/boc
 APÉNDICE V
 CERTIFICADO DE CALIFICACIONES
 Curso de  acceso directo a ciclos formativos de grado medio (CAD2)
@@ -1335,9 +1242,6 @@ El director / la directora El secretario / la secretaria
 Fdo.: Fdo.: 
 APÉNDICE V
 
-boc-a-2026-139-2475
-Boletín Oficial de Canarias núm. 139 Lunes 13 de julio de 202626095
-https://sede.gobiernodecanarias.org/boc
 APÉNDICE VI
 CERTIFICADO DE CALIFICACIONES
 Curso de acceso directo a ciclos formativos de grado superior (CAD3)
@@ -1375,9 +1279,6 @@ El director / la directora El secretario / la secretaria
 (sello del centro)
 Fdo.: Fdo.: 
 
-boc-a-2026-139-2475
-Boletín Oficial de Canarias núm. 139 Lunes 13 de julio de 202626096
-https://sede.gobiernodecanarias.org/boc
 APÉNDICE VII
 ACTA DE EV ALUACIÓN
 ENSEÑANZA Curso de acceso directo a ciclos formativos de grado medio (CAD2) CURSO ACADÉMICO
@@ -1417,9 +1318,6 @@ FINAL2
 APÉNDICE VII
 ACTA DE EV ALUACIÓN
 
-boc-a-2026-139-2475
-Boletín Oficial de Canarias núm. 139 Lunes 13 de julio de 202626097
-https://sede.gobiernodecanarias.org/boc
 Esta acta consta de ___ páginas, siendo la presente la página n.º ___
 COMPETENCIAS APELLIDOS Y NOMBRE (DOCENTE) FIRMA
 En …............................................................…….. , a ….. de ……………………………………………………… de …… .
@@ -1432,9 +1330,6 @@ OBSERVACIONES:
 2. La calificación final del curso será la media aritmética de las calificaciones de todas las competencias, que se hará constar con una nota numérica entre 1 y 10, con dos decimales, redondeada a  la centésima más próxima y, en caso de
 equidistancia, a la superior.
 
-boc-a-2026-139-2475
-Boletín Oficial de Canarias núm. 139 Lunes 13 de julio de 202626098
-https://sede.gobiernodecanarias.org/boc
  APÉNDICE VIII
 ACTA DE EV ALUACIÓN
 ENSEÑANZA Curso de acceso directo a ciclos formativos de grado superior (CAD3) CURSO ACADÉMICO
@@ -1475,9 +1370,6 @@ Esta acta consta de ___ páginas, siendo la presente la página n.º ___
 APÉNDICE VIII
 ACTA DE EV ALUACIÓN
 
-boc-a-2026-139-2475
-Boletín Oficial de Canarias núm. 139 Lunes 13 de julio de 202626099
-https://sede.gobiernodecanarias.org/boc
 COMPETENCIAS APELLIDOS Y NOMBRE (DOCENTE) FIRMA
 En …............................................................…….. , a ….. de ……………………………………………………… de …… .
 V .º  B.º
@@ -1490,9 +1382,6 @@ competencia.
 2. La calificación final del curso será la media aritmética de las calificaciones de todas las competencias, que se hará constar con una nota numérica entre 1 y 10, con dos decimales, redondeada a la centésima más próxima y, en
 caso de equidistancia, a la superior.
 
-boc-a-2026-139-2475
-Boletín Oficial de Canarias núm. 139 Lunes 13 de julio de 202626100
-https://sede.gobiernodecanarias.org/boc
 APÉNDICE IX
 CONSEJO ORIENTADOR PARA ALUMNADO PROPUESTO PARA REALIZAR EL CURSO DE 
 ACCESO DIRECTO A CICLOS FORMATIVOS DE GRADO MEDIO (CAD2)
@@ -1533,9 +1422,6 @@ CONSEJO ORIENTADOR PARA ALUMNADO PROPUESTO PARA REALIZAR
 EL CURSO DE ACCESO DIRECTO A CICLOS FORMATIVOS 
 DE GRADO MEDIO (CAD2)
 
-boc-a-2026-139-2475
-Boletín Oficial de Canarias núm. 139 Lunes 13 de julio de 202626101
-https://sede.gobiernodecanarias.org/boc
 Emprendedora
 Conciencia y expresión culturales
 5. PROPUESTA DEL EQUIPO DOCENTE
@@ -1557,9 +1443,6 @@ Tutor/a del grupo
 Orientador/a
 (nombre, firma y fecha)
 
-boc-a-2026-139-2475
-Boletín Oficial de Canarias núm. 139 Lunes 13 de julio de 202626102
-https://sede.gobiernodecanarias.org/boc
 APÉNDICE X
 CONSENTIMIENTO DE LOS PADRES, MADRES O TUTORES/AS LEGALES
 (matrícula en el Curso de acceso directo a ciclos formativos de grado medio)
@@ -1600,9 +1483,6 @@ APÉNDICE X
 CONSENTIMIENTO DE LOS PADRES, MADRES O TUTORES/AS LEGALES
 (matrícula en el Curso de acceso directo a ciclos formativos de grado medio)
 
-boc-a-2026-139-2475
-Boletín Oficial de Canarias núm. 139 Lunes 13 de julio de 202626103
-https://sede.gobiernodecanarias.org/boc
 APÉNDICE XI
 Solicitud de exención en el Curso de acceso directo a ciclos formativos de grado medio (CAD2)
 Nombre:  Apellidos:
@@ -1622,9 +1502,6 @@ APÉNDICE XI
 SOLICITUD DE EXENCIÓN EN EL CURSO DE ACCESO DIRECTO 
 A CICLOS FORMATIVOS DE GRADO MEDIO (CAD2)
 
-boc-a-2026-139-2475
-Boletín Oficial de Canarias núm. 139 Lunes 13 de julio de 202626104
-https://sede.gobiernodecanarias.org/boc
 APÉNDICE XII
 Solicitud de exención en el Curso de acceso directo a ciclos formativos de grado superior (CAD3)
 Nombre:                                                           Apellidos:        

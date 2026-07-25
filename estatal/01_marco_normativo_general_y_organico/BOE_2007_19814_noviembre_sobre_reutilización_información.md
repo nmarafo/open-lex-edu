@@ -35,16 +35,13 @@ fundamentos_derecho:
 
 # Ley 37/2007, de 16 de noviembre, sobre reutilización de la información del sector público.
 
-
 **JUAN CARLOS I**
-
 
 **REY DE ESPAÑA**
 
 A todos los que la presente vieren y entendieren.
 
 Sabed: Que las Cortes Generales han aprobado y Yo vengo en sancionar la siguiente ley.
-
 
 ## PREÁMBULO
 
@@ -78,19 +75,15 @@ La presente Ley tiene carácter de legislación básica al amparo de lo dispuest
 
 En la elaboración de la ley se ha recabado el informe de la Agencia Española de Protección de Datos.
 
-
 ## TÍTULO I
 
-
 **Disposiciones generales**
-
 
 #### Artículo 1. Objeto.
 
 La presente ley tiene por objeto la regulación básica del régimen jurídico aplicable a la reutilización de los documentos elaborados o custodiados por las Administraciones y organismos del sector público.
 
 La aplicación de esta ley se hará sin perjuicio del régimen aplicable al derecho de acceso a los documentos y a las especialidades previstas en su normativa reguladora.
-
 
 #### Artículo 2. Ámbito subjetivo de aplicación.
 
@@ -113,7 +106,6 @@ e) Los Consorcios dotados de personalidad jurídica propia a los que se refieren
 f) Las fundaciones del sector público previstas en la legislación en materia de fundaciones.
 
 g) Las asociaciones constituidas por las Administraciones, organismos y entidades mencionados en las letras anteriores.
-
 
 #### Artículo 3. Ámbito objetivo de aplicación.
 
@@ -143,12 +135,9 @@ h) los documentos conservados por instituciones culturales tales como museos, bi
 
 4. Lo previsto en esta ley no restringirá las previsiones más favorables que sobre acceso o reutilización se establezcan en las leyes sectoriales.
 
-
 ## TÍTULO II
 
-
 **Régimen jurídico de la reutilización**
-
 
 #### Artículo 4. Régimen administrativo de la reutilización.
 
@@ -176,7 +165,6 @@ c) No deberán ser discriminatorias para categorías comparables de reutilizaci�
 
 6. La reutilización de documentos que contengan datos de carácter personal se regirá por lo dispuesto en la Ley Orgánica 15/1999, de 13 de diciembre, de protección de datos de carácter personal.
 
-
 #### Artículo 5. Formatos disponibles para la reutilización.
 
 1. Las Administraciones y organismos del sector público promoverán que la puesta a disposición de los documentos para su reutilización así como la tramitación de solicitudes de reutilización se realice por medios electrónicos y mediante plataforma multicanal cuando ello sea compatible con los medios técnicos de que disponen.
@@ -189,13 +177,11 @@ Asimismo, las Administraciones y organismos del sector público adoptarán, en l
 
 No regirá esta obligación en los supuestos en los que dicha adecuación no constituya un ajuste razonable, entendiéndose por tal lo dispuesto en el artículo 7 de la ley 51/2003.
 
-
 #### Artículo 6. Prohibición de derechos exclusivos.
 
 1. La reutilización de documentos estará abierta a todos los agentes potenciales del mercado, incluso en caso de que uno o más de los agentes exploten ya productos con valor añadido basados en estos documentos. Los contratos o acuerdos de otro tipo entre los organismos del sector público que conserven los documentos y los terceros no otorgarán derechos exclusivos.
 
 2. No será admisible el otorgamiento de derechos exclusivos de los organismos del sector público a favor de terceros salvo que tales derechos exclusivos sean necesarios para la prestación de un servicio de interés público. En tal caso, la Administración o el organismo del sector público correspondiente quedará obligado a la realización de una revisión periódica, y en todo caso, cada tres años, de la permanencia del motivo que justificó la concesión del mencionado derecho exclusivo. Estos acuerdos exclusivos deberán ser transparentes y públicos.
-
 
 #### Artículo 7. Contraprestaciones económicas.
 
@@ -209,7 +195,6 @@ No regirá esta obligación en los supuestos en los que dicha adecuación no con
 
 5. Las Administraciones y organismos del sector público pondrán a disposición del público el listado de las tasas y precios públicos que sean de aplicación a las solicitudes de reutilización, y los supuestos en los que no proceda pago alguno, mediante medios electrónicos siempre que sea compatible con sus capacidades técnicas. Asimismo, el organismo correspondiente indicará, previa solicitud, la base de cálculo utilizada para determinar las tasas o precios públicos y los factores tenidos en cuenta en el cálculo de las tasas o precios públicos para casos atípicos.
 
-
 #### Artículo 8. Condiciones de reutilización.
 
 La reutilización de la información de las Administraciones y de los organismos del sector público a los que se refiere el artículo 2 de la presente ley podrá estar sometida, entre otras, a las siguientes condiciones generales:
@@ -222,17 +207,13 @@ c) Que se cite la fuente.
 
 d) Que se mencione la fecha de la última actualización.
 
-
 #### Artículo 9. Licencias.
 
 En los casos en los que se otorgue una licencia, ésta deberá reflejar, al menos, la información relativa a la finalidad concreta, comercial o no comercial, para la que se concede la reutilización, la duración de la licencia, las obligaciones del beneficiario y del organismo concedente, las responsabilidades de uso y modalidades financieras, indicándose el carácter gratuito o, en su caso, la tasa o precio público aplicable.
 
-
 ## TÍTULO III
 
-
 **Procedimiento y régimen sancionador**
-
 
 #### Artículo 10. Procedimiento de tramitación de solicitudes de reutilización.
 
@@ -259,7 +240,6 @@ El cómputo del plazo para resolver la solicitud de información se entenderá s
 7. En todo caso, las resoluciones adoptadas deberán contener una referencia a las vías de recurso a que pueda acogerse en su caso el solicitante, en los términos previstos en el artículo 58.2 de la Ley 30/1992, de 26 de noviembre, de Régimen Jurídico de las Administraciones Públicas y del Procedimiento Administrativo Común.
 
 8. Si en el plazo máximo previsto para resolver y notificar no se hubiese dictado resolución expresa, el solicitante podrá entender desestimada su solicitud.
-
 
 #### Artículo 11. Régimen sancionador.
 
@@ -305,11 +285,9 @@ Por la comisión de infracciones muy graves y graves recogidas, además de las s
 
 7. El régimen sancionador previsto en esta ley se entiende sin perjuicio de la responsabilidad civil o penal en que pudiera incurrirse, que se hará efectiva de acuerdo con las correspondientes normas legales.
 
-
 #### Disposición adicional primera. Planes y programas.
 
 El Gobierno, a propuesta de los Ministerios competentes, desarrollará planes y programas de actuaciones dirigidos a facilitar la reutilización de la información del sector público en aras de promover el crecimiento del sector de contenidos digitales, pudiendo establecer con el resto de las Administraciones públicas los mecanismos de colaboración que se estimen pertinentes para la consecución de dicho objetivo.
-
 
 #### Disposición adicional segunda. Aplicación a otros organismos.
 
@@ -317,25 +295,19 @@ El Gobierno, a propuesta de los Ministerios competentes, desarrollará planes y 
 
 2. Las previsiones contenidas en la presente ley serán de aplicación a las sentencias y resoluciones judiciales, sin perjuicio de lo previsto en el artículo 107.10 de la Ley Orgánica 6/1985, de 1 de julio, del Poder Judicial y su desarrollo específico.
 
-
 #### Disposición transitoria única. Régimen transitorio aplicable a los acuerdos exclusivos.
 
 Los acuerdos exclusivos existentes a los que no se aplique la excepción contemplada en el artículo 6 concluirán cuando expire el contrato y, en cualquier caso, no más tarde del 31 de diciembre de 2008.
-
 
 #### Disposición final primera. Fundamento constitucional.
 
 La presente ley tiene carácter de legislación básica al amparo de lo dispuesto en el artículo 149.1.18.ª de la Constitución. Se exceptúa el artículo 11 y los apartados 1 (párrafos segundo y tercero), 3 y 8 del artículo 10.
 
-
 #### Disposición final segunda. Desarrollo reglamentario.
 
 El Gobierno, en el ámbito de sus competencias, dictará cuantas disposiciones sean necesarias para la ejecución y desarrollo de lo establecido en esta ley.
 
-
 #### Disposición final tercera. Entrada en vigor.
-
-Esta Ley entrará en vigor a los dos meses de su publicación en el «Boletín Oficial del Estado».
 
 Por tanto,
 

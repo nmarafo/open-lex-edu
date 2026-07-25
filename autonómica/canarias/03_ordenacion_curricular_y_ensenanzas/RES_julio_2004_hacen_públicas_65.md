@@ -37,7 +37,6 @@ Boletín Oficial de Canarias
 Accesibilidad
 Mapa web
 Contacto
-Versión texto
 Inicio
 Archivo
 Búsqueda
@@ -46,11 +45,8 @@ Inicio
 Archivo
 Año 2004
 2004/189. Miércoles 29 de Septiembre de 2004
-1380
-<p>Menú de búsqueda y navegación</p>
 Anterior
 Siguiente
-BOC Nº 189. Miércoles 29 de Septiembre de 2004 - 1380
 III. OTRAS RESOLUCIONES - Consejería de Educación, Cultura y Deportes
 1380 - Dirección General de Formación Profesional y Educación de Adultos.- Resolución de 27 de julio de 2004, por la que se hacen públicas las instrucciones generales dictadas sobre la organización y funcionamiento de los Centros Superiores de Enseñanzas Artísticas en la Comunidad Autónoma de Canarias para el curso académico 2004-05.
 Descargar en formato pdf
@@ -185,13 +181,10 @@ El Vicedirector es el órgano responsable de la dirección del CSMC, bajo la sup
 2.b.3. Los Jefes de Estudios.
 Los Jefes de Estudios son los respo
 
-
-
 ## ANEXOS COMPLEMENTARIOS (Descargados desde PDF del BOC)
 
 ### Anexo Fuente: https://www.gobiernodecanarias.org/boc/2004/189/boc-2004-189-anexo-17058-17059.pdf
 
-17058 Boletín Oficial de Canarias núm. 189, miércoles 29 de septiembre de 2004
 A N E X O
 
 B. RÉGIMEN DE ENSEÑANZAS
@@ -254,6 +247,3 @@ correspondiente asignatura. En los demás casos, la
 convocatoria tendrá lugar en febrero o junio, según
 el período lectivo establecido para la asignatura, y la
 segunda en junio o septiembre, respectivamente.
-Boletín Oficial de Canarias núm. 189, miércoles 29 de septiembre de 2004 17059
-
-

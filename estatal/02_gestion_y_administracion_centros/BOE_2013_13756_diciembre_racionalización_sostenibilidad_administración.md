@@ -29,16 +29,13 @@ fundamentos_derecho:
 
 # Ley 27/2013, de 27 de diciembre, de racionalización y sostenibilidad de la Administración Local.
 
-
 **JUAN CARLOS I**
-
 
 **REY DE ESPAÑA**
 
 A todos los que la presente vieren y entendieren.
 
 Sabed: Que las Cortes Generales han aprobado y Yo vengo en sancionar la siguiente ley:
-
 
 ## PREÁMBULO
 
@@ -99,7 +96,6 @@ Y del mismo modo, la presente Ley quiere contribuir a dar un nuevo impulso a los
 Por otra parte, la Ley incluye una serie de disposiciones adicionales y de disposiciones transitorias, destacando aquellas que se refieren a la asunción por las Comunidades Autónomas de las competencias relativas a la salud y a servicios sociales, que quedan referenciadas al que será el nuevo sistema de financiación autonómica y de las Haciendas Locales.
 
 La Ley se cierra con una disposición derogatoria única y seis disposiciones finales que aluden, entre otros elementos, a los títulos competenciales en virtud de los que se aprueba esta Ley y a su inmediata entrada en vigor.
-
 
 #### Artículo primero. Modificación de la Ley 7/1985, de 2 de abril, reguladora de las Bases del Régimen Local.
 
@@ -909,7 +905,6 @@ d) La entrada de la Corporación Local en los mecanismos extraordinarios de fina
 
 2. La Junta de Gobierno Local dará cuenta al Pleno en la primera sesión que se celebre con posterioridad a la adopción de los acuerdos mencionados en el apartado anterior, los cuales serán objeto de publicación de conformidad con las normas generales que les resulten de aplicación.»
 
-
 #### Artículo segundo. Modificación del Texto Refundido de la Ley reguladora de las Haciendas locales, aprobado por Real Decreto Legislativo 2/2004, de 5 de marzo.
 
 El Texto Refundido de la Ley reguladora de las Haciendas Locales, aprobado mediante Real Decreto Legislativo 2/2004, de 5 de marzo, queda modificado como sigue:
@@ -970,13 +965,11 @@ Cinco. Se añade una nueva disposición adicional decimoquinta con el siguiente 
 
 Cuando la Diputación o entidad equivalente acredite en un informe que el acuerdo de dos o más municipios para la gestión integrada de todos los servicios municipales que sean coincidentes conlleva un ahorro de al menos el 10% respecto el coste efectivo total en el que incurría cada municipio por separado, el coeficiente de ponderación que resulte de aplicación a cada municipio de acuerdo con el artículo 124.1 del texto refundido de la Ley Reguladora de las Haciendas Locales, se incrementará en 0,04. De la aplicación de esta regla no se podrá derivar, para cada ejercicio, un importe total superior al que resulte de lo dispuesto en el artículo 123 del texto refundido de la Ley Reguladora de las Haciendas Locales.»
 
-
 #### Disposición adicional primera. Régimen aplicable a la Comunidad Autónoma del País Vasco.
 
 1. Esta Ley se aplicará a la Comunidad Autónoma del País Vasco en los términos establecidos en el artículo 149.1.14.ª y 18.ª y disposición adicional primera de la Constitución, sin perjuicio de las particularidades que resultan de la Ley Orgánica 3/1979, de 18 de diciembre, por la que se aprueba el Estatuto de Autonomía para el País Vasco, de la disposición final tercera de la Ley Orgánica 2/2012, de 27 de abril, de Estabilidad Presupuestaria y Sostenibilidad Financiera, y de las demás normas que actualicen los derechos históricos de los territorios forales. En su aplicación, y sin perjuicio de las facultades de coordinación y tutela que les corresponden, la competencia para decidir sobre la forma de prestación de servicios a la que se refiere el artículo 26.2 de la Ley de Bases de Régimen Local corresponderá a las Diputaciones Forales previa conformidad de los municipios afectados.
 
 2. La metodología para valorar el coste de los servicios transferidos en las materias enunciadas en la Disposición adicional decimoquinta y en las Disposiciones transitorias primera, segunda y tercera se llevará a cabo por las Instituciones competentes de la Comunidad Autónoma del País Vasco, atendiendo las directrices y principios que establezca el Ministerio de Hacienda y Administraciones Públicas.
-
 
 #### Disposición adicional segunda. Régimen aplicable a la Comunidad Foral de Navarra.
 
@@ -992,7 +985,6 @@ Cuando la Diputación o entidad equivalente acredite en un informe que el acuerd
 
 6. En el marco de los objetivos de estabilidad presupuestaria y en virtud de las competencias reconocidas a Navarra, a las que se hace referencia en el punto primero de esta disposición, la Comunidad Foral de Navarra determinará los límites máximos totales del conjunto de las retribuciones y asistencias de los miembros de las Corporaciones Locales, del personal eventual y del resto del personal al servicio de las mismas y su sector público. La determinación de tales retribuciones atenderá a los principios y estructura establecidos, en su caso, por la legislación estatal.
 
-
 #### Disposición adicional tercera. Competencias autonómicas en materia de régimen local.
 
 1. Las disposiciones de esta Ley son de aplicación a todas las Comunidades Autónomas, sin perjuicio de sus competencias exclusivas en materia de régimen local asumidas en sus Estatutos de Autonomía, en el marco de la normativa básica estatal y con estricta sujeción a los principios de estabilidad presupuestaria, sostenibilidad financiera y racionalización de las estructuras administrativas.
@@ -1000,7 +992,6 @@ Cuando la Diputación o entidad equivalente acredite en un informe que el acuerd
 2. En el caso de las Comunidades Autónomas con un sistema institucional propio, las referencias de esta Ley a las Diputaciones provinciales se entenderán efectuadas a los entes locales supramunicipales previstos en los correspondientes Estatutos de Autonomía a los que se atribuyen competencias en materia de asistencia y cooperación a los municipios y prestación de servicios públicos locales.
 
 3. La aplicación de esta Ley en la Comunidad Autónoma de Aragón se realizará teniendo en cuenta el régimen especial de organización institucional previsto en su Estatuto de Autonomía en materia de régimen local, en virtud del cual, la Comunidad Autónoma aplicará las competencias previstas en esta Ley en los distintos niveles de la administración con sujeción a la Constitución, al contenido básico de esta Ley y a los principios de estabilidad presupuestaria, sostenibilidad financiera y racionalización de las estructuras administrativas.
-
 
 #### Disposición adicional cuarta. Especialidades de las Ciudades de Ceuta y Melilla.
 
@@ -1016,16 +1007,13 @@ Respecto a las competencias de régimen local atribuidas a las Ciudades por el a
 
 5. Las normas de eficacia general dictadas por las Asambleas de Ceuta y Melilla, en el ejercicio de la potestad normativa reglamentaria que disponen para el desarrollo de las competencias previstas en el apartado 1 del artículo 21 de las Leyes Orgánicas 1/1995 y 2/1995, de 13 marzo, de Estatutos de Autonomía, conforme a lo establecido en el apartado 2 del mismo precepto, se llevará a cabo en los términos establecidos en la legislación general del Estado, sin que sea necesaria una norma estatal específica previa.
 
-
 #### Disposición adicional quinta. Regímenes especiales de Madrid y Barcelona.
 
 Las disposiciones de esta Ley son de aplicación a los municipios de Madrid y Barcelona, sin perjuicio de las particularidades de su legislación específica y con estricta sujeción a los principios de estabilidad presupuestaria y sostenibilidad financiera.
 
-
 #### Disposición adicional sexta. Comarcas.
 
 Las previsiones de esta Ley se aplicarán respetando la organización comarcal en aquellas Comunidades Autónomas cuyos estatutos de autonomía tenga atribuida expresamente la gestión de servicios supramunicipales.
-
 
 #### Disposición adicional séptima. Colaboración con las Intervenciones locales.
 
@@ -1035,11 +1023,9 @@ Las previsiones de esta Ley se aplicarán respetando la organización comarcal e
 
 3. Suscrito el convenio mencionado en el apartado primero, la Intervención General podrá encomendar la realización de dichas actuaciones de apoyo técnico a la Intervención Delegada, Regional o Territorial que en cada caso se determine.
 
-
 #### Disposición adicional octava. Cumplimiento de obligaciones tributarias respecto de bienes inmuebles de la Seguridad Social transferidos a otras Administraciones Públicas.
 
 En el supuesto de incumplimiento de lo dispuesto en el artículo 81.1.d) del texto refundido de la Ley General de la Seguridad Social, aprobado por el Real Decreto Legislativo 1/1994, de 20 de junio, relativo a la obligación de asumir por subrogación el pago de las obligaciones tributarias que afecten a los bienes inmuebles del patrimonio de la Seguridad Social que figuren adscritos o transferidos a otras Administraciones Públicas o a entidades de derecho público con personalidad jurídica propia vinculadas o dependientes de las mismas por parte de éstas, la Tesorería General de la Seguridad Social comunicará al Ministerio de Hacienda y Administraciones Publicas dicho incumplimiento en cuanto tenga conocimiento del mismo, a los efectos de que se proceda a la retención de los recursos al sujeto obligado para hacer frente a dichos pagos en los términos en que se establezca legalmente.
-
 
 #### Disposición adicional novena. Convenios sobre ejercicio de competencias y servicios municipales.
 
@@ -1047,16 +1033,13 @@ En el supuesto de incumplimiento de lo dispuesto en el artículo 81.1.d) del tex
 
 2. La adaptación a las previsiones de esta Ley de los instrumentos de cooperación suscritos por las Entidades Locales para el funcionamiento de Centros Asociados de la Universidad Nacional de Educación a Distancia deberá realizarse en el plazo de tres años desde su entrada en vigor. Durante el plazo de adaptación de los instrumentos de cooperación, la financiación de las Administraciones locales a los centros asociados no se extenderá a los servicios académicos que se presten a los alumnos matriculados con posterioridad a la entrada en vigor de esta Ley.
 
-
 #### Disposición adicional décima. Convenios de colaboración entre el Estado y las Entidades Locales.
 
 Los convenios de colaboración que el Estado celebre con las Entidades Locales para la obtención y mantenimiento de la información que debe suministrarles para la aplicación de los tributos locales se regularán por lo dispuesto en su normativa específica. Dichos convenios, que podrán celebrarse en régimen de encomienda de gestión, de delegación de competencias o mixto, no comportarán la transferencia de medios materiales ni personales, ni contraprestación económica de ningún tipo entre las partes por cuanto permiten mejorar la recaudación tributaria de las Entidades Locales que los suscriben.
 
-
 #### Disposición adicional undécima. Compensación de deudas entre Administraciones por asunción de servicios y competencias.
 
 Realizada la asunción de los servicios y competencias a la que se refieren las disposiciones transitorias primera y segunda, en sus respectivos apartados segundos, las Comunidades Autónomas, con referencia a cada Municipio de su ámbito territorial, la comunicarán al Ministerio de Hacienda y Administraciones Públicas, junto con el importe de las obligaciones que tuvieren reconocidas pendientes de pago a los citados Municipios, al objeto de la realización, en los términos que se determinen reglamentariamente, de compensaciones entre los derechos y las obligaciones recíprocos, y el posterior ingreso del saldo resultante a favor de la Administración Pública a la que corresponda, y, en su caso, recuperación mediante la aplicación de retenciones en el sistema de financiación de la Administración Pública que resulte deudora.
-
 
 #### Disposición adicional duodécima. Información en materia de tutela financiera.
 
@@ -1064,21 +1047,17 @@ Las Comunidades Autónomas con competencias en materia de tutela financiera publ
 
 Dicho informe y éstas resoluciones serán igualmente comunicadas al Ministerio de Hacienda y Administraciones Públicas.
 
-
 #### Disposición adicional decimotercera. Consorcios constituidos para la prestación de servicios mínimos.
 
 El personal al servicio de los consorcios constituidos, antes de la entrada en vigor de esta Ley, que presten servicios mínimos a los que se refiere el artículo 26 de la Ley 7/1985, de 2 de abril, reguladora de las bases de Régimen Local, podrá integrarse por quienes no sean personal funcionario o laboral procedente de una reasignación de puestos de trabajo de las Administraciones participantes en el consorcio.
-
 
 #### Disposición adicional decimocuarta. Régimen jurídico especial de determinados consorcios.
 
 Lo previsto en la disposición adicional vigésima de la Ley 30/1992, de 26 de noviembre, de Régimen Jurídico de las Administraciones Públicas y del Procedimiento Administrativo Común, no resultará de aplicación a los consorcios, constituidos antes de la entrada en vigor de esta Ley, que: no tengan la consideración de Administración Pública a efectos del Sistema Europeo de Cuentas, estén participados por Entidades Locales y entidades privadas, no estén incursos en pérdidas durante dos ejercicios consecutivos y no reciban ni hayan recibido subvenciones de las Administraciones Públicas en los cinco ejercicios anteriores al de entrada en vigor de esta Ley con independencia de las aportaciones a las que estén obligados los entes consorciados. Estos consorcios, en tanto se mantengan todas las condiciones mencionadas, se regirán por lo previsto en sus respectivos Estatutos.
 
-
 #### Disposición adicional decimoquinta. Asunción por las Comunidades Autónomas de las competencias relativas a la educación.
 
 Las normas reguladoras del sistema de financiación de las Comunidades Autónomas y de las haciendas locales fijarán los términos en los que las Comunidades Autónomas asumirán la titularidad de las competencias que se prevén como propias del Municipio, aún cuando hayan sido ejercidas por éstas, por Diputaciones Provinciales o entidades equivalentes, o por cualquier otra Entidad Local, relativas a participar en la vigilancia del cumplimiento de la escolaridad obligatoria y cooperar con las Administraciones educativas correspondientes en la obtención de los solares necesarios para la construcción de nuevos centros docentes, así como la conservación, mantenimiento y vigilancia de los edificios de titularidad local destinados a centros públicos de educación infantil, de educación primaria o de educación especial, para lo que se contemplará el correspondiente traspaso de medios económicos, materiales y personales.
-
 
 #### Disposición adicional decimosexta. Cabildos y Consejos Insulares.
 
@@ -1086,11 +1065,9 @@ Las normas reguladoras del sistema de financiación de las Comunidades Autónoma
 
 2. La aplicación de esta Ley a los Consejos Insulares de las Illes Balears se realizará en los términos previstos en su legislación específica y con estricta sujeción a los principios de estabilidad presupuestaria y sostenibilidad financiera.
 
-
 #### Disposición adicional decimoséptima. Apertura de lugares de culto.
 
 Para la apertura de lugares de culto las iglesias, confesiones o comunidades religiosas deberán acreditar su personalidad jurídica civil mediante certificado del Registro de Entidades Religiosas, emitido al efecto, en el que constará la ubicación del lugar de culto que se pretenda constituir. Obtenida esa certificación, su tramitación se ajustará a lo dispuesto en el artículo 84.1.c) de la Ley 7/1985, de 2 de abril, reguladora de las Bases del Régimen Local, sin perjuicio de recabar la licencia urbanística que corresponda.
-
 
 #### Disposición transitoria primera. Asunción por las Comunidades Autónomas de las competencias relativas a la salud.
 
@@ -1108,7 +1085,6 @@ A estos efectos la Comunidad Autónoma, elaborará un plan para la evaluación y
 
 5. En los términos previstos en el apartado 1, y de acuerdo con las normas reguladoras del sistema de financiación de las Comunidades Autónomas y de las Haciendas Locales, cada año que transcurra, dentro del período de cinco años anteriormente mencionado, sin que las Comunidades Autónomas hayan asumido el desarrollo del veinte por cien de los servicios previsto en esta disposición o, en su caso, hayan acordado su delegación, los servicios seguirán prestándose por el municipio, Diputación Provincial o entidad equivalente con cargo a la Comunidad Autónoma. Si la Comunidad Autónoma no transfiriera las cuantías precisas para ello se aplicarán retenciones en las transferencias que les correspondan por aplicación de su sistema de financiación, teniendo en cuenta lo que disponga su normativa reguladora.
 
-
 #### Disposición transitoria segunda. Asunción por las Comunidades Autónomas de las competencias relativas a servicios sociales.
 
 1. Con fecha 31 de diciembre de 2015, en los términos previstos en las normas reguladoras del sistema de financiación autonómica y de las Haciendas Locales, las Comunidades Autónomas asumirán la titularidad de las competencias que se preveían como propias del Municipio, relativas a la prestación de los servicios sociales y de promoción y reinserción social.
@@ -1123,11 +1099,9 @@ Las Comunidades Autónomas asumirán la titularidad de estas competencias, con i
 
 5. Si en la fecha citada en el apartado 1 de esta disposición, en los términos previstos en las normas reguladoras del sistema de financiación de las Comunidades Autónomas y de las Haciendas Locales, las Comunidades Autónomas no hubieren asumido el desarrollo de los servicios de su competencia prestados por los Municipios, Diputaciones Provinciales o entidades equivalentes, Entidades Locales, o en su caso, no hubieren acordado su delegación, los servicios seguirán prestándose por el municipio con cargo a la Comunidad Autónoma. Si la Comunidad Autónoma no transfiriera las cuantías precisas para ello se aplicarán retenciones en las transferencias que les correspondan por aplicación de su sistema de financiación, teniendo en cuenta lo que disponga su normativa reguladora.
 
-
 #### Disposición transitoria tercera. Servicios de inspección sanitaria.
 
 En el plazo de seis meses desde la entrada en vigor de esta Ley, las Comunidades Autónomas prestarán los servicios relativos a la inspección y control sanitario de mataderos, de industrias alimentarias y bebidas que hasta ese momento vinieran prestando los municipios.
-
 
 #### Disposición transitoria cuarta. Disolución de entidades de ámbito territorial inferior al Municipio.
 
@@ -1143,18 +1117,15 @@ a) Que el personal que estuviera al servicio de la entidad disuelta quedará inc
 
 b) Que el Ayuntamiento del que dependa la entidad de ámbito territorial inferior al municipio queda subrogado en todos sus derechos y obligaciones.
 
-
 #### Disposición transitoria quinta. Entidades de ámbito territorial inferior al Municipio en constitución.
 
 El núcleo de población que antes del 1 de enero de 2013 hubiera iniciado el procedimiento para su constitución como entidad de ámbito territorial inferior al Municipio, una vez que se constituya, lo hará con personalidad jurídica propia y con la condición de Entidad Local y se regirá por lo dispuesto en la legislación autonómica correspondiente.
-
 
 #### Disposición transitoria sexta. Régimen transitorio para los consorcios.
 
 Los consorcios que ya estuvieran creados en el momento de la entrada en vigor de esta Ley deberán adaptar sus estatutos a lo en ella previsto en el plazo de un año desde la entrada en vigor de esta Ley.
 
 Si esta adaptación diera lugar a un cambio en el régimen jurídico aplicable al personal a su servicio o en su régimen presupuestario, contable o de control, este nuevo régimen será de aplicación a partir del 1 de enero del año siguiente.
-
 
 #### Disposición transitoria séptima. Régimen transitorio de los funcionarios de Administración Local con habilitación de carácter estatal.
 
@@ -1164,16 +1135,13 @@ Los procedimientos administrativos referidos a funcionarios de Administración L
 
 Las referencias a la Escala de funcionarios con habilitación de carácter estatal, se entenderán hechas a la Escala de funcionarios de Administración Local con habilitación de carácter nacional.
 
-
 #### Disposición transitoria octava. Régimen transitorio para el personal directivo de las Diputaciones, Cabildos y Consejos Insulares.
 
 El régimen previsto en el artículo 32 bis de la Ley 7/1985, de 2 de abril, reguladora de las Bases del Régimen Local será de aplicación a los nombramientos que se produzcan con posterioridad a la entrada en vigor de esta Ley.
 
-
 #### Disposición transitoria novena. Régimen transitorio para los Directores Generales de las Entidades Locales.
 
 Lo previsto en el apartado tercero del artículo 130 de la Ley 7/1985, de 2 de abril, Reguladora de las Bases del Régimen Local será de aplicación a los nombramientos que se produzcan con posterioridad a la entrada en vigor de esta Ley.
-
 
 #### Disposición transitoria décima. Aplicación de las limitaciones referidas al número de personal eventual y cargos públicos con dedicación exclusiva.
 
@@ -1184,7 +1152,6 @@ Lo previsto en el apartado tercero del artículo 130 de la Ley 7/1985, de 2 de a
 3. La excepción prevista en esta disposición podrá aplicarse a las Entidades Locales que cumplan con los requisitos mencionados en el apartado primero en el momento de la entrada en vigor de esta Ley y se mantendrá su aplicación hasta el 30 de junio de 2015 en tanto sigan cumpliendo los requisitos mencionados.
 
 4. En ningún caso, las Entidades Locales en las que concurran los requisitos a los que se refiere esta disposición, podrán incrementar el número total de puestos de trabajo de personal eventual o cargos públicos con dedicación exclusiva respecto al que disponían a 31 de diciembre de 2012.
-
 
 #### Disposición transitoria undécima. Mancomunidades de municipios.
 
@@ -1198,11 +1165,9 @@ a) Que el personal que estuviera al servicio de la mancomunidad disuelta quedar�
 
 b) Las Entidades Locales que formaran parte de la mancomunidad disuelta quedan subrogadas en todos sus derechos y obligaciones.
 
-
 #### Disposición derogatoria. Derogación normativa.
 
 A la entrada en vigor de esta Ley quedan derogadas cuantas disposiciones de igual o inferior rango se opongan a o contradigan lo en ella establecido. En particular, quedan derogadas la disposición adicional segunda y la disposición transitoria séptima de la Ley 7/2007, de 12 de abril, del Estatuto Básico del Empleado Público.
-
 
 #### Disposición final primera. Modificación del Real Decreto Legislativo 781/1986, de 18 de abril, por el que se aprueba el texto refundido de las Disposiciones Legales vigentes en materia de Régimen Local.
 
@@ -1213,7 +1178,6 @@ Se modifica el apartado segundo del artículo 97 del texto refundido de las Disp
 Recaído acuerdo de la Corporación, se elevará el expediente completo al órgano competente de la Comunidad Autónoma. El Consejo de Gobierno de ésta deberá resolver sobre su aprobación en el plazo de tres meses.
 
 Si se solicitase dictamen del Consejo de Estado o del órgano consultivo superior del Consejo de Gobierno de la Comunidad Autónoma, donde existiese, no se computará el tiempo invertido en evacuar la consulta.»
-
 
 #### Disposición final segunda. Modificación de la Ley 30/1992, de 26 de noviembre, de Régimen Jurídico de las Administraciones Públicas y del Procedimiento Administrativo Común.
 
@@ -1247,7 +1211,6 @@ h) Tenga mayor número de habitantes o extensión territorial dependiendo de si 
 
 5. El personal al servicio de los consorcios podrá ser funcionario o laboral procedente exclusivamente de una reasignación de puestos de trabajo de las Administraciones participantes, su régimen jurídico será el de la Administración pública de adscripción y sus retribuciones en ningún caso podrán superar las establecidas para puestos de trabajo equivalentes en aquélla.»
 
-
 #### Disposición final tercera. Modificación de la Ley 2/2011, de 4 de marzo, de Economía Sostenible.
 
 Se modifica el apartado 1 del artículo 36 de la Ley 2/2011, de 4 de marzo, de Economía Sostenible, en los siguientes términos:
@@ -1257,7 +1220,6 @@ Se modifica el apartado 1 del artículo 36 de la Ley 2/2011, de 4 de marzo, de E
 Asimismo, en el supuesto de que las Entidades Locales incumplan la obligación de remitir al Tribunal de Cuentas la información a la que se refiere el artículo 212.5 del texto refundido de la Ley Reguladora de las Haciendas Locales, aprobado por el Real Decreto Legislativo 2/2004, de 5 de marzo, se podrá retener el importe de las entregas a cuenta y, en su caso, anticipos y liquidaciones definitivas de la participación en los tributos del Estado que les corresponda, y hasta que se considere cumplida tal obligación de remisión. Para que la anterior retención, o suspensión de la misma, se pueda practicar será necesaria una comunicación del Tribunal de Cuentas a la Secretaría General de Coordinación Autonómica y Local.
 
 A estos efectos, será objeto de retención la cuantía resultante, una vez practicados, en su caso, los reintegros y las devoluciones de los anticipos regulados en las Leyes de Presupuestos Generales del Estado, así como las retenciones a las que se refiere la disposición adicional cuarta del mencionado texto refundido.»
-
 
 #### Disposición final cuarta. Modificación del Real Decreto Legislativo 2/2008, de 20 de junio, por el que se aprueba el Texto Refundido de la Ley de Suelo.
 
@@ -1279,15 +1241,11 @@ El importe del que se disponga deberá ser repuesto por la Corporación Local, e
 
 Asimismo, los presupuestos de los ejercicios siguientes al de adopción del Acuerdo deberán recoger, con cargo a los ingresos corrientes, las anualidades citadas en el párrafo anterior.»
 
-
 #### Disposición final quinta. Título competencial.
 
 Esta Ley se dicta al amparo de los títulos competenciales recogidos en los apartados 14 y 18 del artículo 149.1 de la Constitución.
 
-
 #### Disposición final sexta. Entrada en vigor.
-
-La presente Ley entrará en vigor el día siguiente al de su publicación en el «Boletín Oficial del Estado».
 
 Por tanto,
 

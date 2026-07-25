@@ -31,9 +31,6 @@ fuente_pdf_oficial: https://sede.gobiernodecanarias.org/boc/boc-a-2026-046-749.p
 
 # Resolución de 25 de febrero de 2026, por la que se establece la distribución horaria y estructura modular de los Grados C (Certificados Profesionales) y sus correspondientes Grados B (Certificados de Competencia), de niveles 2 y 3, de las familias profesionales de Imagen Personal; Imagen y Sonido; Instalación y Mantenimiento; y Química, en el ámbito de la Comunidad Autónoma de Canarias.
 
-https://sede.gobiernodecanarias.org/boc
-boc-a-2026-046-749
-Boletín Oficial de Canarias núm. 46 Lunes 9 de marzo de 20268511
 III. Otras Resoluciones
 Consejería de Educación, Formación Profesional, Actividad Física y Deportes
 749 Viceconsejería de Formación Profesional y Cualificaciones Profesionales.- Resolución 
@@ -76,9 +73,6 @@ D de los que tuvieran desarrollo autonómico, estableciendo la misma duración h
 cada módulo profesional en el ámbito autonómico, con independencia del grado en el que 
 se integren.
 
-https://sede.gobiernodecanarias.org/boc
-boc-a-2026-046-749
-Boletín Oficial de Canarias núm. 46 Lunes 9 de marzo de 20268512
 Asimismo, el artículo 26.5 determina que, cuando un Grado C incorpore un módulo 
 profesional no incluido en el currículo básico del Grado D, su duración será la fijada para 
 el ámbito de gestión del Ministerio de Educación, Formación Profesional y Deportes.
@@ -120,9 +114,6 @@ En particular, el apartado 2 dispone la organización de las ofertas del Sistema
 Formación Profesional como dimensión vertical definitoria, estructurada de forma 
 escalonada en una serie ascendente de Grados. Esta ordenación es descriptiva de la amplitud 
 
-https://sede.gobiernodecanarias.org/boc
-boc-a-2026-046-749
-Boletín Oficial de Canarias núm. 46 Lunes 9 de marzo de 20268513
 de cada oferta formativa diseñada a partir del estándar de competencias profesionales de 
 mayor nivel del Catálogo Nacional de Estándares de Competencias Profesionales.
 Así mismo, en el punto 5 del citado artículo establece que todas las ofertas de Formación 
@@ -164,9 +155,6 @@ Cuarto.- Aprobar la distribución horaria y la estructura modular de los Grados 
 de niveles 2 y 3 de la familia profesional de Química, en los términos recogidos en el 
 Anexo IV de la presente Resolución.
 
-https://sede.gobiernodecanarias.org/boc
-boc-a-2026-046-749
-Boletín Oficial de Canarias núm. 46 Lunes 9 de marzo de 20268514
 Quinto.- La distribución horaria y estructura modular establecida en la presente 
 Resolución será de aplicación en todos los centros del Sistema de Formación Profesional 
 de la Comunidad Autónoma de Canarias.
@@ -193,9 +181,6 @@ cualquier otro que se estime procedente.
 Las Palmas de Gran Canaria, a 25 de febrero de 2026.- El Viceconsejero de Formación 
 Profesional y Cualificaciones Profesionales, Francisco Rodríguez Machado.
 
-boc-a-2026-046-749
-Boletín Oficial de Canarias núm. 46 Lunes 9 de marzo de 20268515
-https://sede.gobiernodecanarias.org/boc
 ANEXO I
 FAMILIA PROFESIONAL: IMAGEN PERSONAL
 DISTRIBUCIÓN HORARIA Y ESTRUCTURA MODULAR DE LOS GRADOS C
@@ -240,9 +225,6 @@ En régimen general la formación en la empresa u organismo equiparado tendrá u
 En régimen intensivo la formación en empresa u organismo equiparado tendrá una duración mínima de 205 horas.
 ANEXO I
 
-boc-a-2026-046-749
-Boletín Oficial de Canarias núm. 46 Lunes 9 de marzo de 20268516
-https://sede.gobiernodecanarias.org/boc
 Certificado profesional: Servicios de maquillaje y técnicas de venta en imagen personal.
 • Código: IMP_C_002_4B.
 • Título de Formación Profesional asociado: Técnico en Estética y Belleza.
@@ -304,9 +286,6 @@ semanales
 0636 Estética de manos y pies
 Código del certificado de competencia: IMP_B_0636 138 14 8
 
-boc-a-2026-046-749
-Boletín Oficial de Canarias núm. 46 Lunes 9 de marzo de 20268517
-https://sede.gobiernodecanarias.org/boc
 0637 Técnicas de uñas artificiales
 Código del certificado de competencia: IMP_B_0637 138 13 8
 1782 Prevención de riesgos laborales 30 3 2
@@ -372,9 +351,6 @@ Horas
 semanales
 (17 semanas)
 
-boc-a-2026-046-749
-Boletín Oficial de Canarias núm. 46 Lunes 9 de marzo de 20268518
-https://sede.gobiernodecanarias.org/boc
 Certificado profesional: Análisis capilar y comercialización de cosméticos en peluquería.
 • Código: IMP_C_007_4B.
 • Título de Formación Profesional asociado: Técnico en Peluquería y Cosmética Capilar.
@@ -426,9 +402,6 @@ Duración 605 30 18
 En régimen general la formación en la empresa u organismo equiparado tendrá una duración mínima de 155 horas.
 En régimen intensivo la formación en empresa u organismo equiparado tendrá una duración mínima de 215 horas.
 
-boc-a-2026-046-749
-Boletín Oficial de Canarias núm. 46 Lunes 9 de marzo de 20268519
-https://sede.gobiernodecanarias.org/boc
 Certificado profesional: Servicios hidrotermales y masajes estéticos.
 • Código: IMP_C_002_5B.
 • Título de Formación Profesional asociado: Técnico Superior en Estética Integral y Bienestar.
@@ -485,9 +458,6 @@ Duración 620 30 18
 En régimen general la formación en la empresa u organismo equiparado tendrá una duración mínima de 155 horas.
 En régimen intensivo la formación en empresa u organismo equiparado tendrá una duración mínima de 220 horas.
 
-boc-a-2026-046-749
-Boletín Oficial de Canarias núm. 46 Lunes 9 de marzo de 20268520
-https://sede.gobiernodecanarias.org/boc
 Certificado profesional: Estudio y creación de la imagen integral.
 • Código: IMP_C_004_5B.
 • Título  de  Formación  Profesional  asociado:  Técnico  Superior  en  Estilismo  y  Dirección  de
@@ -537,9 +507,6 @@ Duración 300 30 18
 En régimen general la formación en la empresa u organismo equiparado tendrá una duración mínima de 75 horas.
 En régimen intensivo la formación en empresa u organismo equiparado tendrá una duración mínima de 105 horas.
 
-boc-a-2026-046-749
-Boletín Oficial de Canarias núm. 46 Lunes 9 de marzo de 20268521
-https://sede.gobiernodecanarias.org/boc
 Certificado profesional: Asesoría en peluquería y estética.
 • Código: IMP_C_006_5B.
 • Título de Formación Profesional asociado: Técnico Superior en Asesoría de Imagen Personal y
@@ -592,9 +559,6 @@ Duración 335 30 20
 En régimen general la formación en la empresa u organismo equiparado tendrá una duración mínima de 85 horas.
 En régimen intensivo la formación en empresa u organismo equiparado tendrá una duración mínima de 120 horas.
 
-boc-a-2026-046-749
-Boletín Oficial de Canarias núm. 46 Lunes 9 de marzo de 20268522
-https://sede.gobiernodecanarias.org/boc
 Certificado profesional: Asesoría corporativa.
 • Código: IMP_C_008_5B.
 • Título de Formación Profesional asociado: Técnico Superior en Asesoría de Imagen Personal y
@@ -649,9 +613,6 @@ Duración 615 30 18
 En régimen general la formación en la empresa u organismo equiparado tendrá una duración mínima de 155 horas.
 En régimen intensivo la formación en empresa u organismo equiparado tendrá una duración mínima de 215 horas.
 
-boc-a-2026-046-749
-Boletín Oficial de Canarias núm. 46 Lunes 9 de marzo de 20268523
-https://sede.gobiernodecanarias.org/boc
 Certificado profesional: Maquillaje y prótesis faciales y corporales.
 • Código: IMP_C_010_5B.
 • Título de Formación Profesional asociado: Técnico Superior en Caracterización y Maquillaje
@@ -704,9 +665,6 @@ Duración 375 30 22
 En régimen general la formación en la empresa u organismo equiparado tendrá una duración mínima de 95 horas.
 En régimen intensivo la formación en empresa u organismo equiparado tendrá una duración mínima de 135 horas.
 
-boc-a-2026-046-749
-Boletín Oficial de Canarias núm. 46 Lunes 9 de marzo de 20268524
-https://sede.gobiernodecanarias.org/boc
 ANEXO II
 FAMILIA PROFESIONAL: IMAGEN Y SONIDO
 DISTRIBUCIÓN HORARIA Y ESTRUCTURA MODULAR DE LOS GRADOS C
@@ -763,9 +721,6 @@ En régimen general la formación en la empresa u organismo equiparado tendrá u
 En régimen intensivo la formación en la empresa u organismo equiparado tendrá una duración mínima de 240 horas.
 ANEXO II
 
-boc-a-2026-046-749
-Boletín Oficial de Canarias núm. 46 Lunes 9 de marzo de 20268525
-https://sede.gobiernodecanarias.org/boc
 Certificado profesional: Proyectos de animación 2D y 3D.
 • Código: IMS_C_001_5B.
 • Título de Formación Profesional asociado: Técnico Superior en Animaciones 3D, Juegos y
@@ -820,9 +775,6 @@ Duración 605 30 18
 En régimen general la formación en la empresa u organismo equiparado tendrá una duración mínima de 155 horas.
 En régimen intensivo la formación en la empresa u organismo equiparado tendrá una duración mínima de 215 horas.
 
-boc-a-2026-046-749
-Boletín Oficial de Canarias núm. 46 Lunes 9 de marzo de 20268526
-https://sede.gobiernodecanarias.org/boc
 ANEXO III
 FAMILIA PROFESIONAL: INSTALACIÓN Y MANTENIMIENTO
 DISTRIBUCIÓN HORARIA Y ESTRUCTURA MODULAR DE LOS GRADOS C
@@ -872,7 +824,6 @@ semanales
 0310 Montaje y mantenimiento de instalaciones de agua 173 7 5
 0392 Montaje y mantenimiento de instalaciones de energía solar 
 Código del certificado de competencia: IMA_B_0392 64 2 2
-0393
 Montaje y mantenimiento de instalaciones de gas y 
 combustibles líquidos 
 Código del certificado de competencia: IMA_B_0393
@@ -885,9 +836,6 @@ En régimen general la formación en la empresa u organismo equiparado tendrá u
 En régimen intensivo la formación en empresa u organismo equiparado tendrá una duración mínima de 285 horas.
 ANEXO III
 
-boc-a-2026-046-749
-Boletín Oficial de Canarias núm. 46 Lunes 9 de marzo de 20268527
-https://sede.gobiernodecanarias.org/boc
 Certificado profesional: Montaje y mantenimiento de instalaciones frigoríficas. 
 • Código: IMA_C_003_4B.
 • Título  de  Formación  Profesional  asociado:  Técnico  en  Instalaciones  Frigoríficas  y  de
@@ -905,12 +853,10 @@ semanales
 Código del certificado de competencia: IMA_B_0037 205 6
 0038 Instalaciones eléctricas y automatismos 
 Código del certificado de competencia: IMA_B_0038 305 9
-0040
 Montaje y mantenimiento de equipos de refrigeración 
 comercial
 Código del certificado de competencia: IMA_B_0040
 138 4
-0041
 Montaje y mantenimiento de instalaciones frigoríficas 
 industriales
 Código del certificado de competencia: IMA_B_0041
@@ -940,15 +886,11 @@ semanales
 Código del certificado de competencia: IMA_B_0037 205 8 6
 0038 Instalaciones eléctricas y automatismos 
 Código del certificado de competencia: IMA_B_0038 303 12 9
-0042
 Montaje y mantenimiento de instalaciones de 
 climatización, ventilación y extracción 
 Código del certificado de competencia: IMA_B_0042
 202 8 6
 
-boc-a-2026-046-749
-Boletín Oficial de Canarias núm. 46 Lunes 9 de marzo de 20268528
-https://sede.gobiernodecanarias.org/boc
 1782 Prevención de riesgos laborales 30 2 1
 Duración 740 30 22
 En régimen general la formación en la empresa u organismo equiparado tendrá una duración mínima de 185 horas.
@@ -1018,9 +960,6 @@ Horas
 semanales
 (33 semanas)
 
-boc-a-2026-046-749
-Boletín Oficial de Canarias núm. 46 Lunes 9 de marzo de 20268529
-https://sede.gobiernodecanarias.org/boc
 Certificado profesional: Configuración, gestión y eficiencia de instalaciones térmicas y de fluidos. 
 • Código: IMA_C_003_5B.
 • Título  de  Formación  Profesional  asociado:  Técnico  Superior  en  Mantenimiento  de
@@ -1066,7 +1005,6 @@ semanales
 Código del certificado de competencia: IMA_B_0120 175 5
 0122 Procesos de montaje de instalaciones 
 Código del certificado de competencia: IMA_B_0122 205 6
-0135
 Mantenimiento de instalaciones frigoríficas y de 
 climatización 
 Código del certificado de competencia: IMA_B_0135
@@ -1078,9 +1016,6 @@ Duración 820 24
 En régimen general la formación en la empresa u organismo equiparado tendrá una duración mínima de 205 horas.
 En régimen intensivo la formación en la empresa u organismo equiparado tendrá una duración mínima de 290 horas.
 
-boc-a-2026-046-749
-Boletín Oficial de Canarias núm. 46 Lunes 9 de marzo de 20268530
-https://sede.gobiernodecanarias.org/boc
 Certificado profesional: Montaje y supervisión de sistemas mecatrónicos industriales. 
 • Código: IMA_C_005_5B.
 • Título de Formación Profesional asociado: Técnico Superior en Mecatrónica Industrial.
@@ -1133,9 +1068,6 @@ Duración 840 25
 En régimen general la formación en la empresa u organismo equiparado tendrá una duración mínima de 210 horas.
 En régimen intensivo la formación en la empresa u organismo equiparado tendrá una duración mínima de 295 horas.
 
-boc-a-2026-046-749
-Boletín Oficial de Canarias núm. 46 Lunes 9 de marzo de 20268531
-https://sede.gobiernodecanarias.org/boc
 ANEXO IV
 FAMILIA PROFESIONAL: QUÍMICA
 DISTRIBUCIÓN HORARIA Y ESTRUCTURA MODULAR DE LOS GRADOS C
@@ -1193,9 +1125,6 @@ Código del certificado de competencia: QUI_B_1251 174 7 5
 Código del certificado de competencia: QUI_B_1252 64 3 2
 ANEXO IV
 
-boc-a-2026-046-749
-Boletín Oficial de Canarias núm. 46 Lunes 9 de marzo de 20268532
-https://sede.gobiernodecanarias.org/boc
 1255 Operaciones de análisis químico
 Código del certificado de competencia: QUI_B_1255 238 11 7
 1782 Prevención de riesgos laborales 30 2 1
@@ -1261,9 +1190,6 @@ Horas
 semanales
 (33 semanas)
 
-boc-a-2026-046-749
-Boletín Oficial de Canarias núm. 46 Lunes 9 de marzo de 20268533
-https://sede.gobiernodecanarias.org/boc
 0072 Calidad y seguridad en el laboratorio
 Código del certificado de competencia: QUI_B_0072 138 6 4
 1782 Prevención de riesgos laborales 30 2 1
@@ -1332,9 +1258,6 @@ Horas
 semanales
 (33 semanas)
 
-boc-a-2026-046-749
-Boletín Oficial de Canarias núm. 46 Lunes 9 de marzo de 20268534
-https://sede.gobiernodecanarias.org/boc
 0193 Acondicionado y almacenamiento de productos químicos
 Código del certificado de competencia: QUI_B_0193 96 5 3
 0194 Prevención de riesgos en industrias químicas
@@ -1381,7 +1304,6 @@ totales
 Horas
 semanales
 (33 semanas)
-1387
 Organización y gestión de la fabricación de productos farmacéuticos, 
 biotecnológicos y afines
 Código del certificado de competencia: QUI_B_1387
@@ -1400,9 +1322,6 @@ semanales
 (33 semanas)
 Código del certificado de competencia: QUI_B_1389
 
-boc-a-2026-046-749
-Boletín Oficial de Canarias núm. 46 Lunes 9 de marzo de 20268535
-https://sede.gobiernodecanarias.org/boc
 1393 Técnicas de producción biotecnológica
 Código del certificado de competencia: QUI_B_1393 170 5
 1394 Técnicas de producción farmacéutica y afines
@@ -1434,12 +1353,10 @@ Horas
 semanales
 (33 
 semanas)
-1387
 Organización y gestión de la fabricación de productos 
 farmacéuticos, biotecnológicos y afines
 Código del certificado de competencia: QUI_B_1387
 64 3 2
-1388
 Control de calidad de productos farmacéuticos, biotecnológicos 
 y afines
 Código del certificado de competencia: QUI_B_1388
@@ -1448,12 +1365,10 @@ Código del certificado de competencia: QUI_B_1388
 Código del certificado de competencia: QUI_B_1390 171 6 5
 1391 Seguridad en la industria farmacéutica, biotecnológica y afines
 Código del certificado de competencia: QUI_B_1391 64 3 2
-1392
 Áreas y servicios auxiliares en la industria farmacéutica, 
 biotecnológica y afines
 Código del certificado de competencia: QUI_B_1392
 171 6 5
-1396
 Acondicionamiento y almacenamiento de productos 
 farmacéuticos, biotecnológicos y afines
 Código del certificado de competencia: QUI_B_1396

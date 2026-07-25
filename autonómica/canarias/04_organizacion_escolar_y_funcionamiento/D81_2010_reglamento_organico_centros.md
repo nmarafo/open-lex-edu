@@ -152,8 +152,6 @@ al presente Decreto.
 Disposición Adicional Primera.- Centros depen-
 dientes de otros Departamentos o Administraciones
 Públicas e Instituciones.
-Boletín Oficial de Canarias núm. 143 19517 Jueves 22 de julio de 2010
-boc-a-2010-143-4245
 
 Lo dispuesto en este Decreto se entiende sin per-
 juicio de las peculiaridades de los centros docentes
@@ -256,8 +254,6 @@ educativa para desarrollar lo dispuesto por el Re-
 glamento que el presente Decreto aprueba, así co-
 mo para regular cuantas cuestiones se deriven de
 su aplicación.
-Boletín Oficial de Canarias núm. 143 19518 Jueves 22 de julio de 2010
-boc-a-2010-143-4245
 
 Disposición Final Segunda.- Aplicación del Decreto.
 El presente Decreto se aplicará a los centros do-
@@ -359,8 +355,6 @@ Artículo 45.- Evaluación de diagnóstico.
 Artículo 46.- Evaluación de los centros.
 Artículo 47.- Autoevaluación del centro.
 Artículo 48.- Evaluación externa de los centros.
-Boletín Oficial de Canarias núm. 143 19519 Jueves 22 de julio de 2010
-boc-a-2010-143-4245
 
 TÍTULO IV
 ÓRGANOS DE PARTICIPACIÓN Y COLABORACIÓN
@@ -463,8 +457,6 @@ Artículo 5.- Denominación específica de los cen-
 tros docentes públicos.
 1. Los centros docentes públicos dependientes de
 la Consejería competente en materia educativa ten-
-Boletín Oficial de Canarias núm. 143 19520 Jueves 22 de julio de 2010
-boc-a-2010-143-4245
 
 drán la denominación específica que apruebe dicha
 Consejería, a propuesta formulada por el Consejo Es-
@@ -564,8 +556,6 @@ de 28 de julio, por el que se regula la función di-
 rectiva en los centros docentes públicos no univer-
 sitarios dependientes de la Comunidad Autónoma
 de Canarias.
-Boletín Oficial de Canarias núm. 143 19521 Jueves 22 de julio de 2010
-boc-a-2010-143-4245
 
 b) Los órganos colegiados son el Consejo Esco-
 lar, el Claustro del profesorado y, en su caso, los que
@@ -667,8 +657,6 @@ gatoria o de etapas o niveles postobligatorios, podrá
 participar en la comisión de gestión económica, así
 como en la selección o cese de la persona que ejer-
 za la dirección. 
-Boletín Oficial de Canarias núm. 143 19522 Jueves 22 de julio de 2010
-boc-a-2010-143-4245
 
 f) Un representante del personal de administra-
 ción y servicios del centro.
@@ -770,8 +758,6 @@ jora de la calidad de la gestión, así como sobre aque-
 llos otros aspectos relacionados con la calidad del mismo.
 ñ) Determinar los criterios sobre la participación
 del centro en actividades culturales, deportivas y re-
-Boletín Oficial de Canarias núm. 143 19523 Jueves 22 de julio de 2010
-boc-a-2010-143-4245
 
 creativas realizadas dentro y fuera del centro, y en
 aquellas otras acciones a las que el centro pudiera pres-
@@ -877,8 +863,6 @@ c) Aquellas otras que se determinen reglamenta-
 riamente.
 Artículo 18.- Estatuto jurídico de los miembros
 del Consejo Escolar.
-Boletín Oficial de Canarias núm. 143 19524 Jueves 22 de julio de 2010
-boc-a-2010-143-4245
 
 1. Las personas electas del Consejo Escolar y las
 comisiones que se formen en el mismo, no estarán
@@ -985,8 +969,6 @@ El Claustro del profesorado tendrá las siguientes
 competencias:
 a) Formular al equipo directivo y al Consejo Es-
 colar propuestas para la elaboración de los proyec-
-Boletín Oficial de Canarias núm. 143 19525 Jueves 22 de julio de 2010
-boc-a-2010-143-4245
 
 tos del centro, de la programación general anual y de
 las normas de organización y funcionamiento del
@@ -1087,8 +1069,6 @@ trativo Común.
 4. Para la válida constitución del Claustro, a efec-
 tos de la celebración de sesiones, deliberaciones y to-
 ma de acuerdos, se requerirá la presencia de las per-
-Boletín Oficial de Canarias núm. 143 19526 Jueves 22 de julio de 2010
-boc-a-2010-143-4245
 
 sonas titulares de la dirección y de la secretaría, o de
 quienes las sustituyan, y la de la mitad de sus miembros.
@@ -1178,8 +1158,6 @@ a) La dirección del centro, que la presidirá.
 b) La jefatura de estudios. 
 c) La coordinación de la comisión de actividades
 complementarias y extraescolares.
-Boletín Oficial de Canarias núm. 143 19527 Jueves 22 de julio de 2010
-boc-a-2010-143-4245
 
 d) La jefatura de los departamentos de coordina-
 ción didáctica.
@@ -1275,8 +1253,6 @@ para el departamento de orientación en el presente
 Decreto.
 Artículo 26.-Comisión de actividades complemen-
 tarias y extraescolares.
-Boletín Oficial de Canarias núm. 143 19528 Jueves 22 de julio de 2010
-boc-a-2010-143-4245
 
 1. La comisión de actividades complementarias y
 extraescolares es el órgano encargado de promover,
@@ -1373,8 +1349,6 @@ El departamento de orientación tendrá las siguien-
 tes competencias:
 a) Elaborar, de acuerdo con las directrices estable-
 cidas por la comisión de coordinación pedagógica,
-Boletín Oficial de Canarias núm. 143 19529 Jueves 22 de julio de 2010
-boc-a-2010-143-4245
 
 la concreción de la acción tutorial y de la orientación
 académica y profesional, así como del plan de aten-
@@ -1476,8 +1450,6 @@ a) Organizar actividades que garanticen el acer-
 camiento entre la familia profesional y las empresas
 del sector que favorezcan el desarrollo de la forma-
 ción práctica. 
-Boletín Oficial de Canarias núm. 143 19530 Jueves 22 de julio de 2010
-boc-a-2010-143-4245
 
 b) Inventariar las empresas que tienen capacidad
 para acoger al profesorado que precise actualización
@@ -1578,8 +1550,6 @@ componentes del equipo y previa audiencia a la per-
 sona interesada.
 5. Son atribuciones de las personas que ejercen la
 coordinación de los equipos de ciclo:
-Boletín Oficial de Canarias núm. 143 19531 Jueves 22 de julio de 2010
-boc-a-2010-143-4245
 
 a) Coordinar las actividades académicas del equi-
 po, atendiendo a la especificidad de los diferentes ám-
@@ -1676,8 +1646,6 @@ por el profesorado tutor, que será designado por
 la dirección del centro a propuesta motivada de la
 jefatura de estudios.
 2. Son atribuciones del profesorado tutor de grupo: 
-Boletín Oficial de Canarias núm. 143 19532 Jueves 22 de julio de 2010
-boc-a-2010-143-4245
 
 a) Informar al equipo docente de las característi-
 cas del grupo al comienzo del curso escolar y de
@@ -1775,8 +1743,6 @@ ra su conocimiento.
 3. El proyecto educativo recogerá aportaciones de-
 batidas y analizadas por todos los sectores de la co-
 munidad educativa y será aprobado por el Consejo
-Boletín Oficial de Canarias núm. 143 19533 Jueves 22 de julio de 2010
-boc-a-2010-143-4245
 
 Escolar del centro. Dicho proyecto habrá de incor-
 porar los siguientes aspectos: 
@@ -1883,8 +1849,6 @@ quiera de los sectores representados en el Conse-
 jo Escolar, por un tercio del total de miembros de
 este órgano o por las asociaciones de padres y ma-
 dres o del alumnado.
-Boletín Oficial de Canarias núm. 143 19534 Jueves 22 de julio de 2010
-boc-a-2010-143-4245
 
 5. Una vez presentada la propuesta, la dirección
 dará conocimiento de la misma a todos los sectores
@@ -1989,8 +1953,6 @@ educativa.
 berán concretar, entre otros, los siguientes aspectos: 
 a) Los cauces de participación de los distintos
 sectores de la comunidad educativa.
-Boletín Oficial de Canarias núm. 143 19535 Jueves 22 de julio de 2010
-boc-a-2010-143-4245
 
 b) Los criterios y procedimientos que garanti-
 cen el rigor y la transparencia en la toma de deci-
@@ -2082,8 +2044,6 @@ materias o módulos.
 - Los criterios y procedimientos previstos para
 organizar la atención a la diversidad del alumnado y
 realizar las adaptaciones curriculares adecuadas pa-
-Boletín Oficial de Canarias núm. 143 19536 Jueves 22 de julio de 2010
-boc-a-2010-143-4245
 
 ra el alumnado con necesidades específicas de apo-
 yo educativo.
@@ -2182,8 +2142,6 @@ mación o unidades de trabajo. Asimismo, se pondrá
 especial cuidado en el diseño de las situaciones de
 aprendizaje con la finalidad de seleccionar activida-
 des y experiencias útiles y funcionales que contribu-
-Boletín Oficial de Canarias núm. 143 19537 Jueves 22 de julio de 2010
-boc-a-2010-143-4245
 
 yan al desarrollo y la adquisición de las distintas
 competencias y a mantener la coherencia pedagógi-
@@ -2285,8 +2243,6 @@ educativo.
 2. Se establecerán procedimientos de evaluación
 de los distintos ámbitos y agentes de la actividad
 educativa: alumnado, profesorado y centros.
-Boletín Oficial de Canarias núm. 143 19538 Jueves 22 de julio de 2010
-boc-a-2010-143-4245
 
 3. Los órganos de gobierno de los centros garan-
 tizarán, dinamizarán y favorecerán la participación
@@ -2387,8 +2343,6 @@ reguladora de dichas asociaciones y de sus federa-
 ciones y confederaciones.
 Artículo 52.- Funcionamiento de las asociaciones
 de padres y madres y de alumnado.
-Boletín Oficial de Canarias núm. 143 19539 Jueves 22 de julio de 2010
-boc-a-2010-143-4245
 
 1. Estas asociaciones podrán participar con sus pro-
 puestas al Consejo Escolar y a la dirección del cen-
@@ -2486,7 +2440,6 @@ po, a excepción de los cursos de educación infantil
 y primer y segundo ciclo de educación primaria.
 2. La junta de delegados y delegadas será porta-
 voz ante el equipo directivo del centro, para presen-
-tar sugerencias y reclamaciones del grupo al que re-
 presenta, no pudiendo ser sancionados en el ejercicio
 de estas funciones.
 3. Una vez constituida la junta de delegados y de-
@@ -2496,8 +2449,6 @@ midad con lo establecido en este Reglamento.
 4. La jefatura de estudios establecerá los cauces
 para que esta junta se reúna como mínimo una vez
 en cada trimestre y, en caso necesario, dinamizará las
-Boletín Oficial de Canarias núm. 143 19540 Jueves 22 de julio de 2010
-boc-a-2010-143-4245
 
 reuniones y les garantizará el acceso a los medios in-
 formáticos, dentro de las posibilidades del centro.
@@ -2542,5 +2493,3 @@ c) Reuniones del profesorado, cuyo objetivo es me-
 jorar la implicación del profesorado en la vida del centro.
 d) Reuniones mixtas formadas por miembros de
 la comunidad educativa.
-Boletín Oficial de Canarias núm. 143 19541 Jueves 22 de julio de 2010
-boc-a-2010-143-4245

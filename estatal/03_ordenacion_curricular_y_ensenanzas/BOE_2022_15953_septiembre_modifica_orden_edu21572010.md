@@ -52,13 +52,11 @@ En la tramitación de esta orden ha emitido dictamen el Consejo Escolar del Esta
 
 En virtud de lo expuesto, dispongo:
 
-
 #### Artículo único. Modificación de la Orden EDU/2157/2010, de 30 de julio, por la que se regula el currículo mixto de las enseñanzas acogidas al Acuerdo entre el Gobierno de España y el Gobierno de Francia relativo a la doble titulación de Bachiller y de Baccalauréat en centros docentes españoles, así como los requisitos para su obtención.
 
 La Orden 2157/2010, de 30 de julio, por la que se regula el currículo mixto de las enseñanzas acogidas al Acuerdo entre el Gobierno de España y el Gobierno de Francia relativo a la doble titulación de Bachiller y de Baccalauréat en centros docentes españoles, así como los requisitos para su obtención, se modifica del siguiente modo:
 
 Uno. El artículo 3 queda redactado en los siguientes términos:
-
 
 #### «Artículo 3. Asignación horaria.
 
@@ -80,7 +78,6 @@ b) Durante la segunda, de entre 15 y 20 minutos, el tribunal evaluará la co
 
 Tres. El artículo 8 queda redactado en los siguientes términos:
 
-
 #### «Artículo 8. Calificación final para la obtención del título de Baccalauréat.
 
 La calificación final para la obtención del título de Baccalauréat se calculará ponderando un 70 por ciento la nota media de bachillerato y un 30 por ciento la calificación global de la prueba externa. La nota resultante de dicha ponderación se expresará en forma numérica de 0 a 10 puntos, con dos decimales, redondeada a la centésima.»
@@ -90,7 +87,6 @@ Cuatro. El apartado 1 del artículo 10 queda redactado en los siguientes té
 «1. Para el alumnado que obtenga la doble titulación, tanto el expediente académico como el historial académico de Bachillerato, establecidos en el Real Decreto 243/2022, de 5 de abril, por el que se establecen la ordenación y las enseñanzas mínimas del Bachillerato, recogerán mediante diligencia incluida en el anexo II, que el alumno o alumna ha superado las enseñanzas del currículo mixto y que ha alcanzado el nivel B2 del Marco común europeo de referencia para las lenguas en lengua francesa.»
 
 Cinco. La disposición adicional única queda redactada en los siguientes términos:
-
 
 #### «Disposición adicional única. Acceso a la universidad española.
 
@@ -208,7 +204,6 @@ Esta competencia especÃ­fica se conecta con los siguientes descriptores: CCL1,
 
 Criterios de evaluación
 
-
 **Competencia específica 1**
 
 1.1 Extraer y analizar las ideas principales, la información relevante y las implicaciones generales de textos auténticos de nivel B2, orales, escritos y multimodales, expresados en una variedad de lengua francesa estándar y a través de diversos soportes, que traten temas actuales de relevancia, tanto concretos como abstractos, y relacionados con los ámbitos socioculturales europeos y francófonos, realizando las inferencias necesarias.
@@ -219,7 +214,6 @@ Criterios de evaluación
 
 1.4 Buscar, identificar y contrastar información, evaluando su fiabilidad y su calidad.
 
-
 **Competencia específica 2**
 
 2.1 Realizar exposiciones, ensayos y argumentaciones formales bien estructurados, coherentes, cohesionados, en el registro adecuado y con diferente grado de planificación, sobre temas de actualidad relacionados con los ámbitos socioculturales europeos y francófonos, ajustándose a las convenciones propias de cada género discursivo, y utilizando de manera eficaz diferentes soportes y recursos verbales y no verbales.
@@ -228,13 +222,11 @@ Criterios de evaluación
 
 2.3 Seleccionar, organizar y aplicar conocimientos y estrategias de planificación, producción y revisión de textos compuestos con una estructura clara y adecuados a las intenciones comunicativas, las características contextuales, los aspectos socioculturales y la tipología textual, usando los recursos físicos o digitales más adecuados en función de la tarea y de los interlocutores e interlocutoras reales o potenciales.
 
-
 **Competencia específica 3**
 
 3.1 Participar de manera activa y adecuada a la situación de comunicación en interacciones formales e informales y en el trabajo en equipo, construyendo un discurso razonado, con actitudes de escucha activa y estrategias de cooperación conversacional y cortesía lingüística.
 
 3.2 Seleccionar, organizar y utilizar, de forma flexible y en diferentes entornos, estrategias adecuadas para iniciar, mantener y terminar la comunicación, tomar y ceder la palabra, solicitar y formular aclaraciones y explicaciones, reformular, comparar y contrastar, resumir, colaborar, debatir, resolver problemas y gestionar situaciones comprometidas.
-
 
 **Competencia específica 4**
 
@@ -242,13 +234,11 @@ Criterios de evaluación
 
 4.2 Aplicar estrategias que ayuden a crear puentes, faciliten la comunicación y sirvan para explicar y simplificar textos, conceptos y mensajes, y que sean adecuadas a las intenciones comunicativas, las características contextuales, los aspectos socioculturales y la tipología textual, usando recursos y apoyos físicos o digitales en función de la tarea y el conocimiento previo de los interlocutores e interlocutoras.
 
-
 **Competencia específica 5**
 
 5.1 Comparar y argumentar las semejanzas y diferencias entre las distintas lenguas de los repertorios lingüísticos propios, reflexionando sobre su funcionamiento, estableciendo relaciones entre ellas y apreciando la diversidad con la que se relacionan.
 
 5.2 Utilizar con iniciativa y de forma creativa conocimientos y estrategias de mejora para comunicar y aprender la lengua francesa con apoyo de otros participantes y de soportes analógicos y digitales.
-
 
 **Competencia específica 6**
 
@@ -257,7 +247,6 @@ Criterios de evaluación
 6.2 Valorar críticamente la diversidad lingüística, cultural y artística propia de los países donde se habla francés teniendo en cuenta los derechos humanos y adecuarse a esa diversidad, favoreciendo el desarrollo de una cultura compartida y una ciudadanía comprometida con la sostenibilidad y los valores democráticos.
 
 6.3 Aplicar estrategias para defender y apreciar la diversidad lingüística, cultural y artística, atendiendo a valores ecosociales y democráticos y respetando los principios de justicia, equidad e igualdad.
-
 
 **Competencia específica 7**
 
@@ -611,26 +600,21 @@ Para la preparación de la prueba oral, que tendrá un enfoque de Francés Lengu
 
 – Los grandes retos europeos: cultura, transporte, energía, desarrollo sostenible, etc.
 
-
 **Orientaciones metodológicas y para la evaluación**
 
 Uno de los objetivos del programa Bachibac es la adquisición de un nivel avanzado en lengua francesa por parte de alumnado no francófono. Para la enseñanza de la materia Lengua y Literatura Francesas, el profesorado recurrirá a los métodos propios del Francés Lengua Extranjera con los que está familiarizado. Sin embargo, uno de los rasgos más significativos de esta materia específica del programa estriba en que incluye contenidos literarios. La imbricación de los nuevos aprendizajes y de las competencias en la enseñanza de la lengua extranjera requiere tanto una modificación del enfoque adoptado en la mediación pedagógica como la incorporación de nuevos métodos y herramientas.
-
 
 **Enfoque orientado a la acción**
 
 Las metodologías para la materia de Lengua y Literatura Francesas parten necesariamente del enfoque orientado a la acción que plantea el MCER y su Volumen Complementario, en los que el alumnado es considerado sujeto activo en la creación de significados, en la construcción de conocimiento y en el enriquecimiento de su repertorio lingüístico individual. El enfoque orientado a la acción supone facilitar que alumnos y alumnas se conviertan en agentes sociales implicados en su propio proceso de aprendizaje. Conlleva, además, considerarlos como usuarios de la lengua, de modo que se centren en aprender a utilizarla en lugar de centrarse en aprender sobre ella, promoviendo el aprendizaje a partir de un uso activo del francés. Por último, significa reconocerlos como seres plurilingües y pluriculturales, permitiéndoles el uso de todos sus recursos lingüísticos y animándolos a que localicen las semejanzas y diferencias entre distintas lenguas y culturas.
 
-
 **Diseño Universal para el Aprendizaje**
 
 Las propuestas didácticas más adecuadas serán aquellas que, alineadas con los principios del Diseño Universal para el Aprendizaje, estén compuestas por prácticas de aprendizaje y enseñanza que contribuyan a que el alumnado se comunique en la lengua francesa a partir de la comprensión, la producción, la interacción y la mediación; a que reflexione de manera crítica y sistemática sobre el funcionamiento de las lenguas y establezca relaciones entre las que componen su repertorio; a que valore críticamente la diversidad, adecuándose a ella y actuando de forma empática y respetuosa en situaciones comunicativas interculturales; y, por último, a que lea, interprete y analice fragmentos y obras relevantes de la literatura francesa y francófona como fuente de conocimiento y placer. En consonancia con este planteamiento, las orientaciones metodológicas han de centrarse en las necesidades e intereses del alumnado, así como en la responsabilidad que ha de asumir en su propio proceso de aprendizaje, y deben asimismo integrar, de forma coherente, todos los elementos que conforman el currículo. La materia busca así propuestas pedagógicas que ofrezcan múltiples formas de representación de los distintos elementos curriculares a partir de estrategias que orienten lo que el alumnado aprende. Se espera también que las propuestas faciliten una amplia variedad de formas de acción y de expresión del aprendizaje en torno a cómo hacer uso de los conocimientos, destrezas y actitudes adquiridos y cómo aplicarlos para comunicarse de forma adecuada y eficaz en la lengua francesa; y que proporcionen múltiples formas de participar y de implicar al alumnado en el aprendizaje, potenciando su motivación a través del desarrollo de actividades que requieran la justificación de lo que se está aprendiendo. En este sentido, resultará de especial relevancia la integración de las herramientas digitales, que ofrecen esas múltiples formas de representación y facilitan la variedad de formas de acción y de expresión en Lengua y Literatura Francesas.
 
-
 **Tratamiento integrado de las lenguas**
 
 En consonancia con lo anterior, se espera que los planteamientos metodológicos sean flexibles y accesibles, de modo que se ajusten a las necesidades y los intereses del alumnado en este programa. Han de ser abiertos y partir de un tratamiento integrado de las lenguas, de forma que generen una base que procure a los alumnos y alumnas un progreso constante, efectivo, creativo y autónomo de los conocimientos, destrezas y actitudes a partir de sus propios aprendizajes y experiencias. El desarrollo de metodologías útiles y eficaces es una de las piezas clave en la consecución de las competencias específicas de la materia de Lengua y Literatura Francesas, pues permite que alumnos y alumnas puedan aplicar los saberes y estrategias adquiridos en diferentes contextos. Para ello, es imprescindible tomar como punto de referencia tanto sus experiencias previas y sus expectativas personales, formativas y laborales, como sus centros de interés, de modo que a partir de ellos puedan construir un aprendizaje contextualizado, relevante y significativo.
-
 
 **Situaciones de aprendizaje**
 
@@ -640,13 +624,11 @@ Las situaciones de aprendizaje han de plantear una problemática para cuya respu
 
 En este programa, las distintas actividades de la lengua –comprensión, producción, interacción y mediación– han de proporcionar al alumnado las oportunidades para comunicarse usando registros y formatos comunicativos propios de la lengua formal. La intervención didáctica en el aula estará centrada en un uso real y continuo de la lengua francesa y enfrentará al alumnado con recursos y materiales auténticos, en distintos soportes. De esta manera se fomentarán el uso y la mejora de la competencia comunicativa en lengua francesa a través de la transferencia consciente de experiencias, estrategias y conocimientos desde las lenguas que conforman su repertorio lingüístico individual, y se contribuirá, al mismo tiempo, a su enriquecimiento. La inclusión de entornos digitales en el diseño y el desarrollo de situaciones de aprendizaje permite trascender las fronteras del aula, abriendo nuevas posibilidades de uso de la lengua francesa y facilitando el acceso del alumnado a las culturas vehiculadas a través de ella.
 
-
 **Actividades y estrategias comunicativas de la lengua: Comprensión, producción, interacción y mediación**
 
 Durante los dos años de duración del programa Bachibac, el alumnado ha de desarrollar las distintas actividades y estrategias comunicativas de la lengua de forma autónoma. Las situaciones de aprendizaje deben permitir la integración de estas actividades y estrategias comunicativas en contextos comunicativos reales o en escenarios que los reproduzcan. Estas situaciones han de favorecer que el alumnado ponga en práctica la comprensión, la producción y la interacción de manera conjunta. Por su parte, la mediación, que implica el uso simultáneo de la comprensión, la producción y la interacción, estará integrada como herramienta para el aprendizaje en situaciones en las que intervengan el resto de actividades comunicativas, de forma que su evaluación no se realice por separado, sino combinada con las demás.
 
 La progresión lógica de estas actividades y estrategias debería partir de situaciones adecuadas al nivel de lengua del alumnado para ir aumentando la dificultad, atendiendo a propósitos comunicativos cada vez más concretos que permitan el desarrollo de su autonomía y la adquisición de capacidades comunicativas propias de un nivel B2 del MCER en lengua francesa.
-
 
 **Textos orales, escritos y mutimodales**
 
@@ -656,13 +638,11 @@ En el caso de los textos escritos, se hará especial hincapié en el registro fo
 
 En su formato multimodal, los textos incluyen el uso conjunto de diferentes recursos para producir significado (escritura, imagen, gráficos, tablas, diagramas, etc.), por lo que el alumnado habrá de enfrentarse a actividades que le permitan no solo interpretar y analizar el uso de dichos recursos, sino también seleccionar, configurar y usar dispositivos digitales y distintas aplicaciones para comunicarse, trabajar de forma colaborativa y compartir información, gestionándola de manera responsable.
 
-
 **Reflexión sobre la lengua francesa**
 
 En esta etapa, los aprendizajes adquiridos previamente permiten que el alumnado pueda partir de lo que sabe para reflexionar de manera crítica y autónoma sobre el funcionamiento de la lengua francesa. La comparación y el análisis del funcionamiento de la lengua permitirá la creación de una imagen más ajustada de las formas que adopta y de sus usos, ayudando al alumnado a comunicarse en dicha lengua de forma correcta, flexible y efectiva, así como a expresarse e interactuar de forma segura y eficaz. La reflexión sobre la lengua francesa se hará de acuerdo con los textos estudiados y producidos, sin perder de vista que dicha reflexión no constituye un fin en sí misma, sino que debe usarse como una herramienta de perfeccionamiento tanto de la lengua francesa como del resto de lenguas que conforman su repertorio. Por ello, se partirá de las producciones del alumnado, registrando las dificultades que se encuentran y actualizando o ampliando conceptos, con el fin de recordar aprendizajes o crear otros nuevos. Además, según las necesidades que puedan originar las producciones que se prevea llevar a cabo, el profesorado proporcionará los saberes que se precisan. Por ejemplo, se estudiarán los conectores al preparar la producción de un texto argumentativo. Se podrá dar preferencia a la gramática inductiva, recurriendo también al modelo de la clase invertida para la actualización de los conocimientos, destrezas y actitudes, mientras que se podrá usar la gramática deductiva en otros casos.
 
 La reflexión sobre la lengua es esencial para llevar a cabo la autorreparación de las producciones propias, para justificar las elecciones lingüísticas realizadas y para valorar las producciones de los demás. Constituye una herramienta imprescindible para la autonomía en el aprendizaje.
-
 
 **Variedad de textos auténticos**
 
@@ -680,13 +660,11 @@ Esta competencia se pondrá de manifiesto igualmente en la interacción, en la q
 
 La producción escrita se trabajará igualmente enfocándose en la argumentación, incorporando un aprendizaje pautado por la extensión de los textos y por la metodología requerida. La preparación de este tipo de producción exigirá que los alumnos y alumnas acepten que la escritura no se realiza a vuelapluma, sino que es el resultado de sucesivas fases: la planificación, la escritura propiamente dicha y la revisión. Por ello se propondrán actividades para ayudar al alumnado a organizar el texto en introducción, desarrollo y conclusión, a organizar la introducción en diferentes partes (sujet amené, sujet posé, sujet divisé), a aportar ejemplos para apoyar los argumentos (arguments illustrés par des exemples) y a dar forma a la conclusión (résumé des idées et ouverture si possible). Para estos ejercicios de producción escrita, que se enmarcarán en tareas dentro de las diferentes secuencias didácticas, se propondrán temáticas generales inspiradas de los textos trabajados.
 
-
 **Secuencias didácticas**
 
 En Lengua y Literatura Francesas, el desarrollo de la educación literaria descansa en gran medida sobre la construcción de secuencias didácticas que engloban actividades variadas reunidas en torno a una temática común. Se trata de un conjunto de pasos estructurados por el profesorado en el que las lecturas, variadas y bien ordenadas en torno a un eje temático, ayudan al alumnado a alcanzar las competencias específicas. Serán los temas, utilizados como hilos conductores, los que darán coherencia a las secuencias que podrán desarrollarse en torno, bien a conjuntos de textos, bien a una o más obras. Las obras o los fragmentos literarios podrán seleccionarse dentro del repertorio de autores sugeridos o no, pero se enmarcarán siempre en su contexto histórico-cultural y se complementarán con otros textos no literarios, principalmente argumentativos, teniendo en cuenta los aprendizajes y experiencias previas del alumnado. Al mismo tiempo, se velará por planificar una progresión de las destrezas requeridas para la interpretación de los textos. El profesorado escogerá las temáticas que considere más adecuadas a las necesidades, las experiencias y los intereses del alumnado, procurando siempre establecer relaciones entre pasado y presente, y entre las culturas francesa, española y europea, así como considerar los diferentes géneros literarios y formas del discurso.
 
 No se trata de llevar a cabo un estudio cronológico y exhaustivo de la historia de la literatura francesa o en lengua francesa, sino de profundizar en una selección de textos representativos que permita el acercamiento a los principales movimientos literarios y que proporcione los saberes necesarios para la interpretación de los textos y su análisis cuya finalidad, en último término, no será solamente la comprensión del fenómeno literario, sino la mejora de la competencia comunicativa y el disfrute de las manifestaciones culturales en lengua francesa.
-
 
 **Lectura acompañada y lectura autónoma**
 
@@ -697,7 +675,6 @@ La comprensión y análisis de las obras objeto de estudio, que se desarrolla en
 La lectura autónoma se realizará por parte del alumnado de forma independiente y esencialmente fuera del aula. El profesorado podrá proponer lecturas obligatorias o voluntarias, para adaptar la tarea al perfil de los lectores. Las obras propuestas serán seleccionadas atendiendo al nivel del alumnado, a la programación de aula, al repertorio de textos sugeridos –si se considera conveniente– y a los temas que puedan suscitar reflexión. En el caso de las lecturas obligatorias, el profesorado habrá de verificar su comprensión. Tanto en el caso de las lecturas obligatorias como en el de las voluntarias, se podrá pedir al alumnado que presente las obras leídas mediante la redacción de una opinión a imitación de un blog, la realización de un vídeo a modo de BookTok, etc. Se trata de ayudarlo a configurar su autonomía lectora en lengua francesa de manera progresiva.
 
 La redacción del ensayo requiere un aprendizaje pautado, tanto por su extensión como por exigir una metodología concreta, de tipo argumentativo, con la que el alumnado está menos familiarizado. La dificultad para el alumnado suele radicar en la defensa organizada y razonada de su punto de vista. Otra de las dificultades es de nivel estructural, y se relaciona con la organización de la composición en apartados: introducción –que consta de una o varias oraciones que introducen el tema, de una problemática y de una oración que anuncia los puntos que se van a tratar–, desarrollo –que presenta, siguiendo el plan propuesto, argumentos acompañados de ejemplos extraídos de las obras–, conclusión –que resume brevemente la reflexión– y, opcionalmente, una pregunta que abre el debate hacia otros horizontes.
-
 
 **Evaluación**
 
@@ -791,7 +768,6 @@ Esta competencia específica se conecta con los siguientes descriptores: STEM3, 
 
 Criterios de evaluación
 
-
 **Competencia específica 1**
 
 1.1 Reconocer el legado democrático y las acciones en favor de la libertad, identificando y comparando los distintos regímenes políticos y sus respectivos textos constitucionales, desde la Monarquía absoluta y la construcción del Estado liberal en España y Francia a la actualidad, utilizando adecuadamente términos y conceptos históricos valorando el grado y alcance de los derechos y libertades que reconocen la aplicación efectiva de los mismos.
@@ -799,7 +775,6 @@ Criterios de evaluación
 1.2 Identificar y valorar el papel de la Transición en España en el establecimiento de la democracia actual y de la Constitución de 1978 como fundamento y garantía de los derechos y libertades de los españoles, a través de la elaboración de juicios propios acerca de los principales debates que afectan al sistema constitucional, mediante el dominio de procesos de búsqueda y tratamiento de la información.
 
 1.3 Identificar y valorar el establecimiento del régimen republicano democrático en Francia y su evolución reciente como garantía de los derechos y libertades del pueblo francés a través de la elaboración de juicios propios acerca de los principales debates que afectan al sistema constitucional y a las formas de poder a través de procesos de búsqueda y tratamiento de la información.
-
 
 **Competencia específica 2**
 
@@ -809,13 +784,11 @@ Criterios de evaluación
 
 2.3 Identificar los distintos procesos políticos, culturales y administrativos que han tenido lugar en la formación del Estado y en la construcción de la nación en España y Francia, analizando críticamente los logros y resultados de las acciones llevadas a cabo y las reacciones generadas, conociendo y respetando tanto las identidades múltiples como los símbolos y normas comunes que conforman el marco actual de convivencia.
 
-
 **Competencia específica 3**
 
 3.1 Analizar tanto la evolución económica de España y Francia, sus ritmos y ciclos de crecimiento, como la relación económica hispanofrancesa contemporánea, valiéndose del manejo de datos, representaciones gráficas y recursos digitales, interpretando sus particulares procesos de modernización en el contexto de los países del entorno y los debates historiográficos sobre el desarrollo industrial en ambos países, considerando el emprendimiento, la innovación y el aprendizaje permanente como formas de afrontar los retos de un entorno económico y profesional en constante cambio.
 
 3.2 Entender los distintos significados de la idea del progreso en sus contextos históricos, aplicando el estudio multicausal de los modelos de desarrollo económico referidos a la España y a la Francia contemporáneas y analizando críticamente la idea de modernización, valorando sus efectos en relación a la desigualdad social, los desequilibrios territoriales, la degradación ambiental y las relaciones de dependencia, así como reflejando actitudes en favor de los Objetivos de Desarrollo Sostenible y los comportamientos ecosociales.
-
 
 **Competencia específica 4**
 
@@ -825,7 +798,6 @@ Criterios de evaluación
 
 4.3 Deducir la evolución del estado social a través del estudio crítico de noticias y datos estadísticos, identificando los logros y retrocesos experimentados y las medidas adoptadas por el Estado español y el Estado francés hasta el presente, la evolución de los niveles de vida y de bienestar en ambos países, así como los límites y retos de futuro, desde una perspectiva solidaria en favor de los colectivos más vulnerables.
 
-
 **Competencia específica 5**
 
 5.1 Explicar el papel que han representado las creencias religiosas y las instituciones eclesiásticas en la configuración territorial y política de España y de Francia, considerando críticamente aquellos momentos en los que ha primado la uniformidad y la intolerancia contra las minorías étnicas, religiosas o culturales, así como el anticlericalismo y los procesos de laicización.
@@ -834,20 +806,17 @@ Criterios de evaluación
 
 5.3 Analizar a través del método histórico las grandes reformas estructurales acometidas en ambos países en la construcción de la democracia, identificando los logros y las reacciones antidemocráticas que derivaron en el golpe de Estado de 1936 en España y el colaboracionismo de la Francia de Vichy, aproximándose a la historiografía sobre los sistemas totalitarios y autoritarios y los movimientos sociales de lucha por la libertad.
 
-
 **Competencia específica 6**
 
 6.1 Señalar los retos globales y los principales compromisos de los Estados español y francés en la esfera internacional, así como los que se derivan de su integración en la Unión Europea, a través de procesos de búsqueda, selección y tratamiento de la información, así como del reconocimiento de los valores de la cooperación, la seguridad nacional e internacional, la sostenibilidad, la solidaridad, el europeísmo y el ejercicio de una ciudadanía ética digital.
 
 6.2 Reconocer el valor geoestratégico de España y de Francia, identificando el rico legado histórico y cultural de ambos países, su conexión con procesos históricos relevantes, caracterizando las especificidades y singularidades de su evolución histórica con respecto al resto de Europa, la construcción de estereotipos y la influencia de las relaciones internacionales.
 
-
 **Competencia específica 7**
 
 7.1 Introducir la perspectiva de género en la observación y análisis de la realidad histórica y actual de España y de Francia, identificando los mecanismos de dominación que han generado y mantenido la desigualdad entre hombres y mujeres, así como los roles asignados y los espacios de actividad ocupados tradicionalmente por la mujer.
 
 7.2 Constatar el papel relegado de la mujer en la historia de España y de Francia analizando fuentes literarias y artísticas, incluidas las fuentes orales, valorando las acciones en favor de la emancipación de la mujer y del movimiento feminista y recuperando figuras silenciadas y omitidas, individuales y colectivas, como protagonistas de la historia.
-
 
 **Competencia específica 8**
 
@@ -925,21 +894,17 @@ C. Compromiso cívico:
 
 – Conservación y difusión del patrimonio histórico: El valor patrimonial, social y cultural de la memoria colectiva. Archivos, museos y centros de divulgación e interpretación histórica.
 
-
 **Orientaciones metodológicas y para la evaluación**
 
 La materia de Historia de España y de Francia, configurada desde un enfoque competencial, contiene una serie de premisas metodológicas que es preciso concretar, al objeto de articular adecuadamente las competencias específicas, los criterios de evaluación y los saberes básicos en torno a las situaciones de aprendizaje que, en el marco de la autonomía de los centros educativos y del profesorado, han de programarse y diseñarse. El carácter funcional de los aprendizajes que plantea el currículo, centrado en el análisis, interpretación y comprensión de la realidad actual desde el desarrollo de la conciencia histórica, va orientado al ejercicio del pensamiento crítico, al compromiso cívico y a afrontar los retos del siglo XXI, a través del desarrollo de las competencias específicas que en él se detallan. Implica la puesta en acción de estrategias que promuevan el protagonismo del alumnado en la construcción de sus propios aprendizajes y en la elaboración de conocimientos, incorporando los métodos, habilidades y técnicas del pensamiento histórico, integrando el rigor metodológico y científico de esta disciplina. Para ello resulta necesario abordar las cuestiones y los temas de mayor relevancia en el ámbito historiográfico, así como las que más interés despiertan en la sociedad actual, al objeto de generar juicios y actitudes personales, que le permitan actuar con responsabilidad y participar activamente en el ejercicio de la ciudadanía. Y ello tomando en cuenta el conjunto de experiencias que han conformado la compleja trayectoria histórica de estos dos países en relación y conexión con la de otros territorios y países, que han derivado en el marco constitucional que actualmente definen los modelos de sociedad y de convivencia, dentro del espacio común de la Unión Europea, y que constituyen las raíces del conjunto de identidades que han ido generándose y la fuente del rico patrimonio cultural que atesoran.
-
 
 **Aprendizaje de historia en lengua francesa**
 
 El carácter singular de esta materia, que incorpora el elemento lingüístico en su aprendizaje y que abarca, de manera conjunta, la historia de estos dos países, plantea una serie de condicionantes metodológicos que resulta necesario destacar. La perspectiva lingüística implica no solo disponer de recursos y materiales en lengua francesa y trabajar en situaciones de aprendizaje asociadas a diversos ámbitos de este país, sino también desarrollar métodos y acciones que favorezcan el uso de esta lengua y el fomento del plurilingüismo. El Aprendizaje Integrado de Contenidos de Lenguas Extranjeras (AICLE) promueve la integración de esta lengua a través de su uso activo y contextualizado en las distintas situaciones de aprendizaje, ejercitando constantemente las habilidades comunicativas y las referidas al uso del lenguaje en múltiples niveles. Normalizar el uso de la lengua francesa y promover el plurilingüismo constituyen planteamientos esenciales que tanto el profesorado como el alumnado deben integrar en el desarrollo de esta materia y en las otras que se impartan en el mismo idioma.
 
-
 **Historia comparada de España y Francia**
 
 El aprendizaje conjunto de la historia de dos países genera un marco de aprendizaje que amplía las posibilidades y perspectivas en el aprendizaje de la historia y en el ejercicio de determinadas destrezas relacionadas con las técnicas y métodos del pensamiento histórico. El estudio comparado constituye una de las propuestas más enriquecedoras a la hora de abordar determinados acontecimientos y procesos históricos, permitiendo no solo establecer diferencias y similitudes, señalando las singularidades históricas, sino también las influencias e interferencias, especialmente relevantes en el caso de España y de Francia. La interacción continua en la historia de ambos países permite abordar las relaciones existentes a lo largo de la época contemporánea, tanto desde el punto de vista de las relaciones diplomáticas y oficiales, especialmente relevantes en algunos momentos históricos, como desde otras perspectivas políticas, económicas, sociales y culturales, que amplían el campo de la conexión bilateral y también de las relaciones interfronterizas. Las miradas cruzadas entre los habitantes de uno y otro país y el desarrollo de las distintas identidades que se han ido formando constituyen otro foco de atención del mayor interés, al analizar los estereotipos que se forman y la influencia de las mismas, a través de las imágenes que se construyen del otro. Este cruce de perspectivas amplía, lógicamente, el conjunto de saberes básicos que incorpora el currículo, que es necesario tratar de un modo integrado, en ningún caso acumulativo, centrado en el desarrollo de propuestas que incidan en la comparación, la interacción, la influencia, la conexión interfronteriza, las relaciones bilaterales y el cruce de miradas y de imágenes que han tenido lugar entre España y Francia a lo largo de la época contemporánea.
-
 
 **Pensamiento histórico**
 
@@ -947,41 +912,33 @@ Se conoce como pensamiento histórico el proceso por el que los historiadores y 
 
 La puesta en acción de estrategias asociadas al pensamiento histórico incide en el desarrollo de iniciativas que permitan al alumnado trabajar la multicausalidad, a interpretar las causas y a valorar las consecuencias de determinados hechos y procesos históricos. También al estudio comparado, tanto en el espacio como en el tiempo, relacionando situaciones ocurridas en distintos territorios y también en diferentes momentos en el tiempo, identificando las singularidades y señalando las similitudes, ajustando la pertinencia de establecer modelos explicativos sobre realidades diversas. El estudio del cambio y la continuidad, así como la cronología constituyen un campo de trabajo fundamental para la comprensión de los cambios en el tiempo, la duración, sucesión y simultaneidad en la historia. Esto permite analizar de forma crítica los procesos de corta y larga duración, el ritmo de los cambios, el valor de las estructuras y de las coyunturas, así como los fenómenos de revolución, de resistencia o de reacción. La adopción de miradas o perspectivas múltiples a través del tiempo, facilita la comprensión e interpretación de determinadas cuestiones, que resultan fundamentales para comprender el pasado y el presente. En todo caso, se precisa del empleo de términos y conceptos propios del ámbito científico y disciplinar, incorporando sus connotaciones historiográficas y atendiendo a los significados y valores socioculturales que integran.
 
-
 **Pensamiento crítico y tratamiento de la información**
 
 En la actual sociedad de la información, resultan esenciales las estrategias y habilidades asociadas a su búsqueda, selección y tratamiento, que el alumnado debe ejercitar para procesarla adecuadamente y elaborar por sí mismo el conocimiento. Evitar la desinformación y saber manejar la sobreinformación, así como diferenciar la objetividad de las consideraciones subjetivas, combatiendo las noticias falsas y la manipulación informativa, deben convertirse en centros de atención principal en sus aprendizajes. Generar juicios propios, argumentando sus ideas y puntos de vista individuales, redactando comentarios o artículos de opinión, exponiendo sus tesis y participando en debates, constituyen acciones y actividades necesarias para el desarrollo del pensamiento crítico y la formación de un criterio personal. Debe favorecerse la creación de situaciones de aprendizaje en las que se aborden problemas y retos de interés actual, para que el alumnado, a través del análisis del presente y del pasado, pueda incorporar los valores y actitudes que vienen enmarcados en la cultura democrática y en los principios y normas que establecen las constituciones española y francesa, así como del conjunto de ideas y principios derivados de la Declaración Universal de los Derechos Humanos que motiven su implicación y el ejercicio de la tolerancia y el respeto a las opiniones ajenas.
-
 
 **Metodologías activas**
 
 Las competencias específicas del currículo definen el papel central y activo que debe representar el alumnado con respecto a su aprendizaje, desarrollando un conjunto de procesos y dinámicas que le permitan el aprendizaje autónomo, así como el trabajo en equipo y colaborativo. Los planteamientos didácticos que el profesorado ponga en acción deben fundamentarse en los procesos de indagación e investigación, además de otras propuestas inductivas, a través de iniciativas que permitan la construcción del conocimiento y la resolución de retos y problemas. En el ámbito de la historia, los contextos de aprendizaje quedan ligados al ejercicio del pensamiento histórico, tanto con respecto a las fuentes materiales e inmateriales, como con las técnicas y metodologías históricas. El uso de métodos activos como proyectos, estudios de caso, aprendizaje basado en problemas, aprendizaje basado en retos o aprendizaje-servicio, permiten desarrollar las competencias específicas de esta materia a través de planteamientos inductivos. Los productos elaborados incluyen una amplia diversidad de escenarios y formatos, tanto en la escritura de relatos y narrativas como en la utilización de diferentes medios de expresión y creación, incorporando habilidades y estrategias múltiples, desde el ámbito analógico hasta el relacionado con el entorno digital y audiovisual. Cobran especial importancia las actividades orientadas a la comunicación y la transferencia de la información y del conocimiento, al objeto de conectar los intereses, las necesidades y las oportunidades del entorno real a las actividades de aprendizaje del alumnado, lo que las dotan del carácter funcional y contextualizado que requieren.
 
-
 **Inclusión y Diseño Universal para el Aprendizaje**
 
 El aprendizaje inclusivo exige el diseño y planificación de metodologías y situaciones de aprendizaje que se adapten a todo el alumnado, alineadas con los principios del Diseño Universal para el Aprendizaje (DUA), en las que además de la accesibilidad de los recursos, se establezcan procesos adaptados a los diferentes ritmos y circunstancias personales de aprendizaje del alumnado. Supone la propuesta de situaciones diversas y vías individualizadas, que permitan el seguimiento de itinerarios personalizados en el desarrollo de las distintas iniciativas y proyectos que se pongan en acción. En este sentido, el profesorado procurará el acceso a un amplio conjunto de recursos y materiales, atendiendo tanto a las diferentes inquietudes como a los distintos niveles de autonomía, iniciativa y emprendimiento, facilitando ritmos y procesos acordes con los mismos, permitiendo el ejercicio flexible de destrezas y actitudes, adaptándose a las diferentes motivaciones y capacidades del alumnado. El aprendizaje colaborativo y el apoyo mutuo entre el propio alumnado, facilita el ejercicio de habilidades de socialización, de relación interpersonal y de desarrollo emocional, que resultan esenciales para el ejercicio de la ayuda entre iguales y la formación integral del alumnado.
-
 
 **Situaciones de aprendizaje**
 
 Las situaciones de aprendizaje constituyen la concreción y plasmación de las intenciones educativas que el profesorado debe poner en marcha con el alumnado, identificando cuáles son los objetivos que se propone, señalando las competencias específicas que pretende desarrollar, a través de los criterios de evaluación que seleccione y en torno a unos saberes básicos adecuados a sus propósitos. Las situaciones deben marcar un claro fin educativo y social, contextualizando los aprendizajes que van a llevarse a cabo, confiriéndoles funcionalidad y un evidente significado desde el punto de vista personal y en relación con el entorno, local y global, en el que vive. En función de su duración, el profesorado debe secuenciar las iniciativas y dinámicas que deben realizarse, planteando un escenario flexible y diversificado, en el que puedan llevarse a cabo itinerarios personalizados para alcanzar los resultados marcados y elaborarse los productos que se hayan definido. Se trata de un espacio activo en el que debe favorecerse el ejercicio de procesos, habilidades y destrezas, así como la puesta en acción de actitudes, que permitan el desarrollo competencial del alumnado. Incluye también el marco metodológico de aprendizaje, los recursos que vayan a utilizarse, los espacios en los que se desarrolle la acción educativa, incluida la participación de otros agentes y el modo de organización del trabajo del alumnado, así como la transferencia y difusión de los resultados obtenidos.
 
-
 **Enfoque interdisciplinar**
 
 Conseguir una visión sistémica e integrada de la realidad exige una perspectiva que conecte distintas áreas del conocimiento y permita al alumnado interrelacionar la diversidad de enfoques de un mundo complejo y global. La perspectiva histórica permite interpretar el presente y el pasado desde los múltiples procesos que han venido desarrollándose a lo largo de la época contemporánea y aun desde otros períodos anteriores, aportando comprensión y análisis a un amplio conjunto de fenómenos geográficos, técnicos, científicos, sociales, políticos, literarios, artísticos, filosóficos y culturales, sin cuya mirada resultaría difícil entenderlos en todo su significado. Lo mismo ocurre con la historia, que ha ido integrando en su campo de estudio cada vez más ámbitos de la realidad y que precisa no solo conectarse con otras disciplinas para cubrir un mayor espectro temático, sino también con otras herramientas técnicas y científicas con las que enriquecer los métodos de análisis e investigación histórica. El profesorado debe incluir en sus propuestas educativas este enfoque interdisciplinar, coordinándose con el de otras materias para diseñar y desarrollar conjuntamente situaciones de aprendizaje que incorporen distintas áreas de conocimiento, concretando los elementos curriculares que se trabajarán de manera interrelacionada e integrada. En todo caso, el aprendizaje competencial y la contribución conjunta a los descriptores operativos del Bachillerato, implica el trabajo compartido para la aplicación de técnicas y el ejercicio de destrezas y actitudes que, aunque desde planteamientos diferentes, resultan comunes a las distintas materias que se cursan en este nivel educativo. Dada la especificidad del programa del Bachibac con respecto al uso del francés como lengua de aprendizaje, se debe incidir en la especial coordinación con la materia de Lengua y Literatura francesas, al objeto de que se desarrollen situaciones de aprendizaje en lengua francesa, sin que esto limite la participación de otras materias.
-
 
 **Entornos digitales**
 
 La competencia digital ha adquirido una dimensión transversal y resulta fundamental para el ejercicio de determinados procesos y habilidades en el ámbito de la historia. En la actualidad, el acceso a fuentes de información y documentos, tanto del presente como del pasado, resulta imprescindible a través de los portales y plataformas que ofrecen un amplio conjunto de recursos digitales (hemerográficos, cartográficos, fotográficos, audiovisuales, documentales o estadísticos). El trabajo sobre estos materiales en entornos virtuales, así como el tratamiento de la información y de los datos a través de distintas aplicaciones, utilizando equipos y dispositivos informáticos de manera habitual y normalizada, constituye una realidad ineludible en el ámbito educativo. El trabajo en equipo requiere el acceso y manejo de redes, a través de un espacio de comunicación eficaz y rápido, así como el dominio de plataformas y entornos virtuales. La elaboración de productos requiere también la utilización de programas informáticos y aplicaciones de todo tipo, a la hora de realizar presentaciones, pósteres científicos, podcasts, montajes audiovisuales, imágenes, mapas y esquemas interactivos, maquetas en 3D o escenarios de realidad virtual. También para el manejo de sitios web a través de aplicaciones que permitan trabajar al alumnado en sus propios portfolios digitales. El trabajo en entornos virtuales permite ampliar los espacios de contacto y conexión, por un lado, entre el alumnado y, por otro, con el profesorado, permitiendo el desarrollo de iniciativas más allá del contexto presencial, lo que amplía las posibilidades de trabajo y colaboración.
 
-
 **Conciencia histórica, compromiso cívico y participación social**
 
 La toma de conciencia de los retos a los que se enfrentan las sociedades de España y de Francia, que incluyen los que preocupan a todo el planeta en el contexto global actual, requiere conectar la situación local con los grandes desafíos que nos presentan los Objetivos de Desarrollo Sostenible. Se entiende por conciencia histórica la capacidad de interpretar la evolución en el tiempo para orientar su vida. Adquirir el compromiso con respecto a estas cuestiones claves que afectan a la humanidad en su conjunto y, en particular, a la población de España y de Francia, requiere que los aprendizajes se orienten a ejercitar las actitudes y los valores que incorpora el currículo, relacionando las intenciones educativas del profesorado con los principales retos sociales y ambientales que se presentan en la actualidad. Esto supone contextualizar los aprendizajes en torno a determinados problemas, desde una perspectiva histórica, conectando el presente con el pasado, en ese cruce de perspectivas que activa la toma de conciencia del alumnado en torno a los problemas fundamentales que han venido a marcar la historia de los dos países y que han determinado la realidad presente. Para ello es necesario que las situaciones de aprendizaje estén orientadas, a través de las intenciones educativas que el profesorado establezca, a trabajar sobre estas cuestiones en contextos reales, enfocando desde lo local o lo más cercano, a través de acontecimientos y experiencias concretas, estos grandes desafíos. Implica también proyectar estas situaciones de aprendizaje en el entorno, no solo a través de actividades de comunicación y de difusión, sino generando la posibilidad de actuar y participar, a través de acciones en las que el alumnado pueda expresar y ejercitar su compromiso cívico.
-
 
 **La evaluación en la materia Historia de España y de Francia**
 
@@ -989,11 +946,9 @@ La evaluación debe reflejar en todo momento los presupuestos metodológicos que
 
 La evaluación debe facilitar al alumnado procesos constantes de reflexión, de autoevaluación y coevaluación, que le permitan tomar conciencia de sus procesos de aprendizaje, incorporar el error como modo de orientar sus iniciativas y valorar su grado de rendimiento y la calidad de sus resultados y productos. Este nivel de metacognición, en el que el alumnado toma conciencia de las competencias adquiridas, del sentido, utilidad y significado de las acciones que lleva a cabo, así como de su nivel de rendimiento y la calidad del trabajo realizado, resulta esencial para su desarrollo personal y su preparación para el aprendizaje permanente. También para el profesorado resulta fundamental llevar a cabo procesos de evaluación continua, no solo del alumnado, sino de su propia práctica, valorando a lo largo del desarrollo de las situaciones de aprendizaje la efectividad de sus propuestas, así como el resultado de sus intervenciones con el alumnado, para ir adaptando sus iniciativas y acciones a las demandas y necesidades que van surgiendo. En este escenario, su labor de orientar los aprendizajes resulta esencial, al replantear las direcciones e itinerarios del alumnado, sin penalizar el error y buscando la constante mejora y la superación de las dificultades. De ahí que la evaluación deba incorporar la perspectiva de personalización, inclusión, y universalización de los aprendizajes. También resulta fundamental su papel motivador, poniendo especial atención a la competencia emocional, al favorecer un clima que permita al alumnado desarrollar sus talentos y aptitudes, así como conseguir un mayor rendimiento y fomentar el esfuerzo orientado al logro y a la autorrealización personal.»
 
-
 #### Disposición final primera. Calendario de implantación.
 
 Lo dispuesto en esta orden se implantará para primer curso de Bachillerato en el año académico 2022-2023, y para segundo de Bachillerato, en el curso 2023-2024.
-
 
 #### Disposición final segunda. Entrada en vigor.
 

@@ -53,8 +53,6 @@ Mapa web
 
 Contacto
 
-Versión texto
-
 Inicio
 
 Archivo
@@ -71,13 +69,7 @@ Año 2005
 
 2005/059. Miércoles 23 de Marzo de 2005
 
-377
-
-<p>Menú de búsqueda y navegación</p>
-
 Siguiente
-
-BOC Nº 059. Miércoles 23 de Marzo de 2005 - 377
 
 I. DISPOSICIONES GENERALES - Consejería de Economía y Hacienda
 
@@ -104,9 +96,3 @@ EL CONSEJERO DE
 ECONOMÍA Y HACIENDA,
 
 José Carlos Mauricio Rodríguez.
-
-© Gobierno de Canarias
-
-Aviso Legal
-
-Sugerencias y Reclamaciones

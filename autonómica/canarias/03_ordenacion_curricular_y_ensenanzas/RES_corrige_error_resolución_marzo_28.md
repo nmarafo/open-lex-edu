@@ -35,9 +35,6 @@ fuente_pdf_oficial: https://sede.gobiernodecanarias.org/boc/boc-a-2026-080-1342.
 
 # Resolución de 17 de abril de 2026, que corrige error en la Resolución de 26 de marzo de 2026, por la que se amplían la Resolución de 30 de octubre de 2024, que dicta instrucciones y orientaciones par la implantación y desarrollo de los grados de formación D y E, a partir del curso escolar 2024/2025, y se establece la distribución horaria y modular de los currículos; y la Resolución de 21 de febrero de 2025, que dicta instrucciones para la implantación de los itinerarios formativos de Formación Profesional Adaptada y el desarrollo de los currículos de los módulos de carácter general a partir del curso escolar 2024/2025, en el ámbito de la Comunidad Autónoma de Canarias (BOC n.º 70, de 13.4.2026).
 
-https://sede.gobiernodecanarias.org/boc
-boc-a-2026-080-1342
-Boletín Oficial de Canarias núm. 80 Lunes 27 de abril de 202615366
 III. Otras Resoluciones
 Consejería de Educación, Formación Profesional, Actividad Física y Deportes
 1342 Dirección General de Formación Profesional y Enseñanzas de Régimen Especial.- 
@@ -80,9 +77,6 @@ Segundo.- Según dispone la Ley 40/2015, de 1 de octubre, de Régimen Jurídico 
 Sector Público, en su artículo 6, “los órganos administrativos podrán dirigir las actividades 
 de sus órganos jerárquicamente dependientes mediante instrucciones y órdenes de servicio”.
 
-https://sede.gobiernodecanarias.org/boc
-boc-a-2026-080-1342
-Boletín Oficial de Canarias núm. 80 Lunes 27 de abril de 202615367
 En su virtud, y en uso de las competencias que tengo conferidas en base a lo dispuesto 
 en el artículo 19 del Decreto 212/1991, de 11 de septiembre, de organización de los 
 Departamentos de la Administración Autonómica de Canarias, y en el artículo 20 del 
@@ -109,9 +103,6 @@ interponer.
 Las Palmas de Gran Canaria, a 17 de abril de 2026.- La Directora General de Formación 
 Profesional y Enseñanzas de Régimen Especial, Carolina León Martínez.
 
-https://sede.gobiernodecanarias.org/boc
-boc-a-2026-080-1342
-Boletín Oficial de Canarias núm. 80 Lunes 27 de abril de 202615368
 ANEXO III
 FAMILIA PROFESIONAL: AGRARIA
 ITINERARIO FORMATIVO DE FORMACIÓN PROFESIONAL ADAPTADA

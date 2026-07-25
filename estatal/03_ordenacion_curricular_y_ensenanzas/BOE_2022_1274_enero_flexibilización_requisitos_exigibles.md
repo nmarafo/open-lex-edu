@@ -67,16 +67,13 @@ Del mismo modo, durante el procedimiento de elaboración de la norma, se ha perm
 
 En su virtud, a propuesta de la Ministra de Educación y Formación Profesional, con la aprobación previa de la Ministra de Hacienda y Función Pública, de acuerdo con el Consejo de Estado, y previa deliberación del Consejo de Ministros en su reunión del día 25 de enero de 2022,
 
-
 **DISPONGO:**
-
 
 #### Artículo 1. Objeto y ámbito de aplicación.
 
 1. Este real decreto tiene por objeto flexibilizar los requisitos para impartir ofertas de formación profesional conducentes a la obtención de títulos de formación profesional, certificados de profesionalidad y otras ofertas formativas vinculadas al Catálogo Nacional de Cualificaciones Profesionales, de acuerdo con lo establecido en la Ley Orgánica 5/2002, de 19 de junio, de las Cualificaciones y de la Formación Profesional. Asimismo, tiene por objeto avanzar en la ampliación y flexibilización de la oferta de formación profesional.
 
 2. Esta norma será de aplicación a los centros, de naturaleza pública o privada, debidamente autorizados, que ofertan títulos de formación profesional, certificados de profesionalidad, y otras ofertas formativas vinculadas al Catálogo Nacional de cualificaciones Profesionales.
-
 
 #### Artículo 2. Flexibilización de requisitos de los centros para impartir certificados de profesionalidad y otras acciones formativas vinculadas al Catálogo Nacional de Cualificaciones Profesionales.
 
@@ -88,16 +85,13 @@ En su virtud, a propuesta de la Ministra de Educación y Formación Profesional,
 
 4. Las administraciones competentes establecerán los cauces necesarios de coordinación para promover la eficacia y eficiencia en la planificación y desarrollo de la oferta de formación profesional, mediante la utilización de los centros del sistema de formación profesional previstos en el Real Decreto 34/2008, de 18 de enero, por el que se regulan los certificados de profesionalidad, junto a los centros de la administración pública que imparten enseñanzas de formación profesional y, en su caso, centros privados autorizados, debidamente acreditados en el ámbito de la Formación Profesional para el Empleo.
 
-
 #### Artículo 3. Flexibilización de requisitos de los espacios, instalaciones y equipamientos requeridos para la impartición de certificados de profesionalidad.
 
 Los espacios y equipamientos especificados por la administración educativa competente en el establecimiento del currículo de los títulos de formación profesional y cursos de especialización como requisitos para la impartición, se considerarán adecuados y suficientes para la impartición de los certificados de profesionalidad, y otras acciones formativas de formación profesional para el empleo en las que se acrediten, total o parcialmente, las mismas cualificaciones profesionales incluidas en dichos títulos o cursos de especialización.
 
-
 #### Artículo 4. Flexibilización de requisitos de los formadores de certificados de profesionalidad.
 
 Podrán impartir módulos formativos de certificados de profesionalidad y otras acciones formativas vinculadas al Catálogo Nacional de Cualificaciones Profesionales, además de los previstos en el Real Decreto 34/2008, de 18 de enero, por el que se regulan los certificados de profesionalidad, el profesorado del sistema educativo, teniendo en cuenta la correspondencia de las unidades de competencia asociadas a los módulos profesionales, y recogidas expresamente en las normas reguladoras de cada título de formación profesional, o certificado de profesionalidad, de acuerdo con lo establecido en el artículo 8 y en la disposición adicional primera de la Ley Orgánica 5/2002, de 19 de junio, con los módulos profesionales para su convalidación, así como la atribución docente de dichos módulos profesionales.
-
 
 #### Artículo 5. Flexibilización de la oferta formativa de títulos de formación profesional.
 
@@ -115,20 +109,15 @@ Podrán impartir módulos formativos de certificados de profesionalidad y otras 
 
 7. Los certificados de formación profesional y certificados de competencia tendrán validez en todo el territorio nacional. Las administraciones competentes comunicarán, a efectos registrales y mediante los procedimientos que se determinen, la estructura y contenidos de estos certificados, así como los datos de las personas que obtengan dichas certificaciones. En el caso de las ofertas de certificados parciales de competencia, serán certificables y tendrán validez en el ámbito de la correspondiente administración educativa. La superación de todos los certificados parciales de competencia que constituyen un módulo profesional dará derecho a la certificación del mismo y a la obtención de un certificado de competencia, y tendrá valor en todo el territorio nacional.
 
-
 #### Disposición final primera. Título competencial.
 
 Este real decreto se dicta con carácter general en virtud de las competencias que se atribuyen al Estado en el artículo 149.1.7.ª y 30.ª, primer inciso, de la Constitución Española, que atribuyen al Estado las competencias sobre «legislación laboral, sin perjuicio de su ejecución por los órganos de las Comunidades Autónomas» y «regulación de las condiciones de obtención, expedición y homologación de títulos académicos y profesionales», respectivamente, salvo el artículo 5 que se dicta al amparo del artículo 149.1.30.ª y tiene carácter básico.
-
 
 #### Disposición final segunda. Desarrollo normativo.
 
 Se autoriza a la titular del Ministerio de Educación y Formación Profesional para dictar cuantas disposiciones sean precisas para el desarrollo de este real decreto.
 
-
 #### Disposición final tercera. Entrada en vigor.
-
-El presente real decreto entrará en vigor el día siguiente al de su publicación en el «Boletín Oficial del Estado».
 
 Dado en el Consulado General de España en San Juan de Puerto Rico, el 25 de enero de 2022.
 

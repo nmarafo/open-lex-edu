@@ -56,8 +56,6 @@ Mapa web
 
 Contacto
 
-Versión texto
-
 Inicio
 
 Archivo
@@ -73,12 +71,6 @@ Archivo
 Año 1992
 
 1992/018. Jueves 6 de Febrero de 1992
-
-125
-
-<p>Menú de búsqueda y navegación</p>
-
-BOC Nº 018. Jueves 6 de Febrero de 1992 - 125
 
 III. OTRAS RESOLUCIONES - C.Trabajo
 
@@ -365,8 +357,6 @@ SB + A + C
 +
 
 PL
-
-1650
 
 (Nd* 7.5)
 
@@ -2405,9 +2395,3 @@ Programador*. Sudirector.
 NOTA: todas las cuantías son anuales.
 
                                                                                                                           
-
-© Gobierno de Canarias
-
-Aviso Legal
-
-Sugerencias y Reclamaciones

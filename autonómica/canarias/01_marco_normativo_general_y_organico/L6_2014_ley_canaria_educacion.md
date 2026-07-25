@@ -46,10 +46,8 @@ fuente_pdf_oficial: https://sede.gobiernodecanarias.org/boc/boc-a-2014-152-3511.
 
 # Ley 6/2014, de 25 de julio, Canaria de Educación no Universitaria.
 
-Boletín Oficial de Canarias núm. 152
 https://sede.gobcan.es/cpji/boc
 Jueves 7 de agosto de 2014
-21118
 I. Disposiciones generales
 Presidencia del Gobierno
 3511  LEY 5/2014, de 25 de julio, de Fomento y Consolidación del Emprendimiento, el 
@@ -86,13 +84,9 @@ las asociaciones representativas del colectivo, a las organizaciones empresarial
 les y a otras instituciones, como la universidad.
 Los Estados Unidos de América aprobaron la “Small Business Act” en 1953 para apoyar 
 a los pequeños empresarios.
-boc-a-2014-152-3511
 
-
-Boletín Oficial de Canarias núm. 152
 https://sede.gobcan.es/cpji/boc
 Jueves 7 de agosto de 2014
-21119
 La Unión Europea aprobó la Ley de la Pequeña Empresa de la UE en 2008, que denomi­
 nó “Small Business Act for Europe”.
 El Reino de España aprobó el 19 de septiembre de 2013 la Ley de Apoyo a los Empren­
@@ -128,13 +122,9 @@ y el desarrollo económico y social.
 18. Seguridad Social, excepto su régimen económico.
 La Ley de Fomento y Consolidación del Emprendimiento, el Trabajo Autónomo y las Pymes 
 en la Comunidad Autónoma de Canarias pretende fomentar el espíritu emprendedor y promover 
-boc-a-2014-152-3511
 
-
-Boletín Oficial de Canarias núm. 152
 https://sede.gobcan.es/cpji/boc
 Jueves 7 de agosto de 2014
-21120
 la creación y consolidación de estas empresas, a través de un sistema de incentivos económicos 
 y fiscales y la simplificación administrativa que reduzca las trabas burocráticas injustificadas.
 La presente ley se estructura en un título preliminar y cuatro títulos, algunos de ellos 
@@ -170,13 +160,9 @@ DISPOSICIONES GENERALES
 Artículo 1.- Objeto.
 La presente ley tiene por objeto la promoción de la actividad emprendedora mediante el 
 fomento y apoyo al trabajo autónomo, así como la creación y consolidación de las pymes.
-boc-a-2014-152-3511
 
-
-Boletín Oficial de Canarias núm. 152
 https://sede.gobcan.es/cpji/boc
 Jueves 7 de agosto de 2014
-21121
 Artículo 2.- Ámbito de aplicación.
 La presente ley será de aplicación a las personas físicas y jurídicas que desarrollen su 
 actividad empresarial o profesional principal y tengan su domicilio social y fiscal en el terri­
@@ -212,13 +198,9 @@ Artículo 4.- Principios.
 Son principios inspiradores de la presente ley:
 a) El reconocimiento del emprendimiento y la labor del trabajador autónomo como prin­
 cipal agente en la creación de riqueza y en la generación de empleo.
-boc-a-2014-152-3511
 
-
-Boletín Oficial de Canarias núm. 152
 https://sede.gobcan.es/cpji/boc
 Jueves 7 de agosto de 2014
-21122
 b) La obligación del Gobierno de Canarias de apoyar y fomentar el trabajo autónomo y 
 el emprendimiento.
 c) La necesidad de establecer una regulación propia para el emprendimiento y el trabajo 
@@ -251,13 +233,9 @@ g) Mejorar el acceso y la adaptación a las nuevas tecnologías de la informaci�
 municación entre los emprendedores y los trabajadores autónomos.
 h) Facilitar la conciliación de la vida laboral, familiar y personal de los emprendedores y 
 los trabajadores autónomos.
-boc-a-2014-152-3511
 
-
-Boletín Oficial de Canarias núm. 152
 https://sede.gobcan.es/cpji/boc
 Jueves 7 de agosto de 2014
-21123
 i) Prevenir y reducir los accidente laborales.
 j) Agilizar los trámites administrativos y disminuir las barreras burocráticas.
 k) Potenciar los servicios de conciliación, mediación y arbitraje para la resolución de 
@@ -287,13 +265,9 @@ Artículo 8.- Microempresas, pequeñas y medianas empresas.
 volumen de negocio anual que no supere los 2 millones de euros.
 2. Se considera pequeña empresa la que tiene más de 10 y menos de 50 trabajadores o 
 trabajadoras y un volumen de negocio anual que no supere los 10 millones de euros.
-boc-a-2014-152-3511
 
-
-Boletín Oficial de Canarias núm. 152
 https://sede.gobcan.es/cpji/boc
 Jueves 7 de agosto de 2014
-21124
 3. Se considera mediana empresa la que tiene más de 50 y menos de 250 trabajadores 
 o trabajadoras y un volumen de negocio anual que no supere los 50 millones de euros y su 
 balance no supere los 43 millones de euros.
@@ -326,13 +300,9 @@ f) Promover la educación en los valores de responsabilidad social que debe cara
 el papel del empresariado en la creación de empleo y como motor de la actividad económica, 
 así como en aquellos valores que caracterizan la actividad emprendedora.
 Artículo 10.- Enseñanza universitaria.
-boc-a-2014-152-3511
 
-
-Boletín Oficial de Canarias núm. 152
 https://sede.gobcan.es/cpji/boc
 Jueves 7 de agosto de 2014
-21125
 El Gobierno de Canarias, con el máximo respeto a la autonomía universitaria, promoverá 
 con las universidades públicas que operan en Canarias, y especialmente con la Universidad 
 de La Laguna y la Universidad de Las Palmas de Gran Canaria, convenios de colaboración 
@@ -369,13 +339,9 @@ res que deseen iniciar una nueva actividad empresarial, adaptadas a sus especial
 tancias, a fin de favorecer una segunda oportunidad.
 Artículo 13.- Formación, fortalecimiento y desarrollo de habilidades directivas en 
 las pymes.
-boc-a-2014-152-3511
 
-
-Boletín Oficial de Canarias núm. 152
 https://sede.gobcan.es/cpji/boc
 Jueves 7 de agosto de 2014
-21126
 El Gobierno de Canarias, en colaboración con las Cámaras Oficiales de Comercio de 
 Canarias, las asociaciones empresariales, las asociaciones de trabajadores autónomos, las 
 organizaciones sindicales y las empresas especializadas, impulsará acciones formativas, de 
@@ -412,13 +378,9 @@ Artículo 17.- Informe de impacto empresarial.
 1. Con carácter previo a cualquier nueva regulación o norma, el Gobierno de Canarias 
 realizará un informe de evaluación del impacto en la constitución, puesta en marcha y fun­
 cionamiento de las empresas.
-boc-a-2014-152-3511
 
-
-Boletín Oficial de Canarias núm. 152
 https://sede.gobcan.es/cpji/boc
 Jueves 7 de agosto de 2014
-21127
 2. Este informe será preceptivo en el procedimiento de elaboración de las disposiciones 
 de carácter general y deberá remitirse, en todo caso, al Parlamento con los proyectos de ley.
 3. El informe de impacto empresarial analizará si la disposición de carácter general distorsio na 
@@ -453,13 +415,9 @@ Artículo 20.- Morosidad de las administraciones públicas canarias y del sector
 blico canario.
 1. Son administraciones públicas canarias, a los efectos de esta ley, las de la Comunidad 
 Autónoma de Canarias.
-boc-a-2014-152-3511
 
-
-Boletín Oficial de Canarias núm. 152
 https://sede.gobcan.es/cpji/boc
 Jueves 7 de agosto de 2014
-21128
 2. El sector público canario lo constituyen las administraciones públicas canarias, los 
 organismos autónomos adscritos a ellas, las empresas públicas participadas por las admi ­
 nistraciones públicas o sus organismos autónomos en un porcentaje superior al 50% y las 
@@ -497,13 +455,9 @@ Artículo 23.- Precios públicos y tasas municipales.
 Locales, los ayuntamientos podrán fijar, por razón de interés público, precios públicos infe­
 riores al coste incurrido en los servicios que prestan para los emprendedores y emprendedo­
 ras, sean personas físicas o microempresas.
-boc-a-2014-152-3511
 
-
-Boletín Oficial de Canarias núm. 152
 https://sede.gobcan.es/cpji/boc
 Jueves 7 de agosto de 2014
-21129
 2. El Gobierno de Canarias establecerá una línea de subvenciones que compense los 
 gastos en los que incurran los emprendedores y emprendedoras, sean personas físicas o mi­
 croempresas, con motivo del pago de las tasas locales, establecidas por los ayuntamientos y 
@@ -540,13 +494,9 @@ Artículo 25.- Inversores privados o business angels.
 llas personas físicas que adquieren participaciones minoritarias en microempresas, pequeñas 
 y medianas empresas de nueva creación o apoyen el crecimiento y la diversificación de las 
 ya existentes, no solo con capital sino con su propia experiencia  empresarial.
-boc-a-2014-152-3511
 
-
-Boletín Oficial de Canarias núm. 152
 https://sede.gobcan.es/cpji/boc
 Jueves 7 de agosto de 2014
-21130
 2. Se entiende por redes de business angels aquellas organizaciones cuya finalidad es 
 agrupar inversores privados y que realizan una labor de intermediación entre los mismos y 
 las microempresas, pequeñas y medianas empresas que necesitan recursos para su puesta en 
@@ -578,13 +528,9 @@ c) Proponer medidas de simplificación administrativa que faciliten la puesta en
 el funcionamiento de las nuevas actividades económicas.
 d) Evaluar periódicamente la carga administrativa que soportan los trabajadores autóno­
 mos y pymes canarias, en relación con el resto del Estado.
-boc-a-2014-152-3511
 
-
-Boletín Oficial de Canarias núm. 152
 https://sede.gobcan.es/cpji/boc
 Jueves 7 de agosto de 2014
-21131
 CAPÍTULO II
 COMPOSICIÓN Y ORGANIZACIÓN
 Artículo 28.- Composición.
@@ -612,13 +558,9 @@ Primera.
 El Gobierno de Canarias creará el Consejo de Apoyo al Emprendimiento, al Trabajo 
 Autónomo y a las Pymes Canarias en el plazo máximo de tres meses a partir de la entrada 
 en vigor de esta ley.
-boc-a-2014-152-3511
 
-
-Boletín Oficial de Canarias núm. 152
 https://sede.gobcan.es/cpji/boc
 Jueves 7 de agosto de 2014
-21132
 Segunda.
 El Gobierno de Canarias remitirá al Consejo de Apoyo al Emprendimiento, al Trabajo 
 Autónomo y a las Pymes Canarias el plan al que se refiere el artículo 19 de la presente ley 
@@ -649,5 +591,3 @@ Por tanto, mando a los ciudadanos y a las autoridades que la cumplan y la hagan 
 Santa Cruz de Tenerife, a 25 de julio de 2014.
 EL PRESIDENTE,
 Paulino Rivero Baute.
-boc-a-2014-152-3511
-

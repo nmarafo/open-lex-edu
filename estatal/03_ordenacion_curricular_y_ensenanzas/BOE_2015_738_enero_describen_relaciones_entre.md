@@ -77,13 +77,11 @@ En la tramitación de esta norma ha sido consultada la Conferencia de Educación
 
 En su virtud, y de acuerdo con el Consejo de Estado, dispongo:
 
-
 #### Artículo 1. Objeto y ámbito de aplicación.
 
 1. El objeto de esta orden es describir las relaciones entre las competencias y los contenidos y criterios de evaluación de la Educación Primaria, la Educación Secundaria Obligatoria y el Bachillerato, de acuerdo con lo indicado por la disposición adicional trigésima quinta de la Ley Orgánica 2/2006, de 3 de mayo, de Educación.
 
 2. Esta orden será de aplicación en todo el territorio.
-
 
 #### Artículo 2. Las competencias clave en el Sistema Educativo Español.
 
@@ -103,11 +101,9 @@ f) Sentido de iniciativa y espíritu emprendedor.
 
 g) Conciencia y expresiones culturales.
 
-
 #### Artículo 3. Descripción de las competencias clave en el Sistema Educativo Español.
 
 La descripción de las competencias clave en el Sistema Educativo Español se recoge en el anexo I.
-
 
 #### Artículo 4. Las competencias clave y los objetivos de las etapas.
 
@@ -116,7 +112,6 @@ La descripción de las competencias clave en el Sistema Educativo Español se re
 2. La relación de las competencias clave con los objetivos de las etapas educativas hace necesario diseñar estrategias para promover y evaluar las competencias desde las etapas educativas iniciales e intermedias hasta su posterior consolidación en etapas superiores, que llevarán a los alumnos y alumnas a desarrollar actitudes y valores, así como un conocimiento de base conceptual y un uso de técnicas y estrategias que favorecerán su incorporación a la vida adulta y que servirán de cimiento para su aprendizaje a lo largo de su vida.
 
 3. La adquisición eficaz de las competencias clave por parte del alumnado y su contribución al logro de los objetivos de las etapas educativas, desde un carácter interdisciplinar y transversal, requiere del diseño de actividades de aprendizaje integradas que permitan avanzar hacia los resultados de aprendizaje de más de una competencia al mismo tiempo.
-
 
 #### Artículo 5. Las competencias clave en el currículo.
 
@@ -134,11 +129,9 @@ La descripción de las competencias clave en el Sistema Educativo Español se re
 
 7. Todas las áreas y materias deben contribuir al desarrollo competencial. El conjunto de estándares de aprendizaje evaluables de las diferentes áreas o materias que se relacionan con una misma competencia da lugar al perfil de esa competencia (perfil de competencia). La elaboración de este perfil facilitará la evaluación competencial del alumnado.
 
-
 #### Artículo 6. Estrategias metodológicas para trabajar por competencias en el aula.
 
 En el anexo II se indican algunas orientaciones para facilitar el desarrollo de estrategias metodológicas que permitan trabajar por competencias en el aula.
-
 
 #### Artículo 7. La evaluación de las competencias clave.
 
@@ -160,13 +153,11 @@ En todo caso, los distintos procedimientos de evaluación utilizables, como la o
 
 7. Las evaluaciones externas de fin de etapa previstas en la Ley Orgánica 8/2013, de 9 de diciembre, para la Mejora de Calidad Educativa (LOMCE), tendrán en cuenta, tanto en su diseño como en su evaluación los estándares de aprendizaje evaluable del currículo.
 
-
 #### Disposición final primera. Título competencial.
 
 1. Esta orden tiene carácter básico.
 
 2. Esta orden se dicta al amparo del artículo 149.1.30ª de la Constitución, que atribuye al Estado las competencias para la regulación de las condiciones de obtención, expedición y homologación de los títulos académicos y profesionales y normas básicas para el desarrollo del artículo 27 de la Constitución, a fin de garantizar el cumplimiento de las obligaciones de los poderes públicos en esta materia.
-
 
 #### Disposición final segunda. Ejecución y desarrollo.
 
@@ -174,10 +165,7 @@ En todo caso, los distintos procedimientos de evaluación utilizables, como la o
 
 2. Se habilita a la persona titular de la Secretaría de Estado de Educación, Formación Profesional y Universidades para dictar, en el ámbito de sus competencias, cuantas resoluciones e instrucciones sean precisas para la ejecución y desarrollo de lo establecido en esta orden.
 
-
 #### Disposición final tercera. Entrada en vigor.
-
-La presente orden entrará en vigor el día siguiente al de su publicación en el Boletín Oficial del Estado.
 
 Madrid, 21 de enero de 2015.–El Ministro de Educación, Cultura y Deporte, José Ignacio Wert Ortega.
 

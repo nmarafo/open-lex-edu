@@ -32,9 +32,6 @@ fuente_pdf_oficial: https://sede.gobiernodecanarias.org/boc/boc-a-2026-043-703.p
 
 # Resolución de 25 de febrero de 2026, de la Dirección General de Formación Profesional y Enseñanzas de Régimen Especial por la que se dictan instrucciones para la implantación y desarrollo del módulo profesional optativo en las ofertas formativas de Grados D, niveles 2 (ciclos formativos de grado medio) y 3 (ciclos formativos de grado superior), a partir del curso escolar 2026/2027, en la Comunidad Autónoma de Canarias (BOC n.º 43, de 4 de marzo).
 
-https://sede.gobiernodecanarias.org/boc
-boc-a-2026-043-703
-Boletín Oficial de Canarias núm. 43 Miércoles 4 de marzo de 20268027
 III. Otras Resoluciones
 Consejería de Educación, Formación Profesional, Actividad Física y Deportes
 703 Dirección General de Formación Profesional y Enseñanzas de Régimen Especial.- 
@@ -78,9 +75,6 @@ formativos de grado medio y superior, configurándola como un módulo destinado 
 adquisición de competencias transversales o a la ampliación de la formación general del 
 alumnado, contribuyendo a su empleabilidad.
 
-https://sede.gobiernodecanarias.org/boc
-boc-a-2026-043-703
-Boletín Oficial de Canarias núm. 43 Miércoles 4 de marzo de 20268028
 Tercero.- La Resolución de 30 de octubre de 2024, de la Dirección General de 
 Formación Profesional y Enseñanzas de Régimen Especial, por la que se dictan las 
 instrucciones y orientaciones para la implantación y desarrollo de los grados D y E, 
@@ -126,9 +120,6 @@ Quinto.- Los Reales Decretos 497/2024, 498/2024, 499/2024 y 500/2024, de 21 de
 mayo, por los que se modifican determinados reales decretos por los que se establecen 
 títulos de Formación Profesional de grado básico, medio y superior, así como de Cursos de 
 
-https://sede.gobiernodecanarias.org/boc
-boc-a-2026-043-703
-Boletín Oficial de Canarias núm. 43 Miércoles 4 de marzo de 20268029
 Especialización, establecen en sus respectivos anexos la atribución docente de los módulos 
 profesionales de diversas familias profesionales.
 Sexto.- La Resolución de 27 de junio de 2025, de la Secretaría General de Formación 
@@ -167,9 +158,6 @@ Segundo.- Encomendar a la Inspección de Educación el asesoramiento sobre aquel
 aspectos específicos que le soliciten los equipos directivos de los centros docentes, así como 
 la supervisión del cumplimiento por los centros de lo dictado en la presente Resolución y, 
 
-https://sede.gobiernodecanarias.org/boc
-boc-a-2026-043-703
-Boletín Oficial de Canarias núm. 43 Miércoles 4 de marzo de 20268030
 en especial, respecto a la selección de los bloques formativos o módulos profesionales 
 completos.
 Tercero.- Ordenar la publicación de la presente Resolución en el Boletín Oficial de 
@@ -184,9 +172,6 @@ Oficial de Canarias, sin perjuicio de cualesquiera otros que se estime procedent
 Las Palmas de Gran Canaria, a 25 de febrero de 2026.- La Directora General de 
 Formación Profesional y Enseñanzas de Régimen Especial, Carolina León Martínez.
 
-https://sede.gobiernodecanarias.org/boc
-boc-a-2026-043-703
-Boletín Oficial de Canarias núm. 43 Miércoles 4 de marzo de 20268031
 ANEXO I
 INSTRUCCIONES PARA LA IMPLANTACIÓN Y DESARROLLO DEL MÓDULO 
 PROFESIONAL OPTATIVO EN LAS OFERTAS FORMATIV AS DE GRADO D, NIVELES 2 
@@ -224,9 +209,6 @@ Los módulos correspondientes a los apartados a) y b) serán de oferta obligator
 módulo al que se refiere el apartado c) será de oferta voluntaria por los centros del Sistema 
 de Formación Profesional.
 
-https://sede.gobiernodecanarias.org/boc
-boc-a-2026-043-703
-Boletín Oficial de Canarias núm. 43 Miércoles 4 de marzo de 20268032
 5. El centro ofertará, para cada ciclo formativo, entre un mínimo de dos y un máximo 
 de cinco módulos optativos, siguiendo los criterios de la Tabla 1.
 Tabla 1. OFERTA DEL MÓDULO PROFESIONAL OPTATIVO
@@ -289,9 +271,6 @@ conjunta coincidirá con el número de grupos destinatarios. Para superar dicho 
 será necesaria autorización expresa de la Dirección General de Formación Profesional y 
 Enseñanzas de Régimen Especial, previa solicitud motivada del centro educativo.
 
-https://sede.gobiernodecanarias.org/boc
-boc-a-2026-043-703
-Boletín Oficial de Canarias núm. 43 Miércoles 4 de marzo de 20268033
 e) El alumnado de los ciclos formativos participantes se distribuirá entre los módulos 
 optativos escogidos, hasta alcanzar, en cada caso, la ratio máxima establecida por la 
 Dirección General de Formación Profesional y Enseñanzas de Régimen Especial (en 
@@ -333,9 +312,6 @@ MEFPD.
 Autónoma de Canarias, una duración superior a 96 horas. Para la configuración del nuevo 
 módulo, se seleccionarán los RA necesarios hasta alcanzar un total de 96 horas.
 
-https://sede.gobiernodecanarias.org/boc
-boc-a-2026-043-703
-Boletín Oficial de Canarias núm. 43 Miércoles 4 de marzo de 20268034
 • A título de ejemplo:
 CAN-0653A. Gestión financiera.
 (Se seleccionan Resultados de aprendizaje hasta sumar 96 horas).
@@ -375,9 +351,6 @@ los módulos optativos son las establecidas en el Anexo II de las presentes inst
 conforme a lo dispuesto en los Reales Decretos 497/2024, 498/2024, 499/2024 y 500/2024, 
 por los que se modifican determinados reales decretos en el ámbito de Formación 
 
-https://sede.gobiernodecanarias.org/boc
-boc-a-2026-043-703
-Boletín Oficial de Canarias núm. 43 Miércoles 4 de marzo de 20268035
 Profesional; así como las establecidas en la Resolución de 27 de junio de 2025, de la 
 Secretaría General de Formación Profesional ( SGFP), por la que se establece el repertorio 
 de módulos profesionales optativos de formación profesional para el ámbito de gestión del 
@@ -421,9 +394,6 @@ realidad social, cultural y económica del archipiélago.
 responder a las necesidades específicas del sector productivo de la Comunidad Autónoma 
 de Canarias, priorizando los ámbitos de elevada demanda o que requieran de un alto nivel 
 
-https://sede.gobiernodecanarias.org/boc
-boc-a-2026-043-703
-Boletín Oficial de Canarias núm. 43 Miércoles 4 de marzo de 20268036
 de especialización. Asimismo, deberán guardar coherencia con la formación en materia 
 de prevención de riesgos laborales prevista en los distintos convenios colectivos de los 
 sectores implicados, garantizando su adecuación a los requerimientos del mercado laboral 
@@ -457,9 +427,6 @@ optativos de diseño propio. Conforme a las funciones atribuidas por la Resoluci
 de 10 de junio, deberá verificar que las propuestas elaboradas por los departamentos 
 didácticos, de su familia profesional, cumplan los requisitos establecidos en la presente 
 
-https://sede.gobiernodecanarias.org/boc
-boc-a-2026-043-703
-Boletín Oficial de Canarias núm. 43 Miércoles 4 de marzo de 20268037
 Resolución y deberá canalizar su remisión a la administración educativa. A tal efecto, 
 deberá presentar desde su centro coordinador la relación íntegra de la propuesta de la 
 familia profesional, conforme al Anexo VI, así como la propuesta de cada uno de los 
@@ -501,9 +468,6 @@ formación.
 3. El desarrollo curricular de este módulo se recoge en el Anexo VII de la presente 
 Resolución.
 
-https://sede.gobiernodecanarias.org/boc
-boc-a-2026-043-703
-Boletín Oficial de Canarias núm. 43 Miércoles 4 de marzo de 20268038
 Séptima.- Convalidación del módulo profesional optativo entre diferentes títulos 
 de formación profesional de grado medio y superior.
 1. Para la convalidación de un módulo profesional optativo deberá hacerse constar 
@@ -552,9 +516,6 @@ de convalidación en otro ciclo formativo de grado medio, siempre que ambos pert
 a la misma familia profesional.
 En tal caso, se trasladará la calificación obtenida al nuevo módulo.
 
-https://sede.gobiernodecanarias.org/boc
-boc-a-2026-043-703
-Boletín Oficial de Canarias núm. 43 Miércoles 4 de marzo de 20268039
 b) Una vez superado el módulo Inglés profesional, código 0179, o Inglés profesional 
 II (GS), código CAN-1712, en un ciclo formativo de grado superior, podrá ser objeto de 
 convalidación el módulo de Inglés profesional II (GM) en un ciclo formativo de grado 
@@ -593,9 +554,6 @@ En estos casos, la convalidación quedará registrada en todos los documentos de
 evaluación como “convalidado” (CV), sin calificación numérica y no computará a efectos 
 de cálculo de la nota media del título.
 
-https://sede.gobiernodecanarias.org/boc
-boc-a-2026-043-703
-Boletín Oficial de Canarias núm. 43 Miércoles 4 de marzo de 20268040
 5. Convalidación del módulo profesional optativo de diseño propio.
 • En ningún caso se considerará convalidado el módulo profesional optativo cuando la 
 formación aportada corresponda a un módulo de diseño propio.
@@ -634,9 +592,6 @@ Octava.- Reconocimiento del módulo profesional optativo con formación no forma
 solicitudes de reconocimiento de formación no formal realizada por el alumnado, a efectos 
 de la superación total o parcial del módulo profesional optativo.
 
-https://sede.gobiernodecanarias.org/boc
-boc-a-2026-043-703
-Boletín Oficial de Canarias núm. 43 Miércoles 4 de marzo de 20268041
 2. Se entenderá por formación no formal todo proceso formativo estructurado que no 
 conduzca a una titulación, acreditación o certificación oficial.
 3. El procedimiento de reconocimiento se desarrollará en el centro educativo conforme 
@@ -674,9 +629,6 @@ e) Contra las resoluciones de reconocimiento podrán interponerse recurso de alz
 ante la Dirección Territorial que corresponda, en los plazos y términos previstos en la 
 Ley 39/2015, de 1 de octubre.
 
-https://sede.gobiernodecanarias.org/boc
-boc-a-2026-043-703
-Boletín Oficial de Canarias núm. 43 Miércoles 4 de marzo de 20268042
 4. Una vez que sea firme la resolución emitida por la dirección del centro educativo, y 
 de conformidad con lo dispuesto en la misma, el resultado del reconocimiento se trasladará 
 a los documentos oficiales de evaluación, consignándose:
@@ -695,9 +647,6 @@ la solicitud deberá presentarse dentro de los diez días siguientes a la formal
 matrícula, atendiendo a la necesidad de asegurar la correcta planificación y seguimiento 
 académico.
 
-boc-a-2026-043-703
-Boletín Oficial de Canarias núm. 43 Miércoles 4 de marzo de 20268043
-https://sede.gobiernodecanarias.org/boc
 ANEXO II
 Catálogo de módulos profesionales optativos
 Familia profesional Módulo profesional / Resultados de aprendizaje (RA) Currículo Especialidad del profesorado
@@ -743,9 +692,6 @@ Resolución • Educación Física
 ANEXO II
 CATÁLOGO DE MÓDULOS PROFESIONALES OPTATIVOS
 
-boc-a-2026-043-703
-Boletín Oficial de Canarias núm. 43 Miércoles 4 de marzo de 20268044
-https://sede.gobiernodecanarias.org/boc
 Familia profesional Módulo profesional / Resultados de aprendizaje (RA) Currículo Especialidad del profesorado
 Administración
 y Gestión
@@ -796,9 +742,6 @@ núm. 167, 12/07/2025
 • Procesos de Gestión
 Administrativa
 
-boc-a-2026-043-703
-Boletín Oficial de Canarias núm. 43 Miércoles 4 de marzo de 20268045
-https://sede.gobiernodecanarias.org/boc
 Familia profesional Módulo profesional / Resultados de aprendizaje (RA) Currículo Especialidad del profesorado
 Agraria
 CAN-0476A. Producción agrícola 
@@ -906,9 +849,6 @@ Real Decreto 175/2013, de
 • Procesos y Productos en
 Artes Gráficas
 
-boc-a-2026-043-703
-Boletín Oficial de Canarias núm. 43 Miércoles 4 de marzo de 20268046
-https://sede.gobiernodecanarias.org/boc
 Familia profesional Módulo profesional / Resultados de aprendizaje (RA) Currículo Especialidad del profesorado
 RA1 (45 h), RA2 (43 h), RA3 (43 h), RA4 (28 h), RA5 (43 h)
 Familia profesional Módulo profesional / Resultados de aprendizaje (RA) Currículo Especialidad del profesorado
@@ -951,9 +891,6 @@ Real Decreto 175/2013, de
 • Procesos y Productos en
 Artes Gráficas
 
-boc-a-2026-043-703
-Boletín Oficial de Canarias núm. 43 Miércoles 4 de marzo de 20268047
-https://sede.gobiernodecanarias.org/boc
 Familia profesional Módulo profesional / Resultados de aprendizaje (RA) Currículo Especialidad del profesorado
 Comercio y 
 Marketing
@@ -1017,9 +954,6 @@ Real Decreto 555/2012, de
 • Organización y Gestión
 Comercial
 
-boc-a-2026-043-703
-Boletín Oficial de Canarias núm. 43 Miércoles 4 de marzo de 20268048
-https://sede.gobiernodecanarias.org/boc
 Familia profesional Módulo profesional / Resultados de aprendizaje (RA) Currículo Especialidad del profesorado
 Edificación y
 Obra Civil
@@ -1077,9 +1011,6 @@ Real Decreto 1689/2011, de
 • Oficina de Proyectos de
 Construcción
 
-boc-a-2026-043-703
-Boletín Oficial de Canarias núm. 43 Miércoles 4 de marzo de 20268049
-https://sede.gobiernodecanarias.org/boc
 Familia profesional Módulo profesional / Resultados de aprendizaje (RA) Currículo Especialidad del profesorado
 Electricidad y 
 Electrónica
@@ -1140,9 +1071,6 @@ de 2025, de la SGFP, BOE
 núm. 167, 12/07/2025
 • Equipos Electrónicos
 
-boc-a-2026-043-703
-Boletín Oficial de Canarias núm. 43 Miércoles 4 de marzo de 20268050
-https://sede.gobiernodecanarias.org/boc
 Familia profesional Módulo profesional / Resultados de aprendizaje (RA) Currículo Especialidad del profesorado
 CAN-1052A. Equipos microprogramables  
 (Se seleccionan Resultados de aprendizaje hasta sumar 96 h)
@@ -1171,9 +1099,6 @@ Automáticos
 • Instalaciones
 Electrotécnicas
 
-boc-a-2026-043-703
-Boletín Oficial de Canarias núm. 43 Miércoles 4 de marzo de 20268051
-https://sede.gobiernodecanarias.org/boc
 Familia profesional Módulo profesional / Resultados de aprendizaje (RA) Currículo Especialidad del profesorado
 Energía y Agua
 CAN-0123. Representación gráfica de instalaciones
@@ -1236,9 +1161,6 @@ Real Decreto 177/2008, de
 • Instalaciones
 Electrotécnicas
 
-boc-a-2026-043-703
-Boletín Oficial de Canarias núm. 43 Miércoles 4 de marzo de 20268052
-https://sede.gobiernodecanarias.org/boc
 Familia profesional Módulo profesional / Resultados de aprendizaje (RA) Currículo Especialidad del profesorado
 Fabricación 
 Mecánica
@@ -1263,9 +1185,6 @@ Real Decreto 174/2008, de
 • Organización y Proyectos
 de Fabricación Mecánica
 
-boc-a-2026-043-703
-Boletín Oficial de Canarias núm. 43 Miércoles 4 de marzo de 20268053
-https://sede.gobiernodecanarias.org/boc
 Familia profesional Módulo profesional / Resultados de aprendizaje (RA) Currículo Especialidad del profesorado
 Hostelería y 
 Turismo
@@ -1310,9 +1229,6 @@ núm. 167, 12/07/2025
 • Servicios en Restauración
 • Procesos Comerciales
 
-boc-a-2026-043-703
-Boletín Oficial de Canarias núm. 43 Miércoles 4 de marzo de 20268054
-https://sede.gobiernodecanarias.org/boc
 Familia profesional Módulo profesional / Resultados de aprendizaje (RA) Currículo Especialidad del profesorado
 Imagen
 Personal
@@ -1371,9 +1287,6 @@ núm. 167, 12/07/2025
 • Asesoría y Procesos de
 Imagen Personal
 
-boc-a-2026-043-703
-Boletín Oficial de Canarias núm. 43 Miércoles 4 de marzo de 20268055
-https://sede.gobiernodecanarias.org/boc
 Familia profesional Módulo profesional / Resultados de aprendizaje (RA) Currículo Especialidad del profesorado
 Imagen y
 Sonido
@@ -1422,9 +1335,6 @@ Comunicación
 • Técnicas y Procedimientos
 de Imagen y Sonido
 
-boc-a-2026-043-703
-Boletín Oficial de Canarias núm. 43 Miércoles 4 de marzo de 20268056
-https://sede.gobiernodecanarias.org/boc
 Familia profesional Módulo profesional / Resultados de aprendizaje (RA) Currículo Especialidad del profesorado
 Industrias 
 Alimentarias
@@ -1473,9 +1383,6 @@ Real Decreto 1575/2011, de
 • Oficina de Proyectos de
 Construcción
 
-boc-a-2026-043-703
-Boletín Oficial de Canarias núm. 43 Miércoles 4 de marzo de 20268057
-https://sede.gobiernodecanarias.org/boc
 Familia profesional Módulo profesional / Resultados de aprendizaje (RA) Currículo Especialidad del profesorado
 Informática y 
 Comunicaciones
@@ -1528,9 +1435,6 @@ núm. 167, 12/07/2025
 • Sistemas y Aplicaciones
 Informáticas
 
-boc-a-2026-043-703
-Boletín Oficial de Canarias núm. 43 Miércoles 4 de marzo de 20268058
-https://sede.gobiernodecanarias.org/boc
 Familia profesional Módulo profesional / Resultados de aprendizaje (RA) Currículo Especialidad del profesorado
 Instalación y 
 Mantenimiento
@@ -1593,9 +1497,6 @@ de Sistemas Energéticos
 • Análisis y Química
 Industrial
 
-boc-a-2026-043-703
-Boletín Oficial de Canarias núm. 43 Miércoles 4 de marzo de 20268059
-https://sede.gobiernodecanarias.org/boc
 Familia profesional Módulo profesional / Resultados de aprendizaje (RA) Currículo Especialidad del profesorado
 Madera, Mueble
 y Corcho
@@ -1647,9 +1548,6 @@ Real Decreto 127/2014, de
 • Fabricación e instalación de
 carpintería y mueble
 
-boc-a-2026-043-703
-Boletín Oficial de Canarias núm. 43 Miércoles 4 de marzo de 20268060
-https://sede.gobiernodecanarias.org/boc
 Familia profesional Módulo profesional / Resultados de aprendizaje (RA) Currículo Especialidad del profesorado
 Marítimo Pesquera
 CAN-0706A. Instalaciones y equipos de cultivo
@@ -1695,9 +1593,6 @@ de Sistemas Energéticos
 • Sistemas Electrotécnicos y
 Automáticos
 
-boc-a-2026-043-703
-Boletín Oficial de Canarias núm. 43 Miércoles 4 de marzo de 20268061
-https://sede.gobiernodecanarias.org/boc
 Familia profesional Módulo profesional / Resultados de aprendizaje (RA) Currículo Especialidad del profesorado
 Química
 CAN-0065A. Muestreo y preparación de la muestra 
@@ -1762,9 +1657,6 @@ Ortoprotésico
 • Laboratorio
 • Operaciones de Procesos
 
-boc-a-2026-043-703
-Boletín Oficial de Canarias núm. 43 Miércoles 4 de marzo de 20268062
-https://sede.gobiernodecanarias.org/boc
 Familia profesional Módulo profesional / Resultados de aprendizaje (RA) Currículo Especialidad del profesorado
 Sanidad
 CAN-0332. Atención psicosocial
@@ -1837,9 +1729,6 @@ núm. 167, 12/07/2025
 • Procedimientos Sanitarios y
 Asistenciales
 
-boc-a-2026-043-703
-Boletín Oficial de Canarias núm. 43 Miércoles 4 de marzo de 20268063
-https://sede.gobiernodecanarias.org/boc
 Familia profesional Módulo profesional / Resultados de aprendizaje (RA) Currículo Especialidad del profesorado
 CAN-1816. Dermocosmética capilar y facial 
 (Se imparte el módulo completo)
@@ -1898,9 +1787,6 @@ Real Decreto 283/2019, de
 Clínicos y Productos
 Ortoprotésicos
 
-boc-a-2026-043-703
-Boletín Oficial de Canarias núm. 43 Miércoles 4 de marzo de 20268064
-https://sede.gobiernodecanarias.org/boc
 Familia profesional Módulo profesional / Resultados de aprendizaje (RA) Currículo Especialidad del profesorado
 RA1 (25 h), RA2 (25 h), RA3 (45 h), RA4 (35 h), RA5 (35 h), RA6 (37 h)
 CAN-1701A.  Control  de  organismos  nocivos  en  piscinas  y  otras  instalaciones 
@@ -1930,9 +1816,6 @@ Ortoprotésicos.
 • Análisis y Química
 Industrial
 
-boc-a-2026-043-703
-Boletín Oficial de Canarias núm. 43 Miércoles 4 de marzo de 20268065
-https://sede.gobiernodecanarias.org/boc
 Familia profesional Módulo profesional / Resultados de aprendizaje (RA) Currículo Especialidad del profesorado
 Servicios 
 Socioculturales y a 
@@ -1999,9 +1882,6 @@ dependientes
 • Para ofertarse en el CFGM Atención a Personas en Situación de 
 Dependencia
 
-boc-a-2026-043-703
-Boletín Oficial de Canarias núm. 43 Miércoles 4 de marzo de 20268066
-https://sede.gobiernodecanarias.org/boc
 Familia profesional Módulo profesional / Resultados de aprendizaje (RA) Currículo Especialidad del profesorado
 (Se imparte el módulo completo)
 • Para ofertarse en el CFGS Promoción en Igualdad de Género
@@ -2058,9 +1938,6 @@ estar habilitado por la DGT, según la
 Orden de 18 de junio de 1998 del  
 Ministerio de Interior )
 
-boc-a-2026-043-703
-Boletín Oficial de Canarias núm. 43 Miércoles 4 de marzo de 20268067
-https://sede.gobiernodecanarias.org/boc
 Familia profesional Módulo profesional / Resultados de aprendizaje (RA) Currículo Especialidad del profesorado
 Textil, Confección 
 y Piel
@@ -2112,9 +1989,6 @@ RA1 (80 h), RA2 (96 h), RA3 (96 h), RA4 (96 h)
 Real Decreto 127/2014, de 
 28 de febrero • Patronaje y Confección
 
-boc-a-2026-043-703
-Boletín Oficial de Canarias núm. 43 Miércoles 4 de marzo de 20268068
-https://sede.gobiernodecanarias.org/boc
 Familia profesional Módulo profesional / Resultados de aprendizaje (RA) Currículo Especialidad del profesorado
 Transporte y 
 Mantenimiento de 
@@ -2183,9 +2057,6 @@ Automáticos
 colaborador en el sector
 productivo de las definidas
 
-boc-a-2026-043-703
-Boletín Oficial de Canarias núm. 43 Miércoles 4 de marzo de 20268069
-https://sede.gobiernodecanarias.org/boc
 Familia profesional Módulo profesional / Resultados de aprendizaje (RA) Currículo Especialidad del profesorado
 en el artículo 11 del Real 
 Decreto 500/2024, de 21 de 
@@ -2234,9 +2105,6 @@ formativo en el que se
 imparta este módulo,
 excepto Inglés
 
-https://sede.gobiernodecanarias.org/boc
-boc-a-2026-043-703
-Boletín Oficial de Canarias núm. 43 Miércoles 4 de marzo de 20268070
 ANEXO III
 CURRÍCULO BÁSICO DEL MÓDULO PROFESIONAL DE INGLÉS PROFESIONAL II 
 (GRADO MEDIO)
@@ -2271,9 +2139,6 @@ e) Se ha identificado la idea principal de un texto descartando las ideas secund
 f) Se han identificado las estructuras gramaticales y demás elementos característicos de 
 cada tipología discursiva además del vocabulario propio del texto.
 
-https://sede.gobiernodecanarias.org/boc
-boc-a-2026-043-703
-Boletín Oficial de Canarias núm. 43 Miércoles 4 de marzo de 20268071
 g) Se han realizado traducciones de textos en lengua estándar utilizando material de 
 apoyo en caso necesario.
 3. Emite mensajes orales sencillos, interpretando las normas lingüísticas en 
@@ -2308,9 +2173,6 @@ gramaticales y lingüísticos.
 d) Se han realizado resúmenes de textos, identificando las ideas principales de los 
 mismos.
 
-https://sede.gobiernodecanarias.org/boc
-boc-a-2026-043-703
-Boletín Oficial de Canarias núm. 43 Miércoles 4 de marzo de 20268072
 e) Se han cumplimentado textos y documentación específica, aplicando las fórmulas 
 establecidas y el vocabulario adecuado.
 f) Se ha escrito correspondencia formal básica en formato físico o digital.
@@ -2332,9 +2194,6 @@ f) Se ha mantenido una conversación sobre aspectos relacionados con la cultura 
 país de la lengua extranjera.
 g) Se ha contrastado la cultura del país de la lengua extranjera con la de otros países.
 
-https://sede.gobiernodecanarias.org/boc
-boc-a-2026-043-703
-Boletín Oficial de Canarias núm. 43 Miércoles 4 de marzo de 20268073
 ANEXO IV
 CURRÍCULO BÁSICO DEL MÓDULO PROFESIONAL DE INGLÉS PROFESIONAL II 
 (GRADO SUPERIOR)
@@ -2368,9 +2227,6 @@ explícitos en textos orales.
 c) Se ha reconocido la finalidad de los mensajes emitidos en cualquier soporte, en 
 diferentes contextos, en lengua estándar.
 
-https://sede.gobiernodecanarias.org/boc
-boc-a-2026-043-703
-Boletín Oficial de Canarias núm. 43 Miércoles 4 de marzo de 20268074
 d) Se ha extraído información específica contenida en distintos discursos orales en 
 lengua estándar.
 e) Se ha identificado el propósito comunicativo de los elementos del discurso oral.
@@ -2406,9 +2262,6 @@ mensaje, así como protocolos y normas de relación social propios del país.
 b) Se han efectuado presentaciones sobre cualquier tema, haciendo uso de los protocolos 
 establecidos.
 
-https://sede.gobiernodecanarias.org/boc
-boc-a-2026-043-703
-Boletín Oficial de Canarias núm. 43 Miércoles 4 de marzo de 20268075
 c) Se han usado marcadores lingüísticos de relaciones sociales, normas de cortesía y 
 diferentes registros en la emisión de mensajes orales según el grado de formalidad.
 d) Se ha planificado el mensaje y se ha recopilado información sobre un tema en lengua 
@@ -2443,9 +2296,6 @@ a) Se ha participado en una conversación con personas nativas con relativa flui
 b) Se ha comunicado con relativa seguridad con interlocutores de habla inglesa, 
 utilizando medios audiovisuales/telemáticos.
 
-https://sede.gobiernodecanarias.org/boc
-boc-a-2026-043-703
-Boletín Oficial de Canarias núm. 43 Miércoles 4 de marzo de 20268076
 c) Se ha desenvuelto con espontaneidad en una conversación y/o entrevista de trabajo, 
 adoptando el nivel de formalidad adecuado a las circunstancias.
 d) Se ha pedido la repetición de parte de un mensaje para cerciorarse de la comprensión 
@@ -2456,9 +2306,6 @@ g) Se ha mantenido correspondencia formal e informal con interlocutores de lengu
 extranjera.
 h) Se ha comprendido la correspondencia, captando fácilmente el significado esencial.
 
-boc-a-2026-043-703
-Boletín Oficial de Canarias núm. 43 Miércoles 4 de marzo de 20268077
-https://sede.gobiernodecanarias.org/boc
 ANEXO V
 MÓDULO PROFESIONAL OPTATIVO DE DISEÑO PROPIO
 FAMILIA PROFESIONAL:
@@ -2476,9 +2323,6 @@ En ________________, a  ____ de ________________ de _____
 (Firma Jefatura de Departamento)
 ANEXO V
 
-boc-a-2026-043-703
-Boletín Oficial de Canarias núm. 43 Miércoles 4 de marzo de 20268078
-https://sede.gobiernodecanarias.org/boc
 ANEXO VI
 MÓDULOS PROFESIONALES OPTATIVOS DE DISEÑO PROPIO QUE SE OFERTAN POR 
 FAMILIA PROFESIONAL
@@ -2496,9 +2340,6 @@ En ________________, a  ____ de ________________ de _____
 (Firma docente que ejerce la prospección y coordinación)
 ANEXO VI
 
-https://sede.gobiernodecanarias.org/boc
-boc-a-2026-043-703
-Boletín Oficial de Canarias núm. 43 Miércoles 4 de marzo de 20268079
 ANEXO VII
 CURRÍCULO DEL MÓDULO JUEGOS Y DEPORTES TRADICIONALES 
 DE CANARIAS
@@ -2536,9 +2377,6 @@ biomecánicos.
 e) Se han identificado las habilidades motrices básicas y específicas requeridas en los 
 Juegos y Deportes Tradicionales de Canarias.
 
-https://sede.gobiernodecanarias.org/boc
-boc-a-2026-043-703
-Boletín Oficial de Canarias núm. 43 Miércoles 4 de marzo de 20268080
 RA 3. Diseña programas y progresiones didácticas para la enseñanza y recreación 
 de los Juegos y Deportes Tradicionales de Canarias, justificando la metodología y 
 adaptaciones en función del perfil de los participantes.
@@ -2576,9 +2414,6 @@ medidas de prevención y seguridad.
 b) Se han analizado los materiales propios de cada práctica tradicional, valorando 
 criterios de sostenibilidad en la selección de recursos.
 
-https://sede.gobiernodecanarias.org/boc
-boc-a-2026-043-703
-Boletín Oficial de Canarias núm. 43 Miércoles 4 de marzo de 20268081
 c) Se han determinado los recursos materiales, humanos y espaciales necesarios, 
 asegurando su disponibilidad y condiciones de seguridad y accesibilidad.
 d) Se han justificado los procedimientos de conservación, mantenimiento de uso y 
@@ -2614,9 +2449,6 @@ movimientos específicos.
 • Requerimientos de la condición física aplicados a los Juegos y Deportes Tradicionales 
 de Canarias.
 
-https://sede.gobiernodecanarias.org/boc
-boc-a-2026-043-703
-Boletín Oficial de Canarias núm. 43 Miércoles 4 de marzo de 20268082
 • Análisis de las técnicas fundamentales en los Juegos y Deportes Tradicionales de 
 Canarias.
 • Ejercicios de acondicionamiento físico elemental y específico para cada Juegos y 

@@ -33,9 +33,6 @@ fuente_pdf_oficial: https://sede.gobiernodecanarias.org/boc/boc-a-2026-046-752.p
 
 # Resolución de 27 de febrero de 2026, por la que se corrige error en la Resolución de 5 de febrero de 2026, que convoca el procedimiento de admisión del alumnado en centros docentes que oferten enseñanzas de Educación Infantil, Educación Primaria, Educación Secundaria Obligatoria, Bachillerato y Educación de Personas Adultas sostenidos con fondos públicos, para el curso escolar 2026-2027, en la Comunidad Autónoma de Canarias, corregida por Resolución de 18 de febrero de 2026 (BOC núm. 37, de 24 de febrero).
 
-https://sede.gobiernodecanarias.org/boc
-boc-a-2026-046-752
-Boletín Oficial de Canarias núm. 46 Lunes 9 de marzo de 20268605
 III. Otras Resoluciones
 Consejería de Educación, Formación Profesional, Actividad Física y Deportes
 752 Dirección General de Administración de Centros, Escolarización y Servicios 

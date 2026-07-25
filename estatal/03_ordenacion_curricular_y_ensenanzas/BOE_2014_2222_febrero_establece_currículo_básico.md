@@ -67,14 +67,11 @@ En la tramitación de este real decreto ha emitido dictamen el Consejo Escolar d
 
 En su virtud, a propuesta del Ministro de Educación, Cultura y Deporte, de acuerdo con el Consejo de Estado, y previa deliberación del Consejo de Ministros en su reunión del día 28 de febrero de 2014,
 
-
 **DISPONGO:**
-
 
 #### Artículo 1. Objeto.
 
 El presente real decreto tiene por objeto establecer el currículo básico de la Educación Primaria.
-
 
 #### Artículo 2. Definiciones.
 
@@ -113,7 +110,6 @@ g) Metodología didáctica: conjunto de estrategias, procedimientos y acciones o
 Para una adquisición eficaz de las competencias y su integración efectiva en el currículo, deberán diseñarse actividades de aprendizaje integradas que permitan al alumnado avanzar hacia los resultados de aprendizaje de más de una competencia al mismo tiempo.
 
 Se potenciará el desarrollo de las competencias Comunicación lingüística, Competencia matemática y competencias básicas en ciencia y tecnología.
-
 
 #### Artículo 3. Distribución de competencias.
 
@@ -155,23 +151,19 @@ c) Dentro de la regulación y límites establecidos por las Administraciones edu
 
 Los centros docentes desarrollarán y complementarán, en su caso, el currículo de las diferentes etapas y ciclos en uso de su autonomía.
 
-
 #### Artículo 4. Asignaturas troncales.
 
 Los contenidos comunes, los criterios de evaluación y los estándares de aprendizaje evaluables de las áreas troncales de la Educación Primaria se recogen en el anexo I.
 
-
 #### Artículo 5. Asignaturas específicas.
 
 Los criterios de evaluación y los estándares de aprendizaje evaluables de las áreas específicas de la Educación Primaria se recogen en el anexo II.
-
 
 #### Artículo 6. Principios generales.
 
 La finalidad de la Educación Primaria es facilitar a los alumnos y alumnas los aprendizajes de la expresión y comprensión oral, la lectura, la escritura, el cálculo, la adquisición de nociones básicas de la cultura, y el hábito de convivencia así como los de estudio y trabajo, el sentido artístico, la creatividad y la afectividad, con el fin de garantizar una formación integral que contribuya al pleno desarrollo de la personalidad de los alumnos y alumnas y de prepararlos para cursar con aprovechamiento la Educación Secundaria Obligatoria.
 
 La acción educativa en esta etapa procurará la integración de las distintas experiencias y aprendizajes del alumnado y se adaptará a sus ritmos de trabajo.
-
 
 #### Artículo 7. Objetivos de la Educación Primaria.
 
@@ -204,7 +196,6 @@ l) Conocer y valorar los animales más próximos al ser humano y adoptar modos d
 m) Desarrollar sus capacidades afectivas en todos los ámbitos de la personalidad y en sus relaciones con los demás, así como una actitud contraria a la violencia, a los prejuicios de cualquier tipo y a los estereotipos sexistas.
 
 n) Fomentar la educación vial y actitudes de respeto que incidan en la prevención de los accidentes de tráfico.
-
 
 #### Artículo 8. Organización.
 
@@ -248,7 +239,6 @@ Entre las áreas a determinar, las Administraciones educativas y en su caso los 
 
 6. Con el fin de facilitar la transición desde la Educación Primaria a la Educación Secundaria Obligatoria, se prestará una especial atención a la coordinación entre ambas etapas para salvar las diferencias pedagógicas y organizativas y los desajustes que se puedan producir en el progreso académico del alumnado, para lo que se tendrá en cuenta, entre otros mecanismos, el informe indicativo del nivel obtenido en la evaluación final de etapa.
 
-
 #### Artículo 9. Proceso de aprendizaje y atención individualizada.
 
 1. En esta etapa se pondrá especial énfasis en la atención a la diversidad del alumnado, en la atención individualizada, en la prevención de las dificultades de aprendizaje y en la puesta en práctica de mecanismos de refuerzo tan pronto como se detecten estas dificultades.
@@ -262,7 +252,6 @@ Entre las áreas a determinar, las Administraciones educativas y en su caso los 
 5. La intervención educativa debe contemplar como principio la diversidad del alumnado, entendiendo que de este modo se garantiza el desarrollo de todos ellos a la vez que una atención personalizada en función de las necesidades de cada uno.
 
 6. Los mecanismos de refuerzo que deberán ponerse en práctica tan pronto como se detecten dificultades de aprendizaje podrán ser tanto organizativos como curriculares. Entre estas medidas podrán considerarse el apoyo en el grupo ordinario, los agrupamientos flexibles o las adaptaciones del currículo.
-
 
 #### Artículo 10. Elementos transversales.
 
@@ -286,7 +275,6 @@ Los currículos de Educación Primaria incorporarán elementos curriculares rela
 
 6. En el ámbito de la educación y la seguridad vial, las Administraciones educativas incorporarán elementos curriculares y promoverán acciones para la mejora de la convivencia y la prevención de los accidentes de tráfico, con el fin de que el alumnado conozca sus derechos y deberes como usuario de las vías, en calidad de peatón, viajero y conductor de bicicletas, respete las normas y señales, y se favorezca la convivencia, la tolerancia, la prudencia, el autocontrol, el diálogo y la empatía con actuaciones adecuadas tendentes a evitar los accidentes de tráfico y sus secuelas.
 
-
 #### Artículo 11. Promoción.
 
 1. El alumno o alumna accederá al curso o etapa siguiente siempre que se considere que ha logrado los objetivos de la etapa o los que correspondan al curso realizado, y que ha alcanzado el grado de adquisición de las competencias correspondientes. De no ser así, podrá repetir una sola vez durante la etapa, con un plan específico de refuerzo o recuperación y apoyo, que será organizado por los centros docentes de acuerdo con lo que establezcan las Administraciones educativas.
@@ -296,7 +284,6 @@ La repetición se considerará una medida de carácter excepcional y se tomará 
 2. El equipo docente adoptará las decisiones correspondientes sobre la promoción del alumnado tomando especialmente en consideración la información y el criterio del profesor tutor.
 
 Se atenderá especialmente a los resultados de las evaluaciones individualizadas de tercer curso de Educación Primaria y final de Educación Primaria.
-
 
 #### Artículo 12. Evaluaciones.
 
@@ -328,7 +315,6 @@ El nivel obtenido por cada alumno o alumna se hará constar en un informe, que s
 
 Las Administraciones educativas podrán establecer planes específicos de mejora en aquellos centros públicos cuyos resultados sean inferiores a los valores que, a tal objeto, hayan establecido. En relación con los centros concertados se estará a la normativa reguladora del concierto correspondiente.
 
-
 #### Artículo 13. Aprendizaje de lenguas extranjeras.
 
 1. Las Administraciones educativas podrán establecer que una parte de las asignaturas del currículo se impartan en lenguas extranjeras sin que ello suponga modificación de los aspectos básicos del currículo regulados en el presente real decreto. En este caso, procurarán que a lo largo de la etapa el alumnado adquiera la terminología propia de las asignaturas en ambas lenguas.
@@ -338,7 +324,6 @@ Las Administraciones educativas podrán establecer planes específicos de mejora
 3. La lengua castellana o la lengua cooficial solo se utilizarán como apoyo en el proceso de aprendizaje de la lengua extranjera. Se priorizarán la comprensión y la expresión oral.
 
 Se establecerán medidas de flexibilización y alternativas metodológicas en la enseñanza y evaluación de la lengua extranjera para el alumnado con discapacidad, en especial para aquél que presenta dificultades en su expresión oral. Estas adaptaciones en ningún caso se tendrán en cuenta para minorar las calificaciones obtenidas.
-
 
 #### Artículo 14. Alumnado con necesidades específicas de apoyo educativo.
 
@@ -372,7 +357,6 @@ Se tendrá en consideración el ritmo y estilo de aprendizaje del alumnado que p
 
 Quienes presenten un desfase en su nivel de competencia curricular de más de dos años podrán ser escolarizados en el curso inferior al que les correspondería por edad. Para este alumnado se adoptarán las medidas de refuerzo necesarias que faciliten su integración escolar y la recuperación de su desfase y le permitan continuar con aprovechamiento sus estudios. En el caso de superar dicho desfase, se incorporarán al curso correspondiente a su edad.
 
-
 #### Artículo 15. Autonomía de los centros docentes.
 
 1. Las Administraciones educativas fomentarán la autonomía pedagógica y organizativa de los centros, favorecerán el trabajo en equipo del profesorado y estimularán la actividad investigadora a partir de su práctica docente.
@@ -381,16 +365,13 @@ Quienes presenten un desfase en su nivel de competencia curricular de más de do
 
 3. Los centros promoverán, asimismo, compromisos con las familias y con los propios alumnos y alumnas en los que se especifiquen las actividades que unos y otros se comprometen a desarrollar para facilitar el progreso educativo.
 
-
 #### Artículo 16. Participación de padres, madres y tutores legales en el proceso educativo.
 
 De conformidad con lo establecido en el artículo 4.2.e) de la Ley Orgánica 8/1985, de 3 de julio, reguladora del Derecho a la Educación, los padres, madres o tutores legales deberán participar y apoyar la evolución del proceso educativo de sus hijos o tutelados, así como conocer las decisiones relativas a la evaluación y promoción, y colaborar en las medidas de apoyo o refuerzo que adopten los centros para facilitar su progreso educativo, y tendrán acceso a los documentos oficiales de evaluación y a los exámenes y documentos de las evaluaciones que se realicen a sus hijos o tutelados.
 
-
 #### Disposición adicional primera. Adaptación de referencias.
 
 Las referencias realizadas por la normativa vigente a las asignaturas de Educación Primaria se entenderán realizadas a las asignaturas correspondientes recogidas en este real decreto.
-
 
 #### Disposición adicional segunda. Enseñanzas de religión.
 
@@ -402,11 +383,9 @@ Las referencias realizadas por la normativa vigente a las asignaturas de Educaci
 
 4. La evaluación de la enseñanza de la religión se realizará de acuerdo con lo indicado en el artículo 12 de este real decreto.
 
-
 #### Disposición adicional tercera. Sistema de préstamos de libros de texto.
 
 El Ministerio de Educación, Cultura y Deporte promoverá el préstamo gratuito de libros de texto y otros materiales curriculares para la educación básica en los centros sostenidos con fondos públicos, en el seno de la Conferencia Sectorial de Educación.
-
 
 #### Disposición adicional cuarta. Documentos oficiales de evaluación.
 
@@ -462,7 +441,6 @@ El expediente electrónico del alumno estará constituido, al menos, por los dat
 
 El Ministerio de Educación, Cultura y Deporte, previa consulta a las Comunidades Autónomas, establecerá la estructura y formato de, al menos, los datos contenidos en los documentos oficiales de evaluación del expediente electrónico del alumno descritos en la presente disposición, de acuerdo con lo previsto en el artículo 111.bis y en el apartado 4 de la disposición adicional vigesimotercera de la Ley Orgánica 2/2006, de 3 de mayo,que junto con otros garanticen la interoperabilidad entre los distintos sistemas de información utilizados en el Sistema Educativo Español.
 
-
 #### Disposición adicional quinta. Evaluación final de la asignatura Lengua Cooficial y Literatura.
 
 1. La asignatura Lengua Cooficial y Literatura deberá ser evaluada en la evaluación final de la etapa, y se tendrá en cuenta para el cálculo de la nota obtenida en dicha evaluación final en la misma proporción que la asignatura Lengua Castellana y Literatura.
@@ -471,13 +449,11 @@ El Ministerio de Educación, Cultura y Deporte, previa consulta a las Comunidade
 
 3. Estarán exentos de la realización de estas pruebas los alumnos y alumnas que estén exentos de cursar o de ser evaluados de la asignatura Lengua Cooficial y Literatura, según la normativa autonómica correspondiente.
 
-
 #### Disposición adicional sexta. Calendario escolar.
 
 1. El calendario escolar, que fijarán anualmente las Administraciones educativas, comprenderá un mínimo de 175 días lectivos para las enseñanzas obligatorias.
 
 2. En cualquier caso, en el cómputo del calendario escolar se incluirán los días dedicados a las evaluaciones de tercer curso y final de Educación Primaria.
-
 
 #### Disposición adicional séptima. Acciones informativas y de sensibilización.
 
@@ -489,30 +465,23 @@ El Ministerio de Educación, Cultura y Deporte, previa consulta a las Comunidade
 
 4. Estas actuaciones informativas y de sensibilización se desarrollarán mediante la organización en los centros docentes, fuera del horario escolar, de conferencias, seminarios, talleres y todo tipo de actividades, adaptadas a la etapa evolutiva de los alumnos.
 
-
 #### Disposición derogatoria única. Derogación normativa.
 
 A partir de la total implantación de las modificaciones indicadas en la disposición final primera, quedará derogado el Real Decreto 1513/2006, de 7 de diciembre, por el que se establecen las enseñanzas mínimas de la Educación Primaria.
-
 
 #### Disposición final primera. Calendario de implantación.
 
 Las modificaciones introducidas en el currículo, la organización, objetivos, promoción y evaluaciones de Educación Primaria se implantarán para los cursos primero, tercero y quinto en el curso escolar 2014-2015, y para los cursos segundo, cuarto y sexto en el curso escolar 2015-2016.
 
-
 #### Disposición final segunda. Título competencial y carácter básico.
 
 Este real decreto tiene el carácter de norma básica y se dicta al amparo del artículo 149.1.30ª de la Constitución, que atribuye al Estado las competencias para la regulación de las condiciones de obtención, expedición y homologación de los títulos académicos y profesionales y normas básicas para el desarrollo del artículo 27 de la Constitución, a fin de garantizar el cumplimiento de las obligaciones de los poderes públicos en esta materia.
-
 
 #### Disposición final tercera. Desarrollo.
 
 Se faculta a la persona titular del Ministerio de Educación, Cultura y Deporte para dictar cuantas disposiciones requiera la aplicación de lo dispuesto en este real decreto, sin perjuicio de las competencias que corresponden a las Comunidades Autónomas.
 
-
 #### Disposición final cuarta. Entrada en vigor.
-
-El presente real decreto entrará en vigor el día siguiente al de su publicación en el «Boletín Oficial del Estado».
 
 Dado en Madrid, el 28 de febrero de 2014.
 
@@ -2874,7 +2843,6 @@ La Educación Musical también ha sido dividida en tres bloques: el primero refe
 
 Educación Artística
 
-
 **A) Educación Plástica**
 
 Criterios de evaluación
@@ -2992,7 +2960,6 @@ Bloque 3. Dibujo geométrico
 1.14. Conoce y comprende el término de escala y es capaz de aplicarlo cambiando la escala de un dibujo sencillo mediante el uso de una cuadrícula.
 
 2.1. Conoce y aprecia el resultado de la utilización correcta de los instrumentos de dibujo valorando la precisión en los resultados.
-
 
 **B) Educación Musical**
 

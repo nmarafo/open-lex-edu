@@ -33,9 +33,6 @@ fuente_pdf_oficial: https://sede.gobiernodecanarias.org/boc/boc-a-2025-044-886.p
 
 # Resolución de la Dirección General de Administración de Centros, Escolarización y Servicios Complementarios, de 20 de febrero de 2025, por la que se establece el calendario escolar y se dictan instrucciones para la organización y desarrollo de las actividades de comienzo y finalización del curso 2025-2026, para los centros de enseñanzas no universitarias de la Comunidad Autónoma de Canarias (BOC n.º 44, de 4 de marzo).
 
-https://sede.gobiernodecanarias.org/boc
-boc-a-2025-044-886
-Boletín Oficial de Canarias núm. 44 Martes 4 de marzo de 20259261
 III. Otras Resoluciones
 Consejería de Educación, Formación Profesional, Actividad Física y Deportes
 886 Dirección General de Administración de Centros, Escolarización y Servicios 
@@ -75,9 +72,6 @@ Primero.- Objeto y ámbito de aplicación.
 1. Esta Resolución tiene por objeto establecer el calendario escolar y la organización y 
 desarrollo de las actividades de comienzo y finalización del curso escolar 2025-2026.
 
-https://sede.gobiernodecanarias.org/boc
-boc-a-2025-044-886
-Boletín Oficial de Canarias núm. 44 Martes 4 de marzo de 20259262
 2. La presente Resolución se aplicará a todos los centros públicos y privados que 
 impartan Educación Infantil, Educación Primaria, Educación Secundaria Obligatoria, Bachillerato, 
 Grado C de Formación Profesional (Itinerarios Formativos de Programas de Formación 
@@ -129,9 +123,6 @@ Segundo curso de
 Bachillerato 11 de septiembre 15 de mayo Ordinaria:  15 de mayo
 Extraordinaria: 12 junio
 
-https://sede.gobiernodecanarias.org/boc
-boc-a-2025-044-886
-Boletín Oficial de Canarias núm. 44 Martes 4 de marzo de 20259263
 ENSEÑANZAS DE FORMACIÓN PROFESIONAL Y DE RÉGIMEN ESPECIAL
 Enseñanzas Fecha de Inicio
 (año 2025)
@@ -250,9 +241,6 @@ que este alumnado esté plenamente incorporado a la actividad académica a la fi
 de los primeros 10 días lectivos de inicio de las clases en el centro. No obstante, el alumnado 
 de Educación Infantil, de las aulas enclave o de los centros de Educación Especial, que se 
 
-https://sede.gobiernodecanarias.org/boc
-boc-a-2025-044-886
-Boletín Oficial de Canarias núm. 44 Martes 4 de marzo de 20259264
 incorpore por primera vez a un centro educativo y que presente dificultades de adaptación, 
 deberá acogerse a las medidas acordadas por el equipo directivo, a propuesta del equipo 
 educativo, oída la familia.
@@ -293,14 +281,10 @@ General de Formación Profesional y Enseñanzas de Régimen Especial.
 12. En todos los centros se celebrará el día 30 de junio de 2026 el preceptivo claustro 
 de final de curso.
 
-https://sede.gobiernodecanarias.org/boc
-boc-a-2025-044-886
-Boletín Oficial de Canarias núm. 44 Martes 4 de marzo de 20259265
 Cuarto.- Certificación de matrícula (modelo 0).
 Los centros educativos tendrán los siguientes plazos para certificar los datos de 
 matrícula (modelo 0), según las instrucciones que al efecto se comuniquen:
 Educación Infantil y Educación Primaria Hasta el día 18 de septiembre de
-2025
 Educación Secundaria Obligatoria y Bachillerato Hasta el 24 de septiembre de 2025
 Enseñanzas  de  Formación  Profesional,  Enseñanzas  Deportivas,  Enseñanzas
 Profesionales de Artes Plásticas y Diseño, Enseñanzas Elementales y Profesionales de
@@ -321,7 +305,6 @@ centros educativos deberán ajustar sus actividades, teniendo en cuenta que las 
 la realización de las pruebas de diagnóstico, así como para la cumplimentación de los 
 cuestionarios de contexto correspondientes, serán las siguientes:
 Educación Infantil y Educación Primaria Hasta el día 18 de septiembre de
-2025
 Educación Secundaria Obligatoria y Bachillerato Hasta el 24 de septiembre de 2025
 Enseñanzas  de  Formación  Profesional,  Enseñanzas  Deportivas,  Enseñanzas
 Profesionales de Artes Plásticas y Diseño, Enseñanzas Elementales y Profesionales de
@@ -344,9 +327,6 @@ Constitución Española) y el 8 de diciembre (Inmaculada Concepción). Así como
 islas, las siguientes fiestas laborales:
 • En Fuerteventura: el 19 de septiembre, festividad de Nuestra Señora de la Peña.
 
-https://sede.gobiernodecanarias.org/boc
-boc-a-2025-044-886
-Boletín Oficial de Canarias núm. 44 Martes 4 de marzo de 20259266
 • En La Gomera: el 6 de octubre, festividad de Nuestra Señora de Guadalupe.
 • En Lanzarote y La Graciosa: el 15 de septiembre, festividad de Nuestra Señora de 
 Los V olcanes.
@@ -385,9 +365,6 @@ Noveno.- Actividades de finalización de curso y entrega de calificaciones.
 del centro enviará a la Inspección Educativa, para su supervisión, la planificación de todas 
 las actividades programadas para la finalización del curso, con especificación de las fechas 
 
-https://sede.gobiernodecanarias.org/boc
-boc-a-2025-044-886
-Boletín Oficial de Canarias núm. 44 Martes 4 de marzo de 20259267
 de las sesiones de evaluación final, que se determinarán respetando las actividades lectivas, 
 así como las fechas correspondientes a las restantes actividades previstas hasta el 30 de 
 junio, excepto para las enseñanzas artísticas superiores, que finalizarán el 10 de julio 
@@ -429,9 +406,6 @@ extraordinarias en las enseñanzas que correspondan.
 desde su finalización, una sesión de evaluación final extraordinaria de FCT en la que se 
 decida su titulación y propuesta de certificación.
 
-https://sede.gobiernodecanarias.org/boc
-boc-a-2025-044-886
-Boletín Oficial de Canarias núm. 44 Martes 4 de marzo de 20259268
 Duodécimo.- Bachillerato de Personas Adultas.
 Los centros que imparten Bachillerato de Personas Adultas y actúan como centros de 
 apoyo para que el alumnado del Bachillerato presencial curse alguna materia, deberán tener 
@@ -470,9 +444,6 @@ Cada centro educativo deberá garantizar la divulgación suficiente del calendar
 durante todo el curso escolar, así como de las modificaciones al mismo que pudieran 
 autorizarse en su caso.
 
-https://sede.gobiernodecanarias.org/boc
-boc-a-2025-044-886
-Boletín Oficial de Canarias núm. 44 Martes 4 de marzo de 20259269
 Decimosexto.- Cómputo de plazos.
 Son días inhábiles, a efectos de cómputo de plazos, en los trámites propios de los centros 
 educativos, los sábados, los domingos, los días declarados como festivos, los periodos de 
@@ -493,9 +464,6 @@ Las Palmas de Gran Canaria, a 20 de febrero de 2025.- El Director General de
 Administración de Centros, Escolarización y Servicios Complementarios, David Crego 
 Chaves.
 
-boc-a-2025-044-886
-Boletín Oficial de Canarias núm. 44 Martes 4 de marzo de 20259270
-https://sede.gobiernodecanarias.org/boc
 A N E X O  I
 CALENDARIO DE FINALIZACIÓN DE ACTIVIDADES
 CURSO 2025-2026
@@ -560,9 +528,6 @@ ANEXO I
 CALENDARIO DE FINALIZACIÓN DE ACTIVIDADES  
 CURSO 2025-2026
 
-boc-a-2025-044-886
-Boletín Oficial de Canarias núm. 44 Martes 4 de marzo de 20259271
-https://sede.gobiernodecanarias.org/boc
 SEGUNDO CURSO DE CICLOS FORMATIVOS DE GRADO SUPERIOR DE ARTES PLÁSTICAS Y DISEÑO
 Finalización de la formación práctica en empresas, estudios y talleres o de los Ciclos
 Formativos de Artes Plásticas y Diseño Hasta el 22 de mayo
@@ -596,9 +561,6 @@ de evaluación y la entrega de calificaciones
 El correspondiente trámite de matrícula de las enseñanzas a las que se hace referencia en los apartados anteriores se hará, en su
 caso, de acuerdo con los plazos que se establezcan en la correspondiente Resolución de admisión del alumnado
 
-boc-a-2025-044-886
-Boletín Oficial de Canarias núm. 44 Martes 4 de marzo de 20259272
-https://sede.gobiernodecanarias.org/boc
 A N E X O II
 CALENDARIO DE FINALIZACIÓN DE ACTIVIDADES EN LAS ENSEÑANZAS ARTÍSTICAS
 SUPERIORES DE MÚSICA, DISEÑO Y ARTE DRAMÁTICO

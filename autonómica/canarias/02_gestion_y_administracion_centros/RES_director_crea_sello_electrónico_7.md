@@ -29,9 +29,6 @@ fuente_pdf_oficial: https://sede.gobiernodecanarias.org/boc/boc-a-2022-138-2350.
 
 # Agencia Canaria de Calidad Universitaria y Evaluación Educativa (ACCUEE).- Resolución de 30 de junio de 2022, del Director, por la que se crea el sello electrónico cualificado de la Agencia Canaria de Calidad Universitaria y Evaluación Educativa.
 
-https://sede.gobiernodecanarias.org/boc
-boc-a-2022-138-2350
-Boletín Oficial de Canarias núm. 138 Miércoles 13 de julio de 202226242
 III. Otras Resoluciones
 Consejería de Educación, Universidades, Cultura y Deportes
 2350 Agencia Canaria de Calidad Universitaria y Evaluación Educativa (ACCUEE).- 
@@ -73,9 +70,6 @@ Debido a la nueva regulación del Gobierno de Canarias establecida en los artíc
 y 7 del Decreto 119/2019, de 16 de julio, del Presidente, por el que se determinan el 
 número, denominación y competencias de las Consejerías, la Consejería de Educación, 
 
-https://sede.gobiernodecanarias.org/boc
-boc-a-2022-138-2350
-Boletín Oficial de Canarias núm. 138 Miércoles 13 de julio de 202226243
 Universidades, Cultura y Deportes asume las competencias en materia de educación y 
 universidades que tenía atribuidas la Consejería de Educación y Universidades, así como 
 las competencias en materia de cultura y deportes que tenía asignadas la Consejería de 
@@ -116,9 +110,6 @@ Las características técnicas generales del sistema de firma y certificado apli
 las derivadas del Esquema Nacional de Seguridad de (ENS), así como de la propia Política 
 de Identificación y Firma del Gobierno de Canarias (PIA).
 
-https://sede.gobiernodecanarias.org/boc
-boc-a-2022-138-2350
-Boletín Oficial de Canarias núm. 138 Miércoles 13 de julio de 202226244
 Cuarto.- Verificación del certificado.
 La verificación del certificado podrá realizarse a través de la sede electrónica del Gobierno 
 de Canarias en la siguiente dirección electrónica: https://sede.gobiernodecanarias.org/
@@ -160,9 +151,6 @@ Comunidad Autónoma de Canarias.
 firma electrónica de los mismos, en aquellos procedimientos en que los interesados son 
 identificados mediante sistemas de claves concertadas en un registro previo o con la 
 
-https://sede.gobiernodecanarias.org/boc
-boc-a-2022-138-2350
-Boletín Oficial de Canarias núm. 138 Miércoles 13 de julio de 202226245
 aportación de información conocida por ambas partes denominado sistema de firma 
 electrónica utilizando información del DNI, para su presentación en la sede electrónica del 
 Gobierno de Canarias.

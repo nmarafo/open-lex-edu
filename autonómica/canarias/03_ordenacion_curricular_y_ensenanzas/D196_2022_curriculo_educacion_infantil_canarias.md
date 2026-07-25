@@ -47,9 +47,6 @@ fuente_pdf_oficial: https://sede.gobiernodecanarias.org/boc/boc-a-2022-208-3159.
 
 # Decreto 196/2022, de 13 de octubre, por el que se establece la ordenación y el currículo de la Educación Infantil en la Comunidad Autónoma de Canarias.
 
-https://sede.gobiernodecanarias.org/boc
-boc-a-2022-208-3159
-Boletín Oficial de Canarias núm. 208 Jueves 20 de octubre de 202240482
 II. Autoridades y personal
 Oposiciones y concursos
 Consejería de Administraciones Públicas, Justicia y Seguridad
@@ -85,9 +82,6 @@ de la Comunidad Autónoma de Canarias, convocadas por Resolución de 11 de abril
 2018, y se les ofertan puestos de trabajo, exclusivamente en cuanto al Anexo I, en el que 
 relacionan las personas aspirantes seleccionadas, quedando como sigue:
 
-https://sede.gobiernodecanarias.org/boc
-boc-a-2022-208-3159
-Boletín Oficial de Canarias núm. 208 Jueves 20 de octubre de 202240483
 ANEXO I
 RELACIÓN DE PERSONAS ASPIRANTES SELECCIONADAS
 Convocatoria de 11 de abril de 2018,
@@ -137,9 +131,6 @@ FINAL
 36 RODRÍGUEZ GONZÁLEZ JAVIER ISIDRO 10,04
 37 MESA ORTIZ SANDRA 10,03
 
-https://sede.gobiernodecanarias.org/boc
-boc-a-2022-208-3159
-Boletín Oficial de Canarias núm. 208 Jueves 20 de octubre de 202240484
 Nº 
 ORDEN
 PRIMER 

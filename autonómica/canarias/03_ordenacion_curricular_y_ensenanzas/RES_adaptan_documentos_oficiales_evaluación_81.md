@@ -29,9 +29,6 @@ fuente_pdf_oficial: https://sede.gobiernodecanarias.org/boc/boc-a-2022-243-3774.
 
 # Resolución de 28 de noviembre de 2022, por la que se adaptan los documentos oficiales de evaluación a la Educación Básica de Personas Adultas en la Comunidad Autónoma de Canarias (BOC n.º 243, de 13 de diciembre).
 
-https://sede.gobiernodecanarias.org/boc
-boc-a-2022-243-3774
-Boletín Oficial de Canarias núm. 243 Martes 13 de diciembre de 202249082
 III. Otras Resoluciones
 Consejería de Educación, Universidades, Cultura y Deportes
 3774 Dirección General de Formación Profesional y Educación de Adultos.- Resolución 
@@ -71,9 +68,6 @@ General de Formación Profesional y Educación de Adultos en el artículo 18 del
 Decreto 7/2021, de 18 de febrero, por el que se aprueba el Reglamento Orgánico de la 
 Consejería de Educación, Universidades, Cultura y Deportes,
 
-https://sede.gobiernodecanarias.org/boc
-boc-a-2022-243-3774
-Boletín Oficial de Canarias núm. 243 Martes 13 de diciembre de 202249083
 RESUELV O:
 Primero.- Establecer los documentos oficiales de evaluación adaptados a la Educación 
 Básica de Personas Adultas (EBPA) en la Comunidad Autónoma de Canarias, de acuerdo 
@@ -96,9 +90,6 @@ cualesquiera otros que se estime procedente interponer.
 Santa Cruz de Tenerife, a 28 de noviembre de 2022.- La Directora General de Formación 
 Profesional y Educación de Adultos, Rosario Gañan Pérez.
 
-https://sede.gobiernodecanarias.org/boc
-boc-a-2022-243-3774
-Boletín Oficial de Canarias núm. 243 Martes 13 de diciembre de 202249084
 ANEXO
 SUMARIO
 1. Documentos oficiales de evaluación de la Educación Básica de Personas Adultas 
@@ -127,9 +118,6 @@ Apéndices VI. Certificados.
 • Apéndice VI.6. Certificado de superación de la ESPA y de obtención del Graduado 
 en ESO.
 
-https://sede.gobiernodecanarias.org/boc
-boc-a-2022-243-3774
-Boletín Oficial de Canarias núm. 243 Martes 13 de diciembre de 202249085
 1. Documentos oficiales de evaluación de la Educación Básica de Personas Adultas 
 (EBPA).
 Los documentos oficiales de evaluación del alumnado que cursa la Educación Básica 
@@ -159,9 +147,6 @@ otro centro.
 El modelo de expediente académico de la EBPA se ajustará a lo establecido en el 
 apéndice I.
 
-https://sede.gobiernodecanarias.org/boc
-boc-a-2022-243-3774
-Boletín Oficial de Canarias núm. 243 Martes 13 de diciembre de 202249086
 2.2. Historial académico.
 El historial académico de la Educación Básica de Personas Adultas contiene los 
 resultados de la evaluación y del progreso académico del alumno o alumna a lo largo de 
@@ -199,9 +184,6 @@ según el tipo de sesión de evaluación:
 • Acta de evaluación ordinaria (apéndices IV .1 y IV .2 para la EIPA, y apéndice V .1 para 
 la ESPA).
 
-https://sede.gobiernodecanarias.org/boc
-boc-a-2022-243-3774
-Boletín Oficial de Canarias núm. 243 Martes 13 de diciembre de 202249087
 • Acta de evaluación final (apéndices IV .3 y IV .4 para la EIPA, y apéndice V .2 para la 
 ESPA).
 • Acta de evaluación de pendientes (apéndice V .3 para la ESPA).
@@ -219,9 +201,6 @@ consten los ámbitos superados, así como la calificación obtenida (apéndice V
 Secundaria Obligatoria al finalizar el nivel II de la ESPA: la certificación de la superación 
 de dicho período en la que se indicará la calificación obtenida (apéndice VI.6).
 
-boc-a-2022-243-3774
-Boletín Oficial de Canarias núm. 243 Martes 13 de diciembre de 202249088
-https://sede.gobiernodecanarias.org/boc
 APÉNDICE I
 Expediente académico
 EXPEDIENTE ACADÉMICO
@@ -256,9 +235,6 @@ Correo electrónico
 APÉNDICE I
 EXPEDIENTE ACADÉMICO
 
-boc-a-2022-243-3774
-Boletín Oficial de Canarias núm. 243 Martes 13 de diciembre de 202249089
-https://sede.gobiernodecanarias.org/boc
 REGISTRO DE LA V ALORACIÓN INICIAL DE LOS APRENDIZAJES CON PROPUESTA DE ADS-
 CRIPCIÓN (se adjuntan a este expediente los apéndices VI.B, VI.C y, en su caso, VI.A de la Valoración 
 Inicial de Aprendizajes - VIA)
@@ -345,9 +321,6 @@ ASO_II. Ámbito Social Módulo 3. ASO
 Módulo 4. ASO
 (1) Calificación: IN(1,2,3 o 4), SU(5), BI(6), NT(7 u 8), SB(9 o 10)
 
-boc-a-2022-243-3774
-Boletín Oficial de Canarias núm. 243 Martes 13 de diciembre de 202249090
-https://sede.gobiernodecanarias.org/boc
 (1) Cumplimentar solo si se ha superado. SU(5), BI(6), NT(7 u 8), SB(9 o 10)
 (2) Cumplimentar solo cuando se haya cursado y superado la EIPA. La nota media será la media aritmética de las calificaciones numéricas 
 obtenidas en cada uno de los ámbitos del nivel II redondeada a la centésima más próxima y, en caso de equidistancia, a la superior.
@@ -400,9 +373,6 @@ ASO_II. Ámbito Social Módulo 3. ASO
 Módulo 4. ASO
 (1) Calificación: IN(1,2,3 o 4), SU(5), BI(6), NT(7 u 8), SB(9 o 10)
 
-boc-a-2022-243-3774
-Boletín Oficial de Canarias núm. 243 Martes 13 de diciembre de 202249091
-https://sede.gobiernodecanarias.org/boc
 Nivel Ámbito Calificación(1) Módulo Calificación(1)
 Nivel I
 ACT_I. Ámbito Científico 
@@ -437,9 +407,6 @@ tro)
 Fdo.: Fdo.: 
 PERIODO FORMATIVO ESPA CURSO
 
-boc-a-2022-243-3774
-Boletín Oficial de Canarias núm. 243 Martes 13 de diciembre de 202249092
-https://sede.gobiernodecanarias.org/boc
 APÉNDICE II
 Historial académico
 HISTORIAL ACADÉMICO
@@ -475,9 +442,6 @@ Correo electrónico
 APÉNDICE II
 HISTORIAL ACADÉMICO
 
-boc-a-2022-243-3774
-Boletín Oficial de Canarias núm. 243 Martes 13 de diciembre de 202249093
-https://sede.gobiernodecanarias.org/boc
 TRASLADO DE CENTRO
 Fecha Código Centro de destino
 FECHAS DE INTERÉS
@@ -515,9 +479,6 @@ NOTA MEDIA DE LA EIPA(2)
 (2) Cumplimentar solo si se ha cursado y superado la EIPA. La nota media será la media aritmética de las calificaciones numéricas obteni-
 das en cada uno de los ámbitos del nivel II redondeada a la centésima más próxima y, en caso de equidistancia, a la superior.
 
-boc-a-2022-243-3774
-Boletín Oficial de Canarias núm. 243 Martes 13 de diciembre de 202249094
-https://sede.gobiernodecanarias.org/boc
 EDUCACIÓN SECUNDARIA PARA PERSONAS ADULTAS (ESPA)
 Nivel Ámbito Calificación(1)
 /Curso Módulo Calificación(1)
@@ -567,9 +528,6 @@ ASO_II. Ámbito Social Módulo 3. ASO
 Módulo 4. ASO
 (1) Calificación: IN(1,2,3 o 4), SU(5), BI(6), NT(7 u 8), SB(9 o 10)
 
-boc-a-2022-243-3774
-Boletín Oficial de Canarias núm. 243 Martes 13 de diciembre de 202249095
-https://sede.gobiernodecanarias.org/boc
 Tecnológico Módulo 2. ACT
 ACO_I. Ámbito de Conoci-
 miento
@@ -601,9 +559,6 @@ PERIODO FORMATIVO ESPA CURSO
 Nivel Ámbito Calificación(1) Módulo Calificación(1)
 Nivel I ACT_I. Ámbito Científico Módulo 1. ACT
 
-boc-a-2022-243-3774
-Boletín Oficial de Canarias núm. 243 Martes 13 de diciembre de 202249096
-https://sede.gobiernodecanarias.org/boc
 APÉNDICE III
 Informe personal por traslado
 INFORME PERSONAL POR TRASLADO
@@ -634,9 +589,6 @@ los siguientes ámbitos de la Educación Básica para Personas Adultas (EBPA):
 APÉNDICE III
 INFORME PERSONAL POR TRASLADO
 
-boc-a-2022-243-3774
-Boletín Oficial de Canarias núm. 243 Martes 13 de diciembre de 202249097
-https://sede.gobiernodecanarias.org/boc
 EDUCACIÓN INICIAL PARA PERSONAS ADULTAS (EIPA)
 Nivel Ámbito Módulo
 Indicar la calificación.
@@ -685,9 +637,6 @@ Módulo 4. ACO
 ASO_II. Ámbito Social Módulo 3. ASO
 Módulo 4. ASO
 
-boc-a-2022-243-3774
-Boletín Oficial de Canarias núm. 243 Martes 13 de diciembre de 202249098
-https://sede.gobiernodecanarias.org/boc
 FECHA Y LUGAR
 El tutor/a
 Fdo.: 
@@ -700,9 +649,6 @@ OBSERV ACIONES GENERALES
 Indicar fecha y persona responsable de cada anotación. Se harán constar las orientaciones sobre el aprendizaje 
 que se consideren de interés, los objetivos alcanzados, las medidas de apoyo que se propongan, etc.
 
-boc-a-2022-243-3774
-Boletín Oficial de Canarias núm. 243 Martes 13 de diciembre de 202249099
-https://sede.gobiernodecanarias.org/boc
 APÉNDICE IV.1
 Acta de evaluación ordinaria - Nivel I - EIPA
 ENSEÑANZA EDUCACIÓN INICIAL PARA PERSONAS ADULTAS (EIPA) CURSO ACADÉMICO
@@ -730,9 +676,6 @@ Esta acta consta de ___ páginas, siendo la presente la página nº ___
 APÉNDICE IV .1
 ACTA DE EV ALUACIÓN ORDINARIA - NIVEL I - EIPA
 
-boc-a-2022-243-3774
-Boletín Oficial de Canarias núm. 243 Martes 13 de diciembre de 202249100
-https://sede.gobiernodecanarias.org/boc
 ÁMBITO APELLIDOS Y NOMBRE (DOCENTE) FIRMA
 En …............................................................…….. , a ….. de ……………………………………………………… de …… .
 V .º B.º
@@ -740,9 +683,6 @@ El director/La directora El tutor/La tutora
 (sello del centro)
 Fdo.:  Fdo.: 
 
-boc-a-2022-243-3774
-Boletín Oficial de Canarias núm. 243 Martes 13 de diciembre de 202249101
-https://sede.gobiernodecanarias.org/boc
 APÉNDICE IV .2
 Acta de evaluación ordinaria - Nivel II - EIPA
 ENSEÑANZA EDUCACIÓN INICIAL PARA PERSONAS ADULTAS (EIPA) CURSO ACADÉMICO
@@ -771,9 +711,6 @@ Esta acta consta de ___ páginas, siendo la presente la página nº ___
 APÉNDICE IV .2
 ACTA DE EV ALUACIÓN ORDINARIA - NIVEL II - EIPA
 
-boc-a-2022-243-3774
-Boletín Oficial de Canarias núm. 243 Martes 13 de diciembre de 202249102
-https://sede.gobiernodecanarias.org/boc
 ÁMBITO APELLIDOS Y NOMBRE (DOCENTE) FIRMA
 En …............................................................…….. , a ….. de ……………………………………………………… de …… .
 V .º B.º
@@ -781,9 +718,6 @@ El director/La directora El tutor/La tutora
 (sello del centro)
 Fdo.:  Fdo.: 
 
-boc-a-2022-243-3774
-Boletín Oficial de Canarias núm. 243 Martes 13 de diciembre de 202249103
-https://sede.gobiernodecanarias.org/boc
 APÉNDICE IV.3
 Acta de evaluación final - Nivel I - EIPA 
 ENSEÑANZA EDUCACIÓN INICIAL PARA PERSONAS ADULTAS (EIPA) CURSO ACADÉMICO
@@ -819,9 +753,6 @@ Esta acta consta de ___ páginas, siendo la presente la página nº ___
 APÉNDICE IV .3
 ACTA DE EV ALUACIÓN FINAL - NIVEL I - EIPA
 
-boc-a-2022-243-3774
-Boletín Oficial de Canarias núm. 243 Martes 13 de diciembre de 202249104
-https://sede.gobiernodecanarias.org/boc
 ÁMBITO APELLIDOS Y NOMBRE (DOCENTE) FIRMA
 En …............................................................…….. , a ….. de ……………………………………………………… de …… .
 V .º B.º
@@ -829,9 +760,6 @@ El director/La directora El tutor/La tutora
 (sello del centro)
 Fdo.:  Fdo.: 
 
-boc-a-2022-243-3774
-Boletín Oficial de Canarias núm. 243 Martes 13 de diciembre de 202249105
-https://sede.gobiernodecanarias.org/boc
 APÉNDICE IV.4
 Acta de evaluación final - Nivel II - EIPA 
 ENSEÑANZA EDUCACIÓN INICIAL PARA PERSONAS ADULTAS (EIPA) CURSO ACADÉMICO
@@ -877,9 +805,6 @@ Esta acta consta de ___ páginas, siendo la presente la página nº ___
 APÉNDICE IV .4
 ACTA DE EV ALUACIÓN FINAL - NIVEL II - EIPA
 
-boc-a-2022-243-3774
-Boletín Oficial de Canarias núm. 243 Martes 13 de diciembre de 202249106
-https://sede.gobiernodecanarias.org/boc
 ÁMBITO APELLIDOS Y NOMBRE (DOCENTE) FIRMA
 En …............................................................…….. , a ….. de ……………………………………………………… de …… .
 V .º B.º
@@ -887,9 +812,6 @@ El director/La directora El tutor/La tutora
 (sello del centro)
 Fdo.:  Fdo.: 
 
-boc-a-2022-243-3774
-Boletín Oficial de Canarias núm. 243 Martes 13 de diciembre de 202249107
-https://sede.gobiernodecanarias.org/boc
 APÉNDICE V.1
 Acta de evaluación ordinaria - ESPA
 ENSEÑANZA EDUCACIÓN SECUNDARIA PARA PERSONAS ADULTAS (ESPA) CURSO ACADÉMICO
@@ -923,9 +845,6 @@ Esta acta consta de ___ páginas, siendo la presente la página nº ___
 APÉNDICE V .1
 ACTA DE EV ALUACIÓN ORDINARIA - ESPA
 
-boc-a-2022-243-3774
-Boletín Oficial de Canarias núm. 243 Martes 13 de diciembre de 202249108
-https://sede.gobiernodecanarias.org/boc
 ÁMBITO APELLIDOS Y NOMBRE (DOCENTE) FIRMA
 En …............................................................…….. , a ….. de ……………………………………………………… de …… .
 V .º B.º
@@ -934,9 +853,6 @@ El director/La directora El tutor/La tutora
 Fdo.:  Fdo.: 
                                                                                                         
 
-boc-a-2022-243-3774
-Boletín Oficial de Canarias núm. 243 Martes 13 de diciembre de 202249109
-https://sede.gobiernodecanarias.org/boc
 APÉNDICE V.2
 Acta de evaluación final - ESPA
 ENSEÑANZA EDUCACIÓN SECUNDARIA PARA PERSONAS ADULTAS (ESPA) CURSO ACADÉMICO
@@ -989,9 +905,6 @@ Esta acta consta de ___ páginas, siendo la presente la página nº ___
 APÉNDICE V .2
 ACTA DE EV ALUACIÓN FINAL - ESPA
 
-boc-a-2022-243-3774
-Boletín Oficial de Canarias núm. 243 Martes 13 de diciembre de 202249110
-https://sede.gobiernodecanarias.org/boc
 ÁMBITO APELLIDOS Y NOMBRE (DOCENTE) FIRMA
 En …............................................................…….. , a ….. de ……………………………………………………… de …… .
 V .º B.º
@@ -999,9 +912,6 @@ El director/La directora El tutor/La tutora
 (sello del centro)
 Fdo.:  Fdo.: 
 
-boc-a-2022-243-3774
-Boletín Oficial de Canarias núm. 243 Martes 13 de diciembre de 202249111
-https://sede.gobiernodecanarias.org/boc
 APÉNDICE V.3
 Acta de evaluación de pendientes - ESPA
 ENSEÑANZA EDUCACIÓN SECUNDARIA PARA PERSONAS ADULTAS (ESPA) CURSO ACADÉMICO
@@ -1033,9 +943,6 @@ Esta acta consta de ___ páginas, siendo la presente la página nº ___
 APÉNDICE V .3
 ACTA DE EV ALUACIÓN DE PENDIENTES - ESPA
 
-boc-a-2022-243-3774
-Boletín Oficial de Canarias núm. 243 Martes 13 de diciembre de 202249112
-https://sede.gobiernodecanarias.org/boc
 ÁMBITO APELLIDOS Y NOMBRE (JEFE/JEFA DE DEPARTAMENTO) FIRMA
 En …............................................................…….. , a ….. de ……………………………………………………… de …… .
 V .º B.º
@@ -1043,9 +950,6 @@ El director/La directora El secretario/La secretaria
 (sello del centro)
 Fdo.:  Fdo.: 
 
-boc-a-2022-243-3774
-Boletín Oficial de Canarias núm. 243 Martes 13 de diciembre de 202249113
-https://sede.gobiernodecanarias.org/boc
 APÉNDICE VI.1
 Certificado de módulos y ámbitos superados en la EIPA
 CERTIFICADO DE MÓDULOS Y ÁMBITOS SUPERADOS EN LA
@@ -1092,9 +996,6 @@ Fdo.: Fdo.:
 APÉNDICE VI.1
 CERTIFICACIÓN DE MÓDULOS Y ÁMBITOS SUPERADOS EN LA EIPA
 
-boc-a-2022-243-3774
-Boletín Oficial de Canarias núm. 243 Martes 13 de diciembre de 202249114
-https://sede.gobiernodecanarias.org/boc
 APÉNDICE VI.2
 Certificado de superación del nivel I de la EIPA
 CERTIFICADO DE SUPERACIÓN DEL NIVEL I
@@ -1120,9 +1021,6 @@ Fdo.: Fdo.:
 APÉNDICE VI.2
 CERTIFICADO DE SUPERACIÓN DEL NIVEL I DE LA EIPA
 
-boc-a-2022-243-3774
-Boletín Oficial de Canarias núm. 243 Martes 13 de diciembre de 202249115
-https://sede.gobiernodecanarias.org/boc
 APÉNDICE VI.3
 Certificado de módulos y ámbitos superados en la ESPA
 CERTIFICADO DE MÓDULOS Y ÁMBITOS SUPERADOS
@@ -1177,9 +1075,6 @@ Fdo.: Fdo.:
 APÉNDICE VI.3
 CERTIFICACIÓN DE MÓDULOS Y ÁMBITOS SUPERADOS EN LA ESPA
 
-boc-a-2022-243-3774
-Boletín Oficial de Canarias núm. 243 Martes 13 de diciembre de 202249116
-https://sede.gobiernodecanarias.org/boc
 APÉNDICE VI.4
 Certificado de superación del nivel I de la ESPA
 CERTIFICADO DE SUPERACIÓN DEL NIVEL I
@@ -1206,9 +1101,6 @@ Fdo.: Fdo.:
 APÉNDICE VI.4
 CERTIFICADO DE SUPERACIÓN DEL NIVEL I DE LA ESPA
 
-boc-a-2022-243-3774
-Boletín Oficial de Canarias núm. 243 Martes 13 de diciembre de 202249117
-https://sede.gobiernodecanarias.org/boc
 APÉNDICE VI.5
 Certificado de superación de la EIPA
 CERTIFICADO DE SUPERACIÓN
@@ -1253,9 +1145,6 @@ Fdo.: Fdo.:
 APÉNDICE VI.5
 CERTIFICADO DE SUPERACIÓN DE LA EIPA
 
-boc-a-2022-243-3774
-Boletín Oficial de Canarias núm. 243 Martes 13 de diciembre de 202249118
-https://sede.gobiernodecanarias.org/boc
 APÉNDICE VI.6
 Certificado de superación de la ESPA y de obtención del título de Graduado en ESO
 CERTIFICADO DE SUPERACIÓN DE LA EDUCACIÓN SECUNDARIA PARA

@@ -92,14 +92,11 @@ En el proceso de elaboración de este real decreto han sido consultadas las comu
 
 En su virtud, a propuesta de la Ministra de Educación y Formación Profesional, de acuerdo con el Consejo de Estado, y previa deliberación del Consejo de Ministros en su reunión del día 5 de abril de 2022,
 
-
 **DISPONGO:**
-
 
 #### Artículo 1. Objeto.
 
 El presente real decreto tiene por objeto establecer la ordenación y las enseñanzas mínimas de la etapa de Bachillerato.
-
 
 #### Artículo 2. Definiciones.
 
@@ -117,7 +114,6 @@ e) Saberes básicos: conocimientos, destrezas y actitudes que constituyen los 
 
 f) Situaciones de aprendizaje: situaciones y actividades que implican el despliegue por parte del alumnado de actuaciones asociadas a competencias clave y competencias específicas, y que contribuyen a la adquisición y desarrollo de las mismas.
 
-
 #### Artículo 3. La etapa de Bachillerato en el marco del sistema educativo.
 
 1. La educación secundaria se divide en educación secundaria obligatoria y educación secundaria postobligatoria.
@@ -126,11 +122,9 @@ f) Situaciones de aprendizaje: situaciones y actividades que implican el despl
 
 3. Sin perjuicio de lo previsto en el artículo 15, la etapa comprende dos cursos, se desarrolla en modalidades diferentes y se organiza de modo flexible en materias comunes, materias de modalidad y materias optativas, a fin de que pueda ofrecer una preparación especializada a los alumnos y alumnas acorde con sus perspectivas e intereses de formación o permita la incorporación a la vida activa una vez finalizado el mismo.
 
-
 #### Artículo 4. Fines.
 
 El Bachillerato tiene como finalidad proporcionar formación, madurez intelectual y humana, conocimientos, habilidades y actitudes que permitan desarrollar funciones sociales e incorporarse a la vida activa con responsabilidad y aptitud. Asimismo, esta etapa deberá permitir la adquisición y el logro de las competencias indispensables para el futuro formativo y profesional, y capacitar para el acceso a la educación superior.
-
 
 #### Artículo 5. Principios generales.
 
@@ -139,7 +133,6 @@ El Bachillerato tiene como finalidad proporcionar formación, madurez intelectua
 2. Los alumnos y alumnas podrán permanecer cursando Bachillerato en régimen ordinario durante cuatro años, consecutivos o no.
 
 3. Las administraciones públicas promoverán un incremento progresivo de la oferta de plazas públicas en Bachillerato en sus distintas modalidades y vías.
-
 
 #### Artículo 6. Principios pedagógicos.
 
@@ -150,7 +143,6 @@ El Bachillerato tiene como finalidad proporcionar formación, madurez intelectua
 3. En la organización de los estudios de Bachillerato se prestará especial atención a los alumnos y alumnas con necesidad específica de apoyo educativo. A estos efectos se establecerán las alternativas organizativas y metodológicas y las medidas de atención a la diversidad precisas para facilitar el acceso al currículo de este alumnado.
 
 4. Las lenguas oficiales se utilizarán solo como apoyo en el proceso de aprendizaje de las lenguas extranjeras. En dicho proceso se priorizarán la comprensión, la expresión y la interacción oral.
-
 
 #### Artículo 7. Objetivos.
 
@@ -186,7 +178,6 @@ n) Afianzar actitudes de respeto y prevención en el ámbito de la movilidad s
 
 o) Fomentar una actitud responsable y comprometida en la lucha contra el cambio climático y en la defensa del desarrollo sostenible.
 
-
 #### Artículo 8. Organización general.
 
 1. Las modalidades del Bachillerato que podrán ofrecer las administraciones educativas y, en su caso, los centros docentes serán las siguientes:
@@ -204,7 +195,6 @@ d) Humanidades y Ciencias Sociales.
 3. En todo caso, los alumnos y alumnas podrán elegir entre la totalidad de las materias específicas de la modalidad que cursen. A estos efectos, los centros ofrecerán la totalidad de las materias específicas de las modalidades y, en su caso, vías que oferten. Solo se podrá limitar la elección de materias y vías por parte de los alumnos y alumnas cuando haya un número insuficiente de los mismos, según los criterios objetivos establecidos previamente por las administraciones educativas. Cuando la oferta de materias específicas quede limitada en un centro por razones organizativas, las administraciones educativas facilitarán que las materias que no puedan impartirse por esta causa se puedan cursar mediante la modalidad de educación a distancia o en otros centros escolares.
 
 4. Si la oferta de vías de la modalidad de Artes en un mismo centro quedase limitada por razones organizativas, lo regulado en el apartado anterior deberá entenderse aplicable a las materias que integran la vía ofertada.
-
 
 #### Artículo 9. Materias comunes.
 
@@ -227,7 +217,6 @@ b) Historia de la Filosofía.
 c) Lengua Castellana y Literatura II y, si la hubiere, Lengua Cooficial y Literatura II.
 
 d) Lengua Extranjera II.
-
 
 #### Artículo 10. Materias específicas de la modalidad de Artes.
 
@@ -277,7 +266,6 @@ d) Historia de la Música y de la Danza.
 
 e) Literatura Dramática.
 
-
 #### Artículo 11. Materias específicas de la modalidad de Ciencias y Tecnología.
 
 1. El alumnado que opte por la modalidad de Ciencias y Tecnología cursará, en primero, Matemáticas I, así como otras dos materias de modalidad que elegirá de entre las siguientes:
@@ -304,13 +292,11 @@ e) Química.
 
 f) Tecnología e Ingeniería II.
 
-
 #### Artículo 12. Materias específicas de la modalidad General.
 
 1. El alumnado que opte por la modalidad General cursará, en primero, Matemáticas Generales y otras dos materias que elegirá de entre todas las materias de modalidad de primer curso que se oferten en el centro. Dicha oferta incluirá obligatoriamente la materia de Economía, Emprendimiento y Actividad Empresarial específica de esta modalidad.
 
 2. Igualmente, en segundo, el alumnado cursará Ciencias Generales y otras dos materias que elegirá de entre todas las materias de modalidad de segundo curso que se oferten en el centro. Dicha oferta incluirá obligatoriamente la materia de Movimientos Culturales y Artísticos específica de esta modalidad.
-
 
 #### Artículo 13. Materias específicas de la modalidad de Humanidades y Ciencias Sociales.
 
@@ -342,13 +328,11 @@ e) Latín II.
 
 f) Matemáticas Aplicadas a las Ciencias Sociales II.
 
-
 #### Artículo 14. Materias optativas.
 
 1. Corresponde a las administraciones educativas la regulación de la oferta de las materias optativas, que deberá incluir, al menos, una segunda lengua extranjera.
 
 2. Los centros podrán hacer propuestas de otras optativas propias en el marco de lo dispuesto por la administración educativa correspondiente.
-
 
 #### Artículo 15. Organización del Bachillerato en tres años académicos.
 
@@ -365,7 +349,6 @@ c) que requieran una atención educativa diferente a la ordinaria por presenta
 d) que aleguen otras circunstancias que, a juicio de la correspondiente administración educativa y en los términos que esta haya dispuesto, justifiquen la aplicación de esta medida.
 
 3. Las administraciones educativas determinarán para su ámbito territorial la distribución que se hará de las materias que componen el Bachillerato, garantizando la adecuada planificación de la oferta de materias entre las que existe prelación, conforme a lo dispuesto en el anexo V.
-
 
 #### Artículo 16. Competencias clave.
 
@@ -391,13 +374,11 @@ h) Competencia en conciencia y expresión culturales.
 
 3. Las enseñanzas mínimas que establece este real decreto tienen por objeto garantizar el desarrollo de las competencias clave previsto en el anexo I. Los currículos establecidos por las administraciones educativas y la concreción de los mismos que los centros realicen en sus proyectos educativos tendrán, asimismo, como referente los descriptores operativos que se detallan en el mismo.
 
-
 #### Artículo 17. Competencias específicas, criterios de evaluación y saberes básicos.
 
 1. En el anexo II se fijan, para cada materia, las competencias específicas para la etapa, así como los criterios de evaluación y los contenidos enunciados en forma de saberes básicos para cada curso.
 
 2. Para la adquisición y el desarrollo, tanto de las competencias clave como de las competencias específicas, el equipo docente planificará situaciones de aprendizaje en los términos que dispongan las administraciones educativas. Con el fin de facilitar al profesorado su propia práctica se enuncian en el anexo III orientaciones para su diseño.
-
 
 #### Artículo 18. Currículo.
 
@@ -409,11 +390,9 @@ h) Competencia en conciencia y expresión culturales.
 
 4. Los centros docentes, en el uso de su autonomía, desarrollarán y completarán, en su caso, el currículo del Bachillerato establecido por las administraciones educativas, concreción que formará parte de su proyecto educativo, que impulsará y desarrollará los principios, objetivos y metodología propios de un aprendizaje competencial orientado al ejercicio de una ciudadanía activa.
 
-
 #### Artículo 19. Horario.
 
 En el anexo IV se establece, para las materias comunes y de modalidad del Bachillerato, el horario escolar que corresponde a las enseñanzas mínimas.
-
 
 #### Artículo 20. Evaluación.
 
@@ -429,7 +408,6 @@ En el anexo IV se establece, para las materias comunes y de modalidad del Bachil
 
 6. Se promoverá el uso generalizado de instrumentos de evaluación variados, diversos, flexibles y adaptados a las distintas situaciones de aprendizaje que permitan la valoración objetiva de todo el alumnado, y que garanticen, asimismo, que las condiciones de realización de los procesos asociados a la evaluación se adaptan a las necesidades del alumnado con necesidad específica de apoyo educativo.
 
-
 #### Artículo 21. Promoción.
 
 1. Los alumnos y alumnas promocionarán de primero a segundo de Bachillerato cuando hayan superado las materias cursadas o tengan evaluación negativa en dos materias como máximo. En todo caso, deberán matricularse en segundo curso de las materias no superadas de primero, que tendrán la consideración de materias pendientes. Los centros educativos deberán organizar las consiguientes actividades de recuperación y la evaluación de las materias pendientes en el marco organizativo que establezcan las administraciones educativas.
@@ -441,7 +419,6 @@ No obstante, dentro de una misma modalidad, el alumnado podrá matricularse de l
 3. Los alumnos y alumnas que al término del segundo curso tuvieran evaluación negativa en algunas materias podrán matricularse de ellas sin necesidad de cursar de nuevo las materias superadas, o podrán optar, asimismo, por repetir el curso completo.
 
 4. Las administraciones educativas establecerán las condiciones en las que un alumno o alumna que haya cursado el primer curso de Bachillerato en una determinada modalidad o vía pueda pasar al segundo en una modalidad o vía distinta.
-
 
 #### Artículo 22. Título de Bachiller.
 
@@ -461,7 +438,6 @@ d) que la media aritmética de las calificaciones obtenidas en todas las mater
 
 4. El título de Bachiller será único y se expedirá con expresión de la modalidad cursada y de la nota media obtenida. Esta se hallará calculando la media aritmética de las calificaciones de todas las materias cursadas redondeada a la centésima. A efectos de dicho cálculo se tendrán en cuenta las materias comunes y optativas, así como las materias específicas de la modalidad por la que se expide el título y, en su caso, la materia de Religión.
 
-
 #### Artículo 23. Obtención del título de Bachiller desde otras enseñanzas.
 
 1. El alumnado que tenga el título de Técnico o Técnica en Formación Profesional podrá obtener el título de Bachiller en la modalidad General mediante la superación de las materias comunes.
@@ -476,7 +452,6 @@ a) el 60 % de la media de las calificaciones obtenidas en las materias comu
 
 b) el 40 % de la nota media obtenida en las enseñanzas mediante las que se accede a la obtención del título, calculada conforme a lo establecido en los respectivos reales decretos de ordenación de las mismas.
 
-
 #### Artículo 24. Tutoría y orientación.
 
 1. En el Bachillerato, la orientación y la acción tutorial acompañarán el proceso educativo individual y colectivo del alumnado.
@@ -486,7 +461,6 @@ b) el 40 % de la nota media obtenida en las enseñanzas mediante las que se
 3. Con el fin de fomentar la igualdad efectiva entre hombres y mujeres, se incorporará la perspectiva de género al ámbito de la orientación educativa y profesional.
 
 4. Los centros deberán informar y orientar al alumnado con el fin de que la elección de las modalidades, vías y materias a las que se refieren los artículos 8, 10, 11, 12, 13 y 14 sea la más adecuada para sus intereses y su orientación formativa posterior.
-
 
 #### Artículo 25. Atención a las diferencias individuales.
 
@@ -502,7 +476,6 @@ b) el 40 % de la nota media obtenida en las enseñanzas mediante las que se
 
 6. Con objeto de reforzar la inclusión, las administraciones educativas podrán incorporar las lenguas de signos españolas en toda la etapa.
 
-
 #### Artículo 26. Autonomía de los centros.
 
 1. Al establecer el currículo de Bachillerato, las administraciones educativas facilitarán a los centros el ejercicio de su autonomía pedagógica, de organización y de gestión, en los términos recogidos en la Ley Orgánica 2/2006, de 3 de mayo, y en las normas que la desarrollan, favorecerán el trabajo en equipo del profesorado y estimularán su actividad investigadora a partir de la práctica docente.
@@ -513,11 +486,9 @@ b) el 40 % de la nota media obtenida en las enseñanzas mediante las que se
 
 4. En el ejercicio de su autonomía, los centros podrán adoptar experimentaciones, innovaciones pedagógicas, programas educativos, planes de trabajo, formas de organización, normas de convivencia, ampliación del calendario escolar o del horario lectivo de materias, en los términos que establezcan las administraciones educativas y dentro de las posibilidades que permita la normativa aplicable, incluida la laboral, sin que, en ningún caso, suponga discriminación de ningún tipo, ni se impongan aportaciones a las familias o a los tutores y tutoras legales, ni exigencias para las administraciones educativas.
 
-
 #### Artículo 27. Derecho del alumnado a una evaluación objetiva.
 
 Las administraciones educativas garantizarán el derecho del alumnado a que su dedicación, esfuerzo y rendimiento sean valorados y reconocidos con objetividad, para lo que establecerán los oportunos procedimientos, que, en todo caso, atenderán al carácter continuo y diferenciado según las distintas materias, de la evaluación en esta etapa.
-
 
 #### Artículo 28. Participación y derecho a la información de padres, madres, tutores o tutoras legales y alumnado mayor de edad.
 
@@ -527,7 +498,6 @@ Las administraciones educativas garantizarán el derecho del alumnado a que su d
 
 3. Los derechos referidos en el apartado anterior se hacen también extensivos al alumnado mayor de edad, sin perjuicio de que sus padres, madres, tutores o tutoras legales puedan hacerlos igualmente efectivos si justifican el interés legítimo.
 
-
 #### Artículo 29. Documentos e informes de evaluación.
 
 1. En Bachillerato, los documentos oficiales de evaluación son las actas de evaluación, el expediente académico, el historial académico y, en su caso, el informe personal por traslado.
@@ -535,7 +505,6 @@ Las administraciones educativas garantizarán el derecho del alumnado a que su d
 2. El historial académico y, en su caso, el informe personal por traslado se consideran documentos básicos para garantizar la movilidad del alumnado por todo el territorio nacional.
 
 3. Los documentos oficiales de evaluación deberán recoger siempre la norma de la administración educativa que establece el currículo correspondiente. Cuando hayan de surtir efectos fuera del ámbito de una comunidad autónoma cuya lengua tenga estatutariamente atribuido carácter oficial, se estará a lo dispuesto en el artículo 15.3 de la Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común de las Administraciones Públicas.
-
 
 #### Artículo 30. Actas de evaluación.
 
@@ -551,13 +520,11 @@ Las administraciones educativas garantizarán el derecho del alumnado a que su d
 
 6. Las actas de evaluación serán firmadas por todo el profesorado del grupo y llevarán el visto bueno de la persona titular de la dirección del centro.
 
-
 #### Artículo 31. Expediente académico.
 
 1. El expediente académico recogerá, junto con los datos de identificación del centro, los del alumno o alumna, así como la información relativa a su proceso de evaluación. Se abrirá al comienzo de la etapa o, en su caso, en el momento de incorporación al centro y recogerá, al menos, los resultados de la evaluación de las materias en las diferentes convocatorias, las decisiones de promoción y titulación y, si existieran, las medidas de apoyo educativo o las adaptaciones que se hayan adoptado para el alumno o alumna. Igualmente, se hará constar la nota media obtenida en la etapa, así como la media normalizada a la que se refiere el apartado 4 del artículo anterior.
 
 2. La custodia y el archivo de los expedientes académicos corresponden a los centros docentes en que se hayan realizado los estudios de las enseñanzas correspondientes y serán supervisados por la Inspección educativa.
-
 
 #### Artículo 32. Historial académico.
 
@@ -565,13 +532,11 @@ Las administraciones educativas garantizarán el derecho del alumnado a que su d
 
 2. Tras finalizar la etapa, el historial académico de Bachillerato se entregará al alumno o alumna o, en caso de que fuese menor de edad, a sus padres, madres, tutores o tutoras legales.
 
-
 #### Artículo 33. Informe personal por traslado.
 
 1. En el caso de que el alumno o alumna se traslade a otro centro antes de finalizar la etapa, el centro de origen deberá remitir al de destino, y a petición de este, el informe personal por traslado, junto a una copia del historial académico. El centro receptor abrirá el correspondiente expediente académico. La matriculación adquirirá carácter definitivo una vez recibida la copia del historial académico.
 
 2. El informe personal por traslado contendrá los resultados de las evaluaciones que se hubieran realizado, la aplicación, en su caso, de medidas de apoyo o adaptaciones, y todas aquellas observaciones que se consideren oportunas acerca del progreso general del alumno o alumna.
-
 
 #### Artículo 34. Autenticidad, seguridad y confidencialidad.
 
@@ -585,7 +550,6 @@ Las administraciones educativas garantizarán el derecho del alumnado a que su d
 
 5. El Ministerio de Educación y Formación Profesional, previa consulta a las comunidades autónomas, en el marco de la Conferencia Sectorial de Educación, establecerá la estructura y formato de, al menos, los datos contenidos en los documentos oficiales de evaluación del expediente electrónico del alumnado enumerados en el presente artículo, de acuerdo con lo previsto en el artículo 111.bis y en el apartado 4 de la disposición adicional vigesimotercera de la Ley Orgánica 2/2006, de 3 de mayo, que, junto con otros, garanticen la interoperabilidad entre los distintos sistemas de información utilizados en el sistema educativo español.
 
-
 #### Disposición adicional primera. Enseñanzas de religión.
 
 1. Las enseñanzas de religión se incluirán en el Bachillerato de acuerdo con lo establecido en la disposición adicional segunda de la Ley Orgánica 2/2006, de 3 de mayo.
@@ -598,13 +562,11 @@ Las administraciones educativas garantizarán el derecho del alumnado a que su d
 
 5. Con el fin de garantizar el principio de igualdad y la libre concurrencia, las calificaciones que se hubieran obtenido en la evaluación de las enseñanzas de religión no se computarán en la obtención de la nota media a efectos de acceso a otros estudios ni en las convocatorias para la obtención de becas y ayudas al estudio en que deban entrar en concurrencia los expedientes académicos.
 
-
 #### Disposición adicional segunda. Enseñanzas del sistema educativo español impartidas en lenguas extranjeras.
 
 1. Las administraciones educativas podrán autorizar que una parte de las materias del currículo se impartan en lenguas extranjeras sin que ello suponga modificación de los aspectos básicos del currículo regulados en este real decreto. En este caso, procurarán que a lo largo de ambos cursos los alumnos y alumnas adquieran la terminología propia de las materias en la lengua extranjera y en la lengua o lenguas oficiales de la comunidad autónoma.
 
 2. El hecho de que los centros públicos y privados concertados impartan sus enseñanzas conforme a lo previsto en el apartado anterior en ningún caso podrá suponer modificación de los criterios para la admisión del alumnado establecidos en el artículo 86 de la Ley Orgánica 2/2006, de 3 de mayo.
-
 
 #### Disposición adicional tercera. Educación de personas adultas.
 
@@ -628,16 +590,13 @@ d) Que la media aritmética de las calificaciones obtenidas en todas las mater
 
 6. Corresponderá a las administraciones educativas la organización de pruebas para que las personas mayores de veinte años puedan obtener directamente el título de Bachiller, siempre que demuestren haber alcanzado los objetivos y competencias del Bachillerato. Dichas pruebas, que deberán contar con las medidas de accesibilidad universal y las adaptaciones que precise todo el alumnado con necesidades educativas especiales, se organizarán de manera diferenciada según las modalidades del Bachillerato.
 
-
 #### Disposición adicional cuarta. Obtención de nuevas modalidades de Bachillerato.
 
 Quienes hayan obtenido el título de Bachiller podrán obtener cualquiera de las otras modalidades mediante la superación de las materias de modalidad de primer y segundo curso que, conforme a lo previsto en este real decreto, se requieren para la modalidad elegida.
 
-
 #### Disposición adicional quinta. Simultaneidad de estudios.
 
 En el marco de lo establecido en este real decreto, las administraciones educativas facilitarán la posibilidad de cursar simultáneamente las enseñanzas artísticas profesionales y la educación secundaria. Con este fin, se podrán adoptar las oportunas medidas de organización y de ordenación académica que incluirán, entre otras, las convalidaciones y la creación de centros integrados.
-
 
 #### Disposición transitoria primera. Aplicabilidad del Real Decreto 1105/2014, de 26 de diciembre, por el que se establece el currículo básico de la Educación Secundaria Obligatoria y del Bachillerato.
 
@@ -645,11 +604,9 @@ En el marco de lo establecido en este real decreto, las administraciones educati
 
 2. Asimismo, las pruebas que hasta el inicio del curso 2023-2024 realicen las administraciones educativas para la obtención directa del título de Bachiller se organizarán basándose en la configuración curricular desarrollada a partir del citado real decreto.
 
-
 #### Disposición transitoria segunda. Aplicabilidad del Real Decreto 984/2021, de 16 de noviembre, por el que se regulan la evaluación y la promoción en la Educación Primaria, así como la evaluación, la promoción y la titulación en la Educación Secundaria Obligatoria, el Bachillerato y la Formación Profesional.
 
 En el curso escolar 2022-2023, seguirá siendo de aplicación para segundo curso de Bachillerato lo dispuesto en los capítulos I y V del Real Decreto 984/2021, de 16 de noviembre, por el que se regulan la evaluación y la promoción en la Educación Primaria, así como la evaluación, la promoción y la titulación en la Educación Secundaria Obligatoria, el Bachillerato y la Formación Profesional.
-
 
 #### Disposición derogatoria única. Derogación normativa.
 
@@ -663,11 +620,9 @@ En el curso escolar 2022-2023, seguirá siendo de aplicación para segundo curs
 
 5. Quedan derogadas las demás normas de igual o inferior rango en cuanto se opongan a lo establecido en este real decreto.
 
-
 #### Disposición final primera. Prueba de acceso a la universidad.
 
 El Gobierno, previa consulta a las comunidades autónomas, a la Conferencia General de Política Universitaria, y con informe previo del Consejo de Universidades y del Consejo Escolar del Estado, establecerá las características básicas de la prueba de acceso a la universidad que establece el artículo 38 de la Ley Orgánica 2/2006, de 3 de mayo.
-
 
 #### Disposición final segunda. Título competencial.
 
@@ -675,20 +630,15 @@ El presente real decreto tiene carácter básico y se dicta al amparo de las com
 
 El anexo III carece del carácter de normativa básica.
 
-
 #### Disposición final tercera. Aplicación.
 
 Corresponde a la persona titular del Ministerio de Educación y Formación Profesional dictar, en el ámbito de sus competencias, cuantas disposiciones sean precisas para la ejecución y aplicación de lo establecido en este real decreto, sin perjuicio de las competencias que corresponden a las comunidades autónomas.
-
 
 #### Disposición final cuarta. Calendario de implantación.
 
 Lo dispuesto en este real decreto se implantará para primer curso de Bachillerato en el año académico 2022-2023, y para segundo de Bachillerato, en el curso 2023-2024.
 
-
 #### Disposición final quinta. Entrada en vigor.
-
-El presente real decreto entrará en vigor el día siguiente al de su publicación en el «Boletín Oficial del Estado».
 
 Dado en Madrid, el 5 de abril de 2022.
 
@@ -812,9 +762,7 @@ CCEC4.2 Planifica, adapta y organiza sus conocimientos, destrezas y actitudes 
 
 ANEXO II
 
-
 **MATERIAS DE BACHILLERATO**
-
 
 **Análisis Musical**
 
@@ -890,7 +838,6 @@ Asimismo, el análisis de las características y de las funciones que cumple la 
 
 Esta competencia específica se conecta con los siguientes descriptores: CCL3, STEM4, CD1, CD3, CPSAA4, CCEC2.
 
-
 **Análisis Musical I**
 
 Criterios de evaluación
@@ -953,7 +900,6 @@ B. La forma musical.
 
 − Función de la música en combinación con otras manifestaciones artísticas.
 
-
 **Análisis Musical II**
 
 Criterios de evaluación
@@ -1013,7 +959,6 @@ B. Géneros musicales.
 − Las formas y los géneros musicales desde la Edad Media hasta la actualidad.
 
 − Uso de la música con fines terapéuticos.
-
 
 **Artes Escénicas**
 
@@ -1080,7 +1025,6 @@ La vivencia colectiva de la catarsis, el extrañamiento, la identificación y la
 La publicación de las críticas del alumnado puede servir como instrumento para la difusión del patrimonio y como invitación para acudir a diferentes espacios escénicos.
 
 Esta competencia específica se conecta con los siguientes descriptores: CCL1, CCL3, CD1, CD2, CPSAA4, CC1, CCEC1, CCEC2.
-
 
 **Artes Escénicas I**
 
@@ -1181,7 +1125,6 @@ E. Recepción en las artes escénicas.
 − Estrategias y técnicas de análisis de manifestaciones escénicas.
 
 − El respeto de la propiedad intelectual. La protección de la creatividad personal.
-
 
 **Artes escénicas II**
 
@@ -1284,7 +1227,6 @@ E. Recepción en las artes escénicas.
 − La crítica escénica. Estrategias y técnicas de elaboración de una reseña.
 
 − El respeto de la propiedad intelectual. La protección de la creatividad personal.
-
 
 **Biología**
 
@@ -1495,7 +1437,6 @@ F. Inmunología.
 − Enfermedades infecciosas: fases.
 
 − Principales patologías del sistema inmunitario: causas y relevancia clínica.
-
 
 **Biología, Geología y Ciencias Ambientales**
 
@@ -1729,7 +1670,6 @@ G. Los microorganismos y formas acelulares.
 
 − Las formas acelulares (virus, viroides y priones): características, mecanismos de infección e importancia biológica.
 
-
 **Ciencias Generales**
 
 En la sociedad actual multitud de aspectos están relacionados con la actividad científica, tanto en el campo sanitario como en el tecnológico, el social y divulgativo. Poseer una formación científica sólida permite a cada individuo defender una opinión fundamentada ante hechos que pueden resultar controvertidos y que forman parte del día a día de nuestro mundo. Esta materia ofrece al alumnado una formación básica en las cuatro disciplinas científicas fundamentales. Además, el enfoque interdisciplinar característico de la enseñanza STEM confiere al currículo un carácter unificador que pone en evidencia que las diferentes ciencias no son más que una especialización dentro del conjunto global y coherente que es el conocimiento científico. De hecho, en el desarrollo de la investigación como actividad laboral, los científicos y científicas relacionan conocimientos, destrezas y actitudes de todas las disciplinas para enriquecer sus estudios y contribuir de forma más eficiente al progreso de la sociedad.
@@ -1924,7 +1864,6 @@ E. Las fuerzas que nos mueven.
 
 − Leyes de la mecánica relacionadas con el movimiento: comportamiento de un objeto móvil y sus aplicaciones, por ejemplo, en la seguridad vial o en el desarrollo tecnológico.
 
-
 **Coro y Técnica Vocal**
 
 El canto ha sido desde los inicios de la humanidad uno de los modos de expresión artística. Cantar es connatural al ser humano y la utilización de la voz como instrumento aporta una amplia capacidad expresiva. La práctica y la iniciación técnica al canto resulta más sencilla que la que comportan la mayoría de los instrumentos musicales, por la relación musical directa que se establece en la respuesta inmediata del cuerpo y el sonido. De hecho, es posible abordar con relativa facilidad gran cantidad de piezas vocales de muy diversos estilos en un corto periodo de tiempo.
@@ -1982,7 +1921,6 @@ El proyecto facilita la puesta en práctica de los recursos musicales adquiridos
 Por último, el proyecto puede conllevar el trabajo multidisciplinar y el uso de diferentes aplicaciones y herramientas tecnológicas, analógicas y digitales, orientando la producción escolar a situaciones profesionales artísticas y de gestión. En este sentido, tanto la actuación como el desempeño de alguna de las funciones de la producción artística (preproducción, organización de ensayos, apoyo técnico o difusión) permitirán al alumnado reconocer sus aptitudes y descubrir distintas oportunidades de desarrollo personal, social, académico o profesional ligadas al ámbito de la música.
 
 Esta competencia específica se conecta con los siguientes descriptores: CD3, CD5, CPSAA1.1, CPSAA1.2, CE1, CCEC3.1, CCEC4.1.
-
 
 **Coro y Técnica Vocal I**
 
@@ -2053,7 +1991,6 @@ C. Práctica de conjunto.
 − El texto y su métrica como base de la articulación, la velocidad y la precisión rítmica.
 
 − Actitud escénica y relación con el público.
-
 
 **Coro y Técnica Vocal II**
 
@@ -2126,7 +2063,6 @@ C. Práctica de conjunto.
 − Funciones de la producción artística: preproducción, organización de ensayos, apoyo técnico y difusión.
 
 − Oportunidades de desarrollo personal, social, académico y profesional ligadas al ámbito musical.
-
 
 **Cultura Audiovisual**
 
@@ -2282,7 +2218,6 @@ D. La producción audiovisual. Técnicas y procedimientos.
 
 − Técnicas y estrategias de evaluación de las producciones audiovisuales.
 
-
 **Dibujo Artístico**
 
 Al dibujar, la mirada se convierte en observación precisa y contemplación que abstrae y sintetiza la realidad a través de la expresión gráfica. El dibujo es, por tanto, un proceso interactivo de observación, reflexión y representación. Un proceso que requiere una técnica inicial, conocer sus recursos y elementos fundamentales, un ejercicio continuo de entrenamiento y práctica. Su desempeño implica comprender su lenguaje y cómo intervienen en él las formas y sus relaciones, las estructuras, los volúmenes, la perspectiva, las proporciones, el comportamiento de la luz y el color. Partiendo de la consideración del dibujo como un método de trabajo casi científico de exploración e indagación, no conviene olvidar los avances que se han conseguido a lo largo de la historia ni las soluciones que se han aportado a los problemas de formulación gráfica de un entorno tridimensional. El análisis de obras de diferentes épocas, lugares y ámbitos disciplinares ayuda a identificar los caminos que ya se han recorrido, de modo que el alumnado pueda servirse de ellos en su propia incursión en el dibujo.
@@ -2372,7 +2307,6 @@ El dibujo está presente en múltiples ámbitos disciplinares, tales como el dis
 Finalmente, evaluar las diversas fases y el resultado del proyecto, descubriendo los posibles errores y aciertos, facilita procesos posteriores de creación y elaboración, permitiendo introducir alternativas y propuestas diversas, al tiempo que desarrolla en el alumnado una mayor seguridad en su capacidad de afrontar en el futuro proyectos más complejos en contextos académicos o profesionales.
 
 Esta competencia específica se conecta con los siguientes descriptores: STEM2, STEM3, CPSAA3.1, CPSAA4, CE1, CE3, CCEC4.1, CCEC4.2.
-
 
 **Dibujo Artístico I**
 
@@ -2512,7 +2446,6 @@ F. Proyectos gráficos colaborativos.
 
 − Estrategias de evaluación de las fases y los resultados de proyectos gráficos. El error como oportunidad de mejora y aprendizaje.
 
-
 **Dibujo Artístico II**
 
 Criterios de evaluación
@@ -2649,7 +2582,6 @@ F. Proyectos gráficos colaborativos.
 
 − Estrategias de evaluación de las fases y los resultados de proyectos gráficos. El error como oportunidad de mejora y aprendizaje.
 
-
 **Dibujo Técnico**
 
 El dibujo técnico constituye un medio de expresión y comunicación convencional para cualquier proyecto cuyo fin sea la creación y fabricación de un producto, siendo un aspecto imprescindible del desarrollo tecnológico. Dota al alumnado de un instrumento eficiente para comunicarse de manera gráfica y objetiva para expresar y difundir ideas o proyectos de acuerdo a convenciones que garantizan su interpretación fiable y precisa.
@@ -2707,7 +2639,6 @@ Esta competencia especÃ­fica se conecta con los siguientes descriptores: CCL2,
 Las soluciones gráficas que aportan los sistemas CAD forman parte de una realidad ya cotidiana en los procesos de creación de proyectos de ingeniería o arquitectura. Atendiendo a esta realidad, esta competencia aporta una base formativa sobre los procesos, mecanismos y posibilidades que ofrecen las herramientas digitales en esta disciplina. En este sentido, debe integrarse como una aplicación transversal a los saberes de la materia relacionados con la representación en el plano y en el espacio. De este modo, esta competencia favorece una iniciación al uso y aprovechamiento de las potencialidades de estas herramientas digitales en el alumnado.
 
 Esta competencia específica se conecta con los siguientes descriptores: STEM2, STEM3, STEM4, CD1, CD2, CD3, CE3, CEC4.
-
 
 **Dibujo Técnico I**
 
@@ -2801,7 +2732,6 @@ D. Sistemas CAD.
 
 − Aplicaciones de trabajo en grupo para conformar piezas complejas a partir de otras más sencillas.
 
-
 **Dibujo Técnico II**
 
 Criterios de evaluación
@@ -2874,7 +2804,6 @@ D. Sistemas CAD.
 
 − Aplicaciones CAD. Construcciones gráficas en soporte digital.
 
-
 **Dibujo Técnico Aplicado a las Artes Plásticas y al Diseño**
 
 El dibujo técnico y el dibujo artístico son dos disciplinas complementarias, existiendo una poderosa relación entre el arte y la geometría o el arte y la ciencia, relación que se remonta al clasicismo y sigue presente tanto en corrientes artísticas y técnicas de ilustración que tienen como soporte la pura geometría, hasta su inequívoca presencia como herramienta de creación y comunicación en el diseño y en diversos oficios artísticos. Esta materia, dirigida al alumnado que cursa estudios de Bachillerato en la modalidad de Artes, pretende poner en valor el relevante papel que cumple el dibujo técnico como elemento de comunicación gráfica y generador de formas, así como su incidencia en la transformación del entorno construido. Se vincula además con muchas de las competencias clave y los objetivos de etapa, en tanto que desarrolla la creatividad y enriquece las posibilidades de expresión del alumnado, consolida hábitos de disciplina y responsabilidad en el trabajo individual y en grupo, integra conocimientos científicos, estimula el razonamiento lógico para la resolución de problemas prácticos, desarrolla destrezas tecnológicas, competencias digitales y fortalece capacidades e inteligencias inter e intrapersonales. Se abordan también, de forma transversal, desafíos del siglo XXI, especialmente y de manera muy directa el consumo responsable, la valoración de la diversidad personal y cultural, el compromiso ciudadano en el ámbito local y global, el aprovechamiento crítico, ético y responsable de la cultura digital, y la confianza en el conocimiento como motor del desarrollo.
@@ -2930,7 +2859,6 @@ Esta competencia específica se conecta con los siguientes descriptores: CCL2, S
 Esta competencia comporta la adquisición de un conocimiento práctico e instrumental de las principales herramientas y técnicas de dibujo y modelado en dos y tres dimensiones de manera transversal al resto de saberes de la materia. Implica el uso de dispositivos digitales como herramientas de aplicación en el proceso creativo, su incorporación para la experimentación en diferentes disciplinas y tendencias artísticas, y como instrumento de gestión y presentación de proyectos de diseño gráfico, de objetos y de espacios.
 
 Esta competencia específica se conecta con los siguientes descriptores: STEM3, CD2, CD3, CPSAA5, CE3, CCE3, CCE5 y CCE6.
-
 
 **Dibujo Técnico Aplicado a las Artes Plásticas y al Diseño I**
 
@@ -3010,7 +2938,6 @@ D. Herramientas digitales para el diseño.
 
 − Iniciación al modelado en 3D. Aplicaciones a proyectos artísticos.
 
-
 **Dibujo Técnico Aplicado a las Artes Plásticas y al Diseño II**
 
 Criterios de evaluación
@@ -3072,7 +2999,6 @@ C. Normalización y diseño de proyectos.
 D. Herramientas digitales para el diseño.
 
 − Dibujo asistido por ordenador aplicado a proyectos de arte y diseño.
-
 
 **Diseño**
 
@@ -3272,7 +3198,6 @@ D. Diseño tridimensional.
 
 − El diseño inclusivo de espacios.
 
-
 **Economía**
 
 Los retos y desafíos que se plantean en el mundo actual hacen necesaria la interconexión de distintos ámbitos, entre otros, el económico, el social y el ambiental. Las sociedades son responsables de sus decisiones, tanto individuales como colectivas, y del impacto que las mismas pueden provocar en las personas y el entorno. Esta reflexión está presente en todos los países del mundo y ha dado como fruto el compromiso que suponen los Objetivos de Desarrollo Sostenible (ODS) como intento de enfrentarse conjuntamente a los principales desafíos del futuro. La educación es un instrumento fundamental para llevar a la realidad ese compromiso y, en este sentido, la formación económica ayuda a comprender desde su perspectiva cuáles son esos desafíos y de qué modo afrontarlos.
@@ -3447,7 +3372,6 @@ E. Los retos de la economía española en un contexto globalizado.
 
 − Los Objetivos de Desarrollo Sostenible (ODS) y los retos económicos actuales. Estudio de casos.
 
-
 **Economía, Emprendimiento y Actividad Empresarial**
 
 Cualquier ciudadano y ciudadana necesita comprender el mundo en el que vive y reflexionar de manera crítica sobre la información que recibe del entorno para entender la organización económica y social de los grupos humanos en los que se integra. De esta manera, podrá convertirse en parte activa y constructiva de la sociedad y contribuir a encontrar soluciones a los problemas que puedan surgir en ella.
@@ -3607,7 +3531,6 @@ C. Actividad empresarial.
 − Estrategia y gestión de la empresa. Transformación digital. Innovación. Sostenibilidad.
 
 − Análisis de casos: análisis interno y externo. DAFO.
-
 
 **Educación Física**
 
@@ -3803,7 +3726,6 @@ F. Interacción eficiente y sostenible con el entorno.
 
 − Cuidado y mejora del entorno próximo, como servicio a la comunidad, durante la práctica de actividad física en el medio natural y urbano.
 
-
 **Empresa y Diseño de Modelos de Negocio**
 
 El mundo de la empresa está presente a diario en los medios de comunicación, forma parte de la vida de millones de personas y repercute en todos los hogares. El conocimiento sobre la empresa es un paso esencial para entender el funcionamiento del conjunto de la economía por la interrelación que existe entre la empresa y el entorno en el que lleva a cabo su actividad.
@@ -3979,7 +3901,6 @@ D. Estrategia empresarial y métodos de análisis de la realidad empresarial: 
 − La toma de decisiones. Estrategias. Simulación en hoja de cálculo. Redacción de un plan de negocios básico.
 
 − El análisis de resultados: estudio de mercado, análisis e interpretación de la información contable y análisis de estados financieros.
-
 
 **Filosofía**
 
@@ -4181,7 +4102,6 @@ C. Acción y creación.
 
 − Teorías clásicas y modernas acerca de la belleza y el arte. Teorías y problemas estéticos contemporáneos. La reflexión en torno a la imagen y la cultura audiovisual.
 
-
 **Física**
 
 La física, como disciplina que estudia la naturaleza, se encarga de entender y describir el universo, desde los fenómenos que se producen en el microcosmos hasta aquellos que se dan en el macrocosmos. La materia, la energía y las interacciones se comportan de forma distinta en las diferentes situaciones, lo que hace que los modelos, principios y leyes de la física que el alumnado ha de aplicar para explicar la naturaleza deban ajustarse a la escala de trabajo y a que las respuestas que encuentre serán siempre aproximadas y condicionadas por el contexto. Resulta adecuado que los alumnos y alumnas perciban la física como una ciencia que evoluciona, y reconozcan también que los conocimientos que implica la relacionan íntimamente con la tecnología, la sociedad y el medioambiente, lo que la convierte en una ciencia indispensable para la formación individual de cada estudiante de la modalidad de Ciencias y Tecnología, pues le permite formar parte activa de una ciencia en construcción a partir del análisis de su evolución histórica y de las destrezas que adquiere para observar, explicar y demostrar los fenómenos naturales.
@@ -4345,7 +4265,6 @@ D. Física relativista, cuántica, nuclear y de partículas.
 − Modelo estándar en la física de partículas. Clasificaciones de las partículas fundamentales. Las interacciones fundamentales como procesos de intercambio de partículas (bosones). Aceleradores de partículas.
 
 − Núcleos atómicos y estabilidad de isótopos. Radiactividad natural y otros procesos nucleares. Aplicaciones en los campos de la ingeniería, la tecnología y la salud.
-
 
 **Física y Química**
 
@@ -4520,7 +4439,6 @@ F. Energía.
 − Energía potencial y energía cinética de un sistema sencillo: aplicación a la conservación de la energía mecánica en sistemas conservativos y no conservativos y al estudio de las causas que producen el movimiento de los objetos en el mundo real.
 
 − Variables termodinámicas de un sistema en función de las condiciones: determinación de las variaciones de temperatura que experimenta y las transferencias de energía que se producen con su entorno.
-
 
 **Fundamentos Artísticos**
 
@@ -4717,7 +4635,6 @@ F. Metodologías y estrategias.
 − Metodología proyectual. Fases de los proyectos artísticos.
 
 − Estrategias de selección de estilos, técnicas y lenguajes.
-
 
 **Geología y Ciencias Ambientales**
 
@@ -4933,7 +4850,6 @@ G. Recursos y su gestión sostenible.
 
 − Los impactos ambientales y sociales de la explotación de recursos (hídricos, paisajísticos, mineros, energéticos, edáficos, etc.): medidas preventivas, correctoras y compensatorias.
 
-
 **Geografía**
 
 La geografía explora las complejas interacciones e interdependencias entre las personas y el territorio, contribuyendo al descubrimiento del espacio en el que viven, desde la referencia del entorno local a un contexto global, sirviendo también de guía para comprender una realidad ecosocial en constante transformación y encontrar nuestro lugar en el mundo, reconociendo límites y buscando oportunidades ante los retos del siglo XXI.
@@ -5094,7 +5010,6 @@ C. La ordenación del territorio en el enfoque ecosocial.
 
 − Los espacios terciarizados. El modelo de economía circular y los servicios: relaciones entre producción, distribución y venta. Análisis crítico de huellas ecológicas, estructura sociolaboral, responsabilidad social corporativa y de los consumidores. Estudio de casos: competitividad y desequilibrios en transporte, comercio, turismo, servicios esenciales, etc. y factores de localización. Modelos insostenibles de servicios y alternativas. La economía digital: impacto de la «economía colaborativa» y nuevos modelos de negocio en el contexto global y de la Unión Europea.
 
-
 **Griego**
 
 Las humanidades y el planteamiento de una educación humanista en la civilización europea van intrínsecamente ligadas a la tradición y la herencia cultural de la Antigüedad clásica. Una educación humanista sitúa a las personas y su dignidad como valores fundamentales, guiándolas en la adquisición de las competencias que necesitan para participar de forma efectiva en los procesos democráticos, en el diálogo intercultural y en la sociedad en general. A través del aprendizaje de aspectos relacionados con la lengua, la cultura y la civilización griegas, la materia de Griego permite una reflexión profunda sobre el presente y sobre el papel que el Humanismo puede y debe desempeñar ante los retos y desafíos del siglo XXI. Esta materia contiene, además, un valor instrumental para el aprendizaje de lenguas, literatura, religión, historia, filosofía, política o ciencia, proporcionando un sustrato cultural que permite comprender el mundo, los acontecimientos y los sentimientos y que contribuye a la educación cívica y cultural del alumnado.
@@ -5161,9 +5076,7 @@ El legado de la civilización helena, tanto material como inmaterial (mitos y le
 
 Esta competencia específica se conecta con los siguientes descriptores: CCL3, CD2, CC1, CC4, CE1, CCEC1, CCEC2.
 
-
 **Griego I**
-
 
 **Criterios de evaluación**
 
@@ -5331,9 +5244,7 @@ V. Legado y patrimonio.
 
 − Principales sitios arqueológicos, museos o festivales relacionados con la Antigüedad clásica.
 
-
 **Griego II**
-
 
 **Criterios de evaluación**
 
@@ -5493,7 +5404,6 @@ V. Legado y patrimonio.
 
 − Principales sitios arqueológicos, museos o festivales relacionados con la Antigüedad.
 
-
 **Historia del Arte**
 
 El objeto de la materia de Historia del Arte es el análisis del hecho artístico en sus múltiples facetas y dimensiones, no solo desde una perspectiva histórica, mediante la contextualización cultural y temporal de estilos, obras y artistas, sino, entendiéndolo como una manifestación de la inteligencia y la creatividad humana que, a través del lenguaje y la actividad artística, se empeña en comprender y mejorar la realidad que nos rodea.
@@ -5581,7 +5491,6 @@ La historiografía del arte, gestada a partir de mediados del siglo XVIII, releg
 Por otra parte, analizando los estereotipos y símbolos relacionados con la mujer y el ámbito femenino en obras de arte en que se representan espacios, roles, actividades y modos de vida, se pueden contextualizar y comprender mejor las relaciones entre ambos sexos a lo largo de la historia. Se trata así de promover en el alumnado actitudes críticas y de rechazo hacia el sexismo y la discriminación de la mujer, a partir de un análisis crítico de aquellas representaciones y de su función como generadoras de conformidad social.
 
 Esta competencia específica se conecta con los siguientes descriptores: CCL5, CPSAA3.1, CC1, CC2, CC3, CCEC1, CCEC2, CCEC3.2.
-
 
 **Criterios de evaluación**
 
@@ -5681,7 +5590,6 @@ D. Realidad, espacio y territorio en el arte.
 
 − El patrimonio artístico: preservación, conservación y usos sostenibles. Museografía y museología.
 
-
 **Historia de España**
 
 La materia de Historia de España introduce al alumnado en la perspectiva del pensamiento histórico, indispensable para la observación, interpretación y comprensión de la realidad en la que vive. Atender a los principales retos y problemas a los que se enfrenta en el siglo XXI resulta esencial para el ejercicio de su madurez intelectual y personal, al situarlo ante los desafíos sociales del presente con objeto de orientar su actuación con compromiso y responsabilidad. El análisis del pasado, de las experiencias individuales y colectivas de las mujeres y los hombres que nos han precedido, constituye una referencia imprescindible para entender el mundo actual. Además, conforma un rico legado que se debe apreciar, conservar y transmitir, como memoria colectiva de las distintas generaciones que nos han antecedido y como fuente de aprendizaje para las que nos van a suceder. De esta manera, al estudiar los acontecimientos vividos por otros, las dificultades a las que tuvieron que hacer frente y las decisiones que adoptaron, el alumnado toma conciencia de los factores que condicionan la actuación humana y el papel que cobran en la historia determinados elementos como las identidades, las creencias, las ideas y las propias emociones. Igualmente, aprende a valorar los aciertos, logros y avances históricos hasta llegar al actual estado social y de derecho en el que se fundamenta nuestra convivencia democrática, considerando también las dificultades, conductas, acciones y retrocesos que han marcado en el tiempo determinadas situaciones traumáticas y dolorosas, y que la sociedad en su conjunto debe conocer para poder superarlas.
@@ -5747,7 +5655,6 @@ Esta competencia específica se conecta con los siguientes descriptores: CCL4, C
 El alumnado debe conocer que la historia se concibe como un proceso abierto y en constante revisión que se interpreta en función de las preocupaciones e intereses de la sociedad en cada momento. Así, investigando los fines, intereses y usos que, por parte de diferentes entidades e instituciones han condicionado el conocimiento histórico a lo largo del tiempo, se enriquece el conocimiento del pasado. El alumnado debe comprender que los cambios metodológicos e historiográficos responden, en gran medida, a las transformaciones que se producen en el presente y al modo en el que la investigación puede aportar ideas y soluciones relativas a los retos a los que nos enfrentamos. Esta visión funcional y crítica debe incorporarse al aprendizaje de la Historia de España, integrando el pensamiento histórico y sus métodos a través de la realización de proyectos orientados a una finalidad social o cultural determinada, preferentemente conectada con el entorno real, generándose así planteamientos que acerquen al alumnado a una perspectiva de la «historia desde abajo», así como a «talleres de historia» que le lleven a poner en práctica los procesos de indagación y de investigación. De este modo se consigue identificar el legado histórico como un bien común en cuya construcción y puesta en valor debe participar la comunidad, conservando la memoria colectiva a través del contacto y la solidaridad entre las generaciones. Se trata también aquí de señalar aquellos problemas ecosociales que más preocupan en la actualidad y tomar conciencia histórica de los mismos, elaborando productos creativos y eficaces, transfiriendo ese conocimiento y despertando el interés social. El patrimonio histórico y cultural adquiere, en fin, una nueva dimensión al contextualizar y al contrastar sus diferentes significados, asumiendo como una responsabilidad individual y colectiva su conservación y su utilización para el fortalecimiento de la cohesión social.
 
 Esta competencia específica se conecta con los siguientes descriptores: STEM3, CPSAA1.1, CPSAA3.1, CPSAA3.2, CC1, CC3, CE3, CCEC3.2.
-
 
 **Criterios de evaluación**
 
@@ -5867,7 +5774,6 @@ C. Compromiso cívico.
 
 − Conservación y difusión del patrimonio histórico: el valor patrimonial, social y cultural de la memoria colectiva. Archivos, museos y centros de divulgación e interpretación histórica.
 
-
 **Historia de la Filosofía**
 
 Las culturas humanas se constituyen y reconocen en orden a las respuestas que ofrecen a las cuestiones más fundamentales. Entre estas cuestiones se encuentran las referidas al origen, naturaleza y sentido del cosmos, al propio ser y destino del ser humano, a la posibilidad y las formas del conocimiento, y a la definición de aquellos valores (la verdad, el bien, la justicia, la belleza) que estimamos adecuados para orientar nuestras acciones y creaciones. Ahora bien, aunque las cuestiones son, en esencia, las mismas, la variabilidad histórica de las formas en que se plantean y se intenta responder a ellas es aparentemente enorme. El objetivo de la materia de Historia de la Filosofía en Bachillerato es recorrer el camino en que estas preguntas y respuestas se han dado, de una forma distintivamente crítica y racional, en el devenir del pensamiento occidental, sin que ello signifique menospreciar la riqueza y relevancia de otras tradiciones de pensamiento. Este objetivo es de una importancia sobresaliente para el logro de la madurez personal, social y profesional del alumnado. Aventurarnos a explorar la vida de las ideas filosóficas en la relación compleja y dialéctica que mantienen históricamente entre sí y con otros aspectos de nuestra cultura, es también explorar la intrincada red de conceptos y representaciones sobre la que pensamos, deseamos, sentimos y actuamos. Así, lejos de ser un mero compendio erudito de conocimientos, la materia de Historia de la Filosofía debe representar para los alumnos y alumnas un fascinante ejercicio de descubrimiento del conjunto de ideas y valores que sustentan tanto su forma de ser, como la de su propia época y entorno social.
@@ -5935,7 +5841,6 @@ Esta competencia específica se conecta con los siguientes descriptores: CCL2, C
 Los grandes sistemas de pensamiento habidos a lo largo del tiempo no son solo lugares de referencia obligada para entender en profundidad el pasado, nuestras señas de identidad culturales o nuestro modo mismo de ser, conocer o valorar, sino que son también guías que, tratadas de manera crítica, iluminan los más complejos debates actuales, constituyendo así una herramienta indispensable para nuestra tarea de promover un mundo más justo, sostenible y racional. En este sentido, la historia de la filosofía representa un esfuerzo progresivo por comprender la realidad y orientar la acción humana, tanto en un sentido individual como en el colectivo. Además, provee al alumnado de un marco de referencia idóneo para el ejercicio de una ciudadanía consciente, críticamente comprometida con los valores comunes y detentadora de una actitud reflexiva y constructiva ante los retos del siglo XXI. Así, en la medida en que se conozcan con profundidad las distintas ideas, teorías y controversias filosóficas implicadas en cuestiones que, como la desigualdad y la pobreza, la situación de los derechos humanos en el mundo, el logro de la efectiva igualdad y corresponsabilidad entre mujeres y hombres, o los problemas ecosociales, conforman la actualidad, se estará en mejores condiciones para entender y afrontar dichas cuestiones. El propósito último es que el alumnado pueda posicionarse ante ellas con plena conciencia de lo que sus ideas deben al curso histórico del pensamiento filosófico y, por ello, con una mayor exigencia crítica y un más firme compromiso tanto con el perfeccionamiento de dichas ideas como con las actitudes y acciones que quepa deducir de ellas.
 
 Esta competencia específica se conecta con los siguientes descriptores: CPSAA4, CC1, CC2, CC3, CC4, CE1.
-
 
 **Criterios de evaluación**
 
@@ -6029,7 +5934,6 @@ C. De la modernidad a la postmodernidad.
 
 − El desarrollo contemporáneo del feminismo: Simone de Beauvoir.
 
-
 **Historia del Mundo Contemporáneo**
 
 La materia de Historia del Mundo Contemporáneo pretende proporcionar al alumnado una visión rigurosa y a la vez útil y funcional de la historia contemporánea, orientada a promover la observación, análisis e interpretación de su entorno real y, al mismo tiempo, al ejercicio de una ciudadanía activa e implicada en la vida social. El pensamiento histórico, que integra el conjunto de intenciones, estrategias y métodos que orientan el estudio del pasado, se pone al servicio de la comprensión del presente para afrontar así los retos que nos plantea el siglo XXI. Porque es desde la observación del mundo actual y la previsión del porvenir que ya despunta, de donde surge la necesidad de dirigir nuestra mirada a la historia, más o menos reciente, para obtener las claves, las preguntas y tal vez también alguna de las respuestas con las que entender y mejorar el mundo en el que vivimos. Los problemas y retos que nos plantea la realidad globalizada que configura nuestro entorno son múltiples e ineludibles, y no es posible atenderlos sin los recursos que nos ofrece la historia contemporánea, que desde hace algo más de dos siglos trata de dar respuesta a buena parte de estos mismos desafíos. En este sentido, el alumnado debe tomar conciencia de que hereda un legado, dado en las experiencias acumuladas por las generaciones que nos precedieron, en el que junto a los grandes logros que nos permiten disponer hoy de un relativo bienestar, también cabe encontrar errores, fracasos y hechos dolorosos que es preciso afrontar e incorporar a nuestra memoria colectiva para aprender a evitar situaciones semejantes. Ahora bien, concebir la historia como un proceso abierto, siempre en construcción, en el que la ciudadanía escribe su propio destino, implica asumir una responsabilidad cívica comprometida con una sociedad más justa, equitativa y solidaria.
@@ -6095,7 +5999,6 @@ Esta competencia específica se conecta con los siguientes descriptores: CCL3, C
 La historia que se escribe presta mayor atención a los hechos y personajes excepcionales e individuales que protagonizan los grandes cambios que a las permanencias y a los sujetos anónimos, que suelen pasar desapercibidos. El alumnado debe tomar conciencia de que el conocimiento histórico del que disponemos resulta incompleto, y que se hacen necesarias otras visiones que aporten información sobre aspectos esenciales de las vidas y experiencias de los que nos han precedido. El acercamiento al pensamiento histórico y la realización de trabajos de investigación, a modo de talleres de historia, en los que el alumnado lleve a cabo experiencias directas a través del uso de documentos de archivos o hemerotecas digitales y del trabajo con fuentes orales, gráficas o audiovisuales, especialmente en contextos locales, lo aproxima al quehacer del historiador y a su metodología. Por otro lado, los estudios sobre la población, los modos de vida y la actividad cotidiana resultan esenciales tanto para entender los comportamientos sociales y las relaciones de género e intergeneracionales, como para rescatar y valorar aquellas percepciones, emociones, creencias y esquemas culturales en las que se expresa la diversidad social contemporánea. Esta perspectiva implica el análisis de los mecanismos de control, subordinación, dominio y sumisión que ha sufrido de manera intensa y continuada la mujer, relegada al silencio y al olvido, así como de las acciones en favor de su emancipación y del desarrollo de los movimientos feministas. Se trata, en fin, de promover un modo de entender la historia como un proceso abierto y en construcción, capaz de conectar los grandes acontecimientos con el entorno más cercano y en donde los personajes anónimos cobran importancia y valor, concibiendo así la memoria como un bien colectivo rico en experiencias y proyectos de futuro.
 
 Esta competencia específica se conecta con los siguientes descriptores: CCL5, STEM3, CD2, CPSAA1.2, CPSAA3.1, CPSAA4, CC2, CC3.
-
 
 **Criterios de evaluación**
 
@@ -6229,7 +6132,6 @@ C.  Compromiso cívico.
 
 − Conservación y difusión del patrimonio histórico: el valor patrimonial, social y cultural de la memoria colectiva. Archivos, museos y centros de divulgación e interpretación histórica.
 
-
 **Historia de la Música y de la Danza**
 
 La materia de Historia de la Música y de la Danza proporciona al alumnado una visión global de la evolución de ambas disciplinas, estableciendo vínculos con los contextos en que fueron creadas. Introduce, así, al alumnado en el descubrimiento de los periodos en los que tradicionalmente se ha clasificado la evolución histórica de la música y la danza, desde la Antigüedad clásica hasta nuestros días, abordando los diferentes modos de concebir la creación musical y dancística que, en gran medida, han discurrido de forma conjunta a lo largo del tiempo. De esta forma, el alumnado podrá identificar las características de la música y de la danza para comprender su evolución y establecer asociaciones con otras manifestaciones artísticas, enriqueciendo su repertorio cultural.
@@ -6285,7 +6187,6 @@ La transmisión de ideas y opiniones propias, informadas y fundamentadas, sobre 
 Se ofrece, así, al alumnado la posibilidad de desarrollar una visión crítica sobre cuestiones teóricas y estéticas que afectan a la música y la danza. Para compartir esa visión crítica se propone la producción de trabajos, reseñas o comentarios, orales, escritos o multimodales, que tomen en consideración el contexto de creación de las obras y respeten los derechos de autor y la propiedad intelectual. En este sentido, el uso de aplicaciones digitales como apoyo a la comunicación o difusión de la información en diferentes formatos servirá para mejorar la capacidad comunicativa del alumnado en torno al hecho musical.
 
 Esta competencia específica se conecta con los siguientes descriptores: CCL1, CD2, CD3, CPSAA1.1, CPSAA5, CC3, CCEC1, CCEC4.2.
-
 
 **Criterios de evaluación**
 
@@ -6363,7 +6264,6 @@ D. Experimentación activa.
 
 − Estrategias y técnicas básicas de dramatización de textos de la música vocal y su dramatización.
 
-
 **Latín**
 
 Las humanidades y el planteamiento de una educación humanista en la civilización europea van intrínsecamente ligadas a la tradición y a la herencia cultural de la Antigüedad clásica. Una educación humanista sitúa a las personas y su dignidad como valores fundamentales, guiándolas en la adquisición de las competencias que necesitan para participar de forma efectiva en los procesos democráticos, en el diálogo intercultural y en la sociedad en general. A través del aprendizaje de aspectos relacionados con la lengua, la cultura y la civilización romanas, la materia de Latín permite una reflexión profunda sobre el presente y sobre el papel que el Humanismo puede y debe desempeñar ante los retos y desafíos del siglo XXI. Esta materia contiene, además, un valor instrumental para el aprendizaje de lenguas, literatura, religión, historia, filosofía, derecho, política o ciencia, proporcionando un sustrato cultural que permite comprender el mundo, los acontecimientos y los sentimientos, y que contribuye a la educación cívica y cultural del alumnado.
@@ -6430,9 +6330,7 @@ El legado de la civilización latina, tanto material como inmaterial (restos arq
 
 Esta competencia específica se conecta con los siguientes descriptores: CCL3, CD2, CC1, CC4, CE1, CCEC1, CCEC2.
 
-
 **Latín I**
-
 
 **Criterios de evaluación**
 
@@ -6608,9 +6506,7 @@ V. Legado y patrimonio.
 
 − Principales sitios arqueológicos, museos o festivales relacionados con la Antigüedad clásica.
 
-
 **Latín II**
-
 
 **Criterios de evaluación**
 
@@ -6778,7 +6674,6 @@ V. Legado y patrimonio.
 
 − Principales sitios arqueológicos, museos o festivales relacionados con la Antigüedad clásica.
 
-
 **Lengua Castellana y Literatura**
 
 La materia de Lengua Castellana y Literatura mantiene en Bachillerato una continuidad con la etapa anterior, al tiempo que tiene unos fines específicos en consonancia con los objetivos de esta etapa. Así, la educación lingüística y literaria debe contribuir a la madurez personal e intelectual de los jóvenes; brindar los conocimientos, habilidades y actitudes que les permitan participar en la vida social y ejercer la ciudadanía democrática de manera ética y responsable, así como capacitarlos para el acceso a la formación superior y al futuro profesional de manera competente.
@@ -6883,9 +6778,7 @@ En el ámbito de la comunicación personal, la educación lingüística debe ayu
 
 Esta competencia específica se conecta con los siguientes descriptores: CCL1, CCL5, CP3, CD3, CPSAA3.1, CC1, CC2, CC3.
 
-
 **Lengua Castellana y Literatura I**
-
 
 **Criterios de evaluación**
 
@@ -7065,9 +6958,7 @@ Elaboración de conclusiones propias sobre el funcionamiento del sistema lingü�
 
 − Uso autónomo de diccionarios, manuales de gramática y otras fuentes de consulta para obtener información gramatical de carácter general.
 
-
 **Lengua Castellana y Literatura II**
-
 
 **Criterios de evaluación**
 
@@ -7245,7 +7136,6 @@ Elaboración de conclusiones propias sobre el funcionamiento del sistema lingü�
 
 − Uso autónomo de diccionarios, manuales de gramática y otras fuentes de consulta para obtener información gramatical de carácter general.
 
-
 **Lengua Extranjera**
 
 La rápida evolución de las sociedades actuales y sus múltiples interconexiones exigen el desarrollo de aquellas competencias que ayuden a los individuos a practicar una ciudadanía independiente, activa y comprometida con la realidad contemporánea, cada vez más global, intercultural y plurilingüe. Tal y como señala el Marco de referencia para una cultura democrática, en las actuales sociedades, culturalmente diversas, los procesos democráticos requieren del diálogo intercultural. Por lo tanto, la comunicación en distintas lenguas resulta clave en el desarrollo de esa cultura democrática. En la idea de un Espacio Europeo de Educación, la comunicación en más de una lengua evita que la educación y la formación se vean obstaculizadas por las fronteras y favorece la internacionalización y la movilidad, además de permitir el descubrimiento de otras culturas ampliando las perspectivas del alumnado.
@@ -7312,9 +7202,7 @@ La conciencia de la diversidad proporciona al alumnado la posibilidad de relacio
 
 Esta competencia específica se conecta con los siguientes descriptores: CCL5, CP3, CPSAA3.1, CC3, CCEC1.
 
-
 **Lengua Extranjera I**
-
 
 **Criterios de evaluación**
 
@@ -7416,9 +7304,7 @@ C. Interculturalidad.
 
 − Estrategias de detección, rechazo y actuación ante usos discriminatorios del lenguaje verbal y no verbal.
 
-
 **Lengua Extranjera II**
-
 
 **Criterios de evaluación**
 
@@ -7520,7 +7406,6 @@ C. Interculturalidad.
 
 − Estrategias de prevención, detección, rechazo y actuación ante usos discriminatorios del lenguaje verbal y no verbal.
 
-
 **Lenguaje y Práctica Musical**
 
 La materia de Lenguaje y Práctica Musical proporciona al alumnado una formación que le permite profundizar en el conocimiento y el uso de la música como lenguaje universal, desarrollando habilidades perceptivas con fines expresivos y creativos.
@@ -7586,7 +7471,6 @@ Las posibilidades que ofrecen las herramientas y medios tecnológicos permiten a
 De igual forma, la difusión de las producciones musicales o audiovisuales a través de diferentes plataformas digitales en internet amplía el marco comunicativo habitual del alumnado. En este sentido, es importante que el alumnado evalúe los riesgos de los espacios virtuales utilizados, conozca las medidas de protección de datos personales y asegure el respeto a la propiedad intelectual y a los derechos de autor.
 
 Esta competencia específica se conecta con los siguientes descriptores: CP1, CD2, CD3, CPSAA1.1, CE1, CE3, CCEC2, CCEC4.1.
-
 
 **Criterios de evaluación**
 
@@ -7664,7 +7548,6 @@ B. Práctica musical.
 
 − La música como forma de expresión.
 
-
 **Literatura Dramática**
 
 La materia Literatura Dramática enriquece de modo innegable el desarrollo de las competencias clave del alumnado de Bachillerato, puesto que despliega su conciencia artística y su sensibilidad, ligadas a las cualidades expresivas, simbólicas, técnicas, estéticas y sociológicas del género teatral. Asimismo, complementa el trazado seguido para la educación literaria en la Secundaria Obligatoria y en las materias de Lengua Castellana y Literatura y Literatura Universal en Bachillerato, por lo que lleva aparejados similares principios metodológicos. En efecto, el aula de literatura constituye un espacio privilegiado para el desarrollo de las dos modalidades de lectura abordadas a lo largo de toda la escolarización –la lectura guiada y la lectura autónoma– favoreciendo la confluencia de sus respectivos corpus. En el caso que nos ocupa y dadas las características del género dramático, estas dos modalidades se abren a un concepto más amplio de recepción, por el que el acceso al legado teatral se logra tanto a través de la lectura como del visionado audiovisual o de la asistencia a puestas en escena. En atención a esta especificidad, hablaremos de recepción guiada y recepción autónoma cuando sea pertinente hacerlo. Este recorrido por la inmensa intertextualidad literaria supone una oportunidad magnífica para reflexionar sobre el sentido de la literatura, de la escritura, de la autoría o de la relación con el tiempo social desde el que se escribe y desde el que se lee. Por último, se fomenta la capacidad de aprender a ser espectador o espectadora de teatro, comprender su importancia y su vocación de creación de conciencia social, constatar y valorar la creación artística al servicio de unos lenguajes específicos y, además, experimentar la práctica de algunas técnicas básicas de lectura dramática.
@@ -7728,7 +7611,6 @@ La sensibilidad contemporánea y los estudios literarios recientes coinciden al 
 A tal fin, la selección de las obras objeto de lectura compartida, así como los fragmentos y representaciones teatrales a ella asociados, deben incorporar muestras representativas de un patrimonio auténticamente universal, con presencia de mujeres escritoras, de personajes femeninos destacables y de obras no occidentales, al tiempo que el hilo conductor de alguno de estos itinerarios puede poner el foco precisamente en estos aspectos. La presentación de un corpus de textos organizados temáticamente pretende favorecer estas apuestas.
 
 Esta competencia específica se conecta con los siguientes descriptores: CCL1, CCL2, CCL4, CPSAA3.1, CPSAA4, CC1, CCEC1, CCEC2.
-
 
 **Criterios de evaluación**
 
@@ -7854,7 +7736,6 @@ B. Recepción autónoma de obras relevantes de la literatura dramática y part
 
 − Recomendación de las lecturas y puestas en escena en soportes variados, atendiendo a aspectos temáticos, formales e intertextuales.
 
-
 **Literatura Universal**
 
 La materia Literatura Universal continúa el trazado seguido para la educación literaria en la etapa anterior, al tiempo que complementa la abordada en Lengua Castellana y Literatura de Bachillerato. Constituye un espacio privilegiado para el desarrollo de las dos modalidades de lectura literaria planteadas a lo largo de toda la escolarización –la lectura guiada y la lectura autónoma– favoreciendo la confluencia de sus respectivos corpus y sus formas de fruición. De esta manera, adolescentes y jóvenes se alejan paulatinamente de la mera lectura identificativa y argumental de obras próximas a su ámbito de experiencias, para acceder a obras complejas que reclaman habilidades de interpretación más consolidadas y que abren su mirada a otros marcos culturales.
@@ -7914,7 +7795,6 @@ La sensibilidad contemporánea y los estudios literarios recientes coinciden al 
 A tal fin, la selección de las obras objeto de lectura compartida y acompañada, así como los fragmentos a ellas asociados, deben incorporar muestras representativas de un patrimonio auténticamente universal, con presencia de mujeres escritoras y obras no occidentales. El hilo conductor de alguno de estos itinerarios podría poner el foco precisamente en estos aspectos. La presentación de un corpus de textos organizados sobre el doble eje temático y de género pretende favorecer estas apuestas.
 
 Esta competencia específica se conecta con los siguientes descriptores: CCL1, CCL2, CCL4, CPSAA3.1, CPSAA4, CC1, CCEC1, CCEC2.
-
 
 **Criterios de evaluación**
 
@@ -8013,7 +7893,6 @@ B. Lectura autónoma de obras relevantes del patrimonio universal desarrolland
 − Movilización de la experiencia personal, lectora y cultural para establecer vínculos entre la obra leída y aspectos de la actualidad y otras manifestaciones literarias o artísticas.
 
 − Recomendación de las lecturas en soportes variados atendiendo a aspectos temáticos, formales e intertextuales.
-
 
 **Matemáticas**
 
@@ -8117,9 +7996,7 @@ El desarrollo de esta competencia conlleva identificar y gestionar las propias e
 
 Esta competencia específica se conecta con los siguientes descriptores: CP3, STEM5, CPSAA1.1, CPSAA1.2, CPSAA3.1, CPSAA3.2, CC2, CC3, CE2.
 
-
 **Matemáticas I**
-
 
 **Criterios de evaluación**
 
@@ -8305,9 +8182,7 @@ F. Sentido socioafectivo.
 
 − Valoración de la contribución de las matemáticas y el papel de matemáticos y matemáticas a lo largo de la historia en el avance de la ciencia y la tecnología.
 
-
 **Matemáticas II**
-
 
 **Criterios de evaluación**
 
@@ -8489,7 +8364,6 @@ F. Sentido socioafectivo.
 
 − Valoración de la contribución de las matemáticas y el papel de matemáticos y matemáticas a lo largo de la historia en el avance de la ciencia y la tecnología.
 
-
 **Matemáticas Aplicadas a las Ciencias Sociales**
 
 Las matemáticas constituyen uno de los mayores logros culturales e intelectuales de la humanidad. A lo largo de la historia, las diferentes culturas se han esforzado en describir la naturaleza utilizando las matemáticas y en transmitir todo el conocimiento adquirido a las generaciones futuras. Hoy en día, ese patrimonio intelectual adquiere un valor fundamental ya que los grandes retos globales, como el respeto al medio ambiente, la eficiencia energética o la industrialización inclusiva y sostenible, a los que la sociedad tendrá que hacer frente, requieren de un alumnado capaz de adaptarse a las condiciones cambiantes, de aprender de forma autónoma, de modelizar situaciones, de explorar nuevas vías de investigación y de usar la tecnología de forma efectiva. Por tanto, resulta imprescindible para la ciudadanía del s. XXI la utilización de conocimientos y destrezas matemáticas como el razonamiento, la modelización, el pensamiento computacional o la resolución de problemas.
@@ -8592,9 +8466,7 @@ El desarrollo de esta competencia conlleva identificar y gestionar las propias e
 
 Esta competencia específica se conecta con los siguientes descriptores: CP3, STEM5, CPSAA1.1, CPSAA1.2, CPSAA3.1, CPSAA3.2, CC2, CC3, CE2.
 
-
 **Matemáticas Aplicadas a las Ciencias Sociales I**
-
 
 **Criterios de evaluación**
 
@@ -8768,9 +8640,7 @@ E. Sentido socioafectivo.
 
 − Valoración de la contribución de las matemáticas y el papel de matemáticos y matemáticas a lo largo de la historia en el avance de las ciencias sociales.
 
-
 **Matemáticas aplicadas a las Ciencias Sociales II**
-
 
 **Criterios de evaluación**
 
@@ -8932,7 +8802,6 @@ E. Sentido socioafectivo.
 
 − Valoración de la contribución de las matemáticas y el papel de matemáticos y matemáticas a lo largo de la historia del avance de las ciencias sociales.
 
-
 **Matemáticas Generales**
 
 El desarrollo vertiginoso del mundo actual hace necesario que el alumnado analice e interprete la realidad para poder adaptarse a unas condiciones llenas de incertidumbre, además de disponer de las competencias necesarias para aprender por sí mismo. Las matemáticas desempeñan un papel fundamental para modelizar, analizar y comprender los fenómenos de múltiples campos de conocimiento: sociales, educativos, científicos, económicos, etc. Las competencias matemáticas comprenden, además de las ideas y elementos matemáticos, destrezas de resolución de problemas, de razonamiento matemático y de comunicación extrapolables a contextos no matemáticos.
@@ -9030,7 +8899,6 @@ Por otro lado, trabajar los valores de respeto, igualdad o resolución pacífica
 El desarrollo de esta competencia conlleva identificar y gestionar las propias emociones en el proceso de aprendizaje de las matemáticas, reconocer las fuentes de estrés, ser perseverante en la consecución de los objetivos, pensar de forma crítica y creativa, crear resiliencia y mantener una actitud proactiva ante nuevos retos matemáticos. Asimismo, implica mostrar empatía por los demás, establecer y mantener relaciones positivas, ejercitar la escucha activa y la comunicación asertiva en el trabajo en equipo y tomar decisiones responsables.
 
 Esta competencia específica se conecta con los siguientes descriptores: CP3, STEM5, CPSAA1.1, CPSAA1.2, CPSAA3.1, CPSAA3.2, CC2, CC3, CE2.
-
 
 **Criterios de evaluación**
 
@@ -9204,7 +9072,6 @@ F. Sentido socioafectivo.
 
 − Valoración de la contribución de las matemáticas y el papel de matemáticos y matemáticas a lo largo de la historia en el avance de la humanidad.
 
-
 **Movimientos Culturales y Artísticos**
 
 La cultura forma un tejido complejo que se articula, ordena y reestructura permanentemente. Como conjunto de rasgos distintivos de una sociedad, requiere de un proceso de aprendizaje colectivo, que incluye creencias, sistemas de valores, tradiciones, costumbres, artes, ciencia y modos de pensamiento. Una sólida comprensión de la propia cultura favorecerá que el alumnado desarrolle el sentido de la identidad cultural y que construya un vínculo social basado en referencias comunes. Por otro lado, el arte es el conjunto de creaciones humanas, enmarcadas e integradas dentro de la cultura, mediante las que se manifiesta una visión personal sobre lo real o imaginado. También es una construcción histórica y social a la que se le atribuyen valores trascendentales de la civilización. La materia Movimientos Culturales y Artísticos, de 2.º de Bachillerato, contribuye al conocimiento de la propia cultura, y, además, a una formación integral del alumnado en valores ciudadanos, en el respeto a la diversidad de las expresiones artísticas y en la promoción del diálogo entre culturas.
@@ -9270,7 +9137,6 @@ Más allá de un proceso de análisis formal y funcional con el que indagar sobr
 Todo ello debe aportar también al alumnado un conocimiento más preciso de las repercusiones sociales y económicas de la cultura y el arte, así como de su relevancia en la consecución de los objetivos de desarrollo sostenible, otorgándole la posibilidad de realizar un análisis crítico del arte y la cultura que tenga en consideración diversas vertientes del fenómeno. Formarle en todos estos aspectos favorece que se implique no solo como espectador, sino como participante activo, promoviendo así su compromiso personal y social.
 
 Esta competencia específica se conecta con los siguientes descriptores: CCL3, STEM2, CPSAA3.1, CC1, CC3, CC4, CCEC1, CCEC3.1.
-
 
 **Criterios de evaluación**
 
@@ -9384,7 +9250,6 @@ E. Lenguajes artísticos contemporáneos.
 
 − Narrativa multiverso y videojuegos.
 
-
 **Proyectos Artísticos**
 
 La materia de Proyectos Artísticos combina una concepción del arte centrada en la expresión personal, que es la que se trabaja en la etapa educativa anterior, con otra en la que resulta fundamental la concreción de los objetivos y finalidades que se plantean en la ejecución de un proyecto artístico, incidiendo, especialmente, en la planificación y gestión del mismo, así como en el efecto que este pueda tener en el entorno físico más cercano o en otras parcelas de la realidad accesibles a través de internet o de las redes sociales. Se pone, así, el énfasis tanto en el proceso como en el resultado.
@@ -9444,7 +9309,6 @@ El tratamiento de la documentación, tanto física como digital, es un component
 Las tareas asociadas a esta competencia comprenden la selección de fuentes, medios y soportes; la elaboración de documentos; la organización del material; el registro reflexivo del proceso y de su resultado y recepción; así como el archivo ordenado, accesible y fácilmente recuperable de toda la documentación.
 
 Esta competencia específica se conecta con los siguientes descriptores: CCL2, CCL3, CD1, CD2, CPSAA4, CPSAA5, CCEC2, CCEC4.2.
-
 
 **Criterios de evaluación**
 
@@ -9509,7 +9373,6 @@ B. Gestión de proyectos artísticos.
 − Sostenibilidad e impacto de los proyectos artísticos.
 
 − Oportunidades de desarrollo personal, social, académico y profesional relacionadas con el ámbito artístico. El emprendimiento cultural.
-
 
 **Química**
 
@@ -9580,7 +9443,6 @@ No es posible comprender profundamente los conceptos fundamentales de la químic
 Para que el alumnado llegue a ser competente desarrollará su aprendizaje a través del estudio experimental y la observación de situaciones en las que se ponga de manifiesto esta relación interdisciplinar; la aplicación de herramientas tecnológicas en la indagación y la experimentación; y el empleo de herramientas matemáticas y el razonamiento lógico en la resolución de problemas propios de la química. Esta base de carácter interdisciplinar y holístico que es inherente a la química proporciona a los alumnos y alumnas que la estudian unos cimientos adecuados para que puedan continuar estudios en diferentes ramas de conocimiento, y a través de diferentes itinerarios formativos, lo que contribuye de forma eficiente a la formación de personas competentes.
 
 Esta competencia específica se conecta con los siguientes descriptores: STEM4, CPSAA3.2, CC4.
-
 
 **Criterios de evaluación**
 
@@ -9748,7 +9610,6 @@ C. Química orgánica.
 
 − Clasificación de los polímeros según su naturaleza, estructura y composición. Aplicaciones, propiedades y riesgos medioambientales asociados.
 
-
 **Técnicas de Expresión Gráfico-plástica**
 
 A lo largo de la historia, las técnicas artísticas han condicionado enormemente la naturaleza y la forma de las obras de arte. Así, la flexibilidad y ductilidad de la pintura al óleo permitió que la pintura abandonara los muros y se trasladara a soportes más livianos, como la tela, lo cual no solo facilitó el traslado de las obras, sino que, al mejorar la plasticidad, permitió representar fundidos, degradados y modelados más elaborados y con apariencia más natural. Al igual que las necesidades expresivas, los materiales, instrumentos y procedimientos evolucionan con el tiempo y conforman un legado técnico-artístico cuyo conocimiento será un requisito indispensable para enriquecer los recursos de cualquier persona dispuesta al estudio o a la producción de obras artísticas.
@@ -9822,7 +9683,6 @@ Otro aspecto que debe evaluarse es, sin duda, la calidad en la ejecución y el g
 Por todo ello, se produce un movimiento que incidirá tanto en la mejora de los trabajos sucesivos, como en el desarrollo de la capacidad crítica argumentada, que podrá aplicarse a otros muchos campos de su vida personal y académica y que es clave para el desarrollo de una personalidad autónoma.
 
 Esta competencia específica se conecta con los siguientes descriptores: CPSAA1.1, CPSAA1.2, CPSAA3.1, CC4, CE2, CCEC1, CCEC2.
-
 
 **Criterios de evaluación**
 
@@ -9924,7 +9784,6 @@ F. Proyectos gráfico-plásticos.
 
 − Estrategias de evaluación de las fases y los resultados de proyectos gráficos. El error como oportunidad de mejora y aprendizaje.
 
-
 **Tecnología e Ingeniería**
 
 En la sociedad actual, el desarrollo de la tecnología por parte de las ingenierías se ha convertido en uno de los ejes en torno a los cuales se articula la evolución sociocultural. En los últimos tiempos, la tecnología, entendida como el conjunto de conocimientos y técnicas que pretenden dar solución a las necesidades, ha ido incrementando su relevancia en diferentes ámbitos de la sociedad, desde la generación de bienes básicos hasta las comunicaciones. En definitiva, se pretende mejorar el bienestar y las estructuras económicas sociales y ayudar a mitigar las desigualdades presentes en la sociedad actual, evitando generar nuevas brechas cognitivas, sociales, de género o generacionales. Se tratan así, aspectos relacionados con los desafíos que el siglo XXI plantea para garantizar la igualdad de oportunidades a nivel local y global.
@@ -10011,9 +9870,7 @@ Para el desarrollo de esta competencia se abordan, por un lado, los sistemas de 
 
 Esta competencia específica se conecta con los siguientes descriptores: STEM2, STEM5, CD1, CD2, CD4, CPSAA2, CC4, CE1.
 
-
 **Tecnología e Ingeniería I**
-
 
 **Criterios de evaluación**
 
@@ -10121,9 +9978,7 @@ G. Tecnología sostenible.
 
 − Instalaciones en viviendas: eléctricas, de agua y climatización, de comunicación y domóticas. Energías renovables, eficiencia energética y sostenibilidad.
 
-
 **Tecnología e Ingeniería II**
-
 
 **Criterios de evaluación**
 
@@ -10213,7 +10068,6 @@ G. Tecnología sostenible.
 
 − Impacto social y ambiental. Informes de evaluación. Valoración crítica de las tecnologías desde el punto de vista de la sostenibilidad ecosocial.
 
-
 **Volumen**
 
 Desde los orígenes de la civilización, los seres humanos han necesitado crear objetos tridimensionales, tanto para responder a necesidades funcionales, como movidos por intenciones lúdicas, religiosas o artísticas. En todas las producciones humanas puede rastrearse una intención estética, que unas veces se produce de una manera intuitiva y emocional y, otras, es el resultado de un proceso racional más o menos sofisticado. La materia de Volumen se ocupa específicamente del estudio del espacio tridimensional en el ámbito de la expresión artística, atendiendo a las cualidades físicas, espaciales, estructurales y volumétricas de los objetos.
@@ -10273,7 +10127,6 @@ La materia de Volumen proporciona el contexto propicio para que el alumnado pued
 Para ello, será necesario que el alumnado organice y distribuya las tareas, que asuma responsabilidades individuales orientadas a conseguir un objetivo común, coordinándose con el resto del equipo y respetando las realizaciones y opiniones de los demás. La identificación y la asunción de diversas tareas y funciones en la ejecución del proyecto favorecerán el descubrimiento de oportunidades de desarrollo personal, social, académico y profesional. Así, el alumnado podrá valorar la metodología proyectual como una forma de desarrollar el pensamiento divergente para la resolución creativa de problemas, así como identificar el trabajo en equipo como fuente de riqueza creativa y favorecer su desarrollo personal y su autoestima.
 
 Esta competencia específica se conecta con los siguientes descriptores: CCL3, STEM3, CD3, CPSAA3.1, CPSAA3.2, CE3, CCEC3.1, CCEC4.1, CCEC4.2.
-
 
 **Criterios de evaluación**
 

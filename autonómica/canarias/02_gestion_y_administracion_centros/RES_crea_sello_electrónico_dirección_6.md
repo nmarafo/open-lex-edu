@@ -69,6 +69,3 @@ Copiar Ruta Ficha
 Impresión
 Impresión Pestaña
 Juriscan - Consultas - Gobierno de Canarias
-© Gobierno de Canarias
-Aviso Legal
-Sugerencias y Reclamaciones

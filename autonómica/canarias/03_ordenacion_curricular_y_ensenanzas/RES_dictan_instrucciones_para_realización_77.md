@@ -37,7 +37,6 @@ Boletín Oficial de Canarias
 Accesibilidad
 Mapa web
 Contacto
-Versión texto
 Inicio
 Archivo
 Búsqueda
@@ -46,11 +45,8 @@ Inicio
 Archivo
 Año 2002
 2002/148. Miércoles 6 de Noviembre de 2002
-1603
-<p>Menú de búsqueda y navegación</p>
 Anterior
 Siguiente
-BOC Nº 148. Miércoles 6 de Noviembre de 2002 - 1603
 III. OTRAS RESOLUCIONES - Consejería de Educación, Cultura y Deportes
 1603 - Dirección General de Promoción Educativa.- Resolución de 14 de octubre de 2002, por la que se dictan instrucciones para la realización de horas lectivas extraordinarias en centros que desarrollen ofertas formativas de Educación de Personas Adultas.
 Descargar en formato pdf
@@ -100,22 +96,13 @@ Una copia de este impreso se entregará al interesado y se dejará constancia en
 Corresponde a la Dirección General de Promoción Educativa la interpretación de lo dispuesto en la presente Resolución.
 Las Palmas de Gran Canaria, a 14 de octubre de 2002.- La Directora General de Promoción Educativa, Isabel de Luis Lorenzo.
 Ver anexos - páginas 18136-18138
-© Gobierno de Canarias
-Aviso Legal
-Sugerencias y Reclamaciones
-
-
 
 ## ANEXOS COMPLEMENTARIOS (Descargados desde PDF del BOC)
 
 ### Anexo Fuente: https://www.gobiernodecanarias.org/boc/2002/148/boc-2002-148-anexo-18136-18138.pdf
 
-18136 Boletín Oficial de Canarias núm. 148, miércoles 6 de noviembre de 2002
 A N E X O  I
 
-Boletín Oficial de Canarias núm. 148, miércoles 6 de noviembre de 2002 18137
 A N E X O  I I
 
-18138 Boletín Oficial de Canarias núm. 148, miércoles 6 de noviembre de 2002
 A N E X O  I I I
-

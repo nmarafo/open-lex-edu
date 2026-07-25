@@ -28,10 +28,7 @@ fuente_pdf_oficial: https://sede.gobiernodecanarias.org/boc/boc-a-2019-067-1646.
 
 # Secretaría General Técnica.- Resolución de 21 de marzo de 2019, por la que se crea el sello electrónico de la Dirección General de Universidades.
 
-Boletín Oficial de Canarias núm. 67
-https://sede.gobcan.es/boc
 Viernes 5 de abril de 2019
-11947
 III. Otras Resoluciones
 Consejería de Educación y Universidades
 1646 Secretaría General Técnica.- Resolución de 21 de marzo de 2019, por la que se crea 
@@ -72,13 +69,8 @@ La Orden de 9 de mayo de 2016, de la Consejería de Presidencia, Justicia e Igua
 regula el sistema de notificación electrónica mediante comparecencia en sedes electrónicas 
 en el ámbito de la Administración Pública de la Comunidad Autónoma de Canarias y sus 
 Página 
-boc-a-2019-067-1646
 
-
-Boletín Oficial de Canarias núm. 67
-https://sede.gobcan.es/boc
 Viernes 5 de abril de 2019
-11948
 organismos públicos dependientes (BOC nº 95, de 18 de mayo), en cuyo artículo 4.7 se 
 establece que en los supuestos de notificación mediante comparecencia en sede electrónica 
 la acreditación de la puesta a disposición o del rechazo del acto objeto de notificación será 
@@ -118,13 +110,8 @@ Segundo.- Órgano responsable.
 El órgano titular del sello electrónico que se crea por la presente resolución y que será 
 responsable, a efectos de su utilización así como de la impugnación, es la Dirección General 
 de Universidades de la Consejería de Educación y Universidades.
-boc-a-2019-067-1646
 
-
-Boletín Oficial de Canarias núm. 67
-https://sede.gobcan.es/boc
 Viernes 5 de abril de 2019
-11949
 Para la definición de las especificaciones, programación, mantenimiento, supervisión 
 y control de calidad, y en su caso, auditoría del sistema de información y de su código 
 fuente, los órganos competentes son la Dirección General de Telecomunicaciones y Nuevas 
@@ -162,13 +149,8 @@ Sexto.- Garantía de autenticidad e integridad.
 El sello electrónico se utilizará para garantizar la autenticidad y la integridad de un 
 documento o expediente electrónico, a cuyo efecto se podrá superponer al código seguro de 
 verificación con que se haya firmado.
-boc-a-2019-067-1646
 
-
-Boletín Oficial de Canarias núm. 67
-https://sede.gobcan.es/boc
 Viernes 5 de abril de 2019
-11950
 Séptimo.- Publicación.
 La presente Resolución se publicará en la sede electrónica de la Consejería de Educación 
 y Universidades y surtirá efectos desde dicha publicación. Además, se publicará en el Boletín 
@@ -179,5 +161,3 @@ publicación, de conformidad con lo dispuesto en los artículos 121 y 122 de la 
 de 1 de octubre, del Procedimiento Administrativo Común de las Administraciones Públicas.
 Santa Cruz de Tenerife, a 21 de marzo de 2019.- La Secretaria General Técnica, Ángeles 
 Bogas Gálvez.
-boc-a-2019-067-1646
-

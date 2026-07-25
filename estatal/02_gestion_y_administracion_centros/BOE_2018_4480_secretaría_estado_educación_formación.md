@@ -44,28 +44,21 @@ Procede ahora, en consonancia con los cambios normativos anteriormente descritos
 
 Por todo ello, y en virtud de las competencias que establece el artículo 149.1.30.ª de la Constitución sobre regulación de las condiciones de obtención, expedición y homologación de títulos académicos y profesionales, dispongo:
 
-
 #### Primero.
 
 Se aprueban las instrucciones para el cálculo de la calificación final que debe figurar en las credenciales de convalidación de estudios por 1.º de Bachillerato y de homologación de títulos extranjeros al título de Graduado o Graduada en Educación Secundaria Obligatoria y con el título de Bachiller español cuyo texto se inserta a continuación.
-
 
 #### Segundo.
 
 Se autoriza a la persona titular de la Dirección General de Evaluación y Cooperación Territorial para la actualización del anexo I de las instrucciones aprobadas por esta resolución, que serán publicadas en la página web del Ministerio de Educación, Cultura y Deporte, en la sección de Homologación y convalidación de títulos y estudios extranjeros no universitarios.
 
-
 #### Tercero.
 
 Se deroga la Resolución de 29 de abril de 2010, de la Secretaría de Estado de Educación y Formación Profesional, por la que se establecen las instrucciones para el cálculo de la calificación final que debe figurar en las credenciales de convalidación y homologación de estudios y títulos extranjeros con el bachiller español.
 
-
 #### Cuarto.
 
-Esta resolución entrará en vigor el día siguiente al de su publicación en el «Boletín Oficial del Estado».
-
 Madrid, 23 de marzo de 2018.–El Secretario de Estado de Educación y Formación Profesional y Universidades, Marcial Marín Hellín.
-
 
 **INSTRUCCIONES PARA EL CÁLCULO DE LA CALIFICACIÓN FINAL QUE DEBE FIGURAR EN LAS CREDENCIALES DE CONVALIDACIÓN DE ESTUDIOS POR 1.º DE BACHILLERATO Y DE HOMOLOGACIÓN DE TÍTULOS EXTRANJEROS AL TÍTULO DE GRADUADO O GRADUADA EN EDUCACIÓN SECUNDARIA OBLIGATORIA Y AL DE BACHILLER ESPAÑOL**
 
@@ -143,7 +136,6 @@ Escalas de calificaciones obtenidas en los sistemas educativos extranjeros
 
 Relación de países de los que se disponen datos para el cálculo de la calificación final del sistema educativo extranjero y su transformación a la correspondiente calificación final española.
 
-
 **AFGANISTÁN**
 
 Escala: numérica creciente de 0 a 100 (sin decimales).
@@ -153,7 +145,6 @@ Mínimo aprobatorio: 55. Máximo aprobatorio: 100.
 N.º de Calificaciones positivas: más de 6.
 
 Nota: El mínimo aprobatorio para cada asignatura considerada individualmente es 40. El mínimo aprobatorio para el conjunto del curso es 55.
-
 
 **ALBANIA**
 
@@ -172,7 +163,6 @@ Escala: numérica creciente de 0 a 10 (con un decimal).
 Mínimo aprobatorio: 5. Máximo aprobatorio: 10.
 
 N.º de Calificaciones positivas: más de 6.
-
 
 **ALEMANIA**
 
@@ -200,7 +190,6 @@ Mínimo aprobatorio: 4 (Ausreichend). Máximo aprobatorio: 1 (Sehr gut).
 
 N.º de Calificaciones positivas: 4.
 
-
 **ANDORRA**
 
 Escala: numérica creciente de 0 a 10 (sin decimales).
@@ -208,7 +197,6 @@ Escala: numérica creciente de 0 a 10 (sin decimales).
 Mínimo aprobatorio: 5. Máximo aprobatorio: 10.
 
 N.º de Calificaciones positivas: 6.
-
 
 **ANGOLA**
 
@@ -218,7 +206,6 @@ Mínimo aprobatorio: 10. Máximo aprobatorio: 20.
 
 N.º de Calificaciones positivas: más de 6.
 
-
 **ARABIA SAUDITA**
 
 Escala: numérica creciente de 0 a 100 (sin decimales).
@@ -227,7 +214,6 @@ Mínimo aprobatorio: 50. Máximo aprobatorio: 100.
 
 N.º de Calificaciones positivas: más de 6.
 
-
 **ARGELIA**
 
 Escala: numérica creciente de 0 a 20 (con un decimal).
@@ -235,7 +221,6 @@ Escala: numérica creciente de 0 a 20 (con un decimal).
 Mínimo aprobatorio: 10. Máximo aprobatorio: 20.
 
 N.º de Calificaciones positivas: más de 6.
-
 
 **ARGENTINA**
 
@@ -371,7 +356,6 @@ SAN LUIS.
 
 SANTA CRUZ.
 
-
 **ARMENIA**
 
 1.
@@ -389,7 +373,6 @@ Escala: numérica creciente de 1 a 10 (sin decimales).
 Mínimo aprobatorio: 3. Máximo aprobatorio: 5.
 
 N.º de Calificaciones positivas: más de 6.
-
 
 **AUSTRALIA**
 
@@ -435,7 +418,6 @@ Mínimo aprobatorio: 25. Máximo aprobatorio: 50.
 
 N.º de Calificaciones positivas: más de 6.
 
-
 **AUSTRIA**
 
 1.
@@ -454,7 +436,6 @@ Mínimo aprobatorio: 4 (Ausreichend o Genügend). Máximo aprobatorio: 1 (Sehr g
 
 N.º de Calificaciones positivas: 4.
 
-
 **AZERBAIYÁN / AZERBYIAN**
 
 Escala: numérica creciente de 1 a 5 (sin decimales).
@@ -462,7 +443,6 @@ Escala: numérica creciente de 1 a 5 (sin decimales).
 Mínimo aprobatorio: 3 (Aprobado). Máximo aprobatorio: 5 (Sobresaliente).
 
 N.º de Calificaciones positivas: 3.
-
 
 **BACHILLERATO INTERNACIONAL**
 
@@ -474,7 +454,6 @@ N.º de Calificaciones positivas: 6.
 
 Calificación de la Monografía y la Teoría del Conocimiento para la obtención del Diploma:
 
-
 **BAHREIN**
 
 Escala: numérica creciente de 0 a 4 (sin decimales).
@@ -482,7 +461,6 @@ Escala: numérica creciente de 0 a 4 (sin decimales).
 Mínimo aprobatorio: 1. Máximo aprobatorio: 4.
 
 N.º de Calificaciones positivas: 4.
-
 
 **BANGLADESH**
 
@@ -501,7 +479,6 @@ Escala: literal-numérica creciente de 0 a 5.
 Mínimo aprobatorio: 1 (D). Máximo aprobatorio: 5 (A+).
 
 N.º de Calificaciones positivas: 6.
-
 
 **BÉLGICA**
 
@@ -549,7 +526,6 @@ Mínimo aprobatorio: 50 [Faible (F-) 50%]. Máximo aprobatorio: 100 [Excellent (
 
 N.º de Calificaciones positivas: más de 6.
 
-
 **BIELORRUSIA**
 
 1.
@@ -567,7 +543,6 @@ Escala: numérica creciente de 1 a 5 (con un decimal).
 Mínimo aprobatorio: 3. Máximo aprobatorio: 5.
 
 N.º de Calificaciones positivas: más de 6.
-
 
 **BOLIVIA**
 
@@ -595,7 +570,6 @@ Mínimo aprobatorio: 51. Máximo aprobatorio: 100.
 
 N.º de Calificaciones positivas: más de 6.
 
-
 **BOSNIA – HERZEGOVINA**
 
 Escala: numérica creciente de 5 a 10 (sin decimales).
@@ -603,7 +577,6 @@ Escala: numérica creciente de 5 a 10 (sin decimales).
 Mínimo aprobatorio: 6. Máximo aprobatorio: 10.
 
 N.º de Calificaciones positivas: 5.
-
 
 **BRASIL**
 
@@ -695,7 +668,6 @@ Mínimo aprobatorio: 2 (Regular). Máximo aprobatorio: 4 (Muy Bueno).
 
 N.º de Calificaciones positivas: 3.
 
-
 **BULGARIA**
 
 1.
@@ -714,7 +686,6 @@ Mínimo aprobatorio: 3. Máximo aprobatorio: 6.
 
 N.º de Calificaciones positivas: más de 6.
 
-
 **CABO VERDE**
 
 Escala: literal - numérica creciente de 0 a 20 (sin decimales).
@@ -722,7 +693,6 @@ Escala: literal - numérica creciente de 0 a 20 (sin decimales).
 Mínimo aprobatorio: 10 (Suficiente). Máximo aprobatorio: 20 (Muito Bom).
 
 N.º de Calificaciones positivas: más de 6.
-
 
 **CAMERÚN**
 
@@ -749,7 +719,6 @@ Escala: literal.
 Mínimo aprobatorio: 2 (E). Máximo aprobatorio: 6 (A).
 
 N.º de Calificaciones positivas: 5.
-
 
 **CANADÁ**
 
@@ -779,7 +748,6 @@ Mínimo aprobatorio: 2 (C-). Máximo aprobatorio: 10 (A+).
 
 N.º de Calificaciones positivas: más de 6.
 
-
 **CHILE**
 
 Escala: numérica creciente de 1 a 7 (con un decimal).
@@ -787,7 +755,6 @@ Escala: numérica creciente de 1 a 7 (con un decimal).
 Mínimo aprobatorio: 4. Máximo aprobatorio: 7.
 
 N.º de Calificaciones positivas: más de 6.
-
 
 **CHINA**
 
@@ -816,7 +783,6 @@ Escala: literal.
 Mínimo aprobatorio: 2 (C). Máximo aprobatorio: 4 (A).
 
 N.º de Calificaciones positivas: 3.
-
 
 **COLOMBIA**
 
@@ -884,7 +850,6 @@ Mínimo aprobatorio: 2 (Desempeño Básico). Máximo aprobatorio: 4 (Desempeño 
 
 N.º de Calificaciones positivas: 3.
 
-
 **CONGO (República Democrática del Congo / Antiguo Zaire)**
 
 Escala: numérica creciente de 0 a 100 (sin decimales).
@@ -892,7 +857,6 @@ Escala: numérica creciente de 0 a 100 (sin decimales).
 Mínimo aprobatorio: 50. Máximo aprobatorio: 100.
 
 N.º de Calificaciones positivas: más de 6.
-
 
 **COREA DEL SUR**
 
@@ -928,7 +892,6 @@ Mínimo aprobatorio: 2 (Ga). Máximo aprobatorio: 6 (Soo).
 
 N.º de Calificaciones positivas: 5.
 
-
 **COSTA DE MARFIL**
 
 Escala: numérica creciente de 0 a 20 (con un decimal).
@@ -936,7 +899,6 @@ Escala: numérica creciente de 0 a 20 (con un decimal).
 Mínimo aprobatorio: 10. Máximo aprobatorio: 20.
 
 N.º de Calificaciones positivas: más de 6.
-
 
 **COSTA RICA**
 
@@ -964,7 +926,6 @@ Mínimo aprobatorio: 70. Máximo aprobatorio: 100.
 
 N.º de Calificaciones positivas: más de 6.
 
-
 **CROACIA**
 
 Escala: numérica creciente de 1 a 5 (sin decimales).
@@ -972,7 +933,6 @@ Escala: numérica creciente de 1 a 5 (sin decimales).
 Mínimo aprobatorio: 2. Máximo aprobatorio: 5.
 
 N.º de Calificaciones positivas: 4.
-
 
 **CUBA**
 
@@ -1002,7 +962,6 @@ N.º de Calificaciones positivas: 3.
 
 Nota: Cuando las asignaturas no estén todas calificadas con la misma escala, deberá transformarse cada una mediante la fórmula correspondiente del anexo II y después calcular la media aritmética de todas ellas.
 
-
 **DINAMARCA**
 
 Escala: numérica creciente de 0 a 13 (con un decimal).
@@ -1010,7 +969,6 @@ Escala: numérica creciente de 0 a 13 (con un decimal).
 Mínimo aprobatorio: 6. Máximo aprobatorio: 13.
 
 N.º de Calificaciones positivas: más de 6.
-
 
 **ECUADOR**
 
@@ -1030,7 +988,6 @@ Mínimo aprobatorio: 7. Máximo aprobatorio: 10.
 
 N.º de Calificaciones positivas: más de 6.
 
-
 **EGIPTO**
 
 Escala: numérica creciente de 0 a 100 (sin decimales).
@@ -1038,7 +995,6 @@ Escala: numérica creciente de 0 a 100 (sin decimales).
 Mínimo aprobatorio: 50. Máximo aprobatorio: 100.
 
 N.º de Calificaciones positivas: más de 6.
-
 
 **EL SALVADOR**
 
@@ -1058,7 +1014,6 @@ Mínimo aprobatorio: 6. Máximo aprobatorio: 10.
 
 N.º de Calificaciones positivas: 5.
 
-
 **ESCUELAS EUROPEAS**
 
 Escala: numérica creciente de 0 a 10 (con un decimal).
@@ -1067,7 +1022,6 @@ Mínimo aprobatorio: 6. Máximo aprobatorio: 10.
 
 N.º de Calificaciones positivas: más de 6.
 
-
 **ESLOVENIA**
 
 Escala: numérica creciente de 1 a 5 (sin decimales).
@@ -1075,7 +1029,6 @@ Escala: numérica creciente de 1 a 5 (sin decimales).
 Mínimo aprobatorio: 2. Máximo aprobatorio: 5.
 
 N.º de Calificaciones positivas: 4.
-
 
 **ESTADOS UNIDOS DE AMÉRICA**
 
@@ -1167,7 +1120,6 @@ Mínimo aprobatorio: 70 (C). Máximo aprobatorio: 100 (A).
 
 N.º de Calificaciones positivas: más de 6.
 
-
 **ESTONIA**
 
 Escala: numérica creciente de 1 a 5 (sin decimales).
@@ -1176,7 +1128,6 @@ Mínimo aprobatorio: 3. Máximo aprobatorio: 5.
 
 N.º de Calificaciones positivas: 3.
 
-
 **FILIPINAS**
 
 Escala: porcentaje-Literal-Literal. Considerar numérica creciente de 0 a 100.
@@ -1184,7 +1135,6 @@ Escala: porcentaje-Literal-Literal. Considerar numérica creciente de 0 a 100.
 Mínimo aprobatorio: 75 (C-). Máximo aprobatorio: 100 (A+).
 
 N.º de Calificaciones positivas: más de 6.
-
 
 **FINLANDIA**
 
@@ -1204,7 +1154,6 @@ Mínimo aprobatorio: Approbatur (2). Máximo aprobatorio: Laudatur (7).
 
 N.º de Calificaciones positivas: 6.
 
-
 **FRANCIA**
 
 1. Aplicable a las convalidaciones por 1.º de Bachillerato y homologación al título de Graduado o Graduada en Educación Secundaria Obligatoria.
@@ -1222,7 +1171,6 @@ Escala: literal.
 Mínimo aprobatorio: 1 (Pasable o sin mención). Máximo aprobatorio: 4 (Mention Très Bien).
 
 N.º de Calificaciones positivas: 4.
-
 
 **GABÓN**
 
@@ -1250,7 +1198,6 @@ Mínimo aprobatorio: 10. Máximo aprobatorio: 18.
 
 N.º de Calificaciones positivas: más de 6.
 
-
 **GEORGIA**
 
 1. Hasta el curso académico 2006/2007.
@@ -1268,7 +1215,6 @@ Escala: numérica creciente de 1 a 10 (sin decimales).
 Mínimo aprobatorio: 4. Máximo aprobatorio: 10.
 
 N.º de Calificaciones positivas: más de 6.
-
 
 **GRECIA**
 
@@ -1288,7 +1234,6 @@ Mínimo aprobatorio: 2 (Suficiente). Máximo aprobatorio: 5 (Sobresaliente).
 
 N.º de Calificaciones positivas: 4.
 
-
 **GUATEMALA**
 
 Escala: numérica creciente de 0 a 100 (sin decimales).
@@ -1297,7 +1242,6 @@ Mínimo aprobatorio: 60. Máximo aprobatorio: 100.
 
 N.º de Calificaciones positivas: más de 6.
 
-
 **GUINEA ECUATORIAL**
 
 Escala: numérica creciente de 0 a 10 (sin decimales).
@@ -1305,7 +1249,6 @@ Escala: numérica creciente de 0 a 10 (sin decimales).
 Mínimo aprobatorio: 5. Máximo aprobatorio: 10.
 
 N.º de Calificaciones positivas: 6.
-
 
 **HAITÍ**
 
@@ -1341,7 +1284,6 @@ Mínimo aprobatorio: 150/30=5. Máximo aprobatorio: 300/30=10.
 
 N.º de Calificaciones positivas: 6.
 
-
 **HONDURAS**
 
 1.
@@ -1360,7 +1302,6 @@ Mínimo aprobatorio: 70. Máximo aprobatorio: 100.
 
 N.º de Calificaciones positivas: más de 6.
 
-
 **HONG KONG**
 
 Escala: literal.
@@ -1368,7 +1309,6 @@ Escala: literal.
 Mínimo aprobatorio: E (50). Máximo aprobatorio: A (90 – 100).
 
 N.º de Calificaciones positivas: más de 6.
-
 
 **HUNGRÍA**
 
@@ -1387,7 +1327,6 @@ Escala: literal.
 Mínimo aprobatorio: 2 (Elégséges). Máximo aprobatorio: 5 (Jeles).
 
 N.º de Calificaciones positivas: 4.
-
 
 **INDIA**
 
@@ -1415,7 +1354,6 @@ Mínimo aprobatorio: 35% Pass. Máximo aprobatorio: 100%.
 
 N.º de Calificaciones positivas: más de 6.
 
-
 **INDONESIA**
 
 Escala: numérica creciente de 0 a 10 (con un decimal).
@@ -1423,7 +1361,6 @@ Escala: numérica creciente de 0 a 10 (con un decimal).
 Mínimo aprobatorio: 5. Máximo aprobatorio: 10.
 
 N.º de Calificaciones positivas: más de 6.
-
 
 **IRÁN**
 
@@ -1451,7 +1388,6 @@ Mínimo aprobatorio: 2. Máximo aprobatorio: 5.
 
 N.º de Calificaciones positivas: más de 6.
 
-
 **IRAQ**
 
 Escala: numérica creciente de 0 a 100 (sin decimales).
@@ -1459,7 +1395,6 @@ Escala: numérica creciente de 0 a 100 (sin decimales).
 Mínimo aprobatorio: 50. Máximo aprobatorio: 100.
 
 N.º de Calificaciones positivas: más de 6.
-
 
 **IRLANDA (REPÚBLICA DE)**
 
@@ -1503,7 +1438,6 @@ Mínimo aprobatorio: 7. Máximo aprobatorio: 1.
 
 N.º de Calificaciones positivas: más de 6.
 
-
 **ISLANDIA**
 
 Escala: numérica creciente de 1 a 10 (sin decimales).
@@ -1512,7 +1446,6 @@ Mínimo aprobatorio: 5. Máximo aprobatorio: 10.
 
 N.º de Calificaciones positivas: 6.
 
-
 **ISRAEL**
 
 Escala: numérica creciente de 0 a 100 (sin decimales).
@@ -1520,7 +1453,6 @@ Escala: numérica creciente de 0 a 100 (sin decimales).
 Mínimo aprobatorio: 55. Máximo aprobatorio: 100.
 
 N.º de Calificaciones positivas: más de 6.
-
 
 **ITALIA**
 
@@ -1552,7 +1484,6 @@ N.º de Calificaciones positivas: más de 6.
 
 La calificación final será la media aritmética de la nota del diploma de Maturitá.
 
-
 **JAPÓN**
 
 1.
@@ -1581,7 +1512,6 @@ Mínimo aprobatorio: 2 (C) Máximo aprobatorio: 4 (A).
 
 N.º de Calificaciones positivas: 3.
 
-
 **JORDANIA**
 
 1.
@@ -1598,7 +1528,6 @@ Escala: numérica con mínimo y máximo aprobatorio diferentes para cada materia
 
 Â
 
-
 **KAZAJSTAN**
 
 Escala: numérica creciente de 1 a 5 (sin decimales).
@@ -1607,7 +1536,6 @@ Mínimo aprobatorio: 3. Máximo aprobatorio: 5.
 
 N.º de Calificaciones positivas: 3.
 
-
 **KIRGUIZISTAN**
 
 Escala: numérica creciente de 1 a 5 (sin decimales).
@@ -1615,7 +1543,6 @@ Escala: numérica creciente de 1 a 5 (sin decimales).
 Mínimo aprobatorio: 3. Máximo aprobatorio: 5.
 
 N.º de Calificaciones positivas: 3.
-
 
 **KENIA**
 
@@ -1643,7 +1570,6 @@ Mínimo aprobatorio: 2 (D-). Máximo aprobatorio: 12 (A).
 
 N.º de Calificaciones positivas: más de 6.
 
-
 **KUWAIT**
 
 1.
@@ -1661,7 +1587,6 @@ Escala: literal.
 Mínimo aprobatorio: 2 (D). Máximo aprobatorio: 5 (A).
 
 N.º de Calificaciones positivas: 4.
-
 
 **LETONIA**
 
@@ -1681,7 +1606,6 @@ Mínimo aprobatorio: 4. Máximo aprobatorio: 10.
 
 N.º de Calificaciones positivas: más de 6.
 
-
 **LÍBANO**
 
 Escala: numérica creciente de 0 a 20 (con un decimal).
@@ -1689,7 +1613,6 @@ Escala: numérica creciente de 0 a 20 (con un decimal).
 Mínimo aprobatorio: 10. Máximo aprobatorio: 20.
 
 N.º de Calificaciones positivas: más de 6.
-
 
 **LIBIA**
 
@@ -1699,7 +1622,6 @@ Mínimo aprobatorio: 50. Máximo aprobatorio: 100.
 
 N.º de Calificaciones positivas: más de 6.
 
-
 **LIECHTENSTEIN**
 
 Escala: numérica creciente de 1 a 6 (sin decimales).
@@ -1707,7 +1629,6 @@ Escala: numérica creciente de 1 a 6 (sin decimales).
 Mínimo aprobatorio: 4. Máximo aprobatorio: 6.
 
 N.º de Calificaciones positivas: 3.
-
 
 **LITUANIA**
 
@@ -1733,7 +1654,6 @@ Mínimo aprobatorio: 3. Máximo aprobatorio: 5.
 
 N.º de Calificaciones positivas: 3.
 
-
 **LUXEMBURGO**
 
 Escala: numérica creciente de 0 a 60 (sin decimales).
@@ -1741,7 +1661,6 @@ Escala: numérica creciente de 0 a 60 (sin decimales).
 Mínimo aprobatorio: 30. Máximo aprobatorio: 60.
 
 N.º de Calificaciones positivas: más de 6.
-
 
 **MACEDONIA**
 
@@ -1751,7 +1670,6 @@ Mínimo aprobatorio: 2. Máximo aprobatorio: 5.
 
 N.º de Calificaciones positivas: 4.
 
-
 **MALASIA**
 
 Escala: numérica decreciente de 9 a 1 (sin decimales).
@@ -1759,7 +1677,6 @@ Escala: numérica decreciente de 9 a 1 (sin decimales).
 Mínimo aprobatorio: 7. Máximo aprobatorio: 1.
 
 N.º de Calificaciones positivas: más de 6.
-
 
 **MALTA**
 
@@ -1779,7 +1696,6 @@ Mínimo aprobatorio: 2 (D). Máximo aprobatorio: 5 (A).
 
 N.º de Calificaciones positivas: 4.
 
-
 **MARRUECOS**
 
 Escala: numérica creciente de 0 a 20 (con un decimal).
@@ -1788,7 +1704,6 @@ Mínimo aprobatorio: 10. Máximo aprobatorio: 20.
 
 N.º de Calificaciones positivas: más de 6.
 
-
 **MAURITANIA**
 
 Escala: numérica creciente de 0 a 20 (sin decimales).
@@ -1796,7 +1711,6 @@ Escala: numérica creciente de 0 a 20 (sin decimales).
 Mínimo aprobatorio: 10. Máximo aprobatorio: 20.
 
 N.º de Calificaciones positivas: más de 6.
-
 
 **MÉXICO**
 
@@ -1832,7 +1746,6 @@ Mínimo aprobatorio: 7,0. Máximo aprobatorio: 10.
 
 N.º de Calificaciones positivas: más de 6.
 
-
 **MOLDAVIA (REPÚBLICA DE)**
 
 1. Hasta 1991.
@@ -1851,7 +1764,6 @@ Mínimo aprobatorio: 5. Máximo aprobatorio: 10.
 
 N.º de Calificaciones positivas: 6.
 
-
 **MONGOLIA**
 
 Escala: numérica creciente de 2 a 5 (sin decimales).
@@ -1859,7 +1771,6 @@ Escala: numérica creciente de 2 a 5 (sin decimales).
 Mínimo aprobatorio: 3 (Aprobado). Máximo aprobatorio: 5 (Sobresaliente).
 
 N.º de Calificaciones positivas: 3.
-
 
 **MONTENEGRO**
 
@@ -1879,7 +1790,6 @@ Mínimo aprobatorio: 2. Máximo aprobatorio: 5.
 
 N.º de Calificaciones positivas: 4.
 
-
 **NEPAL**
 
 Escala: literal-numérica en porcentaje.
@@ -1887,7 +1797,6 @@ Escala: literal-numérica en porcentaje.
 Mínimo aprobatorio: 32%. Máximo aprobatorio: 60% o más.
 
 N.º de Calificaciones positivas: más de 6.
-
 
 **NICARAGUA**
 
@@ -1923,7 +1832,6 @@ Mínimo aprobatorio: 60. Máximo aprobatorio: 100.
 
 N.º de Calificaciones positivas: más de 6.
 
-
 **NIGERIA**
 
 1.
@@ -1941,7 +1849,6 @@ Escala: numérica decreciente de 1 a 9 (sin decimales).
 Mínimo aprobatorio: 8. Máximo aprobatorio: 1.
 
 N.º de Calificaciones positivas: más de 6.
-
 
 **NORUEGA**
 
@@ -1969,7 +1876,6 @@ Mínimo aprobatorio: 2 (Noksa godt). Máximo aprobatorio: 5 (Saers godt).
 
 N.º de Calificaciones positivas: 4.
 
-
 **NUEVA ZELANDA**
 
 1.
@@ -1996,7 +1902,6 @@ Mínimo aprobatorio: 2 (Achieved). Máximo aprobatorio: 4 (Excellence).
 
 N.º de Calificaciones positivas: 3.
 
-
 **OMÁN**
 
 Escala: numérica creciente de 0 a 100.
@@ -2005,7 +1910,6 @@ Mínimo aprobatorio: 65. Máximo aprobatorio: 100.
 
 N.º de Calificaciones positivas: más de 6.
 
-
 **PAÍSES BAJOS**
 
 Escala: numérica creciente de 1 a 10 (con un decimal).
@@ -2013,7 +1917,6 @@ Escala: numérica creciente de 1 a 10 (con un decimal).
 Mínimo aprobatorio: 6. Máximo aprobatorio: 10.
 
 N.º de Calificaciones positivas: más de 6.
-
 
 **PAKISTÁN**
 
@@ -2034,7 +1937,6 @@ Mínimo aprobatorio: 281. Máximo aprobatorio: 850.
 N.º de Calificaciones positivas: más de 6.
 
 Para la aplicación de las dos escalas precedentes se tendrá en cuenta únicamente la nota total ‒Total Marks‒ de las pruebas.
-
 
 **PALESTINA**
 
@@ -2080,7 +1982,6 @@ Mínimo aprobatorio: 50. Máximo aprobatorio: 100.
 
 N.º de Calificaciones positivas: más de 6.
 
-
 **PANAMÁ**
 
 1.
@@ -2098,7 +1999,6 @@ Escala: numérica creciente de 0 a 5 (sin decimales).
 Mínimo aprobatorio: 3. Máximo aprobatorio: 5.
 
 N.º de Calificaciones positivas: 3.
-
 
 **PARAGUAY**
 
@@ -2118,7 +2018,6 @@ Mínimo aprobatorio: 4. Máximo aprobatorio: 10.
 
 N.º de Calificaciones positivas: más de 6.
 
-
 **PERÚ**
 
 Escala: numérica creciente de 0 a 20 (con un decimal).
@@ -2126,7 +2025,6 @@ Escala: numérica creciente de 0 a 20 (con un decimal).
 Mínimo aprobatorio: 11. Máximo aprobatorio: 20.
 
 N.º de Calificaciones positivas: más de 6.
-
 
 **POLONIA**
 
@@ -2186,7 +2084,6 @@ Mínimo aprobatorio: 30. Máximo aprobatorio: 100.
 
 N.º de Calificaciones positivas: más de 6.
 
-
 **PORTUGAL**
 
 1.
@@ -2204,7 +2101,6 @@ Escala: numérica creciente de 0 a 20 (sin decimales).
 Mínimo aprobatorio: 10. Máximo aprobatorio: 20.
 
 N.º de Calificaciones positivas: más de 6.
-
 
 **QATAR**
 
@@ -2249,7 +2145,6 @@ Mínimo aprobatorio: 25. Máximo aprobatorio: 50.
 Dividir cada una de estas calificaciones por 5.
 
 Nota: El sistema educativo de Qatar utiliza escalas diferentes para calificar cada una de las materias que integran la educación secundaria, incluso éstas varían en función del curso y la rama de estudios elegida por el alumno. Las tablas anteriores recogen las escalas comúnmente utilizadas para calificar cada una de las materias. No obstante, teniendo en cuenta las características del sistema de calificaciones, para calcular la calificación del expediente académico se transforman las calificaciones según lo indicado en cada escala. La nota media en el sistema español será la media aritmética de todas ellas. Para ello es imprescindible que los certificados académicos de cada curso especifiquen las escalas (puntuación mínima y máxima) utilizada para calificar cada una de las asignaturas, además de la puntuación obtenida por el propio alumno.
-
 
 **REINO UNIDO**
 
@@ -2321,7 +2216,6 @@ Mínimo aprobatorio: 4. Máximo aprobatorio: 9.
 
 N.º de Calificaciones positivas: 6.
 
-
 **REINO UNIDO - ESCOCIA**
 
 1.
@@ -2376,7 +2270,6 @@ Mínimo aprobatorio: 6. Máximo aprobatorio: 1.
 
 N.º de Calificaciones positivas: 6.
 
-
 **REPÚBLICA CHECA**
 
 1.
@@ -2394,7 +2287,6 @@ Escala: literal decreciente.
 Mínimo aprobatorio: 4 (Dostatecny). Máximo aprobatorio: 1 (Vyborny).
 
 N.º de Calificaciones positivas: 4.
-
 
 **REPÚBLICA DOMINICANA**
 
@@ -2430,7 +2322,6 @@ Mínimo aprobatorio: 70. Máximo aprobatorio: 100.
 
 N.º de Calificaciones positivas: más de 6.
 
-
 **REPÚBLICA ESLOVACA**
 
 1.
@@ -2448,7 +2339,6 @@ Escala: literal decreciente.
 Mínimo aprobatorio: 4 (Dostatočný). Máximo aprobatorio: 1 (Výborný).
 
 N.º de Calificaciones positivas: 4.
-
 
 **RUMANÍA**
 
@@ -2468,7 +2358,6 @@ Mínimo aprobatorio: 6. Máximo aprobatorio: 10.
 
 N.º de Calificaciones positivas: más de 6.
 
-
 **RUSIA (FEDERACIÓN RUSA)**
 
 Escala: numérica creciente de 2 a 5 (sin decimales).
@@ -2476,7 +2365,6 @@ Escala: numérica creciente de 2 a 5 (sin decimales).
 Mínimo aprobatorio: 3 (Aprobado). Máximo aprobatorio: 5 (Sobresaliente).
 
 N.º de Calificaciones positivas: 3.
-
 
 **SANTO TOMÉ Y PRÍNCIPE**
 
@@ -2486,7 +2374,6 @@ Mínimo aprobatorio: 60. Máximo aprobatorio: 100.
 
 N.º de Calificaciones positivas: más de 6.
 
-
 **SENEGAL**
 
 Escala: numérica creciente de 0 a 20 (con un decimal).
@@ -2494,7 +2381,6 @@ Escala: numérica creciente de 0 a 20 (con un decimal).
 Mínimo aprobatorio: 10. Máximo aprobatorio: 20.
 
 N.º de Calificaciones positivas: más de 6.
-
 
 **SERBIA**
 
@@ -2504,7 +2390,6 @@ Mínimo aprobatorio: 2. Máximo aprobatorio: 5.
 
 N.º de Calificaciones positivas: 4.
 
-
 **SIERRA LEONA**
 
 Escala: numérica creciente de 0 a 100 (sin decimales).
@@ -2512,7 +2397,6 @@ Escala: numérica creciente de 0 a 100 (sin decimales).
 Mínimo aprobatorio: 40. Máximo aprobatorio: 100.
 
 N.º de Calificaciones positivas: más de 6.
-
 
 **SIRIA**
 
@@ -2550,7 +2434,6 @@ N.º de Calificaciones positivas: más de 6.
 
 Nota: Las calificaciones de los estudios secundarios en Siria varían según las materias a las que se apliquen. Si las escalas son diferentes, para calcular la nota media del expediente académico se transforman primero las calificaciones según la fórmula de anexo II para escala numérica creciente con más de 6 calificaciones positivas, variando el mínimo y máximo aprobatorio. La calificación final en el sistema español será la media aritmética de todas ellas.
 
-
 **SUDÁFRICA**
 
 1.
@@ -2576,7 +2459,6 @@ Escala: numérica creciente de 0 a 100 (sin decimales).
 Mínimo aprobatorio: 50. Máximo aprobatorio: 100.
 
 N.º de Calificaciones positivas: más de 6.
-
 
 **SUECIA**
 
@@ -2616,7 +2498,6 @@ N.º de Calificaciones positivas: 5.
 
 Nota: Si el profesorado no tiene base para poder evaluar los conocimientos del alumno debido a su absentismo, no se le concederá calificación alguna, lo que se expresa con una raya.
 
-
 **SUIZA**
 
 1.
@@ -2651,7 +2532,6 @@ Mínimo aprobatorio: 5. Máximo aprobatorio: 10.
 
 N.º de Calificaciones positivas: 6.
 
-
 **TAILANDIA**
 
 Escala: numérica creciente de 0 a 4 (sin decimales).
@@ -2662,7 +2542,6 @@ N.º de Calificaciones positivas: 4.
 
 Calificación inferior a 1 considerar con valor 0,5.
 
-
 **TÚNEZ**
 
 Escala: numérica creciente de 0 a 20 (con un decimal).
@@ -2670,7 +2549,6 @@ Escala: numérica creciente de 0 a 20 (con un decimal).
 Mínimo aprobatorio: 10. Máximo aprobatorio: 20.
 
 N.º de Calificaciones positivas: más de 6.
-
 
 **TURQUÍA**
 
@@ -2692,7 +2570,6 @@ Mínimo aprobatorio: 45. Máximo aprobatorio: 100.
 
 N.º de Calificaciones positivas: más de 6.
 
-
 **UCRANIA**
 
 1.
@@ -2710,7 +2587,6 @@ Escala: literal-numérica creciente de 1 a 12 (sin decimales).
 Mínimo aprobatorio: (Medio) 4. Máximo aprobatorio: (Alto) 12.
 
 N.º de Calificaciones positivas: más de 6.
-
 
 **URUGUAY**
 
@@ -2754,7 +2630,6 @@ Mínimo aprobatorio: 6. Máximo aprobatorio: 12.
 
 N.º de Calificaciones positivas: más de 6.
 
-
 **VENEZUELA**
 
 Escala: numérica creciente de 0 a 20 (con un decimal).
@@ -2762,7 +2637,6 @@ Escala: numérica creciente de 0 a 20 (con un decimal).
 Mínimo aprobatorio: 10. Máximo aprobatorio: 20.
 
 N.º de Calificaciones positivas: más de 6.
-
 
 **VIETNAM**
 
@@ -2772,7 +2646,6 @@ Mínimo aprobatorio: 5. Máximo aprobatorio: 10.
 
 N.º de Calificaciones positivas: más de 6.
 
-
 **YEMEN**
 
 Escala: numérica creciente de 350 a 700 (sin decimales).
@@ -2781,7 +2654,6 @@ Mínimo aprobatorio: 350. Máximo aprobatorio: 700.
 
 N.º de Calificaciones positivas: más de 6.
 
-
 **ANTIGUA R. DE YUGOSLAVIA (REPÚBLICA FEDERATIVA SOCIALISTA DE YUGOSLAVIA)**
 
 Escala: numérica creciente de 0 a 5 (sin decimales).
@@ -2789,7 +2661,6 @@ Escala: numérica creciente de 0 a 5 (sin decimales).
 Mínimo aprobatorio: 2. Máximo aprobatorio: 5.
 
 N.º de Calificaciones positivas: 4.
-
 
 **ZIMBABWE**
 

@@ -32,9 +32,6 @@ fuente_pdf_oficial: https://sede.gobiernodecanarias.org/boc/boc-a-2026-129-2245.
 
 # Resolución de 16 de junio de 2026, por la que se ordena la publicación del Protocolo General de Actuación entre la Consejería de Educación, Formación Profesional, Actividad Física y Deportes y la Federación Canaria de Municipios, como organismo intermedio, para el desarrollo de la formación en empresa u organismo equiparado por el alumnado de formación profesional matriculado en centros docentes de titularidad pública de la Comunidad Autónoma de Canarias.(BOC n.º 129, de 29.06.2026).
 
-https://sede.gobiernodecanarias.org/boc
-boc-a-2026-129-2245
-Boletín Oficial de Canarias núm. 129 Lunes 29 de junio de 202624158
 III. Otras Resoluciones
 Consejería de Educación, Formación Profesional, Actividad Física y Deportes
 2245 Secretaría General Técnica.- Resolución de 16 de junio de 2026, por la que se 
@@ -68,9 +65,6 @@ titularidad pública de la Comunidad Autónoma de Canarias, suscrito el 15 de ju
 Las Palmas de Gran Canaria, a 16 de junio de 2026.- El Secretario General Técnico, 
 Manuel Peinado Bosch.
 
-https://sede.gobiernodecanarias.org/boc
-boc-a-2026-129-2245
-Boletín Oficial de Canarias núm. 129 Lunes 29 de junio de 202624159
 ANEXO
 PROTOCOLO GENERAL DE ACTUACIÓN ENTRE LA CONSEJERÍA DE EDUCACIÓN, 
 FORMACIÓN PROFESIONAL, ACTIVIDAD FÍSICA Y DEPORTES DEL GOBIERNO 
@@ -115,9 +109,6 @@ la Formación Profesional (en adelante
 LOOIFP), establece como uno de sus principios 
 generales, recogido en el apartado g) del artículo 3.1, el de la “participación de las empresas 
 
-https://sede.gobiernodecanarias.org/boc
-boc-a-2026-129-2245
-Boletín Oficial de Canarias núm. 129 Lunes 29 de junio de 202624160
 y los agentes económicos y sociales en el diseño, desarrollo, evaluación e innovación de la 
 formación profesional, asegurando el circuito de transferencia de conocimiento formación-
 empresa y el interés público”, fijándose, además, como uno de los objetivos del Sistema 
@@ -166,9 +157,6 @@ municipios de Canarias, con personalidad jurídica plena, constituida al amparo 
 Ley Orgánica 1/2002, de 22 de marzo, reguladora del Derecho de Asociación, y la Ley 
 4/2003, de 28 de febrero, de Asociaciones Canarias, según las previsiones de la disposición 
 
-https://sede.gobiernodecanarias.org/boc
-boc-a-2026-129-2245
-Boletín Oficial de Canarias núm. 129 Lunes 29 de junio de 202624161
 adicional quinta de la Ley 7/1985, de 2 de abril, reguladora de las Bases del Régimen Local 
 (en adelante LBRL). La FECAM está debidamente inscrita en el registro de asociaciones 
 Canarias, tal como exige la normativa vigente.
@@ -214,9 +202,6 @@ equiparado, y en su caso
 FCT, para el alumnado de los centros docentes de titularidad 
 pública de enseñanzas de formación profesional. De este modo, la implementación del 
 
-https://sede.gobiernodecanarias.org/boc
-boc-a-2026-129-2245
-Boletín Oficial de Canarias núm. 129 Lunes 29 de junio de 202624162
 Protocolo se articula dentro del marco municipal, garantizando la participación activa de 
 las corporaciones locales en la organización y desarrollo de las actividades de formación 
 práctica en los distintos municipios del Archipiélago.
@@ -259,9 +244,6 @@ Tercera.- Actuaciones de los firmantes.
 Ambas partes manifiestan que la presente colaboración podrá materializarse a través de 
 las siguientes actuaciones:
 
-https://sede.gobiernodecanarias.org/boc
-boc-a-2026-129-2245
-Boletín Oficial de Canarias núm. 129 Lunes 29 de junio de 202624163
 1. Por parte de la CEFPAFD:
 a) Difundir, a través del Servicio de Formación Profesional de la Dirección General de 
 Formación Profesional y Enseñanzas de Régimen Especial de la CEFPAFD, en los centros 
@@ -304,9 +286,6 @@ de la ejecución de este Protocolo General de Actuación y de las actuaciones ad
 cada parte, y de resolución de los problemas de interpretación y cumplimiento que puedan 
 plantearse respecto al mismo.
 
-https://sede.gobiernodecanarias.org/boc
-boc-a-2026-129-2245
-Boletín Oficial de Canarias núm. 129 Lunes 29 de junio de 202624164
 2. Dicha Comisión, que tendrá carácter paritario, estará formada:
 a) Por parte de la CEFPAFD, por dos personas designadas por dicha Consejería; una de 
 ellas tendrá, al menos, rango de Jefatura de Servicio.
@@ -343,9 +322,6 @@ con carácter ordinario una vez al año, y con carácter extraordinario cuando a
 partes firmantes del presente Protocolo lo soliciten, con el objeto de garantizar su buen 
 seguimiento de ejecución.
 
-https://sede.gobiernodecanarias.org/boc
-boc-a-2026-129-2245
-Boletín Oficial de Canarias núm. 129 Lunes 29 de junio de 202624165
 8. La asistencia a las referidas reuniones tendrá lugar dentro de la jornada de trabajo 
 establecida reglamentariamente y no conllevará el cobro de indemnizaciones de las 
 establecidas en el artículo 3 del Decreto 251/1997, de 30 de septiembre, por el que se 
@@ -382,9 +358,6 @@ pública.
 La firma de este Protocolo General de Actuación supondrá el consentimiento expreso 
 de las partes para hacer públicos los datos referidos al mismo, de conformidad con la Ley 
 
-https://sede.gobiernodecanarias.org/boc
-boc-a-2026-129-2245
-Boletín Oficial de Canarias núm. 129 Lunes 29 de junio de 202624166
 12/2014, de 26 de diciembre, de transparencia y de acceso a la información pública, sin 
 perjuicio del cumplimiento de lo dispuesto en la cláusula cuarta en lo que respecta a la 
 normativa reguladora de protección de datos de carácter personal.
@@ -402,9 +375,6 @@ Educación, Formación Profesional, Actividad Física y Deportes, Hipólito Alej
 Nuez.- La Presidenta de la Federación Canaria de Municipios, María Concepción Brito 
 Núñez.
 
-boc-a-2026-129-2245
-Boletín Oficial de Canarias núm. 129 Lunes 29 de junio de 202624167
-https://sede.gobiernodecanarias.org/boc
 ANEXO I
 MODELO DE SOLICITUD DE ADHESIÓN
 SOLICITUD DE ADHESIÓN AL PROTOCOLO GENERAL DE ACTUACIÓN ENTRE LA 
@@ -438,9 +408,6 @@ D./ Dña. ………………………………………...….
 En ………………………………..a ………..de………………...de ……..
 ANEXO I
 
-boc-a-2026-129-2245
-Boletín Oficial de Canarias núm. 129 Lunes 29 de junio de 202624168
-https://sede.gobiernodecanarias.org/boc
 ORDEN de 26 de agosto de 2025, por la que se aprueba el modelo de convenio para la  
 realización de la formación en empresa u organismo equiparado por el alumnado matriculado 
 en el Sistema de Formación Profesional de la Comunidad Autónoma de Canarias. 
@@ -481,9 +448,6 @@ administrativas que de ellos dependan, dentro de los límites señalados en el a
 norma. La delegación de firma no alterará la competencia del órgano delegante y su validez no  
 requiere de publicación. 
 
-boc-a-2026-129-2245
-Boletín Oficial de Canarias núm. 129 Lunes 29 de junio de 202624169
-https://sede.gobiernodecanarias.org/boc
 El  Decreto  84/2024,  de  10  de  junio,  por  el  que  se  aprueba  el  Reglamento  Orgánico  de  la 
 Consejería de Educación, Formación Profesional, Actividad Física y Deportes, dispone en su  
 artículo  5.2,  g)  que  el  Consejero  o  Consejera  le  corresponde  la  competencia  de  «suscribir 
@@ -517,9 +481,6 @@ Quinto.- Autorizar a la  persona titular de la Dirección General de Formación 
 Enseñanzas de Régimen Especial para modificar, mediante resolución, el modelo de convenio tipo 
 de colaboración y sus anexos, aprobado mediante la presente Orden.
 
-boc-a-2026-129-2245
-Boletín Oficial de Canarias núm. 129 Lunes 29 de junio de 202624170
-https://sede.gobiernodecanarias.org/boc
 Contra la presente Orden, que pone fin a la vía administrativa, cabe interponer recurso potestativo 
 de  reposición  ante  el  Consejero  de  Educación,  Formación  Profesional,  Actividad  Física  y 
 Deportes, en el plazo de un mes a contar desde el día siguiente al de su publicación, o bien 
@@ -534,9 +495,6 @@ EL CONSEJERO DE EDUCACIÓN, FORMACIÓN
 PROFESIONAL, ACTIVIDAD FÍSICA Y DEPORTES
 Hipólito Alejandro Suárez Nuez.
 
-boc-a-2026-129-2245
-Boletín Oficial de Canarias núm. 129 Lunes 29 de junio de 202624171
-https://sede.gobiernodecanarias.org/boc
 ANEXO 
 CONVENIO ENTRE EL CENTRO DOCENTE Y LA ENTIDAD PARA LA REALIZACIÓN 
 DE LA FORMACIÓN EN EMPRESA U ORGANISMO EQUIPARADO EN LAS 
@@ -572,9 +530,6 @@ formación profesional y las empresas u organismos equiparados. A tal efecto, se
 regímenes  de oferta, general e intensiva,  contribuyendo ambos  al logro de las  competencias  
 previstas en cada oferta de formación.
 
-boc-a-2026-129-2245
-Boletín Oficial de Canarias núm. 129 Lunes 29 de junio de 202624172
-https://sede.gobiernodecanarias.org/boc
 Por otro lado, el presente convenio atiende al carácter transitorio que presenta el módulo de  
 Formación en Centros de Trabajo (FCT) según se desprende del artículo 11.3 y 4 del Real Decreto 
 278/2023, de 11 de abril, por el que se establece el calendario de implementación del Sistema de  
@@ -616,9 +571,6 @@ profesional,  siempre  que  las  mismas  no  se  presten  en  el  régimen  de  
 intensiva, así como las realizadas por alumnos de Enseñanzas Artísticas Superiores, enseñanzas  
 artísticas profesionales y enseñanzas deportivas del sistema educativo.
 
-boc-a-2026-129-2245
-Boletín Oficial de Canarias núm. 129 Lunes 29 de junio de 202624173
-https://sede.gobiernodecanarias.org/boc
 El  apartado  3  de  dicha  disposición  adicional  señala,  entre  otras  previsiones, que  la  acción 
 protectora será la correspondiente al régimen de Seguridad Social aplicable, con la exclusión de la  
 protección  por  desempleo,  de  la  cobertura  del  Fondo  de  Garantía  Salarial  y  por  Formación 
@@ -662,9 +614,6 @@ de servicios de referencia, afianzar habilidades permanentes para la empleabilid
 profesión que requieren situaciones reales de trabajo y facilitar una experiencia de inserción y  
 relacional en entorno de trabajo.
 
-boc-a-2026-129-2245
-Boletín Oficial de Canarias núm. 129 Lunes 29 de junio de 202624174
-https://sede.gobiernodecanarias.org/boc
 En tal sentido, las partes acuerdan compartir los recursos humanos, materiales y de infraestructura  
 en materia de Formación  Profesional estableciendo a través del presente acuerdo convencional  la 
 cooperación  necesaria para la adecuada implementación, en este periodo, del nuevo Sistema de  
@@ -701,9 +650,6 @@ comunicarse por escrito con una antelación de al menos quince días.
 3. En cualquier caso, la extinción del  convenio deberá respetar la finalización de  los planes de
 formación y, en su caso, programas formativos que hayan sido organizadas al amparo del mismo.
 
-boc-a-2026-129-2245
-Boletín Oficial de Canarias núm. 129 Lunes 29 de junio de 202624175
-https://sede.gobiernodecanarias.org/boc
 4. Sin perjuicio de lo anterior, si conforme al presente convenio se acuerda la realización del
 módulo de FCT de aquellas titulaciones aún vigentes desde la firma hasta su extinción, y la  
 duración del mismo supere la vigencia de dicho módulo, quedará sin efecto la parte del convenio  
@@ -745,9 +691,6 @@ d) Facilitar  al  tutor  o  tutora  docente  la  realización  de  las  acciones
 programación, seguimiento y evaluación de las actividades formativas en empresas u organismos  
 equiparados.
 
-boc-a-2026-129-2245
-Boletín Oficial de Canarias núm. 129 Lunes 29 de junio de 202624176
-https://sede.gobiernodecanarias.org/boc
 e) Proporcionar en el centro educativo la formación necesaria para que el alu mnado desarrolle el
 plan de formación en la empresa u organismo equiparado con aprovechamiento y en condiciones  
 de  seguridad,  incidiendo  en  la  necesidad  de  adoptar  las  medidas  de  prevención  de  riesgos 
@@ -789,9 +732,6 @@ i) Comunicar al alumnado en formación en empresa u organismo equiparado los cri
 asignación de empresa establecidos en la cláusula novena del presente convenio, en las  
 condiciones establecidas en el artículo 155 del Real Decreto 659/2023, de 18 de julio.
 
-boc-a-2026-129-2245
-Boletín Oficial de Canarias núm. 129 Lunes 29 de junio de 202624177
-https://sede.gobiernodecanarias.org/boc
 j) Colaborar con el tutor o tutora dual en la valoración de la adquisición de los resultados de
 aprendizaje alcanzados, de acuerdo con los criterios de evaluación establecidos, recogida en los  
 informes  elaborados  para  su  posterior  calificación  y  registro  en  los  documentos  oficiales  de 
@@ -834,9 +774,6 @@ Resolución para la formación dual en empresas u organismos equiparados, y en p
 necesarias para la adquisición de los resultados de aprendizaje correspondientes.
 2. Procurar que se cumplan las normas de régimen interno establecidas por el centro de trabajo.
 
-boc-a-2026-129-2245
-Boletín Oficial de Canarias núm. 129 Lunes 29 de junio de 202624178
-https://sede.gobiernodecanarias.org/boc
 3. Asegurar que el alumnado porte los equipos de protección individual que se le proporcionen,
 así como el distintivo que les identifique como alumnado de formación profesional.
 4. Colaborar con el profesorado del centro docente, mediante la elaboración de un informe de
@@ -875,9 +812,6 @@ En este caso, la empresa deberá comunicar este hecho a la dirección del centro
 que lo comunicará en el plazo de cinco días a la Dirección General de Formación Profesional y 
 Enseñanzas de Régimen Especial por los medios establecidos al efecto.
 
-boc-a-2026-129-2245
-Boletín Oficial de Canarias núm. 129 Lunes 29 de junio de 202624179
-https://sede.gobiernodecanarias.org/boc
 SEXTA.- Plan de formación o programa formativo. 
 1. El centro  docente y la entidad colaboradora se comprometen a acordar el plan de formación
 para el alumnado en formación, que será desarrollado entre el centro docente y la empresa a través 
@@ -913,9 +847,6 @@ obtenido  de la  Dirección del  centro  educativo y  la persona representante  
 correspondientes visados. Los documentos donde consten las expresadas circunstancias formarán  
 parte del presente convenio, como anexos al mismo, y se suscribirán por ambas partes.
 
-boc-a-2026-129-2245
-Boletín Oficial de Canarias núm. 129 Lunes 29 de junio de 202624180
-https://sede.gobiernodecanarias.org/boc
 4. El contenido del programa formativo para la FCT se determinará conforme a lo dispuesto en la
 Resolución  de  26  de  julio  de  2004,  de  la  Dirección  General  de  Formación  Profesional  y 
 Enseñanzas de Adultos, por la que se regula la Formación en Centros de Trabajo, modificada por  
@@ -954,9 +885,6 @@ a) Rendimiento académico:
 • Nota media de las evaluaciones anteriores a la incorporación a la fase de formación en
 empresa u organismo equiparado.
 
-boc-a-2026-129-2245
-Boletín Oficial de Canarias núm. 129 Lunes 29 de junio de 202624181
-https://sede.gobiernodecanarias.org/boc
 • Desarrollo de pruebas teórico/prácticas.
 b) Competencias personales, capacidad para el trabajo en equipo, capacidad para la toma de
 decisiones y la capacidad para la innovación y la creatividad:
@@ -993,9 +921,6 @@ profesionales del currículo.
 previstas en las cláusulas cuarta y sexta del presente convenio, si bien las partes de mutuo acuerdo  
 podrán incluir otras adicionales.
 
-boc-a-2026-129-2245
-Boletín Oficial de Canarias núm. 129 Lunes 29 de junio de 202624182
-https://sede.gobiernodecanarias.org/boc
 4. Cuando  la  Formación  Profesional  se  imparta  en  régimen  intensivo  será  de  aplicación  lo
 dispuesto en la Disposición Adicional Quincuagésima segunda, en su apartado 4, a) del TRLGSS,  
 tal como se señala en la cláusula duodécima del presente convenio.
@@ -1033,9 +958,6 @@ seguro para indemnizaciones, con la cobertura  de incapacidad, fallecimiento, da
 daños materiales, gestionada directamente por los centros educativos a través de la aplicación  
 informática utilizada a tal efecto, sin perjuicio de la existencia del seguro escolar obligatorio.
 
-boc-a-2026-129-2245
-Boletín Oficial de Canarias núm. 129 Lunes 29 de junio de 202624183
-https://sede.gobiernodecanarias.org/boc
 4. A los efectos previstos en el Decreto 2078/1971, de 1 3 de agos to, por el que se extiende el
 campo del Seguro Escolar, establecido por la Ley de 17 de julio de 1953, al alumnado que sigue  
 las enseñanzas de Formación Profesional Dual, el centro docente comunicará a la Dirección  
@@ -1071,9 +993,6 @@ del centro docente, de la empresa, o conjunta de ambos, en los siguientes casos:
 - Falta de aprovechamiento o mala conducta, previa audiencia a la persona interesada.
 - Inaplicación del programa formativo.
 
-boc-a-2026-129-2245
-Boletín Oficial de Canarias núm. 129 Lunes 29 de junio de 202624184
-https://sede.gobiernodecanarias.org/boc
 DECIMOQUINTA.- Causas de extinción.
 Los convenios se extinguen por el cumplimiento de las actuaciones que constituyen su objeto o
 por incurrir en causa de resolución tal como se recoge en el artículo 51 de la Ley 40/2015, de 1 de
@@ -1110,9 +1029,6 @@ escolarización del alumnado.
 para los órganos colegiados en la sección 3ª del capítulo ll del título preliminar de la Ley 40/2015,  
 de 1 de octubre, de Régimen Jurídico del Sector Público.
 
-boc-a-2026-129-2245
-Boletín Oficial de Canarias núm. 129 Lunes 29 de junio de 202624185
-https://sede.gobiernodecanarias.org/boc
 DECIMOSÉPTIMA.- Datos de carácter personal.
 1. Las partes se comprometen a cumplir durante la vigencia de este convenio, e incluso una vez
 finalizada su vigencia, mientras traten datos personales de la otra parte, el Reglamento (UE)  
@@ -1156,9 +1072,6 @@ estipula, en particular, que el encargado/a:
                                                                                                                                                       
                                                                                  
 
-boc-a-2026-129-2245
-Boletín Oficial de Canarias núm. 129 Lunes 29 de junio de 202624186
-https://sede.gobiernodecanarias.org/boc
 a) Tratará  los  datos  personales  únicamente  siguiendo  instrucciones  documentadas  del
 responsable, inclusive con respecto a las transferencias de datos personales a un tercer país o  
 una organización internacional, salvo que esté obligado a ello en virtud del Derecho de la  
@@ -1202,9 +1115,6 @@ opinión, una instrucción infringe el presente Reglamento u otras disposiciones
 protección de datos de la Unión Europea o de los Estados miembros.
                                                                                                                 
 
-boc-a-2026-129-2245
-Boletín Oficial de Canarias núm. 129 Lunes 29 de junio de 202624187
-https://sede.gobiernodecanarias.org/boc
 4. En cumplimiento del artículo 5 de la Ley Orgánica 3/2018, de 5 de diciembre, las personas
 responsables y encargadas del tratamiento de datos así como todas las personas que intervengan  
 en cualquier fase de este estarán sujetas al deber de confidencialidad al que se refiere el artículo  
@@ -1250,9 +1160,6 @@ POR LA EMPRESA U ORGANISMO
 EQUIPARADO
 Fdo.:  __________________________
 
-boc-a-2026-129-2245
-Boletín Oficial de Canarias núm. 129 Lunes 29 de junio de 202624188
-https://sede.gobiernodecanarias.org/boc
 ANEXO I
 PLAN DE FORMACIÓN EN EMPRESA U ORGANISMO EQUIPARADO
 RÉGIMEN (General/Intensivo)________________
@@ -1285,9 +1192,6 @@ Dirección General de Formación
 Profesional  y
 Enseñanzas de Régimen Especial.
 
-boc-a-2026-129-2245
-Boletín Oficial de Canarias núm. 129 Lunes 29 de junio de 202624189
-https://sede.gobiernodecanarias.org/boc
 RESULTADOS DE APRENDIZAJE A IMPLEMENTAR EN LA EMPRESA  (Cumplimentar uno por módulo)
 CÓDIGO MÓDULO 
 PROFESIONAL RESULTADOS DE APRENDIZAJE HORAS  A 
@@ -1303,9 +1207,6 @@ RA 3:
 TAREAS A REALIZAR EN LA EMPRESA RELACIONADAS CON EL RESULTADO DE APRENDIZAJE
 V ALORACIÓN CUALITATIV A DE LA ADQUISICIÓN DEL RESULTADO DE APRENDIZAJE
 
-boc-a-2026-129-2245
-Boletín Oficial de Canarias núm. 129 Lunes 29 de junio de 202624190
-https://sede.gobiernodecanarias.org/boc
 RESULTADOS DE APRENDIZAJE A IMPLEMENTAR EN LA EMPRESA  (Cumplimentar uno por módulo)
 CÓDIGO MÓDULO 
 PROFESIONAL RESULTADOS DE APRENDIZAJE HORAS  A 
@@ -1321,9 +1222,6 @@ RA 3:
 TAREAS A REALIZAR EN LA EMPRESA RELACIONADAS CON EL RESULTADO DE APRENDIZAJE
 V ALORACIÓN CUALITATIV A DE LA ADQUISICIÓN DEL RESULTADO DE APRENDIZAJE
 
-boc-a-2026-129-2245
-Boletín Oficial de Canarias núm. 129 Lunes 29 de junio de 202624191
-https://sede.gobiernodecanarias.org/boc
 OBSERV ACIONES
 Fdo.: Tutor/tutora centro de formación Fdo.: Tutor/ tutora de empresa u organismo equiparado Fdo.: Alumno/ Alumna
 INFORMACIÓN BÁSICA SOBRE PROTECCIÓN DE DATOS PERSONALES
@@ -1343,9 +1241,6 @@ previsión legal.
 Transferencias internacionales: No hay transferencias internacionales previstas.
 Derechos de personas interesadas: Cualquier persona tiene derecho a obtener confirmación sobre los tratamientos que de sus datos que se llevan a cabo por esta Consejería.
 
-boc-a-2026-129-2245
-Boletín Oficial de Canarias núm. 129 Lunes 29 de junio de 202624192
-https://sede.gobiernodecanarias.org/boc
 Puede ejercer sus derechos de acceso, rectificación, supresión y portabilidad de sus datos, de limitación y oposición a su tratamiento, así como a no ser objeto de  
 decisiones basadas únicamente en el tratamiento automatizado de sus datos, cuando procedan, ante la Consejería de Educación, Universidades, Cultura y  
 Deportes del Gobierno de Canarias en las sedes ubicadas en:
@@ -1365,9 +1260,6 @@ Empresas-y-Organismos-Equiparados/
                                                                                                                                                                                                                                                                                                  
                                                                                                                                    
 
-boc-a-2026-129-2245
-Boletín Oficial de Canarias núm. 129 Lunes 29 de junio de 202624193
-https://sede.gobiernodecanarias.org/boc
 ANEXO II
 SOLICITUD DE ALUMNADO CON INDICACIÓN DE PREFERENCIA DE RÉGIMEN Y ASIGNACIÓN DE EMPRESA
 SOLICITUD DE ALUMNADO CON INDICACIÓN DE PREFERENCIA  DE RÉGIMEN Y ASIGNACIÓN DE EMPRESA.
@@ -1391,9 +1283,6 @@ educativo
 1.
 2.
 
-boc-a-2026-129-2245
-Boletín Oficial de Canarias núm. 129 Lunes 29 de junio de 202624194
-https://sede.gobiernodecanarias.org/boc
 3.
 4.
 5.
@@ -1420,9 +1309,6 @@ Puede ejercer sus derechos de acceso, rectificación, supresión y portabilidad 
 decisiones basadas únicamente en el tratamiento automatizado de sus datos, cuando procedan, ante la Consejería de Educación, Universidades, Cultura y  
 Deportes del Gobierno de Canarias en las sedes ubicadas en:
 
-boc-a-2026-129-2245
-Boletín Oficial de Canarias núm. 129 Lunes 29 de junio de 202624195
-https://sede.gobiernodecanarias.org/boc
 Tenerife: Avenida Buenos Aires, 5, Edificio Tres de mayo, planta 6.ª, 38071 Santa Cruz de Tenerife, teléfono 922 423 500.
 Gran Canaria: Calle Granadera Canaria, 2, Edificio Ganadera Canaria, planta 2.ª, 35071 Las Palmas de Gran Canaria, teléfono 928 455 400.
 Puede realizar este trámite de forma telemática en la Sede Electrónica del Gobierno de Canarias:
@@ -1441,9 +1327,6 @@ Empresas-y-Organismos-Equiparados/
                                             
                                             
 
-boc-a-2026-129-2245
-Boletín Oficial de Canarias núm. 129 Lunes 29 de junio de 202624196
-https://sede.gobiernodecanarias.org/boc
 ANEXO III
 RELACIÓN ALUMNADO DE UN GRUPO POR EMPRESA O CENTRO DE TRABAJO
 DATOS DE LAS PARTES DEL CENTRO Y LA ENTIDAD COLABORADORA
@@ -1466,9 +1349,6 @@ Nombre y apellidos de alumno/a Jornada laboral Horario mañana Horario tarde
 ...
 Fdo.: Tutor/a centro de formación. Fdo.: Tutor/a empresa u organismo equiparado.
 
-boc-a-2026-129-2245
-Boletín Oficial de Canarias núm. 129 Lunes 29 de junio de 202624197
-https://sede.gobiernodecanarias.org/boc
 INFORMACIÓN BÁSICA SOBRE PROTECCIÓN DE DATOS PERSONALES
 Tratamiento: GESTIÓN  DE  LAS  PRÁCTICAS  FORMATIV AS  DEL ALUMNADO  DE  FORMACIÓN  PROFESIONAL EN  EMPRESAS  U  ORGANISMOS 
 EQUIPARADOS
@@ -1500,7 +1380,3 @@ Presentación  de  reclamaciones  (ante  la  Sede  electrónica  de  la  AEPD): 
 nuevaReclamacion.jsf?QID=Q500&ce=0
 Información adicional: https://www.gobiernodecanarias.org/protecciondedatos/registrotratamiento/eucd/vfpcf/Gestion-Practicas-Formativas-Alumnado-Formacion-Profesional-en-
 Empresas-y-Organismos-Equiparados/
-                                                                                    
-                                                                                                                                                      
-                                                                                                                                                 
-                                                                                                                                                 

@@ -29,9 +29,6 @@ fuente_pdf_oficial: https://sede.gobiernodecanarias.org/boc/boc-a-2022-158-2653.
 
 # Resolución de 27 de julio de 2022, por la que se aprueban nuevos criterios para la dotación de profesorado, de conformidad con el Acuerdo para la mejora del sistema público educativo de Canarias entre Administración y sindicatos.
 
-https://sede.gobiernodecanarias.org/boc
-boc-a-2022-158-2653
-Boletín Oficial de Canarias núm. 158 Miércoles 10 de agosto de 202229942
 III. Otras Resoluciones
 Consejería de Educación, Universidades, Cultura y Deportes
 2653 Dirección General de Personal.- Resolución de 27 de julio de 2022, por la que 
@@ -72,9 +69,6 @@ incorporado tarde al sistema educativo o por condiciones personales o de histori
 puedan alcanzar el máximo desarrollo posible de sus capacidades personales y, en todo 
 caso, los objetivos establecidos con carácter general para todo el alumnado.
 
-https://sede.gobiernodecanarias.org/boc
-boc-a-2022-158-2653
-Boletín Oficial de Canarias núm. 158 Miércoles 10 de agosto de 202229943
 b) Mejorar las condiciones de trabajo y la disponibilidad horaria en los centros, 
 incentivando la autonomía para el desarrollo de proyectos educativos, tanto propios como 
 a iniciativa de la Consejería de Educación, Universidades, Cultura y Deportes, permitiendo 
@@ -115,9 +109,6 @@ correspondiente a los ejercicios de 2021, 2022 y 2023.
 Segundo.- El Acuerdo para la Mejora del Sistema Público Educativo de Canarias, 
 suscrito el día 18 de julio de 2022.
 
-https://sede.gobiernodecanarias.org/boc
-boc-a-2022-158-2653
-Boletín Oficial de Canarias núm. 158 Miércoles 10 de agosto de 202229944
 Por ello de conformidad con lo dispuesto en el artículo 19 del Reglamento Orgánico de la 
 Consejería de Educación, Universidades, Cultura y Deportes aprobado por Decreto 7/2021, 
 de 18 de febrero,
@@ -148,9 +139,6 @@ el de reposición o se produzca su desestimación presunta.
 Santa Cruz de Tenerife, a 27 de julio de 2022.- El Director General de Personal, Fidel 
 Benigno Trujillo Santana.
 
-boc-a-2022-158-2653
-Boletín Oficial de Canarias núm. 158 Miércoles 10 de agosto de 202229945
-https://sede.gobiernodecanarias.org/boc
 ANEXO I
 NUEVO CATÁLOGO PARA LA DETERMINACIÓN DE LAS PLANTILLAS CORRESPONDIENTES AL CUERPO DE MAESTROS EN CENTROS PÚBLICOS
 NO UNIVERSITARIOS
@@ -179,9 +167,6 @@ el profesor adicional será de la especialidad de Educación Infantil.
 proyectos educativos de acuerdo al principio de autonomía organizativa, dando preferencia al último curso de Educación Infantil y a los dos
 primeros de Primaria.
 
-boc-a-2022-158-2653
-Boletín Oficial de Canarias núm. 158 Miércoles 10 de agosto de 202229946
-https://sede.gobiernodecanarias.org/boc
 2.- La aplicación de los criterios precedentes supone la configuración del siguiente catálogo:
 MAESTROS ESPECIALISTAS MAESTROS NO
 ESPECIALISTAS
@@ -242,9 +227,6 @@ el centro tiene 9 o más.
 3.- Con el fin de dar respuesta a las necesidades curriculares de los centros, la Administración Educativa podrá determinar que algunos/as
 profesores/as compartan centros. En este sentido, se tratará de que la atención a los centros se realice en jornadas completas.
 
-boc-a-2022-158-2653
-Boletín Oficial de Canarias núm. 158 Miércoles 10 de agosto de 202229947
-https://sede.gobiernodecanarias.org/boc
 ANEXO II
 NUEVOS CRITERIOS PARA LA CONFIGURACIÓN DE LAS PLANTILLAS ORGÁNICAS
 CORRESPONDIENTES A LA ESPECIALIDAD ORIENTACIÓN EDUCATIVA EN CENTROS PÚBLICOS
@@ -282,9 +264,6 @@ Los docentes que sean nombrados en estos puestos tendrán derecho, a todos los e
 contabilizar la experiencia que conlleve su nombramiento. Esta experiencia será computada
 por el apartado “otras especialidades”.
 
-boc-a-2022-158-2653
-Boletín Oficial de Canarias núm. 158 Miércoles 10 de agosto de 202229948
-https://sede.gobiernodecanarias.org/boc
 ANEXO III
 CRITERIOS PARA LA CONFIGURACIÓN DE LAS PLANTILLAS ORGÁNICAS
 CORRESPONDIENTES A LA ESPECIALIDAD PEDAGOGÍA TERAPÉUTICA Y AUDICIÓN Y
@@ -309,9 +288,6 @@ Lenguaje.
 ● A los centros con 27 o más unidades de Educación Infantil y Primaria les corresponderá 1
 maestro/a de Audición y Lenguaje en la plantilla del centro.
 
-boc-a-2022-158-2653
-Boletín Oficial de Canarias núm. 158 Miércoles 10 de agosto de 202229949
-https://sede.gobiernodecanarias.org/boc
 ANEXO IV
 NUEVAS RATIOS EN CENTROS PÚBLICOS NO UNIVERSITARIOS
 1.- Centros de Educación Infantil y Primaria y centros de Educación Primaria (CEIP y CEP)
@@ -331,9 +307,6 @@ de corta duración.
 5.- En las Comisiones de Seguimiento se estudiará la viabilidad de consensuar un  calendario
 plurianual que permita seguir avanzando en la reducción del número de alumnado en el aula.
 
-boc-a-2022-158-2653
-Boletín Oficial de Canarias núm. 158 Miércoles 10 de agosto de 202229950
-https://sede.gobiernodecanarias.org/boc
 ANEXO V
 CRITERIOS PARA EL CÁLCULO DE LA PLANTILLA ORGÁNICA EN LOS CUERPOS DOCENTES
 NO UNIVERSITARIOS, EXCEPTO MAESTROS
@@ -351,9 +324,6 @@ cantidad.
 formación profesional, artes plásticas y diseño, escuelas de idiomas y conservatorios de música, se
 adecuarán a las especificidades propias de estas enseñanzas.
 
-boc-a-2022-158-2653
-Boletín Oficial de Canarias núm. 158 Miércoles 10 de agosto de 202229951
-https://sede.gobiernodecanarias.org/boc
 ANEXO VI
 CRITERIOS PARA LA COMPENSACIÓN DE LAS DESIGUALDADES EN CENTROS PÚBLICOS NO
 UNIVERSITARIOS

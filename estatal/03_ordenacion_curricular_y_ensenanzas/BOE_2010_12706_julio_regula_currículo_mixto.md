@@ -51,11 +51,9 @@ Procede, por tanto, regular el currículo mixto acordado por la Comisión de seg
 
 En virtud de lo expuesto, consultadas las Comunidades Autónomas en el seno de la Comisión General de Educación de la Conferencia de Educación y previo informe del Consejo Escolar del Estado y del Ministerio de Política Territorial, dispongo:
 
-
 #### Artículo 1. Objeto y ámbito de aplicación.
 
 En desarrollo del Real Decreto 102/2010, de 5 de febrero, por el que se regula la ordenación de las enseñanzas acogidas al Acuerdo entre el Gobierno de España y el Gobierno de Francia relativo a la doble titulación de Bachiller y de Baccalauréat en centros docentes españoles, esta orden tiene por objeto establecer, según lo acordado por las Partes, el currículo mixto integrador de los contenidos esenciales para el conocimiento de la lengua, de la cultura y de la realidad histórica, social y política de Francia, así como los requisitos para la obtención de la doble titulación en los centros españoles que deseen ofrecer estas enseñanzas.
-
 
 #### Artículo 2. El currículo mixto y sus componentes.
 
@@ -67,11 +65,9 @@ En desarrollo del Real Decreto 102/2010, de 5 de febrero, por el que se regula l
 
 4. El alumnado acogido a este programa deberá recibir, al menos, un tercio del horario lectivo en lengua francesa en el conjunto del bachillerato, con el fin de que pueda alcanzar el nivel B2 del Marco Común Europeo de Referencia para las Lenguas, de acuerdo con lo establecido en el Real Decreto 102/2010.
 
-
 #### Artículo 3. Asignación horaria.
 
 El currículo mixto respetará en todo caso la estructura y la carga horaria del sistema educativo español, teniendo en cuenta la proporción que corresponda a las enseñanzas comunes o mínimas establecidas con carácter estatal. Únicamente el horario asignado a la Lengua y literatura francesas y a la Historia de España y de Francia se incrementará, al menos, una hora lectiva a la semana con el fin de alcanzar los objetivos de este currículo mixto.
-
 
 #### Artículo 4. Prueba externa.
 
@@ -82,7 +78,6 @@ El currículo mixto respetará en todo caso la estructura y la carga horaria del
 3. La Secretaría de Estado de Educación y Formación Profesional dispondrá anualmente las Instrucciones correspondientes antes del inicio del curso escolar.
 
 4. Los exámenes de las materias específicas del currículo mixto se realizarán íntegramente en lengua francesa y en su evaluación participarán examinadores designados al efecto.
-
 
 #### Artículo 5. Estructura y calificación de la prueba externa de Lengua y literatura francesas.
 
@@ -102,7 +97,6 @@ b) La segunda, de 20 minutos, se dedicará a la evaluación de la comprensión y
 
 4. Para cada ejercicio se propondrán dos opciones diferentes entre las que cada estudiante deberá elegir una.
 
-
 #### Artículo 6. Estructura y calificación de la prueba externa de Historia de España y de Francia.
 
 1. La prueba externa de Historia de España y de Francia constará de un ejercicio escrito con dos partes y tendrá una duración total de cuatro horas. Las dos partes versarán sobre la Historia de los siglos XIX, XX y XXI de acuerdo con el currículo integrado de 2.º curso de Bachillerato. La calificación de esta prueba estará expresada en forma numérica de 0 a 10 puntos.
@@ -113,23 +107,19 @@ b) La segunda, de 20 minutos, se dedicará a la evaluación de la comprensión y
 
 4. Para cada parte se propondrán dos opciones diferentes entre las que cada estudiante deberá elegir una.
 
-
 #### Artículo 7. Calificación global de la prueba externa.
 
 1. La calificación global de la prueba externa será la media aritmética de las calificaciones de las materias específicas expresada en forma numérica de 0 a 10 puntos.
 
 2. Según lo acordado por las Partes, para superar la prueba externa será necesario haber obtenido, como mínimo, una nota media igual o superior a 5 puntos en la calificación global, y una nota igual o superior a 5 puntos en la prueba específica de Lengua y literatura francesas.
 
-
 #### Artículo 8. Calificación final para la obtención del título de Baccalauréat.
 
 La calificación final para la obtención del título de Baccalauréat será el resultado de la media ponderada entre el 70 por ciento de la nota media de bachillerato y el 30 por ciento de la calificación global de la prueba externa, expresada en forma numérica de 0 a 10 puntos.
 
-
 #### Artículo 9. Título de Baccalauréat para el alumnado de los centros docentes españoles.
 
 El alumnado de los centros docentes españoles que reúna las condiciones para la obtención del título de Bachiller y que supere también la prueba externa, según lo acordado por las Partes, será propuesto por el Ministerio de Educación de España al Ministerio de Educación de Francia para que le sea expedido el correspondiente título de Baccalauréat. De este requisito deberán ser informados los alumnos, las alumnas y sus padres antes de la iniciación de sus estudios.
-
 
 #### Artículo 10. Documentos de evaluación.
 
@@ -137,40 +127,31 @@ El alumnado de los centros docentes españoles que reúna las condiciones para l
 
 2. En las actas de evaluación de bachillerato se hará constar, en su caso, la referencia expresa al Real Decreto 102/2010, de 5 de febrero, que regula las enseñanzas del currículo integrado.
 
-
 #### Artículo 11. Admisión del alumnado en este programa.
 
 1. Podrá ser admitido en este programa el alumnado que haya cursado la Educación secundaria obligatoria en una sección bilingüe hispano-francesa, el que haya efectuado toda o parte de su escolaridad obligatoria en el sistema educativo de un país de lengua francesa, así como el que pueda acreditar un nivel equivalente al B1, del Marco común europeo de referencia para las lenguas, en el uso de la lengua francesa al comienzo del Bachillerato.
 
 2. De este requisito deberán ser informados los alumnos, las alumnas y sus padres antes de la iniciación de sus estudios en este programa.
 
-
 #### Artículo 12. Incorporación de los centros al programa.
 
 Las Administraciones educativas remitirán al Ministerio de Educación, antes del inicio de cada curso escolar, la relación de los centros que se proponen para su incorporación al programa. Asimismo, enviarán los listados del alumnado inscrito en el programa ordenados por centro y curso.
-
 
 #### Disposición adicional única. Acceso a la universidad española.
 
 El alumnado que haya obtenido el título de Baccalauréat en virtud del Real Decreto 102/2010, de 5 de febrero, por el que se regula la ordenación de las enseñanzas acogidas al Acuerdo entre el Gobierno de España y el Gobierno de Francia relativo a la doble titulación de Bachiller y de Baccalauréat en centros docentes españoles, podrá acogerse al artículo 38.5 de la Ley Orgánica 2/2006, de 3 de mayo, de Educación, para acceder a las universidades españolas.
 
-
 #### Disposición final primera. Título competencial.
 
 Esta orden, se dicta al amparo de lo previsto en el artículo 149.1.30.ª de la Constitución, que reserva al Estado la competencia para la regulación de las condiciones de obtención, expedición y homologación de títulos académicos y profesionales.
 
-
 #### Disposición final segunda. Entrada en vigor.
-
-La presente orden entrará en vigor el día siguiente al de su publicación en el Boletín Oficial del Estado.
 
 Madrid, 30 de julio de 2010.–El Ministro de Educación, Ángel Gabilondo Pujol.
 
 ANEXO I - A
 
-
 **LENGUA Y LITERATURA FRANCESAS**
-
 
 **I. Introducción**
 
@@ -187,7 +168,6 @@ El alumnado que accede al bachillerato y que desea obtener la doble titulación 
 El aprendizaje de la lengua francesa debe trascender el marco de los aprendizajes lingüísticos, debe ir más allá de la utilización de la lengua en contextos de comunicación. Su conocimiento deberá propiciar la formación del alumnado desde una perspectiva integral, favoreciendo el respeto, el interés y la comunicación con hablantes de otras culturas, desarrollando la conciencia intercultural, ya que es un vehículo para la comprensión de las cuestiones globales que nos afectan a todos y para la adquisición de estrategias de aprendizaje diversas. De este modo, esta materia contribuirá también a ampliar el horizonte personal del alumno, a favorecer su acercamiento a otras formas de vida y de organización social, le ayudará a conocer y a formar su opinión sobre temas que se comparten internacionalmente, a diversificar sus intereses profesionales y a consolidar unos valores sociales que favorezcan el encuentro, en un mundo en el que la comunicación internacional se hace cada vez más patente.
 
 El conocimiento de otras lenguas permite el conocimiento de otras culturas, es una puerta abierta a los otros, a otros tiempos por venir. El conocimiento de la lengua francesa es una puerta abierta a los intercambios culturales y comerciales con Francia, pero también con Bélgica, Suiza, Canadá, los países del Magreb, África…, a los Organismos Internacionales: UE, ONU...
-
 
 **II. Objetivos y recomendaciones metodológicas**
 
@@ -206,7 +186,6 @@ Por otra parte, esta materia contribuirá a la constitución de una cultura fran
 Finalmente, el estudio de la lengua y cultura francesas deberá plantearse como el desarrollo de unas competencias necesarias en distintas situaciones de comunicación, como una apertura a una herencia cultural, al diálogo entre culturas europeas, permitirá la reflexión sobre distintas opiniones y ejercitará la capacidad de argumentar; además de desarrollar la adquisición de unos métodos que favorezcan una mayor autonomía en los alumnos.
 
 Durante estos dos años de bachillerato, el objetivo prioritario es consolidar las adquisiciones anteriores, proporcionar los medios y los instrumentos más eficaces, dar a conocer nuevos métodos de trabajo, así como ampliar y profundizar las competencias y los conocimientos.
-
 
 **III. Adquisición de competencias y de conocimientos lingüísticos**
 
@@ -236,7 +215,6 @@ Las producciones escritas y orales serán diversificadas, y permitirán una mejo
 
 El trabajo sobre la lengua se realizará de manera coherente con los textos estudiados, pero también a partir de las producciones de los alumnos, de manera que se mejore el dominio de la lengua tanto por el análisis como por la práctica.
 
-
 **IV. Adquisición de saberes y aproximación a una cultura**
 
 La cultura –particularmente la cultura literaria, y en general la humanística– se conforma a través de las lecturas y del estudio comparativo de los textos entre sí. Ahora bien, exige además confrontarlos con otros lenguajes, entre los que cabe destacar el discurso de la imagen.
@@ -258,7 +236,6 @@ La apertura a una cultura europea.
 La toma de conciencia de la existencia de los diferentes géneros literarios y formas del discurso.
 
 El estudio de los textos (obras integrales o conjuntos de textos) deberá realizarse a la luz de la historia o del contexto histórico y sociológico.
-
 
 **V. Programa 1**
 
@@ -396,13 +373,11 @@ La lista de nociones prioritarias presentadas a continuación, tiene como finali
 
 No se deberá perder de vista en ningún momento que la reflexión sobre la lengua es una herramienta de ayuda, para el perfeccionamiento en el uso de la misma, pero no debe ser nunca un fin en sí mismo.
 
-
 **1. Lexique**
 
 Structuration et relations lexicales Antonymie Dérivation/Composition Étymologie Polysémie/Monosémie Préfixation/Suffixation Radical/Affixe/Morphème Synonymie / Traits sémantiques Lexique et texte Champ lexical Champ sémantique
 
 Lexique et discours Appréciatif/Dépréciatif Comparaison Création lexicale (Néologisme) Dénotation / Connotation Locution, Syntagme figé Figure Métaphore Métonymie Référent Symbole
-
 
 **2. Dimension phrastique**
 
@@ -410,20 +385,17 @@ Constituant Fonction / Nature Grammaticalité / Acceptabilité Juxtaposition / C
 
 Phrase (simple / complexe) Proposition Syntagme ou groupe nominal, verbal… Sujet thème / propos dans la phrase; groupes essentiels / groupes circonstanciels Temps verbaux Transitivité / Intransitivité
 
-
 **3. Texte**
 
 Anaphore (rhétorique: reprise d’un terme; linguistique: terme de reprise) Connecteur (logique, spatial, temporel) Structuration textuelle (organisation, cohésion)  Genre Modalité
 
 Période Plan de l’expression / Plan du contenu Premier plan / Second plan Temporalité (succession / simultanéité) Thème / Propos Progressions dans le texte
 
-
 **4. Enonciation - Discours**
 
 Énonciation  Aspect (accompli / non accompli; inchoatif, duratif, itératif…)  Attitude énonciative (engagement /  détachement) Enonciation / Enoncé Position énonciative Modalisation  Niveau de langue Registre (comique, tragique, épique…) Situation d’énonciation Valeur Textes et formes de discours Enonciation, interaction, usage. Texte argumentatif (démontrer,  convaincre, persuader, délibérer) Texte descriptif Texte narratif  Texte explicatif Point de vue  Récit, narration, narrateur
 
 Opérations de discours Citation / Reformulation Énonciation rapportée (directe, indirecte, indirecte libre, narrativisée) Pragmatique  Acte de langage (direct et indirect) Auditoire Communication Débat Destinataire Dialogue Explicite / Implicite (présupposition, inférence) Ironie Réception Marques de l’oralité Accent Intonation  Redondance  Rythme  Syntaxe de l’oral
-
 
 **5. Langage et variation**
 
@@ -645,9 +617,7 @@ La escala global de los niveles comunes de referencia dispone, para este nivel, 
 
 ANEXO I - B
 
-
 **HISTORIA DE ESPAÑA Y DE FRANCIA**
-
 
 **I. Introducción**
 
@@ -665,7 +635,6 @@ La selección de contenidos ha sido acordada por las Partes y trata de compagina
 
 Por otra parte, el estudio de los contenidos de la Historia de España y de Francia en francés implica la introducción de elementos de la metodología propia del sistema educativo de Francia y de la metodología AICLE. Este enfoque permitirá a los alumnos mejorar su competencia lingüística en lengua francesa, contribuyendo a alcanzar el nivel adecuado para poder realizar en francés la prueba externa necesaria para la obtención de la doble titulación.
 
-
 **II. Objetivos**
 
 Los objetivos planteados para el estudio de la Historia de España deberán ser completados con los requeridos para el estudio de la historia de Francia. Son los siguientes:
@@ -677,7 +646,6 @@ Los objetivos planteados para el estudio de la Historia de España deberán ser 
 3. Fomentar una visión integradora de la historia común de Francia y de España, que respete y valore tanto los aspectos comunes como las particularidades específicas y que genere actitudes de tolerancia y solidaridad entre ambos pueblos.
 
 4. Conocer las normas básicas que regulan el ordenamiento constitucional español y francés, promoviendo tanto el compromiso individual y colectivo con las instituciones democráticas, como la toma de conciencia ante los problemas sociales, en especial los relacionados con los derechos humanos.
-
 
 **III. Consideraciones metodológicas**
 
@@ -692,7 +660,6 @@ Este texto deberá incluir una o dos frases introductorias que expongan la probl
 El alumno tendrá que aprender a responder con exactitud y concisión poniendo de manifiesto su espíritu crítico.
 
 Por otra parte, tendrá que utilizar unas estrategias lingüísticas apropiadas para que su expresión escrita se adecue al nivel de lengua requerido.
-
 
 **IV. Contenidos**
 
@@ -805,7 +772,6 @@ Bloque 4.–Geografía de Europa, España y Francia.
 3.2 El espacio económico.
 
 3.3 Desigualdades espaciales y ordenación del territorio.
-
 
 **V. Criterios de evaluación**
 

@@ -31,9 +31,6 @@ fuente_pdf_oficial: https://sede.gobiernodecanarias.org/boc/boc-a-2025-250-4323.
 
 # Resolución de 26 de noviembre de 2025, de la Dirección General de Formación Profesional y Enseñanzas de Régimen Especial,por la que se dictan instrucciones para la implantación y desarrollo de la oferta de dobles titulaciones de formación profesional (Grados D) en la Comunidad Autónoma de Canarias, a partir del curso escolar 2026/2027 (BOC n.º 250, de 18 de diciembre)
 
-https://sede.gobiernodecanarias.org/boc
-boc-a-2025-250-4323
-Boletín Oficial de Canarias núm. 250 Jueves 18 de diciembre de 202553158
 III. Otras Resoluciones
 Consejería de Educación, Formación Profesional, Actividad Física y Deportes
 4323 Dirección General de Formación Profesional y Enseñanzas de Régimen Especial.- 
@@ -75,9 +72,6 @@ Primero.- El artículo 133.3 de la Ley Orgánica 1/2018, de 5 de noviembre, de r
 del Estatuto de Autonomía de Canarias, indica que le corresponde a la Comunidad Autónoma 
 de Canarias la competencia de desarrollo legislativo y de ejecución, entre otras, de la 
 
-https://sede.gobiernodecanarias.org/boc
-boc-a-2025-250-4323
-Boletín Oficial de Canarias núm. 250 Jueves 18 de diciembre de 202553159
 ordenación de las enseñanza y la actividad docente y educativa, así como el establecimiento 
 de los correspondientes planes de estudio, incluida la ordenación curricular.
 Segundo.- El artículo 22.4.d) del Real Decreto 659/2023, de 18 de julio, por el 
@@ -115,9 +109,6 @@ menos, un módulo optativo de duración anual o dos módulos cuatrimestrales.
 2. Asimismo, las administraciones competentes podrán, de oficio o previa solicitud de 
 los centros, realizar ofertas de Grado D que integren los currículos español y de un segundo 
 
-https://sede.gobiernodecanarias.org/boc
-boc-a-2025-250-4323
-Boletín Oficial de Canarias núm. 250 Jueves 18 de diciembre de 202553160
 país, bajo la denominación “Doble titulación internacional de formación profesional”, una 
 vez que esté reconocida a nivel estatal por los gobiernos concernidos. En este caso, el 
 currículo a impartir responderá al de carácter básico definido por ambos países para este 
@@ -162,9 +153,6 @@ Física y Deportes, aprobado mediante Decreto 84/2024, de 10 de junio, por el qu
 competencias generales y específicas a la Dirección General de Formación Profesional y 
 Enseñanzas de Régimen Especial,
 
-https://sede.gobiernodecanarias.org/boc
-boc-a-2025-250-4323
-Boletín Oficial de Canarias núm. 250 Jueves 18 de diciembre de 202553161
 RESUELVO :
 Primero.- Dictar instrucciones específicas para la implantación y desarrollo de ofertas 
 formativas de Grado D que integran dobles titulaciones, a partir del curso escolar 2026/2027, 
@@ -190,9 +178,6 @@ Oficial de Canarias, sin perjuicio de cualquier otro que se estime procedente in
 Las Palmas de Gran Canaria, a 26 de noviembre de 2025.- La Directora General de 
 Formación Profesional y Enseñanzas de Régimen Especial, Carolina León Martínez.
 
-https://sede.gobiernodecanarias.org/boc
-boc-a-2025-250-4323
-Boletín Oficial de Canarias núm. 250 Jueves 18 de diciembre de 202553162
 ANEXO I
 INSTRUCCIONES PARA LA IMPLANTACIÓN Y DESARROLLO DE LA OFERTA DE 
 DOBLES TITULACIONES DE FORMACIÓN PROFESIONAL DE CICLOS FORMATIVOS 
@@ -232,9 +217,6 @@ b) Doble titulación que se cursa en dos secuencias formativas.
 En este tipo de oferta, el itinerario formativo se articulará en dos secuencias sucesivas. En 
 la primera, el alumnado cursará un ciclo formativo completo y obtendrá la correspondiente 
 
-https://sede.gobiernodecanarias.org/boc
-boc-a-2025-250-4323
-Boletín Oficial de Canarias núm. 250 Jueves 18 de diciembre de 202553163
 titulación de Técnico o de Técnico Superior. Una vez finalizada, se incorporará al segundo 
 ciclo, completando la formación y obteniendo la segunda titulación del mismo nivel.
 La configuración de esta oferta se ajusta a lo dispuesto en la Resolución de 2 de mayo 
@@ -270,9 +252,6 @@ b) Dos sesiones de evaluación parciales.
 c) Una sesión de evaluación final de ciclo.
 d) Sesión de evaluación final de ciclo extraordinaria.
 
-https://sede.gobiernodecanarias.org/boc
-boc-a-2025-250-4323
-Boletín Oficial de Canarias núm. 250 Jueves 18 de diciembre de 202553164
 3. Sesiones de evaluación de primer curso.
 Se realizará conforme a lo establecido en los apartados 1.3 y 2 de la instrucción tercera 
 del Anexo II de la Resolución de 9 de junio de 2025, anteriormente citada.
@@ -311,9 +290,6 @@ FEOE
 pendientes de superar.
 • El alumnado que repite curso.
 
-https://sede.gobiernodecanarias.org/boc
-boc-a-2025-250-4323
-Boletín Oficial de Canarias núm. 250 Jueves 18 de diciembre de 202553165
 En el supuesto de que se promocione al siguiente curso con módulos profesionales o 
 FEOE pendientes de superar, el alumnado recibirá un informe de actividades de recuperación 
 individualizado de cada uno de los módulos no superados.
@@ -353,9 +329,6 @@ Quinta.- Promoción de curso.
 1. El alumnado de primer curso, de un grado medio o superior, promocionará a segundo 
 curso, conforme a lo establecido en la instrucción cuarta del Anexo II de la Resolución de 
 
-https://sede.gobiernodecanarias.org/boc
-boc-a-2025-250-4323
-Boletín Oficial de Canarias núm. 250 Jueves 18 de diciembre de 202553166
 9 de junio de 2025, por la que se dictan instrucciones respecto al proceso de evaluación en 
 los Ciclos Formativos (Grados D) y Cursos de Especialización (Grado E) en la Comunidad 
 Autónoma de Canarias.
@@ -398,9 +371,6 @@ siguientes instrucciones.
 2. En el régimen general, la formación en empresa u organismo equiparado se concretará 
 del siguiente modo:
 
-https://sede.gobiernodecanarias.org/boc
-boc-a-2025-250-4323
-Boletín Oficial de Canarias núm. 250 Jueves 18 de diciembre de 202553167
 2.1. Será de aplicación lo establecido en el Anexo I de la Resolución de 5 de noviembre 
 de 2024, por la que se dictan instrucciones y orientaciones para la formación dual en 
 empresas u organismos equiparados, en particular lo dispuesto en la instrucción quinta del 
@@ -440,9 +410,6 @@ los siguientes criterios.
 3.4. En el primer curso, la formación en empresa u organismo equiparado se desarrollará 
 en régimen general y tendrá una duración que podrá oscilar entre un mínimo de 300 y un 
 
-https://sede.gobiernodecanarias.org/boc
-boc-a-2025-250-4323
-Boletín Oficial de Canarias núm. 250 Jueves 18 de diciembre de 202553168
 máximo de 400 horas. La alternancia semanal con el centro educativo será la establecida 
 en el apartado 2.6.a) de la presente instrucción.
 3.5. En el segundo curso, la FEOE se desarrollará en régimen intensivo y se realizará lo 
@@ -488,9 +455,6 @@ Octava.- Evaluación de la formación en empresa u organismo equiparado.
 Se llevará a cabo según lo establecido en la instrucción sexta del Anexo II de la 
 Resolución de 9 de junio de 2025, por la que se dictan instrucciones respecto al proceso de 
 
-https://sede.gobiernodecanarias.org/boc
-boc-a-2025-250-4323
-Boletín Oficial de Canarias núm. 250 Jueves 18 de diciembre de 202553169
 evaluación en los Ciclos Formativos (Grados C y D) y Cursos de Especialización (Grado 
 E) del sistema de formación profesional que se imparten en la Comunidad Autónoma de 
 Canarias a partir del curso escolar 2024/2025.
@@ -531,9 +495,6 @@ Undécima.- Reclamaciones a evaluaciones finales.
 edad, podrá reclamar, por escrito, contra las decisiones y calificaciones que se adopten en 
 las evaluaciones finales como resultado del proceso de evaluación de la forma establecida 
 
-https://sede.gobiernodecanarias.org/boc
-boc-a-2025-250-4323
-Boletín Oficial de Canarias núm. 250 Jueves 18 de diciembre de 202553170
 en el artículo 19 de la Orden de 20 de octubre de 2000, y su posterior modificación y 
 ampliación por Orden de 3 de diciembre de 2003, por la que se regulan los procesos de 
 evaluación de las enseñanzas de la Formación Profesional Específica en el ámbito de la 
@@ -573,9 +534,6 @@ alcanzarse, por mayoría del profesorado que imparte docencia al alumnado.
 medio o superior recibirán una certificación académica de los módulos profesionales 
 superados.
 
-https://sede.gobiernodecanarias.org/boc
-boc-a-2025-250-4323
-Boletín Oficial de Canarias núm. 250 Jueves 18 de diciembre de 202553171
 Decimocuarta.- Certificación de la formación de nivel básico en prevención de 
 riesgos laborales.
 1. La superación del módulo de Itinerario personal para la empleabilidad I dará derecho 
@@ -611,9 +569,6 @@ establecido en el artículo 115 del Real Decreto 659/2023, de 18 de julio, y las
 que dicte la 
 DGFPERE en el ámbito de la Comunidad Autónoma de Canarias.
 
-boc-a-2025-250-4323
-Boletín Oficial de Canarias núm. 250 Jueves 18 de diciembre de 202553172
-https://sede.gobiernodecanarias.org/boc
 ANEXO II
 RELACIÓN DE CICLOS FORMATIVOS DE GRADO MEDIO DE
 DOBLE TITULACIÓN DE FORMACIÓN PROFESIONAL
@@ -660,9 +615,6 @@ ANEXO II
 RELACIÓN DE CICLOS FORMATIVOS DE GRADO MEDIO  
 DE DOBLE TITULACIÓN DE FORMACIÓN PROFESIONAL
 
-boc-a-2025-250-4323
-Boletín Oficial de Canarias núm. 250 Jueves 18 de diciembre de 202553173
-https://sede.gobiernodecanarias.org/boc
 FAMILIA PROFESIONAL: INSTALACIÓN Y MANTENIMIENTO GRADO: MEDIO
 CICLO FORMATIVO: INSTALACIONES FRIGORÍFICAS Y DE CLIMATIZACIÓN E INSTALACIONES DE  
 PRODUCCIÓN DE CALOR
@@ -705,9 +657,6 @@ DURACIÓN TOTAL DEL TERCER CURSO 872 26
 DURACIÓN TOTAL DEL CICLO FORMATIVO 2776 30 27 26
 * Módulos profesionales idénticos a otros títulos de Formación Profesional
 
-boc-a-2025-250-4323
-Boletín Oficial de Canarias núm. 250 Jueves 18 de diciembre de 202553174
-https://sede.gobiernodecanarias.org/boc
 FAMILIA PROFESIONAL: MADERA, MUEBLE Y CORCHO GRADO: MEDIO
 CICLO FORMATIVO: CARPINTERÍA Y MUEBLE E INSTALACIÓN Y AMUEBLAMIENTO 
 Curso
@@ -747,9 +696,6 @@ DURACIÓN TOTAL DEL TERCER CURSO 872 26
 DURACIÓN TOTAL DEL CICLO FORMATIVO 2776 30 27 26
 * Módulos profesionales idénticos a otros títulos de Formación Profesional
 
-boc-a-2025-250-4323
-Boletín Oficial de Canarias núm. 250 Jueves 18 de diciembre de 202553175
-https://sede.gobiernodecanarias.org/boc
 FAMILIA PROFESIONAL:  MADERA,  MUEBLE  Y CORCHO  Y TRANSPORTE  Y 
 MANTENIMIENTO DE VEHÍCULOS GRADO: MEDIO
 CICLO FORMATIVO: CARPINTERÍA Y MUEBLE Y  MANTENIMIENTO DE ESTRUCTURAS DE MADERA  
@@ -800,9 +746,6 @@ DURACIÓN TOTAL DEL TERCER CURSO 872 26
 DURACIÓN TOTAL DEL CICLO FORMATIVO 2776 30 27 26
 * Módulos profesionales idénticos a otros títulos de Formación Profesional
 
-boc-a-2025-250-4323
-Boletín Oficial de Canarias núm. 250 Jueves 18 de diciembre de 202553176
-https://sede.gobiernodecanarias.org/boc
 FAMILIA PROFESIONAL: TEXTIL, CONFECCIÓN Y PIEL GRADO: MEDIO
 CICLO FORMATIVO: CONFECCIÓN Y MODA Y CALZADO Y COMPLEMENTOS DE MODA 
 Curso
@@ -844,9 +787,6 @@ DURACIÓN TOTAL DEL TERCER CURSO 872 26
 DURACIÓN TOTAL DEL CICLO FORMATIVO 2872 30 30 26
 * Módulos profesionales idénticos a otros títulos de Formación Profesional
 
-boc-a-2025-250-4323
-Boletín Oficial de Canarias núm. 250 Jueves 18 de diciembre de 202553177
-https://sede.gobiernodecanarias.org/boc
 FAMILIA PROFESIONAL: TRANSPORTE Y MANTENIMIENTO DE VEHÍCULOS GRADO: MEDIO
 CICLO FORMATIVO: ELECTROMECÁNICA DE VEHÍCULOS AUTOMÓVILES Y ELECTROMECÁNICA DE 
 MAQUINARIA
@@ -887,9 +827,6 @@ DURACIÓN TOTAL DEL TERCER CURSO 1000 30
 DURACIÓN TOTAL DEL CICLO FORMATIVO 3046 30 31 30
 * Módulos profesionales idénticos a otros títulos de Formación Profesional
 
-boc-a-2025-250-4323
-Boletín Oficial de Canarias núm. 250 Jueves 18 de diciembre de 202553178
-https://sede.gobiernodecanarias.org/boc
 ANEXO III
 RELACIÓN DE CICLOS FORMATIVOS DE GRADO SUPERIOR DE
 DOBLE TITULACIÓN DE FORMACIÓN PROFESIONAL
@@ -938,9 +875,6 @@ ANEXO III
 RELACIÓN DE CICLOS FORMATIVOS DE GRADO SUPERIOR  
 DE DOBLE TITULACIÓN DE FORMACIÓN PROFESIONAL
 
-boc-a-2025-250-4323
-Boletín Oficial de Canarias núm. 250 Jueves 18 de diciembre de 202553179
-https://sede.gobiernodecanarias.org/boc
 FAMILIA PROFESIONAL: ARTES GRÁFICAS GRADO: SUPERIOR
 CICLO FORMATIVO: DISEÑO Y GESTIÓN DE LA PRODUCCIÓN GRÁFICA Y DISEÑO Y EDICIÓN DE PU-
 BLICACIONES IMPRESAS Y MULTIMEDIA 
@@ -984,9 +918,6 @@ DURACIÓN TOTAL DEL TERCER CURSO 872 26
 DURACIÓN TOTAL DEL CICLO FORMATIVO 2776 30 27 26
 * Módulos profesionales idénticos a otros títulos de Formación Profesional
 
-boc-a-2025-250-4323
-Boletín Oficial de Canarias núm. 250 Jueves 18 de diciembre de 202553180
-https://sede.gobiernodecanarias.org/boc
 FAMILIA PROFESIONAL: COMERCIO Y MARKETING GRADO: SUPERIOR
 CICLO FORMATIVO: GESTIÓN DE VENTAS Y ESPACIOS COMERCIALES Y  MARKETING Y PUBLICI -
 DAD
@@ -1030,9 +961,6 @@ DURACIÓN TOTAL DEL TERCER CURSO 872 26
 DURACIÓN TOTAL DEL CICLO FORMATIVO 2776 30 27 26
 * Módulos profesionales idénticos a otros títulos de Formación Profesional
 
-boc-a-2025-250-4323
-Boletín Oficial de Canarias núm. 250 Jueves 18 de diciembre de 202553181
-https://sede.gobiernodecanarias.org/boc
 FAMILIA PROFESIONAL: COMERCIO Y MARKETING GRADO: SUPERIOR
 CICLO FORMATIVO: TRANSPORTE Y LOGÍSTICA Y COMERCIO INTERNACIONAL
 Curso
@@ -1075,9 +1003,6 @@ DURACIÓN TOTAL DEL TERCER CURSO 872 26
 DURACIÓN TOTAL DEL CICLO FORMATIVO 2776 30 27 26
 * Módulos profesionales idénticos a otros títulos de Formación Profesional
 
-boc-a-2025-250-4323
-Boletín Oficial de Canarias núm. 250 Jueves 18 de diciembre de 202553182
-https://sede.gobiernodecanarias.org/boc
 FAMILIA PROFESIONAL: EDIFICACIÓN Y OBRA CIVIL GRADO: SUPERIOR
 CICLO FORMATIVO: PROYECTOS DE EDIFICACIÓN Y PROYECTOS DE OBRA CIVIL
 Curso
@@ -1119,9 +1044,6 @@ DURACIÓN TOTAL DEL TERCER CURSO 878 26
 DURACIÓN TOTAL DEL CICLO FORMATIVO 2782 30 27 26
 * Módulos profesionales idénticos a otros títulos de Formación Profesional
 
-boc-a-2025-250-4323
-Boletín Oficial de Canarias núm. 250 Jueves 18 de diciembre de 202553183
-https://sede.gobiernodecanarias.org/boc
 FAMILIA PROFESIONAL: HOSTELERÍA Y TURISMO GRADO: SUPERIOR
 CICLO FORMATIVO: DIRECCIÓN DE COCINA Y DIRECCIÓN DE SERVICIOS DE RESTAURACIÓN
 Curso
@@ -1164,9 +1086,6 @@ DURACIÓN TOTAL DEL TERCER CURSO 1039 31
 DURACIÓN TOTAL DEL CICLO FORMATIVO 3113 31 31 31
 * Módulos profesionales idénticos a otros títulos de Formación Profesional
 
-boc-a-2025-250-4323
-Boletín Oficial de Canarias núm. 250 Jueves 18 de diciembre de 202553184
-https://sede.gobiernodecanarias.org/boc
 FAMILIA PROFESIONAL: HOSTELERÍA Y TURISMO GRADO: SUPERIOR
 CICLO FORMATIVO: GUÍA, INFORMACIÓN Y ASISTENCIAS TURÍSTICAS  Y AGENCIAS DE VIAJES Y  
 GESTIÓN DE EVENTOS
@@ -1209,9 +1128,6 @@ DURACIÓN TOTAL DEL TERCER CURSO 776 23
 DURACIÓN TOTAL DEL CICLO FORMATIVO 2680 30 27 23
 * Módulos profesionales idénticos a otros títulos de Formación Profesional
 
-boc-a-2025-250-4323
-Boletín Oficial de Canarias núm. 250 Jueves 18 de diciembre de 202553185
-https://sede.gobiernodecanarias.org/boc
 FAMILIA PROFESIONAL: INFORMÁTICA Y COMUNICACIONES GRADO: SUPERIOR
 CICLO  FORMATIVO:  DESARROLLO  DE  APLICACIONES  WEB Y DESARROLLO  DE  APLICACIONES 
 MULTIPLATAFORMA
@@ -1255,9 +1171,6 @@ DURACIÓN TOTAL DEL TERCER CURSO 872 26
 DURACIÓN TOTAL DEL CICLO FORMATIVO 2776 30 27 26
 * Módulos profesionales idénticos a otros títulos de Formación Profesional
 
-boc-a-2025-250-4323
-Boletín Oficial de Canarias núm. 250 Jueves 18 de diciembre de 202553186
-https://sede.gobiernodecanarias.org/boc
 FAMILIA PROFESIONAL: SANIDAD GRADO: SUPERIOR
 CICLO FORMATIVO: IMAGEN PARA EL DIAGNÓSTICO Y MEDICINA NUCLEAR Y  RADIOTERAPIA Y 
 DOSIMETRÍA
@@ -1300,9 +1213,6 @@ DURACIÓN TOTAL DEL TERCER CURSO 904 27
 DURACIÓN TOTAL DEL CICLO FORMATIVO 2808 30 27 27
 * Módulos profesionales idénticos a otros títulos de Formación Profesional
 
-boc-a-2025-250-4323
-Boletín Oficial de Canarias núm. 250 Jueves 18 de diciembre de 202553187
-https://sede.gobiernodecanarias.org/boc
 FAMILIA PROFESIONAL: SANIDAD GRADO: SUPERIOR
 CICLO FORMATIVO: LABORATORIO CLÍNICO Y BIOMÉDICO Y ANATOMÍA PATOLÓGICA Y CITODIAG-
 NÓSTICO

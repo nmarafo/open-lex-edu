@@ -46,7 +46,6 @@ En el proceso de elaboración de esta orden han sido consultadas las Comunidades
 
 En virtud de lo expuesto, y con la aprobación previa de la Vicepresidenta Primera del Gobierno y Ministra de la Presidencia, dispongo:
 
-
 #### Artículo 1. Objeto.
 
 1. La presente orden tiene por objeto establecer el procedimiento de reconocimiento, previsto en la disposición transitoria quinta del Real Decreto 1363/2007, de 24 de octubre, de las formaciones de entrenadores deportivos en las modalidades de fútbol y fútbol sala llevadas a cabo, con carácter meramente federativo en las condiciones que aquí se establecen, entre el 15 de julio de 1999 y el 9 de noviembre de 2007, fechas en las que entraron en vigor, respectivamente, la Orden de 5 de julio de 1999 y el referido Real Decreto 1363/2007, de 24 de octubre.
@@ -59,16 +58,13 @@ a) Se hayan llevado a cabo formaciones federativas durante el periodo precisado 
 
 b) Estén implantadas las enseñanzas deportivas en la modalidad de fútbol y fútbol sala.
 
-
 #### Artículo 2. Organismos competentes.
 
 Corresponderá a las Administraciones educativas de las Comunidades Autónomas y las Ciudades de Ceuta y Melilla, previo acuerdo con las respectivas Administraciones deportivas de las mismas, precisar el periodo al que se refiere el artículo 1.2.
 
-
 #### Artículo 3. Plazo para la aplicación del procedimiento.
 
 La aplicación del procedimiento se realizará dentro de un plazo de cinco años que se iniciará el día de la entrada en vigor de la presente orden.
-
 
 #### Artículo 4. Efectos del procedimiento.
 
@@ -80,7 +76,6 @@ b) Homologación del diploma de Entrenador Regional de Fútbol o Entrenador Regi
 
 c) Obtención del correspondiente Certificado académico oficial de fútbol o fútbol sala, previsto en el artículo 22.5 del Real Decreto 1363/2007, de 24 de octubre, por acreditar el diploma federativo de Instructor de Juveniles o Instructor de Fútbol Sala.
 
-
 #### Artículo 5. Procedimiento.
 
 El procedimiento de reconocimiento se regirá por las previsiones establecidas en la presente orden y, en los aspectos no regulados en esta, por lo dispuesto en la Ley 30/1992, de 26 de noviembre, de Régimen Jurídico de las Administraciones Públicas y del Procedimiento Administrativo Común, y constará de dos fases:
@@ -88,7 +83,6 @@ El procedimiento de reconocimiento se regirá por las previsiones establecidas e
 a) Una primera fase que determinará las formaciones que cumplan con los requisitos que se establecen en el artículo 6 de esta orden.
 
 b) La segunda, la obtención individual del efecto que proceda, en función de lo que se determina en el artículo 7 de esta orden.
-
 
 #### Artículo 6. Determinación de las formaciones con las que se puede optar al reconocimiento.
 
@@ -102,11 +96,9 @@ c) Estar acreditadas con las actas y plan de estudios, con expresión de la carg
 
 2. Corresponderá al Consejo Superior de Deportes, mediante Resolución, determinar el reconocimiento de las formaciones en materia deportiva a que se refiere el apartado anterior.
 
-
 #### Artículo 7. Obtención individual del reconocimiento.
 
 Quienes acrediten haber superado la formación a la que se refiere el artículo 6 y se encuentren relacionados en las correspondientes actas, podrán solicitar el efecto de reconocimiento previsto en el artículo 4 mediante el modelo establecido en el anexo I.
-
 
 #### Artículo 8. Requisitos.
 
@@ -134,7 +126,6 @@ b) Acreditar el título de Graduado en Educación Secundaria Obligatoria estable
 
 c) Estar matriculado en un centro autorizado previsto en el artículo 45 del Real Decreto 1363/2007, de 24 de octubre, a fin de completar las enseñanzas de fútbol o fútbol sala.
 
-
 #### Artículo 9. Prueba de conjunto.
 
 1. La prueba de conjunto del grado medio tiene por objeto demostrar los conocimientos y habilidades suficientes adquiridas en la formación reconocida. Los contenidos de la misma versarán sobre las enseñanzas mínimas que para el título de Técnico Deportivo en Fútbol o Fútbol Sala se recogen en el Real Decreto 320/2000, de 3 de marzo, y constará de una parte común y una específica.
@@ -147,7 +138,6 @@ c) Estar matriculado en un centro autorizado previsto en el artículo 45 del Rea
 
 5. El tribunal como órgano colegiado, se regirá por lo establecido en el título II, capítulo II de la Ley 30/1992, de 26 de noviembre, de Régimen Jurídico de las Administraciones Públicas y del Procedimiento Administrativo Común.
 
-
 #### Artículo 10. Matrícula y convocatorias.
 
 Las Administraciones competentes al ordenar el procedimiento previsto en la presente orden tendrán en cuenta que cada interesado:
@@ -155,7 +145,6 @@ Las Administraciones competentes al ordenar el procedimiento previsto en la pres
 a) Podrá formular solicitud para el reconocimiento de los diplomas federativos que posea para cada especialidad deportiva: Instructor de Juveniles o Instructor de Fútbol Sala, Entrenador Regional de Fútbol o Fútbol Sala o Entrenador Nacional de Fútbol o Fútbol Sala.
 
 b) Podrá efectuar una sola matrícula para superar la prueba de conjunto, que le dará derecho a presentarse a un máximo de 3 convocatorias.
-
 
 #### Artículo 11. Resolución de los procedimientos.
 
@@ -165,15 +154,11 @@ b) Podrá efectuar una sola matrícula para superar la prueba de conjunto, que l
 
 3. La resolución y el certificado a que se refieren los apartados anteriores serán expedidos en castellano. Las Comunidades Autónomas con lengua cooficial distinta del castellano podrán expedirlos en castellano o en texto bilingüe. En este caso se expedirán en un solo documento redactado en castellano y en la otra lengua oficial de la comunidad autónoma, en tipos de letra de igual rango.
 
-
 #### Disposición final primera. Título competencial.
 
 La presente orden se dicta en base a las competencias que se atribuyen al Estado en el artículo 149.1.30.ª de la Constitución para la regulación de las condiciones de obtención, expedición y homologación de títulos académicos y profesionales.
 
-
 #### Disposición final segunda. Entrada en vigor.
-
-La presente orden entrará en vigor el día siguiente al de su publicación en el «Boletín Oficial del Estado».
 
 Madrid, 8 de febrero de 2011.–El Ministro de Educación, Ángel Gabilondo Pujol.
 

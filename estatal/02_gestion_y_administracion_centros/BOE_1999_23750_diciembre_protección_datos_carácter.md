@@ -30,11 +30,10 @@ fundamentos_derecho:
   articulos:
   - '120'
 ---
+
 # Ley Orgánica 15/1999, de 13 de diciembre, de Protección de Datos de Carácter Personal.
 
-
 **JUAN CARLOS I**
-
 
 **REY DE ESPAÑA**
 
@@ -42,17 +41,13 @@ A todos los que la presente vieren y entendieren.
 
 Sabed: Que las Cortes Generales han aprobado y Yo vengo en sancionar la siguiente Ley Orgánica.
 
-
 ## TÍTULO I
 
-
 **Disposiciones generales**
-
 
 #### Artículo 1. Objeto.
 
 La presente Ley Orgánica tiene por objeto garantizar y proteger, en lo que concierne al tratamiento de los datos personales, las libertades públicas y los derechos fundamentales de las personas físicas, y especialmente de su honor e intimidad personal y familiar.
-
 
 #### Artículo 2. Ámbito de aplicación.
 
@@ -86,7 +81,6 @@ d) Los derivados del Registro Civil y del Registro Central de penados y rebeldes
 
 e) Los procedentes de imágenes y sonidos obtenidos mediante la utilización de videocámaras por las Fuerzas y Cuerpos de Seguridad, de conformidad con la legislación sobre la materia.
 
-
 #### Artículo 3. Definiciones.
 
 A los efectos de la presente Ley Orgánica se entenderá por:
@@ -113,12 +107,9 @@ j) Fuentes accesibles al público: aquellos ficheros cuya consulta puede ser rea
 
 Tienen la consideración de fuentes de acceso público, exclusivamente, el censo promocional, los repertorios telefónicos en los términos previstos por su normativa específica y las listas de personas pertenecientes a grupos de profesionales que contengan únicamente los datos de nombre, título, profesión, actividad, grado académico, dirección e indicación de su pertenencia al grupo. Asimismo, tienen el carácter de fuentes de acceso público los diarios y boletines oficiales y los medios de comunicación.
 
-
 ## TÍTULO II
 
-
 **Principios de la protección de datos**
-
 
 #### Artículo 4. Calidad de los datos.
 
@@ -139,7 +130,6 @@ Reglamentariamente se determinará el procedimiento por el que, por excepción, 
 6. Los datos de carácter personal serán almacenados de forma que permitan el ejercicio del derecho de acceso, salvo que sean legalmente cancelados.
 
 7. Se prohíbe la recogida de datos por medios fraudulentos, desleales o ilícitos.
-
 
 #### Artículo 5. Derecho de información en la recogida de datos.
 
@@ -167,7 +157,6 @@ Cuando el responsable del tratamiento no esté establecido en el territorio de l
 
 Asimismo, tampoco regirá lo dispuesto en el apartado anterior cuando los datos procedan de fuentes accesibles al público y se destinen a la actividad de publicidad o prospección comercial, en cuyo caso, en cada comunicación que se dirija al interesado se le informará del origen de los datos y de la identidad del responsable del tratamiento así como de los derechos que le asisten.
 
-
 #### Artículo 6. Consentimiento del afectado.
 
 1. El tratamiento de los datos de carácter personal requerirá el consentimiento inequívoco del afectado, salvo que la ley disponga otra cosa.
@@ -177,7 +166,6 @@ Asimismo, tampoco regirá lo dispuesto en el apartado anterior cuando los datos 
 3. El consentimiento a que se refiere el artículo podrá ser revocado cuando exista causa justificada para ello y no se le atribuyan efectos retroactivos.
 
 4. En los casos en los que no sea necesario el consentimiento del afectado para el tratamiento de los datos de carácter personal, y siempre que una ley no disponga lo contrario, éste podrá oponerse a su tratamiento cuando existan motivos fundados y legítimos relativos a una concreta situación personal. En tal supuesto, el responsable del fichero excluirá del tratamiento los datos relativos al afectado.
-
 
 #### Artículo 7. Datos especialmente protegidos.
 
@@ -197,11 +185,9 @@ Cuando en relación con estos datos se proceda a recabar el consentimiento a que
 
 También podrán ser objeto de tratamiento los datos a que se refiere el párrafo anterior cuando el tratamiento sea necesario para salvaguardar el interés vital del afectado o de otra persona, en el supuesto de que el afectado esté física o jurídicamente incapacitado para dar su consentimiento.
 
-
 #### Artículo 8. Datos relativos a la salud.
 
 Sin perjuicio de lo que se dispone en el artículo 11 respecto de la cesión, las instituciones y los centros sanitarios públicos y privados y los profesionales correspondientes podrán proceder al tratamiento de los datos de carácter personal relativos a la salud de las personas que a ellos acudan o hayan de ser tratados en los mismos, de acuerdo con lo dispuesto en la legislación estatal o autonómica sobre sanidad.
-
 
 #### Artículo 9. Seguridad de los datos.
 
@@ -211,11 +197,9 @@ Sin perjuicio de lo que se dispone en el artículo 11 respecto de la cesión, la
 
 3. Reglamentariamente se establecerán los requisitos y condiciones que deban reunir los ficheros y las personas que intervengan en el tratamiento de los datos a que se refiere el artículo 7 de esta Ley.
 
-
 #### Artículo 10. Deber de secreto.
 
 El responsable del fichero y quienes intervengan en cualquier fase del tratamiento de los datos de carácter personal están obligados al secreto profesional respecto de los mismos y al deber de guardarlos, obligaciones que subsistirán aun después de finalizar sus relaciones con el titular del fichero o, en su caso, con el responsable del mismo.
-
 
 #### Artículo 11. Comunicación de datos.
 
@@ -245,7 +229,6 @@ f) Cuando la cesión de datos de carácter personal relativos a la salud sea nec
 
 6. Si la comunicación se efectúa previo procedimiento de disociación, no será aplicable lo establecido en los apartados anteriores.
 
-
 #### Artículo 12. Acceso a los datos por cuenta de terceros.
 
 1. No se considerará comunicación de datos el acceso de un tercero a los datos cuando dicho acceso sea necesario para la prestación de un servicio al responsable del tratamiento.
@@ -258,12 +241,9 @@ En el contrato se estipularán, asimismo, las medidas de seguridad a que se refi
 
 4. En el caso de que el encargado del tratamiento destine los datos a otra finalidad, los comunique o los utilice incumpliendo las estipulaciones del contrato, será considerado también responsable del tratamiento, respondiendo de las infracciones en que hubiera incurrido personalmente.
 
-
 ## TÍTULO III
 
-
 **Derechos de las personas**
-
 
 #### Artículo 13. Impugnación de valoraciones.
 
@@ -275,11 +255,9 @@ En el contrato se estipularán, asimismo, las medidas de seguridad a que se refi
 
 4. La valoración sobre el comportamiento de los ciudadanos, basada en un tratamiento de datos, únicamente podrá tener valor probatorio a petición del afectado.
 
-
 #### Artículo 14. Derecho de consulta al Registro General de Protección de Datos.
 
 Cualquier persona podrá conocer, recabando a tal fin la información oportuna del Registro General de Protección de Datos, la existencia de tratamientos de datos de carácter personal, sus finalidades y la identidad del responsable del tratamiento. El Registro General será de consulta pública y gratuita.
-
 
 #### Artículo 15. Derecho de acceso.
 
@@ -288,7 +266,6 @@ Cualquier persona podrá conocer, recabando a tal fin la información oportuna d
 2. La información podrá obtenerse mediante la mera consulta de los datos por medio de su visualización, o la indicación de los datos que son objeto de tratamiento mediante escrito, copia, telecopia o fotocopia, certificada o no, en forma legible e inteligible, sin utilizar claves o códigos que requieran el uso de dispositivos mecánicos específicos.
 
 3. El derecho de acceso a que se refiere este artículo sólo podrá ser ejercitado a intervalos no inferiores a doce meses, salvo que el interesado acredite un interés legítimo al efecto, en cuyo caso podrán ejercitarlo antes.
-
 
 #### Artículo 16. Derecho de rectificación y cancelación.
 
@@ -304,13 +281,11 @@ Cumplido el citado plazo deberá procederse a la supresión.
 
 5. Los datos de carácter personal deberán ser conservados durante los plazos previstos en las disposiciones aplicables o, en su caso, en las relaciones contractuales entre la persona o entidad responsable del tratamiento y el interesado.
 
-
 #### Artículo 17. Procedimiento de oposición, acceso, rectificación o cancelación.
 
 1. Los procedimientos para ejercitar el derecho de oposición, acceso, así como los de rectificación y cancelación serán establecidos reglamentariamente.
 
 2. No se exigirá contraprestación alguna por el ejercicio de los derechos de oposición, acceso, rectificación o cancelación.
-
 
 #### Artículo 18. Tutela de los derechos.
 
@@ -322,7 +297,6 @@ Cumplido el citado plazo deberá procederse a la supresión.
 
 4. Contra las resoluciones de la Agencia de Protección de Datos procederá recurso contencioso-administrativo.
 
-
 #### Artículo 19. Derecho a indemnización.
 
 1. Los interesados que, como consecuencia del incumplimiento de lo dispuesto en la presente Ley por el responsable o el encargado del tratamiento, sufran daño o lesión en sus bienes o derechos tendrán derecho a ser indemnizados.
@@ -331,9 +305,7 @@ Cumplido el citado plazo deberá procederse a la supresión.
 
 3. En el caso de los ficheros de titularidad privada, la acción se ejercitará ante los órganos de la jurisdicción ordinaria.
 
-
 ## TÍTULO IV
-
 
 **Disposiciones sectoriales**
 
@@ -341,10 +313,7 @@ CAPÍTULO I
 
 Ficheros de titularidad pública
 
-
 #### Artículo 20. Creación, modificación o supresión.
-
-1. La creación, modificación o supresión de los ficheros de las Administraciones públicas sólo podrán hacerse por medio de disposición general publicada en el "Boletín Oficial del Estado" o Diario oficial correspondiente.
 
 2. Las disposiciones de creación o de modificación de ficheros deberán indicar:
 
@@ -366,7 +335,6 @@ h) Las medidas de seguridad con indicación del nivel básico, medio o alto exig
 
 3. En las disposiciones que se dicten para la supresión de los ficheros, se establecerá el destino de los mismos o, en su caso, las previsiones que se adopten para su destrucción.
 
-
 #### Artículo 21. Comunicación de datos entre Administraciones públicas.
 
 1. Los datos de carácter personal recogidos o elaborados por las Administraciones públicas para el desempeño de sus atribuciones no serán comunicados a otras Administraciones públicas para el ejercicio de competencias diferentes o de competencias que versen sobre materias distintas, salvo cuando la comunicación hubiere sido prevista por las disposiciones de creación del fichero o por disposición de superior rango que regule su uso, o cuando la comunicación tenga por objeto el tratamiento posterior de los datos con fines históricos, estadísticos o científicos.
@@ -376,7 +344,6 @@ h) Las medidas de seguridad con indicación del nivel básico, medio o alto exig
 3. No obstante lo establecido en el artículo 11.2.b), la comunicación de datos recogidos de fuentes accesibles al público no podrá efectuarse a ficheros de titularidad privada, sino con el consentimiento del interesado o cuando una ley prevea otra cosa.
 
 4. En los supuestos previstos en los apartados 1 y 2 del presente artículo no será necesario el consentimiento del afectado a que se refiere el artículo 11 de la presente Ley.
-
 
 #### Artículo 22. Ficheros de las Fuerzas y Cuerpos de Seguridad.
 
@@ -390,7 +357,6 @@ h) Las medidas de seguridad con indicación del nivel básico, medio o alto exig
 
 A estos efectos, se considerará especialmente la edad del afectado y el carácter de los datos almacenados, la necesidad de mantener los datos hasta la conclusión de una investigación o procedimiento concreto, la resolución judicial firme, en especial la absolutoria, el indulto, la rehabilitación y la prescripción de responsabilidad.
 
-
 #### Artículo 23. Excepciones a los derechos de acceso, rectificación y cancelación.
 
 1. Los responsables de los ficheros que contengan los datos a que se refieren los apartados 2, 3 y 4 del artículo anterior podrán denegar el acceso, la rectificación o cancelación en función de los peligros que pudieran derivarse para la defensa del Estado o la seguridad pública, la protección de los derechos y libertades de terceros o las necesidades de las investigaciones que se estén realizando.
@@ -398,7 +364,6 @@ A estos efectos, se considerará especialmente la edad del afectado y el caráct
 2. Los responsables de los ficheros de la Hacienda Pública podrán, igualmente, denegar el ejercicio de los derechos a que se refiere el apartado anterior cuando el mismo obstaculice las actuaciones administrativas tendentes a asegurar el cumplimiento de las obligaciones tributarias y, en todo caso, cuando el afectado esté siendo objeto de actuaciones inspectoras.
 
 3. El afectado al que se deniegue, total o parcialmente, el ejercicio de los derechos mencionados en los apartados anteriores podrá ponerlo en conocimiento del Director de la Agencia de Protección de Datos o del organismo competente de cada Comunidad Autónoma en el caso de ficheros mantenidos por Cuerpos de Policía propios de éstas, o por las Administraciones tributarias autonómicas, quienes deberán asegurarse de la procedencia o improcedencia de la denegación.
-
 
 #### Artículo 24. Otras excepciones a los derechos de los afectados.
 
@@ -410,11 +375,9 @@ CAPÍTULO II
 
 Ficheros de titularidad privada
 
-
 #### Artículo 25. Creación.
 
 Podrán crearse ficheros de titularidad privada que contengan datos de carácter personal cuando resulte necesario para el logro de la actividad u objeto legítimos de la persona, empresa o entidad titular y se respeten las garantías que esta Ley establece para la protección de las personas.
-
 
 #### Artículo 26. Notificación e inscripción registral.
 
@@ -430,13 +393,11 @@ En caso contrario podrá pedir que se completen los datos que falten o se proced
 
 5. Transcurrido un mes desde la presentación de la solicitud de inscripción sin que la Agencia de Protección de Datos hubiera resuelto sobre la misma, se entenderá inscrito el fichero automatizado a todos los efectos.
 
-
 #### Artículo 27. Comunicación de la cesión de datos.
 
 1. El responsable del fichero, en el momento en que se efectúe la primera cesión de datos, deberá informar de ello a los afectados, indicando, asimismo, la finalidad del fichero, la naturaleza de los datos que han sido cedidos y el nombre y dirección del cesionario.
 
 2. La obligación establecida en el apartado anterior no existirá en el supuesto previsto en los apartados 2, letras c), d), e) y 6 del artículo 11, ni cuando la cesión venga impuesta por ley.
-
 
 #### Artículo 28. Datos incluidos en las fuentes de acceso público.
 
@@ -454,7 +415,6 @@ En el caso de que se obtenga telemáticamente una copia de la lista en formato e
 
 4. Los datos que figuren en las guías de servicios de telecomunicaciones disponibles al público se regirán por su normativa específica.
 
-
 #### Artículo 29. Prestación de servicios de información sobre solvencia patrimonial y crédito.
 
 1. Quienes se dediquen a la prestación de servicios de información sobre la solvencia patrimonial y el crédito sólo podrán tratar datos de carácter personal obtenidos de los registros y las fuentes accesibles al público establecidos al efecto o procedentes de informaciones facilitadas por el interesado o con su consentimiento.
@@ -465,7 +425,6 @@ En el caso de que se obtenga telemáticamente una copia de la lista en formato e
 
 4. Sólo se podrán registrar y ceder los datos de carácter personal que sean determinantes para enjuiciar la solvencia económica de los interesados y que no se refieran, cuando sean adversos, a más de seis años, siempre que respondan con veracidad a la situación actual de aquéllos.
 
-
 #### Artículo 30. Tratamientos con fines de publicidad y de prospección comercial.
 
 1. Quienes se dediquen a la recopilación de direcciones, reparto de documentos, publicidad, venta a distancia, prospección comercial y otras actividades análogas, utilizarán nombres y direcciones u otros datos de carácter personal cuando los mismos figuren en fuentes accesibles al público o cuando hayan sido facilitados por los propios interesados u obtenidos con su consentimiento.
@@ -475,7 +434,6 @@ En el caso de que se obtenga telemáticamente una copia de la lista en formato e
 3. En el ejercicio del derecho de acceso los interesados tendrán derecho a conocer el origen de sus datos de carácter personal, así como del resto de información a que se refiere el artículo 15.
 
 4. Los interesados tendrán derecho a oponerse, previa petición y sin gastos, al tratamiento de los datos que les conciernan, en cuyo caso serán dados de baja del tratamiento, cancelándose las informaciones que sobre ellos figuren en aquél, a su simple solicitud.
-
 
 #### Artículo 31. Censo promocional.
 
@@ -489,7 +447,6 @@ Trimestralmente se editará una lista actualizada del censo promocional, excluye
 
 4. Se podrá exigir una contraprestación por la facilitación de la citada lista en soporte informático.
 
-
 #### Artículo 32. Códigos tipo.
 
 1. Mediante acuerdos sectoriales, convenios administrativos o decisiones de empresa, los responsables de tratamientos de titularidad pública y privada, así como las organizaciones en que se agrupen, podrán formular códigos tipo que establezcan las condiciones de organización, régimen de funcionamiento, procedimientos aplicables, normas de seguridad del entorno, programas o equipos, obligaciones de los implicados en el tratamiento y uso de la información personal, así como las garantías, en su ámbito, para el ejercicio de los derechos de las personas con pleno respeto a los principios y disposiciones de la presente Ley y sus normas de desarrollo.
@@ -500,19 +457,15 @@ En el supuesto de que tales reglas o estándares no se incorporen directamente a
 
 3. Los códigos tipo tendrán el carácter de códigos deontológicos o de buena práctica profesional, debiendo ser depositados o inscritos en el Registro General de Protección de Datos y, cuando corresponda, en los creados a estos efectos por las Comunidades Autónomas, de acuerdo con el artículo 41. El Registro General de Protección de Datos podrá denegar la inscripción cuando considere que no se ajusta a las disposiciones legales y reglamentarias sobre la materia, debiendo, en este caso, el Director de la Agencia de Protección de Datos requerir a los solicitantes para que efectúen las correcciones oportunas.
 
-
 ## TÍTULO V
 
-
 **Movimiento internacional de datos**
-
 
 #### Artículo 33. Norma general.
 
 1. No podrán realizarse transferencias temporales ni definitivas de datos de carácter personal que hayan sido objeto de tratamiento o hayan sido recogidos para someterlos a dicho tratamiento con destino a países que no proporcionen un nivel de protección equiparable al que presta la presente Ley, salvo que, además de haberse observado lo dispuesto en ésta, se obtenga autorización previa del Director de la Agencia de Protección de Datos, que sólo podrá otorgarla si se obtienen garantías adecuadas.
 
 2. El carácter adecuado del nivel de protección que ofrece el país de destino se evaluará por la Agencia de Protección de Datos atendiendo a todas las circunstancias que concurran en la transferencia o categoría de transferencia de datos. En particular, se tomará en consideración la naturaleza de los datos, la finalidad y la duración del tratamiento o de los tratamientos previstos, el país de origen y el país de destino final, las normas de derecho, generales o sectoriales, vigentes en el país tercero de que se trate, el contenido de los informes de la Comisión de la Unión Europea, así como las normas profesionales y las medidas de seguridad en vigor en dichos países.
-
 
 #### Artículo 34. Excepciones.
 
@@ -542,12 +495,9 @@ j) Cuando la transferencia se efectúe, a petición de persona con interés leg�
 
 k) Cuando la transferencia tenga como destino un Estado miembro de la Unión Europea, o un Estado respecto del cual la Comisión de las Comunidades Europeas, en el ejercicio de sus competencias, haya declarado que garantiza un nivel de protección adecuado.
 
-
 ## TÍTULO VI
 
-
 **Agencia de Protección de Datos**
-
 
 #### Artículo 35. Naturaleza y régimen jurídico.
 
@@ -567,7 +517,6 @@ c) Cualesquiera otros que legalmente puedan serle atribuidos.
 
 5. La Agencia de Protección de Datos elaborará y aprobará con carácter anual el correspondiente anteproyecto de presupuesto y lo remitirá al Gobierno para que sea integrado, con la debida independencia, en los Presupuestos Generales del Estado.
 
-
 #### Artículo 36. El Director.
 
 1. El Director de la Agencia de Protección de Datos dirige la Agencia y ostenta su representación. Será nombrado, de entre quienes componen el Consejo Consultivo, mediante Real Decreto, por un período de cuatro años.
@@ -579,7 +528,6 @@ En todo caso, el Director deberá oír al Consejo Consultivo en aquellas propues
 3. El Director de la Agencia de Protección de Datos sólo cesará antes de la expiración del período a que se refiere el apartado 1, a petición propia o por separación acordada por el Gobierno, previa instrucción de expediente, en el que necesariamente serán oídos los restantes miembros del Consejo Consultivo, por incumplimiento grave de sus obligaciones, incapacidad sobrevenida para el ejercicio de su función, incompatibilidad o condena por delito doloso.
 
 4. El Director de la Agencia de Protección de Datos tendrá la consideración de alto cargo y quedará en la situación de servicios especiales si con anterioridad estuviera desempeñando una función pública. En el supuesto de que sea nombrado para el cargo algún miembro de la carrera judicial o fiscal, pasará asimismo a la situación administrativa de servicios especiales.
-
 
 #### Artículo 37. Funciones.
 
@@ -613,7 +561,6 @@ m) Velar por el cumplimiento de las disposiciones que la Ley de la Función Esta
 
 n) Cuantas otras le sean atribuidas por normas legales o reglamentarias.
 
-
 #### Artículo 38. Consejo Consultivo.
 
 El Director de la Agencia de Protección de Datos estará asesorado por un Consejo Consultivo compuesto por los siguientes miembros:
@@ -638,7 +585,6 @@ Un representante del sector de ficheros privados, para cuya propuesta se seguir�
 
 El funcionamiento del Consejo Consultivo se regirá por las normas reglamentarias que al efecto se establezcan.
 
-
 #### Artículo 39. El Registro General de Protección de Datos.
 
 1. El Registro General de Protección de Datos es un órgano integrado en la Agencia de Protección de Datos.
@@ -657,7 +603,6 @@ e) Los datos relativos a los ficheros que sean necesarios para el ejercicio de l
 
 3. Por vía reglamentaria se regulará el procedimiento de inscripción de los ficheros, tanto de titularidad pública como de titularidad privada, en el Registro General de Protección de Datos, el contenido de la inscripción, su modificación, cancelación, reclamaciones y recursos contra las resoluciones correspondientes y demás extremos pertinentes.
 
-
 #### Artículo 40. Potestad de inspección.
 
 1. Las autoridades de control podrán inspeccionar los ficheros a que hace referencia la presente Ley, recabando cuantas informaciones precisen para el cumplimiento de sus cometidos.
@@ -668,7 +613,6 @@ A tal efecto, podrán solicitar la exhibición o el envío de documentos y datos
 
 Estarán obligados a guardar secreto sobre las informaciones que conozcan en el ejercicio de las mencionadas funciones, incluso después de haber cesado en las mismas.
 
-
 #### Artículo 41. Órganos correspondientes de las Comunidades Autónomas.
 
 1. Las funciones de la Agencia de Protección de Datos reguladas en el artículo 37, a excepción de las mencionadas en los apartados j), k) y l), y en los apartados f) y g) en lo que se refiere a las transferencias internacionales de datos, así como en los artículos 46 y 49, en relación con sus específicas competencias serán ejercidas, cuando afecten a ficheros de datos de carácter personal creados o gestionados por las Comunidades Autónomas y por la Administración Local de su ámbito territorial, por los órganos correspondientes de cada Comunidad, que tendrán la consideración de autoridades de control, a los que garantizarán plena independencia y objetividad en el ejercicio de su cometido.
@@ -677,26 +621,21 @@ Estarán obligados a guardar secreto sobre las informaciones que conozcan en el 
 
 3. El Director de la Agencia de Protección de Datos podrá convocar regularmente a los órganos correspondientes de las Comunidades Autónomas a efectos de cooperación institucional y coordinación de criterios o procedimientos de actuación. El Director de la Agencia de Protección de Datos y los órganos correspondientes de las Comunidades Autónomas podrán solicitarse mutuamente la información necesaria para el cumplimiento de sus funciones.
 
-
 #### Artículo 42. Ficheros de las Comunidades Autónomas en materia de su exclusiva competencia.
 
 1. Cuando el Director de la Agencia de Protección de Datos constate que el mantenimiento o uso de un determinado fichero de las Comunidades Autónomas contraviene algún precepto de esta Ley en materia de su exclusiva competencia podrá requerir a la Administración correspondiente que se adopten las medidas correctoras que determine en el plazo que expresamente se fije en el requerimiento.
 
 2. Si la Administración pública correspondiente no cumpliera el requerimiento formulado, el Director de la Agencia de Protección de Datos podrá impugnar la resolución adoptada por aquella Administración.
 
-
 ## TÍTULO VII
 
-
 **Infracciones y sanciones**
-
 
 #### Artículo 43. Responsables.
 
 1. Los responsables de los ficheros y los encargados de los tratamientos estarán sujetos al régimen sancionador establecido en la presente Ley.
 
 2. Cuando se trate de ficheros de los que sean responsables las Administraciones públicas se estará, en cuanto al procedimiento y a las sanciones, a lo dispuesto en el artículo 46, apartado 2.
-
 
 #### Artículo 44. Tipos de infracciones.
 
@@ -715,8 +654,6 @@ d) Proceder a la recogida de datos de carácter personal de los propios afectado
 e) Incumplir el deber de secreto establecido en el artículo 10 de esta Ley, salvo que constituya infracción grave.
 
 3. Son infracciones graves:
-
-a) Proceder a la creación de ficheros de titularidad pública o iniciar la recogida de datos de carácter personal para los mismos, sin autorización de disposición general, publicada en el "Boletín Oficial del Estado" o Diario oficial correspondiente.
 
 b) Proceder a la creación de ficheros de titularidad privada o iniciar la recogida de datos de carácter personal para los mismos con finalidades distintas de las que constituyen el objeto legítimo de la empresa o entidad.
 
@@ -760,7 +697,6 @@ h) No atender, u obstaculizar de forma sistemática el ejercicio de los derechos
 
 i) No atender de forma sistemática el deber legal de notificación de la inclusión de datos de carácter personal en un fichero.
 
-
 #### Artículo 45. Tipo de sanciones.
 
 1. Las infracciones leves serán sancionadas con multa de 100.000 a 10.000.000 de pesetas.
@@ -777,7 +713,6 @@ i) No atender de forma sistemática el deber legal de notificación de la inclus
 
 7. El Gobierno actualizará periódicamente la cuantía de las sanciones de acuerdo con las variaciones que experimenten los índices de precios.
 
-
 #### Artículo 46. Infracciones de las Administraciones públicas.
 
 1. Cuando las infracciones a que se refiere el artículo 44 fuesen cometidas en ficheros de los que sean responsables las Administraciones públicas, el Director de la Agencia de Protección de Datos dictará una resolución estableciendo las medidas que procede adoptar para que cesen o se corrijan los efectos de la infracción.
@@ -791,7 +726,6 @@ El procedimiento y las sanciones a aplicar serán las establecidas en la legisla
 3. Se deberán comunicar a la Agencia las resoluciones que recaigan en relación con las medidas y actuaciones a que se refieren los apartados anteriores.
 
 4. El Director de la Agencia comunicará al Defensor del Pueblo las actuaciones que efectúe y las resoluciones que dicte al amparo de los apartados anteriores.
-
 
 #### Artículo 47. Prescripción.
 
@@ -807,18 +741,15 @@ El procedimiento y las sanciones a aplicar serán las establecidas en la legisla
 
 6. La prescripción se interrumpirá por la iniciación, con conocimiento del interesado, del procedimiento de ejecución, volviendo a transcurrir el plazo si el mismo está paralizado durante más de seis meses por causa no imputable al infractor.
 
-
 #### Artículo 48. Procedimiento sancionador.
 
 1. Por vía reglamentaria se establecerá el procedimiento a seguir para la determinación de las infracciones y la imposición de las sanciones a que hace referencia el presente Título.
 
 2. Las resoluciones de la Agencia de Protección de Datos u órgano correspondiente de la Comunidad Autónoma agotan la vía administrativa.
 
-
 #### Artículo 49. Potestad de inmovilización de ficheros.
 
 En los supuestos, constitutivos de infracción muy grave, de utilización o cesión ilícita de los datos de carácter personal en que se impida gravemente o se atente de igual modo contra el ejercicio de los derechos de los ciudadanos y el libre desarrollo de la personalidad que la Constitución y las leyes garantizan, el Director de la Agencia de Protección de Datos podrá, además de ejercer la potestad sancionadora, requerir a los responsables de ficheros de datos de carácter personal, tanto de titularidad pública como privada, la cesación en la utilización o cesión ilícita de los datos. Si el requerimiento fuera desatendido, la Agencia de Protección de Datos podrá, mediante resolución motivada, inmovilizar tales ficheros a los solos efectos de restaurar los derechos de las personas afectadas.
-
 
 #### Disposición adicional primera. Ficheros preexistentes.
 
@@ -828,20 +759,17 @@ En dicho plazo, los ficheros de titularidad privada deberán ser comunicados a l
 
 En el supuesto de ficheros y tratamientos no automatizados, su adecuación a la presente Ley Orgánica, y la obligación prevista en el párrafo anterior deberán cumplimentarse en el plazo de doce años a contar desde el 24 de octubre de 1995, sin perjuicio del ejercicio de los derechos de acceso, rectificación y cancelación por parte de los afectados.
 
-
 #### Disposición adicional segunda. Ficheros y Registro de Población de las Administraciones públicas.
 
 1. La Administración General del Estado y las Administraciones de las Comunidades Autónomas podrán solicitar al Instituto Nacional de Estadística, sin consentimiento del interesado, una copia actualizada del fichero formado con los datos del nombre, apellidos, domicilio, sexo y fecha de nacimiento que constan en los padrones municipales de habitantes y en el censo electoral correspondientes a los territorios donde ejerzan sus competencias, para la creación de ficheros o registros de población.
 
 2. Los ficheros o registros de población tendrán como finalidad la comunicación de los distintos órganos de cada Administración pública con los interesados residentes en los respectivos territorios, respecto a las relaciones jurídico administrativas derivadas de las competencias respectivas de las Administraciones públicas.
 
-
 #### Disposición adicional tercera. Tratamiento de los expedientes de las derogadas Leyes de Vagos y Maleantes y de Peligrosidad y Rehabilitación Social.
 
 Los expedientes específicamente instruidos al amparo de las derogadas Leyes de Vagos y Maleantes, y de Peligrosidad y Rehabilitación Social, que contengan datos de cualquier índole susceptibles de afectar a la seguridad, al honor, a la intimidad o a la imagen de las personas, no podrán ser consultados sin que medie consentimiento expreso de los afectados, o hayan transcurrido cincuenta años desde la fecha de aquéllos.
 
 En este último supuesto, la Administración General del Estado, salvo que haya constancia expresa del fallecimiento de los afectados, pondrá a disposición del solicitante la documentación, suprimiendo de la misma los datos aludidos en el párrafo anterior, mediante la utilización de los procedimientos técnicos pertinentes en cada caso.
-
 
 #### Disposición adicional cuarta. Modificación del artículo 112.4 de la Ley General Tributaria.
 
@@ -851,11 +779,9 @@ El apartado cuarto del artículo 112 de la Ley General Tributaria pasa a tener l
 
 En este ámbito tampoco será de aplicación lo que respecto a las Administraciones públicas establece el apartado 1 del artículo 21 de la Ley Orgánica de Protección de Datos de carácter personal."
 
-
 #### Disposición adicional quinta. Competencias del Defensor del Pueblo y órganos autonómicos semejantes.
 
 Lo dispuesto en la presente Ley Orgánica se entiende sin perjuicio de las competencias del Defensor del Pueblo y de los órganos análogos de las Comunidades Autónomas.
-
 
 #### Disposición adicional sexta. Modificación del artículo 24.3 de la Ley de Ordenación y Supervisión de los Seguros Privados.
 
@@ -869,11 +795,9 @@ También podrán establecerse ficheros comunes cuya finalidad sea prevenir el fr
 
 En todo caso, los datos relativos a la salud sólo podrán ser objeto de tratamiento con el consentimiento expreso del afectado."
 
-
 #### Disposición transitoria primera. Tratamientos creados por Convenios internacionales.
 
 La Agencia de Protección de Datos será el organismo competente para la protección de las personas físicas en lo que respecta al tratamiento de datos de carácter personal respecto de los tratamientos establecidos en cualquier Convenio Internacional del que sea parte España que atribuya a una autoridad nacional de control esta competencia, mientras no se cree una autoridad diferente para este cometido en desarrollo del Convenio.
-
 
 #### Disposición transitoria segunda. Utilización del censo promocional.
 
@@ -881,30 +805,23 @@ Reglamentariamente se desarrollarán los procedimientos de formación del censo 
 
 El Reglamento establecerá los plazos para la puesta en operación del censo promocional.
 
-
 #### Disposición transitoria tercera. Subsistencia de normas preexistentes.
 
 Hasta tanto se lleven a efectos las previsiones de la disposición final primera de esta Ley, continuarán en vigor, con su propio rango, las normas reglamentarias existentes y, en especial, los Reales Decretos 428/1993, de 26 de marzo; 1332/1994, de 20 de junio, y 994/1999, de 11 de junio, en cuanto no se opongan a la presente Ley.
-
 
 #### Disposición derogatoria única. Derogación normativa.
 
 Queda derogada la Ley Orgánica 5/1992, de 29 de octubre, de Regulación del tratamiento automatizado de los datos de carácter personal.
 
-
 #### Disposición final primera. Habilitación para el desarrollo reglamentario.
 
 El Gobierno aprobará, o modificará, las disposiciones reglamentarias necesarias para la aplicación y desarrollo de la presente Ley.
-
 
 #### Disposición final segunda. Preceptos con carácter de Ley ordinaria.
 
 Los Títulos IV, VI excepto el último inciso del párrafo 4 del artículo 36 y VII de la presente Ley, la disposición adicional cuarta, la disposición transitoria primera y la final primera tienen el carácter de Ley ordinaria.
 
-
 #### Disposición final tercera. Entrada en vigor.
-
-La presente Ley entrará en vigor en el plazo de un mes, contado desde su publicación en el "Boletín Oficial del Estado".
 
 Por tanto,
 

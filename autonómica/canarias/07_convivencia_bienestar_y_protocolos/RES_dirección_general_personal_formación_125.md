@@ -31,9 +31,6 @@ fuente_pdf_oficial: https://sede.gobiernodecanarias.org/boc/boc-a-2025-045-900.p
 
 # Resolución de 19 de febrero de 2025, de la Dirección General de Personal y Formación del Profesorado, por la que se establece el Protocolo de actuación ante situaciones de acoso en el entorno laboral en los centros públicos dependientes de la Consejería de Educación, Formación Profesional, Actividad Física y Deportes (BOC nº 45 de 5 de marzo).
 
-https://sede.gobiernodecanarias.org/boc
-boc-a-2025-045-900
-Boletín Oficial de Canarias núm. 45 Miércoles 5 de marzo de 202510092
 III. Otras Resoluciones
 Consejería de Educación, Formación Profesional, Actividad Física y Deportes
 900 Dirección General de Personal y Formación del Profesorado.- Resolución de 19 de 
@@ -76,9 +73,6 @@ compromiso de tolerancia cero ante cualquier situación de acoso psicológico, s
 cualquier otra forma de conducta ofensiva, discriminatoria o abusiva que pueda darse en el 
 entorno laboral de un centro educativo de esta Comunidad Autónoma.
 
-https://sede.gobiernodecanarias.org/boc
-boc-a-2025-045-900
-Boletín Oficial de Canarias núm. 45 Miércoles 5 de marzo de 202510093
 Tercero.- La obligación por parte del empresario de actuar frente al acoso psicológico 
 viene implícita en el artículo 3.1 de la Ley de Prevención de Riesgos Laborales ( LPRL 
 31/1995) al obligarle a proteger de los riesgos laborales a sus trabajadores, incluyendo los 
@@ -124,9 +118,6 @@ El contenido de este Protocolo tiene como objetivo promover un entorno igualitar
 y libre de discriminación, en coherencia con los principios de respeto y equidad en el 
 ámbito laboral y educativo. De esta manera, se ha utilizado un lenguaje inclusivo, evitando 
 
-https://sede.gobiernodecanarias.org/boc
-boc-a-2025-045-900
-Boletín Oficial de Canarias núm. 45 Miércoles 5 de marzo de 202510094
 opciones léxicas que puedan interpretarse como sesgadas, discriminatorias o degradantes; 
 no obstante, ocasionalmente se ha utilizado el género masculino como convención lingüística 
 para referirse a colectivos integrados por personas de cualquier género, por criterio de técnica 
@@ -172,9 +163,6 @@ informales (Protocolo de la Administración General del Estado, Real Decreto 247
 Protocolo del Ministerio Fiscal, Decreto de la Fiscal General del Estado de fecha 18 de 
 julio de 2019; o Protocolo del Consejo General del Poder Judicial de 17 de febrero de 
 
-https://sede.gobiernodecanarias.org/boc
-boc-a-2025-045-900
-Boletín Oficial de Canarias núm. 45 Miércoles 5 de marzo de 202510095
 2016) que permiten una mayor flexibilidad, celeridad y acercamiento a la víctima, con las 
 garantías procedimentales necesarias para que en los casos más graves se desarrollen los 
 ulteriores procedimientos disciplinarios de la manera más ágil y efectiva.
@@ -220,9 +208,6 @@ RESUELVO :
 Primero.- Establecer el Protocolo de actuación ante situaciones de acoso en el entorno 
 laboral en los centros educativos públicos dependientes de la Consejería con competencia 
 
-https://sede.gobiernodecanarias.org/boc
-boc-a-2025-045-900
-Boletín Oficial de Canarias núm. 45 Miércoles 5 de marzo de 202510096
 en materia de educación de la Comunidad Autónoma de Canarias, que figura en el anexo 
 de la presente Resolución.
 Segundo.- Aplicar este Protocolo a las denuncias que se produzcan en fecha posterior 
@@ -239,9 +224,6 @@ para general conocimiento.
 Las Palmas de Gran Canaria, a 19 de febrero de 2025.- La Directora General de Personal 
 y Formación del Profesorado, Mónica Ramírez Barbosa.
 
-https://sede.gobiernodecanarias.org/boc
-boc-a-2025-045-900
-Boletín Oficial de Canarias núm. 45 Miércoles 5 de marzo de 202510097
 ANEXO
 PROTOCOLO DE ACTUACIÓN ANTE SITUACIONES DE ACOSO EN EL ENTORNO 
 LABORAL EN LOS CENTROS PÚBLICOS DEPENDIENTES DE LA CONSEJERÍA CON 
@@ -273,9 +255,6 @@ Artículo 15.- Denuncia.
 Artículo 16.- Subsanación.
 Artículo 17.- Inicio del procedimiento.
 
-https://sede.gobiernodecanarias.org/boc
-boc-a-2025-045-900
-Boletín Oficial de Canarias núm. 45 Miércoles 5 de marzo de 202510098
 • SUBSECCIÓN 2.ª: TRAMITACIÓN DE LA COMUNICACIÓN. V ALORACIÓN INICIAL.
 Artículo 18.- Primera sesión de la CV AL.
 Artículo 19.- Periodo de información o actuaciones previas.
@@ -305,9 +284,6 @@ EN EL ENTORNO LABORAL.
 4) CONSENTIMIENTO PARA LA GRABACIÓN DE LAS ENTREVISTAS REALIZADAS 
 POR LAS PERSONAS MIEMBROS DE LA COMISIÓN DE INVESTIGACIÓN.
 
-https://sede.gobiernodecanarias.org/boc
-boc-a-2025-045-900
-Boletín Oficial de Canarias núm. 45 Miércoles 5 de marzo de 202510099
 Sección I
 Medidas de prevención frente al acoso laboral, sexual y por cualquier  
 otro tipo de discriminación
@@ -347,9 +323,6 @@ estos datos, manteniendo siempre el anonimato de las personas implicadas, así c
 elaboración de estudios de cómo afecta a la carrera, al nivel administrativo o categoría 
 laboral de las víctimas y a su promoción.
 
-https://sede.gobiernodecanarias.org/boc
-boc-a-2025-045-900
-Boletín Oficial de Canarias núm. 45 Miércoles 5 de marzo de 202510100
 - Realización de un estudio de riesgos psicosociales, que permita conocer sobre una base 
 científica cuáles son aquellos colectivos o grupos de personas trabajadoras más susceptibles 
 de sufrir este tipo de acoso en cada centro de trabajo, informando de las conclusiones tanto 
@@ -388,9 +361,6 @@ o trabajadores/as autónomas, se aplicarán los mecanismos de coordinación empr
 poder abordar la situación detectada de forma coordinada y satisfactoria para todas las 
 personas implicadas.
 
-https://sede.gobiernodecanarias.org/boc
-boc-a-2025-045-900
-Boletín Oficial de Canarias núm. 45 Miércoles 5 de marzo de 202510101
 Artículo 4.- Competencia orgánica.
 A los efectos del presente Protocolo se entiende por:
 a) Órgano receptor: la Dirección General de Personal y Formación del Profesorado ha 
@@ -430,9 +400,6 @@ dimanante de los expedientes y con posterioridad incluso a la extinción del ví
 con la Administración, no pudiendo en ningún caso revelar el contenido de las actuaciones 
 e informaciones recibidas, salvo que concurra deber público inexcusable.
 
-https://sede.gobiernodecanarias.org/boc
-boc-a-2025-045-900
-Boletín Oficial de Canarias núm. 45 Miércoles 5 de marzo de 202510102
 2. Ninguna autoridad, personal al servicio de la Administración, miembro de la CV AL u 
 órgano que haya intervenido en la instrucción de cualquier expediente en base al presente 
 Protocolo podrá guardar ni mantener documentación relativa al expediente de investigación, 
@@ -473,9 +440,6 @@ evitando que la persona denunciante tenga que relatar los hechos en varias ocasi
 personas que efectúen una denuncia o participen de otro modo en un procedimiento sobre 
 posible acoso en el entorno laboral en los términos previstos en la normativa aplicable.
 
-https://sede.gobiernodecanarias.org/boc
-boc-a-2025-045-900
-Boletín Oficial de Canarias núm. 45 Miércoles 5 de marzo de 202510103
 9.ª) Garantía de defensa: la persona denunciante y la persona denunciada tendrán 
 acceso, en los términos previstos por la normativa, a cuanta documentación le permita una 
 adecuada defensa.
@@ -518,9 +482,6 @@ CV AL tendrán carácter permanente, provincial y vigencia por curso escolar.
 contenidas en la Sección 3 del Capítulo II de la Ley 40/2015, de 1 de octubre, de Régimen 
 Jurídico del Sector Público.
 
-https://sede.gobiernodecanarias.org/boc
-boc-a-2025-045-900
-Boletín Oficial de Canarias núm. 45 Miércoles 5 de marzo de 202510104
 Artículo 10.- Composición.
 1. Las CV AL podrán tener carácter ordinario o extraordinario según su composición:
 a) Composición ordinaria de la CV AL:
@@ -562,9 +523,6 @@ CV AL, junto con la resolución de su nombramiento, recibirán:
 a) El Compromiso de confidencialidad (Anexo III), que deberán firmar.
 b) Una formación certificada sobre acoso en el entorno laboral.
 
-https://sede.gobiernodecanarias.org/boc
-boc-a-2025-045-900
-Boletín Oficial de Canarias núm. 45 Miércoles 5 de marzo de 202510105
 Artículo 11.- Constitución de la CV AL.
 1. En el plazo máximo de un mes desde la entrada en vigor del presente Protocolo, se 
 realizará el nombramiento de los miembros de la CV AL.
@@ -609,9 +567,6 @@ otra
 CV AL, siempre que sus miembros continúen vinculados a la Consejería con competencia 
 en materia de educación.
 
-https://sede.gobiernodecanarias.org/boc
-boc-a-2025-045-900
-Boletín Oficial de Canarias núm. 45 Miércoles 5 de marzo de 202510106
 Artículo 13.- Funciones.
 1. La CV AL ejercerá funciones de valoración, investigación y propuesta de resolución 
 de las solicitudes de actuación por presunto acoso en el entorno laboral.
@@ -645,9 +600,6 @@ a) El análisis de los datos estadísticos, que incluirá: el número de solicit
 docente/personal de administración y servicios, provincia, número de admisiones, inadmisiones 
 y desistimientos de la solicitud y tipo de acoso denunciado.
 
-https://sede.gobiernodecanarias.org/boc
-boc-a-2025-045-900
-Boletín Oficial de Canarias núm. 45 Miércoles 5 de marzo de 202510107
 b) La recogida de las principales incidencias ocurridas a lo largo del curso en aplicación 
 del presente Protocolo.
 c) Las propuestas de mejora que se sugieran, en su caso.
@@ -681,9 +633,6 @@ de administración y servicios en la provincia de Santa Cruz de Tenerife).
 Con el fin de garantizar la confidencialidad en la aplicación del Protocolo, se deberá 
 establecer un buzón de correo electrónico, cuyo uso es exclusivo para la presentación 
 
-https://sede.gobiernodecanarias.org/boc
-boc-a-2025-045-900
-Boletín Oficial de Canarias núm. 45 Miércoles 5 de marzo de 202510108
 de las comunicaciones y denuncias del Protocolo y al que solo tendrá acceso el personal 
 designado por el órgano gestor.
 En el caso de que se presente de forma física, se hará en soporte papel y en un sobre 
@@ -721,9 +670,6 @@ exigidos, la unidad administrativa correspondiente dará traslado de la document
 quien ejerza la secretaría de la 
 CV AL, según la provincia de que se trate.
 
-https://sede.gobiernodecanarias.org/boc
-boc-a-2025-045-900
-Boletín Oficial de Canarias núm. 45 Miércoles 5 de marzo de 202510109
 Subsección 2.ª 
 Tramitación de la comunicación de la denuncia. Desarrollo del procedimiento  
 de valoración inicial
@@ -769,9 +715,6 @@ de hecho o de derecho que sean objeto del presente Protocolo. Dichos informes de
 entregados a la 
 CV AL en un plazo máximo de diez días desde la solicitud.
 
-https://sede.gobiernodecanarias.org/boc
-boc-a-2025-045-900
-Boletín Oficial de Canarias núm. 45 Miércoles 5 de marzo de 202510110
 3. En caso de no solicitarse informe por considerarse suficiente la documentación 
 disponible, la CV AL dispondrá de un plazo máximo de cinco días desde la fecha de la 
 primera sesión para determinar la admisión a trámite o no de la denuncia.
@@ -808,9 +751,6 @@ Previa solicitud, se trasladará la información esencial de la denuncia a la pe
 denunciada teniendo en cuenta que debe conciliarse el principio de protección de la víctima 
 con el de contradicción y defensa de la denunciada.
 
-https://sede.gobiernodecanarias.org/boc
-boc-a-2025-045-900
-Boletín Oficial de Canarias núm. 45 Miércoles 5 de marzo de 202510111
 7. Contra las Resoluciones previstas en este artículo cabrá interponer los recursos 
 administrativos que proceden contra los actos dictados por el centro directivo 
 correspondiente.
@@ -850,9 +790,6 @@ CV AL podrán ser grabadas.
 5. Con carácter general, con el objetivo de disponer de todas las pruebas posibles para 
 constatar los hechos denunciados que puedan suponer un indicio de acoso en el entorno 
 
-https://sede.gobiernodecanarias.org/boc
-boc-a-2025-045-900
-Boletín Oficial de Canarias núm. 45 Miércoles 5 de marzo de 202510112
 laboral, así como con el fin de recabar información adicional y de contrastar la aportada por 
 la persona denunciante y, en su caso, la persona denunciada, la CV AL podrá:
 - Solicitar a la dirección del centro educativo y/o a la unidad administrativa de recursos 
@@ -894,9 +831,6 @@ víctima no tenga contacto directo con la persona denunciada.
 CV AL deberán acordarse con carácter previo a cada 
 entrevista.
 
-https://sede.gobiernodecanarias.org/boc
-boc-a-2025-045-900
-Boletín Oficial de Canarias núm. 45 Miércoles 5 de marzo de 202510113
 6. Se citará a:
 - La presunta víctima. En primer lugar, se procederá a aclarar a la misma las características 
 que deben concurrir para la determinación de una situación de acoso para, posteriormente, 
@@ -940,9 +874,6 @@ Artículo 24.- Informe de investigación.
 CV AL deberá realizar un informe final de investigación en el que se recogerán por 
 escrito los antecedentes, hechos, actuaciones realizadas y, en su caso, las medidas propuestas 
 
-https://sede.gobiernodecanarias.org/boc
-boc-a-2025-045-900
-Boletín Oficial de Canarias núm. 45 Miércoles 5 de marzo de 202510114
 para garantizar la dignidad, la integridad moral y la seguridad de los trabajadores. Asimismo, 
 podrá proponer el archivo de la denuncia o el inicio de las acciones que correspondan.
 2. El informe deberá contener un pronunciamiento expreso sobre si la situación investigada 
@@ -979,9 +910,6 @@ los testimonios son falsos.
 b) Archivo de las actuaciones: si no se encuentra en ninguno de los supuestos indicados 
 para la incoación de procedimiento disciplinario.
 
-https://sede.gobiernodecanarias.org/boc
-boc-a-2025-045-900
-Boletín Oficial de Canarias núm. 45 Miércoles 5 de marzo de 202510115
 2. En el caso de que se incoe un procedimiento disciplinario, se adoptarán las medidas 
 cautelares que, en su caso, haya propuesto la CV AL, cuando resulten procedentes conforme 
 a la normativa disciplinaria.
@@ -1016,9 +944,6 @@ La Dirección General de Personal y Formación del Profesorado será el órgano
 competente para resolver las dudas interpretativas que puedan surgir en la aplicación del 
 presente Protocolo.
 
-https://sede.gobiernodecanarias.org/boc
-boc-a-2025-045-900
-Boletín Oficial de Canarias núm. 45 Miércoles 5 de marzo de 202510116
 ANEXO I
 FUNCIONES DE LAS PERSONAS MIEMBROS  
 DE LA COMISIÓN DE V ALORACIÓN
@@ -1051,9 +976,6 @@ Personal y Formación del Profesorado o de la Secretaría General Técnica para 
 10. Registrar todos los datos estadísticos, así como la información, que de forma 
 anónima permita disponer de un conocimiento general de la evolución de las denuncias, 
 
-https://sede.gobiernodecanarias.org/boc
-boc-a-2025-045-900
-Boletín Oficial de Canarias núm. 45 Miércoles 5 de marzo de 202510117
 perfiles de las personas implicadas, resultados obtenidos de las valoraciones y de las 
 medidas que hayan propuesto las CV AL en cada caso.
 11. Cuantas otras funciones sean inherentes a su condición de secretario.
@@ -1071,9 +993,6 @@ sesión de la CV AL, se deberá analizar toda la documentación recibida hasta e
 6. Participar en la elaboración de la propuesta de resolución.
 7. Cuantas otras funciones sean inherentes a su condición.
 
-https://sede.gobiernodecanarias.org/boc
-boc-a-2025-045-900
-Boletín Oficial de Canarias núm. 45 Miércoles 5 de marzo de 202510118
 ANEXO II
 ELEMENTOS INFORME DE INVESTIGACIÓN
 A modo orientativo el informe de investigación contemplará los siguientes apartados:
@@ -1103,9 +1022,6 @@ hincapié en lo más importante de acuerdo al/los objetivo/s, y si se estima con
 de recomendaciones, beneficios o ventajas que se obtendrían con la implantación de las 
 recomendaciones o propuestas.
 
-https://sede.gobiernodecanarias.org/boc
-boc-a-2025-045-900
-Boletín Oficial de Canarias núm. 45 Miércoles 5 de marzo de 202510119
 10.- Medidas propuestas con carácter vinculante, que además incluyan las unidades 
 u órganos responsables de las acciones que se deban llevar a cabo, así como la fecha de 
 realización.
@@ -1122,9 +1038,6 @@ de acoso.
 11.- Firma de todos los miembros de la 
 CV AL.
 
-https://sede.gobiernodecanarias.org/boc
-boc-a-2025-045-900
-Boletín Oficial de Canarias núm. 45 Miércoles 5 de marzo de 202510120
 ANEXO III
 CRITERIOS PARA LA INSTRUCCIÓN DEL PROTOCOLO 
 (Listado no exhaustivo)
@@ -1160,9 +1073,6 @@ significa que exista acoso. Las exigencias inherentes a los plazos, a la prepara
 programaciones didácticas, evaluaciones o la interacción con estudiantes y tutores legales 
 no son, por sí mismas, formas de acoso.
 
-https://sede.gobiernodecanarias.org/boc
-boc-a-2025-045-900
-Boletín Oficial de Canarias núm. 45 Miércoles 5 de marzo de 202510121
 - Conductas que impliquen un conflicto. Los desacuerdos o discusiones ocasionales 
 entre compañeros/as, superiores o subordinados/as, que no son repetitivos ni con intención 
 de causar daño, no constituyen acoso laboral. Estos conflictos forman parte de las interacciones 
@@ -1200,9 +1110,6 @@ para determinar si procede o no la admisión de la denuncia, se desprende que es
 reiteración de una situación sobre la que ya se ha actuado, y en la que se concluye que no 
 se trata de una situación de acoso laboral.
 
-https://sede.gobiernodecanarias.org/boc
-boc-a-2025-045-900
-Boletín Oficial de Canarias núm. 45 Miércoles 5 de marzo de 202510122
 - Diferencias de carácter. Las diferencias de personalidad, estilos de trabajo o formas de 
 expresión entre los docentes y/o personal de administración y servicios no son consideradas 
 acoso si no incluyen una conducta intencionalmente dañina y reiterada en el tiempo. Las 
@@ -1242,9 +1149,6 @@ resto de la plantilla hablar con esa persona; marginarle en los lugares comunes 
 centro educativo; asignarle un puesto de trabajo que en la práctica representa un aislamiento 
 total; no invitarle a actividades sociales organizadas por el centro educativo, etc.
 
-https://sede.gobiernodecanarias.org/boc
-boc-a-2025-045-900
-Boletín Oficial de Canarias núm. 45 Miércoles 5 de marzo de 202510123
 • Desacreditar la reputación personal de la víctima, pudiendo incluir las actuaciones 
 que tienden a la ridiculización de la persona trabajadora; hacer circular rumores sobre su 
 vida privada; atribuirle problemas psicológicos o supuestas enfermedades mentales; imitar 
@@ -1279,9 +1183,6 @@ dirección del centro.
 • Reprender reiteradamente a una persona delante de otros trabajadores/as, de manera 
 particularmente ofensiva.
 
-https://sede.gobiernodecanarias.org/boc
-boc-a-2025-045-900
-Boletín Oficial de Canarias núm. 45 Miércoles 5 de marzo de 202510124
 b) En el acoso ascendente (de una persona subordinada hacia un superior):
 • Generación de burocracia y controles innecesarios.
 • Correcciones constantes a las actas de claustros y reuniones de departamento.
@@ -1312,9 +1213,6 @@ nombre mensajes a terceros y perjudicar así su reputación.
 sexuales de una persona.
 • Hacer comentarios o bromas sexuales obscenas.
 
-https://sede.gobiernodecanarias.org/boc
-boc-a-2025-045-900
-Boletín Oficial de Canarias núm. 45 Miércoles 5 de marzo de 202510125
 • Hacer comentarios groseros sobre el cuerpo o la apariencia física.
 • Ofrecer o presionar para concretar citas comprometidas o para participar en actividades 
 lúdicas no deseadas.
@@ -1351,9 +1249,6 @@ los ya mencionados criterios de duración y repetitividad son:
 • Cuestionario de estrategias de acoso en el trabajo. El LIPT-60. Leymann Inventory of 
 Psychological Terrorization Modificado.
 
-https://sede.gobiernodecanarias.org/boc
-boc-a-2025-045-900
-Boletín Oficial de Canarias núm. 45 Miércoles 5 de marzo de 202510126
 • Acoso psicológico en el trabajo. Diario de incidentes. Instituto de Seguridad e Higiene 
 en el trabajo.
 • La escala Cisneros como herramienta de valoración del mobbing. Ángel M. Fidalgo 
@@ -1378,9 +1273,6 @@ e) Promoviendo la tramitación, como derivadas de la contingencia de accidente d
 trabajo, de aquellas prestaciones asistenciales resultantes del acoso y la violencia producidos 
 por consecuencia o con ocasión de la relación de servicio
 
-https://sede.gobiernodecanarias.org/boc
-boc-a-2025-045-900
-Boletín Oficial de Canarias núm. 45 Miércoles 5 de marzo de 202510127
 ANEXO IV: DEFINICIONES
 TIPOS DE ACOSO DISCRIMINATORIO EN EL ENTORNO LABORAL
 APARTADO 1
@@ -1419,9 +1311,6 @@ según este autor: desprestigiar ante sus compañeros y compañeras, desacredita
 profesional y laboral, comprometer su salud, limitar su comunicación y limitar su contacto 
 social.
 
-https://sede.gobiernodecanarias.org/boc
-boc-a-2025-045-900
-Boletín Oficial de Canarias núm. 45 Miércoles 5 de marzo de 202510128
 El tiempo y la reiteración son esenciales para definir el acoso laboral porque permiten 
 distinguirlo de conflictos puntuales o incidentales. Leymann (1996) establece que el acoso 
 implica conductas hostiles que se repiten al menos una vez por semana durante seis meses o 
@@ -1465,9 +1354,6 @@ sin descalificar por no realizar bien el trabajo; un hecho violento singular y p
 críticas constructivas, explícitas, justificadas; presiones para aumentar la jornada o realizar 
 determinados trabajos.
 
-https://sede.gobiernodecanarias.org/boc
-boc-a-2025-045-900
-Boletín Oficial de Canarias núm. 45 Miércoles 5 de marzo de 202510129
 APARTADO 2
 ACOSO SEXUAL
 Constituye acoso sexual todo comportamiento de carácter sexual no deseado que realiza, 
@@ -1523,9 +1409,6 @@ o de prestación de servicios, continuada o habitual, y con tal comportamiento p
 a la víctima una situación objetiva y gravemente intimidatoria, hostil o humillante, será 
 castigado, como autor de acoso sexual, con la pena de prisión de tres a cinco meses o multa 
 
-https://sede.gobiernodecanarias.org/boc
-boc-a-2025-045-900
-Boletín Oficial de Canarias núm. 45 Miércoles 5 de marzo de 202510130
 de seis a diez meses. Si el culpable de acoso sexual hubiera cometido el hecho prevaliéndose 
 de una situación de superioridad laboral, docente o jerárquica, o con el anuncio expreso o 
 tácito de causar a la víctima un mal relacionado con las legítimas expectativas que aquella 
@@ -1568,9 +1451,6 @@ crear un entorno intimidatorio, degradante u ofensivo. Constituye discriminació
 por razón de sexo todo trato desfavorable a las mujeres, relacionado con el embarazo o la 
 maternidad.
 
-https://sede.gobiernodecanarias.org/boc
-boc-a-2025-045-900
-Boletín Oficial de Canarias núm. 45 Miércoles 5 de marzo de 202510131
 Concepto.
 Cualquier comportamiento realizado en función del sexo de una persona.
 Con el propósito de atentar contra su dignidad.
@@ -1610,9 +1490,6 @@ personas de un determinado sexo; sabotear el trabajo o impedir -deliberadamente-
 a los medios adecuados para realizarlo (información, documentos, equipamiento); llegar a 
 la fuerza física para mostrar la superioridad de un sexo sobre otro.
 
-https://sede.gobiernodecanarias.org/boc
-boc-a-2025-045-900
-Boletín Oficial de Canarias núm. 45 Miércoles 5 de marzo de 202510132
 Conductas que no pueden ser consideradas acoso por razón de sexo.
 No se consideran comportamientos constitutivos de acoso por razón de sexo, a modo 
 de ejemplo y no de manera exhaustiva, en el contexto profesional: conductas despóticas 
@@ -1649,9 +1526,6 @@ sexo o cualquier otra condición o circunstancia personal o social, así como el
 razón de origen racial o étnico, religión o convicciones, discapacidad, edad u orientación 
 sexual y el acoso moral [artículo 95.2, letra b)].
 
-https://sede.gobiernodecanarias.org/boc
-boc-a-2025-045-900
-Boletín Oficial de Canarias núm. 45 Miércoles 5 de marzo de 202510133
 Conductas que pueden ser consideradas acoso por orientación o identidad sexual.
 Se consideran conductas constitutivas de acoso por orientación o identidad sexual, a modo 
 de ejemplo y no de manera exhaustiva en el contexto profesional, cualquier medida establecida 
@@ -1695,9 +1569,6 @@ Todo comportamiento no deseado relacionado con el origen racial o étnico, la re
 o convicciones, la discapacidad o la edad.
 Con el propósito de atentar contra su dignidad.
 
-https://sede.gobiernodecanarias.org/boc
-boc-a-2025-045-900
-Boletín Oficial de Canarias núm. 45 Miércoles 5 de marzo de 202510134
 Con el efecto de crear un entorno intimidatorio, humillante u ofensivo.
 En el contexto de una relación de empleo.
 Claves.
@@ -1740,9 +1611,6 @@ serio) por su origen racial o étnico, religión o convicciones, discapacidad, e
 menospreciar las capacidades, habilidades y el potencial intelectual de las personas por su 
 origen racial o étnico, religión o convicciones, discapacidad, edad.
 
-https://sede.gobiernodecanarias.org/boc
-boc-a-2025-045-900
-Boletín Oficial de Canarias núm. 45 Miércoles 5 de marzo de 202510135
 Conductas que no pueden ser consideradas acoso discriminatorio.
 No se consideran comportamientos constitutivos de acoso discriminatorio, a modo 
 de ejemplo y no de manera exhaustiva, en el contexto profesional: conductas despóticas 
@@ -1752,9 +1620,6 @@ edad; amonestaciones sin descalificar por no realizar bien el trabajo; críticas
 explícitas, justificadas; presiones para aumentar la jornada o realizar determinados trabajos 
 sin discriminación por origen racial o étnico, religión o convicciones, discapacidad o edad.
 
-boc-a-2025-045-900
-Boletín Oficial de Canarias núm. 45 Miércoles 5 de marzo de 202510136
-https://sede.gobiernodecanarias.org/boc
 ANEXO V
 1.SOLICITUD DE ACTIV ACIÓN DEL PROTOCOLO ANTE SITUACIONES DE ACOSO
 EN EL ENTORNO LABORAL
@@ -1843,9 +1708,6 @@ Denominación del puesto de trabajo
 DIRECCIÓN  GENERAL  DE  PERSONAL  Y  FORMACIÓN  DEL  PROFESORADO. 
 Servicio de Gestión Recursos Humanos.
 
-boc-a-2025-045-900
-Boletín Oficial de Canarias núm. 45 Miércoles 5 de marzo de 202510137
-https://sede.gobiernodecanarias.org/boc
 SECRETARÍA GENERAL TÉCNICA.
 Servicio de Gestión Recursos Humanos.
 2. MODELO DENUNCIA ANTE SITUACIONES DE ACOSO  EN EL ENTORNO
@@ -1901,9 +1763,6 @@ en el entorno laboral del centro.
 Si necesita más espacio puede añadir todo el papel que precise para describir su denuncia.
 Firma,
 
-boc-a-2025-045-900
-Boletín Oficial de Canarias núm. 45 Miércoles 5 de marzo de 202510138
-https://sede.gobiernodecanarias.org/boc
 ¿Desempeña algún cargo de autoridad  
 en su trabajo?………... ¿cuál?
 ¿Que relación guarda con quien sufre el presunto acoso? Señale con una “X” la opción que proceda.
@@ -1914,9 +1773,6 @@ en el entorno laboral del centro.
 Si necesita más espacio puede añadir todo el papel que precise para describir su denuncia.
 Firma,
 
-boc-a-2025-045-900
-Boletín Oficial de Canarias núm. 45 Miércoles 5 de marzo de 202510139
-https://sede.gobiernodecanarias.org/boc
 3.COMPROMISO DE CONFIDENCIALIDAD
 Nombre y apellidos
 N.º DNI
@@ -1953,9 +1809,6 @@ vigente.
     En …………………………………….…., a ……. de ……...…………. de ……………..
 Firma:  
 
-boc-a-2025-045-900
-Boletín Oficial de Canarias núm. 45 Miércoles 5 de marzo de 202510140
-https://sede.gobiernodecanarias.org/boc
 4.CONSENTIMIENTO PARA LA GRABACIÓN DE LAS ENTREVISTAS REALIZADAS
 POR LAS PERSONAS MIEMBROS DE LA COMISIÓN DE INVESTIGACIÓN 
 Nombre y apellidos

@@ -30,10 +30,7 @@ fuente_pdf_oficial: https://sede.gobiernodecanarias.org/boc/boc-a-2020-130-2054.
 
 # Resolución de 11 de junio de 2020, por la que se dictan instrucciones para la organización y el funcionamiento del Curso Específico de Acceso a Ciclos Formativos de Formación Profesional de Grado Medio a impartir en centros de educación de personas adultas dependientes de esta Consejería (BOC n.º 130, de 30 de junio).
 
-Boletín Oficial de Canarias núm. 130
-https://sede.gobcan.es/boc
 Martes 30 de junio de 2020
-16167
 III. Otras Resoluciones
 Consejería de Educación, Universidades, Cultura y Deportes
 2054 Dirección General de Formación Profesional y Educación de Adultos.- Resolución 
@@ -70,13 +67,8 @@ organizar el Curso Específico de Acceso a Ciclos Formativos de Grado Medio a im
 centros de educación de personas adultas (CEPA) en la Comunidad Autónoma de Canarias.
 A los anteriores antecedentes de hecho les son de aplicación los siguientes,
 Página 
-boc-a-2020-130-2054
 
-
-Boletín Oficial de Canarias núm. 130
-https://sede.gobcan.es/boc
 Martes 30 de junio de 2020
-16168
 FUNDAMENTOS DE DERECHO
 Primero.- La Ley Orgánica 2/2006, de 3 de mayo, de Educación, en su artículo 41.2 
 establece, como una de las condiciones para el acceso a los ciclos formativos de grado 
@@ -115,13 +107,8 @@ Primero.- Dictar instrucciones para la organización y el funcionamiento del Cur
 Específico de Acceso a Ciclos Formativos de Grado Medio a impartir en centros de educación 
 de personas adultas (CEPA) de la Comunidad Autónoma de Canarias, según se determina en 
 el anexo de la presente resolución.
-boc-a-2020-130-2054
 
-
-Boletín Oficial de Canarias núm. 130
-https://sede.gobcan.es/boc
 Martes 30 de junio de 2020
-16169
 Segundo.- Facultar a los equipos directivos de los centros educativos para que arbitren 
 el procedimiento más adecuado para que la presente resolución sea conocida y difundida 
 entre los distintos sectores de la comunidad educativa, haciéndoles llegar copia de la misma 
@@ -135,13 +122,8 @@ ante la Viceconsejería de Educación, Universidades y Deportes, sin perjuicio d
 otro que se estime procedente interponer.
 Santa Cruz de Tenerife, a 11 de junio de 2020.- La Directora General de Formación 
 Profesional y Educación de Adultos, María Eva de la Fe González.
-boc-a-2020-130-2054
 
-
-Boletín Oficial de Canarias núm. 130
-https://sede.gobcan.es/boc
 Martes 30 de junio de 2020
-16170
 A N E X O
 En este anexo se establecen las instrucciones para el desarrollo del Curso Específico de 
 Acceso a Ciclos Formativos de Grado Medio de Formación Profesional (CE2).
@@ -171,13 +153,8 @@ año natural en que finaliza el curso.
 Salvo para el alumnado mayor de edad, o para el que cumpla 18 años en el año natural en 
 que comienza el curso, será requisito indispensable contar con un informe individualizado 
 de propuesta de orientación con visto bueno de la Inspección de Educación.
-boc-a-2020-130-2054
 
-
-Boletín Oficial de Canarias núm. 130
-https://sede.gobcan.es/boc
 Martes 30 de junio de 2020
-16171
 2.4. Asistencia del alumnado.
 El alumnado que no se incorpore en los primeros 10 días lectivos, al inicio del curso, 
 podrá ser dado de baja de oficio. Se le comunicará para que en el plazo de cinco días, 
@@ -211,13 +188,8 @@ estructura con tres ámbitos y una tutoría:
 • Ámbito científico tecnológico (ACT). 
 • Tutoría, convivencia e integración (TCI).
 La carga horaria de estos ámbitos es la que se indica a continuación:
-boc-a-2020-130-2054
 
-
-Boletín Oficial de Canarias núm. 130
-https://sede.gobcan.es/boc
 Martes 30 de junio de 2020
-16172
 Cada uno de los ámbitos incluye aprendizajes esenciales de los currículos de las siguientes 
 materias de la Educación Secundaria Obligatoria:
 1. Ámbito de comunicación:
@@ -278,13 +250,8 @@ En la dirección https://sede.gobcan.es/sede/verifica_doc puede ser comprobada l
 autenticidad de esta copia, mediante el número de documento electrónico siguiente:
 01EjwWlWVvE1F-vcOcIJwNpnap9TIk1w2
 El presente documento ha sido descargado el 25/06/2020 - 09:09:58
-boc-a-2020-130-2054
 
-
-Boletín Oficial de Canarias núm. 130
-https://sede.gobcan.es/boc
 Martes 30 de junio de 2020
-16173
 4. ORGANIZACIÓN DEL CURSO ESPECÍFICO.
 4.1. Duración y distribución horaria.
 Este curso se impartirá durante la totalidad del curso escolar a razón de 18 horas semanales 
@@ -353,13 +320,8 @@ En la dirección https://sede.gobcan.es/sede/verifica_doc puede ser comprobada l
 autenticidad de esta copia, mediante el número de documento electrónico siguiente:
 01EjwWlWVvE1F-vcOcIJwNpnap9TIk1w2
 El presente documento ha sido descargado el 25/06/2020 - 09:09:58
-boc-a-2020-130-2054
 
-
-Boletín Oficial de Canarias núm. 130
-https://sede.gobcan.es/boc
 Martes 30 de junio de 2020
-16174
 B. Régimen presencial
 En este caso, la distribución horaria de los ámbitos será la siguiente:
 No obstante, durante el primer mes, también se desarrollarán los talleres indicados para 
@@ -454,13 +416,8 @@ En la dirección https://sede.gobcan.es/sede/verifica_doc puede ser comprobada l
 autenticidad de esta copia, mediante el número de documento electrónico siguiente:
 01EjwWlWVvE1F-vcOcIJwNpnap9TIk1w2
 El presente documento ha sido descargado el 25/06/2020 - 09:09:58
-boc-a-2020-130-2054
 
-
-Boletín Oficial de Canarias núm. 130
-https://sede.gobcan.es/boc
 Martes 30 de junio de 2020
-16175
 El profesorado que imparta los ámbitos del curso específico debe pertenecer a alguno de 
 los siguientes cuerpos:
 • Cuerpo de catedráticos de enseñanza secundaria.
@@ -522,13 +479,8 @@ En la dirección https://sede.gobcan.es/sede/verifica_doc puede ser comprobada l
 autenticidad de esta copia, mediante el número de documento electrónico siguiente:
 01EjwWlWVvE1F-vcOcIJwNpnap9TIk1w2
 El presente documento ha sido descargado el 25/06/2020 - 09:09:58
-boc-a-2020-130-2054
 
-
-Boletín Oficial de Canarias núm. 130
-https://sede.gobcan.es/boc
 Martes 30 de junio de 2020
-16176
 • Los materiales y recursos didácticos que se van a utilizar.
 • Los procedimientos, instrumentos y criterios de calificación.
 • Las medidas de atención a la diversidad previstas.
@@ -560,13 +512,8 @@ En el caso de ámbitos que hayan sido superados anteriormente, el alumno o la al
 exento de cursarlos. En este caso, se hará constar en el acta de evaluación correspondiente, 
 cuyo modelo se establece en el Apéndice I, el ítem “EX” seguido de la calificación final 
 numérica, entre paréntesis, con la que superó dicho ámbito.
-boc-a-2020-130-2054
 
-
-Boletín Oficial de Canarias núm. 130
-https://sede.gobcan.es/boc
 Martes 30 de junio de 2020
-16177
 A. Evaluación del primer cuatrimestre.
 1. Permitirá, en el caso de no superación de alguno de los ámbitos, establecer cauces de 
 recuperación para la evaluación final.
@@ -602,13 +549,8 @@ lo haya superado.
 Cuando el alumno o la alumna no haya superado todos los ámbitos que configuran el 
 curso de formación específico, dicho certificado le permitirá obtener las exenciones en la 
 prueba de acceso a ciclos formativos de grado medio que se indican a continuación: 
-boc-a-2020-130-2054
 
-
-Boletín Oficial de Canarias núm. 130
-https://sede.gobcan.es/boc
 Martes 30 de junio de 2020
-16178
 E. Repetición del curso.
 El alumnado que no haya superado el curso de formación específico podrá repetirlo, 
 por una sola vez, en caso de que existan plazas vacantes al aplicar los criterios de admisión 
@@ -676,13 +618,8 @@ En la dirección https://sede.gobcan.es/sede/verifica_doc puede ser comprobada l
 autenticidad de esta copia, mediante el número de documento electrónico siguiente:
 01EjwWlWVvE1F-vcOcIJwNpnap9TIk1w2
 El presente documento ha sido descargado el 25/06/2020 - 09:09:58
-boc-a-2020-130-2054
 
-
-Boletín Oficial de Canarias núm. 130
-https://sede.gobcan.es/boc
 Martes 30 de junio de 2020
-16179
 Las solicitudes no atendidas permitirán la constitución de una lista de reserva, ordenada 
 siguiendo los criterios anteriores, para las posibles vacantes posteriores al comienzo del 
 curso escolar. 
@@ -694,13 +631,8 @@ Si un alumno o alumna se incorpora al curso desde la lista de reserva, se articu
 medidas necesarias para la superación de los contenidos impartidos.
 Pasados tres meses del inicio del curso, no será posible la incorporación de nuevo 
 alumnado.
-boc-a-2020-130-2054
 
-
-Boletín Oficial de Canarias núm. 130
-https://sede.gobcan.es/boc
 Martes 30 de junio de 2020
-16180
 APÉNDICE I
 ACTA DE EV ALUACIÓN
 CURSO ESPECÍFICO DE ACCESO A CICLOS FORMATIVOS DE GRADO MEDIO
@@ -741,13 +673,8 @@ En la dirección https://sede.gobcan.es/sede/verifica_doc puede ser comprobada l
 autenticidad de esta copia, mediante el número de documento electrónico siguiente:
 01EjwWlWVvE1F-vcOcIJwNpnap9TIk1w2
 El presente documento ha sido descargado el 25/06/2020 - 09:09:58
-boc-a-2020-130-2054
 
-
-Boletín Oficial de Canarias núm. 130
-https://sede.gobcan.es/boc
 Martes 30 de junio de 2020
-16181
 N.º Apellidos y nombre DNI/NIE/Pasaporte
 ÁMBITOS*
 NOTA MEDIA**
@@ -784,13 +711,8 @@ En la dirección https://sede.gobcan.es/sede/verifica_doc puede ser comprobada l
 autenticidad de esta copia, mediante el número de documento electrónico siguiente:
 01EjwWlWVvE1F-vcOcIJwNpnap9TIk1w2
 El presente documento ha sido descargado el 25/06/2020 - 09:09:58
-boc-a-2020-130-2054
 
-
-Boletín Oficial de Canarias núm. 130
-https://sede.gobcan.es/boc
 Martes 30 de junio de 2020
-16182
 Folio 16/21
 APÉNDICE II
 CERTIFICADO DE CALIFICACIONES
@@ -827,13 +749,8 @@ En la dirección https://sede.gobcan.es/sede/verifica_doc puede ser comprobada l
 autenticidad de esta copia, mediante el número de documento electrónico siguiente:
 01EjwWlWVvE1F-vcOcIJwNpnap9TIk1w2
 El presente documento ha sido descargado el 25/06/2020 - 09:09:58
-boc-a-2020-130-2054
 
-
-Boletín Oficial de Canarias núm. 130
-https://sede.gobcan.es/boc
 Martes 30 de junio de 2020
-16183
 Folio 17/21
 APÉNDICE III
 Procedimiento y calendario de admisión del curso 2020-2021
@@ -850,7 +767,6 @@ Del 25 de junio al 1 de julio de
 Del 2 al 6 de julio de 2020 • Reclamación a las listas provisionales de admitidos
 7 de julio de 2020 • Publicación de listas definitivas de admitidos
 Del 7 de julio al 7 de agosto de
-2020
 • Plazo  para  interponer  recurso  de  alzada  ante  la
 Dirección  Territorial  de  Educación  contra  las  listas
 definitivas
@@ -872,13 +788,8 @@ En la dirección https://sede.gobcan.es/sede/verifica_doc puede ser comprobada l
 autenticidad de esta copia, mediante el número de documento electrónico siguiente:
 01EjwWlWVvE1F-vcOcIJwNpnap9TIk1w2
 El presente documento ha sido descargado el 25/06/2020 - 09:09:58
-boc-a-2020-130-2054
 
-
-Boletín Oficial de Canarias núm. 130
-https://sede.gobcan.es/boc
 Martes 30 de junio de 2020
-16184
 Folio 18/21
 APÉNDICE IV
 Formulario de solicitud de plaza para el curso 2020-2021
@@ -910,13 +821,8 @@ En la dirección https://sede.gobcan.es/sede/verifica_doc puede ser comprobada l
 autenticidad de esta copia, mediante el número de documento electrónico siguiente:
 01EjwWlWVvE1F-vcOcIJwNpnap9TIk1w2
 El presente documento ha sido descargado el 25/06/2020 - 09:09:58
-boc-a-2020-130-2054
 
-
-Boletín Oficial de Canarias núm. 130
-https://sede.gobcan.es/boc
 Martes 30 de junio de 2020
-16185
 Folio 19/21
 2. DATOS FAMILIARES
 3. DOCUMENTACIÓN QUE SE ADJUNTA
@@ -944,13 +850,8 @@ En la dirección https://sede.gobcan.es/sede/verifica_doc puede ser comprobada l
 autenticidad de esta copia, mediante el número de documento electrónico siguiente:
 01EjwWlWVvE1F-vcOcIJwNpnap9TIk1w2
 El presente documento ha sido descargado el 25/06/2020 - 09:09:58
-boc-a-2020-130-2054
 
-
-Boletín Oficial de Canarias núm. 130
-https://sede.gobcan.es/boc
 Martes 30 de junio de 2020
-16186
 Folio 20/21
 APÉNDICE V
  Centros autorizados a impartir el curso específico en el curso escolar 2020-2021
@@ -977,13 +878,8 @@ En la dirección https://sede.gobcan.es/sede/verifica_doc puede ser comprobada l
 autenticidad de esta copia, mediante el número de documento electrónico siguiente:
 01EjwWlWVvE1F-vcOcIJwNpnap9TIk1w2
 El presente documento ha sido descargado el 25/06/2020 - 09:09:58
-boc-a-2020-130-2054
 
-
-Boletín Oficial de Canarias núm. 130
-https://sede.gobcan.es/boc
 Martes 30 de junio de 2020
-16187
 Folio 21/21
 APÉNDICE VI
 Declaración jurada o de responsabilidad para la admisión en el curso escolar 2020-2021
@@ -1011,5 +907,3 @@ En la dirección https://sede.gobcan.es/sede/verifica_doc puede ser comprobada l
 autenticidad de esta copia, mediante el número de documento electrónico siguiente:
 01EjwWlWVvE1F-vcOcIJwNpnap9TIk1w2
 El presente documento ha sido descargado el 25/06/2020 - 09:09:58
-boc-a-2020-130-2054
-

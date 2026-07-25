@@ -29,9 +29,7 @@ fundamentos_derecho:
 
 # Ley Orgánica 3/2007, de 22 de marzo, para la igualdad efectiva de mujeres y hombres.
 
-
 **JUAN CARLOS I**
-
 
 **REY DE ESPAÑA**
 
@@ -39,9 +37,7 @@ A todos los que la presente vieren y entendieren.
 
 Sabed: Que las Cortes Generales han aprobado y Yo vengo en sancionar la siguiente Ley Orgánica.
 
-
 ## EXPOSICIÓN DE MOTIVOS
-
 
 **I**
 
@@ -53,7 +49,6 @@ La igualdad es, asimismo, un principio fundamental en la Unión Europea. Desde l
 
 Con amparo en el antiguo artículo 111 del Tratado de Roma, se ha desarrollado un acervo comunitario sobre igualdad de sexos de gran amplitud e importante calado, a cuya adecuada transposición se dirige, en buena medida, la presente Ley. En particular, esta Ley incorpora al ordenamiento español dos directivas en materia de igualdad de trato, la 2002/73/CE, de reforma de la Directiva 76/207/CEE, relativa a la aplicación del principio de igualdad de trato entre hombres y mujeres en lo que se refiere al acceso al empleo, a la formación y a la promoción profesionales, y a las condiciones de trabajo; y la Directiva 2004/113/CE, sobre aplicación del principio de igualdad de trato entre hombres y mujeres en el acceso a bienes y servicios y su suministro.
 
-
 **II**
 
 El pleno reconocimiento de la igualdad formal ante la ley, aun habiendo comportado, sin duda, un paso decisivo, ha resultado ser insuficiente. La violencia de género, la discriminación salarial, la discriminación en las pensiones de viudedad, el mayor desempleo femenino, la todavía escasa presencia de las mujeres en puestos de responsabilidad política, social, cultural y económica, o los problemas de conciliación entre la vida personal, laboral y familiar muestran cómo la igualdad plena, efectiva, entre mujeres y hombres, aquella «perfecta igualdad que no admitiera poder ni privilegio para unos ni incapacidad para otros», en palabras escritas por John Stuart Mill hace casi 140 años, es todavía hoy una tarea pendiente que precisa de nuevos instrumentos jurídicos.
@@ -61,7 +56,6 @@ El pleno reconocimiento de la igualdad formal ante la ley, aun habiendo comporta
 Resulta necesaria, en efecto, una acción normativa dirigida a combatir todas las manifestaciones aún subsistentes de discriminación, directa o indirecta, por razón de sexo y a promover la igualdad real entre mujeres y hombres, con remoción de los obstáculos y estereotipos sociales que impiden alcanzarla. Esta exigencia se deriva de nuestro ordenamiento constitucional e integra un genuino derecho de las mujeres, pero es a la vez un elemento de enriquecimiento de la propia sociedad española, que contribuirá al desarrollo económico y al aumento del empleo.
 
 Se contempla, asimismo, una especial consideración con los supuestos de doble discriminación y las singulares dificultades en que se encuentran las mujeres que presentan especial vulnerabilidad, como son las que pertenecen a minorías, las mujeres migrantes y las mujeres con discapacidad.
-
 
 **III**
 
@@ -86,7 +80,6 @@ La Ley pretende promover la adopción de medidas concretas en favor de la iguald
 Dentro del mismo ámbito del empleo, pero con características propias, se consignan en la Ley medidas específicas sobre los procesos de selección y para la provisión de puestos de trabajo en el seno de la Administración General del Estado. Y la proyección de la igualdad se extiende a las Fuerzas y Cuerpos de Seguridad y a las Fuerzas Armadas.
 
 De la preocupación por el alcance de la igualdad efectiva en nuestra sociedad no podía quedar fuera el ámbito de la participación política, tanto en su nivel estatal como en los niveles autonómico y local, así como en su proyección de política internacional de cooperación para el desarrollo. El llamado en la Ley principio de presencia o composición equilibrada, con el que se trata de asegurar una representación suficientemente significativa de ambos sexos en órganos y cargos de responsabilidad, se lleva así también a la normativa reguladora del régimen electoral general, optando por una fórmula con la flexibilidad adecuada para conciliar las exigencias derivadas de los artículos 9.2 y 14 de la Constitución con las propias del derecho de sufragio pasivo incluido en el artículo 23 del mismo texto constitucional. Se asumen así los recientes textos internacionales en la materia y se avanza en el camino de garantizar una presencia equilibrada de mujeres y hombres en el ámbito de la representación política, con el objetivo fundamental de mejorar la calidad de esa representación y con ella de nuestra propia democracia.
-
 
 **IV**
 
@@ -136,12 +129,9 @@ Las disposiciones transitorias establecen el régimen aplicable temporalmente a 
 
 Las disposiciones finales se refieren a la naturaleza de la Ley, a su fundamento constitucional y a su relación con el ordenamiento comunitario, habilitan para el desarrollo reglamentario, establecen las fechas de su entrada en vigor y un mandato de evaluación de los resultados de la negociación colectiva en materia de igualdad.
 
-
 ## TÍTULO PRELIMINAR
 
-
 **Objeto y ámbito de la Ley**
-
 
 #### Artículo 1. Objeto de la Ley.
 
@@ -149,36 +139,29 @@ Las disposiciones finales se refieren a la naturaleza de la Ley, a su fundamento
 
 2. A estos efectos, la Ley establece principios de actuación de los Poderes Públicos, regula derechos y deberes de las personas físicas y jurídicas, tanto públicas como privadas, y prevé medidas destinadas a eliminar y corregir en los sectores público y privado, toda forma de discriminación por razón de sexo.
 
-
 #### Artículo 2. Ámbito de aplicación.
 
 1. Todas las personas gozarán de los derechos derivados del principio de igualdad de trato y de la prohibición de discriminación por razón de sexo.
 
 2. Las obligaciones establecidas en esta Ley serán de aplicación a toda persona, física o jurídica, que se encuentre o actúe en territorio español, cualquiera que fuese su nacionalidad, domicilio o residencia.
 
-
 ## TÍTULO I
 
-
 **El principio de igualdad y la tutela contra la discriminación**
-
 
 #### Artículo 3. El principio de igualdad de trato entre mujeres y hombres.
 
 El principio de igualdad de trato entre mujeres y hombres supone la ausencia de toda discriminación, directa o indirecta, por razón de sexo, y, especialmente, las derivadas de la maternidad, la asunción de obligaciones familiares y el estado civil.
 
-
 #### Artículo 4. Integración del principio de igualdad en la interpretación y aplicación de las normas.
 
 La igualdad de trato y de oportunidades entre mujeres y hombres es un principio informador del ordenamiento jurídico y, como tal, se integrará y observará en la interpretación y aplicación de las normas jurídicas.
-
 
 #### Artículo 5. Igualdad de trato y de oportunidades en el acceso al empleo, en la formación y en la promoción profesionales, y en las condiciones de trabajo.
 
 El principio de igualdad de trato y de oportunidades entre mujeres y hombres, aplicable en el ámbito del empleo privado y en el del empleo público, se garantizará, en los términos previstos en la normativa aplicable, en el acceso al empleo, incluso al trabajo por cuenta propia, en la formación profesional, en la promoción profesional, en las condiciones de trabajo, incluidas las retributivas y las de despido, y en la afiliación y participación en las organizaciones sindicales y empresariales, o en cualquier organización cuyos miembros ejerzan una profesión concreta, incluidas las prestaciones concedidas por las mismas.
 
 No constituirá discriminación en el acceso al empleo, incluida la formación necesaria, una diferencia de trato basada en una característica relacionada con el sexo cuando, debido a la naturaleza de las actividades profesionales concretas o al contexto en el que se lleven a cabo, dicha característica constituya un requisito profesional esencial y determinante, siempre y cuando el objetivo sea legítimo y el requisito proporcionado.
-
 
 #### Artículo 6. Discriminación directa e indirecta.
 
@@ -187,7 +170,6 @@ No constituirá discriminación en el acceso al empleo, incluida la formación n
 2. Se considera discriminación indirecta por razón de sexo la situación en que una disposición, criterio o práctica aparentemente neutros pone a personas de un sexo en desventaja particular con respecto a personas del otro, salvo que dicha disposición, criterio o práctica puedan justificarse objetivamente en atención a una finalidad legítima y que los medios para alcanzar dicha finalidad sean necesarios y adecuados.
 
 3. En cualquier caso, se considera discriminatoria toda orden de discriminar, directa o indirectamente, por razón de sexo.
-
 
 #### Artículo 7. Acoso sexual y acoso por razón de sexo.
 
@@ -199,28 +181,23 @@ No constituirá discriminación en el acceso al empleo, incluida la formación n
 
 4. El condicionamiento de un derecho o de una expectativa de derecho a la aceptación de una situación constitutiva de acoso sexual o de acoso por razón de sexo se considerará también acto de discriminación por razón de sexo.
 
-
 #### Artículo 8. Discriminación por embarazo o maternidad.
 
 Constituye discriminación directa por razón de sexo todo trato desfavorable a las mujeres relacionado con el embarazo o la maternidad.
-
 
 #### Artículo 9. Indemnidad frente a represalias.
 
 También se considerará discriminación por razón de sexo cualquier trato adverso o efecto negativo que se produzca en una persona como consecuencia de la presentación por su parte de queja, reclamación, denuncia, demanda o recurso, de cualquier tipo, destinados a impedir su discriminación y a exigir el cumplimiento efectivo del principio de igualdad de trato entre mujeres y hombres.
 
-
 #### Artículo 10. Consecuencias jurídicas de las conductas discriminatorias.
 
 Los actos y las cláusulas de los negocios jurídicos que constituyan o causen discriminación por razón de sexo se considerarán nulos y sin efecto, y darán lugar a responsabilidad a través de un sistema de reparaciones o indemnizaciones que sean reales, efectivas y proporcionadas al perjuicio sufrido, así como, en su caso, a través de un sistema eficaz y disuasorio de sanciones que prevenga la realización de conductas discriminatorias.
-
 
 #### Artículo 11. Acciones positivas.
 
 1. Con el fin de hacer efectivo el derecho constitucional de la igualdad, los Poderes Públicos adoptarán medidas específicas en favor de las mujeres para corregir situaciones patentes de desigualdad de hecho respecto de los hombres. Tales medidas, que serán aplicables en tanto subsistan dichas situaciones, habrán de ser razonables y proporcionadas en relación con el objetivo perseguido en cada caso.
 
 2. También las personas físicas y jurídicas privadas podrán adoptar este tipo de medidas en los términos establecidos en la presente Ley.
-
 
 #### Artículo 12. Tutela judicial efectiva.
 
@@ -230,7 +207,6 @@ Los actos y las cláusulas de los negocios jurídicos que constituyan o causen d
 
 3. La persona acosada será la única legitimada en los litigios sobre acoso sexual y acoso por razón de sexo.
 
-
 #### Artículo 13. Prueba.
 
 1. De acuerdo con las Leyes procesales, en aquellos procedimientos en los que las alegaciones de la parte actora se fundamenten en actuaciones discriminatorias, por razón de sexo, corresponderá a la persona demandada probar la ausencia de discriminación en las medidas adoptadas y su proporcionalidad.
@@ -239,16 +215,13 @@ A los efectos de lo dispuesto en el párrafo anterior, el órgano judicial, a in
 
 2. Lo establecido en el apartado anterior no será de aplicación a los procesos penales.
 
-
 ## TÍTULO II
-
 
 **Políticas públicas para la igualdad**
 
 CAPÍTULO I
 
 Principios generales
-
 
 #### Artículo 14. Criterios generales de actuación de los Poderes Públicos.
 
@@ -278,31 +251,25 @@ A los fines de esta Ley, serán criterios generales de actuación de los Poderes
 
 12. Todos los puntos considerados en este artículo se promoverán e integrarán de igual manera en la política española de cooperación internacional para el desarrollo.
 
-
 #### Artículo 15. Transversalidad del principio de igualdad de trato entre mujeres y hombres.
 
 El principio de igualdad de trato y oportunidades entre mujeres y hombres informará, con carácter transversal, la actuación de todos los Poderes Públicos. Las Administraciones públicas lo integrarán, de forma activa, en la adopción y ejecución de sus disposiciones normativas, en la definición y presupuestación de políticas públicas en todos los ámbitos y en el desarrollo del conjunto de todas sus actividades.
-
 
 #### Artículo 16. Nombramientos realizados por los Poderes Públicos.
 
 Los Poderes Públicos procurarán atender al principio de presencia equilibrada de mujeres y hombres en los nombramientos y designaciones de los cargos de responsabilidad que les correspondan.
 
-
 #### Artículo 17. Plan Estratégico de Igualdad de Oportunidades.
 
 El Gobierno, en las materias que sean de la competencia del Estado, aprobará periódicamente un Plan Estratégico de Igualdad de Oportunidades, que incluirá medidas para alcanzar el objetivo de igualdad entre mujeres y hombres y eliminar la discriminación por razón de sexo.
-
 
 #### Artículo 18. Informe periódico.
 
 En los términos que reglamentariamente se determinen, el Gobierno elaborará un informe periódico sobre el conjunto de sus actuaciones en relación con la efectividad del principio de igualdad entre mujeres y hombres. De este informe se dará cuenta a las Cortes Generales.
 
-
 #### Artículo 19. Informes de impacto de género.
 
 Los proyectos de disposiciones de carácter general y los planes de especial relevancia económica, social, cultural y artística que se sometan a la aprobación del Consejo de Ministros deberán incorporar un informe sobre su impacto por razón de género.
-
 
 #### Artículo 20. Adecuación de las estadísticas y estudios.
 
@@ -322,13 +289,11 @@ f) Revisar y, en su caso, adecuar las definiciones estadísticas existentes con 
 
 Sólo excepcionalmente, y mediante informe motivado y aprobado por el órgano competente, podrá justificarse el incumplimiento de alguna de las obligaciones anteriormente especificadas.
 
-
 #### Artículo 21. Colaboración entre las Administraciones públicas.
 
 1. La Administración General del Estado y las Administraciones de las Comunidades Autónomas cooperarán para integrar el derecho de igualdad entre mujeres y hombres en el ejercicio de sus respectivas competencias y, en especial, en sus actuaciones de planificación. En el seno de la Conferencia Sectorial de la Mujer podrán adoptarse planes y programas conjuntos de actuación con esta finalidad.
 
 2. Las Entidades Locales integrarán el derecho de igualdad en el ejercicio de sus competencias y colaborarán, a tal efecto, con el resto de las Administraciones públicas.
-
 
 #### Artículo 22. Acciones de planificación equitativa de los tiempos.
 
@@ -338,13 +303,11 @@ CAPÍTULO II
 
 Acción administrativa para la igualdad
 
-
 #### Artículo 23. La educación para la igualdad de mujeres y hombres.
 
 El sistema educativo incluirá entre sus fines la educación en el respeto de los derechos y libertades fundamentales y en la igualdad de derechos y oportunidades entre mujeres y hombres.
 
 Asimismo, el sistema educativo incluirá, dentro de sus principios de calidad, la eliminación de los obstáculos que dificultan la igualdad efectiva entre mujeres y hombres y el fomento de la igualdad plena entre unas y otros.
-
 
 #### Artículo 24. Integración del principio de igualdad en la política de educación.
 
@@ -364,7 +327,6 @@ e) La cooperación con el resto de las Administraciones educativas para el desar
 
 f) El establecimiento de medidas educativas destinadas al reconocimiento y enseñanza del papel de las mujeres en la Historia.
 
-
 #### Artículo 25. La igualdad en el ámbito de la educación superior.
 
 1. En el ámbito de la educación superior, las Administraciones públicas en el ejercicio de sus respectivas competencias fomentarán la enseñanza y la investigación sobre el significado y alcance de la igualdad entre mujeres y hombres.
@@ -376,7 +338,6 @@ a) La inclusión, en los planes de estudio en que proceda, de enseñanzas en mat
 b) La creación de postgrados específicos.
 
 c) La realización de estudios e investigaciones especializadas en la materia.
-
 
 #### Artículo 26. La igualdad en el ámbito de la creación y producción artística e intelectual.
 
@@ -395,7 +356,6 @@ d) Que se respete y se garantice la representación equilibrada en los distintos
 e) Adoptar medidas de acción positiva a la creación y producción artística e intelectual de las mujeres, propiciando el intercambio cultural, intelectual y artístico, tanto nacional como internacional, y la suscripción de convenios con los organismos competentes.
 
 f) En general y al amparo del artículo 11 de la presente Ley, todas las acciones positivas necesarias para corregir las situaciones de desigualdad en la producción y creación intelectual artística y cultural de las mujeres.
-
 
 #### Artículo 27. Integración del principio de igualdad en la política de salud.
 
@@ -417,7 +377,6 @@ e) La presencia equilibrada de mujeres y hombres en los puestos directivos y de 
 
 f) La obtención y el tratamiento desagregados por sexo, siempre que sea posible, de los datos contenidos en registros, encuestas, estadísticas u otros sistemas de información médica y sanitaria.
 
-
 #### Artículo 28. Sociedad de la Información.
 
 1. Todos los programas públicos de desarrollo de la Sociedad de la Información incorporarán la efectiva consideración del principio de igualdad de oportunidades entre mujeres y hombres en su diseño y ejecución.
@@ -428,13 +387,11 @@ f) La obtención y el tratamiento desagregados por sexo, siempre que sea posible
 
 4. En los proyectos del ámbito de las tecnologías de la información y la comunicación sufragados total o parcialmente con dinero público, se garantizará que su lenguaje y contenidos sean no sexistas.
 
-
 #### Artículo 29. Deportes.
 
 1. Todos los programas públicos de desarrollo del deporte incorporarán la efectiva consideración del principio de igualdad real y efectiva entre mujeres y hombres en su diseño y ejecución.
 
 2. El Gobierno promoverá el deporte femenino y favorecerá la efectiva apertura de las disciplinas deportivas a las mujeres, mediante el desarrollo de programas específicos en todas las etapas de la vida y en todos los niveles, incluidos los de responsabilidad y decisión.
-
 
 #### Artículo 30. Desarrollo rural.
 
@@ -448,7 +405,6 @@ f) La obtención y el tratamiento desagregados por sexo, siempre que sea posible
 
 5. Los poderes públicos fomentarán la igualdad de oportunidades en el acceso a las tecnologías de la información y la comunicación mediante el uso de políticas y actividades dirigidas a la mujer rural, y la aplicación de soluciones alternativas tecnológicas allá donde la extensión de estas tecnologías no sea posible.
 
-
 #### Artículo 31. Políticas urbanas, de ordenación territorial y vivienda.
 
 1. Las políticas y planes de las Administraciones públicas en materia de acceso a la vivienda incluirán medidas destinadas a hacer efectivo el principio de igualdad entre mujeres y hombres.
@@ -459,7 +415,6 @@ Del mismo modo, las políticas urbanas y de ordenación del territorio tomarán 
 
 3. Las Administraciones públicas tendrán en cuenta en el diseño de la ciudad, en las políticas urbanas, en la definición y ejecución del planeamiento urbanístico, la perspectiva de género, utilizando para ello, especialmente, mecanismos e instrumentos que fomenten y favorezcan la participación ciudadana y la transparencia.
 
-
 #### Artículo 32. Política española de cooperación para el desarrollo.
 
 1. Todas las políticas, planes, documentos de planificación estratégica, tanto sectorial como geográfica, y herramientas de programación operativa de la cooperación española para el desarrollo, incluirán el principio de igualdad entre mujeres y hombres como un elemento sustancial en su agenda de prioridades, y recibirán un tratamiento de prioridad transversal y específica en sus contenidos, contemplando medidas concretas para el seguimiento y la evaluación de logros para la igualdad efectiva en la cooperación española al desarrollo.
@@ -468,11 +423,9 @@ Del mismo modo, las políticas urbanas y de ordenación del territorio tomarán 
 
 3. La Administración española planteará un proceso progresivo, a medio plazo, de integración efectiva del principio de igualdad y del enfoque de género en desarrollo (GED), en todos los niveles de su gestión, que haga posible y efectiva la aplicación de la Estrategia Sectorial de Igualdad entre mujeres y hombres, que contemple actuaciones específicas para alcanzar la transversalidad en las actuaciones de la cooperación española, y la promoción de medidas de acción positiva que favorezcan cambios significativos en la implantación del principio de igualdad, tanto dentro de la Administración como en el mandato de desarrollo de la propia cooperación española.
 
-
 #### Artículo 33. Contratos de las Administraciones públicas.
 
 Las Administraciones públicas, en el ámbito de sus respectivas competencias, a través de sus órganos de contratación y, en relación con la ejecución de los contratos que celebren, podrán establecer condiciones especiales con el fin de promover la igualdad entre mujeres y hombres en el mercado de trabajo, de acuerdo con lo establecido en la legislación de contratos del sector público.
-
 
 #### Artículo 34. Contratos de la Administración General del Estado.
 
@@ -482,24 +435,19 @@ En el Acuerdo a que se refiere el párrafo anterior podrán establecerse, en su 
 
 2. Los órganos de contratación podrán establecer en los pliegos de cláusulas administrativas particulares la preferencia en la adjudicación de los contratos de las proposiciones presentadas por aquellas empresas que, en el momento de acreditar su solvencia técnica o profesional, cumplan con las directrices del apartado anterior, siempre que estas proposiciones igualen en sus términos a las más ventajosas desde el punto de vista de los criterios objetivos que sirvan de base a la adjudicación y respetando, en todo caso, la prelación establecida en el apartado primero de la disposición adicional octava del Texto Refundido de la Ley de Contratos de las Administraciones Públicas, aprobado por Real Decreto Legislativo 2/2000, de 16 de junio.
 
-
 #### Artículo 35. Subvenciones públicas.
 
 Las Administraciones públicas, en los planes estratégicos de subvenciones que adopten en el ejercicio de sus competencias, determinarán los ámbitos en que, por razón de la existencia de una situación de desigualdad de oportunidades entre mujeres y hombres, las bases reguladoras de las correspondientes subvenciones puedan incluir la valoración de actuaciones de efectiva consecución de la igualdad por parte de las entidades solicitantes.
 
 A estos efectos podrán valorarse, entre otras, las medidas de conciliación de la vida personal, laboral y familiar, de responsabilidad social de la empresa, o la obtención del distintivo empresarial en materia de igualdad regulado en el Capítulo IV del Título IV de la presente Ley.
 
-
 ## TÍTULO III
 
-
 **Igualdad y medios de comunicación**
-
 
 #### Artículo 36. La igualdad en los medios de comunicación social de titularidad pública.
 
 Los medios de comunicación social de titularidad pública velarán por la transmisión de una imagen igualitaria, plural y no estereotipada de mujeres y hombres en la sociedad, y promoverán el conocimiento y la difusión del principio de igualdad entre mujeres y hombres.
-
 
 #### Artículo 37. Corporación RTVE.
 
@@ -515,7 +463,6 @@ d) Colaborar con las campañas institucionales dirigidas a fomentar la igualdad 
 
 2. La Corporación RTVE promoverá la incorporación de las mujeres a puestos de responsabilidad directiva y profesional. Asimismo, fomentará la relación con asociaciones y grupos de mujeres para identificar sus necesidades e intereses en el ámbito de la comunicación.
 
-
 #### Artículo 38. Agencia EFE.
 
 1. En el ejercicio de sus actividades, la Agencia EFE velará por el respeto del principio de igualdad entre mujeres y hombres y, en especial, por la utilización no sexista del lenguaje, y perseguirá en su actuación los siguientes objetivos:
@@ -530,26 +477,21 @@ d) Colaborar con las campañas institucionales dirigidas a fomentar la igualdad 
 
 2. La Agencia EFE promoverá la incorporación de las mujeres a puestos de responsabilidad directiva y profesional. Asimismo, fomentará la relación con asociaciones y grupos de mujeres para identificar sus necesidades e intereses en el ámbito de la comunicación.
 
-
 #### Artículo 39. La igualdad en los medios de comunicación social de titularidad privada.
 
 1. Todos los medios de comunicación respetarán la igualdad entre mujeres y hombres, evitando cualquier forma de discriminación.
 
 2. Las Administraciones públicas promoverán la adopción por parte de los medios de comunicación de acuerdos de autorregulación que contribuyan al cumplimiento de la legislación en materia de igualdad entre mujeres y hombres, incluyendo las actividades de venta y publicidad que en aquellos se desarrollen.
 
-
 #### Artículo 40. Autoridad audiovisual.
 
 Las Autoridades a las que corresponda velar por que los medios audiovisuales cumplan sus obligaciones adoptarán las medidas que procedan, de acuerdo con su regulación, para asegurar un tratamiento de las mujeres conforme con los principios y valores constitucionales.
-
 
 #### Artículo 41. Igualdad y publicidad.
 
 La publicidad que comporte una conducta discriminatoria de acuerdo con esta Ley se considerará publicidad ilícita, de conformidad con lo previsto en la legislación general de publicidad y de publicidad y comunicación institucional.
 
-
 ## TÍTULO IV
-
 
 **El derecho al trabajo en igualdad de oportunidades**
 
@@ -557,13 +499,11 @@ CAPÍTULO I
 
 Igualdad de trato y de oportunidades en el ámbito laboral
 
-
 #### Artículo 42. Programas de mejora de la empleabilidad de las mujeres.
 
 1. Las políticas de empleo tendrán como uno de sus objetivos prioritarios aumentar la participación de las mujeres en el mercado de trabajo y avanzar en la igualdad efectiva entre mujeres y hombres. Para ello, se mejorará la empleabilidad y la permanencia en el empleo de las mujeres, potenciando su nivel formativo y su adaptabilidad a los requerimientos del mercado de trabajo.
 
 2. Los Programas de inserción laboral activa comprenderán todos los niveles educativos y edad de las mujeres, incluyendo los de Formación Profesional, Escuelas Taller y Casas de Oficios, dirigidos a personas en desempleo, se podrán destinar prioritariamente a colectivos específicos de mujeres o contemplar una determinada proporción de mujeres.
-
 
 #### Artículo 43. Promoción de la igualdad en la negociación colectiva.
 
@@ -572,7 +512,6 @@ De acuerdo con lo establecido legalmente, mediante la negociación colectiva se 
 CAPÍTULO II
 
 Igualdad y conciliación
-
 
 #### Artículo 44. Los derechos de conciliación de la vida personal, familiar y laboral.
 
@@ -586,7 +525,6 @@ CAPÍTULO III
 
 Los planes de igualdad de las empresas y otras medidas de promoción de la igualdad
 
-
 #### Artículo 45. Elaboración y aplicación de los planes de igualdad.
 
 1. Las empresas están obligadas a respetar la igualdad de trato y de oportunidades en el ámbito laboral y, con esta finalidad, deberán adoptar medidas dirigidas a evitar cualquier tipo de discriminación laboral entre mujeres y hombres, medidas que deberán negociar, y en su caso acordar, con los representantes legales de los trabajadores en la forma que se determine en la legislación laboral.
@@ -599,7 +537,6 @@ Los planes de igualdad de las empresas y otras medidas de promoción de la igual
 
 5. La elaboración e implantación de planes de igualdad será voluntaria para las demás empresas, previa consulta a la representación legal de los trabajadores y trabajadoras.
 
-
 #### Artículo 46. Concepto y contenido de los planes de igualdad de las empresas.
 
 1. Los planes de igualdad de las empresas son un conjunto ordenado de medidas, adoptadas después de realizar un diagnóstico de situación, tendentes a alcanzar en la empresa la igualdad de trato y de oportunidades entre mujeres y hombres y a eliminar la discriminación por razón de sexo.
@@ -610,13 +547,11 @@ Los planes de igualdad fijarán los concretos objetivos de igualdad a alcanzar, 
 
 3. Los planes de igualdad incluirán la totalidad de una empresa, sin perjuicio del establecimiento de acciones especiales adecuadas respecto a determinados centros de trabajo.
 
-
 #### Artículo 47. Transparencia en la implantación del plan de igualdad.
 
 Se garantiza el acceso de la representación legal de los trabajadores y trabajadoras o, en su defecto, de los propios trabajadores y trabajadoras, a la información sobre el contenido de los Planes de igualdad y la consecución de sus objetivos.
 
 Lo previsto en el párrafo anterior se entenderá sin perjuicio del seguimiento de la evolución de los acuerdos sobre planes de igualdad por parte de las comisiones paritarias de los convenios colectivos a las que éstos atribuyan estas competencias.
-
 
 #### Artículo 48. Medidas específicas para prevenir el acoso sexual y el acoso por razón de sexo en el trabajo.
 
@@ -626,7 +561,6 @@ Con esta finalidad se podrán establecer medidas que deberán negociarse con los
 
 2. Los representantes de los trabajadores deberán contribuir a prevenir el acoso sexual y el acoso por razón de sexo en el trabajo mediante la sensibilización de los trabajadores y trabajadoras frente al mismo y la información a la dirección de la empresa de las conductas o comportamientos de que tuvieran conocimiento y que pudieran propiciarlo.
 
-
 #### Artículo 49. Apoyo para la implantación voluntaria de planes de igualdad.
 
 Para impulsar la adopción voluntaria de planes de igualdad, el Gobierno establecerá medidas de fomento, especialmente dirigidas a las pequeñas y las medianas empresas, que incluirán el apoyo técnico necesario.
@@ -634,7 +568,6 @@ Para impulsar la adopción voluntaria de planes de igualdad, el Gobierno estable
 CAPÍTULO IV
 
 Distintivo empresarial en materia de igualdad
-
 
 #### Artículo 50. Distintivo para las empresas en materia de igualdad.
 
@@ -648,16 +581,13 @@ Distintivo empresarial en materia de igualdad
 
 5. El Ministerio de Trabajo y Asuntos Sociales controlará que las empresas que obtengan el distintivo mantengan permanentemente la aplicación de políticas de igualdad de trato y de oportunidades con sus trabajadores y trabajadoras y, en caso de incumplirlas, les retirará el distintivo.
 
-
 ## TÍTULO V
-
 
 **El principio de igualdad en el empleo público**
 
 CAPÍTULO I
 
 Criterios de actuación de las Administraciones públicas
-
 
 #### Artículo 51. Criterios de actuación de las Administraciones públicas.
 
@@ -681,18 +611,15 @@ CAPÍTULO II
 
 El principio de presencia equilibrada en la Administración General del Estado y en los organismos públicos vinculados o dependientes de ella
 
-
 #### Artículo 52. Titulares de órganos directivos.
 
 El Gobierno atenderá al principio de presencia equilibrada de mujeres y hombres en el nombramiento de las personas titulares de los órganos directivos de la Administración General del Estado y de los organismos públicos vinculados o dependientes de ella, considerados en su conjunto, cuya designación le corresponda.
-
 
 #### Artículo 53. Órganos de selección y Comisiones de valoración.
 
 Todos los tribunales y órganos de selección del personal de la Administración General del Estado y de los organismos públicos vinculados o dependientes de ella responderán al principio de presencia equilibrada de mujeres y hombres, salvo por razones fundadas y objetivas, debidamente motivadas.
 
 Asimismo, la representación de la Administración General del Estado y de los organismos públicos vinculados o dependientes de ella en las comisiones de valoración de méritos para la provisión de puestos de trabajo se ajustará al principio de composición equilibrada de ambos sexos.
-
 
 #### Artículo 54. Designación de representantes de la Administración General del Estado.
 
@@ -704,21 +631,17 @@ CAPÍTULO III
 
 Medidas de Igualdad en el empleo para la Administración General del Estado y para los organismos públicos vinculados o dependientes de ella
 
-
 #### Artículo 55. Informe de impacto de género en las pruebas de acceso al empleo público.
 
 La aprobación de convocatorias de pruebas selectivas para el acceso al empleo público deberá acompañarse de un informe de impacto de género, salvo en casos de urgencia y siempre sin perjuicio de la prohibición de discriminación por razón de sexo.
-
 
 #### Artículo 56. Permisos y beneficios de protección a la maternidad y la conciliación de la vida personal, familiar y laboral.
 
 Sin perjuicio de las mejoras que pudieran derivarse de acuerdos suscritos entre la Administración General del Estado o los organismos públicos vinculados o dependientes de ella con los representantes del personal al servicio de la Administración Pública, la normativa aplicable a los mismos establecerá un régimen de excedencias, reducciones de jornada, permisos u otros beneficios con el fin de proteger la maternidad y facilitar la conciliación de la vida personal, familiar y laboral. Con la misma finalidad se reconocerá un permiso de paternidad, en los términos que disponga dicha normativa.
 
-
 #### Artículo 57. Conciliación y provisión de puestos de trabajo.
 
 En las bases de los concursos para la provisión de puestos de trabajo se computará, a los efectos de valoración del trabajo desarrollado y de los correspondientes méritos, el tiempo que las personas candidatas hayan permanecido en las situaciones a que se refiere el artículo anterior.
-
 
 #### Artículo 58. Licencia por riesgo durante el embarazo y lactancia.
 
@@ -726,13 +649,11 @@ Cuando las condiciones del puesto de trabajo de una funcionaria incluida en el �
 
 Lo dispuesto en el párrafo anterior será también de aplicación durante el período de lactancia natural.
 
-
 #### Artículo 59. Vacaciones.
 
 Sin perjuicio de las mejoras que pudieran derivarse de acuerdos suscritos entre la Administración General del Estado o los organismos públicos vinculados o dependientes de ella con la representación de los empleados y empleadas al servicio de la Administración Pública, cuando el periodo de vacaciones coincida con una incapacidad temporal derivada del embarazo, parto o lactancia natural, o con el permiso de maternidad, o con su ampliación por lactancia, la empleada pública tendrá derecho a disfrutar las vacaciones en fecha distinta, aunque haya terminado el año natural al que correspondan.
 
 Gozarán de este mismo derecho quienes estén disfrutando de permiso de paternidad.
-
 
 #### Artículo 60. Acciones positivas en las actividades de formación.
 
@@ -740,13 +661,11 @@ Gozarán de este mismo derecho quienes estén disfrutando de permiso de paternid
 
 2. Con el fin de facilitar la promoción profesional de las empleadas públicas y su acceso a puestos directivos en la Administración General del Estado y en los organismos públicos vinculados o dependientes de ella, en las convocatorias de los correspondientes cursos de formación se reservará al menos un 40% de las plazas para su adjudicación a aquéllas que reúnan los requisitos establecidos.
 
-
 #### Artículo 61. Formación para la igualdad.
 
 1. Todas las pruebas de acceso al empleo público de la Administración General del Estado y de los organismos públicos vinculados o dependientes de ella contemplarán el estudio y la aplicación del principio de igualdad entre mujeres y hombres en los diversos ámbitos de la función pública.
 
 2. La Administración General del Estado y los organismos públicos vinculados o dependientes de ella impartirán cursos de formación sobre la igualdad de trato y oportunidades entre mujeres y hombres y sobre prevención de la violencia de género, que se dirigirán a todo su personal.
-
 
 #### Artículo 62. Protocolo de actuación frente al acoso sexual y al acoso por razón de sexo.
 
@@ -760,11 +679,9 @@ c) El tratamiento reservado de las denuncias de hechos que pudieran ser constitu
 
 d) La identificación de las personas responsables de atender a quienes formulen una queja o denuncia.
 
-
 #### Artículo 63. Evaluación sobre la igualdad en el empleo público.
 
 Todos los Departamentos Ministeriales y Organismos Públicos remitirán, al menos anualmente, a los Ministerios de Trabajo y Asuntos Sociales y de Administraciones Públicas, información relativa a la aplicación efectiva en cada uno de ellos del principio de igualdad entre mujeres y hombres, con especificación, mediante la desagregación por sexo de los datos, de la distribución de su plantilla, grupo de titulación, nivel de complemento de destino y retribuciones promediadas de su personal.
-
 
 #### Artículo 64. Plan de Igualdad en la Administración General del Estado y en los organismos públicos vinculados o dependientes de ella.
 
@@ -774,11 +691,9 @@ CAPÍTULO IV
 
 Fuerzas Armadas
 
-
 #### Artículo 65. Respeto del principio de igualdad.
 
 Las normas sobre personal de las Fuerzas Armadas procurarán la efectividad del principio de igualdad entre mujeres y hombres, en especial en lo que se refiere al régimen de acceso, formación, ascensos, destinos y situaciones administrativas.
-
 
 #### Artículo 66. Aplicación de las normas referidas al personal de las Administraciones públicas.
 
@@ -788,22 +703,17 @@ CAPÍTULO V
 
 Fuerzas y Cuerpos de Seguridad del Estado
 
-
 #### Artículo 67. Respeto del principio de igualdad.
 
 Las normas reguladoras de las Fuerzas y Cuerpos de Seguridad del Estado promoverán la igualdad efectiva entre mujeres y hombres, impidiendo cualquier situación de discriminación profesional, especialmente, en el sistema de acceso, formación, ascensos, destinos y situaciones administrativas.
-
 
 #### Artículo 68. Aplicación de las normas referidas al personal de las Administraciones públicas.
 
 Las normas referidas al personal al servicio de las Administraciones públicas en materia de igualdad, prevención de la violencia de género y conciliación de la vida personal, familiar y profesional serán de aplicación en las Fuerzas y Cuerpos de Seguridad del Estado, adaptándose, en su caso, a las peculiaridades de las funciones que tienen encomendadas, en los términos establecidos por su normativa específica.
 
-
 ## TÍTULO VI
 
-
 **Igualdad de trato en el acceso a bienes y servicios y su suministro**
-
 
 #### Artículo 69. Igualdad de trato en el acceso a bienes y servicios.
 
@@ -813,11 +723,9 @@ Las normas referidas al personal al servicio de las Administraciones públicas e
 
 3. No obstante lo dispuesto en los apartados anteriores, serán admisibles las diferencias de trato en el acceso a bienes y servicios cuando estén justificadas por un propósito legítimo y los medios para lograrlo sean adecuados y necesarios.
 
-
 #### Artículo 70. Protección en situación de embarazo.
 
 En el acceso a bienes y servicios, ningún contratante podrá indagar sobre la situación de embarazo de una mujer demandante de los mismos, salvo por razones de protección de su salud.
-
 
 #### Artículo 71. Factores actuariales.
 
@@ -827,19 +735,15 @@ No obstante, reglamentariamente, se podrán fijar los supuestos en los que sea a
 
 2. Los costes relacionados con el embarazo y el parto no justificarán diferencias en las primas y prestaciones de las personas consideradas individualmente, sin que puedan autorizarse diferencias al respecto.
 
-
 #### Artículo 72. Consecuencias del incumplimiento de las prohibiciones.
 
 1. Sin perjuicio de otras acciones y derechos contemplados en la legislación civil y mercantil, la persona que, en el ámbito de aplicación del artículo 69, sufra una conducta discriminatoria, tendrá derecho a indemnización por los daños y perjuicios sufridos.
 
 2. En el ámbito de los contratos de seguros o de servicios financieros afines, y sin perjuicio de lo previsto en el artículo 10 de esta Ley, el incumplimiento de la prohibición contenida en el artículo 71 otorgará al contratante perjudicado el derecho a reclamar la asimilación de sus primas y prestaciones a las del sexo más beneficiado, manteniéndose en los restantes extremos la validez y eficacia del contrato.
 
-
 ## TÍTULO VII
 
-
 **La igualdad en la responsabilidad social de las empresas**
-
 
 #### Artículo 73. Acciones de responsabilidad social de las empresas en materia de igualdad.
 
@@ -851,13 +755,11 @@ Se informará a los representantes de los trabajadores de las acciones que no se
 
 A las decisiones empresariales y acuerdos colectivos relativos a medidas laborales les será de aplicación la normativa laboral.
 
-
 #### Artículo 74. Publicidad de las acciones de responsabilidad social en materia de igualdad.
 
 Las empresas podrán hacer uso publicitario de sus acciones de responsabilidad en materia de igualdad, de acuerdo con las condiciones establecidas en la legislación general de publicidad.
 
 El Instituto de la Mujer, u órganos equivalentes de las Comunidades Autónomas, estarán legitimados para ejercer la acción de cesación cuando consideren que pudiera haberse incurrido en supuestos de publicidad engañosa.
-
 
 #### Artículo 75. Participación de las mujeres en los Consejos de administración de las sociedades mercantiles.
 
@@ -865,19 +767,15 @@ Las sociedades obligadas a presentar cuenta de pérdidas y ganancias no abreviad
 
 Lo previsto en el párrafo anterior se tendrá en cuenta para los nombramientos que se realicen a medida que venza el mandato de los consejeros designados antes de la entrada en vigor de esta Ley.
 
-
 ## TÍTULO VIII
 
-
 **Disposiciones organizativas**
-
 
 #### Artículo 76. Comisión Interministerial de Igualdad entre mujeres y hombres.
 
 La Comisión Interministerial de Igualdad entre mujeres y hombres es el órgano colegiado responsable de la coordinación de las políticas y medidas adoptadas por los departamentos ministeriales con la finalidad de garantizar el derecho a la igualdad entre mujeres y hombres y promover su efectividad.
 
 Su composición y funcionamiento se determinarán reglamentariamente.
-
 
 #### Artículo 77. Las Unidades de Igualdad.
 
@@ -893,18 +791,15 @@ d) Fomentar el conocimiento por el personal del Departamento del alcance y signi
 
 e) Velar por el cumplimiento de esta Ley y por la aplicación efectiva del principio de igualdad.
 
-
 #### Artículo 78. Consejo de Participación de la Mujer.
 
 1. Se crea el Consejo de Participación de la Mujer, como órgano colegiado de consulta y asesoramiento, con el fin esencial de servir de cauce para la participación de las mujeres en la consecución efectiva del principio de igualdad de trato y de oportunidades entre mujeres y hombres, y la lucha contra la discriminación por razón de sexo.
 
 2. Reglamentariamente, se establecerán su régimen de funcionamiento, competencias y composición, garantizándose, en todo caso, la participación del conjunto de las Administraciones públicas y de las asociaciones y organizaciones de mujeres de ámbito estatal.
 
-
 #### Disposición adicional primera. Presencia o composición equilibrada.
 
 A los efectos de esta Ley, se entenderá por composición equilibrada la presencia de mujeres y hombres de forma que, en el conjunto a que se refiera, las personas de cada sexo no superen el sesenta por ciento ni sean menos del cuarenta por ciento.
-
 
 #### Disposición adicional segunda. Modificación de la Ley Orgánica de Régimen Electoral General.
 
@@ -941,7 +836,6 @@ Cuatro. Se modifica el apartado 2 de la disposición adicional primera, que qued
 Cinco. Se añade una nueva disposición transitoria séptima, redactada en los siguientes términos:
 
 «En las convocatorias a elecciones municipales que se produzcan antes de 2011, lo previsto en el artículo 44 bis solo será exigible en los municipios con un número de residentes superior a 5.000 habitantes, aplicándose a partir del 1 de enero de ese año la cifra de habitantes prevista en el segundo párrafo del apartado 2 del artículo 187 de la presente Ley.»
-
 
 #### Disposición adicional tercera. Modificaciones de la Ley Orgánica del Poder Judicial.
 
@@ -1029,7 +923,6 @@ Dieciséis. Se añade un segundo párrafo al apartado 2 del artículo 434, con l
 
 «El Centro de Estudios Jurídicos impartirá anualmente cursos de formación sobre el principio de igualdad entre mujeres y hombres y su aplicación con carácter transversal por los miembros de la Carrera Fiscal, el Cuerpo de Secretarios y demás personal al servicio de la Administración de Justicia, así como sobre la detección y el tratamiento de situaciones de violencia de género.»
 
-
 #### Disposición adicional cuarta. Modificación del Estatuto Orgánico del Ministerio Fiscal.
 
 Se modifica la Ley 50/1981, de 30 de diciembre, por la que se aprueba el Estatuto Orgánico del Ministerio Fiscal en los siguientes términos:
@@ -1037,7 +930,6 @@ Se modifica la Ley 50/1981, de 30 de diciembre, por la que se aprueba el Estatut
 Se añade un último párrafo en el apartado 1 del artículo 14, que tendrá la siguiente redacción:
 
 «Habrá de integrarse en el seno del Consejo Fiscal una Comisión de Igualdad para el estudio de la mejora de los parámetros de igualdad en la Carrera Fiscal, cuya composición quedará determinada en la normativa que rige la constitución y funcionamiento del Consejo Fiscal.»
-
 
 #### Disposición adicional quinta. Modificaciones de la Ley de Enjuiciamiento Civil.
 
@@ -1063,7 +955,6 @@ Tres. Se añade un nuevo apartado 5 al artículo 217 de la Ley 1/2000, de 7 de e
 
 A los efectos de lo dispuesto en el párrafo anterior, el órgano judicial, a instancia de parte, podrá recabar, si lo estimase útil y pertinente, informe o dictamen de los organismos públicos competentes.»
 
-
 #### Disposición adicional sexta. Modificaciones de la Ley reguladora de la Jurisdicción Contencioso Administrativa.
 
 Se modifica la Ley 29/1998, de 13 de julio, reguladora de la Jurisdicción Contencioso-Administrativa en los siguientes términos:
@@ -1082,13 +973,11 @@ Dos. Se añade un nuevo apartado 7 al artículo 60, con la siguiente redacción:
 
 A los efectos de lo dispuesto en el párrafo anterior, el órgano judicial, a instancia de parte, podrá recabar, si lo estimase útil y pertinente, informe o dictamen de los organismos públicos competentes.»
 
-
 #### Disposición adicional séptima. Modificaciones de la Ley por la que se incorpora al ordenamiento jurídico español la Directiva 89/552/CEE.
 
 Se añade una nueva letra e) en el apartado 1 del artículo 16 de la Ley 25/1994, de 12 de julio, por la que se incorpora al ordenamiento jurídico español la Directi-va 89/552/CEE, sobre la coordinación de disposiciones legales, reglamentarias y administrativas de los Estados miembros relativas al ejercicio de la radiodifusión televisiva, en los siguientes términos:
 
 «e) La publicidad o la tele venta dirigidas a menores deberá transmitir una imagen igualitaria, plural y no estereotipada de mujeres y hombres.»
-
 
 #### Disposición adicional octava. Modificaciones de la Ley General de Sanidad.
 
@@ -1117,7 +1006,6 @@ Tres. Se modifican los apartados 1, 4, 9, 14 y 15 del artículo 18 de la Ley 14/
 Cuatro. Se da nueva redacción al inciso inicial del apartado 1 del artículo 21 de la Ley 14/1986, de 25 de abril, General de Sanidad, que queda redactado en los siguientes términos:
 
 «1. La actuación sanitaria en el ámbito de la salud laboral, que integrará en todo caso la perspectiva de género, comprenderá los siguientes aspectos.»
-
 
 #### Disposición adicional novena. Modificaciones de la Ley de Cohesión y Calidad del Sistema Nacional de Salud.
 
@@ -1151,11 +1039,9 @@ Siete. Se añade, al final del artículo 63, la siguiente frase:
 
 «Este informe contendrá análisis específicos de la salud de mujeres y hombres.»
 
-
 #### Disposición adicional décima. Fondo en materia de Sociedad de la información.
 
 A los efectos previstos en el artículo 28 de la presente Ley, se constituirá un fondo especial que se dotará con 3 millones de euros en cada uno de los ejercicios presupuestarios de 2007, 2008 y 2009.
-
 
 #### Disposición adicional décimo primera. Modificaciones del texto refundido de la Ley del Estatuto de los Trabajadores.
 
@@ -1329,7 +1215,6 @@ Veintiuno. Se añade una nueva disposición adicional decimoctava, en los siguie
 
 2. Igualmente, será de aplicación lo dispuesto en el párrafo anterior en los supuestos de ejercicio a tiempo parcial de los derechos establecidos en el párrafo décimo del artículo 48.4 y en el artículo 48 bis.»
 
-
 #### Disposición adicional duodécima. Modificaciones de la Ley de Prevención de Riesgos Laborales.
 
 La Ley 31/1995, de 8 de noviembre, de Prevención de Riesgos Laborales queda modificada como sigue:
@@ -1343,7 +1228,6 @@ Dos. Se modifica el párrafo primero del apartado 2 y el apartado 4 del artícul
 «2. Cuando la adaptación de las condiciones o del tiempo de trabajo no resultase posible o, a pesar de tal adaptación, las condiciones de un puesto de trabajo pudieran influir negativamente en la salud de la trabajadora embarazada o del feto, y así lo certifiquen los Servicios Médicos del Instituto Nacional de la Seguridad Social o de las Mutuas, en función de la Entidad con la que la empresa tenga concertada la cobertura de los riesgos profesionales, con el informe del médico del Servicio Nacional de Salud que asista facultativamente a la trabajadora, ésta deberá desempeñar un puesto de trabajo o función diferente y compatible con su estado. El empresario deberá determinar, previa consulta con los representantes de los trabajadores, la relación de los puestos de trabajo exentos de riesgos a estos efectos.»
 
 «4. Lo dispuesto en los números 1 y 2 de este artículo será también de aplicación durante el período de lactancia natural, si las condiciones de trabajo pudieran influir negativamente en la salud de la mujer o del hijo y así lo certifiquen los Servicios Médicos del Instituto Nacional de la Seguridad Social o de las Mutuas, en función de la Entidad con la que la empresa tenga concertada la cobertura de los riesgos profesionales, con el informe del médico del Servicio Nacional de Salud que asista facultativamente a la trabajadora o a su hijo. Podrá, asimismo, declararse el pase de la trabajadora afectada a la situación de suspensión del contrato por riesgo durante la lactancia natural de hijos menores de nueve meses contemplada en el artículo 45.1.d) del Estatuto de los Trabajadores, si se dan las circunstancias previstas en el número 3 de este artículo.»
-
 
 #### Disposición adicional decimotercera. Modificaciones de la Ley de Procedimiento Laboral.
 
@@ -1409,7 +1293,6 @@ Siete. Se modifica el artículo 181, quedando redactado en los siguientes térmi
 
 Cuando la sentencia declare la existencia de vulneración, el Juez deberá pronunciarse sobre la cuantía de la indemnización que, en su caso, le correspondiera al trabajador por haber sufrido discriminación, si hubiera discrepancia entre las partes. Esta indemnización será compatible, en su caso, con la que pudiera corresponder al trabajador por la modificación o extinción del contrato de trabajo de acuerdo con lo establecido en el Estatuto de los Trabajadores.»
 
-
 #### Disposición adicional decimocuarta. Modificaciones de la Ley de Infracciones y Sanciones del Orden Social.
 
 El texto refundido de la Ley sobre Infracciones y Sanciones en el Orden Social, aprobado por Real Decreto Legislativo 5/2000, de 4 de agosto, queda modificado como sigue:
@@ -1450,7 +1333,6 @@ a) La pérdida automática de las ayudas, bonificaciones y beneficios a la que s
 
 b) La exclusión del acceso a tales beneficios será durante seis meses a contar desde la fecha de la resolución de la autoridad laboral por la que se acuerda dejar sin efecto la suspensión y aplicar las sanciones accesorias.»
 
-
 #### Disposición adicional decimoquinta. Modificación del Real Decreto Ley por el que se regulan las bonificaciones de cuotas a la Seguridad Social de los contratos de interinidad que se celebren con personas desempleadas para sustituir a trabajadores durante los períodos de descanso por maternidad, adopción o acogimiento.
 
 Se modifica el artículo 1 del Real Decreto Ley 11/1998, de 4 septiembre, por el que se regulan las bonificaciones de cuotas a la Seguridad Social de los contratos de interinidad que se celebren con personas desempleadas para sustituir a trabajadores durante los períodos de descanso por maternidad, adopción o acogimiento, que queda redactado en los siguientes términos:
@@ -1467,7 +1349,6 @@ En el caso de que el trabajador no agote el período de descanso o permiso a que
 
 c) Los contratos de interinidad que se celebren con personas desempleadas para sustituir a trabajadores autónomos, socios trabajadores o socios de trabajo de las sociedades cooperativas, en los supuestos de riesgo durante el embarazo o riesgo durante la lactancia natural, períodos de descanso por maternidad, adopción y acogimiento o suspensión por paternidad, en los términos establecidos en los párrafos anteriores.»
 
-
 #### Disposición adicional decimosexta. Modificaciones de la Ley de Medidas Urgentes de Reforma del Mercado de Trabajo para el incremento del empleo y la mejora de su calidad.
 
 Se modifica la disposición adicional segunda de la Ley 12/2001, de 9 de julio, de Medidas Urgentes de Reforma del Mercado de Trabajo para el incremento del empleo y la mejora de su calidad, que queda redactada en los siguientes términos:
@@ -1482,7 +1363,6 @@ b) Una bonificación del 100 por 100 de la cuota que resulte de aplicar sobre la
 
 Sólo será de aplicación esta bonificación mientras coincidan en el tiempo la suspensión de actividad por dichas causas y el contrato de interinidad del sustituto y, en todo caso, con el límite máximo del periodo de suspensión.»
 
-
 #### Disposición adicional decimoséptima. Modificaciones de la Ley de Empleo.
 
 Se añade un nuevo artículo 22 bis a la Ley 56/2003, de 16 de diciembre, de Empleo, en los siguientes términos:
@@ -1496,7 +1376,6 @@ Los gestores de la intermediación laboral cuando, en las ofertas de colocación
 2. En particular, se considerarán discriminatorias las ofertas referidas a uno de los sexos, salvo que se trate de un requisito profesional esencial y determinante de la actividad a desarrollar.
 
 En todo caso se considerará discriminatoria la oferta referida a uno solo de los sexos basada en exigencias del puesto de trabajo relacionadas con el esfuerzo físico.»
-
 
 #### Disposición adicional decimoctava. Modificaciones de la Ley General de la Seguridad Social.
 
@@ -1706,7 +1585,6 @@ Veintitrés. Se introduce una nueva disposición adicional cuadragésima cuarta,
 
 A efectos de las pensiones contributivas de jubilación y de incapacidad permanente de cualquier régimen de la Seguridad Social, se computarán, a favor de la trabajadora solicitante de la pensión, un total de 112 días completos de cotización por cada parto de un solo hijo y de 14 días más por cada hijo a partir del segundo, éste incluido, si el parto fuera múltiple, salvo si, por ser trabajadora o funcionaria en el momento del parto, se hubiera cotizado durante la totalidad de las dieciséis semanas o, si el parto fuese múltiple, durante el tiempo que corresponda.»
 
-
 #### Disposición adicional decimonovena. Modificaciones a la Ley de Medidas para la Reforma de la Función Pública.
 
 Se modifican los siguientes preceptos de la Ley 30/1984, de 2 de agosto, de Medidas para la Reforma de la Función Pública:
@@ -1793,7 +1671,6 @@ En los casos previstos en este apartado, el tiempo transcurrido en la situación
 
 Los funcionarios que hayan hecho uso del permiso por parto o maternidad, tendrán derecho, una vez finalizado el período de permiso a reintegrarse a su puesto de trabajo en términos y condiciones que no le resulten menos favorables al disfrute del permiso, así como a beneficiarse de cualquier mejora en las condiciones de trabajo a las que hubiera podido tener derecho durante su ausencia.»
 
-
 #### Disposición adicional vigésima. Modificaciones de la Ley de Régimen del Personal de las Fuerzas Armadas.
 
 La Ley 17/1999, de 18 de mayo, de Régimen del Personal de las Fuerzas Armadas, queda modificada como sigue:
@@ -1828,13 +1705,11 @@ Cinco. Se incluye un nuevo apartado 6 en el artículo 148, con la siguiente reda
 
 «6. Los militares de complemento y los militares profesionales de tropa y marinería que, en el momento de finalizar su relación de servicios con las Fuerzas Armadas, se encontrasen en situación de incapacidad temporal por accidente o enfermedad derivada del servicio, o en situación de embarazo, parto o posparto, no causarán baja en las Fuerzas Armadas y se prorrogará su compromiso hasta finalizar esas situaciones.»
 
-
 #### Disposición adicional vigésima primera. Modificaciones de la Ley de Funcionarios Civiles del Estado.
 
 El apartado 3 del artículo 69 del texto articulado de la Ley de Funcionarios Civiles del Estado, aprobado por Decreto 315/1964, de 7 de febrero, queda redactado como sigue:
 
 «3. Cuando las circunstancias a que se refieren los números 3 y 4 del artículo 26 de la Ley 31/1995, de 8 de noviembre, de Prevención de Riesgos Laborales, afectasen a una funcionaria incluida en el ámbito de aplicación del mutualismo administrativo, podrá concederse licencia por riesgo durante el embarazo o licencia por riesgo durante la lactancia en los mismos términos y condiciones que las previstas en los números anteriores.»
-
 
 #### Disposición adicional vigésima segunda. Modificación de la Ley 55/2003, del Estatuto Marco del Personal Estatutario de los Servicios de salud.
 
@@ -1845,7 +1720,6 @@ Uno. Se modifica el apartado 3 del artículo 59 de la ley 55/2003, del estatuto 
 Dos. Se modifica el apartado 2 del artículo 61 de la ley 55/2003, del estatuto marco del personal estatutario de los servicios de salud con el siguiente texto:
 
 «2. El personal estatutario tendrá derecho a disfrutar del régimen de permisos y licencias, incluida la licencia por riesgo durante el embarazo, establecido para los funcionarios públicos por la Ley 39/1999, de 5 de noviembre, sobre conciliación de la vida familiar y laboral de las personas trabajadoras y por la ley orgánica para la igualdad efectiva de mujeres y hombres.»
-
 
 #### Disposición adicional vigésima tercera.
 
@@ -1858,7 +1732,6 @@ Tendrá la misma consideración y efectos que la situación de incapacidad tempo
 «Artículo 12. Prestaciones.
 
 b) Subsidios por incapacidad temporal, riesgo durante el embarazo o riesgo durante la lactancia natural.»
-
 
 #### Disposición adicional vigésima cuarta. Modificaciones de la Ley de Régimen del Personal del Cuerpo de la Guardia Civil.
 
@@ -1884,13 +1757,11 @@ También tendrán derecho a un período de excedencia de duración no superior a
 
 Estos derechos no podrán ser ejercidos simultáneamente por dos o más guardias civiles en relación con el mismo causante.»
 
-
 #### Disposición adicional vigésima quinta. Modificación de la Ley General para la Defensa de Consumidores y Usuarios.
 
 Se da nueva redacción al apartado 10 del artículo 34 de la Ley 26/1984, de 19 de julio, General para la Defensa de Consumidores y Usuarios, pasando su actual contenido a constituir un nuevo apartado 11:
 
 «10. Las conductas discriminatorias en el acceso a los bienes y la prestación de los servicios, y en especial las previstas como tales en la Ley Orgánica para la igualdad efectiva de mujeres y hombres.»
-
 
 #### Disposición adicional vigésima sexta. Modificación de la Ley de Sociedades Anónimas.
 
@@ -1899,7 +1770,6 @@ Se modifica la indicación novena del artículo 200 de la Ley de Sociedades Anó
 «El número medio de personas empleadas en el curso del ejercicio, expresado por categorías, así como los gastos de personal que se refieran al ejercicio, distribuidos como prevé el artículo 189, apartado A.3, cuando no estén así consignados en la cuenta de pérdidas y ganancias.
 
 La distribución por sexos al término del ejercicio del personal de la sociedad, desglosado en un número suficiente de categorías y niveles, entre los que figurarán el de altos directivos y el de consejeros.»
-
 
 #### Disposición adicional vigésima séptima. Modificaciones de la Ley de creación del Instituto de la Mujer.
 
@@ -1913,11 +1783,9 @@ b) la realización de estudios sobre la discriminación;
 
 c) la publicación de informes y la formulación de recomendaciones sobre cualquier cuestión relacionada con la discriminación.»
 
-
 #### Disposición adicional vigésima octava. Designación del Instituto de la Mujer.
 
 El Instituto de la Mujer será el organismo competente en el Reino de España a efectos de lo dispuesto en el artículo 8 bis de la Directiva 76/207, de 9 de febrero de 1976, modificada por la Directiva 2002/73, del Parlamento Europeo y del Consejo, de 23 de septiembre de 2002, relativa a la aplicación del principio de igualdad de trato entre hombres y mujeres en lo que se refiere al acceso al empleo, a la formación y a la promoción profesionales, y a las condiciones de trabajo y en el artículo 12 de la Directiva 2004/113, del Consejo, de 13 de diciembre de 2004, sobre aplicación del principio de igualdad de trato entre hombres y mujeres en el acceso a bienes y servicios y su suministro.
-
 
 #### Disposición adicional vigésima novena.
 
@@ -1926,7 +1794,6 @@ Se añade una nueva disposición adicional tercera a la Ley 5/1984, de 26 de mar
 «Disposición adicional tercera.
 
 Lo dispuesto en el apartado 1 del artículo 3 será de aplicación a las mujeres extranjeras que huyan de sus países de origen debido a un temor fundado a sufrir persecución por motivos de género.»
-
 
 #### Disposición adicional trigésima. Modificaciones de la Ley de Ordenación de los Cuerpos Especiales Penitenciarios y de Creación del Cuerpo de Ayudantes de Instituciones Penitenciarias.
 
@@ -1940,41 +1807,33 @@ Dos. Se da nueva redacción a la Disposición transitoria primera:
 
 «Quedan extinguidas las actuales escalas masculina y femenina del Cuerpo de Ayudantes de Instituciones Penitenciarias y sus funcionarios se integran en su totalidad en el Cuerpo de Ayudantes de Instituciones Penitenciarias.»
 
-
 #### Disposición adicional trigésima primera. Ampliación a otros colectivos.
 
 Se adoptarán las disposiciones necesarias para aplicar lo dispuesto en la disposición adicional décimo primera. Diez, en lo relativo a partos prematuros, a los colectivos no incluídos en el ámbito de aplicación del Estatuto de los Trabajadores.
-
 
 #### Disposición transitoria primera. Régimen transitorio de nombramientos.
 
 Las normas sobre composición y representación equilibrada contenidas en la presente Ley serán de aplicación a los nombramientos que se produzcan con posterioridad a su entrada en vigor, sin afectar a los ya realizados.
 
-
 #### Disposición transitoria segunda. Regulación reglamentaria de transitoriedad en relación con el distintivo empresarial en materia de igualdad.
 
 Reglamentariamente, se determinarán, a los efectos de obtener el distintivo empresarial en materia de igualdad regulado en el capítulo IV del título IV de esta Ley, las condiciones de convalidación de las calificaciones atribuidas a las empresas conforme a la normativa anterior.
-
 
 #### Disposición transitoria tercera. Régimen transitorio de procedimientos.
 
 A los procedimientos administrativos y judiciales ya iniciados con anterioridad a la entrada en vigor de esta Ley no les será de aplicación la misma, rigiéndose por la normativa anterior.
 
-
 #### Disposición transitoria cuarta. Régimen de aplicación del deber de negociar en materia de igualdad.
 
 Lo dispuesto en el artículo 85 del Estatuto de los Trabajadores en materia de igualdad, según la redacción dada por esta Ley, será de aplicación en la negociación subsiguiente a la primera denuncia del convenio que se produzca a partir de la entrada en vigor de la misma.
-
 
 #### Disposición transitoria quinta. Tablas de mortalidad y supervivencia.
 
 En tanto no se aprueben las disposiciones reglamentarias a las que se refiere el párrafo segundo del artículo 71.1 de la presente Ley, las entidades aseguradoras podrán continuar aplicando las tablas de mortalidad y supervivencia y los demás elementos de las bases técnicas, actualmente utilizados, en los que el sexo constituye un factor determinante de la evaluación del riesgo a partir de datos actuariales y estadísticos pertinentes y exactos.
 
-
 #### Disposición transitoria sexta. Retroactividad de efectos para medidas de conciliación.
 
 Los preceptos de la Ley 30/1984, de 2 de agosto, de Medidas para la reforma de la Función Pública modificados por esta Ley tendrán carácter retroactivo respecto de los hechos causantes originados y vigentes a 1 de enero de 2006 en el ámbito de la Administración General del Estado.
-
 
 #### Disposición transitoria séptima. Régimen transitorio de los nuevos derechos en materia de maternidad, paternidad, riesgo durante el embarazo y consideración como cotizados a efectos de Seguridad Social de determinados períodos.
 
@@ -1984,31 +1843,25 @@ Los preceptos de la Ley 30/1984, de 2 de agosto, de Medidas para la reforma de l
 
 3. La consideración como cotizados de los períodos a que se refieren el apartado 6 del artículo 124 y la disposición adicional cuadragésimo cuarta del texto refundido de la Ley General de la Seguridad Social, aprobado por Real Decreto Legislativo 1/1994, de 20 de junio, será de aplicación para las prestaciones que se causen a partir de la entrada en vigor de la presente Ley. Iguales efectos se aplicarán a la ampliación del período que se considera como cotizado en el apartado 1 del artículo 180 de la misma norma y a la consideración como cotizados al 100 por 100 de los períodos a que se refieren los apartados 3 y 4 del citado artículo.
 
-
 #### Disposición transitoria octava. Régimen transitorio del subsidio por desempleo.
 
 La cuantía del subsidio por desempleo establecida en el segundo párrafo del apartado 1 del artículo 217 de la Ley General de la Seguridad Social, en la redacción dada por la presente Ley, se aplicará a los derechos al subsidio por desempleo que nazcan a partir de la entrada en vigor de esta Ley.
-
 
 #### Disposición transitoria novena. Ampliación de la suspensión del contrato de trabajo.
 
 El Gobierno ampliará de forma progresiva y gradual, la duración de la suspensión del contrato de trabajo por paternidad regulado en la disposición adicional décimo primera, apartado Once, y en la disposición adicional décimonovena, apartado Seis, de la presente Ley, hasta alcanzar el objetivo de 4 semanas de este permiso de paternidad a los 6 años de la entrada en vigor de la presente Ley.
 
-
 #### Disposición transitoria décima. Despliegue del impacto de género.
 
 El Gobierno, en el presente año 2007, desarrollará reglamentariamente la Ley de Impacto de Género con la precisión de los indicadores que deben tenerse en cuenta para la elaboración de dicho informe.
-
 
 #### Disposición transitoria décima primera.
 
 El Gobierno, en el presente año 2007, regulará el Fondo de Garantía previsto en la disposición adicional única de la Ley 8/2005, de 8 de julio, que modifica el Código civil y la Ley de Enjuiciamiento Civil en materia de separación y divorcio, creado y dotado inicialmente en la disposición adicional quincuagésima tercera de la Ley 42/2006, de 28 de diciembre, de Presupuestos Generales del Estado para el año 2007.
 
-
 #### Disposición derogatoria única.
 
 Quedan derogadas cuantas normas de igual o inferior rango se opongan o contradigan lo dispuesto en la presente Ley.
-
 
 #### Disposición final primera. Fundamento constitucional.
 
@@ -2024,11 +1877,9 @@ Las disposiciones adicionales tercera a séptima y décima tercera se dictan en 
 
 4. El resto de los preceptos de esta Ley son de aplicación a la Administración General del Estado.
 
-
 #### Disposición final segunda. Naturaleza de la Ley.
 
 Las normas contenidas en las disposiciones adicionales primera, segunda y tercera de esta Ley tienen carácter orgánico. El resto de los preceptos contenidos en esta Ley no tienen tal carácter.
-
 
 #### Disposición final tercera. Habilitaciones reglamentarias.
 
@@ -2042,32 +1893,25 @@ Se integrará el contenido de los Anexos de la Directiva 92/85, del Consejo Euro
 
 3. El Gobierno podrá fijar, antes del 21 de diciembre de 2007 y mediante Real Decreto, los supuestos a que se refiere el párrafo segundo del artículo 71.1 de la presente Ley.
 
-
 #### Disposición final cuarta. Transposición de Directivas.
 
 Mediante la presente Ley se incorpora al ordenamiento jurídico la Directiva 2002/73, del Parlamento Europeo y del Consejo, de 23 de septiembre de 2002, de modificación de la Directiva 76/207, de 9 de febrero de 1976, relativa a la aplicación del principio de igualdad de trato entre hombres y mujeres en lo que se refiere al acceso al empleo, a la formación y a la promoción profesionales, y a las condiciones de trabajo y la Directiva 2004/113, del Consejo, de 13 de diciembre de 2004, sobre aplicación del principio de igualdad de trato entre hombres y mujeres en el acceso a bienes y servicios y su suministro.
 
 Asimismo, mediante la presente Ley, se incorporan a la Ley 1/2000, de 7 de enero, de Enjuiciamiento Civil, y a la Ley 29/1998, de 13 de julio, reguladora de la Jurisdicción Contencioso-Administrativa, la Directiva 97/80/CE del Consejo, de 15 de diciembre de 1997, relativa a la carga de la prueba en los casos de discriminación por razón de sexo.
 
-
 #### Disposición final quinta. Planes de igualdad y negociación colectiva.
 
 Una vez transcurridos cuatro años desde la entrada en vigor de esta Ley, el Gobierno procederá a evaluar, junto a las organizaciones sindicales y asociaciones empresariales más representativas, el estado de la negociación colectiva en materia de igualdad, y a estudiar, en función de la evolución habida, las medidas que, en su caso, resulten pertinentes.
-
 
 #### Disposición final sexta. Implantación de las medidas preventivas del acoso sexual y del acoso por razón de sexo en la Administración General del Estado.
 
 La aplicación del protocolo de actuación sobre medidas relativas al acoso sexual o por razón de sexo regulado en el artículo 62 de esta Ley tendrá lugar en el plazo de seis meses desde la entrada en vigor del Real Decreto que lo apruebe.
 
-
 #### Disposición final séptima. Medidas para posibilitar los permisos de maternidad y paternidad de las personas que ostentan un cargo electo.
 
 A partir de la entrada en vigor de esta Ley, el Gobierno promoverá el acuerdo necesario para iniciar un proceso de modificación de la legislación vigente con el fin de posibilitar los permisos de maternidad y paternidad de las personas que ostenten un cargo electo.
 
-
 #### Disposición final octava. Entrada en vigor.
-
-La presente Ley entrará en vigor el día siguiente al de su publicación en el Boletín Oficial del Estado, con excepción de lo previsto en el artículo 71.2, que lo hará el 31 de diciembre de 2008.
 
 Por tanto,
 

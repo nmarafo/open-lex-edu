@@ -47,18 +47,15 @@ Así, es preciso establecer los requisitos para participar en los Premios Nacion
 
 Por todo ello, consultadas las Comunidades Autónomas, dispongo:
 
-
 #### Artículo 1. Objeto.
 
 Esta Orden tiene por objeto la creación de los Premios Nacionales de Bachillerato, como reconocimiento del especial aprovechamiento del alumnado que haya cursado cualquiera de las modalidades del Bachillerato establecidas en la Ley Orgánica 2/2006, de 3 de mayo, de Educación.
-
 
 #### Artículo 2. Convocatoria de los Premios Nacionales de Bachillerato.
 
 1. El Ministerio de Educación convocará y concederá anualmente quince Premios Nacionales de Bachillerato en régimen de concurrencia competitiva y publicidad de acuerdo con el artículo 17.3.d) de la Ley General de Subvenciones, con cargo a los Presupuestos Generales del Estado.
 
 2. Los Premios Nacionales tendrán una dotación económica, cuya cuantía será establecida en la correspondiente convocatoria anual.
-
 
 #### Artículo 3. Requisitos de los candidatos a los Premios Nacionales de Bachillerato
 
@@ -72,7 +69,6 @@ c) Haber obtenido en el conjunto de los dos cursos de Bachillerato una nota medi
 
 La nota media será la media aritmética de las calificaciones de las materias comunes, de modalidad y optativas de los dos cursos de Bachillerato, redondeada a la centésima más próxima y en caso de equidistancia a la superior. Para este cálculo no se tendrá en cuenta la materia de religión.
 
-
 #### Artículo 4. Premios Extraordinarios de Bachillerato.
 
 1. Las Administraciones educativas competentes podrán convocar y conceder Premios Extraordinarios de Bachillerato en sus respectivos ámbitos de competencias. A estos efectos las Administraciones educativas regularán en su correspondiente convocatoria todos los aspectos relativos a las pruebas para la concesión de estos premios.
@@ -80,7 +76,6 @@ La nota media será la media aritmética de las calificaciones de las materias c
 2. Podrá concederse, como máximo, un Premio Extraordinario de Bachillerato por cada mil alumnos, o fracción superior a quinientos, matriculados en segundo curso de Bachillerato el año académico al que se refiere la convocatoria. En los casos en que el número de alumnos matriculados en el curso indicado sea inferior a quinientos, podrá concederse un Premio Extraordinario de Bachillerato.
 
 3. A los efectos previstos en los apartados 1 y 2 de este artículo, se tendrá en cuenta el alumnado procedente de centros docentes públicos y privados en los que se impartan las enseñanzas de Bachillerato conforme a la Ley Orgánica 2/2006, de 3 de mayo, tanto en régimen presencial como a distancia.
-
 
 #### Artículo 5. Procedimiento de concesión de los Premios Nacionales de Bachillerato.
 
@@ -100,13 +95,11 @@ Las Consejerías de Educación de las Comunidades Autónomas, las Direcciones Pr
 
 7. Los premios se otorgarán por la Secretaria de Estado de Educación y Formación Profesional en función de los resultados de las pruebas específicas celebradas a tal efecto, a los quince alumnos que obtengan la mayor puntuación propuestos por el tribunal. La valoración de las pruebas atenderá, entre otros específicos para cada uno de los ejercicios que las componen, a los siguientes criterios: la corrección de las respuestas, la claridad y calidad de la exposición, la estructuración del ejercicio, la propiedad del vocabulario, la puntuación y la ortografía.
 
-
 #### Artículo 6. Comunicación del alumnado que ha obtenido Premio Extraordinario de Bachillerato.
 
 1. La obtención del Premio Extraordinario de Bachillerato dará opción, previa inscripción, a concurrir al correspondiente Premio Nacional de Bachillerato.
 
 2. A estos efectos, las Administraciones educativas competentes enviarán, antes del 15 de octubre de cada año, a la Dirección General de Evaluación y Cooperación Territorial del Ministerio de Educación, la relación del alumnado que haya obtenido Premio Extraordinario de Bachillerato indicando en cada caso el idioma extranjero y la modalidad de Bachillerato cursados.
-
 
 #### Artículo 7. Exención del pago de precios públicos académicos.
 
@@ -114,29 +107,22 @@ De acuerdo con la Disposición adicional 7.ª de la Ley 8/1989, de Tasas y Preci
 
 En virtud de lo establecido en el artículo 25.2 del Título III de dicha Ley, éstas podrán determinar que el alumnado que ha obtenido Premio Extraordinario de Bachillerato quede exento del pago de los precios públicos por los servicios académicos en el primer curso de los estudios superiores realizados en un centro público.
 
-
 #### Artículo 8. Inscripción del premio en el expediente académico y en el historial.
 
 La obtención del Premio Nacional de Bachillerato será anotada, mediante diligencia realizada por el Secretario del Instituto de Educación Secundaria, en el expediente académico y en el historial académico del alumno premiado.
-
 
 #### Disposición transitoria única. Periodo transitorio.
 
 El plazo establecido en el punto dos del artículo 6, queda prorrogado para la convocatoria de los premios Extraordinarios de Bachillerato correspondientes al curso 2009-2010, hasta el 31 de diciembre de 2010.
 
-
 #### Disposición derogatoria única. Derogación normativa.
 
 Queda derogada la Orden de 13 de diciembre de 1999 («BOE» del 25 de diciembre), del Ministerio de Educación y Cultura, por la que se crean los Premios Nacionales de Bachillerato y se establecen, a tal efecto, los requisitos para la concesión de los Premios Extraordinarios del Bachillerato regulado por la Ley Orgánica 1/1990, de 3 de octubre, de Ordenación General del Sistema Educativo.
-
 
 #### Disposición final primera. Título competencial.
 
 La presente Orden se dicta al amparo de lo establecido en el artículo 149.1.30.º de la Constitución que atribuye al Estado la competencia para el establecimiento de las normas básicas para el desarrollo del artículo 27 de la Constitución, a fin de garantizar el cumplimiento de las obligaciones de los poderes públicos en esta materia.
 
-
 #### Disposición final segunda. Entrada en vigor.
-
-La presente Orden producirá sus efectos a partir día siguiente al de su publicación en el «Boletín Oficial del Estado».
 
 Madrid, 13 de julio de 2010.–El Ministro de Educación, Ángel Gabilondo Pujol.

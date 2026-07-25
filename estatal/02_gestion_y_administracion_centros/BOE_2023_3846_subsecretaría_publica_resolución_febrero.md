@@ -35,11 +35,10 @@ fundamentos_derecho:
   articulos:
   - '120'
 ---
+
 # Resolución de 13 de febrero de 2023, de la Subsecretaría, por la que se publica la Resolución de 8 de febrero de 2023, conjunta de la Secretaría de Estado de Educación y la Secretaría General de Universidades, por la que se establecen las adaptaciones de la evaluación de Bachillerato para el acceso a la Universidad a las necesidades y situación de los centros españoles situados en el exterior del territorio nacional, los programas educativos en el exterior, los programas internacionales, el alumnado procedente de sistemas educativos extranjeros y las enseñanzas a distancia, en el curso 2022-2023.
 
 El Secretario de Estado de Educación y el Secretario General de Universidades han suscrito, con fecha 8 de febrero de 2023, una Resolución conjunta por la que se establecen las adaptaciones de la evaluación de Bachillerato para el acceso a la Universidad a las necesidades y situación de los centros españoles situados en el exterior del territorio nacional, los programas educativos en el exterior, los programas internacionales, el alumnado procedente de sistemas educativos extranjeros y las enseñanzas a distancia, en el curso 2022-2023.
-
-Para general conocimiento, dispongo su publicación en el «Boletín Oficial del Estado» como anejo a la presente resolución.
 
 Madrid, 13 de febrero de 2023.–El Subsecretario de la Presidencia, Relaciones con las Cortes y Memoria Democrática, Alberto Herrera Rodríguez.
 
@@ -63,13 +62,11 @@ La disposición adicional única de la citada orden faculta a las personas titul
 
 En su virtud, resolvemos:
 
-
 #### Primero. Objeto.
 
 1. El objeto de la presente resolución es establecer las adaptaciones de la evaluación de Bachillerato para el acceso a la Universidad a las necesidades y situación del alumnado de los centros situados en el exterior del territorio nacional, del procedente de programas educativos en el exterior, programas internacionales o sistemas educativos extranjeros y de la educación a distancia, en el curso 2022-2023.
 
 2. Estas adaptaciones se establecen asegurando, en todo caso, la igualdad de oportunidades, la no discriminación y la accesibilidad universal del alumnado con necesidades específicas de apoyo educativo, de conformidad con lo dispuesto en la disposición adicional primera del Real Decreto 310/2016, de 29 de julio, por el que se regulan las evaluaciones finales de Educación Secundaria Obligatoria y de Bachillerato.
-
 
 #### Segundo. Centros docentes españoles en el exterior.
 
@@ -81,13 +78,11 @@ En su virtud, resolvemos:
 
 4. La evaluación de Bachillerato organizada por la Universidad de Granada para los estudiantes de los centros españoles en Marruecos se realizará en los lugares que acuerde el órgano competente de esta universidad con la Consejería de Educación en Marruecos.
 
-
 #### Tercero. Programas educativos en el exterior.
 
 1. A los efectos de admisión a las enseñanzas universitarias oficiales de Grado y de conformidad con la disposición adicional tercera del Real Decreto 310/2016, de 29 de julio, el alumnado que desee acceder a la universidad española habiendo obtenido simultáneamente el título de Bachiller y el titulo equivalente de su propio sistema educativo en uno de los centros pertenecientes a los programas educativos del Ministerio de Educación y Formación Profesional en el exterior, podrá examinarse de materias de la evaluación de Bachillerato, atendiendo a la regulación específica de las universidades para la admisión de este tipo de alumnado.
 
 2. A estos efectos tendrán la consideración de programas educativos del Ministerio de Educación y Formación Profesional en el exterior los centros de titularidad mixta con participación del Estado español, secciones españolas y bilingües, y centros de convenio.
-
 
 #### Cuarto. Enseñanzas acogidas al acuerdo entre el Gobierno de España y el Gobierno de Francia relativo a la doble titulación de Bachiller y de Baccalauréat.
 
@@ -101,13 +96,11 @@ A estos efectos las Administraciones educativas deberán remitir a las universid
 
 4. El alumnado que, tras haber finalizado las enseñanzas de este programa, desee utilizar el título de Baccalauréat para acceder a estudios de grado en alguna de las universidades que, conforme a lo previsto en la disposición adicional tercera del Real Decreto 310/2016, de 29 de julio, vaya a utilizar en sus procedimientos de admisión la calificación obtenida en las materias correspondientes en la evaluación de Bachillerato, podrá requerir que a estos efectos le sean tenidas en cuenta las calificaciones obtenidas en las pruebas que hubiera realizado de dichas materias como parte de la evaluación de Bachillerato para el acceso a la Universidad en la Administración educativa en la que hubieran finalizado sus estudios.
 
-
 #### Quinto. Enseñanzas de Bachillerato Europeo.
 
 1. Los alumnos y alumnas que estén en posesión del título de Bachillerato Europeo podrán acceder a la Universidad española, en aplicación de lo convenido en el Estatuto de las Escuelas Europeas, hecho en Luxemburgo el 21 de junio de 1994.
 
 2. A efectos de admisión a las enseñanzas universitarias oficiales de Grado, de conformidad con el artículo 10 del Real Decreto 412/2014, de 6 de junio, por el que se establece la normativa básica de los procedimientos de admisión a las enseñanzas universitarias oficiales de Grado, las universidades podrán utilizar como criterio de valoración la conversión a escala española de las calificaciones de aquellas materias equivalentes a las del Bachillerato español obtenidas en las pruebas externas del Bachillerato europeo.
-
 
 #### Sexto. Estudiantes que se encuentren en posesión del Diploma de Bachillerato Internacional y los procedentes de los sistemas educativos de la Unión Europea y de otros países con convenio de reciprocidad en la materia.
 
@@ -123,7 +116,6 @@ A estos efectos las Administraciones educativas deberán remitir a las universid
 
 6. Las pruebas de admisión organizadas por la UNED, se celebrarán en los centros de examen de la UNED, de acuerdo con los criterios que esta determine. Asimismo, siempre que el número de estudiantes así lo justifique, la UNED podrá organizar las pruebas en las embajadas u oficinas diplomáticas de España en el extranjero, previo acuerdo con la embajada o representación diplomática de España en dicho país.
 
-
 #### Séptimo. Estudiantes procedentes de países de fuera de la Unión Europea sin convenio de reciprocidad en materia de admisión a las universidades.
 
 1. A los efectos de admisión a las enseñanzas universitarias oficiales de Grado y de conformidad con la disposición adicional tercera del Real Decreto 310/2016, de 29 de julio, los estudiantes procedentes de países de fuera de la Unión Europea que no tengan convenio de reciprocidad en materia de admisión a las universidades, podrán examinarse de materias de la evaluación de Bachillerato atendiendo a la regulación específica de las universidades para la admisión de este tipo de alumnado.
@@ -131,7 +123,6 @@ A estos efectos las Administraciones educativas deberán remitir a las universid
 2. Asimismo, las universidades podrán acordar con la UNED la gestión de sus procedimientos de admisión, que se realizarán de acuerdo con los criterios de valoración establecidos en el Real Decreto 412/2014, de 6 de junio.
 
 3. Las pruebas de admisión organizadas por la UNED, se celebrarán en los centros de examen de la UNED, de acuerdo con los criterios que esta determine. Asimismo, siempre que el número de estudiantes así lo justifique, la UNED podrá organizar las pruebas en las embajadas u oficinas diplomáticas de España en el extranjero, previo acuerdo con la embajada o representación diplomática de España en dicho país.
-
 
 #### Octavo. Educación a distancia.
 
@@ -141,17 +132,13 @@ A estos efectos las Administraciones educativas deberán remitir a las universid
 
 3. Estas pruebas se realizarán en los centros de examen de la UNED o en los lugares que acuerde el órgano competente de esta universidad. Asimismo, siempre que el número de estudiantes así lo justifique, la UNED podrá organizar la prueba en aquellos países en los que exista Consejería de Educación, u Oficina con funciones delegadas, en la embajada de España en dicho país.
 
-
 #### Disposición adicional única. Adaptación del procedimiento de realización de las pruebas a las condiciones sanitarias.
 
 1. Los órganos responsables de la realización material de las pruebas, teniendo en cuenta la situación generada por la evolución de la pandemia ocasionada por el COVID-19, velarán por que se dispongan los procedimientos necesarios para garantizar su normal celebración en las fechas previstas, con independencia de las medidas excepcionales que pudieran estar implantadas en ese momento en los respectivos lugares de celebración de las mismas.
 
 2. Cuando las pruebas deban tener lugar en países en los cuales estén en vigor medidas sanitarias excepcionales dictadas por sus autoridades que impidan su realización material en las condiciones habituales de presencialidad dentro del plazo previsto, los órganos responsables podrán, en ejercicio de sus competencias, establecer para la totalidad del alumnado inscrito en dichas pruebas un procedimiento virtual y fiable para su realización. En caso de que no se establezca un procedimiento virtual deberá en todo caso garantizarse la realización de las pruebas presenciales en condiciones de seguridad conforme a la normativa vigente, pudiendo justificadamente modificarse las condiciones habituales de presencialidad.
 
-
 #### Disposición final única. Efectos de la resolución.
-
-La presente resolución surtirá efectos desde el día siguiente al de su publicación en el «Boletín Oficial del Estado».
 
 El Secretario de Estado de Educación, José Manuel Bar Cendón.–El Secretario General de Universidades, José Manuel Pingarrón Carrazón.
 
@@ -160,7 +147,6 @@ ANEXO
 Centros docentes españoles en el exterior y programas educativos en el exterior
 
 Modalidades y materias sobre las que versarán las pruebas de Bachillerato
-
 
 **Bloque de asignaturas troncales generales**
 
@@ -181,7 +167,6 @@ Humanidades.
 Ciencias Sociales.
 
 – Matemáticas Aplicadas a las Ciencias Sociales II.
-
 
 **Bloque de asignaturas troncales de opción según modalidad**
 

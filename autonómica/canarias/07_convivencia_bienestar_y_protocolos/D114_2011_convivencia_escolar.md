@@ -155,8 +155,6 @@ el artículo 124 de la misma, regular la conviven-
 cia a través del proyecto educativo. Es función
 del profesorado la contribución a que las activida-
 des del centro se desarrollen en un clima de res-
-Boletín Oficial de Canarias núm. 108 14385 Jueves 2 de junio de 2011
-boc-a-2011-108-3000
 
 peto, de tolerancia, de participación y libertad pa-
 ra fomentar en el alumnado los valores de la ciu-
@@ -260,8 +258,6 @@ siguientes:
 a) La educación en el ejercicio de valores que fa-
 vorezcan la responsabilidad, la tolerancia, la igual -
 dad y el respeto. 
-Boletín Oficial de Canarias núm. 108 14386 Jueves 2 de junio de 2011
-boc-a-2011-108-3000
 
 b) El respeto por los derechos y deberes de todos
 los componentes de la comunidad educativa y la ga-
@@ -363,8 +359,6 @@ rios para llevar a cabo lo establecido en el presente De-
 creto, dentro de las disponibilidades presupuestarias. 
 e) La difusión de protocolos de actuación y ma-
 teriales de apoyo al personal docente y a los centros,
-Boletín Oficial de Canarias núm. 108 14387 Jueves 2 de junio de 2011
-boc-a-2011-108-3000
 
 así como la divulgación de campañas de sensibiliza-
 ción dirigidas al conjunto de la sociedad a través de
@@ -462,8 +456,6 @@ nores con incapacidad o de menos de 12 años, lo po-
 drán hacer sus familias. 
 Artículo 9.- Derecho a participar en el funciona-
 miento y en la vida del centro. 
-Boletín Oficial de Canarias núm. 108 14388 Jueves 2 de junio de 2011
-boc-a-2011-108-3000
 
 El alumnado tiene derecho a participar en la vi-
 da del centro y en su funcionamiento en los térmi-
@@ -570,8 +562,6 @@ se encuentre cursando o para acceder a estudios
 posteriores. 
 3. El alumnado de centros sostenidos con fondos pú-
 blicos, de educación primaria o educación secundaria
-Boletín Oficial de Canarias núm. 108 14389 Jueves 2 de junio de 2011
-boc-a-2011-108-3000
 
 obligatoria que como consecuencia de enfermedad o
 accidente tenga impedida su asistencia al centro edu-
@@ -669,8 +659,6 @@ personales, al desarrollo y resultado de su escolari-
 zación, así como a aquellas circunstancias cuyo co-
 nocimiento sea necesario para la educación y orien-
 tación del alumnado. 
-Boletín Oficial de Canarias núm. 108 14390 Jueves 2 de junio de 2011
-boc-a-2011-108-3000
 
 CAPÍTULO II
 DERECHOS Y DEBERES DE LAS FAMILIAS
@@ -767,8 +755,6 @@ ciones, así como a desarrollar su función docente en
 un ambiente educativo adecuado, donde sean respe-
 tados sus derechos, especialmente el referido a la in-
 tegridad y dignidad personal. 
-Boletín Oficial de Canarias núm. 108 14391 Jueves 2 de junio de 2011
-boc-a-2011-108-3000
 
 Artículo 26.- Derecho a la autonomía. 
 El profesorado tiene derecho a tomar las decisiones
@@ -864,8 +850,6 @@ y servicios
 Artículo 35.- Derecho al respeto. 
 El personal de administración y servicios tiene el
 derecho a recibir un trato adecuado, y a ser valora -
-Boletín Oficial de Canarias núm. 108 14392 Jueves 2 de junio de 2011
-boc-a-2011-108-3000
 
 do por la comunidad educativa y por la sociedad en
 general, en el ejercicio de sus funciones y a que sean
@@ -961,8 +945,6 @@ cional de la comunidad educativa que recoge los
 principios que fundamentan, dan sentido y orientan
 las decisiones que generan y vertebran los diferen -
 tes proyectos, planes y actividades del centro. 
-Boletín Oficial de Canarias núm. 108 14393 Jueves 2 de junio de 2011
-boc-a-2011-108-3000
 
 2. Además de lo previsto en el artículo 121.2 de
 la Ley Orgánica 2/2006, de 3 de mayo, recogerá los
@@ -1062,8 +1044,6 @@ sarrollo personal, escolar y social del alumnado.
 toría académica, en al ámbito del plan de acción tu-
 torial, la coordinación del profesorado que imparte
 docencia al grupo de alumnos o alumnas de su tuto-
-Boletín Oficial de Canarias núm. 108 14394 Jueves 2 de junio de 2011
-boc-a-2011-108-3000
 
 ría, actuando de interlocutor entre profesorado, alum-
 nado y familias o tutores legales. Las tutorías impul-
@@ -1162,8 +1142,6 @@ de convivencia.
 b) Garantizar por delegación de la dirección, las me-
 didas correctoras y el ejercicio de la mediación y los
 procedimientos que se lleven a cabo en el centro. 
-Boletín Oficial de Canarias núm. 108 14395 Jueves 2 de junio de 2011
-boc-a-2011-108-3000
 
 Artículo 53.- El Equipo de gestión de la
 convivencia. 
@@ -1263,8 +1241,6 @@ de los menores, respecto a conductas gravemente
 perjudiciales para las normas de convivencia en un
 centro, no generará la suspensión del procedimien -
 to disciplinario. 
-Boletín Oficial de Canarias núm. 108 14396 Jueves 2 de junio de 2011
-boc-a-2011-108-3000
 
 Artículo 57.- Criterios generales para la aplica-
 ción de medidas. 
@@ -1359,8 +1335,6 @@ i) La alarma social ocasionada por las conductas
 perturbadoras de la convivencia con especial aten-
 ción a aquellos actos que presenten características de
 acoso o intimidación a otro alumno o alumna.
-Boletín Oficial de Canarias núm. 108 14397 Jueves 2 de junio de 2011
-boc-a-2011-108-3000
 
 4. En el caso de la sustracción o deterioro inten-
 cionado de bienes o pertenencias del centro o de
@@ -1462,8 +1436,6 @@ gión, creencia, ideología o cualquier otra condición
 o circunstancia personal, económica o social, cuan-
 do no deba considerarse conducta que perjudique
 gravemente la convivencia. 
-Boletín Oficial de Canarias núm. 108 14398 Jueves 2 de junio de 2011
-boc-a-2011-108-3000
 
 f) La grabación, publicidad o difusión no autori-
 zada de imágenes de los miembros de la comunidad
@@ -1561,8 +1533,6 @@ sora y el alumno o alumna.
 f) Apercibimiento verbal con posterior comunica-
 ción a la jefatura de estudios y a sus familias en el
 caso de alumnado menor de edad. 
-Boletín Oficial de Canarias núm. 108 14399 Jueves 2 de junio de 2011
-boc-a-2011-108-3000
 
 g) Apercibimiento escrito con orientaciones para
 la superación del conflicto. 
@@ -1669,8 +1639,6 @@ puede ser impuesta sin autorización de los represen-
 tantes legales en el caso del alumnado menor de
 edad, y aceptada por el propio alumno o alumna si
 es mayor de edad. 
-Boletín Oficial de Canarias núm. 108 14400 Jueves 2 de junio de 2011
-boc-a-2011-108-3000
 
 d) Suspensión del derecho a beneficiarse de una me-
 dida de compensación de las establecidas en el cen-
@@ -1775,8 +1743,6 @@ concreción de este procedimiento en el centro.
 formal por las partes implicadas interrumpe los pla-
 zos establecidos para la incoación del procedimien-
 to disciplinario. 
-Boletín Oficial de Canarias núm. 108 14401 Jueves 2 de junio de 2011
-boc-a-2011-108-3000
 
 3. La Consejería competente en materia de edu-
 cación desarrollará las condiciones y requisitos pa-
@@ -1873,8 +1839,6 @@ rección del centro para resolver.
 Artículo 72.- Resolución del procedimiento. 
 1. El procedimiento finalizará mediante resolución
 de la dirección del centro que podrá contemplar la
-Boletín Oficial de Canarias núm. 108 14402 Jueves 2 de junio de 2011
-boc-a-2011-108-3000
 
 aplicación de medidas o el sobreseimiento del expe-
 diente. La resolución deberá producirse y notificar-
@@ -1979,8 +1943,6 @@ be aplicarse la medida más grave exclusivamente
 cuando haya resultado ineficaz la menos grave. 
 4. Queda excluida la aplicación del procedimien-
 to de conciliación en los siguientes supuestos: 
-Boletín Oficial de Canarias núm. 108 14403 Jueves 2 de junio de 2011
-boc-a-2011-108-3000
 
 a) Cuando la gravedad del daño causado aconseje
 la separación absoluta de la víctima y de su agresor. 
@@ -2079,8 +2041,6 @@ que a los alumnos y alumnas les reconocen las leyes.
 En defecto de normas de convivencia propias se
 aplicarán, en lo que proceda, las disposiciones esta-
 blecidas en el presente Decreto. 
-Boletín Oficial de Canarias núm. 108 14404 Jueves 2 de junio de 2011
-boc-a-2011-108-3000
 
 Disposición Adicional Tercera.- Adaptación a los
 centros docentes con alumnado mayor de edad. 
@@ -2188,8 +2148,6 @@ Los expedientes ya iniciados en la fecha de entra-
 da en vigor del presente Decreto continuarán hasta su
 total terminación de acuerdo con lo previsto en el De-
 creto 292/1995, de 3 de octubre, por el que se regulan
-Boletín Oficial de Canarias núm. 108 14405 Jueves 2 de junio de 2011
-boc-a-2011-108-3000
 
 los derechos y deberes del alumnado de los centros do-
 centes no universitarios de la Comunidad Autónoma
@@ -2235,5 +2193,3 @@ Paulino Rivero Baute.
 LA CONSEJERA DE EDUCACIÓN,
 UNIVERSIDADES, CULTURA Y DEPORTES,
 Milagros Luis Brito.
-Boletín Oficial de Canarias núm. 108 14406 Jueves 2 de junio de 2011
-boc-a-2011-108-3000

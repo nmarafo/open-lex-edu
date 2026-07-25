@@ -64,8 +64,6 @@ Mapa web
 
 Contacto
 
-Versión texto
-
 Inicio
 
 Archivo
@@ -82,13 +80,7 @@ Año 2009
 
 2009/096. Jueves 21 de Mayo de 2009
 
-762
-
-<p>Menú de búsqueda y navegación</p>
-
 Siguiente
-
-BOC Nº 096. Jueves 21 de Mayo de 2009 - 762
 
 II. AUTORIDADES Y PERSONAL - Oposiciones y concursos - Consejería de Presidencia, Justicia y Seguridad
 
@@ -145,9 +137,3 @@ EL CONSEJERO DE PRESIDENCIA,
 JUSTICIA Y SEGURIDAD,
 
 José Miguel Ruano León.
-
-© Gobierno de Canarias
-
-Aviso Legal
-
-Sugerencias y Reclamaciones

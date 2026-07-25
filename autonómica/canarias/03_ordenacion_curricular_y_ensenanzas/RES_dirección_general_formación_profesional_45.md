@@ -31,9 +31,6 @@ fuente_pdf_oficial: https://sede.gobiernodecanarias.org/boc/boc-a-2025-118-2219.
 
 # Resolución de 9 de junio de 2025, de la Dirección General de Formación Profesional y Enseñanzas de Régimen Especial, por la que se dictan instrucciones respecto al proceso de evaluación en los Ciclos Formativos (Grados C y D) y Cursos de Especialización (Grado E) del sistema de formación profesional que se imparten en la Comunidad Autónoma de Canarias a partir del curso escolar 2024/2025 (BOC nº 118, de 17 de junio).
 
-https://sede.gobiernodecanarias.org/boc
-boc-a-2025-118-2219
-Boletín Oficial de Canarias núm. 118 Martes 17 de junio de 202527363
 III. Otras Resoluciones
 Consejería de Educación, Formación Profesional, Actividad Física y Deportes
 2219 Dirección General de Formación Profesional y Enseñanzas de Régimen Especial.- 
@@ -75,9 +72,6 @@ regulados por la Ley Orgánica General del Sistema Educativo, de 3 de octubre de
 adelante 
 LOGSE), aún en vigor.
 
-https://sede.gobiernodecanarias.org/boc
-boc-a-2025-118-2219
-Boletín Oficial de Canarias núm. 118 Martes 17 de junio de 202527364
 Tercero.- Con la implantación del Sistema de Formación Profesional establecido por 
 la LOOIFP, desarrollado por el Real Decreto 659/2023, de 18 de julio, y una vez aprobadas 
 diversas Instrucciones para su implementación en el ámbito de nuestra Comunidad 
@@ -124,9 +118,6 @@ DGFPERE, de 10 de diciembre de 2024, por la que se
 dictan instrucciones y orientaciones para la implantación y desarrollo de la oferta en las 
 modalidades semipresencial y virtual de certificados profesionales de Grado C, ciclos 
 
-https://sede.gobiernodecanarias.org/boc
-boc-a-2025-118-2219
-Boletín Oficial de Canarias núm. 118 Martes 17 de junio de 202527365
 formativos de Grado D y cursos especialización de Grado E a partir del curso 2024/2025 
 en el ámbito de la Comunidad Autónoma de Canarias, regula, entre otros aspectos, la 
 evaluación en la empresa u organismo equiparado en las modalidades semipresencial y 
@@ -166,9 +157,6 @@ Oficial de Canarias, sin perjuicio de cualesquiera otros que se estime procedent
 Las Palmas de Gran Canaria, a 9 de junio de 2025.- La Directora General de Formación 
 Profesional y Enseñanzas de Régimen Especial, Carolina León Martínez.
 
-https://sede.gobiernodecanarias.org/boc
-boc-a-2025-118-2219
-Boletín Oficial de Canarias núm. 118 Martes 17 de junio de 202527366
 ANEXO I
 INSTRUCCIONES PARA LA EV ALUACIÓN DEL ALUMNADO DE LOS CICLOS 
 FORMATIVOS DE GRADO BÁSICO EN LA COMUNIDAD AUTÓNOMA DE CANARIAS 
@@ -207,9 +195,6 @@ requisito supondrá, para el alumnado, la imposibilidad de aplicar el sistema de
 continua en el ámbito o módulo donde no se haya alcanzado la asistencia mínima establecida. 
 En tal caso, se emplearán los sistemas de evaluación alternativos, de conformidad con lo 
 
-https://sede.gobiernodecanarias.org/boc
-boc-a-2025-118-2219
-Boletín Oficial de Canarias núm. 118 Martes 17 de junio de 202527367
 establecido en el Decreto 174/2018, de 3 de diciembre, de aprobación del Reglamento por 
 el que se regula la prevención, la intervención y el seguimiento del absentismo escolar y del 
 abandono escolar temprano en el ámbito de la Comunidad Autónoma de Canarias. 
@@ -246,9 +231,6 @@ d) Una sesión de evaluación final extraordinaria de ámbitos comunes y módulo
 pendientes y evaluación final ordinaria del módulo FCT.
 e) Una sesión de evaluación final extraordinaria del módulo FCT.
 
-https://sede.gobiernodecanarias.org/boc
-boc-a-2025-118-2219
-Boletín Oficial de Canarias núm. 118 Martes 17 de junio de 202527368
 1.2. Año académico 2025/2026.
 En el primer curso (LOOIFP):
 a) Una sesión de evaluación inicial.
@@ -284,9 +266,6 @@ a) Sesión de evaluación inicial:
 Al inicio del ciclo formativo de grado básico se realizará una evaluación inicial del 
 alumnado. El profesorado recogerá información sobre la situación de partida del alumnado, 
 
-https://sede.gobiernodecanarias.org/boc
-boc-a-2025-118-2219
-Boletín Oficial de Canarias núm. 118 Martes 17 de junio de 202527369
 sus características y necesidades, para adoptar las decisiones y medidas de apoyo y atención a 
 la diversidad que se consideren adecuadas.
 En esta sesión el profesorado encargado de la tutoría proporcionará al equipo docente 
@@ -323,9 +302,6 @@ el alumnado que tenga módulos profesionales y/o materias de los ámbitos pendie
 superar. El alumnado que haya superado todos los ámbitos en la evaluación final ordinaria 
 realizará actividades de ampliación.
 
-https://sede.gobiernodecanarias.org/boc
-boc-a-2025-118-2219
-Boletín Oficial de Canarias núm. 118 Martes 17 de junio de 202527370
 d) Sesión de evaluación final extraordinaria de primer curso (a partir del Curso 
 2024/2025).
 La evaluación final extraordinaria de primer curso se celebrará en el tercer trimestre, 
@@ -366,9 +342,6 @@ En ella se evaluarán y calificarán los ámbitos y módulos profesionales de se
 finalizados, así como, en su caso, los ámbitos y módulos profesionales pendientes de 
 superar de primer curso. En esta sesión se tomará la decisión sobre:
 
-https://sede.gobiernodecanarias.org/boc
-boc-a-2025-118-2219
-Boletín Oficial de Canarias núm. 118 Martes 17 de junio de 202527371
 • Alumnado que ha superado todos los módulos profesionales y todas las materias de 
 los ámbitos de Comunicación y ciencias sociales y de Ciencias aplicadas y, por tanto, titula 
 en Educación Secundaria Obligatoria y además obtiene el título de Técnico Básico en la 
@@ -405,9 +378,6 @@ o superior a cinco.
 3. La permanencia en el mismo curso se considerará una medida de carácter excepcional 
 y se tomará tras haber agotado las medidas ordinarias de refuerzo y apoyo para solventar las 
 
-https://sede.gobiernodecanarias.org/boc
-boc-a-2025-118-2219
-Boletín Oficial de Canarias núm. 118 Martes 17 de junio de 202527372
 dificultades de aprendizaje. El alumnado podrá permanecer cursando un ciclo de formación 
 profesional de grado básico durante un máximo de cuatro cursos académicos.
 4. El alumnado que promocione a segundo con ámbitos no superados deberá matricularse de 
@@ -450,9 +420,6 @@ curso, deberá programar las actividades de enseñanza y aprendizaje, así como 
 sistemas de evaluación que garanticen la adquisición de las competencias relativas a los 
 riesgos específicos y las medidas de prevención de riesgos laborales en las actividades 
 
-https://sede.gobiernodecanarias.org/boc
-boc-a-2025-118-2219
-Boletín Oficial de Canarias núm. 118 Martes 17 de junio de 202527373
 profesionales correspondientes al perfil profesional. Del mismo modo, todos aquellos 
 módulos profesionales que tengan incorporados resultados de aprendizaje relacionados 
 con la prevención de riesgos laborales priorizarán su impartición y aplicación con carácter 
@@ -495,9 +462,6 @@ formación de todos los ámbitos, módulos profesionales y proyecto en el centro
 10. El alumnado que no haya realizado durante el curso académico, total o parcialmente, 
 la FEOE, deberá realizarla o completarla en otro periodo.
 
-https://sede.gobiernodecanarias.org/boc
-boc-a-2025-118-2219
-Boletín Oficial de Canarias núm. 118 Martes 17 de junio de 202527374
 Sexta.- Evaluación de la formación en empresa u organismo equiparado.
 1. La evaluación de la FEOE en los ciclos formativos de grado básico se regirá conforme 
 a lo establecido en la instrucción undécima del Anexo I de la Resolución de 5 de noviembre 
@@ -540,9 +504,6 @@ artículo 6 del Decreto 9/2023, de 26 de enero, por el que se regula y establece
 de veintitrés Ciclos Formativos de Grado Básico en el ámbito de la Comunidad Autónoma 
 de Canarias.
 
-https://sede.gobiernodecanarias.org/boc
-boc-a-2025-118-2219
-Boletín Oficial de Canarias núm. 118 Martes 17 de junio de 202527375
 En las evaluaciones finales ordinarias de 1.º y 2.º curso será necesario superar todas las 
 materias para superar el ámbito.
 En las evaluaciones finales extraordinarias de 1.º y 2.º curso el ámbito se considerará 
@@ -585,9 +546,6 @@ Novena.- Titulación.
 de grado básico recibirán el título de Graduado en Educación Secundaria Obligatoria y el 
 título de Técnico Básico en la especialidad correspondiente.
 
-https://sede.gobiernodecanarias.org/boc
-boc-a-2025-118-2219
-Boletín Oficial de Canarias núm. 118 Martes 17 de junio de 202527376
 La finalización con éxito del periodo de formación en la empresa u organismo equiparado 
 es obligatoria para la obtención del Certificado Profesional o Título correspondiente.
 2. Las decisiones sobre la obtención del título serán adoptadas de forma colegiada por 
@@ -629,9 +587,6 @@ de superar alguno de los ámbitos comunes (Comunicación y Ciencias sociales y C
 aplicadas) o algún módulo profesional del sistema que se extingue, deberán matricularse 
 y cursar nuevamente todos los ámbitos conforme a los nuevos planes. No obstante, los 
 
-https://sede.gobiernodecanarias.org/boc
-boc-a-2025-118-2219
-Boletín Oficial de Canarias núm. 118 Martes 17 de junio de 202527377
 módulos profesionales y ámbitos comunes superados con anterioridad mantendrán la 
 calificación obtenida, y el alumnado los cursará con la finalidad de mejorar la calificación.
 4. Quienes únicamente tengan pendiente de superar el módulo de FCT del sistema que 
@@ -664,9 +619,6 @@ de formación profesional básica en centros educativos de la Comunidad Autónom
 Canarias, y que hayan obtenido el título de formación básica de las enseñanzas de formación 
 profesional establecidas en la Ley Orgánica 2/2006, de 3 de mayo, de Educación.
 
-https://sede.gobiernodecanarias.org/boc
-boc-a-2025-118-2219
-Boletín Oficial de Canarias núm. 118 Martes 17 de junio de 202527378
 ANEXO II
 INSTRUCCIONES PARA LA EV ALUACIÓN DEL ALUMNADO DE LOS GRADOS 
 D, NIVEL 2 (GRADO MEDIO) Y NIVEL 3 (GRADO SUPERIOR), EN LA COMUNIDAD 
@@ -710,9 +662,6 @@ evaluación final habrá de tener en cuenta la globalidad del ciclo.
 adquisición de los resultados de aprendizaje en las condiciones de calidad establecidas 
 en los elementos básicos del currículo, de acuerdo con los resultados de aprendizaje de 
 
-https://sede.gobiernodecanarias.org/boc
-boc-a-2025-118-2219
-Boletín Oficial de Canarias núm. 118 Martes 17 de junio de 202527379
 cada uno de los módulos profesionales, teniendo siempre en cuenta, como referente, la 
 globalidad de las competencias asociadas a la oferta formativa.
 6. La obtención de los resultados de aprendizaje se procurará tanto en el centro 
@@ -755,9 +704,6 @@ En el primer curso (
 LOOIFP):
 a) Una sesión de evaluación inicial.
 
-https://sede.gobiernodecanarias.org/boc
-boc-a-2025-118-2219
-Boletín Oficial de Canarias núm. 118 Martes 17 de junio de 202527380
 b) Dos sesiones de evaluación parciales.
 c) Una sesión de evaluación final de primero.
 En el segundo curso (Plan de estudios a extinguir Real Decreto 1147/2011, de 29 de 
@@ -792,9 +738,6 @@ a) Una sesión de evaluación inicial.
 b) Dos sesiones de evaluación parciales.
 c) Una sesión de evaluación final de primero.
 
-https://sede.gobiernodecanarias.org/boc
-boc-a-2025-118-2219
-Boletín Oficial de Canarias núm. 118 Martes 17 de junio de 202527381
 En el segundo curso (LOOIFP):
 a) Una sesión de evaluación inicial.
 b) Dos sesiones de evaluación parciales.
@@ -834,9 +777,6 @@ FEOE.
 Para el alumnado que no haya adquirido dichas competencias en el momento de la 
 primera evaluación parcial, se procederá conforme a lo establecido en la instrucción quinta.
 
-https://sede.gobiernodecanarias.org/boc
-boc-a-2025-118-2219
-Boletín Oficial de Canarias núm. 118 Martes 17 de junio de 202527382
 c) Sesión de evaluación final de primer curso.
 Se celebrará durante el tercer trimestre en la fecha que indique la resolución por la 
 que se establece el calendario escolar de cada curso. En ella se evaluarán y calificarán 
@@ -876,9 +816,6 @@ evaluación final de ciclo extraordinaria en el siguiente curso escolar.
 • Alumnado que ha agotado el número de repeticiones posibles y no puede continuar 
 estudiando el ciclo formativo.
 
-https://sede.gobiernodecanarias.org/boc
-boc-a-2025-118-2219
-Boletín Oficial de Canarias núm. 118 Martes 17 de junio de 202527383
 d) Sesión de evaluación final de ciclo extraordinaria.
 A partir del 1 de septiembre de 2026, aquel alumnado que solo tenga pendiente de 
 superar la FEOE podrá realizarla en un periodo excepcional al comienzo del siguiente 
@@ -954,9 +891,6 @@ evaluarán y calificarán los módulos profesionales pendientes de superar de se
 y, en su caso, de primer curso, y se tomará la decisión de acceso a los módulos Integración/
 Proyecto y FCT.
 
-https://sede.gobiernodecanarias.org/boc
-boc-a-2025-118-2219
-Boletín Oficial de Canarias núm. 118 Martes 17 de junio de 202527384
 d) Una sesión de evaluación final de ciclo. Al final del periodo de realización de los 
 módulos de Integración/Proyecto y FCT se realizará una sesión de evaluación final de los 
 mismos y, en su caso, de aquellos módulos cuya evaluación negativa no haya impedido el 
@@ -998,9 +932,6 @@ curso en los siguientes casos:
 • Alumnado que tenga uno o varios módulos profesionales pendientes, siempre y 
 cuando no supongan en su conjunto más del 20% de la carga horaria del primer curso.
 
-https://sede.gobiernodecanarias.org/boc
-boc-a-2025-118-2219
-Boletín Oficial de Canarias núm. 118 Martes 17 de junio de 202527385
 • Excepcionalmente, el equipo docente podrá decidir la promoción cuando se trate de 
 un solo módulo, aun cuando exceda el 20% establecido en el apartado anterior.
 Exclusivamente a efectos de la promoción regulada en esta instrucción, se equipararán 
@@ -1044,9 +975,6 @@ como finalidad la de verificar en el alumnado la adquisición de aquellas compet
 profesionales específicas y resultados de aprendizaje que no siempre pueden desarrollarse 
 de forma completa en el entorno educativo.
 
-https://sede.gobiernodecanarias.org/boc
-boc-a-2025-118-2219
-Boletín Oficial de Canarias núm. 118 Martes 17 de junio de 202527386
 2. El proceso evaluador debe permitir al profesorado valorar que el alumnado ha aplicado 
 los conocimientos adquiridos en el aula a situaciones reales, ha comprendido de manera 
 profunda y práctica las competencias profesionales asociadas al título, la importancia del 
@@ -1097,9 +1025,6 @@ equipo educativo.
 9. El alumnado que no realice o supere la FEOE deberá realizarla o completarla en otro 
 periodo.
 
-https://sede.gobiernodecanarias.org/boc
-boc-a-2025-118-2219
-Boletín Oficial de Canarias núm. 118 Martes 17 de junio de 202527387
 Séptima.- Calificación.
 1. La expresión de la calificación para cada módulo profesional responderá a lo establecido 
 en el artículo 18 del Real Decreto 659/2023, de 18 de julio, y será, consecuentemente, 
@@ -1137,9 +1062,6 @@ Comunidad Autónoma de Canarias.
 cabrá interponer recurso de alzada en el plazo de un mes ante la 
 DGFPERE.
 
-https://sede.gobiernodecanarias.org/boc
-boc-a-2025-118-2219
-Boletín Oficial de Canarias núm. 118 Martes 17 de junio de 202527388
 Novena.- Convocatorias y permanencia.
 1. El alumnado podrá permanecer cursando un ciclo formativo de grado medio o 
 superior durante un máximo de dos cursos académicos, consecutivos o no, más que la 
@@ -1180,9 +1102,6 @@ curso de todos los ciclos formativos. Durante dicho curso académico, para el se
 permanecerá vigente la ordenación de los ciclos formativos de grado medio y superior 
 previa a la entrada en vigor de la presente Resolución.
 
-https://sede.gobiernodecanarias.org/boc
-boc-a-2025-118-2219
-Boletín Oficial de Canarias núm. 118 Martes 17 de junio de 202527389
 2. En el curso académico 2024-2025, el alumnado matriculado en segundo curso 
 con módulos pendientes de primero que tenga pendiente de superación los módulos de 
 Formación y orientación laboral, Empresa e iniciativa emprendedora y/o Inglés, (código 
@@ -1226,9 +1145,6 @@ especifiquen, conforme a lo dispuesto en el siguiente apartado.
 riesgos laborales será expedido por la secretaría del centro docente en el que el alumno/a 
 se encuentre matriculado/a, con el visto bueno de la persona titular de la dirección. En los 
 
-https://sede.gobiernodecanarias.org/boc
-boc-a-2025-118-2219
-Boletín Oficial de Canarias núm. 118 Martes 17 de junio de 202527390
 centros de titularidad privada, este será visado por la persona titular de la dirección del centro 
 público al que esté adscrito. El certificado se emitirá, previa solicitud de la persona interesada, 
 una vez superado el ciclo formativo, conforme al modelo que figura en el Anexo VIII.
@@ -1242,9 +1158,6 @@ la Comunidad Autónoma de Canarias, el módulo profesional de Formación y Orien
 Laboral de los ciclos formativos de grado medio y grado superior de las enseñanzas de 
 formación profesional establecidas en la Ley Orgánica 2/2006, de 3 de mayo, de Educación.
 
-https://sede.gobiernodecanarias.org/boc
-boc-a-2025-118-2219
-Boletín Oficial de Canarias núm. 118 Martes 17 de junio de 202527391
 ANEXO III
 INSTRUCCIONES PARA LA EV ALUACIÓN DEL ALUMNADO DE LOS GRADOS E, 
 CURSOS DE ESPECIALIZACIÓN DE GRADO MEDIO (NIVEL 2) Y GRADO SUPERIOR 
@@ -1285,9 +1198,6 @@ módulos profesionales.
 b) En el caso de trabajar por módulos profesionales la evaluación final habrá de tener 
 en cuenta la globalidad del curso.
 
-https://sede.gobiernodecanarias.org/boc
-boc-a-2025-118-2219
-Boletín Oficial de Canarias núm. 118 Martes 17 de junio de 202527392
 5. Serán referentes de la evaluación los resultados de aprendizaje de cada uno de los 
 módulos profesionales, así como la competencia general del curso y las competencias 
 profesionales y para la empleabilidad, según lo establecido en el correspondiente currículo.
@@ -1329,9 +1239,6 @@ organización de los cursos de especialización autorizadas por la
 DGFPERE atendiendo a la 
 duración del Grado E.
 
-https://sede.gobiernodecanarias.org/boc
-boc-a-2025-118-2219
-Boletín Oficial de Canarias núm. 118 Martes 17 de junio de 202527393
 2. Desarrollo de las sesiones de evaluación:
 a) Sesión de evaluación inicial. Al comienzo del curso de especialización, el equipo 
 docente realizará una sesión de evaluación inicial en la que la tutora o el tutor informará 
@@ -1368,9 +1275,6 @@ módulos.
 • Alumnado que no titula en el curso de especialización, por no haber superado uno o 
 algunos módulos.
 
-https://sede.gobiernodecanarias.org/boc
-boc-a-2025-118-2219
-Boletín Oficial de Canarias núm. 118 Martes 17 de junio de 202527394
 Cuarta.- Acceso a la formación en empresa u organismo equiparado.
 1. Para acceder a la FEOE, en su caso, el alumnado deberá reunir los requisitos generales 
 de acceso para los Grados D.
@@ -1414,9 +1318,6 @@ Por otra parte, si un alumno o alumna hubiera realizado la estancia formativa en
 empresa u organismo equiparado y no la hubiera completado por cualquier motivo, debe 
 reflejarse el número de horas realizadas.
 
-https://sede.gobiernodecanarias.org/boc
-boc-a-2025-118-2219
-Boletín Oficial de Canarias núm. 118 Martes 17 de junio de 202527395
 En caso de haber sido concedida la exención de la Formación en empresa u organismo 
 equiparado, se hará constar únicamente el valor numérico.
 3. La superación de la FEOE supondrá que la calificación final de cada módulo profesional 
@@ -1452,9 +1353,6 @@ recibirá una certificación académica del centro.
 La finalización con éxito del periodo de formación en la empresa u organismo equiparado 
 es obligatoria para la obtención del Certificado Profesional o Título correspondiente.
 
-https://sede.gobiernodecanarias.org/boc
-boc-a-2025-118-2219
-Boletín Oficial de Canarias núm. 118 Martes 17 de junio de 202527396
 ANEXO IV
 INSTRUCCIONES PARA LA EV ALUACIÓN DEL ALUMNADO DE LOS GRADOS D 
 (GRADO MEDIO Y SUPERIOR) Y GRADOS E (CURSO DE ESPECIALIZACIÓN) 
@@ -1498,9 +1396,6 @@ actividades, trabajos, productos, participaciones en foros, entre otras, present
 plataforma virtual realizados a lo largo de la acción formativa y una prueba de evaluación 
 final de carácter presencial obligatoria.
 
-https://sede.gobiernodecanarias.org/boc
-boc-a-2025-118-2219
-Boletín Oficial de Canarias núm. 118 Martes 17 de junio de 202527397
 6. El alumnado incorporado una vez iniciado el curso, con posterioridad a la realización 
 de determinadas actividades de evaluación, o con módulos ya finalizados, tendrá acceso 
 a todo el material didáctico, debiendo realizar las actividades evaluables pendientes con 
@@ -1542,9 +1437,6 @@ virtual.
 1. Para los ciclos formativos de grado medio y superior en la modalidad semipresencial 
 y virtual se realizarán, al menos, las siguientes sesiones de evaluación:
 
-https://sede.gobiernodecanarias.org/boc
-boc-a-2025-118-2219
-Boletín Oficial de Canarias núm. 118 Martes 17 de junio de 202527398
 1.1. Año académico 2024/2025.
 En el primer curso (LOOIFP):
 a) Una sesión de evaluación inicial.
@@ -1579,9 +1471,6 @@ superar la
 FEOE podrá realizarla al comienzo del curso escolar. La evaluación se llevará a 
 cabo en una sesión de evaluación final de ciclo extraordinaria, una vez finalizada la FEOE.
 
-https://sede.gobiernodecanarias.org/boc
-boc-a-2025-118-2219
-Boletín Oficial de Canarias núm. 118 Martes 17 de junio de 202527399
 Para alumnado que durante el año académico 2026/2027 se encuentre repitiendo 
 con módulos profesionales del sistema que se extingue, deberá superarlos conforme al 
 currículo del plan de estudios a extinguir. Para este alumnado se mantendrán las sesiones 
@@ -1626,9 +1515,6 @@ precedentes. En este caso, el alumnado deberá estar matriculado del curso compl
 poder solicitar las convalidaciones que procedan y, en su caso, la exención de la 
 FEOE.
 
-https://sede.gobiernodecanarias.org/boc
-boc-a-2025-118-2219
-Boletín Oficial de Canarias núm. 118 Martes 17 de junio de 202527400
 Sexta.- Acceso a la formación en empresa u organismo equiparado.
 1. El alumnado que se encuentre cursando un Grado D en las modalidades semipresencial 
 y virtual podrá acumular la totalidad de las horas de la FEOE al final de la formación, en 
@@ -1671,9 +1557,6 @@ expresará de la siguiente manera:
 • Nota numérica (aplicándose la nota que corresponda).
 • Observaciones: pendiente de superar la formación en empresa.
 
-https://sede.gobiernodecanarias.org/boc
-boc-a-2025-118-2219
-Boletín Oficial de Canarias núm. 118 Martes 17 de junio de 202527401
 Si un alumno o alumna hubiera realizado la estancia formativa en la empresa u 
 organismo equiparado y no la hubiera completado por cualquier motivo, debe reflejarse el 
 número de horas realizadas.
@@ -1716,9 +1599,6 @@ procesos de evaluación de las enseñanzas de la Formación Profesional Específ
 o de anulación de matrícula deberá formularse con una antelación mínima de dos meses a 
 la prueba de evaluación final de carácter presencial obligatoria del mes de junio.
 
-https://sede.gobiernodecanarias.org/boc
-boc-a-2025-118-2219
-Boletín Oficial de Canarias núm. 118 Martes 17 de junio de 202527402
 Undécima.- Titulación y certificación.
 1. Las personas que cursen cualquier formación en modalidad semipresencial y virtual, 
 obtendrán las mismas titulaciones y certificaciones profesionales que la formación cursada 
@@ -1761,9 +1641,6 @@ ordenación académica.
 Por otro lado, si tuvieran superados módulos del sistema que se extingue, dichos 
 módulos se considerarán superados, en su caso, en el nuevo plan de estudios.
 
-https://sede.gobiernodecanarias.org/boc
-boc-a-2025-118-2219
-Boletín Oficial de Canarias núm. 118 Martes 17 de junio de 202527403
 De igual forma, si tuvieran superados los módulos de FOL y/o Empresa e iniciativa 
 emprendedora, se considerarán superados los módulos de Itinerario personal para la 
 empleabilidad I e Itinerario personal para la empleabilidad II, respectivamente. De igual 
@@ -1808,9 +1685,6 @@ de 2020, por la que se dictan instrucciones para la organización y funcionamien
 oferta de Formación Profesional Semipresencial en la Comunidad Autónoma de Canarias, 
 a partir del curso 2020-2021.
 
-https://sede.gobiernodecanarias.org/boc
-boc-a-2025-118-2219
-Boletín Oficial de Canarias núm. 118 Martes 17 de junio de 202527404
 ANEXO V
 V ALORACIÓN CONJUNTA DE LA ADQUISICIÓN DE COMPETENCIAS 
 RELATIV AS A LA PREVENCIÓN DE RIESGOS LABORALES

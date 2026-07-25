@@ -47,9 +47,6 @@ fuente_pdf_oficial: https://sede.gobiernodecanarias.org/boc/boc-a-2023-096-1555.
 
 # Decreto 103/2023, de 9 de mayo, por el que se establece la ordenación y el currículo del Bachillerato en la Comunidad Autónoma de Canarias.
 
-https://sede.gobiernodecanarias.org/boc
-boc-a-2023-096-1555
-Boletín Oficial de Canarias núm. 96 Jueves 18 de mayo de 202328395
 II. Autoridades y personal
 Nombramientos, situaciones e incidencias
 Otras Administraciones Públicas
@@ -75,7 +72,6 @@ Nefrología del Hospital Universitario de Canarias, con derecho a los emolumento
 según las disposiciones vigentes le corresponda.
 El presente nombramiento surtirá plenos efectos a partir de la toma de posesión por el 
 interesado, que deberá efectuarse en el plazo máximo de veinte días, a contar desde el día 
-siguiente a la publicación de la presente en el Boletín Oficial del Estado.
 Contra la presente Resolución, que pone fin a la vía administrativa, se podrá interponer 
 con carácter potestativo recurso de reposición, en el plazo de un mes, ante el Sr. Rector, 
 o bien, directamente, recurso contencioso-administrativo en el plazo de dos meses, de 

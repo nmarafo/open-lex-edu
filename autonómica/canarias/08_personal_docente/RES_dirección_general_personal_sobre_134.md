@@ -30,9 +30,6 @@ fuente_pdf_oficial: https://sede.gobiernodecanarias.org/boc/boc-a-2023-133-2237.
 
 # Resolución de 30 de junio de 2023, de la Dirección General de Personal, sobre la ordenación y gestión de determinadas listas de empleo, tras la entrada en vigor de la Ley Orgánica 3/2022, de 31 de marzo, de ordenación e integración de la Formación Profesional (BOC nº 133, de 10 de julio).
 
-https://sede.gobiernodecanarias.org/boc
-boc-a-2023-133-2237
-Boletín Oficial de Canarias núm. 133 Lunes 10 de julio de 202341267
 III. Otras Resoluciones
 Consejería de Educación, Universidades, Cultura y Deportes
 2237 Dirección General de Personal.- Resolución de 30 de junio de 2023, sobre la 
@@ -75,9 +72,6 @@ Tal previsión normativa justifica la aplicación de idéntico criterio al perso
 la finalización del curso académico 2022/2023, formen parte de listas de empleo para el 
 nombramiento de personal docente interino en las especialidades del Cuerpo de Profesores 
 
-https://sede.gobiernodecanarias.org/boc
-boc-a-2023-133-2237
-Boletín Oficial de Canarias núm. 133 Lunes 10 de julio de 202341268
 Técnicos de Formación Profesional que han sido integradas en el Cuerpo de Profesores 
 de Enseñanza Secundaria, en aquellos supuestos en los que no puedan presentarse a los 
 procedimientos selectivos de esa especialidad que sean convocados en el referido Cuerpo 
@@ -110,98 +104,71 @@ Código de la Especialidad Nombre de la especialidad
 Código
 Ministerio
 349 EQUIPOS ELECTRÓNICOS 590231
-355
 INSTALACIÓN  Y  MANTENIMIENTO  DE
 EQUIPOS TÉRMICOS Y DE FLUIDOS 590205
 348 INSTALACIONES ELECTROTÉCNICAS 590206
-334
 INSTALACIONES Y EQUIPOS DE CRÍA Y
 CULTIVO 590207
 356 LABORATORIO 590208
 339 MÁQUINAS, SERVICIOS Y PRODUCCIÓN 590210
-347
 OFICINA  DE PROYECTOS DE
 CONSTRUCCIÓN 590212
-335
 OFICINA  DE  PROYECTOS DE
 FABRICACIÓN MECÁNICA 590213
 338 OPERACIONES DE PROCESOS 590215
-336
 OPERACIONES  Y  EQUIPOS  DE
 ELABORACIÓN  DE  PRODUCTOS
 ALIMENTARIOS 590214
-346
 OPERACIONES  Y  EQUIPOS  DE
 PRODUCCIÓN AGRARIA 590216
-359
 PROCEDIMIENTOS  DE  DIAGNÓSTICO
 CLÍNICO Y ORTOPROTÉSICO 590219
-357
 PROCEDIMIENTOS  SANITARIOS  Y
 ASISTENCIALES 590220
 354 PROCESOS COMERCIALES 590221
-340
 PROCESOS  DE GESTIÓN
 ADMINISTRATIV A 590222
-337
 PRODUCCIÓN TEXTIL Y TRATAMIENTO
 FÍSICOQUÍMICOS 590224
 358 SERVICIOS A LA COMUNIDAD 590225
-352
 SISTEMAS  Y APLICACIONES
 INFORMÁTICAS 590227
-353
 TÉCNICAS  Y  PROCEDIMIENTOS  DE
 IMAGEN Y SONIDO 590229
 
-https://sede.gobiernodecanarias.org/boc
-boc-a-2023-133-2237
-Boletín Oficial de Canarias núm. 133 Lunes 10 de julio de 202341269
 Código de la Especialidad Nombre de la especialidad
 Código
 Ministerio
 349 EQUIPOS ELECTRÓNICOS 590231
-355
 INSTALACIÓN  Y  MANTENIMIENTO  DE
 EQUIPOS TÉRMICOS Y DE FLUIDOS 590205
 348 INSTALACIONES ELECTROTÉCNICAS 590206
-334
 INSTALACIONES Y EQUIPOS DE CRÍA Y
 CULTIVO 590207
 356 LABORATORIO 590208
 339 MÁQUINAS, SERVICIOS Y PRODUCCIÓN 590210
-347
 OFICINA  DE PROYECTOS DE
 CONSTRUCCIÓN 590212
-335
 OFICINA  DE  PROYECTOS DE
 FABRICACIÓN MECÁNICA 590213
 338 OPERACIONES DE PROCESOS 590215
-336
 OPERACIONES  Y  EQUIPOS  DE
 ELABORACIÓN  DE  PRODUCTOS
 ALIMENTARIOS 590214
-346
 OPERACIONES  Y  EQUIPOS  DE
 PRODUCCIÓN AGRARIA 590216
-359
 PROCEDIMIENTOS  DE  DIAGNÓSTICO
 CLÍNICO Y ORTOPROTÉSICO 590219
-357
 PROCEDIMIENTOS  SANITARIOS  Y
 ASISTENCIALES 590220
 354 PROCESOS COMERCIALES 590221
-340
 PROCESOS  DE GESTIÓN
 ADMINISTRATIV A 590222
-337
 PRODUCCIÓN TEXTIL Y TRATAMIENTO
 FÍSICOQUÍMICOS 590224
 358 SERVICIOS A LA COMUNIDAD 590225
-352
 SISTEMAS  Y APLICACIONES
 INFORMÁTICAS 590227
-353
 TÉCNICAS  Y  PROCEDIMIENTOS  DE
 IMAGEN Y SONIDO 590229
 Las Palmas de Gran Canaria, a 30 de junio de 2023.- El Director General de Personal, 

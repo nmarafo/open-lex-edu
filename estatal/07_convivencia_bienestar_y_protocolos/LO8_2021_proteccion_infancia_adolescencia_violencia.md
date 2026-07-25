@@ -34,9 +34,7 @@ fundamentos_derecho:
 
 # Ley Orgánica 8/2021 de Protección Integral a la Infancia y la Adolescencia frente a la Violencia (LOPIVI)
 
-
 **FELIPE VI**
-
 
 **REY DE ESPAÑA**
 
@@ -44,9 +42,7 @@ A todos los que la presente vieren y entendieren.
 
 Sabed: Que las Cortes Generales han aprobado y Yo vengo en sancionar la siguiente ley orgánica:
 
-
 ## PREÁMBULO
-
 
 **I**
 
@@ -83,7 +79,6 @@ Esta ley combate la violencia sobre la infancia y la adolescencia desde una apro
 Esta ley es propicia a la colaboración con las comunidades autónomas y evita el fraccionamiento operativo que venía existiendo en una materia tan importante. Abre paso a un nuevo paradigma de prevención y protección común en todo el territorio del Estado frente a la vulneración de derechos de las personas menores de edad y favorece que el conjunto de las administraciones públicas, en el marco de sus respectivas competencias, refuercen su implicación en un objetivo de alcance general como es la lucha contra la violencia sobre los niños, niñas y adolescentes, del todo consecuente con los compromisos internacionales del Estado.
 
 La ley, en definitiva, atiende al derecho de los niños, niñas y adolescentes de no ser objeto de ninguna forma de violencia, asume con rigor los tratados internacionales ratificados por España y va un paso más allá con su carácter integral en las materias que asocia a su marco de efectividad, ya sea en su realidad estrictamente sustantiva como en su voluntad didáctica, divulgativa y cohesionadora.
-
 
 **II**
 
@@ -239,7 +234,6 @@ La disposición final vigésima cuarta mandata al Gobierno, en el plazo de doce 
 
 Por último, la disposición final vigésima quinta regula la entrada en vigor de esta ley.
 
-
 **III**
 
 Durante la tramitación de la ley se ha recabado informe del Consejo Económico y Social, el Consejo Fiscal, la Agencia Española de Protección de Datos, el Consejo Nacional de la Discapacidad, el Consejo Estatal de Organizaciones no Gubernamentales de Acción Social y la Comisión para el Diálogo Civil con la Plataforma del Tercer Sector. Asimismo, se ha consultado a las comunidades autónomas, así como a las entidades locales a través de la Federación Española de Municipios y Provincias. Finalmente, la ley ha sido informada por el Consejo Territorial de Servicios Sociales y Sistema para la Autonomía y Atención a la Dependencia, así como por su Comisión Delegada, y por el Consejo Interterritorial del Sistema Nacional de Salud y su Comité Consultivo.
@@ -248,12 +242,9 @@ Esta ley es coherente con los principios de buena regulación establecidos en el
 
 Como se menciona, la reforma completa la incorporación al derecho español de los artículos 3, apartados 2 a 4, 6 y 9, letras a), b) y g) de la Directiva 2011/93/UE del Parlamento Europeo y del Consejo, de 13 de diciembre de 2011, relativa a la lucha contra los abusos sexuales y la explotación sexual de los menores y la pornografía infantil y por la que se sustituye la Decisión marco 2004/68/JAI del Consejo.
 
-
 ## TÍTULO PRELIMINAR
 
-
 **Disposiciones Generales**
-
 
 #### Artículo 1. Objeto.
 
@@ -265,13 +256,11 @@ En cualquier caso, se entenderá por violencia el maltrato físico, psicológico
 
 3. Se entiende por buen trato a los efectos de la presente ley aquel que, respetando los derechos fundamentales de los niños, niñas y adolescentes, promueve activamente los principios de respeto mutuo, dignidad del ser humano, convivencia democrática, solución pacífica de conflictos, derecho a igual protección de la ley, igualdad de oportunidades y prohibición de discriminación de los niños, niñas y adolescentes.
 
-
 #### Artículo 2. Ámbito de aplicación.
 
 1. La presente ley es de aplicación a las personas menores de edad que se encuentren en territorio español, con independencia de su nacionalidad y de su situación administrativa de residencia y a los menores de nacionalidad española en el exterior en los términos establecidos en el artículo 51.
 
 2. Las obligaciones establecidas en esta ley serán exigibles a todas las personas físicas o jurídicas, públicas o privadas, que actúen o se encuentren en territorio español. A estos efectos, se entenderá que una persona jurídica se encuentra en territorio español cuando tenga domicilio social, sede de dirección efectiva, sucursal, delegación o establecimiento de cualquier naturaleza en territorio español.
-
 
 #### Artículo 3. Fines.
 
@@ -304,7 +293,6 @@ l) Abordar y erradicar, desde una visión global, las causas estructurales que p
 m) Establecer los protocolos, mecanismos y cualquier otra medida necesaria para la creación de entornos seguros, de buen trato e inclusivos para toda la infancia en todos los ámbitos desarrollados en esta ley en los que la persona menor de edad desarrolla su vida. Se entenderá como entorno seguro aquel que respete los derechos de la infancia y promueva un ambiente protector físico, psicológico y social, incluido el entorno digital.
 
 n) Proteger la imagen del menor desde su nacimiento hasta después de su fallecimiento.
-
 
 #### Artículo 4. Criterios generales.
 
@@ -344,7 +332,6 @@ n) Asegurar el ejercicio del derecho a la participación de los niños, niñas y
 
 3. Las personas menores de edad que hayan cometido actos de violencia deberán recibir apoyo especializado, especialmente educativo, orientado a la promoción del buen trato y la prevención de conductas violentas con el fin de evitar la reincidencia.
 
-
 #### Artículo 5. Formación.
 
 1. Las administraciones públicas, en el ámbito de sus respectivas competencias, promoverán y garantizarán una formación especializada, inicial y continua en materia de derechos fundamentales de la infancia y la adolescencia a los y las profesionales que tengan un contacto habitual con las personas menores de edad. Dicha formación comprenderá como mínimo:
@@ -369,7 +356,6 @@ g) El impacto de los roles y estereotipos de género en la violencia que sufren 
 
 4. El diseño de las actuaciones formativas a las que se refiere este artículo tendrán especialmente en cuenta la perspectiva de género, así como las necesidades específicas de las personas menores de edad con discapacidad, con un origen racial, étnico o nacional diverso, en situación de desventaja económica, personas menores de edad pertenecientes al colectivo LGTBI o con cualquier otra opción u orientación sexual y/o identidad de género y personas menores de edad no acompañadas.
 
-
 #### Artículo 6. Colaboración y cooperación entre las administraciones públicas.
 
 1. Las distintas administraciones públicas, en el ámbito de sus respectivas competencias, deberán colaborar entre sí, en los términos establecidos en el artículo 141 de la Ley 40/2015, de 1 de octubre, de Régimen Jurídico del Sector Público, al objeto de lograr una actuación eficaz en los ámbitos de la prevención, detección precoz, protección y reparación frente a la violencia sobre los niños, niñas y adolescentes.
@@ -377,7 +363,6 @@ g) El impacto de los roles y estereotipos de género en la violencia que sufren 
 2. Las administraciones públicas promoverán la colaboración institucional a nivel nacional e internacional mediante acciones de intercambio de información, conocimientos, experiencias y buenas prácticas.
 
 3. Para garantizar la necesaria cooperación entre todas las administraciones públicas, los asuntos relacionados con la aplicación de esta ley serán abordados en el seno de la Conferencia Sectorial de infancia y adolescencia.
-
 
 #### Artículo 7. Conferencia Sectorial de infancia y adolescencia.
 
@@ -393,7 +378,6 @@ c) La participación de las administraciones públicas en la formación y evalua
 
 3. La Conferencia Sectorial aprobará su reglamento de organización y funcionamiento interno de acuerdo con lo establecido en el artículo 147.3 de la Ley 40/2015, de 1 de octubre, garantizándose la presencia e intervención de las comunidades autónomas, entidades locales y del Alto Comisionado para la lucha contra la pobreza infantil.
 
-
 #### Artículo 8. Colaboración público-privada.
 
 1. Las administraciones públicas promoverán la colaboración público-privada con el fin de facilitar la prevención, detección precoz e intervención en las situaciones de violencia sobre la infancia y la adolescencia, fomentando la suscripción de convenios con los medios de comunicación, los agentes sociales, los colegios profesionales, las confesiones religiosas, y demás entidades privadas que desarrollen su actividad en contacto habitual con niños, niñas y adolescentes o en su ámbito material de relación.
@@ -406,12 +390,9 @@ En especial, se fomentará la colaboración de las empresas de tecnologías de l
 
 4. En los casos de violencia sobre la infancia, la colaboración entre las administraciones públicas y los medios de comunicación pondrá especial énfasis en el respeto al honor, a la intimidad y a la propia imagen de la víctima y sus familiares, incluso en caso de fallecimiento del menor. En esta situación, la difusión de cualquier tipo de imagen deberá contar con la autorización expresa de herederos o progenitores.
 
-
 ## TÍTULO I
 
-
 **Derechos de los niños, niñas y adolescentes frente a la violencia**
-
 
 #### Artículo 9. Garantía de los derechos de los niños, niñas y adolescentes víctimas de violencia.
 
@@ -425,7 +406,6 @@ En especial, se fomentará la colaboración de las empresas de tecnologías de l
 
 A estos efectos, el Ministerio de Justicia y las comunidades autónomas con competencias transferidas, promoverán la adopción de convenios con otras administraciones públicas y con las entidades del tercer sector, para la eficaz coordinación de la ayuda a las víctimas.
 
-
 #### Artículo 10. Derecho de información y asesoramiento.
 
 1. Las administraciones públicas proporcionarán a los niños, niñas y adolescentes víctimas de violencia de acuerdo con su situación personal y grado de madurez, y, en su caso, a sus representantes legales, y a la persona de su confianza designada por él mismo, información sobre las medidas contempladas en esta ley que les sean directamente aplicables, así como sobre los mecanismos o canales de información o denuncia existentes.
@@ -434,7 +414,6 @@ A estos efectos, el Ministerio de Justicia y las comunidades autónomas con comp
 
 3. La información y el asesoramiento a la que se refieren los apartados anteriores deberá proporcionarse en un lenguaje claro y comprensible, en un idioma que puedan entender y mediante formatos accesibles en términos sensoriales y cognitivos y adaptados a las circunstancias personales de sus destinatarios, garantizándose su acceso universal. Cuando se trate de territorios con lenguas cooficiales el niño, niña o adolescente podrá recibir dicha información en la lengua cooficial que elija.
 
-
 #### Artículo 11. Derecho de las víctimas a ser escuchadas.
 
 1. Los poderes públicos garantizarán que las niñas, niños y adolescentes sean oídos y escuchados con todas las garantías y sin límite de edad, asegurando, en todo caso, que este proceso sea universalmente accesible en todos los procedimientos administrativos, judiciales o de otra índole relacionados con la acreditación de la violencia y la reparación de las víctimas. El derecho a ser oídos de los niños, niñas y adolescentes solo podrá restringirse, de manera motivada, cuando sea contrario a su interés superior.
@@ -442,7 +421,6 @@ A estos efectos, el Ministerio de Justicia y las comunidades autónomas con comp
 2. Se asegurará la adecuada preparación y especialización de profesionales, metodologías y espacios para garantizar que la obtención del testimonio de las víctimas menores de edad sea realizada con rigor, tacto y respeto. Se prestará especial atención a la formación profesional, las metodologías y la adaptación del entorno para la escucha a las víctimas en edad temprana.
 
 3. Los poderes públicos tomarán las medidas necesarias para impedir que planteamientos teóricos o criterios sin aval científico que presuman interferencia o manipulación adulta, como el llamado síndrome de alienación parental, puedan ser tomados en consideración.
-
 
 #### Artículo 12. Derecho a la atención integral.
 
@@ -474,7 +452,6 @@ i) Todas estas medidas deberán tener un enfoque inclusivo y accesible para que 
 
 5. Las administraciones sanitarias, educativas y los servicios sociales competentes garantizarán de forma universal y con carácter integral la atención temprana desde el nacimiento hasta los seis años de edad de todo niño o niña con alteraciones o trastornos en el desarrollo o riesgo de padecerlos en el ámbito de cobertura de la ley, así como el apoyo al desarrollo infantil.
 
-
 #### Artículo 13. Legitimación para la defensa de derechos e intereses en los procedimientos judiciales que traigan causa de una situación de violencia.
 
 1. Los niños, niñas y adolescentes víctimas de violencia están legitimados para defender sus derechos e intereses en todos los procedimientos judiciales que traigan causa de una situación de violencia.
@@ -484,7 +461,6 @@ Dicha defensa se realizará, con carácter general, a través de sus representan
 En el caso de los niños, niñas o adolescentes bajo la guarda y/o tutela de una entidad pública de protección que denuncian a esta o al personal a su servicio por haber ejercido violencia contra ellos, se entenderá, en todo caso, que existe un conflicto de intereses entre el niño y su tutor o guardador.
 
 2. Incoado un procedimiento penal como consecuencia de una situación de violencia sobre un niño, niña o adolescente, el Letrado de la Administración de Justicia derivará a la persona menor de edad víctima de violencia a la Oficina de Atención a la Víctima competente, cuando ello resulte necesario en atención a la gravedad del delito, la vulnerabilidad de la víctima o en aquellos casos en los que la víctima lo solicite, en cumplimiento de lo dispuesto en el artículo 10 de la Ley 4/2015, de 27 de abril.
-
 
 #### Artículo 14. Derecho a la asistencia jurídica gratuita.
 
@@ -500,17 +476,13 @@ En el caso de los niños, niñas o adolescentes bajo la guarda y/o tutela de una
 
 6. Las personas menores de edad víctimas de violencia podrán personarse como acusación particular en cualquier momento del procedimiento si bien ello no permitirá retrotraer ni reiterar las actuaciones ya practicadas antes de su personación, ni podrá suponer una merma del derecho de defensa del acusado.
 
-
 ## TÍTULO II
 
-
 **Deber de comunicación de situaciones de violencia**
-
 
 #### Artículo 15. Deber de comunicación de la ciudadanía.
 
 Toda persona que advierta indicios de una situación de violencia ejercida sobre una persona menor de edad, está obligada a comunicarlo de forma inmediata a la autoridad competente y, si los hechos pudieran ser constitutivos de delito, a las Fuerzas y Cuerpos de Seguridad, al Ministerio Fiscal o a la autoridad judicial, sin perjuicio de prestar la atención inmediata que la víctima precise.
-
 
 #### Artículo 16. Deber de comunicación cualificado.
 
@@ -528,7 +500,6 @@ Además, cuando de dicha violencia pudiera resultar que la salud o la seguridad 
 
 A estos efectos, las administraciones públicas competentes establecerán mecanismos adecuados para la comunicación de sospecha de casos de personas menores de edad víctimas de violencia.
 
-
 #### Artículo 17. Comunicación de situaciones de violencia por parte de niños, niñas y adolescentes.
 
 1. Los niños, niñas y adolescentes que fueran víctimas de violencia o presenciaran alguna situación de violencia sobre otra persona menor de edad, podrán comunicarlo, personalmente, o a través de sus representantes legales, a los servicios sociales, a las Fuerzas y Cuerpos de Seguridad, al Ministerio Fiscal o a la autoridad judicial y, en su caso, a la Agencia Española de Protección de Datos.
@@ -537,20 +508,17 @@ A estos efectos, las administraciones públicas competentes establecerán mecani
 
 3. Las administraciones públicas garantizarán la existencia y el apoyo a los medios electrónicos de comunicación, tales como líneas telefónicas gratuitas de ayuda a niños, niñas y adolescentes, así como su conocimiento por parte de la sociedad civil, como herramienta esencial a disposición de todas las personas para la prevención y detección precoz de situaciones de violencia sobre los niños, niñas y adolescentes.
 
-
 #### Artículo 18. Deberes de información de los centros educativos y establecimientos residenciales.
 
 1. Todos los centros educativos al inicio de cada curso escolar, así como todos los establecimientos en los que habitualmente residan personas menores de edad, en el momento de su ingreso, facilitarán a los niños, niñas y adolescentes toda la información, que, en todo caso, deberá estar disponible en formatos accesibles, referente a los procedimientos de comunicación de situaciones de violencia regulados por las administraciones públicas y aplicados en el centro o establecimiento, así como de las personas responsables en este ámbito. Igualmente, facilitarán desde el primer momento información sobre los medios electrónicos de comunicación, tales como las líneas telefónicas de ayuda a los niños, niñas y adolescentes.
 
 2. Los citados centros y establecimientos mantendrán permanentemente actualizada esta información en un lugar visible y accesible, adoptarán las medidas necesarias para asegurar que los niños, niñas y adolescentes puedan consultarla libremente en cualquier momento, permitiendo y facilitando el acceso a esos procedimientos de comunicación y a las líneas de ayuda existentes.
 
-
 #### Artículo 19. Deber de comunicación de contenidos ilícitos en Internet.
 
 1. Toda persona, física o jurídica, que advierta la existencia de contenidos disponibles en Internet que constituyan una forma de violencia contra cualquier niño, niña o adolescente, está obligada a comunicarlo a la autoridad competente y, si los hechos pudieran ser constitutivos de delito, a las Fuerzas y Cuerpos de Seguridad, al Ministerio Fiscal o a la autoridad judicial.
 
 2. Las administraciones públicas deberán garantizar la disponibilidad de canales accesibles y seguros de denuncia de la existencia de tales contenidos. Estos canales podrán ser gestionados por líneas de denuncia nacionales homologadas por redes internacionales, siempre en colaboración con las Fuerzas y Cuerpos de Seguridad.
-
 
 #### Artículo 20. Protección y seguridad.
 
@@ -560,16 +528,13 @@ A estos efectos, las administraciones públicas competentes establecerán mecani
 
 3. La autoridad judicial, de oficio o a instancia de parte, podrá acordar las medidas de protección previstas en la normativa específica aplicable en materia de protección a testigos, cuando lo estime necesario en atención al riesgo o peligro que derive de la formulación de denuncia conforme a los artículos anteriores.
 
-
 ## TÍTULO III
-
 
 **Sensibilización, prevención y detección precoz**
 
 CAPÍTULO I
 
 Estrategia para la erradicación de la violencia sobre la infancia y la adolescencia
-
 
 #### Artículo 21. Estrategia de erradicación de la violencia sobre la infancia y la adolescencia.
 
@@ -589,7 +554,6 @@ CAPÍTULO II
 
 Niveles de actuación
 
-
 #### Artículo 22. De la sensibilización.
 
 1. Las administraciones públicas promoverán, en el ámbito de sus competencias, campañas y acciones concretas de información evaluables y basadas en la evidencia, destinadas a concienciar a la sociedad acerca del derecho de los niños, niñas y adolescentes a recibir un buen trato. Dichas campañas incluirán medidas contra aquellas conductas, discursos y actos que favorecen la violencia sobre la infancia y la adolescencia en sus distintas manifestaciones, incluida la discriminación, la criminalización y el odio, con el objetivo de promover el cambio de actitudes en el contexto social.
@@ -597,7 +561,6 @@ Niveles de actuación
 Asimismo, las administraciones públicas impulsarán campañas específicas de sensibilización para promover un uso seguro y responsable de Internet, desde un enfoque de aprovechamiento de las oportunidades y su uso en positivo, incorporando la perspectiva y opiniones de los propios niños, niñas y adolescentes.
 
 2. Estas campañas se realizarán de modo accesible, diferenciando por tramos de edad, de manera que se garantice el acceso a las mismas a todas las personas menores de edad y especialmente, a aquellas que por razón de su discapacidad necesiten de apoyos específicos.
-
 
 #### Artículo 23. De la prevención.
 
@@ -637,11 +600,9 @@ m) Cualquier otra que se recoja en relación a los distintos ámbitos de actuaci
 
 4. Las actuaciones de prevención contra la violencia en niños, niñas y adolescentes, tendrán una consideración prioritaria. A tal fin, los Presupuestos Generales del Estado se acompañarán de documentación asociada al informe de impacto en la infancia, en la adolescencia y en la familia en la que los distintos centros gestores del presupuesto individualizarán las partidas presupuestarias consignadas para llevarlas a cabo.
 
-
 #### Artículo 24. Prevención de la radicalización en los niños, niñas y adolescentes.
 
 Las administraciones públicas competentes adoptarán las medidas de sensibilización, prevención y detección precoz necesarias para proteger a las personas menores de edad frente a los procesos en los que prime el aprendizaje de modelos de conductas violentas o de conductas delictivas que conducen a la violencia en cualquier ámbito en el que se manifiesten, así como para el tratamiento y asistencia de las mismas en los casos en que esta llegue a producirse. En todo caso, se proporcionará un tratamiento preventivo que incorpore las dimensiones de género y de edad.
-
 
 #### Artículo 25. De la detección precoz.
 
@@ -654,7 +615,6 @@ Las administraciones públicas competentes adoptarán las medidas de sensibiliza
 CAPÍTULO III
 
 Del ámbito familiar
-
 
 #### Artículo 26. Prevención en el ámbito familiar.
 
@@ -684,7 +644,6 @@ h) Proporcionar la orientación, formación y apoyos que precisen las familias d
 
 i) Desarrollar programas de formación y sensibilización a adultos y a niños, niñas y adolescentes, encaminados a evitar la promoción intrafamiliar del matrimonio infantil, el abandono de los estudios y la asunción de compromisos laborales y familiares no acordes con la edad.
 
-
 #### Artículo 27. Actuaciones específicas en el ámbito familiar.
 
 1. Las administraciones públicas impulsarán medidas de política familiar encaminadas a apoyar los aspectos cualitativos de la parentalidad positiva en progenitores o quienes ejerzan funciones de tutela, guarda o acogimiento. En particular, las destinadas a prevenir la pobreza y las causas de exclusión social, así como la conciliación de la vida familiar y laboral en el marco del diálogo social, a través de horarios y condiciones de trabajo que permitan atender adecuadamente las responsabilidades derivadas de la crianza, y el ejercicio igualitario de dichas responsabilidades por hombres y mujeres.
@@ -692,7 +651,6 @@ i) Desarrollar programas de formación y sensibilización a adultos y a niños, 
 Dichas medidas habrán de individualizarse en función de las distintas necesidades de apoyo específico que presente cada unidad familiar, con especial atención a las familias con niños, niñas o adolescentes con discapacidad, o en situación de especial vulnerabilidad. Y las dirigidas a prevenir la separación del entorno familiar.
 
 2. Las administraciones públicas elaborarán y/o difundirán materiales formativos, en formato y lenguaje accesibles en términos sensoriales y cognitivos, dirigidos al ejercicio positivo de las responsabilidades parentales o tutelares. Estos materiales contendrán formación en materia de derechos y deberes de los niños, niñas y adolescentes, e incluirán contenidos específicos referidos a combatir roles y estereotipos de género que sitúan a las niñas en plano de desigualdad, contenidos sobre la diversidad sexual y de género, como medida de prevención de conductas discriminatorias y violentas hacia los niños, niñas y adolescentes.
-
 
 #### Artículo 28. Situación de ruptura familiar.
 
@@ -703,7 +661,6 @@ Entre otras, se adoptarán las siguientes medidas:
 a) Impulso de los servicios de apoyo a las familias, los puntos de encuentro familiar y otros recursos o servicios especializados de titularidad pública que permitan una adecuada atención y protección a la infancia y adolescencia frente a la violencia.
 
 b) Impulso de los gabinetes psicosociales de los juzgados así como de servicios de mediación y conciliación, con pleno respeto a la autonomía de los progenitores y de los niños, niñas y adolescentes implicados.
-
 
 #### Artículo 29. Situación de violencia de género en el ámbito familiar.
 
@@ -723,13 +680,11 @@ CAPÍTULO IV
 
 Del ámbito educativo
 
-
 #### Artículo 30. Principios.
 
 El sistema educativo debe regirse por el respeto mutuo de todos los miembros de la comunidad educativa y debe fomentar una educación accesible, igualitaria, inclusiva y de calidad que permita el desarrollo pleno de los niños, niñas y adolescentes y su participación en una escuela segura y libre de violencia, en la que se garantice el respeto, la igualdad y la promoción de todos sus derechos fundamentales y libertades públicas, empleando métodos pacíficos de comunicación, negociación y resolución de conflictos.
 
 Los niños, niñas y adolescentes en todas las etapas educativas e independientemente de la titularidad del centro, recibirán, de forma transversal, una educación que incluya su participación, el respeto a los demás, a su dignidad y sus derechos, especialmente de aquellos menores que sufran especial vulnerabilidad por su condición de discapacidad o de algún trastorno del neurodesarrollo, la igualdad de género, la diversidad familiar, la adquisición de habilidades para la elección de estilos de vida saludables, incluyendo educación alimentaria y nutricional, y una educación afectivo sexual, adaptada a su nivel madurativo y, en su caso, discapacidad, orientada al aprendizaje de la prevención y evitación de toda forma de violencia y discriminación, con el fin de ayudarles a reconocerla y reaccionar frente a la misma.
-
 
 #### Artículo 31. De la organización educativa.
 
@@ -741,18 +696,15 @@ El Claustro del profesorado y el Consejo Escolar tendrán entre sus competencias
 
 3. Las administraciones educativas velarán por el cumplimiento y aplicación de los principios recogidos en este capítulo. Asimismo, establecerán las pautas y medidas necesarias para el establecimiento de los centros como entornos seguros y supervisarán que todos los centros, independientemente de su titularidad, apliquen los protocolos preceptivos de actuación en casos de violencia.
 
-
 #### Artículo 32. Supervisión de la contratación de los centros educativos.
 
 Las administraciones educativas y las personas que ostenten la dirección y titularidad de todos los centros educativos supervisarán la seguridad en la contratación de personal y controlarán la aportación de los certificados obligatorios, como son los recogidos en el capítulo II del título V, tanto del personal docente como del personal auxiliar, contrato de servicio, u otros profesionales que trabajen o colaboren habitualmente en el centro escolar de forma retribuida o no.
-
 
 #### Artículo 33. Formación en materia de derechos, seguridad y responsabilidad digital.
 
 Las administraciones públicas garantizarán la plena inserción del alumnado en la sociedad digital y el aprendizaje de un uso de los medios digitales que sea seguro y respetuoso con la dignidad humana, los valores constitucionales, los derechos fundamentales y, particularmente con el respeto y la garantía de la intimidad personal y familiar y la protección de datos personales, conforme a lo previsto en el artículo 83 de la Ley Orgánica 3/2018, de 5 de diciembre, de Protección de Datos Personales y garantía de los derechos digitales.
 
 Específicamente, las administraciones públicas promoverán dentro de todas las etapas formativas el uso adecuado de Internet.
-
 
 #### Artículo 34. Protocolos de actuación.
 
@@ -767,7 +719,6 @@ Asimismo, deberán contemplar actuaciones específicas cuando el acoso tenga com
 3. Las personas que ostenten la dirección o titularidad de los centros educativos se responsabilizarán de que la comunidad educativa esté informada de los protocolos de actuación existentes así como de la ejecución y el seguimiento de las actuaciones previstas en los mismos.
 
 4. Se llevarán a cabo actuaciones de difusión de los protocolos elaborados y formación especializada de los profesionales que intervengan, a fin de que cuenten con la formación adecuada para detectar situaciones de esta naturaleza.
-
 
 #### Artículo 35. Coordinador o Coordinadora de bienestar y protección.
 
@@ -807,13 +758,11 @@ CAPÍTULO V
 
 De la Educación Superior
 
-
 #### Artículo 36. Implicación de la Educación Superior en la erradicación de la violencia sobre la infancia y la adolescencia.
 
 1. Los centros de Educación Superior promoverán en todos los ámbitos académicos la formación, docencia e investigación en derechos de la infancia y adolescencia en general y en la lucha contra la violencia ejercida sobre los mismos en particular.
 
 2. En concreto, los ciclos formativos de grado superior, de grado y posgrado y los programas de especialización de las profesiones sanitarias, del ámbito social, del ámbito educativo, de Periodismo y Ciencias de la Información, del derecho, y de aquellas otras titulaciones conducentes al ejercicio de profesiones en contacto habitual con personas menores de edad, promoverán la incorporación en sus planes de estudios de contenidos específicos dirigidos a la prevención, detección precoz e intervención de los casos de violencia sobre la infancia y la adolescencia teniendo en cuenta la perspectiva de género.
-
 
 #### Artículo 37. Actuaciones del Consejo de Universidades en la lucha contra la violencia sobre la infancia y la adolescencia.
 
@@ -823,7 +772,6 @@ CAPÍTULO VI
 
 Del ámbito sanitario
 
-
 #### Artículo 38. Actuaciones en el ámbito sanitario.
 
 1. Las administraciones sanitarias, en el seno del Consejo Interterritorial del Sistema Nacional de Salud, promoverán e impulsarán actuaciones para la promoción del buen trato a la infancia y la adolescencia, así como para la prevención y detección precoz de la violencia sobre los niños, niñas y adolescentes, y de sus factores de riesgo, en el marco del protocolo común de actuación sanitaria previsto en el artículo 39.2.
@@ -832,7 +780,6 @@ Del ámbito sanitario
 
 3. Las administraciones sanitarias competentes facilitarán el acceso de los niños, niñas y adolescentes a la información, a los servicios de tratamiento y recuperación, garantizando la atención universal y accesible a todos aquellos que se encuentren en las situaciones de desprotección, riesgo y violencia a las que se refiere esta ley. Especialmente, se garantizará una atención a la salud mental integral reparadora y adecuada a su edad.
 
-
 #### Artículo 39. Comisión frente a la violencia en los niños, niñas y adolescentes.
 
 1. De acuerdo con lo previsto en el artículo 74 de la Ley 16/2003, de 28 de mayo, de cohesión y calidad del Sistema Nacional de Salud, el Consejo Interterritorial del Sistema Nacional de Salud acordará en el plazo de un año a contar desde la entrada en vigor de esta ley, la creación de una Comisión frente a la violencia en los niños, niñas y adolescentes. Dicha Comisión contará con expertos de los Institutos de Medicina Legal y Ciencias Forenses designados por el Ministerio de Justicia, junto con expertos de las profesiones sanitarias implicadas en la prevención, valoración y tratamiento de las víctimas de violencia contra los niños, niñas y adolescentes.
@@ -840,7 +787,6 @@ Del ámbito sanitario
 2. La Comisión frente a la violencia en los niños, niñas y adolescentes apoyará y orientará la planificación de las medidas con incidencia sanitaria contempladas en la ley, y elaborará en el plazo de seis meses desde su constitución un protocolo común de actuación sanitaria, que evalúe y proponga las medidas necesarias para la correcta aplicación de la ley y cualesquiera otras medidas que se estimen precisas para que el sector sanitario contribuya a la erradicación de la violencia sobre la infancia y la adolescencia. Dicho protocolo establecerá los procedimientos de comunicación de las sospechas o evidencias de casos de violencia sobre la infancia y la adolescencia a los servicios sociales correspondientes, así como la colaboración con el Juzgado de Guardia, las Fuerzas y Cuerpos de Seguridad, la entidad pública de protección a la infancia y el Ministerio Fiscal. Para la redacción del mencionado protocolo se procurará contar con la participación de otras administraciones públicas, instituciones y profesionales de los diferentes sectores implicados en la prevención, detección precoz, protección y reparación de la violencia sobre la infancia y la adolescencia.
 
 3. Asimismo, la citada Comisión emitirá un informe anual, que incluirá los datos disponibles sobre la atención sanitaria de las personas menores de edad víctimas de violencia, desagregados por sexo y edad, así como información sobre la implementación de las medidas con incidencia sanitaria contempladas en la ley. Este informe será remitido al Consejo Interterritorial del Sistema Nacional de Salud y al Observatorio Estatal de la infancia, y sus resultados serán incluidos en el informe anual de evaluación de la Estrategia de erradicación de la violencia sobre la infancia y la adolescencia previsto en el artículo 21.2.
-
 
 #### Artículo 40. Actuaciones de los centros y servicios sanitarios ante posibles situaciones de violencia.
 
@@ -852,7 +798,6 @@ CAPÍTULO VII
 
 Del ámbito de los servicios sociales
 
-
 #### Artículo 41. Actuaciones por parte de los servicios sociales.
 
 1. El personal funcionario que desarrolle su actividad profesional en los servicios sociales, en el ejercicio de sus funciones relativas a la protección de los niños, niñas y adolescentes, tendrá la condición de agente de la autoridad y podrá solicitar en su ámbito geográfico correspondiente la colaboración de las Fuerzas y Cuerpos de Seguridad, de los servicios sanitarios y de cualquier servicio público que fuera necesario para su intervención.
@@ -863,13 +808,11 @@ Sin perjuicio de lo anterior y del deber de comunicación cualificado previsto e
 
 3. Cuando la gravedad lo requiera, los y las profesionales de los servicios sociales o las Fuerzas y Cuerpos de Seguridad podrán acompañar a la persona menor de edad a un centro sanitario para que reciba la atención que precise, informando a sus progenitores o a quienes ejerzan funciones de tutela, guarda o acogimiento, salvo que se sospeche que la mencionada violencia haya sido ejercida por estos, en cuyo caso se pondrá en conocimiento del Ministerio Fiscal.
 
-
 #### Artículo 42. De los equipos de intervención.
 
 1. Las administraciones públicas competentes dotarán a los servicios sociales de atención primaria y especializada de profesionales y equipos de intervención familiar y con la infancia y la adolescencia, especialmente entrenados en la detección precoz, valoración e intervención frente a la violencia ejercida sobre las personas menores de edad.
 
 2. Los equipos de intervención de los servicios sociales que trabajen en el ámbito de la violencia sobre las personas menores de edad, deberán estar constituidos, preferentemente, por profesionales de la educación social, de la psicología y del trabajo social, y cuando sea necesario de la abogacía, especializados en casos de violencia sobre la infancia y la adolescencia.
-
 
 #### Artículo 43. Plan de intervención.
 
@@ -883,7 +826,6 @@ En aquellas situaciones que se consideren de especial gravedad por la tipología
 
 4. Los poderes públicos garantizarán a los niños, niñas y adolescentes víctimas de delitos violentos y, en todo caso, de delitos de naturaleza sexual, de trata o de violencia de género una atención integral para su recuperación a través de servicios especializados.
 
-
 #### Artículo 44. Seguimiento y registro de los casos de violencia sobre las personas menores de edad.
 
 1. Los servicios sociales de atención primaria deberán establecer, de conformidad con el procedimiento que se regule en cada comunidad autónoma, un sistema de seguimiento y registro de los casos de violencia sobre la infancia y la adolescencia en el que consten las notificaciones y comunicaciones recibidas, los casos confirmados y las distintas medidas puestas en marcha en relación con la intervención de dichos servicios sociales.
@@ -893,7 +835,6 @@ En aquellas situaciones que se consideren de especial gravedad por la tipología
 CAPÍTULO VIII
 
 De las nuevas tecnologías
-
 
 #### Artículo 45. Uso seguro y responsable de Internet.
 
@@ -908,7 +849,6 @@ Asimismo, fomentarán medidas de acompañamiento a las familias, reforzando y ap
 Asimismo, fomentarán en colaboración con el sector privado que el inicio y desarrollo de aplicaciones y servicios digitales tenga en cuenta la protección a la infancia y la adolescencia.
 
 4. Las campañas institucionales de prevención e información deben incluir entre sus objetivos la prevención sobre contenidos digitales sexuales y/o violentos que pueden influir y ser perjudiciales para la infancia y adolescencia.
-
 
 #### Artículo 46. Diagnóstico y control de contenidos.
 
@@ -926,13 +866,11 @@ CAPÍTULO IX
 
 Del ámbito del deporte y el ocio
 
-
 #### Artículo 47. Protocolos de actuación frente a la violencia en el ámbito deportivo y de ocio.
 
 Las administraciones públicas, en el ámbito de sus competencias, regularán protocolos de actuación que recogerán las actuaciones para construir un entorno seguro en el ámbito deportivo y de ocio y que deben seguirse para la prevención, detección precoz e intervención, frente a las posibles situaciones de violencia sobre la infancia y la adolescencia comprendidas en el ámbito deportivo y de ocio.
 
 Dichos protocolos deberán ser aplicados en todos los centros que realicen actividades deportivas y de ocio, independientemente de su titularidad y, en todo caso, en la Red de Centros de Alto Rendimiento y Tecnificación Deportiva, Federaciones Deportivas y Escuelas municipales.
-
 
 #### Artículo 48. Entidades que realizan actividades deportivas o de ocio con personas menores de edad de forma habitual.
 
@@ -956,7 +894,6 @@ CAPÍTULO X
 
 De las Fuerzas y Cuerpos de Seguridad
 
-
 #### Artículo 49. Unidades especializadas.
 
 1. Las Fuerzas y Cuerpos de Seguridad del Estado, de las comunidades autónomas y de las entidades locales actuarán como entornos seguros para la infancia y la adolescencia. Con tal finalidad, contarán con unidades especializadas en la investigación y prevención, detección y actuación de situaciones de violencia sobre la infancia y la adolescencia y preparadas para una correcta y adecuada intervención ante tales casos.
@@ -966,7 +903,6 @@ Las administraciones competentes adoptarán las medidas necesarias para garantiz
 2. Las distintas Fuerzas y Cuerpos de Seguridad que actúen en un mismo territorio colaborarán, dentro de su ámbito competencial, para lograr un eficaz desarrollo de sus funciones en el ámbito de la lucha contra la violencia ejercida sobre la infancia y la adolescencia, en los términos previstos en la Ley Orgánica 2/1986, de 13 de marzo, de Fuerzas y Cuerpos de Seguridad.
 
 3. Las administraciones públicas, en el ámbito de sus competencias, potenciarán la labor de las Fuerzas y Cuerpos de Seguridad mediante el desarrollo de herramientas tecnológicas interoperables que faciliten la investigación de los delitos.
-
 
 #### Artículo 50. Criterios de actuación.
 
@@ -996,7 +932,6 @@ CAPÍTULO XI
 
 De la Administración General del Estado en el Exterior
 
-
 #### Artículo 51. Embajadas y Consulados.
 
 1. Corresponde a las Embajadas y a las Oficinas Consulares de España en el exterior, de acuerdo con lo establecido en artículo 5 h) del Convenio de Relaciones Consulares de Viena y demás normativa internacional en este ámbito, la protección de los intereses de los menores de nacionalidad española que se encuentren en el extranjero. Dicha protección se guiará por los principios generales recogidas en la misma.
@@ -1006,7 +941,6 @@ De la Administración General del Estado en el Exterior
 CAPÍTULO XII
 
 De la Agencia Española de Protección de Datos
-
 
 #### Artículo 52. De la Agencia Española de Protección de Datos.
 
@@ -1020,12 +954,9 @@ De la Agencia Española de Protección de Datos
 
 5. Cuando la autoría de los hechos cometidos corresponda a una persona menor de dieciocho años, responderán solidariamente con ella de la multa impuesta sus progenitores, tutores, acogedores y guardadores legales o de hecho, por este orden, en razón al incumplimiento del deber de cuidado y vigilancia para prevenir la infracción administrativa que se impute a las personas menores de edad.
 
-
 ## TÍTULO IV
 
-
 **De las actuaciones en centros de protección**
-
 
 #### Artículo 53. Protocolos de actuación en los centros de protección de personas menores de edad.
 
@@ -1045,11 +976,9 @@ e) Deberán tener en cuenta las situaciones en las que es aconsejable el traslad
 
 2. Lo previsto en este artículo se entiende sin perjuicio de lo señalado en capítulo IV del título II de la Ley Orgánica 1/1996, de 15 de enero, y en el artículo 778 bis de la Ley 1/2000, de 7 de enero, de Enjuiciamiento Civil, con respecto a centros específicos de protección de menores con problemas de conducta.
 
-
 #### Artículo 54. Intervención ante casos de explotación sexual y trata de personas menores de edad sujetas a medidas de protección.
 
 Los protocolos a los que se refiere el artículo anterior deberán contener actuaciones específicas de prevención, detección precoz e intervención en posibles casos de abuso, explotación sexual y trata de seres humanos que tengan como víctimas a personas menores de edad sujetas a medida protectora y que residan en centros residenciales bajo su responsabilidad. Se tendrá muy especialmente en cuenta para la elaboración de estas actuaciones la perspectiva de género, así como las medidas necesarias de coordinación con el Ministerio Fiscal, las Fuerzas y Cuerpos de Seguridad y el resto de agentes sociales implicados.
-
 
 #### Artículo 55. Supervisión por parte del Ministerio Fiscal.
 
@@ -1057,16 +986,13 @@ Los protocolos a los que se refiere el artículo anterior deberán contener actu
 
 2. Las entidades públicas de protección a la infancia mantendrán comunicación de carácter permanente con el Ministerio Fiscal y, en su caso, con la autoridad judicial que acordó el ingreso, sobre las circunstancias relevantes que puedan producirse durante la estancia en un centro que afecte a la persona menor de edad, así como la necesidad de mantener el mismo.
 
-
 ## TÍTULO V
-
 
 **De la organización administrativa**
 
 CAPÍTULO I
 
 Registro Central de información
-
 
 #### Artículo 56. Registro Central de información sobre la violencia contra la infancia y la adolescencia.
 
@@ -1090,7 +1016,6 @@ CAPÍTULO II
 
 De la certificación negativa del Registro Central de Delincuentes Sexuales y de Trata de Seres Humanos
 
-
 #### Artículo 57. Requisito para el acceso a profesiones, oficios y actividades que impliquen contacto habitual con personas menores de edad.
 
 1. Será requisito para el acceso y ejercicio de cualesquiera profesiones, oficios y actividades que impliquen contacto habitual con personas menores de edad, el no haber sido condenado por sentencia firme por cualquier delito contra la libertad e indemnidad sexuales tipificados en el título VIII de la Ley Orgánica 10/1995, de 23 de noviembre, del Código Penal, así como por cualquier delito de trata de seres humanos tipificado en el título VII bis del Código Penal. A tal efecto, quien pretenda el acceso a tales profesiones, oficios o actividades deberá acreditar esta circunstancia mediante la aportación de una certificación negativa del Registro Central de delincuentes sexuales
@@ -1098,7 +1023,6 @@ De la certificación negativa del Registro Central de Delincuentes Sexuales y de
 2. A los efectos de esta ley, son profesiones, oficios y actividades que implican contacto habitual con personas menores de edad, todas aquellas, retribuidas o no, que por su propia naturaleza y esencia conllevan el trato repetido, directo y regular y no meramente ocasional con niños, niñas o adolescentes, así como, en todo caso, todas aquellas que tengan como destinatarios principales a personas menores de edad.
 
 3. Queda prohibido que las empresas y entidades den ocupación en cualesquiera profesiones, oficios y actividades que impliquen contacto habitual con personas menores de edad a quienes tengan antecedentes en el Registro Central de Delincuentes Sexuales y de Trata de Seres Humanos.
-
 
 #### Artículo 58. Consecuencias de la existencia de antecedentes en caso de personas trabajadoras o aquellas que realicen una práctica no laboral que conlleve el alta en la Seguridad Social.
 
@@ -1110,7 +1034,6 @@ De conformidad con lo anterior, el trabajador por cuenta ajena deberá comunicar
 
 Esta obligación de comunicación, así como las consecuencias de su incumplimiento, deberán incluirse también en los acuerdos que se suscriban entre las empresas y los beneficiarios de las prácticas no laborales que se formalicen al amparo del Real Decreto 1543/2011, de 31 de diciembre, por el que se regulan las prácticas no laborales en empresas.
 
-
 #### Artículo 59. Consecuencias del incumplimiento del requisito en caso de personas que realicen actividades en régimen de voluntariado.
 
 1. La existencia de antecedentes en el Registro Central de Delincuentes Sexuales y de Trata de Seres Humanos al inicio de la actividad en aquellas actividades de voluntariado que impliquen el contacto habitual con personas menores de edad obliga a la entidad de voluntariado a prescindir de forma inmediata del voluntario o voluntaria. A tal efecto, quien pretenda el acceso a tales actividades deberá acreditar esta circunstancia mediante la aportación de una certificación negativa del Registro Central de delincuentes sexuales.
@@ -1119,23 +1042,19 @@ Esta obligación de comunicación, así como las consecuencias de su incumplimie
 
 3. Las comunidades autónomas establecerán mediante norma con rango de ley el régimen sancionador correspondiente al incumplimiento de las obligaciones establecidas en el artículo 57.1.
 
-
 #### Artículo 60. Cancelación de antecedentes en el Registro Central de Delincuentes Sexuales y de Trata de Seres Humanos.
 
 1. Los antecedentes que figuren como cancelados en el Registro Central de Delincuentes Sexuales y de Trata de Seres Humanos no se tomarán en consideración a los efectos de limitar el acceso y ejercicio de profesiones, oficios y actividades que impliquen contacto habitual con menores de edad.
 
 2. Instada por la persona interesada la cancelación de antecedentes en el Registro Central de Delincuentes Sexuales y de Trata de Seres Humanos, y transcurrido el plazo máximo de tres meses sin que por la Administración se haya dictado resolución, la petición se entenderá desestimada por silencio administrativo, sin que sea de aplicación a estos supuestos lo establecido en el artículo 3 del Real Decreto 1879/1994, de 16 de septiembre, por el que se aprueban determinadas normas procedimentales en materia de justicia e interior.
 
-
 #### Disposición adicional primera. Dotación presupuestaria.
 
 El Estado y las comunidades autónomas, en el ámbito de sus respectivas competencias, deberán dotar a los Juzgados y Tribunales de los medios personales y materiales necesarios para el adecuado cumplimiento de las nuevas obligaciones legales. Asimismo, se deberá dotar a los Institutos de Medicina Legal, Oficinas de Atención a las Victimas, órganos técnicos que prestan asesoramiento pericial o asistencial y servicios sociales de los medios personales y materiales necesarios para el adecuado cumplimiento de los fines y obligaciones previstas en esta ley.
 
-
 #### Disposición adicional segunda. Soluciones habitacionales y de apoyo psicosocial.
 
 Las administraciones públicas, en el ámbito de sus competencias, priorizarán las soluciones habitacionales ante los desahucios de familias en el que alguno de sus miembros sea una persona menor de edad, y promoverán medidas de apoyo psicosocial con el fin de reducir el posible impacto emocional, sin perjuicio de la consideración de otras situaciones graves de vulnerabilidad.
-
 
 #### Disposición adicional tercera. Mejora de los datos de opinión pública.
 
@@ -1145,18 +1064,15 @@ La encuesta tendrá perspectiva de discapacidad y género; garantizará que los 
 
 Los resultados de este análisis deberán ser incluidos en el informe anual de evaluación de la Estrategia de erradicación de la violencia sobre la infancia y la adolescencia previsto en el artículo 21.2.
 
-
 #### Disposición adicional cuarta. Gastos de personal.
 
 Las actuaciones derivadas de la aplicación y desarrollo de esta ley que tengan incidencia sobre el personal de las administraciones públicas, se ajustarán a las normas básicas sobre gastos de personal que sean de aplicación.
-
 
 #### Disposición adicional quinta. Referencias normativas.
 
 Las referencias realizadas en el ordenamiento jurídico al Registro Central de Delincuentes Sexuales deberán entenderse realizadas al Registro Central de Delincuentes Sexuales y de Trata de Seres Humanos.
 
 Asimismo, las referencias realizadas en el ordenamiento jurídico al Registro Unificado de Maltrato Infantil deberán entenderse realizadas al Registro Unificado de Servicios Sociales sobre Violencia contra la infancia.
-
 
 #### Disposición adicional sexta. Procedimiento de comprobación automatizada de los antecedentes regulados en los artículos 57 a 60.
 
@@ -1165,7 +1081,6 @@ Asimismo, las referencias realizadas en el ordenamiento jurídico al Registro Un
 2. Asimismo, el Gobierno establecerá los mecanismos necesarios que permitan, para las personas que desarrollen actividades de voluntariado, la comprobación de la inexistencia de antecedentes mediante el cruce de la información recopilada por las asociaciones en las que desarrollen su actividad voluntaria y la recogida en el Registro Central de Delincuentes Sexuales y de Trata de Seres Humanos.
 
 3. En el mismo sentido, el Gobierno establecerá los mecanismos necesarios que permitan la comprobación automática de la inexistencia de antecedentes en el Registro Central de Delincuentes Sexuales y de Trata de Seres Humanos de aquellas personas que realicen prácticas no laborales que no precisen el alta en la Seguridad Social.
-
 
 #### Disposición adicional séptima. Comisión de seguimiento.
 
@@ -1177,21 +1092,17 @@ La Comisión de seguimiento podrá requerir la colaboración de todos los depart
 
 3. A la luz de dicho informe los Ministros de Justicia, Interior y de Derechos Sociales y Agenda 2030 promoverán, en su caso, las modificaciones que consideren convenientes.
 
-
 #### Disposición adicional octava. Acceso al territorio a los niños y niñas solicitantes de asilo.
 
 Las autoridades competentes garantizarán a los niños y niñas en necesidad de protección internacional el acceso al territorio y a un procedimiento de asilo con independencia de su nacionalidad y de su forma de entrada en España, en los términos establecidos en la Ley 12/2009, de 30 de octubre, reguladora del derecho de asilo y de protección subsidiaria.
-
 
 #### Disposición adicional novena. Seguridad Social de las personas acogedoras especializadas de dedicación exclusiva.
 
 Reglamentariamente el Gobierno determinará en el plazo de un año de la entrada en vigor de la presente ley orgánica, el alcance y condiciones de la incorporación a la Seguridad Social de las personas que sean designadas como acogedoras especializadas de dedicación exclusiva, previstas en el artículo 20.1 de la Ley Orgánica 1/1996, de 15 de enero, de Protección Jurídica del Menor, de modificación parcial del Código Civil y de la Ley de Enjuiciamiento Civil, en el Régimen que les corresponda, así como los requisitos y procedimiento de afiliación, alta y cotización.
 
-
 #### Disposición derogatoria única. Derogación normativa.
 
 Quedan derogadas todas las normas de igual o inferior rango en lo que contradigan o se opongan a lo dispuesto en esta ley.
-
 
 #### Disposición final primera. Modificación de la Ley de Enjuiciamiento Criminal, aprobada por Real Decreto de 14 de septiembre de 1882.
 
@@ -1313,7 +1224,6 @@ Catorce. Se adiciona un apartado 2 y se reenumeran los apartados del 2 al 6, que
 
 «2. Será de aplicación lo dispuesto en el artículo 703 bis en cuanto a la no intervención en el acto del juicio del testigo, cuando se haya practicado prueba preconstituida de conformidad con lo dispuesto en los artículos 449 bis y siguientes.»
 
-
 #### Disposición final segunda. Modificación del Código Civil, aprobado por Real Decreto de 24 de julio de 1889.
 
 Uno. Se modifica el artículo 92 del Código Civil, aprobado por Real Decreto de 24 de julio de 1889, que queda redactado como sigue:
@@ -1398,7 +1308,6 @@ c) Que hayan transcurrido doce meses desde que el menor abandonó voluntariament
 
 La guarda provisional cesará por las mismas causas que la tutela.»
 
-
 #### Disposición final tercera. Modificación de la Ley Orgánica 1/1979, de 26 de septiembre, General Penitenciaria.
 
 Se introduce un artículo sesenta y seis bis en la Ley Orgánica 1/1979, de 26 de septiembre, General Penitenciaria, con el siguiente contenido:
@@ -1408,7 +1317,6 @@ Se introduce un artículo sesenta y seis bis en la Ley Orgánica 1/1979, de 26 d
 1. La Administración penitenciaria elaborará programas específicos para las personas internas que hayan sido condenadas por delitos relacionados con la violencia contra la infancia y adolescencia, al objeto de desarrollar en ellos una actitud de respeto hacia los derechos de niños, niñas y adolescentes, en los términos que se determinen reglamentariamente.
 
 2. Las Juntas de Tratamiento valorarán, en las progresiones de grado, concesión de permisos y concesión de la libertad condicional, el seguimiento y aprovechamiento de dichos programas específicos por parte de las personas internas a que se refiere el apartado anterior.»
-
 
 #### Disposición final cuarta. Modificación de la Ley Orgánica 6/1985, de 1 de julio, del Poder Judicial.
 
@@ -1458,7 +1366,6 @@ Prestarán sus servicios en el Instituto Nacional de Toxicología y Ciencias For
 
 Prestarán servicio, en los supuestos y condiciones que se establezcan en las relaciones de puestos de trabajo de los citados organismos.»
 
-
 #### Disposición final quinta. Modificación de la Ley 34/1988, de 11 de noviembre, General de Publicidad.
 
 Se modifica el párrafo a) del artículo 3 de la Ley 34/1988, de 11 de noviembre, General de Publicidad, que queda redactado en los siguientes términos:
@@ -1468,7 +1375,6 @@ Se modifica el párrafo a) del artículo 3 de la Ley 34/1988, de 11 de noviembre
 Se entenderán incluidos en la previsión anterior los anuncios que presenten a las mujeres de forma vejatoria o discriminatoria, bien utilizando particular y directamente su cuerpo o partes del mismo como mero objeto desvinculado del producto que se pretende promocionar, bien su imagen asociada a comportamientos estereotipados que vulneren los fundamentos de nuestro ordenamiento coadyuvando a generar la violencia a que se refiere la Ley Orgánica 1/2004, de 28 de diciembre, de Medidas de Protección Integral contra la Violencia de Género.
 
 Asimismo, se entenderá incluida en la previsión anterior cualquier forma de publicidad que coadyuve a generar violencia o discriminación en cualquiera de sus manifestaciones sobre las personas menores de edad, o fomente estereotipos de carácter sexista, racista, estético o de carácter homofóbico o transfóbico o por razones de discapacidad.»
-
 
 #### Disposición final sexta. Modificación de la Ley Orgánica 10/1995, de 23 de noviembre, del Código Penal.
 
@@ -1716,7 +1622,6 @@ Treinta y cinco. Se modifica el apartado 4.º del artículo 515, que queda redac
 
 «4.º Las que fomenten, promuevan o inciten directa o indirectamente al odio, hostilidad, discriminación o violencia contra personas, grupos o asociaciones por razón de su ideología, religión o creencias, la pertenencia de sus miembros o de alguno de ellos a una etnia, raza o nación, su origen nacional, su sexo, edad, orientación o identidad sexual o de género, razones de género, de aporofobia o de exclusión social, situación familiar, enfermedad o discapacidad.»
 
-
 #### Disposición final séptima. Modificación de la Ley 1/1996, de 10 de enero, de asistencia jurídica gratuita.
 
 Se modifica el párrafo g) del artículo 2 de la Ley 1/1996, de 10 de enero, de asistencia jurídica gratuita que queda redactado como sigue:
@@ -1728,7 +1633,6 @@ Este derecho asistirá también a los causahabientes en caso de fallecimiento de
 A los efectos de la concesión del beneficio de justicia gratuita, la condición de víctima se adquirirá cuando se formule denuncia o querella, o se inicie un procedimiento penal, por alguno de los delitos a que se refiere esta letra, y se mantendrá mientras permanezca en vigor el procedimiento penal o cuando, tras su finalización, se hubiere dictado sentencia condenatoria. El beneficio de justifica gratuita se perderá tras la firmeza de la sentencia absolutoria, o del sobreseimiento definitivo o provisional por no resultar acreditados los hechos delictivos, sin la obligación de abonar el coste de las prestaciones disfrutadas gratuitamente hasta ese momento.
 
 En los distintos procesos que puedan iniciarse como consecuencia de la condición de víctima de los delitos a que se refiere esta letra y, en especial, en los de violencia de género, deberá ser el mismo abogado el que asista a aquella, siempre que con ello se garantice debidamente su derecho de defensa.»
-
 
 #### Disposición final octava. Modificación de la Ley Orgánica 1/1996, de 15 de enero, de Protección Jurídica del Menor, de modificación parcial del Código Civil y de la Ley de Enjuiciamiento Civil.
 
@@ -1946,7 +1850,6 @@ Se utilizarán preferentemente medios electrónicos.
 
 3. El personal del centro podrá realizar el registro de las pertenencias del menor, pudiendo retirarle aquellos objetos que se encuentren en su posesión que pudieran ser de ilícita procedencia, resultar dañinos para sí, para otros o para las instalaciones del centro o que no estén autorizados para menores de edad. Los registros materiales se deberán comunicar previamente al menor siempre que no pudieran efectuarse en su presencia.»
 
-
 #### Disposición final novena. Modificación de la Ley 1/2000, de 7 de enero, de Enjuiciamiento Civil.
 
 Se modifican los artículos 779 y 780 con la siguiente redacción:
@@ -1956,7 +1859,6 @@ Se modifican los artículos 779 y 780 con la siguiente redacción:
 Los procedimientos en los que se sustancie la oposición a las resoluciones administrativas en materia de protección de menores tendrán carácter preferente y deberán realizarse en el plazo de tres meses desde la fecha en que se hubieren iniciado. La acumulación de procedimientos no suspenderá el plazo máximo.
 
 Será competente para conocer de los mismos el Juzgado de Primera Instancia del domicilio de la Entidad Pública y, en su defecto o en los supuestos de los artículos 179 y 180 del Código Civil, el Tribunal del domicilio del adoptante.
-
 
 #### Artículo 780. Oposición a las resoluciones administrativas en materia de protección de menores.
 
@@ -1986,7 +1888,6 @@ Acordada la acumulación, se procederá según dispone el artículo 84, con la e
 
 Contra el auto que deniegue la acumulación podrán interponerse los recursos de reposición y apelación sin efectos suspensivos. Contra el auto que acuerde la acumulación no se dará recurso alguno.»
 
-
 #### Disposición final décima. Modificación de la Ley Orgánica 1/2004, de 28 de diciembre, de Medidas de Protección Integral contra la Violencia de Género.
 
 La Ley Orgánica 1/2004, de 28 de diciembre, de Medidas de Protección Integral contra la Violencia de Género queda modificada en los siguientes términos:
@@ -1994,7 +1895,6 @@ La Ley Orgánica 1/2004, de 28 de diciembre, de Medidas de Protección Integral 
 Se añade un apartado nuevo 4 al artículo 1, con la siguiente redacción:
 
 «4. La violencia de género a que se refiere esta Ley también comprende la violencia que con el objetivo de causar perjuicio o daño a las mujeres se ejerza sobre sus familiares o allegados menores de edad por parte de las personas indicadas en el apartado primero.»
-
 
 #### Disposición final undécima. Modificación de la Ley Orgánica 5/2000, de 12 de enero, reguladora de la responsabilidad penal de los menores.
 
@@ -2036,20 +1936,17 @@ Solo será admisible, con carácter excepcional, la sujeción de las muñecas de
 
 5. Las medidas de contención aplicadas en los centros deberán ser comunicadas con carácter inmediato al Juzgado de Menores y al Ministerio Fiscal. Asimismo, se anotarán en el Libro Registro de Incidencias, que será supervisado por parte de la dirección del centro y en el expediente individualizado del menor, que debe mantenerse actualizado.»
 
-
 #### Disposición final duodécima. Modificación del Real Decreto Legislativo 5/2000, de 4 de agosto, por el que se aprueba el texto refundido de la Ley sobre Infracciones y Sanciones en el Orden Social.
 
 Se añade un apartado 19 al artículo 8 del texto refundido de la Ley sobre Infracciones y Sanciones en el Orden Social, aprobado por Real Decreto Legislativo 5/2000, de 4 de agosto con la siguiente redacción:
 
 «19. Incumplir las obligaciones establecidas en el artículo 57.3 de la Ley Orgánica de Protección Integral de la Infancia y la Adolescencia frente a la Violencia.»
 
-
 #### Disposición final decimotercera. Modificación de la Ley 41/2002, de 14 de noviembre, básica reguladora de la autonomía del paciente y de derechos y obligaciones en materia de información y documentación clínica.
 
 Se añade un nuevo apartado 5 al artículo 15 de la Ley 41/2002, de 14 de noviembre, básica reguladora de la autonomía del paciente y de derechos y obligaciones en materia de información y documentación clínica, en los siguientes términos:
 
 «5. Cuando la atención sanitaria prestada lo sea a consecuencia de violencia ejercida contra personas menores de edad, la historia clínica especificará esta circunstancia, además de la información a la que hace referencia este apartado.»
-
 
 #### Disposición final decimocuarta. Modificación de la Ley 44/2003, de 21 de noviembre, de ordenación de las profesiones sanitarias.
 
@@ -2065,7 +1962,6 @@ Dos. Se añade una nueva disposición transitoria séptima con la siguiente reda
 
 Los procedimientos de expedición de títulos iniciados con anterioridad al 1 de enero de 2022 y aún en curso, seguirán siendo tramitados por el Ministerio de Universidades y, por tanto, los títulos serán expedidos por este último.»
 
-
 #### Disposición final decimoquinta. Modificación de la Ley 15/2015, de 2 de julio, de la Jurisdicción Voluntaria.
 
 Se modifica la especialidad 4.ª del apartado 2 del artículo 18 de la Ley 15/2015, de 2 de julio, de la Jurisdicción Voluntaria, que queda redactada como sigue:
@@ -2080,7 +1976,6 @@ Tanto el Ministerio Fiscal en su informe como la autoridad judicial en la resolu
 
 En lo no previsto en este precepto, se aplicará lo dispuesto en la Ley Orgánica 1/1996, de 15 de enero, de Protección Jurídica del Menor, de modificación parcial del Código Civil y de la Ley de Enjuiciamiento Civil.»
 
-
 #### Disposición final decimosexta. Modificación de la Ley Orgánica 7/2015, de 21 de julio, por la que se modifica la Ley Orgánica 6/1985, de 1 de julio, del Poder Judicial.
 
 Se modifica la disposición transitoria séptima de la Ley Orgánica 7/2015, de 21 de julio, por la que se modifica la Ley Orgánica 6/1985, de 1 de julio, del Poder Judicial, que queda redactada como sigue:
@@ -2089,11 +1984,9 @@ Se modifica la disposición transitoria séptima de la Ley Orgánica 7/2015, de 
 
 La especialidad en Medicina Legal y Forense, exigida en el artículo 475 de la Ley Orgánica 6/1985, de 1 de julio, del Poder Judicial, para acceder al Cuerpo de Médicos Forenses, no será requisito obligatorio hasta que así lo determine el Ministerio de Justicia, una vez concluyan su formación por el sistema de residencia al menos la primera promoción de estos especialistas y se haya desarrollado la vía extraordinaria de acceso a dicho título según el procedimiento regulado en el real decreto que desarrolle el acceso a esta especialidad por el sistema de residencia.»
 
-
 #### Disposición final decimoséptima. Creación del Consejo Estatal de Participación de la Infancia y de la Adolescencia.
 
 El Gobierno, en el plazo de seis meses desde la aprobación de esta ley, procederá a la creación del Consejo Estatal de Participación de la Infancia y de la Adolescencia, de modo que se garantice el ejercicio efectivo del derecho de participación en la formulación, aplicación y evaluación de planes, programas y políticas nacionales que afectan a los niños, niñas y adolescentes.
-
 
 #### Disposición final decimoctava. Título competencial.
 
@@ -2127,11 +2020,9 @@ La disposición final segunda se dicta al amparo del artículo 149.1.8.ª CE, qu
 
 La disposición final quinta se dicta al amparo del artículo 149.1.27.ª CE, que atribuye al Estado la competencia exclusiva sobre las normas básicas del régimen de prensa, radio y televisión y, en general, de todos los medios de comunicación social, sin perjuicio de las facultades que en su desarrollo y ejecución correspondan a las comunidades autónomas.
 
-
 #### Disposición final decimonovena. Carácter ordinario de determinadas disposiciones.
 
 La presente ley tiene el carácter de ley orgánica, a excepción de los artículos 5, 6, 7 y 8 del título preliminar; de los artículos 10, 11, 12, 13 y 14 del título I; de los títulos II, III y IV; de los artículos 57 a 60 del título V; así como de las disposiciones adicionales primera, segunda, tercera, cuarta, quinta, sexta y novena y de las disposiciones finales primera, segunda, quinta, séptima, novena, duodécima, decimotercera, decimocuarta, decimoquinta y decimonovena.
-
 
 #### Disposición final vigésima. Especialización de los órganos judiciales, de la fiscalía y de los equipos técnicos que presten asistencia especializada a los Juzgados y Tribunales.
 
@@ -2145,30 +2036,23 @@ b) Un proyecto de ley de modificación de la Ley 50/1981, de 30 de diciembre, re
 
 2. Las administraciones competentes regularán en idéntico plazo la composición y funcionamiento de los equipos técnicos que presten asistencia especializada a los órganos judiciales especializados en infancia y adolescencia, y la forma de acceso a los mismos de acuerdo con los criterios de especialización y formación recogidos en esta ley.
 
-
 #### Disposición final vigésima primera. Desarrollo normativo y ejecución de la ley.
 
 Se autoriza al Consejo de Ministros y a los titulares de los Ministerios de Derechos Sociales y Agenda 2030, Justicia e Interior, en el ámbito de sus competencias, para dictar cuantas disposiciones reglamentarias sean necesarias para el desarrollo de esta ley, así como para acordar las medidas necesarias para garantizar su efectiva ejecución e implantación.
-
 
 #### Disposición final vigésima segunda. Adaptación normativa.
 
 En el plazo de un año a partir de la entrada en vigor de la ley, se deberán adecuar a la misma las normas reguladoras estatales, autonómicas y locales que sean incompatibles con lo previsto en esta ley.
 
-
 #### Disposición final vigésima tercera. Incorporación de derecho de la Unión Europea.
 
 Mediante esta ley se completa la incorporación al Derecho español de los artículos 3, apartados 2 a 4, 6 y 9, párrafos a), b) y g) de la Directiva 2011/93/UE del Parlamento Europeo y del Consejo, de 13 de diciembre de 2011, relativa a la lucha contra los abusos sexuales y la explotación sexual de los menores y la pornografía infantil y por la que se sustituye la Decisión marco 2004/68/JAI del Consejo.
-
 
 #### Disposición final vigésima cuarta. Procedimiento para la determinación de edad.
 
 El Gobierno, en el plazo de doce meses desde la aprobación de esta ley, procederá al desarrollo normativo del procedimiento para la determinación de la edad de los menores, de modo que se garantice el cumplimiento de las obligaciones internacionales contraídas por España, así como la prevalencia del interés superior del menor, sus derechos y su dignidad.
 
-
 #### Disposición final vigésima quinta. Entrada en vigor.
-
-Esta ley entrará en vigor a los veinte días de su publicación en el «Boletín Oficial del Estado».
 
 No obstante, lo previsto en los artículos 5.3, 14.2, 14.3, 18, 35 y 48.1.b) y c) producirán efectos a los seis meses de la entrada en vigor de la ley.
 

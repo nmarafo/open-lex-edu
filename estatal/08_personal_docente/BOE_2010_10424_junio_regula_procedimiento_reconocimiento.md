@@ -53,7 +53,6 @@ CAPÍTULO I
 
 Normas comunes
 
-
 #### Artículo 1. Objeto de la orden.
 
 1. La presente orden tiene por objeto desarrollar el procedimiento de reconocimiento, control y seguimiento de las situaciones de incapacidad temporal (en adelante IT), riesgo durante el embarazo y riesgo durante la lactancia natural, y el procedimiento para la gestión del subsidio correspondiente en el Régimen Especial de la Seguridad Social de los Funcionarios Civiles del Estado.
@@ -62,13 +61,11 @@ Normas comunes
 
 3. Los partes serán editados por MUFACE y difundidos a través de su sede electrónica.
 
-
 #### Artículo 2. Expedición del parte médico inicial.
 
 1. Antes de alcanzarse el cuarto día hábil desde el comienzo de alguna de las situaciones previstas en el artículo 1.1, el médico de la Entidad o del Servicio Público de Salud a que se encuentre adscrito el mutualista a efectos de asistencia sanitaria, le reconocerá y expedirá el parte inicial para la situación de IT, de riesgo durante el embarazo o durante la lactancia natural en los tres ejemplares previstos al efecto.
 
 2. El médico entregará al mutualista todos los ejemplares debidamente cumplimentados en todos sus apartados, quien a su vez entregará al órgano de personal competente para expedir la correspondiente licencia el ejemplar para el órgano de personal y el ejemplar para MUFACE. El ejemplar para MUFACE le será enviado por el órgano de personal.
-
 
 #### Artículo 3. Solicitud de la licencia.
 
@@ -81,7 +78,6 @@ Normas comunes
 CAPÍTULO II
 
 Situación de IT
-
 
 #### Artículo 4. Parte médico inicial para el reconocimiento de la situación de IT.
 
@@ -97,7 +93,6 @@ d)	Señalar la duración probable del proceso patológico.
 
 e)	Indicar, sólo cuando sea preciso y por motivos estrictamente de mejor asistencia al paciente, la circunstancia excepcional que recomienda retrasar el plazo de expedición del parte sucesivo de confirmación de la baja sobre el plazo general establecido en la presente orden.
 
-
 #### Artículo 5. Partes de confirmación quincenales.
 
 1. El parte de confirmación de la baja se expedirá, con carácter general, a los quince días naturales contados a partir de la fecha de inicio del proceso patológico que figura en el parte médico inicial. En el caso de que tras la primera confirmación subsista la situación que haya motivado la baja inicial, se expedirán sucesivos partes de confirmación cada quince días naturales contados desde la fecha del inmediatamente anterior.
@@ -107,7 +102,6 @@ e)	Indicar, sólo cuando sea preciso y por motivos estrictamente de mejor asiste
 3. Si el parte de confirmación fuera expedido por el mismo médico responsable del parte inicial o de la última prórroga y no hubiera cambiado el diagnóstico, no será necesario transcribir de nuevo los datos médicos, tanto literales como codificados. En tales supuestos, el médico marcará la casilla «sin variaciones» que figura en el modelo del anexo I.
 
 4. A los efectos de lo previsto en el artículo 4.e), entre la expedición de dos partes sucesivos no se superará en ningún caso el plazo de treinta días naturales.
-
 
 #### Artículo 6. Informe adicional de ratificación para la concesión de la prórroga de IT.
 
@@ -121,7 +115,6 @@ b)	Se trata de un proceso que podría calificarse de incapacidad permanente. En 
 
 3. MUFACE trasladará el informe médico de ratificación al que se refiere este artículo y que le haya remitido el órgano de personal competente, a las Unidades Médicas de Seguimiento de las que disponga, con el fin de que estas realicen un reconocimiento al mutualista antes del cumplimiento del plazo de 365 días naturales desde el inicio de la situación de IT.
 
-
 #### Artículo 7. Informe adicional de ratificación previo a la extinción de la situación de IT.
 
 1. El parte de confirmación correspondiente al plazo en que se cumpla el decimosexto mes desde el inicio de la situación de IT deberá ir acompañado de un informe médico adicional que se extenderá en el modelo que se acompaña a la presente orden como anexo III y que:
@@ -134,7 +127,6 @@ b)	Señalará que se trata de un proceso que podría calificarse de incapacidad 
 
 3. Cumplido el plazo de setecientos treinta días naturales desde el inicio de la situación de IT, el médico que atienda al mutualista deberá emitir el parte de alta, especificando la causa de la misma.
 
-
 #### Artículo 8. Concesión de la licencia.
 
 1. Una vez recibido el parte médico inicial o de confirmación de la baja para la situación de IT, el órgano de personal dispondrá lo conveniente en cuanto a la concesión de la licencia inicial y de sus prórrogas, contando con las posibilidades de asesoramiento médico recogidas en el artículo 90.1 del Reglamento.
@@ -145,7 +137,6 @@ Si el resultado de estos informes de reconocimiento fuera desfavorable para la c
 
 3. Cuando el órgano de personal expida la última licencia antes de agotarse el plazo de los setecientos treinta días naturales, comunicará dicha circunstancia al mutualista y lo pondrá en conocimiento de MUFACE.
 
-
 #### Artículo 9. Transmisión de los datos esenciales de la situación de IT.
 
 1. Por cada licencia inicial y cada una de sus prórrogas, el órgano de personal, en un plazo no superior a tres días hábiles contados desde la fecha del acto de concesión de la licencia o de su prórroga, transmitirá al fichero automatizado de datos de salud de MUFACE los datos esenciales para el adecuado seguimiento de la situación de IT y la gestión del subsidio, en su caso.
@@ -153,7 +144,6 @@ Si el resultado de estos informes de reconocimiento fuera desfavorable para la c
 2. La introducción en el fichero de MUFACE de los datos indicados en el apartado anterior será realizada por el personal designado por cada órgano de personal competente. A tal efecto, el acceso de dicho personal al fichero se realizará mediante el uso de certificados digitales u otros modos de autenticación electrónica que garanticen la seguridad del acceso y la identificación unívoca del usuario.
 
 3. En el acceso y en la transmisión de datos de salud, así como de datos personales se garantizará el estricto cumplimiento de las condiciones establecidas en la Ley Orgánica 15/1999, de 13 de diciembre, de Protección de Datos de Carácter Personal.
-
 
 #### Artículo 10. Seguimiento de la situación de IT.
 
@@ -173,13 +163,11 @@ b)	Procesos cuya duración supere los tiempos estándar especificados para cada 
 
 4. El mutualista tendrá derecho a aportar cuanta documentación médica considere oportuna en todos los procesos de reconocimiento que realicen las Unidades Médicas de Seguimiento. MUFACE trasladará al órgano de personal y al mutualista el resultado del mismo, que tendrá carácter vinculante.
 
-
 #### Artículo 11. Parte médico de alta de una situación de IT.
 
 1. El parte médico de alta será expedido por el médico dependiente de la Entidad o del Servicio Público de Salud al que figure adscrito el mutualista a efectos de asistencia sanitaria, reunirá las características reseñadas en el artículo 2 indicando el motivo del alta y deberá ir precedido del reconocimiento médico del mutualista.
 
 2. La presentación por el mutualista de este parte ante el órgano de personal competente, que deberá realizarse antes de la finalización del día hábil siguiente al de su expedición, acreditará la finalización del proceso patológico que le impedía el normal desempeño de sus funciones, a los efectos de la finalización de la licencia por enfermedad, sin perjuicio de que pueda continuar recibiendo la asistencia sanitaria que precise.
-
 
 #### Artículo 12. Duración, prórrogas y recaída de una situación de IT.
 
@@ -199,7 +187,6 @@ CAPÍTULO III
 
 Subsidio por IT
 
-
 #### Artículo 13. Procedimiento de concesión del subsidio por IT.
 
 1. De conformidad con lo dispuesto en el artículo 94 del Reglamento, al inicio del cuarto mes de licencia por enfermedad o accidente, el mutualista dejará de percibir las retribuciones complementarias y comenzará a devengar el correspondiente subsidio económico por parte de MUFACE. La solicitud del subsidio se efectuará por el mutualista a MUFACE que la tramitará a través del Servicio Provincial al que el mutualista esté adscrito. Esta solicitud podrá ser cursada también a través del órgano de personal correspondiente.
@@ -211,7 +198,6 @@ Subsidio por IT
 4. Las retribuciones complementarias que deban ser abonadas por la unidad pagadora del centro de destino del mutualista se liquidarán por días durante el mes en que finalice el período de tres meses desde que se inició la ausencia en el puesto de trabajo que dio lugar al comienzo de la situación de IT.
 
 5. No obstante, no se devengará mensualidad del subsidio cuando sea efectiva la extinción, denegación, suspensión o anulación de la prestación económica por las causas establecidas en los artículos 92.4. y 93 del Reglamento.
-
 
 #### Artículo 14. Cálculo del subsidio por IT.
 
@@ -229,7 +215,6 @@ CAPÍTULO IV
 
 Situaciones de riesgo durante el embarazo y de riesgo durante la lactancia natural
 
-
 #### Artículo 15. Acreditación de las situaciones de riesgo.
 
 La acreditación de la existencia de situación de riesgo durante el embarazo o de riesgo durante la lactancia natural se documentará mediante el informe y certificado siguientes:
@@ -242,7 +227,6 @@ En dicho informe se hará constar, de acuerdo con la evaluación de riesgos en l
 
 Alternativamente, el certificado podrá ser emitido por el Servicio médico del centro si colabora en el Servicio de Prevención.
 
-
 #### Artículo 16. Expedición del parte de baja por situación de riesgo durante el embarazo y durante la lactancia natural.
 
 1. En el caso de riesgo durante el embarazo y durante la lactancia natural, en los tres primeros meses de licencia se expedirá, con carácter general, un único parte de baja. Si se hubiera previsto una duración del período de riesgo inferior a tres meses y se alcanzara esa fecha sin que desapareciera el riesgo, será necesario expedir un nuevo parte acreditativo de la situación y del nuevo período de duración probable. Si se alcanzara el comienzo del cuarto mes de prórroga de la licencia y continuara la situación de riesgo, se expedirá un parte con igual contenido en dicha fecha o en el día hábil posterior.
@@ -251,23 +235,19 @@ Alternativamente, el certificado podrá ser emitido por el Servicio médico del 
 
 3. El modelo de parte para el reconocimiento de estas situaciones es el establecido en el anexo I de esta orden.
 
-
 #### Artículo 17. Concesión de la licencia.
 
 1. Iniciado el procedimiento para la concesión de la licencia, según se prevé en el artículo 3, corresponderá a la mutualista aportar al expediente el informe médico a que se refiere el artículo 15.a). Corresponderá al órgano de personal incorporar el informe sobre riesgos emitido por el Servicio de Prevención a que se refiere el artículo 15.b).
 
 2. A la vista de los informes presentados por la mutualista, el órgano de personal podrá conceder o denegar motivadamente la licencia solicitada. En caso de resolver la concesión de la licencia deberá declarar que no procede el cambio de puesto de la mutualista porque no resulta reglamentaria, técnica u objetivamente posible o porque no puede razonablemente exigirse por motivos justificados.
 
-
 #### Artículo 18. Subsidios por riesgo durante el embarazo y por riesgo durante la lactancia natural.
 
 El procedimiento de concesión del subsidio por riesgo durante el embarazo y durante la lactancia natural se regirá por lo dispuesto en el artículo 13, con las especificaciones referidas a la cuantía de dicho subsidio establecidas en el artículo 101 del Reglamento.
 
-
 #### Artículo 19. Normas supletorias.
 
 En el marco de las previsiones del Reglamento, en lo no regulado expresamente para las situaciones de riesgo durante el embarazo y la lactancia natural, serán de aplicación las normas previstas para la situación de IT.
-
 
 #### Disposición adicional primera. Parte de maternidad.
 
@@ -275,11 +255,9 @@ En el marco de las previsiones del Reglamento, en lo no regulado expresamente pa
 
 2. El médico entregará al mutualista ambos ejemplares debidamente cumplimentados en todos sus apartados, quien a su vez hará llegar al órgano de personal competente para otorgar el correspondiente permiso, dentro de los cuatro días hábiles siguientes al parto o al comienzo del descanso, en el caso de que se inicie este con anterioridad al mismo.
 
-
 #### Disposición adicional segunda. Actualización de los modelos de partes.
 
 El contenido y diseño de los modelos de partes, informes médicos y modelos de solicitud que se regulan en la presente orden y se incluyen en sus anexos podrán ser actualizados mediante Resolución del Director General de MUFACE.
-
 
 #### Disposición adicional tercera. Tramitación y obtención de partes por medios electrónicos e informáticos.
 
@@ -287,35 +265,25 @@ El contenido y diseño de los modelos de partes, informes médicos y modelos de 
 
 2. Asimismo, mediante Resolución del Director General de MUFACE se establecerán los requisitos para la tramitación por medios electrónicos del procedimiento para la concesión del subsidio por IT a que se refiere el artículo 13, con las debidas garantías de seguridad, integridad y disponibilidad de las comunicaciones, así como los mecanismos necesarios para que los documentos y certificados que deben ser expedidos por el órgano de destino del mutualista sean sustituidos, previa autorización del mutualista, por certificados emitidos por medios electrónicos o por transmisiones de datos, de acuerdo con lo dispuesto en el artículo 2 del Real Decreto 1671/2009, de 6 de noviembre, por el que se desarrolla parcialmente la Ley 11/2007, de 22 de junio, de acceso electrónico de los ciudadanos a los Servicios Públicos.
 
-
 #### Disposición transitoria primera. Situaciones de IT iniciadas con anterioridad a la entrada en vigor de la presente orden.
 
 Las situaciones de IT iniciadas con anterioridad a la entrada en vigor de la presente orden podrán ser objeto de seguimiento y control en los términos establecidos en el artículo 10, con pleno respeto, en todo caso, de los requerimientos exigidos en cuanto al tratamiento de datos por la Ley Orgánica 15/1999, de 13 de diciembre.
 
-
 #### Disposición transitoria segunda. Utilización de partes anteriores.
-
-Los modelos de parte de enfermedad, accidente o riesgo durante el embarazo, así como el de maternidad aprobados por la Orden APU/2210/2003, de 17 de julio, podrán seguir siendo utilizados hasta que por Resolución de la Dirección General de MUFACE, publicada en el «Boletín Oficial del Estado», se disponga la utilización de los nuevos modelos aprobados por el artículo 1.2.
-
 
 #### Disposición derogatoria única. Derogación normativa.
 
 Quedan derogadas cuantas disposiciones de igual o inferior rango se opongan a la presente orden y en especial la Orden APU/2210/2003, de 17 de julio, por la que se regula el procedimiento de las situaciones de incapacidad temporal y de riesgo durante el embarazo, en el Régimen Especial de la Seguridad Social de los Funcionarios Civiles del Estado, con excepción de lo establecido en la disposición transitoria segunda de la presente orden.
 
-
 #### Disposición final primera. Normativa de aplicación general.
 
 Los preceptos de la presente orden son de aplicación general a todas las Administraciones Públicas, en relación con los funcionarios incluidos en el ámbito de aplicación de la Ley sobre Seguridad Social de los Funcionarios Civiles del Estado.
-
 
 #### Disposición final segunda. Desarrollo de la orden.
 
 Se habilita al Director General de MUFACE para dictar las resoluciones e instrucciones que sean necesarias para la aplicación y desarrollo de lo previsto en la presente orden.
 
-
 #### Disposición final tercera. Entrada en vigor.
-
-La presente orden entrará en vigor el día de su publicación en el «Boletín Oficial del Estado».
 
 Madrid, 30 de junio de 2010.–La Vicepresidenta Primera del Gobierno y Ministra de la Presidencia, María Teresa Fernández de la Vega Sanz.
 

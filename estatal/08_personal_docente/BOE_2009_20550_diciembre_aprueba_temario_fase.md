@@ -44,11 +44,9 @@ Por todo ello, considerando que la inspección educativa la ejercen las Administ
 
 En su virtud, consultadas las Comunidades Autónomas en el seno de la Conferencia Sectorial de Educación, dispongo:
 
-
 #### Artículo 1. Objeto de la norma.
 
 Por la presente Orden se establece el temario que ha de regir en las pruebas selectivas que se convoquen para el acceso al Cuerpo de Inspectores de Educación.
-
 
 #### Artículo 2. Temario para el acceso al Cuerpo de Inspectores de Educación.
 
@@ -58,20 +56,15 @@ La parte A del temario es la que figura en el Anexo I de esta Orden. Dicha parte
 
 La parte B del temario es la que figura en el Anexo II de esta Orden. A estos temas, las Administraciones educativas correspondientes podrán añadir hasta un máximo de 20 temas más. Dicha parte incluye temas de carácter específico que se refieren, entre otros aspectos, a las características propias de los niveles y etapas educativos, al desarrollo curricular y a la correspondiente metodología didáctica, a la organización y administración de los centros y a la legislación propia de la Administración educativa convocante.
 
-
 #### Disposición derogatoria única. Derogación de normativa.
 
 Queda derogada la Orden ECD/827/2004, de 22 de marzo, por la que se aprueba el contenido de los temarios de la fase de oposición del procedimiento selectivo de ingreso al Cuerpo de Inspectores de Educación.
-
 
 #### Disposición final primera. Título competencial.
 
 La presente Orden se dicta al amparo del artículo 149.1.18ª y 30ª de la Constitución, que atribuye al Estado la competencia para dictar las bases del régimen jurídico de las Administraciones Públicas y del régimen estatutario de sus funcionarios y la competencia de regulación de las condiciones de obtención, expedición y homologación de los títulos académicos y profesionales y normas básicas para el desarrollo del artículo 27 de la Constitución a fin de garantizar el cumplimiento de las obligaciones de los poderes públicos en esta materia.
 
-
 #### Disposición final segunda. Entrada en vigor.
-
-La presente Orden entrará en vigor el día siguiente al de su publicación en el Boletín Oficial del Estado.
 
 Madrid, 11 de diciembre de 2009.–El Ministro de Educación, Ángel Gabilondo Pujol.
 

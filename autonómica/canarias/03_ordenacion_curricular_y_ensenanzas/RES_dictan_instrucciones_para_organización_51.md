@@ -30,9 +30,6 @@ fuente_pdf_oficial: https://sede.gobiernodecanarias.org/boc/boc-a-2023-085-1356.
 
 # Resolución de 18 de abril de 2023, por la que se dictan instrucciones para la organización de los cursos de especialización en idiomas y se regula la planificación y autorización de su oferta y la admisión del alumnado en las Escuelas Oficiales de Idiomas de la Comunidad Autónoma de Canarias (BOC n.º 85, de 3 de mayo).
 
-https://sede.gobiernodecanarias.org/boc
-boc-a-2023-085-1356
-Boletín Oficial de Canarias núm. 85 Miércoles 3 de mayo de 202322072
 III. Otras Resoluciones
 Consejería de Educación, Universidades, Cultura y Deportes
 1356 Dirección General de Formación Profesional y Educación de Adultos.- Resolución 
@@ -71,9 +68,6 @@ Enseñanzas de idiomas de régimen especial reguladas por la Ley Orgánica 2/200
 mayo, de Educación, y se establecen las equivalencias entre las Enseñanzas de idiomas de 
 régimen especial reguladas en diversos planes de estudios y las de este real decreto, recoge 
 
-https://sede.gobiernodecanarias.org/boc
-boc-a-2023-085-1356
-Boletín Oficial de Canarias núm. 85 Miércoles 3 de mayo de 202322073
 en su artículo 6.5 que, de acuerdo con lo que establezcan las Administraciones educativas, 
 las Escuelas Oficiales de Idiomas podrán impartir cursos de los niveles Intermedio B1, 
 Intermedio B2, Avanzado C1 y Avanzado C2 para la actualización, perfeccionamiento y 
@@ -115,9 +109,6 @@ de cualquier otro procedimiento que garantice su conocimiento.
 Cuarto.- La Inspección de Educación velará por el cumplimiento de la presente 
 Resolución y asesorará a los centros en los asuntos que se requiera.
 
-https://sede.gobiernodecanarias.org/boc
-boc-a-2023-085-1356
-Boletín Oficial de Canarias núm. 85 Miércoles 3 de mayo de 202322074
 Contra la presente Resolución, que no pone fin a la vía administrativa, cabe interponer 
 en el plazo de un (1) mes, a contar desde el día siguiente al de su publicación en el Boletín 
 Oficial de Canarias, recurso de alzada ante la Viceconsejería de Educación, Universidades 
@@ -125,9 +116,6 @@ y Deportes, sin perjuicio de cualesquiera otros que se estime procedente interpo
 Santa Cruz de Tenerife, a 18 de abril de 2023.- La Directora General de Formación 
 Profesional y Educación de Adultos, Rosario Gañan Pérez.
 
-https://sede.gobiernodecanarias.org/boc
-boc-a-2023-085-1356
-Boletín Oficial de Canarias núm. 85 Miércoles 3 de mayo de 202322075
 ANEXO
 INSTRUCCIONES PARA LA ORGANIZACIÓN DE LOS CURSOS DE 
 ESPECIALIZACIÓN EN IDIOMAS Y PARA LA PLANIFICACIÓN Y AUTORIZACIÓN 
@@ -154,9 +142,6 @@ SUMARIO:
 5.6. Alumnado con discapacidad.
 Apéndice: catálogo de cursos de especialización en idiomas.
 
-https://sede.gobiernodecanarias.org/boc
-boc-a-2023-085-1356
-Boletín Oficial de Canarias núm. 85 Miércoles 3 de mayo de 202322076
 1.- Objeto y ámbito de aplicación.
 La presente Resolución tiene por objeto dictar instrucciones para la organización de los 
 cursos de especialización en idiomas, así como regular la planificación y autorización de su 
@@ -193,9 +178,6 @@ Los cursos ofertados en modalidad presencial se impartirán en la Escuela Oficia
 Idiomas donde se encuentra matriculado el alumnado o, dado el caso, en un aula adscrita a 
 dicha Escuela Oficial de Idiomas.
 
-https://sede.gobiernodecanarias.org/boc
-boc-a-2023-085-1356
-Boletín Oficial de Canarias núm. 85 Miércoles 3 de mayo de 202322077
 Los cursos ofertados en modalidad semipresencial combinarán una parte presencial, 
 que se impartirá en la Escuela Oficial de Idiomas donde se encuentra matriculado el 
 alumnado o, dado el caso, un aula adscrita, y una parte en línea que se impartirá a través 
@@ -378,9 +360,6 @@ puede ser comprobada la autenticidad de esta copia, mediante el número de
 documento electrónico siguiente:
  0byEUTn-pp7TheOBbL4IY3RtZMTdRKdCp
 
-https://sede.gobiernodecanarias.org/boc
-boc-a-2023-085-1356
-Boletín Oficial de Canarias núm. 85 Miércoles 3 de mayo de 202322078
 Las fechas de inicio y finalización de los cursos de especialización, tanto anuales como 
 cuatrimestrales, se ajustarán a lo establecido en la resolución anual de la Dirección General 
 de Formación Profesional y Educación de Adultos sobre organización, funcionamiento y 
@@ -420,9 +399,6 @@ Una vez analizadas las necesidades y demandas específicas de formación en idio
 de su entorno, los centros diseñarán la oferta de cursos de especialización ateniéndose al 
 número de unidades que la Dirección General de Formación Profesional y Educación de 
 
-https://sede.gobiernodecanarias.org/boc
-boc-a-2023-085-1356
-Boletín Oficial de Canarias núm. 85 Miércoles 3 de mayo de 202322079
 Adultos establezca para cada Escuela Oficial de Idiomas en función de la tipología de 
 centro y/o cualquier otro criterio que considere oportuno.
 Las direcciones de los centros remitirán a la Dirección General de Formación 
@@ -461,9 +437,6 @@ publicará la oferta de cursos de especialización de todas las Escuelas Oficial
 la Comunidad Autónoma de Canarias para su adecuada divulgación antes de que comience 
 el proceso de admisión del alumnado.
 
-https://sede.gobiernodecanarias.org/boc
-boc-a-2023-085-1356
-Boletín Oficial de Canarias núm. 85 Miércoles 3 de mayo de 202322080
 4.3. Características de los proyectos.
 Los proyectos de los cursos de especialización que remitan las direcciones de las 
 Escuelas Oficiales de Idiomas a la Dirección General de Formación Profesional y Educación 
@@ -499,9 +472,6 @@ nacional.
 • Título de las enseñanzas del sistema educativo que sea declarado equivalente a los 
 títulos de las enseñanzas de idiomas de régimen especial.
 
-https://sede.gobiernodecanarias.org/boc
-boc-a-2023-085-1356
-Boletín Oficial de Canarias núm. 85 Miércoles 3 de mayo de 202322081
 • Alguna de las certificaciones de idiomas de otras instituciones y organismos con 
 validez reconocida por la Consejería de Educación, Universidades, Cultura y Deportes en 
 el ámbito de la Comunidad Autónoma de Canarias.
@@ -536,9 +506,6 @@ c) Criterios de prioridad para el acceso a cursos destinados específicamente a 
 1. Personal docente en activo en centros públicos de la Comunidad Autónoma de 
 Canarias.
 
-https://sede.gobiernodecanarias.org/boc
-boc-a-2023-085-1356
-Boletín Oficial de Canarias núm. 85 Miércoles 3 de mayo de 202322082
 2. Personal integrante de las listas de empleo público docentes de la Comunidad 
 Autónoma de Canarias en situación de disponibilidad.
 3. Otro alumnado al que se aplicarán los criterios de prioridad generales.
@@ -579,9 +546,6 @@ La adjudicación de la plaza queda condicionada a la presentación de la documen
 acreditativa del cumplimiento de los requisitos y criterios de prioridad para el acceso al 
 curso correspondiente en el momento de la matriculación.
 
-https://sede.gobiernodecanarias.org/boc
-boc-a-2023-085-1356
-Boletín Oficial de Canarias núm. 85 Miércoles 3 de mayo de 202322083
 5.5. Formalización de la matrícula.
 Las personas a quienes se haya adjudicado plaza deberán formalizar su matrícula 
 obligatoriamente en el plazo recogido en el calendario fijado por la Dirección General de 
@@ -612,9 +576,6 @@ Las medidas de adaptación se establecerán a partir de la información recabada
 la persona y sus necesidades específicas, del análisis de la adaptación solicitada y de la 
 valoración de la viabilidad de dicha adaptación.
 
-https://sede.gobiernodecanarias.org/boc
-boc-a-2023-085-1356
-Boletín Oficial de Canarias núm. 85 Miércoles 3 de mayo de 202322084
 APÉNDICE
 CATÁLOGO DE CURSOS DE ESPECIALIZACIÓN EN IDIOMAS
 - Cursos para la adquisición de conocimientos básicos o específicos del idioma:

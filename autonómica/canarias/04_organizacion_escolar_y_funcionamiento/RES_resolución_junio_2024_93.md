@@ -28,9 +28,6 @@ fuente_pdf_oficial: https://sede.gobiernodecanarias.org/boc/boc-a-2024-117-1919.
 
 # Resolución de 3 de junio de 2024
 
-https://sede.gobiernodecanarias.org/boc
-boc-a-2024-117-1919
-Boletín Oficial de Canarias núm. 117 Lunes 17 de junio de 202419094
 III. Otras Resoluciones
 Consejería de Educación, Formación Profesional, Actividad Física y Deportes
 1919 Dirección General de Administración de Centros, Escolarización y Servicios 
@@ -71,9 +68,6 @@ FUNDAMENTOS DE DERECHO
 Primero.- El derecho a la participación ciudadana en los asuntos públicos, que se 
 contempla de forma genérica en el artículo 23, apartado 1, de la Constitución Española, 
 
-https://sede.gobiernodecanarias.org/boc
-boc-a-2024-117-1919
-Boletín Oficial de Canarias núm. 117 Lunes 17 de junio de 202419095
 se concreta en el ámbito educativo en el artículo 27, apartado 5, cuando se indica que los 
 poderes públicos garantizarán el derecho de todos a la educación mediante una programación 
 general de la enseñanza, con la participación efectiva de todos los sectores afectados; y en el 
@@ -119,9 +113,6 @@ fije el calendario de su celebración, excepto para dar cobertura de las vacante
 produzcan entre un proceso electoral y otro, en cuyo caso se estará a lo dispuesto en el 
 artículo 27 de la citada Orden.
 
-https://sede.gobiernodecanarias.org/boc
-boc-a-2024-117-1919
-Boletín Oficial de Canarias núm. 117 Lunes 17 de junio de 202419096
 Por ello, en virtud de las competencias atribuidas en el artículo 29, apartado 1, letra a), 
 de la Ley 14/1990, de 26 de julio, de Régimen Jurídico de las Administraciones Públicas de 
 Canarias, y en el artículo 17.2.a) del Reglamento Orgánico de la Consejería de Educación, 
@@ -162,9 +153,6 @@ Tercero.- Composición de los Consejos Escolares.
 1. El Consejo Escolar de los centros docentes sostenidos con fondos públicos tendrá la 
 composición que se establece en los artículos 4 al 13 de la Orden de 12 de mayo de 2016, 
 
-https://sede.gobiernodecanarias.org/boc
-boc-a-2024-117-1919
-Boletín Oficial de Canarias núm. 117 Lunes 17 de junio de 202419097
 en función de su tipología y de las unidades asignadas por la Consejería de Educación, 
 Formación Profesional, Actividad Física y Deportes para su funcionamiento en el curso 
 escolar 2024-2025.
@@ -202,9 +190,6 @@ elaborará y aprobará, en su caso, los modelos de papeletas electorales; realiz
 público los sorteos para la constitución de las mesas electorales; y acreditará la identidad de 
 los supervisores y supervisoras, comunicándolo por escrito a las distintas mesas electorales.
 
-https://sede.gobiernodecanarias.org/boc
-boc-a-2024-117-1919
-Boletín Oficial de Canarias núm. 117 Lunes 17 de junio de 202419098
 5. La Junta electoral solicitará del ayuntamiento, en cuyo término municipal se encuentre 
 ubicado el centro, la designación del concejal o la concejala, o la persona representante del 
 municipio que haya de formar parte del Consejo Escolar; de la asociación de padres, madres 
@@ -248,9 +233,6 @@ seleccionar, de entre la lista de candidaturas proclamadas por la Junta electora
 aquella o aquellas que estime oportunas, dentro del número máximo establecido en la 
 normativa que le sea de aplicación a cada sector.
 
-https://sede.gobiernodecanarias.org/boc
-boc-a-2024-117-1919
-Boletín Oficial de Canarias núm. 117 Lunes 17 de junio de 202419099
 4. En todo caso, los miembros de la comunidad educativa solo podrán ser candidatos o 
 candidatas al Consejo Escolar por uno de los sectores que la componen, aunque pertenezcan 
 a más de uno o reúnan las condiciones para ser miembro designado. En los centros privados 
@@ -290,9 +272,6 @@ candidatos y candidatas, la denominación propia de la asociación a la que repr
 Si así lo requirieran a la Junta electoral, la papeleta de votación podrá llevar señalada, 
 expresamente, su candidatura.
 
-https://sede.gobiernodecanarias.org/boc
-boc-a-2024-117-1919
-Boletín Oficial de Canarias núm. 117 Lunes 17 de junio de 202419100
 4. La Junta electoral del centro facilitará a los candidatos y las candidatas proclamados 
 que lo soliciten el modelo de papeleta oficialmente aprobado para su reproducción y 
 distribución.
@@ -328,9 +307,6 @@ Duodécimo.- Escrutinio de votos y elaboración del acta.
 1. Una vez finalizadas las votaciones, las mesas electorales correspondientes procederán 
 al escrutinio de los votos en acto público.
 
-https://sede.gobiernodecanarias.org/boc
-boc-a-2024-117-1919
-Boletín Oficial de Canarias núm. 117 Lunes 17 de junio de 202419101
 2. Cuando se produzca empate en las votaciones, la elección se dirimirá por sorteo, 
 según los términos previamente acordados y recogidos en acta por la Junta electoral.
 3. A continuación, cada una de las mesas electorales extenderá un acta en la que 
@@ -368,9 +344,6 @@ Documento Resumen, en el que se deberán precisar tanto las personas candidatas 
 como las personas representantes designadas. Este documento se tramitará exclusivamente 
 por vía telemática, a través de la aplicación informática creada al efecto.
 
-https://sede.gobiernodecanarias.org/boc
-boc-a-2024-117-1919
-Boletín Oficial de Canarias núm. 117 Lunes 17 de junio de 202419102
 2. En atención al punto anterior, se elaborará el Documento Resumen que una vez 
 firmado se publicará en el tablón de anuncios y en la página web del centro y se añadirá 
 al resto del expediente correspondiente al procedimiento de renovación o constitución del 
@@ -412,9 +385,6 @@ a la constitución de las comisiones del mismo.
 o por causas organizativas excepcionales o sobrevenidas, los centros no alterarán las fechas 
 establecidas en esta convocatoria, sin autorización expresa de la Dirección Territorial de 
 
-https://sede.gobiernodecanarias.org/boc
-boc-a-2024-117-1919
-Boletín Oficial de Canarias núm. 117 Lunes 17 de junio de 202419103
 Educación correspondiente, previa solicitud motivada, poniéndolo en conocimiento de la 
 Junta electoral del centro, en su caso. De cualquier manera, deberá garantizarse la suficiente 
 publicidad del calendario electoral con las modificaciones que pudieran autorizarse.
@@ -457,9 +427,6 @@ el funcionamiento y las competencias de los Consejos Escolares.
 candidatos y las candidatas del alumnado, dentro del horario lectivo, para que puedan darse 
 a conocer a sus compañeros y compañeras, y presentar sus programas respectivos. Al mismo 
 
-https://sede.gobiernodecanarias.org/boc
-boc-a-2024-117-1919
-Boletín Oficial de Canarias núm. 117 Lunes 17 de junio de 202419104
 tiempo, deberá favorecer también la convocatoria de reuniones del propio alumnado y de 
 padres, madres o representantes legales del alumnado con tales objetivos.
 Vigesimoprimero.- Asesoramiento y supervisión del proceso electoral.
@@ -487,9 +454,6 @@ Las Palmas de Gran Canaria, a 3 de junio de 2024.- La Directora General de
 Administración de Centros, Escolarización y Servicios Complementarios, Carolina León 
 Martínez.
 
-boc-a-2024-117-1919
-Boletín Oficial de Canarias núm. 117 Lunes 17 de junio de 202419105
-https://sede.gobiernodecanarias.org/boc
 Folio 15/21
 ANEXO
 CALENDARIO DEL PROCESO ELECTORAL
@@ -581,9 +545,6 @@ puede ser comprobada la autenticidad de esta copia, mediante el número de
 documento electrónico siguiente:
  0dS1YJz6G26ZMP0fEoCNSDY5HpiLOWctx
 
-boc-a-2024-117-1919
-Boletín Oficial de Canarias núm. 117 Lunes 17 de junio de 202419106
-https://sede.gobiernodecanarias.org/boc
 Folio 16/21
 Hasta el lunes 14 de
 octubre
@@ -669,9 +630,6 @@ puede ser comprobada la autenticidad de esta copia, mediante el número de
 documento electrónico siguiente:
  0dS1YJz6G26ZMP0fEoCNSDY5HpiLOWctx
 
-boc-a-2024-117-1919
-Boletín Oficial de Canarias núm. 117 Lunes 17 de junio de 202419107
-https://sede.gobiernodecanarias.org/boc
 Folio 17/21
 (en  el  caso  de  centros  que  impartan  enseñanzas  de  formación  profesional  y/o
 enseñanzas de artes plásticas y diseño).
@@ -757,9 +715,6 @@ puede ser comprobada la autenticidad de esta copia, mediante el número de
 documento electrónico siguiente:
  0dS1YJz6G26ZMP0fEoCNSDY5HpiLOWctx
 
-boc-a-2024-117-1919
-Boletín Oficial de Canarias núm. 117 Lunes 17 de junio de 202419108
-https://sede.gobiernodecanarias.org/boc
 Folio 18/21
 Miércoles y jueves
 23 y 24 de octubre  Reclamaciones sobre los censos electorales publicados.
@@ -913,9 +868,6 @@ puede ser comprobada la autenticidad de esta copia, mediante el número de
 documento electrónico siguiente:
  0dS1YJz6G26ZMP0fEoCNSDY5HpiLOWctx
 
-boc-a-2024-117-1919
-Boletín Oficial de Canarias núm. 117 Lunes 17 de junio de 202419109
-https://sede.gobiernodecanarias.org/boc
 Folio 20/21
 Escolar del centro.
 Hasta el viernes

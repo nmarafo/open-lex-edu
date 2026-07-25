@@ -30,10 +30,8 @@ fuente_pdf_oficial: https://sede.gobiernodecanarias.org/boc/boc-a-2017-020-416.p
 
 # Resolución de 20 de enero de 2017, de la Dirección General de Ordenación, Innovación y Promoción Educativa, por la que se delega en la Directora de la Agencia Canaria de Calidad Universitaria y Evaluación Educativa determinadas competencias en materia de innovación y promoción educativa (BOC n.º 20, de 30 de enero).
 
-Boletín Oficial de Canarias núm. 20
 https://sede.gobcan.es/cpji/boc
 Lunes 30 de enero de 2017
-1816
 III. Otras Resoluciones
 Consejería de Educación y Universidades
 416 Dirección General de Ordenación, Innovación y Promoción Educativa.- Resolución 
@@ -74,13 +72,9 @@ atribución del ejercicio de determinadas competencias de titularidad de este ce
 en materia de innovación y promoción educativa al citado Organismo autónomo por medio 
 de la técnica de delegación, si bien resulta precisa la aceptación expresa por su destinatario 
 de tal delegación.
-boc-a-2017-020-416
 
-
-Boletín Oficial de Canarias núm. 20
 https://sede.gobcan.es/cpji/boc
 Lunes 30 de enero de 2017
-1817
 Cuarto.- Mediante escrito de fecha 17 de enero de 2017, con Registro nº 2463/2017, 
 de fecha 18 de enero de 2017, la Directora de la Agencia Canaria de Calidad Universitaria 
 y Evaluación Educativa acepta en su integridad la propuesta de este centro directivo de 
@@ -119,13 +113,9 @@ del principio de eficacia, sea más idóneo para su consecución, debiendo ser p
 delegación en el Boletín Oficial de Canarias.
 Tercero.- 1. El artículo 14 del citado Decreto 1/2010, de 12 de enero, relativo al 
 “Régimen económico y financiero” establece en sus apartados 2 y 3 que la financiación 
-boc-a-2017-020-416
 
-
-Boletín Oficial de Canarias núm. 20
 https://sede.gobcan.es/cpji/boc
 Lunes 30 de enero de 2017
-1818
 de la actividad de la Agencia se realizará principalmente con cargo al presupuesto de la 
 Consejería competente en materia de universidades del Gobierno de Canarias, así como que 
 el presupuesto de aquella estará integrado por las cantidades que por la prestación de sus 
@@ -162,13 +152,9 @@ gestión económica y administrativa de las mismas.
 • Desarrollar la organización y funcionamiento de los Centros del Profesorado (CEP).
 • Autorizar programas o medidas educativas de carácter experimental o extraordinario, 
 sin perjuicio de las competencias atribuidas a otros centros directivos.
-boc-a-2017-020-416
 
-
-Boletín Oficial de Canarias núm. 20
 https://sede.gobcan.es/cpji/boc
 Lunes 30 de enero de 2017
-1819
 • Promover y publicar contenidos de carácter educativo y didáctico en materia de 
 innovación educativa.
 B) En materia de promoción educativa:
@@ -197,13 +183,9 @@ Quinto.- Ordenar la publicación de la presente resolución en el Boletín Ofici
 Canarias, produciendo efectos el día de su publicación.
 Santa Cruz de Tenerife, a 20 de enero de 2017.- El Director General de Ordenación, 
 Innovación y Promoción Educativa, Juan Rafael Bailón Casanova.
-boc-a-2017-020-416
 
-
-Boletín Oficial de Canarias núm. 20
 https://sede.gobcan.es/cpji/boc
 Lunes 30 de enero de 2017
-1820
  ANEXO 
 RELACIÓN DE MEDIOS PERSONALES Y CRÉDITOS OBJETO DE TRASPASO
 A)  MEDIOS PERSONALES:
@@ -237,13 +219,9 @@ GRAN CANARIA:     35700471 CENTRO DE PROFESORES GRAN CANARIA NOROESTE
 GRAN CANARIA:     35702341 CENTRO DE PROFESORES GRAN CANARIA SUR
 GRAN CANARIA:     35707201 CENTRO DE PROFESORES TELDE
 LANZAROTE:           35700043 CENTRO DE PROFESORES LANZAROTE
-boc-a-2017-020-416
 
-
-Boletín Oficial de Canarias núm. 20
 https://sede.gobcan.es/cpji/boc
 Lunes 30 de enero de 2017
-1821
 CENTRO DIRECTIVO 394640
 UNIDAD 395240 D
 DIRECCIÓN GENERAL DE ORDENACIÓN, INNOVACIÓN Y PROMOCIÓN EDUCATIVA
@@ -262,5 +240,3 @@ FUNCIONAMIENTO CEPS                                                             
 PROYECTOS INNOV ACIÓN                                                                    333.853 €
                                                        
 .
-. boc-a-2017-020-416
-

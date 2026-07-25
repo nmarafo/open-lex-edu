@@ -31,9 +31,6 @@ fuente_pdf_oficial: https://sede.gobiernodecanarias.org/boc/boc-a-2026-070-1145.
 
 # Resolución de 26 de marzo de 2026, por la que se convocan los Premios Extraordinarios de Bachillerato en el ámbito de la Comunidad Autónoma de Canarias, correspondientes al curso escolar 2025/2026. Plazo para realizar la inscripción: desde el 15 de mayo de 2026, día de la entrega de las calificaciones finales de segundo curso de Bachillerato, al 15 de junio de 2026.
 
-https://sede.gobiernodecanarias.org/boc
-boc-a-2026-070-1145
-Boletín Oficial de Canarias núm. 70 Lunes 13 de abril de 202613706
 III. Otras Resoluciones
 Consejería de Educación, Formación Profesional, Actividad Física y Deportes
 1145 Dirección General de Ordenación de las Enseñanzas, Inclusión e Innovación.- 
@@ -75,9 +72,6 @@ de aprendizaje en todo el alumnado”.
 Tercero.- Las bases que regulan esta convocatoria se regirán por la Orden de 20 
 de diciembre de 2011, por la que se crean los Premios Extraordinarios de Bachillerato, 
 
-https://sede.gobiernodecanarias.org/boc
-boc-a-2026-070-1145
-Boletín Oficial de Canarias núm. 70 Lunes 13 de abril de 202613707
 reconocidos por la Ley Orgánica 2/2006, de 3 de mayo, de Educación, en su redacción 
 actual, en el ámbito de la Comunidad Autónoma de Canarias.
 Cuarto.- Dicha Orden de 20 de diciembre de 2011, en su artículo 3, dispone que 
@@ -116,9 +110,6 @@ de esta etapa educativa.
 b) Haber finalizado estos estudios en la evaluación final ordinaria, en el curso académico 
 2025/2026, en un centro docente público o privado de la Comunidad Autónoma de Canarias.
 
-https://sede.gobiernodecanarias.org/boc
-boc-a-2026-070-1145
-Boletín Oficial de Canarias núm. 70 Lunes 13 de abril de 202613708
 c) Haber obtenido una nota media en las calificaciones de los dos cursos de Bachillerato igual 
 o superior a 8,75 puntos, redondeada a la centésima más próxima y, en caso de equidistancia, a la 
 superior, computándose las calificaciones de todas las materias cursadas en ambos cursos (sin 
@@ -159,12 +150,8 @@ CEFPAFD:
 https://www.gobiernodecanarias.org/educacion/web/estudiantes/premios_educativos/
 premios_bachillerato/convocatoria/.
 El plazo de reclamación a los mismos finalizará el 30 de junio y se presentará a través 
-del trámite “Sugerencias y Reclamaciones”: https://sede.gobiernodecanarias.org/sede/
 tramites/4196, dirigida a la citada Unidad de Apoyo del apartado 3 de este resuelvo.
 
-https://sede.gobiernodecanarias.org/boc
-boc-a-2026-070-1145
-Boletín Oficial de Canarias núm. 70 Lunes 13 de abril de 202613709
 5. Los listados definitivos se publicarán, al menos, un día antes de la realización de la 
 prueba en el “tablón de anuncios” de la sede electrónica de la CEFPAFD y en la antedicha 
 web de la CEFPAFD.
@@ -200,9 +187,6 @@ coordinará, junto con la Inspección de Educación, la elaboración de los ejer
 se propondrán al alumnado y los hará llegar a los tribunales que se constituyan, con la 
 antelación suficiente para su organización.
 
-https://sede.gobiernodecanarias.org/boc
-boc-a-2026-070-1145
-Boletín Oficial de Canarias núm. 70 Lunes 13 de abril de 202613710
 Séptimo.- Calificación de la prueba.
 1. Cada ejercicio se calificará entre 0 y 10 puntos, con dos cifras decimales como 
 máximo. La calificación final de la prueba será la media aritmética de las calificaciones 
@@ -243,14 +227,10 @@ CEFPAFD, en
 la primera quincena del mes de septiembre de 2026, las calificaciones y la propuesta 
 provisional de adjudicación de los premios correspondientes al alumnado cuyas pruebas 
 
-https://sede.gobiernodecanarias.org/boc
-boc-a-2026-070-1145
-Boletín Oficial de Canarias núm. 70 Lunes 13 de abril de 202613711
 hayan evaluado. Este deberá haber alcanzado en cada ejercicio, al menos, 5 puntos, y una 
 calificación global superior a 35 puntos, para la obtención del citado premio.
 2. El alumnado examinado, o sus padres, madres o representantes legales, si es menor 
 de edad, podrán reclamar por escrito contra la calificación obtenida, a través del trámite 
-“Sugerencias y Reclamaciones”: https://sede.gobiernodecanarias.org/sede/tramites/4196, 
 remitiéndolo a la presidencia del correspondiente tribunal (Servicio de Inspección de 
 Educación), en el plazo de cinco días hábiles, a partir del siguiente a aquel en que sean 
 hechas públicas las calificaciones.
@@ -288,9 +268,6 @@ CEFPAFD y en sus redes sociales.
 diligencia esta distinción en su historial y expediente académico. Igualmente se procedería 
 en el caso de que el Ministerio de Educación, Formación Profesional y Deportes llegara 
 
-https://sede.gobiernodecanarias.org/boc
-boc-a-2026-070-1145
-Boletín Oficial de Canarias núm. 70 Lunes 13 de abril de 202613712
 a convocar los Premios Nacionales de Bachillerato, correspondientes al curso escolar 
 2025/2026.
 3. Además, el alumnado premiado quedará exento del pago del precio público 
@@ -334,9 +311,6 @@ caso, cualquier otro que estime procedente.
 Las Palmas de Gran Canaria, a 26 de marzo de 2026.- El Director General de Ordenación 
 de las Enseñanzas, Inclusión e Innovación, David Pablos González.
 
-boc-a-2026-070-1145
-Boletín Oficial de Canarias núm. 70 Lunes 13 de abril de 202613713
-https://sede.gobiernodecanarias.org/boc
 Anexo I
 CERTIFICACIÓN ACADÉMICA
 D./D.ª  …………………………………………………………………….  ha  obtenido  las  siguientes  
@@ -380,9 +354,6 @@ En…………………………………………, a……. de…………… d
 ANEXO I
 CERTIFICACIÓN ACADÉMICA
 
-boc-a-2026-070-1145
-Boletín Oficial de Canarias núm. 70 Lunes 13 de abril de 202613714
-https://sede.gobiernodecanarias.org/boc
 Anexo II
 PREMIOS EXTRAORDINARIOS DE BACHILLERATO
 CURSO 2025/2026
@@ -423,9 +394,6 @@ CURSO 2025/2026
                                                                                                                                       
                                            
 
-boc-a-2026-070-1145
-Boletín Oficial de Canarias núm. 70 Lunes 13 de abril de 202613715
-https://sede.gobiernodecanarias.org/boc
 3. LUGARES DE CELEBRACIÓN DE LA PRUEBA:
 PROVINCIA DE SANTA CRUZ DE TENERIFE
 TENERIFE
@@ -451,9 +419,6 @@ Teléfono: 922760670    Correo electrónico: 38700140@gobiernodecanarias.org
                                                
                                                
 
-boc-a-2026-070-1145
-Boletín Oficial de Canarias núm. 70 Lunes 13 de abril de 202613716
-https://sede.gobiernodecanarias.org/boc
 PROVINCIA DE LAS PALMAS
 GRAN CANARIA
 IES PÉREZ GALDÓS
@@ -467,6 +432,3 @@ FUERTEVENTURA
 CENTRO DEL PROFESORADO PUERTO DEL ROSARIO
 Dirección: Calle Secundino Alonso n.º 63, 35600 Puerto del Rosario
 Teléfono: 928455872       Correo electrónico: 35700110@gobiernodecanarias.org
-                                               
-                                               
-                                               

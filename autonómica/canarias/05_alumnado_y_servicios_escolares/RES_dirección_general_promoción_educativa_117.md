@@ -36,7 +36,6 @@ Boletín Oficial de Canarias
 Accesibilidad
 Mapa web
 Contacto
-Versión texto
 Inicio
 Archivo
 Búsqueda
@@ -45,11 +44,8 @@ Inicio
 Archivo
 Año 1992
 1992/106. Viernes 31 de Julio de 1992
-1164
-<p>Menú de búsqueda y navegación</p>
 Anterior
 Siguiente
-BOC Nº 106. Viernes 31 de Julio de 1992 - 1164
 III. OTRAS RESOLUCIONES - C.Educación, Cultura y Deportes
 1164 - RESOLUCIÓN de 15 de julio de 1992, de la Dirección General de Promoción Educativa, por la que se dictan instrucciones para la organización y funcionamiento de las Residencias Escolares.
 Descargar en formato pdf

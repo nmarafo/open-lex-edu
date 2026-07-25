@@ -28,16 +28,13 @@ fundamentos_derecho:
 
 # Ley 15/2022, de 12 de julio, integral para la igualdad de trato y la no discriminación.
 
-
 **FELIPE VI**
-
 
 **REY DE ESPAÑA**
 
 A todos los que la presente vieren y entendieren.
 
 Sabed: Que las Cortes Generales han aprobado y Yo vengo en sancionar la siguiente ley:
-
 
 ## PREÁMBULO
 
@@ -125,13 +122,11 @@ Por último, la norma se cierra con una serie de disposiciones adicionales que r
 
 TÍTULO PRELIMINAR
 
-
 #### Artículo 1. Objeto de la ley.
 
 1. La presente ley tiene por objeto garantizar y promover el derecho a la igualdad de trato y no discriminación, respetar la igual dignidad de las personas en desarrollo de los artículos 9.2, 10 y 14 de la Constitución.
 
 2. A estos efectos, la ley regula derechos y obligaciones de las personas, físicas o jurídicas, públicas o privadas, establece principios de actuación de los poderes públicos y prevé medidas destinadas a prevenir, eliminar, y corregir toda forma de discriminación, directa o indirecta, en los sectores público y privado.
-
 
 #### Artículo 2. Ámbito subjetivo de aplicación.
 
@@ -156,7 +151,6 @@ d) La Administración de Justicia.
 e) El sector público institucional, en los términos establecidos en el artículo 2.2 de la Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común de las Administraciones Públicas.
 
 f) Las asociaciones y fundaciones constituidas por las Administraciones, entes, organismos y entidades que integran el sector público.
-
 
 #### Artículo 3. Ámbito objetivo de aplicación.
 
@@ -196,16 +190,13 @@ o) Inteligencia Artificial y gestión masiva de datos, así como otras esferas
 
 2. Lo dispuesto en la presente ley se entiende sin perjuicio de los regímenes específicos más favorables establecidos en la normativa estatal o autonómica por razón de las distintas causas de discriminación previstas en el apartado 1 del artículo 2.
 
-
 ## TÍTULO I
-
 
 **Derecho a la igualdad de trato y no discriminación**
 
 CAPÍTULO I
 
 Disposiciones generales
-
 
 #### Artículo 4. El derecho a la igualdad de trato y no discriminación.
 
@@ -219,7 +210,6 @@ En consecuencia, queda prohibida toda disposición, conducta, acto, criterio o p
 
 4. En las políticas contra la discriminación se tendrá en cuenta la perspectiva de género y se prestará especial atención a su impacto en las mujeres y las niñas como obstáculo al acceso a derechos como la educación, el empleo, la salud, el acceso a la justicia y el derecho a una vida libre de violencias, entre otros.
 
-
 #### Artículo 5. Derechos a la información y al asesoramiento de las personas víctimas de discriminación.
 
 1. Todas las personas víctimas de discriminación, con independencia de su origen, religión, edad, o cualquier otra condición o circunstancia personal o social, independientemente de su situación administrativa en el Estado español, tienen garantizados los derechos reconocidos en esta ley.
@@ -231,7 +221,6 @@ En consecuencia, queda prohibida toda disposición, conducta, acto, criterio o p
 4. Las personas víctimas de discriminación tienen derecho a recibir asesoramiento jurídico gratuito en el momento inmediatamente previo a la interposición de la denuncia.
 
 5. Los niños, niñas y adolescentes tienen derecho a recibir toda la información necesaria en un lenguaje claro y comprensible, en un idioma que puedan entender y mediante formatos accesibles en términos sensoriales y cognitivos y adaptados a las circunstancias personales de sus destinatarios, garantizándose su acceso universal. Cuando se trate de territorios con lenguas cooficiales el niño, niña o adolescente podrá recibir dicha información en la lengua cooficial que elija. Además, se debe garantizar la prevención y prohibición de cualquier revictimización.
-
 
 #### Artículo 6. Definiciones.
 
@@ -283,13 +272,11 @@ Se consideran acciones positivas las diferencias de trato orientadas a prevenir,
 
 Se entiende por segregación toda práctica, acción u omisión que tiene el efecto de separar al alumnado por motivos socioeconómicos o sobre la base de cualquiera de los motivos enumerados en el artículo 2.1 de la presente ley sin una justificación objetiva y razonable.
 
-
 #### Artículo 7. Interpretación.
 
 La interpretación del contenido de esta ley, así como la actuación de los poderes públicos, se ajustará con los instrumentos internacionales aplicables de los que el Estado sea parte en materia de derechos humanos, así como con la jurisprudencia emitida por los órganos jurisdiccionales internacionales y demás legislación aplicable, y tendrá en cuenta las recomendaciones y resoluciones adoptadas por los organismos internacionales multilaterales y regionales.
 
 Para los efectos del apartado anterior, cuando se presenten diferentes interpretaciones, se deberá preferir aquella que proteja con mayor eficacia a las personas o a los grupos que sean afectados por conductas discriminatorias o intolerantes. La presente ley consagra los niveles mínimos de protección y no perjudica las disposiciones más favorables establecidas en otras normas, debiendo prevalecer el régimen jurídico que mejor garantice la no discriminación.
-
 
 #### Artículo 8. Inducción, orden o instrucción de discriminar o de cometer una acción de intolerancia.
 
@@ -298,7 +285,6 @@ Es discriminatoria toda inducción, orden o instrucción de discriminar o de com
 CAPÍTULO II
 
 El derecho a la igualdad de trato y no discriminación en determinados ámbitos de la vida política, económica, cultural y social
-
 
 #### Artículo 9. Derecho a la igualdad de trato y no discriminación en el empleo por cuenta ajena.
 
@@ -318,7 +304,6 @@ Asimismo, en los centros de trabajo y establecimientos militares esta labor se l
 
 6. Por vía reglamentaria, se podrá exigir a los empleadores cuyas empresas tengan más de 250 trabajadores, que publiquen la información salarial necesaria para analizar los factores de las diferencias salariales, teniendo en cuenta las condiciones o circunstancias del artículo 2.1.
 
-
 #### Artículo 10. Negociación colectiva.
 
 1. Sin perjuicio de la libertad de las partes para determinar el contenido de los convenios colectivos, la negociación colectiva no podrá establecer limitaciones, segregaciones o exclusiones para el acceso al empleo, incluidos los criterios de selección, en la formación para el empleo, en la promoción profesional, en la retribución, en la jornada y demás condiciones de trabajo, así como en la suspensión, el despido u otras causas de extinción del contrato de trabajo, por las causas previstas en esta ley.
@@ -329,7 +314,6 @@ Los poderes públicos fomentarán el diálogo con los interlocutores sociales, a
 
 3. La representación legal de los trabajadores y la propia empresa velarán por el cumplimiento del derecho a la igualdad de trato y no discriminación en la empresa por las causas previstas en esta ley y, en particular, en materia de medidas de acción positiva y de la consecución de sus objetivos.
 
-
 #### Artículo 11. Derecho a la igualdad de trato y no discriminación en el trabajo por cuenta propia.
 
 1. No podrán establecerse limitaciones, segregaciones o exclusiones por las causas previstas en esta ley en el acceso al ejercicio y en el desarrollo de una actividad por cuenta propia.
@@ -338,7 +322,6 @@ Los poderes públicos fomentarán el diálogo con los interlocutores sociales, a
 
 3. Los acuerdos de interés profesional a que se refiere el apartado anterior podrán establecer medidas de acción positiva para prevenir, eliminar y corregir toda forma de discriminación por las causas previstas en esta ley en el ámbito del trabajo por cuenta propia.
 
-
 #### Artículo 12. Derecho a la igualdad de trato, a la no discriminación e intolerancia en organizaciones políticas, sindicales, empresariales, profesionales y de interés social o económico.
 
 1. Las organizaciones políticas, sindicales y empresariales, las asociaciones profesionales de trabajadores autónomos, los colegios profesionales y cualquier otra organización de interés social o económico cuyos miembros ejerzan una profesión concreta o que se constituya para la defensa de los intereses de un colectivo profesional, estarán obligadas a respetar el derecho a la igualdad de trato y no discriminación por las causas descritas en el apartado 1 del artículo 2 de esta ley en la adhesión, inscripción o afiliación, su estructura orgánica y funcionamiento, la participación y el disfrute de cualquiera de las ventajas que ofrezcan a sus miembros, de acuerdo con lo dispuesto en el apartado 2 del artículo 4 de esta ley.
@@ -346,7 +329,6 @@ Los poderes públicos fomentarán el diálogo con los interlocutores sociales, a
 2. Los poderes públicos desarrollarán políticas activas de apoyo a colectivos y organizaciones legalmente constituidas que realicen actividades de sensibilización, asesoramiento y formación en defensa de la dignidad de la persona y la igualdad de trato frente a la discriminación, intolerancia e incidente de odio, así como de asistencia a víctimas y personación judicial en procedimientos.
 
 3. Los poderes públicos promoverán, fomentarán y apoyarán a las organizaciones sociales en las actividades de celebración de fechas conmemorativas, actos y eventos que contribuyan a promover los derechos humanos, la igualdad, la libertad, la tolerancia y la no discriminación, así como la incorporación de códigos deontológicos congruentes con estos valores.
-
 
 #### Artículo 13. Derecho a la igualdad de trato y no discriminación en la educación.
 
@@ -364,11 +346,9 @@ Los poderes públicos fomentarán el diálogo con los interlocutores sociales, a
 
 7. La Inspección Educativa intervendrá para garantizar el respeto al derecho a la igualdad de trato y no discriminación y la lucha contra la intolerancia en el ámbito educativo.
 
-
 #### Artículo 14. Derecho a la igualdad de trato y no discriminación en la educación no formal.
 
 Los poderes públicos promoverán en la educación no formal la transmisión de valores democráticos y derechos humanos a fin de evitar prejuicios, fanatismos y radicalizaciones que alienten la vulneración de la igualdad de trato y la discriminación, así como las conductas de estigmatización, hostilidad, odio, discriminación y violencia, fortaleciendo comportamientos inspirados en el reconocimiento de la dignidad de las personas, la igualdad, libertad, solidaridad, justicia, tolerancia, no violencia, pluralismo y convivencia intercultural.
-
 
 #### Artículo 15. Derecho a la igualdad de trato y no discriminación en la atención sanitaria.
 
@@ -384,13 +364,11 @@ Los poderes públicos promoverán en la educación no formal la transmisión de 
 
 6. Nadie podrá ser apartado o suspendido de su turno de atención sanitaria básica o especializada en condiciones de igualdad, ni ser excluido de un tratamiento sanitario por ausencia de acreditación documental o de tiempo mínimo de estancia demostrable.
 
-
 #### Artículo 16. Derecho a la igualdad de trato y no discriminación en la prestación de los servicios sociales.
 
 Las administraciones públicas, en el ámbito de sus competencias, garantizarán que en el acceso y la prestación de los diferentes servicios sociales no se produzcan situaciones discriminatorias por cualquiera de las causas previstas en la presente ley.
 
 A efectos de lo dispuesto en el párrafo anterior, los planes y programas sobre servicios sociales procurarán la atención prioritaria de los grupos especialmente vulnerables, con especial atención a la situación de las mujeres y las niñas. Estos planes incluirán programas de formación profesional que promuevan un enfoque de diversidad e igualdad de trato, que ayude a identificar situaciones de discriminación múltiple e interseccional, poniendo especial atención para establecer mecanismos que eviten excluir a las personas con una situación socioeconómica más débil o que se encuentren en situación de sinhogarismo u otras consecuencias derivadas de su situación de pobreza.
-
 
 #### Artículo 17. Derecho a la igualdad de trato y no discriminación en la oferta al público de bienes y servicios.
 
@@ -402,20 +380,17 @@ Lo previsto en el párrafo anterior no impedirá la existencia de organizaciones
 
 3. Los sitios web y las aplicaciones informáticas tenderán a cumplir los requisitos de accesibilidad para garantizar la igualdad y la no discriminación en el acceso de las personas usuarias, en particular de las personas con discapacidad y de las personas mayores.
 
-
 #### Artículo 18. Derecho a la igualdad de trato y no discriminación en el ámbito de la seguridad ciudadana.
 
 1. A los efectos de esta ley, las Fuerzas y Cuerpos de Seguridad evitarán la utilización de perfiles discriminatorios sin una justificación objetiva.
 
 2. Las personas físicas o jurídicas que realicen actividades y servicios de seguridad privada, para la protección de personas y bienes, deberán garantizar la igualdad de trato y no discriminación no usando perfiles discriminatorios sin una justificación objetiva.
 
-
 #### Artículo 19. Derecho a la igualdad de trato y no discriminación en la administración de justicia.
 
 1. Los poderes públicos, en el ámbito de sus respectivas competencias, velarán por la supresión de estereotipos y promoverán la ausencia de cualquier forma de discriminación en la administración de justicia por razón de las causas previstas en esta ley.
 
 2. Las administraciones públicas favorecerán la información y accesibilidad a la justicia de los grupos especialmente vulnerables según las causas establecidas en esta ley.
-
 
 #### Artículo 20. Derecho a la igualdad de trato y no discriminación en el acceso a la vivienda.
 
@@ -435,7 +410,6 @@ La obligación de no discriminación se mantendrá durante todo el periodo poste
 
 3. Lo previsto en los párrafos anteriores será de aplicación también a los locales de negocio.
 
-
 #### Artículo 21. Derecho a la igualdad de trato y no discriminación en establecimientos, o espacios y espectáculos abiertos al público.
 
 1. Los criterios y prácticas sobre admisión de las personas a establecimientos o espacios abiertos al público, espectáculos públicos o actividades recreativas deberán garantizar la ausencia de cualquier forma de discriminación por razón de las causas previstas en el apartado primero del artículo 2.
@@ -445,7 +419,6 @@ La obligación de no discriminación se mantendrá durante todo el periodo poste
 3. Las personas titulares de los establecimientos y locales a los que se refieren los apartados anteriores o las organizadoras de espectáculos públicos o actividades recreativas darán a conocer en un espacio visible los criterios y limitaciones que resulten del ejercicio del derecho de admisión. Las administraciones públicas competentes desarrollarán las medidas necesarias para garantizar el cumplimiento de lo dispuesto en este artículo, en particular las de vigilancia e inspección.
 
 Las administraciones públicas competentes desarrollarán las medidas necesarias para garantizar el cumplimiento de lo dispuesto en este artículo, en particular las de vigilancia e inspección.
-
 
 #### Artículo 22. Medios de comunicación social y publicidad, internet y redes sociales.
 
@@ -457,7 +430,6 @@ Asimismo, promoverán la adopción de acuerdos con las empresas y plataformas de
 
 3. Se considera publicidad ilícita la comunicación publicitaria comercial o institucional que contenga elementos de discriminación por razón de las causas previstas en esta ley.
 
-
 #### Artículo 23. Inteligencia Artificial y mecanismos de toma de decisión automatizados.
 
 1. En el marco de la Estrategia Nacional de Inteligencia Artificial, de la Carta de Derechos Digitales y de las iniciativas europeas en torno a la Inteligencia Artificial, las administraciones públicas favorecerán la puesta en marcha de mecanismos para que los algoritmos involucrados en la toma de decisiones que se utilicen en las administraciones públicas tengan en cuenta criterios de minimización de sesgos, transparencia y rendición de cuentas, siempre que sea factible técnicamente. En estos mecanismos se incluirán su diseño y datos de entrenamiento, y abordarán su potencial impacto discriminatorio. Para lograr este fin, se promoverá la realización de evaluaciones de impacto que determinen el posible sesgo discriminatorio.
@@ -468,23 +440,19 @@ Asimismo, promoverán la adopción de acuerdos con las empresas y plataformas de
 
 4. Se promoverá un sello de calidad de los algoritmos.
 
-
 #### Artículo 24. Actividades culturales y deportivas.
 
 1. En el desarrollo de cualquier actividad cultural o deportiva se respetarán el derecho a la igualdad de trato y el respeto a la dignidad de la persona, evitando toda discriminación por alguna de las causas previstas en la ley.
 
 2. Las administraciones públicas darán apoyo a la creación y la difusión de contenidos y estudios que contribuyan a la toma de conciencia en el ámbito cultural sobre la discriminación en todas las formas y expresiones que recoge la presente ley.
 
-
 ## TÍTULO II
-
 
 **Defensa y promoción del derecho a la igualdad de trato y no discriminación**
 
 CAPÍTULO I
 
 Garantías del derecho a la igualdad de trato y no discriminación
-
 
 #### Artículo 25. Medidas de protección y reparación frente a la discriminación.
 
@@ -494,11 +462,9 @@ Garantías del derecho a la igualdad de trato y no discriminación
 
 3. Ante un incidente discriminatorio, las autoridades encargadas de hacer cumplir esta ley tomarán las medidas oportunas para garantizar que los hechos no vuelvan a repetirse, especialmente en los casos en los que el agente discriminador sea una administración pública.
 
-
 #### Artículo 26. Nulidad de pleno derecho.
 
 Son nulos de pleno derecho las disposiciones, actos o cláusulas de los negocios jurídicos que constituyan o causen discriminación por razón de alguno de los motivos previstos en el apartado primero del artículo 2 de esta ley.
-
 
 #### Artículo 27. Atribución de responsabilidad patrimonial y reparación del daño.
 
@@ -506,11 +472,9 @@ Son nulos de pleno derecho las disposiciones, actos o cláusulas de los negocios
 
 2. Serán igualmente responsables del daño causado las personas empleadoras o prestadoras de bienes y servicios cuando la discriminación, incluido el acoso, se produzca en su ámbito de organización o dirección y no hayan cumplido las obligaciones previstas en el apartado 1 del artículo 25.
 
-
 #### Artículo 28. Tutela judicial del derecho a la igualdad de trato y no discriminación.
 
 La tutela judicial frente a las vulneraciones del derecho a la igualdad de trato y no discriminación comprenderá, en los términos establecidos por las leyes procesales, la adopción de todas las medidas necesarias para poner fin a la discriminación de que se trate y, en particular, las dirigidas al cese inmediato de la discriminación, pudiendo acordar la adopción de medidas cautelares dirigidas a la prevención de violaciones inminentes o ulteriores, la indemnización de los daños y perjuicios causados y el restablecimiento de la persona perjudicada en el pleno ejercicio de su derecho, con independencia de su nacionalidad, de si son mayores o menores de edad o de si disfrutan o no de residencia legal.
-
 
 #### Artículo 29. Legitimación para la defensa del derecho a la igualdad de trato y no discriminación.
 
@@ -522,7 +486,6 @@ a) Que se hubieran constituido legalmente al menos dos años antes de la inici
 
 b) Que según sus estatutos desarrollen su actividad en el ámbito estatal o, en su caso, en un ámbito territorial que resulte afectado por la posible situación de discriminación.
 
-
 #### Artículo 30. Reglas relativas a la carga de la prueba.
 
 1. De acuerdo con lo previsto en las leyes procesales y reguladoras de los procedimientos administrativos, cuando la parte actora o el interesado alegue discriminación y aporte indicios fundados sobre su existencia, corresponderá a la parte demandada o a quien se impute la situación discriminatoria la aportación de una justificación objetiva y razonable, suficientemente probada, de las medidas adoptadas y de su proporcionalidad.
@@ -531,13 +494,11 @@ b) Que según sus estatutos desarrollen su actividad en el ámbito estatal o, 
 
 3. Lo establecido en el apartado primero no será de aplicación a los procesos penales ni a los procedimientos administrativos sancionadores, ni a las medidas adoptadas y los procedimientos tramitados al amparo de las normas de organización, convivencia y disciplina de los centros docentes.
 
-
 #### Artículo 31. Actuación administrativa contra la discriminación.
 
 1. Cuando una autoridad pública, con ocasión del ejercicio de sus competencias, tenga conocimiento de un supuesto de discriminación de los previstos en esta ley, deberá, si es competente, incoar el correspondiente procedimiento administrativo, en el que se podrán acordar las medidas necesarias para investigar las circunstancias del caso y adoptar las medidas oportunas y proporcionadas para su eliminación o, en caso de no serlo, comunicar estos hechos de forma inmediata a la Administración competente, de acuerdo con lo establecido en las leyes administrativas.
 
 2. A los efectos de lo establecido en el artículo 4.2 de la Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común de las Administraciones Públicas, los sindicatos, las asociaciones profesionales de trabajadores autónomos, las organizaciones de personas consumidoras y usuarias y las asociaciones y organizaciones legalmente constituidas que tengan entre sus fines la defensa y promoción de los derechos humanos y cumplan los requisitos fijados en el artículo 29 de la presente ley, podrán tener la consideración de interesado en los procedimientos administrativos en los que la Administración tenga que pronunciarse en relación con una situación de discriminación prevista en esta ley, siempre que cuenten con la autorización de la persona o personas afectadas. No será necesaria esta autorización cuando las personas afectadas sean una pluralidad indeterminada o de difícil determinación, sin perjuicio de que quienes se consideren afectados puedan también participar en el procedimiento.
-
 
 #### Artículo 32. Del Ministerio Fiscal.
 
@@ -550,7 +511,6 @@ b) Que según sus estatutos desarrollen su actividad en el ámbito estatal o, 
 CAPÍTULO II
 
 Promoción del derecho a la igualdad de trato y no discriminación y medidas de acción positiva
-
 
 #### Artículo 33. Promoción del derecho a la igualdad de trato y no discriminación.
 
@@ -565,7 +525,6 @@ Las empresas podrán hacer uso publicitario de sus acciones de responsabilidad e
 3. Los poderes públicos fortalecerán las medidas de prevención y fomento de la denuncia de acciones de discriminación, violencia e incidentes y discurso de odio, evitando cualquier espacio de impunidad, dotando a los poderes públicos y a las organizaciones de la sociedad civil de instrumentos eficaces para intervenir en los distintos ámbitos señalados en la ley.
 
 4. Los poderes públicos promoverán la enseñanza, formación y sensibilización en los valores democráticos, constitucionales y de los derechos humanos encaminados a erradicar prejuicios, conocimientos defectuosos, adoctrinamientos, fanatismos o radicalizaciones que alimenten la discriminación o la intolerancia, así como las conductas de estigmatización, hostilidad, odio y violencia, fortaleciendo comportamientos inspirados en el reconocimiento de la dignidad intrínseca de las personas, la igualdad, la libertad, la solidaridad, la justicia, la tolerancia, la no violencia, el pluralismo y la interculturalidad.
-
 
 #### Artículo 34. Estrategia Estatal para la Igualdad de Trato y la No Discriminación.
 
@@ -593,13 +552,11 @@ d) Medidas dirigidas a la información, sensibilización y formación en igual
 
 5. El Ministerio competente en materia de igualdad coordinará, en colaboración con los departamentos ministeriales afectados por la materia, los planes que en el marco de esta Estrategia seguirá el Gobierno en el ámbito de sus competencias.
 
-
 #### Artículo 35. Colaboración entre las administraciones públicas.
 
 1. La Administración General del Estado, las administraciones de las comunidades y ciudades con Estatuto de Autonomía y las entidades locales cooperarán entre sí para integrar la igualdad de trato y no discriminación, y la lucha contra la intolerancia, en el ejercicio de sus respectivas competencias y, en especial, en sus instrumentos de planificación y gestión.
 
 2. En el seno de la Conferencia Sectorial de Igualdad, podrán adoptarse planes y programas conjuntos de actuación con esta finalidad.
-
 
 #### Artículo 36. Estadísticas y estudios.
 
@@ -615,7 +572,6 @@ d) Medidas dirigidas a la información, sensibilización y formación en igual
 
 En todo caso, los datos de carácter personal obtenidos en el ámbito de las actuaciones a las que se refiere este artículo, deben cumplir la legislación reguladora de la protección de datos personales y, en su caso, quedarán protegidos por secreto estadístico y no podrán ser objeto de comunicación a terceros salvo en los casos expresamente establecidos en la legislación de protección de datos de carácter personal.
 
-
 #### Artículo 37. Subvenciones públicas y contratación.
 
 1. Las administraciones públicas, en los planes estratégicos de subvenciones que adopten en el ejercicio de sus competencias, determinarán los ámbitos en que las bases reguladoras de las mismas deban incluir la valoración de actuaciones para la efectiva consecución de la igualdad de trato y no discriminación por parte de las entidades solicitantes.
@@ -628,24 +584,19 @@ En todo caso, los datos de carácter personal obtenidos en el ámbito de las act
 
 5. A efectos de dar cumplimiento a lo establecido en este artículo, el departamento competente en materia de igualdad creará una base de datos para el seguimiento y comprobación del cumplimiento de las sanciones previstas en este artículo.
 
-
 #### Artículo 38. Formación.
 
 Los poderes públicos, en el ámbito de sus respectivas competencias, contemplarán en los procesos selectivos y en la formación de su personal, el estudio y la aplicación de la igualdad de trato y la no discriminación. Además, velarán por que el personal externo cuente con esa formación cuando los servicios prestados impliquen una relación directa con la ciudadanía.
 
 La formación no solo será teórica, sino también práctica en cuanto a las herramientas que pueden usar los distintos perfiles de personas que trabajan en la administración pública para prevenir y dar respuesta a la discriminación en el ámbito de sus respectivas competencias.
 
-
 #### Artículo 39. Diálogo con las organizaciones no gubernamentales.
 
 La Administración General del Estado, las Administraciones de las comunidades autónomas y ciudades con Estatuto de Autonomía y las entidades locales fomentarán el diálogo con las organizaciones no gubernamentales que tengan un interés legítimo en contribuir a la lucha contra la discriminación y la intolerancia, con el fin de promover el principio de igualdad de trato y el valor de la tolerancia.
 
-
 ## TÍTULO III
 
-
 **La Autoridad Independiente para la Igualdad de Trato y la No Discriminación**
-
 
 #### Artículo 40. Creación y funciones.
 
@@ -693,7 +644,6 @@ q) Participar en el Consejo para la Promoción de la Igualdad de Trato y No Di
 
 r) Cualquier otra que le sea atribuida por ley o reglamentariamente.
 
-
 #### Artículo 41. Naturaleza, régimen jurídico, organización y funcionamiento.
 
 1. La Autoridad Independiente para la Igualdad de Trato y la No Discriminación es una entidad de derecho público, de las previstas en el artículo 109 de la Ley 40/2015 de 1 de octubre, de Régimen Jurídico del Sector Público, dotada de personalidad jurídica propia y plena capacidad pública y privada, que actúa para el cumplimiento de sus fines con plena independencia y autonomía funcional respecto de las administraciones públicas.
@@ -711,7 +661,6 @@ En el supuesto de incumplimiento grave de sus funciones, el cese se acordará pr
 El cese será acordado por el Gobierno mediante Real Decreto a propuesta de la persona titular del Ministerio competente en materia de igualdad.
 
 A la persona titular de la Autoridad Independiente le será de aplicación el régimen de conflictos de intereses y de incompatibilidades previstos en la legislación vigente para los Altos Cargos de la Administración General del Estado.
-
 
 #### Artículo 42. Personal y recursos económicos.
 
@@ -747,11 +696,9 @@ La Autoridad Independiente para la Igualdad de Trato y la No Discriminación for
 
 4. El control económico y financiero de la Autoridad Independiente para la Igualdad de Trato y la No Discriminación se efectuará con arreglo a lo dispuesto en la Ley 47/2003, de 26 de noviembre, General Presupuestaria, y en la Ley Orgánica 2/1982, de 12 de mayo, del Tribunal de Cuentas. En particular, la Intervención General de la Administración del Estado ejercerá el control interno de la gestión económica y financiera.
 
-
 #### Artículo 43. Participación.
 
 El Estatuto de la Autoridad Independiente para la Igualdad de Trato y la No Discriminación regulará las formas y el procedimiento para asegurar la participación en sus actividades de las organizaciones representativas de los intereses sociales afectados, entre ellas, las organizaciones sindicales y empresariales más representativas, así como del conjunto de las administraciones públicas y de las asociaciones y organizaciones de ámbito estatal legalmente constituidas cuya actividad esté relacionada con la promoción o la defensa de la igualdad de trato y la no discriminación.
-
 
 #### Artículo 44. Deber de colaboración.
 
@@ -763,19 +710,15 @@ El Estatuto de la Autoridad Independiente para la Igualdad de Trato y la No Disc
 
 4. El deber de colaboración e información incluirá la comunicación de la información que contenga datos personales de terceros sin su consentimiento cuando resulte estrictamente necesario para el cumplimiento de las funciones de la Autoridad Independiente para la Igualdad de Trato y la No Discriminación de conformidad con lo dispuesto en la legislación de protección de datos de carácter personal y en la Ley 12/1989, de 9 de mayo, de la Función Estadística Pública.
 
-
 #### Artículo 45. Relación con el Defensor del Pueblo.
 
 1. La Autoridad Independiente para la Igualdad de Trato y la No Discriminación ejercerá las funciones que tiene atribuidas en esta ley sin perjuicio de las competencias del Defensor del Pueblo u órganos similares de las comunidades autónomas.
 
 2. La Autoridad Independiente para la Igualdad de Trato y la No Discriminación podrá celebrar convenios de colaboración con el Defensor del Pueblo u órganos similares de las comunidades autónomas para establecer los mecanismos de cooperación que se consideren oportunos.
 
-
 ## TÍTULO IV
 
-
 **Infracciones y sanciones en materia de igualdad de trato y no discriminación**
-
 
 #### Artículo 46. Objeto y ámbito de aplicación.
 
@@ -788,7 +731,6 @@ En todo caso, en relación con las personas con discapacidad será de aplicació
 3. No podrán sancionarse los hechos que hayan sido sancionados penal o administrativamente, en los casos en que se aprecie identidad de sujeto, de hecho y de fundamento. En los supuestos en que las infracciones pudieran ser constitutivas de ilícito penal, la Administración pasará el tanto de culpa al órgano judicial competente o al Ministerio Fiscal y se abstendrá de seguir el procedimiento sancionador mientras la autoridad judicial no dicte sentencia firme o resolución que ponga fin al procedimiento o mientras el Ministerio Fiscal no comunique la improcedencia de iniciar o proseguir actuaciones. De no haberse estimado la existencia de ilícito penal, o en el caso de haberse dictado resolución de otro tipo que ponga fin al procedimiento penal, la Administración continuará el expediente sancionador en base a los hechos que los Tribunales hayan considerado probados.
 
 4. Si se archivase un procedimiento judicial de carácter penal o la persona fuera absuelta por no ser los hechos constitutivos de infracción penal, pero pudieran ser constitutivos de infracción administrativa con arreglo a la presente ley, el Juez o Tribunal competente, de oficio o a instancia del Ministerio Fiscal o la acusación particular o popular, lo comunicará mediante el oportuno testimonio a la Autoridad Independiente para la Igualdad de Trato y la No Discriminación, competente a los efectos de incoar en su caso el expediente administrativo sancionador que corresponda.
-
 
 #### Artículo 47. Infracciones.
 
@@ -816,7 +758,6 @@ c) La presión grave ejercida sobre la autoridad, agente de la misma, personal
 
 d) La comisión de una tercera o más infracción grave, siempre que en el plazo de los dos años anteriores el presunto infractor hubiera sido ya sancionado por dos infracciones graves mediante resolución administrativa firme.
 
-
 #### Artículo 48. Sanciones.
 
 1. Las infracciones establecidas en la presente ley serán sancionadas con multas que irán de 300 a 500.000 euros, de acuerdo con la siguiente graduación:
@@ -836,7 +777,6 @@ b) Las infracciones graves, con multas, en su grado mínimo de 10.001 a 20.0
 c) Las infracciones muy graves, con multas, en su grado mínimo, de 40.001 a 100.000 euros; en su grado medio, de 100.001 a 200.000 euros; y en su grado máximo de 200.001 a 500.000 euros.
 
 3. La recaudación obtenida del cobro de las multas contempladas en el punto 1 de este artículo, será invertida en la promoción de sensibilización para la igualdad de trato y no discriminación y lucha contra la intolerancia.
-
 
 #### Artículo 49. Criterios de graduación de las sanciones.
 
@@ -866,20 +806,17 @@ j) En todo caso, las infracciones se adoptarán en su grado máximo cuando las
 
 3. Si la infracción se comete por funcionario público en el ejercicio de su cargo, la sanción se aplicará en su grado máximo.
 
-
 #### Artículo 50. Sanciones accesorias y sustitución de sanciones.
 
 1. Cuando las infracciones sean muy graves el órgano que resuelva el expediente sancionador, mediante resolución motivada, podrá imponer como sanción accesoria, además de la multa que proceda, la supresión, cancelación o suspensión total o parcial de ayudas oficiales que la persona sancionada tuviese reconocidos o hubiera solicitado en el sector de actividad en cuyo ámbito se produce la infracción, el cierre del establecimiento en que se haya producido la discriminación o el cese en la actividad económica o profesional desarrollada por la persona infractora por un término máximo de cinco años.
 
 2. En la imposición de sanciones, por resolución motivada del órgano que resuelva el expediente sancionador, con el consentimiento de la persona sancionada, y siempre que no se trate de infracciones muy graves, se podrá sustituir la sanción económica por la prestación de su cooperación personal no retribuida en actividades de utilidad pública, con interés social y valor educativo, o en labores de reparación de los daños causados o de apoyo o asistencia a las víctimas de los actos de discriminación; por la asistencia a cursos de formación o a sesiones individualizadas, o por cualquier otra medida alternativa que tenga la finalidad de sensibilizar al infractor sobre la igualdad de trato y la no discriminación, y de reparar el daño moral de las víctimas y de los grupos afectados.
 
-
 #### Artículo 51. Prescripción de las infracciones y de las sanciones.
 
 Las infracciones a que se refiere la presente ley calificadas como leves prescribirán al año, las calificadas como graves a los tres años y las calificadas como muy graves a los cuatro años.
 
 Las sanciones impuestas por infracciones leves prescribirán al año, las impuestas por infracciones graves a los cuatro años y las impuestas por infracciones muy graves a los cinco años.
-
 
 #### Artículo 52. Autoridades competentes y procedimiento.
 
@@ -897,12 +834,9 @@ Si de la instrucción del procedimiento sancionador correspondiente resultase re
 
 En estos casos, el procedimiento se iniciará siempre de oficio, y el órgano competente para resolver el procedimiento será la persona titular del Ministerio competente por razón de la materia en el ámbito objetivo de aplicación de la ley en el que se haya cometido la conducta infractora, si bien cuando se trate de infracciones muy graves, y el importe de la sanción impuesta exceda los 300.000 euros, se requerirá acuerdo del Consejo de Ministros.
 
-
 ## TÍTULO V
 
-
 **Atención, apoyo e información a las víctimas de la discriminación e intolerancia**
-
 
 #### Artículo 53. Información, atención y medidas de apoyo a las víctimas de discriminación e intolerancia.
 
@@ -912,13 +846,11 @@ En estos casos, el procedimiento se iniciará siempre de oficio, y el órgano co
 
 3. En la atención a las víctimas se dará un tratamiento específico cuando las agresiones o acciones que inciten al odio, la discriminación e intolerancia se hayan realizado utilizando las nuevas tecnologías o a través de las redes sociales.
 
-
 #### Artículo 54. Campañas y apoyo a las organizaciones de víctimas y a las entidades especializadas en la asistencia de víctimas de discriminación y la intolerancia.
 
 1. Los poderes públicos realizarán campañas de sensibilización y divulgación para la igualdad de trato y contra la discriminación y la intolerancia promoviendo la denuncia de las mismas y garantizarán la asistencia a las víctimas, aunque no se interponga denuncia.
 
 2. Los poderes públicos diseñarán y pondrán en marcha en los centros escolares, integrado en el Plan de Convivencia de los centros docentes, un protocolo específico para la alerta, identificación, asistencia y protección en el caso de acoso escolar en relación con las actitudes de discriminación, de intolerancia e incidentes de odio por cualquiera de las causas que se mencionan en los artículos de esta ley.
-
 
 #### Disposición adicional primera. Constitución de la Autoridad Independiente para la Igualdad de Trato y la No Discriminación.
 
@@ -928,26 +860,21 @@ En estos casos, el procedimiento se iniciará siempre de oficio, y el órgano co
 
 3. En el plazo de un año desde su constitución la Autoridad Independiente para la Igualdad de Trato y la No Discriminación presentará al Departamento competente en materia de igualdad de trato una propuesta para la constitución de un Centro de Documentación y Memoria sobre Discriminación, Odio e Intolerancia.
 
-
 #### Disposición adicional segunda. Asistencia jurídica a la Autoridad Independiente para la Igualdad de Trato y la No Discriminación.
 
 La asistencia jurídica, consistente en el asesoramiento, representación y defensa en juicio, de la Autoridad Independiente para la Igualdad de Trato y la No Discriminación se llevará a cabo de conformidad con la Ley 52/1997, de 27 de noviembre, de Asistencia Jurídica al Estado e Instituciones Públicas.
-
 
 #### Disposición adicional tercera. Designación de la Autoridad Independiente para la Igualdad de Trato y la No Discriminación.
 
 La Autoridad Independiente para la Igualdad de Trato y la No Discriminación será el organismo competente en el Reino de España a efectos de lo dispuesto en el artículo 13 de la Directiva 2000/43/CE del Consejo, de 29 de junio de 2000, relativa a la aplicación del principio de igualdad de trato de las personas independientemente de su origen racial o étnico.
 
-
 #### Disposición adicional cuarta. No afectación de la legislación en materia de extranjería.
 
 Lo dispuesto en esta ley se entiende sin perjuicio de la regulación establecida en la Ley Orgánica 4/2000, de 11 de enero, sobre derechos y libertades de los extranjeros en españa y su integración social y en su normativa de desarrollo.
 
-
 #### Disposición adicional quinta. Cumplimiento de las disposiciones previstas en la Ley integral para la igualdad de trato y la no discriminación en materia de negociación colectiva y laboral.
 
 Las organizaciones empresariales y sindicales más representativas elaborarán un informe con carácter anual sobre el cumplimento de las disposiciones previstas en los artículos 9, 10 y 11 de la Ley integral para la igualdad de trato y no discriminación.
-
 
 #### Disposición adicional sexta. Informe amplio e integral sobre disposiciones normativas vigentes y prácticas en la Administración del Estado que contraríen el deber de igualdad de trato y no discriminación.
 
@@ -955,11 +882,9 @@ Las organizaciones empresariales y sindicales más representativas elaborarán u
 
 2. Dicho informe se elevará a las Cortes Generales y al Gobierno de España, para constancia y como material de utilidad para, de partida, promover las modificaciones normativas o corregir las prácticas administrativas inadecuadas a los efectos de la igualdad de trato y la no discriminación.
 
-
 #### Disposición transitoria única. Régimen transitorio de procedimientos.
 
 A los procedimientos administrativos y judiciales ya iniciados con anterioridad a la entrada en vigor de esta ley no les será de aplicación la misma, rigiéndose por la normativa anterior.
-
 
 #### Disposición final primera. Modificación de la Ley 34/2002, de 11 de julio, de servicios de la sociedad de la información y comercio electrónico.
 
@@ -967,11 +892,9 @@ Se añade un segundo párrafo al apartado 4 del artículo 11 de la Ley 34/200
 
 «En particular, cuando resulte necesario para proteger los derechos de la víctima o grupos o personas discriminadas, los jueces y tribunales podrán acordar, de conformidad con la legislación procesal, motivadamente, y siempre de acuerdo con el principio de proporcionalidad, cualquiera de las medidas de restricción o interrupción de la prestación de servicios o de retirada de datos de páginas de internet que contempla la presente ley.»
 
-
 #### Disposición final segunda. Modificación de la Ley 1/2000, de 7 de enero, de Enjuiciamiento Civil.
 
 Uno. Se modifica el artículo 11 bis de la Ley 1/2000, de 7 de enero, de Enjuiciamiento Civil, en los siguientes términos:
-
 
 #### «Artículo 11 bis. Legitimación para la defensa del derecho a la igualdad de trato y no discriminación.
 
@@ -980,7 +903,6 @@ Uno. Se modifica el artículo 11 bis de la Ley 1/2000, de 7 de enero, de En
 2. Cuando las personas afectadas sean una pluralidad indeterminada o de difícil determinación, la legitimación para instar acciones judiciales en defensa de derechos o intereses difusos corresponderá a la Autoridad Independiente para la Igualdad de Trato y la No Discriminación, a los partidos políticos, los sindicatos y las asociaciones profesionales de trabajadores autónomos más representativos, así como a las organizaciones de personas consumidoras y usuarias de ámbito estatal, a las organizaciones, de ámbito estatal o del ámbito territorial en el que se produce la situación de discriminación que tengan entre sus fines la defensa y promoción de los derechos humanos, de acuerdo con lo establecido en la Ley integral para la igualdad de trato y la no discriminación, sin perjuicio en todo caso de la legitimación individual de aquellas personas afectadas que estuviesen determinadas.»
 
 Dos. Se introduce un nuevo artículo 15 ter a la Ley 1/2000, de 7 de enero, de Enjuiciamiento Civil, en los siguientes términos:
-
 
 #### «Artículo 15 ter. Publicidad e intervención en procesos para la defensa del derecho a la igualdad de trato y no discriminación.
 
@@ -1002,7 +924,6 @@ En las sentencias sobre estado civil, matrimonio, filiación, paternidad, matern
 
 Las sentencias que se dicten sobre impugnación de acuerdos societarios afectarán a todos los socios, aunque no hubieren litigado.»
 
-
 #### Disposición final tercera. Modificaciones de la Ley 29/1998, de 13 de julio, reguladora de la Jurisdicción Contencioso-administrativa.
 
 Uno. La letra i) del artículo 19.1 de la Ley 29/1998, de 13 de julio, reguladora de la Jurisdicción Contencioso-administrativa, pasa a tener la siguiente redacción:
@@ -1019,7 +940,6 @@ Dos. Se modifica el apartado 7 del artículo 60, que pasa a tener la siguien
 
 A los efectos de lo dispuesto en el párrafo anterior, el órgano judicial, de oficio o a instancia de parte, podrá recabar informe de los organismos públicos competentes en materia de igualdad.»
 
-
 #### Disposición final cuarta. Modificación de la Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común de las Administraciones Públicas.
 
 Se añade un nuevo apartado 3 bis en el artículo 77 de la Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común de las Administraciones Públicas, con la siguiente redacción:
@@ -1027,7 +947,6 @@ Se añade un nuevo apartado 3 bis en el artículo 77 de la Ley 39/2015, de 1
 «3 bis. Cuando el interesado alegue discriminación y aporte indicios fundados sobre su existencia, corresponderá a la persona a quien se impute la situación discriminatoria la aportación de una justificación objetiva y razonable, suficientemente probada, de las medidas adoptadas y de su proporcionalidad.
 
 A los efectos de lo dispuesto en el párrafo anterior, el órgano administrativo podrá recabar informe de los organismos públicos competentes en materia de igualdad.»
-
 
 #### Disposición final quinta. Modificación del Estatuto Orgánico del Ministerio Fiscal.
 
@@ -1051,13 +970,11 @@ d) Elaborar semestralmente, y presentar al Fiscal General del Estado, para su 
 
 Para su adecuada actuación se le adscribirán los profesionales y expertos que sean necesarios para auxiliarlo de manera permanente u ocasional y actuará en coordinación con las entidades, asociaciones y organizaciones legalmente constituidas que tengan entre sus finalidades la defensa y promoción de los derechos humanos y la erradicación de la discriminación.»
 
-
 #### Disposición final sexta. Modificación de la Ley 3/1991, de 10 de enero, de Competencia Desleal.
 
 Se añade un nuevo párrafo segundo en el apartado 2 del artículo 32 de la Ley 3/1991, de 10 de enero, de Competencia Desleal, que queda redactado de la siguiente forma:
 
 «Además, esta publicidad podrá realizarse a criterio del tribunal y previa remisión al efecto, a través de la Autoridad para la Igualdad de Trato y la No Discriminación y los observatorios o de los órganos competentes del departamento u organismo con competencias en materia de igualdad entre mujeres y hombres de ámbito nacional o su equivalente en el ámbito autonómico.»
-
 
 #### Disposición final séptima. Modificación de la Ley General para la Defensa de los Consumidores y Usuarios y otras leyes complementarias.
 
@@ -1070,7 +987,6 @@ La publicidad de las sanciones impuestas por la difusión de contenidos sexistas
 Dos. Se añade un apartado 3 al artículo 46 que queda redactado en los siguientes términos:
 
 «3. En aquellos procesos en los que la parte actora alegue discriminación y aporte indicios fundados sobre su existencia corresponderá a la parte contra la que se dirija la queja o la demanda la aportación de una justificación objetiva y razonable, suficientemente probada, de las medidas adoptadas y de proporcionalidad. A los efectos de lo dispuesto en el párrafo anterior, la administración competente en materia de consumo, así como los órganos judiciales de oficio o a instancia de parte podrán recabar informe de los organismos públicos competentes en materia de igualdad.»
-
 
 #### Disposición final octava. Título competencial.
 
@@ -1102,15 +1018,11 @@ Dos. Se añade un apartado 3 al artículo 46 que queda redactado en los sigu
 
 14. La presente ley tiene carácter supletorio en las comunidades autónomas con competencias propias en la materia que hayan legislado sobre la misma.
 
-
 #### Disposición final novena. Habilitación para el desarrollo reglamentario.
 
 El Gobierno y el Ministerio competente en materia de igualdad, de acuerdo con lo previsto en esta ley y en el ámbito de sus respectivas competencias, podrán dictar las normas reglamentarias necesarias para el desarrollo y aplicación de esta ley.
 
-
 #### Disposición final décima. Entrada en vigor.
-
-La presente ley entrará en vigor el día siguiente al de su publicación en el «Boletín Oficial del Estado».
 
 Por tanto,
 

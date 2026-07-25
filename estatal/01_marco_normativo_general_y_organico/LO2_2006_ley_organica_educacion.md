@@ -44,16 +44,13 @@ fundamentos_derecho:
 
 # Ley Orgánica 2/2006, de 3 de mayo, de Educación (Texto Consolidado LOMLOE)
 
-
 **JUAN CARLOS I**
-
 
 **REY DE ESPAÑA**
 
 A todos los que la presente vieren y entendieren.
 
 Sabed: Que las Cortes Generales han aprobado y Yo vengo en sancionar la siguiente ley orgánica.
-
 
 ## PREÁMBULO
 
@@ -199,7 +196,6 @@ CAPÍTULO I
 
 Principios y fines de la educación
 
-
 #### Artículo 1. Principios.
 
 El sistema educativo español, configurado de acuerdo con los valores de la Constitución y asentado en el respeto a los derechos y libertades reconocidos en ella, se inspira en los siguientes principios:
@@ -238,7 +234,6 @@ o) La cooperación entre el Estado y las Comunidades Autónomas en la definició
 
 p) La cooperación y colaboración de las Administraciones educativas con las corporaciones locales en la planificación e implementación de la política educativa.
 
-
 #### Artículo 2. Fines.
 
 1. El sistema educativo español se orientará a la consecución de los siguientes fines:
@@ -270,7 +265,6 @@ k) La preparación para el ejercicio de la ciudadanía y para la participación 
 CAPÍTULO II
 
 La organización de las enseñanzas y el aprendizaje a lo largo de la vida
-
 
 #### Artículo 3. Las enseñanzas.
 
@@ -312,7 +306,6 @@ j)  Enseñanza universitaria.
 
 9. Para garantizar el derecho a la educación de quienes no puedan asistir de modo regular a los centros docentes, se desarrollará una oferta adecuada de educación a distancia o, en su caso, de apoyo y atención educativa específica.
 
-
 #### Artículo 4. La enseñanza básica.
 
 1. La enseñanza básica a la que se refiere el artículo 3.3 de esta Ley es obligatoria y gratuita para todas las personas.
@@ -320,7 +313,6 @@ j)  Enseñanza universitaria.
 2. La enseñanza básica comprende diez años de escolaridad y se desarrolla, de forma regular, entre los seis y los dieciséis años de edad. No obstante, los alumnos tendrán derecho a permanecer en régimen ordinario cursando la enseñanza básica hasta los dieciocho años de edad, cumplidos en el año en que finalice el curso, en las condiciones establecidas en la presente Ley.
 
 3. Sin perjuicio de que a lo largo de la enseñanza básica se garantice una educación común para los alumnos, se adoptará la atención a la diversidad como principio fundamental. Cuando tal diversidad lo requiera, se adoptarán las medidas organizativas y curriculares pertinentes, según lo dispuesto en la presente Ley.
-
 
 #### Artículo 5. El aprendizaje a lo largo de la vida.
 
@@ -340,7 +332,6 @@ CAPÍTULO III
 
 Currículo
 
-
 #### Artículo 6. Currículo.
 
 1. A los efectos de lo dispuesto en esta Ley, se entiende por currículo el conjunto de objetivos, competencias básicas, contenidos, métodos pedagógicos y criterios de evaluación de cada una de las enseñanzas reguladas en la presente Ley.
@@ -359,11 +350,9 @@ CAPÍTULO IV
 
 Cooperación entre Administraciones educativas
 
-
 #### Artículo 7. Concertación de políticas educativas.
 
 Las Administraciones educativas podrán concertar el establecimiento de criterios y objetivos comunes con el fin de mejorar la calidad del sistema educativo y garantizar la equidad. La Conferencia Sectorial de Educación promoverá este tipo de acuerdos y será informada de todos los que se adopten.
-
 
 #### Artículo 8. Cooperación entre Administraciones.
 
@@ -373,20 +362,17 @@ Las Administraciones educativas podrán concertar el establecimiento de criterio
 
 3. Las Comunidades Autónomas podrán convenir la delegación de competencias de gestión de determinados servicios educativos en los municipios o agrupaciones de municipios que se configuren al efecto, a fin de propiciar una mayor eficacia, coordinación y control social en el uso de los recursos.
 
-
 #### Artículo 9. Programas de cooperación territorial.
 
 1. El Estado promoverá programas de cooperación territorial con el fin de alcanzar los objetivos educativos de carácter general, reforzar las competencias básicas de los estudiantes, favorecer el conocimiento y aprecio por parte del alumnado de la riqueza cultural y lingüística de las distintas Comunidades Autónomas, así como contribuir a la solidaridad interterritorial y al equilibrio territorial en la compensación de desigualdades.
 
 2. Los programas a los que se refiere este artículo podrán llevarse a cabo mediante convenios o acuerdos entre las diferentes Administraciones educativas competentes.
 
-
 #### Artículo 10. Difusión de información.
 
 1. Corresponde a las Administraciones educativas facilitar el intercambio de información y la difusión de buenas prácticas educativas o de gestión de los centros docentes, a fin de contribuir a la mejora de la calidad de la educación.
 
 2. Las Administraciones educativas proporcionarán los datos necesarios para la elaboración de las estadísticas educativas nacionales e internacionales que corresponde efectuar al Estado, las cuales contribuyen a la gestión, planificación, seguimiento y evaluación del sistema educativo, así como a la investigación educativa. Asimismo, las Administraciones educativas harán públicos los datos e indicadores que contribuyan a facilitar la transparencia, la buena gestión de la educación y la investigación educativa.
-
 
 #### Artículo 11. Oferta y recursos educativos.
 
@@ -396,16 +382,13 @@ Las Administraciones educativas podrán concertar el establecimiento de criterio
 
 3. Con la misma finalidad, y en aplicación del principio de colaboración, corresponde a las Administraciones educativas facilitar a alumnos y profesores de otras Comunidades Autónomas el acceso a sus instalaciones con valor educativo y la utilización de sus recursos.
 
-
 ## TÍTULO I
-
 
 **Las Enseñanzas y su Ordenación**
 
 CAPÍTULO I
 
 Educación infantil
-
 
 #### Artículo 12. Principios generales.
 
@@ -414,7 +397,6 @@ Educación infantil
 2. La educación infantil tiene carácter voluntario y su finalidad es la de contribuir al desarrollo físico, afectivo, social e intelectual de los niños.
 
 3. Con objeto de respetar la responsabilidad fundamental de las madres y padres o tutores en esta etapa, los centros de educación infantil cooperarán estrechamente con ellos.
-
 
 #### Artículo 13. Objetivos.
 
@@ -434,7 +416,6 @@ f) Desarrollar habilidades comunicativas en diferentes lenguajes y formas de exp
 
 g) Iniciarse en las habilidades lógico-matemáticas, en la lecto-escritura y en el movimiento, el gesto y el ritmo.
 
-
 #### Artículo 14. Ordenación y principios pedagógicos.
 
 1. La etapa de educación infantil se ordena en dos ciclos. El primero comprende hasta los tres años, y el segundo, desde los tres a los seis años de edad.
@@ -451,7 +432,6 @@ g) Iniciarse en las habilidades lógico-matemáticas, en la lecto-escritura y en
 
 7. Las Administraciones educativas determinarán los contenidos educativos del primer ciclo de la educación infantil de acuerdo con lo previsto en el presente capítulo. Asimismo, regularán los requisitos que hayan de cumplir los centros que impartan dicho ciclo, relativos, en todo caso, a la relación numérica alumnado-profesor, a las instalaciones y al número de puestos escolares.
 
-
 #### Artículo 15. Oferta de plazas y gratuidad.
 
 1. Las Administraciones públicas promoverán un incremento progresivo de la oferta de plazas públicas en el primer ciclo. Asimismo coordinarán las políticas de cooperación entre ellas y con otras entidades para asegurar la oferta educativa en este ciclo. A tal fin, determinarán las condiciones en las que podrán establecerse convenios con las corporaciones locales, otras Administraciones y entidades privadas sin fines de lucro.
@@ -466,7 +446,6 @@ CAPÍTULO II
 
 Educación primaria
 
-
 #### Artículo 16. Principios generales.
 
 1. La educación primaria es una etapa educativa que comprende seis cursos académicos, que se cursarán ordinariamente entre los seis y los doce años de edad.
@@ -474,7 +453,6 @@ Educación primaria
 2. La finalidad de la educación primaria es proporcionar a todos los niños y niñas una educación que permita afianzar su desarrollo personal y su propio bienestar, adquirir las habilidades culturales básicas relativas a la expresión y comprensión oral, a la lectura, a la escritura y al cálculo, así como desarrollar las habilidades sociales, los hábitos de trabajo y estudio, el sentido artístico, la creatividad y la afectividad.
 
 3. La acción educativa en esta etapa procurará la integración de las distintas experiencias y aprendizajes del alumnado y se adaptará a sus ritmos de trabajo.
-
 
 #### Artículo 17. Objetivos de la educación primaria.
 
@@ -508,7 +486,6 @@ m) Desarrollar sus capacidades afectivas en todos los ámbitos de la personalida
 
 n) Fomentar la educación vial y actitudes de respeto que incidan en la prevención de los accidentes de tráfico.
 
-
 #### Artículo 18. Organización.
 
 1. La etapa de educación primaria comprende tres ciclos de dos años académicos cada uno y se organiza en áreas, que tendrán un carácter global e integrador.
@@ -535,7 +512,6 @@ Matemáticas.
 
 6. En el conjunto de la etapa, la acción tutorial orientará el proceso educativo individual y colectivo del alumnado.
 
-
 #### Artículo 19. Principios pedagógicos.
 
 1. En esta etapa se pondrá especial énfasis en la atención a la diversidad del alumnado, en la atención individualizada, en la prevención de las dificultades de aprendizaje y en la puesta en práctica de mecanismos de refuerzo tan pronto como se detecten estas dificultades.
@@ -543,7 +519,6 @@ Matemáticas.
 2. Sin perjuicio de su tratamiento específico en algunas de las áreas de la etapa, la comprensión lectora, la expresión oral y escrita, la comunicación audiovisual, las tecnologías de la información y la comunicación y la educación en valores se trabajarán en todas las áreas.
 
 3. A fin de fomentar el hábito de la lectura se dedicará un tiempo diario a la misma.
-
 
 #### Artículo 20. Evaluación.
 
@@ -557,7 +532,6 @@ Matemáticas.
 
 5. Con el fin de garantizar la continuidad del proceso de formación del alumnado, cada alumno dispondrá al finalizar la etapa de un informe sobre su aprendizaje, los objetivos alcanzados y las competencias básicas adquiridas, según dispongan las Administraciones educativas. Asimismo las Administraciones educativas establecerán los pertinentes mecanismos de coordinación.
 
-
 #### Artículo 21. Evaluación de diagnóstico.
 
 Al finalizar el segundo ciclo de la educación primaria todos los centros realizarán una evaluación de diagnóstico de las competencias básicas alcanzadas por sus alumnos. Esta evaluación, competencia de las Administraciones educativas, tendrá carácter formativo y orientador para los centros e informativo para las familias y para el conjunto de la comunidad educativa. Estas evaluaciones tendrán como marco de referencia las evaluaciones generales de diagnóstico que se establecen en el artículo 144.1 de esta Ley.
@@ -565,7 +539,6 @@ Al finalizar el segundo ciclo de la educación primaria todos los centros realiz
 CAPÍTULO III
 
 Educación secundaria obligatoria
-
 
 #### Artículo 22. Principios generales.
 
@@ -582,7 +555,6 @@ Educación secundaria obligatoria
 6. En el marco de lo dispuesto en los apartados 4 y 5, los centros educativos tendrán autonomía para organizar los grupos y las materias de manera flexible y para adoptar las medidas de atención a la diversidad adecuadas a las características de su alumnado.
 
 7. Las medidas de atención a la diversidad que adopten los centros estarán orientadas a la consecución de los objetivos de la educación secundaria obligatoria por parte de todo su alumnado y no podrán, en ningún caso, suponer una discriminación que les impida alcanzar dichos objetivos y la titulación correspondiente.
-
 
 #### Artículo 23. Objetivos.
 
@@ -611,7 +583,6 @@ j) Conocer, valorar y respetar los aspectos básicos de la cultura y la historia
 k) Conocer y aceptar el funcionamiento del propio cuerpo y el de los otros, respetar las diferencias, afianzar los hábitos de cuidado y salud corporales e incorporar la educación física y la práctica del deporte para favorecer el desarrollo personal y social. Conocer y valorar la dimensión humana de la sexualidad en toda su diversidad. Valorar críticamente los hábitos sociales relacionados con la salud, el consumo, el cuidado de los seres vivos y el medio ambiente, contribuyendo a su conservación y mejora.
 
 l) Apreciar la creación artística y comprender el lenguaje de las distintas manifestaciones artísticas, utilizando diversos medios de expresión y representación.
-
 
 #### Artículo 24. Organización de los cursos primero, segundo y tercero.
 
@@ -661,7 +632,6 @@ Matemáticas.
 
 8. Los centros educativos podrán organizar, de acuerdo con lo que regulen las Administraciones educativas, programas de refuerzo de las capacidades básicas para aquellos alumnos que, en virtud del informe al que se hace referencia en el artículo 20.5, así lo requieran para poder seguir con aprovechamiento las enseñanzas de la educación secundaria.
 
-
 #### Artículo 25. Organización del cuarto curso.
 
 1. Todos los alumnos deberán cursar en el cuarto curso las materias siguientes:
@@ -706,7 +676,6 @@ Tecnología.
 
 7. Los centros deberán ofrecer la totalidad de las materias y opciones citadas en los apartados anteriores. Sólo se podrá limitar la elección de materias y opciones de los alumnos cuando haya un número insuficiente de los mismos para alguna de ellas a partir de criterios objetivos establecidos previamente por las Administraciones educativas.
 
-
 #### Artículo 26. Principios pedagógicos.
 
 1. Los centros elaborarán sus propuestas pedagógicas para esta etapa desde la consideración de la atención a la diversidad y del acceso de todo el alumnado a la educación común. Asimismo, arbitrarán métodos que tengan en cuenta los diferentes ritmos de aprendizaje de los alumnos, favorezcan la capacidad de aprender por sí mismos y promuevan el trabajo en equipo.
@@ -719,7 +688,6 @@ Tecnología.
 
 5. Asimismo, corresponde a las Administraciones educativas regular soluciones específicas para la atención de aquellos alumnos que manifiesten dificultades especiales de aprendizaje o de integración en la actividad ordinaria de los centros, de los alumnos de alta capacidad intelectual y de los alumnos con discapacidad.
 
-
 #### Artículo 27. Programas de diversificación curricular.
 
 1. En la definición de las enseñanzas mínimas de la etapa se incluirán las condiciones básicas para establecer las diversificaciones del currículo desde tercer curso de educación secundaria obligatoria, para el alumnado que lo requiera tras la oportuna evaluación. En este supuesto, los objetivos de la etapa se alcanzarán con una metodología específica a través de una organización de contenidos, actividades prácticas y, en su caso, de materias, diferente a la establecida con carácter general.
@@ -727,7 +695,6 @@ Tecnología.
 2. Los alumnos que una vez cursado segundo no estén en condiciones de promocionar a tercero y hayan repetido ya una vez en secundaria, podrán incorporarse a un programa de diversificación curricular, tras la oportuna evaluación.
 
 3. Los programas de diversificación curricular estarán orientados a la consecución del título de Graduado en Educación Secundaria Obligatoria.
-
 
 #### Artículo 28. Evaluación y promoción.
 
@@ -749,11 +716,9 @@ Tecnología.
 
 9. Los alumnos que cursen los programas de diversificación curricular a los que se refiere el artículo 27, serán evaluados de conformidad con los objetivos de la etapa y los criterios de evaluación fijados en cada uno de los respectivos programas.
 
-
 #### Artículo 29. Evaluación de diagnóstico.
 
 Al finalizar el segundo curso de la educación secundaria obligatoria todos los centros realizarán una evaluación de diagnóstico de las competencias básicas alcanzadas por sus alumnos. Esta evaluación será competencia de las Administraciones educativas y tendrá carácter formativo y orientador para los centros e informativo para las familias y para el conjunto de la comunidad educativa. Estas evaluaciones tendrán como marco de referencia las evaluaciones generales de diagnóstico que se establecen en el artículo 144.1 de esta Ley.
-
 
 #### Artículo 30. Programas de cualificación profesional inicial.
 
@@ -775,7 +740,6 @@ c) Módulos de carácter voluntario para los alumnos, que conduzcan a la obtenci
 
 6. Corresponde a las Administraciones educativas regular los programas de cualificación profesional inicial, que serán ofrecidos, en todo caso, en centros públicos y privados concertados a fin de posibilitar al alumnado el acceso a dichos programas.
 
-
 #### Artículo 31. Título de Graduado en Educación Secundaria Obligatoria.
 
 1. Los alumnos que al terminar la educación secundaria obligatoria hayan alcanzado las competencias básicas y los objetivos de la etapa obtendrán el título de Graduado en Educación Secundaria Obligatoria.
@@ -788,7 +752,6 @@ CAPÍTULO IV
 
 Bachillerato
 
-
 #### Artículo 32. Principios generales.
 
 1. El bachillerato tiene como finalidad proporcionar a los alumnos formación, madurez intelectual y humana, conocimientos y habilidades que les permitan desarrollar funciones sociales e incorporarse a la vida activa con responsabilidad y competencia. Asimismo, capacitará a los alumnos para acceder a la educación superior.
@@ -800,7 +763,6 @@ Bachillerato
 4. Los alumnos podrán permanecer cursando bachillerato en régimen ordinario durante cuatro años.
 
 5. Las Administraciones públicas promoverán un incremento progresivo de la oferta de plazas públicas en bachillerato en sus distintas modalidades y vías.
-
 
 #### Artículo 33. Objetivos.
 
@@ -833,7 +795,6 @@ l) Desarrollar la sensibilidad artística y literaria, así como el criterio est
 m) Utilizar la educación física y el deporte para favorecer el desarrollo personal y social.
 
 n) Afianzar actitudes de respeto y prevención en el ámbito de la seguridad vial.
-
 
 #### Artículo 34. Organización.
 
@@ -873,13 +834,11 @@ Lengua extranjera.
 
 8. El Gobierno, previa consulta a las Comunidades Autónomas, regulará el régimen de reconocimiento recíproco entre los estudios de bachillerato y los ciclos formativos de grado medio a fin de que puedan ser tenidos en cuenta los estudios superados, aun cuando no se haya alcanzado la titulación correspondiente.
 
-
 #### Artículo 35. Principios pedagógicos.
 
 1. Las actividades educativas en el bachillerato favorecerán la capacidad del alumno para aprender por sí mismo, para trabajar en equipo y para aplicar los métodos de investigación apropiados.
 
 2. Las Administraciones educativas promoverán las medidas necesarias para que en las distintas materias se desarrollen actividades que estimulen el interés y el hábito de la lectura y la capacidad de expresarse correctamente en público.
-
 
 #### Artículo 36. Evaluación y promoción.
 
@@ -889,13 +848,11 @@ Lengua extranjera.
 
 3. Los alumnos podrán realizar una prueba extraordinaria de las materias que no hayan superado, en las fechas que determinen las Administraciones educativas.
 
-
 #### Artículo 37. Título de Bachiller.
 
 1. Los alumnos que cursen satisfactoriamente el bachillerato en cualquiera de sus modalidades recibirán el título de Bachiller, que tendrá efectos laborales y académicos. Para obtener el título será necesaria la evaluación positiva en todas las materias de los dos cursos de bachillerato.
 
 2. El título de Bachiller facultará para acceder a las distintas enseñanzas que constituyen la educación superior establecidas en el artículo 3.5.
-
 
 #### Artículo 38. Prueba de acceso a la universidad.
 
@@ -915,7 +872,6 @@ CAPÍTULO V
 
 Formación profesional
 
-
 #### Artículo 39. Principios generales.
 
 1. La formación profesional comprende el conjunto de acciones formativas que capacitan para el desempeño cualificado de las diversas profesiones, el acceso al empleo y la participación activa en la vida social, cultural y económica. Incluye las enseñanzas propias de la formación profesional inicial, las acciones de inserción y reinserción laboral de los trabajadores así como las orientadas a la formación continua en las empresas, que permitan la adquisición y actualización permanente de las competencias profesionales. La regulación contenida en la presente Ley se refiere a la formación profesional inicial que forma parte del sistema educativo.
@@ -929,7 +885,6 @@ Formación profesional
 5. Los estudios de formación profesional regulados en esta Ley podrán realizarse tanto en los centros educativos que en ella se regulan como en los centros integrados y de referencia nacional a los que se refiere el artículo 11 de la Ley Orgánica 5/2002, de 19 de junio, de las Cualificaciones y de la Formación Profesional.
 
 6. El Gobierno, previa consulta a las Comunidades Autónomas, establecerá las titulaciones correspondientes a los estudios de formación profesional, así como los aspectos básicos del currículo de cada una de ellas.
-
 
 #### Artículo 40. Objetivos.
 
@@ -947,7 +902,6 @@ e) Desarrollar una identidad profesional motivadora de futuros aprendizajes y ad
 
 f) Afianzar el espíritu emprendedor para el desempeño de actividades e iniciativas empresariales.
 
-
 #### Artículo 41. Condiciones de acceso.
 
 1. Podrán cursar la formación profesional de grado medio quienes se hallen en posesión del título de Graduado en Educación Secundaria Obligatoria. Podrán cursar la formación profesional de grado superior quienes se hallen en posesión del título de Bachiller.
@@ -960,7 +914,6 @@ f) Afianzar el espíritu emprendedor para el desempeño de actividades e iniciat
 
 5. Las Administraciones educativas podrán programar y ofertar cursos destinados a la preparación de las pruebas para el acceso a la formación profesional de grado medio por parte de quienes hayan superado un programa de cualificación profesional inicial y para el acceso a la formación profesional de grado superior por parte de quienes estén en posesión del título de Técnico al que se refiere el apartado 1 del artículo 44. Las calificaciones obtenidas en estos cursos serán tenidas en cuenta en la nota final de la respectiva prueba de acceso.
 
-
 #### Artículo 42. Contenido y organización de la oferta.
 
 1. Corresponde a las Administraciones educativas, en el ámbito de sus competencias y con la colaboración de las corporaciones locales y de los agentes sociales y económicos, programar la oferta de las enseñanzas de formación profesional, con respeto a los derechos reconocidos en la presente Ley.
@@ -969,13 +922,11 @@ f) Afianzar el espíritu emprendedor para el desempeño de actividades e iniciat
 
 3. La formación profesional promoverá la integración de contenidos científicos, tecnológicos y organizativos y garantizará que el alumnado adquiera los conocimientos y capacidades relacionadas con las áreas establecidas en la disposición adicional tercera de la Ley 5/2002, de 19 de junio, de las Cualificaciones y de la Formación Profesional.
 
-
 #### Artículo 43. Evaluación.
 
 1. La evaluación del aprendizaje del alumnado en los ciclos formativos se realizará por módulos profesionales.
 
 2. La superación de un ciclo formativo requerirá la evaluación positiva en todos los módulos que lo componen.
-
 
 #### Artículo 44. Títulos y convalidaciones.
 
@@ -993,7 +944,6 @@ CAPÍTULO VI
 
 Enseñanzas artísticas
 
-
 #### Artículo 45. Principios.
 
 1. Las enseñanzas artísticas tienen como finalidad proporcionar al alumnado una formación artística de calidad y garantizar la cualificación de los futuros profesionales de la música, la danza, el arte dramático, las artes plásticas y el diseño.
@@ -1010,13 +960,11 @@ c) Las enseñanzas artísticas superiores. Tienen esta condición los estudios s
 
 4. El Gobierno, previa consulta a las Comunidades Autónomas, regulará la composición y funciones de dicho Consejo.
 
-
 #### Artículo 46. Ordenación de las enseñanzas.
 
 1. El currículo de las enseñanzas artísticas profesionales será definido por el procedimiento establecido en el artículo 6 de esta Ley.
 
 2. La definición del contenido de las enseñanzas artísticas superiores, así como la evaluación de las mismas, se hará en el contexto de la ordenación de la educación superior española en el marco europeo y con la participación del Consejo Superior de Enseñanzas Artísticas y, en su caso, del Consejo de Coordinación Universitaria.
-
 
 #### Artículo 47. Correspondencia con otras enseñanzas.
 
@@ -1026,7 +974,6 @@ c) Las enseñanzas artísticas superiores. Tienen esta condición los estudios s
 
 Sección primera. Enseñanzas elementales y profesionales de música y de danza
 
-
 #### Artículo 48. Organización.
 
 1. Las enseñanzas elementales de música y de danza tendrán las características y la organización que las Administraciones educativas determinen.
@@ -1035,11 +982,9 @@ Sección primera. Enseñanzas elementales y profesionales de música y de danza
 
 3. Con independencia de lo establecido en los apartados anteriores, podrán cursarse estudios de música o de danza que no conduzcan a la obtención de títulos con validez académica o profesional en escuelas específicas, con organización y estructura diferentes y sin limitación de edad. Estas escuelas serán reguladas por las Administraciones educativas.
 
-
 #### Artículo 49. Acceso.
 
 Para acceder a las enseñanzas profesionales de música y de danza será preciso superar una prueba específica de acceso regulada y organizada por las Administraciones educativas. Podrá accederse igualmente a cada curso sin haber superado los anteriores siempre que, a través de una prueba, el aspirante demuestre tener los conocimientos necesarios para cursar con aprovechamiento las enseñanzas correspondientes.
-
 
 #### Artículo 50. Titulaciones.
 
@@ -1049,13 +994,11 @@ Para acceder a las enseñanzas profesionales de música y de danza será preciso
 
 Sección segunda. Enseñanzas profesionales de artes plásticas y diseño
 
-
 #### Artículo 51. Organización.
 
 1. Las enseñanzas de artes plásticas y diseño se organizarán en ciclos de formación específica, según lo dispuesto al efecto en el capítulo V del título I de la presente Ley, con las salvedades que se establecen en los artículos siguientes.
 
 2. Los ciclos formativos a los que se refiere este artículo incluirán fases de formación práctica en empresas, estudios y talleres.
-
 
 #### Artículo 52. Requisitos de acceso.
 
@@ -1068,7 +1011,6 @@ Sección segunda. Enseñanzas profesionales de artes plásticas y diseño
 4. Las pruebas a las que se refiere el apartado anterior deberán acreditar para el grado medio los conocimientos y habilidades suficientes para cursar con aprovechamiento dichas enseñanzas, además de las aptitudes necesarias a las que se refiere el apartado 1 de este artículo. Para el acceso al grado superior deberán acreditar la madurez en relación con los objetivos del bachillerato y las aptitudes a las que hace referencia el apartado dos de este artículo.
 
 5. Las Administraciones educativas regularán las pruebas mencionadas en los apartados anteriores.
-
 
 #### Artículo 53. Titulaciones.
 
@@ -1084,7 +1026,6 @@ Sección segunda. Enseñanzas profesionales de artes plásticas y diseño
 
 Sección tercera. Enseñanzas artísticas superiores
 
-
 #### Artículo 54. Estudios superiores de música y de danza.
 
 1. Los estudios superiores de música y de danza se organizarán en diferentes especialidades y consistirán en un ciclo de duración variable según sus respectivas características.
@@ -1096,7 +1037,6 @@ a) Estar en posesión del título de Bachiller o haber superado la prueba de acc
 b) Haber superado una prueba específica de acceso regulada por las Administraciones educativas en la que el aspirante demuestre los conocimientos y habilidades profesionales necesarios para cursar con aprovechamiento las enseñanzas correspondientes. La posesión del título profesional será tenida en cuenta en la calificación final de la prueba.
 
 3. Los alumnos que hayan terminado los estudios superiores de música o de danza obtendrán el título Superior de Música o Danza en la especialidad de que se trate, que será equivalente a todos los efectos al título universitario de Licenciado o el título de Grado equivalente.
-
 
 #### Artículo 55. Enseñanzas de arte dramático.
 
@@ -1110,13 +1050,11 @@ b) Haber superado una prueba específica, regulada por las Administraciones educ
 
 3. Quienes hayan superado las enseñanzas de arte dramático obtendrán el título Superior de Arte Dramático, equivalente a todos los efectos al título universitario de Licenciado o el título de Grado equivalente.
 
-
 #### Artículo 56. Enseñanzas de conservación y restauración de bienes culturales.
 
 1. Para el acceso a las enseñanzas de conservación y restauración de bienes culturales se requerirá estar en posesión del título de Bachiller y superar una prueba de acceso, regulada por las Administraciones educativas, en la que se valorarán la madurez, los conocimientos y las aptitudes para cursar con aprovechamiento estas enseñanzas.
 
 2. Los alumnos que superen estos estudios obtendrán el título Superior de Conservación y Restauración de Bienes Culturales, que será equivalente a todos los efectos al título universitario de Diplomado o el título de Grado equivalente.
-
 
 #### Artículo 57. Estudios superiores de artes plásticas y diseño.
 
@@ -1127,7 +1065,6 @@ b) Haber superado una prueba específica, regulada por las Administraciones educ
 3. Los estudios superiores de artes plásticas, entre los que se incluyen los estudios superiores de cerámica y los estudios superiores del vidrio, conducirán al título Superior de Artes Plásticas en la especialidad que corresponda, que será equivalente a todos los efectos al título universitario de Diplomado o el título de Grado equivalente.
 
 4. Los estudios superiores de diseño conducirán al título Superior de Diseño, en la especialidad que corresponda, que será equivalente a todos los efectos al título universitario de Diplomado o el título de Grado equivalente.
-
 
 #### Artículo 58. Organización de las enseñanzas artísticas superiores.
 
@@ -1147,7 +1084,6 @@ CAPÍTULO VII
 
 Enseñanzas de idiomas
 
-
 #### Artículo 59. Organización.
 
 1. Las enseñanzas de idiomas tienen por objeto capacitar al alumnado para el uso adecuado de los diferentes idiomas, fuera de las etapas ordinarias del sistema educativo, y se organizan en los niveles siguientes: básico, intermedio y avanzado.
@@ -1155,7 +1091,6 @@ Enseñanzas de idiomas
 Las enseñanzas del nivel básico tendrán las características y la organización que las Administraciones educativas determinen.
 
 2. Para acceder a las enseñanzas de idiomas será requisito imprescindible tener dieciséis años cumplidos en el año en que se comiencen los estudios. Podrán acceder asimismo los mayores de catorce años para seguir las enseñanzas de un idioma distinto del cursado en la educación secundaria obligatoria.
-
 
 #### Artículo 60. Escuelas oficiales de idiomas.
 
@@ -1167,13 +1102,11 @@ Las enseñanzas del nivel básico tendrán las características y la organizaci�
 
 4. De acuerdo con lo que establezcan las Administraciones educativas, las escuelas oficiales de idiomas podrán impartir cursos para la actualización de conocimientos de idiomas y para la formación del profesorado y de otros colectivos profesionales.
 
-
 #### Artículo 61. Certificados.
 
 1. La superación de las exigencias académicas establecidas para cada uno de los niveles de las enseñanzas de idiomas dará derecho a la obtención del certificado correspondiente, cuyos efectos se establecerán en la definición de los aspectos básicos del currículo de las distintas lenguas.
 
 2. La evaluación de los alumnos que cursen sus estudios en las escuelas oficiales de idiomas, a los efectos de lo previsto en el apartado anterior, será hecha por el profesorado respectivo. Las Administraciones educativas regularán las pruebas terminales, que realizará el profesorado, para la obtención de los certificados oficiales de los niveles básico, intermedio y avanzado.
-
 
 #### Artículo 62. Correspondencia con otras enseñanzas.
 
@@ -1184,7 +1117,6 @@ Las enseñanzas del nivel básico tendrán las características y la organizaci�
 CAPÍTULO VIII
 
 Enseñanzas deportivas
-
 
 #### Artículo 63. Principios generales.
 
@@ -1204,7 +1136,6 @@ d) Adquirir los conocimientos y habilidades necesarios para desarrollar su labor
 
 4. El currículo de las enseñanzas deportivas se ajustará a las exigencias derivadas del Sistema Nacional de Cualificaciones y Formación Profesional y a lo establecido en el artículo 6.3 de la presente Ley.
 
-
 #### Artículo 64. Organización.
 
 1. Las enseñanzas deportivas se estructurarán en dos grados, grado medio y grado superior, y podrán estar referidas al Catálogo Nacional de Cualificaciones Profesionales.
@@ -1219,7 +1150,6 @@ d) Adquirir los conocimientos y habilidades necesarios para desarrollar su labor
 
 6. El Gobierno, previa consulta a las Comunidades Autónomas, establecerá las titulaciones correspondientes a los estudios de enseñanzas deportivas, los aspectos básicos del currículo de cada una de ellas y los requisitos mínimos de los centros en los que podrán impartirse las enseñanzas respectivas.
 
-
 #### Artículo 65. Titulaciones y convalidaciones.
 
 1. Quienes superen las enseñanzas deportivas del grado medio recibirán el título de Técnico Deportivo en la modalidad o especialidad deportiva correspondiente.
@@ -1233,7 +1163,6 @@ d) Adquirir los conocimientos y habilidades necesarios para desarrollar su labor
 CAPÍTULO IX
 
 Educación de personas adultas
-
 
 #### Artículo 66. Objetivos y principios.
 
@@ -1259,7 +1188,6 @@ g) Prever y resolver pacíficamente los conflictos personales, familiares y soci
 
 4. Las personas adultas pueden realizar sus aprendizajes tanto por medio de actividades de enseñanza, reglada o no reglada, como a través de la experiencia, laboral o en actividades sociales, por lo que se tenderá a establecer conexiones entre ambas vías y se adoptarán medidas para la validación de los aprendizajes así adquiridos.
 
-
 #### Artículo 67. Organización.
 
 1. Además de las personas adultas, excepcionalmente, podrán cursar estas enseñanzas los mayores de dieciséis años que lo soliciten y que tengan un contrato laboral que no les permita acudir a los centros educativos en régimen ordinario o sean deportistas de alto rendimiento. Podrán incorporarse a la educación de personas adultas quienes cumplan dieciocho años en el año en que comience el curso.
@@ -1278,13 +1206,11 @@ g) Prever y resolver pacíficamente los conflictos personales, familiares y soci
 
 8. Las Administraciones educativas estimularán la realización de investigaciones y la difusión de prácticas innovadoras en el campo de la educación de las personas adultas, con objeto de permitir el desarrollo de nuevos modelos educativos y la mejora continua de los existentes.
 
-
 #### Artículo 68. Enseñanza básica.
 
 1. Las personas adultas que quieran adquirir las competencias y los conocimientos correspondientes a la educación básica contarán con una oferta adaptada a sus condiciones y necesidades.
 
 2. Corresponde a las Administraciones educativas, en el ámbito de sus competencias, organizar periódicamente pruebas para que las personas mayores de dieciocho años puedan obtener directamente el título de Graduado en Educación Secundaria Obligatoria, siempre que hayan alcanzado las competencias básicas y los objetivos de la etapa.
-
 
 #### Artículo 69. Enseñanzas postobligatorias.
 
@@ -1300,21 +1226,17 @@ g) Prever y resolver pacíficamente los conflictos personales, familiares y soci
 
 6. Las personas mayores de 25 años de edad podrán acceder directamente a la Universidad, sin necesidad de titulación alguna, mediante la superación de una prueba específica.
 
-
 #### Artículo 70. Centros.
 
 Cuando la educación de las personas adultas conduzca a la obtención de uno de los títulos establecidos en la presente Ley, será impartida en centros docentes ordinarios o específicos, debidamente autorizados por la Administración educativa competente.
 
-
 ## TÍTULO II
-
 
 **Equidad en la Educación**
 
 CAPÍTULO I
 
 Alumnado con necesidad específica de apoyo educativo
-
 
 #### Artículo 71. Principios.
 
@@ -1325,7 +1247,6 @@ Alumnado con necesidad específica de apoyo educativo
 3. Las Administraciones educativas establecerán los procedimientos y recursos precisos para identificar tempranamente las necesidades educativas específicas de los alumnos y alumnas a las que se refiere el apartado anterior. La atención integral al alumnado con necesidad específica de apoyo educativo se iniciará desde el mismo momento en que dicha necesidad sea identificada y se regirá por los principios de normalización e inclusión.
 
 4. Corresponde a las Administraciones educativas garantizar la escolarización, regular y asegurar la participación de los padres o tutores en las decisiones que afecten a la escolarización y a los procesos educativos de este alumnado. Igualmente les corresponde adoptar las medidas oportunas para que los padres de estos alumnos reciban el adecuado asesoramiento individualizado, así como la información necesaria que les ayude en la educación de sus hijos.
-
 
 #### Artículo 72. Recursos.
 
@@ -1341,11 +1262,9 @@ Alumnado con necesidad específica de apoyo educativo
 
 Sección primera. Alumnado que presenta necesidades educativas especiales
 
-
 #### Artículo 73. Ámbito.
 
 Se entiende por alumnado que presenta necesidades educativas especiales, aquel que requiera, por un periodo de su escolarización o a lo largo de toda ella, determinados apoyos y atenciones educativas específicas derivadas de discapacidad o trastornos graves de conducta.
-
 
 #### Artículo 74. Escolarización.
 
@@ -1359,7 +1278,6 @@ Se entiende por alumnado que presenta necesidades educativas especiales, aquel q
 
 5. Corresponde asimismo a las Administraciones educativas favorecer que el alumnado con necesidades educativas especiales pueda continuar su escolarización de manera adecuada en las enseñanzas postobligatorias, así como adaptar las condiciones de realización de las pruebas establecidas en esta Ley para aquellas personas con discapacidad que así lo requieran.
 
-
 #### Artículo 75. Integración social y laboral.
 
 1. Con la finalidad de facilitar la integración social y laboral del alumnado con necesidades educativas especiales que no pueda conseguir los objetivos de la educación obligatoria, las Administraciones públicas fomentarán ofertas formativas adaptadas a sus necesidades específicas.
@@ -1368,11 +1286,9 @@ Se entiende por alumnado que presenta necesidades educativas especiales, aquel q
 
 Sección segunda. Alumnado con altas capacidades intelectuales
 
-
 #### Artículo 76. Ámbito.
 
 Corresponde a las Administraciones educativas adoptar las medidas necesarias para identificar al alumnado con altas capacidades intelectuales y valorar de forma temprana sus necesidades. Asimismo, les corresponde adoptar planes de actuación adecuados a dichas necesidades.
-
 
 #### Artículo 77. Escolarización.
 
@@ -1380,13 +1296,11 @@ El Gobierno, previa consulta a las Comunidades Autónomas, establecerá las norm
 
 Sección tercera. Alumnos con integración tardía en el sistema educativo español
 
-
 #### Artículo 78. Escolarización.
 
 1. Corresponde a las Administraciones públicas favorecer la incorporación al sistema educativo de los alumnos que, por proceder de otros países o por cualquier otro motivo, se incorporen de forma tardía al sistema educativo español. Dicha incorporación se garantizará, en todo caso, en la edad de escolarización obligatoria.
 
 2. Las Administraciones educativas garantizarán que la escolarización del alumnado que acceda de forma tardía al sistema educativo español se realice atendiendo a sus circunstancias, conocimientos, edad e historial académico, de modo que se pueda incorporar al curso más adecuado a sus características y conocimientos previos, con los apoyos oportunos, y de esta forma continuar con aprovechamiento su educación.
-
 
 #### Artículo 79. Programas específicos.
 
@@ -1400,7 +1314,6 @@ CAPÍTULO II
 
 Compensación de las desigualdades en educación
 
-
 #### Artículo 80. Principios.
 
 1. Con el fin de hacer efectivo el principio de igualdad en el ejercicio del derecho a la educación, las Administraciones públicas desarrollarán acciones de carácter compensatorio en relación con las personas, grupos y ámbitos territoriales que se encuentren en situaciones desfavorables y proveerán los recursos económicos y los apoyos precisos para ello.
@@ -1408,7 +1321,6 @@ Compensación de las desigualdades en educación
 2. Las políticas de educación compensatoria reforzarán la acción del sistema educativo de forma que se eviten desigualdades derivadas de factores sociales, económicos, culturales, geográficos, étnicos o de otra índole.
 
 3. Corresponde al Estado y a las Comunidades Autónomas en sus respectivos ámbitos de competencia fijar sus objetivos prioritarios de educación compensatoria.
-
 
 #### Artículo 81. Escolarización.
 
@@ -1420,13 +1332,11 @@ Compensación de las desigualdades en educación
 
 4. Sin perjuicio de lo dispuesto en el capítulo I de este mismo título, las Administraciones educativas dotarán a los centros públicos y privados concertados de los recursos humanos y materiales necesarios para compensar la situación de los alumnos que tengan especiales dificultades para alcanzar los objetivos de la educación obligatoria, debido a sus condiciones sociales.
 
-
 #### Artículo 82. Igualdad de oportunidades en el mundo rural.
 
 1. Las Administraciones educativas tendrán en cuenta el carácter particular de la escuela rural a fin de proporcionar los medios y sistemas organizativos necesarios para atender a sus necesidades específicas y garantizar la igualdad de oportunidades.
 
 2. Sin perjuicio de lo dispuesto en el apartado 3 del artículo anterior, en la educación básica, en aquellas zonas rurales en que se considere aconsejable, se podrá escolarizar a los niños en un municipio próximo al de su residencia para garantizar la calidad de la enseñanza. En este supuesto las Administraciones educativas prestarán de forma gratuita los servicios escolares de transporte y, en su caso, comedor e internado.
-
 
 #### Artículo 83. Becas y ayudas al estudio.
 
@@ -1441,7 +1351,6 @@ Compensación de las desigualdades en educación
 CAPÍTULO III
 
 Escolarización en centros públicos y privados concertados
-
 
 #### Artículo 84. Admisión de alumnos.
 
@@ -1467,7 +1376,6 @@ Escolarización en centros públicos y privados concertados
 
 11. En la medida en que a través del indicado marco de colaboración se pueda disponer de dicha información, no se exigirá a los interesados que aporten individualmente certificaciones expedidas por la Agencia Estatal de Administración Tributaria y por los órganos mencionados en el apartado anterior, ni la presentación, en original, copia o certificación, de sus declaraciones tributarias. En estos supuestos, el certificado será sustituido por declaración responsable del interesado de que cumple las obligaciones señaladas, así como autorización expresa del mismo para que la Agencia Estatal de Administración Tributaria o los órganos competentes de la Comunidad Autónoma del País Vasco y la Comunidad Foral de Navarra, suministren la información a la Administración educativa.
 
-
 #### Artículo 85. Condiciones específicas de admisión de alumnos en etapas postobligatorias.
 
 1. Para las enseñanzas de bachillerato, además de a los criterios establecidos en el artículo anterior, se atenderá al expediente académico de los alumnos.
@@ -1476,7 +1384,6 @@ Escolarización en centros públicos y privados concertados
 
 3. Aquellos alumnos que cursen simultáneamente enseñanzas regladas de música o danza y enseñanzas de educación secundaria tendrán prioridad para ser admitidos en los centros que impartan enseñanzas de educación secundaria que la Administración educativa determine. El mismo tratamiento se aplicará a los alumnos que sigan programas deportivos de alto rendimiento.
 
-
 #### Artículo 86. Igualdad en la aplicación de las normas de admisión.
 
 1. Las Administraciones educativas garantizarán la igualdad en la aplicación de las normas de admisión, lo que incluye el establecimiento de las mismas áreas de influencia para los centros públicos y privados concertados, de un mismo municipio o ámbito territorial.
@@ -1484,7 +1391,6 @@ Escolarización en centros públicos y privados concertados
 2. Sin perjuicio de las competencias que le son propias, las Administraciones educativas podrán constituir comisiones u órganos de garantías de admisión, que deberán en todo caso, constituirse cuando la demanda de plazas en algún centro educativo del ámbito de actuación de la comisión supere la oferta. Estas comisiones recibirán de los centros toda la información y documentación precisa para el ejercicio de estas funciones. Dichas comisiones supervisarán el proceso de admisión de alumnos, el cumplimiento de las normas que lo regulan y propondrán a las Administraciones educativas las medidas que estimen adecuadas. Estas comisiones u órganos estarán integrados por representantes de la Administración educativa, de la Administración local, de los padres, de los profesores y de los centros públicos y privados concertados.
 
 3. Las familias podrán presentar al centro en que deseen escolarizar a sus hijos las solicitudes de admisión, que, en todo caso, deberán ser tramitadas.
-
 
 #### Artículo 87. Equilibrio en la admisión de alumnos.
 
@@ -1496,7 +1402,6 @@ Escolarización en centros públicos y privados concertados
 
 4. Los centros públicos y privados concertados están obligados a mantener escolarizados a todos sus alumnos, hasta el final de la enseñanza obligatoria, salvo cambio de centro producido por voluntad familiar o por aplicación de alguno de los supuestos previstos en la normativa sobre derechos y deberes de los alumnos.
 
-
 #### Artículo 88. Garantías de gratuidad.
 
 1. Para garantizar la posibilidad de escolarizar a todos los alumnos sin discriminación por motivos socioeconómicos, en ningún caso podrán los centros públicos o privados concertados percibir cantidades de las familias por recibir las enseñanzas de carácter gratuito, imponer a las familias la obligación de hacer aportaciones a fundaciones o asociaciones ni establecer servicios obligatorios, asociados a las enseñanzas, que requieran aportación económica, por parte de las familias de los alumnos. En el marco de lo dispuesto en el artículo 51 de la Ley Orgánica 8/1985, de 3 de julio, reguladora del Derecho a la Educación, quedan excluidas de esta categoría las actividades extraescolares, las complementarias, y los servicios escolares, que, en todo caso, tendrán carácter voluntario.
@@ -1507,26 +1412,21 @@ CAPÍTULO IV
 
 Premios, concursos y reconocimientos
 
-
 #### Artículo 89. Premios y concursos.
 
 El Ministerio de Educación y Ciencia, sin perjuicio de las competencias de las Comunidades Autónomas, podrá establecer, por sí mismo o en colaboración con otras entidades, premios y concursos de carácter estatal destinados a alumnos, profesores o centros escolares.
-
 
 #### Artículo 90. Reconocimientos.
 
 El Ministerio de Educación y Ciencia, así como las Comunidades Autónomas, podrán reconocer y premiar la labor didáctica o de investigación de profesores y centros, facilitando la difusión entre los distintos centros escolares de los trabajos o experiencias que han merecido dicho reconocimiento por su calidad y esfuerzo.
 
-
 ## TÍTULO III
-
 
 **Profesorado**
 
 CAPÍTULO I
 
 Funciones del profesorado
-
 
 #### Artículo 91. Funciones del profesorado.
 
@@ -1562,13 +1462,11 @@ CAPÍTULO II
 
 Profesorado de las distintas enseñanzas
 
-
 #### Artículo 92. Profesorado de educación infantil.
 
 1. La atención educativa directa a los niños del primer ciclo de educación infantil correrá a cargo de profesionales que posean el título de Maestro con la especialización en educación infantil o el título de Grado equivalente y, en su caso, de otro personal con la debida titulación para la atención a las niñas y niños de esta edad. En todo caso, la elaboración y seguimiento de la propuesta pedagógica a la que hace referencia el apartado 2 del artículo 14, estarán bajo la responsabilidad de un profesional con el título de Maestro de educación infantil o título de Grado equivalente.
 
 2. El segundo ciclo de educación infantil será impartido por profesores con el título de Maestro y la especialidad en educación infantil o el título de Grado equivalente y podrán ser apoyados, en su labor docente, por maestros de otras especialidades cuando las enseñanzas impartidas lo requieran.
-
 
 #### Artículo 93. Profesorado de educación primaria.
 
@@ -1576,18 +1474,15 @@ Profesorado de las distintas enseñanzas
 
 2. La educación primaria será impartida por maestros, que tendrán competencia en todas las áreas de este nivel. La enseñanza de la música, de la educación física, de los idiomas extranjeros o de aquellas otras enseñanzas que determine el Gobierno, previa consulta a las Comunidades Autónomas, serán impartidas por maestros con la especialización o cualificación correspondiente.
 
-
 #### Artículo 94. Profesorado de educación secundaria obligatoria y de bachillerato.
 
 Para impartir las enseñanzas de educación secundaria obligatoria y de bachillerato será necesario tener el título de Licenciado, Ingeniero o Arquitecto, o el título de Grado equivalente, además de la formación pedagógica y didáctica de nivel de Postgrado, de acuerdo con lo dispuesto en el artículo 100 de la presente Ley, sin perjuicio de la habilitación de otras titulaciones que, a efectos de docencia pudiera establecer el Gobierno para determinadas áreas, previa consulta a las Comunidades Autónomas.
-
 
 #### Artículo 95. Profesorado de formación profesional.
 
 1. Para impartir enseñanzas de formación profesional se exigirán los mismos requisitos de titulación y formación establecidos en el artículo anterior para la educación secundaria obligatoria y el bachillerato, sin perjuicio de la habilitación de otras titulaciones que, a efectos de docencia pudiera establecer el Gobierno para determinados módulos, previa consulta a las Comunidades Autónomas.
 
 2. Excepcionalmente, para determinados módulos se podrá incorporar, como profesores especialistas, atendiendo a su cualificación y a las necesidades del sistema educativo, a profesionales, no necesariamente titulados, que desarrollen su actividad en el ámbito laboral. Dicha incorporación se realizará en régimen laboral o administrativo, de acuerdo con la normativa que resulte de aplicación.
-
 
 #### Artículo 96. Profesorado de enseñanzas artísticas.
 
@@ -1599,20 +1494,17 @@ Para impartir las enseñanzas de educación secundaria obligatoria y de bachille
 
 4. Para las enseñanzas artísticas superiores, excepcionalmente, se podrá incorporar como profesores especialistas, atendiendo a su cualificación y a las necesidades del sistema educativo, a profesionales, no necesariamente titulados, de nacionalidad extranjera. Dicha incorporación se realizará en régimen laboral o administrativo, de acuerdo con la normativa que resulte de aplicación y deberá cumplirse el contenido de los artículos 9.5 y 36 de la Ley Orgánica 4/2000, de 11 de enero, sobre derechos y libertades de los extranjeros en España y su integración social, salvo en el caso de nacionales de los Estados miembros de la Unión Europea o de aquellos a quienes sea de aplicación el régimen comunitario de extranjería. Para estas enseñanzas el Gobierno, previa consulta a las Comunidades Autónomas, establecerá la figura de profesor emérito.
 
-
 #### Artículo 97. Profesorado de enseñanzas de idiomas.
 
 1. Para impartir enseñanzas de idiomas se exigirán los mismos requisitos de titulación y formación establecidos en el artículo 94 para la educación secundaria obligatoria y el bachillerato.
 
 2. Las Administraciones educativas, excepcionalmente, podrán incorporar como profesores especialistas, atendiendo a su cualificación y a las necesidades del sistema educativo, a profesionales, no necesariamente titulados, de nacionalidad extranjera. Dicha incorporación se realizará en régimen laboral o administrativo, de acuerdo con la normativa que resulte de aplicación y deberá cumplirse el contenido de los artículos 9.5 y 36 de la Ley Orgánica 4/2000, de 11 de enero, sobre derechos y libertades de los extranjeros en España y su integración social, salvo en el caso de nacionales de los Estados miembros de la Unión Europea o de aquellos a quienes sea de aplicación el régimen comunitario de extranjería.
 
-
 #### Artículo 98. Profesorado de enseñanzas deportivas.
 
 1. Para ejercer la docencia en las enseñanzas deportivas será necesario estar en posesión del título de Licenciado, Ingeniero o Arquitecto, o el título de Grado correspondiente o titulación equivalente a efectos de docencia. Se requerirá asimismo la formación pedagógica y didáctica a la que se refiere el artículo 100 de esta Ley. El Gobierno habilitará otras titulaciones para la docencia en determinados módulos y bloques previa consulta a las Comunidades Autónomas.
 
 2. Excepcionalmente, para determinadas materias las Administraciones educativas podrán incorporar como profesores especialistas, atendiendo a su cualificación y a las necesidades del sistema educativo, a profesionales, no necesariamente titulados, que desarrollen su actividad en el ámbito deportivo y laboral. Dicha incorporación se realizará en régimen laboral o administrativo, de acuerdo con la normativa que resulte de aplicación.
-
 
 #### Artículo 99. Profesorado de educación de personas adultas.
 
@@ -1621,7 +1513,6 @@ Los profesores de enseñanzas para las personas adultas comprendidas en la prese
 CAPÍTULO III
 
 Formación del profesorado
-
 
 #### Artículo 100. Formación inicial.
 
@@ -1633,11 +1524,9 @@ Formación del profesorado
 
 4. La formación inicial del profesorado de las diferentes enseñanzas reguladas en la presente Ley se adaptará al sistema de grados y postgrados del espacio europeo de educación superior según lo que establezca la correspondiente normativa básica.
 
-
 #### Artículo 101. Incorporación a la docencia en centros públicos.
 
 El primer curso de ejercicio de la docencia en centros públicos se desarrollará bajo la tutoría de profesores experimentados. El profesor tutor y el profesor en formación compartirán la responsabilidad sobre la programación de las enseñanzas de los alumnos de este último.
-
 
 #### Artículo 102. Formación permanente.
 
@@ -1649,7 +1538,6 @@ El primer curso de ejercicio de la docencia en centros públicos se desarrollar�
 
 4. El Ministerio de Educación y Ciencia podrá ofrecer programas de formación permanente de carácter estatal, dirigidos a profesores de todas las enseñanzas reguladas en la presente Ley y establecer, a tal efecto, los convenios oportunos con las instituciones correspondientes.
 
-
 #### Artículo 103. Formación permanente del profesorado de centros públicos.
 
 1. Las Administraciones educativas planificarán las actividades de formación del profesorado, garantizarán una oferta diversificada y gratuita de estas actividades y establecerán las medidas oportunas para favorecer la participación del profesorado en ellas. Asimismo, les corresponde facilitar el acceso de los profesores a titulaciones que permitan la movilidad entre las distintas enseñanzas, incluidas las universitarias, mediante los acuerdos oportunos con las universidades.
@@ -1660,7 +1548,6 @@ CAPÍTULO IV
 
 Reconocimiento, apoyo y valoración del profesorado
 
-
 #### Artículo 104. Reconocimiento y apoyo al profesorado.
 
 1. Las Administraciones educativas velarán por que el profesado reciba el trato, la consideración y el respeto acordes con la importancia social de su tarea.
@@ -1668,7 +1555,6 @@ Reconocimiento, apoyo y valoración del profesorado
 2. Las Administraciones educativas prestarán una atención prioritaria a la mejora de las condiciones en que el profesorado realiza su trabajo y al estímulo de una creciente consideración y reconocimiento social de la función docente.
 
 3. Dada la exigencia de formación permanente del profesorado y la necesidad de actualización, innovación e investigación que acompaña a la función docente, el profesorado debidamente acreditado dispondrá de acceso gratuito a las bibliotecas y museos dependientes de los poderes públicos. Asimismo, podrán hacer uso de los servicios de préstamo de libros y otros materiales que ofrezcan dichas bibliotecas. A tal fin, los directores de los centros educativos facilitarán al profesorado la acreditación correspondiente.
-
 
 #### Artículo 105. Medidas para el profesorado de centros públicos.
 
@@ -1686,7 +1572,6 @@ d) El desarrollo de licencias retribuidas, de acuerdo con las condiciones y requ
 
 e) La reducción de jornada lectiva de aquellos profesores mayores de 55 años que lo soliciten, con la correspondiente disminución proporcional de las retribuciones. Podrán, asimismo, favorecer la sustitución parcial de la jornada lectiva por actividades de otra naturaleza sin reducción de sus retribuciones.
 
-
 #### Artículo 106. Evaluación de la función pública docente.
 
 1. A fin de mejorar la calidad de la enseñanza y el trabajo de los profesores, las Administraciones educativas elaborarán planes para la evaluación de la función docente, con la participación del profesorado.
@@ -1697,16 +1582,13 @@ e) La reducción de jornada lectiva de aquellos profesores mayores de 55 años q
 
 4. Corresponde a las Administraciones educativas disponer los procedimientos para que los resultados de la valoración de la función docente sean tenidos en cuenta de modo preferente en los concursos de traslados y en la carrera docente, junto con las actividades de formación, investigación e innovación.
 
-
 ## TÍTULO IV
-
 
 **Centros docentes**
 
 CAPÍTULO I
 
 Principios generales
-
 
 #### Artículo 107. Régimen jurídico.
 
@@ -1719,7 +1601,6 @@ Principios generales
 4. Corresponde al Gobierno la regulación y la gestión de los centros docentes públicos españoles en el exterior.
 
 5. Las Administraciones educativas podrán considerar centro educativo, a los efectos de organización, gestión y administración, la agrupación de centros públicos ubicados en un ámbito territorial determinado.
-
 
 #### Artículo 108. Clasificación de los centros.
 
@@ -1735,7 +1616,6 @@ Principios generales
 
 6. Los padres o tutores, en relación con la educación de sus hijos o pupilos, tienen derecho, de acuerdo con lo establecido en el artículo 4 de la Ley Orgánica 8/1985, de 3 de julio, reguladora del Derecho a la Educación, a escoger centro docente tanto público como distinto de los creados por los poderes públicos, a los que se refiere el apartado 3 del presente artículo.
 
-
 #### Artículo 109. Programación de la red de centros.
 
 1. En la programación de la oferta de plazas, las Administraciones educativas armonizarán las exigencias derivadas de la obligación que tienen los poderes públicos de garantizar el derecho de todos a la educación y los derechos individuales de alumnos, padres y tutores.
@@ -1743,7 +1623,6 @@ Principios generales
 2. Las Administraciones educativas programarán la oferta educativa de las enseñanzas que en esta Ley se declaran gratuitas teniendo en cuenta la oferta existente de centros públicos y privados concertados y, como garantía de la calidad de la enseñanza, una adecuada y equilibrada escolarización de los alumnos con necesidad específica de apoyo educativo. Asimismo, las Administraciones educativas garantizarán la existencia de plazas públicas suficientes especialmente en las zonas de nueva población.
 
 3. Las Administraciones educativas deberán tener en cuenta las consignaciones presupuestarias existentes y el principio de economía y eficiencia en el uso de los recursos públicos.
-
 
 #### Artículo 110. Accesibilidad.
 
@@ -1754,7 +1633,6 @@ Principios generales
 CAPÍTULO II
 
 Centros públicos
-
 
 #### Artículo 111. Denominación de los centros públicos.
 
@@ -1768,7 +1646,6 @@ Centros públicos
 
 5. Corresponde a las Administraciones educativas determinar la denominación de aquellos centros públicos que ofrezcan enseñanzas agrupadas de manera distinta a las definidas en los puntos anteriores.
 
-
 #### Artículo 112. Medios materiales y humanos.
 
 1. Corresponde a las Administraciones educativas dotar a los centros públicos de los medios materiales y humanos necesarios para ofrecer una educación de calidad y garantizar la igualdad de oportunidades en la educación.
@@ -1780,7 +1657,6 @@ Centros públicos
 4. Las Administraciones educativas facilitarán que aquellos centros que, por su número de unidades, no puedan disponer de los especialistas a los que se refiere el artículo 93 de esta Ley, reciban los apoyos necesarios para asegurar la calidad de las correspondientes enseñanzas.
 
 5. Las Administraciones educativas potenciarán que los centros públicos puedan ofrecer actividades y servicios complementarios a fin de favorecer que amplíen su oferta educativa para atender las nuevas demandas sociales, así como que puedan disponer de los medios adecuados, particularmente de aquellos centros que atiendan a una elevada población de alumnos con necesidad específica de apoyo educativo.
-
 
 #### Artículo 113. Bibliotecas escolares.
 
@@ -1798,11 +1674,9 @@ CAPÍTULO III
 
 Centros privados
 
-
 #### Artículo 114. Denominación.
 
 Los centros privados podrán adoptar cualquier denominación, excepto la que corresponde a centros públicos o pueda inducir a confusión con ellos.
-
 
 #### Artículo 115. Carácter propio de los centros privados.
 
@@ -1815,7 +1689,6 @@ Los centros privados podrán adoptar cualquier denominación, excepto la que cor
 CAPÍTULO IV
 
 Centros privados concertados
-
 
 #### Artículo 116. Conciertos.
 
@@ -1832,7 +1705,6 @@ Centros privados concertados
 6. Las Administraciones educativas podrán concertar, con carácter preferente, los programas de cualificación profesional inicial que, conforme a lo previsto en la presente Ley, los centros privados concertados de educación secundaria obligatoria impartan a su alumnado. Dichos conciertos tendrán carácter singular.
 
 7. El concierto para las enseñanzas postobligatorias tendrá carácter singular.
-
 
 #### Artículo 117. Módulos de concierto.
 
@@ -1860,16 +1732,13 @@ c) Las cantidades pertinentes para atender el pago de los conceptos de antigüed
 
 9. En la Ley de Presupuestos Generales del Estado se determinará el importe máximo de las cuotas que los centros con concierto singular podrán percibir de las familias.
 
-
 ## TÍTULO V
-
 
 **Participación, autonomía y gobierno de los centros**
 
 CAPÍTULO I
 
 Participación en el funcionamiento y el gobierno de los centros
-
 
 #### Artículo 118. Principios generales.
 
@@ -1886,7 +1755,6 @@ Participación en el funcionamiento y el gobierno de los centros
 6. Corresponde a las Administraciones educativas regular la participación en los centros que impartan enseñanzas artísticas superiores de acuerdo con la normativa básica que establezca el Gobierno.
 
 7. Corresponde a las Administraciones educativas adaptar lo establecido en este Título a las características de los centros que imparten únicamente el primer ciclo de educación infantil. Esta adaptación deberá respetar, en todo caso, los principios de autonomía y participación de la comunidad educativa recogidos en el mismo.
-
 
 #### Artículo 119. Participación en el funcionamiento y el gobierno de los centros públicos y privados concertados.
 
@@ -1906,7 +1774,6 @@ CAPÍTULO II
 
 Autonomía de los centros
 
-
 #### Artículo 120. Disposiciones generales.
 
 1. Los centros dispondrán de autonomía pedagógica, de organización y de gestión en el marco de la legislación vigente y en los términos recogidos en la presente Ley y en las normas que la desarrollen.
@@ -1918,7 +1785,6 @@ Autonomía de los centros
 4. Los centros, en el ejercicio de su autonomía, pueden adoptar experimentaciones, planes de trabajo, formas de organización o ampliación del horario escolar en los términos que establezcan las Administraciones educativas, sin que, en ningún caso, se impongan aportaciones a las familias ni exigencias para las Administraciones educativas.
 
 5. Cuando estas experimentaciones, planes de trabajo o formas de organización puedan afectar a la obtención de títulos académicos o profesionales, deberán ser autorizados expresamente por el Gobierno.
-
 
 #### Artículo 121. Proyecto educativo.
 
@@ -1934,7 +1800,6 @@ Autonomía de los centros
 
 6. El proyecto educativo de los centros privados concertados, que en todo caso deberá hacerse público, será dispuesto por su respectivo titular e incorporará el carácter propio al que se refiere el artículo 115 de esta Ley.
 
-
 #### Artículo 122. Recursos.
 
 1. Los centros estarán dotados de los recursos educativos, humanos y materiales necesarios para ofrecer una enseñanza de calidad y garantizar la igualdad de oportunidades en el acceso a la educación.
@@ -1942,7 +1807,6 @@ Autonomía de los centros
 2. Las Administraciones educativas podrán asignar mayores dotaciones de recursos a determinados centros públicos o privados concertados en razón de los proyectos que así lo requieran o en atención a las condiciones de especial necesidad de la población que escolarizan.
 
 3. Los centros docentes públicos podrán obtener recursos complementarios, previa aprobación del Consejo Escolar, en los términos que establezcan las Administraciones educativas, dentro de los límites que la normativa vigente establece. Estos recursos no podrán provenir de las actividades llevadas a cabo por las asociaciones de padres y de alumnos en cumplimiento de sus fines y deberán ser aplicados a sus gastos, de acuerdo con lo que las Administraciones educativas establezcan.
-
 
 #### Artículo 123. Proyecto de gestión de los centros públicos.
 
@@ -1956,13 +1820,11 @@ Autonomía de los centros
 
 5. Las Administraciones educativas podrán delegar en los órganos de gobierno de los centros públicos las competencias que determinen, incluidas las relativas a gestión de personal, responsabilizando a los directores de la gestión de los recursos puestos a disposición del centro.
 
-
 #### Artículo 124. Normas de organización y funcionamiento.
 
 1. Los centros docentes elaborarán sus normas de organización y funcionamiento, que deberán incluir las que garanticen el cumplimiento del plan de convivencia.
 
 2. Las Administraciones educativas facilitarán que los centros, en el marco de su autonomía, puedan elaborar sus propias normas de organización y funcionamiento.
-
 
 #### Artículo 125. Programación general anual.
 
@@ -1973,7 +1835,6 @@ CAPÍTULO III
 Órganos colegiados de gobierno y de coordinación docente de los centros públicos
 
 Sección primera. Consejo Escolar
-
 
 #### Artículo 126. Composición del Consejo Escolar.
 
@@ -2007,7 +1868,6 @@ g) El secretario del centro, que actuará como secretario del Consejo, con voz y
 
 8. En los centros específicos de educación especial y en aquellos que tengan unidades de educación especial formará parte también del Consejo Escolar un representante del personal de atención educativa complementaria.
 
-
 #### Artículo 127. Competencias del Consejo Escolar.
 
 El Consejo Escolar del centro tendrá las siguientes competencias:
@@ -2038,13 +1898,11 @@ l) Cualesquiera otras que le sean atribuidas por la Administración educativa.
 
 Sección segunda. Claustro de profesores
 
-
 #### Artículo 128. Composición.
 
 1. El Claustro de profesores es el órgano propio de participación de los profesores en el gobierno del centro y tiene la responsabilidad de planificar, coordinar, informar y, en su caso, decidir sobre todos los aspectos educativos del centro.
 
 2. El Claustro será presidido por el director y estará integrado por la totalidad de los profesores que presten servicio en el centro.
-
 
 #### Artículo 129. Competencias.
 
@@ -2074,7 +1932,6 @@ k) Cualesquiera otras que le sean atribuidas por la Administración educativa o 
 
 Sección tercera. Otros órganos de coordinación docente
 
-
 #### Artículo 130. Órganos de coordinación docente.
 
 1. Corresponde a las Administraciones educativas regular el funcionamiento de los órganos de coordinación docente y de orientación y potenciar los equipos de profesores que impartan clase en el mismo curso, así como la colaboración y el trabajo en equipo de los profesores que impartan clase a un mismo grupo de alumnos.
@@ -2084,7 +1941,6 @@ Sección tercera. Otros órganos de coordinación docente
 CAPÍTULO IV
 
 Dirección de los centros públicos
-
 
 #### Artículo 131. El equipo directivo.
 
@@ -2097,7 +1953,6 @@ Dirección de los centros públicos
 4. Todos los miembros del equipo directivo cesarán en sus funciones al término de su mandato o cuando se produzca el cese del director.
 
 5. Las Administraciones educativas favorecerán el ejercicio de la función directiva en los centros docentes, mediante la adopción de medidas que permitan mejorar la actuación de los equipos directivos en relación con el personal y los recursos materiales y mediante la organización de programas y cursos de formación.
-
 
 #### Artículo 132. Competencias del director.
 
@@ -2127,7 +1982,6 @@ k) Proponer a la Administración educativa el nombramiento y cese de los miembro
 
 l) Cualesquiera otras que le sean encomendadas por la Administración educativa.
 
-
 #### Artículo 133. Selección del director.
 
 1. La selección del director se realizará mediante un proceso en el que participen la comunidad educativa y la Administración educativa.
@@ -2137,7 +1991,6 @@ l) Cualesquiera otras que le sean encomendadas por la Administración educativa.
 3. La selección y nombramiento de directores de los centros públicos se efectuará mediante concurso de méritos entre profesores funcionarios de carrera que impartan alguna de las enseñanzas encomendadas al centro.
 
 4. La selección se realizará de conformidad con los principios de igualdad, publicidad, mérito y capacidad.
-
 
 #### Artículo 134. Requisitos para ser candidato a director.
 
@@ -2153,7 +2006,6 @@ d) Presentar un proyecto de dirección que incluya, entre otros, los objetivos, 
 
 2. En los centros específicos de educación infantil, en los incompletos de educación primaria, en los de educación secundaria con menos de ocho unidades, en los que impartan enseñanzas artísticas profesionales, deportivas, de idiomas o las dirigidas a personas adultas con menos de ocho profesores, las Administraciones educativas podrán eximir a los candidatos de cumplir alguno de los requisitos establecidos en el apartado 1 de este artículo.
 
-
 #### Artículo 135. Procedimiento de selección.
 
 1. Para la selección de los directores en los centros públicos, las Administraciones educativas convocarán concurso de méritos y establecerán los criterios objetivos y el procedimiento de valoración de los méritos del candidato y del proyecto presentado.
@@ -2166,7 +2018,6 @@ d) Presentar un proyecto de dirección que incluya, entre otros, los objetivos, 
 
 5. La selección se realizará considerando, primero, las candidaturas de profesores del centro, que tendrán preferencia. En ausencia de candidatos del centro o cuando éstos no hayan sido seleccionados, la Comisión valorará las candidaturas de profesores de otros centros.
 
-
 #### Artículo 136. Nombramiento.
 
 1. Los aspirantes seleccionados deberán superar un programa de formación inicial, organizado por las Administraciones educativas. Los aspirantes seleccionados que acrediten una experiencia de al menos dos años en la función directiva estarán exentos de la realización del programa de formación inicial.
@@ -2175,11 +2026,9 @@ d) Presentar un proyecto de dirección que incluya, entre otros, los objetivos, 
 
 3. El nombramiento de los directores podrá renovarse, por periodos de igual duración, previa evaluación positiva del trabajo desarrollado al final de los mismos. Los criterios y procedimientos de esta evaluación serán públicos. Las Administraciones educativas podrán fijar un límite máximo para la renovación de los mandatos.
 
-
 #### Artículo 137. Nombramiento con carácter extraordinario.
 
 En ausencia de candidatos, en el caso de centros de nueva creación o cuando la Comisión correspondiente no haya seleccionado a ningún aspirante, la Administración educativa nombrará director a un profesor funcionario por un periodo máximo de cuatro años.
-
 
 #### Artículo 138. Cese del director.
 
@@ -2193,7 +2042,6 @@ c) Incapacidad física o psíquica sobrevenida.
 
 d) Revocación motivada, por la Administración educativa competente, a iniciativa propia o a propuesta motivada del Consejo Escolar, por incumplimiento grave de las funciones inherentes al cargo de director. En todo caso, la resolución de revocación se emitirá tras la instrucción de un expediente contradictorio, previa audiencia al interesado y oído el Consejo Escolar.
 
-
 #### Artículo 139. Reconocimiento de la función directiva.
 
 1. El ejercicio de cargos directivos, y en especial del cargo de director, será retribuido de forma diferenciada, en consideración a la responsabilidad y dedicación exigidas, de acuerdo con las cuantías que para los complementos establecidos al efecto fijen las Administraciones educativas.
@@ -2204,12 +2052,9 @@ d) Revocación motivada, por la Administración educativa competente, a iniciati
 
 4. Los directores de los centros públicos que hayan ejercido su cargo con valoración positiva durante el periodo de tiempo que cada Administración educativa determine, mantendrán, mientras permanezcan en situación de activo, la percepción de una parte del complemento retributivo correspondiente en la proporción, condiciones y requisitos que determinen las Administraciones educativas.
 
-
 ## TÍTULO VI
 
-
 **Evaluación del sistema educativo**
-
 
 #### Artículo 140. Finalidad de la evaluación.
 
@@ -2227,11 +2072,9 @@ e) Proporcionar información sobre el grado de consecución de los objetivos edu
 
 2. La finalidad establecida en el apartado anterior no podrá amparar que los resultados de las evaluaciones del sistema educativo, independientemente del ámbito territorial estatal o autonómico en el que se apliquen, puedan ser utilizados para valoraciones individuales de los alumnos o para establecer clasificaciones de los centros.
 
-
 #### Artículo 141. Ámbito de la evaluación.
 
 La evaluación se extenderá a todos los ámbitos educativos regulados en esta Ley y se aplicará sobre los procesos de aprendizaje y resultados de los alumnos, la actividad del profesorado, los procesos educativos, la función directiva, el funcionamiento de los centros docentes, la inspección y las propias Administraciones educativas.
-
 
 #### Artículo 142. Organismos responsables de la evaluación.
 
@@ -2241,7 +2084,6 @@ La evaluación se extenderá a todos los ámbitos educativos regulados en esta L
 
 3. Los equipos directivos y el profesorado de los centros docentes colaborarán con las Administraciones educativas en las evaluaciones que se realicen en sus centros.
 
-
 #### Artículo 143. Evaluación general del sistema educativo.
 
 1. El Instituto de Evaluación, en colaboración con las Administraciones educativas, elaborará planes plurianuales de evaluación general del sistema educativo. Previamente a su realización, se harán públicos los criterios y procedimientos de evaluación.
@@ -2249,7 +2091,6 @@ La evaluación se extenderá a todos los ámbitos educativos regulados en esta L
 2. El Instituto de Evaluación, en colaboración con las Administraciones educativas, coordinará la participación del Estado español en las evaluaciones internacionales.
 
 3. El Instituto de Evaluación, en colaboración con las Administraciones educativas, elaborará el Sistema Estatal de Indicadores de la Educación que contribuirá al conocimiento del sistema educativo y a orientar la toma de decisiones de las instituciones educativas y de todos los sectores implicados en la educación. Los datos necesarios para su elaboración deberán ser facilitados al Ministerio de Educación y Ciencia por las Administraciones educativas de las Comunidades Autónomas.
-
 
 #### Artículo 144. Evaluaciones generales de diagnóstico.
 
@@ -2259,18 +2100,15 @@ La evaluación se extenderá a todos los ámbitos educativos regulados en esta L
 
 3. Corresponde a las Administraciones educativas regular la forma en que los resultados de estas evaluaciones de diagnóstico que realizan los centros, así como los planes de actuación que se deriven de las mismas, deban ser puestos en conocimiento de la comunidad educativa. En ningún caso, los resultados de estas evaluaciones podrán ser utilizados para el establecimiento de clasificaciones de los centros.
 
-
 #### Artículo 145. Evaluación de los centros.
 
 1. Podrán las Administraciones educativas, en el marco de sus competencias, elaborar y realizar planes de evaluación de los centros educativos, que tendrán en cuenta las situaciones socioeconómicas y culturales de las familias y alumnos que acogen, el entorno del propio centro y los recursos de que dispone.
 
 2. Asimismo, las Administraciones educativas apoyarán y facilitarán la autoevaluación de los centros educativos.
 
-
 #### Artículo 146. Evaluación de la función directiva.
 
 Con el fin de mejorar el funcionamiento de los centros educativos, las Administraciones educativas, en el ámbito de sus competencias, podrán elaborar planes para la valoración de la función directiva.
-
 
 #### Artículo 147. Difusión del resultado de las evaluaciones.
 
@@ -2278,12 +2116,9 @@ Con el fin de mejorar el funcionamiento de los centros educativos, las Administr
 
 2. El Ministerio de Educación y Ciencia publicará periódicamente las conclusiones de interés general de las evaluaciones efectuadas por el Instituto de Evaluación en colaboración con las Administraciones educativas y dará a conocer la información que ofrezca periódicamente el Sistema Estatal de Indicadores.
 
-
 ## TÍTULO VII
 
-
 **Inspección del sistema educativo**
-
 
 #### Artículo 148. Inspección del sistema educativo.
 
@@ -2297,11 +2132,9 @@ CAPÍTULO I
 
 Alta Inspección
 
-
 #### Artículo 149. Ámbito.
 
 Corresponde al Estado la alta inspección educativa, para garantizar el cumplimento de las facultades que le están atribuidas en materia de enseñanza y la observancia de los principios y normas constitucionales aplicables y demás normas básicas que desarrollan el artículo 27 de la Constitución.
-
 
 #### Artículo 150. Competencias.
 
@@ -2325,7 +2158,6 @@ CAPÍTULO II
 
 Inspección educativa
 
-
 #### Artículo 151. Funciones de la inspección educativa.
 
 Las funciones de la inspección educativa son las siguientes:
@@ -2346,11 +2178,9 @@ g) Emitir los informes solicitados por las Administraciones educativas respectiv
 
 h) Cualesquiera otras que le sean atribuidas por las Administraciones educativas, dentro del ámbito de sus competencias.
 
-
 #### Artículo 152. Inspectores de Educación.
 
 La inspección educativa será ejercida por las Administraciones educativas a través de funcionarios públicos del Cuerpo de Inspectores de Educación, así como los pertenecientes al extinguido Cuerpo de Inspectores al servicio de la Administración educativa creado por la Ley 30/1984, de 2 de agosto, de Medidas para la Reforma de la Función Pública, modificada por la Ley 23/1988, de 28 de julio, que no hubieran optado en su momento por su incorporación al de Inspectores de Educación.
-
 
 #### Artículo 153. Atribuciones de los inspectores.
 
@@ -2364,7 +2194,6 @@ c) Recibir de los restantes funcionarios y responsables de los centros y servici
 
 d) Cualesquiera otras que le sean atribuidas por las Administraciones educativas, dentro del ámbito de sus competencias.
 
-
 #### Artículo 154. Organización de la inspección educativa.
 
 1. Las Administraciones educativas regularán la estructura y el funcionamiento de los órganos que establezcan para el desempeño de la inspección educativa en sus respectivos ámbitos territoriales.
@@ -2373,12 +2202,9 @@ d) Cualesquiera otras que le sean atribuidas por las Administraciones educativas
 
 3. En los procedimientos para la provisión de puestos de trabajo en la inspección educativa podrán tenerse en consideración las necesidades de las respectivas Administraciones educativas y podrá ser valorada como mérito la especialización de los aspirantes de acuerdo con las condiciones descritas en el apartado anterior.
 
-
 ## TÍTULO VIII
 
-
 **Recursos económicos**
-
 
 #### Artículo 155. Recursos para dar cumplimiento a lo establecido en la presente Ley.
 
@@ -2386,11 +2212,9 @@ d) Cualesquiera otras que le sean atribuidas por las Administraciones educativas
 
 2. El Estado y las Comunidades Autónomas acordarán un plan de incremento del gasto público en educación para los próximos diez años, que permita el cumplimiento de los objetivos establecidos en la presente Ley y la equiparación progresiva a la media de los países de la Unión Europea.
 
-
 #### Artículo 156. Informe anual sobre el gasto público en la educación.
 
 El Gobierno, en el informe anual al que hace referencia el artículo 147 de esta Ley, incluirá los datos relativos al gasto público en educación.
-
 
 #### Artículo 157. Recursos para la mejora de los aprendizajes y apoyo al profesorado.
 
@@ -2414,18 +2238,15 @@ h) La existencia de servicios o profesionales especializados en la orientación 
 
 2. En la Comunidad Autónoma del País Vasco y en la Comunidad Foral de Navarra la financiación de los recursos a los que hace referencia este título se regirán por el sistema del Concierto Económico y del Convenio respectivamente.
 
-
 #### Disposición adicional primera. Calendario de aplicación de la Ley.
 
 El Gobierno, previa consulta a las Comunidades Autónomas, aprobará el calendario de aplicación de esta Ley, que tendrá un ámbito temporal de cinco años, a partir de la entrada en vigor de la misma. En dicho calendario se establecerá la implantación de los currículos de las enseñanzas correspondientes.
-
 
 #### Disposición adicional segunda. Enseñanza de la religión.
 
 1. La enseñanza de la religión católica se ajustará a lo establecido en el Acuerdo sobre Enseñanza y Asuntos Culturales suscrito entre la Santa Sede y el Estado español. A tal fin, y de conformidad con lo que disponga dicho acuerdo, se incluirá la religión católica como área o materia en los niveles educativos que corresponda, que será de oferta obligatoria para los centros y de carácter voluntario para los alumnos.
 
 2. La enseñanza de otras religiones se ajustará a lo dispuesto en los Acuerdos de Cooperación celebrados por el Estado español con la Federación de Entidades Religiosas Evangélicas de España, la Federación de Comunidades Israelitas de España, la Comisión Islámica de España y, en su caso, a los que en el futuro puedan suscribirse con otras confesiones religiosas.
-
 
 #### Disposición adicional tercera. Profesorado de religión.
 
@@ -2435,7 +2256,6 @@ El Gobierno, previa consulta a las Comunidades Autónomas, aprobará el calendar
 
 En todo caso, la propuesta para la docencia corresponderá a las entidades religiosas y se renovará automáticamente cada año. La determinación del contrato, a tiempo completo o a tiempo parcial según lo que requieran las necesidades de los centros, corresponderá a las Administraciones competentes. La remoción, en su caso, se ajustará a derecho.
 
-
 #### Disposición adicional cuarta. Libros de texto y demás materiales curriculares.
 
 1. En el ejercicio de la autonomía pedagógica, corresponde a los órganos de coordinación didáctica de los centros públicos adoptar los libros de texto y demás materiales que hayan de utilizarse en el desarrollo de las diversas enseñanzas.
@@ -2444,11 +2264,9 @@ En todo caso, la propuesta para la docencia corresponderá a las entidades relig
 
 3. La supervisión de los libros de texto y otros materiales curriculares constituirá parte del proceso ordinario de inspección que ejerce la Administración educativa sobre la totalidad de elementos que integran el proceso de enseñanza y aprendizaje, que debe velar por el respeto a los principios y valores contenidos en la Constitución y a lo dispuesto en la presente Ley.
 
-
 #### Disposición adicional quinta. Calendario escolar.
 
 El calendario escolar, que fijarán anualmente las Administraciones educativas, comprenderá un mínimo de 175 días lectivos para las enseñanzas obligatorias.
-
 
 #### Disposición adicional sexta. Bases del régimen estatutario de la función pública docente.
 
@@ -2458,8 +2276,6 @@ El calendario escolar, que fijarán anualmente las Administraciones educativas, 
 
 3. Periódicamente, las Administraciones educativas convocarán concursos de traslado de ámbito estatal, a efectos de proceder a la provisión de las plazas vacantes que determinen en los centros docentes de enseñanza dependientes de aquéllas, así como para garantizar la posible concurrencia de los funcionarios de su ámbito de gestión a plazas de otras Administraciones educativas y, en su caso, si procede, la adjudicación de aquellas que resulten del propio concurso. En estos concursos podrán participar todos los funcionarios públicos docentes, cualquiera que sea la Administración educativa de la que dependan o por la que hayan ingresado, siempre que reúnan los requisitos generales y los específicos que, de acuerdo con las respectivas plantillas o relaciones de puestos de trabajo, establezcan dichas convocatorias.
 
-Estas convocatorias se harán públicas a través del Boletín Oficial del Estado y de los Diarios Oficiales de las Comunidades Autónomas convocantes. Incluirán un único baremo de méritos, entre los que se tendrán en cuenta los cursos de formación y perfeccionamiento superados, los méritos académicos y profesionales, la antigüedad, la pertenencia a alguno de los cuerpos de catedráticos y la evaluación voluntaria de la función docente.
-
 A los efectos de los concursos de traslados de ámbito estatal y del reconocimiento de la movilidad entre los cuerpos docentes, las actividades de formación organizadas por cualesquiera de las Administraciones educativas surtirán sus efectos en todo el territorio nacional.
 
 4. Durante los cursos escolares en los que no se celebren los concursos de ámbito estatal a los que se refiere esta disposición, las diferentes Administraciones educativas podrán organizar procedimientos de provisión referidos al ámbito territorial cuya gestión les corresponda y destinados a la cobertura de sus plazas, todo ello sin perjuicio de que en cualquier momento puedan realizar procesos de redistribución o de recolocación de sus efectivos.
@@ -2467,7 +2283,6 @@ A los efectos de los concursos de traslados de ámbito estatal y del reconocimie
 5. La provisión de plazas por funcionarios docentes en los centros superiores de enseñanzas artísticas se realizará por concurso específico, de acuerdo con lo que determinen las Administraciones educativas.
 
 6. Los funcionarios docentes que obtengan una plaza por concurso deberán permanecer en la misma un mínimo de dos años para poder participar en sucesivos concursos de provisión de puestos de trabajo.
-
 
 #### Disposición adicional séptima. Ordenación de la función pública docente y funciones de los cuerpos docentes.
 
@@ -2501,7 +2316,6 @@ Asimismo, las Administraciones educativas podrán establecer los requisitos de f
 
 No obstante, los procesos selectivos y concursos de traslados de ámbito estatal tendrán en cuenta únicamente las especialidades docentes.
 
-
 #### Disposición adicional octava. Cuerpos de catedráticos.
 
 1. Los funcionarios de los cuerpos de catedráticos de enseñanza secundaria, de música y artes escénicas, de escuelas oficiales de idiomas y de artes plásticas y diseño realizarán las funciones que se les encomiendan en la presente Ley y las que reglamentariamente se determinen.
@@ -2526,7 +2340,6 @@ e) La presidencia de los tribunales de acceso y en su caso ingreso a los respect
 
 6. La pertenencia a alguno de los cuerpos de catedráticos se valorará, a todos los efectos, como mérito docente específico.
 
-
 #### Disposición adicional novena. Requisitos para el ingreso en los cuerpos de funcionarios docentes.
 
 1. Para el ingreso en el cuerpo de maestros serán requisitos indispensables estar en posesión del título de Maestro o el título de Grado correspondiente y superar el correspondiente proceso selectivo.
@@ -2545,7 +2358,6 @@ e) La presidencia de los tribunales de acceso y en su caso ingreso a los respect
 
 8. Para el ingreso en el cuerpo de profesores de enseñanza secundaria en el caso de materias o áreas de especial relevancia para la formación profesional, para el ingreso en el cuerpo de profesores de artes plásticas y diseño en el caso de materias de especial relevancia para la formación específica artístico-plástica y diseño, así como para el ingreso en los cuerpos de profesores técnicos de formación profesional y de maestros de taller en el caso de determinadas áreas o materias, el Gobierno, previa consulta a las Comunidades Autónomas podrá determinar, a efectos de docencia, la equivalencia de otras titulaciones distintas a las exigidas en esta disposición adicional. En el caso de que el ingreso sea a los cuerpos de profesores técnicos de formación profesional y al de maestros de taller, podrá exigirse, además una experiencia profesional en un campo laboral relacionado con la materia o área a las que se aspire.
 
-
 #### Disposición adicional décima. Requisitos para el acceso a los cuerpos de catedráticos e inspectores.
 
 1. Para acceder al cuerpo de catedráticos de enseñanza secundaria, será necesario pertenecer al cuerpo de profesores de enseñanza secundaria y estar en posesión del título de Doctor, Licenciado, Arquitecto, Ingeniero o Grado correspondiente o titulación equivalente a efectos de docencia, así como superar el correspondiente proceso selectivo.
@@ -2558,13 +2370,11 @@ e) La presidencia de los tribunales de acceso y en su caso ingreso a los respect
 
 5. Para acceder al Cuerpo de Inspectores de Educación será necesario pertenecer a alguno de los cuerpos que integran la función pública docente con al menos una experiencia de cinco años en los mismos y estar en posesión del título de Doctor, Licenciado, Ingeniero, Arquitecto o título equivalente y superar el correspondiente proceso selectivo, así como, en su caso, acreditar el conocimiento de la lengua cooficial de la Comunidad Autónoma de destino, de acuerdo con su normativa.
 
-
 #### Disposición adicional undécima. Equivalencia de titulaciones del profesorado.
 
 1. El título de Profesor de Educación General Básica se considera equivalente, a todos los efectos, al título de Maestro al que se refiere la presente Ley. El título de Maestro de enseñanza primaria mantendrá los efectos que le otorga la legislación vigente.
 
 2. Las referencias establecidas en esta Ley en relación con las distintas titulaciones universitarias, lo son sin perjuicio de las normas que por el Gobierno se dicten para el establecimiento, reforma o adaptación de las modalidades cíclicas de cada enseñanza y de los títulos correspondientes, en virtud de la autorización otorgada al mismo por el artículo 88.2 de la Ley Orgánica 6/2001, de 21 de diciembre, de Universidades, con el fin de cumplir las líneas generales que emanen del Espacio Europeo de enseñanza superior.
-
 
 #### Disposición adicional duodécima. Ingreso y promoción interna.
 
@@ -2600,7 +2410,6 @@ Los candidatos seleccionados mediante el concurso-oposición deberán realizar p
 
 7. La Administración del Estado y las Comunidades Autónomas impulsarán el estudio y la implantación, en su caso, de medidas destinadas al desarrollo de la carrera profesional de los funcionarios docentes sin que necesariamente suponga el cambio de cuerpo.
 
-
 #### Disposición adicional decimotercera. Desempeño de la función inspectora por funcionarios no pertenecientes al cuerpo de inspectores de educación.
 
 1. Los funcionarios del cuerpo de inspectores al servicio de la Administración educativa que hubieran optado por permanecer en dicho cuerpo «a extinguir» tendrán derecho, a efectos de movilidad, a participar en los concursos para la provisión de puestos en la inspección de educación.
@@ -2609,11 +2418,9 @@ Los funcionarios del cuerpo de inspectores al servicio de la Administración edu
 
 2. Aquellos funcionarios de los cuerpos docentes que accedieron a la función inspectora de conformidad con las disposiciones de la Ley 30/1984, de 2 de agosto, de Medidas para la Reforma de la Función Pública, modificada por la Ley 23/1988, de 28 de julio, y que no hubieran accedido al cuerpo de Inspectores de educación a la entrada en vigor de esta Ley, podrán continuar desempeñando la función inspectora con carácter definitivo y hasta su jubilación como funcionarios, de conformidad con las disposiciones por las que accedieron al mismo.
 
-
 #### Disposición adicional decimocuarta. Centros autorizados para impartir la modalidad de ciencias de la naturaleza y de la salud y la modalidad de tecnología en bachillerato.
 
 Los centros docentes privados de bachillerato que a la entrada en vigor de la presente Ley impartan la modalidad de ciencias de la naturaleza y de la salud, la modalidad de tecnología, o ambas, quedarán automáticamente autorizados para impartir la modalidad de ciencias y tecnología, establecida en esta Ley.
-
 
 #### Disposición adicional decimoquinta. Municipios, corporaciones o entidades locales.
 
@@ -2633,41 +2440,33 @@ En lo que se refiere a las corporaciones locales, se establecerán procedimiento
 
 7. Las Administraciones educativas, deportivas y municipales, colaborarán para el establecimiento de procedimientos que permitan el doble uso de las instalaciones deportivas pertenecientes a los centros docentes o a los municipios.
 
-
 #### Disposición adicional decimosexta. Denominación de las etapas educativas.
 
 Las referencias, contenidas en la Ley Orgánica 8/1985, de 3 de julio, Reguladora del Derecho a la Educación, a los niveles educativos se entienden sustituidas por las denominaciones que, para los distintos niveles y etapas educativas y para los respectivos centros, se establecen en esta Ley.
-
 
 #### Disposición adicional decimoséptima. Claustro de profesores de los centros privados concertados.
 
 El claustro de profesores de los centros privados concertados tendrá funciones análogas a las previstas en el artículo 129 de esta Ley.
 
-
 #### Disposición adicional decimoctava. Procedimiento de consulta a las Comunidades Autónomas.
 
 La referencia en el articulado de esta Ley a las consultas previas a las Comunidades Autónomas se entienden realizadas en el seno de la Conferencia Sectorial.
-
 
 #### Disposición adicional decimonovena. Alumnado extranjero.
 
 Lo establecido en esta Ley en relación con la escolarización, obtención de títulos y acceso al sistema general de becas y ayudas al estudio será aplicable al alumnado extranjero en los términos establecidos en la Ley Orgánica 4/2000, de 11 de enero, sobre derechos y libertades de los Extranjeros en España y su integración social, modificada por la Ley Orgánica 8/2000, de 22 de diciembre, y en la normativa que las desarrolla.
 
-
 #### Disposición adicional vigésima. Atención a las víctimas del terrorismo.
 
 Las Administraciones educativas facilitarán que los centros educativos puedan prestar especial atención a los alumnos víctimas del terrorismo para que éstos reciban la ayuda necesaria para realizar adecuadamente sus estudios.
-
 
 #### Disposición adicional vigesimoprimera. Cambios de centro derivados de actos de violencia.
 
 Las Administraciones educativas asegurarán la escolarización inmediata de las alumnas o alumnos que se vean afectados por cambios de centro derivados de actos de violencia de género o acoso escolar. Igualmente, facilitarán que los centros educativos presten especial atención a dichos alumnos.
 
-
 #### Disposición adicional vigesimosegunda. Transformación de enseñanzas.
 
 En el supuesto de que en el proceso de ordenación de la enseñanza universitaria se definieran en el futuro títulos que correspondan a estudios regulados en la presente Ley, el Gobierno, previa consulta a las Comunidades Autónomas, podrá establecer el oportuno proceso de transformación de tales estudios.
-
 
 #### Disposición adicional vigesimotercera. Datos personales de los alumnos.
 
@@ -2679,21 +2478,17 @@ En el supuesto de que en el proceso de ordenación de la enseñanza universitari
 
 4. La cesión de los datos, incluidos los de carácter reservado, necesarios para el sistema educativo, se realizará preferentemente por vía telemática y estará sujeta a la legislación en materia de protección de datos de carácter personal, y las condiciones mínimas serán acordadas por el Gobierno con las Comunidades Autónomas en el seno de la Conferencia Sectorial de Educación.
 
-
 #### Disposición adicional vigesimocuarta. Incorporación de créditos en los Presupuestos Generales del Estado para la gratuidad del segundo ciclo de educación infantil.
 
 Los Presupuestos Generales del Estado correspondientes al ámbito temporal de aplicación de la presente Ley incorporarán progresivamente los créditos necesarios para hacer efectiva la gratuidad del segundo ciclo de la educación infantil a la que se refiere el artículo 15.2.
-
 
 #### Disposición adicional vigesimoquinta. Fomento de la igualdad efectiva entre hombres y mujeres.
 
 Con el fin de favorecer la igualdad de derechos y oportunidades y fomentar la igualdad efectiva entre hombres y mujeres, los centros que desarrollen el principio de coeducación en todas las etapas educativas, serán objeto de atención preferente y prioritaria en la aplicación de las previsiones recogidas en la presente Ley, sin perjuicio de lo dispuesto en los convenios internacionales suscritos por España.
 
-
 #### Disposición adicional vigesimosexta. Denominación específica para el Consejo Escolar de los centros educativos.
 
 Las Administraciones educativas podrán establecer una denominación específica para referirse al Consejo Escolar de los centros educativos.
-
 
 #### Disposición adicional vigesimoséptima. Revisión de los módulos de conciertos.
 
@@ -2701,11 +2496,9 @@ Las Administraciones educativas podrán establecer una denominación específica
 
 2. Las Administraciones educativas posibilitarán, para el ejercicio de la función directiva en los centros privados concertados, unas compensaciones económicas, análogas a las previstas para los cargos directivos de los centros públicos, de las mismas características.
 
-
 #### Disposición adicional vigesimoctava. Convenios con centros que impartan ciclos de formación profesional.
 
 Las Administraciones educativas podrán establecer convenios educativos con los centros que impartan ciclos formativos de formación profesional que complementen la oferta educativa de los centros públicos de acuerdo con la programación general de la enseñanza.
-
 
 #### Disposición adicional vigesimonovena. Fijación del importe de los módulos.
 
@@ -2713,11 +2506,9 @@ Las Administraciones educativas podrán establecer convenios educativos con los 
 
 2. En el seno de la Conferencia Sectorial se constituirá una comisión, en la que participarán las organizaciones empresariales y sindicales más representativas en el ámbito de la enseñanza privada concertada, para el estudio de la cuantía de los módulos de concierto que valore el coste total de la impartición de las enseñanzas en condiciones de gratuidad.
 
-
 #### Disposición adicional trigésima. Integración de centros en la red de centros de titularidad pública.
 
 Las Comunidades Autónomas podrán integrar en la respectiva red de centros docentes públicos, de acuerdo con la forma y el procedimiento que se establezca mediante Ley de sus Parlamentos, los centros de titularidad de las Administraciones locales que cumplan los requisitos establecidos en la Ley, atiendan poblaciones escolares de condiciones socioeconómicas desfavorables o que desempeñen una reconocida labor en la atención a las necesidades de escolarización, siempre que las Administraciones locales manifiesten su voluntad de integrarlos en dicha red.
-
 
 #### Disposición adicional trigesimoprimera. Vigencias de titulaciones.
 
@@ -2729,18 +2520,15 @@ Las Comunidades Autónomas podrán integrar en la respectiva red de centros doce
 
 4. El título de Técnico Especialista de la Ley 14/1970, de 4 de agosto, General de Educación y Financiamiento de la Reforma Educativa tendrá los mismos efectos académicos y profesionales que el nuevo título de Técnico Superior en la correspondiente especialidad.
 
-
 #### Disposición adicional trigesimosegunda. Nuevas titulaciones de formación profesional.
 
 En el periodo de aplicación de esta Ley el Gobierno, según lo dispuesto en el apartado 6 del artículo 39 de la misma, procederá a establecer las enseñanzas de formación profesional de grado medio y grado superior relacionadas con las artes escénicas.
-
 
 #### Disposición transitoria primera. Maestros adscritos a los cursos primero y segundo de la educación secundaria obligatoria.
 
 1. Los funcionarios del cuerpo de maestros adscritos con carácter definitivo, en aplicación de la disposición transitoria cuarta de la Ley Orgánica 1/1990, de 3 de octubre, de Ordenación General del Sistema Educativo, a puestos de los dos primeros cursos de la educación secundaria obligatoria, podrán continuar en dichos puestos indefinidamente, así como ejercer su movilidad en relación con las vacantes que a tal fin determine cada Administración educativa. En el supuesto de que accedieran al cuerpo de profesores de enseñanza secundaria conforme a lo previsto en la disposición adicional duodécima de esta Ley, podrán permanecer en su mismo destino en los términos que se establezcan.
 
 2. Los maestros que, en aplicación a la disposición transitoria octava de la Ley Orgánica 1/1990, de 3 de octubre, de Ordenación General del Sistema Educativo, vengan impartiendo los dos primeros cursos de la educación secundaria obligatoria en centros docentes privados, podrán continuar realizando la misma función en los puestos que vienen ocupando.
-
 
 #### Disposición transitoria segunda. Jubilación voluntaria anticipada.
 
@@ -2776,23 +2564,19 @@ La jubilación o renuncia de los funcionarios a que se refiere el párrafo anter
 
 8. Antes de la finalización, del periodo de implantación de la presente Ley, establecido en la disposición adicional primera, el Gobierno, previa consulta a las Comunidades Autónomas, procederá a la revisión del tiempo referido al régimen de jubilación voluntaria así como de los requisitos exigidos.
 
-
 #### Disposición transitoria tercera. Movilidad de los funcionarios de los cuerpos docentes.
 
 En tanto no sean desarrolladas las previsiones contenidas en esta Ley que afecten a la movilidad mediante concurso de traslados de los funcionarios de los cuerpos docentes en ella contemplados, la movilidad se ajustará a la normativa vigente a la entrada en vigor de la presente Ley.
 
-
 #### Disposición transitoria cuarta. Profesores técnicos de formación profesional en bachillerato.
 
 Los profesores técnicos de formación profesional que a la entrada en vigor de esta Ley estén impartiendo docencia en bachillerato podrán continuar de forma indefinida en dicha situación.
-
 
 #### Disposición transitoria quinta. Personal laboral fijo de centros dependientes de Administraciones no autonómicas.
 
 1. Cuando se hayan incorporado, con anterioridad a la entrada en vigor de la presente Ley, o se incorporen durante los tres primeros años de su aplicación, centros previamente dependientes de cualquier Administración Pública a las redes de centros docentes dependientes de las Administraciones educativas, el personal laboral que fuera fijo en el momento de la integración y realice funciones docentes en dichos centros, podrá acceder a los cuerpos docentes regulados en esta Ley, previa superación de las correspondientes pruebas selectivas convocadas a tal efecto por los respectivos Gobiernos de las Comunidades Autónomas. Dichas pruebas deberán garantizar, en todo caso, los principios constitucionales de igualdad, mérito y capacidad, en la forma que determinen los Parlamentos autonómicos, debiendo respetarse, en todo caso, lo establecido en la normativa básica del Estado.
 
 2. Los procedimientos de ingreso a que hace referencia esta disposición sólo serán de aplicación en el plazo de tres años.
-
 
 #### Disposición transitoria sexta. Duración del mandato de los órganos de gobierno.
 
@@ -2802,21 +2586,17 @@ Los profesores técnicos de formación profesional que a la entrada en vigor de 
 
 3. El Consejo Escolar de los centros docentes públicos y privados concertados constituido con anterioridad a la entrada en vigor de la presente Ley continuará su mandato hasta la finalización del mismo con las atribuciones establecidas en esta Ley.
 
-
 #### Disposición transitoria séptima. Ejercicio de la dirección en los centros docentes públicos.
 
 Los profesores que estando acreditados para el ejercicio de la dirección de los centros docentes públicos no hubieran ejercido, o la hayan ejercido por un periodo inferior al señalado en el artículo 136.1 de esta Ley, estarán exentos de la parte de la formación inicial que determinen las Comunidades Autónomas.
-
 
 #### Disposición transitoria octava. Formación pedagógica y didáctica.
 
 Los títulos Profesionales de Especialización Didáctica y el Certificado de Cualificación Pedagógica que a la entrada en vigor de esta Ley hubieran organizado las universidades al amparo de lo establecido en la Ley Orgánica 1/1990, de 3 de octubre, de Ordenación General del Sistema Educativo, el Certificado de Aptitud Pedagógica y otras certificaciones que el Gobierno pueda establecer serán equivalentes a la formación establecida en el artículo 100.2 de esta Ley, hasta tanto se regule para cada enseñanza. Estarán exceptuados de la exigencia de este título los maestros y los licenciados en pedagogía y psicopedagogía y quienes estén en posesión de licenciatura o titulación equivalente que incluya formación pedagógica y didáctica.
 
-
 #### Disposición transitoria novena. Adaptación de los centros.
 
 Los centros que atiendan a niños menores de tres años y que a la entrada en vigor de esta Ley no estén autorizados como centros de educación infantil, o lo estén como centros de educación preescolar, dispondrán para adaptarse a los requisitos mínimos que se establezcan del plazo que el Gobierno determine, previa consulta a las Comunidades Autónomas.
-
 
 #### Disposición transitoria décima. Modificación de los conciertos.
 
@@ -2826,26 +2606,21 @@ Los centros que atiendan a niños menores de tres años y que a la entrada en vi
 
 3. Los conciertos, convenios o subvenciones para los programas de garantía social se referirán a programas de cualificación profesional inicial.
 
-
 #### Disposición transitoria undécima. Aplicación de las normas reglamentarias.
 
 En las materias cuya regulación remite la presente Ley a ulteriores disposiciones reglamentarias, y en tanto éstas no sean dictadas, serán de aplicación, en cada caso, las normas de este rango que lo venían siendo a la fecha de entrada en vigor de esta Ley, siempre que no se opongan a lo dispuesto en ella.
-
 
 #### Disposición transitoria duodécima. Acceso a las enseñanzas de idiomas a menores de dieciséis años.
 
 No obstante lo dispuesto en el artículo 59.2 de esta Ley, los alumnos que a la entrada en vigor de esta Ley hayan completado los dos primeros cursos de la educación secundaria obligatoria podrán acceder a las enseñanzas de idiomas.
 
-
 #### Disposición transitoria decimotercera. Maestros especialistas.
 
 En tanto el Gobierno determine las enseñanzas a las que se refiere el artículo 93.2 de la presente Ley, la enseñanza de la música, de la educación física y de los idiomas extranjeros en educación primaria será impartida por maestros con la especialización correspondiente.
 
-
 #### Disposición transitoria decimocuarta. Cambios de titulación.
 
 Los requisitos de titulación establecidos en la presente Ley, para la impartición de los distintos niveles educativos, no afectarán al profesorado que esté prestando sus servicios en centros docentes según lo dispuesto en la legislación aplicable en relación a las plazas que se encuentran ocupando.
-
 
 #### Disposición transitoria decimoquinta. Maestros con plaza en los servicios de orientación o de asesoramiento psicopedagógico.
 
@@ -2855,11 +2630,9 @@ Los requisitos de titulación establecidos en la presente Ley, para la impartici
 
 3. Quienes superen el proceso selectivo quedarán destinados en la misma plaza que vinieren desempeñando y, a los solos efectos de determinar su antigüedad en el cuerpo en el que se integran, se les reconocerá la fecha de su acceso con carácter definitivo en los equipos psicopedagógicos de la Administración educativa.
 
-
 #### Disposición transitoria decimosexta. Prioridad de conciertos en el segundo ciclo de educación infantil.
 
 En relación con lo dispuesto en el artículo 15.2 de la presente Ley, las Administraciones educativas, en el régimen de conciertos a que se refiere el artículo 116 de la misma, y teniendo en cuenta lo previsto en el artículo 117, considerarán las solicitudes formuladas por los centros privados, y darán preferencia, por este orden, a las unidades que se soliciten para primero, segundo y tercer curso del segundo ciclo de la educación infantil.
-
 
 #### Disposición transitoria decimoséptima. Acceso a la función pública docente.
 
@@ -2867,16 +2640,13 @@ En relación con lo dispuesto en el artículo 15.2 de la presente Ley, las Admin
 
 2. Durante los años de implantación de la presente Ley, el acceso a la función pública docente se realizará mediante un procedimiento selectivo en el que, en la fase de concurso se valorarán la formación académica y, de forma preferente, la experiencia docente previa en los centros públicos de la misma etapa educativa, hasta los límites legales permitidos. La fase de oposición, que tendrá una sola prueba, versará sobre los contenidos de la especialidad que corresponda, la aptitud pedagógica y el dominio de las técnicas necesarias para el ejercicio de la docencia. Para la regulación de este procedimiento de concurso-oposición, se tendrá en cuenta lo previsto en el apartado anterior, a cuyos efectos se requerirán los informes oportunos de las Administraciones educativas.
 
-
 #### Disposición transitoria decimoctava. Adaptación de normativa sobre conciertos.
 
 A fin de que las Administraciones educativas puedan adaptar su normativa sobre conciertos educativos a las disposiciones de la presente Ley, podrán acordar la prórroga de hasta dos años del periodo general de concertación educativa en curso a la entrada en vigor de la presente Ley.
 
-
 #### Disposición transitoria decimonovena. Procedimiento de admisión de alumnos.
 
 Los procedimientos de admisión de alumnos se adaptarán a lo previsto en el capítulo III del título II de esta Ley a partir del curso académico 2007/2008.
-
 
 #### Disposición derogatoria única
 
@@ -2893,7 +2663,6 @@ d) Ley Orgánica 10/2002, de 23 de diciembre, de Calidad de la Educación.
 e) Ley 24/1994, de 12 de julio, por la que se establecen normas sobre concursos de provisión de puestos de trabajo para funcionarios docentes.
 
 2. Asimismo, quedan derogadas cuantas disposiciones de igual o inferior rango se opongan a lo dispuesto en la presente Ley.
-
 
 #### Disposición final primera. Modificación de la Ley Orgánica 8/1985, de 3 de julio, reguladora del Derecho a la Educación.
 
@@ -3083,42 +2852,33 @@ b) Si el titular no subsanase el incumplimiento leve, la administración impondr
 
 7. El incumplimiento y la sanción muy grave prescribirán a los tres años, el grave a los dos años y el leve al año. El plazo de prescripción se interrumpirá con la constitución de la Comisión de Conciliación para la corrección del incumplimiento cometido por el centro concertado.»
 
-
 #### Disposición final segunda. Modificación de la Ley 30/1984, de 2 de agosto, de Medidas para la Reforma de la Función Pública.
 
 Se añade una nueva letra al artículo 29.2 de la Ley 30/1984, de 2 de agosto, de Medidas para la Reforma de la Función Pública, con la siguiente redacción:
 
 «ñ) Cuando sean nombrados para desempeñar puestos en las Áreas Funcionales de la Alta Inspección de Educación funcionarios de los cuerpos docentes o escalas en que se ordena la función pública docente.»
 
-
 #### Disposición final tercera. Enseñanzas mínimas.
 
 Todas las referencias contenidas en las disposiciones vigentes a las enseñanzas comunes, se entenderán realizadas a los aspectos básicos del currículo que constituyen las enseñanzas mínimas.
-
 
 #### Disposición final cuarta. Autonomía de gestión económica de los centros docentes públicos no universitarios.
 
 Continuará en vigor, con las modificaciones derivadas de la presente Ley, la Ley 12/1987, de 2 de julio, sobre establecimiento de la gratuidad de los estudios de bachillerato, formación profesional y artes aplicadas y oficios artísticos en los centros públicos y la autonomía de gestión económica de los centros docentes públicos no universitarios.
 
-
 #### Disposición final quinta. Título competencial.
 
 La presente Ley se dicta con carácter básico al amparo de la competencia que corresponde al Estado conforme al artículo 149.1.1.ª, 18.ª y 30.ª de la Constitución. Se exceptúan del referido carácter básico los siguientes preceptos: artículos 5.5 y 5.6; 7; 8.1 y 8.3; 9; 11.1 y 11.3; 14.6; 15.3; 18.4 y 18.5; 22.5; 26.1 y 26.2; 30.5; 35; 41.5; 42.3; 47; 58.4, 58.5 y 58.6; 60.3 y 60.4; 66.2 y 66.4; 67.2, 67.3, 67.6, 67.7 y 67.8; 72.4 y 72.5 y 89; 90; 100.3; 101, 102.2, 102.3 y 102.4; 103.1; 105.2; 106.2 y 106.3; 112.2, 112.3, 112.4 y 112.5; 113.3 y 113.4; 122.2 y 122.3; 123.2, 123.3, 123.4 y 123.5; 124; 125; 130.1; 131.2 y 131.5; 145; 146; 154; disposición adicional decimoquinta, apartados 1, 4, 5 y 7; y disposición final cuarta.
-
 
 #### Disposición final sexta. Desarrollo de la presente Ley.
 
 Las normas de esta Ley podrán ser desarrolladas por las Comunidades Autónomas, a excepción de las relativas a aquellas materias cuya regulación se encomienda por la misma al Gobierno o que corresponden al Estado conforme a lo establecido en la disposición adicional primera, número 2, de la Ley Orgánica 8/1985, de 3 de julio, Reguladora del Derecho a la Educación.
 
-
 #### Disposición final séptima. Carácter de Ley Orgánica de la presente Ley.
 
 Tienen rango de Ley Orgánica el capítulo I del título preliminar, los artículos 3; 4; 5.1, 5.2; el capítulo III del título preliminar, los artículos 16; 17; 18.1, 18.2 y 18.3; 19.1; 22; 23; 24; 25; 27; 30.1, 30.2, 30.3, 30.4 y 30.6; 38; 68; 71; 74; 78; 80; 81.3 y 81.4; 82.2; 83; 84.1, 84.2, 84.3, 84.4, 84.5, 84.6, 84.7, 84.8 y 84.9; 85; 108; 109; 115; el capítulo IV del título IV; los artículos 118; 119; 126.1 y 126.2; 127; 128; 129; las disposiciones adicionales decimosexta y decimoséptima; la disposición transitoria sexta, apartado tercero; la disposición transitoria décima; las disposiciones finales primera y séptima, y la disposición derogatoria única.
 
-
 #### Disposición final octava. Entrada en vigor.
-
-La presente Ley orgánica entrará en vigor a los veinte días de su publicación en el «Boletín Oficial del Estado».
 
 Por tanto,
 

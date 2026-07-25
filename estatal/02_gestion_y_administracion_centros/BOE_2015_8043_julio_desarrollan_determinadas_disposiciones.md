@@ -54,9 +54,7 @@ Para la elaboración de este real decreto han sido consultadas las Comunidades A
 
 En virtud de lo expuesto, a propuesta del Ministro de Educación, Cultura y Deporte, previa aprobación del Ministro de Hacienda y de Administraciones Públicas, de acuerdo con el Consejo de Estado y previa deliberación del Consejo de Ministros en su reunión del día 17 de julio de 2015,
 
-
 **DISPONGO:**
-
 
 #### Artículo primero. Modificación del Real Decreto 1834/2008, de 8 de noviembre, por el que se definen las condiciones de formación para el ejercicio de la docencia en la educación secundaria obligatoria, el bachillerato, la formación profesional y las enseñanzas de régimen especial y se establecen las especialidades de los cuerpos docentes de enseñanza secundaria.
 
@@ -516,7 +514,6 @@ Matemáticas.
 
 Tecnología.
 
-
 #### Artículo segundo. Modificación del Real Decreto 860/2010, de 2 de julio, por el que se regulan las condiciones de formación inicial del profesorado de los centros privados para ejercer la docencia en las enseñanzas de educación secundaria obligatoria o de bachillerato.
 
 Uno. El artículo 7 queda redactado en los siguientes términos:
@@ -881,7 +878,6 @@ Matemáticas.
 
 Tecnología.
 
-
 #### Artículo tercero. Correspondencia entre determinadas materias del currículo anteriores a la implantación de las modificaciones introducidas en la Ley Orgánica 2/2006, de 3 de mayo, de Educación, por la Ley Orgánica 8/2013, de 9 de diciembre, para la mejora de la calidad educativa, según su disposición final quinta, y sus equivalentes en el currículo derivado de su implantación.
 
 Se establecen las siguientes correspondencias:
@@ -964,11 +960,9 @@ Cultura Científica.
 
 * En función de la opción elegida.
 
-
 #### Disposición final primera. Calendario de implantación.
 
 La implantación de las modificaciones incluidas en este real decreto se realizará según el calendario de implantación establecido en la disposición final quinta de la Ley Orgánica 8/2013, de 9 de diciembre.
-
 
 #### Disposición final segunda. Modificación de los reales decretos que regulan los títulos de Técnico y Técnico Superior de Artes Plásticas y Diseño de la familia profesional artística de Escultura.
 
@@ -1008,11 +1002,9 @@ Las disposiciones finales segundas de los reales decretos indicados quedan redac
 
 Las Administraciones educativas podrán iniciar a partir del curso escolar 2015-2016 la implantación progresiva del nuevo currículo de estas enseñanzas. En cualquier caso, el nuevo currículo deberá estar implantado en el curso escolar 2017-2018.»
 
-
 #### Disposición final tercera. Desarrollo normativo.
 
 Se habilita al Ministro de Educación, Cultura y Deporte para dictar, en el ámbito de sus competencias, cuantas disposiciones sean precisas para la ejecución y desarrollo de lo establecido en este real decreto.
-
 
 #### Disposición final cuarta. Entrada en vigor.
 

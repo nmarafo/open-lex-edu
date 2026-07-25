@@ -28,6 +28,7 @@ fundamentos_derecho:
   - '1'
   - '2.1'
 ---
+
 # Real Decreto 365/1995, de 10 de marzo, por el que se aprueba el Reglamento de Situaciones Administrativas de los Funcionarios Civiles de la Administración General del Estado.
 
 La importancia de las modificaciones en materia de situaciones administrativas de los funcionarios llevadas a cabo por la Ley 22/1993, de 29 de diciembre, de Medidas Fiscales, de Reforma del Régimen Jurídico de la Función Pública y de la Protección por Desempleo, determina la necesidad de actualizar las normas reglamentarias dictadas al efecto en desarrollo de la Ley 30/1984, de 2 de agosto, de Medidas para la Reforma de la Función Pública, contenidas en el Reglamento aprobado por Real Decreto 730/1986, de 11 de abril, incorporando, al propio tiempo, las innovaciones que en esta materia introdujo la Ley 3/1989, de 3 de marzo, de ampliación del permiso por maternidad y medidas para favorecer la igualdad de trato de la mujer en el trabajo, así como las que traen causa de otras normas de modificación del régimen jurídico de la Función Pública, que tienen reflejo directo sobre el Reglamento aludido.
@@ -36,23 +37,17 @@ En consecuencia, y dada la entidad de las reformas que es necesario introducir, 
 
 En atención a lo expuesto, a propuesta del Ministro para las Administraciones Públicas, previo informe de la Comisión Superior de Personal, de acuerdo con el Consejo de Estado y previa deliberación del Consejo de Ministros en su reunión del día 10 de marzo de 1995,
 
-
 **DISPONGO:**
-
 
 #### Artículo único. Aprobación del Reglamento.
 
 Se aprueba el Reglamento de Situaciones Administrativas de los Funcionarios Civiles de la Administración General del Estado, cuyo texto se inserta a continuación.
 
-
 #### Disposición derogatoria única. Derogación de normas.
 
 Queda derogado el Reglamento de Situaciones Administrativas de los Funcionarios de la Administración del Estado, aprobado por Real Decreto 730/1986, de 11 de abril.
 
-
 #### Disposición final única. Entrada en vigor.
-
-El presente Real Decreto entrará en vigor el día siguiente al de su publicación en el «Boletín Oficial del Estado».
 
 Dado en Madrid a 10 de marzo de 1995.
 
@@ -68,13 +63,11 @@ CAPÍTULO I
 
 Disposiciones generales
 
-
 #### Artículo 1. Ámbito de aplicación.
 
 1. El presente Reglamento será de aplicación a los funcionarios de la Administración general del Estado y sus Organismos autónomos comprendidos en el ámbito de aplicación de la Ley 30/1984, de 2 de agosto, de Medidas para la Reforma de la Función Pública.
 
 2. No obstante lo dispuesto en el apartado anterior, no serán de aplicación a los funcionarios de los Cuerpos o Escalas en que se ordena la función pública docente las disposiciones del presente Reglamento relativas a las situaciones aludidas en el apartado 1, párrafo segundo de la disposición adicional decimoquinta de la Ley 30/1984, de 2 de agosto, de Medidas para la Reforma de la Función Pública, adicionado por la Ley 22/1993, de 29 de diciembre, de Medidas Fiscales, de Reforma del Régimen Jurídico de la Función Pública y de la Protección por desempleo.
-
 
 #### Artículo 2. Situaciones administrativas.
 
@@ -105,7 +98,6 @@ k) Suspensión de funciones.
 CAPÍTULO II
 
 Servicio activo
-
 
 #### Artículo 3. Servicio activo.
 
@@ -138,7 +130,6 @@ l) En el supuesto de cesación progresiva de actividades.
 CAPÍTULO III
 
 Servicios especiales
-
 
 #### Artículo 4. Servicios especiales.
 
@@ -174,18 +165,15 @@ m) Cuando ostenten la condición de Comisionados parlamentarios de Comunidad Aut
 
 n) Cuando así se determine en una norma con rango de Ley.
 
-
 #### Artículo 5. Cargo de carácter político.
 
 Para declarar el pase a la situación de servicios especiales en el supuesto del apartado j) del artículo 29.2 de la Ley 30/1984 será necesario haber sido nombrado para el desempeño en el sector público de un cargo de carácter político, entendiendo por tal el cargo de confianza que no implique una relación profesional de carácter permanente, del que se derive incompatibilidad para ejercer la función pública y que, conforme a los criterios que establezca el Ministerio para las Administraciones Públicas, conlleve responsabilidades directivas o asesoramiento a nivel político.
-
 
 #### Artículo 6. Declaración de la situación de servicios especiales.
 
 1. El pase a la situación de servicios especiales se declarará de oficio o a instancia del interesado, una vez verificado el supuesto que la ocasione, con efectos desde el momento en que se produjo.
 
 2. En el supuesto previsto en el artículo 4 a) de este Reglamento, la autorización para realizar la misión de carácter internacional requerirá que conste el interés de la Administración, conforme a los criterios que establezca el Ministerio de Asuntos Exteriores.
-
 
 #### Artículo 7. Reserva de puestos de trabajo.
 
@@ -197,7 +185,6 @@ b) En los restantes casos, se les adjudicará, con carácter definitivo, un pues
 
 2. Cuando se hubiere accedido a la situación de servicios especiales desde situaciones que no conllevan el desempeño o reserva de puesto de trabajo no habrá lugar a la reserva de puesto de trabajo, sin perjuicio de lo dispuesto en el párrafo segundo del artículo 23 de este Reglamento.
 
-
 #### Artículo 8. Efectos de la situación de servicios especiales.
 
 1. Los funcionarios en la situación de servicios especiales recibirán la retribución del puesto o cargo efectivo que desempeñen y no la que les corresponda como funcionarios. Excepcionalmente, y cuando las retribuciones por los trienios que tuviesen reconocidos no pudieran, por causa legal, ser percibidas con cargo a los correspondientes presupuestos, deberán ser retribuidos en tal concepto por el Departamento en el que desempeñaban su último puesto de trabajo en situación de servicio activo.
@@ -205,7 +192,6 @@ b) En los restantes casos, se les adjudicará, con carácter definitivo, un pues
 Asimismo, de darse estas circunstancias, respecto al abono de la cuota de Seguridad Social, deberá ser efectuado dicho abono por el referido Departamento.
 
 2. A los funcionarios en situación de servicios especiales se les computará el tiempo que permanezcan en tal situación, a efectos de ascensos, consolidación de grado personal, trienios y derechos pasivos, así como a efectos del cómputo del período mínimo de servicios efectivos para solicitar el pase a la situación de excedencia voluntaria por interés particular.
-
 
 #### Artículo 9. Solicitud de reingreso al servicio activo.
 
@@ -217,7 +203,6 @@ CAPÍTULO IV
 
 Servicio en Comunidades Autónomas
 
-
 #### Artículo 10. Funcionarios transferidos.
 
 1. Los funcionarios transferidos a las Comunidades Autónomas se integran plenamente en la organización de las mismas y su situación administrativa es la de servicio activo en ellas.
@@ -225,7 +210,6 @@ Servicio en Comunidades Autónomas
 En los Cuerpos o Escalas de la Administración del Estado de los que procedieran permanecerán en la situación administrativa especial de servicio en Comunidades Autónomas, que les permitirá mantener todos sus derechos como si se hallaran en servicio activo, de acuerdo con lo establecido en los respectivos Estatutos de Autonomía.
 
 2. No obstante, la sanción de separación del servicio será acordada por el órgano competente de la Comunidad Autónoma, previo dictamen del Consejo de Estado, sin perjuicio de los informes que previamente deban solicitar éstas de acuerdo con lo previsto en su legislación específica.
-
 
 #### Artículo 11. Funcionarios destinados a Comunidades Autónomas por otros procedimientos.
 
@@ -236,7 +220,6 @@ En los Cuerpos o Escalas de la Administración del Estado de los que procedieran
 CAPÍTULO V
 
 Expectativa de destino
-
 
 #### Artículo 12. Expectativa de destino
 
@@ -259,7 +242,6 @@ A los restantes efectos, incluido el régimen de incompatibilidades, esta situac
 CAPÍTULO VI
 
 Excedencia forzosa
-
 
 #### Artículo 13. Excedencia forzosa
 
@@ -287,7 +269,6 @@ CAPÍTULO VII
 
 Excedencia para el cuidado de hijos
 
-
 #### Artículo 14. Excedencia para el cuidado de hijos.
 
 1. Los funcionarios tendrán derecho a un período de excedencia para atender al cuidado de cada hijo, tanto cuando lo sea por naturaleza como por adopción. Cuando el padre y la madre trabajen, sólo uno de ellos podrá ejercitar este derecho.
@@ -308,7 +289,6 @@ CAPÍTULO VIII
 
 Excedencia voluntaria
 
-
 #### Artículo 15. Excedencia voluntaria por prestación de servicios en el sector público.
 
 1. Procederá declarar, de oficio o a instancia de parte, en la situación regulada en este artículo a los funcionarios que se encuentren en servicio activo en otro Cuerpo o Escala de cualquiera de las Administraciones Públicas, salvo que hubieran obtenido la oportuna compatibilidad, y a los que pasen a prestar servicios en Organismos o Entidades del sector público y no les corresponda quedar en las situaciones de servicio activo o servicios especiales.
@@ -318,7 +298,6 @@ A efectos de lo previsto en el párrafo anterior, deben considerarse incluidas e
 2. La declaración de excedencia voluntaria por prestación de servicios en el sector público procederá también en el caso de los funcionarios del Estado integrados en la función pública de las Comunidades Autónomas que ingresen voluntariamente en Cuerpos o Escalas de funcionarios propios de las mismas distintos a aquellos en que inicialmente se hubieran integrado.
 
 3. Los funcionarios podrán permanecer en esta situación en tanto se mantenga la relación de servicios que dio origen a la misma. Una vez producido el cese en ella deberán solicitar el reingreso al servicio activo en el plazo máximo de un mes, declarándoseles, de no hacerlo, en la situación de excedencia voluntaria por interés particular.
-
 
 #### Artículo 16. Excedencia voluntaria por interés particular.
 
@@ -334,13 +313,11 @@ Cuando el funcionario pertenezca a un Cuerpo o Escala que tenga reservados puest
 
 6. La solicitud de reingreso al servicio activo condicionada a puestos o municipios concretos de funcionarios procedentes de esta situación no interrumpirá el cómputo del plazo máximo de duración de la misma.
 
-
 #### Artículo 17. Excedencia voluntaria por agrupación familiar.
 
 1. Podrá concederse la excedencia voluntaria por agrupación familiar, con una duración mínima de dos años y máxima de quince, a los funcionarios cuyo cónyuge resida en otro municipio por haber obtenido y estar desempeñando un puesto de trabajo de carácter definitivo, como funcionario de carrera o como laboral, en cualquier Administración pública, Organismo autónomo o Entidad Gestora de la Seguridad Social, así como en Organos Constitucionales o del Poder Judicial.
 
 2. Antes de finalizar el período de quince años de duración de esta situación deberá solicitarse el reingreso al servicio activo, declarándose, de no hacerlo, de oficio la situación de excedencia voluntaria por interés particular.
-
 
 #### Artículo 18. Excedencia voluntaria incentivada.
 
@@ -360,13 +337,11 @@ CAPÍTULO IX
 
 Suspensión de funciones
 
-
 #### Artículo 20. Suspensión de funciones.
 
 1. La situación de suspensión de funciones podrá ser provisional o firme.
 
 2. El funcionario declarado en suspensión firme de funciones deberá pasar a dicha situación en todos los Cuerpos o Escalas incluidos en el ámbito de aplicación de este Reglamento a los que pertenezca, a cuyo fin el órgano que acuerde la declaración de esta situación deberá poner ésta en conocimiento de los Departamentos ministeriales a que dichos Cuerpos o Escalas estén adscritos.
-
 
 #### Artículo 21. Suspensión provisional.
 
@@ -379,7 +354,6 @@ Suspensión de funciones
 4. El suspenso provisional tendrá derecho a percibir el 75 por 100 de su sueldo, trienios y pagas extraordinarias, así como la totalidad de la prestación económica por hijo a cargo, excepto en caso de paralización del expediente imputable al interesado, que comportará la pérdida de toda retribución mientras se mantenga dicha paralización. Asimismo, no se acreditará haber alguno en caso de incomparecencia en el procedimiento disciplinario o proceso penal.
 
 5. Cuando la suspensión no sea declarada firme, el tiempo de duración de la misma se computará como de servicio activo, debiendo acordarse la inmediata incorporación del funcionario a su puesto de trabajo, con reconocimiento de los derechos económicos y demás que procedan desde la fecha de efectos de la suspensión.
-
 
 #### Artículo 22. Suspensión firme.
 
@@ -397,35 +371,29 @@ CAPÍTULO X
 
 Cambio de situaciones administrativas
 
-
 #### Artículo 23. Requisitos y efectos.
 
 1. Los cambios de situaciones administrativas deberán ser siempre comunicados al Registro Central de Personal y podrán tener lugar, siempre que se reúnan los requisitos exigidos en cada caso, sin necesidad del reingreso previo al servicio activo.
 
 2. En el supuesto de que la nueva situación conlleve el derecho a la reserva de un puesto de trabajo, los funcionarios podrán participar en convocatorias de concurso para la provisión de puestos de trabajo, permaneciendo en la situación que corresponda, y reservándoseles un puesto de igual nivel y similares retribuciones a las del puesto obtenido en el mismo Ministerio y Municipio.
 
-
 #### Disposición adicional primera. Funcionarios de las Comunidades Autónomas y de las Corporaciones Locales con destino en la Administración General del Estado.
 
 Los funcionarios públicos de las Comunidades Autónomas y de las Corporaciones Locales que pasen a prestar servicios a la Administración General del Estado se someterán a lo establecido en la normativa de función pública de ésta, excepto en lo que hace referencia a la separación del servicio, que se regirá por lo previsto en sus disposiciones específicas.
-
 
 #### Disposición adicional segunda. Funcionarios de la Administración General del Estado destinados en Corporaciones Locales.
 
 Los funcionarios de la Administración General del Estado que pasen a ocupar puestos de trabajo en las Corporaciones Locales quedarán sometidos a lo dispuesto en el artículo 92.1 de la Ley 7/1985, de 2 de abril, y a la legislación sobre función pública aplicable en la Administración Local en todo lo referente a su relación de servicios con la respectiva Entidad o Corporación, sin perjuicio de la sanción de separación del servicio, que será acordada por el Ministro del Departamento a que esté adscrito en cada caso el Cuerpo o Escala del funcionario, previa incoación de expediente disciplinario por la Corporación Local.
 
-
 #### Disposición adicional tercera. Personal destinado en Organos Constitucionales.
 
 Lo dispuesto en el presente Reglamento se entiende sin perjuicio de lo establecido en las disposiciones reguladoras de los Organos Constitucionales respecto al personal de la Administración General del Estado destinado en los mismos.
-
 
 #### Disposición adicional cuarta. Funcionarios docentes universitarios y personal funcionario propio de las Universidades.
 
 Los funcionarios docentes universitarios se regirán por lo dispuesto en el Real Decreto 898/1985, de 30 de abril, sobre régimen de profesorado universitario, en cuanto haga referencia a situaciones administrativas, siéndoles de aplicación el presente Reglamento en lo no previsto en el citado Real Decreto.
 
 De acuerdo con lo previsto en los artículos 44.2 y 49.4 de la Ley Orgánica 11/1983, de 25 de agosto, de Reforma Universitaria, la competencia en materia de situaciones administrativas de los funcionarios docentes que desempeñen sus funciones en las Universidades y de los pertenecientes a Escalas de Administración y Servicios propias de las mismas, corresponden al Rector.
-
 
 #### Disposición adicional quinta. Cesación progresiva de actividades.
 
@@ -439,16 +407,13 @@ De acuerdo con lo previsto en los artículos 44.2 y 49.4 de la Ley Orgánica 11/
 
 5. Los funcionarios, en iguales circunstancias, incluidos en el Régimen de la Seguridad Social, experimentarán en su base de cotización la reducción derivada de la minoración de sus retribuciones, de conformidad con lo establecido en las disposiciones que les sean de aplicación.
 
-
 #### Disposición adicional sexta. Procedimientos en materia de gestión de personal.
 
 En materia de actos presuntos y de plazos para la resolución de los procedimientos administrativos de gestión de personal serán de aplicación las disposiciones contenidas en el Real Decreto 1777/1994, de 5 de agosto, de adecuación de las normas reguladoras de los procedimientos de gestión de personal a la Ley 30/1992, de 26 de noviembre, de Régimen Jurídico de las Administraciones Públicas y del Procedimiento Administrativo Común.
 
-
 #### Disposición transitoria primera. Excedencia voluntaria de la disposición transitoria octava de la Ley 30/1984.
 
 Los funcionarios en situación de excedencia voluntaria concedida al amparo de lo previsto en el apartado 6 de la disposición transitoria octava de la Ley 30/1984, de 2 de agosto, gozarán de preferencia para el reingreso, una vez transcurrido el plazo mínimo de cinco años, respecto de los que se encuentren en las demás modalidades de dicha situación. Gozarán, asimismo, y por una sola vez, de preferencia para obtener un puesto en el Ministerio y municipio de procedencia.
-
 
 #### Disposición transitoria segunda. Cómputo de plazos de la excedencia voluntaria por interés particular.
 

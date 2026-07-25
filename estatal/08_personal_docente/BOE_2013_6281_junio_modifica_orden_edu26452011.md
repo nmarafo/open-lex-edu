@@ -57,7 +57,6 @@ En el proceso de elaboración de esta orden, han sido consultadas las Comunidade
 
 En su virtud, dispongo:
 
-
 #### Artículo único. Modificación de la Orden EDU/2645/2011, de 23 de septiembre, por la que se establece la formación equivalente a la formación pedagógica y didáctica exigida para aquellas personas que, estando en posesión de una titulación declarada equivalente a efectos de docencia, no pueden realizar los estudios de máster.
 
 La Orden EDU/2645/2011, de 23 de septiembre, por la que se establece la formación equivalente a la formación pedagógica y didáctica exigida para aquellas personas que, estando en posesión de una titulación declarada equivalente a efectos de docencia, no pueden realizar los estudios de máster, se modifica en los siguientes términos:
@@ -76,14 +75,10 @@ Tres. El apartado 1 de la disposición transitoria única, queda redactado en lo
 
 «1. Tendrán reconocido el requisito de formación pedagógica y didáctica a que se refiere la presente orden quienes acrediten que, con anterioridad al 1 de septiembre de 2014, han impartido docencia durante dos cursos académicos completos o dos ciclos de enseñanzas deportivas completos o, en su defecto, doce meses en períodos continuos o discontinuos, en centros públicos o privados de enseñanza reglada debidamente autorizados, en los niveles y enseñanzas correspondientes.»
 
-
 #### Disposición final primera. Habilitación para el desarrollo.
 
 Se autoriza a la persona titular de la Secretaría de Estado de Educación, Formación Profesional y Universidades a dictar, en el ámbito de sus competencias, cuantas disposiciones sean precisas para la ejecución y desarrollo de lo establecido en esta orden.
 
-
 #### Disposición final segunda. Entrada en vigor.
-
-La presente orden entrará en vigor el día siguiente al de su publicación en el «Boletín Oficial del Estado».
 
 Madrid, 7 de junio de 2013.–El Ministro de Educación, Cultura y Deporte, José Ignacio Wert Ortega.

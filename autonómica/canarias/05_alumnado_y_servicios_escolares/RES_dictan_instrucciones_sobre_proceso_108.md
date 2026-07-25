@@ -33,9 +33,6 @@ fuente_pdf_oficial: https://sede.gobiernodecanarias.org/boc/boc-a-2025-047-935.p
 
 # Resolución de 24 de febrero de 2025, por la que se dictan instrucciones sobre el proceso de admisión del alumnado a Ciclos Formativos de Grado Básico, Medio y Superior (niveles 1, 2 y 3, respectivamente) de las Enseñanzas de Formación Profesional de Grado D, Enseñanzas Profesionales de Artes Plásticas y Diseño, Enseñanzas Elementales y Profesionales de Música, Enseñanzas de Idiomas y Enseñanzas Deportivas en centros docentes sostenidos con fondos públicos en la Comunidad Autónoma de Canarias para el curso escolar 2025/2026.
 
-https://sede.gobiernodecanarias.org/boc
-boc-a-2025-047-935
-Boletín Oficial de Canarias núm. 47 Viernes 7 de marzo de 202510533
 III. Otras Resoluciones
 Consejería de Educación, Formación Profesional, Actividad Física y Deportes
 935 Dirección General de Formación Profesional y Enseñanzas de Régimen Especial.- 
@@ -76,9 +73,6 @@ Primero.- La Ley Orgánica 2/2006, de 3 de mayo, de Educación, señala en su
 artículo 84.1 que “Las Administraciones educativas regularán la admisión de alumnos y 
 alumnas en centros públicos y privados concertados de tal forma que garantice el derecho 
 
-https://sede.gobiernodecanarias.org/boc
-boc-a-2025-047-935
-Boletín Oficial de Canarias núm. 47 Viernes 7 de marzo de 202510534
 a la educación, el acceso en condiciones de igualdad y la libertad de elección de centro por 
 padres, madres o tutores legales. En dicha regulación se dispondrán las medidas necesarias 
 para evitar la segregación del alumnado por motivos socioeconómicos o de otra naturaleza. 
@@ -124,9 +118,6 @@ prevista al efecto.
 Sexto.- La Orden de 3 de marzo de 2022, por la que se desarrolla el Decreto 9/2022, 
 de 20 de enero, que regula la admisión del alumnado en centros docentes que oferten 
 
-https://sede.gobiernodecanarias.org/boc
-boc-a-2025-047-935
-Boletín Oficial de Canarias núm. 47 Viernes 7 de marzo de 202510535
 enseñanzas no universitarias sostenidas con fondos públicos en la Comunidad Autónoma 
 de Canarias, en su Capítulo II, Sección 4.ª, señala las instrucciones específicas que debe 
 seguir la admisión de las enseñanzas de formación profesional, enseñanzas elementales y 
@@ -166,9 +157,6 @@ interponer.
 Las Palmas de Gran Canaria, a 24 de febrero de 2025.- La Directora General de 
 Formación Profesional y Enseñanzas de Régimen Especial, Carolina León Martínez.
 
-https://sede.gobiernodecanarias.org/boc
-boc-a-2025-047-935
-Boletín Oficial de Canarias núm. 47 Viernes 7 de marzo de 202510536
 ÍNDICE
 I. Instrucciones generales del procedimiento.
 II. Instrucciones específicas para las Enseñanzas de Formación Profesional en Ciclos 
@@ -203,9 +191,6 @@ Resolución, en los plazos indicados por el calendario aprobado para esta convoc
 cumplimentarán los datos correspondientes a la información inicial al procedimiento de 
 admisión a través de las aplicaciones puestas a su disposición.
 
-https://sede.gobiernodecanarias.org/boc
-boc-a-2025-047-935
-Boletín Oficial de Canarias núm. 47 Viernes 7 de marzo de 202510537
 2. Los centros educativos deberán publicar en su página web, tablones de anuncios, 
 y en cualquier otro medio que garantice su conocimiento la información referida a sus 
 características específicas, incluido el proyecto educativo, y en los centros privados concertados 
@@ -250,9 +235,6 @@ Quinta.- Validez de la solicitud.
 1. La solicitud será válida y eficaz si la firman quien o quienes ostentan la patria potestad 
 del alumnado menor de edad, o la persona solicitante, en caso de ser mayor de edad.
 
-https://sede.gobiernodecanarias.org/boc
-boc-a-2025-047-935
-Boletín Oficial de Canarias núm. 47 Viernes 7 de marzo de 202510538
 En el caso de menores de edad, cuando la solicitud esté firmada solo por el padre, la 
 madre, tutor, tutora, guardador o guardadora, se entenderá que tiene atribuida la guarda 
 y custodia sin limitación para gestionar lo necesario en el procedimiento de admisión, y 
@@ -294,9 +276,6 @@ Educación Secundaria Obligatoria que le corresponda.
 2. En el caso de exclusión por duplicidad de solicitudes presentada por los padres, 
 madres, tutores o tutoras, guardadores o guardadoras, separados, divorciados, que hayan 
 
-https://sede.gobiernodecanarias.org/boc
-boc-a-2025-047-935
-Boletín Oficial de Canarias núm. 47 Viernes 7 de marzo de 202510539
 finalizado su convivencia, o representantes legales, deberá seguirse el procedimiento 
 previsto en la Resolución de 30 de junio de 2017, por la que se dictan instrucciones para la 
 actuación de los centros docentes sostenidos con fondos públicos, en los casos de padres, 
@@ -337,9 +316,6 @@ Profesional de Grado Básico o de Grado Medio o Superior, en la modalidad presen
 semipresencial o virtual, se estará a lo previsto en las instrucciones conjuntas de la Viceconsejería 
 de Educación y de la Viceconsejería de Formación Profesional y Cualificaciones Profesionales.
 
-https://sede.gobiernodecanarias.org/boc
-boc-a-2025-047-935
-Boletín Oficial de Canarias núm. 47 Viernes 7 de marzo de 202510540
 2. Para el alumnado que se encuentre cursando 2.º de Bachillerato en el momento de la 
 convocatoria anual del procedimiento de admisión, se establece lo siguiente:
 a) Si se encuentra matriculado en centros docentes públicos de nuestra comunidad 
@@ -382,9 +358,6 @@ publicación de las mismas. Una vez resueltas las reclamaciones, los centros mod
 los datos necesarios en la aplicación de admisión de alumnado y subsanarán de oficio los 
 errores que se hayan podido detectar en las solicitudes tramitadas.
 
-https://sede.gobiernodecanarias.org/boc
-boc-a-2025-047-935
-Boletín Oficial de Canarias núm. 47 Viernes 7 de marzo de 202510541
 2. En el mismo plazo establecido para las reclamaciones, se podrá renunciar a la solicitud 
 de plaza, lo que supondrá la renuncia a todas las peticiones de la solicitud. En el caso de 
 los Ciclos Formativos de Grado Básico, la renuncia supone que el alumnado continúa en 
@@ -426,9 +399,6 @@ Cualificaciones Profesionales.
 2. La oferta quedará supeditada a la existencia del número mínimo del alumnado 
 preinscrito y posteriormente matriculado en el periodo de admisión.
 
-https://sede.gobiernodecanarias.org/boc
-boc-a-2025-047-935
-Boletín Oficial de Canarias núm. 47 Viernes 7 de marzo de 202510542
 II. INSTRUCCIONES ESPECÍFICAS PARA LAS ENSEÑANZAS DE FORMACIÓN 
 PROFESIONAL EN CICLOS FORMATIVOS DE GRADO D (NIVEL 1, 2 Y 3).
 II.a) INSTRUCCIONES ESPECÍFICAS PARA LOS CICLOS FORMATIVOS DE 
@@ -467,9 +437,6 @@ a) Del total de las plazas escolares ofertadas se reservará un 5% para el alumn
 discapacidad igual o superior al 33% y otro 5% para los deportistas que en el momento de 
 presentar la solicitud tengan la condición de deportistas de alto nivel o alto rendimiento.
 
-https://sede.gobiernodecanarias.org/boc
-boc-a-2025-047-935
-Boletín Oficial de Canarias núm. 47 Viernes 7 de marzo de 202510543
 b) Todo el alumnado se ordenará en función de la edad y el nivel de escolarización en 
 el curso anterior al que solicita plaza, adjudicándose las plazas escolares por cada grupo de 
 orden de preferencia, tal y como se refleja en la siguiente tabla:
@@ -514,9 +481,6 @@ publicará una lista de vacantes en la web de la Consejería competente en mater
 en la web del centro educativo si la hubiera y en los tablones de anuncios de cada centro 
 educativo.
 
-https://sede.gobiernodecanarias.org/boc
-boc-a-2025-047-935
-Boletín Oficial de Canarias núm. 47 Viernes 7 de marzo de 202510544
 A partir de este momento, los centros educativos podrán seguir completando los grupos 
 con solicitantes que figuren en la lista de reserva, de acuerdo con el orden adjudicado. Una 
 vez agotadas las listas de reserva, los centros tendrán la autonomía para matricular, por orden 
@@ -560,9 +524,6 @@ Decimoctava.- Acceso a los Ciclos Formativos de Grado Medio (nivel 2).
 de al menos una de las siguientes condiciones:
 a) Estar en posesión del título de Graduado en Educación Secundaria Obligatoria.
 
-https://sede.gobiernodecanarias.org/boc
-boc-a-2025-047-935
-Boletín Oficial de Canarias núm. 47 Viernes 7 de marzo de 202510545
 b) Estar en posesión del título de Técnico Básico o Técnico.
 c) Haber superado una oferta formativa de Grado C, incluida en su totalidad en el ciclo 
 formativo.
@@ -615,9 +576,6 @@ Según orden de prioridad:
 **Anexo IV: vía preferente de formación profesional  por acceder con los títulos profesionales básicos (nivel 1) a formación 
 profesional de Grado Medio (nivel 2). 
 
-https://sede.gobiernodecanarias.org/boc
-boc-a-2025-047-935
-Boletín Oficial de Canarias núm. 47 Viernes 7 de marzo de 202510546
 2. Las plazas escolares no cubiertas acrecentarán las contempladas en los subapartados 
 anteriores no cubiertas, siguiendo el orden en que estos aparecen citados, así como el 
 porcentaje de adjudicación.
@@ -679,9 +637,6 @@ a) Poseer el título de Técnico de Grado Medio de Formación Profesional o el t
 Técnico o Técnica de Artes Plásticas y Diseño.
 b) Estar en posesión del título de Bachiller.
 
-https://sede.gobiernodecanarias.org/boc
-boc-a-2025-047-935
-Boletín Oficial de Canarias núm. 47 Viernes 7 de marzo de 202510547
 c) Haber superado una oferta formativa de Grado C incluida en el ciclo formativo.
 d) Haber superado un curso de formación específico preparatorio (máximo 600 horas) 
 y gratuito, para el acceso a ciclos de Grado Superior (Grado D, nivel 3) en centros 
@@ -722,9 +677,6 @@ de la admisión, pudiendo obtener plaza en el cuarto cupo establecido.
 5. Del total de las plazas escolares ofertadas se reservará un 5% para el alumnado con 
 discapacidad igual o superior al 33% y otro 5% para los deportistas que en el momento de 
 
-https://sede.gobiernodecanarias.org/boc
-boc-a-2025-047-935
-Boletín Oficial de Canarias núm. 47 Viernes 7 de marzo de 202510548
 presentar la solicitud tengan la condición de deportistas de alto nivel o alto rendimiento. 
 Para el resto de las plazas se reservarán los siguientes porcentajes:
 TITULACIÓN RESERV A
@@ -835,9 +787,6 @@ superior solicitado (anexo VI).
 expediente,  se otorgará una puntuación de 5. 
 (3)  Si la valoración de las pruebas de acceso viniera expresada con la calificación de apto, se otorgará una puntuación de 5.
 
-https://sede.gobiernodecanarias.org/boc
-boc-a-2025-047-935
-Boletín Oficial de Canarias núm. 47 Viernes 7 de marzo de 202510549
 Vigésima segunda.- Procedimiento para solicitud de plaza escolar en Ciclos 
 Formativos de Formación Profesional semipresencial y virtual.
 1. El alumnado que acceda a los Ciclos Formativos de Formación Profesional semipresencial 
@@ -876,9 +825,6 @@ a) Certificación de la Tesorería General de la Seguridad Social o de la mutual
 laboral a la que estuviera afiliado, donde conste la empresa, la categoría laboral, el grupo 
 de cotización y el periodo de contratación o, en su caso, el periodo de cotización en el 
 
-https://sede.gobiernodecanarias.org/boc
-boc-a-2025-047-935
-Boletín Oficial de Canarias núm. 47 Viernes 7 de marzo de 202510550
 Régimen Especial de Trabajadores Autónomos o, en su defecto, cualquier otro medio de 
 prueba admitida en derecho.
 b) Certificación de la empresa donde haya adquirido la experiencia laboral, en la que 
@@ -922,9 +868,6 @@ en la lista de reserva correspondiente, deberá confirmar su participación a tr
 aplicación informática de admisión (estado de solicitud). El alumnado que haya confirmado 
 será notificado para realizar la matrícula a través del correo electrónico que figura en su 
 
-https://sede.gobiernodecanarias.org/boc
-boc-a-2025-047-935
-Boletín Oficial de Canarias núm. 47 Viernes 7 de marzo de 202510551
 solicitud. El alumnado que haya confirmado y que no haya recibido la notificación oficial 
 para la matrícula, podrá ser llamado, en caso de vacante, en los siguientes llamamientos.
 El alumnado que no haya confirmado su participación, podrá ser convocado en los siguientes 
@@ -970,9 +913,6 @@ General de Conductores.
 3. Para el CFGS de Radiología y Dosimetría de la familia profesional de Sanidad, se 
 deben tener en cuenta para la realización de la formación dual en empresas u organismos 
 
-https://sede.gobiernodecanarias.org/boc
-boc-a-2025-047-935
-Boletín Oficial de Canarias núm. 47 Viernes 7 de marzo de 202510552
 equiparados, el valor de las radiaciones ionizantes en la salud de la persona que curse este 
 ciclo formativo.
 4. Para el CFGM de Técnico en Seguridad, será necesario, según el artículo 28 de la 
@@ -1012,9 +952,6 @@ Elementales, se estará a lo dispuesto en el artículo 12 de la Orden de 16 de m
 por la que se establece la ordenación y el currículo de las Enseñanzas Elementales de 
 Música en el ámbito de la Comunidad Autónoma de Canarias.
 
-https://sede.gobiernodecanarias.org/boc
-boc-a-2025-047-935
-Boletín Oficial de Canarias núm. 47 Viernes 7 de marzo de 202510553
 A la puntuación final obtenida por el aspirante en la prueba de acceso se le aplicará 
 un índice corrector de edad. Dicho índice es el establecido en la Circular de la Dirección 
 General de Formación Profesional y Educación de Adultos de 22 de septiembre de 2004.
@@ -1060,9 +997,6 @@ adjudicarán las mismas de acuerdo con las puntuaciones definitivas obtenidas. L
 y posterior matriculación del alumnado estará supeditada a las calificaciones obtenidas en 
 la prueba de acceso.
 
-https://sede.gobiernodecanarias.org/boc
-boc-a-2025-047-935
-Boletín Oficial de Canarias núm. 47 Viernes 7 de marzo de 202510554
 5. En las Enseñanzas Elementales y Profesionales de Música, los aspirantes podrán 
 presentarse, como máximo, a dos especialidades distintas. El alumnado de las enseñanzas 
 elementales podrá simultanear el estudio de una segunda especialidad, siempre y cuando 
@@ -1103,9 +1037,6 @@ Podrán acceder directamente quienes se encuentren en posesión de alguna de las
 siguientes titulaciones:
 - Título de Bachiller, modalidad de Artes, o de Bachillerato Artístico Experimental.
 
-https://sede.gobiernodecanarias.org/boc
-boc-a-2025-047-935
-Boletín Oficial de Canarias núm. 47 Viernes 7 de marzo de 202510555
 - Título de Técnico o Técnico Superior de Artes Plásticas y Diseño, o título declarado 
 equivalente.
 - Quienes hayan superado los cursos comunes de Artes Aplicadas y Oficios Artísticos 
@@ -1145,9 +1076,6 @@ presentar la solicitud tengan la condición de deportistas de alto nivel, deport
 de alto nivel de Canarias o alto rendimiento. Para el resto de las plazas se reservarán los 
 siguientes porcentajes dependiendo de la vía de acceso y de la titulación que se posea:
 
-https://sede.gobiernodecanarias.org/boc
-boc-a-2025-047-935
-Boletín Oficial de Canarias núm. 47 Viernes 7 de marzo de 202510556
 Vía de acceso Titulación Reserva
 Acceso directo
 Título de Técnico de Artes Plásticas y Diseño 5%
@@ -1212,9 +1140,6 @@ Para el acceso a los Ciclos Formativos de Grado Superior se establecen las sigui
 vías dependiendo de los requisitos académicos de la persona solicitante: acceso directo, 
 acceso mediante prueba específica y acceso mediante prueba de acceso.
 
-https://sede.gobiernodecanarias.org/boc
-boc-a-2025-047-935
-Boletín Oficial de Canarias núm. 47 Viernes 7 de marzo de 202510557
 1. Acceso directo.
 Podrán acceder directamente quienes se encuentren en posesión de alguna de las 
 siguientes titulaciones:
@@ -1251,9 +1176,6 @@ presentar la solicitud tengan la condición de deportistas de alto nivel, deport
 de alto nivel de Canarias o alto rendimiento. Para el resto de las plazas se reservarán los 
 siguientes porcentajes dependiendo de la vía de acceso y de la titulación que se posea:
 
-https://sede.gobiernodecanarias.org/boc
-boc-a-2025-047-935
-Boletín Oficial de Canarias núm. 47 Viernes 7 de marzo de 202510558
 Vía de acceso Titulación Reserva
 Acceso directo Título de Bachiller en la modalidad de Artes o de Bachillerato Artístico Experimental 40%
 Título de Técnico de Artes Plásticas y Diseño 15%
@@ -1307,9 +1229,6 @@ correspondiente para su inscripción a través del modelo 700.
 4. Una vez finalizado el periodo ordinario de admisión y matrícula, y como consecuencia 
 de plazas vacantes, se establecerá un plazo extraordinario de solicitud de plaza.
 
-https://sede.gobiernodecanarias.org/boc
-boc-a-2025-047-935
-Boletín Oficial de Canarias núm. 47 Viernes 7 de marzo de 202510559
 Trigésima sexta.- Características y realización de la prueba específica en los Ciclos 
 Formativos de Artes Plásticas y Diseño.
 1. La prueba específica se realizará en la escuela de arte o escuela de arte y superior de 
@@ -1349,9 +1268,6 @@ Formativos de Artes Plásticas y Diseño.
 1. La Inspección General de Educación propondrá a las Direcciones Territoriales 
 de Educación, según el calendario establecido, el nombramiento de las Comisiones 
 
-https://sede.gobiernodecanarias.org/boc
-boc-a-2025-047-935
-Boletín Oficial de Canarias núm. 47 Viernes 7 de marzo de 202510560
 Evaluadoras encargadas de calificar la prueba específica, en la convocatoria ordinaria y 
 extraordinaria, en cada una de las sedes.
 2. A la vista de la citada propuesta, las Direcciones Territoriales de Educación nombrarán 
@@ -1392,9 +1308,6 @@ formalizarán su matrícula en el plazo ordinario de admisión.
 primera opción quedarán en reserva en las peticiones anteriores a la plaza adjudicada. Si 
 resulta adjudicado en su primera opción no aparecerá en reserva en ninguna otra.
 
-https://sede.gobiernodecanarias.org/boc
-boc-a-2025-047-935
-Boletín Oficial de Canarias núm. 47 Viernes 7 de marzo de 202510561
 V . INSTRUCCIONES ESPECÍFICAS PARA LAS ENSEÑANZAS DE IDIOMAS.
 Cuadragésima.- Oferta de plazas escolares.
 1. Enseñanzas regladas. La oferta de plazas escolares se atendrá a aquellos estudios 
@@ -1432,9 +1345,6 @@ d) Personas mayores de 14 años que deseen estudiar un idioma distinto del que c
 como primera lengua extranjera en la educación secundaria obligatoria.
 3. En el caso de que se produzca algún empate se resolverá por la letra de desempate.
 
-https://sede.gobiernodecanarias.org/boc
-boc-a-2025-047-935
-Boletín Oficial de Canarias núm. 47 Viernes 7 de marzo de 202510562
 4. La solicitud podrá incluir hasta un máximo de tres peticiones distintas. Si se incluyera 
 en la solicitud más de una petición y no se obtuviera plaza escolar en la primera de ellas, se 
 aplicará el mismo orden de prioridad para las siguientes peticiones solicitadas.
@@ -1474,9 +1384,6 @@ básico A2 mediante la realización de una prueba de clasificación de nivel. En
 la solicitud de admisión se deberá indicar que se desea realizar dicha prueba y seguir con el 
 procedimiento descrito en la instrucción cuadragésima cuarta de esta Resolución.
 
-https://sede.gobiernodecanarias.org/boc
-boc-a-2025-047-935
-Boletín Oficial de Canarias núm. 47 Viernes 7 de marzo de 202510563
 5. Las peticiones para un mismo idioma solo podrán hacerse por una única vía de 
 acceso de las tres descritas y, asimismo, las peticiones del mismo idioma por la vía de 
 acceso 2 deberán ser para el mismo curso. En caso contrario, cualquiera de estas solicitudes 
@@ -1517,9 +1424,6 @@ de matrícula.
 definitivas de solicitantes, que incluirán la adjudicación de plazas escolares según vacantes 
 definitivas y solicitantes en reserva ordenados según mejor derecho. Si la persona solicitante 
 
-https://sede.gobiernodecanarias.org/boc
-boc-a-2025-047-935
-Boletín Oficial de Canarias núm. 47 Viernes 7 de marzo de 202510564
 ha resultado admitida en cualquiera de sus peticiones de un idioma, las restantes peticiones 
 de ese idioma se desestimarán.
 2. A quienes se haya adjudicado plaza escolar deberán formalizar su matrícula 
@@ -1560,9 +1464,6 @@ idioma. También se considera alumnado de continuidad a aquellas personas con ma
 de actualización en un idioma que deseen continuar en el siguiente curso de ese idioma en 
 el mismo centro, siempre y cuando se trate de un curso todavía no superado.
 
-https://sede.gobiernodecanarias.org/boc
-boc-a-2025-047-935
-Boletín Oficial de Canarias núm. 47 Viernes 7 de marzo de 202510565
 2. El alumnado de continuidad no participará en el proceso de admisión y deberá 
 proceder a matricularse en los plazos establecidos para ello y siguiendo las indicaciones 
 señaladas en la instrucción cuadragésima octava de estas instrucciones.
@@ -1602,9 +1503,6 @@ a través del modelo 700.
 3. La solicitud de plaza escolar y la inscripción en la prueba específica se cumplimentarán 
 en la solicitud de admisión.
 
-https://sede.gobiernodecanarias.org/boc
-boc-a-2025-047-935
-Boletín Oficial de Canarias núm. 47 Viernes 7 de marzo de 202510566
 4. El procedimiento de admisión en las Enseñanzas Deportivas se ajustará al calendario 
 general de admisión y matrícula establecido.
 5. Una vez finalizado el periodo ordinario de admisión y matrícula, y como consecuencia 
@@ -1645,9 +1543,6 @@ donde se desarrollan, siempre que haya un mínimo de 15 aspirantes, y en las fec
 en el calendario establecido. Los tribunales actuarán de conformidad con lo establecido en 
 el Real Decreto 1363/2007, de 24 de octubre.
 
-https://sede.gobiernodecanarias.org/boc
-boc-a-2025-047-935
-Boletín Oficial de Canarias núm. 47 Viernes 7 de marzo de 202510567
 6. Las personas con discapacidad que precisen algún tipo de adaptación para la realización 
 de la prueba específica deberán solicitar esta petición de adaptación, consignándolo en la 
 propia solicitud de plaza escolar en Enseñanzas Deportivas de Régimen Especial.
@@ -1687,9 +1582,6 @@ en las fechas establecidas. Contra la resolución del Tribunal Evaluador cabrá 
 en el plazo de un mes, recurso de alzada ante la Dirección Territorial de Educación que 
 corresponda, lo que agotará la vía administrativa.
 
-https://sede.gobiernodecanarias.org/boc
-boc-a-2025-047-935
-Boletín Oficial de Canarias núm. 47 Viernes 7 de marzo de 202510568
 Quincuagésima tercera.- Adjudicación de plazas escolares.
 En los centros cuando el número de aspirantes supere al número de plazas escolares 
 ofertadas, se aplicarán los siguientes criterios:
@@ -1728,9 +1620,6 @@ La prueba específica tendrá validez en todo el territorio nacional y su duraci
 determinará en el correspondiente real decreto que establezca el título y las enseñanzas 
 mínimas.
 
-https://sede.gobiernodecanarias.org/boc
-boc-a-2025-047-935
-Boletín Oficial de Canarias núm. 47 Viernes 7 de marzo de 202510569
 Quincuagésima sexta.- Matrícula y abono de tasas.
 1. La matrícula en las Enseñanzas Deportivas estará determinada por el tipo de oferta 
 de dichas enseñanzas. En todo caso, la matrícula se realizará en cada uno de los ciclos de 
@@ -1767,9 +1656,6 @@ o estudios extranjeros homologados o convalidadoso, con el expediente de convali
 en trámite, podrá matricularse siempre que cumpla con los requisitos específicos de acceso 
 de cada estudio.
 
-https://sede.gobiernodecanarias.org/boc
-boc-a-2025-047-935
-Boletín Oficial de Canarias núm. 47 Viernes 7 de marzo de 202510570
 2. Requisitos de acceso de formación.
 1. Los criterios y las normas que tendrán en cuenta los centros para formalizar estas 
 matrículas son los siguientes:
@@ -1813,9 +1699,6 @@ a ese alumnado de la necesidad de tener la credencial de homologación o convali
 de la evaluación final ordinaria, sin la cual no se le podrá calificar ni se le tendrá en cuenta 
 a efectos de promoción o titulación. Para ello, los centros educativos deben confirmar con 
 
-https://sede.gobiernodecanarias.org/boc
-boc-a-2025-047-935
-Boletín Oficial de Canarias núm. 47 Viernes 7 de marzo de 202510571
 el alumnado que se encuentre en esta situación, o con su familia o representantes legales, 
 la efectiva convalidación u homologación de estudios y títulos extranjeros, al menos, antes 
 de la finalización del segundo trimestre del curso escolar.
@@ -1855,9 +1738,6 @@ por primera vez o por cambio de centro serán publicados y, en su caso, requerid
 centro docente. Dichos documentos, en función de la enseñanza a la que se acceda, podrán 
 ser, entre otros:
 
-https://sede.gobiernodecanarias.org/boc
-boc-a-2025-047-935
-Boletín Oficial de Canarias núm. 47 Viernes 7 de marzo de 202510572
 - Libro de Familia, Partida de Nacimiento, copia del registro digital o, en su caso, DNI/
 NIE o pasaporte.
 - Resolución judicial o administrativa sobre tutela o guarda y custodia del alumno o 
@@ -1898,9 +1778,6 @@ residencias escolares y otras dependencias de dicha Consejería.
 en caso de no aportar el certificado médico donde se indique el tipo de alergias y/o 
 intolerancias que presente.
 
-https://sede.gobiernodecanarias.org/boc
-boc-a-2025-047-935
-Boletín Oficial de Canarias núm. 47 Viernes 7 de marzo de 202510573
 Sexagésima cuarta.- Otros trámites de los centros docentes.
 1. Una vez concluido el plazo de matrícula, los centros docentes validarán los documentos 
 recibidos y los registrarán en la aplicación informática correspondiente.
@@ -1941,9 +1818,6 @@ de su escolarización, así como a aquellas otras circunstancias cuyo conocimien
 necesario para la educación y orientación de los alumnos y alumnas, no pudiendo tratarse 
 con fines diferentes del educativo sin consentimiento expreso.
 
-https://sede.gobiernodecanarias.org/boc
-boc-a-2025-047-935
-Boletín Oficial de Canarias núm. 47 Viernes 7 de marzo de 202510574
 Sexagésima séptima.- Obligación de colaborar.
 El alumnado matriculado en las diferentes enseñanzas de Formación Profesional 
 y en aquellas de Régimen Especial o, en su caso, los padres, madres, tutores o tutoras, 
@@ -1973,9 +1847,6 @@ ANEXO VIII. DECLARACIÓN JURADA O DE RESPONSABILIDAD DE NO SIMULTANEAR
 ESTUDIOS COMPLETOS.
 ANEXO IX. DECLARACIÓN RESPONSABLE DE ALÉRGENOS.
 
-boc-a-2025-047-935
-Boletín Oficial de Canarias núm. 47 Viernes 7 de marzo de 202510575
-https://sede.gobiernodecanarias.org/boc
 ANEXO I
 CONSEJO ORIENTADOR PARA EL ALUMNADO PROPUESTO PARA CURSAR UN 
 CICLO FORMATIVO DE GRADO BÁSICO
@@ -2028,9 +1899,6 @@ ANEXO I
 CONSEJO ORIENTADOR PARA EL ALUMNADO PROPUESTO PARA CURSAR  
 UN CICLO FORMATIVO DE GRADO BÁSICO
 
-boc-a-2025-047-935
-Boletín Oficial de Canarias núm. 47 Viernes 7 de marzo de 202510576
-https://sede.gobiernodecanarias.org/boc
 3. Ha alcanzado un nivel suficiente, en grado medio, de adquisición de la competencia.
 4. Ha alcanzado en grado alto, de forma destacada, la adquisición de la competencia.
 Del análisis anterior se ha concluido que el grado de adquisición de las competencias clave del alumno o  alumna, así como el  
@@ -2043,9 +1911,6 @@ En ………………………………, a ………. de …………………�
 El tutor/La tutora El orientador/La orientadora
 Firmado:  Firmado:  
 
-boc-a-2025-047-935
-Boletín Oficial de Canarias núm. 47 Viernes 7 de marzo de 202510577
-https://sede.gobiernodecanarias.org/boc
  ANEXO II
 PETICIÓN DEL ALUMNADO PARA REALIZAR UN CICLO FORMATIVO DE GRADO BÁSICO
 Nombre  y  apellidos  del  alumno  o  alumna:  ………………………………………………………………………………………….
@@ -2066,9 +1931,6 @@ ANEXO II
 PETICIÓN DEL ALUMNADO PARA REALIZAR UN CICLO FORMATIVO  
 DE GRADO BÁSICO
 
-boc-a-2025-047-935
-Boletín Oficial de Canarias núm. 47 Viernes 7 de marzo de 202510578
-https://sede.gobiernodecanarias.org/boc
   ANEXO III
 CONSENTIMIENTO PARA REALIZAR UN CICLO FORMATIVO DE GRADO BÁSICO
 Don/Doña…………………………………………………………………………………con
@@ -2092,9 +1954,6 @@ ANEXO III
 CONSENTIMIENTO PARA REALIZAR UN CICLO FORMATIVO  
 DE GRADO BÁSICO
 
-boc-a-2025-047-935
-Boletín Oficial de Canarias núm. 47 Viernes 7 de marzo de 202510579
-https://sede.gobiernodecanarias.org/boc
 ANEXO IV
 Procedimiento de admisión.
 (Vía preferente de ciclo formativo de grado básico/ formación profesional básica a ciclo formativo de 
@@ -2150,9 +2009,6 @@ Química.
 Transporte y Mantenimiento de Vehículos.
 ANEXO IV
 
-boc-a-2025-047-935
-Boletín Oficial de Canarias núm. 47 Viernes 7 de marzo de 202510580
-https://sede.gobiernodecanarias.org/boc
 ANEXO V
 CRITERIOS DE ADMISIÓN EN CICLOS FORMATIVOS DE GRADO 
 SUPERIOR. MODALIDAD Y MATERIAS DE BACHILLERATO DE 
@@ -2191,9 +2047,6 @@ ANEXO V
 CRITERIOS DE ADMISIÓN EN CICLOS FORMATIVOS DE GRADO SUPERIOR. 
 MODALIDAD Y MATERIAS DE BACHILLERATO DE ACCESO PREFERENTE
 
-boc-a-2025-047-935
-Boletín Oficial de Canarias núm. 47 Viernes 7 de marzo de 202510581
-https://sede.gobiernodecanarias.org/boc
 ANEXO VI
 CICLOS FORMATIVOS DE GRADO MEDIO QUE DAN PRIORIDAD PARA 
 ACCEDER A CICLOS FORMATIVOS DE GRADO SUPERIOR
@@ -2269,9 +2122,6 @@ ANEXO VI
 CICLOS FORMATIVOS DE GRADO MEDIO QUE DAN PRIORIDAD PARA ACCEDER 
 A CICLOS FORMATIVOS DE GRADO SUPERIOR
 
-boc-a-2025-047-935
-Boletín Oficial de Canarias núm. 47 Viernes 7 de marzo de 202510582
-https://sede.gobiernodecanarias.org/boc
 Familia 
 profesional
 Ciclos formativos de grado 
@@ -2350,9 +2200,6 @@ informáticos en red.
 multiplataforma.
 • Desarrollo de aplicaciones web.
 
-boc-a-2025-047-935
-Boletín Oficial de Canarias núm. 47 Viernes 7 de marzo de 202510583
-https://sede.gobiernodecanarias.org/boc
 Familia 
 profesional
 Ciclos formativos de grado 
@@ -2442,9 +2289,6 @@ y sostenible.
 • Mediación comunicativa.
 • Promoción de igualdad de género.
 
-boc-a-2025-047-935
-Boletín Oficial de Canarias núm. 47 Viernes 7 de marzo de 202510584
-https://sede.gobiernodecanarias.org/boc
 Familia 
 profesional
 Ciclos formativos de grado 
@@ -2496,9 +2340,6 @@ Vidrio y cerámica Fabricación de productos cerámicos.
 • Desarrollo y fabricación de productos
 cerámicos.
 
-boc-a-2025-047-935
-Boletín Oficial de Canarias núm. 47 Viernes 7 de marzo de 202510585
-https://sede.gobiernodecanarias.org/boc
 ANEXO VII
 PUBLICACIÓN DE V ACANTES DE FORMACIÓN PROFESIONAL Y 
 RESERV AS CONVOCADAS DE ADMISIÓN. GRADOS D
@@ -2537,9 +2378,6 @@ ANEXO VII
 PUBLICACIÓN DE V ACANTES DE FORMACIÓN PROFESIONAL Y RESERV AS 
 CONVOCADAS DE ADMISIÓN. GRADOS D
 
-boc-a-2025-047-935
-Boletín Oficial de Canarias núm. 47 Viernes 7 de marzo de 202510586
-https://sede.gobiernodecanarias.org/boc
 ANEXO VIII
 DECLARACIÓN JURADA O DE RESPONSABILIDAD DE NO SIMULTANEAR ESTUDIOS 
 COMPLETOS
@@ -2558,9 +2396,6 @@ ANEXO VIII
 DECLARACIÓN JURADA O DE RESPONSABILIDAD DE NO SIMULTANEAR 
 ESTUDIOS COMPLETOS
 
-boc-a-2025-047-935
-Boletín Oficial de Canarias núm. 47 Viernes 7 de marzo de 202510587
-https://sede.gobiernodecanarias.org/boc
 ANEXO IX
 DECLARACIÓN RESPONSABLE DE ALÉRGENOS
 D./Dña. …………………………………………………..…………., con NIF/NIE n.º  ………………….., y domicilio a  

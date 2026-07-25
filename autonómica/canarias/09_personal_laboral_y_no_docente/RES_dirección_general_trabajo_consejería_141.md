@@ -37,7 +37,6 @@ Boletín Oficial de Canarias
 Accesibilidad
 Mapa web
 Contacto
-Versión texto
 Inicio
 Archivo
 Búsqueda
@@ -46,11 +45,8 @@ Inicio
 Archivo
 Año 2002
 2002/147. Lunes 4 de Noviembre de 2002
-3551
-<p>Menú de búsqueda y navegación</p>
 Anterior
 Siguiente
-BOC Nº 147. Lunes 4 de Noviembre de 2002 - 3551
 IV. ANUNCIOS - Otros anuncios - Consejería de Empleo y Asuntos Sociales
 3551 - Dirección General de Trabajo.- Anuncio por el que se hace pública la Resolución de 1 de octubre de 2002, relativa al Acuerdo de la Comisión Negociadora del Convenio Colectivo del Personal Laboral de la Comunidad Autónoma de Canarias para la introducción en el Convenio de una Disposición Adicional Novena.
 Descargar en formato pdf
@@ -72,6 +68,3 @@ Hasta la cobertura definitiva por los procedimientos establecidos en el Convenio
 El proceso de llamamiento del personal temporal será el mismo que para el trabajador fijo discontinuo, y en las mismas condiciones laborales. La peculiaridad es que estos trabajadores temporales saldrán de las listas de sustituciones, ordenada por categorías, antigüedad y puntuación de las distintas convocatorias de selección.
 Cualquier modificación legal que pudiera afectar a los trabajadores fijos-discontinuos obligará a la revisión de esta Disposición Adicional por la Comisión Negociadora del Convenio Colectivo."
 En Las Palmas de Gran Canaria, a 31 de julio de 2002.- La Administración: Viceconsejero de Administración Pública, Directora General de la Función Pública. Comité Intercentros.
-© Gobierno de Canarias
-Aviso Legal
-Sugerencias y Reclamaciones

@@ -31,9 +31,7 @@ fundamentos_derecho:
 
 # Ley 1/2024, de 7 de junio, por la que se regulan las enseñanzas artísticas superiores y se establece la organización y equivalencias de las enseñanzas artísticas profesionales.
 
-
 **FELIPE VI**
-
 
 **REY DE ESPAÑA**
 
@@ -41,13 +39,11 @@ A todos los que la presente vieren y entendieren.
 
 Sabed: Que las Cortes Generales han aprobado y Yo vengo en sancionar la siguiente ley:
 
-
 ## PREÁMBULO
 
 Los actuales sistemas de educación y formación están inmersos en un contexto en constante cambio y tienen, en consecuencia, el deber ineludible de evolucionar adaptándose a él, para atender a los nuevos requerimientos y necesidades que se derivan de esta evolución, adelantándose a las necesidades emergentes y dando respuesta a las demandas sociales. Adentrados ya en el siglo XXI, esta exigencia se enfrenta a retos sin precedentes, en el momento en el que está teniendo lugar el pleno desarrollo de la cuarta revolución industrial, cuando los avances científicos y tecnológicos se producen a un ritmo vertiginoso, los procesos de globalización económica y cultural dan lugar a nuevas formas de particularismo y universalismo, y la digitalización de la sociedad y del propio sistema educativo cobra una relevancia hasta ahora inédita. Frente a todo esto, la capacidad creadora, la sensibilidad estética y la conciencia cultural no solo nos construyen y enriquecen como sociedades y como personas sino que se convierten en herramientas básicas para hacer frente a los retos e incertidumbres que suscitan estos cambios. Al mismo tiempo, al igual que ocurre en la investigación en otros ámbitos, los procesos de creación artística operan a menudo mediante el manejo de estructuras disciplinadas y planificadas en donde la experimentación constante constituye un elemento clave para la consecución de una obra final, la cual, además de ser original e inédita, contribuye muchas veces a ampliar las fronteras del conocimiento de las diferentes disciplinas artísticas, impulsando así a la innovación y a la transferencia e intercambio de conocimiento. En este sentido, la existencia de una formación artística de calidad se presenta más que nunca como un pilar fundamental para el progreso de una sociedad creativa, innovadora y flexible, preparada para enfrentar con decisión los retos y desafíos del futuro.
 
 Por otra parte, son muchos los estudios que permiten constatar el importante papel que la cultura y las industrias creativas y culturales desempeñan en el impulso del desarrollo sostenible de las sociedades modernas, no solo por los efectos positivos que ejerce en la vida cotidiana el reconocimiento de la importancia de las artes y la cultura, sino por los beneficios económicos que generan dichas industrias, que se han convertido en un sector estratégico fundamental para el desarrollo productivo, la competitividad y el empleo. La propia Comisión Europea, en un informe de 2018 titulado «El papel de las políticas públicas en el desarrollo del potencial empresarial y de innovación de los sectores culturales y creativos», ha subrayado que los sectores culturales y creativos ejercen una influencia decisiva en la transición de nuestras sociedades y están en el centro de la nueva economía creativa. Ese mismo informe también explica que los sectores culturales y creativos son intensivos en conocimiento y se basan en la creatividad individual y el talento, generan riqueza económica y forman la identidad, cultura y valores europeos.
-
 
 **I**
 
@@ -71,7 +67,6 @@ El análisis de la trayectoria normativa descrita permite apreciar que, desde ha
 
 Con objeto de atender a estas demandas y continuar avanzando en la mejora de las enseñanzas, la Ley Orgánica 3/2020, de 29 de diciembre, por la que se modifica la Ley Orgánica 2/2006, de 3 de mayo, llevó a cabo, por una parte, la modificación de diferentes artículos de la Ley Orgánica 2/2006, de 3 de mayo, relativos a la denominación de los títulos, así como a los requisitos de acceso y el procedimiento de actualización del currículo de las enseñanzas profesionales. Y, al mismo tiempo, en la disposición adicional novena, comprometía al Gobierno a llevar a cabo la regulación de las condiciones básicas para la organización de las Enseñanzas Artísticas Superiores en un plazo de dos años, previa consulta a las comunidades autónomas, al Consejo Superior de Enseñanzas Artísticas y oído el Consejo de Universidades. Además de ello, el Gobierno debía incluir en dicha propuesta la organización y equivalencias de las Enseñanzas Artísticas Profesionales y su relación con el Catálogo Nacional de Estándares de las Competencias Profesionales, en su nueva denominación, sin duda aspectos de la máxima relevancia que hay que abordar con inmediatez.
 
-
 **II**
 
 La presente ley es, pues, en primer lugar, fruto de este mandato directo; no obstante, este no constituye su única motivación, puesto que el imperativo legal, a su vez, obedece a la constatación de la existencia de la demanda generalizada de una regulación específica de las enseñanzas artísticas superiores; demanda que se ha materializado repetidamente a través de las reivindicaciones expresadas por docentes, estudiantes y profesionales de las artes, y en forma de diferentes iniciativas legislativas presentadas en los últimos años en las Cortes Generales por distintos grupos parlamentarios.
@@ -82,13 +77,11 @@ En el ámbito de las enseñanzas profesionales, se hace necesaria también la re
 
 Por último, en el ámbito de la función pública, es ineludible abordar una reordenación de los cuerpos existentes dentro de estas enseñanzas que permita prever unos requisitos de formación específicos para el profesorado responsable de impartir las enseñanzas superiores, con objeto de atender las exigencias propias de este nivel educativo.
 
-
 **III**
 
 La regulación que pretende abordar esta ley tiene como referentes los desafíos descritos, a los que aspira a dar respuesta partiendo de la experiencia adquirida a partir de las anteriores regulaciones, buscando resolver, en la medida de lo posible, las principales carencias detectadas y sentando al mismo tiempo las bases para una reflexión más detenida sobre los distintos aspectos que se prevé que sean objeto de un desarrollo reglamentario posterior.
 
 Al mismo tiempo, los preceptos que contiene son el resultado de un intenso y sostenido proceso de diálogo. En primer lugar, el texto ha sido sometido al trámite de consulta pública previa desde el día 27 de mayo hasta el 10 de junio de 2022. Teniendo en cuenta las aportaciones recibidas, el entonces Ministerio de Educación y Formación Profesional elaboró un documento base de claves para el diálogo, que se ha publicado en su portal web, y que se ha hecho llegar a las comunidades autónomas, al Consejo Superior de Enseñanzas Artísticas, así como a las principales organizaciones y asociaciones en las que se encuentran representados los colectivos cuyos derechos o intereses legítimos se ven afectados de algún modo por la norma y cuyos fines guardan relación directa con su objeto. Una vez valoradas las aportaciones realizadas sobre este documento base, y redactado el texto articulado, se ha sustanciado el trámite de audiencia e información públicas desde el día 24 de febrero al 6 de marzo de 2023, ambos incluidos, con el objeto de dar audiencia a las personas afectadas y obtener cuantas aportaciones adicionales puedan hacerse por otras entidades o particulares. Asimismo, el texto ha sido presentado a los representantes de las organizaciones sindicales en la Mesa de Negociación del Personal docente celebrada el 28 de febrero de 2023, y a las comunidades autónomas en la Comisión General de Educación del 6 de marzo de 2023, y posteriormente en la Conferencia de Educación el día 9 de marzo de 2023. Por último, se ha remitido a informe del Consejo Superior de Enseñanzas Artísticas y se ha presentado ante el Consejo Escolar del Estado los días 13 y 14 de marzo de 2023 respectivamente.
-
 
 **IV**
 
@@ -120,7 +113,6 @@ Finalmente, el título III, dedicado a la función pública docente, introduce i
 
 Las disposiciones adicionales se refieren, entre otros aspectos, al Consejo Superior de Enseñanzas Artísticas, al nuevo Registro Estatal de Enseñanzas Artísticas Superiores que se crea en la ley, a la autorización de centros extranjeros, al fomento de la igualdad efectiva entre hombres y mujeres, a las medidas para facilitar la simultaneidad de estudios, a la propuesta de nuevas enseñanzas artísticas profesionales y al establecimiento de un estatuto básico del estudiante de enseñanzas artísticas superiores. En las disposiciones transitorias se prevé la aplicación de la normativa anterior en tanto no se proceda al desarrollo reglamentario de lo previsto en la nueva ley, se sientan las bases por las que se regirá el procedimiento de integración en los nuevos cuerpos del funcionariado perteneciente a los cuerpos declarados a extinguir, y se autoriza a los centros a mantener denominaciones distintas de las establecidas con carácter general siempre que acrediten haber estado haciendo uso de las mismas por un período superior a veinte años. Por último, se incluye una disposición derogatoria única, y once disposiciones finales, de las cuales las cuatro primeras contemplan la modificación de otras normas de rango legal. La primera se refiere a la Ley 53/1984, de 26 de diciembre, de Incompatibilidades del personal al servicio de las Administraciones Públicas, ampliando a los nuevos cuerpos de funcionarios y al personal funcionario y laboral de las administraciones locales lo que ya estaba previsto para los Cuerpos de Catedráticos y Profesores de Música y Artes Escénicas. La segunda introduce en la Ley Orgánica 2/2006, de 3 de mayo, las modificaciones derivadas de la implantación de esta ley. La tercera modifica determinados artículos de la Ley Orgánica 3/2022, de 31 de marzo, de ordenación e integración de la Formación Profesional. Las disposiciones finales quinta, sexta, séptima, novena, décima, y undécima determinan, respectivamente, el título competencial en el que se ampara la ley, su desarrollo, su calendario de implantación, su marco de financiación y su entrada en vigor.
 
-
 **V**
 
 Esta ley es coherente con los principios de buena regulación establecidos en el artículo 129 de la Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común de las Administraciones Públicas: necesidad y eficacia, proporcionalidad, seguridad jurídica, transparencia y eficiencia.
@@ -137,17 +129,13 @@ Esta ley se dicta al amparo de las competencias que atribuye al Estado el artíc
 
 En la tramitación de esta ley se han observado las prescripciones establecidas en la Ley 50/1997, de 27 de noviembre, del Gobierno, así como lo establecido en el texto refundido de la Ley del Estatuto Básico del Empleado Público, aprobado por Real Decreto Legislativo 5/2015, de 30 de octubre.
 
-
 ## TÍTULO PRELIMINAR
 
-
 **Disposiciones generales**
-
 
 #### Artículo 1. Objeto.
 
 La presente ley tiene por objeto la regulación de las enseñanzas artísticas superiores, de sus centros, de su profesorado, así como el establecimiento de los derechos y deberes del estudiantado. Asimismo, se establecen determinados aspectos relativos a la organización y equivalencias de las enseñanzas artísticas profesionales a las que se refiere la Ley Orgánica 2/2006, de 3 de mayo, de Educación.
-
 
 #### Artículo 2. Ámbito de aplicación.
 
@@ -159,9 +147,7 @@ La presente ley tiene por objeto la regulación de las enseñanzas artísticas s
 
 4. Quedan excluidas del ámbito de aplicación de esta ley las enseñanzas de carácter artístico impartidas en el marco de la enseñanza universitaria, así como las no conducentes a titulación o acreditación académica oficial.
 
-
 ## TÍTULO I
-
 
 **Las enseñanzas artísticas superiores**
 
@@ -169,11 +155,9 @@ CAPÍTULO I
 
 Definición, principios y fines de las enseñanzas artísticas superiores
 
-
 #### Artículo 3. Definición.
 
 A los efectos de esta ley, se entienden por enseñanzas artísticas superiores las enseñanzas pertenecientes a los niveles de grado y posgrado de la educación superior del sistema educativo orientadas específicamente a la formación artística en cualquiera de sus disciplinas.
-
 
 #### Artículo 4. Principios y fines de las enseñanzas artísticas superiores.
 
@@ -209,7 +193,6 @@ CAPÍTULO II
 
 Estructura y organización
 
-
 #### Artículo 5. Estructura general.
 
 1. Las enseñanzas artísticas superiores forman parte de la educación superior y se estructuran en dos ciclos: grado en enseñanzas artísticas superiores y máster en enseñanzas artísticas. Los estudios de doctorado específicos de las disciplinas de las enseñanzas artísticas superiores se cursarán conforme a lo previsto en el artículo 13.
@@ -219,7 +202,6 @@ Estructura y organización
 3. Los estudios de máster en enseñanzas artísticas tienen como objetivo la formación avanzada, de carácter especializado temáticamente, o de carácter multidisciplinar o interdisciplinar, dirigida a la especialización académica o profesional, o bien encaminada a la iniciación en tareas de investigación en las disciplinas artísticas o en alguna de sus especialidades.
 
 4. Las prácticas académicas externas en los estudios de grado en enseñanzas artísticas superiores y de máster en enseñanzas artísticas constituyen una actividad de naturaleza plenamente formativa cuya finalidad es la de complementar la formación académica.
-
 
 #### Artículo 6. Organización de las enseñanzas.
 
@@ -251,7 +233,6 @@ CAPÍTULO III
 
 Estudios de grado en enseñanzas artísticas superiores
 
-
 #### Artículo 7. Acceso a los estudios de grado en enseñanzas artísticas superiores.
 
 1. Para acceder a los estudios de grado en enseñanzas artísticas superiores será preciso reunir los requisitos siguientes:
@@ -268,7 +249,6 @@ Las administraciones educativas competentes serán las responsables de desarroll
 
 4. Asimismo, el Gobierno establecerá las bases del procedimiento mediante el cual se podrá permitir el acceso a estos estudios a quienes, acreditando una determinada experiencia laboral o profesional, no dispongan de la titulación académica requerida en el apartado 1.a), que en ningún caso conllevará la exención total de la realización de la prueba específica de acceso del apartado 1.b).
 
-
 #### Artículo 8. Establecimiento de los títulos y los planes de estudios.
 
 1. El Gobierno, previa consulta a las comunidades autónomas y oído el Consejo Superior de Enseñanzas Artísticas, establecerá los títulos de grado en enseñanzas artísticas superiores de las correspondientes disciplinas y fijará el contenido básico al que deberán adecuarse los planes de estudios conducentes a la obtención de dichos títulos; asimismo, establecerá, con la participación de las comunidades autónomas y del Consejo Superior de Enseñanzas Artísticas, los mecanismos de evaluación de estos estudios dentro del contexto de la ordenación de la educación superior en España y del EEES.
@@ -283,7 +263,6 @@ Las administraciones educativas competentes serán las responsables de desarroll
 
 6. Las administraciones educativas competentes podrán acordar con los centros de su ámbito territorial la adopción de planes de estudios comunes para todos ellos, que deberán ser sometidos una única vez al proceso de verificación antes descrito.
 
-
 #### Artículo 9. Titulación.
 
 1. La superación de los estudios a los que se refiere este capítulo dará derecho a la obtención del título de Grado en Enseñanzas Artísticas Superiores en la disciplina y, en su caso, especialidad correspondiente. Asimismo, se incorporará, si lo hubiera, el itinerario cursado en cada especialidad.
@@ -294,13 +273,11 @@ CAPÍTULO IV
 
 Estudios de máster en enseñanzas artísticas
 
-
 #### Artículo 10. Acceso a los estudios de máster en enseñanzas artísticas.
 
 1. Para acceder a las enseñanzas oficiales de máster en enseñanzas artísticas será necesario estar en posesión de un título de Grado en Enseñanzas Artísticas Superiores, de un título universitario de Grado, o equivalente o, en su caso, disponer de otro título de Máster, o títulos del mismo nivel que el título español de Grado o Máster expedidos por universidades e instituciones de educación superior de un país del EEES que permita el acceso a los estudios de Máster en dicho país.
 
 2. Asimismo, podrán acceder las personas tituladas conforme a sistemas educativos ajenos al EEES sin necesidad de la homologación de sus títulos, previa comprobación por la administración educativa competente de que aquellos acreditan un nivel de formación equivalente. El acceso por esta vía no implicará, en ningún caso, la homologación del título previo del que esté en posesión la persona interesada, ni su reconocimiento a otros efectos que los de cursar las enseñanzas artísticas de Máster.
-
 
 #### Artículo 11. Plan de estudios.
 
@@ -309,9 +286,6 @@ Estudios de máster en enseñanzas artísticas
 2. Corresponderá a los centros de enseñanzas artísticas superiores definir la estructura y el contenido de los planes de estudios conducentes a la obtención de un título de Máster en Enseñanzas Artísticas que aspiren a impartir, especificando en cada caso su distribución en materias obligatorias y optativas así como el contenido y número de créditos correspondientes, el trabajo de fin de Máster, las prácticas externas, si las hubiera, y las restantes actividades académicas que resulten necesarias según las características propias de cada título.
 
 3. El Gobierno fijará por vía reglamentaria el procedimiento para la proposición, verificación y autorización de estos títulos, previa consulta a las comunidades autónomas y al Consejo Superior de Enseñanzas Artísticas. En todo caso, para su verificación se requerirá la evaluación favorable del plan de estudios por la ANECA o, en su caso, por la agencia de calidad de la comunidad autónoma correspondiente que forme parte de la Asociación Europea para el Aseguramiento de la Calidad en la Educación Superior (ENQA), así como informe favorable por parte del Consejo Superior de Enseñanzas Artísticas, una vez constatado el cumplimiento de las directrices generales establecidas por el Gobierno. Asimismo, para su implantación se precisará de la autorización de la comunidad autónoma en la que se ubique el centro.
-
-4. Tras la verificación del plan de estudios y después de haber obtenido la correspondiente autorización, se establecerá el carácter oficial del título por acuerdo del Consejo de Ministros a propuesta de la persona titular del Ministerio de Educación, Formación Profesional y Deportes, tras lo cual deberá ser inscrito en el Registro Estatal de Enseñanzas Artísticas Superiores y publicado en el «Boletín Oficial del Estado».
-
 
 #### Artículo 12. Titulación.
 
@@ -322,7 +296,6 @@ Estudios de máster en enseñanzas artísticas
 CAPÍTULO V
 
 Doctorado
-
 
 #### Artículo 13. Organización de programas de doctorado.
 
@@ -338,13 +311,11 @@ CAPÍTULO VI
 
 Modalidades de la oferta académica
 
-
 #### Artículo 14. Estrategias de innovación docente.
 
 El Gobierno, previa consulta a las comunidades autónomas y oído el Consejo Superior de Enseñanzas Artísticas, establecerá, en el marco de la ordenación de las enseñanzas artísticas superiores, las circunstancias en las que los centros podrán ser autorizados para desarrollar estrategias de innovación docente en el diseño de sus planes de estudios. Dentro de estas estrategias se podrá contemplar la configuración de planes conducentes a la obtención de menciones o dobles titulaciones de Grado en Enseñanzas Artísticas Superiores o Máster en Enseñanzas Artísticas, así como la organización y la oferta de títulos propios, incluidos los de la formación a lo largo de la vida, o de otros estudios no oficiales en el ámbito de la formación permanente.
 
 La formación a lo largo de la vida podrá desarrollarse mediante distintas modalidades de enseñanza.
-
 
 #### Artículo 15. Modalidad semipresencial, virtual y dual.
 
@@ -360,16 +331,13 @@ Centros de enseñanzas artísticas
 
 Sección 1.ª Disposiciones de carácter general
 
-
 #### Artículo 16. Centros de enseñanzas artísticas superiores.
 
 Tendrán la consideración de centros de enseñanzas artísticas superiores los establecidos y gestionados por las administraciones competentes para impartir cualquiera de los estudios previstos en esta ley, así como los autorizados al efecto por dichas administraciones.
 
-
 #### Artículo 17. Régimen jurídico de los centros de enseñanzas artísticas superiores.
 
 Los centros docentes que impartan enseñanzas artísticas superiores se regirán por lo establecido en esta ley y en las disposiciones que la desarrollen, y en lo no previsto en ellas, por la normativa sobre centros docentes que tenga carácter básico contenida en la Ley Orgánica 8/1985, de 3 de julio, reguladora del Derecho a la Educación, y en el título IV de la Ley Orgánica 2/2006, de 3 de mayo, así como en las normas de desarrollo que dicten las comunidades autónomas en el ejercicio de sus competencias.
-
 
 #### Artículo 18. Clasificación de los centros.
 
@@ -381,13 +349,11 @@ Los centros docentes que impartan enseñanzas artísticas superiores se regirán
 
 4. Sin perjuicio de lo establecido en el apartado 2 del presente artículo, los centros cuyo titular sea una fundación del sector público estatal o autonómico, podrán acogerse al régimen de gobernanza y de funcionamiento de los centros privados establecido en el artículo 37.
 
-
 #### Artículo 19. Requisitos mínimos.
 
 1. Corresponde al Gobierno, previa consulta a las comunidades autónomas y al Consejo Superior de Enseñanzas Artísticas, establecer reglamentariamente las condiciones básicas para la creación o autorización de los centros que impartan estas enseñanzas, así como los requisitos mínimos que estos deberán reunir en cada una de las disciplinas para el desarrollo de sus actividades.
 
 2. Dichos requisitos mínimos se referirán a los estudios que deberán conformar la oferta educativa y al número de plazas previstas en cada uno de ellos, a la actividad investigadora y de transferencia e intercambio del conocimiento que deberá realizarse, a la composición de la plantilla docente e investigadora y la titulación de sus integrantes, a las instalaciones, equipamientos y servicios bibliotecarios acordes a las necesidades de sus enseñanzas y a la relación numérica alumno-profesor.
-
 
 #### Artículo 20. Procedimientos de admisión.
 
@@ -395,13 +361,11 @@ Los centros docentes que impartan enseñanzas artísticas superiores se regirán
 
 2. En estos procedimientos, que deberán respetar los principios de transparencia, igualdad de trato, no discriminación, mérito y capacidad, deberá ser tenida en consideración la trayectoria académica y artística previa de quienes concurran en ellos. Asimismo, entre los criterios de valoración en los procedimientos de admisión a los estudios conducentes al título de Grado en Enseñanzas Artísticas Superiores deberá figurar la calificación obtenida en la prueba específica de acceso a la que se refiere el artículo 7.1.b) o, en su caso, en la prueba de acceso a la universidad, así como, en su caso, la nota media correspondiente al expediente del título de enseñanzas artísticas profesionales.
 
-
 #### Artículo 21. Registro de centros.
 
 Todos los centros que impartan enseñanzas artísticas superiores tendrán una denominación específica y se inscribirán en un registro público dependiente de la administración educativa competente, que, a su vez, deberá dar traslado de los asientos registrales al Ministerio de Educación, Formación Profesional y Deportes para que incorpore esta información al Registro Estatal de Enseñanzas Artísticas Superiores. No podrán emplearse por parte de los centros identificaciones diferentes a las que figuren en la correspondiente inscripción registral.
 
 Sección 2.ª Centros públicos
-
 
 #### Artículo 22. Denominación de los centros públicos.
 
@@ -431,7 +395,6 @@ c) Escuelas Superiores de Escritura Creativa.
 
 4. Corresponde a las administraciones educativas competentes determinar la denominación de aquellos centros públicos que ofrezcan enseñanzas de educación superior agrupadas de manera distinta a las definidas en el presente artículo.
 
-
 #### Artículo 23. Organización de la oferta pública.
 
 1. Corresponderá a las administraciones educativas competentes la organización en su ámbito territorial de la oferta pública de las enseñanzas reguladas en esta ley, impulsando un desarrollo coherente de las mismas que permita compatibilizar el deber de garantizar el derecho de toda persona al acceso a la educación con la aplicación del principio de economía y eficiencia en el uso de los recursos públicos.
@@ -442,7 +405,6 @@ c) Escuelas Superiores de Escritura Creativa.
 
 Sección 3.ª Centros privados
 
-
 #### Artículo 24. Autorización.
 
 1. Las personas físicas o jurídicas podrán crear centros privados que impartan enseñanzas artísticas superiores, dentro del respeto de los principios constitucionales y con sometimiento a lo dispuesto en esta ley y en las normas de desarrollo que, en su caso, dicten el Estado y las comunidades autónomas en el ámbito de sus respectivas competencias.
@@ -451,13 +413,11 @@ Sección 3.ª Centros privados
 
 3. Igualmente, corresponderá a dichos órganos la supervisión y control periódico del cumplimiento de las citadas condiciones y requisitos. El incumplimiento grave de los mismos dará lugar a la revocación de la autorización en los términos que reglamentariamente se establezcan.
 
-
 #### Artículo 25. Denominación.
 
 Los centros privados no podrán utilizar ninguna denominación de las establecidas para los centros públicos o cualquiera otra que, por su significado, pueda inducir a confusión con estos.
 
 Sección 4.ª Autonomía y gobernanza de los centros
-
 
 #### Artículo 26. Autonomía de los centros de enseñanzas artísticas superiores.
 
@@ -499,16 +459,13 @@ g) Aprobar sus normas de convivencia y determinar los mecanismos de prevenció
 
 4. Corresponderá a las administraciones competentes dotar a los centros públicos de los recursos que precisen para el correcto ejercicio de su autonomía conforme a lo previsto en esta ley.
 
-
 **Subsección 1.ª Órganos colegiados de gobierno y participación de los centros públicos**
-
 
 #### Artículo 27. Regulación de los órganos colegiados de gobierno y participación de los centros públicos.
 
 1. Las administraciones educativas competentes establecerán y regularán los órganos de gobierno y participación de los centros públicos de enseñanzas artísticas superiores. Estos deberán contar al menos con un Claustro, del que formará parte la totalidad del profesorado que preste servicio en el centro, y con un Consejo de Centro, en el que estarán representados los diversos colectivos que forman la comunidad educativa del centro, el estudiantado, el personal de administración y servicios, y el profesorado, así como, cuando proceda, representantes de otras instituciones que estén vinculados al centro o colaboren con el mismo.
 
 2. También podrán contar con un Consejo Asesor, formado por profesionales y personas de reconocido prestigio del ámbito artístico, cultural y académico correspondiente, así como por representantes de instituciones educativas o de relevancia sociocultural y organizaciones relacionadas con los diferentes estudios del centro.
-
 
 #### Artículo 28. Consejo de Centro.
 
@@ -531,7 +488,6 @@ f) Aprobar la puesta en marcha de proyectos de investigación, innovación y t
 g) Informar las propuestas de contratación de profesorado especialista o visitante y las de designación de profesorado emérito y personal de administración y servicios.
 
 h) Cualquier otra función establecida en la normativa aplicable o que le sea atribuida por la administración competente.
-
 
 #### Artículo 29. Claustro.
 
@@ -557,16 +513,13 @@ g) Promover iniciativas en el ámbito de la formación del profesorado, la inn
 
 h) Cualquier otra función establecida en la normativa aplicable o que le sea atribuida por la administración competente.
 
-
 **Subsección 2.ª Dirección de los centros públicos**
-
 
 #### Artículo 30. Equipo directivo.
 
 1. El órgano ejecutivo de gobierno de los centros públicos es el equipo directivo, que estará integrado por las personas titulares de la dirección, y de los restantes cargos que conformen el equipo directivo, conforme a lo que se establezca específicamente para estos centros por las administraciones educativas competentes.
 
 2. El equipo directivo llevará a cabo el desempeño de sus funciones coordinado por la persona titular de la dirección y conforme a las funciones específicas que establezca para cada cargo la normativa vigente.
-
 
 #### Artículo 31. Competencias de la persona titular de la dirección del centro.
 
@@ -596,7 +549,6 @@ k) Ejercer la jefatura de todo el personal adscrito al centro.
 
 l) Cualquier otra función establecida en la normativa aplicable o que le sea atribuida por la administración competente.
 
-
 #### Artículo 32. Selección de la persona titular de la dirección del centro.
 
 1. La selección de la persona titular de la dirección del centro se efectuará mediante el procedimiento de concurso de méritos entre profesores y profesoras funcionarios de carrera que impartan alguna de las enseñanzas encomendadas al centro y de conformidad con los principios de igualdad, publicidad, mérito y capacidad.
@@ -606,7 +558,6 @@ l) Cualquier otra función establecida en la normativa aplicable o que le sea 
 3. La selección se realizará valorando especialmente las candidaturas del profesorado del centro. Asimismo, dentro de los méritos valorados se ponderarán de forma prioritaria los referidos a la docencia, la experiencia de gestión, la investigación y el ejercicio artístico de la creación, la interpretación o la conservación y restauración. Igualmente será tenida en cuenta como mérito la superación de la formación a la que se refiere el apartado 4.
 
 4. Quienes hayan superado el procedimiento de selección deberán superar un programa de formación sobre competencias para el desempeño de la función directiva, de manera previa a su nombramiento. Las características de esta formación serán establecidas por el Gobierno, en colaboración con las administraciones educativas competentes, y tendrá validez en todo el Estado. Asimismo, se establecerán las excepciones que corresponda a los aspirantes que hayan realizado cursos de formación de estas características antes de la presentación de su candidatura o acrediten experiencia en el ejercicio de la función directiva.
-
 
 #### Artículo 33. Requisitos para ser candidato a la dirección del centro.
 
@@ -620,7 +571,6 @@ c) Presentar un proyecto de dirección que incluya, entre otros, los objetivos
 
 d) Las administraciones educativas competentes podrán considerar como requisito la formación a la que se refiere el apartado 4 del artículo 32.
 
-
 #### Artículo 34. Nombramiento.
 
 1. Finalizado el proceso de selección, corresponderá a las administraciones educativas competentes nombrar a la persona designada como titular de la dirección del centro.
@@ -628,7 +578,6 @@ d) Las administraciones educativas competentes podrán considerar como requisi
 2. El nombramiento tendrá una duración de cuatro cursos, al final de los cuales podrá ser renovado por períodos de igual duración previa evaluación positiva del trabajo desarrollado al final de los mismos y previo informe del Consejo de Centro. Los criterios y procedimientos de esta evaluación serán públicos y para la renovación será necesaria la presentación de un nuevo proyecto de dirección. Las administraciones educativas competentes podrán fijar un límite máximo para la renovación de los mandatos.
 
 3. En ausencia de candidaturas, en el caso de centros de nueva creación o cuando tras el proceso de selección no existiera una candidatura propuesta, la administración educativa, oído el Consejo de Centro, nombrará a un funcionario o funcionaria docente como titular de la dirección por un período máximo de dos cursos. Cuando se produzca esta circunstancia se podrá permitir, de manera excepcional, que la persona designada quede exenta del cumplimiento de alguno de los requisitos previstos en el artículo 33.
-
 
 #### Artículo 35. Cese.
 
@@ -642,7 +591,6 @@ c) Incapacidad física o psíquica sobrevenida.
 
 d) Revocación motivada por la administración educativa, a iniciativa propia o a propuesta motivada del Consejo de Centro, por incumplimiento grave de las funciones inherentes a su cargo. En todo caso, la resolución de revocación se emitirá tras la instrucción de un expediente contradictorio, previa audiencia a la propia persona interesada y oído el Consejo de Centro.
 
-
 #### Artículo 36. Reconocimiento de la función directiva.
 
 1. El ejercicio de la función directiva, en especial como titular de la dirección del centro, será retribuido de forma diferenciada, en consideración a la responsabilidad y dedicación exigidas, de acuerdo con las cuantías que para los complementos establecidos al efecto fijen las administraciones educativas competentes, de conformidad con la normativa reguladora del régimen retributivo de los respectivos cuerpos docentes.
@@ -653,9 +601,7 @@ d) Revocación motivada por la administración educativa, a iniciativa propia 
 
 4. Las personas titulares de la dirección de centros públicos que hayan ejercido su cargo con valoración positiva durante el periodo de tiempo que cada administración educativa determine, mantendrán, mientras permanezcan en situación de activo, la percepción de una parte del complemento retributivo correspondiente en la proporción, condiciones y requisitos que establezca la propia administración.
 
-
 **Subsección 3.ª Gobernanza de los centros privados**
-
 
 #### Artículo 37. Gobernanza y órganos de gobierno de los centros privados.
 
@@ -667,11 +613,9 @@ d) Revocación motivada por la administración educativa, a iniciativa propia 
 
 Sección 5.ª Cooperación y colaboración entre instituciones de educación superior
 
-
 #### Artículo 38. Redes de centros de enseñanzas artísticas superiores.
 
 Los centros de enseñanzas artísticas superiores podrán establecer entre sí acuerdos de cooperación y colaboración que les permitan impulsar la calidad y la interdisciplinariedad de su oferta educativa, y racionalizar el aprovechamiento de sus recursos.
-
 
 #### Artículo 39. Agrupaciones de centros de enseñanzas artísticas superiores.
 
@@ -680,7 +624,6 @@ Los centros de enseñanzas artísticas superiores podrán establecer entre sí a
 2. Asimismo, las administraciones educativas competentes podrán, con arreglo a su regulación, crear entidades autónomas dotadas de personalidad jurídica propia que agrupen los centros públicos que impartan enseñanzas artísticas superiores en su ámbito territorial. Previo acuerdo entre las administraciones correspondientes, estas agrupaciones podrán ser también de carácter interterritorial.
 
 3. Corresponderá a las administraciones educativas competentes la creación y regulación de los órganos de gobierno y participación que existirán en dichas entidades. En todo caso deberá garantizarse la existencia en las mismas de órganos de participación del profesorado y de la comunidad educativa con competencias similares a las atribuidas en los artículos 28 y 29, respectivamente, al Consejo de Centro y al Claustro. En el caso de establecerse la necesidad de que una persona sea titular de la dirección o presidencia de estas entidades, deberá garantizarse que sus competencias, selección, requisitos, nombramiento, cese y reconocimiento sean similares a los atribuidos en los artículos 31, 32, 33, 34, 35 y 36 para la persona titular de dirección de los centros.
-
 
 #### Artículo 40. Colaboración entre centros de enseñanzas artísticas superiores y universidades.
 
@@ -694,7 +637,6 @@ Los centros de enseñanzas artísticas superiores podrán establecer entre sí a
 
 5. La relación que se establezca entre los centros y universidades no alterará la dependencia orgánica y funcional de los primeros ni el régimen jurídico de su personal, y deberá respetar en todo momento las atribuciones que, de acuerdo con lo establecido en la normativa correspondiente, poseen unos y otras para impartir sus respectivas enseñanzas.
 
-
 #### Artículo 41. Adscripción a la universidad.
 
 Los centros de enseñanzas artísticas superiores, tanto públicos como privados, podrán adscribirse a una universidad, previo acuerdo con esta y autorización de las administraciones educativas competentes, mediante el correspondiente convenio de colaboración. Dicho convenio deberá en todo caso atenerse a lo establecido en el artículo 42 de la Ley Orgánica 2/2023, de 22 de marzo, y en la normativa de desarrollo correspondiente.
@@ -705,13 +647,11 @@ Estudiantado
 
 Sección 1.ª Derechos y deberes
 
-
 #### Artículo 42. Derecho de acceso.
 
 1. El acceso a las enseñanzas artísticas superiores se regirá por el principio constitucional de igualdad. Corresponde a las administraciones competentes garantizar la igualdad de oportunidades y condiciones en el ejercicio del derecho de acceso a estas enseñanzas, eliminando cualquier barrera que impida a quienes cumplan los requisitos establecidos en esta ley cursar los distintos estudios que comprenden.
 
 2. Asimismo, corresponde a las administraciones educativas competentes facilitar el acceso a estas enseñanzas al estudiantado de las zonas rurales o distantes geográficamente de los centros de enseñanza.
-
 
 #### Artículo 43. Derechos relativos a la formación académica.
 
@@ -741,7 +681,6 @@ k) A obtener reconocimiento académico por su participación en actividades ar
 
 l) Al paro académico. Los centros desarrollarán las condiciones para el ejercicio de dicho derecho y procedimiento de declaración del paro académico, que será efectuada por los órganos específicos de participación y decisión del estudiantado. Este podrá ser total o parcial, garantizando en cualquier caso que ello no afecte a la evaluación académica del estudiantado.
 
-
 #### Artículo 44. Derechos de participación y representación.
 
 1. Corresponderá a las administraciones educativas competentes y a los centros garantizar al estudiantado una participación activa, libre y significativa en el diseño, implementación y evaluación del proyecto institucional del centro, así como el ejercicio efectivo de las libertades de expresión y los derechos de reunión, manifestación y asociación.
@@ -759,7 +698,6 @@ d) La convivencia del centro y la mediación y resolución alternativa de conf
 3. El estudiantado tendrá derecho a contar con una representación activa en el Consejo de Centro, así como en los restantes órganos colegiados en los que la normativa autonómica de aplicación prevea su participación.
 
 4. Las administraciones competentes y los centros velarán por que se garantice al estudiantado el acceso a la información y a los recursos que precise para el ejercicio de su derecho a la participación y representación.
-
 
 #### Artículo 45. Consejo de Estudiantes.
 
@@ -779,7 +717,6 @@ d) Fomentar el asociacionismo estudiantil y la participación del estudiantado
 
 e) Cualesquiera otras funciones que le asigne el reglamento interno de funcionamiento de cada centro.
 
-
 #### Artículo 46. Eficacia y garantía de los derechos.
 
 1. Los centros garantizarán al estudiantado el ejercicio de sus derechos en el ámbito educativo, tanto en su dimensión individual, como colectiva. A tal fin, asegurarán la disponibilidad de procedimientos adecuados para su implementación y cumplimiento efectivos.
@@ -787,7 +724,6 @@ e) Cualesquiera otras funciones que le asigne el reglamento interno de funcion
 2. Los centros informarán al estudiantado de sus derechos en el ámbito educativo.
 
 3. Los centros deberán garantizar la participación de la representación estudiantil en la elaboración de las diferentes normas que afectan al estudiantado.
-
 
 #### Artículo 47. Deberes del estudiantado.
 
@@ -811,7 +747,6 @@ h) Cualquier otro que le corresponda conforme a la normativa de aplicación o 
 
 Sección 2.ª Igualdad de trato y de oportunidades
 
-
 #### Artículo 48. Igualdad y no discriminación.
 
 1. Corresponde a las administraciones educativas competentes y a la dirección de los centros garantizar la igualdad de trato y de oportunidades del estudiantado e impedir que en el ejercicio de sus derechos y el cumplimiento de sus deberes sea víctima de cualquier forma de discriminación por razón de nacimiento, raza, sexo, religión, opinión o cualquier otra condición o circunstancia personal o social.
@@ -822,7 +757,6 @@ Sección 2.ª Igualdad de trato y de oportunidades
 
 4. Las administraciones educativas competentes facilitarán a las personas usuarias de las lenguas de signos españolas su utilización cuando lo precisen.
 
-
 #### Artículo 49. Becas y ayudas al estudio.
 
 1. El Estado garantizará la igualdad de oportunidades en el acceso y en la continuidad en las enseñanzas artísticas superiores, con independencia de la capacidad económica de las personas o familias y de su lugar de residencia. A tal fin, se reconoce el derecho subjetivo del estudiantado de enseñanzas artísticas superiores a acceder a becas y ayudas al estudio, siempre que cumpla con los requisitos recogidos en las normas reguladoras de las mismas, y de conformidad con los principios fundamentales de igualdad y no discriminación, en los términos previstos en el artículo 32 de la Ley Orgánica 2/2023, de 22 de marzo, y en el artículo 83 de la Ley Orgánica 2/2006, de 3 de mayo.
@@ -830,7 +764,6 @@ Sección 2.ª Igualdad de trato y de oportunidades
 2. Las comunidades autónomas, de acuerdo con lo previsto en sus estatutos, en el ejercicio de sus competencias, podrán regular su propio sistema de becas y ayudas al estudio, cuando se desarrollen con cargo a su propio presupuesto, estableciendo para ello los correspondientes mecanismos de coordinación con el Ministerio competente.
 
 3. El estudiantado de enseñanzas artísticas superiores tendrá la misma consideración que el universitario en el sistema general de becas y ayudas al estudio establecido por el Estado y de otras ayudas de las administraciones competentes, incluyendo la compensación de los precios públicos por servicios académicos, en los términos que se determine reglamentariamente, así como en las restantes convocatorias de ayudas para el acceso a la cultura, a la promoción profesional o a la movilidad nacional e internacional. El alumnado de las enseñanzas artísticas superiores podrá optar, en igualdad de condiciones, a las ayudas destinadas al estudiantado del EEES.
-
 
 #### Artículo 50. Premios, concursos y reconocimientos.
 
@@ -843,7 +776,6 @@ Sección 2.ª Igualdad de trato y de oportunidades
 CAPÍTULO IX
 
 Profesorado
-
 
 #### Artículo 51. Funciones del profesorado.
 
@@ -869,7 +801,6 @@ i) La contribución al cumplimiento de las normas de convivencia y a la aplica
 
 j) La colaboración en la implementación de los sistemas internos de garantía de calidad previstos en el centro.
 
-
 #### Artículo 52. Reconocimiento de la actividad investigadora y el ejercicio artístico de la creación, la interpretación, la ejecución o la conservación y la restauración.
 
 1. Las administraciones educativas competentes favorecerán la actividad y dedicación investigadora del profesorado de los centros públicos y su contribución a la investigación y al ejercicio artístico de la creación, la interpretación, la ejecución o la conservación y la restauración por medio de los incentivos económicos y profesionales correspondientes, de conformidad, en su caso, con la normativa reguladora del régimen retributivo de los respectivos cuerpos docentes.
@@ -880,13 +811,11 @@ j) La colaboración en la implementación de los sistemas internos de garantí
 
 4. Aquellos docentes que estén desarrollando una actividad profesional artística de manera simultánea a la función docente podrán servirse de licencia sin sueldo y sin pérdida de su plaza docente para la realización puntual de estas actividades. Estas licencias no podrán, en conjunto, tener una duración superior a un semestre del curso académico.
 
-
 #### Artículo 53. Requisitos de formación inicial.
 
 1. Para ejercer la docencia en las enseñanzas artísticas superiores será necesario estar en posesión del título de Grado o titulación equivalente a efectos de docencia, además de un título oficial de Máster de especialización en investigación y didáctica en enseñanzas artísticas, que acredite la suficiencia investigadora y la competencia docente, cuyo plan de estudios deberá adecuarse a las condiciones que establezca el Gobierno mediante acuerdo del Consejo de Ministros.
 
 2. De manera excepcional se podrá eximir del cumplimiento de los requisitos de formación establecidos con carácter general a quienes se incorporen para desempeñar sus funciones como especialistas conforme a lo previsto en el artículo 62.
-
 
 #### Artículo 54. Formación permanente.
 
@@ -895,7 +824,6 @@ j) La colaboración en la implementación de los sistemas internos de garantí
 2. Las administraciones educativas competentes fomentarán los planes de formación específicos en el ámbito de las enseñanzas artísticas, destinados a la formación permanente del profesorado.
 
 3. Los programas de formación permanente del profesorado, a los que se refiere el apartado anterior, deberán contemplar la adecuación de los conocimientos y métodos a la evolución de las ciencias y las disciplinas artísticas, así como de las didácticas específicas y las tareas de investigación, transferencia e intercambio del conocimiento e innovación, así como todos aquellos aspectos de coordinación, orientación, tutoría, educación inclusiva, atención a la diversidad y organización encaminados a mejorar la calidad de la enseñanza y el funcionamiento de los centros. Asimismo, deberán incluir formación específica en materia de igualdad en los términos establecidos en el artículo 7 de la Ley Orgánica 1/2004, de 28 de diciembre, de Medidas de Protección Integral contra la Violencia de Género, así como formación específica en materia de acoso y malos tratos en el ámbito de los centros docentes.
-
 
 #### Artículo 55. Profesorado emérito.
 
@@ -906,7 +834,6 @@ j) La colaboración en la implementación de los sistemas internos de garantí
 CAPÍTULO X
 
 Personal de administración y servicios de los centros públicos
-
 
 #### Artículo 56. Personal de administración y servicios.
 
@@ -919,7 +846,6 @@ Personal de administración y servicios de los centros públicos
 CAPÍTULO XI
 
 Investigación
-
 
 #### Artículo 57. Investigación.
 
@@ -939,7 +865,6 @@ CAPÍTULO XII
 
 Calidad y evaluación
 
-
 #### Artículo 58. Garantía de la calidad de las enseñanzas artísticas superiores.
 
 1. La promoción y el aseguramiento de la calidad de las enseñanzas artísticas superiores es responsabilidad compartida por los centros, las agencias de evaluación de la calidad y las administraciones educativas competentes.
@@ -949,7 +874,6 @@ Calidad y evaluación
 3. Para llevar a cabo esta evaluación, se establecerán indicadores de calidad relevantes y significativos en el proceso educativo, que serán propuestos por la ANECA y, en su caso, por las agencias dependientes de las administraciones educativas autonómicas, consultado el Consejo Superior de Enseñanzas Artísticas.
 
 4. Las administraciones garantizarán que los centros públicos cuenten con los recursos humanos y materiales necesarios para llevar a cabo esta evaluación.
-
 
 #### Artículo 59. Evaluación de los títulos de enseñanzas artísticas superiores.
 
@@ -963,7 +887,6 @@ Calidad y evaluación
 
 5. Asimismo, las administraciones educativas competentes promoverán y desarrollarán sistemas, internos y externos, de evaluación de los centros, dirigidos a impulsar la calidad global de las enseñanzas artísticas y realizar un seguimiento permanente de esta.
 
-
 #### Artículo 60. Inspección educativa.
 
 Corresponderá a la inspección educativa, dependiente de las administraciones educativas competentes, la supervisión, asesoramiento, evaluación y control desde el punto de vista pedagógico y organizativo, de los centros, con respeto al marco de autonomía que esta ley ampara. Le corresponde igualmente la supervisión de la función docente y directiva, así como velar por el cumplimiento de las leyes, reglamentos y demás disposiciones vigentes, y la garantía de los derechos que asisten a los miembros de la comunidad educativa. Para el ejercicio de dichas funciones los inspectores e inspectoras dedicados a su cumplimiento recibirán la formación específica necesaria.
@@ -972,7 +895,6 @@ Las administraciones educativas garantizarán la adecuación y formación de los
 
 Conforme a lo establecido en el artículo 154 de la Ley Orgánica 2/2006, de 3 de mayo, de Educación, las administraciones educativas podrán crear un servicio específico para las enseñanzas artísticas superiores.
 
-
 #### Artículo 61. Internacionalización.
 
 1. El Gobierno y las administraciones educativas competentes impulsarán programas que promuevan la internacionalización de las enseñanzas artísticas superiores, prestando una especial atención a la plena incorporación al EEES y promoviendo, asimismo, su relación con los Espacios Iberoamericanos de Educación Superior y del Conocimiento y otras áreas de cooperación regional.
@@ -980,7 +902,6 @@ Conforme a lo establecido en el artículo 154 de la Ley Orgánica 2/2006, de 
 Asimismo, se deberán arbitrar acciones que faciliten la movilidad del profesorado y del estudiantado, así como aquellas que posibiliten el desarrollo de títulos académicos conjuntos o en formato de doble titulación con centros extranjeros. En aquellas comunidades autónomas que hayan suscrito convenios de cooperación transfronteriza con países vecinos se favorecerá especialmente la puesta en marcha de estrategias de cooperación eurorregional que podrán contemplar, entre otros aspectos, el reconocimiento de estudios y la creación de estructuras colaborativas entre instituciones pertenecientes al ámbito geográfico comprendido en los respectivos convenios.
 
 2. Con el apoyo de las administraciones educativas competentes, los centros de enseñanzas artísticas podrán establecer medidas y poner en marcha proyectos conjuntos con otros centros extranjeros de prestigio, a fin de promover la generación de equipos y de proyectos de investigación, interpretación o creación artística sobre aspectos propios de las enseñanzas artísticas superiores. Asimismo, fomentarán y facilitarán el conocimiento y el uso de lenguas extranjeras en el conjunto de su actividad.
-
 
 #### Artículo 62. Profesorado especialista y profesorado visitante.
 
@@ -996,18 +917,15 @@ CAPÍTULO XIII
 
 Títulos de enseñanzas artísticas superiores
 
-
 #### Artículo 63. Validez de los títulos.
 
 Los títulos oficiales de enseñanzas artísticas superiores serán homologados por el Estado y tendrán validez en todo el Estado. Surtirán efectos plenos desde la fecha de la completa finalización de los estudios correspondientes a su obtención y facultarán a quienes los posean para disfrutar de los derechos que en cada caso otorguen las disposiciones vigentes.
-
 
 #### Artículo 64. Expedición.
 
 Los títulos de enseñanzas artísticas superiores serán expedidos por las administraciones educativas competentes en las condiciones previstas por las normas básicas y específicas que al efecto se dicten. Con el fin de promover la más amplia movilidad nacional e internacional de quienes estén en posesión de uno de estos títulos, junto a los mismos se expedirá, previa solicitud de la persona interesada, el Suplemento Europeo al Título.
 
 Corresponde al Gobierno, previa consulta a las comunidades autónomas y oído el Consejo Superior de Enseñanzas Artísticas, la regulación de los requisitos y el procedimiento para la expedición de los títulos correspondientes a estas enseñanzas.
-
 
 #### Artículo 65. Convalidación, reconocimiento de créditos y homologaciones.
 
@@ -1019,12 +937,9 @@ b) Las condiciones de homologación de títulos extranjeros de enseñanzas art
 
 c) Las condiciones para el reconocimiento de créditos a partir de la experiencia laboral o profesional.
 
-
 ## TÍTULO II
 
-
 **Organización y equivalencias de las enseñanzas artísticas profesionales**
-
 
 #### Artículo 66. Organización de las enseñanzas artísticas profesionales.
 
@@ -1038,7 +953,6 @@ c) Las condiciones para el reconocimiento de créditos a partir de la experien
 
 5. Determinadas enseñanzas y especialidades podrán, cuando así se prevea en función de sus características en la regulación de los títulos correspondientes, acogerse a un modelo de carácter dual, que permita que los procesos de enseñanza y aprendizaje se lleven a cabo de forma combinada en centros educativos y en empresas, estudios, talleres, archivos, bibliotecas, teatros, museos, fundaciones o patronatos, agrupaciones musicales, compañías de artes escénicas, y resto de entidades con o sin ánimo de lucro del ámbito correspondiente a las disciplinas artísticas. Dicho modelo quedará regulado en los términos propuestos en la Ley Orgánica 3/2022, de 31 de marzo, de ordenación e integración de la Formación Profesional.
 
-
 #### Artículo 67. Equivalencia de las enseñanzas artísticas profesionales con otras enseñanzas.
 
 1. Reglamentariamente, previa consulta a las comunidades autónomas, el Gobierno determinará el régimen de convalidaciones y equivalencias entre enseñanzas artísticas profesionales y el resto de enseñanzas del sistema educativo no universitario.
@@ -1047,19 +961,15 @@ c) Las condiciones para el reconocimiento de créditos a partir de la experien
 
 3. Las administraciones educativas competentes y las universidades promoverán el reconocimiento mutuo de créditos del Sistema Europeo de Transferencia de Créditos (ECTS) entre los ciclos formativos de grado superior de las enseñanzas artísticas profesionales y los títulos oficiales de Grado, con objeto de facilitar el establecimiento de itinerarios formativos que reconozcan la formación previamente adquirida en ambos sentidos.
 
-
 #### Artículo 68. Relación de las enseñanzas artísticas profesionales con el Catálogo Nacional de Estándares de Competencias Profesionales.
 
 1. En el marco del desarrollo reglamentario previsto con relación al Catálogo Nacional de Estándares de Competencias Profesionales en la Ley Orgánica 3/2022, de 31 de marzo, se contemplará la definición de aquellos estándares de competencias profesionales que puedan ser identificados en los ámbitos artísticos así como técnicos correspondientes a las distintas disciplinas artísticas, en función de las competencias apropiadas y el estándar de calidad requerido para el ejercicio profesional en dichos ámbitos. Dichos estándares proporcionarán la base para el diseño de las ofertas formativas y servirán de referencia para el reconocimiento y acreditación de competencias adquiridas a través de la experiencia laboral.
 
 2. Los estándares de competencias que pudieran identificarse conforme a lo previsto en el párrafo anterior servirán de referencia para la acreditación de competencias profesionales adquiridas por experiencia laboral u otras vías no formales o informales.
 
-
 ## TÍTULO III
 
-
 **La función pública docente**
-
 
 #### Artículo 69. Ordenación de los cuerpos docentes.
 
@@ -1087,7 +997,6 @@ El profesorado de estos cuerpos desempeñará sus funciones en las enseñanzas a
 
 6. Serán aplicables a los cuerpos docentes previstos en esta ley las bases del régimen estatutario de la función pública docente establecidas en la disposición adicional sexta de la Ley Orgánica 2/2006, de 3 de mayo, de Educación.
 
-
 #### Artículo 70. Cuerpos de Catedráticos y Catedráticas.
 
 1. El personal perteneciente a los Cuerpos de Catedráticos y Catedráticas de Enseñanzas Artísticas Profesionales y de Enseñanzas Artísticas Superiores realizarán las funciones que se les encomiendan en esta ley y las que reglamentariamente se determinen.
@@ -1108,7 +1017,6 @@ e) La presidencia de los tribunales de acceso a los respectivos cuerpos de cat
 
 4. La pertenencia a los cuerpos de Catedráticos y Catedráticas se valorará, a todos los efectos, como mérito docente específico.
 
-
 #### Artículo 71. Requisitos para el ingreso en el Cuerpo de Profesores y Profesoras de Enseñanzas Artísticas Superiores y para el acceso al Cuerpo de Catedráticos y Catedráticas de Enseñanzas Artísticas Superiores.
 
 1. Para el ingreso al Cuerpo de Profesores y Profesoras de Enseñanzas Artísticas Superiores, será necesario, además de cumplir los requisitos establecidos con carácter general en el artículo 53.1, superar el correspondiente proceso selectivo.
@@ -1117,43 +1025,35 @@ e) La presidencia de los tribunales de acceso a los respectivos cuerpos de cat
 
 3. El Gobierno, consultadas las comunidades autónomas, desarrollará por vía reglamentaria los procedimientos de ingreso y acceso a estos cuerpos.
 
-
 #### Disposición adicional primera. El Consejo Superior de Enseñanzas Artísticas.
 
 1. El Consejo Superior de Enseñanzas Artísticas es el órgano consultivo del Estado y de participación en relación con las enseñanzas artísticas superiores reguladas en esta ley, y con las enseñanzas artísticas elementales y profesionales establecidas en la Ley Orgánica 2/2006, de 3 de mayo, así como con el resto de disciplinas artísticas a las que se refiere el apartado 2 del artículo 45 de dicha ley orgánica.
 
 2. El Gobierno, previa consulta a las comunidades autónomas, adaptará a lo previsto en esta norma tanto la composición como las funciones del Consejo Superior de Enseñanzas Artísticas, como órgano consultivo del Estado y de participación en relación con estas enseñanzas. En este órgano se contará con la participación del Ministerio de Ciencia, Innovación y Universidades, del Ministerio de Cultura y del Consejo de Universidades. Asimismo, se garantizará la presencia de las ciudades autónomas de Ceuta y Melilla, de las Administraciones locales, del profesorado de enseñanzas artísticas, del alumnado de enseñanzas artísticas, de los directores de centros de enseñanzas artísticas superiores, de personalidades de reconocido prestigio en el ámbito de las enseñanzas artísticas y de representantes de las organizaciones profesionales de los distintos ámbitos de las disciplinas de las enseñanzas artísticas. Todo ello sin perjuicio de otras posibles incorporaciones que se consideren pertinentes en el desarrollo reglamentario de este órgano consultivo y de participación.
 
-
 #### Disposición adicional segunda. Registro Estatal de Enseñanzas Artísticas Superiores.
 
 En el Ministerio de Educación, Formación Profesional y Deportes existirá el Registro Estatal de Enseñanzas Artísticas Superiores, sin perjuicio de que puedan establecerse mecanismos que permitan la interoperabilidad de dicho registro con el Registro de Universidades, Centros y Títulos. Este registro tendrá carácter público y en él, a instancias de las administraciones autonómicas competentes, se inscribirán los centros que impartan las enseñanzas a las que se refiere esta ley, así como los títulos oficiales de dichas enseñanzas con validez en todo el Estado. El Gobierno regulará su régimen, organización y funcionamiento.
-
 
 #### Disposición adicional tercera. Centros que imparten simultáneamente enseñanzas artísticas superiores y profesionales.
 
 Lo previsto en esta ley será de aplicación a los centros que impartan simultáneamente enseñanzas artísticas superiores y profesionales, con las adaptaciones que se precisen. Las administraciones educativas competentes promoverán la progresiva especialización de estos centros en unas u otras enseñanzas.
 
-
 #### Disposición adicional cuarta. Nuevas enseñanzas profesionales.
 
 Las comunidades autónomas podrán elevar propuesta al Gobierno para iniciar los trámites de creación de nuevas enseñanzas profesionales relacionadas con otras disciplinas artísticas con presencia territorial, como el circo, con objeto de adecuar la oferta formativa a los perfiles profesionales demandados por el sector cultural y artístico.
-
 
 #### Disposición adicional quinta. Autorización de centros extranjeros.
 
 El Gobierno establecerá por vía reglamentaria los requisitos que deberán reunir para su autorización los centros que impartan enseñanzas artísticas superiores con arreglo a sistemas educativos extranjeros.
 
-
 #### Disposición adicional sexta. Consejos escolares de los centros que impartan enseñanzas artísticas profesionales.
 
 Corresponde a las administraciones educativas competentes regular las condiciones por las que los centros que impartan las enseñanzas artísticas profesionales puedan incorporar a su Consejo Escolar un representante propuesto por las instituciones culturales, empresas u organismos equiparados, presentes en el ámbito de acción del centro, preferentemente aquellas en las que el estudiantado haga su formación práctica.
 
-
 #### Disposición adicional séptima. Fomento de la igualdad efectiva entre hombres y mujeres.
 
 Con objeto de favorecer la igualdad de derechos y oportunidades, los centros de enseñanzas artísticas incorporarán en sus respectivos proyectos institucionales y normas de convivencia medidas para desarrollar la igualdad efectiva entre hombres y mujeres tanto en el ámbito académico como en el de investigación y creación artística.
-
 
 #### Disposición adicional octava. Medidas para facilitar la simultaneidad de estudios.
 
@@ -1161,41 +1061,33 @@ Con objeto de favorecer la igualdad de derechos y oportunidades, los centros de 
 
 2. Para posibilitar dicha simultaneidad las administraciones educativas competentes podrán facilitar a través de los correspondientes procesos de admisión la matrícula de este alumnado en los centros más próximos entre sí que sea posible.
 
-
 #### Disposición adicional novena. Acceso a las enseñanzas universitarias oficiales.
 
 De conformidad con el reconocimiento, establecido en los artículos 9 y 12, de equivalencia entre las titulaciones de las enseñanzas artísticas superiores y las enseñanzas universitarias, los títulos oficiales de las enseñanzas artísticas superiores permitirán el acceso a las enseñanzas universitarias oficiales de Máster y Doctorado, sin perjuicio de otros criterios de admisión que, en su caso, determine la universidad a la que se pretenda acceder.
-
 
 #### Disposición adicional décima. Regulación de las enseñanzas elementales.
 
 La regulación de las enseñanzas elementales será la prevista en la Ley Orgánica 2/2006, de 3 de mayo.
 
-
 #### Disposición adicional undécima. Direcciones de los centros de titularidad pública de enseñanzas artísticas cuyo titular sea una fundación u organismo autónomo del sector público.
 
 A los centros públicos cuyo titular sea una fundación u organismo autónomo del sector público estatal o autonómico no les será de aplicación la exigencia de la condición de funcionario de carrera en la función pública docente como requisito para ser candidata o candidato a la dirección del centro que regulan los artículos 32 y 33.
-
 
 #### Disposición adicional duodécima. Equivalencia de los estudios de Danza anteriores a la Ley Orgánica 1/1990, de 3 de octubre, de Ordenación General del Sistema Educativo.
 
 Quienes en aplicación de lo previsto en el Real Decreto 798/2005, de 1 de julio, por el que se establecen los requisitos para obtener la equivalencia, a los efectos de docencia, entre los estudios completos de danza anteriores a la Ley Orgánica 1/1990, de 3 de octubre, de Ordenación General del Sistema Educativo, y los estudios superiores de danza regulados en ella, hubieran obtenido el reconocimiento de equivalencia previsto en el citado real decreto, y hubieran obtenido además el título de Bachiller, o titulación equivalente, podrán obtener la declaración de equivalencia a todos los efectos de sus estudios con los estudios superiores de danza regulados por dicha Ley Orgánica 1/1990, de 3 de octubre, mediante el procedimiento que reglamentariamente se establezca.
 
-
 #### Disposición adicional decimotercera. Validez de títulos superiores de enseñanzas artísticas establecidos al amparo de la Ley Orgánica 1/1990, de 3 de octubre, de Ordenación General del Sistema Educativo.
 
 A efectos de lo previsto en el artículo 10.1 y en la disposición adicional novena, el Título de Conservación y Restauración de Bienes Culturales establecido en el Real Decreto 1387/1991, de 18 de septiembre, por el que aprueban las enseñanzas mínimas del currículo de conservación y restauración de bienes culturales y se regula la prueba de acceso a estos estudios y los declarados equivalentes de conformidad con el Real Decreto 440/1994, de 11 de marzo, por el que se establecen las equivalencias entre los títulos de Artes Aplicadas y Oficios Artísticos, Cerámica y Conservación y Restauración de Bienes Culturales, anteriores a la Ley Orgánica 1/1990, de 3 de octubre, de Ordenación General del Sistema Educativo, y los establecidos en dicha ley, el Título de Diseño establecido en el Real Decreto 1496/1999, de 24 de septiembre, por el que se establecen los estudios superiores de Diseño, la prueba de acceso y los aspectos básicos del currículo de dichos estudios, el Título Superior de Cerámica establecido en el Real Decreto 2398/1998, de 6 de noviembre, por el que se establecen los estudios superiores de Cerámica, pertenecientes a las enseñanzas de Artes Plásticas, el título correspondiente, la prueba de acceso y los aspectos básicos del currículo y el Título Superior de Vidrio establecido en el Real Decreto 1090/2000, de 9 de junio, por el que se establecen los estudios superiores del vidrio, el título correspondiente, la prueba de acceso y los aspectos básicos del currículo tendrán la misma consideración que los títulos de Grado en Enseñanzas Artísticas Superiores.
-
 
 #### Disposición adicional decimocuarta. Convergencia europea.
 
 El Gobierno desarrollará la organización y equivalencias de las enseñanzas artísticas profesionales, asegurando su compatibilidad con el Marco Europeo de Cualificaciones (EQF), con la Clasificación Europea de habilidades, competencias, ocupaciones y cualificaciones (ESCO) para garantizar el acceso de las personas artistas a procesos de evaluación y reconocimiento de competencias, que responda a sus necesidades de movilidad, empleabilidad y transición profesional.
 
-
 #### Disposición adicional decimoquinta. Estatuto Básico del estudiante de Enseñanzas Artísticas Superiores.
 
 El Gobierno, en colaboración con las comunidades autónomas, y representantes estudiantiles de enseñanzas artísticas superiores, aprobará un estatuto básico del estudiante de Enseñanzas Artísticas Superiores, que será de aplicación a todos los estudiantes de enseñanzas artísticas superiores de centros públicos y privados españoles.
-
 
 #### Disposición adicional decimosexta. Estudio sobre la integración de las enseñanzas artísticas superiores en el Marco Europeo de Educación Superior y de la ordenación de la Educación Superior.
 
@@ -1203,23 +1095,19 @@ El Consejo Superior de Enseñanzas Artísticas Superiores, en el plazo máximo d
 
 A la vista de los resultados del anterior estudio, podrán promoverse, en su caso, las iniciativas legales, o de otra índole, dirigidas a asegurar la plena integración de las enseñanzas artísticas superiores en el Marco Europeo de Educación Superior y la aplicación de criterios comunes de garantía de la calidad para estas enseñanzas.
 
-
 #### Disposición adicional decimoséptima. Acceso a la Universidad de artistas con trayectoria profesional reconocida.
 
 El Gobierno, previa consulta a las comunidades autónomas, al Consejo Superior de Enseñanzas Artísticas y al Consejo de Universidades, modificará la normativa básica de los procedimientos de admisión a las enseñanzas universitarias oficiales de Grado para reservar a quienes acrediten su condición de artistas con trayectoria profesional reconocida, y reúnan los requisitos académicos correspondientes, un porcentaje de las plazas ofertadas por los centros universitarios en los que se den las circunstancias previstas en los referidos procedimientos de admisión.
 
 Desarrollará, en coordinación con las comunidades autónomas y el Consejo Superior de Enseñanzas Artísticas, los requisitos y procedimientos para la adquisición y acreditación de la figura de artista con trayectoria profesional reconocida y el reconocimiento de condición de artistas con trayectoria profesional reconocida a artistas con méritos suficientes en cualquier disciplina artística.
 
-
 #### Disposición adicional decimoctava. Régimen transitorio para el profesorado de las Enseñanzas Superiores de Artes Audiovisuales y del resto de enseñanzas artísticas que se incorporen en virtud de los artículos 6.2 y 66.2 de esta ley.
 
 Tanto en el caso de las Enseñanzas Superiores de Artes Audiovisuales como en el supuesto de las nuevas disciplinas artísticas que se incorporen tanto a las enseñanzas artísticas superiores como a las enseñanzas artísticas profesionales en virtud de lo establecido en los artículos 6.2 y 66.2 de esta ley, se establecerá un período transitorio de cinco años en el que se podrán incorporar como profesorado, atendiendo a su experiencia profesional en la práctica artística y la educación en esas disciplinas, profesionales no necesariamente titulados, que desarrollen su actividad en dicho ámbito laboral, siempre que, en dicho plazo, cumplan con los requisitos académicos que se determinen, previa consulta a las comunidades autónomas.
 
-
 #### Disposición transitoria primera. Aplicabilidad de la organización de las enseñanzas artísticas superiores prevista en la Ley Orgánica 2/2006, de 3 de mayo, de Educación.
 
 En tanto no se lleve a cabo el desarrollo reglamentario relativo a la ordenación de las enseñanzas previsto en el artículo 6.3, seguirá siendo de aplicación lo previsto en los artículos 54, 55, 56 y 57 de la Ley Orgánica 2/2006, de 3 de mayo, con relación a la organización de estudios superiores de música y de danza, las enseñanzas de arte dramático, las enseñanzas de conservación y restauración de bienes culturales y los estudios superiores de artes plásticas y diseño, así como en la normativa de desarrollo.
-
 
 #### Disposición transitoria segunda. Integración en los nuevos cuerpos docentes.
 
@@ -1243,36 +1131,29 @@ En tanto no se lleve a cabo el desarrollo reglamentario relativo a la ordenació
 
 10. El procedimiento al que se refiere el apartado 6 reconocerá también el derecho a la integración en el Cuerpo de Catedráticos y Catedráticas de Enseñanzas Artísticas Superiores de aquel profesorado perteneciente a los Cuerpos de Catedráticos de Música y Artes Escénicas y de Catedráticos de Artes Plásticas y Diseño que acredite haber obtenido el título de Doctor en los diez cursos siguientes al momento de entrada en vigor de esta ley.
 
-
 #### Disposición transitoria tercera. Integración del profesorado que haya impartido simultáneamente enseñanzas profesionales y enseñanzas superiores en el Cuerpo de Profesores y Profesoras de Enseñanzas Artísticas Superiores.
 
 El profesorado perteneciente al Cuerpo de Profesores de Artes Plásticas y Diseño y de Profesores de Música y Artes Escénicas que haya impartido durante cinco años simultáneamente enseñanzas profesionales y enseñanzas superiores a la entrada en vigor de esta ley podrá solicitar su integración en el Cuerpo de Profesores y Profesoras de Enseñanzas Artísticas Superiores en las mismas condiciones que el profesorado al que se refiere el apartado 2 de la disposición anterior.
-
 
 #### Disposición transitoria cuarta. Convocatoria de procesos selectivos.
 
 Hasta tanto se complete el desarrollo reglamentario de los nuevos cuerpos que se crean en esta ley, se habilita a las administraciones educativas competentes para que puedan continuar realizando procesos selectivos de ingreso y de acceso de funcionarios de carrera en los cuerpos actualmente existentes, de Catedráticos de Música y Artes Escénicas, de Profesores de Música y Artes Escénicas, de Catedráticos de Artes Plásticas y Diseño, y de Profesores de Artes Plásticas y Diseño, así como para el nombramiento de personal interino en esos cuerpos, con los requisitos que existían para cada uno de ellos.
 
-
 #### Disposición transitoria quinta. Aplicación de las normas reglamentarias.
 
 En las materias para cuya regulación esta ley remite a ulteriores disposiciones reglamentarias, y en tanto estas no sean dictadas, serán de aplicación, en cada caso, las normas de este rango que lo venían siendo a la fecha de entrada en vigor de esta ley, siempre que no se opongan a lo dispuesto en ella.
-
 
 #### Disposición transitoria sexta. Máster de especialización en investigación y didáctica.
 
 En tanto que no se establezcan las condiciones a las que deberán adecuarse los planes de estudios conducentes al título de Máster de especialización en investigación y didáctica al que se hace referencia en el artículo 53.1, y se actualice la reglamentación relativa a los requisitos de formación para el ejercicio de la docencia en las enseñanzas artísticas superiores, no será de aplicación la exigencia de dicho título. En la citada reglamentación se podrá prever asimismo la exención de la exigencia de este título para el profesorado que acredite la experiencia que se determine o que, antes del establecimiento de las condiciones conducentes al título de Máster de especialización en investigación y didáctica, hubiera obtenido un título de un Máster que capacite para la investigación educativa o propia de las enseñanzas artísticas, o estuviera en posesión del reconocimiento de suficiencia investigadora o de un certificado de diploma acreditativo de estudios avanzados.
 
-
 #### Disposición transitoria séptima. Denominaciones de centros anteriores a la entrada en vigor de esta ley.
 
 Los centros que, a la entrada en vigor de esta ley, estuvieran en funcionamiento bajo una denominación diferente a las que se establecen en los artículos 22 y 25 para los centros públicos y privados, respectivamente, podrán conservar dicha denominación siempre que acrediten que han estado haciendo públicamente uso de esta de manera continuada durante un período superior a veinte años.
 
-
 #### Disposición derogatoria única. Derogación normativa.
 
 Quedan derogadas todas aquellas disposiciones de igual o inferior rango que no tengan carácter orgánico y que se opongan a lo dispuesto en esta ley.
-
 
 #### Disposición final primera. Modificación de la Ley 53/1984, de 26 de diciembre, de Incompatibilidades del personal al servicio de las Administraciones Públicas.
 
@@ -1288,11 +1169,9 @@ Dos. Se añade un apartado 4 al artículo cuarto, que queda redactado como si
 
 Tres. Se añade una disposición transitoria décima, que queda redactada como sigue:
 
-
 #### «Disposición transitoria décima. Autorizaciones de compatibilidad concedidas a los Catedráticos y Profesores de Música y Artes Escénicas.
 
 Las autorizaciones de compatibilidad concedidas a los Catedráticos y Profesores de Música y Artes Escénicas que presten servicio en los Conservatorios Superiores de Música y en los Conservatorios Profesionales de Música se mantendrán vigentes siempre que no se produzcan modificaciones en ninguna de las actividades públicas declaradas compatibles.»
-
 
 #### Disposición final segunda. Modificación de la Ley Orgánica 2/2006, de 3 de mayo, de Educación.
 
@@ -1320,7 +1199,6 @@ Tres. Se modifica el apartado 2 del artículo 46, que queda redactado como s
 
 Cuatro. Se modifica el artículo 48, que queda redactado como sigue:
 
-
 #### «Artículo 48. Organización.
 
 1. Las enseñanzas elementales de música y de danza tendrán las características y organización que las administraciones educativas determinen.
@@ -1328,7 +1206,6 @@ Cuatro. Se modifica el artículo 48, que queda redactado como sigue:
 2. Las enseñanzas artísticas profesionales de música y de danza se organizarán en un grado de una duración mínima de seis cursos. Sin perjuicio de lo anterior, en el marco de la ordenación de estas enseñanzas se podrá contemplar la regulación de itinerarios académicos específicamente destinados a la obtención de un título de Técnico o de Técnico Superior, o de una acreditación oficial de las competencias profesionales que previamente se hubieran definido dentro de las correspondientes disciplinas artísticas.»
 
 Cinco. Se modifica el artículo 50, que queda redactado como sigue:
-
 
 #### «Artículo 50. Titulaciones.
 
@@ -1341,7 +1218,6 @@ Asimismo, podrán obtener el título de Bachiller en dicha modalidad quienes obt
 Seis. Se suprimen los artículos 54, 55, 56 y 57.
 
 Siete. Se modifica el artículo 58, que queda redactado como sigue:
-
 
 #### «Artículo 58. Regulación de las enseñanzas artísticas superiores.
 
@@ -1407,7 +1283,6 @@ Quienes accedan por este procedimiento estarán exentos de la realización de la
 
 No obstante lo dispuesto en el párrafo anterior, los aspirantes seleccionados que estén ocupando, con carácter definitivo en el ámbito de la Administración pública convocante, plazas del cuerpo y especialidad a las que acceden, podrán optar, en las condiciones que se establezcan en las respectivas convocatorias, por permanecer en las mismas.»
 
-
 #### Disposición final tercera. Modificación de la Ley Orgánica 3/2022, de 31 de marzo, de ordenación e integración de la Formación Profesional.
 
 La Ley Orgánica 3/2022, de 31 de marzo, de ordenación e integración de la Formación Profesional, se modifica en los siguientes términos:
@@ -1430,7 +1305,6 @@ Cuatro. Se modifica el apartado 1 del artículo 114 añadiendo tres nuevas l
 
 «d quater) La actualización de las ofertas formativas y el diseño de nuevas vinculadas al Catálogo Nacional de Estándares de Competencias Profesionales y su relación con cada uno de los estándares de competencia recogidos en este, así como la ordenación del carácter dual y sus exenciones.»
 
-
 #### Disposición final cuarta. Modificación de la Ley Orgánica 2/2023, de 22 de marzo, del Sistema Universitario.
 
 Uno. Se modifica el apartado 1 de la disposición transitoria primera, que queda con la siguiente redacción:
@@ -1438,7 +1312,6 @@ Uno. Se modifica el apartado 1 de la disposición transitoria primera, que qu
 «1. Las universidades públicas tendrán un plazo máximo de tres años, a contar desde la entrada en vigor de esta ley orgánica, para aprobar los nuevos Estatutos y constituir el nuevo Claustro y Consejo de Gobierno, de acuerdo con los preceptos de esta ley orgánica.»
 
 Dos. Se añade una nueva disposición transitoria novena bis con la siguiente redacción:
-
 
 #### «Disposición transitoria novena bis. Temporalidad en la implementación de las medidas relativas a la atracción de talento joven, rejuvenecimiento y estabilización de plantillas previstos en la presente Ley Orgánica 2/2023, de 22 de marzo, del Sistema Universitario.
 
@@ -1448,7 +1321,6 @@ Dos. Se añade una nueva disposición transitoria novena bis con la siguiente 
 
 3. Las universidades podrán modificar, con la decisión de sus respectivos órganos de gobierno y de negociación, los acuerdos que en materia laboral hubieran alcanzado a la vista de los plazos señalados para los procesos que hacen referencia a las disposiciones transitorias séptima y décima segunda en la presente Ley Orgánica 2/2023 con la finalidad de adecuarlos a los nuevos plazos que establece esta disposición transitoria novena bis.»
 
-
 #### Disposición final quinta. Título competencial.
 
 1. Esta ley, a excepción de las disposiciones finales primera, segunda y tercera, se dicta con carácter básico al amparo de las competencias que corresponden al Estado conforme al artículo 149.1.30.ª de la Constitución Española, sobre la regulación de las condiciones de obtención, expedición y homologación de títulos académicos y profesionales y normas básicas para el desarrollo del artículo 27 de la Constitución, a fin de garantizar el cumplimiento de las obligaciones de los poderes públicos en esta materia.
@@ -1457,35 +1329,27 @@ Dos. Se añade una nueva disposición transitoria novena bis con la siguiente 
 
 3. Los artículos 9, 11, 14, 26.1.d), 63, 64, 65, 67 y la disposición adicional octava, se dictan al amparo de la competencia exclusiva del Estado del artículo 149.1.30.ª de la Constitución, primer inciso, sobre la regulación de las condiciones de obtención, expedición y homologación de títulos académicos y profesionales.
 
-
 #### Disposición final sexta. Desarrollo de la presente ley.
 
 Las normas de esta ley podrán ser desarrolladas por las comunidades autónomas, a excepción de las relativas a aquellas materias cuya regulación se encomienda por la propia ley al Gobierno, o que corresponden a la competencia exclusiva del Estado de acuerdo con el artículo 149.1.30.ª de la Constitución Española.
-
 
 #### Disposición final séptima. Desarrollo reglamentario del régimen de convalidación y equivalencias de las enseñanzas profesionales artísticas.
 
 El Gobierno, previa consulta a los organismos competentes, aprobará el desarrollo reglamentario de lo dispuesto en los artículos 67 y 68 referentes al régimen de convalidación y equivalencias de las enseñanzas profesionales artísticas, el régimen de correspondencia con los itinerarios normativos y los estándares de competencia profesional, sin perjuicio de las competencias en este ámbito de las comunidades autónomas.
 
-
 #### Disposición final octava. Habilitación normativa.
 
 Corresponde al Gobierno y a las comunidades autónomas, en el ámbito de sus respectivas competencias, dictar las disposiciones necesarias para el desarrollo y aplicación de la presente ley.
-
 
 #### Disposición final novena. Calendario de implantación.
 
 El Gobierno, previa consulta a las comunidades autónomas, aprobará en un plazo máximo de un año desde su entrada en vigor el calendario de implantación de esta ley.
 
-
 #### Disposición final décima. Marco de financiación.
 
 Con la finalidad de hacer efectivas las previsiones contenidas en esta ley por parte de las Administraciones Educativas, la Administración General del Estado establecerá un marco de financiación adecuado y suficiente.
 
-
 #### Disposición final undécima. Entrada en vigor.
-
-La presente ley entrará en vigor a los veinte días de su publicación en el «Boletín Oficial del Estado».
 
 Por tanto,
 

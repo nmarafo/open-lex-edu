@@ -47,18 +47,15 @@ En el proceso de elaboración de este real decreto han sido consultadas las Comu
 
 En su virtud, a propuesta de la Ministra de Educación y Ciencia, de acuerdo con el Consejo de Estado y previa deliberación del Consejo de Ministros en su reunión del día 4 de mayo de 2007,
 
-
 **DISPONGO:**
 
 CAPÍTULO I
 
 Las enseñanzas profesionales de artes plásticas y diseño: Definición, finalidad y objetivos
 
-
 #### Artículo 1. Definición.
 
 Las enseñanzas profesionales de artes plásticas y diseño del sistema educativo comprenden el conjunto de acciones formativas que capacitan para el desempeño cualificado de las diversas profesiones relacionadas con el ámbito del diseño, las artes aplicadas y los oficios artísticos, el acceso al empleo y la participación activa en la vida social, cultural y económica, así como para la actualización y ampliación de las competencias profesionales y personales a lo largo de la vida.
-
 
 #### Artículo 2. Finalidad de las enseñanzas profesionales de artes plásticas y diseño.
 
@@ -69,7 +66,6 @@ a) Proporcionar la formación artística, técnica y tecnológica, adecuada para
 b) Facilitar información acerca de los aspectos organizativos, económicos, jurídicos y de seguridad que inciden en el ejercicio profesional, en las relaciones laborales y en el ámbito empresarial del sector profesional correspondiente.
 
 c) Capacitar para el acceso al empleo, ya sea como profesional autónomo o asalariado, y fomentar el espíritu emprendedor y la formación a lo largo de la vida.
-
 
 #### Artículo 3. Objetivos de las enseñanzas profesionales de artes plásticas y diseño.
 
@@ -93,13 +89,11 @@ CAPÍTULO II
 
 Ordenación de las enseñanzas profesionales de artes plásticas y diseño: Títulos y ciclos formativos
 
-
 #### Artículo 4. Títulos de las enseñanzas profesionales de artes plásticas y diseño.
 
 1. Los títulos de las enseñanzas profesionales de artes plásticas y diseño en el sistema educativo son los de Técnico y Técnico Superior de Artes Plásticas y Diseño, de conformidad con lo dispuesto en el artículo 53 de la Ley Orgánica 2/2006, de 3 de mayo, de Educación.
 
 2. Los títulos de Técnico y Técnico Superior de Artes Plásticas y Diseño constituyen un documento de carácter oficial y validez académica y profesional en todo el territorio nacional, que acredita el nivel de formación, la cualificación y la competencia profesional específica de la especialidad artística correspondiente.
-
 
 #### Artículo 5. Estructura de los títulos de las enseñanzas profesionales de artes plásticas y diseño.
 
@@ -121,7 +115,6 @@ g) Convalidaciones y exenciones.
 
 h) Accesos a estudios superiores desde los ciclos formativos de grado superior.
 
-
 #### Artículo 6. Ciclos formativos de artes plásticas y diseño.
 
 1. Las enseñanzas profesionales de artes plásticas y diseño conducentes a los títulos de Técnico y de Técnico Superior de Artes Plásticas y Diseño se ordenarán en ciclos formativos de grado medio y de grado superior, respectivamente, agrupados en familias profesionales artísticas.
@@ -133,7 +126,6 @@ h) Accesos a estudios superiores desde los ciclos formativos de grado superior.
 CAPÍTULO III
 
 Enseñanzas mínimas
-
 
 #### Artículo 7. Establecimiento de las enseñanzas mínimas.
 
@@ -153,7 +145,6 @@ f) Los objetivos de cada módulo y de la fase de formación práctica en empresa
 
 g) La carga lectiva de cada módulo y de la fase de formación práctica en empresas, estudios y talleres, expresada en horas de duración mínima y su equivalencia en créditos, entendiendo que diez horas lectivas equivalen a un crédito de formación.
 
-
 #### Artículo 8. Módulo de obra final y módulo de proyecto integrado.
 
 1. Las enseñanzas profesionales de artes plásticas y diseño incorporarán en el grado medio un módulo de obra final y, en el grado superior, un módulo de proyecto integrado, cuya superación será necesaria para la obtención del título correspondiente.
@@ -164,7 +155,6 @@ g) La carga lectiva de cada módulo y de la fase de formación práctica en empr
 
 4. El módulo de proyecto integrado en los ciclos formativos de grado superior tiene por objeto que los alumnos y alumnas sean capaces de integrar, aplicar y valorar los conocimientos, destrezas y capacidades específicos del campo profesional de la especialidad a través de la formulación y realización de un proyecto, adecuado al nivel académico cursado, que evidencie rigor técnico, cultura plástica, expresión artística y sensibilidad estética y posibilidad de realización y viabilidad.
 
-
 #### Artículo 9. Fase de formación práctica en empresas, estudios y talleres.
 
 1. Todos los ciclos formativos de artes plásticas y diseño incluirán prácticas formativas en empresas, estudios, talleres u otras entidades. Dicha fase de formación práctica, en situación real de trabajo, no tendrá carácter laboral y formará parte del currículo del ciclo formativo correspondiente.
@@ -173,16 +163,13 @@ g) La carga lectiva de cada módulo y de la fase de formación práctica en empr
 
 3. Las Administraciones educativas, de acuerdo con las disponibilidades organizativas, determinarán el momento de la realización y evaluación de la fase de formación práctica en función de las características propias de cada ciclo formativo.
 
-
 #### Artículo 10. Módulo de formación y orientación laboral.
 
 Los ciclos formativos incluirán un módulo específico dirigido a conocer los aspectos organizativos, económicos y de legislación básica que inciden en el ejercicio profesional, en las relaciones laborales y en el ámbito empresarial del sector profesional correspondiente, así como las oportunidades de aprendizaje, de formación continuada, de acceso al empleo y a la reinserción laboral. Asimismo este módulo fomentará el espíritu emprendedor, el desarrollo de actividades empresariales y el trabajo por cuenta propia.
 
-
 #### Artículo 11. Prevención de riesgos laborales y protección medioambiental.
 
 Los ciclos formativos incorporarán en sus enseñanzas aquellos contenidos que se consideren necesarios para una eficaz prevención de los riesgos laborales derivados del ejercicio profesional correspondiente, así como aquellos contenidos vinculados a la protección medioambiental, y al tratamiento, aprovechamiento y eliminación de residuos derivados de la actividad profesional correspondiente.
-
 
 #### Artículo 12. Accesibilidad universal.
 
@@ -191,7 +178,6 @@ El Gobierno y las Administraciones educativas, en el ámbito de sus respectivas 
 CAPÍTULO IV
 
 Currículo de los ciclos formativos
-
 
 #### Artículo 13. Establecimiento del currículo de los ciclos formativos.
 
@@ -205,7 +191,6 @@ CAPÍTULO V
 
 Acceso y admisión
 
-
 #### Artículo 14. Requisitos de acceso a las enseñanzas de profesionales de artes plásticas y diseño.
 
 1. Conforme al artículo 52.1 de la Ley Orgánica 2/2006, de 3 de mayo, de Educación, para acceder al grado medio de las enseñanzas profesionales de artes plásticas y diseño será necesario estar en posesión del título de Graduado en Educación Secundaria Obligatoria, o título declarado equivalente.
@@ -215,7 +200,6 @@ Acceso y admisión
 3. Asimismo, para acceder al grado medio y al grado superior de las enseñanzas profesionales de artes plásticas y diseño, además de los requisitos académicos recogidos en los apartados anteriores, se deberá superar una prueba específica que permita demostrar las aptitudes y los conocimientos artísticos necesarios para cursar con aprovechamiento las enseñanzas de que se trate.
 
 4. Las Administraciones Educativas regularán las pruebas mencionadas en los apartados anteriores.
-
 
 #### Artículo 15. Exenciones de la prueba específica de acceso a los grados medio y superior de las enseñanzas profesionales de artes plásticas y diseño.
 
@@ -247,7 +231,6 @@ f) Ingeniería Técnica en Diseño Industrial.
 
 Certificación de la empresa donde haya adquirido la experiencia laboral, en la que conste específicamente la duración del contrato, la actividad desarrollada y el periodo de tiempo en el que se ha realizado dicha actividad. En el caso de trabajadores por cuenta propia, certificación de alta en el censo de obligados tributarios.
 
-
 #### Artículo 16. Acceso sin requisitos académicos al grado medio y superior de las enseñanzas profesionales de artes plásticas y diseño.
 
 1. Conforme al artículo 52.3 de la Ley Orgánica 2/2006, de 3 de mayo, de Educación, podrán acceder al grado medio de las enseñanzas profesionales de artes plásticas y diseño, sin estar en posesión de los requisitos académicos de acceso, quienes acrediten, mediante la superación de una prueba de acceso, poseer los conocimientos y habilidades suficientes para cursar con aprovechamiento dichas enseñanzas, además de las aptitudes necesarias a las que se refiere el artículo 14.3 del presente real decreto, y tengan como mínimo diecisiete años cumplidos en el año de realización de la prueba.
@@ -264,7 +247,6 @@ b) La parte específica, que permitirá valorar las aptitudes y los conocimiento
 
 5. Asimismo, podrán quedar exentos de la parte general de la prueba quienes hayan superado la prueba de acceso a la universidad para mayores de 25 años.
 
-
 #### Artículo 17. Regulación y validez de las pruebas de acceso.
 
 1. La organización, estructura, contenidos y criterios de evaluación de las pruebas de acceso a que se refieren los artículos anteriores, serán determinados por cada Administración educativa, facilitando la accesibilidad al alumnado con discapacidad que lo requiera.
@@ -275,7 +257,6 @@ b) La parte específica, que permitirá valorar las aptitudes y los conocimiento
 
 4. Las superación de la parte general de la prueba regulada en el apartado a) del artículo 16.3 del presente real decreto tendrá validez para posteriores convocatorias.
 
-
 #### Artículo 18. Reserva de plazas.
 
 Las Administraciones educativas podrán establecer, en el ámbito de sus competencias, un porcentaje de plazas de reserva para quienes accedan a las enseñanzas profesionales de artes plásticas y diseño en los supuestos recogidos en los artículos 15 y 16 del presente real decreto.
@@ -283,7 +264,6 @@ Las Administraciones educativas podrán establecer, en el ámbito de sus compete
 CAPÍTULO VI
 
 Evaluación y movilidad
-
 
 #### Artículo 19. Evaluación y promoción en las enseñanzas profesionales de artes plásticas y diseño.
 
@@ -307,7 +287,6 @@ Evaluación y movilidad
 
 10. A los efectos del cálculo de la nota media final no será computada la fase de formación práctica en empresas, estudios y talleres, ya que su calificación se formula en términos de «Apto/No apto», ni aquellos módulos que hubieran sido objeto de convalidación y/o exención por su correspondencia con la práctica laboral.
 
-
 #### Artículo 20. Documentos básicos de evaluación y movilidad de las enseñanzas profesionales de artes plásticas y diseño.
 
 1. Los documentos básicos de evaluación de las enseñanzas profesionales de artes plásticas y diseño son: el expediente académico personal, que se acredita con la certificación académica personal, las actas de evaluación y los informes de evaluación individualizados.
@@ -322,7 +301,6 @@ Evaluación y movilidad
 
 6. Cuando el alumno se traslade de centro, se consignará en un informe de evaluación individualizado toda aquella información que resulte necesaria para la continuidad del proceso de aprendizaje.
 
-
 #### Artículo 21. Procedimiento para la movilidad.
 
 1. Cuando un alumno solicite el traslado de expediente académico a fin de continuar los estudios iniciados en un centro perteneciente a otra Administración educativa, la Administración educativa receptora, una vez aceptado el mismo, procederá a la correspondiente adaptación a fin de que el alumno se incorpore al curso que le corresponda. A tal efecto, aquellos módulos aprobados en su totalidad que, según el criterio de dicha Administración educativa, sean similares en contenidos y carga lectiva a los establecidos en su plan de estudios, serán reconocidos de forma automática como adaptados, pudiendo prever, para otros casos, la superación de complementos de formación que se consideren convenientes.
@@ -332,7 +310,6 @@ Evaluación y movilidad
 CAPÍTULO VII
 
 Efectos de los títulos
-
 
 #### Artículo 22. Efectos de los títulos.
 
@@ -352,7 +329,6 @@ CAPÍTULO VIII
 
 Convalidaciones y exenciones
 
-
 #### Artículo 23. Convalidación de módulos formativos.
 
 1. Serán objeto de convalidación los módulos formativos comunes a varios ciclos formativos de artes plásticas y diseño, siempre que tengan igual denominación, duración, objetivos, contenidos y criterios de evaluación, de acuerdo con lo establecido por la norma que regule cada título.
@@ -363,7 +339,6 @@ Convalidaciones y exenciones
 
 4. Los módulos que sean objeto de convalidación figurarán en el expediente académico del alumno con la expresión de «Convalidado».
 
-
 #### Artículo 24. Exención de módulos formativos y de la fase de formación práctica por su correspondencia con la experiencia laboral.
 
 1. Podrá determinarse la exención de módulos formativos y de la fase de formación práctica en empresas, estudios y talleres, por su correspondencia con la práctica laboral, siempre que se acredite, al menos, un año de experiencia relacionada con los conocimientos, capacidades y destrezas, y en su caso unidades de competencia, propias de los módulos y/o del ejercicio profesional específico del ciclo formativo correspondiente, de acuerdo con lo establecido en la norma que regule cada título.
@@ -372,41 +347,33 @@ Convalidaciones y exenciones
 
 3. Los módulos formativos y la fase de formación práctica que sean objeto de exención por su correspondencia con la práctica laboral figurarán en el expediente académico del alumno con la expresión de «Exento».
 
-
 #### Artículo 25. Convalidaciones de módulos formativos de ciclos formativos de grado medio con materias de bachillerato.
 
 Las convalidaciones de módulos formativos pertenecientes a los ciclos formativos de grado medio con materias de bachillerato se establecerán en la norma que regule cada título.
-
 
 #### Artículo 26. Convalidaciones entre las enseñanzas profesionales de Artes Plásticas y Diseño y las enseñanzas de Formación Profesional y otras enseñanzas de régimen especial.
 
 El Gobierno, previa consulta a las Comunidades Autónomas, podrá establecer mediante norma las convalidaciones entre enseñanzas profesionales de Artes Plásticas y Diseño y las enseñanzas de formación Profesional y otras enseñanzas de régimen especial.
 
-
 #### Artículo 27. Convalidaciones entre módulos formativos de grado superior y enseñanzas superiores no universitarias.
 
 El Gobierno, oído el Consejo Superior de Enseñanzas Artísticas, regulará las convalidaciones que pudieran establecerse entre las enseñanzas profesionales de artes plásticas y diseño de grado superior y las enseñanzas artísticas superiores de Diseño, de Artes Plásticas y de Conservación y Restauración de Bienes Culturales.
-
 
 #### Artículo 28. Convalidaciones entre módulos formativos de grado superior y enseñanzas universitarias.
 
 El Gobierno, oídos el Consejo de Coordinación Universitaria y el Consejo Superior de Enseñanzas Artísticas, regulará las convalidaciones que pudieran establecerse entre las enseñanzas profesionales de artes plásticas y diseño de grado superior y las enseñanzas universitarias.
 
-
 #### Disposición adicional primera. Medidas en materia de igualdad de oportunidades, no discriminación y accesibilidad universal.
 
 Las Administraciones educativas establecerán las medidas oportunas que garanticen el cumplimiento de lo establecido en la Ley 51/2003, de 2 de diciembre, de igualdad de oportunidades, no discriminación y accesibilidad universal de las personas con discapacidades, a fin de facilitar al alumnado los medios y recursos que se precisen para acceder y cursar las enseñanzas artísticas profesionales de artes plásticas y diseño.
-
 
 #### Disposición adicional segunda. Acreditación de condiciones de acceso del alumnado a determinadas enseñanzas artísticas profesionales.
 
 Para aquellas enseñanzas profesionales de artes plásticas y diseño que se determinen, conducentes a titulaciones que en su ejercicio profesional requieran determinados conocimientos y capacidades propios del ámbito artístico de la música, las Administraciones educativas podrán requerir la aportación de la documentación justificativa necesaria, cuando así se indique en la norma por la que se establecen dichos títulos.
 
-
 #### Disposición adicional tercera. Cursos de especialización.
 
 Con el fin de promover la formación a lo largo de la vida, las Administraciones educativas podrán organizar y desarrollar cursos de especialización vinculados a las enseñanzas profesionales de artes plásticas y diseño, que podrán ser objeto de una certificación acreditativa de la formación adquirida en la que se indique la superación del curso y el número de horas de duración, así como su equivalencia en créditos. Dicha certificación podrá tener, en su caso, valor en el Sistema Nacional de Cualificaciones y Formación Profesional.
-
 
 #### Disposición adicional cuarta. Otras titulaciones equivalentes a efectos de acceso.
 
@@ -434,11 +401,9 @@ d) Haber superado otros estudios declarados equivalentes a efectos académicos c
 
 e) Estar en posesión de una titulación universitaria o equivalente.
 
-
 #### Disposición adicional quinta. Revisión y actualización de los títulos.
 
 Periódicamente, el Gobierno procederá a la revisión y, en su caso, actualización de los títulos de las enseñanzas profesionales de Artes Plásticas y Diseño, previa consulta a las Comunidades Autónomas.
-
 
 #### Disposición derogatoria única. Derogación normativa.
 
@@ -446,20 +411,15 @@ Queda derogada la Orden de 16 de febrero de 1996, por la que se establecen los e
 
 Igualmente quedan derogadas cuantas disposiciones de igual o inferior rango se opongan a lo dispuesto en este real decreto.
 
-
 #### Disposición final primera. Equivalencia entre los actuales títulos de Técnico y Técnico superior de Artes Plásticas y Diseño y las nuevas titulaciones.
 
 El Gobierno, previa consulta a las Comunidades Autónomas, determinará las equivalencias entre los diferentes títulos de Técnico y Técnico superior de Artes Plásticas y Diseño vigentes y los que se establezcan al amparo de Ley Orgánica 2/2006, de 3 de mayo, de Educación.
-
 
 #### Disposición final segunda. Título competencial.
 
 Este real decreto tiene carácter de norma básica y es de aplicación en todo el territorio nacional y se dicta en virtud de las competencias que atribuye al Estado el artículo 149.1.1.ª y 30.ª de la Constitución y al amparo de la disposición final sexta de la Ley Orgánica 2/2006, de 3 de mayo, de Educación.
 
-
 #### Disposición final tercera. Entrada en vigor.
-
-El presente real decreto entrará en vigor el día siguiente al de su publicación en el «Boletín Oficial del Estado».
 
 Dado en Madrid, el 4 de mayo de 2007.
 

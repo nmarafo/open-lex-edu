@@ -31,9 +31,6 @@ fuente_pdf_oficial: https://sede.gobiernodecanarias.org/boc/boc-a-2026-100-1759.
 
 # Extracto de la Resolución de 30 de abril de 2026, por la que se establece el calendario, las instrucciones complementarias del procedimiento de admisión del alumnado comensal y los criterios de concesión de las subvenciones, y por la que se autoriza la oferta de plazas de comensales en los centros docentes públicos no universitarios para el curso escolar 2026-2027.
 
-https://sede.gobiernodecanarias.org/boc
-boc-a-2026-100-1759
-Boletín Oficial de Canarias núm. 100 Martes 26 de mayo de 202619769
 V . Anuncios
 Otros anuncios
 Consejería de Educación, Formación Profesional, Actividad Física y Deportes
@@ -72,9 +69,6 @@ de 24 de abril de 2009.
 escolar 2026-2027 en los centros docentes públicos no universitarios dependientes de la 
 Consejería de Educación, Formación Profesional, Actividad Física y Deportes. 
 
-https://sede.gobiernodecanarias.org/boc
-boc-a-2026-100-1759
-Boletín Oficial de Canarias núm. 100 Martes 26 de mayo de 202619770
 Tercero.- Bases reguladoras. 
 Orden de la Consejería de Educación, Universidades, Cultura y Deportes de 24 de abril 
 de 2009, por la que se establece el procedimiento de obtención de plazas y se aprueban las 

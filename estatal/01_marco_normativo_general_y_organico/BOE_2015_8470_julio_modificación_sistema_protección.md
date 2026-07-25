@@ -36,9 +36,7 @@ fundamentos_derecho:
 
 # Ley 26/2015, de 28 de julio, de modificación del sistema de protección a la infancia y a la adolescencia.
 
-
 **FELIPE VI**
-
 
 **REY DE ESPAÑA**
 
@@ -46,9 +44,7 @@ A todos los que la presente vieren y entendieren.
 
 Sabed: Que las Cortes Generales han aprobado y Yo vengo en sancionar la siguiente ley.
 
-
 ## PREÁMBULO
-
 
 **I**
 
@@ -67,7 +63,6 @@ De acuerdo con todo ello, la presente ley tiene como objeto introducir los cambi
 La reforma consta de cuatro artículos, veintiuna disposiciones finales, además de siete disposiciones adicionales, cinco disposiciones transitorias y una disposición derogatoria. En el artículo primero se recogen las modificaciones de la Ley Orgánica, de Protección Jurídica del Menor; en el segundo las que afectan al código Civil; en el tercero las correspondientes a la Ley 54/2007, de 28 de diciembre, de Adopción Internacional, en adelante Ley de Adopción Internacional; en el cuarto las relativas a la Ley 1/2000, de 7 de enero, de Enjuiciamiento Civil, en lo sucesivo Ley de Enjuiciamiento Civil; en la disposición final primera las que afectan a la Ley 29/1998, de 13 de julio, reguladora de la Jurisdicción Contencioso-administrativa, en adelante, Ley de Jurisdicción Contencioso-administrativa; en la disposición final segunda las relativas a la Ley 41/2002, de 14 de noviembre, básica reguladora de la autonomía del paciente y de derechos y obligaciones en materia de información y documentación clínica, en adelante Ley de la Autonomía del Paciente; en la disposición final tercera la relativa al Real Decreto Legislativo 1/1995, de 24 de marzo, por el que se aprueba el texto refundido de la Ley del Estatuto de los Trabajadores; en la disposición final cuarta la que afecta a la Ley 7/2007, de 12 de abril, del Estatuto Básico del Empleado Público; en la disposición final quinta las que afectan a la Ley 40/2003, de 18 de noviembre, de Protección a las Familias Numerosas; en las disposiciones finales sexta y séptima, las relativas a la Ley Orgánica 2/2006, de 3 de mayo, de Educación, y a la Ley Orgánica 8/2013, de 9 de diciembre, para la Mejora de la Calidad Educativa; en la disposición final octava las correspondientes a la Ley 43/2006, de 29 de diciembre, para la mejora del crecimiento y del empleo; en la disposición final novena, la que afecta a la Ley 39/2006, de 14 de diciembre, de promoción de la autonomía personal y atención a las personas en situación de dependencia; en las disposiciones finales décima a decimocuarta las que afectan a la modificación del texto refundido de la Ley General de la Seguridad Social, aprobado por el Real Decreto Legislativo 1/1994, de 20 de junio, a la Ley de Enjuiciamiento Criminal, a la Ley 35/2011, de 10 de octubre, reguladora de la Jurisdicción Social, y al texto refundido de la Ley de Clases Pasivas del Estado, aprobado por el Real Decreto Legislativo 670/1987, de 30 de abril. Las siete últimas disposiciones finales se refieren al título competencial, habilitación normativa a las Ciudades de Ceuta y Melilla y al Gobierno en general, a la creación del registro central de delincuentes sexuales, a las modificaciones y desarrollos reglamentarios, a la incorporación de normativa europea, al no incremento del gasto presupuestario y a la entrada en vigor.
 
 En la disposición adicional primera, se recoge la referencia a la utilización en los textos legales de la expresión «Entidad Pública» en relación a la Entidad Pública de protección de menores competente territorialmente; en la disposición adicional segunda, las referencias al acogimiento preadoptivo, al acogimiento simple y a las Entidades Colaboradoras de Adopción Internacional; la disposición adicional tercera habilita al Gobierno a promover, con las Comunidades Autónomas, el establecimiento de criterios comunes y mínimos estándares de cobertura, calidad y accesibilidad en la aplicación de la presente ley; la disposición adicional cuarta establece el régimen jurídico de los centros específicos de protección de menores con problemas de conducta de entidades privadas colaboradoras de las entidades públicas competentes; la disposición adicional quinta establece un mecanismo interterritorial de asignaciones de familias para acogimiento, o, en su caso, adopción; y la disposición adicional sexta establece una equiparación de regímenes jurídicos de acogimiento previstos en la presente ley con relación a las normas existentes con anterioridad a la misma y a las legislaciones correspondientes de las Comunidades Autónomas. Las dos primeras disposiciones transitorias establecen la normativa aplicable a los procedimientos judiciales ya iniciados a la fecha de su entrada en vigor, así como al cese de los acogimientos constituidos judicialmente.
-
 
 **II**
 
@@ -127,7 +122,6 @@ El artículo 22 ter establece la creación de un sistema de información estatal
 
 Finalmente, los artículos 23 y 24 sufren reformas terminológicas.
 
-
 **III**
 
 Las principales modificaciones del código Civil están referidas al sistema español de protección de menores y, por tanto, se encuentran en estrecha relación con las ya señaladas en el apartado anterior. No obstante, se modifican también otros aspectos relacionados con esta materia.
@@ -182,7 +176,6 @@ Se introducen las oportunas modificaciones en la regulación de la tutela ordina
 
 Finalmente, se da una nueva redacción a los artículos 1263 y 1264 en relación a la prestación del consentimiento de los menores en determinados ámbitos.
 
-
 **IV**
 
 Las modificaciones que se proponen a la Ley de Adopción Internacional responden a varias necesidades. Por una parte, se clarifica el ámbito de aplicación de la ley que, en su redacción inicial, solo aludía al contenido de los títulos II y III, obviando el título I, y se define el concepto de adopción internacional a los efectos de la misma como lo hace el Convenio de La Haya de 1993, toda vez que con la definición que aparecía en el apartado 2 del artículo 1, las previsiones del título I no eran aplicables a muchos de los casos de adopciones internacionales sin desplazamiento internacional de los menores, habiéndose generado confusión en situaciones concretas.
@@ -203,7 +196,6 @@ Finalmente, se modifica el artículo 24 para regular la cooperación internacion
 
 Por último, y en relación con las otras medidas de protección de menores, se introduce la oportuna referencia a dos Reglamentos comunitarios y un Convenio de La Haya esenciales en esta materia, y se mejora el sistema de reconocimiento en España de estas medidas, de forma similar a la prevista en el Derecho francés, que ha sido recientemente avalado por el Tribunal Europeo de Derechos Humanos en el caso «Harroudj c. Francia», de 4 de enero de 2013.
 
-
 **V**
 
 Se modifica la Ley de Enjuiciamiento Civil a fin de reforzar la tutela judicial efectiva en defensa de los derechos e intereses de los menores, introduciendo mejoras en los procedimientos ya existentes, orientadas a hacerlos más efectivos y aclarando puntos que en la práctica han generado interpretaciones contradictorias.
@@ -221,7 +213,6 @@ Por otra parte, en los artículos 779 y 780, además de incluir las adaptaciones
 Se establece un mismo procedimiento para la oposición a todas las resoluciones administrativas, con independencia de su contenido o de las personas afectadas, ampliándose la legitimación activa.
 
 Y, finalmente, con la reforma del artículo 781 se concentran en un solo procedimiento los supuestos en los que durante la tramitación del expediente de adopción los progenitores del adoptando pretendieran que se les reconociera la necesidad de otorgar su asentimiento a la adopción, con la finalidad de dar unidad de actuación a tales pretensiones, lo que repercutirá en una agilización del procedimiento.
-
 
 **VI**
 
@@ -251,16 +242,13 @@ Más específicamente, la nueva normativa impide el acceso a las citadas prestac
 
 Se completa así un nuevo entorno normativo que mejora el anteriormente existente y supone un paso adicional de gran importancia desde la perspectiva de los mecanismos de protección social dentro de un ámbito especialmente sensible y en el que ha de contarse con iniciativas y actuaciones desde las diferentes áreas para garantizar un marco de protección integral.
 
-
 #### Artículo primero. Modificación de la Ley Orgánica 1/1996, de 15 de enero, de Protección Jurídica del Menor, de modificación parcial del código Civil y de la Ley de Enjuiciamiento Civil.
 
 La Ley Orgánica 1/1996, de 15 de enero, de Protección Jurídica del Menor, de modificación parcial del código Civil y de la Ley de Enjuiciamiento Civil, queda modificada en los siguientes términos:
 
 Uno. Se modifica la rúbrica del título I, que queda redactada como sigue:
 
-
 **«TÍTULO I**
-
 
 **De los derechos y deberes de los menores»**
 
@@ -290,20 +278,17 @@ Cuatro. Se introduce un nuevo capítulo III en el título I, con la redacción s
 
 Deberes del menor
 
-
 #### Artículo 9 bis. Deberes de los menores.
 
 1. Los menores, de acuerdo a su edad y madurez, deberán asumir y cumplir los deberes, obligaciones y responsabilidades inherentes o consecuentes a la titularidad y al ejercicio de los derechos que tienen reconocidos en todos los ámbitos de la vida, tanto familiar, escolar como social.
 
 2. Los poderes públicos promoverán la realización de acciones dirigidas a fomentar el conocimiento y cumplimiento de los deberes y responsabilidades de los menores en condiciones de igualdad, no discriminación y accesibilidad universal.
 
-
 #### Artículo 9 ter. Deberes relativos al ámbito familiar.
 
 1. Los menores deben participar en la vida familiar respetando a sus progenitores y hermanos así como a otros familiares.
 
 2. Los menores deben participar y corresponsabilizarse en el cuidado del hogar y en la realización de las tareas domésticas de acuerdo con su edad, con su nivel de autonomía personal y capacidad, y con independencia de su sexo.
-
 
 #### Artículo 9 quáter. Deberes relativos al ámbito escolar.
 
@@ -312,7 +297,6 @@ Deberes del menor
 2. Los menores tienen que respetar a los profesores y otros empleados de los centros escolares, así como al resto de sus compañeros, evitando situaciones de conflicto y acoso escolar en cualquiera de sus formas, incluyendo el ciberacoso.
 
 3. A través del sistema educativo se implantará el conocimiento que los menores deben tener de sus derechos y deberes como ciudadanos, incluyendo entre los mismos aquellos que se generen como consecuencia de la utilización en el entorno docente de las Tecnologías de la Información y Comunicación.
-
 
 #### Artículo 9 quinquies. Deberes relativos al ámbito social.
 
@@ -764,7 +748,6 @@ Veintitrés. Se modifica el artículo 24 que queda redactado como sigue:
 
 La adopción nacional e internacional se ajustará a lo establecido por la legislación civil aplicable.»
 
-
 #### Artículo segundo. Modificación del código Civil.
 
 El código Civil queda modificado en los siguientes términos:
@@ -1201,7 +1184,6 @@ Treinta. Se modifica el artículo 1264, que queda redactado como sigue:
 
 Lo previsto en el artículo anterior se entiende sin perjuicio de las prohibiciones legales o de los requisitos especiales de capacidad que las leyes puedan establecer.»
 
-
 #### Artículo tercero. Modificación de la Ley 54/2007, de 28 de diciembre, de Adopción Internacional.
 
 La Ley 54/2007, de 28 de diciembre, de Adopción Internacional, queda modificada en los siguientes términos:
@@ -1564,7 +1546,6 @@ No obstante lo establecido en la regla anterior, en el caso de que la instituci�
 
 2. La autoridad pública española ante la que se suscite la cuestión de la validez de una medida de protección constituida por autoridad extranjera y, en especial, el Encargado del Registro Civil en el que se inste la anotación de la medida de protección constituida en el extranjero para su reconocimiento en España, controlará, incidentalmente, la validez de dicha medida en España con arreglo a este artículo.»
 
-
 #### Artículo cuarto. Modificación de la Ley 1/2000, de 7 de enero, de Enjuiciamiento Civil.
 
 La Ley 1/2000, de 7 de enero, de Enjuiciamiento Civil, queda modificada en los siguientes términos:
@@ -1623,16 +1604,13 @@ El auto que ponga fin al procedimiento será susceptible de recurso de apelació
 
 El testimonio de la resolución firme en la que se acuerde la adopción se remitirá al Registro Civil, para que se practique su inscripción.»
 
-
 #### Disposición adicional primera. Utilización de la expresión «Entidad Pública».
 
 Se utilizará en los textos legales la expresión «Entidad Pública» referida a la Entidad Pública de protección de menores competente territorialmente.
 
-
 #### Disposición adicional segunda. Referencias al acogimiento preadoptivo y al acogimiento simple y a las Entidades Colaboradoras de Adopción Internacional.
 
 Todas las referencias que en las leyes y demás disposiciones se realizasen al acogimiento preadoptivo deberán entenderse hechas a la delegación de guarda para la convivencia preadoptiva prevista en el artículo 176 bis del código Civil. Las que se realizasen al acogimiento simple deberán entenderse hechas al acogimiento familiar temporal previsto en el artículo 173 bis del código Civil; y cuando lo fueran a las Entidades colaboradoras de adopción internacional se entenderán hechas a los organismos acreditados para la adopción internacional.
-
 
 #### Disposición adicional tercera. Criterios comunes de cobertura, calidad y accesibilidad.
 
@@ -1650,38 +1628,31 @@ El Gobierno promoverá con las Comunidades Autónomas el establecimiento de crit
 
 6. Atención integral a jóvenes ex tutelados: formación en habilidades y competencias para favorecer su madurez y propiciar su autonomía personal y social al cumplir los 18 años de edad; garantía de ingresos suficientes para subsistir; alojamiento; formación para el empleo, que facilite o priorice su participación en ofertas de empleo como medida de discriminación.
 
-
 #### Disposición adicional cuarta. Régimen jurídico de los centros específicos de protección de menores con problemas de conducta de entidades privadas colaboradoras de las entidades públicas competentes.
 
 A los centros de protección específicos de menores con problemas de conducta de las entidades privadas colaboradoras de las entidades públicas competentes donde estén previstas la utilización de medidas de seguridad y de restricción de libertades o derechos fundamentales les será de aplicación lo previsto en el título II, capítulo IV de la Ley Orgánica de Protección Jurídica del Menor.
 
 Estos centros privados deberán contar con la autorización administrativa para su funcionamiento emitida por la Entidad Pública competente en materia de protección a las personas menores de edad, y sujetos a su régimen de inspección y, en su caso, sanción administrativa.
 
-
 #### Disposición adicional quinta. Mecanismo interterritorial de asignaciones.
 
 Las Administraciones Públicas realizarán las actuaciones necesarias para establecer un mecanismo eficaz que permita la asignación a familias adecuadas de aquellos menores con un perfil determinado en cuya Comunidad Autónoma no existan ofrecimientos de familias para acogimientos o, en su caso, adopciones.
-
 
 #### Disposición adicional sexta. Equiparación de regímenes jurídicos en materia de acogimiento.
 
 A los efectos de las normas y leyes existentes con anterioridad a la presente ley y de las legislaciones correspondientes de las Comunidades Autónomas con código Civil propio o con leyes civiles que lo regulen, se equipara la situación de acogimiento familiar temporal con acogimiento familiar simple, y la situación de guarda con fines de adopción con el acogimiento preadoptivo.
 
-
 #### Disposición adicional séptima. Planes específicos de protección para los menores.
 
 Las Administraciones Públicas, en el ámbito de sus respectivas competencias, deberán aprobar planes específicos de protección para los menores de seis años en los que se recojan medidas concretas de fomento del acogimiento familiar de los mismos.
-
 
 #### Disposición transitoria primera. Normativa aplicable a los procedimientos judiciales ya iniciados.
 
 Los procedimientos y expedientes judiciales iniciados con anterioridad a la entrada en vigor de esta ley y que se encontraren en tramitación se continuarán tramitando conforme a la legislación procesal vigente en el momento del inicio del procedimiento o expediente judicial.
 
-
 #### Disposición transitoria segunda. Cese de los acogimientos constituidos judicialmente.
 
 Los acogimientos constituidos judicialmente con anterioridad a la entrada en vigor de esta ley podrán cesar por resolución de la Entidad Pública sin necesidad de resolución judicial.
-
 
 #### Disposición transitoria tercera. Normativa aplicable a los expedientes de adopción internacional ya iniciados; y vigencia de la acreditación de los organismos acreditados.
 
@@ -1689,23 +1660,19 @@ Los acogimientos constituidos judicialmente con anterioridad a la entrada en vig
 
 2. Los organismos acreditados para intermediar en la adopción internacional que tengan la acreditación en la fecha de entrada en vigor de esta ley, la mantendrán vigente hasta su caducidad o en tanto se produce una nueva acreditación o autorización, en su caso, en los términos previstos en esta ley.
 
-
 #### Disposición transitoria cuarta. Certificación de antecedentes penales.
 
 Hasta que entre en funcionamiento el Registro Central de Delincuentes Sexuales, la certificación a la que se refiere el artículo 13 de la Ley Orgánica 1/1996, de 15 de enero, de Protección Jurídica del Menor, de modificación parcial del código Civil y de la Ley de Enjuiciamiento Civil será emitida por el Registro Central de Antecedentes Penales.
 
-
 #### Disposición transitoria quinta. Extensión de los beneficios relativos a los derechos de matriculación y examen en el ámbito de la educación a los títulos de familia numerosa en vigor a partir de 1 de enero de 2015.
 
 La modificación del artículo 6 de la Ley 40/2003, de 18 de noviembre, de protección a las familias numerosas, prevista en la disposición final quinta, será aplicable, a los exclusivos efectos de acceder a los beneficios en el ámbito de la educación relativos a los derechos de matriculación y examen previstos en el artículo 12.2.a) de la citada ley, a los títulos de familia numerosa que estuvieran en vigor a 1 de enero de 2015.
-
 
 #### Disposición derogatoria única. Derogación de normas.
 
 Se deroga la disposición adicional única de la Ley 54/2007, de 28 de diciembre, de Adopción Internacional.
 
 Asimismo, quedan derogadas cuantas normas se opongan o sean incompatibles con lo dispuesto en la presente ley.
-
 
 #### Disposición final primera. Modificación de la Ley 29/1998, de 13 de julio, reguladora de la Jurisdicción Contencioso-administrativa.
 
@@ -1716,7 +1683,6 @@ Se modifica el apartado 6 del artículo 8 de la Ley 29/1998, de 13 de julio, reg
 Asimismo, corresponderá a los Juzgados de lo Contencioso-administrativo la autorización o ratificación judicial de las medidas que las autoridades sanitarias consideren urgentes y necesarias para la salud pública e impliquen privación o restricción de la libertad o de otro derecho fundamental.
 
 Además, los Juzgados de lo Contencioso-administrativo conocerán de las autorizaciones para la entrada e inspección de domicilios, locales, terrenos y medios de transporte que haya sido acordada por la Comisión Nacional de la Competencia, cuando, requiriendo dicho acceso e inspección el consentimiento de su titular, éste se oponga a ello o exista riesgo de tal oposición.»
-
 
 #### Disposición final segunda. Modificación de la Ley 41/2002, de 14 de noviembre, básica reguladora de la autonomía del paciente y de derechos y obligaciones en materia de información y documentación clínica.
 
@@ -1740,20 +1706,17 @@ No obstante lo dispuesto en el párrafo anterior, cuando se trate de una actuaci
 
 7. La prestación del consentimiento por representación será adecuada a las circunstancias y proporcionada a las necesidades que haya que atender, siempre en favor del paciente y con respeto a su dignidad personal. El paciente participará en la medida de lo posible en la toma de decisiones a lo largo del proceso sanitario. Si el paciente es una persona con discapacidad, se le ofrecerán las medidas de apoyo pertinentes, incluida la información en formatos adecuados, siguiendo las reglas marcadas por el principio del diseño para todos de manera que resulten accesibles y comprensibles a las personas con discapacidad, para favorecer que pueda prestar por sí su consentimiento.»
 
-
 #### Disposición final tercera. Modificación del texto refundido de la Ley del Estatuto de los Trabajadores, aprobado por Real Decreto Legislativo 1/1995, de 24 de marzo.
 
 Se modifica la letra f) del apartado 3 del artículo 37 del texto refundido de la Ley del Estatuto de los Trabajadores, aprobado por Real Decreto Legislativo 1/1995, de 24 de marzo, que queda redactado como sigue:
 
 «f) Por el tiempo indispensable para la realización de exámenes prenatales y técnicas de preparación al parto y, en los casos de adopción o acogimiento, o guarda con fines de adopción, para la asistencia a las preceptivas sesiones de información y preparación y para la realización de los preceptivos informes psicológicos y sociales previos a la declaración de idoneidad, siempre, en todos los casos, que deban tener lugar dentro de la jornada de trabajo.»
 
-
 #### Disposición final cuarta. Modificación de la Ley 7/2007, de 12 de abril, del Estatuto Básico del Empleado Público.
 
 Se modifica la letra e) del artículo 48 de la Ley 7/2007, de 12 de abril, del Estatuto Básico del Empleado Público, que queda redactado como sigue:
 
 «e) Por el tiempo indispensable para la realización de exámenes prenatales y técnicas de preparación al parto por las funcionarias embarazadas y, en los casos de adopción o acogimiento, o guarda con fines de adopción, para la asistencia a las preceptivas sesiones de información y preparación y para la realización de los preceptivos informes psicológicos y sociales previos a la declaración de idoneidad, que deban realizarse dentro de la jornada de trabajo.»
-
 
 #### Disposición final quinta. Modificación de la Ley 40/2003, de 18 de noviembre, de Protección a las Familias Numerosas.
 
@@ -1777,7 +1740,6 @@ Las memorias del análisis de impacto normativo que deben acompañar a los antep
 
 Cuatro. El Gobierno remitirá a las Cortes Generales, en el plazo más breve posible, un Proyecto de Ley de reforma de la Ley 40/2003, de 18 de noviembre, de Protección a las Familias Numerosas, con el objetivo de garantizar la igualdad de oportunidades y el acceso a los bienes y servicios públicos, contribuyendo a la redistribución de la renta y la riqueza de las familias.
 
-
 #### Disposición final sexta. Modificación de la Ley Orgánica 2/2006, de 3 de mayo, de Educación.
 
 La Ley Orgánica 2/2006, de 3 de mayo, de Educación, queda modificada en los siguientes términos:
@@ -1794,7 +1756,6 @@ Dos. Se modifica el apartado 2 del artículo 87, que queda redactado como sigue:
 
 Asimismo, podrán autorizar un incremento de hasta un diez por ciento del número máximo de alumnos y alumnas por aula en los centros públicos y privados concertados de una misma área de escolarización, bien para atender necesidades inmediatas de escolarización del alumnado de incorporación tardía, bien por necesidades que vengan motivadas por traslado de la unidad familiar en período de escolarización extraordinaria, debido a la movilidad forzosa de cualquiera de los padres, madres o tutores legales, o debido al inicio de una medida de acogimiento familiar en el alumno o la alumna.»
 
-
 #### Disposición final séptima. Modificación de la Ley Orgánica 8/2013, de 9 de diciembre, para la Mejora de la Calidad Educativa.
 
 Uno. El apartado sesenta del artículo único de la Ley Orgánica 8/2013, de 9 de diciembre, para la Mejora de la Calidad Educativa queda modificado del modo que el primer párrafo del apartado 2 del artículo 84 de la Ley Orgánica 2/2006, de 3 de mayo, de Educación, tendrá el siguiente contenido:
@@ -1805,7 +1766,6 @@ Dos. El apartado sesenta del artículo único de la Ley Orgánica 8/2013, de 9 d
 
 «Asimismo, podrán autorizar un incremento de hasta un diez por ciento del número máximo de alumnos y alumnas por aula en los centros públicos y privados concertados de una misma área de escolarización, bien por necesidades que vengan motivadas por traslado de la unidad familiar en período de escolarización extraordinaria debido a la movilidad forzosa de cualquiera de los padres, madres o tutores legales, o debido al inicio de una medida de acogimiento familiar en el alumno o la alumna.»
 
-
 #### Disposición final octava. Modificación de la Ley 43/2006, de 29 de diciembre, para la mejora del crecimiento y del empleo.
 
 Se introduce un nuevo apartado 4 ter en el artículo 2 de la Ley 43/2006, de 29 de diciembre, para la mejora del crecimiento y del empleo en los siguientes términos:
@@ -1814,13 +1774,11 @@ Se introduce un nuevo apartado 4 ter en el artículo 2 de la Ley 43/2006, de 29 
 
 En el caso de que se celebren contratos temporales con estas personas se tendrá derecho a una bonificación mensual de la cuota empresarial a la Seguridad Social o, en su caso, por su equivalente diario, por trabajador contratado de 50 euros/mes (600 euros/año), durante toda la vigencia del contrato.»
 
-
 #### Disposición final novena. Modificación de la Ley 39/2006, de 14 de diciembre, de promoción de la autonomía personal y atención a las personas en situación de dependencia.
 
 Se añade un nuevo apartado 8 al artículo 14 de la Ley 39/2006, de 14 de diciembre, de promoción de la autonomía personal y atención a las personas en situación de dependencia, con la siguiente redacción:
 
 «8. Las prestaciones económicas establecidas en virtud de esta Ley son inembargables, salvo para el supuesto previsto en el artículo 608 de la Ley de Enjuiciamiento Civil.»
-
 
 #### Disposición final décima. Modificación del texto refundido de la Ley General de la Seguridad Social, aprobado por el Real Decreto Legislativo 1/1994, de 20 de junio.
 
@@ -1882,7 +1840,6 @@ Cinco. El apartado 1 de la disposición adicional octava queda redactado de la s
 
 No obstante lo dispuesto en el párrafo anterior, se exceptúa la aplicación a los regímenes especiales de lo previsto en el artículo 138 en el último párrafo de su apartado 2, así como lo regulado por su apartado 5.»
 
-
 #### Disposición final undécima. Modificación del texto refundido de la Ley de Clases Pasivas del Estado, aprobado por el Real Decreto Legislativo 670/1987, de 30 de abril.
 
 El texto refundido de la Ley de Clases Pasivas del Estado, aprobado por el Real Decreto Legislativo 670/1987, de 30 de abril, queda modificado como sigue:
@@ -1921,7 +1878,6 @@ En el caso de archivo de la causa o de sentencia firme absolutoria, se proceder�
 
 Cuatro. Se añade un nuevo artículo, 37 quáter, con la siguiente redacción:
 
-
 #### Artículo 37 quáter. Abono de las pensiones en favor de familiares en determinados supuestos.
 
 «En el caso de que hubiera beneficiarios menores o incapacitados judicialmente, cuya patria potestad o tutela estuviera atribuida a una persona contra la que se hubiera dictado resolución judicial de la que se deriven indicios racionales de criminalidad o sentencia condenatoria firme por la comisión del delito doloso de homicidio en cualquiera de sus formas, la pensión no le será abonable a dicha persona.
@@ -1936,7 +1892,6 @@ La regulación contenida tanto en el artículo 38 y en la disposición transitor
 
 Asimismo, lo dispuesto en los artículos 37 bis y 37 ter será de aplicación a todas las pensiones de Clases Pasivas del Estado, cualquiera que sea su legislación reguladora, así como a las pensiones causadas al amparo de la legislación especial de guerra.»
 
-
 #### Disposición final duodécima. Modificación de la Ley de Enjuiciamiento Criminal.
 
 Se añade una nueva disposición adicional en la Ley de Enjuiciamiento Criminal, aprobada por el Real Decreto de 14 de septiembre de 1882, con la siguiente redacción:
@@ -1944,7 +1899,6 @@ Se añade una nueva disposición adicional en la Ley de Enjuiciamiento Criminal,
 «Disposición adicional quinta. Comunicación de actuaciones al Instituto Nacional de la Seguridad Social, al Instituto Social de la Marina, a la Dirección General de Costes de Personal y Pensiones Públicas del Ministerio de Hacienda y Administraciones Públicas y a la Dirección General de Personal del Ministerio de Defensa.
 
 Los secretarios judiciales de los juzgados y tribunales comunicarán al Instituto Nacional de la Seguridad Social, al Instituto Social de la Marina y a la Dirección General de Costes de Personal y Pensiones Públicas del Ministerio de Hacienda y Administraciones Públicas, cualquier resolución judicial de la que se deriven indicios racionales de criminalidad por la comisión de un delito doloso de homicidio en cualquiera de sus formas, en que la víctima fuera ascendiente, descendiente, hermano, cónyuge o excónyuge del investigado, o estuviera o hubiese estado ligada a él por una relación de afectividad análoga a la conyugal. Asimismo, comunicarán a dichos organismos oficiales las resoluciones judiciales firmes que pongan fin a los procedimientos penales. Dichas comunicaciones se realizarán a los efectos previstos en los artículos 179 ter, 179 quáter, 179 quinquies y 179 sexies del texto refundido de la Ley General de la Seguridad Social, aprobado por el Real Decreto Legislativo 1/1994, de 20 de junio y en los artículos 37 bis y 37 ter del texto refundido de la Ley de Clases Pasivas del Estado, aprobado por el Real Decreto Legislativo 670/1987, de 30 de abril.»
-
 
 #### Disposición final decimotercera. Modificación de la Ley 36/2011, de 10 de octubre, reguladora de la Jurisdicción Social.
 
@@ -1958,11 +1912,9 @@ b) Las revisiones de los actos en materia de protección por desempleo, y por ce
 
 c) La revisión de los actos de reconocimiento del derecho a una prestación de muerte y supervivencia, motivada por la condena al beneficiario, mediante sentencia firme, por la comisión de un delito doloso de homicidio en cualquiera de sus formas, cuando la víctima fuera el sujeto causante de la prestación, que podrá efectuarse en cualquier momento, así como la reclamación de las cantidades que, en su caso, hubiera percibido por tal concepto.»
 
-
 #### Disposición final decimocuarta. Eficacia en la aplicación de las modificaciones legales.
 
 Las modificaciones introducidas en la Ley General de la Seguridad Social, en la ley de Clases Pasivas del Estado, en la Ley de Enjuiciamiento Criminal y en la Ley reguladora de la Jurisdicción Social por medio de las disposiciones finales décima a decimotercera de la presente Ley, serán de aplicación a los hechos causantes de las prestaciones del sistema de la Seguridad Social y del Régimen especial de Clases Pasivas del Estado producidos a partir de la fecha de su entrada en vigor, siempre que los hechos delictivos hayan ocurrido, asimismo, a partir de la misma fecha.
-
 
 #### Disposición final decimoquinta. Títulos competenciales.
 
@@ -1978,35 +1930,27 @@ La disposición final cuarta se dicta al amparo del artículo 149.1.18.ª de la 
 
 La disposición final quinta se dicta al amparo del artículo 149.1.1.ª, 7.ª y 17.ª de la Constitución Española.
 
-
 #### Disposición final decimosexta. Desarrollo reglamentario de las Ciudades de Ceuta y Melilla.
 
 De conformidad con lo dispuesto en el apartado tercero de la disposición adicional cuarta de la Ley 27/2013, de 27 de diciembre, de racionalización y sostenibilidad de la Administración Local, las Ciudades de Ceuta y Melilla, en ejercicio de su potestad reglamentaria, podrán desarrollar el contenido de la presente ley de acuerdo con los criterios y circunstancias en ella contenidos, al objeto de ajustarlo a las condiciones particulares de éstas, en desarrollo de su capacidad reglamentaria y dentro del alcance de la misma.
-
 
 #### Disposición final decimoséptima. Creación del registro central de delincuentes sexuales.
 
 El Gobierno, a propuesta del Ministerio de Justicia, oído el Consejo General del Poder Judicial y la Agencia de Protección de Datos, dictará en el plazo de seis meses desde la publicación de esta Ley, las disposiciones reglamentarias oportunas relativas a la organización del Registro Central de delincuentes sexuales en el Registro Central de Penados y en el Registro Central de Sentencias de Responsabilidad Penal de los Menores, integrándose en el sistema de registros de apoyo a la Administración de Justicia, así como el régimen de inscripción y cancelación de sus asientos y el acceso a la información contenida en aquél, asegurando en todo caso su confidencialidad. Se formará, al menos, con los datos relativos a la identidad y perfil genético (ADN) de las personas condenadas por los delitos contra la libertad e indemnidad sexuales, en los que incluyen la agresión y abuso sexual, acoso sexual, exhibicionismo y provocación sexual, prostitución y explotación sexual y corrupción de menores. La Administración General del Estado colaborará con las autoridades competentes de los Estados miembros de la Unión Europea para facilitar el intercambio de información en este ámbito.
 
-
 #### Disposición final decimoctava. Modificaciones y desarrollos reglamentarios.
 
 El Gobierno llevará a cabo las modificaciones y desarrollos reglamentarios que sean precisos para la aplicación de la presente ley.
-
 
 #### Disposición final decimonovena. Incorporación de normas de la Unión Europea.
 
 En esta ley se contienen las normas de incorporación al Derecho español de los artículos 10 y 15 de la Directiva del Parlamento Europeo y del Consejo 2011/93/UE, de 13 de diciembre de 2011, relativa a la lucha contra los abusos sexuales y la explotación sexual de los menores y la pornografía infantil y por la que se sustituye la Decisión marco 2004/68/JAI del Consejo.
 
-
 #### Disposición final vigésima. No incremento del gasto.
 
 Las medidas incluidas en esta norma no podrán suponer incremento de gasto público, ni de dotaciones, ni de retribuciones, ni de otros gastos de personal.
 
-
 #### Disposición final vigesimoprimera. Entrada en vigor.
-
-La presente ley entrará en vigor a los veinte días de su publicación en el «Boletín Oficial del Estado».
 
 Por tanto,
 

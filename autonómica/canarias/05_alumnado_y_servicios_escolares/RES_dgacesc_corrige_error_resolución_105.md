@@ -33,9 +33,6 @@ fuente_pdf_oficial: https://sede.gobiernodecanarias.org/boc/boc-a-2026-037-610.p
 
 # Resolución de 18 de febrero de 2026, de la DGACESC, por la que se corrige error en la Resolución de 5 de febrero de 2026, que convoca el procedimiento de admisión del alumnado en centros docentes que oferten enseñanzas de Educación Infantil, Educación Primaria, Educación Secundaria Obligatoria, Bachillerato y Educación de Personas Adultas sostenidos con fondos públicos, para el curso escolar 20262027, en la Comunidad Autónoma de Canarias (BOC núm. 37, de 24 de febrero).
 
-https://sede.gobiernodecanarias.org/boc
-boc-a-2026-037-610
-Boletín Oficial de Canarias núm. 37 Martes 24 de febrero de 20266939
 III. Otras Resoluciones
 Consejería de Educación, Formación Profesional, Actividad Física y Deportes
 610 Dirección General de Administración de Centros, Escolarización y Servicios 

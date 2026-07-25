@@ -31,8 +31,8 @@ fundamentos_derecho:
   articulos:
   - '22'
 ---
-# Real Decreto 499/2024, de 21 de mayo, por el que se modifican determinados reales decretos por los que se establecen títulos de Formación Profesional de grado medio y se fijan sus enseñanzas mínimas.
 
+# Real Decreto 499/2024, de 21 de mayo, por el que se modifican determinados reales decretos por los que se establecen títulos de Formación Profesional de grado medio y se fijan sus enseñanzas mínimas.
 
 **ÍNDICE**
 
@@ -54,24 +54,17 @@ Artículo octavo. Modificación de los anexos III A), III B), III C) y III D).
 
 Artículo noveno. Modalidad destinada al personal militar.
 
-
 #### Disposición adicional primera. Horas del currículo básico.
-
 
 #### Disposición adicional segunda. Referencias contenidas en la disposición relativa a titulaciones equivalentes y vinculación con capacitaciones profesionales.
 
-
 #### Disposición adicional tercera. Referencias a los anexos III B) y III D).
-
 
 #### Disposición adicional cuarta. Referencias a las competencias profesionales, personales y sociales.
 
-
 #### Disposición transitoria única. Aplicación de los reales decretos por los que se establecen títulos de formación profesional de grado medio de acuerdo con el calendario establecido en el Real Decreto 278/2023, de 11 de abril.
 
-
 #### Disposición final primera. Título competencial.
-
 
 #### Disposición final segunda. Entrada en vigor.
 
@@ -217,9 +210,7 @@ En la tramitación de este real decreto se han cumplido los trámites establecid
 
 En su virtud, a propuesta de la Ministra de Educación, Formación Profesional y Deportes, y previa deliberación del Consejo de Ministros en su reunión del día 21 de mayo de 2024,
 
-
 **DISPONGO:**
-
 
 #### Artículo primero. Objeto y ámbito de aplicación.
 
@@ -353,18 +344,15 @@ c) Forman parte de este ámbito los reales decretos que a continuación se rel
 
 3.º Real Decreto 189/2018, de 6 de abril, por el que se establece el título de Técnico en comercialización de productos alimentarios y se fijan los aspectos básicos del currículo.
 
-
 #### Artículo segundo. Modificación del artículo relativo a la identificación del título.
 
 De acuerdo con lo establecido en el Real Decreto 272/2022, de 12 de abril, por el que se establece el Marco Español de Cualificaciones para el Aprendizaje Permanente, en los reales decretos a que hace referencia el artículo primero.Dos, se añade un nuevo párrafo final al artículo 2, con la siguiente redacción:
 
 «El título de Técnico se corresponde con un nivel 4A del Marco Español de Cualificaciones para el Aprendizaje Permanente.»
 
-
 #### Artículo tercero. Modificaciones relativas a las cualificaciones profesionales y unidades de competencia.
 
 Uno. En el Real Decreto 1396/2007, de 29 de octubre, por el que se establece el título de Técnico en Cocina y Gastronomía y se fijan sus enseñanzas mínimas, se da una nueva redacción al artículo 6 y se sustituyen los anexos V A) y V B) con la siguiente redacción:
-
 
 #### «Artículo 6. Relación de cualificaciones y unidades de competencia del Catálogo Nacional de Cualificaciones Profesionales incluidas en el título.
 
@@ -405,7 +393,6 @@ UC0259_2: Definir ofertas gastronómicas sencillas, realizar el aprovisionamient
 UC0709_2: Definir ofertas sencillas de repostería, realizar el aprovisionamiento interno y controlar consumos.
 
 Dos. En el Real Decreto 1690/2007, de 14 de diciembre, por el que se establece el título de Técnico en Servicios en Restauración y se fijan sus enseñanzas mínimas, se da una nueva redacción al artículo 6 y se sustituyen los anexos V A) y V B) con la siguiente redacción:
-
 
 #### «Artículo 6. Relación de cualificaciones y unidades de competencia del Catálogo Nacional de Cualificaciones Profesionales incluidas en el título.
 
@@ -486,7 +473,6 @@ UC2299_2: Preparar y servir bebidas distintas a vinos.
 UC2300_2: Confeccionar elaboraciones culinarias sencillas y elaborar platos a la vista del cliente.
 
 Tres. En el Real Decreto 1692/2007, de 14 de diciembre, por el que se establece el título de Técnico en Soldadura y Calderería y se fijan sus enseñanzas mínimas, se da una nueva redacción al artículo 6 y se sustituyen los anexos V A) y V B) con la siguiente redacción:
-
 
 #### «Artículo 6. Relación de cualificaciones y unidades de competencia del Catálogo Nacional de Cualificaciones Profesionales incluidas en el título.
 
@@ -600,7 +586,6 @@ UC1144_2: Montar instalaciones de tubería.»
 
 Cuatro. En el Real Decreto 177/2008, de 8 de febrero, por el que se establece el título de Técnico en Instalaciones Eléctricas y Automáticas y se fijan sus enseñanzas mínimas, se da una nueva redacción al artículo 6 y se sustituyen los anexos V A) y V B) con la siguiente redacción:
 
-
 #### «Artículo 6. Relación de cualificaciones y unidades de competencia del Catálogo Nacional de Cualificaciones Profesionales incluidas en el título.
 
 Cualificaciones profesionales:
@@ -680,7 +665,6 @@ UC2344_2: Montar y mantener receptores de alumbrado interior, dispositivos radia
 UC2345_2: Montar y mantener máquinas eléctricas y otros dispositivos destinados a la alimentación de instalaciones receptoras de baja tensión.»
 
 Cinco. En el Real Decreto 955/2008, de 6 de junio, por el que se establece el título de Técnico en Confección y Moda y se fijan sus enseñanzas mínimas, se da una nueva redacción al artículo 6 y se sustituyen los anexos V A) y V B) con la siguiente redacción:
-
 
 #### «Artículo 6. Relación de cualificaciones y unidades de competencia del Catálogo Nacional de Cualificaciones Profesionales incluidas en el título.
 
@@ -816,7 +800,6 @@ UC1236_2: Realizar el acabado de prendas y artículos en confección a medida.
 
 Seis. En el Real Decreto 1631/2009, de 30 de octubre, por el que se establece el título de Técnico en Gestión Administrativa y se fijan sus enseñanzas mínimas, se da una nueva redacción al artículo 6 y se sustituyen los anexos V A) y V B) con la siguiente redacción:
 
-
 #### «Artículo 6. Relación de cualificaciones y unidades de competencia del Catálogo Nacional de Cualificaciones Profesionales incluidas en el título.
 
 Cualificaciones profesionales:
@@ -884,7 +867,6 @@ UC0973_1: Introducir datos y textos en terminales informáticos en condiciones d
 0441. Técnica contable.
 
 Siete. En el Real Decreto 1634/2009, de 30 de octubre, por el que se establece el título de Técnico en Producción Agropecuaria y se fijan sus enseñanzas mínimas, se da una nueva redacción al artículo 6 y se sustituyen los anexos V A) y V B) con la siguiente redacción:
-
 
 #### «Artículo 6. Relación de cualificaciones y unidades de competencia del Catálogo Nacional de Cualificaciones Profesionales incluidas en el título.
 
@@ -1050,7 +1032,6 @@ UC0282_2: Producir conejos para reproducción, obtención de carne y otras produ
 
 Ocho. En el Real Decreto 452/2010, de 16 de abril, por el que se establece el título de Técnico en Elaboración de Productos Alimenticios y se fijan sus enseñanzas mínimas, se da una nueva redacción al artículo 6 y se sustituyen los anexos V A) y V B) con la siguiente redacción:
 
-
 #### «Artículo 6. Relación de cualificaciones y unidades de competencia del Catálogo Nacional de Cualificaciones Profesionales incluidas en el título.
 
 Cualificaciones profesionales:
@@ -1193,7 +1174,6 @@ UC0304_2: Conducir y controlar las operaciones de envasado y acondicionamiento d
 
 Nueve. En el Real Decreto 453/2010, de 16 de abril, por el que se establece el título de Técnico en Electromecánica de Vehículos Automóviles y se fijan sus enseñanzas mínimas, se da una nueva redacción al artículo 6 y se sustituyen los anexos V A) y V B) con la siguiente redacción:
 
-
 #### «Artículo 6. Relación de cualificaciones y unidades de competencia del Catálogo Nacional de Cualificaciones Profesionales incluidas en el título.
 
 Cualificaciones profesionales:
@@ -1229,7 +1209,6 @@ ANEXO V B)
 Correspondencia de los módulos profesionales con las unidades de competencia para su acreditación
 
 Diez. En el Real Decreto 1792/2010, de 30 de diciembre, por el que se establece el título de Técnico en Instalaciones de Producción de Calor y se fijan sus enseñanzas mínimas, se da una nueva redacción al artículo 6 y se sustituyen los anexos V A) y V B) con la siguiente redacción:
-
 
 #### «Artículo 6. Relación de cualificaciones y unidades de competencia del Catálogo Nacional de Cualificaciones Profesionales incluidas en el título.
 
@@ -1316,7 +1295,6 @@ UC1522_2: Realizar instalaciones receptoras comunes e individuales de gas.
 UC1525_2: Mantener y reparar instalaciones receptoras y aparatos de gas.»
 
 Once. En el Real Decreto 1793/2010, de 30 de diciembre, por el que se establece el título de Técnico en Instalaciones Frigoríficas y de Climatización y se fijan sus enseñanzas mínimas, se da una nueva redacción al artículo 6 y se sustituyen los anexos V A) y V B) con la siguiente redacción:
-
 
 #### «Artículo 6. Relación de cualificaciones y unidades de competencia del Catálogo Nacional de Cualificaciones Profesionales incluidas en el título.
 
@@ -1422,7 +1400,6 @@ UC2679_2: Mantener instalaciones térmicas en edificios.»
 
 Doce. En el Real Decreto 256/2011, de 28 de febrero, por el que se establece el título de Técnico en Estética y Belleza y se fijan sus enseñanzas mínimas, se da una nueva redacción al artículo 6 y se sustituyen los anexos V A) y V B) con la siguiente redacción:
 
-
 #### «Artículo 6. Relación de cualificaciones y unidades de competencia del Catálogo Nacional de Cualificaciones Profesionales incluidas en el título.
 
 Cualificaciones profesionales:
@@ -1488,7 +1465,6 @@ UC0354_2: Atender al cliente del servicio estético de higiene, depilación y ma
 UC0356_2: Atender al cliente del servicio estético de manos y pies en condiciones de seguridad, higiene y salud.»
 
 Trece. En el Real Decreto 257/2011, de 28 de febrero, por el que se establece el título de Técnico en Calzado y Complementos de Moda y se fijan sus enseñanzas mínimas, se da una nueva redacción al artículo 6 y se sustituyen los anexos V A) y V B) con la siguiente redacción:
-
 
 #### «Artículo 6. Relación de cualificaciones y unidades de competencia del Catálogo Nacional de Cualificaciones Profesionales incluidas en el título.
 
@@ -1597,7 +1573,6 @@ UC1503_2: Adaptar hormas base para fabricar calzado a medida y ortopÃ©dico.Â
 UC1504_2 Elaborar calzado a medida y ortopédico.
 
 Catorce. En el Real Decreto 1575/2011, de 4 de noviembre, por el que se establece el Título de Técnico en Construcción y se fijan sus enseñanzas mínimas, se da una nueva redacción al artículo 6 y se sustituyen los anexos V A) y V B) con la siguiente redacción:
-
 
 #### «Artículo 6. Relación de cualificaciones y unidades de competencia del Catálogo Nacional de Cualificaciones Profesionales incluidas en el título.
 
@@ -1791,7 +1766,6 @@ Nota: las personas matriculadas en este ciclo formativo que tengan superados tod
 
 Quince. Se modifica el Real Decreto 1588/2011, de 4 de noviembre, por el que se establece el Título de Técnico en Peluquería y Cosmética Capilar y se fijan sus enseñanzas mínimas, se da una nueva redacción al artículo 6 y se sustituyen los anexos V A) y V B) con la siguiente redacción:
 
-
 #### «Artículo 6. Relación de cualificaciones y unidades de competencia del Catálogo Nacional de Cualificaciones Profesionales incluidas en el título.
 
 Cualificaciones profesionales:
@@ -1874,7 +1848,6 @@ UC0356_2: Atender al cliente del servicio estético de manos y pies en condicion
 
 Dieciséis. En el Real Decreto 1589/2011, de 4 de noviembre, por el que se establece el Título de Técnico en Mantenimiento Electromecánico y se fijan sus enseñanzas mínimas, se da una nueva redacción al artículo 6 y se sustituyen los anexos V A) y V B) con la siguiente redacción:
 
-
 #### «Artículo 6. Relación de cualificaciones y unidades de competencia del Catálogo Nacional de Cualificaciones Profesionales incluidas en el título.
 
 Cualificaciones profesionales:
@@ -1952,7 +1925,6 @@ UC01263_2: Montar, reparar y poner en marcha sistemas mecánicos.
 UC01264_2 Montar, reparar y poner en marcha sistemas neumáticos, hidráulicos, eléctricos y electrónicos de bienes de equipo y maquinaria industrial.»
 
 Diecisiete. En el Real Decreto 1591/2011, de 4 de noviembre, por el que se establece el Título de Técnico en Fabricación y Ennoblecimiento de Productos Textiles y se fijan sus enseñanzas mínimas, se da una nueva redacción al artículo 6 y se sustituyen los anexos V A) y V B) con la siguiente redacción:
-
 
 #### «Artículo 6. Relación de cualificaciones y unidades de competencia del Catálogo Nacional de Cualificaciones Profesionales incluidas en el título.
 
@@ -2072,7 +2044,6 @@ UC2294_2: Producir tejidos de calada.
 
 Dieciocho. En el Real Decreto 1592/2011, de 4 de noviembre, por el que se establece el Título de Técnico en Excavaciones y Sondeos y se fijan sus enseñanzas mínimas, se da una nueva redacción al artículo 6 y se sustituyen los anexos IV A) y IV B) con la siguiente redacción:
 
-
 #### «Artículo 6. Relación de cualificaciones y unidades de competencia del Catálogo Nacional de Cualificaciones Profesionales incluidas en el título.
 
 Cualificaciones profesionales:
@@ -2154,7 +2125,6 @@ UC1381_2: Realizar la excavación con minador.
 UC1382_2: Realizar la excavación con la rozadora o el cepillo.
 
 Diecinueve. En el Real Decreto 1593/2011, de 4 de noviembre, por el que se establece el Título de Técnico en Atención a Personas en Situación de Dependencia y se fijan sus enseñanzas mínimas, se da una nueva redacción al artículo 6 y se sustituyen los anexos V A) y V B) con la siguiente redacción:
-
 
 #### «Artículo 6. Relación de cualificaciones y unidades de competencia del Catálogo Nacional de Cualificaciones Profesionales incluidas en el título.
 
@@ -2245,7 +2215,6 @@ UC1424_2: Gestionar las llamadas salientes del servicio de teleasistencia.
 UC1425_2: Aplicar herramientas telemáticas y habilidades sociales para la prestación del servicio de teleasistencia.»
 
 Veinte. En el Real Decreto 1683/2011, de 18 de noviembre, por el que se establece el título de Técnico en Postimpresión y Acabados Gráficos y se fijan sus enseñanzas mínimas, se da una nueva redacción al artículo 6 y se sustituyen los anexos V A) y V B) con la siguiente redacción:
-
 
 #### «Artículo 6. Relación de cualificaciones y unidades de competencia del Catálogo Nacional de Cualificaciones Profesionales incluidas en el título.
 
@@ -2370,7 +2339,6 @@ UC1340_2: Elaborar envases, embalajes y artículos de papelería.
 Nota: La Unidad de Competencia UC0200_2: "Operar en el proceso gráfico en condiciones de seguridad, calidad y productividad" se considera acreditada con la superación de cualquier módulo profesional.»
 
 Veintiuno. En el Real Decreto 1689/2011, de 18 de noviembre, por el que se establece el título de Técnico en Obras de Interior, Decoración y Rehabilitación y se fijan sus enseñanzas mínimas, se da una nueva redacción al artículo 6 y se sustituyen los anexos V A) y V B) con la siguiente redacción:
-
 
 #### «Artículo 6. Relación de cualificaciones y unidades de competencia del Catálogo Nacional de Cualificaciones Profesionales incluidas en el título.
 
@@ -2522,7 +2490,6 @@ Nota: Las personas matriculadas en este ciclo formativo que tengan superados tod
 
 Veintidós. En el Real Decreto 1145/2012, de 27 de julio, por el que se establece el título de Técnico en Mantenimiento de Material Rodante Ferroviario y se fijan sus enseñanzas mínimas, se da una nueva redacción al artículo 6 y se sustituyen los anexos V A) y V B) con la siguiente redacción:
 
-
 #### «Artículo 6. Relación de cualificaciones y unidades de competencia del Catálogo Nacional de Cualificaciones Profesionales incluidas en el título.
 
 Cualificaciones profesionales:
@@ -2622,7 +2589,6 @@ UC2325_2: Mantener los sistemas de control, mando y señalización de material r
 0742. Sistemas auxiliares del motor diésel.
 
 Veintitrés. En el Real Decreto 1072/2012, de 13 de julio, por el que se establece el título de Técnico en Mantenimiento y Control de la Maquinaria de Buques y Embarcaciones y se fijan sus enseñanzas mínimas, se da una nueva redacción al artículo 6 y se sustituyen los anexos V A) y V B) con la siguiente redacción:
-
 
 #### «Artículo 6. Relación de cualificaciones y unidades de competencia del Catálogo Nacional de Cualificaciones Profesionales incluidas en el título.
 
@@ -2738,7 +2704,6 @@ UC1837_2: Mantener e instalar los sistemas de frío y climatización de embarcac
 
 Veinticuatro. En el Real Decreto 907/2013, de 22 de noviembre, por el que se establece el título de Técnico en Emergencias y Protección Civil y se fijan sus enseñanzas mínimas, se da una nueva redacción al artículo 6 y se sustituyen los anexos IV A) y IV B) con la siguiente redacción:
 
-
 #### «Artículo 6. Relación de cualificaciones y unidades de competencia del Catálogo Nacional de Cualificaciones Profesionales incluidas en el título.
 
 Cualificaciones profesionales:
@@ -2819,7 +2784,6 @@ Nota: Las personas matriculadas en este ciclo formativo que tengan cursados y su
 
 Veinticinco. Se modifica el Real Decreto 114/2017, de 17 de febrero, por el que se establece el título de Técnico en redes y estaciones de tratamiento de aguas y se fijan los aspectos básicos del currículo, se da una nueva redacción al artículo 6 y se sustituyen los anexos V A) y V B) con la siguiente redacción:
 
-
 #### «Artículo 6. Relación de cualificaciones y unidades de competencia del Catálogo Nacional de Cualificaciones Profesionales incluidas en el título.
 
 Cualificaciones profesionales:
@@ -2892,7 +2856,6 @@ Nota: Las personas matriculadas en este ciclo formativo que tengan superados tod
 
 Veintiséis. Se modifica el Real Decreto 652/2017, de 23 de junio, por el que se establece el título de Técnico en actividades ecuestres y se fijan los aspectos básicos del currículo, se da una nueva redacción al artículo 6 y se sustituyen los anexos V A) y V B) con la siguiente redacción:
 
-
 #### «Artículo 6. Relación de cualificaciones y unidades de competencia del Catálogo Nacional de Cualificaciones Profesionales incluidas en el título.
 
 Cualificaciones profesionales:
@@ -2954,7 +2917,6 @@ UC1123_2: Domar potros a la cuerda.
 1327. Guía ecuestre.
 
 1328. Atención a grupos.
-
 
 #### Artículo cuarto. Modificación del artículo relativo a los módulos profesionales.
 
@@ -3090,7 +3052,6 @@ g) Se incluye un nuevo apartado 5 con la siguiente redacción:
 
 «5. Todos los ciclos formativos a que hace referencia el artículo 1.2 incluirán un periodo de formación en empresa u organismo equiparado en los términos regulados en el título IV del Real Decreto 659/2023, de 18 de julio.»
 
-
 #### Artículo quinto. Modificación del artículo relativo al profesorado.
 
 En los reales decretos a que hace referencia el artículo primero.Dos, el artículo 12 queda redactado como sigue:
@@ -3104,7 +3065,6 @@ En los reales decretos a que hace referencia el artículo primero.Dos, el artíc
 4. En caso de contar con otros perfiles colaboradores, estos deberán cumplir los requisitos indicados en el capítulo IV del título V del Real Decreto 659/2023, de 18 de julio.
 
 5. Corresponderá a las administraciones competentes determinar la atribución docente del módulo o módulos optativos en consonancia con su diseño curricular.»
-
 
 #### Artículo sexto. Modificación del artículo relativo a convalidaciones y exenciones.
 
@@ -3127,7 +3087,6 @@ b) Para aquellos títulos establecidos con posterioridad al 5 de marzo de 20
 6. Habida cuenta de las actualizaciones en las denominaciones de las unidades de competencia y/o de los módulos profesionales, en caso de discrepancia, prevalecerá la codificación frente a la denominación.
 
 7. La exención del periodo de formación en empresa u organismo equiparado podrá efectuarse en los términos recogidos en el artículo 131 del Real Decreto 659/2023, de 18 de julio.»
-
 
 #### Artículo séptimo. Modificación del anexo I.
 
@@ -3184,7 +3143,6 @@ c) Se incluyen los siguientes módulos profesionales y proyecto intermodular:
 4.º 1708. Sostenibilidad aplicada al sistema productivo cuyo código, duración del currículo básico, y resultados de aprendizaje y criterios de evaluación figuran como anexo VIII del Real Decreto 659/2023, de 18 de julio.
 
 5.º 1713. Proyecto intermodular, cuyo código, duración del currículo básico, y resultados de aprendizaje y criterios de evaluación figuran como anexo I de este real decreto.
-
 
 #### Artículo octavo. Modificación de los anexos III A), III B), III C) y III D).
 
@@ -3310,45 +3268,35 @@ Cincuenta y nueve. En el Real Decreto 1688/2011, de 18 de noviembre, por el 
 
 Sesenta. En el Real Decreto 189/2018, de 6 de abril, por el que se establece el título de Técnico en comercialización de productos alimentarios y se fijan los aspectos básicos del currículo, se incluye como anexo III el que figura como anexo LXII en el presente real decreto.
 
-
 #### Artículo noveno. Modalidad destinada al personal militar.
 
 Los centros docentes militares podrán adaptar los currículos correspondientes a las circunstancias singulares del entorno profesional de las Fuerzas Armadas, en los términos establecidos en los artículos 40-42 del Real Decreto 659/2023, de 18 de julio. Las ofertas formativas de formación profesional en esta modalidad podrán adaptar su organización temporal, en función de las necesidades de desempeño profesional o de compatibilidad con otras formaciones, sin perjuicio del cumplimiento de la duración prescriptiva del currículo establecido.
-
 
 #### Disposición adicional primera. Horas del currículo básico.
 
 En cumplimiento de lo dispuesto en el artículo 6.4 de la Ley Orgánica 2/2006, de 3 de mayo, de Educación, las horas del currículo básico de cada uno de los módulos profesionales incluidos en los reales decretos a que hace referencia el artículo primero.Dos del presente real decreto, para las administraciones con lengua cooficial, minorarán proporcionalmente, de acuerdo con lo establecido en la tabla que figura como anexo LXII. En ningún caso, esta reducción afectará a las horas del currículo básico del Proyecto intermodular, Inglés profesional (GM), Sostenibilidad aplicada al sistema productivo, Digitalización aplicada a los sectores productivos (GM), Itinerario personal para la empleabilidad I, Itinerario personal para la empleabilidad II ni al módulo(s) optativo(s).
 
-
 #### Disposición adicional segunda. Referencias contenidas en la disposición relativa a titulaciones equivalentes y vinculación con capacitaciones profesionales.
 
 En todos los reales decretos objeto de la presente norma, las referencias contenidas en la disposición adicional tercera relativa a las titulaciones equivalentes y vinculación con capacitaciones profesionales que se hicieran al módulo profesional de Formación y orientación laboral deberán entenderse hechas al módulo de Itinerario personal para la empleabilidad I.
-
 
 #### Disposición adicional tercera. Referencias a los anexos III B) y III D).
 
 Queda sin efecto cualquier referencia a titulaciones habilitantes a efectos de docencia que remita a los extintos anexos III B) y III D).
 
-
 #### Disposición adicional cuarta. Referencias a las competencias profesionales, personales y sociales.
 
 En todos los reales decretos objeto de la presente norma, las referencias contenidas en el articulado a las «competencias profesionales, personales y sociales» deben entenderse hechas a «competencias profesionales y para la empleabilidad».
-
 
 #### Disposición transitoria única. Aplicación de los reales decretos por los que se establecen títulos de formación profesional de grado medio de acuerdo con el calendario establecido en el Real Decreto 278/2023, de 11 de abril.
 
 De acuerdo con el calendario establecido en el artículo 11 del Real Decreto 278/2023, de 11 de abril, por el que se establece el calendario de implantación del Sistema de Formación Profesional establecido por la Ley Orgánica 3/2022, de 31 de marzo, de ordenación e integración de la Formación Profesional, en el curso 2024-2025 se completará la implantación del primer curso de todos los ciclos formativos. Durante dicho curso académico, para el segundo curso permanecerá en vigor la ordenación de los ciclos formativos de grado medio previa a la entrada en vigor del presente real decreto.
 
-
 #### Disposición final primera. Título competencial.
 
 Este real decreto se dicta al amparo de las competencias que atribuye al Estado el artículo 149.1. 30.ª de la Constitución Española, para la regulación de las condiciones de obtención, expedición y homologación de los títulos académicos y profesionales y normas básicas para el desarrollo del artículo 27 de la Constitución Española, a fin de garantizar el cumplimiento de las obligaciones de los poderes públicos en esta materia.
 
-
 #### Disposición final segunda. Entrada en vigor.
-
-Este real decreto entrará en vigor el día siguiente al de su publicación en el «Boletín Oficial del Estado».
 
 Dado en Madrid, el 21 de mayo de 2024.
 

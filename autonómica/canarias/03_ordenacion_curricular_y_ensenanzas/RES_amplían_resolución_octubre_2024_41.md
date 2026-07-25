@@ -34,9 +34,6 @@ fuente_pdf_oficial: https://sede.gobiernodecanarias.org/boc/boc-a-2026-070-1143.
 
 # Resolución de 26 de marzo de 2026, por la que se amplían la Resolución de 30 de octubre de 2024, que dicta instrucciones y orientaciones para la implantación y desarrollo de los grados de formación D y E, a partir del curso escolar 2024/2025, y se establece la distribución horaria y modular de los currículos; y la Resolución de 21 de febrero de 2025, que dicta instrucciones para la implantación de los itinerarios formativos de Formación Profesional Adaptada y el desarrollo de los currículos de los módulos de carácter general a partir del curso escolar 2024/2025, en el ámbito de la Comunidad Autónoma de Canarias.
 
-https://sede.gobiernodecanarias.org/boc
-boc-a-2026-070-1143
-Boletín Oficial de Canarias núm. 70 Lunes 13 de abril de 202613686
 III. Otras Resoluciones
 Consejería de Educación, Formación Profesional, Actividad Física y Deportes
 1143 Dirección General de Formación Profesional y Enseñanzas de Régimen Especial.- 
@@ -77,9 +74,6 @@ Enseñanzas de Régimen Especial considera necesario dar continuidad a la elabor
 los cuadros horarios correspondientes.
 A los antecedentes de hecho expuestos les resultan de aplicación los siguientes
 
-https://sede.gobiernodecanarias.org/boc
-boc-a-2026-070-1143
-Boletín Oficial de Canarias núm. 70 Lunes 13 de abril de 202613687
 FUNDAMENTOS DE DERECHO
 Primero.- La Ley Orgánica 1/2018, de 5 de noviembre, de reforma del Estatuto de 
 Autonomía de Canarias, en su artículo 133.1 establece que “Corresponde a la Comunidad 
@@ -122,9 +116,6 @@ Séptimo.- El Real Decreto 144/2026, de 25 de febrero, por el que se establece e
 de especialización de Formación Profesional de Grado Superior en Despliegue de productos 
 software en contenedores y se fijan los aspectos básicos del currículo.
 
-https://sede.gobiernodecanarias.org/boc
-boc-a-2026-070-1143
-Boletín Oficial de Canarias núm. 70 Lunes 13 de abril de 202613688
 Octavo.- El Real Decreto 145/2026, de 25 de febrero, por el que se establece el Curso 
 de especialización de Formación Profesional de Grado Superior en Recursos y servicios en 
 la nube y se fijan los aspectos básicos del currículo.
@@ -167,9 +158,6 @@ Física y Deportes, aprobado por el Decreto 84/2024, de 10 de junio, por el que 
 las competencias generales y específicas a la Dirección General de Formación Profesional 
 y Enseñanzas de Régimen Especial,
 
-https://sede.gobiernodecanarias.org/boc
-boc-a-2026-070-1143
-Boletín Oficial de Canarias núm. 70 Lunes 13 de abril de 202613689
 RESUELVO :
 Primero.- Aprobar la distribución horaria y la estructura modular del Ciclo Formativo 
 de Grado Medio en Planta Química, y se amplía el Anexo VI de la Resolución de 30 de 
@@ -208,9 +196,6 @@ Quinto.- Ordenar la publicación de la presente Resolución en el Boletín Ofici
 Canarias, así como en la página web de la Consejería de Educación, Formación Profesional, 
 Actividad Física y Deportes, para su general conocimiento. Asimismo, se encomienda a 
 
-https://sede.gobiernodecanarias.org/boc
-boc-a-2026-070-1143
-Boletín Oficial de Canarias núm. 70 Lunes 13 de abril de 202613690
 los equipos directivos de los centros docentes que adopten las medidas oportunas para 
 garantizar su difusión entre los distintos sectores de la comunidad educativa.
 Contra la presente Resolución, que no pone fin a la vía administrativa, cabe interponer 
@@ -220,9 +205,6 @@ de cualesquiera otros que se estime procedente interponer.
 Las Palmas de Gran Canaria, a 26 de marzo de 2026.- La Directora General de 
 Formación Profesional y Enseñanzas de Régimen Especial, Carolina León Martínez.
 
-boc-a-2026-070-1143
-Boletín Oficial de Canarias núm. 70 Lunes 13 de abril de 202613691
-https://sede.gobiernodecanarias.org/boc
 ANEXO I
 DISTRIBUCIÓN HORARIA Y ESTRUCTURA MODULAR
 ESPECIALIDAD: CFGM PLANTA QUÍMICA (12140401)
@@ -258,9 +240,6 @@ DURACIÓN TOTAL DEL CICLO FORMATIVO 2000
 ANEXO I
 DISTRIBUCIÓN HORARIA Y ESTRUCTURA MODULAR
 
-boc-a-2026-070-1143
-Boletín Oficial de Canarias núm. 70 Lunes 13 de abril de 202613692
-https://sede.gobiernodecanarias.org/boc
 ANEXO II
 DISTRIBUCIÓN HORARIA Y ESTRUCTURA MODULAR
 DE LOS GRADOS E (CURSOS DE ESPECIALIZACIÓN)
@@ -311,9 +290,6 @@ ANEXO II
 DISTRIBUCIÓN HORARIA Y ESTRUCTURA MODULAR DE LOS GRADOS E  
 (CURSOS DE ESPECIALIZACIÓN) DE GRADO MEDIO Y SUPERIOR
 
-boc-a-2026-070-1143
-Boletín Oficial de Canarias núm. 70 Lunes 13 de abril de 202613693
-https://sede.gobiernodecanarias.org/boc
 Curso de especialización: Despliegue de productos software en contenedores.
 • Nivel: Formación Profesional de Grado Superior.
 • Familia Profesional: Informática y Comunicaciones.
@@ -372,9 +348,6 @@ Duración 41 700 30 24
 En régimen general la formación en la empresa u organismo equiparado tendrá una duración mínima de 175 horas.
 En régimen intensivo la formación en la empresa u organismo equiparado tendrá una duración mínima de 245 horas.
 
-boc-a-2026-070-1143
-Boletín Oficial de Canarias núm. 70 Lunes 13 de abril de 202613694
-https://sede.gobiernodecanarias.org/boc
 Curso de especialización: Aprendizaje automático: gestión de datos y entrenamiento.
 • Nivel: Formación Profesional de Grado Superior.
 • Familia Profesional: Inteligencia Artificial y Data.
@@ -426,9 +399,6 @@ Duración 32 540 30 18
 En régimen general la formación en la empresa u organismo equiparado tendrá una duración mínima de 135 horas.
 En régimen intensivo la formación en la empresa u organismo equiparado tendrá una duración mínima de 190 horas.
 
-boc-a-2026-070-1143
-Boletín Oficial de Canarias núm. 70 Lunes 13 de abril de 202613695
-https://sede.gobiernodecanarias.org/boc
 Curso de especialización: Insecticultura.
 • Nivel: Formación Profesional de Grado Medio.
 • Familia Profesional: Agraria.

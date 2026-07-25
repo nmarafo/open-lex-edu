@@ -29,9 +29,7 @@ fundamentos_derecho:
 
 # Ley 2/2012, de 29 de junio, de Presupuestos Generales del Estado para el año 2012.
 
-
 **JUAN CARLOS I**
-
 
 **REY DE ESPAÑA**
 
@@ -39,9 +37,7 @@ A todos los que la presente vieren y entendieren.
 
 Sabed: Que las Cortes Generales han aprobado y Yo vengo en sancionar la siguiente ley.
 
-
 ## PREÁMBULO
-
 
 **I**
 
@@ -58,8 +54,6 @@ Las materias que queden al margen de estas previsiones son materias ajenas a la 
 Consecuentemente, la Ley de Presupuestos Generales del Estado para 2012 regula únicamente, junto a su contenido necesario aquellas disposiciones que respetan la doctrina del Tribunal Constitucional sobre el contenido eventual.
 
 Estos Presupuestos Generales del Estado elaborados en el marco de la Ley 47/2003, de 26 de noviembre, General Presupuestaria, persisten en el objetivo de conseguir una mayor racionalización del proceso presupuestario a través de la confluencia de las mejoras introducidas a nivel de sistematización, en tanto que se procede a la ordenación económica y financiera del sector público estatal, a ordenar sus normas de contabilidad y control, a nivel de eficacia y eficiencia.
-
-El Real Decreto 1329/2011, de 26 de septiembre, de disolución del Congreso de los Diputados y del Senado y de convocatoria de elecciones, publicado en el Boletín Oficial del Estado el 27 de septiembre, acordó la disolución de ambas Cámaras y la convocatoria de elecciones generales el 20 de noviembre de 2011; no siendo posible tramitar ni aprobar en los plazos ordinarios la Ley de Presupuestos Generales del Estado para el año 2012. Esta falta de aprobación hizo que se aplicase en toda su extensión el artículo 134.4 de la Constitución, que señala que «si la Ley de Presupuestos no se aprobara antes del primer día del ejercicio económico correspondiente, se considerarán automáticamente prorrogados los Presupuestos del ejercicio hasta la aprobación de los nuevos».
 
 No obstante, fue precisa la aprobación del Real Decreto-ley 20/2011, de 30 de diciembre, de medidas urgentes en materia presupuestaria, tributaria y financiera para la corrección del déficit público. En efecto, la importante desviación del saldo presupuestario, estimada en el momento de la aprobación de tal Real Decreto-ley, para el conjunto de las Administraciones Públicas para el ejercicio 2011 respecto al objetivo de estabilidad comprometido, requería la adopción de una norma que, por otro lado, debía también incorporar previsiones de carácter presupuestario no susceptibles de ser simplemente prorrogadas.
 
@@ -81,7 +75,6 @@ Para alcanzar este objetivo de déficit del 5,3 por 100 del PIB, es la Administr
 
 Igualmente se fija el límite de gasto no financiero del Estado en 118.565 millones de euros, lo que representa una disminución del 4,7 por ciento, encontrándose en consonancia con el gasto en términos de Contabilidad Nacional, que resulta del objetivo de déficit establecido para el Estado y de los ingresos no financieros. La previsión de ingresos no financieros del Estado para 2012 asciende a 119.233 millones de euros. Por su parte, los ajustes de Contabilidad Nacional ascienden a –6.360 millones de euros, lo que supone una menor capacidad de gasto en el presupuesto del Estado por ese importe. Finalmente como consecuencia de las obligaciones de 2.270 millones de euros de ejercicios anteriores, el límite de gasto homogéneo se fija en 116.295 millones de euros.
 
-
 **II**
 
 La parte esencial de la Ley de Presupuestos se recoge en el título I, «De la aprobación de los Presupuestos y de sus modificaciones», por cuanto que en su capítulo I, bajo la rúbrica «Créditos iniciales y financiación de los mismos» se aprueban la totalidad de los estados de ingresos y gastos del sector público estatal y se consigna el importe de los beneficios fiscales que afectan a los tributos del Estado.
@@ -94,7 +87,6 @@ El capítulo II contiene las normas de modificación y ejecución de créditos p
 
 El capítulo III, de la Seguridad Social, regula la financiación de la asistencia sanitaria, a través del Presupuesto del Instituto Nacional de Gestión Sanitaria y de las aportaciones del Estado, al Instituto de Mayores y Servicios Sociales y al Instituto Social de la Marina, así como aquellas que se destinen a la Seguridad Social, para atender la financiación de los complementos para mínimos de pensiones. Finalmente se incorpora un capítulo IV relativo a la información que debe proporcionarse a las Cortes Generales en materia de inversión y gasto público.
 
-
 **III**
 
 El título II de la Ley de Presupuestos relativo a la «Gestión Presupuestaria» se estructura en tres capítulos.
@@ -104,7 +96,6 @@ El capítulo I regula la gestión de los Presupuestos docentes. En él se fija e
 En el capítulo II relativo a la «Gestión presupuestaria de la Sanidad y de los Servicios Sociales», se recogen competencias específicas en materia de modificaciones presupuestarias en el ámbito del Instituto Nacional de Gestión Sanitaria y del Instituto de Mayores y Servicios Sociales.
 
 El capítulo III recoge otras normas de gestión presupuestaria y en él se establece el porcentaje de participación de la Agencia Estatal de Administración Tributaria en la recaudación bruta obtenida por su actividad propia, fijándose dicho porcentaje para 2012 en un 5 por ciento.
-
 
 **IV**
 
@@ -124,7 +115,6 @@ Junto a las normas reguladoras del personal al servicio de la Administración de
 
 El capítulo III de este título, contiene una norma de cierre, aplicable al personal cuyo sistema retributivo no tenga adecuado encaje en las normas contenidas en el Capítulo II. Junto a ella, recoge, como en Leyes de Presupuestos anteriores, otras disposiciones comunes en materia de régimen de personal activo, así como las relativas a la prohibición de ingresos atípicos y a la congelación de las cuantías a percibir por los conceptos de recompensas, cruces, medallas y pensiones de mutilación.
 
-
 **V**
 
 El título IV de la Ley de Presupuestos Generales del Estado, bajo la rúbrica «De las pensiones públicas», se divide en cinco capítulos. El capítulo I está dedicado a regular la determinación inicial de las pensiones del Régimen de Clases Pasivas del Estado y especiales de guerra.
@@ -136,7 +126,6 @@ El capítulo III regula la «Revalorización y modificación de los valores de l
 El capítulo IV recoge el sistema de complementos para mínimos, que regula en dos artículos, relativos, respectivamente, a pensiones de Clases Pasivas y pensiones del sistema de la Seguridad Social.
 
 El capítulo V contiene, de una parte, la determinación inicial y revalorización de las pensiones no contributivas de la Seguridad Social y, de otra, la fijación de la cuantía de las pensiones del extinguido Seguro Obligatorio de Vejez e Invalidez.
-
 
 **VI**
 
@@ -157,7 +146,6 @@ Las relaciones del Estado con el Instituto de Crédito Oficial están recogidas 
 Con independencia de la dotación anual al Fondo para la Promoción del Desarrollo, se fija el volumen de las operaciones que el Consejo de Ministros puede autorizar durante el ejercicio con cargo a dicho Fondo, que asciende en el presente ejercicio a 420.000 miles de euros.
 
 También se establecen la dotación al Fondo para la Internacionalización de la Empresa (FIEM), que ascenderá en el año 2012 a 261.000 miles de euros, y la dotación del Fondo de Cooperación para Agua y Saneamiento, de 15.000 miles de euros.
-
 
 **VII**
 
@@ -190,7 +178,6 @@ La tasa del Instituto de Contabilidad y Auditoría de Cuentas por emisión de in
 La tasa general de operadores se mantiene sin variación, cuyo importe se fija en el 1 por mil de los ingresos brutos de explotación del operador. También se mantiene con carácter general la cuantificación de los parámetros necesarios para determinar el importe de la tasa por reserva del dominio público radioeléctrico.
 
 Por último, se mantienen para el año 2012 las cuantías de la tasa de aproximación exigibles en 2011.
-
 
 **VIII**
 
@@ -228,13 +215,11 @@ Por último, se recoge la regulación de los Fondos de Compensación Interterrit
 
 Al igual que en años anteriores, se prevé que los remanentes de crédito de los Fondos de Compensación Interterritorial de ejercicios anteriores tengan el carácter de incorporables, si bien, a diferencia de lo dispuesto para el año 2011, en el ejercicio 2012 no se dotan créditos específicos destinados a financiar dichas incorporaciones.
 
-
 **IX**
 
 La Ley de Presupuestos Generales del Estado contiene en el título VIII, bajo la rúbrica «Cotizaciones Sociales», la normativa relativa a las bases y tipos de cotización de los distintos regímenes de la Seguridad Social, procediendo a la actualización de estas últimas.
 
 El título consta de dos artículos relativos, respectivamente, a «Bases y tipos de cotización a la Seguridad Social, Desempleo, Protección por cese de actividad, Fondo de Garantía Salarial y Formación Profesional durante el año 2012» y «Cotización a derechos pasivos y a las Mutualidades Generales de Funcionarios para el año 2012».
-
 
 **X**
 
@@ -296,16 +281,13 @@ Se incluyen igualmente, tres disposiciones derogatorias, que se refieren al art�
 
 La Ley se cierra con un conjunto de disposiciones finales, en las que se recogen las modificaciones realizadas a varias normas legales. Entre ellas, merecen citarse el texto refundido de las Leyes 116/1969, de 30 de diciembre, y 24/1972, de 21 de junio, por el que se regula el Régimen Especial de la Seguridad Social de los Trabajadores del Mar, aprobado por Decreto 2864/1974, de 30 de agosto; el texto refundido de la Ley de Clases Pasivas del Estado, aprobado por Real Decreto Legislativo 670/1987, de 30 de abril; texto refundido de la Ley sobre Seguridad Social de las Fuerzas Armadas, aprobado por Real Decreto Legislativo 1/2000, de 9 de junio; la Ley 33/2003, de 3 de noviembre, del Patrimonio de las Administraciones Públicas; la Ley 47/2003, de 26 de noviembre, General Presupuestaria; texto refundido de la Ley reguladora de las Haciendas Locales, aprobado por Real Decreto Legislativo 2/2004, de 5 de marzo; la Ley 9/2009, de 6 de octubre, de ampliación de la duración del permiso de paternidad en los casos de nacimiento, adopción o acogida; la Ley 29/2011, de 22 de septiembre, de Reconocimiento y Protección Integral de las Víctimas de Terrorismo; la Ley 13/2011, de 27 de mayo, de regulación del juego; Ley 38/1992, de 28 de diciembre, de Impuestos Especiales; Ley 21/2003, de 7 de julio, de Seguridad Aérea; se establecen los porcentajes de cesión de rendimientos recaudatorios de impuestos estatales a favor de las Entidades locales; finalizando con la tradicional disposición relativa a la gestión de créditos presupuestarios en materia de Clases Pasivas, entrada en vigor y habilitación al Gobierno para llevar a cabo el desarrollo reglamentario que requiera.
 
-
 ## TÍTULO I
-
 
 **De la aprobación de los Presupuestos y de sus modificaciones**
 
 CAPÍTULO I
 
 Créditos iniciales y financiación de los mismos
-
 
 #### Artículo 1. Ámbito de los Presupuestos Generales del Estado.
 
@@ -330,7 +312,6 @@ h) Los presupuestos de las Sociedades mercantiles estatales.
 i)	Los presupuestos de las Fundaciones del sector público estatal.
 
 j)	Los presupuestos de las Entidades públicas empresariales y restantes Organismos públicos de esta naturaleza.
-
 
 #### Artículo 2. De la aprobación de los estados de gastos e ingresos de los Entes referidos en las letras a) a d) del artículo 1 de la presente Ley.
 
@@ -510,7 +491,6 @@ Total
 
 Tres. Para las transferencias internas entre los Entes a que se refiere el apartado uno de este artículo, se aprueban créditos por importe de 31.541.237,47 miles de euros con el siguiente desglose por Entes:
 
-
 **Miles de euros**
 
 Transferencias según origen
@@ -685,11 +665,9 @@ Total
 
 Cinco. Para la amortización de pasivos financieros, se aprueban créditos en el capítulo IX de los estados de gastos de los Entes a que se refiere el apartado uno, por importe de 50.289.173,11 miles de euros cuya distribución por programas se detalla en el anexo I de esta Ley.
 
-
 #### Artículo 3. De los beneficios fiscales.
 
 Los beneficios fiscales que afectan a los tributos del Estado se estiman en 38.102.700,00 miles de euros. Su ordenación sistemática se incorpora como Anexo al estado de ingresos del Estado.
-
 
 #### Artículo 4. De la financiación de los créditos aprobados en el artículo 2 de la presente Ley.
 
@@ -699,11 +677,9 @@ a) Con los derechos económicos a liquidar durante el ejercicio, que se detallan
 
 b) Con el endeudamiento neto resultante de las operaciones que se regulan en el capítulo I del título V de esta Ley.
 
-
 #### Artículo 5. De la cuenta de operaciones comerciales.
 
 Se aprueban las estimaciones de gastos y previsiones de ingresos referidas a las operaciones comerciales de los Organismos autónomos que, a la entrada en vigor de la Ley 6/1997, de 14 de abril, de Organización y Funcionamiento de la Administración General del Estado, se encontraban incluidos en el apartado b) del artículo 4.1 del texto refundido de la Ley General Presupuestaria, así como las del Organismo público Instituto Cervantes.
-
 
 #### Artículo 6. De los presupuestos de los Entes referidos en las letras f), g), h), i) y j) del artículo 1 de esta Ley.
 
@@ -717,11 +693,9 @@ Cuatro. Se aprueban los presupuestos de las Fundaciones del sector público esta
 
 Cinco. Se aprueban los presupuestos de las Entidades públicas empresariales y de los Organismos públicos que se especifican en el anexo X, en los que se incluyen las estimaciones de gastos y previsiones de ingresos referidos a los mismos y a sus estados financieros, sin perjuicio de los mecanismos de control que, en su caso, pudieran contener las disposiciones que les resulten de aplicación.
 
-
 #### Artículo 7. Presupuesto del Banco de España.
 
 De acuerdo con lo previsto en el artículo 4.2 de la Ley 13/1994, de 1 de junio, de Autonomía del Banco de España, se aprueba el presupuesto de gastos de funcionamiento e inversiones del Banco de España, que se une a esta Ley.
-
 
 #### Artículo 8. Presupuesto de los Consorcios de la disposición adicional novena de la Ley 47/2003, de 26 de noviembre, General Presupuestaria.
 
@@ -731,7 +705,6 @@ CAPÍTULO II
 
 Normas de modificación y ejecución de créditos presupuestarios
 
-
 #### Artículo 9. Principios generales.
 
 Con vigencia exclusiva para el año 2012, las modificaciones de los créditos presupuestarios autorizados en esta Ley se sujetarán a las siguientes reglas:
@@ -739,7 +712,6 @@ Con vigencia exclusiva para el año 2012, las modificaciones de los créditos pr
 Primera.–Las modificaciones de créditos presupuestarios se ajustaran a lo dispuesto en esta Ley, y a lo que al efecto se dispone en la Ley 47/2003, de 26 de noviembre, General Presupuestaria, en los extremos que no resulten modificados por aquella.
 
 Segunda.–Con independencia de los niveles de vinculación establecidos en los artículos 43 y 44 de la Ley General Presupuestaria, todo acuerdo de modificación presupuestaria deberá indicar expresamente la Sección, Servicio u Órgano público a que se refiera así como el programa, artículo, concepto y subconcepto, en su caso, afectados por la misma.
-
 
 #### Artículo 10. Créditos vinculantes.
 
@@ -754,7 +726,6 @@ Cuatro. Con vigencia exclusiva para 2012 vincularán a nivel de capítulo, con e
 Cinco. Con vigencia exclusiva durante el año 2012 tendrá carácter vinculante el crédito 26.18.231A.227.11 «Para actividades de prevención, investigación, persecución y represión de los delitos relacionados con el tráfico de drogas y demás fines a que se refiere la Ley 17/2003, de 29 de mayo».
 
 Seis. Con vigencia exclusiva para el año 2012, vincularán a nivel de capítulo, con excepción de las subvenciones nominativas y sin perjuicio de su especificación a nivel de concepto en los estados de gasto, los créditos presupuestarios consignados en el capítulo 7 «Transferencias de capital», del presupuesto de gastos de la Sección 27 «Ministerio de Economía y Competitividad», para los siguientes servicios y programas: Servicio 13 «Dirección General de Investigación Científica y Técnica», programa 463B «Fomento y coordinación de la investigación científica y técnica», Servicio 14 «Dirección General de Innovación y Competitividad», programa 463B «Fomento y coordinación de la investigación científica y técnica» y programa 467C «Investigación y desarrollo tecnológico-industrial».
-
 
 #### Artículo 11. Competencias específicas en materia de modificaciones presupuestarias.
 
@@ -796,7 +767,6 @@ Seis. Con vigencia exclusiva para el año 2012, en el caso de modificaciones de 
 
 Siete. De todas las transferencias a que se refiere este artículo, se remitirán trimestralmente información a las Comisiones de Presupuestos del Congreso de los Diputados y del Senado, identificando las partidas afectadas, su importe y finalidad de las mismas.
 
-
 #### Artículo 12. De las limitaciones presupuestarias.
 
 Uno. La limitación para realizar transferencias de crédito desde operaciones de capital a corrientes a que se refiere el artículo 52.1.a) de la Ley 47/2003, de 26 de noviembre, General Presupuestaria, no será de aplicación para las siguientes transferencias:
@@ -815,13 +785,11 @@ Cuatro. Con vigencia exclusiva para el año 2012, no serán de aplicación las l
 
 Cinco. El Gobierno comunicará trimestralmente a las Comisiones de Presupuestos del Congreso y del Senado las operaciones de ejecución del Presupuesto del Estado realizadas en dicho período de tiempo, a los efectos de informar del cumplimiento de lo previsto en este artículo.
 
-
 #### Artículo 13. De las ampliaciones e incorporaciones de crédito.
 
 Uno. A efectos de lo dispuesto en el artículo 54 de la Ley 47/2003, de 26 de noviembre, General Presupuestaria, tendrán la condición de ampliables los créditos que se relacionan en el anexo II de esta Ley.
 
 Dos. A efectos de lo dispuesto en el artículo 58.a) de la Ley 47/2003, de 26 de noviembre, General Presupuestaria, podrán incorporarse a los créditos del ejercicio 2012 los remanentes que se recogen en el anexo VII de esta Ley.
-
 
 #### Artículo 14. Imputaciones de crédito.
 
@@ -833,7 +801,6 @@ CAPÍTULO III
 
 De la Seguridad Social
 
-
 #### Artículo 15. De la Seguridad Social.
 
 Uno. La financiación de la asistencia sanitaria, a través del Presupuesto del Instituto Nacional de Gestión Sanitaria, se efectuará con dos aportaciones finalistas del Estado, una para operaciones corrientes, por un importe de 207.813,78 miles de euros, y otra para operaciones de capital, por un importe de 11.854,18 miles de euros, y con cualquier otro ingreso afectado a aquella entidad, por importe estimado de 1.072,46 miles de euros.
@@ -844,21 +811,17 @@ Tres. El Presupuesto del Instituto de Mayores y Servicios Sociales se financiar�
 
 Cuatro. La asistencia sanitaria no contributiva del Instituto Social de la Marina se financia con una aportación finalista del Estado de 3.341,19 miles de euros. Asimismo, se financiarán por aportación del Estado los servicios sociales de dicho Instituto, a través de una transferencia corriente por un importe de 13.118,68 miles de euros y de una transferencia para operaciones de capital por valor de 1.500,00 miles de euros.
 
-
 #### Artículo 16. Información a las Cortes Generales en materia de inversión y gasto público.
 
 El Gobierno remitirá semestralmente a las Comisiones de Presupuestos del Congreso de los Diputados y del Senado información del grado de ejecución de la inversión, en su caso, con el detalle de la distribución territorial del Estado y de sus Organismos Autónomos.
 
-
 ## TÍTULO II
-
 
 **De la gestión presupuestaria**
 
 CAPÍTULO I
 
 De la gestión de los presupuestos docentes
-
 
 #### Artículo 17. Módulo económico de distribución de fondos públicos para sostenimiento de centros concertados.
 
@@ -910,7 +873,6 @@ La cantidad abonada por la Administración no podrá ser inferior a la resultant
 
 Siete. Financiación de la enseñanza concertada en las Ciudades de Ceuta y Melilla: al objeto de dotar a los centros de los equipos directivos en los términos establecidos en el artículo 117.3 de la Ley Orgánica 2/2006, de 3 de mayo, de Educación, y de proceder al aumento de la dotación de la financiación de los servicios de orientación educativa a que se refiere el artículo 22.3 de la misma ley, sobre la base de calcular el equivalente a una jornada completa del profesional adecuado a estas funciones, por cada 16 unidades concertadas de Educación Secundaria Obligatoria, el importe del módulo económico por unidad escolar para el ámbito territorial de las Ciudades de Ceuta y Melilla será el que se establece en el anexo V de la presente Ley.
 
-
 #### Artículo 18. Autorización de los costes de personal de la Universidad Nacional de Educación a Distancia (UNED).
 
 Al amparo de lo dispuesto en la disposición adicional primera de la Ley Orgánica 6/2001, de 21 de diciembre, de Universidades, se autorizan los costes de personal docente (funcionario y contratado) y del personal de administración y servicios (funcionario y laboral fijo) de la Universidad Nacional de Educación a Distancia (UNED) para el año 2012 y por los importes consignados en el anexo VI de esta Ley.
@@ -918,7 +880,6 @@ Al amparo de lo dispuesto en la disposición adicional primera de la Ley Orgáni
 CAPÍTULO II
 
 De la gestión presupuestaria de la Sanidad y de los Servicios Sociales
-
 
 #### Artículo 19. Competencias específicas en materia de modificaciones presupuestarias del Instituto Nacional de Gestión Sanitaria y del Instituto de Mayores y Servicios Sociales.
 
@@ -928,7 +889,6 @@ Corresponde al Ministro de Hacienda y Administraciones Públicas autorizar respe
 
 2. Las incorporaciones de remanentes reguladas en el artículo 58 de la Ley General Presupuestaria.
 
-
 #### Artículo 20. Aplicación de remanentes de tesorería en el Presupuesto del Instituto de Mayores y Servicios Sociales.
 
 Los remanentes de tesorería, a favor del Instituto de Mayores y Servicios Sociales, existentes en la Tesorería General de la Seguridad Social a 31 de diciembre de cada año se podrán destinar a financiar el Presupuesto de Gasto del Instituto de Mayores y Servicios Sociales. Así mismo, podrán ser utilizados para financiar posibles modificaciones en el ejercicio siguiente al que se produzcan.
@@ -936,7 +896,6 @@ Los remanentes de tesorería, a favor del Instituto de Mayores y Servicios Socia
 CAPÍTULO III
 
 Otras normas de gestión presupuestaria
-
 
 #### Artículo 21. Agencia Estatal de Administración Tributaria.
 
@@ -946,16 +905,13 @@ Dos. A los efectos de lo dispuesto en el párrafo cuarto del punto cinco.b) del 
 
 Tres. La recaudación derivada de los actos de liquidación y gestión recaudatoria o de otros actos administrativos acordados o dictados por la Agencia Estatal de Administración Tributaria, aplicada al Presupuesto de Ingresos del Estado en el mes de diciembre de 2011 podrá generar crédito en el mismo concepto, o equivalente, del Presupuesto del Estado para 2012, en el porcentaje establecido en el apartado uno de este artículo, según el procedimiento previsto en la Orden de 4 de marzo de 1993, que desarrolla el artículo 97 de la Ley 39/1992, de Presupuestos Generales del Estado para 1993.
 
-
 ## TÍTULO III
-
 
 **De los gastos de personal**
 
 CAPÍTULO I
 
 De los gastos del personal al servicio del sector público
-
 
 #### Artículo 22. Bases y coordinación de la planificación general de la actividad económica en materia de gastos de personal al servicio del sector público.
 
@@ -1117,7 +1073,6 @@ Diez. Lo dispuesto en los apartados dos, tres, cuatro, cinco, seis, siete, ocho 
 
 Once. Este artículo tiene carácter básico y se dicta al amparo de los artículos 149.1.13.ª y 156.1 de la Constitución. Además, el apartado tres se dicta en aplicación de lo dispuesto en el artículo 29 de la Ley 7/2007, de 12 de abril, del Estatuto Básico del Empleado Público.
 
-
 #### Artículo 23. Oferta de empleo público u otro instrumento similar de gestión de la provisión de necesidades de personal.
 
 Uno. 1. A lo largo del ejercicio 2012 no se procederá en el sector público delimitado en el artículo anterior, a excepción de las sociedades mercantiles públicas que se regirán por lo dispuesto en la disposición adicional vigésima tercera de esta Ley, a la incorporación de nuevo personal, salvo la que pueda derivarse de la ejecución de procesos selectivos correspondientes a Ofertas de Empleo Público de ejercicios anteriores o de plazas de militares de Tropa y Marinería necesarias para alcanzar los efectivos fijados en la Disposición adicional vigésima segunda. Esta limitación alcanza a las plazas incursas en los procesos de consolidación de empleo previstos en la disposición transitoria cuarta del Estatuto Básico del Empleado Público.
@@ -1159,7 +1114,6 @@ Seis. Los apartados uno y dos de este artículo tienen carácter básico y se di
 CAPÍTULO II
 
 De los regímenes retributivos
-
 
 #### Artículo 24. Retribuciones de los Altos Cargos del Gobierno de la Nación, de sus órganos consultivos, de la Administración General del Estado y otro personal directivo.
 
@@ -1315,7 +1269,6 @@ Sueldo
 
 3. Además dichos Altos Cargos, con el límite previsto en el número 1 de este mismo apartado, percibirán, en su caso, las retribuciones fijadas en los Acuerdos aprobados por el propio órgano en materia de adecuación por el concepto de antigüedad, y si hubieran tenido la condición previa de funcionarios públicos, con independencia de su situación de actividad, jubilación o retiro como funcionarios, tendrán derecho a seguir perfeccionando los trienios reconocidos bajo dicha condición según la normativa en cada caso aplicable y a percibir, en catorce mensualidades, la diferencia resultante por este concepto cuando la cuantía derivada de dicha normativa fuera superior a la aprobada en los referidos Acuerdos.
 
-
 #### Artículo 25. Retribuciones de los miembros del Consejo General del Poder Judicial, del Tribunal Constitucional y del Tribunal de Cuentas.
 
 Uno. En el año 2012 continúan vigentes las retribuciones a 31 de diciembre de 2011 de los miembros del Consejo General del Poder Judicial, del Tribunal Constitucional y del Tribunal de Cuentas fijadas de acuerdo con lo establecido en la disposición adicional primera del Real Decreto-ley 8/2010, de 20 mayo. A tales efectos en el siguiente cuadro se reflejan, en términos anuales, las citadas cuantías:
@@ -1463,7 +1416,6 @@ Remuneraciones anuales (a percibir en 14 mensualidades)
 96.921,72 €
 
 Dos. Además de las cantidades derivadas de lo dispuesto en el apartado anterior dichos cargos percibirán, en su caso, con el límite previsto en el apartado anterior, las retribuciones fijadas en los Acuerdos aprobados por el propio Órgano en materia de adecuación por el concepto de antigüedad, y si hubieran tenido la condición previa de funcionarios públicos, con independencia de su situación de actividad, jubilación o retiro como funcionarios, tendrán derecho a seguir perfeccionando los trienios reconocidos bajo dicha condición según la normativa en cada caso aplicable y a percibir, en catorce mensualidades, la diferencia resultante por este concepto cuando la cuantía derivada de dicha normativa fuera superior a la aprobada en los referidos Acuerdos.
-
 
 #### Artículo 26. Retribuciones de los funcionarios del Estado incluidos en el ámbito de aplicación de la Ley 30/1984, de 2 de agosto, de Medidas para la Reforma de la Función Pública en los términos de la Disposición Final Cuarta de la Ley 7/2007, de 12 de abril, del Estatuto Básico del Empleado Público.
 
@@ -1635,7 +1587,6 @@ Seis. Cuando el nombramiento de funcionarios en prácticas recaiga en funcionari
 
 Siete. Lo previsto en la presente Ley se aplicará, asimismo, a las retribuciones fijadas en euros que corresponderían en territorio nacional a los funcionarios destinados en el extranjero, sin perjuicio de la sucesiva aplicación de los módulos que procedan en virtud de la normativa vigente.
 
-
 #### Artículo 27. Personal laboral del sector público estatal.
 
 Uno. A los efectos de la presente Ley, la masa salarial del personal laboral del sector público estatal será la definida en su artículo 22.Cuatro, con el límite de las cuantías informadas favorablemente por el Ministerio de Hacienda y Administraciones Públicas para cada ejercicio presupuestario.
@@ -1659,7 +1610,6 @@ El Ministerio de Hacienda y Administraciones Públicas determinará, para las so
 Cuatro. Cuando se trate de personal no sujeto a convenio colectivo, cuyas retribuciones vengan determinadas en todo o en parte mediante contrato individual, deberán comunicarse al Ministerio de Hacienda y Administraciones Públicas, a través de la Secretaría de Estado de Presupuestos y Gastos, las retribuciones satisfechas y devengadas durante 2011.
 
 Cinco. Las indemnizaciones o suplidos del personal laboral, que se regirán por su normativa específica, no podrán experimentar ningún crecimiento respecto a 2011.
-
 
 #### Artículo 28. Retribuciones del personal de las Fuerzas Armadas.
 
@@ -1691,7 +1641,6 @@ Cuatro. Los miembros de las Fuerzas Armadas que ocupen puestos de trabajo inclui
 
 Lo dispuesto en el presente artículo debe entenderse sin perjuicio de la regulación específica que para determinados conceptos y personal de las Fuerzas Armadas se establece en la normativa vigente.
 
-
 #### Artículo 29. Retribuciones del personal del Cuerpo de la Guardia Civil.
 
 Uno. En el año 2012 las retribuciones y otras remuneraciones del personal del Cuerpo de la Guardia Civil cuyas retribuciones básicas se imputen al artículo 10 de la estructura económica del gasto de los Presupuestos Generales del Estado no experimentarán incremento respecto a las vigentes a 31 de diciembre de 2011, sin perjuicio de la retribución por antigüedad que pudiera corresponderles. Asimismo, percibirán el complemento de productividad que, en su caso, se atribuya a los mismos por el titular del Departamento, dentro de los créditos previstos para este fin. La cuantía correspondiente experimentará una reducción del 10 por ciento, en términos homogéneos de número y tipo de cargos, respecto a la destinada a este mismo fin en el ejercicio 2011.
@@ -1708,7 +1657,6 @@ C) Las retribuciones complementarias de carácter fijo y periódico, que no expe
 
 D) El complemento de productividad y las gratificaciones por servicios extraordinarios se regirán por las normas establecidas para los funcionarios del Estado incluidos en el ámbito de aplicación del artículo 26 de esta Ley determinándose sus cuantías por el Ministerio del Interior dentro de los créditos que se asignen para cada una de estas finalidades. Dichos créditos no experimentarán incremento respecto del asignado a 31 de diciembre de 2011, en términos anuales.
 
-
 #### Artículo 30. Retribuciones del personal del Cuerpo Nacional de Policía.
 
 Uno. En el año 2012 las retribuciones y otras remuneraciones del personal del Cuerpo Nacional de Policía cuyas retribuciones básicas se imputen al artículo 10 de la estructura económica del gasto de los Presupuestos Generales del Estado y de sus organismos públicos no experimentarán incremento respecto a las vigentes a 31 de diciembre de 2011, sin perjuicio de la retribución por antigüedad que pudiera corresponderles. Asimismo, percibirán el complemento de productividad que, en su caso, se atribuya a los mismos por el titular del Departamento, dentro de los créditos previstos para tal fin. La cuantía correspondiente experimentará una reducción del 10 por ciento, en términos homogéneos de número y tipo de cargos, respecto a la destinada a este mismo fin en el ejercicio 2011.
@@ -1724,7 +1672,6 @@ La valoración y devengo de los trienios y de las pagas extraordinarias se efect
 C) Las retribuciones complementarias de carácter fijo y periódico, que no experimentarán ningún incremento respecto de las vigentes a 31 de diciembre de 2011, sin perjuicio de lo previsto en el artículo 22. Siete de esta Ley.
 
 D) El complemento de productividad y las gratificaciones por servicios extraordinarios se regirán por las normas establecidas para los funcionarios del Estado incluidos en el artículo 26 de esta Ley determinándose sus cuantías por el Ministerio del Interior dentro de los créditos que se asignen para cada una de estas finalidades. Dichos créditos no experimentarán incremento respecto de los asignados a 31 de diciembre de 2011, en términos anuales.
-
 
 #### Artículo 31. Retribuciones de los miembros de las Carreras Judicial y Fiscal, de los del Cuerpo de Secretarios Judiciales y del personal al servicio de la Administración de Justicia.
 
@@ -2174,7 +2121,6 @@ El Fiscal General del Estado percibirá, además de la cuantía señalada en el 
 
 4. El sueldo y las retribuciones complementarias de los miembros del Poder Judicial y del Ministerio Fiscal a los que se refieren los puntos 1 y 2 del presente apartado, serán las establecidas en los mismos y en el punto 3 del mismo apartado, quedando excluidos, a estos efectos, del ámbito de aplicación de la Ley 15/2003, de 26 de mayo, reguladora del régimen retributivo de las carreras judicial y fiscal, sin perjuicio del derecho al devengo de las retribuciones especiales que les correspondan en las cuantías previstas en el número 4 del artículo 32.Cinco.B) de la citada Ley 26/2009.
 
-
 #### Artículo 32. Retribuciones del personal estatutario y del personal de la Seguridad Social no estatutario.
 
 Uno. En el año 2012 las retribuciones del personal funcionario de la Administración de la Seguridad Social, ya homologado con el resto del personal de la Administración General del Estado, serán las establecidas en el artículo 26 de esta Ley.
@@ -2193,11 +2139,9 @@ CAPÍTULO III
 
 Otras disposiciones en materia de régimen del personal activo
 
-
 #### Artículo 33. Prohibición de ingresos atípicos.
 
 Los empleados públicos comprendidos dentro del ámbito de aplicación de la presente Ley, con excepción de aquéllos sometidos al régimen de arancel, no podrán percibir participación alguna de los tributos, comisiones u otros ingresos de cualquier naturaleza, que correspondan a la Administración o a cualquier poder público como contraprestación de cualquier servicio o jurisdicción, ni participación o premio en multas impuestas aun cuando estuviesen normativamente atribuidas a los mismos, debiendo percibir únicamente las remuneraciones del correspondiente régimen retributivo, y sin perjuicio de lo que resulte de la aplicación del sistema de incompatibilidades y de lo dispuesto en la normativa específica sobre disfrute de vivienda por razón del trabajo o cargo desempeñado.
-
 
 #### Artículo 34. Recompensas, cruces, medallas y pensiones de mutilación.
 
@@ -2206,7 +2150,6 @@ Uno. En el año 2012 las cuantías a percibir por los conceptos de recompensas, 
 Dos. La Cruz Laureada de San Fernando y la Medalla Militar individual se regirán por su legislación especial.
 
 Tres. La Cruz a la Constancia y las diferentes categorías de la Real y Militar Orden de San Hermenegildo se regirán por lo establecido en el Real Decreto 1189/2000, de 23 de junio, por el que se aprueba el Reglamento de la Real y Militar Orden de San Hermenegildo.
-
 
 #### Artículo 35. Otras normas comunes.
 
@@ -2217,7 +2160,6 @@ Dos. En la Administración General del Estado, sus Organismos autónomos y Agenc
 A los solos efectos de la asimilación a que se refiere el párrafo anterior, se podrá autorizar que la cuantía de la retribución por antigüedad sea la que proceda de acuerdo con el régimen retributivo de origen del funcionario.
 
 Tres. Las indemnizaciones por razón del servicio seguirán percibiéndose en las cuantías vigentes en 2011.
-
 
 #### Artículo 36. Requisitos para la determinación o modificación de retribuciones del personal laboral y no funcionario.
 
@@ -2257,7 +2199,6 @@ Cinco. Serán nulos de pleno derecho los acuerdos adoptados en esta materia con 
 
 No podrán autorizarse gastos derivados de la aplicación de las retribuciones para el año 2012 sin el cumplimiento de los requisitos establecidos en el presente artículo.
 
-
 #### Artículo 37. Contratación de personal laboral con cargo a los créditos de inversiones.
 
 Uno. Los Departamentos ministeriales, Organismos autónomos, Agencias estatales y Entidades Gestoras de la Seguridad Social podrán formalizar durante el año 2012, con cargo a los respectivos créditos de inversiones, contrataciones de personal de carácter temporal para la realización de obras o servicios, siempre que se dé la concurrencia de los siguientes requisitos:
@@ -2276,21 +2217,17 @@ Cuatro. Los contratos regulados en el presente artículo serán objeto de fiscal
 
 En los Organismos autónomos del Estado con actividades industriales, comerciales, financieras o análogas, y en las entidades públicas empresariales, esta contratación requerirá informe favorable del correspondiente Interventor Delegado, que versará sobre la no disponibilidad de crédito en el concepto presupuestario destinado a la contratación de personal eventual en el capítulo correspondiente. En caso de disconformidad con el informe emitido, el organismo autónomo o la Entidad pública empresarial podrán elevar el expediente al Ministerio de Hacienda y Administraciones Públicas para su resolución.
 
-
 #### Artículo 38. Competencia del Ministerio de Hacienda y Administraciones Públicas en materia de costes del personal al servicio del sector público.
 
 Todos los acuerdos, convenios, pactos o instrumentos similares, así como las medidas que se adopten en su cumplimiento o desarrollo, adoptados en el ámbito de los Departamentos ministeriales, Organismos, Agencias Estatales, entidades públicas empresariales y demás entes públicos del sector público estatal requerirán, para su plena efectividad, el informe previo y favorable del Ministerio de Hacienda y Administraciones Públicas, a través de la Secretaría de Estado de Presupuestos y Gastos siendo nulos de pleno derecho los que se alcancen sin dicho informe, sin que de los mismos pueda en ningún caso derivarse, directa o indirectamente, incremento del gasto público en materia de costes de personal y/o incremento de retribuciones.
 
-
 ## TÍTULO IV
-
 
 **De las pensiones públicas**
 
 CAPÍTULO I
 
 Determinación inicial de las pensiones del Régimen de Clases Pasivas del Estado y de las especiales de guerra
-
 
 #### Artículo 39. Determinación inicial de las pensiones del Régimen de Clases Pasivas del Estado.
 
@@ -3026,7 +2963,6 @@ De Ujieres
 
 Cuatro. El importe mensual de las pensiones a que se refiere este artículo se obtendrá dividiendo por 14 la cuantía anual calculada según lo dispuesto en las reglas contenidas en los apartados precedentes y de acuerdo con la legislación que resulte aplicable.
 
-
 #### Artículo 40. Determinación inicial de las pensiones especiales de guerra.
 
 Uno. El importe de las pensiones reconocidas al amparo de la Ley 5/1979, de 18 de septiembre, en favor de familiares de fallecidos como consecuencia de la guerra civil, no podrá ser inferior, para 2012, a la cuantía mínima de las pensiones de viudedad de mayores de 65 años en el sistema de la Seguridad Social, excepto para las pensiones causadas por el personal no funcionario en favor de huérfanos no incapacitados, cuya cuantía será de 1.801,80 euros anuales.
@@ -3066,7 +3002,6 @@ No obstante lo establecido en el último inciso del párrafo anterior, cuando el
 CAPÍTULO II
 
 Limitaciones en el señalamiento inicial de las pensiones públicas
-
 
 #### Artículo 41. Limitación del señalamiento inicial de las pensiones públicas.
 
@@ -3108,7 +3043,6 @@ CAPÍTULO III
 
 Revalorización y modificación de los valores de las pensiones públicas
 
-
 #### Artículo 42. Revalorización y modificación de los valores de las pensiones públicas.
 
 Uno. Las pensiones abonadas por el sistema de la Seguridad Social, en su modalidad contributiva, así como las pensiones de Clases Pasivas del Estado, mantendrán en el año 2012 el incremento del 1 por ciento, establecido en el artículo 5 del Real Decreto-ley 20/2011, de 30 de diciembre, de medidas urgentes en materia presupuestaria, tributaria y financiera para la corrección del déficit público, de conformidad con lo previsto en el artículo 48 del texto refundido de la Ley General de la Seguridad Social, aprobado por Real Decreto Legislativo 1/1994, de 20 de junio, y en el artículo 27 del texto refundido de la Ley de Clases Pasivas del Estado, sin perjuicio de las excepciones contenidas en los artículos siguientes de este capítulo y de los importes de garantía que figuran en el precedente artículo 40 de esta Ley, respecto de las pensiones reconocidas al amparo de la legislación especial de la guerra civil.
@@ -3118,7 +3052,6 @@ La cuantía inicial de las pensiones de jubilación y retiro y de viudedad de Cl
 Dos. De acuerdo con lo establecido en la disposición adicional sexta, punto Uno, del texto refundido de la Ley sobre Seguridad Social de los Funcionarios Civiles del Estado, aprobado por Real Decreto Legislativo 4/2000, de 23 de junio, las pensiones de las Mutualidades integradas en el Fondo Especial de la Mutualidad General de Funcionarios Civiles del Estado, causadas con posterioridad a 31 de diciembre de 2006, experimentarán el 1 de enero del año 2012 una reducción, respecto de los importes percibidos a 31 de diciembre de 2011, del 20 por ciento de la diferencia entre la cuantía correspondiente a 31 de diciembre de 1978 –o de 1977, si se tratase del Montepío de Funcionarios de la Organización Sindical– y la de 31 de diciembre de 1973.
 
 Tres. Las pensiones abonadas con cargo a los regímenes o sistemas de previsión enumerados en el artículo 42 de la Ley 37/1988, de 28 de diciembre, y no indicadas en los apartados anteriores de este artículo, experimentarán en el año 2012 la revalorización o modificación que en su caso proceda, según su normativa reguladora, sobre las cuantías percibidas a 31 de diciembre de 2011, salvo las excepciones contenidas en los siguientes artículos de este capítulo.
-
 
 #### Artículo 43. Pensiones no revalorizables.
 
@@ -3133,7 +3066,6 @@ b) Las pensiones de Clases Pasivas reconocidas a favor de los Camineros del Esta
 c) Las pensiones de las Mutualidades integradas en el Fondo Especial de la Mutualidad General de Funcionarios Civiles del Estado que, a 31 de diciembre de 2011, hubieran ya alcanzado las cuantías correspondientes al 31 de diciembre de 1973.
 
 Dos. En el caso de Mutualidades, Montepíos o Entidades de Previsión Social de cualquier tipo que integren a personal de empresas o sociedades con participación mayoritaria del Estado, Comunidades Autónomas, Corporaciones Locales u Organismos autónomos y se financien con fondos procedentes de dichos órganos o entidades públicas, o en el caso de que éstos estén abonando directamente al personal incluido en la acción protectora de aquéllas pensiones complementarias por cualquier concepto sobre las que les correspondería abonar a los regímenes generales que sean de aplicación, las revalorizaciones a que se refiere el artículo 42 serán consideradas como límite máximo, pudiendo aplicarse coeficientes menores e, incluso, inferiores a la unidad, a dichas pensiones complementarias, de acuerdo con sus regulaciones propias o con los pactos que se produzcan.
-
 
 #### Artículo 44. Limitación del importe de la revalorización de las pensiones públicas.
 
@@ -3162,7 +3094,6 @@ Tres. Lo dispuesto en los apartados Cuatro a Ocho, ambos inclusive, del preceden
 CAPÍTULO IV
 
 Complementos para mínimos
-
 
 #### Artículo 45. Reconocimiento de complementos para mínimos en las pensiones de Clases Pasivas.
 
@@ -3229,7 +3160,6 @@ Pensión familiar distinta de la de viudedad, siendo N el número de beneficiari
 N
 
 Cuatro. Los complementos económicos regulados en los apartados precedentes de este artículo no se aplicarán a las pensiones reconocidas al amparo de la legislación especial derivada de la guerra civil, cuyas cuantías se fijan en el artículo 40 de esta Ley, excepto a las pensiones de orfandad reconocidas al amparo del Título II de la Ley 37/1984, de 22 de octubre, así como a las reconocidas a favor de huérfanos no incapacitados mayores de 21 años, causadas por personal no funcionario al amparo de las Leyes 5/1979, de 18 de septiembre, y 35/1980, de 26 de junio.
-
 
 #### Artículo 46. Reconocimiento de los complementos para mínimos en las pensiones de la Seguridad Social.
 
@@ -3461,7 +3391,6 @@ CAPÍTULO V
 
 Otras disposiciones en materia de pensiones públicas
 
-
 #### Artículo 47. Determinación inicial y revalorización de las pensiones no contributivas de la Seguridad Social.
 
 Uno. Para el año 2012, la cuantía de las pensiones de jubilación e invalidez del sistema de la Seguridad Social, en su modalidad no contributiva, se fijará en 5.007,80 euros íntegros anuales.
@@ -3469,7 +3398,6 @@ Uno. Para el año 2012, la cuantía de las pensiones de jubilación e invalidez 
 Dos. Para el año 2012, se establece un complemento de pensión, fijado en 525 euros anuales, para el pensionista que acredite fehacientemente carecer de vivienda en propiedad y tener, como residencia habitual, una vivienda alquilada al pensionista cuyo propietario no tenga con él relación de parentesco hasta tercer grado, ni sea cónyuge o persona con la que constituya una unión estable y conviva con análoga relación de afectividad a la conyugal. En el caso de unidades familiares en las que convivan varios perceptores de pensiones no contributivas, sólo podrá percibir el complemento el titular del contrato de alquiler o, de ser varios, el primero de ellos.
 
 Se autoriza al Gobierno a dictar las normas de desarrollo necesarias para regular el procedimiento de solicitud, reconocimiento y abono de este complemento, sin perjuicio de que el mismo surta efectos económicos desde el 1 de enero de 2012, o desde la fecha de reconocimiento de la pensión para aquellos pensionistas que vean reconocida la prestación durante 2012.
-
 
 #### Artículo 48. Pensiones del extinguido Seguro Obligatorio de Vejez e Invalidez.
 
@@ -3487,16 +3415,13 @@ Cuatro. Cuando, para el reconocimiento de una pensión del extinguido Seguro Obl
 
 Esta misma garantía se aplicará en relación con los titulares de otras pensiones distintas de las del extinguido Seguro Obligatorio de Vejez e Invalidez que opten por alguna de estas pensiones, siempre que en la fecha del hecho causante de la pensión que se venga percibiendo hubieran reunido todos los requisitos exigidos por dicho Seguro.
 
-
 ## TÍTULO V
-
 
 **De las operaciones financieras**
 
 CAPÍTULO I
 
 Deuda Pública
-
 
 #### Artículo 49. Deuda Pública.
 
@@ -3516,7 +3441,6 @@ e) Por la variación neta en los derechos y las obligaciones del Estado reconoci
 
 Las citadas revisiones incrementarán o reducirán el límite señalado en el apartado anterior según supongan un aumento o una disminución, respectivamente, de la necesidad de financiación del Estado.
 
-
 #### Artículo 50. Operaciones de crédito autorizadas a Organismos Públicos.
 
 Uno. Se autoriza a los Organismos Públicos que figuran en el Anexo III de esta Ley a concertar operaciones de crédito durante el año 2012 por los importes que, para cada uno, figuran en el anexo citado.
@@ -3529,7 +3453,6 @@ Esta autorización será aplicable únicamente a los anticipos que se concedan c
 
 Tres. Los Organismos dependientes del Ministerio de Agricultura, Alimentación y Medio Ambiente que figuran en el citado Anexo III, con carácter previo a la concertación de las operaciones correspondientes y a fin de verificar el destino del endeudamiento, deberán solicitar autorización de la Secretaria de Estado de Presupuestos y Gastos, aportando un plan económico-financiero justificativo de la operación, incluidos los supuestos en que el endeudamiento se solicite para cubrir déficits de Tesorería que se produzcan por desfase entre los pagos que realice el Organismo en actuaciones cofinanciadas con Fondos Europeos y los retornos comunitarios correspondientes a dichos pagos.
 
-
 #### Artículo 51. Información de la evolución de la Deuda del Estado al Ministerio de Economía y Competitividad y al Congreso de los Diputados y al Senado; y de las cuentas abiertas por el Tesoro en el Banco de España o en otras entidades financieras al Congreso de los Diputados y al Senado.
 
 Los Organismos públicos que tienen a su cargo la gestión de la Deuda del Estado o asumida por éste, aun cuando lo asumido sea únicamente la carga financiera, remitirán a la Secretaría General del Tesoro y Política Financiera del Ministerio de Economía y Competitividad la siguiente información: trimestralmente, sobre los pagos efectuados y sobre la situación de la Deuda el día último del trimestre, y al comienzo de cada año, sobre la previsión de gastos financieros y amortizaciones para el ejercicio.
@@ -3541,7 +3464,6 @@ Asimismo, el Gobierno comunicará trimestralmente el número de cuentas abiertas
 CAPÍTULO II
 
 Avales Públicos y Otras Garantías
-
 
 #### Artículo 52. Importe de los Avales del Estado.
 
@@ -3579,7 +3501,6 @@ Cuatro. Se autoriza a la Secretaría General del Tesoro y Política Financiera p
 
 Con posterioridad a su realización, la Secretaría General del Tesoro y Política Financiera procederá a la aplicación definitiva al presupuesto de gastos de los pagos realizados en el ejercicio, salvo los efectuados en el mes de diciembre de cada año, que se aplicarán al presupuesto en el año siguiente.
 
-
 #### Artículo 53. Avales para garantizar valores de renta fija emitidos por Fondos de Titulización de activos.
 
 Uno. El Estado podrá otorgar avales hasta una cuantía máxima, durante el ejercicio de 2012, de 3.000.000 miles de euros, con el objeto de garantizar valores de renta fija emitidos por fondos de titulización de activos constituidos al amparo de los convenios que suscriban la Administración General del Estado y las sociedades gestoras de fondos de titulización de activos inscritas en la Comisión Nacional del Mercado de Valores, con el fin de mejorar la financiación de la actividad productiva empresarial.
@@ -3606,7 +3527,6 @@ Con posterioridad a su realización, la Secretaría General del Tesoro y Políti
 
 Siete. Se faculta al titular del Ministerio de Economía y Competitividad para que establezca las normas y requisitos a los que se ajustarán los convenios a que hace mención el apartado 1 de este artículo.
 
-
 #### Artículo 54. Avales de las entidades públicas empresariales y sociedades mercantiles estatales.
 
 Se autoriza a la Sociedad Estatal de Participaciones Industriales a prestar avales en el ejercicio del año 2012, en relación con las operaciones de crédito que concierten y con las obligaciones derivadas de concursos de adjudicación en que participen durante el citado ejercicio las sociedades mercantiles en cuyo capital participe directa o indirectamente, hasta un límite máximo de 1.210.000 miles de euros.
@@ -3614,7 +3534,6 @@ Se autoriza a la Sociedad Estatal de Participaciones Industriales a prestar aval
 CAPÍTULO III
 
 Relaciones del Estado con el Instituto de Crédito Oficial
-
 
 #### Artículo 55. Fondo para la Promoción del Desarrollo (FONPRODE).
 
@@ -3634,7 +3553,6 @@ Cuatro. Serán recursos adicionales a la dotación prevista para el FONPRODE tod
 
 Cinco. La compensación anual al ICO establecida en el artículo 14 de la Ley 13/2010, de 22 de octubre, del Fondo para la Promoción del Desarrollo, será efectuada con cargo a los recursos del propio FONPRODE, previa autorización por acuerdo del Consejo de Ministros, por los gastos en los que incurra en el desarrollo y ejecución de la función que se le encomienda.
 
-
 #### Artículo 56. Fondo de Cooperación para Agua y Saneamiento.
 
 La dotación al Fondo de Cooperación para Agua y Saneamiento a que se refiere la disposición adicional sexagésima primera de la Ley 51/2007, de 26 de diciembre, de Presupuestos Generales del Estado para 2008, ascenderá, en el año 2012 a 15.000 miles de euros y se destinará a los fines previstos en el apartado tres de dicha disposición adicional.
@@ -3642,7 +3560,6 @@ La dotación al Fondo de Cooperación para Agua y Saneamiento a que se refiere l
 El Consejo de Ministros podrá autorizar operaciones con cargo al Fondo por un importe de hasta 15.000 miles de euros a lo largo del año 2012.
 
 El Gobierno informará al Congreso y al Senado durante el primer semestre del año, de las operaciones autorizadas por el Consejo de Ministros con cargo a este Fondo del año anterior.
-
 
 #### Artículo 57. Fondo para la Internacionalización de la Empresa (FIEM).
 
@@ -3662,7 +3579,6 @@ Cuatro. La compensación anual al ICO establecida en el artículo 11.4 de la Ley
 
 Cinco. El Gobierno informará anualmente a las Cortes Generales y al Consejo Económico y Social de las operaciones, proyectos y actividades autorizadas con cargo al FIEM, de sus objetivos y beneficiarios de la financiación, condiciones financieras y evaluaciones, así como sobre el desarrollo de las operaciones en curso a lo largo del periodo contemplado.
 
-
 #### Artículo 58. Reembolsos del Estado al Instituto de Crédito Oficial.
 
 Uno. Reembolsos del Estado al Instituto de Crédito Oficial como consecuencia de la gestión de sistema CARI. El Estado reembolsará durante el año 2012 al Instituto de Crédito Oficial tanto las cantidades que éste hubiera satisfecho a las instituciones financieras en pago de las operaciones de ajuste de intereses previstas en la Ley 11/1983, de 16 de agosto, de Medidas financieras de estímulo a la exportación, como los costes de gestión de dichas operaciones en que aquél haya incurrido.
@@ -3679,7 +3595,6 @@ Dos. Reembolsos del Estado al Instituto de Crédito Oficial como consecuencia de
 
 En los supuestos de intereses subvencionados por el Estado, en operaciones financieras instrumentadas a través del Instituto de Crédito Oficial, los acuerdos del Consejo de Ministros o de la Comisión Delegada del Gobierno para Asuntos Económicos incluirán información acerca de la reserva de créditos en los Presupuestos Generales del Estado.
 
-
 #### Artículo 59. Adquisición de acciones y participaciones de Organismos Financieros Multilaterales.
 
 Uno. Durante el año 2012 el límite máximo de las operaciones de adquisición de acciones y participaciones de Organismos Financieros Multilaterales o de aportaciones a fondos constituidos en los mismos, con impacto en déficit público y financiadas con cargo a las aplicaciones presupuestarias 27.04.923O.869 y 27.06.923P.869 «De Organismos Financieros Multilaterales» será de 125.000 miles de euros.
@@ -3688,9 +3603,7 @@ Dos. A efectos del cumplimiento del límite previsto en el apartado anterior la 
 
 Tres. Trimestralmente el Ministerio de Economía y Competitividad informará al Ministerio de Hacienda y Administraciones Públicas sobre la ejecución de las operaciones realizadas a efectos de verificar el cumplimiento del límite regulado en el apartado uno.
 
-
 ## TÍTULO VI
-
 
 **Normas Tributarias**
 
@@ -3699,7 +3612,6 @@ CAPÍTULO I
 Impuestos Directos
 
 Sección 1.ª Impuesto sobre la Renta de las Personas Físicas
-
 
 #### Artículo 60. Coeficientes de actualización del valor de adquisición.
 
@@ -3713,75 +3625,39 @@ Coeficiente
 
 1,3037
 
-1995
-
 1,3773
-
-1996
 
 1,3302
 
-1997
-
 1,3037
-
-1998
 
 1,2784
 
-1999
-
 1,2554
-
-2000
 
 1,2313
 
-2001
-
 1,2071
-
-2002
 
 1,1834
 
-2003
-
 1,1603
-
-2004
 
 1,1375
 
-2005
-
 1,1151
-
-2006
 
 1,0933
 
-2007
-
 1,0719
-
-2008
 
 1,0509
 
-2009
-
 1,0303
-
-2010
 
 1,0201
 
-2011
-
 1,0100
-
-2012
 
 1,0000
 
@@ -3802,7 +3678,6 @@ Para determinar el valor anterior del elemento patrimonial actualizado se tomar�
 3.ª El importe que resulte de las operaciones descritas en el número anterior se minorará en el incremento neto de valor derivado de las operaciones de actualización previstas en el Real Decreto-ley 7/1996, siendo la diferencia positiva así determinada el importe de la depreciación monetaria.
 
 4.ª La ganancia o pérdida patrimonial será el resultado de minorar la diferencia entre el valor de transmisión y el valor contable en el importe de la depreciación monetaria a que se refiere el número anterior.
-
 
 #### Artículo 61. Gravamen complementario a la cuota íntegra estatal para la reducción del déficit público en los ejercicios 2012 y 2013.
 
@@ -3934,15 +3809,11 @@ Porcentaje
 
 6.000,00
 
-120
-
 18.000
 
 4
 
 24.000,00
-
-840
 
 En adelante
 
@@ -4047,7 +3918,6 @@ En los rendimientos que se satisfagan o abonen a partir del 1 de febrero de 2012
 Asimismo, durante los períodos a que se refiere el párrafo anterior, el porcentaje de retención del 35 por ciento previsto en el apartado 2 del artículo 101 de esta Ley, se eleva al 42 por ciento.»
 
 Sección 2.ª Impuesto sobre Sociedades
-
 
 #### Artículo 62. Coeficientes de corrección monetaria.
 
@@ -4191,7 +4061,6 @@ El importe que resulte de las operaciones descritas en el párrafo anterior se m
 
 Para determinar el valor anterior del elemento patrimonial actualizado se tomarán los valores que hayan sido considerados a los efectos de aplicar los coeficientes establecidos en el apartado uno.
 
-
 #### Artículo 63. Pago fraccionado del Impuesto sobre Sociedades.
 
 Respecto de los períodos impositivos que se inicien durante el año 2012, el porcentaje a que se refiere el apartado 4 del artículo 45 del texto refundido de la Ley del Impuesto sobre Sociedades, aprobado por el Real Decreto Legislativo 4/2004, de 5 de marzo, será el 18 por ciento para la modalidad de pago fraccionado prevista en el apartado 2 del mismo. Las deducciones y bonificaciones a las que se refiere dicho apartado incluirán todas aquellas otras que le fueren de aplicación al sujeto pasivo.
@@ -4202,7 +4071,6 @@ Estarán obligados a aplicar la modalidad a que se refiere el párrafo anterior 
 
 A efectos de la aplicación de la modalidad de pago fraccionado prevista en el apartado 3 del artículo 45 del texto refundido de la Ley del Impuesto sobre Sociedades, deberá tenerse en cuenta lo dispuesto en el artículo 9.Primero.Uno del Real Decreto-ley 9/2011, de 19 de agosto, de medidas para la mejora de la calidad y cohesión del sistema nacional de salud, de contribución a la consolidación fiscal, y de elevación del importe máximo de los avales del Estado para 2011.
 
-
 #### Artículo 64. Porcentajes de retención o ingreso a cuenta en los ejercicios 2012 y 2013.
 
 Con efectos desde 1 de enero de 2012 y vigencia indefinida, se añade una disposición adicional decimocuarta en el texto refundido de la Ley del Impuesto sobre Sociedades, aprobado por el Real Decreto Legislativo 4/2004, de 5 de marzo, que queda redactada de la siguiente forma:
@@ -4212,7 +4080,6 @@ Con efectos desde 1 de enero de 2012 y vigencia indefinida, se añade una dispos
 Desde el 1 de enero de 2012 y hasta el 31 de diciembre de 2013, ambos inclusive, el porcentaje de retención o ingreso a cuenta del 19 por ciento a que se refiere la letra a) del apartado 6 del artículo 140 de esta Ley se eleva al 21 por 100.»
 
 Sección 3.ª Impuesto sobre la Renta de no Residentes
-
 
 #### Artículo 65. Rentas exentas.
 
@@ -4246,7 +4113,6 @@ Lo dispuesto en esta letra h) se aplicará igualmente a los beneficios distribui
 
 4.º Se cumplan los restantes requisitos establecidos en esta letra h).»
 
-
 #### Artículo 66. Tipo de gravamen en los ejercicios 2012 y 2013.
 
 Se añade una disposición adicional tercera en el texto refundido de la Ley del Impuesto sobre la Renta de no Residentes, aprobado por el Real Decreto Legislativo 5/2004, de 5 marzo, que queda redactada de la siguiente forma:
@@ -4263,13 +4129,11 @@ Impuestos Indirectos
 
 Sección 1.ª Impuesto sobre el Valor Añadido
 
-
 #### Artículo 67. Adquisiciones intracomunitarias de gas, electricidad, calor y frío.
 
 Con efectos desde la entrada en vigor de esta Ley y vigencia indefinida, se modifica la letra g) del número 1.º del artículo 13 de la Ley 37/1992, de 28 de diciembre, del Impuesto sobre el Valor Añadido, que queda redactada de la siguiente forma:
 
 «g) Las adquisiciones de bienes que se correspondan con las entregas de gas a través de una red de gas natural situada en el territorio de la Comunidad o de cualquier red conectada a dicha red, las entregas de electricidad o las entregas de calor o de frío a través de las redes de calefacción o de refrigeración que se entiendan realizadas en el territorio de aplicación del impuesto de acuerdo con el apartado siete del artículo 68.»
-
 
 #### Artículo 68. Servicios de restauración y catering.
 
@@ -4283,7 +4147,6 @@ Cuando se trate de un transporte de ida y vuelta, el trayecto de vuelta se consi
 
 b) Los restantes servicios de restauración y catering cuando se presten materialmente en el territorio de aplicación del Impuesto.»
 
-
 #### Artículo 69. Sujeto pasivo en las adquisiciones intracomunitarias de gas, electricidad, calor y frío.
 
 Con efectos desde la entrada en vigor de esta Ley y vigencia indefinida, se modifica el número 4.º del apartado uno del artículo 84 de la Ley 37/1992, de 28 de diciembre, del Impuesto sobre el Valor Añadido, que queda redactado de la siguiente forma:
@@ -4291,7 +4154,6 @@ Con efectos desde la entrada en vigor de esta Ley y vigencia indefinida, se modi
 «4.º Sin perjuicio de lo dispuesto en los números anteriores, los empresarios o profesionales, así como las personas jurídicas que no actúen como empresarios o profesionales, que sean destinatarios de entregas de gas y electricidad o las entregas de calor o de frío a través de las redes de calefacción o de refrigeración que se entiendan realizadas en el territorio de aplicación del impuesto conforme a lo dispuesto en el apartado siete del artículo 68, siempre que la entrega la efectúe un empresario o profesional no establecido en el citado territorio y le hayan comunicado el número de identificación que a efectos del Impuesto sobre el Valor Añadido tengan asignado por la Administración española.»
 
 Sección 2.ª Impuesto sobre Transmisiones Patrimoniales y Actos Jurídicos Documentados
-
 
 #### Artículo 70. Escala por transmisiones y rehabilitaciones de grandezas y títulos nobiliarios.
 
@@ -4339,21 +4201,17 @@ Euros
 
 3.º Por cada título sin grandeza
 
-746
-
 1.873
 
 4.506
 
 Sección 3.ª Impuestos Especiales
 
-
 #### Artículo 71. Modificación de las definiciones de gasolina sin plomo.
 
 Con efectos desde la entrada en vigor de esta Ley, se modifica el epígrafe 1.2.1 de la Tarifa 1.ª del Impuesto sobre Hidrocarburos, contenido en el artículo 50.1 de la Ley 38/1992, de 28 de diciembre, de Impuestos Especiales, que queda redactado de la siguiente forma:
 
 «Epígrafe 1.2.1 Gasolinas sin plomo de 98 I.O. o de octanaje superior: 431,92 euros por 1.000 litros.»
-
 
 #### Artículo 72. Adaptación a la normativa comunitaria.
 
@@ -4364,7 +4222,6 @@ Con efectos desde la entrada en vigor de esta Ley, se modifica el epígrafe 1.11
 CAPÍTULO III
 
 Otros Tributos
-
 
 #### Artículo 73. Tasas.
 
@@ -4378,11 +4235,9 @@ Dos. Se consideran tipos de cuantía fija aquellos que no se determinen por un p
 
 Tres. Se mantienen para el año 2012 los tipos y cuantías fijas establecidos en el apartado 4 del artículo 3 del Real Decreto-ley 16/1977, de 25 de febrero, por el que se regulan los aspectos penales, administrativos y fiscales de los juegos de suerte, envite o azar, en el importe exigible durante el año 2011, de acuerdo con lo establecido en el artículo 83.Cuatro de la Ley 39/2010, de 22 de diciembre, de Presupuestos Generales del Estado para el año 2011.
 
-
 #### Artículo 74. Tasas en materia de telecomunicaciones.
 
 Para el año 2012, los parámetros y porcentajes que en las tasas en materia de telecomunicaciones deben fijarse anualmente en la Ley de Presupuestos Generales del Estado, son los establecidos en el artículo 9 del Real Decreto-ley 20/2011, de 30 de diciembre, de medidas urgentes en materia presupuestaria, tributaria y financiera para la corrección del déficit público.
-
 
 #### Artículo 75. Tasa del Instituto de Contabilidad y Auditoría de Cuentas por emisión de informes de auditoría de cuentas.
 
@@ -4394,16 +4249,13 @@ Dicha cuantía fija será de 188,40 euros por cada informe de auditoría emitido
 
 A estos efectos, se entiende por Entidad de Interés Público lo establecido en el artículo 2.5 del texto refundido de la Ley de Auditoría de Cuentas aprobado por Real Decreto Legislativo 1/2011 de 1 de julio.»
 
-
 #### Artículo 76. Tasa aproximación.
 
 No obstante lo dispuesto en el artículo 73, se mantienen para el año 2012 las cuantías de la tasa de aproximación en el importe exigible durante el año 2011 de acuerdo con lo establecido en el artículo 86 de la Ley 39/2010, de 22 de diciembre, de Presupuestos Generales del Estado para el año 2011, modificadas, con efectos desde el 8 de junio de 2011, por la Ley 1/2011, de 4 de marzo, apartados veinticinco y veintiséis.
 
-
 #### Artículo 77. Cuantías básicas de las tasas aplicables al sistema portuario de interés general.
 
 De acuerdo con lo previsto en la disposición adicional vigésima segunda del Texto Refundido de la Ley de Puertos del Estado y de la Marina Mercante, aprobado por Real Decreto Legislativo 2/2011, de 5 de septiembre, las cuantías básicas de las tasas del buque, del pasaje, de la mercancía, de las embarcaciones deportivas y de recreo, de la tasa por utilización de la zona de tránsito, de la tasa de ayudas a la navegación y de la tarifa fija por el servicio de recepción de desechos generados por buques, establecidas en la citada norma, se mantienen sin actualización alguna, sin perjuicio del régimen de actualización propio establecido en la referida norma para la tasa de ocupación y la tasa de actividad.
-
 
 #### Artículo 78. Coeficientes correctores de aplicación a las tasas del buque, del pasaje y de la mercancía en los puertos de interés general.
 
@@ -4641,18 +4493,15 @@ Villagarcía
 
 1,00
 
-
 #### Artículo 79. Bonificaciones aplicables en los puertos de interés general a las tasas de ocupación, del buque, del pasaje y de la mercancía.
 
 Las bonificaciones previstas en los artículos 182 y 245 del Texto Refundido de la Ley de Puertos del Estado y de la Marina Mercante, aprobado por Real Decreto Legislativo 2/2011, de 5 de septiembre, a aplicar por las Autoridades Portuarias a las tasas de ocupación, del buque, de la mercancía y del pasaje y, en su caso, sus condiciones de aplicación, serán las indicadas en el Anexo IX de esta Ley.
 
 Los volúmenes de tráfico portuario que se contemplan en dicho Anexo, cuando se utilicen para determinar el inicio de la aplicación de una bonificación o para establecer el tipo porcentual aplicable en función de su evolución, habrán de computarse desde el 1 de enero del presente año, sin perjuicio de que la bonificación resultante en cada caso habrá de aplicarse a las tasas que se devenguen por las operaciones portuarias que se realicen a partir de la fecha de entrada en vigor de esta Ley, salvo que expresamente se determine lo contrario en dicho Anexo.
 
-
 #### Artículo 80. Actualización de los precios básicos del canon de control de vertidos.
 
 Con efectos desde la entrada en vigor de esta Ley y vigencia indefinida, de conformidad con lo previsto en el apartado 3 del artículo 113 del texto refundido de la Ley de Aguas, aprobado por Real Decreto Legislativo 1/2001, de 20 de julio, el precio básico por metro cúbico para el agua residual urbana se fija en 0,01653 euros y para el agua residual industrial en 0,04132 euros.
-
 
 #### Artículo 81. Tasa por la solicitud de inscripción de diferentes actos en el Registro administrativo especial de mediadores de seguros, corredores de reaseguros y de sus altos cargos.
 
@@ -4672,9 +4521,7 @@ e) Por la inscripción de cualquier otro acto inscribible o por la modificación
 
 f) Por la expedición de certificados relativos a la información incluida en el mencionado registro, una cuota fija de 13 euros.»
 
-
 ## TÍTULO VII
-
 
 **De los Entes Territoriales**
 
@@ -4684,7 +4531,6 @@ Entidades Locales
 
 Sección 1.ª Revisión cuatrienal del ámbito subjetivo de aplicación de los modelos de financiación
 
-
 #### Artículo 82. Regla general.
 
 Uno. En virtud de lo dispuesto en el artículo 126 del texto refundido de la Ley reguladora de las Haciendas Locales, aprobado por Real Decreto Legislativo 2/2004, de 5 de marzo, a 1 de enero de 2012 procede revisar el conjunto de municipios que se incluirán en los ámbitos subjetivos de aplicación de los artículos 111 y 122 de la mencionada norma, teniendo en cuenta la población de derecho según el Padrón de la población municipal vigente a 1 de enero de 2012 y aprobado oficialmente por el Gobierno.
@@ -4693,14 +4539,11 @@ Dos. En virtud de lo dispuesto en los artículos 122, 125 y 126 del texto refund
 
 Se considerará el año 2012 como ejercicio inicial de referencia a efectos de la aplicación del artículo 125.4 del mencionado texto refundido a aquellos municipios que a 1 de enero de 2012 cumplan, por vez primera, las condiciones del apartado 1 de dicho precepto.
 
-
 #### Artículo 83. Determinación del Fondo Complementario de Financiación del año base 2004 de los municipios que se incluirán por vez primera en el modelo de cesión de recaudación de impuestos del Estado.
 
 Uno. Para cada uno de los municipios a los que se refiere este precepto la participación en el Fondo Complementario de Financiación correspondiente al año 2012 se calculará deduciendo el importe correspondiente a la cesión del rendimiento recaudatorio de impuestos estatales determinado con arreglo a lo establecido en los artículos 86, 87, 88 y 89 de la participación total que resulta de incrementar la participación en tributos del Estado del año 2011 en el índice de evolución establecido con arreglo a lo dispuesto en el artículo 121 del texto refundido de la Ley reguladora de las Haciendas Locales, aprobado por Real Decreto Legislativo 2/2004, de 5 de marzo:
 
-
 **PIE2012m = PIE2011m × IE2012/2011**
-
 
 **PFC2012m = PIE2012m – PIRPF2012m – PIVA2012m – ∑PIIEE(h)2012m**
 
@@ -4716,7 +4559,6 @@ PIRPF2012m, PIVA2012m y PIIEE(h)2012m importes de los rendimientos recaudatorios
 
 Dos. La participación en el Fondo Complementario de Financiación correspondiente al año base 2004 se calculará a partir de la participación en el Fondo Complementario de Financiación del año 2012 aplicando la siguiente fórmula:
 
-
 **PFC2004m = PFC2012m / IE2012/2004**
 
 Siendo:
@@ -4724,7 +4566,6 @@ Siendo:
 PFC2004m y PFC2012m, la Participación en el Fondo Complementario de Financiación del municipio m en los años 2004 y 2012, respectivamente, sin considerar las compensaciones derivadas de la reforma del Impuesto sobre Actividades Económicas.
 
 IE2012/2004 el índice de evolución de los ingresos tributarios del Estado entre el año base 2004 y el año 2012.
-
 
 #### Artículo 84. Determinación de la participación total en los tributos del Estado del año base 2004 de todos los municipios no incluidos el 1 de enero de 2012 en el modelo de cesión de la recaudación de impuestos estatales.
 
@@ -4738,7 +4579,6 @@ Tres. Asimismo la participación total en los tributos del Estado del año base 
 
 Para ello se calculará la financiación total obtenida por dichos municipios en 2011 mediante la suma de la que corresponda a cada uno de ellos con arreglo a la siguiente fórmula:
 
-
 **PIE2011m = PFC2011m + PIRPF2011m + PIVA2011m + ∑PIIEE(h)2011m**
 
 Representando:
@@ -4751,7 +4591,6 @@ PIRPF2011m, PIVA2011m y PIIEE(h)2011m importes de los rendimientos cedidos al mu
 
 Una vez aplicada esta fórmula, se calculará la participación total de los municipios que pasen al modelo regulado en los artículos 122 a 124 del texto refundido de la Ley reguladora de las Haciendas Locales en el año base 2004 aplicando la siguiente relación:
 
-
 **PIE2004m = PIE2011m / IE2011/2004**
 
 Representando:
@@ -4761,7 +4600,6 @@ PIE2004m y PIE2011m la participación total en los ingresos del Estado correspon
 IE2011/2004 el índice de evolución de los ingresos tributarios del Estado entre los años 2004 y 2011.
 
 Sección 2.ª Liquidación definitiva de la participación en tributos del Estado correspondiente al año 2010
-
 
 #### Artículo 85. Régimen jurídico y saldos deudores.
 
@@ -4777,11 +4615,9 @@ Cinco. El importe de la liquidación definitiva de las compensaciones derivadas 
 
 Sección 3.ª Cesión a favor de los municipios de la recaudación de impuestos estatales en el año 2012
 
-
 #### Artículo 86. Cesión de rendimientos recaudatorios del Impuesto sobre la Renta de las Personas Físicas: Determinación de las entregas a cuenta y de la liquidación definitiva.
 
 Uno. Los municipios incluidos en el ámbito subjetivo del artículo 111 del texto refundido de la Ley Reguladora de las Haciendas Locales aprobado por Real Decreto Legislativo 2/2004, de 5 de marzo, participarán en la recaudación líquida que se obtenga en 2012 mediante doce entregas mensuales a cuenta de la liquidación definitiva. El importe total de estas entregas a cuenta se efectuará mediante la siguiente operación:
-
 
 **ECIRPFm = 0,016875 × CL2009m × IA2012/2009 × 0,95**
 
@@ -4797,13 +4633,11 @@ El importe que se obtenga en concepto de entregas a cuenta, según la fórmula a
 
 Dos. La liquidación definitiva se determinará por la diferencia entre las entregas a cuenta percibidas y el valor definitivo de la cesión de la cuota líquida correspondiente a cada municipio, determinada en los términos del artículo 115 del texto refundido de la Ley Reguladora de las Haciendas Locales aprobado por Real Decreto Legislativo 2/2004, de 5 de marzo, y se aplicará, a estos efectos, el porcentaje de cesión que, en su caso, se establezca en norma con rango de Ley o en la Ley de Presupuestos Generales del Estado para el año 2014, teniendo en cuenta el rendimiento cedido a favor de las Comunidades Autónomas fijado en la Ley 22/2009, de 18 de diciembre, por la que se regula el sistema de financiación de las Comunidades Autónomas de régimen común y Ciudades con Estatuto de Autonomía y se modifican determinadas normas tributarias.
 
-
 #### Artículo 87. Cesión de la recaudación líquida del Impuesto sobre el Valor Añadido: Determinación de las entregas a cuenta y de la liquidación definitiva.
 
 Uno. Los municipios a los que se refiere el artículo precedente participarán en la recaudación líquida que se obtenga, por el Impuesto sobre el Valor Añadido, mediante la determinación de doce entregas mensuales a cuenta de la liquidación definitiva.
 
 La determinación para cada municipio del importe total de estas entregas a cuenta se efectuará mediante la siguiente operación:
-
 
 **ECIVAm = PCIVA* × RPIVA × ICPi × (Pm / Pi) × 0,95**
 
@@ -4823,13 +4657,11 @@ El importe que se obtenga en concepto de entregas a cuenta, según la fórmula a
 
 Dos. La liquidación definitiva se determinará por la diferencia entre las entregas a cuenta percibidas y el valor definitivo de la cesión de la recaudación líquida por IVA que resulte de la aplicación de lo dispuesto en el artículo 116 del texto refundido de la Ley Reguladora de las Haciendas Locales aprobado por Real Decreto Legislativo 2/2004, de 5 de marzo. A estos efectos, se aplicará el porcentaje de cesión que, en su caso, se establezca en norma con rango de Ley o en la Ley de Presupuestos Generales del Estado para el año 2014, teniendo en cuenta el porcentaje de cesión a favor de las Comunidades Autónomas fijado en la Ley 22/2009, de 18 de diciembre, por la que se regula el sistema de financiación de las Comunidades Autónomas de régimen común y Ciudades con Estatuto de Autonomía y se modifican determinadas normas tributarias.
 
-
 #### Artículo 88. Cesión de la recaudación líquida por Impuestos Especiales sobre el alcohol y bebidas alcohólicas: Determinación de las entregas a cuenta y de la liquidación definitiva.
 
 Uno. Los municipios a los que se refiere el artículo 86, participarán en la recaudación líquida que se obtenga, por los Impuestos sobre la Cerveza, sobre el Vino y Bebidas Fermentadas, sobre Productos Intermedios y sobre el Alcohol y Bebidas Derivadas, mediante la determinación de doce entregas mensuales a cuenta de la liquidación definitiva.
 
 La determinación para cada municipio del importe total de estas entregas a cuenta se efectuará mediante la siguiente operación:
-
 
 **ECIIEE(h)m = PCIIEE* × RPIIEE(h) × ICPi(h) × (Pm / Pi) × 0,95**
 
@@ -4849,13 +4681,11 @@ El importe que se obtenga en concepto de entregas a cuenta, según la fórmula a
 
 Dos. La liquidación definitiva se determinará por la diferencia entre las entregas a cuenta percibidas y el valor definitivo de la cesión de la recaudación líquida por los Impuestos Especiales señalados en el primer párrafo del apartado anterior que resulte de la aplicación de lo dispuesto en los apartados 1 y 2 del artículo 117 del texto refundido de la Ley Reguladora de las Haciendas Locales, aprobado por Real Decreto Legislativo 2/2004, de 5 de marzo. A estos efectos, se aplicará el porcentaje de cesión que, en su caso, se establezca en norma con rango de Ley o en la Ley de Presupuestos Generales del Estado para el año 2014, teniendo en cuenta el porcentaje de cesión a favor de las Comunidades Autónomas fijado en la Ley 22/2009, de 18 de diciembre, por la que se regula el sistema de financiación de las Comunidades Autónomas de régimen común y Ciudades con Estatuto de Autonomía y se modifican determinadas normas tributarias.
 
-
 #### Artículo 89. Cesión de la recaudación líquida por Impuestos Especiales sobre Hidrocarburos y sobre las Labores del Tabaco: Determinación de las entregas a cuenta y de la liquidación definitiva.
 
 Uno. Los municipios a los que se refiere el artículo 86 participarán en la recaudación líquida que se obtenga, por los Impuestos sobre Hidrocarburos y sobre las Labores del Tabaco, mediante la determinación de doce entregas mensuales a cuenta de la liquidación definitiva.
 
 El cálculo para cada municipio del importe total de estas entregas a cuenta se efectuará mediante la siguiente operación:
-
 
 **ECIIEE(k)m = PCIIEE* × RPIIEE(k) × IPm(k) × 0,95**
 
@@ -4875,9 +4705,7 @@ Dos. La liquidación definitiva se determinará por la diferencia entre las entr
 
 Sección 4.ª Participación de los municipios en los tributos del Estado
 
-
 **Subsección 1.ª Participación de los municipios en el Fondo Complementario de Financiación**
-
 
 #### Artículo 90. Determinación de las entregas a cuenta.
 
@@ -4893,7 +4721,6 @@ b) Adicional, regulada en la disposición adicional segunda de la Ley 22/2005, d
 
 Cuatro. Las entregas a cuenta de la participación en el Fondo Complementario de Financiación para el ejercicio 2012 serán abonadas mediante pagos mensuales equivalentes a la doceava parte del importe total que resulte de la aplicación de las normas recogidas en los apartados anteriores.
 
-
 #### Artículo 91. Liquidación definitiva.
 
 Uno. La práctica de la liquidación definitiva del Fondo Complementario de Financiación del año 2012 a favor de los municipios, se realizará con cargo al crédito que se dote en la Sección 36, Servicio 21, Secretaría General de Coordinación Autonómica y Local. Entidades Locales, Programa 942M, Transferencias a Entidades Locales por participación en los ingresos del Estado, Concepto 468, relativo a la liquidación definitiva de años anteriores y compensaciones derivadas del nuevo sistema de financiación, con arreglo a las reglas contenidas en los artículos 119 y 121 del texto refundido de la Ley Reguladora de las Haciendas Locales aprobado por Real Decreto Legislativo 2/2004, de 5 de marzo.
@@ -4906,9 +4733,7 @@ b) Adicional, regulada en la disposición adicional segunda de la Ley 22/2005, d
 
 Tres. La liquidación definitiva se determinará por la diferencia entre los importes de las entregas a cuenta calculadas con arreglo a lo dispuesto en el artículo anterior y de la participación definitiva calculada en los términos de los apartados anteriores.
 
-
 **Subsección 2.ª Participación del resto de municipios**
-
 
 #### Artículo 92. Participación de los municipios en los tributos del Estado para el ejercicio 2012.
 
@@ -4958,7 +4783,6 @@ Hasta 5.000
 
 A estos efectos, se considera esfuerzo fiscal municipal en el año 2010 el resultante de la aplicación de la fórmula siguiente:
 
-
 **Efm = [∑ a(RcO/RPm)] × Pi**
 
 En el desarrollo de esta fórmula se tendrán en cuenta los siguientes criterios:
@@ -4993,7 +4817,6 @@ Cinco. La participación de los municipios turísticos se determinará con arreg
 
 Seis. Para los municipios turísticos resultantes de la revisión efectuada a 1 de enero de 2008, la cesión de la recaudación de los Impuestos sobre Hidrocarburos y sobre las Labores del Tabaco calculada para el año base 2004, a que hace referencia el artículo 125.4 del texto refundido de la Ley Reguladora de las Haciendas Locales aprobado por Real Decreto Legislativo 2/2004, de 5 de marzo, será el resultado de dividir la cesión de la recaudación líquida de los Impuestos sobre Hidrocarburos y sobre las Labores del Tabaco correspondiente a cada municipio en el ejercicio 2008 por la evolución de los ingresos tributarios del Estado en este último respecto de 2004.
 
-
 #### Artículo 93. Entregas a cuenta.
 
 Uno. Las entregas a cuenta de la participación en los tributos del Estado para el ejercicio de 2012 a que se refiere el artículo anterior serán abonadas a los ayuntamientos mediante pagos mensuales equivalentes a la doceava parte del respectivo crédito.
@@ -5012,13 +4835,11 @@ Tres. La participación individual de cada municipio turístico se determinará 
 
 Sección 5.ª Cesión a favor de las provincias, comunidades autónomas uniprovinciales, cabildos y consejos insulares, de la recaudación de impuestos estatales
 
-
 #### Artículo 94. Cesión de rendimientos recaudatorios del Impuesto sobre la Renta de las Personas Físicas: Determinación de las entregas a cuenta y de la liquidación definitiva.
 
 Uno. Las provincias y entes asimilados incluidos en el ámbito subjetivo del artículo 135 del texto refundido de la Ley Reguladora de las Haciendas Locales aprobado por Real Decreto Legislativo 2/2004, de 5 de marzo, participarán en la recaudación líquida que se obtenga en 2012, mediante el pago de doce entregas mensuales a cuenta de la liquidación definitiva.
 
 El cálculo global de la cuantía de estas entregas a cuenta se efectuará mediante la siguiente operación:
-
 
 **ECIRPFp = 0,009936 × CL2009p × IA2012/2009 × 0,95**
 
@@ -5034,13 +4855,11 @@ El importe que se obtenga en concepto de entregas a cuenta, según la fórmula a
 
 Dos. La liquidación definitiva se determinará por la diferencia entre las entregas a cuenta percibidas y el valor definitivo de la cesión de la cuota líquida correspondiente a cada provincia o ente asimilado, determinada en los términos del artículo 137 del texto refundido de la Ley Reguladora de las Haciendas Locales aprobado por Real Decreto Legislativo 2/2004, de 5 de marzo, y se aplicará, a estos efectos, el porcentaje de cesión que, en su caso, se establezca en norma con rango de Ley o en la Ley de Presupuestos Generales del Estado para el año 2014, teniendo en cuenta el rendimiento cedido a favor de las Comunidades Autónomas fijado en la Ley 22/2009, de 18 de diciembre, por la que se regula el sistema de financiación de las Comunidades Autónomas de régimen común y Ciudades con Estatuto de Autonomía y se modifican determinadas normas tributarias.
 
-
 #### Artículo 95. Cesión de la recaudación líquida del Impuesto sobre el Valor Añadido: Determinación de las entregas a cuenta y de la liquidación definitiva.
 
 Uno. Las provincias y entes asimilados a los que se refiere el artículo precedente participarán en la recaudación líquida que se obtenga, por el Impuesto sobre el Valor Añadido, mediante la determinación de doce entregas mensuales a cuenta de la liquidación definitiva.
 
 La determinación, para cada una de aquellas entidades, de la cuantía global de estas entregas a cuenta se efectuará mediante la siguiente operación:
-
 
 **ECIVAp = PCIVA** × RPIVA × ICPi × (Pp/Pi) × 0,95**
 
@@ -5060,13 +4879,11 @@ El importe que se obtenga en concepto de entregas a cuenta, según la fórmula a
 
 Dos. La liquidación definitiva se determinará por la diferencia entre las entregas a cuenta percibidas y el valor definitivo de la cesión de la recaudación líquida del Impuesto sobre el Valor Añadido que resulte de la aplicación de lo dispuesto en el artículo 138 del texto refundido de la Ley Reguladora de las Haciendas Locales aprobado por Real Decreto Legislativo 2/2004, de 5 de marzo. A estos efectos, se aplicará el porcentaje de cesión que, en su caso, se establezca en norma con rango de Ley o en la Ley de Presupuestos Generales del Estado para el año 2014, teniendo en cuenta el porcentaje de cesión a favor de las Comunidades Autónomas fijado en la Ley 22/2009, de 18 de diciembre, por la que se regula el sistema de financiación y se modifican determinadas normas tributarias.
 
-
 #### Artículo 96. Cesión de la recaudación líquida por Impuestos Especiales sobre el alcohol y bebidas alcohólicas: Determinación de las entregas a cuenta y de la liquidación definitiva.
 
 Uno. Las entidades incluidas en el ámbito subjetivo del artículo 135 del texto refundido de la Ley Reguladora de las Haciendas Locales aprobado por Real Decreto Legislativo 2/2004, de 5 de marzo, participarán en la recaudación líquida que se obtenga, por los Impuestos sobre la Cerveza, sobre el Vino y Bebidas Fermentadas, sobre Productos Intermedios y sobre el Alcohol y Bebidas Derivadas, mediante la determinación de doce entregas mensuales a cuenta de la liquidación definitiva.
 
 El cálculo, para cada provincia o ente asimilado, de la cuantía global de estas entregas a cuenta se efectuará mediante la siguiente operación:
-
 
 **ECIIEE(h)p = PCIIEE** × RPIIEE(h) × ICPi (h) × (Pp / Pi) × 0,95**
 
@@ -5086,13 +4903,11 @@ El importe que se obtenga en concepto de entregas a cuenta, según la fórmula a
 
 Dos. La liquidación definitiva se determinará por la diferencia entre las entregas a cuenta percibidas y el valor definitivo de la cesión de la recaudación líquida por los Impuestos Especiales señalados en el primer párrafo del apartado anterior que resulte de la aplicación del artículo 139 del texto refundido de la Ley Reguladora de las Haciendas Locales aprobado por Real Decreto Legislativo 2/2004, de 5 de marzo. A estos efectos, se aplicará el porcentaje de cesión que, en su caso, se establezca en norma con rango de Ley o en la Ley de Presupuestos Generales del Estado para el año 2014, teniendo en cuenta el porcentaje de cesión a favor de las Comunidades Autónomas fijado en la Ley 22/2009, de 18 de diciembre, por la que se regula el sistema de financiación de las Comunidades Autónomas de régimen común y Ciudades con Estatuto de Autonomía y se modifican determinadas normas tributarias.
 
-
 #### Artículo 97. Cesión de la recaudación líquida por Impuestos Especiales sobre Hidrocarburos y sobre las Labores del Tabaco: Determinación de las entregas a cuenta y de la liquidación definitiva.
 
 Uno. Las provincias y entes asimilados incluidos en el ámbito subjetivo del artículo 135 del texto refundido de la Ley Reguladora de las Haciendas Locales aprobado por Real Decreto Legislativo 2/2004, de 5 de marzo, participarán en la recaudación líquida que se obtenga, por los Impuestos sobre Hidrocarburos y sobre las Labores del Tabaco, mediante la determinación de doce entregas mensuales a cuenta de la liquidación definitiva.
 
 El cálculo, para cada provincia o entidad asimilada, del importe total de estas entregas a cuenta se efectuará mediante la siguiente operación:
-
 
 **ECIIEE(k)p = PCIIEE** × RPIIEE(k) × IPp(k) × 0,95**
 
@@ -5112,9 +4927,7 @@ Dos. La liquidación definitiva se determinará por la diferencia entre las entr
 
 Sección 6.ª Participación de las provincias, comunidades autónomas uniprovinciales y consejos y cabildos insulares en los tributos del Estado
 
-
 **Subsección 1.ª Participación en el Fondo Complementario de Financiación**
-
 
 #### Artículo 98. Determinación de las entregas a cuenta.
 
@@ -5130,7 +4943,6 @@ b) Adicional, regulada en la disposición adicional segunda de la Ley 22/2005, d
 
 Cuatro. Las entregas a cuenta de la participación en el Fondo Complementario de Financiación para el ejercicio 2012 serán abonadas a las entidades locales a las que se refiere este artículo, mediante pagos mensuales equivalentes a la doceava parte del importe total que resulte de la aplicación de las normas recogidas en los apartados anteriores.
 
-
 #### Artículo 99. Liquidación definitiva.
 
 Uno. La práctica de la liquidación definitiva del Fondo Complementario de Financiación del año 2012 a favor de las provincias y entidades asimiladas, se realizará con cargo al crédito que se dote en la Sección 36, Servicio 21, Secretaría General de Coordinación Autonómica y Local. Entidades Locales, Programa 942M, Transferencias a Entidades Locales por participación en los ingresos del Estado, Concepto 468, relativo a la liquidación definitiva de años anteriores y compensaciones derivadas del nuevo sistema de financiación, con arreglo a las reglas contenidas en los artículos 141 y 143 del texto refundido de la Ley Reguladora de las Haciendas Locales aprobado por Real Decreto Legislativo 2/2004, de 5 de marzo.
@@ -5145,16 +4957,13 @@ El importe de la liquidación definitiva de las compensaciones anteriores a favo
 
 Tres. La liquidación definitiva se determinará por la diferencia entre la suma de los importes de las entregas a cuenta calculadas con arreglo a lo dispuesto en el artículo anterior y de la participación definitiva calculada en los términos de los apartados anteriores.
 
-
 **Subsección 2.ª Participación en el fondo de aportación a la asistencia sanitaria**
-
 
 #### Artículo 100. Determinación de las entregas a cuenta.
 
 Uno. Para el mantenimiento de los centros sanitarios de carácter no psiquiátrico de las Diputaciones, Comunidades Autónomas uniprovinciales no insulares y Consejos y Cabildos Insulares se asigna, con cargo al crédito Transferencias a las Diputaciones y Cabildos Insulares. Entregas a cuenta a las Diputaciones y Cabildos Insulares por su participación en los ingresos de los Capítulos I y II del Presupuesto del Estado por recursos no susceptibles de cesión a las Comunidades Autónomas consignado en la Sección 36, Servicio 21, Secretaría General de Coordinación Autonómica y Local. Entidades Locales, Programa 942M, Transferencias a Entidades Locales por participación en los ingresos del Estado, la cantidad de 566,39 millones de euros en concepto de entregas a cuenta. Las entregas a cuenta de la participación en este fondo para el año 2012 serán abonadas a las Diputaciones Provinciales, Comunidades Autónomas uniprovinciales no insulares, Cabildos y Consejos Insulares mediante pagos mensuales equivalentes a la doceava parte del crédito. La asignación para el mantenimiento de los centros sanitarios se realizará en proporción a las cuantías percibidas por este concepto en la liquidación definitiva de la participación en tributos del Estado del año 2004, y se librará simultáneamente con las entregas a cuenta de la participación en el Fondo Complementario de Financiación regulado en la Subsección anterior.
 
 Dos. Cuando la gestión económica y financiera de los centros hospitalarios, en los términos previstos en la Ley 14/1986, de 25 de abril, General de Sanidad, se transfiera a las correspondientes Comunidades Autónomas, se asignará a dichas entidades las entregas a cuenta de la participación del ente transferidor del servicio, pudiendo ser objeto de integración en su participación en los tributos del Estado por acuerdo de la respectiva Comisión Mixta, previo informe de la Subcomisión de Régimen Económico, Financiero y Fiscal de la Comisión Nacional de Administración Local, mediante las modificaciones y ajustes que procedan en los respectivos créditos presupuestarios.
-
 
 #### Artículo 101. Liquidación definitiva.
 
@@ -5164,13 +4973,11 @@ Dos. Cuando la gestión económica y financiera de los centros hospitalarios, en
 
 Sección 7.ª Regímenes especiales
 
-
 #### Artículo 102. Participación de los Territorios Históricos del País Vasco y Navarra en los tributos del Estado.
 
 Uno. La participación de los municipios del País Vasco y de Navarra en los tributos del Estado se fijará con arreglo a las normas contenidas en la Subsección 2.ª, de la Sección 4.ª de este Capítulo, en el marco del Concierto y Convenio Económico, respectivamente.
 
 Dos. La participación de las Diputaciones Forales del País Vasco y de la Comunidad Foral de Navarra en los tributos del Estado se determinará según lo establecido en el artículo 146 del texto refundido de la Ley Reguladora de las Haciendas Locales aprobado por Real Decreto Legislativo 2/2004, de 5 de marzo, en el marco del Concierto y Convenio Económico, respectivamente.
-
 
 #### Artículo 103. Participación de las entidades locales de las Islas Canarias en los tributos del Estado.
 
@@ -5180,7 +4987,6 @@ Dos. La participación en el Fondo Complementario de Financiación de las entida
 
 Tres. La participación del resto de municipios de las Islas Canarias en los tributos del Estado se determinará mediante la aplicación de las normas contenidas en la Subsección 2.ª, de la Sección 4.ª, de este capítulo y con arreglo a la misma proporción que los municipios de régimen común.
 
-
 #### Artículo 104. Participación de las Ciudades de Ceuta y de Melilla en los tributos del Estado.
 
 Uno. Las Ciudades de Ceuta y de Melilla, en cuanto entidades asimiladas a los municipios, participarán en los tributos del Estado con arreglo a las normas generales contenidas en este Capítulo.
@@ -5188,7 +4994,6 @@ Uno. Las Ciudades de Ceuta y de Melilla, en cuanto entidades asimiladas a los mu
 Dos. Las Ciudades de Ceuta y de Melilla, en cuanto entidades asimiladas a las provincias, participarán en los tributos del Estado según lo establecido en el artículo 146 del texto refundido de la Ley Reguladora de las Haciendas Locales aprobado por Real Decreto Legislativo 2/2004, de 5 de marzo.
 
 Sección 8.ª Compensaciones, subvenciones y ayudas
-
 
 #### Artículo 105. Subvenciones a las Entidades locales por servicios de transporte colectivo urbano.
 
@@ -5406,9 +5211,6 @@ Capacitación en Gestión de flotas con criterios de eficiencia energética(n.º
 
 Total
 
-100
-
-
 #### Artículo 106. Compensación a los Ayuntamientos de los beneficios fiscales concedidos a las personas físicas o jurídicas en los tributos locales.
 
 Para dar cumplimiento a lo previsto en el artículo 9 del texto refundido de la Ley reguladora de las Haciendas Locales aprobado por Real Decreto Legislativo 2/2004, de 5 de marzo, se dota en la Sección 32, Servicio 02, Secretaría General de Coordinación Autonómica y Local. Entidades Locales, Programa 942N, Otras aportaciones a Entidades Locales, subconcepto 461.00 del vigente Presupuesto de Gastos del Estado un crédito con la finalidad de compensar los beneficios fiscales en tributos locales de exacción obligatoria que se puedan conceder por el Estado mediante Ley y en los términos previstos en el apartado dos del citado artículo 9.
@@ -5418,7 +5220,6 @@ Las solicitudes de compensación serán objeto de comprobación previa a su pago
 A dichos efectos, la Agencia Estatal de Administración Tributaria del Estado y la Dirección General del Catastro del Ministerio de Hacienda y Administraciones Públicas, facilitarán la intercomunicación informática con la Secretaría General de Coordinación Autonómica y Local.
 
 Se autoriza al Ministerio de Hacienda y Administraciones Públicas a dictar las normas necesarias para el establecimiento del procedimiento a seguir en cada caso, con el fin de proceder a la compensación, en favor de los municipios, de las deudas tributarias efectivamente condonadas y de las exenciones legalmente concedidas.
-
 
 #### Artículo 107. Otras compensaciones y subvenciones a las Entidades locales.
 
@@ -5431,7 +5232,6 @@ Dos. Con cargo a los créditos de la Sección 32, Servicio 02, Secretaría Gener
 Las ayudas a las que se refiere el párrafo anterior, se harán efectivas en la forma que se establezca en el instrumento regulador correspondiente, que para el otorgamiento de subvenciones nominativas establece el artículo 28 de la Ley 38/2003, de 17 de noviembre, General de Subvenciones, y el real Decreto 887/2006, de 21 de julio, por el que se aprueba su Reglamento de desarrollo.
 
 La anterior cuantía se repartirá entre las Ciudades de Ceuta y Melilla en función del número de habitantes de derecho de cada municipio, según el Padrón de la población municipal vigente a 1 de enero del ejercicio inmediatamente anterior. A la Ciudad de Ceuta le corresponden 4,12 millones de euros y a la de Melilla 3,88 millones de euros.
-
 
 #### Artículo 108. Anticipos a favor de los Ayuntamientos por desfases en la gestión recaudatoria de los tributos locales.
 
@@ -5463,7 +5263,6 @@ c) Informe de la Tesorería municipal de la previsión de ingresos y los gastos 
 
 Sección 9.ª Normas instrumentales en relación con las disposiciones incluidas en este capítulo
 
-
 #### Artículo 109. Normas de gestión presupuestaria de determinados créditos a favor de las Entidades locales.
 
 Uno. Se autoriza al Ministerio de Hacienda y Administraciones Públicas a comprometer gastos con cargo al ejercicio de 2013, hasta un importe máximo equivalente a la doceava parte de los créditos consignados en el Presupuesto para 2012, destinados a satisfacer las entregas a cuenta de la participación en tributos del Estado a favor de los Ayuntamientos y Diputaciones Provinciales o entes asimilados, del mes de enero de 2013. Las diferencias que pudieran surgir en relación con la determinación de las entregas a cuenta definitivas imputables al mencionado ejercicio serán objeto de ajuste en las entregas a cuenta del mes de febrero del ejercicio citado.
@@ -5482,7 +5281,6 @@ Tres. En los supuestos previstos en el apartado anterior, cuando proceda la tram
 
 Cuatro. Los créditos incluidos en el Presupuesto de Gastos a los fines señalados en el apartado uno anterior se podrán transferir con la periodicidad necesaria a la cuenta extrapresupuestaria correspondiente, habilitada a estos efectos en la Secretaría General del Tesoro y Política Financiera. Este procedimiento se podrá aplicar al objeto de materializar el pago simultáneo de las obligaciones que se deriven de la participación de las Entidades locales en los tributos del Estado, tanto en concepto de entregas a cuenta como de liquidación definitiva, así como para proceder al pago simultáneo de las obligaciones que traigan causa de las solicitudes presentadas por las Corporaciones locales, una vez se dicten las resoluciones pertinentes que den origen al reconocimiento de dichas obligaciones por parte del Estado.
 
-
 #### Artículo 110. Información a suministrar por las Corporaciones locales.
 
 Uno. Con el fin de proceder a la liquidación definitiva de la participación de los Ayuntamientos en los tributos del Estado, correspondiente a 2012 las respectivas Corporaciones locales deberán facilitar, antes del 30 de junio del año 2012, en la forma que se determine por los órganos competentes del Ministerio de Hacienda y Administraciones Públicas, la siguiente documentación:
@@ -5500,7 +5298,6 @@ La firma electrónica reconocida, entendida en los términos previstos por la Le
 Tres. Por la Secretaría General de Coordinación Autonómica y Local se procederá a dictar la correspondiente resolución estableciendo los modelos que contengan el detalle de la información necesaria, así como la regulación del procedimiento para la presentación telemática de la documentación y la firma electrónica de la misma.
 
 Cuatro. A los municipios que, estando en el ámbito de aplicación de la Subsección 2.ª de la Sección 4.ª de este capítulo, no aportaran la documentación que se determina en las condiciones señaladas anteriormente se les aplicará, en su caso, un módulo de ponderación equivalente al 60 por ciento del esfuerzo fiscal medio aplicable al municipio con menor coeficiente por este concepto, dentro del tramo de población en que se encuadre, a efectos de practicar la liquidación definitiva de su participación en los tributos del Estado para el año 2012.
-
 
 #### Artículo 111. Retenciones a practicar a las Entidades locales en aplicación de la disposición adicional cuarta del texto refundido de la Ley Reguladora de las Haciendas Locales aprobado por Real Decreto Legislativo 2/2004, de 5 de marzo.
 
@@ -5540,13 +5337,11 @@ Cinco. Las resoluciones declarando la extinción de las deudas con cargo a las c
 
 Seis. Las normas contenidas en este artículo serán de aplicación en los supuestos de deudas contraídas por las Entidades Locales con el Instituto de Crédito Oficial, por la línea de crédito instruida por este último a las que se refiere la Sección Segunda del capítulo II del Real Decreto-ley 8/2011, de 1 de julio. Asimismo, serán de aplicación las normas de este precepto en los supuestos de deudas contraídas con el Fondo para la financiación de los pagos a proveedores, que pudieran derivarse de la aplicación del artículo 8 del Real Decreto-ley 7/2012, de 9 de marzo, por el que se crea el Fondo para la financiación de los pagos a proveedores.
 
-
 #### Artículo 112. Financiación de instituciones del municipio de Barcelona.
 
 En el marco de la Ley 1/2006, de 13 de marzo, por la que se regula el Régimen Especial del Municipio de Barcelona, con cargo al Concepto 461, al Ayuntamiento de Barcelona para la financiación de instituciones culturales del municipio, de acuerdo con el convenio que se suscriba en el ámbito de la Comisión de Colaboración Interadministrativa, del Programa 334A, Promoción y cooperación cultural, del Servicio 13, Dirección General de Políticas e Industrias Culturales y del Libro, de la Sección 18, Ministerio de Educación, Cultura y Deporte, de los Presupuestos Generales del Estado para el año 2012, se podrán reconocer obligaciones hasta un montante global de 3.600 miles de euros para la financiación de instituciones con amplia proyección y relevancia del Municipio de Barcelona.
 
 Para la materialización de las transferencias destinadas a financiar las instituciones citadas en el apartado anterior deberá suscribirse previamente el correspondiente Convenio en el ámbito de la Comisión de Colaboración Interadministrativa creada con arreglo a lo dispuesto en el artículo 5 de la Ley 1/2006, de 13 de marzo, por la que se regula el Régimen Especial del Municipio de Barcelona.
-
 
 #### Artículo 113. Procedimientos de suministro de información de los presupuestos, previsiones contables y liquidaciones de las Entidades Locales.
 
@@ -5556,11 +5351,9 @@ CAPÍTULO II
 
 Comunidades Autónomas
 
-
 #### Artículo 114. Entregas a cuenta del Fondo de Suficiencia Global.
 
 Los créditos presupuestarios destinados a hacer efectivas las entregas a cuenta del Fondo de Suficiencia Global establecidas en el artículo 20 de la Ley 22/2009, de 18 de diciembre, por la que se regula el sistema de financiación de las Comunidades Autónomas de régimen común y Ciudades con Estatuto de Autonomía y se modifican determinadas normas tributarias, una vez tenidas en cuenta las regularizaciones del Fondo de Suficiencia Global del año base en los términos previstos en el artículo 10 de la citada Ley, las revisiones, correcciones y demás preceptos aplicables a las mismas son, para cada Comunidad Autónoma y Ciudad con Estatuto de Autonomía, los que se incluyen en los correspondientes Servicios de la Sección 36 «Sistemas de financiación de Entes Territoriales», Programa 941M «Transferencias a Comunidades Autónomas por participación en los ingresos del Estado», concepto 451 «Fondo de Suficiencia Global».
-
 
 #### Artículo 115. Liquidación definitiva de los recursos del Sistema de Financiación de las Comunidades Autónomas y Ciudades con Estatuto de Autonomía y participación en los Fondos de Convergencia.
 
@@ -5632,7 +5425,6 @@ Si el importe de las liquidaciones definitivas a que se refiere el párrafo ante
 
 Nueve. Los saldos a favor del Estado de la liquidación del Sistema de Financiación del año 2009 y los anticipos de dicho ejercicio pendientes de cancelación, a los que se refieren los apartados cuatro y siete del artículo 129 de la Ley 39/2010, de 22 de diciembre, de Presupuestos Generales del Estado para el año 2011, respectivamente, se abonarán por cada Comunidad Autónoma y Ciudad con Estatuto de Autonomía en 60 mensualidades iguales a partir de enero de 2012, mediante descuento en los pagos que realice el Estado por las entregas a cuenta de cualquier recurso del Sistema de Financiación.
 
-
 #### Artículo 116. Transferencias a Comunidades Autónomas correspondientes al coste de los nuevos servicios traspasados.
 
 Si a partir de 1 de enero de 2012 se efectuaran nuevas transferencias de servicios a las Comunidades Autónomas, se dotarán en los conceptos específicos de la Sección 36 que, en su momento, determine la Dirección General de Presupuestos, los créditos que se precisen para transferir a las Comunidades Autónomas el coste efectivo de los servicios asumidos.
@@ -5645,16 +5437,13 @@ b) La financiación anual, en euros del ejercicio 2012, desglosada en los difere
 
 c) La valoración referida al año base 2007, correspondiente al coste efectivo anual del mismo, a efectos de la revisión del valor del Fondo de Suficiencia Global de la Comunidad Autónoma que corresponde prevista en el artículo 21.1 de la Ley 22/2009.
 
-
 #### Artículo 117. Pago de las entregas a cuenta de los recursos del sistema de financiación.
 
 El importe mensual a percibir por las Comunidades Autónomas y Ciudades con Estatuto de Autonomía como entregas a cuenta de los rendimientos definitivos de los recursos del sistema regulados en la Ley 22/2009, a partir del mes siguiente al de publicación de la presente Ley será el resultante de dividir la diferencia entre el importe anual de las entregas a cuenta que resulten de aplicación para el año 2012 de acuerdo con las previsiones de la presente Ley y el importe satisfecho hasta el fin de mes en que se publique la misma por el número de meses que resten hasta fin de 2012, contados a partir del mes siguiente al de publicación de la presente Ley.
 
-
 #### Artículo 118. Cancelación del anticipo de tesorería concedido a la Comunidad Autónoma de Andalucía.
 
 En la Sección 32 de los Presupuestos Generales del Estado, Servicio 01 «Secretaría General de Coordinación Autonómica y Local. Comunidades Autónomas», Programa 941O «Otras transferencias a Comunidades Autónomas», concepto 456 «Para formalización del anticipo de tesorería abonado en 2008 a la Comunidad Autónoma de Andalucía», se incluye un crédito por importe de 300.000 miles de euros destinado a hacer efectiva la cancelación del anticipo de tesorería concedido a la Comunidad Autónoma de Andalucía en el año 2008 al amparo de lo previsto en la disposición adicional quincuagésima de la Ley 51/2007, de 26 de diciembre, de Presupuestos Generales del Estado para 2008, una vez fijada por la Comisión Mixta de Asuntos Económicos y Fiscales Estado-Comunidad Autónoma de Andalucía la cuantía definitiva de las asignaciones complementarias a las que se refiere la disposición adicional segunda de la Ley 2/2007, de 19 de marzo, de reforma del Estatuto de Autonomía de Andalucía y efectuada la liquidación definitiva de las mismas.
-
 
 #### Artículo 119. Fondos de Compensación Interterritorial.
 
@@ -5676,12 +5465,9 @@ Ocho. En tanto los remanentes de créditos presupuestarios de ejercicios anterio
 
 Los anticipos deberán quedar reembolsados antes de finalizar el ejercicio económico.
 
-
 ## TÍTULO VIII
 
-
 **Cotizaciones Sociales**
-
 
 #### Artículo 120. Bases y tipos de cotización a la Seguridad Social, Desempleo, Protección por cese de actividad, Fondo de Garantía Salarial y Formación Profesional durante el año 2012.
 
@@ -5952,7 +5738,6 @@ Cuando se realicen en el mes natural 23 o más jornadas reales, la base de cotiz
 A estos efectos, se entenderá que existen períodos de inactividad dentro de un mes natural cuando el número de jornadas reales realizadas durante el mismo sea inferior al 76,67 por ciento de los días naturales en que el trabajador figure de alta en el Sistema Especial en dicho mes.
 
 La cotización respecto a estos períodos de inactividad se determinará aplicando la siguiente fórmula:
-
 
 **C = [(n/N) – (jr x 1,304/N)] bc x tc**
 
@@ -6350,7 +6135,6 @@ A efectos de lo indicado en el párrafo anterior, de la base de cotización corr
 
 Diecisiete. Se faculta a la Ministra de Empleo y Seguridad Social para dictar las normas necesarias para la aplicación y desarrollo de lo previsto en este artículo.
 
-
 #### Artículo 121. Cotización a derechos pasivos y a las Mutualidades Generales de Funcionarios para el año 2012.
 
 Uno. Con efectos de 1 de enero de 2012, los tipos de cotización y de aportación del Estado al Régimen Especial de Seguridad Social de los Funcionarios Civiles del Estado, gestionado por la Mutualidad General de Funcionarios Civiles del Estado (MUFACE) a que se refiere el Real Decreto Legislativo 4/2000, de 23 de junio, para la financiación de las prestaciones a que se refiere el artículo 12, salvo la indicada en el párrafo h), de la citada disposición, serán los siguientes:
@@ -6447,7 +6231,6 @@ Con la excepción establecida en el último inciso del párrafo primero del art�
 
 [encabezado]DISPOSICIONES ADICIONALES
 
-
 #### [precepto]Primera. Prestaciones familiares de la Seguridad Social.
 
 A partir de 1 de enero de 2012, la cuantía de las prestaciones familiares de la Seguridad Social, en su modalidad no contributiva, así como el importe del límite de ingresos para el acceso a las mismas, regulados en la Sección Segunda del Capítulo IX del Título II del texto refundido de la Ley General de la Seguridad Social, serán los siguientes:
@@ -6465,7 +6248,6 @@ c)	6.439,20 euros cuando el hijo a cargo sea mayor de 18 años, esté afectado p
 Tres. La cuantía de la prestación por nacimiento o adopción de hijo establecida en el artículo 186.1, en supuestos de familias numerosas, monoparentales y en los casos de madres discapacitadas, será de 1.000 euros.
 
 Cuatro. Los límites de ingresos para tener derecho a la asignación económica por hijo o menor acogido a cargo, a que se refieren los párrafos primero y segundo del artículo 182.1.c), quedan fijados en 11.376,66 euros anuales y, si se trata de familias numerosas, en 17.122,59 euros, incrementándose en 2.773,39 euros por cada hijo a cargo a partir del cuarto, éste incluido.
-
 
 #### [precepto]Segunda. Subsidios económicos de la Ley 13/1982, de 7 de abril, de Integración Social de los Minusválidos, y pensiones asistenciales.
 
@@ -6493,21 +6275,17 @@ Dos. A partir del 1 de enero del año 2012, las pensiones asistenciales reconoci
 
 Tres. Las pensiones asistenciales serán objeto de revisión periódica, a fin de comprobar que los beneficiarios mantienen los requisitos exigidos para su reconocimiento y, en caso contrario, declarar la extinción del derecho y exigir el reintegro de las cantidades indebidamente percibidas. El Ministerio de Empleo y Seguridad Social podrá instar la incoación de los procedimientos de revisión, a efectos de practicar el ajuste económico y presupuestario del gasto generado. Los resultados que ofrezcan aquellos procedimientos serán comunicados al citado Departamento ministerial.
 
-
 #### [precepto]Tercera. Ayudas sociales a los afectados por el Virus de Inmunodeficiencia Humana (V.I.H.).
 
 Durante el año 2012 las cuantías mensuales de las ayudas sociales reconocidas en favor de las personas contaminadas por el Virus de Inmunodeficiencia Humana (V.I.H.), establecidas en las letras b), c) y d) del artículo 2.1 del Real Decreto-ley 9/1993, de 28 de mayo, se determinarán mediante la aplicación de las proporciones reguladas en las letras citadas sobre el importe de 601,12 euros.
-
 
 #### [precepto]Cuarta. Revalorización de las prestaciones de gran invalidez del Régimen Especial de la Seguridad Social de las Fuerzas Armadas.
 
 Las prestaciones de gran invalidez destinadas a remunerar a la persona encargada de la asistencia al gran inválido, causadas hasta el 31 de diciembre de 2011 en el Régimen Especial de Seguridad Social de las Fuerzas Armadas, mantendrán con efectos de 1 de enero de 2012 el incremento del 1 por ciento establecido en el artículo 5 del Real Decreto-ley 20/2011, de 30 de diciembre, de medidas urgentes en materia presupuestaria, tributaria y financiera para la corrección del déficit público.
 
-
 #### [precepto]Quinta. Actualización de la cuantía de la prestación económica establecida por la Ley 3/2005, de 18 de marzo.
 
 A partir del 1 de enero de 2012, la cuantía de las prestaciones económicas reconocidas al amparo de la Ley 3/2005, de 18 de marzo, a los ciudadanos de origen español desplazados al extranjero, durante su minoría de edad, como consecuencia de la Guerra Civil, y que desarrollaron la mayor parte de su vida fuera del territorio nacional ascenderá, en cómputo anual, a la diferencia entre 7.059,10 euros y el importe anual que perciba cada beneficiario por las pensiones a que se refieren los apartados a), b) y c) del artículo 2 de la Ley 3/2005, o a la diferencia entre 7.059,10 euros y las rentas o ingresos anuales que perciban los beneficiarios a que se refiere el apartado d) del artículo 2 de la Ley 3/2005.
-
 
 #### [precepto]Sexta. Reducción de cuotas para el mantenimiento del empleo.
 
@@ -6523,13 +6301,11 @@ Tres. La duración de la reducción de la aportación empresarial será de un a�
 
 Cuatro. Respecto de los requisitos que han de cumplir los beneficiarios, las exclusiones en la aplicación de la reducción, cuantía máxima, incompatibilidades o reintegro de los beneficios se aplicarán las previsiones contenidas en la Ley 43/2006.
 
-
 #### [precepto]Séptima. Reducción en la cotización a la Seguridad Social en los supuestos de cambio de puesto de trabajo por riesgo durante el embarazo o durante la lactancia natural, así como en los supuestos de enfermedad profesional.
 
 En los supuestos en que, por razón de riesgo durante el embarazo o riesgo durante la lactancia natural, la trabajadora, en virtud de lo previsto en el artículo 26 de la Ley 31/1995, de 8 de noviembre, de Prevención de Riesgos Laborales, sea destinada a un puesto de trabajo o función diferente y compatible con su estado, se aplicará, con respecto a las cuotas devengadas durante el período de permanencia en el nuevo puesto de trabajo o función, una reducción, a cargo del Presupuesto de la Seguridad Social, del 50 por ciento de la aportación empresarial en la cotización a la Seguridad Social por contingencias comunes.
 
 Esa misma reducción será aplicable, en los términos y condiciones que reglamentariamente se determinen, en aquellos casos en que, por razón de enfermedad profesional, se produzca un cambio de puesto de trabajo en la misma empresa o el desempeño, en otra distinta, de un puesto de trabajo compatible con el estado del trabajador.
-
 
 #### [precepto]Octava. Bases y tipos de cotización a la Seguridad Social por contingencias comunes en el Régimen Especial para la Minería del Carbón, durante el año 1990.
 
@@ -6633,16 +6409,13 @@ Trabajadores menores de diecisiete años
 
 Seis. En la aplicación de lo dispuesto en esta disposición deberán tenerse en cuenta los efectos derivados de la posible existencia de sentencias y actos administrativos firmes dictados en relación con la cotización a este colectivo, en los que se tomaron como bases de cotización las fijadas mediante Resolución de 10 de junio de 2003 (BOE del 24 de junio de 2003) de la Dirección General de Ordenación Económica de la Seguridad Social, por la que se aprobaron las bases normalizadas de cotización en el Régimen Especial de la Seguridad Social para la Minería del Carbón correspondientes a las Zonas Mineras Primera (Asturias), Segunda (Noroeste), Tercera (Sur) y Cuarta (Centro-Levante), para el año 1990, así como las consecuencias que se deduzcan, en su caso, del ejercicio de la prescripción.
 
-
 #### [precepto]Novena. Afectación de ingresos al Fondo de Cohesión Sanitaria.
 
 Los ingresos que se produzcan en el Presupuesto del Estado por aplicación de lo establecido en los artículos 5 y 8 del Real Decreto 1207/2006, de 20 de octubre, se afectarán a la compensación a las Comunidades Autónomas por la asistencia sanitaria concertada prestada a ciudadanos asegurados en otro Estado desplazados temporalmente a España, conforme a lo fijado en dicho Real Decreto.
 
-
 #### [precepto]Décima. Pago de deudas con la Seguridad Social de instituciones sanitarias cuya titularidad ostenten las Administraciones Públicas o instituciones sin ánimo de lucro.
 
 Las instituciones sanitarias cuya titularidad ostenten las Administraciones Públicas o instituciones públicas o privadas sin ánimo de lucro, acogidas a la moratoria prevista en la disposición adicional trigésima de la Ley 41/1994, de 30 de diciembre, de Presupuestos Generales del Estado para 1995, podrán solicitar a la Tesorería General de la Seguridad Social la ampliación de la carencia concedida a dieciocho años, junto con la ampliación de la moratoria concedida hasta un máximo de diez años con amortizaciones anuales.
-
 
 #### [precepto]Undécima. Retribuciones de los cargos directivos y restante personal de las mutuas de accidentes de trabajo y enfermedades profesionales de la Seguridad Social y de sus entidades y centros mancomunados.
 
@@ -6655,7 +6428,6 @@ Dos. En aquellos supuestos en los que la prestación de los servicios de los car
 Tres. Las retribuciones del resto del personal al servicio de las mutuas y de sus entidades y centros mancomunados quedarán sometidas a lo dispuesto en relación con el personal laboral del sector público estatal y, concretamente, a lo establecido en el artículo 27 de esta Ley.
 
 Cuatro. A efectos de aplicación de las limitaciones previstas en los apartados Uno y Dos, serán computables igualmente las retribuciones que provengan del patrimonio histórico de las mutuas o de las entidades vinculadas a dicho patrimonio.
-
 
 #### [precepto]Duodécima. Gestión de las acciones, medidas y programas establecidos en la letra h) del artículo 13 de la Ley 56/2003, de 16 de diciembre, de Empleo.
 
@@ -6673,13 +6445,11 @@ Dicha reserva presupuestaria opera como reserva de gestión de políticas activa
 
 De acuerdo con lo previsto en el artículo 14.3 de la citada Ley 56/2003, de 16 de diciembre, los fondos que integran la reserva de crédito no estarán sujetos a distribución territorial entre las Comunidades Autónomas con competencias de gestión asumidas.
 
-
 #### [precepto]Décima tercera. Interés legal del dinero.
 
 Uno. De conformidad con lo dispuesto en el artículo 1 de la Ley 24/1984, de 29 de junio, sobre modificación del tipo de interés legal del dinero, éste queda establecido en el 4 por ciento hasta el 31 de diciembre del año 2012.
 
 Dos. Durante el mismo periodo, el interés de demora a que se refiere el artículo 26.6 de la Ley 58/2003, de 17 de diciembre, General Tributaria, será del 5 por ciento.
-
 
 #### [precepto]Décima cuarta. Determinación del indicador público de renta de efectos múltiples (IPREM) para 2012.
 
@@ -6693,16 +6463,13 @@ c)	El IPREM anual, 6.390,13 euros.
 
 d)	En los supuestos en que la referencia al salario mínimo interprofesional ha sido sustituida por la referencia al IPREM en aplicación de lo establecido en el Real Decreto-Ley 3/2004, de 25 de junio, la cuantía anual del IPREM será de 7.455,14 euros cuando las correspondientes normas se refieran al salario mínimo interprofesional en cómputo anual, salvo que expresamente excluyeran las pagas extraordinarias; en este caso, la cuantía será de 6.390,13 euros.
 
-
 #### [precepto]Décima quinta. Seguro de Crédito a la Exportación.
 
 El límite máximo de cobertura para nueva contratación, excluidas la Póliza Abierta de Gestión de Exportaciones (PAGEX), la Póliza 100 y la Póliza Master, que podrá asegurar y distribuir la Compañía Española de Seguros de Crédito a la Exportación, Sociedad Anónima (CESCE) será, para el ejercicio del año 2012, de 9.000.000 miles de euros.
 
-
 #### [precepto]Décima sexta. Ayudas reembolsables.
 
 Las ayudas públicas que, de acuerdo con lo establecido en el artículo 33.1.b) de la Ley 14/2011, de 1 de junio, de la Ciencia, la Tecnología y la Innovación, se conceden a empresas para la financiación de actuaciones de las previstas en el citado artículo, podrán configurarse como ayudas reembolsables total o parcialmente, en este último caso con cesión a la Administración General del Estado de los derechos sobre los resultados, en función de lo conseguido en la ejecución de dichas actuaciones, y en los términos que establezcan las respectivas bases reguladoras. Los ingresos derivados de los reembolsos de las ayudas públicas con fines de investigación científica y desarrollo tecnológico a que se refiere este precepto podrán generar crédito en las aplicaciones 27.13.463B.740, 27.13.463B.750, 27.13.463B.760, 27.13.463B.770 y 27.13.463B.780 del estado de gastos.
-
 
 #### [precepto]Décima séptima. Creación de Agencias Estatales.
 
@@ -6712,11 +6479,9 @@ Las ayudas públicas que, de acuerdo con lo establecido en el artículo 33.1.b) 
 
 La creación de esta Agencia no podrá suponer, en ningún caso, incremento neto de estructura o de personal, dotándose, exclusivamente, mediante la correspondiente redistribución de efectivos, y su funcionamiento tendrá que realizarse con los medios materiales de que dispone actualmente la Administración.
 
-
 #### [precepto]Décima octava. Incorporación de remanentes de tesorería del Organismo Autónomo Instituto Nacional de Administración Pública.
 
 Se autoriza al Organismo Autónomo Instituto Nacional de Administración Pública, dependiente del Ministerio de Hacienda y Administraciones Públicas, a incorporar al remanente de tesorería propio del Organismo los importes no utilizados a final del ejercicio 2011, hasta un límite máximo de 512.000,00 euros, de los fondos destinados a ejecución de los Planes de Formación para el Empleo asignados al INAP como promotor, y de los destinados a las actividades complementarias que tengan relación con el programa de formación para el empleo en las Administraciones Públicas.
-
 
 #### [precepto]Décima novena. Fondo de apoyo para la promoción y desarrollo de infraestructuras y servicios del Sistema de Autonomía y Atención a la Dependencia.
 
@@ -6729,7 +6494,6 @@ Tres. El Fondo podrá dedicar parte de sus recursos a la constitución de Fondos
 Cuatro. A la liquidación del Fondo, que se producirá a los diez años de la entrada en vigor de esta Ley, SEPI ingresará en el Tesoro Público la dotación percibida con cargo a los Presupuestos Generales del Estado, menos el importe correspondiente a las operaciones de financiación fallidas, si las hubiere, y los gastos derivados de la gestión del Fondo desde su creación, más los rendimientos financieros que puedan generar las cantidades aportadas al mismo.
 
 Cinco. Este Fondo carece de personalidad jurídica. Las responsabilidades del Fondo se limitarán exclusivamente a aquéllas que la entidad gestora haya contraído por cuenta del mismo. Igualmente, los posibles acreedores del Fondo no podrán hacer efectivos sus créditos contra el patrimonio de la entidad gestora.
-
 
 #### [precepto]Vigésima. Afectación de la recaudación de las tasas de expedición del Documento Nacional de Identidad y Pasaportes.
 
@@ -6748,7 +6512,6 @@ Tasa de expedición del DNI
 Tasa de expedición del Pasaporte
 
 65%
-
 
 #### [precepto]Vigésima primera. Módulos para la compensación económica por la actuación de Jueces de Paz y Secretarios de Juzgados de Paz.
 
@@ -6810,13 +6573,11 @@ De 5.000 a 6.999 habitantes
 
 Tres. Las cuantías anteriores se financiarán con cargo a las correspondientes aplicaciones presupuestarias, y se devengarán por periodos trimestrales en los meses de marzo, junio, septiembre y diciembre.
 
-
 #### [precepto]Vigésima segunda. Militares de Tropa y Marinería.
 
 Las plantillas máximas de militares de Tropa y Marinería a alcanzar el 31 de diciembre del año 2012 no podrán superar los 81.000 efectivos.
 
 Se autoriza al Ministerio de Defensa a iniciar los procesos de selección y reclutamiento a partir de la aprobación de la presente Ley.
-
 
 #### [precepto]Vigésima tercera. Contratación de personal de las sociedades mercantiles públicas en 2012.
 
@@ -6828,13 +6589,11 @@ Dos. En el caso de las sociedades mercantiles estatales, la contratación tempor
 
 Tres. Lo dispuesto en el apartado Uno de esta disposición Adicional tiene carácter básico y se dicta al amparo de lo dispuesto en los artículos 149.1.13ª y 156.1 de la Constitución.
 
-
 #### [precepto]Vigésima cuarta. Otros gastos de personal en la Administración del Estado 2012.
 
 1. Para hacer efectiva la minoración de los gastos de acción social previstos en esta Ley, de acuerdo con lo dispuesto en el artículo 38.10 de la Ley 7/2007, de 12 de abril, del Estatuto Básico del Empleado Público, se suspenden los pactos y acuerdos que contengan previsiones contrarias al mismo.
 
 2. La autorización de la masa salarial por el Ministerio de Hacienda y Administraciones Públicas de las entidades y organismos de los apartados a), d) y g) del artículo 22. Uno de esta Ley, se hará teniendo en cuenta la minoración del concepto de acción social.
-
 
 #### [precepto]Vigésima quinta. Contratación de personal de las fundaciones del sector público y de los consorcios en 2012.
 
@@ -6846,16 +6605,13 @@ Dos. En el caso de las fundaciones del sector público estatal y de los consorci
 
 Tres. Lo dispuesto en el apartado Uno de esta disposición Adicional tiene carácter básico y se dicta al amparo de lo dispuesto en los artículos 149.1.13.ª y 156.1 de la Constitución.
 
-
 #### [precepto]Vigésima sexta. Aplazamiento de la aplicación de la disposición adicional trigésima de la Ley 27/2011, de 1 de agosto, de actualización, adecuación y modernización del Sistema de Seguridad Social.
 
 Se aplaza la aplicación de lo establecido en la disposición adicional trigésima de la Ley 27/2011, de 1 de agosto, de actualización, adecuación y modernización del Sistema de Seguridad Social.
 
-
 #### [precepto]Vigésima séptima. Ayudas financiación Fondo para el Patrimonio Natural y la Biodiversidad.
 
 En relación con las Ayudas reguladas por el artículo 86 de la Ley 47/2003, de 26 de noviembre, General Presupuestaria, los pagos correspondientes a la financiación de actuaciones recogidas en el Fondo para el Patrimonio Natural y la Biodiversidad regulados en el artículo 74 de la Ley 42/2007, del Patrimonio Natural y de la Biodiversidad, podrán librarse en su totalidad una vez hayan sido acordados en Conferencia Sectorial los criterios objetivos de distribución y la distribución resultante así como el refrendo mediante Acuerdo del Consejo de Ministros.
-
 
 #### [precepto]Vigésima octava. Actuaciones acogidas al Programa de Desarrollo Rural Sostenible, aprobado por Real Decreto 752/2010, de 4 de junio.
 
@@ -6879,13 +6635,11 @@ C.A. de Castilla y León:
 
 – Acondicionamiento de la pista entre Neila y Huerta de Arriba (Zona Rural Burgos Sudeste).
 
-
 #### [precepto]Vigésima novena. Garantías en efectivo y en valores constituidas en la Caja General de Depósitos.
 
 Se declaran en situación de abandono las garantías en efectivo y valores constituidas en la Caja General de Depósitos con anterioridad al 1 de enero de 1985, salvo que la autoridad a cuya disposición se encuentren constituidas confirme su vigencia en el plazo de tres meses a contar desde la entrada en vigor de esta norma.
 
 No obstante, siempre que no hayan transcurrido veinte años desde el vencimiento o el cumplimiento de la obligación garantizada, los interesados, o las entidades públicas a cuyo favor se constituyeron las garantías, podrán solicitar a la Caja General de Depósitos la reposición en sus derechos.
-
 
 #### [precepto]Trigésima. Suscripción de convenios con Comunidades Autónomas que incumplan su objetivo de estabilidad presupuestaria.
 
@@ -6911,7 +6665,6 @@ c)	Las medidas que se hubieran adoptado para corregirla.
 
 d)	El efecto respecto del déficit o la deuda pública de la Comunidad Autónoma que se pudiera derivar del convenio, así como el objeto del mismo.
 
-
 #### [precepto]Trigésima primera. Aportación financiera del Servicio Público de Empleo Estatal a la financiación del IV Plan Integral de Empleo de la Comunidad Autónoma de Canarias.
 
 Uno. De conformidad con lo establecido en la disposición adicional quinta de la Ley 56/2003, de 16 de diciembre, de Empleo, durante el año 2012, el Servicio Público de Empleo Estatal aportará a la financiación del IV Plan Integral de Empleo de la Comunidad Autónoma de Canarias la cantidad de 42.000 miles de euros.
@@ -6928,13 +6681,11 @@ Cinco. Finalizado el ejercicio 2012 y con anterioridad al 1 de abril de 2013, la
 
 Seis. No obstante lo indicado en el apartado Cinco, el remanente de la aportación financiera no comprometido por la Comunidad Autónoma en el ejercicio 2012 será reintegrado al Servicio Público de Empleo Estatal en la forma que se determine en la resolución de concesión que adopte dicho Organismo para la efectividad de los libramientos a que se refiere el apartado Tres, con sujeción a las prescripciones que, en materia de subvenciones, establece la Ley 38/2003, de 17 de noviembre, General de Subvenciones y su Reglamento de desarrollo, aprobado por el Real Decreto 887/2006, de 21 de julio.
 
-
 #### [precepto]Trigésima segunda. Apoyo financiero a empresas de base tecnológica.
 
 El importe total máximo de las operaciones que podrán aprobarse durante el año 2012 para las operaciones de la línea de financiación creada en el apartado 2 de la Disposición adicional segunda de la Ley 6/2000, de 13 de diciembre, por la que se aprueban medidas fiscales urgentes de estímulo al ahorro familiar y a la pequeña y mediana empresa, será de 20.000 miles de euros, cantidad que se financiará con cargo a la aplicación presupuestaria 20.16.433M.821.11.
 
 El importe total máximo que podrá aprobarse durante el año 2012 para las operaciones a las que se refiere el apartado 1 de la disposición adicional segunda de la Ley 6/2000, de 13 de diciembre, por la que se aprueban medidas fiscales urgentes de estímulo al ahorro familiar y a la pequeña y mediana empresa, será de 18.579,76 miles de euros, cantidad que se financiará con cargo a la aplicación presupuestaria 27.14.467C.831.15.
-
 
 #### [precepto]Trigésima tercera. Apoyo financiero a jóvenes emprendedores y a las pequeñas y medianas empresas.
 
@@ -6942,13 +6693,11 @@ Uno. El importe de la aportación del Estado a la línea de financiación creada
 
 Dos. El importe de la aportación del Estado a la línea de financiación creada en la disposición adicional vigésimo quinta de la Ley 2/2004, de 27 de diciembre, de Presupuestos Generales del Estado para el año 2005, de apoyo financiero a las pequeñas y medianas empresas, será de 56.105,49 miles de euros, cantidad que se financiará con cargo a la aplicación presupuestaria 20.16.433M.821.10.
 
-
 #### [precepto]Trigésima cuarta. Dotación de los fondos de fomento a la inversión española con interés español en el exterior.
 
 Uno. La dotación del Fondo para Inversiones en el Exterior se establece en 25.000 miles de euros en el año 2012. El Comité Ejecutivo del Fondo para Inversiones en el Exterior podrá aprobar durante el año 2012 operaciones por un importe total máximo equivalente a 300.000 miles de euros.
 
 Dos. El Comité Ejecutivo del Fondo de Operaciones de Inversión en el Exterior de la Pequeña y Mediana Empresa podrá aprobar durante el año 2012 operaciones por un importe total máximo equivalente a 35.000 miles de euros.
-
 
 #### [precepto]Trigésima quinta. Apoyo financiero a las actuaciones en Parques Científicos y Tecnológicos.
 
@@ -6967,7 +6716,6 @@ El aplazamiento podrá ser concedido por el Ministerio de Economía y Competitiv
 5.	En el caso de entidades del sector público, la operación deberá contar con la autorización de la Administración a la que la entidad pertenezca y adicionalmente dicha Administración deberá asumir subsidiariamente el pago de la deuda cuyo aplazamiento se solicita. Así mismo, las cuotas aplazadas podrán ser objeto de compensación con cualquier pago que debiera realizarse desde el Estado a la citada Administración.
 
 Mediante resolución de la Directora General de Competitividad e Innovación del Ministerio de Economía y Competitividad podrán dictarse las instrucciones que sean precisas para el cumplimiento de esta disposición.
-
 
 #### [precepto]Trigésima sexta. Instrumentación de la ampliación del plazo para el reintegro de las liquidaciones negativas del sistema de financiación de las Comunidades Autónomas y Ciudades con Estatuto de Autonomía correspondientes a 2008 y 2009.
 
@@ -6989,16 +6737,13 @@ Ocho. En el supuesto de que la Comunidad Autónoma o Ciudad con Estatuto de Auto
 
 Nueve. La determinación del incumplimiento del objetivo de estabilidad, a los efectos de esta disposición, se producirá en el momento en el que el Ministro de Hacienda y Administraciones Públicas eleve al Gobierno el informe sobre el grado de cumplimiento del objetivo de estabilidad presupuestaria y de deuda pública y de la regla de gasto del ejercicio inmediato anterior al que se refiere la normativa reguladora en materia de estabilidad presupuestaria y sostenibilidad financiera.
 
-
 #### [precepto]Trigésima séptima. Porcentaje sobre el rendimiento de la tasa de reserva de dominio público radioeléctrico a percibir por la Corporación RTVE.
 
 Con efectos 1 de enero de 2012, el porcentaje sobre el rendimiento de la tasa sobre reserva de dominio público radioeléctrico a percibir por la Corporación RTVE, según el artículo 4.2 de la Ley 8/2009, de 28 de agosto, de financiación de la Corporación de Radio y Televisión Española, queda fijado en el 100%, con un importe máximo de 330 millones de euros.
 
-
 #### [precepto]Trigésima octava. Extracoste de generación de energía eléctrica insular y extrapeninsular.
 
 Durante el ejercicio 2012 queda en suspenso, respecto de los extracostes de generación correspondientes al año 2011, la aplicación del mecanismo de compensación con cargo a los Presupuestos Generales del Estado establecido en la Disposición adicional primera del Real Decreto-Ley 6/2009, de 30 de abril, por el que se adoptan determinadas medidas en el sector energético y se aprueba el bono social, sin que se genere derecho alguno ni proceda realizar compensación con cargo a los Presupuestos del corriente ejercicio 2012.
-
 
 #### [precepto]Trigésima novena. Normas de ejecución presupuestaria del Centro para el desarrollo tecnológico industrial.
 
@@ -7008,11 +6753,9 @@ Dos. Las operaciones de concesión de subvenciones con cargo al presupuesto del 
 
 Tres. Trimestralmente el Ministerio de Economía y Competitividad informará al Ministerio de Hacienda y Administraciones Públicas sobre la ejecución de las operaciones realizadas a efectos de verificar el cumplimiento de los límites regulados en los apartados anteriores.
 
-
 #### [precepto]Cuadragésima. Suspensión de la aplicación de determinados preceptos de la Ley 39/2006, de 14 de diciembre, de Promoción de la Autonomía Personal y Atención a las Personas en situación de dependencia.
 
 Durante 2012 se suspende la aplicación del artículo 7.2, del artículo 8.2.a), del artículo 10, del artículo 32.3, párrafo primero, y de la Disposición Transitoria primera de la Ley 39/2006, de 14 de diciembre, de Promoción de la Autonomía Personal y Atención a las Personas en situación de dependencia.
-
 
 #### [precepto]Cuadragésima primera. Contratación de inversiones por parte de las entidades públicas empresariales y sociedades mercantiles estatales.
 
@@ -7021,7 +6764,6 @@ Las entidades públicas empresariales y las sociedades mercantiles estatales que
 En todo caso, el volumen contratado no podrá exceder de los siguientes porcentajes: 70%, 60% y 50% en el primer, segundo y tercer ejercicios posteriores al ejercicio en curso, respectivamente, cualesquiera que fueran los instrumentos jurídicos de los que deriven, salvo norma con rango de ley.
 
 Al menos con periodicidad trimestral, y dentro del mes siguiente al que se refiera, las citadas entidades informarán al Ministerio de Hacienda y Administraciones Públicas del volumen y porcentajes contratados, medidos de forma acumulada y con indicación de los proyectos principales.
-
 
 #### [precepto]Cuadragésima segunda. Garantía del Estado para obras de interés cultural.
 
@@ -7034,7 +6776,6 @@ Excepcionalmente este límite máximo podrá elevarse por encima de los 231.000 
 El límite máximo de los compromisos específicos que se otorguen a la Fundación Colección Thyssen-Bornemisza respecto a las obras destinadas a su exhibición en las sedes de la Fundación ubicadas en España en relación con el «Contrato de Préstamo de Obras de arte entre, de una parte, la Fundación Colección Thyssen-Bornemisza y de otra Omicron Collections Limited, Nautilus Trustees Limited, Coraldale Navigation Incorporated, Imiberia Anstalt, y la Baronesa Carmen Thyssen-Bornemisza», para el año 2012 será de 540.910 miles de euros.
 
 Dos. En el año 2012 será de aplicación lo dispuesto en el apartado anterior a las exposiciones organizadas por la «Sociedad Estatal para la Acción Cultural, SA», que se celebren en instituciones dependientes de la Administración General del Estado, así como a las exposiciones organizadas por la Fundación Lázaro Galdiano en la sede de su Museo.
-
 
 #### [precepto]Cuadragésima tercera. Financiación de la formación profesional para el empleo.
 
@@ -7078,11 +6819,9 @@ Las empresas de 1 a 5 trabajadores dispondrán de un crédito de bonificación p
 
 Las empresas que durante el año 2012 concedan permisos individuales de formación a sus trabajadores dispondrán de un crédito de bonificaciones para formación adicional al crédito anual que les correspondería de conformidad con lo establecido en el párrafo primero de este apartado, por el importe que resulte de aplicar los criterios determinados por Orden del Ministerio de Empleo y Seguridad Social. El crédito adicional asignado al conjunto de las empresas que concedan los citados permisos no podrá superar el 5 por ciento del crédito establecido en el presupuesto del Servicio Público de Empleo Estatal para la financiación de las bonificaciones en las cotizaciones de la Seguridad Social por formación profesional para el empleo.
 
-
 #### [precepto]Cuadragésima cuarta. Suspensión normativa.
 
 Queda sin efecto en 2012 lo previsto en el artículo 2 ter 4 de la Ley Orgánica 4/2000, de 11 de enero.
-
 
 #### [precepto]Cuadragésima quinta. Préstamos y anticipos concedidos con cargo a los Presupuestos Generales del Estado.
 
@@ -7110,7 +6849,6 @@ Dos. Mediante Orden del Ministro de Hacienda y Administraciones Públicas se dic
 
 Tres. Las normas contenidas en esta disposición sustituyen a las establecidas en los artículos 63 de la Ley 26/2009, de 23 de diciembre, de Presupuestos Generales del Estado para el año 2010 y 58 de la Ley 39/2010, de 22 de diciembre, de Presupuestos Generales del Estado para el año 2011.
 
-
 #### [precepto]Cuadragésima sexta. Actuaciones en relación con el presupuesto prorrogado.
 
 Uno. Imputación de las operaciones de gasto del Presupuesto prorrogado a los Presupuestos Generales del Estado para 2012.
@@ -7137,7 +6875,6 @@ Las incorporaciones de crédito y aquellas otras modificaciones presupuestarias 
 
 No se aplicarán a los Presupuestos Generales del Estado para 2012 las retenciones de crédito realizadas en aplicación del apartado cuarto del Acuerdo de Consejo de Ministros de 30 de diciembre de 2011.
 
-
 #### [precepto]Cuadragésima séptima. Criterios para el cálculo del índice de evolución de los ingresos tributarios del Estado mencionado en el Capítulo I, del Título VII de la presente Ley, de acuerdo con lo dispuesto en el artículo 121 del Texto Refundido de la Ley Reguladora de las Haciendas Locales aprobado por Real Decreto Legislativo 2/2004, de 5 de marzo.
 
 A los efectos del cálculo de las entregas a cuenta de la participación de las Entidades locales en los tributos del Estado del artículo 121 del Texto Refundido de la Ley Reguladora de las Haciendas Locales aprobado por Real Decreto Legislativo 2/2004, de 5 de marzo, el índice provisional de evolución de los ingresos tributarios del Estado entre el año 2004 y el año 2012, se determinará con los criterios establecidos en el artículo 20 de la Ley 22/2009, de 18 de diciembre, que consisten en:
@@ -7147,7 +6884,6 @@ A los efectos del cálculo de las entregas a cuenta de la participación de las 
 2. Por lo que se refiere al cálculo de los ingresos tributarios del Estado del año 2004, se utilizarán los criterios de homogeneización establecidos en el artículo 20 de la Ley 22/2009. Esto es, se procederá a simular la entrega a cuenta del año 2004 de las CCAA en los términos de cesión correspondientes al año 2012. Por lo que respecta a la liquidación del 2002 se calculará por diferencia entre el rendimiento definitivo de las CCAA en los términos de cesión del año 2012 y las entregas realmente efectuadas en 2002.
 
 Igualmente para la determinación del resto de los índices de evolución regulados en el Capítulo I del Título VII de la presente Ley, distintos del anterior, se aplicará lo dispuesto en el artículo 20 de la Ley 22/2009, de 18 de diciembre, sustituyendo, si procede, el año base 2007 por el que corresponda.
-
 
 #### [precepto]Cuadragésima octava. Anticipos de la liquidación definitiva de la participación de las Entidades locales en tributos del Estado del año 2010 y posteriores.
 
@@ -7163,7 +6899,6 @@ La documentación a la que se refiere el presente apartado se deberá remitir al
 
 Las Leyes de Presupuestos Generales del Estado de aquellos ejercicios podrán especificar el plazo y procedimiento de aplicación de esta medida.
 
-
 #### [precepto]Cuadragésima novena. Regularización de las entregas a cuenta del año 2012 transferidas con anterioridad a la fecha de publicación de la presente Ley.
 
 1. Del importe de las entregas a cuenta que correspondan en 2012 a cada entidad local, de acuerdo con los criterios establecidos en las Secciones 1ª a 7ª, del Capítulo I, del Título VII, de la presente Ley, y, en su caso, de los créditos recogidos en el estado de gastos de estos Presupuestos Generales del Estado, se deducirán las cuantías que hayan correspondido a las entregas a cuenta de este año a las que se hubiesen aplicado la Ley 39/2010, de 22 de diciembre, de Presupuestos Generales del Estado para el año 2011, que fue prorrogada con las especialidades establecidas en el artículo 10 del Real Decreto-ley 20/2011, de 30 de diciembre, de medidas urgentes en materia presupuestaria, tributaria y financiera para la corrección del déficit público.
@@ -7171,7 +6906,6 @@ Las Leyes de Presupuestos Generales del Estado de aquellos ejercicios podrán es
 El resultado de la anterior operación se distribuirá, por partes iguales, entre las entregas a cuenta a las que se aplique la presente Ley.
 
 2. A los municipios que se incluirán en 2012 por vez primera en el modelo de cesión de impuestos del Estado se les aplicará la regla del anterior apartado si bien se imputarán al Fondo Complementario de Financiación los importes que les hubiere correspondido en las entregas a cuenta determinadas con arreglo a la Ley 39/2010, de 22 de diciembre, de Presupuestos Generales del Estado para el año 2011, que fue prorrogada con las especialidades establecidas en el artículo 10 del Real Decreto-ley 20/2011, de 30 de diciembre, de medidas urgentes en materia presupuestaria, tributaria y financiera para la corrección del déficit público.
-
 
 #### [precepto]Quincuagésima. Actividades prioritarias de mecenazgo.
 
@@ -7199,7 +6933,6 @@ Dos. De acuerdo con lo establecido en el artículo 22 de la Ley 49/2002, de 23 d
 
 Tres. Los porcentajes y los límites de las deducciones establecidas en los artículos 19, 20 y 21 de la citada Ley 49/2002 se elevarán en cinco puntos porcentuales en relación con las actividades incluidas en los apartados anteriores.
 
-
 #### [precepto]Quincuagésima primera. Beneficios fiscales aplicables a la celebración de «Vitoria- Gasteiz Capital Verde Europea 2012».
 
 Uno. La celebración de «Vitoria-Gasteiz Capital Verde Europea 2012» tendrá la consideración de acontecimiento de excepcional interés público a los efectos de lo dispuesto en el artículo 27 de la Ley 49/2002, de 23 de diciembre, de régimen fiscal de las entidades sin fines lucrativos y de los incentivos fiscales al mecenazgo.
@@ -7211,7 +6944,6 @@ Tres. La certificación de la adecuación de los gastos realizados a los objetiv
 Cuatro. Las actuaciones a realizar serán las que aseguren el adecuado desarrollo del acontecimiento. El desarrollo y concreción en planes y programas de actividades específicas se realizarán por el órgano competente en conformidad con lo dispuesto en la citada Ley 49/2002.
 
 Cinco. Los beneficios fiscales de este programa serán los máximos establecidos en el artículo 27.3 de la citada Ley 49/2002.
-
 
 #### [precepto]Quincuagésima segunda. Beneficios fiscales aplicables al Campeonato del Mundo de Vela (ISAF) Santander 2014.
 
@@ -7225,7 +6957,6 @@ Cuatro. Las actuaciones a realizar serán las que aseguren el adecuado desarroll
 
 Cinco. Los beneficios fiscales de este programa serán los máximos establecidos en el artículo 27.3 de la citada Ley 49/2002.
 
-
 #### [precepto]Quincuagésima tercera. Beneficios fiscales aplicables al Programa «El Árbol es Vida».
 
 Uno. El Programa «El Árbol es Vida» tendrá la consideración de acontecimiento de excepcional interés público a los efectos de lo dispuesto en el artículo 27 de la Ley 49/2002, de 23 de diciembre, de régimen fiscal de las entidades sin fines lucrativos y de los incentivos fiscales al mecenazgo.
@@ -7237,7 +6968,6 @@ Tres. La certificación de la adecuación de los gastos realizados a los objetiv
 Cuatro. Las actuaciones a realizar serán las que aseguren el adecuado desarrollo del acontecimiento. El desarrollo y concreción en planes y programas de actividades específicas se realizarán por el órgano competente en conformidad a lo dispuesto en la citada Ley 49/2002.
 
 Cinco. Los beneficios fiscales de este programa serán los máximos establecidos en el artículo 27.3 de la citada Ley 49/2002.
-
 
 #### [precepto]Quincuagésima cuarta. Beneficios fiscales aplicables a la celebración del IV Centenario de las relaciones de España y Japón a través del programa de actividades del «Año de España en Japón».
 
@@ -7251,7 +6981,6 @@ Cuatro. Las actuaciones a realizar serán las que aseguren el adecuado desarroll
 
 Cinco. Los beneficios fiscales de este programa serán los máximos establecidos en el artículo 27.3 de la citada Ley 49/2002.
 
-
 #### [precepto]Quincuagésima quinta. Beneficios fiscales aplicables al «Plan Director para la recuperación del Patrimonio Cultural de Lorca».
 
 Uno. El «Plan Director para la recuperación del Patrimonio Cultural de Lorca» tendrá la consideración de acontecimiento de excepcional interés público a los efectos de lo dispuesto en el artículo 27 de la Ley 49/2002, de 23 de diciembre, de régimen fiscal de las entidades sin fines lucrativos y de los incentivos fiscales al mecenazgo.
@@ -7263,7 +6992,6 @@ Tres. La certificación de la adecuación de los gastos realizados a los objetiv
 Cuatro. Las actuaciones a realizar serán las que aseguren el adecuado desarrollo del acontecimiento. El desarrollo y concreción en planes y programas de actividades específicas se realizarán por el órgano competente en conformidad a lo dispuesto en la citada Ley 49/2002.
 
 Cinco. Los beneficios fiscales de este programa serán los máximos establecidos en el artículo 27.3 de la citada Ley 49/2002.
-
 
 #### [precepto]Quincuagésima sexta. Beneficios fiscales aplicables al Programa Patrimonio Joven y el 4º Foro Juvenil Iberoamericano del Patrimonio Mundial.
 
@@ -7277,7 +7005,6 @@ Cuatro. Las actuaciones a realizar serán las que aseguren el adecuado desarroll
 
 Cinco. Los beneficios fiscales de este programa serán los máximos establecidos en el artículo 27.3 de la citada Ley 49/2002.
 
-
 #### [precepto]Quincuagésima séptima. Beneficios fiscales aplicables al Programa «Universiada de Invierno de Granada 2015».
 
 Uno. El Programa «Universiada de Invierno de Granada 2015» tendrá la consideración de acontecimiento de excepcional interés público a los efectos de lo dispuesto en el artículo 27 de la Ley 49/2002, de 23 de diciembre, de régimen fiscal de las entidades sin fines lucrativos y de los incentivos fiscales al mecenazgo.
@@ -7289,7 +7016,6 @@ Tres. La certificación de la adecuación de los gastos realizados a los objetiv
 Cuatro. Las actuaciones a realizar serán las que aseguren el adecuado desarrollo del acontecimiento. El desarrollo y concreción en planes y programas de actividades específicas se realizarán por el órgano competente en conformidad a lo dispuesto en la citada Ley 49/2002.
 
 Cinco. Los beneficios fiscales de este programa serán los máximos establecidos en el artículo 27.3 de la citada Ley 49/2002.
-
 
 #### [precepto]Quincuagésima octava. Beneficios fiscales aplicables al Campeonato del Mundo de Ciclismo en Carretera Ponferrada 2014.
 
@@ -7303,7 +7029,6 @@ Cuatro. Las actuaciones a realizar serán las que aseguren el adecuado desarroll
 
 Cinco. Los beneficios fiscales de este programa serán los máximos establecidos en el artículo 27.3 de la Ley 49/2002.
 
-
 #### [precepto]Quincuagésima novena. Beneficios fiscales aplicables a la celebración de la «Creación del Centro de Categoría 2 UNESCO en España, dedicado al Arte Rupestre y Patrimonio Mundial».
 
 Uno. La celebración de la «Creación del Centro de Categoría 2 UNESCO en España, dedicado al Arte Rupestre y Patrimonio Mundial», tendrá la consideración de acontecimiento de excepcional interés público a los efectos de lo dispuesto en el artículo 27 de la Ley 49/2002, de 23 de diciembre, de régimen fiscal de las entidades sin fines lucrativos y de los incentivos fiscales al mecenazgo.
@@ -7315,7 +7040,6 @@ Tres. La certificación de la adecuación de los gastos realizados a los objetiv
 Cuatro. Las actuaciones a realizar serán las que aseguren el adecuado desarrollo del acontecimiento. El desarrollo y concreción en planes y programas de actividades específicas se realizarán por el órgano competente en conformidad a lo dispuesto en la citada Ley 49/2002.
 
 Cinco. Los beneficios fiscales de este programa serán los máximos establecidos en el artículo 27.3 de la citada Ley 49/2002.
-
 
 #### [precepto]Sexagésima. Beneficios fiscales aplicables a la celebración de «Barcelona World Jumping Challenge».
 
@@ -7329,7 +7053,6 @@ Cuatro. Las actuaciones a realizar serán las que aseguren el adecuado desarroll
 
 Cinco. Los beneficios fiscales de este programa serán los máximos establecidos en el artículo 27.3 de la citada Ley 49/2002.
 
-
 #### [precepto]Sexagésima primera. Beneficios fiscales aplicables al Campeonato del Mundo de Natación Barcelona 2013.
 
 Uno. El Campeonato del Mundo de Natación Barcelona 2013 tendrá la consideración de acontecimiento de excepcional interés público a los efectos de lo dispuesto en el artículo 27 de la Ley 49/2002, de 23 de diciembre, de régimen fiscal de las entidades sin fines lucrativos y de los incentivos fiscales al mecenazgo.
@@ -7341,7 +7064,6 @@ Tres. La certificación de la adecuación de los gastos realizados a los objetiv
 Cuatro. Las actuaciones a realizar serán las que aseguren el adecuado desarrollo del acontecimiento. El desarrollo y concreción en planes y programas de actividades específicas se realizarán por el órgano competente en conformidad a lo dispuesto en la citada Ley 49/2002.
 
 Cinco. Los beneficios fiscales de este programa serán los máximos establecidos en el artículo 27.3 de la citada Ley 49/2002.
-
 
 #### [precepto]Sexagésima segunda. Beneficios fiscales aplicables a la celebración de «Barcelona Mobile World Capital».
 
@@ -7355,7 +7077,6 @@ Cuatro. Las actuaciones a realizar serán las que aseguren el adecuado desarroll
 
 Cinco. Los beneficios fiscales de este programa serán los máximos establecidos en el artículo 27.3 de la citada Ley 49/2002.
 
-
 #### [precepto]Sexagésima tercera. Beneficios fiscales aplicables a la celebración de la «3,ª edición de la Barcelona World Race».
 
 Uno. La celebración de la «3ª edición de la Barcelona World Race» tendrá la consideración de acontecimiento de excepcional interés público a los efectos de lo dispuesto en el artículo 27 de la Ley 49/2002, de 23 de diciembre, de régimen fiscal de las entidades sin fines lucrativos y de los incentivos fiscales al mecenazgo.
@@ -7367,7 +7088,6 @@ Tres. La certificación de la adecuación de los gastos realizados a los objetiv
 Cuatro. Las actuaciones a realizar serán las que aseguren el adecuado desarrollo del acontecimiento. El desarrollo y concreción en planes y programas de actividades específicas se realizarán por el órgano competente en conformidad a lo dispuesto en la citada Ley 49/2002.
 
 Cinco. Los beneficios fiscales de este programa serán los máximos establecidos en el artículo 27.3 de la citada Ley 49/2002.
-
 
 #### [precepto]Sexagésima cuarta. Beneficios fiscales aplicables a la celebración del 40º aniversario de la Convención del Patrimonio Mundial (París, 1972).
 
@@ -7381,7 +7101,6 @@ Cuatro. Las actuaciones a realizar serán las que aseguren el adecuado desarroll
 
 Cinco. Los beneficios fiscales de este programa serán los máximos establecidos en el artículo 27.3 de la citada Ley 49/2002.
 
-
 #### [precepto]Sexagésima quinta. Beneficios fiscales aplicables al Campeonato del Mundo de Tiro Olímpico «Las Gabias 2014».
 
 Uno. El Campeonato del Mundo de Tiro Olímpico «Las Gabias 2014» tendrá la consideración de acontecimiento de excepcional interés público a los efectos de lo dispuesto en el artículo 27 de la Ley 49/2002, de 23 de diciembre, de régimen fiscal de las entidades sin fines lucrativos y de los incentivos fiscales al mecenazgo.
@@ -7393,7 +7112,6 @@ Tres. La certificación de la adecuación de los gastos realizados a los objetiv
 Cuatro. Las actuaciones a realizar serán las que aseguren el adecuado desarrollo del acontecimiento. El desarrollo y concreción en planes y programas de actividades específicas se realizarán por el órgano competente en conformidad a lo dispuesto en la citada Ley 49/2002.
 
 Cinco. Los beneficios fiscales de este programa serán los máximos establecidos en el artículo 27.3 de la citada Ley 49/2002.
-
 
 #### [precepto]Sexagésima sexta. Beneficios fiscales aplicables a la celebración del «VIII Centenario de la Catedral de Santiago de Compostela».
 
@@ -7407,7 +7125,6 @@ Cuatro. Las actuaciones a realizar serán las que aseguren el adecuado desarroll
 
 Cinco. Los beneficios fiscales de este programa serán los máximos establecidos en el artículo 27.3 de la citada Ley 49/2002.
 
-
 #### [precepto]Sexagésima séptima. Beneficios fiscales aplicables a la conmemoración de los «500 años de Bula Papal».
 
 Uno. La conmemoración de los «500 años de Bula Papal» tendrá la consideración de acontecimiento de excepcional interés público a los efectos de lo dispuesto en el artículo 27 de la Ley 49/2002, de 23 de diciembre, de régimen fiscal de las entidades sin fines lucrativos y de los incentivos fiscales al mecenazgo.
@@ -7419,7 +7136,6 @@ Tres. La certificación de la adecuación de los gastos realizados a los objetiv
 Cuatro. Las actuaciones a realizar serán las que aseguren el adecuado desarrollo del acontecimiento. El desarrollo y concreción en planes y programas de actividades específicas se realizarán por el órgano competente en conformidad a lo dispuesto en la citada Ley 49/2002.
 
 Cinco. Los beneficios fiscales de este programa serán los máximos establecidos en el artículo 27.3 de la citada Ley 49/2002.
-
 
 #### [precepto]Sexagésima octava. Beneficios fiscales aplicables al Programa «2012 Año de las Culturas, la Paz y la Libertad».
 
@@ -7433,7 +7149,6 @@ Cuatro. Las actuaciones a realizar serán las que aseguren el adecuado desarroll
 
 Cinco. Los beneficios fiscales de este programa serán los máximos establecidos en el artículo 27.3 de la citada Ley 49/2002.
 
-
 #### [precepto]Sexagésima novena. Beneficios fiscales aplicables a la celebración del «Año de la Neurociencia».
 
 Uno. La celebración del «Año de la Neurociencia» tendrá la consideración de acontecimiento de excepcional interés público a los efectos de lo dispuesto en el artículo 27 de la Ley 49/2002, de 23 de diciembre, de régimen fiscal de las entidades sin fines lucrativos y de los incentivos fiscales al mecenazgo.
@@ -7446,7 +7161,6 @@ Cuatro. Las actuaciones a realizar serán las que aseguren el adecuado desarroll
 
 Cinco. Los beneficios fiscales de este programa serán los máximos establecidos en el artículo 27.3 de la citada Ley 49/2002.
 
-
 #### [precepto]Septuagésima. Deudas pendientes del Ayuntamiento de Marbella con la Seguridad Social y con la Hacienda Pública Estatal.
 
 Uno. La deuda pendiente que el Ayuntamiento de Marbella y las entidades de derecho público dependientes del mismo mantienen con la Seguridad Social y con la Hacienda Pública Estatal, devengada con anterioridad a la disolución del citado Ayuntamiento por Real Decreto 421/2006, de 7 de abril, se fraccionará durante un plazo no superior a 40 años mediante el descuento de las transferencias de su participación en los ingresos del Estado. El interés aplicable a la operación será del 1%.
@@ -7456,7 +7170,6 @@ Dos. Se aplicará a la cancelación anticipada de las fracciones, mediante la re
 En el supuesto de que tales indemnizaciones se concreten mediante la entrega al Ayuntamiento de bienes o derechos, los mismos quedarán afectos en virtud de la presente Ley al pago de la deuda fraccionada pendiente y se ejecutarán directamente de acuerdo con lo previsto en el artículo 172 de la Ley General Tributaria y 34 de la Ley General de la Seguridad Social.
 
 En todo lo no dispuesto en la presente Disposición Adicional se aplicará supletoriamente la Ley General Tributaria o la Ley General de la Seguridad Social o la Ley General Presupuestaria, según proceda.
-
 
 #### [precepto]Septuagésima primera. Jornada general del trabajo en el Sector Público.
 
@@ -7484,7 +7197,6 @@ Dos. Con esta misma fecha, queda suspendida la eficacia de las previsiones en ma
 
 Tres. Esta disposición tiene carácter básico y se dicta al amparo de los artículos 149.1.7ª, 149.1.13ª y 149.1.18ª de la Constitución española.
 
-
 #### [precepto]Septuagésima segunda. Subvenciones al transporte marítimo y aéreo para residentes en Canarias, Baleares, Ceuta y Melilla.
 
 Uno. Se autoriza al Gobierno de la Nación para que, durante el año 2012, modifique o en su caso, reemplace el actual régimen de las subvenciones al transporte aéreo y marítimo para residentes en las Islas Canarias, Baleares, Ceuta y Melilla, por otro sistema de compensación. Dicha modificación nunca podrá suponer una disminución de la ayuda prestada o un deterioro en la calidad del servicio, ni incremento de los créditos asignados a esta finalidad.
@@ -7501,7 +7213,6 @@ Los órganos gestores podrán facilitar por vía telemática a las agencias, las
 
 Tres. En todo caso, para las Comunidades de Canarias y de Baleares se estará a lo regulado en el artículo 6 de la Ley 19/1994, de 6 de junio de Modificación del Régimen Económico y Fiscal de Canarias, así como en el artículo 5 de la Ley 30/1998, de 29 de Julio del Régimen Especial de las islas Baleares.
 
-
 #### [precepto]Septuagésima tercera. Asignación de cantidades a fines sociales.
 
 El Estado destinará a subvencionar actividades de interés social, en la forma que reglamentariamente se establezca, el 0,7 por ciento de la cuota íntegra del Impuesto sobre la Renta de las Personas Físicas del ejercicio 2012 correspondiente a los contribuyentes que manifiesten expresamente su voluntad en tal sentido.
@@ -7510,13 +7221,11 @@ A estos efectos, se entenderá por cuota íntegra del impuesto la formada por la
 
 La liquidación definitiva de la asignación correspondiente al ejercicio de 2012 se llevará a cabo antes del 30 de abril de 2014, efectuándose una liquidación provisional el 30 de noviembre de 2013 que posibilite la iniciación anticipada del procedimiento para la concesión de las subvenciones.
 
-
 #### [precepto]Septuagésima cuarta. Financiación a la Iglesia Católica.
 
 Durante el año 2012 el Estado entregará, mensualmente, a la Iglesia Católica 13.266.216,12 euros, a cuenta de la cantidad que deba asignar a la Iglesia por aplicación de lo dispuesto en los apartados Uno y Dos de la disposición adicional decimoctava de la Ley 42/2006, de 28 de diciembre, de Presupuestos Generales del Estado para el año 2007.
 
 Antes del 30 de noviembre de 2013, se efectuará una liquidación provisional de la asignación correspondiente a 2012, practicándose la liquidación definitiva antes del 30 de abril de 2014. En ambas liquidaciones, una vez efectuadas, se procederá por las dos partes a regularizar, en un sentido o en otro, el saldo existente.
-
 
 #### [precepto]Septuagésima quinta. Aportación financiera del Servicio Público de Empleo Estatal a la financiación del Plan Integral de Empleo de la Comunidad Autónoma de Extremadura.
 
@@ -7538,7 +7247,6 @@ Asimismo, se deberán reintegrar al Servicio Público de Empleo Estatal las cant
 
 La justificación de los proyectos y acciones financiados con cargo al Plan Integral de Empleo para la Comunidad Autónoma de Extremadura se considerará adecuada, cuando así se manifieste por la Comunidad Autónoma que gestione estos fondos, bien prestando su conformidad al proyecto realizado o bien realizando la liquidación del respectivo expediente.
 
-
 #### [precepto]Septuagésima sexta. Beneficios fiscales aplicables al programa conmemorativo del VIII Centenario de la Batalla de las Navas de Tolosa (1212) y del V de la conquista, anexión e incorporación de Navarra al reino de Castilla (1512).
 
 Uno. La conmemoración del VIII Centenario de la Batalla de las Navas de Tolosa y del V de la conquista de Navarra tendrá la consideración de acontecimiento de excepcional interés público a los efectos de lo dispuesto en el artículo 27 de la Ley 49/2002, de 23 de diciembre, de régimen fiscal de las entidades sin fines lucrativos y de los incentivos fiscales al mecenazgo.
@@ -7551,13 +7259,11 @@ Cuatro. Las actuaciones a realizar serán las que aseguren el adecuado desarroll
 
 Cinco. Los beneficios fiscales de este programa serán los máximos establecidos en el artículo 27.3 de la citada Ley 49/2002.
 
-
 #### [precepto]Septuagésima séptima. Puntos de Venta de la Red Comercial de la Sociedad Estatal de Loterías y Apuestas del Estado.
 
 Uno. Los titulares de los puntos de venta que formen parte de la red comercial externa de la Sociedad Estatal de Loterías y Apuestas del Estado que, a 1 de enero de 2012, no se encontrasen sometidos al régimen de Derecho Privado, previsto en el punto 1 de la Disposición Adicional Trigésimo Cuarta de la Ley 26/2009, de Presupuestos Generales del Estado para el año 2010, y en caso de fallecimiento de éstos, sus sucesores podrán optar a dicho régimen, en el plazo de dos meses desde el inicio de la vigencia de la presente Ley, o mantener, respecto a su vinculación con la mencionada Sociedad Estatal, la naturaleza y régimen jurídico actual, de carácter administrativo, sin modificación alguna del mismo hasta el fallecimiento, jubilación, renuncia o cese del titular.
 
 Dos. La referencia hecha en la Disposición Transitoria Cuarta de la Ley 13/2011, de 27 de mayo, de regulación del juego, a la Disposición Adicional Trigésimo Cuarta de la Ley 26/2009, de 26 de diciembre, de Presupuestos Generales del Estado para el 2010, deberá entenderse hecha a la Disposición Adicional Septuagésima Séptima de la presente Ley.
-
 
 #### [precepto]Septuagésima octava. Beneficios fiscales aplicables a la celebración del «Año Santo Jubilar Mariano 2012-2013 en Almonte (Huelva)».
 
@@ -7571,11 +7277,9 @@ La certificación de la adecuación de los gastos realizados a los objetivos y p
 
 Los beneficios fiscales de este programa serán los máximos establecidos en el artículo 27.3 de la citada Ley 49/2002.
 
-
 #### [precepto]Septuagésima novena. Creación de la Agencia Estatal de Investigación.
 
 El Gobierno estudiará de acuerdo con las disponibilidades presupuestarias, la viabilidad de la creación de la Agencia Estatal de Investigación.
-
 
 #### [precepto]Octogésima. Beneficios fiscales aplicables a la celebración de «2014 Año Internacional de la Dieta Mediterránea».
 
@@ -7589,16 +7293,13 @@ Cuatro. Las actuaciones a realizar serán las que aseguren el adecuado desarroll
 
 Cinco. Los beneficios fiscales de este programa serán los máximos establecidos en el artículo 27.3 de la citada Ley 49/2002.
 
-
 #### [precepto]Octogésima primera. Bonificaciones aplicables a prestaciones patrimoniales de carácter público en Aeropuertos de Illes Balears.
 
 Con efectos desde la entrada en vigor de esta Ley y vigencia indefinida, las cuantías unitarias de la prestación pública de aterrizaje, y de las prestaciones públicas por salida de pasajeros, PMR’s y seguridad en los aeropuertos de Palma de Mallorca, Menorca, Ibiza y Son Bonet se bonificarán en un 10% durante los meses de noviembre a marzo, respecto de las cuantías establecidas con carácter general para las citadas prestaciones públicas en estos aeropuertos.
 
-
 #### [precepto]Octogésima segunda.
 
 El Gobierno promoverá en el Comité Técnico Permanente de Evaluación previsto en la disposición adicional séptima de la Ley 22/2009, de 18 de diciembre, el análisis de la situación relativa a la financiación autonómica de las ciudades con Estatuto de Autonomía de Ceuta y Melilla.
-
 
 #### [precepto]Octogésima tercera. Bonificaciones aplicables a prestaciones patrimoniales de carácter público en Aeropuertos de las Islas Canarias.
 
@@ -7640,13 +7341,11 @@ La Ley de Presupuestos Generales del Estado de cada año podrá actualizar los t
 
 [encabezado]DISPOSICIONES TRANSITORIAS
 
-
 #### [precepto]Primera. Indemnización por residencia del personal al servicio del sector público estatal.
 
 Durante el año 2012, la indemnización por residencia del personal en activo del sector público estatal continuará devengándose en las áreas del territorio nacional que la tienen reconocida, en las mismas cuantías vigentes a 31 de diciembre de 2011.
 
 No obstante, quienes vinieran percibiendo la indemnización por residencia en cuantías superiores a las establecidas para el personal del sector público estatal continuarán devengándola sin incremento alguno en el año 2012.
-
 
 #### [precepto]Segunda. Complementos personales y transitorios.
 
@@ -7662,11 +7361,9 @@ Tres. Los complementos personales y transitorios reconocidos al personal de las 
 
 Cuatro. Los complementos personales y transitorios reconocidos al personal destinado en el extranjero se absorberán aplicando las mismas normas establecidas para el que preste servicios en territorio nacional, sin perjuicio de su supresión cuando el funcionario afectado cambie de país de destino.
 
-
 #### [precepto]Tercera. Contratación de inversiones por parte de las entidades públicas empresariales y sociedades mercantiles estatales.
 
 Las entidades públicas empresariales y las sociedades mercantiles estatales a que se refiere la disposición adicional cuadragésima primera que a 30 de junio de 2012 excedan los límites fijados en la citada disposición someterán a la aprobación del Ministerio de Hacienda y Administraciones Públicas, antes del 30 de septiembre de 2012, de una propuesta de reestructuración que permita el diferimiento de los límites contraídos.
-
 
 #### [precepto]Cuarta. Compensación fiscal por deducción en adquisición de vivienda habitual en 2011.
 
@@ -7687,7 +7384,6 @@ A estos efectos, el tramo autonómico de la deducción por inversión en viviend
 Cinco. Se entenderá que el contribuyente ha adquirido su vivienda habitual utilizando financiación ajena cuando cumpla los requisitos establecidos en el artículo 55 del Reglamento del Impuesto sobre la Renta de las Personas Físicas, aprobado por el Real Decreto 1775/2004, de 30 de julio, según redacción vigente a 31 de diciembre de 2006.
 
 Seis. La cuantía de la deducción así calculada se restará de la cuota líquida total, después de la deducción por obtención de rendimientos del trabajo o de actividades económicas a que se refiere el artículo 80 bis de la Ley 35/2006.
-
 
 #### [precepto]Quinta. Compensación fiscal por percepción de determinados rendimientos del capital mobiliario con período de generación superior a dos años en 2011.
 
@@ -7717,16 +7413,13 @@ Cinco. La entidad aseguradora comunicará al contribuyente el importe de los ren
 
 Seis. La cuantía de la deducción así calculada se restará de la cuota líquida total, después de la deducción por obtención de rendimientos del trabajo o de actividades económicas a que se refiere el artículo 80 bis de la Ley 35/2006.
 
-
 #### [precepto]Sexta. Obligaciones pendientes de abono de las asignaciones financieras a favor de la ONCE del ejercicio 2011.
 
 La Sociedad Estatal Loterías y Apuestas del Estado asumirá las obligaciones pendientes de abono de las asignaciones financieras del ejercicio 2011, correspondiente al resultado negativo del ejercicio 2010, a favor de la Organización Nacional de Ciegos Españoles (ONCE) que se deriven de la disposición adicional decimoctava de la Ley 47/2003, de 26 de noviembre, General Presupuestaria, modificada por la disposición final primera del Real Decreto-ley 18/2011, de 18 de noviembre.
 
-
 #### [precepto]Séptima. Vigencia de disposiciones reglamentarias.
 
 Durante 2012 se mantienen vigentes las normas contenidas en las disposiciones de desarrollo, dictadas en materia de pensiones y prestaciones públicas de la Ley 39/2010, de 22 de diciembre, de Presupuestos Generales del Estado para 2011, en todo aquello que no se opongan a lo establecido en el título IV y disposiciones concordantes de esta Ley.
-
 
 #### [precepto]Octava. Normas transitorias en materia de bonificaciones al transporte marítimo y aéreo.
 
@@ -7736,21 +7429,17 @@ Durante 2012 se mantienen vigentes las normas contenidas en las disposiciones de
 
 [encabezado]DISPOSICIONES DEROGATORIAS
 
-
 #### [precepto]Primera. Derogación del artículo 62 de la Ley 55/1999, de 29 de diciembre, de medidas fiscales, administrativas y del orden social.
 
 Se deroga el artículo 62 de la Ley 55/1999, de 29 de diciembre, de medidas fiscales, administrativas y del orden social.
-
 
 #### [precepto]Segunda. Derogación de la compensación por el extracoste de generación de energía eléctrica insular y extrapeninsular.
 
 Queda derogada la disposición adicional quinta «Compensaciones por los extracostes de generación de los Sistemas Eléctricos Insulares y Extrapeninsulares» del Real Decreto-ley 20/2011, de 30 de diciembre, de medidas urgentes en materia presupuestaria, tributaria y financiera para la corrección del déficit público.
 
-
 #### [precepto]Tercera. Derogación del artículo 9 de la Ley 24/2001, de 27 de diciembre.
 
 Con efectos desde el 1 de enero de 2013 queda derogado el artículo 9 de la Ley 24/2001, de 27 de diciembre, de Medidas Fiscales, Administrativas y del Orden Social.
-
 
 #### [precepto]Cuarta. Derogación normativa.
 
@@ -7758,13 +7447,11 @@ Quedan derogadas cuantas disposiciones se opongan a lo previsto en la presente L
 
 [encabezado]DISPOSICIONES FINALES
 
-
 #### [precepto]Primera. Modificación del texto refundido de las Leyes 116/1969, de 30 de diciembre, y 24/1972, de 21 de junio, por el que se regula el Régimen Especial de la Seguridad Social de los Trabajadores del Mar, aprobado por Decreto 2864/1974, de 30 de agosto.
 
 Con efectos a partir de la entrada en vigor de esta Ley y vigencia indefinida, se modifica el artículo 9 del texto refundido de las Leyes 116/1969, de 30 diciembre, y 24/1972, de 21 de junio, por el que se regula el Régimen Especial de la Seguridad Social de los Trabajadores del Mar, aprobado por Decreto 2864/1974, de 30 de agosto, que queda redactado en los siguientes términos:
 
 «Artículo 9. La justificación de haber sido inscrita la embarcación en el Registro constituirá requisito necesario para que las autoridades marítimas autoricen su despacho para salir a la mar.»
-
 
 #### [precepto]Segunda. Modificación del texto refundido de la Ley de Clases Pasivas del Estado, aprobado por Real Decreto Legislativo 670/1987, de 30 de abril.
 
@@ -7775,7 +7462,6 @@ Se incluye una nueva disposición adicional, la decimotercera, al texto refundid
 «Disposición adicional decimotercera.
 
 A efectos de la extinción de las pensiones a favor de familiares del Régimen de Clases Pasivas del Estado reconocidas al amparo de la legislación vigente a 31 de diciembre de 1984, así como a las reconocidas en aplicación de la legislación especial de guerra, se equipara al matrimonio la constitución de una pareja de hecho en los términos que establece el artículo 38.4 del presente texto refundido.»
-
 
 #### [precepto]Tercera. Modificación del texto refundido de la Ley sobre Seguridad Social de las Fuerzas Armadas, aprobado por Real Decreto-legislativo 1/2000, de 9 de junio.
 
@@ -7792,7 +7478,6 @@ a) El personal comprendido en alguno de los apartados del número anterior que p
 b) El personal que tenga reconocida alguna de las pensiones de inutilidad para el servicio previstas en la normativa que desarrolla el artículo 52 bis.2 del Texto Refundido de la Ley de Clases Pasivas del Estado, aprobada por Real Decreto Legislativo 670/1987, de 30 de abril, siempre que no esté obligatoriamente incluido en el campo de aplicación de otro Régimen de Seguridad Social, con ocasión del desempeño de alguna actividad por cuenta propia o ajena.»
 
 El resto del artículo permanece con la misma redacción.
-
 
 #### [precepto]Cuarta. Modificación de la Ley 33/2003, de 3 de noviembre, de Patrimonio de las Administraciones Públicas.
 
@@ -7874,15 +7559,11 @@ i) Cuando por razones excepcionales se considere conveniente efectuar la venta a
 
 Seis. Se añade un nuevo apartado 11 a la disposición adicional décima del siguiente tenor:
 
-«11. Las resoluciones por las que se aprueben las tarifas, a las que se refiere el apartado 4 anterior, serán objeto de publicación en el ‘‘Boletín Oficial del Estado’’, cuando las tarifas aprobadas resulten aplicables a encomiendas que puedan ser atribuidas por distintos órganos, organismos o entidades del sector público estatal, o cuando por su relevancia así lo estime necesario la autoridad que aprueba las tarifas.»
-
 Siete. Se añade un nuevo apartado 4 en la disposición adicional decimoquinta, con el siguiente tenor:
 
 «4. La adquisición y el arrendamiento de inmuebles podrán efectuarse mediante una licitación competitiva entre operadores preseleccionados, mediante un procedimiento basado en la formación de una bolsa permanente de ofertas y la realización de procesos restringidos de selección entre las incorporadas al sistema. La articulación del sistema y la selección de ofertas en el seno del mismo se regirán por las siguientes normas:
 
 a) La implementación del sistema se acordará por Orden del Ministro de Hacienda y Administraciones Públicas en la que se especificarán el tipo de operaciones patrimoniales a que se refiere; las condiciones particulares de las mismas, de ser procedente; la duración del sistema, que podrá ser indefinida; y las características y condiciones técnicas, urbanísticas y jurídicas de los inmuebles susceptibles de incorporarse al sistema y su ubicación.
-
-b) La Orden se publicará en el ‘‘Boletín Oficial del Estado’’ y en la sede electrónica del Ministerio de Hacienda y Administraciones Públicas, sin perjuicio de la posibilidad de utilizar otros medios de difusión, facilitándose en el anuncio toda la información necesaria para incorporarse al sistema. El sistema se articulará por medios electrónicos, accediendo al mismo a través de la sede electrónica del Ministerio de Hacienda y Administraciones Públicas, y en la Orden Ministerial se facilitarán los datos relativos al equipo electrónico utilizado y las especificaciones técnicas de conexión, así como los programas y aplicaciones necesarios para hacer uso del sistema, que serán de descarga gratuita.
 
 c) Durante la vigencia del sistema, y a efectos de ser incluido en él, todo interesado podrá presentar ofertas indicativas. Sólo se admitirá una oferta por cada inmueble o parte del mismo susceptible de aprovechamiento independiente y la presentación deberá hacerse por quien tenga su disponibilidad y capacidad jurídica suficiente para concluir el negocio de que se trate. El sistema deberá garantizar la confidencialidad de las ofertas presentadas.
 
@@ -7897,7 +7578,6 @@ Cada adquisición o arrendamiento que se pretenda adjudicar será objeto de una 
 f) Todos los interesados admitidos en el sistema y cuyas ofertas indicativas respondan a los requerimientos definidos para la licitación serán invitados a presentar una oferta para el contrato específico de adquisición o arrendamiento que se pretenda adjudicar, a cuyo efecto se les concederá un plazo de cinco días, con indicación de los criterios que se tomarán en cuenta para la adjudicación y su ponderación.
 
 g) En todo lo no previsto específicamente, se aplicarán las normas que regulan la celebración de concursos para la adquisición y arrendamiento de inmuebles, salvo lo establecido en cuanto la apertura pública de las ofertas.»
-
 
 #### [precepto]Quinta. Modificación de la Ley 47/2003, de 26 de noviembre, General Presupuestaria.
 
@@ -8105,7 +7785,6 @@ Veintiuno. Se añade una nueva disposición transitoria quinta a la Ley General 
 
 Hasta la entrada en vigor del desarrollo reglamentario correspondiente, la Cuenta General del Estado se elaborará conforme a lo previsto en la Orden del Ministerio de Hacienda de 12 de diciembre de 2000, por la que se regula la elaboración de la Cuenta General del Estado.»
 
-
 #### [precepto]Sexta. Porcentajes de cesión de rendimientos recaudatorios de impuestos estatales a favor de las Entidades locales.
 
 Con vigencia indefinida, y para su consideración en la liquidación definitiva correspondiente al ejercicio 2010 de la cesión de los impuestos estatales a favor de las Entidades locales, se modifican los siguientes preceptos del texto refundido de la Ley Reguladora de las Haciendas Locales, aprobado por Real Decreto Legislativo 2/2004, de 5 de marzo:
@@ -8133,7 +7812,6 @@ b) El 1,3699 por 100 de la recaudación líquida por el Impuesto sobre el Valor 
 c) El 1,7206 por 100 de la recaudación líquida imputable a cada provincia o ente asimilado por los Impuestos Especiales sobre la Cerveza, sobre el Vino y Bebidas Fermentadas, sobre Productos Intermedios, sobre el Alcohol y Bebidas Derivadas, sobre Hidrocarburos y sobre las Labores del Tabaco.»
 
 Cuatro. Los porcentajes definidos en el apartado anterior sustituirán, para cada uno de los impuestos citados, a los establecidos en los artículos 137.1, 138 y 139 del texto refundido de la Ley Reguladora de las Haciendas Locales, aprobado por Real Decreto Legislativo 2/2004, de 5 de marzo.
-
 
 #### [precepto]Séptima. Modificación del Texto Refundido de la Ley Reguladora de las Haciendas Locales, aprobado por Real Decreto Legislativo 2/2004, de 5 de marzo.
 
@@ -8167,7 +7845,6 @@ c) Rendimientos derivados de actividades económicas, ya sean empresariales o pr
 
 En relación con los posibles efectos derivados de cambios de residencia se estará a lo dispuesto en el artículo 28.4 de la Ley 22/2009, de 18 de diciembre, por la que se regula el sistema de financiación de las Comunidades Autónomas de régimen común y Ciudades con Estatuto de Autonomía y se modifican determinadas normas tributarias.
 
-
 #### [precepto]Octava. Modificación de la Ley 39/2006, de 14 de diciembre, de Promoción de la Autonomía Personal y Atención a las Personas en Situación de Dependencia.
 
 Con efectos desde la fecha de entrada en vigor de esta ley y vigencia indefinida, se da nueva redacción al primer apartado de la disposición final primera de la Ley 39/2006, de 14 de diciembre, de Promoción de la Autonomía Personal y Atención a las Personas en Situación de Dependencia, que queda redactado en los siguientes términos:
@@ -8185,7 +7862,6 @@ El quinto año, que finaliza el 31 de diciembre de 2011, a quienes sean valorado
 A partir del 1 de enero de 2014 al resto de quienes sean valorados en el Grado I de Dependencia Moderada, Nivel 2.
 
 A partir del 1 de enero de 2014 a quienes sean valorados en el Grado I de Dependencia Moderada, nivel 1.»
-
 
 #### [precepto]Novena. Modificación de la Ley 55/2007, de 28 de diciembre, del Cine.
 
@@ -8208,7 +7884,6 @@ Dos. Se da nueva redacción a la disposición adicional sexta de la Ley del Cine
 El Ministerio de Cultura, mediante convenio, concretará dentro de las disponibilidades presupuestarias anuales, los créditos previstos en el artículo 36 de esta Ley, de forma que la dotación que reciba cada Comunidad Autónoma con lengua cooficial sea anualmente equivalente a la suma de aportaciones que dicha Comunidad haya destinado en el ejercicio anterior para el soporte y fomento de la producción, distribución, exhibición y promoción del audiovisual en lengua cooficial distinta al castellano.
 
 La dotación que reciba cada Comunidad Autónoma no será superior al 50 % del total de las ayudas que las empresas audiovisuales residentes en dicha Comunidad hayan recibido del Instituto de la Cinematografía y de las Artes Audiovisuales en el ejercicio anterior.»
-
 
 #### [precepto]Décima. Reintegros de los saldos deudores resultantes a cargo de las Entidades locales en las liquidaciones definitivas de la participación en tributos del Estado de los años 2008 y 2009.
 
@@ -8244,7 +7919,6 @@ Los plazos y el desarrollo del procedimiento de remisión de aquella documentaci
 
 7. Si el importe pendiente de reintegro a la fecha de publicación de la presente norma fuese igual o inferior a 120 euros, se reintegrará por su totalidad en la entrega a cuenta de la participación en tributos del Estado del mes siguiente al de aquella fecha.
 
-
 #### [precepto]Undécima. Modificación de la Ley 9/2009, de 6 de octubre, de ampliación de la duración del permiso de paternidad en los casos de nacimiento, adopción o acogida.
 
 Se da nueva redacción a la disposición final segunda de la Ley 9/2009, de 6 de octubre, de ampliación de la duración del permiso de paternidad en los casos de nacimiento, adopción o acogida, en los siguientes términos:
@@ -8252,7 +7926,6 @@ Se da nueva redacción a la disposición final segunda de la Ley 9/2009, de 6 de
 «Disposición final segunda.
 
 La presente Ley entrará en vigor a partir del 1 de enero de 2013.»
-
 
 #### [precepto]Duodécima. Modificación de la Ley 22/2009, de 18 de diciembre, por la que se regula el sistema de financiación de las Comunidades Autónomas de régimen común y Ciudades con Estatuto de Autonomía y se modifican determinadas normas tributarias.
 
@@ -8360,13 +8033,11 @@ Seis. Se introduce una nueva disposición transitoria séptima, con la siguiente
 
 6. Todas las referencias al Impuesto sobre las Ventas Minoristas de Determinados Hidrocarburos que se encuentren en la normativa vigente se entenderán realizadas a los tipos estatal especial y autonómico del Impuesto sobre Hidrocarburos.»
 
-
 #### [precepto]Décima tercera. Modificación del Real Decreto-Ley 9/2010, de 28 de mayo, por el que se autoriza a la Administración General del Estado al otorgamiento de avales a determinadas operaciones de financiación en el marco del Mecanismo Europeo de Estabilización Financiera de los Estados miembros de la Zona del Euro.
 
 Con efectos a partir de la entrada en vigor de esta Ley y vigencia indefinida se modifica el apartado 1 del artículo único del Real Decreto-ley 9/2010, de 28 de mayo, por el que se autoriza a la Administración General del Estado al otorgamiento de avales a determinadas operaciones de financiación en el marco del Mecanismo Europeo de Estabilización Financiera de los Estados miembros de la Zona del Euro, que queda redactado en los siguientes términos:
 
 «Al amparo de lo establecido en el artículo 114 de la Ley 47/2003, de 26 de noviembre, General Presupuestaria, se autoriza a la Administración General del Estado a otorgar avales, hasta el importe máximo del compromiso establecido para España en los acuerdos reguladores de la “Facilidad Europea de Estabilización Financiera”, y conforme a las características en ellos especificadas, en garantía de las obligaciones económicas exigibles a la misma, derivadas de las emisiones de instrumentos financieros, de la concertación de operaciones de préstamo y crédito, así como de cualesquiera otras operaciones de financiación que realice la sociedad “Facilidad Europea de Estabilización Financiera”.»
-
 
 #### [precepto]Décima cuarta. Modificación del Real Decreto-ley 13/2010, de 3 de diciembre, de actuaciones en el ámbito fiscal, laboral y liberalizadoras para fomentar la inversión y la creación de empleo.
 
@@ -8378,7 +8049,6 @@ Esta medida será de aplicación en todo el territorio del Estado y su gestión 
 
 Respecto de la gestión por las Comunidades Autónomas de esta medida, los créditos correspondientes se distribuirán territorialmente entre dichas administraciones, de conformidad con lo establecido en la normativa estatal.»
 
-
 #### [precepto]Décima quinta. Sociedades concesionarias de autopistas de peaje dependientes de la Administración General del Estado.
 
 Se autoriza al Gobierno para que en el plazo de tres meses, si las circunstancias económicas de las sociedades concesionarias así lo aconsejan, y mediante Real Decreto pueda adoptar las medidas siguientes para las sociedades concesionarias de autopistas de peaje dependientes de la Administración General del Estado:
@@ -8388,7 +8058,6 @@ a) Ampliar el ámbito de aplicación de la cuenta de compensación prevista en l
 b) Prorrogar el periodo de vigencia de la cuenta de compensación hasta el año 2021 inclusive.
 
 c) Modificar en los términos legalmente previstos el plazo de las concesiones de autopistas de peaje dependientes de la Administración General del Estado.
-
 
 #### [precepto]Décima sexta. Modificación de la Ley 13/2011, de 27 de mayo, de regulación del juego.
 
@@ -8437,7 +8106,6 @@ Las competencias previstas para la Comisión Nacional del Juego serán ejercidas
 El rendimiento de las tasas mencionadas en el párrafo anterior se ingresará en el Tesoro Público con aplicación al Presupuesto de Ingresos del Estado.
 
 El Registro de Prohibidos hasta ahora dependiente del Ministerio del Interior de conformidad con la Orden Ministerial de 9 de enero de 1979, será gestionado por la Dirección General de Ordenación del Juego hasta su integración en el Registro General de Interdicciones de Acceso al Juego y el Registro de Personas Vinculadas a Operadores de Juego.»
-
 
 #### [precepto]Décima séptima. Modificación de la Ley 29/2011, de 22 de septiembre, de Reconocimiento y Protección Integral de las Víctimas del Terrorismo.
 
@@ -8523,7 +8191,6 @@ Once. Se adiciona una Disposición transitoria a la Ley 29/2011, con la siguient
 
 «Las solicitudes presentadas con anterioridad a la entrada en vigor de la ley y que se encuentren en tramitación serán resueltas de conformidad a la normativa aplicable en el momento de presentación de la solicitud.»
 
-
 #### [precepto]Décima octava. Modificación del Real Decreto-ley 20/2011, de 30 de diciembre, de medidas urgentes en materia presupuestaria, tributaria y financiera para la corrección del déficit público.
 
 Con efectos de la entrada en vigor de esta Ley y vigencia indefinida se introducen las siguientes modificaciones en el Real Decreto-ley 20/2011, de 30 de diciembre, de medidas urgentes en materia presupuestaria, tributaria y financiera para la corrección del déficit público.
@@ -8543,7 +8210,6 @@ Dos. La Disposición adicional decimocuarta del Real Decreto-ley 20/2011, de 30 
 Para la determinación del ahorro neto y de los ingresos corrientes a efectos de calcular el nivel de endeudamiento, en los términos del precepto citado en el párrafo anterior y del artículo 53 del Texto refundido de la ley reguladora de las Haciendas Locales, aprobado por Real Decreto legislativo 2/2004, de 5 de marzo, se tendrán en cuenta la liquidación del presupuesto del ejercicio 2011 y, en su caso, las cifras deducidas de los estados contables consolidados, con sujeción a aquella norma y a la de estabilidad presupuestaria, descontando, en todo caso, en el cálculo del ahorro neto y en el del nivel de endeudamiento, el efecto que, en ambos casos, pueda tener el importe de los ingresos afectados.
 
 A efectos del cálculo del capital vivo se considerarán todas las operaciones vigentes a 31 de diciembre de 2011, incluido el riesgo deducido de avales e incrementado, en su caso, en los saldos de operaciones formalizadas no dispuestos y en el importe de la operación proyectada o proyectadas en 2012.»
-
 
 #### [precepto]Décima novena. Modificación de la Ley 19/1976, de 29 de mayo, sobre creación de la Orden del Mérito del Cuerpo de la Guardia Civil.
 
@@ -8570,7 +8236,6 @@ Tres. Con efectos desde la entrada en vigor de esta Ley y vigencia indefinida, s
 «La Gran Cruz es la máxima categoría dentro de la Orden del Mérito de la Guardia Civil, y se concederá por real decreto del Consejo de Ministros, a propuesta del Ministro del Interior, y oído el Ministro de Defensa cuando se trate miembros de la Guardia Civil.»
 
 Cuatro. Se faculta al Ministro del Interior para aprobar las modificaciones reglamentarias necesarias para el desarrollo y ejecución de lo dispuesto en esta disposición final.
-
 
 #### [precepto]Vigésima. Modificación de la Ley 38/1992, de 28 de diciembre, de Impuestos Especiales.
 
@@ -8709,7 +8374,6 @@ Las Comunidades Autónomas que hayan establecido un tipo impositivo autonómico 
 b) El tipo estatal de la devolución podrá ser modificado por la Ley de Presupuestos Generales del Estado.
 
 c) La cuantía máxima de la devolución a percibir no excederá de la que correspondería a 50.000 litros por vehículo y año, salvo que se trate de taxis, en cuyo caso la cuantía máxima de la devolución no excederá de la que correspondería a 5.000 litros por taxi y año. Por el Ministro de Hacienda y Administraciones Públicas se podrá disponer el fraccionamiento de estos límites para su aplicación en relación con períodos de tiempo inferiores al año.»
-
 
 #### [precepto]Vigésima primera. Modificación de la Ley 21/2003, de 7 de julio, de Seguridad Aérea.
 
@@ -8939,8 +8603,6 @@ Categoría 1
 
 70
 
-140
-
 Categoría 2
 
 20
@@ -9057,7 +8719,6 @@ Este incremento de cuantía, denominado factor de la Agencia Estatal de Segurida
 
 La sociedad mercantil estatal «AENA Aeropuertos, S.A.», una vez liquidada la prestación pública por salida de pasajeros, PMRs y seguridad, transferirá directamente a la Agencia Estatal de Seguridad Aérea el importe que resulte de la aplicación de la siguiente fórmula:
 
-
 **N.º de pasajeros de salida x F**
 
 El factor F se actualizará acumulativamente de acuerdo con los coeficientes que para la elevación general de tasas fijen las Leyes de Presupuestos Generales del Estado de cada año.»
@@ -9073,7 +8734,6 @@ Seis. Se modifica el artículo 83 de la Ley 21/2003, de 7 de julio, de Seguridad
 «Artículo 83. Importe.
 
 1. En los aeropuertos de Madrid-Barajas, Barcelona-El Prat, Alicante, Gran Canaria, Málaga-Costa del Sol, Palma de Mallorca, Tenerife Sur, Bilbao, Fuerteventura, Girona, Ibiza, Lanzarote, Menorca, Santiago, Sevilla, Tenerife Norte y Valencia, la cuantía de la contraprestación de estacionamiento, en función del peso y el tiempo de permanencia de la aeronave en posición de estacionamiento, será el resultado de aplicar la siguiente fórmula:
-
 
 **E = e*Tm*Ft**
 
@@ -9297,7 +8957,6 @@ b) Servicios de asistencia al pasajero, grupo de servicios número 2: 0,0404 €
 
 No obstante lo dispuesto en el artículo 73 de la Ley 21/2003, de 7 de julio, de Seguridad Aérea, y con efectos desde la entrada en vigor de esta Ley de Presupuestos Generales del Estado para 2012 y vigencia hasta el 31 de diciembre de 2012, las cuantías correspondientes a la contraprestación por salida de pasajeros en el Aeropuerto de Girona - Costa Brava serán las siguientes: 3,66 € para Pasajero EEE y 5,49 € para Pasajero Internacional.
 
-
 #### [precepto]Vigésima segunda. Modificación del artículo 157 del Real Decreto Legislativo 2/2011, de 5 de septiembre, por el que se aprueba el texto refundido de la Ley de Puertos y de la Marina Mercante.
 
 Con efectos a partir de la entrada en vigor de la presente Ley y vigencia indefinida se propone la modificación del artículo 157 del Real Decreto Legislativo 2/2011, que quedará redactado en los siguientes términos:
@@ -9310,7 +8969,6 @@ a) El resultado del ejercicio después de impuestos, excluyendo del mismo el det
 
 b) El activo no corriente neto medio del ejercicio, excluyendo el inmovilizado en curso, el inmovilizado correspondiente a terrenos y bienes naturales sobre los que no se haya desarrollado ningún tipo de actividad durante el ejercicio, los activos por impuestos diferidos y los deudores comerciales no corrientes. La incorporación de una nueva infraestructura portuaria básica (dique de abrigo, esclusa y acceso marítimo) se prorrateará durante siete años desde la fecha del acta de recepción».
 
-
 #### [precepto]Vigésima tercera. Modificación del Real Decreto Legislativo 2/2011, de 5 de septiembre, por el que se aprueba el texto refundido de la Ley de Puertos y de la Marina Mercante.
 
 Con efectos a partir de la entrada en vigor de la presente Ley y vigencia indefinida se modifica la letra b) del apartado 3 del artículo 159 (Fondo de Compensación Interportuario) del Real Decreto Legislativo 2/2011, de 5 de septiembre, por el que se aprueba el Texto Refundido de la Ley de Puertos y de la Marina Mercante, que queda redactado en los siguientes términos:
@@ -9322,7 +8980,6 @@ a) El 80 por ciento de los ingresos devengados por la tasa de ayudas a la navega
 b) Hasta el 12 por ciento y no menos del 4 por ciento del resultado del ejercicio, excluyendo las amortizaciones del inmovilizado, el resultado por enajenaciones y bajas del activo no corriente, los ingresos por incorporación al activo de gastos financieros, el traspaso a resultados de subvenciones de capital y otros resultados que tengan el carácter de extraordinarios, la cantidad correspondiente al Fondo de Compensación aportada y recibida y los ingresos por la tasa de ayudas a la navegación siempre que el valor resultante sea positivo.
 
 El porcentaje a aplicar correspondiente al párrafo b) será fijado anualmente por el Comité de Distribución del Fondo, a propuesta de Puertos del Estado, en función, entre otras, de las necesidades financieras globales de las Autoridades Portuarias y de Puertos del Estado motivadas por la diferente situación competitiva en que se encuentran las Autoridades Portuarias, sobre la base de no discriminación de tratamiento entre las mismas. Dicho porcentaje se reducirá un 50 por ciento para las Autoridades Portuarias del Archipiélago Canario, Balear y de Ceuta y Melilla.»
-
 
 #### [precepto]Vigésima cuarta. Cuota íntegra de la tasa del buque (T-1).
 
@@ -9362,7 +9019,6 @@ Además, la cuota íntegra de la tasa en los supuestos previstos en esta letra e
 
 3.º En puertos otorgados en concesión: 0,30.»
 
-
 #### [precepto]Vigésima quinta. Modificación del Real Decreto Ley 13/2009, de 26 de octubre, por el que se crea el Fondo Estatal para el Empleo y la Sostenibilidad Local.
 
 Con efectos desde la entrada en vigor de esta ley y vigencia indefinida, se da nueva redacción al artículo 6 del Real Decreto-ley 13/2009, de 26 de octubre, por el que se crea el Fondo Estatal para el Empleo y la Sostenibilidad Local, que quedará redactado como sigue:
@@ -9385,7 +9041,6 @@ En aquellos casos en que la terminación de la inversión financiada con el fond
 
 Las cantidades a reintegrar tendrán la consideración de ingresos de derecho público, resultando de aplicación para su cobranza lo dispuesto en el Capítulo II del Título I de la Ley 47/2003, de 26 de noviembre, General Presupuestaria.»
 
-
 #### [precepto]Vigésima sexta. Modificación de la Ley 19/1994, de 6 de julio, de modificación del Régimen Económico y Fiscal de Canarias.
 
 Con efectos desde la entrada en vigor de esta Ley y vigencia indefinida, se introducen las siguientes modificaciones en el artículo 50 de la Ley 19/1994, de 6 de julio, de modificación del Régimen Económico y Fiscal de Canarias:
@@ -9399,7 +9054,6 @@ Dos. Se modifica la letra d) del apartado 3, que queda redactada en los siguient
 «d) La cuantía de la tasa anual de permanencia será de 1.225 euros.
 
 En el caso previsto en el párrafo segundo de la letra c) anterior, la cuantía de la tasa se prorrateará por trimestres naturales, excluido aquel en el que se produzca la disolución de la entidad o la revocación de la autorización.»
-
 
 #### [precepto]Vigésima séptima. Modificación del texto refundido de la Ley General de la Seguridad Social, aprobado por el Real Decreto Legislativo 1/1994, de 20 de junio.
 
@@ -9415,13 +9069,11 @@ Igualmente, la Tesorería General de la Seguridad Social podrá disponer de los 
 
 El Ministerio de Empleo y Seguridad Social informará anualmente a las comisiones competentes del Congreso de los Diputados y del Senado sobre las operaciones que se acuerden conforme a lo dispuesto en este apartado».
 
-
 #### [precepto]Vigésima octava. Modificación de la ley 16/2003 de 28 de mayo, de cohesión y calidad del Sistema Nacional de Salud.
 
 Con efectos desde la entrada en vigor de esta ley y vigencia indefinida, se da nueva redacción a la letra d) del apartado 2 del artículo 3, de la Ley 16/2003, de 28 de mayo, de cohesión y calidad del Sistema Nacional de Salud, que queda redactada como sigue:
 
 «d) Haber agotado la prestación o el subsidio por desempleo y encontrarse en situación de desempleo, no acreditando la condición de asegurado por cualquier otro título.»
-
 
 #### [precepto]Vigésima novena. Modificación del Real Decreto-ley 8/2011, de 1 de julio, de medidas de apoyo a los deudores hipotecarios, de control del gasto público y cancelación de deudas con empresas y autónomos contraídas por las entidades locales, de fomento de la actividad empresarial e impulso de la rehabilitación y de simplificación administrativa.
 
@@ -9433,7 +9085,6 @@ Con efectos desde la entrada en vigor de esta Ley y vigencia indefinida, se da n
 
 2. Las deducciones establecidas en el citado apartado 2 del artículo 38, pendientes de aplicación al comienzo del primer período impositivo que se inicie a partir de 1 de enero de 2014, podrán aplicarse en el plazo y con los requisitos establecidos en el capítulo IV del Título VI de la Ley del Impuesto sobre Sociedades, según redacción vigente a 31 de diciembre de 2013. Dichos requisitos son igualmente aplicables para consolidar las deducciones practicadas en períodos impositivos iniciados antes de aquella fecha.»
 
-
 #### [precepto]Trigésima. Modificación de la Ley 42/1999, de 25 de noviembre, de Régimen del Personal del Cuerpo de la Guardia Civil.
 
 Se modifica el apartado 1 de la disposición adicional sexta de la Ley 42/1999, de 25 de noviembre, de Régimen del Personal del Cuerpo de la Guardia Civil, que queda redactada en los siguientes términos:
@@ -9444,23 +9095,17 @@ Se modifica el apartado 1 de la disposición adicional sexta de la Ley 42/1999, 
 
 Dichos Tenientes Generales pasarán a la situación de reserva al cumplir diez años de permanencia en la categoría de Oficiales Generales. No obstante, el Teniente General Director Adjunto Operativo de la Guardia Civil permanecerá en la situación de servicio activo mientras ostente dicho cargo, pasando, en el momento de su cese, a la situación de reserva o a retiro, según proceda de acuerdo con lo dispuesto en esta ley.»
 
-
 #### [precepto]Trigésima primera. Modificación de la Ley 2/2011, de 4 de marzo, de Economía Sostenible.
 
 Con efectos desde la entrada en vigor de esta Ley y vigencia indefinida, se modifica el artículo 102 de la Ley 2/2011, de 4 de marzo, de Economía Sostenible, que queda redactado como sigue:
 
 «A partir del 1 de enero de 2014, la concesión de cualquier ayuda o subvención a las Administraciones autonómicas o Entidades locales incluida en la Ley de Presupuestos Generales del Estado y destinada al transporte público urbano o metropolitano, se condicionará a que la entidad beneficiaria disponga del correspondiente Plan de Movilidad Sostenible, y a su coherencia con la Estrategia Española de Movilidad Sostenible».
 
-
 #### [precepto]Trigésima segunda. Entrada en vigor.
-
-La presente ley entrará en vigor al día siguiente de su publicación en el «Boletín Oficial del Estado».
-
 
 #### [precepto]Trigésima tercera. Desarrollo reglamentario.
 
 Se faculta al Gobierno para dictar cuantas disposiciones sean necesarias para la ejecución y desarrollo de la presente ley.
-
 
 #### [precepto]Trigésima cuarta. Gestión de créditos presupuestarios en materia de Clases Pasivas.
 
@@ -11840,7 +11485,6 @@ Créditos ampliables
 
 Se considerarán ampliables hasta una suma igual a las obligaciones que se reconozcan, previo el cumplimiento de las formalidades legalmente establecidas o de las que se establezcan, los créditos que, incluidos en el Presupuesto del Estado, en los de los Organismos autónomos y en los de los otros Organismos públicos aprobados por esta Ley, se detallan a continuación:
 
-
 #### Primero. Aplicables a todas las Secciones y Programas.
 
 Uno. Los destinados a satisfacer:
@@ -11848,7 +11492,6 @@ Uno. Los destinados a satisfacer:
 a) Las cuotas de la Seguridad Social, de acuerdo con los preceptos en vigor, y la aportación del Estado al régimen de previsión social de los funcionarios públicos, civiles o militares, establecida por los Reales Decretos Legislativos 1/2000, de 9 de junio, 3/2000 y 4/2000, de 23 de junio.
 
 b) Los créditos de transferencias a favor del Estado que figuren en los presupuestos de gastos de los Organismos autónomos, hasta el importe de los remanentes que resulten como consecuencia de la gestión de los mismos.
-
 
 #### Segundo. Aplicables a las Secciones y Programas que se indican.
 
@@ -11956,11 +11599,9 @@ b) El crédito 36.942M.21.468, en la medida que lo exija la liquidación definit
 
 c) Los créditos que se habiliten para hacer frente a las transferencias a las Comunidades Autónomas por el coste de los servicios asumidos.
 
-
 #### Tercero.
 
 Todos los créditos de este presupuesto en función de los compromisos de financiación exclusiva o de confinanciación que puedan contraerse con las Comunidades Europeas.
-
 
 #### Cuarto.
 

@@ -33,9 +33,6 @@ fuente_pdf_oficial: https://sede.gobiernodecanarias.org/boc/boc-a-2026-077-1287.
 
 # Resolución de 10 de abril de 2026, por la que se convocan pruebas de certificación de Enseñanzas de Idiomas de Régimen Especial para aspirantes libres y alumnado escolarizado en las Escuelas Oficiales de Idiomas de la Comunidad Autónoma de Canarias, y se dictan instrucciones para su organización y aplicación en el curso 2025-2026. Fechas de inscripción: Aspirantes libres de todos los niveles y aspirantes escolarizados/as de los niveles B1, B2, C1 y C2: del 29 de abril al 13 de mayo de 2026. Aspirantes escolarizados del nivel A2: del 27 de mayo al 1 de junio de 2026.
 
-https://sede.gobiernodecanarias.org/boc
-boc-a-2026-077-1287
-Boletín Oficial de Canarias núm. 77 Miércoles 22 de abril de 202614874
 III. Otras Resoluciones
 Consejería de Educación, Formación Profesional, Actividad Física y Deportes
 1287 Dirección General de Formación Profesional y Enseñanzas de Régimen Especial.- 
@@ -77,9 +74,6 @@ la calidad educativa. Entre esas modificaciones se encuentra el anclaje de los n
 impartidos en las Escuelas Oficiales de Idiomas y la regulación básica para la obtención de 
 la certificación oficial de los distintos niveles de idiomas.
 
-https://sede.gobiernodecanarias.org/boc
-boc-a-2026-077-1287
-Boletín Oficial de Canarias núm. 77 Miércoles 22 de abril de 202614875
 En su artículo 7 dispone que para obtener los Certificados de los Niveles Intermedio 
 B1, Intermedio B2, Avanzado C1 y Avanzado C2 será necesario la superación de unas 
 pruebas específicas de certificación. Asimismo, establece que las Administraciones educativas 
@@ -126,9 +120,6 @@ Formación Profesional, Actividad Física y Deportes, que asignan competencias g
 y específicas a la Dirección General de Formación Profesional y Enseñanzas de Régimen 
 Especial,
 
-https://sede.gobiernodecanarias.org/boc
-boc-a-2026-077-1287
-Boletín Oficial de Canarias núm. 77 Miércoles 22 de abril de 202614876
 RESUELVO :
 Primero.- Convocar las pruebas de certificación de competencia general para la 
 obtención de los Certificados de Enseñanzas de Idiomas de Régimen Especial para alumnado 
@@ -150,9 +141,6 @@ sin perjuicio de cualesquiera otros que se estime procedente interponer.
 Las Palmas de Gran Canaria, a 10 de abril de 2026.- La Directora General de Formación 
 Profesional y Enseñanzas de Régimen Especial, Carolina León Martínez.
 
-https://sede.gobiernodecanarias.org/boc
-boc-a-2026-077-1287
-Boletín Oficial de Canarias núm. 77 Miércoles 22 de abril de 202614877
 ANEXO
 INSTRUCCIONES PARA LA CONVOCATORIA, ORGANIZACIÓN Y APLICACIÓN 
 DE LAS PRUEBAS DE CERTIFICACIÓN DE ENSEÑANZAS DE IDIOMAS DE 
@@ -184,9 +172,6 @@ Apéndices
 • Apéndice I: Calendario general del procedimiento.
 • Apéndice II: Calendario, turno y horario de las pruebas.
 
-https://sede.gobiernodecanarias.org/boc
-boc-a-2026-077-1287
-Boletín Oficial de Canarias núm. 77 Miércoles 22 de abril de 202614878
 • Apéndice III: Idiomas, niveles y centros de realización de las pruebas.
 • Apéndice IV: Escuelas Oficiales de Idiomas con datos de contacto.
 • Apéndice V: Rúbricas de evaluación: producción y coproducción de textos escritos.
@@ -225,9 +210,6 @@ obstante, con independencia de la edad, se permitirá la inscripción al alumnad
 capacidades con medidas de flexibilización, en igualdad de condiciones que el resto del 
 alumnado del curso en que se encuentre escolarizado.
 
-https://sede.gobiernodecanarias.org/boc
-boc-a-2026-077-1287
-Boletín Oficial de Canarias núm. 77 Miércoles 22 de abril de 202614879
 b) Acreditar, en el caso de nacionales de un país cuya lengua oficial coincida con aquella 
 de la que solicitan examinarse, que no se trata de su lengua materna ni de la lengua de su 
 escolarización ordinaria.
@@ -269,9 +251,6 @@ legales vigentes en materia de tasas y precios públicos.
 determinado podrá concurrir como aspirante libre a otro idioma o nivel diferente, debiendo 
 abonar la tasa académica correspondiente.
 
-https://sede.gobiernodecanarias.org/boc
-boc-a-2026-077-1287
-Boletín Oficial de Canarias núm. 77 Miércoles 22 de abril de 202614880
 3.4. Una misma persona aspirante puede presentarse a las PCEI en más de un idioma y 
 nivel, si lo desea, siempre y cuando sea compatible con el calendario y horario de realización 
 de las pruebas recogido en el Apéndice II.
@@ -316,9 +295,6 @@ de textos escritos y, en su caso, la tarea escrita de mediación, la realizarán
 en alguna de las sedes de examen que se recogen a continuación y que deberán seleccionar 
 en el momento de la inscripción en la prueba:
 
-https://sede.gobiernodecanarias.org/boc
-boc-a-2026-077-1287
-Boletín Oficial de Canarias núm. 77 Miércoles 22 de abril de 202614881
 EOI a Distancia de Canarias
 Isla Sede de examen
 El Hierro EOI Valverde
@@ -389,9 +365,6 @@ adscripción la relación nominal del alumnado que reúne los requisitos estable
 presentarse a las pruebas como alumnado escolarizado, con indicación del nivel de la 
 prueba de certificación correspondiente.
 
-https://sede.gobiernodecanarias.org/boc
-boc-a-2026-077-1287
-Boletín Oficial de Canarias núm. 77 Miércoles 22 de abril de 202614882
 5.- Documentos de inscripción.
 5.1. Quien desee realizar la PCEI deberá presentar la siguiente documentación:
 • Solicitud de inscripción debidamente cumplimentada.
@@ -433,9 +406,6 @@ y/o materiales que se habrán de utilizar o adaptar.
 pruebas de certificación habrá de basarse en los principios de igualdad de oportunidades, 
 no discriminación y compensación de desventajas.
 
-https://sede.gobiernodecanarias.org/boc
-boc-a-2026-077-1287
-Boletín Oficial de Canarias núm. 77 Miércoles 22 de abril de 202614883
 6.2. Quien necesite condiciones especiales para la realización de la prueba debido a 
 algún tipo de discapacidad deberá solicitarlo presentando en el momento de la inscripción 
 la documentación recogida en la instrucción 5.3 del presente anexo. Dicha solicitud irá 
@@ -479,9 +449,6 @@ ayudas técnicas para acceder al material impreso, por ejemplo, pruebas transcri
 En este caso se deberá comunicar con, al menos, 15 días de antelación al día de celebración 
 de la prueba.
 
-https://sede.gobiernodecanarias.org/boc
-boc-a-2026-077-1287
-Boletín Oficial de Canarias núm. 77 Miércoles 22 de abril de 202614884
 6.6. Aquellas solicitudes que no estén recogidas en la instrucción 6.5 y aquellas sobre 
 las que el centro no pueda resolver por sí mismo serán comunicadas al Área de Idiomas 
 de Régimen Especial para su resolución. La comunicación deberá adjuntar la solicitud de 
@@ -524,9 +491,6 @@ dicha convocatoria y la actividad o actividades de lengua de las que se examinar
 j) Asegurar que la publicación de las calificaciones se ajuste a las fechas recogidas en 
 el Apéndice I.
 
-https://sede.gobiernodecanarias.org/boc
-boc-a-2026-077-1287
-Boletín Oficial de Canarias núm. 77 Miércoles 22 de abril de 202614885
 k) Garantizar que las actas de calificación de las PCEI, tanto las correspondientes a la 
 convocatoria ordinaria como a la convocatoria extraordinaria, se emitan de forma correcta 
 y sean firmadas por los tribunales examinadores.
@@ -569,9 +533,6 @@ PCEI. Estas sesiones deberán incluir la
 estandarización y anclaje de los niveles recogidos en el Decreto 142/2018, de 8 de octubre, 
 y la homogeneización de la corrección de cada uno de los niveles objeto de examen.
 
-https://sede.gobiernodecanarias.org/boc
-boc-a-2026-077-1287
-Boletín Oficial de Canarias núm. 77 Miércoles 22 de abril de 202614886
 e) Asesorar y resolver las dudas que puedan surgir a lo largo de todo el procedimiento 
 de administración, corrección y evaluación de las PCEI.
 f) Coordinar, la emisión de los informes emitidos por los tribunales examinadores 
@@ -611,9 +572,6 @@ EOI velará para que las personas aspirantes escolarizadas
 no sean examinadas por quien les ha impartido clase a lo largo del curso, salvo que el 
 número de docentes del departamento no lo haga posible.
 
-https://sede.gobiernodecanarias.org/boc
-boc-a-2026-077-1287
-Boletín Oficial de Canarias núm. 77 Miércoles 22 de abril de 202614887
 8.3. Los tribunales examinadores tendrán las funciones que se recogen a continuación:
 a) Administrar tanto la parte escrita como la parte oral de la prueba.
 b) Corregir y evaluar todas las actividades de lengua de las que consta la prueba.
@@ -657,9 +615,6 @@ de evaluación y calificación. Así mismo, se publicarán las fechas y horarios
 de las 
 PCEI, junto con el orden de realización de cada una de las actividades de lengua. 
 
-https://sede.gobiernodecanarias.org/boc
-boc-a-2026-077-1287
-Boletín Oficial de Canarias núm. 77 Miércoles 22 de abril de 202614888
 Las direcciones de los centros velarán por que se facilite esta información al alumnado 
 tanto escolarizado como libre a través de los departamentos de coordinación didáctica y 
 cualquier otro medio que estimen oportuno.
@@ -698,9 +653,6 @@ días y horarios previstos para su realización por cada
 EOI, que serán publicados siguiendo 
 el calendario recogido en el Apéndice I.
 
-https://sede.gobiernodecanarias.org/boc
-boc-a-2026-077-1287
-Boletín Oficial de Canarias núm. 77 Miércoles 22 de abril de 202614889
 10.6. Las características y duración de la prueba de certificación de Nivel Básico A2 es 
 la que se recoge a continuación.
 10.6.1. Comprensión de textos escritos.
@@ -919,9 +871,6 @@ puede ser comprobada la autenticidad de esta copia, mediante el número de
 documento electrónico siguiente:
  RP001-000lHF2Oa8yj9ZnJiztM3MF0Q==
 
-https://sede.gobiernodecanarias.org/boc
-boc-a-2026-077-1287
-Boletín Oficial de Canarias núm. 77 Miércoles 22 de abril de 202614890
 Esta actividad de lengua, que será grabada y custodiada en el centro, estará compuesta de 
 dos tareas. La tarea 1 consistirá en un monólogo sostenido en el que se trabaja la mediación 
 oral intralingüística a partir de un texto fuente. La tarea 2 consistirá en una conversación 
@@ -1106,9 +1055,6 @@ puede ser comprobada la autenticidad de esta copia, mediante el número de
 documento electrónico siguiente:
  RP001-000lHF2Oa8yj9ZnJiztM3MF0Q==
 
-https://sede.gobiernodecanarias.org/boc
-boc-a-2026-077-1287
-Boletín Oficial de Canarias núm. 77 Miércoles 22 de abril de 202614891
 Todos los aspectos a evaluar en esta actividad de lengua tendrán la misma ponderación, 
 siendo la puntuación de cada tarea de cinco (5) puntos, por lo que la puntuación total será 
 de 10 puntos.
@@ -1244,9 +1190,6 @@ orales y producción y coproducción de textos escritos. La tarea 2, mediación 
 parte de la convocatoria individual de la parte oral de la prueba, junto con la producción y 
 coproducción de textos orales. Esta tarea será grabada y quedará custodiada en el centro.
 
-https://sede.gobiernodecanarias.org/boc
-boc-a-2026-077-1287
-Boletín Oficial de Canarias núm. 77 Miércoles 22 de abril de 202614892
 Todos los aspectos a evaluar en esta actividad de lengua tendrá la misma ponderación, 
 siendo la puntuación de cada tarea de 5 puntos, por lo que la puntuación total será de 
 10 puntos.
@@ -1466,9 +1409,6 @@ puede ser comprobada la autenticidad de esta copia, mediante el número de
 documento electrónico siguiente:
  RP001-000lHF2Oa8yj9ZnJiztM3MF0Q==
 
-https://sede.gobiernodecanarias.org/boc
-boc-a-2026-077-1287
-Boletín Oficial de Canarias núm. 77 Miércoles 22 de abril de 202614893
 Esta actividad de lengua, que será grabada y custodiada en el centro, estará compuesta de 
 dos tareas. La tarea 1 consistirá en un monólogo sostenido y la tarea 2 en una conversación 
 entre dos aspirantes. En caso de no ser posible el emparejamiento, la conversación 
@@ -1601,9 +1541,6 @@ puede ser comprobada la autenticidad de esta copia, mediante el número de
 documento electrónico siguiente:
  RP001-000lHF2Oa8yj9ZnJiztM3MF0Q==
 
-https://sede.gobiernodecanarias.org/boc
-boc-a-2026-077-1287
-Boletín Oficial de Canarias núm. 77 Miércoles 22 de abril de 202614894
 Esta actividad de lengua tendrá un total de 25 ítems. Cada ítem tendrá un valor de 0,4 
 puntos, por lo que la puntuación total será de 10 puntos.
 10.9.2. Comprensión de textos orales.
@@ -1782,9 +1719,6 @@ Todos los aspectos a evaluar en esta actividad de lengua tendrán la misma ponde
 siendo la puntuación de cada tarea de 5 puntos, por lo que la puntuación total será de 
 10 puntos.
 
-https://sede.gobiernodecanarias.org/boc
-boc-a-2026-077-1287
-Boletín Oficial de Canarias núm. 77 Miércoles 22 de abril de 202614895
 10.9.5. Mediación.
 Folio 17/47
 10.9.4. Producción y coproducción de textos orales.
@@ -1969,9 +1903,6 @@ de la misma.
 Esta actividad de lengua tendrá un total de 25 ítems. Cada ítem tendrá un valor de 0,4 
 puntos, por lo que la puntuación total será de 10 puntos.
 
-https://sede.gobiernodecanarias.org/boc
-boc-a-2026-077-1287
-Boletín Oficial de Canarias núm. 77 Miércoles 22 de abril de 202614896
 10.10.3. Producción y coproducción de textos escritos.
 Folio 18/47
 10.10.2. Comprensión de textos orales.
@@ -2160,9 +2091,6 @@ que se podrán utilizar únicamente como guía durante el desarrollo de la inter
 La tarea 1, mediación escrita, formará parte de la convocatoria común de la parte escrita 
 de la prueba, junto con la prueba de comprensión de textos escritos, comprensión de textos 
 
-https://sede.gobiernodecanarias.org/boc
-boc-a-2026-077-1287
-Boletín Oficial de Canarias núm. 77 Miércoles 22 de abril de 202614897
 orales y producción y coproducción de textos escritos. La tarea 2, mediación oral, formará 
 parte de la convocatoria individual de la parte oral de la prueba, junto con la producción y 
 coproducción de textos orales. Esta tarea será grabada y quedará custodiada en el centro.
@@ -2203,9 +2131,6 @@ Quien solicite presentarse a la actividad de lengua de mediación de los Niveles
 Intermedio B1, Intermedio B2, Avanzado C1 y Avanzado C2 debe tener en cuenta que ha 
 de realizar tanto la tarea 1 de mediación escrita como la tarea 2 de mediación oral.
 
-https://sede.gobiernodecanarias.org/boc
-boc-a-2026-077-1287
-Boletín Oficial de Canarias núm. 77 Miércoles 22 de abril de 202614898
 12.- Herramientas de evaluación.
 12.1. Las tareas de comprensión de textos escritos y comprensión de textos orales se 
 corregirán y evaluarán mediante una clave de respuestas. Las claves de respuestas serán 
@@ -2291,9 +2216,6 @@ puede ser comprobada la autenticidad de esta copia, mediante el número de
 documento electrónico siguiente:
  RP001-000lHF2Oa8yj9ZnJiztM3MF0Q==
 
-https://sede.gobiernodecanarias.org/boc
-boc-a-2026-077-1287
-Boletín Oficial de Canarias núm. 77 Miércoles 22 de abril de 202614899
 12.5. Las rúbricas para la evaluación de la mediación escrita y oral de los niveles 
 convocados se recogen en los Apéndice VII y VIII de la presente Resolución.
 13.- Evaluación y calificación de las pruebas.
@@ -2337,9 +2259,6 @@ apto” y “no presentado”.
 superado todas las actividades de lengua y haber obtenido una media aritmética de cinco 
 puntos (5). En este caso, la calificación global final será la de “apto”.
 
-https://sede.gobiernodecanarias.org/boc
-boc-a-2026-077-1287
-Boletín Oficial de Canarias núm. 77 Miércoles 22 de abril de 202614900
 13.6.2. Para la obtención de los certificados de Nivel Intermedio B1, Nivel Intermedio 
 B2, Nivel Avanzado C1 y Nivel Avanzado C2, se requerirá haber superado todas las 
 actividades de lengua y haber obtenido una media aritmética de seis puntos con cinco (6.5). 
@@ -2380,9 +2299,6 @@ disconformidad con la calificación y se podrá presentar por los siguientes mot
 a) Los objetivos o contenidos sobre los que se ha llevado a cabo la evaluación no se 
 adecúan a los establecidos en el currículo del idioma y nivel correspondiente.
 
-https://sede.gobiernodecanarias.org/boc
-boc-a-2026-077-1287
-Boletín Oficial de Canarias núm. 77 Miércoles 22 de abril de 202614901
 b) Los procedimientos e instrumentos de evaluación aplicados no se adecúan a los 
 determinados en el currículo del idioma y nivel correspondiente y/o en la normativa 
 reguladora de las pruebas de certificación.
@@ -2426,9 +2342,6 @@ bueno de la dirección, con referencia a la resolución adoptada.
 tanto para la convocatoria ordinaria como para la extraordinaria, conforme a los plazos 
 establecidos en el Apéndice I para cada una de las citadas convocatorias.
 
-https://sede.gobiernodecanarias.org/boc
-boc-a-2026-077-1287
-Boletín Oficial de Canarias núm. 77 Miércoles 22 de abril de 202614902
 15.- Certificados de nivel.
 15.1. Finalizadas las pruebas de Certificación, quien haya obtenido la calificación de 
 “apto”, según los términos establecidos en el punto 13 de estas instrucciones, podrá solicitar 
@@ -2469,9 +2382,6 @@ Certificados de Enseñanzas de Idiomas de Régimen Especial que se convocan medi
 la presente Resolución supondrá el consentimiento para el tratamiento de sus datos y, 
 en su caso, la cesión de datos procedentes del centro en el que se hubiera efectuado la 
 
-https://sede.gobiernodecanarias.org/boc
-boc-a-2026-077-1287
-Boletín Oficial de Canarias núm. 77 Miércoles 22 de abril de 202614903
 inscripción para la realización de las pruebas, en los términos establecidos en la legislación 
 sobre protección de datos. En todo caso, la información a la que se refiere esta instrucción 
 será la estrictamente necesaria para la función evaluadora, no pudiendo tratarse con fines 
@@ -2481,9 +2391,6 @@ podrán ser utilizadas por la Dirección General de Formación Profesional y Ens
 Régimen Especial con fines educativos. Para ello, se recabará el consentimiento expreso de 
 las personas aspirantes y, en su caso, de su representante legal.
 
-boc-a-2026-077-1287
-Boletín Oficial de Canarias núm. 77 Miércoles 22 de abril de 202614904
-https://sede.gobiernodecanarias.org/boc
 APÉNDICE I
 CALENDARIO GENERAL DEL PROCEDIMIENTO – CURSO 2025-2026
 INSCRIPCIÓN: Aspirantes libres de todos los niveles y aspirantes escolarizados/as de los niveles 
@@ -2540,9 +2447,6 @@ publicación de las calificaciones
 APÉNDICE I
 CALENDARIO GENERAL DEL PROCEDIMIENTO-CURSO 2025-2026
 
-boc-a-2026-077-1287
-Boletín Oficial de Canarias núm. 77 Miércoles 22 de abril de 202614905
-https://sede.gobiernodecanarias.org/boc
 APÉNDICE II
 CALENDARIO, TURNO Y HORARIO DE LAS PRUEBAS – CURSO 2025-2026
 CALENDARIO Y TURNO DE LA PARTE ESCRITA
@@ -2591,9 +2495,6 @@ Intermedio B1 01-06-2026 TARDE 03-09-2026 TARDE
 APÉNDICE II
 CALENDARIO, TURNO Y HORARIO DE LAS PRUEBAS-CURSO 2025-2026
 
-boc-a-2026-077-1287
-Boletín Oficial de Canarias núm. 77 Miércoles 22 de abril de 202614906
-https://sede.gobiernodecanarias.org/boc
 HORARIO DE LA PARTE ESCRITA – CONVOCATORIA ORDINARIA
 Nivel Actividad de lengua Horario
 Mañana Tarde
@@ -2639,9 +2540,6 @@ intervención.
 Las personas candidatas podrán ser convocadas entre el 29 de mayo y el 18 de junio, según el calendario  
 organizado por de cada EOI.
 
-boc-a-2026-077-1287
-Boletín Oficial de Canarias núm. 77 Miércoles 22 de abril de 202614907
-https://sede.gobiernodecanarias.org/boc
 HORARIO DE LA PARTE ESCRITA – CONVOCATORIA EXTRAORDINARIA
 Nivel Actividad de lengua
 Horario
@@ -2681,9 +2579,6 @@ intervención.
 Las personas candidatas podrán ser convocadas e ntre el 2 y el 10 de septiembre, según el calendario  
 organizado por de cada EOI.
 
-boc-a-2026-077-1287
-Boletín Oficial de Canarias núm. 77 Miércoles 22 de abril de 202614908
-https://sede.gobiernodecanarias.org/boc
 APÉNDICE III
 IDIOMAS, NIVELES Y CENTROS DE REALIZACIÓN DE LAS PRUEBAS DE CERTIFICACIÓN – CURSO 2025-2026
 EOI
@@ -2715,9 +2610,6 @@ Valverde X X X X X X X
 APÉNDICE III
 IDIOMAS, NIVELES Y CENTROS DE REALIZACIÓN DE LAS PRUEBAS DE CERTIFICACIÓN-CURSO 2025-2026
 
-boc-a-2026-077-1287
-Boletín Oficial de Canarias núm. 77 Miércoles 22 de abril de 202614909
-https://sede.gobiernodecanarias.org/boc
 APÉNDICE IV
 ESCUELAS OFICIALES DE IDIOMAS CON DATOS DE CONTACTO – CURSO 2025-2026
 Isla EOI Municipio DOMICILIO TELÉFONO
@@ -2749,9 +2641,6 @@ Todas las islas A Distancia de Canarias Las Palmas de Gran Canaria C/ Málaga, 4
 APÉNDICE IV
 ESCUELAS OFICIALES DE IDIOMAS CON DATOS DE CONTACTO-CURSO 2025-2026
 
-boc-a-2026-077-1287
-Boletín Oficial de Canarias núm. 77 Miércoles 22 de abril de 202614910
-https://sede.gobiernodecanarias.org/boc
 APÉNDICE V
 RÚBRICAS DE EVALUACIÓN: PRODUCCIÓN Y COPRODUCCIÓN DE TEXTOS ESCRITOS – NIVEL A2
 COMPETENCIA LINGÜÍSTICA COMPETENCIA SOCIOLINGÜÍSTICA Y PRAGMÁTICA
@@ -2848,9 +2737,6 @@ Sin calificación por:
 □ Nivel inferior al descrito en banda 1.
 APÉNDICE V
 
-boc-a-2026-077-1287
-Boletín Oficial de Canarias núm. 77 Miércoles 22 de abril de 202614911
-https://sede.gobiernodecanarias.org/boc
 RÚBRICAS DE EVALUACIÓN: PRODUCCIÓN Y COPRODUCCIÓN DE TEXTOS ESCRITOS– NIVEL B1
 COMPETENCIA LINGÜÍSTICA COMPETENCIA SOCIOLINGÜÍSTICA Y PRAGMÁTICA
 Competencia léxica
@@ -2950,9 +2836,6 @@ Sin calificación por:
 □ Muestra de producción insuficiente.
 □ Nivel inferior al descrito en banda 1.
 
-boc-a-2026-077-1287
-Boletín Oficial de Canarias núm. 77 Miércoles 22 de abril de 202614912
-https://sede.gobiernodecanarias.org/boc
 RÚBRICAS DE EVALUACIÓN: PRODUCCIÓN Y COPRODUCCIÓN DE TEXTOS ESCRITOS– NIVEL B2
 COMPETENCIA LINGÜÍSTICA COMPETENCIA SOCIOLINGÜÍSTICA Y PRAGMÁTICA
 Competencia léxica
@@ -3058,9 +2941,6 @@ Sin calificación por:
 □ Muestra de producción insuficiente.
 □ Nivel inferior al descrito en banda 1.
 
-boc-a-2026-077-1287
-Boletín Oficial de Canarias núm. 77 Miércoles 22 de abril de 202614913
-https://sede.gobiernodecanarias.org/boc
 RÚBRICAS DE EVALUACIÓN: PRODUCCIÓN Y COPRODUCCIÓN DE TEXTOS ESCRITOS– NIVEL C1
 COMPETENCIA LINGÜÍSTICA COMPETENCIA SOCIOLINGÜÍSTICA Y PRAGMÁTICA
 Competencia léxica
@@ -3167,9 +3047,6 @@ Sin calificación por:
 □ Muestra de producción insuficiente.
 □ Nivel inferior al descrito en banda 1.
 
-boc-a-2026-077-1287
-Boletín Oficial de Canarias núm. 77 Miércoles 22 de abril de 202614914
-https://sede.gobiernodecanarias.org/boc
 RÚBRICAS DE EVALUACIÓN: PRODUCCIÓN Y COPRODUCCIÓN DE TEXTOS ESCRITOS– NIVEL C2
 COMPETENCIA LINGÜÍSTICA COMPETENCIA SOCIOLINGÜÍSTICA Y PRAGMÁTICA
 Competencia léxica
@@ -3282,9 +3159,6 @@ Sin calificación por:
 □ Muestra de producción insuficiente.
 □ Nivel inferior al descrito en banda 1.
 
-boc-a-2026-077-1287
-Boletín Oficial de Canarias núm. 77 Miércoles 22 de abril de 202614915
-https://sede.gobiernodecanarias.org/boc
 APÉNDICE VI
 RÚBRICAS DE EVALUACIÓN DE LA PRODUCCIÓN Y COPRODUCCIÓN DE TEXTOS ORALES Y MEDIACIÓN– NIVEL A2
 COMPETENCIA LINGÜÍSTICA COMPETENCIA SOCIOLINGÜÍSTICA Y PRAGMÁTICA
@@ -3442,9 +3316,6 @@ Sin calificación por:
 □Nivel inferior al descrito en banda 1.
 APÉNDICE VI
 
-boc-a-2026-077-1287
-Boletín Oficial de Canarias núm. 77 Miércoles 22 de abril de 202614916
-https://sede.gobiernodecanarias.org/boc
 RÚBRICAS DE EVALUACIÓN: PRODUCCIÓN Y COPRODUCCIÓN DE TEXTOS ORALES– NIVEL B1
 COMPETENCIA LINGÜÍSTICA COMPETENCIA SOCIOLINGÜÍSTICA Y PRAGMÁTICA
 Competencia léxica
@@ -3600,9 +3471,6 @@ Sin calificación por:
 □ Muestra de producción insuficiente.
 □ Nivel inferior al descrito en banda 1.
 
-boc-a-2026-077-1287
-Boletín Oficial de Canarias núm. 77 Miércoles 22 de abril de 202614917
-https://sede.gobiernodecanarias.org/boc
 RÚBRICAS DE EVALUACIÓN: PRODUCCIÓN Y COPRODUCCIÓN DE TEXTOS ORALES– NIVEL B2
 COMPETENCIA LINGÜÍSTICA COMPETENCIA SOCIOLINGÜÍSTICA Y PRAGMÁTICA
 Competencia léxica
@@ -3772,9 +3640,6 @@ Sin calificación por:
 □ Muestra de producción insuficiente.
 □ Nivel inferior al descrito en banda 1.
 
-boc-a-2026-077-1287
-Boletín Oficial de Canarias núm. 77 Miércoles 22 de abril de 202614918
-https://sede.gobiernodecanarias.org/boc
 RÚBRICAS DE EVALUACIÓN: PRODUCCIÓN Y COPRODUCCIÓN DE TEXTOS ORALES– NIVEL C1
 COMPETENCIA LINGÜÍSTICA COMPETENCIA SOCIOLINGÜÍSTICA Y PRAGMÁTICA
 Competencia léxica
@@ -3947,9 +3812,6 @@ Sin calificación por:
 □Muestra de producción insuficiente.
 □Nivel inferior al descrito en banda 1.
 
-boc-a-2026-077-1287
-Boletín Oficial de Canarias núm. 77 Miércoles 22 de abril de 202614919
-https://sede.gobiernodecanarias.org/boc
 RÚBRICAS DE EVALUACIÓN: PRODUCCIÓN Y COPRODUCCIÓN DE TEXTOS ORALES– NIVEL C2
 COMPETENCIA LINGÜÍSTICA COMPETENCIA SOCIOLINGÜÍSTICA Y PRAGMÁTICA
 Competencia léxica
@@ -4129,9 +3991,6 @@ Sin calificación por:
 □Muestra de producción insuficiente.
 □Nivel inferior al descrito en banda 1.
 
-boc-a-2026-077-1287
-Boletín Oficial de Canarias núm. 77 Miércoles 22 de abril de 202614920
-https://sede.gobiernodecanarias.org/boc
 APÉNDICE VII
 RÚBRICAS DE EVALUACIÓN: TAREA DE MEDIACIÓN ESCRITA– NIVEL B1
 Capacidad mediadora
@@ -4178,9 +4037,6 @@ Sin calificación por:
 □ Nivel inferior al descrito en banda 1.
 APÉNDICE VII
 
-boc-a-2026-077-1287
-Boletín Oficial de Canarias núm. 77 Miércoles 22 de abril de 202614921
-https://sede.gobiernodecanarias.org/boc
 RÚBRICAS DE EVALUACIÓN: TAREA DE MEDIACIÓN ESCRITA– NIVEL B2
 Capacidad mediadora
 Puntuación
@@ -4227,9 +4083,6 @@ Sin calificación por:
 □ Muestra de producción insuficiente.
 □ Nivel inferior al descrito en banda 1.
 
-boc-a-2026-077-1287
-Boletín Oficial de Canarias núm. 77 Miércoles 22 de abril de 202614922
-https://sede.gobiernodecanarias.org/boc
 RÚBRICAS DE EVALUACIÓN: TAREA DE MEDIACIÓN ESCRITA– NIVEL C1
 Capacidad mediadora
 Puntuación
@@ -4278,9 +4131,6 @@ Sin calificación por:
 □ Muestra de producción insuficiente.
 □ Nivel inferior al descrito en banda 1.
 
-boc-a-2026-077-1287
-Boletín Oficial de Canarias núm. 77 Miércoles 22 de abril de 202614923
-https://sede.gobiernodecanarias.org/boc
 RÚBRICAS DE EVALUACIÓN: TAREA DE MEDIACIÓN ESCRITA– NIVEL C2
 Capacidad mediadora
 Puntuación
@@ -4332,9 +4182,6 @@ Sin calificación por:
 □ Muestra de producción insuficiente.
 □ Nivel inferior al descrito en banda 1.
 
-boc-a-2026-077-1287
-Boletín Oficial de Canarias núm. 77 Miércoles 22 de abril de 202614924
-https://sede.gobiernodecanarias.org/boc
 APÉNDICE VIII
 RÚBRICAS DE EVALUACIÓN: TAREA DE MEDIACIÓN ORAL– NIVEL B1
 Capacidad mediadora
@@ -4379,9 +4226,6 @@ Sin calificación por:
 □ Nivel inferior al descrito en banda 1.
 APÉNDICE VIII
 
-boc-a-2026-077-1287
-Boletín Oficial de Canarias núm. 77 Miércoles 22 de abril de 202614925
-https://sede.gobiernodecanarias.org/boc
 RÚBRICAS DE EVALUACIÓN: TAREA DE MEDIACIÓN ORAL– NIVEL B2
 Capacidad mediadora
 Puntuación
@@ -4425,9 +4269,6 @@ Sin calificación por:
 □ Muestra de producción insuficiente.
 □ Nivel inferior al descrito en banda 1.
 
-boc-a-2026-077-1287
-Boletín Oficial de Canarias núm. 77 Miércoles 22 de abril de 202614926
-https://sede.gobiernodecanarias.org/boc
 RÚBRICAS DE EVALUACIÓN: TAREA DE MEDIACIÓN ORAL– NIVEL C1
 Capacidad mediadora
 Puntuación
@@ -4474,9 +4315,6 @@ Sin calificación por:
 □ Muestra de producción insuficiente.
 □ Nivel inferior al descrito en banda 1.
 
-boc-a-2026-077-1287
-Boletín Oficial de Canarias núm. 77 Miércoles 22 de abril de 202614927
-https://sede.gobiernodecanarias.org/boc
 RÚBRICAS DE EVALUACIÓN: TAREA DE MEDIACIÓN ORAL– NIVEL C2
 Capacidad mediadora
 Puntuación

@@ -34,9 +34,6 @@ fuente_pdf_oficial: https://sede.gobiernodecanarias.org/boc/boc-a-2025-061-1212.
 
 # Resolución de 18 de marzo de 2025, por la que se corrigen errores en las instrucciones sobre el proceso de admisión del alumnado a Ciclos Formativos de Grado Básico, Medio y Superior (niveles 1, 2 y 3, respectivamente) de las Enseñanzas de Formación Profesional de Grado D, Enseñanzas Profesionales de Artes Plásticas y Diseño, Enseñanzas Elementales y Profesionales de Música, Enseñanzas de Idiomas y Enseñanzas Deportivas en centros docentes sostenidos con fondos públicos en la Comunidad Autónoma de Canarias para el curso escolar 2025-2026, aprobadas por Resolución de 24 de febrero de 2025 (BOC n.º 47, de 7.3.2025).
 
-https://sede.gobiernodecanarias.org/boc
-boc-a-2025-061-1212
-Boletín Oficial de Canarias núm. 61 Jueves 27 de marzo de 202512787
 III. Otras Resoluciones
 Consejería de Educación, Formación Profesional, Actividad Física y Deportes
 1212 Dirección General de Formación Profesional y Enseñanzas de Régimen Especial.- 
@@ -78,9 +75,6 @@ Física y Deportes, aprobado por el Decreto 84/2024, de 10 de junio, por el que 
 las competencias generales y específicas a la Dirección General de Formación Profesional 
 y Enseñanzas de Régimen Especial,
 
-https://sede.gobiernodecanarias.org/boc
-boc-a-2025-061-1212
-Boletín Oficial de Canarias núm. 61 Jueves 27 de marzo de 202512788
 RESUELVO :
 Primero.- Corregir el error material del Anexo VI referido a los Ciclos Formativos de 
 Grado Medio (Grado D, nivel 2) que dan prioridad para acceder a Ciclos Formativos de 
@@ -164,9 +158,6 @@ térmica.
 • Gestión del agua.
 • Centrales eléctricas.
 
-https://sede.gobiernodecanarias.org/boc
-boc-a-2025-061-1212
-Boletín Oficial de Canarias núm. 61 Jueves 27 de marzo de 202512789
 Debe decir:
 ANEXO VI
 CICLOS FORMATIVOS DE GRADO MEDIO QUE DAN PRIORIDAD PARA 

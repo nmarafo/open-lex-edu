@@ -53,19 +53,15 @@ Por último, y como fruto de la integración operada, se ha procedido a ajustar 
 
 En su virtud, a propuesta del Ministro de Hacienda y Administraciones Públicas, de acuerdo con el Consejo de Estado y previa deliberación del Consejo de Ministros en su reunión del día 30 de octubre de 2015,
 
-
 **DISPONGO:**
-
 
 #### Artículo único. Aprobación del texto refundido de la Ley del Estatuto Básico del Empleado Público.
 
 Se aprueba el texto refundido de la Ley del Estatuto Básico del Empleado Público que se inserta a continuación.
 
-
 #### Disposición adicional única. Remisiones normativas.
 
 Las referencias efectuadas en otras disposiciones a las normas que se integran en el texto refundido que se aprueba, se entenderán efectuadas a los preceptos correspondientes de este último.
-
 
 #### Disposición derogatoria única. Derogación normativa.
 
@@ -97,10 +93,7 @@ Quedan derogadas todas las disposiciones de igual o inferior rango que se oponga
 
 13. La disposición final novena de la Ley de Presupuestos Generales del Estado para el año 2016.
 
-
 #### Disposición final única. Entrada en vigor.
-
-El presente real decreto legislativo y el texto refundido que aprueba entrarán en vigor el día siguiente al de su publicación en el «Boletín Oficial del Estado».
 
 No obstante, la entrada en vigor de la duración prevista para el permiso de paternidad en el artículo 49.c) del texto refundido, se producirá en los términos previstos en la disposición transitoria sexta de dicho texto refundido.
 
@@ -116,29 +109,21 @@ CRISTÓBAL MONTORO ROMERO
 
 [encabezado]TEXTO REFUNDIDO DE LA LEY DEL ESTATUTO BÁSICO DEL EMPLEADO PÚBLICO
 
-
 **ÍNDICE**
 
 Título I. Objeto y ámbito de aplicación
 
-
 #### Artículo 1. Objeto.
-
 
 #### Artículo 2. Ámbito de aplicación.
 
-
 #### Artículo 3. Personal funcionario de las Entidades Locales.
-
 
 #### Artículo 4. Personal con legislación específica propia.
 
-
 #### Artículo 5. Personal de la Sociedad Estatal Correos y Telégrafos.
 
-
 #### Artículo 6. Leyes de Función Pública.
-
 
 #### Artículo 7. Normativa aplicable al personal laboral.
 
@@ -146,23 +131,17 @@ Título II. Personal al servicio de las Administraciones Públicas.
 
 Capítulo I. Clases de personal.
 
-
 #### Artículo 8. Concepto y clases de empleados públicos.
-
 
 #### Artículo 9. Funcionarios de carrera.
 
-
 #### Artículo 10. Funcionarios interinos.
 
-
 #### Artículo 11. Personal laboral.
-
 
 #### Artículo 12. Personal eventual.
 
 Capítulo II. Personal directivo.
-
 
 #### Artículo 13. Personal directivo profesional.
 
@@ -170,136 +149,95 @@ Título III. Derechos y deberes. Código de conducta de los empleados públicos.
 
 Capítulo I. Derechos de los empleados públicos.
 
-
 #### Artículo 14. Derechos individuales.
-
 
 #### Artículo 15. Derechos individuales ejercidos colectivamente.
 
 Capítulo II. Derecho a la carrera profesional y a la promoción interna. La evaluación del desempeño.
 
-
 #### Artículo 16. Concepto, principios y modalidades de la carrera profesional de los funcionarios de carrera.
-
 
 #### Artículo 17. Carrera horizontal de los funcionarios de carrera.
 
-
 #### Artículo 18. Promoción interna de los funcionarios de carrera.
 
-
 #### Artículo 19. Carrera profesional y promoción del personal laboral.
-
 
 #### Artículo 20. La evaluación del desempeño.
 
 Capítulo III. Derechos retributivos.
 
-
 #### Artículo 21. Determinación de las cuantías y de los incrementos retributivos.
-
 
 #### Artículo 22. Retribuciones de los funcionarios.
 
-
 #### Artículo 23. Retribuciones básicas.
-
 
 #### Artículo 24. Retribuciones complementarias.
 
-
 #### Artículo 25. Retribuciones de los funcionarios interinos.
-
 
 #### Artículo 26. Retribuciones de los funcionarios en prácticas.
 
-
 #### Artículo 27. Retribuciones del personal laboral.
-
 
 #### Artículo 28. Indemnizaciones.
 
-
 #### Artículo 29. Retribuciones diferidas.
-
 
 #### Artículo 30. Deducción de retribuciones.
 
 Capítulo IV. Derecho a la negociación colectiva, representación y participación institucional. Derecho de reunión.
 
-
 #### Artículo 31. Principios generales.
-
 
 #### Artículo 32. Negociación colectiva, representación y participación del personal laboral.
 
-
 #### Artículo 33. Negociación colectiva.
-
 
 #### Artículo 34. Mesas de Negociación.
 
-
 #### Artículo 35. Constitución y composición de las Mesas de Negociación.
-
 
 #### Artículo 36. Mesas Generales de Negociación.
 
-
 #### Artículo 37. Materias objeto de negociación.
-
 
 #### Artículo 38. Pactos y Acuerdos.
 
-
 #### Artículo 39. Órganos de representación.
-
 
 #### Artículo 40. Funciones y legitimación de los órganos de representación.
 
-
 #### Artículo 41. Garantías de la función representativa del personal.
-
 
 #### Artículo 42. Duración de la representación.
 
-
 #### Artículo 43. Promoción de elecciones a Delegados y Juntas de Personal.
-
 
 #### Artículo 44. Procedimiento electoral.
 
-
 #### Artículo 45. Solución extrajudicial de conflictos colectivos.
-
 
 #### Artículo 46. Derecho de reunión.
 
 Capítulo V. Derecho a la jornada de trabajo, permisos y vacaciones.
 
-
 #### Artículo 47. Jornada de trabajo de los funcionarios públicos.
-
 
 #### Artículo 48. Permisos de los funcionarios públicos.
 
-
 #### Artículo 49. Permisos por motivos de conciliación de la vida personal, familiar y laboral, por razón de violencia de género y para las víctimas de terrorismo y sus familiares directos.
 
-
 #### Artículo 50. Vacaciones de los funcionarios públicos.
-
 
 #### Artículo 51. Jornada de trabajo, permisos y vacaciones del personal laboral.
 
 Capítulo VI. Deberes de los empleados públicos. Código de Conducta.
 
-
 #### Artículo 52. Deberes de los empleados públicos. Código de Conducta.
 
-
 #### Artículo 53. Principios éticos.
-
 
 #### Artículo 54. Principios de conducta.
 
@@ -307,47 +245,33 @@ Título IV. Adquisición y pérdida de la relación de servicio.
 
 Capítulo I. Acceso al empleo público y adquisición de la relación de servicio.
 
-
 #### Artículo 55. Principios rectores.
-
 
 #### Artículo 56. Requisitos generales.
 
-
 #### Artículo 57. Acceso al empleo público de nacionales de otros Estados.
-
 
 #### Artículo 58. Acceso al empleo público de funcionarios españoles de Organismos Internacionales.
 
-
 #### Artículo 59. Personas con discapacidad.
-
 
 #### Artículo 60. Órganos de selección.
 
-
 #### Artículo 61. Sistemas selectivos.
-
 
 #### Artículo 62. Adquisición de la condición de funcionario de carrera.
 
 Capítulo II. Pérdida de la relación de servicio.
 
-
 #### Artículo 63. Causas de pérdida de la condición de funcionario de carrera.
-
 
 #### Artículo 64. Renuncia.
 
-
 #### Artículo 65. Pérdida de la nacionalidad.
-
 
 #### Artículo 66. Pena principal o accesoria de inhabilitación absoluta o especial para cargo público.
 
-
 #### Artículo 67. Jubilación.
-
 
 #### Artículo 68. Rehabilitación de la condición de funcionario.
 
@@ -355,205 +279,141 @@ Título V. Ordenación de la actividad profesional.
 
 Capítulo I. Planificación de recursos humanos.
 
-
 #### Artículo 69. Objetivos e instrumentos de la planificación.
 
-
 #### Artículo 70. Oferta de empleo público.
-
 
 #### Artículo 71. Registros de personal y Gestión integrada de recursos humanos.
 
 Capítulo II. Estructuración del empleo público.
 
-
 #### Artículo 72. Estructuración de los recursos humanos.
-
 
 #### Artículo 73. Desempeño y agrupación de puestos de trabajo.
 
-
 #### Artículo 74. Ordenación de los puestos de trabajo.
-
 
 #### Artículo 75. Cuerpos y escalas.
 
-
 #### Artículo 76. Grupos de clasificación profesional del personal funcionario de carrera.
-
 
 #### Artículo 77. Clasificación del personal laboral.
 
 Capítulo III. Provisión de puestos de trabajo y movilidad.
 
-
 #### Artículo 78. Principios y procedimientos de provisión de puestos de trabajo del personal funcionario de carrera.
-
 
 #### Artículo 79. Concurso de provisión de los puestos de trabajo del personal funcionario de carrera.
 
-
 #### Artículo 80. Libre designación con convocatoria pública del personal funcionario de carrera.
-
 
 #### Artículo 81. Movilidad del personal funcionario de carrera.
 
-
 #### Artículo 82. Movilidad por razón de violencia de género y por razón de violencia terrorista.
 
-
 #### Artículo 83. Provisión de puestos y movilidad del personal laboral.
-
 
 #### Artículo 84. La movilidad voluntaria entre Administraciones Públicas.
 
 Título VI. Situaciones administrativas.
 
-
 #### Artículo 85. Situaciones administrativas de los funcionarios de carrera.
-
 
 #### Artículo 86. Servicio activo.
 
-
 #### Artículo 87. Servicios especiales.
-
 
 #### Artículo 88. Servicio en otras Administraciones Públicas.
 
-
 #### Artículo 89. Excedencia.
-
 
 #### Artículo 90. Suspensión de funciones.
 
-
 #### Artículo 91. Reingreso al servicio activo.
-
 
 #### Artículo 92. Situaciones del personal laboral.
 
 Título VII. Régimen disciplinario.
 
-
 #### Artículo 93. Responsabilidad disciplinaria.
-
 
 #### Artículo 94. Ejercicio de la potestad disciplinaria.
 
-
 #### Artículo 95. Faltas disciplinarias.
-
 
 #### Artículo 96. Sanciones.
 
-
 #### Artículo 97. Prescripción de las faltas y sanciones.
-
 
 #### Artículo 98. Procedimiento disciplinario y medidas provisionales.
 
 Título VIII. Cooperación entre las Administraciones Públicas.
 
-
 #### Artículo 99. Relaciones de cooperación entre las Administraciones Públicas.
-
 
 #### Artículo 100. Órganos de cooperación.
 
-
 #### Disposición adicional primera. Ámbito específico de aplicación.
-
 
 #### Disposición adicional segunda. Aplicación de las disposiciones de este Estatuto a las Instituciones Forales.
 
-
 #### Disposición adicional tercera. Funcionarios públicos propios de las ciudades de Ceuta y Melilla.
-
 
 #### Disposición adicional cuarta. Aplicación de este Estatuto a las autoridades administrativas independientes de ámbito estatal.
 
-
 #### Disposición adicional quinta. Jubilación de los funcionarios.
-
 
 #### Disposición adicional sexta. Otras agrupaciones profesionales sin requisito de titulación.
 
-
 #### Disposición adicional séptima. Planes de igualdad.
-
 
 #### Disposición adicional octava.
 
-
 #### Disposición adicional novena.
-
 
 #### Disposición adicional décima. Ámbito de aplicación del artículo 87.3.
 
-
 #### Disposición adicional undécima. Personal militar que preste servicios en la Administración civil.
-
 
 #### Disposición adicional duodécima. Mesas de negociación en ámbitos específicos.
 
-
 #### Disposición adicional decimotercera. Permiso por asuntos particulares por antigüedad.
-
 
 #### Disposición adicional decimocuarta. Días adicionales de vacaciones por antigüedad.
 
-
 #### Disposición adicional decimoquinta. Registro de Órganos de Representación del Personal.
-
 
 #### Disposición adicional decimosexta. Permiso retribuido para las funcionarias en estado de gestación.
 
-
 #### Disposición transitoria primera. Garantía de derechos retributivos.
-
 
 #### Disposición transitoria segunda. Personal Laboral fijo que desempeña funciones o puestos clasificados como propios de personal funcionario.
 
-
 #### Disposición transitoria tercera. Entrada en vigor de la nueva clasificación profesional.
-
 
 #### Disposición transitoria cuarta. Consolidación de empleo temporal.
 
-
 #### Disposición transitoria quinta. Procedimiento Electoral General.
-
 
 #### Disposición transitoria sexta. Duración del permiso de paternidad por el nacimiento, acogimiento o adopción de un hijo para el personal funcionario hasta la entrada en vigor de la Ley 9/2009, de 6 de octubre.
 
-
 #### Disposición transitoria séptima. Referencia a los Organismos Reguladores.
-
 
 #### Disposición transitoria octava. Aplicación del artículo 84.3.
 
-
 #### Disposición derogatoria única.
-
 
 #### Disposición final primera. Habilitación competencial.
 
-
 #### Disposición final segunda.
-
 
 #### Disposición final tercera. Modificación de la Ley 53/1984, de 26 de diciembre, de incompatibilidades del personal al servicio de las Administraciones Públicas.
 
-
 #### Disposición final cuarta. Entrada en vigor.
-
 
 **[fin indice]TÍTULO I**
 
-
 **Objeto y ámbito de aplicación**
-
 
 #### Artículo 1. Objeto.
 
@@ -587,7 +447,6 @@ k) Negociación colectiva y participación, a través de los representantes, en 
 
 l) Cooperación entre las Administraciones Públicas en la regulación y gestión del empleo público.
 
-
 #### Artículo 2. Ámbito de aplicación.
 
 1. Este Estatuto se aplica al personal funcionario y en lo que proceda al personal laboral al servicio de las siguientes Administraciones Públicas:
@@ -610,13 +469,11 @@ e) Las Universidades Públicas.
 
 5. El presente Estatuto tiene carácter supletorio para todo el personal de las Administraciones Públicas no incluido en su ámbito de aplicación.
 
-
 #### Artículo 3. Personal funcionario de las Entidades Locales.
 
 1. El personal funcionario de las entidades locales se rige por la legislación estatal que resulte de aplicación, de la que forma parte este Estatuto y por la legislación de las comunidades autónomas, con respeto a la autonomía local.
 
 2. Los Cuerpos de Policía Local se rigen también por este Estatuto y por la legislación de las comunidades autónomas, excepto en lo establecido para ellos en la Ley Orgánica 2/1986, de 13 de marzo, de Fuerzas y Cuerpos de Seguridad.
-
 
 #### Artículo 4. Personal con legislación específica propia.
 
@@ -638,33 +495,27 @@ g) Personal del Centro Nacional de Inteligencia.
 
 h) Personal del Banco de España y del Fondo de Garantía de Depósitos de Entidades de Crédito.
 
-
 #### Artículo 5. Personal de la Sociedad Estatal Correos y Telégrafos.
 
 El personal funcionario de la Sociedad Estatal Correos y Telégrafos se regirá por sus normas específicas y supletoriamente por lo dispuesto en este Estatuto.
 
 Su personal laboral se regirá por la legislación laboral y demás normas convencionalmente aplicables.
 
-
 #### Artículo 6. Leyes de Función Pública.
 
 En desarrollo de este Estatuto, las Cortes Generales y las asambleas legislativas de las comunidades autónomas aprobarán, en el ámbito de sus competencias, las leyes reguladoras de la Función Pública de la Administración General del Estado y de las comunidades autónomas.
-
 
 #### Artículo 7. Normativa aplicable al personal laboral.
 
 El personal laboral al servicio de las Administraciones Públicas se rige, además de por la legislación laboral y por las demás normas convencionalmente aplicables, por los preceptos de este Estatuto que así lo dispongan.
 
-
 ## TÍTULO II
-
 
 **Personal al servicio de las Administraciones Públicas**
 
 CAPÍTULO I
 
 Clases de personal
-
 
 #### Artículo 8. Concepto y clases de empleados públicos.
 
@@ -680,13 +531,11 @@ c) Personal laboral, ya sea fijo, por tiempo indefinido o temporal.
 
 d) Personal eventual.
 
-
 #### Artículo 9. Funcionarios de carrera.
 
 1. Son funcionarios de carrera quienes, en virtud de nombramiento legal, están vinculados a una Administración Pública por una relación estatutaria regulada por el Derecho Administrativo para el desempeño de servicios profesionales retribuidos de carácter permanente.
 
 2. En todo caso, el ejercicio de las funciones que impliquen la participación directa o indirecta en el ejercicio de las potestades públicas o en la salvaguardia de los intereses generales del Estado y de las Administraciones Públicas corresponden exclusivamente a los funcionarios públicos, en los términos que en la ley de desarrollo de cada Administración Pública se establezca.
-
 
 #### Artículo 10. Funcionarios interinos.
 
@@ -710,13 +559,11 @@ d) El exceso o acumulación de tareas por plazo máximo de seis meses, dentro de
 
 6. El personal interino cuya designación sea consecuencia de la ejecución de programas de carácter temporal o del exceso o acumulación de tareas por plazo máximo de seis meses, dentro de un período de doce meses, podrá prestar los servicios que se le encomienden en la unidad administrativa en la que se produzca su nombramiento o en otras unidades administrativas en las que desempeñe funciones análogas, siempre que, respectivamente, dichas unidades participen en el ámbito de aplicación del citado programa de carácter temporal, con el límite de duración señalado en este artículo, o estén afectadas por la mencionada acumulación de tareas.
 
-
 #### Artículo 11. Personal laboral.
 
 1. Es personal laboral el que en virtud de contrato de trabajo formalizado por escrito, en cualquiera de las modalidades de contratación de personal previstas en la legislación laboral, presta servicios retribuidos por las Administraciones Públicas. En función de la duración del contrato éste podrá ser fijo, por tiempo indefinido o temporal.
 
 2. Las leyes de Función Pública que se dicten en desarrollo de este Estatuto establecerán los criterios para la determinación de los puestos de trabajo que pueden ser desempeñados por personal laboral, respetando en todo caso lo establecido en el artículo 9.2.
-
 
 #### Artículo 12. Personal eventual.
 
@@ -734,7 +581,6 @@ CAPÍTULO II
 
 Personal directivo
 
-
 #### Artículo 13. Personal directivo profesional.
 
 El Gobierno y los órganos de gobierno de las comunidades autónomas podrán establecer, en desarrollo de este Estatuto, el régimen jurídico específico del personal directivo así como los criterios para determinar su condición, de acuerdo, entre otros, con los siguientes principios:
@@ -747,16 +593,13 @@ El Gobierno y los órganos de gobierno de las comunidades autónomas podrán est
 
 4. La determinación de las condiciones de empleo del personal directivo no tendrá la consideración de materia objeto de negociación colectiva a los efectos de esta ley. Cuando el personal directivo reúna la condición de personal laboral estará sometido a la relación laboral de carácter especial de alta dirección.
 
-
 ## TÍTULO III
-
 
 **Derechos y deberes. Código de conducta de los empleados públicos**
 
 CAPÍTULO I
 
 Derechos de los empleados públicos
-
 
 #### Artículo 14. Derechos individuales.
 
@@ -796,7 +639,6 @@ p) A la libre asociación profesional.
 
 q) A los demás derechos reconocidos por el ordenamiento jurídico.
 
-
 #### Artículo 15. Derechos individuales ejercidos colectivamente.
 
 Los empleados públicos tienen los siguientes derechos individuales que se ejercen de forma colectiva:
@@ -814,7 +656,6 @@ e) Al de reunión, en los términos establecidos en el artículo 46 de este Esta
 CAPÍTULO II
 
 Derecho a la carrera profesional y a la promoción interna. La evaluación del desempeño
-
 
 #### Artículo 16. Concepto, principios y modalidades de la carrera profesional de los funcionarios de carrera.
 
@@ -836,7 +677,6 @@ d) Promoción interna horizontal, que consiste en el acceso a cuerpos o escalas 
 
 4. Los funcionarios de carrera podrán progresar simultáneamente en las modalidades de carrera horizontal y vertical cuando la Administración correspondiente las haya implantado en un mismo ámbito.
 
-
 #### Artículo 17. Carrera horizontal de los funcionarios de carrera.
 
 Las leyes de Función Pública que se dicten en desarrollo del presente Estatuto podrán regular la carrera horizontal de los funcionarios de carrera, pudiendo aplicar, entre otras, las siguientes reglas:
@@ -844,7 +684,6 @@ Las leyes de Función Pública que se dicten en desarrollo del presente Estatuto
 a) Se articulará un sistema de grados, categorías o escalones de ascenso fijándose la remuneración a cada uno de ellos. Los ascensos serán consecutivos con carácter general, salvo en aquellos supuestos excepcionales en los que se prevea otra posibilidad.
 
 b) Se deberá valorar la trayectoria y actuación profesional, la calidad de los trabajos realizados, los conocimientos adquiridos y el resultado de la evaluación del desempeño. Podrán incluirse asimismo otros méritos y aptitudes por razón de la especificidad de la función desarrollada y la experiencia adquirida.
-
 
 #### Artículo 18. Promoción interna de los funcionarios de carrera.
 
@@ -858,13 +697,11 @@ Asimismo las leyes de Función Pública que se dicten en desarrollo del presente
 
 4. Las Administraciones Públicas adoptarán medidas que incentiven la participación de su personal en los procesos selectivos de promoción interna y para la progresión en la carrera profesional.
 
-
 #### Artículo 19. Carrera profesional y promoción del personal laboral.
 
 1. El personal laboral tendrá derecho a la promoción profesional.
 
 2. La carrera profesional y la promoción del personal laboral se hará efectiva a través de los procedimientos previstos en el Estatuto de los Trabajadores o en los convenios colectivos.
-
 
 #### Artículo 20. La evaluación del desempeño.
 
@@ -884,13 +721,11 @@ CAPÍTULO III
 
 Derechos retributivos
 
-
 #### Artículo 21. Determinación de las cuantías y de los incrementos retributivos.
 
 1. Las cuantías de las retribuciones básicas y el incremento de las cuantías globales de las retribuciones complementarias de los funcionarios, así como el incremento de la masa salarial del personal laboral, deberán reflejarse para cada ejercicio presupuestario en la correspondiente ley de presupuestos.
 
 2. No podrán acordarse incrementos retributivos que globalmente supongan un incremento de la masa salarial superior a los límites fijados anualmente en la Ley de Presupuestos Generales del Estado para el personal.
-
 
 #### Artículo 22. Retribuciones de los funcionarios.
 
@@ -904,7 +739,6 @@ Derechos retributivos
 
 5. No podrá percibirse participación en tributos o en cualquier otro ingreso de las Administraciones Públicas como contraprestación de cualquier servicio, participación o premio en multas impuestas, aun cuando estuviesen normativamente atribuidas a los servicios.
 
-
 #### Artículo 23. Retribuciones básicas.
 
 Las retribuciones básicas, que se fijan en la Ley de Presupuestos Generales del Estado, estarán integradas única y exclusivamente por:
@@ -912,7 +746,6 @@ Las retribuciones básicas, que se fijan en la Ley de Presupuestos Generales del
 a) El sueldo asignado a cada Subgrupo o Grupo de clasificación profesional, en el supuesto de que éste no tenga Subgrupo.
 
 b) Los trienios, que consisten en una cantidad, que será igual para cada Subgrupo o Grupo de clasificación profesional, en el supuesto de que éste no tenga Subgrupo, por cada tres años de servicio.
-
 
 #### Artículo 24. Retribuciones complementarias.
 
@@ -926,35 +759,29 @@ c) El grado de interés, iniciativa o esfuerzo con que el funcionario desempeña
 
 d) Los servicios extraordinarios prestados fuera de la jornada normal de trabajo.
 
-
 #### Artículo 25. Retribuciones de los funcionarios interinos.
 
 1. Los funcionarios interinos percibirán las retribuciones básicas y las pagas extraordinarias correspondientes al Subgrupo o Grupo de adscripción, en el supuesto de que éste no tenga Subgrupo. Percibirán asimismo las retribuciones complementarias a que se refieren los apartados b), c) y d) del artículo 24 y las correspondientes a la categoría de entrada en el cuerpo o escala en el que se le nombre.
 
 2. Se reconocerán los trienios correspondientes a los servicios prestados antes de la entrada en vigor del presente Estatuto que tendrán efectos retributivos únicamente a partir de la entrada en vigor del mismo.
 
-
 #### Artículo 26. Retribuciones de los funcionarios en prácticas.
 
 Las Administraciones Públicas determinarán las retribuciones de los funcionarios en prácticas que, como mínimo, se corresponderán a las del sueldo del Subgrupo o Grupo, en el supuesto de que éste no tenga Subgrupo, en que aspiren a ingresar.
-
 
 #### Artículo 27. Retribuciones del personal laboral.
 
 Las retribuciones del personal laboral se determinarán de acuerdo con la legislación laboral, el convenio colectivo que sea aplicable y el contrato de trabajo, respetando en todo caso lo establecido en el artículo 21 del presente Estatuto.
 
-
 #### Artículo 28. Indemnizaciones.
 
 Los funcionarios percibirán las indemnizaciones correspondientes por razón del servicio.
-
 
 #### Artículo 29. Retribuciones diferidas.
 
 Las Administraciones Públicas podrán destinar cantidades hasta el porcentaje de la masa salarial que se fije en las correspondientes Leyes de Presupuestos Generales del Estado a financiar aportaciones a planes de pensiones de empleo o contratos de seguro colectivos que incluyan la cobertura de la contingencia de jubilación, para el personal incluido en sus ámbitos, de acuerdo con lo establecido en la normativa reguladora de los Planes de Pensiones.
 
 Las cantidades destinadas a financiar aportaciones a planes de pensiones o contratos de seguros tendrán a todos los efectos la consideración de retribución diferida.
-
 
 #### Artículo 30. Deducción de retribuciones.
 
@@ -965,7 +792,6 @@ Las cantidades destinadas a financiar aportaciones a planes de pensiones o contr
 CAPÍTULO IV
 
 Derecho a la negociación colectiva, representación y participación institucional. Derecho de reunión
-
 
 #### Artículo 31. Principios generales.
 
@@ -985,7 +811,6 @@ Derecho a la negociación colectiva, representación y participación institucio
 
 8. Los procedimientos para determinar condiciones de trabajo en las Administraciones Públicas tendrán en cuenta las previsiones establecidas en los convenios y acuerdos de carácter internacional ratificados por España.
 
-
 #### Artículo 32. Negociación colectiva, representación y participación del personal laboral.
 
 1. La negociación colectiva, representación y participación de los empleados públicos con contrato laboral se regirá por la legislación laboral, sin perjuicio de los preceptos de este capítulo que expresamente les son de aplicación.
@@ -996,7 +821,6 @@ En este supuesto, las Administraciones Públicas deberán informar a las organiz
 
 A los efectos de los previsto en este apartado, se entenderá, entre otras, que concurre causa grave de interés público derivada de la alteración sustancial de las circunstancias económicas cuando las Administraciones Públicas deban adoptar medidas o planes de ajuste, de reequilibrio de las cuentas públicas o de carácter económico financiero para asegurar la estabilidad presupuestaria o la corrección del déficit público.
 
-
 #### Artículo 33. Negociación colectiva.
 
 1. La negociación colectiva de condiciones de trabajo de los funcionarios públicos que estará sujeta a los principios de legalidad, cobertura presupuestaria, obligatoriedad, buena fe negocial, publicidad y transparencia, se efectuará mediante el ejercicio de la capacidad representativa reconocida a las organizaciones sindicales en los artículos 6.3.c); 7.1 y 7.2 de la Ley Orgánica 11/1985, de 2 de agosto, de Libertad Sindical, y lo previsto en este capítulo.
@@ -1004,7 +828,6 @@ A los efectos de los previsto en este apartado, se entenderá, entre otras, que 
 A este efecto, se constituirán Mesas de Negociación en las que estarán legitimados para estar presentes, por una parte, los representantes de la Administración Pública correspondiente, y por otra, las organizaciones sindicales más representativas a nivel estatal, las organizaciones sindicales más representativas de comunidad autónoma, así como los sindicatos que hayan obtenido el 10 por 100 o más de los representantes en las elecciones para Delegados y Juntas de Personal, en las unidades electorales comprendidas en el ámbito específico de su constitución.
 
 2. Las Administraciones Públicas podrán encargar el desarrollo de las actividades de negociación colectiva a órganos creados por ellas, de naturaleza estrictamente técnica, que ostentarán su representación en la negociación colectiva previas las instrucciones políticas correspondientes y sin perjuicio de la ratificación de los acuerdos alcanzados por los órganos de gobierno o administrativos con competencia para ello.
-
 
 #### Artículo 34. Mesas de Negociación.
 
@@ -1024,7 +847,6 @@ Asimismo, una Administración o Entidad Pública podrá adherirse a los acuerdos
 
 7. Ambas partes estarán obligadas a negociar bajo el principio de la buena fe y proporcionarse mutuamente la información que precisen relativa a la negociación.
 
-
 #### Artículo 35. Constitución y composición de las Mesas de Negociación.
 
 1. Las Mesas a que se refieren los artículos 34, 36.3 y disposición adicional duodécima de este Estatuto quedarán válidamente constituidas cuando, además de la representación de la Administración correspondiente, y sin perjuicio del derecho de todas las organizaciones sindicales legitimadas a participar en ellas en proporción a su representatividad, tales organizaciones sindicales representen, como mínimo, la mayoría absoluta de los miembros de los órganos unitarios de representación en el ámbito de que se trate.
@@ -1034,7 +856,6 @@ Asimismo, una Administración o Entidad Pública podrá adherirse a los acuerdos
 3. La designación de los componentes de las Mesas corresponderá a las partes negociadoras que podrán contar con la asistencia en las deliberaciones de asesores, que intervendrán con voz, pero sin voto.
 
 4. En las normas de desarrollo del presente Estatuto se establecerá la composición numérica de las Mesas correspondientes a sus ámbitos, sin que ninguna de las partes pueda superar el número de quince miembros.
-
 
 #### Artículo 36. Mesas Generales de Negociación.
 
@@ -1051,7 +872,6 @@ Será específicamente objeto de negociación en el ámbito de la Mesa General d
 Son de aplicación a estas Mesas Generales los criterios establecidos en el apartado anterior sobre representación de las organizaciones sindicales en la Mesa General de Negociación de las Administraciones Públicas, tomando en consideración en cada caso los resultados obtenidos en las elecciones a los órganos de representación del personal funcionario y laboral del correspondiente ámbito de representación.
 
 Además, también estarán presentes en estas Mesas Generales, las organizaciones sindicales que formen parte de la Mesa General de Negociación de las Administraciones Públicas siempre que hubieran obtenido el 10 por 100 de los representantes a personal funcionario o personal laboral en el ámbito correspondiente a la Mesa de que se trate.
-
 
 #### Artículo 37. Materias objeto de negociación.
 
@@ -1097,7 +917,6 @@ d) Los poderes de dirección y control propios de la relación jerárquica.
 
 e) La regulación y determinación concreta, en cada caso, de los sistemas, criterios, órganos y procedimientos de acceso al empleo público y la promoción profesional.
 
-
 #### Artículo 38. Pactos y Acuerdos.
 
 1. En el seno de las Mesas de Negociación correspondientes, los representantes de las Administraciones Públicas podrán concertar Pactos y Acuerdos con la representación de las organizaciones sindicales legitimadas a tales efectos, para la determinación de condiciones de trabajo de los funcionarios de dichas Administraciones.
@@ -1134,7 +953,6 @@ A los efectos de los previsto en este apartado, se entenderá, entre otras, que 
 
 13. Los Pactos y Acuerdos que sucedan a otros anteriores los derogan en su integridad, salvo los aspectos que expresamente se acuerde mantener.
 
-
 #### Artículo 39. Órganos de representación.
 
 1. Los órganos específicos de representación de los funcionarios son los Delegados de Personal y las Juntas de Personal.
@@ -1161,7 +979,6 @@ De 1.001 en adelante, dos por cada 1.000 o fracción, con el máximo de 75.
 
 6. Las Juntas de Personal elegirán de entre sus miembros un Presidente y un Secretario y elaborarán su propio reglamento de procedimiento, que no podrá contravenir lo dispuesto en el presente Estatuto y legislación de desarrollo, remitiendo copia del mismo y de sus modificaciones al órgano u órganos competentes en materia de personal que cada Administración determine. El reglamento y sus modificaciones deberán ser aprobados por los votos favorables de, al menos, dos tercios de sus miembros.
 
-
 #### Artículo 40. Funciones y legitimación de los órganos de representación.
 
 1. Las Juntas de Personal y los Delegados de Personal, en su caso, tendrán las siguientes funciones, en sus respectivos ámbitos:
@@ -1179,7 +996,6 @@ e) Vigilar el cumplimiento de las normas vigentes en materia de condiciones de t
 f)	Colaborar con la Administración correspondiente para conseguir el establecimiento de cuantas medidas procuren el mantenimiento e incremento de la productividad.
 
 2. Las Juntas de Personal, colegiadamente, por decisión mayoritaria de sus miembros y, en su caso, los Delegados de Personal, mancomunadamente, estarán legitimados para iniciar, como interesados, los correspondientes procedimientos administrativos y ejercitar las acciones en vía administrativa o judicial en todo lo relativo al ámbito de sus funciones.
-
 
 #### Artículo 41. Garantías de la función representativa del personal.
 
@@ -1211,11 +1027,9 @@ e) No ser trasladados ni sancionados por causas relacionadas con el ejercicio de
 
 3. Cada uno de los miembros de la Junta de Personal y ésta como órgano colegiado, así como los Delegados de Personal, en su caso, observarán sigilo profesional en todo lo referente a los asuntos en que la Administración señale expresamente el carácter reservado, aún después de expirar su mandato. En todo caso, ningún documento reservado entregado por la Administración podrá ser utilizado fuera del estricto ámbito de la Administración para fines distintos de los que motivaron su entrega.
 
-
 #### Artículo 42. Duración de la representación.
 
 El mandato de los miembros de las Juntas de Personal y de los Delegados de Personal, en su caso, será de cuatro años, pudiendo ser reelegidos. El mandato se entenderá prorrogado si, a su término, no se hubiesen promovido nuevas elecciones, sin que los representantes con mandato prorrogado se contabilicen a efectos de determinar la capacidad representativa de los Sindicatos.
-
 
 #### Artículo 43. Promoción de elecciones a Delegados y Juntas de Personal.
 
@@ -1233,7 +1047,6 @@ e) Los funcionarios de la unidad electoral, por acuerdo mayoritario.
 
 2. Los legitimados para promover elecciones tendrán, a este efecto, derecho a que la Administración Pública correspondiente les suministre el censo de personal de las unidades electorales afectadas, distribuido por organismos o centros de trabajo.
 
-
 #### Artículo 44. Procedimiento electoral.
 
 El procedimiento para la elección de las Juntas de Personal y para la elección de Delegados de Personal se determinará reglamentariamente teniendo en cuenta los siguientes criterios generales:
@@ -1250,7 +1063,6 @@ e) Los órganos electorales serán las Mesas Electorales que se constituyan para
 
 f)	Las impugnaciones se tramitarán conforme a un procedimiento arbitral, excepto las reclamaciones contra las denegaciones de inscripción de actas electorales que podrán plantearse directamente ante la jurisdicción social.
 
-
 #### Artículo 45. Solución extrajudicial de conflictos colectivos.
 
 1. Con independencia de las atribuciones fijadas por las partes a las comisiones paritarias previstas en el artículo 38.5 para el conocimiento y resolución de los conflictos derivados de la aplicación e interpretación de los Pactos y Acuerdos, las Administraciones Públicas y las organizaciones sindicales a que se refiere el presente capítulo podrán acordar la creación, configuración y desarrollo de sistemas de solución extrajudicial de conflictos colectivos.
@@ -1266,7 +1078,6 @@ Mediante el procedimiento de arbitraje las partes podrán acordar voluntariament
 Estos acuerdos serán susceptibles de impugnación. Específicamente cabrá recurso contra la resolución arbitral en el caso de que no se hubiesen observado en el desarrollo de la actuación arbitral los requisitos y formalidades establecidos al efecto o cuando la resolución hubiese versado sobre puntos no sometidos a su decisión, o que ésta contradiga la legalidad vigente.
 
 5. La utilización de estos sistemas se efectuará conforme a los procedimientos que reglamentariamente se determinen previo acuerdo con las organizaciones sindicales representativas.
-
 
 #### Artículo 46. Derecho de reunión.
 
@@ -1288,11 +1099,9 @@ CAPÍTULO V
 
 Derecho a la jornada de trabajo, permisos y vacaciones
 
-
 #### Artículo 47. Jornada de trabajo de los funcionarios públicos.
 
 Las Administraciones Públicas establecerán la jornada general y las especiales de trabajo de sus funcionarios públicos. La jornada de trabajo podrá ser a tiempo completo o a tiempo parcial.
-
 
 #### Artículo 48. Permisos de los funcionarios públicos.
 
@@ -1333,7 +1142,6 @@ j)	Por tiempo indispensable para el cumplimiento de un deber inexcusable de car�
 k) Por asuntos particulares, seis días al año.
 
 l)	Por matrimonio, quince días.
-
 
 #### Artículo 49. Permisos por motivos de conciliación de la vida personal, familiar y laboral, por razón de violencia de género y para las víctimas de terrorismo y sus familiares directos.
 
@@ -1393,7 +1201,6 @@ f)	Para hacer efectivo su derecho a la protección y a la asistencia social inte
 
 Dichas medidas serán adoptadas y mantenidas en el tiempo en tanto que resulten necesarias para la protección y asistencia social integral de la persona a la que se concede, ya sea por razón de las secuelas provocadas por la acción terrorista, ya sea por la amenaza a la que se encuentra sometida, en los términos previstos reglamentariamente.
 
-
 #### Artículo 50. Vacaciones de los funcionarios públicos.
 
 1. Los funcionarios públicos tendrán derecho a disfrutar, durante cada año natural, de unas vacaciones retribuidas de veintidós días hábiles, o de los días que correspondan proporcionalmente si el tiempo de servicio durante el año fue menor.
@@ -1401,7 +1208,6 @@ Dichas medidas serán adoptadas y mantenidas en el tiempo en tanto que resulten 
 A los efectos de lo previsto en el presente artículo, no se considerarán como días hábiles los sábados, sin perjuicio de las adaptaciones que se establezcan para los horarios especiales.
 
 2. Cuando las situaciones de permiso de maternidad, incapacidad temporal, riesgo durante la lactancia o riesgo durante el embarazo impidan iniciar el disfrute de las vacaciones dentro del año natural al que correspondan, o una vez iniciado el periodo vacacional sobreviniera una de dichas situaciones, el periodo vacacional se podrá disfrutar aunque haya terminado el año natural a que correspondan y siempre que no hayan transcurrido más de dieciocho meses a partir del final del año en que se hayan originado.
-
 
 #### Artículo 51. Jornada de trabajo, permisos y vacaciones del personal laboral.
 
@@ -1411,13 +1217,11 @@ CAPÍTULO VI
 
 Deberes de los empleados públicos. Código de Conducta
 
-
 #### Artículo 52. Deberes de los empleados públicos. Código de Conducta.
 
 Los empleados públicos deberán desempeñar con diligencia las tareas que tengan asignadas y velar por los intereses generales con sujeción y observancia de la Constitución y del resto del ordenamiento jurídico, y deberán actuar con arreglo a los siguientes principios: objetividad, integridad, neutralidad, responsabilidad, imparcialidad, confidencialidad, dedicación al servicio público, transparencia, ejemplaridad, austeridad, accesibilidad, eficacia, honradez, promoción del entorno cultural y medioambiental, y respeto a la igualdad entre mujeres y hombres, que inspiran el Código de Conducta de los empleados públicos configurado por los principios éticos y de conducta regulados en los artículos siguientes.
 
 Los principios y reglas establecidos en este capítulo informarán la interpretación y aplicación del régimen disciplinario de los empleados públicos.
-
 
 #### Artículo 53. Principios éticos.
 
@@ -1445,7 +1249,6 @@ Los principios y reglas establecidos en este capítulo informarán la interpreta
 
 12. Guardarán secreto de las materias clasificadas u otras cuya difusión esté prohibida legalmente, y mantendrán la debida discreción sobre aquellos asuntos que conozcan por razón de su cargo, sin que puedan hacer uso de la información obtenida para beneficio propio o de terceros, o en perjuicio del interés público.
 
-
 #### Artículo 54. Principios de conducta.
 
 1. Tratarán con atención y respeto a los ciudadanos, a sus superiores y a los restantes empleados públicos.
@@ -1470,16 +1273,13 @@ Los principios y reglas establecidos en este capítulo informarán la interpreta
 
 11. Garantizarán la atención al ciudadano en la lengua que lo solicite siempre que sea oficial en el territorio.
 
-
 ## TÍTULO IV
-
 
 **Adquisición y pérdida de la relación de servicio**
 
 CAPÍTULO I
 
 Acceso al empleo público y adquisición de la relación de servicio
-
 
 #### Artículo 55. Principios rectores.
 
@@ -1499,7 +1299,6 @@ e) Adecuación entre el contenido de los procesos selectivos y las funciones o t
 
 f)	Agilidad, sin perjuicio de la objetividad, en los procesos de selección.
 
-
 #### Artículo 56. Requisitos generales.
 
 1. Para poder participar en los procesos selectivos será necesario reunir los siguientes requisitos:
@@ -1518,7 +1317,6 @@ e) Poseer la titulación exigida.
 
 3. Podrá exigirse el cumplimiento de otros requisitos específicos que guarden relación objetiva y proporcionada con las funciones asumidas y las tareas a desempeñar. En todo caso, habrán de establecerse de manera abstracta y general.
 
-
 #### Artículo 57. Acceso al empleo público de nacionales de otros Estados.
 
 1. Los nacionales de los Estados miembros de la Unión Europea podrán acceder, como personal funcionario, en igualdad de condiciones que los españoles a los empleos públicos, con excepción de aquellos que directa o indirectamente impliquen una participación en el ejercicio del poder público o en las funciones que tienen por objeto la salvaguardia de los intereses del Estado o de las Administraciones Públicas.
@@ -1533,11 +1331,9 @@ A tal efecto, los órganos de gobierno de las Administraciones Públicas determi
 
 5. Sólo por ley de las Cortes Generales o de las asambleas legislativas de las comunidades autónomas podrá eximirse del requisito de la nacionalidad por razones de interés general para el acceso a la condición de personal funcionario.
 
-
 #### Artículo 58. Acceso al empleo público de funcionarios españoles de Organismos Internacionales.
 
 Las Administraciones Públicas establecerán los requisitos y condiciones para el acceso a las mismas de funcionarios de nacionalidad española de Organismos Internacionales, siempre que posean la titulación requerida y superen los correspondientes procesos selectivos. Podrán quedar exentos de la realización de aquellas pruebas que tengan por objeto acreditar conocimientos ya exigidos para el desempeño de su puesto en el organismo internacional correspondiente.
-
 
 #### Artículo 59. Personas con discapacidad.
 
@@ -1547,7 +1343,6 @@ La reserva del mínimo del siete por ciento se realizará de manera que, al meno
 
 2. Cada Administración Pública adoptará las medidas precisas para establecer las adaptaciones y ajustes razonables de tiempos y medios en el proceso selectivo y, una vez superado dicho proceso, las adaptaciones en el puesto de trabajo a las necesidades de las personas con discapacidad.
 
-
 #### Artículo 60. Órganos de selección.
 
 1. Los órganos de selección serán colegiados y su composición deberá ajustarse a los principios de imparcialidad y profesionalidad de sus miembros, y se tenderá, asimismo, a la paridad entre mujer y hombre.
@@ -1555,7 +1350,6 @@ La reserva del mínimo del siete por ciento se realizará de manera que, al meno
 2. El personal de elección o de designación política, los funcionarios interinos y el personal eventual no podrán formar parte de los órganos de selección.
 
 3. La pertenencia a los órganos de selección será siempre a título individual, no pudiendo ostentarse ésta en representación o por cuenta de nadie.
-
 
 #### Artículo 61. Sistemas selectivos.
 
@@ -1585,7 +1379,6 @@ Las Administraciones Públicas podrán negociar las formas de colaboración que 
 
 No obstante lo anterior, siempre que los órganos de selección hayan propuesto el nombramiento de igual número de aspirantes que el de plazas convocadas, y con el fin de asegurar la cobertura de las mismas, cuando se produzcan renuncias de los aspirantes seleccionados, antes de su nombramiento o toma de posesión, el órgano convocante podrá requerir del órgano de selección relación complementaria de los aspirantes que sigan a los propuestos, para su posible nombramiento como funcionarios de carrera.
 
-
 #### Artículo 62. Adquisición de la condición de funcionario de carrera.
 
 1. La condición de funcionario de carrera se adquiere por el cumplimiento sucesivo de los siguientes requisitos:
@@ -1604,7 +1397,6 @@ CAPÍTULO II
 
 Pérdida de la relación de servicio
 
-
 #### Artículo 63. Causas de pérdida de la condición de funcionario de carrera.
 
 Son causas de pérdida de la condición de funcionario de carrera:
@@ -1619,7 +1411,6 @@ d) La sanción disciplinaria de separación del servicio que tuviere carácter f
 
 e) La pena principal o accesoria de inhabilitación absoluta o especial para cargo público que tuviere carácter firme.
 
-
 #### Artículo 64. Renuncia.
 
 1. La renuncia voluntaria a la condición de funcionario habrá de ser manifestada por escrito y será aceptada expresamente por la Administración, salvo lo dispuesto en el apartado siguiente.
@@ -1628,18 +1419,15 @@ e) La pena principal o accesoria de inhabilitación absoluta o especial para car
 
 3. La renuncia a la condición de funcionario no inhabilita para ingresar de nuevo en la Administración Pública a través del procedimiento de selección establecido.
 
-
 #### Artículo 65. Pérdida de la nacionalidad.
 
 La pérdida de la nacionalidad española o la de cualquier otro Estado miembro de la Unión Europea o la de aquellos Estados a los que, en virtud de tratados internacionales celebrados por la Unión Europea y ratificados por España, les sea de aplicación la libre circulación de trabajadores, que haya sido tenida en cuenta para el nombramiento, determinará la pérdida de la condición de funcionario salvo que simultáneamente se adquiera la nacionalidad de alguno de dichos Estados.
-
 
 #### Artículo 66. Pena principal o accesoria de inhabilitación absoluta o especial para cargo público.
 
 La pena principal o accesoria de inhabilitación absoluta cuando hubiere adquirido firmeza la sentencia que la imponga produce la pérdida de la condición de funcionario respecto a todos los empleos o cargos que tuviere.
 
 La pena principal o accesoria de inhabilitación especial cuando hubiere adquirido firmeza la sentencia que la imponga produce la pérdida de la condición de funcionario respecto de aquellos empleos o cargos especificados en la sentencia.
-
 
 #### Artículo 67. Jubilación.
 
@@ -1661,23 +1449,19 @@ De lo dispuesto en los dos párrafos anteriores quedarán excluidos los funciona
 
 4. Con independencia de la edad legal de jubilación forzosa establecida en el apartado 3, la edad de la jubilación forzosa del personal funcionario incluido en el Régimen General de la Seguridad Social será, en todo caso, la que prevean las normas reguladoras de dicho régimen para el acceso a la pensión de jubilación en su modalidad contributiva sin coeficiente reductor por razón de la edad.
 
-
 #### Artículo 68. Rehabilitación de la condición de funcionario.
 
 1. En caso de extinción de la relación de servicios como consecuencia de pérdida de la nacionalidad o jubilación por incapacidad permanente para el servicio, el interesado, una vez desaparecida la causa objetiva que la motivó, podrá solicitar la rehabilitación de su condición de funcionario, que le será concedida.
 
 2. Los órganos de gobierno de las Administraciones Públicas podrán conceder, con carácter excepcional, la rehabilitación, a petición del interesado, de quien hubiera perdido la condición de funcionario por haber sido condenado a la pena principal o accesoria de inhabilitación, atendiendo a las circunstancias y entidad del delito cometido. Si transcurrido el plazo para dictar la resolución, no se hubiera producido de forma expresa, se entenderá desestimada la solicitud.
 
-
 ## TÍTULO V
-
 
 **Ordenación de la actividad profesional**
 
 CAPÍTULO I
 
 Planificación de recursos humanos
-
 
 #### Artículo 69. Objetivos e instrumentos de la planificación.
 
@@ -1697,7 +1481,6 @@ e) La previsión de la incorporación de recursos humanos a través de la Oferta
 
 3. Cada Administración Pública planificará sus recursos humanos de acuerdo con los sistemas que establezcan las normas que les sean de aplicación.
 
-
 #### Artículo 70. Oferta de empleo público.
 
 1. Las necesidades de recursos humanos, con asignación presupuestaria, que deban proveerse mediante la incorporación de personal de nuevo ingreso serán objeto de la Oferta de empleo público, o a través de otro instrumento similar de gestión de la provisión de las necesidades de personal, lo que comportará la obligación de convocar los correspondientes procesos selectivos para las plazas comprometidas y hasta un diez por cien adicional, fijando el plazo máximo para la convocatoria de los mismos. En todo caso, la ejecución de la oferta de empleo público o instrumento similar deberá desarrollarse dentro del plazo improrrogable de tres años.
@@ -1705,7 +1488,6 @@ e) La previsión de la incorporación de recursos humanos a través de la Oferta
 2. La Oferta de empleo público o instrumento similar, que se aprobará anualmente por los órganos de Gobierno de las Administraciones Públicas, deberá ser publicada en el Diario oficial correspondiente.
 
 3. La Oferta de empleo público o instrumento similar podrá contener medidas derivadas de la planificación de recursos humanos.
-
 
 #### Artículo 71. Registros de personal y Gestión integrada de recursos humanos.
 
@@ -1723,11 +1505,9 @@ CAPÍTULO II
 
 Estructuración del empleo público
 
-
 #### Artículo 72. Estructuración de los recursos humanos.
 
 En el marco de sus competencias de autoorganización, las Administraciones Públicas estructuran sus recursos humanos de acuerdo con las normas que regulan la selección, la promoción profesional, la movilidad y la distribución de funciones y conforme a lo previsto en este capítulo.
-
 
 #### Artículo 73. Desempeño y agrupación de puestos de trabajo.
 
@@ -1737,11 +1517,9 @@ En el marco de sus competencias de autoorganización, las Administraciones Públ
 
 3. Los puestos de trabajo podrán agruparse en función de sus características para ordenar la selección, la formación y la movilidad.
 
-
 #### Artículo 74. Ordenación de los puestos de trabajo.
 
 Las Administraciones Públicas estructurarán su organización a través de relaciones de puestos de trabajo u otros instrumentos organizativos similares que comprenderán, al menos, la denominación de los puestos, los grupos de clasificación profesional, los cuerpos o escalas, en su caso, a que estén adscritos, los sistemas de provisión y las retribuciones complementarias. Dichos instrumentos serán públicos.
-
 
 #### Artículo 75. Cuerpos y escalas.
 
@@ -1750,7 +1528,6 @@ Las Administraciones Públicas estructurarán su organización a través de rela
 2. Los cuerpos y escalas de funcionarios se crean, modifican y suprimen por ley de las Cortes Generales o de las asambleas legislativas de las comunidades autónomas.
 
 3. Cuando en esta ley se hace referencia a cuerpos y escalas se entenderá comprendida igualmente cualquier otra agrupación de funcionarios.
-
 
 #### Artículo 76. Grupos de clasificación profesional del personal funcionario de carrera.
 
@@ -1770,7 +1547,6 @@ C1: Título de Bachiller o Técnico.
 
 C2: Título de Graduado en Educación Secundaria Obligatoria.
 
-
 #### Artículo 77. Clasificación del personal laboral.
 
 El personal laboral se clasificará de conformidad con la legislación laboral.
@@ -1779,7 +1555,6 @@ CAPÍTULO III
 
 Provisión de puestos de trabajo y movilidad
 
-
 #### Artículo 78. Principios y procedimientos de provisión de puestos de trabajo del personal funcionario de carrera.
 
 1. Las Administraciones Públicas proveerán los puestos de trabajo mediante procedimientos basados en los principios de igualdad, mérito, capacidad y publicidad.
@@ -1787,7 +1562,6 @@ Provisión de puestos de trabajo y movilidad
 2. La provisión de puestos de trabajo en cada Administración Pública se llevará a cabo por los procedimientos de concurso y de libre designación con convocatoria pública.
 
 3. Las leyes de Función Pública que se dicten en desarrollo del presente Estatuto podrán establecer otros procedimientos de provisión en los supuestos de movilidad a que se refiere el artículo 81.2, permutas entre puestos de trabajo, movilidad por motivos de salud o rehabilitación del funcionario, reingreso al servicio activo, cese o remoción en los puestos de trabajo y supresión de los mismos.
-
 
 #### Artículo 79. Concurso de provisión de los puestos de trabajo del personal funcionario de carrera.
 
@@ -1801,7 +1575,6 @@ Para la acreditación de estos extremos, reglamentariamente se determinarán los
 
 4. En el caso de supresión o remoción de los puestos obtenidos por concurso se deberá asignar un puesto de trabajo conforme al sistema de carrera profesional propio de cada Administración Pública y con las garantías inherentes de dicho sistema.
 
-
 #### Artículo 80. Libre designación con convocatoria pública del personal funcionario de carrera.
 
 1. La libre designación con convocatoria pública consiste en la apreciación discrecional por el órgano competente de la idoneidad de los candidatos en relación con los requisitos exigidos para el desempeño del puesto.
@@ -1812,7 +1585,6 @@ Para la acreditación de estos extremos, reglamentariamente se determinarán los
 
 4. Los titulares de los puestos de trabajo provistos por el procedimiento de libre designación con convocatoria pública podrán ser cesados discrecionalmente. En caso de cese, se les deberá asignar un puesto de trabajo conforme al sistema de carrera profesional propio de cada Administración Pública y con las garantías inherentes de dicho sistema.
 
-
 #### Artículo 81. Movilidad del personal funcionario de carrera.
 
 1. Cada Administración Pública, en el marco de la planificación general de sus recursos humanos, y sin perjuicio del derecho de los funcionarios a la movilidad podrá establecer reglas para la ordenación de la movilidad voluntaria de los funcionarios públicos cuando considere que existen sectores prioritarios de la actividad pública con necesidades específicas de efectivos.
@@ -1820,7 +1592,6 @@ Para la acreditación de estos extremos, reglamentariamente se determinarán los
 2. Las Administraciones Públicas, de manera motivada, podrán trasladar a sus funcionarios, por necesidades de servicio o funcionales, a unidades, departamentos u organismos públicos o entidades distintos a los de su destino, respetando sus retribuciones, condiciones esenciales de trabajo, modificando, en su caso, la adscripción de los puestos de trabajo de los que sean titulares. Cuando por motivos excepcionales los planes de ordenación de recursos impliquen cambio de lugar de residencia se dará prioridad a la voluntariedad de los traslados. Los funcionarios tendrán derecho a las indemnizaciones establecidas reglamentariamente para los traslados forzosos.
 
 3. En caso de urgente e inaplazable necesidad, los puestos de trabajo podrán proveerse con carácter provisional debiendo procederse a su convocatoria pública dentro del plazo que señalen las normas que sean de aplicación.
-
 
 #### Artículo 82. Movilidad por razón de violencia de género y por razón de violencia terrorista.
 
@@ -1838,11 +1609,9 @@ En todo caso este derecho podrá ser ejercitado en tanto resulte necesario para 
 
 En las actuaciones y procedimientos relacionados con la violencia terrorista se protegerá la intimidad de las víctimas, en especial, sus datos personales, los de sus descendientes y los de cualquier persona que esté bajo su guarda o custodia.
 
-
 #### Artículo 83. Provisión de puestos y movilidad del personal laboral.
 
 La provisión de puestos y movilidad del personal laboral se realizará de conformidad con lo que establezcan los convenios colectivos que sean de aplicación y, en su defecto por el sistema de provisión de puestos y movilidad del personal funcionario de carrera.
-
 
 #### Artículo 84. La movilidad voluntaria entre Administraciones Públicas.
 
@@ -1858,12 +1627,9 @@ Transcurrido el plazo citado sin que se hubiera acordado su adscripción a otro 
 
 De no solicitarse el reingreso al servicio activo en el plazo indicado será declarado de oficio en situación de excedencia voluntaria por interés particular, con efectos desde el día siguiente a que hubiesen cesado en el servicio activo en la Administración de destino.
 
-
 ## TÍTULO VI
 
-
 **Situaciones administrativas**
-
 
 #### Artículo 85. Situaciones administrativas de los funcionarios de carrera.
 
@@ -1887,13 +1653,11 @@ b) Cuando los funcionarios accedan, bien por promoción interna o por otros sist
 
 Dicha regulación, según la situación administrativa de que se trate, podrá conllevar garantías de índole retributiva o imponer derechos u obligaciones en relación con el reingreso al servicio activo.
 
-
 #### Artículo 86. Servicio activo.
 
 1. Se hallarán en situación de servicio activo quienes, conforme a la normativa de función pública dictada en desarrollo del presente Estatuto, presten servicios en su condición de funcionarios públicos cualquiera que sea la Administración u organismo público o entidad en el que se encuentren destinados y no les corresponda quedar en otra situación.
 
 2. Los funcionarios de carrera en situación de servicio activo gozan de todos los derechos inherentes a su condición de funcionarios y quedan sujetos a los deberes y responsabilidades derivados de la misma. Se regirán por las normas de este Estatuto y por la normativa de función pública de la Administración Pública en que presten servicios.
-
 
 #### Artículo 87. Servicios especiales.
 
@@ -1929,7 +1693,6 @@ l)	Cuando sean activados como reservistas voluntarios para prestar servicios en 
 
 4. La declaración de esta situación procederá en todo caso, en los supuestos que se determinen en el presente Estatuto y en las leyes de Función Pública que se dicten en desarrollo del mismo.
 
-
 #### Artículo 88. Servicio en otras Administraciones Públicas.
 
 1. Los funcionarios de carrera que, en virtud de los procesos de transferencias o por los procedimientos de provisión de puestos de trabajo, obtengan destino en una Administración Pública distinta, serán declarados en la situación de servicio en otras Administraciones Públicas. Se mantendrán en esa situación en el caso de que por disposición legal de la Administración a la que acceden se integren como personal propio de ésta.
@@ -1945,7 +1708,6 @@ Se reconoce la igualdad entre todos los funcionarios propios de las comunidades 
 3. Los funcionarios de carrera en la situación de servicio en otras Administraciones Públicas que se encuentren en dicha situación por haber obtenido un puesto de trabajo mediante los sistemas de provisión previstos en este Estatuto, se rigen por la legislación de la Administración en la que estén destinados de forma efectiva y conservan su condición de funcionario de la Administración de origen y el derecho a participar en las convocatorias para la provisión de puestos de trabajo que se efectúen por esta última. El tiempo de servicio en la Administración Pública en la que estén destinados se les computará como de servicio activo en su cuerpo o escala de origen.
 
 4. Los funcionarios que reingresen al servicio activo en la Administración de origen, procedentes de la situación de servicio en otras Administraciones Públicas, obtendrán el reconocimiento profesional de los progresos alcanzados en el sistema de carrera profesional y sus efectos sobre la posición retributiva conforme al procedimiento previsto en los convenios de Conferencia Sectorial y demás instrumentos de colaboración que establecen medidas de movilidad interadministrativa, previstos en el artículo 84 del presente Estatuto. En defecto de tales convenios o instrumentos de colaboración, el reconocimiento se realizará por la Administración Pública en la que se produzca el reingreso.
-
 
 #### Artículo 89. Excedencia.
 
@@ -1999,7 +1761,6 @@ Durante los dos primeros meses de esta excedencia la funcionaria tendrá derecho
 
 Dicha excedencia será autorizada y mantenida en el tiempo en tanto que resulte necesaria para la protección y asistencia social integral de la persona a la que se concede, ya sea por razón de las secuelas provocadas por la acción terrorista, ya sea por la amenaza a la que se encuentra sometida, en los términos previstos reglamentariamente.
 
-
 #### Artículo 90. Suspensión de funciones.
 
 1. El funcionario declarado en la situación de suspensión quedará privado durante el tiempo de permanencia en la misma del ejercicio de sus funciones y de todos los derechos inherentes a la condición. La suspensión determinará la pérdida del puesto de trabajo cuando exceda de seis meses.
@@ -2010,11 +1771,9 @@ Dicha excedencia será autorizada y mantenida en el tiempo en tanto que resulte 
 
 4. Podrá acordarse la suspensión de funciones con carácter provisional con ocasión de la tramitación de un procedimiento judicial o expediente disciplinario, en los términos establecidos en este Estatuto.
 
-
 #### Artículo 91. Reingreso al servicio activo.
 
 Reglamentariamente se regularán los plazos, procedimientos y condiciones, según las situaciones administrativas de procedencia, para solicitar el reingreso al servicio activo de los funcionarios de carrera, con respeto al derecho a la reserva del puesto de trabajo en los casos en que proceda conforme al presente Estatuto.
-
 
 #### Artículo 92. Situaciones del personal laboral.
 
@@ -2022,12 +1781,9 @@ El personal laboral se regirá por el Estatuto de los Trabajadores y por los Con
 
 Los convenios colectivos podrán determinar la aplicación de este capítulo al personal incluido en su ámbito de aplicación en lo que resulte compatible con el Estatuto de los Trabajadores.
 
-
 ## TÍTULO VII
 
-
 **Régimen disciplinario**
-
 
 #### Artículo 93. Responsabilidad disciplinaria.
 
@@ -2038,7 +1794,6 @@ Los convenios colectivos podrán determinar la aplicación de este capítulo al 
 3. Igualmente, incurrirán en responsabilidad los funcionarios públicos o personal laboral que encubrieren las faltas consumadas muy graves o graves, cuando de dichos actos se derive daño grave para la Administración o los ciudadanos.
 
 4. El régimen disciplinario del personal laboral se regirá, en lo no previsto en el presente título, por la legislación laboral.
-
 
 #### Artículo 94. Ejercicio de la potestad disciplinaria.
 
@@ -2059,7 +1814,6 @@ e) Principio de presunción de inocencia.
 3. Cuando de la instrucción de un procedimiento disciplinario resulte la existencia de indicios fundados de criminalidad, se suspenderá su tramitación poniéndolo en conocimiento del Ministerio Fiscal.
 
 Los hechos declarados probados por resoluciones judiciales firmes vinculan a la Administración.
-
 
 #### Artículo 95. Faltas disciplinarias.
 
@@ -2111,7 +1865,6 @@ c) El descrédito para la imagen pública de la Administración.
 
 4. Las leyes de Función Pública que se dicten en desarrollo del presente Estatuto determinarán el régimen aplicable a las faltas leves, atendiendo a las anteriores circunstancias.
 
-
 #### Artículo 96. Sanciones.
 
 1. Por razón de las faltas cometidas podrán imponerse las siguientes sanciones:
@@ -2134,7 +1887,6 @@ g) Cualquier otra que se establezca por ley.
 
 3. El alcance de cada sanción se establecerá teniendo en cuenta el grado de intencionalidad, descuido o negligencia que se revele en la conducta, el daño al interés público, la reiteración o reincidencia, así como el grado de participación.
 
-
 #### Artículo 97. Prescripción de las faltas y sanciones.
 
 1. Las infracciones muy graves prescribirán a los tres años, las graves a los dos años y las leves a los seis meses; las sanciones impuestas por faltas muy graves prescribirán a los tres años, las impuestas por faltas graves a los dos años y las impuestas por faltas leves al año.
@@ -2142,7 +1894,6 @@ g) Cualquier otra que se establezca por ley.
 2. El plazo de prescripción de las faltas comenzará a contarse desde que se hubieran cometido, y desde el cese de su comisión cuando se trate de faltas continuadas.
 
 El de las sanciones, desde la firmeza de la resolución sancionadora.
-
 
 #### Artículo 98. Procedimiento disciplinario y medidas provisionales.
 
@@ -2166,17 +1917,13 @@ El tiempo de permanencia en suspensión provisional será de abono para el cumpl
 
 Cuando la suspensión no sea declarada firme, el tiempo de duración de la misma se computará como de servicio activo, debiendo acordarse la inmediata reincorporación del funcionario a su puesto de trabajo, con reconocimiento de todos los derechos económicos y demás que procedan desde la fecha de suspensión.
 
-
 ## TÍTULO VIII
 
-
 **Cooperación entre las Administraciones Públicas**
-
 
 #### Artículo 99. Relaciones de cooperación entre las Administraciones Públicas.
 
 Las Administraciones Públicas actuarán y se relacionarán entre sí en las materias objeto de este Estatuto de acuerdo con los principios de cooperación y colaboración, respetando, en todo caso, el ejercicio legítimo por las otras Administraciones de sus competencias.
-
 
 #### Artículo 100. Órganos de cooperación.
 
@@ -2194,18 +1941,15 @@ c) Elaborar estudios e informes sobre el empleo público. Dichos estudios e info
 
 4. La Comisión de Coordinación del Empleo Público elaborará sus propias normas de organización y funcionamiento.
 
-
 #### Disposición adicional primera. Ámbito específico de aplicación.
 
 Los principios contenidos en los artículos 52, 53, 54, 55 y 59 serán de aplicación en las entidades del sector público estatal, autonómico y local, que no estén incluidas en el artículo 2 del presente Estatuto y que estén definidas así en su normativa específica.
-
 
 #### Disposición adicional segunda. Aplicación de las disposiciones de este Estatuto a las Instituciones Forales.
 
 1. El presente Estatuto se aplicará a la Comunidad Foral de Navarra en los términos establecidos en el artículo 149.1.18.ª y disposición adicional primera de la Constitución, y en la Ley Orgánica 13/1982, de 10 de agosto, de Reintegración y Amejoramiento del Régimen Foral de Navarra.
 
 2. En el ámbito de la Comunidad Autónoma del País Vasco el presente Estatuto se aplicará de conformidad con la disposición adicional primera de la Constitución, con el artículo 149.1.18.ª de la Constitución y con la Ley Orgánica 3/1979, de 18 de diciembre, por la que se aprueba el Estatuto de Autonomía para el País Vasco. Las facultades previstas en la disposición adicional segunda respecto a los funcionarios con habilitación de carácter estatal serán ostentadas por las Instituciones Forales de sus territorios históricos o por las Instituciones Comunes de la Comunidad Autónoma, en los términos que establezca la normativa autonómica.
-
 
 #### Disposición adicional tercera. Funcionarios públicos propios de las ciudades de Ceuta y Melilla.
 
@@ -2223,16 +1967,13 @@ d) La determinación de las faltas y sanciones disciplinarias leves.
 
 3. Los funcionarios transferidos se regirán por la Ley de Función Pública de la Administración General del Estado y sus normas de desarrollo. No obstante, podrán integrarse como funcionarios propios de la ciudad a la que hayan sido transferidos quedando en la situación administrativa de servicio en otras administraciones públicas.
 
-
 #### Disposición adicional cuarta. Aplicación de este Estatuto a las autoridades administrativas independientes de ámbito estatal.
 
 Lo establecido en el presente Estatuto se aplicará a las autoridades administrativas independientes del ámbito estatal, Entidades de Derecho Público reguladas en los artículos 109 y 110 de la Ley 40/2015, de 1 de octubre, de Régimen Jurídico del Sector Público, en la forma prevista en sus leyes de creación.
 
-
 #### Disposición adicional quinta. Jubilación de los funcionarios.
 
 El Gobierno presentará en el Congreso de los Diputados un estudio sobre los distintos regímenes de acceso a la jubilación de los funcionarios que contenga, entre otros aspectos, recomendaciones para asegurar la no discriminación entre colectivos con características similares y la conveniencia de ampliar la posibilidad de acceder a la jubilación anticipada de determinados colectivos.
-
 
 #### Disposición adicional sexta. Otras agrupaciones profesionales sin requisito de titulación.
 
@@ -2240,28 +1981,23 @@ El Gobierno presentará en el Congreso de los Diputados un estudio sobre los dis
 
 2. Los funcionarios que pertenezcan a estas agrupaciones cuando reúnan la titulación exigida podrán promocionar de acuerdo con lo establecido en el artículo 18 de este Estatuto.
 
-
 #### Disposición adicional séptima. Planes de igualdad.
 
 1. Las Administraciones Públicas están obligadas a respetar la igualdad de trato y de oportunidades en el ámbito laboral y, con esta finalidad, deberán adoptar medidas dirigidas a evitar cualquier tipo de discriminación laboral entre mujeres y hombres.
 
 2. Sin perjuicio de lo dispuesto en el apartado anterior, las Administraciones Públicas deberán elaborar y aplicar un plan de igualdad a desarrollar en el convenio colectivo o acuerdo de condiciones de trabajo del personal funcionario que sea aplicable, en los términos previstos en el mismo.
 
-
 #### Disposición adicional octava.
 
 Los funcionarios de carrera tendrán garantizados los derechos económicos alcanzados o reconocidos en el marco de los sistemas de carrera profesional establecidos por las leyes de cada Administración Pública.
-
 
 #### Disposición adicional novena.
 
 La carrera profesional de los funcionarios de carrera se iniciará en el grado, nivel, categoría, escalón y otros conceptos análogos correspondientes a la plaza inicialmente asignada al funcionario tras la superación del correspondiente proceso selectivo, que tendrán la consideración de mínimos. A partir de aquellos, se producirán los ascensos que procedan según la modalidad de carrera aplicable en cada ámbito.
 
-
 #### Disposición adicional décima. Ámbito de aplicación del artículo 87.3.
 
 Al personal contemplado en el artículo 4 de este Estatuto que sea declarado en servicios especiales o en situación administrativa análoga, se le aplicarán los derechos establecidos en el artículo 87.3 del presente Estatuto en la medida en que dicha aplicación resulte compatible con lo establecido en su legislación específica.
-
 
 #### Disposición adicional undécima. Personal militar que preste servicios en la Administración civil.
 
@@ -2277,7 +2013,6 @@ Su régimen de Seguridad Social será el que les corresponda como militares de c
 
 Cuando se produzca el cese, remoción o supresión del puesto de trabajo de la Administración civil que vinieran desempeñando, deberán reincorporarse a la Administración militar en la situación que les corresponda, sin que les sean de aplicación los criterios existentes en estos supuestos para el personal funcionario civil.
 
-
 #### Disposición adicional duodécima. Mesas de negociación en ámbitos específicos.
 
 1. Para la negociación de las condiciones de trabajo del personal funcionario o estatutario de sus respectivos ámbitos, se constituirán las siguientes Mesas de Negociación:
@@ -2290,21 +2025,17 @@ c) Del personal estatutario de los servicios de Salud, para las cuestiones que d
 
 2. Además de la representación de la Administración General del Estado, constituirán estas Mesas de Negociación, las organizaciones sindicales a las que se refiere el párrafo segundo del artículo 33.1 de este Estatuto, cuya representación se distribuirá en función de los resultados obtenidos en las elecciones a los órganos de representación propios del personal en el ámbito específico de la negociación que en cada caso corresponda, considerados a nivel estatal.
 
-
 #### Disposición adicional decimotercera. Permiso por asuntos particulares por antigüedad.
 
 Las Administraciones Públicas podrán establecer hasta dos días adicionales de permiso por asuntos particulares al cumplir el sexto trienio, incrementándose, como máximo, en un día adicional por cada trienio cumplido a partir del octavo.
-
 
 #### Disposición adicional decimocuarta. Días adicionales de vacaciones por antigüedad.
 
 Cada Administración Pública podrá establecer hasta un máximo de cuatro días adicionales de vacaciones en función del tiempo de servicios prestados por los funcionarios públicos.
 
-
 #### Disposición adicional decimoquinta. Registro de Órganos de Representación del Personal.
 
 Las Administraciones Públicas dispondrán de un Registro de Órganos de Representación del Personal al servicio de las mismas y de sus organismos, agencias, universidades y entidades dependientes en el que serán objeto de inscripción o anotación, al menos, los actos adoptados en su ámbito que afecten a la creación, modificación o supresión de órganos de representación del personal funcionario, estatutario o laboral, la creación modificación o supresión de secciones sindicales, los miembros de dichos órganos y delegados sindicales. Así mismo, serán objeto de anotación los créditos horarios, sus cesiones y liberaciones sindicales que deriven de la aplicación de normas o pactos que afecten a la obligación o al régimen de asistencia al trabajo. La creación de dichos registros se ajustará la normativa vigente en materia de protección de datos de carácter personal.
-
 
 #### Disposición adicional decimosexta. Permiso retribuido para las funcionarias en estado de gestación.
 
@@ -2312,20 +2043,17 @@ Cada Administración Pública, en su ámbito, podrá establecer a las funcionari
 
 En el supuesto de gestación múltiple, este permiso podrá iniciarse el primer día de la semana 35 de embarazo, hasta la fecha de parto.
 
-
 #### Disposición transitoria primera. Garantía de derechos retributivos.
 
 1. El desarrollo del presente Estatuto no podrá comportar para el personal incluido en su ámbito de aplicación, la disminución de la cuantía de los derechos económicos y otros complementos retributivos inherentes al sistema de carrera vigente para los mismos en el momento de su entrada en vigor, cualquiera que sea la situación administrativa en que se encuentren.
 
 2. Si el personal incluido en el ámbito de aplicación del presente Estatuto no se encontrase en la situación de servicio activo, se le reconocerán los derechos económicos y complementos retributivos a los que se refiere el apartado anterior a partir del momento en el que se produzca su reingreso al servicio activo.
 
-
 #### Disposición transitoria segunda. Personal laboral fijo que desempeña funciones o puestos clasificados como propios de personal funcionario.
 
 El personal laboral fijo que a la entrada en vigor de la Ley 7/2007, de 12 de abril, estuviere esté desempeñando funciones de personal funcionario, o pasare a desempeñarlos en virtud de pruebas de selección o promoción convocadas antes de dicha fecha, podrá seguir desempeñándolos.
 
 Asimismo, podrá participar en los procesos selectivos de promoción interna convocados por el sistema de concurso-oposición, de forma independiente o conjunta con los procesos selectivos de libre concurrencia, en aquellos Cuerpos y Escalas a los que figuren adscritos las funciones o los puestos que desempeñe, siempre que posea la titulación necesaria y reúna los restantes requisitos exigidos, valorándose a estos efectos como mérito los servicios efectivos prestados como personal laboral fijo y las pruebas selectivas superadas para acceder a esta condición.
-
 
 #### Disposición transitoria tercera. Entrada en vigor de la nueva clasificación profesional.
 
@@ -2345,7 +2073,6 @@ Grupo E: Agrupaciones Profesionales a que hace referencia la disposición adicio
 
 3. Los funcionarios del Subgrupo C1 que reúnan la titulación exigida podrán promocionar al Grupo A sin necesidad de pasar por el nuevo Grupo B, de acuerdo con lo establecido en el artículo 18 de este Estatuto.
 
-
 #### Disposición transitoria cuarta. Consolidación de empleo temporal.
 
 1. Las Administraciones Públicas podrán efectuar convocatorias de consolidación de empleo a puestos o plazas de carácter estructural correspondientes a sus distintos cuerpos, escalas o categorías, que estén dotados presupuestariamente y se encuentren desempeñados interina o temporalmente con anterioridad a 1 de enero de 2005.
@@ -2356,26 +2083,21 @@ Grupo E: Agrupaciones Profesionales a que hace referencia la disposición adicio
 
 Los procesos selectivos se desarrollarán conforme a lo dispuesto en los apartados 1 y 3 del artículo 61 del presente Estatuto.
 
-
 #### Disposición transitoria quinta. Procedimiento Electoral General.
 
 En tanto se determine el procedimiento electoral general previsto en el artículo 39 del presente Estatuto, se mantendrán con carácter de normativa básica los siguientes artículos de la Ley 9/1987, de 12 de junio, de órganos de representación, determinación de las condiciones de trabajo y participación del personal al servicio de las Administraciones Públicas: 13.2, 13.3, 13.4, 13.5, 13.6, 15, 16, 17, 18, 19, 20, 21, 25, 26, 27, 28 y 29.
-
 
 #### Disposición transitoria sexta. Duración del permiso de paternidad por el nacimiento, acogimiento o adopción de un hijo para el personal funcionario hasta la entrada en vigor de la Ley 9/2009, de 6 de octubre.
 
 Sin perjuicio de lo indicado en el artículo 49, letra c), la duración del permiso de paternidad para el personal funcionario seguirá siendo de quince días hasta que no se produzca la entrada en vigor del artículo 2 de la Ley 9/2009, de 6 de octubre.
 
-
 #### Disposición transitoria séptima. Referencia a los Organismos Reguladores.
 
 Hasta que se produzca la entrada en vigor de la Ley 40/2015, de 1 de octubre, de Régimen Jurídico del Sector Público, las previsiones contenidas en la disposición adicional cuarta de esta ley se entenderán referidas a los organismos reguladores de la disposición adicional décima, 1 de la Ley 6/1997, de 14 de abril, de Organización y Funcionamiento de la Administración General del Estado.
 
-
 #### Disposición transitoria octava. Aplicación del artículo 84.3.
 
 De acuerdo con lo previsto en la disposición final cuarta, las previsiones contenidas en el artículo 84.3 en relación con la forma de proceder en los supuestos de cese en puesto de libre designación, resultarán de aplicación en las Administraciones Públicas en las que se hayan aprobado la correspondiente ley de desarrollo.
-
 
 #### Disposición derogatoria única.
 
@@ -2393,23 +2115,19 @@ e) Del Real Decreto Legislativo 781/1986, de 18 de abril, texto refundido de las
 
 f)	Todas las normas de igual o inferior rango que contradigan o se opongan a lo dispuesto en este Estatuto.
 
-
 #### Disposición final primera. Habilitación competencial.
 
 Las disposiciones de este Estatuto se dictan al amparo del artículo 149.1.18.ª de la Constitución, constituyendo aquellas bases del régimen estatutario de los funcionarios; al amparo del artículo 149.1.7.ª de la Constitución, por lo que se refiere a la legislación laboral, y al amparo del artículo 149.1.13.ª de la Constitución, bases y coordinación de la planificación general de la actividad económica.
 
-
 #### Disposición final segunda.
 
 Las previsiones de esta ley son de aplicación a todas las comunidades autónomas respetando en todo caso las posiciones singulares en materia de sistema institucional y las competencias exclusivas y compartidas en materia de función pública y de autoorganización que les atribuyen los respectivos Estatutos de Autonomía, en el marco de la Constitución.
-
 
 #### Disposición final tercera. Modificación de la Ley 53/1984, de 26 de diciembre, de incompatibilidades del personal al servicio de las Administraciones Públicas.
 
 Se modifica el apartado 1 del artículo 16, que queda redactado de la siguiente forma:
 
 «No podrá autorizarse o reconocerse compatibilidad al personal funcionario, al personal eventual y al personal laboral cuando las retribuciones complementarias que tengan derecho a percibir del apartado b) del artículo 24 del presente Estatuto incluyan el factor de incompatibilidad al retribuido por arancel y al personal directivo, incluido el sujeto a la relación laboral de carácter especial de alta dirección.»
-
 
 #### Disposición final cuarta. Entrada en vigor.
 

@@ -29,7 +29,6 @@ fundamentos_derecho:
 
 # Real Decreto-ley 20/2012, de 13 de julio, de medidas para garantizar la estabilidad presupuestaria y de fomento de la competitividad.
 
-
 **I**
 
 La recesión que comenzó a experimentar la economía española en el año 2008 y la política económica entonces seguida para hacerla frente llevaron a la acumulación de algunos desequilibrios macroeconómicos insostenibles. En la medida en que estos desequilibrios sean solventados solo parcialmente, es inviable la recuperación de una senda de crecimiento estable en nuestro país. Ello se puso de manifiesto a lo largo de 2011, cuando, tras varios trimestres de leve recuperación, la economía española se mostró intensamente vulnerable al deterioro de la zona euro y volvió a sumergirse en un período recesivo.
@@ -55,7 +54,6 @@ Por el lado del gasto este también ha sido el criterio principal en torno al qu
 Desde una perspectiva general, estas medidas dan cumplimiento a buena parte de las Recomendaciones Específicas formuladas por el Consejo Europeo a España en el mes de junio y como colofón al Semestre Europeo: ampliación de las principales bases impositivas, eliminación de desgravaciones y exenciones y sustitución parcial de la imposición sobre el trabajo por imposición indirecta. Por otro lado, todas estas medidas, junto con otras que se prevé adoptar a medio plazo, se incardinarán dentro del Presupuesto Bienal que España presentará a la Comisión Europea durante el verano de 2012 y que constituye otra de las Recomendaciones específicas realizadas a España en materia fiscal. Este presupuesto representará, por lo demás, un documento estratégico de primer orden donde se pondrá de manifiesto la coherencia temporal de las medidas con la senda de la nueva Recomendación de Déficit Excesivo para España y el cuadro macroeconómico asociado a las nuevas proyecciones de crecimiento.
 
 Las medidas estructurales que acompañan a este paquete fiscal no son de menor trascendencia. Todas ellas tienen por fin último abrir nuevos mercados al sector privado y fomentar el desarrollo de la innovación y de nuevos servicios en sectores críticos para el crecimiento de la productividad y la reducción de costes empresariales. Por último, aunque no menos importante, los nuevos pasos en el campo de los servicios profesionales facilitarán la permeabilidad de los distintos nichos de mercado a nuevos competidores y al mismo tiempo garantizará la calidad de estos servicios, reduciendo los márgenes en segmentos tradicionalmente menos expuestos a la competencia y sin embargo cruciales para la configuración de costes en el ejercicio de la actividad empresarial.
-
 
 **II**
 
@@ -111,7 +109,6 @@ Por ello, en base al principio de necesaria solidaridad que debe imperar en esto
 
 En cumplimiento con lo previsto en el artículo 37.1 del EBEP, las medidas incluidas en el Titulo I este Real Decreto-ley han sido llevadas para su negociación a la Mesa General de Negociación de las Administraciones Públicas y en la Mesa General de Negociación de la Administración General del Estado.
 
-
 **III**
 
 En materia de Seguridad Social, el Real Decreto-ley incluye dos medidas para la simplificación y mejora de su régimen de gestión, y su homogeneización con el régimen tributario.
@@ -150,7 +147,6 @@ Así, se suprimen todas las bonificaciones a excepción de las destinadas a la c
 
 Se mantienen igualmente las bonificaciones a la contratación de jóvenes que se constituyan como autónomos, y personas que sustituyen a víctimas de violencia de género y trabajadores en baja por maternidad.
 
-
 **IV**
 
 La Ley 39/2006, de 14 de diciembre, de Promoción de la Autonomía Personal y Atención a las personas en situación de dependencia, aprobada con un amplio consenso entre las fuerzas políticas, supuso un avance en el bienestar de las personas y ha contado con la colaboración de todas las administraciones públicas en su desarrollo.
@@ -174,7 +170,6 @@ La sostenibilidad económica del Sistema para la Autonomía y Atención a la Dep
 Estas medidas de carácter económico persiguen un reequilibrio sostenible del Sistema, garantizando el derecho a la promoción de la autonomía personal y atención a la situación de dependencia.
 
 Finalmente, y con el objeto de simplificar las relaciones de coordinación entre la Administración General del Estado y las Comunidades Autónomas se refunden los anteriores Consejo Territorial del Sistema para la Autonomía y Atención a la Dependencia y la Conferencia Sectorial de Asuntos Sociales en un solo órgano que pasará a denominarse Consejo Territorial de Servicios Sociales y del Sistema para la Autonomía y Atención a la Dependencia.
-
 
 **V**
 
@@ -220,7 +215,6 @@ En segundo lugar, como medida de carácter indefinido, se modifica la limitació
 
 Por último, con carácter exclusivo hasta el 30 de noviembre de 2012, se establece un gravamen especial sobre rentas de fuente extranjera de manera similar al previsto en el reiterado Real Decreto-ley 12/2012, si bien este nuevo gravamen afecta a un mayor volumen de dividendos o a la transmisión de un mayor volumen de participaciones que el allí regulado, con menores requisitos, exigiéndose, en consonancia, un tipo de gravamen superior.
 
-
 **VI**
 
 El Gobierno ha considerado urgente adoptar también otras medidas que refuercen los elementos de competencia en el sector de la distribución minorista, que incrementen la competitividad del sector exterior español y que faciliten el acceso a la financiación de las empresas españolas.
@@ -238,7 +232,6 @@ Por otra parte, el papel de las Agencias de Crédito a la Exportación ha sido o
 Asimismo, se refuerza el apoyo a las operaciones de financiación de la internacionalización de las empresas, dotando de mayor liquidez a la financiación concedida para la exportación. A tal efecto, este real decreto-ley modifica la Ley 24/1988, de 28 de julio, del Mercado de Valores, y la Ley 44/2002, de Medidas de Reforma del Sistema Financiero, con objeto de incorporar al ordenamiento jurídico un nuevo instrumento financiero, la «cédula de internacionalización», que tendrá como activo subyacente créditos de apoyo a la internacionalización de la empresa española, haciendo más atractivo a las entidades financieras la financiación de la actividad exportadora e inversora de las empresas españolas.
 
 De otra parte, la integración de la economía española en la cadena de valor global exige pasar de la promoción de la internacionalización de la empresa española a la promoción de la internacionalización de la economía española. Esto es, además de fomentar exportaciones e inversión en el exterior de empresas domésticas, es preciso apoyar la inversión extranjera en nuestro país. La internacionalización de la economía española en el sentido más amplio redundará en la creación de empleo y riqueza para nuestro país. Por ello, se considera oportuno modificar los fines actuales que tiene el Instituto Español de Comercio Exterior (ICEX), para incorporar la atracción y promoción de inversiones exteriores en España. Con este motivo se modifica también la denominación de dicho Organismo, que pasará a llamarse Entidad Pública Empresarial ICEX España Exportación e Inversiones (ICEX), quedando adscrita al Ministerio de Economía y Competitividad, a través de la Secretaría de Estado de Comercio.
-
 
 **VII**
 
@@ -261,7 +254,6 @@ Asimismo los Planes Estatales de Vivienda regulan ayudas a los promotores de viv
 Debido a los motivos anteriormente expuestos de situación económica se hace necesario reducir el importe de la ayuda abonada por el concepto de Renta Básica de Emancipación de los jóvenes en un 30%, siendo por tanto la cuantía mensual de la ayuda de 147€. Así mismo, se estima que el derecho a la percepción de la ayuda mensual no podrá ser objeto de reactivación en el caso de precisar nueva resolución por considerarse ésta extemporánea.
 
 Por otro lado, esta ayuda a la emancipación y que facilita el pago del alquiler, no será compatible con otras ayudas o subvenciones establecidas en la normativa autonómica.
-
 
 **VIII**
 
@@ -309,7 +301,6 @@ El actual contexto económico exige una respuesta adecuada y coordinada a los co
 
 Por ello, se hace preciso dotar al IDAE de la condición de medio propio instrumental y servicio técnico de la Administración, a los efectos previstos en el artículo 24.6 de texto refundido de la Ley de Contratos del Sector Público, aprobado por Real Decreto Legislativo 3/2011, de 14 de noviembre, para la realización de cuantos trabajos se le encomienden por la Administración General del Estado. Además, para lograr una racionalización del sector público se clarifican sus fines y funciones, de forma que el IDAE se configure como un organismo de promoción de la conservación, diversificación, ahorro y eficiencia energética, en un momento marcado por los compromisos europeos en esta materia.
 
-
 **IX**
 
 Las disposiciones adicionales contienen regímenes jurídicos especiales, relacionados con las materias objeto de regulación, así como situaciones excepcionales que se apartan de la normativa común, como la concesión de beneficios fiscales a la candidatura olímpica de Madrid Igualmente, en materia energética acomete el Real Decreto-ley en sus disposiciones adicionales la reforma del Instituto para la Diversificación y Ahorro de la Energía (IDAE).
@@ -320,15 +311,11 @@ En las medidas que se adoptan en el presente real decreto-ley concurren las circ
 
 En su virtud, haciendo uso de la autorización contenida en el artículo 86 de la Constitución Española, a propuesta de la Vicepresidenta del Gobierno y Ministra de la Presidencia y de los Ministros de Justicia; de Defensa, de Hacienda y Administraciones Públicas; de Fomento, de Educación, Cultura y Deporte; de Empleo y Seguridad Social; de Industria, Energía y Turismo; de Economía y Competitividad; y de Sanidad, Servicios Sociales e Igualdad y previa deliberación del Consejo de Ministros en su reunión del día 13 de julio de 2012,
 
-
 **DISPONGO:**
-
 
 ## TÍTULO I
 
-
 **Medidas de reordenación y racionalización de las Administraciones Públicas**
-
 
 #### Artículo 1. Régimen de incompatibilidades de pensiones indemnizatorias, prestaciones compensatorias y percepciones similares.
 
@@ -341,7 +328,6 @@ A estos efectos se considera también actividad en el sector público la desarro
 3. Quienes cesen en los puestos que tengan prevista las pensiones indemnizatorias, prestaciones compensatorias y cualquier otra percepción económica a que se refieren los apartados 1 y 2 tendrán un plazo de quince días hábiles, a contar desde que concurra la incompatibilidad para comunicar ante la Oficina de Conflictos de Intereses del Ministerio de Hacienda y Administraciones Públicas, en el caso del sector público estatal, o al órgano competente de la Administración autonómica o local, su opción entre la percepción de las mismas o la retribución de la actividad pública o privada que estén desempeñando o, en su caso, percepción de la pensión de jubilación o retiro. La opción por la retribución pública o privada o por la pensión de jubilación o retiro, que se formalizará por escrito para su adecuada constancia, implica la renuncia a la pensiones indemnizatorias, prestaciones compensatorias y cualquier otra percepción económica prevista con ocasión del cese.
 
 4. La presente disposición tiene carácter básico de acuerdo con lo dispuesto en el artículo 149.1.13ª y 156.1 de la Constitución Española.»
-
 
 #### Artículo 2. Paga extraordinaria del mes de diciembre de 2012 del personal del sector público.
 
@@ -369,7 +355,6 @@ La reducción retributiva establecida en el apartado 1 de este artículo será t
 
 7. El presente artículo tiene carácter básico dictándose al amparo de lo dispuesto en los artículos 149.1.13.ª y 156.1 de la Constitución.
 
-
 #### Artículo 3. Paga extraordinaria y adicional o equivalente del mes de diciembre de 2012 del personal del sector público estatal.
 
 1. De acuerdo con lo dispuesto en el artículo 2 de este Real Decreto-ley, el personal funcionario, estatutario y los miembros de las carreras judicial y fiscal incluido en los artículos 26, 28, 29, 30, 31 apartados Uno y Dos, 32 y 35 de la Ley 2/2012, de 29 de junio, de Presupuestos Generales del Estado para el año 2012, no percibirá en el mes de diciembre de 2012 ninguna cuantía ni en concepto de paga extraordinaria ni, en su caso, en concepto de paga adicional de complemento específico o equivalente.
@@ -388,7 +373,6 @@ Al personal incluido en el artículo 31 apartado cuatro, le serán de aplicació
 
 6. Lo dispuesto en los apartados anteriores no será de aplicación a aquellos empleados públicos cuyas retribuciones por jornada completa, excluidos incentivos al rendimiento, no alcancen en cómputo anual 1,5 veces el salario mínimo interprofesional establecido en el Real Decreto 1888/2011, de 30 de diciembre.
 
-
 #### Artículo 4. Paga extraordinaria del mes de diciembre de 2012 de los Altos cargos.
 
 1. A los Altos Cargos del Gobierno de la Nación, de sus órganos consultivos, de los miembros del Consejo General del Poder Judicial, del Tribunal Constitucional y del Tribunal de Cuentas, cuyas retribuciones no contemplan expresamente, entre sus conceptos retributivos, el de paga extraordinaria o equivalente, se les reducirá una catorceava parte de las retribuciones totales anuales que figuran en los artículos 24. Uno y 25 de la Ley 2/2012, de 29 de abril, de Presupuestos Generales del Estado para 2012. La citada minoración se prorrateará entre las nóminas pendientes de percibir en el presente ejercicio a partir de la entrada en vigor de este Real Decreto-Ley.
@@ -399,16 +383,13 @@ Al personal incluido en el artículo 24.Tres de la Ley 2/2012 de Presupuestos Ge
 
 3. Lo dispuesto en este artículo será también de aplicación al Defensor del Pueblo.
 
-
 #### Artículo 5. Cotización al régimen general de Seguridad Social.
 
 A efectos del cálculo de la base de cotización por todas las contingencias de los empleados públicos encuadrados en el Régimen General de la Seguridad Social cuyas retribuciones sean objeto del ajuste previsto en este Real Decreto-ley, en tanto permanezca su relación laboral o de servicio, seguirá siendo de aplicación lo dispuesto en el artículo 120. Dieciséis de la Ley 2/2012, de 29 de junio de Presupuestos Generales del Estado para 2012.
 
-
 #### Artículo 6. Aplicación del artículo 31 del Estatuto de los Trabajadores, aprobado por Real Decreto Legislativo 1/1995, de 24 de marzo, al personal laboral del sector público.
 
 Durante el año 2012, se suprime para el personal laboral del sector público la percepción de la gratificación extraordinaria con ocasión de las fiestas de Navidad contenida en el artículo 31 del Estatuto de los Trabajadores, aprobado por Real Decreto Legislativo 1/1995, de 24 de marzo, y sin perjuicio de lo dispuesto en el artículo 2, apartado 2.2 de este mismo Real Decreto-ley.
-
 
 #### Artículo 7. Modificación del artículo 32 de la Ley 7/2007, de 12 de abril del Estatuto Básico del Empleado Público.
 
@@ -421,7 +402,6 @@ Se añade un párrafo segundo al artículo 32 de la Ley 7/2007, de 12 de abril d
 2. Se garantiza el cumplimiento de los convenios colectivos y acuerdos que afecten al personal laboral, salvo cuando excepcionalmente y por causa grave de interés público derivada de una alteración sustancial de las circunstancias económicas, los órganos de gobierno de las Administraciones Públicas suspendan o modifiquen el cumplimiento de Convenios Colectivos o acuerdos ya firmados en la medida estrictamente necesaria para salvaguardar el interés público.
 
 En este supuesto, las Administraciones Públicas deberán informar a las Organizaciones Sindicales de las causas de la suspensión o modificación.»
-
 
 #### Artículo 8. Modificación de los artículos 48 y 50 de la Ley 7/2007, de 12 de abril, de Estatuto Básico del Empleado Público y medidas sobre días adicionales.
 
@@ -477,7 +457,6 @@ A los efectos de lo previsto en el presente artículo, no se considerarán como 
 
 Tres. Desde la entrada en vigor de este Real Decreto-ley, quedan suspendidos y sin efecto los Acuerdos, Pactos y Convenios para el personal funcionario y laboral, suscritos por las Administraciones Públicas y sus Organismos y Entidades, vinculados o dependientes de las mismas que no se ajusten a lo previsto en este artículo, en particular, en lo relativo al permiso por asuntos particulares, vacaciones y días adicionales a los de libre disposición o de similar naturaleza.
 
-
 #### Artículo 9. Prestación económica en la situación de incapacidad temporal del personal al servicio de las Administraciones Públicas, organismo y entidades dependientes y órganos constitucionales.
 
 1. La prestación económica de la situación de incapacidad temporal del personal al servicio de las Administraciones Públicas y órganos constitucionales se regirá por lo dispuesto en este artículo.
@@ -506,7 +485,6 @@ En ningún caso los funcionarios adscritos a los regímenes especiales de seguri
 
 7. Asimismo, se suspenden los Acuerdos, Pactos y Convenios vigentes que contradigan lo dispuesto en este artículo.
 
-
 #### Artículo 10. Reducción de créditos y permisos sindicales.
 
 1. En el ámbito de las Administraciones Públicas y organismos, entidades, universidades, fundaciones y sociedades dependientes de las mismas, a partir de la entrada en vigor del presente Real Decreto-ley, todos aquellos derechos sindicales, que bajo ese título específico o bajo cualquier otra denominación, se contemplen en los Acuerdos para personal funcionario y estatutario y en los Convenios Colectivos y Acuerdos para el personal laboral suscritos con representantes u organizaciones sindicales, cuyo contenido exceda de los establecidos en el Real Decreto Legislativo 1/1995, de 24 de marzo, por el que se aprueba el Texto Refundido de la Ley del Estatuto de los Trabajadores, la Ley Orgánica 11/1985, de 2 de agosto, de Libertad Sindical, y la Ley 7/2007, de 12 de abril, del Estatuto Básico del Empleado Público, relativos a tiempo retribuido para realizar funciones sindicales y de representación, nombramiento de delegados sindicales, así como los relativos a dispensas totales de asistencia al trabajo y demás derechos sindicales, se ajustarán de forma estricta a lo establecido en dichas normas.
@@ -517,11 +495,9 @@ Todo ello sin perjuicio de los acuerdos que, exclusivamente en el ámbito de las
 
 2. Lo dispuesto en este artículo será de aplicación el 1 de octubre de 2012
 
-
 #### Artículo 11. Jubilación forzosa del personal funcionario incluido en el régimen general de Seguridad Social.
 
 1. Con independencia de la edad legal de jubilación forzosa establecida en el apartado 3 del artículo 67 de la Ley 7/2007, de 12 de abril del Estatuto Básico del Empleado Público, la edad de la jubilación forzosa del personal funcionario incluido en el régimen general de seguridad social será, en todo caso, la que prevean las normas reguladoras de dicho régimen para el acceso a la pensión de jubilación en su modalidad contributiva sin coeficiente reductor por razón de la edad.
-
 
 #### Artículo 12. Determinación de las unidades electorales en la Administración General del Estado.
 
@@ -553,7 +529,6 @@ d) Constituirá, igualmente un único centro de trabajo la totalidad de los esta
 
 4. En todo caso las nuevas unidades electorales entrarán en vigor a partir del 1 de marzo de 2015, fecha en que todos los mandatos en vigor o prorrogados se extinguirán como consecuencia de la elección de los nuevos órganos de representación, elección que deberá producirse en el plazo de 10 meses desde la fecha indicada.
 
-
 #### Artículo 13. Creación del Registro de órganos de representación del personal al servicio de las Administraciones Públicas.
 
 1. Las Administraciones Públicas dispondrán de un Registro de Órganos de Representación del Personal al servicio de las mismas y de sus organismos, agencias, universidades y entidades dependientes en el que serán objeto de inscripción o anotación, al menos, los actos adoptados en su ámbito que afecten a la creación, modificación o supresión de órganos de representación del personal funcionario, estatutario o laboral, la creación modificación o supresión de secciones sindicales, los miembros de dichos órganos y delegados sindicales. Así mismo, serán objeto de anotación los créditos horarios, sus cesiones y liberaciones sindicales que deriven de la aplicación de normas o pactos que afecten a la obligación o al régimen de asistencia al trabajo. La creación de dichos registros se ajustará la normativa vigente en materia de protección de datos de carácter personal.
@@ -582,7 +557,6 @@ En el caso de los delegados sindicales y de los representantes del personal func
 
 7. Por el Ministerio de Hacienda y Administraciones Públicas se podrán adoptar, en el ámbito de sus competencias, cuantas órdenes, instrucciones o disposiciones sean necesarias para el desarrollo y aplicación de lo establecido en este precepto.
 
-
 #### Artículo 14. Unidades electorales, créditos horarios y derechos sindicales en relación con el personal laboral que presta servicios en el exterior al servicio de la Administración General del Estado y sus Organismos Autónomos.
 
 1. El establecimiento de unidades electorales que afecten al personal laboral en el exterior, se regulará por el Estado, dentro del ámbito de sus competencias legislativas.
@@ -597,24 +571,19 @@ La regulación de otros derechos sindicales, permisos o créditos horarios se es
 
 4. Lo dispuesto en este artículo producirá sus efectos desde el 1 de octubre de 2012.
 
-
 #### Artículo 15. Asignación eficiente y evaluación de efectivos en la Administración del Estado.
 
 En el ámbito de la Administración del Estado y los organismos y entes de derecho público dependientes o vinculados de la misma, el Ministerio de Hacienda y Administraciones Públicas adoptará, en el marco del artículo 69.2 del Estatuto Básico del Empleado Público, las medidas y actuaciones requeridas para garantizar la asignación eficiente y la optimización de sus recursos humanos. Igualmente se fijarán sistemas objetivos que permitan evaluar el desempeño de los empleados.
 
 Para ello, por el citado Ministerio se analizará la distribución del personal en los distintos ámbitos de la Administración del Estado y se adoptarán criterios vinculantes de movilidad y asignación de puestos en dicho ámbito, teniendo la competencia para acordar, en su caso, los cambios de adscripción de puestos o redistribución de efectivos, que sean necesarios para una asignación más eficiente y adecuada de los recursos humanos.
 
-
 #### Artículo 16. Suspensión de pactos, acuerdos y convenios.
 
 Se suspenden y quedan sin efecto los acuerdos, pactos y convenios para el personal del sector público definido en el artículo 22 de la Ley 2/2012, de 29 de junio, de Presupuestos generales del Estado, suscritos por las Administraciones públicas y sus organismos y entidades que contengan cláusulas que se opongan a lo dispuesto en el presente título.
 
-
 ## TÍTULO II
 
-
 **Medidas en materia de Seguridad Social y Empleo**
-
 
 #### Artículo 17. Modificación del Texto Refundido de la Ley General de la Seguridad Social, aprobado por Real Decreto Legislativo 1/1994, de 20 de junio.
 
@@ -748,13 +717,11 @@ El Servicio Público de Empleo Estatal y los Servicios Públicos de Empleo auton
 
 Para la aplicación de lo establecido en los párrafos anteriores el Servicio Público de Empleo competente tendrá en cuenta la condición de víctima de violencia de género, a efectos de atemperar, en caso necesario, el cumplimiento de las obligaciones que se deriven del compromiso suscrito».
 
-
 #### Artículo 18. Modificación de la Ley 56/2003, de 16 de diciembre, de Empleo.
 
 El apartado 4 del artículo 27 de la Ley 56/2003, de 16 de diciembre, de Empleo, se modifica del siguiente modo:
 
 «4. Los beneficiarios de prestaciones y subsidios por desempleo inscritos en los servicios públicos de empleo, una vez hayan suscrito el compromiso de actividad, deberán participar en las políticas activas de empleo que se determinen en el itinerario de inserción, sin perjuicio de lo dispuesto en el último párrafo del artículo 231.1 del texto refundido de la Ley General de la Seguridad Social. Las Administraciones públicas competentes verificarán el cumplimiento de las obligaciones derivadas de la inscripción como demandantes de empleo y de la suscripción del compromiso de actividad de los beneficiarios de prestaciones y subsidios por desempleo, debiendo comunicar los incumplimientos de dichas obligaciones al Servicio Público de Empleo Estatal, en el momento en que se produzcan o conozcan. Dicha comunicación podrá realizarse por medios electrónicos y será documento suficiente para que el Servicio Público de Empleo Estatal inicie el procedimiento sancionador que corresponda.»
-
 
 #### Artículo 19. Modificación del texto refundido de la Ley del Estatuto de los Trabajadores, aprobado por el Real Decreto Legislativo 1/1995, de 24 de marzo.
 
@@ -775,7 +742,6 @@ El importe de la indemnización, a los solos efectos de abono por el Fondo de Ga
 Tres. La regla segunda del apartado 3 queda redactada en los siguientes términos:
 
 «Segunda. Las indemnizaciones a abonar a cargo del FOGASA, con independencia de lo que se pueda pactar en el proceso concursal, se calcularán sobre la base de veinte días por año de servicio, con el límite máximo de una anualidad, sin que el salario diario, base del cálculo, pueda exceder del doble del salario mínimo interprofesional, incluyendo la parte proporcional de las pagas extraordinarias.»
-
 
 #### Artículo 20. Modificación del texto refundido de la Ley sobre Infracciones y Sanciones en el Orden Social, aprobado por el Real Decreto Legislativo 5/2000, de 4 de agosto.
 
@@ -801,7 +767,6 @@ Cuatro. Se añade una nueva letra e) al apartado 1 del artículo 47 que queda re
 
 «e) A estos efectos tendrán la consideración de beneficiarios de prestaciones por desempleo los trabajadores desempleados durante el plazo de solicitud de las prórrogas del subsidio por desempleo establecida en el artículo 219.4 de la Ley General de la Seguridad Social, así como durante la suspensión cautelar o definitiva de la prestación o subsidio por desempleo como consecuencia de un procedimiento sancionador o de lo establecido en el artículo 212.3. de dicha Ley.»
 
-
 #### Artículo 21. Se modifica el Real Decreto 1369/2006, de 24 de noviembre, por el que se regula el programa de renta activa de inserción para desempleados con especiales necesidades económicas y dificultad para encontrar empleo.
 
 El Real Decreto 1369/2006, de 24 de noviembre, por el que se regula el programa de renta activa de inserción para desempleados con especiales necesidades económicas y dificultad para encontrar empleo, se modifica en los términos siguientes:
@@ -818,12 +783,9 @@ Dos. La letra c) del apartado 1 del artículo 2 queda redactada en los términos
 
 Este requisito no se exigirá en los supuestos previstos en las letras b) y c) del apartado 2 de este artículo».
 
-
 ## TÍTULO III
 
-
 **Medidas de racionalización del sistema de dependencia**
-
 
 #### Artículo 22. Modificación de la Ley 39/2006, de 14 de diciembre, de Promoción de la Autonomía Personal y Atención a las personas en situación de dependencia.
 
@@ -947,12 +909,9 @@ A partir del 1 de julio de 2015 a quienes hayan sido valorados en el Grado I, ni
 
 «3. El derecho de acceso a las prestaciones derivadas del reconocimiento de la situación de dependencia se generará desde la fecha de la resolución de reconocimiento de las prestaciones o, en su caso, desde el transcurso del plazo de seis meses desde la presentación de la solicitud sin haberse dictado y notificado resolución expresa de reconocimiento de la prestación, salvo cuando se trate de las prestaciones económicas previstas en el artículo 18 que quedarán sujetas a un plazo suspensivo máximo de dos años a contar, según proceda, desde las fechas indicadas anteriormente, plazo que se interrumpirá en el momento en que el interesado empiece a percibir dicha prestación.»
 
-
 ## TÍTULO IV
 
-
 **Medidas fiscales**
-
 
 #### Artículo 23. Modificación de la Ley 37/1992, de 28 de diciembre, del Impuesto sobre el Valor Añadido.
 
@@ -1176,7 +1135,6 @@ Siete. Se añade una disposición transitoria undécima, que queda redactada de 
 
 Los sujetos pasivos revendedores de bienes usados o de bienes muebles, a que se refiere el artículo 136.Uno.5.º de esta Ley, podrán aplicar el régimen especial de los bienes usados, objetos de arte, antigüedades y objetos de colección a las entregas de objetos de arte, adquiridos a empresarios o profesionales, distintos de los revendedores a que se refiere el artículo 136 de la Ley, cuando a dicha adquisición hubiera sido de aplicación un tipo reducido del Impuesto.»
 
-
 #### Artículo 24. Modificación de la Ley 38/1992, de 28 de diciembre, de Impuestos Especiales.
 
 Con efectos desde la entrada en vigor de este Real Decreto-ley se modifica el artículo 60 de la Ley 38/1992, de 28 de diciembre, de Impuestos Especiales, si bien lo dispuesto en su epígrafe 2 resultará de aplicación desde el 1 de septiembre de 2012, que queda redactado de la siguiente forma:
@@ -1207,7 +1165,6 @@ La picadura para liar estará gravada al tipo único de 80 euros por kilogramo c
 
 Epígrafe 4. Las demás labores del tabaco: 28,4 por 100.»
 
-
 #### Artículo 25. Modificación de la Ley 35/2006, de 28 de noviembre, del Impuesto sobre la Renta de las Personas Físicas y de modificación parcial de las leyes de los Impuestos sobre Sociedades, sobre la Renta de no Residentes y sobre el Patrimonio.
 
 Primero. Con efectos desde la entrada en vigor de este Real Decreto-ley se suprime la letra c) de la disposición transitoria decimotercera de la Ley 35/2006, de 28 de noviembre, del Impuesto sobre la Renta de las Personas Físicas y de modificación parcial de las leyes de los Impuestos sobre Sociedades, sobre la Renta de no Residentes y sobre el Patrimonio.
@@ -1233,7 +1190,6 @@ Tres. Se añade una disposición transitoria vigésima tercera, que queda redact
 El porcentaje de retención o ingreso a cuenta aplicable a los rendimientos previstos en el apartado 3 y en la letra a) del apartado 5, ambos del artículo 101 de esta Ley, satisfechos o abonados hasta el 31 de agosto de 2012, será el previsto en dicho artículo, en su redacción vigente a 1 de enero de 2012.
 
 El porcentaje de retención o ingreso a cuenta aplicable a dichos rendimientos que se satisfagan a abonen a partir de 1 de septiembre de 2012 será el previsto en el primer párrafo del apartado 4 de la disposición adicional trigésima quinta de esta Ley, salvo en el supuesto en el que resulte de aplicación el porcentaje del 9 por ciento previsto en el segundo párrafo de la letra a) del apartado 5 del artículo 101 de esta Ley.»
-
 
 #### Artículo 26. Modificaciones relativas al Impuesto sobre Sociedades.
 
@@ -1329,12 +1285,9 @@ En el caso de transmisión de valores representativos de los fondos propios de e
 
 6. El gravamen especial deberá autoliquidarse e ingresarse en el plazo de los 25 días siguientes a la fecha de devengo. El modelo de declaración de este gravamen especial será el aprobado por Orden HAP/1181/2012, de 31 de mayo, por la que se aprueba el modelo 250, Gravamen especial sobre dividendos y rentas de fuente extranjera derivadas de la transmisión de valores representativos de los fondos propios de entidades no residentes en territorio español, que será objeto de adaptación a los efectos previstos en esta disposición.»
 
-
 ## TÍTULO V
 
-
 **Medidas de liberalización comercial y de fomento de la internacionalización empresarial**
-
 
 #### Artículo 27. Modificación de la Ley 1/2004, de 21 de diciembre, de horarios comerciales.
 
@@ -1408,7 +1361,6 @@ Cinco. La disposición adicional segunda queda redactada del siguiente modo:
 
 «Disposición adicional segunda. Libertad de elección de domingos y festivos.
 
-
 #### Artículo 28. Modificación de la Ley 7/1996, de 15 de enero, de ordenación del comercio minorista.
 
 La Ley 7/1996, de 15 de enero, de ordenación del comercio minorista queda modificada como sigue:
@@ -1461,7 +1413,6 @@ Siete. El artículo 31 queda redactado del siguiente modo:
 
 2. No procederá efectuar una nueva liquidación en el mismo establecimiento de productos similares a la anterior en el curso de los tres años siguientes, excepto cuando esta última tenga lugar en ejecución de decisión judicial o administrativa, por cesación total de la actividad o por causa de fuerza mayor.»
 
-
 #### Artículo 29. Modificación de la Ley 10/1970, de 4 de julio, por la que se modifica el régimen del Seguro de Crédito a la Exportación.
 
 La Ley 10/1970, de 4 de julio, por la que se modifica el régimen del Seguro de Crédito a la Exportación queda modificada como sigue:
@@ -1488,13 +1439,11 @@ A los efectos de lo previsto en el párrafo anterior, CESCE podrá otorgar fianz
 
 3. El Estado responderá de las obligaciones asumidas por CESCE por cuenta de aquél, para lo cual las leyes de presupuestos generales del Estado incluirán los créditos necesarios para hacer frente a la cobertura de los riesgos y gastos que se contraigan por cuenta del Estado, siempre y cuando los derechos cobrados y las reservas que, en su caso, se constituyan resultaren insuficientes.»
 
-
 #### Artículo 30. Modificación de la Ley 24/1988, de 28 de julio, del Mercado de Valores.
 
 Se añade una nueva letra l) al artículo 2.1:
 
 «l) Las cédulas de internacionalización.»
-
 
 #### Artículo 31. Modificación de la Ley 44/2002, de 22 de noviembre, de Medidas de Reforma del Sistema Financiero.
 
@@ -1570,7 +1519,6 @@ Sin perjuicio de lo anterior, se atenderán durante el concurso, de acuerdo con 
 
 Noveno. La entidad emisora de las cédulas de internacionalización llevará un registro contable especial de los préstamos y créditos que sirven de garantía a las emisiones de cédulas de internacionalización y, si existen, de los activos de sustitución inmovilizados para darles cobertura, así como de los instrumentos financieros derivados vinculados a cada emisión. Las cuentas anuales de la entidad emisora recogerán, en la forma que reglamentariamente se determine, los datos esenciales de dicho registro.»
 
-
 #### Artículo 32. Modificación del Real Decreto-ley 4/2011, de 8 de abril, de medidas urgentes de impulso a la internacionalización mediante la creación de la entidad pública empresarial Instituto Español de Comercio Exterior (ICEX).
 
 El Real Decreto-ley 4/2011, de 8 de abril, de medidas urgentes de impulso a la internacionalización mediante la creación de la entidad pública empresarial Instituto Español de Comercio Exterior (ICEX), queda modificado como sigue:
@@ -1587,12 +1535,9 @@ Tres. El apartado 1 del artículo 3 queda redactado del siguiente modo:
 
 «1. Constituyen los fines del ICEX ejecutar las acciones que, en el marco de la política económica del Gobierno, tengan como objetivo promover las exportaciones, el apoyo a la internacionalización de la empresa española y la mejora de su competitividad así como la atracción y promoción de inversiones exteriores en España. Las actividades desarrolladas por el ICEX se consideran de interés general.»
 
-
 ## TÍTULO VI
 
-
 **Medidas en materia de infraestructuras, transporte y vivienda**
-
 
 #### Artículo 33. Modificación del Real Decreto-ley 13/2010, de 3 de diciembre, de actuaciones en el ámbito fiscal, laboral y liberalizadoras para fomentar la inversión y la creación de empleo.
 
@@ -1640,7 +1585,6 @@ h) Recabar los datos e información sobre cualesquiera aspectos de la gestión a
 
 i) Desarrollar cuantas funciones se consideren convenientes para incrementar el transporte de pasajeros y la carga aérea, así como cualesquiera otras que le atribuyan las disposiciones adoptadas en materia de aeropuertos de interés general.»
 
-
 #### Artículo 34. Modificación de la Ley 21/2003, de 7 de julio de Seguridad Aérea.
 
 Se modifica el artículo 92 de la Ley 21/2003, de 7 de julio, de Seguridad Aérea, que pasará a tener la siguiente redacción:
@@ -1658,7 +1602,6 @@ A tal efecto se entiende por:
 • Ingresos regulados previstos: Ingresos procedentes de las prestaciones a que se refiere el artículo 68.2, establecidos en el PAP del año n–1
 
 • Ingresos regulados requeridos se calcularán, para el año n, por aplicación de la siguiente fórmula:
-
 
 **Ingresos regulados requeridos = Gastos de explotación + Coste de Capital + Ajuste por déficit**
 
@@ -1700,7 +1643,6 @@ T = Tipo impositivo del Impuesto sobre beneficios (en %) aplicable al año n par
 
 Ke = Coste de los Recursos Propios, calculado de acuerdo a la siguiente fórmula:
 
-
 **Ke = RF+ßL PM**
 
 Donde:
@@ -1726,16 +1668,6 @@ Para la concreción de los anteriores componentes de la fórmula se tendrán en 
 No obstante, con objeto de suavizar el incremento de tarifas, se establece que a partir del año 2014 y durante un periodo de cinco años, para la obtención de los Ingresos Regulados Requeridos, se adicionará al resultado que arroje la fórmula descrita, los Gastos de Explotación generados por las actividades relacionadas con los precios privados de las Áreas Terminales y se deducirán así mismo, los Ingresos correspondientes a los precios privados derivados de dichas Áreas Terminales, afectados ambos por el coeficiente corrector K, que a continuación se detalla en función del año de aplicación:
 
 Coeficiente corrector K
-
-2014
-
-2015
-
-2016
-
-2017
-
-2018
 
 80%
 
@@ -1771,11 +1703,9 @@ Tanto los coeficientes correctores como las bonificaciones propuestas se integra
 
 Los coeficientes correctores, que podrán oscilar entre el 1.30 y el 0.70, y las bonificaciones, que no superarán el 10 por ciento, se aplicarán a las cuantías unitarias de las prestaciones patrimoniales de carácter público definidas en los artículos anteriores. Los coeficientes correctores definitivos para cada aeropuerto y las bonificaciones que, en su caso, procedan se establecerán con carácter anual en la Ley de Presupuestos Generales del Estado.»
 
-
 #### Artículo 35. Plan Estatal de Vivienda y Rehabilitación 2009-2012.
 
 A partir de la entrada en vigor de este Real Decreto-ley quedan suprimidas las ayudas de subsidiación de préstamos contenidas en el Real Decreto 2066/2008, de 12 de diciembre, por el que se regula el Plan Estatal de Vivienda y Rehabilitación 2009-2012. Así mismo no se reconocerán aquellas solicitudes que estén en tramitación y que no hayan sido objeto de concesión por parte de la Comunidad Autónoma.
-
 
 #### Artículo 36. Renta básica de emancipación.
 
@@ -1785,12 +1715,9 @@ Así mismo, los beneficiarios cuya resolución se haya extinguido por alguna de 
 
 2. La percepción de la ayuda para facilitar el pago de los gastos relacionados con el alquiler de la vivienda habitual será incompatible con otras ayudas o subvenciones establecidas para los inquilinos en la normativa autonómica.
 
-
 ## TÍTULO VII
 
-
 **Medidas para la supresión de desajustes entre los costes e ingresos en el sector eléctrico**
-
 
 #### Artículo 37. Establecimiento de medidas en los sistemas eléctricos insulares y extrapeninsulares.
 
@@ -1805,7 +1732,6 @@ b) Se revisa la tasa financiera de retribución para el cálculo de la retribuci
 c) Se reducen en un 10 por ciento los valores unitarios de la anualidad en concepto de operación y mantenimiento fijos a los que hace referencia el apartado 3 del artículo 5 de la Orden ITC/914/2006, de 30 de marzo, actualizados mediante resolución de 7 de marzo de 2011, de la Dirección General de Política Energética y Minas, por la que se publica el valor unitario de garantía de potencia anual GPOTn(i) correspondiente a las instalaciones de generación en régimen ordinario de los sistemas eléctricos insulares y extrapeninsulares para el año 2011.
 
 Se habilita al Ministerio de Industria, Energía y Turismo a revisar tanto la tasa financiera de retribución como los valores unitarios de la anualidad en concepto de operación y mantenimiento fijos a los que se hace referencia en este artículo.
-
 
 #### Artículo 38. Modificación de la Ley 54/1997, de 27 de noviembre, del Sector Eléctrico.
 
@@ -1822,7 +1748,6 @@ Dos. Se modifica el apartado 5 del artículo 18 en los siguientes términos:
 «5. En caso de que las actividades o instalaciones destinadas al suministro eléctrico fueran gravadas, directa o indirectamente, con tributos propios de las Comunidades Autónomas o recargos sobre tributos estatales a la tarifa de último recurso se le incluirá un suplemento territorial que cubrirá la totalidad del sobrecoste provocado por ese tributo o recargo y que deberá ser abonado por los consumidores ubicados en el ámbito territorial de la respectiva Comunidad Autónoma.
 
 En el caso de que los tributos impuestos sean de carácter local y no vengan determinados por normativa estatal, a la tarifa de último recurso se le podrá incluir un suplemento territorial que cubra la totalidad del sobrecoste provocado.»
-
 
 #### Artículo 39. Modificación de la retribución de la actividad de transporte.
 
@@ -1858,7 +1783,6 @@ Total
 
 1.477.452
 
-
 #### Artículo 40. Modificación del Real Decreto 485/2009, de 3 de abril, por el que se regula la puesta en marcha del suministro de último recurso en el sector de la energía eléctrica.
 
 La disposición adicional octava.1 del Real Decreto 485/2009, de 3 de abril, por el que se regula la puesta en marcha del suministro de último recurso en el sector de la energía eléctrica queda redactada en los siguientes términos:
@@ -1869,13 +1793,11 @@ Esta cuantía se recuperará a través de la tarifa eléctrica durante un period
 
 El importe de los intereses será anual, aplicando el EURIBOR a tres meses de la media de las cotizaciones del mes de noviembre del año anterior más un diferencial de 65 puntos básicos al importe a recuperar a 31 de diciembre de cada año.»
 
-
 #### Artículo 41. Modificación del Real Decreto 437/2010, de 9 de abril, por el que se desarrolla la regulación del proceso de titulización del déficit del sistema eléctrico.
 
 El artículo 2.2 a) del Real Decreto 437/2010, de 9 de abril, por el que se desarrolla la regulación del proceso de titulización del déficit del sistema eléctrico, queda redactado en los siguientes términos:
 
 «a) Derechos de Cobro peninsular 2006: El tipo de interés es el EURIBOR a tres meses de la media de las cotizaciones del mes de noviembre del año anterior a la fecha de la actualización.»
-
 
 #### Artículo 42. Tipo de interés definitivo a aplicar a efectos de cálculo del precio de cesión al Fondo de Titulización del Déficit del Sistema Eléctrico.
 
@@ -1883,18 +1805,15 @@ El artículo 2.2 a) del Real Decreto 437/2010, de 9 de abril, por el que se desa
 
 2. No obstante lo anterior, la diferencia existente entre el citado precio de cesión al Fondo de Titulización del Déficit del Sistema Eléctrico y el que hubiera resultado de aplicar el tipo de interés establecido en la disposición adicional octava del Real Decreto 485/2009, de 3 de abril, tendrá la consideración de coste liquidable del sistema a efectos de lo previsto en el Real Decreto 2017/1997, de 26 de diciembre, por el que se organiza y regula el procedimiento de liquidación de los costes de transporte, distribución y comercialización a tarifa, de los costes permanentes del sistema y de los costes de diversificación y seguridad de abastecimiento.
 
-
 #### Disposición adicional primera. Medidas en relación con los trabajadores de las empresas de servicios contratadas por la Administración.
 
 Los entes, organismos y entidades que forman parte del sector público de acuerdo con el artículo 3.1 del texto refundido de la Ley de Contratos del Sector Público, aprobado por Real Decreto legislativo 3/2011, de 14 de noviembre, dictarán en sus respectivos ámbitos de competencias las instrucciones pertinentes para la correcta ejecución de los servicios externos que hubieran contratado, de manera que quede clarificada la relación entre los gestores de la Administración y el personal de la empresa contratada, evitando, en todo caso, actos que pudieran considerarse como determinantes para el reconocimiento de una relación laboral, sin perjuicio de las facultades que la legislación de contratos del sector público reconoce al órgano de contratación en orden a la ejecución de los contratos. A tal fin lo citados entes, organismos y entidades dictarán antes del 31 de diciembre de 2012 las instrucciones pertinentes para evitar actuaciones que pudieran considerarse como determinantes para el reconocimiento de una relación laboral.
 
 En el supuesto de que en virtud de sentencia judicial los trabajadores de las empresas se convirtieran en personal laboral de la Administración, el salario a percibir será el que corresponda a su clasificación profesional de acuerdo con el convenio colectivo aplicable al personal laboral de la Administración, siendo necesario informe favorable de los órganos competentes para hacer cumplir las exigencias de las leyes presupuestarias.
 
-
 #### Disposición adicional segunda. Suspensiones o modificaciones de convenios colectivos, pactos y acuerdos que afecten al personal laboral por alteración sustancial de las circunstancias económicas.
 
 A los efectos de lo previsto en el artículo 32 y 38.10 del Estatuto Básico del Empleado Público se entenderá que concurre causa grave de interés público derivada de la alteración sustancial de las circunstancias económicas cuando las Administraciones Públicas deban adoptar medidas o planes de ajuste, de requilibrio de las cuentas públicas o de carácter económico financiero para asegurar la estabilidad presupuestaria o la corrección del déficit público.
-
 
 #### Disposición adicional tercera. Obligaciones de remisión de información en materia de personal.
 
@@ -1904,18 +1823,15 @@ Por parte del Ministerio de Hacienda y Administraciones públicas se determinar�
 
 Lo dispuesto en la presente disposición adicional tiene carácter básico y se dicta al amparo de lo dispuesto en los artículos 149.1.13ª y 156.1 de la Constitución.
 
-
 #### Disposición adicional cuarta. Aplicación del Título I del presente Real Decreto-ley a los Poderes Públicos.
 
 De acuerdo con lo previsto en el artículo 1.1 de la Ley Orgánica 2/2012, de 27 de abril, de Estabilidad Presupuestaria y Sostenibilidad Financiera, según el cual los principios rectores establecidos en la misma vinculan a todos los poderes públicos y, en aplicación, en particular, del principio de transparencia regulado en el artículo 6 de la misma, los órganos constitucionales o estatutarios a los que no les resulten de aplicación directa las medidas establecidas en el presente real decreto-ley en atención a su autonomía, remitirán información sobre las iniciativas emprendidas, en su caso, por los mismos para el cumplimiento de las medidas de racionalización previstas en el Título I de este Real Decreto-ley, tanto para los miembros de los citados órganos como para el personal que preste sus servicios en los mismos.
-
 
 #### Disposición adicional quinta. Posibilidad de que los funcionarios de la Administración General del Estado pertenecientes a los Subgrupos A1 y A2 soliciten la reducción, a petición propia, del complemento específico.
 
 1. Los funcionarios de la Administración General del Estado pertenecientes a los Subgrupos A1 y A2, incluidos en el ámbito de aplicación del Real Decreto 598/1985, de 30 de abril, podrán solicitar ante las órganos y unidades de personal con competencias en materia de personal de los Departamentos, Organismos Autónomos y Entidades gestoras de la Seguridad Social en los que estén destinados la reducción del importe del complemento específico correspondiente al puesto que desempeñan al objeto de adecuarlo al porcentaje al que se refiere el artículo 16.4 de la Ley 53/1984, de 26 de diciembre, de Incompatibilidades del Personal al Servicio de las Administraciones Públicas.
 
 2. Se excluye de esta posibilidad a los funcionarios que ocupen puestos en Gabinetes de miembros del Gobierno y altos cargos de la Administración General del Estado, a los que desempeñen puestos que tengan asignado complemento de destino de nivel 30 y 29.
-
 
 #### Disposición adicional sexta. Adecuación para los miembros de las Fuerzas Armadas y de la Guardia Civil.
 
@@ -1925,13 +1841,11 @@ De acuerdo con lo previsto en el artículo 1.1 de la Ley Orgánica 2/2012, de 27
 
 Si la insuficiencia se hubiera producido en acto de servicio o como consecuencia de una hospitalización o intervención quirúrgica la retribución a percibir podrá ser complementada, desde el primer día, hasta alcanzar, como máximo el 100% de las retribuciones que vinieran correspondiendo a dicho personal en el mes anterior al de causarse la insuficiencia.
 
-
 #### Disposición adicional séptima. Prestaciones económicas para cuidados en el entorno familiar y apoyo a cuidadores no profesionales previstas en el artículo 18 de la Ley 39/2006, de 14 de diciembre, reconocidas y no percibidas.
 
 1. Desde la fecha de entrada en vigor de este real decreto-ley, las prestaciones económicas para cuidados en el entorno familiar y apoyo a cuidadores no profesionales previstas en el artículo 18 de la Ley 39/2006, de 14 de diciembre, dejarán de producir efectos retroactivos para aquellas personas que a dicha fecha no hayan comenzado a percibir todavía las prestaciones económicas reconocidas a su favor, quienes conservarán, en todo caso, el derecho a percibir las cuantías que, en concepto de efectos retroactivos, hayan sido ya devengadas hasta dicho momento.
 
 2. A partir de la fecha de entrada en vigor de este real decreto-ley, las prestaciones económicas para cuidados en el entorno familiar y apoyo a cuidadores no profesionales previstas en el artículo 18 de la Ley 39/2006, de 14 de diciembre, reconocidas a favor de las personas mencionadas en el apartado anterior quedarán sujetas a un plazo suspensivo máximo de dos años a contar desde la fecha de la resolución de reconocimiento de la prestación o, en su caso, desde el transcurso del plazo de seis meses desde la presentación de la solicitud sin haberse dictado y notificado resolución expresa de reconocimiento de la prestación, plazo que se interrumpirá en el momento en que el interesado empiece a percibir dicha prestación.
-
 
 #### Disposición adicional octava. Régimen de los convenios especiales en el Sistema de la Seguridad Social de los cuidadores no profesionales de las personas en situación de dependencia.
 
@@ -1941,7 +1855,6 @@ Si la insuficiencia se hubiera producido en acto de servicio o como consecuencia
 
 3. Estos convenios especiales surtirán efectos desde la fecha de la solicitud de suscripción del convenio especial.
 
-
 #### Disposición adicional novena. Constitución del Consejo Territorial de Servicios Sociales y del Sistema para la Autonomía y Atención a la Dependencia.
 
 1. En el plazo máximo de seis meses desde la entrada en vigor del presente real decreto-ley deberá constituirse el Consejo Territorial de Servicios Sociales y del Sistema para la Autonomía y Atención a la Dependencia regulado en el artículo 8 de la Ley 39/2006, de 14 de diciembre.
@@ -1950,20 +1863,17 @@ El Consejo Territorial de Servicios Sociales y del Sistema para la Autonomía y 
 
 2. Queda suprimida la Conferencia Sectorial de Asuntos Sociales.
 
-
 #### Disposición adicional décima. Referencias a la denominación de determinados órganos.
 
 1. Las referencias que en la Ley 39/2006, de 14 de diciembre, se realizan al Ministerio de Trabajo y Asuntos Sociales y a su titular, se entenderán realizadas al Ministerio de Sanidad, Servicios Sociales e Igualdad y a su titular. Asimismo, las referencias al titular de la Secretaría de Estado de Servicios Sociales, Familias y Discapacidad, se entenderán realizadas al titular de la Secretaría de Estado de Servicios Sociales e Igualdad.
 
 2. Las referencias contenidas en la legislación vigente al Consejo Territorial del Sistema para la Autonomía y Atención a la Dependencia y a la Conferencia Sectorial de Asuntos Sociales se entenderán realizadas al Consejo Territorial de Servicios Sociales y del Sistema para la Autonomía y Atención a la Dependencia.
 
-
 #### Disposición adicional undécima. Declaración de zonas de gran afluencia turística en los municipios que reuniesen en 2011 los requisitos del artículo 5.5 de la Ley 1/2004, de 21 de diciembre, de Horarios Comerciales, en la redacción dada por este real decreto-ley.
 
 1. En el plazo de seis meses desde la entrada en vigor de este real decreto-ley, las Comunidades Autónomas declararán al menos una zona de gran afluencia turística en los municipios con más de 200.000 habitantes que hayan registrado más de 1.000.000 de pernoctaciones en el año 2011 o que cuenten con puertos en los que operen cruceros turísticos que hayan recibido en 2011 más de 400.000 pasajeros. La declaración de zonas de gran afluencia turística se hará teniendo en cuenta los criterios establecidos en el artículo 5.4 de la Ley 1/2004, de 21 de diciembre.
 
 2. A los efectos de lo establecido en el apartado anterior, los municipios de más de 200.000 habitantes, de elevada ocupación hotelera o elevado número de pasajeros en cruceros turísticos, se recogen en el anexo.
-
 
 #### Disposición adicional duodécima. Fines y funciones del Instituto para la Diversificación y Ahorro de la Energía.
 
@@ -1977,13 +1887,11 @@ c) Desarrollar las funciones de medio propio instrumental y servicio técnico de
 
 d) Cualesquiera otras funciones que se le atribuya legal o reglamentariamente.
 
-
 #### Disposición adicional decimotercera. Régimen de contratación del IDAE.
 
 1. El régimen de contratación del IDAE será el previsto en el Real Decreto Legislativo 3/2011, de 14 de noviembre, por el que se aprueba el texto refundido de la Ley de Contratos del Sector Público.
 
 2. El IDAE, en los términos que prevean sus estatutos, tendrá la consideración de medio propio instrumental y servicio técnico de la Administración a los efectos previstos en el artículo 24.6 del texto refundido de la Ley de Contratos del Sector Público, aprobado por Real Decreto Legislativo 3/2011, de 14 de noviembre, para la realización de cuantos trabajos se le encomienden por la Administración General del Estado y los organismos y entidades dependientes de ella, que tengan la consideración de poder adjudicador, en todo lo relacionado con sus fines y funciones, estando obligado a realizar los trabajos que le encomienden de acuerdo con las instrucciones fijadas por el encomendante.
-
 
 #### Disposición adicional decimocuarta. Progresividad en los peajes de acceso a las redes.
 
@@ -1991,16 +1899,13 @@ Se habilita al Ministro de Industria, Energía y Turismo a establecer criterios 
 
 En la determinación de estos criterios se tendrá en cuenta el consumo medio de los puntos de suministro, sin que se vean afectados los consumidores vulnerables.
 
-
 #### Disposición adicional decimoquinta. Suplementos territoriales de aplicación a peajes de acceso y tarifa de último recurso.
 
 Se habilita al Ministro de Industria, Energía y Turismo a determinar, previo Acuerdo de la Comisión Delegada del Gobierno para Asuntos Económicos, los concretos tributos y recargos que serán considerados a efectos de la aplicación del suplemento territorial a los peajes de acceso y tarifas de último recurso, de acuerdo con lo establecido en los artículos 17 y 18 de la Ley 54/1997, de 27 de noviembre, del Sector Eléctrico, así como los mecanismos necesarios para su gestión y liquidación
 
-
 #### Disposición adicional decimosexta. Aplicación de la disposición adicional sexta de la Ley 2/2012, de 29 de junio, de Presupuestos Generales del Estado para el año 2012.
 
 A los efectos de la aplicación de la disposición adicional sexta de la Ley 2/2012, de 29 de junio, de Presupuestos Generales del Estado para el año 2012, la consideración de los porcentajes de cesión a favor de las entidades locales incluidas en el modelo de cesión de impuestos estatales, citados en los apartados Uno y Tres de dicha disposición, a efectos de calcular la liquidación definitiva correspondiente al año 2010, se deberán entender de aplicación exclusiva para determinar la cesión del Impuesto sobre la Renta de las Personas Físicas. Por lo que se refiere a la citada liquidación de la cesión de los impuestos indirectos serán de aplicación los porcentajes de cesión establecidos en los artículos 93, 94, 95, 101, 102 y 103 de la Ley 26/2009, de 23 de diciembre, de Presupuestos Generales del Estado para el año 2010.»
-
 
 #### Disposición adicional decimoséptima. Beneficios fiscales aplicables a la «Candidatura de Madrid 2020».
 
@@ -2014,7 +1919,6 @@ Cuatro. Las actuaciones a realizar serán las que aseguren el adecuado desarroll
 
 Cinco. Los beneficios fiscales de este programa serán los máximos establecidos en el artículo 27.3 de la citada Ley 49/2002.
 
-
 #### Disposición adicional decimoctava. Incapacidad temporal en la Administración del Estado.
 
 Al personal funcionario y laboral de la Administración General del Estado y organismos y entidades de ellas dependientes acogidos al Régimen General de la Seguridad Social se le reconocerán los siguientes complementos en los supuestos de incapacidad temporal:
@@ -2027,33 +1931,25 @@ La Administración del Estado determinará respecto a su personal, los supuestos
 
 3.ª La presente disposición surtirá efectos en los procesos de incapacidad temporal que tengan inicio transcurridos tres meses desde la entrada en vigor de esta norma.
 
-
 #### Disposición transitoria primera.
 
 Lo dispuesto en este Real Decreto-ley sobre vacaciones y días de asuntos particulares, días adicionales a los días de libre disposición o de similar naturaleza, no impedirá que el personal funcionario, estatutario y laboral disfrute los días correspondientes al año 2012, conforme a la normativa vigente hasta la entrada en vigor de este Real Decreto-ley.
 
 Igualmente, lo dispuesto en este Real Decreto-ley no será de aplicación a los empleados públicos que a su entrada en vigor, se encuentren en la situación de incapacidad temporal.
 
-
 #### Disposición transitoria segunda.
-
-Todos aquellos que en el momento de la entrada en vigor de la presente Ley estén percibiendo alguna de las pensiones indemnizatorias, prestaciones compensatorias y cualquier otra percepción económica a que se refiere el artículo 1 o tuvieran reconocida normativamente tal posibilidad tendrán un plazo de quince días hábiles a contar desde la fecha de publicación de esta Ley en el Boletín Oficial del Estado para comunicar a los órganos a que se refiere el apartado3 del artículo 1, su opción entre la percepción de la misma o la retribución de la actividad pública o privada que estén desempeñando o, en su caso, percepción de la pensión de jubilación o retiro. Una vez recibida dicha comunicación, la Oficina de Conflictos de Intereses o el órgano competente de la Administración autonómica o local, la remitirá al centro pagador para que en el caso de que el interesado opte por percibir las retribuciones correspondientes al puesto público o privado que vaya a desempeñar o, en su caso, percepción de la pensión de jubilación o retiro, deje de abonarle las citadas pensiones indemnizatorias, prestaciones compensatorias y cualquier otra percepción económica. A falta de opción en el plazo señalado, se entenderá que el interesado renuncia a percibir las pensiones indemnizatorias, prestaciones compensatorias y cualquier otra percepción económica a que se refiere el artículo 1 optando por percibir la retribución correspondiente al cargo o actividad que ejerza en la actualidad o, en su caso, la pensión de jubilación o retiro.
-
 
 #### Disposición transitoria tercera.
 
 La derogación del apartado 4 del artículo 214 del texto refundido de la Ley General de la Seguridad Social prevista en este Real Decreto-ley será de aplicación a las prestaciones por desempleo cuyo nacimiento del derecho derive de situaciones legales de desempleo producidas a partir de la entrada en vigor de esta norma.
 
-
 #### Disposición transitoria cuarta.
 
 Sin perjuicio de la derogación del apartado 1.4 del artículo 215 del texto refundido de la Ley General de la Seguridad Social prevista en este Real Decreto-ley, dicho apartado mantendrá su aplicación para los desempleados mayores de cuarenta y cinco años que hubieran agotado la prestación por desempleo de nivel contributivo de setecientos veinte días antes de la entrada en vigor de este Real Decreto- ley.
 
-
 #### Disposición transitoria quinta.
 
 Los trabajadores que, por aplicación del artículo 218 del texto refundido de la Ley General de la Seguridad Social, tuvieran fijada como base de cotización, durante la percepción del subsidio por desempleo, el 125 por cien del tope mínimo de cotización vigente en cada momento, pasaran a tener como base de cotización el 100 por cien de ese tope mínimo a partir del día primero del mes siguiente al de la entrada en vigor de este Real Decreto Ley.
-
 
 #### Disposición transitoria sexta. Supresión del derecho a la aplicación de bonificaciones.
 
@@ -2087,11 +1983,9 @@ k) Artículo 9 de la Ley 40/2003, de 18 de noviembre, de Protección a las Famil
 
 l) La disposición adicional trigésima del Real Decreto Legislativo 1/1994, de 20 de junio, por el que se aprueba el texto refundido de la Ley General de la Seguridad Social.
 
-
 #### Disposición transitoria séptima. Salarios de tramitación.
 
 La reforma del régimen de los salarios de tramitación contenida en este Real Decreto-ley será de aplicación a los expedientes de reclamación al Estado de salarios de tramitación en los que no haya recaído sentencia firme de despido a la fecha de entrada en vigor del presente Real Decreto-ley.
-
 
 #### Disposición transitoria octava. Grado y nivel de dependencia de los beneficiarios reconocidos con anterioridad a la entrada en vigor de este real decreto-ley.
 
@@ -2099,11 +1993,9 @@ Quienes, con anterioridad a la entrada en vigor de este real decreto-ley, tengan
 
 No obstante, en caso de revisión del grado y nivel de dependencia que tuvieran reconocido, la valoración resultante se adaptará a la nueva estructura de grados recogida en el artículo 26 de la Ley 39/2006, de 14 de diciembre.
 
-
 #### Disposición transitoria novena. Solicitudes de reconocimiento de la situación de dependencia pendientes de resolución a la entrada en vigor de este real decreto-ley.
 
 En el caso de aquellas personas que hayan presentado una solicitud de reconocimiento de la situación de dependencia con anterioridad a la entrada en vigor de este real decreto-ley que se encuentre pendiente de resolución a esa fecha, el derecho de acceso a las prestaciones económicas para cuidados en el entorno familiar y apoyo a cuidadores no profesionales previstas en el artículo 18 de la Ley 39/2006, de 14 de diciembre, derivadas del reconocimiento de dicha situación estarán sujetas a un plazo suspensivo máximo de dos años a contar desde la fecha de la resolución de reconocimiento de las prestaciones o, en su caso, desde el transcurso del plazo de seis meses desde la presentación de la solicitud sin haberse dictado y notificado resolución expresa de reconocimiento de la prestación, plazo que se interrumpirá en el momento en que el interesado empiece a percibir dicha prestación.
-
 
 #### Disposición transitoria décima. Cuantías máximas de las prestaciones económicas por cuidados en el entorno familiar, de asistencia personal y de la prestación vinculada al servicio.
 
@@ -2169,7 +2061,6 @@ Grado I
 
 3. Estas cuantías tendrán efectividad a partir del día primero del mes siguiente a la entrada en vigor de este real decreto-ley.
 
-
 #### Disposición transitoria undécima. Aportación de la Administración General del Estado para la financiación del nivel mínimo de protección.
 
 1. Hasta tanto se regule reglamentariamente, las cuantías de la asignación a las comunidades autónomas del nivel mínimo de protección previsto en el artículo 9 de la Ley 39/2006, de 14 de diciembre, para los beneficiarios que tengan resolución de grado y nivel de dependencia reconocido a la entrada en vigor de este real decreto-ley, serán las siguientes:
@@ -2218,7 +2109,6 @@ Grado I Dependencia Moderada
 
 3. Estas cuantías tendrán efectividad a partir del día primero del mes siguiente a la entrada en vigor de este real decreto-ley.
 
-
 #### Disposición transitoria duodécima. Intensidad de protección de los servicios del catálogo.
 
 1. Hasta tanto se desarrolle reglamentariamente, en los procedimientos iniciados con anterioridad a la entrada en vigor de este real decreto-ley en los que no haya recaído resolución administrativa de reconocimiento de prestaciones así como en los procedimientos iniciados con posterioridad a dicha fecha, las intensidades de protección de los servicios establecidas para cada grado de dependencia serán las siguientes:
@@ -2231,7 +2121,6 @@ Grado I Dependencia Moderada
 
 2. En los procedimientos en los que haya recaído resolución de reconocimiento de prestaciones con anterioridad a la entrada en vigor de este real decreto-ley, las administraciones competentes podrán realizar las adaptaciones necesarias para adecuarlos a lo establecido en el párrafo anterior.
 
-
 #### Disposición transitoria decimotercera. Convenios especiales en el Sistema de la Seguridad Social de los cuidadores no profesionales de las personas en situación de dependencia existentes a la fecha de entrada en vigor de este real decreto-ley.
 
 Los convenios especiales en el Sistema de la Seguridad Social de los cuidadores no profesionales de las personas en situación de dependencia previstos en el Real Decreto 615/2007, de 11 de mayo, por el que se regula la Seguridad Social de los cuidadores de las personas en situación de dependencia, existentes a la fecha de entrada en vigor de este real decreto-ley, se extinguirán el día 31 de agosto de 2012, salvo que el suscriptor solicite expresamente el mantenimiento del mismo con anterioridad al día 1 de noviembre de 2012, en cuyo caso se entenderá subsistente dicho convenio desde el día 1 de septiembre de 2012.
@@ -2240,18 +2129,15 @@ En este último caso, desde el día 1 de septiembre hasta el 31 de diciembre de 
 
 A partir del día 1 de enero de 2013, el convenio especial será a cargo exclusivamente del cuidador no profesional.
 
-
 #### Disposición transitoria decimocuarta. Vigencia transitoria de los calendarios de 2012.
 
 Continuarán vigentes, hasta el 31 de diciembre de 2012, los calendarios de domingos y festivos, ya aprobados, en que los comercios podrán permanecer abiertos al público.
 
 Asimismo, los calendarios que regulen el periodo estival de rebajas de 2012 mantendrán su vigencia durante el periodo en ellos establecido.
 
-
 #### Disposición transitoria decimoquinta.
 
 Las previsiones contenidas en el artículo 10 relativas a las prestaciones económicas en la situación de incapacidad temporal del personal al servicio de las Administraciones Púbicas acogido al Régimen General de la Seguridad Social serán desarrolladas por cada Administración Pública en el plazo de tres meses desde la publicación de este Real Decreto-ley, plazo a partir del cual surtirá efectos en todo caso.
-
 
 #### Disposición derogatoria única. Derogación normativa.
 
@@ -2297,7 +2183,6 @@ d) La Disposición Adicional Sexta de la Ley 26/2009, de 23 de diciembre, de Pre
 
 6. Asimismo, quedan derogadas cuantas disposiciones de igual o inferior rango se opongan a lo establecido en este real decreto-ley.
 
-
 #### Disposición final primera. Modificación del Real Decreto-ley 8/2010, de 20 de mayo, por el que se adoptan medidas extraordinarias para la reducción del déficit público.
 
 Se modifica la disposición adicional sexta del Real Decreto-ley 8/2010, de 20 de mayo, por el que se adoptan medidas extraordinarias para la reducción del déficit público, que quedará redactada como sigue:
@@ -2306,16 +2191,13 @@ Se modifica la disposición adicional sexta del Real Decreto-ley 8/2010, de 20 d
 
 Las cuantías en concepto de efectos retroactivos de las prestaciones económicas previstas en el artículo 18 de la Ley 39/2006, de 14 de diciembre, de Promoción de la Autonomía Personal y Atención a las personas en situación de dependencia, para los casos en que los mismos se hayan generado desde la fecha de la solicitud, podrán ser aplazadas y su abono periodificado en pagos anuales de igual cuantía, en un plazo máximo de ocho años desde la fecha de la resolución firme de reconocimiento expreso de la prestación, si así se acuerda por las administraciones competentes. El aplazamiento deberá ser notificado a la persona beneficiaria de la prestación y a la Administración General del Estado a los efectos de que por ésta se regularice su pago a la comunidad autónoma en lo que respecta al nivel mínimo.»
 
-
 #### Disposición final segunda. Revisión de los umbrales a efectos de la declaración de las zonas de gran afluencia turística.
 
 El Gobierno podrá revisar, por razones de política económica, los umbrales establecidos en el artículo 5.5 de la Ley 1/2004, de 21 de diciembre, de horarios comerciales, en la redacción dada por este real decreto-ley, para la declaración de la relación de municipios en los que deben declararse zonas de gran afluencia turística a los efectos de aperturas comerciales.
 
-
 #### Disposición final tercera. Adaptación de los calendarios comerciales de las Comunidades Autónomas.
 
 Desde la entrada en vigor de este real decreto-ley, las Comunidades Autónomas pondrán en marcha los procedimientos necesarios para adaptar los calendarios de domingos y festivos en que los comercios podrán permanecer abiertos al público, a partir de 2013, de acuerdo con lo dispuesto en el artículo 4 de la Ley 1/2004, de 21 de diciembre, de Horarios Comerciales, en la redacción dada por este real decreto-ley.
-
 
 #### Disposición final cuarta. Títulos competenciales.
 
@@ -2335,7 +2217,6 @@ Los artículos 35 y 36, en virtud de lo dispuesto en el artículo 149.1 13 de la
 
 El Título VII del presente real decreto-ley tiene carácter básico al dictarse al amparo de las competencias que corresponden al Estado en el artículo 149.1.13ª y 25ª de la Constitución Española, que atribuye al Estado la competencia exclusiva para determinar las bases y coordinación de la planificación general de la actividad económica y las bases del régimen minero y energético, respectivamente.
 
-
 #### Disposición final quinta. Habilitación normativa y desarrollo reglamentario.
 
 1. Se autoriza al Gobierno para que, en el ámbito de sus competencias, dicte las disposiciones reglamentarias necesarias para el desarrollo y aplicación de este real decreto-ley.
@@ -2344,23 +2225,19 @@ El Título VII del presente real decreto-ley tiene carácter básico al dictarse
 
 3. Las Administraciones públicas competentes promoverán las disposiciones normativas que resulten necesarias para dar cumplimiento a lo dispuesto en este real decreto-ley.
 
-
 #### Disposición final sexta. Aplicación de lo dispuesto en los artículos 2 y 3.3 de este Real Decreto-ley.
 
 Se habilita al Gobierno para que, a propuesta del Ministro de Hacienda y Administraciones Públicas, proceda a adaptar la aplicación de lo previsto en los artículos 1 y 2.2 de este Real Decreto-Ley respecto de las pagas extraordinarias a lo que disponga la modificación de la Ley Orgánica 6/1985, de 1 de julio, del Poder Judicial.
 
-
 #### Disposición final séptima. Modificación de disposiciones reglamentarias.
 
 Las determinaciones incluidas en normas reglamentarias que son objeto de modificación por este real decreto-ley podrán ser modificadas en el futuro por normas del rango reglamentario correspondiente a la norma en que figuran.
-
 
 #### Disposición final octava. Derechos sindicales en el ámbito del sector público.
 
 Las fundaciones, sociedades mercantiles y resto de entidades que conforman el sector público deberán efectuar una adecuada gestión, en el marco de la legislación vigente, de las materias relacionadas con la creación, modificación o supresión de órganos de representación, secciones y delegados sindicales, especialmente en lo que afecta a los créditos horarios, cesiones de estos créditos y liberaciones que deriven de la aplicación de normas o pactos que afecten a la obligación o al régimen de asistencia al trabajo. Todo ello con respeto de los derechos sindicales y de representación reconocidos en la legislación vigente.
 
 En el marco de las normas vigentes en materia de transparencia, las entidades mencionadas en el párrafo anterior, deberán informar al Ministerio de Hacienda y Administraciones Públicas u organismo autonómico competente en relación con estas materias, sin perjuicio de la protección de datos de carácter personal.
-
 
 #### Disposición final novena. Modificación de la Ley 2/2012, de 29 de abril, de Presupuestos Generales del Estado para 2012.
 
@@ -2383,7 +2260,6 @@ Miles de euros
 52.106,23
 
 25.426,66
-
 
 #### Disposición final décima. Modificación de la Ley 2/2012, de 29 de junio, de Presupuestos Generales del Estado para el año 2012.
 
@@ -3773,7 +3649,6 @@ Al personal docente de los Centros concertados ubicados en Ceuta y Melilla, se l
 
 (2) A los licenciados que impartan 1.º y 2.º curso de Educación Secundaria Obligatoria se les aplicará este módulo.
 
-
 #### Disposición final undécima. Modificación de la Ley 2/2012, de 29 de junio, de Presupuestos Generales del Estado para el año 2012
 
 Se modifica el apartado seis del artículo 17 de la Ley 2/2012, de 29 de junio, de Presupuestos Generales del Estado para el año 2012, que queda redactado en los siguientes términos:
@@ -3789,7 +3664,6 @@ La financiación obtenida por los centros, consecuencia del cobro a los alumnos 
 Los centros que en el año 2011 estuvieran autorizados para percibir cuotas superiores a las señaladas podrán mantenerlas para el ejercicio 2012.
 
 La cantidad abonada por la Administración no podrá ser inferior a la resultante de minorar en 3.606,08 euros el importe correspondiente al componente de «otros gastos» de los módulos económicos establecidos en el anexo IV de la presente Ley, pudiendo las Administraciones educativas competentes establecer la regulación necesaria al respecto.»
-
 
 #### Disposición final duodécima. Derechos económicos del personal al servicio de la Administración de Justicia.
 
@@ -3807,7 +3681,6 @@ En ningún caso los funcionarios incluidos en los Regímenes Especiales de segur
 
 4. Las referencias a días incluidas en el presente artículo se entenderán realizadas a días naturales.
 
-
 #### Disposición final decimotercera.
 
 1. Lo dispuesto en el artículo 211.2 del texto refundido de la Ley General de la Seguridad Social será de aplicación a las prestaciones por desempleo cuyo nacimiento del derecho derive de situaciones legales de desempleo producidas a partir de la entrada en vigor de este Real Decreto-ley.
@@ -3815,7 +3688,6 @@ En ningún caso los funcionarios incluidos en los Regímenes Especiales de segur
 2. Lo dispuesto en los artículos 215.1.3, 215.3.2, 216.3 y 217.1 del texto refundido de la Ley General de la Seguridad Social se aplicará a las solicitudes de nacimiento del derecho al subsidio por desempleo que se presenten a partir de la entrada en vigor de este Real Decreto-ley.
 
 3. Lo dispuesto en el artículo 218 del texto refundido de la Ley General de la seguridad social se aplicará desde el día primero del mes siguiente a la entrada en vigor de este Real Decreto-ley.
-
 
 #### Disposición final decimocuarta. Reforma de los salarios de tramitación.
 
@@ -3831,10 +3703,7 @@ Se modifica el apartado 1 del artículo 116 de la Ley 36/2011, de 10 de octubre,
 
 «Si, desde la fecha en que se tuvo por presentada la demanda por despido, hasta la sentencia del juzgado o tribunal que por primera vez declare su improcedencia, hubiesen transcurrido más de noventa días hábiles, el empresario, una vez firme la sentencia, podrá reclamar al Estado los salarios pagados al trabajador que excedan de dicho plazo».
 
-
 #### Disposición final decimoquinta. Entrada en vigor.
-
-Este real decreto-ley entrará en vigor el día siguiente al de su publicación en el «Boletín Oficial del Estado».
 
 Dado en Madrid, el 13 de julio de 2012.
 

@@ -29,10 +29,8 @@ fuente_pdf_oficial: https://sede.gobiernodecanarias.org/boc/boc-a-2017-036-807.p
 
 # Resolución de 4 de febrero de 2017, por la que se dictan instrucciones para el proceso de evaluación en las enseñanzas deportivas de régimen especial en el ámbito de la Comunidad Autónoma de Canarias (BOC n.º 36, de 21 de febrero).
 
-Boletín Oficial de Canarias núm. 36
 https://sede.gobcan.es/cpji/boc
 Martes 21 de febrero de 2017
-4635
 III. Otras Resoluciones
 Consejería de Educación y Universidades
 807 Dirección General de Formación Profesional y Educación de Adultos.- Resolución 
@@ -71,13 +69,9 @@ el año 2008 la impartición de las enseñanzas deportivas de régimen especial 
 modalidades o especialidades, procediendo dictar instrucciones para el proceso de evaluación 
 con el fin de que los centros dispongan de un instrumento que facilite la evaluación del 
 proceso de aprendizaje, de acuerdo con lo objetivos curriculares de estas enseñanzas.
-boc-a-2017-036-807
 
-
-Boletín Oficial de Canarias núm. 36
 https://sede.gobcan.es/cpji/boc
 Martes 21 de febrero de 2017
-4636
 FUNDAMENTOS DE DERECHO 
 Primero.- La Ley Orgánica 2/2006, de 3 de mayo, de Educación (BOE nº 106, de 4 de 
 mayo), en su redacción actual, en el artículo 3.6, que preceptúa que las enseñanzas deportivas 
@@ -115,13 +109,9 @@ especial en la Comunidad Autónoma de Canarias.
 Segunda.- Aspectos generales de la evaluación.
 1. De acuerdo con los dispuesto en el artículo 13 del Real Decreto 1363/2007, de 24 
 de octubre, por el que se establece la ordenación general de las enseñanzas deportivas de 
-boc-a-2017-036-807
 
-
-Boletín Oficial de Canarias núm. 36
 https://sede.gobcan.es/cpji/boc
 Martes 21 de febrero de 2017
-4637
 régimen especial, la evaluación del aprendizaje del alumnado será continua y se realizará 
 por módulos de enseñanza deportiva. La evaluación tendrá un carácter eminentemente 
 formativo y se realizará a lo largo de todo el proceso formativo del alumnado. 
@@ -162,13 +152,9 @@ Tercera.- Proceso de evaluación.
 correspondiente teniendo en cuenta los diferentes elementos del currículo que se concretan 
 en la programación docente de dicho módulo. El equipo docente, constituido por el 
 profesorado de un determinado grupo, y coordinado por quien ejerza la tutoría, velará por 
-boc-a-2017-036-807
 
-
-Boletín Oficial de Canarias núm. 36
 https://sede.gobcan.es/cpji/boc
 Martes 21 de febrero de 2017
-4638
 que la evaluación del alumnado a lo largo del curso sea continua. Adoptará, además, el resto 
 de las decisiones resultantes del proceso de evaluación que correspondan a dicho equipo.
 La evaluación y calificación del módulo de formación práctica será realizada por el 
@@ -207,13 +193,9 @@ Los centros educativos establecerán, en el marco de la evaluación continua, un
 recuperación para el alumnado que acceda a la formación práctica con módulos pendientes. 
 Así mismo, la Dirección del centro fijará el calendario para la realización de una prueba 
 extraordinaria para el alumnado con módulos pendientes que no ha accedido a la formación 
-boc-a-2017-036-807
 
-
-Boletín Oficial de Canarias núm. 36
 https://sede.gobcan.es/cpji/boc
 Martes 21 de febrero de 2017
-4639
 práctica. Esta prueba será elaborada por el profesorado responsable del módulo correspondiente, 
 considerando, en todo caso, los aspectos curriculares mínimos no adquiridos, y podrá versar 
 sobre la totalidad o una parte de la programación didáctica del módulo.
@@ -254,13 +236,9 @@ sobre la totalidad o una parte de la programación didáctica del módulo.
 De acuerdo con lo dispuesto en el artículo 12, apartado 3, del Real Decreto 1363/2007, 
 de 24 de octubre, dado su carácter integrador, el módulo de proyecto final se presentará una 
 vez superados los restantes módulos comunes y específicos de enseñanza deportiva.
-boc-a-2017-036-807
 
-
-Boletín Oficial de Canarias núm. 36
 https://sede.gobcan.es/cpji/boc
 Martes 21 de febrero de 2017
-4640
 La tercera sesión de evaluación, que tendrá la consideración de evaluación final, será 
 posterior a la realización de la formación práctica, y en ella se realizará la evaluación de 
 los módulos pendientes y de los módulos de formación práctica y de proyecto final. En 
@@ -299,13 +277,9 @@ a) Memoria de las prácticas que contendrá, entre otros aspectos, la descripci�
 estructura y funcionamiento del centro deportivo, de las instalaciones y de los espacios de 
 las prácticas, así como del grupo o grupos con los que haya realizado dichas prácticas. Esta 
 memoria la deberá presentar el alumnado al finalizar el periodo de prácticas. 
-boc-a-2017-036-807
 
-
-Boletín Oficial de Canarias núm. 36
 https://sede.gobcan.es/cpji/boc
 Martes 21 de febrero de 2017
-4641
 b) Fichas semanales del seguimiento de las actividades y de las tareas que se desarrollen 
 en el centro deportivo o institución colaboradora. Dichas fichas serán elaboradas por el 
 alumnado con el asesoramiento del profesorado tutor del centro profesional o deportivo.
@@ -343,13 +317,9 @@ centro, no pudiendo ser inferior a un mes contado a partir de la aceptación de 
 que se refiere el apartado tres. El alumnado entregará en la Secretaría del centro dos copias 
 del proyecto final dirigidas a la Dirección, quien archivará una de ellas en el expediente 
 académico y entregará otra al tribunal a que se refiere el apartado siguiente.
-boc-a-2017-036-807
 
-
-Boletín Oficial de Canarias núm. 36
 https://sede.gobcan.es/cpji/boc
 Martes 21 de febrero de 2017
-4642
 La presentación y defensa del proyecto final ante el tribunal se realizará en el día y hora 
 establecidos por la Dirección del centro.
 5. Los proyectos serán presentados y defendidos por el alumnado ante un tribunal 
@@ -387,13 +357,9 @@ la misma formará parte de la nota media del grado correspondiente.
 La calificación final de las enseñanzas conducentes a los títulos de grado medio será la 
 media ponderada, en función de la carga lectiva, de las calificaciones obtenidas en el ciclo 
 inicial y en el ciclo final de grado medio. 
-boc-a-2017-036-807
 
-
-Boletín Oficial de Canarias núm. 36
 https://sede.gobcan.es/cpji/boc
 Martes 21 de febrero de 2017
-4643
 4. Los módulos profesionales convalidados o exentos no serán computados a los efectos 
 de obtener la calificación final de cada ciclo y serán registrados en los documentos de 
 evaluación como convalidados y exentos.
@@ -433,13 +399,9 @@ de alguno de los dos cursos académicos siguientes. La Dirección del centro res
 la conveniencia o no de la concesión de dicha convocatoria extraordinaria en el plazo de 
 diez días a contar desde la fecha en que hubiera recibido la solicitud, debiendo notificar por 
 escrito la resolución a la persona solicitante. 
-boc-a-2017-036-807
 
-
-Boletín Oficial de Canarias núm. 36
 https://sede.gobcan.es/cpji/boc
 Martes 21 de febrero de 2017
-4644
 La concesión de la convocatoria extraordinaria exigirá que el alumnado beneficiario de la 
 misma realice una matrícula a tal fin, debiéndosele asimismo comunicar la fecha y el modo 
 en que tendrá lugar la misma.
@@ -478,13 +440,9 @@ horaria total del ciclo, excluida la carga horaria prevista para la prueba y req
 específico.
 La renuncia a la convocatoria de evaluación supone la renuncia a la evaluación final de 
 uno o varios módulos de enseñanza deportiva, sin que ello implique la baja de matrícula.
-boc-a-2017-036-807
 
-
-Boletín Oficial de Canarias núm. 36
 https://sede.gobcan.es/cpji/boc
 Martes 21 de febrero de 2017
-4645
 La solicitud de renuncia, dirigida a la Dirección del centro donde figure su expediente 
 académico, se deberá presentar con una antelación mínima de un mes a la fecha prevista para 
 la evaluación final del módulo o los módulos afectados. La Dirección resolverá en el plazo 
@@ -522,13 +480,9 @@ asiste para formular reclamaciones contra las calificaciones obtenidas en la eva
 a la Dirección del centro. La reclamación deberá ser presentada por el alumnado, en su 
 propio nombre o a través de sus representantes legales, en la secretaría del centro en el plazo 
 de los dos días hábiles siguientes a la publicación o notificación de las calificaciones. 
-boc-a-2017-036-807
 
-
-Boletín Oficial de Canarias núm. 36
 https://sede.gobcan.es/cpji/boc
 Martes 21 de febrero de 2017
-4646
 3. La Dirección del centro requerirá un informe que incluya los datos aportados por el 
 profesor o la profesora que imparte el módulo y por el departamento correspondiente. Podrá 
 solicitar además los informes elaborados por profesorado que ejerza la tutoría a partir de las 
@@ -550,5 +504,3 @@ Formación Profesional y Educación de Adultos. La resolución que se dicte pond
 administrativa.
 Santa Cruz de Tenerife, a 4 de febrero de 2017.- El Director General de Formación 
 Profesional y Educación de Adultos, Manuel Jorge Pérez.
-boc-a-2017-036-807
-

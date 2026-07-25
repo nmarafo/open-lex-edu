@@ -39,9 +39,7 @@ Debe reseñarse, por último, la modificación que se lleva a cabo, de acuerdo c
 
 En su virtud, a propuesta del Ministro de la Presidencia, previo informe de la Comisión Superior de Personal, de acuerdo con el Consejo de Estado y previa deliberación del Consejo de Ministros en su reunión del día 10 de enero de 1986,
 
-
 **D I S P O N G O :**
-
 
 #### Artículo único.
 
@@ -57,9 +55,7 @@ JAVIER MOSCOSO DEL PRADO Y MUÑOZ
 
 REGLAMENTO DE REGIMEN DISCIPLINARIO DE LOS FUNCIONARIOS DE LA ADMINISTRACION DEL ESTADO
 
-
 **TITULO PRIMERO**
-
 
 **Régimen Disciplinario**
 
@@ -67,21 +63,17 @@ CAPITULO PRIMERO
 
 Disposiciones generales
 
-
 #### Artículo 1.
 
 El presente Reglamento será de aplicación al personal funcionario comprendido en el artículo 1, 1, de la Ley 30/1984, de 2 de agosto, de Medidas para la Reforma de la Función Pública.
-
 
 #### Artículo 2.
 
 Los funcionarios en prácticas estarán sometidos a lo dispuesto en el presente Reglamento, en la medida que les sea de aplicación, sin perjuicio de las normas especiales que regulen su procedimiento de selección.
 
-
 #### Artículo 3.
 
 Las disposiciones del presente Reglamento tendrán carácter supletorio para los demás funcionarios al servicio del Estado y de las Administraciones Públicas no incluidos en su ámbito de aplicación.
-
 
 #### Artículo 4.
 
@@ -91,11 +83,9 @@ CAPITULO II
 
 Faltas disciplinarias
 
-
 #### Artículo 5.
 
 Las faltas cometidas por los funcionarios en el ejercicio de sus cargos podrán ser muy graves, graves y leves.
-
 
 #### Artículo 6.
 
@@ -128,7 +118,6 @@ l) El incumplimiento de la obligación de atender los servicios esenciales en ca
 m) Los actos limitativos de la libre expresión de pensamiento, ideas y opiniones.
 
 n) Haber sido sancionado por la comisión de tres faltas graves en un período de un año.
-
 
 #### Artículo 7.
 
@@ -170,7 +159,6 @@ p) Las acciones u omisiones dirigidas a evadir los sistemas de control de horari
 
 2. A efectos de lo dispuesto en el presente artículo, se entenderá por mes el período comprendido desde el día primero al último de cada uno de los doce que componen el año.
 
-
 #### Artículo 8.
 
 Son faltas leves:
@@ -189,16 +177,13 @@ CAPITULO III
 
 Personas responsables
 
-
 #### Artículo 9.
 
 Los funcionarios incurrirán en responsabilidad disciplinaria en los supuestos y circunstancias establecidos por este Reglamento.
 
-
 #### Artículo 10.
 
 Los funcionarios que se encuentren en situación distinta de la de servicio activo, podrán incurrir en responsabilidad disciplinaria por las faltas previstas en este Reglamento que puedan cometer dentro de sus peculiares situaciones administrativas. De no ser posible el cumplimiento de la sanción en el momento en que se dicte la resolución, por hallarse el funcionario en situación administrativa que lo impida, ésta se hará efectiva cuando su cambio de situación lo permita, salvo que haya transcurrido el plazo de prescripción.
-
 
 #### Artículo 11.
 
@@ -206,11 +191,9 @@ Los funcionarios que se encuentren en situación distinta de la de servicio acti
 
 2. La pérdida de la condición de funcionario no libera de la responsabilidad civil o penal contraída por faltas cometidas durante el tiempo en que se ostentó aquélla.
 
-
 #### Artículo 12.
 
 Los funcionarios que indujeren a otros a la realización de actos o conducta constitutivos de falta disciplinaria, incurrirán en la misma responsabilidad que éstos. De no haberse consumado la falta, incurrirán en responsabilidad, de acuerdo con los criterios establecidos en el artículo 89 de la Ley de Funcionarios Civiles del Estado de 7 de febrero de 1964.
-
 
 #### Artículo 13.
 
@@ -219,7 +202,6 @@ Igualmente incurrirán en responsabilidad los funcionarios que encubrieren las f
 CAPITULO IV
 
 Sanciones disciplinarias
-
 
 #### Artículo 14.
 
@@ -235,11 +217,9 @@ d) Deducción proporcional de retribuciones.
 
 e) Apercibimiento..
 
-
 #### Artículo 15.
 
 La sanción de separación de servicio, únicamente podrá imponerse por faltas muy graves.
-
 
 #### Artículo 16.
 
@@ -251,13 +231,11 @@ Si la suspensión firme no excede del período en el que el funcionario permanec
 
 Los funcionarios sancionados con traslado con cambio de residencia, no podrán obtener nuevo destino por ningún procedimiento en la localidad desde la que fueron trasladados, durante tres años, cuando hubiere sido impuesta por falta muy grave, y durante uno cuando hubiere correspondido a la comisión de una falta grave. Dicho plazo se computará desde el momento en que se efectuó el traslado.
 
-
 #### Artículo 17.
 
 Las faltas Ieves solamente podrán ser corregidas con las sanciones que se señalan en los apartados d) o e) del artículo 14.
 
 En la deducción proporcional de las retribuciones, se tomará como base la totalidad de remuneraciones íntegras mensuales que perciba el funcionario en el momento de la comisión de la falta, dividiéndose la misma por 30 y, a su vez, este resultado por el número de horas que el funcionario tenga obligación de cumplir, de media, cada día. La cantidad obtenida será el valor/hora, que habrá de aplicarse al tiempo de trabajo no cumplido por el incumplimiento de la jornada de trabajo.
-
 
 #### Artículo 18.
 
@@ -269,13 +247,11 @@ CAPITULO V
 
 Extinción de la responsabilidad disciplinaria
 
-
 #### Artículo 19.
 
 1. La responsabilidad disciplinaria se extingue con el cumplimiento de la sanción, muerte, prescripción de la falta o de la sanción, indulto y amnistía.
 
 2. Si durante la sustanciación del procedimiento sancionador se produjere la pérdida de la condición de funcionario del inculpado, se dictará resolución en la que, con invocación de la causa, se declarará extinguido el procedimiento sancionador, sin perjuicio de la responsabilidad civil o penal que le pueda ser exigida y se ordenará el archivo de las actuaciones, salvo que por parte interesada se inste la continuación del expediente. Al mismo tiempo, se dejarán sin efecto cuantas medidas de carácter provisional se hubieren adoptado con respecto al funcionario inculpado.
-
 
 #### Artículo 20.
 
@@ -283,21 +259,17 @@ Extinción de la responsabilidad disciplinaria
 
 2. La prescripción se interrumpirá por la iniciación del procedimiento, a cuyo efecto la resolución de incoación del expediente disciplinario deberá ser debidamente registrada, volviendo a correr el plazo si el expediente permaneciere paralizado durante más de seis meses por causa no imputable al funcionario sujeto al procedimiento.
 
-
 #### Artículo 21.
 
 1. Las sanciones impuestas por faltas muy graves prescribirán a los seis años, las impuestas por faltas graves, a los dos años, y las impuestas por faltas leves al mes.
 
 2. El plazo de prescripción comenzará a contarse desde el día siguiente a aquel en que adquiera firmeza la resolución por la que se impone la sanción o desde que se quebrantase el cumplimiento de la sanción si hubiere comenzado.
 
-
 #### Artículo 22.
 
 La amplitud y efectos de los indultos de sanciones disciplinarias se regularán por las disposiciones que los concedan.
 
-
 **TITULO II**
-
 
 **Tramitación**
 
@@ -305,13 +277,11 @@ CAPITULO PRIMERO
 
 Disposiciones generales
 
-
 #### Artículo 23.
 
 En cualquier momento del procedimiento en que el instructor aprecie que la presunta falta puede ser constitutiva de delito o falta penal, lo pondrá en conocimiento de la autoridad que hubiere ordenado la incoación del expediente para su oportuna comunicación al Ministerio Fiscal. Ello no será obstáculo para que continúe la tramitación del expediente disciplinario hasta su resolución e imposición de la sanción si procediera.
 
 No obstante, cuándo se trate de hechos que pudieran ser constitutivos de algunos de los delitos cometidos por los funcionarios públicos, contra el ejercicio de los derechos de la persona reconocidos por las Leyes y de los delitos de los funcionarios públicos, en el ejercicio de sus cargos, tipificados en los títulos II y VII del Libro segundo del Código Penal, deberá suspenderse la tramitación del expediente disciplinario hasta tanto recaiga resolución judicial.
-
 
 #### Artículo 24.
 
@@ -323,11 +293,9 @@ CAPITULO Il
 
 Ordenación
 
-
 #### Artículo 25.
 
 El procedimiento para la sanción de faltas disciplinarias se impulsará de oficio en todos sus trámites.
-
 
 #### Artículo 26.
 
@@ -337,18 +305,15 @@ CAPITULO III
 
 Iniciación
 
-
 #### Artículo 27.
 
 El procedimiento se iniciará siempre de oficio, por acuerdo del órgano competente, bien por propia iniciativa o como consecuencia de orden superior, moción razonada de los subordinados o denuncia.
 
 De iniciarse el procedimiento como consecuencia de denuncia, deberá comunicarse dicho acuerdo al firmante de la misma.
 
-
 #### Artículo 28.
 
 El órgano competente para incoar el procedimiento podrá acordar previamente la realización de una información reservada.
-
 
 #### Artículo 29.
 
@@ -356,18 +321,15 @@ El órgano competente para incoar el procedimiento podrá acordar previamente la
 
 2. La incoación del expediente disciplinario podrá acordarse de oficio o a propuesta del Jefe del centro o dependencia en que preste servicio el funcionario.
 
-
 #### Artículo 30.
 
 En la resolución por la que se incoe el procedimiento se nombrará Instructor, que deberá ser un funcionario público perteneciente a un cuerpo o escala de igual o superior grupo al del inculpado, de los establecidos en el artículo 25 de la Ley 30/1984, de 2 de agosto. En el caso de que dependa de otro Departamento, se requerirá la previa autorización del Subsecretario de éste.
 
 Cuando la complejidad o trascendencia de los hechos a investigar así lo exija, se procederá al nombramiento de Secretario, que en todo caso deberá tener la condición de funcionario.
 
-
 #### Artículo 31.
 
 La incoación del procedimiento con el nombramiento del Instructor y Secretario, se notificará al funcionario sujeto a expediente, así como a los designados para ostentar dichos cargos.
-
 
 #### Artículo 32.
 
@@ -376,7 +338,6 @@ La incoación del procedimiento con el nombramiento del Instructor y Secretario,
 2. El derecho de recusación podrá ejercitarse desde el momento en que el interesado tenga conocimiento de quiénes son el Instructor y el Secretario.
 
 3. La abstención y la recusación se plantearán ante la Autoridad que acordó el nombramiento, quien deberá resolver en el término de tres días.
-
 
 #### Artículo 33.
 
@@ -390,7 +351,6 @@ CAPITULO IV
 
 Desarrollo
 
-
 #### Artículo 34.
 
 1. El Instructor ordenará la práctica de cuantas diligencias sean adecuadas para la determinación y comprobación de los hechos y en particular de cuantas pruebas puedan conducir a su esclarecimiento y a la determinación de las responsabilidades susceptibles de sanción.
@@ -398,7 +358,6 @@ Desarrollo
 2. El Instructor como primeras actuaciones, procederá a recibir declaración al presunto inculpado y a evacuar cuantas diligencias se deduzcan de la comunicación o denuncia que motivó la incoación del expediente y de lo que aquél hubiera alegado en su declaración.
 
 Todos los Organismos y dependencias de la Administración están obligados a facilitar al Instructor los antecedentes e informes necesarios, así como los medios personales y materiales que precise para el desarrollo de sus actuaciones.
-
 
 #### Artículo 35.
 
@@ -408,11 +367,9 @@ Todos los Organismos y dependencias de la Administración están obligados a fac
 
 El Instructor deberá proponer en el momento de elaborar el pliego de cargos, a la vista del resultado de las actuaciones practicadas, el mantenimiento o levantamiento de la medida de suspensión provisional que, en su caso, se hubiera adoptado.
 
-
 #### Artículo 36.
 
 El pliego de cargos se notificará al inculpado concediéndosele un plazo de diez días para que pueda contestarlo con las alegaciones que considere convenientes a su defensa y con la aportación de cuantos documentos considere de interés. En este trámite deberá solicitar, si lo estima conveniente, la práctica de las pruebas que para su defensa crea necesarias.
-
 
 #### Artículo 37.
 
@@ -420,36 +377,29 @@ El pliego de cargos se notificará al inculpado concediéndosele un plazo de die
 
 2. El Instructor podrá denegar la admisión y práctica de las pruebas para averiguar cuestiones que considere innecesarias, debiendo motivar la denegación, sin que contra esta resolución queda recurso del inculpado.
 
-
 #### Artículo 38.
 
 Los hechos relevantes para la decisión del procedimiento podrán acreditarse por cualquier medio de prueba admisible en derecho.
-
 
 #### Artículo 39.
 
 Para la práctica de las pruebas propuestas, así como para la de las de oficio cuando se estime oportuno, se notificará al funcionario el lugar, fecha y hora en que deberán realizarse, debiendo incorporarse al expediente la constancia de la recepción de la notificación.
 
-
 #### Artículo 40.
 
 La intervención del Instructor en todas y cada una de las pruebas practicadas es esencial y no puede ser suplida por la del Secretario, sin perjuicio de que el Instructor pueda interesar la práctica de otras diligencias de cualquier órgano de la Administración.
-
 
 #### Artículo 41.
 
 Cumplimentadas las diligencias previstas en el presente título se dará vista del expediente al inculpado con carácter inmediato para que en el plazo de diez días alegue lo que estime pertinente a su defensa y aporte cuantos documentos considere de interés. Se facilitará copia completa del expediente al inculpado cuando éste así lo solicite.
 
-
 #### Artículo 42.
 
 El Instructor formulará dentro de los diez días siguientes la propuesta de resolución en la que fijará con precisión los hechos, motivando, en su caso, la denegación de las pruebas propuestas por el inculpado, hará la valoración jurídica de los mismos para determinar la falta que se estime cometida, señalándose la responsabilidad del funcionario así como la sanción a imponer.
 
-
 #### Artículo 43.
 
 La propuesta de resolución se notificará por el Instructor al interesado para que, en el plazo de diez días, pueda alegar ante el Instructor cuanto considere conveniente en su defensa.
-
 
 #### Artículo 44.
 
@@ -459,18 +409,15 @@ CAPITULO V
 
 Terminación
 
-
 #### Artículo 45.
 
 1. La resolución, que pone fin al procedimiento disciplinario, deberá adoptarse en el plazo de diez días, salvo en caso de separación del servicio, y resolverá todas las cuestiones planteadas en el expediente.
 
 2. La resolución habrá de ser motivada y en ella no se podrán aceptar hechos distintos de los que sirvieron de base al pliego de cargos y a la propuesta de resolución, sin perjuicio de su distinta valoración jurídica.
 
-
 #### Artículo 46.
 
 El órgano competente para imponer la sanción podrá devolver el expediente al Instructor para la práctica de las diligencias que resulten imprescindibles para la resolución. En tal caso antes de remitir de nuevo el expediente al órgano competente para imponer la sanción, se dará vista de lo actuado al funcionario inculpado, a fin de que el plazo de diez días alegue cuanto estime conveniente.
-
 
 #### Artículo 47.
 
@@ -484,7 +431,6 @@ Si la sanción se impone por la comisión de las faltas en materia de incompatib
 
 3. El Subsecretario del Departamento, en todo caso, los Directores generales respecto del personal dependiente de su Dirección General y los Delegados del Gobierno y los Gobernadores civiles respecto a los funcionarios destinados en su correspondiente ámbito territorial, para la imposición de las sanciones de los apartados d) y e) del artículo 14.
 
-
 #### Artículo 48.
 
 1. En la resolución que ponga fin al procedimiento disciplinario deberá determinarse con toda precisión la falta que se estime cometida señalando los preceptos en que aparezca recogida la clase de falta, el funcionario responsable y la sanción que se impone, haciendo expresa declaración en orden a las medidas provisionales adoptadas durante la tramitación del procedimiento.
@@ -495,11 +441,9 @@ Si la sanción se impone por la comisión de las faltas en materia de incompatib
 
 Si el procedimiento se inició como consecuencia de denuncia, la resolución deberá ser notificada al firmante de la misma.
 
-
 #### Artículo 49.
 
 Las sanciones disciplinarias se ejecutarán según los términos de la resolución en que se imponga, y en el plazo máximo de un mes, salvo que, cuando por causas justificadas, se establezca otro distinto en dicha resolución.
-
 
 #### Artículo 50.
 
@@ -511,7 +455,6 @@ Ambos acuerdos deberán adoptarse de oficio, o a instancia del interesado, siemp
 
 En estos casos, con excepción de la sanción por faltas leves, deberá ser oída previamente la Comisión Superior de Personal.
 
-
 #### Artículo 51.
 
 Las sanciones disciplinarías que se impongan a los funcionarios se anotarán en el Registro Central de Personal, con indicación de las faltas que los motivaron.
@@ -520,18 +463,15 @@ La cancelación de estas anotaciones se producirá de oficio o a instancia del i
 
 [encabezado]DISPOSICIONES ADICIONALES
 
-
 #### [precepto]Primera.
 
 Cuando se incoe un expediente disciplinario a un funcionario que ostente la condición de Delegado sindical, Delegado de personal o cargo electivo a nivel provincial, autonómico o estatal en las Organizaciones Sindicales más representativas, deberá notificarse dicha incoación a la correspondiente Sección Sindical, Junta de Personal o Central Sindical, según proceda, a fin de que puedan ser oídos durante la tramitación del procedimiento.
 
 Dicha notificación deberá, asimismo, realizarse cuando la incoación del expediente se practique dentro del año siguiente al cese del inculpado en alguna de las condiciones enumeradas en el párrafo anterior. También deberá efectuarse si el inculpado es candidato durante el período electoral.
 
-
 #### [precepto]Segunda.
 
 De acuerdo con lo dispuesto en los artículos 44 y 49 de la Ley 11/1984, de 25 de agosto, de Reforma Universitaria, la competencia para la incoación y resolución de expedientes disciplinarios al profesorado y personal de Administración y Servicios de las Universidades corresponderá a los Rectores, con excepción de la separación del servicio, que será acordada por el Consejo de Ministros.
-
 
 #### [precepto]Tercera.
 
@@ -539,16 +479,13 @@ Los funcionarios de las Fuerzas y Cuerpos de la Seguridad del Estado se regirán
 
 [encabezado]DISPOSICIONES TRANSITORIAS
 
-
 #### [precepto]Primera.
 
 Los expedientes disciplinarios que se encuentren en tramitación en el momento de la publicación de este Reglamento seguirán regulados por las disposiciones anteriores, salvo que las de éste le sean más favorables. En todo caso, de no haberse efectuado la propuesta de resolución, deberá darse el trámite previsto en el artículo 41.
 
-
 #### [precepto]Segunda.
 
 Sin perjuicio del cumplimiento de lo dispuesto en la disposición adicional cuarta de la Ley 30/1984, de 2 de agosto, el presente Reglamento será de aplicación al personal que hubiera sido contratado en régimen de colaboración temporal al amparo de lo dispuesto en el artículo 6 de la Ley Articulada de Funcionarios Civiles del Estado, de 7 de febrero de 1964, y al personal con contrato eventual de la Administración de la Seguridad Social que continúe prestando servicios bajo dicha condición.
-
 
 #### DISPOSICIÓN DEROGATORIA
 

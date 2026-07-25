@@ -33,9 +33,6 @@ fuente_pdf_oficial: https://sede.gobiernodecanarias.org/boc/boc-a-2024-230-3794.
 
 # Resolución de 5 de noviembre de 2024,de la Dirección General de Formación Profesional y Enseñanzas de Régimen Especial, por la que se dictan instrucciones y orientaciones para la formación dual en empresas u organismos equiparados en los Certificados Profesionales (Grado C), los Ciclos Formativos de Grado Básico, Medio y Superior (Grados D, niveles 1, 2 y 3) y Cursos de Especialización (Grado E, niveles 2 y 3), en aplicación del Real Decreto 659/2023, de 18 de julio, en los centros docentes no universitarios de la Comunidad Autónoma de Canarias.
 
-https://sede.gobiernodecanarias.org/boc
-boc-a-2024-230-3794
-Boletín Oficial de Canarias núm. 230 Lunes 18 de noviembre de 202439430
 III. Otras Resoluciones
 Consejería de Educación, Formación Profesional, Actividad Física y Deportes
 3794 Dirección General de Formación Profesional y Enseñanzas de Régimen Especial.- 
@@ -80,9 +77,6 @@ formativa.
 Segundo.- La publicación del Real Decreto 659/2023, de 18 de julio, por el que se 
 desarrolla la ordenación del Sistema de Formación Profesional, modificado por el Real 
 
-https://sede.gobiernodecanarias.org/boc
-boc-a-2024-230-3794
-Boletín Oficial de Canarias núm. 230 Lunes 18 de noviembre de 202439431
 Decreto 658/2024, de 9 de julio, conlleva el establecimiento de las reglas generales de 
 la formación práctica, la formalización de los periodos en formación en empresa y todo 
 lo relacionado con su puesta en práctica y las funciones de las tres entidades que en ella 
@@ -127,9 +121,6 @@ carácter dual de toda la formación profesional de nuestro país, respondiendo 
 reto de convertir toda la formación profesional en una formación de excelencia, fruto de 
 la corresponsabilidad y la colaboración de centros y empresas u organismos equiparados.
 
-https://sede.gobiernodecanarias.org/boc
-boc-a-2024-230-3794
-Boletín Oficial de Canarias núm. 230 Lunes 18 de noviembre de 202439432
 Cuarto.- El Real Decreto 278/2023, de 11 de abril, por el que se establece el calendario 
 de implantación del nuevo Sistema de Formación Profesional correspondiente a la LOOIFP, 
 indica en su artículo 11 (Ofertas de Grado D, niveles 1, 2 y 3), que en el año académico 
@@ -174,9 +165,6 @@ Séptimo.- La Ley 6/2014, de 25 de julio, Canaria de Educación no Universitaria
 artículo 33, puntos 10 y 11, promueve los programas para que el alumnado pueda realizar 
 prácticas de formación profesional inicial en centros de trabajo ubicados en países de la 
 
-https://sede.gobiernodecanarias.org/boc
-boc-a-2024-230-3794
-Boletín Oficial de Canarias núm. 230 Lunes 18 de noviembre de 202439433
 Unión Europea, a la vez que indica que el Gobierno de Canarias promoverá la colaboración 
 con las empresas y entidades empresariales y de profesionales autónomos, principalmente 
 con los sectores emergentes, en crecimiento e innovadores. Como finalidades principales 
@@ -220,9 +208,6 @@ Tercero.- El alumnado que inicie el primer curso de formación durante el curso 
 Profesional y lo finalice en el curso 2025-2026, deberá realizar como mínimo 500 horas de 
 formación en empresas u organismos equiparados.
 
-https://sede.gobiernodecanarias.org/boc
-boc-a-2024-230-3794
-Boletín Oficial de Canarias núm. 230 Lunes 18 de noviembre de 202439434
 Cuarto.- Encomendar a la Inspección de Educación el asesoramiento sobre aquellos 
 aspectos específicos que le soliciten los equipos directivos de los centros docentes, así como 
 la supervisión del cumplimiento por los centros de lo dictado en la presente Resolución y, 
@@ -241,9 +226,6 @@ Oficial de Canarias, sin perjuicio de cualesquiera otros que se estime procedent
 Las Palmas de Gran Canaria, a 5 de noviembre de 2024.- La Directora General de 
 Formación Profesional y Enseñanzas de Régimen Especial, Carolina León Martínez.
 
-https://sede.gobiernodecanarias.org/boc
-boc-a-2024-230-3794
-Boletín Oficial de Canarias núm. 230 Lunes 18 de noviembre de 202439435
 ANEXO I
 INSTRUCCIONES PARA EL PROCEDIMIENTO PARA LA IMPLANTACIÓN Y 
 DESARROLLO DE LA FORMACIÓN DE CARÁCTER DUAL EN EMPRESA U ORGANISMO 
@@ -284,9 +266,6 @@ entre el 10 y el 20% de los resultados de aprendizaje de los módulos profesiona
 del 20% en el caso de los certificados profesionales de nivel 1 que tendrán este régimen 
 por defecto.
 
-https://sede.gobiernodecanarias.org/boc
-boc-a-2024-230-3794
-Boletín Oficial de Canarias núm. 230 Lunes 18 de noviembre de 202439436
 Modalidad en régimen intensivo:
 Las ofertas de formación profesional se entenderán realizadas en régimen intensivo 
 cuando exista relación contractual a través de un contrato de carácter laboral de formación, 
@@ -331,9 +310,6 @@ proveniente de movilidades de internacionalización.
 de pequeño tamaño o microempresas (micropymes), estas podrán designar, de manera 
 mancomunada, una persona que actúe como tutor o tutora.
 
-https://sede.gobiernodecanarias.org/boc
-boc-a-2024-230-3794
-Boletín Oficial de Canarias núm. 230 Lunes 18 de noviembre de 202439437
 Tercera.- Conciertos con empresas u organismos equiparados y/o acuerdos.
 1. Independientemente de la existencia de Convenios marco con asociaciones o 
 confederaciones empresariales u otras entidades, los centros educativos de la Comunidad 
@@ -374,9 +350,6 @@ En todo caso, el alumnado que acceda a esta formación deberá asumir las condic
 que el centro educativo y la empresa u organismo equiparado hayan acordado, sin 
 menoscabo del cumplimiento por parte del alumnado de aquellas condiciones y normas 
 
-https://sede.gobiernodecanarias.org/boc
-boc-a-2024-230-3794
-Boletín Oficial de Canarias núm. 230 Lunes 18 de noviembre de 202439438
 que la empresa tenga establecidas con carácter interno sobre el comportamiento y buen uso 
 de las instalaciones que le sea de aplicación.
 3. En el caso de los Grados C, la formación en prevención de riesgos laborales debe ser 
@@ -418,9 +391,6 @@ la formación en la empresa, y debe continuar su formación en el centro.
 formación en el centro educativo tal y como se recoge en el apartado 3 de la instrucción 
 séptima.
 
-https://sede.gobiernodecanarias.org/boc
-boc-a-2024-230-3794
-Boletín Oficial de Canarias núm. 230 Lunes 18 de noviembre de 202439439
 10. La concreción de la ubicación temporal de la formación en empresa se determinará 
 por parte de cada centro en función de las características de la oferta formativa, el tipo 
 de régimen dual, las características del tejido empresarial y la disponibilidad de plazas 
@@ -460,9 +430,6 @@ los resultados de aprendizaje en el centro educativo.
 total de la enseñanza (400 horas). La concreción de la ubicación temporal de la formación 
 en empresa se determinará por parte de cada centro y se desarrollará a partir del segundo 
 
-https://sede.gobiernodecanarias.org/boc
-boc-a-2024-230-3794
-Boletín Oficial de Canarias núm. 230 Lunes 18 de noviembre de 202439440
 trimestre de segundo curso, en jornadas de entre 6 y 8 horas diarias en la empresa durante 
 cuatro días y acudiendo al centro educativo el quinto día. En todo caso, el programa 
 formativo se adaptará a las necesidades de horario y procesos de la empresa, acorde con el 
@@ -502,9 +469,6 @@ problemas que el tutor o tutora de empresa haya detectado.
 Sin menoscabo de lo anterior, una posible distribución de las jornadas diarias en la 
 empresa en este régimen podría ser, a modo de ejemplo, la siguiente:
 
-https://sede.gobiernodecanarias.org/boc
-boc-a-2024-230-3794
-Boletín Oficial de Canarias núm. 230 Lunes 18 de noviembre de 202439441
 - Para una duración en torno a 500 horas (25%):-Para una duración en torno a 500 horas (25%)
 Curso semanas Horas/jornada Meses
 1º 24 6 6 144 1,5
@@ -586,9 +550,6 @@ La formación en empresa en régimen intensivo tendrá una duración de entre el
 el 50% de la duración total del certificado profesional, e incluirá al menos el 30% de los 
 resultados de aprendizaje de los módulos profesionales.
 
-https://sede.gobiernodecanarias.org/boc
-boc-a-2024-230-3794
-Boletín Oficial de Canarias núm. 230 Lunes 18 de noviembre de 202439442
 5.2. En los Ciclos Formativos de Grado Medio y Superior (niveles 2 y 3 de Grado D):
 La duración de la formación en empresa u organismo equiparado contemplará al menos 
 el 30% de los resultados de aprendizaje y representará entre el 35 y 50% de la duración 
@@ -670,9 +631,6 @@ contemplará entre el 10 y el 20% de los resultados de aprendizaje y representar
 6.2. En régimen intensivo, en aquellos Cursos de Especialización cuyo currículo así 
 lo establezca, se deberá realizar la formación en empresa u organismo equiparado, que 
 
-https://sede.gobiernodecanarias.org/boc
-boc-a-2024-230-3794
-Boletín Oficial de Canarias núm. 230 Lunes 18 de noviembre de 202439443
 contemplará al menos el 30% de los resultados de aprendizaje y representará entre el 35 y 
 el 50% de la duración total de la enseñanza.
 6.3. En los Cursos de Especialización cuyo currículo no contemple específicamente la 
@@ -709,9 +667,6 @@ a) Los periodos de formación en empresa u organismo equiparado que el alumnado
 realice en movilidad, contemplándose las expuestas a continuación:
 - Aquellas que se realicen dentro del marco del plan de internacionalización del centro.
 
-https://sede.gobiernodecanarias.org/boc
-boc-a-2024-230-3794
-Boletín Oficial de Canarias núm. 230 Lunes 18 de noviembre de 202439444
 - Aquellas que se realicen fuera de la isla donde se encuentra situado el centro educativo. 
 En este caso se consideran:
 • Movilidades puntuales para la realización del plan formativo en empresa u organismo 
@@ -753,9 +708,6 @@ riesgos laborales asociada.
 4. El alumnado que no haya accedido a la formación en la empresa u organismo 
 equiparado realizará esta en otro periodo.
 
-https://sede.gobiernodecanarias.org/boc
-boc-a-2024-230-3794
-Boletín Oficial de Canarias núm. 230 Lunes 18 de noviembre de 202439445
 Octava.- Autorización de las ofertas para las personas con necesidades educativas 
 o formativas especiales.
 1. Se podrán autorizar organizaciones diferenciadas de la propuesta con carácter 
@@ -796,9 +748,6 @@ decisiones y la capacidad para la innovación y la creatividad.
 con discapacidad en la asignación de las plazas ofertadas por las empresas u organismos 
 equiparados, para la realización de su formación en las mismas, a fin de garantizar sus 
 
-https://sede.gobiernodecanarias.org/boc
-boc-a-2024-230-3794
-Boletín Oficial de Canarias núm. 230 Lunes 18 de noviembre de 202439446
 derechos en relación con lo dispuesto en la normativa vigente en materia de accesibilidad 
 universal y diseño para todos y todas.
 7. Dada la naturaleza del régimen intensivo, se podrá limitar la participación en el 
@@ -839,9 +788,6 @@ de la empresa, en colaboración directa con el profesorado responsable de los m�
 profesionales, ajustándose a lo establecido en el artículo 163 del Real Decreto 659/2023, 
 de 18 de julio.
 
-https://sede.gobiernodecanarias.org/boc
-boc-a-2024-230-3794
-Boletín Oficial de Canarias núm. 230 Lunes 18 de noviembre de 202439447
 2. El informe de evaluación será elaborado por el equipo educativo y se trasladará al 
 tutor o tutora de empresa para su cumplimentación (Anexo II). El informe cualitativo de 
 evaluación será único e individualizado para cada alumno o alumna en formación.
@@ -880,9 +826,6 @@ acuerdos suscritos, indicando al menos las personas que se van a incorporar a la
 organismo equiparado, el puesto o puestos en los que desarrollará la formación, el contenido 
 de la actividad formativa y el tutor o tutora designado o designada.
 
-https://sede.gobiernodecanarias.org/boc
-boc-a-2024-230-3794
-Boletín Oficial de Canarias núm. 230 Lunes 18 de noviembre de 202439448
 g) Comunicar al centro, a través del tutor o tutora de la empresa, cualquier incidencia, 
 accidente o aspecto relevante que afecte al alumnado desde el momento de la detección 
 para poder resolverla de manera satisfactoria.
@@ -918,9 +861,6 @@ Se asignan al centro educativo las siguientes funciones:
 a) Formar al alumnado en las competencias profesionales, personales y sociales, así 
 como para la empleabilidad, que sean propias de las enseñanzas que cursa.
 
-https://sede.gobiernodecanarias.org/boc
-boc-a-2024-230-3794
-Boletín Oficial de Canarias núm. 230 Lunes 18 de noviembre de 202439449
 b) Verificar el cumplimiento de los requisitos exigidos a las personas candidatas para 
 la formación en empresa u organismo equiparado, así como la organización del Plan de 
 formación y la asignación del alumnado a las empresas.
@@ -958,9 +898,6 @@ El equipo docente, además, deberá impulsar en su acción docente aquellas acti
 formativas que permitan al alumnado desarrollar las competencias sociales y personales 
 necesarias para su incorporación a la empresa u organismo equiparado.
 
-https://sede.gobiernodecanarias.org/boc
-boc-a-2024-230-3794
-Boletín Oficial de Canarias núm. 230 Lunes 18 de noviembre de 202439450
 5. Tutorías y cotutorías de centro.
 1. El tutor o tutora de centro es el profesorado del alumnado que realiza la formación 
 práctica, perteneciente a la familia profesional que forma parte del equipo educativo del 
@@ -999,9 +936,6 @@ necesarios para que el alumnado seleccionado realice las movilidades previstas.
 k) Informar al alumnado de su evolución durante el periodo formativo en la empresa u 
 organismo equiparado.
 
-https://sede.gobiernodecanarias.org/boc
-boc-a-2024-230-3794
-Boletín Oficial de Canarias núm. 230 Lunes 18 de noviembre de 202439451
 3. El cotutor o cotutora desempeñará funciones de apoyo al tutor o tutora del grupo 
 atendiendo al trimestre en curso. En este sentido, y según su disponibilidad horaria, se 
 encargará, en todo caso, de:
@@ -1038,9 +972,6 @@ personales, de salud y el acceso a aspectos íntimos de las personas por los pro
 y por el personal en formación de dichas instituciones, será de aplicación la normativa 
 específica.
 
-https://sede.gobiernodecanarias.org/boc
-boc-a-2024-230-3794
-Boletín Oficial de Canarias núm. 230 Lunes 18 de noviembre de 202439452
 i) Otras directrices acordadas con la empresa u organismo equiparado e incorporadas 
 en el convenio y/o concierto de cooperación.
 j) Aportar al centro educativo el Número Único de la Seguridad Social (NUSS) para ser 
@@ -1079,9 +1010,6 @@ prospectora de empresa u organismo equiparado.
 2. El prospector o prospectora es una figura independiente y autónoma para el ejercicio 
 de las funciones que se recogen en el siguiente apartado.
 
-https://sede.gobiernodecanarias.org/boc
-boc-a-2024-230-3794
-Boletín Oficial de Canarias núm. 230 Lunes 18 de noviembre de 202439453
 3. Podrá ser un docente que tendrá entre sus funciones las siguientes:
 a) Impulsar las relaciones entre los centros educativos y formativos, y el tejido productivo 
 para establecer un contacto real entre ambos agentes.
@@ -1119,9 +1047,6 @@ correspondiente.
 b) Funciones desempeñadas: descripción de la actividad desarrollada e intervalo de 
 tiempo en el que se ha desarrollado la misma.
 
-https://sede.gobiernodecanarias.org/boc
-boc-a-2024-230-3794
-Boletín Oficial de Canarias núm. 230 Lunes 18 de noviembre de 202439454
 1.3. Para becarios:
 Vida laboral y funciones desempeñadas: certificación de la persona responsable de la 
 organización donde se haya prestado la asistencia en la que consten, específicamente, las 
@@ -1164,9 +1089,6 @@ En cuanto al desarrollo de la formación profesional dual en las Gerencias de At
 Primaria, Gerencias de Servicios Sanitarios y Direcciones Gerencias Hospitalarias del 
 Servicio Canario de la Salud, se atenderá a lo establecido en la normativa vigente, teniendo 
 
-https://sede.gobiernodecanarias.org/boc
-boc-a-2024-230-3794
-Boletín Oficial de Canarias núm. 230 Lunes 18 de noviembre de 202439455
 preferencia en primer lugar el alumnado procedente de los centros públicos y en segundo 
 lugar el alumnado procedente de centros privados que hayan sido debidamente autorizados 
 por la Administración educativa de la Comunidad Autónoma de Canarias.
@@ -1209,9 +1131,6 @@ DGFPERE para dictar y remitir a los centros
 educativos, en el ámbito de sus competencias, orientaciones complementarias sobre esta 
 materia.
 
-boc-a-2024-230-3794
-Boletín Oficial de Canarias núm. 230 Lunes 18 de noviembre de 202439456
-https://sede.gobiernodecanarias.org/boc
 Anexo II
 PLAN FORMATIVO EN EMPRESA U ORGANISMO EQUIPARADO
 RÉGIMEN (General/Intensivo)________________
@@ -1248,9 +1167,6 @@ Enseñanzas de Régimen Especial.
 ANEXO II
 PLAN FORMATIVO EN EMPRESA U ORGANISMO EQUIPARADO
 
-boc-a-2024-230-3794
-Boletín Oficial de Canarias núm. 230 Lunes 18 de noviembre de 202439457
-https://sede.gobiernodecanarias.org/boc
 CÓDIGO MÓDULO 
 PROFESIONAL
 RESULTADOS DE APRENDIZAJE HORAS  A 
@@ -1270,9 +1186,6 @@ RESULTADOS DE APRENDIZAJE A
  
  IMPLEMENTAR EN LA EMPRESA  (Cumplimentar uno por módulo)
 
-boc-a-2024-230-3794
-Boletín Oficial de Canarias núm. 230 Lunes 18 de noviembre de 202439458
-https://sede.gobiernodecanarias.org/boc
 RESULTADOS DE APRENDIZAJE A IMPLEMENTAR EN LA EMPRESA  (Cumplimentar uno por módulo)
 CÓDIGO MÓDULO 
 PROFESIONAL
@@ -1290,17 +1203,11 @@ RA 3:
 TAREAS A REALIZAR EN LA EMPRESA RELACIONADAS CON EL RESULTADO DE APRENDIZAJE
 V ALORACIÓN CUALITATIV A DE LA ADQUISICIÓN DEL RESULTADO DE APRENDIZAJE
 
-boc-a-2024-230-3794
-Boletín Oficial de Canarias núm. 230 Lunes 18 de noviembre de 202439459
-https://sede.gobiernodecanarias.org/boc
 OBSERV ACIONES
 Fdo.: Tutor/tutora centro de formación Fdo.: Tutor/ tutora de empresa u organismo 
 equiparado
 Fdo.: Alumno/ Alumna
 
-boc-a-2024-230-3794
-Boletín Oficial de Canarias núm. 230 Lunes 18 de noviembre de 202439460
-https://sede.gobiernodecanarias.org/boc
  ANEXO III.       
 SOLICITUD DE ALUMNADO CON INDICACIÓN DE PREFERENCIA  DE RÉGIMEN Y ASIGNACIÓN DE EMPRESA.
 SOLICITUD DE ALUMNADO CON INDICACIÓN DE PREFERENCIA  DE RÉGIMEN Y ASIGNACIÓN DE EMPRESA.
@@ -1321,9 +1228,6 @@ Prefiero participar en Modalidad en régimen intensivo.
 ANEXO III
 SOLICITUD DE ALUMNADO CON INDICACIÓN DE PREFERENCIA DE RÉGIMEN Y ASIGNACIÓN DE EMPRESA
 
-boc-a-2024-230-3794
-Boletín Oficial de Canarias núm. 230 Lunes 18 de noviembre de 202439461
-https://sede.gobiernodecanarias.org/boc
 1.
 2.
 3.

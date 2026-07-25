@@ -32,7 +32,6 @@ fundamentos_derecho:
 
 # Ley Orgánica 1/1982 de Protección Civil del Derecho al Honor, a la Intimidad Personal y a la Propia Imagen
 
-
 **DON JUAN CARLOS I, REY DE ESPAÑA**
 
 A todos los que la presente vieren y entendieren.
@@ -63,7 +62,6 @@ CAPITULO PRIMERO
 
 Disposiciones generales
 
-
 #### Artículo primero
 
 Uno. El derecho fundamental al honor, a la intimidad personal y familiar y a la propia imagen, garantizado en el artículo dieciocho de la Constitución, será protegido civilmente frente a todo género de intromisiones ilegítimas, de acuerdo con lo establecido en la presente Ley Orgánica.
@@ -71,7 +69,6 @@ Uno. El derecho fundamental al honor, a la intimidad personal y familiar y a la 
 Dos. Cuando la intromisión sea constitutiva de delito, se estará a lo dispuesto en el Código Penal. No obstante, serán aplicables los criterios de esta ley para la determinación de la responsabilidad civil derivada de delito.
 
 Tres. El derecho al honor, a la intimidad personal y familiar y a la propia imagen es errenunciable, inalienable e imprescriptible. La renuncia a la protección prevista en esta ley será nula, sin perjuicio de los supuestos de autorización o consentimiento a que se refiere el artículo segundo de esta ley.
-
 
 #### Artículo segundo
 
@@ -81,13 +78,11 @@ Dos. No se apreciará la existencia de intromisión ilegítima en el ámbito pro
 
 Tres. El consentimiento a que se refiere el párrafo anterior será revocable en cualquier momento, pero habrán de indemnizarse en su caso, los daños y perjuicios causados, incluyendo en ellos las expectativas justificadas.
 
-
 #### Artículo tercero
 
 Uno. El consentimiento de los menores e incapaces deberá prestarse por ellos mismos si sus condiciones de madurez lo permiten, de acuerdo con la legislación civil.
 
 Dos. En los restantes casos, el consentimiento habrá de otorgarse mediante escrito por su representante legal, quien estará obligado a poner en conocimiento previo del Ministerio Fiscal el consentimiento proyectado. Si en el plazo de ocho días el Ministerio Fiscal se opusiere, resolverá el Juez.
-
 
 #### Artículo cuarto
 
@@ -97,13 +92,11 @@ Dos. No existiendo designación o habiendo fallecido la persona designada, estar
 
 Tres. A falta de todos ellos, el ejercicio de las acciones de protección corresponderá al Ministerio Fiscal, que podrá actuar de oficio a la instancia de persona interesada, siempre que no hubieren transcurrido más de ochenta años desde el fallecimiento del afectado. El mismo plazo se observará cuando el ejercicio de las acciones mencionadas corresponda a una persona jurídica designada en testamento.
 
-
 #### Artículo quinto
 
 Uno. Cuando sobrevivan varios parientes de los señalados en el artículo anterior, cualquiera de ellos podrá ejercer las acciones previstas para la protección de los derechos del fallecido.
 
 Dos. La misma regla se aplicará, salvo disposición en contrario del fallecido, cuando hayan sido varias las personas designadas en su testamento.
-
 
 #### Artículo sexto
 
@@ -114,7 +107,6 @@ Dos. Las mismas personas podrán continuar la acción ya entablada por el titula
 CAPITULO II
 
 De la protección civil del honor, de la intimidad y de la propia imagen
-
 
 #### Artículo séptimo
 
@@ -134,7 +126,6 @@ Seis. La utilización del nombre, de la voz o de la imagen de una persona para f
 
 Siete. La divulgación de expresiones o hechos concernientes a una persona cuando la difame o la haga desmerecer en la consideración ajena.
 
-
 #### Artículo octavo
 
 Uno. No se reputará, con carácter general, intromisiones ilegítimas las actuaciones autorizadas o acordadas por la Autoridad competente de acuerdo con la ley, ni cuando predomine un interés histórico, científico o cultural relevante.
@@ -149,7 +140,6 @@ c) La información gráfica sobre un suceso o acaecimiento público cuando la im
 
 Las excepciones contempladas en los párrafos a) y b) no serán de aplicación respecto de las autoridades o personas que desempeñen funciones que por su naturaleza necesiten el anonimato de la persona que las ejerza.
 
-
 #### Artículo noveno
 
 Uno. La tutela judicial frente a las intromisiones ilegítimas en los derechos a que se refiere la presente ley podrá recabarse por las vías procesales ordinarias o por el procedimiento previsto en el artículo cincuenta y tres, dos, de la Constitución. También podrá acudirse, cuando proceda, al recurso de amparo ante el Tribunal Constitucional.
@@ -162,18 +152,15 @@ Cuatro. El importe de la indemnización por el daño moral, en el caso del artí
 
 Cinco. Las acciones de protección frente a las intromisiones ilegítimas caducarán transcurridos cuatro años desde que el legitimado pudo ejercitarlas.
 
-
 #### DISPOSICIÓN DEROGATORIA
 
 Quedan derogadas cuantas disposiciones de igual o inferior rango se opongan a lo previsto en la presente Ley Orgánica.
 
 [encabezado]DISPOSICIONES TRANSITORIAS
 
-
 #### [precepto]Primera.
 
 En tanto no se promulgue la normativa prevista en el artículo dieciocho, apartado cuatro, de la Constitución, la protección civil del honor y la intimidad personal y familiar frente a las intromisiones ilegítimas derivadas del uso de la informática se regulará por la presente ley.
-
 
 #### [precepto]Segunda.
 

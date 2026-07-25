@@ -34,9 +34,6 @@ fuente_pdf_oficial: https://sede.gobiernodecanarias.org/boc/boc-a-2026-039-642.p
 
 # Resolución de 13 de febrero de 2026, por la que se convoca el procedimiento de admisión del alumnado a los Ciclos Formativos de Grado Básico, Medio y Superior (Grado D, niveles 1, 2 y 3, respectivamente) y de los cursos de especialización de Grado Medio y Superior (Grados E, niveles 2 y 3, respectivamente) de todas las Enseñanzas de Formación Profesional autorizadas, Enseñanzas Profesionales de Artes Plásticas y Diseño, Enseñanzas Deportivas, Enseñanzas Elementales y Profesionales de Música y Enseñanzas de Idiomas en centros docentes sostenidos con fondos públicos en la Comunidad Autónoma de Canarias para el curso escolar 2026-2027.
 
-https://sede.gobiernodecanarias.org/boc
-boc-a-2026-039-642
-Boletín Oficial de Canarias núm. 39 Jueves 26 de febrero de 20267333
 III. Otras Resoluciones
 Consejería de Educación, Formación Profesional, Actividad Física y Deportes
 642 Dirección General de Formación Profesional y Enseñanzas de Régimen Especial.- 
@@ -78,9 +75,6 @@ en el concierto.
 f) Para quien desee cursar una doble titulación de Formación Profesional (Grado D, 
 niveles 2 y 3).
 
-https://sede.gobiernodecanarias.org/boc
-boc-a-2026-039-642
-Boletín Oficial de Canarias núm. 39 Jueves 26 de febrero de 20267334
 g) Alumnado que desee estudiar una formación en modalidad bilingüe (Grado D, 
 niveles 2 y 3).
 h) Para aquellas personas que opten por una especialización de Grado Medio, conducente 
@@ -125,9 +119,6 @@ padres, madres, tutores o tutoras legales o por el alumno o alumna mayor de edad
 Quinto.- La Orden de 3 de marzo de 2022, por la que se desarrolla el Decreto 9/2022, 
 de 20 de enero, que regula la admisión del alumnado en centros docentes que oferten 
 
-https://sede.gobiernodecanarias.org/boc
-boc-a-2026-039-642
-Boletín Oficial de Canarias núm. 39 Jueves 26 de febrero de 20267335
 enseñanzas no universitarias sostenidas con fondos públicos en la Comunidad Autónoma 
 de Canarias, en su artículo 7.1 dispone que la dirección general competente en materia de 
 escolarización dictará las instrucciones necesarias y convocará anualmente el procedimiento 
@@ -172,9 +163,6 @@ Primero.- Aprobar las presentes instrucciones contenidas en esta Resolución que
 por objeto publicar el procedimiento de admisión del alumnado, el calendario de aplicación 
 y sus instrucciones básicas, en los centros docentes sostenidos con fondos públicos de 
 
-https://sede.gobiernodecanarias.org/boc
-boc-a-2026-039-642
-Boletín Oficial de Canarias núm. 39 Jueves 26 de febrero de 20267336
 las Enseñanzas de Formación Profesional siguientes: Grados D (niveles 1, 2 y 3), Grados 
 E (niveles 2 y 3), dobles titulaciones de Formación Profesional de Grado D (niveles 2 
 y 3), en los segundos (2.º) o terceros (3.º) cursos para alumnado que desee cambiar de 
@@ -204,9 +192,6 @@ interponer.
 Las Palmas de Gran Canaria, a 13 de febrero de 2026.- La Directora General de 
 Formación Profesional y Enseñanzas de Régimen Especial, Carolina León Martínez.
 
-https://sede.gobiernodecanarias.org/boc
-boc-a-2026-039-642
-Boletín Oficial de Canarias núm. 39 Jueves 26 de febrero de 20267337
 ANEXO
 PROCEDIMIENTO DE ADMISIÓN DEL ALUMNADO, CALENDARIO DE APLICACIÓN 
 E INSTRUCCIONES BÁSICAS DE LAS ENSEÑANZAS DE FORMACIÓN PROFESIONAL 
@@ -268,9 +253,6 @@ autóctono de alto nivel de Canarias en las condiciones que establece el Decreto
 de 5 de febrero, por el que se regula la calificación de deportista de alto rendimiento y de 
 deportista autóctono de alto nivel de Canarias y se establecen medidas de apoyo.
 
-https://sede.gobiernodecanarias.org/boc
-boc-a-2026-039-642
-Boletín Oficial de Canarias núm. 39 Jueves 26 de febrero de 20267338
 Tercera.- Centros de prioridad por simultaneidad.
 Los centros de referencia, a efectos de prioridad, en las Enseñanzas de Educación 
 Secundaria, para el alumnado que curse simultáneamente Enseñanzas de Educación 
@@ -314,9 +296,6 @@ siguiente manera:
 1. Para el curso 2026-2027 estarán implementadas la distribución horaria en el primer y 
 segundo curso de la totalidad de los Grados D y E autorizados en la Comunidad Autónoma de 
 
-https://sede.gobiernodecanarias.org/boc
-boc-a-2026-039-642
-Boletín Oficial de Canarias núm. 39 Jueves 26 de febrero de 20267339
 Canarias establecida por ordenación académica LOOIFP. En este curso escolar se mantiene 
 la distribución horaria y las instrucciones que para la oferta de Formación Profesional 
 semipresencial estableció la Resolución de 23 de septiembre de 2020 para el tercer curso, 
@@ -331,9 +310,6 @@ LOOIFP. En el curso 2026-2027
 el alumnado que ha cursado este primer curso, pasará a segundo curso cumpliendo el Plan 
 de Estudios definido por la LOOIFP.
 
-boc-a-2026-039-642
-Boletín Oficial de Canarias núm. 39 Jueves 26 de febrero de 20267340
-https://sede.gobiernodecanarias.org/boc
 Folio 8/22
 ANEXO I
 CURSO 2026-2027
@@ -447,9 +423,6 @@ puede ser comprobada la autenticidad de esta copia, mediante el número de
 documento electrónico siguiente:
  0vngeCj6vNVn67fOluxcEsBTww02r4A2a
 
-boc-a-2026-039-642
-Boletín Oficial de Canarias núm. 39 Jueves 26 de febrero de 20267341
-https://sede.gobiernodecanarias.org/boc
 Folio 9/22
 Del 2 al 9 de julio
 Plazo de matrícula de nuevo ingreso,  de manera virtual preferentemente o 
@@ -522,9 +495,6 @@ puede ser comprobada la autenticidad de esta copia, mediante el número de
 documento electrónico siguiente:
  0vngeCj6vNVn67fOluxcEsBTww02r4A2a
 
-boc-a-2026-039-642
-Boletín Oficial de Canarias núm. 39 Jueves 26 de febrero de 20267342
-https://sede.gobiernodecanarias.org/boc
 Folio 10/22
 23 y 25 de julio
 Matriculación, de manera virtual (preferentemente) o presencial mediante el 
@@ -548,9 +518,6 @@ puede ser comprobada la autenticidad de esta copia, mediante el número de
 documento electrónico siguiente:
  0vngeCj6vNVn67fOluxcEsBTww02r4A2a
 
-boc-a-2026-039-642
-Boletín Oficial de Canarias núm. 39 Jueves 26 de febrero de 20267343
-https://sede.gobiernodecanarias.org/boc
 Folio 11 de 22
 ANEXO II
 CURSO 2026-2027
@@ -577,9 +544,6 @@ CALENDARIO PARA SOLICITUD POR PARTE DE LOS CENTROS EDUCATIVOS DE
 LAS ENSEÑANZAS DE FORMACIÓN PROFESIONAL IMPARTIDAS EN MODALIDAD 
 BILINGÜE EN LOS GRADOS D (NIVELES 2 Y 3).
 
-boc-a-2026-039-642
-Boletín Oficial de Canarias núm. 39 Jueves 26 de febrero de 20267344
-https://sede.gobiernodecanarias.org/boc
 Folio 12 de 22
 ANEXO III
  CURSO 2026-2027
@@ -622,9 +586,6 @@ NO ESCOLARIZADO EN EL CURSO 2025/2026 QUE TENGA SUPERADO EL PRIMER
 (1.º) O SEGUNDO (2.º) CURSO EN EL CASO DE ENSEÑANZAS EN MODALIDAD 
 SEMIPRESENCIAL DE LAS ENSEÑANZAS QUE SOLICITA.
 
-boc-a-2026-039-642
-Boletín Oficial de Canarias núm. 39 Jueves 26 de febrero de 20267345
-https://sede.gobiernodecanarias.org/boc
 Folio 13 de 22
 ANEXO IV
 CURSO  2026/2027
@@ -665,9 +626,6 @@ CALENDARIO PARA EL PROCEDIMIENTO DE ADMISIÓN Y MATRÍCULA DEL
 ALUMNADO DE ITINERARIOS FORMATIVOS DE FORMACIÓN PROFESIONAL 
 ADAPTADA( IF+16/IF+21).
 
-boc-a-2026-039-642
-Boletín Oficial de Canarias núm. 39 Jueves 26 de febrero de 20267346
-https://sede.gobiernodecanarias.org/boc
 Folio 14 de 22
 ANEXO V
  CURSO 2026/2027
@@ -694,9 +652,6 @@ CALENDARIO PARA EL PROCEDIMIENTO DE ADMISIÓN Y MATRÍCULA DEL
 ALUMNADO DE FORMACIÓN PROFESIONAL PARA CURSOS DE ESPECIALIZACIÓN 
 (GRADO E, NIVELES 2 Y 3).
 
-boc-a-2026-039-642
-Boletín Oficial de Canarias núm. 39 Jueves 26 de febrero de 20267347
-https://sede.gobiernodecanarias.org/boc
 Folio 15 de 22
 ANEXO VI
              CURSO 2026/2027
@@ -768,9 +723,6 @@ CALENDARIO DE ADMISIÓN Y MATRÍCULA PARA LOS CICLOS FORMATIVOS
 DE GRADO MEDIO Y SUPERIOR DE LAS ENSEÑANZAS PROFESIONALES DE ARTES 
 PLÁSTICAS Y DISEÑO.
 
-boc-a-2026-039-642
-Boletín Oficial de Canarias núm. 39 Jueves 26 de febrero de 20267348
-https://sede.gobiernodecanarias.org/boc
 Folio 16 de 22
 30 de junio Último día para que el centro grabe las modificaciones derivadas de las 
 reclamaciones a las listas provisionales de adjudicación de plazas.
@@ -792,9 +744,6 @@ puede ser comprobada la autenticidad de esta copia, mediante el número de
 documento electrónico siguiente:
  0vngeCj6vNVn67fOluxcEsBTww02r4A2a
 
-boc-a-2026-039-642
-Boletín Oficial de Canarias núm. 39 Jueves 26 de febrero de 20267349
-https://sede.gobiernodecanarias.org/boc
 Folio 17 de 22
 CONVOCATORIA EXTRAORDINARIA / SEPTIEMBRE 2026
 Los centros que dispongan de plazas vacantes, una vez cerrado el plazo ordinario, abrirán 
@@ -835,9 +784,6 @@ puede ser comprobada la autenticidad de esta copia, mediante el número de
 documento electrónico siguiente:
  0vngeCj6vNVn67fOluxcEsBTww02r4A2a
 
-boc-a-2026-039-642
-Boletín Oficial de Canarias núm. 39 Jueves 26 de febrero de 20267350
-https://sede.gobiernodecanarias.org/boc
 Folio 18 de 22
 ANEXO VII
          CURSO 2026/2027
@@ -897,9 +843,6 @@ CURSO 2026/2027
 CALENDARIO DE ADMISIÓN Y MATRÍCULA PARA LAS ENSEÑANZAS 
 DEPORTIV AS DE RÉGIMEN ESPECIAL
 
-boc-a-2026-039-642
-Boletín Oficial de Canarias núm. 39 Jueves 26 de febrero de 20267351
-https://sede.gobiernodecanarias.org/boc
 Folio 19 de 22
 CONVOCATORIA EXTRAORDINARIA / SEPTIEMBRE 2026
 Los centros que dispongan de plazas vacantes, una vez cerrado el plazo ordinario, abrirán un 
@@ -942,9 +885,6 @@ puede ser comprobada la autenticidad de esta copia, mediante el número de
 documento electrónico siguiente:
  0vngeCj6vNVn67fOluxcEsBTww02r4A2a
 
-boc-a-2026-039-642
-Boletín Oficial de Canarias núm. 39 Jueves 26 de febrero de 20267352
-https://sede.gobiernodecanarias.org/boc
 Folio 20 de 22
 ANEXO VIII
 CURSO 2026/2027
@@ -999,9 +939,6 @@ CURSO 2026/2027
 CALENDARIO DE ADMISIÓN Y MATRÍCULA PARA LAS ENSEÑANZAS 
 ELEMENTALES Y PROFESIONALES DE MÚSICA
 
-boc-a-2026-039-642
-Boletín Oficial de Canarias núm. 39 Jueves 26 de febrero de 20267353
-https://sede.gobiernodecanarias.org/boc
 Folio 21 de 22
  ANEXO IX
 CURSO 2026/2027
@@ -1062,9 +999,6 @@ CURSO 2026/2027
 CALENDARIO DE ADMISIÓN Y MATRÍCULA PARA LAS ENSEÑANZAS DE IDIOMAS 
 DE RÉGIMEN ESPECIAL
 
-boc-a-2026-039-642
-Boletín Oficial de Canarias núm. 39 Jueves 26 de febrero de 20267354
-https://sede.gobiernodecanarias.org/boc
 Folio 22 de 22
 PRUEBA DE CLASIFICACIÓN DE ENSEÑANZAS DE IDIOMAS DE RÉGIMEN 
 ESPECIAL

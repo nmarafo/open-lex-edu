@@ -57,30 +57,25 @@ En el proceso de elaboración de este real decreto han sido consultadas las comu
 
 En su virtud, a propuesta de la Ministra de Educación, Formación Profesional y Deportes, con la aprobación previa del Ministro para la Transformación Digital y de la Función Pública, de acuerdo con el Consejo de Estado, y previa deliberación del Consejo de Ministros en su reunión del día 3 de febrero de 2026,
 
-
 **DISPONGO:**
 
 CAPÍTULO I
 
 Disposiciones generales
 
-
 #### Artículo 1. Objeto.
 
 Este real decreto tiene por objeto regular los aspectos generales relativos a la inspección educativa, incluyendo su evaluación, el acceso al Cuerpo de Inspectores de Educación, así como la formación y cualificación profesional de los inspectores e inspectoras de educación y su desarrollo profesional.
 
-
 #### Artículo 2. Naturaleza del Cuerpo de Inspectores de Educación y régimen jurídico aplicable.
 
 El Cuerpo de Inspectores de Educación es un cuerpo docente que se rige por lo dispuesto en la Ley Orgánica 2/2006, de 3 de mayo, de Educación, por lo establecido en el presente real decreto, por las normas que constituyen las bases del régimen estatutario de la función pública docente, y por lo regulado por las administraciones educativas en el ámbito de sus competencias.
-
 
 #### Artículo 3. Ejercicio de la inspección educativa.
 
 1. La inspección educativa será ejercida por las administraciones educativas a través de personal funcionario público del Cuerpo de Inspectores de Educación.
 
 2. Atendiendo a las especiales atribuciones y responsabilidades que comporta el ejercicio de la función inspectora educativa, así como a las peculiaridades y superiores exigencias propias de su sistema de acceso en relación con los cuerpos docentes no universitarios, contempladas en el capítulo II del título VII y las disposiciones adicionales décima y duodécima de la Ley Orgánica 2/2006, de 3 de mayo, y en el presente real decreto, la pertenencia al Cuerpo de Inspectores de Educación comportará el debido reconocimiento por parte de las administraciones educativas de las que depende y la percepción de los complementos retributivos acordes a dicha consideración.
-
 
 #### Artículo 4. Principios de actuación de la inspección educativa.
 
@@ -98,7 +93,6 @@ d) Transparencia en cuanto a los fines de sus actuaciones, los instrumentos y 
 
 En todo caso, la inspección educativa deberá tener en cuenta los principios que inspiran el sistema educativo español, establecidos en el artículo 1 de la Ley Orgánica 2/2006, de 3 de mayo, para garantizar el interés superior del menor.
 
-
 #### Artículo 5. Fines de la inspección educativa.
 
 El ejercicio de la función inspectora tendrá como fines:
@@ -112,7 +106,6 @@ c) Garantizar los derechos y la observancia de los deberes de cuantos particip
 d) Mejorar el sistema educativo y la calidad y equidad de la enseñanza.
 
 En todo caso, la inspección educativa se orientará a la consecución de los fines del sistema educativo español establecidos en el artículo 2 de la Ley Orgánica 2/2006, de 3 de mayo.
-
 
 #### Artículo 6. Funciones de la inspección educativa.
 
@@ -138,7 +131,6 @@ i) Orientar a los equipos directivos en la adopción y seguimiento de medidas 
 
 j) Cualesquiera otras que les sean atribuidas por las administraciones educativas dentro del ámbito de sus competencias, orientadas a los fines a que se refiere el artículo 5 y de acuerdo con las atribuciones previstas en el artículo 7.
 
-
 #### Artículo 7. Atribuciones de los inspectores e inspectoras de educación.
 
 Para cumplir las funciones de la inspección educativa, los inspectores y las inspectoras de educación tendrán las siguientes atribuciones:
@@ -157,7 +149,6 @@ f) Conocer y analizar los resultados obtenidos por los centros y servicios con
 
 g) Cualesquiera otras que le sean atribuidas por las administraciones educativas, dentro del ámbito de sus competencias y orientadas a los fines y funciones a que se refieren los artículos anteriores.
 
-
 #### Artículo 8. Garantías para el ejercicio de las funciones y atribuciones de la inspección educativa.
 
 1. En su condición de autoridad pública los inspectores y las inspectoras de educación gozarán, en el ejercicio de sus funciones, de la protección reconocida a tal condición por el ordenamiento jurídico.
@@ -166,18 +157,15 @@ g) Cualesquiera otras que le sean atribuidas por las administraciones educativ
 
 3. En el ejercicio de sus funciones, los inspectores y las inspectoras de educación podrán requerir la cooperación de las personas responsables de los centros y servicios educativos, públicos y privados, así como del personal funcionario de las administraciones educativas y de otras administraciones. Asimismo, podrán solicitar entrevistas y requerir información relacionada con los procedimientos en los que intervengan por razón de sus funciones.
 
-
 #### Artículo 9. Organización y dependencia de la inspección educativa.
 
 Las administraciones educativas regularán la estructura y el funcionamiento de los órganos que establezcan para el desempeño de la inspección educativa en sus respectivos ámbitos territoriales. En todo caso, la estructura que se establezca deberá garantizar el cumplimiento de los principios de actuación y de las funciones y atribuciones que se regulan en este real decreto.
-
 
 #### Artículo 10. La visita de inspección.
 
 1. La visita de inspección a los centros, programas y servicios educativos es una de las principales técnicas para el desarrollo de las funciones que tienen encomendadas los inspectores y las inspectoras de educación. Deberá realizarse de conformidad con los principios de planificación, coordinación, seguimiento y registro de actuaciones.
 
 2. La presencia de los inspectores y las inspectoras de educación en los centros, programas y servicios educativos se llevará a cabo por orden superior, por propia iniciativa o en desarrollo de la planificación establecida para el desempeño de la inspección educativa por las administraciones educativas en sus respectivos ámbitos territoriales. Las Administraciones públicas atenderán los gastos derivados de los desplazamientos necesarios para garantizar dicha presencia con arreglo a lo dispuesto en la normativa vigente sobre indemnizaciones por razón del servicio, en particular el Real Decreto 462/2002, de 24 de mayo, sobre indemnizaciones por razón del servicio, o la normativa autonómica correspondiente.
-
 
 #### Artículo 11. Informes, actas, requerimientos y protocolos.
 
@@ -192,7 +180,6 @@ CAPÍTULO II
 Acceso al Cuerpo de Inspectores de Educación y provisión de puestos de forma temporal
 
 Sección 1.ª Disposiciones generales
-
 
 #### Artículo 12. Requisitos generales.
 
@@ -214,7 +201,6 @@ g) Acreditar, en su caso, el conocimiento de la lengua cooficial de la Comunid
 
 2. Todas las condiciones y requisitos enumerados deberán reunirse en la fecha en que finalicen los plazos de presentación de solicitudes y mantenerse hasta la toma de posesión como personal funcionario de carrera del Cuerpo de Inspectores de Educación.
 
-
 #### Artículo 13. Requisitos específicos.
 
 1. Las personas aspirantes deberán reunir los siguientes requisitos:
@@ -228,7 +214,6 @@ c) Estar en posesión del título de Doctorado, Máster Universitario, Licenci
 d) Dado que la labor desempeñada por los inspectores y las inspectoras de educación puede conllevar contacto con personas menores de edad, se deberá aportar la certificación negativa del Registro Central de Delincuentes Sexuales y de Trata de Seres Humanos, según lo establecido en los artículos 32 y 57 de la Ley Orgánica 8/2021, de 4 de junio, de protección integral a la infancia y la adolescencia frente a la violencia.
 
 2. Todas las condiciones y requisitos enumerados deberán reunirse en la fecha en que finalicen los plazos de presentación de solicitudes y mantenerse hasta la toma de posesión como funcionarios de carrera del Cuerpo de Inspectores de Educación.
-
 
 #### Artículo 14. Sistema selectivo para el acceso al Cuerpo de Inspectores de Educación.
 
@@ -244,7 +229,6 @@ d) Dado que la labor desempeñada por los inspectores y las inspectoras de edu
 
 6. En las convocatorias de acceso al Cuerpo de Inspectores de Educación las administraciones educativas podrán reservar hasta un tercio de las plazas para la provisión mediante concurso de méritos destinado al profesorado que, reuniendo los requisitos generales, haya ejercido con evaluación positiva, al menos durante tres mandatos, el cargo de director o directora de un centro educativo.
 
-
 #### Artículo 15. Temarios para el acceso al Cuerpo de Inspectores de Educación.
 
 1. El temario para el acceso al Cuerpo de Inspectores de Educación se aprobará previa consulta a las Comunidades Autónomas.
@@ -257,15 +241,9 @@ b) Parte B: Incluirá temas de carácter específico que se referirán a las c
 
 3. En las convocatorias que realicen las administraciones educativas se podrán añadir a los temas de carácter específico de la parte B del temario otros relacionados con la estructura y funcionamiento de los órganos de la inspección educativa, así como con la organización administrativa.
 
-
 #### Artículo 16. Convocatorias para el acceso al Cuerpo de Inspectores de Educación.
 
-1. El Ministerio competente en materia educativa publicará en el «Boletín Oficial del Estado» las convocatorias que realice en el ámbito de sus competencias, junto con sus bases. Las convocatorias que realicen los órganos correspondientes de las Comunidades Autónomas, junto con sus bases, se publicarán en sus respectivos boletines o diarios oficiales y en el «Boletín Oficial del Estado». En este último caso, la publicación en el «Boletín Oficial del Estado» podrá sustituirse por la inserción en este de un anuncio en el que se indique la administración educativa convocante, el cuerpo al que afecta la convocatoria, el número de plazas convocadas, el boletín o diario oficial, la fecha en que se hace pública la convocatoria, la fecha de terminación del plazo de presentación de solicitudes y el órgano o dependencia al que estas deben dirigirse.
-
 2. Las bases de las convocatorias vincularán a la administración, a los órganos de selección y a quienes participen en ellas. Las convocatorias o sus bases, una vez publicadas, solamente podrán ser modificadas con sujeción estricta a las normas de la Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común de las Administraciones Públicas. No obstante, cuando se produzca únicamente un incremento en el número de plazas vacantes convocadas, no será preceptiva la apertura de un nuevo plazo de presentación de solicitudes.
-
-3. Las administraciones educativas publicarán las convocatorias de acceso al Cuerpo de Inspectores de Educación incluidas en sus ofertas de empleo público en el mismo año natural de su publicación en el «Boletín Oficial del Estado», ejecutándolas en el plazo máximo de dos años desde dicha publicación y desarrollando la fase de oposición en el plazo de un año, salvo causa justificada, conforme a lo previsto en el artículo 108.2 del Real Decreto-ley 6/2023, de 19 de diciembre, por el que se aprueban medidas urgentes para la ejecución del Plan de Recuperación, Transformación y Resiliencia en materia de servicio público de justicia, función pública, régimen local y mecenazgo. En todo caso, con el objetivo de reducir el número de plazas vacantes cubiertas por personal funcionario en comisión de servicios de acuerdo con lo previsto en el artículo 25, cuando el número de vacantes haya alcanzado el 30 %, deberán convocar procedimiento selectivo en un plazo no superior a dos años.
-
 
 #### Artículo 17. Contenido de las convocatorias.
 
@@ -293,7 +271,6 @@ b) La forma de provisión de puestos de inspector o inspectora accidental.
 
 Sección 2.ª De los órganos de selección
 
-
 #### Artículo 18. Órganos de selección y nombramiento.
 
 1. La selección será realizada por tribunales y, en su caso, por comisiones de selección u órganos equivalentes nombrados al efecto por la correspondiente administración educativa.
@@ -301,7 +278,6 @@ Sección 2.ª De los órganos de selección
 2. Los miembros de los órganos de selección serán nombrados en cada convocatoria en el plazo y por el procedimiento que en esta se disponga.
 
 3. Cuando se nombre más de un tribunal, las convocatorias podrán determinar la constitución de una Comisión de Selección que actuará conforme a lo previsto en el artículo 20 del presente real decreto.
-
 
 #### Artículo 19. Composición de los órganos de selección.
 
@@ -322,7 +298,6 @@ Sección 2.ª De los órganos de selección
 8. Cuando concurra alguna de las circunstancias previstas en el artículo 23 de la Ley 40/2015, de 1 de octubre, de Régimen Jurídico del Sector Público, o si hubiesen realizado tareas de preparación de aspirantes a pruebas selectivas para el mismo cuerpo en los cinco años anteriores, los miembros de los órganos de selección deberán abstenerse de intervenir, notificándolo, con la debida justificación documental, a la autoridad convocante, quien resolverá lo que proceda.
 
 9. Podrá promoverse la recusación de los miembros de los órganos de selección en los casos y forma previstos en el artículo 24 de la Ley 40/2015, de 1 de octubre.
-
 
 #### Artículo 20. Funciones de los órganos de selección.
 
@@ -354,7 +329,6 @@ d) La declaración de aspirantes que hayan superado las fases de concurso y op
 
 Sección 3.ª Fase de oposición, fase de concurso y fase de prácticas
 
-
 #### Artículo 21. Fase de oposición.
 
 1. La fase de oposición permitirá la valoración de la capacidad de liderazgo pedagógico y la evaluación de las competencias profesionales propias de la función inspectora de las personas aspirantes, así como los conocimientos pedagógicos, de administración y legislación educativa para su desempeño.
@@ -375,13 +349,11 @@ De acuerdo con lo que establezcan las administraciones educativas, en la prueba 
 
 5. Las administraciones educativas determinarán en sus respectivas convocatorias las características, duración y orden de cada una de las pruebas.
 
-
 #### Artículo 22. Fase de concurso.
 
 En la fase de concurso se valorarán la trayectoria profesional de las personas candidatas y sus méritos específicos como docentes, el desempeño de cargos directivos y de coordinación didáctica con evaluación positiva, la pertenencia a alguno de los cuerpos de catedráticos a los que se refiere la Ley Orgánica 2/2006, de 3 de mayo, el ejercicio, en su caso, de la función inspectora, así como la preparación científica y didáctica y otros méritos.
 
 En todo caso, los baremos de las convocatorias deberán respetar las especificaciones básicas que se recogen en el anexo I.
-
 
 #### Artículo 23. Superación de las fases de oposición y concurso.
 
@@ -398,7 +370,6 @@ c) Mayor puntuación en los apartados del baremo de méritos por el orden en q
 d) Mayor puntuación en los subapartados del baremo, por el orden en que estos aparezcan en la convocatoria.
 
 Las convocatorias establecerán un quinto criterio de desempate, que se aplicará si persistiera el empate, una vez aplicados los cuatro criterios anteriores.
-
 
 #### Artículo 24. Fase de prácticas.
 
@@ -422,7 +393,6 @@ b) Incluirá un curso de formación específica para el desempeño de la funci
 
 Sección 4.ª Inspectores e inspectoras accidentales
 
-
 #### Artículo 25. Inspectores e inspectoras accidentales.
 
 1. Con carácter temporal y por razones de necesidad podrán desempeñar funciones inspectoras, en comisión de servicios, quienes reúnan los requisitos establecidos para el acceso al Cuerpo de Inspectores de Educación.
@@ -441,7 +411,6 @@ CAPÍTULO III
 
 Formación y cualificación profesional
 
-
 #### Artículo 26. Derecho y deber a la formación.
 
 1. El perfeccionamiento y actualización en el ejercicio profesional es un derecho y un deber para todos los inspectores y las inspectoras de educación.
@@ -456,7 +425,6 @@ Formación y cualificación profesional
 
 6. Las administraciones educativas, en el ámbito de sus competencias, regularán los permisos y licencias necesarios para que los inspectores y las inspectoras de educación puedan actualizar y perfeccionar su cualificación profesional, al menos en las mismas condiciones establecidas para el resto de los cuerpos docentes que imparten enseñanzas reguladas en la Ley Orgánica 2/2006, de 3 de mayo.
 
-
 #### Artículo 27. Planes y actividades de formación.
 
 1. Los planes de formación diseñados por las administraciones educativas podrán incluir actividades formativas voluntarias u obligatorias, en las que se garantizará la accesibilidad universal, en la modalidad de cursos, seminarios, grupos de trabajo, jornadas, intercambios con profesionales de la inspección educativa en el ámbito nacional e internacional, así como cualquier otro tipo de propuesta de formación, tanto individual como colectiva, que sean clave para el ejercicio de sus funciones y atribuciones. La formación que se contemple como obligatoria se considerará parte de la jornada laboral, computándose a todos los efectos como tal.
@@ -467,13 +435,11 @@ Formación y cualificación profesional
 
 4. Las administraciones educativas fomentarán la formación entre iguales por medio de seminarios o grupos de trabajo sobre aspectos clave de sus respectivos planes de actuación.
 
-
 #### Artículo 28. Reconocimiento de la formación y tutoría.
 
 1. La asistencia, la participación, el aprovechamiento o la superación, en su caso, de actividades de formación se reconocerá como mérito, en la forma que se establezca, en los procedimientos de concurso de méritos que convoque la correspondiente administración educativa.
 
 2. El desempeño de la tutoría del personal funcionario en prácticas del Cuerpo de Inspectores de Educación o de los docentes que realizan la función inspectora de forma temporal podrá comportar igualmente el debido reconocimiento.
-
 
 #### Artículo 29. Colaboración e intercambio de buenas prácticas.
 
@@ -487,13 +453,11 @@ CAPÍTULO IV
 
 Desarrollo profesional
 
-
 #### Artículo 30. Carrera profesional en la inspección educativa.
 
 1. Los inspectores y las inspectoras de educación, como personal funcionario público, tienen derecho a la promoción profesional, conforme a los principios de igualdad, mérito y capacidad.
 
 2. Las administraciones educativas, conforme a lo establecido en sus respectivas normativas de Función Pública, impulsarán y regularán la implantación de medidas destinadas al desarrollo de la carrera profesional de los inspectores y las inspectoras de educación.
-
 
 #### Artículo 31. Recursos técnicos e indemnizaciones por razón de servicio.
 
@@ -503,11 +467,9 @@ Desarrollo profesional
 
 3. Los inspectores y las inspectoras de educación, conforme a los principios de indemnidad y de responsabilidad patrimonial de la administración, tienen derecho a ser compensados económicamente por cualquier perjuicio que puedan sufrir en el desempeño de sus funciones, así como a percibir las indemnizaciones correspondientes por razón del servicio, de acuerdo con la normativa que en esta materia dicte la correspondiente administración en la que preste servicios y, de forma supletoria, lo dispuesto en la normativa estatal.
 
-
 #### Artículo 32. Complementos retributivos.
 
 Los inspectores y las inspectoras de educación, como personal funcionario de un cuerpo docente, percibirán, en el ejercicio de la función inspectora y cuando se encuentren sometidos al régimen retributivo docente, los complementos propios de la función pública docente y, específicamente, el complemento de formación permanente o sexenio y el correspondiente al ejercicio de la función directiva en los términos que determinen las administraciones educativas.
-
 
 #### Artículo 33. Comisiones de servicio.
 
@@ -515,11 +477,9 @@ Los inspectores y las inspectoras de educación, como personal funcionario de un
 
 2. Las administraciones educativas podrán establecer los procedimientos para que el personal funcionario de carrera del Cuerpo de Inspectores de Educación pueda acceder a comisiones de servicio, que en ningún caso serán más restrictivos que los del resto de cuerpos docentes o funcionariado en general.
 
-
 #### Artículo 34. Movilidad.
 
 Los inspectores y las inspectoras de educación, como personal funcionario de un cuerpo docente, podrán participar en los concursos de traslados de ámbito estatal y autonómico, de acuerdo con la normativa correspondiente.
-
 
 #### Artículo 35. Movilidad por causa violencia de género o violencia sexual.
 
@@ -529,16 +489,13 @@ El cambio de puesto de trabajo se concederá por el tiempo necesario para hacer 
 
 En estos casos, a la funcionaria de carrera se le reservará el puesto de trabajo al que se encuentre adscrita con carácter definitivo y tiene derecho a percibir las retribuciones correspondientes al puesto de trabajo que realmente desempeñe.
 
-
 #### Artículo 36. Puestos en el exterior.
 
 El Ministerio competente en materia educativa promoverá la participación de los funcionarios y funcionarias pertenecientes al Cuerpo de Inspectores de Educación en los procedimientos de provisión de puestos vacantes de asesores y asesoras en el exterior.
 
-
 #### Artículo 37. Modalidad de prestación de servicios a distancia.
 
 La presencia de las inspectoras e inspectores de educación en los centros del sistema educativo y en los servicios educativos es prioritaria. No obstante, en el marco de lo establecido en el artículo 47 bis del texto refundido de la Ley del Estatuto Básico del Empleado Público, aprobado por el Real Decreto Legislativo 5/2015, de 30 de octubre, las administraciones educativas regularán la forma en que los inspectores y las inspectoras de educación puedan ejercer la modalidad de prestación de servicios a distancia en las tareas cuyo contenido competencial no requiera su presencia física, siempre que las necesidades del servicio lo permitan, fuera de las dependencias de la administración correspondiente mediante el uso de tecnologías de la información y comunicación, garantizando la accesibilidad.
-
 
 #### Artículo 38. Participación.
 
@@ -548,7 +505,6 @@ CAPÍTULO V
 
 Evaluación
 
-
 #### Artículo 39. Evaluación de la inspección educativa.
 
 1. La inspección educativa estará sometida a la evaluación de su desempeño profesional a través de los medios que garanticen la publicidad, la transparencia, el mérito y la igualdad. Su evaluación se realizará de acuerdo con lo previsto con carácter general en el título VI de la Ley Orgánica 2/2006, de 3 de mayo, para la evaluación del sistema educativo.
@@ -557,18 +513,15 @@ Evaluación
 
 3. Las administraciones educativas podrán determinar que las unidades competentes en materia de inspección educativa sean las encargadas de diseñar su evaluación interna y externa, incorporando dimensiones e indicadores, atendiendo a los niveles de la organización territorial y tomando como referencia las funciones de la inspección educativa y su ejercicio.
 
-
 #### Artículo 40. Planes de evaluación de la inspección educativa.
 
 1. Las administraciones educativas establecerán planes periódicos de evaluación interna y externa del funcionamiento de la inspección educativa, a fin de valorar el grado de consecución de los objetivos previstos y de establecer las propuestas de mejora correspondientes.
 
 2. La evaluación interna podrá comprender la evaluación del funcionamiento de la inspección educativa, la evaluación del cumplimiento de los planes generales y anuales de actuación, la evaluación del ejercicio de la función inspectora y la evaluación de los inspectores y las inspectoras en prácticas y de nueva incorporación.
 
-
 #### Artículo 41. Reconocimiento de la evaluación de la inspección educativa.
 
 La evaluación positiva del ejercicio de la función inspectora podrá conducir a los reconocimientos profesionales que las administraciones educativas determinen, además de considerarse como mérito a tener en cuenta en los procesos vinculados a la carrera profesional.
-
 
 #### Disposición adicional única. Aplicación en la Comunidad Foral de Navarra y en el País Vasco.
 
@@ -576,11 +529,9 @@ La evaluación positiva del ejercicio de la función inspectora podrá conducir 
 
 2. En el ámbito de la Comunidad Autónoma del País Vasco el presente real decreto se aplicará de conformidad con el artículo 149.1.18.ª y disposición adicional primera de la Constitución, y con la Ley Orgánica 3/1979, de 18 de diciembre, por la que se aprueba el Estatuto de Autonomía para el País Vasco.
 
-
 #### Disposición transitoria única. Temarios que han de regir la fase de oposición de los procedimientos selectivos.
 
 Hasta que se aprueben nuevos temarios conforme a lo establecido en el artículo 15 del presente real decreto, serán de aplicación la Orden EDU/3429/2009, de 11 de diciembre, por la que se aprueba el temario de la fase de oposición del procedimiento selectivo de acceso al Cuerpo de Inspectores de Educación y la Orden EDU/617/2010, de 8 de marzo, por la que se aprueba, para el ámbito de gestión del Ministerio de Educación, el contenido de los temas que se incorporan al anexo II de la Orden EDU/3429/2009, de 11 de diciembre, por la que se aprueba el temario de la fase de oposición del procedimiento selectivo de acceso al Cuerpo de Inspectores de Educación.
-
 
 #### Disposición derogatoria única. Derogación normativa.
 
@@ -590,22 +541,17 @@ Hasta que se aprueben nuevos temarios conforme a lo establecido en el artículo�
 
 3. Quedan derogadas todas las disposiciones de igual o inferior rango que se opongan a lo establecido en esta norma.
 
-
 #### Disposición final primera. Títulos competenciales.
 
 El presente real decreto se dicta con carácter básico al amparo de las competencias que corresponden al Estado conforme al artículo 149.1.18.ª de la Constitución Española, que atribuye al Estado las bases del régimen jurídico de las Administraciones públicas y del régimen estatutario de sus funcionarios que, en todo caso, garantizarán a los administrados un tratamiento común ante ellas y en materia del procedimiento administrativo común, sin perjuicio de las especialidades derivadas de la organización propia de las Comunidades Autónomas; y al artículo 149.1.30.ª de la Constitución Española, en relación con la regulación de las condiciones de obtención, expedición y homologación de títulos académicos y profesionales y normas básicas para el desarrollo del artículo 27 de la Constitución Española, a fin de garantizar el cumplimiento de las obligaciones de los poderes públicos en esta materia.
 
 Se exceptúan del referido carácter básico los siguientes preceptos: artículos 14.5, 16.3, 26.6, 27, 29.1, 30.2, 31.2, 33 y 38.
 
-
 #### Disposición final segunda. Desarrollo reglamentario.
 
 Corresponde a la persona titular del Ministerio competente en materia educativa dictar, en el ámbito de sus competencias, cuantas disposiciones sean precisas para la ejecución y aplicación de lo establecido en este real decreto.
 
-
 #### Disposición final tercera. Entrada en vigor.
-
-Este real decreto entrará en vigor a los veinte días de su publicación en el «Boletín Oficial del Estado».
 
 Dado el 4 de febrero de 2026.
 

@@ -94,14 +94,11 @@ En el proceso de elaboración de este real decreto han sido consultadas las comu
 
 En su virtud, a propuesta de la Ministra de Educación y Formación Profesional, de acuerdo con el Consejo de Estado, y previa deliberación del Consejo de Ministros en su reunión del día 29 de marzo de 2022,
 
-
 **DISPONGO:**
-
 
 #### Artículo 1. Objeto.
 
 El presente real decreto tiene por objeto establecer la ordenación y las enseñanzas mínimas de la etapa de Educación Secundaria Obligatoria.
-
 
 #### Artículo 2. Definiciones.
 
@@ -119,7 +116,6 @@ e) Saberes básicos: conocimientos, destrezas y actitudes que constituyen los 
 
 f) Situaciones de aprendizaje: situaciones y actividades que implican el despliegue por parte del alumnado de actuaciones asociadas a competencias clave y competencias específicas y que contribuyen a la adquisición y desarrollo de las mismas.
 
-
 #### Artículo 3. La etapa de Educación Secundaria Obligatoria en el marco del sistema educativo.
 
 1. La Educación Secundaria Obligatoria es una etapa educativa que constituye, junto con la Educación Primaria y los Ciclos Formativos de Grado Básico, la Educación Básica.
@@ -128,11 +124,9 @@ f) Situaciones de aprendizaje: situaciones y actividades que implican el despl
 
 3. El cuarto curso tendrá carácter orientador, tanto para los estudios postobligatorios como para la incorporación a la vida laboral.
 
-
 #### Artículo 4. Fines.
 
 La finalidad de la Educación Secundaria Obligatoria consiste en lograr que los alumnos y alumnas adquieran los elementos básicos de la cultura, especialmente en sus aspectos humanístico, artístico, científico-tecnológico y motor; desarrollar y consolidar los hábitos de estudio y de trabajo, así como hábitos de vida saludables, preparándolos para su incorporación a estudios posteriores y para su inserción laboral; y formarlos para el ejercicio de sus derechos y obligaciones de la vida como ciudadanos y ciudadanas.
-
 
 #### Artículo 5. Principios generales.
 
@@ -145,7 +139,6 @@ La finalidad de la Educación Secundaria Obligatoria consiste en lograr que los 
 4. Entre las medidas señaladas en el apartado anterior se contemplarán las adaptaciones del currículo, la integración de materias en ámbitos, los agrupamientos flexibles, los desdoblamientos de grupos, la oferta de materias optativas, los programas de refuerzo y las medidas de apoyo personalizado para el alumnado con necesidad específica de apoyo educativo.
 
 5. Asimismo, se pondrá especial atención en la potenciación del aprendizaje de carácter significativo para el desarrollo de las competencias, promoviendo la autonomía y la reflexión.
-
 
 #### Artículo 6. Principios pedagógicos.
 
@@ -166,7 +159,6 @@ La finalidad de la Educación Secundaria Obligatoria consiste en lograr que los 
 8. Corresponde a las administraciones educativas promover las medidas necesarias para que la tutoría personal del alumnado y la orientación educativa, psicopedagógica y profesional, constituyan un elemento fundamental en la ordenación de esta etapa.
 
 9. De igual modo, corresponde a las administraciones educativas regular soluciones específicas para la atención de aquellos alumnos y alumnas que manifiesten dificultades especiales de aprendizaje o de integración en la actividad ordinaria de los centros, de los alumnos y alumnas de alta capacidad intelectual y de los alumnos y alumnas con discapacidad.
-
 
 #### Artículo 7. Objetivos.
 
@@ -195,7 +187,6 @@ j) Conocer, valorar y respetar los aspectos básicos de la cultura y la histor
 k) Conocer y aceptar el funcionamiento del propio cuerpo y el de los otros, respetar las diferencias, afianzar los hábitos de cuidado y salud corporales e incorporar la educación física y la práctica del deporte para favorecer el desarrollo personal y social. Conocer y valorar la dimensión humana de la sexualidad en toda su diversidad. Valorar críticamente los hábitos sociales relacionados con la salud, el consumo, el cuidado, la empatía y el respeto hacia los seres vivos, especialmente los animales, y el medio ambiente, contribuyendo a su conservación y mejora.
 
 l) Apreciar la creación artística y comprender el lenguaje de las distintas manifestaciones artísticas, utilizando diversos medios de expresión y representación.
-
 
 #### Artículo 8. Organización de los tres primeros cursos.
 
@@ -251,7 +242,6 @@ g) Música y/o Educación Plástica, Visual y Audiovisual.
 
 8. En aquellas comunidades autónomas que posean una lengua propia con carácter oficial, podrán establecerse exenciones de cursar o de ser evaluados de la materia correspondiente en las condiciones previstas en la normativa autonómica. Dicha materia recibirá el tratamiento que las comunidades autónomas afectadas determinen, garantizando, en todo caso, el objetivo de competencia lingüística suficiente en ambas lenguas oficiales.
 
-
 #### Artículo 9. Organización del cuarto curso.
 
 1. Las materias que deberá cursar todo el alumnado de cuarto curso serán las siguientes:
@@ -298,11 +288,9 @@ j) Tecnología.
 
 7. En aquellas comunidades autónomas que posean una lengua propia con carácter oficial, podrán establecerse exenciones de cursar o de ser evaluados de la materia correspondiente en las condiciones previstas en la normativa autonómica. Dicha materia recibirá el tratamiento que las comunidades autónomas afectadas determinen, garantizando, en todo caso, el objetivo de competencia lingüística suficiente en ambas lenguas oficiales.
 
-
 #### Artículo 10. Educación en Valores Cívicos y Éticos.
 
 En algún curso de la etapa todo el alumnado cursará la materia de Educación en Valores Cívicos y Éticos.
-
 
 #### Artículo 11. Competencias clave y Perfil de salida del alumnado al término de la enseñanza básica.
 
@@ -330,13 +318,11 @@ h) Competencia en conciencia y expresión culturales.
 
 4. Las enseñanzas mínimas que establece este real decreto tienen por objeto garantizar el desarrollo de las competencias clave previsto en el Perfil de salida. Los currículos establecidos por las administraciones educativas y la concreción de los mismos que los centros realicen en sus proyectos educativos tendrán, asimismo, como referente dicho Perfil de salida.
 
-
 #### Artículo 12. Competencias específicas, criterios de evaluación y saberes básicos.
 
 1. En el anexo II se fijan, para cada materia, las competencias específicas para la etapa, así como los criterios de evaluación y los contenidos, enunciados en forma de saberes básicos.
 
 2. Para la adquisición y desarrollo, tanto de las competencias clave como de las competencias específicas, el equipo docente planificará situaciones de aprendizaje en los términos que dispongan las administraciones educativas. Con el fin de facilitar al profesorado su propia práctica se enuncian en el anexo III orientaciones para su diseño.
-
 
 #### Artículo 13. Currículo.
 
@@ -350,7 +336,6 @@ h) Competencia en conciencia y expresión culturales.
 
 5. Las agrupaciones por ámbitos que se establezcan al amparo de lo dispuesto en los artículos 5.4 y 8.6 deberán respetar las competencias específicas, los criterios de evaluación y los saberes básicos de las materias que se integren en estos.
 
-
 #### Artículo 14. Horario.
 
 1. En el anexo IV se establece, para las diferentes materias de la Educación Secundaria Obligatoria, el horario escolar que corresponde a las enseñanzas mínimas.
@@ -358,7 +343,6 @@ h) Competencia en conciencia y expresión culturales.
 2. El horario escolar correspondiente a las enseñanzas mínimas de los ámbitos será el resultante de la suma del asignado a las materias que se integren en estos.
 
 3. Las administraciones educativas determinarán el porcentaje de los horarios escolares de que dispondrán los centros docentes para, conforme a lo dispuesto en el artículo 6.3, garantizar el desarrollo integrado de todas las competencias de la etapa y la incorporación de los contenidos de carácter transversal a todos los ámbitos y materias.
-
 
 #### Artículo 15. Evaluación.
 
@@ -382,7 +366,6 @@ h) Competencia en conciencia y expresión culturales.
 
 10. Se promoverá el uso generalizado de instrumentos de evaluación variados, diversos, accesibles y adaptados a las distintas situaciones de aprendizaje que permitan la valoración objetiva de todo el alumnado garantizándose, asimismo, que las condiciones de realización de los procesos asociados a la evaluación se adapten a las necesidades del alumnado con necesidad específica de apoyo educativo.
 
-
 #### Artículo 16. Promoción.
 
 1. Las decisiones sobre la promoción del alumnado de un curso a otro serán adoptadas, de forma colegiada, por el equipo docente, atendiendo al grado de consecución de los objetivos y de adquisición de las competencias establecidas y a la valoración de las medidas que favorezcan el progreso del alumno o la alumna. Los proyectos educativos de los centros regularán las actuaciones del equipo docente responsable de la evaluación, de acuerdo con lo establecido por las administraciones educativas.
@@ -403,7 +386,6 @@ Este alumnado deberá superar las evaluaciones correspondientes a dichos planes,
 
 8. En todo caso, la permanencia en el mismo curso se planificará de manera que las condiciones curriculares se adapten a las necesidades del alumnado y estén orientadas a la superación de las dificultades detectadas, así como al avance y profundización en los aprendizajes ya adquiridos. Estas condiciones se recogerán en un plan específico personalizado con cuantas medidas se consideren adecuadas para este alumnado.
 
-
 #### Artículo 17. Título de Graduado en Educación Secundaria Obligatoria.
 
 1. Obtendrán el título de Graduado en Educación Secundaria Obligatoria los alumnos y alumnas que, al terminar la Educación Secundaria Obligatoria, hayan adquirido, a juicio del equipo docente, las competencias clave establecidas en el Perfil de salida y alcanzado los objetivos de la etapa, sin perjuicio de lo establecido en el artículo 20.2.
@@ -415,7 +397,6 @@ Este alumnado deberá superar las evaluaciones correspondientes a dichos planes,
 4. En cualquier caso, todos los alumnos y alumnas recibirán, al concluir su escolarización en la Educación Secundaria Obligatoria, una certificación oficial en la que constará el número de años cursados y el nivel de adquisición de las competencias clave definidas en el Perfil de salida.
 
 5. Quienes, una vez finalizado el proceso de evaluación de cuarto curso de Educación Secundaria Obligatoria, no hayan obtenido el título, y hayan superado los límites de edad establecidos en el artículo 5.1, teniendo en cuenta asimismo la prolongación excepcional de la permanencia en la etapa que se prevé en el artículo 16.7, podrán hacerlo en los dos cursos siguientes a través de la realización de pruebas o actividades personalizadas extraordinarias de las materias o ámbitos que no hayan superado, de acuerdo con el currículo establecido por las administraciones educativas competentes y con la organización que dichas administraciones dispongan.
-
 
 #### Artículo 18. Tutoría y orientación.
 
@@ -431,7 +412,6 @@ Este alumnado deberá superar las evaluaciones correspondientes a dichos planes,
 
 6. Las administraciones educativas establecerán las características de los consejos orientadores a los que se refieren los apartados anteriores.
 
-
 #### Artículo 19. Atención a las diferencias individuales.
 
 1. Teniendo en cuenta los principios de educación común y de atención a la diversidad a los que se refiere el artículo 5.3, corresponderá a las administraciones educativas establecer la regulación que permita a los centros adoptar las medidas necesarias para responder a las necesidades educativas concretas de sus alumnos y alumnas, teniendo en cuenta sus circunstancias y sus diferentes ritmos de aprendizaje.
@@ -439,7 +419,6 @@ Este alumnado deberá superar las evaluaciones correspondientes a dichos planes,
 2. Dichas medidas, que formarán parte del proyecto educativo de los centros, estarán orientadas a permitir a todo el alumnado el desarrollo de las competencias previsto en el Perfil de salida y la consecución de los objetivos de la Educación Secundaria Obligatoria, por lo que en ningún caso podrán suponer una discriminación que impida a quienes se beneficien de ellas obtener la titulación correspondiente.
 
 3. Para lograr este objetivo, se podrán realizar adaptaciones curriculares y organizativas con el fin de que el alumnado con necesidad específica de apoyo educativo al que se refiere el artículo 71 de la Ley Orgánica 2/2006, de 3 de mayo, pueda alcanzar el máximo desarrollo de sus capacidades personales. En particular, se establecerán medidas de flexibilización y alternativas metodológicas en la enseñanza y la evaluación de la lengua extranjera para el alumnado con necesidad específica de apoyo educativo que presenta dificultades en su comprensión y expresión. Estas adaptaciones en ningún caso se tendrán en cuenta para minorar las calificaciones obtenidas.
-
 
 #### Artículo 20. Alumnado con necesidades educativas especiales.
 
@@ -453,13 +432,11 @@ Este alumnado deberá superar las evaluaciones correspondientes a dichos planes,
 
 5. La identificación y la valoración de las necesidades educativas de este alumnado se realizarán, lo más tempranamente posible, por profesionales especialistas y en los términos que determinen las administraciones educativas. En este proceso serán preceptivamente oídos e informados los padres, madres, tutores o tutoras legales del alumnado. Las administraciones educativas regularán los procedimientos que permitan resolver las discrepancias que puedan surgir, siempre teniendo en cuenta el interés superior del menor y la voluntad de las familias que muestren su preferencia por el régimen más inclusivo.
 
-
 #### Artículo 21. Alumnado con dificultades específicas de aprendizaje.
 
 1. La identificación del alumnado con dificultades específicas de aprendizaje, así como la valoración de dichas dificultades y la correspondiente intervención, se realizará de la forma más temprana posible y en los términos que determinen las administraciones educativas.
 
 2. La escolarización de este alumnado se regirá por los principios de normalización e inclusión y asegurará su no discriminación y la igualdad efectiva en el acceso y permanencia en el sistema educativo.
-
 
 #### Artículo 22. Alumnado con integración tardía en el sistema educativo español.
 
@@ -467,11 +444,9 @@ Este alumnado deberá superar las evaluaciones correspondientes a dichos planes,
 
 2. Quienes presenten un desfase en su nivel de competencia curricular de dos o más cursos podrán ser escolarizados en un curso inferior al que les correspondería por edad. Para este alumnado se adoptarán las medidas de refuerzo necesarias que faciliten su integración escolar y la recuperación de su desfase y le permitan continuar con aprovechamiento sus estudios. En el caso de superar dicho desfase, se incorporarán al grupo correspondiente a su edad.
 
-
 #### Artículo 23. Alumnado con altas capacidades intelectuales.
 
 En los términos que determinen las administraciones educativas, se podrá flexibilizar la escolarización del alumnado con altas capacidades intelectuales, de forma que pueda anticiparse un curso el inicio de la escolarización en la etapa o reducirse un curso la duración de la misma, cuando se prevea que son estas las medidas más adecuadas para el desarrollo de su equilibrio personal y su socialización.
-
 
 #### Artículo 24. Programas de diversificación curricular.
 
@@ -498,7 +473,6 @@ En los términos que determinen las administraciones educativas, se podrá flexi
 11. Los centros podrán organizar los programas de diversificación curricular en el marco de lo establecido por las administraciones educativas y teniendo en cuenta las necesidades de su alumnado.
 
 12. Las administraciones educativas garantizarán al alumnado con necesidades educativas especiales que participe en estos programas los recursos de apoyo que, con carácter general, se prevean para este alumnado.
-
 
 #### Artículo 25. Ciclos Formativos de Grado Básico.
 
@@ -536,7 +510,6 @@ Se establecerán las medidas más adecuadas para que las condiciones de realizac
 
 9. Las administraciones educativas podrán organizar ofertas específicas de Ciclos Formativos de Grado Básico dirigidas al alumnado con necesidades educativas especiales, destinadas a aquellos casos en que no sea posible su inclusión en ofertas ordinarias y sus necesidades no puedan ser atendidas en el marco de las medidas de atención a la diversidad, pudiendo escolarizarse al menos hasta los 21 años.
 
-
 #### Artículo 26. Autonomía de los centros.
 
 1. Al establecer el currículo de la Educación Secundaria Obligatoria, las administraciones educativas facilitarán a los centros el ejercicio de su autonomía pedagógica, de organización y de gestión, en los términos recogidos en la Ley Orgánica 2/2006, de 3 de mayo, y en las normas que la desarrollan, y favorecerán el trabajo en equipo del profesorado.
@@ -553,21 +526,17 @@ Se establecerán las medidas más adecuadas para que las condiciones de realizac
 
 7. Para garantizar la continuidad del proceso de formación y una transición y evolución positivas desde la Educación Primaria a la Educación Secundaria Obligatoria, y desde esta a la Educación Secundaria Postobligatoria, las administraciones educativas y los centros establecerán mecanismos para favorecer la coordinación entre las diferentes etapas.
 
-
 #### Artículo 27. Evaluación de diagnóstico.
 
 En el segundo curso de la Educación Secundaria Obligatoria todos los centros realizarán una evaluación de diagnóstico de las competencias adquiridas por su alumnado. Esta evaluación, que será responsabilidad de las administraciones educativas, tendrá carácter informativo, formativo y orientador para los centros, para el profesorado, para el alumnado y sus familias o tutores legales y para el conjunto de la comunidad educativa. Esta evaluación, de carácter censal, tendrá como marco de referencia el establecido en el artículo 144.1 de la Ley Orgánica 2/2006, de 3 de mayo.
-
 
 #### Artículo 28. Derecho del alumnado a una evaluación objetiva.
 
 En todos los procedimientos de evaluación, las administraciones educativas garantizarán el derecho del alumnado a que su dedicación, esfuerzo y rendimiento sean valorados y reconocidos con objetividad, para lo que establecerán los oportunos procedimientos que, en todo caso, atenderán al carácter continuo, formativo e integrador de la evaluación en esta etapa.
 
-
 #### Artículo 29. Participación y derecho a la información de madres, padres, tutoras o tutores legales.
 
 Cuando el alumnado sea menor de edad, los padres, madres, tutores o tutoras o legales deberán participar y apoyar la evolución de su proceso educativo, colaborando en las medidas de apoyo o refuerzo que adopten los centros para facilitar su progreso. Tendrán, además, derecho a conocer las decisiones relativas a su evaluación y promoción, a través de un boletín individualizado, así como al acceso a los documentos oficiales de evaluación y a las pruebas y documentos de las evaluaciones que se realicen a sus hijos, hijas, tutelados o tuteladas, en la parte referida al alumno o alumna de que se trate, sin perjuicio del respeto a las garantías establecidas en la Ley Orgánica 3/2018, de 5 de diciembre, de Protección de Datos Personales y garantía de los derechos digitales, y demás normativa aplicable en materia de protección de datos de carácter personal. A tal fin, el acceso a las actas de evaluación podrá sustituirse por un boletín individualizado con la información del acta referida al alumno o alumna de que se trate.
-
 
 #### Artículo 30. Documentos e informes de evaluación.
 
@@ -576,7 +545,6 @@ Cuando el alumnado sea menor de edad, los padres, madres, tutores o tutoras o le
 2. El historial académico y, en su caso, el informe personal por traslado, se consideran documentos básicos para garantizar la movilidad del alumnado por todo el territorio nacional.
 
 3. Los documentos oficiales de evaluación deberán recoger siempre la norma de la Administración educativa que establece el currículo correspondiente. Cuando hayan de surtir efectos fuera del ámbito de una comunidad autónoma cuya lengua tenga estatutariamente atribuido carácter oficial, se estará a lo dispuesto en el artículo 15.3 de la Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común de las Administraciones Públicas.
-
 
 #### Artículo 31. Actas de evaluación.
 
@@ -588,7 +556,6 @@ Cuando el alumnado sea menor de edad, los padres, madres, tutores o tutoras o le
 
 4. Las actas de evaluación serán firmadas por todo el profesorado del grupo y llevarán el visto bueno del director del centro.
 
-
 #### Artículo 32. Expediente académico.
 
 1. El expediente académico recogerá, junto con los datos de identificación del centro, los del alumno o alumna, así como la información relativa a su proceso de evaluación. Se abrirá en el momento de incorporación al centro y recogerá, al menos, los resultados de la evaluación de las materias o ámbitos, las decisiones de promoción y titulación, las medidas de apoyo educativo, las adaptaciones curriculares que se hayan adoptado para el alumno o alumna, y, en su caso, la fecha de entrega de la certificación de haber concluido la escolarización obligatoria a la que se refiere el artículo 17.4.
@@ -596,7 +563,6 @@ Cuando el alumnado sea menor de edad, los padres, madres, tutores o tutoras o le
 2. En el caso de que existan materias que hayan sido cursadas de forma integrada en un ámbito, en el expediente figurará, junto con la denominación de dicho ámbito, la indicación expresa de las materias integradas en el mismo.
 
 3. La custodia y el archivo de los expedientes académicos corresponden a los centros docentes en que se hayan realizado los estudios de las enseñanzas correspondientes y serán supervisados por la inspección educativa.
-
 
 #### Artículo 33. Historial académico.
 
@@ -606,13 +572,11 @@ Cuando el alumnado sea menor de edad, los padres, madres, tutores o tutoras o le
 
 3. Tras finalizar la etapa, el historial académico se entregará a los padres, madres, tutores o tutoras legales, o al propio alumno o alumna en caso de que fuese mayor de edad.
 
-
 #### Artículo 34. Informe personal por traslado.
 
 1. En el caso de que el alumno o la alumna se traslade a otro centro antes de finalizar la etapa, el centro de origen deberá remitir al de destino, y a petición de este, el informe personal por traslado, junto a una copia del historial académico. El centro receptor abrirá el correspondiente expediente académico. La matriculación adquirirá carácter definitivo una vez recibida la copia del historial académico.
 
 2. El informe personal por traslado contendrá los resultados de las evaluaciones que se hubieran realizado, la aplicación, en su caso, de medidas curriculares y organizativas, y todas aquellas observaciones que se consideren oportunas acerca del progreso general del alumno o la alumna.
-
 
 #### Artículo 35. Autenticidad, seguridad y confidencialidad.
 
@@ -625,7 +589,6 @@ Cuando el alumnado sea menor de edad, los padres, madres, tutores o tutoras o le
 4. El expediente electrónico estará constituido, al menos, por los datos contenidos en los documentos oficiales de evaluación, y cumplirá con lo establecido en el Real Decreto 4/2010, de 8 de enero, por el que se regula el Esquema Nacional de Interoperabilidad en el ámbito de la Administración Electrónica.
 
 5. El Ministerio de Educación y Formación Profesional, previa consulta a las comunidades autónomas en el marco de la Conferencia Sectorial de Educación, establecerá la estructura y formato de, al menos, los datos contenidos en los documentos oficiales de evaluación del expediente electrónico descritos en la presente disposición, de acuerdo con lo previsto en el artículo 111.bis y en el apartado 4 de la disposición adicional vigesimotercera de la Ley Orgánica 2/2006, de 3 de mayo, que junto con otros garanticen la interoperabilidad entre los distintos sistemas de información utilizados en el sistema educativo español.
-
 
 #### Disposición adicional primera. Enseñanzas de religión.
 
@@ -643,13 +606,11 @@ Las actividades a las que se refiere este apartado en ningún caso comportarán 
 
 6. Con el fin de garantizar el principio de igualdad y la libre concurrencia, las calificaciones que se hubieran obtenido en la evaluación de las enseñanzas de religión no se computarán en las convocatorias en las que deban entrar en concurrencia los expedientes académicos, ni cuando hubiera que acudir a estos a efectos de admisión de alumnos y alumnas, para realizar una selección entre los solicitantes.
 
-
 #### Disposición adicional segunda. Enseñanzas del sistema educativo español impartidas en lenguas extranjeras.
 
 1. Las administraciones educativas podrán autorizar que una parte de las materias del currículo se impartan en lenguas extranjeras sin que ello suponga modificación de los aspectos básicos del currículo regulados en el presente real decreto. En este caso, procurarán que a lo largo de la etapa los alumnos y alumnas adquieran la terminología propia de las materias en la lengua extranjera y en la lengua o lenguas oficiales de la comunidad autónoma.
 
 2. Los centros públicos y privados concertados que impartan una parte de las materias del currículo en lenguas extranjeras aplicarán, en todo caso, los criterios generales para la admisión del alumnado establecidos en el artículo 84 de la Ley Orgánica 2/2006, de 3 de mayo. Entre tales criterios no se incluirán requisitos lingüísticos.
-
 
 #### Disposición adicional tercera. Educación de Personas Adultas.
 
@@ -677,11 +638,9 @@ c) Ámbito científico-tecnológico, en el que se integrarán los aspectos bá
 
 9. Corresponderá igualmente a las administraciones educativas garantizar que las pruebas a las que se refiere el apartado anterior cuenten con las medidas de accesibilidad universal y las adaptaciones que precise todo el alumnado con necesidades educativas especiales.
 
-
 #### Disposición adicional cuarta. Calendario.
 
 El calendario escolar, que fijarán anualmente las administraciones educativas, comprenderá un mínimo de 175 días lectivos para las enseñanzas obligatorias.
-
 
 #### Disposición transitoria primera. Aplicabilidad del Real Decreto 1105/2014, de 26 de diciembre, por el que se establece el currículo básico de la Educación Secundaria Obligatoria y del Bachillerato.
 
@@ -689,11 +648,9 @@ El calendario escolar, que fijarán anualmente las administraciones educativas, 
 
 2. Asimismo, las pruebas que hasta el final del curso 2023-2024 realicen las administraciones educativas para la obtención directa del título de Graduado en Educación Secundaria Obligatoria se organizarán basándose en la configuración curricular desarrollada a partir del citado real decreto.
 
-
 #### Disposición transitoria segunda. Aplicabilidad del Real Decreto 984/2021, de 16 de noviembre, por el que se regulan la evaluación y la promoción en la Educación Primaria, así como la evaluación, la promoción y la titulación en la Educación Secundaria Obligatoria, el Bachillerato y la Formación Profesional.
 
 En el curso escolar 2022-2023, en aquellos cursos o niveles en los que no haya tenido aún lugar la implantación de las modificaciones indicadas en la disposición final tercera, seguirá siendo de aplicación lo dispuesto en el Real Decreto 984/2021, de 16 de noviembre, por el que se regulan la evaluación y la promoción en la Educación Primaria, así como la evaluación, la promoción y la titulación en la Educación Secundaria Obligatoria, el Bachillerato y la Formación Profesional.
-
 
 #### Disposición derogatoria única. Derogación normativa.
 
@@ -703,18 +660,15 @@ En el curso escolar 2022-2023, en aquellos cursos o niveles en los que no haya 
 
 3. Quedan derogadas las demás normas de igual o inferior rango en cuanto se opongan a lo establecido en este real decreto.
 
-
 #### Disposición final primera. Título competencial.
 
 El presente real decreto tiene carácter básico y se dicta al amparo de las competencias que atribuye al Estado el artículo 149.1.30.ª de la Constitución Española, sobre la regulación de las condiciones de obtención, expedición y homologación de títulos académicos y profesionales y normas básicas para el desarrollo del artículo 27 de la Constitución, a fin de garantizar el cumplimiento de las obligaciones de los poderes públicos en esta materia.
 
 El anexo III carece del carácter de normativa básica.
 
-
 #### Disposición final segunda. Aplicación.
 
 Corresponde a la persona titular del Ministerio de Educación y Formación Profesional dictar, en el ámbito de sus competencias, cuantas disposiciones sean precisas para la ejecución y aplicación de lo establecido en este real decreto, sin perjuicio de las competencias que corresponden a las comunidades autónomas.
-
 
 #### Disposición final tercera. Calendario de implantación.
 
@@ -722,10 +676,7 @@ Corresponde a la persona titular del Ministerio de Educación y Formación Profe
 
 2. Lo dispuesto en este real decreto se implantará para el primer curso de los Ciclos Formativos de Grado Básico en el curso escolar 2022-2023 y para el segundo curso, en el curso escolar 2023-2024.
 
-
 #### Disposición final cuarta. Entrada en vigor.
-
-El presente real decreto entrará en vigor el día siguiente al de su publicación en el «Boletín Oficial del Estado».
 
 Dado en Madrid, el 29 de marzo de 2022.
 
@@ -867,9 +818,7 @@ Descriptores operativos
 
 ANEXO II
 
-
 **MATERIAS DE EDUCACIÓN SECUNDARIA OBLIGATORIA**
-
 
 **Biología y Geología**
 
@@ -950,7 +899,6 @@ Esta competencia específica implica que el alumnado desarrolle los conocimiento
 Esta competencia específica se conecta con los siguientes descriptores del Perfil de salida: STEM1, STEM2, STEM4, STEM5, CD1, CC4, CE1, CCEC1.
 
 Cursos de primero a tercero
-
 
 **Criterios de evaluación**
 
@@ -1108,7 +1056,6 @@ H. Salud y enfermedad.
 
 Cuarto curso
 
-
 **Criterios de evaluación**
 
 Competencia específica 1.
@@ -1224,7 +1171,6 @@ E. La Tierra en el universo.
 – Hipótesis sobre el origen de la vida en la Tierra.
 
 – Principales investigaciones en el campo de la astrobiología.
-
 
 **Digitalización**
 
@@ -1365,7 +1311,6 @@ D. Ciudadanía digital crítica.
 – Ética en el uso de datos y herramientas digitales: inteligencia artificial, sesgos algorítmicos e ideológicos, obsolescencia programada, soberanía tecnológica y digitalización sostenible.
 
 – Activismo en línea: plataformas de iniciativa ciudadana, cibervoluntariado y comunidades de hardware y software libres.
-
 
 **Economía y Emprendimiento**
 
@@ -1555,7 +1500,6 @@ D. La realización del proyecto emprendedor.
 
 – Derechos sobre el prototipo: la propiedad intelectual e industrial.
 
-
 **Educación Física**
 
 La Educación Física en la etapa de Educación Secundaria Obligatoria da continuidad al trabajo realizado en la etapa anterior y a los retos clave que en ella comenzaron a abordarse, que pasan, entre otros, por conseguir que el alumnado consolide un estilo de vida activo, asiente el conocimiento de la propia corporalidad, disfrute de las manifestaciones culturales de carácter motor, integre actitudes ecosocialmente responsables o afiance el desarrollo de todos los procesos de toma de decisiones que intervienen en la resolución de situaciones motrices. Estos elementos contribuyen a que el alumnado sea motrizmente competente, facilitando así su desarrollo integral, puesto que la motricidad constituye un elemento esencial e indisociable del propio aprendizaje.
@@ -1633,7 +1577,6 @@ De esta forma, en lo que respecta a los entornos urbanos, existen manifestacione
 Esta competencia específica se conecta con los siguientes descriptores del Perfil de salida: STEM5, CC4, CE1, CE3.
 
 Cursos primero y segundo
-
 
 **Criterios de evaluación**
 
@@ -1759,7 +1702,6 @@ F. Interacción eficiente y sostenible con el entorno.
 
 Cursos tercero y cuarto
 
-
 **Criterios de evaluación**
 
 Competencia específica 1.
@@ -1882,7 +1824,6 @@ F. Interacción eficiente y sostenible con el entorno.
 
 – Cuidado del entorno, como servicio a la comunidad, durante la práctica de actividad física en entornos naturales y urbanos.
 
-
 **Educación Plástica, Visual y Audiovisual**
 
 Las artes plásticas, visuales y audiovisuales se dirigen hacia la adquisición de un pensamiento que se concreta en formas, actos y producciones artísticas y que posee la capacidad de generar propuestas originales respondiendo a las necesidades del individuo. Suponen, además, la posibilidad de actuar sobre la realidad creando respuestas que prolonguen y amplíen la capacidad expresiva del ser humano.
@@ -1964,7 +1905,6 @@ La obra artística alcanza todo su sentido y potencialidad cuando llega al públ
 Se pretende que el alumnado genere producciones y manifestaciones artísticas de distinto signo, tanto individual como colectivamente, siguiendo las pautas que se hayan establecido, identificando y valorando correctamente sus intenciones previas y empleando las capacidades expresivas, afectivas e intelectuales que se promueven mediante el trabajo artístico.
 
 Esta competencia específica se conecta con los siguientes descriptores del Perfil de salida: CCL1, STEM3, CD3, CPSAA3, CPSAA5, CE3, CCEC4.
-
 
 **Criterios de evaluación**
 
@@ -2060,7 +2000,6 @@ D. Imagen y comunicación visual y audiovisual.
 
 – Técnicas básicas para la realización de producciones audiovisuales sencillas, de forma individual o en grupo. Experimentación en entornos virtuales de aprendizaje.
 
-
 **Educación en Valores Cívicos y Éticos**
 
 La educación en valores cívicos y éticos constituye un requisito necesario tanto para el ejercicio activo y responsable de la ciudadanía como para el desarrollo de la autonomía moral y la personalidad del alumnado. No hay duda de que estos dos propósitos se encuentran relacionados entre sí, en cuanto no es posible un ejercicio activo y responsable de la ciudadanía democrática sin un compromiso ético personal, libre y fundamentado con determinados principios y valores. De ahí la necesidad de que toda educación cívica o en valores esté traspasada por ese ejercicio reflexivo y crítico sobre la moral individual y colectiva que representa la ética filosófica.
@@ -2106,7 +2045,6 @@ Esta competencia específica se conecta con los siguientes descriptores del Perf
 El reconocimiento y la expresión de una serie adecuada de actitudes afectivas, tanto respecto de uno mismo como respecto de los otros y de la naturaleza, constituye la finalidad principal de la educación emocional, algo imprescindible para formar personas equilibradas y capaces de mantener relaciones plenas y satisfactorias con los demás y con su entorno. Para ello, el alumnado ha de aprender a reconocer, interpretar, valorar y gestionar adecuadamente el complejo campo de las emociones y sentimientos, desde los más básicos a los más complejos, y tanto aquellos que presentan un carácter positivo como aquellos otros que expresan perplejidad, incertidumbre, angustia o equilibrada indignación por lo que nos afecta o nos merece reproche moral. La vivencia y expresión asertiva y compartida de emociones y sentimientos puede darse en múltiples contextos y situaciones; entre ellos, y de forma sobresaliente, en los de la experiencia estética, pero también en aquellos otros relativos a la deliberación compartida sobre problemas morales y cotidianos, por lo que las actividades para desarrollar esta competencia pueden integrarse a la perfección en casi cualquier tipo de proceso que fomente la creatividad, el diálogo, la reflexión y el juicio autónomo. El objetivo es que el alumnado aprenda a reconocer, evaluar y gestionar sus propias emociones, así como a comprender y respetar las de los demás, reflexionando sobre el significado de las mismas, atendiendo a los valores, creencias e ideas que están en su génesis, y ponderando su papel en relación con algunas de las más nobles acciones y experiencias humanas.
 
 Esta competencia específica se conecta con los siguientes descriptores del Perfil de salida: CCL1, CPSAA1, CPSAA2, CPSAA3, CC1, CC3, CCEC3.
-
 
 **Criterios de evaluación**
 
@@ -2198,7 +2136,6 @@ C. Sostenibilidad y ética ambiental.
 
 – Estilos de vida sostenible: la prevención de los residuos y la gestión sostenible de los recursos. La movilidad segura, saludable y sostenible. El consumo responsable. Alimentación y soberanía alimentaria. Comunidades resilientes y en transición.
 
-
 **Expresión Artística**
 
 En la materia de Expresión Artística se ponen en funcionamiento diferentes procesos cognitivos, culturales, emocionales y afectivos, haciendo que todos ellos se combinen e interactúen en un mismo pensamiento creador. Supone, por tanto, un paso más en la adquisición de las competencias que han venido desarrollándose en cursos y etapas anteriores.
@@ -2260,7 +2197,6 @@ Se pretende que el alumnado genere producciones artísticas de distinto signo, t
 Finalmente, es importante que el alumnado comparta, de diversas formas y por distintos medios, las producciones que realice, y que aproveche esta experiencia para identificar y valorar distintas oportunidades de desarrollo personal, social, académico o profesional relacionadas con el ámbito artístico.
 
 Esta competencia específica se conecta con los siguientes descriptores del Perfil de salida: CCL1, STEM3, CD3, CPSAA3, CPSAA5, CE3, CCEC4.
-
 
 **Criterios de evaluación**
 
@@ -2336,7 +2272,6 @@ B. Fotografía, lenguaje visual, audiovisual y multimedia.
 
 – Recursos digitales para la creación de proyectos de vídeo-arte.
 
-
 **Física y Química**
 
 La formación integral del alumnado requiere de una alfabetización científica en la etapa de la Educación Secundaria como continuidad a los aprendizajes relacionados con las ciencias de la naturaleza en Educación Primaria, pero con un nivel de profundización mayor en las diferentes áreas de conocimiento de la ciencia. En esta alfabetización científica, la materia de Física y Química contribuye a que el alumnado comprenda el funcionamiento del universo y las leyes que lo gobiernan, y proporciona los conocimientos, destrezas y actitudes de la ciencia que le permiten desenvolverse con criterio fundamentado en un mundo en continuo desarrollo científico, tecnológico, económico y social, promoviendo acciones y conductas que provoquen cambios hacia un mundo más justo e igualitario.
@@ -2410,7 +2345,6 @@ Todo esto forma parte de una conciencia social en la que no solo interviene la c
 Esta competencia específica se conecta con los siguientes descriptores del Perfil de salida: STEM2, STEM5, CD4, CPSAA1, CPSAA4, CC4, CCEC1.
 
 Cursos de primero a tercero
-
 
 **Criterios de evaluación**
 
@@ -2520,7 +2454,6 @@ E. El cambio.
 
 Cuarto curso
 
-
 **Criterios de evaluación**
 
 Competencia específica 1.
@@ -2627,7 +2560,6 @@ E. El cambio.
 
 − Factores que influyen en la velocidad de las reacciones químicas: comprensión de cómo ocurre la reordenación de los átomos aplicando modelos como la teoría de colisiones y realización de predicciones en los procesos químicos cotidianos más importantes.
 
-
 **Formación y Orientación Personal y Profesional**
 
 El sistema educativo contribuye a que el alumnado desarrolle plenamente su personalidad, refuerce su autonomía y el conocimiento de sí mismo y del entorno en el que va a vivir y a abrirse camino. La materia Formación y Orientación Personal y Profesional propone una aproximación al conocimiento de lo humano a partir de disciplinas que lo analizan desde el conocimiento de los procesos biológicos, psicológicos e intelectuales que regulan la conducta, la cognición y el aprendizaje; desde el conocimiento del individuo como parte de una construcción social y cultural; y desde el análisis de los elementos que definen las organizaciones sociales y los grupos humanos. Esta aproximación va a permitir despertar la curiosidad por el conocimiento de la propia persona, de su proceso de aprendizaje y del entorno sociocultural en el que se encuentra, de modo que incremente su autonomía y su confianza en su propio logro, y facilite su aprendizaje a lo largo de la vida y su desempeño académico y profesional.
@@ -2685,7 +2617,6 @@ La complejidad social y económica y el acceso a numerosas oportunidades profesi
 Por otro lado, para organizar con realismo el propio itinerario formativo y profesional se requiere realizar una exploración ordenada de las oportunidades académicas, formativas y laborales que ofrece el entorno, tanto presencial como virtual, con el fin de orientar correctamente la propia trayectoria en el futuro. La creciente oferta educativa que se ha producido en los últimos años obliga al alumnado a seleccionar la información y a tomar decisiones para formarse, seguir aprendiendo a lo largo de la vida y orientar de manera satisfactoria su carrera profesional. Necesita adquirir habilidades sociales, de adaptación y de planificación y gestión, y mostrar actitudes de iniciativa y de logro para enfrentarse a los nuevos retos que se presenten en los distintos ámbitos de su vida.
 
 Esta competencia específica se conecta con los siguientes descriptores del Perfil de salida: CD1, CD3, CPSAA4, CPSAA5, CE1, CE2, CE3.
-
 
 **Criterios de evaluación**
 
@@ -2775,7 +2706,6 @@ C. Proyecto personal, académico-profesional y aproximación a la búsqueda ac
 
 − Aproximación a un plan de búsqueda activa de empleo con proyección hacia el futuro. Estrategias de búsqueda de empleo. Instrumentos de búsqueda de empleo.
 
-
 **Geografía e Historia**
 
 La materia de Geografía e Historia contribuye a la percepción y el análisis de una realidad cada vez más diversa y cambiante. La comprensión de su devenir a través del tiempo y del espacio, y el análisis del cambio como fruto de la acción humana implica concebir el aprendizaje del alumnado como una invitación al conocimiento de sí mismo y del mundo que lo rodea, a la participación y al compromiso social. Vivir en sociedad, interactuar en el entorno y comprender cómo son las relaciones que establecemos y las normas de funcionamiento que las rigen resultan esenciales para que el alumnado pueda asumir sus derechos y responsabilidades, ejercitar la ciudadanía y orientar su comportamiento cívico, cuestiones estas de especial importancia en una etapa educativa en que precisa de experiencias formativas que le permitan construir su criterio, su identidad, su autonomía para desenvolverse en su entorno social. Esta compleja transición se produce de la etapa de Educación Primaria a la de Educación Secundaria Obligatoria y, en nuestro ámbito, implica ponerse en contacto con una sociedad compleja que plantea dilemas y en la que el alumnado debe aprender a tomar decisiones informadas. La toma de conciencia de los desafíos a los que nos enfrentamos en la actualidad, así como la valoración crítica de las respuestas que, a lo largo de la historia, se han dado a los retos y problemas que se han sucedido, dispone a la juventud en situación de actuar ya en el presente para garantizar la sostenibilidad del planeta y el bienestar de la humanidad en el futuro.
@@ -2853,7 +2783,6 @@ La seguridad integral, garantizada por instituciones y entidades, constituye la 
 Esta competencia específica se conecta con los siguientes descriptores del Perfil de salida: CCL2, CC1, CC2, CC3, CC4, CE1, CCEC1.
 
 Cursos primero y segundo
-
 
 **Criterios de evaluación**
 
@@ -3029,7 +2958,6 @@ C. Compromiso cívico.
 
 Cursos tercero y cuarto
 
-
 **Criterios de evaluación**
 
 Competencia específica 1.
@@ -3184,7 +3112,6 @@ C. Compromiso cívico local y global.
 
 − Los valores del europeísmo. Fórmulas de participación en programas educativos europeos.
 
-
 **Latín**
 
 La materia de Latín en la etapa de Educación Secundaria Obligatoria constituye una aproximación específica a los diferentes aspectos de la lengua, la cultura y la civilización latinas y su pervivencia en el presente. La singularidad del enfoque de esta materia viene condicionada por su doble naturaleza. Por un lado, para parte del alumnado supone la única toma de contacto, durante su escolarización obligatoria, con determinados aspectos de la lengua, la cultura y la civilización latinas, que constituyen las bases de nuestra sociedad actual. Por otro lado, debe tener carácter de enseñanza propedéutica para el alumnado que continúe sus estudios en esta disciplina. Esta doble naturaleza requiere un esfuerzo por describir, contextualizar y entender la vigencia del evidente origen clásico de nuestra identidad como sociedad.
@@ -3236,7 +3163,6 @@ Esta competencia específica se conecta con los siguientes descriptores del Perf
 El patrimonio cultural, arqueológico y artístico romano, material e inmaterial, presente tanto en nuestro país como en países de nuestro entorno, se concibe aquí como herencia directa de la civilización latina. El reconocimiento de la herencia material requiere la observación directa e indirecta del patrimonio, utilizando diversos recursos, incluidos los que proporcionan las tecnologías de la información y la comunicación. La toma de conciencia de la importancia del patrimonio material necesita del conocimiento y la comprensión de los procedimientos de construcción –en el caso del patrimonio arqueológico– y de composición –en el caso de los soportes de escritura–. Además, implica distinguir entre los procesos de preservación, conservación y restauración, incidiendo especialmente en aquellos aspectos que requieren de la participación de una ciudadanía activa y comprometida con su entorno y su propio legado, de acuerdo con la Convención sobre la protección del patrimonio mundial, cultural y natural de la UNESCO. Por su parte, el reconocimiento de la herencia inmaterial de la civilización clásica latina, desde la práctica de la oratoria en las instituciones hasta las ceremonias privadas o los espectáculos de entretenimiento, contribuye a la comprensión de aspectos clave de nuestra sociedad y nuestra cultura actuales.
 
 Esta competencia específica se conecta con los siguientes descriptores del Perfil de salida: CP3, CD1, CD3, CC1, CC4, CCEC1, CCEC2.
-
 
 **Criterios de evaluación**
 
@@ -3360,7 +3286,6 @@ D. Legado y patrimonio.
 
 − Estrategias y herramientas, analógicas y digitales, individuales y cooperativas, para la autoevaluación, la coevaluación y la autorreparación.
 
-
 **Lengua Castellana y Literatura**
 
 El eje del currículo de Lengua Castellana y Literatura lo constituyen las competencias específicas relacionadas con la interacción oral y escrita adecuada en los distintos ámbitos y contextos y en función de diferentes propósitos comunicativos, así como con el fomento del hábito lector, la interpretación de textos literarios y la apropiación del patrimonio cultural. La reflexión explícita sobre el funcionamiento de la lengua brinda las herramientas y el metalenguaje necesarios para desarrollar la conciencia lingüística y mejorar los procesos de expresión, comprensión y recepción crítica.
@@ -3466,7 +3391,6 @@ En el ámbito de la comunicación personal, la educación lingüística debe ayu
 Esta competencia específica se conecta con los siguientes descriptores del Perfil de salida: CCL1, CCL5, CP3, CD3, CPSAA3, CC1, CC2, CC3.
 
 Cursos primero y segundo
-
 
 **Criterios de evaluación**
 
@@ -3651,7 +3575,6 @@ Elaboración de conclusiones propias sobre el funcionamiento del sistema lingü�
 − Estrategias de uso progresivamente autónomo de diccionarios y manuales de gramática para obtener información gramatical básica.
 
 Cursos tercero y cuarto
-
 
 **Criterios de evaluación**
 
@@ -3845,7 +3768,6 @@ Elaboración de conclusiones propias sobre el funcionamiento del sistema lingü�
 
 − Estrategias de uso progresivamente autónomo de diccionarios y manuales de gramática para obtener información gramatical básica.
 
-
 **Lengua Extranjera**
 
 La rápida evolución de las sociedades actuales y sus múltiples interconexiones exigen el desarrollo de aquellas competencias que ayuden a los individuos a practicar una ciudadanía independiente, activa y comprometida con la realidad contemporánea, cada vez más global, intercultural y plurilingüe. Tal y como señala el Marco de Referencia de Competencias para la Cultura Democrática, en las actuales sociedades, culturalmente diversas, los procesos democráticos requieren del diálogo intercultural. Por lo tanto, la comunicación en distintas lenguas resulta clave en el desarrollo de esa cultura democrática. En la idea de un Espacio Europeo de Educación, la comunicación en más de una lengua evita que la educación y la formación se vean obstaculizadas por las fronteras y favorece la internacionalización y la movilidad, además de permitir el descubrimiento de otras culturas ampliando las perspectivas del alumnado.
@@ -3913,7 +3835,6 @@ La conciencia de la diversidad proporciona al alumnado la posibilidad de relacio
 Esta competencia específica se conecta con los siguientes descriptores del Perfil de salida: CCL5, CP3, CPSAA1, CPSAA3, CC3, CCEC1.
 
 Cursos primero y segundo
-
 
 **Criterios de evaluación**
 
@@ -4015,7 +3936,6 @@ C. Interculturalidad.
 
 Cursos tercero y cuarto
 
-
 **Criterios de evaluación**
 
 Competencia específica 1.
@@ -4115,7 +4035,6 @@ C. Interculturalidad.
 − Estrategias de uso común para entender y apreciar la diversidad lingüística, cultural y artística, atendiendo a valores ecosociales y democráticos.
 
 − Estrategias de uso común de detección y actuación ante usos discriminatorios del lenguaje verbal y no verbal.
-
 
 **Matemáticas**
 
@@ -4236,7 +4155,6 @@ El desarrollo de esta competencia conlleva mostrar empatía por los demás, esta
 Esta competencia específica se conecta con los siguientes descriptores del Perfil de salida: CCL5, CP3, STEM3, CPSAA1, CPSAA3, CC2, CC3.
 
 Cursos de primero a tercero
-
 
 **Criterios de evaluación**
 
@@ -4508,9 +4426,7 @@ F. Sentido socioafectivo.
 
 − La contribución de las matemáticas al desarrollo de los distintos ámbitos del conocimiento humano desde una perspectiva de género.
 
-
 **MATEMÁTICAS A**
-
 
 **Criterios de evaluación**
 
@@ -4740,9 +4656,7 @@ F. Sentido socioafectivo.
 
 − La contribución de las matemáticas al desarrollo de los distintos ámbitos del conocimiento humano desde una perspectiva de género.
 
-
 **MATEMÁTICAS B**
-
 
 **Criterios de evaluación**
 
@@ -4968,7 +4882,6 @@ F. Sentido socioafectivo.
 
 − La contribución de las matemáticas al desarrollo de los distintos ámbitos del conocimiento humano desde una perspectiva de género.
 
-
 **Música**
 
 La cultura y las expresiones artísticas se entienden y sirven como reflejo de las sociedades pasadas y presentes. La música, como género artístico, no solo constituye una forma de expresión personal fruto de percepciones individuales, sino también un lenguaje a través del que reproducir las realidades culturales. Por ello, resulta fundamental comprender y valorar el papel que juega la música como una de las artes que conforman el patrimonio cultural, así como entender y apreciar su vinculación con las distintas ideas y tradiciones. A través de la materia de Música, el alumnado de Educación Secundaria Obligatoria aprende a entender y valorar las funciones de la música, así como a comprender y a expresarse a través de ella, como arte independiente y en su interacción con la danza.
@@ -5034,7 +4947,6 @@ La vivencia y la reflexión sobre las diferentes fases del proceso creativo favo
 Esta competencia específica se conecta con los siguientes descriptores del Perfil de salida: CCL1, STEM3, CD2, CPSAA3, CC1, CE1, CE3, CCEC3, CCEC4.
 
 Cursos de primero a tercero
-
 
 **Criterios de evaluación**
 
@@ -5124,7 +5036,6 @@ C. Contextos y culturas.
 
 Cuarto curso
 
-
 **Criterios de evaluación**
 
 Competencia específica 1.
@@ -5205,7 +5116,6 @@ C. Contextos y culturas.
 
 − El sonido y la música en los medios audiovisuales y las tecnologías digitales. La música al servicio de otras artes y lenguajes.
 
-
 **Segunda Lengua Extranjera**
 
 La rápida evolución de las sociedades actuales y sus múltiples interconexiones exigen el desarrollo de aquellas competencias que ayuden a los individuos a practicar una ciudadanía independiente, activa y comprometida con la realidad contemporánea, cada vez más global, intercultural y plurilingüe. Tal y como señala el Marco de Referencia de Competencias para la Cultura Democrática, en las actuales sociedades, culturalmente diversas, los procesos democráticos requieren del diálogo intercultural. Por lo tanto, la comunicación en distintas lenguas resulta clave en el desarrollo de esa cultura democrática. En la idea de un Espacio Europeo de Educación, la comunicación en más de una lengua evita que la educación y la formación se vean obstaculizadas por las fronteras y favorece la internacionalización y la movilidad, además de permitir el descubrimiento de otras culturas, ampliando las perspectivas del alumnado.
@@ -5225,7 +5135,6 @@ Las enseñanzas de una segunda lengua extranjera deben ir dirigidas a la consecu
 Los criterios de evaluación determinan el grado de adquisición de las competencias específicas por parte del alumnado, por lo que se presentan vinculados a ellas. Su adecuada aplicación depende de los niveles de partida del alumnado. La evaluación debe remitir fundamentalmente a los logros alcanzados teniendo en cuenta la situación de partida de cada alumno o alumna. Teniendo esto en cuenta, los criterios de evaluación de la materia de Lengua Extranjera deben utilizarse como referente tanto para la detección del punto de partida del alumnado, como para la evaluación del nivel final, ayudando así a establecer el grado de avance experimentado por el alumnado de forma individualizada.
 
 Por último, los saberes básicos aúnan los conocimientos (saber), las destrezas (saber hacer) y las actitudes (saber ser) necesarios para la adquisición de las competencias específicas de la materia y favorecen la evaluación de los aprendizajes a través de los criterios. Se estructuran en tres bloques. El bloque de «Comunicación» abarca los saberes que es necesario activar para el desarrollo de las actividades comunicativas de comprensión, producción, interacción y mediación, incluidos los relacionados con la búsqueda de fuentes de información y la gestión de las fuentes consultadas. El bloque de «Plurilingüismo» integra los saberes relacionados con la capacidad de reflexionar sobre el funcionamiento de las lenguas, con el fin de contribuir al aprendizaje de la lengua extranjera y a la mejora de las lenguas que conforman el repertorio lingüístico del alumnado. Por último, en el bloque de «Interculturalidad» se agrupan los saberes acerca de las culturas vehiculadas a través de la lengua extranjera y su valoración como oportunidad de enriquecimiento y de relación con los demás. Se incluyen también en este bloque los saberes orientados al desarrollo de actitudes de interés por entender y apreciar otras lenguas, variedades lingüísticas y culturas.
-
 
 **Tecnología**
 
@@ -5300,7 +5209,6 @@ La tecnología ha ido respondiendo a las necesidades humanas a lo largo de la hi
 El objetivo es fomentar el desarrollo tecnológico para mejorar el bienestar social, minimizando las repercusiones en otros ámbitos mencionados anteriormente. Para ello se deben tener presentes todos los criterios desde el momento inicial de detección de la necesidad y estimarlos en cada una de las fases del proceso creativo. En este sentido, se aplican estas cuestiones al diseño de la arquitectura bioclimática en edificios y de los medios de transporte sostenibles. Finalmente, se abordan aspectos actitudinales relativos a la valoración del ahorro energético en beneficio del medio ambiente y de la contribución de las nuevas tecnologías, aplicables actualmente en cualquier ámbito, a la consecución de los Objetivos de Desarrollo Sostenible.
 
 Esta competencia específica se conecta con los siguientes descriptores del Perfil de salida: STEM2, STEM5, CD4, CC4.
-
 
 **Criterios de evaluación**
 
@@ -5404,7 +5312,6 @@ D. Tecnología sostenible.
 
 − Comunidades abiertas, voluntariado tecnológico y proyectos de servicio a la comunidad.
 
-
 **Tecnología y Digitalización**
 
 La materia Tecnología y Digitalización es la base para comprender los profundos cambios que se dan en una sociedad cada día más digitalizada, y tiene por objeto el desarrollo de ciertas destrezas de naturaleza cognitiva y procedimental a la vez que actitudinal. Desde ella, se fomenta el uso crítico, responsable y sostenible de la tecnología, la valoración de las aportaciones y el impacto de la tecnología en la sociedad, en la sostenibilidad ambiental y en la salud, el respeto por las normas y los protocolos establecidos para la participación en la red, así como la adquisición de valores que propicien la igualdad y el respeto hacia los demás y hacia el trabajo propio. Desde esta materia se promueve la cooperación y se fomenta un aprendizaje permanente en diferentes contextos, además de contribuir a dar respuesta a los retos del siglo XXI.
@@ -5490,7 +5397,6 @@ La eclosión de nuevas tecnologías digitales y su uso generalizado y cotidiano 
 En definitiva, el desarrollo de esta competencia específica implica que el alumnado desarrolle actitudes de interés y curiosidad por la evolución de las tecnologías digitales, a la vez que por el desarrollo sostenible y el uso ético de las mismas.
 
 Esta competencia específica se conecta con los siguientes descriptores del Perfil de salida: STEM2, STEM5, CD4, CC4.
-
 
 **Criterios de evaluación**
 
@@ -5622,9 +5528,7 @@ De acuerdo con lo establecido en el artículo 6.4 de la Ley Orgánica de Educac
 
 ANEXO V
 
-
 **ÁMBITOS DE CICLOS FORMATIVOS DE GRADO BÁSICO**
-
 
 **Ciencias Aplicadas**
 
@@ -5715,7 +5619,6 @@ El avance científico es producto del esfuerzo colectivo y rara vez el resultado
 Cabe destacar, además, que la interacción y colaboración son de gran importancia en diversos ámbitos profesionales y sociales y no exclusivamente en un contexto científico. El trabajo colaborativo tiene un efecto enriquecedor sobre los resultados obtenidos y en el desarrollo personal de sus participantes, pues permite el intercambio de puntos de vista en ocasiones muy diversos. La colaboración implica movilizar las destrezas comunicativas y sociales del alumnado y requiere de una actitud respetuosa y abierta frente a las ideas ajenas, que valore la importancia de romper los roles de género y estereotipos sexistas. Por este motivo, aprender a trabajar en equipo es imprescindible para el desarrollo profesional y social pleno del alumnado como miembro activo de nuestra sociedad.
 
 Esta competencia específica se conecta con los siguientes descriptores del Perfil de salida: CCL5, CP3, STEM2, STEM4, CD3, CPSAA3, CC2, CE2.
-
 
 **Criterios de evaluación**
 
@@ -5903,7 +5806,6 @@ K. Sentido socioafectivo.
 
 − Estrategias de identificación y prevención de abusos, de agresiones, de situaciones de violencia o de vulneración de la integridad física, psíquica y emocional.
 
-
 **Comunicación y Ciencias Sociales**
 
 La rápida evolución de las sociedades actuales y sus múltiples interconexiones exigen el desarrollo de aquellas competencias que ayuden a los individuos a ejercer una ciudadanía independiente, activa y comprometida con la realidad contemporánea. Las competencias clave, que forman parte del Perfil de salida del alumnado al término de la enseñanza básica, comprenden todos aquellos conocimientos, destrezas y actitudes que las personas necesitan para su realización y desarrollo personales, para mejorar su empleabilidad y facilitar su integración social y para poder desarrollar un estilo de vida responsable, sostenible y saludable. En el caso de los ciclos formativos de grado básico, el alumnado adquirirá estas competencias en un entorno vinculado al mundo profesional. Esto incrementará las posibilidades de su consecución y mejorará sus condiciones de aprendizaje, preparándolo para la continuación de su formación y para poder afrontar de manera satisfactoria los retos y desafíos del siglo XXI.
@@ -5983,7 +5885,6 @@ El plurilingüismo y la interculturalidad suponen experimentar la diversidad lin
 La conciencia de la diversidad tanto lingüística como cultural proporciona al alumnado la posibilidad de relacionar distintas lenguas y culturas. Además, favorece el desarrollo de su capacidad para identificar y utilizar una gran variedad de estrategias que le permitan establecer relaciones con personas de otras culturas. Esta competencia específica permite abrirse a nuevas experiencias, ideas, sociedades y culturas mostrando interés hacia lo diferente; relativizar la propia perspectiva y el propio sistema de valores culturales; y distanciarse y evitar las actitudes sustentadas sobre cualquier tipo de discriminación o refuerzo de estereotipos.
 
 Esta competencia específica se conecta con los siguientes descriptores del Perfil de salida: CCL5, CP2, CP3, CPSAA1, CPSAA3, CC3, CCEC1.
-
 
 **Criterios de evaluación**
 

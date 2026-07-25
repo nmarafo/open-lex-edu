@@ -32,9 +32,6 @@ fuente_pdf_oficial: https://sede.gobiernodecanarias.org/boc/boc-a-2026-141-2508.
 
 # Resolución de 2 de julio de 2026, por la que se modifican cuadros horarios establecidos en las Resoluciones de 26 de noviembre de 2025 y de 27 de enero de 2026, por las que se dictan instrucciones para la implantación y desarrollo de la oferta de dobles titulaciones de formación profesional (Grados D) en la Comunidad Autónoma de Canarias, a partir del curso escolar 2026/2027. (BOC n.º 141, de 15 de julio)
 
-https://sede.gobiernodecanarias.org/boc
-boc-a-2026-141-2508
-Boletín Oficial de Canarias núm. 141 Miércoles 15 de julio de 202626417
 III. Otras Resoluciones
 Consejería de Educación, Formación Profesional, Actividad Física y Deportes
 2508 Dirección General de Formación Profesional y Enseñanzas de Régimen Especial.- 
@@ -77,9 +74,6 @@ Tercero.- Tras la publicación de las citadas resoluciones, se ha constatado la 
 de introducir ajustes en los cuadros horarios relativos a la distribución horaria y a la estructura 
 modular de las dobles titulaciones señaladas en los antecedentes primero y segundo. 
 
-https://sede.gobiernodecanarias.org/boc
-boc-a-2026-141-2508
-Boletín Oficial de Canarias núm. 141 Miércoles 15 de julio de 202626418
 Dichos ajustes responden a la solicitud de las familias profesionales correspondientes y a 
 razones pedagógicas y organizativas relacionadas con la adecuada planificación de estas 
 enseñanzas y con el desarrollo de la formación en empresa u organismo equiparado en los 
@@ -123,9 +117,6 @@ la Formación Profesional, esta disposición y el resto de los desarrollos norma
 Sistema de Formación Profesional. En todo caso, se respetarán siempre todos los elementos 
 contemplados en el currículo básico”.
 
-https://sede.gobiernodecanarias.org/boc
-boc-a-2026-141-2508
-Boletín Oficial de Canarias núm. 141 Miércoles 15 de julio de 202626419
 En su virtud, y en uso de las competencias que tengo conferidas con base a lo dispuesto 
 en el artículo 19 del Decreto 212/1991, de 11 de septiembre, de organización de los 
 Departamentos de la Administración Autonómica de Canarias, y en el artículo 20 del 
@@ -162,9 +153,6 @@ en el Boletín Oficial de Canarias, sin perjuicio de cualquier otro que se estim
 Las Palmas de Gran Canaria, a 2 de julio de 2026.- La Directora General de Formación 
 Profesional y Enseñanzas de Régimen Especial, Carolina León Martínez.
 
-boc-a-2026-141-2508
-Boletín Oficial de Canarias núm. 141 Miércoles 15 de julio de 202626420
-https://sede.gobiernodecanarias.org/boc
 Folio 4/8
 ANEXO
 RELACIÓN DE CICLOS FORMATIVOS DE GRADO SUPERIOR DE
@@ -217,9 +205,6 @@ ANEXO
 RELACIÓN DE CICLOS FORMATIVOS DE GRADO SUPERIOR DE DOBLE 
 TITULACIÓN DE FORMACIÓN PROFESIONAL
 
-boc-a-2026-141-2508
-Boletín Oficial de Canarias núm. 141 Miércoles 15 de julio de 202626421
-https://sede.gobiernodecanarias.org/boc
 Folio 5/8
 FAMILIA PROFESIONAL: COMERCIO Y MARKETING GRADO: SUPERIOR
 CICLO FORMATIVO: GESTIÓN DE VENTAS Y ESPACIOS COMERCIALES Y MARKETING Y PUBLICIDAD
@@ -269,9 +254,6 @@ puede ser comprobada la autenticidad de esta copia, mediante el número de
 documento electrónico siguiente:
  RP001-000Q9Mv65zCwbVqHOAGHC4rmQ==
 
-boc-a-2026-141-2508
-Boletín Oficial de Canarias núm. 141 Miércoles 15 de julio de 202626422
-https://sede.gobiernodecanarias.org/boc
 Folio 6/8
 FAMILIA PROFESIONAL: COMERCIO Y MARKETING GRADO: SUPERIOR
 CICLO FORMATIVO: TRANSPORTE Y LOGÍSTICA Y COMERCIO INTERNACIONAL
@@ -317,9 +299,6 @@ puede ser comprobada la autenticidad de esta copia, mediante el número de
 documento electrónico siguiente:
  RP001-000Q9Mv65zCwbVqHOAGHC4rmQ==
 
-boc-a-2026-141-2508
-Boletín Oficial de Canarias núm. 141 Miércoles 15 de julio de 202626423
-https://sede.gobiernodecanarias.org/boc
 Folio 7/8
 FAMILIA PROFESIONAL: INFORMÁTICA Y COMUNICACIONES GRADO: SUPERIOR
 CICLO  FORMATIVO:  DESARROLLO  DE  APLICACIONES  WEB  Y DESARROLLO  DE  APLICACIONES  
@@ -368,9 +347,6 @@ puede ser comprobada la autenticidad de esta copia, mediante el número de
 documento electrónico siguiente:
  RP001-000Q9Mv65zCwbVqHOAGHC4rmQ==
 
-boc-a-2026-141-2508
-Boletín Oficial de Canarias núm. 141 Miércoles 15 de julio de 202626424
-https://sede.gobiernodecanarias.org/boc
 Folio 8/8
 FAMILIA PROFESIONAL: HOSTELERÍA Y TURISMO GRADO: SUPERIOR
 CICLO FORMATIVO: GUÍA, INFORMACIÓN Y ASISTENCIAS TURÍSTICAS Y AGENCIAS DE VIAJES Y GESTIÓN DE 

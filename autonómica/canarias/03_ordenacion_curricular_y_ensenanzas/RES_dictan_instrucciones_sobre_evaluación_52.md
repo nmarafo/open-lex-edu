@@ -29,10 +29,7 @@ fuente_pdf_oficial: https://sede.gobiernodecanarias.org/boc/boc-a-2019-234-5741.
 
 # Resolución de 18 de noviembre de 2019, por la que se dictan instrucciones sobre evaluación de las pruebas de certificación de enseñanzas de idiomas de régimen especial en la Comunidad Autónoma de Canarias (BOC n.º 234, de 3 de diciembre).
 
-Boletín Oficial de Canarias núm. 234
-https://sede.gobcan.es/boc
 Martes 3 de diciembre de 2019
-41235
 III. Otras Resoluciones
 Consejería de Educación, Universidades, Cultura y Deportes
 5741 Dirección General de Formación Profesional y Educación de Adultos.- Resolución 
@@ -71,13 +68,8 @@ lenguas. Asimismo, en el apartado 2, establece que las Administraciones educativ
 las pruebas terminales para la obtención de los certificados oficiales de los niveles básico, 
 intermedio y avanzado de estas enseñanzas.
 Página 
-boc-a-2019-234-5741
 
-
-Boletín Oficial de Canarias núm. 234
-https://sede.gobcan.es/boc
 Martes 3 de diciembre de 2019
-41236
 Segundo.- El Real Decreto 1041/2017, de 22 de diciembre, por el que se fijan las 
 exigencias mínimas del nivel básico a efectos de certificación, se establece el currículo 
 básico de los niveles Intermedio B1, Intermedio B2, Avanzado C1, y Avanzado C2, de las 
@@ -121,13 +113,8 @@ las pruebas de certificación de enseñanzas de idiomas de régimen especial se 
 lo establecido en la normativa básica estatal, así como en las disposiciones normativas e 
 instrucciones dictadas en esta materia en el ámbito autonómico para las enseñanzas de 
 idiomas de régimen especial.
-boc-a-2019-234-5741
 
-
-Boletín Oficial de Canarias núm. 234
-https://sede.gobcan.es/boc
 Martes 3 de diciembre de 2019
-41237
 Por su parte, en su Disposición transitoria segunda, dispone que hasta que no se establezca 
 un nuevo desarrollo normativo en materia de evaluación y certificación, se mantendrán 
 en vigor las disposiciones normativas e instrucciones dictadas en esta materia para las 
@@ -156,13 +143,8 @@ de alzada ante la Viceconsejería de Educación, Universidades y Deportes, sin p
 cualesquiera otros que se estime procedente interponer.
 Santa Cruz de Tenerife, a 18 de noviembre de 2019.- La Directora General de Formación 
 Profesional y Educación de Adultos, María Eva de la Fe González.
-boc-a-2019-234-5741
 
-
-Boletín Oficial de Canarias núm. 234
-https://sede.gobcan.es/boc
 Martes 3 de diciembre de 2019
-41238
 A N E X O
 Primera.- Objeto y ámbito de aplicación.
 1. La presente resolución tiene por objeto establecer instrucciones sobre la evaluación de 
@@ -199,13 +181,8 @@ alumnado a ser evaluado con plena objetividad.
 3. En el diseño de las pruebas de certificación, tanto de competencia general como de 
 competencias parciales por actividades de lengua, se tomarán como referencia los objetivos, 
 competencias, contenidos y criterios de evaluación establecidos para cada nivel y actividad 
-boc-a-2019-234-5741
 
-
-Boletín Oficial de Canarias núm. 234
-https://sede.gobcan.es/boc
 Martes 3 de diciembre de 2019
-41239
 de lengua en los currículos fijados en el Anexo 1º del Decreto 142/2018, de 8 de octubre, 
 por el que se establece la ordenación y el currículo de las enseñanzas y la certificación de 
 idiomas de régimen especial para la Comunidad Autónoma de Canarias.
@@ -244,13 +221,8 @@ Quinta.- Certificación de los niveles intermedio B1, intermedio B2, avanzado C1
 avanzado C2.
 Para la obtención de los certificados de los niveles intermedio B1, intermedio B2, avanzado 
 C1 y avanzado C2 será necesaria la realización y superación de una prueba específica de 
-boc-a-2019-234-5741
 
-
-Boletín Oficial de Canarias núm. 234
-https://sede.gobcan.es/boc
 Martes 3 de diciembre de 2019
-41240
 certificación de competencia general, común para todas las personas aspirantes, cualquiera 
 que sea el régimen o modalidad de enseñanza, convocada al efecto por el centro directivo de 
 la consejería competente en materia de educación responsable de las enseñanzas de idiomas 
@@ -289,13 +261,8 @@ nota obtenida. Para el cálculo de la calificación global final se tomará en c
 calificación más alta obtenida de entre las dos convocatorias.
 4. Quienes no superen la prueba de certificación de competencia general podrán solicitar 
 una certificación académica emitida por la EOI de inscripción, que incluirá la calificación de 
-boc-a-2019-234-5741
 
-
-Boletín Oficial de Canarias núm. 234
-https://sede.gobcan.es/boc
 Martes 3 de diciembre de 2019
-41241
 cada una de las actividades de lengua que componen la prueba de certificación, indicando 
 aquellas en las que se ha adquirido el dominio de la destreza.
 Octava.- Estructura de las pruebas.
@@ -331,13 +298,8 @@ entre otros tipos de textos. Estos textos orales se escucharán dos veces.
 Dichas tareas, que evaluarán la escucha extensiva, la intensiva y la selectiva, incluirán 
 diferentes tipos de ejercicios, que podrán ser tareas con ítems de verdadero-falso, con ítems 
 de elección múltiple, de ítems para relacionar o emparejar, con respuesta corta, etc.
-boc-a-2019-234-5741
 
-
-Boletín Oficial de Canarias núm. 234
-https://sede.gobcan.es/boc
 Martes 3 de diciembre de 2019
-41242
 3.3. Producción y coproducción de textos escritos.
 La producción y coproducción de textos escritos constará de dos tareas para todos los 
 niveles, una de producción y otra de coproducción. En las instrucciones de las tareas se 
@@ -374,13 +336,8 @@ Ambas tareas partirán de un texto fuente real o verosímil, de diversos tipos y
 como prensa, Internet, folletos informativos, publicaciones de instituciones oficiales o entidades 
 públicas o privadas, comerciales, etc. Las instrucciones para realizar la mediación estarán 
 contextualizadas incluyendo a quién va dirigida la tarea, el por qué y el para qué de la misma.
-boc-a-2019-234-5741
 
-
-Boletín Oficial de Canarias núm. 234
-https://sede.gobcan.es/boc
 Martes 3 de diciembre de 2019
-41243
 4. Quien se presente a la prueba de certificación podrá acceder a todas y cada una de 
 las partes de las que consten las pruebas, sin que la superación de cualquiera de ellas sea 
 requisito indispensable para realizar las restantes.
@@ -418,13 +375,8 @@ Decimoprimera.- Evaluación y calificación de las pruebas.
 1. Corresponde al profesorado de EOI la evaluación y calificación de las pruebas para 
 la obtención de los certificados de los niveles básico A2, intermedio B1, int ermedio B2, 
 avanzado C1 y avanzado C2.
-boc-a-2019-234-5741
 
-
-Boletín Oficial de Canarias núm. 234
-https://sede.gobcan.es/boc
 Martes 3 de diciembre de 2019
-41244
 2. En la evaluación y calificación de las pruebas de certificación se tomarán como 
 referencia los criterios de evaluación establecidos para cada nivel y actividad de lengua en 
 los currículos establecidos en el Decreto 142/2018, de 8 de octubre, así como los principios 
@@ -461,13 +413,8 @@ lengua que conforman la prueba de certificación, se otorgará la calificación 
 8. En la prueba de certificación de nivel básico A2, para obtener la calificación de “Apto”, 
 se requerirá haber superado las cuatro partes o actividades de lengua de las que consta la 
 prueba de certificación con una calificación igual o superior a cinco (5) puntos.
-boc-a-2019-234-5741
 
-
-Boletín Oficial de Canarias núm. 234
-https://sede.gobcan.es/boc
 Martes 3 de diciembre de 2019
-41245
 Decimosegunda.- Certificados de nivel.
 Las personas aspirantes que obtengan la calificación de “Apto” según los términos 
 establecidos en la instrucción anterior, podrán solicitar el correspondiente certificado oficial 
@@ -503,13 +450,8 @@ misma y, por lo tanto, la Dirección del centro adoptará las medidas organizati
 que aseguren este normal desarrollo.
 4. Las adaptaciones de la prueba de certificación podrán ser las que se detallan a 
 continuación.
-boc-a-2019-234-5741
 
-
-Boletín Oficial de Canarias núm. 234
-https://sede.gobcan.es/boc
 Martes 3 de diciembre de 2019
-41246
 4.1. Se podrá aumentar el tiempo de realización de hasta un 25% para favorecer la 
 redacción y la revisión ortográfica en el caso de aspirantes con dislexia y disgrafía. Este 
 aumento de tiempo también se hará extensivo a aspirantes con otros discapacidades como 
@@ -547,13 +489,8 @@ condiciones y/o materiales que se habrán de utilizar o adaptar.
 Será la Dirección General competente en materia de ordenación de enseñanzas de 
 régimen especial quien resuelva las solicitudes de adaptación que no se encuentren recogidas 
 en el punto 4 o que no pueda resolver la EOI por si misma, por ejemplo, la transcripción 
-boc-a-2019-234-5741
 
-
-Boletín Oficial de Canarias núm. 234
-https://sede.gobcan.es/boc
 Martes 3 de diciembre de 2019
-41247
 de la prueba a braille. Estas circunstancias se comunicarán con, al menos, quince días de 
 antelación al día de la realización de la prueba de certificación.
 Decimoquinta.- Publicación de resultados y procedimiento de reclamación contra 
@@ -589,13 +526,8 @@ derecho a ver las pruebas revisadas, previa solicitud por escrito, en el plazo d
 desde la notificación de la resolución de revisión de calificación.
 7. En el caso de disconformidad con la resolución adoptada tras el procedimiento de 
 revisión de calificación en el centro, se podrá presentar a través de la secretaría, y dentro 
-boc-a-2019-234-5741
 
-
-Boletín Oficial de Canarias núm. 234
-https://sede.gobcan.es/boc
 Martes 3 de diciembre de 2019
-41248
 del plazo de dos días a partir de la notificación de la resolución de calificación, escrito de 
 reclamación ante la Dirección Territorial de Educación que corresponda. La Dirección del 
 centro remitirá todo el expediente (reclamación, informes, copia del acta de calificación, 
@@ -609,5 +541,3 @@ resolución que dicte la Dirección Territorial de Educación pondrá fin a la v
 sin perjuicio de que la persona interesada pueda interponer los recursos previstos en la Ley 
 39/2015, de 1 de octubre, del Procedimiento Administrativo Común de las Administraciones 
 Públicas.
-boc-a-2019-234-5741
-

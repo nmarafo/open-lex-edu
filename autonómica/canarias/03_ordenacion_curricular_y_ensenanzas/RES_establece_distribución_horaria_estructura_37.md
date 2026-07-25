@@ -32,9 +32,6 @@ fuente_pdf_oficial: https://sede.gobiernodecanarias.org/boc/boc-a-2026-045-736.p
 
 # Resolución de 25 de febrero de 2026, por la que se establece la distribución horaria y estructura modular de los Grados C (Certificados Profesionales) y sus correspondientes Grados B (Certificados de Competencia), de niveles 2 y 3, de las familias profesionales de Edificación y Obra Civil; Electricidad y Electrónica; Energía y Agua; e Industrias Extractivas, en el ámbito de la Comunidad Autónoma de Canarias.
 
-https://sede.gobiernodecanarias.org/boc
-boc-a-2026-045-736
-Boletín Oficial de Canarias núm. 45 Viernes 6 de marzo de 20268378
 III. Otras Resoluciones
 Consejería de Educación, Formación Profesional, Actividad Física y Deportes
 736 Viceconsejería de Formación Profesional y Cualificaciones Profesionales.- Resolución 
@@ -75,9 +72,6 @@ Segundo.- El artículo 25.1 del citado Real Decreto dispone que las administraci
 competentes deberán determinar la duración de los Grados A, B y C vinculados a Grados 
 D de los que tuvieran desarrollo autonómico, estableciendo la misma duración horaria para 
 
-https://sede.gobiernodecanarias.org/boc
-boc-a-2026-045-736
-Boletín Oficial de Canarias núm. 45 Viernes 6 de marzo de 20268379
 cada módulo profesional en el ámbito autonómico, con independencia del grado en el que 
 se integren.
 Asimismo, el artículo 25.5 determina que, cuando un Grado C incorpore un módulo 
@@ -119,9 +113,6 @@ Instituto Nacional de las Cualificaciones, establece en su artículo 12, relativ
 del Catálogo Nacional de Ofertas de Formación Profesional, el marco estructural de dichas 
 ofertas.
 
-https://sede.gobiernodecanarias.org/boc
-boc-a-2026-045-736
-Boletín Oficial de Canarias núm. 45 Viernes 6 de marzo de 20268380
 En particular, el apartado 2 dispone la organización de las ofertas del Sistema de 
 Formación Profesional como dimensión vertical definitoria, estructurada de forma 
 escalonada en una serie ascendente de Grados. Esta ordenación es descriptiva de la amplitud 
@@ -164,9 +155,6 @@ Segundo.- Aprobar la distribución horaria y la estructura modular de los Grados
 de niveles 2 y 3 de la familia profesional de Electricidad y Electrónica, en los términos 
 recogidos en el Anexo II de la presente Resolución.
 
-https://sede.gobiernodecanarias.org/boc
-boc-a-2026-045-736
-Boletín Oficial de Canarias núm. 45 Viernes 6 de marzo de 20268381
 Tercero.- Aprobar la distribución horaria y la estructura modular de los Grados C 
 (Certificados Profesionales) y sus correspondientes Grados B (Certificados de Competencia) 
 de niveles 2 y 3 de la familia profesional de Energía y Agua, en los términos recogidos en 
@@ -201,9 +189,6 @@ cualquier otro que se estime procedente.
 Las Palmas de Gran Canaria, a 25 de febrero de 2026.- El Viceconsejero de Formación 
 Profesional y Cualificaciones Profesionales, Francisco Rodríguez Machado.
 
-boc-a-2026-045-736
-Boletín Oficial de Canarias núm. 45 Viernes 6 de marzo de 20268382
-https://sede.gobiernodecanarias.org/boc
 ANEXO I
 FAMILIA PROFESIONAL: EDIFICACIÓN Y OBRA CIVIL
 DISTRIBUCIÓN HORARIA Y ESTRUCTURA MODULAR DE LOS GRADOS C (CERTIFICADOS 
@@ -263,9 +248,6 @@ Código del certificado de competencia: EOC_B_1004 170 9 5
 Código del certificado de competencia: EOC_B_1005 64 4 2
 ANEXO I
 
-boc-a-2026-045-736
-Boletín Oficial de Canarias núm. 45 Viernes 6 de marzo de 20268383
-https://sede.gobiernodecanarias.org/boc
 1724 Prevención de riesgos laborales en construcción 60 3 2
 Duración 535 30 16
 En régimen general la formación en la empresa u organismo equiparado tendrá una duración mínima de 135 horas
@@ -333,9 +315,6 @@ Duración 440 26
 En régimen general la formación en la empresa u organismo equiparado tendrá una duración mínima de 110 horas
 En régimen intensivo la formación en la empresa u organismo equiparado tendrá una duración mínima de 155 horas
 
-boc-a-2026-045-736
-Boletín Oficial de Canarias núm. 45 Viernes 6 de marzo de 20268384
-https://sede.gobiernodecanarias.org/boc
 Certificado profesional: Instalación de placa de yeso laminado y falsos techos.
 • Código: EOC_ C_005_4B.
 • Título  de  Formación  Profesional  asociado:  Técnico  en  Obras  de  Interior,  Decoración  y
@@ -360,7 +339,6 @@ Código del certificado de competencia: EOC_B_0996 96 4 3
 Código del certificado de competencia: EOC_B_1195 206 8 6
 1197 Techos suspendidos
 Código del certificado de competencia: EOC_B_1197 141 5 4
-1200
 Organización de trabajos de interior, decoración y 
 rehabilitación
 Código del certificado de competencia: EOC_B_1200
@@ -392,9 +370,6 @@ Código del certificado de competencia: EOC_B_1196 96 6
 rehabilitación
 Código del certificado de competencia: EOC_B_1200
 
-boc-a-2026-045-736
-Boletín Oficial de Canarias núm. 45 Viernes 6 de marzo de 20268385
-https://sede.gobiernodecanarias.org/boc
 1724 Prevención de riesgos laborales en construcción 60 4
 Duración 490 30
 En régimen general la formación en la empresa u organismo equiparado tendrá una duración mínima de 125 horas
@@ -421,7 +396,6 @@ Código del certificado de competencia: EOC_B_0995 96 4 3
 Código del certificado de competencia: EOC_B_1198 96 4 3
 1199 Pintura decorativa en construcción
 Código del certificado de competencia: EOC_B_1199 238 12 7
-1200
 Organización de trabajos de interior, decoración y
 rehabilitación
 Código del certificado de competencia: EOC_B_1200
@@ -461,10 +435,6 @@ Horas
 semanales
 (17 semanas)
 
-boc-a-2026-045-736
-Boletín Oficial de Canarias núm. 45 Viernes 6 de marzo de 20268386
-https://sede.gobiernodecanarias.org/boc
-1200
 Organización de trabajos de interior, decoración y
 rehabilitación
 Código del certificado de competencia: EOC_B_1200
@@ -528,9 +498,6 @@ Horas
 semanales
 (33 semanas)
 
-boc-a-2026-045-736
-Boletín Oficial de Canarias núm. 45 Viernes 6 de marzo de 20268387
-https://sede.gobiernodecanarias.org/boc
 0566 Planificación de construcción
 Código del certificado de competencia: EOC_B_0566 138 4
 0570 Desarrollo de proyectos de edificación residencial
@@ -596,9 +563,6 @@ Horas
 semanales
 (33 semanas)
 
-boc-a-2026-045-736
-Boletín Oficial de Canarias núm. 45 Viernes 6 de marzo de 20268388
-https://sede.gobiernodecanarias.org/boc
 0771 Levantamientos topográficos.
 Código del certificado de competencia: EOC_B_0771 202 9 6
 1724 Prevención de riesgos laborales en construcción 60 3 2
@@ -668,9 +632,6 @@ semanales
 (33 semanas)
 Código del certificado de competencia: EOC_B_1291
 
-boc-a-2026-045-736
-Boletín Oficial de Canarias núm. 45 Viernes 6 de marzo de 20268389
-https://sede.gobiernodecanarias.org/boc
 1293 Rehabilitación y conservación de obras de construcción
 Código del certificado de competencia: EOC_B_1293 174 6 5
 1724 Prevención de riesgos laborales en construcción 60 3 2
@@ -744,9 +705,6 @@ Duración 515 30 15
 En régimen general la formación en la empresa u organismo equiparado tendrá una duración mínima de 130 horas
 En régimen intensivo la formación en la empresa u organismo equiparado tendrá una duración mínima de 185 horas
 
-boc-a-2026-045-736
-Boletín Oficial de Canarias núm. 45 Viernes 6 de marzo de 20268390
-https://sede.gobiernodecanarias.org/boc
 ANEXO II
 FAMILIA PROFESIONAL: ELECTRICIDAD Y ELECTRÓNICA
 DISTRIBUCIÓN HORARIA Y ESTRUCTURA MODULAR DE LOS GRADOS C
@@ -807,9 +765,6 @@ En régimen general la formación en la empresa u organismo equiparado tendrá u
 En régimen intensivo la formación en la empresa u organismo equiparado tendrá una duración mínima de 205 horas
 ANEXO II
 
-boc-a-2026-045-736
-Boletín Oficial de Canarias núm. 45 Viernes 6 de marzo de 20268391
-https://sede.gobiernodecanarias.org/boc
 Certificado profesional: Montaje y mantenimiento de infraestructuras de telecomunicaciones, redes 
 locales de datos y sistemas de telefonía.
 • Código: ELE_C_003_4B.
@@ -854,9 +809,6 @@ Duración 405 24
 En régimen general la formación en la empresa u organismo equiparado tendrá una duración mínima de 105 horas
 En régimen intensivo la formación en empresa u organismo equiparado tendrá una duración mínima 145 de horas 
 
-boc-a-2026-045-736
-Boletín Oficial de Canarias núm. 45 Viernes 6 de marzo de 20268392
-https://sede.gobiernodecanarias.org/boc
 Certificado profesional: Desarrollo de proyectos de instalaciones eléctricas de baja tensión y centros de 
 transformación.
 • Código: ELE_C_001_5B.
@@ -905,7 +857,6 @@ semanales
 Código del certificado de competencia: ELE_B_0518 241 13 7
 0521 Técnicas y procesos en instalaciones domóticas y automáticas
 Código del certificado de competencia: ELE_B_0521  205 11 6
-0602
 Gestión del montaje y del mantenimiento de instalaciones 
 eléctricas
 Código del certificado de competencia: ELE_B_0602  
@@ -915,9 +866,6 @@ Duración 540 30 16
 En régimen general la formación en la empresa u organismo equiparado tendrá una duración mínima de 135 horas
 En régimen intensivo la formación en empresa u organismo equiparado tendrá una duración mínima de 190 horas
 
-boc-a-2026-045-736
-Boletín Oficial de Canarias núm. 45 Viernes 6 de marzo de 20268393
-https://sede.gobiernodecanarias.org/boc
 Certificado profesional: Gestión y supervisión del montaje y mantenimiento de sistemas de producción 
 audiovisual y de radiodifusión en unidades fijas y móviles.
 • Código: ELE_C_003_5B.
@@ -975,9 +923,6 @@ Duración 745 30 22
 En régimen general la formación en la empresa u organismo equiparado tendrá una duración mínima de 190 horas
 En régimen intensivo la formación en la empresa u organismo equiparado tendrá una duración mínima de 265 horas
 
-boc-a-2026-045-736
-Boletín Oficial de Canarias núm. 45 Viernes 6 de marzo de 20268394
-https://sede.gobiernodecanarias.org/boc
 Certificado profesional: Desarrollo de proyectos de infraestructuras de telecomunicación y de redes de  
 voz y datos, con integración de servicios de hogar digital, en el entorno de edificios inteligentes. 
 • Código: ELE_C_005_5B.
@@ -995,7 +940,6 @@ semanales
 Horas
 semanales
 (17 semanas)
-0525
 Configuración de infraestructuras de sistemas de 
 telecomunicaciones
 Código del certificado de competencia: ELE_B_0525
@@ -1034,9 +978,6 @@ Duración 645 30 19
 En régimen general la formación en la empresa u organismo equiparado tendrá una duración mínima de 165 horas
 En régimen intensivo la formación en la empresa u organismo equiparado tendrá una duración mínima de 230 horas
 
-boc-a-2026-045-736
-Boletín Oficial de Canarias núm. 45 Viernes 6 de marzo de 20268395
-https://sede.gobiernodecanarias.org/boc
 Certificado  profesional:  Planificación  de  los  procesos  de  mantenimiento  y  reparación  de  equipos 
 industriales y profesionales de audio y vídeo.
 • Código: ELE_C_007_5B.
@@ -1094,9 +1035,6 @@ Duración 915 27
 En régimen general la formación en la empresa u organismo equiparado tendrá una duración mínima de 230 horas
 En régimen intensivo la formación en la empresa u organismo equiparado tendrá una duración mínima de 325 horas
 
-boc-a-2026-045-736
-Boletín Oficial de Canarias núm. 45 Viernes 6 de marzo de 20268396
-https://sede.gobiernodecanarias.org/boc
 Certificado profesional: Gestión y supervisión del montaje, puesta en marcha y mantenimiento de  
 sistemas de automatización industrial. 
 • Código: ELE_C_009_5B.
@@ -1153,9 +1091,6 @@ Duración 785 30 23
 En régimen general la formación en la empresa u organismo equiparado tendrá una duración mínima de 200 horas
 En régimen intensivo la formación en la empresa u organismo equiparado tendrá una duración mínima de 275 horas
 
-boc-a-2026-045-736
-Boletín Oficial de Canarias núm. 45 Viernes 6 de marzo de 20268397
-https://sede.gobiernodecanarias.org/boc
 Certificado profesional: Planificación de planes de renovación, montaje y mantenimiento de sistemas  
 de electromedicina.
 • Código: ELE_C_011_5B.
@@ -1174,7 +1109,6 @@ semanales
 (17 semanas)
 1593 Planificación de la adquisición de sistemas de electromedicina 
 Código del certificado de competencia: ELE_B_1593 202 16 12
-1594
 Gestión del montaje y mantenimiento de sistemas de 
 electromedicina 
 Código del certificado de competencia: ELE_B_1594 
@@ -1184,9 +1118,6 @@ Duración 370 30 22
 En régimen general la formación en la empresa u organismo equiparado tendrá una duración mínima de 95 horas
 En régimen intensivo la formación en empresa u organismo equiparado tendrá una duración mínima de 130 horas
 
-boc-a-2026-045-736
-Boletín Oficial de Canarias núm. 45 Viernes 6 de marzo de 20268398
-https://sede.gobiernodecanarias.org/boc
 ANEXO III
 FAMILIA PROFESIONAL: ENERGÍA Y AGUA
 DISTRIBUCIÓN HORARIA Y ESTRUCTURA MODULAR DE LOS GRADOS C
@@ -1225,9 +1156,6 @@ En régimen general la formación en la empresa u organismo equiparado tendrá u
 En régimen intensivo la formación en la empresa u organismo equiparado tendrá una duración mínima de 285 horas
 ANEXO III
 
-boc-a-2026-045-736
-Boletín Oficial de Canarias núm. 45 Viernes 6 de marzo de 20268399
-https://sede.gobiernodecanarias.org/boc
 Certificado profesional: Operación de estaciones de tratamiento de aguas.
 • Código: ENA_C_002_4B.
 • Título de Formación Profesional asociado: Técnico en Redes y Estaciones de Tratamiento de
@@ -1280,9 +1208,6 @@ Duración 645 30 19
 En régimen general la formación en la empresa u organismo equiparado tendrá una duración mínima de 165 horas
 En régimen intensivo la formación en la empresa u organismo equiparado tendrá una duración mínima de 230 horas
 
-boc-a-2026-045-736
-Boletín Oficial de Canarias núm. 45 Viernes 6 de marzo de 20268400
-https://sede.gobiernodecanarias.org/boc
 Certificado profesional: Organización y proyectos de instalaciones solares térmicas. 
 • Código: ENA_C_002_5B.
 • Título  de  Formación  Profesional  asociado:  Técnico  Superior  en  Eficiencia  Energética  y
@@ -1305,7 +1230,6 @@ Código del certificado de competencia: ENA_B_0122 197 9 6
 Código del certificado de competencia: ENA_B_0123 106 4 3
 0352 Configuración de instalaciones solares térmicas
 Código del certificado de competencia: ENA_B_0352 106 4 3
-0353
 Gestión del montaje y mantenimiento de instalaciones solares 
 térmicas
 Código del certificado de competencia: ENA_B_0353
@@ -1345,9 +1269,6 @@ régimen intensivo
 En régimen general la formación en la empresa u organismo equiparado tendrá una duración de 355 horas
 En régimen intensivo la formación en la empresa u organismo equiparado tendrá una duración de 470 horas
 
-boc-a-2026-045-736
-Boletín Oficial de Canarias núm. 45 Viernes 6 de marzo de 20268401
-https://sede.gobiernodecanarias.org/boc
 Certificado profesional: Gestión del montaje y mantenimiento de subestaciones eléctricas.
 • Código: ENA_C_004_5B.
 • Título de Formación Profesional asociado: Técnico Superior en Centrales Eléctricas.
@@ -1390,9 +1311,6 @@ Duración 405 24
 En régimen general la formación en la empresa u organismo equiparado tendrá una duración mínima de 105 horas
 En régimen intensivo la formación en empresa u organismo equiparado tendrá una duración mínima de 145 horas 
 
-boc-a-2026-045-736
-Boletín Oficial de Canarias núm. 45 Viernes 6 de marzo de 20268402
-https://sede.gobiernodecanarias.org/boc
 Certificado profesional: Organización y proyectos de instalaciones solares fotovoltaicas. 
 • Código: ENA_C_006_5B.
 • Título de Formación Profesional asociado: Técnico Superior en Energías Renovables.
@@ -1437,9 +1355,6 @@ Duración 345 30 20
 En régimen general la formación en la empresa u organismo equiparado tendrá una duración mínima de 90 horas
 En régimen intensivo la formación en empresa u organismo equiparado tendrá una duración mínima de 125 horas 
 
-boc-a-2026-045-736
-Boletín Oficial de Canarias núm. 45 Viernes 6 de marzo de 20268403
-https://sede.gobiernodecanarias.org/boc
 Certificado profesional: Organización y control del montaje y mantenimiento de redes e instalaciones  
 de agua y saneamiento.
 • Código: ENA_C_008_5B.
@@ -1470,9 +1385,6 @@ Duración 1080 32
 En régimen general la formación en la empresa u organismo equiparado tendrá una duración mínima de 270 horas
 En régimen intensivo la formación en la empresa u organismo equiparado tendrá una duración mínima de 380 horas
 
-boc-a-2026-045-736
-Boletín Oficial de Canarias núm. 45 Viernes 6 de marzo de 20268404
-https://sede.gobiernodecanarias.org/boc
 ANEXO IV
 FAMILIA PROFESIONAL: INDUSTRIAS EXTRACTIV AS
 DISTRIBUCIÓN HORARIA Y ESTRUCTURA MODULAR DE LOS GRADOS C
@@ -1531,9 +1443,6 @@ En régimen general la formación en la empresa u organismo equiparado tendrá u
 En régimen intensivo la formación en la empresa u organismo equiparado tendrá una duración mínima de 260 horas
 ANEXO IV
 
-boc-a-2026-045-736
-Boletín Oficial de Canarias núm. 45 Viernes 6 de marzo de 20268405
-https://sede.gobiernodecanarias.org/boc
 Certificado profesional: Sondeos y trabajos geotécnicos.
 • Código: IEX _C_006_4B.
 • Título de Formación Profesional asociado: Técnico en Excavaciones y Sondeos.
@@ -1556,4 +1465,4 @@ Código del certificado de competencia: IEX_B_0850 96 12 6
 1782 Prevención de riesgos laborales 30 3 2
 Duración 275 30 16
 En régimen general la formación en la empresa u organismo equiparado tendrá una duración mínima de 70 horas
-En régimen intensivo la formación en la empresa u organismo equiparado tendrá una duración mínima de 100 horas 
+En régimen intensivo la formación en la empresa u organismo equiparado tendrá una duración mínima de 100 horas

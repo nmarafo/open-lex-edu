@@ -48,9 +48,6 @@ fuente_pdf_oficial: https://sede.gobiernodecanarias.org/boc/boc-a-2023-096-1554.
 
 # Decreto 102/2023, de 9 de mayo, por el que se establece la ordenación y el currículo de la Educación Secundaria Obligatoria en la Comunidad Autónoma de Canarias.
 
-https://sede.gobiernodecanarias.org/boc
-boc-a-2023-096-1554
-Boletín Oficial de Canarias núm. 96 Jueves 18 de mayo de 202328392
 II. Autoridades y personal
 Nombramientos, situaciones e incidencias
 Consejería de Administraciones Públicas, Justicia y Seguridad
@@ -92,9 +89,6 @@ Primero.- Aprobar la lista de adjudicación definitiva de puestos del concurso d
 a la Escala Ejecutiva, Empleo Subinspector, adscrito al Grupo A, Subgrupo A2, del Cuerpo 
 General de la Policía Canaria de la Administración Pública de la Comunidad Autónoma de 
 
-https://sede.gobiernodecanarias.org/boc
-boc-a-2023-096-1554
-Boletín Oficial de Canarias núm. 96 Jueves 18 de mayo de 202328393
 Canarias, convocado mediante Resolución de este Centro Directivo de 1 de junio de 2022 
 (BOC n.º 118, de 15.6.2022), que se adjunta como anexo a la presente Resolución.
 Segundo.- Nombrar funcionario de carrera del Cuerpo General de la Policía Canaria, 
@@ -131,9 +125,6 @@ recurso que se pudiera interponer.
 Canarias, a 10 de mayo de 2023.- El Director General de Seguridad y Emergencias, 
 Gustavo de Armas Gómez.
 
-https://sede.gobiernodecanarias.org/boc
-boc-a-2023-096-1554
-Boletín Oficial de Canarias núm. 96 Jueves 18 de mayo de 202328394
 ANEXO
 ADJUDICACIÓN DE PUESTO DE TRABAJOANEXO I
 ADJUDICACIÓN DE PUESTO DE TRABAJO

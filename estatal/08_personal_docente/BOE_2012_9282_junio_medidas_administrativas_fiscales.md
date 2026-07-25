@@ -31,13 +31,11 @@ fundamentos_derecho:
 
 # Ley 4/2012, de 25 de junio, de medidas administrativas y fiscales.
 
-
 ## EXPOSICIÓN DE MOTIVOS
 
 Sea notorio a todos los ciudadanos que el Parlamento de Canarias ha aprobado y yo, en nombre del Rey y de acuerdo con lo que establece el artículo 12.8 del Estatuto de Autonomía, promulgo y ordeno la publicación de la Ley 4/2012, de 25 de junio, de Medidas Administrativas y Fiscales.
 
 La Ley se estructura en dos Libros, uno para las medidas administrativas y el otro para las medidas fiscales, y la parte final.
-
 
 **A) MEDIDAS ADMINISTRATIVAS**
 
@@ -73,9 +71,7 @@ En el título VII, con la rúbrica «Parejas de hecho», se procede a la modific
 
 El título VIII, intitulado «otras medidas», recoge la modificación del texto refundido de las Leyes de Ordenación del Territorio de Canarias y de Espacios Naturales de Canarias y la previsión de que el visado del correspondiente colegio sobre los trabajos profesionales establecido en la legislación de la Comunidad Autónoma de Canarias sólo será exigible en los supuestos en que esté establecido con carácter obligatorio por la normativa básica estatal.
 
-
 **B) MEDIDAS FISCALES**
-
 
 **I**
 
@@ -104,7 +100,6 @@ La presente Ley contiene un ejercicio del poder tributario de nuestra Comunidad 
 Medidas para lograr que el sistema tributario canario se consolide como instrumento esencial de financiación del gasto público canario, incorporando a ese sistema elementos para una distribución más equitativa entre los ciudadanos de la carga del sostenimiento de los gastos públicos; y se incorporan no sólo medidas normativas de ajuste de diferentes tributos sino también disposiciones que permitan a la Administración Tributaria Canaria una mejor gestión del sistema tributario y facilitar al ciudadano y a las empresas el cumplimiento de sus obligaciones tributarias. Ha de destacarse que la mejora en la gestión va dirigida, fundamentalmente, a la lucha contra el fraude fiscal, de modo que las necesidades de financiación pública se resuelvan no sólo vía medidas normativas, sino también vía detección de los hechos imponibles no declarados o que lo sean de manera indebida.
 
 El Libro II de la ley se estructura en cuatro títulos.
-
 
 **II**
 
@@ -150,7 +145,6 @@ Finalmente, se incorpora una previsión acerca de la revisión y actualización 
 
 A fin de lograr una adecuada reordenación de las tasas de la Comunidad Autónoma, esta ley establece a cargo del Gobierno de Canarias la obligación de presentar un Proyecto de Ley de Tasas y Precios Públicos de la Comunidad Autónoma de Canarias, a través de la cual se pretende dotar de una mayor equidad a la financiación de nuestros gastos públicos, de modo que la prestación de servicios administrativos que afectan directamente e inmediatamente a personas concretas, así como el aprovechamiento especial o privativo de los bienes de dominio público determine una mayor aportación financiera por quienes están obteniendo ese especial beneficio.
 
-
 **III**
 
 El título II se refiere a los tributos cedidos a la Comunidad Autónoma de Canarias.
@@ -193,7 +187,6 @@ Se regulan en el ámbito del Impuesto sobre Transmisiones Patrimoniales una seri
 
 El capítulo III queda dedicado al Impuesto sobre el Patrimonio, creándose la exención en este Impuesto de los patrimonios especialmente protegidos de los contribuyentes con discapacidad. De este modo se lleva a efecto lo previsto en la disposición adicional segunda de la Ley 41/2003, de 18 de noviembre, de protección patrimonial de las personas con discapacidad y de modificación del Código Civil, de la Ley de Enjuiciamiento Civil y de la normativa tributaria con esta finalidad.
 
-
 **IV**
 
 El Título III se refiere a los tributos derivados del Régimen Económico Fiscal de Canarias.
@@ -226,7 +219,6 @@ En los artículos 55, 56 y 57 se regulan las entregas y servicios sujetos, res
 
 Los artículos 58, 59, 60 y 61 de la presente ley contienen, cada uno de ellos, la regulación en un único artículo de la tributación, respectivamente, de las operaciones relacionadas con las viviendas y de las entregas, arrendamientos y ejecuciones de obras de vehículos; de buques, embarcaciones y artefactos navales; y de aviones, avionetas y demás aeronaves; regulando con el debido detalle las condiciones que se han de cumplir para la aplicación de cada uno de los tipos de gravamen.
 
-
 **V**
 
 El Título IV contiene medidas normativas referidas al marco regulador de la aplicación efectiva del sistema tributario canario, modificando puntualmente la Ley 9/2006, de 11 de diciembre, Tributaria de la Comunidad Autónoma de Canarias y la Ley 11/2006, de 11 de diciembre, de la Hacienda Pública Canaria.
@@ -242,7 +234,6 @@ Se crea un nuevo artículo, el 24 bis, para posibilitar que en las actuaciones 
 La última modificación relativa a la Ley 9/2006 consiste en la adición de una nueva disposición adicional, la novena, en la que se prevé la asistencia, del Cuerpo General de la Policía Canaria a la Administración Tributaria Canaria, en especial en el ámbito de la lucha contra el fraude fiscal.
 
 En cuanto a la Ley de la Hacienda Pública Canaria, se modifica su artículo 18, regulador de los derechos económicos de baja cuantía, en coherencia y coordinación con la nueva redacción dada al artículo 16 de la Ley 9/2006.
-
 
 **C) PARTE FINAL**
 
@@ -300,19 +291,15 @@ LIBRO I
 
 Medidas administrativas
 
-
 ## TÍTULO I
 
-
 **Organización administrativa**
-
 
 #### Artículo 1. Extinción de la Agencia Canaria de Desarrollo Sostenible y Cambio Climático.
 
 1. Se extingue la Agencia Canaria de Desarrollo Sostenible y Cambio Climático, creada por la Ley 3/2009, de 24 de abril, cuyas funciones y competencias se asumen por la Consejería competente en materia de sostenibilidad.
 
 2. El personal de la Agencia Canaria de Desarrollo Sostenible y Cambio Climático, así como los bienes, derechos y obligaciones resultantes de su extinción se integran en la Consejería competente en materia de sostenibilidad.
-
 
 #### Artículo 2. Modificación de la Ley 4/1986, de 25 de junio, de Entidades Canarias en el Exterior y del Consejo Canario de Entidades en el Exterior.
 
@@ -321,7 +308,6 @@ Se modifica la Ley 4/1986, de 25 de junio, de Entidades Canarias en el Exterio
 Uno. Se modifica el título de la ley, que queda de la forma siguiente: «Ley 4/1986, de 25 de junio, de Entidades Canarias en el Exterior.»
 
 Dos. El artículo 7 queda redactado en la forma siguiente:
-
 
 #### «Artículo 7.
 
@@ -333,11 +319,9 @@ Dos. El artículo 7 queda redactado en la forma siguiente:
 
 Tres. Se deja sin contenido el título II de la Ley 4/1986, de 25 de junio, de Entidades Canarias en el Exterior y del Consejo Canario de Entidades en el Exterior, y se suprime el Consejo Canario de Entidades en el Exterior.
 
-
 #### Artículo 3. Modificación de la Ley 11/1986, de 11 de diciembre, de creación y regulación del Instituto Canario de Hemodonación y Hemoterapia.
 
 Se modifica el artículo 5 de la Ley 11/1986, de 11 de diciembre, de creación y regulación del Instituto Canario de Hemodonación y Hemoterapia, que queda redactado en la forma siguiente:
-
 
 #### «Artículo 5.
 
@@ -361,13 +345,11 @@ d) Vocales:
 
 e) Secretaria: la persona designada por la Presidencia del Instituto de entre el personal al servicio del Instituto Canario de Hemodonación y Hemoterapia, con voz y sin voto.
 
-
 #### Artículo 4. Modificación de la Ley 2/1987, de 30 de marzo, de la Función Pública Canaria.
 
 Se modifica la Ley 2/1987, de 30 de marzo, de la Función Pública Canaria, en los términos siguientes:
 
 Uno. El artículo 95 queda redactado en la forma siguiente:
-
 
 #### «Artículo 95.
 
@@ -387,13 +369,11 @@ Asimismo, podrán formar parte del Consejo otras personas a título individual o
 
 2. La vicepresidencia del Consejo de Administración corresponde a la persona titular de la viceconsejería competente en materia de Administración Pública, o, en su defecto, a la titular del órgano superior competente en materia de función pública.»
 
-
 #### Artículo 5. Modificación de la Ley 1/1993, de 26 de marzo, de creación y regulación de la Escuela de Servicios Sanitarios y Sociales de Canarias.
 
 Se modifica la Ley 1/1993, de 26 de marzo, de creación y regulación de la Escuela de Servicios Sanitarios y Sociales de Canarias, en los términos siguientes:
 
 Uno. El artículo 5 queda con la redacción siguiente:
-
 
 #### «Artículo 5.
 
@@ -441,7 +421,6 @@ p) Las demás funciones que le atribuya el ordenamiento jurídico o se le enco
 
 Cuatro. El artículo 10 queda redactado como sigue:
 
-
 #### «Artículo 10.
 
 1. El personal de la Escuela de Servicios Sanitarios y Sociales de Canarias se regirá por las normas de Derecho Laboral.
@@ -449,7 +428,6 @@ Cuatro. El artículo 10 queda redactado como sigue:
 2. La persona titular de la Secretaría General de la Escuela estará sujeta al régimen de incompatibilidades previsto en la legislación vigente.
 
 3. La persona funcionaria designada como titular de la Secretaría General de la Escuela pasará a la situación administrativa de servicios especiales.»
-
 
 #### Artículo 6. Modificación de la Ley 1/1994, de 13 de enero, sobre creación del Instituto Canario de la Mujer.
 
@@ -459,13 +437,11 @@ Uno. La denominación de la ley será la siguiente: «Ley 1/1994, de 13 de e
 
 Dos. El artículo 1 queda con la siguiente redacción:
 
-
 #### «Artículo 1.
 
 El Instituto Canario de Igualdad es un organismo autónomo de carácter administrativo adscrito a la consejería competente en materia de igualdad entre mujeres y hombres.»
 
 Tres. El artículo 6 queda redactado en la forma siguiente:
-
 
 #### «Artículo 6.
 
@@ -487,7 +463,6 @@ e) Secretaría: la persona designada por la Dirección del Instituto Canario d
 
 Cuatro. Se suprime la Comisión para la Igualdad de la Mujer cuyas funciones se asumen por el Consejo Canario de Igualdad de Género, quedando el artículo 9 queda con la redacción siguiente:
 
-
 #### «Artículo 9.
 
 1. El Consejo Canario de Igualdad de Género es el órgano de consulta del Instituto Canario de Igualdad y de participación de organizaciones de mujeres y hombres, entidades de iniciativa social y agentes sociales que desarrollan programas o actuaciones de igualdad de género en coordinación con las administraciones públicas canarias y que hayan incorporado a sus estatutos, como objeto social, la consecución de la igualdad entre mujeres y hombres en Canarias, en su ámbito de intervención.
@@ -498,16 +473,13 @@ Cuatro. Se suprime la Comisión para la Igualdad de la Mujer cuyas funciones s
 
 Cinco. Se añade un artículo 9 bis con la siguiente redacción:
 
-
 #### «Artículo 9 bis.
 
 El Observatorio de la Igualdad de Género y la Comisión de coordinación de las políticas autonómicas y locales para la igualdad de género se regularán en su normativa específica.
 
-
 #### Artículo 7. Modificación de la Ley 7/1995, de 6 de abril, de Ordenación del Turismo de Canarias.
 
 Se deja sin contenido el artículo 9 de la Ley 7/1995, de 6 de abril, de Ordenación del Turismo de Canarias, y se suprimen las conferencias sectoriales de responsables turísticos previstas en el mismo.
-
 
 #### Artículo 8. Modificación de la Ley 3/2003, de 12 de febrero, del Estatuto de los Consumidores y Usuarios de la Comunidad Autónoma de Canarias.
 
@@ -516,7 +488,6 @@ Se modifica la Ley 3/2003, de 12 de febrero, del Estatuto de los Consumidores 
 Uno. Se suprime el Consejo General del Consumo de Canarias y, en consecuencia, se deja sin contenido el artículo 22.
 
 Dos. Se suprime la Comisión Canaria de Consumo y, en consecuencia, se deja sin contenido el artículo 23.
-
 
 #### Artículo 9. Modificación de la Ley 7/2007, de 13 de abril, Canaria de Juventud.
 
@@ -554,13 +525,11 @@ Dos. El apartado 1 del artículo 15 queda redactado en la forma siguiente:
 
 Tres. Se añade una disposición transitoria única con el contenido siguiente:
 
-
 #### «Disposición transitoria única.
 
 Hasta la creación y puesta en funcionamiento del Consejo de la Juventud de Canarias, los vocales representantes cuya elección corresponde al mismo en el Consejo de Políticas de Juventud serán designados por el consejero o consejera competente en materia de juventud, previa elección entre los miembros de las asociaciones de jóvenes y las secciones juveniles de asociaciones, de cualquier ámbito, o federaciones constituidas por éstas, reconocidas legalmente como tales, inscritas en el Registro de Asociaciones de Canarias, y cuyo ámbito de actuación sea la Comunidad Autónoma de Canarias, conforme al procedimiento de elección que se establezca en el reglamento de organización y funcionamiento del Consejo de Políticas de Juventud.
 
 Asimismo, hasta la creación y puesta en funcionamiento del Consejo de la Juventud de Canarias, integrado en el Consejo de Políticas de Juventud, aunque autónomo en su funcionamiento, se constituirá el Foro de la Juventud de Canarias, como órgano de participación y debate, integrado por los representantes a que se refiere el párrafo anterior, y que asume las funciones que, en materia de representatividad, le confiere el artículo 16.4.b) de esta ley al Consejo de la Juventud de Canarias.»
-
 
 #### Artículo 10. Modificación de la Ley 13/2007, de 17 de mayo, de Ordenación del Transporte por Carretera de Canarias.
 
@@ -577,7 +546,6 @@ Tres. La disposición adicional cuarta queda con la redacción siguiente:
 1. El Gobierno de Canarias creará la Mesa del Transporte Terrestre como órgano consultivo de asesoramiento y debate en materia de transporte terrestre, en especial por carretera, en el que participarán las Administraciones Públicas competentes y representantes de los sectores económicos y sociales afectados.
 
 2. Reglamentariamente se establecerá la composición, funciones, organización y régimen de actuación de este órgano consultivo.»
-
 
 #### Artículo 11. Modificación de la Ley 1/2010, de 26 de febrero, Canaria de Igualdad entre Mujeres y Hombres.
 
@@ -597,11 +565,9 @@ Tres. El apartado 1 del artículo 70 queda redactado en la forma siguiente:
 
 Cuatro. El artículo 71 queda redactado en la forma siguiente:
 
-
 #### «Artículo 71. Coordinación de los poderes públicos de Canarias para la igualdad entre mujeres y hombres.
 
 Se creará la Comisión de coordinación de las políticas autonómicas y locales para la igualdad de género con el objeto de coordinar e impulsar la integración del enfoque de género en las políticas y programas, en materia de igualdad entre mujeres y hombres, desarrollados por las distintas administraciones públicas de la Comunidad Autónoma, adscrita al Instituto Canario de Igualdad. Dicha Comisión estará compuesta por representantes de la Administración autonómica, de los siete cabildos insulares y de los ayuntamientos. Se establecerá reglamentariamente su composición y funcionamiento.»
-
 
 #### Artículo 12. Agencia Canaria de Calidad Universitaria y Evaluación Educativa.
 
@@ -612,7 +578,6 @@ Se creará la Comisión de coordinación de las políticas autonómicas y locale
 3. Se integran en la Agencia Canaria de Calidad Universitaria y Evaluación Educativa los medios personales y materiales del Instituto Canario de Evaluación y Calidad Educativa.
 
 4. Reglamentariamente se establecerán las normas de organización y funcionamiento de la Agencia Canaria de Calidad Universitaria y Evaluación Educativa.
-
 
 #### Artículo 13. Consorcios.
 
@@ -630,16 +595,13 @@ De los consorcios que se creen por el Gobierno se dará cuenta al Parlamento de 
 
 6. El crédito que aporte la Administración de la Comunidad Autónoma de Canarias será el que se fije en la Ley anual de Presupuestos.
 
-
 ## TÍTULO II
-
 
 **Gestión de personal**
 
 CAPÍTULO I
 
 Personal del sector público limitativo
-
 
 #### Artículo 14. Racionalización y distribución de efectivos.
 
@@ -656,7 +618,6 @@ No obstante lo anterior, los departamentos procederán a la racionalización de 
 5. Por razones asistenciales, organizativas o funcionales podrá encomendarse al personal estatutario del Servicio Canario de la Salud funciones a desempeñar en otro centro o unidad distinta al de su ámbito de nombramiento o servicios conjuntos en dos o más centros, aun cuando mantengan su vinculación a uno solo de ellos.
 
 En ambos supuestos, continuarán percibiendo las retribuciones correspondientes a su puesto de trabajo, sin perjuicio de la percepción de las indemnizaciones por razón del servicio a que tengan derecho, en su caso.
-
 
 #### Artículo 15. Modificación de la Ley 2/1987, de 30 de marzo, de la Función Pública Canaria.
 
@@ -726,7 +687,6 @@ Cinco. Se añade el siguiente párrafo al apartado 2 del artículo 78:
 
 «Los concursos de méritos deberán resolverse en el plazo máximo de quince meses contados desde el día siguiente al de la finalización del de presentación de solicitudes, salvo que en la respectiva convocatoria se fije un plazo inferior.»
 
-
 #### Artículo 16. Jubilación del personal estatutario y docente no universitario.
 
 1. La jubilación forzosa del personal estatutario del Servicio Canario de la Salud y del personal docente no universitario que preste servicios en la Administración de la Comunidad Autónoma de Canarias se declarará de oficio al cumplir la edad establecida en la legislación básica del Estado.
@@ -744,7 +704,6 @@ La jubilación voluntaria parcial de personal estatutario y de personal docente 
 4. Se podrá declarar la jubilación forzosa del personal estatutario y del personal docente no universitario, de oficio o a petición del interesado y previa la instrucción del correspondiente expediente, cuando no alcanzando la edad de jubilación legalmente prevista se declare la incapacidad permanente absoluta o incapacidad permanente total en relación con las funciones propias de su cuerpo, escala o categoría.
 
 Asimismo, procederá la jubilación forzosa transitoria con reserva de puesto de trabajo en los casos en los que la declaración de incapacidad permanente prevea la posible mejoría en el plazo máximo de dos años.
-
 
 #### Artículo 17. Modificación de la Ley 12/2011, de 29 de diciembre, de Presupuestos Generales de la Comunidad Autónoma de Canarias para 2012.
 
@@ -800,7 +759,6 @@ Se autoriza al consejero de Economía, Hacienda y Seguridad a declarar, a propue
 
 Siete. Se suprimen los párrafos a) y d) del apartado 2 del artículo 49 de la Ley 12/2011, de 29 de diciembre, de Presupuestos Generales de la Comunidad Autónoma de Canarias para 2012.
 
-
 #### Artículo 18. Retribuciones del personal informático.
 
 El régimen retributivo del personal laboral informático al servicio de la Administración de la Comunidad Autónoma de Canarias, sus organismos autónomos y demás entidades de derecho público vinculadas o dependiente vendrá determinado por lo establecido en el artículo 41 del III Convenio Colectivo, en las cuantías que fije anualmente la Ley de Presupuestos Generales de la Comunidad Autónoma de Canarias a partir del ejercicio 2016.
@@ -811,18 +769,15 @@ De esta forma se efectuará en cada ejercicio presupuestario, a partir del 2013
 
 Se suspenden las cláusulas del referido convenio colectivo que se opongan o contradigan lo dispuesto en el párrafo anterior.
 
-
 #### Artículo 19. Modificación de la Ley 3/1997, de 8 de mayo, de Incompatibilidades de los miembros del Gobierno y altos cargos de la Administración Pública de la Comunidad Autónoma de Canarias.
 
 Se modifica la letra c) del artículo 2 de la Ley 3/1997, de 8 de mayo, de Incompatibilidades de los miembros del Gobierno y altos cargos de la Administración Pública de la Comunidad Autónoma de Canarias, que queda redactado en la forma siguiente:
 
 «c) El personal eventual que ejerza funciones de carácter no permanente expresamente calificados de confianza o asesoramiento especial.»
 
-
 #### Artículo 20. Categorías de personal estatutario del Servicio Canario de la Salud.
 
 El establecimiento, modificación y supresión de categorías de personal estatutario de las instituciones sanitarias del Servicio Canario de la Salud, se efectuará por Decreto del Gobierno, a propuesta del titular del departamento competente en materia de sanidad, en las condiciones y con los requisitos establecidos en la Ley 55/2003, de 16 de diciembre, del Estatuto Marco del personal estatutario de los servicios de salud.
-
 
 #### Artículo 21. Complemento a la prestación económica por incapacidad temporal.
 
@@ -835,7 +790,6 @@ A efectos de determinar si se ha agotado o no el período máximo establecido en
 3. El personal del Servicio Canario de la Salud incluido en el ámbito de aplicación de la Ley 55/2003, de 16 de diciembre, del Estatuto Marco del personal estatutario de los servicios de salud, tendrá asimismo derecho al citado complemento, en los términos establecidos en los apartados anteriores, hasta el 100 por 100 de sus haberes, si bien con exclusión de las retribuciones complementarias de carácter variable ligadas a la actividad, el rendimiento o la atención continuada.
 
 4. La ampliación del período de percepción de la prestación económica complementaria al subsidio por incapacidad temporal podrá acordarse de oficio en los supuestos establecidos por el consejero o consejera competente en materia de función pública de acuerdo con lo previsto en el apartado 2 de este artículo, o a solicitud de la persona interesada. La solicitud deberá presentarse en la forma y en el plazo que se establezca reglamentariamente, y su resolución deberá adoptarse en el plazo de tres meses. Transcurrido dicho plazo sin haberse dictado y notificado la resolución, el interesado podrá entender estimada por silencio administrativo su solicitud.
-
 
 #### Artículo 22. Inspección médica del personal del sector público.
 
@@ -851,7 +805,6 @@ Asimismo, corresponde a las comisiones que se constituyan la evaluación y propu
 
 5. Respecto a la gestión y control de la prestación económica por incapacidad temporal del personal al que se refiere el apartado 1 de este artículo, corresponde a la consejería competente en materia de sanidad el ejercicio de las funciones de información, colaboración, gestión y coordinación de dicha prestación con el Instituto Nacional de la Seguridad Social.
 
-
 #### Artículo 23. Personal laboral al servicio de la Administración de la Comunidad Autónoma de Canarias.
 
 Al personal laboral que se encuentre en el ámbito de aplicación del III Convenio Colectivo del Personal Laboral de la Comunidad Autónoma de Canarias se le aplicará lo previsto en el artículo 49 de la Ley de la Función Pública Canaria.
@@ -859,7 +812,6 @@ Al personal laboral que se encuentre en el ámbito de aplicación del III Conven
 CAPÍTULO II
 
 Personal del sector público estimativo
-
 
 #### Artículo 24. Condiciones retributivas máximas.
 
@@ -869,7 +821,6 @@ Las reducciones de retribuciones realizadas de forma individual durante 2012 se
 
 No obstante lo dispuesto en el párrafo anterior, dicha reducción no será de aplicación al personal cuyas retribuciones por jornada completa no alcancen 1,5 veces el salario mínimo interprofesional fijado para 2012 por el Real Decreto 1888/2011, de 30 de diciembre.
 
-
 #### Artículo 25. Complemento de antigüedad y régimen de la prestación económica en el supuesto de incapacidad temporal.
 
 1. Los complementos en concepto de antigüedad correspondientes al personal de las entidades del sector público con presupuesto estimativo, que se devenguen a partir del 1 de enero de 2012, se ajustarán en su cuantía, a lo previsto en las leyes anuales de presupuestos de la Comunidad Autónoma de Canarias para los trienios del personal laboral de la Administración Pública de la Comunidad Autónoma de Canarias.
@@ -878,27 +829,21 @@ No obstante lo dispuesto en el párrafo anterior, dicha reducción no será de a
 
 Lo dispuesto en el párrafo anterior no será de aplicación en aquellos supuestos en los que la incapacidad temporal derive de un accidente de trabajo o enfermedad profesional, en cuyo caso se mantendrán las medidas de mejora de la prestación económica correspondiente que se encuentren previstas en los Acuerdos, Pactos y Convenios vigentes en dichas entidades.
 
-
 #### Artículo 26. Jornada en régimen de turnos.
 
 El personal del sector público autonómico con presupuesto estimativo que trabaje en régimen de turnos sólo podrá disfrutar del derecho a exención de turnos nocturnos por motivos de edad a partir de los 55 años, con los requisitos que se determinen reglamentariamente o mediante pactos o acuerdos colectivos.
-
 
 #### Artículo 27. Suspensión medidas de acción social.
 
 Queda suspendida, durante los ejercicios 2012 y 2013, cualquier medida prevista en materia de acción social para el personal del sector público estimativo de la Comunidad Autónoma de Canarias contenida en los Acuerdos, Pactos y Convenios vigentes en dichas entidades.
 
-
 #### Artículo 28. Suspensión de acuerdos, pactos y convenios vigentes.
 
 Quedan suspendidas las previsiones contenidas en los acuerdos, pactos y convenios vigentes en las entidades integrantes del sector público con presupuesto estimativo que contradigan lo previsto en esta sección.
 
-
 ## TÍTULO III
 
-
 **Fondo Canario de Financiación Municipal**
-
 
 #### Artículo 29. Modificación de la Ley 3/1999, de 4 de febrero, del Fondo Canario de Financiación Municipal.
 
@@ -934,7 +879,6 @@ Cuatro. Se añade un apartado 5 al artículo 19 con el siguiente contenido:
 
 Cinco. Queda sin contenido la disposición adicional primera.
 
-
 #### Artículo 30. Medidas relativas al Fondo Canario de Financiación Municipal para los ejercicios 2012 y 2013.
 
 1. La revisión de la cuantía del Fondo Canario de Financiación Municipal para el ejercicio de 2012 se entenderá realizada conforme al Índice de Precios al Consumo utilizado en el acuerdo de reparto adoptado por el Gobierno de Canarias el 14 de abril de 2012, sin que proceda aplicar lo establecido en el apartado 2 del artículo 1 de la Ley 3/1999, de 4 de febrero, del Fondo Canario de Financiación Municipal.
@@ -951,12 +895,9 @@ b) Se considerará el esfuerzo fiscal del Ayuntamiento superior al 78 por cie
 
 5. Durante el ejercicio 2012 se procederá a la regularización del importe del Fondo correspondiente al ejercicio 2008, de conformidad con lo dispuesto en la disposición adicional octava de la Ley 12/2011, de 29 de diciembre, de Presupuestos Generales de la Comunidad Autónoma de Canarias para 2012. No obstante, el abono de las cuantías que procedan conforme a dicha regularización se podrá realizar en el ejercicio 2013.
 
-
 ## TÍTULO IV
 
-
 **Gestión de juegos y apuestas**
-
 
 #### Artículo 31. Modificación de la Ley 8/2010, de 15 de julio, de los Juegos y Apuestas.
 
@@ -970,12 +911,9 @@ Dos. Se añade un apartado 5 al artículo 33 con el contenido siguiente:
 
 «5. Si en razón de las circunstancias concurrentes, se apreciara una cualificada disminución de la culpabilidad del imputado o de la antijuridicidad del hecho, el órgano sancionador establecerá la cuantía de la sanción aplicando la escala relativa a la clase de infracciones que preceda inmediatamente en gravedad a aquella en que se integra la considerada en el caso de que se trate.»
 
-
 ## TÍTULO V
 
-
 **Encomiendas de gestión**
-
 
 #### Artículo 32. Régimen jurídico de las encomiendas de gestión.
 
@@ -999,19 +937,15 @@ Dos. Se añade un apartado 5 al artículo 33 con el contenido siguiente:
 
 10. Las cantidades a reintegrar tendrán la consideración de ingresos de Derecho Público, siéndoles aplicables las normas sobre recaudación contenidas en la legislación tributaria.
 
-
 ## TÍTULO VI
 
-
 **Vivienda**
-
 
 #### Artículo 33. Modificación de la Ley 2/2003, de 30 de enero, de Vivienda de Canarias.
 
 Se modifica la Ley 2/2003, de 30 de enero, de Vivienda de Canarias, en los términos siguientes:
 
 Uno. El título del artículo 47 y los apartados 1 y 2 quedan redactados en la forma siguiente:
-
 
 #### «Artículo 47. Adjudicación.
 
@@ -1032,7 +966,6 @@ e. Familias en situación de riesgo.
 2. El procedimiento para adjudicar las viviendas protegidas se regulará reglamentariamente y será, preferentemente, el sorteo entre demandantes inscritos en los que concurran condiciones de necesidad análogas, sin perjuicio de otras modalidades de adjudicación que, para atender situaciones de emergencia social o de extrema gravedad o cualquier otra circunstancia o condición análoga que así lo requiera, puedan regularse por el Gobierno de Canarias en el ejercicio de la potestad reglamentaria.»
 
 Dos. Se añade la disposición adicional decimoquinta, con el contenido siguiente:
-
 
 #### «Decimoquinta.
 
@@ -1086,17 +1019,13 @@ Dicha resolución, en el caso de ser favorable constituirá el título legal par
 
 Tres. Se modifica la disposición adicional cuarta de la Ley 2/2003, de 30 de enero, de Vivienda de Canarias, que pasa a tener la siguiente redacción:
 
-
 #### «Cuarta.
 
 Las entidades y corporaciones locales que dispongan en su patrimonio de viviendas que hayan sido calificadas dentro de cualquier régimen de protección pública o bien procedan de expropiaciones urbanísticas y hubieran sido adjudicadas en régimen de alquiler, podrán proceder a la enajenación directa a sus adjudicatarios siempre que se cumplan las condiciones objetivas que fije la entidad o corporación local interesada.»
 
-
 ## TÍTULO VII
 
-
 **Parejas de hecho**
-
 
 #### Artículo 34. Modificación de la Ley 5/2003, de 6 de marzo, para la regulación de las parejas de hecho en la Comunidad Autónoma de Canarias.
 
@@ -1112,7 +1041,6 @@ Dos. El apartado 2, del artículo 2 queda redactado como sigue:
 
 Tres. El artículo 3 queda redactado en la forma siguiente:
 
-
 #### «Artículo 3. Naturaleza.
 
 Se crea el Registro de Parejas de Hecho, que tendrá carácter administrativo, rigiéndose por la presente ley y cuantas disposiciones puedan dictarse en desarrollo.
@@ -1120,7 +1048,6 @@ Se crea el Registro de Parejas de Hecho, que tendrá carácter administrativo, r
 Dicho registro dependerá de la consejería competente en materia de parejas de hecho.»
 
 Cuatro. El artículo 5 queda redactado en la forma siguiente:
-
 
 #### «Artículo 5. Publicidad y cesión de datos.
 
@@ -1132,24 +1059,19 @@ Cuatro. El artículo 5 queda redactado en la forma siguiente:
 
 Cinco. Se añade una disposición adicional única con la siguiente redacción:
 
-
 #### «Disposición adicional única. Registros de las entidades locales.
 
 Las entidades locales podrán crear registros de parejas de hecho con carácter censal y a los efectos exclusivos del ejercicio de las competencias de dichas entidades.»
 
 Seis. La disposición transitoria única pasa a ser la disposición transitoria primera y se añade una disposición transitoria segunda con el siguiente contenido:
 
-
 #### «Disposición transitoria segunda.
 
 Las parejas de hecho inscritas en los registros de las entidades locales, donde éstos estén creados, serán reconocidas a todos los efectos de la presente ley como parejas de hecho, siempre que cumplan los requisitos exigidos por la misma. A estos efectos se trasvasará el censo y expedientes obrantes en dichos registros para su incorporación al Registro de Parejas de Hecho de Canarias.»
 
-
 ## TÍTULO VIII
 
-
 **Otras medidas**
-
 
 #### Artículo 35. Modificación del Decreto Legislativo 1/2000, de 8 de mayo, por el que se aprueba el texto refundido de las Leyes de Ordenación del Territorio de Canarias y Espacios Naturales de Canarias.
 
@@ -1161,7 +1083,6 @@ La letra e) del artículo 190 del texto refundido de las Leyes de Ordenación d
 
 2) Ante el Consejo de Gobierno, cuando su importe sea igual o superior a 300.000 euros.»
 
-
 #### Artículo 36. Visado colegial obligatorio.
 
 El visado del correspondiente colegio sobre los trabajos profesionales establecido en la legislación de la Comunidad Autónoma de Canarias sólo será exigible en los supuestos en que esté establecido con carácter obligatorio por la normativa básica estatal.
@@ -1170,16 +1091,13 @@ LIBRO II
 
 Medidas fiscales
 
-
 ## TÍTULO I
-
 
 **Tributos propios**
 
 CAPÍTULO I
 
 Impuesto sobre las labores del tabaco
-
 
 #### Artículo 37. Modificación de la Ley 1/2011, de 21 de enero, del Impuesto sobre las Labores del Tabaco y otras Medidas Tributarias.
 
@@ -1209,13 +1127,11 @@ CAPÍTULO II
 
 Impuesto especial de la Comunidad Autónoma de Canarias sobre combustibles derivados del petróleo
 
-
 #### Artículo 38. Modificación de la Ley 5/1986, de 28 de julio, del Impuesto Especial de la Comunidad Autónoma de Canarias sobre combustibles derivados del petróleo.
 
 Se modifica la Ley 5/1986, de 28 de julio, del Impuesto Especial de la Comunidad Autónoma de Canarias sobre combustibles derivados del petróleo, en los siguientes términos:
 
 Uno. El artículo 2 queda redactado en los siguientes términos:
-
 
 #### «Artículo 2. Ámbito territorial.
 
@@ -1226,7 +1142,6 @@ A los efectos de este Impuesto, el ámbito espacial a que se refiere el párrafo
 2. Lo dispuesto en el apartado anterior se entenderá sin perjuicio de lo establecido en los Tratados y Convenios Internacionales.»
 
 Dos. El artículo 9 queda redactado en los siguientes términos:
-
 
 #### «Artículo 9. Tipos impositivos.
 
@@ -1261,7 +1176,6 @@ Tres. Queda derogado el apartado g) del artículo 10. Exenciones.
 CAPÍTULO III
 
 Impuestos medioambientales de la Comunidad Autónoma de Canarias
-
 
 #### Artículo 39. Impuesto de la Comunidad Autónoma de Canarias sobre el Impacto Medioambiental Causado por los Grandes Establecimientos Comerciales.
 
@@ -1427,7 +1341,6 @@ Doce. Afectación de la recaudación.
 
 La recaudación del Impuesto se afectará, preferentemente, a la financiación de gastos cuya finalidad sea la protección del medio urbano y natural así como a la reparación de los impactos producidos sobre el mismo.
 
-
 #### Artículo 40. Impuesto de la Comunidad Autónoma de Canarias sobre el Impacto Medioambiental Causado por Determinadas Actividades.
 
 Uno. Creación del Impuesto.
@@ -1565,7 +1478,6 @@ La recaudación del Impuesto se afectará, preferentemente, a la financiación d
 CAPÍTULO IV
 
 Impuesto de la comunidad autónoma de canarias sobre los depósitos de clientes en las entidades de crédito de Canarias
-
 
 #### Artículo 41. Impuesto de la Comunidad Autónoma de Canarias sobre los Depósitos de Clientes en las Entidades de Crédito de Canarias.
 
@@ -1709,7 +1621,6 @@ CAPÍTULO V
 
 Disposiciones comunes a los impuestos creados mediante la presente ley
 
-
 #### Artículo 42. Disposiciones comunes a los impuestos creados mediante la presente ley.
 
 Uno. Obligaciones formales y deber de colaboración.
@@ -1744,7 +1655,6 @@ CAPÍTULO VI
 
 Tasas, precios públicos y privados
 
-
 #### Artículo 43. Dirección y coordinación en la aplicación de las tasas, precios públicos y privados.
 
 1. Es competencia de la Dirección General de Tributos la contestación de consultas, sean o no vinculantes, respecto de las tasas y precios públicos y privados.
@@ -1753,13 +1663,11 @@ Tasas, precios públicos y privados
 
 No obstante lo anterior, en el caso de las tasas, precios públicos y privados que correspondan a la Administración Tributaria Canaria, al Servicio Canario de la Salud y a la Dirección General de Relaciones con la Administración de Justicia, la dirección y coordinación de su aplicación corresponderá a la Dirección General de Tributos.
 
-
 #### Artículo 44. Modificación del texto refundido de las disposiciones legales vigentes en materia de tasas y precios públicos de la Comunidad Autónoma de Canarias aprobado por Decreto Legislativo 1/1994, de 29 de julio.
 
 Se modifica el texto refundido de las disposiciones legales vigentes en materia de tasas y precios públicos de la Comunidad Autónoma de Canarias aprobado por Decreto Legislativo 1/1994, de 29 de julio, en los siguientes términos:
 
 Uno. El artículo 3 queda redactado como sigue:
-
 
 #### «Artículo 3. Responsabilidades.
 
@@ -1783,7 +1691,6 @@ Cuando las personas aludidas en el párrafo anterior adopten en la misma forma r
 
 Dos. El artículo 13 queda redactado como sigue:
 
-
 #### «Artículo 13. Sujetos pasivos.
 
 1. Serán sujetos pasivos de las tasas, en concepto de contribuyentes, las personas físicas o jurídicas beneficiarias de la utilización privativa o aprovechamiento especial del dominio público o a quienes afecten o beneficien, personalmente o en sus bienes, las entregas, servicios o actividades públicos que constituyen su hecho imponible.
@@ -1796,7 +1703,6 @@ En particular, tendrán esta consideración, en las tasas establecidas por razó
 
 Tres. El artículo 14 queda redactado como sigue:
 
-
 #### «Artículo 14. Responsables.
 
 1. Sin perjuicio de los supuestos de responsabilidad previstos en la Ley General Tributaria y de los que puedan prever las leyes reguladoras de cada tasa, responderán solidariamente de las tasas las entidades o sociedades aseguradoras de riesgos que motiven actuaciones o servicios administrativos que constituyan el hecho imponible de una tasa.
@@ -1804,7 +1710,6 @@ Tres. El artículo 14 queda redactado como sigue:
 2. La concurrencia de dos o más beneficiarios en la realización del hecho imponible obligará a éstos solidariamente, a menos que expresamente se disponga lo contrario en la norma reguladora de cada tasa.»
 
 Cuatro. El artículo 15 queda redactado como sigue:
-
 
 #### «Artículo 15. Exenciones y bonificaciones.
 
@@ -1824,13 +1729,11 @@ Cinco. Se añade un apartado 4 al artículo 16 con el contenido siguiente:
 
 Seis. Se crea un artículo 24 bis, con el contenido siguiente:
 
-
 #### «Artículo 24 bis. Régimen sancionador.
 
 La calificación de las infracciones y la imposición de sanciones en materia de tasas se regirán por las disposiciones tributarias generales.»
 
 Siete. El artículo 25 queda redactado en los siguientes términos:
-
 
 #### «Artículo 25. Hecho imponible.
 
@@ -1851,7 +1754,6 @@ f) Bastanteo de poderes y de documentos acreditativos de legitimación.
 2. La prestación por los departamentos de la Comunidad Autónoma de Canarias y sus entidades autónomas de los servicios administrativos a que se refiere el número anterior dará lugar a la exigencia de las tasas reguladas en el presente capítulo salvo que exista una tasa específica para servicios de tal naturaleza.»
 
 Ocho. El artículo 28 queda redactado en los siguientes términos:
-
 
 #### «Artículo 28. Tarifas.
 
@@ -1887,7 +1789,6 @@ h) La inscripción en los censos regulados en la normativa tributaria.»
 
 Once. El artículo 33 bis, queda redactado como sigue:
 
-
 #### «Artículo 33 bis. Tasa por la expedición del Carné Joven EYCA (European Young Card Association).
 
 1. Hecho imponible.
@@ -1907,7 +1808,6 @@ La tasa se devenga en el momento en que se presente la solicitud de expedición 
 La cuantía de la tasa es de 6,00 euros por carné.»
 
 Doce. Se crea un nuevo artículo 33 ter, con el contenido siguiente:
-
 
 #### «Artículo 33 ter. Tasa por la expedición del carné de alberguista con reconocimiento internacional.
 
@@ -1936,7 +1836,6 @@ c) Carné Internacional de Alberguista. Familia: 24,00 €.
 d) Carné Internacional de Alberguista. Grupo: 15,00 €.»
 
 Trece. Se crea un nuevo artículo 33 quater, con el contenido siguiente:
-
 
 #### «Artículo 33 quater. Tasa por la expedición de las tarjetas de ventajas internacionales de la asociación “International Student Travel Confederation”.
 
@@ -1968,7 +1867,6 @@ Catorce. Se crea en el título III el capítulo II, con el contenido siguiente
 
 Tasas por los servicios administrativos prestados en los Registros de Asociaciones, de Fundaciones de Canarias y de Colegios profesionales y Consejos de colegios de Canarias
 
-
 #### Artículo 38. Hecho imponible.
 
 Constituirá el hecho imponible la prestación por el órgano competente de la Administración Pública de la Comunidad Autónoma de Canarias de los siguientes servicios administrativos:
@@ -1997,16 +1895,13 @@ a) La certificación de los actos, hechos y documentos inscritos en los Regist
 
 b) La obtención de copias de los documentos que figuren en los citados Registros.
 
-
 #### Artículo 39. Sujetos pasivos.
 
 Son sujetos pasivos de esta tasa, a título de contribuyentes, las personas físicas o jurídicas que soliciten la prestación de alguno de los servicios a que se refiere el artículo 38.
 
-
 #### Artículo 40. Devengo.
 
 El devengo de la tasa se produce en el momento de la prestación de los servicios administrativos. Sin embargo, se exigirá en el momento de la solicitud de los mismos.
-
 
 #### Artículo 41. Cuota tributaria.
 
@@ -2056,21 +1951,17 @@ Quince. Se crea en el título III el capítulo III, con el contenido siguiente
 
 Tasas por las inscripciones en el Registro de parejas de hecho de Canarias
 
-
 #### Artículo 42. Hecho imponible.
 
 Constituye el hecho imponible de esta tasa la inscripción en el Registro de Parejas de Hecho de Canarias de la constitución, modificación o extinción de la pareja de hecho, así como de la inscripción de los Pactos de Convivencia de acuerdo con la Ley 5/2003, de 6 de marzo, para la regulación de las parejas de hecho en la Comunidad Autónoma de Canarias, así como la certificación de los actos inscritos.
-
 
 #### Artículo 43. Sujetos pasivos.
 
 Son sujetos pasivos de esta tasa en calidad de contribuyentes las personas físicas que soliciten los servicios administrativos que constituyen el hecho imponible de la misma.
 
-
 #### Artículo 44. Devengo.
 
 El devengo de la tasa se produce en el momento de la prestación de los servicios administrativos. Sin embargo, se exigirá en el momento de la solicitud de los mismos.
-
 
 #### Artículo 45. Cuota tributaria.
 
@@ -2089,7 +1980,6 @@ Dieciséis. Se modifica la letra d) del apartado 1 del artículo 48 que qued
 «d) Las resoluciones, anuncios, requerimientos y escritos de todas clases, expedidos por órganos o autoridades competentes del Gobierno de Canarias y de la Administración Pública de la Comunidad Autónoma de Canarias, de los entes y entidades integrantes del sector público autonómico a que se refiere el artículo 2 de la Ley 11/2006, de 11 de diciembre, de la Hacienda Pública Canaria, del Parlamento de Canarias y órganos dependientes del mismo y del Consejo Consultivo de Canarias, en cumplimiento de precepto legal o reglamentario que así lo prescriba.»
 
 Diecisiete. El artículo 49 queda redactado en los siguientes términos:
-
 
 #### «Artículo 49. Cuantía de la tasa.
 
@@ -2118,7 +2008,6 @@ b) Por el aprovechamiento especial de bienes de dominio público: la utilidad 
 c) Aprovechamiento de materiales: si se consumen los materiales, se utiliza como base el valor de los que hayan sido consumidos, y, si no se consumen, se aplica como base la utilidad que reporta el aprovechamiento.»
 
 Diecinueve. El artículo 54 quinquies queda redactado en los siguientes términos:
-
 
 #### «Artículo 54 quinquies. Regulación.
 
@@ -2170,7 +2059,6 @@ Veinte. Se crea el capítulo XII en el título III que queda redactado en los 
 
 Tasa por la entrega del cartón de juego del bingo
 
-
 #### Artículo 54 octies. Regulación.
 
 1. Hecho imponible.
@@ -2213,7 +2101,6 @@ Veinticuatro. Se crea el capítulo VI del título V con la siguiente redacció
 
 Tasa por la expedición de duplicado
 
-
 #### Artículo 90 quáter. Regulación de la tasa.
 
 1. Hecho imponible.
@@ -2238,7 +2125,6 @@ Veinticinco. Se añaden los capítulos VII y VIII al título V con la siguient
 
 Tasa por la realización de pruebas para la obtención directa del título de Bachiller
 
-
 #### Artículo 90 quinquies. Regulación de la tasa.
 
 1. Hecho imponible.
@@ -2261,7 +2147,6 @@ CAPÍTULO VIII
 
 Tasa por prueba de clasificación de enseñanzas de idiomas de régimen especial
 
-
 #### Artículo 90 sexies. Regulación de la tasa.
 
 1. Hecho imponible.
@@ -2282,20 +2167,17 @@ La cuantía de la tasa será de 16,52 euros.»
 
 Veintiséis. El artículo 95 queda redactado en los siguientes términos:
 
-
 #### «Artículo 95. Hecho imponible.
 
 Será el hecho imponible de la tasa la prestación del trabajo facultativo de dirección e inspección de las obras realizadas mediante contrato, incluidas las adquisiciones o suministros específicos en los proyectos y las correspondientes revisiones de precios a cargo de la Administración para la gestión y ejecución de dichas actividades, ya sea mediante subasta, concurso, contratación directa o cualquier otra forma de adjudicación, con independencia del departamento de la Administración Pública de la Comunidad Autónoma de Canarias, y de las entidades y organismos dependientes, gestor del gasto, y con independencia que la prestación del trabajo facultativo de dirección e inspección de las obras se realice con medios propios o ajenos. Se exceptúan las obras que atañan a las viviendas de promoción pública.»
 
 Veintisiete. El artículo 96 queda redactado como sigue:
 
-
 #### «Artículo 96. Sujeto pasivo.
 
 Serán sujetos pasivos las personas físicas, jurídica y entidades sin personalidad jurídica a que se refiere el artículo 35.4 de la Ley 58/2003, de 17 de diciembre, General Tributaria, adjudicatarias de la contrata.»
 
 Veintiocho. El artículo 115 bis queda redactado en los siguientes términos:
-
 
 #### «Artículo 115 bis. Tasa por los servicios prestados en los puertos de titularidad de la Comunidad Autónoma de Canarias.
 
@@ -2354,7 +2236,6 @@ c´) Navegación de cabotaje: la realizada por barcos de bandera de país miem
 d´) Navegación exterior: cualquier navegación no incluida en los apartados a´), b´) o c´) anteriores.
 
 c) Respecto del arqueo bruto del buque, en el caso de que no se disponga del arqueo bruto expresado en GT según el Convenio Internacional de Arqueo de Buques (Convenio Internacional de Londres de 1969), se aplicará el siguiente valor estimado de arqueo bruto:
-
 
 **Valor estimado de arqueo bruto = 0,4 × E × M × P**
 
@@ -2898,7 +2779,6 @@ Veintinueve. Se crea el capítulo V del título VIII que queda redactado del m
 
 Tasa por solicitud de etiqueta ecológica de la Unión Europea
 
-
 #### Artículo 131 bis. Regulación de la tasa.
 
 1. Hecho imponible.
@@ -2929,21 +2809,17 @@ CAPÍTULO ÚNICO
 
 Tasa por homologación de acciones formativas
 
-
 #### Artículo 167. Hecho imponible.
 
 Constituye el hecho imponible de la tasa a que se refiere este capítulo la homologación por parte de la Academia Canaria de Seguridad de acciones formativas en materia de seguridad y emergencia.
-
 
 #### Artículo 168. Sujeto pasivo.
 
 Será sujeto pasivo de la tasa la persona física, jurídica o la entidad a que se refiere el artículo 35.4 de la Ley 58/2003, de 17 de diciembre, General Tributaria, que solicite la homologación de acciones formativas en materia de seguridad y emergencia.
 
-
 #### Artículo 169. Devengo.
 
 El devengo de la tasa se producirá con la solicitud de homologación. No obstante, el pago de la tasa se realizará con carácter previo a la presentación de la solicitud.
-
 
 #### Artículo 170. Cuantía.
 
@@ -2951,12 +2827,9 @@ El importe de la tasa es de 44,64 euros.»
 
 Treinta y uno. Se crea el título XIII que tendrá la siguiente redacción:
 
-
 **«TÍTULO XIII**
 
-
 **Tasas por la prestación de determinados servicios de búsqueda, rescate y salvamento realizados por el Grupo de Emergencias y Salvamento de la Comunidad Autónoma de Canarias**
-
 
 #### Artículo 171. Hecho imponible.
 
@@ -2978,11 +2851,9 @@ e) Cuando la movilización de medios personales y materiales se produzca a sol
 
 2. No están sujetas a esta tasa las prestaciones de servicios de búsqueda, rescate o salvamento de personas cuando tales servicios tengan su causa directa en una situación de emergencia declarada por el órgano competente mediante la activación de un Plan territorial o especial de Protección Civil, así como en razones de interés general y no en beneficio de particulares o de bienes determinados.
 
-
 #### Artículo 172. Exención.
 
 Está exenta la prestación de servicios sujeta a esta tasa, cuando la persona física objeto de la actuación hubiese fallecido con anterioridad al inicio del operativo.
-
 
 #### Artículo 173. Obligados tributarios.
 
@@ -2998,7 +2869,6 @@ Si el contribuyente fallece como consecuencia de las lesiones producidas en el d
 
 4. En el caso de simulación de existencia de riesgo o peligro, es sujeto pasivo en concepto de contribuyente la persona física responsable de la simulación de la situación de riesgo o peligro o autora de la llamada falsa.
 
-
 #### Artículo 174. Devengo.
 
 Con carácter general, la tasa se devengará en el momento en que se produzca la salida de los medios personales y materiales de sus bases, salvo que el servicio efectivo no llegara a realizarse por causas no imputables al interesado.
@@ -3006,7 +2876,6 @@ Con carácter general, la tasa se devengará en el momento en que se produzca la
 No obstante lo anterior, en el caso de que la salida de medios personales y materiales se produzca a iniciativa de la Administración, sin mediar requerimiento expreso por parte del interesado, la tasa se devengará y nacerá la obligación de contribuir desde el momento en que comience la efectiva realización de los trabajos, siempre que éstos sean distintos de la simple salida o movimiento de medios o personas.
 
 En cualquier caso, el pago de la tasa se exigirá únicamente una vez haya finalizado el servicio.
-
 
 #### Artículo 175. Cuota.
 
@@ -3036,27 +2905,21 @@ Si existieran varios beneficiados del servicio, la imputación de la cuantía de
 
 Treinta y dos. Se crea el título XIV que tendrá la siguiente redacción:
 
-
 **«TÍTULO XIV**
 
-
 **Tasas de la Agencia Canaria de Calidad Universitaria y Evaluación Educativa**
-
 
 #### Artículo 176. Hecho imponible.
 
 Constituye el hecho imponible de la tasa la solicitud de evaluación para la acreditación por la Agencia Canaria de Calidad Universitaria y Evaluación Educativa.
 
-
 #### Artículo 177. Sujeto pasivo.
 
 Será sujeto pasivo de la tasa la persona física que solicita la acreditación.
 
-
 #### Artículo 178. Devengo.
 
 El devengo de la tasa se produce en el momento de la solicitud. No obstante, el pago de la tasa debe efectuarse con anterioridad a la solicitud.
-
 
 #### Artículo 179. Cuantía.
 
@@ -3064,12 +2927,9 @@ La cuantía de la tasa es de 30 euros.»
 
 Treinta y tres. Se crea el título XV con la siguiente redacción:
 
-
 **«TÍTULO XV**
 
-
 **Tasas por actuaciones de la Administración Tributaria canaria**
-
 
 #### Artículo 180. Hecho imponible.
 
@@ -3107,16 +2967,13 @@ o) La emisión de la certificación prevista en el artículo 175.2 de la Ley�
 
 p) La autorización para la destrucción de las labores del tabaco bajo control de la Administración Tributaria Canaria en los términos del artículo 25 de la Orden de 9 de mayo de 2011, de desarrollo de la Ley 1/2011, de 21 de enero, del Impuesto sobre las Labores del Tabaco y Otras Medidas Tributarias.
 
-
 #### Artículo 181. Sujeto pasivo.
 
 Será sujeto pasivo de la tasa la persona física, jurídica, o entidad sin personalidad jurídica del artículo 35.4 de la Ley 58/2003, de 17 de diciembre, General Tributaria, que soliciten las actuaciones o las autorizaciones que constituyen el hecho imponible de la tasa.
 
-
 #### Artículo 182. Devengo.
 
 El devengo de la tasa se producirá con la presentación de la solicitud de la actuación requerida. No obstante, el pago de la tasa se realizará con carácter previo a la presentación de la solicitud.
-
 
 #### Artículo 183. Tarifas.
 
@@ -3154,39 +3011,31 @@ o) La emisión de consultas vinculantes: 145,00 €.
 
 p) La emisión de la certificación prevista en el artículo 175.2 de la Ley 58/2003, de 17 de diciembre, General Tributaria: 90,00 €.
 
-
 #### Artículo 184. Justificación del pago.
 
 Las actuaciones y procedimientos por los que se exigen la tasa regulada en el presente artículo, no se entenderán iniciados hasta tanto se justifique el pago completo de la cuantía de la tasa.»
 
 Treinta y cuatro. Se crea el título XVI con la siguiente redacción:
 
-
 **«TÍTULO XVI**
 
-
 **Tasas por la expedición de los certificados de profesionalidad y acreditación de unidades de competencia**
-
 
 #### Artículo 185. Hecho imponible.
 
 Constituye el hecho imponible de la tasa a que se refiere este título la expedición del certificado de profesionalidad o la acreditación de unidades de competencia, así como la expedición de duplicado de los mismos.
 
-
 #### Artículo 186. Sujeto pasivo.
 
 Será sujeto pasivo de la tasa la persona física que solicite la actuación que constituye el hecho imponible de la tasa.
-
 
 #### Artículo 187. Exenciones.
 
 Quedarán exentos de la presente tasa quienes en el momento de la solicitud se encuentren inscritos como demandantes legales de empleo, con una antigüedad mínima de tres meses referida a la fecha de solicitud.
 
-
 #### Artículo 188. Devengo.
 
 El devengo de la tasa se producirá con la solicitud de la actuación requerida. No obstante, el pago de la tasa se realizará con carácter previo a la presentación de la solicitud.
-
 
 #### Artículo 189. Tarifas.
 
@@ -3198,16 +3047,13 @@ Tarifa
 
 Treinta y cinco. Se crea el título XVII con la siguiente redacción:
 
-
 **«TÍTULO XVII**
-
 
 **Tasas en materia de Administración de Justicia**
 
 CAPÍTULO I
 
 Tasa por la utilización o el aprovechamiento de los bienes y derechos afectos al servicio de la Administración de Justicia
-
 
 #### Artículo 190. Hecho imponible.
 
@@ -3223,7 +3069,6 @@ Tarifa 4. Tasa por la explotación económica de máquinas fotocopiadoras ins
 
 2. No están sujetas a la tasa la utilización privativa o el aprovechamiento especial de bienes o derechos afectos al servicio público cuando no lleven aparejada una utilidad económica para la persona titular de la autorización, concesión o cualquier otro título; o, aun existiendo esta utilidad, cuando la utilización o aprovechamiento comporte condiciones o contraprestaciones a cargo del beneficiario que anulen o hagan irrelevante aquella utilidad, o bien se haya hecho constar esta circunstancia en los pliegos de condiciones o en las cláusulas de la autorización, de la concesión o de la adjudicación.
 
-
 #### Artículo 191. Sujeto pasivo.
 
 Es sujeto pasivo de la tasa, en concepto de contribuyente:
@@ -3231,7 +3076,6 @@ Es sujeto pasivo de la tasa, en concepto de contribuyente:
 a) En el caso de las Tarifa 1 y Tarifa 2, la persona física titular de la utilización que constituye el hecho imponible.
 
 b) En el caso de las Tarifas 3 y Tarifa 4, la persona física o jurídica o entidad sin personalidad a que se refiere el artículo 35.4 de la Ley 58/2003, de 17 de diciembre titular del aprovechamiento, ocupación temporal o utilización que constituye el hecho imponible.
-
 
 #### Artículo 192. Exenciones.
 
@@ -3242,7 +3086,6 @@ a) Las entidades totalmente exentas del impuesto sobre sociedades.
 b) Los colegios profesionales de abogados, de procuradores y de graduados sociales, en los espacios administrativos autorizados por la Consejería competente en materia de Justicia, para el uso de sus funciones profesionales.
 
 c) Los Jueces y Magistrados, Fiscales, Secretarios Judiciales y personal de los Cuerpos de funcionarios al servicio de la Administración de Justicia, que se encuentren realizando el servicio de guardia, respecto de la tasa por utilización de plazas de aparcamiento en sedes judiciales.
-
 
 #### Artículo 193. Devengo.
 
@@ -3256,7 +3099,6 @@ c) Tarifa 3: Se devenga la tasa en el momento en que se conceda la utilizaci�
 
 d) Tarifa 4: Se devenga la tasa el último día del período por el que se haya concedido la explotación; en caso de que el período de explotación exceda del año natural, la tasa se devengará el último día de cada año natural y, en su caso, el último día del período de explotación concedido.
 
-
 #### Artículo 194. Cuota.
 
 El importe de la cuota se determina del siguiente modo:
@@ -3269,7 +3111,6 @@ c) En la Tarifa 3, en la cantidad fija anual de 60,00 euros anuales más la 
 
 d) En la Tarifa 4, en la cantidad fija anual de 60,00 euros anuales más la cantidad resultante expresada en euros de multiplicar por 0,05 el número de fotocopias hechas durante el año natural.
 
-
 #### Artículo 195. Autoliquidación y pago.
 
 1. El sujeto pasivo debe autoliquidar la tasa de acuerdo con el modelo oficial que se establezca, y debe ingresarla en el Tesoro de la Comunidad Autónoma de Canarias o a través de las entidades colaboradoras habilitadas a tal efecto.
@@ -3278,29 +3119,23 @@ d) En la Tarifa 4, en la cantidad fija anual de 60,00 euros anuales más la 
 
 Treinta y seis. Se crea el título XVIII con la siguiente redacción:
 
-
 **«TÍTULO XVIII**
 
-
 **Tasa por la inscripción en el Registro de Mediadores dependiente de la Consejería de Presidencia, Justicia e Igualdad**
-
 
 #### Artículo 196. Hecho imponible.
 
 Constituyen el hecho imponible de la tasa la inscripción y posterior gestión de las anotaciones correspondientes a los mediadores en el Registro de Mediadores dependiente de la Consejería de Presidencia, Justicia e Igualdad.
 
-
 #### Artículo 197. Sujeto pasivo.
 
 Es sujeto pasivo de la tasa, en concepto de contribuyente, la persona natural o jurídica que se inscribe en el Registro de Mediadores dependiente de la Consejería de Presidencia, Justicia e Igualdad.
-
 
 #### Artículo 198. Devengo.
 
 1. La tasa se devenga en el momento de la inscripción.
 
 2. En las sucesivas anualidades de vigencia de la inscripción, la tasa se devenga el 1 de enero de cada año.
-
 
 #### Artículo 199. Cuota.
 
@@ -3310,11 +3145,9 @@ a) En la anualidad en la que se produce la inscripción, una cantidad anual de
 
 b) En las anualidades sucesivas, una cantidad anual de 25,00 euros.
 
-
 #### Artículo 200. Exenciones.
 
 Las personas físicas y jurídicas profesionales de la mediación que a la fecha de entrada en vigor de la presente disposición se encuentren inscritos en el Registro de Mediadores dependiente de la Consejería de Presidencia, Justicia e Igualdad devengarán solo devengarán la tasa prevista en el apartado b) del artículo anterior.
-
 
 #### Artículo 201. Autoliquidación y pago.
 
@@ -3324,12 +3157,9 @@ La cuota por las anualidades deberá ingresarse durante el mes de enero de cada 
 
 Treinta y siete. Se crea el título XIX, con la siguiente redacción:
 
-
 **«TÍTULO XIX**
 
-
 **Tasas por la realización de actividades competencia del Tribunal Administrativo de Contratos Públicos de la Comunidad Autónoma de Canarias**
-
 
 #### Artículo 202. Hecho imponible.
 
@@ -3338,7 +3168,6 @@ Constituye el hecho imponible de la tasa a que se refiere el presente título la
 a) la interposición de los recursos especiales en materia de contratación previstos en la legislación de contratos del sector público;
 
 b) la interposición de las reclamaciones y de las cuestiones de nulidad previstas en la legislación sobre procedimientos de contratación en los sectores del agua, la energía, los transportes y los servicios postales.
-
 
 #### Artículo 203. Sujeto pasivo.
 
@@ -3354,16 +3183,13 @@ d) Las entidades contratantes del ámbito de la Comunidad Autónoma de Canaria
 
 e) Las entidades que celebren contratos subvencionados sujetos a regulación armonizada.
 
-
 #### Artículo 204. Devengo.
 
 El devengo de la tasa se producirá en el momento procesal de interposición de los actos a que se refiere el artículo 202.
 
-
 #### Artículo 205. Cuota tributaria.
 
 La cuota tributaria de la presente tasa queda fijada en 600,00 euros por cada recurso especial, reclamación o cuestión de nulidad que se someta al conocimiento y resolución del Tribunal Administrativo de Contratos Públicos de la Comunidad Autónoma de Canarias.
-
 
 #### Artículo 206. Devolución.
 
@@ -3371,27 +3197,21 @@ Procederá la devolución de la tasa cuando, habiéndose ingresado la misma prev
 
 Treinta y ocho. Se crea el título XX con la siguiente redacción:
 
-
 **«TÍTULO XX**
 
-
 **Tasa por las inscripciones y modificaciones en el Registro de Entidades Deportivas de Canarias**
-
 
 #### Artículo 207. Hecho imponible.
 
 Constituirá el hecho imponible la inscripción en el Registro de Entidades Deportivas de Canarias, así como de las modificaciones posteriores Asociaciones de la Comunidad Autónoma de Canarias de las asociaciones y sus federaciones, así como de las modificaciones posteriores de las Entidades sujetas a la Ley 8/1997, de 9 de julio, Canaria del Deporte.
 
-
 #### Artículo 208. Sujeto pasivo.
 
 Serán sujetos pasivos de la tasa las personas físicas o jurídicas que soliciten las inscripciones señaladas en el artículo anterior.
 
-
 #### Artículo 209. Devengo.
 
 El devengo se originará con la inscripción de los actos que definan el hecho imponible.
-
 
 #### Artículo 210. Tarifas.
 
@@ -3407,32 +3227,25 @@ d) Por compulsa: 2,26 euros por cada compulsa.»
 
 Treinta y nueve. Se crea el título XXI con la siguiente redacción:
 
-
 **«TÍTULO XXI**
 
-
 **Tasa por la utilización de los salones de actos de los edificios de usos administrativos**
-
 
 #### Artículo 211. Hecho imponible.
 
 Constituirá el hecho imponible de la tasa la utilización de los salones de actos de los edificios de usos administrativos de la Administración Pública de la Comunidad Autónoma de Canarias.
 
-
 #### Artículo 212. Sujeto pasivo.
 
 Son sujetos pasivos de la tasa, a título de contribuyentes, las personas físicas y jurídicas y las entidades a que se refiere el artículo 35.4 de la Ley General Tributaria, que no formando parte del sector público de la Comunidad Autónoma de Canarias, soliciten la utilización de los salones.
-
 
 #### Artículo 213. Exenciones.
 
 Quedan exentas de esta tasa las Fundaciones sin ánimo de lucro cuando la utilización de los salones derive de la realización de actividades financiadas por la Administración Pública de la Comunidad Autónoma de Canarias.
 
-
 #### Artículo 214. Devengo.
 
 La tasa se devenga en el momento en que se otorgue la correspondiente autorización.
-
 
 #### Artículo 215. Cuota tributaria.
 
@@ -3462,17 +3275,13 @@ Actual artículo 173, pasa a ser: artículo 222. Revisión en vía administrat
 
 Cuarenta y uno. Se crea el título XXIII con la siguiente redacción:
 
-
 **«TÍTULO XXIII**
 
-
 **Revisión y actualización de los recursos económicos**
-
 
 #### Artículo 223. Tasas.
 
 El importe de las tasas de cuantía o cuota fija deberá actualizarse cada cinco años, previo estudio analítico de coste de la materia gravada, sin perjuicio de que pueda ser actualizado anualmente, en función de la evolución de los costes presupuestarios o de las variaciones experimentadas en el índice de precios al consumo. La actualización deberá efectuarse en todo caso por Ley específica o en la de Presupuestos.
-
 
 #### Artículo 224. Precios públicos y privados.
 
@@ -3480,14 +3289,11 @@ La cuantía de los precios públicos y privados deberá actualizarse anualmente 
 
 Cuarenta y dos. La disposición adicional séptima queda redactada del modo siguiente:
 
-
 #### «Séptima.
 
 Las contraprestaciones a percibir por los servicios académicos de carácter universitario y por los servicios académicos correspondientes a las enseñanzas artísticas superiores tienen la consideración de precios públicos.»
 
-
 ## TÍTULO II
-
 
 **Tributos cedidos**
 
@@ -3495,13 +3301,11 @@ CAPÍTULO I
 
 Impuesto sobre la renta de las personas físicas
 
-
 #### Artículo 45. Modificación del texto refundido de las disposiciones legales vigentes dictadas por la Comunidad Autónoma de Canarias en materia de tributos cedidos, aprobado por Decreto Legislativo 1/2009, de 21 de abril.
 
 Se modifica el texto refundido de las disposiciones legales vigentes dictadas por la Comunidad Autónoma de Canarias en materia de tributos cedidos, aprobado por Decreto Legislativo 1/2009, de 21 de abril, en los términos siguientes:
 
 Uno. Se modifica el artículo 3, que queda redactado en los términos siguientes:
-
 
 #### «Artículo 3. Deducción por donaciones con finalidad ecológica.
 
@@ -3514,7 +3318,6 @@ b) Las entidades sin fines lucrativos y las entidades beneficiarias del mecena
 2. El importe de la deducción no podrá exceder de 150 euros.»
 
 Dos. Se modifica el artículo 4, que queda redactado en los términos siguientes:
-
 
 #### «Artículo 4. Deducción por donaciones para la rehabilitación o conservación del patrimonio histórico de Canarias.
 
@@ -3529,7 +3332,6 @@ c) Las fundaciones o asociaciones que, reuniendo los requisitos establecidos e
 2. El importe de la deducción no podrá exceder de 150 euros.»
 
 Tres. Se modifica el artículo 7, que queda redactado en los términos siguientes:
-
 
 #### «Artículo 7. Deducción por gastos de estudios.
 
@@ -3558,7 +3360,6 @@ Cuatro. Se crea un nuevo apartado 4, en el artículo 8. Deducción por trasl
 «4. Sólo tendrán derecho a la aplicación de esta deducción los contribuyentes que no hayan obtenido rentas en el periodo impositivo en que se origina el derecho a la deducción por importe superior a 39.000 euros; y, en el supuesto de tributación conjunta, cuando la unidad familiar no haya obtenido rentas por importe superior a 52.000 euros.»
 
 Cinco. Se modifica el artículo 10, que queda redactado en los términos siguientes:
-
 
 #### «Artículo 10. Deducciones por nacimiento o adopción de hijos.
 
@@ -3590,7 +3391,6 @@ e) A los efectos previstos en el presente artículo se considerará que conviv
 
 Seis. Se modifica el artículo 11, que queda redactado en los términos siguientes:
 
-
 #### «Artículo 11. Deducción por contribuyentes con discapacidad y mayores de 65 años.
 
 1. Los contribuyentes podrán deducirse las siguientes cantidades, compatibles entre sí, por circunstancias personales:
@@ -3611,7 +3411,6 @@ Ocho. Se crea un nuevo apartado 3, en el artículo 13. Deducción por famili
 
 Nueve. Se modifica el artículo 15, que queda redactado en los términos siguientes:
 
-
 #### «Artículo 15. Deducción por alquiler de vivienda habitual.
 
 1. Los contribuyentes podrán deducirse el 15 por 100 de las cantidades satisfechas en el período impositivo, con un máximo de 500 euros anuales, por el alquiler de su vivienda habitual, siempre que concurran los siguientes requisitos:
@@ -3625,7 +3424,6 @@ A estos efectos el concepto de vivienda habitual será el contenido en la corres
 2. La aplicación de la presente deducción queda condicionada a la declaración por parte del contribuyente del NIF del arrendador, de la identificación catastral de la vivienda habitual y del canon arrendaticio anual.»
 
 Diez. Se modifica el artículo 16 bis, que queda redactado en los términos siguientes:
-
 
 #### «Artículo 16 bis. Deducción por contribuyentes desempleados.
 
@@ -3641,7 +3439,6 @@ Los contribuyentes que perciban prestaciones por desempleo podrán deducir la ca
 
 Once. Se modifica el artículo 18, que queda redactado en los términos siguientes:
 
-
 #### «Artículo 18. Límites.
 
 1. La suma de las deducciones previstas en este capítulo aplicadas sobre la cuota íntegra autonómica en ningún caso podrá superar el importe de la misma.
@@ -3650,13 +3447,11 @@ Once. Se modifica el artículo 18, que queda redactado en los términos sigui
 
 Doce. Se modifica el artículo 18 bis, que queda redactado en los términos siguientes:
 
-
 #### «Artículo 18 bis. Escala autonómica.
 
 La escala autonómica aplicable a la base liquidable general, a que se refiere el artículo 74.1 de la Ley 35/2006, de 28 de noviembre, del Impuesto sobre la Renta de las Personas Físicas, en redacción dada por la Ley 39/2010, de 22 de diciembre, de Presupuestos Generales del Estado para el año 2011, será la siguiente:
 
 Trece. Se crea un artículo 18 ter, con la siguiente redacción:
-
 
 #### «Artículo 18 ter. Justificación.
 
@@ -3665,7 +3460,6 @@ Mediante orden del consejero competente en materia tributaria se podrán estable
 CAPÍTULO II
 
 Impuesto sobre sucesiones y donaciones
-
 
 #### Artículo 46. Modificación del texto refundido de las disposiciones legales vigentes dictadas por la Comunidad Autónoma de Canarias en materia de tributos cedidos, aprobado por Decreto Legislativo 1/2009, de 21 de abril.
 
@@ -3676,7 +3470,6 @@ El capítulo II del Decreto Legislativo 1/2009, de 21 de abril, por el que se 
 Impuesto sobre sucesiones y donaciones
 
 Sección I. Adquisiciones por causa de muerte
-
 
 #### Artículo 19. Base liquidable.
 
@@ -3710,7 +3503,6 @@ Sección I. Adquisiciones por causa de muerte
 
 5. No obstante lo anterior, siempre serán de aplicación las reducciones establecidas en la normativa estatal reguladora del Impuesto cuando las mismas determinen unas condiciones más favorables para el obligado tributario.
 
-
 #### Artículo 20. Reducción por parentesco.
 
 En las adquisiciones mortis causa, se aplica la reducción que corresponda, entre las siguientes, en razón del grado de parentesco entre el adquirente y el causante:
@@ -3739,7 +3531,6 @@ c) Grupo III, adquisiciones por colaterales de segundo y tercergrado y por asc
 
 d) Grupo IV, adquisiciones por colaterales de cuarto grado o de grados más distantes y extraños: no habrá lugar a reducción alguna por razón de parentesco.
 
-
 #### Artículo 20 bis. Reducción por discapacidad.
 
 1. En las adquisiciones mortis causa por parte de personas con discapacidad física, psíquica o sensorial, con un grado de discapacidad igual o superior al 33 por ciento e inferior al 65 por ciento, se aplica una reducción de 72.000 euros. Caso de que el grado de discapacidad sea igual o superior al 65 por ciento, se aplicará una reducción de 400.000 euros.
@@ -3748,13 +3539,11 @@ A los efectos de la presente reducción, los grados de discapacidad son los que 
 
 2. La reducción establecida por el presente artículo es compatible con la que en su caso corresponda por razón de parentesco.
 
-
 #### Artículo 20 ter. Reducción por edad.
 
 1. En las adquisiciones mortis causa por parte de personas de setenta y cinco años o más de edad, se aplica una reducción de 125.000 euros.
 
 2. La presente reducción es incompatible con la reducción por discapacidad, y compatible con las restantes reducciones.
-
 
 #### Artículo 21. Reducción por seguros de vida.
 
@@ -3769,7 +3558,6 @@ En caso de que tenga derecho al régimen de bonificaciones y reducciones que est
 3. Cuando se trate de seguros de vida que traigan causa en actos de terrorismo, así como en servicios prestados en misiones internacionales humanitarias o de paz de carácter público, será de aplicación la reducción establecida en el presente artículo, no estando sometida a límite cuantitativo alguno, siendo extensible a todos los posibles beneficiarios.
 
 4. La reducción establecida en el presente artículo es compatible con la que en su caso proceda por razón de parentesco, discapacidad y edad.
-
 
 #### Artículo 22. Reducción por la adquisición de una empresa individual o de un negocio profesional.
 
@@ -3800,7 +3588,6 @@ c) Que la actividad económica, dirección y control de la empresa individual 
 d) Que el valor de la empresa individual no exceda de tres millones de euros y el del negocio profesional no exceda de un millón de euros.
 
 5. La reducción establecida en el presente artículo es compatible con la que en su caso proceda por razón de parentesco, discapacidad, edad y seguros de vida.
-
 
 #### Artículo 22 bis. Reducción por la adquisición de participaciones en entidades.
 
@@ -3842,7 +3629,6 @@ b´) No se computan como valores ni como elementos no afectos a actividades ec
 
 6. La reducción establecida en el presente artículo es compatible con la que en su caso proceda por razón de parentesco, discapacidad, edad y seguros de vida.
 
-
 #### Artículo 22 ter. Reducción por la adquisición de la vivienda habitual del causante.
 
 1. En los casos en los que en la base imponible de una adquisición mortis causa que corresponda a los cónyuges de la persona fallecida o a sus descendientes o adoptados, estuviese incluido el valor de la vivienda habitual del causante, se podrá aplicar a la base imponible una reducción del 99 por ciento del valor de tal vivienda, con un límite de 200.000 euros por el valor conjunto de la vivienda, que debe prorratearse entre los sujetos pasivos en proporción a su participación.
@@ -3859,7 +3645,6 @@ La aplicación de esta reducción queda condicionada al mantenimiento de la vivi
 
 5. La reducción establecida en el presente artículo es compatible con la que en su caso proceda por razón de parentesco, discapacidad, edad y seguros de vida, así como por la adquisición de una empresa individual, de un negocio profesional o de participaciones en entidades.
 
-
 #### Artículo 23. Reducción por la adquisición de bienes integrantes del Patrimonio Histórico o Cultural.
 
 1. En los casos en los que en la base imponible de una adquisición mortis causa que corresponda a los cónyuges, descendientes o adoptados de la persona fallecida estuviese incluido el valor de bienes comprendidos en los artículos 17 o 36 de la Ley 4/1999, de 15 de marzo, de Patrimonio Histórico de Canarias, o en los apartados uno, dos o tres del artículo 4 de la Ley 19/1991, de 6 de junio, del Impuesto sobre el Patrimonio, se podrá aplicar a la base imponible una reducción del 97 por ciento del valor de tales bienes.
@@ -3868,13 +3653,11 @@ La aplicación de esta reducción queda condicionada al mantenimiento de la vivi
 
 3. La reducción establecida en el presente artículo es compatible con la que en su caso proceda por razón de parentesco, discapacidad, edad, seguros de vida o adquisición de una empresa individual, de un negocio profesional o de participaciones en entidades, así como por la adquisición de la vivienda habitual del causante.
 
-
 #### Artículo 23 bis. Reducción por la adquisición de bienes integrantes del Patrimonio Natural.
 
 1. En los casos en los que en la base imponible de una adquisición mortis causa que corresponda a los cónyuges, descendientes o adoptados de la persona fallecida estuviese incluido el valor de fincas rústicas ubicadas en algunos de los espacios a que se refiere el artículo 48 del Decreto Legislativo 1/2000, de 8 de mayo, por el que se aprueba el texto refundido de las Leyes de Ordenación del Territorio de Canarias y de Espacios Naturales de Canarias, se podrá aplicar a la base imponible una reducción del 97 por ciento del valor de tales bienes.
 
 2. La aplicación de la reducción a que se refiere el presente artículo queda condicionada al mantenimiento de los bienes adquiridos en el patrimonio del adquirente durante los cinco años siguientes al fallecimiento del causante, salvo que el adquirente falleciera en este plazo, o los bienes sean adquiridos por la Comunidad Autónoma de Canarias o por un Cabildo o Ayuntamiento de Canarias.
-
 
 #### Artículo 24. Reducción por sobreimposición decenal.
 
@@ -3895,7 +3678,6 @@ b) La reducción que resulte de la aplicación de la siguiente escala:
 3. La aplicación de las reducciones de este artículo queda condicionada al hecho de que, por razón de la primera adquisición por causa de muerte y, en su caso, ulteriores, se haya producido una tributación efectiva en concepto del Impuesto sobre Sucesiones y Donaciones, y se entiende sin perjuicio de las reducciones que procedan. A estos efectos se considera tributación efectiva la presentación de la declaración o autoliquidación del impuesto dentro del plazo legalmente establecido, con el ingreso de la cuota tributaria correspondiente y, en su caso, de la cuota tributaria resultante de un procedimiento de gestión o inspección tributaria. En cualquier caso, se admite la subrogación de bienes o derechos siempre y cuando se acredite de modo fehaciente.
 
 4. La reducción establecida en el presente artículo es compatible con la que en su caso proceda por razón de parentesco, discapacidad, edad, seguros de vida, adquisición de una empresa individual, de un negocio profesional o de participaciones en entidades, o adquisición de la vivienda habitual del causante, así como por la adquisición de bienes integrantes del Patrimonio Histórico o Cultural.
-
 
 #### Artículo 24 bis. Disposiciones comunes a las reducciones establecidas en la presente sección.
 
@@ -3919,7 +3701,6 @@ Estas equiparaciones regirán también respecto de la aplicación de los coefici
 
 Sección II. Adquisiciones lucrativas inter vivos
 
-
 #### Artículo 25. Base liquidable.
 
 1. En los términos previstos en el artículo 48 de la Ley 22/2009, de 18 de diciembre, por la que se regula el sistema de financiación de las Comunidades Autónomas de régimen común y Ciudades con Estatuto de Autonomía y se modifican determinadas normas tributarias, en las adquisiciones lucrativas inter vivos sujetas al Impuesto sobre Sucesiones y Donaciones cuyo rendimiento se entienda producido en el territorio de la Comunidad Autónoma de Canarias, la base liquidable del Impuesto estará constituida por el resultado de aplicar en la base imponible las siguientes reducciones:
@@ -3941,7 +3722,6 @@ d) Las siguientes reducciones propias de la Comunidad Autónoma de Canarias:
 2. No puede aplicarse en ningún caso sobre un mismo bien, o sobre la misma porción de un bien, más de una reducción, ni pueden añadirse a la reducción que se aplique otros beneficios fiscales establecidos precisamente en consideración a la naturaleza del bien bonificado.
 
 3. No obstante lo anterior, siempre serán de aplicación las reducciones establecidas en la normativa estatal reguladora del Impuesto cuando las mismas determinen unas condiciones más favorables para el obligado tributario.
-
 
 #### Artículo 26. Reducción por la adquisición de una empresa o negocio profesional.
 
@@ -3980,7 +3760,6 @@ e) Que en la fecha de la donación el donante cese en la actividad empresarial
 a) Tener una vinculación laboral o de prestación de servicios con la empresa o el negocio profesional del donante, con una antigüedad mínima de diez años.
 
 b) Tener encomendadas tareas de responsabilidad en la gestión o dirección de la empresa o negocio profesional del donante, con una antigüedad mínima de cinco años en el desempeño de tales tareas. Se entiende que tiene encomendadas tales tareas si el donante le ha otorgado un apoderamiento especial para realizar las actuaciones habituales de gestión de la empresa.
-
 
 #### Artículo 26 bis. Reducción por la adquisición de participaciones en entidades.
 
@@ -4022,7 +3801,6 @@ e) Que el donante haya ejercido efectivamente funciones de dirección en la en
 
 Para la aplicación de la presente reducción será necesario, además de los requisitos establecidos en los apartados anteriores, que el donatario tenga una vinculación laboral o de prestación de servicios con la entidad cuyas participaciones son objeto de adquisición gratuita, con una antigüedad mínima de diez años y que haya ejercido funciones de dirección en la misma como mínimo los cinco años anteriores a la fecha de la donación, y que la participación del donatario en el capital de la entidad resultante de la donación sea de más del 50 por ciento.
 
-
 #### Artículo 26 ter. Reducción por la donación de cantidades en metálico con destino a la adquisición o rehabilitación de la vivienda habitual.
 
 1. La base imponible correspondiente a la donación de una cantidad en metálico realizada por un ascendiente en favor de sus descendientes o adoptados menores de 35 años en el momento del otorgamiento de la escritura pública a que se refiere la letra e) siguiente, con el límite de 24.040 euros, se reducirá en un 85 por ciento, siempre y cuando concurran las condiciones siguientes:
@@ -4048,7 +3826,6 @@ El incumplimiento de los requisitos mencionados determinará la improcedencia de
 4. A los efectos de la presente reducción son de aplicación las equiparaciones establecidas en el apartado 5 del artículo 24 bis del presente texto refundido.
 
 5. Cuando el donatario acredite un grado de discapacidad igual o superior al 33 por ciento e inferior al 65 por ciento el límite establecido en el apartado 1 del presente artículo será de 25.242 euros y la reducción de la base imponible el 90 por ciento, y de 26.444 euros y el 95 por ciento cuando el donatario acredite una minusvalía igual o superior al 65 por ciento.
-
 
 #### Artículo 26 quater. Reducción por la donación de cantidades en metálico con destino a la constitución o adquisición de una empresa individual o un negocio profesional o para adquirir participaciones en entidades.
 
@@ -4080,7 +3857,6 @@ g) En caso de adquisición de participaciones en una entidad, exceptuando las 
 
 3. La aplicación de la reducción a que se refiere el presente artículo queda condicionada a que el donatario continúe ejerciendo funciones de dirección en la entidad durante los cinco años siguientes a la formalización de la donación, salvo que fallezca en dicho período; así como al mantenimiento en el patrimonio del donatario, durante el mismo plazo y con la misma excepción, de los bienes resultantes de la donación, o de bienes subrogados de valor equivalente.
 
-
 #### Artículo 26 quinquies. Reducción por aportaciones a patrimonios protegidos de personas con discapacidad.
 
 1. En las aportaciones realizadas al patrimonio protegido de las personas con discapacidad, regulado en la Ley 41/2003, de 18 de noviembre, de Protección Patrimonial de las Personas con Discapacidad y de Modificación del Código Civil, de la Ley de Enjuiciamiento Civil y de la Normativa Tributaria con esta finalidad, a la parte que por exceder del importe máximo fijado por la ley para tener la consideración de rendimientos del trabajo personal para el contribuyente con discapacidad quede sujeta al Impuesto sobre Sucesiones y Donaciones, se le podrá aplicar en la base imponible de este Impuesto una reducción del 95 por ciento del importe excedente.
@@ -4088,7 +3864,6 @@ g) En caso de adquisición de participaciones en una entidad, exceptuando las 
 2. La aplicación de la presente reducción queda condicionada a que las aportaciones cumplan los requisitos y formalidades establecidos por la citada Ley 41/2003, de 18 de noviembre.
 
 Sección III. Disposiciones comunes a las adquisiciones mortis causa y a las adquisiciones lucrativas ínter vivos
-
 
 #### Artículo 27. Plazo de presentación de las declaraciones y autoliquidaciones en el Impuesto sobre Sucesiones y Donaciones correspondientes a determinados hechos imponibles.
 
@@ -4099,7 +3874,6 @@ a) Cuando se trate de adquisiciones por causa de muerte, incluidas las de los 
 El mismo plazo será aplicable a las adquisiciones del usufructo pendientes del fallecimiento del usufructuario, aunque la desmembración del dominio se hubiese realizado por acto “ínter vivos”.
 
 b) En los demás supuestos, en el de un mes, a contar desde el momento en que se cause el acto o contrato.
-
 
 #### Artículo 27 bis. Tasación pericial contradictoria y suspensión de las liquidaciones en supuestos especiales.
 
@@ -4115,11 +3889,9 @@ CAPÍTULO III
 
 Impuesto sobre el patrimonio
 
-
 #### Artículo 47. Modificación del texto refundido de las disposiciones legales vigentes dictadas por la Comunidad Autónoma de Canarias en materia de tributos cedidos, aprobado por Decreto Legislativo 1/2009, de 21 de abril.
 
 Se crea un nuevo artículo 29 bis con el contenido siguiente:
-
 
 #### «Artículo 29 bis. Exención de los patrimonios especialmente protegidos de los contribuyentes con discapacidad.
 
@@ -4129,11 +3901,9 @@ CAPÍTULO IV
 
 Impuesto sobre transmisiones patrimoniales y actos jurídicos documentados
 
-
 #### Artículo 48. Modificación del texto refundido de las disposiciones legales vigentes dictadas por la Comunidad Autónoma de Canarias en materia de tributos cedidos, aprobado por Decreto Legislativo 1/2009, de 21 de abril.
 
 Uno. Se modifica el artículo 31, que queda redactado en los términos siguientes:
-
 
 #### «Artículo 31. Tipo de gravamen general aplicable en las transmisiones patrimoniales onerosas.
 
@@ -4153,7 +3923,6 @@ d) Si se trata de la transmisión de bienes muebles y semovientes, así como l
 
 Dos. Se crea un artículo 38 ter, con la siguiente redacción:
 
-
 #### «Artículo 38 ter. Tipo de gravamen aplicable en la adquisición de vehículos de turismo a motor.
 
 1. El tipo de gravamen aplicable a la adquisición de vehículos será el establecido para los bienes muebles, excepto de los siguientes vehículos de turismo a motor usados para los que se señala a continuación una cuota fija.
@@ -4170,7 +3939,6 @@ A estos efectos, tendrán la consideración de vehículos históricos los defini
 
 Tres. Se modifica el artículo 39, que queda redactado en los términos siguientes:
 
-
 #### «Artículo 39. Plazo de presentación de las autoliquidaciones en el Impuesto sobre Transmisiones Patrimoniales Onerosas y Actos Jurídicos Documentados.
 
 1. De acuerdo con lo establecido en el artículo 49.2 de la Ley 22/2009, de 18 de diciembre, por la que se regula el sistema de financiación de las Comunidades Autónomas de régimen común y Ciudades con Estatuto de Autonomía y se modifican determinadas normas tributarias, el plazo para la presentación de las autoliquidaciones relativas a actos o contratos sujetos al Impuesto sobre Transmisiones Patrimoniales y Actos Jurídicos Documentados será de un mes a contar desde el momento en que se cause el acto o contrato.
@@ -4181,7 +3949,6 @@ A estos efectos, se considerará beneficio fiscal aquel que establezca exencione
 
 Cuatro. Se crea un artículo 39 bis, con la siguiente redacción:
 
-
 #### «Artículo 39 bis. Suministro de información por las entidades que realicen subastas de bienes muebles.
 
 1. Las entidades que realicen en la Comunidad Autónoma de Canarias subastas de bienes muebles deberán remitir a la Administración Tributaria Canaria una declaración comprensiva de la relación de las transmisiones de bienes en que hayan intervenido. Esta relación deberá comprender los datos de identificación del transmitente y el adquirente, la fecha de la transmisión, una descripción del bien subastado y el precio final de adjudicación.
@@ -4189,7 +3956,6 @@ Cuatro. Se crea un artículo 39 bis, con la siguiente redacción:
 2. El consejero competente en materia tributaria determinará los procedimientos, contenido, estructura y plazos de presentación en los que deba ser remitida esta información.»
 
 Cinco. Se crea un artículo 39 ter, con la siguiente redacción:
-
 
 #### «Artículo 39 ter. Suministro de información sobre otorgamiento de concesiones.
 
@@ -4199,7 +3965,6 @@ Cinco. Se crea un artículo 39 ter, con la siguiente redacción:
 
 Seis. Se crea un artículo 39 quáter, con la siguiente redacción:
 
-
 #### «Artículo 39 quáter. Escrituras de cancelación hipotecaria.
 
 A los efectos de lo dispuesto en los artículos 51 y 54 del texto refundido de la Ley del Impuesto sobre Transmisiones Patrimoniales y Actos Jurídicos Documentados, no será obligatoria la presentación por parte de los sujetos pasivos ante la Administración Tributaria Canaria de las escrituras públicas que formalicen, exclusivamente, la cancelación de hipotecas sobre bienes inmuebles, cuando tal cancelación obedezca al pago de la obligación garantizada y resulten exentas del Impuesto sobre Transmisiones Patrimoniales y Actos Jurídicos Documentados, de acuerdo con lo previsto en el artículo 45.I.B).18 del citado texto refundido, entendiéndose cumplido lo establecido en el artículo 51.1 del mismo mediante su presentación ante el Registro de la Propiedad.
@@ -4207,7 +3972,6 @@ A los efectos de lo dispuesto en los artículos 51 y 54 del texto refundido de
 No obstante lo anterior, los notarios han de cumplir con la obligación de remisión de información relativa a tales escrituras, conforme al artículo 52 del citado texto refundido.»
 
 Siete. Se crea un artículo 39 quinquies, con la siguiente redacción:
-
 
 #### «Artículo 39 quinquies. Gestión telemática integral del Impuesto sobre Transmisiones Patrimoniales y Actos Jurídicos Documentados.
 
@@ -4221,7 +3985,6 @@ Siete. Se crea un artículo 39 quinquies, con la siguiente redacción:
 
 Ocho. Se crea un artículo 39 sexies, con la siguiente redacción:
 
-
 #### «Artículo 39 sexies. Referencia normativa.
 
 Las referencias a “las oficinas liquidadoras de su respectiva jurisdicción”, “oficinas liquidadoras”, “oficinas liquidadoras del impuesto” que se contienen en el Real Decreto Legislativo 1/1993, de 24 de septiembre, por el que se aprueba el texto refundido de la Ley del Impuesto sobre Transmisiones Patrimoniales y Actos Jurídicos Documentados, han de entenderse hechas a la Administración Tributaria Canaria.»
@@ -4230,11 +3993,9 @@ CAPÍTULO V
 
 Tasa fiscal sobre el juego
 
-
 #### Artículo 49. Tributación de la modalidad de juego relativa al bingo y bingo electrónico.
 
 Se crea un nuevo artículo 40 bis en el texto refundido de las disposiciones legales vigentes dictadas por la Comunidad Autónoma de Canarias en materia de tributos cedidos con el contenido siguiente:
-
 
 #### «Artículo 40 bis. Tributación de la modalidad de juego relativa al bingo y bingo electrónico.
 
@@ -4254,9 +4015,7 @@ El tipo de gravamen aplicable al juego del bingo en la modalidad electrónica se
 
 En la modalidad de bingo electrónico, el ingreso de la cuota se efectuará dentro de los veinte primeros días del mes siguiente al que corresponda el devengo.»
 
-
 ## TÍTULO III
-
 
 **Tributos derivados del Régimen Económico y Fiscal de Canarias**
 
@@ -4265,7 +4024,6 @@ CAPÍTULO ÚNICO
 Impuesto General Indirecto Canario
 
 Sección I. Exenciones interiores
-
 
 #### Artículo 50. Exenciones en operaciones interiores.
 
@@ -4643,7 +4401,6 @@ Se entenderá que el adquirente tiene derecho a la deducción total cuando el po
 
 Sección II. Tipos de gravamen
 
-
 #### Artículo 51. Tipos de gravamen.
 
 1. En el Impuesto General Indirecto Canario serán aplicables los siguientes tipos de gravamen:
@@ -4681,7 +4438,6 @@ d) El tipo del 0,95 por ciento, para las importaciones sujetas al tipo increm
 e) El tipo del 1,35 por ciento, para las importaciones sujetas al tipo incrementado del 13,5 por ciento.
 
 f) El tipo del 2 por ciento, para las importaciones sujetas al tipo especial del 20 por ciento.
-
 
 #### Artículo 52. Tipo de gravamen cero.
 
@@ -4785,11 +4541,9 @@ n) El transporte de viajeros y mercancías por vía marítima o aérea entre l
 
 En ningún caso es aplicable el tipo de gravamen del cero al transporte marítimo de pasajeros de carácter turístico, recreativo o de ocio, educativo o de instrucción al que se refiere el artículo 20 de la Ley 12/2007, de 24 de abril, de Ordenación del Transporte Marítimo de Canarias, ni al transporte aéreo de carácter turístico, recreativo o de ocio, educativo o de instrucción.
 
-
 #### Artículo 53. Tipo de gravamen reducido del 2,75 por ciento.
 
 El tipo de gravamen reducido del 2,75 por ciento será aplicable a las entregas de determinadas viviendas en los términos previstos en el artículo 2 de la Ley 11/2011, de 28 de diciembre, de medidas fiscales para el fomento de la venta y rehabilitación de viviendas y otras medidas tributarias.
-
 
 #### Artículo 54. Tipo de gravamen reducido del 3 por ciento.
 
@@ -4879,11 +4633,9 @@ g) Los de reparación de sillas de ruedas y los de reparación y adaptación d
 
 h) Los de ejecución de obra mobiliaria que tenga por objeto la producción de sillas de ruedas para el traslado de personas con discapacidad.
 
-
 #### Artículo 55. Tipo de gravamen incrementado del 9,5 por ciento.
 
 El tipo de gravamen incrementado del 9,5 por ciento será aplicable a las prestaciones de servicios de ejecuciones de obras mobiliarias que tengan por objeto la producción de los vehículos accionados a motor, las embarcaciones y buques y los aviones, avionetas y demás aeronaves cuya entrega o importación queda sujeta al tipo de gravamen del 9,5 por ciento.
-
 
 #### Artículo 56. Tipo de gravamen incrementado del 13,5 por ciento.
 
@@ -4931,11 +4683,9 @@ c) Las prestaciones de servicios de difusión publicitaria, por cualquier medi
 
 d) El arrendamiento, cesión de derechos y producción de las películas calificadas X, así como la exhibición de las mismas.
 
-
 #### Artículo 57. Tipo de gravamen especial del 20 por ciento.
 
 El tipo de gravamen especial del 20 por ciento será aplicable a las entregas de las labores del tabaco, con excepción de los cigarros puros.
-
 
 #### Artículo 58. Tipos de gravamen aplicables a las operaciones relacionadas con las viviendas.
 
@@ -4972,7 +4722,6 @@ Dos. Tributarán en el Impuesto General Indirecto Canario al tipo impositivo r
 Tres. Las operaciones relacionadas con las viviendas no comprendidas en los números anteriores tributarán en el Impuesto General Indirecto Canario al tipo impositivo general.
 
 Cuatro. A los efectos del presente artículo, no se entenderán comprendidos en el concepto de las viviendas los garajes ni los anexos que se transmitan independientemente de las mismas. Asimismo, no se entenderán comprendidos los locales de negocio aunque se transmitan conjuntamente con las viviendas.
-
 
 #### Artículo 59. Tipos de gravamen aplicables a las entregas, arrendamientos y ejecuciones de obras de vehículos.
 
@@ -5104,7 +4853,6 @@ b) Se considera una discapacidad acreditada del 65 por ciento, aunque no se a
 
 Siete. A los efectos de lo establecido en el presente artículo se tomarán en consideración las definiciones contenidas en el Anexo II «Definiciones y categorías de los vehículos» del Real Decreto 2822/1998, de 23 de diciembre, por el que se aprueba el Reglamento General de Vehículos.
 
-
 #### Artículo 60. Tipo de gravamen aplicable a las entregas, arrendamientos y ejecuciones de obras de buques, embarcaciones y artefactos navales.
 
 Uno. Tributarán en el Impuesto General Indirecto Canario al tipo de gravamen general del 7 por ciento las entregas de las embarcaciones olímpicas.
@@ -5133,7 +4881,6 @@ Cuatro. 1. Tributará en el Impuesto General Indirecto Canario al tipo de grav
 
 4. Tributará al tipo incrementado del 13,5 por ciento la prestación de servicio de ejecución de obra mobiliaria que tenga por objeto la producción de un buque o embarcación cuya entrega se encuentre sujeta al tipo incrementado del 13,5 por ciento.
 
-
 #### Artículo 61. Tipo de gravamen aplicable a las entregas, arrendamientos y ejecuciones de obras de aviones, avionetas y demás aeronaves.
 
 Uno. Tributarán en el Impuesto General Indirecto Canario al tipo de gravamen incrementado del 9,5 por ciento las entregas de los siguientes aviones, avionetas y demás aeronaves:
@@ -5154,12 +4901,9 @@ Tres. 1. Tributará en el Impuesto General Indirecto Canario al tipo increment
 
 2. Tributará al tipo incrementado del 13,5 por ciento la prestación de servicio de ejecución de obra mobiliaria que tenga por objeto la producción de un avión, avioneta o aeronave cuya entrega se encuentre sujeta al tipo incrementado del 13,5 por ciento.
 
-
 **TITULO IV**
 
-
 **Otras modificaciones**
-
 
 #### Artículo 62. Modificación de la Ley 9/2006, de 11 de diciembre, Tributaria de la Comunidad Autónoma de Canarias.
 
@@ -5175,7 +4919,6 @@ j) La extinción de deudas a que se refiere el artículo 19 de la presente le
 
 Tres. Se crea un artículo 6 bis, con la redacción siguiente:
 
-
 #### «Artículo 6 bis. Competencia del director general competente en materia tributaria respecto a determinadas compensaciones y extinciones de oficio de deudas y sanciones tributarias.
 
 1. Corresponderá al director general competente en materia tributaria la compensación de oficio a que se refiere el artículo 18 de la presente ley cuando el importe a compensar, de forma individual o global, sea igual o inferior a 30.000 euros.
@@ -5183,7 +4926,6 @@ Tres. Se crea un artículo 6 bis, con la redacción siguiente:
 2. Corresponderá al director general competente en materia tributaria la extinción de deudas a que se refiere el artículo 19 de la presente ley cuando el importe a extinguir, de forma individual o global, sea igual o inferior a 30.000 euros.»
 
 Cuatro. Se modifica el artículo 16, que queda redactado en los términos siguientes:
-
 
 #### «Artículo 16. Deudas de reducida cuantía.
 
@@ -5201,7 +4943,6 @@ Por el consejero competente en materia tributaria se podrán desarrollar los pro
 
 Seis. Se crea un artículo 24 bis, con la redacción siguiente:
 
-
 #### «Artículo 24 bis. Suspensión de plazos.
 
 1. Por la Administración Tributaria Canaria se podrá acordar, a solicitud del interesado, la suspensión de plazos en los procedimientos gestionados por la misma respecto de personas destinadas a misiones en el exterior.
@@ -5209,7 +4950,6 @@ Seis. Se crea un artículo 24 bis, con la redacción siguiente:
 2. El consejero competente en materia tributaria determinará las condiciones y requisitos para que se pueda acordar la citada suspensión.»
 
 Siete. El artículo 25 queda redactado en los términos siguientes:
-
 
 #### «Artículo 25. Anuncio de comparecencia para notificación.
 
@@ -5224,7 +4964,6 @@ La publicación se realizará, como mínimo, un día de cada semana.
 b) En el Boletín Oficial de Canarias, efectuándose la publicación los días cinco y veinte de cada mes o, en su caso, el inmediato hábil posterior.»
 
 Ocho. Se crea un artículo 25 bis, con la redacción siguiente:
-
 
 #### «Artículo 25 bis. Notificación electrónica.
 
@@ -5244,7 +4983,6 @@ La Administración Tributaria Canaria podrá utilizar la dirección electrónica
 
 Nueve. El artículo 26 queda redactado en los términos siguientes:
 
-
 #### «Artículo 26. Presentación telemática.
 
 1. El consejero competente en materia tributaria determinará los supuestos y condiciones en los que los obligados tributarios deberán presentar por medios telemáticos sus declaraciones, autoliquidaciones, comunicaciones, solicitudes y cualquier otro documento con trascendencia tributaria y, en su caso, abonar la deuda tributaria.
@@ -5253,36 +4991,29 @@ Nueve. El artículo 26 queda redactado en los términos siguientes:
 
 Diez. Se añade la disposición adicional novena que queda redactada en los términos siguientes:
 
-
 #### «Disposición adicional novena. Asistencia a la Administración Tributaria Canaria del Cuerpo General de la Policía Canaria.
 
 El Cuerpo General de la Policía Canaria podrá prestar asistencia a la Administración Tributaria Canaria en el ejercicio de las competencias que ésta tiene atribuidas, y en especial en el ámbito de la lucha contra el fraude fiscal.»
-
 
 #### Artículo 63. Modificación de la Ley 11/2006, de 11 de diciembre, de la Hacienda Pública Canaria.
 
 El artículo 18 de la Ley 11/2006, de 11 de diciembre, de la Hacienda Pública Canaria, queda redactado en los términos siguientes:
 
-
 #### «Artículo 18. Derechos económicos de baja cuantía.
 
 El consejero competente en materia de Hacienda podrá disponer la no liquidación o, en su caso, la anulación y baja en contabilidad de todas aquellas liquidaciones de las que resulten deudas inferiores a la cuantía que fije como insuficiente para la cobertura del coste que su exacción y recaudación representen.»
-
 
 #### Disposición adicional primera. Adaptaciones presupuestarias.
 
 La Consejería de Economía, Hacienda y Seguridad realizará las adaptaciones técnicas y las transferencias de crédito que sean necesarias como consecuencia de la extinción de la Agencia Canaria de Desarrollo Sostenible y Cambio Climático.
 
-
 #### Disposición adicional segunda. Adscripción de medios personales y materiales a la inspección médica dependiente de la consejería competente en materia de función pública e inspección de los servicios.
 
 El personal y los medios adscritos a la unidad de inspección médica existente en la Consejería competente en materia de educación se adscriben a la inspección médica dependiente de la consejería competente en materia de función pública e inspección de los servicios.
 
-
 #### Disposición adicional tercera. Cuantía del Fondo Canario de Financiación Municipal de los ejercicio de 2009, 2010 y 2011.
 
 La cuantía del Fondo Canario de Financiación Municipal distribuida entre los Ayuntamientos en los ejercicios de 2009, 2010 y 2011 tiene el carácter de definitiva.
-
 
 #### Disposición adicional cuarta. Habilitación a la Ley de Presupuestos.
 
@@ -5292,21 +5023,17 @@ Las Leyes de Presupuestos Generales de la Comunidad Autónoma de Canarias podrá
 
 2. Los tipos de gravamen del Impuesto General Indirecto Canario. Tal modificación se realizará debiendo oír previamente a los Cabildos Insulares.
 
-
 #### Disposición adicional quinta. Tributación de los vehículos híbridos eléctricos y de vehículos eléctricos.
 
 Las importaciones y entregas de vehículos híbridos eléctricos y de vehículos eléctricos quedarán sujetas al tipo reducido del Impuesto General Indirecto Canario establecido en el artículo 53.1.c) de la presente ley, y ello en los términos previstos en la Ley 3/2010, de 20 de mayo, por la que se regula el tipo de gravamen aplicable a las entregas de vehículos híbridos eléctricos y de vehículos eléctricos.
-
 
 #### Disposición adicional sexta. Entidad pública empresarial Puertos de Canarias.
 
 A la entrada en vigor de la presente Ley, se mantiene vigente el artículo 35 de la Ley 14/2003, de 8 de abril, de Puertos de Canarias.
 
-
 #### Disposición adicional séptima. Peritaciones judiciales.
 
 Cuando por parte de los Órganos Judiciales o de la Fiscalía se solicite al Gobierno de la Comunidad Autónoma de Canarias la designación de peritos para la práctica de pruebas periciales, la consejería competente en materia de Justicia lo podrá poner en conocimiento de la Dirección General de la Función Pública que, en razón de la carga de trabajo y las prioridades, podrá efectuar dicha designación entre aquellos empleados públicos que puedan realizar la pericia requerida por su carácter de técnicos en la materia de que se trate. Los empleados públicos tendrán la obligación de realizar dicha actuación, salvo que concurran las causas generales de abstención o recusación en el procedimiento.
-
 
 #### Disposición adicional octava. Modificación de la Ley 12/2011, de 29 de diciembre, de Presupuestos Generales de la Comunidad Autónoma de Canarias para 2012.
 
@@ -5314,26 +5041,21 @@ Se añade un nueva letra g) al apartado 2 del artículo 60 de la Ley 12/2011,
 
 «g) Por el importe de las operaciones de préstamo a formalizar como resultado del importe de las obligaciones pendientes que van a quedar pagadas mediante el mecanismo extraordinario de financiación para el pago a proveedores establecido en el acuerdo 6/2012 del Consejo de Política Fiscal y Financiera.»
 
-
 #### Disposición adicional novena.
 
 Se autoriza al Gobierno de Canarias a actualizar las cuantías de las tarifas de las tasas establecidas con relación a las Escuelas Oficiales de Idiomas en el artículo 80 del texto refundido de las disposiciones legales vigentes en materia de tasas y precios públicos de la Comunidad Autónoma de Canarias aprobado por Decreto Legislativo 1/1994, de 29 de julio, teniendo en cuenta los importes establecidos con carácter general para estas enseñanzas por las distintas Administraciones educativas.
-
 
 #### Disposición transitoria primera. Régimen transitorio de los órganos que se modifican.
 
 Hasta tanto se dicten las disposiciones reglamentarias correspondientes de los órganos cuya composición se modifica en la presenta ley, conservan su vigencia las normas de organización y funcionamiento de los mismos, siempre que no se opongan o resulten incompatibles con lo previsto en esta ley.
 
-
 #### Disposición transitoria segunda. Competencias de la extinta Agencia Canaria de Desarrollo Sostenible y Cambio Climático.
 
 Hasta que reglamentariamente se determinen los órganos a los que corresponden las competencias asumidas por la Consejería de Educación, Universidades y Sostenibilidad como consecuencia de la extinción de la Agencia Canaria de Desarrollo Sostenible y Cambio Climático, las mismas serán ejercidas por la Viceconsejería de Medio Ambiente.
 
-
 #### Disposición transitoria tercera. Destino del vehículo al transporte habitual de personas con discapacidad.
 
 En tanto el Gobierno de Canarias no regule la acreditación de que el destino del vehículo objeto de entrega o importación es el transporte habitual de personas con discapacidad, a los efectos de lo establecido en el artículo 58 de la presente ley, se aplicará lo dispuesto en el artículo 56.1.3.ºd) del Real Decreto 2538/1994, de 29 de diciembre, por el que se dictan normas de desarrollo relativas al Impuesto General Indirecto Canario y al Arbitrio sobre la Producción e Importación en las Islas Canarias, creados por la Ley 20/1991, de 7 de junio, de modificación de los aspectos fiscales del Régimen Económico Fiscal de Canarias.
-
 
 #### Disposición transitoria cuarta. Franquicia fiscal en el Impuesto General Indirecto Canario.
 
@@ -5347,11 +5069,9 @@ Esta exención podrá ser objeto de renuncia en los términos y requisitos previ
 
 3. Se autoriza a seguir utilizando la expresión «Exento artículo 10.1.28.º de la Ley 20/1991» en las facturas, o documentos sustitutivos, expedidas por las entregas de bienes o prestaciones de servicios exentas por aplicación de lo dispuesto en el apartado 1 de esta disposición, así como las expedidas por los pagos anticipados percibidos durante el plazo de vigencia de la exención regulada en la presente disposición.
 
-
 #### Disposición transitoria quinta. Tipo reducido del 2,75 por 100.
 
 Hasta el día 31 de diciembre de 2012 será aplicable el tipo reducido del 2,75 por 100 a las entregas de determinadas vivienda, en los términos establecidos en el artículo 2 de la Ley 11/2011, de 28 de diciembre, de medidas fiscales para el fomento de la venta y rehabilitación de viviendas y otras medidas tributarias.
-
 
 #### Disposición transitoria sexta. Pago a cuenta del Impuesto de la Comunidad Autónoma de Canarias sobre los Depósitos de Clientes en las Entidades de Crédito de Canarias.
 
@@ -5359,11 +5079,9 @@ En el período impositivo 2012, el importe del pago a cuenta del Impuesto de la
 
 El pago a que se refiere la presente disposición transitoria se ha de realizar a lo largo del mes de noviembre de 2012.
 
-
 #### Disposición transitoria séptima. Juego del bingo.
 
 Con efectos exclusivos para el ejercicio 2012, la comparación con la plantilla media a que hace referencia el artículo 49 se realizará con la plantilla media del primer cuatrimestre de 2012 de cada sala en lugar de la del ejercicio anterior; asimismo, a los efectos de la aplicación de la Tarifa prevista para el caso de mantenimiento de plantillas medias, se iniciará a la fecha de la entrada en vigor de esta ley el cómputo del importe de la suma de los valores faciales acumulados.
-
 
 #### Disposición derogatoria única. Derogación normativa.
 
@@ -5381,11 +5099,9 @@ Quedan derogadas cuantas disposiciones de igual o inferior rango se opongan a lo
 
 – La Ley 3/2009, de 24 de abril, de la Agencia Canaria de Desarrollo Sostenible y Cambio Climático.
 
-
 #### Disposición final primera. Modificación de la Ley 9/2003, de 3 de abril, de Medidas Tributarias y de Financiación de las Haciendas Territoriales Canarias.
 
 Se añade una disposición transitoria quinta a la Ley 9/2003, de 3 de abril, de Medidas Tributarias y de Financiación de las Haciendas Territoriales Canarias, con la siguiente redacción:
-
 
 #### «Disposición transitoria quinta.
 
@@ -5409,18 +5125,15 @@ b) Para la Comunidad Autónoma de Canarias el 100 % desde el 2012 hasta el�
 
 El acuerdo deberá contar con la posición favorable del Gobierno de Canarias, de la mayoría de los Cabildos Insulares y de la Federación Canaria de Municipios.»
 
-
 #### Disposición final segunda. Modificación de Catálogo de Puestos del Cuerpo General de la Policía Canaria.
 
 El Gobierno de Canarias, en plazo de tres meses desde la entrada en vigor de la presente ley, deberá modificar el catálogo de puestos del Cuerpo General de la Policía Canaria efectuando una reducción de las retribuciones de los empleos de Comisario Jefe, Comisario Principal, Comisario Brimo y Comisario URO.
 
 Las retribuciones mensuales del empleo de Comisario Jefe no podrán ser superiores a las que perciba un Director General de la Administración de la Comunidad Autónoma. Las retribuciones del resto de empleos se reducirá proporcionalmente a la reducción efectuada en el puesto de Comisario Jefe en función de la diferencia retributiva actual entre ellas mismas y teniendo en cuenta además la diferencia con el empleo de Subcomisario Brimo, de tal forma que en cómputo global se mantengan proporcionalmente las diferencias entre los empleos citados.
 
-
 #### Disposición final tercera. Integración de organismos de formación de empleados públicos.
 
 El Gobierno analizará la viabilidad de la integración en un solo organismo público, con la naturaleza que resulte más adecuada para el ejercicio de las funciones que tienen atribuidas, de los organismos autónomos Instituto Canario de Administración Pública y Academia Canaria de Seguridad y de la entidad pública empresarial Escuela de Servicios Sanitarios y Sociales de Canarias.
-
 
 #### Disposición final cuarta. Creación de la Agencia Tributaria Canaria.
 
@@ -5428,16 +5141,13 @@ El Gobierno analizará la viabilidad de la integración en un solo organismo pú
 
 2. En el seno de la Agencia Tributaria Canaria existirá, sin perjuicio de otros órganos, el Consejo para la Dirección y Coordinación de la Gestión de los tributos integrantes del Bloque de Financiación Canario, integrado por representantes de la Agencia Tributaria Canaria, de los Cabildos y de los Ayuntamientos Canarios.
 
-
 #### Disposición final quinta. Desarrollo reglamentario.
 
 Se autoriza al Gobierno a dictar las disposiciones que sean necesarias para el desarrollo y aplicación de la presente ley, salvo las materias que específicamente se atribuyen al consejero competente en materia tributaria.
 
-
 #### Disposición final sexta. Publicación de las versiones vigentes de los textos refundidos en materia tributaria como textos actualizados con valor informativo.
 
 En el plazo de un mes a partir de la entrada en vigor de las leyes que adopten medidas tributarias y modifiquen las leyes reguladoras de los distintos tributos y los diversos textos refundidos vigentes en la materia, por Resolución del Director General de Tributos se publicarán en el Boletín Oficial de Canarias los textos actualizados de los mismos, incluyendo las nuevas modificaciones operadas por las mismas. Dichos textos actualizados tendrán exclusivamente efectos de carácter informativo.
-
 
 #### Disposición final séptima. Exenciones en operaciones interiores en el Impuesto General Indirecto Canario.
 
@@ -5455,7 +5165,6 @@ c) Los artículos 25 y 47 de la Ley 19/1994, de 6 de julio, de modificaci�
 
 3. Las referencias que en la normativa vigente se puedan efectuar al artículo 10 de la Ley 20/1991, de 7 de junio, de modificación de los aspectos fiscales del Régimen Económico Fiscal de Canarias, se entenderán realizadas, según proceda, al artículo contenido en la Sección I del Capítulo Único del Título III del Libro II de la presente ley.
 
-
 #### Disposición final octava. Tipos de gravamen y tipo de recargo sobre las importaciones efectuadas por los comerciantes minoristas en el Impuesto General Indirecto Canario.
 
 1. La regulación de los tipos de gravamen y tipo de recargo sobre las importaciones efectuadas por los comerciantes minoristas en el Impuesto General Indirecto Canario contenida en la Sección II del Capítulo Único del Título III del Libro II de la presente ley, se ha realizado en ejecución de la atribución de competencia normativa a la Comunidad Autónoma de Canarias realizada por el apartado Uno.2 de la disposición adicional octava de la Ley 22/2009, de 18 de diciembre, por la que se regula el sistema de financiación de las Comunidades Autónomas de régimen común y Ciudades con Estatuto de Autonomía y se modifican determinadas normas tributarias.
@@ -5463,7 +5172,6 @@ c) Los artículos 25 y 47 de la Ley 19/1994, de 6 de julio, de modificaci�
 2. Conforme a lo establecido en el apartado 1 anterior y desde el día 1 de julio de 2012, la regulación legal de los tipos de gravamen y tipo de recargo sobre las importaciones efectuadas por los comerciantes minoristas en el Impuesto General Indirecto Canario es la contenida en la Sección II del Capítulo Único del Título III del Libro II de la presente ley.
 
 3. Las referencias que en la normativa vigente se puedan efectuar al artículo 27, al número 3 del artículo 58 bis, a la disposición adicional octava y a los anexos I, I-bis, II y VI de la Ley 20/1991, de 7 de junio, de modificación de los aspectos fiscales del Régimen Económico Fiscal de Canarias, se entenderán realizadas, respectivamente, a los artículos contenidos en la Sección II del Capítulo Único del Título III del Libro II de la presente ley.
-
 
 #### Disposición final novena. Entrada en vigor.
 

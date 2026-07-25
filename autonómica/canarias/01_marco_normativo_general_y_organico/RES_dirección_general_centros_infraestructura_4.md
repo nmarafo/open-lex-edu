@@ -32,10 +32,8 @@ fuente_pdf_oficial: https://sede.gobiernodecanarias.org/boc/boc-a-2017-061-1429.
 
 # Resolución de 16 de marzo de 2017, de la Dirección General de Centros e Infraestructura Educativa, por la que se delega en la Dirección General de Formación Profesional y Educación de Adultos, la competencia en materia de contratos menores de material y equipamiento específico necesario para el desarrollo del Proyecto Enlaza (BOC n.º 61, de 28 de marzo).
 
-Boletín Oficial de Canarias núm. 61
 https://sede.gobcan.es/cpji/boc
 Martes 28 de marzo de 2017
-8457
 III. Otras Resoluciones
 Consejería de Educación y Universidades
 1429 Dirección General de Centros e Infraestructura Educativa.- Resolución de 16 
@@ -75,13 +73,9 @@ desarrollo de un nuevo modelo social, económico y cultural adaptado a las singu
 de Canarias, capacitando a la población para que adquiera y/o mejore su empleabilidad 
 y su espíritu empresarial mediante una Formación Profesional atractiva, de calidad y 
 adecuada al mercado laboral y a la carrera profesional”.
-boc-a-2017-061-1429
 
-
-Boletín Oficial de Canarias núm. 61
 https://sede.gobcan.es/cpji/boc
 Martes 28 de marzo de 2017
-8458
 FUNDAMENTOS DE DERECHO
 Primero.- Que los artículos 8 y 9 de la Ley 40/2015, de 1 de octubre, de Régimen Jurídico 
 del Sector Público (BOE nº 236, de 2 de octubre de 2015), establecen que los órganos de 
@@ -119,13 +113,9 @@ profesional.
 Segundo.- Todos los actos que se dicten en ejercicio de las competencias delegadas por 
 la presente Resolución, harán constar esta circunstancia y se considerarán dictados a todos 
 los efectos por el órgano delegante.
-boc-a-2017-061-1429
 
-
-Boletín Oficial de Canarias núm. 61
 https://sede.gobcan.es/cpji/boc
 Martes 28 de marzo de 2017
-8459
 Tercero.- Publicar la presente resolución en el Boletín Oficial de Canarias, en 
 cumplimiento con lo dispuesto en el apartado 3 del artículo 9 de la Ley 40/2015, de 1 de 
 octubre, de Régimen Jurídico del Sector Público.
@@ -133,5 +123,3 @@ Cuarto.- La presente delegación surtirá sus efectos al día siguiente de su pu
 el Boletín Oficial de Canarias.
 Las Palmas de Gran Canaria, a 16 de marzo de 2017.- La Directora General de Centros e 
 Infraestructura Educativa, Ana Isabel Dorta Alonso.
-boc-a-2017-061-1429
-

@@ -58,15 +58,11 @@ Para la elaboración de este real decreto han sido consultadas las comunidades a
 
 En su virtud, a propuesta del Ministro de Educación, de acuerdo con el Consejo de Estado, y previa deliberación del Consejo de Ministros en su reunión del día 12 de febrero de 2010,
 
-
 **DISPONGO:**
-
 
 ## TÍTULO I
 
-
 **Disposiciones de carácter general**
-
 
 #### Artículo 1. Objeto.
 
@@ -74,11 +70,9 @@ En su virtud, a propuesta del Ministro de Educación, de acuerdo con el Consejo 
 
 2. Igualmente, este real decreto, establece los requisitos mínimos de titulación académica del profesorado del primer ciclo de la educación infantil.
 
-
 #### Artículo 2. Denominación de los centros docentes.
 
 Los centros docentes tendrán la denominación genérica que establecen los artículos 111 y 114 de la Ley Orgánica 2/2006, de 3 de mayo, de Educación.
-
 
 #### Artículo 3. Requisitos de instalaciones comunes a todos los centros.
 
@@ -120,26 +114,21 @@ Todos los espacios en los que se desarrollen acciones docentes, así como la bib
 
 4. Los requisitos de instalaciones podrán flexibilizarse de acuerdo con lo establecido en el artículo 20 y la disposición adicional tercera de este real decreto.
 
-
 #### Artículo 4. Puestos escolares.
 
 1. El número de puestos escolares de los centros se fijará en las correspondientes disposiciones por las que se autorice su apertura y funcionamiento, teniendo en cuenta el número máximo de alumnos por unidad escolar y el número total de unidades autorizadas en función de las instalaciones y condiciones materiales establecidas en este real decreto.
 
 2. A efectos de lo dispuesto en este real decreto, se entenderá por número de puestos escolares el número de alumnos que un centro puede atender simultáneamente, de forma que se garanticen las condiciones de calidad exigibles para la impartición de la enseñanza.
 
-
 ## TÍTULO II
 
-
 **De los centros de educación infantil**
-
 
 #### Artículo 5. Condiciones generales.
 
 1. Los centros podrán ofrecer el primer ciclo de esta etapa educativa, el segundo, o ambos.
 
 2. Los centros que ofrecen el primer ciclo de educación infantil se regirán por lo dispuesto en la regulación específica establecida por la Administración educativa competente, de acuerdo con el artículo 14.7 de la Ley Orgánica de Educación, en lo relativo a la relación numérica alumnado-profesor, a las instalaciones y al número de puestos escolares.
-
 
 #### Artículo 6. Instalaciones y condiciones materiales de los centros que ofrecen el segundo ciclo de la educación infantil.
 
@@ -153,11 +142,9 @@ b) Una sala polivalente de 30 metros cuadrados.
 
 c) Un patio de juegos, de uso exclusivo del centro, con una superficie adecuada al número de puestos escolares autorizados y nunca inferior a 150 metros cuadrados para cada seis unidades o fracción, con horario de utilización diferenciado en el caso de que se escolaricen alumnos de otras etapas educativas.
 
-
 #### Artículo 7. Relación alumnos por unidad.
 
 Los centros docentes que ofrecen el segundo ciclo de la educación infantil tendrán, como máximo, 25 alumnos por unidad escolar.
-
 
 #### Artículo 8. Requisitos de titulación de los profesionales que atienden la educación infantil.
 
@@ -175,17 +162,13 @@ Los centros docentes que ofrecen el segundo ciclo de la educación infantil tend
 
 Los recursos humanos a que se refiere el párrafo anterior deberán disponer de la titulación o cualificación adecuada.
 
-
 ## TÍTULO III
 
-
 **De los centros de educación primaria**
-
 
 #### Artículo 9. Condiciones generales.
 
 Los centros de educación primaria tendrán, como mínimo, una unidad por cada curso, salvo lo establecido en la disposición adicional tercera del presente real decreto.
-
 
 #### Artículo 10. Instalaciones y condiciones materiales de los centros.
 
@@ -197,11 +180,9 @@ b) Un espacio por cada seis unidades para desdoblamiento de grupos y otro para a
 
 c) Una sala polivalente, con una superficie adecuada al número de puestos escolares autorizados, que podrá compartimentarse con mamparas móviles.
 
-
 #### Artículo 11. Relación de alumnos por unidad.
 
 Los centros de educación primaria tendrán, como máximo, 25 alumnos por unidad escolar.
-
 
 #### Artículo 12. Requisitos de titulación académica del profesorado que imparte educación primaria.
 
@@ -211,12 +192,9 @@ Los centros de educación primaria tendrán, como máximo, 25 alumnos por unidad
 
 Los recursos humanos a que se refiere el párrafo anterior deberán disponer de la titulación o cualificación adecuada.
 
-
 ## TÍTULO IV
 
-
 **De los centros de educación secundaria**
-
 
 #### Artículo 13. Condiciones generales.
 
@@ -230,7 +208,6 @@ Los recursos humanos a que se refiere el párrafo anterior deberán disponer de 
 
 5. Los centros docentes que imparten títulos de Formación profesional estarán sometidos a los requisitos mínimos que establece este real decreto, así como los establecidos en el Real Decreto 1538/2006, de 15 de diciembre, por el que se establece la ordenación general de la formación profesional del sistema educativo, y la normativa que regule los títulos de técnico y títulos de técnico superior de formación profesional.
 
-
 #### Artículo 14. Instalaciones y condiciones materiales de los centros que imparten educación secundaria obligatoria.
 
 Los centros en los que se imparta educación secundaria obligatoria dispondrán, como mínimo, de las siguientes instalaciones:
@@ -242,7 +219,6 @@ b) Por cada 12 unidades o fracción, un aula taller para tecnologías y dos aula
 c) Al menos un laboratorio de Ciencias Experimentales por cada 12 unidades o fracción.
 
 d) Un espacio por cada ocho unidades para desdoblamiento de grupos y otro para actividades de apoyo y refuerzo pedagógico.
-
 
 #### Artículo 15. Instalaciones y condiciones materiales de los centros que imparten bachillerato.
 
@@ -266,11 +242,9 @@ Un aula de dibujo.
 
 Un aula de Tecnología.
 
-
 #### Artículo 16. Relación de alumnos por unidad.
 
 Los centros de educación secundaria tendrán, como máximo, 30 alumnos por unidad escolar en educación secundaria obligatoria y de 35 en bachillerato.
-
 
 #### Artículo 17. Profesionales que atienden la educación secundaria obligatoria y el bachillerato.
 
@@ -278,20 +252,17 @@ Los centros de educación secundaria tendrán, como máximo, 30 alumnos por unid
 
 2. Los profesores de la educación secundaria deberán, asimismo, acreditar la cualificación específica para impartir las áreas y materias respectivas.
 
-
 #### Artículo 18. Número mínimo de profesores de los centros que ofrecen la educación secundaria obligatoria y el bachillerato.
 
 1. El número mínimo de profesores en los centros de educación secundaria será el necesario para cubrir el horario que se establezca en los distintos programas y planes de estudio autorizados.
 
 2. Los centros que escolaricen alumnos con necesidad específica de apoyo educativo contarán además, con el personal que en su caso determine la Administración educativa competente. Este personal deberá estar en posesión de la titulación o cualificación adecuada.
 
-
 #### Artículo 19. Requisitos de centros que ofrecen los Programas de Cualificación Profesional Inicial.
 
 1. La impartición de los módulos específicos a que se refiere el artículo 30.3, letra a) y b), de la Ley Orgánica de Educación, requerirá disponer de los espacios y equipamientos que para cada uno de ellos determine la Administración educativa competente.
 
 2. La impartición de los módulos voluntarios al que se refiere el artículo 30.3 letra c) de la Ley Orgánica de Educación, requerirá disponer, al menos, de los mismos requisitos exigidos para la autorización de centros de formación de adultos que imparten la educación secundaria obligatoria.
-
 
 #### Artículo 20. Flexibilización de los requisitos de instalaciones para los centros docentes que impartan distintas enseñanzas en el mismo edificio o recinto escolar.
 
@@ -323,18 +294,15 @@ d) Los laboratorios para el bachillerato de la modalidad de ciencias y tecnolog�
 
 4. En los centros docentes que impartan educación secundaria obligatoria o bachillerato y formación profesional podrán disponer de recursos humanos e instalaciones comunes. A estos efectos, se consideran instalaciones comunes aquellas que se destinen a usos similares en función del tiempo de utilización de los espacios respectivos, previstos para cada una de las enseñanzas.
 
-
 #### Disposición adicional primera. Centros que ofrecen la educación de personas adultas.
 
 1. Los centros creados o autorizados al amparo de lo dispuesto en este real decreto podrán ser autorizados para impartir las correspondientes enseñanzas a personas adultas, de acuerdo con los programas que al efecto se establezcan, si de ello no resulta menoscabo para las enseñanzas cursadas por los alumnos escolarizados en el centro, especialmente en cuanto a su régimen horario.
 
 2. Los centros específicos de educación de personas adultas que impartan la educación secundaria obligatoria y/o el bachillerato se rigen por lo dispuesto en este real decreto en lo relativo a las instalaciones y la titulación de los docentes. Los requisitos de instalaciones se adecuarán a la organización específica de las enseñanzas de adultos.
 
-
 #### Disposición adicional segunda. Centros de educación especial.
 
 Las Administraciones educativas competentes adaptarán lo dispuesto en este real decreto a los centros de educación especial que ofrecen enseñanzas dirigidas a alumnos con necesidades educativas especiales que no puedan ser atendidas en el marco de las medidas de atención a la diversidad en los centros ordinarios.
-
 
 #### Disposición adicional tercera. Centros que atiendan a poblaciones de especiales características sociodemográficas.
 
@@ -344,26 +312,21 @@ Las Administraciones educativas competentes adaptarán lo dispuesto en este real
 
 3. A los efectos previstos en esta disposición, las Administraciones educativas competentes adecuarán los requisitos previstos en los títulos II y III de este real decreto a las especiales características y dimensiones de estos centros.
 
-
 #### Disposición adicional cuarta. Centros docentes reconocidos por acuerdos internacionales.
 
 Los requisitos de los centros docentes cuyo carácter específico esté reconocido por acuerdos internacionales de carácter bilateral podrán ser adaptados por el Ministerio de Educación.
-
 
 #### Disposición adicional quinta. Centros acogidos al régimen de conciertos.
 
 Lo dispuesto en el presente real decreto sobre número máximo de alumnos por unidad escolar debe entenderse sin perjuicio de la obligación de los centros acogidos al régimen de conciertos educativos de que la unidades concertadas tengan una relación media alumnos/profesor por unidad escolar no inferior a la que determine la Administración educativa, teniendo en cuenta la existente para los centros públicos de la comarca, municipio, o, en su caso, distrito en el que esté situado el centro.
 
-
 #### Disposición adicional sexta. Inscripción en Registro.
 
 Los centros públicos y los centros privados autorizados serán inscritos en un registro público dependiente de la Administración educativa competente, que deberá dar traslado de los asientos registrales al Ministerio de Educación, en el plazo máximo de un mes, de acuerdo con el artículo 13 de la Ley Orgánica reguladora del Derecho a la Educación, desarrollado por el Real Decreto 276/2003, de 7 de marzo, por el que se regula el Registro estatal de centros docentes no universitarios.
 
-
 #### Disposición adicional séptima. Centros sometidos al Derecho común.
 
 En aplicación de lo establecido en el artículo 24.1 de la Ley Orgánica 8/1985, de 3 de julio, reguladora del Derecho a la Educación, los centros privados que impartan enseñanzas que no estén reguladas en la Ley Orgánica 2/2006, de 3 de mayo, de Educación, que están sometidos a las normas de derecho común, no podrán utilizar ninguna de las denominaciones genéricas establecidas en dicha ley para los centros docentes, ni cualesquiera otras que pudieran inducir a error o confusión con aquellas.
-
 
 #### Disposición adicional octava. Profesionales habilitados.
 
@@ -371,11 +334,9 @@ En aplicación de lo establecido en el artículo 24.1 de la Ley Orgánica 8/1985
 
 2. Así mismo, a partir de la entrada en vigor de este decreto, no podrán iniciarse procedimientos de habilitación para los profesionales que carecen de la formación inicial adecuada.
 
-
 #### Disposición adicional novena. Referencias genéricas.
 
 Todas las referencias para las que en este real decreto se utiliza la forma de masculino genérico, deben entenderse aplicables, indistintamente, a mujeres y a hombres.
-
 
 #### Disposición transitoria primera. Solicitudes de autorización de nuevos centros.
 
@@ -385,16 +346,13 @@ Todas las referencias para las que en este real decreto se utiliza la forma de m
 
 3. Los centros que a la entrada en vigor del presente real decreto tengan aprobado por la Administración educativa el proyecto de obras requerido para la autorización del mismo, se regirán, en lo relacionado a las instalaciones, a la normativa en vigor en el momento de realizar dicha aprobación.
 
-
 #### Disposición transitoria segunda. Acreditación de la habilitación para la docencia.
 
 Las Administraciones educativas procederán en el plazo de dos años desde la entrada en vigor de este real decreto, a la acreditación expresa del cumplimiento de los requisitos a los que se refiere el apartado primero de la disposición adicional octava.
 
-
 #### Disposición transitoria tercera. Vigencia del Real Decreto 1004/1991, de 14 de junio, por el que se establecen los requisitos mínimos de los centros que impartan enseñanzas de régimen general no universitarias.
 
 Sin perjuicio de lo establecido en la disposición derogatoria única, lo dispuesto en los artículos 10 y 13 del Real Decreto 1004/1991, de 14 de junio, por el que se establecen los requisitos mínimos de los centros que impartan enseñanzas de régimen general no universitarias, en lo relativo a los requisitos mínimos de instalaciones y ratios de los centros docentes que imparten el primer ciclo de la educación infantil, será de aplicación en tanto que las Administraciones educativas no lo regulen en su ámbito de competencias.
-
 
 #### Disposición derogatoria única. Derogación normativa.
 
@@ -402,20 +360,15 @@ Sin perjuicio de lo establecido en la disposición derogatoria única, lo dispue
 
 2. Quedan derogadas cuantas disposiciones de igual o inferior rango se opongan a lo dispuesto en este real decreto.
 
-
 #### Disposición final primera. Título competencial.
 
 Este real decreto tiene carácter de norma básica y se dicta al amparo de lo dispuesto en el artículo 149.1.1.º sobre regulación de las condiciones básicas que garanticen la igualdad de todos los españoles en el ejercicio de los derechos y en el cumplimiento de los deberes constitucionales y 30.º de la Constitución que atribuye al Estado la competencia para dictar normas básicas para el desarrollo del artículo 27 de la Constitución, a fin de garantizar el cumplimiento de las obligaciones de los poderes públicos en esta materia.
-
 
 #### Disposición final segunda. Desarrollo normativo.
 
 Corresponde al Ministro de Educación y a los órganos competentes de las Comunidades Autónomas, en el ámbito de sus competencias respectivas, dictar cuantas disposiciones sean precisas para el desarrollo y ejecución de lo dispuesto en este real decreto.
 
-
 #### Disposición final tercera. Entrada en vigor.
-
-El presente real decreto entrará en vigor el día siguiente al de su publicación en el «Boletín Oficial del Estado».
 
 Dado en Madrid, el 12 de febrero de 2010.
 

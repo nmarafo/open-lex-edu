@@ -54,8 +54,6 @@ Mapa web
 
 Contacto
 
-Versión texto
-
 Inicio
 
 Archivo
@@ -72,15 +70,9 @@ Año 1999
 
 1999/079. Viernes 18 de Junio de 1999
 
-1007
-
-<p>Menú de búsqueda y navegación</p>
-
 Anterior
 
 Siguiente
-
-BOC Nº 079. Viernes 18 de Junio de 1999 - 1007
 
 II. AUTORIDADES Y PERSONAL - Otras Administraciones - Universidad de La Laguna
 
@@ -101,9 +93,3 @@ Cuarto.- El plazo de presentación de solicitudes es de veinte días naturales, 
 Quinto.- Las relaciones provisionales de admitidos y excluidos se harán públicas en el Boletín Oficial de Canarias y en los tablones de anuncios del Rectorado.
 
 La Laguna, a 15 de abril de 1999.- El Rector, José S. Gómez Soliño.
-
-© Gobierno de Canarias
-
-Aviso Legal
-
-Sugerencias y Reclamaciones

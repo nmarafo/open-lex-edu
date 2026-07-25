@@ -30,10 +30,7 @@ fuente_pdf_oficial: https://sede.gobiernodecanarias.org/boc/boc-a-2019-024-502.p
 
 # Resolución de 29 de enero de 2019, por la que se aprueba la convocatoria de reconocimiento de la trayectoria y proyección internacional de los centros educativos públicos no universitarios de la Comunidad Autónoma de Canarias (BOC n.º 24, de 5 de febrero).
 
-Boletín Oficial de Canarias núm. 24
-https://sede.gobcan.es/boc
 Martes 5 de febrero de 2019
-4579
 III. Otras Resoluciones
 Consejería de Educación y Universidades
 502 Viceconsejería de Educación y Universidades.- Resolución de 29 de enero de 
@@ -72,13 +69,8 @@ previstas en su artículo 14, la de “velar de forma permanente por la calidad 
 en la escuela pública, mediante [...] la promoción de proyectos educativos y curriculares 
 adaptados a las necesidades del alumnado [...]” [apartado d)].
 Página 
-boc-a-2019-024-502
 
-
-Boletín Oficial de Canarias núm. 24
-https://sede.gobcan.es/boc
 Martes 5 de febrero de 2019
-4580
 Por otra parte, señala en su artículo 22 que la consejería competente en materia educativa 
 promoverá la cooperación entre los centros y servicios educativos, tanto autonómica como 
 estatal e internacional; y favorecerá el funcionamiento cooperativo de los centros educativos, 
@@ -117,13 +109,8 @@ recurso de alzada ante la Sra. Consejera de Educación y Universidades, en el pl
 mes, a contar desde el día siguiente al de su publicación.
 Santa Cruz de Tenerife, a 29 de enero de 2019.- El Viceconsejero Educación y 
 Universidades, David Pérez-Dionis Chinea. 
-boc-a-2019-024-502
 
-
-Boletín Oficial de Canarias núm. 24
-https://sede.gobcan.es/boc
 Martes 5 de febrero de 2019
-4581
 A N E X O  I
 BASES 
 Primera.- Objeto.
@@ -157,13 +144,8 @@ Tercera.- Solicitud, documentación y plazo de presentación.
 1. Solicitud y documentación:
 Los centros educativos interesados en participar en la presente convocatoria deberá 
 presentar, exclusivamente por medios electrónicos, la solicitud de participación y la 
-boc-a-2019-024-502
 
-
-Boletín Oficial de Canarias núm. 24
-https://sede.gobcan.es/boc
 Martes 5 de febrero de 2019
-4582
 documentación justificativa, según modelo establecido en el Anexo II de la presente 
 Resolución. 
 La presentación telemática de la solicitud se realizará a través del enlace http://
@@ -197,13 +179,8 @@ a) Analizar las solicitudes y la documentación acreditativa de los méritos apo
 b) Valorar las solicitudes presentadas conforme al baremo establecido. 
 c) Elevar al titular de la Viceconsejería de Educación y Universidades propuesta de 
 resolución de centros seleccionados y ordenados conforme al baremo establecido.
-boc-a-2019-024-502
 
-
-Boletín Oficial de Canarias núm. 24
-https://sede.gobcan.es/boc
 Martes 5 de febrero de 2019
-4583
 Quinta.- Valoración y selección.
 1. Concluido el plazo de presentación de solicitudes, la comisión estudiará cada solicitud 
 y analizará la documentación acreditativa de los méritos presentada, con la finalidad de 
@@ -239,13 +216,8 @@ submarca dependiente de la ECIE.
 Asimismo, se comprometen a participar en cuantas acciones se desarrollen, en el marco 
 de la Estrategia Canaria de Internacionalización de la Educación no universitaria, para la 
 difusión y visibilización de las acciones de internacionalización de los centros educativos.
-boc-a-2019-024-502
 
-
-Boletín Oficial de Canarias núm. 24
-https://sede.gobcan.es/boc
 Martes 5 de febrero de 2019
-4584
 ANEXO II 
 MODELO DE SOLICITUD
 (A cumplimentar de forma telemática)
@@ -292,13 +264,8 @@ En la dirección https://sede.gobcan.es/sede/verifica_doc puede ser comprobada l
 autenticidad de esta copia, mediante el número de documento electrónico siguiente:
 0zeqg2XyPlfDKNHYdDFYjx9JEkn_Cnf50
 El presente documento ha sido descargado el 31/01/2019 - 14:45:01
-boc-a-2019-024-502
 
-
-Boletín Oficial de Canarias núm. 24
-https://sede.gobcan.es/boc
 Martes 5 de febrero de 2019
-4585
 ANEXO III
 BAREMO
 Nivel: 0= Ausencia; 1 Bajo; 2 Medio; 3 Alto 
@@ -376,13 +343,8 @@ En la dirección https://sede.gobcan.es/sede/verifica_doc puede ser comprobada l
 autenticidad de esta copia, mediante el número de documento electrónico siguiente:
 0q5jSBbXDISSXulax6a4N5utCCfR3Atyq
 El presente documento ha sido descargado el 31/01/2019 - 14:44:58
-boc-a-2019-024-502
 
-
-Boletín Oficial de Canarias núm. 24
-https://sede.gobcan.es/boc
 Martes 5 de febrero de 2019
-4586
 4 PARTICIPACIÓN DE OTROS MIEMBROS 
 DE LA COMUNIDAD EDUCATIVA:
 Las familias y otros agentes que forman parte de 
@@ -453,13 +415,8 @@ En la dirección https://sede.gobcan.es/sede/verifica_doc puede ser comprobada l
 autenticidad de esta copia, mediante el número de documento electrónico siguiente:
 0q5jSBbXDISSXulax6a4N5utCCfR3Atyq
 El presente documento ha sido descargado el 31/01/2019 - 14:44:58
-boc-a-2019-024-502
 
-
-Boletín Oficial de Canarias núm. 24
-https://sede.gobcan.es/boc
 Martes 5 de febrero de 2019
-4587
 7 CAMBIOS PROVOCADOS (IMPACTO Y 
 SOSTENIBILIDAD): 
 El centro ha implementado mejoras relacionadas 
@@ -527,13 +484,8 @@ En la dirección https://sede.gobcan.es/sede/verifica_doc puede ser comprobada l
 autenticidad de esta copia, mediante el número de documento electrónico siguiente:
 0q5jSBbXDISSXulax6a4N5utCCfR3Atyq
 El presente documento ha sido descargado el 31/01/2019 - 14:44:58
-boc-a-2019-024-502
 
-
-Boletín Oficial de Canarias núm. 24
-https://sede.gobcan.es/boc
 Martes 5 de febrero de 2019
-4588
 9 PREMIOS, RECONOCIMIENTOS:
 Han  obtenido  algún  tipo  de  reconocimiento  a 
 nivel  local,  nacional  o  Internacional  (premio 
@@ -559,5 +511,3 @@ En la dirección https://sede.gobcan.es/sede/verifica_doc puede ser comprobada l
 autenticidad de esta copia, mediante el número de documento electrónico siguiente:
 0q5jSBbXDISSXulax6a4N5utCCfR3Atyq
 El presente documento ha sido descargado el 31/01/2019 - 14:44:58
-boc-a-2019-024-502
-

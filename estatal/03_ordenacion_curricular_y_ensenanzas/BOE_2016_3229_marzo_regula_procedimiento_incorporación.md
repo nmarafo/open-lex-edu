@@ -46,11 +46,9 @@ En la elaboración de esta orden se ha consultado a las Comunidades Autónomas e
 
 Por todo ello, dispongo:
 
-
 #### Artículo 1. Objeto.
 
 Esta orden tiene por objeto establecer el procedimiento de incorporación del alumnado a un curso de Educación Secundaria Obligatoria o de Bachillerato del sistema educativo definido por la Ley Orgánica 8/2013, de 9 de diciembre, para la Mejora de la Calidad Educativa, con materias no superadas del currículo anterior a su implantación.
-
 
 #### Artículo 2. Educación Secundaria Obligatoria.
 
@@ -61,7 +59,6 @@ El alumnado deberá recuperar las materias cursadas y no superadas de los cursos
 En el caso de que las materias cursadas y no superadas, conforme al citado anexo, formen parte del bloque de asignaturas específicas, el alumno o alumna podrá optar, bien por cursarlas de nuevo, bien por sustituirlas por cualquier otra de su elección dentro de las pertenecientes al mismo bloque, con arreglo a la regulación establecida por las Administraciones educativas.
 
 2. Para obtener el título de Graduado en Educación Secundaria Obligatoria se deberán cumplir los requisitos establecidos en el artículo 23 del Real Decreto 1105/2014, de 26 de diciembre. Sin perjuicio de lo anterior, el alumnado que no haya obtenido el título de Graduado en Educación Secundaria podrá optar por presentarse a las pruebas anuales previstas en el artículo 68.2 de la Ley Orgánica 2/2006, de 3 de mayo, para la obtención del título de Graduado en Educación Secundaria Obligatoria, siempre que reúna los requisitos establecidos. Las Administraciones educativas determinarán las partes que se consideran superadas de dichas pruebas, en función de las materias o ámbitos cursados y las calificaciones obtenidas en los años que el alumno o alumna haya permanecido escolarizado en la Educación Secundaria Obligatoria.
-
 
 #### Artículo 3. Bachillerato.
 
@@ -83,7 +80,6 @@ En el caso de que las materias cursadas y no superadas, conforme al citado anexo
 
 6. A todos los efectos, habrá de considerarse en los apartados anteriores que el alumnado que con anterioridad al curso 2015-2016, en el caso de primero de Bachillerato y del curso 2016-2017, en el caso de segundo, cursaba la modalidad de Ciencias y Tecnología le corresponderá la nueva modalidad de Ciencias.
 
-
 #### Artículo 4. Materias que no forman parte de la oferta educativa.
 
 El alumnado que tenga materias no superadas que hayan dejado de formar parte de la oferta educativa establecida por cada Administración educativa para las enseñanzas objeto de esta orden, podrá optar por no volver a cursarlas, en cuyo caso la calificación que hubiera obtenido previamente no será tenida en cuenta para el cálculo de la media de las calificaciones numéricas obtenidas en cada una de las materias cursadas en la etapa, o por sustituirlas por otra de su elección con arreglo a la regulación establecida por las Administraciones educativas.
@@ -92,20 +88,15 @@ Cualquiera de estas opciones estará supeditada a que el número de materias per
 
 El alumno o alumna o en su caso sus padres, madres o tutores legales, deberá dejar constancia escrita de la opción escogida al efectuar la matrícula.
 
-
 #### Disposición transitoria única. Evaluación conforme al currículo cursado.
 
 Excepcionalmente y con arreglo a lo dispuesto por las Administraciones educativas, durante los cursos 2015-2016 y 2016-2017 el alumnado al que le sea de aplicación lo dispuesto en esta orden podrá ser evaluado de las materias no superadas conforme al currículo que hubiera cursado.
-
 
 #### Disposición final primera. Título competencial.
 
 Esta orden se dicta al amparo del artículo 149.1.30.ª de la Constitución, que atribuye al Estado las competencias para la regulación de las condiciones de obtención, expedición y homologación de títulos académicos y profesionales y normas básicas para el desarrollo del artículo 27 de la Constitución, a fin de garantizar el cumplimiento de las obligaciones de los poderes públicos en esta materia.
 
-
 #### Disposición final segunda. Entrada en vigor.
-
-La presente orden entrará en vigor el día siguiente al de su publicación en el «Boletín Oficial del Estado», y será de aplicación en función del calendario de implantación recogido en la disposición final primera del Real Decreto 1105/2014, de 26 de diciembre.
 
 Madrid, 31 de marzo de 2016.–El Ministro de Educación, Cultura y Deporte, Íñigo Méndez de Vigo y Montojo.
 

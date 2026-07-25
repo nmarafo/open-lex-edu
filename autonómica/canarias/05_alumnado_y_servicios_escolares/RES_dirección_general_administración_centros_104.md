@@ -32,9 +32,6 @@ fuente_pdf_oficial: https://sede.gobiernodecanarias.org/boc/boc-a-2025-039-739.p
 
 # Resolución de 17 de febrero de 2025,de la Dirección General de Administración de Centros, Escolarización y Servicios Complementarios, por la que se dictan instrucciones específicas y se convoca procedimiento extraordinario de admisión del alumnado del primer ciclo de Educación Infantil en determinados centros docentes dependientes de esta Consejería, para el curso escolar 2024-2025.
 
-https://sede.gobiernodecanarias.org/boc
-boc-a-2025-039-739
-Boletín Oficial de Canarias núm. 39 Martes 25 de febrero de 20258059
 III. Otras Resoluciones
 Consejería de Educación, Formación Profesional, Actividad Física y Deportes
 739 Dirección General de Administración de Centros, Escolarización y Servicios 
@@ -76,9 +73,6 @@ de alzada a las citadas listas, puesto que el periodo de la matriculación del a
 previamente admitido, se realizará en fechas diferentes dependiendo del centro educativo y 
 la adecuación del aula, lo que será comunicado oportunamente a cada familia.
 
-https://sede.gobiernodecanarias.org/boc
-boc-a-2025-039-739
-Boletín Oficial de Canarias núm. 39 Martes 25 de febrero de 20258060
 FUNDAMENTOS DE DERECHO
 Primero.- El Decreto 9/2022, de 20 de enero, por el que se regula la admisión del 
 alumnado en centros docentes que oferten enseñanzas no universitarias sostenidas con 
@@ -118,9 +112,6 @@ Tercero.- Ordenar la publicación en el Boletín Oficial de Canarias y en la pá
 de la Consejería de Educación, Formación Profesional, Actividad Física y Deportes para 
 su divulgación.
 
-https://sede.gobiernodecanarias.org/boc
-boc-a-2025-039-739
-Boletín Oficial de Canarias núm. 39 Martes 25 de febrero de 20258061
 Contra el presente acto, que no pone fin a la vía administrativa, cabe interponer en el 
 plazo de un mes, a contar desde el día siguiente al de su publicación en el Boletín Oficial de 
 Canarias, recurso de alzada ante la Viceconsejería de Educación, sin perjuicio de cualquier 
@@ -129,9 +120,6 @@ Las Palmas de Gran Canaria, a 17 de febrero de 2025.- El Director General de
 Administración de Centros, Escolarización y Servicios Complementarios, David Crego 
 Chaves.
 
-https://sede.gobiernodecanarias.org/boc
-boc-a-2025-039-739
-Boletín Oficial de Canarias núm. 39 Martes 25 de febrero de 20258062
 ANEXO I
 INSTRUCCIONES
 Primera.- Trámites iniciales.
@@ -170,9 +158,6 @@ en el ámbito de las enseñanzas no universitarias de la Comunidad Autónoma de 
 2. La firma de la solicitud supone la aceptación de las comunicaciones del procedimiento 
 de admisión a través de la dirección del correo electrónico que haya señalado en la misma.
 
-https://sede.gobiernodecanarias.org/boc
-boc-a-2025-039-739
-Boletín Oficial de Canarias núm. 39 Martes 25 de febrero de 20258063
 3. Dentro del periodo de solicitud de plaza escolar, las personas solicitantes podrán 
 desistir de la solicitud presentada.
 Cuarta.- Exclusión de solicitudes por duplicidad.
@@ -211,9 +196,6 @@ oficio los errores que se hayan podido detectar en las solicitudes tramitadas.
 obtener una plaza en estas enseñanzas. La renuncia debe ser presentada en el propio centro 
 educativo usando el mismo formulario.
 
-https://sede.gobiernodecanarias.org/boc
-boc-a-2025-039-739
-Boletín Oficial de Canarias núm. 39 Martes 25 de febrero de 20258064
 Novena.- Publicación de las listas de adjudicación definitiva.
 1. Los centros educativos publicarán en sus tablones de anuncios las listas definitivas 
 del alumnado admitido, no admitido, excluido, con indicación del motivo de la exclusión, 
@@ -247,9 +229,6 @@ Primaria, Educación Secundaria Obligatoria, Bachillerato y Educación de Person
 en los centros docentes sostenidos con fondos públicos en la Comunidad Autónoma de 
 Canarias, salvo que contradiga lo dispuesto en la presente Resolución.
 
-boc-a-2025-039-739
-Boletín Oficial de Canarias núm. 39 Martes 25 de febrero de 20258065
-https://sede.gobiernodecanarias.org/boc
 ANEXO II
 CENTROS DOCENTES Y CURSOS DEL PRIMER CICLO DE EDUCACIÓN INFANTIL 
 CURSO 2024-2025
@@ -313,9 +292,6 @@ ANEXO II
 CENTROS DOCENTES Y CURSOS DEL PRIMER CICLO DE EDUCACIÓN INFANTIL 
 CURSO 2024-2025
 
-boc-a-2025-039-739
-Boletín Oficial de Canarias núm. 39 Martes 25 de febrero de 20258066
-https://sede.gobiernodecanarias.org/boc
 ANEXO III
 CALENDARIO DEL PROCEDIMIENTO EXTRAORDINARIO DE ADMISIÓN DEL 
 PRIMER CICLO DE EDUCACIÓN INFANTIL
@@ -379,9 +355,6 @@ reclamaciones resueltas favorablemente por el Consejo Escolar.
 17 de marzo Publicación de las LISTAS DEFINITIVAS de admitidos, no admitidos y excluidos.
 1 mes RECURSOS ante las Direcciones Territoriales de Educación.
 
-boc-a-2025-039-739
-Boletín Oficial de Canarias núm. 39 Martes 25 de febrero de 20258067
-https://sede.gobiernodecanarias.org/boc
  
 ANEXO IV
 SOLICITUD DE PLAZA PRIMER CICLO DE EDUCACIÓN INFANTIL
@@ -422,9 +395,6 @@ económico abonado por cualquier administración pública(9)
 cualquier Administración pública (8) Otros criterios de admisión o preferencia en zona educativa(10)
 ANEXO IV
 
-boc-a-2025-039-739
-Boletín Oficial de Canarias núm. 39 Martes 25 de febrero de 20258068
-https://sede.gobiernodecanarias.org/boc
 N.º de MIEMBROS DE LA UNIDAD FAMILIAR(11)
 Nombre 11ererApellidoApellido 22dodo Apellido Apellido NIF o NIE Sexo Fecha 
 nacimiento
@@ -484,9 +454,6 @@ DNI o  NIE:
 Fdo.: Tutor, tutora, guardador o guardadora (en 
 su caso)
 
-boc-a-2025-039-739
-Boletín Oficial de Canarias núm. 39 Martes 25 de febrero de 20258069
-https://sede.gobiernodecanarias.org/boc
 PROTECCIÓN DE DATOS: Tratamiento de datos de carácter personal:"Admisión del alumnado". Responsable del tratamiento: Consejería de Educación, Formación
 Profesional, Actividad Física y Deportes del Gobierno de Canarias. Finalidad del tratamiento: Gestionar la escolarización del alumnado que accede por primera vez a un
 centro público o privado concertado de enseñanzas no universitarias o que accede a enseñanzas postobligatorias. Legitimación:- Artículo 6.1.c) y e) del Reglamento UE

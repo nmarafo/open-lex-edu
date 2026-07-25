@@ -30,10 +30,7 @@ fuente_pdf_oficial: https://sede.gobiernodecanarias.org/boc/boc-a-2018-124-3068.
 
 # Resolución de 21 de junio de 2018, de la Viceconsejería de Educación y Universidades, por la que se dictan instrucciones de organización y funcionamiento dirigidas a los centros docentes públicos no universitarios de la Comunidad Autónoma de Canarias para el curso 2018/19 (BOC n.º 124, de 28 de junio).
 
-Boletín Oficial de Canarias núm. 124
-https://sede.gobcan.es/boc
 Jueves 28 de junio de 2018
-21084
 III. Otras Resoluciones
 Consejería de Educación y Universidades
 3068 Viceconsejería de Educación y Universidades.- Resolución de 21 de junio de 2018, 
@@ -74,13 +71,8 @@ FUNDAMENTOS DE DERECHO
 Primero.- La Ley Orgánica 2/2006, de 3 de mayo, de Educación (en adelante LOE) 
 reconoce la autonomía pedagógica y de gestión de los centros docentes y define el ejercicio 
 Página 
-boc-a-2018-124-3068
 
-
-Boletín Oficial de Canarias núm. 124
-https://sede.gobcan.es/boc
 Jueves 28 de junio de 2018
-21085
 efectivo de esa autonomía a través de la elaboración de distintos planes, proyectos y 
 programaciones. El reconocimiento de esa autonomía, y su ejercicio efectivo, evidencian una 
 de las características esenciales del sistema educativo no universitario: su descentralización, 
@@ -121,13 +113,8 @@ Educación Secundaria Obligatoria y el Bachillerato en la Comunidad Autónoma de
 (BOC nº 136, de 15 de julio).
 Séptimo.- El Decreto 81/2010, de 8 de julio, por el que se aprueba el Reglamento Orgánico 
 de los centros docentes públicos no universitarios de la Comunidad Autónoma de Canarias 
-boc-a-2018-124-3068
 
-
-Boletín Oficial de Canarias núm. 124
-https://sede.gobcan.es/boc
 Jueves 28 de junio de 2018
-21086
 (BOC nº 143, de 22 de julio) establece en su artículo 38 que dichos centros dispondrán de 
 autonomía pedagógica para elaborar, aprobar y ejecutar un proyecto educativo, un proyecto 
 de gestión, así como las normas de organización, funcionamiento y convivencia del centro, 
@@ -169,13 +156,8 @@ mujeres y hombres (BOE nº 71, de 23 de marzo), la Ley 1/2010, de 26 de febrero,
 de Igualdad entre mujeres y hombres (BOC nº 45, de 5 de marzo), la Ley 8/2014, de 28 
 de octubre, de no discriminación por motivos de identidad de género y de reconocimiento 
 de los derechos de las personas transexuales (BOC nº 215, de 5 de noviembre) y la Ley 
-boc-a-2018-124-3068
 
-
-Boletín Oficial de Canarias núm. 124
-https://sede.gobcan.es/boc
 Jueves 28 de junio de 2018
-21087
 Orgánica 1/1996, de 15 de enero, de Protección Jurídica del Menor, de modificación parcial 
 del Código Civil y de la Ley de Enjuiciamiento Civil (BOE nº 15, de 16 de febrero).
 Duodécimo.- De acuerdo con lo expuesto, en virtud de lo previsto en la Ley 40/2015, 
@@ -213,13 +195,8 @@ preventivas y de apoyo en contextos inclusivos.
 4. Implementar un modelo educativo desde los principios de la coeducación que 
 dé respuesta a las necesidades del desarrollo integral del alumnado desde un visión 
 multidimensional que contemple la igualdad como un valor de primer orden.
-boc-a-2018-124-3068
 
-
-Boletín Oficial de Canarias núm. 124
-https://sede.gobcan.es/boc
 Jueves 28 de junio de 2018
-21088
 5. Impulsar el desarrollo de la competencia en comunicación lingüística a través de 
 acciones transversales e interdisciplinares relacionadas con su integración en todos los 
 programas educativos.
@@ -256,25 +233,15 @@ para su divulgación y aplicación general en la página web de la CEU y serán 
 direcciones de los centros para que sean puestas en conocimiento del profesorado y demás 
 personal del centro mediante la publicación en el tablón de anuncios del mismo, así como a 
 través de cualesquiera otros medios que se estime pertinente.
-boc-a-2018-124-3068
 
-
-Boletín Oficial de Canarias núm. 124
-https://sede.gobcan.es/boc
 Jueves 28 de junio de 2018
-21089
 Quinto.- Cada uno de los centros directivos dependientes de la Viceconsejería de 
 Educación y Universidades, según las competencias que le corresponden, velará por el 
 cumplimiento de lo recogido en la presente Resolución.
 Santa Cruz de Tenerife, a 21 de junio de 2018.- El Viceconsejero de Educación y 
 Universidades, David Pérez-Dionis Chinea.
-boc-a-2018-124-3068
 
-
-Boletín Oficial de Canarias núm. 124
-https://sede.gobcan.es/boc
 Jueves 28 de junio de 2018
-21090
 A N E X O  I
 INSTRUCCIONES COMUNES A LOS CENTROS DOCENTES PÚBLICOS NO UNIVERSITARIOS
 1. AUTONOMÍA DE LOS CENTROS Y PROCESOS DE MEJORA.
@@ -310,13 +277,8 @@ marco general de actuación ante un posible acoso escolar.
 1.2. el diseño de actuaciones a corto, medio y largo plazo del Marco de actuación.
 1.3. Asimismo deberá incluir información básica sobre la ayuda que ofrece el Servicio de 
 Prevención y Ayuda contra el Acoso Escolar (SPACAE).
-boc-a-2018-124-3068
 
-
-Boletín Oficial de Canarias núm. 124
-https://sede.gobcan.es/boc
 Jueves 28 de junio de 2018
-21091
 Asimismo, los centros educativos incluirán actuaciones de sensibilización, visibilización 
 y prevención de la violencia de género y violencias de origen sexista, en sus documentos 
 oficiales, de acuerdo a lo establecido en el Plan de Igualdad y de prevención de la violencia 
@@ -359,13 +321,8 @@ antes de la evaluación final ordinaria, sin la cual no se podrá calificar a es
 le tendrá en cuenta a efectos de promoción o titulación.
 Para ello, los centros educativos deben confirmar con el alumnado que se encuentre 
 en esta situación, o con su familia o representantes legales, la efectiva convalidación u 
-boc-a-2018-124-3068
 
-
-Boletín Oficial de Canarias núm. 124
-https://sede.gobcan.es/boc
 Jueves 28 de junio de 2018
-21092
 homologación de estudios y títulos extranjeros, al menos, antes de la finalización del segundo 
 trimestre del curso escolar.
 1.10. Respecto a los días de libre disposición regulados en la Resolución de 17 de mayo 
@@ -391,13 +348,8 @@ viajes.
 1.13. En caso de daños en el inmueble del centro escolar, el protocolo y parte de siniestro 
 que debe ser cumplimentado se encuentran publicados en la siguiente dirección electrónica:
 http://www.gobiernodecanarias.org/hacienda/dgpatrimonio/seguros/index.jsp
-boc-a-2018-124-3068
 
-
-Boletín Oficial de Canarias núm. 124
-https://sede.gobcan.es/boc
 Jueves 28 de junio de 2018
-21093
 A N E X O  I I
 CENTROS PÚBLICOS DE EDUCACIÓN INFANTIL Y PRIMARIA
 1. ATENCIÓN EDUCATIV A Y DISPONIBILIDAD HORARIA.
@@ -436,13 +388,8 @@ nº 331/2016, de 9 de septiembre de 2016, de la Excma. Sra. Consejera de Educaci
 Universidades de corrección de errores de la Orden de 10 de agosto de 2016, por la que 
 se establece el horario de las distintas áreas correspondientes a la educación primaria en 
 Canarias, según se opte por sesiones de 45 o 60 minutos.
-boc-a-2018-124-3068
 
-
-Boletín Oficial de Canarias núm. 124
-https://sede.gobcan.es/boc
 Jueves 28 de junio de 2018
-21094
 1.6. Todos los centros impartirán, al menos, el área de Segunda Lengua Extranjera -francés 
 o alemán- en quinto y sexto curso de Educación Primaria, de acuerdo con el horario semanal 
 mínimo indicado anteriormente. Los centros que tengan dos grupos o más en quinto curso 
@@ -484,13 +431,8 @@ Ed. emocional y para la creatividad 2 2 2 2
 Profundización curricular de un área 1 1 1 1 1 1
 RECREO Detraer 30 minutos diarios de recreo
 Total sesiones 25 25 25 25 25 25
-boc-a-2018-124-3068
 
-
-Boletín Oficial de Canarias núm. 124
-https://sede.gobcan.es/boc
 Jueves 28 de junio de 2018
-21095
 1.8. A los efectos de evaluación y promoción en la etapa se estará a lo dispuesto en 
 la Orden de 21 de abril de 2015, por la que se regula la evaluación y la promoción del 
 alumnado que cursa la etapa de Educación Primaria (BOC nº 85, de 6 de mayo). No obstante, 
@@ -532,13 +474,8 @@ C de 18 a 26 32 horas
 D de 9 a 17 26 horas
 E de 6 a 8 16 horas
 F menos de 6 5 horas
-boc-a-2018-124-3068
 
-
-Boletín Oficial de Canarias núm. 124
-https://sede.gobcan.es/boc
 Jueves 28 de junio de 2018
-21096
 1.11. A la persona que ejerza la coordinación de un colectivo de escuelas rurales le 
 corresponderá la disponibilidad horaria que se establece en el siguiente cuadro, incompatible 
 con la contemplada en el cuadro anterior.
@@ -654,13 +591,8 @@ En la dirección https://sede.gobcan.es/sede/verifica_doc puede ser comprobada l
 autenticidad de esta copia, mediante el número de documento electrónico siguiente:
 0bqNz4CZ0XJ9uClnMfnrNzVFZBwonqE5g
 El presente documento ha sido descargado el 25/06/2018 - 10:22:48
-boc-a-2018-124-3068
 
-
-Boletín Oficial de Canarias núm. 124
-https://sede.gobcan.es/boc
 Jueves 28 de junio de 2018
-21097
 Folio 13/38
 Cuadro 1.- Actividades que se computarán dentro del  horario lectivo y complementario (1 hora por sesió n)
 ACTIVIDAD/FUNCIÓN CARACTERÍSTICAS
@@ -1196,13 +1128,8 @@ En la dirección https://sede.gobcan.es/sede/verifica_doc puede ser comprobada l
 autenticidad de esta copia, mediante el número de documento electrónico siguiente:
 0bqNz4CZ0XJ9uClnMfnrNzVFZBwonqE5g
 El presente documento ha sido descargado el 25/06/2018 - 10:22:48
-boc-a-2018-124-3068
 
-
-Boletín Oficial de Canarias núm. 124
-https://sede.gobcan.es/boc
 Jueves 28 de junio de 2018
-21098
 Folio 13/38
 Cuadro 1.- Actividades que se computarán dentro del  horario lectivo y complementario (1 hora por sesió n)
 ACTIVIDAD/FUNCIÓN CARACTERÍSTICAS
@@ -1730,13 +1657,8 @@ En la dirección https://sede.gobcan.es/sede/verifica_doc puede ser comprobada l
 autenticidad de esta copia, mediante el número de documento electrónico siguiente:
 0bqNz4CZ0XJ9uClnMfnrNzVFZBwonqE5g
 El presente documento ha sido descargado el 25/06/2018 - 10:22:48
-boc-a-2018-124-3068
 
-
-Boletín Oficial de Canarias núm. 124
-https://sede.gobcan.es/boc
 Jueves 28 de junio de 2018
-21099
 1.14. En el supuesto de nombramientos de maestras y maestros a tiempo parcial, dicha 
 jornada de trabajo lleva implícita la obligación de cumplir con el número correspondiente de 
 horas lectivas, horas complementarias, horas de asistencia a actividades de periodicidad no 
@@ -1930,13 +1852,8 @@ En la dirección https://sede.gobcan.es/sede/verifica_doc puede ser comprobada l
 autenticidad de esta copia, mediante el número de documento electrónico siguiente:
 0bqNz4CZ0XJ9uClnMfnrNzVFZBwonqE5g
 El presente documento ha sido descargado el 25/06/2018 - 10:22:48
-boc-a-2018-124-3068
 
-
-Boletín Oficial de Canarias núm. 124
-https://sede.gobcan.es/boc
 Jueves 28 de junio de 2018
-21100
 1.15. La gestión de la disponibilidad horaria del centro se realizará una vez autorizada, 
 con carácter definitivo, la plantilla docente del centro y una vez asignados los grupos y 
 niveles al profesorado. Los equipos directivos, oída la comisión de coordinación pedagógica, 
@@ -1996,13 +1913,8 @@ En la dirección https://sede.gobcan.es/sede/verifica_doc puede ser comprobada l
 autenticidad de esta copia, mediante el número de documento electrónico siguiente:
 0bqNz4CZ0XJ9uClnMfnrNzVFZBwonqE5g
 El presente documento ha sido descargado el 25/06/2018 - 10:22:48
-boc-a-2018-124-3068
 
-
-Boletín Oficial de Canarias núm. 124
-https://sede.gobcan.es/boc
 Jueves 28 de junio de 2018
-21101
 A N E X O  I I I
 CENTROS PÚBLICOS DE EDUCACIÓN SECUNDARIA, DE ENSEÑANZAS DE RÉGIMEN 
 ESPECIAL Y DE EDUCACIÓN DE PERSONAS ADULTAS
@@ -2042,13 +1954,8 @@ y de Formación Profesional de los centros que tengan implantados sistemas de ge
 calidad; su objetivo consiste en impulsar la transparencia y, en consecuencia, la movilidad 
 mediante un enfoque común. Los proyectos de mejora deberán incorporar compromisos 
 para aumentar el éxito escolar y reducir la tasa de abandono escolar.
-boc-a-2018-124-3068
 
-
-Boletín Oficial de Canarias núm. 124
-https://sede.gobcan.es/boc
 Jueves 28 de junio de 2018
-21102
 2.2. La CEU tiene entre sus objetivos la promoción y el desarrollo de los sistemas 
 de garantía de calidad en todos los centros que imparten Formación Profesional. Desde 
 la Dirección General de Formación Profesional y Educación de Adultos se apoyará la 
@@ -2088,13 +1995,8 @@ necesaria para mejorar la atención educativa a todo el alumnado y elevar las ta
 escolar. Esta coordinación requiere un compromiso de todo el profesorado del centro para 
 alinear los procesos de enseñanza que se desarrollan en los grupos de clase con los grandes 
 objetivos y acciones establecidos en los instrumentos de planificación general del centro.
-boc-a-2018-124-3068
 
-
-Boletín Oficial de Canarias núm. 124
-https://sede.gobcan.es/boc
 Jueves 28 de junio de 2018
-21103
 4.1.2. Para la constitución de un departamento de coordinación didáctica y el 
 reconocimiento de su jefatura se requerirá una carga lectiva mínima de 12 horas de docencia 
 directa con el alumnado de aquellas materias propias de la especialidad. A la persona que 
@@ -2135,13 +2037,8 @@ Con el objetivo de mejorar los cauces de coordinación pedagógica entre los úl
 niveles de Educación Primaria y los primeros niveles de Educación Secundaria de los 
 centros pertenecientes a un mismo distrito se desarrolla el Programa Tránsito. Se persigue, 
 de esta manera, la mejora permanente de las enseñanzas, la permanencia del alumnado en el 
-boc-a-2018-124-3068
 
-
-Boletín Oficial de Canarias núm. 124
-https://sede.gobcan.es/boc
 Jueves 28 de junio de 2018
-21104
 sistema y la disminución del abandono escolar temprano. Los centros que forman parte de 
 este programa se regirán por su normativa específica.
 4.2. Jefatura de estudios de turno y adjunta.
@@ -2181,13 +2078,8 @@ sucesivos si las circunstancias se mantuvieran, teniendo la misma duración que 
 del equipo directivo. Es competencia de la Dirección General de Personal el nombramiento 
 de la jefatura de estudios adjunta, siendo preceptivo, para esta prórroga, el informe de la 
 Inspección de Educación.
-boc-a-2018-124-3068
 
-
-Boletín Oficial de Canarias núm. 124
-https://sede.gobcan.es/boc
 Jueves 28 de junio de 2018
-21105
 5. DISPONIBILIDAD HORARIA Y PROYECTO DE GESTIÓN.
 5.1. Los centros educativos deberán establecer en su proyecto de gestión los criterios 
 para el aprovechamiento de la disponibilidad horaria con el objeto de que el profesorado 
@@ -2240,13 +2132,8 @@ En la dirección https://sede.gobcan.es/sede/verifica_doc puede ser comprobada l
 autenticidad de esta copia, mediante el número de documento electrónico siguiente:
 0bqNz4CZ0XJ9uClnMfnrNzVFZBwonqE5g
 El presente documento ha sido descargado el 25/06/2018 - 10:22:48
-boc-a-2018-124-3068
 
-
-Boletín Oficial de Canarias núm. 124
-https://sede.gobcan.es/boc
 Jueves 28 de junio de 2018
-21106
 5.5. En ningún caso se podrán impartir materias no contempladas por la Dirección 
 General de Personal con carga horaria en el aplicativo CALPLAN. Cualquier 
 circunstancia que implique modificación de las materias y grupos autorizados debe 
@@ -2288,13 +2175,8 @@ En la dirección https://sede.gobcan.es/sede/verifica_doc puede ser comprobada l
 autenticidad de esta copia, mediante el número de documento electrónico siguiente:
 0bqNz4CZ0XJ9uClnMfnrNzVFZBwonqE5g
 El presente documento ha sido descargado el 25/06/2018 - 10:22:48
-boc-a-2018-124-3068
 
-
-Boletín Oficial de Canarias núm. 124
-https://sede.gobcan.es/boc
 Jueves 28 de junio de 2018
-21107
 Los Institutos de Educación Secundaria, las Escuelas de Arte y las escuelas de Arte y 
 Superiores de Diseño que tengan matriculados más de 1600 alumnos, dispondrán de una 
 bolsa horaria adicional de 20 horas, y los que tengan matriculados más de 2000 alumnos 
@@ -2419,13 +2301,8 @@ En la dirección https://sede.gobcan.es/sede/verifica_doc puede ser comprobada l
 autenticidad de esta copia, mediante el número de documento electrónico siguiente:
 0bqNz4CZ0XJ9uClnMfnrNzVFZBwonqE5g
 El presente documento ha sido descargado el 25/06/2018 - 10:22:48
-boc-a-2018-124-3068
 
-
-Boletín Oficial de Canarias núm. 124
-https://sede.gobcan.es/boc
 Jueves 28 de junio de 2018
-21108
 Folio 25/38
 Los Institutos de Educación Secundaria, las Escuelas de Arte y las escuelas de Arte y Superiores de Diseño
 que tengan matriculados más de 1600 alumnos, dispondrán de una bolsa horaria adicional de 20 horas, y los
@@ -2825,13 +2702,8 @@ En la dirección https://sede.gobcan.es/sede/verifica_doc puede ser comprobada l
 autenticidad de esta copia, mediante el número de documento electrónico siguiente:
 0bqNz4CZ0XJ9uClnMfnrNzVFZBwonqE5g
 El presente documento ha sido descargado el 25/06/2018 - 10:22:48
-boc-a-2018-124-3068
 
-
-Boletín Oficial de Canarias núm. 124
-https://sede.gobcan.es/boc
 Jueves 28 de junio de 2018
-21109
 Folio 27/38
 higiene y la atención alimentariaResponsable  de  comedor  en  centros
 con comedor de gestión contratada
@@ -3051,13 +2923,8 @@ En la dirección https://sede.gobcan.es/sede/verifica_doc puede ser comprobada l
 autenticidad de esta copia, mediante el número de documento electrónico siguiente:
 0bqNz4CZ0XJ9uClnMfnrNzVFZBwonqE5g
 El presente documento ha sido descargado el 25/06/2018 - 10:22:48
-boc-a-2018-124-3068
 
-
-Boletín Oficial de Canarias núm. 124
-https://sede.gobcan.es/boc
 Jueves 28 de junio de 2018
-21110
 5.10. Los centros educativos podrán aplicar otros criterios organizativos distintos a los 
 regulados en la presente resolución cuando participen en planes, programas y proyectos 
 aprobados por la CEU, según las condiciones específicas en los mismos.
@@ -3568,13 +3435,8 @@ En la dirección https://sede.gobcan.es/sede/verifica_doc puede ser comprobada l
 autenticidad de esta copia, mediante el número de documento electrónico siguiente:
 0bqNz4CZ0XJ9uClnMfnrNzVFZBwonqE5g
 El presente documento ha sido descargado el 25/06/2018 - 10:22:48
-boc-a-2018-124-3068
 
-
-Boletín Oficial de Canarias núm. 124
-https://sede.gobcan.es/boc
 Jueves 28 de junio de 2018
-21111
 5.12. La atención al alumnado con NEAE en los grupos de ESO podrá realizarse mediante 
 la aplicación de una de las dos siguientes medidas educativas:
 • Reducción de la ratio, de acuerdo con lo establecido en los criterios de escolarización 
@@ -3777,13 +3639,8 @@ En la dirección https://sede.gobcan.es/sede/verifica_doc puede ser comprobada l
 autenticidad de esta copia, mediante el número de documento electrónico siguiente:
 0bqNz4CZ0XJ9uClnMfnrNzVFZBwonqE5g
 El presente documento ha sido descargado el 25/06/2018 - 10:22:48
-boc-a-2018-124-3068
 
-
-Boletín Oficial de Canarias núm. 124
-https://sede.gobcan.es/boc
 Jueves 28 de junio de 2018
-21112
 5.13. En el supuesto de nombramientos del profesorado a tiempo parcial, dicha jornada 
 de trabajo lleva implícita la obligación de cumplir con el número correspondiente de horas 
 lectivas, horas complementarias, horas de asistencia a actividades de periodicidad no 
@@ -3854,13 +3711,8 @@ En la dirección https://sede.gobcan.es/sede/verifica_doc puede ser comprobada l
 autenticidad de esta copia, mediante el número de documento electrónico siguiente:
 0bqNz4CZ0XJ9uClnMfnrNzVFZBwonqE5g
 El presente documento ha sido descargado el 25/06/2018 - 10:22:48
-boc-a-2018-124-3068
 
-
-Boletín Oficial de Canarias núm. 124
-https://sede.gobcan.es/boc
 Jueves 28 de junio de 2018
-21113
 A N E X O  I V
 CONTROL DE ASISTENCIA Y PUNTUALIDAD, INCORPORACIONES Y CESES DEL 
 PROFESORADO.
@@ -3900,13 +3752,8 @@ Territorial de Educación correspondiente, para la deducción de haberes y anota
 Registro de Personal cuando proceda, sin perjuicio de la posible iniciación de procedimiento 
 disciplinario o informativo a que hubiere lugar. El expediente se archivará en el centro 
 docente en el que se presta servicio.
-boc-a-2018-124-3068
 
-
-Boletín Oficial de Canarias núm. 124
-https://sede.gobcan.es/boc
 Jueves 28 de junio de 2018
-21114
 1.4. La totalidad de las incidencias recogidas en los partes diarios de asistencia se 
 resumirá en el parte mensual. La dirección del centro ordenará la exposición de los datos 
 estadísticos del citado parte en la sala de profesores, mediante el documento Resumen 
@@ -3949,13 +3796,8 @@ estandarizado y la duración probable del proceso patológico, especificando, as
 baja tiene carácter de continuidad.
 b) Los partes de confirmación tendrán que ser entregados en el plazo máximo de tres 
 días hábiles desde la fecha de su expedición. El parte de alta médica deberá ser entregado el 
-boc-a-2018-124-3068
 
-
-Boletín Oficial de Canarias núm. 124
-https://sede.gobcan.es/boc
 Jueves 28 de junio de 2018
-21115
 día hábil siguiente al de su expedición. El personal que pertenece al régimen de MUFACE 
 entenderá confirmada la baja expedida por el facultativo una vez dictada la Resolución del 
 órgano competente por la que se conceda la correspondiente licencia por enfermedad al 
@@ -3998,13 +3840,8 @@ como en acto de servicio, previo informe de la Inspección médica, se llevarán
 trámites necesarios para el reconocimiento del abono total de las retribuciones a que se tenga 
 derecho, a solicitud de la persona interesada y de conformidad con la normativa vigente en 
 cada momento.
-boc-a-2018-124-3068
 
-
-Boletín Oficial de Canarias núm. 124
-https://sede.gobcan.es/boc
 Jueves 28 de junio de 2018
-21116
 1.6. Otros motivos de ausencias.
 Cuando sean otros los motivos de ausencia se estará a lo que disponga la normativa 
 vigente. En estos casos, se procederá como se señala a continuación:
@@ -4086,13 +3923,8 @@ En la dirección https://sede.gobcan.es/sede/verifica_doc puede ser comprobada l
 autenticidad de esta copia, mediante el número de documento electrónico siguiente:
 0bqNz4CZ0XJ9uClnMfnrNzVFZBwonqE5g
 El presente documento ha sido descargado el 25/06/2018 - 10:22:48
-boc-a-2018-124-3068
 
-
-Boletín Oficial de Canarias núm. 124
-https://sede.gobcan.es/boc
 Jueves 28 de junio de 2018
-21117
 c) Las solicitudes que supongan modificación en la situación administrativa o laboral 
 (excedencias, jubilaciones, comisiones de servicios, cargos electos, liberaciones sindicales, 
 etc.) deberán tramitarse ante el órgano competente con la antelación establecida.
@@ -4129,13 +3961,8 @@ necesariamente la fecha del cese con la del parte de alta médica del titular.
 2.2. Cuando un aspirante no acepte expresamente el nombramiento ofertado o no se 
 incorpore en un plazo de veinticuatro horas, deberá realizarse el certificado de renuncia o no 
 incorporación a través del aplicativo previsto a tal fin.
-boc-a-2018-124-3068
 
-
-Boletín Oficial de Canarias núm. 124
-https://sede.gobcan.es/boc
 Jueves 28 de junio de 2018
-21118
 A N E X O V
 INSTRUCCIONES RELATIV AS AL CUMPLIMIENTO DE LOS CONTRATOS 
 ADMINISTRATIVOS DE SERVICIOS EN LOS CENTROS EDUCATIVOS Y RÉGIMEN DEL 
@@ -4174,13 +4001,8 @@ categoría laboral de oficial de primera especialista en mantenimiento y conserv
 edificios, correspondiendo a la empresa contratista asegurar las suplencias y correturnos 
 necesarios en los casos de baja por enfermedad, accidente, vacaciones, permisos o cualquier 
 otra contingencia laboral.
-boc-a-2018-124-3068
 
-
-Boletín Oficial de Canarias núm. 124
-https://sede.gobcan.es/boc
 Jueves 28 de junio de 2018
-21119
 La empresa contratista está obligada a poner a disposición del personal que realice el 
 servicio de mantenimiento y conservación cuantos elementos, herramientas y útiles sean 
 necesarios para la ejecución y cumplimiento de las obligaciones del pliego, así como la 
@@ -4211,5 +4033,3 @@ o de su nombramiento, en el caso de personal funcionario.
 2.2. En materia de procedimiento y control de asistencia y puntualidad del personal de 
 administración y servicios, la verificación de la jornada y el horario de trabajo de dicho 
 personal se efectuará mediante la cumplimentación de un estadillo de control de horario.
-boc-a-2018-124-3068
-

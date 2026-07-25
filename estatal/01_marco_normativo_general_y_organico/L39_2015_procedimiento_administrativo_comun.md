@@ -32,16 +32,13 @@ fundamentos_derecho:
 
 # Ley 39/2015 del Procedimiento Administrativo Común
 
-
 **FELIPE VI**
-
 
 **REY DE ESPAÑA**
 
 A todos los que la presente vieren y entendieren.
 
 Sabed: Que las Cortes Generales han aprobado y Yo vengo en sancionar la siguiente ley:
-
 
 **I**
 
@@ -57,7 +54,6 @@ En coherencia con este contexto, se propone una reforma del ordenamiento jurídi
 
 Esta Ley constituye el primero de estos dos ejes, al establecer una regulación completa y sistemática de las relaciones «ad extra» entre las Administraciones y los administrados, tanto en lo referente al ejercicio de la potestad de autotutela y en cuya virtud se dictan actos administrativos que inciden directamente en la esfera jurídica de los interesados, como en lo relativo al ejercicio de la potestad reglamentaria y la iniciativa legislativa. Queda así reunido en cuerpo legislativo único la regulación de las relaciones «ad extra» de las Administraciones con los ciudadanos como ley administrativa de referencia que se ha de complementar con todo lo previsto en la normativa presupuestaria respecto de las actuaciones de las Administraciones Públicas, destacando especialmente lo previsto en la Ley Orgánica 2/2012, de 27 de abril, de Estabilidad Presupuestaria y Sostenibilidad Financiera; la Ley 47/2003, de 26 de noviembre, General Presupuestaria, y la Ley de Presupuestos Generales del Estado.
 
-
 **II**
 
 La Constitución recoge en su título IV, bajo la rúbrica «Del Gobierno y la Administración», los rasgos propios que diferencian al Gobierno de la Nación de la Administración, definiendo al primero como un órgano eminentemente político al que se reserva la función de gobernar, el ejercicio de la potestad reglamentaria y la dirección de la Administración y estableciendo la subordinación de ésta a la dirección de aquel.
@@ -71,7 +67,6 @@ A ello cabe añadir que el artículo 149.1.18.ª de la Constitución Española 
 De acuerdo con el marco constitucional descrito, la presente Ley regula los derechos y garantías mínimas que corresponden a todos los ciudadanos respecto de la actividad administrativa, tanto en su vertiente del ejercicio de la potestad de autotutela, como de la potestad reglamentaria e iniciativa legislativa.
 
 Por lo que se refiere al procedimiento administrativo, entendido como el conjunto ordenado de trámites y actuaciones formalmente realizadas, según el cauce legalmente previsto, para dictar un acto administrativo o expresar la voluntad de la Administración, con esta nueva regulación no se agotan las competencias estatales y autonómicas para establecer especialidades «ratione materiae» o para concretar ciertos extremos, como el órgano competente para resolver, sino que su carácter de común resulta de su aplicación a todas las Administraciones Públicas y respecto a todas sus actuaciones. Así lo ha venido reconociendo el Tribunal Constitucional en su jurisprudencia, al considerar que la regulación del procedimiento administrativo común por el Estado no obsta a que las Comunidades Autónomas dicten las normas de procedimiento necesarias para la aplicación de su Derecho sustantivo, siempre que se respeten las reglas que, por ser competencia exclusiva del Estado, integran el concepto de Procedimiento Administrativo Común con carácter básico.
-
 
 **III**
 
@@ -89,7 +84,6 @@ Por otra parte, la regulación de esta materia venía adoleciendo de un problema
 
 Ante este escenario legislativo, resulta clave contar con una nueva Ley que sistematice toda la regulación relativa al procedimiento administrativo, que clarifique e integre el contenido de las citadas Ley 30/1992, de 26 de noviembre y Ley 11/2007, de 22 de junio, y profundice en la agilización de los procedimientos con un pleno funcionamiento electrónico. Todo ello revertirá en un mejor cumplimiento de los principios constitucionales de eficacia y seguridad jurídica que deben regir la actuación de las Administraciones Públicas.
 
-
 **IV**
 
 Durante los más de veinte años de vigencia de la Ley 30/1992, de 26 de noviembre, en el seno de la Comisión Europea y de la Organización para la Cooperación y el Desarrollo Económicos se ha ido avanzando en la mejora de la producción normativa («Better regulation» y «Smart regulation»). Los diversos informes internacionales sobre la materia definen la regulación inteligente como un marco jurídico de calidad, que permite el cumplimiento de un objetivo regulatorio a la vez que ofrece los incentivos adecuados para dinamizar la actividad económica, permite simplificar procesos y reducir cargas administrativas. Para ello, resulta esencial un adecuado análisis de impacto de las normas de forma continua, tanto ex ante como ex post, así como la participación de los ciudadanos y empresas en los procesos de elaboración normativa, pues sobre ellos recae el cumplimiento de las leyes.
@@ -97,7 +91,6 @@ Durante los más de veinte años de vigencia de la Ley 30/1992, de 26 de novie
 En la última década, la Ley 17/2009, de 23 de noviembre, y la Ley 2/2011, de 4 de marzo, supusieron un avance en la implantación de los principios de buena regulación, especialmente en lo referido al ejercicio de las actividades económicas. Ya en esta legislatura, la Ley 20/2013, de 9 de diciembre, ha dado importantes pasos adicionales, al poner a disposición de los ciudadanos la información con relevancia jurídica propia del procedimiento de elaboración de normas.
 
 Sin embargo, es necesario contar con una nueva regulación que, terminando con la dispersión normativa existente, refuerce la participación ciudadana, la seguridad jurídica y la revisión del ordenamiento. Con estos objetivos, se establecen por primera vez en una ley las bases con arreglo a las cuales se ha de desenvolver la iniciativa legislativa y la potestad reglamentaria de las Administraciones Públicas con el objeto de asegurar su ejercicio de acuerdo con los principios de buena regulación, garantizar de modo adecuado la audiencia y participación de los ciudadanos en la elaboración de las normas y lograr la predictibilidad y evaluación pública del ordenamiento, como corolario imprescindible del derecho constitucional a la seguridad jurídica. Esta novedad deviene crucial especialmente en un Estado territorialmente descentralizado en el que coexisten tres niveles de Administración territorial que proyectan su actividad normativa sobre espacios subjetivos y geográficos en muchas ocasiones coincidentes. Con esta regulación se siguen las recomendaciones que en esta materia ha formulado la Organización para la Cooperación y el Desarrollo Económicos (OCDE) en su informe emitido en 2014 «Spain: From Administrative Reform to Continous Improvement».
-
 
 **V**
 
@@ -153,19 +146,15 @@ Destaca igualmente, la disposición sobre las especialidades por razón de la ma
 
 Por último, la Ley contiene las disposiciones de derecho transitorio aplicables a los procedimientos en curso, a su entrada en vigor, a archivos y registros y al Punto de Acceso General electrónico, así como las que habilitan para el desarrollo de lo previsto en la Ley.
 
-
 ## TÍTULO PRELIMINAR
 
-
 **Disposiciones generales**
-
 
 #### Artículo 1. Objeto de la Ley.
 
 1. La presente Ley tiene por objeto regular los requisitos de validez y eficacia de los actos administrativos, el procedimiento administrativo común a todas las Administraciones Públicas, incluyendo el sancionador y el de reclamación de responsabilidad de las Administraciones Públicas, así como los principios a los que se ha de ajustar el ejercicio de la iniciativa legislativa y la potestad reglamentaria.
 
 2. Solo mediante ley, cuando resulte eficaz, proporcionado y necesario para la consecución de los fines propios del procedimiento, y de manera motivada, podrán incluirse trámites adicionales o distintos a los contemplados en esta Ley. Reglamentariamente podrán establecerse especialidades del procedimiento referidas a los órganos competentes, plazos propios del concreto procedimiento por razón de la materia, formas de iniciación y terminación, publicación e informes a recabar.
-
 
 #### Artículo 2. Ámbito subjetivo de aplicación.
 
@@ -191,16 +180,13 @@ c) Las Universidades públicas, que se regirán por su normativa específica y s
 
 4. Las Corporaciones de Derecho Público se regirán por su normativa específica en el ejercicio de las funciones públicas que les hayan sido atribuidas por Ley o delegadas por una Administración Pública, y supletoriamente por la presente Ley.
 
-
 ## TÍTULO I
-
 
 **De los interesados en el procedimiento**
 
 CAPÍTULO I
 
 La capacidad de obrar y el concepto de interesado
-
 
 #### Artículo 3. Capacidad de obrar.
 
@@ -211,7 +197,6 @@ a) Las personas físicas o jurídicas que ostenten capacidad de obrar con arregl
 b) Los menores de edad para el ejercicio y defensa de aquellos de sus derechos e intereses cuya actuación esté permitida por el ordenamiento jurídico sin la asistencia de la persona que ejerza la patria potestad, tutela o curatela. Se exceptúa el supuesto de los menores incapacitados, cuando la extensión de la incapacitación afecte al ejercicio y defensa de los derechos o intereses de que se trate.
 
 c) Cuando la Ley así lo declare expresamente, los grupos de afectados, las uniones y entidades sin personalidad jurídica y los patrimonios independientes o autónomos.
-
 
 #### Artículo 4. Concepto de interesado.
 
@@ -226,7 +211,6 @@ c) Aquellos cuyos intereses legítimos, individuales o colectivos, puedan result
 2. Las asociaciones y organizaciones representativas de intereses económicos y sociales serán titulares de intereses legítimos colectivos en los términos que la Ley reconozca.
 
 3. Cuando la condición de interesado derivase de alguna relación jurídica transmisible, el derecho-habiente sucederá en tal condición cualquiera que sea el estado del procedimiento.
-
 
 #### Artículo 5. Representación.
 
@@ -245,7 +229,6 @@ A estos efectos, se entenderá acreditada la representación realizada mediante 
 6. La falta o insuficiente acreditación de la representación no impedirá que se tenga por realizado el acto de que se trate, siempre que se aporte aquélla o se subsane el defecto dentro del plazo de diez días que deberá conceder al efecto el órgano administrativo, o de un plazo superior cuando las circunstancias del caso así lo requieran.
 
 7. Las Administraciones Públicas podrán habilitar con carácter general o específico a personas físicas o jurídicas autorizadas para la realización de determinadas transacciones electrónicas en representación de los interesados. Dicha habilitación deberá especificar las condiciones y obligaciones a las que se comprometen los que así adquieran la condición de representantes, y determinará la presunción de validez de la representación salvo que la normativa de aplicación prevea otra cosa. Las Administraciones Públicas podrán requerir, en cualquier momento, la acreditación de dicha representación. No obstante, siempre podrá comparecer el interesado por sí mismo en el procedimiento.
-
 
 #### Artículo 6. Registros electrónicos de apoderamientos.
 
@@ -291,11 +274,9 @@ Cada Comunidad Autónoma aprobará los modelos de poderes inscribibles en el reg
 
 7. Las solicitudes de inscripción del poder, de revocación, de prórroga o de denuncia del mismo podrán dirigirse a cualquier registro, debiendo quedar inscrita esta circunstancia en el registro de la Administración u Organismo ante la que tenga efectos el poder y surtiendo efectos desde la fecha en la que se produzca dicha inscripción.
 
-
 #### Artículo 7. Pluralidad de interesados.
 
 Cuando en una solicitud, escrito o comunicación figuren varios interesados, las actuaciones a que den lugar se efectuarán con el representante o el interesado que expresamente hayan señalado, y, en su defecto, con el que figure en primer término.
-
 
 #### Artículo 8. Nuevos interesados en el procedimiento.
 
@@ -304,7 +285,6 @@ Si durante la instrucción de un procedimiento que no haya tenido publicidad, se
 CAPÍTULO II
 
 Identificación y firma de los interesados en el procedimiento administrativo
-
 
 #### Artículo 9. Sistemas de identificación de los interesados en el procedimiento.
 
@@ -321,7 +301,6 @@ c) Sistemas de clave concertada y cualquier otro sistema que las Administracione
 Cada Administración Pública podrá determinar si sólo admite alguno de estos sistemas para realizar determinados trámites o procedimientos, si bien la admisión de alguno de los sistemas de identificación previstos en la letra c) conllevará la admisión de todos los previstos en las letras a) y b) anteriores para ese trámite o procedimiento.
 
 3. En todo caso, la aceptación de alguno de estos sistemas por la Administración General del Estado servirá para acreditar frente a todas las Administraciones Públicas, salvo prueba en contrario, la identificación electrónica de los interesados en el procedimiento administrativo.
-
 
 #### Artículo 10. Sistemas de firma admitidos por las Administraciones Públicas.
 
@@ -341,7 +320,6 @@ Cada Administración Pública, Organismo o Entidad podrá determinar si sólo ad
 
 4. Cuando los interesados utilicen un sistema de firma de los previstos en este artículo, su identidad se entenderá ya acreditada mediante el propio acto de la firma.
 
-
 #### Artículo 11. Uso de medios de identificación y firma en el procedimiento administrativo.
 
 1. Con carácter general, para realizar cualquier actuación prevista en el procedimiento administrativo, será suficiente con que los interesados acrediten previamente su identidad a través de cualquiera de los medios de identificación previstos en esta Ley.
@@ -358,7 +336,6 @@ d) Desistir de acciones.
 
 e) Renunciar a derechos.
 
-
 #### Artículo 12. Asistencia en el uso de medios electrónicos a los interesados.
 
 1. Las Administraciones Públicas deberán garantizar que los interesados pueden relacionarse con la Administración a través de medios electrónicos, para lo que pondrán a su disposición los canales de acceso que sean necesarios así como los sistemas y aplicaciones que en cada caso se determinen.
@@ -371,16 +348,13 @@ Asimismo, si alguno de estos interesados no dispone de los medios electrónicos 
 
 En este registro o sistema equivalente, al menos, constarán los funcionarios que presten servicios en las oficinas de asistencia en materia de registros.
 
-
 ## TÍTULO II
-
 
 **De la actividad de las Administraciones Públicas**
 
 CAPÍTULO I
 
 Normas generales de actuación
-
 
 #### Artículo 13. Derechos de las personas en sus relaciones con las Administraciones Públicas.
 
@@ -406,7 +380,6 @@ i) Cualesquiera otros que les reconozcan la Constitución y las leyes.
 
 Estos derechos se entienden sin perjuicio de los reconocidos en el artículo 53 referidos a los interesados en el procedimiento administrativo.
 
-
 #### Artículo 14. Derecho y obligación de relacionarse electrónicamente con las Administraciones Públicas.
 
 1. Las personas físicas podrán elegir en todo momento si se comunican con las Administraciones Públicas para el ejercicio de sus derechos y obligaciones a través de medios electrónicos o no, salvo que estén obligadas a relacionarse a través de medios electrónicos con las Administraciones Públicas. El medio elegido por la persona para comunicarse con las Administraciones Públicas podrá ser modificado por aquella en cualquier momento.
@@ -425,7 +398,6 @@ e) Los empleados de las Administraciones Públicas para los trámites y actuacio
 
 3. Reglamentariamente, las Administraciones podrán establecer la obligación de relacionarse con ellas a través de medios electrónicos para determinados procedimientos y para ciertos colectivos de personas físicas que por razón de su capacidad económica, técnica, dedicación profesional u otros motivos quede acreditado que tienen acceso y disponibilidad de los medios electrónicos necesarios.
 
-
 #### Artículo 15. Lengua de los procedimientos.
 
 1. La lengua de los procedimientos tramitados por la Administración General del Estado será el castellano. No obstante lo anterior, los interesados que se dirijan a los órganos de la Administración General del Estado con sede en el territorio de una Comunidad Autónoma podrán utilizar también la lengua que sea cooficial en ella.
@@ -435,7 +407,6 @@ En este caso, el procedimiento se tramitará en la lengua elegida por el interes
 2. En los procedimientos tramitados por las Administraciones de las Comunidades Autónomas y de las Entidades Locales, el uso de la lengua se ajustará a lo previsto en la legislación autonómica correspondiente.
 
 3. La Administración Pública instructora deberá traducir al castellano los documentos, expedientes o partes de los mismos que deban surtir efecto fuera del territorio de la Comunidad Autónoma y los documentos dirigidos a los interesados que así lo soliciten expresamente. Si debieran surtir efectos en el territorio de una Comunidad Autónoma donde sea cooficial esa misma lengua distinta del castellano, no será precisa su traducción.
-
 
 #### Artículo 16. Registros.
 
@@ -477,7 +448,6 @@ Reglamentariamente, las Administraciones podrán establecer la obligación de pr
 
 8. No se tendrán por presentados en el registro aquellos documentos e información cuyo régimen especial establezca otra forma de presentación.
 
-
 #### Artículo 17. Archivo de documentos.
 
 1. Cada Administración deberá mantener un archivo electrónico único de los documentos electrónicos que correspondan a procedimientos finalizados, en los términos establecidos en la normativa reguladora aplicable.
@@ -485,7 +455,6 @@ Reglamentariamente, las Administraciones podrán establecer la obligación de pr
 2. Los documentos electrónicos deberán conservarse en un formato que permita garantizar la autenticidad, integridad y conservación del documento, así como su consulta con independencia del tiempo transcurrido desde su emisión. Se asegurará en todo caso la posibilidad de trasladar los datos a otros formatos y soportes que garanticen el acceso desde diferentes aplicaciones. La eliminación de dichos documentos deberá ser autorizada de acuerdo a lo dispuesto en la normativa aplicable.
 
 3. Los medios o soportes en que se almacenen documentos, deberán contar con medidas de seguridad, de acuerdo con lo previsto en el Esquema Nacional de Seguridad, que garanticen la integridad, autenticidad, confidencialidad, calidad, protección y conservación de los documentos almacenados. En particular, asegurarán la identificación de los usuarios y el control de accesos, así como el cumplimiento de las garantías previstas en la legislación de protección de datos.
-
 
 #### Artículo 18. Colaboración de las personas.
 
@@ -495,7 +464,6 @@ Reglamentariamente, las Administraciones podrán establecer la obligación de pr
 
 3. Cuando las inspecciones requieran la entrada en el domicilio del afectado o en los restantes lugares que requieran autorización del titular, se estará a lo dispuesto en el artículo 100.
 
-
 #### Artículo 19. Comparecencia de las personas.
 
 1. La comparecencia de las personas ante las oficinas públicas, ya sea presencialmente o por medios electrónicos, sólo será obligatoria cuando así esté previsto en una norma con rango de ley.
@@ -504,13 +472,11 @@ Reglamentariamente, las Administraciones podrán establecer la obligación de pr
 
 3. Las Administraciones Públicas entregarán al interesado certificación acreditativa de la comparecencia cuando así lo solicite.
 
-
 #### Artículo 20. Responsabilidad de la tramitación.
 
 1. Los titulares de las unidades administrativas y el personal al servicio de las Administraciones Públicas que tuviesen a su cargo la resolución o el despacho de los asuntos, serán responsables directos de su tramitación y adoptarán las medidas oportunas para remover los obstáculos que impidan, dificulten o retrasen el ejercicio pleno de los derechos de los interesados o el respeto a sus intereses legítimos, disponiendo lo necesario para evitar y eliminar toda anormalidad en la tramitación de procedimientos.
 
 2. Los interesados podrán solicitar la exigencia de esa responsabilidad a la Administración Pública de que dependa el personal afectado.
-
 
 #### Artículo 21. Obligación de resolver.
 
@@ -540,7 +506,6 @@ En todo caso, las Administraciones Públicas informarán a los interesados del p
 
 El incumplimiento de dicha obligación dará lugar a la exigencia de responsabilidad disciplinaria, sin perjuicio de la que hubiere lugar de acuerdo con la normativa aplicable.
 
-
 #### Artículo 22. Suspensión del plazo máximo para resolver.
 
 1. El transcurso del plazo máximo legal para resolver un procedimiento y notificar la resolución se podrá suspender en los siguientes casos:
@@ -567,13 +532,11 @@ b) Cuando el órgano competente para resolver decida realizar alguna actuación 
 
 c) Cuando los interesados promuevan la recusación en cualquier momento de la tramitación de un procedimiento, desde que ésta se plantee hasta que sea resuelta por el superior jerárquico del recusado.
 
-
 #### Artículo 23. Ampliación del plazo máximo para resolver y notificar.
 
 1. Excepcionalmente, cuando se hayan agotado los medios personales y materiales disponibles a los que se refiere el apartado 5 del artículo 21, el órgano competente para resolver, a propuesta, en su caso, del órgano instructor o el superior jerárquico del órgano competente para resolver, podrá acordar de manera motivada la ampliación del plazo máximo de resolución y notificación, no pudiendo ser éste superior al establecido para la tramitación del procedimiento.
 
 2. Contra el acuerdo que resuelva sobre la ampliación de plazos, que deberá ser notificado a los interesados, no cabrá recurso alguno.
-
 
 #### Artículo 24. Silencio administrativo en procedimientos iniciados a solicitud del interesado.
 
@@ -593,7 +556,6 @@ b) En los casos de desestimación por silencio administrativo, la resolución ex
 
 4. Los actos administrativos producidos por silencio administrativo se podrán hacer valer tanto ante la Administración como ante cualquier persona física o jurídica, pública o privada. Los mismos producen efectos desde el vencimiento del plazo máximo en el que debe dictarse y notificarse la resolución expresa sin que la misma se haya expedido, y su existencia puede ser acreditada por cualquier medio de prueba admitido en Derecho, incluido el certificado acreditativo del silencio producido. Este certificado se expedirá de oficio por el órgano competente para resolver en el plazo de quince días desde que expire el plazo máximo para resolver el procedimiento. Sin perjuicio de lo anterior, el interesado podrá pedirlo en cualquier momento, computándose el plazo indicado anteriormente desde el día siguiente a aquél en que la petición tuviese entrada en el registro electrónico de la Administración u Organismo competente para resolver.
 
-
 #### Artículo 25. Falta de resolución expresa en procedimientos iniciados de oficio.
 
 1. En los procedimientos iniciados de oficio, el vencimiento del plazo máximo establecido sin que se haya dictado y notificado resolución expresa no exime a la Administración del cumplimiento de la obligación legal de resolver, produciendo los siguientes efectos:
@@ -603,7 +565,6 @@ a) En el caso de procedimientos de los que pudiera derivarse el reconocimiento o
 b) En los procedimientos en que la Administración ejercite potestades sancionadoras o, en general, de intervención, susceptibles de producir efectos desfavorables o de gravamen, se producirá la caducidad. En estos casos, la resolución que declare la caducidad ordenará el archivo de las actuaciones, con los efectos previstos en el artículo 95.
 
 2. En los supuestos en los que el procedimiento se hubiera paralizado por causa imputable al interesado, se interrumpirá el cómputo del plazo para resolver y notificar la resolución.
-
 
 #### Artículo 26. Emisión de documentos por las Administraciones Públicas.
 
@@ -624,7 +585,6 @@ e) Incorporar las firmas electrónicas que correspondan de acuerdo con lo previs
 Se considerarán válidos los documentos electrónicos, que cumpliendo estos requisitos, sean trasladados a un tercero a través de medios electrónicos.
 
 3. No requerirán de firma electrónica, los documentos electrónicos emitidos por las Administraciones Públicas que se publiquen con carácter meramente informativo, así como aquellos que no formen parte de un expediente administrativo. En todo caso, será necesario identificar el origen de estos documentos.
-
 
 #### Artículo 27. Validez y eficacia de las copias realizadas por las Administraciones Públicas.
 
@@ -662,7 +622,6 @@ Asimismo, las Administraciones Públicas estarán obligadas a expedir copias aut
 
 6. La expedición de copias auténticas de documentos públicos notariales, registrales y judiciales, así como de los diarios oficiales, se regirá por su legislación específica.
 
-
 #### Artículo 28. Documentos aportados por los interesados al procedimiento administrativo.
 
 1. Los interesados deberán aportar al procedimiento administrativo los datos y documentos exigidos por las Administraciones Públicas de acuerdo con lo dispuesto en la normativa aplicable. Asimismo, los interesados podrán aportar cualquier otro documento que estimen conveniente.
@@ -689,11 +648,9 @@ CAPÍTULO II
 
 Términos y plazos
 
-
 #### Artículo 29. Obligatoriedad de términos y plazos.
 
 Los términos y plazos establecidos en ésta u otras leyes obligan a las autoridades y personal al servicio de las Administraciones Públicas competentes para la tramitación de los asuntos, así como a los interesados en los mismos.
-
 
 #### Artículo 30. Cómputo de plazos.
 
@@ -721,7 +678,6 @@ Dicho calendario deberá publicarse antes del comienzo de cada año en el diario
 
 8. La declaración de un día como hábil o inhábil a efectos de cómputo de plazos no determina por sí sola el funcionamiento de los centros de trabajo de las Administraciones Públicas, la organización del tiempo de trabajo o el régimen de jornada y horarios de las mismas.
 
-
 #### Artículo 31. Cómputo de plazos en los registros.
 
 1. Cada Administración Pública publicará los días y el horario en el que deban permanecer abiertas las oficinas que prestarán asistencia para la presentación electrónica de documentos, garantizando el derecho de los interesados a ser asistidos en el uso de medios electrónicos.
@@ -740,7 +696,6 @@ c) El inicio del cómputo de los plazos que hayan de cumplir las Administracione
 
 3. La sede electrónica del registro de cada Administración Pública u Organismo, determinará, atendiendo al ámbito territorial en el que ejerce sus competencias el titular de aquélla y al calendario previsto en el artículo 30.7, los días que se considerarán inhábiles a los efectos previstos en este artículo. Este será el único calendario de días inhábiles que se aplicará a efectos del cómputo de plazos en los registros electrónicos, sin que resulte de aplicación a los mismos lo dispuesto en el artículo 30.6.
 
-
 #### Artículo 32. Ampliación.
 
 1. La Administración, salvo precepto en contrario, podrá conceder de oficio o a petición de los interesados, una ampliación de los plazos establecidos, que no exceda de la mitad de los mismos, si las circunstancias lo aconsejan y con ello no se perjudican derechos de tercero. El acuerdo de ampliación deberá ser notificado a los interesados.
@@ -751,16 +706,13 @@ c) El inicio del cómputo de los plazos que hayan de cumplir las Administracione
 
 4. Cuando una incidencia técnica haya imposibilitado el funcionamiento ordinario del sistema o aplicación que corresponda, y hasta que se solucione el problema, la Administración podrá determinar una ampliación de los plazos no vencidos, debiendo publicar en la sede electrónica tanto la incidencia técnica acontecida como la ampliación concreta del plazo no vencido.
 
-
 #### Artículo 33. Tramitación de urgencia.
 
 1. Cuando razones de interés público lo aconsejen, se podrá acordar, de oficio o a petición del interesado, la aplicación al procedimiento de la tramitación de urgencia, por la cual se reducirán a la mitad los plazos establecidos para el procedimiento ordinario, salvo los relativos a la presentación de solicitudes y recursos.
 
 2. No cabrá recurso alguno contra el acuerdo que declare la aplicación de la tramitación de urgencia al procedimiento, sin perjuicio del procedente contra la resolución que ponga fin al procedimiento.
 
-
 ## TÍTULO III
-
 
 **De los actos administrativos**
 
@@ -768,13 +720,11 @@ CAPÍTULO I
 
 Requisitos de los actos administrativos
 
-
 #### Artículo 34. Producción y contenido.
 
 1. Los actos administrativos que dicten las Administraciones Públicas, bien de oficio o a instancia del interesado, se producirán por el órgano competente ajustándose a los requisitos y al procedimiento establecido.
 
 2. El contenido de los actos se ajustará a lo dispuesto por el ordenamiento jurídico y será determinado y adecuado a los fines de aquéllos.
-
 
 #### Artículo 35. Motivación.
 
@@ -800,7 +750,6 @@ i) Los actos que se dicten en el ejercicio de potestades discrecionales, así co
 
 2. La motivación de los actos que pongan fin a los procedimientos selectivos y de concurrencia competitiva se realizará de conformidad con lo que dispongan las normas que regulen sus convocatorias, debiendo, en todo caso, quedar acreditados en el procedimiento los fundamentos de la resolución que se adopte.
 
-
 #### Artículo 36. Forma.
 
 1. Los actos administrativos se producirán por escrito a través de medios electrónicos, a menos que su naturaleza exija otra forma más adecuada de expresión y constancia.
@@ -813,18 +762,15 @@ CAPÍTULO II
 
 Eficacia de los actos
 
-
 #### Artículo 37. Inderogabilidad singular.
 
 1. Las resoluciones administrativas de carácter particular no podrán vulnerar lo establecido en una disposición de carácter general, aunque aquéllas procedan de un órgano de igual o superior jerarquía al que dictó la disposición general.
 
 2. Son nulas las resoluciones administrativas que vulneren lo establecido en una disposición reglamentaria, así como aquellas que incurran en alguna de las causas recogidas en el artículo 47.
 
-
 #### Artículo 38. Ejecutividad.
 
 Los actos de las Administraciones Públicas sujetos al Derecho Administrativo serán ejecutivos con arreglo a lo dispuesto en esta Ley.
-
 
 #### Artículo 39. Efectos.
 
@@ -838,7 +784,6 @@ Los actos de las Administraciones Públicas sujetos al Derecho Administrativo se
 
 5. Cuando una Administración Pública tenga que dictar, en el ámbito de sus competencias, un acto que necesariamente tenga por base otro dictado por una Administración Pública distinta y aquélla entienda que es ilegal, podrá requerir a ésta previamente para que anule o revise el acto de acuerdo con lo dispuesto en el artículo 44 de la Ley 29/1998, de 13 de julio, reguladora de la Jurisdicción Contencioso- Administrativa, y, de rechazar el requerimiento, podrá interponer recurso contencioso-administrativo. En estos casos, quedará suspendido el procedimiento para dictar resolución.
 
-
 #### Artículo 40. Notificación.
 
 1. El órgano que dicte las resoluciones y actos administrativos los notificará a los interesados cuyos derechos e intereses sean afectados por aquéllos, en los términos previstos en los artículos siguientes.
@@ -850,7 +795,6 @@ Los actos de las Administraciones Públicas sujetos al Derecho Administrativo se
 4. Sin perjuicio de lo establecido en el apartado anterior, y a los solos efectos de entender cumplida la obligación de notificar dentro del plazo máximo de duración de los procedimientos, será suficiente la notificación que contenga, cuando menos, el texto íntegro de la resolución, así como el intento de notificación debidamente acreditado.
 
 5. Las Administraciones Públicas podrán adoptar las medidas que consideren necesarias para la protección de los datos personales que consten en las resoluciones y actos administrativos, cuando éstos tengan por destinatarios a más de un interesado.
-
 
 #### Artículo 41. Condiciones generales para la práctica de las notificaciones.
 
@@ -888,7 +832,6 @@ Cuando no fuera posible realizar la notificación de acuerdo con lo señalado en
 
 7. Cuando el interesado fuera notificado por distintos cauces, se tomará como fecha de notificación la de aquélla que se hubiera producido en primer lugar.
 
-
 #### Artículo 42. Práctica de las notificaciones en papel.
 
 1. Todas las notificaciones que se practiquen en papel deberán ser puestas a disposición del interesado en la sede electrónica de la Administración u Organismo actuante para que pueda acceder al contenido de las mismas de forma voluntaria.
@@ -896,7 +839,6 @@ Cuando no fuera posible realizar la notificación de acuerdo con lo señalado en
 2. Cuando la notificación se practique en el domicilio del interesado, de no hallarse presente éste en el momento de entregarse la notificación, podrá hacerse cargo de la misma cualquier persona mayor de catorce años que se encuentre en el domicilio y haga constar su identidad. Si nadie se hiciera cargo de la notificación, se hará constar esta circunstancia en el expediente, junto con el día y la hora en que se intentó la notificación, intento que se repetirá por una sola vez y en una hora distinta dentro de los tres días siguientes. En caso de que el primer intento de notificación se haya realizado antes de las quince horas, el segundo intento deberá realizarse después de las quince horas y viceversa, dejando en todo caso al menos un margen de diferencia de tres horas entre ambos intentos de notificación. Si el segundo intento también resultara infructuoso, se procederá en la forma prevista en el artículo 44.
 
 3. Cuando el interesado accediera al contenido de la notificación en sede electrónica, se le ofrecerá la posibilidad de que el resto de notificaciones se puedan realizar a través de medios electrónicos.
-
 
 #### Artículo 43. Práctica de las notificaciones a través de medios electrónicos.
 
@@ -912,15 +854,9 @@ Cuando la notificación por medios electrónicos sea de carácter obligatorio, o
 
 4. Los interesados podrán acceder a las notificaciones desde el Punto de Acceso General electrónico de la Administración, que funcionará como un portal de acceso.
 
-
 #### Artículo 44. Notificación infructuosa.
 
-Cuando los interesados en un procedimiento sean desconocidos, se ignore el lugar de la notificación o bien, intentada ésta, no se hubiese podido practicar, la notificación se hará por medio de un anuncio publicado en el «Boletín Oficial del Estado».
-
 Asimismo, previamente y con carácter facultativo, las Administraciones podrán publicar un anuncio en el boletín oficial de la Comunidad Autónoma o de la Provincia, en el tablón de edictos del Ayuntamiento del último domicilio del interesado o del Consulado o Sección Consular de la Embajada correspondiente.
-
-Las Administraciones Públicas podrán establecer otras formas de notificación complementarias a través de los restantes medios de difusión, que no excluirán la obligación de publicar el correspondiente anuncio en el «Boletín Oficial del Estado».
-
 
 #### Artículo 45. Publicación.
 
@@ -940,7 +876,6 @@ En los supuestos de publicaciones de actos que contengan elementos comunes, podr
 
 4. Sin perjuicio de lo dispuesto en el artículo 44, la publicación de actos y comunicaciones que, por disposición legal o reglamentaria deba practicarse en tablón de anuncios o edictos, se entenderá cumplida por su publicación en el Diario oficial correspondiente.
 
-
 #### Artículo 46. Indicación de notificaciones y publicaciones.
 
 Si el órgano competente apreciase que la notificación por medio de anuncios o la publicación de un acto lesiona derechos o intereses legítimos, se limitará a publicar en el Diario oficial que corresponda una somera indicación del contenido del acto y del lugar donde los interesados podrán comparecer, en el plazo que se establezca, para conocimiento del contenido íntegro del mencionado acto y constancia de tal conocimiento.
@@ -950,7 +885,6 @@ Adicionalmente y de manera facultativa, las Administraciones podrán establecer 
 CAPÍTULO III
 
 Nulidad y anulabilidad
-
 
 #### Artículo 47. Nulidad de pleno derecho.
 
@@ -972,7 +906,6 @@ g) Cualquier otro que se establezca expresamente en una disposición con rango d
 
 2. También serán nulas de pleno derecho las disposiciones administrativas que vulneren la Constitución, las leyes u otras disposiciones administrativas de rango superior, las que regulen materias reservadas a la Ley, y las que establezcan la retroactividad de disposiciones sancionadoras no favorables o restrictivas de derechos individuales.
 
-
 #### Artículo 48. Anulabilidad.
 
 1. Son anulables los actos de la Administración que incurran en cualquier infracción del ordenamiento jurídico, incluso la desviación de poder.
@@ -981,23 +914,19 @@ g) Cualquier otro que se establezca expresamente en una disposición con rango d
 
 3. La realización de actuaciones administrativas fuera del tiempo establecido para ellas sólo implicará la anulabilidad del acto cuando así lo imponga la naturaleza del término o plazo.
 
-
 #### Artículo 49. Límites a la extensión de la nulidad o anulabilidad de los actos.
 
 1. La nulidad o anulabilidad de un acto no implicará la de los sucesivos en el procedimiento que sean independientes del primero.
 
 2. La nulidad o anulabilidad en parte del acto administrativo no implicará la de las partes del mismo independientes de aquélla, salvo que la parte viciada sea de tal importancia que sin ella el acto administrativo no hubiera sido dictado.
 
-
 #### Artículo 50. Conversión de actos viciados.
 
 Los actos nulos o anulables que, sin embargo, contengan los elementos constitutivos de otro distinto producirán los efectos de éste.
 
-
 #### Artículo 51. Conservación de actos y trámites.
 
 El órgano que declare la nulidad o anule las actuaciones dispondrá siempre la conservación de aquellos actos y trámites cuyo contenido se hubiera mantenido igual de no haberse cometido la infracción.
-
 
 #### Artículo 52. Convalidación.
 
@@ -1009,16 +938,13 @@ El órgano que declare la nulidad o anule las actuaciones dispondrá siempre la 
 
 4. Si el vicio consistiese en la falta de alguna autorización, podrá ser convalidado el acto mediante el otorgamiento de la misma por el órgano competente.
 
-
 ## TÍTULO IV
-
 
 **De las disposiciones sobre el procedimiento administrativo común**
 
 CAPÍTULO I
 
 Garantías del procedimiento
-
 
 #### Artículo 53. Derechos del interesado en el procedimiento administrativo.
 
@@ -1056,11 +982,9 @@ Iniciación del procedimiento
 
 Sección 1.ª Disposiciones generales
 
-
 #### Artículo 54. Clases de iniciación.
 
 Los procedimientos podrán iniciarse de oficio o a solicitud del interesado.
-
 
 #### Artículo 55. Información y actuaciones previas.
 
@@ -1069,7 +993,6 @@ Los procedimientos podrán iniciarse de oficio o a solicitud del interesado.
 2. En el caso de procedimientos de naturaleza sancionadora las actuaciones previas se orientarán a determinar, con la mayor precisión posible, los hechos susceptibles de motivar la incoación del procedimiento, la identificación de la persona o personas que pudieran resultar responsables y las circunstancias relevantes que concurran en unos y otros.
 
 Las actuaciones previas serán realizadas por los órganos que tengan atribuidas funciones de investigación, averiguación e inspección en la materia y, en defecto de éstos, por la persona u órgano administrativo que se determine por el órgano competente para la iniciación o resolución del procedimiento.
-
 
 #### Artículo 56. Medidas provisionales.
 
@@ -1105,7 +1028,6 @@ i) Aquellas otras medidas que, para la protección de los derechos de los intere
 
 En todo caso, se extinguirán cuando surta efectos la resolución administrativa que ponga fin al procedimiento correspondiente.
 
-
 #### Artículo 57. Acumulación.
 
 El órgano administrativo que inicie o tramite un procedimiento, cualquiera que haya sido la forma de su iniciación, podrá disponer, de oficio o a instancia de parte, su acumulación a otros con los que guarde identidad sustancial o íntima conexión, siempre que sea el mismo órgano quien deba tramitar y resolver el procedimiento.
@@ -1114,23 +1036,19 @@ Contra el acuerdo de acumulación no procederá recurso alguno.
 
 Sección 2.ª Iniciación del procedimiento de oficio por la administración
 
-
 #### Artículo 58. Iniciación de oficio.
 
 Los procedimientos se iniciarán de oficio por acuerdo del órgano competente, bien por propia iniciativa o como consecuencia de orden superior, a petición razonada de otros órganos o por denuncia.
 
-
 #### Artículo 59. Inicio del procedimiento a propia iniciativa.
 
 Se entiende por propia iniciativa, la actuación derivada del conocimiento directo o indirecto de las circunstancias, conductas o hechos objeto del procedimiento por el órgano que tiene atribuida la competencia de iniciación.
-
 
 #### Artículo 60. Inicio del procedimiento como consecuencia de orden superior.
 
 1. Se entiende por orden superior, la emitida por un órgano administrativo superior jerárquico del competente para la iniciación del procedimiento.
 
 2. En los procedimientos de naturaleza sancionadora, la orden expresará, en la medida de lo posible, la persona o personas presuntamente responsables; las conductas o hechos que pudieran constituir infracción administrativa y su tipificación; así como el lugar, la fecha, fechas o período de tiempo continuado en que los hechos se produjeron.
-
 
 #### Artículo 61. Inicio del procedimiento por petición razonada de otros órganos.
 
@@ -1141,7 +1059,6 @@ Se entiende por propia iniciativa, la actuación derivada del conocimiento direc
 3. En los procedimientos de naturaleza sancionadora, las peticiones deberán especificar, en la medida de lo posible, la persona o personas presuntamente responsables; las conductas o hechos que pudieran constituir infracción administrativa y su tipificación; así como el lugar, la fecha, fechas o período de tiempo continuado en que los hechos se produjeron.
 
 4. En los procedimientos de responsabilidad patrimonial, la petición deberá individualizar la lesión producida en una persona o grupo de personas, su relación de causalidad con el funcionamiento del servicio público, su evaluación económica si fuera posible, y el momento en que la lesión efectivamente se produjo.
-
 
 #### Artículo 62. Inicio del procedimiento por denuncia.
 
@@ -1159,7 +1076,6 @@ En ambos casos será necesario que el denunciante cese en la participación de l
 
 5. La presentación de una denuncia no confiere, por sí sola, la condición de interesado en el procedimiento.
 
-
 #### Artículo 63. Especialidades en el inicio de los procedimientos de naturaleza sancionadora.
 
 1. Los procedimientos de naturaleza sancionadora se iniciarán siempre de oficio por acuerdo del órgano competente y establecerán la debida separación entre la fase instructora y la sancionadora, que se encomendará a órganos distintos.
@@ -1169,7 +1085,6 @@ Se considerará que un órgano es competente para iniciar el procedimiento cuand
 2. En ningún caso se podrá imponer una sanción sin que se haya tramitado el oportuno procedimiento.
 
 3. No se podrán iniciar nuevos procedimientos de carácter sancionador por hechos o conductas tipificadas como infracciones en cuya comisión el infractor persista de forma continuada, en tanto no haya recaído una primera resolución sancionadora, con carácter ejecutivo.
-
 
 #### Artículo 64. Acuerdo de iniciación en los procedimientos de naturaleza sancionadora.
 
@@ -1193,7 +1108,6 @@ f) Indicación del derecho a formular alegaciones y a la audiencia en el procedi
 
 3. Excepcionalmente, cuando en el momento de dictar el acuerdo de iniciación no existan elementos suficientes para la calificación inicial de los hechos que motivan la incoación del procedimiento, la citada calificación podrá realizarse en una fase posterior mediante la elaboración de un Pliego de cargos, que deberá ser notificado a los interesados.
 
-
 #### Artículo 65. Especialidades en el inicio de oficio de los procedimientos de responsabilidad patrimonial.
 
 1. Cuando las Administraciones Públicas decidan iniciar de oficio un procedimiento de responsabilidad patrimonial será necesario que no haya prescrito el derecho a la reclamación del interesado al que se refiere el artículo 67.
@@ -1201,7 +1115,6 @@ f) Indicación del derecho a formular alegaciones y a la audiencia en el procedi
 2. El acuerdo de iniciación del procedimiento se notificará a los particulares presuntamente lesionados, concediéndoles un plazo de diez días para que aporten cuantas alegaciones, documentos o información estimen conveniente a su derecho y propongan cuantas pruebas sean pertinentes para el reconocimiento del mismo. El procedimiento iniciado se instruirá aunque los particulares presuntamente lesionados no se personen en el plazo establecido.
 
 Sección 3.ª Inicio del procedimiento a solicitud del interesado
-
 
 #### Artículo 66. Solicitudes de iniciación.
 
@@ -1233,17 +1146,13 @@ Los solicitantes podrán acompañar los elementos que estimen convenientes para 
 
 6. Cuando la Administración en un procedimiento concreto establezca expresamente modelos específicos de presentación de solicitudes, éstos serán de uso obligatorio por los interesados.
 
-
 #### Artículo 67. Solicitudes de iniciación en los procedimientos de responsabilidad patrimonial.
 
 1. Los interesados sólo podrán solicitar el inicio de un procedimiento de responsabilidad patrimonial, cuando no haya prescrito su derecho a reclamar. El derecho a reclamar prescribirá al año de producido el hecho o el acto que motive la indemnización o se manifieste su efecto lesivo. En caso de daños de carácter físico o psíquico a las personas, el plazo empezará a computarse desde la curación o la determinación del alcance de las secuelas.
 
 En los casos en que proceda reconocer derecho a indemnización por anulación en vía administrativa o contencioso-administrativa de un acto o disposición de carácter general, el derecho a reclamar prescribirá al año de haberse notificado la resolución administrativa o la sentencia definitiva.
 
-En los casos de responsabilidad patrimonial a que se refiere el artículo 32, apartados 4 y 5, de la Ley de Régimen Jurídico del Sector Público, el derecho a reclamar prescribirá al año de la publicación en el «Boletín Oficial del Estado» o en el «Diario Oficial de la Unión Europea», según el caso, de la sentencia que declare la inconstitucionalidad de la norma o su carácter contrario al Derecho de la Unión Europea.
-
 2. Además de lo previsto en el artículo 66, en la solicitud que realicen los interesados se deberán especificar las lesiones producidas, la presunta relación de causalidad entre éstas y el funcionamiento del servicio público, la evaluación económica de la responsabilidad patrimonial, si fuera posible, y el momento en que la lesión efectivamente se produjo, e irá acompañada de cuantas alegaciones, documentos e informaciones se estimen oportunos y de la proposición de prueba, concretando los medios de que pretenda valerse el reclamante.
-
 
 #### Artículo 68. Subsanación y mejora de la solicitud.
 
@@ -1254,7 +1163,6 @@ En los casos de responsabilidad patrimonial a que se refiere el artículo 32, a
 3. En los procedimientos iniciados a solicitud de los interesados, el órgano competente podrá recabar del solicitante la modificación o mejora voluntarias de los términos de aquélla. De ello se levantará acta sucinta, que se incorporará al procedimiento.
 
 4. Si alguno de los sujetos a los que hace referencia el artículo 14.2 y 14.3 presenta su solicitud presencialmente, las Administraciones Públicas requerirán al interesado para que la subsane a través de su presentación electrónica. A estos efectos, se considerará como fecha de presentación de la solicitud aquella en la que haya sido realizada la subsanación.
-
 
 #### Artículo 69. Declaración responsable y comunicación.
 
@@ -1280,7 +1188,6 @@ CAPÍTULO III
 
 Ordenación del procedimiento
 
-
 #### Artículo 70. Expediente Administrativo.
 
 1. Se entiende por expediente administrativo el conjunto ordenado de documentos y actuaciones que sirven de antecedente y fundamento a la resolución administrativa, así como las diligencias encaminadas a ejecutarla.
@@ -1290,7 +1197,6 @@ Ordenación del procedimiento
 3. Cuando en virtud de una norma sea preciso remitir el expediente electrónico, se hará de acuerdo con lo previsto en el Esquema Nacional de Interoperabilidad y en las correspondientes Normas Técnicas de Interoperabilidad, y se enviará completo, foliado, autentificado y acompañado de un índice, asimismo autentificado, de los documentos que contenga. La autenticación del citado índice garantizará la integridad e inmutabilidad del expediente electrónico generado desde el momento de su firma y permitirá su recuperación siempre que sea preciso, siendo admisible que un mismo documento forme parte de distintos expedientes electrónicos.
 
 4. No formará parte del expediente administrativo la información que tenga carácter auxiliar o de apoyo, como la contenida en aplicaciones, ficheros y bases de datos informáticas, notas, borradores, opiniones, resúmenes, comunicaciones e informes internos o entre órganos o entidades administrativas, así como los juicios de valor emitidos por las Administraciones Públicas, salvo que se trate de informes, preceptivos y facultativos, solicitados antes de la resolución administrativa que ponga fin al procedimiento.
-
 
 #### Artículo 71. Impulso.
 
@@ -1302,13 +1208,11 @@ El incumplimiento de lo dispuesto en el párrafo anterior dará lugar a la exige
 
 3. Las personas designadas como órgano instructor o, en su caso, los titulares de las unidades administrativas que tengan atribuida tal función serán responsables directos de la tramitación del procedimiento y, en especial, del cumplimiento de los plazos establecidos.
 
-
 #### Artículo 72. Concentración de trámites.
 
 1. De acuerdo con el principio de simplificación administrativa, se acordarán en un solo acto todos los trámites que, por su naturaleza, admitan un impulso simultáneo y no sea obligado su cumplimiento sucesivo.
 
 2. Al solicitar los trámites que deban ser cumplidos por otros órganos, deberá consignarse en la comunicación cursada el plazo legal establecido al efecto.
-
 
 #### Artículo 73. Cumplimiento de trámites.
 
@@ -1317,7 +1221,6 @@ El incumplimiento de lo dispuesto en el párrafo anterior dará lugar a la exige
 2. En cualquier momento del procedimiento, cuando la Administración considere que alguno de los actos de los interesados no reúne los requisitos necesarios, lo pondrá en conocimiento de su autor, concediéndole un plazo de diez días para cumplimentarlo.
 
 3. A los interesados que no cumplan lo dispuesto en los apartados anteriores, se les podrá declarar decaídos en su derecho al trámite correspondiente. No obstante, se admitirá la actuación del interesado y producirá sus efectos legales, si se produjera antes o dentro del día que se notifique la resolución en la que se tenga por transcurrido el plazo.
-
 
 #### Artículo 74. Cuestiones incidentales.
 
@@ -1329,7 +1232,6 @@ Instrucción del procedimiento
 
 Sección 1.ª Disposiciones generales
 
-
 #### Artículo 75. Actos de instrucción.
 
 1. Los actos de instrucción necesarios para la determinación, conocimiento y comprobación de los hechos en virtud de los cuales deba pronunciarse la resolución, se realizarán de oficio y a través de medios electrónicos, por el órgano que tramite el procedimiento, sin perjuicio del derecho de los interesados a proponer aquellas actuaciones que requieran su intervención o constituyan trámites legal o reglamentariamente establecidos.
@@ -1340,7 +1242,6 @@ Sección 1.ª Disposiciones generales
 
 4. En cualquier caso, el órgano instructor adoptará las medidas necesarias para lograr el pleno respeto a los principios de contradicción y de igualdad de los interesados en el procedimiento.
 
-
 #### Artículo 76. Alegaciones.
 
 1. Los interesados podrán, en cualquier momento del procedimiento anterior al trámite de audiencia, aducir alegaciones y aportar documentos u otros elementos de juicio.
@@ -1350,7 +1251,6 @@ Unos y otros serán tenidos en cuenta por el órgano competente al redactar la c
 2. En todo momento podrán los interesados alegar los defectos de tramitación y, en especial, los que supongan paralización, infracción de los plazos preceptivamente señalados o la omisión de trámites que pueden ser subsanados antes de la resolución definitiva del asunto. Dichas alegaciones podrán dar lugar, si hubiere razones para ello, a la exigencia de la correspondiente responsabilidad disciplinaria.
 
 Sección 2.ª Prueba
-
 
 #### Artículo 77. Medios y período de prueba.
 
@@ -1368,7 +1268,6 @@ Sección 2.ª Prueba
 
 7. Cuando la valoración de las pruebas practicadas pueda constituir el fundamento básico de la decisión que se adopte en el procedimiento, por ser pieza imprescindible para la correcta evaluación de los hechos, deberá incluirse en la propuesta de resolución.
 
-
 #### Artículo 78. Práctica de prueba.
 
 1. La Administración comunicará a los interesados, con antelación suficiente, el inicio de las actuaciones necesarias para la realización de las pruebas que hayan sido admitidas.
@@ -1379,13 +1278,11 @@ Sección 2.ª Prueba
 
 Sección 3.ª Informes
 
-
 #### Artículo 79. Petición.
 
 1. A efectos de la resolución del procedimiento, se solicitarán aquellos informes que sean preceptivos por las disposiciones legales, y los que se juzguen necesarios para resolver, citándose el precepto que los exija o fundamentando, en su caso, la conveniencia de reclamarlos.
 
 2. En la petición de informe se concretará el extremo o extremos acerca de los que se solicita.
-
 
 #### Artículo 80. Emisión de informes.
 
@@ -1398,7 +1295,6 @@ Sección 3.ª Informes
 4. Si el informe debiera ser emitido por una Administración Pública distinta de la que tramita el procedimiento en orden a expresar el punto de vista correspondiente a sus competencias respectivas, y transcurriera el plazo sin que aquél se hubiera emitido, se podrán proseguir las actuaciones.
 
 El informe emitido fuera de plazo podrá no ser tenido en cuenta al adoptar la correspondiente resolución.
-
 
 #### Artículo 81. Solicitud de informes y dictámenes en los procedimientos de responsabilidad patrimonial.
 
@@ -1414,7 +1310,6 @@ El dictamen se emitirá en el plazo de dos meses y deberá pronunciarse sobre la
 
 Sección 4.ª Participación de los interesados
 
-
 #### Artículo 82. Trámite de audiencia.
 
 1. Instruidos los procedimientos, e inmediatamente antes de redactar la propuesta de resolución, se pondrán de manifiesto a los interesados o, en su caso, a sus representantes, para lo que se tendrán en cuenta las limitaciones previstas en su caso en la Ley 19/2013, de 9 de diciembre.
@@ -1428,7 +1323,6 @@ La audiencia a los interesados será anterior a la solicitud del informe del ór
 4. Se podrá prescindir del trámite de audiencia cuando no figuren en el procedimiento ni sean tenidos en cuenta en la resolución otros hechos ni otras alegaciones y pruebas que las aducidas por el interesado.
 
 5. En los procedimientos de responsabilidad patrimonial a los que se refiere el artículo 32.9 de la Ley de Régimen Jurídico del Sector Público, será necesario en todo caso dar audiencia al contratista, notificándole cuantas actuaciones se realicen en el procedimiento, al efecto de que se persone en el mismo, exponga lo que a su derecho convenga y proponga cuantos medios de prueba estime necesarios.
-
 
 #### Artículo 83. Información pública.
 
@@ -1450,13 +1344,11 @@ Finalización del procedimiento
 
 Sección 1.ª Disposiciones generales
 
-
 #### Artículo 84. Terminación.
 
 1. Pondrán fin al procedimiento la resolución, el desistimiento, la renuncia al derecho en que se funde la solicitud, cuando tal renuncia no esté prohibida por el ordenamiento jurídico, y la declaración de caducidad.
 
 2. También producirá la terminación del procedimiento la imposibilidad material de continuarlo por causas sobrevenidas. La resolución que se dicte deberá ser motivada en todo caso.
-
 
 #### Artículo 85. Terminación en los procedimientos sancionadores.
 
@@ -1467,7 +1359,6 @@ Sección 1.ª Disposiciones generales
 3. En ambos casos, cuando la sanción tenga únicamente carácter pecuniario, el órgano competente para resolver el procedimiento aplicará reducciones de, al menos, el 20 % sobre el importe de la sanción propuesta, siendo éstos acumulables entre sí. Las citadas reducciones, deberán estar determinadas en la notificación de iniciación del procedimiento y su efectividad estará condicionada al desistimiento o renuncia de cualquier acción o recurso en vía administrativa contra la sanción.
 
 El porcentaje de reducción previsto en este apartado podrá ser incrementado reglamentariamente.
-
 
 #### Artículo 86. Terminación convencional.
 
@@ -1483,13 +1374,11 @@ El porcentaje de reducción previsto en este apartado podrá ser incrementado re
 
 Sección 2.ª Resolución
 
-
 #### Artículo 87. Actuaciones complementarias.
 
 Antes de dictar resolución, el órgano competente para resolver podrá decidir, mediante acuerdo motivado, la realización de las actuaciones complementarias indispensables para resolver el procedimiento. No tendrán la consideración de actuaciones complementarias los informes que preceden inmediatamente a la resolución final del procedimiento.
 
 El acuerdo de realización de actuaciones complementarias se notificará a los interesados, concediéndoseles un plazo de siete días para formular las alegaciones que tengan por pertinentes tras la finalización de las mismas. Las actuaciones complementarias deberán practicarse en un plazo no superior a quince días. El plazo para resolver el procedimiento quedará suspendido hasta la terminación de las actuaciones complementarias.
-
 
 #### Artículo 88. Contenido.
 
@@ -1511,7 +1400,6 @@ Cuando se trate de cuestiones conexas que no hubieran sido planteadas por los in
 
 En los procedimientos de carácter sancionador, la propuesta de resolución deberá ser notificada a los interesados en los términos previstos en el artículo siguiente.
 
-
 #### Artículo 89. Propuesta de resolución en los procedimientos de carácter sancionador.
 
 1. El órgano instructor resolverá la finalización del procedimiento, con archivo de las actuaciones, sin que sea necesaria la formulación de la propuesta de resolución, cuando en la instrucción procedimiento se ponga de manifiesto que concurre alguna de las siguientes circunstancias:
@@ -1529,7 +1417,6 @@ e) Cuando se concluyera, en cualquier momento, que ha prescrito la infracción.
 2. En el caso de procedimientos de carácter sancionador, una vez concluida la instrucción del procedimiento, el órgano instructor formulará una propuesta de resolución que deberá ser notificada a los interesados. La propuesta de resolución deberá indicar la puesta de manifiesto del procedimiento y el plazo para formular alegaciones y presentar los documentos e informaciones que se estimen pertinentes.
 
 3. En la propuesta de resolución se fijarán de forma motivada los hechos que se consideren probados y su exacta calificación jurídica, se determinará la infracción que, en su caso, aquéllos constituyan, la persona o personas responsables y la sanción que se proponga, la valoración de las pruebas practicadas, en especial aquellas que constituyan los fundamentos básicos de la decisión, así como las medidas provisionales que, en su caso, se hubieran adoptado. Cuando la instrucción concluya la inexistencia de infracción o responsabilidad y no se haga uso de la facultad prevista en el apartado primero, la propuesta declarará esa circunstancia.
-
 
 #### Artículo 90. Especialidades de la resolución en los procedimientos sancionadores.
 
@@ -1551,7 +1438,6 @@ b) Habiendo el interesado interpuesto recurso contencioso-administrativo:
 
 4. Cuando las conductas sancionadas hubieran causado daños o perjuicios a las Administraciones y la cuantía destinada a indemnizar estos daños no hubiera quedado determinada en el expediente, se fijará mediante un procedimiento complementario, cuya resolución será inmediatamente ejecutiva. Este procedimiento será susceptible de terminación convencional, pero ni ésta ni la aceptación por el infractor de la resolución que pudiera recaer implicarán el reconocimiento voluntario de su responsabilidad. La resolución del procedimiento pondrá fin a la vía administrativa.
 
-
 #### Artículo 91. Especialidades de la resolución en los procedimientos en materia de responsabilidad patrimonial.
 
 1. Una vez recibido, en su caso, el dictamen al que se refiere el artículo 81.2 o, cuando éste no sea preceptivo, una vez finalizado el trámite de audiencia, el órgano competente resolverá o someterá la propuesta de acuerdo para su formalización por el interesado y por el órgano administrativo competente para suscribirlo. Cuando no se estimase procedente formalizar la propuesta de terminación convencional, el órgano competente resolverá en los términos previstos en el apartado siguiente.
@@ -1559,7 +1445,6 @@ b) Habiendo el interesado interpuesto recurso contencioso-administrativo:
 2. Además de lo previsto en el artículo 88, en los casos de procedimientos de responsabilidad patrimonial, será necesario que la resolución se pronuncie sobre la existencia o no de la relación de causalidad entre el funcionamiento del servicio público y la lesión producida y, en su caso, sobre la valoración del daño causado, la cuantía y el modo de la indemnización, cuando proceda, de acuerdo con los criterios que para calcularla y abonarla se establecen en el artículo 34 de la Ley de Régimen Jurídico del Sector Público.
 
 3. Transcurridos seis meses desde que se inició el procedimiento sin que haya recaído y se notifique resolución expresa o, en su caso, se haya formalizado el acuerdo, podrá entenderse que la resolución es contraria a la indemnización del particular.
-
 
 #### Artículo 92. Competencia para la resolución de los procedimientos de responsabilidad patrimonial.
 
@@ -1571,11 +1456,9 @@ En el caso de las Entidades de Derecho Público, las normas que determinen su r�
 
 Sección 3.ª Desistimiento y renuncia
 
-
 #### Artículo 93. Desistimiento por la Administración.
 
 En los procedimientos iniciados de oficio, la Administración podrá desistir, motivadamente, en los supuestos y con los requisitos previstos en las Leyes.
-
 
 #### Artículo 94. Desistimiento y renuncia por los interesados.
 
@@ -1590,7 +1473,6 @@ En los procedimientos iniciados de oficio, la Administración podrá desistir, m
 5. Si la cuestión suscitada por la incoación del procedimiento entrañase interés general o fuera conveniente sustanciarla para su definición y esclarecimiento, la Administración podrá limitar los efectos del desistimiento o la renuncia al interesado y seguirá el procedimiento.
 
 Sección 4.ª Caducidad
-
 
 #### Artículo 95. Requisitos y efectos.
 
@@ -1607,7 +1489,6 @@ En los casos en los que sea posible la iniciación de un nuevo procedimiento por
 CAPÍTULO VI
 
 De la tramitación simplificada del procedimiento administrativo común
-
 
 #### Artículo 96. Tramitación simplificada del procedimiento administrativo común.
 
@@ -1651,13 +1532,11 @@ CAPÍTULO VII
 
 Ejecución
 
-
 #### Artículo 97. Título.
 
 1. Las Administraciones Públicas no iniciarán ninguna actuación material de ejecución de resoluciones que limite derechos de los particulares sin que previamente haya sido adoptada la resolución que le sirva de fundamento jurídico.
 
 2. El órgano que ordene un acto de ejecución material de resoluciones estará obligado a notificar al particular interesado la resolución que autorice la actuación administrativa.
-
 
 #### Artículo 98. Ejecutoriedad.
 
@@ -1681,11 +1560,9 @@ c) Domiciliación bancaria.
 
 d) Cualesquiera otros que se autoricen por el órgano competente en materia de Hacienda Pública.
 
-
 #### Artículo 99. Ejecución forzosa.
 
 Las Administraciones Públicas, a través de sus órganos competentes en cada caso, podrán proceder, previo apercibimiento, a la ejecución forzosa de los actos administrativos, salvo en los supuestos en que se suspenda la ejecución de acuerdo con la Ley, o cuando la Constitución o la Ley exijan la intervención de un órgano judicial.
-
 
 #### Artículo 100. Medios de ejecución forzosa.
 
@@ -1703,13 +1580,11 @@ d) Compulsión sobre las personas.
 
 3. Si fuese necesario entrar en el domicilio del afectado o en los restantes lugares que requieran la autorización de su titular, las Administraciones Públicas deberán obtener el consentimiento del mismo o, en su defecto, la oportuna autorización judicial.
 
-
 #### Artículo 101. Apremio sobre el patrimonio.
 
 1. Si en virtud de acto administrativo hubiera de satisfacerse cantidad líquida se seguirá el procedimiento previsto en las normas reguladoras del procedimiento de apremio.
 
 2. En cualquier caso no podrá imponerse a los administrados una obligación pecuniaria que no estuviese establecida con arreglo a una norma de rango legal.
-
 
 #### Artículo 102. Ejecución subsidiaria.
 
@@ -1720,7 +1595,6 @@ d) Compulsión sobre las personas.
 3. El importe de los gastos, daños y perjuicios se exigirá conforme a lo dispuesto en el artículo anterior.
 
 4. Dicho importe podrá liquidarse de forma provisional y realizarse antes de la ejecución, a reserva de la liquidación definitiva.
-
 
 #### Artículo 103. Multa coercitiva.
 
@@ -1734,28 +1608,23 @@ c) Actos cuya ejecución pueda el obligado encargar a otra persona.
 
 2. La multa coercitiva es independiente de las sanciones que puedan imponerse con tal carácter y compatible con ellas.
 
-
 #### Artículo 104. Compulsión sobre las personas.
 
 1. Los actos administrativos que impongan una obligación personalísima de no hacer o soportar podrán ser ejecutados por compulsión directa sobre las personas en los casos en que la ley expresamente lo autorice, y dentro siempre del respeto debido a su dignidad y a los derechos reconocidos en la Constitución.
 
 2. Si, tratándose de obligaciones personalísimas de hacer, no se realizase la prestación, el obligado deberá resarcir los daños y perjuicios, a cuya liquidación y cobro se procederá en vía administrativa.
 
-
 #### Artículo 105. Prohibición de acciones posesorias.
 
 No se admitirán a trámite acciones posesorias contra las actuaciones de los órganos administrativos realizadas en materia de su competencia y de acuerdo con el procedimiento legalmente establecido.
 
-
 ## TÍTULO V
-
 
 **De la revisión de los actos en vía administrativa**
 
 CAPÍTULO I
 
 Revisión de oficio
-
 
 #### Artículo 106. Revisión de disposiciones y actos nulos.
 
@@ -1768,7 +1637,6 @@ Revisión de oficio
 4. Las Administraciones Públicas, al declarar la nulidad de una disposición o acto, podrán establecer, en la misma resolución, las indemnizaciones que proceda reconocer a los interesados, si se dan las circunstancias previstas en los artículos 32.2 y 34.1 de la Ley de Régimen Jurídico del Sector Público sin perjuicio de que, tratándose de una disposición, subsistan los actos firmes dictados en aplicación de la misma.
 
 5. Cuando el procedimiento se hubiera iniciado de oficio, el transcurso del plazo de seis meses desde su inicio sin dictarse resolución producirá la caducidad del mismo. Si el procedimiento se hubiera iniciado a solicitud de interesado, se podrá entender la misma desestimada por silencio administrativo.
-
 
 #### Artículo 107. Declaración de lesividad de actos anulables.
 
@@ -1784,11 +1652,9 @@ Sin perjuicio de su examen como presupuesto procesal de admisibilidad de la acci
 
 5. Si el acto proviniera de las entidades que integran la Administración Local, la declaración de lesividad se adoptará por el Pleno de la Corporación o, en defecto de éste, por el órgano colegiado superior de la entidad.
 
-
 #### Artículo 108. Suspensión.
 
 Iniciado el procedimiento de revisión de oficio al que se refieren los artículos 106 y 107, el órgano competente para declarar la nulidad o lesividad, podrá suspender la ejecución del acto, cuando ésta pudiera causar perjuicios de imposible o difícil reparación.
-
 
 #### Artículo 109. Revocación de actos y rectificación de errores.
 
@@ -1796,11 +1662,9 @@ Iniciado el procedimiento de revisión de oficio al que se refieren los artícul
 
 2. Las Administraciones Públicas podrán, asimismo, rectificar en cualquier momento, de oficio o a instancia de los interesados, los errores materiales, de hecho o aritméticos existentes en sus actos.
 
-
 #### Artículo 110. Límites de la revisión.
 
 Las facultades de revisión establecidas en este Capítulo, no podrán ser ejercidas cuando por prescripción de acciones, por el tiempo transcurrido o por otras circunstancias, su ejercicio resulte contrario a la equidad, a la buena fe, al derecho de los particulares o a las leyes.
-
 
 #### Artículo 111. Competencia para la revisión de oficio de las disposiciones y de actos nulos y anulables en la Administración General del Estado.
 
@@ -1826,7 +1690,6 @@ Recursos administrativos
 
 Sección 1.ª Principios generales
 
-
 #### Artículo 112. Objeto y clases.
 
 1. Contra las resoluciones y los actos de trámite, si estos últimos deciden directa o indirectamente el fondo del asunto, determinan la imposibilidad de continuar el procedimiento, producen indefensión o perjuicio irreparable a derechos e intereses legítimos, podrán interponerse por los interesados los recursos de alzada y potestativo de reposición, que cabrá fundar en cualquiera de los motivos de nulidad o anulabilidad previstos en los artículos 47 y 48 de esta Ley.
@@ -1845,11 +1708,9 @@ Los recursos contra un acto administrativo que se funden únicamente en la nulid
 
 4. Las reclamaciones económico-administrativas se ajustarán a los procedimientos establecidos por su legislación específica.
 
-
 #### Artículo 113. Recurso extraordinario de revisión.
 
 Contra los actos firmes en vía administrativa, sólo procederá el recurso extraordinario de revisión cuando concurra alguna de las circunstancias previstas en el artículo 125.1.
-
 
 #### Artículo 114. Fin de la vía administrativa.
 
@@ -1879,7 +1740,6 @@ c) Los emanados de los órganos directivos con nivel de Director general o super
 
 d) En los Organismos públicos y entidades derecho público vinculados o dependientes de la Administración General del Estado, los emanados de los máximos órganos de dirección unipersonales o colegiados, de acuerdo con lo que establezcan sus estatutos, salvo que por ley se establezca otra cosa.
 
-
 #### Artículo 115. Interposición de recurso.
 
 1. La interposición del recurso deberá expresar:
@@ -1898,7 +1758,6 @@ e) Las demás particularidades exigidas, en su caso, por las disposiciones espec
 
 3. Los vicios y defectos que hagan anulable un acto no podrán ser alegados por quienes los hubieren causado.
 
-
 #### Artículo 116. Causas de inadmisión.
 
 Serán causas de inadmisión las siguientes:
@@ -1912,7 +1771,6 @@ c) Tratarse de un acto no susceptible de recurso.
 d) Haber transcurrido el plazo para la interposición del recurso.
 
 e) Carecer el recurso manifiestamente de fundamento.
-
 
 #### Artículo 117. Suspensión de la ejecución.
 
@@ -1934,7 +1792,6 @@ La suspensión se prolongará después de agotada la vía administrativa cuando,
 
 5. Cuando el recurso tenga por objeto la impugnación de un acto administrativo que afecte a una pluralidad indeterminada de personas, la suspensión de su eficacia habrá de ser publicada en el periódico oficial en que aquél se insertó.
 
-
 #### Artículo 118. Audiencia de los interesados.
 
 1. Cuando hayan de tenerse en cuenta nuevos hechos o documentos no recogidos en el expediente originario, se pondrán de manifiesto a los interesados para que, en un plazo no inferior a diez días ni superior a quince, formulen las alegaciones y presenten los documentos y justificantes que estimen procedentes.
@@ -1945,7 +1802,6 @@ No se tendrán en cuenta en la resolución de los recursos, hechos, documentos o
 
 3. El recurso, los informes y las propuestas no tienen el carácter de documentos nuevos a los efectos de este artículo. Tampoco lo tendrán los que los interesados hayan aportado al expediente antes de recaer la resolución impugnada.
 
-
 #### Artículo 119. Resolución.
 
 1. La resolución del recurso estimará en todo o en parte o desestimará las pretensiones formuladas en el mismo o declarará su inadmisión.
@@ -1953,7 +1809,6 @@ No se tendrán en cuenta en la resolución de los recursos, hechos, documentos o
 2. Cuando existiendo vicio de forma no se estime procedente resolver sobre el fondo se ordenará la retroacción del procedimiento al momento en el que el vicio fue cometido, sin perjuicio de que eventualmente pueda acordarse la convalidación de actuaciones por el órgano competente para ello, de acuerdo con lo dispuesto en el artículo 52.
 
 3. El órgano que resuelva el recurso decidirá cuantas cuestiones, tanto de forma como de fondo, plantee el procedimiento, hayan sido o no alegadas por los interesados. En este último caso se les oirá previamente. No obstante, la resolución será congruente con las peticiones formuladas por el recurrente, sin que en ningún caso pueda agravarse su situación inicial.
-
 
 #### Artículo 120. Pluralidad de recursos administrativos.
 
@@ -1967,7 +1822,6 @@ La interposición del correspondiente recurso por un interesado, no afectará a 
 
 Sección 2.ª Recurso de alzada
 
-
 #### Artículo 121. Objeto.
 
 1. Las resoluciones y actos a que se refiere el artículo 112.1, cuando no pongan fin a la vía administrativa, podrán ser recurridos en alzada ante el órgano superior jerárquico del que los dictó. A estos efectos, los Tribunales y órganos de selección del personal al servicio de las Administraciones Públicas y cualesquiera otros que, en el seno de éstas, actúen con autonomía funcional, se considerarán dependientes del órgano al que estén adscritos o, en su defecto, del que haya nombrado al presidente de los mismos.
@@ -1977,7 +1831,6 @@ Sección 2.ª Recurso de alzada
 Si el recurso se hubiera interpuesto ante el órgano que dictó el acto impugnado, éste deberá remitirlo al competente en el plazo de diez días, con su informe y con una copia completa y ordenada del expediente.
 
 El titular del órgano que dictó el acto recurrido será responsable directo del cumplimiento de lo previsto en el párrafo anterior.
-
 
 #### Artículo 122. Plazos.
 
@@ -1991,13 +1844,11 @@ Si el acto no fuera expreso el solicitante y otros posibles interesados podrán 
 
 Sección 3.ª Recurso potestativo de reposición
 
-
 #### Artículo 123. Objeto y naturaleza.
 
 1. Los actos administrativos que pongan fin a la vía administrativa podrán ser recurridos potestativamente en reposición ante el mismo órgano que los hubiera dictado o ser impugnados directamente ante el orden jurisdiccional contencioso-administrativo.
 
 2. No se podrá interponer recurso contencioso-administrativo hasta que sea resuelto expresamente o se haya producido la desestimación presunta del recurso de reposición interpuesto.
-
 
 #### Artículo 124. Plazos.
 
@@ -2010,7 +1861,6 @@ Si el acto no fuera expreso, el solicitante y otros posibles interesados podrán
 3. Contra la resolución de un recurso de reposición no podrá interponerse de nuevo dicho recurso.
 
 Sección 4.ª Recurso extraordinario de revisión
-
 
 #### Artículo 125. Objeto y plazos.
 
@@ -2028,7 +1878,6 @@ d) Que la resolución se hubiese dictado como consecuencia de prevaricación, co
 
 3. Lo establecido en el presente artículo no perjudica el derecho de los interesados a formular la solicitud y la instancia a que se refieren los artículos 106 y 109.2 de la presente Ley ni su derecho a que las mismas se sustancien y resuelvan.
 
-
 #### Artículo 126. Resolución.
 
 1. El órgano competente para la resolución del recurso podrá acordar motivadamente la inadmisión a trámite, sin necesidad de recabar dictamen del Consejo de Estado u órgano consultivo de la Comunidad Autónoma, cuando el mismo no se funde en alguna de las causas previstas en el apartado 1 del artículo anterior o en el supuesto de que se hubiesen desestimado en cuanto al fondo otros recursos sustancialmente iguales.
@@ -2037,12 +1886,9 @@ d) Que la resolución se hubiese dictado como consecuencia de prevaricación, co
 
 3. Transcurrido el plazo de tres meses desde la interposición del recurso extraordinario de revisión sin haberse dictado y notificado la resolución, se entenderá desestimado, quedando expedita la vía jurisdiccional contencioso-administrativa.
 
-
 ## TÍTULO VI
 
-
 **De la iniciativa legislativa y de la potestad para dictar reglamentos y otras disposiciones**
-
 
 #### Artículo 127. Iniciativa legislativa y potestad para dictar normas con rango de ley.
 
@@ -2052,7 +1898,6 @@ La iniciativa legislativa se ejercerá por los órganos de gobierno de las Comun
 
 Asimismo, el Gobierno de la Nación podrá aprobar reales decretos-leyes y reales decretos legislativos en los términos previstos en la Constitución. Los respectivos órganos de gobierno de las Comunidades Autónomas podrán aprobar normas equivalentes a aquéllas en su ámbito territorial, de conformidad con lo establecido en la Constitución y en sus respectivos Estatutos de Autonomía.
 
-
 #### Artículo 128. Potestad reglamentaria.
 
 1. El ejercicio de la potestad reglamentaria corresponde al Gobierno de la Nación, a los órganos de Gobierno de las Comunidades Autónomas, de conformidad con lo establecido en sus respectivos Estatutos, y a los órganos de gobierno locales, de acuerdo con lo previsto en la Constitución, los Estatutos de Autonomía y la Ley 7/1985, de 2 de abril, reguladora de las Bases del Régimen Local.
@@ -2060,7 +1905,6 @@ Asimismo, el Gobierno de la Nación podrá aprobar reales decretos-leyes y reale
 2. Los reglamentos y disposiciones administrativas no podrán vulnerar la Constitución o las leyes ni regular aquellas materias que la Constitución o los Estatutos de Autonomía reconocen de la competencia de las Cortes Generales o de las Asambleas Legislativas de las Comunidades Autónomas. Sin perjuicio de su función de desarrollo o colaboración con respecto a la ley, no podrán tipificar delitos, faltas o infracciones administrativas, establecer penas o sanciones, así como tributos, exacciones parafiscales u otras cargas o prestaciones personales o patrimoniales de carácter público.
 
 3. Las disposiciones administrativas se ajustarán al orden de jerarquía que establezcan las leyes. Ninguna disposición administrativa podrá vulnerar los preceptos de otra de rango superior.
-
 
 #### Artículo 129. Principios de buena regulación.
 
@@ -2084,7 +1928,6 @@ Las leyes podrán habilitar directamente a Autoridades Independientes u otros or
 
 7. Cuando la iniciativa normativa afecte a los gastos o ingresos públicos presentes o futuros, se deberán cuantificar y valorar sus repercusiones y efectos, y supeditarse al cumplimiento de los principios de estabilidad presupuestaria y sostenibilidad financiera.
 
-
 #### Artículo 130. Evaluación normativa y adaptación de la normativa vigente a los principios de buena regulación.
 
 1. Las Administraciones Públicas revisarán periódicamente su normativa vigente para adaptarla a los principios de buena regulación y para comprobar la medida en que las normas en vigor han conseguido los objetivos previstos y si estaba justificado y correctamente cuantificado el coste y las cargas impuestas en ellas.
@@ -2093,22 +1936,17 @@ El resultado de la evaluación se plasmará en un informe que se hará público,
 
 2. Las Administraciones Públicas promoverán la aplicación de los principios de buena regulación y cooperarán para promocionar el análisis económico en la elaboración de las normas y, en particular, para evitar la introducción de restricciones injustificadas o desproporcionadas a la actividad económica.
 
-
 #### Artículo 131. Publicidad de las normas.
 
 Las normas con rango de ley, los reglamentos y disposiciones administrativas habrán de publicarse en el diario oficial correspondiente para que entren en vigor y produzcan efectos jurídicos. Adicionalmente, y de manera facultativa, las Administraciones Públicas podrán establecer otros medios de publicidad complementarios.
 
 La publicación de los diarios o boletines oficiales en las sedes electrónicas de la Administración, Órgano, Organismo público o Entidad competente tendrá, en las condiciones y con las garantías que cada Administración Pública determine, los mismos efectos que los atribuidos a su edición impresa.
 
-La publicación del «Boletín Oficial del Estado» en la sede electrónica del Organismo competente tendrá carácter oficial y auténtico en las condiciones y con las garantías que se determinen reglamentariamente, derivándose de dicha publicación los efectos previstos en el título preliminar del Código Civil y en las restantes normas aplicables.
-
-
 #### Artículo 132. Planificación normativa.
 
 1. Anualmente, las Administraciones Públicas harán público un Plan Normativo que contendrá las iniciativas legales o reglamentarias que vayan a ser elevadas para su aprobación en el año siguiente.
 
 2. Una vez aprobado, el Plan Anual Normativo se publicará en el Portal de la Transparencia de la Administración Pública correspondiente.
-
 
 #### Artículo 133. Participación de los ciudadanos en el procedimiento de elaboración de normas con rango de Ley y reglamentos.
 
@@ -2130,7 +1968,6 @@ d) Las posibles soluciones alternativas regulatorias y no regulatorias.
 
 Cuando la propuesta normativa no tenga un impacto significativo en la actividad económica, no imponga obligaciones relevantes a los destinatarios o regule aspectos parciales de una materia, podrá omitirse la consulta pública regulada en el apartado primero. Si la normativa reguladora del ejercicio de la iniciativa legislativa o de la potestad reglamentaria por una Administración prevé la tramitación urgente de estos procedimientos, la eventual excepción del trámite por esta circunstancia se ajustará a lo previsto en aquella.
 
-
 #### Disposición adicional primera. Especialidades por razón de materia.
 
 1. Los procedimientos administrativos regulados en leyes especiales por razón de la materia que no exijan alguno de los trámites previstos en esta Ley o regulen trámites adicionales o distintos se regirán, respecto a éstos, por lo dispuesto en dichas leyes especiales.
@@ -2145,39 +1982,25 @@ c) Las actuaciones y procedimientos sancionadores en materia tributaria y aduane
 
 d) Las actuaciones y procedimientos en materia de extranjería y asilo.
 
-
 #### Disposición adicional segunda. Adhesión de las Comunidades Autónomas y Entidades Locales a las plataformas y registros de la Administración General del Estado.
 
 Para cumplir con lo previsto en materia de registro electrónico de apoderamientos, registro electrónico, archivo electrónico único, plataforma de intermediación de datos y punto de acceso general electrónico de la Administración, las Comunidades Autónomas y las Entidades Locales podrán adherirse voluntariamente y a través de medios electrónicos a las plataformas y registros establecidos al efecto por la Administración General del Estado. Su no adhesión, deberá justificarse en términos de eficiencia conforme al artículo 7 de la Ley Orgánica 2/2012, de 27 de abril, de Estabilidad Presupuestaria y Sostenibilidad Financiera.
 
 En el caso que una Comunidad Autónoma o una Entidad Local justifique ante el Ministerio de Hacienda y Administraciones Públicas que puede prestar el servicio de un modo más eficiente, de acuerdo con los criterios previstos en el párrafo anterior, y opte por mantener su propio registro o plataforma, las citadas Administraciones deberán garantizar que éste cumple con los requisitos del Esquema Nacional de Interoperabilidad, el Esquema Nacional de Seguridad, y sus normas técnicas de desarrollo, de modo que se garantice su compatibilidad informática e interconexión, así como la transmisión telemática de las solicitudes, escritos y comunicaciones que se realicen en sus correspondientes registros y plataformas.
 
-
-#### Disposición adicional tercera. Notificación por medio de anuncio publicado en el «Boletín Oficial del Estado».
-
-1. El «Boletín Oficial del Estado» pondrá a disposición de las diversas Administraciones Públicas, un sistema automatizado de remisión y gestión telemática para la publicación de los anuncios de notificación en el mismo previstos en el artículo 44 de esta Ley y en esta disposición adicional. Dicho sistema, que cumplirá con lo establecido en esta Ley, y su normativa de desarrollo, garantizará la celeridad de la publicación, su correcta y fiel inserción, así como la identificación del órgano remitente.
-
-2. En aquellos procedimientos administrativos que cuenten con normativa específica, de concurrir los supuestos previstos en el artículo 44 de esta Ley, la práctica de la notificación se hará, en todo caso, mediante un anuncio publicado en el «Boletín Oficial del Estado», sin perjuicio de que previamente y con carácter facultativo pueda realizarse en la forma prevista por dicha normativa específica.
-
-3. La publicación en el «Boletín Oficial del Estado» de los anuncios a que se refieren los dos párrafos anteriores se efectuará sin contraprestación económica alguna por parte de quienes la hayan solicitado.
-
-
 #### Disposición adicional cuarta. Oficinas de asistencia en materia de registros.
 
 Las Administraciones Públicas deberán mantener permanentemente actualizado en la correspondiente sede electrónica un directorio geográfico que permita al interesado identificar la oficina de asistencia en materia de registros más próxima a su domicilio.
 
-
 #### Disposición adicional quinta. Actuación administrativa de los órganos constitucionales del Estado y de los órganos legislativos y de control autonómicos.
 
 La actuación administrativa de los órganos competentes del Congreso de los Diputados, del Senado, del Consejo General del Poder Judicial, del Tribunal Constitucional, del Tribunal de Cuentas, del Defensor del Pueblo, de las Asambleas Legislativas de las Comunidades Autónomas y de las instituciones autonómicas análogas al Tribunal de Cuentas y al Defensor del Pueblo, se regirá por lo previsto en su normativa específica, en el marco de los principios que inspiran la actuación administrativa de acuerdo con esta Ley.
-
 
 #### Disposición transitoria primera. Archivo de documentos.
 
 1. El archivo de los documentos correspondientes a procedimientos administrativos ya iniciados antes de la entrada en vigor de la presente Ley, se regirán por lo dispuesto en la normativa anterior.
 
 2. Siempre que sea posible, los documentos en papel asociados a procedimientos administrativos finalizados antes de la entrada en vigor de esta Ley, deberán digitalizarse de acuerdo con los requisitos establecidos en la normativa reguladora aplicable.
-
 
 #### Disposición transitoria segunda. Registro electrónico y archivo electrónico único.
 
@@ -2186,7 +2009,6 @@ Mientras no entren en vigor las previsiones relativas al registro electrónico y
 a) Durante el primer año, tras la entrada en vigor de la Ley, podrán mantenerse los registros y archivos existentes en el momento de la entrada en vigor de esta ley.
 
 b) Durante el segundo año, tras la entrada en vigor de la Ley, se dispondrá como máximo, de un registro electrónico y un archivo electrónico por cada Ministerio, así como de un registro electrónico por cada Organismo público.
-
 
 #### Disposición transitoria tercera. Régimen transitorio de los procedimientos.
 
@@ -2200,16 +2022,13 @@ d) Los actos y resoluciones pendientes de ejecución a la entrada en vigor de es
 
 e) A falta de previsiones expresas establecidas en las correspondientes disposiciones legales y reglamentarias, las cuestiones de Derecho transitorio que se susciten en materia de procedimiento administrativo se resolverán de acuerdo con los principios establecidos en los apartados anteriores.
 
-
 #### Disposición transitoria cuarta. Régimen transitorio de los archivos, registros y punto de acceso general.
 
 Mientras no entren en vigor las previsiones relativas al registro electrónico de apoderamientos, registro electrónico, punto de acceso general electrónico de la Administración y archivo único electrónico, las Administraciones Públicas mantendrán los mismos canales, medios o sistemas electrónicos vigentes relativos a dichas materias, que permitan garantizar el derecho de las personas a relacionarse electrónicamente con las Administraciones.
 
-
 #### Disposición transitoria quinta. Procedimientos de responsabilidad patrimonial derivados de la declaración de inconstitucionalidad de una norma o su carácter contrario al Derecho de la Unión Europea.
 
 Los procedimientos administrativos de responsabilidad patrimonial derivados de la declaración de inconstitucionalidad de una norma o su carácter contrario al Derecho de la Unión Europea iniciados con anterioridad a la entrada en vigor de esta Ley, se resolverán de acuerdo con la normativa vigente en el momento de su iniciación.
-
 
 #### Disposición derogatoria única. Derogación normativa.
 
@@ -2235,7 +2054,6 @@ Hasta que, de acuerdo con lo dispuesto en la disposición final séptima, produz
 
 3. Las referencias contenidas en normas vigentes a las disposiciones que se derogan expresamente deberán entenderse efectuadas a las disposiciones de esta Ley que regulan la misma materia que aquéllas.
 
-
 #### Disposición final primera. Título competencial.
 
 1. Esta Ley se aprueba al amparo de lo dispuesto en el artículo 149.1.18.ª de la Constitución Española, que atribuye al Estado la competencia para dictar las bases del régimen jurídico de las Administraciones Públicas y competencia en materia de procedimiento administrativo común y sistema de responsabilidad de todas las Administraciones Públicas.
@@ -2244,13 +2062,11 @@ Hasta que, de acuerdo con lo dispuesto en la disposición final séptima, produz
 
 3. Lo previsto en los artículos 92 primer párrafo, 111, 114.2 y disposición transitoria segunda, serán de aplicación únicamente a la Administración General del Estado, así como el resto de apartados de los distintos preceptos que prevén su aplicación exclusiva en el ámbito de la Administración General del Estado.
 
-
 #### Disposición final segunda. Modificación de la Ley 59/2003, de 19 de diciembre, de firma electrónica.
 
 En la Ley 59/2003, de 19 de diciembre, de firma electrónica, se incluye un nuevo apartado 11 en el artículo 3 con la siguiente redacción:
 
 «11. Todos los sistemas de identificación y firma electrónica previstos en la Ley de Procedimiento Administrativo Común de las Administraciones Públicas y en la Ley de Régimen Jurídico del Sector Público tendrán plenos efectos jurídicos.»
-
 
 #### Disposición final tercera. Modificación de la Ley 36/2011, de 10 de octubre, reguladora de la jurisdicción social.
 
@@ -2348,25 +2164,19 @@ Ocho. El artículo 117 queda redactado como sigue:
 
 3. El plazo de prescripción de esta acción es el previsto en el apartado 2 del artículo 59 del texto refundido de la Ley del Estatuto de los Trabajadores, iniciándose el cómputo del mismo, en caso de reclamación efectuada por el empresario, desde el momento en que éste sufre la disminución patrimonial ocasionada por el abono de los salarios de tramitación y, en caso de reclamación por el trabajador, desde la fecha de notificación al mismo del auto judicial que haya declarado la insolvencia del empresario.»
 
-
 #### Disposición final cuarta. Referencias normativas.
 
 Las referencias hechas a la Ley 30/1992, de 26 de noviembre, de Régimen Jurídico de las Administraciones Públicas y del Procedimiento Administrativo Común, se entenderán hechas a la Ley del Procedimiento Administrativo Común de las Administraciones Públicas o a la Ley de Régimen Jurídico del Sector Público, según corresponda.
-
 
 #### Disposición final quinta. Adaptación normativa.
 
 En el plazo de un año a partir de la entrada en vigor de la Ley, se deberán adecuar a la misma las normas reguladoras estatales, autonómicas y locales de los distintos procedimientos normativos que sean incompatibles con lo previsto en esta Ley.
 
-
 #### Disposición final sexta. Desarrollo normativo de la Ley.
 
 Se faculta al Consejo de Ministros y al Ministro de Hacienda y Administraciones Públicas, en el ámbito de sus competencias, para dictar cuantas disposiciones reglamentarias sean necesarias para el desarrollo de la presente Ley, así como para acordar las medidas necesarias para garantizar la efectiva ejecución e implantación de las previsiones de esta Ley.
 
-
 #### Disposición final séptima. Entrada en vigor.
-
-La presente Ley entrará en vigor al año de su publicación en el «Boletín Oficial del Estado».
 
 No obstante, las previsiones relativas al registro electrónico de apoderamientos, registro electrónico, registro de empleados públicos habilitados, punto de acceso general electrónico de la Administración y archivo único electrónico producirán efectos a los dos años de la entrada en vigor de la Ley.
 

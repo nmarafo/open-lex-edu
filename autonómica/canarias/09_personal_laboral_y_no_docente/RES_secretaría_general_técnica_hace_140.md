@@ -36,7 +36,6 @@ Boletín Oficial de Canarias
 Accesibilidad
 Mapa web
 Contacto
-Versión texto
 Inicio
 Archivo
 Búsqueda
@@ -45,11 +44,8 @@ Inicio
 Archivo
 Año 1996
 1996/057. Viernes 10 de Mayo de 1996
-679
-<p>Menú de búsqueda y navegación</p>
 Anterior
 Siguiente
-BOC Nº 057. Viernes 10 de Mayo de 1996 - 679
 III. OTRAS RESOLUCIONES - Consejería de Educación, Cultura y Deportes
 679 - RESOLUCIÓN de 18 de marzo de 1996, de la Secretaría General Técnica, por la que se hace pública la Circular 1/1996, que dicta instrucciones sobre control de horarios y absentismo del personal no docente de Centros escolares dependientes de la Consejería de Educación, Cultura y Deportes.
 Descargar en formato pdf
@@ -87,6 +83,3 @@ el que se modifica el Decreto 284/1989, de 19 de diciembre (B.O.C. de 1 de enero
 2.13. Las Direcciones Territoriales de Santa Cruz de Tenerife y de Las Palmas a través de las Secciones correspondientes, llevarán un control exhaustivo procediendo a la grabación informática inmediata de los partes de Incidencias mensuales remitidos por los diferentes Centros Educativos.
 2.14. Las Direcciones Territoriales de Santa Cruz de Tenerife y de Las Palmas enviarán a la Secretaría General Técnica (Servicio de Régimen Interior) antes del día 10 del mes siguiente un informe mensual y general de incidencias indicando las asistencias del personal funcionario y laboral en los Centros educativos dependientes de la Consejería, así como los días de falta a su puesto de trabajo.
 Ver anexos - páginas 3860-3863
-© Gobierno de Canarias
-Aviso Legal
-Sugerencias y Reclamaciones

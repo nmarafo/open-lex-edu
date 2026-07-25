@@ -38,7 +38,6 @@ Boletín Oficial de Canarias
 Accesibilidad
 Mapa web
 Contacto
-Versión texto
 Inicio
 Archivo
 Búsqueda
@@ -47,11 +46,8 @@ Inicio
 Archivo
 Año 2007
 2007/009. Viernes 12 de Enero de 2007
-143
-<p>Menú de búsqueda y navegación</p>
 Anterior
 Siguiente
-BOC Nº 009. Viernes 12 de Enero de 2007 - 143
 IV. ANUNCIOS - Otros anuncios - Consejería de Empleo y Asuntos Sociales
 143 - DirecciónGeneral de Trabajo.- Anuncio por el que se hace pública la Resolución de 21 de diciembre de 2006, relativa al registro, depósito y publicación del Acuerdo de la Comisión Negociadora del Convenio Colectivo del Personal Laboral de la Comunidad Autónoma de Canarias, para la modificación del artículo 11 del vigente convenio colectivo, así como de la Disposición Transitoria Primera.
 Descargar en formato pdf
@@ -82,6 +78,3 @@ La convocatoria podrá efectuarse con inclusión de todos los grupos retributivo
 2. Las bases de las convocatorias a que hace referencia el número anterior serán establecidas por la Administración, previa negociación con el Comité Intercentros.
 3. Hasta la culminación de los procesos selectivos previstos en esta Disposición no se llevarán a cabo los sistemas de selección y provisión establecidos en el Capítulo II del Convenio."
 Por la Administración: el Viceconsejero de Administración Pública; el Director General de la Función Pública.- Por el Comité Intercentros: el Presidente; el Secretario.
-© Gobierno de Canarias
-Aviso Legal
-Sugerencias y Reclamaciones

@@ -31,9 +31,6 @@ fuente_pdf_oficial: https://sede.gobiernodecanarias.org/boc/boc-a-2026-045-734.p
 
 # Resolución de 25 de febrero de 2026, por la que se establece la distribución horaria y estructura modular de los Grados C (Certificados Profesionales) y sus correspondientes Grados B (Certificados de Competencia), de niveles 2 y 3, de las familias profesionales de Administración y Gestión; Agraria; Informática y Comunicaciones; y Madera, Mueble y Corcho, en el ámbito de la Comunidad Autónoma de Canarias.
 
-https://sede.gobiernodecanarias.org/boc
-boc-a-2026-045-734
-Boletín Oficial de Canarias núm. 45 Viernes 6 de marzo de 20268317
 III. Otras Resoluciones
 Consejería de Educación, Formación Profesional, Actividad Física y Deportes
 734 Viceconsejería de Formación Profesional y Cualificaciones Profesionales.- Resolución 
@@ -74,9 +71,6 @@ Segundo.- El artículo 29.1 del citado Real Decreto dispone que las administraci
 competentes deberán determinar la duración de los Grados A, B y C vinculados a Grados 
 D de los que tuvieran desarrollo autonómico, estableciendo la misma duración horaria para 
 
-https://sede.gobiernodecanarias.org/boc
-boc-a-2026-045-734
-Boletín Oficial de Canarias núm. 45 Viernes 6 de marzo de 20268318
 cada módulo profesional en el ámbito autonómico, con independencia del grado en el que 
 se integren.
 Asimismo, el artículo 29.5 determina que, cuando un Grado C incorpore un módulo 
@@ -118,9 +112,6 @@ Instituto Nacional de las Cualificaciones, establece en su artículo 12, relativ
 del Catálogo Nacional de Ofertas de Formación Profesional, el marco estructural de dichas 
 ofertas.
 
-https://sede.gobiernodecanarias.org/boc
-boc-a-2026-045-734
-Boletín Oficial de Canarias núm. 45 Viernes 6 de marzo de 20268319
 En particular, el apartado 2 dispone la organización de las ofertas del Sistema de 
 Formación Profesional como dimensión vertical definitoria, estructurada de forma 
 escalonada en una serie ascendente de Grados. Esta ordenación es descriptiva de la amplitud 
@@ -163,9 +154,6 @@ recogidos en el Anexo III de la presente Resolución.
 Cuarto.- Aprobar la distribución horaria y la estructura modular de los Grados C 
 (Certificados Profesionales) y sus correspondientes Grados B (Certificados de Competencia) 
 
-https://sede.gobiernodecanarias.org/boc
-boc-a-2026-045-734
-Boletín Oficial de Canarias núm. 45 Viernes 6 de marzo de 20268320
 de niveles 2 y 3 de la familia profesional de Madera, Mueble y Corcho, en los términos 
 recogidos en el Anexo IV de la presente Resolución.
 Quinto.- La distribución horaria y estructura modular establecida en la presente 
@@ -194,9 +182,6 @@ cualquier otro que se estime procedente.
 Las Palmas de Gran Canaria, a 25 de febrero de 2026.- El Viceconsejero de Formación 
 Profesional y Cualificaciones Profesionales, Francisco Rodríguez Machado.
 
-boc-a-2026-045-734
-Boletín Oficial de Canarias núm. 45 Viernes 6 de marzo de 20268321
-https://sede.gobiernodecanarias.org/boc
 ANEXO I
 FAMILIA PROFESIONAL: ADMINISTRACIÓN Y GESTIÓN
 DISTRIBUCIÓN HORARIA Y ESTRUCTURA MODULAR DE LOS GRADOS C
@@ -258,9 +243,6 @@ En régimen general la formación en la empresa u organismo equiparado tendrá u
 En régimen intensivo la formación en la empresa u organismo equiparado tendrá una duración mínima de 250 horas
 ANEXO I
 
-boc-a-2026-045-734
-Boletín Oficial de Canarias núm. 45 Viernes 6 de marzo de 20268322
-https://sede.gobiernodecanarias.org/boc
 Certificado profesional: Actividades de apoyo administrativo en el ámbito laboral.
 • Código: ADG_C_003_4B.
 • Título de Formación Profesional asociado: Técnico en Gestión Administrativa.
@@ -310,9 +292,6 @@ Duración 705 30 21
 En régimen general la formación en la empresa u organismo equiparado tendrá una duración mínima de 180 horas
 En régimen intensivo la formación en la empresa u organismo equiparado tendrá una duración mínima de 250 horas
 
-boc-a-2026-045-734
-Boletín Oficial de Canarias núm. 45 Viernes 6 de marzo de 20268323
-https://sede.gobiernodecanarias.org/boc
 Certificado profesional: Protocolo y organización de eventos empresariales. 
 • Código: ADG_C_002_5B.
 • Título de Formación Profesional asociado: Técnico Superior en Asistencia a la Dirección.
@@ -368,9 +347,6 @@ Duración 710 30 21
 En régimen general la formación en la empresa u organismo equiparado tendrá una duración mínima de 180 horas
 En régimen intensivo la formación en la empresa u organismo equiparado tendrá una duración mínima de 250 horas
 
-boc-a-2026-045-734
-Boletín Oficial de Canarias núm. 45 Viernes 6 de marzo de 20268324
-https://sede.gobiernodecanarias.org/boc
 Certificado profesional: Administración y gestión de recursos humanos.
 • Código: ADG_C_004_5B.
 • Título de Formación Profesional asociado: Técnico Superior en Administración y Finanzas.
@@ -427,9 +403,6 @@ Duración 615 30 18
 En régimen general la formación en la empresa u organismo equiparado tendrá una duración mínima de 155 horas
 En régimen intensivo la formación en la empresa u organismo equiparado tendrá una duración mínima de 220 horas
 
-boc-a-2026-045-734
-Boletín Oficial de Canarias núm. 45 Viernes 6 de marzo de 20268325
-https://sede.gobiernodecanarias.org/boc
 ANEXO II
 FAMILIA PROFESIONAL: AGRARIA
 DISTRIBUCIÓN HORARIA Y ESTRUCTURA MODULAR DE LOS GRADOS C
@@ -471,9 +444,6 @@ resultantes se incorporan a la formación en empresa u organismo equiparado, tan
 régimen intensivo
 ANEXO II
 
-boc-a-2026-045-734
-Boletín Oficial de Canarias núm. 45 Viernes 6 de marzo de 20268326
-https://sede.gobiernodecanarias.org/boc
 Certificado profesional: Ganadería ecológica.
 • Código: AGA_C_002_4B.
 • Título de Formación Profesional asociado: Técnico en Producción Agroecológica.
@@ -528,9 +498,6 @@ Duración 530 30 16
 En régimen general la formación en la empresa u organismo equiparado tendrá una duración mínima de 135 horas
 En régimen intensivo la formación en empresa u organismo equiparado tendrá una duración mínima de 190 horas
 
-boc-a-2026-045-734
-Boletín Oficial de Canarias núm. 45 Viernes 6 de marzo de 20268327
-https://sede.gobiernodecanarias.org/boc
 Certificado profesional: Implantación y mantenimiento de zonas verdes.
 • Código: AGA_C_004_4B.
 • Título de Formación Profesional asociado: Técnico en Jardinería y Floristería.
@@ -587,9 +554,6 @@ Duración 365 30 22
 En régimen general la formación en la empresa u organismo equiparado tendrá una duración mínima de 95 horas
 En régimen intensivo la formación en empresa u organismo equiparado tendrá una duración mínima de 130 horas
 
-boc-a-2026-045-734
-Boletín Oficial de Canarias núm. 45 Viernes 6 de marzo de 20268328
-https://sede.gobiernodecanarias.org/boc
 Certificado profesional: Aprovechamiento del medio natural, repoblaciones forestales y tratamientos  
 selvícolas.
 • Código: AGA_C_006_4B.
@@ -642,9 +606,6 @@ Duración 340 30 20
 En régimen general la formación en la empresa u organismo equiparado tendrá una duración mínima de 85 horas
 En régimen intensivo la formación en empresa u organismo equiparado tendrá una duración mínima de 120 horas
 
-boc-a-2026-045-734
-Boletín Oficial de Canarias núm. 45 Viernes 6 de marzo de 20268329
-https://sede.gobiernodecanarias.org/boc
 Certificado profesional: Sanidad vegetal y control fitosanitario.
 • Código: AGA_C_008_4B.
 • Título de Formación Profesional asociado: Técnico en Aprovechamiento y Conservación del
@@ -693,9 +654,6 @@ Duración 225 30 14
 En régimen general la formación en la empresa u organismo equiparado tendrá una duración mínima de 60 horas
 En régimen intensivo la formación en empresa u organismo equiparado tendrá una duración mínima de 80 horas
 
-boc-a-2026-045-734
-Boletín Oficial de Canarias núm. 45 Viernes 6 de marzo de 20268330
-https://sede.gobiernodecanarias.org/boc
 Certificado profesional: Gestión de zonas verdes.
 • Código: AGA_C_001_5B.
 • Título de Formación Profesional asociado: Técnico Superior en Paisajismo y Medio Rural.
@@ -746,9 +704,6 @@ Duración 440 26
 En régimen general la formación en la empresa u organismo equiparado tendrá una duración mínima de 110 horas
 En régimen intensivo la formación en empresa u organismo equiparado tendrá una duración mínima de 155 horas
 
-boc-a-2026-045-734
-Boletín Oficial de Canarias núm. 45 Viernes 6 de marzo de 20268331
-https://sede.gobiernodecanarias.org/boc
 Certificado profesional: Gestión de explotaciones agrarias.
 • Código: AGA_C_003_5B.
 • Título de Formación Profesional asociado: Técnico Superior en Paisajismo y Medio Rural.
@@ -806,9 +761,6 @@ Duración 755 30 22
 En régimen general la formación en la empresa u organismo equiparado tendrá una duración mínima de 190 horas
 En régimen intensivo la formación en empresa u organismo equiparado tendrá una duración mínima de 265 horas
 
-boc-a-2026-045-734
-Boletín Oficial de Canarias núm. 45 Viernes 6 de marzo de 20268332
-https://sede.gobiernodecanarias.org/boc
 Certificado profesional: Gestión del vivero forestal.
 • Código: AGA_C_005_5B.
 • Título de Formación Profesional asociado: Técnico Superior en Gestión Forestal y del Medio
@@ -858,9 +810,6 @@ Duración 460 28
 En régimen general la formación en la empresa u organismo equiparado tendrá una duración mínima de 115 horas
 En régimen intensivo la formación en empresa u organismo equiparado tendrá una duración mínima de 165 horas 
 
-boc-a-2026-045-734
-Boletín Oficial de Canarias núm. 45 Viernes 6 de marzo de 20268333
-https://sede.gobiernodecanarias.org/boc
 Certificado profesional: Gestión de la producción ganadera.
 • Código: AGA_C_007_5B.
 • Título de Formación Profesional asociado: Técnico Superior en  Ganadería y Asistencia en
@@ -905,7 +854,6 @@ semanales
 (33 semanas)
 1276 Gestión de la recría de caballos
 Código del certificado de competencia: AGA_B_1276 138 8 4
-1277
 Organización y supervisión de la doma y manejo de 
 équidos
 Código del certificado de competencia: AGA_B_1277
@@ -917,9 +865,6 @@ Duración 510 30 15
 En régimen general la formación en la empresa u organismo equiparado tendrá una duración mínima de 130 horas
 En régimen intensivo la formación en empresa u organismo equiparado tendrá una duración mínima de 180 horas
 
-boc-a-2026-045-734
-Boletín Oficial de Canarias núm. 45 Viernes 6 de marzo de 20268334
-https://sede.gobiernodecanarias.org/boc
 Certificado profesional: Sanidad animal y asistencia veterinaria.
 • Código: AGA_C_009_5B.
 • Título de Formación Profesional asociado: Técnico Superior en  Ganadería y Asistencia en
@@ -948,9 +893,6 @@ Duración 680 30 20
 En régimen general la formación en la empresa u organismo equiparado tendrá una duración mínima de 170 horas
 En régimen intensivo la formación en empresa u organismo equiparado tendrá una duración mínima de 240 horas
 
-boc-a-2026-045-734
-Boletín Oficial de Canarias núm. 45 Viernes 6 de marzo de 20268335
-https://sede.gobiernodecanarias.org/boc
 ANEXO III
 FAMILIA PROFESIONAL: INFORMÁTICA Y COMUNICACIONES
 DISTRIBUCIÓN HORARIA Y ESTRUCTURA MODULAR DE LOS GRADOS C
@@ -1002,9 +944,6 @@ En régimen general la formación en la empresa u organismo equiparado tendrá u
 En régimen intensivo la formación en la empresa u organismo equiparado tendrá una duración mínima de 300 horas
 ANEXO III
 
-boc-a-2026-045-734
-Boletín Oficial de Canarias núm. 45 Viernes 6 de marzo de 20268336
-https://sede.gobiernodecanarias.org/boc
 Certificado profesional: Instalación y uso de aplicaciones ofimáticas. 
 • Código: IFC_C_003_4B.
 • Título  de  Formación  Profesional  asociado:  Técnico  en  Sistemas  Microinformáticos  y
@@ -1053,9 +992,6 @@ Duración 270 30 16
 En régimen general la formación en la empresa u organismo equiparado tendrá una duración mínima de 70 horas
 En régimen intensivo la formación en empresa u organismo equiparado tendrá una duración mínima de 95 horas 
 
-boc-a-2026-045-734
-Boletín Oficial de Canarias núm. 45 Viernes 6 de marzo de 20268337
-https://sede.gobiernodecanarias.org/boc
 Certificado profesional: Administración de servicios de internet. 
 • Código: IFC_C_002_5B.
 • Título  de  Formación  Profesional  asociado:  Técnico  Superior  en  Administración  de
@@ -1110,9 +1046,6 @@ Duración 640 30 19
 En régimen general la formación en la empresa u organismo equiparado tendrá una duración mínima de 160 horas
 En régimen intensivo la formación en la empresa u organismo equiparado tendrá una duración mínima de 225 horas
 
-boc-a-2026-045-734
-Boletín Oficial de Canarias núm. 45 Viernes 6 de marzo de 20268338
-https://sede.gobiernodecanarias.org/boc
 Certificado profesional: Programación de sistemas de gestión. 
 • Código: IFC_C_004_5B.
 • Título de Formación Profesional asociado: Técnico Superior en Desarrollo de Aplicaciones
@@ -1168,9 +1101,6 @@ Duración 575 30 17
 En régimen general la formación en la empresa u organismo equiparado tendrá una duración mínima de 145 horas
 En régimen intensivo la formación en la empresa u organismo equiparado tendrá una duración mínima de 205 horas
 
-boc-a-2026-045-734
-Boletín Oficial de Canarias núm. 45 Viernes 6 de marzo de 20268339
-https://sede.gobiernodecanarias.org/boc
 Certificado profesional: Programación de software de sistemas. 
 • Código: IFC_C_006_5B.
 • Título de Formación Profesional asociado: Técnico Superior en Desarrollo de Aplicaciones
@@ -1223,9 +1153,6 @@ Duración 850 25
 En régimen general la formación en la empresa u organismo equiparado tendrá una duración mínima de 215 horas
 En régimen intensivo la formación en la empresa u organismo equiparado tendrá una duración mínima de 300 horas
 
-boc-a-2026-045-734
-Boletín Oficial de Canarias núm. 45 Viernes 6 de marzo de 20268340
-https://sede.gobiernodecanarias.org/boc
 Certificado profesional: Desarrollo de aplicaciones web back-end. 
 • Código: IFC_C_008_5B.
 • Título de Formación Profesional asociado: Técnico Superior en Desarrollo de Aplicaciones
@@ -1251,9 +1178,6 @@ Duración 810 24
 En régimen general la formación en la empresa u organismo equiparado tendrá una duración mínima de 205 horas
 En régimen intensivo la formación en la empresa u organismo equiparado tendrá una duración mínima de 285 horas
 
-boc-a-2026-045-734
-Boletín Oficial de Canarias núm. 45 Viernes 6 de marzo de 20268341
-https://sede.gobiernodecanarias.org/boc
 ANEXO IV
 FAMILIA PROFESIONAL: MADERA, MUEBLE Y CORCHO
 DISTRIBUCIÓN HORARIA Y ESTRUCTURA MODULAR DE LOS GRADOS C
@@ -1312,9 +1236,6 @@ En régimen general la formación en la empresa u organismo equiparado tendrá u
 En régimen intensivo la formación en la empresa u organismo equiparado tendrá una duración mínima de 160 horas
 ANEXO IV
 
-boc-a-2026-045-734
-Boletín Oficial de Canarias núm. 45 Viernes 6 de marzo de 20268342
-https://sede.gobiernodecanarias.org/boc
 Certificado profesional: Instalación de estructuras de madera y elementos de carpintería.
 • Código: MAM_C_003_4B.
 • Título de Formación Profesional asociado: Técnico en Instalación y Amueblamiento.
@@ -1372,9 +1293,6 @@ Duración 710 30 21
 En régimen general la formación en la empresa u organismo equiparado tendrá una duración mínima de 180 horas
 En régimen intensivo la formación en la empresa u organismo equiparado tendrá una duración mínima de 250 horas
 
-boc-a-2026-045-734
-Boletín Oficial de Canarias núm. 45 Viernes 6 de marzo de 20268343
-https://sede.gobiernodecanarias.org/boc
 Certificado profesional: Diseño y desarrollo de productos en carpintería y mueble.
 • Código: MAM_C_001_5B.
 • Título de Formación Profesional asociado: Técnico Superior en Diseño y Amueblamiento.

@@ -39,7 +39,6 @@ Boletín Oficial de Canarias
 Accesibilidad
 Mapa web
 Contacto
-Versión texto
 Inicio
 Archivo
 Búsqueda
@@ -48,11 +47,8 @@ Inicio
 Archivo
 Año 1998
 1998/140. Viernes 6 de Noviembre de 1998
-3720
-<p>Menú de búsqueda y navegación</p>
 Anterior
 Siguiente
-BOC Nº 140. Viernes 6 de Noviembre de 1998 - 3720
 IV. ANUNCIOS - Otros anuncios - Consejería de Empleo y Asuntos Sociales
 3720 - Dirección General de Trabajo.- Anuncio de 19 de agosto de 1998, por el que se hace público Acuerdo de la Comisión Negociadora del Convenio Colectivo del Personal Laboral al servicio de la Comunidad Autónoma de Canarias de 6 de abril de 1998, relativo a la posibilidad de ampliar la duración máxima de los contratos a que se refiere el artº. 15.1.b) del Estatuto de los Trabajadores y de aplicación a la Consejería de Educación, Cultura y Deportes.
 Descargar en formato pdf
@@ -73,6 +69,3 @@ III.- El presente acuerdo será de aplicación exclusivamente en la Consejería 
 IV.- La Consejería de Educación, Cultura y Deportes se compromete a establecer los criterios que motivan este tipo de contratación, elevándose a la Coordinadora a los efectos de su negociación.
 V.- El presente acuerdo se publicará en el Boletín Oficial de Canarias como parte integrante del Convenio Colectivo del Personal Laboral al servicio de la Comunidad Autónoma de Canarias, y surtirá efectos desde el 31 de marzo de 1998.
 Por la Administración.	Por el Comité Intercentros.
-© Gobierno de Canarias
-Aviso Legal
-Sugerencias y Reclamaciones

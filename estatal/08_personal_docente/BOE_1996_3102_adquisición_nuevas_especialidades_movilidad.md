@@ -31,15 +31,8 @@ fundamentos_derecho:
   articulos:
   - '1'
 ---
+
 # Orden de 1 de febrero de 1996 por la que se aprueban los temarios que han de regir en los procedimientos de ingreso, adquisición de nuevas especialidades y movilidad para determinadas especialidades de los Cuerpos de Profesores de Enseñanza Secundaria y Profesores Técnicos de Formación Profesional.
-
-El Real Decreto 850/1993, de 4 de junio («Boletín Oficial del Estado» del 30), por el que se regula el ingreso y la adquisición de nuevas especialidades en los Cuerpos de Funcionarios Docentes a que se refiere la Ley Orgánica 1/1990, de 3 de octubre, de Ordenación General del Sistema Educativo, establece un nuevo sistema de acceso que pone fin al procedimiento singular previsto en la disposición transitoria quinta de la misma Ley.
-
-Por su parte, por la Orden de 9 de septiembre de 1993 («Boletín Oficial del Estado» del 21), se aprobaban los temarios que han de regir en los procedimientos de ingreso, adquisición de nuevas especialidades y movilidad para determinadas especialidades del Cuerpo de Profesores de Enseñanza Secundaria, entre otros cuerpos de funcionarios docentes, regulados por el Real Decreto 850/1993 de 4 de junio, antes citado.
-
-La Orden de 22 de febrero de 1994 («Boletín Oficial del Estado» del 28) establecía en los anexos I y III la relación de las antiguas especialidades de los Cuerpos de Profesores de Enseñanza Secundaria y Profesores Técnicos de Formación Profesional respectivamente, junto con las Ordenes ministeriales por las que se establecían los cuestionarios específicos que constituían la parte A de los temarios correspondientes a cada una de las antiguas especialidades de ambos Cuerpos de Profesores.
-
-El Real Decreto 1635/1995, de 6 de octubre («Boletín Oficial del Estado» del 10) por el que se adscribe el profesorado de los Cuerpos de Profesores de Enseñanza Secundaria y Profesores Técnicos de Formación Profesional a las especialidades propias de la Formación Profesional Específica y se regulan determinados aspectos de la atribución de competencias docentes respecto de los funcionarios de ambos cuerpos, establece en el anexo II a), la relación de especialidades del Cuerpo de Profesores de Enseñanza Secundaria, y en el anexo IV a), la relación de las especialidades del Cuerpo de Profesores Técnicos de Formación Profesional, derivadas de la ordenación de la Formación Profesional Específica.
 
 Con objeto de adecuar el contenido de la parte A de los temarios a las nuevas enseñanzas de la Formación Profesional Específica, procede aprobar los temarios para las distintas especialidades de los Cuerpos de Profesores de Enseñanza Secundaria y Profesores Técnicos de Formación Profesional, en función de los contenidos básicos de los módulos profesionales sobre los que tienen atribución docente las especialidades del profesorado, según el Real Decreto 1635/1995. Igualmente, para concluir el proceso iniciado con la Orden de 9 de septiembre de 1993, se incluye el temario de la especialidad de Economía del Cuerpo de Profesores de Enseñanza Secundaria.
 
@@ -58,8 +51,6 @@ Tercero.-1. El cuestionario de carácter didáctico y de contenido educativo gen
 2. El cuestionario de carácter didáctico y de contenido educativo general que constituye la parte B, a la que se refiere el artículo 24 del Real Decreto antes citado, será, para la especialidad de Economía del Cuerpo de Profesores de Enseñanza Secundaria, el establecido como anexo IV de la Orden Ministerial de 9 de septiembre de 1993.
 
 Cuarto.-Quedan derogadas cuantas Ordenes afecten a los temarios de las antiguas especialidades de los Cuerpos de Profesores de Enseñanza Secundaria y de Profesores Técnicos de Formación Profesional relacionadas en los anexos II d) y IV c), respectivamente, del Real Decreto 1635/1995, de 6 de octubre.
-
-Quinto.-La presente Orden entrará en vigor el día siguiente al de su publicación en el «Boletín Oficial del Estado».
 
 Madrid, 1 de febrero de 1996.
 

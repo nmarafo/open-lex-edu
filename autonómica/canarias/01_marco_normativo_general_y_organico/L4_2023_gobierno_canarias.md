@@ -36,12 +36,9 @@ motor_ocr: rapidocr_onnxruntime
 
 --- Página 1 (Transcripción OCR de Anexo/Imagen) ---
 
-17600
-Boletin Oficial de Canarias num. 60
 Lunes 27 de marzo de 2023
 I. Disposiciones generales
 Presidencia del Gobierno
-884
 DECRETO ley 3/2023, de 23 de marzo, por el que se aprueban las condiciones y
 las cuantias maximas de las prestaciones economicas Vinculada al servicio y la de
 Cuidados en el entorno familiar y de apoyo a personas cuidadoras no profesionales,
@@ -76,13 +73,9 @@ a la dependencia que podran tener la naturaleza de servicios y de prestaciones e
 e iran destinadas, por una parte, a la promocion de la autonomia personal y, por otra, a
 atender necesidades de las personas con dificultades para la realizacion de las actividades
 basicas de la vida diaria.
-https://sede.gobiernodecanarias.org/boc
-boc-a-2023-060-884
 
 --- Página 2 (Transcripción OCR de Anexo/Imagen) ---
 
-17601
-Boletin Oficial de Canarias num. 60
 Lunes 27 de marzo de 2023
 Las prestaciones economicas se regulan en los articulos 17 y 18 de la Ley, distinguiendo
 entre prestaciones economicas vinculadas al servicio (PEVS) y prestacion economica para
@@ -134,13 +127,9 @@ Grado 1
 153,00 
 Por su parte, en el Real Decreto 1051/2013, de 27 de diciembre, se regulan las prestaciones
 del Sistema para la Autonomia y Atencion a la Dependencia (SAAD), establecidas en la
-https://sede.gobiernodecanarias.org/boc
-boc-a-2023-060-884
 
 --- Página 3 (Transcripción OCR de Anexo/Imagen) ---
 
-17602
-Boletin Oficial de Canarias num. 60
 Lunes 27 de marzo de 2023
 Ley 39/2006, de 14 de diciembre, de Promocion de la Autonomia Personal y Atencion a las
 personas en situacion de dependencia.
@@ -185,12 +174,9 @@ cantidad que fue disminuida en ese ano y que nunca en Canarias ha sido revisada 
 a la situacion actual de precios y del coste de la vida de las personas dependientes y sus
 familias.
 https:/sede.gobiernodecanarias.org/boc
-boc-a-2023-060-884
 
 --- Página 4 (Transcripción OCR de Anexo/Imagen) ---
 
-17603
-Boletin Oficial de Canarias num. 60
 Lunes 27 de marzo de 2023
 Respecto de la Prestacion economica vinculada al servicio se establece un porcentaje
 de incremento lineal en torno al 12% respecto a las cuantias actualmente vigentes, para
@@ -236,13 +222,9 @@ finalizo el 18 de noviembre de 2019. Lo que resulto materialmente imposible de c
 por tratarse de ano electoral, al aprobarse la LSSC al final de la Legislatura y a resultas del
 cambio de Gobierno producido a consecuencias del proceso electoral acontecido, lo que
 devino en imposible el cumplir el citado plazo normativo.
-https://sede.gobiernodecanarias.org/boc
-boc-a-2023-060-884
 
 --- Página 5 (Transcripción OCR de Anexo/Imagen) ---
 
-17604
-Boletin Oficial de Canarias num. 60
 Lunes 27 de marzo de 2023
 Por su parte, la disposicion derogatoria unica en su apartado 3 de la LSSC dispuso que:
 "Queda derogado el Decreto 93/2014, de 19 de septiembre, por el que se establecen los
@@ -288,12 +270,9 @@ Autonoma competencia exclusiva en materia de servicios sociales. La Ley 16/2019,
 2 de mayo, de Servicios Sociales de Canarias, en su articulo 21 incluye las prestaciones
 economicas del sistema publico de servicios sociales y en el apartado 2, letra b), las
 https:/sede.gobiernodecanarias.org/boc
-boc-a-2023-060-884
 
 --- Página 6 (Transcripción OCR de Anexo/Imagen) ---
 
-17605
-Boletin Oficial de Canarias num. 60
 Lunes 27 de marzo de 2023
 prestaciones destinadas a apoyar y compensar a las personas que asuman las tareas de
 cuidado en el entorno familiar, esenciales para el desenvolvimiento autonomo y la inclusion
@@ -335,13 +314,9 @@ alguna al ejercicio de sus derechos, garantizando su desarrollo personal y socia
 prestaciones especializados para las personas en situacion de discapacidad o de dependencia,
 con la supresion de barreras fisicas y legales facilitando su desarrollo en todas las facetas,
 conforme se establezca en las leyes."
-https://sede.gobiernodecanarias.org/boc
-boc-a-2023-060-884
 
 --- Página 7 (Transcripción OCR de Anexo/Imagen) ---
 
-17606
-Boletin Oficial de Canarias num. 60
 Lunes 27 de marzo de 2023
 Entendemos por ello que es necesario suplementar las prestaciones que se perciben
 en concepto de Prestacion economica vinculada al servicio y Prestacion economica por
@@ -383,13 +358,9 @@ cargo al nivel adicional de proteccion de la Comunidad Autonoma de Canarias.
 El articulo 8 trata del pago y justificacion del gasto, a partir de las resoluciones que
 reconozcan la Prestacion economica para cuidados en el entorno familiar y apoyo a personas
 cuidadoras no profesionales.
-https://sede.gobiernodecanarias.org/boc
-boc-a-2023-060-884
 
 --- Página 8 (Transcripción OCR de Anexo/Imagen) ---
 
-17607
-Boletin Oficial de Canarias num. 60
 Lunes 27 de marzo de 2023
 Por ultimo, en la parte final de este Decreto ley, las disposiciones adicionales tratan, la
 primera, sobre la financiacion de las Prestaciones; la segunda, sobre la revision futura de
@@ -435,12 +406,9 @@ estructural respecto de los ajustes que son necesarios realizar al Sistema de la
 en Canarias. Por todo ello queda acreditada la concurrencia de motivos que justifican la
 extraordinaria y urgente necesidad de las medidas adoptadas en el presente Decreto ley
 https:/sede.gobiernodecanarias.org/boc
-boc-a-2023-060-884
 
 --- Página 9 (Transcripción OCR de Anexo/Imagen) ---
 
-17608
-Boletin Oficial de Canarias num. 60
 Lunes 27 de marzo de 2023
 para las personas senaladas, tanto para contribuir a la financiacion del coste del servicio
 que se determine en el Programa Individual de Atencion (PIA) de la persona en situacion de
@@ -487,13 +455,9 @@ supletoria por mor de lo dispuesto en la disposicion final primera de la Ley 1/1
 Canarias, que excluye la aplicacion de las normas para la tramitacion de anteproyectos
 de ley y normas reglamentarias, a los decretos leyes, a excepcion de la elaboracion de la
 memoria prevista en el apartado 3 del citado articulo, que con caracter abreviado se ha
-https://sede.gobiernodecanarias.org/boc
-boc-a-2023-060-884
 
 --- Página 10 (Transcripción OCR de Anexo/Imagen) ---
 
-17609
-Boletin Oficial de Canarias num. 60
 Lunes 27 de marzo de 2023
 acompanado al procedimiento conducente a la aprobacion de este Decreto ley tramitado en
 la Consejeria de Derechos Sociales, Igualdad, Diversidad y Juventud.
@@ -540,13 +504,9 @@ persigue, entre otros objetivos, el de detectar y atender las situaciones de car
 recursos basicos y de exclusion social, tanto de las personas como de los grupos, asi como
 de la comunidad en general, y al mismo tiempo sus actuaciones deben orientarse para
 evitar el riesgo de que se produzcan situaciones de mayor necesidad social, y en particular
-https://sede.gobiernodecanarias.org/boc
-boc-a-2023-060-884
 
 --- Página 11 (Transcripción OCR de Anexo/Imagen) ---
 
-17610
-Boletin Oficial de Canarias num. 60
 Lunes 27 de marzo de 2023
 para el presente Decreto ley, el detectar, prevenir y atender las necesidades derivadas de la
 dependencia con el objetivo de promover la autonomia de las personas, como uno de los
@@ -590,12 +550,9 @@ en el ambito de la Comunidad Autonoma de Canarias, no sea posible el acceso a lo
 2. Esta prestacion economica de caracter personal podra vincularse a cualquiera de los
 servicios del catalogo del Sistema para la Autonomia y Atencion a la Dependencia.
 https:/sede.gobiernodecanarias.org/boc
-boc-a-2023-060-884
 
 --- Página 12 (Transcripción OCR de Anexo/Imagen) ---
 
-17611
-Boletin Oficial de Canarias num. 60
 Lunes 27 de marzo de 2023
 Articulo 2. Condiciones de acceso a la Prestacion economica vinculada al servicio
 (PEVS).
@@ -638,13 +595,9 @@ Administracion.
 de dependencia, tan pronto como se conozcan y, en todo caso, en el plazo maximo de diez
 dias, los cambios, en su caso, producidos relativos al prestador del servicio, a los efectos
 de comprobar el cumplimiento de los requisitos establecidos en el presente Decreto ley.
-https://sede.gobiernodecanarias.org/boc
-boc-a-2023-060-884
 
 --- Página 13 (Transcripción OCR de Anexo/Imagen) ---
 
-17612
-Boletin Oficial de Canarias num. 60
 Lunes 27 de marzo de 2023
 CAPiTULO II
 LA PRESTACION ECONOMICA PARA CUIDADOS EN EL ENTORNO FAMILIAR
@@ -687,13 +640,9 @@ de dependencia.
 2. La concesion de esta prestacion debe conllevar la designacion de una persona
 cuidadora no profesional, que debera asumir directa y personalmente la responsabilidad
 del cuidado y atencion de la persona en situacion de dependencia.
-https://sede.gobiernodecanarias.org/boc
-boc-a-2023-060-884
 
 --- Página 14 (Transcripción OCR de Anexo/Imagen) ---
 
-17613
-Boletin Oficial de Canarias num. 60
 Lunes 27 de marzo de 2023
 3. Las condiciones para acceder a la PECEF seran las siguientes:
 a) Que la atencion y los cuidados que se deriven de su situacion de dependencia se presten
@@ -734,13 +683,9 @@ Con caracter general se exigira el periodo de atencion previa de un ano. Se ente
 cumplido el requisito, con cargo al nivel adicional de proteccion de esta Comunidad
 Autonoma, en el caso de que la atencion no hubiera sido necesaria en dicho periodo cuando
 la situacion de dependencia se deba a una circunstancia sobrevenida con posterioridad.
-https://sede.gobiernodecanarias.org/boc
-boc-a-2023-060-884
 
 --- Página 15 (Transcripción OCR de Anexo/Imagen) ---
 
-17614
-Boletin Oficial de Canarias num. 60
 Lunes 27 de marzo de 2023
 La persona cuidadora no familiar no podra tener la consideracion de empleada o
 empleado de hogar en el domicilio de la persona beneficiaria, ni la atencion y cuidados
@@ -784,13 +729,9 @@ de dependencia, tan pronto como se conozcan y, en todo caso, en el plazo maximo 
 dias, los cambios, en su caso, producidos relativos a su situacion personal o la de la persona
 cuidadora, a los efectos de comprobar el cumplimiento de los requisitos establecidos en el
 presente Decreto ley.
-https://sede.gobiernodecanarias.org/boc
-boc-a-2023-060-884
 
 --- Página 16 (Transcripción OCR de Anexo/Imagen) ---
 
-17615
-Boletin Oficial de Canarias num. 60
 Lunes 27 de marzo de 2023
 Disposicion adicional primera.- Financiacion de las Prestaciones.
 Las obligaciones que se reconozcan como consecuencia de la aplicacion del presente
@@ -862,13 +803,9 @@ IPREM
 75%
 Mas de cinco veces el IPREM
 50%
-https://sede.gobiernodecanarias.org/boc
-boc-a-2023-060-884
 
 --- Página 17 (Transcripción OCR de Anexo/Imagen) ---
 
-17616
-Boletin Oficial de Canarias num. 60
 Lunes 27 de marzo de 2023
 Disposicion final primera.- Fecha de efectos economicos.
 La fecha de efectos economicos de las cuantias a los que se refiere los articulos 3 y 7 de
@@ -897,5 +834,3 @@ Angel Victor Torres Pérez
 LA CONSEJERA DE DERECHOS SOCIALES,
 IGUALDAD, DIVERSIDAD Y JUVENTUD,
 Noemi Santana Perera.
-https://sede.gobiernodecanarias.org/boc
-boc-a-2023-060-884

@@ -28,9 +28,7 @@ fundamentos_derecho:
 
 # Ley 59/2003, de 19 de diciembre, de firma electrónica.
 
-
 **JUAN CARLOS I**
-
 
 **REY DE ESPAÑA**
 
@@ -38,16 +36,13 @@ A todos los que la presente vieren y entendieren.
 
 Sabed: Que las Cortes Generales han aprobado y Yo vengo en sancionar la siguiente ley.
 
-
 ## EXPOSICIÓN DE MOTIVOS
-
 
 **I**
 
 El Real Decreto Ley 14/1999, de 17 de septiembre, sobre firma electrónica, fue aprobado con el objetivo de fomentar la rápida incorporación de las nuevas tecnologías de seguridad de las comunicaciones electrónicas en la actividad de las empresas, los ciudadanos y las Administraciones públicas. De este modo, se coadyuvaba a potenciar el crecimiento y la competitividad de la economía española mediante el rápido establecimiento de un marco jurídico para la utilización de una herramienta que aporta confianza en la realización de transacciones electrónicas en redes abiertas como es el caso de Internet. El citado real decreto ley incorporó al ordenamiento público español la Directiva 1999/93/CE del Parlamento Europeo y del Consejo, de 13 de diciembre de 1999, por la que se establece un marco comunitario para la firma electrónica, incluso antes de su promulgación y publicación en el Diario Oficial de las Comunidades Europeas.
 
 Tras su ratificación por el Congreso de los Diputados, se acordó la tramitación del Real Decreto Ley 14/1999 como proyecto de ley, con el fin de someterlo a una más amplia consulta pública y al posterior debate parlamentario para perfeccionar su texto. No obstante, esta iniciativa decayó al expirar el mandato de las Cámaras en marzo de 2000. Esta ley, por tanto, es el resultado del compromiso asumido en la VI Legislatura, actualizando a la vez el marco establecido en el Real Decreto Ley 14/1999 mediante la incorporación de las modificaciones que aconseja la experiencia acumulada desde su entrada en vigor tanto en nuestro país como en el ámbito internacional.
-
 
 **II**
 
@@ -68,7 +63,6 @@ Por otra parte, la ley contiene las garantías que deben ser cumplidas por los d
 La certificación técnica de los dispositivos seguros de creación de firma electrónica se basa en el marco establecido por la Ley 21/1992, de 16 de julio, de Industria y en sus disposiciones de desarrollo. Para esta certificación se utilizarán las normas técnicas publicadas a tales efectos en el "Diario Oficial de las Comunidades Europeas" o, excepcionalmente, las aprobadas por el Ministerio de Ciencia y Tecnología.
 
 Adicionalmente, la ley establece un marco de obligaciones aplicables a los prestadores de servicios de certificación, en función de si éstos emiten certificados reconocidos o no, y determina su régimen de responsabilidad, teniendo en cuenta los deberes de diligencia que incumben a los firmantes y a los terceros destinatarios de documentos firmados electrónicamente.
-
 
 **III**
 
@@ -114,7 +108,6 @@ Por último, debe destacarse que la ley permite que los prestadores de servicios
 
 Dichos mecanismos de coordinación también podrán contemplar la notificación telemática por parte de los registros a los prestadores de servicios de certificación de las variaciones registrales posteriores.
 
-
 **IV**
 
 La ley consta de 36 artículos agrupados en seis títulos, 10 disposiciones adicionales, dos disposiciones transitorias, una disposición derogatoria y tres disposiciones finales.
@@ -133,19 +126,15 @@ Por último, cierran el texto las disposiciones adicionales -que aluden a los re
 
 Esta disposición ha sido sometida al procedimiento de información en materia de normas y reglamentaciones técnicas previsto en la Directiva 98/34/CE, del Parlamento Europeo y del Consejo, de 22 de junio de 1998, por la que se establece un procedimiento de información en materia de normas y reglamentaciones técnicas, modificada por la Directiva 98/48/CE, del Parlamento Europeo y del Consejo, de 20 de julio de 1998, y en el Real Decreto 1337/1999, de 31 de julio, por el que se regula la remisión de información en materia de normas y reglamentaciones técnicas y reglamentos relativos a los servicios de la sociedad de la información.
 
-
 ## TÍTULO I
 
-
 **Disposiciones generales**
-
 
 #### Artículo 1. Objeto.
 
 1. Esta ley regula la firma electrónica, su eficacia jurídica y la prestación de servicios de certificación.
 
 2. Las disposiciones contenidas en esta ley no alteran las normas relativas a la celebración, formalización, validez y eficacia de los contratos y cualesquiera otros actos jurídicos ni las relativas a los documentos en que unos y otros consten.
-
 
 #### Artículo 2. Prestadores de servicios de certificación sujetos a la ley.
 
@@ -160,7 +149,6 @@ Esta disposición ha sido sometida al procedimiento de información en materia d
 5. Se presumirá que un prestador de servicios de certificación está establecido en España cuando dicho prestador o alguna de sus sucursales se haya inscrito en el Registro Mercantil o en otro registro público español en el que fuera necesaria la inscripción para la adquisición de personalidad jurídica.
 
 La mera utilización de medios tecnológicos situados en España para la prestación o el acceso al servicio no implicará, por sí sola, el establecimiento del prestador en España.
-
 
 #### Artículo 3. Firma electrónica, y documentos firmados electrónicamente.
 
@@ -190,7 +178,6 @@ c) Documentos privados.
 
 10. A los efectos de lo dispuesto en este artículo, cuando una firma electrónica se utilice conforme a las condiciones acordadas por las partes para relacionarse entre sí, se tendrá en cuenta lo estipulado entre ellas.
 
-
 #### Artículo 4. Empleo de la firma electrónica en el ámbito de las Administraciones públicas.
 
 1. Esta ley se aplicará al uso de la firma electrónica en el seno de las Administraciones públicas, sus organismos públicos y las entidades dependientes o vinculadas a las mismas y en las relaciones que mantengan aquéllas y éstos entre sí o con los particulares.
@@ -203,7 +190,6 @@ Las Administraciones públicas, con el objeto de salvaguardar las garantías de 
 
 4. La utilización de la firma electrónica en las comunicaciones que afecten a la información clasificada, a la seguridad pública o a la defensa nacional se regirá por su normativa específica.
 
-
 #### Artículo 5. Régimen de prestación de los servicios de certificación.
 
 1. La prestación de servicios de certificación no está sujeta a autorización previa y se realizará en régimen de libre competencia. No podrán establecerse restricciones para los servicios de certificación que procedan de otro Estado miembro del Espacio Económico Europeo.
@@ -212,9 +198,7 @@ Las Administraciones públicas, con el objeto de salvaguardar las garantías de 
 
 3. La prestación al público de servicios de certificación por las Administraciones públicas, sus organismos públicos o las entidades dependientes o vinculadas a las mismas se realizará con arreglo a los principios de objetividad, transparencia y no discriminación.
 
-
 ## TÍTULO II
-
 
 **Certificados electrónicos**
 
@@ -222,13 +206,11 @@ CAPÍTULO I
 
 Disposiciones generales
 
-
 #### Artículo 6. Concepto de certificado electrónico y de firmante.
 
 1. Un certificado electrónico es un documento firmado electrónicamente por un prestador de servicios de certificación que vincula unos datos de verificación de firma a un firmante y confirma su identidad.
 
 2. El firmante es la persona que posee un dispositivo de creación de firma y que actúa en nombre propio o en nombre de una persona física o jurídica a la que representa.
-
 
 #### Artículo 7. Certificados electrónicos de personas jurídicas.
 
@@ -249,7 +231,6 @@ Si la firma se utiliza transgrediendo los límites mencionados, la persona jurí
 5. Lo dispuesto en este artículo no será de aplicación a los certificados que sirvan para verificar la firma electrónica del prestador de servicios de certificación con la que firme los certificados electrónicos que expida.
 
 6. Lo dispuesto en este artículo no será de aplicación a los certificados que se expidan a favor de las Administraciones públicas, que estarán sujetos a su normativa específica.
-
 
 #### Artículo 8. Extinción de la vigencia de los certificados electrónicos.
 
@@ -277,7 +258,6 @@ En el caso de los certificados reconocidos este período no podrá ser superior 
 
 3. La extinción de la vigencia de un certificado electrónico surtirá efectos frente a terceros, en los supuestos de expiración de su período de validez, desde que se produzca esta circunstancia y, en los demás casos, desde que la indicación de dicha extinción se incluya en el servicio de consulta sobre la vigencia de los certificados del prestador de servicios de certificación.
 
-
 #### Artículo 9. Suspensión de la vigencia de los certificados electrónicos.
 
 1. Los prestadores de servicios de certificación suspenderán la vigencia de los certificados electrónicos expedidos si concurre alguna de las siguientes causas:
@@ -292,7 +272,6 @@ d) Cualquier otra causa lícita prevista en la declaración de prácticas de cer
 
 2. La suspensión de la vigencia de un certificado electrónico surtirá efectos desde que se incluya en el servicio de consulta sobre la vigencia de los certificados del prestador de servicios de certificación.
 
-
 #### Artículo 10. Disposiciones comunes a la extinción y suspensión de la vigencia de certificados electrónicos.
 
 1. El prestador de servicios de certificación hará constar inmediatamente, de manera clara e indubitada, la extinción o suspensión de la vigencia de los certificados electrónicos en el servicio de consulta sobre la vigencia de los certificados en cuanto tenga conocimiento fundado de cualquiera de los hechos determinantes de la extinción o suspensión de su vigencia.
@@ -306,7 +285,6 @@ d) Cualquier otra causa lícita prevista en la declaración de prácticas de cer
 CAPÍTULO II
 
 Certificados reconocidos
-
 
 #### Artículo 11. Concepto y contenido de los certificados reconocidos.
 
@@ -336,7 +314,6 @@ i) Los límites del valor de las transacciones para las que puede utilizarse el 
 
 4. Si los certificados reconocidos admiten una relación de representación incluirán una indicación del documento público que acredite de forma fehaciente las facultades del firmante para actuar en nombre de la persona o entidad a la que represente y, en caso de ser obligatoria la inscripción, de los datos registrales, de conformidad con el apartado 2 del artículo 13.
 
-
 #### Artículo 12. Obligaciones previas a la expedición de certificados reconocidos.
 
 Antes de la expedición de un certificado reconocido, los prestadores de servicios de certificación deberán cumplir las siguientes obligaciones:
@@ -348,7 +325,6 @@ b) Verificar que la información contenida en el certificado es exacta y que inc
 c) Asegurarse de que el firmante está en posesión de los datos de creación de firma correspondientes a los de verificación que constan en el certificado.
 
 d) Garantizar la complementariedad de los datos de creación y verificación de firma, siempre que ambos sean generados por el prestador de servicios de certificación.
-
 
 #### Artículo 13. Comprobación de la identidad y otras circunstancias personales de los solicitantes de un certificado reconocido.
 
@@ -370,7 +346,6 @@ b) Cuando para solicitar un certificado se utilice otro vigente para cuya expedi
 
 5. Los prestadores de servicios de certificación podrán realizar las actuaciones de comprobación previstas en este artículo por sí o por medio de otras personas físicas o jurídicas, públicas o privadas, siendo responsable, en todo caso, el prestador de servicios de certificación.
 
-
 #### Artículo 14. Equivalencia internacional de certificados reconocidos.
 
 Los certificados electrónicos que los prestadores de servicios de certificación establecidos en un Estado que no sea miembro del Espacio Económico Europeo expidan al público como certificados reconocidos de acuerdo con la legislación aplicable en dicho Estado se considerarán equivalentes a los expedidos por los establecidos en España, siempre que se cumpla alguna de las siguientes condiciones:
@@ -385,13 +360,11 @@ CAPÍTULO III
 
 El documento nacional de identidad electrónico
 
-
 #### Artículo 15. Documento nacional de identidad electrónico.
 
 1. El documento nacional de identidad electrónico es el documento nacional de identidad que acredita electrónicamente la identidad personal de su titular y permite la firma electrónica de documentos.
 
 2. Todas la personas físicas o jurídicas, públicas o privadas, reconocerán la eficacia del documento nacional de identidad electrónico para acreditar la identidad y los demás datos personales del titular que consten en el mismo, y para acreditar la identidad del firmante y la integridad de los documentos firmados con los dispositivos de firma electrónica en él incluidos.
-
 
 #### Artículo 16. Requisitos y características del documento nacional de identidad electrónico.
 
@@ -399,16 +372,13 @@ El documento nacional de identidad electrónico
 
 2. La Administración General del Estado empleará, en la medida de lo posible, sistemas que garanticen la compatibilidad de los instrumentos de firma electrónica incluidos en el documento nacional de identidad electrónico con los distintos dispositivos y productos de firma electrónica generalmente aceptados.
 
-
 ## TÍTULO III
-
 
 **Prestación de servicios de certificación**
 
 CAPÍTULO I
 
 Obligaciones
-
 
 #### Artículo 17. Protección de los datos personales.
 
@@ -423,7 +393,6 @@ Los datos requeridos serán exclusivamente los necesarios para la expedición y 
 Dichos prestadores de servicios de certificación estarán obligados a revelar la identidad de los firmantes cuando lo soliciten los órganos judiciales en el ejercicio de las funciones que tienen atribuidas y en los demás supuestos previstos en el artículo 11.2 de la Ley Orgánica de Protección de Datos de Carácter Personal en que así se requiera.
 
 4. En cualquier caso, los prestadores de servicios de certificación no incluirán en los certificados electrónicos que expidan, los datos a los que se hace referencia en el artículo 7 de la Ley Orgánica 15/1999, de 13 de diciembre, de Protección de Datos de Carácter Personal.
-
 
 #### Artículo 18. Obligaciones de los prestadores de servicios de certificación que expidan certificados electrónicos.
 
@@ -451,7 +420,6 @@ c) Mantener un directorio actualizado de certificados en el que se indicarán lo
 
 d) Garantizar la disponibilidad de un servicio de consulta sobre la vigencia de los certificados rápido y seguro.
 
-
 #### Artículo 19. Declaración de prácticas de certificación.
 
 1. Todos los prestadores de servicios de certificación formularán una declaración de prácticas de certificación en la que detallarán, en el marco de esta ley y de sus disposiciones de desarrollo, las obligaciones que se comprometen a cumplir en relación con la gestión de los datos de creación y verificación de firma y de los certificados electrónicos, las condiciones aplicables a la solicitud, expedición, uso, suspensión y extinción de la vigencia de los certificados las medidas de seguridad técnicas y organizativas, los perfiles y los mecanismos de información sobre la vigencia de los certificados y, en su caso la existencia de procedimientos de coordinación con los Registros públicos correspondientes que permitan el intercambio de información de manera inmediata sobre la vigencia de los poderes indicados en los certificados y que deban figurar preceptivamente inscritos en dichos registros.
@@ -459,7 +427,6 @@ d) Garantizar la disponibilidad de un servicio de consulta sobre la vigencia de 
 2. La declaración de prácticas de certificación de cada prestador estará disponible al público de manera fácilmente accesible, al menos por vía electrónica y de forma gratuita.
 
 3. La declaración de prácticas de certificación tendrá la consideración de documento de seguridad a los efectos previstos en la legislación en materia de protección de datos de carácter personal y deberá contener todos los requisitos exigidos para dicho documento en la mencionada legislación.
-
 
 #### Artículo 20. Obligaciones de los prestadores de servicios de certificación que expidan certificados reconocidos.
 
@@ -485,7 +452,6 @@ La citada garantía podrá ser sustituida total o parcialmente por una garantía
 
 Las cuantías y los medios de aseguramiento y garantía establecidos en los dos párrafos anteriores podrán ser modificados mediante real decreto.
 
-
 #### Artículo 21. Cese de la actividad de un prestador de servicios de certificación.
 
 1. El prestador de servicios de certificación que vaya a cesar en su actividad deberá comunicarlo a los firmantes que utilicen los certificados electrónicos que haya expedido así como a los solicitantes de certificados expedidos a favor de personas jurídicas ; y podrá transferir, con su consentimiento expreso, la gestión de los que sigan siendo válidos en la fecha en que el cese se produzca a otro prestador de servicios de certificación que los asuma o, en caso contrario, extinguir su vigencia.
@@ -502,7 +468,6 @@ CAPÍTULO II
 
 Responsabilidad
 
-
 #### Artículo 22. Responsabilidad de los prestadores de servicios de certificación.
 
 1. Los prestadores de servicios de certificación responderán por los daños y perjuicios que causen a cualquier persona en el ejercicio de su actividad cuando incumplan las obligaciones que les impone esta ley.
@@ -516,7 +481,6 @@ La responsabilidad del prestador de servicios de certificación regulada en esta
 4. Los prestadores de servicios de certificación asumirán toda la responsabilidad frente a terceros por la actuación de las personas en las que deleguen la ejecución de alguna o algunas de las funciones necesarias para la prestación de servicios de certificación.
 
 5. La regulación contenida en esta ley sobre la responsabilidad del prestador de servicios de certificación se entiende sin perjuicio de lo establecido en la legislación sobre cláusulas abusivas en contratos celebrados con consumidores.
-
 
 #### Artículo 23. Limitaciones de responsabilidad de los prestadores de servicios de certificación.
 
@@ -548,16 +512,13 @@ b) Cuando no tenga en cuenta la suspensión o pérdida de vigencia del certifica
 
 6. La exención de responsabilidad frente a terceros obliga al prestador de servicios de certificación a probar que actuó en todo caso con la debida diligencia.
 
-
 ## TÍTULO IV
-
 
 **Dispositivos de firma electrónica y sistemas de certificación de prestadores de servicios de certificación y de dispositivos de firma electrónica**
 
 CAPÍTULO I
 
 Dispositivos de firma electrónica
-
 
 #### Artículo 24. Dispositivos de creación de firma electrónica.
 
@@ -574,7 +535,6 @@ b) Que existe una seguridad razonable de que los datos utilizados para la genera
 c) Que los datos de creación de firma pueden ser protegidos de forma fiable por el firmante contra su utilización por terceros.
 
 d) Que el dispositivo utilizado no altera los datos o el documento que deba firmarse ni impide que éste se muestre al firmante antes del proceso de firma.
-
 
 #### Artículo 25. Dispositivos de verificación de firma electrónica.
 
@@ -602,7 +562,6 @@ CAPÍTULO II
 
 Certificación de prestadores de servicios de certificación y de dispositivos de creación de firma electrónica
 
-
 #### Artículo 26. Certificación de prestadores de servicios de certificación.
 
 1. La certificación de un prestador de servicios de certificación es el procedimiento voluntario por el que una entidad cualificada pública o privada emite una declaración a favor de un prestador de servicios de certificación, que implica un reconocimiento del cumplimiento de requisitos específicos en la prestación de los servicios que se ofrecen al público.
@@ -612,7 +571,6 @@ Certificación de prestadores de servicios de certificación y de dispositivos d
 3. En los procedimientos de certificación podrán utilizarse normas técnicas u otros criterios de certificación adecuados. En caso de utilizarse normas técnicas, se emplearán preferentemente aquellas que gocen de amplio reconocimiento aprobadas por organismos de normalización europeos y, en su defecto, otras normas internacionales o españolas.
 
 4. La certificación de un prestador de servicios de certificación no será necesaria para reconocer eficacia jurídica a una firma electrónica.
-
 
 #### Artículo 27. Certificación de dispositivos seguros de creación de firma electrónica.
 
@@ -626,19 +584,15 @@ Certificación de prestadores de servicios de certificación y de dispositivos d
 
 Los organismos de certificación asegurarán la difusión de las decisiones de revocación de certificados de dispositivos de creación de firma.
 
-
 #### Artículo 28. Reconocimiento de la conformidad con la normativa aplicable a los productos de firma electrónica.
 
 1. Se presumirá que los productos de firma electrónica aludidos en el párrafo d) del apartado 1 del artículo 20 y en el apartado 3 del artículo 24 son conformes con los requisitos previstos en dichos artículos si se ajustan a las normas técnicas correspondientes cuyos números de referencia hayan sido publicados en el "Diario Oficial de la Unión Europea".
 
 2. Se reconocerá eficacia a los certificados de conformidad sobre dispositivos seguros de creación de firma que hayan sido otorgados por los organismos designados para ello en cualquier Estado miembro del Espacio Económico Europeo.
 
-
 ## TÍTULO V
 
-
 **Supervisión y control**
-
 
 #### Artículo 29. Supervisión y control.
 
@@ -652,7 +606,6 @@ Los funcionarios adscritos al Ministerio de Ciencia y Tecnología que realicen l
 
 4. El Ministerio de Ciencia y Tecnología podrá recurrir a entidades independientes y técnicamente cualificadas para que le asistan en las labores de supervisión y control sobre los prestadores de servicios de certificación que le asigna esta ley.
 
-
 #### Artículo 30. Deber de información y colaboración.
 
 1. Los prestadores de servicios de certificación, la entidad independiente de acreditación y los organismos de certificación tienen la obligación de facilitar al Ministerio de Ciencia y Tecnología toda la información y colaboración precisas para el ejercicio de sus funciones.
@@ -663,12 +616,9 @@ En particular, deberán permitir a sus agentes o al personal inspector el acceso
 
 3. Cuando, como consecuencia de una actuación inspectora, se tuviera conocimiento de hechos que pudieran ser constitutivos de infracciones tipificadas en otras leyes, se dará cuenta de los mismos a los órganos u organismos competentes para su supervisión y sanción.
 
-
 ## TÍTULO VI
 
-
 **Infracciones y sanciones**
-
 
 #### Artículo 31. Infracciones.
 
@@ -702,7 +652,6 @@ g) El incumplimiento de las resoluciones dictadas por el Ministerio de Ciencia y
 
 El incumplimiento por los prestadores de servicios de certificación que no expidan certificados reconocidos, de las obligaciones señaladas en el artículo 18 y las restantes de esta ley, cuando no constituya infracción grave o muy grave, excepto las contenidas en el apartado 2 del artículo 30.
 
-
 #### Artículo 32. Sanciones.
 
 1. Por la comisión de infracciones recogidas en el artículo anterior, se impondrán las siguientes sanciones:
@@ -715,10 +664,7 @@ b) Por la comisión de infracciones graves, se impondrá al infractor multa de 3
 
 c) Por la comisión de infracciones leves, se impondrá al infractor una multa por importe de hasta 30.000 euros.
 
-2. Las infracciones graves y muy graves podrán llevar aparejada, a costa del sancionado, la publicación de la resolución sancionadora en el "Boletín Oficial del Estado" y en dos periódicos de difusión nacional o en la página de inicio del sitio de internet del prestador y, en su caso, en el sitio de internet del Ministerio de Ciencia y Tecnología, una vez que aquélla tenga carácter firme.
-
 Para la imposición de esta sanción, se considerará la repercusión social de la infracción cometida, el número de usuarios afectados y la gravedad del ilícito.
-
 
 #### Artículo 33. Graduación de la cuantía de las sanciones.
 
@@ -733,7 +679,6 @@ c) La naturaleza y cuantía de los perjuicios causados.
 d) Plazo de tiempo durante el que se haya venido cometiendo la infracción e) El beneficio que haya reportado al infractor la comisión de la infracción.
 
 f) Volumen de la facturación a que afecte la infracción cometida.
-
 
 #### Artículo 34. Medidas provisionales.
 
@@ -759,11 +704,9 @@ Las medidas deberán ser confirmadas, modificadas o levantadas en el acuerdo de 
 
 En todo caso, dichas medidas quedarán sin efecto si no se inicia el procedimiento sancionador en dicho plazo o cuando el acuerdo de iniciación no contenga un pronunciamiento expreso acerca de las mismas.
 
-
 #### Artículo 35. Multa coercitiva.
 
 El órgano administrativo competente para resolver el procedimiento sancionador podrá imponer multas coercitivas por importe que no exceda de 6.000 euros por cada día que transcurra sin cumplir las medidas provisionales que hubieran sido acordadas.
-
 
 #### Artículo 36. Competencia y procedimiento sancionador.
 
@@ -773,13 +716,11 @@ No obstante, el incumplimiento de las obligaciones establecidas en el artículo 
 
 2. La potestad sancionadora regulada en esta Ley se ejercerá de conformidad con lo establecido al respecto en la Ley de Régimen Jurídico de las Administraciones Públicas y del Procedimiento Administrativo Común y en sus normas de desarrollo.
 
-
 #### Disposición adicional primera. Fe pública y uso de firma electrónica.
 
 1. Lo dispuesto en esta ley no sustituye ni modifica las normas que regulan las funciones que corresponden a los funcionarios que tengan legalmente la facultad de dar fe en documentos en lo que se refiere al ámbito de sus competencias siempre que actúen con los requisitos exigidos en la ley.
 
 2. En el ámbito de la documentación electrónica, corresponderá a las entidades prestadoras de servicios de certificación acreditar la existencia de los servicios prestados en el ejercicio de su actividad de certificación electrónica, a solicitud del usuario, o de una autoridad judicial o administrativa.
-
 
 #### Disposición adicional segunda. Ejercicio de la potestad sancionadora sobre la entidad de acreditación y los organismos de certificación de dispositivos de creación de firma electrónica.
 
@@ -787,16 +728,13 @@ No obstante, el incumplimiento de las obligaciones establecidas en el artículo 
 
 2. Cuando dichas infracciones merezcan la calificación de infracciones muy graves, serán sancionadas por el Ministro de Ciencia y Tecnología.
 
-
 #### Disposición adicional tercera. Expedición de certificados electrónicos a entidades sin personalidad jurídica para el cumplimiento de obligaciones tributarias.
 
 Podrán expedirse certificados electrónicos a las entidades sin personalidad jurídica a que se refiere el artículo 33 de la Ley General Tributaria a los solos efectos de su utilización en el ámbito tributario, en los términos que establezca el Ministro de Hacienda.
 
-
 #### Disposición adicional cuarta. Prestación de servicios por la Fabrica Nacional de Moneda y Timbre-Real Casa de la Moneda.
 
 Lo dispuesto en esta ley se entiende sin perjuicio de lo establecido en el artículo 81 de la Ley 66/1997, de 30 de diciembre, de medidas fiscales, administrativas y del orden social.
-
 
 #### Disposición adicional quinta. Modificación del artículo 81 de la Ley 66/1997, de 30 de diciembre, de medidas fiscales, administrativas y del orden social.
 
@@ -804,18 +742,15 @@ Se añaden apartado doce al artículo 81 de la Ley 66/1997, de 30 de diciembre, 
 
 "Doce. En el ejercicio de las funciones que le atribuye el presente artículo, la Fábrica Nacional de Moneda y Timbre-Real Casa de la Moneda estará exenta de la constitución de la garantía a la que se refiere el apartado 2 del artículo 20 de la Ley 59/2003, de Firma Electrónica."
 
-
 #### Disposición adicional sexta. Régimen jurídico del documento nacional de identidad electrónico.
 
 1. Sin perjuicio de la aplicación de la normativa vigente en materia del documento nacional de identidad en todo aquello que se adecue a sus características particulares, el documento nacional de identidad electrónico se regirá por su normativa específica.
 
 2. El Ministerio de Ciencia y Tecnología podrá dirigirse al Ministerio del Interior para que por parte de éste se adopten las medidas necesarias para asegurar el cumplimiento de las obligaciones que le incumban como prestador de servicios de certificación en relación con el documento nacional de identidad electrónico.
 
-
 #### Disposición adicional séptima. Emisión de facturas por vía electrónica.
 
 Lo dispuesto en esta ley se entiende sin perjuicio de las exigencias derivadas de las normas tributarias en materia de emisión de facturas por vía electrónica.
-
 
 #### Disposición adicional octava. Modificaciones de la Ley 34/2002, de 11 de julio, de servicios de la sociedad de la información y de comercio electrónico.
 
@@ -901,11 +836,9 @@ El apartado 2 del artículo 43 queda redactado como sigue:
 
 "2. La potestad sancionadora regulada en esta ley se ejercerá de conformidad con lo establecido al respecto en la Ley 30/1992, de 26 de noviembre, de Régimen Jurídico de las Administraciones Públicas y del Procedimiento Administrativo Común, y en sus normas de desarrollo. No obstante, el plazo máximo de duración del procedimiento simplificado será de tres meses."
 
-
 #### Disposición adicional novena. Garantía de accesibilidad para las personas con discapacidad y de la tercera edad.
 
 Los servicios, procesos, procedimientos y dispositivos de firma electrónica deberán ser plenamente accesibles a las personas con discapacidad y de la tercera edad, las cuales no podrán ser en ningún caso discriminadas en el ejercicio de los derechos y facultades reconocidos en esta ley por causas basadas en razones de discapacidad o edad avanzada.
-
 
 #### Disposición adicional décima. Modificación de la Ley de Enjuiciamiento Civil.
 
@@ -913,26 +846,21 @@ Se añade un apartado tres al artículo 326 de la Ley de Enjuiciamiento Civil co
 
 "Cuando la parte a quien interese la eficacia de un documento electrónico lo pida o se impugne su autenticidad, se procederá con arreglo a lo establecido en el artículo 3 de la Ley de Firma Electrónica."
 
-
 #### Disposición transitoria primera. Validez de los certificados electrónicos expedidos previamente a la entrada en vigor de esta ley.
 
 Los certificados electrónicos que hayan sido expedidos por prestadores de servicios de certificación en el marco del Real Decreto Ley 14/1999, de 17 de septiembre, sobre firma electrónica, mantendrán su validez.
-
 
 #### Disposición transitoria segunda. Prestadores de servicios de certificación establecidos en España antes de la entrada en vigor de esta ley.
 
 Los prestadores de servicios de certificación establecidos en España antes de la entrada en vigor de esta ley deberán comunicar al Ministerio de Ciencia y Tecnología su actividad y las características de los servicios que presten en el plazo de un mes desde la referida entrada en vigor. Esta información será objeto de publicación en la dirección de internet del citado ministerio con la finalidad de otorgarle la máxima difusión y conocimiento.
 
-
 #### Disposición derogatoria única. Derogación normativa.
 
 Queda derogado el Real Decreto Ley 14/1999, de 17 de septiembre, sobre firma electrónica y cuantas disposiciones de igual o inferior rango se opongan a lo dispuesto en esta ley.
 
-
 #### Disposición final primera. Fundamento constitucional.
 
 Esta ley se dicta al amparo del artículo 149.1.8.ª, 18.ª, 21.ª y 29.ª de la Constitución.
-
 
 #### Disposición final segunda. Desarrollo reglamentario.
 
@@ -940,10 +868,7 @@ Esta ley se dicta al amparo del artículo 149.1.8.ª, 18.ª, 21.ª y 29.ª de la
 
 2. Así mismo, se habilita al Gobierno para dictar las demás disposiciones reglamentarias que sean precisas para el desarrollo y aplicación de esta ley.
 
-
 #### Disposición final tercera. Entrada en vigor.
-
-La presente ley entrará en vigor a los tres meses de su publicación en el "Boletín Oficial del Estado".
 
 Por tanto, Mando a todos los españoles, particulares y autoridades, que guarden y hagan guardar esta ley.
 

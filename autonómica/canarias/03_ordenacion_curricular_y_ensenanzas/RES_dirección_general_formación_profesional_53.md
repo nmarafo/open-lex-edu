@@ -32,9 +32,6 @@ fuente_pdf_oficial: https://sede.gobiernodecanarias.org/boc/boc-a-2025-238-4105.
 
 # Resolución de 19 de noviembre de 2025, de la Dirección General de Formación Profesional y Enseñanzas de Régimen Especial.por la que se convocan pruebas para la obtención de la certificación de Enseñanzas de Idiomas de Régimen Especial destinadas a la población escolar de centros docentes públicos de la Comunidad Autónoma de Canarias, y se dictan instrucciones para su organización y aplicación en el curso 2025/2026 (BOC nº 238, de 1 de diciembre).
 
-https://sede.gobiernodecanarias.org/boc
-boc-a-2025-238-4105
-Boletín Oficial de Canarias núm. 238 Lunes 1 de diciembre de 202548913
 III. Otras Resoluciones
 Consejería de Educación, Formación Profesional, Actividad Física y Deportes
 4105 Dirección General de Formación Profesional y Enseñanzas de Régimen Especial.- 
@@ -75,9 +72,6 @@ FUNDAMENTOS DE DERECHO
 Primero.- La Ley Orgánica 2/2006, de 3 de mayo, de Educación, dedica los artículos 
 59, 60, 61 y 62 a la ordenación de las Enseñanzas de Idiomas de Régimen Especial. En 
 
-https://sede.gobiernodecanarias.org/boc
-boc-a-2025-238-4105
-Boletín Oficial de Canarias núm. 238 Lunes 1 de diciembre de 202548914
 su artículo 62.2 dispone que las Administraciones educativas facilitarán la realización de 
 pruebas homologadas para obtener la certificación oficial del conocimiento de las lenguas 
 cursadas por el alumnado de Educación Secundaria Obligatoria y Formación Profesional.
@@ -125,9 +119,6 @@ Comunidad Autónoma de Canarias, fija en su Capítulo V todo lo concerniente a l
 de idiomas. Dentro del citado capítulo, el artículo 27, dedicado al procedimiento para la 
 obtención de la certificación de enseñanzas de idiomas, establece que las convocatorias de 
 
-https://sede.gobiernodecanarias.org/boc
-boc-a-2025-238-4105
-Boletín Oficial de Canarias núm. 238 Lunes 1 de diciembre de 202548915
 pruebas de certificación podrán estar específicamente destinadas a la población escolar. Y 
 el artículo 28, referido a las pruebas de certificación de Enseñanzas de Idiomas de Régimen 
 Especial, determina en su apartado 2 que las pruebas tendrán como referente los objetivos, 
@@ -172,9 +163,6 @@ de los Certificados de Nivel Básico A2, Intermedio B1 e Intermedio B2 de inglé
 Certificados de Nivel Intermedio B1 e Intermedio B2 de francés de las Enseñanzas de 
 Idiomas de Régimen Especial, dirigidas a alumnado escolarizado en los niveles y etapas 
 
-https://sede.gobiernodecanarias.org/boc
-boc-a-2025-238-4105
-Boletín Oficial de Canarias núm. 238 Lunes 1 de diciembre de 202548916
 educativas recogidas en el anexo de la presente Resolución en los centros docentes públicos de 
 la Comunidad Autónoma de Canarias incluidos en el Apéndice III, y dictar instrucciones 
 para su organización y aplicación en los términos recogidos en el anexo de esta Resolución 
@@ -194,9 +182,6 @@ de Formación Profesional y Enseñanzas de Régimen Especial, p.s. (Resolución 
 487/2025, de 24.10.2025), el Viceconsejero de Formación Profesional y Cualificaciones 
 Profesionales, Francisco Rodríguez Machado.
 
-https://sede.gobiernodecanarias.org/boc
-boc-a-2025-238-4105
-Boletín Oficial de Canarias núm. 238 Lunes 1 de diciembre de 202548917
 ANEXO
 INSTRUCCIONES
 SUMARIO:
@@ -225,9 +210,6 @@ Apéndices:
 • Apéndice II: Calendario y horario de las pruebas.
 • Apéndice III: Adscripción entre centros docentes públicos y Escuelas Oficiales de Idiomas.
 
-https://sede.gobiernodecanarias.org/boc
-boc-a-2025-238-4105
-Boletín Oficial de Canarias núm. 238 Lunes 1 de diciembre de 202548918
 • Apéndice IV: Escuelas Oficiales de Idiomas de adscripción con datos de contacto.
 • Apéndice V: Rúbricas de evaluación: pruebas de producción y coproducción de textos 
 escritos.
@@ -302,9 +284,6 @@ dirigidas al alumnado escolarizado en los centros docentes públicos de la Comun
 Autónoma de Canarias recogidos en el Apéndice III de la presente Resolución. La prueba 
 de cada uno de los niveles convocados está dirigida al siguiente alumnado:
 
-https://sede.gobiernodecanarias.org/boc
-boc-a-2025-238-4105
-Boletín Oficial de Canarias núm. 238 Lunes 1 de diciembre de 202548919
 Folio 5/42
 1.- Certificados objeto de las pruebas.
 Las pruebas de certificación que se convocan mediante la presente resolución conducen a la obtención de los  
@@ -462,9 +441,6 @@ c) El alumnado de 4.º del programa EMILE que se presenta a la prueba de certifi
 de francés deberá cursar francés como lengua extranjera y haber aprobado esta materia en 
 la primera evaluación.
 
-https://sede.gobiernodecanarias.org/boc
-boc-a-2025-238-4105
-Boletín Oficial de Canarias núm. 238 Lunes 1 de diciembre de 202548920
 d) El alumnado de 2.º de Bachillerato que se presente a la prueba de certificación de 
 francés deberá cursar francés como primera lengua extranjera y haber aprobado esta materia 
 en la primera evaluación.
@@ -503,9 +479,6 @@ correspondiente:
 - un grupo para las pruebas de certificación de nivel intermedio B1 de inglés,
 - un grupo para las pruebas de certificación de nivel intermedio B2 de inglés.
 
-https://sede.gobiernodecanarias.org/boc
-boc-a-2025-238-4105
-Boletín Oficial de Canarias núm. 238 Lunes 1 de diciembre de 202548921
 5.4. La Dirección General de Formación Profesional y Enseñanzas de Régimen Especial 
 (en adelante, DGFPERE) enviará un cuestionario en línea para la recogida de datos desde 
 el correo del Área de Idiomas (idiomas.educacion@gobiernodecanarias.org) a los correos 
@@ -550,9 +523,6 @@ ejemplo, ordenador. En el caso de necesitar usar un ordenador, se deberá compro
 el equipo esté libre de contenido, que no tenga conexión a internet y que no se utilice 
 corrector ortográfico o gramatical.
 
-https://sede.gobiernodecanarias.org/boc
-boc-a-2025-238-4105
-Boletín Oficial de Canarias núm. 238 Lunes 1 de diciembre de 202548922
 c) En el caso de aspirantes con hipoacusia, además de proporcionar los medios 
 técnicos que favorezcan la realización de la prueba, se ha de minimizar el ruido ambiental, 
 procurando óptimos niveles de escucha. En caso de ser necesaria la lectura por parte del 
@@ -593,9 +563,6 @@ centro de matrícula esté adscrito.
 7.3. Las funciones de las EOI y de los centros docentes públicos convocados se detallan 
 en la Instrucción n.º 8 de la presente Resolución.
 
-https://sede.gobiernodecanarias.org/boc
-boc-a-2025-238-4105
-Boletín Oficial de Canarias núm. 238 Lunes 1 de diciembre de 202548923
 8.- Coordinación de las pruebas.
 8.1. La dirección de los centros docentes públicos a los que se dirige esta convocatoria 
 tendrá las funciones que se recogen a continuación:
@@ -636,9 +603,6 @@ EOI de adscripción en el plazo recogido en el Apéndice I de la presente Resolu
 n) Resolver las reclamaciones presentadas motivando esta resolución en el informe del 
 tribunal examinador correspondiente.
 
-https://sede.gobiernodecanarias.org/boc
-boc-a-2025-238-4105
-Boletín Oficial de Canarias núm. 238 Lunes 1 de diciembre de 202548924
 8.2. La jefatura de estudios de los centros docentes públicos convocados tendrá las 
 funciones que se recogen a continuación:
 a) Velar por que el profesorado de los departamentos de coordinación didáctica de 
@@ -676,9 +640,6 @@ puedan surgir, siempre en el ámbito de sus competencias.
 la expedición de los certificados oficiales de idiomas, de acuerdo con el procedimiento 
 recogido más adelante en estas mismas instrucciones.
 
-https://sede.gobiernodecanarias.org/boc
-boc-a-2025-238-4105
-Boletín Oficial de Canarias núm. 238 Lunes 1 de diciembre de 202548925
 8.4. La Dirección General de Formación Profesional y Enseñanzas de Régimen 
 Especial será responsable de la convocatoria y organización de las pruebas de certificación, 
 asumiendo, entre otras, las siguientes funciones:
@@ -719,9 +680,6 @@ que no puedan ser resueltas por el tribunal por estar fuera del ámbito de sus c
 comunicarlo de forma inmediata al Área de Idiomas de la 
 DGFPERE.
 
-https://sede.gobiernodecanarias.org/boc
-boc-a-2025-238-4105
-Boletín Oficial de Canarias núm. 238 Lunes 1 de diciembre de 202548926
 d) Asignar nueva fecha para la realización de la parte oral en aquellas solicitudes que 
 estén justificadas por motivos de naturaleza imprevista e inevitable. Esta nueva asignación 
 estará supeditada a la disponibilidad de fechas y horas.
@@ -762,9 +720,6 @@ mediante el análisis de dichos datos.
 de lengua tendrán en cuenta las condiciones y restricciones que afectan a la dificultad de 
 las mismas, atendiendo especialmente al perfil de edad del alumnado convocado y sus 
 
-https://sede.gobiernodecanarias.org/boc
-boc-a-2025-238-4105
-Boletín Oficial de Canarias núm. 238 Lunes 1 de diciembre de 202548927
 competencias generales, sobre todo el saber declarativo y la competencia existencial, 
 competencias no directamente relacionadas con la lengua pero que pueden afectar a la 
 estrategias para enfrentar determinadas tareas, temas o contextos. En cualquier caso, esto 
@@ -804,9 +759,6 @@ La parte escrita está constituida por las siguientes actividades de lengua: com
 de textos escritos, comprensión de textos orales, producción y coproducción de textos 
 escritos y, en el caso del nivel intermedio B1 e intermedio B2, la tarea de mediación escrita.
 
-https://sede.gobiernodecanarias.org/boc
-boc-a-2025-238-4105
-Boletín Oficial de Canarias núm. 238 Lunes 1 de diciembre de 202548928
 La parte oral está constituida por la producción y coproducción de textos orales y 
 mediación, en el caso del nivel básico A2, y la producción y coproducción de textos orales 
 y la tarea de mediación oral, en el caso del nivel intermedio B1 e intermedio B2.
@@ -988,9 +940,6 @@ Todos los aspectos a evaluar en esta actividad de lengua tendrán la misma ponde
 siendo la puntuación de cada tarea de cinco (5) puntos, por lo que la puntuación total será 
 de 10 puntos.
 
-https://sede.gobiernodecanarias.org/boc
-boc-a-2025-238-4105
-Boletín Oficial de Canarias núm. 238 Lunes 1 de diciembre de 202548929
 11.6.4. Producción y coproducción de textos orales y mediación.
 Folio 13/42
 11.4. La parte escrita se desarrollará en una sesión única y con fecha común para todo el alumnado que se  
@@ -1165,9 +1114,6 @@ de la misma.
 Esta actividad de lengua tendrá un total de 25 ítems. Cada ítem tendrá un valor de 0,4 
 puntos, por lo que la puntuación total será de 10 puntos.
 
-https://sede.gobiernodecanarias.org/boc
-boc-a-2025-238-4105
-Boletín Oficial de Canarias núm. 238 Lunes 1 de diciembre de 202548930
 11.7.3. Producción y coproducción de textos escritos.
 Folio 14/42
 Todos los aspectos a evaluar en esta actividad de lengua tendrán la misma ponderación, siendo la puntuación  
@@ -1337,9 +1283,6 @@ conversación transcurrirá entre tres aspirantes. Se podrán tomar notas durant
 preparación de la tarea, que se podrán utilizar únicamente como guía durante el desarrollo 
 de la intervención. Se deberá preparar esta tarea individualmente.
 
-https://sede.gobiernodecanarias.org/boc
-boc-a-2025-238-4105
-Boletín Oficial de Canarias núm. 238 Lunes 1 de diciembre de 202548931
 La tarea 1, mediación escrita, formará parte de la convocatoria común de la parte escrita 
 de la prueba, junto con la prueba de comprensión de textos escritos, comprensión de textos 
 orales y producción y coproducción de textos escritos. La tarea 2, mediación oral, formará 
@@ -1507,9 +1450,6 @@ Todos los aspectos a evaluar en esta actividad de lengua tendrán la misma ponde
 siendo la puntuación de cada tarea de cinco (5) puntos, por lo que la puntuación total será 
 de 10 puntos.
 
-https://sede.gobiernodecanarias.org/boc
-boc-a-2025-238-4105
-Boletín Oficial de Canarias núm. 238 Lunes 1 de diciembre de 202548932
 11.8.4. Producción y coproducción de textos orales.
 Folio 16/42
 Todos los aspectos a evaluar en esta actividad de lengua tendrán la misma ponderación, siendo la puntuación  
@@ -1637,9 +1577,6 @@ Todos los aspectos a evaluar en esta actividad de lengua tendrán la misma ponde
 siendo la puntuación de cada tarea de cinco (5) puntos, por lo que la puntuación total será 
 de 10 puntos.
 
-https://sede.gobiernodecanarias.org/boc
-boc-a-2025-238-4105
-Boletín Oficial de Canarias núm. 238 Lunes 1 de diciembre de 202548933
 12.- Calendario y convocatorias de las pruebas.
 12.1. El calendario general de esta convocatoria de pruebas de certificación se recoge 
 en el Apéndice I de la presente Resolución.
@@ -1684,9 +1621,6 @@ La solicitud de participación en la convocatoria de incidencias se presentará 
 registro de la secretaría del centro, según el plazo recogido en el Apéndice I de la presente 
 Resolución, y estará dirigida a la dirección del mismo.
 
-https://sede.gobiernodecanarias.org/boc
-boc-a-2025-238-4105
-Boletín Oficial de Canarias núm. 238 Lunes 1 de diciembre de 202548934
 12.8. El centro publicará, en el tablón de anuncios o en cualquier otro medio que garantice 
 su conocimiento, la lista de personas admitidas a la convocatoria de incidencias. Asimismo, 
 publicará la lista de personas no admitidas especificando los motivos de exclusión. La 
@@ -1729,9 +1663,6 @@ forma de rúbrica. Estas rúbricas evaluarán la competencia lingüística, soci
 pragmática mediante descriptores que detallan criterios de competencia observables. Todas 
 las categorías evaluadas tendrán la misma ponderación.
 
-https://sede.gobiernodecanarias.org/boc
-boc-a-2025-238-4105
-Boletín Oficial de Canarias núm. 238 Lunes 1 de diciembre de 202548935
 La producción y coproducción de textos escritos se evaluará los siguientes aspectos:
 - la riqueza y corrección léxico-semántica y gramatical;
 - la corrección ortográfica, de puntuación y del uso de los párrafos, cuando sean 
@@ -1808,9 +1739,6 @@ convocados.
 15.1. Corresponde a los tribunales examinadores, nombrados a tal fin por la DGFPERE, 
 la corrección y calificación de todas las actividades de lengua que integran cada prueba.
 
-https://sede.gobiernodecanarias.org/boc
-boc-a-2025-238-4105
-Boletín Oficial de Canarias núm. 238 Lunes 1 de diciembre de 202548936
 15.2. En la evaluación y la calificación de las pruebas de certificación se tomarán como 
 referencia los criterios de evaluación fijados para cada nivel y actividad de lengua en los 
 currículos recogidos en el Decreto 142/2018, de 8 de octubre, así como los principios 
@@ -1851,9 +1779,6 @@ caso de la prueba de certificación del nivel intermedio B1 y nivel intermedio B
 que conforman la prueba de certificación, se otorgará la calificación global final de “No 
 presentado” (NP).
 
-https://sede.gobiernodecanarias.org/boc
-boc-a-2025-238-4105
-Boletín Oficial de Canarias núm. 238 Lunes 1 de diciembre de 202548937
 15.7. Los resultados de las pruebas se recogerán en las actas de calificación. En ellas se 
 incluirán la relación nominal del alumnado, así como el número del documento acreditativo 
 de la identidad legalmente reconocido, y se especificarán los resultados obtenidos en cada 
@@ -1899,9 +1824,6 @@ en el centro.
 16.6. En caso de disconformidad con la resolución adoptada por la dirección del centro, 
 se podrá reiterar la reclamación ante la Dirección Territorial de Educación a través de la 
 
-https://sede.gobiernodecanarias.org/boc
-boc-a-2025-238-4105
-Boletín Oficial de Canarias núm. 238 Lunes 1 de diciembre de 202548938
 secretaría del centro en el plazo de dos días a partir de la notificación de la resolución. 
 La dirección del centro remitirá a la Dirección Territorial de Educación que corresponda, 
 en el plazo de los dos días hábiles siguientes a la recepción del escrito de reiteración 
@@ -1945,9 +1867,6 @@ de textos orales y mediación se conservarán en la secretaría del centro en el
 realizado las pruebas, al menos, hasta seis meses después de la publicación de los resultados 
 o, sobrepasada esta fecha, hasta la resolución en firme del recurso, si existiera.
 
-https://sede.gobiernodecanarias.org/boc
-boc-a-2025-238-4105
-Boletín Oficial de Canarias núm. 238 Lunes 1 de diciembre de 202548939
 19.2. Una vez concluida la prueba de certificación, el equipo directivo de los centros 
 docentes públicos participantes en la convocatoria deberá asegurarse de la destrucción de 
 los exámenes sobrantes y de eliminar las pruebas enviadas, incluyendo los archivos de 
@@ -1968,9 +1887,6 @@ mediación podrán ser utilizadas por la
 DGFPERE con fines educativos. Para ello, se recabará 
 el consentimiento expreso de las personas aspirantes y, en su caso, su representarte legal.
 
-https://sede.gobiernodecanarias.org/boc
-boc-a-2025-238-4105
-Boletín Oficial de Canarias núm. 238 Lunes 1 de diciembre de 202548940
 APÉNDICE I
 CALENDARIO GENERAL DEL PROCEDIMIENTO - CURSO 2025/2026
 Folio 23/42
@@ -1996,7 +1912,6 @@ Actualización del nº de alumnado inscrito en la prueba de certificación. En e
 que,  por  motivos  sobrevenidos  y  justificados,  se  deba  modificar  el  nº  de  alumnado 
 inscrito se comunicarán los datos actualizados al correo electrónico del Área de Idiomas.
 Hasta el 23 de febrero de 
-2026
 Envío del material para la realización de la prueba.  La DGFPERE enviará el material 
 impreso para la parte escrita y las grabaciones para la comprensión oral.
 26 de febrero de 2026 Administración de la parte escrita de la prueba de certificación de nivel básico (A2),  
@@ -2026,9 +1941,6 @@ Hasta el 20 de mayo de 2026 La dirección del centro notificará la resolución 
 27 de mayo de 2026 Remisión de un ejemplar de las actas originales  con los resultados de las pruebas a la 
 EOI de adscripción.
 
-https://sede.gobiernodecanarias.org/boc
-boc-a-2025-238-4105
-Boletín Oficial de Canarias núm. 238 Lunes 1 de diciembre de 202548941
 APÉNDICE II
 CALENDARIO Y HORARIO DE LAS PRUEBAS - CURSO 2025/2026
 Folio 24/42
@@ -2039,7 +1951,6 @@ DESARROLLO DE LA PARTE ESCRITA
 Comprensión de textos escritos, comprensión de textos orales, producción y coproducción de textos escritos
 FECHA HORA
 26 de febrero de 
-2026
 - Organización del aula
 - Cumplimentación de cuadernillos 09:00 – 09:15
 Comprensión de textos orales (25 minutos) 09:15 – 09:40
@@ -2051,7 +1962,6 @@ DESARROLLO DE LA PARTE ESCRITA
 Comprensión de textos escritos, comprensión de textos orales, producción y coproducción de textos escritos, mediación escrita
 FECHA HORA
 26 de febrero de 
-2026
 - Organización del aula
 - Cumplimentación de cuadernillos 09:00 – 09:15
 Comprensión de textos orales (35 minutos) 09:15 – 09:50
@@ -2064,7 +1974,6 @@ DESARROLLO DE LA PARTE ESCRITA
 Comprensión de textos escritos, comprensión de textos orales, producción y coproducción de textos escritos, mediación escrita
 FECHA HORA
 26 de febrero de 
-2026
 - Organización del aula
 - Cumplimentación de cuadernillos 09:00 – 09:15
 Comprensión de textos orales (40 minutos) 09:15 – 09:55
@@ -2081,9 +1990,6 @@ Convocatoria de incidencias para los tres niveles (A2, B1 y B2):  se realizará 
 quienes no hayan podido realizar la parte escrita de la prueba en la convocatoria ordinaria por causas de fuerza mayor  
 debidamente justificadas. Será de aplicación el mismo horario que para la convocatoria ordinaria.
 
-boc-a-2025-238-4105
-Boletín Oficial de Canarias núm. 238 Lunes 1 de diciembre de 202548942
-https://sede.gobiernodecanarias.org/boc
 Folio 25/42
 APÉNDICE III
 ADSCRIPCIÓN ENTRE CENTROS DOCENTES PÚBLICOS Y ESCUELAS OFICIALES DE 
@@ -2147,9 +2053,6 @@ APÉNDICE III
 ADSCRIPCIÓN ENTRE CENTROS DOCENTES PÚBLICOS Y ESCUELAS OFICIALES 
 DE IDIOMAS.
 
-boc-a-2025-238-4105
-Boletín Oficial de Canarias núm. 238 Lunes 1 de diciembre de 202548943
-https://sede.gobiernodecanarias.org/boc
 Folio 26/42
 IslaCod. centro EOI Centro adscrito
 IES NICOLÁS ESTÉVEZ BORGES (Icod de los Vinos)
@@ -2198,9 +2101,6 @@ puede ser comprobada la autenticidad de esta copia, mediante el número de
 documento electrónico siguiente:
  RP001-000QN8q3dtyAb7K11jLYUEfzA==
 
-boc-a-2025-238-4105
-Boletín Oficial de Canarias núm. 238 Lunes 1 de diciembre de 202548944
-https://sede.gobiernodecanarias.org/boc
 Folio 27/42
 IslaCod. centro EOI Centro adscrito
 IES EL MÉDANO (Granadilla de Abona)
@@ -2250,9 +2150,6 @@ puede ser comprobada la autenticidad de esta copia, mediante el número de
 documento electrónico siguiente:
  RP001-000QN8q3dtyAb7K11jLYUEfzA==
 
-boc-a-2025-238-4105
-Boletín Oficial de Canarias núm. 238 Lunes 1 de diciembre de 202548945
-https://sede.gobiernodecanarias.org/boc
 Folio 28/42
 IslaCod. centro EOI Centro adscrito
 IES PADRE ANCHIETA (Santa Cruz de Tenerife)
@@ -2303,9 +2200,6 @@ puede ser comprobada la autenticidad de esta copia, mediante el número de
 documento electrónico siguiente:
  RP001-000QN8q3dtyAb7K11jLYUEfzA==
 
-boc-a-2025-238-4105
-Boletín Oficial de Canarias núm. 238 Lunes 1 de diciembre de 202548946
-https://sede.gobiernodecanarias.org/boc
 Folio 29/42
 IslaCod. centro EOI Centro adscrito
 35009735 EOI MASPALOMAS
@@ -2357,9 +2251,6 @@ puede ser comprobada la autenticidad de esta copia, mediante el número de
 documento electrónico siguiente:
  RP001-000QN8q3dtyAb7K11jLYUEfzA==
 
-boc-a-2025-238-4105
-Boletín Oficial de Canarias núm. 238 Lunes 1 de diciembre de 202548947
-https://sede.gobiernodecanarias.org/boc
 Folio 30/42
 IslaCod. centro EOI Centro adscrito
 IES LOS TARAHALES (Las Palmas de Gran Canaria)
@@ -2410,9 +2301,6 @@ puede ser comprobada la autenticidad de esta copia, mediante el número de
 documento electrónico siguiente:
  RP001-000QN8q3dtyAb7K11jLYUEfzA==
 
-boc-a-2025-238-4105
-Boletín Oficial de Canarias núm. 238 Lunes 1 de diciembre de 202548948
-https://sede.gobiernodecanarias.org/boc
 Folio 31/42
 IslaCod. centro EOI Centro adscrito
 Lanzarote
@@ -2441,9 +2329,6 @@ puede ser comprobada la autenticidad de esta copia, mediante el número de
 documento electrónico siguiente:
  RP001-000QN8q3dtyAb7K11jLYUEfzA==
 
-boc-a-2025-238-4105
-Boletín Oficial de Canarias núm. 238 Lunes 1 de diciembre de 202548949
-https://sede.gobiernodecanarias.org/boc
 APÉNDICE IV
 ESCUELAS OFICIALES DE IDIOMAS DE ADSCRIPCIÓN CON DATOS DE CONTACTO
 Isla EOI Municipio DOMICILIO TELÉFONO CORREO ELECTRÓNICO
@@ -2485,9 +2370,6 @@ Arrecife
 APÉNDICE IV
 ESCUELAS OFICIALES DE IDIOMAS DE ADSCRIPCIÓN CON DATOS DE CONTACTO
 
-boc-a-2025-238-4105
-Boletín Oficial de Canarias núm. 238 Lunes 1 de diciembre de 202548950
-https://sede.gobiernodecanarias.org/boc
 APÉNDICE V
 RÚBRICA DE EV ALUACIÓN: PRUEBA DE PRODUCCIÓN Y COPRODUCCIÓN DE TEXTOS ESCRITOS – NIVEL A2
 COMPETENCIA LINGÜÍSTICA COMPETENCIA SOCIOLINGÜÍSTICA Y PRAGMÁTICA
@@ -2587,9 +2469,6 @@ documento electrónico siguiente:
  RP001-000QN8q3dtyAb7K11jLYUEfzA==
 APÉNDICE V
 
-boc-a-2025-238-4105
-Boletín Oficial de Canarias núm. 238 Lunes 1 de diciembre de 202548951
-https://sede.gobiernodecanarias.org/boc
 RÚBRICA DE EV ALUACIÓN: PRUEBA DE PRODUCCIÓN Y COPRODUCCIÓN DE TEXTOS ESCRITOS – NIVEL B1
 COMPETENCIA LINGÜÍSTICA COMPETENCIA SOCIOLINGÜÍSTICA Y PRAGMÁTICA
 Competencia léxica
@@ -2702,9 +2581,6 @@ puede ser comprobada la autenticidad de esta copia, mediante el número de
 documento electrónico siguiente:
  RP001-000QN8q3dtyAb7K11jLYUEfzA==
 
-boc-a-2025-238-4105
-Boletín Oficial de Canarias núm. 238 Lunes 1 de diciembre de 202548952
-https://sede.gobiernodecanarias.org/boc
 RÚBRICA DE EV ALUACIÓN: PRUEBA DE PRODUCCIÓN Y COPRODUCCIÓN DE TEXTOS ESCRITOS – NIVEL B2
 COMPETENCIA LINGÜÍSTICA COMPETENCIA SOCIOLINGÜÍSTICA Y PRAGMÁTICA
 Competencia léxica
@@ -2828,9 +2704,6 @@ puede ser comprobada la autenticidad de esta copia, mediante el número de
 documento electrónico siguiente:
  RP001-000QN8q3dtyAb7K11jLYUEfzA==
 
-boc-a-2025-238-4105
-Boletín Oficial de Canarias núm. 238 Lunes 1 de diciembre de 202548953
-https://sede.gobiernodecanarias.org/boc
 APÉNDICE VI
 RÚBRICA DE EV ALUACIÓN: PRUEBA DE PRODUCCIÓN Y COPRODUCCIÓN DE TEXTOS ORALES Y MEDIACIÓN – NIVEL A2
 COMPETENCIA LINGÜÍSTICA COMPETENCIA SOCIOLINGÜÍSTICA Y PRAGMÁTICA
@@ -2991,9 +2864,6 @@ documento electrónico siguiente:
  RP001-000QN8q3dtyAb7K11jLYUEfzA==
 APÉNDICE VI
 
-boc-a-2025-238-4105
-Boletín Oficial de Canarias núm. 238 Lunes 1 de diciembre de 202548954
-https://sede.gobiernodecanarias.org/boc
 RÚBRICA DE EV ALUACIÓN: PRUEBA DE PRODUCCIÓN Y COPRODUCCIÓN DE TEXTOS ORALES – NIVEL B1
 COMPETENCIA LINGÜÍSTICA COMPETENCIA SOCIOLINGÜÍSTICA Y PRAGMÁTICA
 Competencia léxica
@@ -3151,9 +3021,6 @@ puede ser comprobada la autenticidad de esta copia, mediante el número de
 documento electrónico siguiente:
  RP001-000QN8q3dtyAb7K11jLYUEfzA==
 
-boc-a-2025-238-4105
-Boletín Oficial de Canarias núm. 238 Lunes 1 de diciembre de 202548955
-https://sede.gobiernodecanarias.org/boc
 RÚBRICA DE EV ALUACIÓN: PRUEBA DE PRODUCCIÓN Y COPRODUCCIÓN DE TEXTOS ORALES – NIVEL B2
 COMPETENCIA LINGÜÍSTICA COMPETENCIA SOCIOLINGÜÍSTICA Y PRAGMÁTICA
 Competencia léxica
@@ -3331,9 +3198,6 @@ documento electrónico siguiente:
  RP001-000QN8q3dtyAb7K11jLYUEfzA==
 ❏ Utiliza  las  conjunciones  más frecuentes  y  un 
 
-boc-a-2025-238-4105
-Boletín Oficial de Canarias núm. 238 Lunes 1 de diciembre de 202548956
-https://sede.gobiernodecanarias.org/boc
 APÉNDICE VII
 RÚBRICA DE EV ALUACIÓN: TAREA DE MEDIACIÓN ESCRITA – NIVEL B1
 Capacidad mediadora
@@ -3388,9 +3252,6 @@ documento electrónico siguiente:
  RP001-000QN8q3dtyAb7K11jLYUEfzA==
 APÉNDICE VII
 
-boc-a-2025-238-4105
-Boletín Oficial de Canarias núm. 238 Lunes 1 de diciembre de 202548957
-https://sede.gobiernodecanarias.org/boc
 RÚBRICA DE EV ALUACIÓN: TAREA DE MEDIACIÓN ESCRITA – NIVEL B2
 Capacidad mediadora
 Puntuación
@@ -3444,9 +3305,6 @@ puede ser comprobada la autenticidad de esta copia, mediante el número de
 documento electrónico siguiente:
  RP001-000QN8q3dtyAb7K11jLYUEfzA==
 
-boc-a-2025-238-4105
-Boletín Oficial de Canarias núm. 238 Lunes 1 de diciembre de 202548958
-https://sede.gobiernodecanarias.org/boc
 APÉNDICE VIII
 RÚBRICA DE EV ALUACIÓN: TAREA DE MEDIACIÓN ORAL – NIVEL B1
 Capacidad mediadora
@@ -3504,9 +3362,6 @@ documento electrónico siguiente:
  RP001-000QN8q3dtyAb7K11jLYUEfzA==
 APÉNDICE VIII
 
-boc-a-2025-238-4105
-Boletín Oficial de Canarias núm. 238 Lunes 1 de diciembre de 202548959
-https://sede.gobiernodecanarias.org/boc
 RÚBRICA DE EV ALUACIÓN: TAREA DE MEDIACIÓN ORAL – NIVEL B2
 Capacidad mediadora
 Puntuación

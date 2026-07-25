@@ -32,16 +32,13 @@ fundamentos_derecho:
 
 # Ley Orgánica 8/1985 reguladora del Derecho a la Educación (LODE)
 
-
 **JUAN CARLOS I,**
-
 
 **REY DE ESPAÑA**
 
 A todos los que la presente vieren y entendieren,
 
 Sabed: Que las Cortes Generales han aprobado y Yo vengo en sancionar la siguiente Ley:
-
 
 **PREAMBULO**
 
@@ -83,7 +80,6 @@ En suma, la Ley Orgánica Reguladora del Derecho a la Educación, se orienta a l
 
 TÍTULO PRELIMINAR
 
-
 #### Artículo primero.
 
 1. Todos los españoles tienen derecho a una educación básica que les permita el desarrollo de su propia personalidad y la realización de una actividad útil a la sociedad. Esta educación será obligatoria y gratuita en el nivel de educación general básica y, en su caso, en la formación profesional de primer grado, así como en los demás niveles que la ley establezca.
@@ -91,7 +87,6 @@ TÍTULO PRELIMINAR
 2. Todos, asimismo, tienen derecho a acceder a niveles superiores de educación, en función de sus aptitudes y vocación, sin que en ningún caso el ejercicio de este derecho esté sujeto a discriminaciones debidas a la capacidad económica, nivel social o lugar de residencia del alumno.
 
 3. Los extranjeros residentes en España tendrán también derecho a recibir la educación a que se refieren los apartados uno y dos de este artículo.
-
 
 #### Artículo segundo.
 
@@ -111,11 +106,9 @@ f) La preparación para participar activamente en la vida social y cultural.
 
 g) La formación para la paz, la cooperación y la solidaridad entre los pueblos.
 
-
 #### Artículo tercero.
 
 Los profesores, en el marco de la Constitución, tienen garantizada la libertad de cátedra. Su ejercicio se orientará a la realización de los fines educativos, de conformidad con los principios establecidos en esta Ley.
-
 
 #### Artículo cuarto.
 
@@ -126,7 +119,6 @@ a) A que sus hijos y pupilos reciban una educación conforme a los fines estable
 b) A escoger centro docente distinto de los creados por los poderes públicos.
 
 c) A que sus hijos o pupilos reciban la formación religiosa y moral que esté de acuerdo con sus propias convicciones.
-
 
 #### Artículo quinto.
 
@@ -147,7 +139,6 @@ c) Promover la participación de los padres de los alumnos en la gestión del ce
 5. Las asociaciones de padres de alumnos podrán promover federaciones y confederaciones, de acuerdo con el procedimiento establecido en la legislación vigente.
 
 6. Reglamentariamente se establecerán, de acuerdo con la Ley, las características específicas de las asociaciones de padres de alumnos.
-
 
 #### Artículo sexto.
 
@@ -171,7 +162,6 @@ h) Derecho a protección social en los casos de infortunio familiar o accidente.
 
 2. Constituye un deber básico de los alumnos, además del estudio, el respeto a las normas de convivencia dentro del centro docente.
 
-
 #### Artículo séptimo.
 
 1. Los alumnos podrán asociarse, en función de su edad, creando organizaciones de acuerdo con la Ley y con las normas que, en su caso, reglamentariamente se establezcan.
@@ -188,14 +178,11 @@ d) Realizar actividades culturales, deportivas y de fomento de la acción cooper
 
 e) Promover federaciones y confederaciones, de acuerdo con el procedimiento establecido en la legislación vigente.
 
-
 #### Artículo octavo.
 
 Se garantiza en los centros docentes el derecho de reunión de los profesores, personal de administración y de servicios, padres de alumnos y alumnos, cuyo ejercicio se facilitará de acuerdo con la legislación vigente y teniendo en cuenta el normal desarrollo de las actividades docentes.
 
-
 ## TÍTULO PRIMERO
-
 
 **De los centros docentes**
 
@@ -203,11 +190,9 @@ CAPÍTULO I
 
 Disposiciones generales
 
-
 #### Artículo noveno.
 
 Los centros docentes, a excepción de los universitarios, se regirán por lo dispuesto en la presente Ley y Disposiciones que la desarrollen.
-
 
 #### Artículo diez.
 
@@ -218,7 +203,6 @@ Los centros docentes, a excepción de los universitarios, se regirán por lo dis
 Se entiende por titular de un centro docente la persona física o jurídica que conste como tal en el registro a que se refiere el artículo 13 de esta Ley.
 
 3. Los centros privados sostenidos con fondos públicos recibirán la denominación de centros concertados y, sin perjuicio de lo dispuesto en este título, se ajustarán a lo establecido en el Título Cuarto de esta ley.
-
 
 #### Artículo once.
 
@@ -234,25 +218,21 @@ d) Formación Profesional.
 
 2. La adaptación de lo preceptuado en esta Ley a los centros que impartan enseñanzas no comprendidas en el apartado anterior, así como a los centros integrados que abarquen dos o más de las enseñanzas a que se refiere este artículo, se efectuará reglamentariamente.
 
-
 #### Artículo doce.
 
 1. Los centros docentes españoles en el extranjero tendrán una estructura y un régimen singularizados a fin de acomodarlos a las exigencias del medio y a lo que, en su caso, dispongan los convenios internacionales.
 
 2. Sin perjuicio de lo establecido en los convenios internacionales o, en su defecto, del principio de reciprocidad, los centros extranjeros en España se ajustarán a lo que el Gobierno determine reglamentariamente.
 
-
 #### Artículo trece.
 
 Todos los centros docentes tendrán una denominación específica y se inscribirán en un registro público dependiente de la Administración educativa competente, que deberá dar traslado de los asientos registrales al Ministerio de Educación y Ciencia, en el plazo máximo de un mes. No podrán emplearse por parte de los centros identificaciones diferentes a las que figuren en la correspondiente inscripción registral.
-
 
 #### Artículo catorce.
 
 1. Todos los centros docentes deberán reunir unos requisitos mínimos para impartir las enseñanzas con garantía de calidad. El Gobierno establecerá reglamentariamente dichos requisitos mínimos.
 
 2. Los requisitos mínimos se referirán a titulación académica del profesorado, relación numérica alumno-profesor, instalaciones docentes y deportivas y número de puestos escolares.
-
 
 #### Artículo quince.
 
@@ -262,18 +242,15 @@ CAPÍTULO II
 
 De los centros públicos
 
-
 #### Artículo dieciséis.
 
 1. Los centros públicos de Educación Preescolar, de Educación General Básica, de Bachillerato y de Formación Profesional se denominarán centros preescolares, colegios de educación general básica, institutos de Bachillerato e institutos de Formación Profesional, respectivamente.
 
 2. Los centros no comprendidos en el apartado anterior se denominarán de acuerdo con lo que dispongan sus reglamentaciones especiales.
 
-
 #### Artículo diecisiete.
 
 La creación y supresión de centros públicos se efectuará por el Gobierno o por el Consejo de Gobierno de la Comunidad Autónoma correspondiente, en el ámbito de sus respectivas competencias.
-
 
 #### Artículo dieciocho.
 
@@ -281,11 +258,9 @@ La creación y supresión de centros públicos se efectuará por el Gobierno o p
 
 2. La Administración educativa competente y, en todo caso, los órganos de gobierno del centro docente velarán por la efectiva realización de los fines de la actividad educativa, la mejora de la calidad de la enseñanza y el cumplimiento de lo dispuesto en el apartado anterior de este artículo.
 
-
 #### Artículo diecinueve.
 
 En concordancia con los fines establecidos en la presente ley, el principio de participación de los miembros de la comunidad escolar inspirará las actividades educativas y la organización y funcionamiento de los centros públicos. La intervención de los profesores, de los padres y, en su caso, de los alumnos en el control y gestión de los centros públicos se ajustará a lo dispuesto en el Título tercero de esta ley.
-
 
 #### Artículo veinte.
 
@@ -296,7 +271,6 @@ En concordancia con los fines establecidos en la presente ley, el principio de p
 CAPÍTULO III
 
 De los centros privados
-
 
 #### Artículo veintiuno.
 
@@ -312,18 +286,15 @@ c) Las personas físicas o jurídicas expresamente privadas del ejercicio de est
 
 d) Las personas jurídicas en las que las personas incluidas en los apartados anteriores desempeñen cargos rectores o sean titulares del 20 por 100 o más del capital social.
 
-
 #### Artículo veintidós.
 
 1. En el marco de la Constitución y con respeto de los derechos garantizados en el Título Preliminar de esta ley a profesores, padres y alumnos, los titulares de los centros privados tendrán derecho a establecer el carácter propio de los mismos.
 
 2. El carácter propio del centro deberá ser puesto en conocimiento de los distintos miembros de la comunidad educativa por el titular.
 
-
 #### Artículo veintitrés.
 
 La apertura y funcionamiento de los centros docentes privados se someterán al principio de autorización administrativa, la cual se concederá siempre que reúnan los requisitos mínimos que se establezcan con carácter general de acuerdo con lo dispuesto en el artículo 14 de esta ley. La autorización se revocará cuando los centros dejen de reunir estos requisitos.
-
 
 #### Artículo veinticuatro.
 
@@ -333,11 +304,9 @@ La apertura y funcionamiento de los centros docentes privados se someterán al p
 
 3. El Gobierno determinará reglamentariamente las condiciones mínimas en que se deban impartir las enseñanzas en los citados centros docentes para su clasificación, así como los efectos derivados de la misma.
 
-
 #### Artículo veinticinco.
 
 Dentro de las disposiciones de la presente ley y normas que la desarrollen, los centros privados no concertados gozarán de autonomía para establecer su régimen interno, seleccionar su profesorado de acuerdo con la titulación exigida por la legislación vigente, determinar el procedimiento de admisión de alumnos, establecer las normas de convivencia y definir su régimen económico.
-
 
 #### Artículo veintiséis.
 
@@ -345,12 +314,9 @@ Dentro de las disposiciones de la presente ley y normas que la desarrollen, los 
 
 2. La participación de los profesores, padres y, en su caso, alumnos en los centros concertados se regirá por lo dispuesto en el Título cuarto de la presente ley.
 
-
 ## TÍTULO SEGUNDO
 
-
 **De la participación en la programación general de la enseñanza**
-
 
 #### Artículo veintisiete.
 
@@ -362,21 +328,17 @@ Dentro de las disposiciones de la presente ley y normas que la desarrollen, los 
 
 La programación específica de puestos escolares de nueva creación en los niveles obligatorios gratuitos deberá tener en cuenta, en todo caso, la oferta existente de centros públicos y concertados.
 
-
 #### Artículo veintiocho.
 
 A los fines previstos en el artículo anterior, y con carácter previo a la deliberación del Consejo Escolar del Estado, se reunirá la Conferencia de Consejeros titulares de educación de los Consejos de Gobierno de las Comunidades Autónomas y el Ministro de Educación y Ciencia, convocada y presidida por éste. Asimismo, la Conferencia se reunirá cuantas veces sea preciso para asegurar la coordinación de la política educativa y el intercambio de información.
-
 
 #### Artículo veintinueve.
 
 Los sectores interesados en la educación participarán en la programación general de la enseñanza a través de los órganos colegiados que se regulan en los artículos siguientes.
 
-
 #### Artículo treinta.
 
 El Consejo Escolar del Estado es el órgano de ámbito nacional para la participación de los sectores afectados en la programación general de la enseñanza y de asesoramiento respecto de los proyectos de ley o reglamentos que hayan de ser propuestos o dictados por el Gobierno.
-
 
 #### Artículo treinta y uno.
 
@@ -402,7 +364,6 @@ i) Las personalidades de reconocido prestigio en el campo de la educación, de l
 
 2. El Gobierno, a propuesta del Ministerio de Educación y Ciencia, aprobará las normas que determinen la representación numérica de los miembros del Consejo Escolar del Estado, así como su organización y funcionamiento. La representación de los miembros de la comunidad educativa a que se refieren los apartados a), b), c) y d) de este artículo no podrá ser en ningún caso inferior a un tercio del total de los componentes de este Consejo.
 
-
 #### Artículo treinta y dos.
 
 1. El Consejo Escolar del Estado será consultado preceptivamente en las siguientes cuestiones:
@@ -425,29 +386,23 @@ g) La determinación de los requisitos mínimos que deben reunir los Centros doc
 
 3. El Consejo Escolar del Estado, por propia iniciativa, podrá formular propuestas al Ministerio de Educación y Ciencia sobre cuestiones relacionadas con los puntos enumerados en los apartados anteriores y sobre cualquier otra concerniente a la calidad de la enseñanza.
 
-
 #### Artículo treinta y tres.
 
 1. El Consejo Escolar del Estado elaborará y hará público anualmente un informe sobre el sistema educativo.
 
 2. El Consejo Escolar del Estado se reunirá al menos una vez al año con carácter preceptivo.
 
-
 #### Artículo treinta y cuatro.
 
 En cada Comunidad Autónoma existirá un Consejo Escolar para su ámbito territorial, cuya composición y funciones serán reguladas por una Ley de la Asamblea de la Comunidad Autónoma correspondiente que, a efectos de la programación de la enseñanza, garantizará en todo caso la adecuada participación de los sectores afectados.
-
 
 #### Artículo treinta y cinco.
 
 Los poderes públicos, en el ejercicio de sus respectivas competencias, podrán establecer Consejos Escolares de ámbitos territoriales distintos al que se refiere el artículo anterior, así como dictar las disposiciones necesarias para la organización y funcionamiento de los mismos. En todo caso, deberá garantizarse la adecuada participación de los sectores afectados en los respectivos Consejos.
 
-
 ## TÍTULO TERCERO
 
-
 **De los órganos de Gobierno de los Centros públicos**
-
 
 #### Artículo treinta y seis.
 
@@ -456,7 +411,6 @@ Los Centros públicos tendrán los siguientes órganos de gobierno:
 a) Unipersonales: Director, Secretario, Jefe de Estudios y cuantos otros se determinen en los reglamentos orgánicos correspondientes.
 
 b) Colegiados: Consejo Escolar del Centro, claustro de Profesores y cuantos otros se determinen en los reglamentos a que se refiere el párrafo anterior.
-
 
 #### Artículo treinta y siete.
 
@@ -467,7 +421,6 @@ b) Colegiados: Consejo Escolar del Centro, claustro de Profesores y cuantos otro
 3. La elección se producirá por mayoría absoluta de los miembros del Consejo Escolar.
 
 4. En ausencia de candidatos, o cuando éstos no obtuvieran la mayoría absoluta, o en el caso de Centros de nueva creación, la Administración educativa correspondiente nombrará Director con carácter provisional por el período de un año.
-
 
 #### Artículo treinta y ocho.
 
@@ -493,18 +446,15 @@ i) Ejecutar los acuerdos de los órganos colegiados en el ámbito de su competen
 
 j) Cuantas otras competencias se le atribuyan en los correspondientes reglamentos orgánicos.
 
-
 #### Artículo treinta y nueve.
 
 1. El Director del Centro cesará en sus funciones al término de su mandato.
 
 2. No obstante lo dispuesto en el apartado anterior, la Administración educativa competente podrá cesar o suspender al Director antes del término de dicho mandato, cuando incumpla gravemente sus funciones, previo informe razonado del Consejo Escolar del Centro y audiencia del interesado.
 
-
 #### Artículo cuarenta.
 
 El Secretario y el Jefe de Estudios serán Profesores elegidos por el Consejo Escolar, a propuesta del Director y nombrados por la Administración Educativa competente. Los demás órganos de gobierno unipersonales que se determinen serán nombrados de acuerdo con el procedimiento que reglamentariamente se establezca.
-
 
 #### Artículo cuarenta y uno.
 
@@ -525,7 +475,6 @@ f) El Secretario del Centro, que actuará de Secretario del Consejo, con voz y s
 2. Reglamentariamente se determinará tanto el número total de componentes del Consejo como la proporción interna de la representación de padres y alumnos, así como la distribución de los restantes puestos, si los hubiere, entre Profesores, padres de alumnos, alumnos y personal de administración y servicios.
 
 3. En los Centros preescolares, en los de Educación General Básica con menos de ocho unidades, en los que atiendan necesidades educativas de diversos municipios, en las unidades o Centros de educación permanente de adultos y de Educación Especial, así como aquellas unidades o Centros de características singulares, la Administración educativa competente adaptará lo dispuesto en este artículo a la singularidad de los mismos.
-
 
 #### Artículo cuarenta y dos.
 
@@ -559,16 +508,13 @@ ll) Cualquier otra competencia que le sea atribuida en los correspondientes regl
 
 2. El Consejo Escolar del Centro se reunirá preceptivamente una vez al trimestre y siempre que lo convoque su Presidente o lo soliciten, al menos, un tercio de sus miembros.
 
-
 #### Artículo cuarenta y tres.
 
 Los alumnos participarán en las deliberaciones y decisiones del Consejo Escolar del Centro. No obstante, los representantes de los alumnos del ciclo superior de la Educación General Básica no intervendrán en los casos de elección del Director, designación del equipo directivo y propuesta de revocación del nombramiento del Director.
 
-
 #### Artículo cuarenta y cuatro.
 
 En el seno del Consejo Escolar del Centro existirá una Comisión económica, integrada por el Director, un Profesor y un padre de alumno, que informará al Consejo sobre cuantas materias de índole económica se le encomienden. En aquellos Centros, en cuyo sostenimiento cooperen corporaciones locales formará parte asimismo de dicha Comisión el Concejal o representante del Ayuntamiento miembro del Consejo Escolar.
-
 
 #### Artículo cuarenta y cinco.
 
@@ -590,26 +536,21 @@ f) Cualquiera otra que le sea encomendada por los respectivos reglamentos orgán
 
 3. El claustro se reunirá preceptivamente una vez al trimestre y siempre que lo solicite un tercio, al menos, de sus miembros.
 
-
 #### Artículo cuarenta y seis.
 
 1. La duración del mandato de los órganos unipersonales de gobierno será de tres años.
 
 2. Los órganos colegiados de carácter electivo se renovarán cada dos años, sin perjuicio de que se cubran hasta dicho término las vacantes que se produzcan.
 
-
 ## TÍTULO CUARTO
 
-
 **De los centros concertados**
-
 
 #### Artículo cuarenta y siete.
 
 1. Para el sostenimiento de Centros privados con fondos públicos se establecerá un régimen de conciertos al que podrán acogerse aquellos Centros privados que, en orden a la prestación del servicio público de la educación en los términos previstos en esta Ley, impartan la educación básica y reúnan los requisitos previstos en este Título. A tal efecto, los citados Centros deberán formalizar con la Administración educativa que proceda el pertinente concierto.
 
 2. El Gobierno establecerá las normas básicas a que deben someterse los conciertos.
-
 
 #### Artículo cuarenta y ocho.
 
@@ -618,7 +559,6 @@ f) Cualquiera otra que le sea encomendada por los respectivos reglamentos orgán
 2. Los conciertos podrán afectar a varios Centros siempre que pertenezcan a un mismo titular.
 
 3. Tendrán preferencia para acogerse al régimen de conciertos aquellos Centros que satisfagan necesidades de escolarización, que atiendan a poblaciones escolares de condiciones socioeconómicas desfavorables o que, cumpliendo alguno de los requisitos anteriores, realicen experiencias de interés pedagógico para el sistema educativo. En todo caso, tendrán preferencia aquellos Centros que en régimen de cooperativa cumplan con las finalidades anteriormente señaladas.
-
 
 #### Artículo cuarenta y nueve.
 
@@ -634,11 +574,9 @@ f) Cualquiera otra que le sea encomendada por los respectivos reglamentos orgán
 
 6. La Administración no podrá asumir alteraciones en los salarios del profesorado, derivadas de convenios colectivos que superen el porcentaje de incremento global de las cantidades correspondientes a salarios a que hace referencia el apartado 3.
 
-
 #### Artículo cincuenta.
 
 Los centros concertados se considerarán asimilados a las fundaciones benéfico-docentes a efectos de la aplicación a los mismos de los beneficios, fiscales y no fiscales, que estén reconocidos a las citadas entidades, con independencia de cuantos otros pudieran corresponderles en consideración a la actividad educativa que desarrollan.
-
 
 #### Artículo cincuenta y uno.
 
@@ -650,7 +588,6 @@ Los centros concertados se considerarán asimilados a las fundaciones benéfico-
 
 4. Reglamentariamente se regularán las actividades y servicios complementarios de los centros concertados, que en todo caso tendrán carácter voluntario y no podrán formar parte del horario lectivo.
 
-
 #### Artículo cincuenta y dos.
 
 1. Los centros concertados tendrán derecho a definir su carácter propio de acuerdo con lo establecido en el artículo 22 de esta Ley.
@@ -659,11 +596,9 @@ Los centros concertados se considerarán asimilados a las fundaciones benéfico-
 
 3. Toda práctica confesional tendrá carácter voluntario.
 
-
 #### Artículo cincuenta y tres.
 
 La admisión de alumnos en los centros concertados se ajustará al régimen establecido para los centros públicos en el artículo 20 de esta Ley.
-
 
 #### Artículo cincuenta y cuatro.
 
@@ -691,11 +626,9 @@ f) Cuantas otras facultades le atribuya el reglamento de régimen interior en el
 
 3. Los demás órganos de gobierno, tanto unipersonales como colegiados, se determinarán, en su caso, en el citado reglamento de régimen interior.
 
-
 #### Artículo cincuenta y cinco.
 
 Los profesores, los padres de los alumnos y, en su caso, los alumnos, intervendrán en el control y gestión de los centros concertados a través del consejo escolar del centro, sin perjuicio de que en sus respectivos reglamentos de régimen interior se prevean otros órganos para la participación de la comunidad escolar.
-
 
 #### Artículo cincuenta y seis.
 
@@ -716,7 +649,6 @@ Los profesores, los padres de los alumnos y, en su caso, los alumnos, intervendr
 2. A las deliberaciones del consejo escolar del centro podrán asistir, con voz pero sin voto, siempre que sean convocados para informar sobre cuestiones de su competencia, los demás órganos unipersonales de acuerdo con lo que establezca el reglamento de régimen interior.
 
 3. El Consejo Escolar del centro se renovará por mitades cada dos años, sin perjuicio de que se cubran hasta dicho término las vacantes que se produzcan.
-
 
 #### Artículo cincuenta y siete.
 
@@ -748,11 +680,9 @@ l) Aprobar, a propuesta del titular, el reglamento de régimen interior del cent
 
 ll) Supervisar la marcha general del centro en los aspectos administrativos y docentes.
 
-
 #### Artículo cincuenta y ocho.
 
 Los alumnos participarán en las deliberaciones y decisiones del Consejo Escolar del centro. No obstante, los representantes de los alumnos del ciclo superior de la Educación General Básica no intervendrán en los casos de designación y cese del director, así como en los de despido del profesorado.
-
 
 #### Artículo cincuenta y nueve.
 
@@ -763,7 +693,6 @@ Los alumnos participarán en las deliberaciones y decisiones del Consejo Escolar
 3. El mandato del Director tendrá una duración de tres años.
 
 4. El cese del Director requerirá el acuerdo entre la titularidad y el Consejo Escolar del centro.
-
 
 #### Artículo sesenta.
 
@@ -781,7 +710,6 @@ Los alumnos participarán en las deliberaciones y decisiones del Consejo Escolar
 
 7. La Administración educativa competente verificará que el procedimiento de selección y despido del profesorado se realice de acuerdo con lo dispuesto en los apartados anteriores.
 
-
 #### Artículo sesenta y uno.
 
 1. En caso de conflicto entre el titular y el Consejo Escolar del centro o incumplimiento grave de las obligaciones derivadas del régimen de concierto, se constituirá una comisión de conciliación que podrá acordar por unanimidad la adopción de las medidas adecuadas para solucionar el conflicto o subsanar la infracción cometida.
@@ -791,7 +719,6 @@ Los alumnos participarán en las deliberaciones y decisiones del Consejo Escolar
 3. En el supuesto que la Comisión no alcance el acuerdo referido, la Administración educativa, visto el informe en que aquélla exponga las razones de su discrepancia, decidirá la instrucción del oportuno expediente en orden a la determinación de las responsabilidades en que hubieran podido incurrir las partes en litigio, adoptando, en su caso, las medidas provisionales que aconseje el normal desarrollo de la vida del centro.
 
 4. La Administración educativa no podrá adoptar en ningún caso medidas que supongan su subrogación en la facultades respectivas del titular o del Consejo Escolar del centro.
-
 
 #### Artículo sesenta y dos.
 
@@ -817,7 +744,6 @@ h) Cualesquiera otras que se deriven de la violación de las obligaciones establ
 
 3. El incumplimiento no grave dará lugar a apercibimiento por parte de la Administración educativa competente. Si el titular no subsanase este incumplimiento, la Administración le apercibirá de nuevo, señalándole que de persistir en dicha actitud no se procederá a la renovación del concierto.
 
-
 #### Artículo sesenta y tres.
 
 1. En los supuestos de rescisión del concierto, la Administración educativa competente adoptará las medidas necesarias para escolarizar a aquellos alumnos que deseen continuar bajo régimen de enseñanza gratuita, sin que sufran interrupción en sus estudios.
@@ -825,7 +751,6 @@ h) Cualesquiera otras que se deriven de la violación de las obligaciones establ
 2. Si la obligación incumplida hubiera consistido en la percepción indebida de cantidades, la rescisión del concierto supondrá para el titular la obligación de proceder a la devolución de las mismas en la forma que en las normas generales se establezcan.
 
 [encabezado]DISPOSICIONES ADICIONALES
-
 
 #### [precepto]Primera.
 
@@ -841,7 +766,6 @@ c) La fijación de las enseñanzas mínimas y la regulación de las demás condi
 
 d) La alta inspección y demás facultades que, conforme al artículo 149.1.30 de la Constitución, le corresponden para garantizar el cumplimiento de las obligaciones de los Poderes públicos.
 
-
 #### [precepto]Segunda.
 
 1. En el marco de los principios constitucionales y de lo establecido por la legislación vigente, las Corporaciones locales cooperarán con las Administraciones educativas correspondientes en la creación, construcción y mantenimiento de centros públicos docentes, así como en la vigilancia del cumplimiento de la escolaridad obligatoria.
@@ -850,16 +774,13 @@ d) La alta inspección y demás facultades que, conforme al artículo 149.1.30 d
 
 Dichos centros se someterán, en todo caso, a lo establecido en el Título tercero de esta ley. Las funciones que en el citado Título competen a la Administración educativa correspondiente, en relación con el nombramiento y cese del director y del equipo directivo, se entenderán referidas al titular público promotor.
 
-
 #### [precepto]Tercera.
 
 Los centros privados de niveles no obligatorios que en la fecha de promulgación de esta ley estén sostenidos total o parcialmente con fondos públicos se ajustarán a lo establecido en la misma para los centros concertados. A tal efecto se establecerán los correspondientes conciertos singulares.
 
-
 #### [precepto]Cuarta.
 
 No será de aplicación lo previsto en el artículo 59 de la presente ley a los titulares de centros actualmente autorizados, con menos de diez unidades, que, ostentando la doble condición de figurar inscritos en el registro de centros como personas físicas y ser directores de los mismos, se acojan al régimen de conciertos. En tal caso, el director ocupará una de las plazas correspondientes a la representación del titular en la composición del consejo escolar del centro.
-
 
 #### [precepto]Quinta.
 
@@ -869,16 +790,13 @@ No será de aplicación lo previsto en el artículo 59 de la presente ley a los 
 
 [encabezado]DISPOSICIONES TRANSITORIAS
 
-
 #### [precepto]Primera.
 
 Hasta tanto no se constituya el Consejo Escolar del Estado creado por la presente ley, continuará ejerciendo sus funciones el Consejo Nacional de Educación.
 
-
 #### [precepto]Segunda.
 
 Hasta tanto no se desarrolle reglamentariamente el régimen de conciertos, se mantendrán las subvenciones a la enseñanza obligatoria.
-
 
 #### [precepto]Tercera.
 
@@ -886,16 +804,13 @@ Hasta tanto no se desarrolle reglamentariamente el régimen de conciertos, se ma
 
 2. Durante este período, el Gobierno establecerá para los citados centros un régimen singular de conciertos en el que se fijarán las cantidades que puedan percibir de los alumnos en concepto de financiación complementaria a la proveniente de fondos públicos, sin perjuicio de su sujeción a lo preceptuado en el Título cuarto de esta Ley.
 
-
 #### [precepto]Cuarta.
 
 Los centros docentes actualmente en funcionamiento, cuyos titulares sean las Corporaciones locales, se adaptarán a lo prevenido en la presente ley en el plazo de un año a contar desde su publicación.
 
-
 #### [precepto]Quinta.
 
 En las materias cuya regulación remite la presente Ley a ulteriores disposiciones reglamentarias y en tanto éstas no sean dictadas serán de aplicación en cada caso las normas de este rango hasta ahora vigentes.
-
 
 #### DISPOSICIÓN DEROGATORIA
 
@@ -911,21 +826,15 @@ c) Los artículos 59, 61, 89.6, 101, 136.3 y 4 en cuanto se opongan a lo precept
 
 [encabezado]DISPOSICIONES FINALES
 
-
 #### [precepto]Primera.
 
 El Gobierno y las Comunidades Autónomas, en el ámbito de sus respectivas competencias, podrán dictar cuantas disposiciones sean precisas para la aplicación de la presente Ley.
-
 
 #### [precepto]Segunda.
 
 Se autoriza al Gobierno para adaptar lo dispuesto en esta Ley a las peculiaridades de centros docentes de carácter singular que estén acogidos a convenios entre el Ministerio de Educación y Ciencia y otros Ministerios, o cuyo carácter específico esté reconocido por acuerdos internacionales de carácter bilateral.
 
-
 #### [precepto]Tercera.
-
-La presente Ley entrará en vigor el mismo día de su publicación en el «Boletín Oficial del Estado».
-
 
 #### Por tanto,
 

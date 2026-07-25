@@ -33,9 +33,6 @@ fuente_pdf_oficial: https://sede.gobiernodecanarias.org/boc/boc-a-2026-073-1192.
 
 # Resolución de 8 de abril de 2026, por la que se corrige la Resolución de 13 de febrero de 2026, que dicta instrucciones sobre el proceso de admisión del alumnado a Ciclos Formativos de Grado Básico, Medio y Superior (niveles 1, 2 y 3, respectivamente) de las Enseñanzas de Formación Profesional de Grados D, Enseñanzas Profesionales de Artes Pláticas y Diseño, Enseñanzas Elementales y Profesionales de Música, Enseñanzas de Idiomas y Enseñanzas Deportivas en centros docentes sostenidos con fondos públicos en la Comunidad Autónoma de Canarias para el curso escolar 2026/2027.
 
-https://sede.gobiernodecanarias.org/boc
-boc-a-2026-073-1192
-Boletín Oficial de Canarias núm. 73 Jueves 16 de abril de 202614099
 III. Otras Resoluciones
 Consejería de Educación, Formación Profesional, Actividad Física y Deportes
 1192 Dirección General de Formación Profesional y Enseñanzas de Régimen Especial.- 
@@ -76,9 +73,6 @@ en el artículo 19 del Decreto 212/1991, de 11 de septiembre, de organización d
 Departamentos de la Administración Autonómica de Canarias, y en el artículo 20 del 
 Reglamento Orgánico de la Consejería de Educación, Formación Profesional, Actividad 
 
-https://sede.gobiernodecanarias.org/boc
-boc-a-2026-073-1192
-Boletín Oficial de Canarias núm. 73 Jueves 16 de abril de 202614100
 Física y Deportes, aprobado por el Decreto 84/2024, de 10 de junio, por el que se asignan 
 las competencias generales y específicas a la Dirección General de Formación Profesional 
 y Enseñanzas de Régimen Especial,
@@ -114,9 +108,6 @@ Debe decir:
 de, al menos, una de las siguientes condiciones:
 a) Estar en posesión del Título de Graduado en Educación Secundaria Obligatoria.
 
-https://sede.gobiernodecanarias.org/boc
-boc-a-2026-073-1192
-Boletín Oficial de Canarias núm. 73 Jueves 16 de abril de 202614101
 b) Estar en posesión del Título de Técnico Básico o Técnico.
 c) Haber superado una oferta formativa de Grado C, incluida en su totalidad en el ciclo 
 formativo.
@@ -153,9 +144,6 @@ de anuncios del centro y página web del centro educativo, si la tuviera (Anexo 
 en la página web de la Consejería competente en materia educativa, las plazas escolares 
 vacantes”.
 
-https://sede.gobiernodecanarias.org/boc
-boc-a-2026-073-1192
-Boletín Oficial de Canarias núm. 73 Jueves 16 de abril de 202614102
 Segundo.- Ordenar la publicación de la presente Resolución en el Boletín Oficial de 
 Canarias y en la web de la Consejería de Educación, Formación Profesional, Actividad 
 Física y Deportes para su general conocimiento. Se encomienda a los equipos directivos de 

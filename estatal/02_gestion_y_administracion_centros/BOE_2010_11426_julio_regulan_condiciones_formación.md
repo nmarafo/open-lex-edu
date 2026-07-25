@@ -43,14 +43,11 @@ En la elaboración del presente real decreto han sido consultadas las Comunidade
 
 En su virtud y a propuesta del Ministro de Educación, de acuerdo con el Consejo de Estado y previa deliberación del Consejo de Ministros en su reunión del día 2 de julio de 2010,
 
-
 **DISPONGO:**
-
 
 #### Artículo 1. Objeto.
 
 El presente real decreto tiene por objeto regular las condiciones de formación inicial del profesorado de los centros privados, para ejercer la docencia en las enseñanzas de Educación Secundaria Obligatoria y de Bachillerato.
-
 
 #### Artículo 2. Requisitos de formación inicial.
 
@@ -61,7 +58,6 @@ a) Tener un título de Licenciado, Ingeniero o Arquitecto, o un título oficial 
 b) Acreditar una cualificación específica adecuada para impartir las materias respectivas.
 
 c) Tener la formación pedagógica y didáctica a la que hace referencia el artículo 100.2 de la Ley Orgánica 2/2006, de 3 de mayo, de Educación.
-
 
 #### Artículo 3. Acreditación de la cualificación específica.
 
@@ -79,11 +75,9 @@ b) Certificación académica personal, en la que conste haber superado al menos 
 
 c) Realización de actividades de formación del profesorado, relacionadas con dicha materia, de una duración en su conjunto, de al menos 24 créditos o créditos ECTS, certificadas por la Administración educativa competente.
 
-
 #### Artículo 4. Formación pedagógica y didáctica.
 
 El profesorado que imparta Educación Secundaria Obligatoria o Bachillerato deberá acreditar la formación pedagógica y didáctica establecida en el artículo 100.2 de la Ley Orgánica 2/2006, de 3 de mayo, de Educación, por tanto, estar en posesión del correspondiente título de Máster regulado por la Orden ECI/3858/2007, de 27 de diciembre, por la que se establecen los requisitos de verificación de los títulos universitarios oficiales que habiliten para el ejercicio de las profesiones de profesor de Educación Secundaria Obligatoria y Bachillerato, Formación Profesional y Enseñanza de Idiomas.
-
 
 #### Artículo 5. Condiciones de formación para ejercer funciones de orientación educativa.
 
@@ -93,11 +87,9 @@ El profesorado que imparta Educación Secundaria Obligatoria o Bachillerato debe
 
 3. El profesorado de Orientación educativa realizará tareas de orientación y, además, podrá desempeñar docencia en las condiciones establecidas en los artículos 2 y 3. En ambos casos se deberá acreditar la formación pedagógica y didáctica establecida en el artículo 100.2 de la Ley Orgánica 2/2006, de 3 de mayo, de Educación, por tanto, estar en posesión del correspondiente título de Máster regulado por la Orden ECI/3858/2007, de 27 de diciembre.
 
-
 #### Artículo 6. Profesorado de apoyo.
 
 Las Administraciones educativas podrán determinar la cualificación específica que deberán acreditar los Maestros, Diplomados, Licenciados o Graduados para impartir docencia en los ámbitos de Pedagogía Terapéutica, Audición y Lenguaje o Compensación Educativa. Esta cualificación comprenderá en todo caso las competencias necesarias para el desempeño de sus funciones en relación con el alumnado con necesidades educativas especiales derivadas de discapacidad.
-
 
 #### Artículo 7. Programas de diversificación curricular, programas de cualificación profesional inicial y materias optativas.
 
@@ -105,26 +97,21 @@ Las Administraciones educativas podrán determinar la cualificación específica
 
 2. Las Administraciones educativas regularán los requisitos para la acreditación de la cualificación específica adecuada para impartir las materias optativas no reguladas por este real decreto y que formen parte del currículo de la Educación Secundaria Obligatoria o del Bachillerato, así como de los módulos obligatorios de los programas de cualificación profesional inicial.
 
-
 #### Artículo 8. Administraciones con lengua cooficial.
 
 Corresponde a las Administraciones educativas de las comunidades autónomas con lengua cooficial, la determinación de la cualificación específica adecuada para impartir la materia de lengua cooficial y literatura y del procedimiento para su acreditación.
-
 
 #### Disposición adicional primera. Prórroga de la actividad docente.
 
 El profesorado que, a la entrada en vigor de este real decreto, reúna los requisitos exigidos en su momento para impartir determinadas materias de la Educación Secundaria Obligatoria o del Bachillerato, podrá continuar impartiendo dichas materias o sus equivalentes en el nuevo sistema educativo en el mismo centro o en otros centros privados.
 
-
 #### Disposición adicional segunda. Docencia de maestros en la Educación Secundaria Obligatoria.
 
 De acuerdo con lo dispuesto en la disposición transitoria primera de la Ley Orgánica 2/2006, de 3 de mayo, de Educación, los maestros que vengan impartiendo los dos primeros cursos de la Educación Secundaria Obligatoria podrán continuar realizando la misma función en los puestos que vienen ocupando o incorporarse a otros centros privados.
 
-
 #### Disposición adicional tercera. Enseñanza de lengua extranjera en educación primaria.
 
 El profesorado que reúna los requisitos para impartir docencia de lenguas extranjeras en la Educación Secundaria Obligatoria o Bachillerato podrá excepcionalmente y por un tiempo limitado, impartir enseñanzas de las lenguas extranjeras respectivas en la etapa de Educación primaria, por extensión y analogía con lo dispuesto en la disposición adicional séptima de la Ley Orgánica 2/2006, de 3 de mayo, de Educación. A estos efectos, las Administraciones educativas deberán fijar en su ámbito de gestión, el tiempo máximo durante el que este profesorado podrá impartir docencia en educación primaria.
-
 
 #### Disposición adicional cuarta. Referencia a títulos de Licenciado, Ingeniero o Arquitecto y adscripción de titulaciones a ramas o áreas de conocimientos.
 
@@ -134,33 +121,27 @@ El profesorado que reúna los requisitos para impartir docencia de lenguas extra
 
 3. En las referencias que se hacen en el anexo de este real decreto a cualquier título de Licenciado del área de Humanidades o de Ciencias Sociales y Jurídicas o a cualquier título oficial de Graduado de la rama de conocimiento de Artes y Humanidades o de Ciencias Sociales y Jurídicas, deben entenderse incluidos los títulos superiores de Música, de Danza o de Arte Dramático (artículos 42.3 y 45.1 de la Ley Orgánica 1/1990, de 3 de octubre) o los títulos de Graduado en: Música, Danza, Arte Dramático, Conservación y Restauración de Bienes Culturales, Diseño o Artes Plásticas, así como los títulos de Ciencias eclesiásticas de nivel universitario equivalentes a Licenciado o Doctor, reconocidos a efectos civiles y debidamente diligenciados por el Ministerio de Educación, todo ello de acuerdo con lo dispuesto en el Real Decreto 3/1995, de 13 de enero, por el que se da cumplimiento a lo dispuesto en el Acuerdo entre el Estado Español y la Santa Sede sobre enseñanza y asuntos culturales en materia de estudios y titulaciones de Ciencias Eclesiásticas.
 
-
 #### Disposición adicional quinta. Profesorado de otros centros.
 
 Lo dispuesto en este real decreto sobre condiciones de formación inicial del profesorado será de aplicación al profesorado de los centros dependientes de Administraciones distintas de las Administraciones educativas.
-
 
 #### Disposición adicional sexta. Titulaciones declaradas equivalentes a efectos de docencia.
 
 Para impartir las materias de Tecnologías y Tecnología de ESO y Tecnología industrial y Electrotecnia de BTO, podrán ser admitidos quienes, aun careciendo de la titulación exigida con carácter general en el artículo 2, letra a), estén en posesión de alguna de las siguientes titulaciones: Ingeniero Técnico, Arquitecto Técnico, Diplomado en Máquinas Navales, Diplomado en Navegación Marítima y Diplomado en Radioelectrónica Naval.
 
-
 #### Disposición adicional séptima. Referencias genéricas.
 
 Todas las referencias al profesorado y a titulaciones para las que en este real decreto se utiliza la forma del masculino genérico deben entenderse aplicables indistintamente a mujeres y a hombres.
 
-
 #### Disposición transitoria primera. Acreditación mediante actividades de formación.
 
 Hasta el 31 de agosto de 2010, la cualificación específica a la que se refiere el artículo 3.3.c), podrá acreditarse mediante las actividades de formación del profesorado relacionadas con la materia a impartir, de una duración al menos de 100 horas, certificadas por la Administración educativa competente, en los términos previstos en el artículo 1.4.c) de la Orden de 24 de julio de 1995.
-
 
 #### Disposición transitoria segunda. Acreditación de la formación pedagógica y didáctica.
 
 1. Los títulos profesionales de Especialización Didáctica, el Certificado de Cualificación Pedagógica, el Certificado de Aptitud Pedagógica, los títulos de Maestro, de Licenciado en Pedagogía y en Psicopedagogía y los de quienes estén en posesión de licenciatura o titulación equivalente que incluya formación pedagógica y didáctica obtenidos antes del 1 de octubre de 2009, acreditarán la formación pedagógica y didáctica a la que se refiere el artículo 100.2 de la Ley Orgánica 2/2006, de acuerdo con lo establecido en la disposición transitoria octava de la Ley Orgánica 2/2006, de 3 de mayo, de Educación, y en la disposición transitoria tercera del Real Decreto 1834/2008, de 8 de noviembre, por el que se definen las condiciones de formación para el ejercicio de la docencia en la Educación Secundaria Obligatoria, el Bachillerato, la formación profesional y las enseñanzas de régimen especial y se establecen las especialidades de los cuerpos docentes de enseñanza secundaria.
 
 2. De acuerdo con lo establecido en la disposición transitoria cuarta del citado Real Decreto 1834/2008, a quienes acrediten haber impartido, hasta el término del curso 2008-2009, docencia durante dos cursos académicos completos o, en su defecto, 12 meses en períodos continuos o discontinuos, en centros públicos o privados de enseñanza reglada debidamente autorizados, en los niveles y enseñanzas cuyas especialidades docentes se regulan en el citado real decreto, se les reconocerá dicha docencia como equivalente a la formación pedagógica y didáctica establecida en el artículo 100.2 de la Ley Orgánica 2/2006, de 3 de mayo, de Educación.
-
 
 #### Disposición derogatoria única. Derogación normativa.
 
@@ -170,20 +151,15 @@ a) La Orden de 24 de julio de 1995, por la que se regulan las titulaciones míni
 
 b) La Orden ECI/759/2008, de 19 de febrero, por la que se complementa la de 24 de julio de 1995, por la que se regulan las titulaciones mínimas que deben poseer los Profesores de los centros privados de Educación Secundaria Obligatoria y Bachillerato.
 
-
 #### Disposición final primera. Carácter básico y título competencial.
 
 Este real decreto tiene carácter básico y se dicta al amparo del artículo 149.1.30.ª de la Constitución que reserva al Estado la competencia exclusiva para el establecimiento de las normas básicas para el desarrollo del artículo 27 de la Constitución, a fin de garantizar el cumplimiento de las obligaciones de los poderes públicos en esta materia.
-
 
 #### Disposición final segunda. Desarrollo normativo.
 
 El Ministro de Educación, en su ámbito de competencias, dictará cuantas disposiciones sean precisas para la aplicación de este real decreto.
 
-
 #### Disposición final tercera. Entrada en vigor.
-
-Este real decreto entrará en vigor el día siguiente al de su publicación en el «Boletín Oficial del Estado».
 
 Dado en Madrid, el 2 de julio de 2010.
 

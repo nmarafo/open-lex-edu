@@ -28,9 +28,6 @@ fuente_pdf_oficial: https://sede.gobiernodecanarias.org/boc/boc-a-2026-109-1901.
 
 # Resolución de 26 de mayo de 2026
 
-https://sede.gobiernodecanarias.org/boc
-boc-a-2026-109-1901
-Boletín Oficial de Canarias núm. 109 Miércoles 3 de junio de 202620945
 III. Otras Resoluciones
 Consejería de Educación, Formación Profesional, Actividad Física y Deportes
 1901 Dirección General de Administración de Centros, Escolarización y Servicios 
@@ -76,9 +73,6 @@ afectados; y en el artículo 27, apartado 7, cuando prevé que el profesorado, l
 en su caso, el alumnado intervendrán en el control y la gestión de los centros sostenidos por 
 la Administración con fondos públicos, en los términos que la Ley establezca.
 
-https://sede.gobiernodecanarias.org/boc
-boc-a-2026-109-1901
-Boletín Oficial de Canarias núm. 109 Miércoles 3 de junio de 202620946
 Segundo.- La Ley Orgánica 8/1985, de 3 de julio, reguladora del Derecho a la 
 Educación, se ocupa de los órganos de gobierno de los centros públicos, con una mayor 
 concreción respecto de los centros concertados, dejando claro que la participación de la 
@@ -123,9 +117,6 @@ Canarias, y en el artículo 18.2.A) del Reglamento Orgánico de la Consejería d
 Formación Profesional, Actividad Física y Deportes, aprobado por el Decreto 84/2024, de 
 10 de junio,
 
-https://sede.gobiernodecanarias.org/boc
-boc-a-2026-109-1901
-Boletín Oficial de Canarias núm. 109 Miércoles 3 de junio de 202620947
 RESUELVO :
 Primero.- Objeto y ámbito de aplicación.
 1. La presente Resolución tiene por objeto regular el proceso y aprobar el calendario 
@@ -167,9 +158,6 @@ escolar 2026-2027.
 correspondan, según el tipo de centro. En todo caso, en la presentación de candidaturas de 
 los distintos sectores se favorecerá la presencia equilibrada de hombres y mujeres.
 
-https://sede.gobiernodecanarias.org/boc
-boc-a-2026-109-1901
-Boletín Oficial de Canarias núm. 109 Miércoles 3 de junio de 202620948
 3. La composición del Consejo Escolar de los centros privados concertados es la 
 establecida en el artículo 14 de la predicha Orden de 12 de mayo de 2016.
 4. Los sectores con puestos de designación procederán, para el ejercicio de este derecho, 
@@ -209,9 +197,6 @@ de la junta de delegados y delegadas, y de la asociación de alumnado con mayor 
 de miembros, el nombre de las personas representantes designadas en uso del derecho 
 que las asiste, no pudiendo ser nunca de un curso inferior a 5.º de Educación Primaria; y 
 
-https://sede.gobiernodecanarias.org/boc
-boc-a-2026-109-1901
-Boletín Oficial de Canarias núm. 109 Miércoles 3 de junio de 202620949
 de las organizaciones, instituciones o asociaciones profesionales y empresariales para los 
 centros que impartan enseñanzas de formación profesional y enseñanzas de artes plásticas 
 y diseño, el nombre de su representante.
@@ -253,9 +238,6 @@ concertados, los miembros designados por el titular del centro no podrán simult
 su condición con la de representantes elegidos por ningún otro sector de la comunidad 
 educativa.
 
-https://sede.gobiernodecanarias.org/boc
-boc-a-2026-109-1901
-Boletín Oficial de Canarias núm. 109 Miércoles 3 de junio de 202620950
 Séptimo.- Candidaturas diferenciadas.
 1. Además de las candidaturas individuales a las que se hace referencia en el apartado 
 anterior, la Junta electoral de cada centro admitirá candidaturas diferenciadas.
@@ -298,9 +280,6 @@ si fuera necesario, la identificación del votante con su
 DNI, o Número de Identidad de 
 Extranjero (NIE) o pasaporte, en el caso de personas extranjeras.
 
-https://sede.gobiernodecanarias.org/boc
-boc-a-2026-109-1901
-Boletín Oficial de Canarias núm. 109 Miércoles 3 de junio de 202620951
 Undécimo.- Voto no presencial.
 1. Se entiende por voto no presencial el voto por correo y aquel que se entrega a la 
 persona que ejerce la dirección del centro para participar en el proceso.
@@ -338,9 +317,6 @@ La Junta electoral, una vez recibidas las actas de las mesas electorales, procla
 candidatos y candidatas electos como miembros del Consejo Escolar, mediante el acta de 
 proclamación, y comunicará a las personas candidatas electas el acuerdo de proclamación.
 
-https://sede.gobiernodecanarias.org/boc
-boc-a-2026-109-1901
-Boletín Oficial de Canarias núm. 109 Miércoles 3 de junio de 202620952
 Decimocuarto.- Carga de datos.
 1. La dirección del centro cargará, en la aplicación informática creada al efecto:
 a) Las personas representantes que continúan su mandato.
@@ -380,9 +356,6 @@ uno de los sectores.
 disposición de la Administración educativa. Se guardarán, además, los votos, si se hubiera 
 producido alguna reclamación al proceso y hasta su finalización.
 
-https://sede.gobiernodecanarias.org/boc
-boc-a-2026-109-1901
-Boletín Oficial de Canarias núm. 109 Miércoles 3 de junio de 202620953
 Decimoséptimo.- Constitución del Consejo Escolar.
 1. En el plazo máximo de diez días naturales contados desde la fecha de proclamación 
 de las personas electas, la dirección del centro convocará la sesión constitutiva del nuevo 
@@ -424,9 +397,6 @@ los que se asienta el sistema democrático para su aplicación al gobierno del c
 fomenten la participación, de una forma particular, de las madres, los padres y las personas 
 tutoras legales del alumnado en las elecciones al Consejo Escolar.
 
-https://sede.gobiernodecanarias.org/boc
-boc-a-2026-109-1901
-Boletín Oficial de Canarias núm. 109 Miércoles 3 de junio de 202620954
 2. La APP Docente de la Consejería de Educación, Formación Profesional, Actividad 
 Física y Deportes difundirá igualmente este procedimiento administrativo.
 3. Para promocionar la participación de toda la comunidad educativa, de manera general, 
@@ -469,9 +439,6 @@ secretario o secretaria. La citada Comisión tendrá como funciones asesorar y e
 propuesta en las reclamaciones que se produzcan contra las resoluciones de la Junta 
 electoral ante la Dirección Territorial competente.
 
-https://sede.gobiernodecanarias.org/boc
-boc-a-2026-109-1901
-Boletín Oficial de Canarias núm. 109 Miércoles 3 de junio de 202620955
 2. La Inspección de Educación, en el ejercicio de sus funciones y atribuciones, 
 velará por el cumplimiento de los procesos de elección y renovación parcial de los 
 Consejos Escolares, informando y asesorando a los centros educativos del comienzo del 
@@ -489,9 +456,6 @@ Las Palmas de Gran Canaria, a 26 de mayo de 2026.- El Director General de
 Administración de Centros, Escolarización y Servicios Complementarios, David Crego 
 Chávez.
 
-https://sede.gobiernodecanarias.org/boc
-boc-a-2026-109-1901
-Boletín Oficial de Canarias núm. 109 Miércoles 3 de junio de 202620956
 ANEXO
 CALENDARIO DEL PROCESO ELECTORAL
 RENOV ACIÓN PARCIAL O NUEV A CONSTITUCIÓN 
@@ -534,9 +498,6 @@ Junta Electoral.
                                                                                               
                                                                                               
 
-boc-a-2026-109-1901
-Boletín Oficial de Canarias núm. 109 Miércoles 3 de junio de 202620957
-https://sede.gobiernodecanarias.org/boc
  Hasta el lunes 19 de 
 octubre
 • Celebración en  acto  público,  a  partir de las  17:00 h, del  sorteo para  la
@@ -650,9 +611,6 @@ Dichas solicitudes deberán ser remitidas a la Junta hasta el viernes 6 de novie
 Miércoles y jueves 
 21 y 22 de octubre  Reclamaciones sobre los censos electorales publicados.
 
-boc-a-2026-109-1901
-Boletín Oficial de Canarias núm. 109 Miércoles 3 de junio de 202620958
-https://sede.gobiernodecanarias.org/boc
 ñanzas de artes plásticas y diseño).
 Dichos órganos deberán remitir por escrito los nombres de las personas designadas 
 hasta el lunes 16 de noviembre.
@@ -733,9 +691,6 @@ preverán las suplencias necesarias.
  Publicación del acta de resultados del sorteo.
  Comunicado de resultados del sorteo público, y convocatoria* de constitución de las
 
-boc-a-2026-109-1901
-Boletín Oficial de Canarias núm. 109 Miércoles 3 de junio de 202620959
-https://sede.gobiernodecanarias.org/boc
 Viernes 23 de 
 octubre
  Resolución de las reclamacione s y aprobación definitiva de los censos por la Junta  
@@ -831,9 +786,6 @@ personas representantes del profesorado en el Consejo Escolar.
 Dicha convocatoria debe realizarse al menos 48 horas antes de la votación.
  Sesión extraordinaria del claustro para la constitución de la mesa electoral y la  elec-
 
-boc-a-2026-109-1901
-Boletín Oficial de Canarias núm. 109 Miércoles 3 de junio de 202620960
-https://sede.gobiernodecanarias.org/boc
 mesas electorales.
 *Las fechas de constitución de las mesas electorales deberá coincidir con la fecha de
 celebración de elecciones de los distintos sectores.
@@ -935,9 +887,6 @@ mismo aplicativo, para su custodia con el resto del expediente del correspondien
 procedimiento y publicación en el tablón de anuncios del centro.
  Cumplimentación del documento Listas de Reserva , que se publicará en el tablón
 
-boc-a-2026-109-1901
-Boletín Oficial de Canarias núm. 109 Miércoles 3 de junio de 202620961
-https://sede.gobiernodecanarias.org/boc
 ción de representantes del profesorado. 
 En los centros concertados serán personas electoras y elegibles todo el profesorado  
 del centro que imparta su docencia en aquellas etapas educativas concertadas total o  

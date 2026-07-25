@@ -32,9 +32,6 @@ fuente_pdf_oficial: https://sede.gobiernodecanarias.org/boc/boc-a-2025-074-1452.
 
 # Resolución de 7 de abril de 2025, por la que se dictan instrucciones para la planificación, realización y gestión, en el ámbito de la Comunidad Autónoma de Canarias, de la Prueba para el Acceso a la Universidad, aplicables al alumnado que haya cursado el Bachillerato, así como Ciclos Formativos de Grado Superior de Formación Profesional, de Enseñanzas Profesionales de Artes Plásticas y Diseño, y de Enseñanzas Deportivas (BOC nº 74, de 15 de abril).
 
-https://sede.gobiernodecanarias.org/boc
-boc-a-2025-074-1452
-Boletín Oficial de Canarias núm. 74 Martes 15 de abril de 202515678
 III. Otras Resoluciones
 Consejería de Educación, Formación Profesional, Actividad Física y Deportes
 1452 Viceconsejería de Educación.- Resolución de 7 de abril de 2025, por la que se 
@@ -78,9 +75,6 @@ para el Acceso a la Universidad, aplicables al alumnado que haya cursado el Bach
 así como Ciclos Formativos de Grado Superior de Formación Profesional, de Enseñanzas 
 Profesionales de Artes Plásticas y Diseño, y de Enseñanzas Deportivas.
 
-https://sede.gobiernodecanarias.org/boc
-boc-a-2025-074-1452
-Boletín Oficial de Canarias núm. 74 Martes 15 de abril de 202515679
 FUNDAMENTOS DE DERECHO
 Primero.- El artículo 38.1 de la Ley Orgánica 2/2006, de 3 de mayo, de Educación (en 
 lo sucesivo LOE), establece que para acceder a los estudios universitarios será necesaria 
@@ -119,9 +113,6 @@ el Decreto 30/2023, de 16 de marzo, por el que se establecen la ordenación y el
 de la Educación Secundaria Obligatoria y del Bachillerato en la Comunidad Autónoma de 
 Canarias.
 
-https://sede.gobiernodecanarias.org/boc
-boc-a-2025-074-1452
-Boletín Oficial de Canarias núm. 74 Martes 15 de abril de 202515680
 Quinto.- En lo que no se oponga a la normativa anteriormente citada, la Orden 
 EDU/3242/2010, de 9 de diciembre, por la que se determina el contenido de la fase 
 específica de la prueba de acceso a la universidad, que podrán realizar quienes estén en 
@@ -159,9 +150,6 @@ Canarias.
 Las Palmas de Gran de Canaria, a 7 de abril de 2025.- El Viceconsejero de Educación, 
 José Manuel Cabrera Delgado.
 
-https://sede.gobiernodecanarias.org/boc
-boc-a-2025-074-1452
-Boletín Oficial de Canarias núm. 74 Martes 15 de abril de 202515681
 ANEXO
 INSTRUCCIONES RELATIV AS A LA REALIZACIÓN DE LA PRUEBA DE ACCESO A 
 LA UNIVERSIDAD EN EL ÁMBITO DE LA COMUNIDAD AUTÓNOMA DE CANARIAS.
@@ -197,9 +185,6 @@ Universidades, Ciencia e Innovación y Cultura.
 4. Las personas representantes de la Universidad de La Laguna y de la Universidad de 
 Las Palmas de Gran Canaria serán designadas por los rectores o las rectoras respectivos.
 
-https://sede.gobiernodecanarias.org/boc
-boc-a-2025-074-1452
-Boletín Oficial de Canarias núm. 74 Martes 15 de abril de 202515682
 5. La presidencia de la COPAU será asumida, alternativamente en cada curso, por una 
 de las personas representantes de las universidades y tendrá voto de calidad en caso de 
 empate. Durante el curso 2024-2025, dicha presidencia corresponderá al representante de 
@@ -240,9 +225,6 @@ a) Adoptar las medidas para garantizar la custodia y confidencialidad de los eje
 así como para asegurar el carácter anónimo de los datos del alumnado y de los centros en 
 la fase de corrección y calificación de los mismos.
 
-https://sede.gobiernodecanarias.org/boc
-boc-a-2025-074-1452
-Boletín Oficial de Canarias núm. 74 Martes 15 de abril de 202515683
 b) Establecer los criterios generales de evaluación de los ejercicios y los criterios para 
 la construcción y elaboración material de los mismos.
 c) Establecer los protocolos y los criterios para la elaboración de las propuestas de 
@@ -280,9 +262,6 @@ Cuarta.- Subcomisiones de materia.
 través de subcomisiones de materia, que se constituirán a propuesta de la COPAU, respecto 
 de todas las materias que sean objeto de la prueba.
 
-https://sede.gobiernodecanarias.org/boc
-boc-a-2025-074-1452
-Boletín Oficial de Canarias núm. 74 Martes 15 de abril de 202515684
 2. Cada subcomisión estará compuesta, de manera general, por cuatro componentes: 
 un profesor o una profesora de cada una de las universidades públicas canarias, designado 
 por la universidad a la que pertenezca; y dos representantes del profesorado de Enseñanza 
@@ -329,9 +308,6 @@ al margen de las reuniones de coordinación, para la confección de los ejercici
 confección final de los ejercicios corresponderá a quienes representen a cada universidad 
 en la subcomisión.
 
-https://sede.gobiernodecanarias.org/boc
-boc-a-2025-074-1452
-Boletín Oficial de Canarias núm. 74 Martes 15 de abril de 202515685
 g) Elaborar cuatro ejercicios para todas las materias objeto de la PAU a excepción de las 
 siguientes, para las que se elaborarán cinco ejercicios: Lengua Castellana y Literatura II, 
 Lengua Extranjera II (inglés, francés, alemán o italiano), Historia de España e Historia de 
@@ -370,9 +346,6 @@ las siguientes funciones:
 a) Velar por el cumplimiento de las funciones que la presente norma otorga a las 
 subcomisiones de materia.
 
-https://sede.gobiernodecanarias.org/boc
-boc-a-2025-074-1452
-Boletín Oficial de Canarias núm. 74 Martes 15 de abril de 202515686
 b) Coordinar el desarrollo de las reuniones de coordinación de la materia.
 c) Remitir a la COPAU la documentación generada por la subcomisión.
 d) Acordar, junto con la COPAU, las fechas de las reuniones de la subcomisión y de las 
@@ -412,9 +385,6 @@ materias incluidas en las pruebas y que estos conozcan las conclusiones del proc
 coordinación desarrollado durante el curso académico por la subcomisión correspondiente. 
 Serán designados de entre profesorado universitario y de Enseñanza Secundaria que reúna 
 
-https://sede.gobiernodecanarias.org/boc
-boc-a-2025-074-1452
-Boletín Oficial de Canarias núm. 74 Martes 15 de abril de 202515687
 los requisitos establecidos en el apartado anterior y que hayan solicitado formar parte del 
 tribunal. En cada materia, hasta un 50% de las personas vocales podrán ser designadas por 
 las presidencias de los tribunales de cada territorio.
@@ -460,9 +430,6 @@ las propuestas de pruebas.
 11. El profesorado seleccionado, componente del tribunal, estará a disposición del 
 tribunal los días de realización de las pruebas.
 
-https://sede.gobiernodecanarias.org/boc
-boc-a-2025-074-1452
-Boletín Oficial de Canarias núm. 74 Martes 15 de abril de 202515688
 12. El profesorado componente del tribunal tendrá derecho a ausentarse de su centro 
 el tiempo necesario para proceder a la entrega de los exámenes corregidos, conforme al 
 calendario de entrega establecido por la presidencia del tribunal.
@@ -503,9 +470,6 @@ aplicables en materia de acceso a la universidad, en régimen de reciprocidad, s
 dicho alumnado cumpla los requisitos académicos exigidos en sus sistemas educativos para 
 acceder a sus universidades.
 
-https://sede.gobiernodecanarias.org/boc
-boc-a-2025-074-1452
-Boletín Oficial de Canarias núm. 74 Martes 15 de abril de 202515689
 c) En virtud de las disposiciones contenidas en el Convenio por el que se establece 
 el Estatuto de las Escuelas Europeas, hecho en Luxemburgo el 21 de junio de 1994, los 
 estudiantes que se encuentren en posesión del título de Bachillerato Europeo.
@@ -550,9 +514,6 @@ de acceso establecida con carácter general.
 que se establezcan, a través de los medios telemáticos que se determinen. Se harán constar 
 todos los aspectos reseñados en el apartado anterior, precedidos de los datos de identificación 
 
-https://sede.gobiernodecanarias.org/boc
-boc-a-2025-074-1452
-Boletín Oficial de Canarias núm. 74 Martes 15 de abril de 202515690
 del alumnado: nombre y apellidos, DNI/NIF/NIE o pasaporte en vigor, teléfono, correo 
 electrónico… Cuando proceda, se remitirán también los documentos justificativos de 
 exención de precios públicos del alumnado que haya solicitado exenciones o bonificaciones, 
@@ -598,9 +559,6 @@ Deportivas de Grado Superior, o equivalente, superados en cursos anteriores, pod
 matricularse en la 
 PAU, a través de los medios telemáticos que para ello se establezcan.
 
-https://sede.gobiernodecanarias.org/boc
-boc-a-2025-074-1452
-Boletín Oficial de Canarias núm. 74 Martes 15 de abril de 202515691
 2. En lo que respecta al alumnado que haya cursado estudios en sistemas educativos 
 extranjeros:
 a) Alumnado de la UE o de países con convenio de reciprocidad en la materia: deberá 
@@ -641,9 +599,6 @@ se actuará conforme al apartado segundo de esta instrucción para que las unive
 puedan planificar, en su caso, las medidas de adaptación, en función de las que se aplicaron 
 al alumno o alumna en la etapa educativa anterior.
 
-https://sede.gobiernodecanarias.org/boc
-boc-a-2025-074-1452
-Boletín Oficial de Canarias núm. 74 Martes 15 de abril de 202515692
 Decimotercera.- Alumnado transexual.
 1. La COPAU adoptará las medidas oportunas para garantizar los derechos y el bienestar 
 del alumnado transexual.
@@ -681,9 +636,6 @@ El incumplimiento de este apartado conllevará la imposibilidad de acceder a la
 realización de la prueba o la expulsión del aula y anulación de la prueba de esa materia, si 
 fuera el caso.
 
-https://sede.gobiernodecanarias.org/boc
-boc-a-2025-074-1452
-Boletín Oficial de Canarias núm. 74 Martes 15 de abril de 202515693
 4. El alumnado deberá mantener los pabellones auditivos despejados para la verificación 
 de que no se usan dispositivos auditivos no permitidos.
 El incumplimiento de este apartado conllevará la imposibilidad de acceder a la 
@@ -728,9 +680,6 @@ del Real Decreto 243/2022, de 5 de abril, las preguntas o tareas se contextualiz
 entornos artísticos, científicos, humanísticos y tecnológicos y, preferentemente, en entornos 
 próximos a la vida del alumnado.
 
-https://sede.gobiernodecanarias.org/boc
-boc-a-2025-074-1452
-Boletín Oficial de Canarias núm. 74 Martes 15 de abril de 202515694
 4. Cada uno de los ejercicios mencionados tendrá una duración de noventa minutos. Se 
 establecerá un descanso entre pruebas consecutivas de, como mínimo, treinta minutos. No 
 se computará como periodo de descanso el utilizado para ampliar el tiempo de realización 
@@ -771,9 +720,6 @@ la prueba de acceso.
 • Lengua Castellana y Literatura II.
 • Historia de España o Historia de la Filosofía, a elección del alumnado.
 
-https://sede.gobiernodecanarias.org/boc
-boc-a-2025-074-1452
-Boletín Oficial de Canarias núm. 74 Martes 15 de abril de 202515695
 • Lengua Extranjera II, el alumnado indicará en su solicitud la lengua extranjera de la 
 que se examinará pudiendo escoger entre alemán, francés, inglés o italiano.
 • La materia específica obligatoria de segundo curso de Bachillerato de la modalidad y, 
@@ -807,9 +753,6 @@ una lengua extranjera.
 un máximo de cuatro materias, con las siguientes restricciones:
 - Un máximo de dos materias específicas obligatorias de modalidad.
 
-https://sede.gobiernodecanarias.org/boc
-boc-a-2025-074-1452
-Boletín Oficial de Canarias núm. 74 Martes 15 de abril de 202515696
 - Un máximo de dos Lenguas Extranjeras.
 - Las materias comunes de la fase general de la prueba de acceso.
 - Hasta tres materias específicas de modalidad no obligatorias.
@@ -847,9 +790,6 @@ calificaciones obtenidas en los ejercicios que la componen expresada en una esca
 10 puntos con tres cifras decimales y deberá ser igual o superior a cuatro puntos para que 
 pueda ser tenida en cuenta en el acceso a las enseñanzas universitarias de grado.
 
-https://sede.gobiernodecanarias.org/boc
-boc-a-2025-074-1452
-Boletín Oficial de Canarias núm. 74 Martes 15 de abril de 202515697
 1.2. Calificación de acceso a la universidad.
 Se calculará mediante la media ponderada del 60 por ciento de la nota media de 
 Bachillerato, calculada sin tener en cuenta la nota de la materia de Religión, y del 40 por 
@@ -891,9 +831,6 @@ de la nota de admisión a las enseñanzas universitarias oficiales de Grado dura
 que se inicie inmediatamente después de la superación de las mismas y los dos cursos 
 académicos siguientes.
 
-https://sede.gobiernodecanarias.org/boc
-boc-a-2025-074-1452
-Boletín Oficial de Canarias núm. 74 Martes 15 de abril de 202515698
 3. Alumnado procedente de sistemas educativos de Estados miembros de la Unión 
 Europea o los de otros Estados con los que se hayan suscrito acuerdos internacionales 
 aplicables en materia de acceso a la universidad, alumnado que se encuentre en 
@@ -936,9 +873,6 @@ igual o superior a la primera calificación, esto es, a la obtenida tras la 1.ª
 hábiles, contado a partir de la fecha de finalización del plazo de solicitud de revisión de 
 calificaciones.
 
-https://sede.gobiernodecanarias.org/boc
-boc-a-2025-074-1452
-Boletín Oficial de Canarias núm. 74 Martes 15 de abril de 202515699
 4. Asimismo, el alumnado que haya solicitado la revisión regulada en este apartado en 
 una materia, tendrá derecho a ver el examen corregido tras la revisión, en el plazo de diez 
 días, a contar desde el día siguiente de publicación de la citada revisión, previa solicitud en 

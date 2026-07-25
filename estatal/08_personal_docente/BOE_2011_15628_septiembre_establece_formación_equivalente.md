@@ -48,11 +48,9 @@ Por todo ello, resulta procedente establecer los requisitos a los que deberán a
 
 En su virtud, previo informe del Consejo Escolar del Estado y de la Conferencia Sectorial de Educación, dispongo:
 
-
 #### Artículo 1. Objeto.
 
 Esta orden tiene por objeto establecer la formación equivalente a la formación pedagógica y didáctica exigida en el artículo 100 de la Ley Orgánica 2/2006, de 3 de mayo, de Educación, para aquellas personas que por razones derivadas de su titulación, no puedan acceder a los estudios de Máster regulados por la Orden ECI/3858/2007, de 27 de diciembre, por la que se establecen los requisitos para la verificación de los títulos universitarios oficiales que habiliten para el ejercicio de las profesiones de Profesor de Educación Secundaria Obligatoria y Bachillerato, Formación Profesional y Enseñanzas de Idiomas.
-
 
 #### Artículo 2. Certificación oficial de la formación pedagógica y didáctica que habilite para el ejercicio de la docencia.
 
@@ -63,7 +61,6 @@ Esta orden tiene por objeto establecer la formación equivalente a la formación
 3. Las Administraciones educativas determinarán las instituciones educativas que pueden ofertar estos estudios.
 
 4. Al superar dichos estudios la Administración educativa correspondiente emitirá un certificado oficial, con validez en todo el territorio nacional, según las especificaciones indicadas en el Anexo I, en el que conste expresamente la posesión de la formación pedagógica y didáctica equivalente a la exigida en el artículo 100.2 de la Ley Orgánica 2/2006, de 3 de mayo.
-
 
 #### Artículo 3. Objetivos.
 
@@ -95,13 +92,11 @@ l) Informar y asesorar al estudiante acerca de su proceso de enseñanza y aprend
 
 m) Identificar y ser capaz de dar respuesta a las necesidades del alumnado con discapacidad, a través de la incorporación y aplicación de las medidas y de los recursos adecuados a cada caso.
 
-
 #### Artículo 4. Condiciones de acceso.
 
 1. Sólo podrán acceder a estos estudios aquellas personas que posean una titulación declarada equivalente a efectos de docencia y no puedan acceder a los estudios de Máster regulados por la Orden ECI/3858/2007.
 
 2. Asimismo, para acceder a la formación regulada en esta Orden se deberá acreditar como requisito previo el dominio de una lengua extranjera equivalente al nivel B1 del Marco Común Europeo de Referencia para las Lenguas, de acuerdo con la Recomendación N.º R (98)6 del Comité de Ministros de Estados Miembros de 17 de octubre de 2000.
-
 
 #### Artículo 5. Planificación de las enseñanzas.
 
@@ -111,23 +106,19 @@ m) Identificar y ser capaz de dar respuesta a las necesidades del alumnado con d
 
 3. El Practicum se realizará en colaboración con las instituciones educativas que impartan las enseñanzas correspondientes establecidas por las Administraciones Educativas. Las instituciones educativas participantes en la realización del Practicum habrán de estar reconocidas como centros de prácticas, así como los tutores encargados de la orientación y tutela de los estudiantes.
 
-
 #### Disposición adicional primera. Exigencia del certificado.
 
 1. A partir del 1 de septiembre de 2013, para las personas objeto de esta orden será requisito para impartir docencia, en todas las enseñanzas de formación profesional y en las enseñanzas deportivas que tengan establecido el título en la fecha de publicación de esta orden, tener la certificación oficial de los estudios regulados en la presente Orden.
 
 2. En el caso de los títulos de enseñanzas deportivas que se establezcan con posterioridad a esta orden, este requisito se exigirá pasados dos años de la fecha de establecimiento del título de la modalidad o especialidad correspondiente.
 
-
 #### Disposición adicional segunda. Dominio de una lengua extranjera.
 
 Hasta el 1 de septiembre de 2014 no será necesario acreditar el dominio de una lengua extranjera equivalente al nivel B1 del Marco Común Europeo de Referencia para las Lenguas.
 
-
 #### Disposición adicional tercera. Accesibilidad universal a los estudios.
 
 Las Administraciones educativas adoptarán las medidas necesarias para que las personas con discapacidad puedan acceder y participar de los estudios regulados en la presenta Orden en condiciones de igualdad de oportunidades, no discriminación y accesibilidad universal.
-
 
 #### Disposición transitoria única. Equivalencia de la docencia impartida a la formación pedagógica y didáctica.
 
@@ -135,15 +126,11 @@ Las Administraciones educativas adoptarán las medidas necesarias para que las p
 
 2. Además, en el caso de las titulaciones de enseñanzas deportivas, aquellos profesores que acrediten que, durante el periodo transitorio y hasta la fecha del establecimiento del título correspondiente, han impartido docencia en tres actividades formativas autorizadas de acuerdo con lo establecido en la disposición transitoria primera del Real Decreto 1363/2007, de 24 de octubre, y la disposición transitoria primera del Real Decreto 1913/1997, de 19 de diciembre, en la correspondiente modalidad deportiva o, en su defecto, durante 12 meses en períodos continuos o discontinuos, se les reconocerá dicha docencia como equivalente al certificado oficial que acredita la formación pedagógica y didáctica equivalente a la exigida en el artículo 100 de la Ley Orgánica 2/2006, de 3 de mayo, de Educación.
 
-
 #### Disposición final primera. Título competencial.
 
 Esta orden tiene carácter de norma básica y se dicta al amparo de lo dispuesto en el artículo 149.1.18.ª y 30.ª que atribuyen al Estado la competencia exclusiva para establecer las bases del régimen jurídico de las administraciones públicas y el régimen estatuario de los funcionarios y para regular las condiciones de obtención, expedición y homologación de títulos académicos y profesionales y dictar normas básicas para el desarrollo del artículo 27 de la Constitución, a fin de garantizar el cumplimiento de las obligaciones de los poderes públicos en esta materia.
 
-
 #### Disposición final segunda. Entrada en Vigor.
-
-La presente Orden entrará en vigor el día siguiente al de su publicación en el «Boletín Oficial del Estado».
 
 Madrid, 23 de septiembre de 2011.–El Ministro de Educación, Ángel Gabilondo Pujol.
 
@@ -173,13 +160,11 @@ ha realizado los estudios correspondientes al programa que figura al dorso, con 
 
 «Que acredita haber superado los mencionados estudios.
 
-
 **En …………..…., a ….. de ........................ de 2….»**
 
 – Firmas del Consejero y del Director de los estudios.
 
 ANEXO II
-
 
 **Módulos para las enseñanzas de Formación Profesional**
 
@@ -254,7 +239,6 @@ Trabajo final de estudios
 Â
 
 Estas competencias, junto con las propias del resto de materias, quedarán reflejadas en el Trabajo final de estudios que compendia la formación adquirida a lo largo de todas las enseñanzas descritas.
-
 
 **Módulos para las enseñanzas deportivas**
 

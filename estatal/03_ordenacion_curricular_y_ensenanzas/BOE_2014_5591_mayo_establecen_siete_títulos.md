@@ -53,9 +53,7 @@ En el proceso de elaboración de este real decreto han sido consultadas las comu
 
 En su virtud, a propuesta del Ministro de Educación, Cultura y Deporte y previa deliberación del Consejo de Ministros en su reunión del día 16 de mayo de 2014,
 
-
 **DISPONGO:**
-
 
 #### Artículo 1. Objeto y ámbito de aplicación.
 
@@ -64,7 +62,6 @@ En su virtud, a propuesta del Ministro de Educación, Cultura y Deporte y previa
 2. Establecer, para cada uno de los títulos de formación profesional básica regulado en los anexos I a VII, el currículo básico, los parámetros básicos del contexto formativo, la correspondencia entre módulos profesionales y unidades de competencia para su acreditación o convalidación y los ciclos formativos de grado medio a los que el título permite la aplicación de criterios preferentes para la admisión en caso de concurrencia competitiva.
 
 3. Dichos títulos de formación profesional básica tienen carácter oficial y validez en todo el territorio nacional y no constituyen una regulación del ejercicio profesional.
-
 
 #### Artículo 2. Títulos de Formación Profesional Básica que se establecen.
 
@@ -84,15 +81,11 @@ ANEXO VI: Título Profesional Básico en Actividades Marítimo-Pesqueras.
 
 ANEXO VII: Título Profesional Básico en Informática de Oficina.
 
-
 #### Disposición final primera. Título competencial.
 
 El presente real decreto tiene carácter de norma básica y se dicta al amparo del artículo 149.1.30.ª de la Constitución Española, que atribuye al Estado las competencias para la regulación de las condiciones de obtención, expedición y homologación de títulos académicos y profesionales y normas básicas para el desarrollo del artículo 27 de la Constitución, a fin de garantizar el cumplimiento de las obligaciones de los poderes públicos en esta materia.
 
-
 #### Disposición final segunda. Entrada en vigor.
-
-El presente real decreto entrará en vigor el día siguiente al de su publicación en el «Boletín Oficial del Estado».
 
 Dado en Madrid, el 16 de mayo de 2014.
 
@@ -12395,7 +12388,6 @@ j) Se han resueltos problemas cotidianos mediante cálculos de probabilidad se
 5. Aplica técnicas físicas o químicas, utilizando el material necesario, para la realización de prácticas de laboratorio sencillas, midiendo las magnitudes implicadas.
 
 Criterios de evaluación:
-
 
 **a) Se ha verificado la disponibilidad del material básico utilizado en un laboratorio**
 

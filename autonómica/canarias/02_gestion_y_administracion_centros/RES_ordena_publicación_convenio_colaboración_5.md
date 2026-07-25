@@ -32,10 +32,8 @@ fuente_pdf_oficial: https://sede.gobiernodecanarias.org/boc/boc-a-2017-235-5824.
 
 # Secretaría General Técnica.- Resolución de 15 de marzo de 2016, por la que se ordena la publicación del Convenio de Colaboración entre la Consejería de Educación y Universidades y la Agencia Canaria de Calidad Universitaria y Evaluación Educativa (ACCUEE), para la incorporación de este organismo a la sede electrónica de la Consejería de Educación y Universidades, para la utilización de su registro electrónico (BOC n.º 57, de 23 de marzo).
 
-Boletín Oficial de Canarias núm. 235
 https://sede.gobcan.es/cpji/boc
 Jueves 7 de diciembre de 2017
-34461
 III. Otras Resoluciones
 Consejería de Educación y Universidades
 5824 Secretaría General Técnica.- Resolución de 24 de noviembre de 2017, por la que se 
@@ -74,13 +72,9 @@ Así, regula en su artículo 40 los sistemas de identificación de las Administr
 Públicas indicando que podrán identificarse mediante el uso de un sello electrónico basado 
 en un certificado electrónico reconocido o cualificado que reúna los requisitos exigidos por 
 la legislación de firma electrónica.
-boc-a-2017-235-5824
 
-
-Boletín Oficial de Canarias núm. 235
 https://sede.gobcan.es/cpji/boc
 Jueves 7 de diciembre de 2017
-34462
 La Orden de 9 de mayo de 2016, de la Consejería de Presidencia, Justicia e Igualdad, 
 regula el sistema de notificación electrónica mediante comparecencia en sedes electrónicas 
 en el ámbito de la Administración Pública de la Comunidad Autónoma de Canarias y sus 
@@ -120,13 +114,9 @@ administrativas automatizadas previstas en el resuelvo quinto de la presente res
 Segundo.- Órgano responsable.
 El órgano titular del sello electrónico que se crea por la presente resolución y que será 
 responsable, a efectos de su utilización así como de la impugnación, es la Dirección General 
-boc-a-2017-235-5824
 
-
-Boletín Oficial de Canarias núm. 235
 https://sede.gobcan.es/cpji/boc
 Jueves 7 de diciembre de 2017
-34463
 de Personal de la Consejería de Educación y Universidades de la Consejería de Educación 
 y Universidades.
 Para la definición de las especificaciones, programación, mantenimiento, supervisión 
@@ -162,13 +152,9 @@ Sexto.- Garantía de autenticidad e integridad.
 El sello electrónico se utilizará para garantizar la autenticidad y la integridad de un 
 documento o expediente electrónico, a cuyo efecto se podrá superponer al código seguro de 
 verificación con que se haya firmado.
-boc-a-2017-235-5824
 
-
-Boletín Oficial de Canarias núm. 235
 https://sede.gobcan.es/cpji/boc
 Jueves 7 de diciembre de 2017
-34464
 Séptimo.- Publicación.
 La presente Resolución se publicará en la sede electrónica de la Consejería de Educación 
 y Universidades y, para general conocimiento, en el Boletín Oficial de Canarias.
@@ -179,5 +165,3 @@ artículos 121 y 122 de la Ley 39/2015, de 1 de octubre, del Procedimiento Admin
 Común de las Administraciones Públicas.
 Santa Cruz de Tenerife, a 24 de noviembre de 2017.- La Secretaria General Técnica, 
 Ángeles Bogas Gálvez.
-boc-a-2017-235-5824
-

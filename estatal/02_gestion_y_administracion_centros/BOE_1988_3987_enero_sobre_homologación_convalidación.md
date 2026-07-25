@@ -39,8 +39,6 @@ Por lo que se refiere a la educación universitaria, el artículo 32.2 de la Ley
 
 Por último, la disposición adicional primera, dos, c), de la Ley Orgánica 8/1985, de 3 de julio, reguladora del derecho a la educación, prevé que corresponde al Estado la regulación de las condiciones para la obtención, expedición y homologación de títulos académicos y profesionales válidos en todo el territorio español.
 
-Promulgado ya el Real Decreto 86/1987, de 16 de enero («Boletín Oficial del Estado» del 23), por el que se regulan las condiciones de homologación de títulos extranjeros de educación superior, que desarrolla el mencionado precepto de la Ley de Reforma Universitaria, procede reglamentar la materia respecto a los títulos y estudios de educación no universitaria.
-
 Uno de los objetivos del presente Real Decreto es el de homogeneizar los criterios inspiradores de la homologación y convalidación de títulos y estudios extranjeros no universitarios con los establecidos en el Real Decreto citado.
 
 El Real Decreto desarrolla los conceptos de homologación y convalidación de títulos y estudios en el ámbito de la educación no universitaria. La homologación de títulos o estudios extranjeros a títulos españoles supone la declaración de la equivalencia de aquéllos con estos últimos a efectos académicos. La convalidación de estudios extranjeros por cursos españoles, cuando aquéllos no sean homologables a títulos, permite su continuación dentro del sistema educativo español.
@@ -51,9 +49,7 @@ De acuerdo con las modificaciones que en este sentido se introducen en el actual
 
 En su virtud, previo informe del Consejo Escolar del Estado, de acuerdo con el Consejo de Estado, a propuesta del Ministro de Educación y Ciencia, con la aprobación del Ministro para las Administraciones Públicas, y previa deliberación del Consejo de Ministros en su reunión del día 29 de enero de 1988,
 
-
 **DISPONGO:**
-
 
 #### Artículo 1.°
 
@@ -61,28 +57,23 @@ Uno. Los títulos, diplomas o estudios extranjeros podrán ser objeto de homolog
 
 Dos. Asimismo los estudios extranjeros que no sean homologables a títulos españoles podrán ser objeto de convalidación por cursos del sistema educativo español de acuerdo con lo previsto en este Real Decreto.
 
-
 #### Art. 2.°
 
 La homologación de títulos, diplomas o estudios extranjeros de educación no universitaria supone la declaración de la equivalencia de aquéllos con estos últimos a efectos académicos.
-
 
 #### Art. 3.°
 
 La convalidación de estudios extranjeros por cursos españoles de educación no universitaria supone la declaración de la equivalencia de aquéllos con estos últimos a efectos de continuar estudios en un Centro docente español.
 
-
 #### Art. 4.°
 
 La competencia para resolver las solicitudes de homologación y convalidación de títulos y estudios extranjeros a que se refiere el artículo primero corresponde al Ministerio de Educación y Ciencia.
-
 
 #### Art. 5.°
 
 Uno. En la resolución de los expedientes de homologación o convalidación se estará a lo dispuesto en los tratados o convenios internacionales en los que España sea parte y a las tablas de equivalencias de títulos y planes de estudios aprobadas por el Ministerio de Educación y Ciencia.
 
 Dos. Para la elaboración de las tablas de equivalencias a que se refiere el apartado anterior, se atenderá no sólo a la estructura de los sistemas educativos respectivos y a la comparación de sus contenidos, sino también al tratamiento de que son objeto los títulos y estudios españoles en los países correspondientes.
-
 
 #### Art. 6.°
 
@@ -94,20 +85,17 @@ b)	Los precedentes administrativos aplicables al caso.
 
 c)	La situación de reciprocidad manifestada en el trato otorgado a los títulos y estudios españoles en el país en el que se obtuvieron los títulos o diplomas o se realizaron los estudios cuya homologación o convalidación se solicita.
 
-
 #### Art. 7.°
 
 Uno. El expediente de homologación o convalidación se iniciará mediante instancia del interesado, que se presentará en la Dirección Provincial u oficina de Educación y Ciencia correspondiente a la provincia donde el solicitante tenga o vaya a tener su residencia habitual, o en la Subdirección General de Títulos, Convalidaciones y Homologaciones del Ministerio de Educación y Ciencia. Todo ello sin perjuicio de lo dispuesto en el artículo 66 de la Ley de Procedimiento Administrativo.
 
 Dos. El Ministerio de Educación y Ciencia determinará el modelo de solicitud, la documentación que deba aportarse al expediente y los requisitos a que hayan de ajustarse los documentos expedidos en el extranjero.
 
-
 #### Art. 8.°
 
 Uno. La Dirección Provincial, Oficina o Subdirección General a que se refiere el apartado uno del artículo anterior examinarán el expediente, y si la solicitud no reuniera los datos o no se acompañara de los documentos preceptivos, requerirán al solicitante para que, en un plazo de diez días, subsane la deficiencia observada, con apercibimiento de que si así no lo hiciere se archivará el expediente sin más trámite.
 
 Dos. El plazo a que se refiere el apartado anterior podrá ampliarse hasta tres meses si se trata de documentos que no reunieran los requisitos formales para surtir efectos en España o que, sin tener el carácter de preceptivos, fueran necesarios para la resolución del expediente y hubieran de obtenerse en el extranjero.
-
 
 #### Art. 9.°
 
@@ -117,23 +105,19 @@ Dos. Cuando la resolución deba adoptarse de acuerdo con el contenido de las tab
 
 Tres. En los demás supuestos, la propuesta de resolución corresponde a la Subdirección General a que se refiere el apartado anterior.
 
-
 #### Art. 10.
 
 Uno. En los supuestos en que no resulten aplicables tratados o convenios internacionales en los que España sea parte, ni tablas de equivalencias, los expedientes podrán someterse a informe de Comisiones designadas al efecto e integradas por expertos en las materias propias de los estudios y títulos de que se trate.
 
 Dos. El plazo para la emisión de los informes de las Comisiones de expertos previstas en el apartado anterior será como máximo de un mes.
 
-
 #### Art. 11.
 
 La resolución de los expedientes de homologación o convalidación se producirá en el plazo máximo de tres meses, que empezará a contarse desde la fecha en que el expediente se encuentre correctamente cumplimentado o desde la comunicación al órgano competente para resolver de los informes a que se refiere el artículo anterior.
 
-
 #### Art. 12.
 
 Contra las resoluciones dictadas en materia de homologación o convalidación de títulos y estudios extranjeros de educación no universitaria, podrán los interesados interponer los recursos administrativos y jurisdiccionales que legalmente procedan.
-
 
 #### Art. 13.
 
@@ -143,11 +127,9 @@ Dos. Las solicitudes podrán presentarse en las Oficinas Consulares de España d
 
 Tres. En los demás supuestos o cuando no exista Agregaduría de Educación, la propuesta de resolución del expediente corresponde a la Subdirección General de Títulos, Convalidaciones y Homologaciones.
 
-
 #### Art. 14.
 
 La resolución de concesión de homologación o convalidación se formalizará mediante credencial expedida por el Ministerio de Educación y Ciencia.
-
 
 #### Art. 15.
 
@@ -155,28 +137,23 @@ Uno. La homologación o convalidación de títulos y estudios no dispensa a sus 
 
 Dos. Los centros docentes podrán admitir con carácter condicional a aquellos alumnos cuyos expedientes de convalidación o de homologación hubieran sido iniciados y se encontrasen pendientes de resolución en las fechas en que finalicen los correspondientes plazos de admisión.
 
-
 #### Art. 16.
 
 Los centros docentes a los que se incorporen alumnos que hayan cursado estudios extranjeros prestarán especial atención al aprendizaje, por parte de los mismos, de la lengua castellana y, en su caso, dentro de lo que prevea al respecto la normativa vigente, de la lengua propia de la Comunidad Autónoma en la que esté situado el centro.
 
 DISPOSICIONES ADICIONALES
 
-
 #### Primera.
 
 De conformidad con lo dispuesto en el artículo 20, punto 1, letra b), del Real Decreto 2378/1985, de 18 de diciembre, la aplicación de lo regulado en el presente Real Decreto respecto a la homologación de títulos extranjeros, en casos dudosos o conflictivos, deberá someterse a informe de la Comisión Permanente del Consejo Escolar del Estado.
-
 
 #### Segunda.
 
 Lo dispuesto en este Real Decreto se entiende sin perjuicio de lo previsto sobre la materia en el Tratado de Adhesión de España a las Comunidades Europeas, Tratados Fundacionales y Derecho Comunitario Derivado.
 
-
 #### DISPOSICIÓN TRANSITORIA
 
 Los expedientes de convalidación de títulos y estudios extranjeros de educación no universitaria incoados con anterioridad a la entrada en vigor de este Real Decreto continuarán su tramitación y se resolverán de acuerdo con la normativa vigente en el momento de su iniciación.
-
 
 #### DISPOSICIÓN DEROGATORIA
 
@@ -191,7 +168,6 @@ Real Decreto 1260/1980, de 23 de mayo, sobre reconocimiento y convalidación por
 Párrafo segundo del artículo sexto del Real Decreto 1564/1982, de 18 de julio, por el que se regulan las condiciones para la obtención, expedición y homologación de los títulos académicos y profesionales no universitarios.
 
 2. Quedan asimismo derogadas o modificadas cuantas disposiciones de igual o inferior rango se opongan a lo dispuesto en este Real Decreto.
-
 
 #### DISPOSICIÓN FINAL
 

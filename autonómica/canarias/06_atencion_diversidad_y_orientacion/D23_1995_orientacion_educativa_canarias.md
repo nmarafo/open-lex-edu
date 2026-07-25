@@ -54,8 +54,6 @@ Mapa web
 
 Contacto
 
-Versión texto
-
 Inicio
 
 Archivo
@@ -72,13 +70,7 @@ Año 1995
 
 1995/034. Lunes 20 de Marzo de 1995
 
-422
-
-<p>Menú de búsqueda y navegación</p>
-
 Siguiente
-
-BOC Nº 034. Lunes 20 de Marzo de 1995 - 422
 
 I. DISPOSICIONES GENERALES - C.Agricultura
 
@@ -149,9 +141,3 @@ EL CONSEJERO DE
 ECONOMÍA Y HACIENDA,
 
 José Miguel González Hernández.
-
-© Gobierno de Canarias
-
-Aviso Legal
-
-Sugerencias y Reclamaciones

@@ -30,9 +30,6 @@ fuente_pdf_oficial: https://sede.gobiernodecanarias.org/boc/boc-a-2026-045-737.p
 
 # Resolución de 23 de febrero de 2026, por la que se dictan instrucciones para la tramitación electrónica de los títulos académicos y profesionales de las enseñanzas no universitarias en el ámbito de la Comunidad Autónoma de Canarias (BOC n.º 45, de 6 de marzo).
 
-https://sede.gobiernodecanarias.org/boc
-boc-a-2026-045-737
-Boletín Oficial de Canarias núm. 45 Viernes 6 de marzo de 20268406
 III. Otras Resoluciones
 Consejería de Educación, Formación Profesional, Actividad Física y Deportes
 737 Dirección General de Administración de Centros, Escolarización y Servicios 
@@ -71,9 +68,6 @@ Por lo expuesto, y en ejercicio de las competencias atribuidas en el artículo 1
 del Reglamento Orgánico de la Consejería de Educación, Formación Profesional, Actividad 
 Física y Deportes, aprobado por el Decreto 84/2024, de 10 de junio,
 
-https://sede.gobiernodecanarias.org/boc
-boc-a-2026-045-737
-Boletín Oficial de Canarias núm. 45 Viernes 6 de marzo de 20268407
 RESUELVO :
 Primero.- Aprobar las instrucciones que se contienen en la presente Resolución para 
 la tramitación electrónica de los títulos académicos y profesionales de las enseñanzas no 
@@ -98,9 +92,6 @@ Las Palmas de Gran Canaria, a 23 de febrero de 2026.- El Director General de
 Administración de Centros, Escolarización y Servicios Complementarios, David Crego 
 Chaves.
 
-https://sede.gobiernodecanarias.org/boc
-boc-a-2026-045-737
-Boletín Oficial de Canarias núm. 45 Viernes 6 de marzo de 20268408
 Folio 3/13
 ÍNDICE INSTRUCCIONES
 I. INSTRUCCIONES  GENERALES  DEL  PROCEDIMIENTO  DE  EXPEDICIÓN  DE 
@@ -181,9 +172,6 @@ la Declaración del Impuesto sobre la Renta de las Personas Físicas.
 datos del DNI, NIE , debiendo justificarlo motivadamente y, además, deberá aportar la 
 documentación correspondiente al dato.
 
-https://sede.gobiernodecanarias.org/boc
-boc-a-2026-045-737
-Boletín Oficial de Canarias núm. 45 Viernes 6 de marzo de 20268409
 Tercera.- Plazo para la realización de la propuesta de expedición de título.
 1. Los centros educativos realizarán de oficio la tramitación de los títulos de la educación 
 básica a la finalización de la enseñanza por el alumnado.
@@ -227,9 +215,6 @@ Quinta.- Comprobación de la propuesta de título por la Inspección Educativa.
 1. Una vez confeccionadas y revisadas las propuestas de títulos, se comunicará a la 
 Inspección Educativa de zona para su revisión y posterior validación.
 
-https://sede.gobiernodecanarias.org/boc
-boc-a-2026-045-737
-Boletín Oficial de Canarias núm. 45 Viernes 6 de marzo de 20268410
 2. La Inspección Educativa deberá comprobar que las actas del alumnado coinciden 
 con la titulación para la que se le propone y, además, que la nota media de la propuesta, en 
 caso de que la lleve, coincide con la consignada en las actas de evaluación.
@@ -268,9 +253,6 @@ de Títulos” del Servicio de Administración de Centros perteneciente a la Dir
 de Administración de Centros, Escolarización y Servicios Complementarios, en adelante 
 DGACESC.
 
-https://sede.gobiernodecanarias.org/boc
-boc-a-2026-045-737
-Boletín Oficial de Canarias núm. 45 Viernes 6 de marzo de 20268411
 Novena.- Validación y expedición por la Dirección General de Administración de 
 Centros, Escolarización y Servicios Complementarios.
 1. Recibidas en el aplicativo de “Gestión de Títulos” de la DGACESC las propuestas de 
@@ -310,9 +292,6 @@ Territorial de Educación de Las Palmas.
 c) Si el centro se encuentra en las islas de La Gomera, El Hierro, La Palma, Lanzarote o 
 Fuerteventura, se recogerán en la correspondiente Dirección Insular.
 
-https://sede.gobiernodecanarias.org/boc
-boc-a-2026-045-737
-Boletín Oficial de Canarias núm. 45 Viernes 6 de marzo de 20268412
 3. En el momento de la recepción de los títulos por los directores y directoras de los 
 centros educativos, deberán firmar las hojas denominadas “Libro Registro de entrega de 
 títulos expedidos”, con objeto de dejar constancia de dicha recepción.
@@ -353,9 +332,6 @@ a) Se deberá comprobar que está diligenciado en su reverso.
 b) Se deberá firmar por la persona interesada la recepción o recibí, quedando constancia de 
 su entrega en el “Libro registro de entrega de títulos por el centro docente”.
 
-https://sede.gobiernodecanarias.org/boc
-boc-a-2026-045-737
-Boletín Oficial de Canarias núm. 45 Viernes 6 de marzo de 20268413
 3. El título podrá ser retirado del centro educativo por una persona distinta a la persona 
 interesada si aporta cualquiera de la siguiente documentación:
 a) Documento público notarial otorgando representación a quien se persone en el centro 
@@ -394,9 +370,6 @@ plantear en la tramitación.
 5.º) Tramitar expediente de anulación de títulos ya expedidos y su traslado al Registro 
 Central de Títulos del Ministerio.
 
-https://sede.gobiernodecanarias.org/boc
-boc-a-2026-045-737
-Boletín Oficial de Canarias núm. 45 Viernes 6 de marzo de 20268414
 6.º) Preparar el pliego de cláusulas para convocar el concurso para la contratación del 
 suministro de expedición de los títulos.
 7.º) Llevar a cabo las recepciones parciales de los envíos y preparar los documentos 
@@ -436,9 +409,6 @@ al procedimiento electrónico descrito en el apartado “I. Instrucciones genera
 procedimiento de expedición de títulos”, el centro educativo deberá remitir a la 
 DGACESC, 
 
-https://sede.gobiernodecanarias.org/boc
-boc-a-2026-045-737
-Boletín Oficial de Canarias núm. 45 Viernes 6 de marzo de 20268415
 mediante HiperReg (47.35.09.00), un oficio donde se indicará los datos de la propuesta 
 de duplicado de título que están solicitando, con referencia al número de lote, así como 
 la relación de la documentación que se adjunta al asiento, conforme al apartado “Tercera. 
@@ -477,9 +447,6 @@ por “Rectificación Registral relativa al sexo”.
 En los restantes supuestos, procederá el abono de la tasa correspondiente mediante el 
 modelo 700, tasa 157, del Gobierno de Canarias.
 
-https://sede.gobiernodecanarias.org/boc
-boc-a-2026-045-737
-Boletín Oficial de Canarias núm. 45 Viernes 6 de marzo de 20268416
 Quinta.- Doble motivo de duplicado.
 Cuando concurran dos motivos de duplicado, dado que el sistema no permite hacer 
 constar ambos simultáneamente, se aplicarán las siguientes reglas de prevalencia:
@@ -517,9 +484,6 @@ El centro educativo deberá hacer llegar al Servicio de Administración de Centr
 ubicado en el Edificio de Usos Múltiples III de Santa Cruz de Tenerife (calle Buenos Aires, 
 n.º 5), el título original para su destrucción en los procedimientos de sustitución de títulos.
 
-https://sede.gobiernodecanarias.org/boc
-boc-a-2026-045-737
-Boletín Oficial de Canarias núm. 45 Viernes 6 de marzo de 20268417
 IV . INSTRUCCIONES PARA LA ANULACIÓN DE TÍTULOS
 Primera.- Causas de anulación.
 Son causas de anulación de títulos académicos y profesionales cuando se hayan 
@@ -557,9 +521,6 @@ Una vez recibida la Resolución de anulación del título, el centro educativo d
 tramitar el título correcto de la persona afectada con una nueva propuesta, siguiendo el 
 procedimiento establecido en las Instrucciones Generales de la presente Resolución.
 
-https://sede.gobiernodecanarias.org/boc
-boc-a-2026-045-737
-Boletín Oficial de Canarias núm. 45 Viernes 6 de marzo de 20268418
 V . CENTROS PRIV ADOS
 Primera.- Centros privados que no dispongan de Pincel Ekade.
 1. En los centros privados que no dispongan de Pincel Ekade, el procedimiento de 

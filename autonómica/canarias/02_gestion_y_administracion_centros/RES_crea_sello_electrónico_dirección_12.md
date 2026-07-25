@@ -30,10 +30,7 @@ fuente_pdf_oficial: https://sede.gobiernodecanarias.org/boc/boc-a-2019-016-310.p
 
 # Secretaría General Técnica.- Resolución de 9 de enero de 2019, por la que se crea el sello electrónico de la Dirección General de Centros e Infraestructura Educativa (BOC n.º 16, de 24 de enero).
 
-Boletín Oficial de Canarias núm. 16
-https://sede.gobcan.es/boc
 Jueves 24 de enero de 2019
-3454
 III. Otras Resoluciones
 Consejería de Educación y Universidades
 310 Secretaría General Técnica.- Resolución de 9 de enero de 2019, por la que se crea 
@@ -74,13 +71,8 @@ la legislación de firma electrónica.
 La Orden de 9 de mayo de 2016, de la Consejería de Presidencia, Justicia e Igualdad, 
 regula el sistema de notificación electrónica mediante comparecencia en sedes electrónicas 
 Página 
-boc-a-2019-016-310
 
-
-Boletín Oficial de Canarias núm. 16
-https://sede.gobcan.es/boc
 Jueves 24 de enero de 2019
-3455
 en el ámbito de la Administración Pública de la Comunidad Autónoma de Canarias y sus 
 organismos públicos dependientes (BOC nº 95, de 18 de mayo), en cuyo artículo 4.7 se 
 establece que la acreditación de la puesta a disposición o del rechazo del acto objeto de 
@@ -120,13 +112,8 @@ Segundo.- Órgano responsable.
 El órgano titular del sello electrónico que se crea por la presente resolución y que será 
 responsable, a efectos de su utilización así como de la impugnación, es la Dirección General 
 de Centros e Infraestructura Educativa de la Consejería de Educación y Universidades.
-boc-a-2019-016-310
 
-
-Boletín Oficial de Canarias núm. 16
-https://sede.gobcan.es/boc
 Jueves 24 de enero de 2019
-3456
 Para la definición de las especificaciones, programación, mantenimiento, supervisión 
 y control de calidad, y en su caso, auditoría del sistema de información y de su código 
 fuente, los órganos competentes son la Dirección General de Telecomunicaciones y Nuevas 
@@ -161,13 +148,8 @@ Sexto.- Garantía de autenticidad e integridad.
 El sello electrónico se utilizará para garantizar la autenticidad y la integridad de un 
 documento o expediente electrónico, a cuyo efecto se podrá superponer al código seguro de 
 verificación con que se haya firmado.
-boc-a-2019-016-310
 
-
-Boletín Oficial de Canarias núm. 16
-https://sede.gobcan.es/boc
 Jueves 24 de enero de 2019
-3457
 Séptimo.- Publicación.
 La presente Resolución se publicará en la sede electrónica de la Consejería de Educación 
 y Universidades y, para general conocimiento, en el Boletín Oficial de Canarias.
@@ -178,5 +160,3 @@ artículos 121 y 122 de la Ley 39/2015, de 1 de octubre, del Procedimiento Admin
 Común de las Administraciones Públicas.
 Santa Cruz de Tenerife, a 9 de enero de 2019.- La Secretaria General Técnica, Ángeles 
 Bogas Gálvez.
-boc-a-2019-016-310
-

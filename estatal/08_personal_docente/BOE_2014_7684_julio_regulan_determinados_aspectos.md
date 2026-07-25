@@ -30,6 +30,7 @@ fundamentos_derecho:
   articulos:
   - '1'
 ---
+
 # Real Decreto 625/2014, de 18 de julio, por el que se regulan determinados aspectos de la gestión y control de los procesos por incapacidad temporal en los primeros trescientos sesenta y cinco días de su duración.
 
 El Real Decreto 575/1997, de 18 de abril, por el que se regulan determinados aspectos de la gestión y control de la prestación económica de la Seguridad Social por incapacidad temporal, modificado por el Real Decreto 1117/1998, de 5 de junio, y desarrollado por la Orden de 19 de junio de 1997, pretendía asegurar la efectividad en el percibo de la prestación económica de la Seguridad Social y evitar la utilización indebida de la protección, incidiendo en los principales aspectos de la gestión de la prestación. Al mismo tiempo, dicho real decreto también regulaba la forma de expedición de los partes de baja y alta médicas, así como el establecimiento de determinados controles en la comprobación del mantenimiento del derecho a la prestación, con la finalidad de conseguir un mayor rigor en la constatación de la enfermedad y de su repercusión en la capacidad de trabajo del interesado.
@@ -68,16 +69,13 @@ Este real decreto se dicta de conformidad con lo previsto en la disposición fin
 
 En su virtud, a propuesta de la Ministra de Empleo y Seguridad Social, con la aprobación previa del Ministro de Hacienda y Administraciones Públicas, de acuerdo con el Consejo de Estado y previa deliberación del Consejo de Ministros en su reunión del día 18 de julio de 2014,
 
-
 **DISPONGO:**
-
 
 #### Artículo 1. Ámbito de aplicación.
 
 1. Lo dispuesto en este real decreto se aplicará, durante los primeros trescientos sesenta y cinco días, a los procesos de incapacidad temporal, cualquiera que sea la contingencia determinante, en los que se encuentren quienes estén incluidos en cualquiera de los regímenes que integran el sistema de la Seguridad Social, por desarrollar un trabajo o actividad por cuenta ajena o propia.
 
 2. Quedan excluidos de lo dispuesto en este real decreto los regímenes especiales de las Fuerzas Armadas, de los Funcionarios Civiles de la Administración del Estado y del personal al servicio de la Administración de Justicia.
-
 
 #### Artículo 2. Declaraciones médicas de baja y de confirmación de la baja en los procesos de incapacidad temporal.
 
@@ -113,7 +111,6 @@ En todo caso, el facultativo del servicio público de salud, o de la mutua, expe
 
 Los partes médicos de incapacidad temporal se confeccionarán con arreglo a un modelo que permita su gestión informatizada, en el que figurará un código identificativo del centro de salud emisor de aquellos.
 
-
 #### Artículo 3. Normas relativas a la determinación de la contingencia causante de la incapacidad temporal.
 
 1. El servicio público de salud, el Instituto Social de la Marina o las mutuas, que hayan emitido el parte de baja, podrán instar, motivadamente, ante el Instituto Nacional de la Seguridad Social la revisión de la consideración inicial de la contingencia, mediante el procedimiento regulado en el artículo 6 del Real Decreto 1430/2009, de 11 de septiembre, por el que se desarrolla reglamentariamente la Ley 40/2007, de 4 de diciembre, de medidas en materia de Seguridad Social, en relación con la prestación de incapacidad temporal.
@@ -126,7 +123,6 @@ Por su parte, el facultativo que emita el parte de baja podrá formular su discr
 
 La resolución que se dicte establecerá el carácter común o profesional de la contingencia causante y el sujeto obligado al pago de las prestaciones derivadas de la misma y a la prestación de asistencia sanitaria, en su caso.
 
-
 #### Artículo 4. Informes complementarios y de control.
 
 1. En los procesos de incapacidad temporal cuya gestión corresponda al servicio público de salud y su duración prevista sea superior a 30 días naturales, el segundo parte de confirmación de la baja irá acompañado de un informe médico complementario expedido por el facultativo que haya extendido el parte anterior, en el que se recogerán las dolencias padecidas por el trabajador, el tratamiento médico prescrito, las pruebas médicas en su caso realizadas, la evolución de las dolencias y su incidencia sobre la capacidad funcional del interesado. En los procesos inicialmente previstos con una duración inferior y que sobrepasen el periodo estimado, dicho informe médico complementario deberá acompañar al parte de confirmación de la baja que pueda emitirse, en su caso, una vez superados los 30 días naturales.
@@ -138,7 +134,6 @@ Los informes médicos complementarios se actualizarán, necesariamente, con cada
 3. Los informes médicos complementarios, los informes de control, sus actualizaciones y las pruebas médicas realizadas en el proceso de incapacidad temporal forman parte de este, por lo que tendrán acceso a los mismos los inspectores médicos adscritos al Instituto Nacional de la Seguridad Social, al Instituto Social de la Marina y los facultativos de las mutuas respecto de los procesos por contingencias comunes correspondientes a los trabajadores protegidos por las mismas, al objeto de que puedan desarrollar sus funciones.
 
 Asimismo, exclusivamente los inspectores médicos del propio servicio público de salud y los inspectores médicos adscritos al Instituto Nacional de la Seguridad Social o, en su caso, al Instituto Social de la Marina tendrán acceso, preferentemente por vía telemática, a la documentación clínica de atención primaria y especializada, de conformidad con lo establecido en la disposición adicional cuadragésima del texto refundido de la Ley General de la Seguridad Social, aprobado por el Real Decreto Legislativo 1/1994, de 20 de junio.
-
 
 #### Artículo 5. Declaraciones médicas de alta en los procesos de incapacidad temporal.
 
@@ -158,7 +153,6 @@ Una vez que se cumpla el plazo indicado en el párrafo anterior, el servicio pú
 
 El servicio público de salud comunicará al Instituto Nacional de la Seguridad Social el agotamiento de los trescientos sesenta y cinco días naturales en situación de incapacidad temporal, de manera inmediata, y, en todo caso, en el primer día hábil siguiente.
 
-
 #### Artículo 6. Propuestas de alta médica formuladas por las mutuas en los procesos derivados de contingencias comunes.
 
 1. En los procesos de incapacidad temporal derivados de contingencias comunes cuya cobertura corresponda a una mutua, cuando ésta, a la vista de los partes médicos de baja o de confirmación de la baja, de los informes complementarios o de las actuaciones de control y seguimiento que desarrolle, considere que el trabajador puede no estar impedido para el trabajo, podrá formular, a través de los médicos adscritos a ella, propuestas motivadas de alta médica, a las que acompañará los informes y pruebas que, en su caso, se hubiesen realizado. Las mutuas comunicarán simultáneamente al trabajador afectado, para su conocimiento, que se ha enviado la propuesta de alta.
@@ -172,7 +166,6 @@ En el caso de que la inspección médica del correspondiente servicio público d
 3. Cuando la propuesta de alta formulada por una mutua no fuese resuelta y notificada en el plazo de cinco días establecido en el apartado anterior, la mutua podrá solicitar el alta al Instituto Nacional de la Seguridad Social o, en su caso, al Instituto Social de la Marina, de acuerdo con las competencias previstas en la disposición adicional quincuagésima segunda de la Ley General de la Seguridad Social. La entidad gestora resolverá en el plazo de cuatro días siguientes a su recepción, efectuando las comunicaciones previstas en el artículo 7.5.
 
 El Instituto Nacional de la Seguridad Social y, en su caso, el Instituto Social de la Marina, realizarán el seguimiento del comportamiento del nuevo procedimiento de gestión y control de los procesos por incapacidad temporal. Asimismo, ambas entidades realizarán el seguimiento del grado de motivación clínica de las propuestas de alta de las mutuas y de respuesta de la inspección médica de los servicios públicos de salud o del Instituto Nacional de Gestión Sanitaria, así como el grado de cumplimiento de los plazos de las distintas entidades en lo que se refiere a las propuestas de alta. En caso de que se detectasen retrasos significativos se propondrán medidas adicionales que aseguren que el procedimiento se desarrolle con el necesario grado de celeridad.
-
 
 #### Artículo 7. Tramitación de los partes médicos y expedición de altas médicas por el Instituto Nacional de la Seguridad Social o, en su caso, el Instituto Social de la Marina.
 
@@ -202,7 +195,6 @@ De la suspensión acordada se dará traslado a la Tesorería General de la Segur
 
 6. Cuando en un proceso de incapacidad temporal se haya expedido el parte médico de alta por el Instituto Nacional de la Seguridad Social o, en su caso, por el Instituto Social de la Marina, a través de los inspectores médicos adscritos a dichas entidades, durante los ciento ochenta días naturales siguientes a la fecha en que se expidió el alta, serán estas entidades las únicas competentes, a través de sus propios médicos, para emitir una nueva baja médica por la misma o similar patología.
 
-
 #### Artículo 8. Seguimiento y control de la prestación económica y de las situaciones de incapacidad temporal.
 
 1. El Instituto Nacional de la Seguridad Social, el Instituto Social de la Marina, en su caso, y las mutuas, a través de su personal médico y personal no sanitario, ejercerán el control y seguimiento de la prestación económica de la incapacidad temporal objeto de gestión, pudiendo realizar a tal efecto aquellas actividades que tengan por objeto comprobar el mantenimiento de los hechos y de la situación que originaron el derecho al subsidio, a partir del momento en que se expida el parte médico de baja, sin perjuicio de las competencias que corresponden a los servicios públicos de salud en materia sanitaria.
@@ -224,7 +216,6 @@ El personal no sanitario al que se refiere el apartado primero de este artículo
 Deberán implantarse sobre los datos de carácter personal a los que se refiere este artículo las medidas de seguridad establecidas en la normativa vigente en materia de protección de datos. En todo caso, se procederá al cifrado de los datos mediante su codificado.
 
 Los datos tendrán carácter confidencial siendo de aplicación a quienes accedan a los mismos las normas de protección de datos relacionadas con el deber de secreto así como las reguladoras del secreto profesional.
-
 
 #### Artículo 9. Requerimientos a los trabajadores para reconocimiento médico.
 
@@ -256,7 +247,6 @@ El inspector médico del Instituto Nacional de la Seguridad Social o del Institu
 
 7. Transcurridos diez días hábiles desde la fecha en que estaba citado a reconocimiento médico por la mutua correspondiente, sin que el trabajador hubiera aportado justificación suficiente de su incomparecencia, la mutua acordará la extinción del derecho a la prestación económica con efectos desde el día en que hubiera sido efectiva la suspensión. Dicho acuerdo se notificará al interesado. La mutua comunicará la extinción acordada, por vía telemática, al servicio público de salud, a la empresa y a la Tesorería General de la Seguridad Social.
 
-
 #### Artículo 10. Cooperación y coordinación.
 
 1. La cooperación y coordinación en la gestión de la incapacidad temporal entre el Instituto Nacional de la Seguridad Social, el Instituto Social de la Marina, las mutuas, los servicios públicos de salud de las comunidades autónomas y el Instituto Nacional de Gestión Sanitaria se instrumentarán institucionalmente a través de acuerdos, los cuales podrán ser desarrollados mediante convenios específicos.
@@ -269,16 +259,13 @@ En todo caso, los acuerdos o convenios suscritos establecerán las adecuadas gar
 
 2. Se establecerán mecanismos específicos y estables de colaboración entre el Instituto Nacional de la Seguridad Social y las mutuas, que tendrán por objeto coordinar actuaciones, de acuerdo con sus respectivas competencias, sin perjuicio de las funciones de dirección y tutela que ostenta la Dirección General de Ordenación de la Seguridad Social sobre las mutuas y sobre las funciones y servicios que desarrollan.
 
-
 #### Disposición adicional primera. Remisión de los datos por las mutuas.
 
 En el marco de las funciones de dirección y tutela que ejerce la Dirección General de Ordenación de la Seguridad Social, las mutuas le remitirán los datos e información que aquella les solicite, para el conocimiento de las actuaciones desarrolladas, así como para evaluar su eficacia.
 
-
 #### Disposición adicional segunda. Facultativos o inspectores médicos del Instituto Social de la Marina.
 
 Las referencias que se realizan en este real decreto a los facultativos del servicio público de salud, así como a los inspectores médicos del servicio público de salud, podrán entenderse realizadas a los facultativos o inspectores médicos del Instituto Social de la Marina en aquellos casos en los que estos últimos ejerzan las mismas funciones, por no haberse producido la transferencia de la competencia de asistencia sanitaria a una comunidad autónoma.
-
 
 #### Disposición adicional tercera. Adaptación a las mutuas de los sistemas informáticos.
 
@@ -286,11 +273,9 @@ En el plazo máximo de tres meses siguientes a la entrada en vigor de este real 
 
 En el mismo plazo, se iniciarán las actuaciones para dar cumplimiento a lo establecido en el artículo 16.2 del Reglamento sobre colaboración de las mutuas de accidentes de trabajo y enfermedades profesionales de la Seguridad Social, aprobado por el Real Decreto 1993/1995, de 7 de diciembre, que faculta a los interesados para formular sus quejas a través de la sede electrónica de la Secretaría de Estado de la Seguridad Social.
 
-
 #### Disposición adicional cuarta. Instituto Nacional de Gestión Sanitaria
 
 Las referencias a los servicios públicos de salud que se contienen en este real decreto han de entenderse también realizadas al Instituto Nacional de Gestión Sanitaria, entidad gestora de la Seguridad Social a quien le corresponde la gestión de las prestaciones sanitarias en el ámbito de las ciudades de Ceuta y Melilla.
-
 
 #### Disposición transitoria primera. Partes médicos de incapacidad temporal.
 
@@ -298,18 +283,15 @@ Mientras no se aprueben los nuevos modelos de partes médicos de incapacidad tem
 
 Asimismo, en tanto no se implante la remisión a las empresas, a través del sistema informático, de los resultados de las resoluciones indicadas en el artículo 7.2 del Real Decreto 1430/2009, de 11 de septiembre, el contenido de aquellas se les podrá adelantar mediante correo electrónico, sin perjuicio de comunicación posterior en otro soporte.
 
-
 #### Disposición transitoria segunda. Plazos para la tramitación de las propuestas de alta médica formuladas por las mutuas en los procesos derivados de contingencias comunes.
 
 Durante los primeros seis meses desde la entrada en vigor de este real decreto, el plazo de cinco días establecido en los párrafos segundo y tercero del artículo 6.2 será de once días.
 
 Asimismo, durante los primeros seis meses desde la entrada en vigor de este real decreto, los plazos de cinco y cuatro días establecidos en el artículo 6.3 serán de once y ocho días, respectivamente.
 
-
 #### Disposición derogatoria única. Disposiciones que se derogan.
 
 Quedan derogadas cuantas disposiciones de igual o inferior rango se opongan a lo dispuesto en este real decreto y, expresamente, el Real Decreto 575/1997, de 18 de abril, por el que se regulan determinados aspectos de la gestión y control de la prestación económica de la Seguridad Social por incapacidad temporal.
-
 
 #### Disposición final primera. Modificación del Reglamento sobre colaboración de las mutuas de accidentes de trabajo y enfermedades profesionales de la Seguridad Social, aprobado por el Real Decreto 1993/1995, de 7 de diciembre.
 
@@ -324,7 +306,6 @@ El artículo 16 del Reglamento sobre colaboración de las mutuas de accidentes d
 Las mutuas dispondrán en todos sus centros, con independencia de los servicios que alberguen, de los libros de reclamaciones mencionados en el artículo 12.6, integrados por las correspondientes hojas, de cuya existencia darán conocimiento público y que estarán a disposición de los interesados. Las reclamaciones que se formulen serán remitidas por la mutua, sin más trámites ni practicar comunicaciones, a la Dirección General de Ordenación de la Seguridad Social en el plazo máximo de diez días siguientes a su presentación, adjuntando informe de la entidad sobre los hechos y circunstancias en que aquella se fundamente y su consideración sobre el objeto de la misma.
 
 Igualmente los interesados podrán formular sus quejas a la Dirección General citada, mediante internet, a través de la sede electrónica de la Secretaría de Estado de la Seguridad Social, así como a través de los medios establecidos en el artículo 38 de la Ley 30/1992, de 26 de noviembre, de Régimen Jurídico de las Administraciones Públicas y del Procedimiento Administrativo Común.»
-
 
 #### Disposición final segunda. Modificación del Real Decreto 295/2009, de 6 de marzo, por el que se regulan las prestaciones económicas del sistema de la Seguridad Social por maternidad, paternidad, riesgo durante el embarazo y riesgo durante la lactancia natural.
 
@@ -357,7 +338,6 @@ Cinco. Se añade un tercer párrafo al apartado 2 del artículo 41 con la siguie
 «A efectos de reconocer el derecho al subsidio, se aplicará lo dispuesto en los párrafos tercero y cuarto del artículo 3.8.»
 
 Seis. Se suprime el párrafo 3.º del artículo 30.2, pasando los actuales párrafos 4.º a 7.º a numerarse como 3.º a 6.º, respectivamente.
-
 
 #### Disposición final tercera. Modificación del Real Decreto 1430/2009, de 11 de septiembre, por el que se desarrolla reglamentariamente la Ley 40/2007, de 4 de diciembre, de medidas en materia de Seguridad Social, en relación con la prestación de incapacidad temporal.
 
@@ -429,7 +409,6 @@ El director provincial de la entidad gestora, a propuesta de los órganos compet
 
 2. Cuando se dicte resolución administrativa por el director provincial del Instituto Nacional de la Seguridad Social o del Instituto Social de la Marina, en virtud de lo establecido en el apartado anterior, las entidades gestoras remitirán a las empresas, por vía telemática, el resultado de la referida resolución.»
 
-
 #### Disposición final cuarta. Modificación del Real Decreto 1630/2011, de 14 de noviembre, por el que se regula la prestación de servicios sanitarios y recuperadores por las mutuas de accidentes de trabajo y enfermedades profesionales de la Seguridad Social.
 
 El artículo 10 del Real Decreto 1630/2011, de 14 de noviembre, por el que se regula la prestación de servicios sanitarios y recuperadores por las mutuas de accidentes de trabajo y enfermedades profesionales de la Seguridad Social, queda redactado como sigue:
@@ -438,25 +417,19 @@ El artículo 10 del Real Decreto 1630/2011, de 14 de noviembre, por el que se re
 
 Los convenios y acuerdos de colaboración con las administraciones públicas sanitarias a que se refiere el artículo 9.1 y los instrumentos de colaboración con las entidades gestoras de la Seguridad Social o con los servicios públicos de salud, a los que se refieren los apartados 2 y 3 del mismo artículo, deberán someterse a la aprobación de la Dirección General de Ordenación de la Seguridad Social previamente a su suscripción, así como sus modificaciones o rescisiones.»
 
-
 #### Disposición final quinta. Acceso a la documentación clínica por parte de los médicos del Instituto Social de la Marina.
 
 Lo dispuesto en los artículos 4.3 y 8.1 sobre el acceso a la documentación clínica de atención primaria y especializada, se hará extensivo a los médicos del Instituto Social de la Marina, con el objeto de que dispongan de la información necesaria respecto de los trabajadores a los que realizan los preceptivos reconocimientos médicos de embarque marítimo que tienen por objeto garantizar que las condiciones psicofísicas de estos sean compatibles con sus puestos de trabajo.
-
 
 #### Disposición final sexta. Título competencial.
 
 Este real decreto se dicta al amparo de lo dispuesto en el artículo 149.1.17.ª de la Constitución, que atribuye al Estado la competencia exclusiva en materia de régimen económico de la Seguridad Social.
 
-
 #### Disposición final séptima. Facultades de aplicación y desarrollo.
 
 Se faculta a la Ministra de Empleo y Seguridad Social para dictar cuantas disposiciones de carácter general sean precisas para la aplicación y desarrollo de este real decreto.
 
-
 #### Disposición final octava. Entrada en vigor.
-
-El presente real decreto entrará en vigor el día primero del segundo mes siguiente al de su publicación en el «Boletín Oficial del Estado».
 
 Dado en Madrid, el 18 de julio de 2014.
 

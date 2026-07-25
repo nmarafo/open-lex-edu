@@ -31,10 +31,7 @@ fuente_pdf_oficial: https://sede.gobiernodecanarias.org/boc/boc-a-2018-220-5208.
 
 # Resolución de 2 de noviembre de 2018, de la Dirección General de Ordenación, Innovación y Promoción Educativa, por la que se dictan instrucciones para la tramitación electrónica del procedimiento por el que se regula la justificación correspondiente a la financiación de gastos de personal complementario, en los centros privados concertados de Canarias (BOC n.º 220, de 14 de noviembre).
 
-Boletín Oficial de Canarias núm. 220
-https://sede.gobcan.es/boc
 Miércoles 14 de noviembre de 2018
-38000
 III. Otras Resoluciones
 Consejería de Educación y Universidades
 5208 Dirección General de Ordenación, Innovación y Promoción Educativa.- Resolución 
@@ -72,13 +69,8 @@ de las Administraciones Públicas (BOE nº 236, de 2.10.15).
 Esta Dirección General de acuerdo con todo lo anterior, y en uso de las atribuciones 
 que le son propias con arreglo a lo previsto en el artículo 13 del Decreto 135/2016, de 10 
 Página 
-boc-a-2018-220-5208
 
-
-Boletín Oficial de Canarias núm. 220
-https://sede.gobcan.es/boc
 Miércoles 14 de noviembre de 2018
-38001
 de octubre, por el que se aprueba el Reglamento Orgánico de la Consejería de Educación 
 y Universidades (BOC nº 203, de 19.10.16); el artículo 9 del Decreto 183/2015, de 21 de 
 julio, por el que se determina la estructura central y periférica, así como las sedes de las 
@@ -98,13 +90,8 @@ siguiente al de su publicación, de acuerdo con lo dispuesto en los artículos 1
 Públicas (BOE nº 236, de 2 de octubre).
 Santa Cruz de Tenerife, a 2 de noviembre de 2018.- El Director General de Ordenación, 
 Innovación y Promoción Educativa, Jonathan Martín Fumero.
-boc-a-2018-220-5208
 
-
-Boletín Oficial de Canarias núm. 220
-https://sede.gobcan.es/boc
 Miércoles 14 de noviembre de 2018
-38002
 A N E X O
 INSTRUCCIONES 
 1.- Objeto.
@@ -140,13 +127,8 @@ representante, podrá optar por presentar la solicitud por canal telemático o c
 a) Por canal telemático. La persona física, titular del centro, o quien ostente su 
 representación, para la presentación del formulario vía telemática y tramitación, deberá 
 disponer de cualquiera de los sistemas de identificación y firma electrónica admitidos en la 
-boc-a-2018-220-5208
 
-
-Boletín Oficial de Canarias núm. 220
-https://sede.gobcan.es/boc
 Miércoles 14 de noviembre de 2018
-38003
 sede electrónica, definidos en la dirección https://sede.gobcan.es/educacionyuniversidades/
 la_sede/sistemas_firma/
 b) Por canal presencial. Una vez cumplimentado el formulario, indicado en el apartado 1 de 
@@ -171,5 +153,3 @@ Las solicitudes de justificación de gastos de personal complementario se realiz
 el plazo establecido en la referida Orden de 27 de junio de 2008, por la que se regula el 
 personal complementario de los centros privados concertados con unidades de Educación 
 Especial concertadas, financiado por esta Consejería a través de los conciertos educativos.
-boc-a-2018-220-5208
-

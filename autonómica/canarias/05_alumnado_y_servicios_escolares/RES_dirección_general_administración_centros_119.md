@@ -32,9 +32,6 @@ fuente_pdf_oficial: https://sede.gobiernodecanarias.org/boc/boc-a-2025-166-3041.
 
 # Resolución de 8 de agosto de 2025,de la Dirección General de Administración de Centros, Escolarización y Servicios Complementarios por la que se aprueban las instrucciones de organización y funcionamiento de los comedores escolares de los centros docentes públicos no universitarios para el curso escolar 2025-2026 (BOC nº 166, de 22 de agosto).
 
-https://sede.gobiernodecanarias.org/boc
-boc-a-2025-166-3041
-Boletín Oficial de Canarias núm. 166 Viernes 22 de agosto de 202537794
 III. Otras Resoluciones
 Consejería de Educación, Formación Profesional, Actividad Física y Deportes
 3041 Dirección General de Administración de Centros, Escolarización y Servicios 
@@ -76,9 +73,6 @@ finalización del servicio.
 b) El límite de ingresos familiares a partir del cual no se puede ser beneficiario de este 
 tipo de ayuda.
 
-https://sede.gobiernodecanarias.org/boc
-boc-a-2025-166-3041
-Boletín Oficial de Canarias núm. 166 Viernes 22 de agosto de 202537795
 c) Los criterios para la asignación de crédito que servirán de base para la concesión de 
 ayudas de los comensales y fijación de cuotas.
 d) Las asignaciones de los encargados de comedor.
@@ -119,9 +113,6 @@ lo establecido en el artículo 29, apartado 1, letra j), de la Ley 14/1990, de 2
 Régimen Jurídico de las Administraciones Públicas de Canarias, así como con la restante 
 normativa de general aplicación, se procede a dictar la presente Resolución.
 
-https://sede.gobiernodecanarias.org/boc
-boc-a-2025-166-3041
-Boletín Oficial de Canarias núm. 166 Viernes 22 de agosto de 202537796
 En base a los preceptos anteriormente señalados, corresponde al Director General de 
 Administración de Centros, Escolarización y Servicios Complementarios de la Consejería 
 de Educación, Formación Profesional, Actividad Física y Deportes la competencia para 
@@ -140,9 +131,6 @@ Las Palmas de Gran Canaria, a 8 de agosto de 2025.- El Director General de
 Administración de Centros, Escolarización y Servicios Complementarios, David Crego 
 Chaves.
 
-https://sede.gobiernodecanarias.org/boc
-boc-a-2025-166-3041
-Boletín Oficial de Canarias núm. 166 Viernes 22 de agosto de 202537797
 INSTRUCCIONES DE ORGANIZACIÓN Y FUNCIONAMIENTO DE LOS 
 COMEDORES ESCOLARES DE LOS CENTROS DOCENTES PÚBLICOS NO 
 UNIVERSITARIOS PARA EL CURSO ESCOLAR 2025-2026.
@@ -182,9 +170,6 @@ de ayudas a los comensales y fijación de cuotas.
 las subvenciones de comedor para el curso 2025-2026, son los fijados en la instrucción 
 undécima, apartado 2.5, de la citada Resolución n.º 229, de 8 de mayo de 2025, de la 
 
-https://sede.gobiernodecanarias.org/boc
-boc-a-2025-166-3041
-Boletín Oficial de Canarias núm. 166 Viernes 22 de agosto de 202537798
 DGACESC, por la que se establece el calendario escolar, las instrucciones complementarias 
 del procedimiento de admisión del alumnado comensal y los criterios de concesión de 
 las subvenciones y por la que se autoriza la oferta de plazas de comensales de los centros 
@@ -223,9 +208,6 @@ Más de 300 157,80 € 135,80 €
 anterior, será el que el centro escolar tenga autorizado en la Resolución n.º 229, de la 
 DGACESC, por la que se establece el calendario escolar, las instrucciones complementarias 
 
-https://sede.gobiernodecanarias.org/boc
-boc-a-2025-166-3041
-Boletín Oficial de Canarias núm. 166 Viernes 22 de agosto de 202537799
 del procedimiento de admisión del alumnado comensal y los criterios de concesión de 
 las subvenciones y por la que se autoriza la oferta de plazas de comensales de los centros 
 docentes públicos no universitarios para el curso escolar 2025-2026.
@@ -271,9 +253,6 @@ excepcionalmente, al de otros centros sin comedor que lo soliciten, fijándose u
 cuotas serán ingresadas, por periodos anticipados, en la cuenta corriente del comedor del 
 centro.
 
-https://sede.gobiernodecanarias.org/boc
-boc-a-2025-166-3041
-Boletín Oficial de Canarias núm. 166 Viernes 22 de agosto de 202537800
 2. Asimismo, podrá autorizar al personal docente y de servicios o programas educativos 
 autorizados y dependientes de esta Consejería u otro personal que preste servicios permanentes 
 durante el curso escolar en el centro educativo, aunque no dependa de la Consejería de 
@@ -319,9 +298,6 @@ claridad quien o quienes deben localizar a la persona encargada del comedor y/o 
 del equipo directivo, cuando las circunstancias así lo requieran. El mencionado protocolo 
 obrará en poder del personal del servicio de comedor y de la persona responsable.
 
-https://sede.gobiernodecanarias.org/boc
-boc-a-2025-166-3041
-Boletín Oficial de Canarias núm. 166 Viernes 22 de agosto de 202537801
 3. La persona encargada del comedor deberá supervisar el servicio, estar a disposición 
 de este y localizable, de modo que pueda acudir al centro educativo de forma inmediata 
 cuando lo requiera cualquier circunstancia. En caso de ausencia de la persona encargada 
@@ -366,9 +342,6 @@ causas de índole religioso debidamente fundamentadas.
 menús, teniendo en cuenta que los mismos sean equilibrados, variados y adaptados a los 
 comensales, artículo 9.3 de la Orden de 25 de febrero de 2003.
 
-https://sede.gobiernodecanarias.org/boc
-boc-a-2025-166-3041
-Boletín Oficial de Canarias núm. 166 Viernes 22 de agosto de 202537802
 10. Con carácter general, deberán tenerse en cuenta los objetivos previstos en el Decreto 
 3/1997, de 21 de enero, por el que se aprueba el Plan de Salud de Canarias, debiendo 
 destacarse:
@@ -409,9 +382,6 @@ En Canarias, un objetivo común de las Consejerías de Educación y de Sanidad e
 mejora de la salud de la población escolar. A través del acuerdo marco de colaboración, 
 firmado por ambas Consejerías “para la realización de actuaciones conjuntas de Promoción 
 
-https://sede.gobiernodecanarias.org/boc
-boc-a-2025-166-3041
-Boletín Oficial de Canarias núm. 166 Viernes 22 de agosto de 202537803
 de la Salud en la escuela” y ratificado en la Resolución conjunta 1648/2021, se desarrollan 
 programas y acciones para inculcar hábitos alimenticios saludables contribuyendo así a la 
 prevención de enfermedades como obesidad, diabetes, trastornos alimenticios, etc.
@@ -455,9 +425,6 @@ requisitos establecidos a continuación:
 • Disponer de instalaciones y espacios adecuados para proporcionar el servicio al 
 alumnado para el que se solicita.
 
-https://sede.gobiernodecanarias.org/boc
-boc-a-2025-166-3041
-Boletín Oficial de Canarias núm. 166 Viernes 22 de agosto de 202537804
 • Disponer de mobiliario, menaje y utensilios adecuados para ofrecer el servicio.
 • Garantizar que el coste del servicio no suponga un coste adicional o aumento en las 
 cuotas por el incremento de comensales.
@@ -498,9 +465,6 @@ escolar, según modelo del Anexo IV .
 • En dicho anexo se realizará una diligencia que haga constar las compras pendientes de 
 abonar, a 30 de junio de 2026, por falta de saldo u otras circunstancias.
 
-https://sede.gobiernodecanarias.org/boc
-boc-a-2025-166-3041
-Boletín Oficial de Canarias núm. 166 Viernes 22 de agosto de 202537805
 • Aquellos centros, que habiendo cerrado el comedor durante el curso escolar, aún 
 tengan activa la cuenta de comedor, están obligados a enviar este Anexo IV mientras su 
 cuenta no sea cerrada oficialmente.
@@ -573,9 +537,6 @@ estar firmadas a través de firma electrónica, tal y como establece la Ley 39/2
 octubre, del Procedimiento Administrativo Común de las Administraciones Públicas, en su 
 artículo 14.2.e).
 
-boc-a-2025-166-3041
-Boletín Oficial de Canarias núm. 166 Viernes 22 de agosto de 202537806
-https://sede.gobiernodecanarias.org/boc
 ANEXO I
 CERTIFICADO DE PRESTACIÓN DE SERVICI  O COMO ENCARGADO/A DE COMEDOR  
 CURSO ESCOLAR 2025-2026
@@ -604,9 +565,6 @@ ANEXO I
 CERTIFICADO DE PRESTACIÓN DE SERVICIO COMO ENCARGADO/A  
 DE COMEDOR CURSO ESCOLAR 2025-2026
 
-boc-a-2025-166-3041
-Boletín Oficial de Canarias núm. 166 Viernes 22 de agosto de 202537807
-https://sede.gobiernodecanarias.org/boc
 ANEXO II
  CERTIFICADO DE COMENSALES POR TRAMOS DE RENTA Y CUOTA CERO
 D/Dña._______________________________________________, secretario/a del Consejo Escolar del centro  
@@ -648,9 +606,6 @@ MÓDULO 1er CICLO INFANTIL:
 ANEXO II
 CERTIFICADO DE COMENSALES POR TRAMOS DE RENTA Y CUOTA CERO
 
-boc-a-2025-166-3041
-Boletín Oficial de Canarias núm. 166 Viernes 22 de agosto de 202537808
-https://sede.gobiernodecanarias.org/boc
 ANEXO III
 PLANIFICACIÓN DE COMEDORES
 CURSO ESCOLAR 2026-2027
@@ -694,9 +649,6 @@ ANEXO III
 PLANIFICACIÓN DE COMEDORES 
 CURSO ESCOLAR 2026-2027
 
-boc-a-2025-166-3041
-Boletín Oficial de Canarias núm. 166 Viernes 22 de agosto de 202537809
-https://sede.gobiernodecanarias.org/boc
 ANEXO IV
 JUSTIFICACIÓN DE INGRESOS Y GASTOS DEL COMEDOR ESCOLAR
 C  URSO 2025-2026  
@@ -753,9 +705,6 @@ ANEXO IV
 JUSTIFICACIÓN DE INGRESOS Y GASTOS DEL COMEDOR ESCOLAR 
 CURSO 2025-2026
 
-boc-a-2025-166-3041
-Boletín Oficial de Canarias núm. 166 Viernes 22 de agosto de 202537810
-https://sede.gobiernodecanarias.org/boc
 ANEXO V 
 INFORME SOBRE DÍAS DE SERVICIO Y PROMEDIO DE ALUMNADO COMENSAL Y 
 CERTIFICACIÓN DE CONCESIÓN DE SUBVENCIONES
@@ -810,9 +759,6 @@ INFORME SOBRE DÍAS DE SERVICIO Y PROMEDIO DE ALUMNADO COMENSAL
 Y CERTIFICACIÓN DE CONCESIÓN DE SUBVENCIONES 
 CURSO ESCOLAR 2025-2026
 
-boc-a-2025-166-3041
-Boletín Oficial de Canarias núm. 166 Viernes 22 de agosto de 202537811
-https://sede.gobiernodecanarias.org/boc
 ANEXO VI
 CERTIFICACIÓN  SOBRE  LA SUPERVISIÓN DE LAS NORMAS SANITARIAS DE LOS COMEDORES 
 ESCOLARES
@@ -851,9 +797,6 @@ CERTIFICACIÓN SOBRE LA SUPERVISIÓN DE LAS NORMAS SANITARIAS
 DE LOS COMEDORES ESCOLARES 
 CURSO ESCOLAR 2025-2026
 
-boc-a-2025-166-3041
-Boletín Oficial de Canarias núm. 166 Viernes 22 de agosto de 202537812
-https://sede.gobiernodecanarias.org/boc
 ANEXO VII
 SOLICITUD DE AMPLIACIÓN DE MÓDULO DE COMEDOR PARA EL CURS  O   2025-2026  
 D/Dª___________________________,  director/a  del  centro  ____________________________  con  código  
@@ -893,9 +836,6 @@ ANEXO VII
 SOLICITUD DE AMPLIACIÓN DE MÓDULO DE COMEDOR  
 PARA EL CURSO 2025-2026
 
-boc-a-2025-166-3041
-Boletín Oficial de Canarias núm. 166 Viernes 22 de agosto de 202537813
-https://sede.gobiernodecanarias.org/boc
 NUMERO DE PLAZAS DE COMENSALES OFERTADAS Y PERSONAL LABORAL DE LOS COMEDORES ESCOLARES PARA EL CURSO 2025-2026
 FUERTEVENTURA, GRAN CANARIA Y LANZAROTE
 TIPO DE CENTRO
@@ -942,9 +882,6 @@ NUMERO DE PLAZAS DE COMENSALES OFERTADAS Y PERSONAL LABORAL
 DE LOS COMEDORES ESCOLARES PARA EL CURSO 2025-2026
 FUERTEVENTURA, GRAN CANARIA Y LANZAROTE
 
-boc-a-2025-166-3041
-Boletín Oficial de Canarias núm. 166 Viernes 22 de agosto de 202537814
-https://sede.gobiernodecanarias.org/boc
 TIPO DE CENTRO
 NOMBRE DEL CENTRO MUNICIPIO GESTIÓN PRIMARIA
 PROVINCIA
@@ -988,9 +925,6 @@ COMENSAL.
 TOTAL 
 COMENSALES
 
-boc-a-2025-166-3041
-Boletín Oficial de Canarias núm. 166 Viernes 22 de agosto de 202537815
-https://sede.gobiernodecanarias.org/boc
 TIPO DE CENTRO
 NOMBRE DEL CENTRO MUNICIPIO GESTIÓN PRIMARIA
 PROVINCIA
@@ -1035,9 +969,6 @@ COMENSAL
 TOTAL 
 COMENSALES
 
-boc-a-2025-166-3041
-Boletín Oficial de Canarias núm. 166 Viernes 22 de agosto de 202537816
-https://sede.gobiernodecanarias.org/boc
 TIPO DE CENTRO
 NOMBRE DEL CENTRO MUNICIPIO GESTIÓN PRIMARIA
 PROVINCIA
@@ -1082,9 +1013,6 @@ COMENSAL
 TOTAL 
 COMENSALES
 
-boc-a-2025-166-3041
-Boletín Oficial de Canarias núm. 166 Viernes 22 de agosto de 202537817
-https://sede.gobiernodecanarias.org/boc
 TIPO DE CENTRO
 NOMBRE DEL CENTRO MUNICIPIO GESTIÓN PRIMARIA
 PROVINCIA
@@ -1128,9 +1056,6 @@ COMENSAL
 TOTAL 
 COMENSALES
 
-boc-a-2025-166-3041
-Boletín Oficial de Canarias núm. 166 Viernes 22 de agosto de 202537818
-https://sede.gobiernodecanarias.org/boc
 TIPO DE CENTRO
 NOMBRE DEL CENTRO MUNICIPIO GESTIÓN PRIMARIA
 PROVINCIA
@@ -1175,9 +1100,6 @@ COMENSAL
 TOTAL 
 COMENSALES
 
-boc-a-2025-166-3041
-Boletín Oficial de Canarias núm. 166 Viernes 22 de agosto de 202537819
-https://sede.gobiernodecanarias.org/boc
 TIPO DE CENTRO
 NOMBRE DEL CENTRO MUNICIPIO GESTIÓN PRIMARIA
 PROVINCIA
@@ -1224,9 +1146,6 @@ COMENSALES
 MOTOR GRANDE- ROSA PADRÓN 
 PULIDO
 
-boc-a-2025-166-3041
-Boletín Oficial de Canarias núm. 166 Viernes 22 de agosto de 202537820
-https://sede.gobiernodecanarias.org/boc
 TIPO DE CENTRO
 NOMBRE DEL CENTRO MUNICIPIO GESTIÓN PRIMARIA
 PROVINCIA
@@ -1271,9 +1190,6 @@ COMENSAL
 TOTAL 
 COMENSALES
 
-boc-a-2025-166-3041
-Boletín Oficial de Canarias núm. 166 Viernes 22 de agosto de 202537821
-https://sede.gobiernodecanarias.org/boc
 TIPO DE CENTRO
 NOMBRE DEL CENTRO MUNICIPIO GESTIÓN PRIMARIA
 PROVINCIA
@@ -1318,9 +1234,6 @@ COMENSAL
 TOTAL 
 COMENSALES
 
-boc-a-2025-166-3041
-Boletín Oficial de Canarias núm. 166 Viernes 22 de agosto de 202537822
-https://sede.gobiernodecanarias.org/boc
 TIPO DE CENTRO
 NOMBRE DEL CENTRO MUNICIPIO GESTIÓN PRIMARIA
 PROVINCIA
@@ -1381,9 +1294,6 @@ CANARIA
 SANTA MARÍA DE GUÍA DE GRAN 
 CANARIA
 
-boc-a-2025-166-3041
-Boletín Oficial de Canarias núm. 166 Viernes 22 de agosto de 202537823
-https://sede.gobiernodecanarias.org/boc
 TIPO DE CENTRO
 NOMBRE DEL CENTRO MUNICIPIO GESTIÓN PRIMARIA
 PROVINCIA
@@ -1430,9 +1340,6 @@ COMENSALES
 LA GARITA – ALBERTO MANRIQUE DE 
 LARA 
 
-boc-a-2025-166-3041
-Boletín Oficial de Canarias núm. 166 Viernes 22 de agosto de 202537824
-https://sede.gobiernodecanarias.org/boc
 TIPO DE CENTRO
 NOMBRE DEL CENTRO MUNICIPIO GESTIÓN PRIMARIA
 PROVINCIA
@@ -1477,9 +1384,6 @@ COMENSAL
 TOTAL 
 COMENSALES
 
-boc-a-2025-166-3041
-Boletín Oficial de Canarias núm. 166 Viernes 22 de agosto de 202537825
-https://sede.gobiernodecanarias.org/boc
 TIPO DE CENTRO
 NOMBRE DEL CENTRO MUNICIPIO GESTIÓN PRIMARIA
 PROVINCIA
@@ -1516,9 +1420,6 @@ COMENSAL
 TOTAL 
 COMENSALES
 
-boc-a-2025-166-3041
-Boletín Oficial de Canarias núm. 166 Viernes 22 de agosto de 202537826
-https://sede.gobiernodecanarias.org/boc
 NUMERO DE PLAZAS DE COMENSALES OFERTADAS Y PERSONAL LABORAL DE LOS COMEDORES ESCOLARES PARA EL CURSO 2025-2026
 EL HIERRO,  LA GOMERA, , LA PALMA Y TENERIFE
 TIPO DE CENTRO
@@ -1564,9 +1465,6 @@ NUMERO DE PLAZAS DE COMENSALES OFERTADAS Y PERSONAL LABORAL
 DE LOS COMEDORES ESCOLARES PARA EL CURSO 2025-2026
 EL HIERRO, LA GOMERA, , LA PALMA Y TENERIFE
 
-boc-a-2025-166-3041
-Boletín Oficial de Canarias núm. 166 Viernes 22 de agosto de 202537827
-https://sede.gobiernodecanarias.org/boc
 TIPO DE CENTRO
 NOMBRE DEL CENTRO MUNICIPIO GESTIÓN PRIMARIA
 PROVINCIA
@@ -1610,9 +1508,6 @@ COMENSAL
 TOTAL 
 COMENSALES
 
-boc-a-2025-166-3041
-Boletín Oficial de Canarias núm. 166 Viernes 22 de agosto de 202537828
-https://sede.gobiernodecanarias.org/boc
 TIPO DE CENTRO
 NOMBRE DEL CENTRO MUNICIPIO GESTIÓN PRIMARIA
 PROVINCIA
@@ -1656,9 +1551,6 @@ COMENSAL
 TOTAL 
 COMENSALES
 
-boc-a-2025-166-3041
-Boletín Oficial de Canarias núm. 166 Viernes 22 de agosto de 202537829
-https://sede.gobiernodecanarias.org/boc
 TIPO DE CENTRO
 NOMBRE DEL CENTRO MUNICIPIO GESTIÓN PRIMARIA
 PROVINCIA
@@ -1702,9 +1594,6 @@ COMENSAL
 TOTAL 
 COMENSALES
 
-boc-a-2025-166-3041
-Boletín Oficial de Canarias núm. 166 Viernes 22 de agosto de 202537830
-https://sede.gobiernodecanarias.org/boc
 TIPO DE CENTRO
 NOMBRE DEL CENTRO MUNICIPIO GESTIÓN PRIMARIA
 PROVINCIA
@@ -1748,9 +1637,6 @@ COMENSAL
 TOTAL 
 COMENSALES
 
-boc-a-2025-166-3041
-Boletín Oficial de Canarias núm. 166 Viernes 22 de agosto de 202537831
-https://sede.gobiernodecanarias.org/boc
 TIPO DE CENTRO
 NOMBRE DEL CENTRO MUNICIPIO GESTIÓN PRIMARIA
 PROVINCIA
@@ -1794,9 +1680,6 @@ COMENSAL
 TOTAL 
 COMENSALES
 
-boc-a-2025-166-3041
-Boletín Oficial de Canarias núm. 166 Viernes 22 de agosto de 202537832
-https://sede.gobiernodecanarias.org/boc
 TIPO DE CENTRO
 NOMBRE DEL CENTRO MUNICIPIO GESTIÓN PRIMARIA
 PROVINCIA
@@ -1840,9 +1723,6 @@ COMENSAL
 TOTAL 
 COMENSALES
 
-boc-a-2025-166-3041
-Boletín Oficial de Canarias núm. 166 Viernes 22 de agosto de 202537833
-https://sede.gobiernodecanarias.org/boc
 TIPO DE CENTRO
 NOMBRE DEL CENTRO MUNICIPIO GESTIÓN PRIMARIA
 PROVINCIA
@@ -1886,9 +1766,6 @@ COMENSAL
 TOTAL 
 COMENSALES
 
-boc-a-2025-166-3041
-Boletín Oficial de Canarias núm. 166 Viernes 22 de agosto de 202537834
-https://sede.gobiernodecanarias.org/boc
 TIPO DE CENTRO
 NOMBRE DEL CENTRO MUNICIPIO GESTIÓN PRIMARIA
 PROVINCIA
@@ -1932,9 +1809,6 @@ COMENSAL
 TOTAL 
 COMENSALES
 
-boc-a-2025-166-3041
-Boletín Oficial de Canarias núm. 166 Viernes 22 de agosto de 202537835
-https://sede.gobiernodecanarias.org/boc
 TIPO DE CENTRO
 NOMBRE DEL CENTRO MUNICIPIO GESTIÓN PRIMARIA
 PROVINCIA
@@ -1978,9 +1852,6 @@ COMENSAL
 TOTAL 
 COMENSALES
 
-boc-a-2025-166-3041
-Boletín Oficial de Canarias núm. 166 Viernes 22 de agosto de 202537836
-https://sede.gobiernodecanarias.org/boc
 TIPO DE CENTRO
 NOMBRE DEL CENTRO MUNICIPIO GESTIÓN PRIMARIA
 PROVINCIA
@@ -2024,9 +1895,6 @@ COMENSAL
 TOTAL 
 COMENSALES
 
-boc-a-2025-166-3041
-Boletín Oficial de Canarias núm. 166 Viernes 22 de agosto de 202537837
-https://sede.gobiernodecanarias.org/boc
 TIPO DE CENTRO
 NOMBRE DEL CENTRO MUNICIPIO GESTIÓN PRIMARIA
 PROVINCIA
@@ -2070,9 +1938,6 @@ COMENSAL
 TOTAL 
 COMENSALES
 
-boc-a-2025-166-3041
-Boletín Oficial de Canarias núm. 166 Viernes 22 de agosto de 202537838
-https://sede.gobiernodecanarias.org/boc
 TIPO DE CENTRO
 NOMBRE DEL CENTRO MUNICIPIO GESTIÓN PRIMARIA
 PROVINCIA

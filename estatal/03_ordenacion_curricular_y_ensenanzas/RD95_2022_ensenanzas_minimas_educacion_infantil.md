@@ -74,14 +74,11 @@ En el proceso de elaboración de este real decreto han sido consultadas las comu
 
 En su virtud, a propuesta de la Ministra de Educación y Formación Profesional, de acuerdo con el Consejo de Estado, y previa deliberación del Consejo de Ministros en su reunión del día 1 de febrero de 2022,
 
-
 **DISPONGO:**
-
 
 #### Artículo 1. Objeto.
 
 El presente real decreto tiene por objeto establecer la ordenación y las enseñanzas mínimas de la etapa de Educación Infantil.
-
 
 #### Artículo 2. Definiciones.
 
@@ -99,18 +96,15 @@ e) Saberes básicos: conocimientos, destrezas y actitudes que constituyen los 
 
 f) Situaciones de aprendizaje: situaciones y actividades que implican el despliegue por parte del alumnado de actuaciones asociadas a competencias clave y competencias específicas, y que contribuyen a la adquisición y desarrollo de las mismas.
 
-
 #### Artículo 3. La etapa de Educación Infantil en el marco del sistema educativo.
 
 1. La Educación Infantil constituye la etapa educativa con identidad propia que atiende a niños y niñas desde el nacimiento hasta los seis años de edad.
 
 2. Esta etapa se ordena en dos ciclos. El primero comprende hasta los tres años y el segundo, desde los tres a los seis años de edad.
 
-
 #### Artículo 4. Fines.
 
 La finalidad de la Educación Infantil es contribuir al desarrollo integral y armónico del alumnado en todas sus dimensiones: física, emocional, sexual, afectiva, social, cognitiva y artística, potenciando la autonomía personal y la creación progresiva de una imagen positiva y equilibrada de sí mismos, así como a la educación en valores cívicos para la convivencia.
-
 
 #### Artículo 5. Principios generales.
 
@@ -121,7 +115,6 @@ La finalidad de la Educación Infantil es contribuir al desarrollo integral y ar
 3. Con el objetivo de garantizar los principios de equidad e inclusión, la programación, la gestión y el desarrollo de la Educación Infantil atenderán a la compensación de los efectos que las desigualdades de origen cultural, social y económico tienen en el aprendizaje y en la evolución infantil, así como a la detección precoz y atención temprana de necesidades específicas de apoyo educativo.
 
 4. Con este mismo objetivo, las medidas organizativas, metodológicas y curriculares que se adopten se regirán por los principios del Diseño Universal para el Aprendizaje.
-
 
 #### Artículo 6. Principios pedagógicos.
 
@@ -140,7 +133,6 @@ La finalidad de la Educación Infantil es contribuir al desarrollo integral y ar
 7. De igual modo, sin que resulte exigible para afrontar la Educación Primaria, se podrá favorecer una primera aproximación a la lectura y a la escritura, así como experiencias de iniciación temprana en habilidades numéricas básicas, en las tecnologías de la información y la comunicación, en la expresión visual y musical y en cualesquiera otras que las administraciones educativas determinen.
 
 8. Corresponde a las administraciones educativas fomentar una primera aproximación a la lengua extranjera en los aprendizajes del segundo ciclo de la Educación Infantil, especialmente en el último año.
-
 
 #### Artículo 7. Objetivos.
 
@@ -162,7 +154,6 @@ g) Iniciarse en las habilidades lógico-matemáticas, en la lectura y la escri
 
 h) Promover, aplicar y desarrollar las normas sociales que fomentan la igualdad entre hombres y mujeres.
 
-
 #### Artículo 8. Áreas.
 
 1. Los contenidos educativos de la Educación Infantil se organizan en áreas correspondientes a ámbitos propios de la experiencia y del desarrollo infantil y se abordarán por medio de propuestas globalizadas de aprendizaje que tengan interés y significado para los niños y las niñas.
@@ -177,7 +168,6 @@ h) Promover, aplicar y desarrollar las normas sociales que fomentan la igualda
 
 3. Estas áreas deben entenderse como ámbitos de experiencia intrínsecamente relacionados entre sí, por lo que se requerirá un planteamiento educativo que promueva la configuración de situaciones de aprendizaje globales, significativas y estimulantes que ayuden a establecer relaciones entre todos los elementos que las conforman.
 
-
 #### Artículo 9. Competencias, criterios de evaluación y saberes básicos.
 
 1. En el anexo I de este real decreto se establecen las competencias clave de la etapa.
@@ -185,7 +175,6 @@ h) Promover, aplicar y desarrollar las normas sociales que fomentan la igualda
 2. En el anexo II se fijan las competencias específicas de cada área, que serán comunes para los dos ciclos de la etapa, así como los criterios de evaluación y los contenidos, enunciados en forma de saberes básicos. Estos elementos curriculares se establecen con carácter orientativo para el primer ciclo y conforman, junto con los objetivos de la etapa, las enseñanzas mínimas del segundo ciclo.
 
 3. Para la adquisición y desarrollo de las competencias a las que se refieren los apartados anteriores, el equipo educativo diseñará situaciones de aprendizaje, de acuerdo a los principios que, con carácter orientativo, se establecen en el anexo III y en los términos que dispongan las administraciones educativas.
-
 
 #### Artículo 10. Currículo.
 
@@ -195,13 +184,11 @@ h) Promover, aplicar y desarrollar las normas sociales que fomentan la igualda
 
 3. El profesorado y el resto de profesionales que atienden a los niños y las niñas adaptarán a dichas concreciones su propia práctica educativa, basándose en el Diseño Universal para el Aprendizaje y de acuerdo con las características de esta etapa educativa y las necesidades colectivas e individuales de su alumnado.
 
-
 #### Artículo 11. Horario.
 
 1. El horario en la etapa de Educación Infantil se entenderá como la distribución en secuencias temporales de las actividades que se realizan en los distintos días de la semana, teniendo en cuenta que todos los momentos de la jornada tienen carácter educativo.
 
 2. El horario escolar se organizará desde un enfoque globalizador e incluirá propuestas de aprendizaje que permitan alternar diferentes tipos y ritmos de actividad con periodos de descanso en función de las necesidades del alumnado.
-
 
 #### Artículo 12. Evaluación.
 
@@ -212,7 +199,6 @@ h) Promover, aplicar y desarrollar las normas sociales que fomentan la igualda
 3. El proceso de evaluación deberá contribuir a mejorar el proceso de enseñanza y de aprendizaje mediante la valoración de la pertinencia de las estrategias metodológicas y de los recursos utilizados. Con esta finalidad, todos los profesionales implicados evaluarán su propia práctica educativa.
 
 4. Los padres, las madres, los tutores y las tutoras legales deberán participar y apoyar la evolución del proceso educativo de sus hijos, hijas, tutelados o tuteladas, así como conocer las decisiones relativas a la evaluación y colaborar en las medidas que adopten los centros para facilitar su progreso educativo.
-
 
 #### Artículo 13. Atención a las diferencias individuales.
 
@@ -228,7 +214,6 @@ h) Promover, aplicar y desarrollar las normas sociales que fomentan la igualda
 
 6. Las administraciones educativas podrán incorporar a su oferta educativa las lenguas de signos españolas.
 
-
 #### Artículo 14. Autonomía de los centros.
 
 1. Las administraciones educativas fomentarán la autonomía pedagógica y organizativa de los centros, favorecerán el trabajo en equipo del profesorado y su actividad investigadora a partir de la práctica educativa.
@@ -241,7 +226,6 @@ h) Promover, aplicar y desarrollar las normas sociales que fomentan la igualda
 
 5. Con objeto de respetar la responsabilidad fundamental de las madres, padres, tutoras o tutores legales, en esta etapa, los centros de Educación Infantil cooperarán estrechamente con ellos, para lo cual arbitrarán las medidas correspondientes.
 
-
 #### Disposición adicional primera. Enseñanzas de religión.
 
 1. Las enseñanzas de religión se incluirán en el segundo ciclo de la Educación Infantil, de acuerdo con lo establecido en la disposición adicional segunda de la Ley Orgánica 2/2006, de 3 de mayo, de Educación.
@@ -252,25 +236,21 @@ h) Promover, aplicar y desarrollar las normas sociales que fomentan la igualda
 
 4. La determinación del currículo de las enseñanzas de religión católica y de las diferentes confesiones religiosas con las que el Estado ha suscrito acuerdos de cooperación en materia educativa será competencia, respectivamente, de la jerarquía eclesiástica y de las correspondientes autoridades religiosas.
 
-
 #### Disposición adicional segunda. Enseñanzas del sistema educativo español impartidas en lenguas extranjeras.
 
 1. Las administraciones educativas podrán establecer el uso de metodologías de aprendizaje integrado de contenidos y lenguas extranjeras, sin que ello suponga modificación de los aspectos básicos regulados en el presente real decreto. En este caso, procurarán que a lo largo de la etapa el alumnado desarrolle de manera equilibrada su competencia en las distintas lenguas.
 
 2. El hecho de que los centros impartan sus enseñanzas conforme a lo previsto en el apartado anterior en ningún caso podrá suponer modificación de los criterios para la admisión del alumnado establecidos en el artículo 86 de la Ley Orgánica 2/2006, de 3 de mayo.
 
-
 #### Disposición transitoria única. Aplicación del Real Decreto 1630/2006, de 29 de diciembre, por el que se establecen las enseñanzas mínimas del segundo ciclo de Educación infantil.
 
 El Real Decreto 1630/2006, de 29 de diciembre, por el que se establecen las enseñanzas mínimas del segundo ciclo de Educación infantil, mantendrá sus efectos y será de aplicación hasta el fin del curso escolar 2021-2022.
-
 
 #### Disposición derogatoria única. Derogación normativa.
 
 1. Queda derogado el Real Decreto 1630/2006, de 29 de diciembre, por el que se establecen las enseñanzas mínimas del segundo ciclo de Educación infantil, sin perjuicio de lo establecido en la disposición transitoria única de este real decreto.
 
 2. Quedan derogadas las demás normas de igual o inferior rango en cuanto se opongan a lo establecido en este real decreto.
-
 
 #### Disposición final primera. Título competencial.
 
@@ -280,20 +260,15 @@ Los criterios de evaluación y los saberes básicos del primer ciclo, recogidos 
 
 El anexo III carece del carácter de normativa básica.
 
-
 #### Disposición final segunda. Aplicación.
 
 Corresponde a la persona titular del Ministerio de Educación y Formación Profesional dictar, en el ámbito de sus competencias, cuantas disposiciones sean precisas para la ejecución y aplicación de lo establecido en este real decreto, sin perjuicio de las competencias que corresponden a las comunidades autónomas.
-
 
 #### Disposición final tercera. Calendario de implantación.
 
 El contenido del presente real decreto se implantará en el curso escolar 2022-2023.
 
-
 #### Disposición final cuarta. Entrada en vigor.
-
-El presente real decreto entrará en vigor el día siguiente al de su publicación en el «Boletín Oficial del Estado».
 
 Dado en Madrid, el 1 de febrero de 2022.
 
@@ -449,9 +424,7 @@ En las primeras etapas, el niño o la niña comienza a percibirse como diferente
 
 El reconocimiento y aprecio hacia la pluralidad sociocultural del aula se debe fomentar mediante actividades y juegos que pongan en valor las distintas costumbres y tradiciones y favorezcan la comunicación asertiva de las necesidades propias y la escucha activa de las de los otros en procesos coeducativos y cooperativos. En la misma línea, la interacción con otros niños y niñas con necesidades sensoriales, físicas o cognitivas favorecerá el desarrollo de una perspectiva que les permita entender que la inclusión es enriquecedora De esta manera, el alumnado va integrando herramientas para ofrecer y pedir ayuda y resolver conflictos de manera dialogada, con el fin de alcanzar una meta común. Todo ello refuerza el sentido de pertenencia a un grupo, contribuye a aprender a vivir en armonía con las otras personas y favorece el trabajo en equipo.
 
-
 **Primer ciclo**
-
 
 **Criterios de evaluación**
 
@@ -551,9 +524,7 @@ D. Interacción socioemocional en el entorno. La vida junto a los demás.
 
 – Celebraciones, costumbres y tradiciones étnico-culturales presentes en el entorno.
 
-
 **Segundo ciclo**
-
 
 **Criterios de evaluación**
 
@@ -703,9 +674,7 @@ El entorno próximo es el primer contexto con el que se relacionan niños y niñ
 
 Este proceso de descubrimiento y conocimiento progresivo del entorno deberá orientarse hacia el desarrollo de una incipiente conciencia de conservación para que, desde estas primeras edades, se comprenda la implicación y la responsabilidad de todos en el respeto y el cuidado del medio. A lo largo de la etapa, irán adoptando e incorporando en sus rutinas diarias hábitos para el desarrollo sostenible, como el consumo responsable o el cuidado y protección de la naturaleza y los animales que la habitan. Ello contribuirá a que, de manera paulatina, aprendan a valorar las oportunidades que ofrece el medioambiente y todo aquello que hace posible la vida en el planeta.
 
-
 **Primer ciclo**
-
 
 **Criterios de evaluación**
 
@@ -767,9 +736,7 @@ C. Indagación en el medio físico y natural: cuidado, valoración y respeto.
 
 – Respeto por el patrimonio cultural presente en el medio físico.
 
-
 **Segundo ciclo**
-
 
 **Criterios de evaluación**
 
@@ -917,9 +884,7 @@ La riqueza plurilingüe del aula –y, en su caso, el aprendizaje de lenguas ext
 
 De todo ello se espera que surja un diálogo lleno de matices entre las diferentes lenguas y manifestaciones culturales que generará un amplio abanico de conocimientos implícitos. En ese proceso, las palabras actuarán como nexo de unión desde el que enriquecer el bagaje cultural y desarrollar la sensibilidad y la creatividad, ofreciendo a la infancia, simultáneamente, la llave de acceso a una ciudadanía crítica, solidaria, igualitaria y comprometida con la sociedad.
 
-
 **Primer ciclo**
-
 
 **Criterios de evaluación**
 
@@ -1041,9 +1006,7 @@ H. El lenguaje y la expresión corporales.
 
 – Juegos de imitación a través de marionetas, muñecos u otros objetos de representación espontánea.
 
-
 **Segundo ciclo**
-
 
 **Criterios de evaluación**
 

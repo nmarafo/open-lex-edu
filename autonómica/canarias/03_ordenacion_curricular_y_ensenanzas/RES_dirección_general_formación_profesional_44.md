@@ -31,9 +31,6 @@ fuente_pdf_oficial: https://sede.gobiernodecanarias.org/boc/boc-a-2024-226-3747.
 
 # Resolución de 30 de octubre de 2024, de la Dirección General de Formación Profesional y Enseñanzas de Régimen Especial, por la que se dictan instrucciones y orientaciones para la implantación y desarrollo de los grados de formación D y E, a partir del curso escolar 2024/2025, y se establece la distribución horaria y modular de los currículos, en el ámbito de la Comunidad Autónoma de Canarias.
 
-https://sede.gobiernodecanarias.org/boc
-boc-a-2024-226-3747
-Boletín Oficial de Canarias núm. 226 Miércoles 13 de noviembre de 202438819
 III. Otras Resoluciones
 Consejería de Educación, Formación Profesional, Actividad Física y Deportes
 3747 Dirección General de Formación Profesional y Enseñanzas de Régimen Especial.- 
@@ -78,9 +75,6 @@ a los cursos de segundo de los ciclos formativos de grado básico, grado medio y
 manteniéndose vigentes los currículos y planes de estudios, hasta su extinción gradual 
 conforme al calendario de implantación del nuevo Sistema de Formación Profesional.
 
-https://sede.gobiernodecanarias.org/boc
-boc-a-2024-226-3747
-Boletín Oficial de Canarias núm. 226 Miércoles 13 de noviembre de 202438820
 Tercero.- Con la implantación del Sistema de Formación Profesional establecido por 
 la LOOIFP, surge la necesidad de concretar determinados aspectos para la implantación y 
 desarrollo de las ofertas de Grado D y E en la Comunidad Autónoma de Canarias.
@@ -127,9 +121,6 @@ ordenación e integración de la Formación Profesional:
 de Grado D, en los términos establecidos en el artículo 40 de la Ley Orgánica. A lo largo de 
 los dos años siguientes, y en el marco temporal del calendario establecido por el presente 
 
-https://sede.gobiernodecanarias.org/boc
-boc-a-2024-226-3747
-Boletín Oficial de Canarias núm. 226 Miércoles 13 de noviembre de 202438821
 real decreto, se completará su implantación, y se extinguirán los currículos correspondientes 
 de los actuales ciclos formativos”.
 En el mismo sentido, el artículo 12 del citado Real Decreto 278/2023 establece:
@@ -169,9 +160,6 @@ Deportes para general conocimiento. Se encomienda a los equipos directivos de lo
 docentes que desarrollen el procedimiento más adecuado para que la presente Resolución 
 sea conocida y difundida entre los distintos sectores de la comunidad educativa.
 
-https://sede.gobiernodecanarias.org/boc
-boc-a-2024-226-3747
-Boletín Oficial de Canarias núm. 226 Miércoles 13 de noviembre de 202438822
 Contra el presente acto, que no pone fin a la vía administrativa, cabe interponer recurso 
 de alzada ante la Viceconsejería de Formación Profesional y Cualificaciones Profesionales, 
 en el plazo de un (1) mes, a contar desde el día siguiente al de su publicación en la web 
@@ -180,9 +168,6 @@ perjuicio de cualquier otro que se estime procedente interponer.
 Las Palmas de Gran Canaria, a 30 de octubre de 2024.- La Directora General de 
 Formación Profesional y Enseñanzas de Régimen Especial, Carolina León Martínez.
 
-https://sede.gobiernodecanarias.org/boc
-boc-a-2024-226-3747
-Boletín Oficial de Canarias núm. 226 Miércoles 13 de noviembre de 202438823
 ANEXO I
 INSTRUCCIONES PARA LA IMPLANTACIÓN Y DESARROLLO DE LOS GRADOS 
 DE FORMACIÓN D, NIVELES 2 (CICLOS FORMATIVOS DE GRADO MEDIO), Y 3 
@@ -223,9 +208,6 @@ como Anexos V del Real Decreto 659/2023, de 18 de julio.
 2. El profesorado que imparta dichos módulos deberá adaptar el currículo al sector 
 productivo en el que se incardine cada ciclo formativo.
 
-https://sede.gobiernodecanarias.org/boc
-boc-a-2024-226-3747
-Boletín Oficial de Canarias núm. 226 Miércoles 13 de noviembre de 202438824
 3. En cumplimiento de lo establecido en el artículo 158 del Real Decreto 659/2023, de 
 18 de julio, antes de iniciar el periodo de formación en empresa, el alumnado deberá haber 
 adquirido las competencias y los contenidos relativos a riesgos específicos y las medidas de 
@@ -265,9 +247,6 @@ tenidas en cuenta en la calificación final del módulo.
 4. La impartición del módulo de Inglés profesional en los ciclos de grado medio y 
 superior se atribuye al profesorado de la especialidad de Inglés.
 
-https://sede.gobiernodecanarias.org/boc
-boc-a-2024-226-3747
-Boletín Oficial de Canarias núm. 226 Miércoles 13 de noviembre de 202438825
 5. El alumnado que haya superado el módulo profesional Inglés (código 0156) de 
 un ciclo formativo derivado de la Ley Orgánica 2/2006, de 3 de mayo, de Educación, se 
 considerará que tiene superado el módulo de Inglés profesional (código 0156), trasladándose 
@@ -312,9 +291,6 @@ LOGSE de Lengua
 Extranjera, de acuerdo con lo dispuesto en el Anexo II del Real Decreto 1085/2020, de 9 de 
 diciembre, por el que se establecen convalidaciones de módulos profesionales de los títulos 
 
-https://sede.gobiernodecanarias.org/boc
-boc-a-2024-226-3747
-Boletín Oficial de Canarias núm. 226 Miércoles 13 de noviembre de 202438826
 de Formación Profesional del sistema educativo español y las medidas para su aplicación, y 
 se modifica el Real Decreto 1147/2011, de 29 de julio, por el que se establece la ordenación 
 general de la formación profesional del sistema educativo, siempre que la lengua extranjera 
@@ -358,9 +334,6 @@ Decreto 499/2024, de 21 de mayo, por el que se modifican determinados reales dec
 por los que se establecen títulos de Formación Profesional de grado medio y se fijan sus 
 enseñanzas mínimas.
 
-https://sede.gobiernodecanarias.org/boc
-boc-a-2024-226-3747
-Boletín Oficial de Canarias núm. 226 Miércoles 13 de noviembre de 202438827
 2. En los ciclos de grado superior se sustituye el módulo de Proyecto, que pasa a 
 denominarse Proyecto intermodular, manteniendo el resto de la denominación, número 
 de código específico y currículo que tuviera en cada uno de los reales decretos afectados. 
@@ -398,9 +371,6 @@ con código 0180b:
 En estos casos se considerará superado el módulo con código 0180, Segunda lengua 
 extranjera, cuando estén superados conjuntamente el módulo 0180a y 0180b.
 
-https://sede.gobiernodecanarias.org/boc
-boc-a-2024-226-3747
-Boletín Oficial de Canarias núm. 226 Miércoles 13 de noviembre de 202438828
 3. El profesorado que imparta dicho módulo deberá adaptar el currículo al sector 
 productivo en el que se incardina el ciclo formativo, especialmente en lo concerniente al 
 vocabulario técnico y los intercambios comunicativos más frecuentes, facilitando con ello 
@@ -442,9 +412,6 @@ ofertadas por los Centros educativos:
 3. Módulo optativo de diseño propio.
 4. Módulo de Profundización en Idioma extranjero profesional (Inglés).
 
-https://sede.gobiernodecanarias.org/boc
-boc-a-2024-226-3747
-Boletín Oficial de Canarias núm. 226 Miércoles 13 de noviembre de 202438829
 3. Opción consistente en microacreditaciones de la misma familia profesional.
 3.1. Esta opción, que deberá ofertarse preceptivamente por los Centros Educativos, se 
 compone de microacreditaciones o acreditaciones parciales de competencia.
@@ -483,9 +450,6 @@ realizadas no serán tenidas en cuenta en la calificación final del módulo.
 (Inglés) en los ciclos de grado medio y superior se atribuye al profesorado de la especialidad 
 de Inglés.
 
-https://sede.gobiernodecanarias.org/boc
-boc-a-2024-226-3747
-Boletín Oficial de Canarias núm. 226 Miércoles 13 de noviembre de 202438830
 7. Reconocimiento de formaciones no formales.
 7.1. Se considerarán formaciones no formales los procesos de formación estructurados 
 que no conduzcan a una titulación, acreditación o certificación oficial.
@@ -526,9 +490,6 @@ alcanzada por el alumnado en idioma extranjero (Inglés) será tenida en cuenta 
 evaluación de los módulos a efectos de mejorar los resultados, no pudiendo ser considerada 
 como elemento negativo para la calificación.
 
-https://sede.gobiernodecanarias.org/boc
-boc-a-2024-226-3747
-Boletín Oficial de Canarias núm. 226 Miércoles 13 de noviembre de 202438831
 4. En el expediente académico del alumnado se hará constar que ha cursado el ciclo 
 formativo de grado medio y superior en modalidad bilingüe.
 5. El profesorado que asuma la docencia de los módulos profesionales en oferta 
@@ -571,9 +532,6 @@ se estimen convenientes.
 1.4. La superación de un ciclo formativo de grado medio y superior requerirá la 
 evaluación positiva en todos los módulos profesionales y proyecto que lo componen.
 
-https://sede.gobiernodecanarias.org/boc
-boc-a-2024-226-3747
-Boletín Oficial de Canarias núm. 226 Miércoles 13 de noviembre de 202438832
 1.5. Las sesiones de evaluación se realizarán conforme a la normativa vigente para 
 la Comunidad Autónoma de Canarias hasta la actualización de la misma, valorándose el 
 progreso del alumnado en la consecución de la competencia general del ciclo, los resultados 
@@ -614,9 +572,6 @@ no supongan en su conjunto más del veinte por ciento de la carga horaria del pr
 • Excepcionalmente, el equipo docente podrá decidir la promoción cuando se trate de 
 un solo módulo, aun cuando exceda el veinte por ciento establecido en el apartado anterior.
 
-https://sede.gobiernodecanarias.org/boc
-boc-a-2024-226-3747
-Boletín Oficial de Canarias núm. 226 Miércoles 13 de noviembre de 202438833
 3.2. En todo caso, el alumnado que promocione de curso con módulos pendientes 
 recibirá un informe de actividades de recuperación, donde se informará de los resultados 
 de aprendizaje no alcanzados, las actividades programadas para su recuperación, así como 
@@ -655,9 +610,6 @@ si no fuera posible, por mayoría del profesorado que imparte clase al alumnado.
 grado medio o superior recibirán una certificación académica de los módulos profesionales 
 superados.
 
-https://sede.gobiernodecanarias.org/boc
-boc-a-2024-226-3747
-Boletín Oficial de Canarias núm. 226 Miércoles 13 de noviembre de 202438834
 Decimocuarta.- Transición entre planes de estudio.
 1. De acuerdo con el calendario establecido en el artículo 11 del Real Decreto 278/2023, 
 de 11 de abril, por el que se establece el calendario de implantación del Sistema de Formación 
@@ -702,9 +654,6 @@ Ordenación  de  acuerdo  con  Real  Decreto
 Lengua extranjera (Inglés)
 0156. Inglés profesional (GM) 0156. Inglés
 
-https://sede.gobiernodecanarias.org/boc
-boc-a-2024-226-3747
-Boletín Oficial de Canarias núm. 226 Miércoles 13 de noviembre de 202438835
 5. A partir del 1 de septiembre de 2026, el alumnado deberá cursar la totalidad de 
 los módulos profesionales y proyecto intermodular establecido en la nueva ordenación 
 académica, aplicando, en sentido inverso, la misma tabla de convalidaciones incluida en la 
@@ -742,9 +691,6 @@ la Comunidad Autónoma de Canarias, el módulo profesional de Formación y orien
 laboral de los ciclos formativos de grado medio y grado superior de las enseñanzas de 
 formación profesional establecidas en la Ley Orgánica 2/2006, de 3 de mayo, de Educación.
 
-https://sede.gobiernodecanarias.org/boc
-boc-a-2024-226-3747
-Boletín Oficial de Canarias núm. 226 Miércoles 13 de noviembre de 202438836
 ANEXO II
 INSTRUCCIONES PARA LA IMPLANTACIÓN Y DESARROLLO DE LOS GRADOS 
 DE FORMACIÓN D DE NIVEL 1 (CICLOS FORMATIVOS DE GRADO BÁSICO), A 
@@ -783,9 +729,6 @@ recoge en el Decreto 9/2023, de 26 de enero, y es común para todos los ciclos f
 grado básico, sin perjuicio de la obligatoriedad del profesorado que lo imparta de adaptarlo 
 al sector productivo concreto en el que se incardine la especialidad del ciclo.
 
-https://sede.gobiernodecanarias.org/boc
-boc-a-2024-226-3747
-Boletín Oficial de Canarias núm. 226 Miércoles 13 de noviembre de 202438837
 2. En cumplimiento de lo establecido en el apartado 3 del artículo 88, del Real 
 Decreto 659/2023, de 18 de julio, antes de iniciar el periodo de formación en empresa 
 u organismo equiparado, el alumnado deberá haber adquirido las competencias y los contenidos 
@@ -828,9 +771,6 @@ que imparten módulos específicos del ciclo formativo, de conformidad con el ar
 octavo del Real Decreto 498/2024, de 21 de mayo, que además asumirá las funciones de 
 tutor o tutora del grupo.
 
-https://sede.gobiernodecanarias.org/boc
-boc-a-2024-226-3747
-Boletín Oficial de Canarias núm. 226 Miércoles 13 de noviembre de 202438838
 Sexta.- Tutoría.
 1. La acción tutorial se destinará a la orientación académica, profesional y personal. 
 La tutoría deberá entenderse como un acompañamiento personalizado del alumnado en su 
@@ -871,9 +811,6 @@ en cuanto a calificación, expresadas en los párrafos siguientes.
 3. Para los ciclos formativos de Grado Básico con las modificaciones derivadas de la 
 aplicación del Real Decreto 659/2023, de 18 de julio:
 
-https://sede.gobiernodecanarias.org/boc
-boc-a-2024-226-3747
-Boletín Oficial de Canarias núm. 226 Miércoles 13 de noviembre de 202438839
 • La calificación de los módulos profesionales, continuará siendo numérica del 1 al 
 10 sin decimales, considerándose superado un módulo cuando se obtenga una calificación 
 igual o superior a cinco.
@@ -915,9 +852,6 @@ y Ciencias aplicadas) o algún módulo profesional de primero, deberá seguir lo
 refuerzo que establezca el equipo docente y superar las evaluaciones correspondientes, 
 conforme al currículo del plan de estudios a extinguir.
 
-https://sede.gobiernodecanarias.org/boc
-boc-a-2024-226-3747
-Boletín Oficial de Canarias núm. 226 Miércoles 13 de noviembre de 202438840
 Cuando el alumnado no promocione deberá matricularse y cursar, nuevamente, todos 
 los ámbitos conforme a los nuevos planes. No obstante, los módulos profesionales y ámbitos 
 comunes superados con anterioridad mantendrán la calificación obtenida, y el alumnado 
@@ -962,9 +896,6 @@ profesional básica en centros educativos de la Comunidad Autónoma de Canarias,
 hayan obtenido el título de formación básica de las enseñanzas de formación profesional 
 establecidas en la Ley Orgánica 2/2006, de 3 de mayo, de Educación.
 
-https://sede.gobiernodecanarias.org/boc
-boc-a-2024-226-3747
-Boletín Oficial de Canarias núm. 226 Miércoles 13 de noviembre de 202438841
 ANEXO III
 INSTRUCCIONES PARA LA IMPLANTACIÓN Y DESARROLLO DE LOS GRADOS 
 DE FORMACIÓN E, NIVELES 2 (ESPECIALISTA), Y 3 (MÁSTER), A PARTIR DEL 
@@ -1004,9 +935,6 @@ momento en el que sea necesario. Este documento se revisará en la siguiente ses
 evaluación a fin de valorar la evolución realizada e introducir las propuestas de mejora que 
 se estimen convenientes.
 
-https://sede.gobiernodecanarias.org/boc
-boc-a-2024-226-3747
-Boletín Oficial de Canarias núm. 226 Miércoles 13 de noviembre de 202438842
 1.3. La superación del curso de especialización se producirá cuando los módulos 
 profesionales que lo componen, con sus respectivos resultados de aprendizaje, tengan 
 evaluación positiva, o bien el equipo docente, de manera colegiada, considere que se han 
@@ -1041,9 +969,6 @@ escolar para cada curso. En esta sesión se tomará la decisión para:
 • Alumnado que no titula en el curso de especialización, por no tener todos los módulos 
 superados.
 
-https://sede.gobiernodecanarias.org/boc
-boc-a-2024-226-3747
-Boletín Oficial de Canarias núm. 226 Miércoles 13 de noviembre de 202438843
 3. Calificación.
 3.1. La expresión de la calificación para cada módulo profesional responderá 
 a lo establecido en el artículo 18.8 del Real Decreto 659/2023, de 18 de julio, y será, 
@@ -1076,9 +1001,6 @@ correspondiente.
 5.3. El alumnado que no supere la totalidad de las enseñanzas del curso de especialización 
 recibirá un certificado del centro.
 
-https://sede.gobiernodecanarias.org/boc
-boc-a-2024-226-3747
-Boletín Oficial de Canarias núm. 226 Miércoles 13 de noviembre de 202438844
 ANEXO IV
 ORIENTACIONES REFERIDAS A LA ADAPTACIÓN DEL CURRÍCULO AL 
 ENTORNO SOCIO-PRODUCTIVO DE CANARIAS Y LA METODOLOGÍA EN LAS 
@@ -1120,9 +1042,6 @@ trate. Debe ser flexible y abierta, basada en el desarrollo del autoaprendizaje 
 alumnado, adaptándose sus condiciones, capacidades y necesidades personales permitiendo 
 simultanear los procesos de aprendizaje con otro tipo de actividades y responsabilidades.
 
-https://sede.gobiernodecanarias.org/boc
-boc-a-2024-226-3747
-Boletín Oficial de Canarias núm. 226 Miércoles 13 de noviembre de 202438845
 2. En los Ciclos Formativos de Grado Básico, los docentes prestarán especial atención 
 a lo dictado sobre esta materia en el Decreto 9/2023, de 26 de enero, por el que se regula y 
 establece el currículo de veintitrés Ciclos Formativos de Grado Básico en el ámbito de la 
@@ -1157,9 +1076,6 @@ equiparado, el equipo docente deberá trabajar con el alumnado, empleando estas 
 retos o necesidades del entorno previamente planificado por el profesorado de los módulos 
 profesionales correspondientes.
 
-boc-a-2024-226-3747
-Boletín Oficial de Canarias núm. 226 Miércoles 13 de noviembre de 202438846
-https://sede.gobiernodecanarias.org/boc
 ANEXO V
 DISTRIBUCIÓN HORARIA Y ESTRUCTURA MODULAR DE LOS GRADOS D, NIVEL 1 
 (CICLOS FORMATIVOS DE GRADO BÁSICO)
@@ -1183,7 +1099,6 @@ h/sem h/sem
 Comunicación 
 y ciencias 
 sociales I
-3161
 Lengua castellana  y Ciencias sociales  132 4
 Lengua extranjera de iniciación profesional 66 2
 Ciencias 
@@ -1200,7 +1115,6 @@ DURACIÓN TOTAL DEL PRIMER CURSO 1000 30
 Comunicación 
 y ciencias 
 sociales II
-3162
 Lengua castellana  y Ciencias sociales 66 2
 Lengua extranjera de iniciación profesional 66 2
 Ciencias 
@@ -1221,9 +1135,6 @@ ANEXO V
 DISTRIBUCIÓN HORARIA Y ESTRUCTURA MODULAR DE LOS GRADOS D, 
 NIVEL 1 (CICLOS FORMATIVOS DE GRADO BÁSICO)
 
-boc-a-2024-226-3747
-Boletín Oficial de Canarias núm. 226 Miércoles 13 de noviembre de 202438847
-https://sede.gobiernodecanarias.org/boc
 CICLO FORMATIVO DE GRADO BÁSICO EN
 SERVICIOS ADMINISTRATIVOS (12342101)
 Distribución horaria semanal por cursos.
@@ -1244,7 +1155,6 @@ h/sem h/sem
 Comunicación 
 y ciencias 
 sociales I
-3161
 Lengua castellana  y Ciencias sociales  132 4
 Lengua extranjera de iniciación profesional 66 2
 Ciencias 
@@ -1262,7 +1172,6 @@ DURACIÓN TOTAL DEL PRIMER CURSO 1000 30
 Comunicación 
 y ciencias 
 sociales II
-3162
 Lengua castellana  y Ciencias sociales 66 2
 Lengua extranjera de iniciación profesional 66 2
 Ciencias 
@@ -1279,9 +1188,6 @@ DURACIÓN TOTAL DEL SEGUNDO CURSO 1000 30
 DURACIÓN TOTAL DEL CICLO 2000
 *Módulos comunes a otros ciclos formativos de grado básico.
 
-boc-a-2024-226-3747
-Boletín Oficial de Canarias núm. 226 Miércoles 13 de noviembre de 202438848
-https://sede.gobiernodecanarias.org/boc
 CICLO FORMATIVO DE GRADO BÁSICO EN
 ACTIVIDADES AGROPECUARIAS (12340102)
 Distribución horaria semanal por cursos.
@@ -1302,7 +1208,6 @@ h/sem h/sem
 Comunicación 
 y ciencias 
 sociales I
-3161
 Lengua castellana  y Ciencias sociales 132 4
 Lengua extranjera de iniciación profesional 66 2
 Ciencias 
@@ -1322,7 +1227,6 @@ DURACIÓN TOTAL DEL PRIMER CURSO 1000 30
 Comunicación 
 y ciencias 
 sociales II
-3162
 Lengua castellana  y Ciencias sociales 66 2
 Lengua extranjera de iniciación profesional 66 2
 Ciencias 
@@ -1342,9 +1246,6 @@ DURACIÓN TOTAL DEL SEGUNDO CURSO 1000 30
 DURACIÓN TOTAL DEL CICLO 2000
 *Módulos comunes a otros ciclos formativos de grado básico.
 
-boc-a-2024-226-3747
-Boletín Oficial de Canarias núm. 226 Miércoles 13 de noviembre de 202438849
-https://sede.gobiernodecanarias.org/boc
 CICLO FORMATIVO DE GRADO BÁSICO EN
 AGRO-JARDINERÍA Y COMPOSICIONES FLORALES (12340101)
 Distribución horaria semanal por cursos.
@@ -1365,7 +1266,6 @@ h/sem h/sem
 Comunicación 
 y ciencias 
 sociales I
-3161
 Lengua castellana  y Ciencias sociales  132 4
 Lengua extranjera de iniciación profesional 66 2
 Ciencias 
@@ -1377,7 +1277,6 @@ Profesional
 tratamientos en cultivos 135 4
 3051 Operaciones auxiliares de preparación del 
 terreno, plantación y siembra de cultivos* 135 4
-3053
 Operaciones básicas de producción y 
 mantenimiento de plantas en viveros y 
 centros de jardinería*
@@ -1389,7 +1288,6 @@ DURACIÓN TOTAL DEL PRIMER CURSO 1000 30
 Comunicación 
 y ciencias 
 sociales II
-3162
 Lengua castellana  y Ciencias sociales 66 2
 Lengua extranjera de iniciación profesional 66 2
 Ciencias 
@@ -1409,9 +1307,6 @@ DURACIÓN TOTAL DEL SEGUNDO CURSO 1000 30
 DURACIÓN TOTAL DEL CICLO 2000
 *Módulos comunes a otros ciclos formativos de grado básico.
 
-boc-a-2024-226-3747
-Boletín Oficial de Canarias núm. 226 Miércoles 13 de noviembre de 202438850
-https://sede.gobiernodecanarias.org/boc
 CICLO FORMATIVO DE GRADO BÁSICO EN
 APROVECHAMIENTOS FORESTALES (12340103)
 Distribución horaria semanal por cursos.
@@ -1432,7 +1327,6 @@ h/sem h/sem
 Comunicación 
 y ciencias 
 sociales I
-3161
 Lengua castellana  y Ciencias sociales 132 4
 Lengua extranjera de iniciación profesional 66 2
 Ciencias 
@@ -1440,7 +1334,6 @@ aplicadas I 3163
 Matemáticas aplicadas y Ciencias aplicadas 132 4
 Actividad física y bienestar emocional 66 2
 Profesional
-3053
 Operaciones básicas de producción y 
 mantenimiento de plantas en viveros y 
 centros de jardinería*
@@ -1455,7 +1348,6 @@ DURACIÓN TOTAL DEL PRIMER CURSO 1000 30
 Comunicación 
 y ciencias 
 sociales II
-3162
 Lengua castellana  y Ciencias sociales 66 2
 Lengua extranjera de iniciación profesional 66 2
 Ciencias 
@@ -1471,9 +1363,6 @@ DURACIÓN TOTAL DEL SEGUNDO CURSO 1000 30
 DURACIÓN TOTAL DEL CICLO 2000
 *Módulos comunes a otros ciclos formativos de grado básico.
 
-boc-a-2024-226-3747
-Boletín Oficial de Canarias núm. 226 Miércoles 13 de noviembre de 202438851
-https://sede.gobiernodecanarias.org/boc
 CICLO FORMATIVO DE GRADO BÁSICO EN
 ARTES GRÁFICAS (12341801)
 Distribución horaria semanal por cursos.
@@ -1494,7 +1383,6 @@ h/sem h/sem
 Comunicación 
 y ciencias 
 sociales I
-3161
 Lengua castellana  y Ciencias sociales  132 4
 Lengua extranjera de iniciación profesional 66 2
 Ciencias 
@@ -1514,7 +1402,6 @@ DURACIÓN TOTAL DEL PRIMER CURSO 1000 30
 Comunicación 
 y ciencias 
 sociales II
-3162
 Lengua castellana  y Ciencias sociales 66 2
 Lengua extranjera de iniciación profesional 66 2
 Ciencias 
@@ -1532,9 +1419,6 @@ DURACIÓN TOTAL DEL SEGUNDO CURSO 1000 30
 DURACIÓN TOTAL DEL CICLO 2000
 *Módulos comunes a otros ciclos formativos de grado básico.
 
-boc-a-2024-226-3747
-Boletín Oficial de Canarias núm. 226 Miércoles 13 de noviembre de 202438852
-https://sede.gobiernodecanarias.org/boc
 CICLO FORMATIVO DE GRADO BÁSICO
 EN SERVICIOS COMERCIALES (12342201)
 Distribución horaria semanal por cursos.
@@ -1555,7 +1439,6 @@ h/sem h/sem
 Comunicación 
 y ciencias 
 sociales I
-3161
 Lengua castellana  y Ciencias sociales  132 4
 Lengua extranjera de iniciación profesional 66 2
 Ciencias 
@@ -1573,7 +1456,6 @@ DURACIÓN TOTAL DEL PRIMER CURSO 1000 30
 Comunicación 
 y ciencias 
 sociales II
-3162
 Lengua castellana  y Ciencias sociales 66 2
 Lengua extranjera de iniciación profesional 66 2
 Ciencias 
@@ -1590,9 +1472,6 @@ DURACIÓN TOTAL DEL SEGUNDO CURSO 1000 30
 DURACIÓN TOTAL DEL CICLO 2000
 *Módulos comunes a otros ciclos formativos de grado básico.
 
-boc-a-2024-226-3747
-Boletín Oficial de Canarias núm. 226 Miércoles 13 de noviembre de 202438853
-https://sede.gobiernodecanarias.org/boc
 CICLO FORMATIVO DE GRADO BÁSICO EN
 REFORMA Y MANTENIMIENTO DE EDIFICIOS (12341401)
 Distribución horaria semanal por cursos.
@@ -1613,7 +1492,6 @@ h/sem h/sem
 Comunicación 
 y ciencias 
 sociales I
-3161
 Lengua castellana  y Ciencias sociales  132 4
 Lengua extranjera de iniciación profesional 66 2
 Ciencias 
@@ -1631,7 +1509,6 @@ DURACIÓN TOTAL DEL PRIMER CURSO 1000 30
 Comunicación 
 y ciencias 
 sociales II
-3162
 Lengua castellana  y Ciencias sociales 66 2
 Lengua extranjera de iniciación profesional 66 2
 Ciencias 
@@ -1649,9 +1526,6 @@ DURACIÓN TOTAL DEL SEGUNDO CURSO 1000 30
 DURACIÓN TOTAL DEL CICLO 2000
 *Módulos comunes a otros ciclos formativos de grado básico.
 
-boc-a-2024-226-3747
-Boletín Oficial de Canarias núm. 226 Miércoles 13 de noviembre de 202438854
-https://sede.gobiernodecanarias.org/boc
 CICLO FORMATIVO DE GRADO BÁSICO EN
 ELECTRICIDAD Y ELECTRÓNICA (12341001)
 Distribución horaria semanal por cursos.
@@ -1672,7 +1546,6 @@ h/sem h/sem
 Comunicación 
 y ciencias 
 sociales I
-3161
 Lengua castellana  y Ciencias sociales 132 4
 Lengua extranjera de iniciación profesional 66 2
 Ciencias 
@@ -1688,7 +1561,6 @@ DURACIÓN TOTAL DEL PRIMER CURSO 1000 30
 Comunicación 
 y ciencias 
 sociales II
-3162
 Lengua castellana  y Ciencias sociales 66 2
 Lengua extranjera de iniciación profesional 66 2
 Ciencias 
@@ -1705,9 +1577,6 @@ DURACIÓN TOTAL DEL SEGUNDO CURSO 1000 30
 DURACIÓN TOTAL DEL CICLO 2000
 *Módulos comunes a otros ciclos formativos de grado básico.
 
-boc-a-2024-226-3747
-Boletín Oficial de Canarias núm. 226 Miércoles 13 de noviembre de 202438855
-https://sede.gobiernodecanarias.org/boc
 CICLO FORMATIVO DE GRADO BÁSICO EN
 FABRICACIÓN DE ELEMENTOS METÁLICOS (12340802)
 Distribución horaria semanal por cursos.
@@ -1728,7 +1597,6 @@ h/sem h/sem
 Comunicación 
 y ciencias 
 sociales I 
-3161
 Lengua castellana  y Ciencias sociales 132 4
 Lengua extranjera de iniciación profesional 66 2
 Ciencias 
@@ -1745,7 +1613,6 @@ DURACIÓN TOTAL DEL PRIMER CURSO 1000 30
 Comunicación 
 y ciencias 
 sociales II
-3162
 Lengua castellana  y Ciencias sociales 66 2
 Lengua extranjera de iniciación profesional 66 2
 Ciencias 
@@ -1761,9 +1628,6 @@ DURACIÓN TOTAL DEL SEGUNDO CURSO 1000 30
 DURACIÓN TOTAL DEL CICLO 2000
 *Módulos comunes a otros ciclos formativos de grado básico.
 
-boc-a-2024-226-3747
-Boletín Oficial de Canarias núm. 226 Miércoles 13 de noviembre de 202438856
-https://sede.gobiernodecanarias.org/boc
 CICLO FORMATIVO DE GRADO BÁSICO EN
 INSTALACIONES ELECTROTÉCNICAS Y MECÁNICA (12341002)
 Distribución horaria semanal por cursos.
@@ -1784,7 +1648,6 @@ h/sem h/sem
 Comunicación 
 y ciencias 
 sociales I
-3161
 Lengua castellana  y Ciencias sociales 132 4
 Lengua extranjera de iniciación profesional 66 2
 Ciencias 
@@ -1801,7 +1664,6 @@ DURACIÓN TOTAL DEL PRIMER CURSO 1000 30
 Comunicación 
 y ciencias 
 sociales II
-3162
 Lengua castellana  y Ciencias sociales 66 2
 Lengua extranjera de iniciación profesional 66 2
 Ciencias 
@@ -1817,9 +1679,6 @@ DURACIÓN TOTAL DEL SEGUNDO CURSO 1000 30
 DURACIÓN TOTAL DEL CICLO 2000
 *Módulos comunes a otros ciclos formativos de grado básico.
 
-boc-a-2024-226-3747
-Boletín Oficial de Canarias núm. 226 Miércoles 13 de noviembre de 202438857
-https://sede.gobiernodecanarias.org/boc
 CICLO FORMATIVO DE GRADO BÁSICO EN
 FABRICACIÓN Y MONTAJE (12340801)
 Distribución horaria semanal por cursos.
@@ -1840,7 +1699,6 @@ h/sem h/sem
 Comunicación 
 y ciencias 
 sociales I
-3161
 Lengua castellana  y Ciencias sociales 132 4
 Lengua extranjera de iniciación profesional 66 2
 Ciencias 
@@ -1857,7 +1715,6 @@ DURACIÓN TOTAL DEL PRIMER CURSO 1000 30
 Comunicación 
 y ciencias 
 sociales II
-3162
 Lengua castellana  y Ciencias sociales 66 2
 Lengua extranjera de iniciación profesional 66 2
 Ciencias 
@@ -1874,9 +1731,6 @@ DURACIÓN TOTAL DEL SEGUNDO CURSO 1000 30
 DURACIÓN TOTAL DEL CICLO 2000
 *Módulos comunes a otros ciclos formativos de grado básico.
 
-boc-a-2024-226-3747
-Boletín Oficial de Canarias núm. 226 Miércoles 13 de noviembre de 202438858
-https://sede.gobiernodecanarias.org/boc
 CICLO FORMATIVO DE GRADO BÁSICO EN
 ACTIVIDADES DE PANADERÍA Y PASTELERÍA (12342403)
 Distribución horaria semanal por cursos.
@@ -1897,7 +1751,6 @@ h/sem h/sem
 Comunicación 
 y ciencias 
 sociales I
-3161
 Lengua castellana  y Ciencias sociales  132 4
 Lengua extranjera de iniciación profesional 66 2
 Ciencias 
@@ -1915,7 +1768,6 @@ DURACIÓN TOTAL DEL PRIMER CURSO 1000 30
 Comunicación 
 y ciencias 
 sociales II
-3162
 Lengua castellana  y Ciencias sociales 66 2
 Lengua extranjera de iniciación profesional 66 2
 Ciencias 
@@ -1931,9 +1783,6 @@ DURACIÓN TOTAL DEL SEGUNDO CURSO 1000 30
 DURACIÓN TOTAL DEL CICLO 2000
 *Módulos comunes a otros ciclos formativos de grado básico.
 
-boc-a-2024-226-3747
-Boletín Oficial de Canarias núm. 226 Miércoles 13 de noviembre de 202438859
-https://sede.gobiernodecanarias.org/boc
 CICLO FORMATIVO DE GRADO BÁSICO EN
 ALOJAMIENTO Y LA V ANDERÍA (12342402)
 Distribución horaria semanal por cursos.
@@ -1954,7 +1803,6 @@ h/sem h/sem
 Comunicación 
 y ciencias 
 sociales I
-3161
 Lengua castellana  y Ciencias sociales  132 4
 Lengua extranjera de iniciación profesional 66 2
 Ciencias 
@@ -1972,7 +1820,6 @@ DURACIÓN TOTAL DEL PRIMER CURSO 1000 30
 Comunicación 
 y ciencias 
 sociales II
-3162
 Lengua castellana  y Ciencias sociales 66 2
 Lengua extranjera de iniciación profesional 66 2
 Ciencias 
@@ -1992,9 +1839,6 @@ DURACIÓN TOTAL DEL SEGUNDO CURSO 1000 30
 DURACIÓN TOTAL DEL CICLO 2000
 *Módulos comunes a otros ciclos formativos de grado básico.
 
-boc-a-2024-226-3747
-Boletín Oficial de Canarias núm. 226 Miércoles 13 de noviembre de 202438860
-https://sede.gobiernodecanarias.org/boc
 CICLO FORMATIVO DE GRADO BÁSICO EN
 COCINA Y RESTAURACIÓN (12342401)
 Distribución horaria semanal por cursos.
@@ -2015,7 +1859,6 @@ h/sem h/sem
 Comunicación 
 y ciencias 
 sociales I
-3161
 Lengua castellana  y Ciencias sociales  132 4
 Lengua extranjera de iniciación profesional 66 2
 Ciencias 
@@ -2035,7 +1878,6 @@ DURACIÓN TOTAL DEL PRIMER CURSO 1000 30
 Comunicación 
 y ciencias 
 sociales II
-3162
 Lengua castellana  y Ciencias sociales 66 2
 Lengua extranjera de iniciación profesional 66 2
 Ciencias 
@@ -2053,9 +1895,6 @@ DURACIÓN TOTAL DEL SEGUNDO CURSO 1000 30
 DURACIÓN TOTAL DEL CICLO 2000
 *Módulos comunes a otros ciclos formativos de grado básico.
 
-boc-a-2024-226-3747
-Boletín Oficial de Canarias núm. 226 Miércoles 13 de noviembre de 202438861
-https://sede.gobiernodecanarias.org/boc
 CICLO FORMATIVO DE GRADO BÁSICO EN
 PELUQUERÍA Y ESTÉTICA (12340501)
 Distribución horaria semanal por cursos.
@@ -2076,7 +1915,6 @@ h/sem h/sem
 Comunicación 
 y ciencias 
 sociales I
-3161
 Lengua castellana  y Ciencias sociales  132 4
 Lengua extranjera de iniciación profesional 66 2
 Ciencias 
@@ -2095,7 +1933,6 @@ DURACIÓN TOTAL DEL PRIMER CURSO 1000 30
 Comunicación 
 y ciencias 
 sociales II
-3162
 Lengua castellana  y Ciencias sociales 66 2
 Lengua extranjera de iniciación profesional 66 2
 Ciencias 
@@ -2112,9 +1949,6 @@ DURACIÓN TOTAL DEL SEGUNDO CURSO 1000 30
 DURACIÓN TOTAL DEL CICLO 2000
 *Módulos comunes a otros ciclos formativos de grado básico.
 
-boc-a-2024-226-3747
-Boletín Oficial de Canarias núm. 226 Miércoles 13 de noviembre de 202438862
-https://sede.gobiernodecanarias.org/boc
 CICLO FORMATIVO DE GRADO BÁSICO EN
 INDUSTRIAS ALIMENTARIAS (12340301)
 Distribución horaria semanal por cursos.
@@ -2135,7 +1969,6 @@ h/sem h/sem
 Comunicación 
 y ciencias 
 sociales I
-3161
 Lengua castellana  y Ciencias sociales  132 4
 Lengua extranjera de iniciación profesional 66 2
 Ciencias 
@@ -2154,7 +1987,6 @@ DURACIÓN TOTAL DEL PRIMER CURSO 1000 30
 Comunicación 
 y ciencias 
 sociales II
-3162
 Lengua castellana  y Ciencias sociales 66 2
 Lengua extranjera de iniciación profesional 66 2
 Ciencias 
@@ -2170,9 +2002,6 @@ DURACIÓN TOTAL DEL SEGUNDO CURSO 1000 30
 DURACIÓN TOTAL DEL CICLO 2000
 *Módulos comunes a otros ciclos formativos de grado básico.
 
-boc-a-2024-226-3747
-Boletín Oficial de Canarias núm. 226 Miércoles 13 de noviembre de 202438863
-https://sede.gobiernodecanarias.org/boc
 CICLO FORMATIVO DE GRADO BÁSICO EN
 INFORMÁTICA Y COMUNICACIONES (12342001)
 Distribución horaria semanal por cursos.
@@ -2193,7 +2022,6 @@ h/sem h/sem
 Comunicación 
 y ciencias 
 sociales I
-3161
 Lengua castellana  y Ciencias sociales  132 4
 Lengua extranjera de iniciación profesional 66 2
 Ciencias 
@@ -2210,7 +2038,6 @@ DURACIÓN TOTAL DEL PRIMER CURSO 1000 30
 Comunicación 
 y ciencias 
 sociales II
-3162
 Lengua castellana  y Ciencias sociales 66 2
 Lengua extranjera de iniciación profesional 66 2
 Ciencias 
@@ -2228,9 +2055,6 @@ DURACIÓN TOTAL DEL SEGUNDO CURSO 1000 30
 DURACIÓN TOTAL DEL CICLO 2000
 *Módulos comunes a otros ciclos formativos de grado básico.
 
-boc-a-2024-226-3747
-Boletín Oficial de Canarias núm. 226 Miércoles 13 de noviembre de 202438864
-https://sede.gobiernodecanarias.org/boc
 CICLO FORMATIVO DE GRADO BÁSICO EN
 MANTENIMIENTO DE VIVIENDAS (12340901)
 Distribución horaria semanal por cursos.
@@ -2251,7 +2075,6 @@ h/sem h/sem
 Comunicación 
 y ciencias 
 sociales I
-3161
 Lengua castellana  y Ciencias sociales 132 4
 Lengua extranjera de iniciación profesional 66 2
 Ciencias 
@@ -2268,7 +2091,6 @@ DURACIÓN TOTAL DEL PRIMER CURSO 1000 30
 Comunicación 
 y ciencias 
 sociales II
-3162
 Lengua castellana  y Ciencias sociales 66 2
 Lengua extranjera de iniciación profesional 66 2
 Ciencias 
@@ -2286,9 +2108,6 @@ DURACIÓN TOTAL DEL SEGUNDO CURSO 1000 30
 DURACIÓN TOTAL DEL CICLO 2000
 *Módulos comunes a otros ciclos formativos de grado básico.
 
-boc-a-2024-226-3747
-Boletín Oficial de Canarias núm. 226 Miércoles 13 de noviembre de 202438865
-https://sede.gobiernodecanarias.org/boc
 CICLO FORMATIVO DE GRADO BÁSICO EN
 CARPINTERÍA Y MUEBLE (12341601)
 Distribución horaria semanal por cursos.
@@ -2309,7 +2128,6 @@ h/sem h/sem
 Comunicación 
 y ciencias 
 sociales I
-3161
 Lengua castellana  y Ciencias sociales 132 4
 Lengua extranjera de iniciación profesional 66 2
 Ciencias 
@@ -2327,7 +2145,6 @@ DURACIÓN TOTAL DEL PRIMER CURSO 1000 30
 Comunicación 
 y ciencias 
 sociales II
-3162
 Lengua castellana  y Ciencias sociales 66 2
 Lengua extranjera de iniciación profesional 66 2
 Ciencias 
@@ -2345,9 +2162,6 @@ DURACIÓN TOTAL DEL SEGUNDO CURSO 1000 30
 DURACIÓN TOTAL DEL CICLO 2000
 *Módulos comunes a otros ciclos formativos de grado básico.
 
-boc-a-2024-226-3747
-Boletín Oficial de Canarias núm. 226 Miércoles 13 de noviembre de 202438866
-https://sede.gobiernodecanarias.org/boc
 CICLO FORMATIVO DE GRADO BÁSICO EN
 ACTIVIDADES DOMÉSTICAS Y LIMPIEZA DE EDIFICIOS (12342301)
 Distribución horaria semanal por cursos.
@@ -2368,7 +2182,6 @@ h/sem h/sem
 Comunicación 
 y ciencias 
 sociales I
-3161
 Lengua castellana  y Ciencias sociales  132 4
 Lengua extranjera de iniciación profesional 66 2
 Ciencias 
@@ -2387,7 +2200,6 @@ DURACIÓN TOTAL DEL PRIMER CURSO 1000 30
 Comunicación 
 y ciencias 
 sociales II
-3162
 Lengua castellana  y Ciencias sociales 66 2
 Lengua extranjera de iniciación profesional 66 2
 Ciencias 
@@ -2405,9 +2217,6 @@ DURACIÓN TOTAL DEL SEGUNDO CURSO 1000 30
 DURACIÓN TOTAL DEL CICLO 2000
 *Módulos comunes a otros ciclos formativos de grado básico.
 
-boc-a-2024-226-3747
-Boletín Oficial de Canarias núm. 226 Miércoles 13 de noviembre de 202438867
-https://sede.gobiernodecanarias.org/boc
 CICLO FORMATIVO DE GRADO BÁSICO EN
 TAPICERÍA Y CORTINAJE (12341702)
 Distribución horaria semanal por cursos.
@@ -2428,7 +2237,6 @@ h/sem h/sem
 Comunicación 
 y ciencias 
 sociales I
-3161
 Lengua castellana  y Ciencias sociales  132 4
 Lengua extranjera de iniciación profesional 66 2
 Ciencias 
@@ -2446,7 +2254,6 @@ DURACIÓN TOTAL DEL PRIMER CURSO 1000 30
 Comunicación 
 y ciencias 
 sociales II
-3162
 Lengua castellana  y Ciencias sociales 66 2
 Lengua extranjera de iniciación profesional 66 2
 Ciencias 
@@ -2463,9 +2270,6 @@ DURACIÓN TOTAL DEL SEGUNDO CURSO 1000 30
 DURACIÓN TOTAL DEL CICLO 2000
 *Módulos comunes a otros ciclos formativos de grado básico.
 
-boc-a-2024-226-3747
-Boletín Oficial de Canarias núm. 226 Miércoles 13 de noviembre de 202438868
-https://sede.gobiernodecanarias.org/boc
 CICLO FORMATIVO DE GRADO BÁSICO EN
 MANTENIMIENTO DE VEHÍCULOS (12341201)
 Distribución horaria semanal por cursos.
@@ -2486,7 +2290,6 @@ h/sem h/sem
 Comunicación 
 y ciencias 
 sociales I
-3161
 Lengua castellana  y Ciencias sociales  132 4
 Lengua extranjera de iniciación profesional 66 2
 Ciencias 
@@ -2503,7 +2306,6 @@ DURACIÓN TOTAL DEL PRIMER CURSO 1000 30
 Comunicación 
 y ciencias 
 sociales II
-3162
 Lengua castellana  y Ciencias sociales 66 2
 Lengua extranjera de iniciación profesional 66 2
 Ciencias 
@@ -2519,9 +2321,6 @@ DURACIÓN TOTAL DEL SEGUNDO CURSO 1000 30
 DURACIÓN TOTAL DEL CICLO 2000
 *Módulos comunes a otros ciclos formativos de grado básico.
 
-boc-a-2024-226-3747
-Boletín Oficial de Canarias núm. 226 Miércoles 13 de noviembre de 202438869
-https://sede.gobiernodecanarias.org/boc
 CICLO FORMATIVO DE GRADO BÁSICO EN
 ACCESO Y CONSERV ACIÓN EN INSTALACIONES DEPORTIV AS (12342501)
 Distribución horaria semanal por cursos.
@@ -2543,7 +2342,6 @@ h/sem h/sem
 Comunicación 
 y ciencias 
 sociales I
-3161
 Lengua castellana  y Ciencias sociales  132 4
 Lengua extranjera de iniciación profesional 66 2
 Ciencias 
@@ -2563,14 +2361,12 @@ DURACIÓN TOTAL DEL PRIMER CURSO 1000 30
 Comunicación 
 y ciencias 
 sociales II
-3162
 Lengua castellana  y Ciencias sociales 66 2
 Lengua extranjera de iniciación profesional 66 2
 Ciencias 
 aplicadas II 3164 Matemáticas y Ciencias aplicadas 132 4
 Profesional
 3004 Archivo y comunicación* 165 5
-3149
 Asistencia en la organización de espacios, 
 actividades y reparto de material en la 
 instalación físico-deportiva
@@ -2585,9 +2381,6 @@ DURACIÓN TOTAL DEL SEGUNDO CURSO 1000 30
 DURACIÓN TOTAL DEL CICLO 2000
 *Módulos comunes a otros ciclos formativos de grado básico.
 
-boc-a-2024-226-3747
-Boletín Oficial de Canarias núm. 226 Miércoles 13 de noviembre de 202438870
-https://sede.gobiernodecanarias.org/boc
 CICLO FORMATIVO DE GRADO BÁSICO EN
 MANTENIMIENTO DE EMBARCACIONES DEPORTIV AS Y DE RECREO (12341202)
 Distribución horaria semanal por cursos.
@@ -2609,7 +2402,6 @@ h/sem h/sem
 Comunicación 
 y ciencias 
 sociales I
-3161
 Lengua castellana  y Ciencias sociales  132 4
 Lengua extranjera de iniciación profesional 66 2
 Ciencias 
@@ -2628,7 +2420,6 @@ DURACIÓN TOTAL DEL PRIMER CURSO 1000 30
 Comunicación 
 y ciencias 
 sociales II
-3162
 Lengua castellana  y Ciencias sociales 66 2
 Lengua extranjera de iniciación profesional 66 2
 Ciencias 
@@ -2648,9 +2439,6 @@ DURACIÓN TOTAL DEL SEGUNDO CURSO 1000 30
 DURACIÓN TOTAL DEL CICLO 2000
 *Módulos comunes a otros ciclos formativos de grado básico.
 
-boc-a-2024-226-3747
-Boletín Oficial de Canarias núm. 226 Miércoles 13 de noviembre de 202438871
-https://sede.gobiernodecanarias.org/boc
 CICLO FORMATIVO DE GRADO BÁSICO EN
 VIDRIERÍA Y ALFARERÍA (12341501)
 Distribución horaria semanal por cursos.
@@ -2672,7 +2460,6 @@ h/sem h/sem
 Comunicación 
 y ciencias 
 sociales I
-3161
 Lengua castellana  y Ciencias sociales  132 4
 Lengua extranjera de iniciación profesional 66 2
 Ciencias 
@@ -2690,7 +2477,6 @@ DURACIÓN TOTAL DEL PRIMER CURSO 1000 30
 Comunicación 
 y ciencias 
 sociales II
-3162
 Lengua castellana  y Ciencias sociales 66 2
 Lengua extranjera de iniciación profesional 66 2
 Ciencias 
@@ -2709,9 +2495,6 @@ DURACIÓN TOTAL DEL SEGUNDO CURSO 1000 30
 DURACIÓN TOTAL DEL CICLO 2000
 *Módulos comunes a otros ciclos formativos de grado básico.
 
-boc-a-2024-226-3747
-Boletín Oficial de Canarias núm. 226 Miércoles 13 de noviembre de 202438872
-https://sede.gobiernodecanarias.org/boc
 ANEXO VI
 DISTRIBUCIÓN HORARIA Y ESTRUCTURA MODULAR DE LOS GRADOS D, NIVEL 2 Y 3 (CICLOS FORMATIVOS DE GRADO 
 MEDIO Y SUPERIOR)
@@ -2752,9 +2535,6 @@ ANEXO VI
 DISTRIBUCIÓN HORARIA Y ESTRUCTURA MODULAR DE LOS GRADOS D, NIVEL 2 Y 3 
 (CICLOS FORMATIVOS DE GRADO MEDIO Y SUPERIOR)
 
-boc-a-2024-226-3747
-Boletín Oficial de Canarias núm. 226 Miércoles 13 de noviembre de 202438873
-https://sede.gobiernodecanarias.org/boc
 ESPECIALIDAD: CFGS ACONDICIONAMIENTO FÍSICO (12242501)
 FAMILIA PROFESIONAL: ACTIVIDADES FÍSICAS Y DEPORTIV AS
 Curso
@@ -2788,9 +2568,6 @@ DURACIÓN TOTAL DEL CICLO FORMATIVO 2000
 *Módulos profesionales idénticos a otros títulos de Formación Profesional
 Los módulos profesionales asociados a unidades de competencia (UC) son susceptibles de ser impartidos en bilingüe
 
-boc-a-2024-226-3747
-Boletín Oficial de Canarias núm. 226 Miércoles 13 de noviembre de 202438874
-https://sede.gobiernodecanarias.org/boc
 ESPECIALIDAD: CFGS  ENSEÑANZA Y ANIMACIÓN SOCIODEPORTIV A (12242502)
 FAMILIA PROFESIONAL: ACTIVIDADES FÍSICAS Y DEPORTIV AS
 Curso
@@ -2826,9 +2603,6 @@ DURACIÓN TOTAL DEL CICLO FORMATIVO 2000
 *Módulos profesionales idénticos a otros títulos de Formación Profesional
 Los módulos profesionales asociados a unidades de competencia (UC) son susceptibles de ser impartidos en bilingüe
 
-boc-a-2024-226-3747
-Boletín Oficial de Canarias núm. 226 Miércoles 13 de noviembre de 202438875
-https://sede.gobiernodecanarias.org/boc
 ESPECIALIDAD: CFGM GESTIÓN ADMINISTRATIV A (12142101)
 FAMILIA PROFESIONAL: ADMINISTRACIÓN Y GESTIÓN
 Curso
@@ -2861,9 +2635,6 @@ DURACIÓN TOTAL DEL SEGUNDO CURSO 1000 30
 DURACIÓN TOTAL DEL CICLO FORMATIVO 2000
 *Módulos profesionales idénticos a otros títulos de Formación Profesional
 
-boc-a-2024-226-3747
-Boletín Oficial de Canarias núm. 226 Miércoles 13 de noviembre de 202438876
-https://sede.gobiernodecanarias.org/boc
 ESPECIALIDAD: CFGS ADMINISTRACIÓN Y FINANZAS (12242102)
 FAMILIA PROFESIONAL: ADMINISTRACIÓN Y GESTIÓN
 Curso
@@ -2899,9 +2670,6 @@ DURACIÓN TOTAL DEL CICLO FORMATIVO 2000
 *Módulos profesionales idénticos a otros títulos de Formación Profesional
 Los módulos profesionales asociados a unidades de competencia (UC) son susceptibles de ser impartidos en bilingüe
 
-boc-a-2024-226-3747
-Boletín Oficial de Canarias núm. 226 Miércoles 13 de noviembre de 202438877
-https://sede.gobiernodecanarias.org/boc
 ESPECIALIDAD: CFGS ASISTENCIA A LA DIRECCIÓN (12242101)
 FAMILIA PROFESIONAL: ADMINISTRACIÓN Y GESTIÓN
 Curso
@@ -2936,9 +2704,6 @@ DURACIÓN TOTAL DEL CICLO FORMATIVO 2000
 *Módulos profesionales idénticos a otros títulos de Formación Profesional
 Los módulos profesionales asociados a unidades de competencia (UC) son susceptibles de ser impartidos en bilingüe
 
-boc-a-2024-226-3747
-Boletín Oficial de Canarias núm. 226 Miércoles 13 de noviembre de 202438878
-https://sede.gobiernodecanarias.org/boc
 ESPECIALIDAD: CFGM APROVECHAMIENTO Y CONSERV ACIÓN DEL MEDIO NATURAL (12140104)
 FAMILIA PROFESIONAL: AGRARIA
 Curso
@@ -2972,9 +2737,6 @@ DURACIÓN TOTAL DEL SEGUNDO CURSO 1000 30
 DURACIÓN TOTAL DEL CICLO FORMATIVO 2000
 *Módulos profesionales idénticos a otros títulos de Formación Profesional
 
-boc-a-2024-226-3747
-Boletín Oficial de Canarias núm. 226 Miércoles 13 de noviembre de 202438879
-https://sede.gobiernodecanarias.org/boc
 ESPECIALIDAD: CFGM JARDINERÍA Y FLORISTERÍA (12140103)   
 FAMILIA PROFESIONAL: AGRARIA
 Curso
@@ -3009,9 +2771,6 @@ DURACIÓN TOTAL DEL SEGUNDO CURSO 1000 30
 DURACIÓN TOTAL DEL CICLO FORMATIVO 2000
 *Módulos profesionales idénticos a otros títulos de Formación Profesional
 
-boc-a-2024-226-3747
-Boletín Oficial de Canarias núm. 226 Miércoles 13 de noviembre de 202438880
-https://sede.gobiernodecanarias.org/boc
 ESPECIALIDAD: CFGM PRODUCCIÓN AGROECOLÓGICA (12140101)
 FAMILIA PROFESIONAL: AGRARIA
 Curso
@@ -3045,9 +2804,6 @@ DURACIÓN TOTAL DEL SEGUNDO CURSO 1000 30
 DURACIÓN TOTAL DEL CICLO FORMATIVO 2000
 *Módulos profesionales idénticos a otros títulos de Formación Profesional
 
-boc-a-2024-226-3747
-Boletín Oficial de Canarias núm. 226 Miércoles 13 de noviembre de 202438881
-https://sede.gobiernodecanarias.org/boc
 ESPECIALIDAD: CFGM PRODUCCIÓN AGROPECUARIA (12140102)
 FAMILIA PROFESIONAL: AGRARIA
 Curso
@@ -3081,9 +2837,6 @@ DURACIÓN TOTAL DEL SEGUNDO CURSO 1000 30
 DURACIÓN TOTAL DEL CICLO FORMATIVO 2000
 *Módulos profesionales idénticos a otros títulos de Formación Profesional
 
-boc-a-2024-226-3747
-Boletín Oficial de Canarias núm. 226 Miércoles 13 de noviembre de 202438882
-https://sede.gobiernodecanarias.org/boc
 ESPECIALIDAD: CFGS GANADERÍA Y ASISTENCIA EN SANIDAD ANIMAL (12240103)
 FAMILIA PROFESIONAL: AGRARIA
 Curso
@@ -3118,9 +2871,6 @@ DURACIÓN TOTAL DEL CICLO FORMATIVO 2000
 *Módulos profesionales idénticos a otros títulos de Formación Profesional
 Los módulos profesionales asociados a unidades de competencia (UC) son susceptibles de ser impartidos en bilingüe
 
-boc-a-2024-226-3747
-Boletín Oficial de Canarias núm. 226 Miércoles 13 de noviembre de 202438883
-https://sede.gobiernodecanarias.org/boc
 ESPECIALIDAD: CFGS GESTIÓN FORESTAL Y DEL MEDIO NATURAL (12240101)
 FAMILIA PROFESIONAL: AGRARIA
 Curso
@@ -3158,9 +2908,6 @@ DURACIÓN TOTAL DEL CICLO FORMATIVO 2000
 *Módulos profesionales idénticos a otros títulos de Formación Profesional
 Los módulos profesionales asociados a unidades de competencia (UC) son susceptibles de ser impartidos en bilingüe
 
-boc-a-2024-226-3747
-Boletín Oficial de Canarias núm. 226 Miércoles 13 de noviembre de 202438884
-https://sede.gobiernodecanarias.org/boc
 ESPECIALIDAD: CFGS PAISAJISMO Y MEDIO RURAL (12240102)
 FAMILIA PROFESIONAL: AGRARIA
 Curso
@@ -3195,9 +2942,6 @@ DURACIÓN TOTAL DEL CICLO FORMATIVO 2000
 *Módulos profesionales idénticos a otros títulos de Formación Profesional
 Los módulos profesionales asociados a unidades de competencia (UC) son susceptibles de ser impartidos en bilingüe.
 
-boc-a-2024-226-3747
-Boletín Oficial de Canarias núm. 226 Miércoles 13 de noviembre de 202438885
-https://sede.gobiernodecanarias.org/boc
 ESPECIALIDAD: CFGM IMPRESIÓN GRÁFICA (12141803)
 FAMILIA PROFESIONAL: ARTES GRÁFICAS
 Curso
@@ -3228,9 +2972,6 @@ DURACIÓN TOTAL DEL SEGUNDO CURSO 1000 30
 DURACIÓN TOTAL DEL CICLO FORMATIVO 2000
 *Módulos profesionales idénticos a otros títulos de Formación Profesional
 
-boc-a-2024-226-3747
-Boletín Oficial de Canarias núm. 226 Miércoles 13 de noviembre de 202438886
-https://sede.gobiernodecanarias.org/boc
 ESPECIALIDAD: CFGM PREIMPRESIÓN DIGITAL (12141802)
 FAMILIA PROFESIONAL: ARTES GRÁFICAS
 Curso
@@ -3262,9 +3003,6 @@ DURACIÓN TOTAL DEL SEGUNDO CURSO 1000 30
 DURACIÓN TOTAL DEL CICLO FORMATIVO 2000
 *Módulos profesionales idénticos a otros títulos de Formación Profesional
 
-boc-a-2024-226-3747
-Boletín Oficial de Canarias núm. 226 Miércoles 13 de noviembre de 202438887
-https://sede.gobiernodecanarias.org/boc
 ESPECIALIDAD: CFGS DISEÑO Y EDICIÓN DE PUBLICACIONES IMPRESAS Y MULTIMEDIA (12241802)
 FAMILIA PROFESIONAL: ARTES GRÁFICAS
 Curso
@@ -3300,9 +3038,6 @@ DURACIÓN TOTAL DEL CICLO FORMATIVO 2000
 *Módulos profesionales idénticos a otros títulos de Formación Profesional
 Los módulos profesionales asociados a unidades de competencia (UC) son susceptibles de ser impartidos en bilingüe
 
-boc-a-2024-226-3747
-Boletín Oficial de Canarias núm. 226 Miércoles 13 de noviembre de 202438888
-https://sede.gobiernodecanarias.org/boc
 ESPECIALIDAD: CFGS DISEÑO Y GESTIÓN DE LA PRODUCCIÓN GRÁFICA (12241801)
 FAMILIA PROFESIONAL: ARTES GRÁFICAS
 Curso
@@ -3336,9 +3071,6 @@ DURACIÓN TOTAL DEL CICLO FORMATIVO 2000
 *Módulos profesionales idénticos a otros títulos de Formación Profesional
 Los módulos profesionales asociados a unidades de competencia (UC) son susceptibles de ser impartidos en bilingüe
 
-boc-a-2024-226-3747
-Boletín Oficial de Canarias núm. 226 Miércoles 13 de noviembre de 202438889
-https://sede.gobiernodecanarias.org/boc
 ESPECIALIDAD: CFGM ACTIVIDADES COMERCIALES (12142201)
 FAMILIA PROFESIONAL: COMERCIO Y MARKETING
 Curso
@@ -3372,9 +3104,6 @@ DURACIÓN TOTAL DEL SEGUNDO CURSO 1000 30
 DURACIÓN TOTAL DEL CICLO FORMATIVO 2000
 *Módulos profesionales idénticos a otros títulos de Formación Profesional
 
-boc-a-2024-226-3747
-Boletín Oficial de Canarias núm. 226 Miércoles 13 de noviembre de 202438890
-https://sede.gobiernodecanarias.org/boc
 ESPECIALIDAD: CFGM COMERCIALIZACIÓN DE PRODUCTOS ALIMENTARIOS (12142202)
 FAMILIA PROFESIONAL: COMERCIO Y MARKETING Y HOSTELERÍA Y TURISMO
 Curso
@@ -3408,9 +3137,6 @@ DURACIÓN TOTAL DEL SEGUNDO CURSO 1000 30
 DURACIÓN TOTAL DEL CICLO FORMATIVO 2000
 *Módulos profesionales idénticos a otros títulos de Formación Profesional
 
-boc-a-2024-226-3747
-Boletín Oficial de Canarias núm. 226 Miércoles 13 de noviembre de 202438891
-https://sede.gobiernodecanarias.org/boc
 ESPECIALIDAD: CFGS COMERCIO INTERNACIONAL (12242201)
 FAMILIA PROFESIONAL: COMERCIO Y MARKETING
 Curso
@@ -3446,9 +3172,6 @@ DURACIÓN TOTAL DEL CICLO FORMATIVO 2000
 *Módulos profesionales idénticos a otros títulos de Formación Profesional
 Los módulos profesionales asociados a unidades de competencia (UC) son susceptibles de ser impartidos en bilingüe
 
-boc-a-2024-226-3747
-Boletín Oficial de Canarias núm. 226 Miércoles 13 de noviembre de 202438892
-https://sede.gobiernodecanarias.org/boc
 ESPECIALIDAD: CFGS GESTIÓN DE VENTAS Y ESPACIOS COMERCIALES (12242202)
 FAMILIA PROFESIONAL: COMERCIO Y MARKETING
 Curso
@@ -3484,9 +3207,6 @@ DURACIÓN TOTAL DEL CICLO FORMATIVO 2000
 *Módulos profesionales idénticos a otros títulos de Formación Profesional
 Los módulos profesionales asociados a unidades de competencia (UC) son susceptibles de ser impartidos en bilingüe
 
-boc-a-2024-226-3747
-Boletín Oficial de Canarias núm. 226 Miércoles 13 de noviembre de 202438893
-https://sede.gobiernodecanarias.org/boc
 ESPECIALIDAD: CFGS MARKETING Y PUBLICIDAD (12242203)
 FAMILIA PROFESIONAL: COMERCIO Y MARKETING
 Curso
@@ -3522,9 +3242,6 @@ DURACIÓN TOTAL DEL CICLO FORMATIVO 2000
 *Módulos profesionales idénticos a otros títulos de Formación Profesional
 Los módulos profesionales asociados a unidades de competencia (UC) son susceptibles de ser impartidos en bilingüe
 
-boc-a-2024-226-3747
-Boletín Oficial de Canarias núm. 226 Miércoles 13 de noviembre de 202438894
-https://sede.gobiernodecanarias.org/boc
 ESPECIALIDAD: CFGS TRANSPORTE Y LOGÍSTICA (12242204)
 FAMILIA PROFESIONAL: COMERCIO Y MARKETING
 Curso
@@ -3559,9 +3276,6 @@ DURACIÓN TOTAL DEL CICLO FORMATIVO 2000
 *Módulos profesionales idénticos a otros títulos de Formación Profesional
 Los módulos profesionales asociados a unidades de competencia (UC) son susceptibles de ser impartidos en bilingüe
 
-boc-a-2024-226-3747
-Boletín Oficial de Canarias núm. 226 Miércoles 13 de noviembre de 202438895
-https://sede.gobiernodecanarias.org/boc
 ESPECIALIDAD: CFGM CONSTRUCCIÓN (12141401)
 FAMILIA PROFESIONAL: EDIFICACIÓN Y OBRA CIVIL
 Curso
@@ -3596,9 +3310,6 @@ DURACIÓN TOTAL DEL SEGUNDO CURSO 1000 30
 DURACIÓN TOTAL DEL CICLO FORMATIVO 2000
 *Módulos profesionales idénticos a otros títulos de Formación Profesional
 
-boc-a-2024-226-3747
-Boletín Oficial de Canarias núm. 226 Miércoles 13 de noviembre de 202438896
-https://sede.gobiernodecanarias.org/boc
 ESPECIALIDAD: CFGM OBRAS DE INTERIOR, DECORACIÓN Y REHABILITACIÓN (12141402)
 FAMILIA PROFESIONAL: EDIFICACIÓN Y OBRA CIVIL
 Curso
@@ -3632,9 +3343,6 @@ DURACIÓN TOTAL DEL SEGUNDO CURSO 1000 30
 DURACIÓN TOTAL DEL CICLO FORMATIVO 2000
 *Módulos profesionales idénticos a otros títulos de Formación Profesional
 
-boc-a-2024-226-3747
-Boletín Oficial de Canarias núm. 226 Miércoles 13 de noviembre de 202438897
-https://sede.gobiernodecanarias.org/boc
 ESPECIALIDAD: CFGS ORGANIZACIÓN Y CONTROL DE OBRAS DE CONSTRUCCIÓN (12241403)
 FAMILIA PROFESIONAL: EDIFICACIÓN Y OBRA CIVIL
 Curso
@@ -3671,9 +3379,6 @@ DURACIÓN TOTAL DEL CICLO FORMATIVO 2000
 *Módulos profesionales idénticos a otros títulos de Formación Profesional
 Los módulos profesionales asociados a unidades de competencia (UC) son susceptibles de ser impartidos en bilingüe
 
-boc-a-2024-226-3747
-Boletín Oficial de Canarias núm. 226 Miércoles 13 de noviembre de 202438898
-https://sede.gobiernodecanarias.org/boc
 ESPECIALIDAD: CFGS PROYECTOS DE EDIFICACIÓN (12241401)
 FAMILIA PROFESIONAL: EDIFICACIÓN Y OBRA CIVIL
 Curso
@@ -3709,9 +3414,6 @@ DURACIÓN TOTAL DEL CICLO FORMATIVO 2000
 *Módulos profesionales idénticos a otros títulos de Formación Profesional
 Los módulos profesionales asociados a unidades de competencia (UC) son susceptibles de ser impartidos en bilingüe
 
-boc-a-2024-226-3747
-Boletín Oficial de Canarias núm. 226 Miércoles 13 de noviembre de 202438899
-https://sede.gobiernodecanarias.org/boc
 ESPECIALIDAD: CFGS PROYECTOS DE OBRA CIVIL (12241402)
 FAMILIA PROFESIONAL: EDIFICACIÓN Y OBRA CIVIL
 Curso
@@ -3747,9 +3449,6 @@ DURACIÓN TOTAL DEL CICLO FORMATIVO 2000
 *Módulos profesionales idénticos a otros títulos de Formación Profesional
 Los módulos profesionales asociados a unidades de competencia (UC) son susceptibles de ser impartidos en bilingüe
 
-boc-a-2024-226-3747
-Boletín Oficial de Canarias núm. 226 Miércoles 13 de noviembre de 202438900
-https://sede.gobiernodecanarias.org/boc
 ESPECIALIDAD: CFGM INSTALACIONES  ELÉCTRICAS Y AUTOMÁTICAS (12141001)
 FAMILIA PROFESIONAL: ELECTRICIDAD Y ELECTRÓNICA
 Curso
@@ -3782,9 +3481,6 @@ DURACIÓN TOTAL DEL SEGUNDO CURSO 1000 30
 DURACIÓN TOTAL DEL CICLO FORMATIVO 2000
 *Módulos profesionales idénticos a otros títulos de Formación Profesional
 
-boc-a-2024-226-3747
-Boletín Oficial de Canarias núm. 226 Miércoles 13 de noviembre de 202438901
-https://sede.gobiernodecanarias.org/boc
 ESPECIALIDAD: CFGM INSTALACIONES DE TELECOMUNICACIONES (12141002)
 FAMILIA PROFESIONAL: ELECTRICIDAD Y ELECTRÓNICA
 Curso
@@ -3817,9 +3513,6 @@ DURACIÓN TOTAL DEL SEGUNDO CURSO 1000 30
 DURACIÓN TOTAL DEL CICLO FORMATIVO 2000
 *Módulos profesionales idénticos a otros títulos de Formación Profesional
 
-boc-a-2024-226-3747
-Boletín Oficial de Canarias núm. 226 Miércoles 13 de noviembre de 202438902
-https://sede.gobiernodecanarias.org/boc
 ESPECIALIDAD: CFGS AUTOMATIZACIÓN Y ROBÓTICA INDUSTRIAL (12241004)
 FAMILIA PROFESIONAL: ELECTRICIDAD Y ELECTRÓNICA
 Curso
@@ -3855,9 +3548,6 @@ DURACIÓN TOTAL DEL CICLO FORMATIVO 2000
 *Módulos profesionales idénticos a otros títulos de Formación Profesional
 Los módulos profesionales asociados a unidades de competencia (UC) son susceptibles de ser impartidos en bilingüe
 
-boc-a-2024-226-3747
-Boletín Oficial de Canarias núm. 226 Miércoles 13 de noviembre de 202438903
-https://sede.gobiernodecanarias.org/boc
 ESPECIALIDAD: CFGS ELECTROMEDICINA CLÍNICA (12241005)
 FAMILIA PROFESIONAL: ELECTRICIDAD Y ELECTRÓNICA
 Curso
@@ -3893,9 +3583,6 @@ DURACIÓN TOTAL DEL CICLO FORMATIVO 2000
 *Módulos profesionales idénticos a otros títulos de Formación Profesional
 Los módulos profesionales asociados a unidades de competencia (UC) son susceptibles de ser impartidos en bilingüe
 
-boc-a-2024-226-3747
-Boletín Oficial de Canarias núm. 226 Miércoles 13 de noviembre de 202438904
-https://sede.gobiernodecanarias.org/boc
 ESPECIALIDAD: CFGS MANTENIMIENTO ELECTRÓNICO (12241003)
 FAMILIA PROFESIONAL: ELECTRICIDAD Y ELECTRÓNICA
 Curso
@@ -3930,9 +3617,6 @@ DURACIÓN TOTAL DEL CICLO FORMATIVO 2000
 *Módulos profesionales idénticos a otros títulos de Formación Profesional
 Los módulos profesionales asociados a unidades de competencia (UC) son susceptibles de ser impartidos en bilingüe
 
-boc-a-2024-226-3747
-Boletín Oficial de Canarias núm. 226 Miércoles 13 de noviembre de 202438905
-https://sede.gobiernodecanarias.org/boc
 ESPECIALIDAD: CFGS SISTEMAS DE TELECOMUNICACIONES E INFORMÁTICOS (12241002)
 FAMILIA PROFESIONAL: ELECTRICIDAD Y ELECTRÓNICA
 Curso
@@ -3968,9 +3652,6 @@ DURACIÓN TOTAL DEL CICLO FORMATIVO 2000
 *Módulos profesionales idénticos a otros títulos de Formación Profesional
 Los módulos profesionales asociados a unidades de competencia (UC) son susceptibles de ser impartidos en bilingüe
 
-boc-a-2024-226-3747
-Boletín Oficial de Canarias núm. 226 Miércoles 13 de noviembre de 202438906
-https://sede.gobiernodecanarias.org/boc
 ESPECIALIDAD: CFGS SISTEMAS ELECTROTÉCNICOS Y AUTOMATIZADOS (12241001)
 FAMILIA PROFESIONAL: ELECTRICIDAD Y ELECTRÓNICA
 Curso
@@ -4005,9 +3686,6 @@ DURACIÓN TOTAL DEL CICLO FORMATIVO 2000
 *Módulos profesionales idénticos a otros títulos de Formación Profesional
 Los módulos profesionales asociados a unidades de competencia (UC) son susceptibles de ser impartidos en bilingüe
 
-boc-a-2024-226-3747
-Boletín Oficial de Canarias núm. 226 Miércoles 13 de noviembre de 202438907
-https://sede.gobiernodecanarias.org/boc
 ESPECIALIDAD: CFGM REDES Y ESTACIONES DE TRATAMIENTO DE AGUAS (12141101)
 FAMILIA PROFESIONAL: ENERGÍA Y AGUA
 Curso
@@ -4042,9 +3720,6 @@ DURACIÓN TOTAL DEL SEGUNDO CURSO 1000 30
 DURACIÓN TOTAL DEL CICLO FORMATIVO 2000
 *Módulos profesionales idénticos a otros títulos de Formación Profesional
 
-boc-a-2024-226-3747
-Boletín Oficial de Canarias núm. 226 Miércoles 13 de noviembre de 202438908
-https://sede.gobiernodecanarias.org/boc
 ESPECIALIDAD: CFGS EFICIENCIA ENERGÉTICA Y ENERGÍA SOLAR TÉRMICA (12241101)
 FAMILIA PROFESIONAL: ENERGÍA Y AGUA
 Curso
@@ -4079,9 +3754,6 @@ DURACIÓN TOTAL DEL CICLO FORMATIVO 2000
 *Módulos profesionales idénticos a otros títulos de Formación Profesional
 Los módulos profesionales asociados a unidades de competencia (UC) son susceptibles de ser impartidos en bilingüe
 
-boc-a-2024-226-3747
-Boletín Oficial de Canarias núm. 226 Miércoles 13 de noviembre de 202438909
-https://sede.gobiernodecanarias.org/boc
 ESPECIALIDAD: CFGS ENERGÍAS RENOV ABLES (12241102)
 FAMILIA PROFESIONAL: ENERGÍA Y AGUA
 Curso
@@ -4116,9 +3788,6 @@ DURACIÓN TOTAL DEL CICLO FORMATIVO 2000
 *Módulos profesionales idénticos a otros títulos de Formación Profesional
 Los módulos profesionales asociados a unidades de competencia (UC) son susceptibles de ser impartidos en bilingüe
 
-boc-a-2024-226-3747
-Boletín Oficial de Canarias núm. 226 Miércoles 13 de noviembre de 202438910
-https://sede.gobiernodecanarias.org/boc
 ESPECIALIDAD: CFGS GESTIÓN DEL AGUA (12241104)
 FAMILIA PROFESIONAL: ENERGÍA Y AGUA
 Curso
@@ -4154,9 +3823,6 @@ DURACIÓN TOTAL DEL CICLO FORMATIVO 2000
 *Módulos profesionales idénticos a otros títulos de Formación Profesional
 Los módulos profesionales asociados a unidades de competencia (UC) son susceptibles de ser impartidos en bilingüe
 
-boc-a-2024-226-3747
-Boletín Oficial de Canarias núm. 226 Miércoles 13 de noviembre de 202438911
-https://sede.gobiernodecanarias.org/boc
 ESPECIALIDAD: CFGM MECANIZADO (12140801)
 FAMILIA PROFESIONAL: FABRICACIÓN MECÁNICA
 Curso
@@ -4188,9 +3854,6 @@ DURACIÓN TOTAL DEL SEGUNDO CURSO 1000 30
 DURACIÓN TOTAL DEL CICLO FORMATIVO 2000
 *Módulos profesionales idénticos a otros títulos de Formación Profesional
 
-boc-a-2024-226-3747
-Boletín Oficial de Canarias núm. 226 Miércoles 13 de noviembre de 202438912
-https://sede.gobiernodecanarias.org/boc
 ESPECIALIDAD: CFGM SOLDADURA Y CALDERERÍA (12140802)
 FAMILIA PROFESIONAL: FABRICACIÓN MECÁNICA
 Curso
@@ -4221,9 +3884,6 @@ DURACIÓN TOTAL DEL SEGUNDO CURSO 1000 30
 DURACIÓN TOTAL DEL CICLO FORMATIVO 2000
 *Módulos profesionales idénticos a otros títulos de Formación Profesional
 
-boc-a-2024-226-3747
-Boletín Oficial de Canarias núm. 226 Miércoles 13 de noviembre de 202438913
-https://sede.gobiernodecanarias.org/boc
 ESPECIALIDAD: CFGS CONSTRUCCIONES METÁLICAS (12240802)
 FAMILIA PROFESIONAL: FABRICACIÓN MECÁNICA
 Curso
@@ -4257,9 +3917,6 @@ DURACIÓN TOTAL DEL CICLO FORMATIVO 2000
 *Módulos profesionales idénticos a otros títulos de Formación Profesional
 Los módulos profesionales asociados a unidades de competencia (UC) son susceptibles de ser impartidos en bilingüe
 
-boc-a-2024-226-3747
-Boletín Oficial de Canarias núm. 226 Miércoles 13 de noviembre de 202438914
-https://sede.gobiernodecanarias.org/boc
 ESPECIALIDAD: CFGS PROGRAMACIÓN DE LA PRODUCCIÓN EN FABRICACIÓN MECÁNICA (12240801)
 FAMILIA PROFESIONAL: FABRICACIÓN MECÁNICA
 Curso
@@ -4294,9 +3951,6 @@ DURACIÓN TOTAL DEL CICLO FORMATIVO 2000
 *Módulos profesionales idénticos a otros títulos de Formación Profesional
 Los módulos profesionales asociados a unidades de competencia (UC) son susceptibles de ser impartidos en bilingüe
 
-boc-a-2024-226-3747
-Boletín Oficial de Canarias núm. 226 Miércoles 13 de noviembre de 202438915
-https://sede.gobiernodecanarias.org/boc
 ESPECIALIDAD: CFGM COCINA Y GASTRONOMÍA (12142401)
 FAMILIA PROFESIONAL: HOSTELERÍA Y TURISMO
 Curso
@@ -4327,9 +3981,6 @@ DURACIÓN TOTAL DEL SEGUNDO CURSO 1000 30
 DURACIÓN TOTAL DEL CICLO FORMATIVO 2000
 *Módulos profesionales idénticos a otros títulos de Formación Profesional
 
-boc-a-2024-226-3747
-Boletín Oficial de Canarias núm. 226 Miércoles 13 de noviembre de 202438916
-https://sede.gobiernodecanarias.org/boc
 ESPECIALIDAD: CFGM SERVICIOS EN RESTAURACIÓN (12142402)
 FAMILIA PROFESIONAL: HOSTELERÍA Y TURISMO
 Curso
@@ -4362,9 +4013,6 @@ DURACIÓN TOTAL DEL SEGUNDO CURSO 1000 30
 DURACIÓN TOTAL DEL CICLO FORMATIVO 2000
 *Módulos profesionales idénticos a otros títulos de Formación Profesional
 
-boc-a-2024-226-3747
-Boletín Oficial de Canarias núm. 226 Miércoles 13 de noviembre de 202438917
-https://sede.gobiernodecanarias.org/boc
 ESPECIALIDAD: CFGS AGENCIAS DE VIAJES Y GESTIÓN DE EVENTOS (12242403)
 FAMILIA PROFESIONAL: HOSTELERÍA Y TURISMO
 Curso
@@ -4400,9 +4048,6 @@ DURACIÓN TOTAL DEL CICLO FORMATIVO 2000
 *Módulos profesionales idénticos a otros títulos de Formación Profesional
 Los módulos profesionales asociados a unidades de competencia (UC) son susceptibles de ser impartidos en bilingüe
 
-boc-a-2024-226-3747
-Boletín Oficial de Canarias núm. 226 Miércoles 13 de noviembre de 202438918
-https://sede.gobiernodecanarias.org/boc
 ESPECIALIDAD: CFGS DIRECCIÓN DE COCINA (12242404)
 FAMILIA PROFESIONAL: HOSTELERÍA Y TURISMO
 Curso
@@ -4437,9 +4082,6 @@ DURACIÓN TOTAL DEL CICLO FORMATIVO 2000
 *Módulos profesionales idénticos a otros títulos de Formación Profesional
 Los módulos profesionales asociados a unidades de competencia (UC) son susceptibles de ser impartidos en bilingüe
 
-boc-a-2024-226-3747
-Boletín Oficial de Canarias núm. 226 Miércoles 13 de noviembre de 202438919
-https://sede.gobiernodecanarias.org/boc
 ESPECIALIDAD: CFGS DIRECCIÓN DE SERVICIOS DE RESTAURACIÓN (12242405)
 FAMILIA PROFESIONAL: HOSTELERÍA Y TURISMO
 Curso
@@ -4475,9 +4117,6 @@ DURACIÓN TOTAL DEL CICLO FORMATIVO 2000
 *Módulos profesionales idénticos a otros títulos de Formación Profesional
 Los módulos profesionales asociados a unidades de competencia (UC) son susceptibles de ser impartidos en bilingüe
 
-boc-a-2024-226-3747
-Boletín Oficial de Canarias núm. 226 Miércoles 13 de noviembre de 202438920
-https://sede.gobiernodecanarias.org/boc
 ESPECIALIDAD: CFGS GESTIÓN DE ALOJAMIENTOS TURÍSTICOS (12242401) 
 FAMILIA PROFESIONAL: HOSTELERÍA Y TURISMO
 Curso
@@ -4513,9 +4152,6 @@ DURACIÓN TOTAL DEL CICLO FORMATIVO 2000
 *Módulos profesionales idénticos a otros títulos de Formación Profesional
 Los módulos profesionales asociados a unidades de competencia (UC) son susceptibles de ser impartidos en bilingüe
 
-boc-a-2024-226-3747
-Boletín Oficial de Canarias núm. 226 Miércoles 13 de noviembre de 202438921
-https://sede.gobiernodecanarias.org/boc
 ESPECIALIDAD: CFGS GUÍA, INFORMACIÓN Y ASISTENCIAS TURÍSTICAS (12242402)
 FAMILIA PROFESIONAL: HOSTELERÍA Y TURISMO
 Curso
@@ -4551,9 +4187,6 @@ DURACIÓN TOTAL DEL CICLO FORMATIVO 2000
 *Módulos profesionales idénticos a otros títulos de Formación Profesional
 Los módulos profesionales asociados a unidades de competencia (UC) son susceptibles de ser impartidos en bilingüe     
 
-boc-a-2024-226-3747
-Boletín Oficial de Canarias núm. 226 Miércoles 13 de noviembre de 202438922
-https://sede.gobiernodecanarias.org/boc
 ESPECIALIDAD: CFGM ESTÉTICA Y BELLEZA (12140501)
 FAMILIA PROFESIONAL: IMAGEN PERSONAL
 Curso
@@ -4588,9 +4221,6 @@ DURACIÓN TOTAL DEL SEGUNDO CURSO 1000 30
 DURACIÓN TOTAL DEL CICLO FORMATIVO 2000
 *Módulos profesionales idénticos a otros títulos de Formación Profesional
 
-boc-a-2024-226-3747
-Boletín Oficial de Canarias núm. 226 Miércoles 13 de noviembre de 202438923
-https://sede.gobiernodecanarias.org/boc
 ESPECIALIDAD: CFGM PELUQUERÍA Y COSMÉTICA CAPILAR (12140502)
 FAMILIA PROFESIONAL: IMAGEN PERSONAL
 Curso
@@ -4624,9 +4254,6 @@ DURACIÓN TOTAL DEL SEGUNDO CURSO 1000 30
 DURACIÓN TOTAL DEL CICLO FORMATIVO 2000
 *Módulos profesionales idénticos a otros títulos de Formación Profesional
 
-boc-a-2024-226-3747
-Boletín Oficial de Canarias núm. 226 Miércoles 13 de noviembre de 202438924
-https://sede.gobiernodecanarias.org/boc
 ESPECIALIDAD: CFGS ASESORÍA DE IMAGEN PERSONAL Y CORPORATIV A (12240503)
 FAMILIA PROFESIONAL: IMAGEN PERSONAL
 Curso
@@ -4662,9 +4289,6 @@ DURACIÓN TOTAL DEL CICLO FORMATIVO 2000
 *Módulos profesionales idénticos a otros títulos de Formación Profesional
 Los módulos profesionales asociados a unidades de competencia (UC) son susceptibles de ser impartidos en bilingüe
 
-boc-a-2024-226-3747
-Boletín Oficial de Canarias núm. 226 Miércoles 13 de noviembre de 202438925
-https://sede.gobiernodecanarias.org/boc
 ESPECIALIDAD: CFGS CARACTERIZACIÓN Y MAQUILLAJE PROFESIONAL (12240504)
 FAMILIA PROFESIONAL: IMAGEN PERSONAL
 Curso
@@ -4700,9 +4324,6 @@ DURACIÓN TOTAL DEL CICLO FORMATIVO 2000
 *Módulos profesionales idénticos a otros títulos de Formación Profesional.
 Los módulos profesionales asociados a unidades de competencia (UC) son susceptibles de ser impartidos en bilingüe
 
-boc-a-2024-226-3747
-Boletín Oficial de Canarias núm. 226 Miércoles 13 de noviembre de 202438926
-https://sede.gobiernodecanarias.org/boc
 ESPECIALIDAD: CFGS ESTÉTICA INTEGRAL Y BIENESTAR (12240501)
 FAMILIA PROFESIONAL: IMAGEN PERSONAL
 Curso
@@ -4738,9 +4359,6 @@ DURACIÓN TOTAL DEL CICLO FORMATIVO 2000
 *Módulos profesionales idénticos a otros títulos de Formación Profesional
 Los módulos profesionales asociados a unidades de competencia (UC) son susceptibles de ser impartidos en bilingüe
 
-boc-a-2024-226-3747
-Boletín Oficial de Canarias núm. 226 Miércoles 13 de noviembre de 202438927
-https://sede.gobiernodecanarias.org/boc
 ESPECIALIDAD: CFGS ESTILISMO Y DIRECCIÓN DE PELUQUERÍA (12240502)
 FAMILIA PROFESIONAL: IMAGEN PERSONAL
 Curso
@@ -4776,9 +4394,6 @@ DURACIÓN TOTAL DEL CICLO FORMATIVO 2000
 *Módulos profesionales idénticos a otros títulos de Formación Profesional
 Los módulos profesionales asociados a unidades de competencia (UC) son susceptibles de ser impartidos en bilingüe
 
-boc-a-2024-226-3747
-Boletín Oficial de Canarias núm. 226 Miércoles 13 de noviembre de 202438928
-https://sede.gobiernodecanarias.org/boc
 ESPECIALIDAD: CFGM VIDEO DISC-JOCKEY Y SONIDO (12141901)
 FAMILIA PROFESIONAL: IMAGEN Y SONIDO
 Curso
@@ -4809,9 +4424,6 @@ DURACIÓN TOTAL DEL SEGUNDO CURSO 1000 30
 DURACIÓN TOTAL DEL CICLO FORMATIVO 2000
 *Módulos profesionales idénticos a otros títulos de Formación Profesional
 
-boc-a-2024-226-3747
-Boletín Oficial de Canarias núm. 226 Miércoles 13 de noviembre de 202438929
-https://sede.gobiernodecanarias.org/boc
 ESPECIALIDAD: CFGS ANIMACIONES 3D, JUEGOS Y ENTORNOS INTERACTIVOS (12241904)
 FAMILIA PROFESIONAL: IMAGEN Y SONIDO
 Curso
@@ -4845,9 +4457,6 @@ DURACIÓN TOTAL DEL CICLO FORMATIVO 2000
 *Módulos profesionales idénticos a otros títulos de Formación Profesional
 Los módulos profesionales asociados a unidades de competencia (UC) son susceptibles de ser impartidos en bilingüe
 
-boc-a-2024-226-3747
-Boletín Oficial de Canarias núm. 226 Miércoles 13 de noviembre de 202438930
-https://sede.gobiernodecanarias.org/boc
 ESPECIALIDAD: CFGS ILUMINACIÓN, CAPTACIÓN Y TRATAMIENTO DE IMAGEN (12241905)
 FAMILIA PROFESIONAL: IMAGEN Y SONIDO
 Curso
@@ -4883,9 +4492,6 @@ DURACIÓN TOTAL DEL CICLO FORMATIVO 2000
 *Módulos profesionales idénticos a otros títulos de Formación Profesional
 Los módulos profesionales asociados a unidades de competencia (UC) son susceptibles de ser impartidos en bilingüe
 
-boc-a-2024-226-3747
-Boletín Oficial de Canarias núm. 226 Miércoles 13 de noviembre de 202438931
-https://sede.gobiernodecanarias.org/boc
 ESPECIALIDAD: CFGS PRODUCCIÓN DE AUDIOVISUALES Y ESPECTÁCULOS (12241902)
 FAMILIA PROFESIONAL: IMAGEN Y SONIDO
 Curso
@@ -4919,9 +4525,6 @@ DURACIÓN TOTAL DEL CICLO FORMATIVO 2000
 *Módulos profesionales idénticos a otros títulos de Formación Profesional
 Los módulos profesionales asociados a unidades de competencia (UC) son susceptibles de ser impartidos en bilingüe
 
-boc-a-2024-226-3747
-Boletín Oficial de Canarias núm. 226 Miércoles 13 de noviembre de 202438932
-https://sede.gobiernodecanarias.org/boc
 ESPECIALIDAD: CFGS REALIZACIÓN DE PROYECTOS DE AUDIOVISUALES Y ESPECTÁCULOS (12241903)
 FAMILIA PROFESIONAL: IMAGEN Y SONIDO
 Curso
@@ -4957,9 +4560,6 @@ DURACIÓN TOTAL DEL CICLO FORMATIVO 2000
 *Módulos profesionales idénticos a otros títulos de Formación Profesional
 Los módulos profesionales asociados a unidades de competencia (UC) son susceptibles de ser impartidos en bilingüe
 
-boc-a-2024-226-3747
-Boletín Oficial de Canarias núm. 226 Miércoles 13 de noviembre de 202438933
-https://sede.gobiernodecanarias.org/boc
 ESPECIALIDAD: CFGS SONIDO PARA AUDIOVISUALES Y ESPECTÁCULOS (12241901)
 FAMILIA PROFESIONAL: IMAGEN Y SONIDO
 Curso
@@ -4994,9 +4594,6 @@ DURACIÓN TOTAL DEL CICLO FORMATIVO 2000
 *Módulos profesionales idénticos a otros títulos de Formación Profesional
 Los módulos profesionales asociados a unidades de competencia (UC) son susceptibles de ser impartidos en bilingüe
 
-boc-a-2024-226-3747
-Boletín Oficial de Canarias núm. 226 Miércoles 13 de noviembre de 202438934
-https://sede.gobiernodecanarias.org/boc
 ESPECIALIDAD: CFGM ACEITES DE OLIV A Y VINOS (12140302)
 FAMILIA PROFESIONAL: INDUSTRIAS ALIMENTARIAS
 Curso
@@ -5030,9 +4627,6 @@ DURACIÓN TOTAL DEL SEGUNDO CURSO 1000 30
 DURACIÓN TOTAL DEL CICLO FORMATIVO 2000
 *Módulos profesionales idénticos a otros títulos de Formación Profesional
 
-boc-a-2024-226-3747
-Boletín Oficial de Canarias núm. 226 Miércoles 13 de noviembre de 202438935
-https://sede.gobiernodecanarias.org/boc
 ESPECIALIDAD: CFGM PANADERÍA, REPOSTERÍA Y CONFITERÍA (12140301)
 FAMILIA PROFESIONAL: INDUSTRIAS ALIMENTARIAS
 Curso
@@ -5065,9 +4659,6 @@ DURACIÓN TOTAL DEL SEGUNDO CURSO 1000 30
 DURACIÓN TOTAL DEL CICLO FORMATIVO 2000
 *Módulos profesionales idénticos a otros títulos de Formación Profesional
 
-boc-a-2024-226-3747
-Boletín Oficial de Canarias núm. 226 Miércoles 13 de noviembre de 202438936
-https://sede.gobiernodecanarias.org/boc
 ESPECIALIDAD: CFGS VITIVINICULTURA (12240301)
 FAMILIA PROFESIONAL: INDUSTRIAS ALIMENTARIAS
 Curso
@@ -5103,9 +4694,6 @@ DURACIÓN TOTAL DEL CICLO FORMATIVO 2000
 *Módulos profesionales idénticos a otros títulos de Formación Profesional
 Los módulos profesionales asociados a unidades de competencia (UC) son susceptibles de ser impartidos en bilingüe
 
-boc-a-2024-226-3747
-Boletín Oficial de Canarias núm. 226 Miércoles 13 de noviembre de 202438937
-https://sede.gobiernodecanarias.org/boc
 ESPECIALIDAD: CFGM EXCA V ACIONES Y SONDEOS (12141302)
 FAMILIA PROFESIONAL: INDUSTRIAS EXTRACTIV AS
 Curso
@@ -5138,9 +4726,6 @@ DURACIÓN TOTAL DEL SEGUNDO CURSO 1000 30
 DURACIÓN TOTAL DEL CICLO FORMATIVO 2000
 *Módulos profesionales idénticos a otros títulos de Formación Profesional
 
-boc-a-2024-226-3747
-Boletín Oficial de Canarias núm. 226 Miércoles 13 de noviembre de 202438938
-https://sede.gobiernodecanarias.org/boc
 ESPECIALIDAD: CFGM SISTEMAS MICROINFORMÁTICOS Y REDES (12142001)
 FAMILIA PROFESIONAL: INFORMÁTICA Y COMUNICACIONES
 Curso
@@ -5172,9 +4757,6 @@ DURACIÓN TOTAL DEL SEGUNDO CURSO 1000 30
 DURACIÓN TOTAL DEL CICLO FORMATIVO 2000
 *Módulos profesionales idénticos a otros títulos de Formación Profesional
 
-boc-a-2024-226-3747
-Boletín Oficial de Canarias núm. 226 Miércoles 13 de noviembre de 202438939
-https://sede.gobiernodecanarias.org/boc
 ESPECIALIDAD: CFGS ADMINISTRACIÓN DE SISTEMAS INFORMÁTICOS EN RED (12242001)
 FAMILIA PROFESIONAL: INFORMÁTICA Y COMUNICACIONES
 Curso
@@ -5210,9 +4792,6 @@ DURACIÓN TOTAL DEL CICLO FORMATIVO 2000
 *Módulos profesionales idénticos a otros títulos de Formación Profesional
 Los módulos profesionales asociados a unidades de competencia (UC) son susceptibles de ser impartidos en bilingüe
 
-boc-a-2024-226-3747
-Boletín Oficial de Canarias núm. 226 Miércoles 13 de noviembre de 202438940
-https://sede.gobiernodecanarias.org/boc
 ESPECIALIDAD: CFGS DESARROLLO DE APLICACIONES MULTIPLATAFORMA (12242002)
 FAMILIA PROFESIONAL: INFORMÁTICA Y COMUNICACIONES
 Curso
@@ -5248,9 +4827,6 @@ DURACIÓN TOTAL DEL CICLO FORMATIVO 2000
 *Módulos profesionales idénticos a otros títulos de Formación Profesional
 Los módulos profesionales asociados a unidades de competencia (UC) son susceptibles de ser impartidos en bilingüe
 
-boc-a-2024-226-3747
-Boletín Oficial de Canarias núm. 226 Miércoles 13 de noviembre de 202438941
-https://sede.gobiernodecanarias.org/boc
 ESPECIALIDAD: CFGS DESARROLLO DE APLICACIONES WEB (12242003)
 FAMILIA PROFESIONAL: INFORMÁTICA Y COMUNICACIONES
 Curso
@@ -5285,9 +4861,6 @@ DURACIÓN TOTAL DEL CICLO FORMATIVO 2000
 *Módulos profesionales idénticos a otros títulos de Formación Profesional
 Los módulos profesionales asociados a unidades de competencia (UC) son susceptibles de ser impartidos en bilingüe
 
-boc-a-2024-226-3747
-Boletín Oficial de Canarias núm. 226 Miércoles 13 de noviembre de 202438942
-https://sede.gobiernodecanarias.org/boc
 ESPECIALIDAD: CFGM INSTALACIONES DE PRODUCCIÓN DE CALOR (12140901)
 FAMILIA PROFESIONAL: INSTALACIÓN Y MANTENIMIENTO
 Curso
@@ -5319,9 +4892,6 @@ DURACIÓN TOTAL DEL SEGUNDO CURSO 1000 30
 DURACIÓN TOTAL DEL CICLO FORMATIVO 2000
 *Módulos profesionales idénticos a otros títulos de Formación Profesional
 
-boc-a-2024-226-3747
-Boletín Oficial de Canarias núm. 226 Miércoles 13 de noviembre de 202438943
-https://sede.gobiernodecanarias.org/boc
 ESPECIALIDAD: CFGM INSTALACIONES FRIGORÍFICAS Y DE CLIMATIZACIÓN (12140902)
 FAMILIA PROFESIONAL: INSTALACIÓN Y MANTENIMIENTO
 Curso
@@ -5353,9 +4923,6 @@ DURACIÓN TOTAL DEL SEGUNDO CURSO 1000 30
 DURACIÓN TOTAL DEL CICLO FORMATIVO 2000
 *Módulos profesionales idénticos a otros títulos de Formación Profesional
 
-boc-a-2024-226-3747
-Boletín Oficial de Canarias núm. 226 Miércoles 13 de noviembre de 202438944
-https://sede.gobiernodecanarias.org/boc
 ESPECIALIDAD: CFGM MANTENIMIENTO ELECTROMECÁNICO (12140903)
 FAMILIA PROFESIONAL: INSTALACIÓN Y MANTENIMIENTO
 Curso
@@ -5386,9 +4953,6 @@ DURACIÓN TOTAL DEL SEGUNDO CURSO 1000 30
 DURACIÓN TOTAL DEL CICLO FORMATIVO 2000
 *Módulos profesionales idénticos a otros títulos de Formación Profesional
 
-boc-a-2024-226-3747
-Boletín Oficial de Canarias núm. 226 Miércoles 13 de noviembre de 202438945
-https://sede.gobiernodecanarias.org/boc
 ESPECIALIDAD: CFGS MANTENIMIENTO DE INSTALACIONES TÉRMICAS Y DE FLUIDOS (12240902)
 FAMILIA PROFESIONAL: INSTALACIÓN Y MANTENIMIENTO
 Curso
@@ -5424,9 +4988,6 @@ DURACIÓN TOTAL DEL CICLO FORMATIVO 2000
 *Módulos profesionales idénticos a otros títulos de Formación Profesional
 Los módulos profesionales asociados a unidades de competencia (UC) son susceptibles de ser impartidos en bilingüe
 
-boc-a-2024-226-3747
-Boletín Oficial de Canarias núm. 226 Miércoles 13 de noviembre de 202438946
-https://sede.gobiernodecanarias.org/boc
 ESPECIALIDAD: CFGS MECATRÓNICA INDUSTRIAL (12240903)
 FAMILIA PROFESIONAL: INSTALACIÓN Y MANTENIMIENTO
 Curso
@@ -5462,9 +5023,6 @@ DURACIÓN TOTAL DEL CICLO FORMATIVO 2000
 *Módulos profesionales idénticos a otros títulos de Formación Profesional
 Los módulos profesionales asociados a unidades de competencia (UC) son susceptibles de ser impartidos en bilingüe
 
-boc-a-2024-226-3747
-Boletín Oficial de Canarias núm. 226 Miércoles 13 de noviembre de 202438947
-https://sede.gobiernodecanarias.org/boc
 ESPECIALIDAD: CFGM CARPINTERÍA Y MUEBLE (12141601)
 FAMILIA PROFESIONAL: MADERA, MUEBLE Y CORCHO
 Curso
@@ -5498,9 +5056,6 @@ DURACIÓN TOTAL DEL SEGUNDO CURSO 1000 30
 DURACIÓN TOTAL DEL CICLO FORMATIVO 2000
 *Módulos profesionales idénticos a otros títulos de Formación Profesional
 
-boc-a-2024-226-3747
-Boletín Oficial de Canarias núm. 226 Miércoles 13 de noviembre de 202438948
-https://sede.gobiernodecanarias.org/boc
 ESPECIALIDAD: CFGM INSTALACIÓN Y AMUEBLAMIENTO (12141602)
 FAMILIA PROFESIONAL: MADERA, MUEBLE Y CORCHO
 Curso
@@ -5533,9 +5088,6 @@ DURACIÓN TOTAL DEL SEGUNDO CURSO 1000 30
 DURACIÓN TOTAL DEL CICLO FORMATIVO 2000
 *Módulos profesionales idénticos a otros títulos de Formación Profesional
 
-boc-a-2024-226-3747
-Boletín Oficial de Canarias núm. 226 Miércoles 13 de noviembre de 202438949
-https://sede.gobiernodecanarias.org/boc
 ESPECIALIDAD: CFGS DISEÑO Y AMUEBLAMIENTO (12241601)
 FAMILIA PROFESIONAL: MADERA, MUEBLE Y CORCHO
 Curso
@@ -5570,9 +5122,6 @@ DURACIÓN TOTAL DEL CICLO FORMATIVO 2000
 *Módulos profesionales idénticos a otros títulos de Formación Profesional
 Los módulos profesionales asociados a unidades de competencia (UC) son susceptibles de ser impartidos en bilingüe
 
-boc-a-2024-226-3747
-Boletín Oficial de Canarias núm. 226 Miércoles 13 de noviembre de 202438950
-https://sede.gobiernodecanarias.org/boc
 ESPECIALIDAD: CFGM CULTIVOS ACUÍCOLAS (12140201)
 FAMILIA PROFESIONAL: MARÍTIMO PESQUERA
 Curso
@@ -5603,9 +5152,6 @@ DURACIÓN TOTAL DEL SEGUNDO CURSO 1000 30
 DURACIÓN TOTAL DEL CICLO FORMATIVO 2000
 *Módulos profesionales idénticos a otros títulos de Formación Profesional
 
-boc-a-2024-226-3747
-Boletín Oficial de Canarias núm. 226 Miércoles 13 de noviembre de 202438951
-https://sede.gobiernodecanarias.org/boc
 ESPECIALIDAD: CFGM MANTENIMIENTO Y CONTROL DE LA MAQUINARIA DE BUQUES Y EMBARCACIONES (12140202)
 FAMILIA PROFESIONAL: MARÍTIMO PESQUERA
 Curso
@@ -5639,9 +5185,6 @@ DURACIÓN TOTAL DEL SEGUNDO CURSO 1000 30
 DURACIÓN TOTAL DEL CICLO FORMATIVO 2000
 *Módulos profesionales idénticos a otros títulos de Formación Profesional
 
-boc-a-2024-226-3747
-Boletín Oficial de Canarias núm. 226 Miércoles 13 de noviembre de 202438952
-https://sede.gobiernodecanarias.org/boc
 ESPECIALIDAD: CFGM NA VEGACIÓN Y PESCA DE LITORAL (12140203)
 FAMILIA PROFESIONAL: MARÍTIMO PESQUERA
 Curso
@@ -5674,9 +5217,6 @@ DURACIÓN TOTAL DEL SEGUNDO CURSO 1000 30
 DURACIÓN TOTAL DEL CICLO FORMATIVO 2000
 *Módulos profesionales idénticos a otros títulos de Formación Profesional
 
-boc-a-2024-226-3747
-Boletín Oficial de Canarias núm. 226 Miércoles 13 de noviembre de 202438953
-https://sede.gobiernodecanarias.org/boc
 ESPECIALIDAD: CFGM OPERACIONES SUBACUÁTICAS E HIPERBÁRICAS (12140204)
 FAMILIA PROFESIONAL: MARÍTIMO PESQUERA
 Curso
@@ -5709,9 +5249,6 @@ DURACIÓN TOTAL DEL SEGUNDO CURSO 1000 30
 DURACIÓN TOTAL DEL CICLO FORMATIVO 2000
 *Módulos profesionales idénticos a otros títulos de Formación Profesional
 
-boc-a-2024-226-3747
-Boletín Oficial de Canarias núm. 226 Miércoles 13 de noviembre de 202438954
-https://sede.gobiernodecanarias.org/boc
 ESPECIALIDAD: CFGS ACUICULTURA (12240202)
 FAMILIA PROFESIONAL: MARÍTIMO PESQUERA
 Curso
@@ -5746,9 +5283,6 @@ DURACIÓN TOTAL DEL CICLO FORMATIVO 2000
 *Módulos profesionales idénticos a otros títulos de Formación Profesional
 Los módulos profesionales asociados a unidades de competencia (UC) son susceptibles de ser impartidos en bilingüe
 
-boc-a-2024-226-3747
-Boletín Oficial de Canarias núm. 226 Miércoles 13 de noviembre de 202438955
-https://sede.gobiernodecanarias.org/boc
 ESPECIALIDAD: CFGS ORGANIZACIÓN DEL MANTENIMIENTO DE MAQUINARIA DE BUQUES Y EMBARCACIONES (12240203)
 FAMILIA PROFESIONAL: MARÍTIMO PESQUERA   
 Curso
@@ -5789,9 +5323,6 @@ DURACIÓN TOTAL DEL CICLO FORMATIVO 2000
 *Módulos profesionales idénticos a otros títulos de Formación Profesional
 Los módulos profesionales asociados a unidades de competencia (UC) son susceptibles de ser impartidos en bilingüe  
 
-boc-a-2024-226-3747
-Boletín Oficial de Canarias núm. 226 Miércoles 13 de noviembre de 202438956
-https://sede.gobiernodecanarias.org/boc
 ESPECIALIDAD: CFGS TRANSPORTE MARÍTIMO Y PESCA DE ALTURA (12240201)
 FAMILIA PROFESIONAL: MARÍTIMO PESQUERA
 Curso
@@ -5825,9 +5356,6 @@ DURACIÓN TOTAL DEL CICLO FORMATIVO 2000
 *Módulos profesionales idénticos a otros títulos de Formación Profesional
 Los módulos profesionales asociados a unidades de competencia (UC) son susceptibles de ser impartidos en bilingüe
 
-boc-a-2024-226-3747
-Boletín Oficial de Canarias núm. 226 Miércoles 13 de noviembre de 202438957
-https://sede.gobiernodecanarias.org/boc
 ESPECIALIDAD: CFGM OPERACIONES DE LABORATORIO (12140402)
 FAMILIA PROFESIONAL: QUÍMICA
 Curso
@@ -5861,9 +5389,6 @@ DURACIÓN TOTAL DEL SEGUNDO CURSO 1000 30
 DURACIÓN TOTAL DEL CICLO FORMATIVO 2000
 *Módulos profesionales idénticos a otros títulos de Formación Profesional
 
-boc-a-2024-226-3747
-Boletín Oficial de Canarias núm. 226 Miércoles 13 de noviembre de 202438958
-https://sede.gobiernodecanarias.org/boc
 ESPECIALIDAD: CFGS FABRICACIÓN DE PRODUCTOS FARMACÉUTICOS, BIOTECNOLÓGICOS Y AFINES (12240403)
 FAMILIA PROFESIONAL: QUÍMICA
 Curso
@@ -5903,9 +5428,6 @@ DURACIÓN TOTAL DEL CICLO FORMATIVO 2000
 *Módulos profesionales idénticos a otros títulos de Formación Profesional
 Los módulos profesionales asociados a unidades de competencia (UC) son susceptibles de ser impartidos en bilingüe
 
-boc-a-2024-226-3747
-Boletín Oficial de Canarias núm. 226 Miércoles 13 de noviembre de 202438959
-https://sede.gobiernodecanarias.org/boc
 ESPECIALIDAD: CFGS LABORATORIO DE ANÁLISIS Y DE CONTROL DE CALIDAD (12240401)
 FAMILIA PROFESIONAL: QUÍMICA
 Curso
@@ -5939,9 +5461,6 @@ DURACIÓN TOTAL DEL CICLO FORMATIVO 2000
 *Módulos profesionales idénticos a otros títulos de Formación Profesional
 Los módulos profesionales asociados a unidades de competencia (UC) son susceptibles de ser impartidos en bilingüe
 
-boc-a-2024-226-3747
-Boletín Oficial de Canarias núm. 226 Miércoles 13 de noviembre de 202438960
-https://sede.gobiernodecanarias.org/boc
 ESPECIALIDAD: CFGS QUÍMICA INDUSTRIAL (12240402)
 FAMILIA PROFESIONAL: QUÍMICA
 Curso
@@ -5977,9 +5496,6 @@ DURACIÓN TOTAL DEL CICLO FORMATIVO 2000
 *Módulos profesionales idénticos a otros títulos de Formación Profesional
 Los módulos profesionales asociados a unidades de competencia (UC) son susceptibles de ser impartidos en bilingüe
 
-boc-a-2024-226-3747
-Boletín Oficial de Canarias núm. 226 Miércoles 13 de noviembre de 202438961
-https://sede.gobiernodecanarias.org/boc
 ESPECIALIDAD: CFGM EMERGENCIAS SANITARIAS (12140601)
 FAMILIA PROFESIONAL: SANIDAD
 Curso
@@ -6013,9 +5529,6 @@ DURACIÓN TOTAL DEL SEGUNDO CURSO 1000 30
 DURACIÓN TOTAL DEL CICLO FORMATIVO 2000
 *Módulos profesionales idénticos a otros títulos de Formación Profesional
 
-boc-a-2024-226-3747
-Boletín Oficial de Canarias núm. 226 Miércoles 13 de noviembre de 202438962
-https://sede.gobiernodecanarias.org/boc
 ESPECIALIDAD: CFGM FARMACIA Y PARAFARMACIA (12140602)
 FAMILIA PROFESIONAL: SANIDAD
 Curso
@@ -6048,9 +5561,6 @@ DURACIÓN TOTAL DEL SEGUNDO CURSO 1000 30
 DURACIÓN TOTAL DEL CICLO FORMATIVO 2000
 *Módulos profesionales idénticos a otros títulos de Formación Profesional
 
-boc-a-2024-226-3747
-Boletín Oficial de Canarias núm. 226 Miércoles 13 de noviembre de 202438963
-https://sede.gobiernodecanarias.org/boc
 ESPECIALIDAD: CFGS ANATOMÍA PATOLÓGICA Y CITODIAGNÓSTICO (12240604)
 FAMILIA PROFESIONAL: SANIDAD
 Curso
@@ -6084,9 +5594,6 @@ DURACIÓN TOTAL DEL CICLO FORMATIVO 2000
 *Módulos profesionales idénticos a otros títulos de Formación Profesional
 Los módulos profesionales asociados a unidades de competencia (UC) son susceptibles de ser impartidos en bilingüe
 
-boc-a-2024-226-3747
-Boletín Oficial de Canarias núm. 226 Miércoles 13 de noviembre de 202438964
-https://sede.gobiernodecanarias.org/boc
 ESPECIALIDAD: CFGS AUDIOLOGÍA PROTÉSICA (12240601)
 FAMILIA PROFESIONAL: SANIDAD
 Curso
@@ -6119,9 +5626,6 @@ DURACIÓN TOTAL DEL CICLO FORMATIVO 2000
 *Módulos profesionales idénticos a otros títulos de Formación Profesional
 Los módulos profesionales asociados a unidades de competencia (UC) son susceptibles de ser impartidos en bilingüe
 
-boc-a-2024-226-3747
-Boletín Oficial de Canarias núm. 226 Miércoles 13 de noviembre de 202438965
-https://sede.gobiernodecanarias.org/boc
 ESPECIALIDAD: CFGS DOCUMENTACIÓN Y ADMINISTRACIÓN SANITARIAS  (12240605)
 FAMILIA PROFESIONAL: SANIDAD
 Curso
@@ -6157,9 +5661,6 @@ DURACIÓN TOTAL DEL CICLO FORMATIVO 2000
 *Módulos profesionales idénticos a otros títulos de Formación Profesional
 Los módulos profesionales asociados a unidades de competencia (UC) son susceptibles de ser impartidos en bilingüe
 
-boc-a-2024-226-3747
-Boletín Oficial de Canarias núm. 226 Miércoles 13 de noviembre de 202438966
-https://sede.gobiernodecanarias.org/boc
 ESPECIALIDAD: CFGS HIGIENE BUCODENTAL (12240606)
 FAMILIA PROFESIONAL: SANIDAD
 Curso
@@ -6195,9 +5696,6 @@ DURACIÓN TOTAL DEL CICLO FORMATIVO 2000
 *Módulos profesionales idénticos a otros títulos de Formación Profesional
 Los módulos profesionales asociados a unidades de competencia (UC) son susceptibles de ser impartidos en bilingüe
 
-boc-a-2024-226-3747
-Boletín Oficial de Canarias núm. 226 Miércoles 13 de noviembre de 202438967
-https://sede.gobiernodecanarias.org/boc
 ESPECIALIDAD: CFGS IMAGEN PARA EL DIAGNÓSTICO Y MEDICINA NUCLEAR (12240607)
 FAMILIA PROFESIONAL: SANIDAD
 Curso
@@ -6233,9 +5731,6 @@ DURACIÓN TOTAL DEL CICLO FORMATIVO 2000
 *Módulos profesionales idénticos a otros títulos de Formación Profesional
 Los módulos profesionales asociados a unidades de competencia (UC) son susceptibles de ser impartidos en bilingüe
 
-boc-a-2024-226-3747
-Boletín Oficial de Canarias núm. 226 Miércoles 13 de noviembre de 202438968
-https://sede.gobiernodecanarias.org/boc
 ESPECIALIDAD: CFGS LABORATORIO CLÍNICO Y BIOMÉDICO (12240608)
 FAMILIA PROFESIONAL: SANIDAD
 Curso
@@ -6269,9 +5764,6 @@ DURACIÓN TOTAL DEL CICLO FORMATIVO 2000
 *Módulos profesionales idénticos a otros títulos de Formación Profesional
 Los módulos profesionales asociados a unidades de competencia (UC) son susceptibles de ser impartidos en bilingüe
 
-boc-a-2024-226-3747
-Boletín Oficial de Canarias núm. 226 Miércoles 13 de noviembre de 202438969
-https://sede.gobiernodecanarias.org/boc
 ESPECIALIDAD: CFGS PRÓTESIS DENTALES (12240602)
 FAMILIA PROFESIONAL: SANIDAD
 Curso
@@ -6305,9 +5797,6 @@ DURACIÓN TOTAL DEL CICLO FORMATIVO 2000
 *Módulos profesionales idénticos a otros títulos de Formación Profesional
 Los módulos profesionales asociados a unidades de competencia (UC) son susceptibles de ser impartidos en bilingüe
 
-boc-a-2024-226-3747
-Boletín Oficial de Canarias núm. 226 Miércoles 13 de noviembre de 202438970
-https://sede.gobiernodecanarias.org/boc
 ESPECIALIDAD: CFGS RADIOTERAPIA Y DOSIMETRÍA (12240609)
 FAMILIA PROFESIONAL: SANIDAD
 Curso
@@ -6341,9 +5830,6 @@ DURACIÓN TOTAL DEL CICLO FORMATIVO 2000
 *Módulos profesionales idénticos a otros títulos de Formación Profesional
 Los módulos profesionales asociados a unidades de competencia (UC) son susceptibles de ser impartidos en bilingüe
 
-boc-a-2024-226-3747
-Boletín Oficial de Canarias núm. 226 Miércoles 13 de noviembre de 202438971
-https://sede.gobiernodecanarias.org/boc
 ESPECIALIDAD: CFGM EMERGENCIAS Y PROTECCIÓN CIVIL (12140701)
 FAMILIA PROFESIONAL: SEGURIDAD Y MEDIO AMBIENTE
 Curso
@@ -6378,9 +5864,6 @@ DURACIÓN TOTAL DEL SEGUNDO CURSO 1000 30
 DURACIÓN TOTAL DEL CICLO FORMATIVO 2000
 *Módulos profesionales idénticos a otros títulos de Formación Profesional
 
-boc-a-2024-226-3747
-Boletín Oficial de Canarias núm. 226 Miércoles 13 de noviembre de 202438972
-https://sede.gobiernodecanarias.org/boc
 ESPECIALIDAD: CFGM SEGURIDAD (12140702)
 FAMILIA PROFESIONAL: SEGURIDAD Y MEDIO AMBIENTE
 Curso
@@ -6419,9 +5902,6 @@ Privada, para los vigilantes de seguridad, vigilantes de explosivos, escoltas pr
 como establece este mismo precepto, de la exigencia de la prueba de comprobación de conocimientos y capacidad a que se refiere el artículo 28.1.i) para la obtención de las
 habilitaciones profesionales establecidas en esta norma
 
-boc-a-2024-226-3747
-Boletín Oficial de Canarias núm. 226 Miércoles 13 de noviembre de 202438973
-https://sede.gobiernodecanarias.org/boc
 ESPECIALIDAD: CFGS COORDINACIÓN DE EMERGENCIAS Y PROTECCIÓN CIVIL (12240702)
 FAMILIA PROFESIONAL: SEGURIDAD Y MEDIO AMBIENTE
 Curso
@@ -6460,9 +5940,6 @@ DURACIÓN TOTAL DEL CICLO FORMATIVO 2000
 *Módulos profesionales idénticos a otros títulos de Formación Profesional
 Los módulos profesionales asociados a unidades de competencia (UC) son susceptibles de ser impartidos en bilingüe
 
-boc-a-2024-226-3747
-Boletín Oficial de Canarias núm. 226 Miércoles 13 de noviembre de 202438974
-https://sede.gobiernodecanarias.org/boc
 ESPECIALIDAD: CFGS EDUCACIÓN Y CONTROL AMBIENTAL (12240701)
 FAMILIA PROFESIONAL: SEGURIDAD Y MEDIO AMBIENTE
 Curso
@@ -6498,9 +5975,6 @@ DURACIÓN TOTAL DEL CICLO FORMATIVO 2000
 *Módulos profesionales idénticos a otros títulos de Formación Profesional
 Los módulos profesionales asociados a unidades de competencia (UC) son susceptibles de ser impartidos en bilingüe
 
-boc-a-2024-226-3747
-Boletín Oficial de Canarias núm. 226 Miércoles 13 de noviembre de 202438975
-https://sede.gobiernodecanarias.org/boc
 ESPECIALIDAD: CFGS QUÍMICA Y SALUD AMBIENTAL (12240703)
 FAMILIA PROFESIONAL: SEGURIDAD Y MEDIO AMBIENTE
 Curso
@@ -6535,9 +6009,6 @@ DURACIÓN TOTAL DEL CICLO FORMATIVO 2000
 *Módulos profesionales idénticos a otros títulos de Formación Profesional.
 Los módulos profesionales asociados a unidades de competencia (UC) son susceptibles de ser impartidos en bilingüe.
 
-boc-a-2024-226-3747
-Boletín Oficial de Canarias núm. 226 Miércoles 13 de noviembre de 202438976
-https://sede.gobiernodecanarias.org/boc
 ESPECIALIDAD: CFGM ATENCIÓN A PERSONAS EN SITUACIÓN DE DEPENDENCIA (12142301)
 FAMILIA PROFESIONAL: SERVICIOS SOCIOCULTURALES Y A LA COMUNIDAD
 Curso
@@ -6571,9 +6042,6 @@ DURACIÓN TOTAL DEL SEGUNDO CURSO 1000 30
 DURACIÓN TOTAL DEL CICLO FORMATIVO 2000
 *Módulos profesionales idénticos a otros títulos de Formación Profesional
 
-boc-a-2024-226-3747
-Boletín Oficial de Canarias núm. 226 Miércoles 13 de noviembre de 202438977
-https://sede.gobiernodecanarias.org/boc
 ESPECIALIDAD: CFGS ANIMACIÓN SOCIOCULTURAL Y TURÍSTICA (12242302)
 FAMILIA PROFESIONAL: SERVICIOS SOCIOCULTURALES Y A LA COMUNIDAD
 Curso
@@ -6609,9 +6077,6 @@ DURACIÓN TOTAL DEL CICLO FORMATIVO 2000
 *Módulos profesionales idénticos a otros títulos de Formación Profesional
 Los módulos profesionales asociados a unidades de competencia (UC) son susceptibles de ser impartidos en bilingüe
 
-boc-a-2024-226-3747
-Boletín Oficial de Canarias núm. 226 Miércoles 13 de noviembre de 202438978
-https://sede.gobiernodecanarias.org/boc
 ESPECIALIDAD: CFGS EDUCACIÓN INFANTIL (12242301)
 FAMILIA PROFESIONAL: SERVICIOS SOCIOCULTURALES Y A LA COMUNIDAD
 Curso
@@ -6646,9 +6111,6 @@ DURACIÓN TOTAL DEL CICLO FORMATIVO 2000
 *Módulos profesionales idénticos a otros títulos de Formación Profesional
 Los módulos profesionales asociados a unidades de competencia (UC) son susceptibles de ser impartidos en bilingüe
 
-boc-a-2024-226-3747
-Boletín Oficial de Canarias núm. 226 Miércoles 13 de noviembre de 202438979
-https://sede.gobiernodecanarias.org/boc
 ESPECIALIDAD: CFGS FORMACIÓN PARA LA MOVILIDAD SEGURA Y SOSTENIBLE (12242306)
 FAMILIA PROFESIONAL: SERVICIOS SOCIOCULTURALES Y A LA COMUNIDAD
 Curso
@@ -6689,9 +6151,6 @@ Los módulos profesionales asociados a unidades de competencia (UC) son suscepti
 Dadas las características del módulo profesional 1655. Didáctica de la enseñanza práctica de la conducción, para cursar el mismo es necesario estar en posesión de los permisos de conducción B y A2, establecidos en el
 artículo 4 del Real Decreto 818/2009, de 8 de mayo, por el que se aprueba el Reglamento General de Conductores (Real Decreto 174/2021, de 23 de marzo)
 
-boc-a-2024-226-3747
-Boletín Oficial de Canarias núm. 226 Miércoles 13 de noviembre de 202438980
-https://sede.gobiernodecanarias.org/boc
 ESPECIALIDAD: CFGS INTEGRACIÓN SOCIAL (12242303)
 FAMILIA PROFESIONAL: SERVICIOS SOCIOCULTURALES Y A LA COMUNIDAD
 Curso
@@ -6727,9 +6186,6 @@ DURACIÓN TOTAL DEL CICLO FORMATIVO 2000
 *Módulos profesionales idénticos a otros títulos de Formación Profesional
 Los módulos profesionales asociados a unidades de competencia (UC) son susceptibles de ser impartidos en bilingüe
 
-boc-a-2024-226-3747
-Boletín Oficial de Canarias núm. 226 Miércoles 13 de noviembre de 202438981
-https://sede.gobiernodecanarias.org/boc
 ESPECIALIDAD: CFGS MEDIACIÓN COMUNICATIV A (12242305)
 FAMILIA PROFESIONAL: SERVICIOS SOCIOCULTURALES Y A LA COMUNIDAD
 Curso
@@ -6767,9 +6223,6 @@ DURACIÓN TOTAL DEL CICLO FORMATIVO 2000
 *Módulos profesionales idénticos a otros títulos de Formación Profesional.
 Los módulos profesionales asociados a unidades de competencia (UC) son susceptibles de ser impartidos en bilingüe
 
-boc-a-2024-226-3747
-Boletín Oficial de Canarias núm. 226 Miércoles 13 de noviembre de 202438982
-https://sede.gobiernodecanarias.org/boc
 ESPECIALIDAD: CFGS PROMOCIÓN DE LA IGUALDAD DE GÉNERO (12242304)
 FAMILIA PROFESIONAL: SERVICIOS SOCIOCULTURALES Y A LA COMUNIDAD
 Curso
@@ -6805,9 +6258,6 @@ DURACIÓN TOTAL DEL CICLO FORMATIVO 2000
 *Módulos profesionales idénticos a otros títulos de Formación Profesional
 Los módulos profesionales asociados a unidades de competencia (UC) son susceptibles de ser impartidos en bilingüe
 
-boc-a-2024-226-3747
-Boletín Oficial de Canarias núm. 226 Miércoles 13 de noviembre de 202438983
-https://sede.gobiernodecanarias.org/boc
 ESPECIALIDAD: CFGM CALZADO Y COMPLEMENTOS DE MODA (12141702)
 FAMILIA PROFESIONAL: TEXTIL, CONFECCIÓN Y PIEL
 Curso
@@ -6841,9 +6291,6 @@ DURACIÓN TOTAL DEL SEGUNDO CURSO 1000 30
 DURACIÓN TOTAL DEL CICLO FORMATIVO 2000
 *Módulos profesionales idénticos a otros títulos de Formación Profesional
 
-boc-a-2024-226-3747
-Boletín Oficial de Canarias núm. 226 Miércoles 13 de noviembre de 202438984
-https://sede.gobiernodecanarias.org/boc
 ESPECIALIDAD: CFGM CONFECCIÓN Y MODA (12141701)
 FAMILIA PROFESIONAL: TEXTIL, CONFECCIÓN Y PIEL
 Curso
@@ -6876,9 +6323,6 @@ DURACIÓN TOTAL DEL SEGUNDO CURSO 1000 30
 DURACIÓN TOTAL DEL CICLO FORMATIVO 2000
 *Módulos profesionales idénticos a otros títulos de Formación Profesional
 
-boc-a-2024-226-3747
-Boletín Oficial de Canarias núm. 226 Miércoles 13 de noviembre de 202438985
-https://sede.gobiernodecanarias.org/boc
 ESPECIALIDAD: CFGS PATRONAJE Y MODA (12241701)
 FAMILIA PROFESIONAL: TEXTIL, CONFECCIÓN Y PIEL
 Curso
@@ -6914,9 +6358,6 @@ DURACIÓN TOTAL DEL CICLO FORMATIVO 2000
 *Módulos profesionales idénticos a otros títulos de Formación Profesional
 Los módulos profesionales asociados a unidades de competencia (UC) son susceptibles de ser impartidos en bilingüe
 
-boc-a-2024-226-3747
-Boletín Oficial de Canarias núm. 226 Miércoles 13 de noviembre de 202438986
-https://sede.gobiernodecanarias.org/boc
 ESPECIALIDAD: CFGS VESTUARIO A MEDIDA Y DE ESPECTÁCULOS (12241703)
 FAMILIA PROFESIONAL: TEXTIL, CONFECCIÓN Y PIEL
 Curso
@@ -6950,9 +6391,6 @@ DURACIÓN TOTAL DEL CICLO FORMATIVO 2000
 *Módulos profesionales idénticos a otros títulos de Formación Profesional
 Los módulos profesionales asociados a unidades de competencia (UC) son susceptibles de ser impartidos en bilingüe
 
-boc-a-2024-226-3747
-Boletín Oficial de Canarias núm. 226 Miércoles 13 de noviembre de 202438987
-https://sede.gobiernodecanarias.org/boc
 ESPECIALIDAD:  CFGM CARROCERÍA (12141201)
 FAMILIA PROFESIONAL: TRANSPORTE Y MANTENIMIENTO DE VEHÍCULOS
 Curso
@@ -6983,9 +6421,6 @@ DURACIÓN TOTAL DEL SEGUNDO CURSO 1000 30
 DURACIÓN TOTAL DEL CICLO FORMATIVO 2000
 *Módulos profesionales idénticos a otros títulos de Formación Profesional
 
-boc-a-2024-226-3747
-Boletín Oficial de Canarias núm. 226 Miércoles 13 de noviembre de 202438988
-https://sede.gobiernodecanarias.org/boc
 ESPECIALIDAD: CFGM CONDUCCIÓN DE VEHÍCULOS DE TRANSPORTE POR CARRETERA (12141204)
 FAMILIA PROFESIONAL: TRANSPORTE Y MANTENIMIENTO DE VEHÍCULOS
 Curso
@@ -7017,9 +6452,6 @@ DURACIÓN TOTAL DEL SEGUNDO CURSO 1000 30
 DURACIÓN TOTAL DEL CICLO FORMATIVO 2000
 *Módulos profesionales idénticos a otros títulos de Formación Profesional
 
-boc-a-2024-226-3747
-Boletín Oficial de Canarias núm. 226 Miércoles 13 de noviembre de 202438989
-https://sede.gobiernodecanarias.org/boc
 ESPECIALIDAD:  CFGM ELECTROMECÁNICA DE MAQUINARIA (12141203)
 FAMILIA PROFESIONAL: TRANSPORTE Y MANTENIMIENTO DE VEHÍCULOS
 Curso
@@ -7052,9 +6484,6 @@ DURACIÓN TOTAL DEL SEGUNDO CURSO 1000 30
 DURACIÓN TOTAL DEL CICLO FORMATIVO 2000
 *Módulos profesionales idénticos a otros títulos de Formación Profesional
 
-boc-a-2024-226-3747
-Boletín Oficial de Canarias núm. 226 Miércoles 13 de noviembre de 202438990
-https://sede.gobiernodecanarias.org/boc
 ESPECIALIDAD:  CFGM ELECTROMECÁNICA DE VEHÍCULOS AUTOMÓVILES (12141202)
 FAMILIA PROFESIONAL: TRANSPORTE Y MANTENIMIENTO DE VEHÍCULOS
 Curso
@@ -7086,9 +6515,6 @@ DURACIÓN TOTAL DEL SEGUNDO CURSO 1000 30
 DURACIÓN TOTAL DEL CICLO FORMATIVO 2000
 *Módulos profesionales idénticos a otros títulos de Formación Profesional
 
-boc-a-2024-226-3747
-Boletín Oficial de Canarias núm. 226 Miércoles 13 de noviembre de 202438991
-https://sede.gobiernodecanarias.org/boc
 ESPECIALIDAD:  CFGM MANTENIMIENTO DE MATERIAL RODANTE FERROVIARIO (12141205)
 FAMILIA PROFESIONAL: TRANSPORTE Y MANTENIMIENTO DE VEHÍCULOS
 Curso
@@ -7121,9 +6547,6 @@ DURACIÓN TOTAL DEL SEGUNDO CURSO 1000 30
 DURACIÓN TOTAL DEL CICLO FORMATIVO 2000
 *Módulos profesionales idénticos a otros títulos de Formación Profesional
 
-boc-a-2024-226-3747
-Boletín Oficial de Canarias núm. 226 Miércoles 13 de noviembre de 202438992
-https://sede.gobiernodecanarias.org/boc
 ESPECIALIDAD: CFGM MANTENIMIENTO DE ESTRUCTURAS DE MADERA Y MOBILIARIO DE EMBARCACIONES DE RECREO (12141207)
 FAMILIA PROFESIONAL: TRANSPORTE Y MANTENIMIENTO DE VEHÍCULOS
 Curso
@@ -7158,9 +6581,6 @@ DURACIÓN TOTAL DEL SEGUNDO CURSO 1000 30
 DURACIÓN TOTAL DEL CICLO FORMATIVO 2000
 *Módulos profesionales idénticos a otros títulos de Formación Profesional
 
-boc-a-2024-226-3747
-Boletín Oficial de Canarias núm. 226 Miércoles 13 de noviembre de 202438993
-https://sede.gobiernodecanarias.org/boc
 ESPECIALIDAD: CFGS AUTOMOCIÓN (12241201)
 FAMILIA PROFESIONAL: TRANSPORTE Y MANTENIMIENTO DE VEHÍCULOS
 Curso
@@ -7194,9 +6614,6 @@ DURACIÓN TOTAL DEL CICLO FORMATIVO 2000
 *Módulos profesionales idénticos a otros títulos de Formación Profesional
 Los módulos profesionales asociados a unidades de competencia (UC) son susceptibles de ser impartidos en bilingüe
 
-boc-a-2024-226-3747
-Boletín Oficial de Canarias núm. 226 Miércoles 13 de noviembre de 202438994
-https://sede.gobiernodecanarias.org/boc
 ESPECIALIDAD: CFGS MANTENIMIENTO AEROMECÁNICO DE A VIONES CON MOTOR DE TURBINA (12241203)
 FAMILIA PROFESIONAL: TRANSPORTE Y MANTENIMIENTO DE VEHÍCULOS
 Curso
@@ -7236,9 +6653,6 @@ DURACIÓN TOTAL DEL TERCER CURSO 300 300
 DURACIÓN TOTAL DEL CICLO FORMATIVO 2605
 *Módulos profesionales idénticos a otros títulos de Formación Profesional
 
-boc-a-2024-226-3747
-Boletín Oficial de Canarias núm. 226 Miércoles 13 de noviembre de 202438995
-https://sede.gobiernodecanarias.org/boc
 ESPECIALIDAD: CFGS MANTENIMIENTO AEROMECÁNICO DE HELICÓPTEROS CON MOTOR DE TURBINA (12241205)
 FAMILIA PROFESIONAL: TRANSPORTE Y MANTENIMIENTO DE VEHÍCULOS
 Curso
@@ -7279,9 +6693,6 @@ DURACIÓN TOTAL DEL TERCER CURSO 300 300
 DURACIÓN TOTAL DEL CICLO FORMATIVO 2605
 *Módulos profesionales idénticos a otros títulos de Formación Profesional
 
-boc-a-2024-226-3747
-Boletín Oficial de Canarias núm. 226 Miércoles 13 de noviembre de 202438996
-https://sede.gobiernodecanarias.org/boc
 ESPECIALIDAD: CFGS MANTENIMIENTO DE SISTEMAS ELECTRÓNICOS Y A VIÓNICOS EN AERONA VES (12241206)
 FAMILIA PROFESIONAL: TRANSPORTE Y MANTENIMIENTO DE VEHÍCULOS
 Curso
@@ -7323,9 +6734,6 @@ DURACIÓN TOTAL DEL TERCER CURSO 300 300
 DURACIÓN TOTAL DEL CICLO FORMATIVO 2605
 *Módulos profesionales idénticos a otros títulos de Formación Profesional
 
-boc-a-2024-226-3747
-Boletín Oficial de Canarias núm. 226 Miércoles 13 de noviembre de 202438997
-https://sede.gobiernodecanarias.org/boc
 ANEXO VII
 DISTRIBUCIÓN HORARIA Y ESTRUCTURA MODULAR DE LOS GRADOS E, NIVEL 2 
 Y 3 (CURSOS DE ESPECIALIZACIÓN)
@@ -7371,9 +6779,6 @@ ANEXO VII
 DISTRIBUCIÓN HORARIA Y ESTRUCTURA MODULAR DE LOS GRADOS E, 
 NIVEL 2 Y 3 (CURSOS DE ESPECIALIZACIÓN)
 
-boc-a-2024-226-3747
-Boletín Oficial de Canarias núm. 226 Miércoles 13 de noviembre de 202438998
-https://sede.gobiernodecanarias.org/boc
 4. Curso de especialización en Panadería y bollería artesanales (Acceso GM) (12542401).
 Familia Profesional: Hostelería y Turismo.
 Código
@@ -7424,9 +6829,6 @@ semanales
 instalaciones 8 120 4
 Totales 25 420 14
 
-boc-a-2024-226-3747
-Boletín Oficial de Canarias núm. 226 Miércoles 13 de noviembre de 202438999
-https://sede.gobiernodecanarias.org/boc
 7. Curso  de  especialización  en  Ciberseguridad  en  entornos  de  las  tecnologías  de  la
 información (Acceso GS) (12442001).
 Familia Profesional: Informática y Comunicaciones.
@@ -7480,9 +6882,6 @@ semanales
 5052 Diseño, gestión, publicación y producción 8 120 4
 Totales 36 600 20
 
-boc-a-2024-226-3747
-Boletín Oficial de Canarias núm. 226 Miércoles 13 de noviembre de 202439000
-https://sede.gobiernodecanarias.org/boc
 10. Curso  de  especialización  en  Digitalización  del  mantenimiento  industrial  (Acceso  GS)
 (12440901).
 Familia Profesional: Instalación y Mantenimiento.
@@ -7534,9 +6933,6 @@ semanales
 5079 Sistemas de transmisión, freno regenerativo y control térmico 9 150 5
 Totales 40 660 22
 
-boc-a-2024-226-3747
-Boletín Oficial de Canarias núm. 226 Miércoles 13 de noviembre de 202439001
-https://sede.gobiernodecanarias.org/boc
 13. Curso de especialización en Modelado de la información de la construcción (BIM) (Acceso
 GS) (12440903).
 Familia Profesional: Instalación y Mantenimiento.
@@ -7588,9 +6984,6 @@ semanales
 5124 Redacción de contenidos digitales 10 180 6
 Totales 25 420 14
 
-boc-a-2024-226-3747
-Boletín Oficial de Canarias núm. 226 Miércoles 13 de noviembre de 202439002
-https://sede.gobiernodecanarias.org/boc
 16. Curso de especialización en Robótica colaborativa (Acceso GS) (12441003).
 Familia Profesional: Electricidad y Electrónica.
 Código
@@ -7607,9 +7000,6 @@ semanales
 5090 Seguridad y mantenimiento 4 60 2
 Totales 24 420 14
 
-boc-a-2024-226-3747
-Boletín Oficial de Canarias núm. 226 Miércoles 13 de noviembre de 202439003
-https://sede.gobiernodecanarias.org/boc
 (Anverso)
 ANEXO VIII
 D./Dña. _______________________________________________________________________________, 
@@ -7634,9 +7024,6 @@ Fdo: Fdo:
 (2) Especificar título correspondiente, Técnico o Técnico Superior en
 (3) Real Decreto por el que se establece el título
 
-boc-a-2024-226-3747
-Boletín Oficial de Canarias núm. 226 Miércoles 13 de noviembre de 202439004
-https://sede.gobiernodecanarias.org/boc
 (Reverso)
 CONTENIDOS DEL PROGRAMA DE FORMACIÓN PARA EL DESEMPEÑO DE LAS 
 FUNCIONES DE NIVEL BÁSICO
@@ -7666,9 +7053,6 @@ Total horas: 5.
 V . Primeros auxilios.
 Total horas: 5.
 
-boc-a-2024-226-3747
-Boletín Oficial de Canarias núm. 226 Miércoles 13 de noviembre de 202439005
-https://sede.gobiernodecanarias.org/boc
 (Anverso)
 ANEXO IX
 D./Dña.  ______________________________________________________________  Secretario/Secretaria 
@@ -7693,9 +7077,6 @@ Fdo: Fdo:
 (1) Especificar el título correspondiente, Técnico Básico en
 (2) Real Decreto por el que se establece el currículo
 
-boc-a-2024-226-3747
-Boletín Oficial de Canarias núm. 226 Miércoles 13 de noviembre de 202439006
-https://sede.gobiernodecanarias.org/boc
 (Reverso)
 CONTENIDOS DEL PROGRAMA DE FORMACIÓN PARA EL DESEMPEÑO DE LAS 
 FUNCIONES DE NIVEL BÁSICO

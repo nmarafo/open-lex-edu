@@ -30,9 +30,6 @@ fuente_pdf_oficial: https://sede.gobiernodecanarias.org/boc/boc-a-2024-048-880.p
 
 # Resolución de 15 de febrero de 2024, de la Dirección General de Personal y Formación del Profesorado, por la que se determina el procedimiento para el acceso a listas de empleo abiertas, para el nombramiento de personal docente interino en el ámbito educativo no universitario (BOC nº 48, de 6 de marzo).
 
-https://sede.gobiernodecanarias.org/boc
-boc-a-2024-048-880
-Boletín Oficial de Canarias núm. 48 Miércoles 6 de marzo de 20247399
 II. Autoridades y personal
 Oposiciones y concursos
 Consejería de Educación, Formación Profesional, Actividad Física y Deportes
@@ -74,9 +71,6 @@ febrero, por el que se aprueba el Reglamento Orgánico de la Consejería de Educ
 Universidades, Cultura y Deportes, en relación con el artículo 6 de la Orden de 9 de agosto 
 de 2021,
 
-https://sede.gobiernodecanarias.org/boc
-boc-a-2024-048-880
-Boletín Oficial de Canarias núm. 48 Miércoles 6 de marzo de 20247400
 RESUELVE :
 Primero.- Establecer el procedimiento para el acceso a listas de empleo abiertas del 
 Cuerpo de Maestros y Cuerpo de Profesores de Enseñanza Secundaria para el nombramiento 
@@ -102,9 +96,6 @@ expresamente el de reposición o se produzca la desestimación presunta del mism
 Las Palmas de Gran Canaria, a 15 de febrero de 2024.- La Directora General de Personal 
 y Formación del Profesorado, Mónica Ramírez Barbosa.
 
-https://sede.gobiernodecanarias.org/boc
-boc-a-2024-048-880
-Boletín Oficial de Canarias núm. 48 Miércoles 6 de marzo de 20247401
 ANEXO I
 BASES DEL PROCEDIMIENTO
 1. Normas generales.
@@ -142,9 +133,6 @@ Central de Delincuentes Sexuales. Si el citado certificado no se encontrara reda
 lengua castellana, deberá acompañarse de su traducción oficial o jurada (realizada por 
 traductor jurado o validada por el consulado u oficina diplomática correspondiente). Este 
 
-https://sede.gobiernodecanarias.org/boc
-boc-a-2024-048-880
-Boletín Oficial de Canarias núm. 48 Miércoles 6 de marzo de 20247402
 requisito deberá mantenerse durante la prestación de los servicios, quedando obligado el 
 docente a comunicar aquellas sentencias firmes en las que fuera condenado por los delitos 
 a los que hace referencia el citado artículo.
@@ -185,9 +173,6 @@ Los aspirantes deberán acreditar alguna de las titulaciones recogidas en la Ord
 de 5 de mayo de 2018, de la Consejería de Educación y Universidades, por la que se 
 establecen las titulaciones académicas exigidas para la incorporación de efectivos en 
 
-https://sede.gobiernodecanarias.org/boc
-boc-a-2024-048-880
-Boletín Oficial de Canarias núm. 48 Miércoles 6 de marzo de 20247403
 las listas de empleo para el desempeño en régimen de interinidad de puestos vacantes y 
 para sustituciones de docentes no universitarios en la Comunidad Autónoma de Canarias, 
 así como aquellas titulaciones que por sentencia tengan reconocida la habilitación para 
@@ -228,9 +213,6 @@ Igualmente se habrán de consignar las preferencias en relación a la jornada (c
 parcial o ambas), haciéndose estas extensivas a todas las especialidades, incluidas aquellas 
 de las que ya forme parte.
 
-https://sede.gobiernodecanarias.org/boc
-boc-a-2024-048-880
-Boletín Oficial de Canarias núm. 48 Miércoles 6 de marzo de 20247404
 e) La solicitud incluirá un consentimiento de acceso, por parte de la Dirección General 
 de Personal y Formación del Profesorado, a los datos del aspirante en el Registro Central de 
 Delincuentes Sexuales. En caso de no marcar este consentimiento, el aspirante seleccionado 
@@ -268,9 +250,6 @@ La ordenación de los participantes se producirá atendiendo a la valoración ex
 la nota media del expediente académico del título habilitante como requisito aportado por 
 el aspirante, teniéndose en cuenta la siguiente escala:
 
-https://sede.gobiernodecanarias.org/boc
-boc-a-2024-048-880
-Boletín Oficial de Canarias núm. 48 Miércoles 6 de marzo de 20247405
 A tal fin, las personas aspirantes deberán aportar junto con su solicitud certificación 
 académica personal en la que conste la nota media obtenida en la titulación que les habilita 
 para impartir docencia en la especialidad a la que aspiran. En todo caso, se tendrá en cuenta 
@@ -315,9 +294,6 @@ Dirección General de Política Universitaria de 21 de marzo de 2016, de forma g
 sede electrónica del Ministerio de Educación y Formación Profesional, a través del enlace: 
 https://universidades.sede.gob.es/pagina/index/directorio/Equivalencia_notas_medias
 
-https://sede.gobiernodecanarias.org/boc
-boc-a-2024-048-880
-Boletín Oficial de Canarias núm. 48 Miércoles 6 de marzo de 20247406
 De producirse empates entre varios participantes, estos serán resueltos atendiendo a la 
 fecha y hora de entrada de la solicitud en el registro.
 6. Admisión de los aspirantes. Lista provisional y definitiva.
@@ -358,9 +334,6 @@ a través de selección efectuada por el Servicio Canario de Empleo por alguna d
 especialidades objeto de la presente convocatoria, no tienen que participar en este 
 procedimiento ya que, de conformidad con lo dispuesto en los artículo 14.5 y 14.6 de 
 
-https://sede.gobiernodecanarias.org/boc
-boc-a-2024-048-880
-Boletín Oficial de Canarias núm. 48 Miércoles 6 de marzo de 20247407
 la Orden de 9 de agosto de 2021, se integran automáticamente en la lista de empleo de 
 la especialidad por la que han sido nombrados a continuación del último integrante del 
 bloque 3.
@@ -397,9 +370,6 @@ procedimiento disciplinario.
 Resultarán excluidos quienes no soliciten la disponibilidad en un plazo superior a diez 
 días desde que finalizó la causa que motivó la situación de no disponibilidad.
 
-https://sede.gobiernodecanarias.org/boc
-boc-a-2024-048-880
-Boletín Oficial de Canarias núm. 48 Miércoles 6 de marzo de 20247408
 El tiempo de trabajo desempeñado por quienes renuncien a su nombramiento después 
 de haber tomado posesión no se tendrá en cuenta en el proceso de actualización de las listas.
 11. Desarrollo e interpretación de estas bases.
@@ -414,9 +384,6 @@ hombres.
 En todo lo no previsto en la presente Resolución se estará a la regulación contenida en 
 la Orden de 9 de agosto de 2021.
 
-https://sede.gobiernodecanarias.org/boc
-boc-a-2024-048-880
-Boletín Oficial de Canarias núm. 48 Miércoles 6 de marzo de 20247409
 ANEXO II
 CUERPOS Y ESPECIALIDADES
 CUERPO DE MAESTROS:

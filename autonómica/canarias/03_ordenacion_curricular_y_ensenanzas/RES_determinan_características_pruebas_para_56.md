@@ -29,10 +29,7 @@ fuente_pdf_oficial: https://sede.gobiernodecanarias.org/boc/boc-a-2018-048-1091.
 
 # Resolución de 27 de febrero de 2018, por la que se determinan las características de las pruebas para la obtención del certificado de nivel C2 de enseñanzas de idiomas de régimen especial, en la Comunidad Autónoma de Canarias (BOC n.º 48, de 8 de marzo).
 
-Boletín Oficial de Canarias núm. 48
-https://sede.gobcan.es/boc
 Jueves 8 de marzo de 2018
-8211
 III. Otras Resoluciones
 Consejería de Educación y Universidades
 1091 Dirección General de Formación Profesional y Educación de Adultos.- Resolución 
@@ -69,13 +66,8 @@ Segundo.- El Real Decreto 1041/2017, de 22 de diciembre, por el que se fijan las
 exigencias mínimas del nivel básico a efectos de certificación, se establece el currículo 
 básico de los niveles Intermedio B1, Intermedio B2, Avanzado C1, y Avanzado C2, de las 
 Página 
-boc-a-2018-048-1091
 
-
-Boletín Oficial de Canarias núm. 48
-https://sede.gobcan.es/boc
 Jueves 8 de marzo de 2018
-8212
 Enseñanzas de idiomas de régimen especial reguladas por la Ley Orgánica 2/2006, de 3 de 
 mayo, de Educación, y se establecen las equivalencias entre las enseñanzas de idiomas de 
 régimen especial reguladas en diversos planes de estudios (BOE nº 311, de 23 de diciembre 
@@ -116,13 +108,8 @@ especial en la Comunidad Autónoma de Canarias, en los términos recogidos en el
 la presente resolución.
 Segundo.- Ordenar su publicación en el Boletín Oficial de Canarias para general 
 conocimiento y encomendar a los equipos directivos de las EOI que desarrollen el 
-boc-a-2018-048-1091
 
-
-Boletín Oficial de Canarias núm. 48
-https://sede.gobcan.es/boc
 Jueves 8 de marzo de 2018
-8213
 procedimiento más adecuado para que la presente resolución sea conocida y difundida entre 
 los distintos sectores de la comunidad educativa, haciéndoles llegar copia, cuando así se 
 solicite por la persona interesada.
@@ -136,13 +123,8 @@ octubre, del Procedimiento  Administrativo Común de las Administraciones Públi
 nº 236, de 2 de octubre de 2015).
 Santa Cruz de Tenerife, a 27 de febrero de 2018.- El Director General de Formación 
 Profesional y Educación de Adultos, Manuel Jorge Pérez.
-boc-a-2018-048-1091
 
-
-Boletín Oficial de Canarias núm. 48
-https://sede.gobcan.es/boc
 Jueves 8 de marzo de 2018
-8214
 Folio 1/22
 RESOLUCIÓN DE LA DIRECCIÓN GENERAL DE FORMACIÓN PROFESIONAL Y
 EDUCACIÓN  DE  ADULTOS  POR  LA  QUE  SE  DETERMINAN  LAS
@@ -204,13 +186,8 @@ En la dirección https://sede.gobcan.es/sede/verifica_doc puede ser comprobada l
 autenticidad de esta copia, mediante el número de documento electrónico siguiente:
 0dT1WynGTAMaWDTiYexPHrEQmhJS9rKMA
 El presente documento ha sido descargado el 05/03/2018 - 13:29:37
-boc-a-2018-048-1091
 
-
-Boletín Oficial de Canarias núm. 48
-https://sede.gobcan.es/boc
 Jueves 8 de marzo de 2018
-8215
 Folio 2/22
 RESOLUCIÓN DE LA DIRECCIÓN GENERAL DE FORMACIÓN PROFESIONAL Y
 EDUCACIÓN  DE  ADULTOS  POR  LA  QUE  SE  DETERMINAN  LAS
@@ -271,13 +248,8 @@ En la dirección https://sede.gobcan.es/sede/verifica_doc puede ser comprobada l
 autenticidad de esta copia, mediante el número de documento electrónico siguiente:
 0dT1WynGTAMaWDTiYexPHrEQmhJS9rKMA
 El presente documento ha sido descargado el 05/03/2018 - 13:29:37
-boc-a-2018-048-1091
 
-
-Boletín Oficial de Canarias núm. 48
-https://sede.gobcan.es/boc
 Jueves 8 de marzo de 2018
-8216
 Folio 4/22
 RESOLUCIÓN DE LA DIRECCIÓN GENERAL DE FORMACIÓN PROFESIONAL Y
 EDUCACIÓN  DE  ADULTOS  POR  LA  QUE  SE  DETERMINAN  LAS
@@ -344,13 +316,8 @@ En la dirección https://sede.gobcan.es/sede/verifica_doc puede ser comprobada l
 autenticidad de esta copia, mediante el número de documento electrónico siguiente:
 0dT1WynGTAMaWDTiYexPHrEQmhJS9rKMA
 El presente documento ha sido descargado el 05/03/2018 - 13:29:37
-boc-a-2018-048-1091
 
-
-Boletín Oficial de Canarias núm. 48
-https://sede.gobcan.es/boc
 Jueves 8 de marzo de 2018
-8217
 Folio 5/22
 RESOLUCIÓN DE LA DIRECCIÓN GENERAL DE FORMACIÓN PROFESIONAL Y
 EDUCACIÓN  DE  ADULTOS  POR  LA  QUE  SE  DETERMINAN  LAS
@@ -454,13 +421,8 @@ En la dirección https://sede.gobcan.es/sede/verifica_doc puede ser comprobada l
 autenticidad de esta copia, mediante el número de documento electrónico siguiente:
 0dT1WynGTAMaWDTiYexPHrEQmhJS9rKMA
 El presente documento ha sido descargado el 05/03/2018 - 13:29:37
-boc-a-2018-048-1091
 
-
-Boletín Oficial de Canarias núm. 48
-https://sede.gobcan.es/boc
 Jueves 8 de marzo de 2018
-8218
 Folio 6/22
 RESOLUCIÓN DE LA DIRECCIÓN GENERAL DE FORMACIÓN PROFESIONAL Y
 EDUCACIÓN  DE  ADULTOS  POR  LA  QUE  SE  DETERMINAN  LAS
@@ -586,13 +548,8 @@ En la dirección https://sede.gobcan.es/sede/verifica_doc puede ser comprobada l
 autenticidad de esta copia, mediante el número de documento electrónico siguiente:
 0dT1WynGTAMaWDTiYexPHrEQmhJS9rKMA
 El presente documento ha sido descargado el 05/03/2018 - 13:29:37
-boc-a-2018-048-1091
 
-
-Boletín Oficial de Canarias núm. 48
-https://sede.gobcan.es/boc
 Jueves 8 de marzo de 2018
-8219
 Folio 8/22
 RESOLUCIÓN DE LA DIRECCIÓN GENERAL DE FORMACIÓN PROFESIONAL Y
 EDUCACIÓN  DE  ADULTOS  POR  LA  QUE  SE  DETERMINAN  LAS
@@ -675,13 +632,8 @@ En la dirección https://sede.gobcan.es/sede/verifica_doc puede ser comprobada l
 autenticidad de esta copia, mediante el número de documento electrónico siguiente:
 0dT1WynGTAMaWDTiYexPHrEQmhJS9rKMA
 El presente documento ha sido descargado el 05/03/2018 - 13:29:37
-boc-a-2018-048-1091
 
-
-Boletín Oficial de Canarias núm. 48
-https://sede.gobcan.es/boc
 Jueves 8 de marzo de 2018
-8220
 Folio 9/22
 RESOLUCIÓN DE LA DIRECCIÓN GENERAL DE FORMACIÓN PROFESIONAL Y
 EDUCACIÓN  DE  ADULTOS  POR  LA  QUE  SE  DETERMINAN  LAS
@@ -728,13 +680,8 @@ En la dirección https://sede.gobcan.es/sede/verifica_doc puede ser comprobada l
 autenticidad de esta copia, mediante el número de documento electrónico siguiente:
 0dT1WynGTAMaWDTiYexPHrEQmhJS9rKMA
 El presente documento ha sido descargado el 05/03/2018 - 13:29:37
-boc-a-2018-048-1091
 
-
-Boletín Oficial de Canarias núm. 48
-https://sede.gobcan.es/boc
 Jueves 8 de marzo de 2018
-8221
 Folio 10/22
 RESOLUCIÓN DE LA DIRECCIÓN GENERAL DE FORMACIÓN PROFESIONAL Y
 EDUCACIÓN  DE  ADULTOS  POR  LA  QUE  SE  DETERMINAN  LAS
@@ -771,13 +718,8 @@ En la dirección https://sede.gobcan.es/sede/verifica_doc puede ser comprobada l
 autenticidad de esta copia, mediante el número de documento electrónico siguiente:
 0dT1WynGTAMaWDTiYexPHrEQmhJS9rKMA
 El presente documento ha sido descargado el 05/03/2018 - 13:29:37
-boc-a-2018-048-1091
 
-
-Boletín Oficial de Canarias núm. 48
-https://sede.gobcan.es/boc
 Jueves 8 de marzo de 2018
-8222
 Folio 11/22
 RESOLUCIÓN DE LA DIRECCIÓN GENERAL DE FORMACIÓN PROFESIONAL Y
 EDUCACIÓN  DE  ADULTOS  POR  LA  QUE  SE  DETERMINAN  LAS
@@ -866,13 +808,8 @@ En la dirección https://sede.gobcan.es/sede/verifica_doc puede ser comprobada l
 autenticidad de esta copia, mediante el número de documento electrónico siguiente:
 0dT1WynGTAMaWDTiYexPHrEQmhJS9rKMA
 El presente documento ha sido descargado el 05/03/2018 - 13:29:37
-boc-a-2018-048-1091
 
-
-Boletín Oficial de Canarias núm. 48
-https://sede.gobcan.es/boc
 Jueves 8 de marzo de 2018
-8223
 Folio 12/22
 RESOLUCIÓN DE LA DIRECCIÓN GENERAL DE FORMACIÓN PROFESIONAL Y
 EDUCACIÓN  DE  ADULTOS  POR  LA  QUE  SE  DETERMINAN  LAS
@@ -957,13 +894,8 @@ En la dirección https://sede.gobcan.es/sede/verifica_doc puede ser comprobada l
 autenticidad de esta copia, mediante el número de documento electrónico siguiente:
 0dT1WynGTAMaWDTiYexPHrEQmhJS9rKMA
 El presente documento ha sido descargado el 05/03/2018 - 13:29:37
-boc-a-2018-048-1091
 
-
-Boletín Oficial de Canarias núm. 48
-https://sede.gobcan.es/boc
 Jueves 8 de marzo de 2018
-8224
 Folio 13/22
 RESOLUCIÓN DE LA DIRECCIÓN GENERAL DE FORMACIÓN PROFESIONAL Y
 EDUCACIÓN  DE  ADULTOS  POR  LA  QUE  SE  DETERMINAN  LAS
@@ -1040,13 +972,8 @@ En la dirección https://sede.gobcan.es/sede/verifica_doc puede ser comprobada l
 autenticidad de esta copia, mediante el número de documento electrónico siguiente:
 0dT1WynGTAMaWDTiYexPHrEQmhJS9rKMA
 El presente documento ha sido descargado el 05/03/2018 - 13:29:37
-boc-a-2018-048-1091
 
-
-Boletín Oficial de Canarias núm. 48
-https://sede.gobcan.es/boc
 Jueves 8 de marzo de 2018
-8225
 Folio 14/22
 RESOLUCIÓN DE LA DIRECCIÓN GENERAL DE FORMACIÓN PROFESIONAL Y
 EDUCACIÓN  DE  ADULTOS  POR  LA  QUE  SE  DETERMINAN  LAS
@@ -1136,13 +1063,8 @@ En la dirección https://sede.gobcan.es/sede/verifica_doc puede ser comprobada l
 autenticidad de esta copia, mediante el número de documento electrónico siguiente:
 0dT1WynGTAMaWDTiYexPHrEQmhJS9rKMA
 El presente documento ha sido descargado el 05/03/2018 - 13:29:37
-boc-a-2018-048-1091
 
-
-Boletín Oficial de Canarias núm. 48
-https://sede.gobcan.es/boc
 Jueves 8 de marzo de 2018
-8226
 Folio 15/22
 RESOLUCIÓN DE LA DIRECCIÓN GENERAL DE FORMACIÓN PROFESIONAL Y
 EDUCACIÓN  DE  ADULTOS  POR  LA  QUE  SE  DETERMINAN  LAS
@@ -1240,13 +1162,8 @@ En la dirección https://sede.gobcan.es/sede/verifica_doc puede ser comprobada l
 autenticidad de esta copia, mediante el número de documento electrónico siguiente:
 0dT1WynGTAMaWDTiYexPHrEQmhJS9rKMA
 El presente documento ha sido descargado el 05/03/2018 - 13:29:37
-boc-a-2018-048-1091
 
-
-Boletín Oficial de Canarias núm. 48
-https://sede.gobcan.es/boc
 Jueves 8 de marzo de 2018
-8227
 Folio 16/22
 RESOLUCIÓN DE LA DIRECCIÓN GENERAL DE FORMACIÓN PROFESIONAL Y
 EDUCACIÓN  DE  ADULTOS  POR  LA  QUE  SE  DETERMINAN  LAS
@@ -1334,13 +1251,8 @@ En la dirección https://sede.gobcan.es/sede/verifica_doc puede ser comprobada l
 autenticidad de esta copia, mediante el número de documento electrónico siguiente:
 0dT1WynGTAMaWDTiYexPHrEQmhJS9rKMA
 El presente documento ha sido descargado el 05/03/2018 - 13:29:37
-boc-a-2018-048-1091
 
-
-Boletín Oficial de Canarias núm. 48
-https://sede.gobcan.es/boc
 Jueves 8 de marzo de 2018
-8228
 Folio 17/22
 RESOLUCIÓN DE LA DIRECCIÓN GENERAL DE FORMACIÓN PROFESIONAL Y
 EDUCACIÓN  DE  ADULTOS  POR  LA  QUE  SE  DETERMINAN  LAS
@@ -1418,13 +1330,8 @@ En la dirección https://sede.gobcan.es/sede/verifica_doc puede ser comprobada l
 autenticidad de esta copia, mediante el número de documento electrónico siguiente:
 0dT1WynGTAMaWDTiYexPHrEQmhJS9rKMA
 El presente documento ha sido descargado el 05/03/2018 - 13:29:37
-boc-a-2018-048-1091
 
-
-Boletín Oficial de Canarias núm. 48
-https://sede.gobcan.es/boc
 Jueves 8 de marzo de 2018
-8229
 Folio 18/22
 RESOLUCIÓN DE LA DIRECCIÓN GENERAL DE FORMACIÓN PROFESIONAL Y
 EDUCACIÓN  DE  ADULTOS  POR  LA  QUE  SE  DETERMINAN  LAS
@@ -1498,13 +1405,8 @@ En la dirección https://sede.gobcan.es/sede/verifica_doc puede ser comprobada l
 autenticidad de esta copia, mediante el número de documento electrónico siguiente:
 0dT1WynGTAMaWDTiYexPHrEQmhJS9rKMA
 El presente documento ha sido descargado el 05/03/2018 - 13:29:37
-boc-a-2018-048-1091
 
-
-Boletín Oficial de Canarias núm. 48
-https://sede.gobcan.es/boc
 Jueves 8 de marzo de 2018
-8230
 Folio 20/22
 RESOLUCIÓN DE LA DIRECCIÓN GENERAL DE FORMACIÓN PROFESIONAL Y
 EDUCACIÓN  DE  ADULTOS  POR  LA  QUE  SE  DETERMINAN  LAS
@@ -1578,13 +1480,8 @@ En la dirección https://sede.gobcan.es/sede/verifica_doc puede ser comprobada l
 autenticidad de esta copia, mediante el número de documento electrónico siguiente:
 0dT1WynGTAMaWDTiYexPHrEQmhJS9rKMA
 El presente documento ha sido descargado el 05/03/2018 - 13:29:37
-boc-a-2018-048-1091
 
-
-Boletín Oficial de Canarias núm. 48
-https://sede.gobcan.es/boc
 Jueves 8 de marzo de 2018
-8231
 Folio 21/22
 RESOLUCIÓN DE LA DIRECCIÓN GENERAL DE FORMACIÓN PROFESIONAL Y
 EDUCACIÓN  DE  ADULTOS  POR  LA  QUE  SE  DETERMINAN  LAS
@@ -1621,13 +1518,8 @@ En la dirección https://sede.gobcan.es/sede/verifica_doc puede ser comprobada l
 autenticidad de esta copia, mediante el número de documento electrónico siguiente:
 0dT1WynGTAMaWDTiYexPHrEQmhJS9rKMA
 El presente documento ha sido descargado el 05/03/2018 - 13:29:37
-boc-a-2018-048-1091
 
-
-Boletín Oficial de Canarias núm. 48
-https://sede.gobcan.es/boc
 Jueves 8 de marzo de 2018
-8232
 Folio 22/22
 RESOLUCIÓN DE LA DIRECCIÓN GENERAL DE FORMACIÓN PROFESIONAL Y
 EDUCACIÓN  DE  ADULTOS  POR  LA  QUE  SE  DETERMINAN  LAS
@@ -1699,5 +1591,3 @@ En la dirección https://sede.gobcan.es/sede/verifica_doc puede ser comprobada l
 autenticidad de esta copia, mediante el número de documento electrónico siguiente:
 0dT1WynGTAMaWDTiYexPHrEQmhJS9rKMA
 El presente documento ha sido descargado el 05/03/2018 - 13:29:37
-boc-a-2018-048-1091
-

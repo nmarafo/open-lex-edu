@@ -66,18 +66,15 @@ En el proceso de elaboración de este real decreto han sido consultadas las Comu
 
 En su virtud, a propuesta de la Ministra de Educación y Ciencia, de acuerdo con el Consejo de Estado y previa deliberación del Consejo de Ministros en su reunión del día 19 de octubre de 2007,
 
-
 **DISPONGO:**
 
 CAPÍTULO I
 
 Finalidad, objetivos y principios de las enseñanzas deportivas
 
-
 #### Artículo 1. Finalidad.
 
 Conforme a lo previsto en el artículo 63.1 de la Ley Orgánica 2/2006, de 3 de mayo, de Educación, las enseñanzas deportivas tienen como finalidad preparar a los alumnos para la actividad profesional en el sistema deportivo en relación con una modalidad o especialidad deportiva, y facilitar la adaptación de los técnicos formados a la evolución del mundo laboral y deportivo y a la ciudadanía activa.
-
 
 #### Artículo 2. Objetivos de las enseñanzas deportivas.
 
@@ -101,7 +98,6 @@ h) Capacitar para el desempeño de actividades e iniciativas empresariales.
 
 2. Asimismo, las enseñanzas deportivas fomentarán la igualdad de oportunidades entre hombres y mujeres, así como para las personas con discapacidad.
 
-
 #### Artículo 3. Principios de las enseñanzas deportivas.
 
 1. Las enseñanzas deportivas responderán a las demandas del sistema deportivo y al desarrollo de competencias personales y sociales necesarias para la participación activa en la sociedad.
@@ -120,13 +116,11 @@ CAPÍTULO II
 
 Ordenación de las enseñanzas deportivas
 
-
 #### Artículo 4. Estructura de las enseñanzas deportivas.
 
 1. Las enseñanzas deportivas se estructurarán en dos grados: grado medio y grado superior, según lo dispuesto en el artículo 64. 1 de la Ley Orgánica 2/2006, de 3 de mayo, de Educación.
 
 2. De acuerdo con lo dispuesto en el artículo 3 de la Ley Orgánica 2/2006, de 3 de mayo, de Educación, las enseñanzas deportivas de grado medio y de grado superior forman parte de la educación secundaria postobligatoria y de la educación superior, respectivamente.
-
 
 #### Artículo 5. Organización básica de las enseñanzas deportivas.
 
@@ -137,7 +131,6 @@ Ordenación de las enseñanzas deportivas
 a) Las enseñanzas deportivas de grado medio se organizarán en dos ciclos: ciclo inicial de grado medio y ciclo final de grado medio.
 
 b) Las enseñanzas deportivas de grado superior se organizarán en un único ciclo de grado superior.
-
 
 #### Artículo 6. Perfil profesional.
 
@@ -153,7 +146,6 @@ CAPÍTULO III
 
 Ordenación de los ciclos, bloques y módulos de enseñanza deportiva
 
-
 #### Artículo 7. Duración de los ciclos de enseñanza deportiva.
 
 1. En la regulación de las enseñanzas mínimas de cada título se determinará la distribución horaria que corresponda a cada uno de los ciclos y módulos.
@@ -161,7 +153,6 @@ Ordenación de los ciclos, bloques y módulos de enseñanza deportiva
 2. Las enseñanzas conducentes a títulos de grado medio tendrán una duración mínima de 1.000 horas, de las que al menos 400 horas corresponderán al ciclo inicial.
 
 3. Las enseñanzas conducentes a títulos de grado superior tendrán una duración mínima de 750 horas.
-
 
 #### Artículo 8. Los módulos de enseñanza deportiva.
 
@@ -181,7 +172,6 @@ d) Módulo de proyecto final.
 
 4. Los módulos de enseñanza deportiva, en el caso de que estén referidos al Catálogo Nacional de Cualificaciones Profesionales, incluirán las especificaciones de la formación recogidas en los correspondientes módulos formativos de dicho Catálogo relacionadas con las competencias profesionales que se pretenden desarrollar a través del módulo.
 
-
 #### Artículo 9. Contenido de los módulos de enseñanza deportiva.
 
 La norma que establezca los títulos y enseñanzas mínimas concretará para cada módulo de enseñanza deportiva:
@@ -200,7 +190,6 @@ f) Condiciones básicas del contexto formativo: espacios, equipamientos y profes
 
 g) Posibilidad de ser ofertado, en su caso, en régimen de enseñanza a distancia.
 
-
 #### Artículo 10. Los bloques de enseñanza deportiva.
 
 1. Los módulos de enseñanza deportiva se agruparán en los siguientes bloques de enseñanza deportiva: bloque común y bloque específico.
@@ -208,7 +197,6 @@ g) Posibilidad de ser ofertado, en su caso, en régimen de enseñanza a distanci
 2. El bloque común estará formado por los módulos comunes de enseñanza deportiva y será coincidente y obligatorio para todas las modalidades y especialidades deportivas, en cada uno de los ciclos.
 
 3. El bloque específico estará formado por el conjunto de módulos específicos de enseñanza deportiva, el módulo de formación práctica y, en su caso, el módulo de proyecto final.
-
 
 #### Artículo 11. El módulo de formación práctica.
 
@@ -226,7 +214,6 @@ c) Completar el conocimiento de la organización deportiva y laboral correspondi
 
 d) Evaluar los aspectos más relevantes de la profesionalidad alcanzada por el alumno en el centro educativo y acreditar los aspectos requeridos en el desempeño de las funciones propias del técnico deportivo, que no pueden verificarse en el centro educativo por exigir situaciones reales de trabajo o práctica deportiva.
 
-
 #### Artículo 12. El módulo de proyecto final.
 
 1. El ciclo de grado superior incorporará el módulo de proyecto final, que tendrá carácter integrador de los conocimientos adquiridos durante el periodo de formación. Se organizará sobre la base de la tutorización individual y colectiva.
@@ -239,7 +226,6 @@ CAPÍTULO IV
 
 La evaluación
 
-
 #### Artículo 13. Criterios generales de la evaluación.
 
 1. La evaluación del aprendizaje del alumnado será continua y se realizará por módulos de enseñanza deportiva. Los procesos de evaluación se adecuarán a las adaptaciones de que haya podido ser objeto el alumnado con discapacidad y se garantizará su accesibilidad a las pruebas de evaluación.
@@ -251,7 +237,6 @@ La evaluación
 4. La superación de un ciclo de enseñanza deportiva requerirá la evaluación positiva en todos los módulos de enseñanza deportiva que lo componen.
 
 5. El alumno dispondrá de un máximo de cuatro convocatorias para superar cada uno de los módulos de enseñanza deportiva, excepto para los módulos de formación práctica y de proyecto final, cuyo máximo será de dos convocatorias. Con carácter excepcional, las Administraciones educativas podrán establecer convocatorias extraordinarias o, en su caso, la posibilidad de anular la matrícula, cuando las circunstancias lo aconsejen.
-
 
 #### Artículo 14. Expresión de los resultados de la evaluación.
 
@@ -269,7 +254,6 @@ La evaluación
 
 7. La calificación final de los ciclos de enseñanza deportiva se ajustará a la escala numérica, de 1 a 10, con dos decimales. Son positivas las calificaciones iguales o superiores a cinco, y negativas las inferiores a cinco.
 
-
 #### Artículo 15. Documentos de la evaluación y regulación del proceso.
 
 1. Tendrán la consideración de documentos de la evaluación el expediente del alumno, las actas de evaluación, la certificación académica oficial y los informes de evaluación individualizados. De ellos, tendrán carácter básico para la movilidad la certificación académica oficial y los informes de evaluación individualizados. La certificación académica oficial será fiel reflejo del expediente del alumno.
@@ -284,7 +268,6 @@ CAPÍTULO V
 
 El currículo
 
-
 #### Artículo 16. Contenidos básicos de las enseñanzas mínimas.
 
 1. A los efectos de lo dispuesto en este real decreto, se entiende por currículo el conjunto de objetivos, competencias básicas, contenidos, métodos pedagógicos y criterios de evaluación establecidos para cada ciclo de enseñanza deportiva.
@@ -295,11 +278,9 @@ El currículo
 
 4. La ampliación y contextualización de los contenidos se referirá a la formación asociada y no asociada a las cualificaciones y unidades de competencia del Catálogo Nacional de las Cualificaciones Profesionales e incluidas en el título, respetando el perfil profesional del mismo y sin perjuicio alguno para la movilidad del alumnado.
 
-
 #### Artículo 17. Orientación metodológica para el desarrollo del currículo.
 
 La formación de técnicos deportivos promoverá en el alumnado la necesaria integración de los contenidos científicos, técnicos, prácticos, tecnológicos y organizativos de estas enseñanzas, y una visión global de las exigencias de los modelos deportivos en los que deban intervenir.
-
 
 #### Artículo 18. Proyectos educativos de los centros.
 
@@ -310,7 +291,6 @@ La formación de técnicos deportivos promoverá en el alumnado la necesaria int
 CAPÍTULO VI
 
 Obtención, estructura, expedición, registro y efectos de los títulos y certificados
-
 
 #### Artículo 19. Contenido de los títulos.
 
@@ -350,16 +330,13 @@ m) Acceso a estudios universitarios desde el grado superior de enseñanzas depor
 
 n) Relación, en su caso, con certificados de profesionalidad.
 
-
 #### Artículo 20. Catálogo de títulos de las enseñanzas deportivas.
 
 Los títulos de Técnico deportivo y de Técnico deportivo superior formarán el Catálogo de las Enseñanzas Deportivas, que responderá a las necesidades de las competencias profesionales requeridas por el sistema deportivo y al desarrollo económico y deportivo a nivel nacional, autonómico y local.
 
-
 #### Artículo 21. Denominación de los títulos.
 
 La denominación genérica de los títulos de Técnico deportivo y de Técnico deportivo superior se completará con la de la modalidad deportiva de que se trate y, en su caso, la especialidad que corresponda cuando la norma que establezca el título y las enseñanzas mínimas así lo determine.
-
 
 #### Artículo 22. Obtención y efectos de los títulos y certificado.
 
@@ -377,7 +354,6 @@ La denominación genérica de los títulos de Técnico deportivo y de Técnico d
 
 6. El título de Técnico deportivo superior dará derecho al acceso directo a los estudios universitarios que se determinen, teniendo en cuenta los estudios cursados, de acuerdo con la normativa vigente sobre los procedimientos de acceso a la universidad.
 
-
 #### Artículo 23. Registro de los títulos.
 
 El registro y expedición de los títulos de Técnico deportivo y de Técnico deportivo superior se realizará de acuerdo con la normativa estatal básica sobre expedición de títulos académicos y profesionales.
@@ -385,7 +361,6 @@ El registro y expedición de los títulos de Técnico deportivo y de Técnico de
 CAPÍTULO VII
 
 Oferta de las enseñanzas deportivas
-
 
 #### Artículo 24. Tipos de oferta.
 
@@ -401,7 +376,6 @@ d) Ofertas especiales para grupos específicos.
 
 2. Las Administraciones educativas, en el ámbito de sus competencias, establecerán las medidas necesarias para la organización de la oferta.
 
-
 #### Artículo 25. Ofertas específicas.
 
 1. El Consejo Superior de Deportes podrá promover convenios de colaboración con las Federaciones deportivas españolas y las Comunidades Autónomas para:
@@ -412,16 +386,13 @@ b) La creación de ofertas específicas de enseñanzas deportivas cuando las cir
 
 2. Las Administraciones educativas podrán establecer convenios a fin de que las enseñanzas del bloque común se puedan ofertar en un centro, sea cual fuere la modalidad que imparta, y el resto de las enseñanzas en otro centro público o privado diferente.
 
-
 #### Artículo 26. Formación a distancia.
 
 Dentro de la oferta del ciclo de enseñanzas deportivas correspondiente, se podrán ofertar a distancia los módulos del bloque común y aquellos otros que disponga el real decreto que establezca el título y las enseñanzas mínimas correspondientes.
 
-
 #### Artículo 27. Evaluación de la formación a distancia.
 
 La evaluación final para cada uno de los módulos de enseñanza deportiva cursados a distancia exigirá la superación de pruebas presenciales, que se realizarán dentro del proceso de evaluación continua. El número máximo de convocatorias será el establecido para el régimen de enseñanza presencial.
-
 
 #### Artículo 28. Condiciones de los centros para impartir formación a distancia.
 
@@ -432,7 +403,6 @@ La evaluación final para cada uno de los módulos de enseñanza deportiva cursa
 CAPÍTULO VIII
 
 Acceso, promoción y admisión
-
 
 #### Artículo 29. Requisitos generales para acceso y promoción.
 
@@ -448,7 +418,6 @@ En caso de producirse esta excepcionalidad, para acceder al bloque específico d
 
 5. Excepcionalmente, cuando las características de la modalidad o especialidad deportiva lo requieran, el real decreto que establezca el título y enseñanzas mínimas podrá establecer una edad mínima para el acceso a las enseñanzas del grado medio. Esta modificación no afectará a las condiciones de edad para participar en la prueba de acceso a la que se refiere el artículo 31.
 
-
 #### Artículo 30. Requisitos de acceso de carácter específico.
 
 1. Además de los requisitos generales establecidos en el artículo 29, para el acceso a cualquiera de los ciclos de enseñanza deportiva se podrá requerir la superación de una prueba de carácter específico, organizada y controlada por las Administraciones educativas, o acreditar un mérito deportivo en el que se demuestren las condiciones necesarias para cursar con aprovechamiento y seguridad las enseñanzas correspondientes, así como para el reconocimiento que la modalidad o especialidad deportiva pueda tener en el ámbito internacional.
@@ -456,7 +425,6 @@ En caso de producirse esta excepcionalidad, para acceder al bloque específico d
 2. El real decreto que establezca el título y las enseñanzas mínimas, en su caso, determinará la estructura, carga lectiva, contenido y los criterios de evaluación de las pruebas de carácter específico, así como los méritos deportivos exigidos para el acceso al ciclo correspondiente.
 
 3. La superación de la prueba de carácter específico o la acreditación de los méritos deportivos sustitutivos de esta prueba, junto con los módulos relacionados, acreditarán las competencias deportivas requeridas y, en su caso, las correspondientes unidades de competencia del Catálogo Nacional de Cualificaciones Profesionales, siempre que la prueba incluya las realizaciones profesionales y criterios de realización de dichas unidades de competencia.
-
 
 #### Artículo 31. Acceso sin los títulos de Graduado en Educación Secundaria Obligatoria y de Bachiller.
 
@@ -488,13 +456,11 @@ c) La nota final de la prueba para el acceso al grado superior, expresada en la 
 
 En todos los casos serán positivas las calificaciones iguales o superiores a cinco y negativas las inferiores a cinco.
 
-
 #### Artículo 32. Validez de la prueba de acceso y de los requisitos de carácter específico.
 
 1. La prueba de acceso, a la que se refiere el artículo 31, tendrá validez en todo el territorio nacional.
 
 2. Los requisitos de carácter específico tendrán validez en todo el territorio nacional. La duración de la validez se determinará en el correspondiente real decreto que establezca el título y las enseñanzas mínimas.
-
 
 #### Artículo 33. Acceso de los deportistas de alto rendimiento a las enseñanzas deportivas.
 
@@ -507,7 +473,6 @@ a) Que sean deportistas calificados como de alto rendimiento o equivalente por l
 b) Que hayan sido seleccionados por la correspondiente Federación deportiva española para representar a España, dentro de los dos últimos años, en al menos una competición oficial internacional de la categoría absoluta.
 
 c) Que pertenezcan a otros colectivos propios de la modalidad deportiva que, por su nivel técnico y la experiencia deportiva, establezca la propia norma.
-
 
 #### Artículo 34. Criterios de admisión.
 
@@ -529,7 +494,6 @@ d) Al menos un 10% de las plazas ofertadas para quienes acrediten, según el cas
 
 3. Dentro del cupo de plazas para deportistas de alto rendimiento, tendrán prioridad los deportistas de alto nivel.
 
-
 #### Artículo 35. Matrícula en los ciclos de las enseñanzas deportivas.
 
 1. La matrícula en las enseñanzas deportivas estará determinada por el tipo de oferta de dichas enseñanzas.
@@ -542,26 +506,21 @@ CAPÍTULO IX
 
 Correspondencias, convalidaciones y exenciones
 
-
 #### Artículo 36. Correspondencias con la experiencia deportiva.
 
 Los reales decretos que establezcan los títulos y enseñanzas mínimas determinarán los módulos de enseñanza deportiva que serán objeto de correspondencia formativa con la experiencia deportiva correspondiente, así como los requisitos y condiciones para la misma.
-
 
 #### Artículo 37. Convalidación entre módulos de enseñanza deportiva con los módulos de formación profesional.
 
 El Gobierno, previa consulta a las Comunidades Autónomas, establecerá las convalidaciones entre las enseñanzas deportivas y las enseñanzas de formación profesional.
 
-
 #### Artículo 38. Convalidaciones entre módulos de enseñanza deportiva de grado superior y las enseñanzas universitarias.
 
 El Gobierno, oído el Consejo de Universidades, establecerá las convalidaciones entre estudios universitarios y estudios de enseñanzas deportivas de grado superior, conforme a lo dispuesto en el artículo 65.4 de la Ley Orgánica 2/2006, de 3 de mayo, de Educación.
 
-
 #### Artículo 39. Exención del módulo de formación práctica.
 
 La exención total o parcial del módulo de formación práctica podrá determinarse en función de su correspondencia con la experiencia como técnico, docente ó guía, dentro del ámbito deportivo o laboral, siempre que se acredite una experiencia relacionada con los estudios de enseñanzas deportivas superior al doble de la duración del módulo de formación práctica, que permita demostrar los resultados de aprendizaje correspondientes a dicho módulo. El real decreto que apruebe el correspondiente título y enseñanzas mínimas determinará, en su caso, el organismo o entidad que puede certificar la experiencia, especificando su duración, la actividad desarrollada y el periodo de tiempo en que ha desarrollado dicha actividad.
-
 
 #### Artículo 40. Convalidación de módulos de enseñanza deportiva por la acreditación de unidades de competencia del Catálogo Nacional de Cualificaciones Profesionales.
 
@@ -573,11 +532,9 @@ b) Certificado de profesionalidad.
 
 c) Acreditación parcial conforme a lo que se establezca en cumplimiento de lo previsto en el artículo 8.3 de la Ley Orgánica 5/2002, de 19 de junio, de las Cualificaciones y de la Formación Profesional.
 
-
 #### Artículo 41. Validez de los módulos de enseñanza deportiva del bloque común.
 
 La superación de cada uno de los módulos de enseñanza deportiva del bloque común en un determinado ciclo de cualquiera de las modalidades y especialidades deportivas tendrá validez para las enseñanzas del mismo ciclo, de cualquier otra modalidad o especialidad deportiva.
-
 
 #### Artículo 42. Convalidación entre módulos de enseñanza deportiva del bloque específico.
 
@@ -585,11 +542,9 @@ La superación de cada uno de los módulos de enseñanza deportiva del bloque co
 
 2. El Gobierno podrá establecer las convalidaciones que procedan entre aquellos módulos de enseñanza deportiva que no tengan la misma denominación, siempre que tengan similares objetivos, contenidos y duración.
 
-
 #### Artículo 43. Convalidaciones de módulos de enseñanza deportiva de grado medio con materias de bachillerato.
 
 Las convalidaciones de módulos de enseñanza deportiva pertenecientes al grado medio con materias de bachillerato se determinarán en el real decreto que establezca el título y las enseñanzas mínimas.
-
 
 #### Artículo 44. Procedimientos para acordar correspondencias, convalidaciones y exenciones.
 
@@ -604,7 +559,6 @@ Las convalidaciones de módulos de enseñanza deportiva pertenecientes al grado 
 CAPÍTULO X
 
 De los centros y del profesorado
-
 
 #### Artículo 45. Centros públicos y privados.
 
@@ -626,23 +580,19 @@ d) Los centros docentes del sistema de enseñanza militar, en virtud de los conv
 
 5. Los centros que deseen impartir enseñanzas deportivas podrán ser autorizados por la Administración educativa para ubicar estas enseñanzas en edificios e instalaciones que no sean de uso exclusivo escolar, siempre que cumplan los requisitos de espacios formativos y equipamientos determinados por las Administraciones educativas y reúnan las condiciones exigidas conforme a la legislación vigente.
 
-
 #### Artículo 46. Autorización de formaciones llevadas a cabo fuera del ámbito territorial de gestión directa de una Comunidad Autónoma.
 
 Teniendo en cuenta las peculiaridades de las enseñanzas deportivas, así como los condicionantes de estacionalidad y temporalidad que influyen en algunas de las modalidades y especialidades deportivas, las autorizaciones deberán permitir en todo caso que una parte de la formación del bloque específico, incluido el módulo de formación práctica, se pueda realizar fuera del ámbito de la Comunidad Autónoma de establecimiento. Las Administraciones educativas pondrán en marcha la coordinación y, en su caso, los convenios necesarios.
 
-
 #### Artículo 47. Red de centros de una misma titularidad.
 
 En el caso de una red de una misma titularidad, conformada por un centro base y varias sedes, que esté circunscrita al ámbito territorial de una sola Comunidad Autónoma, la Administración educativa, a la vista del informe que pueda solicitar al titular de la red, podrá determinar los requisitos que habrá de reunir la red en cuanto a su dirección y administración. En ningún caso la autorización reducirá los medios materiales, instalaciones y equipamientos deportivos y de profesorado, que estén directamente relacionados con la actividad docente.
-
 
 #### Artículo 48. Ratios de alumnos-unidad escolar y alumnos/profesor.
 
 1. El número máximo de alumnos por unidad escolar será de 30, sin perjuicio de la adaptación, en su caso, a los requisitos que establezca la normativa vigente del sistema educativo.
 
 2. La ratio alumnos-profesor en aquellos módulos de enseñanza deportiva de carácter procedimental, propios de la práctica deportiva, se establecerá en el real decreto que regule el título y las enseñanzas mínimas, de acuerdo con las necesidades docentes, particularidades de la misma y las garantías de seguridad que lo aconsejan.
-
 
 #### Artículo 49. Requisitos de titulación del profesorado.
 
@@ -656,7 +606,6 @@ c) Además podrán impartir los módulos de enseñanza deportiva del bloque espe
 
 2. Junto con la regulación de las correspondientes enseñanzas mínimas de cada modalidad y, en su caso, especialidad deportiva, se indicará la concordancia de titulación del profesorado con el módulo que vaya a impartir, entendiéndose a tales efectos la relación existente entre la titulación que se requiera al profesorado y los contenidos del módulo. Asimismo, se establecerán las titulaciones que a estos efectos se declaren equivalentes.
 
-
 #### Artículo 50. Profesorado de los centros públicos de la administración educativa.
 
 1. En los centros educativos públicos, la competencia docente de los módulos de enseñanza deportiva correspondiente al bloque común y al módulo de formación práctica de las enseñanzas que se regulan en este real decreto, corresponderá a los miembros de los cuerpos de catedráticos de enseñanza secundaria y de profesores de enseñanza secundaria que reúnan la concordancia de especialidad que se establezca en el real decreto que regule el título y enseñanzas mínimas.
@@ -664,7 +613,6 @@ c) Además podrán impartir los módulos de enseñanza deportiva del bloque espe
 2. La competencia docente de los módulos del bloque específico corresponderá a profesores especialistas, y a los miembros de los cuerpos de catedráticos de enseñanza secundaria y de profesores de enseñanza secundaria con la especialidad en Educación física que posean el título de mayor grado aprobado en la correspondiente modalidad o especialidad deportiva.
 
 3. Las Administraciones educativas podrán autorizar a impartir módulos de enseñanza deportiva atribuidos al profesor especialista, a los docentes pertenecientes a los cuerpos de catedráticos de enseñanza secundaria y de profesores de enseñanza secundaria con la especialidad en Educación física que se encuentren cualificados, bien mediante formación diseñada al efecto o reconocida por dichas Administraciones educativas, bien mediante experiencia profesional o deportiva.
-
 
 #### Artículo 51. Profesor especialista.
 
@@ -680,18 +628,15 @@ d) La incorporación a la docencia de las personas a las que se refieren los apa
 
 2. El real decreto que establezca el título y las enseñanzas mínimas determinará las condiciones particulares que, en su caso, se deben reunir para impartir docencia como profesor especialista en cada uno de los módulos de enseñanza deportiva.
 
-
 #### Disposición adicional primera. Firma de convenios para promover centros con las Federaciones deportivas.
 
 1. El Consejo Superior de Deportes y los órganos competentes de las Comunidades Autónomas promoverán la firma de convenios con las Federaciones deportivas españolas y, en su caso, con las de ámbito autonómico, para el fomento de estas enseñanzas, así como de los centros que las impartan.
 
 2. En el marco de los citados convenios, se podrá prever la utilización de instalaciones deportivas de titularidad pública, siempre supeditada a las necesidades derivadas de la programación de las actividades de dichos centros.
 
-
 #### Disposición adicional segunda. Agrupación de modalidades deportivas.
 
 Sin perjuicio de su especialización, los títulos y enseñanzas mínimas de más de una modalidad o especialidad deportiva se podrán establecer agrupadas, previa consulta con el órgano responsable de la formación profesional en el Ministerio de Educación y Ciencia, siempre que compartan semejanzas técnicas y características intrínsecas comunes, estén asignadas por el Consejo Superior de Deportes a la misma federación deportiva y así lo aconsejen las necesidades de desarrollo de la modalidad o especialidad dentro de la estructura federativa.
-
 
 #### Disposición adicional tercera. Acceso a las enseñanzas de personas que acrediten discapacidades.
 
@@ -701,11 +646,9 @@ Sin perjuicio de su especialización, los títulos y enseñanzas mínimas de má
 
 Además, en su caso, el tribunal podrá adaptar los requisitos y pruebas de acceso de carácter específico que deban superar los aspirantes que, en todo caso, deberán respetar lo esencial de los objetivos generales fijados en el artículo 3 y los objetivos que para el ciclo y grado de cada título se establezcan en la norma que apruebe el referido título y sus enseñanzas mínimas.
 
-
 #### Disposición adicional cuarta. Equivalencia de los títulos establecidos con anterioridad a la Ley Orgánica 2/2006, de 3 de mayo, de Educación.
 
 Los títulos de Técnico deportivo y Técnico deportivo superior establecidos con anterioridad a la Ley Orgánica 2/2006, de 3 de mayo, de Educación, serán equivalentes a todos los efectos a los correspondientes de grado medio y grado superior de las enseñanzas establecidas por la citada Ley Orgánica, 2/2006, de 3 de mayo, de Educación.
-
 
 #### Disposición adicional quinta. Efectos de las formaciones de entrenadores deportivos.
 
@@ -720,8 +663,6 @@ b) Que las formaciones hayan sido promovidas hasta el día 15 de julio de 1999, 
 c) Que se refieran exclusivamente a las modalidades y especialidades deportivas que estuvieran reconocidas por el Consejo Superior de Deportes, de acuerdo con el artículo 8, b) de la Ley 10/1990, del Deporte.
 
 Las entidades a las que se refiere el apartado a) acreditarán ante el Consejo Superior de Deportes las formaciones promovidas y los certificados y diplomas expedidos, de acuerdo con lo previsto en la norma que establezca el título y enseñanzas mínimas y en la Orden de 30 de julio de 1999, por la que se regula el procedimiento para el reconocimiento de entrenadores deportivos a los que se refieren el artículo 42 y la disposición transitoria primera del Real Decreto 1913/1997, de 19 de diciembre, o norma que la sustituya.
-
-Corresponderá al Consejo Superior de Deportes el reconocimiento de las formaciones acreditadas, en los casos que proceda, mediante Resolución que será publicada en el Boletín Oficial del Estado.
 
 2. Las propuestas de homologación, convalidación y equivalencia se adoptarán sobre la base de los siguientes criterios:
 
@@ -743,18 +684,13 @@ f) En los casos de homologación será necesario acreditar: el título académic
 
 g) En los casos de convalidación, se requerirá el título académico y edad requerida para el acceso al correspondiente título, de acuerdo con lo dispuesto en el artículo 29.
 
-Los criterios comunes establecidos para cada modalidad y especialidad deportiva se harán públicos en el Boletín Oficial del Estado mediante Resolución del Consejo Superior de Deportes.
-
 3. Para la tramitación y resolución de los expedientes individuales se tendrá en cuenta lo siguiente:
-
-a) Los expedientes para homologación, convalidación y equivalencia se iniciarán a solicitud individual, dentro del plazo de 10 años que empezará a contar desde el día siguiente al de la publicación en el Boletín Oficial del Estado de los criterios comunes, conforme a lo establecido en esta disposición adicional.
 
 b) La tramitación de los expedientes se ajustará al procedimiento que dispone la Orden ECD/189/2004, de 21 de enero, por la que se regula el procedimiento de tramitación de los expedientes de homologación, convalidación y equivalencia a efectos profesionales, de las formaciones de entrenadores deportivos, por las enseñanzas deportivas de régimen especial, a los efectos de lo previsto en el artículo 42 del Real Decreto 1913/1997, de 19 de diciembre, o norma que la sustituya.
 
 c) Corresponderá a la unidad competente del Consejo Superior de Deportes formular la propuesta de resolución.
 
 d) La resolución de los expedientes corresponderá al Ministro de Educación y Ciencia.
-
 
 #### Disposición adicional sexta. Efectos de las formaciones anteriores convocadas por los órganos competentes de las Comunidades Autónomas.
 
@@ -765,7 +701,6 @@ d) La resolución de los expedientes corresponderá al Ministro de Educación y 
 3. La determinación de los criterios que hayan de aplicarse a la modalidad o especialidad que proceda, se llevará a cabo de forma análoga a la prevista en el apartado 2 de la disposición adicional quinta.
 
 4. La tramitación y resolución de los expedientes individuales se llevará a cabo conforme al procedimiento previsto en el apartado 3 de la disposición adicional quinta.
-
 
 #### Disposición adicional séptima. Efectos de las enseñanzas anteriores, cursadas en centros docentes militares y de la guardia civil.
 
@@ -783,7 +718,6 @@ En el caso de las títulos ya establecidos, de las modalidades o especialidades 
 
 4. La tramitación y resolución de los expedientes individuales se llevará a cabo conforme al procedimiento previsto en el apartado 3 de la disposición adicional quinta.
 
-
 #### Disposición adicional octava. Formaciones deportivas que no conducen a títulos oficiales.
 
 1. Las entidades que impartan formaciones del ámbito de la actividad física y deportiva que no conduzcan a la obtención de un título oficial quedarán sometidas a las normas vigentes que les sean de aplicación.
@@ -794,23 +728,19 @@ En el caso de las títulos ya establecidos, de las modalidades o especialidades 
 
 4. En lugar destacado de la publicidad que emitan deberá figurar una referencia clara al carácter no oficial de los estudios que se imparten y de los diplomas o certificados que, a su término, se expiden.
 
-
 #### Disposición adicional novena. Resolución de los procedimientos regulados.
 
 1. En los procedimientos previstos en este real decreto, para todo aquello no regulado expresamente en el mismo o en las normas que lo desarrollen se estará a lo dispuesto en la Ley 30/1992, de 26 de noviembre, de Régimen Jurídico de las Administraciones Públicas y del Procedimiento Administrativo Común.
 
 2. Si en los procedimientos regulados por este real decreto no recayera resolución expresa en los plazos señalados en cada caso, se estará a lo dispuesto en la disposición adicional vigésimo novena de la Ley 14/2000, de 29 de diciembre, de medidas fiscales, administrativas y del orden social.
 
-
 #### Disposición adicional décima. Tasas y precios públicos.
 
 Los centros dependientes de las Administraciones Públicas que impartan enseñanzas reguladas por este real decreto estarán sujetos a las tasas y precios públicos, de conformidad con la correspondiente normativa que le sea de aplicación.
 
-
 #### Disposición adicional undécima. Calendario escolar.
 
 Las administraciones competentes podrán ajustar el calendario escolar, teniendo en cuenta las peculiaridades de las enseñanzas deportivas y que las enseñanzas de algunas modalidades o especialidades deportivas, por el ámbito en que se desarrollan, están sujetas a condiciones de temporalidad.
-
 
 #### Disposición adicional duodécima. Otras titulaciones equivalentes a efectos de acceso y tramitación de expedientes de equiparación de formaciones y enseñanzas.
 
@@ -860,13 +790,11 @@ i) La superación de otros estudios que hubieran sido declarados equivalentes a 
 
 3. Lo indicado en los puntos anteriores se entiende sin perjuicio de lo establecido en el artículo 29 y en la disposición adicional quinta.
 
-
 #### Disposición adicional decimotercera. Procedimiento de evaluación y acreditación de unidades de competencia adquiridas por la experiencia laboral y aprendizajes no formales.
 
 1. La evaluación y acreditación de las unidades de competencia que formen parte del Catálogo Nacional de Cualificaciones Profesionales, adquiridas mediante la experiencia profesional, o por vía de aprendizajes no formales, se realizará mediante la acreditación parcial obtenida a través del procedimiento que se establezca en cumplimiento de lo dispuesto en el artículo 8.4 de la Ley Orgánica 5/2002, de 19 de junio, de las Cualificaciones y de la Formación Profesional.
 
 2. El Ministerio de Educación y Ciencia establecerá el procedimiento de acreditación de aquellas competencias no referidas al Catálogo Nacional de Cualificaciones Profesionales que formen parte del perfil profesional de los títulos objeto de regulación en este real decreto, adquiridas mediante la experiencia profesional y deportiva, o por vías de aprendizaje no formales.
-
 
 #### Disposición adicional decimocuarta. Cursos de especialización.
 
@@ -876,11 +804,9 @@ i) La superación de otros estudios que hubieran sido declarados equivalentes a 
 
 3. La certificación académica que se expida a los titulados que superen una especialización mencionará el título al que se refiere y acreditará las competencias adquiridas.
 
-
 #### Disposición adicional decimoquinta. Correspondencia formativa de la experiencia docente.
 
 La norma que establezca los títulos y las enseñanzas mínimas de la modalidad o especialidad deportiva podrá determinar la correspondencia formativa entre los módulos de enseñanza deportiva y la experiencia docente acreditable de las formaciones anteriores de entrenadores deportivos a las que se refiere la disposición adicional cuarta, formaciones de entrenadores a las que se refiere la disposición transitoria primera, o la formación de Técnicos deportivos y de Técnicos deportivos superiores en las enseñanzas deportivas.
-
 
 #### Disposición transitoria primera. Efectos de las formaciones deportivas.
 
@@ -893,7 +819,6 @@ b) En su bloque específico y periodo de prácticas podrán obtener el reconocim
 c) La superación de la formación del bloque común, del bloque específico y del periodo de prácticas de cada uno de los niveles, podrá dar lugar a la equivalencia profesional que corresponda al ciclo de enseñanza deportiva respectivo de las enseñanzas oficiales en la misma modalidad o especialidad deportiva.
 
 2. A tal fin, el citado Ministerio regulará el procedimiento oportuno, previa consulta con los órganos competentes de las Comunidades Autónomas en materia de educación y en materia de deportes.
-
 
 #### Disposición transitoria segunda. Vigencia de las enseñanzas establecidas al amparo del Real Decreto 1913/1997, de 19 de diciembre.
 
@@ -927,7 +852,6 @@ b) La aplicación de las medidas sobre reserva de plazas que se establecen en la
 
 c) Centros con las medidas y requisitos previstos en el capítulo X.
 
-
 #### Disposición transitoria tercera. Vigencia de las normas de desarrollo de las enseñanzas deportivas establecidas al amparo del Real Decreto 1913/1997, de 19 de diciembre.
 
 1. En tanto el Ministerio de Educación y Ciencia no regule lo establecido en la disposición transitoria primera, continuará vigente la Orden ECD/3310/2002, de 16 de diciembre (BOE de 30 de diciembre), excepto en los aspectos que a continuación se detallan:
@@ -956,7 +880,6 @@ d) La Orden ECD/189/2004, de 21 de enero (BOE de 6 de febrero), que regula el pr
 
 e) La Orden ECI/3224/2004, de 21 de septiembre, (BOE de 8 de octubre), que establece determinadas convalidaciones a efectos académicos entre las enseñanzas oficiales y las de técnicos deportivos, así como las Órdenes ECI/3341/2004 de 8 de octubre (BOE de 15 de octubre) y Orden ECI/3830/2005 (BOE de 9 de diciembre), que la modifica la primera.
 
-
 #### Disposición transitoria cuarta. Reconocimiento, a los efectos de homologación, convalidación y equivalencia profesional, de otras formaciones anteriores de fútbol sala.
 
 1. A efectos de las declaraciones de homologación, convalidación y equivalencia profesional previstas en la disposición adicional quinta, los órganos de las Comunidades Autónomas competentes en materia de deporte podrán solicitar el reconocimiento de los diplomas y certificados de entrenadores de fútbol sala, expedidos por las Federaciones autonómicas de fútbol sala entre el día 4 de febrero de 1986 y el día 15 de febrero de 1993, que no estuvieran contenidos en la Resolución del Consejo Superior de Deportes de 24 de abril de 2002 (BOE de 30 de mayo).
@@ -967,15 +890,11 @@ e) La Orden ECI/3224/2004, de 21 de septiembre, (BOE de 8 de octubre), que estab
 
 4. En todos los aspectos no previstos en este precepto se seguirá lo dispuesto en la Orden de 30 de julio de 1999.
 
-5. Corresponderá a la Presidencia del Consejo Superior de Deportes efectuar el reconocimiento en los casos que proceda, mediante la Resolución que hará pública en el Boletín Oficial del Estado. La instrucción del procedimiento la realizará la unidad competente de citado organismo.
-
-
 #### Disposición transitoria quinta. Reconocimiento de formaciones realizadas con carácter meramente federativo.
 
 1. El Ministerio de Educación y Ciencia, a propuesta del Consejo Superior de Deportes, y previo acuerdo de los órganos competentes en materia de educación y en materia de deportes de las Comunidades Autónomas, así como de las Federaciones deportivas españolas, podrá efectuar el reconocimiento que proceda de aquellas formaciones que se hayan realizado con carácter meramente federativo entre la entrada en vigor de la Orden de 5 de julio de 1999 y la entrada en vigor del presente Real Decreto.
 
 2. A los efectos de lo previsto en el punto 1 anterior, el Ministerio de Educación y Ciencia establecerá el procedimiento que corresponda aplicar en cada caso.
-
 
 #### Disposición derogatoria primera.
 
@@ -983,11 +902,9 @@ e) La Orden ECI/3224/2004, de 21 de septiembre, (BOE de 8 de octubre), que estab
 
 2. Quedan asimismo derogadas todas aquellas disposiciones de igual o inferior rango que se opongan o contradigan lo dispuesto en este real decreto.
 
-
 #### Disposición final primera. Regulación de los requisitos formales necesarios para garantizar la movilidad de los alumnos.
 
 El Ministerio de Educación y Ciencia regulará aquellos aspectos necesarios para garantizar la movilidad de los alumnos.
-
 
 #### Disposición final segunda. Modificación de determinados aspectos que se regulan en el Real Decreto 320/2000, de 3 de marzo.
 
@@ -1001,25 +918,19 @@ Se modifica el punto 7 del anexo II del Real Decreto 320/2000, de 3 de marzo, po
 
 4. La temporada se considerará completada cuando se acredite el cumplimiento de las funciones de forma ininterrumpida durante un tiempo mínimo de 6 meses, o en su caso, de 183 días.»
 
-
 #### Disposición final tercera. Modificación de determinados aspectos que se regulan en el Real Decreto 318/2000, de 3 de marzo.
 
 Para las enseñanzas a las que se refiere el Real Decreto 318/2000, de 3 de marzo, por el que se establecen los títulos de Técnico Deportivo y Técnico Deportivo superior en las especialidades de los deportes de Montaña y Escala, se aprueban las correspondientes enseñanzas mínimas y se regulan las pruebas y los requisitos de acceso a estas enseñanzas. La relación numérica profesor/alumnos en el módulo de formación técnica y metodología de la enseñanza del descenso de barrancos, será de 1:4.
-
 
 #### Disposición final cuarta. Título competencial.
 
 Este real decreto tiene el carácter de norma básica y es de aplicación en todo el territorio nacional, a excepción a excepción de lo establecido en el apartado 2 del artículo 24; del apartado 3 del artículo 35; del apartado 2 del artículo 45; y de la remisión que se hace en los preceptos a las facultades de las Comunidades Autónomas en el ámbito de sus competencias, y se dicta en virtud de las competencias que atribuye al Estado el artículo 149.1.30.ª de la Constitución y la disposición adicional primera, apartado 2 a) y c), de la Ley Orgánica 8/1985, de 3 de julio, reguladora del Derecho a la Educación.
 
-
 #### Disposición final quinta. Habilitación para el desarrollo reglamentario.
 
 Se habilita al Ministro de Educación y Ciencia, en el ámbito sus competencias, para dictar cuantas normas sean necesarias para el desarrollo y ejecución de lo previsto en este real decreto.
 
-
 #### Disposición final sexta. Entrada en vigor.
-
-El presente real decreto entrará en vigor el día siguiente al de su publicación en el «Boletín Oficial del Estado».
 
 Dado en Madrid, el 24 de octubre de 2007.
 

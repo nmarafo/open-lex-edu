@@ -29,10 +29,7 @@ fuente_pdf_oficial: https://sede.gobiernodecanarias.org/boc/boc-a-2020-236-4341.
 
 # Resolución de 5 de noviembre de 2020, por la que se dictan instrucciones para la organización y el funcionamiento de los niveles básico, intermedio y avanzado de la enseñanza del idioma inglés a distancia para personas adultas That's English!
 
-Boletín Oficial de Canarias núm. 236
-https://sede.gobcan.es/boc
 Miércoles 18 de noviembre de 2020
-31852
 III. Otras Resoluciones
 Consejería de Educación, Universidades, Cultura y Deportes
 4341 Dirección General de Formación Profesional y Educación de Adultos.- Resolución 
@@ -70,13 +67,8 @@ FUNDAMENTOS DE DERECHO
 Primero.- La Ley Orgánica 2/2006, de 3 de mayo, de Educación, modificada por la Ley 
 Orgánica 8/2013, de 9 de diciembre, de Mejora de la Calidad Educativa, establece que las 
 Página 
-boc-a-2020-236-4341
 
-
-Boletín Oficial de Canarias núm. 236
-https://sede.gobcan.es/boc
 Miércoles 18 de noviembre de 2020
-31853
 enseñanzas de idiomas tienen por objeto capacitar al alumnado para el uso adecuado de los 
 diferentes idiomas, fuera de las etapas ordinarias del sistema educativo, y se organizan en los 
 niveles siguientes: básico, intermedio y avanzado.
@@ -116,13 +108,8 @@ Primero.- Dictar instrucciones, que figuran como anexo a la presente resolución
 la organización y el funcionamiento de los niveles básico, intermedio y avanzado de la 
 enseñanza del idioma inglés a distancia para personas adultas That’s English!, a partir del 
 curso 2020-2021.
-boc-a-2020-236-4341
 
-
-Boletín Oficial de Canarias núm. 236
-https://sede.gobcan.es/boc
 Miércoles 18 de noviembre de 2020
-31854
 Segundo.- Ordenar la publicación de la presente Resolución en el Boletín Oficial de 
 Canarias, así como en la web de la Consejería de Educación, Universidades, Cultura y 
 Deportes para su general conocimiento. 
@@ -139,13 +126,8 @@ sin perjuicio de cualesquiera otros que se estime procedente interponer.
 Santa Cruz de Tenerife, a 5 de noviembre de 2020.- La Directora General de Formación 
 Profesional y Educación de Adultos, p.s. (Orden nº 545, de 20.10.2020), la Viceconsejera de 
 Educación, Universidades y Deportes, María Dolores Rodríguez González.
-boc-a-2020-236-4341
 
-
-Boletín Oficial de Canarias núm. 236
-https://sede.gobcan.es/boc
 Miércoles 18 de noviembre de 2020
-31855
 ANEXO
 INSTRUCCIONES PARA LA ORGANIZACIÓN Y EL FUNCIONAMIENTO DE LOS NIVELES 
 BÁSICO, INTERMEDIO Y A V ANZADO DE LA ENSEÑANZA DEL IDIOMA INGLÉS A DISTANCIA 
@@ -176,13 +158,8 @@ idiomas de régimen especial para la Comunidad Autónoma de Canarias.
 1.2. Estructura académica de la enseñanza.
 La enseñanza That’s English! se organiza en 4 niveles y 6 cursos. En cada uno de los 
 cursos se imparten dos módulos formativos, de acuerdo a la siguiente estructura:
-boc-a-2020-236-4341
 
-
-Boletín Oficial de Canarias núm. 236
-https://sede.gobcan.es/boc
 Miércoles 18 de noviembre de 2020
-31856
 2. Admisión y matrícula del alumnado.
 2.1. Requisitos de admisión.
 2.1.1. Para acceder a cualquiera de los cursos de That’s English! será requisito indispensable 
@@ -233,13 +210,8 @@ En la dirección https://sede.gobcan.es/sede/verifica_doc puede ser comprobada l
 autenticidad de esta copia, mediante el número de documento electrónico siguiente:
 0iMphLEgsuRO5AIADfFMGdVbCV7VT58cz
 El presente documento ha sido descargado el 06/11/2020 - 11:28:52
-boc-a-2020-236-4341
 
-
-Boletín Oficial de Canarias núm. 236
-https://sede.gobcan.es/boc
 Miércoles 18 de noviembre de 2020
-31857
 c) Obtener informe positivo en la Valoración Inicial del Alumno (VIA), según lo 
 establecido en el punto 2.2. de este anexo.
 2.1.3. Nivel Intermedio B1.
@@ -273,13 +245,8 @@ d) Estar en posesión de certificados reconocidos como B1 según el Marco Común
 de Referencia para las Lenguas (MCERL) o de certificaciones reconocidas para el acceso 
 al primer curso de las enseñanzas de inglés de régimen especial de nivel Intermedio B2 
 por la Resolución de 26 de marzo de 2019, por la que se determina el acceso a los distintos 
-boc-a-2020-236-4341
 
-
-Boletín Oficial de Canarias núm. 236
-https://sede.gobcan.es/boc
 Miércoles 18 de noviembre de 2020
-31858
 cursos de enseñanzas de idiomas de régimen especial en aplicación de lo establecido en 
 la Orden de 21 de septiembre de 2016, de esta Consejería, que regula el reconocimiento 
 de la acreditación de la competencia lingüística conforme al Marco Común Europeo de 
@@ -314,13 +281,8 @@ en el punto 2.2. de este anexo.
 2.1.5. Nivel Avanzado C1.
 2.1.5.1. Para acceder a los estudios del nivel Avanzado C1, el alumnado deberá cumplir 
 y acreditar alguno de los siguientes requisitos:
-boc-a-2020-236-4341
 
-
-Boletín Oficial de Canarias núm. 236
-https://sede.gobcan.es/boc
 Miércoles 18 de noviembre de 2020
-31859
 a) Haber superado el nivel B2 de las enseñanzas del idioma inglés en la modalidad 
 presencial, semipresencial o a distancia.
 b) Haber obtenido en el idioma inglés el certificado de aptitud de las enseñanzas reguladas 
@@ -357,13 +319,8 @@ formalizar la matrícula en el curso  indicado en el informe emitido.
 en el curso inmediatamente anterior al año escolar en el que desean matricularse, y estimen 
 que su nivel ha variado de forma notable, podrán renunciar a su expediente y optar a ingresar 
 de nuevo en el programa realizando de nuevo la prueba VIA.
-boc-a-2020-236-4341
 
-
-Boletín Oficial de Canarias núm. 236
-https://sede.gobcan.es/boc
 Miércoles 18 de noviembre de 2020
-31860
 2.3. Matriculación.
 2.3.1. La inscripción en esta enseñanza se realizará de forma telemática a través de la 
 página web de That’s English! (www.thatsenglish.com).
@@ -397,13 +354,8 @@ siguiente sin tener que volver a abonar el importe del material didáctico.
 considerados alumnado oficial a todos los efectos. Por ello, no podrán simultanearla de 
 forma presencial o semipresencial, y se tendrá en cuenta su condición de alumnado oficial 
 en el supuesto de que se desee  continuar los estudios en cualquiera de estas modalidades.
-boc-a-2020-236-4341
 
-
-Boletín Oficial de Canarias núm. 236
-https://sede.gobcan.es/boc
 Miércoles 18 de noviembre de 2020
-31861
 2.3.7. Si un alumno o alumna procedente del That’s English! desea continuar sus estudios 
 en la modalidad presencial o semipresencial y tiene pendiente alguno de los módulos de un 
 curso, deberá matricularse en dicha modalidad  del curso completo.
@@ -438,13 +390,8 @@ reducción del 50% sobre el precio total.
 2.4.3. Las reducciones descritas en los apartados anteriores no son aplicables al alumnado 
 repetidor y no son acumulables entre sí. Asimismo, se podrán contemplar otras deducciones 
 que establezca la administración competente.
-boc-a-2020-236-4341
 
-
-Boletín Oficial de Canarias núm. 236
-https://sede.gobcan.es/boc
 Miércoles 18 de noviembre de 2020
-31862
 2.4.4. El Ministerio competente establecerá el coste del material en aquellos casos en los 
 que se desee adquirir ejemplares o materiales sueltos.
 3. Centros.
@@ -475,13 +422,8 @@ alcanza la ratio mínima establecida.
 • Gestionar la matrícula del alumnado y coordinarse para la remisión de los expedientes 
 originales a su centro de apoyo administrativo, permaneciendo una copia en la secretaría del 
 CEPA.
-boc-a-2020-236-4341
 
-
-Boletín Oficial de Canarias núm. 236
-https://sede.gobcan.es/boc
 Miércoles 18 de noviembre de 2020
-31863
 • Comunicar la previsión de material para el curso siguiente a su centro de apoyo 
 administrativo en los plazos establecidos por la Administración educativa.
 3.6. El alumnado de That’s English! inscrito en los CEPA se considera alumnado 
@@ -514,13 +456,8 @@ En ellas se realizarán las siguientes acciones:
 a) Favorecer el desarrollo de la destreza comunicativa de producción y coproducción de 
 textos orales y su integración con las otras actividades de lengua.
 b) Estimular el estudio personal del alumnado y los procesos de autoaprendizaje.
-boc-a-2020-236-4341
 
-
-Boletín Oficial de Canarias núm. 236
-https://sede.gobcan.es/boc
 Miércoles 18 de noviembre de 2020
-31864
 c) Orientar en las técnicas y estrategias que faciliten el proceso de aprendizaje del idioma 
 inglés, así como anticiparse a las posibles dificultades que se le presenten al alumnado para 
 ayudarle a superarlas.
@@ -554,13 +491,8 @@ administración de las pruebas.
 5.5. El profesorado-tutor de cada centro colaborador que imparta esta enseñanza realizará 
 las pruebas de evaluación y de recuperación, garantizando que se cumplan las condiciones 
 de control que requiere este tipo de pruebas.
-boc-a-2020-236-4341
 
-
-Boletín Oficial de Canarias núm. 236
-https://sede.gobcan.es/boc
 Miércoles 18 de noviembre de 2020
-31865
 5.6. Las pruebas corregidas se conservarán en cada centro autorizado durante el tiempo 
 establecido en la normativa vigente.
 5.7. Al inicio de cada curso escolar, los centros de apoyo administrativo, en coordinación 
@@ -736,13 +668,8 @@ En la dirección https://sede.gobcan.es/sede/verifica_doc puede ser comprobada l
 autenticidad de esta copia, mediante el número de documento electrónico siguiente:
 0iMphLEgsuRO5AIADfFMGdVbCV7VT58cz
 El presente documento ha sido descargado el 06/11/2020 - 11:28:52
-boc-a-2020-236-4341
 
-
-Boletín Oficial de Canarias núm. 236
-https://sede.gobcan.es/boc
 Miércoles 18 de noviembre de 2020
-31866
 necesaria la superación de la correspondiente prueba de certificación en la Escuela Oficial 
 de Idiomas (EOI) asignada a cada CEPA o CEAD y que se determinará en la convocatoria 
 anual de las pruebas de certificación. 
@@ -757,5 +684,3 @@ convocatorias a la prueba de certificación.
 a la prueba de certificación del nivel Intermedio B1, sin necesidad de abonar las tasas 
 correspondientes, el alumnado que tenga aprobados los módulos 5 y 6 del Plan 2018, tengan 
 o no superados los módulos 7 y 8.
-boc-a-2020-236-4341
-

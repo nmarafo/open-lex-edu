@@ -30,19 +30,16 @@ fundamentos_derecho:
   articulos:
   - '120'
 ---
-# Orden de 14 de marzo de 1988 para la aplicación de lo dispuesto en el Real Decreto 104/1988, de 29 de enero, sobre homologación y convalidación de títulos y estudios extranjeros de educación no universitaria.
 
-La aprobación del Real Decreto 104/1988, de 29 de enero («Boletín Oficial del Estado» de 17 de febrero), sobre homologación y convalidación de títulos y estudios extranjeros de educación no universitaria introduce, entre otras, la novedad de reducir a un procedimiento único las distintas formas de tramitación de los expedientes que la normativa anterior comportaba, según se tratase del régimen general o del específico de los emigrantes españoles y, dentro de este segundo supuesto, según se tratase de estudios de Educación General Básica y Bachillerato o de Formación Profesional. Por otro lado, buena parte de la gestión que se realizaba en la Secretaría General Técnica del Departamento se desconcentra con la nueva norma, de modo que el ciudadano puede tramitar sus solicitudes en el ámbito territorial de su propio domicilio. Resulta necesario, en consecuencia, desarrollar lo establecido por el Real Decreto mencionado, en materia de tramitación de los expedientes de homologación y convalidación de títulos y estudios extranjeros de educación no universitaria.
+# Orden de 14 de marzo de 1988 para la aplicación de lo dispuesto en el Real Decreto 104/1988, de 29 de enero, sobre homologación y convalidación de títulos y estudios extranjeros de educación no universitaria.
 
 En su virtud y en uso de la autorización conferida por la disposición final primera del Real Decreto 104/1988, de 29 de enero,
 
 Este Ministerio ha dispuesto:
 
-
 #### Primero.
 
 La tramitación de los expedientes de homologación y convalidación de títulos y estudios extranjeros de educación no universitaria se regirá por lo dispuesto en el REAL Decreto 104/1988, de 29 de enero, y en la presente Orden.
-
 
 #### Segundo.
 
@@ -56,7 +53,6 @@ c) Convalidación de estudios extranjeros por los correspondientes españoles, c
 
 Presentación de solicitudes
 
-
 #### Tercero.
 
 1. El expediente de homologación o convalidación se iniciará mediante instancia del interesado dirigida al Ministro de Educación y Ciencia y ajustada al modelo que se publica como anexo I a la presente orden.
@@ -64,7 +60,6 @@ Presentación de solicitudes
 2. Las solicitudes de convalidación de estudios extranjeros para proseguir estudios españoles de Educación General Básica, Bachillerato o Formación Profesional se presentarán en la Dirección Provincial de Educación y Ciencia u Oficina de Educación y Ciencia correspondiente a la provincia donde radique el centro en que se pretenda cursar los mencionados estudios españoles.
 
 3. En cualquier otro supuesto de los mencionados en el párrafo anterior, las solicitudes podrán presentarse tanto en la Dirección Provincial de Educación y Ciencia u Oficina de Educación y Ciencia correspondiente a la provincia donde el solicitante tenga o vaya a tener su residencia habitual, como en la Subdirección General de Títulos, Convalidaciones y Homologaciones del Ministerio de Educación y Ciencia, y, en el caso de los españoles residentes en el extranjero, en la Oficina Consular correspondiente a su lugar de residencia. Todo ello sin perjuicio de lo dispuesto en el artículo 66 de la Ley de Procedimiento Administrativo.
-
 
 #### Cuarto.
 
@@ -76,26 +71,21 @@ b) Certificación académica de los cursos realizados, en la que consten las asi
 
 c) Certificación acreditativa de la nacionalidad del solicitante expedida por las autoridades competentes de su país, y, en el caso de los ciudadanos españoles, fotocopia compulsada del documento nacional de identidad o de la pagina correspondiente del libro de familia.
 
-
 #### Quinto.
 
 En los supuestos de solicitudes de homologación y convalidación de títulos y estudios extranjeros no incluidos en las tablas de equivalencias a las que se refiere el Real Decreto 104/1988, o cuya resolución no deba realizarse en virtud de convenios de cooperación cultural suscritos por España, la documentación especificada en el número anterior de la presente Orden podrá, asimismo, completarse con cuantos documentos de carácter académico puedan contribuir a un mejor análisis y resolución del expediente respectivo.
-
 
 #### Sexto.
 
 En el caso de alumnos procedentes del sistema educativo español, que hubieran continuado estudios en sistemas de otros países, los solicitantes deberán aportar asimismo la documentación académica (libro de escolaridad o certificación académica personal) acreditativa de haber superado, en su totalidad, los estudios españoles previos a su incorporación al sistema extranjero de que se trate.
 
-
 #### Séptimo.
 
 Los documentos expedidos en el extranjero deberán estar legalizados por vía diplomática e ir acompañados, en su caso, de su correspondiente traducción oficial al castellano.
 
-
 #### Octavo.
 
 Los documentos originales podrán presentarse juntamente con fotocopia de los mismos y serán devueltos a los interesados, una vez extendida la diligencia de cotejo. Si las fotocopias estuvieran ya cotejadas y legalizadas ante notario o por las representaciones diplomáticas o consulares de España en el país de donde proceda el documento, no será necesaria la presentación simultanea del original.
-
 
 #### Noveno.
 
@@ -105,7 +95,6 @@ Los documentos originales podrán presentarse juntamente con fotocopia de los mi
 
 3. En todo caso, los plazos que el Real Decreto 104/1988 establece para la resolución de los expedientes comenzarán a contar a partir de la fecha en que la documentación correspondiente a una determinada solicitud esté completa en las condiciones y con los requisitos que la presente Orden establece.
 
-
 #### Décimo.
 
 1. Con objeto de hacer posible la inscripción condicional de los solicitantes, dentro de los plazos legalmente establecidos, bien en centros docentes, bien en exámenes oficiales, las solicitudes podrán ir acompañadas de un documento firmado por el interesado y ajustado al modelo que se publica como anexo II a la presente Orden. Este documento, una vez sellado por la unidad de registro donde hubiera sido presentada la solicitud correspondiente, tendrá el carácter de volante acreditativo de que tal solicitud ha sido presentada y permitirá la mencionada inscripción en los mismos términos que si la homologación o convalidación hubiese sido concedida, aunque con carácter condicional.
@@ -114,20 +103,17 @@ Los documentos originales podrán presentarse juntamente con fotocopia de los mi
 
 Propuesta de resolución
 
-
 #### Undécimo.
 
 1. Cuando los estudios o títulos cuya convalidación u homologación se solicita estén incluidos en una tabla de equivalencias aprobada por Orden y, por tanto, la resolución del expediente deba adoptarse de acuerdo con dicha tabla, la Dirección Provincial o la Subdirección General receptora de la solicitud examinará la documentación pertinente, formulará la propuesta de resolución que corresponda y remitirá dicha propuesta a la Secretaría General Técnica del Departamento.
 
 2. En el caso de las solicitudes recibidas en las Oficinas de Educación y Ciencia o en las Oficinas Consulares y en los supuestos, asimismo, de aplicación de tablas de equivalencias, los expedientes serán remitidos, respectivamente, a los Servicios de Alta Inspección que corresponda y a las Agregadurías de Educación del país respectivo, los cuales formularán las propuestas de resolución pertinentes y las remitirán a la Secretaria General Técnica del Departamento.
 
-
 #### Duodécimo.
 
 En los supuestos de expedientes cuya resolución no esté condicionada por el contenido de tablas de equivalencias aprobadas por Orden, los expedientes serán remitidos a la Subdirección General de Títulos, Convalidaciones y Homologaciones, la cual formulará la propuesta de resolución que proceda, de acuerdo con el contenido de los Tratados o Convenios Internacionales que resulten aplicables, con los principios mencionados en el artículo sexto del Real Decreto 104/1988, de 29 de enero, y, en su caso, con los informes de las comisiones de expertos a las que se refiere el artículo diez del citado Real Decreto.
 
 Comisiones de expertos
-
 
 #### Decimotercero.
 
@@ -139,35 +125,25 @@ Comisiones de expertos
 
 Resolución de los expedientes
 
-
 #### Decimocuarto.
 
 La resolución de los expedientes de homologación o convalidación se realizará mediante Orden del Ministro de Educación y Ciencia, firmada por delegación por el Secretario General Técnico del Departamento. Cada Orden podrá incluir la resolución de uno o de varios expedientes.
-
 
 #### Decimoquinto.
 
 El contenido de las Órdenes de homologación o convalidación se recogerá en credenciales individuales expedidas por la Subdirección General de Títulos, Convalidaciones y Homologaciones, que serán entregadas a los interesados y que surtirán los mismos efectos académicos que la documentación exigible a los alumnos del sistema educativo español para acreditar la superación de los estudios de que se trate o, en su caso, la posesión del título español correspondiente.
 
-
 #### Decimosexto.
 
 La entrega al interesado de la credencial a la que se refiere el número anterior se realizará a través de la dependencia –Subdirección General, Dirección Provincial, Oficina de Educación y Ciencia, Oficina Consular– en la que se hubiera presentado la correspondiente solicitud de convalidación u homologación. Por el mismo conducto se harán llegar a los interesados las resoluciones denegatorias que se produzcan.
 
-
 #### Disposición derogatoria.
-
-Quedan derogadas las Órdenes de 25 de agosto de 1969 («Boletín Oficial del Estado» de 11 de noviembre); de 19 de febrero de 1979 («Boletín Oficial del Estado» de 3 de marzo), y 20 de marzo de 1981 («Boletín Oficial del Estado» del 28), así como cualquier otra disposición del mismo o de inferior rango que se oponga a lo establecido en la presente Orden.
-
 
 #### Disposición final primera.
 
 Se autoriza a la Secretaría General Técnica del Departamento para dictar las instrucciones que resulten precisas para la aplicación de la presente Orden.
 
-
 #### Disposición final segunda.
-
-La presente Orden entrará en vigor al día siguiente al de su publicación en el «Boletín Oficial del Estado».
 
 Madrid, 14 de marzo de 1988.
 
@@ -181,8 +157,6 @@ Modelo de solicitud (anverso)
 
 Don/doña ..............................................................................................................., natural de .........................................................................................................................., de nacionalidad ................................................................................................................, con domicilio (a efectos de notificación) en calle/plaza ............................................., localidad ..............................., D.P. ..........., Provincia (1) ................... Teléfono ...................
 
-EXPONE que ha realizado los estudios del sistema educativo de .................................................... que se especifican en el reverso de la presente solicitud y cuya superación se acredita mediante los documentos que se adjuntan. Por ello, al amparo de lo dispuesto en el Real Decreto 104/1988, de 29 de enero, sobre homologación y convalidación de títulos y estudios extranjeros de educación no universitario («Boletín Oficial del Estado» de 17 de febrero de 1988),
-
 SOLICITA la convalidación/homologación de los mencionados estudios, y, en su caso, título o diploma por los correspondientes españoles de ................................................................................................................................................................................................ (2)
 
 ...................... a ............ de ...................... de 19....
@@ -192,7 +166,6 @@ Fdo. ................................................
 (1) Si se solicita la convalidación para proseguir estudios españoles de EDB, BUP o FP, el domicilio deberá corresponder a la provincia en la que radique el Centro donde el solicitante vaya a cursar dichos estudios.
 
 (2) Especifiquese: Sexto de EGB, séptimo de EGB, título de Graduado Escolar, primero de BUP, segundo de BUP, título de Bachiller, Curso de Orientación Universitaria, título de Bachiller y COU, Formación Profesional de primer grado, Formación Profesional de segundo grado, Enseñanzas Musicales, etc.
-
 
 **(Reverso)**
 
@@ -285,8 +258,6 @@ Otros documentos de carácter académico
 ANEXO II
 
 Volante para inscripción condicional en Centros docentes o en exámenes oficiales
-
-El que suscribe, don/doña ............................................................................................., ha presentado en la ......................................................................................................... (1) solicitud de convalidación/homologación de sus estudios extranjeros cursados en el sistema educativo de ............................................................................................................ por los correspondientes españoles de ............................................................................... y formaliza el presente volante a efectos de su inscripción provisional en: ................................................................. (2) en las condiciones establecidas en el número décimo de la Orden de ............................................. («Boletín Oficial del Estado» de ............................).
 
 .................................... a .......... de ...................... de 19......
 

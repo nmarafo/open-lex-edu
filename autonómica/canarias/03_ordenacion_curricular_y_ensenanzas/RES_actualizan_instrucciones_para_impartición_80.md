@@ -29,10 +29,7 @@ fuente_pdf_oficial: https://sede.gobiernodecanarias.org/boc/boc-a-2021-114-2852.
 
 # Resolución de 24 de mayo de 2021, por la que se actualizan las instrucciones para la impartición de los cursos de preparación de pruebas de acceso a ciclos formativos de grado medio y superior de Formación Profesional (BOC n.º 114, de 4 de junio).
 
-Boletín Oficial de Canarias núm. 114
-https://sede.gobcan.es/boc
 Viernes 4 de junio de 2021
-24337
 III. Otras Resoluciones
 Consejería de Educación, Universidades, Cultura y Deportes
 2852 Dirección General de Formación Profesional y Educación de Adultos.- Resolución 
@@ -69,13 +66,8 @@ que al finalizar dichos cursos se evaluará el rendimiento del alumnado.
 Por todo lo expuesto, y en el ejercicio de las competencias atribuidas a la Dirección 
 General de Formación Profesional y Educación de Adultos en el artículo 18 del Decreto 
 Página 
-boc-a-2021-114-2852
 
-
-Boletín Oficial de Canarias núm. 114
-https://sede.gobcan.es/boc
 Viernes 4 de junio de 2021
-24338
 7/2021, de 18 de febrero, por el que se aprueba el Reglamento Orgánico de la Consejería de 
 Educación, Universidades, Cultura y Deportes, 
 R E S U E L V O:
@@ -99,13 +91,8 @@ Canarias, recurso de alzada ante la Viceconsejería de Educación, Universidades
 sin perjuicio de cualesquiera otros que se estime procedente interponer.
 Santa Cruz de Tenerife, a 24 de mayo de 2021.- La Directora General de Formación 
 Profesional y Educación de Adultos, Rosario Gañan Pérez.
-boc-a-2021-114-2852
 
-
-Boletín Oficial de Canarias núm. 114
-https://sede.gobcan.es/boc
 Viernes 4 de junio de 2021
-24339
 ANEXO
 INSTRUCCIONES PARA LA IMPARTICIÓN DE LOS CURSOS DE PREPARACIÓN DE PRUEBAS 
 DE ACCESO A CICLOS FORMATIVOS DE GRADO MEDIO Y SUPERIOR DE FORMACIÓN 
@@ -219,13 +206,8 @@ En la dirección https://sede.gobcan.es/sede/verifica_doc?codigo_nde= puede ser
 comprobada la autenticidad de esta copia, mediante el número de documento
 electrónico siguiente: 0oys1rsTc2uKzap9f57JfRZrlV5Th2WMX
 El presente documento ha sido descargado el 26/05/2021 - 11:16:47
-boc-a-2021-114-2852
 
-
-Boletín Oficial de Canarias núm. 114
-https://sede.gobcan.es/boc
 Viernes 4 de junio de 2021
-24340
 El curso de preparación estará orientado a proporcionar al alumnado los conocimientos 
 y habilidades suficientes para superar con éxito la prueba que le permita acceder a un ciclo 
 formativo de grado medio.
@@ -332,13 +314,8 @@ En la dirección https://sede.gobcan.es/sede/verifica_doc?codigo_nde= puede ser
 comprobada la autenticidad de esta copia, mediante el número de documento
 electrónico siguiente: 0oys1rsTc2uKzap9f57JfRZrlV5Th2WMX
 El presente documento ha sido descargado el 26/05/2021 - 11:16:47
-boc-a-2021-114-2852
 
-
-Boletín Oficial de Canarias núm. 114
-https://sede.gobcan.es/boc
 Viernes 4 de junio de 2021
-24341
 En el curso de preparación, la evaluación estará orientada a proporcionar al alumnado 
 conocimientos y capacidades suficientes para superar con éxito la prueba que le permita 
 acceder a un ciclo formativo de grado superior. 
@@ -406,13 +383,8 @@ En la dirección https://sede.gobcan.es/sede/verifica_doc?codigo_nde= puede ser
 comprobada la autenticidad de esta copia, mediante el número de documento
 electrónico siguiente: 0oys1rsTc2uKzap9f57JfRZrlV5Th2WMX
 El presente documento ha sido descargado el 26/05/2021 - 11:16:47
-boc-a-2021-114-2852
 
-
-Boletín Oficial de Canarias núm. 114
-https://sede.gobcan.es/boc
 Viernes 4 de junio de 2021
-24342
 Se evaluará numéricamente cada una de las materias con una calificación de cero a diez, 
 salvo aquellos casos en los que el alumnado tenga derecho a exenciones en la prueba de 
 acceso, en cuyo caso se hará constar la calificación “Exento” en las materias de la parte 
@@ -425,5 +397,3 @@ de la que no se encuentre exento, se hará constar “No presentado” y se cali
 puntuación de 0.
 Al finalizar el curso, se valorará el rendimiento del alumnado a través de un certificado 
 con la nota final obtenida, realizado por el centro correspondiente.
-boc-a-2021-114-2852
-

@@ -32,9 +32,6 @@ fuente_pdf_oficial: https://sede.gobiernodecanarias.org/boc/boc-a-2022-143-2426.
 
 # Resolución de 10 de junio de 2021, de la Viceconsejería de Educación, Universidades y Deportes, por la que se establece la composición de la comisión de seguimiento del acuerdo entre la Consejería de Educación y los Colectivos de Escuelas Rurales/Unitarias sobre los servicios educativos públicos en las Escuelas Unitarias de Canarias y se nombra a los vocales de dicha comisión.
 
-https://sede.gobiernodecanarias.org/boc
-boc-a-2022-143-2426
-Boletín Oficial de Canarias núm. 143 Miércoles 20 de julio de 202227001
 III. Otras Resoluciones
 Consejería de Educación, Universidades, Cultura y Deportes
 2426 Dirección General de Centros, Infraestructura y Promoción Educativa.- Resolución 
@@ -74,9 +71,6 @@ de los CER viene determinada en el artículo 22 del Decreto 109/1999, de 25 de m
 el que se regula el régimen de creación y funcionamiento de los Colectivos de Escuelas 
 Rurales.
 
-https://sede.gobiernodecanarias.org/boc
-boc-a-2022-143-2426
-Boletín Oficial de Canarias núm. 143 Miércoles 20 de julio de 202227002
 Tercero.- La Orden de 12 de mayo de 2016, por la que se regulan la composición y 
 el procedimiento para la constitución y la renovación de los Consejos Escolares de los 
 centros educativos sostenidos con fondos públicos del ámbito de la Comunidad Autónoma 
@@ -115,9 +109,6 @@ funcionamiento de los Colectivos de Escuelas Rurales, en función de su tipolog�
 unidades asignadas por la Consejería de Educación, Universidades, Cultura y Deportes 
 para su funcionamiento en el curso escolar 2022/2023.
 
-https://sede.gobiernodecanarias.org/boc
-boc-a-2022-143-2426
-Boletín Oficial de Canarias núm. 143 Miércoles 20 de julio de 202227003
 2. Los CER que, com o consecuencia del aumento o disminución de sus unidades 
 en funcionamiento, deban modificar la actual composición de sus consejos, procederán 
 del modo siguiente para realizar su renovación parcial: una vez calculada la mitad de 
@@ -156,9 +147,6 @@ junta electoral, a cuyo fin se elaborarán los censos electorales que, posterior
 aprobados por la junta electoral. Asimismo, realizará los preparativos que sean necesarios 
 para facilitar el desarrollo de todo el proceso electoral.
 
-https://sede.gobiernodecanarias.org/boc
-boc-a-2022-143-2426
-Boletín Oficial de Canarias núm. 143 Miércoles 20 de julio de 202227004
 3. La junta electoral se ocupará de organizar el proceso de renovación o nueva 
 constitución de los miembros del Consejo del CER, en las condiciones que mejor aseguren 
 la designación y la participación de todos los sectores de la comunidad educativa, conforme 
@@ -197,9 +185,6 @@ personas tutoras legales del alumnado, y del propio alumnado, respectivamente, q
 pertenezcan a los Consejos Escolares de los centros del ámbito del CER, previa convocatoria 
 hecha por la coordinación.
 
-https://sede.gobiernodecanarias.org/boc
-boc-a-2022-143-2426
-Boletín Oficial de Canarias núm. 143 Miércoles 20 de julio de 202227005
 2. Con el fin de facilitar el proceso de elección y la asistencia, las reuniones para 
 la elección de padres, madres o personas tutoras legales del alumnado, y de alumnos y 
 alumnas, podrán celebrarse en el mismo día, en horario que posibilite la mayor concurrencia 
@@ -240,9 +225,6 @@ del CER, en su caso.
 3. En las papeletas de voto del alumnado se hará constar, además, el curso al que 
 pertenezca la persona candidata.
 
-https://sede.gobiernodecanarias.org/boc
-boc-a-2022-143-2426
-Boletín Oficial de Canarias núm. 143 Miércoles 20 de julio de 202227006
 Duodécimo.- Características del voto.
 La votación se efectuará mediante sufragio directo, secreto y personal. Cada votante 
 depositará en la mesa electoral una papeleta con su voto. La mesa electoral podrá requerir, 
@@ -282,9 +264,6 @@ inscripción en el censo de la persona interesada; y facilitará la documentaci�
 conservando los votos recibidos y haciéndolos llegar a la mesa electoral correspondiente, 
 dentro de los plazos establecidos normativamente en el calendario.
 
-https://sede.gobiernodecanarias.org/boc
-boc-a-2022-143-2426
-Boletín Oficial de Canarias núm. 143 Miércoles 20 de julio de 202227007
 2. Contra las decisiones de dicha Junta en materia de proclamación de las personas electas 
 se podrá interponer en las direcciones de los centros escolares recurso ante la Dirección 
 Territorial de Educación correspondiente, en el plazo de un mes a partir del día siguiente al 
@@ -326,9 +305,6 @@ Decimonoveno.- Difusión del proceso electoral.
 Familia y Participación Educativa, de la Dirección General de Ordenación, Innovación y 
 Calidad, adoptará medidas y estrategias que tengan por objetivo la consolidación en el 
 
-https://sede.gobiernodecanarias.org/boc
-boc-a-2022-143-2426
-Boletín Oficial de Canarias núm. 143 Miércoles 20 de julio de 202227008
 alumnado del aprendizaje de los valores sobre los que se asienta el sistema democrático 
 para su aplicación al gobierno del centro y que fomenten la participación, de una forma 
 particular, de las madres, los padres y las personas tutoras legales del alumnado en las 
@@ -370,9 +346,6 @@ colaboración con aquellas actuaciones que les correspondan por lo establecido e
 presente Resolución, así como con las tendentes a fomentar la participación de todos los 
 sectores implicados en el proceso de elección a Consejos del CER.
 
-https://sede.gobiernodecanarias.org/boc
-boc-a-2022-143-2426
-Boletín Oficial de Canarias núm. 143 Miércoles 20 de julio de 202227009
 Vigesimosegundo.- Asesoramiento y supervisión del proceso electoral.
 1. En cada una de las Direcciones Territoriales se constituirá una Comisión Electoral 
 de su ámbito de gestión, presidida por el Director Territorial de Educación correspondiente 
@@ -397,9 +370,6 @@ sin perjuicio de cualquier otro que se estime procedente interponer.
 Santa Cruz de Tenerife, a 12 de julio de 2022.- La Directora General de Centros, 
 Infraestructura y Promoción Educativa, María Candelaria González Morales.
 
-boc-a-2022-143-2426
-Boletín Oficial de Canarias núm. 143 Miércoles 20 de julio de 202227010
-https://sede.gobiernodecanarias.org/boc
 ANEXO
 CALENDARIO Y DOCUMENTOS DEL PROCESO ELECTORAL
 RENOVACIÓN PARCIAL O NUEVA CONSTITUCIÓN  DE LOS CONSEJOS DE LOS
@@ -451,9 +421,6 @@ CALENDARIO Y DOCUMENTOS DEL PROCESO ELECTORAL
 RENOV ACIÓN PARCIAL O NUEV A CONSTITUCIÓN DE LOS CONSEJOS DE LOS 
 COLECTIVOS DE ESCUELAS RURALES CURSO 2022/2023
 
-boc-a-2022-143-2426
-Boletín Oficial de Canarias núm. 143 Miércoles 20 de julio de 202227011
-https://sede.gobiernodecanarias.org/boc
 de enero
 • Publicación  por  la  junta  electoral  del  CER,  de  los  censos  electorales
 correspondientes a cada uno de los sectores.
@@ -502,9 +469,6 @@ constitución de la mesa electoral, votación y escrutinio relativo a la elecci�
 representantes de padres, madres o personas tutoras legales del alumnado, y del
 alumnado, para el Consejo del CER.
 
-boc-a-2022-143-2426
-Boletín Oficial de Canarias núm. 143 Miércoles 20 de julio de 202227012
-https://sede.gobiernodecanarias.org/boc
 Hasta el viernes 3
 de febrero
 • Convocatoria de carácter extraordinario del equipo pedagógico para realizar la

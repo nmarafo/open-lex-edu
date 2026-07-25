@@ -35,9 +35,6 @@ fuente_pdf_oficial: https://sede.gobiernodecanarias.org/boc/boc-a-2026-132-2304.
 
 # Dirección General de Formación Profesional y Enseñanzas de Régimen Especial.- Resolución de 24 de junio de 2026, por la que se corrige la Resolución de 13 de febrero de 2026, que dicta instrucciones sobre el proceso de admisión del alumnado a Ciclos Formativos de Grado Básico, Medio y Superior (Grado D, niveles 1, 2 y 3, respectivamente) de las Enseñanzas de Formación Profesional de Grados D, Enseñanzas Profesionales de Artes Plásticas y Diseño, Enseñanzas Elementales y Profesionales de Música, Enseñanzas de Idiomas y Enseñanzas Deportivas en centros docentes sostenidos con fondos públicos en la Comunidad Autónoma de Canarias para el curso escolar 2026/2027 (BOC n.º 39, de 26.2.2026).
 
-https://sede.gobiernodecanarias.org/boc
-boc-a-2026-132-2304
-Boletín Oficial de Canarias núm. 132 Jueves 2 de julio de 202624612
 III. Otras Resoluciones
 Consejería de Educación, Formación Profesional, Actividad Física y Deportes
 2304 Dirección General de Formación Profesional y Enseñanzas de Régimen Especial.- 
@@ -79,9 +76,6 @@ RESUELVO :
 Primero.- Corregir el error de hecho de la Resolución de 13 de febrero de 2026 (BOC 
 n.º 39, de 26.2.2026), en la instrucción decimotercera, en los siguientes términos:
 
-https://sede.gobiernodecanarias.org/boc
-boc-a-2026-132-2304
-Boletín Oficial de Canarias núm. 132 Jueves 2 de julio de 202624613
 Decimotercera.- Reclamaciones y renuncias a la adjudicación provisional.
 Donde dice:
 “5. Una vez publicadas las listas definitivas, en caso de no estar de acuerdo con la 

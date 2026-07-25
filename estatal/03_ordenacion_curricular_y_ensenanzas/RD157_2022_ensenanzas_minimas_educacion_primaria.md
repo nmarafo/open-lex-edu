@@ -87,14 +87,11 @@ De acuerdo con la jurisprudencia constitucional, procede en este caso establecer
 
 En su virtud, a propuesta de la Ministra de Educación y Formación Profesional, de acuerdo con el Consejo de Estado, y previa deliberación del Consejo de Ministros en su reunión del día 1 de marzo de 2022,
 
-
 **DISPONGO:**
-
 
 #### Artículo 1. Objeto.
 
 El presente real decreto tiene por objeto establecer la ordenación y las enseñanzas mínimas de la etapa de Educación Primaria.
-
 
 #### Artículo 2. Definiciones.
 
@@ -112,18 +109,15 @@ e) Saberes básicos: conocimientos, destrezas y actitudes que constituyen los 
 
 f) Situaciones de aprendizaje: situaciones y actividades que implican el despliegue por parte del alumnado de actuaciones asociadas a competencias clave y competencias específicas y que contribuyen a la adquisición y desarrollo de las mismas.
 
-
 #### Artículo 3. La etapa de Educación Primaria en el marco del sistema educativo.
 
 1. La Educación Primaria es una etapa educativa que constituye, junto con la Educación Secundaria Obligatoria y los Ciclos Formativos de Grado Básico, la Educación Básica.
 
 2. La Educación Primaria comprende tres ciclos de dos años académicos cada uno y se organiza en áreas que tendrán un carácter global e integrador, estarán orientadas al desarrollo de las competencias del alumnado y podrán organizarse en ámbitos.
 
-
 #### Artículo 4. Fines.
 
 La finalidad de la Educación Primaria es facilitar a los alumnos y alumnas los aprendizajes de la expresión y comprensión oral, la lectura, la escritura, el cálculo, las habilidades lógicas y matemáticas, la adquisición de nociones básicas de la cultura, y el hábito de convivencia así como los de estudio y trabajo, el sentido artístico, la creatividad y la afectividad, con el fin de garantizar una formación integral que contribuya al pleno desarrollo de su personalidad, y de prepararlos para cursar con aprovechamiento la Educación Secundaria Obligatoria.
-
 
 #### Artículo 5. Principios generales.
 
@@ -134,7 +128,6 @@ La finalidad de la Educación Primaria es facilitar a los alumnos y alumnas los 
 3. La acción educativa en esta etapa procurará la integración de las distintas experiencias y aprendizajes del alumnado desde una perspectiva global y se adaptará a sus ritmos de trabajo.
 
 4. Las medidas organizativas, metodológicas y curriculares que se adopten a tal fin se regirán por los principios del Diseño Universal para el Aprendizaje.
-
 
 #### Artículo 6. Principios pedagógicos.
 
@@ -157,7 +150,6 @@ La finalidad de la Educación Primaria es facilitar a los alumnos y alumnas los 
 9. Con objeto de fomentar la integración de las competencias, se dedicará un tiempo del horario lectivo a la realización de proyectos significativos para el alumnado y a la resolución colaborativa de problemas, reforzando la autoestima, la autonomía, la reflexión y la responsabilidad.
 
 10. Las lenguas oficiales se utilizarán solo como apoyo en el proceso de aprendizaje de la lengua extranjera. En dicho proceso, se priorizará la comprensión, la expresión y la interacción oral.
-
 
 #### Artículo 7. Objetivos.
 
@@ -191,7 +183,6 @@ m) Desarrollar sus capacidades afectivas en todos los ámbitos de la personali
 
 n) Desarrollar hábitos cotidianos de movilidad activa autónoma saludable, fomentando la educación vial y actitudes de respeto que incidan en la prevención de los accidentes de tráfico.
 
-
 #### Artículo 8. Áreas.
 
 1. Las áreas de la Educación Primaria que se imparten en todos los cursos son las siguientes:
@@ -220,7 +211,6 @@ f) Matemáticas.
 
 7. La organización en áreas se entenderá sin perjuicio del carácter global de la etapa, dada la necesidad de integrar las distintas experiencias y aprendizajes del alumnado en estas edades.
 
-
 #### Artículo 9. Competencias clave y Perfil de salida del alumnado al término de la enseñanza básica.
 
 1. A efectos de este real decreto, las competencias clave del currículo son las siguientes:
@@ -247,13 +237,11 @@ h) Competencia en conciencia y expresión culturales.
 
 4. Las enseñanzas mínimas que establece este real decreto tienen por objeto garantizar el desarrollo de las competencias clave previsto en el Perfil de salida. Los currículos establecidos por las administraciones educativas y la concreción de los mismos que los centros realicen en sus proyectos educativos tendrán, asimismo, como referente dicho Perfil de salida.
 
-
 #### Artículo 10. Competencias específicas, criterios de evaluación y saberes básicos.
 
 1. En el anexo II de este real decreto se fijan las competencias específicas de cada área, que serán comunes para todos los ciclos de la etapa, así como los criterios de evaluación y los contenidos, enunciados en forma de saberes básicos, que se establecen para cada ciclo en cada una de las áreas.
 
 2. Para la adquisición y desarrollo, tanto de las competencias clave como de las competencias específicas, el equipo docente planificará situaciones de aprendizaje en los términos que dispongan las administraciones educativas. Con el fin de facilitar al profesorado su propia práctica se enuncian en el anexo III orientaciones para su diseño.
-
 
 #### Artículo 11. Currículo.
 
@@ -267,7 +255,6 @@ h) Competencia en conciencia y expresión culturales.
 
 5. En caso de que se establezcan ámbitos, el currículo de los mismos incluirá las competencias específicas, los criterios de evaluación y los saberes básicos de las áreas que los conforman.
 
-
 #### Artículo 12. Horario.
 
 1. En el anexo IV se establece, para cada uno de los ciclos de la etapa y para las diferentes áreas de la Educación Primaria, el horario escolar que corresponde a las enseñanzas mínimas.
@@ -278,7 +265,6 @@ h) Competencia en conciencia y expresión culturales.
 
 4. Las administraciones educativas determinarán el porcentaje de los horarios escolares de que dispondrán los centros para garantizar el desarrollo integrado de todas las competencias de la etapa y la incorporación de los contenidos de carácter transversal a todas las áreas y ámbitos.
 
-
 #### Artículo 13. Tutoría y orientación.
 
 1. En la Educación Primaria, la orientación y la acción tutorial acompañarán el proceso educativo individual y colectivo del alumnado. Asimismo, se fomentará en la etapa el respeto mutuo y la cooperación entre iguales, con especial atención a la igualdad de género.
@@ -286,7 +272,6 @@ h) Competencia en conciencia y expresión culturales.
 2. Desde la tutoría se coordinará la intervención educativa del conjunto del profesorado y se mantendrá una relación permanente con las madres, los padres, las tutoras o los tutores legales, a fin de facilitar el ejercicio de los derechos reconocidos en el artículo 4.1.d) y g) de la Ley Orgánica 8/1985, de 3 de julio, reguladora del Derecho a la Educación.
 
 3. A lo largo del tercer ciclo, desde la tutoría se coordinará la incorporación de elementos de orientación educativa, académica y profesional que incluyan, al menos, el progresivo descubrimiento de estudios y profesiones, así como la generación de intereses vocacionales libres de estereotipos sexistas.
-
 
 #### Artículo 14. Evaluación.
 
@@ -302,7 +287,6 @@ h) Competencia en conciencia y expresión culturales.
 
 6. Igualmente, se promoverá el uso generalizado de instrumentos de evaluación variados, diversos, accesibles y adaptados a las distintas situaciones de aprendizaje que permitan la valoración objetiva de todo el alumnado.
 
-
 #### Artículo 15. Promoción.
 
 1. Al final de cada ciclo, el equipo docente adoptará las decisiones relativas a la promoción del alumnado de manera colegiada, tomando especialmente en consideración la información y el criterio del tutor o la tutora.
@@ -314,7 +298,6 @@ h) Competencia en conciencia y expresión culturales.
 4. Al finalizar cada uno de los ciclos, el tutor o la tutora emitirá un informe sobre el grado de adquisición de las competencias clave por parte de cada alumno o alumna, indicando en su caso las medidas de refuerzo que se deben contemplar en el ciclo o etapa siguiente.
 
 5. Con el fin de garantizar la continuidad del proceso de formación del alumnado, cada alumno o alumna dispondrá al finalizar la etapa de un informe sobre su evolución y el grado de desarrollo de las competencias clave, según lo dispuesto por las administraciones educativas.
-
 
 #### Artículo 16. Atención a las diferencias individuales.
 
@@ -332,7 +315,6 @@ h) Competencia en conciencia y expresión culturales.
 
 Igualmente, se establecerán las medidas más adecuadas para que las condiciones de realización de los procesos asociados a la evaluación se adapten a las necesidades de este alumnado.
 
-
 #### Artículo 17. Alumnado con necesidades educativas especiales.
 
 1. La escolarización del alumnado que presenta necesidades educativas especiales se regirá por los principios de normalización e inclusión y asegurará su no discriminación y la igualdad efectiva en el acceso y la permanencia en el sistema educativo, pudiendo introducirse medidas de flexibilización de las distintas etapas educativas, cuando se considere necesario.
@@ -343,7 +325,6 @@ Igualmente, se establecerán las medidas más adecuadas para que las condiciones
 
 4. La identificación y la valoración de las necesidades educativas de este alumnado se realizarán lo más tempranamente posible por profesionales especialistas y en los términos que determinen las administraciones educativas. En este proceso serán preceptivamente oídos e informados los padres, madres, tutores o tutoras legales del alumnado. Las administraciones educativas regularán los procedimientos que permitan resolver las discrepancias que puedan surgir, siempre teniendo en cuenta el interés superior del menor y la voluntad de las familias que muestren su preferencia por el régimen más inclusivo.
 
-
 #### Artículo 18. Alumnado con dificultades específicas de aprendizaje.
 
 1. Corresponde a las administraciones educativas adoptar las medidas necesarias para identificar al alumnado con dificultades específicas de aprendizaje y valorar de forma temprana sus necesidades.
@@ -352,18 +333,15 @@ Igualmente, se establecerán las medidas más adecuadas para que las condiciones
 
 3. La identificación, valoración e intervención de las necesidades educativas de este alumnado se realizará de la forma más temprana posible, en los términos que determinen las administraciones educativas.
 
-
 #### Artículo 19. Alumnado con integración tardía en el sistema educativo español.
 
 1. La escolarización del alumnado que se incorpora tardíamente al sistema educativo español se realizará atendiendo a sus circunstancias, conocimientos, edad e historial académico. Cuando presente graves carencias en la lengua o lenguas de escolarización, recibirá una atención específica que será, en todo caso, simultánea a su escolarización en los grupos ordinarios, con los que compartirá el mayor tiempo posible del horario semanal.
 
 2. Quienes presenten un desfase en su nivel de competencia curricular de un ciclo o más podrán ser escolarizados en el curso inferior al que les correspondería por edad. Para este alumnado se adoptarán las medidas de refuerzo necesarias que faciliten su integración escolar y la recuperación de su desfase y le permitan continuar con aprovechamiento su aprendizaje. En el caso de superar dicho desfase, se incorporarán al grupo correspondiente a su edad.
 
-
 #### Artículo 20. Alumnado con altas capacidades intelectuales.
 
 En los términos que determinen las administraciones educativas, se podrá flexibilizar la escolarización del alumnado con altas capacidades intelectuales, de forma que pueda reducirse un curso la duración de la etapa, cuando se prevea que esta es la medida más adecuada para el desarrollo de su equilibrio personal y su socialización.
-
 
 #### Artículo 21. Autonomía de los centros.
 
@@ -381,21 +359,17 @@ En los términos que determinen las administraciones educativas, se podrá flexi
 
 7. Para garantizar la continuidad del proceso de formación y una transición y evolución positivas desde la Educación Infantil a la Educación Primaria y desde esta a la Educación Secundaria Obligatoria, las administraciones educativas y los centros establecerán mecanismos para favorecer la coordinación entre las diferentes etapas.
 
-
 #### Artículo 22. Evaluación de diagnóstico.
 
 En el cuarto curso de Educación Primaria, todos los centros realizarán una evaluación de diagnóstico de las competencias adquiridas por su alumnado. Esta evaluación, que será responsabilidad de las administraciones educativas, tendrá carácter informativo, formativo y orientador para los centros, para el profesorado, para el alumnado y sus familias o tutores legales y para el conjunto de la comunidad educativa. Esta evaluación, de carácter censal, tendrá como marco de referencia el establecido de acuerdo con el artículo 144.1 de la Ley Orgánica 2/2006, de 3 de mayo.
-
 
 #### Artículo 23. Derecho del alumnado a una evaluación objetiva.
 
 Las administraciones educativas garantizarán el derecho del alumnado a que su dedicación, esfuerzo y rendimiento sean valorados y reconocidos con objetividad, para lo que establecerán los oportunos procedimientos, que, en todo caso, atenderán a las características de la evaluación dispuestas en la legislación vigente y, en particular, al carácter global, continuo y formativo de la evaluación en esta etapa.
 
-
 #### Artículo 24. Participación y derecho a la información de madres, padres, tutoras o tutores legales.
 
 Las madres, los padres, las tutoras o los tutores legales deberán participar y apoyar la evolución del proceso educativo de sus hijos, hijas, tutelados o tuteladas, colaborando en las medidas de apoyo o refuerzo que adopten los centros para facilitar su progreso. Tendrán, además, derecho a conocer las decisiones relativas a su evaluación y promoción, así como al acceso a los documentos oficiales de su evaluación y a las pruebas y documentos de las evaluaciones que se les realicen, en la parte referida al alumno o alumna de que se trate, sin perjuicio del respeto a las garantías establecidas en la Ley Orgánica 3/2018, de 5 de diciembre, de Protección de Datos Personales y garantía de los derechos digitales, y demás normativa aplicable en materia de protección de datos de carácter personal.
-
 
 #### Artículo 25. Documentos e informes de evaluación.
 
@@ -407,7 +381,6 @@ Las madres, los padres, las tutoras o los tutores legales deberán participar y 
 
 4. Los documentos oficiales de evaluación deberán recoger siempre la norma de la Administración educativa que establece el currículo correspondiente. Cuando hayan de surtir efectos fuera del ámbito de una comunidad autónoma cuya lengua tenga estatutariamente atribuido carácter oficial, se estará a lo dispuesto en el artículo 15.3 de la Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común de las Administraciones Públicas.
 
-
 #### Artículo 26. Actas de evaluación.
 
 1. Las actas de evaluación se extenderán para cada uno de los cursos y se cerrarán al término del período lectivo ordinario. Comprenderán, al menos, la relación nominal del alumnado que compone el grupo, junto con los resultados de la evaluación de las áreas o ámbitos y las decisiones sobre promoción y permanencia.
@@ -418,7 +391,6 @@ Las madres, los padres, las tutoras o los tutores legales deberán participar y 
 
 4. Las actas de evaluación serán firmadas por el tutor o la tutora del grupo y llevarán el visto bueno de la persona titular de la dirección del centro.
 
-
 #### Artículo 27. Expediente académico.
 
 1. El expediente académico recogerá, junto con los datos de identificación del centro, los del alumno o alumna, así como la información relativa a su proceso de evaluación. Se abrirá en el momento de incorporación al centro y recogerá, al menos, los resultados de la evaluación de las áreas o ámbitos, las decisiones de promoción de etapa, las medidas de apoyo educativo y las adaptaciones curriculares que se hayan adoptado para el alumno o alumna.
@@ -426,7 +398,6 @@ Las madres, los padres, las tutoras o los tutores legales deberán participar y 
 2. En el caso de que existan áreas que hayan sido cursadas de forma integrada en un ámbito, en el expediente figurará, junto con la denominación de dicho ámbito, la indicación expresa de las áreas integradas en el mismo.
 
 3. La custodia y el archivo de los expedientes académicos corresponden a los centros docentes en que se hayan realizado los estudios de las enseñanzas correspondientes y serán supervisados por la Inspección educativa.
-
 
 #### Artículo 28. Historial académico.
 
@@ -436,13 +407,11 @@ Las madres, los padres, las tutoras o los tutores legales deberán participar y 
 
 3. Tras finalizar la etapa, el historial académico de Educación Primaria se entregará a los padres, madres, tutores o tutoras del alumno o alumna. Igualmente, se enviará una copia del historial académico y del informe de final de etapa al centro de educación secundaria en el que vaya a proseguir sus estudios el alumno o alumna, previa petición de dicho centro.
 
-
 #### Artículo 29. Informe personal por traslado.
 
 1. En caso de traslado antes de finalizar la etapa, el centro de origen deberá remitir al de destino, y a petición de este, el informe personal por traslado, junto a una copia del historial académico. El centro receptor abrirá el correspondiente expediente académico. La matriculación adquirirá carácter definitivo una vez recibida la copia del historial académico.
 
 2. El informe personal por traslado contendrá los resultados de las evaluaciones que se hubieran realizado, la aplicación, en su caso, de medidas curriculares y organizativas, y todas aquellas observaciones que se consideren oportunas acerca del progreso general del alumno o de la alumna.
-
 
 #### Artículo 30. Autenticidad, seguridad y confidencialidad.
 
@@ -455,7 +424,6 @@ Las madres, los padres, las tutoras o los tutores legales deberán participar y 
 4. El expediente electrónico del alumno estará constituido, al menos, por los datos contenidos en los documentos oficiales de evaluación, y cumplirá con lo establecido en el Real Decreto 4/2010, de 8 de enero, por el que se regula el Esquema Nacional de Interoperabilidad en el ámbito de la Administración Electrónica.
 
 5. El Ministerio de Educación y Formación Profesional, previa consulta a las comunidades autónomas, en el marco de la Conferencia Sectorial de Educación, establecerá la estructura y el formato de, al menos, los datos contenidos en los documentos oficiales de evaluación del expediente electrónico del alumno descritos en la presente disposición, de acuerdo con lo previsto en el artículo 111 bis y en el apartado 4 de la disposición adicional vigesimotercera de la Ley Orgánica 2/2006, de 3 de mayo, que junto con otros garanticen la interoperabilidad entre los distintos sistemas de información utilizados en el sistema educativo español.
-
 
 #### Disposición adicional primera. Enseñanzas de religión.
 
@@ -473,18 +441,15 @@ Las actividades a las que se refiere este apartado en ningún caso comportarán 
 
 6. Con el fin de garantizar el principio de igualdad y la libre concurrencia entre todo el alumnado, las calificaciones que se hubieran obtenido en la evaluación de las enseñanzas de religión no se computarán en las convocatorias en las que deban entrar en concurrencia los expedientes académicos.
 
-
 #### Disposición adicional segunda. Enseñanzas del sistema educativo español impartidas en lenguas extranjeras.
 
 1. Las administraciones educativas podrán autorizar que una parte de las áreas del currículo se impartan en lenguas extranjeras, sin que ello suponga modificación de los aspectos básicos del currículo regulados en el presente real decreto. En este caso, procurarán que a lo largo de la etapa los alumnos y alumnas adquieran la terminología propia de las áreas en la lengua extranjera y en la lengua o lenguas oficiales de la comunidad autónoma.
 
 2. Los centros que impartan una parte de las áreas del currículo en lenguas extranjeras aplicarán, en todo caso, los criterios para la admisión del alumnado establecidos en la Ley Orgánica 2/2006, de 3 de mayo. Entre tales criterios no se incluirán requisitos lingüísticos.
 
-
 #### Disposición adicional tercera. Calendario.
 
 El calendario escolar, que fijarán anualmente las administraciones educativas, comprenderá un mínimo de 175 días lectivos para las enseñanzas obligatorias.
-
 
 #### Disposición transitoria primera. Aplicabilidad del Real Decreto 126/2014, de 28 de febrero, por el que se establece el currículo básico de la Educación Primaria.
 
@@ -492,11 +457,9 @@ El calendario escolar, que fijarán anualmente las administraciones educativas, 
 
 2. Los estándares de aprendizaje evaluables que figuran en los anexos al citado Real Decreto 126/2014, de 28 de febrero, tienen carácter meramente orientativo para los cursos de Educación Primaria a que se refiere el apartado 1 durante el año académico 2022-2023.
 
-
 #### Disposición transitoria segunda. Aplicabilidad del Real Decreto 984/2021, de 16 de noviembre, por el que se regulan la evaluación y la promoción en la Educación Primaria, así como la evaluación, la promoción y la titulación en la Educación Secundaria Obligatoria, el Bachillerato y la Formación Profesional.
 
 El Real Decreto 984/2021, de 16 de noviembre, por el que se regulan la evaluación y la promoción en la Educación Primaria, así como la evaluación, la promoción y la titulación en la Educación Secundaria Obligatoria, el Bachillerato y la Formación Profesional, se aplicará a los cursos segundo, cuarto y sexto de Educación Primaria, durante el año académico 2022-2023.
-
 
 #### Disposición derogatoria única. Derogación normativa.
 
@@ -506,27 +469,21 @@ El Real Decreto 984/2021, de 16 de noviembre, por el que se regulan la evaluac
 
 3. Quedan derogadas las demás normas de igual o inferior rango en cuanto se opongan a lo establecido en este real decreto.
 
-
 #### Disposición final primera. Título competencial.
 
 El presente real decreto tiene carácter básico y se dicta al amparo de las competencias que atribuye al Estado el artículo 149.1.30.ª de la Constitución Española, sobre la regulación de las condiciones de obtención, expedición y homologación de títulos académicos y profesionales y normas básicas para el desarrollo del artículo 27 de la Constitución, a fin de garantizar el cumplimiento de las obligaciones de los poderes públicos en esta materia.
 
 El anexo III carece del carácter de normativa básica.
 
-
 #### Disposición final segunda. Aplicación.
 
 Corresponde a la persona titular del Ministerio de Educación y Formación Profesional dictar, en el ámbito de sus competencias, cuantas disposiciones sean precisas para la ejecución y aplicación de lo establecido en este real decreto, sin perjuicio de las competencias que corresponden a las comunidades autónomas.
-
 
 #### Disposición final tercera. Calendario de implantación.
 
 Lo dispuesto en este real decreto se implantará para los cursos primero, tercero y quinto en el curso escolar 2022-2023, y para los cursos segundo, cuarto y sexto en el curso 2023-2024.
 
-
 #### Disposición final cuarta. Entrada en vigor.
-
-Este real decreto entrará en vigor el día siguiente al de su publicación en el «Boletín Oficial del Estado».
 
 Dado en Madrid, el 1 de marzo de 2022.
 
@@ -614,13 +571,11 @@ La competencia en comunicación lingüística supone interactuar de forma oral, 
 
 La competencia en comunicación lingüística constituye la base para el pensamiento propio y para la construcción del conocimiento en todos los ámbitos del saber. Por ello, su desarrollo está vinculado a la reflexión explícita acerca del funcionamiento de la lengua en los géneros discursivos específicos de cada área de conocimiento, así como a los usos de la oralidad, la escritura o la signación para pensar y para aprender. Por último, hace posible apreciar la dimensión estética del lenguaje y disfrutar de la cultura literaria.
 
-
 **Descriptores operativos**
 
 Competencia plurilingüe (CP)
 
 La competencia plurilingüe implica utilizar distintas lenguas, orales o signadas, de forma apropiada y eficaz para el aprendizaje y la comunicación. Esta competencia supone reconocer y respetar los perfiles lingüísticos individuales y aprovechar las experiencias propias para desarrollar estrategias que permitan mediar y hacer transferencias entre lenguas, incluidas las clásicas, y, en su caso, mantener y adquirir destrezas en la lengua o lenguas familiares y en las lenguas oficiales. Integra, asimismo, dimensiones históricas e interculturales orientadas a conocer, valorar y respetar la diversidad lingüística y cultural de la sociedad con el objetivo de fomentar la convivencia democrática.
-
 
 **Descriptores operativos**
 
@@ -634,7 +589,6 @@ La competencia en ciencia conlleva la comprensión y explicación del entorno na
 
 La competencia en tecnología e ingeniería comprende la aplicación de los conocimientos y metodologías propios de las ciencias para transformar nuestra sociedad de acuerdo con las necesidades o deseos de las personas en un marco de seguridad, responsabilidad y sostenibilidad.
 
-
 **Descriptores operativos**
 
 Competencia digital (CD)
@@ -643,13 +597,11 @@ La competencia digital implica el uso seguro, saludable, sostenible, crítico y 
 
 Incluye la alfabetización en información y datos, la comunicación y la colaboración, la educación mediática, la creación de contenidos digitales (incluida la programación), la seguridad (incluido el bienestar digital y las competencias relacionadas con la ciberseguridad), asuntos relacionados con la ciudadanía digital, la privacidad, la propiedad intelectual, la resolución de problemas y el pensamiento computacional y crítico.
 
-
 **Descriptores operativos**
 
 Competencia personal, social y de aprender a aprender (CPSAA)
 
 La competencia personal, social y de aprender a aprender implica la capacidad de reflexionar sobre uno mismo para autoconocerse, aceptarse y promover un crecimiento personal constante; gestionar el tiempo y la información eficazmente; colaborar con otros de forma constructiva; mantener la resiliencia; y gestionar el aprendizaje a lo largo de la vida. Incluye también la capacidad de hacer frente a la incertidumbre y a la complejidad; adaptarse a los cambios; aprender a gestionar los procesos metacognitivos; identificar conductas contrarias a la convivencia y desarrollar estrategias para abordarlas; contribuir al bienestar físico, mental y emocional propio y de las demás personas, desarrollando habilidades para cuidarse a sí mismo y a quienes lo rodean a través de la corresponsabilidad; ser capaz de llevar una vida orientada al futuro; así como expresar empatía y abordar los conflictos en un contexto integrador y de apoyo.
-
 
 **Descriptores operativos**
 
@@ -657,20 +609,17 @@ Competencia ciudadana (CC)
 
 La competencia ciudadana contribuye a que alumnos y alumnas puedan ejercer una ciudadanía responsable y participar plenamente en la vida social y cívica, basándose en la comprensión de los conceptos y las estructuras sociales, económicas, jurídicas y políticas, así como en el conocimiento de los acontecimientos mundiales y el compromiso activo con la sostenibilidad y el logro de una ciudadanía mundial. Incluye la alfabetización cívica, la adopción consciente de los valores propios de una cultura democrática fundada en el respeto a los derechos humanos, la reflexión crítica acerca de los grandes problemas éticos de nuestro tiempo y el desarrollo de un estilo de vida sostenible acorde con los Objetivos de Desarrollo Sostenible planteados en la Agenda 2030.
 
-
 **Descriptores operativos**
 
 Competencia emprendedora (CE)
 
 La competencia emprendedora implica desarrollar un enfoque vital dirigido a actuar sobre oportunidades e ideas, utilizando los conocimientos específicos necesarios para generar resultados de valor para otras personas. Aporta estrategias que permiten adaptar la mirada para detectar necesidades y oportunidades; entrenar el pensamiento para analizar y evaluar el entorno, y crear y replantear ideas utilizando la imaginación, la creatividad, el pensamiento estratégico y la reflexión ética, crítica y constructiva dentro de los procesos creativos y de innovación; y despertar la disposición a aprender, a arriesgar y a afrontar la incertidumbre. Asimismo, implica tomar decisiones basadas en la información y el conocimiento y colaborar de manera ágil con otras personas, con motivación, empatía y habilidades de comunicación y de negociación, para llevar las ideas planteadas a la acción mediante la planificación y gestión de proyectos sostenibles de valor social, cultural y económico-financiero.
 
-
 **Descriptores operativos**
 
 Competencia en conciencia y expresión culturales (CCEC)
 
 La competencia en conciencia y expresión culturales supone comprender y respetar el modo en que las ideas, las opiniones, los sentimientos y las emociones se expresan y se comunican de forma creativa en distintas culturas y por medio de una amplia gama de manifestaciones artísticas y culturales. Implica también un compromiso con la comprensión, el desarrollo y la expresión de las ideas propias y del sentido del lugar que se ocupa o del papel que se desempeña en la sociedad. Asimismo, requiere la comprensión de la propia identidad en evolución y del patrimonio cultural en un mundo caracterizado por la diversidad, así como la toma de conciencia de que el arte y otras manifestaciones culturales pueden suponer una manera de mirar el mundo y de darle forma.
-
 
 **Descriptores operativos**
 
@@ -782,9 +731,7 @@ Los principios y valores de la Constitución española y la Unión Europea, junt
 
 Esta competencia específica se conecta con los siguientes descriptores del Perfil de salida: CCL5, CPSAA1, CC1, CC2, CC3, CCEC1.
 
-
 **Primer ciclo**
-
 
 **Criterios de evaluación**
 
@@ -952,9 +899,7 @@ C. Sociedades y territorios.
 
 – Estilos de vida sostenible. El uso responsable del agua, la movilidad segura, saludable y sostenible, y la prevención y la gestión de los residuos.
 
-
 **Segundo ciclo**
-
 
 **Criterios de evaluación**
 
@@ -1138,9 +1083,7 @@ C. Sociedades y territorios.
 
 – Estilos de vida sostenible. El consumo y la producción responsables, la alimentación equilibrada y sostenible, el uso eficiente del agua y la energía, la movilidad segura, saludable y sostenible, y la prevención y la gestión de los residuos.
 
-
 **Tercer ciclo**
-
 
 **Criterios de evaluación**
 
@@ -1388,9 +1331,7 @@ El alumnado debe planificar sus propuestas para lograr cumplir los objetivos pre
 
 Esta competencia específica se conecta con los siguientes descriptores del Perfil de salida: CCL1, CCL5, CP3, STEM3, CC2, CE1, CE3, CCEC3, CCEC4.
 
-
 **Primer ciclo**
-
 
 **Criterios de evaluación**
 
@@ -1478,9 +1419,7 @@ D. Música y artes escénicas y performativas.
 
 – Capacidades expresivas y creativas básicas de la expresión corporal y dramática.
 
-
 **Segundo ciclo**
-
 
 **Criterios de evaluación**
 
@@ -1584,9 +1523,7 @@ D. Música y artes escénicas y performativas.
 
 – Elementos básicos de la representación escénica: roles, materiales y espacios.
 
-
 **Tercer ciclo**
-
 
 **Criterios de evaluación**
 
@@ -1772,9 +1709,7 @@ Esta competencia implica desarrollar conocimientos, destrezas y actitudes para i
 
 Esta competencia específica se conecta con los siguientes descriptores del Perfil de salida: STEM5, CC2, CC4, CE1, CE3.
 
-
 **Primer ciclo**
-
 
 **Criterios de evaluación**
 
@@ -1882,9 +1817,7 @@ F. Interacción eficiente y sostenible con el entorno.
 
 – Cuidado del entorno próximo y de los animales y plantas que en él conviven, como servicio a la comunidad, durante la práctica segura de actividades físicas en el medio natural y urbano.
 
-
 **Segundo ciclo**
-
 
 **Criterios de evaluación**
 
@@ -1994,9 +1927,7 @@ F. Interacción eficiente y sostenible con el entorno.
 
 – Cuidado del entorno próximo y de los animales y plantas que en él conviven como servicio a la comunidad, durante la práctica segura de actividades físicas en el medio natural y urbano.
 
-
 **Tercer ciclo**
-
 
 **Criterios de evaluación**
 
@@ -2151,7 +2082,6 @@ Esta competencia específica se conecta con los siguientes descriptores del Perf
 La educación emocional es imprescindible para formar individuos equilibrados y capaces de mantener relaciones plenas y satisfactorias con los demás. Así, el modo en que tratamos afectivamente a los otros y en que somos tratados por ellos son factores esenciales para establecer relaciones sociales adecuadas, armoniosas y constructivas, así como para desarrollar la propia autoestima y, por ello, una mejor actitud y aptitud cívica y ética. Por ello, resulta necesario dotar al alumnado de las herramientas cognitivas y los hábitos de observación y análisis que se requieren para identificar, gestionar y expresar asertivamente sus emociones y sentimientos, además de promover el contacto afectivo y empático con otras personas y con el medio natural. Por otro lado, la vivencia y expresión asertiva y compartida de emociones y sentimientos puede darse en múltiples contextos y situaciones y a través de multitud de códigos y lenguajes, entre ellos, y de forma sobresaliente, en los de la experiencia estética, la deliberación compartida en torno a problemas morales y cotidianos, o la misma experiencia de comprensión autónoma del mundo, por lo que las actividades para desarrollar esta competencia pueden integrarse en casi cualquier tipo de dinámica y proceso que fomente la creatividad, la reflexión, el juicio y el conocimiento autónomos. En cualquier caso, la educación emocional ha de incorporar la reflexión en torno a la interacción de emociones y sentimientos con valores, creencias e ideas, así como el papel de ciertas emociones en la comprensión y justificación de algunas de las más nobles acciones y experiencias humanas.
 
 Esta competencia específica se conecta con los siguientes descriptores del Perfil de salida: CCL1, CCL5, CPSAA1, CPSAA2, CPSAA3, CC2, CC3, CC4, CE3.
-
 
 **Criterios de evaluación**
 
@@ -2335,9 +2265,7 @@ En el ámbito de la comunicación personal, la educación lingüística debe ayu
 
 Esta competencia específica se conecta con los siguientes descriptores del Perfil de salida: CCL1, CCL5, CP3, CD3, CPSAA3, CC1, CC2, CC3.
 
-
 **Primer ciclo**
-
 
 **Criterios de evaluación**
 
@@ -2471,9 +2399,7 @@ D. Reflexión sobre la lengua y sus usos en el marco de propuestas la producci
 
 – Signos básicos de puntuación como mecanismo para organizar el texto escrito.
 
-
 **Segundo ciclo**
-
 
 **Criterios de evaluación**
 
@@ -2611,9 +2537,7 @@ D. Reflexión sobre la lengua y sus usos en el marco de propuestas de producci
 
 – Estrategias elementales para el uso guiado de diccionarios, en distintos soportes.
 
-
 **Tercer ciclo**
-
 
 **Criterios de evaluación**
 
@@ -2821,9 +2745,7 @@ La conciencia de la diversidad proporciona al alumnado la posibilidad de relacio
 
 Esta competencia específica se conecta con los siguientes descriptores del Perfil de salida: CCL5, CP3, CPSAA1, CPSAA3, CC2, CC3, CCEC1.
 
-
 **Primer ciclo**
-
 
 **Criterios de evaluación**
 
@@ -2905,9 +2827,7 @@ C. Interculturalidad.
 
 – Iniciación en las estrategias básicas de detección de usos discriminatorios del lenguaje verbal y no verbal.
 
-
 **Segundo ciclo**
-
 
 **Criterios de evaluación**
 
@@ -3003,9 +2923,7 @@ C. Interculturalidad.
 
 – Estrategias básicas de uso común de detección de usos discriminatorios del lenguaje verbal y no verbal.
 
-
 **Tercer ciclo**
-
 
 **Criterios de evaluación**
 
@@ -3201,9 +3119,7 @@ Se persigue dotar al alumnado de herramientas y estrategias de comunicación efe
 
 Esta competencia específica se conecta con los siguientes descriptores del Perfil de salida: CCL5, CP3, STEM3, CPSAA1, CPSAA3, CC2, CC3.
 
-
 **Primer ciclo**
-
 
 **Criterios de evaluación**
 
@@ -3377,9 +3293,7 @@ F. Sentido socioafectivo.
 
 – Contribución de las matemáticas a los distintos ámbitos del conocimiento humano desde una perspectiva de género.
 
-
 **Segundo ciclo**
-
 
 **Criterios de evaluación**
 
@@ -3597,9 +3511,7 @@ F. Sentido socioafectivo.
 
 – Valoración de la contribución de las matemáticas a los distintos ámbitos del conocimiento humano desde una perspectiva de género.
 
-
 **Tercer ciclo**
-
 
 **Criterios de evaluación**
 

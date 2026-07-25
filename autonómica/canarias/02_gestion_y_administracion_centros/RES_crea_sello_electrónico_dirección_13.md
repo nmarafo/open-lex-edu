@@ -30,10 +30,7 @@ fuente_pdf_oficial: https://sede.gobiernodecanarias.org/boc/boc-a-2019-016-311.p
 
 # Secretaría General Técnica.- Resolución de 9 de enero de 2019, por la que se crea el sello electrónico de la Dirección General de Formación Profesional y Educación de Adultos de la Consejería de Educación y Universidades (BOC n.º 16, de 24 de enero).
 
-Boletín Oficial de Canarias núm. 16
-https://sede.gobcan.es/boc
 Jueves 24 de enero de 2019
-3458
 III. Otras Resoluciones
 Consejería de Educación y Universidades
 311 Secretaría General Técnica.- Resolución de 9 de enero de 2019, por la que se crea 
@@ -73,13 +70,8 @@ Públicas indicando que podrán identificarse mediante el uso de un sello electr
 en un certificado electrónico reconocido o cualificado que reúna los requisitos exigidos por 
 la legislación de firma electrónica.
 Página 
-boc-a-2019-016-311
 
-
-Boletín Oficial de Canarias núm. 16
-https://sede.gobcan.es/boc
 Jueves 24 de enero de 2019
-3459
 La Orden de 9 de mayo de 2016, de la Consejería de Presidencia, Justicia e Igualdad, 
 regula el sistema de notificación electrónica mediante comparecencia en sedes electrónicas 
 en el ámbito de la Administración Pública de la Comunidad Autónoma de Canarias y sus 
@@ -120,13 +112,8 @@ Profesional y Educación de Adultos de la Consejería de Educación y Universida
 como sistema de firma electrónica para la identificación y autenticación del ejercicio de 
 la competencia en las actuaciones administrativas automatizadas previstas en el resuelvo 
 quinto de la presente resolución.
-boc-a-2019-016-311
 
-
-Boletín Oficial de Canarias núm. 16
-https://sede.gobcan.es/boc
 Jueves 24 de enero de 2019
-3460
 Segundo.- Órgano responsable.
 El órgano titular del sello electrónico que se crea por la presente resolución y que 
 será responsable, a efectos de su utilización así como de la impugnación, es la Dirección 
@@ -162,13 +149,8 @@ de Canarias y sus organismos públicos dependientes.
 3. La firma electrónica de los documentos de los diferentes procedimientos y/o servicios 
 que presta la Administración Educativa en materia de Formación Profesional y Educación 
 de Adultos.
-boc-a-2019-016-311
 
-
-Boletín Oficial de Canarias núm. 16
-https://sede.gobcan.es/boc
 Jueves 24 de enero de 2019
-3461
 Sexto.- Garantía de autenticidad e integridad.
 El sello electrónico se utilizará para garantizar la autenticidad y la integridad de un 
 documento o expediente electrónico, a cuyo efecto se podrá superponer al código seguro de 
@@ -183,5 +165,3 @@ artículos 121 y 122 de la Ley 39/2015, de 1 de octubre, del Procedimiento Admin
 Común de las Administraciones Públicas.
 Santa Cruz de Tenerife, a 9 de enero de 2019.- La Secretaria General Técnica, Ángeles 
 Bogas Gálvez.
-boc-a-2019-016-311
-

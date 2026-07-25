@@ -47,33 +47,25 @@ De conformidad con todo lo anterior, la Comisión Mixta de Transferencias Admini
 
 En su virtud, a propuesta del Ministro de Política Territorial, y previa deliberación del Consejo de Ministros en su reunión del día 25 de junio de 2010,
 
-
 **DISPONGO:**
-
 
 #### Artículo 1.
 
 Se aprueba el Acuerdo de la Comisión Mixta de Transferencias Administración del Estado-Comunidad Autónoma Canarias, adoptado por el Pleno en su reunión del día 17 de junio de 2010, por el que se traspasa a la Comunidad Autónoma de Canarias los medios adscritos a la gestión de las prestaciones sanitarias del Seguro Escolar,
 
-
 #### Artículo 2.
 
 En consecuencia, quedan traspasados a la Comunidad Autónoma de Canarias las funciones y los créditos presupuestarios determinados que figuran en el propio acuerdo de la Comisión Mixta de Transferencias Administración del Estado-Comunidad Autónoma de Canarias.
-
 
 #### Artículo 3.
 
 El traspaso a que se refiere este real decreto tendrá efectividad a partir del día señalado en el acuerdo de la Comisión Mixta.
 
-
 #### Artículo 4.
 
 Los créditos presupuestarios que se determinan, de conformidad con la relación número 1 del anexo, serán dados de baja en los correspondientes conceptos presupuestarios y transferidos por el Ministerio de Economía y Hacienda a los conceptos habilitados en la sección 32 de los Presupuestos Generales del Estado, destinados a financiar el coste de los servicios asumidos por las comunidades autónomas, una vez se remitan al departamento citado, por parte del Ministerio de Educación, los certificados de retención de crédito, para dar cumplimiento a lo dispuesto en la normativa vigente sobre Presupuestos Generales del Estado.
 
-
 #### Disposición final única. Entrada en vigor
-
-El presente real decreto entrará en vigor el día siguiente al de su publicación en el «Boletín Oficial del Estado».
 
 Dado en Madrid, el 25 de junio de 2010.
 
@@ -86,7 +78,6 @@ MANUEL CHAVES GONZÁLEZ
 ANEXO
 
 Doña Carmen Cuesta Gil y don José Javier Torres Lana, Secretarios de la Comisión Mixta de Transferencias prevista en la disposición transitoria tercera del Estatuto de Autonomía de Canarias,
-
 
 **CERTIFICAN**
 
@@ -140,9 +131,7 @@ El traspaso de funciones y servicios, objeto de este Acuerdo, tendrá efectivida
 
 Y para que conste, expedimos la presente certificación en Las Palmas de Gran Canaria, a 17 de junio de 2010.–Los Secretarios de la Comisión Mixta, Carmen Cuesta Gil y José Javier Torres Lana.
 
-
 **RELACIÓN NÚMERO 1**
-
 
 **Coste efectivo del traspaso a la Comunidad Autónoma de Canarias de los medios adscritos a la gestión de las prestaciones sanitarias del seguro escolar**
 

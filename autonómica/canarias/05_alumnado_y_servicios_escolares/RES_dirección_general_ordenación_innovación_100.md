@@ -31,10 +31,8 @@ fuente_pdf_oficial: https://sede.gobiernodecanarias.org/boc/boc-a-2017-169-4284.
 
 # Resolución de 28 de agosto de 2017, de la Dirección General de Ordenación, Innovación y Promoción Educativa, por la que se dictan instrucciones para la tramitación electrónica del procedimiento que regula las actividades escolares complementarias, actividades extraescolares y servicios escolares en los centros privados concertados de Canarias (BOC n.º 169, de 1 de septiembre).
 
-Boletín Oficial de Canarias núm. 169
 https://sede.gobcan.es/cpji/boc
 Viernes 1 de septiembre de 2017
-25640
 III. Otras Resoluciones
 Consejería de Educación y Universidades
 4284 Dirección General de Ordenación, Innovación y Promoción Educativa.- Resolución 
@@ -71,13 +69,9 @@ Esta Dirección General de acuerdo con todo lo anterior, y en uso de las atribuc
 que le son propias con arreglo a lo previsto en el artículo 13 del Decreto 135/2016, de 10 
 de octubre, por el que se aprueba el Reglamento Orgánico de la Consejería de Educación 
 y Universidades (BOC nº 203, de 19.10.16); el artículo 9 del Decreto 183/2015, de 21 de 
-boc-a-2017-169-4284
 
-
-Boletín Oficial de Canarias núm. 169
 https://sede.gobcan.es/cpji/boc
 Viernes 1 de septiembre de 2017
-25641
 julio, por el que se determina la estructura central y periférica, así como las sedes de las 
 Consejerías del Gobierno de Canarias (BOC nº 142, de 23.7.15); y el Decreto 203/2017, de 
 4 de agosto, por el que se procede al nombramiento del Director General de Ordenación, 
@@ -96,13 +90,9 @@ siguiente al de su publicación, de acuerdo con lo dispuesto en los artículos 1
 Públicas (BOE nº 236, de 2 de octubre).
 Santa Cruz de Tenerife, a 28 de agosto de 2017.- El Director General de Ordenación, 
 Innovación y Promoción Educativa, Jonathan Martín Fumero.
-boc-a-2017-169-4284
 
-
-Boletín Oficial de Canarias núm. 169
 https://sede.gobcan.es/cpji/boc
 Viernes 1 de septiembre de 2017
-25642
 A N E X O
 INSTRUCCIONES 
 1. Objeto.
@@ -138,13 +128,9 @@ representante podrá optar por presentar la solicitud por canal telemático o ca
 a) Por canal telemático. La persona física, titular del centro, o quien ostente su 
 representación, para la presentación del formulario vía telemática y tramitación, deberá 
 disponer de cualquiera de los sistemas de identificación y firma electrónica admitidos en la 
-boc-a-2017-169-4284
 
-
-Boletín Oficial de Canarias núm. 169
 https://sede.gobcan.es/cpji/boc
 Viernes 1 de septiembre de 2017
-25643
 sede electrónica, definidos en la dirección https://sede.gobcan.es/educacionyuniversidades/
 la_sede/sistemas_firma/
 b) Por canal presencial. Una vez cumplimentado el formulario, indicado en el apartado 1 de 
@@ -167,5 +153,3 @@ complementarias y remisión de información sobre actividades extraescolares y s
 escolares se realizarán en el plazo establecido en la referida Orden de 20 de junio de 2007 
 que regula las actividades escolares complementarias, actividades extraescolares y servicios 
 escolares en los Centros Privados Concertados de Canarias.
-boc-a-2017-169-4284
-

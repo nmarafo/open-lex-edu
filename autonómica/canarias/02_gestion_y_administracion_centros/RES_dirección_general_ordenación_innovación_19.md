@@ -31,10 +31,7 @@ fuente_pdf_oficial: https://sede.gobiernodecanarias.org/boc/boc-a-2018-220-5209.
 
 # Resolución de 2 de noviembre de 2018, de la Dirección General de Ordenación, Innovación y Promoción Educativa, por la que se dictan instrucciones para la tramitación electrónica del procedimiento por el que se regula la justificación correspondiente a la financiación de otros gastos, en los centros privados concertados de Canarias (BOC n.º 220, de 14 de noviembre).
 
-Boletín Oficial de Canarias núm. 220
-https://sede.gobcan.es/boc
 Miércoles 14 de noviembre de 2018
-38004
 III. Otras Resoluciones
 Consejería de Educación y Universidades
 5209 Dirección General de Ordenación, Innovación y Promoción Educativa.- Resolución 
@@ -73,13 +70,8 @@ Consejerías del Gobierno de Canarias (BOC nº 142, de 23.7.15); y el Decreto 20
 4 de agosto, por el que se procede al nombramiento del Director General de Ordenación, 
 Innovación y Promoción Educativa (BOC nº 151, de 7.8.17).
 Página 
-boc-a-2018-220-5209
 
-
-Boletín Oficial de Canarias núm. 220
-https://sede.gobcan.es/boc
 Miércoles 14 de noviembre de 2018
-38005
 R E S U E L V O:
 Primero.- Dictar instrucciones sobre el procedimiento por el que se regula la justificación 
 correspondiente a la financiación de otros gastos, en los centros privados concertados de 
@@ -93,13 +85,8 @@ siguiente al de su publicación, de acuerdo con lo dispuesto en los artículos 1
 Públicas (BOE nº 236, de 2 de octubre).
 Santa Cruz de Tenerife, a 2 de noviembre de 2018.- El Director General de Ordenación, 
 Innovación y Promoción Educativa, Jonathan Martín Fumero.
-boc-a-2018-220-5209
 
-
-Boletín Oficial de Canarias núm. 220
-https://sede.gobcan.es/boc
 Miércoles 14 de noviembre de 2018
-38006
 A N E X O
 INSTRUCCIONES 
 1.- Objeto.
@@ -135,13 +122,8 @@ representación, para la presentación del formulario vía telemática y tramita
 disponer de cualquiera de los sistemas de identificación y firma electrónica admitidos en la 
 sede electrónica, definidos en la dirección https://sede.gobcan.es/educacionyuniversidades/
 la_sede/sistemas_firma/
-boc-a-2018-220-5209
 
-
-Boletín Oficial de Canarias núm. 220
-https://sede.gobcan.es/boc
 Miércoles 14 de noviembre de 2018
-38007
 b) Por canal presencial. Una vez cumplimentado el formulario, indicado en el apartado 1 de 
 esta instrucción 4ª, se deberá imprimir y firmar manualmente, para su posterior presentación 
 ante el órgano instructor del expediente o en las Direcciones Insulares y Territoriales de 
@@ -162,5 +144,3 @@ Las solicitudes de justificación de otros gastos se realizarán en el plazo est
 la referida Orden de 31 de diciembre de 1990, por la que se regula el procedimiento de 
 justificación de las cantidades que, por el concepto de “Otros Gastos”, perciben los centros 
 concertados de Canarias.
-boc-a-2018-220-5209
-

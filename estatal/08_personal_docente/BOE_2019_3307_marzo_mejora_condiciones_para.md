@@ -36,16 +36,13 @@ fundamentos_derecho:
 
 # Ley 4/2019, de 7 de marzo, de mejora de las condiciones para el desempeño de la docencia y la enseñanza en el ámbito de la educación no universitaria.
 
-
 **FELIPE VI**
-
 
 **REY DE ESPAÑA**
 
 A todos los que la presente vieren y entendieren.
 
 Sabed: Que las Cortes Generales han aprobado y Yo vengo en sancionar la siguiente ley.
-
 
 ## PREÁMBULO
 
@@ -71,18 +68,15 @@ La presente Ley se adecua a los principios de buena regulación establecidos en 
 
 En cuanto al principio de proporcionalidad, la presente regulación guarda el necesario equilibrio que permite proporcionar a las Administraciones Educativas las medidas adecuadas para la eficacia organizativa de los centros docentes, redundando ello en la mejora de la calidad de la enseñanza y en la atención al alumnado.
 
-
 #### Artículo único. Medidas de mejora de la docencia.
 
 1. Las Administraciones Educativas proveerán los recursos necesarios para garantizar que no se supere el número máximo de alumnos por aula en la educación primaria y en la educación secundaria obligatoria establecido en el artículo 157.1.a) de la Ley Orgánica 2/2006, de 3 de mayo, de Educación, y el fijado mediante norma reglamentaria para las restantes enseñanzas reguladas por la citada Ley Orgánica.
 
 2. Las Administraciones Públicas con competencias educativas podrán establecer, en su respectivo ámbito, la parte lectiva de la jornada semanal del personal docente que imparte enseñanzas reguladas en la Ley Orgánica 2/2006, de 3 de mayo, de Educación, en centros públicos, recomendándose con carácter ordinario un máximo de veintitrés horas en los centros de Educación Infantil, Primaria y Especial y un máximo de dieciocho horas en los centros que impartan el resto de enseñanzas de régimen general reguladas por dicha Ley Orgánica.
 
-
 #### Disposición derogatoria única. Derogación normativa.
 
 Quedan derogados los artículos 2, 3, y 4 del Real Decreto-ley 14/2012, de 20 de abril, de medidas urgentes de racionalización del gasto público en el ámbito educativo.
-
 
 #### Disposición final primera. Aplicación.
 
@@ -90,15 +84,11 @@ Quedan derogados los artículos 2, 3, y 4 del Real Decreto-ley 14/2012, de 20 de
 
 2. Con la finalidad de hacer efectivas las previsiones contenidas en esta Ley por parte de las Administraciones Educativas, la Administración General del Estado establecerá un marco de financiación adecuado y suficiente.
 
-
 #### Disposición final segunda. Título competencial.
 
 La presente Ley se dicta con carácter básico al amparo de las competencias que corresponden al Estado conforme al artículo 149.1 de la Constitución: 18.ª, sobre bases del régimen jurídico de las Administraciones Públicas y del régimen estatutario de los funcionarios que, en todo caso, garantizarán a los administrados un tratamiento común ante ellas; y 30.ª, relativa a las normas básicas para el desarrollo del artículo 27 de la Constitución a fin de garantizar el cumplimiento de las obligaciones de los poderes públicos en esta materia.
 
-
 #### Disposición final tercera. Entrada en vigor.
-
-La presente Ley entrará en vigor el día siguiente al de su publicación en el «Boletín Oficial del Estado».
 
 Por tanto,
 

@@ -32,16 +32,13 @@ fundamentos_derecho:
 
 # Ley Orgánica 5/2002, de 19 de junio, de las Cualificaciones y de la Formación Profesional.
 
-
 **JUAN CARLOS I**
-
 
 **REY DE ESPAÑA**
 
 A todos los que la presente vieren y entendieren.
 
 Sabed: Que las Cortes Generales han aprobado y Yo vengo en sancionar la siguiente Ley Orgánica.
-
 
 ## EXPOSICIÓN DE MOTIVOS
 
@@ -73,7 +70,6 @@ Finalmente con esta Ley, que no deroga el actual marco legal de la formación pr
 
 TÍTULO PRELIMINAR
 
-
 #### Artículo 1. Finalidad de la Ley.
 
 1. La presente Ley tiene por objeto la ordenación de un sistema integral de formación profesional, cualificaciones y acreditación, que responda con eficacia y transparencia a las demandas sociales y económicas a través de las diversas modalidades formativas.
@@ -81,7 +77,6 @@ TÍTULO PRELIMINAR
 2. La oferta de formación sostenida con fondos públicos favorecerá la formación a lo largo de toda la vida, acomodándose a las distintas expectativas y situaciones personales y profesionales.
 
 3. A dicha finalidad se orientarán las acciones formativas programadas y desarrolladas en el marco del Sistema Nacional de Cualificaciones y Formación Profesional, en coordinación con las políticas activas de empleo y de fomento de la libre circulación de los trabajadores.
-
 
 #### Artículo 2. Principios del Sistema Nacional de Cualificaciones y Formación Profesional.
 
@@ -103,7 +98,6 @@ e) La participación y cooperación de las diferentes Administraciones públicas
 
 f) La promoción del desarrollo económico y la adecuación a las diferentes necesidades territoriales del sistema productivo.
 
-
 #### Artículo 3. Fines del Sistema Nacional de Cualificaciones y Formación Profesional.
 
 El Sistema Nacional de Cualificaciones y Formación Profesional tiene los siguientes fines:
@@ -122,7 +116,6 @@ El Sistema Nacional de Cualificaciones y Formación Profesional tiene los siguie
 
 6. Favorecer la inversión pública y privada en la cualificación de los trabajadores y la optimización de los recursos dedicados a la formación profesional.
 
-
 #### Artículo 4. Instrumentos y acciones del Sistema Nacional de Cualificaciones y Formación Profesional.
 
 1. El Sistema Nacional de Cualificaciones y Formación Profesional está formado por los siguientes instrumentos y acciones:
@@ -139,7 +132,6 @@ d) La evaluación y mejora de la calidad del Sistema Nacional de Cualificaciones
 
 2. A través de los referidos instrumentos y acciones se promoverá la gestión coordinada de las distintas Administraciones públicas con competencias en la materia.
 
-
 #### Artículo 5. Regulación y coordinación del Sistema Nacional de Cualificaciones y Formación Profesional.
 
 1. Corresponde a la Administración General del Estado la regulación y la coordinación del Sistema Nacional de Cualificaciones y Formación Profesional, sin perjuicio de las competencias que corresponden a las Comunidades Autónomas y de la participación de los agentes sociales.
@@ -147,7 +139,6 @@ d) La evaluación y mejora de la calidad del Sistema Nacional de Cualificaciones
 2. El Consejo General de Formación Profesional, creado por la Ley 1/1986, de 7 de enero, modificada por las Leyes 19/1997, de 9 de junio, y 14/2000, de 29 de diciembre, es el órgano consultivo y de participación institucional de las Administraciones públicas y los agentes sociales, y de asesoramiento del Gobierno en materia de formación profesional, sin perjuicio de las competencias que el Consejo Escolar del Estado tiene atribuidas, según los artículos 30 y 32 de la Ley Orgánica 8/1985, de 3 de julio, reguladora del Derecho a la Educación.
 
 3. El Instituto Nacional de las Cualificaciones, creado por Real Decreto 375/1999, de 5 de marzo, es el órgano técnico de apoyo al Consejo General de la Formación Profesional responsable de definir, elaborar y mantener actualizado el Catálogo Nacional de Cualificaciones Profesionales y el correspondiente Catálogo Modular de Formación Profesional.
-
 
 #### Artículo 6. Colaboración de las empresas, de los agentes sociales y otras entidades.
 
@@ -159,12 +150,9 @@ d) La evaluación y mejora de la calidad del Sistema Nacional de Cualificaciones
 
 4. La formación favorecerá la realización de prácticas profesionales de los alumnos en empresas y otras entidades. Dichas prácticas no tendrán carácter laboral.
 
-
 ## TÍTULO I
 
-
 **De las cualificaciones profesionales**
-
 
 #### Artículo 7. Catálogo Nacional de Cualificaciones Profesionales.
 
@@ -178,7 +166,6 @@ a) Cualificación profesional: el conjunto de competencias profesionales con sig
 
 b) Competencia profesional: el conjunto de conocimientos y capacidades que permitan el ejercicio de la actividad profesional conforme a las exigencias de la producción y el empleo.
 
-
 #### Artículo 8. Reconocimiento, evaluación, acreditación y registro de las cualificaciones profesionales.
 
 1. Los títulos de formación profesional y los certificados de profesionalidad tienen carácter oficial y validez en todo el territorio nacional, son expedidos por las Administraciones competentes y tendrán los efectos que le correspondan con arreglo a la normativa de la Unión Europea relativa al sistema general de reconocimiento de la formación profesional en los Estados miembros de la Unión Europea y demás Estados signatarios del Acuerdo sobre el Espacio Económico Europeo. Dichos títulos y certificados acreditan las corres pondientes cualificaciones profesionales a quienes los hayan obtenido, y en su caso, surten los correspondientes efectos académicos según la legislación aplicable.
@@ -189,17 +176,13 @@ b) Competencia profesional: el conjunto de conocimientos y capacidades que permi
 
 4. El Gobierno, previa consulta al Consejo General de la Formación Profesional, fijará los requisitos y procedimientos para la evaluación y acreditación de las competencias, así como los efectos de las mismas.
 
-
 ## TÍTULO II
 
-
 **De la formación profesional**
-
 
 #### Artículo 9. La formación profesional.
 
 La formación profesional comprende el conjunto de acciones formativas que capacitan para el desempeño cualificado de las diversas profesiones, el acceso al empleo y la participación activa en la vida social, cultural y económica. Incluye las enseñanzas propias de la formación profesional inicial, las acciones de inserción y reinserción laboral de los trabajadores, así como las orientadas a la formación continua en las empresas, que permitan la adquisición y actualización permanente de las competencias profesionales.
-
 
 #### Artículo 10. Las ofertas de formación profesional.
 
@@ -216,7 +199,6 @@ La formación profesional comprende el conjunto de acciones formativas que capac
 6. Las instituciones y entidades que desarrollen ofertas formativas sostenidas con fondos públicos están obligados a facilitar a las Administraciones competentes toda la información que sea requerida para el seguimiento, fines estadísticos y evaluación de las actuaciones desarrolladas. Asimismo, serán de aplicación los procedimientos, métodos y obligaciones específicas que se derivan de la legislación presupuestaria, de la normativa y financiación europea y del desarrollo de planes o programas de ámbito nacional y europeo.
 
 7. En el acceso a las diferentes ofertas formativas se tendrán en cuenta las acreditaciones previstas en el artículo 8 de esta Ley.
-
 
 #### Artículo 11. Centros de Formación Profesional.
 
@@ -238,7 +220,6 @@ Las Administraciones, en el ámbito de sus competencias podrán crear y autoriza
 
 La programación y ejecución de las correspondientes actuaciones de carácter innovador, experimental y formativo se llevará a cabo, en el marco de lo establecido en esta Ley, mediante convenios de colaboración entre la Administración del Estado y las Comunidades Autónomas, ateniéndose en todo caso al ámbito de sus respectivas competencias.
 
-
 #### Artículo 12. Oferta formativa a grupos con especiales dificultades de integración laboral.
 
 1. Con la finalidad de facilitar la integración social y la inclusión de los individuos o grupos desfavorecidos en el mercado de trabajo, las Administraciones públicas, especialmente la Administración Local, en el ámbito de sus respectivas competencias, adaptarán las ofertas formativas a las necesidades específicas de los jóvenes con fracaso escolar, discapacitados, minorías étnicas, parados de larga duración y, en general, personas con riesgo de exclusión social.
@@ -247,19 +228,15 @@ La programación y ejecución de las correspondientes actuaciones de carácter i
 
 podrán incorporar módulos apropiados para la adaptación a las necesidades específicas del colectivo beneficiario.
 
-
 #### Artículo 13. Ofertas formativas no vinculadas al Catálogo Modular de Formación Profesional.
 
 1. Con la finalidad de satisfacer y adecuarse al máximo a las necesidades específicas de formación y cualificación, la oferta formativa sostenida con fondos públicos tendrá la mayor amplitud y a tal efecto incluirá acciones no asociadas al Catálogo Nacional de Cualificaciones Profesionales.
 
 2. Las competencias profesionales ofertadas y adquiridas mediante las acciones formativas indicadas en el apartado anterior, podrán ser acreditadas cuando sean incorporadas al Catálogo de Cualificaciones, de acuerdo con lo previsto en el artículo 8 de la presente Ley.
 
-
 ## TÍTULO III
 
-
 **Información y orientación profesional**
-
 
 #### Artículo 14. Finalidad.
 
@@ -269,7 +246,6 @@ En el marco del Sistema Nacional de Cualificaciones y Formación Profesional la 
 
 2. Informar y asesorar sobre las diversas ofertas de formación y los posibles itinerarios formativos para facilitar la inserción y reinserción laborales, así como la movilidad profesional en el mercado de trabajo.
 
-
 #### Artículo 15. Organización de la información y orientación profesional.
 
 1. En la información y orientación profesional podrán participar, entre otros, los servicios de las Administraciones educativas y laborales, de la Administración local y de los agentes sociales, correspondiendo a la Administración General del Estado desarrollar fórmulas de cooperación y coordinación entre todos los entes implicados.
@@ -278,17 +254,13 @@ En el marco del Sistema Nacional de Cualificaciones y Formación Profesional la 
 
 Asimismo, corresponde a las Administraciones públicas poner a disposición de los interlocutores sociales información sobre el sistema que pueda servir de referente orientativo en la negociación colectiva, sin perjuicio de la autonomía de las partes en la misma.
 
-
 ## TÍTULO IV
 
-
 **Calidad y evaluación del Sistema Nacional de Cualificaciones y Formación Profesional**
-
 
 #### Artículo 16. Finalidad.
 
 La evaluación del Sistema Nacional de Cualificaciones y Formación Profesional tendrá la finalidad básica de garantizar la eficacia de las acciones incluidas en el mismo y su adecuación permanente a las necesidades del mercado de trabajo.
-
 
 #### Artículo 17. Establecimiento y coordinación.
 
@@ -296,28 +268,23 @@ La evaluación del Sistema Nacional de Cualificaciones y Formación Profesional 
 
 2. Las Administraciones públicas garantizarán, en sus respectivos ámbitos, la calidad de las ofertas formativas y cooperarán en la definición y desarrollo de los procesos de evaluación del Sistema Nacional de Cualificaciones y Formación Profesional, de conformidad con lo que se establezca reglamentariamente, debiendo proporcionar los datos requeridos para la correspondiente evaluación de carácter nacional.
 
-
 #### Disposición adicional primera. Habilitación del profesorado de formación profesional.
 
 1. Los funcionarios de los Cuerpos de Profesores de Enseñanza Secundaria y de Profesores Técnicos de Formación Profesional, sin perjuicio de seguir desempeñando sus funciones en la formación profesional específica, de acuerdo con lo establecido en la disposición adicional décima, apartado 1, de la Ley Orgánica 1/1990, de 3 de octubre, de Ordenación General del Sistema Educativo, y de conformidad con lo que establezcan las normas básicas que determinan la atribución de la competencia docente a los profesores de dichos Cuerpos, podrán desempeñar funciones en los demás ámbitos de la formación profesional regulada en esta Ley, de conformidad con su perfil académico y profesional y con lo que al efecto determinen las Administraciones competentes.
 
 2. A los efectos previstos en el artículo 3 de la Ley 53/1984, de 26 de diciembre, de Incompatibilidades del Personal Laboral al Servicio de las Administraciones Públicas, la impartición de la formación, en sus distintos ámbitos, tendrá la consideración de interés público.
 
-
 #### Disposición adicional segunda. Habilitación de profesionales cualificados.
 
 De acuerdo con las necesidades derivadas de la planificación de la oferta formativa, la formación profesional regulada en esta Ley podrá ser impartida por profesionales cualificados, cuando no exista profesorado cuyo perfil se corresponda con la formación asociada a las cualificaciones profesionales, en las condiciones y régimen que determinen las correspondientes Administraciones competentes.
-
 
 #### Disposición adicional tercera. Áreas prioritarias en las ofertas formativas.
 
 Son áreas prioritarias que se incorporarán a las ofertas formativas financiadas con cargo a recursos públicos las relativas a tecnologías de la información y la comunicación, idiomas de los países de la Unión Europea, trabajo en equipo, prevención de riesgos laborales así como aquéllas que se contemplen dentro de las directrices marcadas por la Unión Europea.
 
-
 #### Disposición adicional cuarta. Equivalencias.
 
 El Gobierno, previa consulta al Consejo General de la Formación Profesional, fijará las equivalencias, convalidaciones, correspondencias, y los efectos de ellas, entre los títulos de formación profesional y los certificados de profesionalidad establecidos y los que se creen conforme a lo previsto en la presente Ley.
-
 
 #### Disposición final primera. Título competencial.
 
@@ -339,20 +306,15 @@ Las disposiciones adicionales primera y segunda.
 
 4. Al amparo de lo establecido en el artículo 149.1.1.a, 7.a y 30.a de la Constitución, es competencia exclusiva del Estado el desarrollo de la disposición adicional cuarta.
 
-
 #### Disposición final segunda. Carácter de Ley Orgánica de la presente Ley.
 
 La presente Ley tiene el carácter de Ley Orgánica, a excepción de los siguientes preceptos: los apartados 2 y 3 del artículo 1 ; el apartado 1 y los párrafos c) y d) del apartado 3 del artículo 2 ; el apartado 2 del artículo 4 ; los artículos 5, 6, 9, 13, 14, 15, 16 y 17; las disposiciones adicionales primera, segunda, tercera y cuarta y las disposiciones finales primera, tercera y cuarta.
-
 
 #### Disposición final tercera. Habilitación para el desarrollo normativo.
 
 Se habilita al Gobierno a fin de que dicte, previa consulta al Consejo General de Formación Profesional, la normativa precisa para el desarrollo de la presente Ley en el ámbito de sus competencias.
 
-
 #### Disposición final cuarta. Entrada en vigor.
-
-La presente Ley Orgánica entrará en vigor el día siguiente al de su publicación en el "Boletín Oficial del Estado".
 
 Por tanto, Mando a todos los españoles, particulares y autoridades, que guarden y hagan guardar esta Ley Orgánica.
 

@@ -31,9 +31,6 @@ fuente_pdf_oficial: https://sede.gobiernodecanarias.org/boc/boc-a-2025-246-4231.
 
 # Resolución de 2 de diciembre de 2025, de la Dirección General de Personal y Formación del Profesorado, por la que se convoca procedimiento para la selección de directores y directoras de los centros públicos de enseñanzas no universitarias de la Comunidad Autónoma de Canarias para el periodo de mandato 2026-2030 (BOC n.º 246, de 12 de diciembre).
 
-https://sede.gobiernodecanarias.org/boc
-boc-a-2025-246-4231
-Boletín Oficial de Canarias núm. 246 Viernes 12 de diciembre de 202552037
 II. Autoridades y personal
 Oposiciones y concursos
 Consejería de Educación, Formación Profesional, Actividad Física y Deportes
@@ -73,9 +70,6 @@ efectos, estableciendo que la selección se llevará a cabo mediante convocatori
 establezcan los criterios objetivos, el procedimiento de valoración del proyecto presentado 
 y los méritos de los candidatos y candidatas, entre los que incluirá la superación de un 
 
-https://sede.gobiernodecanarias.org/boc
-boc-a-2025-246-4231
-Boletín Oficial de Canarias núm. 246 Viernes 12 de diciembre de 202552038
 programa de formación sobre el desarrollo de la función directiva, efectuándose la selección 
 por una Comisión compuesta por un tercio de los miembros de entre el profesorado elegido 
 por el claustro y otro tercio elegido por y entre los miembros del Consejo Escolar que no 
@@ -119,9 +113,6 @@ Canarias, para el periodo de mandato 2026-2030, de acuerdo con los principios de
 mérito y capacidad, de conformidad con el procedimiento regulado contenido en el Anexo I 
 y el baremo de méritos establecido en el Anexo II.
 
-https://sede.gobiernodecanarias.org/boc
-boc-a-2025-246-4231
-Boletín Oficial de Canarias núm. 246 Viernes 12 de diciembre de 202552039
 Segundo.- Aprobar las vacantes definitivas que se ofertan en este procedimiento 
 selectivo, incluidas en el Anexo III de esta Resolución.
 Tercero.- Ordenar la publicación de esta Resolución en el Boletín Oficial de Canarias, 
@@ -139,9 +130,6 @@ resuelva expresamente el de reposición o se produzca su desestimación presunta
 Las Palmas de Gran Canaria, a 2 de diciembre de 2025.- La Directora General de 
 Personal y Formación del Profesorado, Mónica Ramírez Barbosa.
 
-https://sede.gobiernodecanarias.org/boc
-boc-a-2025-246-4231
-Boletín Oficial de Canarias núm. 246 Viernes 12 de diciembre de 202552040
 ANEXO I
 DESARROLLO DEL PROCEDIMIENTO PARA LA SELECCIÓN DE DIRECTORES Y 
 DIRECTORAS DE LOS CENTROS PÚBLICOS DE ENSEÑANZAS NO UNIVERSITARIAS 
@@ -167,9 +155,6 @@ DE LA COMUNIDAD AUTÓNOMA DE CANARIAS PARA EL PERIODO DE MANDATO
 4.1. Composición.
 4.2. Incompatibilidades, abstención y recusación.
 
-https://sede.gobiernodecanarias.org/boc
-boc-a-2025-246-4231
-Boletín Oficial de Canarias núm. 246 Viernes 12 de diciembre de 202552041
 4.3. Designación de sus miembros.
 4.4. Constitución y normas de actuación.
 4.5. Funciones.
@@ -194,9 +179,6 @@ centro docente.
 11. Comisión de servicios.
 12. Equipo directivo: propuesta de cargos directivos, nombramientos y ceses.
 
-https://sede.gobiernodecanarias.org/boc
-boc-a-2025-246-4231
-Boletín Oficial de Canarias núm. 246 Viernes 12 de diciembre de 202552042
 1.- Requisitos de los participantes.
 1.1. Requisitos generales.
 Podrá participar en esta convocatoria el personal funcionario de carrera de los cuerpos 
@@ -235,9 +217,6 @@ Directora. A tal fin, el Servicio de Perfeccionamiento de esta Dirección Genera
 convocatoria de formación para que quienes resulten seleccionados dispongan de la misma 
 con anterioridad a que se produzca el nombramiento.
 
-https://sede.gobiernodecanarias.org/boc
-boc-a-2025-246-4231
-Boletín Oficial de Canarias núm. 246 Viernes 12 de diciembre de 202552043
 1.2. Especificidades para determinados centros docentes.
 Las personas candidatas que aspiren a la dirección de los centros que se relacionan a 
 continuación, podrán presentarse a este procedimiento selectivo cumpliendo únicamente 
@@ -279,9 +258,6 @@ escolar en que se comience el desempeño de las funciones. En caso contrario, el
 o candidata será declarado excluido mediante resolución motivada dictada por la Dirección 
 Territorial correspondiente.
 
-https://sede.gobiernodecanarias.org/boc
-boc-a-2025-246-4231
-Boletín Oficial de Canarias núm. 246 Viernes 12 de diciembre de 202552044
 2.- Solicitud de participación, proyecto de dirección y méritos.
 2.1. Solicitud de participación.
 Quienes deseen participar en este procedimiento deberán relacionar en una única 
@@ -318,9 +294,6 @@ prevención de la violencia de género.
 Opcionalmente, en el proyecto de dirección se podrá incorporar la propuesta de los 
 miembros del posible equipo directivo.
 
-https://sede.gobiernodecanarias.org/boc
-boc-a-2025-246-4231
-Boletín Oficial de Canarias núm. 246 Viernes 12 de diciembre de 202552045
 b) Aspectos formales.
 La extensión de este proyecto será de un mínimo de 10 y máximo de 30 páginas, 
 formato DIN A-4, tamaño de letra 11 puntos, quedando a elección los demás parámetros. 
@@ -361,9 +334,6 @@ Todos los méritos alegados por los concursantes, que se harán responsables de
 la veracidad de los mismos, han de ostentarse en la fecha de finalización del plazo de 
 presentación de solicitudes.
 
-https://sede.gobiernodecanarias.org/boc
-boc-a-2025-246-4231
-Boletín Oficial de Canarias núm. 246 Viernes 12 de diciembre de 202552046
 2.3.2. Otras reglas para la acreditación de los méritos.
 a) Respecto a los méritos contenidos en los apartados 3 y 4 del baremo, excepto aquellos 
 que figuran en su porfolio y aquellos otros sobre los que se tenga información en esta 
@@ -401,9 +371,6 @@ al de su publicación, para la presentación de reclamaciones y la subsanación 
 detectados en la solicitud ante dichos órganos, declarándose el desistimiento y exclusión 
 del procedimiento de no hacerlo.
 
-https://sede.gobiernodecanarias.org/boc
-boc-a-2025-246-4231
-Boletín Oficial de Canarias núm. 246 Viernes 12 de diciembre de 202552047
 3.2. Relación definitiva de personas admitidas y excluidas.
 Finalizado el plazo de reclamaciones y subsanación, se dictará Resolución por la 
 Dirección Territorial correspondiente, que se publicará en la página web de la Consejería 
@@ -441,9 +408,6 @@ correspondiente, que resolverá lo que proceda, pudiendo, del mismo modo, promov
 recusación por los interesados, de conformidad con lo previsto en el artículo 24 de la citada 
 Ley, que será resuelta por la Dirección General de Personal y Formación del Profesorado.
 
-https://sede.gobiernodecanarias.org/boc
-boc-a-2025-246-4231
-Boletín Oficial de Canarias núm. 246 Viernes 12 de diciembre de 202552048
 4.3. Designación de sus miembros.
 Tras la publicación de la relación provisional de personas admitidas, las Direcciones 
 Territoriales solicitarán a la Inspección Educativa que proponga a los presidentes y 
@@ -486,9 +450,6 @@ Todos los miembros de la Comisión de Selección se identificarán ante el presi
 o presidenta mediante documento acreditativo de su identidad, acordándose en la misma 
 todas las decisiones que correspondan en orden al correcto desarrollo de este procedimiento.
 
-https://sede.gobiernodecanarias.org/boc
-boc-a-2025-246-4231
-Boletín Oficial de Canarias núm. 246 Viernes 12 de diciembre de 202552049
 Excepto en caso de fuerza mayor debidamente justificado, a la sesión de constitución 
 de cada Comisión de Selección deberán asistir todos sus miembros titulares y los suplentes 
 expresamente citados por el presidente. En todo caso, para la válida constitución y actuación 
@@ -527,9 +488,6 @@ Para llevar a cabo esta baremación se atenderá al baremo publicado como Anexo 
 de esta Resolución y se tendrá en cuenta tanto la documentación que obre en esta 
 Administración educativa como la aportada por las personas candidatas.
 
-https://sede.gobiernodecanarias.org/boc
-boc-a-2025-246-4231
-Boletín Oficial de Canarias núm. 246 Viernes 12 de diciembre de 202552050
 Serán funciones de la Comisión Técnica:
 a) Baremar los méritos presentados por los candidatos y candidatas.
 b) Elevar a la Comisión de Selección la puntuación provisional de los méritos, expresada 
@@ -565,9 +523,6 @@ educativo: características del centro y de las enseñanzas que imparte, caracte
 alumnado, atención a la diversidad, entorno social, económico y cultural, relaciones del 
 centro con la comunidad educativa y otras instituciones. Valoración: hasta 3,00 puntos.
 
-https://sede.gobiernodecanarias.org/boc
-boc-a-2025-246-4231
-Boletín Oficial de Canarias núm. 246 Viernes 12 de diciembre de 202552051
 - Organización y gestión interna del centro: organización del equipo directivo, distribución 
 de funciones y tareas, coordinación y formas de participación de los órganos de coordinación 
 docente, relaciones con los órganos de participación en el control, gestión y clima de convivencia 
@@ -609,9 +564,6 @@ cuatro o más enteros entre las puntuaciones otorgadas por los miembros de la Co
 Selección, será automáticamente excluida la calificación máxima y la mínima hallándose 
 la puntuación media entre las calificaciones restantes.
 
-https://sede.gobiernodecanarias.org/boc
-boc-a-2025-246-4231
-Boletín Oficial de Canarias núm. 246 Viernes 12 de diciembre de 202552052
 Si calificados los proyectos de dirección solo uno de ellos resultase aprobado, valorado 
 como mínimo con cinco puntos, se propondrá su selección, sin necesidad de proceder a 
 la baremación de los méritos. Si más de un proyecto de dirección obtiene la calificación 
@@ -650,9 +602,6 @@ calificación del proyecto de dirección y puntuación del baremo de méritos de
 apartados y subapartados. Las personas participantes serán ordenadas de acuerdo con la 
 puntuación final asignada.
 
-https://sede.gobiernodecanarias.org/boc
-boc-a-2025-246-4231
-Boletín Oficial de Canarias núm. 246 Viernes 12 de diciembre de 202552053
 Asimismo, las correspondientes Comisiones de Selección de cada centro pondrán 
 a disposición de la comunidad educativa, así como al resto de candidatos o candidatas 
 participantes, exclusivamente en el ámbito de su respectivo centro, los proyectos de 
@@ -693,9 +642,6 @@ como directores y directoras de los centros públicos de enseñanza no universit
 Comunidad Autónoma de Canarias, para ser nombrados por un periodo de cuatro años, 
 contados desde el 1 de julio de 2026 hasta el 30 de junio de 2030.
 
-https://sede.gobiernodecanarias.org/boc
-boc-a-2025-246-4231
-Boletín Oficial de Canarias núm. 246 Viernes 12 de diciembre de 202552054
 Los nombramientos, que serán efectuados mediante Resolución de la Dirección 
 Territorial de Educación correspondiente que se publicarán en la página web de la 
 Consejería de Educación, Formación Profesional, Actividad Física y Deportes, quedarán 
@@ -724,9 +670,6 @@ previstos en el artículo 21 del Decreto 106/2009, de 28 de julio, por el que se
 función directiva en los centros docentes públicos no universitarios dependientes de la 
 Comunidad Autónoma de Canarias.
 
-boc-a-2025-246-4231
-Boletín Oficial de Canarias núm. 246 Viernes 12 de diciembre de 202552055
-https://sede.gobiernodecanarias.org/boc
 ANEXO II
 BAREMO DE CONCURSO DE MÉRITOS PARA LA SELECCIÓN DE DIRECTORES Y 
 DIRECTORAS DE CENTROS DOCENTES PÚBLICOS 2026-2030
@@ -818,9 +761,6 @@ ANEXO II
 BAREMO DE CONCURSO DE MÉRITOS PARA LA SELECCIÓN DE DIRECTORES Y 
 DIRECTORAS DE CENTROS DOCENTES PÚBLICOS 2026-2030
 
-boc-a-2025-246-4231
-Boletín Oficial de Canarias núm. 246 Viernes 12 de diciembre de 202552056
-https://sede.gobiernodecanarias.org/boc
 MÉRITOS VALORACIÓN JUSTIFICACIÓN
 2.TRAYECTORIA PROFESIONAL
 (Ver disposiciones complementarias)
@@ -891,9 +831,6 @@ puede ser comprobada la autenticidad de esta copia, mediante el número de
 documento electrónico siguiente:
  0XkxIvegpLKVYdx8fN7Y2zfOdFJpgny4X
 
-boc-a-2025-246-4231
-Boletín Oficial de Canarias núm. 246 Viernes 12 de diciembre de 202552057
-https://sede.gobiernodecanarias.org/boc
 MÉRITOS VALORACIÓN JUSTIFICACIÓN
 2.5. Por cada año de desempeño de  
 servicios  efectivos  en  la  función  
@@ -950,9 +887,6 @@ puede ser comprobada la autenticidad de esta copia, mediante el número de
 documento electrónico siguiente:
  0XkxIvegpLKVYdx8fN7Y2zfOdFJpgny4X
 
-boc-a-2025-246-4231
-Boletín Oficial de Canarias núm. 246 Viernes 12 de diciembre de 202552058
-https://sede.gobiernodecanarias.org/boc
 MÉRITOS VALORACIÓN JUSTIFICACIÓN
 2.7. Por cada año como Jefatura de  
 Seminario, Departamento o División  
@@ -1028,9 +962,6 @@ puede ser comprobada la autenticidad de esta copia, mediante el número de
 documento electrónico siguiente:
  0XkxIvegpLKVYdx8fN7Y2zfOdFJpgny4X
 
-boc-a-2025-246-4231
-Boletín Oficial de Canarias núm. 246 Viernes 12 de diciembre de 202552059
-https://sede.gobiernodecanarias.org/boc
 MÉRITOS VALORACIÓN JUSTIFICACIÓN
 3.1.1. Por haber obtenido el título de  
 Doctor:
@@ -1083,9 +1014,6 @@ puede ser comprobada la autenticidad de esta copia, mediante el número de
 documento electrónico siguiente:
  0XkxIvegpLKVYdx8fN7Y2zfOdFJpgny4X
 
-boc-a-2025-246-4231
-Boletín Oficial de Canarias núm. 246 Viernes 12 de diciembre de 202552060
-https://sede.gobiernodecanarias.org/boc
 MÉRITOS VALORACIÓN JUSTIFICACIÓN
 3.2.2. Titulaciones de primer ciclo.
 Por  la  segunda  y  restantes  
@@ -1145,9 +1073,6 @@ puede ser comprobada la autenticidad de esta copia, mediante el número de
 documento electrónico siguiente:
  0XkxIvegpLKVYdx8fN7Y2zfOdFJpgny4X
 
-boc-a-2025-246-4231
-Boletín Oficial de Canarias núm. 246 Viernes 12 de diciembre de 202552061
-https://sede.gobiernodecanarias.org/boc
 MÉRITOS VALORACIÓN JUSTIFICACIÓN
 3.2.4. Por el título universitario oficial  
 de Máster distinto del requerido para  
@@ -1210,9 +1135,6 @@ puede ser comprobada la autenticidad de esta copia, mediante el número de
 documento electrónico siguiente:
  0XkxIvegpLKVYdx8fN7Y2zfOdFJpgny4X
 
-boc-a-2025-246-4231
-Boletín Oficial de Canarias núm. 246 Viernes 12 de diciembre de 202552062
-https://sede.gobiernodecanarias.org/boc
 MÉRITOS VALORACIÓN JUSTIFICACIÓN
 e)  Por  cada  título  de  Técnico  
 Superior de Artes Plásticas y Diseño, 
@@ -1265,9 +1187,6 @@ puede ser comprobada la autenticidad de esta copia, mediante el número de
 documento electrónico siguiente:
  0XkxIvegpLKVYdx8fN7Y2zfOdFJpgny4X
 
-boc-a-2025-246-4231
-Boletín Oficial de Canarias núm. 246 Viernes 12 de diciembre de 202552063
-https://sede.gobiernodecanarias.org/boc
 MÉRITOS VALORACIÓN JUSTIFICACIÓN
 Por  actividades  certificadas  que  
 tengan  por  objeto  el  
@@ -1363,9 +1282,6 @@ puede ser comprobada la autenticidad de esta copia, mediante el número de
 documento electrónico siguiente:
  0XkxIvegpLKVYdx8fN7Y2zfOdFJpgny4X
 
-boc-a-2025-246-4231
-Boletín Oficial de Canarias núm. 246 Viernes 12 de diciembre de 202552064
-https://sede.gobiernodecanarias.org/boc
 MÉRITOS VALORACIÓN JUSTIFICACIÓN
 liderazgo:
 Para  la  valoración  de  estas  
@@ -1441,9 +1357,6 @@ puede ser comprobada la autenticidad de esta copia, mediante el número de
 documento electrónico siguiente:
  0XkxIvegpLKVYdx8fN7Y2zfOdFJpgny4X
 
-boc-a-2025-246-4231
-Boletín Oficial de Canarias núm. 246 Viernes 12 de diciembre de 202552065
-https://sede.gobiernodecanarias.org/boc
 MÉRITOS VALORACIÓN JUSTIFICACIÓN
 por  Administraciones  Públicas  y  
 Universidades (públicas-privadas), que 
@@ -1500,9 +1413,6 @@ puede ser comprobada la autenticidad de esta copia, mediante el número de
 documento electrónico siguiente:
  0XkxIvegpLKVYdx8fN7Y2zfOdFJpgny4X
 
-boc-a-2025-246-4231
-Boletín Oficial de Canarias núm. 246 Viernes 12 de diciembre de 202552066
-https://sede.gobiernodecanarias.org/boc
 MÉRITOS VALORACIÓN JUSTIFICACIÓN
 Apertura de la actividad del centro al  
 entorno social, cultural y económico  
@@ -1546,9 +1456,6 @@ puede ser comprobada la autenticidad de esta copia, mediante el número de
 documento electrónico siguiente:
  0XkxIvegpLKVYdx8fN7Y2zfOdFJpgny4X
 
-https://sede.gobiernodecanarias.org/boc
-boc-a-2025-246-4231
-Boletín Oficial de Canarias núm. 246 Viernes 12 de diciembre de 202552067
 DISPOSICIONES COMPLEMENTARIAS.
 Primera.- Disposiciones referidas a los apartados 1 “Experiencia en cargos directivos” 
 y 2 “Trayectoria profesional”:
@@ -1582,9 +1489,6 @@ en Comunidades Autónomas.
 e) Por el apartado 2.2 se valorará con 0,30 puntos la pertenencia a cualquiera de los 
 cuerpos de Catedráticos por una sola vez.
 
-https://sede.gobiernodecanarias.org/boc
-boc-a-2025-246-4231
-Boletín Oficial de Canarias núm. 246 Viernes 12 de diciembre de 202552068
 f) Por el apartado 2.5 se valorarán los años de servicio en centros directivos de la 
 Administración educativa, siempre que hayan sido desempeñados tanto en plazas de RPT 
 como en comisión de servicios en el ámbito de la Consejería de Educación, Formación 
@@ -1620,9 +1524,6 @@ lo cual el valor posible es 0 o 0,10 puntos.
 d) Por el subapartado 3.2.1 únicamente se tendrá en cuenta una titulación de Grado; el 
 valor posible es 0 o 0,50 puntos.
 
-https://sede.gobiernodecanarias.org/boc
-boc-a-2025-246-4231
-Boletín Oficial de Canarias núm. 246 Viernes 12 de diciembre de 202552069
 e) Subapartado 3.2.2 “titulaciones de primer ciclo” y 3.2.3 “Titulaciones de segundo 
 ciclo”:
 - Para determinar si las titulaciones universitarias se corresponden con títulos integrados 
@@ -1664,9 +1565,6 @@ sido homologados o reconocidos por las Administraciones citadas.
 la correspondiente certificación consta el sello de la Universidad y la firma de autoridad 
 académica competente de la misma.
 
-https://sede.gobiernodecanarias.org/boc
-boc-a-2025-246-4231
-Boletín Oficial de Canarias núm. 246 Viernes 12 de diciembre de 202552070
 - Los certificados de cursos impartidos o superados en los Centros de Profesores (CEP) 
 de Canarias solo se baremarán cuando estén firmados por cargo orgánico de la Consejería 
 de Educación, Formación Profesional, Actividad Física y Deportes, o firmados por la 
@@ -1688,9 +1586,6 @@ coordinador o ponente del curso, proyecto o actividad en cuestión.
 de opinión.
 - No se valorarán las coordinaciones o ediciones de revistas, libros, etc.
 
-boc-a-2025-246-4231
-Boletín Oficial de Canarias núm. 246 Viernes 12 de diciembre de 202552071
-https://sede.gobiernodecanarias.org/boc
 ANEXO III: Vacantes definitivas
 VACANTES DEFINITIVAS DE LA PROVINCIA DE LAS PALMAS
 Código del 
@@ -1738,9 +1633,6 @@ documento electrónico siguiente:
 ANEXO III
 V ACANTES DEFINITIV AS DE LA PROVINCIA DE LAS PALMAS
 
-boc-a-2025-246-4231
-Boletín Oficial de Canarias núm. 246 Viernes 12 de diciembre de 202552072
-https://sede.gobiernodecanarias.org/boc
 35001281 CEIP Escaleritas Las Palmas de Gran Canaria
 35005651 CEIP Estrella Barreiro Moreno Arucas
 35006591 CEIP Federico García Lorca Las Palmas de Gran Canaria
@@ -1881,9 +1773,6 @@ puede ser comprobada la autenticidad de esta copia, mediante el número de
 documento electrónico siguiente:
  0XkxIvegpLKVYdx8fN7Y2zfOdFJpgny4X
 
-boc-a-2025-246-4231
-Boletín Oficial de Canarias núm. 246 Viernes 12 de diciembre de 202552073
-https://sede.gobiernodecanarias.org/boc
 Canaria
 35007908 CEIP Pablo Neruda Puerto del Rosario
 35005560 CEIP Padilla Firgas
@@ -1976,9 +1865,6 @@ puede ser comprobada la autenticidad de esta copia, mediante el número de
 documento electrónico siguiente:
  0XkxIvegpLKVYdx8fN7Y2zfOdFJpgny4X
 
-boc-a-2025-246-4231
-Boletín Oficial de Canarias núm. 246 Viernes 12 de diciembre de 202552074
-https://sede.gobiernodecanarias.org/boc
 35008962 CEPA Agüimes-Ingenio Ingenio
 35007374 CPM Las Palmas de Gran Canaria Las Palmas de Gran Canaria
 35015619 EA Fuerteventura Puerto del Rosario
@@ -2057,9 +1943,6 @@ puede ser comprobada la autenticidad de esta copia, mediante el número de
 documento electrónico siguiente:
  0XkxIvegpLKVYdx8fN7Y2zfOdFJpgny4X
 
-boc-a-2025-246-4231
-Boletín Oficial de Canarias núm. 246 Viernes 12 de diciembre de 202552075
-https://sede.gobiernodecanarias.org/boc
 VACANTES DEFINITIVAS DE LA PROVINCIA DE SANTA CRUZ DE  TENERIFE
 Código del 
 Centro Centro Municipio del Centro
@@ -2106,9 +1989,6 @@ documento electrónico siguiente:
  0XkxIvegpLKVYdx8fN7Y2zfOdFJpgny4X
 V ACANTES DEFINITIV AS DE LA PROVINCIA DE SANTA CRUZ DE TENERIFE
 
-boc-a-2025-246-4231
-Boletín Oficial de Canarias núm. 246 Viernes 12 de diciembre de 202552076
-https://sede.gobiernodecanarias.org/boc
 38001516 CEIP Chirche Guía de Isora
 38003537 CEIP Domínguez Alfonso La Orotava
 38008614 CEIP El Fraile Arona
@@ -2245,9 +2125,6 @@ puede ser comprobada la autenticidad de esta copia, mediante el número de
 documento electrónico siguiente:
  0XkxIvegpLKVYdx8fN7Y2zfOdFJpgny4X
 
-boc-a-2025-246-4231
-Boletín Oficial de Canarias núm. 246 Viernes 12 de diciembre de 202552077
-https://sede.gobiernodecanarias.org/boc
 38010751 CEIP Los Andenes de Taco San Cristóbal de La Laguna
 38003148 CEIP Los Campitos Los Llanos de Aridane
 38000962 CEIP Los Canarios Fuencaliente de La Palma
@@ -2340,9 +2217,6 @@ puede ser comprobada la autenticidad de esta copia, mediante el número de
 documento electrónico siguiente:
  0XkxIvegpLKVYdx8fN7Y2zfOdFJpgny4X
 
-boc-a-2025-246-4231
-Boletín Oficial de Canarias núm. 246 Viernes 12 de diciembre de 202552078
-https://sede.gobiernodecanarias.org/boc
 38004347 CEO Bethencourt y Molina Santa Cruz de Tenerife
 38017536 CEO En San Miguel De Abona San Miguel de Abona
 38016660 CEO Hermano Pedro Vilaflor Vilaflor

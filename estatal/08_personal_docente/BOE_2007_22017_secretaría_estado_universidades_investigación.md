@@ -35,8 +35,6 @@ fundamentos_derecho:
 
 El Consejo de Ministros, en su reunión del día 14 de diciembre de 2007, ha adoptado el Acuerdo por el que se establecen las condiciones a las que deberán adecuarse los planes de estudios conducentes a la obtención de títulos que habiliten para el ejercicio de las profesiones reguladas de Profesor de Educación Secundaria Obligatoria y Bachillerato, Formación Profesional y Enseñanzas de Idiomas.
 
-Para general conocimiento, esta Secretaría de Estado de Universidades e Investigación ha resuelto disponer la publicación en el Boletín Oficial del Estado del citado Acuerdo, como Anexo a la presente Resolución.
-
 Madrid, 17 de diciembre de 2007.-El Secretario de Estado de Universidades e Investigación, Miguel Ángel Quintanilla Fisac.
 
 ANEXO

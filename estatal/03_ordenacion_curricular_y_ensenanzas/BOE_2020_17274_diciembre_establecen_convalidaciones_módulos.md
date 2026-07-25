@@ -63,18 +63,15 @@ Este real decreto se dicta al amparo del artículo 149.1.30.ª de la Constituci�
 
 En su virtud, a propuesta de la Ministra de Educación y Formación Profesional, con la aprobación previa de la Ministra de Política Territorial y Función Pública, oído el Consejo de Estado y previa deliberación del Consejo de Ministros en su reunión del día 9 de diciembre de 2020,
 
-
 **DISPONGO:**
 
 CAPÍTULO I
 
 Disposiciones generales
 
-
 #### Artículo 1. Objeto.
 
 El objeto de este real decreto es establecer las condiciones de convalidación de módulos profesionales de diferentes títulos de Formación Profesional del sistema educativo, de grado medio y de grado superior, destinadas al alumnado matriculado en estas enseñanzas.
-
 
 #### Artículo 2. Ámbito de aplicación.
 
@@ -93,7 +90,6 @@ d) Módulos profesionales incluidos en un título de Formación Profesional de g
 a) Los módulos profesionales de Formación Profesional Básica que tengan asignados diferentes códigos y posean idénticas denominaciones, serán objeto de convalidación con independencia del ciclo formativo al que pertenezcan.
 
 b) Las convalidaciones establecidas en el artículo del 19 del Real Decreto 127/2014, de 28 de febrero, por el que se regulan aspectos específicos de la Formación Profesional Básica de las enseñanzas de formación profesional del sistema educativo, se resolverán en los términos indicados en el párrafo anterior de este apartado.
-
 
 #### Artículo 3. Principios generales.
 
@@ -127,20 +123,17 @@ Procedimiento para las convalidaciones
 
 Sección 1.ª Iniciación del procedimiento. Solicitudes
 
-
 #### Artículo 4. Condiciones aplicables a la iniciación del procedimiento. Presentación de solicitudes.
 
 La solicitud de convalidación se presentará ante la dirección del centro docente en el que el alumnado se encuentra matriculado para cursar las enseñanzas para las que solicita la convalidación, siguiendo el modelo del Anexo V.
 
 El solicitante deberá haber satisfecho los derechos de matrícula en las enseñanzas para las cuales solicita la convalidación.
 
-
 #### Artículo 5. Plazos para solicitar las convalidaciones que resuelve el Ministerio de Educación y Formación Profesional.
 
 El plazo de presentación de solicitudes de convalidación que resuelve la Subdirección General de Ordenación e Innovación de la Formación Profesional se inicia el día en que comienza el curso escolar y finaliza el último día del curso escolar. Sólo se podrá presentar una única solicitud de convalidación por curso académico.
 
 Se tratarán con preferencia los expedientes presentados desde el inicio del plazo para realizar la matrícula hasta la finalización del mes de octubre de cada curso escolar.
-
 
 #### Artículo 6. Documentación para solicitar la convalidación de módulos profesionales.
 
@@ -162,7 +155,6 @@ a) Certificación oficial de la Administración competente, si las unidades de c
 
 b) Certificado de Profesionalidad expedido por la Administración Laboral competente, obtenido de acuerdo con lo establecido en el Real Decreto 34/2008, de 18 de enero, por el que se regulan los certificados de profesionalidad.
 
-
 #### Artículo 7. Registro de solicitudes de convalidación.
 
 1. El centro educativo realizará el registro telemático de todas las solicitudes presentadas en el momento en que el alumnado entregue la solicitud de convalidación.
@@ -173,13 +165,11 @@ b) Certificado de Profesionalidad expedido por la Administración Laboral compet
 
 Sección 2.ª Finalización del procedimiento. Resolución de convalidaciones
 
-
 #### Artículo 8. Convalidaciones cuya resolución le corresponde a los centros educativos.
 
 1. La resolución de las convalidaciones cuyas correspondencias están recogidas en los Anexos I, II, III, y IV de este real decreto corresponde a la dirección del centro educativo público o, en su caso y de acuerdo con lo que establezcan las administraciones educativas, a la dirección del centro privado autorizado para impartir enseñanzas de Formación Profesional, en que el solicitante esté matriculado.
 
 2. Las Administraciones educativas podrán, en su ámbito de competencias, establecer procedimientos para las convalidaciones correspondientes a módulos profesionales propios que formen parte de sus currículos autonómicos, siempre que se trate de módulos idénticos, independientemente del ciclo formativo al que pertenezcan.
-
 
 #### Artículo 9. Convalidaciones cuya resolución le corresponde al Ministerio de Educación y Formación Profesional.
 
@@ -191,7 +181,6 @@ b) Aportación de títulos de Formación Profesional y Módulos Experimentales d
 
 c) Aportación de títulos regulados al amparo de la Ley Orgánica 2/2006, de 3 de mayo, para solicitar la convalidación de módulos profesionales incluidos en títulos regulados al amparo de la Ley Orgánica 1/1990, de 3 de octubre.
 
-
 #### Artículo 10. Resolución y registro de las solicitudes de convalidación.
 
 1. La Subdirección General de Ordenación e Innovación de la Formación Profesional o la dirección del centro, según corresponda, resolverán de forma favorable o desfavorable la convalidación solicitada, a partir de lo establecido en este real decreto.
@@ -199,7 +188,6 @@ c) Aportación de títulos regulados al amparo de la Ley Orgánica 2/2006, de 3 
 2. La resolución favorable de la convalidación de los módulos profesionales que procedan se registrará en el expediente académico del alumno, en las actas de evaluación y en cualquier certificación académica, de acuerdo con lo establecido en el Real Decreto 1147/2011, de 29 de julio, por el que se establece la ordenación general de la formación profesional del sistema educativo.
 
 3. En aplicación de los artículos 21 y 24 de la Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común de las Administraciones Públicas, en caso de haber transcurrido seis meses sin haberse notificado resolución expresa, el solicitante deberá entender desestimada por silencio administrativo su solicitud.
-
 
 #### Artículo 11. Recursos.
 
@@ -213,7 +201,6 @@ b) La Secretaría General de Formación Profesional del Ministerio de Educación
 
 3. Contra la resolución del recurso de alzada no cabrá ningún otro recurso administrativo, salvo el recurso extraordinario de revisión, en los casos establecidos en el artículo 125.1 de la Ley 39/2015, de 1 de octubre, o bien recurso contencioso-administrativo, según lo previsto en la Ley 29/1998 de 13 de julio, reguladora de la Jurisdicción Contencioso-administrativa.
 
-
 #### Disposición adicional primera. Titulaciones equivalentes.
 
 Los estudios que tengan concedida la equivalencia específica o genérica, a efectos académicos y/o profesionales, con títulos de Formación Profesional, así como los títulos expedidos en el extranjero que hayan sido homologados con títulos del sistema educativo español, no podrán ser aportados a su vez para la convalidación de módulos profesionales ni para la equivalencia con otros títulos de formación profesional del sistema educativo español.
@@ -222,38 +209,31 @@ La equivalencia específica vinculada a titulaciones declaradas equivalentes apa
 
 La equivalencia genérica, ligada al nivel educativo y no a un título concreto, vinculada a formaciones externas al sistema educativo español e impartidas por centros autorizados, será la declarada equivalente mediante la normativa correspondiente del Ministerio de Educación y Formación Profesional.
 
-
 #### Disposición adicional segunda. Convalidación del módulo profesional de Formación y orientación laboral aportando el título de Técnico Superior en Prevención de Riesgos Profesionales, derivado de la Ley Orgánica 1/1990, de 3 de octubre, de Ordenación General del Sistema Educativo.
 
 Aquellas personas en posesión del título de Técnico Superior en Prevención de Riesgos Profesionales derivado de la Ley Orgánica 1/1990, de 3 de octubre, obtendrán la convalidación del módulo profesional de Formación y Orientación Laboral de cualquier título de Formación Profesional aprobados conforme a la regulación de la Ley Orgánica 2/2006, de 3 de mayo.
-
 
 #### Disposición adicional tercera. Convalidación del módulo profesional de Formación y Orientación Laboral.
 
 Sin perjuicio de lo establecido en otras normas, para la convalidación del módulo profesional de Formación y Orientación Laboral incluido en los títulos derivados de la Ley Orgánica 2/2006, de 3 de mayo, será necesaria la acreditación de la formación establecida para el desempeño de las funciones de nivel básico de la actividad preventiva, expedida de acuerdo con lo dispuesto en el Real Decreto 39/1997, de 17 de enero, por el que se aprueba el Reglamento de los Servicios de Prevención, con indicación expresa de los contenidos superados.
 
-
 #### Disposición adicional cuarta. No incremento del gasto público.
 
 Las medidas incluidas en este real decreto no podrán suponer incremento de dotaciones ni de retribuciones ni de otros gastos de personal.
-
 
 #### Disposición adicional quinta. Convalidaciones entre módulos profesionales incluidos en otros títulos de Formación Profesional.
 
 Las convalidaciones recogidas en los Anexos I, II, III y IV de este real decreto, así como las recogidas en los anexos correspondientes de los reales decretos de los títulos publicados con posterioridad al 5 de marzo de 2017, serán de aplicación a los módulos profesionales incluidos en cualquier ciclo formativo, con independencia del título de Formación Profesional al que perteneciera.
 
-
 #### Disposición transitoria primera. Resolución de convalidaciones ya iniciadas.
 
 Los expedientes de convalidaciones iniciados con anterioridad a la entrada en vigor de este real decreto, continuarán su tramitación por el Ministerio de Educación y Formación Profesional o por las Administraciones educativas de las comunidades autónomas, en el ámbito de sus respectivas competencias, de acuerdo con la legislación vigente en el inicio del proceso de tramitación.
-
 
 #### Disposición transitoria segunda. Convalidación de módulos de Formación y orientación laboral de títulos amparados en la Ley Orgánica 1/1990, de 3 de octubre, de Ordenación General del Sistema Educativo.
 
 1. Mientras continúen impartiéndose ciclos formativos derivados de la Ley Orgánica 1/1990, de 3 de octubre, de Ordenación General del Sistema Educativo, los módulos profesionales de Formación y Orientación Laboral de títulos de Grado Medio serán convalidados por la dirección del centro educativo cuando se aporte cualquier módulo de Formación y Orientación Laboral de títulos de formación profesional derivados de la Ley Orgánica 2/2006, de 3 de mayo.
 
 2. Asimismo, la convalidación de módulos profesionales de Formación y Orientación Laboral de títulos de Grado Superior derivados de la Ley Orgánica 1/1990, de 3 de octubre, no será posible cuando se aporten módulos profesionales de Formación y Orientación Laboral de títulos derivados de la Ley Orgánica 2/2006, de 3 de mayo.
-
 
 #### Disposición derogatoria única. Derogación de normas.
 
@@ -263,27 +243,21 @@ Los expedientes de convalidaciones iniciados con anterioridad a la entrada en vi
 
 3. Quedan derogadas la Orden de 20 de diciembre de 2001, por la que se determinan convalidaciones de estudios de formación profesional específica derivada de la Ley Orgánica 1/1990, de 3 de octubre, de Ordenación General del Sistema Educativo y la Orden ECD/2159/2014, de 7 de noviembre, por la que se establecen convalidaciones entre módulos profesionales de formación profesional del Sistema Educativo Español y medidas para su aplicación y se modifica la Orden de 20 de diciembre de 2001, por la que se determinan convalidaciones de estudios de formación profesional específica derivada de la Ley Orgánica 1/1990, de 3 de octubre, de Ordenación General del Sistema Educativo.
 
-
 #### Disposición final primera. Modificación del Real Decreto 1147/2011, de 29 de julio, por el que se establece la ordenación general de la formación profesional del sistema educativo.
 
 Se añade un nuevo apartado sexto al artículo 40, que queda redactado en los siguientes términos:
 
 «6. El plazo máximo para resolver y notificar la resolución del procedimiento de convalidación será de seis meses, a contar desde la fecha de presentación de la solicitud.»
 
-
 #### Disposición final segunda. Título competencial.
 
 Este real decreto se dicta al amparo del artículo 149.1.30.ª de la Constitución, que atribuye al Estado la competencia exclusiva para la regulación de las condiciones de obtención, expedición y homologación de títulos académicos y profesionales.
-
 
 #### Disposición final tercera. Desarrollo y ejecución.
 
 Se autoriza a la persona titular del Ministerio de Educación y Formación Profesional a dictar cuantas disposiciones sean precisas para el desarrollo y ejecución de este real decreto.
 
-
 #### Disposición final cuarta. Entrada en vigor.
-
-Este real decreto entrará en vigor el día siguiente al de su publicación en el «Boletín Oficial del Estado».
 
 Dado en Madrid, el 9 de diciembre de 2020.
 

@@ -52,30 +52,23 @@ En la elaboración de la presente orden han sido consultados la Conferencia de E
 
 En su virtud, previa aprobación del Ministro de Hacienda y Administraciones Públicas, dispongo:
 
-
 #### Artículo 1. Objeto.
 
 Esta orden tiene por objeto la aprobación de los temarios que han de regir en los procesos de ingreso, acceso y adquisición de nuevas especialidades en el Cuerpo de Profesores de Música y Artes Escénicas en las especialidades vinculadas a las enseñanzas de Música y de Danza.
-
 
 #### Artículo 2. Aprobación de los temarios que han de regir en los procedimientos de ingreso, acceso y adquisición de nuevas especialidades en el Cuerpo de Profesores de Música y Artes Escénicas, en las especialidades vinculadas a las enseñanzas de Música y de Danza.
 
 Los temarios a que se refiere el artículo 19 del Reglamento de ingreso, accesos y adquisición de nuevas especialidades en los cuerpos docentes a que se refiere la Ley Orgánica 2/2006, de 3 de mayo, de Educación, y se regula el régimen transitorio de ingreso a que se refiere la disposición transitoria decimoséptima de la citada ley, aprobado por Real Decreto 276/2007, de 23 de febrero, para las convocatorias de ingreso, acceso y adquisición de nuevas especialidades en el Cuerpo de Profesores de Música y Artes Escénicas en las especialidades vinculadas a las enseñanzas de Música y de Danza, reguladas por el Real Decreto 428/2013, de 14 de junio, por el que se establecen las especialidades docentes del Cuerpo de Profesores de Música y Artes Escénicas vinculadas a las enseñanzas de Música y de Danza, son los que se establecen en la presente orden y que figuran en el anexo.
 
-
 #### Disposición final primera. Título competencial.
 
 La presente orden se dicta al amparo de lo establecido en el artículo 149.1.18.ª y 30.ª de la Constitución, que reserva al Estado la competencia para establecer las condiciones básicas que garanticen la igualdad, las bases del régimen jurídico de las Administraciones Públicas y el régimen estatutario de los funcionarios y las normas básicas para el desarrollo del artículo 27 de la Constitución, y tiene carácter básico.
-
 
 #### Disposición final segunda. Aplicación.
 
 Se faculta a la persona titular de la Dirección General de Evaluación y Cooperación Territorial para dictar, en el ámbito de sus competencias, cuantas resoluciones e instrucciones sean necesarias para la aplicación de lo dispuesto en esta orden.
 
-
 #### Disposición final tercera. Entrada en vigor.
-
-La presente orden entrará en vigor el día siguiente al de su publicación en el «Boletín Oficial del Estado».
 
 Madrid, 25 de agosto de 2015.–El Ministro de Educación, Cultura y Deporte, Íñigo Méndez de Vigo y Montojo.
 

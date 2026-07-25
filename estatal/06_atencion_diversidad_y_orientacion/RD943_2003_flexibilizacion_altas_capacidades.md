@@ -70,28 +70,23 @@ En el proceso de elaboración de este real decreto han sido consultadas las comu
 
 En su virtud, a propuesta de la Ministra de Educación, Cultura y Deporte, de acuerdo con el Consejo de Estado y previa deliberación del Consejo de Ministros en su reunión del día 18 de julio de 2003,
 
-
 **DISPONGO:**
 
 CAPÍTULO I
 
 Disposiciones generales
 
-
 #### Artículo 1. Ámbito de aplicación.
 
 Este real decreto será de aplicación en todos los centros docentes en los que se impartan las enseñanzas escolares de régimen general y de régimen especial enunciadas en el artículo 7.3 de la Ley Orgánica 10/2002, de 23 de diciembre, de Calidad de la Educación.
-
 
 #### Artículo 2. Objeto.
 
 El objeto de este real decreto es regular las condiciones y el procedimiento para flexibilizar la duración de los diversos niveles y etapas del sistema educativo para aquellos alumnos que sean identificados como superdotados intelectualmente y que cursen enseñanzas escolares en los centros docentes especificados en el artículo anterior.
 
-
 #### Artículo 3. Identificación y evaluación de las necesidades de los alumnos superdotados intelectualmente.
 
 Las Administraciones educativas adoptarán las medidas necesarias para identificar a los alumnos superdotados intelectualmente, evaluando las necesidades educativas específicas de dichos alumnos lo más tempranamente posible.
-
 
 #### Artículo 4. Medidas de atención educativa.
 
@@ -101,11 +96,9 @@ Las Administraciones educativas adoptarán las medidas necesarias para identific
 
 3. Las Administraciones educativas adoptarán las medidas oportunas para que los padres de los alumnos superdotados intelectualmente reciban el adecuado asesoramiento continuado e individualizado, así como la información necesaria sobre la atención educativa que reciban sus hijos y cuantas otras informaciones les ayuden en la educación de éstos. Asimismo, se informará a los padres y a los alumnos sobre las medidas ordinarias o excepcionales de atención que se adopten. Para la aplicación de éstas será necesario el consentimiento de los padres.
 
-
 #### Artículo 5. Requisitos.
 
 La decisión de flexibilizar la duración de los diversos niveles y etapas del sistema educativo para los alumnos superdotados intelectualmente se tomará cuando las medidas que el centro puede adoptar, dentro del proceso ordinario de escolarización, se consideren insuficientes para atender adecuadamente a las necesidades y al desarrollo integral de estos alumnos.
-
 
 #### Artículo 6. Registro de las medidas de flexibilización de la duración de los diversos niveles y etapas del sistema educativo para los alumnos superdotados intelectualmente.
 
@@ -115,13 +108,11 @@ CAPÍTULO II
 
 Enseñanzas de régimen general
 
-
 #### Artículo 7. Criterios generales para flexibilizar la duración de los diversos niveles, etapas y grados para los alumnos superdotados intelectualmente.
 
 1. La flexibilización de la duración de los diversos niveles, etapas y grados para los alumnos superdotados intelectualmente consistirá en su incorporación a un curso superior al que le corresponda por su edad. Esta medida podrá adoptarse hasta un máximo de tres veces en la enseñanza básica y una sola vez en las enseñanzas posobligatorias. No obstante, en casos excepcionales, las Administraciones educativas podrán adoptar medidas de flexibilización sin tales limitaciones. Esta flexibilización incorporará medidas y programas de atención específica.
 
 2. La flexibilización deberá contar por escrito con la conformidad de los padres.
-
 
 #### Artículo 8. Procedimiento general para flexibilizar la duración de los diversos niveles, etapas y grados para los alumnos superdotados intelectualmente.
 
@@ -131,30 +122,23 @@ CAPÍTULO III
 
 Enseñanzas de régimen especial
 
-
 #### Artículo 9. Criterios generales para flexibilizar la duración de los diversos grados, ciclos y niveles para los alumnos superdotados intelectualmente, en las enseñanzas de régimen especial.
 
 En el caso de las enseñanzas de régimen especial la flexibilización de la duración de los diversos grados, ciclos y niveles para los alumnos superdotados intelectualmente consistirá en su incorporación a un curso superior al que le corresponda por su edad, siempre que la reducción de estos períodos no supere la mitad del tiempo establecido con carácter general. No obstante, en casos excepcionales, las Administraciones educativas podrán adoptar medidas de flexibilización sin tal limitación. Esta flexibilización incorporará medidas y programas de atención específica.
-
 
 #### Disposición derogatoria única. Derogación normativa.
 
 Quedan derogadas todas las normas de igual o inferior rango en cuanto se opongan a lo establecido en este real decreto.
 
-
 #### Disposición final primera. Título competencial.
 
 Este real decreto se dicta al amparo de lo dispuesto en el artículo 149.1.30.a de la Constitución, y en uso de la competencia exclusiva del Estado para la regulación de las condiciones para la obtención, expedición y homologación de títulos académicos y profesionales válidos en todo el territorio español, recogida expresamente en la disposición adicional primera, apartado 2, de la Ley Orgánica 8/1985, de 3 de julio, reguladora del Derecho a la Educación, y en virtud de la habilitación que confiere al Gobierno la Ley Orgánica 10/2002, de 23 de diciembre, de Calidad de la Educación, en su artículo 43.3, a excepción de los artículos 3 y 4, que tienen carácter de norma básica.
-
 
 #### Disposición final segunda. Desarrollo.
 
 Corresponde a las Administraciones educativas, en el ámbito de sus competencias, dictar cuantas disposiciones sean precisas para el desarrollo y ejecución de lo dispuesto en este real decreto.
 
-
 #### Disposición final tercera. Entrada en vigor.
-
-El presente real decreto entrará en vigor el día siguiente al de su publicación en el «Boletín Oficial del Estado».
 
 Dado en Palma de Mallorca, a 18 de julio de 2003.
 

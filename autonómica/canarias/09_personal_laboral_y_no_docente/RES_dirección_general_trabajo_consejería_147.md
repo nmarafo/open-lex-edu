@@ -38,7 +38,6 @@ Boletín Oficial de Canarias
 Accesibilidad
 Mapa web
 Contacto
-Versión texto
 Inicio
 Archivo
 Búsqueda
@@ -47,11 +46,8 @@ Inicio
 Archivo
 Año 2007
 2007/036. Lunes 19 de Febrero de 2007
-589
-<p>Menú de búsqueda y navegación</p>
 Anterior
 Siguiente
-BOC Nº 036. Lunes 19 de Febrero de 2007 - 589
 IV. ANUNCIOS - Otros anuncios - Consejería de Empleo y Asuntos Sociales
 589 - Dirección General de Trabajo.- Anuncio por el que se hace pública la Resolución de 30 de enero de 2007, relativa al registro, depósito y publicación del Acuerdo de la Comisión Negociadora del Convenio Colectivo del Personal Laboral de la Comunidad Autónoma de Canarias, sobre encuadramiento de diferentes categorías profesionales del Convenio Colectivo del Personal Laboral de la Comunidad Autónoma de Canarias.
 Descargar en formato pdf
@@ -94,6 +90,3 @@ CATEGORÍAS
 - Grabador
 La Administración.- El Viceconsejero de Administración Pública; El Director General de la Función Pública.- El Comité Intercentros.-
 El Presidente; El Secretario.
-© Gobierno de Canarias
-Aviso Legal
-Sugerencias y Reclamaciones

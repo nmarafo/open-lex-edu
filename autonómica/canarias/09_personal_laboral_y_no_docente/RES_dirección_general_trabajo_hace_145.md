@@ -35,7 +35,6 @@ Boletín Oficial de Canarias
 Accesibilidad
 Mapa web
 Contacto
-Versión texto
 Inicio
 Archivo
 Búsqueda
@@ -44,9 +43,6 @@ Inicio
 Archivo
 Año 1992
 1992/018. Jueves 6 de Febrero de 1992
-125
-<p>Menú de búsqueda y navegación</p>
-BOC Nº 018. Jueves 6 de Febrero de 1992 - 125
 III. OTRAS RESOLUCIONES - C.Trabajo
 y Función Pública
 125 - RESOLUCIÓN de 28 de enero de 1992, de la Dirección General de Trabajo, por la que se hace público el III Convenio Colectivo del Personal Laboral de la Comunidad Autónoma de Canarias.

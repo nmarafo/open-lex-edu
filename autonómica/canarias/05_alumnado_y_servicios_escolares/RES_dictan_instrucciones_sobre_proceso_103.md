@@ -33,9 +33,6 @@ fuente_pdf_oficial: https://sede.gobiernodecanarias.org/boc/boc-a-2026-039-641.p
 
 # Resolución de 13 de febrero de 2026, por la que se dictan instrucciones sobre el proceso de admisión del alumnado a Ciclos Formativos de Grado Básico, Medio y Superior (Grado D, niveles 1, 2 y 3, respectivamente) de las Enseñanzas de Formación Profesional de Grados D, Enseñanzas Profesionales de Artes Plásticas y Diseño, Enseñanzas Elementales y Profesionales de Música, Enseñanzas de Idiomas y Enseñanzas Deportivas en centros docentes sostenidos con fondos públicos en la Comunidad Autónoma de Canarias para el curso escolar 2026-2027.
 
-https://sede.gobiernodecanarias.org/boc
-boc-a-2026-039-641
-Boletín Oficial de Canarias núm. 39 Jueves 26 de febrero de 20267272
 III. Otras Resoluciones
 Consejería de Educación, Formación Profesional, Actividad Física y Deportes
 641 Dirección General de Formación Profesional y Enseñanzas de Régimen Especial.- 
@@ -77,9 +74,6 @@ Primero.- La Ley Orgánica 2/2006, de 3 de mayo, de Educación, señala en su ar
 que “Las Administraciones educativas regularán la admisión de alumnos y alumnas en 
 centros públicos y privados concertados de tal forma que garantice el derecho a la educación, 
 
-https://sede.gobiernodecanarias.org/boc
-boc-a-2026-039-641
-Boletín Oficial de Canarias núm. 39 Jueves 26 de febrero de 20267273
 el acceso en condiciones de igualdad y la libertad de elección de centro por padres, madres 
 o tutores legales. En dicha regulación se dispondrán las medidas necesarias para evitar 
 la segregación del alumnado por motivos socioeconómicos o de otra naturaleza. En todo 
@@ -126,9 +120,6 @@ Sexto.- El Real Decreto 596/2007, de 4 de mayo, por el que se establece la orden
 general de las enseñanzas profesionales de artes plásticas y diseño establece en su Capítulo V 
 el procedimiento de acceso y admisión a estas enseñanzas.
 
-https://sede.gobiernodecanarias.org/boc
-boc-a-2026-039-641
-Boletín Oficial de Canarias núm. 39 Jueves 26 de febrero de 20267274
 Séptimo.- El Real Decreto 1363/2007, de 24 de octubre, por el que se establece la 
 ordenación general de las enseñanzas deportivas de régimen especial, recoge en su Capítulo 
 VIII el procedimiento de acceso, promoción y admisión a estas enseñanzas.
@@ -173,9 +164,6 @@ y de acuerdo con la atribución prevista en la disposición adicional tercera de
 Reglamento Orgánico de la Consejería de Educación, Formación Profesional, Actividad 
 Física y Deportes, aprobado por Decreto 84/2024, de 10 de junio,
 
-https://sede.gobiernodecanarias.org/boc
-boc-a-2026-039-641
-Boletín Oficial de Canarias núm. 39 Jueves 26 de febrero de 20267275
 RESUELVO :
 Primero.- Aprobar las instrucciones que se contienen en la presente Resolución 
 del proceso de admisión del alumnado en los centros docentes sostenidos con fondos 
@@ -199,9 +187,6 @@ interponer.
 Las Palmas de Gran Canaria, a 13 de febrero de 2026.- La Directora General de 
 Formación Profesional y Enseñanzas de Régimen Especial, Carolina León Martínez.
 
-https://sede.gobiernodecanarias.org/boc
-boc-a-2026-039-641
-Boletín Oficial de Canarias núm. 39 Jueves 26 de febrero de 20267276
 ÍNDICE
 I. Instrucciones generales del procedimiento.
 II. Instrucciones específicas para las Enseñanzas de Formación Profesional en Ciclos 
@@ -231,9 +216,6 @@ a los Ciclos Formativos de Grado Básico, de Grado Medio y Grado Superior (nivel
 Profesionales de Artes Plásticas y Diseño, Enseñanzas de Idiomas y Enseñanzas Deportivas 
 en la Comunidad Autónoma de Canarias.
 
-https://sede.gobiernodecanarias.org/boc
-boc-a-2026-039-641
-Boletín Oficial de Canarias núm. 39 Jueves 26 de febrero de 20267277
 Segunda.- Trámites iniciales a realizar por los centros educativos.
 1. Los centros educativos que impartan las enseñanzas a las que se refiere esta 
 Resolución, en los plazos indicados por el calendario aprobado para esta convocatoria, 
@@ -277,9 +259,6 @@ opción. Será el centro educativo, con el “rol de administrador”, quien for
 solicitud en base a los datos facilitados por el interesado. En este supuesto, si se desea 
 solicitar plaza escolar en un centro situado en otra isla, se deberá presentar la solicitud 
 
-https://sede.gobiernodecanarias.org/boc
-boc-a-2026-039-641
-Boletín Oficial de Canarias núm. 39 Jueves 26 de febrero de 20267278
 impresa en el registro general de la CEFPAFD, o en sus registros auxiliares de ventanilla 
 única, dirigido al centro elegido como primera opción. El centro tramitador entregará una 
 copia al interesado de la solicitud presentada.
@@ -322,9 +301,6 @@ del plazo.
 establecido para ello, coincidente con el periodo de reclamación a las listas provisionales 
 de participación en el procedimiento.
 
-https://sede.gobiernodecanarias.org/boc
-boc-a-2026-039-641
-Boletín Oficial de Canarias núm. 39 Jueves 26 de febrero de 20267279
 Sexta.- Petición de centros.
 1. En la solicitud de plaza para las Enseñanzas de Ciclos Formativos de Grados Básico, 
 Medio y Superior (Grados D, niveles 1, 2 y 3, en su caso) y Artes Plásticas y Diseño, se 
@@ -369,9 +345,6 @@ enseñanzas no universitarias de la Comunidad Autónoma de Canarias.
 4. Toda petición del solicitante que no disponga del requisito académico por el que 
 solicita la vía de acceso, será excluida.
 
-https://sede.gobiernodecanarias.org/boc
-boc-a-2026-039-641
-Boletín Oficial de Canarias núm. 39 Jueves 26 de febrero de 20267280
 Novena.- Intermediación de datos.
 1. En función del tipo de enseñanza que se solicite, la Consejería competente en materia 
 educativa recabará electrónicamente, a través de sus redes corporativas o mediante consulta 
@@ -412,9 +385,6 @@ matriculado en centros docentes de otra comunidad autónoma, deberá aportar la 
 académica con la nota media de toda la etapa de Bachillerato, en el plazo establecido antes 
 de la publicación de las listas provisionales.
 
-https://sede.gobiernodecanarias.org/boc
-boc-a-2026-039-641
-Boletín Oficial de Canarias núm. 39 Jueves 26 de febrero de 20267281
 En todos los casos, el interesado deberá comprobar en la publicación de las listas 
 provisionales que la Administración dispone de la nota media del expediente académico con 
 el que solicita la admisión y, en caso de no tenerlo, deberá subsanar mediante la aportación 
@@ -457,9 +427,6 @@ su centro de origen, en el nivel de la Educación Secundaria Obligatoria que le 
 cuyo enlace estará disponible en la página web de la Consejería competente en materia 
 educativa.
 
-https://sede.gobiernodecanarias.org/boc
-boc-a-2026-039-641
-Boletín Oficial de Canarias núm. 39 Jueves 26 de febrero de 20267282
 4. Excepcionalmente, cuando existan problemas con la identificación, y el interesado 
 no pueda presentar la reclamación por este medio, deberá acudir presencialmente al centro 
 educativo para darle formalidad a la misma, realizando el trámite a través de una instancia 
@@ -503,9 +470,6 @@ Cualificaciones Profesionales.
 2. La oferta quedará supeditada a la existencia del número mínimo del alumnado 
 preinscrito y posteriormente matriculado en el periodo de admisión.
 
-https://sede.gobiernodecanarias.org/boc
-boc-a-2026-039-641
-Boletín Oficial de Canarias núm. 39 Jueves 26 de febrero de 20267283
 II. INSTRUCCIONES ESPECÍFICAS PARA LAS ENSEÑANZAS DE FORMACIÓN 
 PROFESIONAL EN CICLOS FORMATIVOS DE GRADO D (NIVEL 1, 2 Y 3).
 II.a. INSTRUCCIONES ESPECÍFICAS PARA LOS CICLOS FORMATIVOS DE 
@@ -544,9 +508,6 @@ Básico:
 a) Alumnado escolarizado en el curso escolar 2025/2026.
 b) Alumnado no escolarizado en el curso escolar 2025/2026.
 
-https://sede.gobiernodecanarias.org/boc
-boc-a-2026-039-641
-Boletín Oficial de Canarias núm. 39 Jueves 26 de febrero de 20267284
 5. En el caso de que la demanda supere la oferta de plazas escolares de un grupo, las solicitudes 
 se ordenarán de acuerdo con los siguientes criterios y con el siguiente orden de prelación:
 a) Para el alumnado escolarizado en el curso 2025/2026 se ordenará en función de la edad 
@@ -617,9 +578,6 @@ se colocará en el orden de prelación a continuación del definido en el aparta
 Ciclo Formativo de Grado Básico sin ser propuesto por el Equipo Educativo, el Consejo 
 Orientador debe ser emitido de oficio por interés superior del menor.
 
-https://sede.gobiernodecanarias.org/boc
-boc-a-2026-039-641
-Boletín Oficial de Canarias núm. 39 Jueves 26 de febrero de 20267285
 7. Al finalizar el periodo de matrícula, las solicitudes presentadas fuera de plazo no 
 podrán ser atendidas, salvo que queden plazas vacantes y no existan listas de reserva, 
 tomándose como criterio el procedimiento establecido para ello en esta Resolución y 
@@ -663,9 +621,6 @@ peticiones, por orden de preferencia, centro, enseñanza, estudio, modalidad y v
 acceso. La solicitud de plaza, así como la matrícula en el centro, se ajustará al calendario 
 establecido a tal fin.
 
-https://sede.gobiernodecanarias.org/boc
-boc-a-2026-039-641
-Boletín Oficial de Canarias núm. 39 Jueves 26 de febrero de 20267286
 2. Los Grados C se contemplan como una vía de acceso para los Ciclos Formativos 
 de Grado D dentro del cupo establecido para ello. Los Certificados profesionales de nivel 
 2 y 3, darán acceso a los Ciclos Formativos, Medio y Superior, respectivamente, siempre 
@@ -702,9 +657,6 @@ h) Estar en posesión de una acreditación de competencias básicas de nivel 3 o
 mediante el procedimiento de acreditación del Sistema de Formación Profesional para el 
 acceso a los Ciclos Formativos de Grado Medio.
 
-https://sede.gobiernodecanarias.org/boc
-boc-a-2026-039-641
-Boletín Oficial de Canarias núm. 39 Jueves 26 de febrero de 20267287
 Vigésima.- Reserva de plazas escolares en Ciclos Formativos de Grado Medio 
 (nivel 2).
 1. Del total de las plazas escolares ofertadas se reservará un 5% para el alumnado con 
@@ -895,9 +847,6 @@ puede ser comprobada la autenticidad de esta copia, mediante el número de
 documento electrónico siguiente:
  0HRXlv-y030yKll7-sZxAhmpQLNFBHNvp
 
-https://sede.gobiernodecanarias.org/boc
-boc-a-2026-039-641
-Boletín Oficial de Canarias núm. 39 Jueves 26 de febrero de 20267288
 Folio 17/64
 Personas que hayan superado uno o varios Grados C integrados en el ciclo 
 formativo, y requieran cursar los módulos profesionales que les permitan 
@@ -998,9 +947,6 @@ a efectos de acceso.
 i) Estar en posesión de cualquier otra titulación equivalente a efectos de acceso 
 establecida en la normativa vigente.
 
-https://sede.gobiernodecanarias.org/boc
-boc-a-2026-039-641
-Boletín Oficial de Canarias núm. 39 Jueves 26 de febrero de 20267289
 2. En los supuestos de acceso al amparo de las letras c), d) y e) del apartado anterior, 
 se requerirá, además, tener diecinueve años, como mínimo, cumplidos en el año de realización 
 de la prueba o del inicio de la formación.
@@ -1083,9 +1029,6 @@ puede ser comprobada la autenticidad de esta copia, mediante el número de
 documento electrónico siguiente:
  0HRXlv-y030yKll7-sZxAhmpQLNFBHNvp
 
-https://sede.gobiernodecanarias.org/boc
-boc-a-2026-039-641
-Boletín Oficial de Canarias núm. 39 Jueves 26 de febrero de 20267290
 6. Las plazas escolares no cubiertas en alguno de los cupos de reserva acrecentarán 
 el resto de cupos, siguiendo el orden en que estos aparecen citados, manteniendo los 
 porcentajes establecidos para la adjudicación en cada cupo de reserva.
@@ -1164,9 +1107,6 @@ equivalentes a efectos de acceso, y artículo 21 del Real Decreto 86/2025, de 11
 de evaluación y acreditación de las competencias básicas adquiridas por experiencia 
 laboral, por vías no formales de formación y aprendizajes informales son las siguientes:
 
-https://sede.gobiernodecanarias.org/boc
-boc-a-2026-039-641
-Boletín Oficial de Canarias núm. 39 Jueves 26 de febrero de 20267291
 Folio 21/64
 adquiridas por experiencia laboral, por vías no formales de formación y aprendizajes informales son 
 las siguientes:
@@ -1222,9 +1162,6 @@ formativo que se desea estudiar: 5 puntos.
 b) Por haber trabajado al menos seis meses en una actividad coincidente con las 
 competencias del ciclo formativo que se desea estudiar: 4 puntos.
 
-https://sede.gobiernodecanarias.org/boc
-boc-a-2026-039-641
-Boletín Oficial de Canarias núm. 39 Jueves 26 de febrero de 20267292
 c) Por estar trabajando en una actividad no coincidente con las competencias del ciclo 
 formativo solicitado, pero relacionada con el mismo: 3 puntos.
 d) Por haber trabajado al menos seis meses en una actividad no coincidente con las 
@@ -1265,9 +1202,6 @@ Formación Profesional.
 1. Quienes hayan obtenido una plaza en esta convocatoria, en cualquiera de las 
 peticiones solicitadas, formalizarán su matrícula en el plazo establecido.
 
-https://sede.gobiernodecanarias.org/boc
-boc-a-2026-039-641
-Boletín Oficial de Canarias núm. 39 Jueves 26 de febrero de 20267293
 2. Los solicitantes a los que se les haya adjudicado una plaza escolar en un Ciclo 
 Formativo de Grado Medio o Superior, que no sea su primera petición y se matriculen, 
 quedarán en reserva en las peticiones anteriores a la plaza escolar adjudicada. Si obtuviese 
@@ -1311,9 +1245,6 @@ dicha plaza antes de proceder a la matrícula.
 4.8. Aquel alumnado al que se ha asignado plaza y no formalice su matrícula en los 
 plazos establecidos, quedará fuera de la lista de reserva.
 
-https://sede.gobiernodecanarias.org/boc
-boc-a-2026-039-641
-Boletín Oficial de Canarias núm. 39 Jueves 26 de febrero de 20267294
 5. En el caso de que la enseñanza no tenga lista de reserva, o que la lista de reserva 
 se quede desierta durante el procedimiento de asignación, el centro podrá matricular por 
 orden de registro de entrada (Anexo X) a los interesados, siempre y cuando el solicitante 
@@ -1353,9 +1284,6 @@ Vigésima sexta.- Ciclos Formativos con condiciones singulares.
 la acreditación previa de requisitos para cursar ciertos módulos profesionales o llevar a 
 cabo la formación dual.
 
-https://sede.gobiernodecanarias.org/boc
-boc-a-2026-039-641
-Boletín Oficial de Canarias núm. 39 Jueves 26 de febrero de 20267295
 2. Para el CFGS de Formación para la Movilidad Segura y Sostenible, de la familia 
 profesional de Servicios Socioculturales y a la Comunidad, es condición necesaria para 
 cursar ciertos módulos que el alumnado esté en posesión, en el momento de la matrícula, 
@@ -1396,9 +1324,6 @@ Profesional ofertados en la Comunidad Autónoma de Canarias.
 1. Los criterios y las normas que tendrán en cuenta los centros para formalizar estas 
 matrículas son los siguientes:
 
-https://sede.gobiernodecanarias.org/boc
-boc-a-2026-039-641
-Boletín Oficial de Canarias núm. 39 Jueves 26 de febrero de 20267296
 a) Podrán matricularse quienes cumplan los requisitos académicos establecidos para 
 cada enseñanza y nivel del sistema educativo español o personas participantes que accedan 
 con estudios extranjeros. Con este fin, tendrán que estar en posesión de la credencial 
@@ -1442,9 +1367,6 @@ el alumnado que se encuentre en esta situación, o con su familia o representant
 la efectiva convalidación u homologación de estudios y títulos extranjeros, al menos, antes 
 de la finalización del segundo trimestre del curso escolar.
 
-https://sede.gobiernodecanarias.org/boc
-boc-a-2026-039-641
-Boletín Oficial de Canarias núm. 39 Jueves 26 de febrero de 20267297
 IV . ALUMNADO CON NECESIDADES EDUCATIV AS Y FORMATIV AS ESPECIALES.
 Vigésima novena.- Reserva de plazas escolares.
 Para el alumnado con discapacidad que presente necesidades educativas o formativas 
@@ -1485,9 +1407,6 @@ La matrícula del alumnado de continuidad será organizada de forma propia por c
 uno de los centros docentes, cumpliendo el calendario establecido, siempre y cuando no se 
 conculque el derecho a la escolarización del alumnado en etapas obligatorias.
 
-https://sede.gobiernodecanarias.org/boc
-boc-a-2026-039-641
-Boletín Oficial de Canarias núm. 39 Jueves 26 de febrero de 20267298
 Trigésima tercera.-Transición entre planes de estudio LOE-LOMLOE y LOMLOE-
 LOOIFP:
 Los centros educativos deberán adecuar sus planes de estudios en el aplicativo Pincel 
@@ -1532,9 +1451,6 @@ estudios en trámite, en cuyo caso la matrícula tendrá carácter provisional e
 previstos en la normativa básica sobre esta materia, salvo para el caso de las Enseñanzas 
 de Idiomas.
 
-https://sede.gobiernodecanarias.org/boc
-boc-a-2026-039-641
-Boletín Oficial de Canarias núm. 39 Jueves 26 de febrero de 20267299
 - Manifestación por escrito de los padres, madres, tutores o tutoras, guardadores o 
 guardadoras, en caso de ser menor de edad o en nombre propio en caso de ser mayor de 
 edad, de que el alumno o alumna precisa de adaptaciones de acceso al currículo como 
@@ -1576,9 +1492,6 @@ evaluación final.
 matriculado para posteriormente generar el estadillo de previsión y matrícula, que deberán 
 imprimir, firmar y custodiar en la secretaría del centro.
 
-https://sede.gobiernodecanarias.org/boc
-boc-a-2026-039-641
-Boletín Oficial de Canarias núm. 39 Jueves 26 de febrero de 20267300
 4. Todos los centros docentes sostenidos con fondos públicos deberán mantener 
 actualizados los datos de matrícula. En el caso de las Enseñanzas de Formación Profesional, 
 los centros que impartan la oferta deberán prestar especial atención, además, al control de 
@@ -1618,9 +1531,6 @@ El profesorado y el resto del personal que, en el ejercicio de sus funciones, ac
 datos personales y familiares o que afecten al honor e intimidad del alumnado o de sus 
 familias, quedará sujeto al deber de sigilo.
 
-https://sede.gobiernodecanarias.org/boc
-boc-a-2026-039-641
-Boletín Oficial de Canarias núm. 39 Jueves 26 de febrero de 20267301
 Cuadragésima.- Asesoramiento del alumnado.
 1. Corresponde a la gestión de los centros educativos a través de los tutores o tutoras, 
 Departamentos de Orientación de los IES y en su caso CEO que impartan enseñanzas de 
@@ -1660,9 +1570,6 @@ estas enseñanzas.
 Esta prueba tendrá como referente los objetivos, contenidos y criterios de evaluación de 
 las asignaturas del curso anterior al que se aspira.
 
-https://sede.gobiernodecanarias.org/boc
-boc-a-2026-039-641
-Boletín Oficial de Canarias núm. 39 Jueves 26 de febrero de 20267302
 En el ingreso a un curso distinto de primero, la edad máxima será correlativa con el 
 curso, es decir, trece años para segundo, catorce para tercero y quince para cuarto.
 En relación a la valoración y calificación de la prueba de acceso a Enseñanzas 
@@ -1704,9 +1611,6 @@ las enseñanzas, cursos y especialidades que recoja la oferta de plazas escolare
 centro. Para la inscripción en las citadas pruebas se deberá abonar la tasa correspondiente 
 a través del modelo 700.
 
-https://sede.gobiernodecanarias.org/boc
-boc-a-2026-039-641
-Boletín Oficial de Canarias núm. 39 Jueves 26 de febrero de 20267303
 3. Las pruebas de acceso se celebrarán en cada uno de los centros en los que los 
 aspirantes desean cursar las correspondientes enseñanzas en las fechas establecidas a tal 
 fin. Durante la realización de la prueba, los aspirantes deberán ir provistos del DNI, NIE o 
@@ -1746,9 +1650,6 @@ La matrícula se formalizará en la especialidad o especialidades y en el curso 
 que corresponda. El alumnado de nuevo ingreso deberá matricularse del curso completo en 
 la especialidad o especialidades en las que haya obtenido plaza.
 
-https://sede.gobiernodecanarias.org/boc
-boc-a-2026-039-641
-Boletín Oficial de Canarias núm. 39 Jueves 26 de febrero de 20267304
 VIII. INSTRUCCIONES ESPECÍFICAS PARA LAS ENSEÑANZAS PROFESIONALES 
 DE ARTES PLÁSTICAS Y DISEÑO.
 Cuadragésima séptima.- Acceso a los Ciclos Formativos de Grado Medio de Artes 
@@ -1790,9 +1691,6 @@ careciendo de los requisitos académicos, superen una prueba de acceso. Para acc
 esta vía a Ciclos Formativos de Grado Medio se requerirá tener diecisiete años como 
 mínimo, cumplidos en el año de realización de la prueba.
 
-https://sede.gobiernodecanarias.org/boc
-boc-a-2026-039-641
-Boletín Oficial de Canarias núm. 39 Jueves 26 de febrero de 20267305
 Cuadragésima octava.- Reserva de plazas escolares en Ciclos Formativos de 
 Grado Medio de Artes Plásticas y Diseño.
 1. Del total de plazas ofertadas por las Escuelas de Arte y las Escuelas de Arte y 
@@ -1968,9 +1866,6 @@ documento electrónico siguiente:
  0HRXlv-y030yKll7-sZxAhmpQLNFBHNvp
 4. En el caso de que se produzca algún empate, se resolverá por la letra de desempate.
 
-https://sede.gobiernodecanarias.org/boc
-boc-a-2026-039-641
-Boletín Oficial de Canarias núm. 39 Jueves 26 de febrero de 20267306
 Cuadragésima novena.- Acceso a los Ciclos Formativos de Grado Superior de 
 Artes Plásticas y Diseño.
 Para el acceso a los Ciclos Formativos de Grado Superior se establecen las siguientes 
@@ -2011,9 +1906,6 @@ presentar la solicitud tengan la condición de deportistas de alto nivel, deport
 de alto nivel de Canaria s o alto rendimiento. Para el resto de las plazas se reservarán los 
 siguientes porcentajes dependiendo de la vía de acceso y de la titulación que se posea:
 
-https://sede.gobiernodecanarias.org/boc
-boc-a-2026-039-641
-Boletín Oficial de Canarias núm. 39 Jueves 26 de febrero de 20267307
 Folio 37/64
 - Una titulación oficial de enseñanzas artísticas superiores o de enseñanza universitaria en alguna de  
 las siguientes disciplinas de ámbito artístico: Artes Plásticas, Diseño, Conservación y Restauración de  
@@ -2128,9 +2020,6 @@ correspondiente para su inscripción a través del modelo 700.
 4. Una vez finalizado el periodo ordinario de admisión y matrícula, y como consecuencia 
 de plazas vacantes, se establecerá un plazo extraordinario de solicitud de plaza.
 
-https://sede.gobiernodecanarias.org/boc
-boc-a-2026-039-641
-Boletín Oficial de Canarias núm. 39 Jueves 26 de febrero de 20267308
 Quincuagésima segunda.- Características y realización de la prueba específica en 
 los Ciclos Formativos de Artes Plásticas y Diseño.
 1. La prueba específica se realizará en la escuela de arte o escuela de arte y superior de 
@@ -2172,9 +2061,6 @@ de Educación, según el calendario establecido, el nombramiento de las Comision
 Evaluadoras encargadas de calificar la prueba específica, en la convocatoria ordinaria y 
 extraordinaria, en cada una de las sedes.
 
-https://sede.gobiernodecanarias.org/boc
-boc-a-2026-039-641
-Boletín Oficial de Canarias núm. 39 Jueves 26 de febrero de 20267309
 2. A la vista de la citada propuesta, las Direcciones Territoriales de Educación nombrarán 
 a los miembros de las Comisiones Evaluadoras. La presidencia de la misma recaerá en la 
 persona que ejerza la dirección del centro y las vocalías en dos profesores por cada uno de 
@@ -2213,9 +2099,6 @@ formalizarán su matrícula en el plazo ordinario de admisión.
 primera opción quedarán en reserva en las peticiones anteriores a la plaza adjudicada. Si 
 resulta adjudicado en su primera opción, no aparecerá en reserva en ninguna otra.
 
-https://sede.gobiernodecanarias.org/boc
-boc-a-2026-039-641
-Boletín Oficial de Canarias núm. 39 Jueves 26 de febrero de 20267310
 IX. INSTRUCCIONES ESPECÍFICAS PARA LAS ENSEÑANZAS DE IDIOMAS.
 Quincuagésima sexta.- Oferta de plazas escolares.
 1. Enseñanzas regladas. En el procedimiento de admisión de las Enseñanzas de Idiomas 
@@ -2254,9 +2137,6 @@ mayores de 16 años y no están incluidas en los dos grupos anteriores.
 d) Personas mayores de 14 años que deseen estudiar un idioma distinto del que cursan 
 como primera lengua extranjera en la educación secundaria obligatoria.
 
-https://sede.gobiernodecanarias.org/boc
-boc-a-2026-039-641
-Boletín Oficial de Canarias núm. 39 Jueves 26 de febrero de 20267311
 3. En el caso de que se produzca algún empate se resolverá por la letra de desempate.
 4. La solicitud podrá incluir hasta un máximo de tres peticiones distintas. Si se incluyera 
 en la solicitud más de una petición y no se obtuviera plaza escolar en la primera de ellas, se 
@@ -2298,9 +2178,6 @@ en la solicitud de admisión se deberá indicar que se desea realizar dicha prue
 instrucción sexagésima de esta resolución se proporciona información adicional sobre la 
 prueba de clasificación.
 
-https://sede.gobiernodecanarias.org/boc
-boc-a-2026-039-641
-Boletín Oficial de Canarias núm. 39 Jueves 26 de febrero de 20267312
 5. Las peticiones para un mismo idioma solo podrán hacerse por una única vía de 
 acceso de las tres descritas y, asimismo, las peticiones del mismo idioma por la vía de 
 acceso 2 deberán ser para el mismo curso. En caso contrario, cualquiera de estas solicitudes 
@@ -2343,9 +2220,6 @@ obligatoriamente en el plazo establecido. El alumnado de nuevo ingreso deberá, 
 adjuntar la documentación que se relaciona en la solicitud de plaza escolar de Enseñanzas 
 de Idiomas de Régimen Especial.
 
-https://sede.gobiernodecanarias.org/boc
-boc-a-2026-039-641
-Boletín Oficial de Canarias núm. 39 Jueves 26 de febrero de 20267313
 Si no se formaliza la matrícula en los plazos previstos o, en su caso, no se acompaña de 
 la documentación necesaria, se perderá la plaza escolar obtenida, y la solicitud, con todas 
 las peticiones que incluya, quedará anulada.
@@ -2387,9 +2261,6 @@ semipresencial o a distancia) y quieran cambiar de modalidad, aunque sea en el m
 centro, deberán presentar solicitud de plaza escolar dentro de los plazos del proceso de 
 admisión.
 
-https://sede.gobiernodecanarias.org/boc
-boc-a-2026-039-641
-Boletín Oficial de Canarias núm. 39 Jueves 26 de febrero de 20267314
 Sexagésima cuarta.- Formalización de matrícula del alumnado de continuidad.
 1. El alumnado de continuidad realizará su matrícula dentro de las fechas establecidas. 
 En caso de que no se realicen dichas gestiones, se entenderá que renuncia a su plaza escolar 
@@ -2430,9 +2301,6 @@ Sexagésima sexta.- Requisitos académicos de acceso.
 Deportivas, será preciso estar en posesión del título de Graduado o Graduada en Educación 
 Secundaria Obligatoria o equivalente a efectos académicos.
 
-https://sede.gobiernodecanarias.org/boc
-boc-a-2026-039-641
-Boletín Oficial de Canarias núm. 39 Jueves 26 de febrero de 20267315
 2. Para acceder al ciclo final o segundo nivel de Grado Medio de las Enseñanzas Deportivas, 
 se requerirá estar en posesión de la certificación académica que acredita la superación del 
 ciclo inicial o primer nivel de Grado Medio, de la especialidad correspondiente.
@@ -2473,9 +2341,6 @@ un certificado o informe médico, en el que conste que está apto o apta para la
 la prueba de específica de acceso, en la modalidad convocada. No será necesario presentar 
 este certificado para el acceso a la prueba específica de la modalidad de baloncesto.
 
-https://sede.gobiernodecanarias.org/boc
-boc-a-2026-039-641
-Boletín Oficial de Canarias núm. 39 Jueves 26 de febrero de 20267316
 8. Estarán exentos de cumplir los requisitos de carácter específico para tener acceso a las 
 enseñanzas deportivas en la modalidad o especialidad correspondiente quienes acrediten:
 - La condición de deportistas de alto nivel y deportistas de alto rendimiento en las 
@@ -2514,9 +2379,6 @@ ofertadas, se aplicarán los siguientes criterios:
 Educación Secundaria Obligatoria. Las personas aspirantes que acrediten la superación de 
 la prueba de acceso se ordenarán por la calificación obtenida en la citada prueba.
 
-https://sede.gobiernodecanarias.org/boc
-boc-a-2026-039-641
-Boletín Oficial de Canarias núm. 39 Jueves 26 de febrero de 20267317
 - Para el ciclo final o segundo nivel de Grado Medio, la calificación final obtenida en el 
 ciclo inicial o primer nivel de Grado Medio de la especialidad deportiva correspondiente.
 - Para el grado superior, la calificación final del título de Técnico Deportivo, en la 
@@ -2556,9 +2418,6 @@ enseñanzas deportivas, o bien por módulos o bloque de Enseñanza Deportiva.
 acreditar haber superado el ciclo inicial o primer nivel del mismo grado en la correspondiente 
 modalidad o especialidad deportiva.
 
-https://sede.gobiernodecanarias.org/boc
-boc-a-2026-039-641
-Boletín Oficial de Canarias núm. 39 Jueves 26 de febrero de 20267318
 Excepcionalmente y de acuerdo con lo establecido en el artículo 29, apartado 4, del Real 
 Decreto 1363/2007, de 24 de octubre, se podrá autorizar el acceso al bloque común del ciclo 
 final o segundo nivel de Grado Medio sin haber concluido el módulo de formación práctica 
@@ -2594,9 +2453,6 @@ ANEXO IX. DECLARACIÓN RESPONSABLE DE ALÉRGENOS.
 ANEXO X. SOLICITUD DE PLAZA PARA GRADOS D CON V ACANTES SIN LISTA DE 
 RESERV A.
 
-boc-a-2026-039-641
-Boletín Oficial de Canarias núm. 39 Jueves 26 de febrero de 20267319
-https://sede.gobiernodecanarias.org/boc
 ANEXO I
 CONSEJO ORIENTADOR PARA EL ALUMNADO PROPUESTO PARA CURSAR UN 
 CICLO FORMATIVO DE GRADO BÁSICO
@@ -2650,9 +2506,6 @@ ANEXO I
 CONSEJO ORIENTADOR PARA EL ALUMNADO PROPUESTO PARA CURSAR  
 UN CICLO FORMATIVO DE GRADO BÁSICO
 
-boc-a-2026-039-641
-Boletín Oficial de Canarias núm. 39 Jueves 26 de febrero de 20267320
-https://sede.gobiernodecanarias.org/boc
 Del análisis anterior se ha concluido que el grado de adquisición de las competencias clave del alumno o  alumna, así como el  
 resto de los aspectos valorados, hace aconsejable:
 Su incorporación a un ciclo formativo de grado básico para el que reúne los requisitos establecidos en el artículo 41.1 de la  
@@ -2663,9 +2516,6 @@ En ………………………………, a ………. de …………………�
 El tutor/La tutora El orientador/La orientadora
 Firmado:  Firmado:  
 
-boc-a-2026-039-641
-Boletín Oficial de Canarias núm. 39 Jueves 26 de febrero de 20267321
-https://sede.gobiernodecanarias.org/boc
 ANEXO II
 PETICIÓN DEL ALUMNADO PARA REALIZAR UN CICLO FORMATIVO DE GRADO BÁSICO
 Nombre  y  apellidos  del  alumno  o  alumna:  ………………………………………………………………………………………….
@@ -2686,9 +2536,6 @@ ANEXO II
 PETICIÓN DEL ALUMNADO PARA REALIZAR UN CICLO FORMATIVO  
 DE GRADO BÁSICO
 
-boc-a-2026-039-641
-Boletín Oficial de Canarias núm. 39 Jueves 26 de febrero de 20267322
-https://sede.gobiernodecanarias.org/boc
   ANEXO III
 CONSENTIMIENTO PARA REALIZAR UN CICLO FORMATIVO DE GRADO BÁSICO
 Don/Doña…………………………………………………………………………………con
@@ -2711,9 +2558,6 @@ Firmado:
 ANEXO III
 CONSENTIMIENTO PARA REALIZAR UN CICLO FORMATIVO DE GRADO BÁSICO
 
-boc-a-2026-039-641
-Boletín Oficial de Canarias núm. 39 Jueves 26 de febrero de 20267323
-https://sede.gobiernodecanarias.org/boc
 ANEXO IV
 Procedimiento de admisión.
 (Vía preferente de ciclo formativo de grado básico/ formación profesional básica a ciclo formativo de 
@@ -2768,9 +2612,6 @@ Química.
 Transporte y Mantenimiento de Vehículos.
 ANEXO IV
 
-boc-a-2026-039-641
-Boletín Oficial de Canarias núm. 39 Jueves 26 de febrero de 20267324
-https://sede.gobiernodecanarias.org/boc
 ANEXO V
 CRITERIOS DE ADMISIÓN EN CICLOS FORMATIVOS DE GRADO 
 SUPERIOR. MODALIDAD Y MATERIAS DE BACHILLERATO DE 
@@ -2809,9 +2650,6 @@ ANEXO V
 CRITERIOS DE ADMISIÓN EN CICLOS FORMATIVOS DE GRADO SUPERIOR. 
 MODALIDAD Y MATERIAS DE BACHILLERATO DE ACCESO PREFERENTE
 
-boc-a-2026-039-641
-Boletín Oficial de Canarias núm. 39 Jueves 26 de febrero de 20267325
-https://sede.gobiernodecanarias.org/boc
 ANEXO VI
 CICLOS FORMATIVOS DE GRADO MEDIO QUE DAN PRIORIDAD PARA 
 ACCEDER A CICLOS FORMATIVOS DE GRADO SUPERIOR
@@ -2890,9 +2728,6 @@ ANEXO VI
 CICLOS FORMATIVOS DE GRADO MEDIO QUE DAN PRIORIDAD PARA ACCEDER 
 A CICLOS FORMATIVOS DE GRADO SUPERIOR
 
-boc-a-2026-039-641
-Boletín Oficial de Canarias núm. 39 Jueves 26 de febrero de 20267326
-https://sede.gobiernodecanarias.org/boc
 Familia 
 profesional
 Ciclos formativos de grado 
@@ -2971,9 +2806,6 @@ informáticos en red.
 multiplataforma.
 • Desarrollo de aplicaciones web.
 
-boc-a-2026-039-641
-Boletín Oficial de Canarias núm. 39 Jueves 26 de febrero de 20267327
-https://sede.gobiernodecanarias.org/boc
 Familia 
 profesional
 Ciclos formativos de grado 
@@ -3063,9 +2895,6 @@ y sostenible.
 • Mediación comunicativa.
 • Promoción de igualdad de género.
 
-boc-a-2026-039-641
-Boletín Oficial de Canarias núm. 39 Jueves 26 de febrero de 20267328
-https://sede.gobiernodecanarias.org/boc
 Familia 
 profesional
 Ciclos formativos de grado 
@@ -3117,9 +2946,6 @@ Vidrio y Cerámica Fabricación de productos cerámicos.
 • Desarrollo y fabricación de productos
 cerámicos.
 
-boc-a-2026-039-641
-Boletín Oficial de Canarias núm. 39 Jueves 26 de febrero de 20267329
-https://sede.gobiernodecanarias.org/boc
 ANEXO VII
 PUBLICACIÓN DE V ACANTES DE FORMACIÓN PROFESIONAL Y 
 RESERV AS CONVOCADAS DE ADMISIÓN. GRADOS D
@@ -3158,9 +2984,6 @@ ANEXO VII
 PUBLICACIÓN DE V ACANTES DE FORMACIÓN PROFESIONAL Y RESERV AS 
 CONVOCADAS DE ADMISIÓN. GRADOS D
 
-boc-a-2026-039-641
-Boletín Oficial de Canarias núm. 39 Jueves 26 de febrero de 20267330
-https://sede.gobiernodecanarias.org/boc
 ANEXO VIII
 DECLARACIÓN JURADA O DE RESPONSABILIDAD DE NO SIMULTANEAR ESTUDIOS 
 COMPLETOS
@@ -3180,9 +3003,6 @@ ANEXO VIII
 DECLARACIÓN JURADA O DE RESPONSABILIDAD DE NO SIMULTANEAR 
 ESTUDIOS COMPLETOS
 
-boc-a-2026-039-641
-Boletín Oficial de Canarias núm. 39 Jueves 26 de febrero de 20267331
-https://sede.gobiernodecanarias.org/boc
 ANEXO IX
 DECLARACIÓN RESPONSABLE DE ALÉRGENOS
 D./Dña. …………………………………………………..…………., con NIF/NIE n.º  ………………….., y domicilio a  
@@ -3207,9 +3027,6 @@ datos-caracter-personal/
 ANEXO IX
 DECLARACIÓN RESPONSABLE DE ALÉRGENOS
 
-boc-a-2026-039-641
-Boletín Oficial de Canarias núm. 39 Jueves 26 de febrero de 20267332
-https://sede.gobiernodecanarias.org/boc
 RESERV A. CURSO 2026/2027
 FECHA HORA
 1 DATOS PERSONALES DEL ALUMNO/A  SOLICITANTE: 

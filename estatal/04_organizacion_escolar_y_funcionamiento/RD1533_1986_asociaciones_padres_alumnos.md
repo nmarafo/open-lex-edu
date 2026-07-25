@@ -48,29 +48,23 @@ El artículo 5.º de la Ley Orgánica 8/1985, de 3 de julio, reguladora del Dere
 
 En su virtud, a propuesta del Ministro de Educación y Ciencia, previo informe del Consejo Nacional de Educación, de acuerdo con el Consejo de Estado y previa deliberación del Consejo de Ministros en su reunión del día 11 de julio de 1986,
 
-
 **DISPONGO:**
-
 
 #### Artículo 1.º
 
 De acuerdo con lo dispuesto en el artículo 5.º de la Ley Orgánica reguladora del Derecho a la Educación, los padres de alumnos tienen garantizada la libertad de asociación en el ámbito educativo.
 
-
 #### Art. 2.º
 
 A efectos de lo dispuesto en este Real Decreto, se considerarán asociaciones de padres de alumnos las que se constituyan en los Centros docentes, públicos o privados, que impartan enseñanzas de Educación Preescolar, Educación General Básica, Bachillerato y Formación Profesional.
-
 
 #### Art. 3.º
 
 Únicamente podrán ser miembros de las citadas asociaciones los padres o tutores de los alumnos que cursen estudios en los Centros docentes a que se refiere el artículo anterior.
 
-
 #### Art. 4.º
 
 Las asociaciones de padres de alumnos se regirán por la Ley Orgánica reguladora del Derecho a la Educación y por el presente Real Decreto en lo referente a sus características específicas, y por la legislación de asociaciones en los aspectos generales que les sean de aplicación.
-
 
 #### Art. 5.º
 
@@ -88,11 +82,9 @@ e) Facilitar la representación y la participación de los padres de alumnos en 
 
 f)	Cualesquiera otras que, en el marco de la normativa a que se refiere el artículo anterior, le asignen sus respectivos estatutos.
 
-
 #### Art. 6.º
 
 La constitución de las asociaciones de padres de alumnos se efectuará mediante acta en la que conste la voluntad de varios padres o tutores de alumnos de crear una asociación para el cumplimiento de las finalidades a que se refiere el artículo anterior.
-
 
 #### Art. 7.º
 
@@ -114,7 +106,6 @@ g)	Patrimonio fundacional, recursos económicos previstos y aplicación que haya
 
 h)	Régimen de modificación de los estatutos.
 
-
 #### Art. 8.º
 
 1. Las asociaciones de padres de alumnos presentarán en el Ministerio de Educación y Ciencia el acta y los estatutos, así como las modificaciones de éstos, cambios de domicilio, o en su caso, cualquier circunstancia relevante en la vida de la asociación.
@@ -123,7 +114,6 @@ h)	Régimen de modificación de los estatutos.
 
 3. La inclusión en el censo, que en todo caso tendrá carácter declarativo, se entenderá producida si, transcurridos dos meses desde la presentación del acta y de los estatutos, no hubiera recaído resolución expresa.
 
-
 #### Art. 9.º
 
 1. Las asociaciones de padres de alumnos podrán utilizar los locales de los Centros docentes para la realización de las actividades que les son propias, a cuyo efecto los Directores de los Centros facilitarán la integración de dichas actividades en la vida escolar, teniendo en cuenta el normal desarrollo de la misma.
@@ -131,7 +121,6 @@ h)	Régimen de modificación de los estatutos.
 2. A efectos de la utilización de los locales a que se refiere el apartado anterior, será necesaria la previa comunicación de la Junta directiva de la asociación a la dirección del Centro, de acuerdo con lo que disponga el reglamento orgánico del mismo o, en su caso, el reglamento de régimen interior.
 
 3. Los Directores de los Centros públicos, dentro de los medios materiales de que dispongan, facilitarán el uso de un local para el desarrollo de las actividades internas de carácter permanente de las asociaciones constituidas en los mismos, siempre que sea solicitado por éstas.
-
 
 #### Art. 10.
 
@@ -143,33 +132,27 @@ h)	Régimen de modificación de los estatutos.
 
 4. Cuando las asociaciones tengan que abonar gastos al Centro derivados del uso de las instalaciones y servicios del mismo, y no haya acuerdo en lo que a la cuantía se refiere entre el Director del Centro y la asociación resolverán los correspondientes órganos provinciales del Ministerio de Educación y Ciencia. En el caso de los Centros públicos de Educación General Básica será preceptivo el informe de la autoridad municipal correspondiente.
 
-
 #### Art. 11.
 
 1. Las asociaciones de padres de alumnos podrán federarse en el nivel local o en ámbitos territoriales más amplios, así como confederarse.
 
 2. La constitución de federaciones o confederaciones se comunicará al Ministerio de Educación y Ciencia a los efectos de su inclusión en el censo a que se refiere el artículo 8.º
 
-
 #### Art. 12.
 
 La participación de los padres de alumnos en los consejos escolares a que se refiere el artículo 35 de la Ley Orgánica reguladora del Derecho a la Educación, se realizará a través de las federaciones de asociaciones de padres de alumnos más representativas en la forma que establezcan las disposiciones de organización y funcionamiento de dichos consejos.
-
 
 #### Art. 13.
 
 La participación de los padres de alumnos en el Consejo Escolar del Estado se realizará a través de las confederaciones de asociaciones de padres de alumnos más representativa en función del número de padres asociados en cada una de las asociaciones o federaciones integradas en la confederación.
 
-
 #### Art. 14.
 
 Las entidades objeto de este Real Decreto que se incorporen a otras agrupaciones o entidades de carácter internacional, o adopten denominaciones alusivas a las mismas, deberán comunicarlo al Ministerio de Educación y Ciencia.
 
-
 #### Art. 15.
 
 El Ministerio de Educación y Ciencia facilitará la constitución de asociaciones, federaciones y confederaciones de padres de alumnos mediante la prestación del asesoramiento técnico que se solicite de sus órganos centrales y provinciales competentes en la materia.
-
 
 #### Art. 16.
 
@@ -177,16 +160,13 @@ El Ministerio de Educación y Ciencia fomentará las actividades de las asociaci
 
 [encabezado]DISPOSICIONES ADICIONALES
 
-
 #### [precepto]Primera.
 
 El Ministerio de Educación y Ciencia adaptará lo dispuesto en este Real Decreto a los Conservatorios de Música, Escuelas de Idiomas, Escuelas de Artes Aplicadas y Oficios Artísticos y otros Centros con modalidades singulares.
 
-
 #### [precepto]Segunda.
 
 Este reglamento será de aplicación en el ámbito territorial de las Comunidades Autónomas que tengan atribuida competencia al efecto en tanto no desarrollen lo establecido en el artículo 5.º de la Ley Orgánica reguladora del Derecho a la Educación, de conformidad con su disposición adicional primera punto uno, y mientras no tengan transferidos los servicios correspondientes; en todo caso, este reglamento se aplicará para integrar las disposiciones autonómicas.
-
 
 #### DISPOSICIÓN TRANSITORIA
 
@@ -196,15 +176,11 @@ Las modificaciones estatutarias, que ello comporte, serán comunicadas al Minist
 
 [encabezado]DISPOSICIONES FINALES
 
-
 #### [precepto]Primera.
 
 Se autoriza al Ministerio de Educación y Ciencia para dictar las disposiciones de ejecución y desarrollo de lo establecido en el presente Real Decreto.
 
-
 #### [precepto]Segunda.
-
-El presente Real Decreto entrará en vigor el día siguiente al de su publicación en el «Boletín Oficial del Estado».
 
 Dado en Madrid a 11 de julio de 1986.
 

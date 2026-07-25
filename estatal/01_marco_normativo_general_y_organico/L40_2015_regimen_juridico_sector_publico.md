@@ -36,9 +36,7 @@ fundamentos_derecho:
 
 # Ley 40/2015 del Régimen Jurídico del Sector Público
 
-
 **FELIPE VI**
-
 
 **REY DE ESPAÑA**
 
@@ -46,9 +44,7 @@ A todos los que la presente vieren y entendieren.
 
 Sabed: Que las Cortes Generales han aprobado y Yo vengo en sancionar la siguiente ley:
 
-
 ## PREÁMBULO
-
 
 **I**
 
@@ -72,7 +68,6 @@ El Informe CORA recomienda reformar el ordenamiento jurídico administrativo no 
 
 La Organización para la Cooperación y Desarrollo Económico (en adelante OCDE), ha valorado la reforma administrativa emprendida por la CORA de forma muy positiva. En el informe emitido sobre ella, señala que el paquete de reforma es resultado de un riguroso proceso de recolección de datos, diálogo entre profesionales y diagnóstico de las debilidades de la Administraciones Públicas españolas. Considera la OCDE que el conjunto de asuntos políticos incluidos en la reforma (por ejemplo, gobierno electrónico, relaciones de gobernanza multinivel, buena regulación, reformas presupuestarias), junto con las iniciativas paralelas adoptadas en los dos últimos años en áreas como estabilidad presupuestaria, transparencia y regeneración democrática, explica uno de los más ambiciosos procesos de reforma realizados en un país de la OCDE. La presente Ley, por tanto, no representa el único instrumento normativo que materializa la reforma, Pero sí constituye, junto con la que disciplinará el procedimiento administrativo, de tramitación paralela, y las ya aprobadas sobre transparencia y buen gobierno y estabilidad presupuestaria, la piedra angular sobre la que se edificará la Administración Pública española del futuro, al servicio de los ciudadanos.
 
-
 **II**
 
 La Ley comienza estableciendo, en sus disposiciones generales, los principios de actuación y de funcionamiento del sector público español.
@@ -89,7 +84,6 @@ También se incorporan en este Título los principios relativos al ejercicio de 
 
 Por último, se regulan en el Título Preliminar los convenios administrativos, en la línea prevista en el Dictamen 878 del Tribunal de Cuentas, de 30 de noviembre, de 2010, que recomendaba sistematizar su marco legal y tipología, establecer los requisitos para su validez, e imponer la obligación de remitirlos al propio Tribunal. De este modo, se desarrolla un régimen completo de los convenios, que fija su contenido mínimo, clases, duración, y extinción y asegura su control por el Tribunal de Cuentas.
 
-
 **III**
 
 En relación con la Administración del Estado, el Título primero parte de la regulación contenida en la Ley 6/1997, de 14 de abril, aplicando ciertas mejoras que el tiempo ha revelado necesarias. Se establecen los órganos superiores y directivos propios de la estructura ministerial y también en el ámbito de la Administración periférica y en el exterior. En el caso de los organismos públicos, serán sus estatutos los que establezcan sus órganos directivos.
@@ -101,7 +95,6 @@ Se integran en esta Ley funciones de los Ministros que, hasta ahora, estaban dis
 Se atribuyen también expresamente a la Subsecretaría del Ministerio de la Presidencia, en coordinación con la Secretaría General de la Presidencia del Gobierno, las competencias propias de los servicios comunes de los Departamentos en relación con el área de la Presidencia del Gobierno. Debe recordarse que, al tratarse de un ámbito ajeno a la estructura del propio departamento ministerial, esta atribución excede del real decreto en que se fije la estructura orgánica de aquél.
 
 Con el objeto de evitar la proliferación de centros encargados de la prestación de servicios administrativos en cada ente o unidad, y facilitar que los mismos se provean por órganos especializados en el ámbito del Ministerio o de forma centralizada para toda la Administración, se prevé la posibilidad de que la organización y gestión de los servicios comunes de los Ministerios y entidades dependientes pueda ser coordinada por el Ministerio de Hacienda y Administraciones Públicas u otro organismo público; o bien por la Subsecretaría de cada departamento.
-
 
 **IV**
 
@@ -122,7 +115,6 @@ Se recoge legalmente la existencia de un órgano que se ha revelado como fundame
 La Ley también prevé expresamente la existencia de la Comisión Interministerial de Coordinación de la Administración Periférica del Estado, cuyas atribuciones, composición y funcionamiento serán objeto de regulación reglamentaria.
 
 Por lo que se refiere a la Administración General del Estado en el exterior, se efectúa una remisión a la Ley 2/2014, de 25 de marzo, de la Acción y del Servicio Exterior del Estado, y a su normativa de desarrollo, declarándose la aplicación supletoria de la presente Ley.
-
 
 **V**
 
@@ -202,7 +194,6 @@ Se establece el régimen jurídico de las fundaciones del sector público estata
 
 Se regulan por último en este Título los fondos carentes de personalidad jurídica del sector público estatal, figura cuya frecuente utilización demandaba el establecimiento de un régimen jurídico, y que deberán crearse por ley.
 
-
 **VI**
 
 El Título III establece un régimen completo de las relaciones entre las distintas Administraciones Públicas, que deberán sujetarse a nuevos principios rectores cuya última ratio se halla en los artículos 2, 14 y 138 de la Constitución, como la adecuación al sistema de distribución de competencias, la solidaridad interterritorial, la programación y evaluación de resultados y el respeto a la igualdad de derechos de todos los ciudadanos.
@@ -228,8 +219,6 @@ En las disposiciones adicionales de la Ley se recogen, entre otras materias, la 
 En las disposiciones transitorias se establece el régimen aplicable al sector público institucional existente en la entrada en vigor de la Ley, así como las reglas aplicables a los procedimientos de elaboración de normas en curso.
 
 En la disposición derogatoria única se recoge la normativa y las disposiciones de igual o inferior rango que quedan derogadas.
-
-Entre las disposiciones finales se incluye la modificación de la regulación del Gobierno contenida en la Ley 50/1997, de 27 de noviembre; también se modifica la Ley 33/2003, de 3 de noviembre; se establecen los títulos competenciales en base a los cuales se dicta la Ley, la habilitación para su desarrollo normativo; y la entrada en vigor, prevista para un año después de la publicación de la Ley en el «Boletín Oficial del Estado».
 
 Las modificaciones introducidas en la actual Ley del Gobierno suponen una serie de trascendentes novedades. Así, se adecúa el régimen de los miembros del Gobierno a las previsiones de la Ley 3/2015, de 30 de marzo, reguladora del ejercicio del alto cargo de la Administración General del Estado. En cuanto al Presidente del Gobierno, a los Vicepresidentes y a los Ministros, se introducen mejoras técnicas sobre el procedimiento y formalidades del cese. En el caso de que existan Ministros sin cartera, por Real Decreto se determinará el ámbito de sus competencias, la estructura administrativa, así como los medios materiales y personales que queden adscritos a dichos órganos.
 
@@ -257,9 +246,7 @@ Estas importantes novedades, tributarias de las iniciativas llevadas a cabo sobr
 
 En segundo lugar, se extrae el artículo dedicado al control del Gobierno del Título V, en el que impropiamente se encontraba, de modo que pasa a constituir uno específico con este exclusivo contenido, con una redacción mas acorde con la normativa reguladora de la jurisdicción contencioso-administrativa.
 
-
 ## TÍTULO PRELIMINAR
-
 
 **Disposiciones generales, principios de actuación y funcionamiento del sector público**
 
@@ -267,11 +254,9 @@ CAPÍTULO I
 
 Disposiciones generales
 
-
 #### Artículo 1. Objeto.
 
 La presente Ley establece y regula las bases del régimen jurídico de las Administraciones Públicas, los principios del sistema de responsabilidad de las Administraciones Públicas y de la potestad sancionadora, así como la organización y funcionamiento de la Administración General del Estado y de su sector público institucional para el desarrollo de sus actividades.
-
 
 #### Artículo 2. Ámbito Subjetivo.
 
@@ -294,7 +279,6 @@ b) Las entidades de derecho privado vinculadas o dependientes de las Administrac
 c) Las Universidades públicas que se regirán por su normativa específica y supletoriamente por las previsiones de la presente Ley.
 
 3. Tienen la consideración de Administraciones Públicas la Administración General del Estado, las Administraciones de las Comunidades Autónomas, las Entidades que integran la Administración Local, así como los organismos públicos y entidades de derecho público previstos en la letra a) del apartado 2.
-
 
 #### Artículo 3. Principios generales.
 
@@ -330,7 +314,6 @@ k) Cooperación, colaboración y coordinación entre las Administraciones Públi
 
 4. Cada una de las Administraciones Públicas del artículo 2 actúa para el cumplimiento de sus fines con personalidad jurídica única.
 
-
 #### Artículo 4. Principios de intervención de las Administraciones Públicas para el desarrollo de una actividad.
 
 1. Las Administraciones Públicas que, en el ejercicio de sus respectivas competencias, establezcan medidas que limiten el ejercicio de derechos individuales o colectivos o exijan el cumplimiento de requisitos para el desarrollo de una actividad, deberán aplicar el principio de proporcionalidad y elegir la medida menos restrictiva, motivar su necesidad para la protección del interés público así como justificar su adecuación para lograr los fines que se persiguen, sin que en ningún caso se produzcan diferencias de trato discriminatorias. Asimismo deberán evaluar periódicamente los efectos y resultados obtenidos.
@@ -342,7 +325,6 @@ CAPÍTULO II
 De los órganos de las Administraciones Públicas
 
 Sección 1.ª De los órganos administrativos
-
 
 #### Artículo 5. Órganos administrativos.
 
@@ -360,7 +342,6 @@ c) Dotación de los créditos necesarios para su puesta en marcha y funcionamien
 
 4. No podrán crearse nuevos órganos que supongan duplicación de otros ya existentes si al mismo tiempo no se suprime o restringe debidamente la competencia de estos. A este objeto, la creación de un nuevo órgano sólo tendrá lugar previa comprobación de que no existe otro en la misma Administración Pública que desarrolle igual función sobre el mismo territorio y población.
 
-
 #### Artículo 6. Instrucciones y órdenes de servicio.
 
 1. Los órganos administrativos podrán dirigir las actividades de sus órganos jerárquicamente dependientes mediante instrucciones y órdenes de servicio.
@@ -369,7 +350,6 @@ Cuando una disposición específica así lo establezca, o se estime conveniente 
 
 2. El incumplimiento de las instrucciones u órdenes de servicio no afecta por sí solo a la validez de los actos dictados por los órganos administrativos, sin perjuicio de la responsabilidad disciplinaria en que se pueda incurrir.
 
-
 #### Artículo 7. Órganos consultivos.
 
 La Administración consultiva podrá articularse mediante órganos específicos dotados de autonomía orgánica y funcional con respecto a la Administración activa, o a través de los servicios de esta última que prestan asistencia jurídica.
@@ -377,7 +357,6 @@ La Administración consultiva podrá articularse mediante órganos específicos 
 En tal caso, dichos servicios no podrán estar sujetos a dependencia jerárquica, ya sea orgánica o funcional, ni recibir instrucciones, directrices o cualquier clase de indicación de los órganos que hayan elaborado las disposiciones o producido los actos objeto de consulta, actuando para cumplir con tales garantías de forma colegiada.
 
 Sección 2.ª Competencia
-
 
 #### Artículo 8. Competencia.
 
@@ -388,7 +367,6 @@ La delegación de competencias, las encomiendas de gestión, la delegación de f
 2. La titularidad y el ejercicio de las competencias atribuidas a los órganos administrativos podrán ser desconcentradas en otros jerárquicamente dependientes de aquéllos en los términos y con los requisitos que prevean las propias normas de atribución de competencias.
 
 3. Si alguna disposición atribuye la competencia a una Administración, sin especificar el órgano que debe ejercerla, se entenderá que la facultad de instruir y resolver los expedientes corresponde a los órganos inferiores competentes por razón de la materia y del territorio. Si existiera más de un órgano inferior competente por razón de materia y territorio, la facultad para instruir y resolver los expedientes corresponderá al superior jerárquico común de estos.
-
 
 #### Artículo 9. Delegación de competencias.
 
@@ -408,8 +386,6 @@ c) La resolución de recursos en los órganos administrativos que hayan dictado 
 
 d) Las materias en que así se determine por norma con rango de Ley.
 
-3. Las delegaciones de competencias y su revocación deberán publicarse en el «Boletín Oficial del Estado», en el de la Comunidad Autónoma o en el de la Provincia, según la Administración a que pertenezca el órgano delegante, y el ámbito territorial de competencia de éste.
-
 4. Las resoluciones administrativas que se adopten por delegación indicarán expresamente esta circunstancia y se considerarán dictadas por el órgano delegante.
 
 5. Salvo autorización expresa de una Ley, no podrán delegarse las competencias que se ejerzan por delegación.
@@ -420,7 +396,6 @@ No constituye impedimento para que pueda delegarse la competencia para resolver 
 
 7. El acuerdo de delegación de aquellas competencias atribuidas a órganos colegiados, para cuyo ejercicio se requiera un quórum o mayoría especial, deberá adoptarse observando, en todo caso, dicho quórum o mayoría.
 
-
 #### Artículo 10. Avocación.
 
 1. Los órganos superiores podrán avocar para sí el conocimiento de uno o varios asuntos cuya resolución corresponda ordinariamente o por delegación a sus órganos administrativos dependientes, cuando circunstancias de índole técnica, económica, social, jurídica o territorial lo hagan conveniente.
@@ -430,7 +405,6 @@ En los supuestos de delegación de competencias en órganos no dependientes jer�
 2. En todo caso, la avocación se realizará mediante acuerdo motivado que deberá ser notificado a los interesados en el procedimiento, si los hubiere, con anterioridad o simultáneamente a la resolución final que se dicte.
 
 Contra el acuerdo de avocación no cabrá recurso, aunque podrá impugnarse en el que, en su caso, se interponga contra la resolución del procedimiento.
-
 
 #### Artículo 11. Encomiendas de gestión.
 
@@ -444,12 +418,7 @@ En todo caso, la Entidad u órgano encomendado tendrá la condición de encargad
 
 3. La formalización de las encomiendas de gestión se ajustará a las siguientes reglas:
 
-a) Cuando la encomienda de gestión se realice entre órganos administrativos o Entidades de Derecho Público pertenecientes a la misma Administración deberá formalizarse en los términos que establezca su normativa propia y, en su defecto, por acuerdo expreso de los órganos o Entidades de Derecho Público intervinientes. En todo caso, el instrumento de formalización de la encomienda de gestión y su resolución deberá ser publicada, para su eficacia, en el Boletín Oficial del Estado, en el Boletín oficial de la Comunidad Autónoma o en el de la Provincia, según la Administración a que pertenezca el órgano encomendante.
-
 Cada Administración podrá regular los requisitos necesarios para la validez de tales acuerdos que incluirán, al menos, expresa mención de la actividad o actividades a las que afecten, el plazo de vigencia y la naturaleza y alcance de la gestión encomendada.
-
-b) Cuando la encomienda de gestión se realice entre órganos y Entidades de Derecho Público de distintas Administraciones se formalizará mediante firma del correspondiente convenio entre ellas, que deberá ser publicado en el «Boletín Oficial del Estado», en el Boletín oficial de la Comunidad Autónoma o en el de la Provincia, según la Administración a que pertenezca el órgano encomendante, salvo en el supuesto de la gestión ordinaria de los servicios de las Comunidades Autónomas por las Diputaciones Provinciales o en su caso Cabildos o Consejos insulares, que se regirá por la legislación de Régimen Local.
-
 
 #### Artículo 12. Delegación de firma.
 
@@ -458,7 +427,6 @@ b) Cuando la encomienda de gestión se realice entre órganos y Entidades de Der
 2. La delegación de firma no alterará la competencia del órgano delegante y para su validez no será necesaria su publicación.
 
 3. En las resoluciones y actos que se firmen por delegación se hará constar esta circunstancia y la autoridad de procedencia.
-
 
 #### Artículo 13. Suplencia.
 
@@ -476,7 +444,6 @@ b) Por el órgano competente para el nombramiento del titular, bien en el propio
 
 4. En las resoluciones y actos que se dicten mediante suplencia, se hará constar esta circunstancia y se especificará el titular del órgano en cuya suplencia se adoptan y quien efectivamente está ejerciendo esta suplencia.
 
-
 #### Artículo 14. Decisiones sobre competencia.
 
 1. El órgano administrativo que se estime incompetente para la resolución de un asunto remitirá directamente las actuaciones al órgano que considere competente, debiendo notificar esta circunstancia a los interesados.
@@ -489,9 +456,7 @@ Asimismo, podrán dirigirse al órgano que estimen competente para que requiera 
 
 Sección 3.ª Órganos colegiados de las distintas administraciones públicas
 
-
 **Subsección 1.ª Funcionamiento**
-
 
 #### Artículo 15. Régimen.
 
@@ -505,7 +470,6 @@ Los órganos colegiados a que se refiere este apartado quedarán integrados en l
 
 Cuando se trate de un órgano colegiado a los que se refiere el apartado 2 de este artículo la citada publicidad se realizará por la Administración a quien corresponda la Presidencia.
 
-
 #### Artículo 16. Secretario.
 
 1. Los órganos colegiados tendrán un Secretario que podrá ser un miembro del propio órgano o una persona al servicio de la Administración Pública correspondiente.
@@ -513,7 +477,6 @@ Cuando se trate de un órgano colegiado a los que se refiere el apartado 2 de e
 2. Corresponderá al Secretario velar por la legalidad formal y material de las actuaciones del órgano colegiado, certificar las actuaciones del mismo y garantizar que los procedimientos y reglas de constitución y adopción de acuerdos son respetadas.
 
 3. En caso de que el Secretario no miembro sea suplido por un miembro del órgano colegiado, éste conservará todos sus derechos como tal.
-
 
 #### Artículo 17. Convocatorias y sesiones.
 
@@ -539,7 +502,6 @@ Salvo que no resulte posible, las convocatorias serán remitidas a los miembros 
 
 7. Quienes acrediten la titularidad de un interés legítimo podrán dirigirse al Secretario de un órgano colegiado para que les sea expedida certificación de sus acuerdos. La certificación será expedida por medios electrónicos, salvo que el interesado manifieste expresamente lo contrario y no tenga obligación de relacionarse con las Administraciones por esta vía.
 
-
 #### Artículo 18. Actas.
 
 1. De cada sesión que celebre el órgano colegiado se levantará acta por el Secretario, que especificará necesariamente los asistentes, el orden del día de la reunión, las circunstancias del lugar y tiempo en que se ha celebrado, los puntos principales de las deliberaciones, así como el contenido de los acuerdos adoptados.
@@ -550,9 +512,7 @@ Podrán grabarse las sesiones que celebre el órgano colegiado. El fichero resul
 
 Cuando se hubiese optado por la grabación de las sesiones celebradas o por la utilización de documentos en soporte electrónico, deberán conservarse de forma que se garantice la integridad y autenticidad de los ficheros electrónicos correspondientes y el acceso a los mismos por parte de los miembros del órgano colegiado.
 
-
 **Subsección 2.ª De los órganos colegiados en la Administración General del Estado**
-
 
 #### Artículo 19. Régimen de los órganos colegiados de la Administración General del Estado y de las Entidades de Derecho Público vinculadas o dependientes de ella.
 
@@ -626,7 +586,6 @@ Las actas se aprobarán en la misma o en la siguiente sesión, pudiendo no obsta
 
 En las certificaciones de acuerdos adoptados emitidas con anterioridad a la aprobación del acta se hará constar expresamente tal circunstancia.
 
-
 #### Artículo 20. Requisitos para constituir órganos colegiados.
 
 1. Son órganos colegiados aquellos que se creen formalmente y estén integrados por tres o más personas, a los que se atribuyan funciones administrativas de decisión, propuesta, asesoramiento, seguimiento o control, y que actúen integrados en la Administración General del Estado o alguno de sus Organismos públicos.
@@ -645,7 +604,6 @@ e) La dotación de los créditos necesarios, en su caso, para su funcionamiento.
 
 3. El régimen jurídico de los órganos colegiados a que se refiere el apartado 1 de este artículo se ajustará a las normas contenidas en el artículo 19, sin perjuicio de las peculiaridades organizativas contenidas en la presente Ley o en su norma o convenio de creación.
 
-
 #### Artículo 21. Clasificación y composición de los órganos colegiados.
 
 1. Los órganos colegiados de la Administración General del Estado y de sus Organismos públicos, por su composición, se clasifican en:
@@ -658,10 +616,7 @@ b) Órganos colegiados ministeriales, si sus componentes proceden de los órgano
 
 3. En la composición de los órganos colegiados podrán participar, cuando así se determine, organizaciones representativas de intereses sociales, así como otros miembros que se designen por las especiales condiciones de experiencia o conocimientos que concurran en ellos, en atención a la naturaleza de las funciones asignadas a tales órganos.
 
-
 #### Artículo 22. Creación, modificación y supresión de órganos colegiados.
-
-1. La creación de órganos colegiados de la Administración General del Estado y de sus Organismos públicos sólo requerirá de norma específica, con publicación en el «Boletín Oficial del Estado», en los casos en que se les atribuyan cualquiera de las siguientes competencias:
 
 a) Competencias decisorias.
 
@@ -676,7 +631,6 @@ c) Competencias de seguimiento o control de las actuaciones de otros órganos de
 4. La modificación y supresión de los órganos colegiados y de los grupos o comisiones de trabajo de la Administración General del Estado y de los Organismos públicos se llevará a cabo en la misma forma dispuesta para su creación, salvo que ésta hubiera fijado plazo previsto para su extinción, en cuyo caso ésta se producirá automáticamente en la fecha señalada al efecto.
 
 Sección 4.ª Abstención y recusación
-
 
 #### Artículo 23. Abstención.
 
@@ -700,7 +654,6 @@ e) Tener relación de servicio con persona natural o jurídica interesada direct
 
 5. La no abstención en los casos en que concurra alguna de esas circunstancias dará lugar a la responsabilidad que proceda.
 
-
 #### Artículo 24. Recusación.
 
 1. En los casos previstos en el artículo anterior, podrá promoverse recusación por los interesados en cualquier momento de la tramitación del procedimiento.
@@ -717,7 +670,6 @@ CAPÍTULO III
 
 Principios de la potestad sancionadora
 
-
 #### Artículo 25. Principio de legalidad.
 
 1. La potestad sancionadora de las Administraciones Públicas se ejercerá cuando haya sido expresamente reconocida por una norma con rango de Ley, con aplicación del procedimiento previsto para su ejercicio y de acuerdo con lo establecido en esta Ley y en la Ley de Procedimiento Administrativo Común de las Administraciones Públicas y, cuando se trate de Entidades Locales, de conformidad con lo dispuesto en el Título XI de la Ley 7/1985, de 2 de abril.
@@ -728,13 +680,11 @@ Principios de la potestad sancionadora
 
 4. Las disposiciones de este capítulo no serán de aplicación al ejercicio por las Administraciones Públicas de la potestad sancionadora respecto de quienes estén vinculados a ellas por relaciones reguladas por la legislación de contratos del sector público o por la legislación patrimonial de las Administraciones Públicas.
 
-
 #### Artículo 26. Irretroactividad.
 
 1. Serán de aplicación las disposiciones sancionadoras vigentes en el momento de producirse los hechos que constituyan infracción administrativa.
 
 2. Las disposiciones sancionadoras producirán efecto retroactivo en cuanto favorezcan al presunto infractor o al infractor, tanto en lo referido a la tipificación de la infracción como a la sanción y a sus plazos de prescripción, incluso respecto de las sanciones pendientes de cumplimiento al entrar en vigor la nueva disposición.
-
 
 #### Artículo 27. Principio de tipicidad.
 
@@ -748,7 +698,6 @@ Las infracciones administrativas se clasificarán por la Ley en leves, graves y 
 
 4. Las normas definidoras de infracciones y sanciones no serán susceptibles de aplicación analógica.
 
-
 #### Artículo 28. Responsabilidad.
 
 1. Sólo podrán ser sancionadas por hechos constitutivos de infracción administrativa las personas físicas y jurídicas, así como, cuando una Ley les reconozca capacidad de obrar, los grupos de afectados, las uniones y entidades sin personalidad jurídica y los patrimonios independientes o autónomos, que resulten responsables de los mismos a título de dolo o culpa.
@@ -758,7 +707,6 @@ Las infracciones administrativas se clasificarán por la Ley en leves, graves y 
 3. Cuando el cumplimiento de una obligación establecida por una norma con rango de Ley corresponda a varias personas conjuntamente, responderán de forma solidaria de las infracciones que, en su caso, se cometan y de las sanciones que se impongan. No obstante, cuando la sanción sea pecuniaria y sea posible se individualizará en la resolución en función del grado de participación de cada responsable.
 
 4. Las leyes reguladoras de los distintos regímenes sancionadores podrán tipificar como infracción el incumplimiento de la obligación de prevenir la comisión de infracciones administrativas por quienes se hallen sujetos a una relación de dependencia o vinculación. Asimismo, podrán prever los supuestos en que determinadas personas responderán del pago de las sanciones pecuniarias impuestas a quienes de ellas dependan o estén vinculadas.
-
 
 #### Artículo 29. Principio de proporcionalidad.
 
@@ -782,7 +730,6 @@ d) La reincidencia, por comisión en el término de un año de más de una infra
 
 6. Será sancionable, como infracción continuada, la realización de una pluralidad de acciones u omisiones que infrinjan el mismo o semejantes preceptos administrativos, en ejecución de un plan preconcebido o aprovechando idéntica ocasión.
 
-
 #### Artículo 30. Prescripción.
 
 1. Las infracciones y sanciones prescribirán según lo dispuesto en las leyes que las establezcan. Si éstas no fijan plazos de prescripción, las infracciones muy graves prescribirán a los tres años, las graves a los dos años y las leves a los seis meses; las sanciones impuestas por faltas muy graves prescribirán a los tres años, las impuestas por faltas graves a los dos años y las impuestas por faltas leves al año.
@@ -797,7 +744,6 @@ Interrumpirá la prescripción la iniciación, con conocimiento del interesado, 
 
 En el caso de desestimación presunta del recurso de alzada interpuesto contra la resolución por la que se impone la sanción, el plazo de prescripción de la sanción comenzará a contarse desde el día siguiente a aquel en que finalice el plazo legalmente previsto para la resolución de dicho recurso.
 
-
 #### Artículo 31. Concurrencia de sanciones.
 
 1. No podrán sancionarse los hechos que lo hayan sido penal o administrativamente, en los casos en que se aprecie identidad del sujeto, hecho y fundamento.
@@ -809,7 +755,6 @@ CAPÍTULO IV
 De la responsabilidad patrimonial de las Administraciones Públicas
 
 Sección 1.ª Responsabilidad patrimonial de las Administraciones Públicas
-
 
 #### Artículo 32. Principios de la responsabilidad.
 
@@ -837,8 +782,6 @@ b) El incumplimiento ha de estar suficientemente caracterizado.
 
 c) Ha de existir una relación de causalidad directa entre el incumplimiento de la obligación impuesta a la Administración responsable por el Derecho de la Unión Europea y el daño sufrido por los particulares.
 
-6. La sentencia que declare la inconstitucionalidad de la norma con rango de ley o declare el carácter de norma contraria al Derecho de la Unión Europea producirá efectos desde la fecha de su publicación en el «Boletín Oficial del Estado» o en el «Diario Oficial de la Unión Europea», según el caso, salvo que en ella se establezca otra cosa.
-
 7. La responsabilidad patrimonial del Estado por el funcionamiento de la Administración de Justicia se regirá por la Ley Orgánica 6/1985, de 1 de julio, del Poder Judicial.
 
 8. El Consejo de Ministros fijará el importe de las indemnizaciones que proceda abonar cuando el Tribunal Constitucional haya declarado, a instancia de parte interesada, la existencia de un funcionamiento anormal en la tramitación de los recursos de amparo o de las cuestiones de inconstitucionalidad.
@@ -846,7 +789,6 @@ c) Ha de existir una relación de causalidad directa entre el incumplimiento de 
 El procedimiento para fijar el importe de las indemnizaciones se tramitará por el Ministerio de Justicia, con audiencia al Consejo de Estado.
 
 9. Se seguirá el procedimiento previsto en la Ley de Procedimiento Administrativo Común de las Administraciones Públicas para determinar la responsabilidad de las Administraciones Públicas por los daños y perjuicios causados a terceros durante la ejecución de contratos cuando sean consecuencia de una orden inmediata y directa de la Administración o de los vicios del proyecto elaborado por ella misma sin perjuicio de las especialidades que, en su caso establezca el Real Decreto Legislativo 3/2011, de 14 de noviembre, por el que se aprueba el texto refundido de la Ley de Contratos del Sector Público.
-
 
 #### Artículo 33. Responsabilidad concurrente de las Administraciones Públicas.
 
@@ -857,7 +799,6 @@ El procedimiento para fijar el importe de las indemnizaciones se tramitará por 
 3. En los casos previstos en el apartado primero, la Administración competente para incoar, instruir y resolver los procedimientos en los que exista una responsabilidad concurrente de varias Administraciones Públicas, será la fijada en los Estatutos o reglas de la organización colegiada. En su defecto, la competencia vendrá atribuida a la Administración Pública con mayor participación en la financiación del servicio.
 
 4. Cuando se trate de procedimientos en materia de responsabilidad patrimonial, la Administración Pública competente a la que se refiere el apartado anterior, deberá consultar a las restantes Administraciones implicadas para que, en el plazo de quince días, éstas puedan exponer cuanto consideren procedente.
-
 
 #### Artículo 34. Indemnización.
 
@@ -871,13 +812,11 @@ En los casos de responsabilidad patrimonial a los que se refiere los apartados 
 
 4. La indemnización procedente podrá sustituirse por una compensación en especie o ser abonada mediante pagos periódicos, cuando resulte más adecuado para lograr la reparación debida y convenga al interés público, siempre que exista acuerdo con el interesado.
 
-
 #### Artículo 35. Responsabilidad de Derecho Privado.
 
 Cuando las Administraciones Públicas actúen, directamente o a través de una entidad de derecho privado, en relaciones de esta naturaleza, su responsabilidad se exigirá de conformidad con lo previsto en los artículos 32 y siguientes, incluso cuando concurra con sujetos de derecho privado o la responsabilidad se exija directamente a la entidad de derecho privado a través de la cual actúe la Administración o a la entidad que cubra su responsabilidad.
 
 Sección 2.ª Responsabilidad de las autoridades y personal al servicio de las Administraciones Públicas
-
 
 #### Artículo 36. Exigencia de la responsabilidad patrimonial de las autoridades y personal al servicio de las Administraciones Públicas.
 
@@ -905,7 +844,6 @@ e) Resolución por el órgano competente en el plazo de cinco días.
 
 6. Lo dispuesto en los apartados anteriores, se entenderá sin perjuicio de pasar, si procede, el tanto de culpa a los Tribunales competentes.
 
-
 #### Artículo 37. Responsabilidad penal.
 
 1. La responsabilidad penal del personal al servicio de las Administraciones Públicas, así como la responsabilidad civil derivada del delito se exigirá de acuerdo con lo previsto en la legislación correspondiente.
@@ -915,7 +853,6 @@ e) Resolución por el órgano competente en el plazo de cinco días.
 CAPÍTULO V
 
 Funcionamiento electrónico del sector público
-
 
 #### Artículo 38. La sede electrónica.
 
@@ -931,11 +868,9 @@ Funcionamiento electrónico del sector público
 
 6. Las sedes electrónicas utilizarán, para identificarse y garantizar una comunicación segura con las mismas, certificados reconocidos o cualificados de autenticación de sitio web o medio equivalente.
 
-
 #### Artículo 39. Portal de internet.
 
 Se entiende por portal de internet el punto de acceso electrónico cuya titularidad corresponda a una Administración Pública, organismo público o entidad de Derecho Público que permite el acceso a través de internet a la información publicada y, en su caso, a la sede electrónica correspondiente.
-
 
 #### Artículo 40. Sistemas de identificación de las Administraciones Públicas.
 
@@ -943,13 +878,11 @@ Se entiende por portal de internet el punto de acceso electrónico cuya titulari
 
 2. Se entenderá identificada la Administración Pública respecto de la información que se publique como propia en su portal de internet.
 
-
 #### Artículo 41. Actuación administrativa automatizada.
 
 1. Se entiende por actuación administrativa automatizada, cualquier acto o actuación realizada íntegramente a través de medios electrónicos por una Administración Pública en el marco de un procedimiento administrativo y en la que no haya intervenido de forma directa un empleado público.
 
 2. En caso de actuación administrativa automatizada deberá establecerse previamente el órgano u órganos competentes, según los casos, para la definición de las especificaciones, programación, mantenimiento, supervisión y control de calidad y, en su caso, auditoría del sistema de información y de su código fuente. Asimismo, se indicará el órgano que debe ser considerado responsable a efectos de impugnación.
-
 
 #### Artículo 42. Sistemas de firma para la actuación administrativa automatizada.
 
@@ -959,13 +892,11 @@ a) Sello electrónico de Administración Pública, órgano, organismo público o
 
 b) Código seguro de verificación vinculado a la Administración Pública, órgano, organismo público o entidad de Derecho Público, en los términos y condiciones establecidos, permitiéndose en todo caso la comprobación de la integridad del documento mediante el acceso a la sede electrónica correspondiente.
 
-
 #### Artículo 43. Firma electrónica del personal al servicio de las Administraciones Públicas.
 
 1. Sin perjuicio de lo previsto en los artículos 38, 41 y 42, la actuación de una Administración Pública, órgano, organismo público o entidad de derecho público, cuando utilice medios electrónicos, se realizará mediante firma electrónica del titular del órgano o empleado público.
 
 2. Cada Administración Pública determinará los sistemas de firma electrónica que debe utilizar su personal, los cuales podrán identificar de forma conjunta al titular del puesto de trabajo o cargo y a la Administración u órgano en la que presta sus servicios. Por razones de seguridad pública los sistemas de firma electrónica podrán referirse sólo el número de identificación profesional del empleado público.
-
 
 #### Artículo 44. Intercambio electrónico de datos en entornos cerrados de comunicación.
 
@@ -977,13 +908,11 @@ b) Código seguro de verificación vinculado a la Administración Pública, órg
 
 4. En todo caso deberá garantizarse la seguridad del entorno cerrado de comunicaciones y la protección de los datos que se transmitan.
 
-
 #### Artículo 45. Aseguramiento e interoperabilidad de la firma electrónica.
 
 1. Las Administraciones Públicas podrán determinar los trámites e informes que incluyan firma electrónica reconocida o cualificada y avanzada basada en certificados electrónicos reconocidos o cualificados de firma electrónica.
 
 2. Con el fin de favorecer la interoperabilidad y posibilitar la verificación automática de la firma electrónica de los documentos electrónicos, cuando una Administración utilice sistemas de firma electrónica distintos de aquellos basados en certificado electrónico reconocido o cualificado, para remitir o poner a disposición de otros órganos, organismos públicos, entidades de Derecho Público o Administraciones la documentación firmada electrónicamente, podrá superponer un sello electrónico basado en un certificado electrónico reconocido o cualificado.
-
 
 #### Artículo 46. Archivo electrónico de documentos.
 
@@ -996,7 +925,6 @@ b) Código seguro de verificación vinculado a la Administración Pública, órg
 CAPÍTULO VI
 
 De los convenios
-
 
 #### Artículo 47. Definición y tipos de convenios.
 
@@ -1018,7 +946,6 @@ c) Convenios firmados entre una Administración Pública u organismo o entidad d
 
 d) Convenios no constitutivos ni de Tratado internacional, ni de Acuerdo internacional administrativo, ni de Acuerdo internacional no normativo, firmados entre las Administraciones Públicas y los órganos, organismos públicos o entes de un sujeto de Derecho internacional, que estarán sometidos al ordenamiento jurídico interno que determinen las partes.
 
-
 #### Artículo 48. Requisitos de validez y eficacia de los convenios.
 
 1. Las Administraciones Públicas, sus organismos públicos y entidades de derecho público vinculados o dependientes y las Universidades públicas, en el ámbito de sus respectivas competencias, podrán suscribir convenios con sujetos de derecho público y privado, sin que ello pueda suponer cesión de la titularidad de la competencia.
@@ -1039,10 +966,7 @@ Asimismo, cuando el convenio tenga por objeto la delegación de competencias en 
 
 8. Los convenios se perfeccionan por la prestación del consentimiento de las partes.
 
-Los convenios suscritos por la Administración General del Estado o alguno de sus organismos públicos o entidades de derecho público vinculados o dependientes resultarán eficaces una vez inscritos en el Registro Electrónico estatal de Órganos e Instrumentos de Cooperación del sector público estatal, al que se refiere la disposición adicional séptima y publicados en el «Boletín Oficial del Estado». Previamente y con carácter facultativo, se podrán publicar en el Boletín Oficial de la Comunidad Autónoma o de la provincia, que corresponda a la otra Administración firmante.
-
 9. Las normas del presente Capítulo no serán de aplicación a las encomiendas de gestión y los acuerdos de terminación convencional de los procedimientos administrativos.
-
 
 #### Artículo 49. Contenido de los convenios.
 
@@ -1070,7 +994,6 @@ h) Plazo de vigencia del convenio teniendo en cuenta las siguientes reglas:
 
 En el caso de convenios suscritos por la Administración General del Estado o alguno de sus organismos públicos y entidades de derecho público vinculados o dependientes, esta prórroga deberá ser comunicada al Registro Electrónico estatal de Órganos e Instrumentos de Cooperación al que se refiere la disposición adicional séptima.
 
-
 #### Artículo 50. Trámites preceptivos para la suscripción de convenios y sus efectos.
 
 1. Sin perjuicio de las especialidades que la legislación autonómica pueda prever, será necesario que el convenio se acompañe de una memoria justificativa donde se analice su necesidad y oportunidad, su impacto económico, el carácter no contractual de la actividad en cuestión, así como el cumplimiento de lo previsto en esta Ley.
@@ -1086,7 +1009,6 @@ c) La autorización previa del Ministerio de Hacienda y Administraciones Públic
 d) Cuando los convenios plurianuales suscritos entre Administraciones Públicas incluyan aportaciones de fondos por parte del Estado para financiar actuaciones a ejecutar exclusivamente por parte de otra Administración Pública y el Estado asuma, en el ámbito de sus competencias, los compromisos frente a terceros, la aportación del Estado de anualidades futuras estará condicionada a la existencia de crédito en los correspondientes presupuestos.
 
 e) Los convenios interadministrativos suscritos con las Comunidades Autónomas, serán remitidos al Senado por el Ministerio de Hacienda y Administraciones Públicas.
-
 
 #### Artículo 51. Extinción de los convenios.
 
@@ -1108,7 +1030,6 @@ d) Por decisión judicial declaratoria de la nulidad del convenio.
 
 e) Por cualquier otra causa distinta de las anteriores prevista en el convenio o en otras leyes.
 
-
 #### Artículo 52. Efectos de la resolución de los convenios.
 
 1. El cumplimiento y la resolución de los convenios dará lugar a la liquidación de los mismos con el objeto de determinar las obligaciones y compromisos de cada una de las partes.
@@ -1123,7 +1044,6 @@ b) Si fuera superior, el resto de partes del convenio, en el plazo de un mes des
 
 3. No obstante lo anterior, si cuando concurra cualquiera de las causas de resolución del convenio existen actuaciones en curso de ejecución, las partes, a propuesta de la comisión de seguimiento, vigilancia y control del convenio o, en su defecto, del responsable del mecanismo a que hace referencia la letra f) del artículo 49, podrán acordar la continuación y finalización de las actuaciones en curso que consideren oportunas, estableciendo un plazo improrrogable para su finalización, transcurrido el cual deberá realizarse la liquidación de las mismas en los términos establecidos en el apartado anterior.
 
-
 #### Artículo 53. Remisión de convenios al Tribunal de Cuentas.
 
 1. Dentro de los tres meses siguientes a la suscripción de cualquier convenio cuyos compromisos económicos asumidos superen los 600.000 euros, estos deberán remitirse electrónicamente al Tribunal de Cuentas u órgano externo de fiscalización de la Comunidad Autónoma, según corresponda.
@@ -1132,9 +1052,7 @@ b) Si fuera superior, el resto de partes del convenio, en el plazo de un mes des
 
 3. Lo dispuesto en los apartados anteriores se entenderá sin perjuicio de las facultades del Tribunal de Cuentas o, en su caso, de los correspondientes órganos de fiscalización externos de las Comunidades Autónomas, para reclamar cuantos datos, documentos y antecedentes estime pertinentes con relación a los contratos de cualquier naturaleza y cuantía.
 
-
 ## TÍTULO I
-
 
 **Administración General del Estado**
 
@@ -1142,13 +1060,11 @@ CAPÍTULO I
 
 Organización administrativa
 
-
 #### Artículo 54. Principios y competencias de organización y funcionamiento de la Administración General del Estado.
 
 1. La Administración General del Estado actúa y se organiza de acuerdo con los principios establecidos en el artículo 3, así como los de descentralización funcional y desconcentración funcional y territorial.
 
 2. Las competencias en materia de organización administrativa, régimen de personal, procedimientos e inspección de servicios, no atribuidas específicamente conforme a una Ley a ningún otro órgano de la Administración General del Estado, ni al Gobierno, corresponderán al Ministerio de Hacienda y Administraciones Públicas.
-
 
 #### Artículo 55. Estructura de la Administración General del Estado.
 
@@ -1198,7 +1114,6 @@ a) La responsabilidad profesional, personal y directa por la gestión desarrolla
 
 b) La sujeción al control y evaluación de la gestión por el órgano superior o directivo competente, sin perjuicio del control establecido por la Ley General Presupuestaria.
 
-
 #### Artículo 56. Elementos organizativos básicos.
 
 1. Las unidades administrativas son los elementos organizativos básicos de las estructuras orgánicas. Las unidades comprenden puestos de trabajo o dotaciones de plantilla vinculados funcionalmente por razón de sus cometidos y orgánicamente por una jefatura común. Pueden existir unidades administrativas complejas, que agrupen dos o más unidades menores.
@@ -1211,7 +1126,6 @@ CAPÍTULO II
 
 Los Ministerios y su estructura interna
 
-
 #### Artículo 57. Los Ministerios.
 
 1. La Administración General del Estado se organiza en Presidencia del Gobierno y en Ministerios, comprendiendo a cada uno de ellos uno o varios sectores funcionalmente homogéneos de actividad administrativa.
@@ -1219,7 +1133,6 @@ Los Ministerios y su estructura interna
 2. La organización en Departamentos ministeriales no obsta a la existencia de órganos superiores o directivos u Organismos públicos no integrados o dependientes, respectivamente, en la estructura general del Ministerio que con carácter excepcional se adscriban directamente al Ministro.
 
 3. La determinación del número, la denominación y el ámbito de competencia respectivo de los Ministerios y las Secretarías de Estado se establecen mediante Real Decreto del Presidente del Gobierno.
-
 
 #### Artículo 58. Organización interna de los Ministerios.
 
@@ -1231,7 +1144,6 @@ Los Ministerios y su estructura interna
 
 4. Las Direcciones Generales se organizan en Subdirecciones Generales para la distribución de las competencias encomendadas a aquéllas, la realización de las actividades que les son propias y la asignación de objetivos y responsabilidades. Sin perjuicio de lo anterior, podrán adscribirse directamente Subdirecciones Generales a otros órganos directivos de mayor nivel o a órganos superiores del Ministerio.
 
-
 #### Artículo 59. Creación, modificación y supresión de órganos y unidades administrativas.
 
 1. Las Subsecretarías, las Secretarías Generales, las Secretarías Generales Técnicas, las Direcciones Generales, las Subdirecciones Generales, y órganos similares a los anteriores se crean, modifican y suprimen por Real Decreto del Consejo de Ministros, a iniciativa del Ministro interesado y a propuesta del Ministro de Hacienda y Administraciones Públicas.
@@ -1240,7 +1152,6 @@ Los Ministerios y su estructura interna
 
 3. Las unidades que no tengan la consideración de órganos se crean, modifican y suprimen a través de las relaciones de puestos de trabajo.
 
-
 #### Artículo 60. Ordenación jerárquica de los órganos ministeriales.
 
 1. Los Ministros son los jefes superiores del Departamento y superiores jerárquicos directos de los Secretarios de Estado y Subsecretarios.
@@ -1248,7 +1159,6 @@ Los Ministerios y su estructura interna
 2. Los órganos directivos dependen de alguno de los anteriores y se ordenan jerárquicamente entre sí de la siguiente forma: Subsecretario, Director general y Subdirector general.
 
 Los Secretarios generales tienen categoría de Subsecretario y los Secretarios Generales Técnicos tienen categoría de Director general.
-
 
 #### Artículo 61. Los Ministros.
 
@@ -1296,7 +1206,6 @@ s) Imponer la sanción de separación del servicio por faltas muy graves.
 
 t) Ejercer cuantas otras competencias les atribuyan las leyes, las normas de organización y funcionamiento del Gobierno y cualesquiera otras disposiciones.
 
-
 #### Artículo 62. Los Secretarios de Estado.
 
 1. Los Secretarios de Estado son directamente responsables de la ejecución de la acción del Gobierno en un sector de actividad específica.
@@ -1326,7 +1235,6 @@ i) Resolver los recursos que se interpongan contra las resoluciones de los órga
 j) Administrar los créditos para gastos de los presupuestos del Ministerio por su materia propios de la Secretaría de Estado, aprobar las modificaciones presupuestarias de los mismos, aprobar y comprometer los gastos con cargo a aquellos créditos y reconocer las obligaciones económicas y proponer su pago en el marco del plan de disposición de fondos del Tesoro Público. Todo ello dentro de la cuantía que, en su caso, establezca el Ministro al efecto y siempre que los referidos actos no sean competencia del Consejo de Ministros.
 
 k) Cualesquiera otras competencias que les atribuya la legislación en vigor.
-
 
 #### Artículo 63. Los Subsecretarios.
 
@@ -1378,7 +1286,6 @@ q) Cualesquiera otras que sean inherentes a los servicios comunes del Ministerio
 
 Los nombramientos habrán de efectuarse entre funcionarios de carrera del Estado, de las Comunidades Autónomas o de las Entidades locales, pertenecientes al Subgrupo A1, a que se refiere el artículo 76 de la Ley 7/2007, de 12 de abril, por el que se aprueba el Estatuto Básico del Empleado Público. En todo caso, habrán de reunir los requisitos de idoneidad establecidos en la Ley 3/2015, de 30 de marzo, reguladora del ejercicio del alto cargo de la Administración General del Estado.
 
-
 #### Artículo 64. Los Secretarios generales.
 
 1. Cuando las normas que regulan la estructura de un Ministerio prevean la existencia de un Secretario general, deberán determinar las competencias que le correspondan sobre un sector de actividad administrativa determinado.
@@ -1389,7 +1296,6 @@ Los nombramientos habrán de efectuarse entre funcionarios de carrera del Estado
 
 Los nombramientos habrán de efectuarse entre personas con cualificación y experiencia en el desempeño de puestos de responsabilidad en la gestión pública o privada. En todo caso, habrán de reunir los requisitos de idoneidad establecidos en la Ley 3/2015, de 30 de marzo, reguladora del ejercicio del alto cargo de la Administración General del Estado.
 
-
 #### Artículo 65. Los Secretarios generales técnicos.
 
 1. Los Secretarios generales técnicos, bajo la inmediata dependencia del Subsecretario, tendrán las competencias sobre servicios comunes que les atribuya el Real Decreto de estructura del Departamento y, en todo caso, las relativas a producción normativa, asistencia jurídica y publicaciones.
@@ -1399,7 +1305,6 @@ Los nombramientos habrán de efectuarse entre personas con cualificación y expe
 3. Los Secretarios generales técnicos serán nombrados y separados por Real Decreto del Consejo de Ministros a propuesta del titular del Ministerio.
 
 Los nombramientos habrán de efectuarse entre funcionarios de carrera del Estado, de las Comunidades Autónomas o de las Entidades locales, pertenecientes al Subgrupo A1, a que se refiere el artículo 76 de la Ley 7/2007, de 12 de abril. En todo caso, habrán de reunir los requisitos de idoneidad establecidos en la Ley 3/2015, de 30 de marzo, reguladora del ejercicio de alto cargo de la Administración General del Estado.
-
 
 #### Artículo 66. Los Directores generales.
 
@@ -1419,7 +1324,6 @@ e) Las demás atribuciones que le confieran las leyes y reglamentos.
 
 Los nombramientos habrán de efectuarse entre funcionarios de carrera del Estado, de las Comunidades Autónomas o de las Entidades locales, pertenecientes al Subgrupo A1, a que se refiere el artículo 76 de la Ley 7/2007, de 12 de abril, salvo que el Real Decreto de estructura permita que, en atención a las características específicas de las funciones de la Dirección General, su titular no reúna dicha condición de funcionario, debiendo motivarse mediante memoria razonada la concurrencia de las especiales características que justifiquen esa circunstancia excepcional. En todo caso, habrán de reunir los requisitos de idoneidad establecidos en la Ley 3/2015, de 30 de marzo, reguladora del ejercicio del alto cargo de la Administración General del Estado.
 
-
 #### Artículo 67. Los Subdirectores generales.
 
 1. Los Subdirectores generales son los responsables inmediatos, bajo la supervisión del Director general o del titular del órgano del que dependan, de la ejecución de aquellos proyectos, objetivos o actividades que les sean asignados, así como de la gestión ordinaria de los asuntos de la competencia de la Subdirección General.
@@ -1427,7 +1331,6 @@ Los nombramientos habrán de efectuarse entre funcionarios de carrera del Estado
 2. Los Subdirectores generales serán nombrados, respetando los principios de igualdad, mérito y capacidad, y cesados por el Ministro, Secretario de Estado o Subsecretario del que dependan.
 
 Los nombramientos habrán de efectuarse entre funcionarios de carrera del Estado, o de otras Administraciones, cuando así lo prevean las normas de aplicación, pertenecientes al Subgrupo A1, a que se refiere el artículo 76 de la Ley 7/2007, de 12 de abril.
-
 
 #### Artículo 68. Reglas generales sobre los servicios comunes de los Ministerios.
 
@@ -1449,7 +1352,6 @@ CAPÍTULO III
 
 Sección 1.ª La organización territorial de la Administración General del Estado
 
-
 #### Artículo 69. Las Delegaciones y las Subdelegaciones del Gobierno.
 
 1. Existirá una Delegación del Gobierno en cada una de las Comunidades Autónomas.
@@ -1462,13 +1364,11 @@ Sección 1.ª La organización territorial de la Administración General del Es
 
 Podrán crearse por Real Decreto Subdelegaciones del Gobierno en las Comunidades Autónomas uniprovinciales, cuando circunstancias tales como la población del territorio, el volumen de gestión o sus singularidades geográficas, sociales o económicas así lo justifiquen.
 
-
 #### Artículo 70. Los Directores Insulares de la Administración General del Estado.
 
 Reglamentariamente se determinarán las islas en las que existirá un Director Insular de la Administración General del Estado, con el nivel que se determine en la relación de puestos de trabajo. Serán nombrados por el Delegado del Gobierno mediante el procedimiento de libre designación entre funcionarios de carrera del Estado, de las Comunidades Autónomas o de las Entidades Locales, pertenecientes a Cuerpos o Escalas clasificados como Subgrupo A1.
 
 Los Directores Insulares dependen jerárquicamente del Delegado del Gobierno en la Comunidad Autónoma o del Subdelegado del Gobierno en la provincia, cuando este cargo exista, y ejercen, en su ámbito territorial, las competencias atribuidas por esta Ley a los Subdelegados del Gobierno en las provincias.
-
 
 #### Artículo 71. Los servicios territoriales.
 
@@ -1482,7 +1382,6 @@ Los Directores Insulares dependen jerárquicamente del Delegado del Gobierno en 
 
 Sección 2.ª Los Delegados del Gobierno en las Comunidades Autónomas
 
-
 #### Artículo 72. Los Delegados del Gobierno en las Comunidades Autónomas.
 
 1. Los Delegados del Gobierno representan al Gobierno de la Nación en el territorio de la respectiva Comunidad Autónoma, sin perjuicio de la representación ordinaria del Estado en las mismas a través de sus respectivos Presidentes.
@@ -1494,7 +1393,6 @@ Sección 2.ª Los Delegados del Gobierno en las Comunidades Autónomas
 4. Los Delegados del Gobierno serán nombrados y separados por Real Decreto del Consejo de Ministros, a propuesta del Presidente del Gobierno. Su nombramiento atenderá a criterios de competencia profesional y experiencia. En todo caso, deberá reunir los requisitos de idoneidad establecidos en la Ley 3/2015, de 30 de marzo, reguladora del ejercicio del alto cargo de la Administración General del Estado.
 
 5. En caso de ausencia, vacante o enfermedad del titular de la Delegación del Gobierno, será suplido por el Subdelegado del Gobierno que el Delegado designe y, en su defecto, al de la provincia en que tenga su sede. En las Comunidades Autónomas uniprovinciales en las que no exista Subdelegado la suplencia corresponderá al Secretario General.
-
 
 #### Artículo 73. Competencias de los Delegados del Gobierno en las Comunidades Autónomas.
 
@@ -1556,13 +1454,11 @@ e) Políticas públicas:
 
 Sección 3.ª Los Subdelegados del Gobierno en las provincias
 
-
 #### Artículo 74. Los Subdelegados del Gobierno en las provincias.
 
 En cada provincia y bajo la inmediata dependencia del Delegado del Gobierno en la respectiva Comunidad Autónoma, existirá un Subdelegado del Gobierno, con nivel de Subdirector General, que será nombrado por aquél mediante el procedimiento de libre designación entre funcionarios de carrera del Estado, de las Comunidades Autónomas o de las Entidades Locales, pertenecientes a Cuerpos o Escalas clasificados como Subgrupo A1.
 
 En las Comunidades Autónomas uniprovinciales en las que no exista Subdelegado, el Delegado del Gobierno asumirá las competencias que esta Ley atribuye a los Subdelegados del Gobierno en las provincias.
-
 
 #### Artículo 75. Competencias de los Subdelegados del Gobierno en las provincias.
 
@@ -1586,20 +1482,17 @@ f) Ejercer la potestad sancionadora y cualquier otra que les confiera las normas
 
 Sección 4.ª La estructura de las delegaciones del gobierno
 
-
 #### Artículo 76. Estructura de las Delegaciones y Subdelegaciones del Gobierno.
 
 1. La estructura de las Delegaciones y Subdelegaciones del Gobierno se fijará por Real Decreto del Consejo de Ministros a propuesta del Ministerio de Hacienda y Administraciones Públicas, en razón de la dependencia orgánica de las Delegaciones del Gobierno, y contarán, en todo caso, con una Secretaría General, dependiente de los Delegados o, en su caso, de los Subdelegados del Gobierno, como órgano de gestión de los servicios comunes, y de la que dependerán los distintos servicios integrados en la misma, así como aquellos otros servicios y unidades que se determine en la relación de puestos de trabajo.
 
 2. La integración de nuevos servicios territoriales o la desintegración de servicios territoriales ya integrados en las Delegaciones del Gobierno, se llevará a cabo mediante Real Decreto de Consejo de Ministros, a propuesta del Ministerio de Hacienda y Administraciones Públicas, en razón de la dependencia orgánica de las Delegaciones del Gobierno, y del Ministerio competente del área de actividad.
 
-
 #### Artículo 77. Asistencia jurídica y control económico financiero de las Delegaciones y Subdelegaciones del Gobierno.
 
 La asistencia jurídica y las funciones de intervención y control económico financiero en relación con las Delegaciones y Subdelegaciones del Gobierno se ejercerán por la Abogacía del Estado y la Intervención General de la Administración del Estado respectivamente, de acuerdo con su normativa específica.
 
 Sección 5.ª Órganos colegiados
-
 
 #### Artículo 78. La Comisión interministerial de coordinación de la Administración periférica del Estado.
 
@@ -1608,7 +1501,6 @@ Sección 5.ª Órganos colegiados
 2. La Comisión interministerial de coordinación de la Administración periférica del Estado se encargará de coordinar la actuación de la Administración periférica del Estado con los distintos Departamentos ministeriales.
 
 3. Mediante Real Decreto se regularán sus atribuciones, composición y funcionamiento.
-
 
 #### Artículo 79. Los órganos colegiados de asistencia al Delegado y al Subdelegado del Gobierno.
 
@@ -1636,21 +1528,17 @@ CAPÍTULO IV
 
 De la Administración General del Estado en el exterior
 
-
 #### Artículo 80. El Servicio Exterior del Estado.
 
 El Servicio Exterior del Estado se rige en todo lo concerniente a su composición, organización, funciones, integración y personal por lo dispuesto en la Ley 2/2014, de 25 de marzo, de la Acción y del Servicio Exterior del Estado y en su normativa de desarrollo y, supletoriamente, por lo dispuesto en esta Ley.
 
-
 ## TÍTULO II
-
 
 **Organización y funcionamiento del sector público institucional**
 
 CAPÍTULO I
 
 Del sector público institucional
-
 
 #### Artículo 81. Principios generales de actuación.
 
@@ -1659,7 +1547,6 @@ Del sector público institucional
 2. Todas las Administraciones Públicas deberán establecer un sistema de supervisión continua de sus entidades dependientes, con el objeto de comprobar la subsistencia de los motivos que justificaron su creación y su sostenibilidad financiera, y que deberá incluir la formulación expresa de propuestas de mantenimiento, transformación o extinción.
 
 3. Los organismos y entidades vinculados o dependientes de la Administración autonómica y local se regirán por las disposiciones básicas de esta ley que les resulten de aplicación, y en particular, por lo dispuesto en los Capítulos I y IV y en los artículos 129 y 134, así como por la normativa propia de la Administración a la que se adscriban.
-
 
 #### Artículo 82. El Inventario de Entidades del Sector Público Estatal, Autonómico y Local.
 
@@ -1670,7 +1557,6 @@ La integración y gestión de dicho Inventario y su publicación dependerá de l
 2. El Inventario de Entidades del Sector Público contendrá, al menos, información actualizada sobre la naturaleza jurídica, finalidad, fuentes de financiación, estructura de dominio, en su caso, la condición de medio propio, regímenes de contabilidad, presupuestario y de control así como la clasificación en términos de contabilidad nacional, de cada una de las entidades integrantes del sector público institucional.
 
 3. Al menos, la creación, transformación, fusión o extinción de cualquier entidad integrante del sector público institucional, cualquiera que sea su naturaleza jurídica, será inscrita en el Inventario de Entidades del Sector Público Estatal, Autonómico y Local.
-
 
 #### Artículo 83. Inscripción en el Inventario de Entidades del Sector Público Estatal, Autonómico y Local.
 
@@ -1687,7 +1573,6 @@ c) Para la asignación del Número de Identificación Fiscal definitivo y de la 
 CAPÍTULO II
 
 Organización y funcionamiento del sector público institucional estatal
-
 
 #### Artículo 84. Composición y clasificación del sector público institucional estatal.
 
@@ -1717,7 +1602,6 @@ Lo dispuesto en este apartado no será de aplicación a la participación del Es
 
 3. Las universidades públicas no transferidas se regirán por lo dispuesto en la Ley 47/2003, de 26 de noviembre que les sea de aplicación y lo dispuesto en esta ley en lo que no previsto en su normativa específica.
 
-
 #### Artículo 85. Control de eficacia y supervisión continua.
 
 1. Las entidades integrantes del sector público institucional estatal estarán sometidas al control de eficacia y supervisión continua, sin perjuicio de lo establecido en el artículo 110.
@@ -1746,7 +1630,6 @@ c) Las propuestas de las inspecciones de los servicios de los departamentos mini
 
 Los resultados de la evaluación efectuada tanto por el Ministerio de adscripción como por el Ministerio de Hacienda y Administraciones Públicas se plasmarán en un informe sujeto a procedimiento contradictorio que, según las conclusiones que se hayan obtenido, podrá contener recomendaciones de mejora o una propuesta de transformación o supresión del organismo público o entidad.
 
-
 #### Artículo 86. Medio propio y servicio técnico.
 
 1. Las entidades integrantes del sector público institucional podrán ser consideradas medios propios y servicios técnicos de los poderes adjudicadores y del resto de entes y sociedades que no tengan la consideración de poder adjudicador cuando cumplan las condiciones y requisitos establecidos en el Texto Refundido de la Ley de Contratos del Sector Público, aprobado por el Real Decreto Legislativo 3/2011, de 14 de noviembre.
@@ -1762,7 +1645,6 @@ Formará parte del control de eficacia de los medios propios y servicios técnic
 En la denominación de las entidades integrantes del sector público institucional que tengan la condición de medio propio deberá figurar necesariamente la indicación «Medio Propio» o su abreviatura «M.P.».
 
 3. A la propuesta de declaración de medio propio y servicio técnico deberá acompañarse una memoria justificativa que acredite lo dispuesto en el apartado anterior y deberá ser informada por la Intervención General de la Administración del Estado que vaya a declarar el medio propio y servicio técnico.
-
 
 #### Artículo 87. Transformaciones de las entidades integrantes del sector público institucional estatal.
 
@@ -1806,11 +1688,9 @@ De los organismos públicos estatales
 
 Sección 1.ª Disposiciones generales
 
-
 #### Artículo 88. Definición y actividades propias.
 
 Son organismos públicos dependientes o vinculados a la Administración General del Estado, bien directamente o bien a través de otro organismo público, los creados para la realización de actividades administrativas, sean de fomento, prestación o de gestión de servicios públicos o de producción de bienes de interés público susceptibles de contraprestación; actividades de contenido económico reservadas a las Administraciones Públicas; así como la supervisión o regulación de sectores económicos, y cuyas características justifiquen su organización en régimen de descentralización funcional o de independencia.
-
 
 #### Artículo 89. Personalidad jurídica y potestades.
 
@@ -1821,7 +1701,6 @@ Son organismos públicos dependientes o vinculados a la Administración General 
 Los estatutos podrán atribuir a los organismos públicos la potestad de ordenar aspectos secundarios del funcionamiento para cumplir con los fines y el servicio encomendado, en el marco y con el alcance establecido por las disposiciones que fijen el régimen jurídico básico de dicho servicio.
 
 Los actos y resoluciones dictados por los organismos públicos en el ejercicio de potestades administrativas son susceptibles de los recursos administrativos previstos en la Ley del Procedimiento Administrativo Común de las Administraciones Públicas.
-
 
 #### Artículo 90. Estructura organizativa en el sector público estatal.
 
@@ -1837,7 +1716,6 @@ a) Número máximo de miembros de los órganos de gobierno.
 
 b) Estructura organizativa, con fijación del número mínimo y máximo de directivos, así como la cuantía máxima de la retribución total, con determinación del porcentaje máximo del complemento de puesto y variable.
 
-
 #### Artículo 91. Creación de organismos públicos estatales.
 
 1. La creación de los organismos públicos se efectuará por Ley.
@@ -1849,7 +1727,6 @@ a) El tipo de organismo público que crea, con indicación de sus fines generale
 b) En su caso, los recursos económicos, así como las peculiaridades de su régimen de personal, de contratación, patrimonial, fiscal y cualesquiera otras que, por su naturaleza, exijan norma con rango de Ley.
 
 3. El anteproyecto de ley de creación del organismo público que se eleve al Consejo de Ministros deberá ser acompañado de una propuesta de estatutos y de un plan inicial de actuación, junto con el informe preceptivo favorable del Ministerio de Hacienda y Administraciones Públicas que valorará el cumplimiento de lo previsto en este artículo.
-
 
 #### Artículo 92. Contenido y efectos del plan de actuación.
 
@@ -1871,7 +1748,6 @@ La falta de aprobación del plan anual de actuación dentro del plazo fijado por
 
 3. El plan de actuación y los anuales, así como sus modificaciones, se hará público en la página web del organismo público al que corresponda.
 
-
 #### Artículo 93. Contenido de los estatutos.
 
 1. Los estatutos regularán, al menos, los siguientes extremos:
@@ -1889,7 +1765,6 @@ e) La facultad de participación en sociedades mercantiles cuando ello sea impre
 2. Los estatutos de los organismos públicos se aprobarán por Real Decreto del Consejo de Ministros a propuesta conjunta del Ministerio de Hacienda y Administraciones Públicas y del Ministerio al que el organismo esté vinculado o sea dependiente.
 
 3. Los estatutos deberán ser aprobados y publicados con carácter previo a la entrada en funcionamiento efectivo del organismo público.
-
 
 #### Artículo 94. Fusión de organismos públicos estatales.
 
@@ -1927,7 +1802,6 @@ d) Si se hubiera previsto en el plan de redimensionamiento, las obligaciones, bi
 
 La liquidación deberá llevarse a cabo durante los dos años siguientes a la aprobación de la norma reglamentaria de fusión, salvo que el Consejo de Ministros acuerde su prórroga, sin perjuicio de los posibles derechos que puedan corresponder a los acreedores. La aprobación de las normas a las que tendrá que ajustarse la contabilidad del fondo corresponderá al Ministro de Hacienda y Administraciones Públicas a propuesta de la Intervención General de la Administración del Estado.
 
-
 #### Artículo 95. Gestión compartida de servicios comunes.
 
 1. La norma de creación de los organismos públicos del sector público estatal incluirá la gestión compartida de algunos o todos los servicios comunes, salvo que la decisión de no compartirlos se justifique, en la memoria que acompañe a la norma de creación, en términos de eficiencia, conforme al artículo 7 de la Ley Orgánica 2/2012, de 27 de abril, de Estabilidad Presupuestaria y Sostenibilidad Financiera, en razones de seguridad nacional o cuando la organización y gestión compartida afecte a servicios que deban prestarse de forma autónoma en atención a la independencia del organismo.
@@ -1947,7 +1821,6 @@ d) Contabilidad y gestión financiera.
 e) Publicaciones.
 
 f) Contratación pública.
-
 
 #### Artículo 96. Disolución de organismos públicos estatales.
 
@@ -1979,7 +1852,6 @@ En el plazo de dos meses a contar desde la comunicación a la que se refiere el 
 
 El plan de corrección se aplicará en el ejercicio presupuestario en el que se apruebe y en el siguiente. Transcurridos esos dos ejercicios sin que se haya corregido el desequilibrio, el titular del máximo órgano de dirección del organismo lo comunicará al titular del departamento de adscripción en los cinco días naturales siguientes a la finalización del plazo mencionado. Recibida la comunicación, se aplicará lo previsto en el apartado 2, salvo que el Consejo de Ministros, a propuesta del Ministro de Hacienda y Administraciones Públicas, decida prorrogar la duración del plan de corrección. Si transcurre el citado plazo de cinco días sin que se haya producido dicha comunicación, el organismo público quedará automáticamente disuelto y no podrá realizar ningún acto jurídico, salvo los estrictamente necesarios para garantizar la eficacia de su liquidación y extinción.
 
-
 #### Artículo 97. Liquidación y extinción de organismos públicos estatales.
 
 1. Publicado el acuerdo de disolución al que se refiere el artículo anterior, o transcurridos los plazos en él establecidos sin que éste haya sido publicado, se entenderá automáticamente iniciada la liquidación.
@@ -1994,7 +1866,6 @@ La responsabilidad que le corresponda al empleado público como miembro de la en
 
 Sección 2.ª Organismos autónomos estatales
 
-
 #### Artículo 98. Definición.
 
 1. Los organismos autónomos son entidades de derecho público, con personalidad jurídica propia, tesorería y patrimonio propios y autonomía en su gestión, que desarrollan actividades propias de la Administración Pública, tanto actividades de fomento, prestacionales, de gestión de servicios públicos o de producción de bienes de interés público, susceptibles de contraprestación, en calidad de organizaciones instrumentales diferenciadas y dependientes de ésta.
@@ -2003,11 +1874,9 @@ Sección 2.ª Organismos autónomos estatales
 
 3. Con independencia de cuál sea su denominación, cuando un organismo público tenga la naturaleza jurídica de organismo autónomo deberá figurar en su denominación la indicación «organismo autónomo» o su abreviatura «O.A.».
 
-
 #### Artículo 99. Régimen jurídico.
 
 Los organismos autónomos se regirán por lo dispuesto en esta Ley, en su ley de creación, sus estatutos, la Ley de Procedimiento Administrativo Común de las Administraciones Públicas, el Real Decreto Legislativo 3/2011, de 14 de noviembre, la Ley 33/2003, de 3 de noviembre, y el resto de las normas de derecho administrativo general y especial que le sea de aplicación. En defecto de norma administrativa, se aplicará el derecho común.
-
 
 #### Artículo 100. Régimen jurídico del personal y de contratación.
 
@@ -2020,7 +1889,6 @@ El titular del máximo órgano de dirección del organismo tendrá atribuidas, e
 El organismo autónomo estará obligado a aplicar las instrucciones sobre recursos humanos dictadas por el Ministerio de Hacienda y Administraciones Públicas y a comunicarle a este departamento cuantos acuerdos o resoluciones adopte en aplicación del régimen específico de personal establecido en su Ley de creación o en sus estatutos.
 
 2. La contratación de los organismos autónomos se ajustará a lo dispuesto en la legislación sobre contratación del sector público. El titular del máximo órgano de dirección del organismo autónomo será el órgano de contratación.
-
 
 #### Artículo 101. Régimen económico-financiero y patrimonial.
 
@@ -2042,13 +1910,11 @@ e) Las donaciones, legados, patrocinios y otras aportaciones de entidades privad
 
 f) Cualquier otro recurso que estén autorizados a percibir, según las disposiciones por las que se rijan o que pudieran serles atribuidos.
 
-
 #### Artículo 102. Régimen presupuestario, de contabilidad y control económico-financiero.
 
 Los organismo autónomos aplicarán el régimen presupuestario, económico-financiero, de contabilidad, y de control establecido por la Ley 47/2003, de 26 de noviembre.
 
 Sección 3.ª Las entidades públicas empresariales de ámbito estatal
-
 
 #### Artículo 103. Definición.
 
@@ -2058,18 +1924,15 @@ Sección 3.ª Las entidades públicas empresariales de ámbito estatal
 
 3. Con independencia de cuál sea su denominación, cuando un organismo público tenga naturaleza jurídica de entidad pública empresarial deberá figurar en su denominación la indicación de «entidad pública empresarial» o su abreviatura «E.P.E».
 
-
 #### Artículo 104. Régimen jurídico.
 
 Las entidades públicas empresariales se rigen por el Derecho privado, excepto en la formación de la voluntad de sus órganos, en el ejercicio de las potestades administrativas que tengan atribuidas y en los aspectos específicamente regulados para las mismas en esta Ley, en su Ley de creación, sus estatutos, la Ley de Procedimiento Administrativo Común, el Real Decreto Legislativo 3/2011, de 14 de noviembre, la Ley 33/2003, de 3 de noviembre, y el resto de normas de derecho administrativo general y especial que le sean de aplicación.
-
 
 #### Artículo 105. Ejercicio de potestades administrativas.
 
 1. Las potestades administrativas atribuidas a las entidades públicas empresariales sólo pueden ser ejercidas por aquellos órganos de éstas a los que los estatutos se les asigne expresamente esta facultad.
 
 2. No obstante, a los efectos de esta Ley, los órganos de las entidades públicas empresariales no son asimilables en cuanto a su rango administrativo al de los órganos de la Administración General del Estado, salvo las excepciones que, a determinados efectos se fijen, en cada caso, en sus estatutos.
-
 
 #### Artículo 106. Régimen jurídico del personal y de contratación.
 
@@ -2088,7 +1951,6 @@ b) El resto del personal será seleccionado mediante convocatoria pública basad
 5. La Ley de creación de cada entidad pública empresarial deberá determinar las condiciones conforme a las cuales, los funcionarios de la Administración General del Estado, podrán cubrir destinos en la referida entidad, y establecerá, asimismo, las competencias que a la misma correspondan sobre este personal que, en todo caso, serán las que tengan legalmente atribuidas los Organismos autónomos.
 
 6. La contratación de las entidades públicas empresariales se rige por las previsiones contenidas al respecto en la legislación de contratos del sector público.
-
 
 #### Artículo 107. Régimen económico-financiero y patrimonial.
 
@@ -2114,7 +1976,6 @@ c) Las donaciones, legados, patrocinios y otras aportaciones de entidades privad
 
 A tales efectos se tomará en consideración la clasificación de las diferentes entidades públicas a los efectos de la contabilidad nacional que efectúe el Comité Técnico de Cuentas Nacionales y que se recogerá en el Inventario de Entidades del sector Público estatal, Autonómico y Local.
 
-
 #### Artículo 108. Régimen presupuestario, de contabilidad y control económico-financiero.
 
 Las entidades públicas empresariales aplicarán el régimen presupuestario, económico-financiero, de contabilidad y de control establecido en la Ley 47/2003, de 26 de noviembre.
@@ -2123,7 +1984,6 @@ CAPÍTULO IV
 
 Las autoridades administrativas independientes de ámbito estatal
 
-
 #### Artículo 109. Definición.
 
 1. Son autoridades administrativas independientes de ámbito estatal las entidades de derecho público que, vinculadas a la Administración General del Estado y con personalidad jurídica propia, tienen atribuidas funciones de regulación o supervisión de carácter externo sobre sectores económicos o actividades determinadas, por requerir su desempeño de independencia funcional o una especial autonomía respecto de la Administración General del Estado, lo que deberá determinarse en una norma con rango de Ley.
@@ -2131,7 +1991,6 @@ Las autoridades administrativas independientes de ámbito estatal
 2. Las autoridades administrativas independientes actuarán, en el desarrollo de su actividad y para el cumplimiento de sus fines, con independencia de cualquier interés empresarial o comercial.
 
 3. Con independencia de cuál sea su denominación, cuando una entidad tenga la naturaleza jurídica de autoridad administrativa independiente deberá figurar en su denominación la indicación «autoridad administrativa independiente» o su abreviatura «A.A.I.».
-
 
 #### Artículo 110. Régimen jurídico.
 
@@ -2143,7 +2002,6 @@ CAPÍTULO V
 
 De las sociedades mercantiles estatales
 
-
 #### Artículo 111. Definición.
 
 1. Se entiende por sociedad mercantil estatal aquella sociedad mercantil sobre la que se ejerce control estatal:
@@ -2154,16 +2012,13 @@ b) Bien porque la sociedad mercantil se encuentre en el supuesto previsto en el 
 
 2. En la denominación de las sociedades mercantiles que tengan la condición de estatales deberá figurar necesariamente la indicación «sociedad mercantil estatal» o su abreviatura «S.M.E.».
 
-
 #### Artículo 112. Principios rectores.
 
 La Administración General del Estado y las entidades integrantes del sector público institucional, en cuanto titulares del capital social de las sociedades mercantiles estatales, perseguirán la eficiencia, transparencia y buen gobierno en la gestión de dichas sociedades mercantiles, para lo cual promoverán las buenas prácticas y códigos de conducta adecuados a la naturaleza de cada entidad. Todo ello sin perjuicio de la supervisión general que ejercerá el accionista sobre el funcionamiento de la sociedad mercantil estatal, conforme prevé la Ley 33/2003, de 3 de noviembre, del Patrimonio de las Administraciones Públicas.
 
-
 #### Artículo 113. Régimen jurídico.
 
 Las sociedades mercantiles estatales se regirán por lo previsto en esta Ley, por lo previsto en la Ley 33/2003, de 3 de noviembre, y por el ordenamiento jurídico privado, salvo en las materias en que le sea de aplicación la normativa presupuestaria, contable, de personal, de control económico-financiero y de contratación. En ningún caso podrán disponer de facultades que impliquen el ejercicio de autoridad pública, sin perjuicio de que excepcionalmente la ley pueda atribuirle el ejercicio de potestades administrativas.
-
 
 #### Artículo 114. Creación y extinción.
 
@@ -2183,13 +2038,11 @@ El Programa de Actuación Plurianual que conforme a la Ley 47/2003, de 26 de n
 
 La responsabilidad que le corresponda al empleado público como miembro de la entidad u órgano liquidador será directamente asumida por la entidad o la Administración General del Estado que lo designó, quien podrá exigir de oficio al empleado público la responsabilidad que, en su caso, corresponda cuando concurra dolo, culpa o negligencia grave conforme a lo previsto en las leyes administrativas en materia de responsabilidad patrimonial.
 
-
 #### Artículo 115. Régimen de responsabilidad aplicable a los miembros de los consejos de administración de las sociedades mercantiles estatales designados por la Administración General del Estado.
 
 1. La responsabilidad que le corresponda al empleado público como miembro del consejo de administración será directamente asumida por la Administración General del Estado que lo designó.
 
 2. La Administración General del Estado podrá exigir de oficio al empleado público que designó como miembro del consejo de administración la responsabilidad en que hubiera incurrido por los daños y perjuicios causados en sus bienes o derechos cuando hubiera concurrido dolo, o culpa o negligencia graves, conforme a lo previsto en las leyes administrativas en materia de responsabilidad patrimonial.
-
 
 #### Artículo 116. Tutela.
 
@@ -2205,7 +2058,6 @@ La responsabilidad que le corresponda al empleado público como miembro de la en
 
 6. En este caso, los administradores de las sociedades a las que se hayan impartido estas instrucciones actuarán diligentemente para su ejecución, y quedarán exonerados de la responsabilidad prevista en el artículo 236 del Real Decreto Legislativo 1/2010, de 2 de julio, por el que se aprueba el texto refundido de la Ley de Sociedades de Capital, si del cumplimiento de dichas instrucciones se derivaren consecuencias lesivas.
 
-
 #### Artículo 117. Régimen presupuestario, de contabilidad, control económico-financiero y de personal.
 
 1. Las sociedades mercantiles estatales elaborarán anualmente un presupuesto de explotación y capital y un plan de actuación que forma parte del Programa Plurianual, que se integrarán con el Presupuesto General del Estado. El Programa contendrá la revisión trienal del plan de creación a que se refiere el artículo 85.
@@ -2220,7 +2072,6 @@ CAPÍTULO VI
 
 De los consorcios
 
-
 #### Artículo 118. Definición y actividades propias.
 
 1. Los consorcios son entidades de derecho público, con personalidad jurídica propia y diferenciada, creadas por varias Administraciones Públicas o entidades integrantes del sector público institucional, entre sí o con participación de entidades privadas, para el desarrollo de actividades de interés común a todas ellas dentro del ámbito de sus competencias.
@@ -2231,7 +2082,6 @@ De los consorcios
 
 4. En la denominación de los consorcios deberá figurar necesariamente la indicación «consorcio» o su abreviatura «C».
 
-
 #### Artículo 119. Régimen jurídico.
 
 1. Los consorcios se regirán por lo establecido en esta Ley, en la normativa autonómica de desarrollo y sus estatutos.
@@ -2239,7 +2089,6 @@ De los consorcios
 2. En lo no previsto en esta Ley, en la normativa autonómica aplicable, ni en sus Estatutos sobre el régimen del derecho de separación, disolución, liquidación y extinción, se estará a lo previsto en el Código Civil sobre la sociedad civil, salvo el régimen de liquidación, que se someterá a lo dispuesto en el artículo 97, y en su defecto, el Real Decreto Legislativo 1/2010, de 2 de julio.
 
 3. Las normas establecidas en la Ley 7/1985, de 2 de abril, y en la Ley 27/2013, de 21 de diciembre, de racionalización y sostenibilidad de la Administración Local sobre los Consorcios locales tendrán carácter supletorio respecto a lo dispuesto en esta Ley.
-
 
 #### Artículo 120. Régimen de adscripción.
 
@@ -2267,13 +2116,11 @@ h) Tenga mayor número de habitantes o extensión territorial dependiendo de si 
 
 4. Cualquier cambio de adscripción a una Administración Pública, cualquiera que fuere su causa, conllevará la modificación de los estatutos del consorcio en un plazo no superior a seis meses, contados desde el inicio del ejercicio presupuestario siguiente a aquel en se produjo el cambio de adscripción.
 
-
 #### Artículo 121. Régimen de personal.
 
 El personal al servicio de los consorcios podrá ser funcionario o laboral y habrá de proceder exclusivamente de las Administraciones participantes. Su régimen jurídico será el de la Administración Pública de adscripción y sus retribuciones en ningún caso podrán superar las establecidas para puestos de trabajo equivalentes en aquélla.
 
 Excepcionalmente, cuando no resulte posible contar con personal procedente de las Administraciones participantes en el consorcio en atención a la singularidad de las funciones a desempeñar, el Ministerio de Hacienda y Administraciones Públicas, u órgano competente de la Administración a la que se adscriba el consorcio, podrá autorizar la contratación directa de personal por parte del consorcio para el ejercicio de dichas funciones.
-
 
 #### Artículo 122. Régimen presupuestario, de contabilidad, control económico-financiero y patrimonial.
 
@@ -2287,7 +2134,6 @@ Excepcionalmente, cuando no resulte posible contar con personal procedente de la
 
 5. Los consorcios se regirán por las normas patrimoniales de la Administración Pública a la que estén adscritos.
 
-
 #### Artículo 123. Creación.
 
 1. Los consorcios se crearán mediante convenio suscrito por las Administraciones, organismos públicos o entidades participantes.
@@ -2297,9 +2143,6 @@ Excepcionalmente, cuando no resulte posible contar con personal procedente de la
 a) Que su creación se autorice por ley.
 
 b) El convenio de creación precisará de autorización previa del Consejo de Ministros. La competencia para la suscripción del convenio no podrá ser objeto de delegación, y corresponderá al titular del departamento ministerial participante, y en el ámbito de los organismos autónomos, al titular del máximo órgano de dirección del organismo, previo informe del Ministerio del que dependa o al que esté vinculado.
-
-c) Del convenio formarán parte los estatutos, un plan de actuación, de conformidad con lo previsto en el artículo 92, y una proyección presupuestaria trienal, además del informe preceptivo favorable del Ministerio de Hacienda y Administraciones Públicas. El convenio suscrito junto con los estatutos, así como sus modificaciones, serán objeto de publicación en el «Boletín Oficial del Estado».
-
 
 #### Artículo 124. Contenido de los estatutos.
 
@@ -2313,7 +2156,6 @@ c) Órganos de gobiernos y administración, así como su composición y funciona
 
 d) Causas de disolución.
 
-
 #### Artículo 125. Causas y procedimiento para el ejercicio del derecho de separación de un consorcio.
 
 1. Los miembros de un consorcio, al que le resulte de aplicación lo previsto en esta Ley o en la Ley 7/1985, de 2 de abril, podrán separarse del mismo en cualquier momento siempre que no se haya señalado término para la duración del consorcio.
@@ -2323,7 +2165,6 @@ Cuando el consorcio tenga una duración determinada, cualquiera de sus miembros 
 Cuando un municipio deje de prestar un servicio, de acuerdo con lo previsto en la Ley 7/1985, de 2 de abril, y ese servicio sea uno de los prestados por el Consorcio al que pertenece, el municipio podrá separarse del mismo.
 
 2. El derecho de separación habrá de ejercitarse mediante escrito notificado al máximo órgano de gobierno del consorcio. En el escrito deberá hacerse constar, en su caso, el incumplimiento que motiva la separación si el consorcio tuviera duración determinada, la formulación de requerimiento previo de su cumplimiento y el transcurso del plazo otorgado para cumplir tras el requerimiento.
-
 
 #### Artículo 126. Efectos del ejercicio del derecho de separación de un consorcio.
 
@@ -2340,7 +2181,6 @@ Se acordará por el consorcio la forma y condiciones en que tendrá lugar el pag
 La efectiva separación del consorcio se producirá una vez determinada la cuota de separación, en el supuesto en que ésta resulte positiva, o una vez se haya pagado la deuda, si la cuota es negativa.
 
 b) Si el consorcio estuviera adscrito, de acuerdo con lo previsto en la Ley, a la Administración que ha ejercido el derecho de separación, tendrá que acordarse por el consorcio a quien se adscribe, de las restantes Administraciones o entidades u organismos públicos vinculados o dependientes de una Administración que permanecen en el consorcio, en aplicación de los criterios establecidos en la Ley.
-
 
 #### Artículo 127. Disolución del consorcio.
 
@@ -2362,7 +2202,6 @@ CAPÍTULO VII
 
 De las fundaciones del sector público estatal
 
-
 #### Artículo 128. Definición y actividades propias.
 
 1. Son fundaciones del sector público estatal aquellas que reúnan alguno de los requisitos siguientes:
@@ -2380,7 +2219,6 @@ c) La mayoría de derechos de voto en su patronato corresponda a representantes 
 En la denominación de las fundaciones del sector público estatal deberá figurar necesariamente la indicación «fundación del sector público» o su abreviatura «F.S.P.».
 
 3. Para la financiación de las actividades y el mantenimiento de la fundación, debe haberse previsto la posibilidad de que en el patrimonio de las fundaciones del sector público pueda existir aportación del sector privado de forma no mayoritaria.
-
 
 #### Artículo 129. Régimen de adscripción de las fundaciones.
 
@@ -2404,16 +2242,13 @@ f) Ostente el mayor porcentaje de participación en el fondo patrimonial.
 
 4. El cambio de adscripción a una Administración Pública, cualquiera que fuere su causa, conllevará la modificación de los estatutos que deberá realizarse en un plazo no superior a tres meses, contados desde el inicio del ejercicio presupuestario siguiente a aquél en se produjo el cambio de adscripción.
 
-
 #### Artículo 130. Régimen jurídico.
 
 Las fundaciones del sector público estatal se rigen por lo previsto en esta Ley, por la Ley 50/2002, de 26 de diciembre, de Fundaciones, la legislación autonómica que resulte aplicable en materia de fundaciones, y por el ordenamiento jurídico privado, salvo en las materias en que le sea de aplicación la normativa presupuestaria, contable, de control económico-financiero y de contratación del sector público.
 
-
 #### Artículo 131. Régimen de contratación.
 
 La contratación de las fundaciones del sector público estatal se ajustará a lo dispuesto en la legislación sobre contratación del sector público.
-
 
 #### Artículo 132. Régimen presupuestario, de contabilidad, de control económico-financiero y de personal.
 
@@ -2423,7 +2258,6 @@ La contratación de las fundaciones del sector público estatal se ajustará a l
 
 3. El personal de las fundaciones del sector público estatal, incluido el que tenga condición de directivo, se regirá por el Derecho laboral, así como por las normas que le sean de aplicación en función de su adscripción al sector público estatal, incluyendo entre las mismas la normativa presupuestaria así como lo que se establezca en las Leyes de Presupuestos Generales del Estado.
 
-
 #### Artículo 133. Creación de fundaciones del sector público estatal.
 
 1. La creación de las fundaciones del sector público estatal o la adquisición de este carácter de forma sobrevenida se realizará por ley que establecerá los fines de la fundación y, en su caso, los recursos económicos con los que se le dota.
@@ -2432,18 +2266,15 @@ La contratación de las fundaciones del sector público estatal se ajustará a l
 
 3. Los estatutos de las fundaciones del sector público estatal se aprobarán por Real Decreto de Consejo de Ministros, a propuesta conjunta del titular del Ministerio de Hacienda y Administraciones Públicas y del Ministerio que ejerza el protectorado, que estará determinado en sus Estatutos. No obstante, por Acuerdo del Consejo de Ministros podrá modificarse el Ministerio al que se adscriba inicialmente la fundación.
 
-
 #### Artículo 134. Protectorado.
 
 El Protectorado de las fundaciones del sector público será ejercido por el órgano de la Administración de adscripción que tenga atribuida tal competencia, que velará por el cumplimiento de las obligaciones establecidas en la normativa sobre fundaciones, sin perjuicio del control de eficacia y la supervisión continua al que están sometidas de acuerdo con lo previsto en esta Ley.
-
 
 #### Artículo 135. Estructura organizativa.
 
 En las fundaciones del sector público estatal la mayoría de miembros del patronato serán designados por los sujetos del sector público estatal.
 
 La responsabilidad que le corresponda al empleado público como miembro del patronato será directamente asumida por la entidad o la Administración General del Estado que lo designó. La Administración General del Estado podrá exigir de oficio al empleado público que designó a esos efectos la responsabilidad en que hubiera incurrido por los daños y perjuicios causados en sus bienes o derechos cuando hubiera concurrido dolo, o culpa o negligencia graves, conforme a lo previsto en las leyes administrativas en materia de responsabilidad patrimonial.
-
 
 #### Artículo 136. Fusión, disolución, liquidación y extinción.
 
@@ -2453,7 +2284,6 @@ CAPÍTULO VIII
 
 De los fondos carentes de personalidad jurídica del sector público estatal
 
-
 #### Artículo 137. Creación y extinción.
 
 1. La creación de fondos carentes de personalidad jurídica en el sector público estatal se efectuará por Ley. La norma de creación determinará expresamente su adscripción a la Administración General del Estado.
@@ -2462,26 +2292,21 @@ De los fondos carentes de personalidad jurídica del sector público estatal
 
 3. En la denominación de los fondos carentes de personalidad jurídica deberá figurar necesariamente la indicación «fondo carente de personalidad jurídica» o su abreviatura «F.C.P.J».
 
-
 #### Artículo 138. Régimen jurídico.
 
 Los fondos carentes de personalidad jurídica se regirán por lo dispuesto en esta Ley, en su norma de creación, y el resto de las normas de derecho administrativo general y especial que le sea de aplicación.
-
 
 #### Artículo 139. Régimen presupuestario, de contabilidad y de control económico-financiero.
 
 Los fondos carentes de personalidad jurídica estarán sujetos al régimen de presupuestación, contabilidad y control previsto en la Ley 47/2003, de 26 de noviembre.
 
-
 ## TÍTULO III
-
 
 **Relaciones interadministrativas**
 
 CAPÍTULO I
 
 Principios generales de las relaciones interadministrativas
-
 
 #### Artículo 140. Principios de las relaciones interadministrativas.
 
@@ -2511,7 +2336,6 @@ CAPÍTULO II
 
 Deber de colaboración
 
-
 #### Artículo 141. Deber de colaboración entre las Administraciones Públicas.
 
 1. Las Administraciones Públicas deberán:
@@ -2529,7 +2353,6 @@ e) Cumplir con las obligaciones concretas derivadas del deber de colaboración y
 2. La asistencia y colaboración requerida sólo podrá negarse cuando el organismo público o la entidad del que se solicita no esté facultado para prestarla de acuerdo con lo previsto en su normativa específica, no disponga de medios suficientes para ello o cuando, de hacerlo, causara un perjuicio grave a los intereses cuya tutela tiene encomendada o al cumplimiento de sus propias funciones o cuando la información solicitada tenga carácter confidencial o reservado. La negativa a prestar la asistencia se comunicará motivadamente a la Administración solicitante.
 
 3. La Administración General del Estado, las de las Comunidades Autónomas y las de las Entidades Locales deberán colaborar y auxiliarse para la ejecución de sus actos que hayan de realizarse o tengan efectos fuera de sus respectivos ámbitos territoriales. Los posibles costes que pueda generar el deber de colaboración podrán ser repercutidos cuando así se acuerde.
-
 
 #### Artículo 142. Técnicas de colaboración.
 
@@ -2549,13 +2372,11 @@ Relaciones de cooperación
 
 Sección 1.ª Técnicas de cooperación
 
-
 #### Artículo 143. Cooperación entre Administraciones Públicas.
 
 1. Las Administraciones cooperarán al servicio del interés general y podrán acordar de manera voluntaria la forma de ejercer sus respectivas competencias que mejor sirva a este principio.
 
 2. La formalización de relaciones de cooperación requerirá la aceptación expresa de las partes, formulada en acuerdos de órganos de cooperación o en convenios.
-
 
 #### Artículo 144. Técnicas de Cooperación.
 
@@ -2583,7 +2404,6 @@ h) Cualquier otra prevista en la Ley.
 
 Sección 2.ª Técnicas orgánicas de cooperación
 
-
 #### Artículo 145. Órganos de cooperación.
 
 1. Los órganos de cooperación son órganos de composición multilateral o bilateral, de ámbito general o especial, constituidos por representantes de la Administración General del Estado, de las Administraciones de las Comunidades o Ciudades de Ceuta y Melilla o, en su caso, de las Entidades Locales, para acordar voluntariamente actuaciones que mejoren el ejercicio de las competencias que cada Administración Pública tiene.
@@ -2594,13 +2414,11 @@ Sección 2.ª Técnicas orgánicas de cooperación
 
 4. Los órganos de cooperación, salvo oposición por alguna de las partes, podrán adoptar acuerdos a través de un procedimiento simplificado y por suscripción sucesiva de las partes, por cualquiera de las formas admitidas en Derecho, en los términos que se establezcan de común acuerdo.
 
-
 #### Artículo 146. Conferencia de Presidentes.
 
 1. La Conferencia de Presidentes es un órgano de cooperación multilateral entre el Gobierno de la Nación y los respectivos Gobiernos de las Comunidades Autónomas y está formada por el Presidente del Gobierno, que la preside, y por los Presidentes de las Comunidades Autónomas y de las Ciudades de Ceuta y Melilla.
 
 2. La Conferencia de Presidentes tiene por objeto la deliberación de asuntos y la adopción de acuerdos de interés para el Estado y las Comunidades Autónomas, estando asistida para la preparación de sus reuniones por un Comité preparatorio del que forman parte un Ministro del Gobierno, que lo preside, y un Consejero de cada Comunidad Autónoma.
-
 
 #### Artículo 147. Conferencias Sectoriales.
 
@@ -2609,7 +2427,6 @@ Sección 2.ª Técnicas orgánicas de cooperación
 2. Las Conferencias Sectoriales, u órganos sometidos a su régimen jurídico con otra denominación, habrán de inscribirse en el Registro Electrónico estatal de Órganos e Instrumentos de Cooperación para su válida constitución.
 
 3. Cada Conferencia Sectorial dispondrá de un reglamento de organización y funcionamiento interno aprobado por sus miembros.
-
 
 #### Artículo 148. Funciones de las Conferencias Sectoriales.
 
@@ -2629,7 +2446,6 @@ e) Acordar la organización interna de la Conferencia Sectorial y de su método 
 
 f) Fijar los criterios objetivos que sirvan de base para la distribución territorial de los créditos presupuestarios, así como su distribución al comienzo del ejercicio económico, de acuerdo con lo previsto en la Ley 47/2003, de 26 de noviembre.
 
-
 #### Artículo 149. Convocatoria de las reuniones de las Conferencias Sectoriales.
 
 1. Corresponde al Ministro que presida la Conferencia Sectorial acordar la convocatoria de las reuniones por iniciativa propia, al menos una vez al año, o cuando lo soliciten, al menos, la tercera parte de sus miembros. En este último caso, la solicitud deberá incluir la propuesta de orden del día.
@@ -2639,7 +2455,6 @@ f) Fijar los criterios objetivos que sirvan de base para la distribución territ
 3. Cuando la conferencia sectorial hubiera de reunirse con el objeto exclusivo de informar un proyecto normativo, la convocatoria, la constitución y adopción de acuerdos podrá efectuarse por medios electrónicos, telefónicos o audiovisuales, que garanticen la intercomunicación entre ellos y la unidad de acto, tales como la videoconferencia o el correo electrónico, entendiéndose los acuerdos adoptados en el lugar donde esté la presidencia, de acuerdo con el procedimiento que se establezca en el reglamento de funcionamiento interno de la conferencia sectorial.
 
 De conformidad con lo previsto en este apartado la elaboración y remisión de actas podrá realizarse a través de medios electrónicos.
-
 
 #### Artículo 150. Secretaría de las Conferencias Sectoriales.
 
@@ -2659,7 +2474,6 @@ e) Expedir certificaciones de las consultas, recomendaciones y acuerdos aprobado
 
 f) Cuantas otras funciones sean inherentes a su condición de secretario.
 
-
 #### Artículo 151. Clases de decisiones de la Conferencia Sectorial.
 
 1. La adopción de decisiones requerirá la previa votación de los miembros de la Conferencia Sectorial. Esta votación se producirá por la representación que cada Administración Pública tenga y no por los distintos miembros de cada una de ellas.
@@ -2669,8 +2483,6 @@ f) Cuantas otras funciones sean inherentes a su condición de secretario.
 a) Acuerdo: supone un compromiso de actuación en el ejercicio de las respectivas competencias. Son de obligado cumplimiento y directamente exigibles de acuerdo con lo previsto en la Ley 29/1998, de 13 de julio, reguladora de la Jurisdicción Contencioso-administrativa, salvo para quienes hayan votado en contra mientras no decidan suscribirlos con posterioridad. El acuerdo será certificado en acta.
 
 Cuando la Administración General del Estado ejerza funciones de coordinación, de acuerdo con el orden constitucional de distribución de competencias del ámbito material respectivo, el Acuerdo que se adopte en la Conferencia Sectorial, y en el que se incluirán los votos particulares que se hayan formulado, será de obligado cumplimiento para todas las Administraciones Públicas integrantes de la Conferencia Sectorial, con independencia del sentido de su voto, siendo exigibles conforme a lo establecido en la Ley 29/1998, de 13 de julio. El acuerdo será certificado en acta.
-
-Las Conferencias Sectoriales podrán adoptar planes conjuntos, de carácter multilateral, entre la Administración General del Estado y la de las Comunidades Autónomas, para comprometer actuaciones conjuntas para la consecución de los objetivos comunes, que tendrán la naturaleza de Acuerdo de la conferencia sectorial y se publicarán en el «Boletín Oficial del Estado».
 
 El acuerdo aprobatorio de los planes deberá especificar, según su naturaleza, los siguientes elementos, de acuerdo con lo previsto en la legislación presupuestaria:
 
@@ -2685,7 +2497,6 @@ El acuerdo aprobatorio de los planes deberá especificar, según su naturaleza, 
 5.º La duración, así como los mecanismos de seguimiento, evaluación y modificación.
 
 b) Recomendación: tiene como finalidad expresar la opinión de la Conferencia Sectorial sobre un asunto que se somete a su consulta. Los miembros de la Conferencia Sectorial se comprometen a orientar su actuación en esa materia de conformidad con lo previsto en la Recomendación salvo quienes hayan votado en contra mientras no decidan suscribirla con posterioridad. Si algún miembro se aparta de la Recomendación, deberá motivarlo e incorporar dicha justificación en el correspondiente expediente.
-
 
 #### Artículo 152. Comisiones Sectoriales y Grupos de trabajo.
 
@@ -2707,7 +2518,6 @@ d) Cualquier otra que le encomiende la Conferencia Sectorial.
 
 El director del Grupo de trabajo, que será un representante de la Administración General del Estado, podrá solicitar con el voto favorable de la mayoría de sus miembros, la participación en el mismo de las organizaciones representativas de intereses afectados, con el fin de recabar propuestas o formular consultas.
 
-
 #### Artículo 153. Comisiones Bilaterales de Cooperación.
 
 1. Las Comisiones Bilaterales de Cooperación son órganos de cooperación de composición bilateral que reúnen, por un número igual de representantes, a miembros del Gobierno, en representación de la Administración General del Estado, y miembros del Consejo de Gobierno de la Comunidad Autónoma o representantes de la Ciudad de Ceuta o de la Ciudad de Melilla.
@@ -2719,7 +2529,6 @@ El director del Grupo de trabajo, que será un representante de la Administraci�
 4. Las decisiones adoptadas por las Comisiones Bilaterales de Cooperación revestirán la forma de Acuerdos y serán de obligado cumplimiento, cuando así se prevea expresamente, para las dos Administraciones que lo suscriban y en ese caso serán exigibles conforme a lo establecido en la Ley 29/1998, de 13 de julio. El acuerdo será certificado en acta.
 
 5. Lo previsto en este artículo será de aplicación sin perjuicio de las peculiaridades que, de acuerdo con las finalidades básicas previstas, se establezcan en los Estatutos de Autonomía en materia de organización y funciones de las comisiones bilaterales.
-
 
 #### Artículo 154. Comisiones Territoriales de Coordinación.
 
@@ -2739,7 +2548,6 @@ CAPÍTULO IV
 
 Relaciones electrónicas entre las Administraciones
 
-
 #### Artículo 155. Transmisiones de datos entre Administraciones Públicas.
 
 1. De conformidad con lo dispuesto en la Ley Orgánica 15/1999, de 13 de diciembre, de Protección de Datos de Carácter Personal y su normativa de desarrollo, cada Administración deberá facilitar el acceso de las restantes Administraciones Públicas a los datos relativos a los interesados que obren en su poder, especificando las condiciones, protocolos y criterios funcionales o técnicos necesarios para acceder a dichos datos con las máximas garantías de seguridad, integridad y disponibilidad.
@@ -2748,13 +2556,11 @@ Relaciones electrónicas entre las Administraciones
 
 3. La Administración General del Estado, las Administraciones Autonómicas y las Entidades Locales, adoptarán las medidas necesarias e incorporarán en sus respectivos ámbitos las tecnologías precisas para posibilitar la interconexión de sus redes con el fin de crear una red de comunicaciones que interconecte los sistemas de información de las Administraciones Públicas y permita el intercambio de información y servicios entre las mismas, así como la interconexión con las redes de las instituciones de la Unión Europea y de otros Estados Miembros.
 
-
 #### Artículo 156. Esquema Nacional de Interoperabilidad y Esquema Nacional de Seguridad.
 
 1. El Esquema Nacional de Interoperabilidad comprende el conjunto de criterios y recomendaciones en materia de seguridad, conservación y normalización de la información, de los formatos y de las aplicaciones que deberán ser tenidos en cuenta por las Administraciones Públicas para la toma de decisiones tecnológicas que garanticen la interoperabilidad.
 
 2. El Esquema Nacional de Seguridad tiene por objeto establecer la política de seguridad en la utilización de medios electrónicos en el ámbito de la presente Ley, y está constituido por los principios básicos y requisitos mínimos que garanticen adecuadamente la seguridad de la información tratada.
-
 
 #### Artículo 157. Reutilización de sistemas y aplicaciones de propiedad de la Administración.
 
@@ -2768,18 +2574,15 @@ En este directorio constarán tanto las aplicaciones disponibles de la Administr
 
 En el caso de existir una solución disponible para su reutilización total o parcial, las Administraciones Públicas estarán obligadas a su uso, salvo que la decisión de no reutilizarla se justifique en términos de eficiencia conforme al artículo 7 de la Ley Orgánica 2/2012, de 27 de abril, de Estabilidad Presupuestaria y Sostenibilidad Financiera.
 
-
 #### Artículo 158. Transferencia de tecnología entre Administraciones.
 
 1. Las Administraciones Públicas mantendrán directorios actualizados de aplicaciones para su libre reutilización, de conformidad con lo dispuesto en el Esquema Nacional de Interoperabilidad. Estos directorios deberán ser plenamente interoperables con el directorio general de la Administración General del Estado, de modo que se garantice su compatibilidad informática e interconexión.
 
 2. La Administración General del Estado, mantendrá un directorio general de aplicaciones para su reutilización, prestará apoyo para la libre reutilización de aplicaciones e impulsará el desarrollo de aplicaciones, formatos y estándares comunes en el marco de los esquemas nacionales de interoperabilidad y seguridad.
 
-
 #### Disposición adicional primera. Administración de los Territorios Históricos del País Vasco.
 
 En la Comunidad Autónoma del País Vasco, a efectos de lo dispuesto en el artículo segundo, se entenderá por Administraciones Públicas las Diputaciones Forales y las Administraciones institucionales de ellas dependientes o vinculadas.
-
 
 #### Disposición adicional segunda. Delegados del Gobierno en las Ciudades de Ceuta y Melilla.
 
@@ -2789,11 +2592,9 @@ En la Comunidad Autónoma del País Vasco, a efectos de lo dispuesto en el artí
 
 3. En las Ciudades de Ceuta y Melilla existirá una Comisión de asistencia al Delegado del Gobierno, presidida por él mismo e integrada por el Secretario General y los responsables de los servicios territoriales. A sus sesiones deberán asistir los titulares de los órganos y servicios territoriales, tanto integrados como no integrados que el Delegado del Gobierno considere oportuno.
 
-
 #### Disposición adicional tercera. Relaciones con las ciudades de Ceuta y Melilla.
 
 Lo dispuesto en esta Ley sobre las relaciones entre la Administración General del Estado y las Administraciones de las Comunidades Autónomas será de aplicación a las relaciones con las Ciudades de Ceuta y Melilla en la medida en que afecte al ejercicio de las competencias estatutariamente asumidas.
-
 
 #### Disposición adicional cuarta. Adaptación de entidades y organismos públicos existentes en el ámbito estatal.
 
@@ -2804,7 +2605,6 @@ La adaptación se realizará preservando las actuales especialidades de los orga
 Las entidades que no tuvieran la consideración de poder adjudicador, preservarán esta especialidad en tanto no se oponga a la normativa comunitaria.
 
 Las entidades que tengan como fines la promoción de la internacionalización de la economía y de la empresa española preservarán además y con las mismas limitaciones las especialidades en materia de ayudas en tanto no se opongan a la normativa comunitaria.
-
 
 #### Disposición adicional quinta. Gestión compartida de servicios comunes de los organismos públicos estatales existentes.
 
@@ -2818,11 +2618,9 @@ b) Mediante su coordinación por el departamento al que esté vinculado o del qu
 
 c) Mediante su coordinación por el organismo público al que esté vinculado o del que dependa a su vez el organismo público.
 
-
 #### Disposición adicional sexta. Transformación de los medios propios estatales existentes.
 
 Todas las entidades y organismos públicos que en el momento de la entrada en vigor de esta Ley tengan la condición de medio propio en el ámbito estatal deberán adaptarse a lo previsto en esta Ley en el plazo de seis meses a contar desde su entrada en vigor.
-
 
 #### Disposición adicional séptima. Registro Electrónico estatal de Órganos e Instrumentos de Cooperación.
 
@@ -2838,7 +2636,6 @@ Todas las entidades y organismos públicos que en el momento de la entrada en vi
 
 6. Los órganos de cooperación que no se hayan reunido en un plazo de cinco años desde su creación o en un plazo de cinco años desde la entrada en vigor de esta ley quedarán extinguidos.
 
-
 #### Disposición adicional octava. Adaptación de los convenios vigentes suscritos por cualquier Administración Pública e inscripción de organismos y entidades en el Inventario de Entidades del Sector Público Estatal, Autonómico y Local.
 
 1. Todos los convenios vigentes suscritos por cualquier Administración Pública o cualquiera de sus organismos o entidades vinculados o dependientes deberán adaptarse a lo aquí previsto en el plazo de tres años a contar desde la entrada en vigor de esta Ley.
@@ -2846,7 +2643,6 @@ Todas las entidades y organismos públicos que en el momento de la entrada en vi
 No obstante, esta adaptación será automática, en lo que se refiere al plazo de vigencia del convenio, por aplicación directa de las reglas previstas en el artículo 49.h).1.º para los convenios que no tuvieran determinado un plazo de vigencia o, existiendo, tuvieran establecida una prórroga tácita por tiempo indefinido en el momento de la entrada en vigor de esta Ley. En estos casos el plazo de vigencia del convenio será de cuatro años a contar desde la entrada en vigor de la presente Ley.
 
 2. Todos los organismos y entidades, vinculados o dependientes de cualquier Administración Pública y cualquiera que sea su naturaleza jurídica, existentes en el momento de la entrada en vigor de esta Ley deberán estar inscritos en el Inventario de Entidades del Sector Público Estatal, Autonómico y Local en el plazo de tres meses a contar desde dicha entrada en vigor.
-
 
 #### Disposición adicional novena. Comisión Sectorial de administración electrónica.
 
@@ -2862,11 +2658,9 @@ c) Asegurar la cooperación entre las Administraciones Públicas para proporcion
 
 3. Cuando por razón de las materias tratadas resulte de interés, podrá invitarse a las organizaciones, corporaciones o agentes sociales que se estime conveniente en cada caso a participar en las deliberaciones de la Comisión Sectorial.
 
-
 #### Disposición adicional décima. Aportaciones a los consorcios.
 
 Cuando las Administraciones Públicas o cualquiera de sus organismos públicos o entidades vinculados o dependientes sean miembros de un consorcio, no estarán obligados a efectuar la aportación al fondo patrimonial o la financiación a la que se hayan comprometido para el ejercicio corriente si alguno de los demás miembros del consorcio no hubiera realizado la totalidad de sus aportaciones dinerarias correspondientes a ejercicios anteriores a las que estén obligados.
-
 
 #### Disposición adicional undécima. Conflictos de atribuciones intraministeriales.
 
@@ -2878,11 +2672,9 @@ Cuando las Administraciones Públicas o cualquiera de sus organismos públicos o
 
 4. Los interesados en el procedimiento plantearán estos conflictos de acuerdo a lo establecido en el artículo 14.
 
-
 #### Disposición adicional duodécima. Régimen Jurídico de las Autoridades Portuarias y Puertos del Estado.
 
 Las Autoridades Portuarias y Puertos del Estado se regirán por su legislación específica, por las disposiciones de la Ley 47/2003, de 26 de noviembre, que les sean de aplicación y, supletoriamente, por lo establecido en esta Ley.
-
 
 #### Disposición adicional decimotercera. Régimen jurídico de las Entidades gestoras y servicios comunes de la Seguridad Social.
 
@@ -2890,13 +2682,11 @@ Las Autoridades Portuarias y Puertos del Estado se regirán por su legislación 
 
 2. El régimen de personal, económico-financiero, patrimonial, presupuestario y contable, de participación en la gestión, así como la asistencia jurídica, será el establecido por su legislación específica, por la Ley 47/2003, de 26 de noviembre, General Presupuestaria, en las materias que sea de aplicación, y supletoriamente por esta Ley.
 
-
 #### Disposición adicional decimocuarta. La organización militar y las Delegaciones de Defensa.
 
 1. La organización militar se rige por su legislación específica y por las bases establecidas en la ley Orgánica 5/2005, de 17 de noviembre, de la Defensa Nacional.
 
 2. Las Delegaciones de Defensa permanecerán integradas en el Ministerio de Defensa y se regirán por su normativa específica.
-
 
 #### Disposición adicional decimoquinta. Personal militar de las Fuerzas Armadas y del Centro Nacional de Inteligencia.
 
@@ -2904,11 +2694,9 @@ Las referencias que en los artículos 63, 65, 66 y 67 de esta ley se realiza
 
 Dichas previsiones normativas serán igualmente aplicables al personal del Centro Nacional de Inteligencia perteneciente al Subgrupo A1, según su normativa estatutaria.
 
-
 #### Disposición adicional decimosexta. Servicios territoriales integrados en las Delegaciones del Gobierno.
 
 Los servicios territoriales que, a la entrada en vigor de esta Ley, estuviesen integrados en las Delegaciones del Gobierno continuarán en esta situación, siendo aplicable a los mismos lo previsto en la presente Ley.
-
 
 #### Disposición adicional decimoséptima. Régimen jurídico de la Agencia Estatal de Administración Tributaria.
 
@@ -2916,11 +2704,9 @@ La Agencia Estatal de Administración Tributaria se regirá por su legislación 
 
 El acceso, la cesión o la comunicación de información de naturaleza tributaria se regirán en todo caso por su legislación específica.
 
-
 #### Disposición adicional decimoctava. Régimen jurídico del Centro Nacional de Inteligencia.
 
 La actuación administrativa de los órganos competentes del Centro Nacional de Inteligencia se regirá por lo previsto en su normativa específica y en lo no previsto en ella, en cuanto sea compatible con su naturaleza y funciones propias, por lo dispuesto en la presente Ley.
-
 
 #### Disposición adicional decimonovena. Régimen jurídico del Banco de España.
 
@@ -2928,26 +2714,21 @@ El Banco de España en su condición de banco central nacional se regirá, en pr
 
 En lo no previsto en las referidas normas y en cuanto sea compatible con su naturaleza y funciones será de aplicación lo previsto en la presente Ley.
 
-
 #### Disposición adicional vigésima. Régimen jurídico del Fondo de Reestructuración Ordenada Bancaria.
 
 El Fondo de Reestructuración Ordenada Bancaria tendrá la consideración de autoridad administrativa independiente de conformidad con lo previsto en esta Ley.
-
 
 #### Disposición adicional vigesimoprimera. Órganos Colegiados de Gobierno.
 
 Las disposiciones previstas en esta Ley relativas a los órganos colegiados no serán de aplicación a los órganos Colegiados del Gobierno de la Nación, los órganos colegiados de Gobierno de las Comunidades Autónomas y los órganos colegiados de gobierno de las Entidades Locales.
 
-
 #### Disposición adicional vigesimosegunda. Actuación administrativa de los órganos constitucionales del Estado y de los órganos legislativos y de control autonómicos.
 
 La actuación administrativa de los órganos competentes del Congreso de los Diputados, del Senado, del Consejo General del Poder Judicial, del Tribunal Constitucional, del Tribunal de Cuentas, del Defensor del Pueblo, de las Asambleas Legislativas de las Comunidades Autónomas y de las instituciones autonómicas análogas al Tribunal de Cuentas y al Defensor del Pueblo, se regirá por lo previsto en su normativa específica, en el marco de los principios que inspiran la actuación administrativa de acuerdo con esta Ley.
 
-
 #### Disposición transitoria primera. Composición y clasificación del sector público institucional.
 
 La composición y clasificación del sector público institucional estatal prevista en el artículo 84 se aplicará únicamente a los organismos públicos y las entidades integrantes del sector público institucional estatal que se creen tras la entrada en vigor de la Ley y a los que se hayan adaptado de acuerdo con lo previsto en la disposición adicional cuarta.
-
 
 #### Disposición transitoria segunda. Entidades y organismos públicos existentes.
 
@@ -2959,16 +2740,13 @@ a) Los organismos públicos existentes en el momento de la entrada en vigor de e
 
 b) Las sociedades mercantiles estatales, los consorcios, fundaciones y fondos sin personalidad jurídica existentes en el momento de la entrada en vigor de esta Ley aplicarán desde ese momento, respectivamente, lo previsto en el Capítulo V, Capítulo VI, Capítulo VII y Capítulo VIII del Título II.
 
-
 #### Disposición transitoria tercera. Procedimientos de elaboración de normas en la Administración General del Estado.
 
 Los procedimientos de elaboración de normas que se hallaren en tramitación en la Administración General del Estado a la entrada en vigor de esta Ley se sustanciarán de acuerdo con lo establecido en la normativa vigente en el momento en que se iniciaron.
 
-
 #### Disposición transitoria cuarta. Régimen transitorio de las modificaciones introducidas en la disposición final novena.
 
 Lo dispuesto en la disposición final novena será de aplicación a los expedientes de contratación iniciados con posterioridad a la entrada en vigor de dicha disposición. A estos efectos se entenderá que los expedientes de contratación han sido iniciados si se hubiera publicado la correspondiente convocatoria del procedimiento de adjudicación del contrato. En el caso de procedimientos negociados, para determinar el momento de iniciación se tomará en cuenta la fecha de aprobación de los pliegos.
-
 
 #### Disposición derogatoria única. Derogación normativa.
 
@@ -2992,7 +2770,6 @@ h) Los artículos 37, 38, 39 y 40 del Decreto de 17 de junio de 1955 por e
 
 Hasta que, de acuerdo con lo previsto en la disposición adicional cuarta, concluya el plazo de adaptación de las agencias existentes en el sector público estatal, se mantendrá en vigor la Ley 28/2006, de 18 de julio.
 
-
 #### Disposición final primera. Modificación de la Ley 23/1982, de 16 de junio, reguladora del Patrimonio Nacional.
 
 El apartado uno del artículo octavo de la Ley 23/1982, de 16 de junio, reguladora del Patrimonio Nacional, quedará redactado en la forma siguiente:
@@ -3002,7 +2779,6 @@ El apartado uno del artículo octavo de la Ley 23/1982, de 16 de junio, regula
 Dos de los Vocales, al menos, deberán de provenir de instituciones museísticas y culturales de reconocido prestigio y proyección internacional. Igualmente, en dos de los Vocales, al menos, habrá de concurrir la condición de Alcaldes de Ayuntamientos en cuyo término municipal radiquen bienes inmuebles históricos del Patrimonio Nacional.
 
 El Presidente, el Gerente y los demás miembros del Consejo de Administración serán nombrados mediante Real Decreto, previa deliberación del Consejo de Ministros a propuesta del Presidente del Gobierno.»
-
 
 #### Disposición final segunda. Modificación del Real Decreto-Ley 12/1995, de 28 de diciembre, sobre medidas urgentes en materia presupuestaria, tributaria y financiera.
 
@@ -3035,7 +2811,6 @@ La modificación de la disposición adicional sexta del Real Decreto-Ley 12/199
 Adicionalmente, se mantendrán las atribuciones, poderes y delegaciones conferidas por el Consejo General en otras autoridades y órganos del Instituto de Crédito Oficial hasta que el Consejo General decida, en su caso, su revisión.
 
 Los Consejeros que, a la entrada en vigor de la disposición final segunda de la Ley 40/2015, de 1 de octubre, de Régimen Jurídico del Sector Público, formasen parte del Consejo General del Instituto de Crédito Oficial continuarán en el ejercicio de sus funciones hasta que se nombre a quienes hubieran de sucederles.»
-
 
 #### Disposición final tercera. Modificación de la Ley 50/1997, de 27 de noviembre, del Gobierno.
 
@@ -3131,8 +2906,6 @@ d) El archivo y custodia de las convocatorias, órdenes del día y actas de las 
 
 e) Velar por el cumplimiento de los principios de buena regulación aplicables a las iniciativas normativas y contribuir a la mejora de la calidad técnica de las disposiciones aprobadas por el Gobierno.
 
-f) Velar por la correcta y fiel publicación de las disposiciones y normas emanadas del Gobierno que deban insertarse en el “Boletín Oficial del Estadoˮ.
-
 2. Asimismo, el Secretariado del Gobierno, como órgano de asistencia al Ministro de la Presidencia, ejercerá las siguientes funciones:
 
 a) Los trámites relativos a la sanción y promulgación real de las leyes aprobadas por las Cortes Generales y la expedición de los Reales Decretos.
@@ -3215,24 +2988,19 @@ La avocación se realizará mediante acuerdo motivado al efecto, del que se har�
 
 Doce. El Título V queda redactado del siguiente modo:
 
-
 **«TÍTULO V**
 
-
 **De la iniciativa legislativa y la potestad reglamentaria del Gobierno**
-
 
 #### Artículo 22. Del ejercicio de la iniciativa legislativa y la potestad reglamentaria del Gobierno.
 
 El Gobierno ejercerá la iniciativa y la potestad reglamentaria de conformidad con los principios y reglas establecidos en el Título VI de la Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común de las Administraciones Públicas y en el presente Título.
-
 
 #### Artículo 23. Disposiciones de entrada en vigor.
 
 Sin perjuicio de lo establecido en el artículo 2.1 del Código Civil, las disposiciones de entrada en vigor de las leyes o reglamentos, cuya aprobación o propuesta corresponda al Gobierno o a sus miembros, y que impongan nuevas obligaciones a las personas físicas o jurídicas que desempeñen una actividad económica o profesional como consecuencia del ejercicio de ésta, preverán el comienzo de su vigencia el 2 de enero o el 1 de julio siguientes a su aprobación.
 
 Lo previsto en este artículo no será de aplicación a los reales decretos-leyes, ni cuando el cumplimiento del plazo de transposición de directivas europeas u otras razones justificadas así lo aconsejen, debiendo quedar este hecho debidamente acreditado en la respectiva Memoria.
-
 
 #### Artículo 24. De la forma y jerarquía de las disposiciones y resoluciones del Gobierno de la Nación y de sus miembros.
 
@@ -3256,7 +3024,6 @@ f) Órdenes Ministeriales, las disposiciones y resoluciones de los Ministros. Cu
 
 2.º Disposiciones aprobadas por Orden Ministerial.
 
-
 #### Artículo 25. Plan Anual Normativo.
 
 1. El Gobierno aprobará anualmente un Plan Normativo que contendrá las iniciativas legislativas o reglamentarias que vayan a ser elevadas para su aprobación en el año siguiente.
@@ -3268,7 +3035,6 @@ f) Órdenes Ministeriales, las disposiciones y resoluciones de los Ministros. Cu
 4. El Plan Anual Normativo estará coordinado por el Ministerio de la Presidencia, con el objeto de asegurar la congruencia de todas las iniciativas que se tramiten y de evitar sucesivas modificaciones del régimen legal aplicable a un determinado sector o área de actividad en un corto espacio de tiempo. El Ministro de la Presidencia elevará el Plan al Consejo de Ministros para su aprobación antes del 30 de abril.
 
 Por orden del Ministerio de la Presidencia se aprobarán los modelos que contengan la información a remitir sobre cada iniciativa normativa para su inclusión en el Plan.
-
 
 #### Artículo 26. Procedimiento de elaboración de normas con rango de Ley y reglamentos.
 
@@ -3356,7 +3122,6 @@ Reglamentariamente se determinará la composición del órgano encargado de la r
 
 11. Lo dispuesto en este artículo y en el siguiente no será de aplicación para la tramitación y aprobación de decretos-leyes, a excepción de la elaboración de la memoria prevista en el apartado 3, con carácter abreviado, y lo establecido en los números 1, 8, 9 y 10.
 
-
 #### Artículo 27. Tramitación urgente de iniciativas normativas en el ámbito de la Administración General del Estado.
 
 1. El Consejo de Ministros, a propuesta del titular del departamento al que corresponda la iniciativa normativa, podrá acordar la tramitación urgente del procedimiento de elaboración y aprobación de anteproyectos de ley, reales decretos legislativos y de reales decretos, en alguno de los siguientes casos:
@@ -3375,7 +3140,6 @@ b) No será preciso el trámite de consulta pública previsto en el artículo 2
 
 c) La falta de emisión de un dictamen o informe preceptivo en plazo no impedirá la continuación del procedimiento, sin perjuicio de su eventual incorporación y consideración cuando se reciba.
 
-
 #### Artículo 28. Informe anual de evaluación.
 
 1. El Consejo de Ministros, a propuesta del Ministerio de la Presidencia, aprobará, antes del 30 de abril de cada año, un informe anual en el que se refleje el grado de cumplimiento del Plan Anual Normativo del año anterior, las iniciativas adoptadas que no estaban inicialmente incluidas en el citado Plan, así como las incluidas en anteriores informes de evaluación con objetivos plurianuales que hayan producido al menos parte de sus efectos en el año que se evalúa.
@@ -3392,12 +3156,9 @@ El informe podrá contener recomendaciones específicas de modificación y, en s
 
 Trece. Se añade un Título VI en el que se incluye el artículo 26 actual, que se renumera como artículo 29, y que queda redactado del siguiente modo:
 
-
 **«TÍTULO VI**
 
-
 **Del control del Gobierno**
-
 
 #### Artículo 29. Del control de los actos del Gobierno.
 
@@ -3409,13 +3170,11 @@ Trece. Se añade un Título VI en el que se incluye el artículo 26 actual, que
 
 4. La actuación del Gobierno es impugnable ante el Tribunal Constitucional en los términos de la Ley Orgánica reguladora del mismo.»
 
-
 #### Disposición final cuarta. Modificación de la Ley 50/2002, de 26 de diciembre, de Fundaciones.
 
 El apartado 2 del artículo 34 de la Ley 50/2002, de 26 de diciembre, de Fundaciones, queda redactado en los siguientes términos:
 
 «2. Las funciones de Protectorado respecto de las fundaciones de competencia estatal serán ejercidas por la Administración General del Estado a través de un único órgano administrativo, en la forma que reglamentariamente se determine.»
-
 
 #### Disposición final quinta. Modificación de la Ley 22/2003, de 9 de julio, Concursal.
 
@@ -3455,7 +3214,6 @@ b) Que la prenda esté constituida en documento público o, en el caso de prenda
 
 c) Que, en el caso de créditos derivados de la resolución de contratos de concesión de obras o de gestión de servicios públicos, cumplan, además, con lo exigido en el artículo 261.3 del texto Refundido de la Ley de Contratos del Sector Público, aprobado por Real Decreto Legislativo 3/2011, de 14 de noviembre.»
 
-
 #### Disposición final sexta. Modificación de la Ley 33/2003, de 3 de noviembre, del Patrimonio de las Administraciones Públicas.
 
 La Ley 33/2003, de 3 de noviembre, del Patrimonio de las Administraciones Públicas queda modificada en los siguientes términos:
@@ -3477,7 +3235,6 @@ c) Las sociedades mercantiles estatales, entendiendo por tales aquellas sobre la
 Dos. El apartado segundo del artículo 167 queda redactado en los siguientes términos:
 
 «2. Las entidades a que se refiere el párrafo c) del apartado 1 del artículo anterior ajustarán la gestión de su patrimonio al Derecho privado, sin perjuicio de las disposiciones de esta ley que les resulten expresamente de aplicación.»
-
 
 #### Disposición final séptima. Modificación de la Ley 38/2003, de 17 de noviembre, General de Subvenciones.
 
@@ -3534,7 +3291,6 @@ d) Promover la formación para la prevención y lucha contra el fraude.
 5. Las autoridades, los titulares de los órganos del Estado, de las Comunidades Autónomas y de las Entidades Locales, así como los jefes o directores de oficinas públicas, organismos y otros entes públicos y quienes, en general, ejerzan funciones públicas o desarrollen su trabajo en dichas entidades deberán prestar la debida colaboración y apoyo al Servicio. El Servicio tendrá las mismas facultades que la OLAF para acceder a la información pertinente en relación con los hechos que se estén investigando.
 
 6. El Servicio podrá concertar convenios con la OLAF para la transmisión de la información y para la realización de investigaciones.»
-
 
 #### Disposición final octava. Modificación de la Ley 47/2003, de 26 de noviembre, General Presupuestaria.
 
@@ -3604,7 +3360,6 @@ c) Cualesquiera organismos y entidades de derecho público vinculados o dependie
 
 3. El sector público fundacional, integrado por las fundaciones del sector público estatal.»
 
-
 #### Disposición final novena. Modificación del Texto Refundido de la Ley de Contratos del Sector Público, aprobado por Real Decreto Legislativo 3/2011, de 14 de noviembre.
 
 El Texto Refundido de la Ley de Contratos del Sector Público, aprobado por Real Decreto Legislativo 3/2011, de 14 de noviembre, queda modificado como sigue:
@@ -3636,8 +3391,6 @@ g) Estar incursa la persona física o los administradores de la persona jurídic
 La prohibición alcanzará a las personas jurídicas en cuyo capital participen, en los términos y cuantías establecidas en la legislación citada, el personal y los altos cargos a que se refiere el párrafo anterior, así como los cargos electos al servicio de las mismas.
 
 La prohibición se extiende igualmente, en ambos casos, a los cónyuges, personas vinculadas con análoga relación de convivencia afectiva, ascendientes y descendientes, así como a parientes en segundo grado por consanguineidad o afinidad de las personas a que se refieren los párrafos anteriores, cuando se produzca conflicto de intereses con el titular del órgano de contratación o los titulares de los órganos en que se hubiere delegado la facultad para contratar o los que ejerzan la sustitución del primero.
-
-h) Haber contratado a personas respecto de las que se haya publicado en el “Boletín Oficial del Estado” el incumplimiento a que se refiere el artículo 18.6 de la Ley 5/2006, de 10 de abril, de Regulación de los Conflictos de Intereses de los Miembros del Gobierno y de los Altos Cargos de la Administración General del Estado o en las respectivas normas de las Comunidades Autónomas, por haber pasado a prestar servicios en empresas o sociedades privadas directamente relacionadas con las competencias del cargo desempeñado durante los dos años siguientes a la fecha de cese en el mismo. La prohibición de contratar se mantendrá durante el tiempo que permanezca dentro de la organización de la empresa la persona contratada con el límite máximo de dos años a contar desde el cese como alto cargo.
 
 2. Además de las previstas en el apartado anterior, son circunstancias que impedirán a los empresarios contratar con las entidades comprendidas en el artículo 3 de la presente Ley, en las condiciones establecidas en el artículo 61 bis las siguientes:
 
@@ -3761,8 +3514,6 @@ No se admitirá la hipoteca de concesiones de obras públicas en garantía de de
 
 2. Las solicitudes referentes a las autorizaciones administrativas previstas en este artículo y en el siguiente se resolverán por el órgano competente en el plazo de un mes, debiendo entenderse desestimadas si no resuelve y notifica en ese plazo.
 
-3. Los derechos derivados de la resolución de un contrato de concesión de obra o de gestión de servicio público, a que se refieren los primeros apartados de los artículos 271 y 288, así como los derivados de las aportaciones públicas y de la ejecución de garantías establecidos en los artículos 254 y 256, sólo podrán pignorarse en garantía de deudas que guarden relación con la concesión o el contrato, previa autorización del órgano de contratación, que deberá publicarse en el “Boletín Oficial del Estado” o en los diarios oficiales autonómicos o provinciales.»
-
 Ocho. Los apartados 1 y 3 del artículo 271 quedan redactados de la siguiente manera:
 
 «1. En los supuestos de resolución por causa imputable a la Administración, esta abonará en todo caso al concesionario el importe de las inversiones realizadas por razón de la expropiación de terrenos, ejecución de obras de construcción y adquisición de bienes que sean necesarios para la explotación de la obra objeto de la concesión, atendiendo a su grado de amortización. Al efecto, se aplicará un criterio de amortización lineal. La cantidad resultante se fijará dentro del plazo de seis meses, salvo que se estableciera otro en el pliego de cláusulas administrativas particulares.
@@ -3869,7 +3620,6 @@ Trece. Se incorpora una nueva disposición transitoria con el siguiente contenid
 
 2. Hasta el momento en que se produzca la aprobación del desarrollo reglamentario a que se refiere el apartado anterior, los órganos de contratación ponderarán en los supuestos que ello sea obligatorio, que los licitadores cumplen lo dispuesto en el Real Decreto Legislativo 1/2013, de 29 de noviembre, por el que se aprueba el Texto Refundido de la Ley General de derechos de las personas con discapacidad y de su inclusión social, en relación con la obligación de contar con un dos por ciento de trabajadores con discapacidad o adoptar las medidas alternativas correspondientes, de conformidad con lo dispuesto en la disposición adicional cuarta.»
 
-
 #### Disposición final décima. Modificación de la Ley 17/2012, de 27 de diciembre, de Presupuestos Generales del Estado para el año 2013.
 
 Se modifica la disposición adicional décima tercera de la Ley 17/2012, de 27 de diciembre, de Presupuestos Generales del Estado para el año 2013, que queda redactada en los siguientes términos:
@@ -3950,13 +3700,11 @@ No podrá bonificarse ningún embarque contenido en el fichero informático que 
 
 Trece. El Gobierno dictará las normas de aplicación y desarrollo de las bonificaciones al transporte, marítimo y aéreo, regular de pasajeros.»
 
-
 #### Disposición final undécima. Modificación de la Ley 20/2015, de 14 de julio, de ordenación, supervisión y solvencia de las entidades aseguradoras y reaseguradoras.
 
 Se modifica el apartado 2 de la disposición final vigésima primera de la ley 20/2015, de 14 de julio, de ordenación, supervisión y solvencia de las entidades aseguradoras y reaseguradoras, que queda redactado en los siguientes términos:
 
 «2. No obstante, la disposición transitoria decimotercera y la disposición adicional decimosexta entrarán en vigor el día siguiente al de su publicación. Las disposiciones transitorias cuarta y décima entrarán en vigor el 1 de septiembre de 2015. La disposición final novena entrará en vigor el 1 de julio de 2016. La disposición final duodécima entrará en vigor al día siguiente de la publicación de la Ley 40/2015, de 1 de octubre, de Régimen Jurídico del Sector Público.»
-
 
 #### Disposición final duodécima. Restitución o compensación a los partidos políticos de bienes y derechos incautados en aplicación de la normativa sobre responsabilidades políticas.
 
@@ -3964,11 +3712,9 @@ El reconocimiento de los derechos previstos en la Ley 50/2007, de 26 de diciem
 
 Una vez se constate la concurrencia de las expresadas condiciones, el Gobierno aprobará el Reglamento de desarrollo de la Ley, el cual fijará un nuevo plazo para la presentación de las solicitudes de restitución o compensación.
 
-
 #### Disposición final decimotercera. Referencias normativas.
 
 Las referencias hechas a Ley 30/1992, de 26 de noviembre, de Régimen Jurídico de las Administraciones Públicas y del Procedimiento Administrativo Común se entenderán hechas a la Ley del Procedimiento Administrativo Común de las Administraciones Públicas o a la Ley de Régimen Jurídico del Sector Público, según corresponda.
-
 
 #### Disposición final decimocuarta. Título competencial.
 
@@ -3984,18 +3730,15 @@ c) Lo dispuesto en el Capítulo II relativo a la organización y funcionamiento 
 
 d) Lo previsto en las disposiciones adicionales: cuarta, sobre adaptación de entidades y organismos estatales, quinta, sobre gestión compartida de servicios comunes en organismos públicos estatales, sexta, sobre medios propios, séptima, sobre el registro electrónico estatal de órganos e instrumentos de cooperación, undécima, sobre conflictos de atribuciones intraministeriales, duodécima, sobre Autoridades Portuarias y Puertos del Estado, decimotercera, relativa a las entidades de la Seguridad Social, decimocuarta, sobre la organización militar, decimoquinta, relativa al personal militar, la decimosexta, sobre Servicios territoriales integrados en las Delegaciones del Gobierno, decimoséptima, relativa a la Agencia Estatal de la Administración Tributaria, la decimoctava relativa al Centro Nacional de Inteligencia, la decimonovena relativa al Banco de España y la vigésima relativa al Fondo de Reestructuración Ordenada Bancaria.
 
-
 #### Disposición final decimoquinta. Desarrollo normativo de la Ley.
 
 Se faculta al Consejo de Ministros y a los Ministros de Presidencia y de Hacienda y Administraciones Públicas, en el ámbito de sus competencias, para dictar cuantas disposiciones reglamentarias sean necesarias para el desarrollo de la presente Ley, así como para acordar las medidas necesarias para garantizar la efectiva ejecución e implantación de las previsiones de esta Ley.
 
 En el plazo de tres meses desde la entrada en vigor de esta Ley, mediante Orden del Ministro de Hacienda y Administraciones Públicas, se desarrollará lo previsto en el artículo 85 sobre la supervisión continua.
 
-
 #### Disposición final decimosexta. Precedencias en actos oficiales.
 
 Por Real Decreto del Consejo de Ministros, a propuesta del Presidente del Gobierno, se determinarán las precedencias de los titulares de los poderes constitucionales y de las instituciones nacionales, así como las de los titulares de los departamentos ministeriales y de los órganos internos de estos en relación con los actos oficiales.
-
 
 #### Disposición final decimoséptima. Adaptación normativa.
 
@@ -4003,14 +3746,7 @@ Por Real Decreto del Consejo de Ministros, a propuesta del Presidente del Gobier
 
 2. Los consorcios creados por una ley singular aprobada por las Cortes Generales con anterioridad a la aprobación de esta Ley seguirán rigiéndose por su legislación especial hasta que se produzca la citada adaptación normativa.
 
-
 #### Disposición final decimoctava. Entrada en vigor.
-
-1. La presente Ley entrará en vigor al año de su publicación en el «Boletín Oficial del Estado», a excepción del punto cuatro de la disposición final quinta, de modificación de la Ley 22/2003, de 9 de julio, Concursal, de los puntos uno a once de la disposición final novena, de modificación del Texto Refundido de la Ley de Contratos del Sector Público, aprobado por Real Decreto Legislativo 3/2011, de 14 de noviembre y la disposición final decimosegunda, de restitución o compensación a los partidos políticos de bienes y derechos incautados en aplicación de la normativa sobre responsabilidades políticas que entrarán en vigor a los veinte días de su publicación en el «Boletín Oficial del Estado», y el punto doce de la misma disposición final novena, que lo hará a los seis meses de la citada publicación en el «Boletín Oficial del Estado».
-
-2. No obstante, entrarán en vigor el día siguiente al de su publicación en el «Boletín Oficial del Estado» la disposición final primera, de modificación de la Ley 23/1982, de 16 de junio, reguladora del Patrimonio Nacional, la disposición final segunda, de modificación del Real Decreto-Ley 12/1995, de 28 de diciembre, sobre medidas urgentes en materia presupuestaria, tributaria y financiera, los puntos uno a tres de la disposición final quinta, de modificación de la Ley 22/2003, de 9 de julio, Concursal, la disposición final séptima, de modificación de la Ley 38/2003, de 17 de noviembre, General de Subvenciones y la disposición final undécima, de modificación de la Ley 20/2015, de 14 de julio, de ordenación, supervisión y solvencia de las entidades aseguradoras y reaseguradoras.
-
-3. La disposición final décima de modificación de la disposición adicional décima tercera de la Ley 17/2012, de 27 de diciembre, de Presupuestos Generales del Estado para el año 2013, entrará en vigor el día siguiente al de su publicación en el «Boletín Oficial del Estado», sin perjuicio de que los apartados Uno, primer y segundo párrafo; Dos; Tres, párrafos primero y segundo; Cuatro; Cinco, párrafos primero a cuarto y, Seis, surtirán efectos a partir del 1 de enero de 2013, y de lo dispuesto en el apartado Siete.
 
 Por tanto,
 

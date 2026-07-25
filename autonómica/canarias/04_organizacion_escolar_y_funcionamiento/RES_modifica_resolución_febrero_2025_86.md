@@ -32,9 +32,6 @@ fuente_pdf_oficial: https://sede.gobiernodecanarias.org/boc/boc-a-2026-023-346.p
 
 # Resolución de 26 de enero de 2026, por la que se modifica la Resolución de 20 de febrero de 2025, que establece el calendario escolar y dicta instrucciones para la organización y desarrollo de las actividades de comienzo y finalización del curso 2025-2026, para los centros de enseñanzas no universitarias de la Comunidad Autónoma de Canarias, corregida por la Resolución de 19 de marzo de 2025 (BOC nº 23, de 4 de febrero).
 
-https://sede.gobiernodecanarias.org/boc
-boc-a-2026-023-346
-Boletín Oficial de Canarias núm. 23 Miércoles 4 de febrero de 20264456
 III. Otras Resoluciones
 Consejería de Educación, Formación Profesional, Actividad Física y Deportes
 346 Dirección General de Administración de Centros, Escolarización y Servicios 
@@ -120,9 +117,6 @@ Profesionales, en atención a su competencia, sin prejuicio de cualesquiera otro
 interponer.
 El Director General de Administración de Centros, Escolarización y Servicios Complementarios.
 
-https://sede.gobiernodecanarias.org/boc
-boc-a-2026-023-346
-Boletín Oficial de Canarias núm. 23 Miércoles 4 de febrero de 20264457
 Contra el presente acto, que no pone fin a la vía administrativa, cabe interponer en el 
 plazo de un mes, a contar desde el día siguiente al de su publicación en el Boletín Oficial de 
 Canarias, recurso de alzada ante la Viceconsejería de Educación o ante la Viceconsejería de 

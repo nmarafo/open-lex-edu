@@ -64,16 +64,13 @@ En definitiva, la regulación que se efectúa pretende impulsar el uso de las t�
 
 En su virtud, a propuesta de los Ministros de Hacienda y de Administraciones Públicas, previo informe del Consejo Superior de Informática y de la Agencia de Protección de Datos, de acuerdo con el Consejo de Estado y previa deliberación del Consejo de Ministros en su reunión del día 21 de febrero de 2003,
 
-
 **D I S P O N G O :**
-
 
 #### Artículo 1. Objeto.
 
 1. El presente real decreto tiene como objeto la regulación de los registros telemáticos, las notificaciones telemáticas y los certificados y transmisiones telemáticas, en desarrollo de los artículos 38.9, 45, 59.3 y disposición adicional decimoctava de la Ley 30/1992, de 26 de noviembre, de Régimen Jurídico de las Administraciones Públicas y del Procedimiento Administrativo Común, así como de los apartados 3 y 8 del artículo 105 de la Ley 230/1963, de 28 de diciembre, General Tributaria.
 
 2. Lo dispuesto en este real decreto se aplicará en todo caso de conformidad con lo previsto en la Ley Orgánica 15/1999 de 13 de diciembre, de Protección de Datos de Carácter Personal.
-
 
 #### Artículo 2. Modificación del Real Decreto 263/1996, de 16 de febrero, por el que se regula la utilización de técnicas electrónicas, informáticas y telemáticas por la Administración General del Estado.
 
@@ -159,7 +156,6 @@ La Administración General de Estado podrá celebrar convenios de colaboración 
 
 4. Lo dispuesto en los apartados anteriores será de aplicación a las notificaciones previstas en los apartados 3 y 8 del artículo 105 de la Ley 230/1963, de 28 de diciembre, General Tributaria.
 
-
 #### Artículo 3. Modificación del Real Decreto 772/1999, de 7 de mayo, por el que se regula la presentación de solicitudes, escritos y comunicaciones ante la Administración General del Estado, la expedición de copias de documentos y devolución de originales y el régimen de las oficinas de registro.
 
 1. Se añade al Real Decreto 772/1999, de 7 de mayo, por el que se regula la presentación de solicitudes, escritos y comunicaciones ante la Administración General del Estado, la expedición de copias de documentos y devolución de originales y el régimen de las oficinas de registro, un nuevo capítulo VI, integrado por los nuevos artículos 14, 15, 16, 17 y 18, con la siguiente redacción:
@@ -169,8 +165,6 @@ La Administración General de Estado podrá celebrar convenios de colaboración 
 Registros telemáticos
 
 [ignorar]Artículo 14. Creación de registros telemáticos.
-
-1. La creación de registros telemáticos se efectuará mediante orden ministerial o, en el caso de organismos públicos, mediante la disposición que prevea su correspondiente normativa reguladora. En todo caso, las disposiciones de creación de registros telemáticos serán publicadas en el «Boletín Oficial del Estado» y su texto íntegro deberá estar permanentemente disponible para consulta en la dirección electrónica a la que haya de accederse para presentar solicitudes, escritos o comunicaciones.
 
 2. Las disposiciones de creación de registros telemáticos tendrán el siguiente contenido mínimo:
 
@@ -232,7 +226,6 @@ c) Los registros telemáticos no realizarán ni anotarán salidas de escritos y 
 
 «En dicha relación se incluirán, debidamente diferenciados, los registros telemáticos a los que se refiere el capítulo VI de este real decreto.»
 
-
 #### Disposición adicional primera. Modificación del Real Decreto 1465/1999, de 17 de septiembre, por el que se establecen los criterios de imagen institucional y se regula la producción documental y el material impreso de la Administración General del Estado.
 
 1. Se añade un nuevo apartado 4 al artículo 8 del Real Decreto 1465/1999, de 17 de septiembre, por el que se establecen los criterios de imagen institucional y se regula la producción documental y el material impreso de la Administración General del Estado, con la siguiente redacción:
@@ -241,20 +234,15 @@ c) Los registros telemáticos no realizarán ni anotarán salidas de escritos y 
 
 2. El apartado 2 del artículo 9 del Real Decreto 1465/1999, de 17 de septiembre, por el que se establecen los criterios de imagen institucional y se regula la producción documental y el material impreso de la Administración General del Estado, queda redactado de la siguiente forma:
 
-«2. Todo modelo normalizado de solicitud con efectos frente a terceros, cualquiera que sea su soporte, deberá publicarse en el «Boletín Oficial del Estado».»
-
-
 #### Disposición adicional segunda. Uso de medios electrónicos, informáticos y telemáticos en el ámbito de la Seguridad Social.
 
 Lo dispuesto en este real decreto no resultará de aplicación al sistema establecido por la Orden de 3 de abril de 1995, sobre uso de medios electrónicos, informáticos y telemáticos en relación con la inscripción de empresas, afiliación, altas, bajas y variaciones de trabajadores, cotización y recaudación en el ámbito de la Seguridad Social, y demás disposiciones de aplicación y desarrollo.
-
 
 #### Disposición adicional tercera. Cambio de denominación del Consejo Superior de Informática.
 
 1. Desde la entrada en vigor del presente real decreto, el Consejo Superior de Informática pasará a denominarse Consejo Superior de Informática y para el impulso de la Administración Electrónica.
 
 2. Todas las referencias al Consejo Superior de Informática realizadas en la normativa vigente, en lo sucesivo, se entenderán hechas al Consejo Superior de Informática y para el impulso de la Administración Electrónica.
-
 
 #### Disposición transitoria única. Disposiciones y aplicaciones existentes y plazos para la puesta a disposición de certificados telemáticos o transmisiones de datos.
 
@@ -264,11 +252,9 @@ Lo dispuesto en este real decreto no resultará de aplicación al sistema establ
 
 3. En el plazo máximo de un año desde la entrada en vigor de este real decreto, los restantes órganos y organismos incluidos en su ámbito de aplicación adoptarán las medidas precisas para hacer efectiva la previsión del artículo 13.1 del Real Decreto 263/1996, de 16 de febrero, por el que se regula la utilización de técnicas electrónicas, informáticas y telemáticas por la Administración General del Estado. Durante ese plazo, por medio de orden ministerial o resolución del organismo correspondiente, se harán públicos los certificados en soporte papel que pueden ser sustituidos por certificados telemáticos o por transmisiones de datos.
 
-
 #### Disposición derogatoria única. Derogación normativa.
 
 Quedan derogadas cuantas disposiciones de igual o inferior rango se opongan a lo previsto por el presente real decreto.
-
 
 #### Disposición final primera. Requisitos técnicos de los registros y notificaciones telemáticas y prestación del servicio de dirección electrónica única.
 
@@ -278,12 +264,9 @@ Quedan derogadas cuantas disposiciones de igual o inferior rango se opongan a lo
 
 3. En la orden a la que se refiere el apartado 1 se establecerán las condiciones que ha de reunir el órgano, organismo o entidad habilitado para la prestación del servicio de dirección electrónica única, así como las condiciones de su prestación.
 
-
 #### Disposición final segunda. Coste económico y entrada en vigor.
 
 1. La aplicación de lo dispuesto en el presente real decreto no implicará incremento del gasto público. Los gastos necesarios para la implantación de las medidas previstas en él se afrontarán con cargo a los presupuestos ordinarios de gasto de los distintos departamentos y organismos incluidos en el ámbito de aplicación.
-
-2. El presente real decreto entrará en vigor el día siguiente al de su publicación en el «Boletín Oficial del Estado».
 
 Dado en Madrid, a 21 de febrero de 2003.
 

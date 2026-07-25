@@ -31,9 +31,6 @@ fuente_pdf_oficial: https://sede.gobiernodecanarias.org/boc/boc-a-2026-046-751.p
 
 # Resolución de 24 de febrero de 2026, por la que se dictan instrucciones sobre la regulación del periodo vacacional, régimen de permisos y licencias del personal docente no universitario al servicio de la Administración Educativa Canaria y se delegan competencias en las Direcciones Territoriales y direcciones de los centros educativos. (BOC N.º 046. Lunes 9 de marzo de 2026).
 
-https://sede.gobiernodecanarias.org/boc
-boc-a-2026-046-751
-Boletín Oficial de Canarias núm. 46 Lunes 9 de marzo de 20268566
 III. Otras Resoluciones
 Consejería de Educación, Formación Profesional, Actividad Física y Deportes
 751 Dirección General de Personal y Formación del Profesorado.- Resolución de 24 de 
@@ -75,9 +72,6 @@ Primero.- El texto refundido de la Ley del Estatuto Básico del Empleado Públic
 aprobado por Real Decreto Legislativo 5/2015, de 30 de octubre, regula en sus artículos 
 48 a 51 los permisos y vacaciones del personal funcionario público y laboral, pudiendo 
 
-https://sede.gobiernodecanarias.org/boc
-boc-a-2026-046-751
-Boletín Oficial de Canarias núm. 46 Lunes 9 de marzo de 20268567
 dictarse legislación específica para el personal docente, de conformidad con lo establecido 
 en su artículo 2.3.
 Segundo.- Resulta igualmente de aplicación la Ley 2/1987, de 30 de marzo, de la 
@@ -121,9 +115,6 @@ Jurídico del Sector Público, establece que los órganos de las diferentes Admi
 Públicas podrán delegar el ejercicio de las competencias que tengan atribuidas en otros 
 órganos de la misma Administración, aun cuando no sean jerárquicamente dependientes, 
 
-https://sede.gobiernodecanarias.org/boc
-boc-a-2026-046-751
-Boletín Oficial de Canarias núm. 46 Lunes 9 de marzo de 20268568
 siendo preceptivo que el acto de delegación y, en su caso, su revocación, se publiquen 
 en el Boletín Oficial correspondiente, y debiendo hacerse constar en las resoluciones 
 administrativas que se adopten por delegación, tal circunstancia de manera expresa.
@@ -165,9 +156,6 @@ Quinta.- Las resoluciones que se adopten en el ejercicio de esta delegación, in
 expresamente esta circunstancia y se considerarán, a todos los efectos, dictadas por esta 
 Dirección General de Personal y Formación del Profesorado.
 
-https://sede.gobiernodecanarias.org/boc
-boc-a-2026-046-751
-Boletín Oficial de Canarias núm. 46 Lunes 9 de marzo de 20268569
 Sexta.- La eficacia y aplicación de la presente Resolución se producirá a partir de 
 su publicación en el Boletín Oficial de Canarias, cuyo contenido íntegro será, asimismo, 
 publicado en la intranet de la Dirección General de Personal y Formación del Profesorado 
@@ -178,9 +166,6 @@ pueda incurrir.
 Las Palmas de Gran Canaria, a 24 de febrero de 2026.- La Directora General de Personal 
 y Formación del Profesorado, Mónica Ramírez Barbosa.
 
-https://sede.gobiernodecanarias.org/boc
-boc-a-2026-046-751
-Boletín Oficial de Canarias núm. 46 Lunes 9 de marzo de 20268570
 ANEXO I
 INSTRUCCIONES POR LAS QUE SE REGULA EL PERIODO V ACACIONAL 
 Y EL RÉGIMEN DE PERMISOS Y LICENCIAS DEL PERSONAL DOCENTE NO 
@@ -223,9 +208,6 @@ El derecho a disfrutar las vacaciones fuera del curso escolar en que se hayan or
 las situaciones anteriores será concedido por Dirección Territorial competente por razón 
 del territorio, a solicitud de la persona docente y previa verificación de que se dan las 
 
-https://sede.gobiernodecanarias.org/boc
-boc-a-2026-046-751
-Boletín Oficial de Canarias núm. 46 Lunes 9 de marzo de 20268571
 condiciones reseñadas en el párrafo precedente. El plazo para su resolución será de quince 
 días hábiles desde la fecha de solicitud.
 El periodo de disfrute se determinará en atención a las necesidades del servicio y su 
@@ -266,9 +248,6 @@ se hará de acuerdo con la siguiente fórmula:
 • Días naturales para compensar las vacaciones no disfrutadas = (Días de servicio 
 durante el curso x 30) ÷ 360 días.
 
-https://sede.gobiernodecanarias.org/boc
-boc-a-2026-046-751
-Boletín Oficial de Canarias núm. 46 Lunes 9 de marzo de 20268572
 SECCIÓN III
 PERMISOS RELACIONADOS CON LA GESTACIÓN, NACIMIENTO 
 Y CUIDADOS DE LA PERSONA MENOR
@@ -309,9 +288,6 @@ correspondiente informe médico acreditativo de la fecha prevista de inicio de l
 fecha previsible de cumplimiento de las referidas semanas. La Dirección Territorial 
 correspondiente resolverá en los diez días hábiles posteriores.
 
-https://sede.gobiernodecanarias.org/boc
-boc-a-2026-046-751
-Boletín Oficial de Canarias núm. 46 Lunes 9 de marzo de 20268573
 3.4. Licencia por riesgo durante el embarazo o lactancia natural.
 Cuando los agentes, procedimientos o condiciones de trabajo puedan influir negativamente 
 en la salud de la mujer embarazada o del feto, una vez agotada la posibilidad de adaptación 
@@ -354,9 +330,6 @@ efectos de control por este centro directivo.
 derecho a seis días naturales y consecutivos a partir del hecho causante, siempre y cuando 
 no se encuentre en situación de incapacidad temporal.
 
-https://sede.gobiernodecanarias.org/boc
-boc-a-2026-046-751
-Boletín Oficial de Canarias núm. 46 Lunes 9 de marzo de 20268574
 2. La solicitud se dirigirá a la dirección del centro educativo donde preste servicios la 
 docente, dentro de los tres primeros días hábiles desde el hecho causante y acompañada del 
 informe médico justificativo, la cual se resolverá en el plazo de tres días hábiles desde la 
@@ -393,9 +366,6 @@ En los supuestos de familias monoparentales, la duración del permiso será de t
 y dos semanas, distribuidas en seis semanas obligatorias, veintidós semanas voluntarias y 
 cuatro semanas adicionales de cuidado parental.
 
-https://sede.gobiernodecanarias.org/boc
-boc-a-2026-046-751
-Boletín Oficial de Canarias núm. 46 Lunes 9 de marzo de 20268575
 La parte obligatoria se disfrutará de forma ininterrumpida, inmediatamente posterior al 
 parto y a jornada completa. La parte voluntaria se podrá distribuir, hasta que el hijo o hija 
 cumpla doce meses, de forma interrumpida en periodos no inferiores a semanas completas, 
@@ -438,9 +408,6 @@ por persona progenitora, si el hijo o hija presentara alguna discapacidad. Adem�
 hijo o hija a partir del segundo, en los casos de parto múltiple, se añadirán dos semanas más 
 distribuidas equitativamente por cada persona progenitora.
 
-https://sede.gobiernodecanarias.org/boc
-boc-a-2026-046-751
-Boletín Oficial de Canarias núm. 46 Lunes 9 de marzo de 20268576
 En los casos de parto prematuro y en aquellos en que, por cualquier otra causa, la 
 persona recién nacida deba permanecer hospitalizada a continuación del parto, este permiso 
 se ampliará en tantos días como la persona recién nacida se encuentre hospitalizada, con 
@@ -479,9 +446,6 @@ días hábiles posteriores al nacimiento ante la Dirección Territorial de Educa
 incumplimiento de dicho plazo afecte al derecho al permiso, que resolverá en un plazo de 
 diez días hábiles, contados a partir del día siguiente a la solicitud.
 
-https://sede.gobiernodecanarias.org/boc
-boc-a-2026-046-751
-Boletín Oficial de Canarias núm. 46 Lunes 9 de marzo de 20268577
 En los siguientes supuestos se deberá aportar, además, la siguiente documentación:
 a) Parto prematuro y en aquellos casos en que, por cualquier otra causa, la persona 
 recién nacida deba permanecer hospitalizada a continuación del parto: informe médico 
@@ -520,9 +484,6 @@ derecho. La dirección ajustará el horario personal de la persona docente de ma
 dicho periodo no coincida con las horas de docencia directa y que no se acumulen esas 
 horas en un solo día.
 
-https://sede.gobiernodecanarias.org/boc
-boc-a-2026-046-751
-Boletín Oficial de Canarias núm. 46 Lunes 9 de marzo de 20268578
 Si el funcionario o la funcionaria con nombramiento a curso completo, no indica el 
 periodo concreto en el que desea hacer uso de tal derecho o, en el caso del personal que 
 no esté incorporado al centro en el momento de la confección de los horarios individuales, 
@@ -564,9 +525,6 @@ cuando el/la menor alcance los doce meses de vida.
 d) La solicitud de acumulación de lactancia se presentará a la Dirección Territorial 
 competente por razón de territorio, con una antelación mínima de quince días hábiles y 
 
-https://sede.gobiernodecanarias.org/boc
-boc-a-2026-046-751
-Boletín Oficial de Canarias núm. 46 Lunes 9 de marzo de 20268579
 máxima de un mes con relación al primer día de disfrute. La solicitud debe acompañarse de 
 la copia del libro de familia o certificado de nacimiento.
 Las solicitudes serán resueltas por la Dirección Territorial competente por razón del 
@@ -606,9 +564,6 @@ con al menos quince días hábiles y como máximo un mes de antelación al comie
 sesiones. Asimismo, deberán adjuntar copia de la cita y, en los cinco días hábiles posteriores, 
 deberán presentar el documento justificativo de haber acudido a la misma.
 
-https://sede.gobiernodecanarias.org/boc
-boc-a-2026-046-751
-Boletín Oficial de Canarias núm. 46 Lunes 9 de marzo de 20268580
 En los quince días siguientes a la última de las sesiones solicitadas, la dirección del 
 centro docente dictará resolución declarando justificado o no el permiso solicitado y la 
 notificará a la persona interesada.
@@ -649,9 +604,6 @@ la decisión administrativa o judicial de acogimiento.
 Asimismo, de acuerdo con lo previsto en Real Decreto-ley 9/2025, de 29 de julio, las 
 dos semanas adicionales, cuatro semanas en los supuestos de monoparentalidad, de cuidado 
 
-https://sede.gobiernodecanarias.org/boc
-boc-a-2026-046-751
-Boletín Oficial de Canarias núm. 46 Lunes 9 de marzo de 20268581
 parental reguladas en este apartado se reconocerán también de adopciones, guardas con 
 fines de adopción o acogimientos producidos desde el 2 de agosto de 2024.
 Las solicitudes de disfrute de dichas semanas podrán formularse a partir del 1 de enero 
@@ -691,9 +643,6 @@ grado de consanguinidad o afinidad, el permiso será de:
 • Tres días hábiles si el suceso se produce en la misma localidad.
 • Cinco días hábiles, si el suceso se produce en localidad distinta.
 
-https://sede.gobiernodecanarias.org/boc
-boc-a-2026-046-751
-Boletín Oficial de Canarias núm. 46 Lunes 9 de marzo de 20268582
 b) Si se trata del fallecimiento de familiar dentro del segundo grado de consanguinidad 
 o afinidad, el permiso será:
 • Dos días hábiles, si el hecho causante tuvo lugar en la misma localidad.
@@ -732,9 +681,6 @@ acreditativa correspondiente, dentro de los cinco días hábiles posteriores. La
 centro examinará dicha documentación y declarará, en su caso, justificada la ausencia y 
 concedido el permiso en los cinco días hábiles siguientes.
 
-https://sede.gobiernodecanarias.org/boc
-boc-a-2026-046-751
-Boletín Oficial de Canarias núm. 46 Lunes 9 de marzo de 20268583
 En casos excepcionales, y solo una vez por curso escolar, de mantenerse la gravedad 
 de la enfermedad del cónyuge, pareja de hecho, pariente de primer grado o de la persona 
 conviviente que requiera cuidado efectivo, por no haber signos de mejoría, y una vez agotado 
@@ -778,9 +724,6 @@ retribución, de hasta el cincuenta por ciento de su jornada lectiva, con reducc
 del tiempo total de su jornada laboral y por el plazo máximo de un mes, para atender al 
 cuidado de una persona familiar de primer grado que padezca una enfermedad muy grave.
 
-https://sede.gobiernodecanarias.org/boc
-boc-a-2026-046-751
-Boletín Oficial de Canarias núm. 46 Lunes 9 de marzo de 20268584
 A efectos del reconocimiento de este permiso deberá entenderse por enfermedad muy 
 grave aquella que carece de elementos terapéuticos para hacerla reversible o paliarla de 
 forma satisfactoria, con un pronóstico negativo para un corto espacio de tiempo.
@@ -821,9 +764,6 @@ de consanguinidad o afinidad, que por razones de edad, accidente o enfermedad no
 pueda valerse por sí mismo y que no desempeñe actividad retribuida, con la disminución 
 proporcional de las retribuciones que corresponda.
 
-https://sede.gobiernodecanarias.org/boc
-boc-a-2026-046-751
-Boletín Oficial de Canarias núm. 46 Lunes 9 de marzo de 20268585
 La solicitud de la reducción de jornada vendrá expresada en el número de horas lectivas 
 que se dejan de impartir. Las horas de docencia directa deberán completar la carga horaria 
 de las materias asignadas al personal docente. Se podrán considerar otras horas lectivas si 
@@ -863,9 +803,6 @@ en los casos de afinidad, informe médico y vida laboral del familiar.
 El plazo para resolver y notificar la resolución será de diez días hábiles para la guarda 
 legal, a partir de la fecha de presentación de la solicitud.
 
-https://sede.gobiernodecanarias.org/boc
-boc-a-2026-046-751
-Boletín Oficial de Canarias núm. 46 Lunes 9 de marzo de 20268586
 En el caso de que se disfrute de esta reducción de jornada, las retribuciones del mes 
 de agosto, mes de vacaciones del personal docente, se ajustarán de forma proporcional al 
 tiempo efectivo que se hubiera realizado la jornada completa y la jornada reducida.
@@ -908,9 +845,6 @@ solicitante sea víctima de violencia de género, se trate de una unidad familia
 por una sola persona progenitora, o cuando en caso de separación, divorcio o nulidad 
 matrimonial se haya establecido la custodia exclusiva a la persona solicitante.
 
-https://sede.gobiernodecanarias.org/boc
-boc-a-2026-046-751
-Boletín Oficial de Canarias núm. 46 Lunes 9 de marzo de 20268587
 Cuando la persona enferma contraiga matrimonio o constituya una pareja de hecho, 
 tendrá derecho al permiso quien sea su cónyuge o pareja de hecho, siempre que acredite las 
 condiciones para ser beneficiario o beneficiaria.
@@ -951,9 +885,6 @@ adopción o acogedoras con carácter permanente de la persona afectada por la en
 Cuando concurran en ambas personas progenitoras, adoptantes, guardadoras con fines 
 de adopción o acogedoras de carácter permanente, por el mismo sujeto y hecho causante, 
 
-https://sede.gobiernodecanarias.org/boc
-boc-a-2026-046-751
-Boletín Oficial de Canarias núm. 46 Lunes 9 de marzo de 20268588
 las circunstancias necesarias para tener derecho a este permiso o, en su caso, que puedan 
 tener la condición de personas beneficiarias de la prestación establecida para este fin en el 
 Régimen de la Seguridad Social que les sea de aplicación, la persona funcionaria tendrá 
@@ -993,9 +924,6 @@ hecho causante, o el día posterior si este transcurriera en horario nocturno.
 d) Asistir a reuniones en Centros de Educación Especial o acompañar al hijo/a a centros 
 sanitarios donde deba recibir apoyo adicional.
 
-https://sede.gobiernodecanarias.org/boc
-boc-a-2026-046-751
-Boletín Oficial de Canarias núm. 46 Lunes 9 de marzo de 20268589
 e) Cuidar a un hijo o una hija menor de edad, en situación de enfermedad y que deba 
 permanecer en reposo domiciliario, hasta tres días naturales, en horario coincidente con el 
 de permanencia obligada en el centro, siempre y cuando lo determine la persona facultativa 
@@ -1034,9 +962,6 @@ a un año cumpla ocho años.
 Podrá disfrutarse a jornada completa o parcial, cuando las necesidades del servicio lo 
 permitan.
 
-https://sede.gobiernodecanarias.org/boc
-boc-a-2026-046-751
-Boletín Oficial de Canarias núm. 46 Lunes 9 de marzo de 20268590
 En todo caso, la concesión del permiso en las fechas solicitadas estará siempre 
 condicionado a la prestación del servicio educativo, requiriéndose informe favorable de la 
 dirección del centro. En el supuesto de informe desfavorable, este deberá motivarse.
@@ -1074,9 +999,6 @@ El personal docente que acredite su condición de apoderado disfrutará de un pe
 retribuido durante el día de la votación en los mismos procesos electorales a los que se 
 refiere el apartado anterior.
 
-https://sede.gobiernodecanarias.org/boc
-boc-a-2026-046-751
-Boletín Oficial de Canarias núm. 46 Lunes 9 de marzo de 20268591
 La solicitud del permiso se presentará ante la dirección del centro docente en que 
 se encuentre destinado dicho personal docente en los cinco días hábiles posteriores a la 
 notificación de aquella, acompañada de la siguiente documentación:
@@ -1112,9 +1034,6 @@ a) Ser designado como miembro de un Tribunal del Jurado.
 b) Comparecer en aquellos procedimientos judiciales a los que haya que concurrir en 
 calidad de perito o testigo.
 
-https://sede.gobiernodecanarias.org/boc
-boc-a-2026-046-751
-Boletín Oficial de Canarias núm. 46 Lunes 9 de marzo de 20268592
 c) Comparecer personalmente como persona demandante o demandada en procesos 
 judiciales.
 d) El de atender a citaciones efectuadas desde cualquier organismo oficial, siempre que 
@@ -1151,9 +1070,6 @@ de dichos exámenes o pruebas. En el caso de que sea necesario desplazarse fuera
 para su realización, el permiso se extenderá al día natural anterior y al posterior a los días 
 de realización de las pruebas o exámenes.
 
-https://sede.gobiernodecanarias.org/boc
-boc-a-2026-046-751
-Boletín Oficial de Canarias núm. 46 Lunes 9 de marzo de 20268593
 La solicitud deberá ser presentada entre quince días hábiles y un mes de antelación, 
 y resuelta con una antelación mínima de cinco días hábiles al día de celebración de la 
 respectiva prueba o examen.
@@ -1190,9 +1106,6 @@ a) Si la actividad abarca uno o dos días lectivos, la solicitud se dirigirá a 
 del centro con quince días de antelación y deberá resolverse en el plazo de cinco días 
 hábiles desde la presentación de la solicitud. Si el permiso fuera concedido sin retribución, 
 
-https://sede.gobiernodecanarias.org/boc
-boc-a-2026-046-751
-Boletín Oficial de Canarias núm. 46 Lunes 9 de marzo de 20268594
 la dirección del centro dará traslado a la Dirección General de Personal y Formación del 
 Profesorado a efectos de los descuentos retributivos correspondientes.
 b) Si la actividad es de tres días lectivos o más, la solicitud se dirigirá a la Dirección 
@@ -1234,9 +1147,6 @@ incorporación. La Dirección General de Personal y Formación del Profesorado d
 resolver dicha resolución en los cinco días hábiles posteriores al de la presentación de la 
 solicitud.
 
-https://sede.gobiernodecanarias.org/boc
-boc-a-2026-046-751
-Boletín Oficial de Canarias núm. 46 Lunes 9 de marzo de 20268595
 SECCIÓN VIII
 PERMISOS PARA ATENDER A OTRAS SITUACIONES PERSONALES  
 DEL PROFESORADO
@@ -1272,9 +1182,6 @@ La solicitud se dirigirá a la Dirección Territorial competente entre quince d�
 y un mes de antelación con respecto a la fecha de comienzo del permiso solicitado, 
 especificando el periodo de disfrute que se solicita.
 
-https://sede.gobiernodecanarias.org/boc
-boc-a-2026-046-751
-Boletín Oficial de Canarias núm. 46 Lunes 9 de marzo de 20268596
 Una vez celebrado el matrimonio, la justificación deberá presentarse a la Dirección 
 Territorial correspondiente, en el plazo de quince días hábiles desde su reincorporación, 
 mediante fotocopia del libro de familia, documento de constitución de pareja de hecho o 
@@ -1316,9 +1223,6 @@ Asimismo, esta medida se aplicará en situaciones en las que el profesorado conc
 su relación de servicios con anterioridad al 31 de agosto y sea necesario compensar 
 financieramente al docente o la docente por las vacaciones devengadas y no disfrutadas.
 
-https://sede.gobiernodecanarias.org/boc
-boc-a-2026-046-751
-Boletín Oficial de Canarias núm. 46 Lunes 9 de marzo de 20268597
 La información y documentación aportada en el marco de este permiso será tratada con 
 la máxima reserva, garantizando la confidencialidad de los datos personales y la protección 
 de la identidad de la persona solicitante. Dichos datos se utilizarán exclusivamente para la 
@@ -1361,9 +1265,6 @@ la información sensible que pudiera derivarse de la solicitud. Su tratamiento s
 las actuaciones indispensables para la correcta gestión del permiso, en cumplimiento de la 
 normativa aplicable en materia de protección de datos.
 
-https://sede.gobiernodecanarias.org/boc
-boc-a-2026-046-751
-Boletín Oficial de Canarias núm. 46 Lunes 9 de marzo de 20268598
 8.5. Reducción de jornada al personal docente que le falte menos de diez años para 
 cumplir la edad de jubilación forzosa o mayores de 55 años.
 El personal docente nombrado o contratado a jornada completa y curso completo, 
@@ -1404,9 +1305,6 @@ con al menos tres años de servicios prestados, podrá solicitar una reducción 
 por interés particular semanal, con la disminución proporcional de las retribuciones que 
 corresponda.
 
-https://sede.gobiernodecanarias.org/boc
-boc-a-2026-046-751
-Boletín Oficial de Canarias núm. 46 Lunes 9 de marzo de 20268599
 Con carácter general, se podrá solicitar una reducción de su jornada semanal comprendida 
 entre cinco y quince horas lectivas, con la correspondiente disminución proporcional en el 
 resto de las horas que integran su jornada semanal.
@@ -1447,9 +1345,6 @@ La concesión de esta licencia estará condicionada a las necesidades del servic
 garantizando que las actividades lectivas y no lectivas, así como las funciones propias que 
 la normativa atribuye a la función docente, se desarrollen con normalidad.
 
-https://sede.gobiernodecanarias.org/boc
-boc-a-2026-046-751
-Boletín Oficial de Canarias núm. 46 Lunes 9 de marzo de 20268600
 Especial atención deberá prestarse a los periodos de evaluación, promoción y 
 titulación del alumnado, así como a la disponibilidad de personal para la conformación de 
 Tribunales en los procesos selectivos. Por lo tanto, independientemente del vínculo con la 
@@ -1488,9 +1383,6 @@ b) Si el nombramiento fuera hasta 31 de agosto ocupando vacante y el curso anter
 no hubiera tenido el mismo tipo de nombramiento, podrá disfrutar de cuarenta y cinco días, 
 como máximo, durante el curso en el que solicita el permiso.
 
-https://sede.gobiernodecanarias.org/boc
-boc-a-2026-046-751
-Boletín Oficial de Canarias núm. 46 Lunes 9 de marzo de 20268601
 c) Si el nombramiento fuera hasta 30 de junio ocupando vacante y no estuviera 
 vinculado a la ausencia de ninguna persona funcionaria que pueda incorporarse, podrá 
 solicitar la parte proporcional correspondiente a cuarenta y cinco días por curso.
@@ -1530,9 +1422,6 @@ hábil. En los supuestos en que el profesorado comparta centros, los festivos mu
 donde radique el centro en que figure nombrado serán considerados inhábiles, solo a efectos 
 del cómputo de los periodos de los permisos.
 
-https://sede.gobiernodecanarias.org/boc
-boc-a-2026-046-751
-Boletín Oficial de Canarias núm. 46 Lunes 9 de marzo de 20268602
 Asimismo, para el cálculo de las vacaciones, permisos y licencias regulados en 
 esta Resolución, se tomará como referencia el curso escolar, comprendido entre el 1 de 
 septiembre y el 31 de agosto del año siguiente.
@@ -1578,9 +1467,6 @@ implique un ejercicio abusivo del derecho. La solicitud habrá de presentarse an
 que concedió el permiso, con una antelación mínima de cinco días hábiles al comienzo del 
 disfrute.
 
-https://sede.gobiernodecanarias.org/boc
-boc-a-2026-046-751
-Boletín Oficial de Canarias núm. 46 Lunes 9 de marzo de 20268603
 Octava.- Si se produjera una ausencia por parte de un/a docente en su puesto de trabajo 
 y hayan transcurrido más de tres días lectivos consecutivos sin que haya constancia del 
 motivo de dicha ausencia, los servicios correspondientes realizarán todas las gestiones 
@@ -1619,9 +1505,6 @@ Decimosexta.- Corresponde a la Dirección General de Personal y Formación del
 Profesorado interpretar, asesorar y aclarar cualquier cuestión relacionada con el contenido 
 de las presentes instrucciones mediante asesoramiento, manuales y guías informativas.
 
-boc-a-2026-046-751
-Boletín Oficial de Canarias núm. 46 Lunes 9 de marzo de 20268604
-https://sede.gobiernodecanarias.org/boc
 ANEXO II
 Distribución de competencias en materia de concesión de vacaciones, permisos y licencias del personal 
 docente no universitario

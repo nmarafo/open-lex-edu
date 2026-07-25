@@ -33,7 +33,6 @@ fundamentos_derecho:
 
 # Real Decreto 498/2024, de 21 de mayo, por el que se modifican determinados reales decretos por los que se establecen títulos de Formación Profesional de grado básico y se fijan sus enseñanzas mínimas.
 
-
 **ÍNDICE**
 
 Artículo primero. Objeto y ámbito de aplicación.
@@ -56,33 +55,23 @@ Artículo noveno. Modificación del apartado relativo a correspondencia entre 
 
 Artículo décimo. Referencias a las familias profesionales para admisión.
 
-
 #### Disposición adicional primera. Horas del currículo básico.
-
 
 #### Disposición adicional segunda. Nivel básico de la actividad preventiva.
 
-
 #### Disposición adicional tercera. Convalidación de ámbitos no profesionales.
-
 
 #### Disposición adicional cuarta. Titulación.
 
-
 #### Disposición adicional quinta. Convalidación a través de estándares de competencias profesionales.
-
 
 #### Disposición adicional sexta. Referencias a las competencias profesionales, personales y sociales.
 
-
 #### Disposición adicional séptima. Expresión de la calificación.
-
 
 #### Disposición transitoria única. Aplicación de los reales decretos por los que se establecen títulos de formación profesional básica de acuerdo con el calendario establecido en el Real Decreto 278/2023, de 11 de abril.
 
-
 #### Disposición final primera. Título competencial.
-
 
 #### Disposición final segunda. Entrada en vigor.
 
@@ -110,9 +99,7 @@ En la tramitación de este real decreto se han cumplido los trámites establecid
 
 En su virtud, a propuesta de la Ministra de Educación, Formación Profesional y Deportes, y previa deliberación del Consejo de Ministros en su reunión del día 21 de mayo de 2024,
 
-
 **DISPONGO:**
-
 
 #### Artículo primero. Objeto y ámbito de aplicación.
 
@@ -128,11 +115,9 @@ c) Real Decreto 774/2015, de 28 de agosto, por el que se establecen seis tí
 
 d) Real Decreto 73/2018, de 19 de febrero, por el que se establece el título profesional básico en acceso y conservación en instalaciones deportivas y se fijan los aspectos básicos del currículo.
 
-
 #### Artículo segundo. Modificación del artículo relativo al establecimiento de títulos.
 
 Uno. En el Real Decreto 127/2014, de 28 de febrero, por el que se regulan aspectos específicos de la Formación Profesional Básica de las enseñanzas de Formación Profesional del sistema educativo, se aprueban catorce títulos profesionales básicos, se fijan sus currículos básicos y se modifica el Real Decreto 1850/2009, de 4 de diciembre, sobre expedición de títulos académicos y profesionales correspondientes a las enseñanzas establecidas en la Ley Orgánica 2/2006, de 3 de mayo, de Educación, se modifica el artículo 1, con la siguiente redacción:
-
 
 #### «Artículo 1. Objeto.
 
@@ -168,13 +153,11 @@ Este real decreto tiene por objeto el establecimiento de catorce títulos de for
 
 Dos. En el Real Decreto 356/2014, de 16 de mayo, por el que se establecen siete títulos de Formación Profesional Básica del catálogo de títulos de las enseñanzas de Formación Profesional, se da una nueva redacción al artículo 1 y se modifica el artículo 2, quedando redactados del siguiente modo:
 
-
 #### «Artículo 1. Objeto y ámbito de aplicación.
 
 1. Este real decreto tiene por objeto desarrollar el catálogo de títulos de las enseñanzas de formación profesional mediante el establecimiento de siete nuevos títulos de Técnico Básico, que amplían los títulos establecidos en el Real Decreto 127/2014, de 28 de febrero.
 
 2. Dichos títulos de Técnico Básico tienen carácter oficial y validez en todo el territorio nacional y no constituyen una regulación del ejercicio profesional.
-
 
 #### Artículo 2. Títulos de Técnico Básico que se establecen.
 
@@ -196,13 +179,11 @@ Anexo VII: Título de Técnico Básico en Informática de Oficina.»
 
 Tres. En el Real Decreto 774/2015, de 28 de agosto, por el que se establecen seis títulos de Formación Profesional Básica del catálogo de títulos de las enseñanzas de Formación Profesional, se da una nueva redacción al artículo 1 y se modifica el artículo 2, quedando redactados del siguiente modo:
 
-
 #### «Artículo 1. Objeto y ámbito de aplicación.
 
 1. Este real decreto tiene por objeto desarrollar el catálogo de títulos de las enseñanzas de formación profesional mediante el establecimiento de seis nuevos títulos de Técnico Básico, de conformidad con el Real Decreto 659/2023, de 18 de julio, por el que se desarrolla la ordenación del Sistema de Formación Profesional.
 
 2. Los títulos de Técnico Básico tienen carácter oficial y validez en todo el territorio nacional y no constituyen una regulación del ejercicio profesional.
-
 
 #### Artículo 2. Títulos de Técnico Básico que se establecen.
 
@@ -222,13 +203,11 @@ f) Anexo VI: Título de Técnico Básico en mantenimiento de embarcaciones dep
 
 Cuatro. En el Real Decreto 73/2018, de 19 de febrero, por el que se establece el título profesional básico en acceso y conservación en instalaciones deportivas y se fijan los aspectos básicos del currículo, se da una nueva redacción al artículo 1 y se modifica el artículo 2, quedando redactados del siguiente modo:
 
-
 #### «Artículo 1. Objeto y ámbito de aplicación.
 
 1. Este real decreto tiene por objeto desarrollar el catálogo de títulos de las enseñanzas de formación profesional mediante el establecimiento de un nuevo título de Técnico Básico, de conformidad con el Real Decreto 659/2023, de 18 de julio, por el que se desarrolla la ordenación del Sistema de Formación Profesional.
 
 2. Los títulos de Técnico Básico tienen carácter oficial y validez en todo el territorio nacional y no constituyen una regulación del ejercicio profesional.
-
 
 #### Artículo 2. Título de Técnico Básico que se establece.
 
@@ -236,13 +215,11 @@ Este real decreto establece el título y el currículo básico del título de T�
 
 Cinco. En todos los anexos de los reales decretos a que hace referencia el artículo primero de este real decreto, cualquier referencia a «formación profesional básica», deberá entenderse hecha a «formación profesional de grado básico». De igual forma, cualquier mención a «Título Profesional Básico» deberá entenderse hecho a «Título de Técnico Básico».
 
-
 #### Artículo tercero. Modificación del apartado relativo a la identificación del título.
 
 De acuerdo con lo establecido en el Real Decreto 272/2022, de 12 de abril, por el que se establece el Marco Español de Cualificaciones para el Aprendizaje Permanente, en los reales decretos a que hace referencia el artículo primero.Dos, se añade un nuevo párrafo final al artículo 2, con la siguiente redacción:
 
 «El título de Técnico Básico se corresponde con un nivel 3A del Marco Español de Cualificaciones para el Aprendizaje Permanente.»
-
 
 #### Artículo cuarto. Modificación del apartado relativo a cualificaciones y unidades de competencia.
 
@@ -340,7 +317,6 @@ UC0732_1: Realizar operaciones básicas de mantenimiento de máquinas auxiliares
 
 UC0733_1: Actuar en emergencias marítimas y aplicar las normas de seguridad en el trabajo.»
 
-
 #### Artículo quinto. Modificación del apartado relativo a los módulos profesionales.
 
 Se modifica el apartado 3.2 de los anexos incluidos en los reales decretos a que hace referencia el artículo primero.Dos en los siguientes términos:
@@ -367,7 +343,6 @@ Cuatro. Se incluye un nuevo apartado 3.2.2 con la siguiente redacción:
 
 5. El proyecto intermodular de aprendizaje colaborativo se basará en una metodología basada en retos. Cada equipo docente deberá diseñar uno o varios retos para cada proyecto que impliquen la activación de varios resultados de aprendizaje contenidos en más de un módulo profesional del ciclo. Además de la selección concreta realizada por el equipo docente según la especialidad del ciclo, se trabajarán transversalmente los resultados de aprendizaje que figuran en el currículo del proyecto con código 3160.»
 
-
 #### Artículo sexto. Modificación del apartado relativo al desarrollo de los módulos.
 
 En el Real Decreto 127/2014, de 28 de febrero, por el que se regulan aspectos específicos de la Formación Profesional Básica de las enseñanzas de Formación Profesional del sistema educativo, se aprueban catorce títulos profesionales básicos, se fijan sus currículos básicos y se modifica el Real Decreto 1850/2009, de 4 de diciembre, sobre expedición de títulos académicos y profesionales correspondientes a las enseñanzas establecidas en la Ley Orgánica 2/2006, de 3 de mayo, de Educación, se modifica el apartado 3.3 de los anexos I, II, III, IV, V, VI, VIII, IX, X, XI, XII. XIII y XIV, y el apartado 3.4 del anexo VII; en el Real Decreto 356/2014, de 16 de mayo, por el que se establecen siete títulos de Formación Profesional Básica del catálogo de títulos de las enseñanzas de Formación Profesional, se modifica el apartado 3.3 de los anexos III, IV, V y VII y el apartado 3.4 de los anexos I, II y VI; en el Real Decreto 774/2015, de 28 de agosto, por el que se establecen seis títulos de Formación Profesional Básica del catálogo de títulos de las enseñanzas de Formación Profesional, se modifica el apartado 3.3 de los anexos; y en el Real Decreto 73/2018, de 19 de febrero, por el que se establece el título profesional básico en acceso y conservación en instalaciones deportivas y se fijan los aspectos básicos del currículo, se modifica el apartado 3.3 del anexo en los siguientes términos:
@@ -386,13 +361,11 @@ d) Ámbito de Ciencias Aplicadas I y II, cuyas competencias específicas, crit
 
 e) Tutoría, de acuerdo con lo establecido en el artículo 87.4 del Real Decreto 659/2023, de 18 de julio, con, al menos, una hora de tutoría semanal.»
 
-
 #### Artículo séptimo. Carácter de los contenidos del currículo.
 
 Uno. De acuerdo con lo establecido en los artículos 12.3 y 12.4 del Real Decreto 659/2023, de 18 de julio, y sin perjuicio de lo señalado en el artículo 6 de la Ley Orgánica 2/2006, de 3 de mayo, los contenidos básicos que figuran en el apartado 3.3 de todos los anexos del Real Decreto 127/2014, de 28 de febrero, por el que se regulan aspectos específicos de la Formación Profesional Básica de las enseñanzas de Formación Profesional del sistema educativo, se aprueban catorce títulos profesionales básicos, se fijan sus currículos básicos y se modifica el Real Decreto 1850/2009, de 4 de diciembre, sobre expedición de títulos académicos y profesionales correspondientes a las enseñanzas establecidas en la Ley Orgánica 2/2006, de 3 de mayo, de Educación; del Real Decreto 774/2015, de 28 de agosto, por el que se establecen seis títulos de Formación Profesional Básica del catálogo de títulos de las enseñanzas de Formación Profesional, y del Real Decreto 73/2018, de 19 de febrero, por el que se establece el título profesional básico en acceso y conservación en instalaciones deportivas y se fijan los aspectos básicos del currículo; y en el apartado 3.4 de todos los anexos del Real Decreto 356/2014, de 16 de mayo, por el que se establecen siete títulos de Formación Profesional Básica del catálogo de títulos de las enseñanzas de Formación Profesional tendrán la consideración de carácter orientativo.
 
 Dos. Dicho carácter orientativo no se aplicará al Ámbito de Comunicación y Ciencias Sociales ni al Ámbito de Ciencias Aplicadas, cuyos contenidos tendrán carácter prescriptivo. Dichos ámbitos están regulados por el artículo 25.4 del Real Decreto 217/2022, de 29 de marzo, y cuya superación, junto con la del ámbito profesional, permite la obtención del título de Graduado en Educación Secundaria Obligatoria.
-
 
 #### Artículo octavo. Modificación del apartado relativo al profesorado.
 
@@ -1770,7 +1743,6 @@ Veintinueve. En los reales decretos a que hace referencia el artículo primero
 
 Treinta. En los reales decretos a que hace referencia el artículo primero.Dos del presente real decreto, se suprime el apartado 5.3, excepto en el anexo IV del Real Decreto 356/2014, de 16 de mayo, por el que se establecen siete títulos de Formación Profesional Básica del catálogo de títulos de las enseñanzas de Formación Profesional, en el que se suprime el apartado 6.3.
 
-
 #### Artículo noveno. Modificación del apartado relativo a correspondencia entre módulos profesionales y unidades de competencia.
 
 Uno. En el Real Decreto 127/2014, de 28 de febrero, por el que se regulan aspectos específicos de la Formación Profesional Básica de las enseñanzas de Formación Profesional del sistema educativo, se aprueban catorce títulos profesionales básicos, se fijan sus currículos básicos y se modifica el Real Decreto 1850/2009, de 4 de diciembre, sobre expedición de títulos académicos y profesionales correspondientes a las enseñanzas establecidas en la Ley Orgánica 2/2006, de 3 de mayo, de Educación, se añade un nuevo apartado 6 bis al anexo I, con la siguiente redacción:
@@ -2151,21 +2123,17 @@ UC0970_1: Transmitir y recibir información operativa en gestiones rutinarias co
 
 UC0971_1: Realizar operaciones auxiliares de reproducción y archivo en soporte convencional o informático.
 
-
 #### Artículo décimo. Referencias a las familias profesionales para admisión.
 
 En los reales decretos a que hace referencia el artículo primero.Dos, se suprime el apartado 7 de los anexos, excepto en el anexo IV del Real Decreto 356/2014, de 16 de mayo, por el que se establecen siete títulos de Formación Profesional Básica del catálogo de títulos de las enseñanzas de Formación Profesional, en el que se suprime el apartado 8.
-
 
 #### Disposición adicional primera. Horas del currículo básico.
 
 En cumplimiento de lo dispuesto en el artículo 6.4 de la Ley Orgánica 2/2006, de 3 de mayo, las horas del currículo básico de cada uno de los módulos profesionales, con la excepción de Itinerario personal para la empleabilidad, incluidos en los reales decretos a que hace referencia el artículo primero.Dos, se aumentarán proporcionalmente de acuerdo con lo establecido en la tabla que figura como anexo II. En ningún caso, este aumento afecta a las horas del currículo básico del Ámbito de Comunicación y Sociedad, Ámbito de Ciencias Aplicadas, Tutoría ni Proyecto intermodular de aprendizaje colaborativo, cuyas respectivas cargas horarias de currículo básico son la que se referencian en el anexo III.
 
-
 #### Disposición adicional segunda. Nivel básico de la actividad preventiva.
 
 De conformidad con el artículo 88.3 del Real Decreto 659/2023, de 18 de julio, antes de iniciar el periodo de formación en empresa u organismo equiparado, las administraciones competentes garantizarán que el alumnado haya adquirido las competencias y los contenidos relativos a los riesgos específicos y las medidas de prevención en las actividades profesionales correspondientes al perfil profesional de cada título profesional de grado básico, según se requiera en la normativa vigente en materia de prevención de riesgos laborales.
-
 
 #### Disposición adicional tercera. Convalidación de ámbitos no profesionales.
 
@@ -2181,11 +2149,9 @@ a) Quienes tengan superadas las siguientes tres materias: Lengua Castellana y 
 
 b) Quienes tengan superada la materia de Matemáticas (A o B) y dos de las cuatro siguientes: Biología y Geología, Física y Química, Tecnología y Digitalización del cuarto curso de Educación Secundaria Obligatoria en cualquiera de sus modalidades podrán obtener los ámbitos de Ciencias Aplicadas I y II.
 
-
 #### Disposición adicional cuarta. Titulación.
 
 A partir de la entrada en vigor de este real decreto, la superación de cualquiera de las ofertas formativas a la que se refiere este real decreto dará lugar a la obtención del título de Técnico Básico en la especialidad correspondiente, con independencia del currículo que haya cursado.
-
 
 #### Disposición adicional quinta. Convalidación a través de estándares de competencias profesionales.
 
@@ -2197,11 +2163,9 @@ A partir de la entrada en vigor de este real decreto, la superación de cualquie
 
 4. Habida cuenta de las actualizaciones en las denominaciones de las unidades de competencia y/o de los módulos profesionales, en caso de discrepancia, prevalecerá el número de código frente a la denominación.
 
-
 #### Disposición adicional sexta. Referencias a las competencias profesionales, personales y sociales.
 
 En todos los reales decretos objeto de la presente norma, las referencias contenidas en los anexos a las «competencias profesionales, personales y sociales» deben entenderse hechas a «competencias profesionales y para la empleabilidad».
-
 
 #### Disposición adicional séptima. Expresión de la calificación.
 
@@ -2209,20 +2173,15 @@ En todos los reales decretos objeto de la presente norma, las referencias conten
 
 2. En el caso de los módulos profesionales y proyecto intermodular de aprendizaje colaborativo, la expresión de la calificación responderá a lo establecido en artículo 18.8 del Real Decreto 659/2023, de 18 de julio, y será, consecuentemente, numérica entre 1 y 10, sin decimales. En su caso, la calificación integrará la valoración del centro y de la empresa, y será responsabilidad final del equipo docente y el centro de formación.
 
-
 #### Disposición transitoria única. Aplicación de los reales decretos por los que se establecen títulos de formación profesional básica de acuerdo con el calendario establecido en el Real Decreto 278/2023, de 11 de abril.
 
 De acuerdo con el calendario establecido en el artículo 11 del Real Decreto 278/2023, de 11 de abril, por el que se establece el calendario de implantación del Sistema de Formación Profesional establecido por la Ley Orgánica 3/2022, de 31 de marzo, de ordenación e integración de la Formación Profesional, en el curso 2024-2025 se completará la implantación del primer curso de todos los ciclos formativos. Durante dicho curso académico, para el segundo curso permanecerá en vigor la ordenación de los ciclos formativos de grado básico previa a la entrada en vigor del presente real decreto.
-
 
 #### Disposición final primera. Título competencial.
 
 Este real decreto se dicta al amparo de las competencias que atribuye al Estado el artículo 149.1.30.ª de la Constitución Española, para la regulación de las condiciones de obtención, expedición y homologación de los títulos académicos y profesionales y normas básicas para el desarrollo del artículo 27 de la Constitución Española, a fin de garantizar el cumplimiento de las obligaciones de los poderes públicos en esta materia.
 
-
 #### Disposición final segunda. Entrada en vigor.
-
-Este real decreto entrará en vigor el día siguiente al de su publicación en el «Boletín Oficial del Estado».
 
 Dado en Madrid, el 21 de mayo de 2024.
 

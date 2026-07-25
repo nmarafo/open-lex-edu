@@ -63,19 +63,15 @@ Este real decreto y el reglamento que por el mismo se aprueba ha sido objeto de 
 
 En su virtud, a propuesta de la Ministra de Educación y Ciencia, con la aprobación previa del Ministro de Administraciones Públicas, de acuerdo con el Consejo de Estado y previa deliberación del Consejo de Ministros en su reunión del día 23 de febrero de 2007,
 
-
 **D I S P O N G O :**
-
 
 #### Artículo único. Aprobación del Reglamento.
 
 Se aprueba el Reglamento general de ingreso, accesos y adquisición de nuevas especialidades en los cuerpos de funcionarios docentes a que se refiere la Ley Orgánica 2/2006, de 3 de mayo, de Educación, cuyo texto se inserta a continuación.
 
-
 #### Disposición transitoria primera. Sistema de ingreso durante la implantación de la Ley Orgánica 2/2006, de 3 de mayo, de Educación.
 
 En cumplimiento de lo dispuesto en la disposición transitoria decimoséptima. 2 de la Ley Orgánica de Educación, las disposiciones contenidas en el título VI de este Reglamento se aplicarán a los procedimientos de ingreso a los cuerpos docentes que se convoquen durante los años de implantación de la misma.
-
 
 #### Disposición transitoria segunda. Temarios.
 
@@ -85,11 +81,9 @@ En cumplimiento de lo dispuesto en la disposición transitoria decimoséptima. 2
 
 3. A dicho temario, que deberá comprender los aspectos didácticos y de contenido educativo general, se le podrán incorporar, en las convocatorias que realicen las Administraciones educativas con lengua cooficial, otros contenidos relativos a la propia lengua cooficial y literatura, por ampliación parcial de los temas del temario a que se refiere el apartado anterior, y/o por adición de nuevos temas en un número, en todo caso, no superior a seis.
 
-
 #### Disposición derogatoria única. Derogación normativa.
 
 Quedan derogadas todas las disposiciones de igual o inferior rango que se opongan a lo establecido en esta norma y en particular el Real Decreto 334/2004, de 27 de febrero, por el que se aprueba el Reglamento de ingreso, accesos y adquisición de nuevas especialidades en los cuerpos docentes que imparten las enseñanzas escolares del sistema educativo y en el Cuerpo de Inspectores de Educación.
-
 
 #### Disposición final primera. Título competencial.
 
@@ -97,10 +91,7 @@ El presente real decreto, así como el Reglamento, que se aprueba en el mismo, s
 
 Se exceptúan de dicho carácter básico los siguientes artículos del Reglamento: 3.2; 5; 6; 7; 8.1; 8.2; 10.2; 11; 16.2; 36.3, párrafo segundo; 53.2, párrafo tercero; 54.3, párrafo cuarto.
 
-
 #### Disposición final segunda. Entrada en vigor.
-
-El presente real decreto entrará en vigor el día siguiente al de su publicación en el «Boletín Oficial del Estado».
 
 Dado en Madrid, el 23 de febrero de 2007.
 
@@ -112,9 +103,7 @@ MERCEDES CABRERA CALVO-SOTELO
 
 [encabezado]REGLAMENTO DE INGRESO, ACCESOS Y ADQUISICIÓN DE NUEVAS ESPECIALIDADES EN LOS CUERPOS DE FUNCIONARIOS DOCENTES A LOS QUE SE REFIERE LA LEY ORGÁNICA 2/2006, DE 3 DE MAYO, DE EDUCACIÓN
 
-
 ## TÍTULO I
-
 
 **Normas generales**
 
@@ -122,14 +111,11 @@ CAPÍTULO I
 
 Objeto y ámbito de aplicación
 
-
 #### Artículo 1. Objeto y ámbito de aplicación.
 
 El presente Reglamento tiene por objeto la regulación de los procedimientos que se convoquen por las Administraciones educativas para ingreso, accesos y adquisición de nuevas especialidades en los cuerpos de funcionarios docentes a que se refiere la Ley Orgánica 2/2006, de 3 de mayo, de Educación.
 
-
 ## TÍTULO II
-
 
 **Normas comunes a todos los procedimientos**
 
@@ -137,13 +123,11 @@ CAPÍTULO I
 
 De los principios rectores y de los órganos convocantes
 
-
 #### Artículo 2. Principios rectores de los procedimientos.
 
 Todos los procedimientos regulados en este Reglamento se realizarán mediante convocatoria pública y en ellos se garantizarán, en todo caso, los principios de igualdad, mérito y capacidad, así como el de publicidad.
 
 Los procedimientos a que se refiere esta norma se regirán por las bases de la convocatoria respectiva, que se ajustarán, en todo caso, a lo dispuesto en este Reglamento y a las demás normas que resulten de aplicación.
-
 
 #### Artículo 3. Órganos convocantes.
 
@@ -155,11 +139,9 @@ CAPÍTULO II
 
 De los órganos de selección
 
-
 #### Artículo 4. Clases.
 
 La selección de los participantes en los distintos procedimientos a que se refiere este Reglamento será realizada por tribunales y, en su caso, por comisiones de selección u órganos equivalentes nombrados al efecto por la correspondiente Administración educativa.
-
 
 #### Artículo 5. Nombramiento.
 
@@ -168,7 +150,6 @@ La selección de los participantes en los distintos procedimientos a que se refi
 2.  Cuando se nombre más de un tribunal para alguna o algunas de las especialidades convocadas, las convocatorias podrán determinar la constitución de comisiones de selección para todas o alguna de las especialidades afectadas por esa circunstancia.
 
 3. En el caso de Comunidades Autónomas con lengua cooficial, las convocatorias podrán determinar la constitución de tribunales distintos para cada modelo lingüístico dentro de una misma especialidad, pudiendo determinarse, en su caso, la constitución de las correspondientes comisiones de selección.
-
 
 #### Artículo 6. Funciones.
 
@@ -202,7 +183,6 @@ d) La declaración de los aspirantes que hayan superado las fases de concurso y 
 
 7. Cuando existiendo más de un tribunal por especialidad, no se haya dispuesto la constitución de comisiones de selección, las convocatorias podrán disponer la forma en que, en su caso, deban distribuirse, entre los distintos tribunales, las plazas ofertadas de la especialidad.
 
-
 #### Artículo 7. Composición.
 
 1. Los miembros de los tribunales serán funcionarios de carrera en activo de los cuerpos de funcionarios docentes o del Cuerpo a extinguir de Inspectores al Servicio de la Administración educativa, y pertenecerán todos a cuerpos de igual o superior grupo de clasificación que el que corresponda al cuerpo al que optan los aspirantes. En aplicación de la excepción prevista en el artículo 19.2 de la Ley 30/1984, de 2 de agosto, de Medidas para la Reforma de la Función Pública, los tribunales podrán estar formados mayoritariamente por funcionarios pertenecientes al cuerpo al que corresponda el proceso selectivo.
@@ -220,7 +200,6 @@ d) La declaración de los aspirantes que hayan superado las fases de concurso y 
 7. La designación de los presidentes de los tribunales se realizará libremente por el órgano convocante. Los demás miembros serán designados por sorteo, con la excepción de aquellos cuerpos o especialidades en las que el número de titulares no permita la realización del mismo, en cuyo caso las convocatorias podrán disponer otra forma de designación. No obstante lo anterior, las Administraciones educativas podrán disponer la posibilidad de participación voluntaria en los mismos, en la forma y plazo que establezcan, y siempre con carácter previo al procedimiento de designación forzoso, pudiendo ser esta participación reconocida como mérito a los efectos que se determinen.
 
 8. Las comisiones de selección estarán constituidas por al menos cinco miembros, pudiendo formar parte de ellas los presidentes de los tribunales. En todo caso será de aplicación lo previsto en los apartados anteriores respecto de los miembros de los tribunales.
-
 
 #### Artículo 8. Reglas adicionales sobre composición y funcionamiento.
 
@@ -242,17 +221,13 @@ CAPÍTULO III
 
 De las convocatorias
 
-
 #### Artículo 9. Convocatorias.
-
-1. El Ministerio de Educación y Ciencia publicará en el Boletín Oficial del Estado las convocatorias que realice, junto con sus bases. Las convocatorias que realicen los órganos correspondientes de las Comunidades Autónomas se publicarán en sus respectivos Boletines o Diarios Oficiales y en el Boletín Oficial del Estado. En este último caso, la publicación en el Boletín Oficial del Estado podrá sustituirse por la inserción en el mismo de un anuncio en el que se indique la Administración educativa convocante, el cuerpo o cuerpos a que afecta la convocatoria, el número de plazas convocadas, el boletín o diario oficial, la fecha en que se hace pública la convocatoria, la fecha de terminación del plazo de presentación de instancias y el órgano o dependencia al que éstas deben dirigirse.
 
 2. Las bases de las convocatorias vincularán a la Administración, a los órganos de selección y a quienes participen en ellas.
 
 3. Las convocatorias o sus bases, una vez publicadas, solamente podrán ser modificadas con sujeción estricta a las normas de la Ley 30/1992, de 26 de noviembre, de Régimen Jurídico de las Administraciones Públicas y del Procedimiento Administrativo Común. No obstante, cuando se produzca, únicamente, un incremento en el número de plazas vacantes convocadas, no será preceptiva la apertura de un nuevo plazo de presentación de instancias, salvo que se añadan plazas vacantes de una especialidad que no hubiera figurado en la convocatoria.
 
 4. La convocatoria, sus bases y cuantos actos administrativos se deriven de aquélla y de la actuación de los órganos de selección podrán ser impugnados por los interesados en los casos y en la forma prevista en la Ley 30/1992, de 26 de noviembre, de Régimen Jurídico de las Administraciones Públicas y del Procedimiento Administrativo Común.
-
 
 #### Artículo 10. Contenido de las convocatorias.
 
@@ -286,7 +261,6 @@ CAPÍTULO IV
 
 Del desarrollo de los procedimientos selectivos
 
-
 #### Artículo 11. Régimen aplicable.
 
 En lo no dispuesto en el presente Reglamento, las Comunidades Autónomas convocantes y los órganos de selección se acomodarán para el desarrollo de los procedimientos selectivos, en cuanto a las actuaciones que haya que realizar y los plazos señalados para ello, a lo que disponga la normativa aplicable a cada una de estas Administraciones en materia de ingreso a la Función Pública.
@@ -294,7 +268,6 @@ En lo no dispuesto en el presente Reglamento, las Comunidades Autónomas convoca
 CAPÍTULO V
 
 De los requisitos que han de reunir los participantes
-
 
 #### Artículo 12. Requisitos generales.
 
@@ -315,7 +288,6 @@ e) No ser funcionario de carrera, en prácticas o estar pendiente del correspond
 f) Acreditar, en su caso, el conocimiento de la lengua cooficial de la Comunidad Autónoma convocante, de acuerdo con su normativa.
 
 2. Asimismo, de acuerdo con lo que se establece en el artículo 16 de este Reglamento, las convocatorias podrán determinar la forma en que, los aspirantes que no posean la nacionalidad española, deban acreditar un conocimiento adecuado del castellano y, en su caso, del idioma propio cooficial.
-
 
 #### Artículo 13. Requisitos específicos.
 
@@ -361,16 +333,13 @@ a) Estar en posesión del título de Doctor, Licenciado, Ingeniero, Arquitecto o
 
 b) Estar en posesión de la formación pedagógica y didáctica a la que se refiere el artículo 100.2 de la Ley Orgánica 2/2006, de 3 de mayo, de Educación.
 
-
 #### Artículo 14. Plazo en el que deben reunirse los requisitos.
 
 Todas las condiciones y requisitos enumerados en los artículos 12 y 13 anteriores deberán reunirse en la fecha en que finalicen los plazos de presentación de instancias y mantenerse hasta la toma de posesión como funcionarios de carrera.
 
-
 #### Artículo 15. Imposibilidad de concurrir a más de un turno.
 
 Ningún aspirante podrá presentarse, dentro de una misma convocatoria, a plazas de un mismo cuerpo y especialidad correspondientes a distintos turnos de ingreso o accesos entre cuerpos de funcionarios docentes.
-
 
 #### Artículo 16. Acreditación del conocimiento del castellano y de lenguas cooficiales de las Comunidades Autónomas.
 
@@ -378,16 +347,13 @@ Ningún aspirante podrá presentarse, dentro de una misma convocatoria, a plazas
 
 2. En las convocatorias que incluyan plazas situadas en Comunidades Autónomas cuya lengua propia tenga carácter cooficial, cuando el conocimiento de esta lengua constituya un requisito para el ingreso o el acceso a dichas plazas, podrán establecerse los procedimientos adecuados para acreditar su conocimiento.
 
-
 ## TÍTULO III
-
 
 **Del sistema de ingreso**
 
 CAPÍTULO I
 
 Normas generales
-
 
 #### Artículo 17. Sistema selectivo.
 
@@ -401,7 +367,6 @@ CAPÍTULO II
 
 De la fase de oposición
 
-
 #### Artículo 18. Fase de oposición.
 
 1. En la fase de oposición de los procedimientos selectivos se tendrá en cuenta la posesión de los conocimientos específicos de la especialidad docente a la que se opta, la aptitud pedagógica y el dominio de las técnicas necesarias para el ejercicio docente.
@@ -410,11 +375,9 @@ De la fase de oposición
 
 3. El orden en que deban desarrollarse las pruebas y sus partes o ejercicios, así como su duración será determinado por las Administraciones educativas en sus respectivas convocatorias.
 
-
 #### Artículo 19. Temarios.
 
 Previa consulta con las Comunidades Autónomas, reglamentariamente se aprobarán los temarios definitivos que correspondan para los diferentes cuerpos y especialidades.
-
 
 #### Artículo 20. Carácter de las pruebas.
 
@@ -423,7 +386,6 @@ Previa consulta con las Comunidades Autónomas, reglamentariamente se aprobarán
 2. Todas las pruebas de las especialidades de idiomas modernos en los Cuerpos de Maestros, de Profesores de Enseñanza Secundaria, y de Profesores de Escuelas Oficiales de Idiomas se desarrollarán en el idioma correspondiente.
 
 3. En todas las especialidades que incluyan habilidades instrumentales o técnicas, estas habilidades deberán ser evaluadas en alguna de las pruebas.
-
 
 #### Artículo 21. Pruebas de la fase de oposición.
 
@@ -459,7 +421,6 @@ Para la preparación y exposición de la unidad didáctica el aspirante podrá u
 
 Esta prueba se valorará globalmente de cero a diez puntos, debiendo alcanzar el aspirante, para su superación, una puntuación igual o superior a cinco puntos.
 
-
 #### Artículo 22. Calificaciones.
 
 Las calificaciones de las pruebas se expresarán en números de cero a diez. En ellas será necesario haber obtenido una puntuación igual o superior a cinco puntos para poder acceder a la prueba siguiente o, en el caso de la última prueba, para proceder a la valoración de la fase de concurso.
@@ -467,7 +428,6 @@ Las calificaciones de las pruebas se expresarán en números de cero a diez. En 
 CAPÍTULO III
 
 De la fase de concurso
-
 
 #### Artículo 23. Méritos.
 
@@ -479,18 +439,15 @@ CAPÍTULO IV
 
 De la calificación de las distintas fases y selección de los aspirantes para la realización de la fase de prácticas
 
-
 #### Artículo 24. Publicidad de las calificaciones.
 
 Las convocatorias señalarán el modo de hacer públicos los resultados obtenidos por los aspirantes a lo largo del proceso selectivo. En todo caso, tendrán carácter público los resultados de las pruebas que permitan acceder a otra prueba posterior, las puntuaciones de la fase de concurso y las finales de los seleccionados para la realización de la fase de prácticas.
-
 
 #### Artículo 25. Sistema de calificación.
 
 1. La calificación correspondiente a la fase de oposición será la media aritmética de las puntuaciones obtenidas en las pruebas integrantes de esta fase, cuando todas ellas hayan sido superadas.
 
 2. La ponderación de las puntuaciones de las fases de oposición y concurso para formar la puntuación global será de dos tercios para la fase de oposición y de un tercio para la fase de concurso.
-
 
 #### Artículo 26. Superación de las fases de oposición y concurso.
 
@@ -508,7 +465,6 @@ d) Mayor puntuación en los subapartados del baremo, por el orden en que éstos 
 
 Una vez aplicados los criterios anteriores, si persistiera el empate, las convocatorias establecerán un quinto criterio de desempate.
 
-
 #### Artículo 27. Confección de las listas de aspirantes seleccionados en las fases de oposición y concurso.
 
 1. Para cada uno de los cuerpos objeto de la convocatoria, los órganos de selección elaborarán una lista única por especialidades, formada por todos los aspirantes seleccionados. En el caso de que la convocatoria sea única para las distintas formas de ingreso y acceso a un cuerpo, en estas listas figurarán en primer lugar los aspirantes que hayan accedido desde cuerpos del mismo grupo y nivel de complemento de destino; en segundo lugar los del turno de acceso desde cuerpos de distinto grupo y, en tercer lugar, los ingresados por el turno libre.
@@ -516,7 +472,6 @@ Una vez aplicados los criterios anteriores, si persistiera el empate, las convoc
 2. Dentro de cada uno de estos grupos, los aspirantes seleccionados se ordenarán por la puntuación obtenida. Los aspirantes acogidos a la reserva correspondiente a las personas con discapacidad establecida en el artículo 10.1. a) se incluirán en el tercer grupo de acuerdo con su puntuación.
 
 3. En el caso de que al confeccionar estas listas se produjesen empates, éstos se resolverán de acuerdo con lo establecido en el artículo 26.2.
-
 
 #### Artículo 28. Publicación de las listas de aspirantes seleccionados que han superado las fases de oposición y concurso.
 
@@ -526,7 +481,6 @@ CAPÍTULO V
 
 De la fase de prácticas
 
-
 #### Artículo 29. Nombramiento de funcionarios en prácticas.
 
 1. Una vez formadas estas listas, el órgano convocante procederá a nombrar funcionarios en prácticas a los integrantes de las mismas, asignándoles destino para realizarlas de acuerdo con las necesidades del servicio.
@@ -535,13 +489,11 @@ De la fase de prácticas
 
 3. Los aspirantes que, aun estando exentos de la realización de la fase de prácticas, hayan optado por incorporarse como funcionarios en prácticas al destino asignado, quedarán eximidos de la evaluación de las mismas, permaneciendo en esta situación hasta la aprobación de los expedientes de los procedimientos selectivos y su posterior nombramiento como funcionarios de carrera.
 
-
 #### Artículo 30. Regulación de la fase de prácticas.
 
 1. Las Administraciones educativas, de acuerdo con lo establecido en el artículo 10 de este Reglamento, regularán la organización de la fase de prácticas que incluirá un periodo de docencia directa que formará parte del procedimiento selectivo y que tendrán por objeto comprobar la aptitud para la docencia de los aspirantes seleccionados. Este periodo de ejercicio de la docencia en centros públicos se desarrollará bajo la tutoría de profesores experimentados, preferentemente del correspondiente cuerpo de catedráticos y tendrá una duración mayor a un trimestre y no superior a un curso escolar y podrá incluir cursos de formación.
 
 2. Las Administraciones educativas podrán regular la exención de la evaluación de la fase de prácticas de quienes hayan superado las fases de oposición y concurso de los procedimientos selectivos de ingreso a los cuerpos que imparten docencia y acrediten haber prestado servicios, al menos durante un curso escolar, como funcionarios docentes de carrera.
-
 
 #### Artículo 31. Evaluación de la fase de prácticas.
 
@@ -555,16 +507,13 @@ CAPÍTULO VI
 
 De los expedientes de los procedimientos selectivos y nombramiento de funcionarios de carrera
 
-
 #### Artículo 32. Nombramiento de funcionarios de carrera.
 
 1. Concluida la fase de prácticas y comprobado que todos los aspirantes declarados aptos en la misma reúnen los requisitos generales y específicos de participación establecidos en la convocatoria, las Administraciones educativas aprobarán los expedientes de los procedimientos selectivos, que harán públicos en la misma forma que se hizo pública la convocatoria y remitirán las listas de seleccionados en los diferentes cuerpos al Ministerio de Educación, y Ciencia, a efectos de su nombramiento y expedición de los correspondientes títulos de funcionarios de carrera.
 
 2. Cuando se trate de cuerpos pertenecientes a Comunidades Autónomas que hayan procedido a regular su Función Pública docente, el nombramiento y la expedición de los títulos de funcionarios de carrera corresponderá a los órganos correspondientes de su Administración educativa. En estos casos, a efectos registrales, se remitirá al Ministerio de Educación y Ciencia copia de la Orden o Resolución de nombramiento y de las listas de ingresados en los respectivos cuerpos.
 
-
 ## TÍTULO IV
-
 
 **Accesos entre los cuerpos de funcionarios docentes**
 
@@ -572,16 +521,13 @@ CAPÍTULO I
 
 Del acceso de los funcionarios de los cuerpos docentes a otros cuerpos docentes incluidos en un grupo de clasificación superior
 
-
 #### Artículo 33. Ámbito de aplicación.
 
 El presente capítulo será de aplicación a los procedimientos de acceso a los cuerpos de funcionarios docentes a que se refiere el apartado 3. de la disposición adicional duodécima de la Ley Orgánica 2/2006, de 3 de mayo, de Educación.
 
-
 #### Artículo 34. Reserva de plazas.
 
 En las convocatorias de ingreso en los Cuerpos de Profesores de Enseñanza Secundaria y de Profesores de Artes Plásticas y Diseño, se reservará un porcentaje de las plazas que se convoquen para el acceso de funcionarios docentes clasificados en el grupo B a que se refiere la vigente legislación de la función pública.
-
 
 #### Artículo 35. Requisitos de los participantes.
 
@@ -592,7 +538,6 @@ a) Estar en posesión de las titulaciones que, para el ingreso en los correspond
 b) Haber permanecido en sus cuerpos de procedencia un mínimo de seis años como funcionario de carrera.
 
 c) Acreditar, en su caso, el conocimiento de la lengua cooficial de la Comunidad Autónoma convocante, de acuerdo con su normativa
-
 
 #### Artículo 36. Sistema selectivo.
 
@@ -628,13 +573,11 @@ CAPÍTULO II
 
 Del acceso a los Cuerpos de Catedráticos de Enseñanza Secundaria, de Música y Artes Escénicas, de Artes Plásticas y Diseño y de Escuelas Oficiales de Idiomas
 
-
 #### Artículo 37. Ámbito de aplicación.
 
 El presente capítulo será de aplicación a los procedimientos de acceso a los cuerpos de funcionarios docentes a que se refieren los apartados 1, 2, 3 y 4 de la disposición adicional décima, así como el apartado 2 de la disposición adicional duodécima de la Ley Orgánica 2/2006, de 3 de mayo, de Educación.
 
 A estos efectos y de conformidad con lo dispuesto en el último párrafo del apartado 2 de la disposición adicional duodécima de la Ley, deberá tenerse en cuenta que el número de funcionarios de los cuerpos de catedráticos, a excepción del Cuerpo de Catedráticos de Música y Artes Escénicas, no superará, en cada caso, el 30 por 100 del número total de funcionarios de cada cuerpo de origen.
-
 
 #### Artículo 38. Requisitos de los participantes.
 
@@ -647,7 +590,6 @@ b) Pertenecer al correspondiente cuerpo de profesores.
 c) Acreditar una antigüedad mínima de ocho años, en el correspondiente cuerpo, como funcionario de carrera.
 
 d) Acreditar, en su caso, el conocimiento de la lengua cooficial de la Comunidad Autónoma convocante, de acuerdo con su normativa.
-
 
 #### Artículo 39. Sistema selectivo.
 
@@ -673,11 +615,9 @@ CAPÍTULO III
 
 Del acceso al Cuerpo de Inspectores de Educación
 
-
 #### Artículo 40. Ámbito de aplicación.
 
 El presente capítulo será de aplicación a los procedimientos de acceso al cuerpo de funcionarios docentes a que se refieren los apartados 5 de la disposición adicional décima y 4 de la disposición adicional duodécima de la Ley Orgánica 2/2006, de 3 de mayo, de Educación.
-
 
 #### Artículo 41. Requisitos de los participantes.
 
@@ -691,7 +631,6 @@ c) Acreditar una antigüedad mínima de seis años, como funcionario de carrera,
 
 d) Acreditar, en su caso, el conocimiento de la lengua cooficial de la Comunidad Autónoma convocante, de acuerdo con su normativa.
 
-
 #### Artículo 42. Sistema selectivo.
 
 1. El sistema de selección debe permitir evaluar la cualificación de los aspirantes para el ejercicio de la función inspectora que van a realizar, así como los conocimientos y técnicas específicas para el desempeño de la misma.
@@ -699,7 +638,6 @@ d) Acreditar, en su caso, el conocimiento de la lengua cooficial de la Comunidad
 2. De conformidad con lo establecido en el apartado 4 de la disposición adicional duodécima de la Ley Orgánica 2/2006, de 3 de mayo, de Educación, el sistema de acceso al Cuerpo de Inspectores de Educación será el de concurso-oposición. Asimismo existirá una fase de prácticas que formará parte del proceso selectivo.
 
 3. De conformidad, asimismo, con lo dispuesto en la citada disposición y apartado, en las convocatorias de acceso a este cuerpo, las Administraciones educativas podrán reservar hasta un tercio de las plazas que se convoquen para la provisión mediante concurso de méritos destinado a los profesores que, reuniendo los requisitos generales, hayan ejercido con evaluación positiva, al menos durante tres mandatos, el cargo de director.
-
 
 #### Artículo 43. Temario.
 
@@ -712,7 +650,6 @@ Parte A: Incluirá temas generales relativos a cuestiones pedagógicas sobre org
 Parte B: Incluirá temas de carácter específico que se referirán a las características propias de los niveles y etapas educativas, al desarrollo curricular y a la correspondiente metodología didáctica, a la organización y administración de los centros y a la legislación de la Administración educativa convocante.
 
 3. En las convocatorias que realicen las Administraciones educativas se añadirán, a los temas de carácter específico de la parte B del temario, otros relacionados con la estructura y funcionamiento de los órganos de la inspección educativa, así como con la organización administrativa de la Comunidad Autónoma.
-
 
 #### Artículo 44. Fase de oposición.
 
@@ -728,16 +665,13 @@ La prueba a la que se alude en el párrafo anterior constará de tres partes y s
 
 Las Administraciones educativas determinarán en sus respectivas convocatorias las características y duración de cada una de las tres partes de la prueba, que se calificarán de 0 a 10 puntos, respectivamente.
 
-
 #### Artículo 45. Calificaciones.
 
 Para superar la prueba, los aspirantes deberán obtener, en cada parte de la misma, al menos la mitad de la calificación máxima establecida, siendo la puntuación final el resultado de ponderar en un 40% la puntuación obtenida en la parte 3 y en un 30% cada una de las otras dos partes.
 
-
 #### Artículo 46. Fase de concurso.
 
 En la fase de concurso se valorará la trayectoria profesional de los candidatos y sus méritos específicos como docentes, el desempeño de cargos directivos con evaluación positiva y la pertenencia a alguno de los cuerpos de catedráticos a que se refiere la Ley Orgánica de Educación y el ejercicio, en su caso, de la función inspectora. En todo caso, los baremos de las convocatorias deberán respetar las especificaciones básicas que se recogen en el anexo III a este Reglamento.
-
 
 #### Artículo 47. Superación de las fases de oposición y concurso.
 
@@ -755,7 +689,6 @@ d) Mayor puntuación en los subapartados del baremo, por el orden en que éstos 
 
 Una vez aplicados los criterios anteriores, si persistiera el empate, las convocatorias establecerán un quinto criterio de desempate.
 
-
 #### Artículo 48. Fase de prácticas.
 
 1. Una vez publicadas las listas de los aspirantes seleccionados, el órgano convocante procederá a nombrar funcionarios en prácticas a los integrantes de éstas.
@@ -770,18 +703,15 @@ CAPÍTULO IV
 
 Del acceso de funcionarios docentes a otros cuerpos del mismo grupo y nivel de complemento de destino
 
-
 #### Artículo 49. Ámbito de aplicación.
 
 El presente capítulo será de aplicación a los procedimientos de acceso entre los cuerpos de funcionarios docentes a que se refiere el apartado 5 de la disposición adicional duodécima de la Ley Orgánica 2/2006, de 3 de mayo, de Educación.
-
 
 #### Artículo 50. Requisitos de los participantes.
 
 Los funcionarios de carrera de los cuerpos docentes a que se refiere la Ley Orgánica 2/2006, de 3 de mayo, de Educación, podrán acceder a otros cuerpos de funcionarios docentes del mismo grupo y nivel de complemento de destino mediante su participación en los procedimientos que se regulan en este capítulo, sin limitación de antigüedad.
 
 A estos efectos deberán estar en posesión de las titulaciones que para el ingreso en los distintos cuerpos se establecen en el artículo 13 de este Reglamento, así como acreditar, en su caso, el conocimiento de la lengua cooficial de la Comunidad Autónoma convocante, de acuerdo con su normativa.
-
 
 #### Artículo 51. Sistema selectivo.
 
@@ -815,17 +745,13 @@ La prueba se valorará de cero a diez puntos y los aspirantes deberán obtener, 
 
 4. Quienes accedan por este procedimiento estarán exentos de la realización de la fase de prácticas y en los supuestos en los que la adjudicación de destinos se realice atendiendo a la puntuación obtenida en los procedimientos selectivos, tendrán prioridad, en la obtención de los mismos, sobre los aspirantes que ingresen por el turno libre y, en su caso, sobre los ingresados por cualquiera de los otros turnos de acceso de la convocatoria del mismo año.
 
-
 ## TÍTULO V
 
-
 **Del procedimiento para la adquisición de nuevas especialidades**
-
 
 #### Artículo 52. Convocatoria.
 
 Las Administraciones educativas determinarán, mediante las oportunas convocatorias, las especialidades que puedan adquirirse a través de los procedimientos establecidos en este título. A estas convocatorias podrán concurrir únicamente funcionarios de carrera directamente dependientes de la Administración educativa convocante. En ellas se podrá determinar el número de profesores que adquieran nuevas especialidades por este procedimiento.
-
 
 #### Artículo 53. Adquisición de nuevas especialidades por funcionarios del Cuerpo de Maestros.
 
@@ -838,7 +764,6 @@ La duración y las características de esta prueba se fijarán en la convocatori
 Para aquellas especialidades en que así se determine, la prueba podrá incorporar contenidos prácticos.
 
 3. La valoración de la prueba será de «apto» o «no apto» y obtendrán la nueva especialidad únicamente quienes hayan sido calificados con «apto».
-
 
 #### Artículo 54. Adquisición de nuevas especialidades por funcionarios de otros cuerpos.
 
@@ -858,7 +783,6 @@ Para aquellas especialidades en que así se determine, la prueba podrá incorpor
 
 4. La valoración de la prueba será de «apto» o «no apto» y obtendrán la nueva especialidad únicamente quienes hayan sido calificados con «apto».
 
-
 #### Artículo 55. Efectos de la adquisición de una nueva especialidad.
 
 1. Quienes adquieran una nueva especialidad por este procedimiento estarán exentos de la fase de prácticas.
@@ -867,9 +791,7 @@ Para aquellas especialidades en que así se determine, la prueba podrá incorpor
 
 3. Quienes tengan adquirida más de una especialidad por este procedimiento podrán acceder a plazas correspondientes a cualquiera de ellas a través de los mecanismos establecidos para la provisión de puestos de trabajo de los funcionarios docentes, pudiendo establecerse, en su caso, una valoración extraordinaria por esta adquisición.
 
-
 ## TÍTULO VI
-
 
 **Del procedimiento de ingreso a que se refiere la disposición transitoria decimoséptima de la Ley Orgánica 2/2006, de 3 de mayo, de Educación**
 
@@ -877,18 +799,15 @@ CAPÍTULO I
 
 Normas generales
 
-
 #### Artículo 56. Ámbito de aplicación y principios rectores del procedimiento.
 
 1. El presente título será de aplicación al procedimiento selectivo de ingreso a que se refiere la disposición transitoria decimoséptima de la Ley Orgánica 2/2006, de 3 de mayo, de Educación.
 
 2. Al presente procedimiento le serán de aplicación todas las normas reguladas en el Título II de este Reglamento.
 
-
 #### Artículo 57. Requisitos de los participantes.
 
 Quienes aspiren a participar en los procedimientos selectivos regulados en este título deberán cumplir los requisitos generales y específicos a que se refieren los artículos 12 y 13 de este Reglamento.
-
 
 #### Artículo 58. Sistema selectivo.
 
@@ -898,16 +817,13 @@ CAPÍTULO II
 
 De la fase de oposición
 
-
 #### Artículo 59. Fase de oposición.
 
 Será de aplicación lo dispuesto en el artículo 18 de este Reglamento.
 
-
 #### Artículo 60. Temarios.
 
 Serán los mismos a los que se refiere el artículo 19 de este Reglamento.
-
 
 #### Artículo 61. Prueba de la fase de oposición.
 
@@ -953,7 +869,6 @@ CAPÍTULO III
 
 De la fase de concurso
 
-
 #### Artículo 62. Baremo.
 
 1. En la fase de concurso se valorarán, en la forma que establezcan las convocatorias, la formación académica y, de forma preferente, la experiencia docente previa en los centros públicos de la misma etapa educativa. En todo caso, los baremos de las convocatorias deberán respetar las especificaciones básicas y estructura que se recogen en el Anexo IV de este Reglamento.
@@ -964,11 +879,9 @@ CAPÍTULO IV
 
 De las calificaciones de las distintas fases y selección de los aspirantes para la realización de la fase de prácticas
 
-
 #### Artículo 63. Sistema de calificación.
 
 La ponderación de las puntuaciones de las fases de oposición y concurso para formar la puntuación global será de un 60% para la fase de oposición y de un 40% para la fase de concurso.
-
 
 #### Artículo 64. Superación de las fases de oposición y concurso, confección y publicación de las listas de aspirantes seleccionados en las fases de oposición y concurso.
 
@@ -978,16 +891,13 @@ CAPÍTULO V
 
 De la fase de prácticas, de los expedientes de los procedimientos selectivos y nombramiento de funcionarios de carrera
 
-
 #### Artículo 65. Nombramiento, regulación y evaluación de la fase de prácticas.
 
 A los efectos de este artículo será de aplicación lo dispuesto en los artículos 29, 30 y 31 de este Reglamento.
 
-
 #### Artículo 66. Nombramiento de funcionarios de carrera.
 
 A los efectos de este artículo será de aplicación lo dispuesto en el artículo 32 de este Reglamento.
-
 
 #### Disposición adicional única. Titulaciones declaradas equivalentes a efectos de docencia para el ingreso en determinados cuerpos.
 
@@ -1002,7 +912,6 @@ A los efectos de este artículo será de aplicación lo dispuesto en el artícul
 5. Para el ingreso en el Cuerpo de Maestros de Taller de Artes Plásticas y Diseño, para las especialidades que se detallan en el Anexo IX al presente Reglamento, podrán ser admitidos quienes, aun careciendo de la titulación exigida con carácter general, estén en posesión de alguna de las titulaciones que, para cada una de ellas, se relacionan, asimismo, en el citado Anexo IX.
 
 6. Para el ingreso en el Cuerpo de Profesores Técnicos de Formación Profesional y únicamente en aquellos casos en que las Administraciones educativas no hayan llevado a término las cuatro primeras convocatorias de cada especialidad a que se refería la disposición transitoria segunda del Real Decreto 777/1998, de 30 de abril, en su nueva redacción dada por el Real Decreto 334/2004, de 27 de febrero, podrán ser admitidos aquellos aspirantes que, aun careciendo de la titulación exigida con carácter general, acrediten experiencia docente de, al menos, dos años en centros educativos públicos dependientes de la Administración educativa convocante y estén en posesión de las titulaciones de Técnico Especialista o Técnico Superior en una especialidad de formación profesional que pertenezca a la familia profesional correspondiente y además para las especialidades de la familia profesional de Actividades Marítimo Pesqueras las de Patrón de Altura o Patrón Mayor de Cabotaje, entendiendo que el plazo de efectividad de las cuatro convocatorias se circunscribe a la fecha de entrada en vigor del anteriormente citado Real Decreto 777/1998, de 30 de abril.
-
 
 #### Disposición transitoria única. Exigencia de la formación pedagógica y didáctica a que se refiere el artículo 100.2 de la Ley Orgánica 2/2006, de 3 de mayo, de Educación.
 
@@ -1029,7 +938,6 @@ Formación académica: Máximo cinco puntos.
 Otros méritos: Máximo dos puntos.
 
 Los aspirantes no podrán alcanzar más de 10 puntos por la valoración de sus méritos.
-
 
 **ESPECIFICACIONES**
 
@@ -1161,7 +1069,6 @@ Preparación científica y didáctica y otros méritos: Máximo dos puntos.
 
 Los aspirantes no podrán alcanzar más de 10 puntos por la valoración de sus méritos.
 
-
 **ESPECIFICACIONES**
 
 I.  Trayectoria profesional
@@ -1223,7 +1130,6 @@ Formación académica y permanente: Máximo cuatro puntos.
 Otros méritos: Máximo dos puntos.
 
 Los aspirantes no podrán alcanzar más de 10 puntos por la valoración de sus méritos.
-
 
 **ESPECIFICACIONES**
 

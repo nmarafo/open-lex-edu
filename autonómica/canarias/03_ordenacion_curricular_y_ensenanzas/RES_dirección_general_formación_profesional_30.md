@@ -31,9 +31,6 @@ fuente_pdf_oficial: https://sede.gobiernodecanarias.org/boc/boc-a-2025-093-1761.
 
 # Resolución de 2 de mayo de 2025, de la Dirección General de Formación Profesional y Enseñanzas de Régimen Especial por la que se dictan instrucciones para la organización de la oferta de dobles titulaciones de formación profesional (Grados D) de ciclos formativos con el primer curso en común en la Comunidad Autónoma de Canarias a partir del curso 2025/2026 (BOC n.º 93, de 12 de mayo).
 
-https://sede.gobiernodecanarias.org/boc
-boc-a-2025-093-1761
-Boletín Oficial de Canarias núm. 93 Lunes 12 de mayo de 202519746
 III. Otras Resoluciones
 Consejería de Educación, Formación Profesional, Actividad Física y Deportes
 1761 Dirección General de Formación Profesional y Enseñanzas de Régimen Especial.- 
@@ -78,9 +75,6 @@ Quinto.- En el contexto del desarrollo de nuevos itinerarios formativos de Forma
 Profesional de grado medio y superior (Grados D) en la Comunidad Autónoma de Canarias, la 
 Dirección General de Formación Profesional y Enseñanzas de Régimen Especial considera 
 
-https://sede.gobiernodecanarias.org/boc
-boc-a-2025-093-1761
-Boletín Oficial de Canarias núm. 93 Lunes 12 de mayo de 202519747
 fundamental avanzar en la creación de itinerarios formativos que permitan realizar dos 
 ciclos formativos relacionados entre sí pertenecientes a una familia profesional, facilitando 
 la obtención de dos títulos en tres cursos académicos, promoviendo una formación más 
@@ -123,9 +117,6 @@ II, III, y IV del Real Decreto corresponde a la dirección del centro educativo 
 su caso y de acuerdo con lo que establezcan las administraciones educativas, a la dirección 
 del centro privado autorizado para impartir enseñanzas de Formación Profesional, 
 
-https://sede.gobiernodecanarias.org/boc
-boc-a-2025-093-1761
-Boletín Oficial de Canarias núm. 93 Lunes 12 de mayo de 202519748
 en que el solicitante esté matriculado. Por su parte, el apartado 2 del mismo artículo 8 
 faculta a las Administraciones educativas para establecer, en su ámbito de competencias, 
 procedimientos para las convalidaciones correspondientes a módulos profesionales propios 
@@ -163,9 +154,6 @@ aprobado mediante Decreto 84/2024, de 10 de junio, por el que se asignan compete
 generales y específicas a la Dirección General de Formación Profesional y Enseñanzas de 
 Régimen Especial,
 
-https://sede.gobiernodecanarias.org/boc
-boc-a-2025-093-1761
-Boletín Oficial de Canarias núm. 93 Lunes 12 de mayo de 202519749
 RESUELVO :
 Primero.- Aprobar instrucciones para la organización de la oferta de dobles titulaciones 
 de ciclos formativos de formación profesional en centros educativos de la Comunidad 
@@ -188,9 +176,6 @@ Oficial de Canarias, sin perjuicio de cualquier otro que se estime procedente in
 Las Palmas de Gran Canaria, a 2 de mayo de 2025.- La Directora General de Formación 
 Profesional y Enseñanzas de Régimen Especial, Carolina León Martínez.
 
-https://sede.gobiernodecanarias.org/boc
-boc-a-2025-093-1761
-Boletín Oficial de Canarias núm. 93 Lunes 12 de mayo de 202519750
 ANEXO I
 INSTRUCCIONES PARA LA ORGANIZACIÓN DE LA OFERTA DE DOBLES 
 TITULACIONES DE FORMACIÓN PROFESIONAL (GRADOS D) DE CICLOS FORMATIVOS 
@@ -228,9 +213,6 @@ aquellos que poseen los módulos profesionales del primer curso idénticos, cara
 por presentar los mismos códigos, las mismas denominaciones, resultados de aprendizaje, 
 contenidos y duración.
 
-https://sede.gobiernodecanarias.org/boc
-boc-a-2025-093-1761
-Boletín Oficial de Canarias núm. 93 Lunes 12 de mayo de 202519751
 2. En estos ciclos, y según lo dispuesto en el Real Decreto 659/2023, de 18 de julio, 
 serán objeto de convalidación los siguientes módulos del primer curso y mismo grado:
 • Inglés profesional.
@@ -274,9 +256,6 @@ formalizar su matrícula en el segundo curso del ciclo, trasladando de oficio al
 calificaciones obtenidas en los módulos profesionales comunes de primer curso superados, 
 que son aquellos que figuran en el Anexo II.
 
-https://sede.gobiernodecanarias.org/boc
-boc-a-2025-093-1761
-Boletín Oficial de Canarias núm. 93 Lunes 12 de mayo de 202519752
 En aplicación con lo dispuesto en el artículo 126.3 del Real Decreto 659/2023, de 18 de 
 julio, los módulos de Inglés profesional y Digitalización aplicada a los sectores productivos 
 serán convalidados de oficio por la dirección del centro público, trasladando la calificación 
@@ -321,9 +300,6 @@ finalizar en el nuevo ciclo el cómputo global de horas mínimas realizadas en e
 común por el alumnado, más las realizadas en el segundo curso de la nueva titulación, sean 
 de 500 horas para el régimen general y de 700 horas para el régimen intensivo.
 
-https://sede.gobiernodecanarias.org/boc
-boc-a-2025-093-1761
-Boletín Oficial de Canarias núm. 93 Lunes 12 de mayo de 202519753
 5. Los ciclos formativos de grado superior con el primer curso en común, a excepción 
 de un módulo, que se imparten en los centros educativos de la Comunidad Autónoma de 
 Canarias son los que se relacionan en el Anexo III.
@@ -357,9 +333,6 @@ Grado Superior de Radioterapia y Dosimetría.
 - Código: 1349.
 - Denominación: Técnicas de radiología simple (5 horas).
 
-https://sede.gobiernodecanarias.org/boc
-boc-a-2025-093-1761
-Boletín Oficial de Canarias núm. 93 Lunes 12 de mayo de 202519754
 b) Ciclo Formativo Grado Superior de Laboratorio de Diagnóstico Clínico / Ciclo 
 Formativo Grado Superior de Anatomía Patológica.
 • Matrícula en el segundo curso del Ciclo Formativo Grado Superior de Laboratorio de 
@@ -397,9 +370,6 @@ Anexo III remitirán al comienzo del curso a su centro público de adscripción 
 de matrícula para segundo curso del ciclo que reciban, acompañada de la documentación 
 acreditativa de la superación de los módulos del primer curso común del ciclo formativo 
 
-https://sede.gobiernodecanarias.org/boc
-boc-a-2025-093-1761
-Boletín Oficial de Canarias núm. 93 Lunes 12 de mayo de 202519755
 de que se trate. La dirección del centro educativo público resolverá y notificará al centro 
 privado la resolución correspondiente. Con apoyo en esta Resolución, la dirección 
 del centro privado formalizará la matrícula del alumnado en el segundo curso del ciclo 
@@ -437,9 +407,6 @@ oficiales de evaluación con la denominación y codificación del plan de estudi
 los módulos profesionales y proyecto intermodular establecidos en la nueva ordenación 
 académica.
 
-boc-a-2025-093-1761
-Boletín Oficial de Canarias núm. 93 Lunes 12 de mayo de 202519756
-https://sede.gobiernodecanarias.org/boc
 ANEXO II
 RELACIÓN DE CICLOS FORMATIVOS DE GRADO MEDIO Y GRADO SUPERIOR
 CON EL PRIMER CURSO EN COMÚN
@@ -529,9 +496,6 @@ y
 1 0172 Protocolo y relaciones públicas*
 1 0173 Marketing turístico*
 
-boc-a-2025-093-1761
-Boletín Oficial de Canarias núm. 93 Lunes 12 de mayo de 202519757
-https://sede.gobiernodecanarias.org/boc 1º CFGS Asistencia a la Dirección
 1 0650 Proceso integral de la actividad comercial*
 1 0651 Comunicación y atención al cliente*
 1 0179 Inglés profesional (GS)*
@@ -600,9 +564,6 @@ nes Web
 1 1709 Itinerario personal para la empleabilidad I 
 * Módulos profesionales idénticos.
 
-boc-a-2025-093-1761
-Boletín Oficial de Canarias núm. 93 Lunes 12 de mayo de 202519758
-https://sede.gobiernodecanarias.org/boc 1º CFGS Guía, Información y 
 Asistencia Turísticas
 1 0383 Destinos turísticos*
 1 0384 Recursos turísticos*
@@ -630,9 +591,6 @@ nes Web
 1 1709 Itinerario personal para la empleabilidad I 
 * Módulos profesionales idénticos.
 
-boc-a-2025-093-1761
-Boletín Oficial de Canarias núm. 93 Lunes 12 de mayo de 202519759
-https://sede.gobiernodecanarias.org/boc
 ANEXO III
 RELACIÓN DE CICLOS FORMATIVOS DE GRADO SUPERIOR
 CON EL PRIMER CURSO EN COMÚN, A EXCEPCIÓN DE UN MÓDULO,

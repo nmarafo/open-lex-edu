@@ -131,8 +131,6 @@ la estructura y los aspectos básicos de las enseñan-
 zas artísticas superiores, de acuerdo con lo previsto
 en el artículo 58 de la citada Ley Orgánica 2/2006,
 y de conformidad con las líneas emanadas del Espa-
-Boletín Oficial de Canarias núm. 99 12053 Jueves 19 de mayo de 2011
-boc-a-2011-099-2678
 
 cio Europeo de Educación Superior”. Asimismo, en
 el artículo 7, establece que los centros de enseñan-
@@ -243,8 +241,6 @@ cación, sobre los centros en los que deben cursarse
 dichos estudios, esta Orden será de aplicación para
 los centros públicos y privados debidamente autori-
 zados, que ejerzan su actividad e impartan estas en-
-Boletín Oficial de Canarias núm. 99 12054 Jueves 19 de mayo de 2011
-boc-a-2011-099-2678
 
 señanzas en el ámbito territorial de la Comunidad Autó-
 noma de Canarias, y que son los siguientes:
@@ -348,8 +344,6 @@ rán con la elaboración, presentación y superación de
 un Trabajo de Fin de Grado por parte del estudian-
 te, que se realizará en la fase final del plan de estu-
 dios, y que estará orientado a la adquisición de com-
-Boletín Oficial de Canarias núm. 99 12055 Jueves 19 de mayo de 2011
-boc-a-2011-099-2678
 
 petencias asociadas a la titulación con una asignación
 de 6 créditos ECTS.
@@ -460,8 +454,6 @@ realizados, resultados obtenidos, función y nivel de
 la titulación de Grado en Música, Arte Dramático o
 Diseño, conforme a la reglamentación que al efecto
 se establezca.
-Boletín Oficial de Canarias núm. 99 12056 Jueves 19 de mayo de 2011
-boc-a-2011-099-2678
 
 Artículo 6.-Acceso, oferta de plazas y admisión.
 1. Las condiciones de acceso a las enseñanzas
@@ -565,8 +557,6 @@ perimentales de Grado en las enseñanzas artísticas
 autorizados por esta Orden, se podrá realizar y abo-
 nar por curso completo o asignaturas sueltas y en uno
 o varios plazos. Los precios de las asignaturas de los
-Boletín Oficial de Canarias núm. 99 12057 Jueves 19 de mayo de 2011
-boc-a-2011-099-2678
 
 planes de estudios impartidos en los centros públi-
 cos serán los establecidos por la Comunidad Autó-
@@ -672,8 +662,6 @@ ta Orden, deberá incorporarse al nuevo plan de
 estudios en su especialidad correspondiente.
 2. Para el reconocimiento de créditos obtenidos en
 planes de estudios anteriores así como para la incor-
-Boletín Oficial de Canarias núm. 99 12058 Jueves 19 de mayo de 2011
-boc-a-2011-099-2678
 
 poración a los nuevos planes de estudios proceden-
 tes de especialidades pertenecientes a normativa no
@@ -779,8 +767,6 @@ haya aprobado. Para ello, los centros establecerán un
 procedimiento de ajuste flexible e individualizado que
 garantice los derechos de los estudiantes que cursan
 actualmente estas enseñanzas.
-Boletín Oficial de Canarias núm. 99 12059 Jueves 19 de mayo de 2011
-boc-a-2011-099-2678
 
 Disposición transitoria tercera.- Adecuación del pro-
 fesorado que presta actualmente servicios en centros
@@ -867,8 +853,6 @@ noma de Canarias (BOC nº 69, de 9 de abril).
 Disposición final segunda.- La presente Orden
 entrará en vigor el mismo día de su publicación en
 el Boletín Oficial de Canarias.
-Boletín Oficial de Canarias núm. 99 12060 Jueves 19 de mayo de 2011
-boc-a-2011-099-2678
 
 ANEXO I 
 PLAN DE ESTUDIOS DE GRADO EN MÚSICA 
@@ -910,8 +894,6 @@ y Pedagogía es la siguiente:
 2.4 Optativas 
 Las asignaturas optativas que se ofertan para las especialidades autorizadas del Título de Gra- 
 duado o Graduada en Música, son las siguientes: 
-Boletín Oficial de Canarias núm. 99 12061 Jueves 19 de mayo de 2011
-boc-a-2011-099-2678
 
 1. Música, Cinematografía y Producción Audiovisual. 
 2. Música de Canarias: Composici ón, Organología e Interpretación 
@@ -944,8 +926,6 @@ Autónoma de Canarias.
 5. Estructura y contenido del plan de estudios de Grado en Música. 
 La organización de las materias  y asignaturas del plan de estudios de Grado en Música por 
 especialidad es la que se rec oge en los siguientes cuadros: 
-Boletín Oficial de Canarias núm. 99 12062 Jueves 19 de mayo de 2011
-boc-a-2011-099-2678
 
 GRADO EN MÚSICA 
 ESPECIALIDAD: COMPOSICIÓN 
@@ -975,8 +955,6 @@ Composición e Instrumenta-
 ción Técnica de la composición I 12 3 
 Tecnología musical Informática musical  6 2 
 TOTAL 60 
-Boletín Oficial de Canarias núm. 99 12063 Jueves 19 de mayo de 2011
-boc-a-2011-099-2678
 
 GRADO EN MÚSICA 
 ESPECIALIDAD: COMPOSICIÓN 
@@ -1009,8 +987,6 @@ Instrumentación y Orquestación I 6 2
 Tecnología musical Composición para medios audiovisuales y elec- 
 troacústicos I 4 2 
 TOTAL 60 
-Boletín Oficial de Canarias núm. 99 12064 Jueves 19 de mayo de 2011
-boc-a-2011-099-2678
 
 GRADO EN MÚSICA 
 ESPECIALIDAD: COMPOSICIÓN 
@@ -1042,8 +1018,6 @@ Tecnología musical Composición para medios audiovisuales y elec-
 troacústicos II 3 1 
 Asignatura optativa 6 1,5 
 TOTAL 60 
-Boletín Oficial de Canarias núm. 99 12065 Jueves 19 de mayo de 2011
-boc-a-2011-099-2678
 
 GRADO EN MÚSICA 
 ESPECIALIDAD: COMPOSICIÓN 
@@ -1070,8 +1044,6 @@ Asignatura optativa 6 1,5
 Prácticas externas 12  
 Trabajo fin de grado 6  
 TOTAL 60 
-Boletín Oficial de Canarias núm. 99 12066 Jueves 19 de mayo de 2011
-boc-a-2011-099-2678
 
 GRADO EN MÚSICA 
 ESPECIALIDAD: INTERPRETACIÓN 
@@ -1105,8 +1077,6 @@ Coro I 3 1,5
 Orquesta, Banda I / Agrupación Instrumental I / Con- 
 certación y escena I 3 1,5 
 TOTAL 60 
-Boletín Oficial de Canarias núm. 99 12067 Jueves 19 de mayo de 2011
-boc-a-2011-099-2678
 
 GRADO EN MÚSICA 
 ESPECIALIDAD: INTERPRETACIÓN 
@@ -1141,8 +1111,6 @@ Música de Cámara II 6 2
 Orquesta, Banda II / Agrupación Instrumental II / Coro 
 II 3 1,5 
 TOTAL 60 
-Boletín Oficial de Canarias núm. 99 12068 Jueves 19 de mayo de 2011
-boc-a-2011-099-2678
 
 GRADO EN MÚSICA 
 ESPECIALIDAD: INTERPRETACIÓN 
@@ -1169,8 +1137,6 @@ ción musical Didáctica de la Educación Musical I  6 1,5
 Tecnología Musical Informática musical 6 2 
 Asignatura optativa 6 1,5 
 TOTAL 60 
-Boletín Oficial de Canarias núm. 99 12069 Jueves 19 de mayo de 2011
-boc-a-2011-099-2678
 
 GRADO EN MÚSICA 
 ESPECIALIDAD: INTERPRETACIÓN 
@@ -1195,8 +1161,6 @@ Asignatura optativa 6 1,5
 Prácticas Externas 12  
 Trabajo fin de grado 6  
 TOTAL 60 
-Boletín Oficial de Canarias núm. 99 12070 Jueves 19 de mayo de 2011
-boc-a-2011-099-2678
 
 GRADO EN MÚSICA 
 ESPECIALIDAD. PEDAGOGÍA 
@@ -1234,8 +1198,6 @@ Didáctica de la educación
 musical Didáctica de la educación musical I 6 1,5 
 Tecnología musical Informática musical 6 2 
 TOTAL 60 
-Boletín Oficial de Canarias núm. 99 12071 Jueves 19 de mayo de 2011
-boc-a-2011-099-2678
 
 GRADO EN MÚSICA 
 ESPECIALIDAD. PEDAGOGÍA 
@@ -1269,8 +1231,6 @@ Didáctica de la educación
 musical Didáctica de la educación musical II 6 1,5 
 Organización Educativa Sociología y dinámica de grupos  6 1,5 
 TOTAL 60 
-Boletín Oficial de Canarias núm. 99 12072 Jueves 19 de mayo de 2011
-boc-a-2011-099-2678
 
 GRADO EN MÚSICA 
 ESPECIALIDAD. PEDAGOGÍA 
@@ -1302,8 +1262,6 @@ Técnica de la Dirección Dirección del Conjunto Coral 4 1,5
 Organización Educativa Organización y gestión de la Educación Musical 6 1 
 Asignatura optativa 6 1,5 
 TOTAL 60 
-Boletín Oficial de Canarias núm. 99 12073 Jueves 19 de mayo de 2011
-boc-a-2011-099-2678
 
 GRADO EN MÚSICA 
 ESPECIALIDAD. PEDAGOGÍA 
@@ -1326,8 +1284,6 @@ Asignatura optativa 6 1,5
 Prácticas Externas 12  
 Trabajo fin de grado 6  
 TOTAL 60 
-Boletín Oficial de Canarias núm. 99 12074 Jueves 19 de mayo de 2011
-boc-a-2011-099-2678
 
 6. Características de las materias y descriptores de las asignaturas. 
 Las características de cada materia y asignatura del plan de est udios contemplarán lo estable- 
@@ -1372,8 +1328,6 @@ espacios e instrumentos. Fundamentos de acú stica musical. Estudio de los instr
 enfoques históricos, tanto antropológicos (c onsideraciones de tipo mitológico sobre su  origen, de tipo estético sobre la evo- 
 lución de su fisonomía, etc.) como técnic os o científicos. Conocimient o de las clasificaciones de los instrumentos más im- 
 portantes, atendiendo a los criterios de los principales tratadistas. 
-Boletín Oficial de Canarias núm. 99 12075 Jueves 19 de mayo de 2011
-boc-a-2011-099-2678
 
 Asignatura: Análisis General 
 Créditos ECT: 6 Clase de enseñanza no instrumental 
@@ -1413,8 +1367,6 @@ Descripción:
 Estudio de los elementos y procedimientos contrapuntísticos relati vos al sistema tonal, así como anteriores y posteriores al 
 mismo. Realización escrita de trabajos es tilísticos y libres, vocales e instrumentales. Práctica instrumental de los elementos y 
 procedimientos estudiados. 
-Boletín Oficial de Canarias núm. 99 12076 Jueves 19 de mayo de 2011
-boc-a-2011-099-2678
 
 Asignatura: Educación Auditiva I, II, III y IV 
 Créditos ECT: 4/4/4/4 Clase de enseñanza no instrumental 
@@ -1458,8 +1410,6 @@ partituras. Profundización en repertorios especializados y en el  trabajo indiv
 cialidad instrumental. Comprensión de la variedad de enfoque s estilísticos y requerimientos as ociados a la interpretación que 
 confieren a esta materia un carácter flexible y adaptable a lo s distintos instrumentos, a la voz y a los estilos y tradiciones 
 interpretativas. 
-Boletín Oficial de Canarias núm. 99 12077 Jueves 19 de mayo de 2011
-boc-a-2011-099-2678
 
 Asignatura: Segundo instrumento I, II, III y IV 
 Créditos ECT: 3/3/3/3 Clase de en señanza instrumental individual 
@@ -1501,8 +1451,6 @@ Competencia docente: Interpretación (opción Piano)
 Descripción: 
 Estudio del repertorio vocal o instrumental establecido en las materias que así lo requieran con el acompañamiento pianístico 
 original, o de reducciones  de orquesta o de conjuntos instrumentales. 
-Boletín Oficial de Canarias núm. 99 12078 Jueves 19 de mayo de 2011
-boc-a-2011-099-2678
 
 Asignatura: Complemento instrumental I, II y III 
 Créditos ECT: 4/4/4 Clase de enseñanza no instrumental 
@@ -1550,8 +1498,6 @@ acompañante. Desarrollo de un estilo propio como intérprete y de la madurez cr
 ción crítica del trabajo. Control de correctos hábitos posturales y técnicas de relajación. Preparación para la interpretación en 
 público, como solista o junto a otros inté rpretes. Conocimiento básico  de la construcción, mantenimiento, comportamiento 
 acústico y características del propio instrumento. 
-Boletín Oficial de Canarias núm. 99 12079 Jueves 19 de mayo de 2011
-boc-a-2011-099-2678
 
 Asignatura: Instrumento principal en Interpretación I, II, III y IV 
 Créditos ECT: 24/24/23/20 Clase de enseñanza instrumental individual 
@@ -1597,8 +1543,6 @@ nadas con la comprensión y respuesta a las indicaciones del director, la integr
 grupo instrumental acompaña nte. Estudio y práctica del repertorio escénico habitual. Desarrollo de las capacidades de la 
 interpretación escénica y del proceso de creación del personaje . Comprensión de los principi os de acción y de conflicto 
 dramático. 
-Boletín Oficial de Canarias núm. 99 12080 Jueves 19 de mayo de 2011
-boc-a-2011-099-2678
 
 Asignatura: Coro I y II 
 Créditos ECT: 3/3 Clase colectiva de instrumento 
@@ -1640,8 +1584,6 @@ Profundización en el estudio de los diferent es elementos y procedimient os con
 cimiento de la técnica de las escuelas, tendencias contemporáneas y autores más representativos. Aplicación práctica  me- 
 diante la realización de trabaj os estilísticos vocales e instrumentales. Desarrollo  de un lenguaje personal, a través de la com -
 posición de obras libres. 
-Boletín Oficial de Canarias núm. 99 12081 Jueves 19 de mayo de 2011
-boc-a-2011-099-2678
 
 Asignatura: Instrumentación y orquestación I y II 
 Créditos ECT: 6/10 Clase de enseñanza no instrumental 
@@ -1677,8 +1619,6 @@ Conocimiento de los procesos pedagógicos bá sicos de las teorías de la enseñ
 ámbito musical, así como de los condiciona ntes propios del desarrollo de destrezas técnicas con instrumentos musicales y 
 con la voz.  Modelos de orientación e in tervención psicopedagógica aplic ados al ámbito musical. El profesor como mediador 
 en la construcción del conocimiento social y musical. 
-Boletín Oficial de Canarias núm. 99 12082 Jueves 19 de mayo de 2011
-boc-a-2011-099-2678
 
 Asignatura: Métodos y corrientes pedagógica s en educación musical 
 Créditos ECT: 4 Clase de enseñanza no instrumental 
@@ -1727,8 +1667,6 @@ Didáctica del Lenguaje Musical: Los diferentes mecanismos de la percepción mus
 en la percepción de la música. El desarro llo del «oído interno» y de la sensibilidad  musical a través de la audición. La edu- 
 cación auditiva en los contenidos del currículo. Materiales y recursos didácticos: criterios de selección y de aplicación en el 
 aula. 
-Boletín Oficial de Canarias núm. 99 12083 Jueves 19 de mayo de 2011
-boc-a-2011-099-2678
 
 Didáctica de la Educaci ón Musical Temprana: El proceso del desarrollo musi cal en el niño. Características del aprendizaje 
 en esta etapa. Fundamentos históricos, an tropológicos, psicológicos y sociales de la educación musical temprana y de su 
@@ -1772,8 +1710,6 @@ Fundamentos de acústica aplicada a la mú sica. Informática musical aplicada a
 sonido y la edición de partitura s. Conocimiento y uso de las ap licaciones midi y de audio. Us o de la tecnol ogía musical en 
 distintos formatos. Microfonía y técnicas de  grabación, procesado y difusión. Búsque da y difusión de contenidos a través 
 de redes informáticas. Músi ca y medios audiovisuales. 
-Boletín Oficial de Canarias núm. 99 12084 Jueves 19 de mayo de 2011
-boc-a-2011-099-2678
 
 Asignatura: Composición para medios audiovisuales y electroacústicos I, II y III 
 Créditos ECT: 4/3/4 Clase de enseñanza no instrumental 
@@ -1818,8 +1754,6 @@ tores y músicos más representati vos de la música en Canarias. Análisis de l
 sitivos en relación con el contexto social  y cultural de las Islas. Estudio etnográfic o de los instrumentos musicales específi- 
 cos de Canarias desde su origen hast a la actualidad. La músi ca en la Sociedad Canari a: Producción, Festivales, 
 Agrupaciones, Fiestas, Espacios. Repe rtorio fundamental e interpretación de obras vocales e instrumentales. 
-Boletín Oficial de Canarias núm. 99 12085 Jueves 19 de mayo de 2011
-boc-a-2011-099-2678
 
 Asignatura: Recursos y Técnicas de Investigación Musical 
 Créditos ECT: 6 Clase de enseñanza no instrumental 
@@ -1845,9 +1779,8 @@ Introducción histórica del Ja zz. La improvisación. Tipos de escalas. El blue
 dos. Modos. La escala di sminuida. Análisis y evolución de los diferentes estilos en el jazz. Introducción  a la improvisación 
 jazzística. Aplicación teórica en la improvisación. Reglas básicas para realizar pequeños arreglos. Elementos básicos del 
 jazz: estructura, swing y creatividad. Relación escala-acorde. Aplicación teórica en la impr ovisación: desarrollo melódico, 
-cambios armónicos, im provisación modal, et c. Interpretación de temas estándar. 
-Boletín Oficial de Canarias núm. 99 12086 Jueves 19 de mayo de 2011
-boc-a-2011-099-2678
+cambios armónicos, im provisación modal, et c.
+ Interpretación de temas estándar. 
 
 7. Reconocimiento de créditos de las enseñanzas  del plan de estudios en extinción en re- 
 lación con las enseñanzas de Grado en Música. 
@@ -1901,8 +1834,6 @@ Organología I  4 Organología y f undamentos de acústica musical
 Orquesta/Banda I  3 Orquesta / Banda I  
 Piano complementario o segundo instrumento I  3 Piano complementario / Segundo instrumento I  
 Piano complementario o segundo instrumento II  3 Piano complementario / Segundo instrumento II 
-Boletín Oficial de Canarias núm. 99 12087 Jueves 19 de mayo de 2011
-boc-a-2011-099-2678
 
 Piano complementario o segundo instrumento III 3 Piano complementario / Segundo instrumento 
 III  
@@ -2001,9 +1932,7 @@ Alemán + Fonética  4 Fonética e idiomas aplicado al canto I
 Francés + Fonética  4 Fonética e idiomas aplicado al canto I   
 Inglés + Fonética  4 Fonética e idiomas aplicado al canto I  
 Música de cámara I (todas las especialidades de 6 Música de cámara I  
-Boletín Oficial de Canarias núm. 99 12088 Jueves 19 de mayo de 2011
 interpretación)  
-boc-a-2011-099-2678
 
 Conjunto I 6 Música de cámara I 
 Música de cámara II(todas las especialidades de 
@@ -2051,8 +1980,6 @@ Repertorio Orquestal IV  6 Orquesta /Banda IV
 (4): Habrá que tener las dos asignaturas supera das para el reconocimie nto de los 6 ECTS de la asignatura Música de Cámara III 
 (5): Habrá que tener las dos asignaturas supera das para el reconocimie nto de los 6 ECTS de la asignatura Música de Cámara III 
 (6): Habrá que tener las dos asignaturas supera das para el reconocimie nto de los 6 ECTS de la asignatura Música de Cámara IV 
-Boletín Oficial de Canarias núm. 99 12089 Jueves 19 de mayo de 2011
-boc-a-2011-099-2678
 
 PLAN EN EXTINCIÓN 
 Créditos 
@@ -2107,8 +2034,6 @@ Improvisación III  3 Improvisación III
 Nuevas tecnologías aplicadas a la música   6 Informática musical   
 Instrumento principal I -PLEM- / Canto I -Ped. 
 Canto- / Instrumento Principal I -Ped.instrum.- 9 Instrumento Principal I / Canto I  
-Boletín Oficial de Canarias núm. 99 12090 Jueves 19 de mayo de 2011
-boc-a-2011-099-2678
 
 Canto- / Instrumento Principal II -Ped.instrum.- 
 Instrumento principal III -PLEM- / Canto III -Ped. 
@@ -2141,9 +2066,7 @@ entre las asignaturas y créditos, respecto a los que se insta el reconoc imient
 del centro, consultados los órganos  de coordinación docente que proceda, elevará a la Direc- 
 ción General competente, el correspondiente in forme sobre la solicitud, acompañado de una 
 propuesta de resolución motivada.  
-Boletín Oficial de Canarias núm. 99 12091 Jueves 19 de mayo de 2011
 Instrumento principal II -PLEM- / Canto II -P ed. 8 Instrumento Principal II / Canto II  
-boc-a-2011-099-2678
 
 55 
 ANEXO II 
@@ -2236,7 +2159,6 @@ supondrá 6 créditos ECTS.
 La Administración educativa establecerá la normativa o reglamentación específica del Traba- 
 jo Fin de Grado del alumnado en los estudios of iciales de Grado en Arte Dramático en la Co- 
 munidad Autónoma de Canarias.  
-Boletín Oficial de Canarias núm. 99 12092 Jueves 19 de mayo de 2011
 4. Estructura y contenido del plan de es tudios de Grado en  Arte Dramático. 
 4.1. El Centro Superior Autorizad o de Arte Dramático Escuela de Actores de Canarias esta- 
 blecerá en las Guías Docentes la organización y secuenciación de las distintas asignaturas por 
@@ -2244,7 +2166,6 @@ cursos, favoreciendo preferentemente una organi zación semestral, sin perjuicio
 establecerse asignaturas anuale s cuando lo requiera la natu raleza y tipo de asignatura.  
 4.2. La estructura y contenido del plan de estudi os de Grado en Arte Dramático, en la especia- 
 lidad de Interpretación, son los que se recogen en los sigu ientes cuadros: 
-boc-a-2011-099-2678
 
 PLAN DE ESTUDIOS DE GR ADO EN ARTE DRAMÁTICO 
 ESPECIALIDAD: INTERPRETACIÓN 
@@ -2269,8 +2190,6 @@ dramática Historia y teoría de la literatura dramática I 4 2
 Escenificación  Espacio escénico I 3 1 
 Diseño del personaje Caracterización I 3 1 
 TOTAL 60 
-Boletín Oficial de Canarias núm. 99 12093 Jueves 19 de mayo de 2011
-boc-a-2011-099-2678
 
 PLAN DE ESTUDIOS DE GR ADO EN ARTE DRAMÁTICO 
 ESPECIALIDAD: INTERPRETACIÓN 
@@ -2296,8 +2215,6 @@ dramática Historia y teoría de la literatura dramática II 4 2
 Escenificación  Espacio escénico II 4 2 
 Diseño del personaje Caracterización II 3 1 
 TOTAL 60 
-Boletín Oficial de Canarias núm. 99 12094 Jueves 19 de mayo de 2011
-boc-a-2011-099-2678
 
 PLAN DE ESTUDIOS DE GR ADO EN ARTE DRAMÁTICO 
 ESPECIALIDAD: INTERPRETACIÓN 
@@ -2322,8 +2239,6 @@ Dramaturgia Dramaturgia I 4 1
 Diseño del personaje Caracterización III 3 1 
 Asignatura optativa 6 2 
 TOTAL 60 
-Boletín Oficial de Canarias núm. 99 12095 Jueves 19 de mayo de 2011
-boc-a-2011-099-2678
 
 PLAN DE ESTUDIOS DE GR ADO EN ARTE DRAMÁTICO 
 ESPECIALIDAD: INTERPRETACIÓN 
@@ -2347,8 +2262,6 @@ Diseño del personaje Indumentaria  3 1
 Asignatura optativa 6 2 
  Trabajo de Fin de Grado  6  
 TOTAL CRÉDITOS ECTS 60 
-Boletín Oficial de Canarias núm. 99 12096 Jueves 19 de mayo de 2011
-boc-a-2011-099-2678
 
 5. Características de las materias y descriptores de las asignaturas. 
 Las características de cada materia y asignatura del plan de est udios contemplarán lo estable- 
@@ -2392,8 +2305,6 @@ de procesos de enseñanza y aprendizaje y de programas de animación teatral, en
 destinatarios. Conocimiento, an álisis y práctica de métodos y estilos de ense ñanza, aprendizaje y animación. Conocimiento 
 de los aspectos básicos de la hi storia de la educación y de la  animación teatral. Estudio de ca sos y análisis de buenas prácti- 
 cas. La investigación aplicada a la educación y la animación teatral. Políticas de garantía y gestión de calidad. 
-Boletín Oficial de Canarias núm. 99 12097 Jueves 19 de mayo de 2011
-boc-a-2011-099-2678
 
 Materia: Sistemas de interpretación 
 Asignatura: Interpretación I, II, III y IV. 
@@ -2441,8 +2352,6 @@ práctica del movimiento segmentado coordina do, respecto a las ideas de plano, 
 cia y energía. Calidades de movimiento en el tiempo y en el espacio. Contrapesos y drama físico. Estilos de pantomima. 
 Mimar emociones, estados y situaciones. Im provisación, composici ón, coreografía  e interpretación a través del movimiento. 
 Videograbación. 
-Boletín Oficial de Canarias núm. 99 12098 Jueves 19 de mayo de 2011
-boc-a-2011-099-2678
 
 Desarrollo del estudio y la práctica de los sistemas de interpretación gestuales (pantomima y mimo). Iniciación a la danza y a 
 la coreografía. Profundización en las bases de la pantomima ilus oria. Ejercicios clásicos y nu evas aplicaciones. Estilos de 
@@ -2544,9 +2453,7 @@ Voz IV
 Conocimiento e integración de  los aspectos  relacionados con las cualidades de la voz y su aplicación pr áctica en relación a 
 los textos teatrales en sus distintos géneros y estilos.  La estr uctura rítmica del texto y la expresión oral. La voz en el aud io- 
 visual. 
-Boletín Oficial de Canarias núm. 99 12099 Jueves 19 de mayo de 2011
 Movimiento III 
-boc-a-2011-099-2678
 
 Materia: Música y canto 
 Asignatura: Música y Canto I, II, III y IV 
@@ -2588,8 +2495,6 @@ Definición del concepto de espacio en el ámbito del teatro, el espacio teatral
 los diferentes modelos de espaci o. El espacio escénico como l ugar para habitar. Dramaturgia de l espacio escénico, proceso de 
 elaboración dramatúrgica para la definición de los elementos es pacio-visuales del espectáculo.  Leyes para la composición 
 escénica, el actor en el espacio. Desarrollo y aportaciones al espacio escénico durante los siglos XX y XXI. 
-Boletín Oficial de Canarias núm. 99 12100 Jueves 19 de mayo de 2011
-boc-a-2011-099-2678
 
 Espacio escénico II  
 Aplicación práctica de los criterios de composición escénica y aportaciones de los principales creadores y corrientes artística s 
@@ -2635,8 +2540,6 @@ Profundización en la teoría del texto dram ático: Texto primario y te xto sec
 composición dramatúrgica (exploración de la motivación y del ima ginario individual, su organi zación y elaboración. Poten- 
 ciación del lenguaje literario y escénico. Análisis de la dramaturgia aplicada a la escena. Prácticas de creación, lectura dra- 
 matúrgica y dirección escénica de textos propios. 
-Boletín Oficial de Canarias núm. 99 12101 Jueves 19 de mayo de 2011
-boc-a-2011-099-2678
 
 66 
 Materia: Prácticas de Interpretación 
@@ -2662,7 +2565,6 @@ Créditos ECT: 3 Clase Teórico-práctica o técnica
 Descripción: 
 Introducción a las reglas básicas de  la interpretación cuando es registrada por la  cámara. El trabajo de la voz y el gesto ante 
 la cámara. Trabajo de continuidad del intérprete. Aplicaci ón de las nociones básicas sobre el cine y sus elementos. 
-Boletín Oficial de Canarias núm. 99 12102 Jueves 19 de mayo de 2011
 Materia: Asignaturas optativas 
 Asignatura: Teatro gestual 
 Créditos ECT: 6 Clase práctica 
@@ -2682,7 +2584,6 @@ Estudio práctico de los propios recursos e xpresivos y su interacción con los 
 (incluido el carnaval). Desarrollo de la creatividad desde una perspectiva que integr e las diferentes herramientas expresivas. Estudio de 
 posibles espacios escénicos, vestuario, caracterización, escenograf ía y otros elementos que interv ienen en los espectáculos de calle relacio- 
 nados con el teatro y el carnaval. 
-boc-a-2011-099-2678
 
 Asignatura: Títeres, marionetas y objetos 
 Créditos ECT: 6 Clase práctica 
@@ -2697,8 +2598,6 @@ de los estudios de Arte Dramático, correspondient e al plan de estudios regulad
 118/1999, de 17 de junio, por el que se establece el currículo de las enseñanzas de Arte 
 Dramático y se regulan las pruebas de acceso a di chos estudios (BOC nº  87, de 7 de julio de 
 1999), de acuerdo con el siguiente cuadro: 
-Boletín Oficial de Canarias núm. 99 12103 Jueves 19 de mayo de 2011
-boc-a-2011-099-2678
 
 PLAN EN EXTINCIÓN (LOGSE) NUEVO PLAN  DE ESTUDIOS 
 ESTUDIOS SUPERIORES DE ARTE 
@@ -2763,8 +2662,6 @@ Voz y texto escénico IV 4 Voz IV
 Canto II 3 Música y canto IV 
 Dramaturgia II 4 Dramaturgia II 
 Indumentaria 3 Indumentaria 
-Boletín Oficial de Canarias núm. 99 12104 Jueves 19 de mayo de 2011
-boc-a-2011-099-2678
 
 (1): Habrá que tener superadas, al menos, las tres asignaturas de Técnicas de Movimiento  para el reconocimiento de los 15 ECTS de la 
 asignatura Movimiento I 
@@ -2787,8 +2684,6 @@ entre las asignaturas y créditos, respecto a los que se insta el reconoc imient
 del centro, consultados los órganos  de coordinación docente que proceda, elevará a la Direc- 
 ción General competente, el correspondiente in forme sobre la solicitud, acompañado de una 
 propuesta de resolución motivada.  
-Boletín Oficial de Canarias núm. 99 12105 Jueves 19 de mayo de 2011
-boc-a-2011-099-2678
 
 ANEXO III 
 PLAN DE ESTUDIOS DE GRADO EN DISEÑO 
@@ -2822,8 +2717,6 @@ en que se estructura el presente plan de estudios  se asigna una carga de 12 cr�
 to de prácticas externas tutorizadas. La Administración educativa establecerá la normativa o 
 reglamentación específica de las prácticas externas del alumnado en los estudios oficiales de 
 Grado en Diseño, en la Comuni dad Autónoma de Canarias.  
-Boletín Oficial de Canarias núm. 99 12106 Jueves 19 de mayo de 2011
-boc-a-2011-099-2678
 
 4. Trabajo de Fin de Grado. 
 Estas enseñanzas concluirán con la elaboración y presentación de un Trabajo de Fin de Grado 
@@ -2836,8 +2729,6 @@ Autónoma de Canarias.
 5. Estructura y contenido del plan de estudios de Grado en Diseño. 
 La estructura y contenido del plan de estudios de Grado en Diseño, en la especialidad de Di- 
 seño Gráfico, son los que se recoge n en los siguientes cuadros: 
-Boletín Oficial de Canarias núm. 99 12107 Jueves 19 de mayo de 2011
-boc-a-2011-099-2678
 
 PLAN DE ESTUDIOS DE GRADO EN DISEÑO 
 ESPECIALIDAD: DISEÑO GRÁFICO 
@@ -2858,8 +2749,6 @@ Historia de las artes y el
 diseño Historia de las artes y el diseño  8 2 
 Fundamentos del Diseño Teoría y Metodología del Proyecto 14 8 
 TOTAL 60 
-Boletín Oficial de Canarias núm. 99 12108 Jueves 19 de mayo de 2011
-boc-a-2011-099-2678
 
 SEGUNDO CURSO 
 MATERIAS ASIGNATURAS CRÉDITOS 
@@ -2883,8 +2772,6 @@ Creatividad e innovación aplicada
 al diseño  6 2 
 Proyectos de diseño gráfico I 8 5 
 TOTAL 60 
-Boletín Oficial de Canarias núm. 99 12109 Jueves 19 de mayo de 2011
-boc-a-2011-099-2678
 
 TERCER CURSO 
 MATERIAS ASIGNATURAS CRÉDITOS ECTS Horas lectivas 
@@ -2901,8 +2788,6 @@ Edición y producción gráfica 8 3
 Proyectos de diseño gráfico II 10 6 
 Asignatura optativa 6 2 
 TOTAL 60 
-Boletín Oficial de Canarias núm. 99 12110 Jueves 19 de mayo de 2011
-boc-a-2011-099-2678
 
 6. Características de las materias y descriptores de las asignaturas. 
 Las características de cada materia y asignatura del plan de est udios contemplarán lo estable- 
@@ -2938,8 +2823,6 @@ Asignatura optativa  6 2
 Prácticas externas  24  
 Trabajo de Fin de Grado  12  
 TOTAL 60 
-Boletín Oficial de Canarias núm. 99 12111 Jueves 19 de mayo de 2011
-boc-a-2011-099-2678
 
 Asignatura: Sistemas de representación Técnica 
 Créditos ECT:  10 Clase Teórico-práctica 
@@ -2975,8 +2858,6 @@ Competencia docente: Materiales  y Tecnología, Diseño gráfico
 Descripción: 
 Conocimientos de matemáti cas, física y química aplicados al  diseño. El método científico. Mé todos para el análisis y la 
 simulación. Ecoeficiencia y sostenibilidad. Métodos de in vestigación y experimentaci ón propios de la materia. 
-Boletín Oficial de Canarias núm. 99 12112 Jueves 19 de mayo de 2011
-boc-a-2011-099-2678
 
 Materia: Historia de la s Artes y el Diseño 
 Asignatura: Historia de las Artes y el Diseño 
@@ -3017,8 +2898,6 @@ Competencia docente: Diseño gráfico
 Descripción: 
 Preimpresión y tratam iento de imágenes. Producción mediante tecnología digital. Métodos de investigación y experi- 
 mentación propios de la materia. 
-Boletín Oficial de Canarias núm. 99 12113 Jueves 19 de mayo de 2011
-boc-a-2011-099-2678
 
 78 
 Asignatura: Sistemas de impresión 
@@ -3053,7 +2932,6 @@ Competencia docente: Medios in formáticos - Diseño gráfico
 Descripción: 
 Tecnología digital: redes y comunicaciones. Imagen digita l. Edición y publicación elect rónica. Usabilidad y accesibili- 
 dad. Comunicación multimedia. Métodos de investigaci ón y experimentación propios de la materia. 
-Boletín Oficial de Canarias núm. 99 12114 Jueves 19 de mayo de 2011
 Materia: Historia del diseño gráfico 
 Asignatura: Historia del diseño gráfico 
 Créditos ECT:  6 Clase teórica 
@@ -3061,7 +2939,6 @@ Competencia docente: Historia del Arte  Diseño Gráfico
 Descripción: 
 Conocimiento, análisis y significado histór ico del diseño gráfico.  Di señadores y tendencias.  Métodos de investigación 
 y experimentación propi os de la materia. 
-boc-a-2011-099-2678
 
 79 
 Materia: Proyectos de diseño gráfico 
@@ -3093,7 +2970,6 @@ Competencia docente: Diseño gráfico
 Descripción: 
 El diseño interactivo. Sistemas de in teracción. Gestión de conten ido. Representación gráfica de  información. Métodos 
 de investigación en el diseño. El pr oceso proyectual como investigación 
-Boletín Oficial de Canarias núm. 99 12115 Jueves 19 de mayo de 2011
 Materia: Gestión del diseño gráfico 
 Asignatura: Gestión del diseño gráfico 
 Créditos ECT:  6 Clase teórica 
@@ -3103,7 +2979,6 @@ Proceso de diseño: proyectación,  producción y desarrollo del proyecto. El co
 to. La industria gráfica y la industria a udiovisual.Recursos, costes y organización de la activid ad profesional. Contrata- 
 ción, subcontratación, aspectos administra tivos y legales de la producción gráfica.  El valor del diseño gráfico. Comuni- 
 cación y marketing del Diseño Gráfico.  Métodos de investigación y experi mentación propios de la materia. 
-boc-a-2011-099-2678
 
 Materia: Asignaturas optativas 
 Asignatura: Diseño editorial 
@@ -3139,8 +3014,6 @@ Descripción:
 La comunicación gráfica en el entorno es pacial. El packaging:  Técnicas y metodología. El diseño gráfico en las exposi- 
 ciones: Técnicas y metodología. La imagen pedagógica en  el entorno espacial. Gráfica tr idimensional y entornos virtua- 
 les. Métodos de investigación y expe rimentación propios de la materia. 
-Boletín Oficial de Canarias núm. 99 12116 Jueves 19 de mayo de 2011
-boc-a-2011-099-2678
 
 7. Reconocimiento de créditos de las enseñanzas  del plan de estudios en extinción en re- 
 lación con los estudios de Grado en Diseño Gráfico. 
@@ -3202,8 +3075,6 @@ artística
 (4): Habrá que tener las dos asignaturas supera das para el reconocimie nto de los 8 ECTS de la asignatura Edición y producción gráfica  
 (5): Habrá que tener las dos asignaturas supera das para el reconocimie nto de los 6 ECTS de la asignatura Historia del diseño gráfico.  
 (6): Habrá que tener las dos asignaturas supera das para el reconocimie nto de los 8 ECTS de la asignatura Técnicas fotográficas. 
-Boletín Oficial de Canarias núm. 99 12117 Jueves 19 de mayo de 2011
-boc-a-2011-099-2678
 
 2. El reconocimiento de créditos establecido en  la presente Orden podrá ser formalizado por 
 las Escuelas de Arte y Superiores de Diseño, pr evia solicitud del alumnado interesado, dirigi- 
@@ -3215,6 +3086,4 @@ diendo al grado de correspondencia  entre las competencias, conten idos y carga 
 entre las asignaturas y créditos, respecto a los que se insta el reconoc imiento. La  dirección 
 del centro, consultados los órganos  de coordinación docente que proceda, elevará a la Direc- 
 ción General competente, el correspondiente in forme sobre la solicitud, acompañado de una 
-propuesta de resolución motivada.  
-Boletín Oficial de Canarias núm. 99 12118 Jueves 19 de mayo de 2011
-boc-a-2011-099-2678
+propuesta de resolución motivada.

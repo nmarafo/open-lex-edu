@@ -30,6 +30,7 @@ fundamentos_derecho:
   articulos:
   - '1'
 ---
+
 # Instrumento de Ratificación del Acuerdo entre el Estado español y la Santa Sede sobre Enseñanza y Asuntos Culturales, firmado en la Ciudad del Vaticano el 3 de enero de 1979.
 
 Por cuanto el día 3 de enero de 1979 el Plenipotenciario de España firmó en la Ciudad del Vaticano, juntamente con el Plenipotenciario de la Santa Sede, ambos nombrados en buena y debida forma al efecto, el Acuerdo entre el Estado español y la Santa Sede sobre Enseñanza y Asuntos Culturales.
@@ -61,7 +62,6 @@ Los llamados medios de comunicación social se han convertido en escuela eficaz 
 Finalmente, el patrimonio histórico, artístico y documental de la Iglesia sigue siendo parte importantísima del acervo cultural de la Nación, por lo que la puesta de tal patrimonio al servicio y goce de la sociedad entera, su conservación y su incremento justifican la colaboración de Iglesia y Estado.
 
 Por ello, ambas Partes contratantes concluyen el siguiente
-
 
 **ACUERDO**
 

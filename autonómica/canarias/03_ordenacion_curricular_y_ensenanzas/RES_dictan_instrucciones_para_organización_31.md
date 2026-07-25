@@ -30,9 +30,6 @@ fuente_pdf_oficial: https://sede.gobiernodecanarias.org/boc/boc-a-2022-087-1481.
 
 # Resolución de 21 de abril de 2022, por la que se dictan instrucciones para la organización y el funcionamiento del Curso Específico de Acceso a Ciclos Formativos de Formación Profesional de Grado Medio que se impartirá en centros de educación de personas adultas dependientes de esta Consejería (BOC n.º 87, de 4 de mayo).
 
-https://sede.gobiernodecanarias.org/boc
-boc-a-2022-087-1481
-Boletín Oficial de Canarias núm. 87 Miércoles 4 de mayo de 202217451
 III. Otras Resoluciones
 Consejería de Educación, Universidades, Cultura y Deportes
 1481 Dirección General de Formación Profesional y Educación de Adultos.- Resolución 
@@ -73,9 +70,6 @@ Segundo.- La Ley Orgánica 3/2022, de 31 de marzo, de ordenación e integración
 la Formación Profesional, establece, en el artículo 46, que las administraciones educativas 
 ofertarán cursos de formación específicos preparatorios para el acceso a la formación 
 
-https://sede.gobiernodecanarias.org/boc
-boc-a-2022-087-1481
-Boletín Oficial de Canarias núm. 87 Miércoles 4 de mayo de 202217452
 profesional destinados a personas que no cumplan los requisitos de acceso y que “la 
 superación de la totalidad o de parte de estos cursos dependientes de las administraciones 
 educativas comportará la exención, total o parcial, de la prueba de acceso, considerando, 
@@ -118,9 +112,6 @@ otros que se estime procedente interponer.
 Santa Cruz de Tenerife, a 21 de abril de 2022.- La Directora General de Formación 
 Profesional y Educación de Adultos, Rosario Gañan Pérez.
 
-https://sede.gobiernodecanarias.org/boc
-boc-a-2022-087-1481
-Boletín Oficial de Canarias núm. 87 Miércoles 4 de mayo de 202217453
 ANEXO
 INSTRUCCIONES PARA EL DESARROLLO DEL CURSO ESPECÍFICO DE ACCESO 
 A CICLOS FORMATIVOS DE GRADO MEDIO DE FORMACIÓN PROFESIONAL (CE2).
@@ -158,9 +149,6 @@ que considere oportunas. Transcurrido dicho plazo sin haber presentado alegacion
 estas no estuviesen lo suficientemente acreditadas a juicio de la dirección del centro, se 
 procederá a darle de baja.
 
-https://sede.gobiernodecanarias.org/boc
-boc-a-2022-087-1481
-Boletín Oficial de Canarias núm. 87 Miércoles 4 de mayo de 202217454
 En el caso de alumnado que se incorpore al curso una vez iniciado este, le será de 
 aplicación lo establecido en el párrafo anterior, empezando a contarle los plazos desde el 
 día siguiente al de formalización de su matrícula.
@@ -218,9 +206,6 @@ puede ser comprobada la autenticidad de esta copia, mediante el número de
 documento electrónico siguiente:
  0P-V8R6LCMlo2Ji0n3LMSWtuO1EY3plwZ
 
-https://sede.gobiernodecanarias.org/boc
-boc-a-2022-087-1481
-Boletín Oficial de Canarias núm. 87 Miércoles 4 de mayo de 202217455
 Cada uno de los ámbitos incluye aprendizajes esenciales de los currículos de las 
 siguientes materias de la Educación Secundaria Obligatoria:
 1. Ámbito de Comunicación:
@@ -282,9 +267,6 @@ puede ser comprobada la autenticidad de esta copia, mediante el número de
 documento electrónico siguiente:
  0P-V8R6LCMlo2Ji0n3LMSWtuO1EY3plwZ
 
-https://sede.gobiernodecanarias.org/boc
-boc-a-2022-087-1481
-Boletín Oficial de Canarias núm. 87 Miércoles 4 de mayo de 202217456
 B. Régimen semipresencial.
 En este régimen, la distribución horaria de los diferentes ámbitos y la tutoría será la 
 siguiente:
@@ -344,9 +326,6 @@ de los siguientes cuerpos:
 • Cuerpo de profesores de enseñanza secundaria.
 • Cuerpo de catedráticos y profesores de escuelas oficiales de idiomas.
 
-https://sede.gobiernodecanarias.org/boc
-boc-a-2022-087-1481
-Boletín Oficial de Canarias núm. 87 Miércoles 4 de mayo de 202217457
 Además, en cada ámbito deben disponer de la siguiente atribución docente:
 Folio 8/16
 4.3. Ratio
@@ -407,9 +386,6 @@ Las programaciones deberán incluir, como mínimo, los siguientes apartados:
 • El procedimiento de evaluación del desarrollo de la programación y de la práctica 
 docente.
 
-https://sede.gobiernodecanarias.org/boc
-boc-a-2022-087-1481
-Boletín Oficial de Canarias núm. 87 Miércoles 4 de mayo de 202217458
 La programación de los ámbitos garantizará la necesaria integración curricular de 
 las materias que lo componen, de forma que el desarrollo de la misma constituya una 
 referencia del ámbito como un todo integrado, no como un desarrollo de materias sin 
@@ -447,9 +423,6 @@ B. Evaluación final.
 2. Asimismo, permitirá el acceso directo, sin prueba, a ciclos formativos de grado 
 medio en las condiciones que determine el proceso de admisión.
 
-https://sede.gobiernodecanarias.org/boc
-boc-a-2022-087-1481
-Boletín Oficial de Canarias núm. 87 Miércoles 4 de mayo de 202217459
 3. No obstante, para el acceso a ciclos formativos de grado medio de Enseñanzas 
 Profesionales de Artes Plásticas y Diseño, y de las Enseñanzas Deportivas, el alumno o 
 alumna únicamente deberá presentarse a la parte específica que se requiera.
@@ -484,9 +457,6 @@ estudios quedan recogidos, respectivamente, en los apéndices II, III y IV de es
 Cuando el número de solicitudes al curso supere el número de plazas ofertadas, se 
 constituirá una lista de adjudicación de plazas siguiendo, por orden, los siguientes criterios:
 
-https://sede.gobiernodecanarias.org/boc
-boc-a-2022-087-1481
-Boletín Oficial de Canarias núm. 87 Miércoles 4 de mayo de 202217460
 1. Alumnado que haya cursado y no superado el curso específico en alguna convocatoria 
 anterior por orden de mayor a menor edad.
 2. Resto del alumnado por orden de mayor a menor edad.
@@ -500,9 +470,6 @@ vacante.
 Si un alumno o alumna se incorpora al curso desde la lista de reserva, se articularán las 
 medidas necesarias para la superación de los contenidos impartidos.
 
-boc-a-2022-087-1481
-Boletín Oficial de Canarias núm. 87 Miércoles 4 de mayo de 202217461
-https://sede.gobiernodecanarias.org/boc
 Folio 12/16
 APÉNDICE I
 Procedimiento y calendario de admisión del curso 2022-2023
@@ -519,7 +486,6 @@ Del 10 al 24 de junio de 2022 • Presentación de solicitudes
 Del 27 al 29 de junio de 2022 • Reclamación a las listas provisionales de admitidos
 30 de junio de 2022 • Publicación de listas definitivas de admitidos
 Del 1 de julio al 1 de agosto de
-2022
 • Plazo  para  interponer  recurso  de  alzada  ante  la
 Dirección  Territorial  de  Educación  contra  las  listas
 definitivas
@@ -537,9 +503,6 @@ puede ser comprobada la autenticidad de esta copia, mediante el número de
 documento electrónico siguiente:
  0P-V8R6LCMlo2Ji0n3LMSWtuO1EY3plwZ
 
-boc-a-2022-087-1481
-Boletín Oficial de Canarias núm. 87 Miércoles 4 de mayo de 202217462
-https://sede.gobiernodecanarias.org/boc
 Folio 13/16
 APÉNDICE II
 Formulario de solicitud de plaza para el curso 2022-2023
@@ -568,9 +531,6 @@ puede ser comprobada la autenticidad de esta copia, mediante el número de
 documento electrónico siguiente:
  0P-V8R6LCMlo2Ji0n3LMSWtuO1EY3plwZ
 
-boc-a-2022-087-1481
-Boletín Oficial de Canarias núm. 87 Miércoles 4 de mayo de 202217463
-https://sede.gobiernodecanarias.org/boc
 Folio 14/16
 2. DATOS FAMILIARES
 3. DOCUMENTACIÓN QUE SE ADJUNTA
@@ -595,9 +555,6 @@ puede ser comprobada la autenticidad de esta copia, mediante el número de
 documento electrónico siguiente:
  0P-V8R6LCMlo2Ji0n3LMSWtuO1EY3plwZ
 
-boc-a-2022-087-1481
-Boletín Oficial de Canarias núm. 87 Miércoles 4 de mayo de 202217464
-https://sede.gobiernodecanarias.org/boc
 APÉNDICE III
  Centros autorizados a impartir el curso específico en el curso escolar 2022-2023
 El Curso Específico de Acceso a Ciclos Formativos de Grado Medio se impartirá en el curso 2022-2023 y en las modalidades indicadas, siempre que
@@ -622,9 +579,6 @@ puede ser comprobada la autenticidad de esta copia, mediante el número de
 documento electrónico siguiente:
  0P-V8R6LCMlo2Ji0n3LMSWtuO1EY3plwZ
 
-boc-a-2022-087-1481
-Boletín Oficial de Canarias núm. 87 Miércoles 4 de mayo de 202217465
-https://sede.gobiernodecanarias.org/boc Folio 16/16
 APÉNDICE IV
 Declaración jurada o de responsabilidad para la admisión en el curso escolar 2022-2023
 Nombre:                                                      Apellidos:                                                                              

@@ -51,16 +51,13 @@ CAPÍTULO I
 
 Disposiciones generales
 
-
 #### Artículo 1. Objeto.
 
 La presente Orden tiene por objeto regular el proceso de convocatoria, reconocimiento, certificación y registro de las actividades de formación permanente del profesorado, organizadas por el Ministerio de Educación, fijar la equivalencia de las titulaciones oficiales y establecer las condiciones de reconocimiento de las actividades de formación organizadas por otras instituciones.
 
-
 #### Artículo 2. Concepto de formación permanente del profesorado.
 
 Se considera formación permanente del profesorado, a efectos de su reconocimiento por el Ministerio de Educación, el conjunto de actividades formativas dirigidas a mejorar la preparación científica, técnica, didáctica y profesional del profesorado y de todos aquellos que desarrollan su labor docente o especializada en los centros que imparten las enseñanzas reguladas en la Ley Orgánica 2/2006, de Educación, o en los Servicios Técnicos de Educación.
-
 
 #### Artículo 3. Entidades organizadoras de la formación.
 
@@ -69,7 +66,6 @@ Se considera formación permanente del profesorado, a efectos de su reconocimien
 2. Las Consejerías de Educación en el Exterior, las Direcciones Provinciales y los Centros de Profesores y Recursos de Ceuta y Melilla, organizarán las actividades de formación permanente en sus respectivos ámbitos territoriales. Estas unidades administrativas deberán comunicar previamente al Instituto de Formación del Profesorado, Investigación e Innovación Educativa el Plan Anual de Formación que proponen realizar.
 
 3. El Ministerio de Educación podrá establecer convenios de colaboración en materia de formación del profesorado con las diferentes Administraciones y Universidades, así como con instituciones públicas y privadas sin ánimo de lucro para garantizar una oferta diversificada de formación. Dichas instituciones se consideran entidades colaboradoras.
-
 
 #### Artículo 4. Ámbito de aplicación y destinatarios.
 
@@ -83,7 +79,6 @@ CAPÍTULO II
 
 Modalidades y responsables de las actividades formativas
 
-
 #### Artículo 5. Modalidades de las acciones formativas.
 
 1. Las actividades de formación del profesorado se clasifican –a efectos de reconocimiento, certificación y registro– en cinco modalidades básicas: Cursos, seminarios, grupos de trabajo, proyectos de formación en centros y congresos. Las actividades de formación que no se correspondan con las modalidades anteriores se podrán asimilar a alguna de ellas en función de sus características.
@@ -95,7 +90,6 @@ Presenciales: Son aquellas acciones formativas en cuyo desarrollo se exige la pr
 En red: Es aquella acción formativa cuya realización se lleva a cabo mediante herramientas electrónicas. Estas actividades podrán contemplar alguna sesión presencial para la coordinación de la misma.
 
 Mixtas: Se entiende por participación mixta aquella en la que se combinan fases presenciales y en red. En este caso se harán explícitos los objetivos de cada una de las fases, los mecanismos para su integración y su duración en horas. Con carácter general la fase presencial no podrá ser inferior a diez horas.
-
 
 #### Artículo 6. Características de las acciones formativas.
 
@@ -125,7 +119,6 @@ Las jornadas, encuentros y cualquier otra actividad de estas características qu
 
 7. El diseño de las actividades de formación permanente del profesorado se realizará desde el respeto a los derechos fundamentales y de igualdad entre hombre y mujeres, así como desde el respeto y promoción de los derechos humanos y de los principios de accesibilidad universal.
 
-
 #### Artículo 7. Definición y características de las personas responsables.
 
 1. Director.–Responsable del diseño, seguimiento y supervisión en las modalidades de cursos y congresos, así como de la elaboración de una breve Memoria con la valoración del desarrollo de la misma.
@@ -141,7 +134,6 @@ Las jornadas, encuentros y cualquier otra actividad de estas características qu
 CAPÍTULO III
 
 Diseño, evaluación y reconocimiento de las actividades de formación
-
 
 #### Artículo 8. Diseño de actividades
 
@@ -171,8 +163,6 @@ Curso (presencial)
 
 20
 
-100
-
 Curso (en red/mixto)
 
 30
@@ -180,8 +170,6 @@ Curso (en red/mixto)
 –
 
 20
-
-150
 
 Seminario
 
@@ -219,7 +207,6 @@ Congreso
 
 5. En los cursos, seminarios, grupos de trabajo y congresos, una vez alcanzado el número mínimo de personas participantes que sean Profesores, se podrán asignar plazas a quienes no habiendo ejercido la docencia, cumplan todos los requisitos para ello establecidos en el Real Decreto 1834/2008 y la Orden ECI/3857/2007. Estas plazas no podrán superar el 15% del total de los participantes.
 
-
 #### Artículo 9. Evaluación de los participantes.
 
 1. La evaluación de los participantes tendrá en cuenta tanto la participación activa en las fases presenciales, como la ejecución de las diversas propuestas de trabajo que se programen para las fases no presenciales. Se considerarán para esta evaluación, cuantos ejercicios, informes o Memorias, individuales o de grupo se establezcan para el desarrollo de las actividades. Los trabajos y las indicaciones de la elaboración de los mismos, deben ser conocidos por los participantes desde el comienzo de la actividad.
@@ -238,7 +225,6 @@ d) Participación activa en los trabajos y sesiones.
 
 4. Al finalizar la actividad, quien haya dirigido y/o coordinado, determinará quienes han superado o no la actividad especificando, en caso de evaluación negativa, los motivos que justifican tal decisión y dejando constancia de todo ello en el acta correspondiente.
 
-
 #### Artículo 10. Características específicas de las actividades de formación en red.
 
 Además de lo indicado anteriormente, las actividades realizadas total o parcialmente en red se ajustarán a las siguientes condiciones:
@@ -252,7 +238,6 @@ c) Deberán contar al menos con una tutoría por cada cincuenta participantes.
 d) Con carácter general, en el diseño de la actividad en red se tendrá en cuenta que el tiempo de dedicación semanal no podrá ser superior a 10 horas. Las actividades que superen esta dedicación, deberán justificar la propuesta.
 
 e) El Instituto de Formación del Profesorado, Investigación e Innovación Educativa y el Instituto de Tecnologías Educativas elaborarán las instrucciones correspondientes para asegurar la adecuación de estas actividades a la evolución de las Tecnologías de la Información y la Comunicación.
-
 
 #### Artículo 11. Evaluación, reconocimiento y convocatoria de actividades.
 
@@ -304,7 +289,6 @@ CAPÍTULO IV
 
 Entidades colaboradoras
 
-
 #### Artículo 12. Requisitos.
 
 1. El reconocimiento de las actividades de formación permanente organizadas por las entidades colaboradoras requerirá, con carácter general, la firma previa de un Convenio con el Ministerio de Educación.
@@ -329,7 +313,6 @@ d) Fotocopia compulsada del CIF de la entidad.
 
 e) Acuerdo del órgano de gobierno de la entidad en el que se decide la formalización de un Convenio de Colaboración con el Ministerio de Educación.
 
-
 #### Artículo 13. Condiciones.
 
 1. El Ministerio de Educación se reserva la decisión de suscribir el Convenio en virtud de la oferta formativa existente y del interés de la propuesta.
@@ -340,7 +323,6 @@ e) Acuerdo del órgano de gobierno de la entidad en el que se decide la formaliz
 
 4. En los materiales que se publiquen deberá insertarse el logotipo del Ministerio de Educación y se hará mención expresa al Convenio de colaboración con dicho Departamento ministerial.
 
-
 #### Artículo 14. Renovación.
 
 1. Los Convenios, cuyo objeto fundamental será la realización de actividades formativas por parte de las entidades colaboradoras firmantes, podrán ser prorrogados de acuerdo con las estipulaciones que se establezcan en los mismos y deberán completarse con una Adenda que tendrá vigencia anual, y que contendrá las actividades de formación previstas para ese año. La ficha de diseño de las actividades se detalla en el anexo I.
@@ -348,7 +330,6 @@ e) Acuerdo del órgano de gobierno de la entidad en el que se decide la formaliz
 2. Las entidades colaboradoras, una vez finalizada la realización de todas las actividades que fueron aprobadas mediante Adenda, deberán enviar al Instituto de Formación del Profesorado, Investigación e Innovación Educativa una Memoria que contendrá una valoración de cada actividad atendiendo al grado de consecución de los objetivos, organización, metodología y evaluación de los participantes.
 
 3. Cualquiera de las partes podrá denunciar el Convenio durante su periodo de vigencia siempre que medie incumplimiento grave de los compromisos asumidos, así como por el incumplimiento de los requisitos establecidos en la presente Orden.
-
 
 #### Artículo 15. Reconocimiento de actividades sin convenio.
 
@@ -358,7 +339,6 @@ CAPÍTULO V
 
 Certificación y registro de actividades de formación
 
-
 #### Artículo 16. Registro de Formación Permanente del Profesorado.
 
 1. El Instituto de Formación del Profesorado, Investigación e Innovación Educativa será la unidad del Ministerio de Educación encargada del reconocimiento, registro y certificación de las actividades de formación del profesorado. El Instituto deberá mantener pública en su web la relación de actividades de formación reconocidas por el Ministerio de Educación en dicho Registro.
@@ -366,7 +346,6 @@ Certificación y registro de actividades de formación
 2. Se inscribirán en el Registro de Formación Permanente del Profesorado las acreditaciones relativas a la participación en las actividades de formación que se ajusten a las prescripciones de esta Orden.
 
 3. La anotación, en dicha unidad administrativa, de las acciones realizadas será requisito indispensable para el reconocimiento de la participación del profesorado en las mismas, así como para beneficiarse de los efectos profesionales y económicos que pueda comportar el reconocimiento de la formación permanente.
-
 
 #### Artículo 17. Procedimiento.
 
@@ -392,7 +371,6 @@ b) Cuando se trate de la inclusión o exclusión de participantes, sea cual fuer
 
 5. Las actividades organizadas por las diferentes unidades del Ministerio de Educación que se indican en el artículo 3 de la presente Orden serán inscritas, de oficio, en el Registro de Formación Permanente del Profesorado.
 
-
 #### Artículo 18. Certificados y diligencias.
 
 1. Las actividades de formación permanente darán lugar a la expedición de los correspondientes certificados o diligencias acreditativos a los participantes, una vez concluida y realizada su evaluación final.
@@ -400,7 +378,6 @@ b) Cuando se trate de la inclusión o exclusión de participantes, sea cual fuer
 2. Por cada actividad, según la función realizada, se podrán entregar acreditaciones que justifiquen la asistencia, dirección, coordinación, secretaría e impartición de ponencias. Por una actividad se recibirá un solo certificado, sea cual fuere su forma de participación en la misma. En el caso de los congresos se podrá certificar la impartición de ponencias y la asistencia a la misma persona.
 
 3. El personal docente con dedicación a la gestión de la formación permanente del profesorado, no podrá recibir certificado como responsable por actividades que realice durante el desarrollo de sus funciones.
-
 
 #### Artículo 19. Contenido de los certificados y diligencias.
 
@@ -419,7 +396,6 @@ d) A quienes hayan ejercido las funciones de coordinación en grupos de trabajo 
 CAPÍTULO VI
 
 Certificación y registro de actividades a solicitud del interesado
-
 
 #### Artículo 20. Proyectos de investigación.
 
@@ -447,7 +423,6 @@ e) Documentación acreditativa de que el proyecto se desarrolló en función de 
 
 4. Una vez entregada la documentación exigida se otorgarán las horas que correspondan en función de la valoración del trabajo efectuado. Podrán otorgarse como máximo 100 horas de formación anuales a cada miembro del equipo investigador.
 
-
 #### Artículo 21. Actividades de formación organizadas por Universidades.
 
 1. Podrán reconocerse los certificados y diplomas expedidos por las Universidades y Fundaciones asociadas. Debe figurar en ellos la firma del Rector o del Vicerrector competente de la misma, como garantía de su aprobación en Junta de Gobierno o, en su caso, la firma de quien dirija la Fundación.
@@ -459,7 +434,6 @@ e) Documentación acreditativa de que el proyecto se desarrolló en función de 
 4. El reconocimiento de los certificados, diplomas o cursos de posgrado universitario indicados en los apartados 1 y 2 del presente artículo lo será a los solos efectos de la formación del profesorado. En ningún caso, este reconocimiento sustituye los requisitos académicos o profesionales que se puedan exigir, en su caso, para el acceso a la función pública docente o al ejercicio de una profesión.
 
 Documentación necesaria: Fotocopia compulsada del certificado expedido por la Universidad y programa de la actividad.
-
 
 #### Artículo 22. Equivalencia de titulaciones obtenidas.
 
@@ -479,20 +453,17 @@ En el caso de las titulaciones de idiomas, los certificados deberán indicar el 
 
 Documentación necesaria: Fotocopia compulsada del título correspondiente o certificado de estudios.
 
-
 #### Artículo 23. Proyectos de innovación.
 
 La participación en proyectos de innovación convocados por las administraciones educativas podrá tener los efectos correspondientes a las actividades de formación permanente. La valoración en horas de formación para cada proyecto vendrá determinada en la convocatoria correspondiente.
 
 Documentación necesaria: Justificante de la realización de la actividad.
 
-
 #### Artículo 24. Actividades realizadas en el extranjero.
 
 Se reconocerán las actividades de formación del profesorado realizadas en el extranjero y organizadas por organismos oficiales, por Universidades o por Instituciones de formación del profesorado oficialmente reconocidas y que cuenten con prestigio acreditado por las autoridades educativas del respectivo país, siempre que su contenido guarde relación con las enseñanzas reguladas en la Ley Orgánica 2/2006 de Educación.
 
 Documentación necesaria: Fotocopia compulsada del certificado expedido por cualquiera de las entidades citadas en el párrafo anterior en el que conste que se ha superado la actividad, las horas de duración de la misma, así como el programa de la actividad. Dicho certificado deberá estar emitido en cualquiera de las lenguas oficiales de la Unión Europea e incluir traducción al castellano.
-
 
 #### Artículo 25. Programas internacionales.
 
@@ -502,7 +473,6 @@ La valoración en horas de formación para cada programa vendrá determinada en 
 
 Documentación necesaria: Justificante de la realización de la actividad.
 
-
 #### Artículo 26. Programas institucionales.
 
 La participación en programas institucionales convocados por las administraciones educativas podrá tener los efectos correspondientes a las actividades de formación permanente.
@@ -510,7 +480,6 @@ La participación en programas institucionales convocados por las administracion
 La valoración en horas de formación para cada programa vendrá determinada en la convocatoria correspondiente o se realizará de acuerdo con las instrucciones que al efecto dicte la Dirección General competente en materia de formación de profesorado.
 
 Documentación necesaria: Justificante de la realización de la actividad.
-
 
 #### Artículo 27. Tutoría y coordinación de prácticas.
 
@@ -526,13 +495,11 @@ No será posible el reconocimiento y certificación de más de una tutoría al a
 
 Documentación necesaria: Fotocopia compulsada de la certificación acreditativa de haber realizado la actividad.
 
-
 #### Artículo 28. Actividades desarrolladas por el personal docente en la Administración educativa.
 
 Al personal docente que ocupe puestos de trabajo en la Administración educativa se le reconocerá las funciones desarrolladas a efectos de formación permanente del profesorado mediante la asignación de 20 horas de formación por cada año completo de servicios prestados o 5 horas por cada trimestre completado. El certificado se ajustará al anexo VII.
 
 Documentación necesaria: Documento de concesión de la comisión de servicios en el que deberán constar las fechas de inicio y finalización de la misma.
-
 
 #### Artículo 29. Procedimiento de reconocimiento y certificación a solicitud de las personas interesadas.
 
@@ -548,40 +515,31 @@ c) Personal docente con destino en una Comunidad Autónoma que las realice en la
 
 3. En los certificados que se presenten deberán constar denominación, modalidad, fechas de inicio y finalización de la actividad, horas de duración de la misma y lugar de celebración.
 
-
 #### Disposición adicional primera. Reconocimiento de actividades reconocidas en otras Administraciones educativas.
 
 El Ministerio de Educación, a solicitud de las personas interesadas, reconocerá al profesorado la formación derivada de la participación en actividades realizadas fuera del ámbito de su administración educativa y que tengan el reconocimiento de otra administración. Para ello se reconocerá el número de horas de formación aportadas por el interesado. En el certificado se hará constar el reconocimiento previo de la actividad por la administración educativa convocante. El Director del Instituto de Formación del Profesorado, Investigación e Innovación Educativa resolverá en el plazo de seis meses desde la recepción de la documentación, transcurrido dicho plazo sin resolución expresa por causas ajenas al interesado, se entenderá concedida la petición. Dicha resolución no pone fin a la vía administrativa, pudiendo el interesado interponer recurso de alzada ante el superior jerárquico en los plazos establecidos en el artículo 115 de la Ley 30/1992, de 26 de noviembre, de Régimen Jurídico de las Administraciones Públicas y del Procedimiento Administrativo Común.
-
 
 #### Disposición adicional segunda. Créditos de formación.
 
 A efectos del reconocimiento de complementos retributivos al profesorado, vinculados a la realización de la formación, se considerará la siguiente equivalencia: un crédito de formación es igual a diez horas de formación.
 
-
 #### Disposición adicional tercera. Referencias genéricas.
 
 Todas las referencias a cargos o puestos para los que en esta orden se utiliza la forma de masculino genérico deben entenderse aplicables, indistintamente, a mujeres y a hombres.
-
 
 #### Disposición transitoria única. Reconocimiento, certificación y registro de actividades realizadas con anterioridad a la presente Orden.
 
 Las acciones formativas que se hayan realizado con anterioridad a la entrada en vigor de la presente Orden se reconocerán, certificarán y registrarán con arreglo a la normativa que recoge la Orden ministerial de 26 de noviembre de 1992 (BOE de 10 de diciembre), las Resoluciones de 27 de abril de 1994 (BOE de 25 de mayo), de 24 de enero de 1996 (BOE de febrero), de 12 de noviembre de 1998 (BOE de 8 de diciembre), y la Resolución de 8 de octubre de 2002 (BOE del 23) que la desarrollan.
 
-
 #### Disposición derogatoria. Normas que se derogan.
 
 A la entrada en vigor de la presente Orden quedan derogadas la Orden ministerial de 26 de noviembre de 1992 (BOE del 10 de diciembre), por la que se regula la convocatoria, reconocimiento, certificación y registro de las actividades de formación permanente del profesorado y se establece la equivalencia de las actividades de investigación y de las titulaciones universitarias, las Resoluciones de 27 de abril de 1994 (BOE del 25 de mayo), de 24 de enero de 1996 (BOE de 13 febrero) y de 12 de noviembre de 1998 (BOE del 8 de diciembre) y la Resolución de 8 de octubre de 2002 (BOE 23 de octubre), que la desarrollan y cuantas normas se opongan o contradigan a la presente Orden, salvo lo indicado en la Disposición Transitoria Primera.
-
 
 #### Disposición final primera. Aplicación de la Orden.
 
 Se autoriza a la Secretaría de Estado de Educación y Formación Profesional, en el ámbito de sus competencias a aprobar las instrucciones que sean necesarias para la aplicación de lo que dispone esta Orden.
 
-
 #### Disposición final segunda. Entrada en vigor.
-
-La presente Orden entrará en vigor al día siguiente de su publicación en el «Boletín Oficial del Estado».
 
 Madrid, 20 de octubre de 2011.–El Ministro de Educación, Ángel Gabilondo Pujol.
 

@@ -31,10 +31,7 @@ fuente_pdf_oficial: https://sede.gobiernodecanarias.org/boc/boc-a-2018-127-3139.
 
 # Resolución de 25 de junio de 2018, por la que se dispone la publicación del Acuerdo que aprueba las instrucciones que conforman la normativa de seguridad en el uso de los recursos informáticos, telefónicos y de redes de comunicación de la Administración Pública de la Comunidad Autónoma de Canarias (BOC n.º 127, de 3 de julio).
 
-Boletín Oficial de Canarias núm. 127
-https://sede.gobcan.es/boc
 Martes 3 de julio de 2018
-21834
 III. Otras Resoluciones
 Presidencia del Gobierno
 3139 Secretaría General.- Resolución de 25 de junio de 2018, por la que se dispone 
@@ -55,13 +52,8 @@ Canarias, en los términos del anexo.
 Santa Cruz de Tenerife, a 25 de junio de 2018.- El Secretario General, Ceferino José 
 Marrero Fariña.
 Página 
-boc-a-2018-127-3139
 
-
-Boletín Oficial de Canarias núm. 127
-https://sede.gobcan.es/boc
 Martes 3 de julio de 2018
-21835
 A N E X O
 El Gobierno de Canarias, en sesión celebrada el día 25 de junio de 2018 adoptó, entre 
 otros, el siguiente Acuerdo:
@@ -100,13 +92,8 @@ normas.
 La entrada en vigor de la Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo 
 Común de las Administraciones Públicas, así como de la Ley 40/2015, de 1 de octubre, de 
 Régimen Jurídico del Sector Público, plantean un entorno de trabajo en el cual la tramitación 
-boc-a-2018-127-3139
 
-
-Boletín Oficial de Canarias núm. 127
-https://sede.gobcan.es/boc
 Martes 3 de julio de 2018
-21836
 electrónica constituye la actuación habitual de las Administraciones. La utilización de los 
 medios electrónicos, la firma y sedes electrónicas, el intercambio electrónico de datos en 
 entornos cerrados de comunicación y la actuación administrativa automatizada plantean un 
@@ -137,13 +124,8 @@ precisas para la ejecución de este Acuerdo, especialmente las relativas a contr
 electrónico, servicio colaborativo de documentos, control de acceso a los sistemas de 
 información y al uso del servicio de VPN.
 Tercero.- Ordenar la publicación del presente Acuerdo en el Boletín Oficial de Canarias.
-boc-a-2018-127-3139
 
-
-Boletín Oficial de Canarias núm. 127
-https://sede.gobcan.es/boc
 Martes 3 de julio de 2018
-21837
 A N E X O
  ÍNDICE
 1.- PRINCIPIOS GENERALES Y DEFINICIONES.
@@ -179,13 +161,8 @@ COMUNICACIÓN CORPORATIVOS.
 6.3.- Uso indebido de los recursos informáticos, telefónicos y de telecomunicaciones.
 6.4.- Responsabilidades.
 6.5.- Medidas cautelares extraordinarias.
-boc-a-2018-127-3139
 
-
-Boletín Oficial de Canarias núm. 127
-https://sede.gobcan.es/boc
 Martes 3 de julio de 2018
-21838
 1.- PRINCIPIOS GENERALES Y DEFINICIONES.
 1.1.- Principios Generales.
 1. Las personas comprendidas en el ámbito de aplicación de estas instrucciones estarán 
@@ -222,13 +199,8 @@ de información o redes de comunicaciones de la Administración Pública de la C
 Autónoma de Canarias.
 c) Recursos informáticos: todos los medios de cualquier naturaleza, físicos o lógicos, que 
 intervienen en los sistemas de información y en las redes de comunicaciones.
-boc-a-2018-127-3139
 
-
-Boletín Oficial de Canarias núm. 127
-https://sede.gobcan.es/boc
 Martes 3 de julio de 2018
-21839
 d) Recursos telefónicos: equipos de proceso y transmisión de información que permiten 
 la comunicación vocal y de fax.
 e) Aplicación informática: programa o conjunto de programas informáticos que tienen 
@@ -264,13 +236,8 @@ eliminar virus informáticos.
 p) Spam: correo electrónico con remitente desconocido, generalmente enviado de forma 
 masiva con fines publicitarios o maliciosos, que no es solicitado ni deseado por la persona 
 usuaria.
-boc-a-2018-127-3139
 
-
-Boletín Oficial de Canarias núm. 127
-https://sede.gobcan.es/boc
 Martes 3 de julio de 2018
-21840
 q) Registro de Eventos: registro de eventos informáticos o telefónicos durante un rango 
 de tiempo determinado.
 r) CiberCentro: Centro integral de atención al personal al servicio de la Administración 
@@ -306,13 +273,8 @@ funciones, que deberá estar debidamente identificado y acreditado.
  2.2.- Utilización de Equipos Portátiles, Tabletas, Móviles y Dispositivos Criptográficos.
 1. El equipo portátil, tableta, móvil y dispositivo criptográfico estará bajo la custodia de 
 la persona usuaria que los utilice o de la persona responsable de la unidad administrativa a 
-boc-a-2018-127-3139
 
-
-Boletín Oficial de Canarias núm. 127
-https://sede.gobcan.es/boc
 Martes 3 de julio de 2018
-21841
 quien haya sido asignado. Ambos deberán adoptar las medidas necesarias para evitar daños o 
 sustracción, así como el acceso a ellos por parte de personas no autorizadas. Dichas medidas 
 comprenderán, al menos, el uso de contraseñas o códigos (PIN) secretos y personales para 
@@ -350,13 +312,8 @@ titular del órgano propietario del mismo en el momento de su entrega.
 2.3.- Utilización de aplicaciones informáticas.
 1. Las personas usuarias deben hacer uso exclusivamente de las aplicaciones informáticas 
 o versiones de software instalados en sus equipos por la Administración Pública de la 
-boc-a-2018-127-3139
 
-
-Boletín Oficial de Canarias núm. 127
-https://sede.gobcan.es/boc
 Martes 3 de julio de 2018
-21842
 Comunidad Autónoma de Canarias. Asimismo, las personas usuarias se limitarán a ejecutar 
 las aplicaciones informáticas para las que estén autorizadas.
 2. No se podrá instalar o utilizar software del cual no se disponga la autorización y 
@@ -394,13 +351,8 @@ la Comunidad Autónoma de Canarias.
 1. El acceso a Internet por las personas usuarias se realizará únicamente empleando los 
 medios y a través de la red establecida a estos efectos por la Administración Pública de la 
 Comunidad Autónoma de Canarias.
-boc-a-2018-127-3139
 
-
-Boletín Oficial de Canarias núm. 127
-https://sede.gobcan.es/boc
 Martes 3 de julio de 2018
-21843
 2. Con carácter general, las conexiones que se realicen a Internet deben obedecer 
 a fines profesionales para el ejercicio de las tareas y actividades que corresponden a las 
 funciones del puesto de trabajo, teniendo siempre en cuenta que se están utilizando recursos 
@@ -440,13 +392,8 @@ procediéndole a instalar y configurar una cuenta de correo. El acceso a dicha c
 se efectuará mediante una contraseña personal. El correo corporativo deberá utilizarse, única 
 y exclusivamente, para la realización de las funciones encomendadas al personal, evitando 
 con carácter general el uso privado del mismo.
-boc-a-2018-127-3139
 
-
-Boletín Oficial de Canarias núm. 127
-https://sede.gobcan.es/boc
 Martes 3 de julio de 2018
-21844
 2. Las personas usuarias no tienen permitido el acceso a cuentas de correo que no le 
 hayan sido asignadas o autorizadas.
 Asimismo, las personas usuarias no pueden interceptar, leer, borrar, copiar o modificar el 
@@ -483,13 +430,8 @@ las operaciones para las que fueron generados e incorporados, sin destinarlos a 
 incurrir en actividades que puedan considerarse ilícitas o ilegales.
 2. La información y los datos generados por la persona usuaria en el desempeño de 
 sus competencias profesionales deberán mantenerse únicamente en unidades de red de la 
-boc-a-2018-127-3139
 
-
-Boletín Oficial de Canarias núm. 127
-https://sede.gobcan.es/boc
 Martes 3 de julio de 2018
-21845
 Administración Pública de la Comunidad Autónoma de Canarias o en cualquier otro tipo 
 de servicio de ficheros centralizado propio de la Administración Pública de la Comunidad 
 Autónoma de Canarias que esta facilite a las personas usuarias para tal fin. En los recursos 
@@ -528,13 +470,8 @@ por otra persona, deberá proceder inmediatamente al cambio de contraseña o rev
 mismo y notificar la correspondiente incidencia a CiberCentro, así como a la persona que 
 desempeñe un cargo inmediatamente superior en la jerarquía, a los efectos de lo señalado en 
 el apartado 5 de estas instrucciones.
-boc-a-2018-127-3139
 
-
-Boletín Oficial de Canarias núm. 127
-https://sede.gobcan.es/boc
 Martes 3 de julio de 2018
-21846
 La persona usuaria nunca facilitará sus credenciales, aunque recibiera una llamada 
 telefónica o correo electrónico solicitándole dichos datos. La persona usuaria procederá 
 a comunicar este hecho a CiberCentro, así como a la persona que desempeñe un cargo 
@@ -573,13 +510,8 @@ Comunidad Autónoma de Canarias, por lo que las personas usuarias deben abstener
 comunicar, divulgar, distribuir o poner en conocimiento o al alcance de terceras personas 
 (externas o internas no autorizadas) dicha información, salvo autorización expresa de la 
 persona titular de la misma.
-boc-a-2018-127-3139
 
-
-Boletín Oficial de Canarias núm. 127
-https://sede.gobcan.es/boc
 Martes 3 de julio de 2018
-21847
 2. Todo el personal de la organización o ajeno a la misma que, por razón de su actividad 
 profesional, hubiera tenido acceso a información gestionada por la Administración 
 Pública de la Comunidad Autónoma de Canarias (tal como datos personales, documentos, 
@@ -620,13 +552,8 @@ de manera que resulte imposible su recuperación.
 8. Las personas usuarias deberán retirar en el menor tiempo posible, cualquier impreso 
 o documento de los dispositivos periféricos de uso compartido, tales como impresoras, fax, 
 escáner, etc.
-boc-a-2018-127-3139
 
-
-Boletín Oficial de Canarias núm. 127
-https://sede.gobcan.es/boc
 Martes 3 de julio de 2018
-21848
 4.- ACCESO DE TERCERAS PERSONAS A LOS SISTEMAS DE INFORMACIÓN Y REDES EN 
 INSTALACIONES DE LA ADMINISTRACIÓN PÚBLICA DE LA COMUNIDAD AUTÓNOMA DE 
 CANARIAS.
@@ -666,13 +593,8 @@ legalidad previsto en el citado Reglamento.
 3. Las medidas que se adopten, de carácter específico o genérico, para el cumplimiento 
 de los fines establecidos en estas instrucciones no vulnerarán el derecho al secreto de las 
 comunicaciones previsto en el artículo 18.3 de la Constitución Española.
-boc-a-2018-127-3139
 
-
-Boletín Oficial de Canarias núm. 127
-https://sede.gobcan.es/boc
 Martes 3 de julio de 2018
-21849
 5.2.- Monitorización y aplicación de estas instrucciones que conforman la normativa 
 de seguridad.
 1. La Administración Pública de la Comunidad Autónoma de Canarias, por motivos 
@@ -712,13 +634,8 @@ de 8 de enero, por el que se regula el Esquema Nacional de Seguridad en el ámbi
 Administración Electrónica.
 5. El sistema que proporciona el servicio de navegación podrá contar con filtros de acceso 
 que bloqueen el acceso a páginas web con contenidos inadecuados, programas lúdicos 
-boc-a-2018-127-3139
 
-
-Boletín Oficial de Canarias núm. 127
-https://sede.gobcan.es/boc
 Martes 3 de julio de 2018
-21850
 de descarga masiva o páginas potencialmente inseguras o que contengan virus o código 
 dañino, garantizándose la seguridad y el buen uso de los accesos a Internet, conforme a 
 estas instrucciones. Igualmente, el sistema podrá registrar y dejar traza de las páginas a las 
@@ -759,13 +676,8 @@ Autónoma de Canarias y, especialmente, las siguientes indicaciones:
 1. No acceder ni alterar información o datos ajenos aprovechando sus privilegios de 
 administración. Solo podrá acceder previa autorización de la persona responsable o persona 
 propietaria del fichero para el ejercicio de las funciones que le corresponda.
-boc-a-2018-127-3139
 
-
-Boletín Oficial de Canarias núm. 127
-https://sede.gobcan.es/boc
 Martes 3 de julio de 2018
-21851
 2. Custodiar con especial cuidado los identificadores y contraseñas que den acceso a los 
 sistemas con privilegio de personal administrador.
 3. Si debido a sus atribuciones tuviera acceso a cualquier fase del tratamiento de datos de 
@@ -804,13 +716,8 @@ de la persona usuaria a través de Internet, correo electrónico o cualquier otr
 soporte o medio, deberá cumplir lo establecido en estas instrucciones y, en especial, 
 las referidas a la propiedad intelectual, el control antivirus y la protección de datos de 
 carácter personal.
-boc-a-2018-127-3139
 
-
-Boletín Oficial de Canarias núm. 127
-https://sede.gobcan.es/boc
 Martes 3 de julio de 2018
-21852
 4. Utilizar los medios o programas de salvaguarda que les facilite la Administración 
 Pública de la Comunidad Autónoma de Canarias, conforme a las instrucciones que reciban, 
 con la finalidad de garantizar la integridad y seguridad de los recursos informáticos, 
@@ -849,13 +756,8 @@ perjuicio de lo establecido en el Código Penal u otra normativa aplicable.
 calificación de usos indebidos o incumplimientos los supuestos siguientes:
 a) Cualquier actuación que pueda tener consideración de provocadora o intimidatoria en 
 el trabajo, de tal manera que debe excluirse la instalación o visualización de salvapantallas, 
-boc-a-2018-127-3139
 
-
-Boletín Oficial de Canarias núm. 127
-https://sede.gobcan.es/boc
 Martes 3 de julio de 2018
-21853
 fotos, vídeos, comunicaciones u otros medios con contenidos ofensivos, violentos, 
 amenazadores, obscenos o, en general, aquellos que agredan la dignidad de la persona.
 b) La sustracción o el traslado no debidamente autorizado de cualquier elemento físico de 
@@ -889,13 +791,8 @@ n) La transmisión de contenido ilegal o la actuación en perjuicio de los derec
 intimidad, al honor, a la propia imagen o contra la dignidad de las personas.
 ñ) La difusión de los datos de carácter personal o la cesión de los mismos a terceros.
 o) El reenvío de correos electrónicos de forma masiva o la respuesta a mensajes spam.
-boc-a-2018-127-3139
 
-
-Boletín Oficial de Canarias núm. 127
-https://sede.gobcan.es/boc
 Martes 3 de julio de 2018
-21854
 p) La ejecución o apertura de ficheros adjuntos en correos electrónicos procedentes de 
 fuentes no fiables, puesto que podrían contener virus o código malicioso. En caso de duda 
 sobre la confiabilidad de los mismos, se deberá notificar esta circunstancia a los responsables 
@@ -929,5 +826,3 @@ suspensión inmediata del servicio prestado y el bloqueo temporal de los sistema
 o redes a los que tenga acceso la persona usuaria, con advertencia a la misma, así como a la 
 persona que desempeñe un cargo inmediatamente superior en la jerarquía, en el espacio de 
 tiempo más breve que sea posible.
-boc-a-2018-127-3139
-

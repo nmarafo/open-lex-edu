@@ -31,9 +31,6 @@ fuente_pdf_oficial: https://sede.gobiernodecanarias.org/boc/boc-a-2026-045-735.p
 
 # Resolución de 25 de febrero de 2026, por la que se establece la distribución horaria y estructura modular de los Grados C (Certificados Profesionales) y sus correspondientes Grados B (Certificados de Competencia), de niveles 2 y 3, de las familias profesionales de Artes Gráficas; Fabricación Mecánica; y Servicios Socioculturales y a la Comunidad, en el ámbito de la Comunidad Autónoma de Canarias.
 
-https://sede.gobiernodecanarias.org/boc
-boc-a-2026-045-735
-Boletín Oficial de Canarias núm. 45 Viernes 6 de marzo de 20268344
 III. Otras Resoluciones
 Consejería de Educación, Formación Profesional, Actividad Física y Deportes
 735 Viceconsejería de Formación Profesional y Cualificaciones Profesionales.- Resolución 
@@ -74,9 +71,6 @@ El artículo 30.1 del Real Decreto citado en el párrafo anterior dispone que la
 administraciones competentes deberán determinar la duración de los Grados A, B y C 
 vinculados a Grados D de los que tuvieran desarrollo autonómico, estableciendo la misma 
 
-https://sede.gobiernodecanarias.org/boc
-boc-a-2026-045-735
-Boletín Oficial de Canarias núm. 45 Viernes 6 de marzo de 20268345
 duración horaria para cada módulo profesional en el ámbito autonómico, con independencia 
 del grado en el que se integren.
 Asimismo, el artículo 30.5 determina que cuando un Grado C incorpore un módulo 
@@ -117,9 +111,6 @@ previsto en el artículo 133.3.c) del citado texto legal.
 Segundo.- La Ley 6/2014, de 25 de julio, Canaria de Educación no Universitaria, 
 dispone en su artículo 33.3 que, de acuerdo con la normativa básica del Estado, una vez 
 
-https://sede.gobiernodecanarias.org/boc
-boc-a-2026-045-735
-Boletín Oficial de Canarias núm. 45 Viernes 6 de marzo de 20268346
 aprobado el Real Decreto correspondiente a un título de formación profesional y hasta que 
 sea completado el currículo propio de la Comunidad Autónoma, dicho real decreto actuará 
 como norma subsidiaria.
@@ -162,9 +153,6 @@ Régimen Especial las competencias generales y específicas en materia de ordena
 implantación y desarrollo de las enseñanzas de formación profesional en el ámbito de la 
 Comunidad Autónoma de Canarias.
 
-https://sede.gobiernodecanarias.org/boc
-boc-a-2026-045-735
-Boletín Oficial de Canarias núm. 45 Viernes 6 de marzo de 20268347
 Octavo.- Mediante Resolución de 30 de octubre de 2024, de la Dirección General 
 de Formación Profesional y Enseñanzas de Régimen Especial, se dictaron instrucciones 
 y orientaciones para la implantación y desarrollo de los Grados D y E, a partir del curso 
@@ -207,9 +195,6 @@ públicos no universitarios de la Comunidad Autónoma de Canarias.
 Sexto.- Encomendar a la Inspección de Educación el asesoramiento a los equipos 
 directivos de los centros del sistema educativo no universitario en aquellos aspectos 
 
-https://sede.gobiernodecanarias.org/boc
-boc-a-2026-045-735
-Boletín Oficial de Canarias núm. 45 Viernes 6 de marzo de 20268348
 específicos relacionados con la aplicación de la presente Resolución, así como la supervisión 
 de su adecuado cumplimiento.
 Séptimo.- Ordenar la publicación de la presente Resolución en el Boletín Oficial de 
@@ -226,9 +211,6 @@ cualquier otro que se estime procedente.
 Las Palmas de Gran Canaria, a 25 de febrero de 2026.- El Viceconsejero de Formación 
 Profesional y Cualificaciones Profesionales, Francisco Rodríguez Machado.
 
-boc-a-2026-045-735
-Boletín Oficial de Canarias núm. 45 Viernes 6 de marzo de 20268349
-https://sede.gobiernodecanarias.org/boc
 ANEXO I
 FAMILIA PROFESIONAL: ARTES GRÁFICAS
 DISTRIBUCIÓN HORARIA Y ESTRUCTURA MODULAR DE LOS GRADOS C (CERTIFICADOS 
@@ -284,9 +266,6 @@ En régimen general la formación en la empresa u organismo equiparado tendrá u
 En régimen intensivo la formación en la empresa u organismo equiparado tendrá una duración mínima de 185 horas
 ANEXO I
 
-boc-a-2026-045-735
-Boletín Oficial de Canarias núm. 45 Viernes 6 de marzo de 20268350
-https://sede.gobiernodecanarias.org/boc
 Certificado profesional: Compaginación y ensamblado de publicaciones electrónicas.
 • Código: ARG_C_003_4B.
 • Título de Formación Profesional asociado: Técnico en Preimpresión Digital.
@@ -332,9 +311,6 @@ Duración 745 30 22
 En régimen general la formación en la empresa u organismo equiparado tendrá una duración mínima de 190 horas
 En régimen intensivo la formación en la empresa u organismo equiparado tendrá una duración mínima de 265 horas
 
-boc-a-2026-045-735
-Boletín Oficial de Canarias núm. 45 Viernes 6 de marzo de 20268351
-https://sede.gobiernodecanarias.org/boc
 Certificado profesional: Impresión en flexografía.
 • Código: ARG_C_005_4B.
 • Título de Formación Profesional asociado: Técnico en Impresión Gráfica.
@@ -383,9 +359,6 @@ Duración 570 30 17
 En régimen general la formación en la empresa u organismo equiparado tendrá una duración mínima de 145 horas
 En régimen intensivo la formación en la empresa u organismo equiparado tendrá una duración mínima de 200 horas
 
-boc-a-2026-045-735
-Boletín Oficial de Canarias núm. 45 Viernes 6 de marzo de 20268352
-https://sede.gobiernodecanarias.org/boc
 Certificado profesional: Desarrollo de productos gráficos.
 • Código: ARG_C_001_5B.
 • Título  de  Formación  Profesional  asociado:  Técnico  Superior  en  Diseño  y  Edición  de
@@ -440,9 +413,6 @@ Duración 365 30 22
 En régimen general la formación en la empresa u organismo equiparado tendrá una duración mínima de 95 horas
 En régimen intensivo la formación en la empresa u organismo equiparado tendrá una duración mínima de 130 horas
 
-boc-a-2026-045-735
-Boletín Oficial de Canarias núm. 45 Viernes 6 de marzo de 20268353
-https://sede.gobiernodecanarias.org/boc
 Certificado profesional: Desarrollo de proyectos editoriales multimedia.
 • Código: ARG_C_003_5B.
 • Título  de  Formación  Profesional  asociado:  Técnico  Superior  en  Diseño  y  Edición  de
@@ -497,9 +467,6 @@ Duración 575 30 17
 En régimen general la formación en la empresa u organismo equiparado tendrá una duración mínima de 145 horas
 En régimen intensivo la formación en la empresa u organismo equiparado tendrá una duración mínima de 205 horas
 
-boc-a-2026-045-735
-Boletín Oficial de Canarias núm. 45 Viernes 6 de marzo de 20268354
-https://sede.gobiernodecanarias.org/boc
 Certificado profesional: Organización y supervisión de la producción en procesos de preimpresión y  
 gestión del color.
 • Código: ARG_C_005_5B.
@@ -559,9 +526,6 @@ Duración 680 30 20
 En régimen general la formación en la empresa u organismo equiparado tendrá una duración mínima de 170 horas
 En régimen intensivo la formación en la empresa u organismo equiparado tendrá una duración mínima de 240 horas
 
-boc-a-2026-045-735
-Boletín Oficial de Canarias núm. 45 Viernes 6 de marzo de 20268355
-https://sede.gobiernodecanarias.org/boc
 Certificado  profesional:  Gestión  de  la  producción  en  procesos  de  encuadernación  industrial  y 
 transformados de papel y cartón.
 • Código: ARG_C_007_5B.
@@ -583,7 +547,6 @@ semanales
 Código del certificado de competencia: ARG_B_1417 174 9 5
 1538 Gestión de la producción en la industria gráfica
 Código del certificado de competencia:  ARG_B_1538 142 7 4
-1541
 Organización de los procesos de postimpresión,
 transformados y acabados
 Código del certificado de competencia: ARG_B_1541
@@ -593,9 +556,6 @@ Duración 585 30 17
 En régimen general la formación en la empresa u organismo equiparado tendrá una duración mínima de 150 horas
 En régimen intensivo la formación en la empresa u organismo equiparado tendrá una duración mínima de 205 horas
 
-boc-a-2026-045-735
-Boletín Oficial de Canarias núm. 45 Viernes 6 de marzo de 20268356
-https://sede.gobiernodecanarias.org/boc
 ANEXO II
 FAMILIA PROFESIONAL: FABRICACIÓN MECÁNICA
 DISTRIBUCIÓN HORARIA Y ESTRUCTURA MODULAR DE LOS GRADOS C
@@ -630,7 +590,6 @@ semanales
 (33 semanas)
 0001 Procesos de mecanizado
 Código del certificado de competencia: FME_B_0001 142 6 4
-0003
 Fabricación por abrasión, electroerosión, corte y conformado y
 por procesos especiales
 Código del certificado de competencia: FME_B_0003
@@ -643,9 +602,6 @@ En régimen general la formación en la empresa u organismo equiparado tendrá u
 En régimen intensivo la formación en la empresa u organismo equiparado tendrá una duración mínima de 255 horas
 ANEXO II
 
-boc-a-2026-045-735
-Boletín Oficial de Canarias núm. 45 Viernes 6 de marzo de 20268357
-https://sede.gobiernodecanarias.org/boc
 Certificado  profesional:  Preparación  y  programación  de  máquinas  herramientas  en  fabricación 
 mecánica.
 • Código: FME_C_002_4B.
@@ -701,9 +657,6 @@ Duración 540 30 16
 En régimen general la formación en la empresa u organismo equiparado tendrá una duración mínima de 135 horas
 En régimen intensivo la formación en la empresa u organismo equiparado tendrá una duración mínima de 190 horas
 
-boc-a-2026-045-735
-Boletín Oficial de Canarias núm. 45 Viernes 6 de marzo de 20268358
-https://sede.gobiernodecanarias.org/boc
 Certificado profesional: Soldadura en atmósfera natural y protegida.
 • Código: FME_C_004_4B.
 • Título de Formación Profesional asociado: Técnico en Soldadura y Calderería.
@@ -750,9 +703,6 @@ Duración 395 24
 En régimen general la formación en la empresa u organismo equiparado tendrá una duración mínima de 100 horas
 En régimen intensivo la formación en empresa u organismo equiparado tendrá una duración mínima de 140 horas 
 
-boc-a-2026-045-735
-Boletín Oficial de Canarias núm. 45 Viernes 6 de marzo de 20268359
-https://sede.gobiernodecanarias.org/boc
 Certificado profesional: Programación y diseño de procesos de mecanizado, conformado y montaje.  
 • Código: FME_C_001_5B.
 • Título  de  Formación  Profesional  asociado:  Técnico  Superior  en  Programación  de  la
@@ -800,9 +750,6 @@ Duración 415 24
 En régimen general la formación en la empresa u organismo equiparado tendrá una duración mínima de 105 horas
 En régimen intensivo la formación en la empresa u organismo equiparado tendrá una duración mínima de 150 horas 
 
-boc-a-2026-045-735
-Boletín Oficial de Canarias núm. 45 Viernes 6 de marzo de 20268360
-https://sede.gobiernodecanarias.org/boc
 Certificado profesional: : Diseño de productos de construcciones metálicas.
 • Código: FME_C_003_5B.
 • Título de Formación Profesional asociado: Técnico Superior en Construcciones Metálicas.
@@ -846,9 +793,6 @@ Duración 480 28
 En régimen general la formación en la empresa u organismo equiparado tendrá una duración mínima de 120 horas
 En régimen intensivo la formación en empresa u organismo equiparado tendrá una duración mínima de 170 horas 
 
-boc-a-2026-045-735
-Boletín Oficial de Canarias núm. 45 Viernes 6 de marzo de 20268361
-https://sede.gobiernodecanarias.org/boc
 ANEXO III
 FAMILIA PROFESIONAL: SERVICIOS SOCIOCULTURALES Y A LA COMUNIDAD
 DISTRIBUCIÓN HORARIA Y ESTRUCTURA MODULAR DE LOS GRADOS C (CERTIFICADOS 
@@ -890,9 +834,6 @@ totales
 Código del certificado de competencia: SSC_B_1123 202
 ANEXO III
 
-boc-a-2026-045-735
-Boletín Oficial de Canarias núm. 45 Viernes 6 de marzo de 20268362
-https://sede.gobiernodecanarias.org/boc
 Certificado de competencia: SSC_B_1651. Tráfico, circulación de vehículos y transporte por carretera.
 • Código: SSC_B_1651.
 • Título de Formación Profesional asociado: Técnico Superior en Formación para la Movilidad
@@ -925,7 +866,6 @@ semanales
 Código del certificado de competencia: SSC_B_1686 170 7 5
 1687 Protocolo y ceremonias funerarias
 Código del certificado de competencia: SSC_B_1687 160 7 5
-1689
 Información y operaciones administrativas y de 
 contabilidad de servicios funerarios
 Código del certificado de competencia: SSC_B_1689
@@ -937,9 +877,6 @@ Duración 735 30 22
 En régimen general la formación en la empresa u organismo equiparado tendrá una duración mínima de 185 horas
 En régimen intensivo la formación en la empresa u organismo equiparado tendrá una duración mínima de 260 horas
 
-boc-a-2026-045-735
-Boletín Oficial de Canarias núm. 45 Viernes 6 de marzo de 20268363
-https://sede.gobiernodecanarias.org/boc
 Certificado profesional: Operaciones en servicios funerarios.
 • Código: SSC_C_002_4B
 • Títulos de Formación Profesional asociados: Técnico en Servicios Funerarios.
@@ -963,7 +900,6 @@ Código del certificado de competencia: SSC_B_1690 138 5 4
 Código del certificado de competencia: SSC_B_1691 236 10 7
 1692 Transporte, manipulación y exposición del féretro
 Código del certificado de competencia: SSC_B_1692 138 5 4
-1736
 Conducción y mantenimiento básico de vehículos 
 funerarios* (1)
 Código del certificado de competencia: SSC_B_1736
@@ -994,9 +930,6 @@ Criterios de evaluación:
 a) Se ha definido el contrato del seguro del automóvil (elementos de seguro, derecho del contrato de seguro,
 el siniestro, metodología aseguradora).
 
-boc-a-2026-045-735
-Boletín Oficial de Canarias núm. 45 Viernes 6 de marzo de 20268364
-https://sede.gobiernodecanarias.org/boc
 b) Se han definido los convenios de trasporte y derechos y deberes de las partes.
 c) Se han identificado los protocolos establecidos de trasporte funerario en los servicios funerarios.
 d) Se ha realizado y comprobado la documentación del servicio funerario.
@@ -1041,9 +974,6 @@ finalizado el servicio de transporte funerario.
 h) Se ha cumplimentado, en caso de accidente, el parte amistoso con los datos necesarios (nombre del
 conductor/a y asegurado/a, marca, modelo y matrícula del vehículo, n.º de póliza y compañía aseguradora,  
 
-boc-a-2026-045-735
-Boletín Oficial de Canarias núm. 45 Viernes 6 de marzo de 20268365
-https://sede.gobiernodecanarias.org/boc
 croquis del accidente precisando situación, dirección de los vehículos, entre otros), tanto del vehículo propio  
 y del contrario.
 i) Se ha informado del parte de accidentes y solicitado instrucciones a la persona responsable.
@@ -1088,9 +1018,6 @@ del vehículo funerario.
 c) Se ha realizado el mantenimiento preventivo de un vehículo de transporte funerario: motor, sistema de
 refrigeración, sistema de lubricación y sistema de alimentación, entre otros.
 
-boc-a-2026-045-735
-Boletín Oficial de Canarias núm. 45 Viernes 6 de marzo de 20268366
-https://sede.gobiernodecanarias.org/boc
 d) Se han identificado los avisos, las alarmas y averías que comunica el vehículo, su nivel de importancia y
 la relación con sus posibles causas.
 e) Se han descrito las operaciones de reposición de niveles de los vehículos (sistema de depuración de gases
@@ -1132,9 +1059,6 @@ g) Se ha efectuado la solicitud de la asistencia técnica del vehículo de trans
 protocolos de la empresa para la retirada, sustitución y reparación del vehículo de transporte funerario  
 averiado.
 
-boc-a-2026-045-735
-Boletín Oficial de Canarias núm. 45 Viernes 6 de marzo de 20268367
-https://sede.gobiernodecanarias.org/boc
 Certificado  profesional:  Educador o educadora en instituciones  y/o en  programas  específicos  de 
 trabajo con menores (0-6 años) en situación de riesgo social o en medios de apoyo familiar.
 • Código: SSC_C_001_5B.
@@ -1191,9 +1115,6 @@ Duración 570 30 17
 En régimen general la formación en la empresa u organismo equiparado tendrá una duración mínima de 145 horas
 En régimen intensivo la formación en la empresa u organismo equiparado tendrá una duración mínima de 200 horas
 
-boc-a-2026-045-735
-Boletín Oficial de Canarias núm. 45 Viernes 6 de marzo de 20268368
-https://sede.gobiernodecanarias.org/boc
 Certificado profesional:  Animación y dinamización en el ámbito turístico.
 • Código: SSC_C_003_5B.
 • Título de Formación Profesional asociado:  Técnico Superior en Animación Sociocultural y
@@ -1247,9 +1168,6 @@ Código del certificado de competencia: SSC_B_1129 173 5
 1130 Intervención socioeducativa con jóvenes
 Código del certificado de competencia: SSC_B_1130 173 5
 
-boc-a-2026-045-735
-Boletín Oficial de Canarias núm. 45 Viernes 6 de marzo de 20268369
-https://sede.gobiernodecanarias.org/boc
 1782 Prevención de riesgos laborales 30 1
 Duración 1015 30
 En régimen general la formación en la empresa u organismo equiparado tendrá una duración mínima de  255 horas
@@ -1314,9 +1232,6 @@ Horas
 semanales
 (33 semanas)
 
-boc-a-2026-045-735
-Boletín Oficial de Canarias núm. 45 Viernes 6 de marzo de 20268370
-https://sede.gobiernodecanarias.org/boc
 0344 Metodología de la intervención social
 Código del certificado de competencia: SSC_B_0344 138 5 4
 1782 Prevención de riesgos laborales 30 2 1
@@ -1385,9 +1300,6 @@ Horas
 semanales
 (33 semanas)
 
-boc-a-2026-045-735
-Boletín Oficial de Canarias núm. 45 Viernes 6 de marzo de 20268371
-https://sede.gobiernodecanarias.org/boc
 1782 Prevención de riesgos laborales 30 2 1
 Duración 675 30 20
 En régimen general la formación en la empresa u organismo equiparado tendrá una duración mínima de 170 horas
@@ -1452,9 +1364,6 @@ Horas
 semanales
 (33 semanas)
 
-boc-a-2026-045-735
-Boletín Oficial de Canarias núm. 45 Viernes 6 de marzo de 20268372
-https://sede.gobiernodecanarias.org/boc
 1402 Prevención de la violencia de género
 Código del certificado de competencia: SSC_B_1402 204 8 6
 1406 Intervención socioeducativa para la igualdad 203 8 6
@@ -1477,7 +1386,6 @@ semanales
 Horas
 semanales
 (33 semanas)
-1111
 Metodología de la integración social de las personas con
 dificultades de comunicación, lenguaje y habla
 Código del certificado de competencia: SSC_B_1111
@@ -1510,7 +1418,6 @@ semanales
 (33 semanas)
 1113 Intervención socioeducativa con personas sordociegas
 Código del certificado de competencia: SSC_B_1113 142 4
-1114
 Contexto de la mediación comunicativa con personas 
 sordociegas
 Código del certificado de competencia: SSC_B_1114
@@ -1529,9 +1436,6 @@ semanales
 (33 semanas)
 Código del certificado de competencia: SSC_B_1115
 
-boc-a-2026-045-735
-Boletín Oficial de Canarias núm. 45 Viernes 6 de marzo de 20268373
-https://sede.gobiernodecanarias.org/boc
 1116 Ámbitos de aplicación de la lengua de signos
 Código del certificado de competencia: SSC_B_1116 270 8
 1117 Intervención con personas con dificultades de 
@@ -1592,9 +1496,6 @@ Horas
 semanales
 (33 semanas)
 
-boc-a-2026-045-735
-Boletín Oficial de Canarias núm. 45 Viernes 6 de marzo de 20268374
-https://sede.gobiernodecanarias.org/boc
 1782 Prevención de riesgos laborales 30 3 2
 Duración 375 30 22
 En régimen general la formación en la empresa u organismo equiparado tendrá una duración mínima de 95 horas
@@ -1646,9 +1547,6 @@ Horas
 semanales
 (17 semanas)
 
-boc-a-2026-045-735
-Boletín Oficial de Canarias núm. 45 Viernes 6 de marzo de 20268375
-https://sede.gobiernodecanarias.org/boc
 Certificado profesional: Certificado de aptitud de profesor de formación vial.
 • Código: SSC_C_016_5B.
 • Títulos de Formación Profesional asociados: Técnico Superior en Formación para la Movilidad
@@ -1686,9 +1584,6 @@ conducción que deberán ser impartidos necesariamente de forma presencial. (Dis
 distancia de este título. Real Decreto 174/2021, de 23 de marzo, por el que se establece el título de Técnico Superior  
 en Formación para la movilidad segura y sostenible y se fijan los aspectos básicos del currículo).
 
-boc-a-2026-045-735
-Boletín Oficial de Canarias núm. 45 Viernes 6 de marzo de 20268376
-https://sede.gobiernodecanarias.org/boc
 Certificado profesional: Atención sociosanitaria a personas dependientes en instituciones sociales.
 • Código: SSCS0208 (Real Decreto 1379/2008, de 1 de agosto).
 • Nivel: 2.
@@ -1735,9 +1630,6 @@ en función de los distintos criterios establecidos en la normativa sobre preven
 determinado las formas de representación de las personas trabajadoras en la empresa u organismo equiparado 
 en materia de prevención de riesgos.
 
-boc-a-2026-045-735
-Boletín Oficial de Canarias núm. 45 Viernes 6 de marzo de 20268377
-https://sede.gobiernodecanarias.org/boc
 g) Se  ha  valorado  la  importancia  de  la  existencia  de  un  plan  preventivo  en  la  empresa  u  organismo
 equiparado que incluya la secuenciación de actuaciones a realizar en caso de emergencia y reflexionado  
 sobre el contenido del mismo.

@@ -30,6 +30,7 @@ fundamentos_derecho:
   articulos:
   - '22'
 ---
+
 # Resolución de 24 de julio de 2025, de la Secretaría de Estado de Educación, por la que se dictan instrucciones relativas al programa de doble titulación Bachiller-Baccalauréat correspondientes al curso 2025-2026.
 
 El Real Decreto 102/2010, de 5 de febrero, por el que se regula la ordenación de las enseñanzas acogidas al acuerdo entre el Gobierno de España y el Gobierno de Francia relativo a la doble titulación de Bachiller y de Baccalauréat en centros docentes españoles, establece las enseñanzas conducentes a la obtención de la doble titulación de Bachiller, del sistema educativo español, y de Baccalauréat, del sistema educativo francés, impartidas en centros docentes españoles, en virtud del Acuerdo Marco firmado con fecha 16 de mayo de 2005 entre el Gobierno del Reino de España y el Gobierno de la República Francesa, relativo a programas educativos, lingüísticos y culturales en centros escolares de los dos Estados, desarrollado por el Acuerdo de doble titulación firmado en París el 10 de enero de 2008 entre el Gobierno del Reino de España y el Gobierno de la República Francesa.
@@ -44,18 +45,15 @@ En virtud de lo anterior,
 
 Esta Secretaría de Estado resuelve:
 
-
 #### Primero. Adscripción de nuevos centros al programa Bachibac.
 
 Las administraciones educativas remitirán a la Subdirección General de Ordenación Académica del Ministerio de Educación, Formación Profesional y Deportes la relación de los centros que se incorporen al programa Bachibac o abandonen dicho programa en el año académico 2025-2026.
 
 Asimismo, con el fin de poder proporcionar información a la administración francesa, facilitarán, antes del 31 de octubre de 2025, los datos sobre alumnado, centros y materias que se solicitan en el modelo de ficha que aparece como anexo I.
 
-
 #### Segundo. Profesorado.
 
 De acuerdo con la disposición adicional quinta del Real Decreto 1834/2008, de 8 de noviembre, por el que se definen las condiciones de formación para el ejercicio de la docencia en la educación secundaria obligatoria, el Bachillerato, la formación profesional y las enseñanzas de régimen especial y se establecen las especialidades de los cuerpos docentes de enseñanza secundaria, las administraciones educativas regularán los requisitos de formación añadidos que se exigirán al profesorado para impartir en francés una materia distinta a la de Lengua y Literatura Francesas en centros públicos o privados incorporados al programa Bachibac. Entre estos requisitos deberá incluirse la acreditación de un dominio de competencia en lengua francesa equivalente, al menos, al nivel B2 del Marco Común Europeo de Referencia para las Lenguas.
-
 
 #### Tercero. Organización y desarrollo de la prueba externa para la obtención del Diploma de Baccalauréat.
 
@@ -95,7 +93,6 @@ En el caso de que, sin motivo justificado, algún alumno o alumna no se presenta
 
 De acuerdo con lo establecido en el artículo 8 de la citada orden, la calificación final para la obtención del Diploma de Baccalauréat será el resultado de aplicar la siguiente fórmula:
 
-
 **Calificación de Baccalauréat = (NMB * 0,7) + (CGPE * 0,3)**
 
 NMB = Nota media del Bachillerato.
@@ -104,13 +101,11 @@ CGPE = Calificación global de la prueba externa.
 
 La nota obtenida de dicha ponderación se expresará en forma numérica de 0 a 10 puntos, con dos decimales, redondeada a la centésima más próxima y, en caso de equidistancia, a la superior.
 
-
 #### Cuarto. Composición de la Comisión Técnica para el curso 2025-2026.
 
 1. La Comisión Técnica del programa Bachibac, prevista en el artículo 9.2 del Real Decreto 102/2010, de 5 de febrero, por el que se regula la ordenación de las enseñanzas acogidas al acuerdo entre el Gobierno de España y el Gobierno de Francia relativo a la doble titulación de Bachiller y de Baccalauréat en centros docentes españoles, y definida en sus funciones de acuerdo con el artículo 4.2 de la Orden EDU/2157/2010, de 30 de julio, será la encargada de preparar, previo acuerdo con la parte francesa, todo lo relativo a la prueba externa.
 
 2. La Comisión Técnica estará compuesta por tres representantes del Ministerio de Educación, Formación Profesional y Deportes, y tres representantes de las comunidades autónomas en las que se imparte el programa. La representación del Ministerio recaerá en las personas titulares de las Subdirecciones Generales de Ordenación Académica, de Inspección de Educación, y de Cooperación Territorial e Innovación Educativa. Los tres representantes de las comunidades autónomas rotarán, con carácter bienal, garantizando que haya siempre representación de, al menos, una comunidad con experiencia en la realización de la prueba externa. Para el curso 2025-2026, dicha representación recaerá en la Comunidad Autónoma de Cantabria, la Comunidad Autónoma de Canarias y la Comunidad Foral de Navarra.
-
 
 #### Quinto. Fechas y condiciones de celebración de la prueba externa.
 
@@ -128,7 +123,6 @@ Segunda parte del ejercicio: 12:00-14:00.
 
 4. Las administraciones educativas determinarán las medidas necesarias para que las condiciones de realización de las pruebas aseguren la igualdad de oportunidades, la no discriminación del alumnado con necesidad específica de apoyo educativo y la accesibilidad universal. La determinación de dichas medidas se realizará teniendo en cuenta las adaptaciones que se hubieran aplicado al alumno o alumna durante la etapa de Bachillerato, para lo cual se podrán requerir informes, pautas de actuación sobre diferentes necesidades específicas de apoyo educativo y la colaboración de los órganos técnicos competentes de las administraciones educativas, así como de los centros donde hubiera cursado dicha etapa.
 
-
 #### Sexto. Elaboración de los ejercicios para la prueba externa de Baccalauréat.
 
 1. Antes del 1 de octubre de 2025, la Subdirección General de Ordenación Académica del Ministerio de Educación, Formación Profesional y Deportes enviará a las administraciones educativas de las comunidades autónomas el calendario y las instrucciones para la elaboración colaborativa de propuestas de modelos de prueba, junto con toda la documentación necesaria para orientar los trabajos. A fin de garantizar el cumplimiento de lo previsto en el artículo 4.2 de la Orden EDU/2157/2010, de 30 de julio, como parte de este proceso, los modelos de prueba elaborados en el seno de la Comisión Técnica serán intercambiados con la administración francesa, para su conocimiento y aportaciones, en su caso.
@@ -137,7 +131,6 @@ Segunda parte del ejercicio: 12:00-14:00.
 
 3. Una vez finalizada la prueba, se publicarán los ejercicios correspondientes a la convocatoria 2026.
 
-
 #### Séptimo. Actas de evaluación de la prueba externa.
 
 1. Las administraciones educativas elaborarán un modelo de acta para la prueba externa que permita la inclusión de las calificaciones de cada uno de los ejercicios y que se ajustará al contenido del modelo establecido en el anexo III.
@@ -145,7 +138,6 @@ Segunda parte del ejercicio: 12:00-14:00.
 2. El tribunal examinador de la prueba externa de Baccalauréat cumplimentará una única acta para cada centro según el anexo citado en el apartado anterior.
 
 3. Los centros educativos y, en su caso, los Institutos de Educación Secundaria a los que estén adscritos, serán los encargados de la guarda y custodia de las actas de su alumnado.
-
 
 #### Octavo. Emisión de certificaciones y tramitación del Diploma de Baccalauréat.
 
@@ -165,27 +157,21 @@ Segunda parte del ejercicio: 12:00-14:00.
 
 8. De acuerdo con lo establecido en el artículo 10 de la Orden EDU/2157/2010, de 30 de julio, las administraciones educativas asegurarán que tanto en el expediente académico como en el historial académico de Bachillerato del alumnado se recoja, mediante diligencia, según el modelo incluido en el anexo II de la citada orden, que el alumno o alumna ha superado las enseñanzas del currículo mixto y que ha alcanzado en la lengua francesa el nivel B2 del Marco Común Europeo de Referencia para las Lenguas. Asimismo, en las actas de evaluación de Bachillerato se hará constar, en su caso, la referencia expresa al Real Decreto 102/2010, de 5 de febrero, que regula las enseñanzas del currículo integrado.
 
-
 #### Noveno. Tema de estudio de Lengua y Literatura Francesas para las pruebas de Baccalauréat.
 
 1. El tema de estudio sobre el que versará la segunda parte del ejercicio escrito de la prueba externa de Lengua y Literatura Francesas correspondiente a la convocatoria 2026 será «Les préjugés et les apparences». Las dos obras literarias a través de las cuales se estudiará dicho tema serán Monsieur Ibrahim et les fleurs du Coran, de Éric-Emmanuel Schmitt, y La Vie devant soi, de Romain Gary.
 
 2. El tema de estudio correspondiente a las convocatorias 2027 y 2028 será «L'identité». Las dos obras literarias a través de las cuales se estudiará dicho tema serán La Place, de Annie Ernaux, y Stupeurs et tremblements, de Amélie Nothomb.
 
-
 #### Décimo. Supervisión del funcionamiento del programa.
 
 En virtud de lo establecido en el artículo 5 del Acuerdo relativo a la doble titulación de Bachiller y de Baccalauréat, de 10 de enero de 2008, las inspecciones educativas francesa y española podrán supervisar el funcionamiento de este programa en los centros en que esté implantado.
-
 
 #### Undécimo. Aplicación.
 
 La Directora General de Evaluación y Cooperación Territorial podrá dictar las instrucciones necesarias para la aplicación de la presente resolución.
 
-
 #### Duodécimo. Entrada en vigor.
-
-Esta resolución entrará en vigor el día siguiente al de su publicación en el «Boletín Oficial del Estado».
 
 Madrid, 24 de julio de 2025.–El Secretario de Estado de Educación, Abelardo de la Rosa Díaz.
 
@@ -195,13 +181,11 @@ Datos sobre alumnado, centros y materias
 
 Programa de doble titulación Bachiller-Baccalauréat
 
-
 **Curso académico: 2025-2026**
 
 Administración educativa:
 
 Número total de centros:
-
 
 **Relación ordenada por provincia, localidad, centro**
 
@@ -221,12 +205,9 @@ MNL2:............................................
 
 MNL3:............................................
 
-
 ** ……………………, ………. de ………………………… de 2025**
 
-
 **Firma y sello**
-
 
 **Fdo.: (nombre de la persona titular de la unidad responsable)**
 

@@ -33,6 +33,7 @@ fundamentos_derecho:
   articulos:
   - '22'
 ---
+
 # Orden ECD/454/2002, de 22 de febrero, por la que se establecen los elementos básicos de los informes de evaluación de las enseñanzas que conducentes a la obtención de titulaciones de técnicos deportivos reguladas por el Real Decreto 1913/1997, de 19 de diciembre, así como los requisitos formales derivados del proceso de evaluación que son necesarios para garantizar la movilidad de los alumnos.
 
 De conformidad con la habilitación que el artículo 3.4 de la Ley Orgánica 1/1990, de 3 de octubre, de Ordenación General del Sistema Educativo, confiere al Gobierno, y en desarrollo del articulo 55 de la Ley 10/1990, de 15 de octubre, del Deporte, se dictó el Real Decreto 1913/1997, de 19 de diciembre, que otorga la consideración de Enseñanzas de Régimen Especial a aquellas que conducen a la obtención de los títulos de técnicos deportivos.
@@ -43,14 +44,11 @@ Por todo ello, resulta ahora preciso proceder a dicha determinación para asegur
 
 En consecuencia, previo informe de los órganos competentes de las Comunidades Autónomas y del Consejo Escolar del Estado, he tenido a bien disponer:
 
-
 **[precepto]I. Disposiciones generales**
-
 
 #### [precepto]Primero. Objeto de la Orden.
 
 Es objeto de la presente Orden establecer los elementos básicos de los informes de evaluación correspondientes a los Grados Medio y Superior de las enseñanzas de técnicos deportivos, así como los requisitos formales derivados del proceso de evaluación que son precisos para garantizar la movilidad de los alumnos, de conformidad con el artículo 24 del Real Decreto 1913/1997, de 19 de diciembre.
-
 
 #### [precepto]Segundo. Documentos de la evaluación.
 
@@ -58,11 +56,9 @@ Es objeto de la presente Orden establecer los elementos básicos de los informes
 
 2. De ellos, tienen la condición de básicos a fin de garantizar la movilidad académica y territorial de los alumnos, la Certificación Académica Oficial y el informe de evaluación individualizado.
 
-
 #### [precepto]Tercero. Custodia y archivo de los expedientes y actas.
 
 La custodia y archivo de los expedientes y las actas de evaluación corresponde a los centros y se realizará en la forma que determinen las Administraciones competentes en cada caso.
-
 
 #### [precepto]Cuarto. Referencias comunes a todos los documentos básicos.
 
@@ -74,14 +70,11 @@ Todos los documentos básicos para el registro de la evaluación citarán en lug
 
 3. La norma que autoriza el centro que expide el documento.
 
-
 **[precepto]II. Características de la evaluación**
-
 
 #### [precepto]Quinto. El modelo de evaluación.
 
 De acuerdo con lo dispuesto en el artículo 23.1 del Real Decreto 1913/1997, de 19 de diciembre, la evaluación del aprendizaje del alumnado, en cada uno de los Grados, se realizará por módulos formativos considerando los objetivos y los criterios de evaluación establecidos en el currículo para cada módulo, así como la madurez académica de los alumnos en relación con las competencias que se establezcan en las correspondientes enseñanzas mínimas.
-
 
 #### [precepto]Sexto. Aplicación del proceso de evaluación.
 
@@ -101,13 +94,11 @@ c) El Proyecto final del currículo del Grado Superior.
 
 5. Los referentes de la evaluación serán los objetivos comunes a las enseñanzas de técnicos deportivos, los objetivos generales de cada nivel y Grado y los propios de los módulos, así como los criterios de evaluación establecidos en los respectivos Reales Decretos reguladores del currículo de cada modalidad o especialidad deportiva.
 
-
 #### [precepto]Séptimo. Convocatorias por curso académico.
 
 1. En un mismo curso académico habrá dos convocatorias para evaluar a los alumnos.
 
 2. La primera de las dos convocatorias tendrá carácter ordinario y se realizará al finalizar el periodo lectivo. La segunda convocatoria, de carácter extraordinario, deberá realizarse en un plazo no inferior a un mes, ni superior a tres meses a partir de la finalización de la convocatoria ordinaria. Este plazo podrá modificarse en el caso de las modalidades y especialidades deportivas que estén afectadas por la estacionalidad y se realicen en la naturaleza.
-
 
 #### [precepto]Octavo. Convocatorias para superar las enseñanzas y el Proyecto final.
 
@@ -115,11 +106,9 @@ c) El Proyecto final del currículo del Grado Superior.
 
 2. En el caso de agotar las seis convocatorias a las que se refiere el punto 1 anterior, si el alumno desea completar sus estudios, dispondrá de una sola oportunidad para superar la materia en cuestión, ante un tribunal designado por el órgano competente de la Comunidad Autónoma, previo informe del centro.
 
-
 #### [precepto]Noveno. Anulación de matrícula o de convocatoria.
 
 Los órganos correspondientes de las Comunidades Autónomas establecerán, en el territorio de sus respectivas competencias, los requisitos y condiciones para que los alumnos puedan solicitar la anulación de matrícula y la anulación de convocatoria.
-
 
 #### [precepto]Décimo. Expresión de los resultados de la evaluación.
 
@@ -129,23 +118,19 @@ Los resultados de la evaluación se expresarán en términos de calificaciones c
 
 2. El bloque de formación práctica será calificado en su conjunto en términos de «Apto/No Apto».
 
-
 #### [precepto]Undécimo. Información sobre la evaluación.
 
 1. Los resultados de la evaluación se recogerán en la correspondiente acta de evaluación que comprenderá, ordenada alfabéticamente, la relación nominal de los alumnos que componen el grupo, con expresión del número de documento nacional de identidad y de la nota obtenida por cada alumno, expresada conforme a lo establecido en el apartado décimo de la presente Orden.
 
 2. Toda la información relativa al proceso de evaluación se recogerá de manera sintética en el expediente académico del alumno, junto con los datos de identificación del centro y los datos personales del alumno, los datos referidos al acceso, el número y fecha de matrícula, las medidas de adaptación y los resultados de la evaluación.
 
-
 **[precepto]III. Superación de las enseñanzas**
-
 
 #### [precepto]Duodécimo. Superación de los Grados.
 
 1. La superación del Grado Medio exigirá la superación de la totalidad de los módulos que conforman los bloques común, específico, complementario y de formación práctica, tanto del nivel primero como del nivel segundo.
 
 2. La superación del Grado Superior exigirá la superación de la totalidad de los módulos que conforman los bloques común, específico y complementario, el bloque de formación práctica y el Proyecto final.
-
 
 #### [precepto]Decimotercero. Notas finales.
 
@@ -159,16 +144,13 @@ El valor de las calificaciones obtenidas en los referidos módulos del Grado Sup
 
 4. Se asignará la nota final del primer nivel siguiendo el procedimiento señalado en el punto 1 de este apartado.
 
-
 #### [precepto]Decimocuarto. Certificado de Superación del Primer Nivel.
 
 1. En aplicación de lo dispuesto en el artículo 26.3 del Real Decreto 1913/1997, una vez superadas las enseñanzas del Primer Nivel, previa solicitud de los interesados, los centros expedirán el correspondiente certificado cuyo contenido se ajustará al anexo I y tendrá como mínimo, los siguientes datos: El nombre, apellidos y número del documento nacional de identidad del interesado, la nota final del nivel alcanzada, el detalle del currículo y la carga lectiva superada.
 
 2. El documento se expedirá por el centro de formación bajo la denominación de «Certificado de Superación del Primer Nivel», en el papel soporte que será editado por las Administraciones competentes, con el formato y características mínimas que se especifican en el anexo II de esta Orden y contendrá la clave identificativa, a la que se refiere la disposición adicional de la presente Orden.
 
-
 **[precepto]IV. Documentos básicos de la evaluación**
-
 
 #### [precepto]Decimoquinto. La Certificación Académica Oficial.
 
@@ -177,7 +159,6 @@ El valor de las calificaciones obtenidas en los referidos módulos del Grado Sup
 2. Corresponde a los centros expedir la certificación, utilizando para ello el papel editado por las Administraciones competentes cuyo formato y las características mínimas se ajustarán a lo que se expresa en el anexo II de esta Orden.
 
 3. La estructura gráfica seguirá el modelo que figura en el anexo III de la presente Orden y contendrá la clave identificativa, a la que se refiere la disposición adicional de esta Orden.
-
 
 #### [precepto]Decimosexto. El Informe de Evaluación Individualizado.
 
@@ -191,19 +172,15 @@ b) Apreciación del grado de asimilación y consecución de los contenidos.
 
 c) Calificaciones parciales y, en su caso, las calificaciones finales de los módulos que hayan sido impartidos y evaluados.
 
-
 #### [precepto]Decimoséptimo. Expedición de los documentos en las correspondientes lenguas oficiales.
 
 En las Comunidades Autónomas cuyas lenguas tengan estatutariamente atribuido carácter oficial, el uso de esta en la redacción de los documentos básicos de la evaluación establecidos en la presente Orden, se ajustará a lo dispuesto en el artículo 36 de la Ley de Régimen Jurídico de las Administraciones Públicas y del Procedimiento Administrativo Común, según la Ley 4/1999, de 13 de enero.
-
 
 #### [precepto]Decimoctavo. Firma de los documentos de evaluación.
 
 Todos los documentos de evaluación llevarán la firma del Director y del Secretario del Centro y debajo de ellas constará el nombre y apellidos del firmante.
 
-
 **[precepto]V. Traslados de un centro a otro**
-
 
 #### [precepto]Decimonoveno. Condiciones.
 
@@ -214,7 +191,6 @@ a) Iniciar las enseñanzas del Segundo Nivel del Grado Medio o las enseñanzas d
 b) Continuar las enseñanzas ya iniciadas en cualquiera de los dos niveles del Grado Medio o en el Grado Superior, siempre que el interesado tenga superado algún bloque del nivel o Grado que se desee continuar.
 
 2. Una vez superados los bloques común, específico y complementario, no podrá autorizarse el traslado a otro centro, para cursar exclusivamente el bloque de formación práctica y, en su caso, el Proyecto final.
-
 
 #### [precepto]Vigésimo. Actuaciones.
 
@@ -232,9 +208,7 @@ b) Continuar las enseñanzas ya iniciadas en cualquiera de los dos niveles del G
 
 7. Cuando excepcionalmente se realice el traslado de un centro a otro sin haber concluido el curso, la Certificación Académica Oficial se acompañará de un Informe de Evaluación Individualizado. A su vez, el centro receptor incorporará al expediente los datos contenidos en el informe relativos a las posibles medidas de adaptación, y pondrá el referido informe a disposición del profesorado que corresponda.
 
-
 **[precepto]VI. Disposición adicional**
-
 
 #### [precepto]Única. Clave identificativa de los certificados.
 
@@ -244,9 +218,7 @@ b) Continuar las enseñanzas ya iniciadas en cualquiera de los dos niveles del G
 
 3. El Ministerio de Educación, Cultura y Deporte determinará y dará a conocer a los órganos competentes de las Comunidades Autónomas, los elementos que representen las especialidades deportivas de los títulos que establezcan los sucesivos Reales Decretos, conforme a lo dispuesto en el artículo 14 del Real Decreto 1913/1997, de 19 de diciembre.
 
-
 **[precepto]VII. Disposiciones finales**
-
 
 #### [precepto]Primera. Ámbito de aplicación.
 
@@ -254,20 +226,15 @@ b) Continuar las enseñanzas ya iniciadas en cualquiera de los dos niveles del G
 
 2. Esta Orden se aplicará asimismo a la evaluación de las enseñanzas conducentes a la obtención de los títulos de técnicos deportivos que se establezcan de conformidad con lo previsto en el artículo 14 del mencionado Real Decreto 1913/1997, de 19 de diciembre.
 
-
 #### [precepto]Segunda. Instrucciones para la aplicación de lo dispuesto en la presente Orden.
 
 La Secretaría General de Educación y Formación Profesional del Ministerio de Educación, Cultura y Deporte, y los órganos de las Comunidades Autónomas, en el ámbito de sus respectivas competencias, dictarán las instrucciones precisas para la correcta aplicación de lo que se dispone en la presente Orden.
-
 
 #### [precepto]Tercera. Régimen jurídico aplicable.
 
 En todos los procedimientos a los que se refiere la presente Orden, se estará a lo dispuesto en la Ley 30/1992, de 26 de noviembre, de Régimen Jurídico de las Administraciones Públicas y del Procedimiento Administrativo Común, modificada por la Ley 4/1999, de 13 de enero.
 
-
 #### [precepto]Cuarta. Entrada en vigor.
-
-La presente Orden entrará en vigor el día siguiente al de su publicación en el «Boletín Oficial del Estado».
 
 Madrid, 22 de febrero de 2002.
 

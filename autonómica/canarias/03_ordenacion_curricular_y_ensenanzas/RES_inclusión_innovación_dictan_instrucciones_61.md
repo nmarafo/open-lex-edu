@@ -32,9 +32,6 @@ fuente_pdf_oficial: https://sede.gobiernodecanarias.org/boc/boc-a-2026-060-1011.
 
 # Resolución de la Dirección General de Ordenación de las Enseñanzas, Inclusión e Innovación, por la que se dictan instrucciones para regular la implantación, con carácter de experiencia piloto, del Programa del Diploma del Bachillerato Internacional en centros educativos públicos de la Comunidad Autónoma de Canarias, durante el curso 2026-2027. Presentación de solicitudes de participación del alumnado por vía telemática: del 20 de abril al 11 de mayo (BOC nº 60, de 27 de marzo).
 
-https://sede.gobiernodecanarias.org/boc
-boc-a-2026-060-1011
-Boletín Oficial de Canarias núm. 60 Viernes 27 de marzo de 202612022
 III. Otras Resoluciones
 Consejería de Educación, Formación Profesional, Actividad Física y Deportes
 1011 Dirección General de Ordenación de las Enseñanzas, Inclusión e Innovación.- 
@@ -77,9 +74,6 @@ vigente en la Comunidad Autónoma de Canarias. El Programa del Diploma contribuy
 al enriquecimiento de la formación del alumnado mediante un enfoque de profundización 
 y mayor exigencia académica, con énfasis en la indagación y el pensamiento crítico, la 
 
-https://sede.gobiernodecanarias.org/boc
-boc-a-2026-060-1011
-Boletín Oficial de Canarias núm. 60 Viernes 27 de marzo de 202612023
 mentalidad internacional, la comunicación en varias lenguas y el compromiso personal y 
 social, favoreciendo su preparación para la continuidad de estudios y la vida académica.
 Sexto.- Durante el mes de julio de 2025, la Dirección General de Ordenación de las 
@@ -121,9 +115,6 @@ de Bachillerato. En virtud de este marco, la Comunidad Autónoma puede desarroll
 organización de las enseñanzas, sin perjuicio de la normativa específica aplicable al acceso 
 y admisión del alumnado en centros sostenidos con fondos públicos.
 
-https://sede.gobiernodecanarias.org/boc
-boc-a-2026-060-1011
-Boletín Oficial de Canarias núm. 60 Viernes 27 de marzo de 202612024
 Tercero.- La Ley 6/2014, de 25 de julio, Canaria de Educación, establece en su 
 artículo 1 como objetivo hacer efectivo el derecho a una educación de calidad, inclusiva 
 e integradora, garantizando la equidad y la excelencia. En consecuencia, el impulso de 
@@ -171,9 +162,6 @@ inclusivo. En consecuencia, el procedimiento previsto deberá aplicarse garantiz
 igualdad de oportunidades, la equidad y la respuesta educativa adecuada a las necesidades 
 del alumnado.
 
-https://sede.gobiernodecanarias.org/boc
-boc-a-2026-060-1011
-Boletín Oficial de Canarias núm. 60 Viernes 27 de marzo de 202612025
 Undécimo.- La normativa vigente en la Comunidad Autónoma de Canarias que regula 
 el procedimiento ordinario de admisión del alumnado en Bachillerato en centros educativos 
 sostenidos con fondos públicos constituye el marco de referencia con el que debe coordinarse 
@@ -206,9 +194,6 @@ Administraciones Públicas.
 Las Palmas de Gran Canaria, a 13 de marzo de 2026.- El Director General de Ordenación 
 de las Enseñanzas, Inclusión e Innovación, David Pablos González.
 
-https://sede.gobiernodecanarias.org/boc
-boc-a-2026-060-1011
-Boletín Oficial de Canarias núm. 60 Viernes 27 de marzo de 202612026
 ANEXO I
 INSTRUCCIONES PARA REGULAR LA IMPLANTACIÓN DEL PROGRAMA DEL 
 DIPLOMA DEL BACHILLERATO INTERNACIONAL EN CENTROS EDUCATIVOS 
@@ -248,9 +233,6 @@ Nombre Código Isla
 IES El Rincón 35009577 Gran Canaria
 IES El Sobradillo 38010839 Tenerife
 
-https://sede.gobiernodecanarias.org/boc
-boc-a-2026-060-1011
-Boletín Oficial de Canarias núm. 60 Viernes 27 de marzo de 202612027
 Cuarta.- Profesorado participante en el Programa del Diploma.
 1. El Programa del Diploma del Bachillerato Internacional exige una organización 
 docente específica y estable, basada en coordinaciones internas que garanticen el 
@@ -289,9 +271,6 @@ Se establecen las siguientes coordinaciones específicas para el desarrollo del 
 CAS): profesorado responsable 
 de planificar, coordinar, supervisar y verificar el cumplimiento del componente CAS, 
 
-https://sede.gobiernodecanarias.org/boc
-boc-a-2026-060-1011
-Boletín Oficial de Canarias núm. 60 Viernes 27 de marzo de 202612028
 incluyendo el seguimiento, las evidencias y la evaluación del alumnado, así como la 
 coordinación con agentes internos y externos cuando proceda.
 2. Coordinación de Monografía: profesorado responsable de planificar y coordinar 
@@ -325,9 +304,6 @@ Novena.- Medidas organizativas de coordinación del profesorado.
 centros educativos participantes asegurarán, como mínimo, las siguientes medidas de 
 coordinación docente:
 
-https://sede.gobiernodecanarias.org/boc
-boc-a-2026-060-1011
-Boletín Oficial de Canarias núm. 60 Viernes 27 de marzo de 202612029
 Cargo / Función Descuento lectivo
 Persona coordinadora del PD 10 sesiones lectivas
 Profesorado participante en el PD 2 sesiones lectivas
@@ -339,9 +315,6 @@ monografías supervisadas
 perjuicio de otras medidas organizativas que, en su caso, determine la DGOEII para asegurar 
 la correcta implantación del Programa del Diploma en los centros participantes.
 
-https://sede.gobiernodecanarias.org/boc
-boc-a-2026-060-1011
-Boletín Oficial de Canarias núm. 60 Viernes 27 de marzo de 202612030
 ANEXO II
 INSTRUCCIONES PARA LA PARTICIPACIÓN DEL ALUMNADO EN EL PROGRAMA 
 DEL DIPLOMA DEL BACHILLERATO INTERNACIONAL
@@ -382,9 +355,6 @@ a) La nota media se calculará a partir de las calificaciones finales de las mat
 cursadas, conforme al procedimiento establecido para la admisión a las enseñanzas de 
 Bachillerato en centros sostenidos con fondos públicos.
 
-https://sede.gobiernodecanarias.org/boc
-boc-a-2026-060-1011
-Boletín Oficial de Canarias núm. 60 Viernes 27 de marzo de 202612031
 b) Cuando para el cálculo de la nota media sea necesario convertir calificaciones 
 cualitativas a cuantitativas, se aplicarán las equivalencias y los criterios establecidos en las 
 instrucciones vigentes de la Comunidad Autónoma de Canarias para el cálculo de la nota 
@@ -423,9 +393,6 @@ a) Certificación idiomática del alumnado, a efectos del criterio de desempate 
 en la instrucción sexta del presente anexo, conforme a la Orden de 25 de noviembre de 
 2022, por la que se actualizan los títulos y certificados establecidos en el Anexo I de la 
 
-https://sede.gobiernodecanarias.org/boc
-boc-a-2026-060-1011
-Boletín Oficial de Canarias núm. 60 Viernes 27 de marzo de 202612032
 Orden de 21 de septiembre de 2016, que regula el reconocimiento de la acreditación de 
 la competencia lingüística conforme al Marco Común Europeo de Referencia para las 
 Lenguas en la Comunidad Autónoma de Canarias.
@@ -467,9 +434,6 @@ obtenido plaza para cursar el Programa del Diploma durante el plazo establecido 
 Anexo III. La no formalización en plazo implicará la pérdida de la plaza y su cobertura 
 mediante la lista de reserva.
 
-https://sede.gobiernodecanarias.org/boc
-boc-a-2026-060-1011
-Boletín Oficial de Canarias núm. 60 Viernes 27 de marzo de 202612033
 2. La renuncia a la plaza adjudicada deberá presentarse por vía telemática a través del 
 aplicativo establecido en la instrucción tercera, apartado 2, del presente anexo.
 3. Cuando no sea posible su presentación telemática, podrá formalizarse la matrícula 
@@ -509,9 +473,6 @@ la dirección del centro, la persona coordinadora del Programa del Diploma y el 
 o la orientadora, pudiendo participar otros miembros del equipo docente cuando se estime 
 oportuno.
 
-https://sede.gobiernodecanarias.org/boc
-boc-a-2026-060-1011
-Boletín Oficial de Canarias núm. 60 Viernes 27 de marzo de 202612034
 4. Asimismo, la CEFPAFD promoverá una reunión informativa de carácter autonómico, 
 dirigida al conjunto del alumnado y familias interesadas de la Comunidad Autónoma de 
 Canarias, con la finalidad de garantizar la difusión general y el acceso a la información 
@@ -524,9 +485,6 @@ página web y canales habituales de cada centro educativo. La convocatoria de la
 informativa autonómica se difundirá a través de los canales oficiales de la 
 CEFPAFD.
 
-boc-a-2026-060-1011
-Boletín Oficial de Canarias núm. 60 Viernes 27 de marzo de 202612035
-https://sede.gobiernodecanarias.org/boc
 ANEXO III
 CALENDARIO DEL PROCEDIMIENTO DE PARTICIPACIÓN EN EL PROGRAMA DEL 
 DIPLOMA DEL BACHILLERATO INTERNACIONAL. CURSO 2026-2027
@@ -560,9 +518,6 @@ CALENDARIO DEL PROCEDIMIENTO DE PARTICIPACIÓN EN EL PROGRAMA
 DEL DIPLOMA DEL BACHILLERATO INTERNACIONAL 
 CURSO 2026-2027
 
-boc-a-2026-060-1011
-Boletín Oficial de Canarias núm. 60 Viernes 27 de marzo de 202612036
-https://sede.gobiernodecanarias.org/boc
 ANEXO IV
 SOLICITUD DE PARTICIPACIÓN EN EL PROGRAMA DEL DIPLOMA 
 DEL BACHILLERATO INTERNACIONAL
@@ -589,9 +544,6 @@ ANEXO IV
 SOLICITUD DE PARTICIPACIÓN EN EL PROGRAMA DEL DIPLOMA 
 DEL BACHILLERATO INTERNACIONAL
 
-boc-a-2026-060-1011
-Boletín Oficial de Canarias núm. 60 Viernes 27 de marzo de 202612037
-https://sede.gobiernodecanarias.org/boc
 4. Centros solicitados por orden de preferencia (máximo 2 centros)
 Opción 1 Código
 Provincia Isla
@@ -603,4 +555,4 @@ Modalidad
 Certificación idiomática (Inglés)
 6. Certificación académica (solo si procede)
 Certificación académica cuando el cálculo de la nota media no haya  
-sido arrojado por los aplicativos oficiales de la CEFPAFD 
+sido arrojado por los aplicativos oficiales de la CEFPAFD

@@ -33,9 +33,8 @@ fundamentos_derecho:
   articulos:
   - '84'
 ---
-# Decreto 2078/1971, de 13 de agosto, por el que se extiende el campo de aplicación del Seguro Escolar a los alumnos que siguen las enseñanzas de Formación Profesional y aquellas otras que, de conformidad con lo establecido en la Ley General de Educación y Financiamiento de la Reforma Educativa, se han de integrar en las enseñanzas de Formación Profesional.
 
-Agencia Estatal Boletín Oficial del Estado
+# Decreto 2078/1971, de 13 de agosto, por el que se extiende el campo de aplicación del Seguro Escolar a los alumnos que siguen las enseñanzas de Formación Profesional y aquellas otras que, de conformidad con lo establecido en la Ley General de Educación y Financiamiento de la Reforma Educativa, se han de integrar en las enseñanzas de Formación Profesional.
 
 Ir a contenido
 
@@ -171,8 +170,6 @@ Sobre la sede electrónica
 
 Mapa
 
-Aviso legal
-
 Accesibilidad
 
 Protección de datos
@@ -182,7 +179,5 @@ Sistema Interno de Información
 Tutoriales
 
 Empleo en la AEBOE
-
-Agencia Estatal Boletín Oficial del Estado
 
 Avda. de Manoteras, 54 - 28050 Madrid

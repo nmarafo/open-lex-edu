@@ -32,9 +32,8 @@ fundamentos_derecho:
   articulos:
   - '1'
 ---
-# Orden de 9 de septiembre de 1993 por la que se aprueban los temarios que han de regir en los procedimientos de ingreso, adquisición de nuevas especialidades y movilidad para determinadas especialidades de los Cuerpos de Maestros, Profesores de Enseñanza Secundaria y Profesores de Escuelas Oficiales de Idiomas, regulados por el Real Decreto 850/1993, de 4 de junio.
 
-Agencia Estatal Boletín Oficial del Estado
+# Orden de 9 de septiembre de 1993 por la que se aprueban los temarios que han de regir en los procedimientos de ingreso, adquisición de nuevas especialidades y movilidad para determinadas especialidades de los Cuerpos de Maestros, Profesores de Enseñanza Secundaria y Profesores de Escuelas Oficiales de Idiomas, regulados por el Real Decreto 850/1993, de 4 de junio.
 
 Ir a contenido
 
@@ -138,8 +137,6 @@ Sobre la sede electrónica
 
 Mapa
 
-Aviso legal
-
 Accesibilidad
 
 Protección de datos
@@ -149,7 +146,5 @@ Sistema Interno de Información
 Tutoriales
 
 Empleo en la AEBOE
-
-Agencia Estatal Boletín Oficial del Estado
 
 Avda. de Manoteras, 54 - 28050 Madrid

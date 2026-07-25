@@ -72,13 +72,11 @@ El presente real decreto se dicta en virtud de la habilitación contenida en la 
 
 En su virtud, a propuesta del Ministro de Industria, Turismo y Comercio, y del Vicepresidente del Gobierno de Política Territorial y Ministro de Política Territorial y Administración Pública, de acuerdo con el Consejo de Estado y previa deliberación del Consejo de Ministros en su reunión del día 21 de octubre de 2011,
 
-
 **DISPONGO:**
 
 CAPÍTULO I
 
 Disposiciones generales
-
 
 #### Artículo 1. Objeto y ámbito de aplicación.
 
@@ -112,7 +110,6 @@ CAPÍTULO II
 
 Régimen jurídico y organizativo de la reutilización de la información en el sector público estatal
 
-
 #### Artículo 2. Autorización general para la reutilización de los documentos del sector público y puesta a disposición por medios electrónicos.
 
 1. Los órganos de la Administración General del Estado y los demás organismos y entidades a que se hace referencia en el artículo 1.2 autorizarán la reutilización de los documentos elaborados o custodiados por ellos e incluidos en el ámbito de aplicación de este real decreto, sin perjuicio de lo dispuesto en el régimen aplicable al derecho de acceso a los documentos en virtud de lo previsto en el artículo 37 de la Ley 30/1992, de 26 de noviembre, de Régimen Jurídico de las Administraciones Públicas y del Procedimiento Administrativo Común y las demás normas que regulan el derecho de acceso, la reutilización de la información del sector público o la publicidad registral con carácter específico. Únicamente podrá denegarse motivadamente la reutilización de los documentos si concurre alguno de los supuestos establecidos en el apartado 3 del artículo 3 de la Ley 37/2007, de 16 de noviembre.
@@ -124,7 +121,6 @@ Régimen jurídico y organizativo de la reutilización de la información en el 
 4. Los documentos en formato electrónico reutilizables podrán incluir entre sus metadatos una indicación de su última fecha de actualización y una referencia a las condiciones de reutilización aplicables en cada momento conforme a lo dispuesto en los artículos 7 y 8, en los términos que se establezcan conforme al Real Decreto 4/2010, de 8 de enero, por el que se regula el Esquema Nacional de Interoperabilidad en el ámbito de la Administración Electrónica.
 
 5. Los documentos reutilizables en formato no electrónico serán puestos a disposición del público previa solicitud, en los términos establecidos en el artículo 8.4.
-
 
 #### Artículo 3. Coordinación en materia de reutilización de los órganos, organismos y entidades del sector público estatal.
 
@@ -146,7 +142,6 @@ Los órganos de la Administración General del Estado y los demás organismos y 
 
 3. El ejercicio de la potestad sancionadora, con sujeción a lo establecido en el artículo 11 de la Ley 37/2007, de 16 de noviembre, corresponderá, en el caso de infracciones muy graves, a las personas titulares del departamento ministerial, y en el caso de infracciones graves o leves a los órganos titulares de la información pública correspondiente con rango mínimo de Dirección General. En el caso de los demás organismos mencionados en el artículo 1.2, la competencia corresponderá en todos los casos a la persona titular del organismo, ente o entidad de que se trate.
 
-
 #### Artículo 4. Información sobre los documentos susceptibles de reutilización.
 
 1. Los órganos de la Administración General del Estado y los demás organismos y entidades a que se hace referencia en el artículo 1.2 informarán de manera estructurada y usable, preferentemente a través de un espacio dedicado de su sede electrónica con la ubicación «sede.gob.es/datosabiertos», sobre qué documentación es susceptible de ser reutilizada, los formatos en que se encuentra disponible, las condiciones aplicables a su reutilización, indicando la fecha de la última actualización de los documentos reutilizables, proporcionando, cuando esté disponible, la información complementaria precisa para su comprensión y procesamiento automatizado y facilitando al máximo la identificación, búsqueda y recuperación de los documentos disponibles para su reutilización mediante mecanismos tales como listados, bases de datos o índices de información reutilizable.
@@ -157,7 +152,6 @@ Se procurará que la información sobre los documentos reutilizables prevista en
 
 2. En caso de que apliquen tasas o precios públicos a la reutilización de sus documentos se publicará, preferentemente en la sede electrónica correspondiente, el listado de tasas y precios públicos que sean de aplicación, así como la base de cálculo utilizada para la determinación de los mismos, conforme a lo dispuesto en el artículo 7 de la Ley 37/2007, de 16 de noviembre.
 
-
 #### Artículo 5. Catálogo de Información Pública reutilizable.
 
 1. La Secretaría de Estado para la Función Pública del Ministerio de Política Territorial y Administración Pública y la Secretaría de Estado de Telecomunicaciones y para la Sociedad de la Información del Ministerio de Industria, Turismo y Comercio mantendrán un catálogo de información pública reutilizable correspondiente, al menos, a la Administración General del Estado y a los demás organismos y entidades a que se refiere el artículo 1.2, que permita acceder, desde un único punto, a los distintos recursos de información pública reutilizable disponibles.
@@ -165,7 +159,6 @@ Se procurará que la información sobre los documentos reutilizables prevista en
 2. Este catálogo será accesible, al menos, desde el punto de acceso general previsto en el artículo 8 de la Ley 11/2007, de 22 de junio, de acceso electrónico de los ciudadanos a los Servicios Públicos, y podrá enlazar e interoperar con iniciativas similares de la propia Administración General del Estado o de otras Administraciones Públicas en las condiciones que se convengan por ambas partes y en el marco de lo previsto en el presente real decreto.
 
 3. Los órganos de la Administración General del Estado y los restantes organismos y entidades enumerados en el artículo 1.2 colaborarán con los departamentos ministeriales mencionados en el apartado 1 para la confección y el mantenimiento de dicho catálogo y asimismo serán responsables de la actualización constante de la información sobre los documentos reutilizables correspondiente a los mismos contenida en el citado catálogo, asegurando la plena coherencia del mismo con la información facilitada conforme al apartado 1 del artículo 4 de este real decreto.
-
 
 #### Artículo 6. Coordinación en materia de reutilización de la información del sector público en el ámbito de la Administración General del Estado.
 
@@ -181,7 +174,6 @@ CAPÍTULO III
 
 Modalidades de reutilización de los documentos reutilizables
 
-
 #### Artículo 7. Condiciones generales de puesta a disposición de los documentos reutilizables.
 
 Serán de aplicación las siguientes condiciones generales para todas las modalidades de puesta a disposición de los documentos reutilizables:
@@ -195,11 +187,6 @@ c) Mencionar la fecha de la última actualización de los documentos objeto de l
 d) No se podrá indicar, insinuar o sugerir que los órganos administrativos, organismos o entidades del sector público estatal titulares de la información reutilizada participan, patrocinan o apoyan la reutilización que se lleve a cabo con ella.
 
 e) Conservar y no alterar ni suprimir los metadatos sobre la fecha de actualización y las condiciones de reutilización aplicables incluidos, en su caso, en el documento puesto a disposición para su reutilización por la Administración u organismo del sector público.
-
-Estas condiciones generales serán accesibles mediante un aviso legal por medios electrónicos, de forma permanente, fácil y directa, preferentemente dentro de la ubicación «sede.gob.es/datosabiertos» de la sede electrónica del órgano de la Administración General del Estado, organismo o entidad correspondiente, y vincularán a cualquier agente reutilizador por el mero hecho de hacer uso de los documentos sometidos a ellas.
-
-Dicho aviso legal incluirá el texto contenido en el anexo del presente real decreto.
-
 
 #### Artículo 8. Modalidades de puesta a disposición de los documentos reutilizables.
 
@@ -223,11 +210,9 @@ CAPÍTULO IV
 
 Régimen aplicable a documentos reutilizables sujetos a derechos de propiedad intelectual o que contengan datos personales
 
-
 #### Artículo 9. Documentos e información objeto de derechos de propiedad intelectual o industrial de terceros.
 
 La reutilización de los documentos que custodian los órganos de la Administración General del Estado y los demás organismos y entidades del sector público estatal referidos en el artículo 1.2 sobre los que existan derechos de propiedad intelectual o industrial de terceros sólo podrá ser autorizada si tales órganos, organismos y entidades disponen u obtienen, cuando la reutilización concreta que se vaya a hacer lo exija y en los términos en que sea necesaria, la preceptiva y suficiente cesión de los derechos de explotación por parte de sus titulares.
-
 
 #### Artículo 10. Ejercicio de los derechos de propiedad intelectual de titularidad de los órganos administrativos, organismos o entidades del sector público estatal.
 
@@ -237,25 +222,21 @@ La reutilización de los documentos que custodian los órganos de la Administrac
 
 No obstante, lo dispuesto en el párrafo anterior podrá ser excepcionado, en todo lo no referente a la no exclusividad de la cesión, mediante el establecimiento de condiciones específicas de acuerdo con lo dispuesto en los apartados 2 a 4 del artículo 8 cuando se empleen las modalidades de puesta a disposición previstas en los mismos, siempre dentro de los límites establecidos en la Ley 37/2007, de 16 de noviembre, y, en particular, en su artículo 4.3 y en su artículo 6.
 
-
 #### Artículo 11. Reutilización de los documentos que contengan datos de carácter personal.
 
 1. El acceso a documentos que contengan datos de carácter personal o referentes a la intimidad de las personas estará reservado a éstas, que podrán además ejercer sus derechos de rectificación, cancelación y oposición de acuerdo con lo previsto en la legislación de protección de datos personales y el artículo 37.2 de la Ley 30/1992, de 26 de noviembre.
 
 2. No obstante, siempre y cuando los medios técnicos y económicos lo permitan, deberá procederse a la disociación de los datos personales, en los términos que se derivan de lo establecido en el artículo 3.f) de la Ley Orgánica 15/1999, de 13 de diciembre, de Protección de Datos de Carácter Personal y en el artículo 5.1.e) del Real Decreto 1720/2007, de 21 de diciembre, por el que se aprueba su Reglamento de Desarrollo, a fin de permitir su reutilización por otras personas.
 
-
 #### Disposición adicional primera. Ausencia de impacto presupuestario.
 
 La aplicación de las previsiones contenidas en este real decreto no supondrá incremento del gasto público ni disminución de los ingresos públicos. Por tanto, los departamentos ministeriales, organismos y entidades afectados deben desarrollar las medidas derivadas de su cumplimiento ateniéndose a sus disponibilidades presupuestarias ordinarias, no dando lugar, en ningún caso, a planteamientos de necesidades adicionales de financiación.
-
 
 #### Disposición adicional segunda. Adaptación del sector público estatal a las disposiciones de este real decreto.
 
 Los órganos de la Administración General del Estado y los demás organismos y entidades del sector público estatal a que se hace referencia en el artículo 1.2 deberán adaptarse a las disposiciones de este real decreto en el plazo de un año desde su entrada en vigor.
 
 En el citado plazo de un año, aprobarán un plan propio de medidas de impulso de la reutilización de la información del sector público por medios electrónicos, dentro de su ámbito de competencias, que incluirá el compromiso por parte de los departamentos ministeriales de publicar a través de tales medios, de una manera estructurada y usable para los interesados e interesadas y en bruto, en formatos procesables y accesibles de modo automatizado correspondientes a estándares abiertos, al menos cuatro conjuntos de documentos de alto impacto y valor en un plazo máximo de seis meses desde la finalización del plazo de adaptación previsto en el párrafo anterior.
-
 
 #### Disposición final primera. Modificación del Real Decreto 4/2010, de 8 de enero, por el que se regula el Esquema Nacional de Interoperabilidad en el ámbito de la Administración Electrónica.
 
@@ -271,20 +252,15 @@ Dos. Se añade una nueva disposición adicional con la siguiente redacción:
 
 La normativa relativa a la reutilización de recursos de información deberá estar aprobada a más tardar el 1 de junio de 2012.»
 
-
 #### Disposición final segunda. Habilitación para el desarrollo normativo.
 
 Por los Ministros de Industria, Turismo y Comercio y de Política Territorial y Administración Pública, se dictarán conjunta o separadamente, según las materias de que se trate, y en el ámbito de sus respectivas competencias, las disposiciones que exijan el desarrollo y aplicación de este real decreto.
-
 
 #### Disposición final tercera. Autorización para la modificación del anexo.
 
 Se autoriza a que mediante orden del Ministro de la Presidencia, a propuesta conjunta de los Ministros de Industria, Turismo y Comercio, y de Política Territorial y Administración Pública pueda modificarse el contenido del anexo de este real decreto, a fin de mantenerlo actualizado.
 
-
 #### Disposición final cuarta. Entrada en vigor.
-
-El presente real decreto entrará en vigor el día siguiente al de su publicación en el «Boletín Oficial del Estado».
 
 Dado en Madrid, el 24 de octubre de 2011.
 
@@ -295,10 +271,6 @@ El Ministro de la Presidencia,
 RAMÓN JÁUREGUI ATONDO
 
 ANEXO
-
-Aviso legal para la modalidad general de puesta a disposición de los documentos reutilizables regulada en el apartado 1 del artículo 8
-
-1. Conforme a lo dispuesto en el artículo 7 del presente real decreto se incluirá el siguiente texto en el aviso legal disponible por medios electrónicos, preferentemente en la ubicación «sede.gob.es/datosabiertos» de la sede electrónica del órgano administrativo, organismo o entidad correspondiente.
 
 «Obligatoriedad de las condiciones generales.
 
@@ -340,8 +312,4 @@ El agente reutilizador se halla sometido a la normativa aplicable en materia de 
 
 2. Con el objetivo de informar a los motores y sistemas automatizados de búsqueda en Internet, se incorporarán además en la codificación de la citada ubicación los mecanismos de localización de información pública reutilizable que se estimen oportunos. Para ello, si bien se podrán utilizar otras modalidades técnicas, se propone el siguiente comando básico, que enlaza con las condiciones generales de reutilización:
 
-<a href="http://www.datos.gob.es/avisolegal" rel="license">Aviso legal</a>
-
 o bien el comando
-
-<a href="http://www.datos.gob.es/avisolegal">Aviso legal</a>.

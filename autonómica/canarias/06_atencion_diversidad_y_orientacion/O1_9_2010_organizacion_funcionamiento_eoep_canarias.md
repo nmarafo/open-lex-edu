@@ -150,8 +150,6 @@ ra ejercer funciones similares a las que desempeñaban
 en el caso del personal laboral, en el que hubiese si-
 do separado o inhabilitado. En el caso de ser nacio-
 nal de otro Estado, no hallarse inhabilitado o en si-
-Boletín Oficial de Canarias núm. 181 24139 Martes 14 de septiembre de 2010
-boc-a-2010-181-5209
 
 tuación equivalente ni haber sido sometido a sanción
 disciplinaria o equivalente que impida, en su Esta-
@@ -250,8 +248,6 @@ General de la Seguridad Social o certificado de la Mu-
 tualidad correspondiente, actualizado.
 En el supuesto de que para la actividad profesio-
 nal que se ejerce no resulte obligatoria el alta en nin-
-Boletín Oficial de Canarias núm. 181 24140 Martes 14 de septiembre de 2010
-boc-a-2010-181-5209
 
 guno de los regímenes del sistema de la Seguridad
 Social, se deberá presentar certificación de la Teso-
@@ -357,8 +353,6 @@ solicitudes.
 Séptima.- Propuesta de contratación.
 1. En el plazo de 15 días a partir de la fecha de re-
 cepción de la documentación, el Departamento ele-
-Boletín Oficial de Canarias núm. 181 24141 Martes 14 de septiembre de 2010
-boc-a-2010-181-5209
 
 vará al Presidente de la Comisión Delegada de Pro-
 fesorado un informe motivado aprobado en Conse-
@@ -465,8 +459,6 @@ que el aspirante seleccionado esté desempeñando o pa-
 se a desempeñar otra actividad pública o privada.
 La subsistencia del contrato se condiciona a la auto-
 rización de la compatibilidad, conforme a la norma-
-Boletín Oficial de Canarias núm. 181 24142 Martes 14 de septiembre de 2010
-boc-a-2010-181-5209
 
 tiva aplicable en la materia, en el caso de que el as-
 pirante seleccionado esté desempeñando o pase a
@@ -542,8 +534,6 @@ La Laguna, a 10 de agosto de 2010.- El Rector,
 p.d., la Vicerrectora de Profesorado (Resolución de
 28.1.10; BOC de 4.3.10), Carmen Dolores Sosa
 Castilla.
-Boletín Oficial de Canarias núm. 181 24143 Martes 14 de septiembre de 2010
-boc-a-2010-181-5209
 
 ANEXO I 
 RESOLUCI”N  DE 10 DE AGOSTO DE 2010 POR LA QUE SE CONVOCA CONCURSO P⁄BLICO PARA LA PROVISI”N DE PLAZ AS DE PERSONAL DOCENTE E INVESTIGADOR  
@@ -588,9 +578,7 @@ conocimiento de GeografÌa
 Humana 
 Docencia en el ¡rea de
 conocimiento
-Boletín Oficial de Canarias núm. 181 24144 Martes 14 de septiembre de 2010
 A N E X O  I
-boc-a-2010-181-5209
 
 1
 Convocado concurso público para la contratación de personal docente e investigador 
@@ -680,9 +668,7 @@ datos personales obtenidos mediante la cumplimentación de este documento y dem�
 tratará los datos de todos los participantes en la presente convocatoria, conforme al procedimiento establecido en la misma. Da  acuerdo con lo previsto en la citada Ley Orgánica, 
 puede ejercitar los derechos de acceso, rectificación, cancelación y oposición dirigiendo un escrito al Servicio de Recursos Hu manos, Rectorado, C/ Molinos de Agua, s/n, 38071. 
 La Laguna 
-Boletín Oficial de Canarias núm. 181 24145 Martes 14 de septiembre de 2010
 A N E X O  I I
-boc-a-2010-181-5209
 
 1
 ANEXO III. INSTRUCCIONES PARA  LA ACREDITACIÓN DE MÉRITOS 
@@ -734,9 +720,7 @@ equivalentes).
 Certificado de la concesión del Vicerre ctorado correspondiente o de la entidad 
 oficial que ha dotado la beca, con indicación de los años de disfrute de la misma. 
 1.13. Otros méritos relacionados con la formación académica. 
-Boletín Oficial de Canarias núm. 181 24146 Martes 14 de septiembre de 2010
 A N E X O  I I I
-boc-a-2010-181-5209
 
 2
 Según las pautas generales establec idas en los apartados anteriores. 
@@ -838,7 +822,6 @@ aceptarán correos electrónicos).
 áreas 
 Según las pautas generales establ ecidas en el apartado anterior. 
 3.5. Publicaciones en Actas de Congresos. 
-Boletín Oficial de Canarias núm. 181 24147 Martes 14 de septiembre de 2010
 1
 de reconocido prestigio, que tenga esa función, con indicación del número de 
 horas o, en su caso, créditos  de docencia recibidos. 
@@ -852,7 +835,6 @@ equivalentes).
 Certificado de la concesión del Vicerre ctorado correspondiente o de la entidad 
 oficial que ha dotado la beca, con indicación de los años de disfrute de la misma. 
 1.13. Otros méritos relacionados con la formación académica. 
-boc-a-2010-181-5209
 
 3
 En caso de publicaciones en libros de actas: 
@@ -907,7 +889,6 @@ Certificado del organism o correspondiente de la concesión del premio.
 Certificado de la agencia de evaluación con indicación de la duración de la 
 colaboración o número de proyectos evaluados. 
 3.19. Pertenencia a Consejos de Redacción de revistas 
-Boletín Oficial de Canarias núm. 181 24148 Martes 14 de septiembre de 2010
 2
 Reports. 
 (El artículo debe estar publicado en una revista con índice de impacto en el mismo 
@@ -921,7 +902,6 @@ aceptarán correos electrónicos).
 áreas 
 Según las pautas generales establ ecidas en el apartado anterior. 
 3.5. Publicaciones en Actas de Congresos. 
-boc-a-2010-181-5209
 
 4
 Certificación del editor de la revista, o figura equivalente, en la que conste la 
@@ -955,7 +935,6 @@ Certificado de la organi zación emitido por el órgano correspondiente que teng
 esa función (Universidad o entidad de reconocido prestigio). 
 5.4. Otros méritos relevantes. 
 Según las pautas generales establec idas en los apartados anteriores. 
-Boletín Oficial de Canarias núm. 181 24149 Martes 14 de septiembre de 2010
 3
 Según las pautas generales establ ecidas en el apartado anterior. 
 3.16. Estrenos, exposiciones, composiciones. 
@@ -967,5 +946,4 @@ Certificado del organism o correspondiente de la concesión del premio.
 3.18. Evaluación de Proyectos I + D. 
 Certificado de la agencia de evaluación con indicación de la duración de la 
 colaboración o número de proyectos evaluados. 
-3.19. Pertenencia a Consejos de Redacción de revistas 
-boc-a-2010-181-5209
+3.19. Pertenencia a Consejos de Redacción de revistas

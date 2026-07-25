@@ -62,23 +62,19 @@ El presente real decreto tiene carácter de norma básica y se dicta, al amparo 
 
 En su virtud, a propuesta de la Ministra de Educación y Formación Profesional, de acuerdo con el Consejo de Estado, y previa deliberación del Consejo de Ministros en su reunión del día 16 de noviembre de 2021,
 
-
 **DISPONGO:**
 
 CAPÍTULO I
 
 Disposiciones generales
 
-
 #### Artículo 1. Objeto.
 
 El presente real decreto tiene por objeto establecer la evaluación y la promoción en la Educación Primaria, así como la evaluación, la promoción y la titulación en Educación Secundaria Obligatoria, Bachillerato y Formación Profesional.
 
-
 #### Artículo 2. Ámbito de aplicación.
 
 Lo establecido en el presente real decreto será de aplicación en los centros que impartan Educación Primaria, Educación Secundaria Obligatoria, Bachillerato, así como en los centros autorizados por las respectivas Administraciones educativas para impartir enseñanzas de personas adultas que conduzcan a la obtención de los títulos de Graduado en Educación Secundaria Obligatoria y de Bachiller.
-
 
 #### Artículo 3. Referentes de la evaluación.
 
@@ -88,16 +84,13 @@ Lo establecido en el presente real decreto será de aplicación en los centros q
 
 3. En el caso del alumnado con necesidades educativas especiales los referentes de la evaluación durante la educación básica serán los incluidos en las correspondientes adaptaciones del currículo, sin que este hecho pueda impedirles la promoción al siguiente curso o etapa, o la obtención del título de Graduado en Educación Secundaria Obligatoria.
 
-
 #### Artículo 4. Derecho del alumnado a una evaluación objetiva.
 
 Las Administraciones educativas garantizarán el derecho del alumnado a una evaluación objetiva y a que su dedicación, esfuerzo y rendimiento sean valorados y reconocidos con objetividad, para lo que establecerán los oportunos procedimientos, que, en todo caso, atenderán a las características de la evaluación en las respectivas etapas conforme a la legislación vigente.
 
-
 #### Artículo 5. Participación y derecho a la información de madres, padres o tutores legales.
 
 Cuando el alumnado sea menor de edad, sus madres, padres o tutores legales deberán participar y apoyar la evolución de su proceso educativo. Tendrán, además, derecho a conocer las decisiones relativas a su evaluación y promoción, debiendo colaborar en las medidas de apoyo o refuerzo que adopten los centros para facilitar su progreso educativo.
-
 
 #### Artículo 6. Atención a las diferencias individuales en la evaluación.
 
@@ -109,7 +102,6 @@ Cuando el alumnado sea menor de edad, sus madres, padres o tutores legales deber
 
 4. Cuando las circunstancias personales del alumno o alumna con necesidades educativas especiales lo aconsejen para la consecución de los objetivos de la enseñanza básica, este alumnado podrá prolongar un curso adicional su escolarización. Estas circunstancias podrán ser permanentes o transitorias y deberán estar suficientemente acreditadas.
 
-
 #### Artículo 7. Evaluación de la Lengua cooficial.
 
 En aquellas comunidades autónomas que posean más de una lengua oficial de acuerdo con sus estatutos, el alumnado podrá estar exento de realizar la evaluación del área o materia de dicha lengua cooficial, según se establezca en la respectiva normativa autonómica.
@@ -117,7 +109,6 @@ En aquellas comunidades autónomas que posean más de una lengua oficial de acue
 CAPÍTULO II
 
 Educación Primaria
-
 
 #### Artículo 8. Evaluación.
 
@@ -130,7 +121,6 @@ Educación Primaria
 4. El profesorado evaluará tanto los aprendizajes del alumnado como los procesos de enseñanza y su propia práctica docente.
 
 5. Con independencia del seguimiento realizado a lo largo del curso, el equipo docente llevará a cabo la evaluación del alumnado de forma colegiada en una única sesión que tendrá lugar al finalizar el curso escolar.
-
 
 #### Artículo 9. Promoción.
 
@@ -148,7 +138,6 @@ CAPÍTULO III
 
 Educación Secundaria Obligatoria
 
-
 #### Artículo 10. Evaluación.
 
 1. La evaluación del proceso de aprendizaje del alumnado de Educación Secundaria Obligatoria será continua, formativa e integradora.
@@ -160,7 +149,6 @@ Educación Secundaria Obligatoria
 4. El profesorado evaluará tanto los aprendizajes del alumnado como los procesos de enseñanza y su propia práctica docente.
 
 5. Con independencia del seguimiento realizado a lo largo del curso, el equipo docente llevará a cabo la evaluación del alumnado de forma colegiada en una única sesión que tendrá lugar al finalizar el curso escolar.
-
 
 #### Artículo 11. Promoción.
 
@@ -178,13 +166,11 @@ Este alumnado deberá superar las evaluaciones correspondientes a dichos planes,
 
 6. En todo caso, la permanencia en el mismo curso se planificará de manera que las condiciones curriculares se adapten a las necesidades del alumnado y estén orientadas a la superación de las dificultades detectadas, así como al avance y profundización en los aprendizajes ya adquiridos. Estas condiciones se recogerán en un plan específico personalizado con cuantas medidas se consideren adecuadas para este alumnado.
 
-
 #### Artículo 12. Consejo orientador.
 
 1. Al finalizar el segundo curso se entregará a los padres, madres o tutores legales de cada alumno o alumna un consejo orientador. Dicho consejo incluirá un informe sobre el grado de logro de los objetivos y de adquisición de las competencias correspondientes, así como una propuesta a padres, madres o tutores legales o, en su caso, al alumno o alumna de la opción que se considera más adecuada para continuar su formación, que podrá incluir la incorporación a un programa de diversificación curricular o a un ciclo formativo de grado básico.
 
 2. Igualmente, al finalizar la etapa, o en su caso, al concluir su escolarización, todo el alumnado recibirá un consejo orientador individualizado que incluirá una propuesta sobre la opción u opciones académicas, formativas o profesionales que se consideran más convenientes. Este consejo orientador tendrá por objeto que todo el alumnado encuentre una opción adecuada para su futuro formativo.
-
 
 #### Artículo 13. Incorporación a los programas de diversificación curricular.
 
@@ -204,11 +190,9 @@ En todos estos casos, la incorporación a estos programas requerirá, además de
 
 4. Las Administraciones educativas garantizarán al alumnado con necesidades educativas especiales que participe en estos programas los recursos de apoyo que, con carácter general, se prevean para este alumnado.
 
-
 #### Artículo 14. Incorporación a un programa de mejora del aprendizaje y del rendimiento.
 
 El equipo docente podrá proponer que, en 2022-2023, se incorporen al primer curso de un programa de mejora de aprendizaje y del rendimiento los alumnos y alumnas que finalicen el primer curso de Educación Secundaria Obligatoria en el curso 2021-2022 y que, habiendo repetido alguna vez con anterioridad, no estén en condiciones de promocionar a segundo, si se estima que esta medida puede resultar conveniente para su progreso educativo. En el curso 2023-2024 este alumnado podrá incorporarse de forma automática al primer curso de un programa de diversificación curricular.
-
 
 #### Artículo 15. Incorporación a un Ciclo Formativo de Grado Básico.
 
@@ -217,7 +201,6 @@ Los equipos docentes podrán proponer que, en el curso 2022-2023, se incorporen
 a) Que tengan cumplidos quince años, o los cumplan durante el año natural en curso.
 
 b) Que hayan cursado el tercer curso de Educación Secundaria Obligatoria o, excepcionalmente, haber cursado el segundo curso.
-
 
 #### Artículo 16. Título de Graduado en Educación Secundaria Obligatoria.
 
@@ -235,7 +218,6 @@ CAPÍTULO IV
 
 Ciclos de Formación Profesional Básica
 
-
 #### Artículo 17. Evaluación.
 
 1. La evaluación del proceso de aprendizaje del alumnado de ciclos de Formación Profesional Básica será continua, formativa e integradora.
@@ -248,7 +230,6 @@ Ciclos de Formación Profesional Básica
 
 5. La evaluación del proceso de aprendizaje y la calificación del alumnado en el resto de módulos profesionales tendrá como referente los resultados de aprendizaje y las competencias profesionales, personales y sociales que en él se incluyen.
 
-
 #### Artículo 18. Obtención del título de Graduado en Educación Secundaria Obligatoria.
 
 La superación de la totalidad de los módulos incluidos en un ciclo de Formación Profesional Básica conducirá a la obtención del título de Graduado en Educación Secundaria Obligatoria.
@@ -256,7 +237,6 @@ La superación de la totalidad de los módulos incluidos en un ciclo de Formaci�
 CAPÍTULO V
 
 Bachillerato
-
 
 #### Artículo 19. Evaluación.
 
@@ -268,7 +248,6 @@ Bachillerato
 
 4. Los profesores evaluarán tanto los aprendizajes del alumnado como los procesos de enseñanza y su propia práctica docente.
 
-
 #### Artículo 20. Promoción.
 
 1. Los alumnos y las alumnas promocionarán de primero a segundo de Bachillerato cuando hayan superado las materias cursadas o tengan evaluación negativa en dos materias como máximo. En todo caso, deberán matricularse en segundo curso de las materias pendientes de primero. Los centros educativos deberán organizar las consiguientes actividades de recuperación y la evaluación de las materias pendientes en el marco organizativo que establezcan las Administraciones educativas.
@@ -278,7 +257,6 @@ Bachillerato
 No obstante, el alumnado podrá matricularse de la materia de segundo curso sin haber cursado la correspondiente materia de primer curso siempre que el profesorado que la imparta considere que el alumno o alumna reúne las condiciones necesarias para poder seguir con aprovechamiento la materia de segundo. En caso contrario, deberá cursar la materia de primer curso, que tendrá la consideración de materia pendiente, si bien no será computable a efectos de modificar las condiciones en las que ha promocionado a segundo.
 
 3. Los alumnos y las alumnas que al término del segundo curso tuvieran evaluación negativa en algunas materias podrán matricularse de ellas sin necesidad de cursar de nuevo las materias superadas o podrán optar, asimismo, por repetir el curso completo.
-
 
 #### Artículo 21. Título de Bachiller.
 
@@ -299,7 +277,6 @@ d) Que la media aritmética de las calificaciones obtenidas en todas las mater
 En este caso, a efectos del cálculo de la calificación final de la etapa, se considerará la nota numérica obtenida en la materia no superada.
 
 4. El título de Bachiller será único y se expedirá con expresión de la modalidad cursada y de la nota media obtenida, que se hallará calculando la media aritmética de las calificaciones de todas las materias cursadas, redondeada a la centésima.
-
 
 #### Artículo 22. Obtención del título de Bachiller desde otras enseñanzas.
 
@@ -337,7 +314,6 @@ CAPÍTULO VI
 
 Formación profesional
 
-
 #### Artículo 23. Evaluación y titulación.
 
 1. La evaluación del aprendizaje del alumnado en los ciclos formativos se realizará por módulos profesionales, teniendo siempre en cuenta la globalidad del ciclo.
@@ -348,13 +324,11 @@ CAPÍTULO VII
 
 Educación de personas adultas
 
-
 #### Artículo 24. Educación básica.
 
 La superación de todos los ámbitos de conocimientos que, en el marco de la oferta específica establecida por las Administraciones educativas, conformen los estudios dirigidos a la adquisición de las competencias correspondientes a la Educación Secundaria Obligatoria, dará derecho a la obtención del título de Graduado en Educación Secundaria Obligatoria.
 
 Asimismo, el equipo docente podrá proponer para la expedición de dicho título a aquellas personas que, aun no habiendo superado alguno de los ámbitos, se considere que han conseguido globalmente los objetivos generales de la formación básica de las personas adultas. En esta decisión se tendrán en cuenta las posibilidades formativas y de integración en la actividad académica y laboral de cada alumno o alumna.
-
 
 #### Artículo 25. Bachillerato.
 
@@ -370,7 +344,6 @@ d) Que la media aritmética de las calificaciones obtenidas en todas las mater
 
 2. Asimismo, el alumnado que curse estas enseñanzas y se encuentre en posesión de alguno de los títulos a los que se refiere el artículo 22 de este real decreto, podrá obtener el título de Bachiller mediante el procedimiento previsto en el citado artículo.
 
-
 #### Artículo 26. Pruebas libres para la obtención de los títulos de Graduado en Educación Secundaria Obligatoria y de Bachiller.
 
 1. Las Administraciones educativas, en el ámbito de sus competencias, organizarán periódicamente pruebas para que las personas mayores de dieciocho años puedan obtener directamente el título de Graduado en Educación Secundaria Obligatoria, siempre que hayan alcanzado las competencias básicas y los objetivos de la etapa. Al mismo tiempo las propias Administraciones determinarán las partes de dicha prueba que se considerará que tienen superadas quienes concurran a las mismas, de acuerdo con su historia académica previa.
@@ -379,28 +352,23 @@ d) Que la media aritmética de las calificaciones obtenidas en todas las mater
 
 3. Corresponderá igualmente a las Administraciones educativas garantizar que dichas pruebas cuenten con las medidas de accesibilidad universal y las adaptaciones que precise todo el alumnado con necesidades educativas especiales.
 
-
 #### Disposición adicional única. No incremento del gasto público.
 
 La aplicación de las medidas incluidas en este real decreto no podrá suponer incremento de dotaciones ni de retribuciones ni de otros gastos de personal.
-
 
 #### Disposición transitoria primera. Obtención del título de Bachiller en las modalidades de Ciencias o de Humanidades y Ciencias Sociales desde las Enseñanzas Profesionales de Música o de Danza.
 
 Hasta la implantación de las modificaciones introducidas por la Ley Orgánica 3/2020, de 29 de diciembre, en el currículo, la organización y los objetivos de las enseñanzas objeto de este real decreto, el alumnado en posesión de un título Profesional de Música o de Danza que en el curso 2020-2021 hubiera cursado primer curso de Bachillerato por una modalidad diferente a Artes y hubiera superado al menos la materia de primer curso correspondiente a dicha modalidad conforme a lo establecido en el artículo 22.2 de este real decreto, podrá obtener el título de Bachiller mediante la superación de las restantes materias que, según el citado artículo, correspondan a la modalidad elegida.
 
-
 #### Disposición transitoria segunda. Obtención del título de Bachiller con el título de Técnico Superior de Formación Profesional.
 
 Hasta la implantación de las modificaciones introducidas por la Ley Orgánica 3/2020, de 29 de diciembre, en el currículo, la organización y los objetivos de las enseñanzas objeto de este real decreto, el alumnado en posesión de un título de Técnico o Técnica Superior de Formación Profesional que en el curso 2020-2021 hubiera cursado y superado al menos dos de las materias de primer curso de Bachillerato que figuran en el artículo 22 de este real decreto, podrá obtener el título de Bachiller en la modalidad elegida mediante la superación de las restantes materias que, según el citado artículo, correspondan a la modalidad de que se trate.
-
 
 #### Disposición transitoria tercera. Evaluación y promoción en la Educación para personas adultas.
 
 La evaluación de las personas adultas que cursen, bien Bachillerato, bien los estudios dirigidos a la adquisición de las competencias y los conocimientos correspondientes a la Educación Secundaria Obligatoria en el marco de la oferta específica establecida por las Administraciones educativas, se realizará, en todo lo que le sea de aplicación, conforme a la normativa básica reguladora de estas enseñanzas incluida en la disposición adicional cuarta del Real Decreto 1105/2014, de 26 de diciembre, y de acuerdo con lo establecido en la normativa reguladora de dicha oferta.
 
 Igualmente, las decisiones sobre la promoción serán adoptadas conforme a dicha normativa.
-
 
 #### Disposición transitoria cuarta. Documentos de evaluación.
 
@@ -410,25 +378,19 @@ a) Las actas de evaluación de los diferentes cursos de Educación Primaria y 
 
 b) Igualmente, en el historial académico de Educación Primaria y Educación Secundaria Obligatoria se consignarán los resultados de la evaluación que tendrá lugar al finalizar el curso, sin distinción de convocatorias.
 
-
 #### Disposición derogatoria única. Derogación normativa.
 
 Quedan derogados los artículos 11 y 12 del Real Decreto 126/2014, de 28 de febrero, y los artículos 20, 21, 22, 23, 30, 31, 32, 33 y 34, y los apartados 4 y 7 de la disposición adicional cuarta del Real Decreto 1105/2014, de 26 de diciembre, así como cuantas otras disposiciones de igual o inferior rango se opongan a lo dispuesto en este real decreto.
-
 
 #### Disposición final primera. Título competencial.
 
 Este real decreto se dicta al amparo del artículo 149.1.30.ª de la Constitución, que atribuye al Estado las competencias para la regulación de las condiciones de obtención, expedición y homologación de los títulos académicos y profesionales y normas básicas para el desarrollo del artículo 27 de la Constitución, a fin de garantizar el cumplimiento de las obligaciones de los poderes públicos en esta materia.
 
-
 #### Disposición final segunda. Aplicación.
 
 Se faculta a la persona titular del Ministerio de Educación y Formación Profesional para dictar cuantas disposiciones requiera la aplicación de lo dispuesto en este real decreto, sin perjuicio de las competencias que corresponden a las comunidades autónomas.
 
-
 #### Disposición final tercera. Entrada en vigor.
-
-El presente real decreto entrará en vigor el día siguiente al de su publicación en el «Boletín Oficial del Estado».
 
 Su contenido será de aplicación a partir del curso escolar 2021-2022.
 

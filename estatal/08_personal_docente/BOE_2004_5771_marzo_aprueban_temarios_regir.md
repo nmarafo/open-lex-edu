@@ -37,11 +37,9 @@ Por todo ello y conforme a lo dispuesto en la disposición adicional undécima d
 
 En su virtud, previa consulta a las Comunidades Autónomas y en uso de la habilitación concedida en el citado artículo 19 del Real Decreto 334/2004, de 27 de febrero, dispongo:
 
-
 #### Primero. Objeto de la norma.
 
 La presente orden establece los temarios que han de regir en los procesos selectivos para el ingreso, accesos y adquisición de nuevas especialidades en los Cuerpos de Profesores de Artes Plásticas y Diseño y Maestros de Taller de Artes Plásticas y Diseño.
-
 
 #### Segundo. Relación de Especialidades para las que se aprueban los temarios.
 
@@ -133,27 +131,21 @@ Técnicas del metal.
 
 Técnicas murales. Técnicas textiles.
 
-
 #### Tercero. Temarios relativos a los conocimientos propios y específicos del ámbito cultural, científico, técnico o artístico de la especialidad.
 
 1. Los temarios relativos a los conocimientos propios y específicos del ámbito cultural, científico, técnico o artístico, serán los establecidos en el anexo I a la presente orden para las especialidades del Cuerpo de Profesores de Artes Plásticas y Diseño.
 
 2. Los temarios relativos a los conocimientos propios y específicos del ámbito cultural, científico, técnico o artístico serán los establecidos en el anexo II a la presente orden para las especialidades del Cuerpo de Maestros de Taller de Artes Plásticas y Diseño.
 
-
 #### Disposición derogatoria única. Derogación normativa.
 
 Quedan derogadas cuantas disposiciones de igual o inferior rango se opongan a lo dispuesto en la presente orden.
-
 
 #### Disposición final primera. Ámbito de aplicación.
 
 Esta orden tiene carácter de norma básica y se dicta al amparo de lo previsto en el artículo 149.1.1.a, 18.a y 30.a de la Constitución Española y de conformidad con la habilitación conferida al Ministro de Educación, Cultura y Deporte en el apartado 1 del artículo 19 del Real Decreto 334/2004, de 27 de febrero, por el que se aprueba el Reglamento de ingreso, accesos y adquisición de nuevas especialidades en los cuerpos docentes que imparten las enseñanzas escolares del sistema educativo y en el Cuerpo de Inspectores de Educación.
 
-
 #### Disposición final segunda. Entrada en vigor.
-
-Esta orden entrará en vigor el día siguiente al de su publicación en el «Boletín Oficial del Estado».
 
 Madrid, 22 de marzo de 2004.
 
@@ -163,9 +155,7 @@ Excmo. Sr. Secretario de Estado de Educación y Universidades e Ilma. Sra. Secre
 
 ANEXO I
 
-
 **TEMARIOS CORRESPONDIENTES A LAS ESPECIALIDADES DEL CUERPO DE PROFESORES DE ARTES PLÁSTICAS Y DISEÑO**
-
 
 **Cuerpo: Profesores de Artes Plásticas y Diseño**
 
@@ -3981,9 +3971,7 @@ Especialidad: Volumen
 
 ANEXO II
 
-
 **TEMARIOS CORRESPONDIENTES A LAS ESPECIALIDADES DEL CUERPO DE MAESTROS DE TALLER DE ARTES PLÁSTICAS Y DISEÑO**
-
 
 **Cuerpo: Maestros de Taller de Artes Plásticas y Diseño**
 

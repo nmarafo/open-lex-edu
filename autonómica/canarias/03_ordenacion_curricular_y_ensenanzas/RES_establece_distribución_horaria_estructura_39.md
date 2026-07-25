@@ -32,9 +32,6 @@ fuente_pdf_oficial: https://sede.gobiernodecanarias.org/boc/boc-a-2026-046-750.p
 
 # Resolución de 25 de febrero de 2026, por la que se establece la distribución horaria y estructura modular de los Grados C (Certificados Profesionales) y sus correspondientes Grados B (Certificados de Competencia), de niveles 2 y 3, de las familias profesionales de Industrias Alimentarias; Seguridad y Medio Ambiente; Textil, Confección y Piel; y Transporte y Mantenimiento de Vehículos, en el ámbito de la Comunidad Autónoma de Canarias.
 
-https://sede.gobiernodecanarias.org/boc
-boc-a-2026-046-750
-Boletín Oficial de Canarias núm. 46 Lunes 9 de marzo de 20268536
 III. Otras Resoluciones
 Consejería de Educación, Formación Profesional, Actividad Física y Deportes
 750 Viceconsejería de Formación Profesional y Cualificaciones Profesionales.- 
@@ -76,9 +73,6 @@ El artículo 30.1 del Real Decreto citado en el párrafo anterior dispone que la
 administraciones competentes deberán determinar la duración de los Grados A, B y C 
 vinculados a Grados D de los que tuvieran desarrollo autonómico, estableciendo la misma 
 
-https://sede.gobiernodecanarias.org/boc
-boc-a-2026-046-750
-Boletín Oficial de Canarias núm. 46 Lunes 9 de marzo de 20268537
 duración horaria para cada módulo profesional en el ámbito autonómico, con independencia 
 del grado en el que se integren.
 Asimismo, el artículo 30.5 determina que cuando un Grado C incorpore un módulo 
@@ -119,9 +113,6 @@ conducen a la obtención de un título académico o profesional con validez en t
 planes de estudio y la ordenación curricular de las enseñanzas, de conformidad con lo 
 previsto en el artículo 133.3.c) del citado texto legal.
 
-https://sede.gobiernodecanarias.org/boc
-boc-a-2026-046-750
-Boletín Oficial de Canarias núm. 46 Lunes 9 de marzo de 20268538
 Segundo.- La Ley 6/2014, de 25 de julio, Canaria de Educación no Universitaria, 
 dispone en su artículo 33.3 que, de acuerdo con la normativa básica del Estado, una vez 
 aprobado el Real Decreto correspondiente a un título de formación profesional y hasta que 
@@ -164,9 +155,6 @@ Octavo.- Con fecha 25 de abril de 2025 se aprobó la Resolución de la Direcció
 General de Formación Profesional y Enseñanzas de Régimen Especial, por la que se amplía 
 la Resolución de 21 de febrero de 2025, que dicta instrucciones para la implantación de los 
 
-https://sede.gobiernodecanarias.org/boc
-boc-a-2026-046-750
-Boletín Oficial de Canarias núm. 46 Lunes 9 de marzo de 20268539
 itinerarios formativos de Formación Profesional Adaptada y el desarrollo de los currículos 
 de los módulos de carácter general a partir del curso escolar 2024/2025, en el ámbito de la 
 Comunidad Autónoma de Canarias, y la Resolución de 30 de octubre de 2024, por la que 
@@ -208,9 +196,6 @@ públicos no universitarios de la Comunidad Autónoma de Canarias.
 Séptimo.- Encomendar a la Inspección de Educación el asesoramiento a los equipos 
 directivos de los centros del sistema educativo no universitario en aquellos aspectos 
 
-https://sede.gobiernodecanarias.org/boc
-boc-a-2026-046-750
-Boletín Oficial de Canarias núm. 46 Lunes 9 de marzo de 20268540
 específicos relacionados con la aplicación de la presente Resolución, así como la supervisión 
 de su adecuado cumplimiento.
 Octavo.- Ordenar la publicación de la presente Resolución en el Boletín Oficial de 
@@ -227,9 +212,6 @@ cualquier otro que se estime procedente.
 Las Palmas de Gran Canaria, a 25 de febrero de 2026.- El Viceconsejero de Formación 
 Profesional y Cualificaciones Profesionales, Francisco Rodríguez Machado.
 
-boc-a-2026-046-750
-Boletín Oficial de Canarias núm. 46 Lunes 9 de marzo de 20268541
-https://sede.gobiernodecanarias.org/boc
 ANEXO I
 FAMILIA PROFESIONAL: INDUSTRIAS ALIMENTARIAS
 DISTRIBUCIÓN HORARIA Y ESTRUCTURA MODULAR DE LOS GRADOS C
@@ -288,9 +270,6 @@ En régimen general la formación en la empresa u organismo equiparado tendrá u
 En régimen intensivo la formación en la empresa u organismo equiparado tendrá una duración mínima de 295 horas
 ANEXO I
 
-boc-a-2026-046-750
-Boletín Oficial de Canarias núm. 46 Lunes 9 de marzo de 20268542
-https://sede.gobiernodecanarias.org/boc
 Certificado profesional: Almacenamiento y venta en panadería, pastelería y confitería. 
 • Código: INA_C_003_4B.
 • Título de Formación Profesional asociado: Técnico en Panadería, Repostería y Confitería.
@@ -342,9 +321,6 @@ Duración 515 30 15
 En régimen general la formación en la empresa u organismo equiparado tendrá una duración mínima de 130 horas
 En régimen intensivo la formación en la empresa u organismo equiparado tendrá una duración mínima de 185 horas
 
-boc-a-2026-046-750
-Boletín Oficial de Canarias núm. 46 Lunes 9 de marzo de 20268543
-https://sede.gobiernodecanarias.org/boc
 Certificado profesional: Elaboración de vinos y licores.
 • Código: INA_C_005_4B.
 • Título de Formación Profesional asociado: Técnico en Aceites de Oliva y Vinos.
@@ -395,9 +371,6 @@ Duración 275 30 16
 En régimen general la formación en la empresa u organismo equiparado tendrá una duración mínima de 70 horas
 En régimen intensivo la formación en empresa u organismo equiparado tendrá una duración mínima de 100 horas 
 
-boc-a-2026-046-750
-Boletín Oficial de Canarias núm. 46 Lunes 9 de marzo de 20268544
-https://sede.gobiernodecanarias.org/boc
 Certificado profesional: Control de calidad en la industria vitivinícola, de otras bebidas alcohólicas y  
 del vinagre.
 • Código: INA_C_002_5B.
@@ -452,9 +425,6 @@ Duración 870 26
 En régimen general la formación en la empresa u organismo equiparado tendrá una duración mínima de 220 horas
 En régimen intensivo la formación en la empresa u organismo equiparado tendrá una duración mínima de 305 horas
 
-boc-a-2026-046-750
-Boletín Oficial de Canarias núm. 46 Lunes 9 de marzo de 20268545
-https://sede.gobiernodecanarias.org/boc
 Certificado profesional: Gestión logística y comercial en la industria vitivinícola, de otras bebidas  
 alcohólicas y del vinagre.
 • Código: INA_C_004_5B.
@@ -480,9 +450,6 @@ Duración 275 30 16
 En régimen general la formación en la empresa u organismo equiparado tendrá una duración mínima de 70 horas
 En régimen intensivo la formación en empresa u organismo equiparado tendrá una duración mínima de 100 horas 
 
-boc-a-2026-046-750
-Boletín Oficial de Canarias núm. 46 Lunes 9 de marzo de 20268546
-https://sede.gobiernodecanarias.org/boc
 ANEXO II
 FAMILIA PROFESIONAL: SEGURIDAD Y MEDIO AMBIENTE
 DISTRIBUCIÓN HORARIA Y ESTRUCTURA MODULAR DE LOS GRADOS C (CERTIFICADOS 
@@ -500,7 +467,6 @@ totales
 Horas 
 semanales
 (17 semanas)
-1697
 Preparación  y  traslado  de  materiales  en  los  servicios  de  control  de 
 organismos nocivos
 Código del certificado de competencia: SEA_B_1697
@@ -527,12 +493,10 @@ semanales
 Horas
 semanales
 (17 semanas)
-1697
 Preparación y traslado de materiales en los servicios de  
 control de organismos nocivos
 Código del certificado de competencia: SEA_B_1697
 96 8 6
-1700
 Control  de  Legionella  y  otros  organismos  nocivos  en 
 instalaciones de riesgos
 Código del certificado de competencia: SEA_B_1700
@@ -543,9 +507,6 @@ En régimen general la formación en la empresa u organismo equiparado tendrá u
 En régimen intensivo la formación en la empresa u organismo equiparado tendrá una duración mínima de 125 horas
 ANEXO II
 
-boc-a-2026-046-750
-Boletín Oficial de Canarias núm. 46 Lunes 9 de marzo de 20268547
-https://sede.gobiernodecanarias.org/boc
 Certificado  profesional:  Control  de  organismos  nocivos  mediante  procesos  de  desinfección  y 
 tratamientos alguicidas. 
 • Código: SEA_C_003_4B.
@@ -562,7 +523,6 @@ semanales
 Horas
 semanales
 (17 semanas)
-1697
 Preparación y traslado de materiales en los servicios de  
 control de organismos nocivos
 Código del certificado de competencia: SEA_B_1697
@@ -585,7 +545,6 @@ totales
 Horas
 semanales
 (17 semanas)
-1697
 Preparación y traslado de materiales en los servicios de  
 control de organismos nocivos
 Código del certificado de competencia: SEA_B_1697
@@ -597,9 +556,6 @@ Duración 385 23
 En régimen general la formación en la empresa u organismo equiparado tendrá una duración mínima de 100 horas
 En régimen intensivo la formación en la empresa u organismo equiparado tendrá una duración mínima de 135 horas
 
-boc-a-2026-046-750
-Boletín Oficial de Canarias núm. 46 Lunes 9 de marzo de 20268548
-https://sede.gobiernodecanarias.org/boc
 Certificado profesional: Control de organismos que degradan o alteran la madera.
 • Código: SEA_C_005_4B.
 • Título de Formación Profesional asociado: Técnico en Sanidad Ambiental Aplicada.
@@ -612,12 +568,10 @@ totales
 Horas
 semanales
 (17 semanas)
-1697
 Preparación y traslado de materiales en los servicios de  
 control de organismos nocivos
 Código del certificado de competencia: SEA_B_1697
 96 6
-1699
 Control  de  organismos  que  alteran  la  madera  y  sus 
 derivados
 Código del certificado de competencia: SEA_B_1699
@@ -638,12 +592,10 @@ totales
 Horas
 semanales
 (17 semanas)
-1697
 Preparación y traslado de materiales en los servicios de  
 control de organismos nocivos
 Código del certificado de competencia: SEA_B_1697
 96 6
-1701
 Control de organismos en piscinas y otras instalaciones  
 acuáticas
 Código del certificado de competencia: SEA_B_1701
@@ -653,9 +605,6 @@ Duración 385 23
 En régimen general la formación en la empresa u organismo equiparado tendrá una duración mínima de 100 horas
 En régimen intensivo la formación en la empresa u organismo equiparado tendrá una duración mínima de 135 horas
 
-boc-a-2026-046-750
-Boletín Oficial de Canarias núm. 46 Lunes 9 de marzo de 20268549
-https://sede.gobiernodecanarias.org/boc
 Certificado profesional: Sensibilización y educación ambiental.
 • Código: SEA_C_001_5B.
 • Título  de  Formación  Profesional  asociado:  Técnico  Superior  en  Educación  y  Control
@@ -710,9 +659,6 @@ Duración 645 30 19
 En régimen general la formación en la empresa u organismo equiparado tendrá una duración mínima de 165 horas
 En régimen intensivo la formación en la empresa u organismo equiparado tendrá una duración mínima de 230 horas
 
-boc-a-2026-046-750
-Boletín Oficial de Canarias núm. 46 Lunes 9 de marzo de 20268550
-https://sede.gobiernodecanarias.org/boc
 Certificado profesional: Gestión ambiental para el control y protección del medio natural.
 • Código: SEA_C_003_5B.
 • Título  de  Formación  Profesional  asociado:  Técnico  Superior  en  Educación  y  Control
@@ -751,30 +697,23 @@ semanales
 (33 semanas)
 1501 Planificación en emergencias y protección civil
 Código del certificado de competencia: SEA_B_1501 206 6
-1504
 Supervisión de la intervención en riesgos producidos por 
 fenómenos naturales
 Código del certificado de competencia: SEA_B_1504
 96 3
-1505
 Supervisión de la intervención en riesgos tecnológicos y 
 antrópicos
 Código del certificado de competencia: SEA_B_1505
 139 4
-1506
 Supervisión de la intervención en incendios forestales y 
 quemas prescritas
 Código del certificado de competencia: SEA_B_1506
 139 4
-1507
 Supervisión de la intervención en operaciones de 
 incendios urbanos y emergencias ordinarias
 Código del certificado de competencia: SEA_B_1507
 139 4
 
-boc-a-2026-046-750
-Boletín Oficial de Canarias núm. 46 Lunes 9 de marzo de 20268551
-https://sede.gobiernodecanarias.org/boc
 1510 Gestión de recursos de emergencias y protección civil
 Código del certificado de competencia: SEA_B_1510 96 3
 1782 Prevención de riesgos laborales 30 1
@@ -799,12 +738,10 @@ semanales
 (33 semanas)
 1501 Planificación en emergencias y protección civil
 Código del certificado de competencia: SEA_B_1501 206 7 6
-1508
 Supervisión de la intervención en operaciones de 
 salvamento y rescate
 Código del certificado de competencia: SEA_B_1508
 238 10 7
-1509
 Supervisión de las acciones de apoyo a las personas 
 afectadas por desastres y catástrofes
 Código del certificado de competencia: SEA_B_1509
@@ -845,10 +782,6 @@ Horas
 semanales
 (33 semanas)
 
-boc-a-2026-046-750
-Boletín Oficial de Canarias núm. 46 Lunes 9 de marzo de 20268552
-https://sede.gobiernodecanarias.org/boc
-1503
 Planificación y desarrollo de acciones formativas, 
 informativas y divulgativas en protección civil y 
 emergencias
@@ -921,9 +854,6 @@ Duración 570 30 17
 En régimen general la formación en la empresa u organismo equiparado tendrá una duración mínima de 145 horas
 En régimen intensivo la formación en la empresa u organismo equiparado tendrá una duración mínima de 200 horas
 
-boc-a-2026-046-750
-Boletín Oficial de Canarias núm. 46 Lunes 9 de marzo de 20268553
-https://sede.gobiernodecanarias.org/boc
 Certificado profesional:  Gestión de la salud y el medio ambiente. 
 • Código: SEA_C_009_5B.
 • Título de Formación Profesional asociado: Técnico Superior en Química y Salud Ambiental
@@ -954,9 +884,6 @@ Duración 640 30 19
 En régimen general la formación en la empresa u organismo equiparado tendrá una duración mínima de 160 horas
 En régimen intensivo la formación en la empresa u organismo equiparado tendrá una duración mínima de 225 horas
 
-boc-a-2026-046-750
-Boletín Oficial de Canarias núm. 46 Lunes 9 de marzo de 20268554
-https://sede.gobiernodecanarias.org/boc
 ANEXO III
 FAMILIA PROFESIONAL: TEXTIL, CONFECCIÓN Y PIEL
 DISTRIBUCIÓN HORARIA Y ESTRUCTURA MODULAR DE LOS GRADOS C
@@ -1016,9 +943,6 @@ En régimen general la formación en la empresa u organismo equiparado tendrá u
 En régimen intensivo la formación en la empresa u organismo equiparado tendrá una duración mínima de 250 horas
 ANEXO III
 
-boc-a-2026-046-750
-Boletín Oficial de Canarias núm. 46 Lunes 9 de marzo de 20268555
-https://sede.gobiernodecanarias.org/boc
 Certificado profesional: Montaje y acabado de calzado. 
 • Código: TCP_C_003_4B.
 • Título de Formación Profesional asociado: Técnico en Calzado y Complementos de Moda.
@@ -1073,9 +997,6 @@ Duración 540 30 16
 En régimen general la formación en la empresa u organismo equiparado tendrá una duración mínima de 135 horas
 En régimen intensivo la formación en la empresa u organismo equiparado tendrá una duración mínima de 190 horas
 
-boc-a-2026-046-750
-Boletín Oficial de Canarias núm. 46 Lunes 9 de marzo de 20268556
-https://sede.gobiernodecanarias.org/boc
 Certificado profesional: Patronaje en confección industrial.
 • Código: TCP_C_001_5B.
 • Título de Formación Profesional asociado: Técnico Superior en Patronaje y Moda.
@@ -1118,7 +1039,6 @@ semanales
 Horas
 semanales
 (33 semanas)
-0165
 Gestión de la calidad, prevención de riesgos laborales y 
 protección ambiental
 Código del certificado de competencia: TCP_B_0165
@@ -1134,9 +1054,6 @@ Duración 685 30 20
 En régimen general la formación en la empresa u organismo equiparado tendrá una duración mínima de 175 horas
 En régimen intensivo la formación en la empresa u organismo equiparado tendrá una duración mínima de 240 horas
 
-boc-a-2026-046-750
-Boletín Oficial de Canarias núm. 46 Lunes 9 de marzo de 20268557
-https://sede.gobiernodecanarias.org/boc
 Certificado profesional: Confección a medida.
 • Código: TCP_C_007_5B.
 • Título  de  Formación  Profesional  asociado:  Técnico  Superior en  Vestuario  a  Medida  y  de
@@ -1190,9 +1107,6 @@ Duración 850 25
 En régimen general la formación en la empresa u organismo equiparado tendrá una duración mínima de 215 horas
 En régimen intensivo la formación en la empresa u organismo equiparado tendrá una duración mínima de 300 horas
 
-boc-a-2026-046-750
-Boletín Oficial de Canarias núm. 46 Lunes 9 de marzo de 20268558
-https://sede.gobiernodecanarias.org/boc
 ANEXO IV
 FAMILIA PROFESIONAL: TRANSPORTE Y MANTENIMIENTO DE VEHÍCULOS
 DISTRIBUCIÓN HORARIA Y ESTRUCTURA MODULAR DE LOS GRADOS C
@@ -1247,9 +1161,6 @@ En régimen general la formación en la empresa u organismo equiparado tendrá u
 En régimen intensivo la formación en la empresa u organismo equiparado tendrá una duración mínima de 200 horas
 ANEXO IV
 
-boc-a-2026-046-750
-Boletín Oficial de Canarias núm. 46 Lunes 9 de marzo de 20268559
-https://sede.gobiernodecanarias.org/boc
 Certificado profesional: Mantenimiento de estructuras y de elementos no estructurales de carrocerías. 
 • Código: TMV_C_002_4B.
 • Título de Formación Profesional asociado: Técnico en Carrocería.
@@ -1301,9 +1212,6 @@ Duración 605 30 18
 En régimen general la formación en la empresa u organismo equiparado tendrá una duración mínima de 155 horas
 En régimen intensivo la formación en la empresa u organismo equiparado tendrá una duración mínima de 215 horas
 
-boc-a-2026-046-750
-Boletín Oficial de Canarias núm. 46 Lunes 9 de marzo de 20268560
-https://sede.gobiernodecanarias.org/boc
 Certificado  profesional:  Mantenimiento  de  los  sistemas  eléctricos  y  electrónicos  referente  a  los 
 vehículos automóviles.  
 • Código: TMV_C_004_4B.
@@ -1359,9 +1267,6 @@ Duración 540 30 16
 En régimen general la formación en la empresa u organismo equiparado tendrá una duración mínima de 135 horas
 En régimen intensivo la formación en la empresa u organismo equiparado tendrá una duración mínima de 190 horas
 
-boc-a-2026-046-750
-Boletín Oficial de Canarias núm. 46 Lunes 9 de marzo de 20268561
-https://sede.gobiernodecanarias.org/boc
 Certificado profesional: Mantenimiento, reparación y ajuste de los sistemas mecánicos, eléctricos y  
 electrónicos  referente  a  la  maquinaria  de  la  industria  agropecuaria,  extractiva,  industrial  y 
 constructiva.  
@@ -1419,9 +1324,6 @@ Duración 770 30 23
 En régimen general la formación en la empresa u organismo equiparado tendrá una duración mínima de 195 horas
 En régimen intensivo la formación en la empresa u organismo equiparado tendrá una duración mínima de 270 horas
 
-boc-a-2026-046-750
-Boletín Oficial de Canarias núm. 46 Lunes 9 de marzo de 20268562
-https://sede.gobiernodecanarias.org/boc
 Certificado profesional: Mantenimiento de los sistemas mecánicos del material rodante ferroviario. 
 • Código: TMV_C_008_4B.
 • Título de Formación Profesional asociado: Técnico en Mantenimiento de Material Rodante
@@ -1476,9 +1378,6 @@ Código del certificado de competencia: TMV_B_0975  204 9 6
    0976 Sistemas lógicos de material rodante ferroviario 
 Código del certificado de competencia: TMV_B_0976   170 8 5
 
-boc-a-2026-046-750
-Boletín Oficial de Canarias núm. 46 Lunes 9 de marzo de 20268563
-https://sede.gobiernodecanarias.org/boc
 1782 Prevención de riesgos laborales 30 2 1
 Duración 640 30 19
 En régimen general la formación en la empresa u organismo equiparado tendrá una duración mínima de 160 horas
@@ -1525,7 +1424,6 @@ semanales
 Código del certificado de competencia: TMV_B_0540 202 11 6
 0541 Operaciones básicas de mobiliario 
 Código del certificado de competencia: TMV_B_0541 202 10 6
-1633 
 Mantenimiento de elementos interiores de madera y 
 mobiliario de embarcaciones de recreo 
 Código del certificado de competencia: TMV_B_1633 
@@ -1546,9 +1444,6 @@ Horas
 semanales
 (33 semanas)
 
-boc-a-2026-046-750
-Boletín Oficial de Canarias núm. 46 Lunes 9 de marzo de 20268564
-https://sede.gobiernodecanarias.org/boc
 Certificado profesional: Mantenimiento de elementos de madera en embarcaciones de recreo. 
 • Código: TMV_C_012_4B.
 • Título  de  Formación  Profesional  asociado:  Técnico  en  Mantenimiento  de  Estructuras  de
@@ -1568,12 +1463,10 @@ Código del certificado de competencia: TMV_B_0540 204 6
 mantenimiento 136 4
 1630 Mecanizado de elementos de carpintería de ribera 
 Código del certificado de competencia: TMV_B_1630 136 4
-1631 
 Mantenimiento de cubiertas y cascos de madera en 
 embarcaciones de recreo 
 Código del certificado de competencia: TMV_B_1631 
 168 5
-1632 
 Mantenimiento de elementos estructurales de madera de 
 embarcaciones de recreo 
 Código del certificado de competencia: TMV_B_1632 
@@ -1604,9 +1497,6 @@ Código del certificado de competencia: TMV_B_0293  271 8
 0297 Gestión y logística del mantenimiento de vehículos 141 4
 Código del certificado de competencia: TMV_B_0297  
 
-boc-a-2026-046-750
-Boletín Oficial de Canarias núm. 46 Lunes 9 de marzo de 20268565
-https://sede.gobiernodecanarias.org/boc
 0309 Técnicas de comunicación y de relaciones 64 2
 1782 Prevención de riesgos laborales 30 1
 Duración 1015 30

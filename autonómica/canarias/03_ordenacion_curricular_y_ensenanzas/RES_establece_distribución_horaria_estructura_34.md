@@ -31,9 +31,6 @@ fuente_pdf_oficial: https://sede.gobiernodecanarias.org/boc/boc-a-2026-045-733.p
 
 # Resolución de 25 de febrero de 2026, por la que se establece la distribución horaria y estructura modular de los Grados C (Certificados Profesionales) y sus correspondientes Grados B (Certificados de Competencia), de niveles 2 y 3, de las familias profesionales de Actividades Físicas y Deportivas; Comercio y Marketing; y Marítimo-Pesquera, en el ámbito de la Comunidad Autónoma de Canarias.
 
-https://sede.gobiernodecanarias.org/boc
-boc-a-2026-045-733
-Boletín Oficial de Canarias núm. 45 Viernes 6 de marzo de 20268287
 III. Otras Resoluciones
 Consejería de Educación, Formación Profesional, Actividad Física y Deportes
 733 Viceconsejería de Formación Profesional y Cualificaciones Profesionales.- 
@@ -76,9 +73,6 @@ D de los que tuvieran desarrollo autonómico, estableciendo la misma duración h
 cada módulo profesional en el ámbito autonómico, con independencia del grado en el que 
 se integren.
 
-https://sede.gobiernodecanarias.org/boc
-boc-a-2026-045-733
-Boletín Oficial de Canarias núm. 45 Viernes 6 de marzo de 20268288
 Asimismo, el artículo 22.5 determina que, cuando un Grado C incorpore un módulo 
 profesional no incluido en el currículo básico del Grado D, su duración será la fijada para 
 el ámbito de gestión del Ministerio de Educación, Formación Profesional y Deportes.
@@ -120,9 +114,6 @@ En particular, el apartado 2 dispone la organización de las ofertas del Sistema
 Formación Profesional como dimensión vertical definitoria, estructurada de forma 
 escalonada en una serie ascendente de Grados. Esta ordenación es descriptiva de la amplitud 
 
-https://sede.gobiernodecanarias.org/boc
-boc-a-2026-045-733
-Boletín Oficial de Canarias núm. 45 Viernes 6 de marzo de 20268289
 de cada oferta formativa diseñada a partir del estándar de competencias profesionales de 
 mayor nivel del Catálogo Nacional de Estándares de Competencias Profesionales.
 Así mismo, en el punto 5 del citado artículo establece que todas las ofertas de Formación 
@@ -164,9 +155,6 @@ recogidos en el Anexo II de la presente Resolución.
 Tercero.- Aprobar la distribución horaria y la estructura modular de los Grados C 
 (Certificados Profesionales) y sus correspondientes Grados B (Certificados de Competencia) 
 
-https://sede.gobiernodecanarias.org/boc
-boc-a-2026-045-733
-Boletín Oficial de Canarias núm. 45 Viernes 6 de marzo de 20268290
 de niveles 2 y 3 de la familia profesional de Marítimo-Pesquera, en los términos recogidos 
 en el Anexo III de la presente Resolución.
 Cuarto.- La distribución horaria y estructura modular establecida en la presente 
@@ -195,9 +183,6 @@ cualquier otro que se estime procedente.
 Las Palmas de Gran Canaria, a 25 de febrero de 2026.- El Viceconsejero de Formación 
 Profesional y Cualificaciones Profesionales, Francisco Rodríguez Machado.
 
-boc-a-2026-045-733
-Boletín Oficial de Canarias núm. 45 Viernes 6 de marzo de 20268291
-https://sede.gobiernodecanarias.org/boc
 ANEXO I
 FAMILIA PROFESIONAL: ACTIVIDADES FÍSICAS Y DEPORTIV AS
 DISTRIBUCIÓN HORARIA Y ESTRUCTURA MODULAR DE LOS GRADOS C
@@ -246,9 +231,6 @@ En régimen general la formación en la empresa u organismo equiparado tendrá u
 En régimen intensivo la formación en la empresa u organismo equiparado tendrá una duración mínima de 275 horas.
 ANEXO I
 
-boc-a-2026-045-733
-Boletín Oficial de Canarias núm. 45 Viernes 6 de marzo de 20268292
-https://sede.gobiernodecanarias.org/boc
 Certificado profesional: Guía de bicicleta en el medio natural.
 • Código: AFD_C_005_4B.
 • Título de Formación Profesional asociado: Técnico en Guía en el Medio Natural y de Tiempo
@@ -307,9 +289,6 @@ Duración 700 30 21
 En régimen general la formación en la empresa u organismo equiparado tendrá una duración mínima de 175 horas.
 En régimen intensivo la formación en la empresa u organismo equiparado tendrá una duración mínima de 245 horas.
 
-boc-a-2026-045-733
-Boletín Oficial de Canarias núm. 45 Viernes 6 de marzo de 20268293
-https://sede.gobiernodecanarias.org/boc
 ANEXO II
 FAMILIA PROFESIONAL: COMERCIO Y MARKETING
 DISTRIBUCIÓN HORARIA Y ESTRUCTURA MODULAR DE LOS GRADOS C
@@ -368,9 +347,6 @@ Código del certificado de competencia: COM_B_1232 171 7 5
 1235 Comercio electrónico 138 5 4
 ANEXO II
 
-boc-a-2026-045-733
-Boletín Oficial de Canarias núm. 45 Viernes 6 de marzo de 20268294
-https://sede.gobiernodecanarias.org/boc
 1782 Prevención de riesgos laborales 30 2 1
 Duración 785 30 23
 En régimen general la formación en la empresa u organismo equiparado tendrá una duración mínima de 200 horas.
@@ -438,9 +414,6 @@ Horas
 semanales
 (33 semanas)
 
-boc-a-2026-045-733
-Boletín Oficial de Canarias núm. 45 Viernes 6 de marzo de 20268295
-https://sede.gobiernodecanarias.org/boc
 Certificado profesional: Operaciones de logística, control y supervisión de productos en un comercio  
 alimentario.
 • Código: COM_C_005_4B.
@@ -460,7 +433,6 @@ semanales
 (33 semanas)
 1610 Seguridad y calidad alimentaria en el comercio
 Código del certificado de competencia: COM_B_1610 138 6 4
-1611
 Preparación y acondicionamiento de productos frescos y
 transformados
 Código del certificado de competencia: COM_B_1611
@@ -489,7 +461,6 @@ Horas
 semanales
 (33 semanas)
 0156 Inglés Profesional (GM) 96 4 3
-1608
 Dinamización del punto de venta en comercios de 
 alimentación
 Código del certificado de competencia: COM_B_1608
@@ -504,9 +475,6 @@ Duración 670 30 20
 En régimen general la formación en la empresa u organismo equiparado tendrá una duración mínima de 170 horas.
 En régimen intensivo la formación en la empresa u organismo equiparado tendrá una duración mínima de 235 horas.
 
-boc-a-2026-045-733
-Boletín Oficial de Canarias núm. 45 Viernes 6 de marzo de 20268296
-https://sede.gobiernodecanarias.org/boc
 Certificado profesional: Investigación de mercados y estudios de opinión.
 • Código: COM_C_001_5B.
 • Título de Formación Profesional asociado: Técnico Superior en Marketing y Publicidad.
@@ -559,9 +527,6 @@ Duración 830 25
 En régimen general la formación en la empresa u organismo equiparado tendrá una duración mínima de 210 horas.
 En régimen intensivo la formación en la empresa u organismo equiparado tendrá una duración mínima de 295 horas.
 
-boc-a-2026-045-733
-Boletín Oficial de Canarias núm. 45 Viernes 6 de marzo de 20268297
-https://sede.gobiernodecanarias.org/boc
 Certificado profesional: Lanzamiento del producto, gestión de la empresa y de la atención al cliente.
 • Código: COM_C_003_5B.
 • Título de Formación Profesional asociado: Técnico Superior en Marketing y Publicidad.
@@ -615,9 +580,6 @@ Duración 515 30 15
 En régimen general la formación en la empresa u organismo equiparado tendrá una duración mínima de 130 horas.
 En régimen intensivo la formación en la empresa u organismo equiparado tendrá una duración mínima de 185 horas.
 
-boc-a-2026-045-733
-Boletín Oficial de Canarias núm. 45 Viernes 6 de marzo de 20268298
-https://sede.gobiernodecanarias.org/boc
 Certificado profesional: Gestión administrativa del transporte internacional.
 • Código: COM_C_005_5B.
 • Título de Formación Profesional asociado: Técnico Superior en Transporte y Logística.
@@ -673,9 +635,6 @@ Duración 710 30 21
 En régimen general la formación en la empresa u organismo equiparado tendrá una duración mínima de 180 horas.
 En régimen intensivo la formación en la empresa u organismo equiparado tendrá una duración mínima de 250 horas.
 
-boc-a-2026-045-733
-Boletín Oficial de Canarias núm. 45 Viernes 6 de marzo de 20268299
-https://sede.gobiernodecanarias.org/boc
 Certificado profesional: Logística y gestión de almacén.
 • Código: COM_C_007_5B.
 • Título de Formación Profesional asociado: Técnico Superior en Transporte y Logística.
@@ -732,9 +691,6 @@ Duración 565 30 17
 En régimen general la formación en la empresa u organismo equiparado tendrá una duración mínima de 145 horas.
 En régimen intensivo la formación en la empresa u organismo equiparado tendrá una duración mínima de 200 horas.
 
-boc-a-2026-045-733
-Boletín Oficial de Canarias núm. 45 Viernes 6 de marzo de 20268300
-https://sede.gobiernodecanarias.org/boc
 Certificado profesional: Gestión logística y comercial en la pequeña empresa. 
 • Código: COM_C_009_5B.
 • Título de Formación Profesional asociado: Técnico Superior en Gestión de Ventas y Espacios
@@ -790,9 +746,6 @@ Duración 610 30 18
 En régimen general la formación en la empresa u organismo equiparado tendrá una duración mínima de 155 horas.
 En régimen intensivo la formación en la empresa u organismo equiparado tendrá una duración mínima de 215 horas.
 
-boc-a-2026-045-733
-Boletín Oficial de Canarias núm. 45 Viernes 6 de marzo de 20268301
-https://sede.gobiernodecanarias.org/boc
 Certificado profesional: Gestión de la empresa para el comercio internacional.
 • Código: COM_C_011_5B.
 • Título de Formación Profesional asociado: Técnico Superior en Comercio Internacional.
@@ -849,9 +802,6 @@ Duración 735 30 22
 En régimen general la formación en la empresa u organismo equiparado tendrá una duración mínima de 185 horas.
 En régimen intensivo la formación en la empresa u organismo equiparado tendrá una duración mínima de 260 horas.
 
-boc-a-2026-045-733
-Boletín Oficial de Canarias núm. 45 Viernes 6 de marzo de 20268302
-https://sede.gobiernodecanarias.org/boc
 Certificado profesional: Marketing y comercio internacional.
 • Código: COM_C_013_5B.  
 • Título de Formación Profesional asociado: Técnico Superior en Comercio Internacional.
@@ -881,9 +831,6 @@ Duración 580 30 17
 En régimen general la formación en la empresa u organismo equiparado tendrá una duración mínima de 145 horas.
 En régimen intensivo la formación en la empresa u organismo equiparado tendrá una duración mínima de 205 horas.
 
-boc-a-2026-045-733
-Boletín Oficial de Canarias núm. 45 Viernes 6 de marzo de 20268303
-https://sede.gobiernodecanarias.org/boc
 ANEXO III
 FAMILIA PROFESIONAL: MARÍTIMO PESQUERA
 DISTRIBUCIÓN HORARIA Y ESTRUCTURA MODULAR DE LOS GRADOS C
@@ -940,9 +887,6 @@ En régimen general la formación en la empresa u organismo equiparado tendrá u
 En régimen intensivo la formación en la empresa u organismo equiparado tendrá una duración mínima de 270 horas.
 ANEXO III
 
-boc-a-2026-045-733
-Boletín Oficial de Canarias núm. 45 Viernes 6 de marzo de 20268304
-https://sede.gobiernodecanarias.org/boc
 Certificado profesional: Cultivo de moluscos.
 • Código: MAP_C_003_4B.
 • Título de Formación Profesional asociado: Técnico en Cultivos Acuícolas.
@@ -984,7 +928,6 @@ semanales
 Horas
 semanales
 (33 semanas)
-1172
 Mantenimiento de la planta propulsora y maquinaria 
 auxiliar 
 Código del certificado de competencia: MAP_B_1172
@@ -998,9 +941,6 @@ Código del certificado de competencia: MAP_B_1033 64 3 2
 0156 Inglés profesional (GM) 
 Código del certificado de competencia: MAP_B_0156 96 4 3
 
-boc-a-2026-045-733
-Boletín Oficial de Canarias núm. 45 Viernes 6 de marzo de 20268305
-https://sede.gobiernodecanarias.org/boc
 1782 Prevención de riesgos laborales 30 2 1
 Duración 665 30 20
 En régimen general la formación en la empresa u organismo equiparado tendrá una duración mínima de 170 horas.
@@ -1022,12 +962,10 @@ semanales
 Horas
 semanales
 (33 semanas)
-1173
 Procedimientos de mecanizado y soldadura en buques y
 embarcaciones 
 Código del certificado de competencia: MAP_B_1173
 237 9 7
-1174
 Regulación y mantenimiento de automatismos en buques 
 y embarcaciones 
 Código del certificado de competencia: MAP_B_1174
@@ -1054,9 +992,6 @@ Horas
 semanales
 (33 semanas)
 
-boc-a-2026-045-733
-Boletín Oficial de Canarias núm. 45 Viernes 6 de marzo de 20268306
-https://sede.gobiernodecanarias.org/boc
 Certificado profesional: Mantenimiento y control de las instalaciones de frío y climatización en buques 
 y embarcaciones.
 • Código: MAP_C_006_4B.
@@ -1074,12 +1009,10 @@ semanales
 Horas
 semanales
 (33 semanas)
-1175
 Mantenimiento de las instalaciones y máquinas eléctricas 
 en buques y embarcaciones 
 Código del certificado de competencia: MAP_B_1175
 174 7 5
-1176
 Instalación y mantenimiento de maquinaria de frío y
 climatización en buques y embarcaciones 
 Código del certificado de competencia: MAP_B_1176
@@ -1121,9 +1054,6 @@ Duración 605 30 18
 En régimen general la formación en la empresa u organismo equiparado tendrá una duración mínima de 155 horas.
 En régimen intensivo la formación en la empresa u organismo equiparado tendrá una duración mínima de 215 horas.
 
-boc-a-2026-045-733
-Boletín Oficial de Canarias núm. 45 Viernes 6 de marzo de 20268307
-https://sede.gobiernodecanarias.org/boc
 Certificado  profesional: Operaciones  subacuáticas  de  reparaciones  a flote, reflotamientos,  corte  y 
 soldadura.
 • Código: MAP_C_008_4B.
@@ -1182,9 +1112,6 @@ Duración 640 30 19
 En régimen general la formación en la empresa u organismo equiparado tendrá una duración mínima de 160 horas.
 En régimen intensivo la formación en la empresa u organismo equiparado tendrá una duración mínima de 225 horas.
 
-boc-a-2026-045-733
-Boletín Oficial de Canarias núm. 45 Viernes 6 de marzo de 20268308
-https://sede.gobiernodecanarias.org/boc
 Certificado profesional: Navegación en aguas interiores y control de la planta propulsora del buque. 
 • Código: MAP_C_010_4B.
 • Título  de  Formación  Profesional  asociado:  Técnico  en  Operaciones  Subacuáticas  e
@@ -1241,9 +1168,6 @@ Duración 1075 32
 En régimen general la formación en la empresa u organismo equiparado tendrá una duración mínima de 270 horas.
 En régimen intensivo la formación en la empresa u organismo equiparado tendrá una duración mínima de 380 horas.
 
-boc-a-2026-045-733
-Boletín Oficial de Canarias núm. 45 Viernes 6 de marzo de 20268309
-https://sede.gobiernodecanarias.org/boc
 Certificado profesional: Pesca de litoral.
 • Código: MAP_C_012_4B.
 • Título de Formación Profesional asociado: Técnico en Navegación y Pesca de Litoral.
@@ -1295,9 +1219,6 @@ Duración 425 26
 En régimen general la formación en la empresa u organismo equiparado tendrá una duración mínima de 110 horas.
 En régimen intensivo la formación en empresa u organismo equiparado tendrá una duración mínima de 150 horas. 
 
-boc-a-2026-045-733
-Boletín Oficial de Canarias núm. 45 Viernes 6 de marzo de 20268310
-https://sede.gobiernodecanarias.org/boc
 Certificado profesional: Gestión de la producción de peces y cultivos auxiliares. 
 • Código: MAP_C_001_5B.
 • Título de Formación Profesional asociado: Técnico Superior en Acuicultura.
@@ -1316,7 +1237,6 @@ Código del certificado de competencia: MAP_B_1015 204 6
 Código del certificado de competencia: MAP_B_1016 202 6
 1019 Instalaciones, innovación y sistemas de automatización en 
 acuicultura 235 7
-1020
 Técnicas analíticas y métodos de control sanitario en
 acuicultura
 Código del certificado de competencia: MAP_B_1020
@@ -1328,9 +1248,6 @@ Duración 940 28
 En régimen general la formación en la empresa u organismo equiparado tendrá una duración mínima de 235 horas.
 En régimen intensivo la formación en la empresa u organismo equiparado tendrá una duración mínima de 330 horas.
 
-boc-a-2026-045-733
-Boletín Oficial de Canarias núm. 45 Viernes 6 de marzo de 20268311
-https://sede.gobiernodecanarias.org/boc
 Certificado profesional: Gestión de la producción de crustáceos, moluscos y cultivos auxiliares. 
 • Código: MAP_C_002_5B.
 • Título de Formación Profesional asociado: Técnico Superior en Acuicultura.
@@ -1349,7 +1266,6 @@ Código del certificado de competencia: MAP_B_1015 202 5*
 Código del certificado de competencia: MAP_B_1017 239 6*
 1018 Técnicas y gestión de la producción de crustáceos
 Código del certificado de competencia: MAP_B_1018 205 6
-1020
 Técnicas analíticas y métodos de control sanitario en
 acuicultura
 Código del certificado de competencia: MAP_B_1020
@@ -1366,9 +1282,6 @@ régimen intensivo
 En régimen general la formación en la empresa u organismo equiparado tendrá una duración de 395 horas.
 En régimen intensivo la formación en la empresa u organismo equiparado tendrá una duración de 515 horas.
 
-boc-a-2026-045-733
-Boletín Oficial de Canarias núm. 45 Viernes 6 de marzo de 20268312
-https://sede.gobiernodecanarias.org/boc
 Certificado profesional: Navegación y transporte marítimo.
 • Código: MAP_C_003_5B.
 • Título de Formación Profesional asociado: Técnico Superior en Transporte Marítimo y Pesca
@@ -1392,7 +1305,6 @@ Código del certificado de competencia: MAP_B_0800 173 5
 Código del certificado de competencia: MAP_B_0179 96 3
 0802 Organización de la asistencia sanitaria a bordo
 Código del certificado de competencia: MAP_B_0802 64 2
-0803
 Administración y gestión del buque y de la actividad
 pesquera
 Código del certificado de competencia: MAP_B_0803
@@ -1405,9 +1317,6 @@ régimen intensivo
 En régimen general la formación en la empresa u organismo equiparado tendrá una duración mínima de 315 horas.
 En régimen intensivo la formación en la empresa u organismo equiparado tendrá una duración mínima de 425 horas.
 
-boc-a-2026-045-733
-Boletín Oficial de Canarias núm. 45 Viernes 6 de marzo de 20268313
-https://sede.gobiernodecanarias.org/boc
 Certificado profesional: Pesca de altura.
 • Código: MAP_C_004_5B.
 • Título de Formación Profesional asociado: Técnico Superior en Transporte Marítimo y Pesca
@@ -1465,9 +1374,6 @@ Duración 635 30 19
 En régimen general la formación en la empresa u organismo equiparado tendrá una duración mínima de 160 horas.
 En régimen intensivo la formación en la empresa u organismo equiparado tendrá una duración mínima de 225 horas.
 
-boc-a-2026-045-733
-Boletín Oficial de Canarias núm. 45 Viernes 6 de marzo de 20268314
-https://sede.gobiernodecanarias.org/boc
 Certificado profesional: Organización y supervisión del mantenimiento de la planta propulsora y  
 maquinaria auxiliar, y de la guardia de máquinas de buques y embarcaciones.
 • Código: MAP_C_006_5B.
@@ -1485,7 +1391,6 @@ semanales
 Horas
 semanales
 (33 semanas)
-1308
 Organización del mantenimiento de planta propulsora y
 maquinaria auxiliar de buques 
 Código del certificado de competencia: MAP_B_1308
@@ -1502,9 +1407,6 @@ Duración 630 30 19
 En régimen general la formación en la empresa u organismo equiparado tendrá una duración mínima de 160 horas.
 En régimen intensivo la formación en la empresa u organismo equiparado tendrá una duración mínima de 225 horas.
 
-boc-a-2026-045-733
-Boletín Oficial de Canarias núm. 45 Viernes 6 de marzo de 20268315
-https://sede.gobiernodecanarias.org/boc
 Certificado  profesional:  Organización,  planificación  y  programación  del  mantenimiento  de  la 
 maquinaria, de los sistemas de propulsión, de gobierno y automáticos de buques y embarcaciones a  
 flote y en seco.
@@ -1520,17 +1422,14 @@ totales
 Horas
 semanales
 (33 semanas)
-1309
 Organización del mantenimiento en seco de buques y
 embarcaciones y montaje de motores térmicos 
 Código del certificado de competencia: MAP_B_1309
 202 6
-1310
 Programación y mantenimiento de automatismos 
 hidráulicos y neumáticos en buques y embarcaciones 
 Código del certificado de competencia: MAP_B_1310
 206 6
-1313
 Planificación del mantenimiento de maquinaria de buques 
 y embarcaciones 
 Código del certificado de competencia: MAP_B_1313
@@ -1546,9 +1445,6 @@ Duración 910 27
 En régimen general la formación en la empresa u organismo equiparado tendrá una duración mínima de 230 horas.
 En régimen intensivo la formación en la empresa u organismo equiparado tendrá una duración mínima de 320 horas.
 
-boc-a-2026-045-733
-Boletín Oficial de Canarias núm. 45 Viernes 6 de marzo de 20268316
-https://sede.gobiernodecanarias.org/boc
 Certificado profesional: Organización y supervisión del mantenimiento y montaje de instalaciones y  
 sistemas eléctricos y electrónicos e instalaciones frigoríficas y sistemas de climatización de buques y  
 embarcaciones.
@@ -1567,13 +1463,11 @@ semanales
 Horas
 semanales
 (33 semanas)
-1311
 Organización del mantenimiento y montaje de 
 instalaciones y sistemas eléctricos de buques y 
 embarcaciones 
 Código del certificado de competencia: MAP_B_1311
 170 7 5
-1312
 Organización del mantenimiento y montaje de 
 instalaciones frigoríficas y sistemas de climatización de 
 buques y embarcaciones 

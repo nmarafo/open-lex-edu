@@ -32,9 +32,6 @@ fuente_pdf_oficial: https://sede.gobiernodecanarias.org/boc/boc-a-2024-251-4224.
 
 # Resolución de 10 de diciembre de 2024, de la Dirección General de Formación Profesional y Enseñanzas de Régimen Especial,-por la que se dictan instrucciones y orientaciones para la implantación y desarrollo de la oferta en las modalidades semipresencial y virtual de certificados profesionales de Grado C, ciclos formativos de Grado D y cursos especialización de Grado E a partir del curso 2024/2025 en el ámbito de la Comunidad Autónoma de Canarias (BOC nº 251, de 18 de diciembre).
 
-https://sede.gobiernodecanarias.org/boc
-boc-a-2024-251-4224
-Boletín Oficial de Canarias núm. 251 Miércoles 18 de diciembre de 202443821
 III. Otras Resoluciones
 Consejería de Educación, Formación Profesional, Actividad Física y Deportes
 4224 Dirección General de Formación Profesional y Enseñanzas de Régimen Especial.- 
@@ -80,9 +77,6 @@ la
 LOOIFP, surge la necesidad de concretar determinados aspectos para la implantación y 
 desarrollo de las ofertas de Grado C, D y E en las modalidades semipresencial y virtual en 
 
-https://sede.gobiernodecanarias.org/boc
-boc-a-2024-251-4224
-Boletín Oficial de Canarias núm. 251 Miércoles 18 de diciembre de 202443822
 la Comunidad Autónoma de Canarias, con el fin de atender las demandas formativas de la 
 población, haciéndolas compatibles con su actividad laboral, facilitando de esta manera 
 la actualización de competencias profesionales de las personas cuyas responsabilidades 
@@ -127,9 +121,6 @@ ya sea en la modalidad semipresencial o a distancia” y en al artículo 40.2 qu
 impartir en la modalidad de educación no presencial (...) la formación profesional, la 
 formación para el empleo y la formación permanente”.
 
-https://sede.gobiernodecanarias.org/boc
-boc-a-2024-251-4224
-Boletín Oficial de Canarias núm. 251 Miércoles 18 de diciembre de 202443823
 Cuarto.- El Real Decreto 659/2023, de 18 de julio, por el que se desarrolla la ordenación 
 del Sistema de Formación Profesional, regula en su artículo 25 las condiciones y requisitos 
 básicos para el desarrollo de todas las modalidades de la formación profesional, haciendo 
@@ -171,9 +162,6 @@ Por todo lo expuesto, de conformidad con lo establecido en el artículo 20.2.d) 
 Decreto 84/2024, de 10 de junio, por el que se aprueba el Reglamento Orgánico de la 
 Consejería de Educación, Formación Profesional, Actividad Física y Deportes,
 
-https://sede.gobiernodecanarias.org/boc
-boc-a-2024-251-4224
-Boletín Oficial de Canarias núm. 251 Miércoles 18 de diciembre de 202443824
 RESUELVO :
 Primero.- Aprobar instrucciones y orientaciones específicas para la organización de 
 las modalidades semipresencial y virtual de las ofertas de Grado C, D y E a partir del curso 
@@ -199,9 +187,6 @@ Oficial de Canarias, sin perjuicio de cualquier otro que se estime procedente in
 Las Palmas de Gran Canaria, a 10 de diciembre de 2024.- La Directora General de 
 Formación Profesional y Enseñanzas de Régimen Especial, Carolina León Martínez.
 
-https://sede.gobiernodecanarias.org/boc
-boc-a-2024-251-4224
-Boletín Oficial de Canarias núm. 251 Miércoles 18 de diciembre de 202443825
 ANEXO
 INSTRUCCIONES PARA LA ORGANIZACIÓN DE LAS MODALIDADES 
 SEMIPRESENCIAL Y VIRTUAL DE LOS GRADOS C, D Y E DE FORMACIÓN 
@@ -241,9 +226,6 @@ requiriendo un mínimo de asistencia presencial obligatoria del alumnado en el c
 educativo del 20 por ciento de la duración total del currículo, exceptuando el periodo de 
 formación en empresa u organismo equiparado (150 horas por cada uno de los cursos 
 
-https://sede.gobiernodecanarias.org/boc
-boc-a-2024-251-4224
-Boletín Oficial de Canarias núm. 251 Miércoles 18 de diciembre de 202443826
 que componen los ciclos formativos de los Grados D). En aquellos ciclos formativos 
 cuyo equipamiento o maquinaria propia de la enseñanza pueda ser simulada mediante 
 aplicaciones o medios tecnológicos que el centro ponga a disposición del alumnado, la 
@@ -285,9 +267,6 @@ b) En el caso de la oferta de los Grados D, el mínimo será de 20 personas en l
 formativos de ratio 40 y 25 en los ciclos formativos de ratio 50.
 c) Para la oferta de Grados E se requerirá un mínimo de 10 personas admitidas.
 
-https://sede.gobiernodecanarias.org/boc
-boc-a-2024-251-4224
-Boletín Oficial de Canarias núm. 251 Miércoles 18 de diciembre de 202443827
 En casos excepcionales, la dirección del centro solicitará, de manera razonada y 
 motivada, autorización a la Dirección General de Formación Profesional y Enseñanzas 
 de Régimen Especial para poder impartir estas modalidades por debajo de los límites 
@@ -329,9 +308,6 @@ de acceso a la Formación Profesional contemplados para los diferentes grados en
 LOOIFP 
 y en el Real Decreto 659/2023, de 18 de julio.
 
-https://sede.gobiernodecanarias.org/boc
-boc-a-2024-251-4224
-Boletín Oficial de Canarias núm. 251 Miércoles 18 de diciembre de 202443828
 4. Se podrá permitir el acceso a la formación modular, en la modalidad semipresencial 
 o virtual, a personas con experiencia laboral que no reúnan las condiciones académicas 
 establecidas para el acceso a la formación. En este caso, el cumplimiento de los requisitos de 
@@ -380,9 +356,6 @@ presencial, que se desarrollará entre las 17:00 y las 23:00 horas, debiendo alc
 ciento de la duración total del currículo.
 Las sesiones de tutoría colectiva se programarán en horario de tarde o noche.
 
-https://sede.gobiernodecanarias.org/boc
-boc-a-2024-251-4224
-Boletín Oficial de Canarias núm. 251 Miércoles 18 de diciembre de 202443829
 6. El calendario de actividades y pruebas de evaluación final de los módulos se hará 
 público en los veinte (20) primeros días del curso, incluyendo los resultados de aprendizaje, 
 criterios de evaluación, los procedimientos de calificación de cada módulo y cuanta otra 
@@ -424,9 +397,6 @@ del 10% de aquellas actividades que se consideren imprescindibles para la supera
 módulo, salvo lo dispuesto en los supuestos recogidos en los puntos 1 y 7 de la instrucción 
 sexta y el apartado A).5 de la instrucción novena.
 
-https://sede.gobiernodecanarias.org/boc
-boc-a-2024-251-4224
-Boletín Oficial de Canarias núm. 251 Miércoles 18 de diciembre de 202443830
 • Cada centro programará sobre la base de los criterios pedagógicos establecidos las 
 tutorías tal y como vienen establecidas en el apartado c) de esta instrucción para el desarrollo 
 de aquellos procedimientos de carácter práctico de cada módulo. Dichos criterios deberán 
@@ -496,9 +466,6 @@ docente
 8 40 4 1 3 ≤ 8
 Superior a 9 h 45 5 1 ≤ 3 ≤ 9
 
-https://sede.gobiernodecanarias.org/boc
-boc-a-2024-251-4224
-Boletín Oficial de Canarias núm. 251 Miércoles 18 de diciembre de 202443831
 • Siguiendo lo establecido para la Comunidad Autónoma de Canarias con respecto a 
 la distribución horaria y estructura modular de las ofertas formativas de Grado D de nivel 
 2 y 3, el centro educativo podrá llevar a cabo ajustes temporales para la impartición de los 
@@ -560,9 +527,6 @@ IJK: Inglés Profesional (GM)
 DHI: Digitalización aplicada a los sectores productivos
 ITK: Itinerario Personal para la Empleabilidad I
 
-https://sede.gobiernodecanarias.org/boc
-boc-a-2024-251-4224
-Boletín Oficial de Canarias núm. 251 Miércoles 18 de diciembre de 202443832
 Cronogramas para el desarrollo de las sesiones:
 Para sesiones de 2,5 horas:
 Semanas 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21 22 23 24 25 26 27 28 29 30
@@ -613,9 +577,6 @@ aprendizaje, permite el desarrollo de un espacio de comunicación telemática pe
 Este entorno está concebido e ideado para que alumnado y profesorado desarrollen el 
 proceso formativo mediante el uso de sistemas telemáticos.
 
-https://sede.gobiernodecanarias.org/boc
-boc-a-2024-251-4224
-Boletín Oficial de Canarias núm. 251 Miércoles 18 de diciembre de 202443833
 2. Los docentes asignarán actividades de carácter evaluable en el entorno virtual. Para 
 ello, podrán hacer uso de la oferta de actividades de la plataforma moodle de enseñanza 
 virtual. Este entorno virtual, que ha de ser eficaz, versátil y simple en su uso, tratará de 
@@ -654,9 +615,6 @@ horas) de la duración total de la enseñanza. En el caso del Grado E, cuando se
 formación en empresa u organismo equiparado, su duración será la establecida para la 
 modalidad presencial, realizándose en un único periodo.
 
-https://sede.gobiernodecanarias.org/boc
-boc-a-2024-251-4224
-Boletín Oficial de Canarias núm. 251 Miércoles 18 de diciembre de 202443834
 3. Con carácter general, la formación en empresa u organismo equiparado contemplada 
 en las ofertas de Grado C, D y, E en modalidad semipresencial y virtual, será presencial, 
 salvo que la empresa en la que se realiza permita el desarrollo de las actividades productivas 
@@ -702,9 +660,6 @@ DGFPERE.
 tanto en modalidad semipresencial como en virtual, según lo previsto en el Real Decreto 
 659/2023, de 18 de julio.
 
-https://sede.gobiernodecanarias.org/boc
-boc-a-2024-251-4224
-Boletín Oficial de Canarias núm. 251 Miércoles 18 de diciembre de 202443835
 Novena.- Evaluación.
 A) Características generales.
 1. La evaluación del aprendizaje del alumnado que curse formación en estas 
@@ -746,9 +701,6 @@ tutorías presenciales.
 actividades, trabajos, productos y participaciones en foros, etc. presentados en la plataforma 
 virtual realizados a lo largo de la acción formativa y una prueba de evaluación final de 
 
-https://sede.gobiernodecanarias.org/boc
-boc-a-2024-251-4224
-Boletín Oficial de Canarias núm. 251 Miércoles 18 de diciembre de 202443836
 carácter presencial obligatoria. Los criterios de evaluación y calificación del proceso de 
 aprendizaje se aplicarán según lo definido en el proyecto formativo.
 9. De acuerdo con el calendario establecido para cada curso escolar, durante el mes de 
@@ -790,9 +742,6 @@ módulo profesional en estas modalidades, el alumnado tiene que haber llevado a 
 por ciento de las actividades de aprendizaje propuestas y haberlas superado positivamente 
 en, al menos, el 70 ciento, con independencia de las horas de tutorización o conexión.
 
-https://sede.gobiernodecanarias.org/boc
-boc-a-2024-251-4224
-Boletín Oficial de Canarias núm. 251 Miércoles 18 de diciembre de 202443837
 2. La superación del certificado profesional asociado al Grado C corresponderá a una 
 decisión colegiada del equipo docente, y se tomará atendiendo al conjunto de competencias 
 incluidas en la formación, los resultados de aprendizaje y la evaluación de la formación en 
@@ -833,9 +782,6 @@ siguiente curso.
 en el proceso de aprendizaje, las calificaciones obtenidas en cada módulo y la decisión 
 adoptada en cuanto a la promoción al curso siguiente, la decisión sobre titulación y, si 
 
-https://sede.gobiernodecanarias.org/boc
-boc-a-2024-251-4224
-Boletín Oficial de Canarias núm. 251 Miércoles 18 de diciembre de 202443838
 procede, las medidas de recuperación y apoyo educativo. Dicho documento se ajustará a las 
 características que se determinan en el Anexo IV (Plan individualizado de recuperación), 
 conforme a lo establecido en la Orden de 20 de octubre de 2000, por la que se regulan los 
@@ -876,9 +822,6 @@ DGFPERE respecto a la implantación de los Grados de formación
 C, D y E en la Comunidad Autónoma de Canarias, obrando de la misma manera que la 
 formación presencial.
 
-https://sede.gobiernodecanarias.org/boc
-boc-a-2024-251-4224
-Boletín Oficial de Canarias núm. 251 Miércoles 18 de diciembre de 202443839
 Décima.- Promoción de curso, permanencia, convocatorias y titulación.
 A) Promoción:
 1. El alumnado en formación en modalidad semipresencial y virtual promocionará a 
@@ -922,9 +865,6 @@ para aquellas personas que hayan agotado las convocatorias, por motivos de enfer
 o discapacidad u otras situaciones sobrevenidas que condicionen o impidan el desarrollo 
 ordinario del curso por parte de la persona en formación.
 
-https://sede.gobiernodecanarias.org/boc
-boc-a-2024-251-4224
-Boletín Oficial de Canarias núm. 251 Miércoles 18 de diciembre de 202443840
 4. En los Grados C, D, y E, el alumnado podrá solicitar la renuncia a la convocatoria de 
 evaluación en los módulos profesionales en los que esté matriculado hasta en dos ocasiones 
 de manera justificada, y con una antelación mínima de un mes a la celebración de la primera 
@@ -970,9 +910,6 @@ el periodo establecido para ello en la resolución que anualmente convoque la
 DGFPERE el 
 procedimiento de admisión y matrícula en la Comunidad Autónoma de Canarias.
 
-https://sede.gobiernodecanarias.org/boc
-boc-a-2024-251-4224
-Boletín Oficial de Canarias núm. 251 Miércoles 18 de diciembre de 202443841
 2. Durante el mismo curso académico, una persona matriculada en las modalidades 
 semipresencial o virtual no podrá estar matriculada en un mismo módulo profesional en 
 diferentes centros educativos bajo estas modalidades o en régimen presencial.
@@ -1018,9 +955,6 @@ se dictan instrucciones para la organización y funcionamiento de la oferta de F
 Profesional semipresencial en la Comunidad Autónoma de Canarias, a partir del curso 
 2020-2021, salvo aquellos módulos que el alumnado tenga pendientes y/o la Formación en 
 
-https://sede.gobiernodecanarias.org/boc
-boc-a-2024-251-4224
-Boletín Oficial de Canarias núm. 251 Miércoles 18 de diciembre de 202443842
 Centros de Trabajo para poder titular. A partir del 1 de septiembre de 2027, para el alumnado 
 que no haya superado la oferta de Formación Profesional semipresencial, conforme a la 
 ordenación académica vigente en el curso 2023-2024, se le aplicarán las convalidaciones 

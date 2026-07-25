@@ -30,6 +30,7 @@ fundamentos_derecho:
   articulos:
   - '22'
 ---
+
 # Real Decreto 1558/2005, de 23 de diciembre, por el que se regulan los requisitos básicos de los Centros integrados de formación profesional.
 
 La Ley Orgánica 5/2002, de 19 de junio, de las Cualificaciones y de la Formación Profesional, tiene por objeto «la ordenación de un sistema integral de formación profesional, cualificaciones y acreditación, que responda con eficacia y transparencia a las demandas sociales y económicas a través de las diversas modalidades formativas».
@@ -46,14 +47,11 @@ En el proceso de elaboración de este real decreto han sido consultados las comu
 
 En su virtud, a propuesta de los Ministros de Educación y Ciencia y de Trabajo y Asuntos Sociales, con la aprobación previa del Ministro de Administraciones Públicas, de acuerdo con el Consejo de Estado y previa deliberación del Consejo de Ministros en su reunión de día 23 de diciembre de 2005,
 
-
 **D I S P O N G O :**
-
 
 #### Artículo 1. Objeto.
 
 Este real decreto tiene por objeto regular los requisitos básicos de los Centros integrados de formación profesional, en desarrollo de lo establecido en el artículo 11 de la Ley Orgánica 5/2002, de 19 de junio, de las Cualificaciones y de la Formación Profesional.
-
 
 #### Artículo 2. Definición de Centro integrado de formación profesional.
 
@@ -65,7 +63,6 @@ Este real decreto tiene por objeto regular los requisitos básicos de los Centro
 
 4. Además de las ofertas formativas propias de las familias o áreas profesionales que tengan autorizadas, los Centros integrados incorporarán los servicios de información y orientación profesional, así como, en su caso, de evaluación de las competencias adquiridas a través de otros aprendizajes no formales y de la experiencia laboral, en el marco del Sistema nacional de cualificaciones y formación profesional.
 
-
 #### Artículo 3. Tipología de Centros integrados de formación profesional.
 
 1. Los Centros integrados de formación profesional podrán ser públicos y privados.
@@ -75,7 +72,6 @@ Este real decreto tiene por objeto regular los requisitos básicos de los Centro
 3. Los Centros integrados de formación profesional podrán recibir subvenciones y otras ayudas, incluidas las de régimen de conciertos educativos, para financiar las acciones formativas y los servicios que presten.
 
 4. En el caso de aquellas acciones de formación profesional que estén cofinanciadas por el Fondo Social Europeo, los Centros integrados tendrán que aplicar lo establecido en los reglamentos comunitarios que regulan la gestión y control de estas ayudas y en aquellos que regulan las actividades de información y publicidad que deben llevar a cabo los Estados miembros en relación con las intervenciones de los fondos estructurales.
-
 
 #### Artículo 4. Creación y autorización de Centros integrados.
 
@@ -88,7 +84,6 @@ Este real decreto tiene por objeto regular los requisitos básicos de los Centro
 4. Las Administraciones laborales, en el ámbito de sus competencias, podrán crear nuevos Centros integrados de formación profesional de titularidad pública o, en su caso autorizar nuevos Centros integrados de formación profesional de titularidad privada, previa autorización de la Administración educativa.
 
 5. Las Administraciones educativas y laborales podrán revocar la autorización de los centros como Centros integrados de formación profesional cuando no cumplan los requisitos establecidos en este real decreto.
-
 
 #### Artículo 5. Fines de los Centros integrados de formación profesional.
 
@@ -103,7 +98,6 @@ c) La prestación de los servicios de información y orientación profesional a 
 d) El establecimiento de un espacio de cooperación entre el sistema de formación profesional y el entorno productivo sectorial y local para desarrollar y extender una cultura de la formación permanente, contribuyendo a prestigiar la formación profesional.
 
 e) Fomentar la igualdad real y efectiva entre mujeres y hombres.
-
 
 #### Artículo 6. Funciones de los Centros integrados.
 
@@ -131,11 +125,9 @@ f) Cuantas otras funciones de análoga naturaleza determinen las Administracione
 
 3. Para realizar las funciones señaladas en los apartados anteriores, los Centros integrados podrán desarrollar acuerdos y convenios con empresas, instituciones y otros organismos y entidades para el aprovechamiento de las infraestructuras y recursos disponibles, que contribuyan a la calidad de la formación y de las demás acciones que se contemplan en este real decreto.
 
-
 #### Artículo 7. Protocolos generales de colaboración.
 
 Los Ministerios de Educación y Ciencia y de Trabajo y Asuntos Sociales y las Administraciones educativas y laborales competentes de las comunidades autónomas podrán establecer protocolos generales para establecer el marco y la metodología para la colaboración en el desarrollo de las funciones de los Centros integrados, de acuerdo con lo previsto en el artículo 6 de la Ley 30/1992, de 26 de noviembre, de Régimen Jurídico de las Administraciones Públicas y del Procedimiento Administrativo Común, modificada por la Ley 4/1999, de 13 de enero.
-
 
 #### Artículo 8. Condiciones que deberán reunir los Centros integrados.
 
@@ -147,7 +139,6 @@ Los Ministerios de Educación y Ciencia y de Trabajo y Asuntos Sociales y las Ad
 
 Los Centros integrados contarán con el número suficiente de profesores, formadores y expertos profesionales para poder desarrollar las funciones que tienen asignadas. Dichos profesionales habrán de reunir los requisitos que se establecen en este real decreto, y aquellos otros que determinen las Administraciones competentes para su contratación. Asimismo, contarán con suficiente personal de administración y servicios para desarrollar las tareas de gestión administrativa y los servicios de vigilancia y mantenimiento.
 
-
 #### Artículo 9. Autonomía de los Centros integrados.
 
 1. Los Centros integrados dispondrán de autonomía organizativa, pedagógica, de gestión económica y de personal, de acuerdo con lo que establezca la Administración competente.
@@ -157,7 +148,6 @@ Los Centros integrados contarán con el número suficiente de profesores, formad
 3. Para garantizar la calidad de las acciones del proyecto funcional se implantará un sistema de mejora continua en cada centro, cuyos criterios de calidad e indicadores estén en relación con los objetivos de dicho proyecto y que, al menos, evalúe el grado de inserción laboral de sus alumnos y usuarios y el nivel de satisfacción de los mismos.
 
 4. Las Administraciones competentes, teniendo en cuenta la naturaleza de las ofertas formativas y de los servicios que caracterizan a estos centros y las características específicas de los grupos destinatarios, determinará los plazos de admisión de alumnos, períodos de matrícula, organización temporal de las ofertas, así como otras cuestiones de régimen interior que afectan al personal que preste servicios en los mismos. Especialmente, estos centros permitirán un eficaz acceso de las personas adultas y trabajadoras a las ofertas formativas y servicios, teniendo en cuenta la disponibilidad de tiempo de los usuarios.
-
 
 #### Artículo 10. Planificación, gestión y financiación de los Centros integrados.
 
@@ -177,11 +167,9 @@ Los Centros integrados contarán con el número suficiente de profesores, formad
 
 8. Los Centros integrados de formación profesional estarán obligados a informar al público sobre la naturaleza de las distintas ofertas impartidas en ellos.
 
-
 #### Artículo 11. Ejercicio de la función inspectora.
 
 Corresponde a las Administraciones educativa y laboral, cada una en el ámbito de sus respectivas competencias, la inspección de los Centros integrados de formación profesional.
-
 
 #### Artículo 12. Órganos de gobierno, participación y coordinación.
 
@@ -194,7 +182,6 @@ a) Órganos unipersonales de gobierno: Director; Jefe de Estudios, Secretario o 
 b) Órganos colegiados de participación: Consejo Social; Claustro de profesores o equivalente y aquellos otros que determinen las Administraciones competentes.
 
 3. Los Centros integrados contarán con los órganos de coordinación necesarios para garantizar las siguientes funciones: la formación integrada y de calidad, la información y la orientación profesional, el reconocimiento y evaluación de competencias profesionales y las relaciones con las empresas.
-
 
 #### Artículo 13. Nombramiento y funciones del Director.
 
@@ -221,7 +208,6 @@ h) Favorecer acciones de formación para el personal docente y formador.
 i) Justificar la gestión económica del centro ante las Administraciones correspondientes.
 
 j) Cualesquiera otras que les sean encomendadas por la Administración competente.
-
 
 #### Artículo 14. Órganos colegiados de participación.
 
@@ -259,7 +245,6 @@ c) Participar en la elaboración de los planes de mejora de calidad del centro.
 
 d) Cualesquiera otras que le sean atribuidas por la Administración competente.
 
-
 #### Artículo 15. Profesorado.
 
 1. Para ejercer la docencia en los Centros integrados de formación profesional será necesario cumplir los requisitos generales de titulación así como los que al efecto se establezcan en las normas que aprueben los títulos de formación profesional y los certificados de profesionalidad.
@@ -270,50 +255,39 @@ d) Cualesquiera otras que le sean atribuidas por la Administración competente.
 
 4. El personal que preste sus servicios en centros de titularidad pública estará sujeto al régimen de incompatibilidades previsto en la Ley 53/1984, de 26 de diciembre, de Incompatibilidades del Personal al Servicio de las Administraciones Públicas, y a lo que se derive de la consideración como de interés público que a los efectos previstos en el artículo 3 de la citada Ley tiene la impartición de la formación en estos centros.
 
-
 #### Artículo 16. Personal que desarrolla las funciones de información y orientación profesional.
 
 En los Centros integrados públicos podrán ejercer la función de información y orientación profesional, en función de sus titulaciones y formación específica, tanto el personal de los Cuerpos de Catedráticos de Enseñanza Secundaria, Profesores de Enseñanza Secundaria y Profesores Técnicos de Formación Profesional dependientes de las Administraciones educativas, como el dependiente de los servicios públicos de empleo, en los términos que se establezca reglamentariamente.
-
 
 #### Artículo 17. Personal que desarrolla las funciones de aplicación de los procedimientos de evaluación de las competencias profesionales.
 
 En los Centros integrados públicos y en los Centros integrados privados concentrados autorizados al efecto, las funciones y los requisitos del personal que realice las funciones relativas a los procedimientos de evaluación de las competencias profesionales se ajustarán a lo que establezca el desarrollo normativo del artículo 8 de la Ley Orgánica 5/2002, de 19 de junio, de las Cualificaciones y de la Formación Profesional.
 
-
 #### Disposición adicional única. Régimen aplicable a los centros privados.
 
 Será de aplicación a los Centros integrados de titularidad privada lo establecido en los artículos 1, 2, 3, 4.2, 4.3, 4.4, 4.5, 5, 6.1, 6.3, 7, 8, 11, y 15.1. Además, los Centros integrados privados que tengan régimen de concierto educativo se ajustarán a lo establecido en los artículos 9 y 10 y dispondrán de los órganos de gobierno y de participación que se establecen en los artículos 12, 13 y 14.
-
 
 #### Disposición transitoria primera. Autorización de determinados centros existentes como Centros integrados de formación profesional.
 
 En los cinco años siguientes a la entrada en vigor de la presente norma, las Administraciones competentes podrán autorizar como Centros integrados de formación profesional a aquellos que, además de ofrecer las enseñanzas de los tres subsistemas en las condiciones previstas en este real decreto, ofrezcan enseñanzas de bachillerato, siempre que éstas últimas no representen más de un tercio del alumnado total del centro.
 
-
 #### Disposición transitoria segunda. Vigencia de las ofertas actuales.
 
 Las ofertas educativas y formativas en los Centros integrados serán las actualmente en vigor hasta la sustitución de los títulos de formación profesional y certificados de profesionalidad actuales por los correspondientes títulos y certificados de profesionalidad que se regulen a partir del Catálogo nacional de cualificaciones profesionales.
-
 
 #### Disposición final primera. Título competencial.
 
 Este real decreto tiene carácter de norma básica, es de aplicación en todo el territorio nacional y se dicta en virtud de las competencias que atribuye al Estado el artículo 149.1, 1.ª, 7.ª y 30.ª de la Constitución y al amparo de la disposición final primera.2 y 3 de la Ley Orgánica 5/2002, de 19 de junio, de las Cualificaciones y de la Formación Profesional, y de la habilitación que confiere al Gobierno el artículo 11.1 y 11.4 y la disposición final tercera de la citada Ley Orgánica 5/2002, 19 de junio.
 
-
 #### Disposición final segunda. Normativa de aplicación supletoria.
 
 En lo no regulado en esta norma, serán de aplicación las normas específicas que regulan cada una de las ofertas formativas.
-
 
 #### Disposición final tercera. Normas de desarrollo.
 
 Los Ministros de Educación y Ciencia y de Trabajo y Asuntos Sociales dictarán las normas de desarrollo de este real decreto en el ámbito de sus respectivas competencias.
 
-
 #### Disposición final cuarta. Entrada en vigor.
-
-El presente real decreto entrará en vigor el día siguiente al de su publicación en el «Boletín Oficial del Estado».
 
 Dado en Madrid, el 23 de diciembre de 2005.
 

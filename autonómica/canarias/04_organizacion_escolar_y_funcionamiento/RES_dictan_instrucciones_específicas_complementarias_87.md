@@ -30,9 +30,6 @@ fuente_pdf_oficial: https://sede.gobiernodecanarias.org/boc/boc-a-2026-116-2013.
 
 # Resolución de 29 de mayo de 2026, por la que se dictan instrucciones específicas complementarias para el curso 2026-2027 sobre organización, funcionamiento y calendario de las Enseñanzas de Idiomas de Régimen Especial impartidas en las Escuelas Oficiales de Idiomas de la Comunidad Autónoma de Canarias.
 
-https://sede.gobiernodecanarias.org/boc
-boc-a-2026-116-2013
-Boletín Oficial de Canarias núm. 116 Jueves 11 de junio de 202621976
 III. Otras Resoluciones
 Consejería de Educación, Formación Profesional, Actividad Física y Deportes
 2013 Dirección General de Formación Profesional y Enseñanzas de Régimen Especial.- 
@@ -74,9 +71,6 @@ del Estado. Además, en su artículo 35 se refiere a las Escuelas Oficiales de I
 regula aspectos básicos de las enseñanzas, tales como su finalidad y características, y la 
 certificación de idiomas.
 
-https://sede.gobiernodecanarias.org/boc
-boc-a-2026-116-2013
-Boletín Oficial de Canarias núm. 116 Jueves 11 de junio de 202621977
 Tercero.- El Decreto 81/2010, de 8 de julio, por el que se aprueba el Reglamento 
 Orgánico de los centros docentes públicos no universitarios de la Comunidad Autónoma 
 de Canarias, determina en su disposición adicional tercera, sobre centros de características 
@@ -122,9 +116,6 @@ organización y funcionamiento de la Escuela Oficial de Idiomas a Distancia de C
 incluye las modalidades y formatos de los cursos ofertados a través de dicha escuela y su 
 organización y distribución horaria.
 
-https://sede.gobiernodecanarias.org/boc
-boc-a-2026-116-2013
-Boletín Oficial de Canarias núm. 116 Jueves 11 de junio de 202621978
 Décimo.- La Resolución de 28 de noviembre de 2025, de la Dirección General de 
 Formación Profesional y Enseñanzas de Régimen Especial, dicta instrucciones para 
 la organización de los cursos de especialización en idiomas y regula la planificación y 
@@ -169,9 +160,6 @@ Tercero.- Encomendar a la Inspección de Educación la supervisión y asesoramie
 sobre aquellos aspectos específicos que le soliciten los equipos directivos de las Escuelas 
 Oficiales de Idiomas.
 
-https://sede.gobiernodecanarias.org/boc
-boc-a-2026-116-2013
-Boletín Oficial de Canarias núm. 116 Jueves 11 de junio de 202621979
 Esta Resolución también estará a disposición de las personas interesadas en la página 
 web de la Consejería de Educación, Formación Profesional, Actividad Física y Deportes.
 Contra la presente Resolución, que no pone fin a la vía administrativa, cabe interponer 
@@ -181,9 +169,6 @@ sin perjuicio de cualesquiera otros que se estime procedente interponer.
 Las Palmas de Gran Canaria, a 29 de mayo de 2026.- La Directora General de Formación 
 Profesional y Enseñanzas de Régimen Especial, Carolina León Martínez.
 
-https://sede.gobiernodecanarias.org/boc
-boc-a-2026-116-2013
-Boletín Oficial de Canarias núm. 116 Jueves 11 de junio de 202621980
 ANEXO
 1. AUTONOMÍA DE LOS CENTROS Y PROCESOS DE MEJORA.
 2. TIPOLOGÍA DE LAS ESCUELAS OFICIALES DE IDIOMAS.
@@ -221,9 +206,6 @@ corresponde al Consejo Escolar establecer los criterios, y a la Comisión de Coo
 Pedagógica, el Claustro y el resto de la comunidad educativa realizar propuestas para la 
 actualización del proyecto educativo (PE), el proyecto de gestión (PG) y las normas de 
 
-https://sede.gobiernodecanarias.org/boc
-boc-a-2026-116-2013
-Boletín Oficial de Canarias núm. 116 Jueves 11 de junio de 202621981
 organización y funcionamiento (NOF). El equipo directivo será el encargado de actualizar 
 estos documentos, implementar las medidas acordadas y velar por el cumplimiento de los 
 criterios y objetivos de mejora fijados en consonancia con los objetivos de la Consejería de 
@@ -257,9 +239,6 @@ Una vez comunicada la autorización definitiva, la tipología de cada EOI para e
 escolar 2026-2027 será, a todos los efectos, la que corresponda al número de grupos 
 autorizados con carácter definitivo.
 
-https://sede.gobiernodecanarias.org/boc
-boc-a-2026-116-2013
-Boletín Oficial de Canarias núm. 116 Jueves 11 de junio de 202621982
 3. DISTRIBUCIÓN HORARIA DE LAS ENSEÑANZAS.
 3.1. Modalidades de enseñanza.
 Tal y como determina el Decreto 142/2018, de 8 de octubre, por el que se establece 
@@ -365,9 +344,6 @@ puede ser comprobada la autenticidad de esta copia, mediante el número de
 documento electrónico siguiente:
  RP001-000C/0Wq1OFkbGRsXEgOz96lQ==
 
-https://sede.gobiernodecanarias.org/boc
-boc-a-2026-116-2013
-Boletín Oficial de Canarias núm. 116 Jueves 11 de junio de 202621983
 c) Modalidad a distancia.
 Folio 8/20
 a) Modalidad presencial
@@ -548,9 +524,6 @@ documento electrónico siguiente:
 La jornada semanal del profesorado de EOI será la establecida con carácter general para 
 el personal docente no universitario de centros públicos en el artículo 36 de la Orden de 9 
 
-https://sede.gobiernodecanarias.org/boc
-boc-a-2026-116-2013
-Boletín Oficial de Canarias núm. 116 Jueves 11 de junio de 202621984
 de octubre de 2013, que se ajustará a lo indicado en la Orden de 16 de julio de 2019, así 
 como a la Orden de 28 de septiembre de 2023.
 En lo que respecta al control de asistencia y puntualidad, incorporaciones, ceses y 
@@ -591,9 +564,6 @@ a) Reunión de departamento de coordinación didáctica. Todo el profesorado deb
 en su horario una hora semanal dedicada a la reunión del departamento de coordinación 
 didáctica al que pertenezca. Esta hora semanal se ubicará los viernes.
 
-https://sede.gobiernodecanarias.org/boc
-boc-a-2026-116-2013
-Boletín Oficial de Canarias núm. 116 Jueves 11 de junio de 202621985
 b) Reunión de coordinación de curso y/o nivel. Dependiendo de la configuración del 
 departamento de coordinación didáctica, el profesorado que imparte un mismo curso y/o 
 nivel se reunirá para coordinar la planificación y el seguimiento de las diferentes actividades 
@@ -666,9 +636,6 @@ puede ser comprobada la autenticidad de esta copia, mediante el número de
 documento electrónico siguiente:
  RP001-000C/0Wq1OFkbGRsXEgOz96lQ==
 
-https://sede.gobiernodecanarias.org/boc
-boc-a-2026-116-2013
-Boletín Oficial de Canarias núm. 116 Jueves 11 de junio de 202621986
 Folio 11/20
 4.2. Cargos directivos
 La asignación de horas para el desempeño de la función directiva se ajustará a lo establecido a  
@@ -745,9 +712,6 @@ ostente la correspondiente especialidad.
 Al frente de cada departamento de coordinación didáctica se nombrará a un docente 
 que desempeñe la jefatura de departamento.
 
-https://sede.gobiernodecanarias.org/boc
-boc-a-2026-116-2013
-Boletín Oficial de Canarias núm. 116 Jueves 11 de junio de 202621987
 Las horas para el desempeño de la jefatura de un departamento de coordinación didáctica 
 dependerán de la carga lectiva semanal de docencia directa de dicho departamento y serán 
 las que se recogen a continuación:
@@ -861,9 +825,6 @@ c) Fomentar la evaluación de todas las actividades y proyectos educativos del
 centro, utilizando, cuando proceda, herramientas y recursos tecnológicos que faciliten el 
 seguimiento y la valoración de los procesos y resultados educativos.
 
-https://sede.gobiernodecanarias.org/boc
-boc-a-2026-116-2013
-Boletín Oficial de Canarias núm. 116 Jueves 11 de junio de 202621988
 d) Orientar, informar y apoyar al profesorado sobre el desarrollo de la competencia 
 digital y las herramientas y recursos TIC que sirvan de apoyo al proceso de enseñanza-
 aprendizaje.
@@ -903,9 +864,6 @@ Dirección General de Formación Profesional y Educación de Adultos, por la que
 instrucciones sobre la estructura, características y elaboración de las pruebas de certificación 
 de Enseñanzas de Idiomas de Régimen Especial en la Comunidad Autónoma de Canarias.
 
-https://sede.gobiernodecanarias.org/boc
-boc-a-2026-116-2013
-Boletín Oficial de Canarias núm. 116 Jueves 11 de junio de 202621989
 El número de redactores de cada comisión dependerá del número de pruebas que se 
 deban elaborar. A partir de 3 pruebas, la comisión contará con la figura de un coordinador 
 o coordinadora. Las funciones de los miembros de estas comisiones vienen recogidas en la 
@@ -980,9 +938,6 @@ En las EOI podrán computarse, además, como horas lectivas las actividades que 
 detallan en la tabla que se incluye a continuación, siempre que exista disponibilidad 
 horaria.
 
-https://sede.gobiernodecanarias.org/boc
-boc-a-2026-116-2013
-Boletín Oficial de Canarias núm. 116 Jueves 11 de junio de 202621990
 Folio 15/20
 Las comisiones que deban elaborar más de 16 pruebas contarán con un apoyo a la coordinación que  
 tendrá una asignación horaria semanal de 4’5 horas y que será de aplicación a un único miembro de la  
@@ -1101,10 +1056,6 @@ puede ser comprobada la autenticidad de esta copia, mediante el número de
 documento electrónico siguiente:
  RP001-000C/0Wq1OFkbGRsXEgOz96lQ==
 
-
-https://sede.gobiernodecanarias.org/boc
-boc-a-2026-116-2013
-Boletín Oficial de Canarias núm. 116 Jueves 11 de junio de 202621991
 Los días previstos para el inicio de las actividades lectivas se podrán destinar a la 
 realización de actos de presentación de inicio de curso o del profesorado con el alumnado.
 Antes del 14 de mayo de 2027 la dirección del centro enviará a la Inspección Educativa, 
@@ -1146,9 +1097,6 @@ realizar esta tarea fuera de su horario lectivo y complementario.
 Las fechas previstas para las actividades de evaluación de los diferentes cursos de 
 enseñanza reglada para el curso 2026-2027 son las que se muestran a continuación:
 
-https://sede.gobiernodecanarias.org/boc
-boc-a-2026-116-2013
-Boletín Oficial de Canarias núm. 116 Jueves 11 de junio de 202621992
 Folio 17/20
 se respetará el número de horas de obligada permanencia en el centro establecido con carácter general  
 para el personal docente no universitario de centros públicos en la Orden de 9 de octubre de 2013, y se  
@@ -1219,9 +1167,6 @@ del día anterior al comienzo del periodo de solicitud de plaza del curso siguie
 Por otra parte, la fecha límite para la anulación de matrícula, tanto por renuncia 
 voluntaria como aquellas realizadas de oficio por el centro, será igualmente el día anterior 
 
-https://sede.gobiernodecanarias.org/boc
-boc-a-2026-116-2013
-Boletín Oficial de Canarias núm. 116 Jueves 11 de junio de 202621993
 al comienzo del periodo de solicitud de plaza del curso siguiente, procediéndose conforme 
 a lo establecido en los artículos 17 y 18 del Decreto 142/2018, de 8 de octubre, por el que 
 se establece la ordenación y el currículo de las enseñanzas y la certificación de idiomas de 
@@ -1297,9 +1242,6 @@ Los libros de texto y demás materiales curriculares permanecerán vigentes, al 
 durante cinco cursos académicos. No obstante, los departamentos de coordinación didáctica 
 podrán proponer su sustitución antes de finalizar el periodo de vigencia. A estos efectos, 
 
-https://sede.gobiernodecanarias.org/boc
-boc-a-2026-116-2013
-Boletín Oficial de Canarias núm. 116 Jueves 11 de junio de 202621994
 presentarán a la dirección del centro un informe justificativo que, en caso de valorar 
 favorablemente, trasladará al Consejo Escolar para su aprobación. Esta modificación se 
 comunicará a la Inspección de Educación para su conocimiento.

@@ -29,6 +29,7 @@ fundamentos_derecho:
   articulos:
   - '1'
 ---
+
 # Real Decreto 777/1998, de 30 de abril, por el que se desarrollan determinados aspectos de la ordenación de la formación profesional en el ámbito del sistema educativo.
 
 La Ley Orgánica 1/1990, de 3 de octubre, de Ordenación General del Sistema Educativo, define en el capítulo IV del Título I la configuración de la nueva ordenación académica de la formación profesional.
@@ -57,25 +58,21 @@ En la elaboración del presente Real Decreto han sido consultadas las Comunidade
 
 En su virtud, a propuesta de la Ministra de Educación y Cultura, de acuerdo con el Consejo de Estado y previa deliberación del Consejo de Ministros en su reunión del día 30 de abril de 1998,
 
-
 **DISPONGO:**
 
 CAPÍTULO I
 
 Sistemas de acceso, admisión y matriculación en ciclos formativos
 
-
 #### Artículo 1. Acceso a la formación profesional específica.
 
 El acceso a la formación profesional específica se realizará de forma directa, cuando se cumplan los requisitos académicos, o bien mediante prueba regulada por las Administraciones educativas.
-
 
 #### Artículo 2. Requisito académico para el acceso directo.
 
 1. El requisito académico que da acceso directo para cursar la formación profesional específica de grado medio es estar en posesión del título de Graduado en Educación Secundaria.
 
 2. El requisito académico que da acceso directo para cursar la formación profesional específica de grado superior es estar en posesión del título de Bachiller.
-
 
 #### Artículo 3. Acceso mediante prueba.
 
@@ -85,13 +82,11 @@ El acceso a la formación profesional específica se realizará de forma directa
 
 Aquellos alumnos que hayan superado un programa de garantía social, podrán realizar la prueba de acceso a los ciclos formativos de grado medio, de acuerdo con lo establecido en el artículo 23.2 de la Ley Orgánica de Ordenación General del Sistema Educativo.
 
-
 #### Artículo 4. Admisión de alumnos a la formación profesional específica.
 
 1. Los criterios de admisión de alumnos en centros sostenidos con fondos públicos son los establecidos con carácter general en la Ley Orgánica 8/1985, de 3 de junio, que regula el Derecho a la Educación, en sus normas de desarrollo y, para los ciclos formativos de grado superior, los criterios que se determinan en la disposición adicional tercera de la Ley Orgánica 9/1995, de 20 de noviembre, de la Participación, la Evaluación y el Gobierno de los Centros Docentes.
 
 2. Las Administraciones educativas podrán definir áreas de influencia para la admisión de alumnos a ciclos formativos de grado medio.
-
 
 #### Artículo 5. Criterios de prioridad en la admisión de alumnos en ciclos formativos de grado superior.
 
@@ -101,16 +96,13 @@ a) Haber cursado alguna de las modalidades de bachillerato que se determinan par
 
 b) El expediente académico del alumno en el que se valorará sucesivamente la nota media y haber cursado las materias de bachillerato relacionadas en la columna cuarta del anexo I del presente Real Decreto.
 
-
 #### Artículo 6. Reserva de plazas para el acceso mediante prueba.
 
 Las Administraciones educativas podrán establecer el porcentaje de plazas de formación profesional de grado medio y grado superior reservadas para quienes accedan a través de la prueba establecida en el artículo 32 de la Ley Orgánica 1/1990, de 3 de octubre, de Ordenación General del Sistema Educativo.
 
-
 #### Artículo 7. Acreditaciones en el Libro de Calificaciones de Formación Profesional.
 
 En el Libro de Calificaciones de Formación Profesional quedarán reflejados los distintos períodos en los que esté organizado el correspondiente ciclo formativo, así como los módulos profesionales que se incluyen en cada uno de ellos, dado el carácter básico y acreditativo de este documento, con objeto de posibilitar la anulación de la matrícula o la renuncia a la convocatoria y facilitar la movilidad del alumnado.
-
 
 #### Artículo 8. Matrícula parcial en módulos profesionales.
 
@@ -120,16 +112,13 @@ CAPÍTULO II
 
 Efectos académicos y profesionales de los títulos de Formación Profesional
 
-
 #### Artículo 9. Efectos profesionales del título de Técnico Auxiliar.
 
 El título de Técnico Auxiliar en la correspondiente profesión tiene los mismos efectos profesionales que el título de Técnico, tal como se indica en el anexo II del presente Real Decreto, según lo preceptuado en la disposición adicional cuarta, apartado 3, de la Ley Orgánica de Ordenación General del Sistema Educativo.
 
-
 #### Artículo 10. Efectos académicos y profesionales del título de Técnico Especialista.
 
 El título de Técnico Especialista en la correspondiente especialidad tiene los mismos efectos académicos y profesionales que el título de Técnico superior, tal como se indica en el anexo III, según lo preceptuado en la disposición adicional cuarta, apartado 4, de la Ley Orgánica de Ordenación General del Sistema Educativo.
-
 
 #### Artículo 11. Acceso al bachillerato con el título de Técnico.
 
@@ -139,7 +128,6 @@ CAPÍTULO III
 
 Sistemas de convalidaciones y correspondencias
 
-
 #### Artículo 12. Convalidaciones de módulos profesionales entre ciclos formativos.
 
 1. Serán convalidables aquellos módulos profesionales comunes a varios ciclos formativos que tengan idéntica denominación y duración así como las mismas capacidades terminales y criterios de evaluación a los descritos en los Reales Decretos por los que se establecen cada uno de los títulos de formación profesional específica.
@@ -148,18 +136,15 @@ No obstante lo anterior, quienes hubieran superado el módulo profesional de For
 
 2. El Ministerio de Educación y Cultura, previa consulta a las Administraciones educativas, establecerá las convalidaciones entre aquellos módulos profesionales para los cuales, aun cuando no posean idénticas denominaciones, tengan similares capacidades terminales y contenidos básicos a los descritos en los Reales Decretos por los que se establecen los títulos y las correspondientes enseñanzas mínimas.
 
-
 #### Artículo 13. Convalidaciones de módulos profesionales con materias de bachillerato.
 
 Las convalidaciones de módulos profesionales pertenecientes a los ciclos formativos de grado medio de formación profesional específica con materias de bachillerato se establecen en el anexo IV del presente Real Decreto.
-
 
 #### Artículo 14. Convalidaciones entre módulos profesionales y módulos formativos incluidos en los certificados de profesionalidad.
 
 1. El Ministerio de Educación y Cultura y el Ministerio de Trabajo y Asuntos Sociales establecerán, conjuntamente, las convalidaciones entre los módulos profesionales que pueden ser objeto de convalidación, definidos en cada uno de los títulos de grado medio y grado superior, y los módulos formativos incluidos en los certificados de profesionalidad correspondientes, atendiendo a la similitud en competencias profesionales, capacidades terminales de la formación y duración requerida para el desarrollo de los contenidos y adquisición de las capacidades propias del módulo profesional.
 
 2. Podrán ser convalidables los módulos formativos incluidos en los certificados de profesionalidad, desarrollados a partir del Real Decreto 797/1995, de 19 de mayo, expedidos por las Administraciones laborales con competencias para la gestión de la formación profesional ocupacional, con carácter oficial y validez en todo el Estado.
-
 
 #### Artículo 15. Correspondencia entre módulos profesionales y la práctica laboral.
 
@@ -171,7 +156,6 @@ b) La realización de una prueba que tome como elementos de referencia las capac
 
 2. El desarrollo de lo dispuesto en el apartado anterior corresponde al Ministerio de Educación y Cultura, previa consulta al Ministerio de Trabajo y Asuntos Sociales, a las Administraciones educativas y a los agentes sociales, sobre la base de los estudios y dictámenes del órgano responsable de definir las cualificaciones profesionales.
 
-
 #### Artículo 16. Exención del módulo profesional de Formación en Centros de Trabajo por su correspondencia con la práctica laboral.
 
 1. De acuerdo con lo dispuesto en el artículo 34.2 de la Ley Orgánica de Ordenación General del Sistema Educativo, para la exención total o parcial del módulo profesional de Formación en Centros de Trabajo por su correspondencia con la práctica laboral, se ha de acreditar una experiencia laboral, de al menos un año, relacionada con los estudios profesionales que permitan demostrar las capacidades terminales correspondientes al módulo profesional de Formación en Centros de Trabajo en los Reales Decretos por los que se establecen los títulos de formación profesional específica.
@@ -181,7 +165,6 @@ b) La realización de una prueba que tome como elementos de referencia las capac
 a) Certificación de la Tesorería General de la Seguridad Social o de la mutualidad laboral a la que estuviera afiliado, donde conste la empresa, la categoría laboral (grupo de cotización) y el período de contratación, o en su caso el período de cotización en el Régimen Especial de Trabajadores Autónomos o de cualquier otro medio de prueba admitido en derecho.
 
 b) Certificación de la empresa donde haya adquirido la experiencia laboral, en la que conste específicamente la duración del contrato, la actividad desarrollada y el período de tiempo en el que se ha realizado dicha actividad. En el caso de trabajadores por cuenta propia, certificación de alta en el Impuesto de Actividades Económicas y justificantes de pago de dicho impuesto.
-
 
 #### Artículo 17. Procedimiento de los sistemas de convalidaciones y correspondencias.
 
@@ -201,7 +184,6 @@ CAPÍTULO IV
 
 Requisitos mínimos de espacios formativos e instalaciones para impartir formación profesional específica
 
-
 #### Artículo 18. Centros en los que se puede impartir las enseñanzas de formación profesional.
 
 Se modifican los artículos 30 y 38 del Real Decreto 1004/1991, de 14 de junio, dándoles a ambos la siguiente redacción:
@@ -211,7 +193,6 @@ Se modifican los artículos 30 y 38 del Real Decreto 1004/1991, de 14 de junio, 
 a) En centros en los que se imparta Educación Secundaria Obligatoria o el Bachillerato. En este supuesto, las enseñanzas de formación profesional se organizarán independientemente de las otras enseñanzas, si bien podrán disponer de recursos humanos y materiales comunes.
 
 b) En centros dedicados exclusivamente a impartir formación profesional específica.»
-
 
 #### Artículo 19. Requisitos mínimos de espacios formativos.
 
@@ -239,11 +220,9 @@ d) Aseos y servicios higiénico-sanitarios adecuados al número de puestos escol
 
 7. Con objeto de poder utilizar instalaciones propias de entornos profesionales, las Administraciones educativas podrán autorizar para impartir los ciclos formativos de formación profesional específica el uso de espacios no señalados como singulares en el anexo V, siempre que sean adecuados para el desarrollo de las actividades docentes, que se identifiquen dichos espacios y que su superficie guarde proporción con el número de alumnos y satisfagan las características que les correspondan, acreditando documentalmente que tienen concedida autorización para uso exclusivo o preferente de las mismas durante el tiempo en que tengan lugar las actividades formativas.
 
-
 #### Artículo 20. Ubicación en edificios de uso no exclusivo escolar.
 
 Los centros autorizados a impartir formación profesional específica podrán ubicar estas enseñanzas en edificios que no sean de uso exclusivo escolar, siempre que cumplan los requisitos de espacios formativos y equipamientos determinados por las Administraciones educativas y reúnan las condiciones establecidas en el artículo 5 del Real Decreto 1004/1991, de 14 de junio.
-
 
 #### Artículo 21. Autorización administrativa de los centros docentes privados.
 
@@ -253,18 +232,15 @@ CAPÍTULO V
 
 Profesorado
 
-
 #### Artículo 22. Titulaciones declaradas equivalentes a efectos de docencia.
 
 1. Las titulaciones declaradas equivalentes, a efectos de docencia, para el ingreso en las especialidades del Cuerpo de Profesores de Enseñanza Secundaria son las relacionadas en el anexo VI a), que se corresponden con las existentes en el Catálogo de Títulos Universitarios Oficiales y en las sucesivas incorporaciones realizadas al mismo. Asimismo, son equivalentes los títulos homologados a los de este Catálogo por el Real Decreto 1954/1994, de 30 de septiembre.
 
 2. Las titulaciones declaradas equivalentes, a efectos de docencia, para el ingreso en las especialidades del Cuerpo de Profesores Técnicos de Formación Profesional son las relacionadas en el anexo VI b), de acuerdo al Catálogo de Títulos de Formación Profesional.
 
-
 #### Artículo 23. Autorización para impartir módulos profesionales atribuidos al profesor especialista.
 
 Las Administraciones educativas podrán autorizar para impartir los módulos profesionales atribuidos al profesor especialista, a los docentes pertenecientes a los Cuerpos de Profesores de Enseñanza Secundaria o de Profesores Técnicos de Formación Profesional, que se encuentren cualificados, bien mediante formación diseñada al efecto o reconocida por dichas Administraciones educativas, bien mediante experiencia laboral.
-
 
 #### Disposición adicional primera. Otros accesos directos a las enseñanzas de formación profesional específica.
 
@@ -294,7 +270,6 @@ c) Estar en posesión del título de Técnico Especialista, Técnico superior o 
 
 d) Estar en posesión de una titulación universitaria o equivalente.
 
-
 #### Disposición adicional segunda. Correspondencia entre modalidades del bachillerato y opciones del Curso de Orientación Universitaria.
 
 1. A los efectos previstos en el artículo 5 del presente Real Decreto, a los alumnos que hubieran realizado el Curso de Orientación Universitaria les será de aplicación la siguiente correspondencia:
@@ -307,13 +282,11 @@ c) Para la modalidad del bachillerato de Artes todas las opciones del Curso de O
 
 2. Asimismo, a los efectos previstos en el artículo 5 del presente Real Decreto, para el cálculo de la nota media del expediente académico del alumnado referido en el apartado anterior, deberán considerarse las calificaciones del Bachillerato Unificado y Polivalente y del Curso de Orientación Universitaria.
 
-
 #### Disposición adicional tercera. Ámbito de validez de la certificación de la prueba de acceso.
 
 1. Para facilitar la movilidad del alumnado, la certificación que se obtenga tras la superación de la prueba de acceso a los ciclos formativos de grado medio o grado superior de formación profesional específica, regulada por las distintas Administraciones educativas, tendrá validez como requisito de acceso en todo el Estado, manteniendo su vigencia siempre que no se modifique el título y las enseñanzas correspondientes al ciclo formativo.
 
 2. Asimismo, la certificación que se obtenga tras la superación de la prueba de acceso al grado medio de las enseñanzas de Artes Plásticas y Diseño, regulada en el artículo 48.3 de la Ley Orgánica de Ordenación General del Sistema Educativo, tendrá validez como requisito de acceso a los ciclos formativos de grado medio de formación profesional específica.
-
 
 #### Disposición adicional cuarta. Oferta de formación profesional específica en modalidad a distancia y en otras modalidades horarias especiales.
 
@@ -321,21 +294,17 @@ c) Para la modalidad del bachillerato de Artes todas las opciones del Curso de O
 
 2. El régimen horario de las enseñanzas de formación profesional específica podrá desarrollarse en diferentes turnos y adaptarse a la jornada partida o continua.
 
-
 #### Disposición adicional quinta. Sujeción a las profesiones reguladas.
 
 Las equivalencias de titulaciones académicas establecidas en los anexos II y III del presente Real Decreto se entenderán sin perjuicio del cumplimiento de las disposiciones que habilitan para el ejercicio de las profesiones reguladas.
-
 
 #### Disposición adicional sexta. Modificación del anexo al Real Decreto 1653/1994.
 
 Se modifican los apartados 3.2, 4.1 y 6.2 del anexo al Real Decreto 1653/1994, de 22 de julio, por el que se establece el título de Técnico superior en Comercio Internacional y las correspondientes enseñanzas mínimas, conforme al anexo VII del presente Real Decreto.
 
-
 #### Disposición adicional séptima. Contribución horaria del Profesor de la especialidad de Construcciones Civiles y Edificación.
 
 En los módulos profesionales de los ciclos formativos de Edificación y Obra Civil, en los que en el apartado 4.1 del anexo al Real Decreto correspondiente, se señala que en la impartición de estos módulos profesionales colaborará un Profesor Especialista, la contribución horaria del Profesor de Enseñanza Secundaria de la especialidad de Construcciones Civiles y Edificación será determinada por las Administraciones educativas.
-
 
 #### Disposición adicional octava. Modificación y ampliación del Real Decreto 1635/1995.
 
@@ -355,46 +324,37 @@ Como consecuencia de lo anterior, se amplía la adscripción de los funcionarios
 
 5. Se amplía la atribución de competencia docente de los profesores de determinadas especialidades del Cuerpo de Profesores de Enseñanza Secundaria, establecidas en el anexo III, para impartir módulos profesionales conforme al anexo VIII e) del presente Real Decreto.
 
-
 #### Disposición adicional novena. Autorización a centros docentes privados para impartir ciclos formativos de grado medio.
 
 Conforme a lo establecido en la disposición adicional octava, apartado 2, de la Ley Orgánica de Ordenación General del Sistema Educativo, los centros docentes privados de formación profesional de primer grado que tengan autorización o clasificación definitiva anterior y los de segundo grado clasificados como homologados, en virtud de normas anteriores a la citada Ley Orgánica, adquieren automáticamente la condición de centros autorizados para impartir los correspondientes ciclos formativos de grado medio, según lo dispuesto en el anexo IX.
-
 
 #### Disposición adicional décima. Requisitos para impartir las modalidades del bachillerato de Artes y de Tecnología.
 
 Los requisitos exigidos en la disposición transitoria cuarta del Real Decreto 1004/1991, de 14 de junio, modificada por la disposición adicional tercera, apartado 4, del Real Decreto 1487/1994, de 1 de julio, a los centros de Formación Profesional de segundo grado para impartir Bachillerato, serán también de aplicación a los centros autorizados de Bachillerato Unificado Polivalente que soliciten autorización para impartir las modalidades de Artes y de Tecnología del bachillerato.
 
-
 #### Disposición adicional undécima. Adaptación para los alumnos con necesidades educativas especiales.
 
 Las Administraciones educativas competentes podrán establecer las medidas organizativas y de adaptación curricular para que los alumnos con necesidades educativas especiales puedan alcanzar los objetivos y finalidades de las enseñanzas reguladas en el presente Real Decreto.
-
 
 #### Disposición adicional duodécima. Autorizaciones a centros de enseñanzas especializadas de turismo.
 
 Los centros de enseñanzas especializadas de turismo que no obtengan el reconocimiento como Escuela Universitaria adscrita a la Universidad, de acuerdo con lo previsto en la disposición transitoria quinta del Real Decreto 259/1996, de 16 de febrero, sobre incorporación a la Universidad de los Estudios Superiores de Turismo, podrán ser autorizados para impartir las enseñanzas correspondientes a los ciclos formativos de grado superior de Agencias de Viajes, de Alojamiento y de Información y Comercialización Turísticas.
 
-
 #### Disposición adicional decimotercera. Revisión de las enseñanzas mínimas y currículos.
 
 En la revisión de las enseñanzas mínimas y currículos de los ciclos formativos de Formación Profesional Específica se contemplarán las necesidades de formación básica que favorezcan la mejor adaptación de los títulos profesionales a las perspectivas del mercado laboral.
-
 
 #### Disposición adicional decimocuarta. Revisión de requisitos mínimos de espacios formativos e instalaciones.
 
 Los requisitos mínimos de espacios formativos e instalaciones establecidos en el presente Real Decreto para impartir los ciclos formativos, se revisarán en el plazo máximo de cinco años, previa consulta a los agentes sociales, con la finalidad de adecuarlos a las nuevas situaciones producidas por la evolución de las nuevas tecnologías y poder garantizar una oferta de formación profesional de calidad.
 
-
 #### Disposición transitoria primera. Acceso directo a estudios universitarios con los títulos de Técnico superior.
 
 Hasta tanto no se modifique el Real Decreto 1005/1991, de 14 de junio, por el que se regulan los procedimientos para el ingreso en los centros universitarios, para adaptarse a lo dispuesto en el artículo 35.4 de la Ley Orgánica de Ordenación General del Sistema Educativo, los títulos de Técnico superior permitirán el acceso directo a los estudios universitarios que se detallan en el anexo X, de acuerdo con el Catálogo de Títulos Universitarios Oficiales y a las sucesivas incorporaciones al mismo, sin perjuicio de la necesaria superación de las pruebas de aptitud específicas para el acceso a estudios universitarios que con carácter general así lo tengan establecido.
 
-
 #### Disposición transitoria segunda. Aplicación de las equivalencias a efectos de docencia en los procedimientos selectivos para el ingreso en el Cuerpo de Profesores Técnicos de Formación Profesional.
 
 Las equivalencias a efectos de docencia recogidas en el anexo III del Real Decreto 850/1993, de 4 de junio, por el que se regula el ingreso y la adquisición de especialidades en los Cuerpos de funcionarios docentes a que se refiere la Ley Orgánica de Ordenación General del Sistema Educativo, serán de aplicación en los procedimientos selectivos que efectúen las Administraciones educativas, en las tres primeras convocatorias de cada especialidad, para el ingreso en el Cuerpo de Profesores Técnicos de Formación Profesional, para aquellos aspirantes que acrediten experiencia docente de, al menos, dos años en centros educativos públicos dependientes de la Administración educativa convocante.
-
 
 #### Disposición transitoria tercera. Oferta de plazas de especialidades a profesores funcionarios según titulación.
 
@@ -404,11 +364,9 @@ En la adjudicación de estas vacantes se respetará, en todo caso, la prioridad 
 
 Los funcionarios de los Cuerpos de Profesores de Enseñanza Secundaria y de Profesores Técnicos de Formación Profesional podrán acceder a las vacantes referidas en los párrafos anteriores por una sola vez, con carácter voluntario, dentro del ámbito de gestión de la Administración educativa convocante, sin que ello suponga, en ningún caso, la adquisición de la especialidad correspondiente a dicho puesto.
 
-
 #### Disposición derogatoria única. Derogación normativa.
 
 Quedan derogados los artículos 31 y 32.1 del Real Decreto 1004/1991, de 14 de junio, por el que se establecen los requisitos mínimos de los centros que impartan enseñanzas de régimen general no universitarias y cuantas disposiciones de igual o inferior rango se opongan a lo dispuesto en el presente Real Decreto.
-
 
 #### Disposición final primera. Carácter básico y normas de desarrollo.
 
@@ -418,15 +376,11 @@ Quedan derogados los artículos 31 y 32.1 del Real Decreto 1004/1991, de 14 de j
 
 3. El Ministerio de Educación y Cultura queda autorizado para ampliar y adaptar lo establecido en el anexo X del presente Real Decreto en relación con el acceso a estudios universitarios de los Técnicos superiores, previo informe del Consejo de Universidades.
 
-
 #### Disposición final segunda. Competencia educativa de las Comunidades Autónomas.
 
 Todas las referencias a las Administraciones educativas contenidas en el presente Real Decreto se entenderán respecto a aquellas que se encuentren en el pleno ejercicio de sus competencias educativas.
 
-
 #### Disposición final tercera. Entrada en vigor.
-
-El presente Real Decreto entrará en vigor el día siguiente al de su publicación en el «Boletín Oficial del Estado».
 
 Dado en Madrid a 30 de abril de 1998.
 
@@ -2192,15 +2146,7 @@ Laboratorio de análisis.
 
 Taller agrario.
 
-150
-
-120
-
 Alojamientos ganaderos (1).
-
-350
-
-350
 
 Finca: Superficie de cultivos (1).
 
@@ -2224,10 +2170,6 @@ Laboratorio de análisis.
 
 Taller agrario.
 
-150
-
-120
-
 Superficie de cultivos (1).
 
 2 Ha.
@@ -2250,15 +2192,7 @@ Laboratorio de análisis.
 
 Taller agrario.
 
-150
-
-120
-
 Alojamientos ganaderos (1).
-
-750
-
-750
 
 Finca: Superficie de cultivos (1).
 
@@ -2282,10 +2216,6 @@ Laboratorio de análisis.
 
 Taller agrario.
 
-150
-
-120
-
 Superficie de vivero y jardín (1).
 
 1 Ha.
@@ -2307,8 +2237,6 @@ Laboratorio de análisis.
 60
 
 Taller agrario.
-
-150
 
 I20
 
@@ -2334,15 +2262,7 @@ Laboratorio de análisis.
 
 Taller agrario.
 
-150
-
-120
-
 Alojamientos ganaderos (1).
-
-750
-
-750
 
 Finca: Superficie de cultivos(1).
 
@@ -2365,10 +2285,6 @@ Laboratorio de análisis.
 60
 
 Taller agrario.
-
-150
-
-120
 
 Finca: Espacio natural (1).
 
@@ -2405,10 +2321,6 @@ Gimnasio.
 90
 
 Cuadras (1).
-
-150
-
-150
 
 Baja y media montaña (1).
 
@@ -2452,10 +2364,6 @@ Aula polivalente.
 
 Taller de buceo/embarcación.
 
-210
-
-180
-
 Piscina (4 rn de profundidad).
 
 25 m. largo
@@ -2472,19 +2380,11 @@ Aula polivalente.
 
 Taller de electricidad/electrónica.
 
-120
-
 90
 
 Taller de máquinas.
 
-240
-
-180
-
 Taller de seguridad y supervivencia.
-
-120
 
 90
 
@@ -2504,10 +2404,6 @@ Laboratorio de análisis.
 
 Taller/instalación de cultivo.
 
-300
-
-260
-
 Pesca y Transporte Marítimo.
 
 Aula polivalente.
@@ -2524,13 +2420,7 @@ Laboratorio de pesca.
 
 Taller de artes y aparejos.
 
-240
-
-180
-
 Taller de seguridad y supervivencia.
-
-120
 
 90
 
@@ -2556,13 +2446,7 @@ Laboratorio de pesca.
 
 Taller de artes y aparejos.
 
-240
-
-180
-
 Taller de seguridad y supervivencia.
-
-120
 
 90
 
@@ -2588,10 +2472,6 @@ Laboratorio de análisis.
 
 Taller/instalación de cultivo.
 
-300
-
-260
-
 Supervisión y Control de Máquinas e Instalaciones del Buque.
 
 Aula polivalente.
@@ -2602,19 +2482,11 @@ Aula polivalente.
 
 Taller de electricidad-electrónica.
 
-120
-
 90
 
 Taller de máquinas.
 
-240
-
-180
-
 Taller de seguridad y supervivencia.
-
-120
 
 90
 
@@ -2698,15 +2570,7 @@ Laboratorio de ensayos.
 
 Taller de impresión.
 
-240
-
-180
-
 Taller de encuadernación y manipulados.
-
-240
-
-180
 
 Impresión en Artes Gráficas.
 
@@ -2724,15 +2588,7 @@ Laboratorio de ensayos.
 
 Taller de impresión.
 
-240
-
-180
-
 Taller de preimpresión.
-
-240
-
-180
 
 Preimpresión en Artes Gráficas.
 
@@ -2749,8 +2605,6 @@ Laboratorio de ensayos.
 60
 
 Taller de preimpresión.
-
-740
 
 1 80
 
@@ -2778,10 +2632,6 @@ Laboratorio de ensayos.
 
 Taller de preimpresión.
 
-240
-
-180
-
 Producción en Industrias de Artes Gráficas.
 
 Aula polivalente.
@@ -2798,21 +2648,9 @@ Laboratorio de ensayos.
 
 Taller de encuadernación y manipulados.
 
-240
-
-180
-
 Taller de impresión.
 
-240
-
-180
-
 Taller de preimpresión.
-
-240
-
-180
 
 Comercio.
 
@@ -2914,8 +2752,6 @@ Laboratorio fotoquímico.
 
 Taller de fotografía.
 
-120
-
 90
 
 Imagen.
@@ -2940,15 +2776,9 @@ Laboratorio fotoquímico.
 
 Taller de fotografía.
 
-120
-
 90
 
 Taller de producciones audiovisuales.
-
-180
-
-180
 
 Producción de Audiovisuales, Radio y Espectáculos.
 
@@ -2965,10 +2795,6 @@ Taller de sonido.
 90
 
 Taller de producciones audiovisuales-.
-
-180
-
-180
 
 Realización de Audiovisuales y Espectáculos.
 
@@ -2987,8 +2813,6 @@ Aula técnica.
 Taller de producciones audiovisuales.
 
 I 80
-
-180
 
 Taller de montaje y postproducción.
 
@@ -3018,10 +2842,6 @@ Taller de sonido.
 
 Taller de producciones audiovisuales.
 
-180
-
-180
-
 EDIFICACIÓN Y OBRA CIVIL.
 
 Acabados de Construcción.
@@ -3034,10 +2854,6 @@ Aula polivalente.
 
 Taller de técnicas de construcción.
 
-240
-
-180
-
 Obras de Albañilería.
 
 Aula polivalente.
@@ -3047,10 +2863,6 @@ Aula polivalente.
 40
 
 Taller de técnicas de construcción.
-
-240
-
-189
 
 Espacio de terreno cercado al aire libre (1).
 
@@ -3068,10 +2880,6 @@ Aula polivalente.
 
 Taller de técnicas de construcción.
 
-240
-
-180
-
 Espacio de terreno cercado al aire libre (1).
 
 2.000
@@ -3087,10 +2895,6 @@ Aula polivalente.
 40
 
 Taller de maquinaria.
-
-240
-
-180
 
 Espacio de terreno cercado al aire libre (1).
 
@@ -3142,10 +2946,6 @@ Aula técnica.
 
 Taller de técnicas de construcción.
 
-240
-
-180
-
 ELECTRICIDAD-ELECTRÓNICA.
 
 Equipos Electrónicos de Consumo.
@@ -3158,13 +2958,9 @@ Aula polivalente.
 
 Taller de equipos electrónicos.
 
-120
-
 90
 
 Taller de electricidad-electrónica.
-
-120
 
 90
 
@@ -3178,13 +2974,9 @@ Aula polivalente.
 
 Taller de electricidad-electrónica.
 
-120
-
 90
 
 Taller de instalaciones electrotécnicas.
-
-120
 
 90
 
@@ -3204,8 +2996,6 @@ Aula técnica.
 
 Taller de electricidad-electrónica.
 
-120
-
 90
 
 Instalaciones Electrotécnicas.
@@ -3223,8 +3013,6 @@ Aula técnica.
 60
 
 Taller de instalaciones electrotécnicas.
-
-120
 
 90
 
@@ -3244,8 +3032,6 @@ Aula técnica.
 
 Taller de sistemas automáticos.
 
-120
-
 90
 
 Sistemas de Telecomunicación e Informáticos.
@@ -3263,8 +3049,6 @@ Aula técnica.
 60
 
 Taller de electricidad-electrónica.
-
-120
 
 90
 
@@ -3292,15 +3076,7 @@ Taller de automatismos.
 
 Taller de moldeo.
 
-180
-
-150
-
 Taller de fusión y colada.
-
-210
-
-180
 
 Mecanizado.
 
@@ -3330,15 +3106,7 @@ Taller de CNC.
 
 Taller de mecanizado.
 
-150
-
-120
-
 Taller de mecanizados especiales.
-
-150
-
-120
 
 Soldadura y Calderería.
 
@@ -3362,10 +3130,6 @@ Laboratorio de ensayos.
 
 Taller de construcciones metálicas.
 
-300
-
-210
-
 Tratamientos Superficiales y Térmicos.
 
 Aula polivalente.
@@ -3388,10 +3152,6 @@ Taller de automatismos.
 
 Taller de tratamientos superficiales y térmicos.
 
-180
-
-150
-
 Construcciones Metálicas.
 
 Aula polivalente.
@@ -3413,10 +3173,6 @@ Laboratorio de ensayos.
 60
 
 Taller de construcciones metálicas.
-
-300
-
-210
 
 Desarrollo de Proyectos Mecánicos.
 
@@ -3446,10 +3202,6 @@ Taller de automatismos.
 
 Taller de mecanizado.
 
-150
-
-120
-
 Producción por Fundición y Pulvimetalurgia.
 
 Aula polivalente.
@@ -3472,15 +3224,7 @@ Taller de automatismos.
 
 Taller de fusión y colada.
 
-210
-
-180
-
 Taller de moldeo.
-
-180
-
-150
 
 Producción por Mecanizado.
 
@@ -3510,15 +3254,7 @@ Taller de CNC.
 
 Taller de mecanizado.
 
-150
-
-120
-
 Taller de mecanizados especiales.
-
-150
-
-120
 
 HOSTELERÍA Y TURISMO.
 
@@ -3531,10 +3267,6 @@ Aula polivalente.
 40
 
 Taller de cocina.
-
-210
-
-180
 
 Taller de hostelería.
 
@@ -3558,10 +3290,6 @@ Aula polivalente.
 
 Taller de cocina.
 
-210
-
-180
-
 Taller de pastelería y panadería.
 
 60
@@ -3577,10 +3305,6 @@ Aula polivalente.
 40
 
 Taller de cocina.
-
-210
-
-180
 
 Taller de hostelería.
 
@@ -3652,10 +3376,6 @@ Aula de gestión.
 
 Taller de cocina.
 
-210
-
-180
-
 Taller de hostelería.
 
 90
@@ -3680,8 +3400,6 @@ Aula polivalente.
 
 Taller de imagen personal.
 
-120
-
 90
 
 Estética Personal Decorativa.
@@ -3693,8 +3411,6 @@ Aula polivalente.
 40
 
 Taller de estética.
-
-120
 
 90
 
@@ -3708,8 +3424,6 @@ Aula polivalente.
 
 Taller de peluquería.
 
-120
-
 90
 
 Asesoría de Imagen Personal.
@@ -3722,8 +3436,6 @@ Aula polivalente.
 
 Taller de imagen personal.
 
-120
-
 90
 
 Estética.
@@ -3735,8 +3447,6 @@ Aula polivalente.
 40
 
 Taller de estética.
-
-120
 
 90
 
@@ -3758,10 +3468,6 @@ Laboratorio de análisis.
 
 Taller de conservería.
 
-240
-
-210
-
 Elaboración de Aceites y Jugos.
 
 Aula polivalente.
@@ -3777,10 +3483,6 @@ Laboratorio de análisis.
 60
 
 Taller de aceites y zumos.
-
-240
-
-210
 
 Elaboración de Productos Lácteos.
 
@@ -3798,10 +3500,6 @@ Laboratorio de análisis.
 
 Taller de productos lácteos.
 
-240
-
-210
-
 Elaboración de Vinos y Otras Bebidas.
 
 Aula polivalente.
@@ -3817,10 +3515,6 @@ Laboratorio de análisis.
 60
 
 Taller bodega.
-
-240
-
-210
 
 Matadero y Carnicería-Charcutería.
 
@@ -3838,13 +3532,9 @@ Laboratorio de análisis.
 
 Sala de despiece y carnicería.
 
-120
-
 90
 
 Obrador de charcutería.
-
-120
 
 90
 
@@ -3864,10 +3554,6 @@ Laboratorio de análisis.
 
 Taller de rnolinería-tratamientos.
 
-240
-
-210
-
 Panificación y Repostería.
 
 Aula polivalente.
@@ -3884,10 +3570,6 @@ GO
 
 Taller de panificación y repostería.
 
-150
-
-120
-
 Industria Alimentaria.
 
 Aula polivalente.
@@ -3903,10 +3585,6 @@ Laboratorio de análisis.
 60
 
 Planta de elaboración.
-
-150
-
-120
 
 INFORMÁTICA.
 
@@ -3956,15 +3634,7 @@ Aula técnica.
 
 Taller de mecanizado de madera.
 
-240
-
-180
-
 Taller de montaje, instalación y acabado de carpintería y mueble.
-
-240
-
-180
 
 Fabricación Industrial de Carpintería y Mueble.
 
@@ -3982,15 +3652,7 @@ Aula técnica.
 
 Taller de mecanizado de madera.
 
-240
-
-180
-
 Taller de montaje, instalación y acabado de carpintería y mueble.
-
-240
-
-180
 
 Transformación de Madera y Corcho.
 
@@ -4008,15 +3670,7 @@ Aula técnica.
 
 Taller tratamientos de la madera.
 
-150
-
-120
-
 Taller de mecanizado de madera.
-
-240
-
-180
 
 Desarrollo de Productos en Carpintería y Mueble.
 
@@ -4034,10 +3688,6 @@ Aula técnica.
 
 Taller de mecanizado de madera.
 
-240
-
-180
-
 Producción de Madera y Mueble.
 
 Aula polivalente.
@@ -4054,15 +3704,7 @@ Aula técnica.
 
 Taller de mecanizado de madera.
 
-240
-
-180
-
 Taller de montaje, instalación y acabado de carpintería y mueble.
-
-240
-
-180
 
 MANTENIMIENTO DE VEHÍCULOS AUTOPROPULSADOS.
 
@@ -4075,10 +3717,6 @@ Aula polivalente.
 40
 
 Taller de carrocería.
-
-240
-
-180
 
 Electromecánica de vehículos.
 
@@ -4096,10 +3734,6 @@ Taller de electricidad y neumohidráulica.
 
 Taller de mecánica de automoción.
 
-300
-
-270
-
 Automoción.
 
 Aula polivalente.
@@ -4110,10 +3744,6 @@ Aula polivalente.
 
 Taller de carrocería.
 
-240
-
-180
-
 Taller de electricidad y neumohidráulica.
 
 90
@@ -4121,10 +3751,6 @@ Taller de electricidad y neumohidráulica.
 60
 
 Taller de mecánica de automoción.
-
-300
-
-270
 
 Mantenimiento Aeromecánico.
 
@@ -4136,27 +3762,15 @@ Aula polivalente.
 
 Laboratorio de fluidos.
 
-120
-
 90
 
 Taller de electricidad-electrónica.
-
-120
 
 9C
 
 Taller de motores de aeronaves.
 
-210
-
-180
-
 Taller de sistemas y estructuras de aeronaves (1 ).
-
-240
-
-210
 
 Mantenimiento de Aviónica.
 
@@ -4168,21 +3782,13 @@ Aula polivalente.
 
 Taller de aviónica.
 
-120
-
 90
 
 Taller de electricidad-electrónica.
 
-120
-
 90
 
 Taller de motores y sistema.
-
-150
-
-120
 
 MANTENIMIENTO Y SERVICIOS A LA PRODUCCIÓN.
 
@@ -4196,25 +3802,13 @@ Aula polivalente.
 
 Taller de instalaciones electrotécnicas.
 
-120
-
 90
 
 Taller de mantenimiento.
 
-180
-
-150
-
 Taller de mecanizado.
 
-150
-
-120
-
 Taller de sistemas automáticos.
-
-120
 
 90
 
@@ -4228,31 +3822,15 @@ Aula polivalente.
 
 Taller equipos electrotécnicos.
 
-120
-
 90
 
 Taller de mantenimiento.
 
-180
-
-150
-
 Taller de mantenimiento ferroviario (1).
-
-500
-
-400
 
 Taller de mecanizado.
 
-150
-
-120
-
 Taller de sistemas automáticos.
-
-120
 
 90
 
@@ -4266,25 +3844,13 @@ Aula polivalente.
 
 Taller de instalaciones electrotécnicas.
 
-120
-
 90
 
 Taller de instalaciones térmicas.
 
-180
-
-150
-
 Taller de mecanizado.
 
-150
-
-120
-
 Taller de sistemas automáticos.
-
-120
 
 90
 
@@ -4304,19 +3870,11 @@ Aula técnica.
 
 Taller de instalaciones térmicas.
 
-180
-
-150
-
 Taller de mecanizado.
-
-150
 
 I 20
 
 Taller de sistemas automáticos.
-
-120
 
 90
 
@@ -4336,25 +3894,15 @@ Aula técnica.
 
 Taller de instalaciones electrotécnicas.
 
-120
-
 90
 
 Taller de mantenimiento.
-
-180
-
-150
 
 Taller de mecanizado.
 
 I 50
 
-120
-
 Taller de sistemas automáticos.
-
-120
 
 90
 
@@ -4374,23 +3922,15 @@ Aula técnica.
 
 Taller de instalaciones electrotécnicas.
 
-120
-
 90
 
 Taller de instalaciones térmicas.
-
-180
-
-150
 
 QUÍMICA.
 
 Laboratorio.
 
 Taller de sistemas automáticos.
-
-120
 
 90
 
@@ -4434,10 +3974,6 @@ Laboratorio de análisis.
 
 Taller de química industrial.
 
-180
-
-150
-
 Operaciones de Proceso de Pasta y Papel.
 
 Aula polivalente.
@@ -4459,8 +3995,6 @@ Laboratorio de ensayos.
 60
 
 Taller de química industrial.
-
-180
 
 I 50
 
@@ -4486,10 +4020,6 @@ Laboratorio de microbiología.
 
 Taller de química industrial.
 
-180
-
-150
-
 Operaciones de Transformación de Plásticos y Caucho.
 
 Aula polivalente.
@@ -4511,10 +4041,6 @@ Laboratorios de ensayos.
 60
 
 Taller de química industrial.
-
-180
-
-150
 
 Análisis y Control.
 
@@ -4558,10 +4084,6 @@ Laboratorio de análisis.
 
 Taller de química industrial.
 
-180
-
-150
-
 Industrias de Proceso de Pasta y Papel.
 
 Aula polivalente.
@@ -4578,10 +4100,6 @@ Laboratorio de análisis.
 
 Taller de química industrial.
 
-180
-
-150
-
 Industrias de Proceso Químico.
 
 Aula polivalente.
@@ -4597,10 +4115,6 @@ Laboratorio de análisis.
 60
 
 Taller de química industrial.
-
-180
-
-150
 
 Plásticos y Caucho.
 
@@ -4624,10 +4138,6 @@ Laboratorio de ensayos.
 
 Taller de química industrial.
 
-180
-
-150
-
 Química Ambiental.
 
 Aula polivalente.
@@ -4644,15 +4154,7 @@ Laboratorio de análisis.
 
 Laboratorio de microbiología.
 
-180
-
-150
-
 Taller de química industrial.
-
-180
-
-150
 
 SANIDAD.
 
@@ -4693,8 +4195,6 @@ Aula polivalente.
 40
 
 Aula bucodental.
-
-120
 
 90
 
@@ -4754,8 +4254,6 @@ Laboratorio técnico.
 
 Taller de productos ortoprotésicos.
 
-120
-
 90
 
 Prótesis Dentales.
@@ -4768,8 +4266,6 @@ Aula polivalente.
 
 Taller dental.
 
-120
-
 90
 
 Radioterapia.
@@ -4781,8 +4277,6 @@ Aula polivalente.
 40
 
 Laboratorio de radioterapia.
-
-120
 
 90
 
@@ -4812,8 +4306,6 @@ Aula polivalente.
 
 Taller de servicios sociales.
 
-120
-
 90
 
 Educación Infantil.
@@ -4825,8 +4317,6 @@ Aula polivalente.
 40
 
 Taller de servicios sociales.
-
-120
 
 90
 
@@ -4840,8 +4330,6 @@ Aula polivalente.
 
 Taller de servicios sociales.
 
-120
-
 90
 
 Interpretación de la Lengua de Signos.
@@ -4853,8 +4341,6 @@ Aula polivalente.
 40
 
 Taller de servicios sociales.
-
-120
 
 90
 
@@ -4876,10 +4362,6 @@ Laboratorio de ensayos.
 
 Taller de calzado y marroquinería.
 
-240
-
-180
-
 Confección.
 
 Aula polivalente.
@@ -4895,10 +4377,6 @@ Laboratorio de ensayos.
 60
 
 Taller de confección.
-
-240
-
-180
 
 Operaciones de Ennoblecimiento Textil.
 
@@ -4922,10 +4400,6 @@ Laboratorio de ensayos ,.
 
 Taller de ennoblecimiento textil.
 
-180
-
-150
-
 Producción de Hilatura y  Tejeduría de Calada.
 
 Aula polivalente.
@@ -4942,10 +4416,6 @@ Laboratorio de ensayos.
 
 Taller de hilatura y tejeduría de calada.
 
-330
-
-270
-
 Producción de Tejidos de Punto.
 
 Aula polivalente.
@@ -4961,10 +4431,6 @@ Laboratorio de ensayos.
 60
 
 Taller de tejeduría de punto.
-
-330
-
-270
 
 Curtidos.
 
@@ -4987,10 +4453,6 @@ Laboratorio de ensayos.
 60
 
 Taller de curtición.
-
-180
-
-150
 
 Patronaje.
 
@@ -5028,10 +4490,6 @@ Laboratorio de ensayos.
 
 Taller de confección, calzado y marroquinería.
 
-270
-
-210
-
 Procesos de Ennoblecimiento Textil.
 
 Aula polivalente.
@@ -5054,10 +4512,6 @@ Laboratorio de ensayos.
 
 Taller de ennoblecimiento textil.
 
-180
-
-150
-
 Procesos Textiles de Hilatura y Tejeduría de Calada.
 
 Aula polivalente.
@@ -5074,10 +4528,6 @@ Laboratorio de ensayos.
 
 Taller de hilatura y tejeduría de calada.
 
-330
-
-270
-
 Procesos Textiles de Tejeduría de Punto.
 
 Aula polivalente.
@@ -5093,10 +4543,6 @@ Laboratorio de ensayos.
 60
 
 Taller de tejeduría de punto.
-
-330
-
-270
 
 VIDRIO Y CERÁMICA.
 
@@ -5116,10 +4562,6 @@ Laboratorio de ensayos.
 
 Taller de fabricación de cerámica.
 
-300
-
-260
-
 Operaciones de Fabricación de Vidrio y Transformados.
 
 Aula polivalente.
@@ -5135,10 +4577,6 @@ Laboratorio de ensayos.
 60
 
 Taller de fabricación y transformación de vidrio.
-
-300
-
-260
 
 Desarrollo de Productos Cerámicos.
 
@@ -5162,10 +4600,6 @@ Laboratorio de ensayos.
 
 Taller de fabricación de cerámica.
 
-300
-
-260
-
 Fabricación y Transformación de Productos de Vidrio.
 
 Aula polivalente.
@@ -5187,10 +4621,6 @@ Laboratorio de ensayos.
 60
 
 Taller de fabricación y transformación de vidrio.
-
-300
-
-260
 
 (1) Espacio singular no necesariamente ubicado en el centro docente.
 
@@ -5464,7 +4894,6 @@ ANEXO
 
 3.2 Módulos profesionales asociados a una unidad de competencia
 
-
 **Módulo profesional 1: marketing internacional**
 
 Asociado a la unidad de competencia I: realizar las operaciones de compraventa de mercancías a nivel internacional
@@ -5679,7 +5108,6 @@ d) El «marketing-mix».
 
 7. Aplicaciones informáticas específicas de marketing internacional.
 
-
 **Módulo profesional 2: Negociación internacional**
 
 Asociado a la unidad de competencia I: realizar las operaciones de compraventa de mercancías a nivel internacional
@@ -5850,7 +5278,6 @@ d) Empresas multinacionales.
 
 7. Aplicaciones informáticas de gestión de la compraventa internacional.
 
-
 **Módulo profesional 6: financiación internacional**
 
 Asociado a la unidad de competencia 4: gestionar las operaciones de financiación Para transacciones internacionales de mercancías.
@@ -6009,7 +5436,6 @@ b) Fianzas y garantías.
 
 5. Aplicaciones informáticas de cálculo financiero, gestión de créditos y operaciones en divisas.
 
-
 **Módulo profesional 7: medios de pago internacionales**
 
 Asociado a la unidad de competencia 4: gestionar las operaciones de financiación para transacciones internacionales de mercancías.
@@ -6108,7 +5534,6 @@ b) Modalidades de garantías.
 
 4. Aplicaciones informáticas de confección y análisis de modos de pago internacionales.
 
-
 **4. Profesorado**
 
 4.1 Especialidades del profesorado con atribución docente en los módulos profesionales del ciclo formativo de comercio internacional.
@@ -6185,7 +5610,6 @@ ANEXO VIII
 
 MODIFICACIÓN Y AMPLIACIÓN DEL REAL DECRETO 1635/1995 DE 6 DE OCTUBRE
 
-
 **VIII a) Modificación de las denominaciones de los Anexos II a) y IV a)**
 
 ESPECIALIDADES DEL CUERPO DE PROFESORES DE ENSEÑANZA SECUNDARIA CORRESPONDIENTES A LA FORMACIÓN PROFESIONAL ESPECÍFICA
@@ -6197,7 +5621,6 @@ ESPECIALIDADES DEL CUERPO DE PROFESORES TÉCNICOS DE FORMACIÓN PROFESIONAL.
 Operaciones de Preparación y Tratamiento de Alimentos → Operaciones y Equipos de Elaboración de Productos Alimentarios.
 
 Operaciones de Producción Agraria → Operaciones y Equipos de Producción Agraria.
-
 
 **VIII b) Ampliación de atribución docente de los Anexos II b) y 1V b) Profesores de Enseñanza Secundaria**
 
@@ -6427,7 +5850,6 @@ Grabaciones musicales.
 
 Sonido.
 
-
 **VIII c) 
       Ampliación y modificación del Anexo II c) sobre atribución de competencia docente a los Profesores de las nuevas especialidades de secundaria para la docencia en el bachillerato**
 
@@ -6438,7 +5860,6 @@ MATERIAS BACHILLERATO
 ASESORÍA Y PROCESOS DE IMAGEN PERSONAL.
 
 Biología.
-
 
 **VIII d) 
       Ampliación de adscripción de los Anexos IId) y IV c)**
@@ -6478,7 +5899,6 @@ Instalación y Mantenimiento de Equipos Térmicos y de Fluidos.
 Laboratorio Químico.
 
 Operaciones y Equipos de Elaboración de Productos Alimentarios.
-
 
 **VIII e) Ampliación del Anexo III sobre atribución de competencia docente a los profesores de las especialidades relacionadas en el Anexo I del Real Decreto 1701/1991 para la docencia en la formación profesional específica**
 

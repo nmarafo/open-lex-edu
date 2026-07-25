@@ -36,7 +36,6 @@ Boletín Oficial de Canarias
 Accesibilidad
 Mapa web
 Contacto
-Versión texto
 Inicio
 Archivo
 Búsqueda
@@ -45,11 +44,8 @@ Inicio
 Archivo
 Año 2005
 2005/080. Lunes 25 de Abril de 2005
-1379
-<p>Menú de búsqueda y navegación</p>
 Anterior
 Siguiente
-BOC Nº 080. Lunes 25 de Abril de 2005 - 1379
 IV. ANUNCIOS - Otros anuncios - Consejería de Empleo y Asuntos Sociales
 1379 - Dirección General de Trabajo.- Anuncio por el que se hace pública la Resolución de 28 de marzo de 2005, relativa a registro, depósito y publicación del Convenio Colectivo del Personal Laboral de la Comunidad Autónoma de Canarias.
 Descargar en formato pdf
@@ -70,6 +66,3 @@ La asignación del complemento se efectuará por la citada Comisión, dentro de 
 ANEXO V: Añadir:
 Complemento de atención al público: 37,29 euros/mes.
 La Administración.- Ilma. Sra. Viceconsejera de Administración Pública.- Ilmo. Sr. Director General de la Función Pública.- El Comité Intercentros.- El Presidente.- El Secretario.
-© Gobierno de Canarias
-Aviso Legal
-Sugerencias y Reclamaciones

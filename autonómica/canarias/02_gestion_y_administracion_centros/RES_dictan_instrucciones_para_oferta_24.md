@@ -30,10 +30,7 @@ fuente_pdf_oficial: https://sede.gobiernodecanarias.org/boc/boc-a-2020-257-4915.
 
 # Resolución de la Viceconsejería de Educación y Universidades, por la que se dictan instrucciones para la oferta educativa y recursos en las escuelas unitarias y los colectivos de escuelas rurales en canarias (13 de marzo de 2015).
 
-Boletín Oficial de Canarias núm. 257
-https://sede.gobcan.es/boc
 Martes 15 de diciembre de 2020
-37519
 III. Otras Resoluciones
 Consejería de Educación, Universidades, Cultura y Deportes
 4915 Dirección General de Centros, Infraestructura y Promoción Educativa.- Resolución de 
@@ -72,13 +69,8 @@ con la figura del coordinador o coordinadora de los CER y los distintos equipos 
 de los centros que lo integran, conforman el eje de la organización y funcionamiento de 
 dichos centros.
 Página 
-boc-a-2020-257-4915
 
-
-Boletín Oficial de Canarias núm. 257
-https://sede.gobcan.es/boc
 Martes 15 de diciembre de 2020
-37520
 Segundo.- La necesidad de convocar elecciones para la renovación de los representantes 
 de los distintos sectores de la comunidad educativa en los Consejos de los CER viene 
 determinada en el artículo 22 del Decreto 109/1999, de 25 de mayo, por el que se regula el 
@@ -114,13 +106,8 @@ dispuesto en el artículo 22 de citado Decreto 109/1999, de 25 de mayo.
 2. A los efectos de definir el número de miembros que le corresponde a cada sector en el 
 Consejo del CER, se tendrá en cuenta el número de unidades autorizadas para cada uno de 
 los CER en funcionamiento para el presente curso escolar 2020/2021.
-boc-a-2020-257-4915
 
-
-Boletín Oficial de Canarias núm. 257
-https://sede.gobcan.es/boc
 Martes 15 de diciembre de 2020
-37521
 Cuarto.- Representantes a designar.
 1. La junta electoral del CER, a través de la persona que ejerza su presidencia, solicitará 
 al ayuntamiento o ayuntamientos que conforman el CER la designación de la persona 
@@ -158,13 +145,8 @@ de ser, como mínimo, de tres horas diarias, con especificación de los días pr
 tal recepción. La junta electoral tendrá en cuenta la posibilidad de recibir candidaturas del 
 sector de padres, madres o representantes legales del alumnado en horario de tarde, cuando, 
 de forma justificada, no puedan ser presentadas en otro momento.
-boc-a-2020-257-4915
 
-
-Boletín Oficial de Canarias núm. 257
-https://sede.gobcan.es/boc
 Martes 15 de diciembre de 2020
-37522
 d) Admitir y proclamar las distintas candidaturas hasta el plazo indicado en el Anexo I de 
 esta Resolución, que los interesados o interesadas habrán entregado con anterioridad para su 
 tramitación a las direcciones de sus respectivos centros del ámbito.
@@ -199,13 +181,8 @@ madres o tutores legales del alumnado, y los alumnos o las alumnas que formen pa
 Consejos Escolares de los centros del ámbito del CER, así como los maestros o maestras que 
 compongan el equipo pedagógico, tal y como estipula el artículo 22 en concordancia con el 
 20, ambos del indicado Decreto 109/1999, de 25 de mayo.
-boc-a-2020-257-4915
 
-
-Boletín Oficial de Canarias núm. 257
-https://sede.gobcan.es/boc
 Martes 15 de diciembre de 2020
-37523
 2. En los casos en que la patria potestad de los hijos e hijas se encuentre conferida a uno 
 solo de los progenitores, corresponderá exclusivamente a este el derecho a ser elector y 
 elegible.
@@ -242,13 +219,8 @@ debidamente certificada por el secretario o secretaria de dicho órgano.
 de los centros, facilitarán que aquellos miembros de los Consejos Escolares que sean 
 proclamados candidatos y candidatas puedan darse a conocer a los electores, a través de 
 procedimientos que no alteren el normal funcionamiento de los centros.
-boc-a-2020-257-4915
 
-
-Boletín Oficial de Canarias núm. 257
-https://sede.gobcan.es/boc
 Martes 15 de diciembre de 2020
-37524
 4. Los distintos sectores de la comunidad educativa tendrán la posibilidad de difundir 
 circulares y propaganda electoral.
 5. La coordinación del CER, de acuerdo con las direcciones de los centros, propiciará, 
@@ -287,13 +259,8 @@ esta con las dos primeras personas votantes, siempre que no sean candidatas.
 6. La mesa electoral correspondiente al sector de representantes del alumnado estará 
 formada por la persona coordinadora del CER que ejercerá su presidencia; dos alumnos o 
 alumnas, designados por sorteo entre los pertenecientes a los Consejos Escolares del ámbito; 
-boc-a-2020-257-4915
 
-
-Boletín Oficial de Canarias núm. 257
-https://sede.gobcan.es/boc
 Martes 15 de diciembre de 2020
-37525
 y el maestro o la maestra que desempeñan funciones de secretario o secretaria de mesa en las 
 reuniones del equipo pedagógico, que actuará como tal para este proceso. La junta electoral 
 deberá prever el nombramiento de suplentes, designados también por sorteo.
@@ -329,13 +296,8 @@ Undécimo.- Elección de representantes de los maestros y maestras.
 por el equipo pedagógico y en el seno de este. El voto será secreto, directo y no delegable.
 2. Serán electores y electoras todos los miembros del equipo pedagógico. Podrán ser 
 elegidos o elegidas los maestros o las maestras que hayan presentado candidatura.
-boc-a-2020-257-4915
 
-
-Boletín Oficial de Canarias núm. 257
-https://sede.gobcan.es/boc
 Martes 15 de diciembre de 2020
-37526
 3. A los efectos de lo dispuesto en los puntos anteriores, la coordinación del CER 
 convocará una reunión del equipo pedagógico, de carácter extraordinario, en la que, como 
 único punto del orden del día, figurará el acto de elección.
@@ -374,13 +336,8 @@ para alcanzar dicho número, una vez considerados los desempates y sin perjuicio
 dispuesto en el artículo 27 de la citada Orden de 12 de mayo de 2016.
 13. Concluida la elección, el secretario o la secretaria de la mesa hará llegar el acta con 
 los resultados electorales a la junta electoral, que proclamará a las personas electas.
-boc-a-2020-257-4915
 
-
-Boletín Oficial de Canarias núm. 257
-https://sede.gobcan.es/boc
 Martes 15 de diciembre de 2020
-37527
 Duodécimo.- Escrutinio de votos y elaboración de las actas.
 1. Una vez finalizadas las votaciones, las mesas electorales correspondientes procederán 
 en acto público al escrutinio de los votos. A continuación, extenderán un acta en la que 
@@ -418,13 +375,8 @@ y por un funcionario o funcionaria, nombrado al efecto, que actuará como secret
 secretaria. La citada Comisión tendrá como principales funciones asesorar a las personas 
 interesadas en el proceso, informar sobre las incidencias que se produzcan durante todo su 
 desarrollo y hacer propuestas de resolución de las mismas y de las reclamaciones habidas.
-boc-a-2020-257-4915
 
-
-Boletín Oficial de Canarias núm. 257
-https://sede.gobcan.es/boc
 Martes 15 de diciembre de 2020
-37528
 3. Asimismo, las comisiones electorales provinciales comunicarán a la Dirección General 
 de Centros, Infraestructura y Promoción Educativa las principales incidencias habidas y su 
 resolución.
@@ -441,13 +393,8 @@ Canarias, recurso de alzada ante la Viceconsejería de Educación, Universidades
 Deportes, sin perjuicio de cualquier otro que se estime procedente interponer.
 Santa Cruz de Tenerife, a 3 de diciembre de 2020.- La Directora General de Centros, 
 Infraestructura y Promoción Educativa, María Candelaria González Morales.
-boc-a-2020-257-4915
 
-
-Boletín Oficial de Canarias núm. 257
-https://sede.gobcan.es/boc
 Martes 15 de diciembre de 2020
-37529
 A N E X O I
 CALENDARIO DEL PROCESO ELECTORAL
 RENOV ACIÓN PARCIAL  DE LOS CONSEJOS DE LOS CER
@@ -493,13 +440,8 @@ dirección de  cada centro y dentro del  horario que establezca la  Junta
 Electoral.
 • Presentación de solicitudes para actuar como supervisores o supervisoras
 de  las  votaciones  de  los  padres,  madres  o  representantes  legales  del
-boc-a-2020-257-4915
 
-
-Boletín Oficial de Canarias núm. 257
-https://sede.gobcan.es/boc
 Martes 15 de diciembre de 2020
-37530
 Hasta el 3 de marzo
 alumnado, y de las del propio alumnado, propuestos por una AMPA o, en
 su caso, por la asociación de alumnado mayoritaria, o bien avalados por la
@@ -593,13 +535,8 @@ dirección de  cada centro y dentro del  horario que establezca la  Junta
 Electoral.
 • Presentación de solicitudes para actuar como supervisores o supervisoras
 de  las  votaciones  de  los  padres,  madres  o  representantes  legales  del
-boc-a-2020-257-4915
 
-
-Boletín Oficial de Canarias núm. 257
-https://sede.gobcan.es/boc
 Martes 15 de diciembre de 2020
-37531
 ANEXO II
 RENOV ACIÓN PARCIAL  DE LOS CONSEJOS DE LOS CER
 ESTADILLO 
@@ -634,5 +571,3 @@ En __________________________, a ____________de ________________________de 2021
  Fdo.: __________________
 *Este documento solo se tramita telemáticamente a través de la aplicación creada al efecto en el Portal Docente y no hay que remitirlo ni a
 la Dirección Territorial de Educación correspondiente ni a otros centros directivos.
-boc-a-2020-257-4915
-

@@ -32,9 +32,6 @@ fuente_pdf_oficial: https://sede.gobiernodecanarias.org/boc/boc-a-2026-077-1285.
 
 # Resolución de 14 de abril de 2026, por la que se dictan instrucciones para la planificación, realización y gestión, en el ámbito de la Comunidad Autónoma de Canarias, de la Prueba para el Acceso a la Universidad, aplicables al alumnado que haya cursado el Bachillerato, así como los Ciclos Formativos de Grado Superior de Formación Profesional, de Enseñanzas Profesionales de Artes Pláticas y Diseño, y de Enseñanzas Deportivas.
 
-https://sede.gobiernodecanarias.org/boc
-boc-a-2026-077-1285
-Boletín Oficial de Canarias núm. 77 Miércoles 22 de abril de 202614841
 III. Otras Resoluciones
 Consejería de Educación, Formación Profesional, Actividad Física y Deportes
 1285 Viceconsejería de Educación.- Resolución de 14 de abril de 2026, por la que se 
@@ -78,9 +75,6 @@ para el Acceso a la Universidad, aplicables al alumnado que haya cursado el Bach
 así como Ciclos Formativos de Grado Superior de Formación Profesional, de Enseñanzas 
 Profesionales de Artes Plásticas y Diseño, y de Enseñanzas Deportivas.
 
-https://sede.gobiernodecanarias.org/boc
-boc-a-2026-077-1285
-Boletín Oficial de Canarias núm. 77 Miércoles 22 de abril de 202614842
 FUNDAMENTOS DE DERECHO
 Primero.- El artículo 38.1 de la Ley Orgánica 2/2006, de 3 de mayo, de Educación (en 
 lo sucesivo LOE), establece que para acceder a los estudios universitarios será necesaria 
@@ -119,9 +113,6 @@ el Decreto 30/2023, de 16 de marzo, por el que se establece la ordenación y el 
 de la Educación Secundaria Obligatoria y del Bachillerato en la Comunidad Autónoma de 
 Canarias.
 
-https://sede.gobiernodecanarias.org/boc
-boc-a-2026-077-1285
-Boletín Oficial de Canarias núm. 77 Miércoles 22 de abril de 202614843
 Quinto.- En lo que no se oponga a la normativa anteriormente citada, la Orden 
 EDU/3242/2010, de 9 de diciembre, por la que se determina el contenido de la fase 
 específica de la prueba de acceso a la universidad, que podrán realizar quienes estén en 
@@ -157,9 +148,6 @@ Canarias.
 Las Palmas de Gran Canaria, a 14 de abril de 2026.- El Viceconsejero de Educación, 
 José Manuel Cabrera Delgado.
 
-https://sede.gobiernodecanarias.org/boc
-boc-a-2026-077-1285
-Boletín Oficial de Canarias núm. 77 Miércoles 22 de abril de 202614844
 ANEXO
 INSTRUCCIONES RELATIV AS A LA REALIZACIÓN DE LA PRUEBA DE 
 ACCESO A LA UNIVERSIDAD EN EL ÁMBITO DE LA COMUNIDAD 
@@ -197,9 +185,6 @@ Universidades, Ciencia e Innovación y Cultura.
 4. Las personas representantes de la Universidad de La Laguna y de la Universidad de 
 Las Palmas de Gran Canaria serán designadas por los rectores o las rectoras respectivos.
 
-https://sede.gobiernodecanarias.org/boc
-boc-a-2026-077-1285
-Boletín Oficial de Canarias núm. 77 Miércoles 22 de abril de 202614845
 5. La presidencia de la COPAU será asumida, alternativamente en cada curso, por una 
 de las personas representantes de las universidades y tendrá voto de calidad en caso de 
 empate. Durante el curso 2025-2026, dicha presidencia corresponderá al representante de 
@@ -240,9 +225,6 @@ instrucción primera.
 h) Convocar las reuniones de la 
 COPAU.
 
-https://sede.gobiernodecanarias.org/boc
-boc-a-2026-077-1285
-Boletín Oficial de Canarias núm. 77 Miércoles 22 de abril de 202614846
 2. En lo relativo a los ejercicios de las materias, la COPAU deberá:
 a) Adoptar las medidas necesarias para garantizar la custodia y confidencialidad de los 
 ejercicios, así como para asegurar el carácter anónimo de los datos del alumnado y de los 
@@ -285,9 +267,6 @@ Cuarta.- Subcomisiones de materia.
 través de subcomisiones de materia, que se constituirán a propuesta de la COPAU, respecto 
 de todas las materias que sean objeto de la prueba.
 
-https://sede.gobiernodecanarias.org/boc
-boc-a-2026-077-1285
-Boletín Oficial de Canarias núm. 77 Miércoles 22 de abril de 202614847
 2. Cada subcomisión estará compuesta, de manera general, por cuatro componentes: 
 un profesor o una profesora de cada una de las universidades públicas canarias, designado 
 por la universidad a la que pertenezca, y dos representantes del profesorado de Enseñanza 
@@ -333,9 +312,6 @@ o de ejercicios semejantes a los que el alumnado deberá realizar en la PAU, par
 publicación en la web de la Consejería de Educación, Formación Profesional, Actividad 
 Física y Deportes, a título informativo.
 
-https://sede.gobiernodecanarias.org/boc
-boc-a-2026-077-1285
-Boletín Oficial de Canarias núm. 77 Miércoles 22 de abril de 202614848
 7. Elaborar las preguntas de la materia en el marco de lo dispuesto la orden ministerial 
 anual y siguiendo las pautas e indicaciones de la COPAU. Para la confección de las mismas 
 harán aportaciones todos los componentes de la subcomisión. La subcomisión podrá tener 
@@ -375,9 +351,6 @@ subcomisiones de materia.
 2. Coordinar el desarrollo de las reuniones de coordinación de la materia según los 
 plazos, criterios y formatos que establezca la comisión organizadora.
 
-https://sede.gobiernodecanarias.org/boc
-boc-a-2026-077-1285
-Boletín Oficial de Canarias núm. 77 Miércoles 22 de abril de 202614849
 3. Remitir a la COPAU la documentación generada por la subcomisión.
 4. Acordar, junto con la COPAU, las fechas de las reuniones de la subcomisión y de las 
 reuniones de coordinación con el profesorado previstas a lo largo del curso escolar.
@@ -422,9 +395,6 @@ tribunales de cada territorio, igualmente las presidencias de los tribunales pod
 profesorado para tareas de apoyo y asistencia al tribunal, aunque no hubieran presentado 
 solicitud.
 
-https://sede.gobiernodecanarias.org/boc
-boc-a-2026-077-1285
-Boletín Oficial de Canarias núm. 77 Miércoles 22 de abril de 202614850
 La presidencia del tribunal podrá excluir a aquellos correctores o aquellas correctoras 
 sobre los que, habiendo participado en alguna edición anterior de la PAU, obre informe 
 negativo por parte de la persona coordinadora de la materia o del responsable de la sede 
@@ -471,9 +441,6 @@ días que duran las pruebas a disposición del tribunal.
 el tiempo necesario para proceder a la entrega de los exámenes corregidos, conforme al 
 calendario de entrega establecido por la presidencia del tribunal.
 
-https://sede.gobiernodecanarias.org/boc
-boc-a-2026-077-1285
-Boletín Oficial de Canarias núm. 77 Miércoles 22 de abril de 202614851
 Octava.- Funciones de las presidencias de los tribunales.
 1. La persona que ejerza la presidencia del tribunal calificador en cada universidad 
 pondrá en conocimiento de las personas vocales correctoras, en el momento de su 
@@ -516,9 +483,6 @@ estudiantes que se encuentren en posesión del título de Bachillerato Europeo.
 - Alumnado que hubiera obtenido el Diploma del Bachillerato Internacional, expedido 
 por la Organización del Bachillerato Internacional, con sede en Ginebra (Suiza).
 
-https://sede.gobiernodecanarias.org/boc
-boc-a-2026-077-1285
-Boletín Oficial de Canarias núm. 77 Miércoles 22 de abril de 202614852
 Décima.- Matrícula del alumnado que esté cursando 2.º de Bachillerato, así 
 como 2.º de un Ciclo Formativo de Grado Superior de Formación Profesional, de 
 Enseñanzas Profesionales de Artes Plásticas y Diseño, o Enseñanzas Deportivas de 
@@ -562,9 +526,6 @@ la prueba externa de “Baccalauréat” en las materias “Historia de España 
 c) Los alumnos que no hubieran realizado la prueba externa de “Baccalauréat” pero 
 hubieran obtenido el título de Bachiller, podrán presentarse a la fase general.
 
-https://sede.gobiernodecanarias.org/boc
-boc-a-2026-077-1285
-Boletín Oficial de Canarias núm. 77 Miércoles 22 de abril de 202614853
 5. El alumnado realizará la inscripción en la prueba en la universidad a la que esté 
 adscrito el centro educativo en que esté cursando sus estudios. A estos efectos, los centros 
 en los que se imparta el Bachillerato o Ciclo Formativo de Grado Superior, radicados en 
@@ -609,9 +570,6 @@ sistemas educativos extranjeros.
 1. Las personas solicitantes procedentes de Bachillerato, de un Ciclo Formativo de 
 Grado Superior, de Enseñanzas Profesionales de Artes Plásticas y Diseño, o de Enseñanzas 
 
-https://sede.gobiernodecanarias.org/boc
-boc-a-2026-077-1285
-Boletín Oficial de Canarias núm. 77 Miércoles 22 de abril de 202614854
 Deportivas de Grado Superior, o equivalente, superados en cursos anteriores, podrán 
 matricularse en la PAU, a través de los medios telemáticos que para ello se establezcan.
 2. En lo que respecta al alumnado que haya cursado estudios en sistemas educativos 
@@ -656,9 +614,6 @@ se actuará conforme al apartado segundo de esta instrucción para que las unive
 puedan planificar, en su caso, las posibles medidas de adaptación, en función de las que se 
 aplicaron al alumno o alumna en la etapa educativa anterior.
 
-https://sede.gobiernodecanarias.org/boc
-boc-a-2026-077-1285
-Boletín Oficial de Canarias núm. 77 Miércoles 22 de abril de 202614855
 Decimotercera.- Alumnado trans.
 1. La COPAU adoptará las medidas oportunas para garantizar los derechos y el bienestar 
 del alumnado trans.
@@ -698,9 +653,6 @@ su caso, la expulsión del aula y la anulación del ejercicio de esa materia.
 4. El alumnado deberá mantener los pabellones auditivos despejados para la verificación 
 de que no se usan dispositivos auditivos no permitidos.
 
-https://sede.gobiernodecanarias.org/boc
-boc-a-2026-077-1285
-Boletín Oficial de Canarias núm. 77 Miércoles 22 de abril de 202614856
 El incumplimiento de este apartado conlleva la imposibilidad de realizar la prueba o, en 
 su caso, la expulsión del aula y la anulación del ejercicio de esa materia que será calificado 
 con cero puntos.
@@ -744,9 +696,6 @@ del Real Decreto 243/2022, de 5 de abril, las preguntas o tareas se contextualiz
 entornos artísticos, científicos, humanísticos y tecnológicos y, preferentemente, en entornos 
 próximos a la vida del alumnado.
 
-https://sede.gobiernodecanarias.org/boc
-boc-a-2026-077-1285
-Boletín Oficial de Canarias núm. 77 Miércoles 22 de abril de 202614857
 4. Cada uno de los ejercicios mencionados tendrá una duración de noventa minutos. Se 
 establecerá un descanso entre pruebas consecutivas de, como mínimo, treinta minutos. No 
 se computará como periodo de descanso el utilizado para ampliar el tiempo de realización 
@@ -787,9 +736,6 @@ al que se refiere el artículo 37 de la Ley Orgánica 2/2006, de 3 de mayo. El a
 Bachillerato que se matricule en la prueba y que no la haya superado con anterioridad, 
 estará obligado a realizar la fase general en esa convocatoria.
 
-https://sede.gobiernodecanarias.org/boc
-boc-a-2026-077-1285
-Boletín Oficial de Canarias núm. 77 Miércoles 22 de abril de 202614858
 La fase general comprenderá cuatro ejercicios que versarán sobre las siguientes materias 
 de 2.º curso de Bachillerato:
 a) Lengua Castellana y Literatura II.
@@ -823,9 +769,6 @@ misma, con las siguientes restricciones:
 - En cualquier caso, si el alumno se presenta a cuatro materias, una de ellas deberá ser 
 una lengua extranjera.
 
-https://sede.gobiernodecanarias.org/boc
-boc-a-2026-077-1285
-Boletín Oficial de Canarias núm. 77 Miércoles 22 de abril de 202614859
 b) Alumnado que no realiza la fase general: podrá presentarse a un máximo de cuatro 
 materias, con las siguientes restricciones:
 - Un máximo de dos materias específicas obligatorias de modalidad.
@@ -866,9 +809,6 @@ obtenidas en los ejercicios que la componen expresada en una escala de 0 a 10 pu
 tres cifras decimales y deberá ser igual o superior a cuatro puntos para que pueda ser tenida 
 en cuenta en el cálculo de la calificación de acceso a las enseñanzas universitarias de grado.
 
-https://sede.gobiernodecanarias.org/boc
-boc-a-2026-077-1285
-Boletín Oficial de Canarias núm. 77 Miércoles 22 de abril de 202614860
 b) Calificación de acceso a la universidad.
 Se calculará mediante la media ponderada del 60 por ciento de la nota media de 
 Bachillerato, calculada sin tener en cuenta la nota de la materia de Religión, y del 40 por 
@@ -910,9 +850,6 @@ o igual a cinco puntos, tendrá validez para el cálculo de la nota de admisión
 universitarias oficiales de Grado durante el curso que se inicie inmediatamente después de 
 la superación de las mismas y los dos cursos académicos siguientes.
 
-https://sede.gobiernodecanarias.org/boc
-boc-a-2026-077-1285
-Boletín Oficial de Canarias núm. 77 Miércoles 22 de abril de 202614861
 3. Alumnado procedente de sistemas educativos de Estados miembros de la Unión 
 Europea o los de otros Estados con los que se hayan suscrito acuerdos internacionales 
 aplicables en materia de acceso a la universidad, alumnado que se encuentre en posesión 
@@ -957,9 +894,6 @@ calificaciones.
 4. Asimismo, el alumnado que haya solicitado la revisión regulada en este apartado en 
 una materia, tendrá derecho a ver el examen corregido tras la revisión, en el plazo de diez 
 
-https://sede.gobiernodecanarias.org/boc
-boc-a-2026-077-1285
-Boletín Oficial de Canarias núm. 77 Miércoles 22 de abril de 202614862
 días, a contar desde el día siguiente de publicación de la citada revisión, previa solicitud en 
 el plazo que se establezca.
 Vigésima.- Mejora de la calificación obtenida en anteriores convocatorias.

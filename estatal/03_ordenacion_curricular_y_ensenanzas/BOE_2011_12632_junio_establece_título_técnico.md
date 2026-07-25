@@ -55,13 +55,11 @@ En el proceso de elaboración de este real decreto han sido consultadas las comu
 
 En su virtud, con la aprobación previa del Ministro de Política Territorial y Administración Pública, a propuesta del Ministro de Educación y previa deliberación del Consejo de Ministros en su reunión del día 24 de junio de 2011,
 
-
 **DISPONGO:**
 
 CAPÍTULO I
 
 Objeto
-
 
 #### Artículo 1. Objeto.
 
@@ -72,7 +70,6 @@ Objeto
 CAPÍTULO II
 
 Identificación del título y organización de las enseñanzas
-
 
 #### Artículo 2. Identificación del título de Técnico Deportivo en Salvamento y Socorrismo.
 
@@ -86,7 +83,6 @@ c) Duración: 1155 horas.
 
 d) Referente europeo: CINE-3 (Clasificación Internacional Normalizada de Educación).
 
-
 #### Artículo 3. Organización de las enseñanzas conducentes al título de Técnico Deportivo en Salvamento y Socorrismo.
 
 Las enseñanzas conducentes al Título de Técnico Deportivo en Salvamento y Socorrismo se organizan en dos ciclos:
@@ -94,7 +90,6 @@ Las enseñanzas conducentes al Título de Técnico Deportivo en Salvamento y Soc
 a) Ciclo inicial de grado medio en salvamento y socorrismo, con una duración de 495 horas.
 
 b) Ciclo final de grado medio en salvamento y socorrismo, con una duración de 660 horas.
-
 
 #### Artículo 4. Especializaciones del título de Técnico Deportivo en Salvamento y Socorrismo.
 
@@ -118,16 +113,13 @@ CAPÍTULO III
 
 Perfil profesional y entorno profesional, personal y laboral deportivo de los ciclos
 
-
 #### Artículo 5. Perfil profesional de los ciclos de grado medio en salvamento y socorrismo.
 
 El perfil profesional de los ciclo inicial y final de grado medio en salvamento y socorrismo queda determinado por su competencia general, sus competencias profesionales, personales y sociales, por la relación de cualificaciones y, en su caso, unidades de competencia del Catálogo Nacional de Cualificaciones Profesionales incluidas en el título y el entorno profesional, laboral y deportivo.
 
-
 #### Artículo 6. Competencia general del ciclo inicial de grado medio en salvamento y socorrismo.
 
 La competencia general del ciclo inicial de grado medio en salvamento y socorrismo consiste en dinamizar, instruir, dirigir y concretar la iniciación al medio acuático y la iniciación deportiva en salvamento y socorrismo, en organizar, acompañar y tutelar a los socorristas durante su participación en actividades, competiciones y eventos propios de este nivel, todo ello, conforme a las directrices establecidas en la programación de referencia; consiste también en establecer las medidas de prevención y rescate necesarias para velar por la seguridad de los usuarios en piscinas e instalaciones acuáticas, interviniendo de forma eficaz mediante la ayuda o el rescate en caso de accidente, todo ello, actuando con el nivel óptimo de calidad que permita la satisfacción de los socorristas y usuarios en la actividad e instalación.
-
 
 #### Artículo 7. Competencias profesionales, personales y sociales del ciclo inicial de grado medio en salvamento y socorrismo.
 
@@ -167,7 +159,6 @@ o) Mantener el espíritu de responsabilidad individual, esfuerzo personal e inno
 
 p) Mantener la iniciativa y autonomía dentro del trabajo en equipo para el desempeño de sus funciones.
 
-
 #### Artículo 8. Relación de cualificaciones y unidades de competencia del Catálogo Nacional de Cualificaciones Profesionales del ciclo inicial de grado medio en salvamento y socorrismo.
 
 1. El ciclo inicial de grado medio en salvamento y socorrismo incluye la cualificación completa de Socorrismo en Instalaciones Acuáticas AFD096_2, que comprende las siguientes unidades de competencia:
@@ -194,7 +185,6 @@ e) UC0271_2: Rescatar personas en caso de accidente o situación de emergencia e
 
 f) UC0272_2: Asistir como primer interviniente en caso de accidente o situación de emergencia.
 
-
 #### Artículo 9. Entorno profesional, laboral y deportivo del ciclo inicial de grado medio en salvamento y socorrismo.
 
 1. Este profesional desarrolla su actividad profesional tanto en el ámbito público, ya sea la Administración General del Estado, las Administraciones Autonómicas o Locales, como en entidades de carácter privado, ya sean grandes, medianas o pequeñas empresas, en patronatos deportivos, entidades deportivas municipales, federaciones y clubes deportivos y sociales, centros educativos e instalaciones afines, centros de actividad acuática (piscinas convencionales, piscinas naturales, parques acuáticos), empresas de servicios de actividades extraescolares, casa de colonias, empresas turísticas (hoteles, camping, albergues, balnearios, etc.) empresas de servicios deportivos, empresas de turismo activo, empresas turísticas: hoteles, camping, balnearios, etc., clubes deportivo-recreativos y de ocio, comunidades de vecinos, empresas de mantenimiento de infraestructuras y/o gestión deportiva, clubes deportivo-recreativos y de ocio, gimnasios, etc. que ofrezcan actividades deportivo-recreativas de descubrimiento e iniciación al medio acuático y/o al salvamento y socorrismo y de control de la seguridad de los usuarios de las instalaciones acuáticas.
@@ -213,11 +203,9 @@ f) Socorrista en piscinas naturales.
 
 3. El desarrollo de estas ocupaciones y puestos de trabajo en el ámbito público se realizará de acuerdo a los principios y requisitos de acceso al empleo público previstos en la normativa vigente.
 
-
 #### Artículo 10. Competencia general del ciclo final de grado medio en salvamento y socorrismo.
 
 La competencia general del ciclo final de grado medio en salvamento y socorrismo consiste en adaptar, dirigir y dinamizar el entrenamiento básico y el perfeccionamiento técnico en la etapa de tecnificación deportiva de salvamento y socorrismo; organizar, acompañar y tutelar a los deportistas durante su participación en actividades, competiciones y eventos propios de este nivel; gestionar los recursos materiales necesarios y coordinar las actividades de los técnicos a su cargo; organizar actividades, competiciones y eventos del nivel de iniciación deportiva; velar por la seguridad de los usuarios de actividades acuáticas, espacios acuáticos naturales, realizando una vigilancia permanente y eficiente, previniendo situaciones potencialmente peligrosas e interviniendo de forma eficaz ante un accidente o situación de emergencia, todo ello conforme a las directrices establecidas en la programación de referencia y con el nivel optimo de calidad que permita la satisfacción de los socorristas participantes en la actividad y usuarios en espacios acuáticos naturales.
-
 
 #### Artículo 11. Competencias profesionales, personales y sociales propias del sistema deportivo del ciclo final de grado medio en salvamento y socorrismo.
 
@@ -255,7 +243,6 @@ n) Transmitir a través del comportamiento ético personal valores vinculados al
 
 o) Mantener la iniciativa y autonomía dentro del trabajo en equipo para el desempeño de sus funciones
 
-
 #### Artículo 12. Relación de cualificaciones y unidades de competencia del Catálogo Nacional de Cualificaciones Profesionales del ciclo final de grado medio en salvamento y socorrismo.
 
 El ciclo final de grado medio en salvamento y socorrismo incluye la cualificación completa de Socorrismo en espacios acuáticos naturales AFD340_2, que comprende las siguientes unidades de competencia:
@@ -267,7 +254,6 @@ UC1082_2: Prevenir accidentes o situaciones de Emergencia en espacios acuáticos
 UC01083_2: Rescatar personas en caso de accidente o situación de emergencia en espacios acuáticos naturales.
 
 UC0272_2: Asistir como primer interviniente en caso de accidente o situación de emergencia.
-
 
 #### Artículo 13. Entorno profesional, laboral y deportivo del ciclo final de grado medio en salvamento y socorrismo.
 
@@ -300,7 +286,6 @@ j) Árbitro Auxiliar
 CAPÍTULO IV
 
 Estructura de las enseñanzas de cada uno de los ciclos de enseñanza deportiva conducentes al título de Técnico Deportivo en Salvamento y Socorrismo
-
 
 #### Artículo 14. Estructura de los ciclos inicial y final de grado medio de salvamento y socorrismo.
 
@@ -364,23 +349,19 @@ MED-SSSS-207: Formación práctica.
 
 5. Los objetivos generales y los módulos de enseñanza deportiva de los ciclos inicial y final de grado medio en salvamento y socorrismo quedan desarrollados en los Anexos II y III.
 
-
 #### Artículo 15. Ratio profesor/alumno.
 
 1. Para impartir los módulos del bloque común y los contenidos relacionados con los resultados de aprendizaje de carácter conceptual del los módulos del bloque específico, de los ciclos inicial y final de grado medio en salvamento y socorrismo, la relación profesor/alumno será de 1/30.
 
 2. Para impartir los contenidos relacionados con los resultados de aprendizaje de carácter procedimental de los módulos del bloque específico de los ciclos inicial y final de grado medio en salvamento y socorrismo, la relación profesor/alumno será la recogida en el Anexo IV.
 
-
 #### Artículo 16. Módulo de formación práctica.
 
 Para iniciar los módulos de formación práctica de los ciclos inicial y final de grado medio en salvamento y socorrismo, será necesario haber superado con anterioridad los módulos comunes y específicos de enseñanza deportiva que se establecen en el Anexo V.
 
-
 #### Artículo 17. Determinación del currículo.
 
 Las Administraciones educativas establecerán los currículos correspondientes respetando, en todo caso, lo establecido en este real decreto y de acuerdo con lo dispuesto en el artículo 16 del Real Decreto 1363/2007, de 24 de octubre, por el que se establece la ordenación general de las enseñanzas deportivas de régimen especial.
-
 
 #### Artículo 18. Espacios y equipamientos deportivos.
 
@@ -390,18 +371,15 @@ CAPÍTULO V
 
 Acceso a cada uno de los ciclos
 
-
 #### Artículo 19. Requisitos generales de acceso a los ciclos inicial y final de grado medio en salvamento y socorrismo.
 
 1. Para acceder al ciclo inicial de grado medio en salvamento y socorrismo será necesario tener el título de Graduado en Educación Secundaria Obligatoria o equivalente a efectos de acceso.
 
 2. Para acceder al ciclo final de grado medio en salvamento y socorrismo será necesario acreditar tener superado el ciclo inicial de grado medio en salvamento y socorrismo.
 
-
 #### Artículo 20. Requisitos de acceso al ciclo inicial de grado medio en salvamento y socorrismo para personas sin el título de Graduado en Educación Secundaria Obligatoria.
 
 Se podrá acceder a las enseñanzas del ciclo inicial de grado medio en salvamento y socorrismo sin el título de Graduado en Educación Secundaria Obligatoria, siempre que el aspirante reúna los otros requisitos de carácter específico que se establecen en el presente real decreto, cumpla las condiciones de edad y supere la prueba establecida en el artículo 31.1.a) del Real Decreto 1363/2007, de 24 de octubre, por el que se establece la ordenación general de las enseñanzas deportivas de régimen especial.
-
 
 #### Artículo 21. Requisitos de acceso específicos al ciclo inicial de grado medio en salvamento y socorrismo.
 
@@ -411,13 +389,11 @@ Se podrá acceder a las enseñanzas del ciclo inicial de grado medio en salvamen
 
 3. Para la superación de la prueba de carácter específico será necesaria la evaluación positiva en la totalidad de los criterios de evaluación descritos en la misma.
 
-
 #### Artículo 22. Efectos y vigencia de la prueba de carácter específico.
 
 1. La superación de la prueba de carácter específico, que se establece para el acceso al ciclo inicial de grado medio en salvamento y socorrismo, tendrá efectos en todo el territorio nacional.
 
 2. La superación de la prueba de carácter específico, que se establece en el Anexo VII, tendrá una vigencia de 24 meses, contados a partir de la fecha de su finalización.
-
 
 #### Artículo 23. Requisitos de acceso de los deportistas de alto nivel o alto rendimiento.
 
@@ -431,18 +407,15 @@ c) Haber sido seleccionado por la Federación Española de Salvamento y Socorris
 
 d) Los socorristas que hayan competido en campeonatos de España de salvamento y socorrismo durante un mínimo de dos temporadas en categoría juvenil o superior, durante los tres últimos años.
 
-
 #### Artículo 24. Requisitos de acceso de personas que acrediten discapacidades.
 
 Las personas con discapacidad podrán acceder a las enseñanzas de estos ciclos conforme a la disposición adicional tercera del Real Decreto 1363/2007, de 24 de octubre, por el que se establece la ordenación general de las enseñanzas deportivas de régimen especial, siendo obligación de las administraciones competentes llevar a cabo los ajustes razonables para que este acceso no comporte restricciones injustificadas contrarias al principio de igualdad de oportunidades.
-
 
 #### Artículo 25. Composición y perfil del tribunal de la prueba de carácter específico.
 
 1. El tribunal evaluador de la prueba de carácter específico será nombrado por el órgano competente de la comunidad autónoma y deberá estar formado por un mínimo de tres evaluadores.
 
 2. Los evaluadores de las pruebas de carácter específico deberán acreditar, al menos, la titulación de Técnico Deportivo Superior en Salvamento y Socorrismo.
-
 
 #### Artículo 26. Funciones del tribunal evaluador de la prueba de carácter específico.
 
@@ -464,7 +437,6 @@ CAPÍTULO VI
 
 Profesorado
 
-
 #### Artículo 27. Requisitos de titulación del profesorado en centros públicos.
 
 Los requisitos de titulación del profesorado en centros públicos se determinarán en función del bloque de enseñanza deportiva en que hayan de impartir la docencia:
@@ -477,7 +449,6 @@ a) Profesores de la especialidad de Educación Física de los cuerpos de catedr�
 
 b) Profesores especialistas que posean el título de Técnico Deportivo Superior en Salvamento y Socorrismo, o aquellos no titulados que acrediten la experiencia en el ámbito laboral y deportivo, o la experiencia docente, detallada en el Anexo IX B.
 
-
 #### Artículo 28. Requisitos de titulación del profesorado en centros privados y de titularidad pública de administraciones distintas de la educativa.
 
 Las titulaciones requeridas para la impartición de los módulos tanto del bloque común, como del bloque específico que forman los ciclos de enseñanza deportiva de grado medio en salvamento y socorrismo, para el profesorado de los centros de titularidad privada o de titularidad pública de otras administraciones distintas de las educativas, se concretan en el Anexo X.
@@ -486,11 +457,9 @@ CAPÍTULO VII
 
 Vinculación a otros estudios
 
-
 #### Artículo 29. Acceso a otros estudios.
 
 El título de Técnico Deportivo en Salvamento y Socorrismo permitirá el acceso directo a todas las modalidades de bachillerato.
-
 
 #### Artículo 30. Convalidación de estas enseñanzas.
 
@@ -504,11 +473,9 @@ El título de Técnico Deportivo en Salvamento y Socorrismo permitirá el acceso
 
 5. La superación de la totalidad de los módulos del bloque común del 1.er o 2.º nivel, en cualquiera de las modalidades o especialidades deportivas de los títulos establecidos al amparo de la Ley Orgánica 1/1990, de 3 de octubre de Ordenación General del Sistema Educativo, se convalidará por la totalidad de los módulos del bloque común del correspondiente ciclo inicial o final de enseñanza deportiva en salvamento y socorrismo. La superación de la totalidad de los módulos del bloque común de los ciclos inicial o final del título de Técnico Deportivo en Salvamento y Socorrismo, se convalidará por la totalidad de los módulos del bloque común, del correspondiente nivel, de los títulos establecidos al amparo de la Ley Orgánica 1/1990, de 3 de octubre, de Ordenación General del Sistema Educativo.
 
-
 #### Artículo 31. Exención del módulo de formación práctica.
 
 Podrán ser objeto de exención total o parcial del módulo de formación práctica de los ciclos inicial y final de grado medio en salvamento y socorrismo, desarrollados en el presente real decreto, en función de su correspondencia con la experiencia en el ámbito deportivo o laboral, detallada en el Anexo XII.
-
 
 #### Artículo 32. Correspondencia formativa de los módulos de enseñanza deportiva con la experiencia docente.
 
@@ -516,16 +483,13 @@ Podrán ser objeto de exención total o parcial del módulo de formación práct
 
 2. La correspondencia formativa será aplicada por los centros, siguiendo el procedimiento establecido por la correspondiente Administración educativa.
 
-
 #### Disposición adicional primera. Referencia del título en el marco europeo.
 
 Una vez establecido el marco nacional de cualificaciones, de acuerdo con las Recomendaciones europeas, se determinará el nivel correspondiente de estas titulaciones en el marco nacional y su equivalente europeo.
 
-
 #### Disposición adicional segunda. Oferta a distancia de los módulos de enseñanza deportiva de los presentes títulos.
 
 Los módulos de enseñanza deportiva que se establecen en el Anexo XIV, podrán ofertarse a distancia, siempre que se garantice que el alumno puede conseguir los resultados de aprendizaje de los mismos, de acuerdo con lo dispuesto en el presente real decreto. Para ello, las Administraciones educativas, en el ámbito de sus respectivas competencias, adoptarán las medidas que estimen necesarias y dictarán las instrucciones precisas.
-
 
 #### Disposición adicional tercera. Clave identificativa de los certificados de superación del ciclo inicial.
 
@@ -537,11 +501,9 @@ b) Dígito de la Comunidad Autónoma: De acuerdo con lo establecido en el Anexo 
 
 c) Dígitos de modalidad deportiva: SSSS.
 
-
 #### Disposición adicional cuarta. Referencias genéricas.
 
 Todas las referencias al alumnado, profesorado y a titulaciones para las que en este real decreto se utiliza la forma del masculino genérico deben entenderse aplicables indistintamente a mujeres y a hombres.
-
 
 #### Disposición transitoria primera. Extinción de la formación del período transitorio en Salvamento y Socorrismo en las modalidades o especialidades reguladas en el presente real decreto.
 
@@ -551,52 +513,35 @@ Todas las referencias al alumnado, profesorado y a titulaciones para las que en 
 
 3. Los órganos competentes en materia de deportes o, en su caso, de formación deportiva de las Comunidades Autónomas y de las Ciudades de Ceuta y Melilla establecerán el procedimiento adecuado, en el territorio de su competencia, para que quienes hubieran iniciado formaciones reguladas en la mencionada Orden ECD/3310/2002, de 16 de diciembre, en la modalidad de salvamento y socorrismo puedan completarla hasta su tercer nivel, durante los dos cursos académicos siguientes al de la implantación de las enseñanzas de este real decreto.
 
-
 #### Disposición transitoria segunda. Reconocimiento de las formaciones deportivas y plazo para solicitar la homologación, convalidación y equivalencia de las formaciones a las que se refieren la disposición adicional quinta y la disposición transitoria primera del Real Decreto 1363/2007, de 24 de octubre, y la disposición transitoria primera del Real Decreto 1913/1997, de 19 de diciembre, en la modalidad de salvamento y socorrismo.
 
 1. El reconocimiento de las formaciones deportivas anteriores a las que se refiere la disposición adicional quinta del Real Decreto 1363/2007, de 24 de octubre, llevadas a cabo en la modalidad de salvamento y socorrismo por los órganos competentes de las comunidades autónomas y de las Ciudades de Ceuta y Melilla y las federaciones deportivas de la modalidad mencionada, podrá solicitarse ante el Consejo Superior Deportes por los órganos competentes de las comunidades autónomas y por la Federación Española de Salvamento y Socorrismo, dentro de los sesenta días naturales siguientes a la fecha de entrada en vigor del presente real decreto, conforme a lo que se dispone en la Orden de 30 de julio de 1999, por la que se regula el procedimiento para el reconocimiento de las formaciones de entrenadores deportivos y en la disposición adicional quinta del Real Decreto 1363/2007, de 24 de octubre.
-
-Corresponderá a la Dirección General de Infraestructuras Deportivas, del Consejo Superior de Deportes, la instrucción del procedimiento y, en el plazo máximo de seis meses contados a partir de la fecha de entrada en el registro del CSD de la solicitud del reconocimiento, a propuesta del citado organismo, el Secretario de Estado – Presidente del Consejo Superior de Deportes dictará y notificará la oportuna Resolución cuya parte dispositiva se publicará en el Boletín Oficial del Estado.
 
 2. El procedimiento de reconocimiento de las formaciones a las que se refieren la disposición transitoria primera del Real Decreto 1363/2007, de 24 de octubre, y la disposición transitoria primera del Real Decreto 1913/1997, de 19 de diciembre, en la modalidad de salvamento y socorrismo, se efectuará en cuanto a la solicitud y la documentación, los plazos de subsanación, las prácticas de diligencias y el trámite de audiencia, conforme a lo previsto en la ya citada Orden de 30 de julio de 1999. El reconocimiento se iniciará a instancia del órgano competente en materia de deporte o, en su caso, competente en materia de formación deportiva, de la comunidad autónoma.
 
 El plazo de presentación de las solicitudes de reconocimiento de formaciones deportivas a las que se refiere este apartado y que hayan finalizado antes de la publicación del presente real decreto, será de 90 días naturales a partir de su entrada en vigor. Para las formaciones realizadas durante el periodo de extinción marcado en la disposición transitoria primera de este real decreto el plazo de presentación será de 90 días naturales a partir de la finalización plazo de extinción establecido en la misma.
 
-Corresponderá a la Dirección General de Infraestructuras Deportivas del Consejo Superior de Deportes, la instrucción del procedimiento y, en el plazo máximo de tres meses contados a partir de su iniciación, a propuesta del citado Organismo, el Secretario de Estado-Presidente del Consejo Superior de Deportes dictará y notificará la oportuna Resolución cuya parte dispositiva se publicará en el Boletín Oficial del Estado.
-
-3. Las solicitudes de homologación, convalidación y equivalencia a efectos profesionales, de las formaciones de entrenadores a las que se refiere la disposición adicional quinta del Real Decreto 1363/2007, de 24 de octubre, se podrán formular individualmente por los interesados, para la modalidad de salvamento y socorrismo, dentro del plazo de 10 años que empezará a contar desde el día siguiente al de la publicación en el Boletín Oficial del Estado de los criterios comunes de la modalidad, según se establece en el apartado 2 de esta disposición adicional. La resolución del procedimiento se notificará en el plazo máximo de seis meses contados a partir de la recepción de la solicitud, pondrá fin a la vía administrativa y no será de aplicación el plazo establecido para la resolución del expediente recogido en el artículo séptimo, apartado dos de la Orden ECD/189/2004, de 21 de enero.
-
 4. Si en los procedimientos regulados por este real decreto no recayera resolución expresa en los plazos señalados en cada caso, se entenderá desestimada de acuerdo con lo dispuesto en la disposición adicional vigésimo novena de la Ley 14/2000, de 29 de diciembre, de medidas fiscales, administrativas y del orden social, y de la Ley 30/1992, de 26 de noviembre, de Régimen Jurídico de las Administraciones Públicas y del Procedimiento Administrativo Común.
 
-
 #### Disposición transitoria tercera. Perfil de los evaluadores de las pruebas de carácter específico.
-
-Hasta el momento de la publicación en el Boletín Oficial del Estado de los criterios comunes de la modalidad de salvamento y socorrismo a efectos de homologación, convalidación y equivalencia profesional, según se establece en el apartado 2 de la disposición adicional quinta del Real Decreto 1363/2007, de 24 de octubre, podrán ser evaluadores de las pruebas de carácter específico aquellos que estuvieran en disposición de homologar o tramitar la equivalencia profesional a Técnico Deportivo Superior en Salvamento y Socorrismo, desde formaciones a las que se refiere la disposición adicional quinta del Real Decreto 1363/2007, de 24 de octubre, y de la disposición transitoria primera de los Reales Decretos 1913/1997, de 19 de diciembre, y 1363/2007, de 24 de octubre.
-
 
 #### Disposición derogatoria única. Derogación de normas.
 
 Quedan derogadas todas y cuantas disposiciones de igual o inferior rango se opongan a lo dispuesto en este real decreto.
 
-
 #### Disposición final primera. Título competencial.
 
 El presente real decreto tiene carácter de norma básica y se dicta, al amparo de las competencias que atribuye al Estado el artículo 149.1.30.ª de la Constitución que atribuye al Estado las competencias para la regulación de las condiciones de obtención, expedición y homologación de los títulos académicos y profesionales y normas básicas para el desarrollo del artículo 27 de la Constitución, a fin de garantizar el cumplimiento de las obligaciones de los poderes públicos en esta materia.
-
 
 #### Disposición final segunda. Implantación de los Títulos.
 
 Las Administraciones educativas podrán implantar, de forma progresiva ciclo a ciclo, el nuevo currículo de estas enseñanzas desde el curso escolar 2012-2013.
 
-
 #### Disposición final tercera. Autorización para el desarrollo.
 
 Con el objeto de actualizar los perfiles del profesorado a los nuevos títulos universitarios regulados por el RD 1393/2007, de 29 de octubre, por el que se establece la ordenación de las enseñanzas universitarias oficiales, se autoriza al titular del Ministerio de Educación para la modificación y actualización de los Anexos VIII, IXA y X.
 
-
 #### Disposición final cuarta. Entrada en vigor.
-
-El presente real decreto entrará en vigor el día siguiente al de su publicación en el «Boletín Oficial del Estado».
 
 Dado en Madrid, el 24 de junio de 2011.
 

@@ -31,9 +31,7 @@ fundamentos_derecho:
 
 # Ley 31/1995 de Prevención de Riesgos Laborales
 
-
 **JUAN CARLOS I**
-
 
 **REY DE ESPAÑA**
 
@@ -41,9 +39,7 @@ A todos los que la presente vieren y entendieren.
 
 Sabed: Que las Cortes Generales han aprobado y Yo vengo en sancionar la siguiente Ley.
 
-
 **EXPOSICION DE MOTIVOS**
-
 
 **1**
 
@@ -59,11 +55,9 @@ La presente Ley transpone al Derecho español la citada Directiva, al tiempo que
 
 Así pues, el mandato constitucional contenido en el artículo 40.2 de nuestra ley de leyes y la comunidad jurídica establecida por la Unión Europea en esta materia configuran el soporte básico en que se asienta la presente Ley. Junto a ello, nuestros propios compromisos contraídos con la Organización Internacional del Trabajo a partir de la ratificación del Convenio 155, sobre seguridad y salud de los trabajadores y medio ambiente de trabajo, enriquecen el contenido del texto legal al incorporar sus prescripciones y darles el rango legal adecuado dentro de nuestro sistema jurídico.
 
-
 **2**
 
 Pero no es sólo del mandato constitucional y de los compromisos internacionales del Estado español de donde se deriva la exigencia de un nuevo enfoque normativo. Dimana también, en el orden interno, de una doble necesidad: la de poner término, en primer lugar, a la falta de una visión unitaria en la política de prevención de riesgos laborales propia de la dispersión de la normativa vigente, fruto de la acumulación en el tiempo de normas de muy diverso rango y orientación, muchas de ellas anteriores a la propia Constitución española; y, en segundo lugar, la de actualizar regulaciones ya desfasadas y regular situaciones nuevas no contempladas con anterioridad. Necesidades éstas que, si siempre revisten importancia, adquieren especial trascendencia cuando se relacionan con la protección de la seguridad y la salud de los trabajadores en el trabajo, la evolución de cuyas condiciones demanda la permanente actualización de la normativa y su adaptación a las profundas transformaciones experimentadas.
-
 
 **3**
 
@@ -77,13 +71,11 @@ Pero, al mismo tiempo -y en ello radica una de las principales novedades de la L
 
 En consecuencia, el ámbito de aplicación de la Ley incluye tanto a los trabajadores vinculados por una relación laboral en sentido estricto, como al personal civil con relación de carácter administrativo o estatutario al servicio de las Administraciones públicas, así como a los socios trabajadores o de trabajo de los distintos tipos de cooperativas, sin más exclusiones que las correspondientes, en el ámbito de la función pública, a determinadas actividades de policía, seguridad, resguardo aduanero, peritaje forense y protección civil cuyas particularidades impidan la aplicación de la Ley, la cual inspirará, no obstante, la normativa específica que se dicte para salvaguardar la seguridad y la salud de los trabajadores en dichas actividades; en sentido similar, la Ley prevé su adaptación a las características propias de los centros y establecimientos militares y de los establecimientos penitenciarios.
 
-
 **4**
 
 La política en materia de prevención de riesgos laborales, en cuanto conjunto de actuaciones de los poderes públicos dirigidas a la promoción de la mejora de las condiciones de trabajo para elevar el nivel de protección de la salud y la seguridad de los trabajadores, se articula en la Ley en base a los principios de eficacia, coordinación y participación, ordenando tanto la actuación de las diversas Administraciones públicas con competencias en materia preventiva, como la necesaria participación en dicha actuación de empresarios y trabajadores, a través de sus organizaciones representativas. En este contexto, la Comisión Nacional de Seguridad y Salud en el Trabajo que se crea se configura como un instrumento privilegiado de participación en la formulación y desarrollo de la política en materia preventiva.
 
 Pero tratándose de una Ley que persigue ante todo la prevención, su articulación no puede descansar exclusivamente en la ordenación de las obligaciones y responsabilidades de los actores directamente relacionados con el hecho laboral. El propósito de fomentar una auténtica cultura preventiva, mediante la promoción de la mejora de la educación en dicha materia en todos los niveles educativos, involucra a la sociedad en su conjunto y constituye uno de los objetivos básicos y de efectos quizás más transcendentes para el futuro de los perseguidos por la presente Ley.
-
 
 **5**
 
@@ -95,13 +87,11 @@ Entre las obligaciones empresariales que establece la Ley, además de las que im
 
 Instrumento fundamental de la acción preventiva en la empresa es la obligación regulada en el capítulo IV de estructurar dicha acción a través de la actuación de uno o varios trabajadores de la empresa específicamente designados para ello, de la constitución de un servicio de prevención o del recurso a un servicio de prevención ajeno a la empresa. De esta manera, la Ley combina la necesidad de una actuación ordenada y formalizada de las actividades de prevención con el reconocimiento de la diversidad de situaciones a las que la Ley se dirige en cuanto a la magnitud, complejidad e intensidad de los riesgos inherentes a las mismas, otorgando un conjunto suficiente de posibilidades, incluida la eventual participación de las Mutuas de Accidentes de Trabajo y Enfermedades Profesionales, para organizar de manera racional y flexible el desarrollo de la acción preventiva, garantizando en todo caso tanto la suficiencia del modelo de organización elegido, como la independencia y protección de los trabajadores que, organizados o no en un servicio de prevención, tengan atribuidas dichas funciones.
 
-
 **6**
 
 El capítulo V regula, de forma detallada, los derechos de consulta y participación de los trabajadores en relación con las cuestiones que afectan a la seguridad y salud en el trabajo. Partiendo del sistema de representación colectiva vigente en nuestro país, la Ley atribuye a los denominados Delegados de Prevención -elegidos por y entre los representantes del personal en el ámbito de los respectivos órganos de representación- el ejercicio de las funciones especializadas en materia de prevención de riesgos en el trabajo, otorgándoles para ello las competencias, facultades y garantías necesarias. Junto a ello, el Comité de Seguridad y Salud, continuando la experiencia de actuación de una figura arraigada y tradicional de nuestro ordenamiento laboral, se configura como el órgano de encuentro entre dichos representantes y el empresario para el desarrollo de una participación equilibrada en materia de prevención de riesgos.
 
 Todo ello sin perjuicio de las posibilidades que otorga la Ley a la negociación colectiva para articular de manera diferente los instrumentos de participación de los trabajadores, incluso desde el establecimiento de ámbitos de actuación distintos a los propios del centro de trabajo, recogiendo con ello diferentes experiencias positivas de regulación convencional cuya vigencia, plenamente compatible con los objetivos de la Ley, se salvaguarda a través de la disposición transitoria de ésta.
-
 
 **7**
 
@@ -111,7 +101,6 @@ Finalmente, la disposición adicional quinta viene a ordenar la creación de una
 
 Con ello se refuerzan, sin duda, los objetivos de responsabilidad, cooperación y participación que inspiran la Ley en su conjunto.
 
-
 **8**
 
 El proyecto de Ley, cumpliendo las prescripciones legales sobre la materia, ha sido sometido a la consideración del Consejo Económico y Social, del Consejo General del Poder Judicial y del Consejo de Estado.
@@ -120,11 +109,9 @@ CAPITULO I
 
 Objeto, ámbito de aplicación y definiciones
 
-
 #### Artículo 1. Normativa sobre prevención de riesgos laborales.
 
 La normativa sobre prevención de riesgos laborales está constituida por la presente Ley, sus disposiciones de desarrollo o complementarias y cuantas otras normas, legales o convencionales, contengan prescripciones relativas a la adopción de medidas preventivas en el ámbito laboral o susceptibles de producirlas en dicho ámbito.
-
 
 #### Artículo 2. Objeto y carácter de la norma.
 
@@ -135,7 +122,6 @@ A tales efectos, esta Ley establece los principios generales relativos a la prev
 Para el cumplimiento de dichos fines, la presente Ley regula las actuaciones a desarrollar por las Administraciones públicas, así como por los empresarios, los trabajadores y sus respectivas organizaciones representativas.
 
 2. Las disposiciones de carácter laboral contenidas en esta Ley y en sus normas reglamentarias tendrán en todo caso el carácter de Derecho necesario mínimo indisponible, pudiendo ser mejoradas y desarrolladas en los convenios colectivos.
-
 
 #### Artículo 3. Ambito de aplicación.
 
@@ -156,7 +142,6 @@ No obstante, esta Ley inspirará la normativa específica que se dicte para regu
 En los establecimientos penitenciarios, se adaptarán a la presente Ley aquellas actividades cuyas características justifiquen una regulación especial, lo que se llevará a efecto en los términos señalados en la Ley 7/1990, de 19 de julio, sobre negociación colectiva y participación en la determinación de las condiciones de trabajo de los empleados públicos.
 
 4. La presente Ley tampoco será de aplicación a la relación laboral de carácter especial del servicio del hogar familiar. No obstante lo anterior, el titular del hogar familiar está obligado a cuidar de que el trabajo de sus empleados se realice en las debidas condiciones de seguridad e higiene.
-
 
 #### Artículo 4. Definiciones.
 
@@ -192,7 +177,6 @@ CAPITULO II
 
 Política en materia de prevención de riesgos para proteger la seguridad y la salud en el trabajo
 
-
 #### Artículo 5. Objetivos de la política.
 
 1. La política en materia de prevención tendrá por objeto la promoción de la mejora de las condiciones de trabajo dirigida a elevar el nivel de protección de la seguridad y la salud de los trabajadores en el trabajo.
@@ -210,7 +194,6 @@ En el ámbito de la Administración General del Estado se establecerá una colab
 3. Del mismo modo, las Administraciones públicas fomentarán aquellas actividades desarrolladas por los sujetos a que se refiere el apartado 1 del artículo segundo, en orden a la mejora de las condiciones de seguridad y salud en el trabajo y la reducción de los riesgos laborales, la investigación o fomento de nuevas formas de protección y la promoción de estructuras eficaces de prevención.
 
 Para ello podrán adoptar programas específicos dirigidos a promover la mejora del ambiente de trabajo y el perfeccionamiento de los niveles de protección. Los programas podrán instrumentarse a través de la concesión de los incentivos que reglamentariamente se determinen que se destinarán especialmente a las pequeñas y medianas empresas.
-
 
 #### Artículo 6. Normas reglamentarias.
 
@@ -232,7 +215,6 @@ g) Procedimiento de calificación de las enfermedades profesionales, así como r
 
 2. Las normas reglamentarias indicadas en el apartado anterior se ajustarán, en todo caso, a los principios de política preventiva establecidos en esta Ley, mantendrán la debida coordinación con la normativa sanitaria y de seguridad industrial y serán objeto de evaluación y, en su caso, de revisión periódica, de acuerdo con la experiencia en su aplicación y el progreso de la técnica.
 
-
 #### Artículo 7. Actuaciones de las Administraciones públicas competentes en materia laboral.
 
 1. En cumplimiento de lo dispuesto en la presente Ley, las Administraciones públicas competentes en materia laboral desarrollarán funciones de promoción de la prevención, asesoramiento técnico, vigilancia y control del cumplimiento por los sujetos comprendidos en su ámbito de aplicación de la normativa de prevención de riesgos laborales, y sancionarán las infracciones a dicha normativa, en los siguientes términos:
@@ -246,7 +228,6 @@ c) Sancionando el incumplimiento de la normativa de prevención de riesgos labor
 2. Las funciones de las Administraciones públicas competentes en materia laboral que se señalan en el apartado 1 continuarán siendo desarrolladas, en lo referente a los trabajos en minas, canteras y túneles que exijan la aplicación de técnica minera, a los que impliquen fabricación, transporte, almacenamiento, manipulación y utilización de explosivos o el empleo de energía nuclear, por los órganos específicos contemplados en su normativa reguladora.
 
 Las competencias previstas en el apartado anterior se entienden sin perjuicio de lo establecido en la legislación específica sobre productos e instalaciones industriales.
-
 
 #### Artículo 8. Instituto Nacional de Seguridad e Higiene en el Trabajo.
 
@@ -272,7 +253,6 @@ Asimismo, prestará, de acuerdo con las Administraciones competentes, apoyo téc
 
 4. El Instituto Nacional de Seguridad e Higiene en el Trabajo ejercerá la Secretaría General de la Comisión Nacional de Seguridad y Salud en el Trabajo, prestándole la asistencia técnica y científica necesaria para el desarrollo de sus competencias.
 
-
 #### Artículo 9. Inspección de Trabajo y Seguridad Social.
 
 1. Corresponde a la Inspección de Trabajo y Seguridad Social la función de la vigilancia y control de la normativa sobre prevención de riesgos laborales.
@@ -295,7 +275,6 @@ f) Ordenar la paralización inmediata de trabajos cuando, a juicio del inspector
 
 En el ámbito de la Administración General del Estado, el Instituto Nacional de Seguridad e Higiene en el Trabajo apoyará y colaborará con la Inspección de Trabajo y Seguridad Social en el cumplimiento de su función de vigilancia y control prevista en el apartado anterior.
 
-
 #### Artículo 10. Actuaciones de las Administraciones públicas competentes en materia sanitaria.
 
 Las actuaciones de las Administraciones públicas competentes en materia sanitaria referentes a la salud laboral se llevarán a cabo a través de las acciones y en relación con los aspectos señalados en el capítulo IV del Título I de la Ley 14/1986, de 25 de abril, General de Sanidad, y disposiciones dictadas para su desarrollo.
@@ -310,18 +289,15 @@ c) La supervisión de la formación que, en materia de prevención y promoción 
 
 d) La elaboración y divulgación de estudios, investigaciones y estadísticas relacionados con la salud de los trabajadores.
 
-
 #### Artículo 11. Coordinación administrativa.
 
 La elaboración de normas preventivas y el control de su cumplimiento, la promoción de la prevención, la investigación y la vigilancia epidemiológica sobre riesgos laborales, accidentes de trabajo y enfermedades profesionales determinan la necesidad de coordinar las actuaciones de las Administraciones competentes en materia laboral, sanitaria y de industria para una más eficaz protección de la seguridad y la salud de los trabajadores.
 
 En el marco de dicha coordinación, la Administración competente en materia laboral velará, en particular, para que la información obtenida por la Inspección de Trabajo y Seguridad Social en el ejercicio de las funciones atribuidas a la misma en el apartado 1 del artículo 9 de esta Ley sea puesta en conocimiento de la autoridad sanitaria competente a los fines dispuestos en el artículo 10 de la presente Ley y en el artículo 21 de la Ley 14/1986, de 25 de abril, General de Sanidad, así como de la Administración competente en materia de industria a los efectos previstos en la Ley 21/1992, de 16 de julio, de Industria.
 
-
 #### Artículo 12. Participación de empresarios y trabajadores.
 
 La participación de empresarios y trabajadores, a través de las organizaciones empresariales y sindicales más representativas, en la planificación, programación, organización y control de la gestión relacionada con la mejora de las condiciones de trabajo y la protección de la seguridad y salud de los trabajadores en el trabajo es principio básico de la política de prevención de riesgos laborales, a desarrollar por las Administraciones públicas competentes en los distintos niveles territoriales.
-
 
 #### Artículo 13. Comisión Nacional de Seguridad y Salud en el Trabajo.
 
@@ -353,7 +329,6 @@ CAPITULO III
 
 Derechos y obligaciones
 
-
 #### Artículo 14. Derecho a la protección frente a los riesgos laborales.
 
 1. Los trabajadores tienen derecho a una protección eficaz en materia de seguridad y salud en el trabajo.
@@ -373,7 +348,6 @@ El empresario desarrollará una acción permanente con el fin de perfeccionar lo
 4. Las obligaciones de los trabajadores establecidas en esta Ley, la atribución de funciones en materia de protección y prevención a trabajadores o servicios de la empresa y el recurso al concierto con entidades especializadas para el desarrollo de actividades de prevención complementarán las acciones del empresario, sin que por ello le eximan del cumplimiento de su deber en esta materia, sin perjuicio de las acciones que pueda ejercitar, en su caso, contra cualquier otra persona.
 
 5. El coste de las medidas relativas a la seguridad y la salud en el trabajo no deberá recaer en modo alguno sobre los trabajadores.
-
 
 #### Artículo 15. Principios de la acción preventiva.
 
@@ -405,7 +379,6 @@ i) Dar las debidas instrucciones a los trabajadores.
 
 5. Podrán concertar operaciones de seguro que tengan como fin garantizar como ámbito de cobertura la previsión de riesgos derivados del trabajo, la empresa respecto de sus trabajadores, los trabajadores autónomos respecto a ellos mismos y las sociedades cooperativas respecto a sus socios cuya actividad consista en la prestación de su trabajo personal.
 
-
 #### Artículo 16. Evaluación de los riesgos.
 
 1. La acción preventiva en la empresa se planificará por el empresario a partir de una evaluación inicial de los riesgos para la seguridad y la salud de los trabajadores, que se realizará, con carácter general, teniendo en cuenta la naturaleza de la actividad, y en relación con aquellos que estén expuestos a riesgos especiales. Igual evaluación deberá hacerse con ocasión de la elección de los equipos de trabajo, de las sustancias o preparados químicos y del acondicionamiento de los lugares de trabajo. La evaluación inicial tendrá en cuenta aquellas otras actuaciones que deban desarrollarse de conformidad con lo dispuesto en la normativa sobre protección de riesgos específicos y actividades de especial peligrosidad. La evaluación será actualizada cuando cambien las condiciones de trabajo y, en todo caso, se someterá a consideración y se revisará, si fuera necesario, con ocasión de los daños para la salud que se hayan producido.
@@ -417,7 +390,6 @@ Cuando el resultado de la evaluación lo hiciera necesario, el empresario realiz
 Las actividades de prevención deberán ser modificadas cuando se aprecie por el empresario, como consecuencia de los controles periódicos previstos en el apartado anterior, su inadecuación a los fines de protección requeridos.
 
 3. Cuando se haya producido un daño para la salud de los trabajadores o cuando, con ocasión de la vigilancia de la salud prevista en el artículo 22, aparezcan indicios de que las medidas de prevención resultan insuficientes, el empresario llevará a cabo una investigación al respecto, a fin de detectar las causas de estos hechos.
-
 
 #### Artículo 17. Equipos de trabajo y medios de protección.
 
@@ -432,7 +404,6 @@ b) Los trabajos de reparación, transformación, mantenimiento o conservación s
 2. El empresario deberá proporcionar a sus trabajadores equipos de protección individual adecuados para el desempeño de sus funciones y velar por el uso efectivo de los mismos cuando, por la naturaleza de los trabajos realizados, sean necesarios.
 
 Los equipos de protección individual deberán utilizarse cuando los riesgos no se puedan evitar o no puedan limitarse suficientemente por medios técnicos de protección colectiva o mediante medidas, métodos o procedimientos de organización del trabajo.
-
 
 #### Artículo 18. Información, consulta y participación de los trabajadores.
 
@@ -452,7 +423,6 @@ En las empresas que cuenten con representantes de los trabajadores, la informaci
 
 Los trabajadores tendrán derecho a efectuar propuestas al empresario, así como a los órganos de participación y representación previstos en el capítulo V de esta Ley, dirigidas a la mejora de los niveles de protección de la seguridad y la salud en la empresa.
 
-
 #### Artículo 19. Formación de los trabajadores.
 
 1. En cumplimiento del deber de protección, el empresario deberá garantizar que cada trabajador reciba una formación teórica y práctica, suficiente y adecuada, en materia preventiva, tanto en el momento de su contratación, cualquiera que sea la modalidad o duración de ésta, como cuando se produzcan cambios en las funciones que desempeñe o se introduzcan nuevas tecnologías o cambios en los equipos de trabajo.
@@ -461,13 +431,11 @@ La formación deberá estar centrada específicamente en el puesto de trabajo o 
 
 2. La formación a que se refiere el apartado anterior deberá impartirse, siempre que sea posible, dentro de la jornada de trabajo o, en su defecto, en otras horas pero con el descuento en aquélla del tiempo invertido en la misma. La formación se podrá impartir por la empresa mediante medios propios o concertándola con servicios ajenos, y su coste no recaerá en ningún caso sobre los trabajadores.
 
-
 #### Artículo 20. Medidas de emergencia.
 
 El empresario, teniendo en cuenta el tamaño y la actividad de la empresa, así como la posible presencia de personas ajenas a la misma, deberá analizar las posibles situaciones de emergencia y adoptar las medidas necesarias en materia de primeros auxilios, lucha contra incendios y evacuación de los trabajadores, designando para ello al personal encargado de poner en práctica estas medidas y comprobando periódicamente, en su caso, su correcto funcionamiento. El citado personal deberá poseer la formación necesaria, ser suficiente en número y disponer del material adecuado, en función de las circunstancias antes señaladas.
 
 Para la aplicación de las medidas adoptadas, el empresario deberá organizar las relaciones que sean necesarias con servicios externos a la empresa, en particular en materia de primeros auxilios, asistencia médica de urgencia, salvamento y lucha contra incendios, de forma que quede garantizada la rapidez y eficacia de las mismas.
-
 
 #### Artículo 21. Riesgo grave e inminente.
 
@@ -486,7 +454,6 @@ c) Disponer lo necesario para que el trabajador que no pudiera ponerse en contac
 El acuerdo a que se refiere el párrafo anterior podrá ser adoptado por decisión mayoritaria de los Delegados de Prevención cuando no resulte posible reunir con la urgencia requerida al órgano de representación del personal.
 
 4. Los trabajadores o sus representantes no podrán sufrir perjuicio alguno derivado de la adopción de las medidas a que se refieren los apartados anteriores, a menos que hubieran obrado de mala fe o cometido negligencia grave.
-
 
 #### Artículo 22. Vigilancia de la salud.
 
@@ -510,7 +477,6 @@ No obstante lo anterior, el empresario y las personas u órganos con responsabil
 
 6. Las medidas de vigilancia y control de la salud de los trabajadores se llevarán a cabo por personal sanitario con competencia técnica, formación y capacidad acreditada.
 
-
 #### Artículo 23. Documentación.
 
 1. El empresario deberá elaborar y conservar a disposición de la autoridad laboral la siguiente documentación relativa a las obligaciones establecidas en los artículos anteriores:
@@ -529,7 +495,6 @@ e) Relación de accidentes de trabajo y enfermedades profesionales que hayan cau
 
 4. La documentación a que se hace referencia en el presente artículo deberá también ser puesta a disposición de las autoridades sanitarias al objeto de que éstas puedan cumplir con lo dispuesto en el artículo 10 de la presente Ley y en el artículo 21 de la Ley 14/1986, de 25 de abril, General de Sanidad.
 
-
 #### Artículo 24. Coordinación de actividades empresariales.
 
 1. Cuando en un mismo centro de trabajo desarrollen actividades trabajadores de dos o más empresas, éstas deberán cooperar en la aplicación de la normativa sobre prevención de riesgos laborales. A tal fin, establecerán los medios de coordinación que sean necesarios en cuanto a la protección y prevención de riesgos laborales y la información sobre los mismos a sus respectivos trabajadores, en los términos previstos en el apartado 1 del artículo 18 de esta Ley.
@@ -542,7 +507,6 @@ e) Relación de accidentes de trabajo y enfermedades profesionales que hayan cau
 
 5. Los deberes de cooperación y de información e instrucción recogidos en los apartados 1 y 2 serán de aplicación respecto de los trabajadores autónomos que desarrollen actividades en dichos centros de trabajo.
 
-
 #### Artículo 25. Protección de trabajadores especialmente sensibles a determinados riesgos.
 
 1. El empresario garantizará de manera específica la protección de los trabajadores que, por sus propias características personales o estado biológico conocido, incluidos aquellos que tengan reconocida la situación de discapacidad física, psíquica o sensorial, sean especialmente sensibles a los riesgos derivados del trabajo. A tal fin, deberá tener en cuenta dichos aspectos en las evaluaciones de los riesgos y, en función de éstas, adoptará las medidas preventivas y de protección necesarias.
@@ -550,7 +514,6 @@ e) Relación de accidentes de trabajo y enfermedades profesionales que hayan cau
 Los trabajadores no serán empleados en aquellos puestos de trabajo en los que, a causa de sus características personales, estado biológico o por su discapacidad física, psíquica o sensorial debidamente reconocida, puedan ellos, los demás trabajadores u otras personas relacionadas con la empresa ponerse en situación de peligro o, en general, cuando se encuentren manifiestamente en estados o situaciones transitorias que no respondan a las exigencias psicofísicas de los respectivos puestos de trabajo.
 
 2. Igualmente, el empresario deberá tener en cuenta en las evaluaciones los factores de riesgo que puedan incidir en la función de procreación de los trabajadores y trabajadoras, en particular por la exposición a agentes físicos, químicos y biológicos que puedan ejercer efectos mutagénicos o de toxicidad para la procreación, tanto en los aspectos de la fertilidad, como del desarrollo de la descendencia, con objeto de adoptar las medidas preventivas necesarias.
-
 
 #### Artículo 26. Protección de la maternidad.
 
@@ -566,7 +529,6 @@ En el supuesto de que, aun aplicando las reglas señaladas en el párrafo anteri
 
 4. Las trabajadoras embarazadas tendrán derecho a ausentarse del trabajo, con derecho a remuneración, para la realización de exámenes prenatales y técnicas de preparación al parto, previo aviso al empresario y justificación de la necesidad de su realización dentro de la jornada de trabajo.
 
-
 #### Artículo 27. Protección de los menores.
 
 1. Antes de la incorporación al trabajo de jóvenes menores de dieciocho años, y previamente a cualquier modificación importante de sus condiciones de trabajo, el empresario deberá efectuar una evaluación de los puestos de trabajo a desempeñar por los mismos, a fin de determinar la naturaleza, el grado y la duración de su exposición, en cualquier actividad susceptible de presentar un riesgo específico al respecto, a agentes, procesos o condiciones de trabajo que puedan poner en peligro la seguridad o la salud de estos trabajadores.
@@ -576,7 +538,6 @@ A tal fin, la evaluación tendrá especialmente en cuenta los riesgos específic
 En todo caso, el empresario informará a dichos jóvenes y a sus padres o tutores que hayan intervenido en la contratación, conforme a lo dispuesto en la letra b) del artículo 7 del texto refundido de la Ley del Estatuto de los Trabajadores aprobado por el Real Decreto legislativo 1/1995, de 24 de marzo, de los posibles riesgos y de todas las medidas adoptadas para la protección de su seguridad y salud.
 
 2. Teniendo en cuenta los factores anteriormente señalados, el Gobierno establecerá las limitaciones a la contratación de jóvenes menores de dieciocho años en trabajos que presenten riesgos específicos.
-
 
 #### Artículo 28. Relaciones de trabajo temporales, de duración determinada y en empresas de trabajo temporal.
 
@@ -599,7 +560,6 @@ Dichos trabajadores recibirán, en todo caso, una formación suficiente y adecua
 La empresa de trabajo temporal será responsable del cumplimiento de las obligaciones en materia de formación y vigilancia de la salud que se establecen en los apartados 2 y 3 de este artículo. A tal fin, y sin perjuicio de lo dispuesto en el párrafo anterior, la empresa usuaria deberá informar a la empresa de trabajo temporal, y ésta a los trabajadores afectados, antes de la adscripción de los mismos, acerca de las características propias de los puestos de trabajo a desempeñar y de las cualificaciones requeridas.
 
 La empresa usuaria deberá informar a los representantes de los trabajadores en la misma de la adscripción de los trabajadores puestos a disposición por la empresa de trabajo temporal. Dichos trabajadores podrán dirigirse a estos representantes en el ejercicio de los derechos reconocidos en la presente Ley.
-
 
 #### Artículo 29. Obligaciones de los trabajadores en materia de prevención de riesgos.
 
@@ -625,7 +585,6 @@ CAPITULO IV
 
 Servicios de prevención
 
-
 #### Artículo 30. Protección y prevención de riesgos profesionales.
 
 1. En cumplimiento del deber de prevención de riesgos profesionales, el empresario designará uno o varios trabajadores para ocuparse de dicha actividad, constituirá un servicio de prevención o concertará dicho servicio con una entidad especializada ajena a la empresa.
@@ -645,7 +604,6 @@ Los trabajadores a que se refieren los párrafos anteriores deberán guardar sig
 5. En las empresas de menos de seis trabajadores, el empresario podrá asumir personalmente las funciones señaladas en el apartado 1, siempre que desarrolle de forma habitual su actividad en el centro de trabajo y tenga la capacidad necesaria, en función de los riesgos a que estén expuestos los trabajadores y la peligrosidad de las actividades, con el alcance que se determine en las disposiciones a que se refiere la letra e) del apartado 1 del artículo 6 de la presente Ley.
 
 6. El empresario que no hubiere concertado el Servicio de prevención con una entidad especializada ajena a la empresa deberá someter su sistema de prevención al control de una auditoría o evaluación externa, en los términos que reglamentariamente se determinen.
-
 
 #### Artículo 31. Servicios de prevención.
 
@@ -679,7 +637,6 @@ c) Distribución de riesgos en la empresa.
 
 5. Para poder actuar como servicios de prevención, las entidades especializadas deberán ser objeto de acreditación por la Administración laboral, mediante la comprobación de que reúnen los requisitos que se establezcan reglamentariamente y previa aprobación de la Administración sanitaria en cuanto a los aspectos de carácter sanitario.
 
-
 #### Artículo 32. Actuación preventiva de las Mutuas de Accidentes de Trabajo y Enfermedades Profesionales.
 
 Las Mutuas de Accidentes de Trabajo y Enfermedades Profesionales de la Seguridad Social podrán desarrollar para las empresas a ellas asociadas las funciones correspondientes a los servicios de prevención, con sujeción a lo dispuesto en el apartado 5 del artículo 31.
@@ -689,7 +646,6 @@ Los representantes de los empresarios y de los trabajadores tendrán derecho a p
 CAPITULO V
 
 Consulta y participación de los trabajadores
-
 
 #### Artículo 33. Consulta de los trabajadores.
 
@@ -708,7 +664,6 @@ e) El proyecto y la organización de la formación en materia preventiva.
 f) Cualquier otra acción que pueda tener efectos sustanciales sobre la seguridad y la salud de los trabajadores.
 
 2. En las empresas que cuenten con representantes de los trabajadores, las consultas a que se refiere el apartado anterior se llevarán a cabo con dichos representantes.
-
 
 #### Artículo 34. Derechos de participación y representación.
 
@@ -729,7 +684,6 @@ b) Se deberá establecer el ámbito específico que resulte adecuado en cada cas
 c) Cuando en el indicado ámbito existan diferentes órganos de representación del personal, se deberá garantizar una actuación coordinada de todos ellos en materia de prevención y protección de la seguridad y la salud en el trabajo, posibilitando que la participación se realice de forma conjunta entre unos y otros, en el ámbito específico establecido al efecto.
 
 d) Con carácter general, se constituirá un único Comité de Seguridad y Salud en el ámbito de los órganos de representación previstos en la Ley de Organos de Representación del Personal al Servicio de las Administraciones Públicas, que estará integrado por los Delegados de Prevención designados en dicho ámbito, tanto para el personal con relación de carácter administrativo o estatutario como para el personal laboral, y por representantes de la Administración en número no superior al de Delegados. Ello no obstante, podrán constituirse Comités de Seguridad y Salud en otros ámbitos cuando las razones de la actividad y el tipo y frecuencia de los riesgos así lo aconsejen.
-
 
 #### Artículo 35. Delegados de Prevención.
 
@@ -765,7 +719,6 @@ Asimismo, en la negociación colectiva o mediante los acuerdos a que se refiere 
 
 Igualmente, en el ámbito de las Administraciones públicas se podrán establecer, en los términos señalados en la Ley 7/1990, de 19 de julio, sobre negociación colectiva y participación en la determinación de las condiciones de trabajo de los empleados públicos, otros sistemas de designación de los Delegados de Prevención y acordarse que las competencias que esta Ley atribuye a éstos puedan ser ejercidas por órganos específicos.
 
-
 #### Artículo 36. Competencias y facultades de los Delegados de Prevención.
 
 1. Son competencias de los Delegados de Prevención:
@@ -800,7 +753,6 @@ g) Proponer al órgano de representación de los trabajadores la adopción del a
 
 4. La decisión negativa del empresario a la adopción de las medidas propuestas por el Delegado de Prevención a tenor de lo dispuesto en la letra f) del apartado 2 de este artículo deberá ser motivada.
 
-
 #### Artículo 37. Garantías y sigilo profesional de los Delegados de Prevención.
 
 1. Lo previsto en el artículo 68 del Estatuto de los Trabajadores en materia de garantías será de aplicación a los Delegados de Prevención en su condición de representantes de los trabajadores.
@@ -819,7 +771,6 @@ El tiempo dedicado a la formación será considerado como tiempo de trabajo a to
 
 4. Lo dispuesto en el presente artículo en materia de garantías y sigilo profesional de los Delegados de Prevención se entenderá referido, en el caso de las relaciones de carácter administrativo o estatutario del personal al servicio de las Administraciones públicas, a la regulación contenida en los artículos 10, párrafo segundo, y 11 de la Ley 9/1987, de 12 de junio, de Organos de Representación, Determinación de las Condiciones de Trabajo y Participación del Personal al Servicio de las Administraciones Públicas.
 
-
 #### Artículo 38. Comité de Seguridad y Salud.
 
 1. El Comité de Seguridad y Salud es el órgano paritario y colegiado de participación destinado a la consulta regular y periódica de las actuaciones de la empresa en materia de prevención de riesgos.
@@ -833,7 +784,6 @@ En las reuniones del Comité de Seguridad y Salud participarán, con voz pero si
 3. El Comité de Seguridad y Salud se reunirá trimestralmente y siempre que lo solicite alguna de las representaciones en el mismo. El Comité adoptará sus propias normas de funcionamiento.
 
 Las empresas que cuenten con varios centros de trabajo dotados de Comité de Seguridad y Salud podrán acordar con sus trabajadores la creación de un Comité Intercentros, con las funciones que el acuerdo le atribuya.
-
 
 #### Artículo 39. Competencias y facultades del Comité de Seguridad y Salud.
 
@@ -855,7 +805,6 @@ d) Conocer e informar la memoria y programación anual de servicios de prevenci�
 
 3. A fin de dar cumplimiento a lo dispuesto en esta Ley respecto de la colaboración entre empresas en los supuestos de desarrollo simultáneo de actividades en un mismo centro de trabajo, se podrá acordar la realización de reuniones conjuntas de los Comités de Seguridad y Salud o, en su defecto, de los Delegados de Prevención y empresarios de las empresas que carezcan de dichos Comités, u otras medidas de actuación coordinada.
 
-
 #### Artículo 40. Colaboración con la Inspección de Trabajo y Seguridad Social.
 
 1. Los trabajadores y sus representantes podrán recurrir a la Inspección de Trabajo y Seguridad Social si consideran que las medidas adoptadas y los medios utilizados por el empresario no son suficientes para garantizar la seguridad y la salud en el trabajo.
@@ -871,7 +820,6 @@ a los Delegados de Prevención sobre los resultados de las visitas a que hace re
 CAPITULO VI
 
 Obligaciones de los fabricantes, importadores y suministradores
-
 
 #### Artículo 41. Obligaciones de los fabricantes, importadores y suministradores.
 
@@ -891,7 +839,6 @@ CAPITULO VII
 
 Responsabilidades y sanciones
 
-
 #### Artículo 42. Responsabilidades y su compatibilidad.
 
 1. El incumplimiento por los empresarios de sus obligaciones en materia de prevención de riesgos laborales dará lugar a responsabilidades administrativas, así como, en su caso, a responsabilidades penales y a las civiles por los daños y perjuicios que puedan derivarse de dicho incumplimiento.
@@ -908,7 +855,6 @@ En los casos de concurrencia con el orden jurisdiccional penal será de aplicaci
 
 5. La declaración de hechos probados que contenga una sentencia firme del orden jurisdiccional contencioso-administrativo, relativa a la existencia de infracción a la normativa de prevención de riesgos laborales, vinculará al orden social de la jurisdicción, en lo que se refiere al recargo, en su caso, de la prestación económica del sistema de la Seguridad Social.
 
-
 #### Artículo 43. Requerimientos de la Inspección de Trabajo y Seguridad Social.
 
 1. Cuando el Inspector de Trabajo y Seguridad Social comprobase la existencia de una infracción a la normativa sobre prevención de riesgos laborales, requerirá al empresario para la subsanación de las deficiencias observadas, salvo que por la gravedad e inminencia de los riesgos procediese acordar la paralización prevista en el artículo 44. Todo ello sin perjuicio de la propuesta de sanción correspondiente, en su caso.
@@ -916,7 +862,6 @@ En los casos de concurrencia con el orden jurisdiccional penal será de aplicaci
 2. El requerimiento formulado por el Inspector de Trabajo y Seguridad Social se hará saber por escrito al empresario presuntamente responsable señalando las anomalías o deficiencias apreciadas con indicación del plazo para su subsanación. Dicho requerimiento se pondrá, asimismo, en conocimiento de los Delegados de Prevención.
 
 Si se incumpliera el requerimiento formulado, persistiendo los hechos infractores, el Inspector de Trabajo y Seguridad Social, de no haberlo efectuado inicialmente, levantará la correspondiente acta de infracción por tales hechos.
-
 
 #### Artículo 44. Paralización de trabajos.
 
@@ -927,7 +872,6 @@ El Inspector de Trabajo y Seguridad Social dará traslado de su decisión de for
 La paralización de los trabajos se levantará por la Inspección de Trabajo y Seguridad Social que la hubiera decretado, o por el empresario tan pronto como se subsanen las causas que la motivaron, debiendo, en este último caso, comunicarlo inmediatamente a la Inspección de Trabajo y Seguridad Social.
 
 2. Los supuestos de paralización regulados en este artículo, así como los que se contemplen en la normativa reguladora de las actividades previstas en el apartado 2 del artículo 7 de la presente Ley, se entenderán, en todo caso, sin perjuicio del pago del salario o de las indemnizaciones que procedan y de las medidas que puedan arbitrarse para su garantía.
-
 
 #### Artículo 45. Infracciones administrativas.
 
@@ -947,7 +891,6 @@ c) En caso de discrepancia entre los Ministros competentes como consecuencia de 
 
 2. Las infracciones en el ámbito laboral se califican en leves, graves y muy graves, en atención a la naturaleza del deber infringido y la entidad del derecho afectado, de conformidad con lo establecido en los artículos siguientes de la presente Ley.
 
-
 #### Artículo 46. Infracciones leves.
 
 Son infracciones leves:
@@ -961,7 +904,6 @@ Son infracciones leves:
 4. Las que supongan incumplimientos de la normativa de prevención de riesgos laborales, siempre que carezcan de transcendencia grave para la integridad física o la salud de los trabajadores.
 
 5. Cualesquiera otras que afecten a obligaciones de carácter formal o documental exigidas en la normativa de prevención de riesgos laborales y que no estén tipificadas como graves o muy graves.
-
 
 #### Artículo 47. Infracciones graves.
 
@@ -1023,7 +965,6 @@ i) Registro de los niveles de exposición a agentes físicos, químicos y bioló
 
 19. No someter, en los términos reglamentariamente establecidos, el sistema de prevención de la empresa al control de una auditoría o evaluación externa cuando no se hubiera concertado el servicio de prevención con una entidad especializada ajena a la empresa.
 
-
 #### Artículo 48. Infracciones muy graves.
 
 Son infracciones muy graves:
@@ -1043,7 +984,6 @@ Son infracciones muy graves:
 7. Las acciones u omisiones que impidan el ejercicio del derecho de los trabajadores a paralizar su actividad en los casos de riesgo grave e inminente, en los términos previstos en el artículo 21 de esta Ley.
 
 8. No adoptar cualesquiera otras medidas preventivas aplicables a las condiciones de trabajo en ejecución de la normativa sobre prevención de riesgos laborales de las que se derive un riesgo grave e inminente para la seguridad y salud de los trabajadores.
-
 
 #### Artículo 49. Sanciones.
 
@@ -1099,18 +1039,15 @@ Grado máximo: de 50.000.001 a 100.000.000 de pesetas.
 
 5. Las sanciones impuestas por infracciones muy graves, una vez firmes, se harán públicas en la forma que se determine reglamentariamente.
 
-
 #### Artículo 50. Reincidencia.
 
 Existe reincidencia cuando se comete una infracción del mismo tipo y calificación que la que motivó una sanción anterior en el término de un año desde la comisión de ésta; en tal supuesto se requerirá que la resolución sancionadora hubiere adquirido firmeza.
 
 Si se apreciase reincidencia, la cuantía de las sanciones consignadas en el artículo anterior podrá incrementarse hasta el duplo del grado de la sanción correspondiente a la infracción cometida, sin exceder en ningún caso del tope máximo previsto para las infracciones muy graves en el artículo 49 de esta Ley.
 
-
 #### Artículo 51. Prescripción de las infracciones.
 
 Las infracciones a la normativa en materia de prevención de riesgos laborales prescriben: las leves al año, las graves a los tres años y las muy graves a los cinco años, contados desde la fecha de la infracción.
-
 
 #### Artículo 52. Competencias sancionadoras.
 
@@ -1122,21 +1059,17 @@ Las infracciones a la normativa en materia de prevención de riesgos laborales p
 
 4. La referida atribución de competencias tampoco afecta al ejercicio de la potestad sancionadora que pueda corresponder a las autoridades laborales de las Comunidades Autónomas con competencias en materia de ejecución de la legislación laboral, que se efectuará de acuerdo con su regulación propia, en los términos y con los límites previstos en sus respectivos Estatutos de Autonomía y disposiciones de desarrollo y aplicación.
 
-
 #### Artículo 53. Suspensión o cierre del centro de trabajo.
 
 El Gobierno o, en su caso, los órganos de gobierno de las Comunidades Autónomas con competencias en la materia, cuando concurran circunstancias de excepcional gravedad en las infracciones en materia de seguridad y salud en el trabajo, podrán acordar la suspensión de las actividades laborales por un tiempo determinado o, en caso extremo, el cierre del centro de trabajo correspondiente, sin perjuicio, en todo caso, del pago del salario o de las indemnizaciones que procedan y de las medidas que puedan arbitrarse para su garantía.
-
 
 #### Artículo 54. Limitaciones a la facultad de contratar con la Administración.
 
 Las limitaciones a la facultad de contratar con la Administración por la comisión de delitos o por infracciones administrativas muy graves en materia de seguridad y salud en el trabajo, se regirán por lo establecido en la Ley 13/1995, de 18 de mayo, de Contratos de las Administraciones Públicas.
 
-
 #### Disposición adicional primera. Definiciones a efectos de Seguridad Social.
 
 Sin perjuicio de la utilización de las definiciones contenidas en esta Ley en el ámbito de la normativa sobre prevención de riesgos laborales, tanto la definición de los conceptos de accidente de trabajo, enfermedad profesional, accidente no laboral y enfermedad común, como el régimen jurídico establecido para estas contingencias en la normativa de Seguridad Social, continuarán siendo de aplicación en los términos y con los efectos previstos en dicho ámbito normativo.
-
 
 #### Disposición adicional segunda. Reordenación orgánica.
 
@@ -1145,7 +1078,6 @@ Queda extinguida la Organización de los Servicios Médicos de Empresa, cuyas fu
 Los recursos y funciones que actualmente tienen atribuidos el Instituto Nacional de Medicina y Seguridad del Trabajo y la Escuela Nacional de Medicina del Trabajo se adscriben y serán desarrollados por las unidades, organismos o entidades del Ministerio de Sanidad y Consumo conforme a su organización y distribución interna de competencias.
 
 El Instituto Nacional de Silicosis mantendrá su condición de centro de referencia nacional de prevención técnicosanitaria de las enfermedades profesionales que afecten al sistema cardiorrespiratorio.
-
 
 #### Disposición adicional tercera. Carácter básico.
 
@@ -1225,11 +1157,9 @@ c) Los restantes preceptos serán de aplicación general en defecto de normativa
 
 3. El artículo 54 constituye legislación básica de contratos administrativos, dictada al amparo del artículo 149.1.18.ªde la Constitución.
 
-
 #### Disposición adicional cuarta. Designación de Delegados de Prevención en supuestos especiales.
 
 En los centros de trabajo que carezcan de representantes de los trabajadores por no existir trabajadores con la antigüedad suficiente para ser electores o elegibles en las elecciones para representantes del personal, los trabajadores podrán elegir por mayoría a un trabajador que ejerza las competencias del Delegado de Prevención, quién tendrá las facultades, garantías y obligaciones de sigilo profesional de tales Delegados. La actuación de éstos cesará en el momento en que se reúnan los requisitos de antigüedad necesarios para poder celebrar la elección de representantes del personal, prorrogándose por el tiempo indispensable para la efectiva celebración de la elección.
-
 
 #### Disposición adicional quinta. Fundación.
 
@@ -1243,16 +1173,13 @@ A efectos de lograr un mejor cumplimiento de sus fines, se articulará su colabo
 
 En los sectores de actividad en los que existan fundaciones de ámbito sectorial, constituidas por empresarios y trabajadores, que tengan entre sus fines la promoción de actividades destinadas a la mejora de las condiciones de seguridad y salud en el trabajo, el desarrollo de los objetivos y fines de la fundación se llevará a cabo, en todo caso, en coordinación con aquéllas.
 
-
 #### Disposición adicional sexta. Constitución de la Comisión Nacional de Seguridad y Salud en el Trabajo.
 
 El Gobierno, en el plazo de tres meses a partir de la vigencia de esta Ley, regulará la composición de la Comisión Nacional de Seguridad y Salud en el Trabajo. La Comisión se constituirá en el plazo de los treinta días siguientes.
 
-
 #### Disposición adicional séptima. Cumplimiento de la normativa de transporte de mercancías peligrosas.
 
 Lo dispuesto en la presente Ley se entiende sin perjuicio del cumplimiento de las obligaciones derivadas de la regulación en materia de transporte de mercancías peligrosas.
-
 
 #### Disposición adicional octava. Planes de organización de actividades preventivas.
 
@@ -1260,13 +1187,11 @@ Cada Departamento Ministerial, en el plazo de seis meses desde la entrada en vig
 
 A la propuesta deberá acompañarse necesariamente una memoria explicativa del coste económico de la organización propuesta, así como el calendario de ejecución del plan, con las previsiones presupuestarias adecuadas a éste.
 
-
 #### Disposición adicional novena. Establecimientos militares.
 
 1. El Gobierno, en el plazo de seis meses, previa consulta con las organizaciones sindicales más representativas y a propuesta de los Ministros de Defensa y de Trabajo y Seguridad Social, adaptará las normas de los capítulos III y V de esta Ley a las exigencias de la defensa nacional, a las peculiaridades orgánicas y al régimen vigente de representación del personal en los establecimientos militares.
 
 2. Continuarán vigentes las disposiciones sobre organización y competencia de la autoridad laboral e Inspección de Trabajo en el ámbito de la Administración Militar contenidas en el Real Decreto 2205/1980, de 13 de junio, dictado en desarrollo de la disposición final séptima del Estatuto de los Trabajadores.
-
 
 #### Disposición adicional décima. Sociedades cooperativas.
 
@@ -1274,23 +1199,19 @@ El procedimiento para la designación de los Delegados de Prevención regulados 
 
 Cuando, además de los socios que prestan su trabajo personal, existan asalariados se computarán ambos colectivos a efectos de lo dispuesto en el número 2 del artículo 35. En este caso, la designación de los Delegados de Prevención se realizará conjuntamente por los socios que prestan trabajo y los trabajadores asalariados o, en su caso, los representantes de éstos.
 
-
 #### Disposición adicional undécima. Modificación del Estatuto de los Trabajadores en materia de permisos retribuidos.
 
 Se añade una letra f) al apartado 3 del artículo 37 del texto refundido de la Ley del Estatuto de los Trabajadores aprobado por el Real Decreto legislativo 1/1995, de 24 de marzo, del siguiente tenor:
 
 «f) Por el tiempo indispensable para la realización de exámenes prenatales y técnicas de preparación al parto que deban realizarse dentro de la jornada de trabajo.»
 
-
 #### Disposición adicional duodécima. Participación institucional en las Comunidades Autónomas.
 
 En las Comunidades Autónomas, la participación institucional, en cuanto a su estructura y organización, se llevará a cabo de acuerdo con las competencias que las mismas tengan en materia de seguridad y salud laboral.
 
-
 #### Disposición adicional decimotercera. Fondo de Prevención y Rehabilitación.
 
 Los recursos del Fondo de Prevención y Rehabilitación procedentes del exceso de excedentes de la gestión realizada por las Mutuas de Accidentes de Trabajo y Enfermedades Profesionales de la Seguridad Social a que se refiere el artículo 73 del texto refundido de la Ley General de la Seguridad Social se destinarán en la cuantía que se determine reglamentariamente, a las actividades que puedan desarrollar como servicios de prevención las Mutuas de Accidentes de Trabajo y Enfermedades Profesionales de la Seguridad Social, de acuerdo con lo previsto en el artículo 32 de esta Ley.
-
 
 #### Disposición transitoria primera. Aplicación de disposiciones más favorables.
 
@@ -1300,11 +1221,9 @@ Los recursos del Fondo de Prevención y Rehabilitación procedentes del exceso d
 
 3. Lo dispuesto en los apartados anteriores será también de aplicación a los acuerdos concluidos en el ámbito de la función pública al amparo de lo dispuesto en la Ley 7/1990, de 19 de julio, sobre negociación colectiva y participación en la determinación de las condiciones de trabajo de los empleados públicos.
 
-
 #### Disposición transitoria segunda.
 
 En tanto se aprueba el Reglamento regulador de los Servicios de Prevención de Riesgos Laborales, se entenderá que las Mutuas de Accidentes de Trabajo y Enfermedades Profesionales de la Seguridad Social cumplen el requisito previsto en el artículo 31.5 de la presente Ley.
-
 
 #### Disposición derogatoria única. Alcance de la derogación.
 
@@ -1322,15 +1241,11 @@ En lo que no se oponga a lo previsto en esta Ley, y hasta que se dicten los Regl
 
 La presente Ley no afecta a la vigencia de las disposiciones especiales sobre prevención de riesgos profesionales en las explotaciones mineras, contenidas en el capítulo IV del Real Decreto 3255/1983, de 21 de diciembre, por el que se aprueba el Estatuto del Minero, y en sus normas de desarrollo, así como las del Real Decreto 2857/1978, de 25 de agosto, por el que se aprueba el Reglamento General para el Régimen de la Minería, y el Real Decreto 863/1985, de 2 de abril, por el que se aprueba el Reglamento General de Normas Básicas de Seguridad Minera, y sus disposiciones complementarias.
 
-
 #### Disposición final primera. Actualización de sanciones.
 
 La cuantía de las sanciones a que se refiere el apartado 4 del artículo 49 podrá ser actualizada por el Gobierno a propuesta del Ministro de Trabajo y Seguridad Social, adaptando a la misma la atribución de competencias prevista en el apartado 1 del artículo 52, de esta Ley.
 
-
 #### Disposición final segunda. Entrada en vigor.
-
-La presente Ley entrará en vigor tres meses después de su publicación en el «Boletín Oficial del Estado».
 
 Por tanto,
 

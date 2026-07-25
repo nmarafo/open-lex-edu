@@ -35,7 +35,6 @@ Boletín Oficial de Canarias
 Accesibilidad
 Mapa web
 Contacto
-Versión texto
 Inicio
 Archivo
 Búsqueda
@@ -44,11 +43,8 @@ Inicio
 Archivo
 Año 1994
 1994/083. Viernes 8 de Julio de 1994
-1066
-<p>Menú de búsqueda y navegación</p>
 Anterior
 Siguiente
-BOC Nº 083. Viernes 8 de Julio de 1994 - 1066
 III. OTRAS RESOLUCIONES - C.Trabajo
 y Función Pública
 1066 - RESOLUCIÓN de 21 de junio de 1994, de la Dirección General de Trabajo, por la que se hace público Acuerdo de la Comisión Negociadora del Convenio Colectivo del Personal Laboral de la Comunidad Autónoma de Canarias.

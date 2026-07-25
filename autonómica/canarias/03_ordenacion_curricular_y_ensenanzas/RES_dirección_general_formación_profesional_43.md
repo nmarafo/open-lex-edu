@@ -31,9 +31,6 @@ fuente_pdf_oficial: https://sede.gobiernodecanarias.org/boc/boc-a-2025-158-2923.
 
 # Resolución de 29 de julio de 2025, de la Dirección General de Formación Profesional y Enseñanzas de Régimen Especial por la que se dictan instrucciones y se establece el calendario para la renovación parcial o la nueva constitución de los Consejos Sociales en los centros integrados de formación profesional, de la Comunidad Autónoma de Canarias, a celebrar en el curso escolar 2025/2026 (BOC núm. 158, de 11 de agosto).
 
-https://sede.gobiernodecanarias.org/boc
-boc-a-2025-158-2923
-Boletín Oficial de Canarias núm. 158 Lunes 11 de agosto de 202536266
 III. Otras Resoluciones
 Consejería de Educación, Formación Profesional, Actividad Física y Deportes
 2923 Dirección General de Formación Profesional y Enseñanzas de Régimen Especial.- 
@@ -75,9 +72,6 @@ estableciendo que las Administraciones educativas garantizarán la participació
 la comunidad educativa en las cuestiones relevantes de la organización, el gobierno, el 
 funcionamiento y la evaluación de los centros.
 
-https://sede.gobiernodecanarias.org/boc
-boc-a-2025-158-2923
-Boletín Oficial de Canarias núm. 158 Lunes 11 de agosto de 202536267
 Tercero.- La Ley Orgánica 3/2022, de 31 de marzo, de ordenación e integración de 
 la Formación Profesional, establece para los centros integrados sostenidos con fondos 
 públicos que impartan, al menos, ofertas de grados D y E, el establecimiento como órgano 
@@ -122,9 +116,6 @@ profesional, dependientes de la Comunidad Autónoma de Canarias, a celebrar en e
 escolar 2025/2026, de acuerdo a lo establecido en los Anexo I y II que forman parte de esta 
 Resolución.
 
-https://sede.gobiernodecanarias.org/boc
-boc-a-2025-158-2923
-Boletín Oficial de Canarias núm. 158 Lunes 11 de agosto de 202536268
 Segundo.- Encomendar a la Inspección de Educación la supervisión y asesoramiento 
 sobre aquellos aspectos específicos que le soliciten los equipos directivos de los centros 
 docentes.
@@ -142,9 +133,6 @@ Común de las Administraciones Públicas (BOE n.º 236, de 2.10.2015).
 Las Palmas de Gran Canaria, a 29 de julio de 2025.- La Directora General de Formación 
 Profesional y Enseñanzas de Régimen Especial, Carolina León Martínez.
 
-https://sede.gobiernodecanarias.org/boc
-boc-a-2025-158-2923
-Boletín Oficial de Canarias núm. 158 Lunes 11 de agosto de 202536269
 ANEXO I
 INSTRUCCIONES GENERALES PARA LA CONSTITUCIÓN Y/O RENOV ACIÓN 
 DE LOS CONSEJOS SOCIALES EN LOS CENTROS INTEGRADOS DE FORMACIÓN 
@@ -184,9 +172,6 @@ liquidación del mismo.
 f) Emitir informe con carácter previo al nombramiento de la persona titular de la 
 dirección del centro.
 
-https://sede.gobiernodecanarias.org/boc
-boc-a-2025-158-2923
-Boletín Oficial de Canarias núm. 158 Lunes 11 de agosto de 202536270
 g) Aprobar planes, proyectos y normas de funcionamiento del centro.
 h) Promover e impulsar ante el titular de la Consejería a la que esté adscrito el centro 
 la suscripción de convenios de colaboración.
@@ -223,9 +208,6 @@ con voz pero sin voto.
 4. Los representantes del centro en el Consejo Social serán elegidos por sus respectivos 
 sectores que son el personal docente, el personal no docente y el alumnado.
 
-https://sede.gobiernodecanarias.org/boc
-boc-a-2025-158-2923
-Boletín Oficial de Canarias núm. 158 Lunes 11 de agosto de 202536271
 5. Serán electores todos los miembros de cada sector o agrupación electoral y serán 
 elegibles aquellos miembros de cada sector que hayan presentado su candidatura.
 6. En todo caso se favorecerá la presencia equilibrada de hombres y mujeres en las 
@@ -265,9 +247,6 @@ personal de administración y servicios y un miembro del alumnado.
 Estos integrantes serán elegidos a través de sorteo público entre la totalidad de las 
 personas incluidas en la lista de electores de la mesa correspondiente.
 
-https://sede.gobiernodecanarias.org/boc
-boc-a-2025-158-2923
-Boletín Oficial de Canarias núm. 158 Lunes 11 de agosto de 202536272
 4. Entre otras funciones, la Junta Electoral aprobará y publicará los censos electorales 
 presentados previamente por la dirección del centro, admitiendo y proclamando las distintas 
 candidaturas; elaborará y aprobará, en su caso, los modelos de papeletas electorales; 
@@ -310,9 +289,6 @@ día, figurará el acto de elección y proclamación de los representantes elect
 votaciones respectivas se constituirán las mesas electorales, observando las determinaciones 
 de la Junta Electoral.
 
-https://sede.gobiernodecanarias.org/boc
-boc-a-2025-158-2923
-Boletín Oficial de Canarias núm. 158 Lunes 11 de agosto de 202536273
 2. En la sesión de elección se constituirá una mesa electoral por cada sector (docentes, 
 personal de administración y servicios, y alumnado). Dicha mesa estará integrada por el 
 titular de la dirección del centro, que ejercerá la presidencia, el miembro de mayor edad y 
@@ -353,9 +329,6 @@ Duodécima.- Voto por correo o no presencial.
 diez días antes de la votación, las personas electoras deberán solicitar a la Junta Electoral 
 del centro la documentación necesaria para ejercer el voto por correo.
 
-https://sede.gobiernodecanarias.org/boc
-boc-a-2025-158-2923
-Boletín Oficial de Canarias núm. 158 Lunes 11 de agosto de 202536274
 2. La Junta Electoral comprobará en el censo la inscripción de la persona interesada, 
 realizará la anotación correspondiente, a fin de que el día de las elecciones no se emita el 
 voto personalmente, y extenderá un certificado de inscripción. Igualmente, facilitará al 
@@ -396,9 +369,6 @@ se podrá interponer en las secretarías de los centros escolares recurso ante l
 Territorial de Educación correspondiente, en el plazo de un mes a partir del día siguiente al 
 de su notificación o publicación, cuya resolución pondrá fin a la vía administrativa.
 
-https://sede.gobiernodecanarias.org/boc
-boc-a-2025-158-2923
-Boletín Oficial de Canarias núm. 158 Lunes 11 de agosto de 202536275
 Decimoquinta.- Finalización del proceso.
 1. Concluidas las votaciones y proclamadas por la Junta Electoral las candidaturas electas 
 y suplentes de cada uno de los sectores, la dirección del centro finalizará la cumplimentación 
@@ -439,9 +409,6 @@ el Consejo Social.
 retrasarse, debiendo contar, en todo caso, con la autorización de la Dirección Territorial de 
 Educación correspondiente.
 
-https://sede.gobiernodecanarias.org/boc
-boc-a-2025-158-2923
-Boletín Oficial de Canarias núm. 158 Lunes 11 de agosto de 202536276
 Decimoséptima.- Difusión del proceso electoral.
 1. La Consejería de Educación, Formación Profesional, Actividad Física y Deportes, 
 a través de la Dirección General de Formación Profesional y Enseñanzas de Régimen 
@@ -482,9 +449,6 @@ Electoral ante la Dirección Territorial competente.
 2. La Inspección de Educación, en el ejercicio de sus funciones y atribuciones, velará por 
 el cumplimiento de los procesos de elección y renovación parcial de los Consejos Sociales, 
 
-https://sede.gobiernodecanarias.org/boc
-boc-a-2025-158-2923
-Boletín Oficial de Canarias núm. 158 Lunes 11 de agosto de 202536277
 informando y asesorando a los centros educativos del comienzo del procedimiento, y 
 supervisando su desarrollo y finalización. Asimismo, colaborará con la Dirección Territorial 
 de Educación correspondiente en cualquier aspecto relacionado con este procedimiento.
@@ -498,9 +462,6 @@ la que se regulan la composición y el procedimiento para la constitución y la 
 de los Consejos Escolares de los centros educativos sostenidos con fondos públicos del ámbito 
 de la Comunidad Autónoma de Canarias.
 
-boc-a-2025-158-2923
-Boletín Oficial de Canarias núm. 158 Lunes 11 de agosto de 202536278
-https://sede.gobiernodecanarias.org/boc
 ANEXO II
 CALENDARIO Y DOCUMENTOS DEL PROCESO ELECTORAL RENOVACIÓN 
 PARCIAL O NUEVA CONSTITUCIÓN DE LOS CONSEJOS SOCIALES CURSO 
@@ -548,9 +509,6 @@ CALENDARIO Y DOCUMENTOS DEL PROCESO ELECTORAL RENOV ACIÓN
 PARCIAL O NUEV A CONSTITUCIÓN DE LOS CONSEJOS SOCIALES  
 CURSO 2025/2026
 
-boc-a-2025-158-2923
-Boletín Oficial de Canarias núm. 158 Lunes 11 de agosto de 202536279
-https://sede.gobiernodecanarias.org/boc
 CONVOCATORIA DE ELECCIONES AL CONSEJO SOCIAL
 CONVOCATORIA Y CENSOS ELECTORALES
 03 de noviembre
@@ -587,9 +545,6 @@ noviembre • Reclamaciones sobre los censos electorales publicados. #Doc-13
 Junta Electoral. #Doc-1
 4
 
-boc-a-2025-158-2923
-Boletín Oficial de Canarias núm. 158 Lunes 11 de agosto de 202536280
-https://sede.gobiernodecanarias.org/boc
 PRESENTACIÓN DE CANDIDATURAS
 Hasta el  10 de 
 noviembre
@@ -641,9 +596,6 @@ las votaciones del alumnado. #Doc-
 para la elección de sus representantes en el Consejo Social del centro.#Doc-
 24
 
-boc-a-2025-158-2923
-Boletín Oficial de Canarias núm. 158 Lunes 11 de agosto de 202536281
-https://sede.gobiernodecanarias.org/boc
 CELEBRACIÓN DE ELECCIONES
 Hasta el 
 28 de 
@@ -696,9 +648,6 @@ diciembre
 publicación en el tablón de anuncios y en la web* del centro.#Doc-
 29
 
-boc-a-2025-158-2923
-Boletín Oficial de Canarias núm. 158 Lunes 11 de agosto de 202536282
-https://sede.gobiernodecanarias.org/boc
 Hasta el 12 
 de 
 diciembre

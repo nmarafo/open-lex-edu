@@ -32,9 +32,7 @@ fundamentos_derecho:
 
 # Ley Orgánica 1/1996 de Protección Jurídica del Menor
 
-
 **JUAN CARLOS I**
-
 
 **REY DE ESPAÑA**
 
@@ -42,9 +40,7 @@ A todos los que la presente vieren y entendieren.
 
 Sabed: Que las Cortes Generales han aprobado y Yo vengo en sancionar la siguiente Ley Orgánica.
 
-
 ## EXPOSICIÓN DE MOTIVOS
-
 
 **1**
 
@@ -69,7 +65,6 @@ Asimismo, introdujo la consideración de la adopción como un elemento de plena 
 No obstante, y pese al indudable avance que esta Ley supuso y a las importantes innovaciones que introdujo, su aplicación ha ido poniendo de manifiesto determinadas lagunas, a la vez que el tiempo transcurrido desde su promulgación ha hecho surgir nuevas necesidades y demandas en la sociedad.
 
 Numerosas instituciones, tanto públicas como privadas -las dos Cámaras Parlamentarias, el Defensor del Pueblo, el Fiscal General del Estado y diversas asociaciones relacionadas con los menores-, se han hecho eco de estas demandas, trasladando al Gobierno la necesidad de adecuar el ordenamiento a la realidad de nuestra sociedad actual.
-
 
 **2**
 
@@ -135,7 +130,6 @@ En todo el texto aparece reforzada la intervención del Ministerio Fiscal, sigui
 
 Otra cuestión que se aborda en la Ley es el internamiento del menor en centro psiquiátrico y que con el objetivo de que se realice con las máximas garantías por tratarse de un menor de edad, se somete a la autorización judicial previa y a las reglas del artículo 211 del Código Civil, con informe preceptivo del Ministerio Fiscal, equiparando, a estos efectos, el menor al presunto incapaz y no considerando válido el consentimiento de sus padres para que el internamiento se considere voluntario, excepción hecha del internamiento de urgencia.
 
-
 **3**
 
 La Ley pretende ser respetuosa con el reparto constitucional y estatutario de competencias entre Estado y Comunidades Autónomas.
@@ -145,7 +139,6 @@ En este sentido, la Ley regula aspectos relativos a la legislación civil y proc
 No obstante, se dejan a salvo, en una disposición final específica, las competencias de las Comunidades Autónomas que dispongan de Derecho Civil, Foral o especial propio, para las que la Ley se declara subsidiaria respecto de las disposiciones específicas vigentes en aquéllas.
 
 Asimismo, cuando se hace referencia a competencias de carácter administrativo, se especifica que las mismas corresponden a las Comunidades Autónomas y a las ciudades de Ceuta y Melilla, de conformidad con el reparto constitucional de competencias y las asumidas por aquéllas en sus respectivos Estatutos.
-
 
 **4**
 
@@ -157,9 +150,7 @@ La coexistencia de estas dos vertientes de la institución de la tutela demanda 
 
 De este modo, y dado que la Ley tiene como objetivo básico la protección de los menores de edad a través de la tutela administrativa se ha incorporado la modificación de otros artículos en su gran mayoría conexos con esta materia.
 
-
 ## TÍTULO I
-
 
 **De los derechos de los menores**
 
@@ -167,11 +158,9 @@ CAPÍTULO I
 
 Ambito y principios generales
 
-
 #### Artículo 1. Ambito de aplicación.
 
 La presente Ley y sus disposiciones de desarrollo son de aplicación a los menores de dieciocho años que se encuentren en territorio español, salvo que en virtud de la ley que les sea aplicable hayan alcanzado anteriormente la mayoría de edad.
-
 
 #### Artículo 2. Principios generales.
 
@@ -183,7 +172,6 @@ CAPÍTULO II
 
 Derechos del menor
 
-
 #### Artículo 3. Referencia a Instrumentos Internacionales.
 
 Los menores gozarán de los derechos que les reconoce la Constitución y los Tratados Internacionales de los que España sea parte, especialmente la Convención de Derechos del Niño de Naciones Unidas y los demás derechos garantizados en el ordenamiento jurídico, sin discriminación alguna por razón de nacimiento, nacionalidad, raza, sexo, deficiencia o enfermedad, religión, lengua, cultura, opinión o cualquier otra circunstancia personal, familiar o social.
@@ -191,7 +179,6 @@ Los menores gozarán de los derechos que les reconoce la Constitución y los Tra
 La presente Ley, sus normas de desarrollo y demás disposiciones legales relativas a las personas menores de edad, se interpretarán de conformidad con los Tratados Internacionales de los que España sea parte y, especialmente, de acuerdo con la Convención de los Derechos del Niño de Naciones Unidas de 20 de noviembre de 1989.
 
 Los poderes públicos garantizarán el respeto de los derechos de los menores y adecuarán sus actuaciones a la presente Ley y a la mencionada normativa internacional.
-
 
 #### Artículo 4. Derecho al honor, a la intimidad y a la propia imagen.
 
@@ -204,7 +191,6 @@ Los poderes públicos garantizarán el respeto de los derechos de los menores y 
 4. Sin perjuicio de las acciones de las que sean titulares los representantes legales del menor, corresponde en todo caso al Ministerio Fiscal su ejercicio, que podrá actuar de oficio o a instancia del propio menor o de cualquier persona interesada, física, jurídica o entidad pública.
 
 5. Los padres o tutores y los poderes públicos respetarán estos derechos y los protegerán frente a posibles ataques de terceros.
-
 
 #### Artículo 5. Derecho a la información.
 
@@ -220,7 +206,6 @@ En particular, velarán porque los medios de comunicación en sus mensajes dirig
 
 5. Sin perjuicio de otros sujetos legitimados, corresponde en todo caso al Ministerio Fiscal y a las Administraciones públicas competentes en materia de protección de menores el ejercicio de las acciones de cese y rectificación de publicidad ilícita.
 
-
 #### Artículo 6. Libertad ideológica.
 
 1. El menor tiene derecho a la libertad de ideología, conciencia y religión.
@@ -228,7 +213,6 @@ En particular, velarán porque los medios de comunicación en sus mensajes dirig
 2. El ejercicio de los derechos dimanantes de esta libertad tiene únicamente las limitaciones prescritas por la Ley y el respeto de los derechos y libertades fundamentales de los demás.
 
 3. Los padres o tutores tienen el derecho y el deber de cooperar para que el menor ejerza esta libertad de modo que contribuya a su desarrollo integral.
-
 
 #### Artículo 7. Derecho de participación, asociación y reunión.
 
@@ -250,7 +234,6 @@ Cuando la pertenencia de un menor o de sus padres a una asociación impida o per
 
 En iguales términos, tienen también derecho a promoverlas y convocarlas con el consentimiento expreso de sus padres, tutores o guardadores.
 
-
 #### Artículo 8. Derecho a la libertad de expresión.
 
 1. Los menores gozan del derecho a la libertad de expresión en los términos constitucionalmente previstos. Esta libertad de expresión tiene también su límite en la protección de la intimidad y la imagen del propio menor recogida en el artículo 4 de esta Ley.
@@ -264,7 +247,6 @@ b) A la edición y producción de medios de difusión.
 c) Al acceso a las ayudas que las Administraciones públicas establezcan con tal fin.
 
 3. El ejercicio de este derecho podrá estar sujeto a las restricciones que prevea la Ley para garantizar el respeto de los derechos de los demás o la protección de la seguridad, salud, moral u orden público.
-
 
 #### Artículo 9. Derecho a ser oído.
 
@@ -281,7 +263,6 @@ No obstante, cuando ello no sea posible o no convenga al interés del menor, pod
 CAPÍTULO III
 
 Medidas y principios rectores de la acción administrativa
-
 
 #### Artículo 10. Medidas para facilitar el ejercicio de los derechos.
 
@@ -300,7 +281,6 @@ d) Solicitar los recursos sociales disponibles de las Administraciones públicas
 3. Los menores extranjeros que se encuentren en España tienen derecho a la educación. Tienen derecho a la asistencia sanitaria y a los demás servicios públicos los menores extranjeros que se hallen en situación de riesgo o bajo la tutela o guarda de la Administración pública competente, aun cuando no residieran legalmente en España.
 
 4. Una vez constituida la guarda o tutela a que se refiere el apartado anterior de este artículo, la Administración pública competente facilitará a los menores extranjeros la documentación acreditativa de su situación, en los términos que reglamentariamente se determinen.
-
 
 #### Artículo 11. Principios rectores de la acción administrativa.
 
@@ -330,9 +310,7 @@ f) Promover la participación y la solidaridad social.
 
 g) La objetividad, imparcialidad y seguridad jurídica en la actuación protectora garantizando el carácter colegiado e interdisciplinar en la adopción de medidas.
 
-
 ## TÍTULO II
-
 
 **Actuaciones en situación de desprotección social del menor e instituciones de protección de menores**
 
@@ -340,13 +318,11 @@ CAPÍTULO I
 
 Actuaciones en situaciones de desprotección social del menor
 
-
 #### Artículo 12. Actuaciones de protección.
 
 1. La protección del menor por los poderes públicos se realizará mediante la prevención y reparación de situaciones de riesgo, con el establecimiento de los servicios adecuados para tal fin, el ejercicio de la guarda, y, en los casos de desamparo, la asunción de la tutela por ministerio de la Ley.
 
 2. Los poderes públicos velarán para que los padres, tutores o guardadores desarrollen adecuadamente sus responsabilidades, y facilitarán servicios accesibles en todas las áreas que afectan al desarrollo del menor.
-
 
 #### Artículo 13. Obligaciones de los ciudadanos y deber de reserva.
 
@@ -358,21 +334,17 @@ Actuaciones en situaciones de desprotección social del menor
 
 En las actuaciones se evitará toda interferencia innecesaria en la vida del menor.
 
-
 #### Artículo 14. Atención inmediata.
 
 Las autoridades y servicios públicos tienen obligación de prestar la atención inmediata que precise cualquier menor, de actuar si corresponde a su ámbito de competencias o de dar traslado en otro caso al órgano competente y de poner los hechos en conocimiento de los representantes legales del menor, o cuando sea necesario, del Ministerio Fiscal.
-
 
 #### Artículo 15. Principio de colaboración.
 
 En toda intervención se procurará contar con la colaboración del menor y su familia y no interferir en su vida escolar, social o laboral.
 
-
 #### Artículo 16. Evaluación de la situación.
 
 Las entidades públicas competentes en materia de protección de menores estarán obligadas a verificar la situación denunciada y a adoptar las medidas necesarias para resolverla en función del resultado de aquella actuación.
-
 
 #### Artículo 17. Actuaciones en situaciones de riesgo.
 
@@ -380,23 +352,19 @@ En situaciones de riesgo de cualquier índole que perjudiquen el desarrollo pers
 
 Una vez apreciada la situación de riesgo, la entidad pública competente en materia de protección de menores pondrá en marcha las actuaciones pertinentes para reducirla y realizará el seguimiento de la evolución del menor en la familia.
 
-
 #### Artículo 18. Actuaciones en situación de desamparo.
 
 1. Cuando la entidad pública competente considere que el menor se encuentra en situación de desamparo, actuará en la forma prevista en el artículo 172 y siguientes del Código Civil, asumiendo la tutela de aquél, adoptando las oportunas medidas de protección y poniéndolo en conocimiento del Ministerio Fiscal.
 
 2. Cada entidad pública designará el órgano que ejercerá la tutela de acuerdo con sus estructuras orgánicas de funcionamiento.
 
-
 #### Artículo 19. Guarda de menores.
 
 Además de la guarda de los menores tutelados por encontrarse en situación de desamparo, la entidad pública podrá asumir la guarda en los términos previstos en el artículo 172 del Código Civil, cuando los padres o tutores no puedan cuidar de un menor o cuando así lo acuerde el Juez en los casos en que legalmente proceda.
 
-
 #### Artículo 20. Acogimiento familiar.
 
 El acogimiento familiar, de acuerdo con su finalidad y con independencia del procedimiento en que se acuerde, revestirá las modalidades establecidas en el Código Civil.
-
 
 #### Artículo 21. Servicios especializados.
 
@@ -410,7 +378,6 @@ La entidad pública regulará de manera diferenciada el régimen de funcionamien
 
 4. Asimismo, el Ministerio Fiscal deberá ejercer su vigilancia sobre todos los centros que acogen menores.
 
-
 #### Artículo 22. Información a los familiares.
 
 La entidad pública que tenga menores bajo su guarda o tutela deberá informar a los padres, tutores o guardadores sobre la situación de aquéllos cuando no exista resolución judicial que lo prohíba.
@@ -418,7 +385,6 @@ La entidad pública que tenga menores bajo su guarda o tutela deberá informar a
 CAPÍTULO II
 
 De la tutela
-
 
 #### Artículo 23. Indices de tutelas.
 
@@ -428,11 +394,9 @@ CAPÍTULO III
 
 De la adopción
 
-
 #### Artículo 24. Adopción de menores.
 
 La adopción se ajustará a lo establecido por la legislación civil aplicable.
-
 
 #### Artículo 25. Adopción internacional.
 
@@ -462,7 +426,6 @@ Las entidades públicas podrán retirar la acreditación concedida, mediante exp
 
 4. Las entidades públicas competentes crearán un registro de reclamaciones formuladas por las personas que acudan a las entidades acreditadas de este artículo.
 
-
 #### Disposición adicional primera.
 
 Se aplicarán las normas de la jurisdicción voluntaria a las actuaciones que se sigan:
@@ -477,11 +440,9 @@ En el indicado procedimiento, los recursos se admitirán, en todo caso en un sol
 
 Quedará siempre a salvo el ejercicio de las acciones en la vía judicial ordinaria.
 
-
 #### Disposición adicional segunda.
 
 Para la inscripción en el Registro español de las adopciones constituidas en el extranjero, el encargado del Registro apreciará la concurrencia de los requisitos del artículo 9.5 del Código Civil.
-
 
 #### Disposición adicional tercera.
 
@@ -493,23 +454,19 @@ Con excepción de las declaraciones de incapacitación y de prodigalidad, las de
 
 3.ª La oposición de algún interesado se ventilará en el mismo procedimiento, sin convertirlo en contencioso.
 
-
 #### Disposición transitoria única.
 
 Los procedimientos iniciados con anterioridad a la entrada en vigor de esta Ley se regirán por la normativa anterior.
 
-
 #### Disposición derogatoria única.
 
 Queda derogado el Decreto de 2 de julio de 1948 por el que se aprueba el texto refundido de la Legislación sobre Protección de Menores y cuantas normas se opongan a la presente Ley.
-
 
 #### Disposición final primera.
 
 El artículo 9.4 del Código Civil, tendrá la siguiente redacción:
 
 «El carácter y contenido de la filiación, incluida la adoptiva y las relaciones paterno-filiales, se regirán por la Ley personal del hijo y si no pudiera determinarse ésta, se estará a la de la residencia habitual del hijo.»
-
 
 #### Disposición final segunda.
 
@@ -521,7 +478,6 @@ En la adopción constituida por la competente autoridad extranjera, la Ley del a
 
 No será reconocida en España como adopción la constituida en el extranjero por adoptante español, si los efectos de aquélla no se corresponden con los previstos por la legislación española. Tampoco lo será, mientras la entidad pública competente no haya declarado la idoneidad del adoptante, si éste fuera español y estuviera domiciliado en España al tiempo de la adopción.»
 
-
 #### Disposición final tercera.
 
 El artículo 149 del Código Civil, tendrá la siguiente redacción:
@@ -529,7 +485,6 @@ El artículo 149 del Código Civil, tendrá la siguiente redacción:
 «El obligado a prestar alimentos podrá, a su elección, satisfacerlos, o pagando la pensión que se fije, o recibiendo y manteniendo en su propia casa al que tiene derecho a ellos.
 
 Esta elección no será posible en cuanto contradiga la situación de convivencia determinada para el alimentista por las normas aplicables o por resolución judicial. También podrá ser rechazada cuando concurra justa causa o perjudique el interés del alimentista menor de edad.»
-
 
 #### Disposición final cuarta.
 
@@ -544,7 +499,6 @@ El artículo 158 del Código Civil tendrá la siguiente redacción:
 3.º En general, las demás disposiciones que considere oportunas, a fin de apartar al menor de un peligro o de evitarle perjuicios.
 
 Todas estas medidas podrán adoptarse dentro de cualquier proceso civil o penal o bien en un procedimiento de jurisdicción voluntaria.»
-
 
 #### Disposición final quinta.
 
@@ -571,7 +525,6 @@ Asimismo, se asumirá la guarda por la entidad pública cuando así lo acuerde e
 5. Si surgieren problemas graves de convivencia entre el menor y la persona o personas a quien hubiere sido confiado en guarda, aquél o persona interesada podrá solicitar la remoción de ésta.
 
 6. Las resoluciones que aprecien el desamparo y declaren la asunción de la tutela por ministerio de la Ley serán recurribles ante la jurisdicción civil sin necesidad de reclamación administrativa previa.»
-
 
 #### Disposición final sexta.
 
@@ -625,7 +578,6 @@ Será precisa resolución judicial de cesación cuando el acogimiento haya sido 
 
 5. Todas las actuaciones de formalización y cesación del acogimiento se practicarán con la obligada reserva.»
 
-
 #### Disposición final séptima.
 
 Se introduce en el Código Civil un nuevo artículo con el número 173 bis, con la siguiente redacción:
@@ -642,7 +594,6 @@ El acogimiento familiar, podrá adoptar las siguientes modalidades atendiendo a 
 
 La entidad pública podrá formalizar, asimismo, un acogimiento familiar preadoptivo cuando considere, con anterioridad a la presentación de la propuesta de adopción, que fuera necesario establecer un período de adaptación del menor a la familia. Este período será lo más breve posible y, en todo caso, no podrá exceder del plazo de un año.»
 
-
 #### Disposición final octava.
 
 El artículo 174.2 del Código Civil queda redactado como sigue:
@@ -651,13 +602,11 @@ El artículo 174.2 del Código Civil queda redactado como sigue:
 
 El Fiscal habrá de comprobar, al menos semestralmente, la situación del menor, y promoverá ante el Juez las medidas de protección que estime necesarias.»
 
-
 #### Disposición final novena.
 
 El artículo 175.1 del Código Civil queda redactado como sigue:
 
 «1. La adopción requiere que el adoptante sea mayor de veinticinco años. En la adopción por ambos cónyuges basta que uno de ellos haya alcanzado dicha edad. En todo caso, el adoptante habrá de tener, por lo menos, catorce años más que el adoptado.»
-
 
 #### Disposición final décima.
 
@@ -678,7 +627,6 @@ No obstante, no se requiere propuesta cuando en el adoptando concurra alguna de 
 4.ª Ser mayor de edad o menor emancipado.
 
 3. En los tres primeros supuestos del apartado anterior podrá constituirse la adopción, aunque el adoptante hubiere fallecido, si éste hubiese prestado ya ante el Juez su consentimiento. Los efectos de la resolución judicial en este caso se retrotraerán a la fecha de prestación de tal consentimiento.»
-
 
 #### Disposición final undécima.
 
@@ -706,13 +654,11 @@ El asentimiento de la madre no podrá prestarse hasta que hayan transcurrido tre
 
 4.º La entidad pública, a fin de apreciar la idoneidad del adoptante, cuando el adoptando lleve más de un año acogido legalmente por aquél.»
 
-
 #### Disposición final duodécima.
 
 El primer párrafo del artículo 211 del Código Civil tendrá la siguiente redacción:
 
 «El internamiento por razón de trastorno psíquico, de una persona que no esté en condiciones de decidirlo por sí, aunque esté sometida a la patria potestad, requerirá autorización judicial. Esta será previa al internamiento, salvo que razones de urgencia hiciesen necesaria la inmediata adopción de la medida, de la que se dará cuenta cuanto antes al Juez y, en todo caso, dentro del plazo de veinticuatro horas. El internamiento de menores, se realizará en todo caso en un establecimiento de salud mental adecuado a su edad, previo informe de los servicios de asistencia al menor.»
-
 
 #### Disposición final decimotercera.
 
@@ -720,13 +666,11 @@ El artículo 216 del Código Civil tendrá un segundo párrafo con la siguiente 
 
 «Las medidas y disposiciones previstas en el artículo 158 de este Código podrán ser acordadas también por el Juez, de oficio o a instancia de cualquier interesado, en todos los supuestos de tutela o guarda, de hecho o de derecho, de menores e incapaces, en cuanto lo requiera el interés de éstos.»
 
-
 #### Disposición final decimocuarta.
 
 El artículo 234 del Código Civil tendrá un último párrafo con la siguiente redacción:
 
 «Se considera beneficiosa para el menor la integración en la vida de familia del tutor.»
-
 
 #### Disposición adicional decimoquinta.
 
@@ -734,20 +678,17 @@ El artículo 247 del Código Civil tendrá la siguiente redacción:
 
 «Serán removidos de la tutela los que después de deferida incurran en causa legal de inhabilidad, o se conduzcan mal en el desempeño de la tutela, por incumplimiento de los deberes propios del cargo o por notoria ineptitud de su ejercicio, o cuando surgieran problemas de convivencia graves y continuados.»
 
-
 #### Disposición final decimosexta.
 
 El artículo 248 del Código Civil tendrá la siguiente redacción:
 
 «El Juez, de oficio o a solicitud del Ministerio Fiscal, del tutelado o de otra persona interesada, decretará la remoción del tutor, previa audiencia de éste si, citado, compareciere. Asimismo, se dará audiencia al tutelado si tuviere suficiente juicio.»
 
-
 #### Disposición final decimoséptima.
 
 Se añade un segundo párrafo al artículo 260 del Código Civil con la siguiente redacción:
 
 «No obstante, la entidad pública que asuma la tutela de un menor por ministerio de la Ley o la desempeñe por resolución judicial no precisará prestar fianza.»
-
 
 #### Disposición final decimoctava.
 
@@ -867,7 +808,6 @@ En el artículo 1.338 se sustituyen las palabras «El menor» por «El menor no 
 
 En el número 1.º del artículo 1.393 se sustituyen las palabras «declarado ausente» por «declarado pródigo, ausente».
 
-
 #### Disposición final decimonovena.
 
 La Ley de Enjuiciamiento Civil quedará modificada en el siguiente sentido:
@@ -930,11 +870,9 @@ Si el Juez resolviese la restitución del menor, en el auto se establecerá que 
 
 En los demás supuestos, se declararán de oficio las costas del procedimiento.»
 
-
 #### Disposición final vigésima.
 
 El Ministerio Fiscal velará para que, incoado un procedimiento sobre reclamación frente a las resoluciones de las entidades públicas que surjan con motivo del ejercicio de sus funciones en materia de tutela o de guarda, se resuelvan en el mismo expediente todas las acciones e incidencias que afecten a un mismo menor. A tal efecto, promoverá ante los órganos jurisdiccionales las actuaciones oportunas previstas en la legislación procesal.
-
 
 #### Disposición final vigésima primera.
 
@@ -944,11 +882,9 @@ El Ministerio Fiscal velará para que, incoado un procedimiento sobre reclamaci�
 
 3. Los restantes preceptos no orgánicos de la Ley, así como las revisiones al Código Civil contenidas en la misma, se dictan al amparo del artículo 149.1.8.ª de la Constitución y se aplicarán sin perjuicio de la normativa que dicten las Comunidades Autónomas con competencia en materia de Derecho Civil, Foral o Especial.
 
-
 #### Disposición final vigésima segunda.
 
 Las entidades públicas mencionadas en esta Ley son las designadas por las Comunidades Autónomas y las ciudades de Ceuta y Melilla, de acuerdo con sus respectivas normas de organización.
-
 
 #### Disposición final vigésima tercera.
 
@@ -956,10 +892,7 @@ Tienen carácter de Ley ordinaria los artículos 1; 2; 5, apartados 3 y 4; 7, ap
 
 Los preceptos relacionados en el párrafo anterior se aplicarán según lo previsto en la disposición adicional vigésima primera.
 
-
 #### Disposición final vigésima cuarta.
-
-La presente Ley entrará en vigor a los treinta días de su publicación en el «Boletín Oficial del Estado».
 
 Por tanto,
 

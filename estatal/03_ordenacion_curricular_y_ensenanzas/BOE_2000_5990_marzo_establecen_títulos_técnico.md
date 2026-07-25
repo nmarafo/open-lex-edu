@@ -32,6 +32,7 @@ fundamentos_derecho:
   articulos:
   - '22'
 ---
+
 # Real Decreto 320/2000, de 3 de marzo, por el que se establecen los títulos de Técnico Deportivo y Técnico Deportivo superior en las especialidades de Fútbol y Fútbol Sala, se aprueban las correspondientes enseñanzas mínimas y se regulan las pruebas y los requisitos de acceso a estas enseñanzas.
 
 El Real Decreto 1913/1997, de 19 de diciembre, otorga la consideración de enseñanzas de régimen especial, a aquellas enseñanzas que conducen a la obtención de los títulos de técnicos deportivos mencionadas en el artículo 55 de la Ley 10/ 1990, de 15 de octubre, del Deporte. Asimismo, aprueba las directrices generales sobre los títulos y de las correspondientes enseñanzas mínimas.
@@ -54,18 +55,15 @@ En la elaboración de esta norma han sido consultadas las Comunidades Autónomas
 
 En su virtud, a propuesta del Ministro de Educación y Cultura, de acuerdo con el Consejo de Estado y previa deliberación del Consejo de Ministros en su reunión del día 3 de marzo de 2000,
 
-
 **DISPONGO:**
 
 CAPÍTULO I
 
 Las enseñanzas: Finalidad, organización y requisitos de acceso
 
-
 #### Artículo 1. Consideración de enseñanzas de régimen especial.
 
 De acuerdo con lo previsto en el artículo 1 del Real Decreto 1913/1997, de 19 de diciembre, las enseñan zas conducentes a la obtención de los títulos oficiales de Técnico Deportivo y Técnico Deportivo superior en las especialidades de Fútbol y Fútbol Sala, que regula el presente Real Decreto, tendrán la consideración de enseñanzas de régimen especial, con validez académica y profesional en todo el territorio nacional.
-
 
 #### Artículo 2. Establecimiento de los títulos y aprobación de las correspondientes enseñanzas mínimas.
 
@@ -79,7 +77,6 @@ b) De grado superior: Técnico Deportivo superior en Fútbol y Técnico Deport
 
 3. Las cargas horarias y los contenidos básicos de las enseñanzas mínimas establecidas en los correspondientes anexos suponen el 55 por 100 del horario total determinado para el currículo formativo.
 
-
 #### Artículo 3. Finalidad de las enseñanzas.
 
 Las enseñanzas conducentes a la obtención de los títulos oficiales a los que se refiere el artículo anterior tienen por finalidad proporcionar a los alumnos la formación necesaria para:
@@ -89,7 +86,6 @@ a) Garantizar su competencia técnica y profesional en la correspondiente espe
 b) Comprender las características y la organización de su modalidad deportiva y conocer los derechos y obligaciones que se derivan de sus funciones.
 
 c) Adquirir los conocimientos y habilidades necesarios para desarrollar su labor en condiciones de seguridad.
-
 
 #### Artículo 4. Estructuración de las enseñanzas.
 
@@ -103,7 +99,6 @@ c) Un bloque complementario que comprende los contenidos que tienen por objeti
 
 d) Un bloque de formación práctica que se realizará al superar los bloques común, específico y complementario de cada nivel o grado.
 
-
 #### Artículo 5. Formación práctica.
 
 1. De acuerdo con lo dispuesto en el artículo 5.d) del Real Decreto 1913/1997, el bloque de formación práctica se llevará a cabo en instituciones deportivas de titularidad pública o entidades privadas, así como en el marco de programas de intercambio internacional.
@@ -115,7 +110,6 @@ a) Completar los conocimientos y destrezas adquiridos en los módulos que inte
 b) Contribuir al logro de las competencias generales previstas en el artículo 4 del Real Decreto 1913/1997 y que se concretan en los anexos III y IV del presente Real Decreto.
 
 3. Las Administraciones educativas, en el ámbito de sus respectivas competencias, regularán la organización y evaluación del bloque de formación práctica correspondiente a cada uno de los títulos que se establecen en el artículo 2 del presente Real Decreto.
-
 
 #### Artículo 6. Proyecto final.
 
@@ -131,7 +125,6 @@ b) Contribuir al logro de las competencias generales previstas en el artículo
 
 6. Las Administraciones educativas regularán el procedimiento de elaboración y de evaluación del proyecto final.
 
-
 #### Artículo 7. Requisitos de acceso y promoción.
 
 1. Para acceder al grado medio de estas enseñanzas será preciso estar en posesión del título de Graduado en Educación Secundaria o equivalente a efectos académicos y superar la prueba de acceso de carácter específico que se establece en el anexo II del presente Real Decreto.
@@ -140,18 +133,15 @@ b) Contribuir al logro de las competencias generales previstas en el artículo
 
 3. Para el acceso al grado superior de las enseñanzas en las especialidades de Fútbol y de Fútbol Sala, se requerirá estar en posesión del título de Bachiller o equivalente a efectos académicos y el Título de Técnico Deportivo de Fútbol en la especialidad correspondiente. Además, de acuerdo con el artículo 8.4 del Real Decreto 1913/1997, será necesario acreditar experiencia como entrenador titular en alguna de las condiciones que se establecen en el anexo II del presente Real Decreto.
 
-
 #### Artículo 8. Requisitos de acceso para personas en circunstancias especiales.
 
 Para el acceso sin el título de Graduado en Educación Secundaria o de Bachiller, para el acceso de los deportistas de alto nivel o para personas que acrediten discapacidades, se estará a lo dispuesto en los artículos 9, 10 y 11 del Real Decreto 1913/1997.
-
 
 #### Artículo 9. Efectos y vigencia de las pruebas de acceso.
 
 1. De conformidad con el artículo 12 del Real Decreto 1913/1997, 19 de diciembre, la superación de las pruebas de carácter específico, que se establecen para el acceso a las enseñanzas de las especialidades de Fútbol, tendrán efectos en todo el ámbito del Estado.
 
 2. La superación de las pruebas de carácter específico, que se establecen en el anexo II del presente Real Decreto, tendrá una vigencia de dieciocho meses, contados a partir de la fecha de finalización de aquéllas.
-
 
 #### Artículo 10. Aplicación e inspección de las pruebas de acceso.
 
@@ -160,7 +150,6 @@ El Ministerio de Educación y Cultura o el órgano competente de las Comunidades
 CAPÍTULO II
 
 Establecimiento del currículo de las especialidades de Fútbol y Fútbol Sala
-
 
 #### Artículo 11. Aprobación del currículo.
 
@@ -176,7 +165,6 @@ Establecimiento del currículo de las especialidades de Fútbol y Fútbol Sala
 
 6. Con el fin de atender a la demanda de práctica deportiva de personas que presenten discapacidades, el currículo contemplará contenidos que permitan obtener los adecuados conocimientos de la organización práctica de los deportes para discapacitados.
 
-
 #### Artículo 12. Proyectos curriculares de los centros.
 
 1. Los centros impartirán las enseñanzas con arreglo al currículo, la normativa sobre su ordenación y las orientaciones metodológicas que se establezcan por el Ministerio de Educación y Cultura o, en su caso, por los órganos competentes de las Comunidades Autónomas que se encuentren en el pleno ejercicio de sus competencias en educación.
@@ -186,7 +174,6 @@ Establecimiento del currículo de las especialidades de Fútbol y Fútbol Sala
 CAPÍTULO III
 
 Evaluación
-
 
 #### Artículo 13. Criterios generales de la evaluación.
 
@@ -198,7 +185,6 @@ Evaluación
 
 4. El Ministerio de Educación y Cultura establecerá la normativa que permita al órgano competente de las Comunidades Autónomas que se hallen en pleno ejercicio de sus competencias en materia de educación realizar las convalidaciones que se determinen entre los módulos de las enseñanzas de grado medio y grado superior de las especialidades de fútbol o, en su caso, de las diferentes modalidades deportivas, atendiendo a la correspondencia de sus contenidos.
 
-
 #### Artículo 14. Regulación de los elementos básicos de los informes de evaluación.
 
 El Ministerio de Educación y Cultura, previo informe de los órganos competentes de las Comunidades Autónomas, establecerá los elementos básicos de los informes de evaluación de las enseñanzas que se regulan en el presente Real Decreto, así como los requisitos formales derivados del proceso de evaluación, que sean precisos para garantizar la movilidad de los alumnos.
@@ -206,7 +192,6 @@ El Ministerio de Educación y Cultura, previo informe de los órganos competente
 CAPÍTULO IV
 
 Efectos académicos y profesionales de los títulos de grado medio y grado superior de las especialidades de Fútbol y Fútbol Sala
-
 
 #### Artículo 15. Validez académica y profesional de los títulos.
 
@@ -216,18 +201,15 @@ Efectos académicos y profesionales de los títulos de grado medio y grado super
 
 3. La completa superación del primer nivel del grado medio de las enseñanzas que se regulan en el presente Real Decreto dará lugar a la obtención del certificado de primer nivel en la especialidad de Fútbol o Fútbol Sala, según los casos.
 
-
 #### Artículo 16. Efectos del bloque común.
 
 La superación del bloque común de un determinado nivel o grado de cualquiera de las modalidades o especialidades de las enseñanzas a las que se refiere el Real Decreto 1913/1997, de 19 de diciembre, tendrá validez para las enseñanzas del mismo nivel o grado de la correspondiente especialidad de Fútbol.
-
 
 #### Artículo 17. Acceso a otros estudios.
 
 1. El título de Técnico Deportivo en una de las especialidades de Fútbol permitirá el acceso directo a todas las modalidades de bachillerato.
 
 2. El título de Técnico Deportivo superior en una de las especialidades de Fútbol permitirá el acceso directo a los estudios que se establecen en el apartado 3 del anexo V del presente Real Decreto.
-
 
 #### Artículo 18. Convalidación y correspondencias de estas enseñanzas.
 
@@ -239,20 +221,17 @@ CAPÍTULO V
 
 Disposiciones relativas a los centros y al profesorado que imparta estas enseñanzas
 
-
 #### Artículo 19. Centros públicos y privados.
 
 1. Las enseñanzas que se regulan en el presente Real Decreto se impartirán en centros públicos o privados dotados de los recursos educativos humanos y materiales necesarios para garantizar una enseñanza de calidad.
 
 2. Asimismo, dichas enseñanzas podrán llevarse a cabo por los centros docentes del sistema de enseñanza militar en virtud de los convenios establecidos entre el Ministerio de Educación y Cultura y el Ministerio de Defensa.
 
-
 #### Artículo 20. Denominación genérica y específica de los centros.
 
 Los centros de las enseñanzas a las que se refiere el presente Real Decreto tendrán la denominación genérica de «centro público» o «centro autorizado», según que su carácter sea público o privado, seguido de otra específica que será la que figure en la correspondiente inscripción registral, y que no podrá ser coincidente con la de ningún otro centro.
 
 La denominación se completará, especificando el grado o grados de la formación que el centro imparta, seguido, de la correspondiente a la especialidad o especialidades deportivas que procedan.
-
 
 #### Artículo 21. Condiciones básicas de los centros.
 
@@ -266,18 +245,15 @@ La denominación se completará, especificando el grado o grados de la formació
 
 5. Los centros podrán llevar a cabo las enseñanzas en lugares e instalaciones distintas de aquellas para las que inicialmente hubieran recibido la autorización, siempre que las nuevas instalaciones reúnan los requisitos establecidos, previa solicitud y la correspondiente autorización de la Administración competente para cada uno de los casos. Dicha autorización tendrá carácter provisional y sólo será válida por el tiempo que se determine.
 
-
 #### Artículo 22. Relación de alumnos-aula.
 
 Para la impartición de los contenidos teóricos de los módulos formativos, el número máximo de alumnos por aula será de 35. El número máximo de alumnos para las sesiones de enseñanza práctica que se desarrollen en instalaciones o espacios deportivos será de 24.
-
 
 #### Artículo 23. Cumplimiento de requisitos de uso público establecidos por otra legislación vigente aplicable
 
 1. Los centros o las instalaciones en las que éstos desarrollen sus actividades contarán con las condiciones higiénicas, acústicas, de habitabilidad y de seguridad, que se exijan en la legislación vigente para este tipo de uso público, además de los requisitos que se establecen en el anexo VI del presente Real Decreto.
 
 2. Los edificios posibilitarán el acceso y la utilización de las instalaciones a los usuarios con discapacidades, de acuerdo con lo dispuesto en la legislación vigente aplicable.
-
 
 #### Artículo 24. Apertura y funcionamiento de los centros privados.
 
@@ -287,16 +263,13 @@ Para la impartición de los contenidos teóricos de los módulos formativos, el 
 
 3. Las solicitudes de autorización para los centros promovidos por la Real Federación Española de Fútbol se tramitarán a través de Consejo Superior de Deportes, cualquiera que sea la localización geográfica del centro para el que se solicite la autorización.
 
-
 #### Artículo 25. Inscripción de los centros en los registros oficiales.
 
 Con relación a la inscripción de los centros de formación de Técnicos de las especialidades de Fútbol, se estará a lo dispuesto en el artículo 36 de Real Decreto 1913/1997.
 
-
 #### Artículo 26. Inspección de los centros.
 
 Con relación a la inspección de los centros de formación de Técnicos de las especialidades de Fútbol, se estará a lo dispuesto en el artículo 37 de Real Decreto 1913/1997.
-
 
 #### Artículo 27. Requisitos de titulación del profesorado.
 
@@ -306,11 +279,9 @@ Con relación a la inspección de los centros de formación de Técnicos de las 
 
 3. De acuerdo con lo establecido en el artículo 39 del Real Decreto 1913/1997, de 19 de diciembre, además de lo señalado en el apartado 2 del presente artículo, el profesorado deberá estar en posesión del certificado de capacitación pedagógica que se obtendrá tras la superación de las materias que se establezcan en el correspondiente curso de especialización.
 
-
 #### Disposición adicional primera. No regulación de profesión titulada.
 
 Los elementos que definen el perfil profesional en las correspondientes enseñanzas mínimas conducentes a los títulos oficiales de Técnicos de las especialidades de Fútbol no constituyen regulación del ejercicio de profesión titulada.
-
 
 #### Disposición adicional segunda. Habilitación docente a expertos y especialistas.
 
@@ -318,13 +289,11 @@ Los elementos que definen el perfil profesional en las correspondientes enseñan
 
 2. Mediante dicha habilitación docente, se obtendrá la condición de profesor especialista para impartir la docencia del módulo correspondiente.
 
-
 #### Disposición adicional tercera. Extinción del período transitorio.
 
 De acuerdo con lo establecido en el apartado 2 de la disposición transitoria primera del Real Decreto 1913/1997, de 19 de diciembre, a la entrada en vigor del presente Real Decreto, para las especialidades de Fútbol y Sala, se extinguirá el período transitorio regulado en la Orden de 5 de julio de 1999, por la que se completan los aspectos curriculares y los requisitos generales de las formaciones en materia deportiva, a las que se refiere la disposición transitoria primera del Real Decreto 1913/1997, de 19 de diciembre.
 
 Los órganos competentes de las Comunidades Autónomas establecerán el procedimiento adecuado en el territorio de su competencia, con el fin de que, quienes hubieran iniciado formaciones en la especialidad de Fútbol o de Fútbol Sala, conforme a lo dispuesto en la mencionada Orden de 5 de julio de 1999, puedan completarla en sus tres niveles previstos, en un plazo máximo de tres años, contando a partir de la entrada en vigor del presente Real Decreto.
-
 
 #### Disposición transitoria primera. Plazo para las solicitudes de homologación, convalidación y equivalencias.
 
@@ -334,32 +303,25 @@ Los órganos competentes de las Comunidades Autónomas establecerán el procedim
 
 3. Las solicitudes de homologación, convalidación y equivalencias de las formaciones a las que se refieren los apartados 1 y 2 anteriores podrán formularse dentro de un plazo de diez años a partir de la finalización del plazo de seis meses establecido en el apartado 2 anterior.
 
-
 #### Disposición transitoria segunda. Habilitación del profesorado hasta que se realicen los cursos de capacitación pedagógica.
 
 1. En tanto se lleven a cabo los cursos de capacitación pedagógica del profesorado a los que se refiere el artículo 27 del presente Real Decreto, el Ministerio de Educación y Cultura o el órgano competente de las Comunidades Autónomas que se encuentren en el pleno ejercicio de sus competencias en educación deberán, en el ámbito de sus respectivas competencias, habilitar temporalmente para impartir las enseñanzas de los Técnicos Deportivos de las especialidades de Fútbol, a quienes reúnan los requisitos de titulación y quienes posean alguno de los títulos que se declaran equivalentes en el anexo VI del presente Real Decreto.
 
 2. De igual forma, para impartir determinados módulos del bloque específico o para la tutorización de la formación práctica, podrá autorizarse a quienes estén en posesión del diploma o certificado de máximo nivel federativo en las especialidades de Fútbol o Fútbol Sala según el caso, que haya sido reconocido por el Consejo Superior de Deportes, conforme a lo previsto en el artículo 42 del Real Decreto 1913/1997. Además, tendrán que acreditar mediante currículum personal que poseen la formación o experiencia docente en la materia.
 
-
 #### Disposición derogatoria única. Derogación normativa.
 
 Quedan derogadas todas aquellas otras disposiciones de igual o inferior rango que se opongan o contradigan lo dispuesto en este Real Decreto.
-
 
 #### Disposición final primera. Carácter de la norma.
 
 El presente Real Decreto, que se dicta en uso de las competencias atribuidas al Estado en el artículo 149.1.30.a de la Constitución, así como en la disposición adicional primera, apartado 2, de la Ley Orgánica 8/1985, de 3 de julio, del Derecho a la Educación, y en virtud de la habilitación que confiere al Gobierno el artículo 4 de la Ley Orgánica 1/1990, de 3 de octubre, de Ordenación General del Sistema Educativo, así como el artículo 14 del Real Decreto 1913/1997, de 19 de diciembre, tiene carácter básico y es de aplicación en todo el territorio nacional.
 
-
 #### Disposición final segunda. Órganos competentes para el desarrollo y aplicación de la presente norma.
 
 Corresponde al Ministro de Educación y Cultura y, en su caso, a los órganos competentes de las Comunidades Autónomas, en el ámbito de sus respectivas competencias, dictar cuantas disposiciones sean precisas para la ejecución y desarrollo de lo dispuesto en el presente Real Decreto.
 
-
 #### Disposición final tercera. Entrada en vigor del Real Decreto.
-
-El presente Real Decreto entrará en vigor el día siguiente al de su publicación en el «Boletín Oficial del Estado».
 
 Dado en Madrid a 3 de marzo de 2000.
 
@@ -372,7 +334,6 @@ MARIANO RAJOY BREY
 ANEXO I
 
 Títulos oficiales y duración de las enseñanzas que conducen a los títulos de grado medio y grado superior de Técnicos Deportivos de las especialidades de Fútbol
-
 
 **1. Títulos de grado medio**
 
@@ -461,7 +422,6 @@ Horas
 ANEXO II
 
 Pruebas de carácter específico y requisitos deportivos para el acceso a las enseñanzas de Técnicos Deportivos de las especialidades de Fútbol
-
 
 **PRUEBAS DE CARÁCTER ESPECÍFICO DE ACCESO A LAS ENSEÑANZAS**
 
@@ -567,7 +527,6 @@ a) Cada evaluador valorará el conjunto de los ejercicios de 1 a 10 puntos.
 
 b) La evaluación final de esta segunda parte de la prueba de acceso a las enseñanzas de Técnico Deportivo en Fútbol se obtendrá al promediar las valoraciones aportadas por los evaluadores y se considerará superada cuando el promedio obtenido sea igual o superior a 5 puntos y el tiempo empleado no sea superior a 3 minutos.
 
-
 **6. Segunda parte de la prueba de acceso a las enseñanzas de Técnico Deportivo en Fútbol Sala**
 
 Objetivo: evaluar el nivel de ejecución de las habilidades técnicas fundamentales del Fútbol Sala.
@@ -600,7 +559,6 @@ a) Cada evaluador valorará el conjunto de los ejercicios de 1 a 10 puntos.
 
 b) La evaluación final de esta segunda parte de la prueba de acceso a las enseñanzas de técnico deportivo en fútbol sala se obtendrá al promediar las valoraciones aportadas por los evaluadores y se considerará superada cuando el promedio obtenido sea igual o superior a 5 puntos y el tiempo empleado no sea superior a 3 minutos.
 
-
 **REQUISITOS DEPORTIVOS DE ACCESO A LAS ENSEÑANZAS**
 
 7. Requisitos deportivos para el acceso a las enseñanzas de Técnico Deportivo superior en Fútbol o Técnico Deportivo superior en Fútbol Sala
@@ -620,7 +578,6 @@ Las competiciones tendrán que haber sido promovidas por la Real Federación Esp
 ANEXO III
 
 Perfil profesional y enseñanzas mínimas correspondientes a los títulos de Técnico Deportivo y Técnico Deportivo superior en Fútbol
-
 
 **TÉCNICO DEPORTIVO EN FÚTBOL**
 
@@ -655,7 +612,6 @@ Horas
 Desarrollo profesional.
 
 Una temporada se considerará completada cuando el técnico deportivo, en cualquiera de las dos especialidades de fútbol, haya realizado sus funciones durante un tiempo mínimo de seis meses o en su caso 183 días.
-
 
 **PRIMER NIVEL**
 
@@ -1563,7 +1519,6 @@ Desarrollo de las prácticas: fichas de seguimiento de las prácticas de cada se
 
 Informe de autoevaluación de las prácticas. Informe de evaluación del tutor.
 
-
 **SEGUNDO NIVEL**
 
 4. Descripción del perfil profesional
@@ -2351,7 +2306,6 @@ Descripción de la estructura y funcionamiento del centro, de las instalaciones 
 Desarrollo de las prácticas: fichas de seguimiento de las prácticas de cada sesión agrupadas por fases.
 
 Informe de autoevaluación de las prácticas. Informe de evaluación del tutor.
-
 
 **TÉCNICO DEPORTIVO SUPERIOR EN FÚTBOL**
 
@@ -3153,7 +3107,6 @@ ANEXO IV
 
 Perfil profesional y enseñanzas mínimas correspondientes a los títulos de Técnico Deportivo y Técnico Deportivo superior en Fútbol Sala
 
-
 **TÉCNICO DEPORTIVO EN FÚTBOL SALA**
 
 1. Distribución horaria de las enseñanzas mínimas.
@@ -3181,7 +3134,6 @@ Prácticas
 —
 
 Horas
-
 
 **Primer nivel**
 
@@ -3739,7 +3691,6 @@ Desarrollo de las prácticas: fichas de seguimiento de las prácticas de cada se
 
 Informe de autoevaluación de las prácticas. Informe de evaluación del tutor.
 
-
 **SEGUNDO NIVEL**
 
 4. Descripción del perfil profesional
@@ -4207,7 +4158,6 @@ Descripción de la estructura y funcionamiento del centro, de las instalaciones 
 Desarrollo de las prácticas: fichas de seguimiento de las prácticas de cada sesión agrupadas por fases.
 
 Informe de autoevaluación de las prácticas. Informe de evaluación del tutor.
-
 
 **TÉCNICO DEPORTIVO SUPERIOR EN FÚTBOL SALA**
 

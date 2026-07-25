@@ -40,14 +40,11 @@ Este real decreto legislativo ha sido sometido a consulta de las organizaciones 
 
 En su virtud, a propuesta de la Ministra de Empleo y Seguridad Social, de acuerdo con el Consejo de Estado y previa deliberación del Consejo de Ministros en su reunión del día 23 de octubre de 2015,
 
-
 **DISPONGO:**
-
 
 #### Artículo único. Aprobación del texto refundido de la Ley del Estatuto de los Trabajadores.
 
 Se aprueba el texto refundido de la Ley del Estatuto de los Trabajadores que se inserta a continuación.
-
 
 #### Disposición derogatoria única. Derogación normativa.
 
@@ -83,7 +80,6 @@ FÁTIMA BÁÑEZ GARCÍA
 
 TEXTO REFUNDIDO DE LA LEY DEL ESTATUTO DE LOS TRABAJADORES
 
-
 **ÍNDICE**
 
 Título I. De la relación individual de trabajo.
@@ -92,48 +88,35 @@ Capítulo I. Disposiciones generales.
 
 Sección 1.ª Ámbito y fuentes.
 
-
 #### Artículo 1. Ámbito de aplicación.
 
-
 #### Artículo 2. Relaciones laborales de carácter especial.
-
 
 #### Artículo 3. Fuentes de la relación laboral.
 
 Sección 2.ª Derechos y deberes laborales básicos.
 
-
 #### Artículo 4. Derechos laborales.
-
 
 #### Artículo 5. Deberes laborales.
 
 Sección 3.ª Elementos y eficacia del contrato de trabajo.
 
-
 #### Artículo 6. Trabajo de los menores.
-
 
 #### Artículo 7. Capacidad para contratar.
 
-
 #### Artículo 8. Forma del contrato.
-
 
 #### Artículo 9. Validez del contrato.
 
 Sección 4.ª Modalidades del contrato de trabajo.
 
-
 #### Artículo 10. Trabajo en común y contrato de grupo.
-
 
 #### Artículo 11. Contratos formativos.
 
-
 #### Artículo 12. Contrato a tiempo parcial y contrato de relevo.
-
 
 #### Artículo 13. Trabajo a distancia.
 
@@ -141,86 +124,61 @@ Capítulo II. Contenido del contrato de trabajo.
 
 Sección 1.ª Duración del contrato.
 
-
 #### Artículo 14. Periodo de prueba.
 
-
 #### Artículo 15. Duración del contrato.
-
 
 #### Artículo 16. Contrato fijo-discontinuo.
 
 Sección 2.ª Derechos y deberes derivados del contrato.
 
-
 #### Artículo 17. No discriminación en las relaciones laborales.
-
 
 #### Artículo 18. Inviolabilidad de la persona del trabajador.
 
-
 #### Artículo 19. Seguridad y salud en el trabajo.
 
-
 #### Artículo 20. Dirección y control de la actividad laboral.
-
 
 #### Artículo 21. Pacto de no concurrencia y de permanencia en la empresa.
 
 Sección 3.ª Clasificación profesional y promoción en el trabajo.
 
-
 #### Artículo 22. Sistema de clasificación profesional.
-
 
 #### Artículo 23. Promoción y formación profesional en el trabajo.
 
-
 #### Artículo 24. Ascensos.
-
 
 #### Artículo 25. Promoción económica.
 
 Sección 4.ª Salarios y garantías salariales.
 
-
 #### Artículo 26. Del salario.
-
 
 #### Artículo 27. Salario mínimo interprofesional.
 
-
 #### Artículo 28. Igualdad de remuneración por razón de sexo.
-
 
 #### Artículo 29. Liquidación y pago.
 
-
 #### Artículo 30. Imposibilidad de la prestación.
-
 
 #### Artículo 31. Gratificaciones extraordinarias.
 
-
 #### Artículo 32. Garantías del salario.
-
 
 #### Artículo 33. El Fondo de Garantía Salarial.
 
 Sección 5.ª Tiempo de trabajo.
 
-
 #### Artículo 34. Jornada.
-
 
 #### Artículo 35. Horas extraordinarias.
 
-
 #### Artículo 36. Trabajo nocturno, trabajo a turnos y ritmo de trabajo.
 
-
 #### Artículo 37. Descanso semanal, fiestas y permisos.
-
 
 #### Artículo 38. Vacaciones anuales.
 
@@ -228,73 +186,53 @@ Capítulo III. Modificación, suspensión y extinción del contrato de trabajo.
 
 Sección 1.ª Movilidad funcional y geográfica.
 
-
 #### Artículo 39. Movilidad funcional.
 
-
 #### Artículo 40. Movilidad geográfica.
-
 
 #### Artículo 41. Modificaciones sustanciales de condiciones de trabajo.
 
 Sección 2.ª Garantías por cambio de empresario.
 
-
 #### Artículo 42. Subcontratación de obras y servicios.
 
-
 #### Artículo 43. Cesión de trabajadores.
-
 
 #### Artículo 44. La sucesión de empresa.
 
 Sección 3.ª Suspensión del contrato.
 
-
 #### Artículo 45. Causas y efectos de la suspensión.
-
 
 #### Artículo 46. Excedencias.
 
-
 #### Artículo 47. Suspensión del contrato o reducción de jornada por causas económicas, técnicas, organizativas o de producción o derivadas de fuerza mayor.
-
 
 #### Artículo 48. Suspensión con reserva de puesto de trabajo.
 
 Sección 4.ª Extinción del contrato.
 
-
 #### Artículo 49. Extinción del contrato.
-
 
 #### Artículo 50. Extinción por voluntad del trabajador.
 
-
 #### Artículo 51. Despido colectivo.
-
 
 #### Artículo 52. Extinción del contrato por causas objetivas.
 
-
 #### Artículo 53. Forma y efectos de la extinción por causas objetivas.
-
 
 #### Artículo 54. Despido disciplinario.
 
-
 #### Artículo 55. Forma y efectos del despido disciplinario.
-
 
 #### Artículo 56. Despido improcedente.
 
 Sección 5.ª Procedimiento concursal.
 
-
 #### Artículo 57. Procedimiento concursal.
 
 Capítulo IV. Faltas y sanciones de los trabajadores.
-
 
 #### Artículo 58. Faltas y sanciones de los trabajadores.
 
@@ -302,11 +240,9 @@ Capítulo V. Plazos de prescripción.
 
 Sección 1.ª Prescripción de acciones derivadas del contrato.
 
-
 #### Artículo 59. Prescripción y caducidad.
 
 Sección 2.ª Prescripción de las infracciones y faltas.
-
 
 #### Artículo 60. Prescripción.
 
@@ -314,72 +250,51 @@ Título II. De los derechos de representación colectiva y de reunión de los tr
 
 Capítulo I. Del derecho de representación colectiva.
 
-
 #### Artículo 61. Participación.
 
 Sección 1.ª Órganos de representación.
 
-
 #### Artículo 62. Delegados de personal.
-
 
 #### Artículo 63. Comités de empresa.
 
-
 #### Artículo 64. Derechos de información y consulta y competencias.
-
 
 #### Artículo 65. Capacidad y sigilo profesional.
 
-
 #### Artículo 66. Composición.
 
-
 #### Artículo 67. Promoción de elecciones y mandato electoral.
-
 
 #### Artículo 68. Garantías.
 
 Sección 2.ª Procedimiento electoral.
 
-
 #### Artículo 69. Elección.
-
 
 #### Artículo 70. Votación para delegados.
 
-
 #### Artículo 71. Elección para el comité de empresa.
-
 
 #### Artículo 72. Representantes de quienes presten servicios en trabajos fijos-discontinuos y de trabajadores no fijos.
 
-
 #### Artículo 73. Mesa electoral.
-
 
 #### Artículo 74. Funciones de la mesa.
 
-
 #### Artículo 75. Votación para delegados y comités de empresa.
-
 
 #### Artículo 76. Reclamaciones en materia electoral.
 
 Capítulo II. Del derecho de reunión.
 
-
 #### Artículo 77. Las asambleas de trabajadores.
-
 
 #### Artículo 78. Lugar de reunión.
 
-
 #### Artículo 79. Convocatoria.
 
-
 #### Artículo 80. Votaciones.
-
 
 #### Artículo 81. Locales y tablón de anuncios.
 
@@ -389,26 +304,19 @@ Capítulo I. Disposiciones generales.
 
 Sección 1.ª Naturaleza y efectos de los convenios.
 
-
 #### Artículo 82. Concepto y eficacia.
-
 
 #### Artículo 83. Unidades de negociación.
 
-
 #### Artículo 84. Concurrencia.
 
-
 #### Artículo 85. Contenido.
-
 
 #### Artículo 86. Vigencia.
 
 Sección 2.ª Legitimación.
 
-
 #### Artículo 87. Legitimación.
-
 
 #### Artículo 88. Comisión negociadora.
 
@@ -416,128 +324,87 @@ Capítulo II. Procedimiento.
 
 Sección 1.ª Tramitación, aplicación e interpretación.
 
-
 #### Artículo 89. Tramitación.
 
-
 #### Artículo 90. Validez.
-
 
 #### Artículo 91. Aplicación e interpretación del convenio colectivo.
 
 Sección 2.ª Adhesión y extensión.
 
-
 #### Artículo 92. Adhesión y extensión.
-
 
 #### Disposición adicional primera. Trabajo por cuenta propia.
 
-
 #### Disposición adicional segunda. Contratos para la formación y el aprendizaje.
-
 
 #### Disposición adicional tercera. Negociación colectiva y contrato fijo de obra.
 
-
 #### Disposición adicional cuarta. Conceptos retributivos.
-
 
 #### Disposición adicional quinta. Personal de alta dirección.
 
-
 #### Disposición adicional sexta. Representación institucional de los empresarios.
-
 
 #### Disposición adicional séptima. Regulación de condiciones por rama de actividad.
 
-
 #### Disposición adicional octava. Código de Trabajo.
-
 
 #### Disposición adicional novena. Comisión Consultiva Nacional de Convenios Colectivos.
 
-
 #### Disposición adicional décima. Cláusulas de los convenios colectivos referidas al cumplimiento de la edad ordinaria de jubilación.
-
 
 #### Disposición adicional undécima. Acreditación de la capacidad representativa de las organizaciones sindicales.
 
-
 #### Disposición adicional duodécima. Preavisos.
-
 
 #### Disposición adicional decimotercera. Solución no judicial de conflictos.
 
-
 #### Disposición adicional decimocuarta. Consideración de víctimas del terrorismo a efectos laborales.
-
 
 #### Disposición adicional decimoquinta. Aplicación de los límites de duración del contrato por obra o servicio determinados y al encadenamiento de contratos en las Administraciones Públicas.
 
-
 #### Disposición adicional decimosexta. Aplicación del despido por causas económicas, técnicas, organizativas o de producción en el sector público.
-
 
 #### Disposición adicional decimoséptima. Suspensión del contrato de trabajo y reducción de jornada en las Administraciones Públicas.
 
-
 #### Disposición adicional decimoctava. Discrepancias en materia de conciliación.
-
 
 #### Disposición adicional decimonovena. Cálculo de indemnizaciones en determinados supuestos de jornada reducida.
 
-
 #### Disposición adicional vigésima. Contratos formativos celebrados con trabajadores con discapacidad.
-
 
 #### Disposición adicional vigesimoprimera. Sustitución de trabajadores excedentes por cuidado de familiares.
 
-
 #### Disposición transitoria primera. Contratos celebrados antes de la entrada en vigor de esta ley.
-
 
 #### Disposición transitoria segunda. Contratos para la formación y el aprendizaje.
 
-
 #### Disposición transitoria tercera. Contratos a tiempo parcial por jubilación parcial y de relevo y edad de jubilación.
-
 
 #### Disposición transitoria cuarta. Negociación colectiva y modalidades contractuales.
 
-
 #### Disposición transitoria quinta. Limitación del encadenamiento de modalidades contractuales.
-
 
 #### Disposición transitoria sexta. Horas complementarias.
 
-
 #### Disposición transitoria séptima. Duración del permiso de paternidad en los casos de nacimiento, adopción, guarda con fines de adopción o acogimiento hasta la entrada en vigor de la Ley 9/2009, de 6 de octubre.
-
 
 #### Disposición transitoria octava. Indemnización por finalización de contrato temporal.
 
-
 #### Disposición transitoria novena. Normas transitorias en relación con las cláusulas de los convenios colectivos referidas al cumplimiento de la edad ordinaria de jubilación.
-
 
 #### Disposición transitoria décima. Régimen aplicable a expedientes de regulación de empleo iniciados conforme a la normativa anterior.
 
-
 #### Disposición transitoria undécima. Indemnizaciones por despido improcedente.
-
 
 #### Disposición transitoria duodécima. Salarios de tramitación.
 
-
 #### Disposición final primera. Título competencial.
-
 
 #### Disposición final segunda. Desarrollo reglamentario.
 
-
 ## TÍTULO I
-
 
 **De la relación individual de trabajo**
 
@@ -546,7 +413,6 @@ CAPÍTULO I
 Disposiciones generales
 
 Sección 1.ª Ámbito y fuentes
-
 
 #### Artículo 1. Ámbito de aplicación.
 
@@ -578,7 +444,6 @@ A tales efectos se entenderá excluida del ámbito laboral la actividad de las p
 
 En la actividad de trabajo en el mar se considerará como centro de trabajo el buque, entendiéndose situado en la provincia donde radique su puerto de base.
 
-
 #### Artículo 2. Relaciones laborales de carácter especial.
 
 1. Se considerarán relaciones laborales de carácter especial:
@@ -609,7 +474,6 @@ l) Cualquier otro trabajo que sea expresamente declarado como relación laboral 
 
 2. En todos los supuestos señalados en el apartado anterior, la regulación de dichas relaciones laborales respetará los derechos básicos reconocidos por la Constitución.
 
-
 #### Artículo 3. Fuentes de la relación laboral.
 
 1. Los derechos y obligaciones concernientes a la relación laboral se regulan:
@@ -631,7 +495,6 @@ d) Por los usos y costumbres locales y profesionales.
 5. Los trabajadores no podrán disponer válidamente, antes o después de su adquisición, de los derechos que tengan reconocidos por disposiciones legales de derecho necesario. Tampoco podrán disponer válidamente de los derechos reconocidos como indisponibles por convenio colectivo.
 
 Sección 2.ª Derechos y deberes laborales básicos
-
 
 #### Artículo 4. Derechos laborales.
 
@@ -671,7 +534,6 @@ g) Al ejercicio individual de las acciones derivadas de su contrato de trabajo.
 
 h) A cuantos otros se deriven específicamente del contrato de trabajo.
 
-
 #### Artículo 5. Deberes laborales.
 
 Los trabajadores tienen como deberes básicos:
@@ -690,7 +552,6 @@ f) Cuantos se deriven, en su caso, de los respectivos contratos de trabajo.
 
 Sección 3.ª Elementos y eficacia del contrato de trabajo
 
-
 #### Artículo 6. Trabajo de los menores.
 
 1. Se prohíbe la admisión al trabajo a los menores de dieciséis años.
@@ -700,7 +561,6 @@ Sección 3.ª Elementos y eficacia del contrato de trabajo
 3. Se prohíbe realizar horas extraordinarias a los menores de dieciocho años.
 
 4. La intervención de los menores de dieciséis años en espectáculos públicos solo se autorizará en casos excepcionales por la autoridad laboral, siempre que no suponga peligro para su salud ni para su formación profesional y humana. El permiso deberá constar por escrito y para actos determinados.
-
 
 #### Artículo 7. Capacidad para contratar.
 
@@ -713,7 +573,6 @@ b) Los menores de dieciocho y mayores de dieciséis años, que vivan de forma in
 Si el representante legal de una persona de capacidad limitada la autoriza expresa o tácitamente para realizar un trabajo, queda esta también autorizada para ejercitar los derechos y cumplir los deberes que se derivan de su contrato y para su cesación.
 
 c) Los extranjeros, de acuerdo con lo dispuesto en la legislación específica sobre la materia.
-
 
 #### Artículo 8. Forma del contrato.
 
@@ -737,7 +596,6 @@ Los representantes de la Administración, así como los de las organizaciones si
 
 5. Cuando la relación laboral sea de duración superior a cuatro semanas, el empresario deberá informar por escrito al trabajador, en los términos y plazos que se establezcan reglamentariamente, sobre los elementos esenciales del contrato y las principales condiciones de ejecución de la prestación laboral, siempre que tales elementos y condiciones no figuren en el contrato de trabajo formalizado por escrito.
 
-
 #### Artículo 9. Validez del contrato.
 
 1. Si resultase nula solo una parte del contrato de trabajo, este permanecerá válido en lo restante, y se entenderá completado con los preceptos jurídicos adecuados conforme a lo dispuesto en el artículo 3.1.
@@ -748,7 +606,6 @@ Si el trabajador tuviera asignadas condiciones o retribuciones especiales en vir
 
 Sección 4.ª Modalidades del contrato de trabajo
 
-
 #### Artículo 10. Trabajo en común y contrato de grupo.
 
 1. Si el empresario diera un trabajo en común a un grupo de sus trabajadores, conservará respecto de cada uno, individualmente, sus derechos y deberes.
@@ -756,7 +613,6 @@ Sección 4.ª Modalidades del contrato de trabajo
 2. Si el empresario hubiese celebrado un contrato con un grupo de trabajadores considerado en su totalidad, no tendrá frente a cada uno de sus miembros los derechos y deberes que como tal le competen. El jefe del grupo ostentará la representación de los que lo integren, respondiendo de las obligaciones inherentes a dicha representación.
 
 3. Si el trabajador, conforme a lo pactado por escrito, asociare a su trabajo un auxiliar o ayudante, el empresario de aquel lo será también de este.
-
 
 #### Artículo 11. Contratos formativos.
 
@@ -819,7 +675,6 @@ h) La acción protectora de la Seguridad Social del trabajador contratado para l
 i) En el supuesto de que el trabajador continuase en la empresa al término del contrato se estará a lo establecido en el apartado 1.f).
 
 3. En la negociación colectiva se fijarán criterios y procedimientos tendentes a conseguir una presencia equilibrada de hombres y mujeres vinculados a la empresa mediante contratos formativos. Asimismo, podrán establecerse compromisos de conversión de los contratos formativos en contratos por tiempo indefinido.
-
 
 #### Artículo 12. Contrato a tiempo parcial y contrato de relevo.
 
@@ -915,7 +770,6 @@ d) El puesto de trabajo del trabajador relevista podrá ser el mismo del trabaja
 
 e) En la negociación colectiva se podrán establecer medidas para impulsar la celebración de contratos de relevo.
 
-
 #### Artículo 13. Trabajo a distancia.
 
 1. Tendrá la consideración de trabajo a distancia aquel en que la prestación de la actividad laboral se realice de manera preponderante en el domicilio del trabajador o en el lugar libremente elegido por este, de modo alternativo a su desarrollo presencial en el centro de trabajo de la empresa.
@@ -936,7 +790,6 @@ Contenido del contrato de trabajo
 
 Sección 1.ª Duración del contrato
 
-
 #### Artículo 14. Periodo de prueba.
 
 1. Podrá concertarse por escrito un periodo de prueba, con sujeción a los límites de duración que, en su caso, se establezcan en los convenios colectivos. En defecto de pacto en convenio, la duración del periodo de prueba no podrá exceder de seis meses para los técnicos titulados, ni de dos meses para los demás trabajadores. En las empresas de menos de veinticinco trabajadores el periodo de prueba no podrá exceder de tres meses para los trabajadores que no sean técnicos titulados.
@@ -952,7 +805,6 @@ Será nulo el pacto que establezca un periodo de prueba cuando el trabajador hay
 3. Transcurrido el periodo de prueba sin que se haya producido el desistimiento, el contrato producirá plenos efectos, computándose el tiempo de los servicios prestados en la antigüedad del trabajador en la empresa.
 
 Las situaciones de incapacidad temporal, riesgo durante el embarazo, maternidad, adopción, guarda con fines de adopción, acogimiento, riesgo durante la lactancia y paternidad, que afecten al trabajador durante el periodo de prueba, interrumpen el cómputo del mismo siempre que se produzca acuerdo entre ambas partes.
-
 
 #### Artículo 15. Duración del contrato.
 
@@ -998,7 +850,6 @@ Los convenios colectivos establecerán medidas para facilitar el acceso efectivo
 
 8. En los supuestos previstos en los apartados 1.a) y 5, el empresario deberá facilitar por escrito al trabajador, en los diez días siguientes al cumplimiento de los plazos indicados, un documento justificativo sobre su nueva condición de trabajador fijo de la empresa. En todo caso, el trabajador podrá solicitar, por escrito, al Servicio Público de Empleo correspondiente un certificado de los contratos de duración determinada o temporales celebrados, a los efectos de poder acreditar su condición de trabajador fijo en la empresa. El Servicio Público de Empleo emitirá dicho documento y lo pondrá en conocimiento de la empresa en la que el trabajador preste sus servicios.
 
-
 #### Artículo 16. Contrato fijo-discontinuo.
 
 1. El contrato por tiempo indefinido fijo-discontinuo se concertará para realizar trabajos que tengan el carácter de fijos-discontinuos y no se repitan en fechas ciertas, dentro del volumen normal de actividad de la empresa.
@@ -1012,7 +863,6 @@ A los supuestos de trabajos discontinuos que se repitan en fechas ciertas les se
 4. Los convenios colectivos de ámbito sectorial podrán acordar, cuando las peculiaridades de la actividad del sector así lo justifiquen, la celebración a tiempo parcial de los contratos fijos-discontinuos, así como los requisitos y especialidades para la conversión de contratos temporales en contratos fijos-discontinuos.
 
 Sección 2.ª Derechos y deberes derivados del contrato
-
 
 #### Artículo 17. No discriminación en las relaciones laborales.
 
@@ -1034,11 +884,9 @@ Asimismo, la negociación colectiva podrá establecer este tipo de medidas en la
 
 5. El establecimiento de planes de igualdad en las empresas se ajustará a lo dispuesto en esta ley y en la Ley Orgánica 3/2007, de 22 de marzo, para la igualdad efectiva de mujeres y hombres.
 
-
 #### Artículo 18. Inviolabilidad de la persona del trabajador.
 
 Solo podrán realizarse registros sobre la persona del trabajador, en sus taquillas y efectos particulares, cuando sean necesarios para la protección del patrimonio empresarial y del de los demás trabajadores de la empresa, dentro del centro de trabajo y en horas de trabajo. En su realización se respetará al máximo la dignidad e intimidad del trabajador y se contará con la asistencia de un representante legal de los trabajadores o, en su ausencia del centro de trabajo, de otro trabajador de la empresa, siempre que ello fuera posible.
-
 
 #### Artículo 19. Seguridad y salud en el trabajo.
 
@@ -1054,7 +902,6 @@ Solo podrán realizarse registros sobre la persona del trabajador, en sus taquil
 
 Si el riesgo de accidente fuera inminente, la paralización de las actividades podrá ser acordada por los representantes de los trabajadores, por mayoría de sus miembros. Tal acuerdo podrá ser adoptado por decisión mayoritaria de los delegados de prevención cuando no resulte posible reunir con la urgencia requerida al órgano de representación del personal. El acuerdo será comunicado de inmediato a la empresa y a la autoridad laboral, la cual, en veinticuatro horas, anulará o ratificará la paralización acordada.
 
-
 #### Artículo 20. Dirección y control de la actividad laboral.
 
 1. El trabajador estará obligado a realizar el trabajo convenido bajo la dirección del empresario o persona en quien este delegue.
@@ -1064,7 +911,6 @@ Si el riesgo de accidente fuera inminente, la paralización de las actividades p
 3. El empresario podrá adoptar las medidas que estime más oportunas de vigilancia y control para verificar el cumplimiento por el trabajador de sus obligaciones y deberes laborales, guardando en su adopción y aplicación la consideración debida a su dignidad y teniendo en cuenta, en su caso, la capacidad real de los trabajadores con discapacidad.
 
 4. El empresario podrá verificar el estado de salud del trabajador que sea alegado por este para justificar sus faltas de asistencia al trabajo, mediante reconocimiento a cargo de personal médico. La negativa del trabajador a dichos reconocimientos podrá determinar la suspensión de los derechos económicos que pudieran existir a cargo del empresario por dichas situaciones.
-
 
 #### Artículo 21. Pacto de no concurrencia y de permanencia en la empresa.
 
@@ -1082,7 +928,6 @@ b) Que se satisfaga al trabajador una compensación económica adecuada.
 
 Sección 3.ª Clasificación profesional y promoción en el trabajo
 
-
 #### Artículo 22. Sistema de clasificación profesional.
 
 1. Mediante la negociación colectiva o, en su defecto, acuerdo entre la empresa y los representantes de los trabajadores, se establecerá el sistema de clasificación profesional de los trabajadores por medio de grupos profesionales.
@@ -1092,7 +937,6 @@ Sección 3.ª Clasificación profesional y promoción en el trabajo
 3. La definición de los grupos profesionales se ajustará a criterios y sistemas que tengan como objeto garantizar la ausencia de discriminación, tanto directa como indirecta, entre mujeres y hombres.
 
 4. Por acuerdo entre el trabajador y el empresario se asignará al trabajador un grupo profesional y se establecerá como contenido de la prestación laboral objeto del contrato de trabajo la realización de todas las funciones correspondientes al grupo profesional asignado o solamente de alguna de ellas. Cuando se acuerde la polivalencia funcional o la realización de funciones propias de más de un grupo, la equiparación se realizará en virtud de las funciones que se desempeñen durante mayor tiempo.
-
 
 #### Artículo 23. Promoción y formación profesional en el trabajo.
 
@@ -1110,7 +954,6 @@ d) A la formación necesaria para su adaptación a las modificaciones operadas e
 
 3. Los trabajadores con al menos un año de antigüedad en la empresa tienen derecho a un permiso retribuido de veinte horas anuales de formación profesional para el empleo, vinculada a la actividad de la empresa, acumulables por un periodo de hasta cinco años. El derecho se entenderá cumplido en todo caso cuando el trabajador pueda realizar las acciones formativas dirigidas a la obtención de la formación profesional para el empleo en el marco de un plan de formación desarrollado por iniciativa empresarial o comprometido por la negociación colectiva. Sin perjuicio de lo anterior, no podrá comprenderse en el derecho a que se refiere este apartado la formación que deba obligatoriamente impartir la empresa a su cargo conforme a lo previsto en otras leyes. En defecto de lo previsto en convenio colectivo, la concreción del modo de disfrute del permiso se fijará de mutuo acuerdo entre trabajador y empresario.
 
-
 #### Artículo 24. Ascensos.
 
 1. Los ascensos dentro del sistema de clasificación profesional se producirán conforme a lo que se establezca en convenio o, en su defecto, en acuerdo colectivo entre la empresa y los representantes de los trabajadores.
@@ -1119,7 +962,6 @@ En todo caso los ascensos se producirán teniendo en cuenta la formación, méri
 
 2. Los ascensos y la promoción profesional en la empresa se ajustarán a criterios y sistemas que tengan como objetivo garantizar la ausencia de discriminación, tanto directa como indirecta, entre mujeres y hombres, pudiendo establecerse medidas de acción positiva dirigidas a eliminar o compensar situaciones de discriminación.
 
-
 #### Artículo 25. Promoción económica.
 
 1. El trabajador, en función del trabajo desarrollado, podrá tener derecho a una promoción económica en los términos fijados en convenio colectivo o contrato individual.
@@ -1127,7 +969,6 @@ En todo caso los ascensos se producirán teniendo en cuenta la formación, méri
 2. Lo dispuesto en el apartado anterior se entiende sin perjuicio de los derechos adquiridos o en curso de adquisición en el tramo temporal correspondiente.
 
 Sección 4.ª Salarios y garantías salariales
-
 
 #### Artículo 26. Del salario.
 
@@ -1142,7 +983,6 @@ En ningún caso, incluidas las relaciones laborales de carácter especial a que 
 4. Todas las cargas fiscales y de Seguridad Social a cargo del trabajador serán satisfechas por el mismo, siendo nulo todo pacto en contrario.
 
 5. Operará la compensación y absorción cuando los salarios realmente abonados, en su conjunto y cómputo anual, sean más favorables para los trabajadores que los fijados en el orden normativo o convencional de referencia.
-
 
 #### Artículo 27. Salario mínimo interprofesional.
 
@@ -1162,11 +1002,9 @@ La revisión del salario mínimo interprofesional no afectará a la estructura n
 
 2. El salario mínimo interprofesional, en su cuantía, es inembargable.
 
-
 #### Artículo 28. Igualdad de remuneración por razón de sexo.
 
 El empresario está obligado a pagar por la prestación de un trabajo de igual valor la misma retribución, satisfecha directa o indirectamente, y cualquiera que sea la naturaleza de la misma, salarial o extrasalarial, sin que pueda producirse discriminación alguna por razón de sexo en ninguno de los elementos o condiciones de aquella.
-
 
 #### Artículo 29. Liquidación y pago.
 
@@ -1186,18 +1024,15 @@ El trabajador y sus representantes legales pueden pedir en cualquier momento com
 
 4. El salario, así como el pago delegado de las prestaciones de la Seguridad Social, podrá efectuarlo el empresario en moneda de curso legal o mediante cheque u otra modalidad de pago similar a través de entidades de crédito, previo informe al comité de empresa o delegados de personal.
 
-
 #### Artículo 30. Imposibilidad de la prestación.
 
 Si el trabajador no pudiera prestar sus servicios una vez vigente el contrato porque el empresario se retrasare en darle trabajo por impedimentos imputables al mismo y no al trabajador, este conservará el derecho a su salario, sin que pueda hacérsele compensar el que perdió con otro trabajo realizado en otro tiempo.
-
 
 #### Artículo 31. Gratificaciones extraordinarias.
 
 El trabajador tiene derecho a dos gratificaciones extraordinarias al año, una de ellas con ocasión de las fiestas de Navidad y la otra en el mes que se fije por convenio colectivo o por acuerdo entre el empresario y los representantes legales de los trabajadores. Igualmente se fijará por convenio colectivo la cuantía de tales gratificaciones.
 
 No obstante, podrá acordarse en convenio colectivo que las gratificaciones extraordinarias se prorrateen en las doce mensualidades.
-
 
 #### Artículo 32. Garantías del salario.
 
@@ -1210,7 +1045,6 @@ No obstante, podrá acordarse en convenio colectivo que las gratificaciones extr
 4. El plazo para ejercitar los derechos de preferencia del crédito salarial es de un año, a contar desde el momento en que debió percibirse el salario, transcurrido el cual prescribirán tales derechos.
 
 5. Las preferencias reconocidas en los apartados precedentes serán de aplicación en todos los supuestos en los que, no hallándose el empresario declarado en concurso, los correspondientes créditos concurran con otro u otros sobre bienes de aquel. En caso de concurso, serán de aplicación las disposiciones de la Ley 22/2003, de 9 de julio, Concursal, relativas a la clasificación de los créditos y a las ejecuciones y apremios.
-
 
 #### Artículo 33. El Fondo de Garantía Salarial.
 
@@ -1260,7 +1094,6 @@ Asimismo, el Fondo de Garantía Salarial prestará a la institución de garantí
 
 Sección 5.ª Tiempo de trabajo
 
-
 #### Artículo 34. Jornada.
 
 1. La duración de la jornada de trabajo será la pactada en los convenios colectivos o contratos de trabajo.
@@ -1293,7 +1126,6 @@ En el caso de los trabajadores menores de dieciocho años, el periodo de descans
 
 A tal fin, se promoverá la utilización de la jornada continuada, el horario flexible u otros modos de organización del tiempo de trabajo y de los descansos que permitan la mayor compatibilidad entre el derecho a la conciliación de la vida personal, familiar y laboral de los trabajadores y la mejora de la productividad en las empresas.
 
-
 #### Artículo 35. Horas extraordinarias.
 
 1. Tendrán la consideración de horas extraordinarias aquellas horas de trabajo que se realicen sobre la duración máxima de la jornada ordinaria de trabajo, fijada de acuerdo con el artículo anterior. Mediante convenio colectivo o, en su defecto, contrato individual, se optará entre abonar las horas extraordinarias en la cuantía que se fije, que en ningún caso podrá ser inferior al valor de la hora ordinaria, o compensarlas por tiempos equivalentes de descanso retribuido. En ausencia de pacto al respecto, se entenderá que las horas extraordinarias realizadas deberán ser compensadas mediante descanso dentro de los cuatro meses siguientes a su realización.
@@ -1309,7 +1141,6 @@ El Gobierno podrá suprimir o reducir el número máximo de horas extraordinaria
 4. La prestación de trabajo en horas extraordinarias será voluntaria, salvo que su realización se haya pactado en convenio colectivo o contrato individual de trabajo, dentro de los límites del apartado 2.
 
 5. A efectos del cómputo de horas extraordinarias, la jornada de cada trabajador se registrará día a día y se totalizará en el periodo fijado para el abono de las retribuciones, entregando copia del resumen al trabajador en el recibo correspondiente.
-
 
 #### Artículo 36. Trabajo nocturno, trabajo a turnos y ritmo de trabajo.
 
@@ -1334,7 +1165,6 @@ Las empresas que por la naturaleza de su actividad realicen el trabajo en régim
 El empresario deberá garantizar que los trabajadores nocturnos que ocupe dispongan de una evaluación gratuita de su estado de salud, antes de su afectación a un trabajo nocturno y, posteriormente, a intervalos regulares, en los términos establecidos en la Ley 31/1995, de 8 de noviembre, de Prevención de Riesgos Laborales, y en sus normas de desarrollo. Los trabajadores nocturnos a los que se reconozcan problemas de salud ligados al hecho de su trabajo nocturno tendrán derecho a ser destinados a un puesto de trabajo diurno que exista en la empresa y para el que sean profesionalmente aptos. El cambio de puesto de trabajo se llevará a cabo de conformidad con lo dispuesto en los artículos 39 y 41, en su caso, de la presente ley.
 
 5. El empresario que organice el trabajo en la empresa según un cierto ritmo deberá tener en cuenta el principio general de adaptación del trabajo a la persona, especialmente de cara a atenuar el trabajo monótono y repetitivo en función del tipo de actividad y de las exigencias en materia de seguridad y salud de los trabajadores. Dichas exigencias deberán ser tenidas particularmente en cuenta a la hora de determinar los periodos de descanso durante la jornada de trabajo.
-
 
 #### Artículo 37. Descanso semanal, fiestas y permisos.
 
@@ -1392,7 +1222,6 @@ Las discrepancias surgidas entre empresario y trabajador sobre la concreción ho
 
 Estos derechos se podrán ejercitar en los términos que para estos supuestos concretos se establezcan en los convenios colectivos o en los acuerdos entre la empresa y los representantes de los trabajadores, o conforme al acuerdo entre la empresa y los trabajadores afectados. En su defecto, la concreción de estos derechos corresponderá a estos, siendo de aplicación las reglas establecidas en el apartado anterior, incluidas las relativas a la resolución de discrepancias.
 
-
 #### Artículo 38. Vacaciones anuales.
 
 1. El periodo de vacaciones anuales retribuidas, no sustituible por compensación económica, será el pactado en convenio colectivo o contrato individual. En ningún caso la duración será inferior a treinta días naturales.
@@ -1413,7 +1242,6 @@ Modificación, suspensión y extinción del contrato de trabajo
 
 Sección 1.ª Movilidad funcional y geográfica
 
-
 #### Artículo 39. Movilidad funcional.
 
 1. La movilidad funcional en la empresa se efectuará de acuerdo a las titulaciones académicas o profesionales precisas para ejercer la prestación laboral y con respeto a la dignidad del trabajador.
@@ -1425,7 +1253,6 @@ En el caso de encomienda de funciones superiores a las del grupo profesional por
 3. El trabajador tendrá derecho a la retribución correspondiente a las funciones que efectivamente realice, salvo en los casos de encomienda de funciones inferiores, en los que mantendrá la retribución de origen. No cabrá invocar como causa de despido objetivo la ineptitud sobrevenida o la falta de adaptación en los supuestos de realización de funciones distintas de las habituales como consecuencia de la movilidad funcional.
 
 4. El cambio de funciones distintas de las pactadas no incluido en los supuestos previstos en este artículo requerirá el acuerdo de las partes o, en su defecto, el sometimiento a las reglas previstas para las modificaciones sustanciales de condiciones de trabajo o a las que a tal fin se hubieran establecido en convenio colectivo.
-
 
 #### Artículo 40. Movilidad geográfica.
 
@@ -1488,7 +1315,6 @@ Contra la orden de desplazamiento, sin perjuicio de su ejecutividad, podrá recu
 Los desplazamientos cuya duración en un periodo de tres años exceda de doce meses tendrán, a todos los efectos, el tratamiento previsto en esta ley para los traslados.
 
 7. Los representantes legales de los trabajadores tendrán prioridad de permanencia en los puestos de trabajo a que se refiere este artículo. Mediante convenio colectivo o acuerdo alcanzado durante el periodo de consultas se podrán establecer prioridades de permanencia a favor de trabajadores de otros colectivos, tales como trabajadores con cargas familiares, mayores de determinada edad o personas con discapacidad.
-
 
 #### Artículo 41. Modificaciones sustanciales de condiciones de trabajo.
 
@@ -1574,7 +1400,6 @@ Contra las decisiones a que se refiere el presente apartado se podrá reclamar e
 
 Sección 2.ª Garantías por cambio de empresario
 
-
 #### Artículo 42. Subcontratación de obras y servicios.
 
 1. Los empresarios que contraten o subcontraten con otros la realización de obras o servicios correspondientes a la propia actividad de aquellos deberán comprobar que dichos contratistas están al corriente en el pago de las cuotas de la Seguridad Social. Al efecto, recabarán por escrito, con identificación de la empresa afectada, certificación negativa por descubiertos en la Tesorería General de la Seguridad Social, que deberá librar inexcusablemente dicha certificación en el término de treinta días improrrogables y en los términos que reglamentariamente se establezcan. Transcurrido este plazo, quedará exonerado de responsabilidad el empresario solicitante.
@@ -1611,7 +1436,6 @@ Lo dispuesto en el párrafo anterior no será de aplicación a las reclamaciones
 
 La capacidad de representación y ámbito de actuación de los representantes de los trabajadores, así como su crédito horario, vendrán determinados por la legislación vigente y, en su caso, por los convenios colectivos de aplicación.
 
-
 #### Artículo 43. Cesión de trabajadores.
 
 1. La contratación de trabajadores para cederlos temporalmente a otra empresa solo podrá efectuarse a través de empresas de trabajo temporal debidamente autorizadas en los términos que legalmente se establezcan.
@@ -1621,7 +1445,6 @@ La capacidad de representación y ámbito de actuación de los representantes de
 3. Los empresarios, cedente y cesionario, que infrinjan lo señalado en los apartados anteriores responderán solidariamente de las obligaciones contraídas con los trabajadores y con la Seguridad Social, sin perjuicio de las demás responsabilidades, incluso penales, que procedan por dichos actos.
 
 4. Los trabajadores sometidos al tráfico prohibido tendrán derecho a adquirir la condición de fijos, a su elección, en la empresa cedente o cesionaria. Los derechos y obligaciones del trabajador en la empresa cesionaria serán los que correspondan en condiciones ordinarias a un trabajador que preste servicios en el mismo o equivalente puesto de trabajo, si bien la antigüedad se computará desde el inicio de la cesión ilegal.
-
 
 #### Artículo 44. La sucesión de empresa.
 
@@ -1661,7 +1484,6 @@ En los supuestos de fusión y escisión de sociedades, el cedente y el cesionari
 
 Sección 3.ª Suspensión del contrato
 
-
 #### Artículo 45. Causas y efectos de la suspensión.
 
 1. El contrato de trabajo podrá suspenderse por las siguientes causas:
@@ -1696,7 +1518,6 @@ n) Decisión de la trabajadora que se vea obligada a abandonar su puesto de trab
 
 2. La suspensión exonera de las obligaciones recíprocas de trabajar y remunerar el trabajo.
 
-
 #### Artículo 46. Excedencias.
 
 1. La excedencia podrá ser voluntaria o forzosa. La forzosa, que dará derecho a la conservación del puesto y al cómputo de la antigüedad de su vigencia, se concederá por la designación o elección para un cargo público que imposibilite la asistencia al trabajo. El reingreso deberá ser solicitado dentro del mes siguiente al cese en el cargo público.
@@ -1720,7 +1541,6 @@ No obstante, cuando el trabajador forme parte de una familia que tenga reconocid
 5. El trabajador en excedencia voluntaria conserva solo un derecho preferente al reingreso en las vacantes de igual o similar categoría a la suya que hubiera o se produjeran en la empresa.
 
 6. La situación de excedencia podrá extenderse a otros supuestos colectivamente acordados, con el régimen y los efectos que allí se prevean.
-
 
 #### Artículo 47. Suspensión del contrato o reducción de jornada por causas económicas, técnicas, organizativas o de producción o derivadas de fuerza mayor.
 
@@ -1761,7 +1581,6 @@ Contra las decisiones a que se refiere el presente apartado podrá reclamar el t
 3. Igualmente, el contrato de trabajo podrá ser suspendido por causa derivada de fuerza mayor con arreglo al procedimiento establecido en el artículo 51.7 y normas reglamentarias de desarrollo.
 
 4. Durante las suspensiones de contratos o las reducciones de jornada se promoverá el desarrollo de acciones formativas vinculadas a la actividad profesional de los trabajadores afectados cuyo objeto sea aumentar su polivalencia o incrementar su empleabilidad.
-
 
 #### Artículo 48. Suspensión con reserva de puesto de trabajo.
 
@@ -1811,7 +1630,6 @@ El trabajador deberá comunicar al empresario, con la debida antelación, el eje
 
 Sección 4.ª Extinción del contrato
 
-
 #### Artículo 49. Extinción del contrato.
 
 1. El contrato de trabajo se extinguirá:
@@ -1856,7 +1674,6 @@ m) Por decisión de la trabajadora que se vea obligada a abandonar definitivamen
 
 El trabajador podrá solicitar la presencia de un representante legal de los trabajadores en el momento de proceder a la firma del recibo del finiquito, haciéndose constar en el mismo el hecho de su firma en presencia de un representante legal de los trabajadores, o bien que el trabajador no ha hecho uso de esta posibilidad. Si el empresario impidiese la presencia del representante en el momento de la firma, el trabajador podrá hacerlo constar en el propio recibo, a los efectos oportunos.
 
-
 #### Artículo 50. Extinción por voluntad del trabajador.
 
 1. Serán causas justas para que el trabajador pueda solicitar la extinción del contrato:
@@ -1868,7 +1685,6 @@ b) La falta de pago o retrasos continuados en el abono del salario pactado.
 c) Cualquier otro incumplimiento grave de sus obligaciones por parte del empresario, salvo los supuestos de fuerza mayor, así como la negativa del mismo a reintegrar al trabajador en sus anteriores condiciones de trabajo en los supuestos previstos en los artículos 40 y 41, cuando una sentencia judicial haya declarado los mismos injustificados.
 
 2. En tales casos, el trabajador tendrá derecho a las indemnizaciones señaladas para el despido improcedente.
-
 
 #### Artículo 51. Despido colectivo.
 
@@ -1960,7 +1776,6 @@ Sin perjuicio de lo establecido en el párrafo anterior y de las responsabilidad
 
 11. Las empresas que realicen despidos colectivos de acuerdo con lo establecido en este artículo, y que incluyan a trabajadores de cincuenta o más años de edad, deberán efectuar una aportación económica al Tesoro Público de acuerdo con lo establecido legalmente.
 
-
 #### Artículo 52. Extinción del contrato por causas objetivas.
 
 El contrato podrá extinguirse:
@@ -1982,7 +1797,6 @@ Tampoco se computarán las ausencias que obedezcan a un tratamiento médico de c
 e) En el caso de contratos por tiempo indefinido concertados directamente por entidades sin ánimo de lucro para la ejecución de planes y programas públicos determinados, sin dotación económica estable y financiados por las Administraciones Públicas mediante consignaciones presupuestarias o extrapresupuestarias anuales consecuencia de ingresos externos de carácter finalista, por la insuficiencia de la correspondiente consignación para el mantenimiento del contrato de trabajo de que se trate.
 
 Cuando la extinción afecte a un número de trabajadores igual o superior al establecido en el artículo 51.1 se deberá seguir el procedimiento previsto en dicho artículo.
-
 
 #### Artículo 53. Forma y efectos de la extinción por causas objetivas.
 
@@ -2022,7 +1836,6 @@ a) En caso de procedencia, el trabajador tendrá derecho a la indemnización pre
 
 b) Si la extinción se declara improcedente y el empresario procede a la readmisión, el trabajador habrá de reintegrarle la indemnización percibida. En caso de sustitución de la readmisión por compensación económica, se deducirá de esta el importe de dicha indemnización.
 
-
 #### Artículo 54. Despido disciplinario.
 
 1. El contrato de trabajo podrá extinguirse por decisión del empresario, mediante despido basado en un incumplimiento grave y culpable del trabajador.
@@ -2042,7 +1855,6 @@ e) La disminución continuada y voluntaria en el rendimiento de trabajo normal o
 f) La embriaguez habitual o toxicomanía si repercuten negativamente en el trabajo.
 
 g) El acoso por razón de origen racial o étnico, religión o convicciones, discapacidad, edad u orientación sexual y el acoso sexual o por razón de sexo al empresario o a las personas que trabajan en la empresa.
-
 
 #### Artículo 55. Forma y efectos del despido disciplinario.
 
@@ -2076,7 +1888,6 @@ Lo establecido en las letras anteriores será de aplicación, salvo que, en esos
 
 7. El despido procedente convalidará la extinción del contrato de trabajo que con aquel se produjo, sin derecho a indemnización ni a salarios de tramitación.
 
-
 #### Artículo 56. Despido improcedente.
 
 1. Cuando el despido sea declarado improcedente, el empresario, en el plazo de cinco días desde la notificación de la sentencia, podrá optar entre la readmisión del trabajador o el abono de una indemnización equivalente a treinta y tres días de salario por año de servicio, prorrateándose por meses los periodos de tiempo inferiores a un año, hasta un máximo de veinticuatro mensualidades. La opción por la indemnización determinará la extinción del contrato de trabajo, que se entenderá producida en la fecha del cese efectivo en el trabajo.
@@ -2093,7 +1904,6 @@ En los casos de despido en que, con arreglo a este apartado, sean por cuenta del
 
 Sección 5.ª Procedimiento concursal
 
-
 #### Artículo 57. Procedimiento concursal.
 
 En caso de concurso, a los supuestos de modificación, suspensión y extinción colectivas de los contratos de trabajo y de sucesión de empresa, se aplicarán las especialidades previstas en la Ley 22/2003, de 9 de julio, Concursal.
@@ -2101,7 +1911,6 @@ En caso de concurso, a los supuestos de modificación, suspensión y extinción 
 CAPÍTULO IV
 
 Faltas y sanciones de los trabajadores
-
 
 #### Artículo 58. Faltas y sanciones de los trabajadores.
 
@@ -2116,7 +1925,6 @@ CAPÍTULO V
 Plazos de prescripción
 
 Sección 1.ª Prescripción de acciones derivadas del contrato
-
 
 #### Artículo 59. Prescripción y caducidad.
 
@@ -2138,16 +1946,13 @@ El plazo de caducidad quedará interrumpido por la presentación de la solicitud
 
 Sección 2.ª Prescripción de las infracciones y faltas
 
-
 #### Artículo 60. Prescripción.
 
 1. Las infracciones cometidas por el empresario prescribirán conforme a lo establecido en el texto refundido de la Ley sobre Infracciones y Sanciones en el Orden Social, aprobado por el Real Decreto Legislativo 5/2000, de 4 de agosto.
 
 2. Respecto a los trabajadores, las faltas leves prescribirán a los diez días; las graves, a los veinte días, y las muy graves, a los sesenta días a partir de la fecha en que la empresa tuvo conocimiento de su comisión y, en todo caso, a los seis meses de haberse cometido.
 
-
 ## TÍTULO II
-
 
 **De los derechos de representación colectiva y de reunión de los trabajadores en la empresa**
 
@@ -2155,13 +1960,11 @@ CAPÍTULO I
 
 Del derecho de representación colectiva
 
-
 #### Artículo 61. Participación.
 
 De conformidad con lo dispuesto en el artículo 4 y sin perjuicio de otras formas de participación, los trabajadores tienen derecho a participar en la empresa a través de los órganos de representación regulados en este título.
 
 Sección 1.ª Órganos de representación
-
 
 #### Artículo 62. Delegados de personal.
 
@@ -2172,7 +1975,6 @@ Los trabajadores elegirán, mediante sufragio libre, personal, secreto y directo
 2. Los delegados de personal ejercerán mancomunadamente ante el empresario la representación para la que fueron elegidos y tendrán las mismas competencias establecidas para los comités de empresa.
 
 Los delegados de personal observarán las normas que sobre sigilo profesional están establecidas para los miembros de comités de empresa en el artículo 65.
-
 
 #### Artículo 63. Comités de empresa.
 
@@ -2185,7 +1987,6 @@ Los delegados de personal observarán las normas que sobre sigilo profesional es
 En la constitución del comité intercentros se guardará la proporcionalidad de los sindicatos según los resultados electorales considerados globalmente.
 
 Tales comités intercentros no podrán arrogarse otras funciones que las que expresamente se les conceda en el convenio colectivo en que se acuerde su creación.
-
 
 #### Artículo 64. Derechos de información y consulta y competencias.
 
@@ -2263,7 +2064,6 @@ e) Informar a sus representados en todos los temas y cuestiones señalados en es
 
 9. Respetando lo establecido legal o reglamentariamente, en los convenios colectivos se podrán establecer disposiciones específicas relativas al contenido y a las modalidades de ejercicio de los derechos de información y consulta previstos en este artículo, así como al nivel de representación más adecuado para ejercerlos.
 
-
 #### Artículo 65. Capacidad y sigilo profesional.
 
 1. Se reconoce al comité de empresa capacidad, como órgano colegiado, para ejercer acciones administrativas o judiciales en todo lo relativo al ámbito de sus competencias, por decisión mayoritaria de sus miembros.
@@ -2284,7 +2084,6 @@ Asimismo, se tramitarán conforme a este proceso los litigios relativos al cumpl
 
 Lo dispuesto en este apartado se entiende sin perjuicio de lo previsto en el texto refundido de la Ley sobre Infracciones y Sanciones en el Orden Social, aprobado por el Real Decreto Legislativo 5/2000, de 4 de agosto, para los casos de negativa injustificada de la información a que tienen derecho los representantes de los trabajadores.
 
-
 #### Artículo 66. Composición.
 
 1. El número de miembros del comité de empresa se determinará de acuerdo con la siguiente escala:
@@ -2304,7 +2103,6 @@ f) De mil en adelante, dos por cada mil o fracción, con el máximo de setenta y
 2. Los comités de empresa o centro de trabajo elegirán de entre sus miembros un presidente y un secretario del comité, y elaborarán su propio reglamento de procedimiento, que no podrá contravenir lo dispuesto en la ley, remitiendo copia del mismo a la autoridad laboral, a efectos de registro, y a la empresa.
 
 Los comités deberán reunirse cada dos meses o siempre que lo solicite un tercio de sus miembros o un tercio de los trabajadores representados.
-
 
 #### Artículo 67. Promoción de elecciones y mandato electoral.
 
@@ -2331,7 +2129,6 @@ Solamente podrán ser revocados los delegados de personal y miembros del comité
 4. En el caso de producirse vacante por cualquier causa en los comités de empresa o de centros de trabajo, aquella se cubrirá automáticamente por el trabajador siguiente en la lista a la que pertenezca el sustituido. Cuando la vacante se refiera a los delegados de personal, se cubrirá automáticamente por el trabajador que hubiera obtenido en la votación un número de votos inmediatamente inferior al último de los elegidos. El sustituto lo será por el tiempo que reste del mandato.
 
 5. Las sustituciones, revocaciones, dimisiones y extinciones de mandato se comunicarán a la oficina pública dependiente de la autoridad laboral y al empresario, publicándose asimismo en el tablón de anuncios.
-
 
 #### Artículo 68. Garantías.
 
@@ -2361,7 +2158,6 @@ Podrá pactarse en convenio colectivo la acumulación de horas de los distintos 
 
 Sección 2.ª Procedimiento electoral
 
-
 #### Artículo 69. Elección.
 
 1. Los delegados de personal y los miembros del comité de empresa se elegirán por todos los trabajadores mediante sufragio personal, directo, libre y secreto, que podrá emitirse por correo en la forma que establezcan las disposiciones de desarrollo de esta ley.
@@ -2372,11 +2168,9 @@ Los trabajadores extranjeros podrán ser electores y elegibles cuando reúnan la
 
 3. Se podrán presentar candidatos para las elecciones de delegados de personal y miembros del comité de empresa por los sindicatos de trabajadores legalmente constituidos o por las coaliciones formadas por dos o más de ellos, que deberán tener una denominación concreta atribuyéndose sus resultados a la coalición. Igualmente podrán presentarse los trabajadores que avalen su candidatura con un número de firmas de electores de su mismo centro y colegio, en su caso, equivalente al menos a tres veces el número de puestos a cubrir.
 
-
 #### Artículo 70. Votación para delegados.
 
 En la elección para delegados de personal, cada elector podrá dar su voto a un número máximo de aspirantes equivalente al de puestos a cubrir entre los candidatos proclamados. Resultarán elegidos los que obtengan el mayor número de votos. En caso de empate, resultará elegido el trabajador de mayor antigüedad en la empresa.
-
 
 #### Artículo 71. Elección para el comité de empresa.
 
@@ -2396,7 +2190,6 @@ c) Dentro de cada lista resultarán elegidos los candidatos por el orden en que 
 
 3. La inobservancia de cualquiera de las reglas anteriores determinará la anulabilidad de la elección del candidato o candidatos afectados.
 
-
 #### Artículo 72. Representantes de quienes presten servicios en trabajos fijos-discontinuos y de trabajadores no fijos.
 
 1. Quienes presten servicios en trabajos fijos-discontinuos y los trabajadores vinculados por contrato de duración determinada estarán representados por los órganos que se establecen en este título conjuntamente con los trabajadores fijos de plantilla.
@@ -2406,7 +2199,6 @@ c) Dentro de cada lista resultarán elegidos los candidatos por el orden en que 
 a) Quienes presten servicios en trabajos fijos-discontinuos y los trabajadores vinculados por contrato de duración determinada superior a un año se computarán como trabajadores fijos de plantilla.
 
 b) Los contratados por término de hasta un año se computarán según el número de días trabajados en el periodo de un año anterior a la convocatoria de la elección. Cada doscientos días trabajados o fracción se computará como un trabajador más.
-
 
 #### Artículo 73. Mesa electoral.
 
@@ -2419,7 +2211,6 @@ b) Los contratados por término de hasta un año se computarán según el númer
 4. Ninguno de los componentes de la mesa podrá ser candidato y, de serlo, le sustituirá en ella su suplente.
 
 5. Cada candidato o candidatura, en su caso, podrá nombrar un interventor por mesa. Asimismo, el empresario podrá designar un representante suyo que asista a la votación y al escrutinio.
-
 
 #### Artículo 74. Funciones de la mesa.
 
@@ -2453,7 +2244,6 @@ Las candidaturas se presentarán durante los nueve días siguientes a la publica
 
 Entre la proclamación de candidatos y la votación mediarán al menos cinco días.
 
-
 #### Artículo 75. Votación para delegados y comités de empresa.
 
 1. El acto de la votación se efectuará en el centro o lugar de trabajo y durante la jornada laboral, teniéndose en cuenta las normas que regulen el voto por correo.
@@ -2479,7 +2269,6 @@ La denegación del registro de un acta por la oficina pública dependiente de la
 En estos supuestos, la oficina pública dependiente de la autoridad laboral requerirá, dentro del siguiente día hábil, al presidente de la mesa electoral para que en el plazo de diez días hábiles proceda a la subsanación correspondiente. Dicho requerimiento será comunicado a los sindicatos que hayan obtenido representación y al resto de las candidaturas. Una vez efectuada la subsanación, esta oficina pública procederá al registro del acta electoral correspondiente. Transcurrido dicho plazo sin que se haya efectuado la subsanación o no realizada esta en forma, la oficina pública dependiente de la autoridad laboral procederá, en el plazo de diez días hábiles, a denegar el registro, comunicándolo a los sindicatos que hayan obtenido representación y al presidente de la mesa. En el caso de que la denegación del registro se deba a la ausencia de comunicación de la promoción electoral a la oficina pública dependiente de la autoridad laboral no cabrá requerimiento de subsanación, por lo que, comprobada la falta por dicha oficina pública, esta procederá sin más trámite a la denegación del registro, comunicándolo al presidente de la mesa electoral, a los sindicatos que hayan obtenido representación y al resto de las candidaturas.
 
 La resolución denegatoria del registro podrá ser impugnada ante el orden jurisdiccional social.
-
 
 #### Artículo 76. Reclamaciones en materia electoral.
 
@@ -2523,7 +2312,6 @@ CAPÍTULO II
 
 Del derecho de reunión
 
-
 #### Artículo 77. Las asambleas de trabajadores.
 
 1. De conformidad con lo dispuesto en el artículo 4, los trabajadores de una misma empresa o centro de trabajo tienen derecho a reunirse en asamblea.
@@ -2531,7 +2319,6 @@ Del derecho de reunión
 La asamblea podrá ser convocada por los delegados de personal, el comité de empresa o centro de trabajo, o por un número de trabajadores no inferior al treinta y tres por ciento de la plantilla. La asamblea será presidida, en todo caso, por el comité de empresa o por los delegados de personal mancomunadamente, que serán responsables del normal desarrollo de la misma, así como de la presencia en la asamblea de personas no pertenecientes a la empresa. Solo podrá tratarse en ella de asuntos que figuren previamente incluidos en el orden del día. La presidencia comunicará al empresario la convocatoria y los nombres de las personas no pertenecientes a la empresa que vayan a asistir a la asamblea y acordará con este las medidas oportunas para evitar perjuicios en la actividad normal de la empresa.
 
 2. Cuando por trabajarse en turnos, por insuficiencia de los locales o por cualquier otra circunstancia, no pueda reunirse simultáneamente toda la plantilla sin perjuicio o alteración en el normal desarrollo de la producción, las diversas reuniones parciales que hayan de celebrarse se considerarán como una sola y fechadas en el día de la primera.
-
 
 #### Artículo 78. Lugar de reunión.
 
@@ -2549,24 +2336,19 @@ d) Cierre legal de la empresa.
 
 Las reuniones informativas sobre convenios colectivos que les sean de aplicación no estarán afectadas por lo establecido en la letra b).
 
-
 #### Artículo 79. Convocatoria.
 
 La convocatoria, con expresión del orden del día propuesto por los convocantes, se comunicará al empresario con cuarenta y ocho horas de antelación, como mínimo, debiendo este acusar recibo.
-
 
 #### Artículo 80. Votaciones.
 
 Cuando se someta a la asamblea por parte de los convocantes la adopción de acuerdos que afecten al conjunto de los trabajadores, se requerirá para la validez de aquellos el voto favorable personal, libre, directo y secreto, incluido el voto por correo, de la mitad más uno de los trabajadores de la empresa o centro de trabajo.
 
-
 #### Artículo 81. Locales y tablón de anuncios.
 
 En las empresas o centros de trabajo, siempre que sus características lo permitan, se pondrá a disposición de los delegados de personal o del comité de empresa un local adecuado en el que puedan desarrollar sus actividades y comunicarse con los trabajadores, así como uno o varios tablones de anuncios. La representación legal de los trabajadores de las empresas contratistas y subcontratistas que compartan de forma continuada centro de trabajo podrán hacer uso de dichos locales en los términos que acuerden con la empresa. Las posibles discrepancias se resolverán por la autoridad laboral, previo informe de la Inspección de Trabajo y Seguridad Social.
 
-
 ## TÍTULO III
-
 
 **De la negociación colectiva y de los convenios colectivos**
 
@@ -2575,7 +2357,6 @@ CAPÍTULO I
 Disposiciones generales
 
 Sección 1.ª Naturaleza y efectos de los convenios
-
 
 #### Artículo 82. Concepto y eficacia.
 
@@ -2617,7 +2398,6 @@ El resultado de los procedimientos a que se refieren los párrafos anteriores qu
 
 4. El convenio colectivo que sucede a uno anterior puede disponer sobre los derechos reconocidos en aquel. En dicho supuesto se aplicará, íntegramente, lo regulado en el nuevo convenio.
 
-
 #### Artículo 83. Unidades de negociación.
 
 1. Los convenios colectivos tendrán el ámbito de aplicación que las partes acuerden.
@@ -2627,7 +2407,6 @@ El resultado de los procedimientos a que se refieren los párrafos anteriores qu
 Estas cláusulas podrán igualmente pactarse en convenios o acuerdos colectivos sectoriales, de ámbito estatal o autonómico, por aquellos sindicatos y asociaciones empresariales que cuenten con la legitimación necesaria, de conformidad con lo establecido en esta ley.
 
 3. Dichas organizaciones de trabajadores y empresarios podrán igualmente elaborar acuerdos sobre materias concretas. Estos acuerdos, así como los acuerdos interprofesionales a que se refiere el apartado 2, tendrán el tratamiento de esta ley para los convenios colectivos.
-
 
 #### Artículo 84. Concurrencia.
 
@@ -2657,7 +2436,6 @@ Los acuerdos y convenios colectivos a que se refiere el artículo 83.2 no podrá
 
 4. En el supuesto previsto en el apartado anterior, y salvo que resultare de aplicación un régimen distinto establecido mediante acuerdo o convenio colectivo de ámbito estatal negociado según el artículo 83.2, se considerarán materias no negociables en el ámbito de una comunidad autónoma el periodo de prueba, las modalidades de contratación, la clasificación profesional, la jornada máxima anual de trabajo, el régimen disciplinario, las normas mínimas en materia de prevención de riesgos laborales y la movilidad geográfica.
 
-
 #### Artículo 85. Contenido.
 
 1. Dentro del respeto a las leyes, los convenios colectivos podrán regular materias de índole económica, laboral, sindical y, en general, cuantas otras afecten a las condiciones de empleo y al ámbito de relaciones de los trabajadores y sus organizaciones representativas con el empresario y las asociaciones empresariales, incluidos procedimientos para resolver las discrepancias surgidas en los periodos de consulta previstos en los artículos 40, 41, 47 y 51; los laudos arbitrales que a estos efectos puedan dictarse tendrán la misma eficacia y tramitación que los acuerdos en el periodo de consultas, siendo susceptibles de impugnación en los mismos términos que los laudos dictados para la solución de las controversias derivadas de la aplicación de los convenios.
@@ -2684,7 +2462,6 @@ d) Forma y condiciones de denuncia del convenio, así como plazo mínimo para di
 
 e) Designación de una comisión paritaria de la representación de las partes negociadoras para entender de aquellas cuestiones establecidas en la ley y de cuantas otras le sean atribuidas, así como establecimiento de los procedimientos y plazos de actuación de esta comisión, incluido el sometimiento de las discrepancias producidas en su seno a los sistemas no judiciales de solución de conflictos establecidos mediante los acuerdos interprofesionales de ámbito estatal o autonómico previstos en el artículo 83.
 
-
 #### Artículo 86. Vigencia.
 
 1. Corresponde a las partes negociadoras establecer la duración de los convenios, pudiendo eventualmente pactarse distintos periodos de vigencia para cada materia o grupo homogéneo de materias dentro del mismo convenio.
@@ -2704,7 +2481,6 @@ Transcurrido un año desde la denuncia del convenio colectivo sin que se haya ac
 4. El convenio que sucede a uno anterior deroga en su integridad a este último, salvo los aspectos que expresamente se mantengan.
 
 Sección 2.ª Legitimación
-
 
 #### Artículo 87. Legitimación.
 
@@ -2738,7 +2514,6 @@ En aquellos sectores en los que no existan asociaciones empresariales que cuente
 
 5. Todo sindicato, federación o confederación sindical, y toda asociación empresarial que reúna el requisito de legitimación, tendrá derecho a formar parte de la comisión negociadora.
 
-
 #### Artículo 88. Comisión negociadora.
 
 1. El reparto de miembros con voz y voto en el seno de la comisión negociadora se efectuará con respeto al derecho de todos los legitimados según el artículo anterior y en proporción a su representatividad.
@@ -2763,7 +2538,6 @@ Procedimiento
 
 Sección 1.ª Tramitación, aplicación e interpretación
 
-
 #### Artículo 89. Tramitación.
 
 1. La representación de los trabajadores, o de los empresarios, que promueva la negociación, lo comunicará a la otra parte, expresando detalladamente en la comunicación, que deberá hacerse por escrito, la legitimación que ostenta de conformidad con los artículos anteriores, los ámbitos del convenio y las materias objeto de negociación. En el supuesto de que la promoción sea el resultado de la denuncia de un convenio colectivo vigente, la comunicación deberá efectuarse simultáneamente con el acto de la denuncia. De esta comunicación se enviará copia, a efectos de registro, a la autoridad laboral correspondiente en función del ámbito territorial del convenio.
@@ -2780,14 +2554,11 @@ En los supuestos de que se produjera violencia, tanto sobre las personas como so
 
 4. En cualquier momento de las deliberaciones, las partes podrán acordar la intervención de un mediador designado por ellas.
 
-
 #### Artículo 90. Validez.
 
 1. Los convenios colectivos a que se refiere esta ley han de formalizarse por escrito, bajo sanción de nulidad.
 
 2. Los convenios deberán ser presentados ante la autoridad laboral competente, a los solos efectos de registro, dentro del plazo de quince días a partir del momento en que las partes negociadoras lo firmen. Una vez registrado, el convenio será remitido al órgano público competente para su depósito.
-
-3. En el plazo máximo de veinte días desde la presentación del convenio en el registro se dispondrá por la autoridad laboral su publicación obligatoria y gratuita en el «Boletín Oficial del Estado» o en el correspondiente boletín oficial de la comunidad autónoma o de la provincia, en función del ámbito territorial del convenio.
 
 4. El convenio entrará en vigor en la fecha en que acuerden las partes.
 
@@ -2796,7 +2567,6 @@ En los supuestos de que se produjera violencia, tanto sobre las personas como so
 6. Sin perjuicio de lo establecido en el apartado anterior, la autoridad laboral velará por el respeto al principio de igualdad en los convenios colectivos que pudieran contener discriminaciones, directas o indirectas, por razón de sexo.
 
 A tales efectos, podrá recabar el asesoramiento del Instituto de la Mujer y para la Igualdad de Oportunidades o de los organismos de igualdad de las comunidades autónomas, según proceda por su ámbito territorial. Cuando la autoridad laboral se haya dirigido a la jurisdicción social por entender que el convenio colectivo pudiera contener cláusulas discriminatorias, lo pondrá en conocimiento del Instituto de la Mujer y para la Igualdad de Oportunidades o de los organismos de igualdad de las comunidades autónomas, según su ámbito territorial, sin perjuicio de lo establecido en el artículo 95.3 de la Ley 36/2011, de 10 de octubre, reguladora de la Jurisdicción Social.
-
 
 #### Artículo 91. Aplicación e interpretación del convenio colectivo.
 
@@ -2814,7 +2584,6 @@ Estos acuerdos y laudos serán susceptibles de impugnación por los motivos y co
 
 Sección 2.ª Adhesión y extensión
 
-
 #### Artículo 92. Adhesión y extensión.
 
 1. En las respectivas unidades de negociación, las partes legitimadas para negociar podrán adherirse, de común acuerdo, a la totalidad de un convenio colectivo en vigor, siempre que no estuvieran afectadas por otro, comunicándolo a la autoridad laboral competente a efectos de registro.
@@ -2825,11 +2594,9 @@ La decisión de extensión se adoptará siempre a instancia de parte y mediante 
 
 Tendrán capacidad para iniciar el procedimiento de extensión quienes se hallen legitimados para promover la negociación colectiva en el ámbito correspondiente conforme a lo dispuesto en el artículo 87.2 y 3.
 
-
 #### Disposición adicional primera. Trabajo por cuenta propia.
 
 El trabajo realizado por cuenta propia no estará sometido a la legislación laboral, excepto en aquellos aspectos que por precepto legal se disponga expresamente.
-
 
 #### Disposición adicional segunda. Contratos para la formación y el aprendizaje.
 
@@ -2839,21 +2606,17 @@ Asimismo, en estos contratos las situaciones de incapacidad temporal, riesgo dur
 
 2. La acción protectora de la Seguridad Social en los contratos para la formación y el aprendizaje suscritos con alumnos trabajadores en los programas de escuelas taller, casas de oficios y talleres de empleo, comprenderá las mismas contingencias, situaciones protegibles y prestaciones que para el resto de trabajadores contratados bajo esta modalidad, tal y como establecen el artículo 11.2.h) y el texto refundido de la Ley General de la Seguridad Social, a excepción del desempleo.
 
-
 #### Disposición adicional tercera. Negociación colectiva y contrato fijo de obra.
 
 Lo dispuesto en el artículo 15.1.a) y 5 y en el artículo 49.1.c) se entiende sin perjuicio de lo que se establece o pueda establecerse sobre la regulación del contrato fijo de obra, incluida su indemnización por cese, en la negociación colectiva de conformidad con la disposición adicional tercera de la Ley 32/2006, de 18 de octubre, reguladora de la subcontratación en el sector de la construcción.
-
 
 #### Disposición adicional cuarta. Conceptos retributivos.
 
 Las modificaciones introducidas por la Ley 11/1994, de 19 de mayo, por la que se modifican determinados artículos del Estatuto de los Trabajadores, y del texto articulado de la Ley de Procedimiento Laboral y de la Ley sobre Infracciones y Sanciones en el Orden Social, en la regulación legal del salario no afectarán a los conceptos retributivos que tuvieran reconocidos los trabajadores hasta el 12 de junio de 1994, que se mantendrán en los mismos términos que rigieran en ese momento hasta que por convenio colectivo se establezca un régimen salarial que conlleve la desaparición o modificación de dichos conceptos.
 
-
 #### Disposición adicional quinta. Personal de alta dirección.
 
 Las retribuciones del personal de alta dirección gozarán de las garantías del salario establecidas en los artículos 27.2, 29, 32 y 33.
-
 
 #### Disposición adicional sexta. Representación institucional de los empresarios.
 
@@ -2863,18 +2626,15 @@ Asimismo, podrán también estar representadas las asociaciones empresariales de
 
 Las organizaciones empresariales que tengan la condición de más representativas con arreglo a esta disposición adicional gozarán de capacidad para obtener cesiones temporales del uso de inmuebles patrimoniales públicos en los términos que se establezcan legalmente.
 
-
 #### Disposición adicional séptima. Regulación de condiciones por rama de actividad.
 
 La regulación de condiciones de trabajo por rama de actividad para los sectores económicos de la producción y demarcaciones territoriales en que no exista convenio colectivo podrá realizarse por el Gobierno, a propuesta del Ministerio de Empleo y Seguridad Social, previas las consultas que considere oportunas a las asociaciones empresariales y organizaciones sindicales, sin perjuicio de lo dispuesto en el artículo 92, que será siempre procedimiento prioritario.
-
 
 #### Disposición adicional octava. Código de Trabajo.
 
 El Gobierno, a propuesta del Ministerio de Empleo y Seguridad Social, recogerá en un texto único denominado Código de Trabajo, las distintas leyes orgánicas y ordinarias que, junto con la presente, regulan las materias laborales, ordenándolas en títulos separados, uno por ley, con numeración correlativa, respetando íntegramente su texto literal.
 
 Asimismo se incorporarán sucesiva y periódicamente a dicho Código de Trabajo todas las disposiciones generales laborales mediante el procedimiento que se fije por el Gobierno en cuanto a la técnica de incorporación, según el rango de las normas incorporadas.
-
 
 #### Disposición adicional novena. Comisión Consultiva Nacional de Convenios Colectivos.
 
@@ -2894,31 +2654,25 @@ c) La intervención en los procedimientos de solución de discrepancias en los c
 
 5. Si alguna comunidad autónoma no tuviera constituido y en funcionamiento un órgano tripartito equivalente a la Comisión Consultiva Nacional de Convenios Colectivos ni mantuviera convenio de colaboración en vigor con el Ministerio de Empleo y Seguridad Social acordando la actuación de la Comisión en el ámbito territorial de esa comunidad, la Comisión Consultiva Nacional de Convenios Colectivos podrá, subsidiariamente y en tanto en cuanto no se constituyan y estén en funcionamiento dichos órganos tripartitos equivalentes, conocer de las solicitudes presentadas por las empresas y los representantes legales de los trabajadores para dar solución a las discrepancias surgidas por falta de acuerdo sobre la inaplicación de las condiciones de trabajo, presentes en el convenio colectivo de aplicación, cuando dicha inaplicación afecte a centros de trabajo de la empresa situados en el territorio de dicha comunidad autónoma.
 
-
 #### Disposición adicional décima. Cláusulas de los convenios colectivos referidas al cumplimiento de la edad ordinaria de jubilación.
 
 Se entenderán nulas y sin efecto las cláusulas de los convenios colectivos que posibiliten la extinción del contrato de trabajo por el cumplimiento por parte del trabajador de la edad ordinaria de jubilación fijada en la normativa de Seguridad Social, cualquiera que sea la extensión y alcance de dichas cláusulas.
-
 
 #### Disposición adicional undécima. Acreditación de la capacidad representativa de las organizaciones sindicales.
 
 A los efectos de expedición de las certificaciones acreditativas de la capacidad representativa de las organizaciones sindicales en el ámbito estatal prevista en el artículo 75.7, las comunidades autónomas deberán remitir mensualmente copia de las actas electorales registradas a la oficina pública estatal.
 
-
 #### Disposición adicional duodécima. Preavisos.
 
 El Gobierno podrá reducir el plazo mínimo de preaviso de un mes previsto en el párrafo segundo del artículo 67.1, en los sectores de actividad con alta movilidad del personal, previa consulta con las organizaciones sindicales que en ese ámbito funcional ostenten, al menos, el diez por ciento de los representantes de los trabajadores, y con las asociaciones empresariales que cuenten con el diez por ciento de los empresarios y de los trabajadores afectados por el mismo ámbito funcional.
-
 
 #### Disposición adicional decimotercera. Solución no judicial de conflictos.
 
 En el supuesto de que, aun no habiéndose pactado en el convenio colectivo aplicable un procedimiento para resolver las discrepancias en los periodos de consultas, se hubieran establecido, conforme al artículo 83, órganos o procedimientos no judiciales de solución de conflictos en el ámbito territorial correspondiente, quienes sean parte en dichos periodos de consultas podrán someter de común acuerdo su controversia a dichos órganos.
 
-
 #### Disposición adicional decimocuarta. Consideración de víctimas del terrorismo a efectos laborales.
 
 Se consideran incluidas a efectos de lo dispuesto en los artículos 37.8 y 40.4 las personas a las que se refieren los artículos 5 y 33 de la Ley 29/2011, de 22 de septiembre, de Reconocimiento y Protección Integral a las Víctimas del Terrorismo.
-
 
 #### Disposición adicional decimoquinta. Aplicación de los límites de duración del contrato por obra o servicio determinados y al encadenamiento de contratos en las Administraciones Públicas.
 
@@ -2930,7 +2684,6 @@ En cumplimiento de esta previsión, el trabajador continuará desempeñando el p
 
 3. Para la aplicación del límite al encadenamiento de contratos previsto en el artículo 15.5, solo se tendrán en cuenta los contratos celebrados en el ámbito de cada una de las Administraciones Públicas sin que formen parte de ellas, a estos efectos, los organismos públicos, agencias y demás entidades de derecho público con personalidad jurídica propia vinculadas o dependientes de las mismas. En todo caso, lo dispuesto en dicho artículo 15.5 no será de aplicación respecto de las modalidades particulares de contrato de trabajo contempladas en la Ley Orgánica 6/2001, de 21 de diciembre, de Universidades o en cualesquiera otras normas con rango de ley.
 
-
 #### Disposición adicional decimosexta. Aplicación del despido por causas económicas, técnicas, organizativas o de producción en el sector público.
 
 El despido por causas económicas, técnicas, organizativas o de producción del personal laboral al servicio de los entes, organismos y entidades que forman parte del sector público de acuerdo con el artículo 3.1 del texto refundido de la Ley de Contratos del Sector Público, aprobado por el Real Decreto Legislativo 3/2011, de 14 de noviembre, se efectuará conforme a lo dispuesto en los artículos 51 y 52.c) de la presente ley y sus normas de desarrollo y en el marco de los mecanismos preventivos y correctivos regulados en la normativa de estabilidad presupuestaria y sostenibilidad financiera de las Administraciones Públicas.
@@ -2939,23 +2692,19 @@ A efectos de las causas de estos despidos en las Administraciones Públicas, ent
 
 Tendrá prioridad de permanencia el personal laboral fijo que hubiera adquirido esta condición, de acuerdo con los principios de igualdad, mérito y capacidad, a través de un procedimiento selectivo de ingreso convocado al efecto, cuando así lo establezcan los entes, organismos y entidades a que se refiere el párrafo anterior.
 
-
 #### Disposición adicional decimoséptima. Suspensión del contrato de trabajo y reducción de jornada en las Administraciones Públicas.
 
 Lo previsto en el artículo 47 no será de aplicación a las Administraciones Públicas y a las entidades de derecho público vinculadas o dependientes de una o varias de ellas y de otros organismos públicos, salvo a aquellas que se financien mayoritariamente con ingresos obtenidos como contrapartida de operaciones realizadas en el mercado.
 
-
 #### Disposición adicional decimoctava. Discrepancias en materia de conciliación.
 
 Las discrepancias que surjan entre empresarios y trabajadores en relación con el ejercicio de los derechos de conciliación de la vida personal, familiar y laboral reconocidos legal o convencionalmente se resolverán por la jurisdicción social a través del procedimiento establecido en el artículo 139 de la Ley 36/2011, de 10 de octubre, Reguladora de la Jurisdicción Social.
-
 
 #### Disposición adicional decimonovena. Cálculo de indemnizaciones en determinados supuestos de jornada reducida.
 
 1. En los supuestos de reducción de jornada contemplados en el artículo 37.5, 6 y 8, el salario a tener en cuenta a efectos del cálculo de las indemnizaciones previstas en esta ley será el que hubiera correspondido al trabajador sin considerar la reducción de jornada efectuada, siempre y cuando no hubiera transcurrido el plazo máximo legalmente establecido para dicha reducción.
 
 2. Igualmente, será de aplicación lo dispuesto en el párrafo anterior en los supuestos de ejercicio a tiempo parcial de los derechos según lo establecido en el tercer párrafo del artículo 48.6 y en el cuarto párrafo del artículo 48.7.
-
 
 #### Disposición adicional vigésima. Contratos formativos celebrados con trabajadores con discapacidad.
 
@@ -2964,7 +2713,6 @@ Las discrepancias que surjan entre empresarios y trabajadores en relación con e
 2. Las empresas que celebren contratos para la formación y el aprendizaje con trabajadores con discapacidad tendrán derecho a una reducción del cincuenta por ciento en las cuotas empresariales de la Seguridad Social previstas para los contratos para la formación y el aprendizaje.
 
 3. Continuarán siendo de aplicación a los contratos para la formación y el aprendizaje que se celebren con trabajadores con discapacidad que trabajen en centros especiales de empleo las peculiaridades que para dichos contratos se prevén en el artículo 7 del Real Decreto 1368/1985, de 17 de julio, por el que se regula la relación laboral de carácter especial de los minusválidos que trabajen en los Centros Especiales de Empleo.
-
 
 #### Disposición adicional vigesimoprimera. Sustitución de trabajadores excedentes por cuidado de familiares.
 
@@ -2980,11 +2728,9 @@ Los citados beneficios no serán de aplicación a las contrataciones que afecten
 
 Las contrataciones realizadas al amparo de lo establecido en esta disposición se regirán por lo dispuesto en el artículo 15.1.c) de esta ley y sus normas de desarrollo.
 
-
 #### Disposición transitoria primera. Contratos celebrados antes de la entrada en vigor de esta ley.
 
 Continuarán siendo de aplicación a los contratos celebrados antes de la entrada en vigor de esta ley las normas específicas aplicables a cada una de las modalidades contractuales que estuvieran vigentes en el momento en que dichos contratos se concertaron, salvo que otra cosa se hubiera establecido legalmente.
-
 
 #### Disposición transitoria segunda. Contratos para la formación y el aprendizaje.
 
@@ -2992,16 +2738,13 @@ Continuarán siendo de aplicación a los contratos celebrados antes de la entrad
 
 2. Las referencias realizadas en las disposiciones legales, reglamentarias o en los convenios colectivos al contrato para la formación deberán entenderse realizadas, a partir del 31 de agosto de 2011, al contrato para la formación y el aprendizaje a que se refiere el artículo 11.2 en la medida en que no se opongan o contradigan lo establecido en el mismo.
 
-
 #### Disposición transitoria tercera. Contratos a tiempo parcial por jubilación parcial y de relevo y edad de jubilación.
 
 A efectos de lo establecido los artículos 12.6 y 7, se tendrán en cuenta las edades previstas en el texto refundido de la Ley General de la Seguridad Social.
 
-
 #### Disposición transitoria cuarta. Negociación colectiva y modalidades contractuales.
 
 Lo dispuesto en el artículo 15.1.a) en materia de duración máxima del contrato se entiende sin perjuicio de lo que estuviera establecido en los convenios colectivos sectoriales vigentes a 19 de septiembre de 2010 sobre la duración máxima del contrato por obra o servicio determinados.
-
 
 #### Disposición transitoria quinta. Limitación del encadenamiento de modalidades contractuales.
 
@@ -3013,18 +2756,15 @@ Respecto a los contratos suscritos por el trabajador antes de 15 de junio de 200
 
 3. A los efectos de lo establecido en el artículo 15.5, quedará excluido del cómputo del plazo de veinticuatro meses y del periodo de treinta meses a que se refiere el citado artículo el tiempo transcurrido entre el 31 de agosto de 2011 y el 31 de diciembre de 2012, haya existido o no prestación de servicios por el trabajador entre dichas fechas, computándose en todo caso a los efectos de lo indicado en dicho artículo los periodos de servicios transcurridos, respectivamente, con anterioridad o posterioridad a las mismas.
 
-
 #### Disposición transitoria sexta. Horas complementarias.
 
 El régimen de horas complementarias pactado con anterioridad al 22 de diciembre de 2013 continuará siendo de aplicación en los contratos vigentes a dicha fecha, salvo que las partes acuerden modificarlo en los términos establecidos en la actual redacción de los apartados 4 y 5 del artículo 12.
-
 
 #### Disposición transitoria séptima. Duración del permiso de paternidad en los casos de nacimiento, adopción, guarda con fines de adopción o acogimiento hasta la entrada en vigor de la Ley 9/2009, de 6 de octubre.
 
 En tanto no entre en vigor la Ley 9/2009, de 6 de octubre, de ampliación de la duración del permiso de paternidad en los casos de nacimiento, adopción o acogida, la duración del permiso de paternidad a que se refiere el primer párrafo del artículo 48.7 será de trece días ininterrumpidos ampliables en los supuestos de parto, adopción, guarda con fines de adopción o acogimiento múltiples en dos días más por cada hijo a partir del segundo.
 
 De conformidad con la disposición adicional sexta de la Ley 2/2008, de 23 de diciembre, de Presupuestos Generales del Estado para 2009, dicho permiso tendrá una duración de veinte días cuando el nuevo nacimiento, adopción, guarda con fines de adopción o acogimiento se produzca en una familia numerosa, cuando la familia adquiera dicha condición con el nuevo nacimiento, adopción, guarda con fines de adopción o acogimiento o cuando en la familia haya una persona con discapacidad. La duración indicada se ampliará en los supuestos de parto, adopción, guarda con fines de adopción o acogimiento múltiples en dos días más por cada hijo o menor a partir del segundo, o si uno de ellos es una persona con discapacidad.
-
 
 #### Disposición transitoria octava. Indemnización por finalización de contrato temporal.
 
@@ -3042,7 +2782,6 @@ Doce días de salario por cada año de servicio para los contratos temporales ce
 
 2. La indemnización por finalización del contrato a la que se refiere el citado artículo 49.1.c) no será de aplicación a las extinciones de contratos celebrados con anterioridad al 4 de marzo de 2001, cualquiera que sea la fecha de su extinción.
 
-
 #### Disposición transitoria novena. Normas transitorias en relación con las cláusulas de los convenios colectivos referidas al cumplimiento de la edad ordinaria de jubilación.
 
 1. Lo establecido en la disposición adicional décima se aplicará a los convenios colectivos suscritos a partir del 8 de julio de 2012.
@@ -3053,13 +2792,11 @@ a) Cuando la finalización de la vigencia inicial pactada de dichos convenios se
 
 b) Cuando la finalización de la vigencia inicial pactada de dichos convenios se hubiera producido antes del 8 de julio de 2012, la aplicación se producirá a partir de esta última fecha.
 
-
 #### Disposición transitoria décima. Régimen aplicable a expedientes de regulación de empleo iniciados conforme a la normativa anterior.
 
 1. Los expedientes de regulación de empleo para la extinción o suspensión de los contratos de trabajo o para la reducción de jornada que estuvieran en tramitación a 12 de febrero de 2012 se regirán por la normativa vigente en el momento de su inicio.
 
 2. Los expedientes de regulación de empleo para la extinción o la suspensión de los contratos de trabajo o para la reducción de jornada resueltos por la autoridad laboral y con vigencia en su aplicación a 12 de febrero de 2012 se regirán por la normativa en vigor cuando se dictó la resolución del expediente.
-
 
 #### Disposición transitoria undécima. Indemnizaciones por despido improcedente.
 
@@ -3071,16 +2808,13 @@ b) Cuando la finalización de la vigencia inicial pactada de dichos convenios se
 
 En caso de despido disciplinario, la indemnización por despido improcedente se calculará conforme a lo dispuesto en el apartado 2.
 
-
 #### Disposición transitoria duodécima. Salarios de tramitación.
 
 Lo dispuesto en el artículo 56.5 será de aplicación a los expedientes de reclamación al Estado de salarios de tramitación en los que no hubiera recaído sentencia firme de despido el 15 de julio de 2012.
 
-
 #### Disposición final primera. Título competencial.
 
 Esta ley se dicta de acuerdo con lo establecido en el artículo 149.1.7.ª de la Constitución Española, que atribuye al Estado la competencia exclusiva en materia de legislación laboral sin perjuicio de su ejecución por los órganos de las comunidades autónomas.
-
 
 #### Disposición final segunda. Desarrollo reglamentario.
 

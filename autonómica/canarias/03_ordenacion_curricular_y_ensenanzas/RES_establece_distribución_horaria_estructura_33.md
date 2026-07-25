@@ -31,9 +31,6 @@ fuente_pdf_oficial: https://sede.gobiernodecanarias.org/boc/boc-a-2026-046-748.p
 
 # Resolución de 25 de febrero de 2026, por la que se establece la distribución horaria y estructura modular de los Grados C (Certificados Profesionales) y sus correspondientes Grados B (Certificados de Competencia), de niveles 2 y 3, de la familia profesional de Hostelería y Turismo, en el ámbito de la Comunidad Autónoma de Canarias.
 
-https://sede.gobiernodecanarias.org/boc
-boc-a-2026-046-748
-Boletín Oficial de Canarias núm. 46 Lunes 9 de marzo de 20268496
 III. Otras Resoluciones
 Consejería de Educación, Formación Profesional, Actividad Física y Deportes
 748 Viceconsejería de Formación Profesional y Cualificaciones Profesionales.- 
@@ -75,9 +72,6 @@ D de los que tuvieran desarrollo autonómico, estableciendo la misma duración h
 cada módulo profesional en el ámbito autonómico, con independencia del grado en el que 
 se integren.
 
-https://sede.gobiernodecanarias.org/boc
-boc-a-2026-046-748
-Boletín Oficial de Canarias núm. 46 Lunes 9 de marzo de 20268497
 Asimismo, el artículo 14.5 determina que, cuando un Grado C incorpore un módulo 
 profesional no incluido en el currículo básico del Grado D, su duración será la fijada para 
 el ámbito de gestión del Ministerio de Educación, Formación Profesional y Deportes.
@@ -119,9 +113,6 @@ En particular, el apartado 2 dispone la organización de las ofertas del Sistema
 Formación Profesional como dimensión vertical definitoria, estructurada de forma 
 escalonada en una serie ascendente de Grados. Esta ordenación es descriptiva de la amplitud 
 
-https://sede.gobiernodecanarias.org/boc
-boc-a-2026-046-748
-Boletín Oficial de Canarias núm. 46 Lunes 9 de marzo de 20268498
 de cada oferta formativa diseñada a partir del estándar de competencias profesionales de 
 mayor nivel del Catálogo Nacional de Estándares de Competencias Profesionales.
 Así mismo, en el punto 5 del citado artículo establece que todas las ofertas de Formación 
@@ -163,9 +154,6 @@ Tercero.- Facultar a la Dirección General de Formación Profesional y Enseñanz
 Régimen Especial para que, en el ámbito de sus competencias dentro del sistema educativo 
 no universitario, dictamine cuantas resoluciones sean necesarias respecto a esta Resolución 
 
-https://sede.gobiernodecanarias.org/boc
-boc-a-2026-046-748
-Boletín Oficial de Canarias núm. 46 Lunes 9 de marzo de 20268499
 y lleve a cabo la planificación de la oferta de los Grados C y B en los centros educativos 
 públicos no universitarios de la Comunidad Autónoma de Canarias.
 Cuarto.- Encomendar a la Inspección de Educación el asesoramiento a los equipos 
@@ -186,9 +174,6 @@ cualquier otro que se estime procedente.
 Las Palmas de Gran Canaria, a 25 de febrero de 2026.- El Viceconsejero de Formación 
 Profesional y Cualificaciones Profesionales, Francisco Rodríguez Machado.
 
-boc-a-2026-046-748
-Boletín Oficial de Canarias núm. 46 Lunes 9 de marzo de 20268500
-https://sede.gobiernodecanarias.org/boc
 ANEXO I
 FAMILIA PROFESIONAL: HOSTELERÍA Y TURISMO
 DISTRIBUCIÓN HORARIA Y ESTRUCTURA MODULAR DE LOS GRADOS C
@@ -248,9 +233,6 @@ En régimen general la formación en la empresa u organismo equiparado tendrá u
 En régimen intensivo la formación en la empresa u organismo equiparado tendrá una duración mínima de 230 horas.
 ANEXO 
 
-boc-a-2026-046-748
-Boletín Oficial de Canarias núm. 46 Lunes 9 de marzo de 20268501
-https://sede.gobiernodecanarias.org/boc
 Certificado profesional: Cocina gastronómica. 
 • Código: HOT_C_003_4B.
 • Título de Formación Profesional asociado: Técnico en Cocina y Gastronomía.
@@ -304,9 +286,6 @@ Duración 770 30 23
 En régimen general la formación en la empresa u organismo equiparado tendrá una duración mínima de 195 horas.
 En régimen intensivo la formación en la empresa u organismo equiparado tendrá una duración mínima de 270 horas.
 
-boc-a-2026-046-748
-Boletín Oficial de Canarias núm. 46 Lunes 9 de marzo de 20268502
-https://sede.gobiernodecanarias.org/boc
 Certificado profesional: Servicio de vinos. 
 • Código: HOT_C_005_4B.
 • Título de Formación Profesional asociado: Técnico en Servicios en Restauración.
@@ -360,9 +339,6 @@ Duración 705 30 21
 En régimen general la formación en la empresa u organismo equiparado tendrá una duración mínima de 180 horas.
 En régimen intensivo la formación en la empresa u organismo equiparado tendrá una duración mínima de 250 horas.
 
-boc-a-2026-046-748
-Boletín Oficial de Canarias núm. 46 Lunes 9 de marzo de 20268503
-https://sede.gobiernodecanarias.org/boc
 Certificado profesional: Gestión del departamento de recepción y reservas en alojamientos. 
 • Código: HOT_C_001_5B.
 • Título  de  Formación  Profesional  asociado:  Técnico  Superior  en  Gestión  de  Alojamientos
@@ -422,9 +398,6 @@ Duración 710 30 22
 En régimen general la formación en la empresa u organismo equiparado tendrá una duración mínima de 180 horas.
 En régimen intensivo la formación en la empresa u organismo equiparado tendrá una duración mínima de 250 horas.
 
-boc-a-2026-046-748
-Boletín Oficial de Canarias núm. 46 Lunes 9 de marzo de 20268504
-https://sede.gobiernodecanarias.org/boc
 Certificado profesional: Comercial de alojamientos turísticos. 
 • Código: HOT_C_003_5B.
 • Título  de  Formación  Profesional  asociado:  Técnico  Superior  en  Gestión  de  Alojamientos
@@ -479,9 +452,6 @@ Código del certificado de competencia: HOT_B_0397 139 8 4
 0179 Inglés profesional (GS) 
 Código del certificado de competencia: HOT_B_0179 96 4 3
 
-boc-a-2026-046-748
-Boletín Oficial de Canarias núm. 46 Lunes 9 de marzo de 20268505
-https://sede.gobiernodecanarias.org/boc
 1782 Prevención de riesgos laborales 30 2 1
 Duración 595 30 18
 En régimen general la formación en la empresa u organismo equiparado tendrá una duración mínima de 150 horas.
@@ -545,9 +515,6 @@ Horas
 semanales
 (33 semanas)
 
-boc-a-2026-046-748
-Boletín Oficial de Canarias núm. 46 Lunes 9 de marzo de 20268506
-https://sede.gobiernodecanarias.org/boc
 0179 Inglés profesional (GS)
 Código del certificado de competencia: HOT_B_0179 96 3
 0180 Segunda lengua extranjera 
@@ -606,9 +573,6 @@ Horas
 semanales
 (33 semanas)
 
-boc-a-2026-046-748
-Boletín Oficial de Canarias núm. 46 Lunes 9 de marzo de 20268507
-https://sede.gobiernodecanarias.org/boc
 0179 Inglés profesional (GS) 
 Código del certificado de competencia: HOT_B_0179 96 3
 0180 Segunda lengua extranjera 
@@ -661,9 +625,6 @@ Horas
 semanales
 (33 semanas)
 
-boc-a-2026-046-748
-Boletín Oficial de Canarias núm. 46 Lunes 9 de marzo de 20268508
-https://sede.gobiernodecanarias.org/boc
 Certificado profesional: Procesos productivos en cocina. 
 • Código: HOT_C_010_5B.
 • Título de Formación Profesional asociado: Técnico Superior en Dirección de Cocina.
@@ -714,9 +675,6 @@ Duración 475 28
 En régimen general la formación en la empresa u organismo equiparado tendrá una duración mínima de 120 horas.
 En régimen intensivo la formación en empresa u organismo equiparado tendrá una duración mínima de 170 horas.
 
-boc-a-2026-046-748
-Boletín Oficial de Canarias núm. 46 Lunes 9 de marzo de 20268509
-https://sede.gobiernodecanarias.org/boc
 Certificado profesional: Gestión de procesos de servicio en restauración. 
 • Código: HOT_C_012_5B.
 • Título  de  Formación  Profesional  asociado:  Técnico  Superior en  Dirección  de  Servicios  de
@@ -776,9 +734,6 @@ Duración 740 30 22
 En régimen general la formación en la empresa u organismo equiparado tendrá una duración mínima de 185 horas.
 En régimen intensivo la formación en la empresa u organismo equiparado tendrá una duración mínima de 260 horas.
 
-boc-a-2026-046-748
-Boletín Oficial de Canarias núm. 46 Lunes 9 de marzo de 20268510
-https://sede.gobiernodecanarias.org/boc
 Certificado profesional: Dirección en restauración. 
 • Código: HOT_C_014_5B.
 • Título  de  Formación  Profesional  asociado:  Técnico  Superior en  Dirección  de  Servicios  de

@@ -29,9 +29,7 @@ fundamentos_derecho:
 
 # Ley Orgánica 4/2000, de 11 de enero, sobre derechos y libertades de los extranjeros en España y su integración social.
 
-
 **JUAN CARLOS I**
-
 
 **REY DE ESPAÑA**
 
@@ -39,19 +37,15 @@ A todos los que la presente vieren y entendieren.
 
 Sabed: Que las Cortes Generales han aprobado y Yo vengo en sancionar la siguiente Ley Orgánica.
 
-
 ## TÍTULO PRELIMINAR
 
-
 **Disposiciones generales**
-
 
 #### Artículo 1. Delimitación del ámbito.
 
 1. Se considera extranjero, a los efectos de la aplicación de la presente Ley, a los que carezcan de la nacionalidad española.
 
 2. Los nacionales de los Estados miembros de la Unión Europea y aquéllos a quienes les sea de aplicación el régimen comunitario se regirán por la legislación de la Unión Europea, siéndoles de aplicación la presente Ley en aquellos aspectos que pudieran ser más favorables.
-
 
 #### Artículo 2. Exclusión del ámbito de la ley.
 
@@ -63,9 +57,7 @@ b) Los representantes y delegados, así como los demás miembros y sus familiare
 
 c) Los funcionarios destinados en Organizaciones internacionales o intergubernamentales con sede en España, así como sus familiares, a quienes los Tratados en los que sea parte España eximan de las obligaciones mencionadas en el párrafo a) de este artículo.
 
-
 ## TÍTULO I
-
 
 **Derechos y libertades de los extranjeros**
 
@@ -73,13 +65,11 @@ CAPÍTULO I
 
 Derechos y libertades de los extranjeros
 
-
 #### Artículo 3. Igualdad con los españoles e interpretación de las normas.
 
 1. Los extranjeros gozarán en España, en igualdad de condiciones que los españoles, de los derechos y libertades reconocidos en el Título I de la Constitución y en sus leyes de desarrollo, en los términos establecidos en esta Ley Orgánica.
 
 2. Las normas relativas a los derechos fundamentales de los extranjeros se interpretarán de conformidad con la Declaración Universal de Derechos Humanos y con los Tratados y Acuerdos internacionales sobre las mismas materias vigentes en España, sin que pueda alegarse la profesión de creencias religiosas o convicciones ideológicas o culturales de signo diverso para justificar la realización de actos o conductas contrarios a las mismas.
-
 
 #### Artículo 4. Derecho a la documentación.
 
@@ -87,13 +77,11 @@ Derechos y libertades de los extranjeros
 
 2. No podrán ser privados de su documentación, salvo en los supuestos y con los requisitos previstos en esta Ley Orgánica y en la Orgánica 1/1992, de 21 de febrero, sobre Protección de la Seguridad Ciudadana.
 
-
 #### Artículo 5. Derecho a la libertad de circulación.
 
 1. Los extranjeros que se hallen en España de acuerdo con lo establecido en el Título II de esta Ley, tendrán derecho a circular libremente por el territorio español y a elegir su residencia sin más limitaciones que las establecidas con carácter general por los tratados y las leyes, o las acordadas por la autoridad judicial, con carácter cautelar o en un proceso penal o de extradición en los que el extranjero tenga la condición de imputado, víctima o testigo, o como consecuencia de sentencia firme.
 
 2. No obstante, podrán establecerse medidas limitativas específicas cuando se acuerden en la declaración de estado de excepción o sitio en los términos previstos en la Constitución, y excepcionalmente de forma individualizada por el Ministro del Interior por razones de seguridad pública.
-
 
 #### Artículo 6. Participación pública.
 
@@ -105,18 +93,15 @@ Derechos y libertades de los extranjeros
 
 4. Los poderes públicos favorecerán el ejercicio del derecho de sufragio de los extranjeros en los procesos electorales del país de origen. A tal efecto se adoptarán las medidas necesarias.
 
-
 #### Artículo 7. Libertades de reunión y manifestación.
 
 1. Los extranjeros que se encuentren en España podrán ejercitar, sin necesidad de autorización administrativa previa y de conformidad con lo dispuesto en las normas que lo regulan, el derecho de reunión recogido en el artículo 21 de la Constitución.
 
 2. Los promotores de reuniones o manifestaciones en lugares de tránsito público darán comunicación previa a la autoridad competente con la antelación prevista en la Ley Orgánica reguladora del Derecho de Reunión, la cual no podrá prohibirla o proponer su modificación sino por las causas previstas en dicha Ley.
 
-
 #### Artículo 8. Libertad de asociación.
 
 Todos los extranjeros que se encuentren en España podrán ejercer el derecho de asociación conforme a las leyes que lo regulen para los españoles. Sólo podrán ser promotores los residentes.
-
 
 #### Artículo 9. Derecho a la educación.
 
@@ -126,20 +111,17 @@ Todos los extranjeros que se encuentren en España podrán ejercer el derecho de
 
 3. Los extranjeros residentes podrán acceder al desempeño de actividades de carácter docente o de investigación científica de acuerdo con lo establecido en las disposiciones vigentes. Asimismo podrán crear y dirigir centros de acuerdo con lo establecido en las disposiciones vigentes.
 
-
 #### Artículo 10. Derecho al trabajo y a la Seguridad Social.
 
 1. Los extranjeros tendrán derecho a ejercer una actividad remunerada por cuenta propia o ajena, así como al acceso al Sistema de la Seguridad Social, en los términos previstos en esta Ley Orgánica y en las disposiciones que la desarrollen.
 
 2. Los extranjeros podrán acceder como personal laboral al servicio de las Administraciones públicas, de acuerdo con los principios constitucionales de igualdad, mérito, capacidad y publicidad. A tal efecto, podrán presentarse a las ofertas públicas de empleo que convoquen las Administraciones públicas.
 
-
 #### Artículo 11. Libertad de sindicación y de huelga.
 
 1. Los trabajadores extranjeros que se hallen en España tendrán el derecho a sindicarse libremente, o afiliarse a una organización profesional en las mismas condiciones que los trabajadores españoles, de acuerdo con las leyes que lo regulen.
 
 2. De igual modo, se reconoce a los trabajadores extranjeros el derecho a la huelga.
-
 
 #### Artículo 12. Derecho a la asistencia sanitaria.
 
@@ -151,11 +133,9 @@ Todos los extranjeros que se encuentren en España podrán ejercer el derecho de
 
 4. Las extranjeras embarazadas que se encuentren en España tendrán derecho a la asistencia sanitaria durante el embarazo, parto y postparto.
 
-
 #### Artículo 13. Derecho a ayudas en materia de vivienda.
 
 Los extranjeros residentes y los que se encuentren en España inscritos en el padrón del municipio en el que residan habitualmente, tienen derecho a acceder al sistema público de ayudas en materia de vivienda en las mismas condiciones que los españoles.
-
 
 #### Artículo 14. Derecho a Seguridad Social y a los servicios sociales.
 
@@ -164,7 +144,6 @@ Los extranjeros residentes y los que se encuentren en España inscritos en el pa
 2. Los extranjeros residentes tendrán derecho a los servicios y a las prestaciones sociales, tanto a los generales y básicos como a los específicos, en las mismas condiciones que los españoles.
 
 3. Los extranjeros, cualquiera que sea su situación administrativa, tienen derecho a los servicios y prestaciones sociales básicas.
-
 
 #### Artículo 15. Sujeción de los extranjeros a los mismos impuestos que los españoles.
 
@@ -176,7 +155,6 @@ CAPÍTULO II
 
 Reagrupación familiar
 
-
 #### Artículo 16. Derecho a la intimidad familiar.
 
 1. Los extranjeros residentes tienen derecho a la vida en familia y a la intimidad familiar en la forma prevista en esta Ley Orgánica y de acuerdo con lo dispuesto en los Tratados internacionales suscritos por España.
@@ -184,7 +162,6 @@ Reagrupación familiar
 2. Los familiares de los extranjeros que residan en España a quienes se refiere el artículo siguiente, tienen derecho a la situación de residencia en España para reagruparse con el residente.
 
 3. El cónyuge que hubiera adquirido la residencia en España por causa familiar y sus familiares con él agrupados, conservarán la residencia aunque se rompa el vínculo matrimonial que dio lugar a la adquisición.
-
 
 #### Artículo 17. Familiares reagrupables.
 
@@ -208,7 +185,6 @@ CAPÍTULO III
 
 Garantías jurídicas
 
-
 #### Artículo 18. Derecho a la tutela judicial efectiva.
 
 1. Los extranjeros tienen derecho a la tutela judicial efectiva.
@@ -217,13 +193,11 @@ Garantías jurídicas
 
 3. En dichos procedimientos estarán legitimadas para intervenir como interesadas las organizaciones representativas constituidas legalmente en España para la defensa de los inmigrantes.
 
-
 #### Artículo 19. Derecho al recurso contra los actos administrativos.
 
 1. Los actos y resoluciones administrativas adoptados en relación con los extranjeros serán recurribles con arreglo a lo dispuesto en las leyes.
 
 2. El régimen de ejecutividad de los actos administrativos dictados en materia de extranjería será el previsto con carácter general por la ley, salvo lo dispuesto sobre el procedimiento de expulsión de urgencia que se regulará por lo dispuesto en esta Ley Orgánica.
-
 
 #### Artículo 20. Derecho a la asistencia jurídica gratuita.
 
@@ -236,7 +210,6 @@ Además, tendrán derecho a la asistencia de intérprete si no comprenden o habl
 CAPÍTULO IV
 
 De las medidas antidiscriminatorias
-
 
 #### Artículo 21. Actos discriminatorios.
 
@@ -256,21 +229,17 @@ e) El empresario, con sus representantes, que lleven a cabo cualquier acción qu
 
 Constituye discriminación indirecta todo tratamiento derivado de la adopción de criterios que perjudiquen injustificadamente a los trabajadores por su condición de extranjeros o por pertenecer a una determinada raza, religión, etnia o nacionalidad, siempre que se refieran a requisitos no esenciales para el desarrollo de la actividad laboral.
 
-
 #### Artículo 22. Aplicabilidad del procedimiento sumario.
 
 La tutela judicial contra cualquier práctica discriminatoria que comporte vulneración de derechos y libertades fundamentales podrá ser exigida por el procedimiento previsto en el artículo 53.2 de la Constitución en los términos legalmente establecidos.
 
-
 ## TÍTULO II
-
 
 **Régimen jurídico de las situaciones de los extranjeros**
 
 CAPÍTULO I
 
 De la entrada y salida del territorio español
-
 
 #### Artículo 23. Requisitos para la entrada en territorio español.
 
@@ -282,13 +251,11 @@ De la entrada y salida del territorio español
 
 4. Se podrá autorizar la entrada en España de los extranjeros que no reúnan los requisitos establecidos en los párrafos anteriores cuando existan razones excepcionales de índole humanitaria, interés público o cum plimiento de compromisos adquiridos por España. En estos casos, se procederá a hacer entrega al extranjero de la documentación que se establezca reglamentariamente.
 
-
 #### Artículo 24. Prohibición de entrada en España.
 
 1. No podrán entrar en España, ni obtener un visado a tal fin, los extranjeros que hayan sido expulsados, mientras dure la prohibición de entrada, así como aquellos que tengan prohibida la entrada en algún país con el que España tenga firmado convenio en tal sentido.
 
 2. A los extranjeros que no cumplan los requisitos establecidos para la entrada, les será denegada mediante resolución motivada, con información acerca de los recursos que puedan interponer contra ella, plazo para hacerlo y autoridad ante quien deben formalizarlo, y de su derecho a la asistencia letrada.
-
 
 #### Artículo 25. Expedición del visado.
 
@@ -299,7 +266,6 @@ De la entrada y salida del territorio español
 3. La denegación deberá ser expresa y motivada e indicar los recursos que procedan. Excepcionalmente y con carácter temporal, el Gobierno podrá establecer para los nacionales de un determinado país, o procedentes de una zona geográfica, supuestos en los que la denegación no ha de ser motivada. Cuando se trate de visados de residencia solicitados por personas que invocan ser titulares de un derecho subjetivo a residir en España reconocido por el ordenamiento jurídico, la denegación deberá ser, en todo caso, motivada.
 
 4. La tramitación sobre concesión o denegación de permisos y visados regulados en esta Ley, tendrá un plazo máximo de resolución de tres meses a contar desde la fecha de solicitud o, en su caso, de la fecha de aportación de la documentación preceptiva.
-
 
 #### Artículo 26. De la salida de España.
 
@@ -319,11 +285,9 @@ CAPÍTULO II
 
 Situaciones de los extranjeros
 
-
 #### Artículo 27. Enumeración de las situaciones.
 
 Los extranjeros podrán encontrarse en España en las situaciones de estancia, residencia temporal y residencia permanente.
-
 
 #### Artículo 28. Situación de estancia.
 
@@ -332,7 +296,6 @@ Los extranjeros podrán encontrarse en España en las situaciones de estancia, r
 2. Transcurrido dicho tiempo, para permanecer en España será preciso obtener o una prórroga de estancia o un permiso de residencia.
 
 3. La prórroga de estancia no podrá tener una duración superior a otros noventa días.
-
 
 #### Artículo 29. Situación de residencia temporal.
 
@@ -346,20 +309,17 @@ Los extranjeros podrán encontrarse en España en las situaciones de estancia, r
 
 5. Los extranjeros con permiso de residencia temporal vendrán obligados a poner en conocimiento del Ministerio del Interior los cambios de nacionalidad y domicilio.
 
-
 #### Artículo 30. Residencia permanente.
 
 1. La residencia permanente es la situación que autoriza a residir en España indefinidamente y trabajar en igualdad de condiciones que los españoles.
 
 2. Tendrán derecho a residencia permanente los que hayan tenido residencia temporal durante cinco años. Con carácter reglamentario y excepcionalmente se establecerán los criterios para que no sea exigible el citado plazo en supuestos de especial vinculación con España.
 
-
 #### Artículo 31. Residencia de apátridas y refugiados.
 
 1. Los extranjeros que carezcan de documentación personal, y acrediten que el país de su nacionalidad no le reconoce la misma, podrán ser documentados con una tarjeta de identidad, reconociéndoseles y aplicándoseles el Estatuto de Apátrida, conforme al artículo 27 de la Convención sobre el Estatuto de Apátridas, gozando del régimen específico que se determine reglamentariamente.
 
 2. Los extranjeros desplazados que sean acogidos en España por razones humanitarias o a consecuencia de un acuerdo o compromiso internacional, así como los que tuviesen reconocida la condición de refugiado, obtendrán la correspondiente autorización de residencia.
-
 
 #### Artículo 32. Residencia de menores.
 
@@ -371,7 +331,6 @@ CAPÍTULO III
 
 Del permiso de trabajo y regímenes especiales
 
-
 #### Artículo 33. Autorización para la realización de actividades lucrativas.
 
 1. Los extranjeros mayores de dieciséis años que deseen ejercer cualquier actividad lucrativa laboral o profesional en España deberán obtener una autorización administrativa para trabajar o el permiso de trabajo.
@@ -380,11 +339,9 @@ Del permiso de trabajo y regímenes especiales
 
 3. Los empleadores que contraten a un trabajador extranjero deberán solicitar y obtener autorización previa del Ministerio de Trabajo y Asuntos Sociales. La carencia de la correspondiente autorización para contratos por parte del empleador, sin perjuicio de las responsabilidades a que dé lugar, no invalidará el contrato de trabajo respecto a los derechos del trabajador extranjero.
 
-
 #### Artículo 34. Autorización administrativa para trabajar.
 
 Para la realización de actividades económicas por cuenta propia, en calidad de comerciante, industrial, agricultor o artesano, habrá de acreditar haber solicitado la autorización administrativa correspondiente y cumplir todos los requisitos que la legislación vigente exige a los nacionales para la apertura y funcionamiento de la actividad proyectada.
-
 
 #### Artículo 35. El permiso de trabajo.
 
@@ -398,7 +355,6 @@ Para la realización de actividades económicas por cuenta propia, en calidad de
 
 5. Transcurridos cinco años desde la concesión del primer permiso de trabajo y las prórrogas correspondientes, el permiso adquirirá carácter permanente.
 
-
 #### Artículo 36. Permisos especiales.
 
 1. Tendrán derecho al permiso de trabajo los extranjeros que obtengan el permiso de residencia por el procedimiento previsto en el artículo 29.3. Tendrá la duración de un año y se renovará mientras sigan las mismas circunstancias.
@@ -409,11 +365,9 @@ a) Cuando por la autoridad competente, conforme a la normativa de la Seguridad S
 
 b) Cuando el extranjero sea beneficiario de una prestación económica asistencial de carácter público destinada a lograr su inserción o reinserción social o laboral durante el plazo de duración de la misma.
 
-
 #### Artículo 37. El contingente de trabajadores extranjeros.
 
 El Gobierno, previa audiencia del Consejo Superior de Política de Inmigración y de las organizaciones sindicales y empresariales más representativas, establecerá anualmente un contingente de mano de obra en el que se fijará el número y las características de las ofertas de empleo que se ofrecen a los trabajadores extranjeros no residentes en España, con indicación de los sectores y actividades profesionales.
-
 
 #### Artículo 38. Excepciones al contingente.
 
@@ -430,7 +384,6 @@ c) Se trate del titular de una autorización previa de trabajo que pretenda su r
 d) Los trabajadores necesarios para el montaje o reparación de una instalación o equipos productivos.
 
 e) Los que hubieran gozado de la condición de refugiado durante el año siguiente a la fecha de la pérdida de tal condición.
-
 
 #### Artículo 39. Excepciones al permiso de trabajo.
 
@@ -466,7 +419,6 @@ d) Los extranjeros nacidos y residentes en España.
 
 e) Los extranjeros con autorización de residencia permanente.
 
-
 #### Artículo 40. Régimen especial de los estudiantes.
 
 1. Se concederá la autorización de admisión y residencia en España por razones de estudio a los extranjeros que hayan sido admitidos en un centro docente, público o privado oficialmente reconocido.
@@ -479,13 +431,11 @@ e) Los extranjeros con autorización de residencia permanente.
 
 5. La realización de trabajo en una familia para compensar la estancia y mantenimiento en la misma mientras se mejoran los conocimientos lingüísticos o profesionales se regularán de acuerdo con lo dispuesto en los acuerdos internacionales sobre colocación "au pair".
 
-
 #### Artículo 41. Régimen especial de los trabajadores de temporada.
 
 1. El Gobierno regulará reglamentariamente el permiso de trabajo para los trabajadores extranjeros en actividades de temporada o campaña que les permita la entrada y salida del territorio nacional de acuerdo con las características de las citadas campañas.
 
 2. Las Administraciones públicas velarán para que los trabajadores temporeros sean alojados en viviendas con condiciones de dignidad e higiene adecuadas y promoverán la asistencia de los servicios sociales adecuados para organizar su atención social durante la temporada o campaña para la que se les conceda el permiso de trabajo.
-
 
 #### Artículo 42. Trabajadores transfronterizos.
 
@@ -495,11 +445,9 @@ CAPÍTULO IV
 
 De las tasas por autorizaciones administrativas para trabajar en España
 
-
 #### Artículo 43. Hecho imponible.
 
 La autorización administrativa expedida a los ciudadanos extranjeros para trabajar en España, por cuenta propia o ajena, constituye el hecho imponible de una tasa.
-
 
 #### Artículo 44. Sujetos pasivos.
 
@@ -507,31 +455,25 @@ La autorización administrativa expedida a los ciudadanos extranjeros para traba
 
 2. Será nulo todo pacto por el cual el trabajador por cuenta ajena asuma pagar total o parcialmente la tasa establecida.
 
-
 #### Artículo 45. Cuantía de las tasas.
 
 Reglamentariamente se establecerá la cuantía de las tasas teniendo en cuenta la clase de autorización, inicial o renovación, su naturaleza, cuenta propia o ajena, así como su duración.
 
 Las autorizaciones de trabajo permanente estarán exentas del pago de la tasa.
 
-
 ## TÍTULO III
 
-
 **De las infracciones en materia de extranjería y su régimen sancionador**
-
 
 #### Artículo 46. La potestad sancionadora.
 
 El ejercicio de la potestad sancionadora por la comisión de las infracciones administrativas previstas en la presente Ley Orgánica, se ajustará a la dispuesto en la misma y en sus disposiciones de desarrollo, y en la Ley 30/1992, de Régimen Jurídico de las Administraciones Públicas y del Procedimiento Administrativo Común.
-
 
 #### Artículo 47. Tipos de infracciones.
 
 1. Incurrirán en responsabilidad administrativa quienes sean autores o participen en cualquiera de las infracciones tipificadas en los artículos siguientes.
 
 2. Las infracciones administrativas establecidas en la presente Ley Orgánica se clasifican en leves, graves y muy graves.
-
 
 #### Artículo 48. Infracciones leves.
 
@@ -542,7 +484,6 @@ a) La omisión o el retraso en la comunicación a las autoridades españolas de 
 b) El retraso, hasta tres meses, en la solicitud de renovación de las autorizaciones una vez hayan caducado.
 
 c) Encontrarse trabajando sin haber solicitado permiso de trabajo, cuando se cuente con permiso de residencia temporal, o cuando éste se le haya denegado.
-
 
 #### Artículo 49. Infracciones graves.
 
@@ -562,7 +503,6 @@ f) La comisión de una tercera infracción leve, siempre que en un plazo de seis
 
 g) La participación por el extranjero en la realización de actividades ilegales.
 
-
 #### Artículo 50. Infracciones muy graves.
 
 Son infracciones muy graves:
@@ -579,7 +519,6 @@ e) La contratación o utilización habitual de trabajadores extranjeros sin habe
 
 f) La comisión de una tercera infracción grave siempre que en un plazo de dos años anteriores hubiera sido sancionado por dos faltas graves de la misma naturaleza.
 
-
 #### Artículo 51. Sanciones.
 
 1. Las infracciones tipificadas en los artículos anteriores serán sancionadas en los términos siguientes:
@@ -594,7 +533,6 @@ c) Las infracciones muy graves con multa desde uno hasta diez millones de peseta
 
 3. Para la determinación de la cuantía de la sanción se tendrá especialmente en cuenta la capacidad económica y el grado de voluntariedad del infractor.
 
-
 #### Artículo 52. Prescripción de las infracciones y de las sanciones.
 
 1. Las infracciones muy graves prescribirán a los tres años, las graves a los dos años y las leves a los seis meses.
@@ -602,7 +540,6 @@ c) Las infracciones muy graves con multa desde uno hasta diez millones de peseta
 2. Las sanciones impuestas por infracciones muy graves prescribirán a los cinco años, las graves a los dos años y las impuestas por infracciones leves al año.
 
 3. Si la sanción impuesta fuera la de expulsión del territorio nacional la prescripción no empezará a contar hasta que haya transcurrido el período de prohibición de entrada fijado en la resolución con un máximo de diez años.
-
 
 #### Artículo 53. Expulsión del territorio.
 
@@ -624,7 +561,6 @@ d) Los que sean beneficiarios de una prestación por incapacidad permanente para
 
 En el supuesto de que se trate de extranjeros no residentes legalmente en España y que fueren condenados por sentencia firme, será de aplicación lo dispuesto en el artículo 89 del Código Penal.
 
-
 #### Artículo 54. Procedimiento y efectos de la expulsión.
 
 1. Toda expulsión llevará consigo la prohibición de entrada en territorio español por un período mínimo de tres años y máximo de diez.
@@ -639,7 +575,6 @@ b) Los que pretendan entrar ilegalmente en el país, salvo en el supuesto contem
 
 4. El retorno acordado en aplicación de la letra a) del apartado 2, conllevará la reiniciación del cómputo del plazo de prohibición de entrada que hubiese acordado la orden de expulsión quebrantada. Asimismo, en este supuesto, cuando el retorno no se pudiera ejecutar en el plazo de setenta y dos horas, la autoridad gubernativa podrá solicitar de la autoridad judicial la medida de internamiento prevista para los expedientes de expulsión.
 
-
 #### Artículo 55. Colaboración contra redes organizadas.
 
 1. El extranjero que haya cruzado la frontera española fuera de los pasos establecidos al efecto o no haya cumplido con su obligación de declarar la entrada y se encuentre irregularmente en España o trabajando sin permiso, sin documentación o documentación irregular, por haber sido víctima, perjudicado o testigo de un acto de tráfico ilícito de seres humanos, inmigración ilegal, o de tráfico ilícito de mano de obra o de explotación en la prostitución abusando de su situación de necesidad, podrá quedar exento de responsabilidad administrativa y no será expulsado si denuncia a las autoridades competentes a los autores o cooperadores de dicho tráfico, o coopera y colabora con los funcionarios policiales competentes en materia de extranjería, proporcionando datos esenciales o testificando, en su caso, en el proceso correspondiente contra aquellos autores.
@@ -649,7 +584,6 @@ b) Los que pretendan entrar ilegalmente en el país, salvo en el supuesto contem
 3. A los extranjeros que hayan quedado exentos de responsabilidad administrativa se les podrá facilitar a su elección, el retorno a su país de procedencia o la estancia y residencia en España, así como permiso de trabajo y facilidades para su integración social, de acuerdo con lo establecido en la presente Ley.
 
 4. Cuando el Ministerio Fiscal tenga conocimiento de que un extranjero, contra el que se ha dictado una resolución de expulsión, aparezca en un procedimiento penal como víctima, perjudicado o testigo y considere imprescindible su presencia para la práctica de diligencias judiciales, lo pondrá de manifiesto a la autoridad gubernativa competente a los efectos de que se valore la inejecución de su expulsión y, en el supuesto de que se hubiese ejecutado esta última, se procederá de igual forma a los efectos de que autorice su regreso a España durante el tiempo necesario para poder practicar las diligencias precisas, sin perjuicio de que se puedan adoptar algunas de las medidas previstas en la Ley Orgánica 19/1994, de 23 de diciembre, de protección a testigos y peritos en causas criminales.
-
 
 #### Artículo 56. Retorno e internamiento.
 
@@ -661,11 +595,9 @@ b) Los que pretendan entrar ilegalmente en el país, salvo en el supuesto contem
 
 4. La detención de un extranjero a efectos de retorno será comunicada al Ministerio de Asuntos Exteriores y a la Embajada o Consulado de su país.
 
-
 #### Artículo 57. Obligación de presentación periódica.
 
 Excepcionalmente, la autoridad gubernativa podrá aplicar provisionalmente a los extranjeros que se encuentren en España y se les abra un expediente sancionador, la obligación de presentarse periódicamente en las dependencias que se indiquen. Igualmente podrá acordar la retirada del pasaporte o documento acreditativo de su nacionalidad, previa entrega al interesado del resguardo acreditativo de tal medida.
-
 
 #### Artículo 58. Ingreso en centros de internamiento.
 
@@ -677,7 +609,6 @@ Excepcionalmente, la autoridad gubernativa podrá aplicar provisionalmente a los
 
 4. La incoación del expediente, las medidas cautelares de detención e internamiento y la resolución final del expediente de expulsión del extranjero serán comunicadas al Ministerio de Asuntos Exteriores y a la Embajada o Consulado de su país.
 
-
 #### Artículo 59. Carácter recurrible de las resoluciones sobre extranjeros.
 
 1. Las resoluciones administrativas sancionadoras serán recurribles con arreglo a lo dispuesto en las leyes.
@@ -686,12 +617,9 @@ El régimen de ejecutividad de las mismas será el previsto con carácter genera
 
 2. En todo caso, cuando el extranjero no se encuentre en España, podrá cursar los recursos procedentes, tanto en vía administrativa como jurisdiccional, a través de las representaciones diplomáticas o consulares correspondientes, o de organizaciones de asistencia a la emigración debidamente apoderadas, quienes los remitirán al organismo competente.
 
-
 ## TÍTULO IV
 
-
 **Coordinación de los poderes públicos en materia de inmigración**
-
 
 #### Artículo 60. Coordinación de los órganos de la Administración del Estado.
 
@@ -701,18 +629,15 @@ El régimen de ejecutividad de las mismas será el previsto con carácter genera
 
 3. El Gobierno elaborará planes, programas y directrices sobre la actuación de la Inspección de Trabajo previa al procedimiento sancionador destinados especialmente a comprobar el cumplimiento del principio de igualdad y no discriminación de los trabajadores extranjeros, así como el cumplimiento efectivo de la normativa en materia de permiso de trabajo de extranjeros, todo ello sin perjuicio de las facultades de planificación que correspondan a las Comunidades Autónomas con competencias en materia de ejecución de la legislación laboral.
 
-
 #### Artículo 61. El Consejo Superior de Política de Inmigración.
 
 1. Para asegurar una adecuada coordinación de las actuaciones de las Administraciones públicas con competencias sobre la integración de los inmigrantes se constituirá un Consejo Superior de Política de Inmigración, en el que participarán representantes del Estado, de las Comunidades Autónomas y de los municipios.
 
 2. Dicho órgano establecerá las bases y criterios sobre los que se asentará una política global en materia de integración social y laboral de los inmigrantes, para lo cual recabará información y consulta de los órganos administrativos, de ámbito estatal o autonómico, así como de los agentes sociales y económicos implicados con la inmigración y la defensa de los derechos de los extranjeros.
 
-
 #### Artículo 62. Apoyo al movimiento asociativo de los inmigrantes.
 
 Los poderes públicos impulsarán el fortalecimiento del movimiento asociativo entre los inmigrantes y apoyarán a los sindicatos y a las organizaciones no gubernamentales que, sin ánimo de lucro, favorezcan su integración social, facilitándoles recursos materiales y ayuda económica, tanto a través de los programas generales, como en relación con sus actividades específicas.
-
 
 #### Artículo 63. El Foro para la Inmigración.
 
@@ -720,31 +645,25 @@ Los poderes públicos impulsarán el fortalecimiento del movimiento asociativo e
 
 2. Reglamentariamente se determinará su composición, competencias, régimen de funcionamiento y adscripción administrativa.
 
-
 #### Disposición adicional única. Plazo máximo para resolución de expedientes.
 
 Las solicitudes de prórroga del permiso de residencia así como la renovación del permiso de trabajo que se formulen por los interesados a tenor de lo dispuesto en la presente Ley Orgánica se resolverán en el plazo máximo de tres meses contados a partir del día siguiente al de la presentación de la solicitud. Transcurrido dicho plazo sin que la Administración haya dado respuesta expresa, se entenderá que la prórroga o renovación han sido concedidas.
-
 
 #### Disposición transitoria primera. Regularización de extranjeros que se encuentren en España.
 
 El Gobierno, mediante Real Decreto, establecerá el procedimiento para la regularización de los extranjeros que se encuentren en territorio español antes del día 1 de junio de 1999 y que acrediten haber solicitado en alguna ocasión permiso de residencia o trabajo o que lo hayan tenido en los tres últimos años.
 
-
 #### Disposición transitoria segunda. Validez de los permisos vigentes.
 
 Los distintos permisos o tarjetas que habilitan para entrar, residir y trabajar en España a las personas incluidas en el ámbito de aplicación de la Ley que tengan validez a la entrada en vigor de la misma, la conservarán por el tiempo para el que hubieren sido expedidas.
-
 
 #### Disposición transitoria tercera. Normativa aplicable a procedimientos en curso.
 
 Los procedimientos administrativos en curso se tramitarán y resolverán de acuerdo con la normativa vigente en el momento de la iniciación, salvo que el interesado solicite la aplicación de la presente Ley.
 
-
 #### Disposición derogatoria única. Derogación normativa.
 
 Queda derogada la Ley Orgánica 7/1985, de 1 de julio, sobre derechos y libertades de los extranjeros en España, y cuantas disposiciones se opongan a lo establecido en esta Ley.
-
 
 #### Disposición final primera. Modificación del artículo 312 del Código Penal.
 
@@ -753,7 +672,6 @@ El apartado 1 del artículo 312 del Código Penal queda redactado de la forma si
 "Artículo 312.
 
 1. Serán castigados con las penas de prisión de dos a cinco años y multa de seis a doce meses, los que trafiquen de manera ilegal con mano de obra."
-
 
 #### Disposición final segunda. Inclusión de un nuevo Título XV bis en el Código Penal.
 
@@ -773,7 +691,6 @@ Se introduce un nuevo Título XV bis con la siguiente redacción:
 
 5. Se impondrán las penas superiores en grado a las previstas en los apartados anteriores, en sus respectivos casos, cuando el culpable perteneciere a una organización o asociación, incluso de carácter transitorio que se dedicare a la realización de tales actividades."
 
-
 #### Disposición final tercera. Modificaciones en los artículos 515, 517 y 518 del Código Penal.
 
 1. Se añade un nuevo apartado 6.º en el artículo 515 con la siguiente redacción:
@@ -788,35 +705,27 @@ Se introduce un nuevo Título XV bis con la siguiente redacción:
 
 "Los que con su cooperación económica o de cualquier otra clase, en todo caso relevante, favorezcan la fundación, organización o actividad de las asociaciones comprendidas en los números 1.º y 3.º al 6.º del artículo 515, incurrirán en la pena de prisión de uno a tres años, multa de doce a veinticuatro meses, e inhabilitación para empleo o cargo público por tiempo de uno a cuatro años."
 
-
 #### Disposición final cuarta. Artículos no orgánicos.
 
 Los preceptos contenidos en los artículos 10, 12, 13 y 14 no tienen carácter orgánico, habiendo sido dictados en ejercicio de lo dispuesto en el artículo 149.1.2.ª de la Constitución.
-
 
 #### Disposición final quinta. Apoyo al sistema de información de Schengen.
 
 El Gobierno, en el marco de lo previsto en el Convenio de aplicación del Acuerdo de Schengen, adoptará cuantas medidas fueran precisas para mantener la exactitud y la actualización de los datos del sistema de información de Schengen, facilitando el ejercicio del derecho a la rectificación o supresión de datos a las personas cuyos datos figuren en el mismo.
 
-
 #### Disposición final sexta. Reglamento de la Ley.
 
 El Gobierno en el plazo de seis meses aprobará el Reglamento de esta Ley Orgánica.
-
 
 #### Disposición final séptima. Información sobre la Ley a organismos y organizaciones interesados.
 
 Desde el momento de la entrada en vigor de esta Ley, el Gobierno adoptará las medidas necesarias para informar a los funcionarios de las diversas Administraciones públicas, a los directivos de asociaciones de inmigrantes, a los Colegios de Abogados, a los sindicatos y a las organizaciones no gubernamentales de los cambios que sobre la aplicación de la normativa anterior supone la aprobación de esta Ley Orgánica.
 
-
 #### Disposición final octava. Habilitación de créditos.
 
 El Gobierno dictará las disposiciones necesarias para hacer frente a los gastos originados por la aplicación y desarrollo de la presente Ley.
 
-
 #### Disposición final novena. Entrada en vigor.
-
-Esta Ley Orgánica entrará en vigor a los veinte días de su completa publicación en el "Boletín Oficial del Estado".
 
 Por tanto, Mando a todos los españoles, particulares y autoridades, que guarden y hagan guardar esta Ley Orgánica.
 

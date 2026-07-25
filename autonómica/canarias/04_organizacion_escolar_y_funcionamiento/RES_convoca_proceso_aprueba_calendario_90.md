@@ -30,9 +30,6 @@ fuente_pdf_oficial: https://sede.gobiernodecanarias.org/boc/boc-a-2026-125-2192.
 
 # Resolución de 15 de junio de 2026, por la que se convoca el proceso y se aprueba el calendario para la renovación parcial o la nueva constitución de los Consejos de los Colectivos de Escuelas Rurales en la Comunidad Autónoma de Canarias, a celebrar en el curso escolar 2026-2027.
 
-https://sede.gobiernodecanarias.org/boc
-boc-a-2026-125-2192
-Boletín Oficial de Canarias núm. 125 Miércoles 24 de junio de 202623727
 III. Otras Resoluciones
 Consejería de Educación, Formación Profesional, Actividad Física y Deportes
 2192 Dirección General de Administración de Centros, Escolarización y Servicios 
@@ -76,9 +73,6 @@ de Escuelas Rurales.
 Tercero.- La Orden de 12 de mayo de 2016, por la que se regulan la composición 
 y el procedimiento para la constitución y la renovación de los consejos escolares de los 
 
-https://sede.gobiernodecanarias.org/boc
-boc-a-2026-125-2192
-Boletín Oficial de Canarias núm. 125 Miércoles 24 de junio de 202623728
 centros educativos sostenidos con fondos públicos del ámbito de la Comunidad Autónoma 
 de Canarias, actualiza el marco normativo para el procedimiento de la elección, renovación 
 y constitución de este órgano colegiado, incluyendo los Consejos de los CER.
@@ -119,9 +113,6 @@ Cuarto.- Renovación o nueva constitución.
 de los sectores del alumnado y de los padres y madres del alumnado y para la renovación 
 parcial de los representantes del equipo pedagógico.
 
-https://sede.gobiernodecanarias.org/boc
-boc-a-2026-125-2192
-Boletín Oficial de Canarias núm. 125 Miércoles 24 de junio de 202623729
 2. De igual manera, mediante la presente convocatoria se deberá cubrir el representante 
 de cada uno de los ayuntamientos, para cuyo puesto de designación se procederá de 
 conformidad con lo previsto en el artículo 18 de la Orden de 12 de mayo de 2016.
@@ -166,9 +157,6 @@ El derecho a elegir y ser elegido representante en la renovación o nueva consti
 lo ostentan los padres, madres o personas tutoras legales del alumnado, y los alumnos 
 o las alumnas que formen parte de los consejos escolares de las escuelas unitarias del 
 
-https://sede.gobiernodecanarias.org/boc
-boc-a-2026-125-2192
-Boletín Oficial de Canarias núm. 125 Miércoles 24 de junio de 202623730
 ámbito del CER, elegidos entre ellos, así como los maestros o maestras que compongan el 
 equipo pedagógico, tal y como estipula el artículo 22, en concordancia con el 20, ambos del 
 indicado Decreto 109/1999, de 25 de mayo.
@@ -212,9 +200,6 @@ de acuerdo con sus competencias, hubiera establecido el modelo de papeleta, este
 público en el tablón de anuncios y en la web del 
 CER, en su caso.
 
-https://sede.gobiernodecanarias.org/boc
-boc-a-2026-125-2192
-Boletín Oficial de Canarias núm. 125 Miércoles 24 de junio de 202623731
 2. En las papeletas de votos del alumnado se hará constar, además, el curso y el centro 
 al que pertenezca el candidato o la candidata.
 3. La Junta Electoral del CER facilitará a los candidatos y las candidatas proclamados 
@@ -249,9 +234,6 @@ Esta carga de datos configurará el Documento Resumen.
 Centro/Gestiones Generales/Elecciones al Consejo 
 CER.
 
-https://sede.gobiernodecanarias.org/boc
-boc-a-2026-125-2192
-Boletín Oficial de Canarias núm. 125 Miércoles 24 de junio de 202623732
 Decimoquinto.- Reclamaciones e impugnaciones.
 1. La Junta Electoral resolverá en primera instancia las reclamaciones sobre cualquier 
 cuestión relativa al proceso electoral.
@@ -291,9 +273,6 @@ CER.
 retrasarse, debiendo contar, en todo caso, con la autorización de la Dirección Territorial de 
 Educación correspondiente.
 
-https://sede.gobiernodecanarias.org/boc
-boc-a-2026-125-2192
-Boletín Oficial de Canarias núm. 125 Miércoles 24 de junio de 202623733
 Decimoctavo.- Difusión del proceso electoral.
 1. La Consejería de Educación, Formación Profesional, Actividad Física y Deportes, 
 a través del Programa Familia y Participación Educativa de la Dirección General de 
@@ -344,9 +323,6 @@ colaboración con aquellas actuaciones que les correspondan por lo establecido e
 presente Resolución, así como con las tendentes a fomentar la participación de todos los 
 sectores implicados en el proceso de elección a Consejos del CER.
 
-https://sede.gobiernodecanarias.org/boc
-boc-a-2026-125-2192
-Boletín Oficial de Canarias núm. 125 Miércoles 24 de junio de 202623734
 Vigesimoprimero.- Asesoramiento y supervisión del proceso electoral.
 1. En cada una de las Direcciones Territoriales se constituirá una Comisión Electoral 
 de su ámbito de gestión, presidida por el Director Territorial de Educación correspondiente 
@@ -375,9 +351,6 @@ Administración de Centros, Escolarización y Servicios Complementarios, p.s. (O
 674/2026, de 12 de junio), el Director General de Infraestructuras y Equipamientos, Iván 
 González Carro.
 
-https://sede.gobiernodecanarias.org/boc
-boc-a-2026-125-2192
-Boletín Oficial de Canarias núm. 125 Miércoles 24 de junio de 202623735
 ANEXO
 CALENDARIO DEL PROCESO ELECTORAL
 RENOV ACIÓN PARCIAL O NUEV A CONSTITUCIÓN DE LOS CONSEJOS 
@@ -460,9 +433,6 @@ febrero
  Publicación en el tablón y en la web del CER de las candidaturas admitidas.
 II. CONSTITUCIÓN DE LA JUNTA ELECTORAL
 
-boc-a-2026-125-2192
-Boletín Oficial de Canarias núm. 125 Miércoles 24 de junio de 202623736
-https://sede.gobiernodecanarias.org/boc
 Hasta el lunes 25 
 de enero
 • Celebración en acto público, a partir de las 17:00 h, del sorteo para la
@@ -555,9 +525,6 @@ Educación correspondiente recurso contra las resoluciones de la Junta
 Electoral del CER.
 de febrero
 
-boc-a-2026-125-2192
-Boletín Oficial de Canarias núm. 125 Miércoles 24 de junio de 202623737
-https://sede.gobiernodecanarias.org/boc
 V . CELEBRACIÓN DE ELECCIONES
 Hasta el viernes 5 
 de febrero

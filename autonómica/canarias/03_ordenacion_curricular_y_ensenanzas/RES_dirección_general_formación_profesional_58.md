@@ -134,8 +134,6 @@ poniendo permanentemente una en el tablón de
 anuncios de la Sala de Profesores del centro.
 Cuarto.- Encomendar a la Inspección de Educa-
 ción la supervisión y asesoramiento en aquellos as-
-Boletín Oficial de Canarias núm. 35 2796 Lunes 20 de febrero de 2012
-boc-a-2012-035-870
 
 pectos que le soliciten los equipos directivos de las
 escuelas. 
@@ -151,7 +149,6 @@ enero.
 Santa Cruz de Tenerife, a 3 de febrero de 2012.-
 El Director General de Formación Profesional y Edu-
 cación de Adultos, José Moya Otero.
-Boletín Oficial de Canarias núm. 35 2797 Lunes 20 de febrero de 2012
 5
 ANEXO 
 INSTRUCCIONES PARA LA ELABORACIÓN DE LAS PRUEBAS COMUNES DE 
@@ -169,7 +166,6 @@ tiempo al examen.
 5.2. Comprensión auditiva: tareas, número y tipo de audición, tiempos asignados a las audiciones, 
 puntuaciones máximas y asignación de tiempo al examen. 
 5.3. Expresión e interacción escrita: tareas, extensión de los textos, asignación de tiempo al exa- men y puntuaciones máximas de cada tarea a partir de los aspectos de las competencias. 
-boc-a-2012-035-870
 
 6
 5.4. Expresión e interacción oral: tareas, tiempos de preparación e intervención y puntuaciones 
@@ -190,14 +186,12 @@ enseñanzas de idiomas de régimen especial impart idas en la Comunidad Autónom
 establecer los criterios para su elaboración. 
 2. Ámbito de aplicación. 
 Estas Instrucciones serán de apli cación en las Escuelas Oficiales de Idiomas de Canarias, dependientes 
-Boletín Oficial de Canarias núm. 35 2798 Lunes 20 de febrero de 2012
 de la Consejería de Educación, Universidades y Sostenibilidad, cuyos Departamentos de coordinación 
 didáctica elaborarán los exámenes correspondientes a cada nivel, en los idiomas impartidos en cada 
 una de ellas. 
 3. Pruebas de certificación. 
 Las pruebas de certificación a las que se refieren las presentes instrucciones conducen a la obtención 
 de los certificados de los Niveles Básico, Intermed io y Avanzado de los idiomas impartidos en esta 
-boc-a-2012-035-870
 
 7
 de la Consejería de Educación, Universidades y Sostenibilidad, cuyos Departamentos de coordinación 
@@ -237,7 +231,6 @@ de inmediata necesidad que requieran comprender y produc ir textos breves, en di
 lengua estándar, que versen sobre aspectos básicos concretos de temas genera les y que contengan ex- 
 presiones, estructuras y léxico de uso frecuente. 
 La posesión del Certificado del nivel básico acredita una competencia de idioma del nivel A2 del Mar- 
-Boletín Oficial de Canarias núm. 35 2799 Lunes 20 de febrero de 2012
 co común europeo de referencia para las lenguas: aprendizaje, enseñanza y evaluación (MCERL), del 
 Consejo de Europa. 
 b) Nivel Intermedio. 
@@ -269,7 +262,6 @@ lenguas, en situaciones cotidianas y menos corrientes que requieran comprender y
 lengua estándar, con estructuras habituales y un repe rtorio léxico común no muy idiomático, y que 
 versen sobre temas generales, cotidianos o en los que se tiene un interés personal. 
 La posesión del Certificado del nivel intermedio acred ita una competencia de idioma del nivel B1 del 
-boc-a-2012-035-870
 
 8
 en forma hablada como escrita, así como para medi ar en la comunicación entre hablantes de distintas 
@@ -284,7 +276,6 @@ La prueba de certificación de nivel avanzado tiene como finalidad evaluar la ca
 candidata para utilizar el idioma con soltura y ef icacia en situaciones hab ituales y más específicas que 
 requieran comprender, producir y tratar textos orales y escritos conceptual y lingüísticamente comple- 
 jos, en una variedad de lengua estándar, con un re pertorio léxico amplio aunque no muy idiomático y 
-Boletín Oficial de Canarias núm. 35 2800 Lunes 20 de febrero de 2012
 que versen sobre temas generales actuales o propi os del campo de especialización y de interés del 
 hablante. 
 La posesión del Certificado del nivel avanzado acredita  una competencia de idioma de nivel B2 del 
@@ -301,7 +292,6 @@ tos viables, eficaces y fiables que han de cumplir , entre otras, las siguientes
 ! Adecuarse al carácter propio de cada una de las destrezas. 
 ! Medir el grado de dominio de los distintos aspectos de cada contenido planteado. 
 ! Permitir el conocimiento del gra do de transferencia de los apre ndizajes adquiridos en cada una de 
-boc-a-2012-035-870
 
 9
 Comprender los objetivos y contenidos más significativos del currículo. 
@@ -313,7 +303,6 @@ Comprender los objetivos y contenidos más significativos del currículo.
 ! Permitir el conocimiento del gra do de transferencia de los apre ndizajes adquiridos en cada una de 
 las destrezas a distintos contextos. 
 ! Utilizar los recursos mínimos indispensabl es para la obtención de la información. 
-Boletín Oficial de Canarias núm. 35 2801 Lunes 20 de febrero de 2012
 10 
 5. Estructura común de la prueba. 
 La prueba constará, en cada nivel,  de cuatro partes independientes: 
@@ -331,7 +320,6 @@ emparejamiento de textos y epígrafes, de rellena r huecos de un banco de ítems
 luarán la lectura extensiva, la intensiva y la selectiva. 
 El examen constará de tres tareas de extensión cr eciente, con la dificultad pr opia de cada nivel, y las 
 puntuaciones máximas y asignación de tiempo,  indicadas en el siguiente cuadro: 
-boc-a-2012-035-870
 
 11 
 Nivel Tarea  Extensión de los textos 
@@ -378,7 +366,6 @@ orales reales o verosímiles, en soporte audio o vídeo,  de diversos tipos y de
 dio, la televisión, grabaciones comerciales o no comerciales, etc. Las tareas serán también de diferen- tes tipos, tales como ejercicios de opción múltiple, de respuesta breve, de completar una tabla o un 
 esquema de notas, de emparejamiento de textos y ep ígrafes, etc. Estas tareas medirán la escucha ex- 
 tensiva, la intensiva y la selectiva. 
-Boletín Oficial de Canarias núm. 35 2802 Lunes 20 de febrero de 2012
 El examen constará de tres tareas, cada una de l as cuales se escuchará dos veces, con la dificultad pro- 
 pia de cada nivel, y con el número, tipo y tiempo de audición, puntuaciones máximas y duración total 
 del examen, indicadas en el siguiente cuadro: 
@@ -409,7 +396,6 @@ conversación
 Entre 2 y 3 minu- 
 tos 4 
 Entre 15 y 30 
-boc-a-2012-035-870
 
 12 
 El examen constará de tres tareas, cada una de l as cuales se escuchará dos veces, con la dificultad pro- 
@@ -475,7 +461,6 @@ tos 4
 puntuaciones máximas de cada tarea a partir de los aspectos de las competencias. 
 1. La parte de expresión escrita constará de dos tareas. Los candidatos deberán redactar dos o más 
 textos en los que se propongan situaciones reales o verosímiles de expresión e interacción claramente contextualizadas, de diversos tipos  y extensión para cada tarea.  
-Boletín Oficial de Canarias núm. 35 2803 Lunes 20 de febrero de 2012
 2. El examen constará de dos tareas, con la dificu ltad propia de cada nivel, y extensión, puntuaciones 
 máximas y asignación de tiempo, indicadas en el siguiente cuadro: 
 Nivel Tarea Extensión del texto 
@@ -526,7 +511,6 @@ Tarea 1 Entre 120  150 palabras 4 puntos
 10 105 minutos 
 Tarea 2 Entre 230-275 palabras 6 puntos 
 La expresión escrita se evaluará con arreglo a las siguientes competencias:  
-boc-a-2012-035-870
 
 13 
 Básico 
@@ -552,11 +536,11 @@ ortográfica y el uso de los signos de puntuación.
 Sociolingüística 
 La adecuación del registro al destinatario, propósito y situación; el uso de formas y expre- 
 siones lingüísticas propias del nivel, condicionadas por lo social: marcadores de relaciones 
-sociales, fórmulas de cortesía 
+sociales, fórmulas de cortesía
+ 
 3. Para la evaluación de las competencias se tendrán en cuenta los aspectos que se indican a continua- 
 ción para cada una de ellas: 
 - Competencia pragmática. 
-Boletín Oficial de Canarias núm. 35 2804 Lunes 20 de febrero de 2012
 Consigna 
 Se refiere al grado de cumplimiento del objeti vo de comunicación solicitado en la tarea: si 
 se ha cumplido total o parcialmente o si no se ha cumplido en absoluto. 
@@ -564,11 +548,13 @@ Comprueba si se ha respetado el número de palabras que se solicitaba en la cons
 tarea. Verifica si se han tratado todos los puntos de la tarea, así como la pertinencia del conteni- 
 do del texto en conjunto o de determinadas partes de este. 
 Formato Se refiere al manejo de convenciones gráfic as y formales y a su aplicación para la cons- 
-trucción de una tipología textual adecuada (carta, argumentación, anuncio, mensaje). 
+trucción de una tipología textual adecuada (carta, argumentación, anuncio, mensaje
+). 
 Organización y 
 conectores 
 Se refiere al grado de adecuación en la orga nización del texto: la forma de presentar la 
-información, la estructura interna, la lig azón entre los párrafos Entre los mecanismos 
+información, la estructura interna, la lig azón entre los párrafos
+ Entre los mecanismos 
 para la construcción textual, se prestará es pecial atención al empleo adecuado de conecto- 
 res y marcadores discursivos. 
 - Competencia lingüística. 
@@ -576,27 +562,30 @@ Léxico Verifica el grado de corrección en el vocabulari o empleado, su varieda
 léxico, siempre según la tarea propuesta y dentro del nivel de competencia evaluado. 
 Ortografía 
 Se refiere tanto a la ortografía literal como, en su caso, a otros signos gráficos que acom- 
-pañan la escritura ( tildes, diéresis).  
+pañan la escritura ( tildes, diéresis
+).  
 Incluye también las reglas referidas a mayúsculas y minúsculas. Atiende también al empleo adecuado de los signos de puntuación que transcriben gráfi- 
 camente las pausas y la entonación. 
 Gramática 
 Se refiere al grado de corrección de todos lo s elementos relacionados con la morfología y 
-la sintaxis: orden de los elementos, concordancias, formas y estructuras 
+la sintaxis: orden de los elementos, concordancias, formas y estructuras
+ 
 En el análisis de los errores que la producci ón presente, será necesario considerar si estos 
 corresponden al estadio de adquisición lingüística que se pretende certificar, si se derivan de la toma de riesgos y en qué grado obstaculizan la comunicación. 
 - Competencia sociolingüística. 
 Se refiere a la consideración de cuestiones tales como la situación de comunicación (la 
 real de la prueba y/o la creada a partir de las pautas consignadas en esta), el propósito de 
-boc-a-2012-035-870
 
 14 
 Ortografía 
-pañan la escritura ( tildes, diéresis).  
+pañan la escritura ( tildes, diéresis
+).  
 Incluye también las reglas referidas a mayúsculas y minúsculas. Atiende también al empleo adecuado de los signos de puntuación que transcriben gráfi- 
 camente las pausas y la entonación. 
 Gramática 
 Se refiere al grado de corrección de todos lo s elementos relacionados con la morfología y 
-la sintaxis: orden de los elementos, concordancias, formas y estructuras 
+la sintaxis: orden de los elementos, concordancias, formas y estructuras
+ 
 En el análisis de los errores que la producci ón presente, será necesario considerar si estos 
 corresponden al estadio de adquisición lingüística que se pretende certificar, si se derivan de la toma de riesgos y en qué grado obstaculizan la comunicación. 
 - Competencia sociolingüística. 
@@ -604,11 +593,12 @@ Registro
 Se refiere a la consideración de cuestiones tales como la situación de comunicación (la 
 real de la prueba y/o la creada a partir de las pautas consignadas en esta), el propósito de 
 esta comunicación, los destinatarios, el mensaj e y la relación real o virtual que les une a 
-estas personas Se deberá comprobar que es tas variables han condicionado que, para el 
+estas personas
+ Se deberá comprobar que es tas variables han condicionado que, para el 
 texto, se elija un determinado registro, estilo  y nivel lingüístico, lo que se verbalizará a 
 través de la utilización de unas formas marcad as sociolingüísticamente (en el léxico, en 
-las estructuras). 
-Boletín Oficial de Canarias núm. 35 2805 Lunes 20 de febrero de 2012
+las estructuras
+). 
 15 
 La primera tarea se calificará teniendo en cuenta la  escala establecida para ca da uno de los aspectos de 
 las competencias, de forma que la máxima puntuación de la tarea sea 40.  
@@ -639,7 +629,6 @@ propias del texto.
 1 No adapta adecuadamente el contenido a la s convenciones organizativas y tipográficas 
 propias del texto. 
 0 El contenido no responde a las convenciones organizativas y tipográficas propias del texto. 
-boc-a-2012-035-870
 
 16 
 Puntuación de 
@@ -687,8 +676,6 @@ nivel.
 3 Utiliza de manera insuficiente estructuras y formas gramaticales propias del nivel.  
 0 Utiliza un número muy limitado, y con numeros os errores, de estructuras y formas 
 gramaticales propias del nivel  
-Boletín Oficial de Canarias núm. 35 2806 Lunes 20 de febrero de 2012
-boc-a-2012-035-870
 
 17 
 Puntuación del 
@@ -726,10 +713,7 @@ propias del texto.
 1 No adapta adecuadamente el contenido a las co nvenciones organizativas y tipográficas propias 
 del texto. 
 0 El contenido no responde a las convenciones organizativas y tipográficas propias del texto. 
-Boletín Oficial de Canarias núm. 35 2807 Lunes 20 de febrero de 2012
-boc-a-2012-035-870
 
-Boletín Oficial de Canarias núm. 35 2808 Lunes 20 de febrero de 2012
 18 
 Puntuación de 
 organización 
@@ -776,7 +760,6 @@ nivel.
 4 Utiliza de manera insuficiente estructuras y formas gramaticales propias del nivel.  
 0 Utiliza un número muy limitado, y con numerosos errores, de estructuras y formas gramaticales 
 propias del nivel.  
-boc-a-2012-035-870
 
 19 
 Puntuación 
@@ -800,7 +783,6 @@ individualmente.
 a) Tarea expositiva. 
 La tarea expositiva consistirá en un monólogo y te ndrá la duración y puntuación máxima que se indi- 
 can en el siguiente cuadro: 
-Boletín Oficial de Canarias núm. 35 2809 Lunes 20 de febrero de 2012
 Nivel Tiempo de  
 preparación 
 Tiempo de 
@@ -814,7 +796,6 @@ Básico 2 minutos 2 minutos 4 puntos
 Avanzado 4 minutos 5 minutos 4 puntos 
 b) Tarea de interacción. 
 La tarea de interacción oral consistirá en una conv ersación entre aspirantes, que actuarán por parejas o 
-boc-a-2012-035-870
 
 20 
 Nivel Tiempo de  
@@ -855,8 +836,8 @@ Lingüística El uso de vocabulario, estructuras y formas gramaticales propias d
 entonación y la clarid ad de la expresión. 
 Sociolingüística 
 La adecuación del registro al destinatario, pr opósito y situación; el uso de formas y ex- 
-presiones lingüísticas propias del nivel, condicionadas por lo social: marcadores de rela- ciones sociales, fórmulas de cortesía 
-Boletín Oficial de Canarias núm. 35 2810 Lunes 20 de febrero de 2012
+presiones lingüísticas propias del nivel, condicionadas por lo social: marcadores de rela- ciones sociales, fórmulas de cortesía
+ 
 Para la evaluación de las competencias se tendrán en  cuenta los aspectos que se indican a continuación 
 para cada una de ellas: 
 - Competencia pragmática. 
@@ -870,7 +851,8 @@ nido del texto en conjunto o de determinadas partes de este.
 Organización y 
 cohesión 
 Se refiere al grado de adecu ación en la organización del texto:  la forma de presentar la 
-información, la estructura interna, la lig azón entre las partes Entre los mecanismos 
+información, la estructura interna, la lig azón entre las partes
+ Entre los mecanismos 
 para la construcción textual, se prestará es pecial atención al empl eo adecuado de conec- 
 tores así como de los marcador es propios de la conversación. 
 Competencia lingüística. 
@@ -887,7 +869,8 @@ nido del texto en conjunto o de determinadas partes de este.
 Organización y 
 cohesión 
 Se refiere al grado de adecu ación en la organización del texto:  la forma de presentar la 
-información, la estructura interna, la lig azón entre las partes Entre los mecanismos 
+información, la estructura interna, la lig azón entre las partes
+ Entre los mecanismos 
 para la construcción textual, se prestará es pecial atención al empl eo adecuado de conec- 
 tores así como de los marcador es propios de la conversación. 
 - Competencia lingüística. 
@@ -904,13 +887,12 @@ nido del texto en conjunto o de determinadas partes de este.
 Organización y 
 cohesión 
 Se refiere al grado de adecu ación en la organización del texto:  la forma de presentar la 
-información, la estructura interna, la lig azón entre las partes Entre los mecanismos 
+información, la estructura interna, la lig azón entre las partes
+ Entre los mecanismos 
 para la construcción textual, se prestará es pecial atención al empl eo adecuado de conec- 
 tores así como de los marcador es propios de la conversación. 
 - Competencia lingüística. 
-boc-a-2012-035-870
 
-Boletín Oficial de Canarias núm. 35 2811 Lunes 20 de febrero de 2012
 21 
 Consigna 
 Se refiere al grado de cump limiento del objetivo de comuni 
@@ -922,7 +904,8 @@ nido del texto en conjunto o de determinadas partes de este.
 Organización y 
 cohesión 
 Se refiere al grado de adecu ación en la organización del texto:  la forma de presentar la 
-información, la estructura interna, la lig azón entre las partes Entre los mecanismos 
+información, la estructura interna, la lig azón entre las partes
+ Entre los mecanismos 
 para la construcción textual, se prestará es pecial atención al empl eo adecuado de conec- 
 tores así como de los marcador es propios de la conversación. 
 - Competencia lingüística. 
@@ -936,7 +919,8 @@ cación.
 Se evalúa también la adecuación de la entonación, el ritmo y las pausas en función de la modalidad discursiva, la tipología textual y la función comunicativa. 
 Gramática 
 Se refiere al grado de corrección de todos los elementos relacionados con la morfología y 
-la sintaxis: orden de los elementos, concordancias, formas y estructuras En el análisis de los errores que la producción  presente, será necesario considerar si estos 
+la sintaxis: orden de los elementos, concordancias, formas y estructuras
+ En el análisis de los errores que la producción  presente, será necesario considerar si estos 
 corresponden al estadio de adquisición lingüística que se pretende certificar, si se derivan 
 de la toma de riesgos y en qué grado obstaculizan la comunicación. 
 - Competencia sociolingüística. 
@@ -944,10 +928,12 @@ Registro
 Se refiere a la consideración de cuestione s tales como la situación de comunicación (la 
 real de la prueba y/o la creada a partir de las pautas consignadas en esta), el propósito de 
 esta comunicación, los destinatarios, el mensaj e y la relación real o virtual que les une 
-a estas personas Se deberá comprobar que estas variables han condicionado que, para 
+a estas personas
+ Se deberá comprobar que estas variables han condicionado que, para 
 el texto, se elija un determinado registro, estilo y nivel lingüístico, lo que se verbalizará a 
 través de la utilización de unas formas marcad as sociolingüísticamente (en el léxico, en 
-las estructuras). 
+las estructuras
+). 
 Los criterios para calificar la expresión e inter acción oral son los que se indican a continuación: 
 - Tarea expositiva. 
 Esta tarea se calificará teniendo en cuenta la escal a establecida para cada uno de los aspectos de las 
@@ -969,10 +955,12 @@ Registro
 Se refiere a la consideración de cuestione s tales como la situación de comunicación (la 
 real de la prueba y/o la creada a partir de las pautas consignadas en esta), el propósito de 
 esta comunicación, los destinatarios, el mensaj e y la relación real o virtual que les une 
-a estas personas Se deberá comprobar que estas variables han condicionado que, para 
+a estas personas
+ Se deberá comprobar que estas variables han condicionado que, para 
 el texto, se elija un determinado registro, estilo y nivel lingüístico, lo que se verbalizará a 
 través de la utilización de unas formas marcad as sociolingüísticamente (en el léxico, en 
-las estructuras). 
+las estructuras
+). 
 Los criterios para calificar la expresión e inter acción oral son los que se indican a continuación: 
 - Tarea expositiva. 
 Esta tarea se calificará teniendo en cuenta la escal a establecida para cada uno de los aspectos de las 
@@ -990,7 +978,6 @@ puntos de la tarea.
 2 El grado de cumplimiento de la  comunicación es insuficiente y trata menos de la mitad de 
 los puntos de la tarea. 
 0 No consigue el objetivo de la comunicaci ón y trata pocos puntos de la tarea. 
-boc-a-2012-035-870
 
 23 
 Puntuación de 
@@ -1038,8 +1025,6 @@ nivel.
 2 Utiliza de manera insuficiente las estructura s y formas gramaticales propias del nivel. 
 0 Utiliza un número muy limitado, y con numeros os errores, de estructuras y formas 
 gramaticales propias del nivel.  
-Boletín Oficial de Canarias núm. 35 2812 Lunes 20 de febrero de 2012
-boc-a-2012-035-870
 
 24 
 Puntuación de 
@@ -1078,10 +1063,7 @@ apropiado de los marcadores del discurso.
 comunicación y hace uso adecuado de los marcadores del discurso. 
 3 Interactúa de forma poco coherente y hace un  uso limitado de los marcadores del discurso. 
 0 No interactúa adecuadamente, ni emplea de forma apropiada los marcadores del discurso. 
-Boletín Oficial de Canarias núm. 35 2813 Lunes 20 de febrero de 2012
-boc-a-2012-035-870
 
-Boletín Oficial de Canarias núm. 35 2814 Lunes 20 de febrero de 2012
 25 
 Puntuación de 
 léxico LÉXICO 
@@ -1123,7 +1105,6 @@ marcadores del contexto social.
 0 
 No se ajusta a la situación de comunicación ni utiliza los marcadores apropiados del contexto 
 social. 
-boc-a-2012-035-870
 
 26 
 6. Plantillas de respuesta. 
@@ -1143,14 +1124,12 @@ lificación obtenida.
 - La presentación de textos e imágenes deben ser de  un tamaño que permita ver con nitidez los deta- 
 lles de los aspectos sobre de los que debe hablar el aspirante.  
 - Se han de indicar los tiempos de preparación e intervención. 
-Boletín Oficial de Canarias núm. 35 2815 Lunes 20 de febrero de 2012
 8. Pruebas que se han de elaborar. 
 De cada idioma y nivel se elaborarán los exám enes correspondientes a las siguientes pruebas: 
 a) Prueba ordinaria anual. 
 b) Prueba de incidencias, destinada a las person as que, por causa de fuerza mayor debidamente acre- 
 ditada, no pudieron asistir a la convocatoria ordinaria. 
 Una copia de las pruebas confeccionadas (ordinaria e incidencias) será remitida por las Escuelas Ofi- 
-boc-a-2012-035-870
 
 27 
 De cada idioma y nivel se elaborarán los exám enes correspondientes a las siguientes pruebas: 
@@ -1167,7 +1146,6 @@ auditiva, lo comunicará a la Dirección General de Formación Profesional y Edu
 antes del 1 de febrero, a efectos de que ésta provea de los medios necesarios para este fin. 
 La Dirección General facilitará a la  EOI que lo solicite, el material  correspondiente a las pruebas de 
 cursos anteriores, en formato que permita su tratamiento informático. 
-Boletín Oficial de Canarias núm. 35 2816 Lunes 20 de febrero de 2012
 10. Calendario de elaboración. 
 Los Departamentos de coordinación didáctica desarrollarán su trabajo entre septiembre y febrero del 
 año académico anterior a la celebración de la prueba , de manera que los exámenes, y sus plantillas de 
@@ -1181,7 +1159,6 @@ dinación didáctica y todo el profesorado, y designará las Escuelas Coordinado
 12. Prueba anual de obtención de certificados. 
 La Dirección General de Formación Profesional y Educación de Adultos convocará anualmente las 
 pruebas de obtención de los certificados de enseñanz as de idiomas de régimen especial, determinando, 
-boc-a-2012-035-870
 
 28 
 ción didáctica. A este efecto, antes del 30 de octubre, la Dirección General de Formación Profesional y 
@@ -1193,7 +1170,6 @@ La Dirección General de Formación Profesional y Educación de Adultos convocar
 pruebas de obtención de los certificados de enseñanz as de idiomas de régimen especial, determinando, 
 entre otros, plazos y procedimiento de inscripción, cal endario de realización de las pruebas, e instruc- 
 ciones para su organización, desarrollo y aplicación. 
-Boletín Oficial de Canarias núm. 35 2817 Lunes 20 de febrero de 2012
 13. Precisiones a las pruebas. 
 Los Departamentos de coordinación didáctica de cada EOI pueden solicitar a la Inspección de Educa- 
 ción las aclaraciones que requieran para la adecuada el aboración de las pruebas. No obstante, la Direc- 
@@ -1201,5 +1177,4 @@ ción General facilitará las instrucciones compleme ntarias que puedan ser nece
 14. Revisión de las pruebas. 
 Para velar por la validez, fiabilidad, viabilidad, eq uidad e impacto positivo de las pruebas elaboradas, 
 la Dirección General podrá constituir una Comisión de  trabajo, de carácter consultivo, que actuaría 
-entre el 5 y el 29 de marzo de cada curso académico. 
-boc-a-2012-035-870
+entre el 5 y el 29 de marzo de cada curso académico.

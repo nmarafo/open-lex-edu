@@ -30,9 +30,6 @@ fuente_pdf_oficial: https://sede.gobiernodecanarias.org/boc/boc-a-2021-229-4680.
 
 # Resolución de 27 de octubre de 2021, por la que se ordena la publicación del Convenio Marco de Cooperación entre la Consejería de Educación, Universidades, Cultura y Deportes y la Federación Canaria de Municipios (FECAM) para el desarrollo de acciones y actuaciones en los centros docentes públicos no universitarios.
 
-https://sede.gobcan.es/boc
-BOC-A-2021-229-4680
-Boletín Oficial de Canarias núm. 229 Lunes 8 de noviembre de 202145740
 III. Otras Resoluciones
 Consejería de Educación, Universidades, Cultura y Deportes
 4680 Secretaría General Técnica.- Resolución de 27 de octubre de 2021, por la que se 
@@ -62,9 +59,6 @@ de acciones y actuaciones en los centros docentes públicos no universitarios.
 Santa Cruz de Tenerife, a 27 de octubre de 2021.- El Secretario General Técnico, 
 Manuel Peinado Bosch.
 
-https://sede.gobcan.es/boc
-BOC-A-2021-229-4680
-Boletín Oficial de Canarias núm. 229 Lunes 8 de noviembre de 202145741
 ANEXO
 CONVENIO MARCO DE COOPERACIÓN ENTRE LA CONSEJERÍA DE 
 EDUCACIÓN, UNIVERSIDADES, CULTURA Y DEPORTES DEL GOBIERNO DE 
@@ -103,9 +97,6 @@ la participación, el respeto y la solidaridad, con la finalidad de lograr una m
 de los recursos destinados a la educación y contribuir a los fines educativos establecidos 
 en la misma.
 
-https://sede.gobcan.es/boc
-BOC-A-2021-229-4680
-Boletín Oficial de Canarias núm. 229 Lunes 8 de noviembre de 202145742
 Asimismo, la Ley Orgánica 8/2013, de 9 de diciembre, para la mejora de la 
 calidad educativa (LOMCE), establece un principio de cooperación sincera entre las 
 Administraciones educativas que permita compartir las mejores prácticas del sistema y 
@@ -152,9 +143,6 @@ los centros educativos, asumiendo los derechos y obligaciones que les correspond
 los compromisos adquiridos, a través de la suscripción del correspondiente protocolo de 
 adhesión y correspondiente convenio específico derivados de este Convenio Marco.
 
-https://sede.gobcan.es/boc
-BOC-A-2021-229-4680
-Boletín Oficial de Canarias núm. 229 Lunes 8 de noviembre de 202145743
 Se habilitará un espacio virtual o aplicativo informático para que los ayuntamientos 
 remitan la información de las actividades a realizar, al que tendrán acceso la persona o 
 personas designadas, tanto de la Consejería de Educación, Universidades, Cultura y 
@@ -190,9 +178,6 @@ para el mismo.
 3.- Realizar un seguimiento de la actividad así como una evaluación que deberá incluirse 
 en la memoria final del curso.
 
-https://sede.gobcan.es/boc
-BOC-A-2021-229-4680
-Boletín Oficial de Canarias núm. 229 Lunes 8 de noviembre de 202145744
 Por parte, la Federación se compromete a las siguientes obligaciones:
 1.- Remitir a la Consejería de Educación, Universidades, Cultura y Deportes del 
 Gobierno de Canarias, el Protocolo de Adhesión firmado presentado por los Ayuntamientos 
@@ -229,9 +214,6 @@ realizan en los centros.
 horario lectivo no interfieran en la marcha de la actividad docente ni en el desenvolvimiento 
 normal del centro.
 
-https://sede.gobcan.es/boc
-BOC-A-2021-229-4680
-Boletín Oficial de Canarias núm. 229 Lunes 8 de noviembre de 202145745
 6.- Acreditar en virtud del presente Convenio Marco de Cooperación a las personas 
 que desarrollen las actividades acordadas, tras la comprobación previa del cumplimiento 
 de los requisitos de idoneidad, así como certificar las circunstancias de las mismas que 
@@ -272,9 +254,6 @@ convenios de cooperación y figuras afines prevista en la Ley 40/2015, de 1 de o
 de Régimen Jurídico del Sector Público, todo ello sin perjuicio de que se cumpla con la 
 normativa vigente en materia de prevención de riesgos laborales.
 
-https://sede.gobcan.es/boc
-BOC-A-2021-229-4680
-Boletín Oficial de Canarias núm. 229 Lunes 8 de noviembre de 202145746
 Dichas personas para realizar las actividades, acciones y actuaciones objeto del presente 
 Convenio Marco de Cooperación, contarán exclusivamente con los medios materiales y 
 personales que pongan a su disposición los Ayuntamientos, que además sufragarán cuantos 
@@ -312,9 +291,6 @@ curso escolar.
 Universidades, Cultura y Deportes y los Ayuntamientos en la ejecución de las actividades, 
 acciones y actuaciones.
 
-https://sede.gobcan.es/boc
-BOC-A-2021-229-4680
-Boletín Oficial de Canarias núm. 229 Lunes 8 de noviembre de 202145747
 7. Establecer el mecanismo de evaluación que permita valorar, al menos anualmente, la 
 conveniencia de continuar con la relación pactada o, en su caso, proceder a la denuncia del 
 Convenio en la forma que se hubiera previsto en el mismo.
@@ -354,9 +330,6 @@ informaciones o los datos personales a las que puedan tener acceso en el desarro
 algunas de las actividades o acciones objeto de este Convenio Marco de Cooperación, 
 siempre que esas informaciones no sean de dominio público.
 
-https://sede.gobcan.es/boc
-BOC-A-2021-229-4680
-Boletín Oficial de Canarias núm. 229 Lunes 8 de noviembre de 202145748
 2. Las partes se obligan a mantener y utilizar dicha información o datos personales con 
 la sola finalidad de realizar adecuadamente las labores encomendadas, y por lo tanto se 
 obliga a no revelar ni distribuir bajo forma alguna, directa o indirecta, la información y a 
@@ -394,9 +367,6 @@ y fecha al principio mencionados.- La Consejera de Educación, Universidades, Cu
 y Deportes, Manuela de Armas Rodríguez.- La Presidenta de la Federación Canaria de 
 Municipios, María Concepción Brito Núñez.
 
-https://sede.gobcan.es/boc
-BOC-A-2021-229-4680
-Boletín Oficial de Canarias núm. 229 Lunes 8 de noviembre de 202145749
 ANEXO I
 MODELO DE PROTOCOLO DE ADHESIÓN AL CONVENIO MARCO DE 
 COOPERACIÓN ENTRE LA CONSEJERÍA DE EDUCACIÓN, UNIVERSIDADES, 
@@ -436,9 +406,6 @@ Colaboración suscrito entre la Consejería Educación, Universidades, Cultura y
 FECAM, para el desarrollo por los diversos Ayuntamientos de Canarias de actividades en los centros 
 docentes públicos no universitarios dependientes de la Consejería.
 
-https://sede.gobcan.es/boc
-BOC-A-2021-229-4680
-Boletín Oficial de Canarias núm. 229 Lunes 8 de noviembre de 202145750
 Cuarta.- Vigencia del Protocolo.
 El presente Protocolo surtirá efecto desde el momento de su firma y extenderá su vigencia hasta 
 …………….

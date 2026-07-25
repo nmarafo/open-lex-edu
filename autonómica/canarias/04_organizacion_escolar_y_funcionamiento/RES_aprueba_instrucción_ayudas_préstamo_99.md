@@ -29,9 +29,6 @@ fuente_pdf_oficial: https://sede.gobiernodecanarias.org/boc/boc-a-2026-067-1098.
 
 # Resolución de 25 de marzo de 2026, por la que se aprueba la instrucción de las ayudas de préstamo de libros de texto y materiales didácticos en los centros públicos para el curso escolar 2026/2027.
 
-https://sede.gobiernodecanarias.org/boc
-boc-a-2026-067-1098
-Boletín Oficial de Canarias núm. 67 Miércoles 8 de abril de 202613218
 III. Otras Resoluciones
 Consejería de Educación, Formación Profesional, Actividad Física y Deportes
 1098 Dirección General de Administración de Centros, Escolarización y Servicios 
@@ -75,9 +72,6 @@ se desarrollarán acciones dirigidas hacia las personas, grupos, entornos social
 territoriales que se encuentren en situación de vulnerabilidad socioeducativa y cultural, 
 con el objetivo de eliminar las barreras que limitan su aprendizaje, asegurando con ello 
 
-https://sede.gobiernodecanarias.org/boc
-boc-a-2026-067-1098
-Boletín Oficial de Canarias núm. 67 Miércoles 8 de abril de 202613219
 los ajustes razonables en función de sus necesidades individuales y prestando el apoyo 
 necesario para fomentar su máximo desarrollo educativo y social, de manera que puedan 
 acceder a una educación inclusiva, en igualdad de condiciones con los demás.
@@ -125,9 +119,6 @@ de la dotación específica para el alumnado con necesidades específicas de apo
 NEAE), pertenecientes a la modalidad “Gratuidad”; y el mantenimiento de los actuales 
 materiales de todos los cursos del resto de niveles, pertenecientes a la modalidad “Ayudas”.
 
-https://sede.gobiernodecanarias.org/boc
-boc-a-2026-067-1098
-Boletín Oficial de Canarias núm. 67 Miércoles 8 de abril de 202613220
 Séptimo.- Estos hechos determinan que proceda, para el curso escolar 2026/2027, 
 la realización de una resolución que regule las instrucciones del procedimiento para la 
 asignación de fondos a los centros docentes públicos para la adquisición y préstamo de 
@@ -168,9 +159,6 @@ a las Familias Numerosas.
 Undécimo.- La disposición transitoria única de la Ley 43/2015, de 9 de octubre, del 
 Tercer Sector de Acción Social.
 
-https://sede.gobiernodecanarias.org/boc
-boc-a-2026-067-1098
-Boletín Oficial de Canarias núm. 67 Miércoles 8 de abril de 202613221
 En virtud de las competencias que tengo legalmente atribuidas en el artículo 18.2.B.a) 
 del Decreto 84/2024, de 10 de junio, por el que se aprueba el Reglamento Orgánico de la 
 Consejería de Educación, Formación Profesional, Actividad Física y Deportes, así como 
@@ -255,9 +243,6 @@ Alumnado  de  los  grupos
 A) y B).
 Apéndice VIII
 
-https://sede.gobiernodecanarias.org/boc
-boc-a-2026-067-1098
-Boletín Oficial de Canarias núm. 67 Miércoles 8 de abril de 202613222
 ENSEÑANZAS
 Programa de Gratuidad
 APÉNDICES ENSEÑANZAS
@@ -392,9 +377,6 @@ Las Palmas de Gran Canaria, a 25 de marzo de 2026.- El Director General de
 Administración de Centros, Escolarización y Servicios Complementarios, David Crego 
 Chaves.
 
-https://sede.gobiernodecanarias.org/boc
-boc-a-2026-067-1098
-Boletín Oficial de Canarias núm. 67 Miércoles 8 de abril de 202613223
 ANEXO I
 INSTRUCCIONES PARA EL CURSO ESCOLAR 2026/2027 DEL PROCEDIMIENTO 
 DE GESTIÓN Y CONCESIÓN DEL DISFRUTE DEL PRÉSTAMO DE LIBROS DE TEXTO 
@@ -438,9 +420,6 @@ UGLT 1.º ESO + CFGB-PFPA + TV A. Esta modalidad incluye los niveles
 Adulta, 1.º y 2.º de Ciclos formativos de Grado Básico y 1.º y 2.º de Itinerarios Formativos 
 de Formación Profesional Adaptada (IFE+16 e IFC+21) en los centros docentes públicos.
 
-https://sede.gobiernodecanarias.org/boc
-boc-a-2026-067-1098
-Boletín Oficial de Canarias núm. 67 Miércoles 8 de abril de 202613224
 Para el nivel de 1.º de Educación Secundaria Obligatoria el importe de la ayuda 
 individual se corresponde con un máximo de 220,00 euros, de la modalidad de materiales 
 “Libros de texto en papel o Libros de texto en formato digital con licencia de vigencia para 
@@ -483,9 +462,6 @@ Cuarta.- Solicitudes.
 El disfrute del uso gratuito de libros de textos o materiales didácticos será automático, 
 sin necesidad de presentación de solicitud y documentación anexa.
 
-https://sede.gobiernodecanarias.org/boc
-boc-a-2026-067-1098
-Boletín Oficial de Canarias núm. 67 Miércoles 8 de abril de 202613225
 Quinta.- Fases y plazos del procedimiento.
 Los plazos se encuentran vinculados a las Resoluciones de 5 y 18 de febrero de 
 2026, de la Dirección General de Administración de Centros, Escolarización y Servicios 
@@ -526,9 +502,6 @@ finalidad de coordinar todas las actuaciones necesarias, compuesta al menos por:
 • V ocales: dos profesoras/es y dos madres/padres de alumnado.
 Una/o de las/los vocales actuará como Secretaria/o con voz y voto.
 
-https://sede.gobiernodecanarias.org/boc
-boc-a-2026-067-1098
-Boletín Oficial de Canarias núm. 67 Miércoles 8 de abril de 202613226
 El Consejo Escolar de cada centro deberá concretar las funciones de gestión y 
 supervisión de esta Comisión, en las que se incluirán como mínimo las siguientes:
 • Establecer los procedimientos para hacer efectivo, al comienzo del curso escolar, el 
@@ -573,9 +546,6 @@ licencia de vigencia para cuatro cursos”; y en los niveles que corresponda, �
 Reutilizables” con 
 ISBN.
 
-https://sede.gobiernodecanarias.org/boc
-boc-a-2026-067-1098
-Boletín Oficial de Canarias núm. 67 Miércoles 8 de abril de 202613227
 En la asignación se incluirán preferentemente libros o material didáctico para el desarrollo 
 de las áreas, materias instrumentales o materias de ámbito común de los cursos citados.
 Una vez se supere el importe del lote establecido para el nivel correspondiente, no se 
@@ -630,9 +600,6 @@ el cheque-libro, el estado cambia a reservado, y aparecen cargados también las 
 correspondientes la fecha de recepción por parte del proveedor y su CIF.
 Entregado.
 
-https://sede.gobiernodecanarias.org/boc
-boc-a-2026-067-1098
-Boletín Oficial de Canarias núm. 67 Miércoles 8 de abril de 202613228
 Una vez realizadas las comprobaciones y selecciones correspondientes, finaliza la 
 generación de los cheques-libro.
 Para las acciones de entrega presencial y envío a la APP de familias del Cheque-libro 
@@ -689,9 +656,6 @@ mismos, con cargo a las cantidades libradas para la
 gestión  del  Programa  de  Gratuidad  de  Libros  de 
 Texto.
 
-https://sede.gobiernodecanarias.org/boc
-boc-a-2026-067-1098
-Boletín Oficial de Canarias núm. 67 Miércoles 8 de abril de 202613229
 Material Libros de texto en papel con ISBN o Libros de texto en formato digital 
 con licencia de vigencia para cuatro cursos con ISBN, para 3.º de Educación Primaria, 
 1.º de Educación Secundaria Obligatoria, y 1.º y 2.º de Ciclos Formativos de Grado Básico.
@@ -752,9 +716,6 @@ por indicación voluntaria de las familias o en entornos con mayores necesidades
 Se adquirirá el material en las librerías/tutores y se entregará a las familias en el centro 
 educativo, que deberán hacer un uso adecuado de este.
 
-https://sede.gobiernodecanarias.org/boc
-boc-a-2026-067-1098
-Boletín Oficial de Canarias núm. 67 Miércoles 8 de abril de 202613230
 9.2.2.- Material No Reutilizable de elaboración propia, sin cheque-libro de 1.º y 
 2.º de Educación Primaria, 1.º y 2.º de PFPA, Concreción Curricular para Educación 
 Primaria, Concreción Curricular para el tránsito a la Vida Adulta.
@@ -792,9 +753,6 @@ NEAE que cursa estudios en centros
 ordinarios y precisa materiales curriculares adaptados a sus necesidades individuales, debe 
 remitirse a la instrucción décima.
 
-https://sede.gobiernodecanarias.org/boc
-boc-a-2026-067-1098
-Boletín Oficial de Canarias núm. 67 Miércoles 8 de abril de 202613231
 9.3.- Recogida de material.
 Todos los libros de texto en formato papel con ISBN para los niveles de 3.º de Educación 
 Primaria, 1.º de Educación Secundaria Obligatoria, 1.º y 2.º de Ciclos formativos de Grado 
@@ -838,9 +796,6 @@ El procedimiento establecido en esta instrucción garantiza la disponibilidad de
 completos durante la vigencia del periodo de reutilización, mediante la dotación económica 
 indicada para la adquisición de material adecuado a las necesidades del alumnado.
 
-https://sede.gobiernodecanarias.org/boc
-boc-a-2026-067-1098
-Boletín Oficial de Canarias núm. 67 Miércoles 8 de abril de 202613232
 Undécima.- Información a las familias.
 Antes de la finalización del curso escolar 2025/2026, los equipos directivos informarán 
 a las familias de los niveles citados en el Anexo I, del procedimiento del Programa de 
@@ -861,9 +816,6 @@ sistema de gratuidad de libros de texto.
 Asimismo, deberán someterse a las actuaciones de comprobación a efectuar por la 
 Comisión de Seguimiento.
 
-https://sede.gobiernodecanarias.org/boc
-boc-a-2026-067-1098
-Boletín Oficial de Canarias núm. 67 Miércoles 8 de abril de 202613233
 ANEXO II
 INSTRUCCIONES PARA EL CURSO ESCOLAR 2026/2027 DEL PROCEDIMIENTO 
 DE GESTIÓN Y CONCESIÓN DEL DISFRUTE DEL PRÉSTAMO DE LIBROS DE TEXTO 
@@ -901,9 +853,6 @@ corresponde:
 • Modalidad de materiales “Material tecnológico”….……….. máximo de 210,00 euros.
 • Modalidad de materiales “Material tecnológico y licencia”…. máximo de 300,00 euros.
 
-https://sede.gobiernodecanarias.org/boc
-boc-a-2026-067-1098
-Boletín Oficial de Canarias núm. 67 Miércoles 8 de abril de 202613234
 Asimismo, será beneficiario del Programa el alumnado con necesidades específicas de 
 apoyo educativo (NEAE) con informe, que esté matriculado en aula ordinaria de los cursos 
 citados de las modalidades de Segundo Ciclo de Educación Infantil, Educación Primaria, 
@@ -944,9 +893,6 @@ de referencia a efectos de baremación
 b.3) Tutela y acogimiento familiar. Las personas sometidas a tutela o acogimiento 
 familiar permanente o preadoptivo legalmente constituido tendrán la misma consideración 
 
-https://sede.gobiernodecanarias.org/boc
-boc-a-2026-067-1098
-Boletín Oficial de Canarias núm. 67 Miércoles 8 de abril de 202613235
 que las hijas y los hijos. Asimismo, las personas menores que, habiendo estado en alguna de 
 estas situaciones, alcancen la mayoría de edad y permanezcan en la unidad de responsables 
 conservarán la condición de hijas o hijos, a los efectos de la justificación de la unidad de 
@@ -991,9 +937,6 @@ originales justificativos para su comprobación.
 Las solicitudes para acogerse al sistema de adquisición de libros de texto o materiales 
 didácticos que no se tramiten mediante la aplicación indicada en el apartado anterior deberán 
 
-https://sede.gobiernodecanarias.org/boc
-boc-a-2026-067-1098
-Boletín Oficial de Canarias núm. 67 Miércoles 8 de abril de 202613236
 ser formuladas por los centros educativos conforme al modelo recogido en los modelos 
 Apéndice I “Modelo de solicitud para la entrega presencial” y Apéndice I bis, “Modelo de 
 solicitud para la entrega presencial de responsables que han finalizado la convivencia”. Las 
@@ -1037,9 +980,6 @@ EKADE de aquellos datos anexos aportados por las familias.
 Una vez finalizado el plazo de subsanación, las familias no podrán aportar nueva 
 documentación.
 
-https://sede.gobiernodecanarias.org/boc
-boc-a-2026-067-1098
-Boletín Oficial de Canarias núm. 67 Miércoles 8 de abril de 202613237
 Reclamación. Podrá presentarse reclamación de solicitudes denegadas o de aquellas 
 presentadas en periodo ordinario de matrícula y no cargadas por los centros (nuevas cargas), 
 o no tenidas en cuenta en el cálculo del valor de Renta total de la unidad de responsables por 
@@ -1085,9 +1025,6 @@ Los datos derivados de la documentación presentada y gestionada en el centro ed
 durante el periodo de subsanaciones/reclamaciones, serán contrastados por el personal del 
 Servicio en los aplicativos correspondientes.
 
-https://sede.gobiernodecanarias.org/boc
-boc-a-2026-067-1098
-Boletín Oficial de Canarias núm. 67 Miércoles 8 de abril de 202613238
 La Comisión de Valoración del Servicio de Programas Educativos y Actividades 
 Extraescolares propondrá la estimación de los recursos, si procede y comunicará la 
 inadmisión, según las causas establecidas en el artículo 116 de la Ley 39/2015, de 1 de 
@@ -1130,9 +1067,6 @@ Tanto la petición de las/os interesadas/os como la decisión sobre la ampliaci�
 producirse, en todo caso, antes del vencimiento del plazo de que se trate. En ningún caso 
 podrá ser objeto de ampliación un plazo ya vencido.
 
-https://sede.gobiernodecanarias.org/boc
-boc-a-2026-067-1098
-Boletín Oficial de Canarias núm. 67 Miércoles 8 de abril de 202613239
 Sexta.- Comprobación del cumplimiento de los requisitos en las distintas fases del 
 proceso.
 La comprobación por la administración educativa del cumplimiento de los requisitos 
@@ -1175,9 +1109,6 @@ las hijas e hijos pertenecientes a la misma unidad de responsables para los naci
 posteriores al 30 de abril de 2021, a fecha de presentación de la solicitud, para la grabación 
 por el centro educativo (si no se encuentra en el expediente).
 
-https://sede.gobiernodecanarias.org/boc
-boc-a-2026-067-1098
-Boletín Oficial de Canarias núm. 67 Miércoles 8 de abril de 202613240
 En estos casos, la unidad de responsable del alumnado solicitante se encuentra formada 
 por los padres, madres, tutoras/es legales, las hijas o los hijos menores de veinticinco años 
 que convivan en el domicilio familiar, e hijas e hijos mayores de edad incapacitadas/os 
@@ -1216,9 +1147,6 @@ ellas haya perdido la patria potestad.
 Solamente figurarán los datos económicos de la persona responsable separada, 
 divorciada, o que haya finalizado su convivencia que ostente la patria potestad.
 
-https://sede.gobiernodecanarias.org/boc
-boc-a-2026-067-1098
-Boletín Oficial de Canarias núm. 67 Miércoles 8 de abril de 202613241
 Se procederá de la misma manera en el caso de las personas responsables viudas o 
 viudos que hayan aportado al centro el certificado de defunción, o las personas responsables 
 pertenecientes de unidades monoparentales.
@@ -1266,9 +1194,6 @@ o no, los importes de la casilla de Prestación por Incapacidad a la casilla
 de la cuantía 
 IRPF.
 
-https://sede.gobiernodecanarias.org/boc
-boc-a-2026-067-1098
-Boletín Oficial de Canarias núm. 67 Miércoles 8 de abril de 202613242
 Situación 
 sociofamiliar 
 crítica
@@ -1318,9 +1243,6 @@ certificado de una organización no gubernamental ( ONG), incluida en el inventa
 entidades del Tercer Sector de Acción Social que indique la situación económica crítica 
 actual.
 
-https://sede.gobiernodecanarias.org/boc
-boc-a-2026-067-1098
-Boletín Oficial de Canarias núm. 67 Miércoles 8 de abril de 202613243
 En caso de no aportar la mencionada documentación, no será posible realizar el cálculo 
 de la renta de la unidad dependiente de las personas responsables y, por tanto, no podría ser 
 beneficiario de ayuda.
@@ -1366,9 +1288,6 @@ alguno de los siguientes documentos:
 e.1.- Documento de una administración estatal/autonómica, de prestación económica o 
 ayudas de integración e inserción.
 
-https://sede.gobiernodecanarias.org/boc
-boc-a-2026-067-1098
-Boletín Oficial de Canarias núm. 67 Miércoles 8 de abril de 202613244
 e.2.- Resolución de los servicios sociales municipales o un certificado de una 
 organización no gubernamental (ONG) incluida en el inventario de las entidades del Tercer 
 Sector de Acción Social que indique la situación económica crítica actual. Se indicará la 
@@ -1408,9 +1327,6 @@ será la competente para establecer de forma motivada el orden de prelación.
 La concesión de la ayuda se realizará siguiendo el orden de prelación propuesto por la 
 Comisión de Valoración hasta agotar el crédito presupuestario consignado a esta finalidad.
 
-https://sede.gobiernodecanarias.org/boc
-boc-a-2026-067-1098
-Boletín Oficial de Canarias núm. 67 Miércoles 8 de abril de 202613245
 B) Suficiencia de lotes en los centros educativos para los préstamos en las 
 modalidades de primero a sexto de primaria y de ESO, CFGB y PFPA.
 a) Suficiencia de lotes en los centros. En aquellos niveles en los que número de 
@@ -1450,9 +1366,6 @@ deberán suscribir por escrito su aceptación y el compromiso de hacer un uso ad
 este, y devolver el material o libros de la modalidad de préstamo al final del curso, según 
 modelo Apéndice II. El centro docente guardará toda la documentación en sus archivos.
 
-https://sede.gobiernodecanarias.org/boc
-boc-a-2026-067-1098
-Boletín Oficial de Canarias núm. 67 Miércoles 8 de abril de 202613246
 D) Comisión de Seguimiento del centro educativo.
 Por lo dispuesto en el artículo 9 de la Orden de 5 de noviembre de 2012, de la 
 Consejería de Educación, Universidades y Sostenibilidad, por la que se regula el sistema 
@@ -1492,9 +1405,6 @@ si el centro trabaja con materiales tecnológicos.
 A principios del curso escolar 2026/2027, se preparará para el alumnado matriculado 
 los libros de texto y materiales didácticos que han sido recogidos para su reutilización, y se 
 
-https://sede.gobiernodecanarias.org/boc
-boc-a-2026-067-1098
-Boletín Oficial de Canarias núm. 67 Miércoles 8 de abril de 202613247
 cumplimentarán las etiquetas correspondientes con los datos del alumnado que va a utilizar 
 los libros y el material durante el curso.
 Se entregará el material a los padres, madres o tutores de los alumnos y alumnas (nunca 
@@ -1538,9 +1448,6 @@ de préstamo de libros de texto.
 Asimismo, deberán someterse a las actuaciones de comprobación a efectuar por la 
 Consejería de Educación, Formación Profesional, Actividad Física y Deportes.
 
-https://sede.gobiernodecanarias.org/boc
-boc-a-2026-067-1098
-Boletín Oficial de Canarias núm. 67 Miércoles 8 de abril de 202613248
 ANEXO III
 DISTRIBUCIÓN DE FONDOS A LOS CENTROS DOCENTES Y JUSTIFICACIÓN 
 DE LOS FONDOS RECIBIDOS. GESTIÓN DE DATOS DE CARÁCTER PERSONAL. 
@@ -1584,9 +1491,6 @@ Complementarios.
 Para los niveles 1.º, 2.º y 3.º de Educación Primaria o Concreción Curricular de 
 Educación Primaria; 1.º de Educación Secundaria Obligatoria, Concreción Curricular 
 
-https://sede.gobiernodecanarias.org/boc
-boc-a-2026-067-1098
-Boletín Oficial de Canarias núm. 67 Miércoles 8 de abril de 202613249
 Transición a la Vida Adulta, 1.º y 2.º de Ciclos formativos de Grado Básico y 1.º y 2.º de 
 Programas Formativos de Formación Profesional Adaptada, procede la distribución del 
 presupuesto entre las distintas modalidades educativas y los supuestos para la concesión de 
@@ -1624,9 +1528,6 @@ No procederá libramiento al centro educativo.
 b) No suficiencia de lotes pero disponibilidad presupuestaria suficiente para todas las 
 solicitudes. En aquellos niveles en los que el número de solicitudes sea superior al número 
 
-https://sede.gobiernodecanarias.org/boc
-boc-a-2026-067-1098
-Boletín Oficial de Canarias núm. 67 Miércoles 8 de abril de 202613250
 de lotes disponibles en los centros para dicho nivel, se procederá a resolver sin necesidad 
 de priorización de las solicitudes, según lo indicado en el apartado b.1).a.
 c) No suficiencia de lotes ni disponibilidad presupuestaria para todas las solicitudes, se 
@@ -1666,9 +1567,6 @@ la totalidad de libros o material didáctico del nivel correspondiente. Preferen
 adquirirán libros o material didáctico para el desarrollo de las enseñanzas de las áreas y 
 materias instrumentales y materias de ámbito.
 
-https://sede.gobiernodecanarias.org/boc
-boc-a-2026-067-1098
-Boletín Oficial de Canarias núm. 67 Miércoles 8 de abril de 202613251
 Las facturas serán abonadas por el centro educativo. Si el centro docente realiza una 
 selección de un número de libros en papel, o materiales didácticos, que conlleve un gasto 
 superior al valor máximo asignado a cada lote por nivel, el centro abonará la diferencia con 
@@ -1712,9 +1610,6 @@ cuantías de adjudicación de cada resolución. La totalidad de la cuantía de l
 nominales por modalidad del curso 2026/2027 se podrá comprobar en el aplicativo 
 WebGesALT.
 
-https://sede.gobiernodecanarias.org/boc
-boc-a-2026-067-1098
-Boletín Oficial de Canarias núm. 67 Miércoles 8 de abril de 202613252
 Las facturas o documentos acreditativos de los importes utilizados deberán permanecer 
 bajo la custodia y responsabilidad del centro docente, pudiendo la Administración Educativa 
 requerir su presentación en cualquier momento. En las mismas se incluirá una anotación en 
@@ -1812,9 +1707,6 @@ documentos posteriores, que se harán llegar a los centros educativos, y se publ
 la página web de la Consejería de Educación, Formación Profesional, Actividad Física y 
 Deportes.
 
-boc-a-2026-067-1098
-Boletín Oficial de Canarias núm. 67 Miércoles 8 de abril de 202613253
-https://sede.gobiernodecanarias.org/boc
 APÉNDICE I
 SOLICITUD 
 (en caso de no poder utilizar el Formulario Unificado de Matrícula)
@@ -1858,9 +1750,6 @@ APÉNDICE I
 SOLICITUD 
 (en caso de no poder utilizar el Formulario Unificado de Matrícula)
 
-boc-a-2026-067-1098
-Boletín Oficial de Canarias núm. 67 Miércoles 8 de abril de 202613254
-https://sede.gobiernodecanarias.org/boc
 AUTORIZO CONSULTA IRPF NO AUTORIZO CONSULTA IRPF
 *La  consulta  de  datos  de  la  condición  de  discapacidad  y  familia  numerosa  se  realizará  únicamente  en  la
 Comunidad Autónoma de Canarias. En el caso de no estar reconocida en esta Comunidad Autónoma, deberá  
@@ -1909,9 +1798,6 @@ Consejería de Educación, Universidades, Cultura y Deportes. Finalidad del trat
                                                                                                                             
                                                        
 
-boc-a-2026-067-1098
-Boletín Oficial de Canarias núm. 67 Miércoles 8 de abril de 202613255
-https://sede.gobiernodecanarias.org/boc
 APÉNDICE I bis
 SOLICITUD 
 (en caso de no poder utilizar el Formulario Unificado de Matrícula)
@@ -1952,9 +1838,6 @@ APÉNDICE I bis
 SOLICITUD 
 (en caso de no poder utilizar el Formulario Unificado de Matrícula)
 
-boc-a-2026-067-1098
-Boletín Oficial de Canarias núm. 67 Miércoles 8 de abril de 202613256
-https://sede.gobiernodecanarias.org/boc
 Marcar con una X, si procede:
 En situación de empleo activo
 En situación de desempleo 
@@ -2003,9 +1886,6 @@ basica-en-centros-sostenidos-con-fondos-publicos/
                                                                                                                               
                                                               
 
-boc-a-2026-067-1098
-Boletín Oficial de Canarias núm. 67 Miércoles 8 de abril de 202613257
-https://sede.gobiernodecanarias.org/boc
 APÉNDICE II
 ACEPTACIÓN DE PRÉSTAMO DE LIBROS DE TEXTO Y MATERIALES DIDÁCTICOS
 CENTRO DOCENTE: 
@@ -2032,9 +1912,6 @@ Fdo: _____________________________________
 APÉNDICE II
 ACEPTACIÓN DE PRÉSTAMO DE LIBROS DE TEXTO Y MATERIALES DIDÁCTICOS
 
-boc-a-2026-067-1098
-Boletín Oficial de Canarias núm. 67 Miércoles 8 de abril de 202613258
-https://sede.gobiernodecanarias.org/boc
 APÉNDICE III
 COMUNICACIÓN DEL DEBER DE REPOSICIÓN
 Estimada Familia:
@@ -2060,18 +1937,12 @@ El/La Director/a del Centro,
 APÉNDICE III
 COMUNICACIÓN DEL DEBER DE REPOSICIÓN
 
-boc-a-2026-067-1098
-Boletín Oficial de Canarias núm. 67 Miércoles 8 de abril de 202613259
-https://sede.gobiernodecanarias.org/boc
 APÉNDICE IV
 Etiquetas que se incorporarán o actualizarán en los libros de texto y en las tablets al comienzo de curso
 Modelo A
 Modelo B
 APÉNDICE IV
 
-boc-a-2026-067-1098
-Boletín Oficial de Canarias núm. 67 Miércoles 8 de abril de 202613260
-https://sede.gobiernodecanarias.org/boc
 APÉNDICE V
 MODELO DE SOLICITUD DE INSTANCIA DE SUBSANACIÓN DE LA AYUDA DE LIBROS DE 
 TEXTO  O MATERIAL DIDÁCTICO
@@ -2098,9 +1969,6 @@ DE LIBROS DE TEXTO O MATERIAL DIDÁCTICO
 (Se entrega y gestiona en el centro educativo, cargando los nuevos datos  
 en Pincel EKADE o WEBGesALT)
 
-boc-a-2026-067-1098
-Boletín Oficial de Canarias núm. 67 Miércoles 8 de abril de 202613261
-https://sede.gobiernodecanarias.org/boc
 APÉNDICE VI
 MODELO DE SOLICITUD DE INSTANCIA DE RECLAMACIÓN DE LA AYUDA DE LIBROS DE 
 TEXTO  O MATERIAL DIDÁCTICO
@@ -2128,9 +1996,6 @@ DE LIBROS DE TEXTO O MATERIAL DIDÁCTICO
 (Se entrega y gestiona en el centro educativo, cargando los nuevos datos  
 en Pincel EKADE o WEBGesALT)
 
-boc-a-2026-067-1098
-Boletín Oficial de Canarias núm. 67 Miércoles 8 de abril de 202613262
-https://sede.gobiernodecanarias.org/boc
 APÉNDICE VII
 MODELO DE SOLICITUD DE RECURSO DE ALZADA DE LA AYUDA DE LIBROS DE 
 TEXTO O MATERIAL DIDÁCTICO
@@ -2168,9 +2033,6 @@ En _____________________________, a _______ de _______________ de ____________
 Firma del solicitante: ____________________________________
 SERVICIO DE PROGRAMAS EDUCATIVOS Y ACTIVIDADES EXTRAESCOLARES
 
-boc-a-2026-067-1098
-Boletín Oficial de Canarias núm. 67 Miércoles 8 de abril de 202613263
-https://sede.gobiernodecanarias.org/boc
 APÉNDICE VIII
 MODELO DE RENUNCIA 
 A LA AYUDA DE LIBROS/MATERIALES DIDÁCTICOS CONCEDIDA

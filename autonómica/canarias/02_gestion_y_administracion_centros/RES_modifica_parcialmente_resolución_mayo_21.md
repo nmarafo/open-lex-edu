@@ -30,9 +30,6 @@ fuente_pdf_oficial: https://sede.gobiernodecanarias.org/boc/boc-a-2022-158-2645.
 
 # Resolución de 28 de julio de 2022, por la que se modifica parcialmente la Resolución de 29 de mayo de 2007, que aprueba y publica las normas sobre la gestión del pago delegado de la nómina de personal docente en centros privados concertados (BOC n.º 158, de 10 de agosto).
 
-https://sede.gobiernodecanarias.org/boc
-boc-a-2022-158-2645
-Boletín Oficial de Canarias núm. 158 Miércoles 10 de agosto de 202229907
 I. Disposiciones generales
 Consejería de Educación, Universidades, Cultura y Deportes
 2645 Dirección General de Personal.- Resolución de 28 de julio de 2022, por la que se 
@@ -73,9 +70,6 @@ del Reglamento Orgánico de la Consejería de Educación, Universidades, Cultura
 Deportes, aprobado mediante Decreto 7/2021, de 18 de febrero, que atribuye a la Dirección 
 General de Personal la competencia para dirigir, controlar y planificar la gestión de nóminas, 
 
-https://sede.gobiernodecanarias.org/boc
-boc-a-2022-158-2645
-Boletín Oficial de Canarias núm. 158 Miércoles 10 de agosto de 202229908
 autorización y disposición de los gastos, así como el reconocimiento de las obligaciones y la 
 propuesta de pago en relación con el personal docente no universitario en centros públicos 
 y de aquel que imparta enseñanzas en centros educativos privados que, previamente, hayan 
@@ -111,9 +105,6 @@ de Educación Infantil, Educación Primaria, Educación Secundaria Obligatoria, 
 Especial, Bachillerato y Formación Profesional para los cursos 2017/2018 al 2022/2023 en 
 la Comunidad Autónoma de Canarias.
 
-https://sede.gobiernodecanarias.org/boc
-boc-a-2022-158-2645
-Boletín Oficial de Canarias núm. 158 Miércoles 10 de agosto de 202229909
 15. Acuerdo entre la Administración Educativa de Canarias y las Organizaciones de 
 Titulares y Sindicales más representativas del sector de la enseñanza concertada para la 
 mejora retributiva del personal docente.
@@ -149,9 +140,6 @@ como consecuencia de:
 trabajadora sobre reserva del puesto de trabajo, en aplicación del convenio colectivo de 
 referencia.
 
-https://sede.gobiernodecanarias.org/boc
-boc-a-2022-158-2645
-Boletín Oficial de Canarias núm. 158 Miércoles 10 de agosto de 202229910
 - En los supuestos de incapacidad permanente total para la profesión habitual, absoluta 
 para todo trabajo o gran invalidez: se considerará vacante transcurrido el plazo de dos 
 años, a contar desde la fecha de la resolución por la que se declare dicha situación, según lo 
@@ -189,9 +177,6 @@ de 3 de mayo, de Educación.
 debiendo figurar, en todo caso, el nivel de enseñanza, la especialidad a impartir y el tipo de 
 jornada, completa o parcial.
 
-https://sede.gobiernodecanarias.org/boc
-boc-a-2022-158-2645
-Boletín Oficial de Canarias núm. 158 Miércoles 10 de agosto de 202229911
 2º) El modelo cumplimentado será enviado a la dirección de correo electrónico de 
 gestión de la nómina de personal docente en pago delegado.
 3º) El anuncio de la convocatoria de la vacante se realizará a través de la siguiente 
@@ -229,9 +214,6 @@ página web de la Consejería.
 c) Documento acreditativo de que se ha dado cuenta al Consejo Escolar de la provisión 
 de esta vacante.
 
-https://sede.gobiernodecanarias.org/boc
-boc-a-2022-158-2645
-Boletín Oficial de Canarias núm. 158 Miércoles 10 de agosto de 202229912
 d) Alta de la persona trabajadora en el Régimen General de la Seguridad Social, en la 
 cuenta de cotización del centro del personal docente sujeto a régimen de pago delegado, e 
 Informe de datos de cotización (IDC).
@@ -269,9 +251,6 @@ La Consejería de Educación financiará, en régimen de pago delegado, las ause
 de personal docente sujeto a dicho régimen, en los términos establecidos en las presentes 
 normas, cuya duración sea igual o superior a quince días naturales.
 
-https://sede.gobiernodecanarias.org/boc
-boc-a-2022-158-2645
-Boletín Oficial de Canarias núm. 158 Miércoles 10 de agosto de 202229913
 Conforme a lo expuesto, procederá financiar el alta por sustitución de personal docente 
 en el sistema de pago delegado en las siguientes situaciones:
 - Incapacidad temporal.
@@ -339,9 +318,6 @@ La persona titular del centro será responsable de que la modalidad contractual 
 se ajuste a la legislación laboral y al concreto Convenio Colectivo de aplicación, en caso 
 contrario, podrán ser desestimadas las solicitudes de alta en el sistema de pago delegado.
 
-https://sede.gobiernodecanarias.org/boc
-boc-a-2022-158-2645
-Boletín Oficial de Canarias núm. 158 Miércoles 10 de agosto de 202229914
 3.2.b) Calendario de alta por sustitución en el régimen de pago delegado.
 Las solicitudes de alta de personal docente en el régimen de pago delegado, cuando 
 se trate de sustituciones, deberán realizarse dentro del periodo de actividades propiamente 
@@ -377,9 +353,6 @@ El envío de la documentación sin sujeción a las reglas contenidas en la prese
 dará lugar al requerimiento de subsanación de la solicitud y la no inclusión en el citado 
 régimen de la persona trabajadora.
 
-https://sede.gobiernodecanarias.org/boc
-boc-a-2022-158-2645
-Boletín Oficial de Canarias núm. 158 Miércoles 10 de agosto de 202229915
 Con el objeto de tramitar de la forma más eficiente posible toda la documentación 
 relacionada con la nómina de personal docente adscrito al régimen de pago delegado de los 
 Centros Privados Concertados gestionados desde esta Dirección General de Personal, se 
@@ -416,9 +389,6 @@ sellada y firmada por la persona titular del centro o Director/a y por la person
 conforme al modelo vigente.
 b) Documentación que acredite fehacientemente la fecha de nacimiento del menor.
 
-https://sede.gobiernodecanarias.org/boc
-boc-a-2022-158-2645
-Boletín Oficial de Canarias núm. 158 Miércoles 10 de agosto de 202229916
 Se autorizará la financiación de la sustitución desde el inicio del disfrute del citado 
 permiso hasta la reincorporación de la persona sustituida o, en su caso, hasta la finalización 
 de las actividades ordinarias del curso escolar.

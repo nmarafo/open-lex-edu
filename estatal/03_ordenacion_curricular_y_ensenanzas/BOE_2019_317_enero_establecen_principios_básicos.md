@@ -56,19 +56,15 @@ En la elaboración de este real decreto se ha consultado a las comunidades autó
 
 En su virtud, a propuesta de la Ministra de Educación y Formación Profesional, con la aprobación previa de la Ministra de Política Territorial y Función Pública y previa deliberación del Consejo de Ministros en su reunión del día 11 de enero de 2019,
 
-
 **DISPONGO:**
-
 
 #### Artículo 1. Objeto.
 
 Este real decreto tiene por objeto establecer los principios básicos comunes de evaluación aplicables a las pruebas de certificación oficial de los niveles Intermedio B1, Intermedio B2, Avanzado C1, y Avanzado C2 de las enseñanzas de idiomas de régimen especial reguladas por la Ley Orgánica 2/2006, de 3 de mayo, de Educación.
 
-
 #### Artículo 2. Ámbito de aplicación.
 
 Los principios básicos comunes de evaluación aplicables a las pruebas de certificación oficial regulados en este real decreto serán de aplicación en todos los procesos de evaluación de certificación de los niveles Intermedio B1, Intermedio B2, Avanzado C1, y Avanzado C2, de los distintos idiomas, que las administraciones educativas convoquen para el alumnado tanto de régimen libre como de régimen oficial en sus modalidades presencial, semipresencial y a distancia.
-
 
 #### Artículo 3. Principios generales de evaluación de certificación.
 
@@ -99,7 +95,6 @@ El alumnado que necesite condiciones especiales para la realización de las prue
 En cualquier caso, el alumnado que necesite condiciones especiales para la realización de la evaluación de certificación no será dispensado de la realización de ninguna de las partes de las que conste la prueba, que será única para todo el alumnado.
 
 10. En la obtención, seguridad y confidencialidad de los datos personales del alumnado se estará a lo dispuesto en la legislación vigente en materia de protección de datos de carácter personal y, en todo caso, a lo establecido en la disposición adicional vigesimotercera de la Ley Orgánica 2/2006, de 3 de mayo, de Educación.
-
 
 #### Artículo 4. Diseño de pruebas de certificación.
 
@@ -157,7 +152,6 @@ k) las características, en su caso, que se esperan de las producciones orales o
 
 El documento de especificaciones de examen se hará público para conocimiento de los candidatos a certificación y de cualesquiera otros interesados, y en él constará el año de publicación, que deberá corresponder al año en que se administren las pruebas especificadas.
 
-
 #### Artículo 5. Elaboración de pruebas de certificación.
 
 1. Corresponde al profesorado de las escuelas oficiales de idiomas, en los términos que establezcan las respectivas administraciones educativas, la elaboración de las pruebas para la obtención de los certificados de los niveles Intermedio B1, Intermedio B2, Avanzado C1, y Avanzado C2.
@@ -200,7 +194,6 @@ A este fin las administraciones educativas elaborarán un protocolo de actuació
 
 5. Con el fin de poder administrar de forma independiente cada parte de las que consten las pruebas de certificación, cada una de estas partes se elaborará y editará separadamente, y constará de una portada, reservada para la información relativa a la actividad de lengua evaluada y para consignar los datos pertinentes de los candidatos, y de las páginas correspondientes a las diversas tareas que la conforman.
 
-
 #### Artículo 6. Administración de pruebas de certificación.
 
 1. Corresponde al profesorado de las escuelas oficiales de idiomas, en los términos que establezcan las respectivas administraciones educativas, la administración de las pruebas para la obtención de los certificados de los niveles Intermedio B1, Intermedio B2, Avanzado C1, y Avanzado C2.
@@ -208,7 +201,6 @@ A este fin las administraciones educativas elaborarán un protocolo de actuació
 2. El proceso de administración de pruebas se desarrollará según directrices que aseguren la validez y la fiabilidad de dicho proceso y la igualdad de condiciones de todos los candidatos a certificación.
 
 Las administraciones educativas recogerán dichas directrices en una guía de administración de pruebas de certificación con el objeto de orientar al profesorado respectivo en el protocolo que habrán de seguir en la administración de las distintas partes correspondientes a las diferentes actividades de lengua que las pruebas evalúen.
-
 
 #### Artículo 7. Evaluación y calificación de pruebas de certificación.
 
@@ -230,7 +222,6 @@ Estas sesiones de estandarización tendrán como finalidad, a través del análi
 
 5. En el caso de aquellos candidatos que no realicen alguna o algunas de las partes que conformen la prueba de certificación, la calificación otorgada en las mismas se expresará en términos de «No Presentado». La calificación final de la prueba en su conjunto será, en estos casos, de «No Apto». En el caso de aquellos candidatos que no realicen ninguna de las partes que conformen la prueba de certificación, se les otorgará la calificación global final de «No Presentado».
 
-
 #### Artículo 8. Publicación de resultados y procedimientos de reclamación sobre las calificaciones.
 
 1. Los resultados de las pruebas se harán públicos conforme a lo que establece la legislación vigente en materia de protección de datos de carácter personal y, en todo caso, a lo establecido en la disposición adicional vigesimotercera de la Ley Orgánica 2/2006, de 3 de mayo, de Educación.
@@ -245,11 +236,9 @@ Estas sesiones de estandarización tendrán como finalidad, a través del análi
 
 6. Se garantizará que todas las actuaciones previstas en este artículo sean accesibles para personas con discapacidad.
 
-
 #### Artículo 9. Tratamiento y custodia de las pruebas y de los materiales de evaluación.
 
 Los procesos de elaboración, edición, impresión, copiado y distribución de los documentos que constituyan las pruebas de certificación se realizarán garantizando la debida confidencialidad de los mismos.
-
 
 #### Artículo 10. Análisis del proceso evaluativo y aseguramiento de la calidad de la certificación.
 
@@ -257,15 +246,11 @@ Tras la administración, evaluación y calificación de las pruebas, las adminis
 
 Los resultados de estos análisis se recogerán en un informe que podrá tenerse en cuenta en ulteriores procesos de diseño, elaboración, administración, y evaluación y calificación de pruebas de certificación.
 
-
 #### Disposición final primera. Título competencial.
 
 Este real decreto se dicta al amparo del artículo 149.1.30.ª de la Constitución, que atribuye al Estado la competencia exclusiva sobre la regulación de las normas básicas para el desarrollo del artículo 27 de la Constitución a fin de garantizar el cumplimiento de las obligaciones de los poderes públicos en esta materia.
 
-
 #### Disposición final segunda. Entrada en vigor.
-
-Este real decreto entrará en vigor el día siguiente al de su publicación en el «Boletín Oficial del Estado».
 
 Dado en Madrid, el 11 de enero de 2019.
 

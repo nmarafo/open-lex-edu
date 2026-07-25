@@ -50,9 +50,6 @@ fuente_pdf_oficial: https://sede.gobiernodecanarias.org/boc/boc-a-2022-018-273.p
 
 # Decreto 9/2022, de 20 de enero, por el que se regula la admisión del alumnado en los centros docentes públicos y privados concertados que imparten enseñanzas no universitarias en la Comunidad Autónoma de Canarias.
 
-https://sede.gobiernodecanarias.org/boc
-BOC-A-2022-18-273
-Boletín Oficial de Canarias núm. 18 Miércoles 26 de enero de 20223717
 II. Autoridades y personal
 Nombramientos, situaciones e incidencias
 Consejería de Sanidad
@@ -94,9 +91,6 @@ Hospital Universitario Nuestra Señora de la Candelaria […]”.
 Cuarto.- Que en atención a lo anterior, con fecha 27 de enero de 2021, se 
 publicó, en los tablones de anuncios del CHUC y en la dirección de Internet:  
 
-https://sede.gobiernodecanarias.org/boc
-BOC-A-2022-18-273
-Boletín Oficial de Canarias núm. 18 Miércoles 26 de enero de 20223718
 http://www.gobiernodecanarias.org/sanidad/scs/  (Área de Salud/Tenerife/HUC), la 
 Resolución de esta Dirección Gerencia nº 598/2021, de 2 de marzo, por la que se resolvió 
 la designación nominal de los miembros Titulares y Suplentes, en el marco del presente 
@@ -139,9 +133,6 @@ judiciales que hayan ganado firmeza o sean ejecutables de acuerdo con las leyes.
 Segundo.- Que en este sentido, el artículo 103 de la Ley 29/1998, de 13 de julio, 
 reguladora de la Jurisdicción Contencioso-administrativa, señala que “La potestad de hacer 
 
-https://sede.gobiernodecanarias.org/boc
-BOC-A-2022-18-273
-Boletín Oficial de Canarias núm. 18 Miércoles 26 de enero de 20223719
 ejecutar las sentencias y demás resoluciones judiciales corresponde exclusivamente a los 
 Juzgados y Tribunales de este orden jurisdiccion al, y su ejercicio compete al que haya 
 conocido del asunto en primera o única instancia. Las partes están obligadas a cumplir las 
@@ -182,9 +173,6 @@ requerimiento de subsanación realizado a la misma.
 Segundo.- Declarar personal laboral fijo en su correspondiente categoría a la nueva 
 aspirante seleccionada con adjudicación de plaza y destino:
 
-https://sede.gobiernodecanarias.org/boc
-BOC-A-2022-18-273
-Boletín Oficial de Canarias núm. 18 Miércoles 26 de enero de 20223720
  
 Ofra, s/n. La Cuesta. 
 38320 – San Cristóbal de La Laguna                                                                                                                                                                             Página 3 de 4 

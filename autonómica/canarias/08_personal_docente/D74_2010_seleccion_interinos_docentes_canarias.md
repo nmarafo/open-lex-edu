@@ -156,8 +156,6 @@ ministrativa, Tramitación Procesal y Administrativa
 y Auxilio Judicial al servicio de la Administración de
 Justicia en Canarias. Estas listas de reserva se regi-
 rán por su regulación específica.
-Boletín Oficial de Canarias núm. 136 17920 Martes 13 de julio de 2010
-boc-a-2010-136-4028
 
 Artículo 2.- Listas de empleo.
 Las listas de empleo objeto del presente Decreto
@@ -262,8 +260,6 @@ ción de las pruebas.
 3. Las correspondientes listas de empleo estarán
 vigentes hasta su sustitución por nuevas listas deri-
 vadas de pruebas selectivas para el ingreso de fun-
-Boletín Oficial de Canarias núm. 136 17921 Martes 13 de julio de 2010
-boc-a-2010-136-4028
 
 cionarios de carrera del mismo Cuerpo/Escala/Espe-
 cialidad. La aprobación de las nuevas listas de em-
@@ -371,8 +367,6 @@ disposiciones sean necesarias para el desarrollo de
 lo previsto en el presente Decreto, en particular el ré-
 gimen de funcionamiento de las listas de empleo
 temporal.
-Boletín Oficial de Canarias núm. 136 17922 Martes 13 de julio de 2010
-boc-a-2010-136-4028
 
 Disposición Final Segunda.- Entrada en vigor.
 El presente Decreto entrará en vigor el día si-
@@ -383,5 +377,3 @@ lio de 2010.
 EL PRESIDENTE 
 DEL GOBIERNO,
 Paulino Rivero Baute.
-Boletín Oficial de Canarias núm. 136 17923 Martes 13 de julio de 2010
-boc-a-2010-136-4028

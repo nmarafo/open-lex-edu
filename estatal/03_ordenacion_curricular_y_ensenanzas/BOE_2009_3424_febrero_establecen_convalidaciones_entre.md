@@ -56,7 +56,6 @@ En su virtud, a propuesta de la Ministra de Educación, Política Social y Depor
 
 DISPONGO:
 
-
 #### Artículo 1. Objeto.
 
 1. El presente real decreto establece las convalidaciones oportunas entre determinadas materias de Educación Secundaria Obligatoria y de Bachillerato y diversas asignaturas de las enseñanzas profesionales de Música y de Danza. Asimismo establece las posibles exenciones de la materia de Educación Física de Educación Secundaria Obligatoria y de Bachillerato para los deportistas de alto nivel o alto rendimiento y para los estudiantes de las enseñanzas profesionales de Danza.
@@ -67,11 +66,9 @@ a) Que curse o haya cursado en todo o parte las enseñanzas de Educación Secund
 
 b) Que curse las enseñanzas de Educación Secundaria Obligatoria o de Bachillerato, y acredite su condición de deportista de alto nivel o de alto rendimiento o de alumno de enseñanzas profesionales de Danza.
 
-
 #### Artículo 2. Convalidación de la materia de Música de la Educación Secundaria Obligatoria con determinadas asignaturas de las enseñanzas profesionales de Música o de Danza.
 
 Se establecen las convalidaciones de la materia de Música de la Educación Secundaria Obligatoria con las asignaturas de las enseñanzas profesionales de Música o de Danza que se especifican en el anexo I.
-
 
 #### Artículo 3. Convalidaciones entre diversas materias del Bachillerato y determinadas asignaturas de las enseñanzas profesionales de Música o de Danza.
 
@@ -87,7 +84,6 @@ Se establecen las convalidaciones de la materia de Música de la Educación Secu
 
 6. Las materias y asignaturas objeto de convalidación no serán tenidas en cuenta en el cálculo de la nota media.
 
-
 #### Artículo 4. Exención de la materia de Educación Física de la Educación Secundaria Obligatoria y del Bachillerato.
 
 1. Podrán solicitar la exención de la materia de Educación Física de la Educación Secundaria Obligatoria y del Bachillerato, quienes cursen estos estudios y simultáneamente acrediten tener la condición de deportista de alto nivel o de alto rendimiento, o realizar estudios de las enseñanzas profesionales de Danza.
@@ -95,7 +91,6 @@ Se establecen las convalidaciones de la materia de Música de la Educación Secu
 2. El alumnado exento de la materia de Educación Física no será evaluado de esta materia.
 
 3. La materia de Educación Física no será computada para el cálculo de la nota media del Bachillerato, en el caso del alumnado al que se le haya reconocido la exención en esta materia.
-
 
 #### Artículo 5. Procedimiento de las convalidaciones o exenciones.
 
@@ -109,16 +104,13 @@ Se establecen las convalidaciones de la materia de Música de la Educación Secu
 
 5. En los documentos de evaluación correspondientes a la Educación Secundaria Obligatoria y al Bachillerato se utilizará el término «Exento/a», o el correspondiente de la lengua cooficial si la hubiera, y el código «EX» en todos los casos, en la casilla referida a la calificación de la materia de Educación Física cuando se conceda la exención.
 
-
 #### Disposición adicional primera. Convalidación única.
 
 Cada materia o asignatura sólo podrá ser utilizada para una única convalidación de las establecidas en este real decreto o de las que pudieran establecerse por parte de las Administraciones educativas.
 
-
 #### Disposición adicional segunda. Otras convalidaciones.
 
 En virtud de lo dispuesto en el artículo 20.4 del Real Decreto 1577/2006, de 22 de diciembre, por el que se fijan los aspectos básicos del currículo de las enseñanzas profesionales de música reguladas por la Ley Orgánica 2/2006, de 3 de mayo, de Educación y en el artículo 20.4 del Real Decreto 85/2007, de 26 de enero, por el que se fijan los aspectos básicos del currículo de las enseñanzas profesionales de danza reguladas por la Ley Orgánica 2/2006, de 3 de mayo, de Educación, las Administraciones educativas podrán establecer convalidaciones cuando éstas afecten a las materias optativas de Educación Secundaria Obligatoria y de Bachillerato, teniendo en cuenta las convalidaciones establecidas en este real decreto.
-
 
 #### Disposición derogatoria única. Derogación normativa.
 
@@ -126,20 +118,15 @@ En virtud de lo dispuesto en el artículo 20.4 del Real Decreto 1577/2006, de 22
 
 2. Quedan derogadas las demás disposiciones del mismo o de inferior rango que se opongan a lo establecido en el presente real decreto.
 
-
 #### Disposición final primera. Título competencial.
 
 El presente real decreto se dicta al amparo del artículo 149.1.30ª de la Constitución Española.
-
 
 #### Disposición final segunda. Habilitación para el desarrollo reglamentario.
 
 Se habilita al Ministro de Educación, Política Social y Deporte para, en el ámbito de sus competencias, dictar cuantas disposiciones resulten necesarias para desarrollar el presente real decreto.
 
-
 #### Disposición final tercera. Entrada en vigor.
-
-El presente real decreto entrará en vigor el día siguiente al de su publicación en el «Boletín Oficial del Estado».
 
 Dado en Madrid, el 27 de febrero de 2009.
 
@@ -148,7 +135,6 @@ JUAN CARLOS R.
 La Ministra de Educación, Política Social y Deporte,
 
 MERCEDES CABRERA CALVO-SOTELO
-
 
 ## ANEXO I
 
@@ -185,7 +171,6 @@ Música de 4.º
 Danza.
 
 2.º curso de Música.
-
 
 ## ANEXO II
 
@@ -237,7 +222,6 @@ Literatura universal.
 
 1.º y 2.º cursos de una asignatura de contenido análogo.
 
-
 ## ANEXO III
 
 Convalidación de diversas materias de Bachillerato con determinadas asignaturas de las enseñanzas profesionales de Danza
@@ -277,7 +261,6 @@ er curso de Música.
 Literatura universal.
 
 1º y 2º cursos de una asignatura de contenido análogo.
-
 
 ## ANEXO IV
 
@@ -324,7 +307,6 @@ Lenguaje y práctica musical.
 1.º y 2.º cursos de una asignatura de contenido análogo.
 
 Literatura universal.
-
 
 ## ANEXO V
 

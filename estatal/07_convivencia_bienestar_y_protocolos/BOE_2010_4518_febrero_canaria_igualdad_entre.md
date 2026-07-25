@@ -30,7 +30,6 @@ fundamentos_derecho:
 
 Sea notorio a todos los ciudadanos que el Parlamento de Canarias ha aprobado y yo, en nombre del Rey y de acuerdo con lo que establece el artículo 12.8 del Estatuto de Autonomía, promulgo y ordeno la publicación de la ley 1/2010, de 26 de febrero, canaria de igualdad entre mujeres y hombres.
 
-
 ## EXPOSICIÓN DE MOTIVOS
 
 La igualdad de derechos entre mujeres y hombres es un derecho fundamental en una sociedad democrática moderna que, desde todos los niveles normativos, se intenta conseguir a través de diversas medidas plasmadas en los tratados internacionales, en la normativa comunitaria, en nuestra Constitución y en la normativa legal y reglamentaria interna. También la Comunidad Autónoma de Canarias se ha comprometido con esa lucha, incluyendo la Igualdad en el Estatuto de Autonomía, y desarrollándola en la Ley de creación del Instituto Canario de la Mujer y en otras normativas sectoriales que incluían el compromiso por la consecución de la igualdad para las mujeres.
@@ -79,17 +78,13 @@ La presente ley se estructura en un título preliminar, cuatro títulos, setenta
 
 El título preliminar establece los conceptos esenciales en materia de igualdad de género y los principios generales que han de presidir la actuación de los poderes públicos en relación con la igualdad de género.
 
-
 ## TÍTULO PRELIMINAR
 
-
 **Disposiciones generales**
-
 
 #### Artículo 1. Objeto y finalidad.
 
 La presente ley tiene como objetivo hacer real y efectivo el derecho de igualdad de trato y oportunidades para, en el desarrollo de los artículos 9.2, 14 y 23 de la Constitución, y 5.2 y 30.2 del Estatuto de Autonomía para Canarias, seguir avanzando para lograr una sociedad más democrática, justa, solidaria e igualitaria, tanto en el ámbito público como privado. Asimismo, establecer los principios generales que han de presidir la actuación de los poderes públicos en materia de igualdad entre mujeres y hombres en todos los ámbitos de su vida, con independencia del lugar donde residan.
-
 
 #### Artículo 2. Ámbito de aplicación.
 
@@ -107,11 +102,9 @@ d) A las entidades privadas que suscriban contratos o convenios de colaboración
 
 3. Igualmente, será de aplicación a las personas físicas y jurídicas, en los términos establecidos en la presente ley.
 
-
 #### Artículo 3. Definiciones.
 
 La interpretación de los conceptos y términos previstos en esta ley será la que figura recogida como anexo final a la misma.
-
 
 #### Artículo 4. Principios generales que informan la actuación de la Administración pública.
 
@@ -151,16 +144,13 @@ Para la consecución del objeto de esta ley, serán principios generales de actu
 
 17. La coordinación, entendida como la ordenada gestión de competencias entre las administraciones públicas en materia de igualdad entre mujeres y hombres, con la finalidad de lograr una mayor eficacia tanto en las políticas a aplicar como en la ejecución del presupuesto, donde se debe tender a su optimización y evitar la duplicidad de gastos para los mismos fines.
 
-
 ## TÍTULO I
-
 
 **Políticas públicas para la promoción de la igualdad de género**
 
 CAPÍTULO I
 
 Integración de la perspectiva de género en las políticas públicas
-
 
 #### Artículo 5. Transversalidad de género.
 
@@ -172,7 +162,6 @@ a) El fomento de la colaboración de todas las administraciones implicadas, de �
 
 b) La consecución de la igualdad de oportunidades en la política económica, laboral y social, sin que se permitan diferencias salariales por razón de sexo.
 
-
 #### Artículo 6. Informe de evaluación de impacto de género.
 
 1. Los poderes públicos de Canarias incorporarán, de forma real y efectiva, el procedimiento de evaluación previa del impacto de género en el desarrollo de sus competencias, para garantizar la integración del principio de igualdad entre mujeres y hombres.
@@ -182,7 +171,6 @@ b) La consecución de la igualdad de oportunidades en la política económica, l
 3. Dicho informe de evaluación de impacto de género irá acompañado de indicadores pertinentes en género, mecanismos y medidas dirigidas a paliar y neutralizar los posibles impactos negativos que se detecten sobre las mujeres y los hombres, así como a reducir o eliminar las diferencias encontradas, promoviendo de esta forma la igualdad entre los sexos.
 
 4. El Gobierno de Canarias, a propuesta del organismo de igualdad autonómico, podrá incorporar criterios complementarios a seguir para la realización del informe de evaluación de género, así como aquellos otros derivados de la realidad canaria.
-
 
 #### Artículo 7. Plan estratégico de actuación para la igualdad efectiva entre mujeres y hombres.
 
@@ -196,20 +184,17 @@ b) La consecución de la igualdad de oportunidades en la política económica, l
 
 5. El Plan Estratégico se concretará en programas operativos que se dotarán del presupuesto y los recursos humanos suficientes que los hagan viables y efectivos. En el mismo Plan se señalará el período de tiempo en que deba ser evaluado.
 
-
 #### Artículo 8. Cambio de ubicación del área de gobierno responsable de la igualdad.
 
 El primer marco estratégico tendrá como objetivo el cambio de ubicación del área de igualdad que pasará a depender funcionalmente de Presidencia de Gobierno, para así posibilitar la elaboración, ejecución y evaluación de la aplicación de la transversalidad.
 
 Por decreto podrá adscribirse orgánicamente dicha área a la Presidencia de Gobierno.
 
-
 #### Artículo 9. Enfoque de género en el Presupuesto.
 
 1. El Presupuesto de la Comunidad Autónoma de Canarias será un elemento activo y dinamizador en la consecución de forma efectiva del objetivo de la igualdad entre mujeres y hombres. A tal fin, la Comisión de Impacto de Género en los Presupuestos, formada por representantes de todas las áreas de gobierno, dependiente de la Consejería de Economía y Hacienda, con participación del Instituto Canario de Igualdad, emitirá el informe de evaluación de impacto de género sobre el anteproyecto de Ley del Presupuesto.
 
 2. La Comisión de Impacto de Género en los Presupuestos impulsará y fomentará la preparación de anteproyectos con perspectiva de género en las diversas consejerías, y la realización de auditorías de género en las consejerías, empresas y organismos de la Comunidad Autónoma de Canarias.
-
 
 #### Artículo 10. Lenguaje no sexista e imagen pública en medios de comunicación social y publicidad.
 
@@ -222,7 +207,6 @@ Para ello promoverá la adopción de códigos de buenas prácticas, con la final
 3. Los poderes públicos de Canarias integrarán la perspectiva de género en la planificación y despliegue de las nuevas tecnologías de la información, la comunicación y el conocimiento. El uso no sexista del lenguaje, la comunicación y la publicidad ha de entenderse referido a todos los soportes documentales utilizados, así como a la comunicación en directo.
 
 4. Los medios de comunicación social, públicos y privados, evitarán a través de sus anuncios publicitarios y en sus programaciones utilizar a las personas como meros objetos sexuales, y que se denigre su dignidad humana en función de su sexo u orientación sexual.
-
 
 #### Artículo 11. Estadísticas e investigaciones con perspectiva de género.
 
@@ -246,7 +230,6 @@ CAPÍTULO II
 
 Promoción de la igualdad de género por parte del Gobierno de Canarias
 
-
 #### Artículo 12. Representación equilibrada de los órganos directivos y colegiados.
 
 1. Se atenderá a la representación equilibrada de hombres y mujeres en el nombramiento de titulares de órganos directivos de la Administración de la Comunidad Autónoma de Canarias cuya designación corresponda al Gobierno de Canarias.
@@ -257,13 +240,11 @@ a) Del cómputo se excluirán aquellas personas que formen parte en función del
 
 b) Cada organización, institución o entidad a las que corresponda la designación o propuesta facilitará la composición de género que permita la representación equilibrada.
 
-
 #### Artículo 13. Contratación pública.
 
 1. El Gobierno de Canarias, a través de sus órganos de contratación, podrá establecer condiciones especiales en relación con la ejecución de los contratos que celebren, con el fin de promover la igualdad entre mujeres y hombres en el mercado de trabajo, siempre dentro del marco proporcionado por la normativa vigente.
 
 2. Los órganos de contratación de la Administración autonómica canaria señalarán, en los pliegos de cláusulas administrativas particulares, la preferencia de la adjudicación de los contratos para las proposiciones presentadas por aquellas empresas que, en el momento de acreditar su solvencia técnica, tengan la Marca de Excelencia Canaria de Igualdad o desarrollen medidas destinadas a lograr la igualdad de oportunidades, siempre que dichas proposiciones igualen en sus términos a las más ventajosas, desde el punto de vista de criterios objetivos, que sirvan de base para la adjudicación, y las medidas de igualdad aplicadas permanezcan en el tiempo y mantengan la efectividad, de acuerdo con las condiciones que reglamentariamente se establezcan. Todo ello sin perjuicio de lo establecido en la Ley 30/2007, de 30 de octubre, de Contratos del Sector Público.
-
 
 #### Artículo 14. Ayudas y subvenciones.
 
@@ -271,9 +252,7 @@ b) Cada organización, institución o entidad a las que corresponda la designaci
 
 2. La Administración de la Comunidad Autónoma de Canarias no formalizará contratos cuyo objeto sean ayudas y subvenciones públicas con aquellas empresas sancionadas o condenadas por resolución administrativa firme o sentencia judicial firme por alentar o tolerar prácticas laborales consideradas discriminatorias por la legislación vigente.
 
-
 ## TÍTULO II
-
 
 **Medidas para promover la igualdad de género**
 
@@ -282,7 +261,6 @@ CAPÍTULO I
 Igualdad en la educación
 
 Sección 1.ª Enseñanza no universitaria
-
 
 #### Artículo 15. Principio de igualdad en la educación.
 
@@ -293,7 +271,6 @@ Sección 1.ª Enseñanza no universitaria
 3. La Administración educativa potenciará la participación equilibrada entre mujeres y hombres en los puestos directivos y de decisión. La Administración educativa incorporará, con carácter integral y normalizado, la perspectiva de género y la evaluación del impacto de género en el desempeño de sus funciones, adoptando las medidas de acción positiva necesarias para responder a las diferentes necesidades de niñas, niños, adolescentes y jóvenes, mujeres y hombres en el derecho a la educación.
 
 4. El Sistema Educativo Público incorporará las medidas, programas y protocolos de detección, prevención e intervención que procedan en relación con el fenómeno social de la violencia de género, en todas sus formas, a fin de erradicar de las relaciones sociales los principios de dominación y subordinación característicos de la socialización en el sistema patriarcal, así como los estereotipos sexistas que marcan la vida de mujeres y hombres.
-
 
 #### Artículo 16. Promoción de la igualdad de género en los centros educativos.
 
@@ -321,7 +298,6 @@ f) Promover el respeto a la libre orientación sexual y el rechazo a todo tipo d
 
 5. La Administración educativa impulsará la elaboración de Planes de Igualdad en Educación que posibiliten la puesta en marcha de acciones para educar en igualdad, con la participación de padres, madres, profesorado y alumnado.
 
-
 #### Artículo 17. Currículo.
 
 La Administración educativa incentivará la realización de proyectos coeducativos e integrará en el diseño curricular de todas las áreas del conocimiento y disciplinas de las diferentes etapas educativas los siguientes objetivos coeducativos:
@@ -334,25 +310,21 @@ c) La incorporación de conocimientos que permitan que los alumnos y las alumnas
 
 d) La prevención de la violencia contra las mujeres, mediante el aprendizaje de métodos no violentos para la resolución de conflictos y de modos de convivencia basados en la diversidad y en el respeto a la igualdad de derechos y oportunidades de mujeres y hombres.
 
-
 #### Artículo 18. Materiales curriculares y libros de texto.
 
 1. La Administración educativa garantizará que en los libros de texto y materiales curriculares se eliminen los prejuicios culturales y los estereotipos sexistas o discriminatorios, incidiendo en la erradicación de modelos en los que aparezcan situaciones de desigualdad y violencia de género, valorando los que mejor respondan a la coeducación entre las niñas y los niños.
 
 2. La Administración educativa trasladará al profesorado, a las empresas editoriales y a los consejos escolares las instrucciones relativas a los criterios de selección de los materiales curriculares, teniendo en cuenta lo expresado en este precepto.
 
-
 #### Artículo 19. Formación del profesorado.
 
 La Administración educativa adoptará las medidas necesarias para incluir en los planes de formación inicial y continua del profesorado una preparación específica en materia de igualdad de oportunidades entre mujeres y hombres, coeducación, violencia de género y educación sexual. Para ello se revisarán periódicamente los planes de formación del profesorado.
-
 
 #### Artículo 20. Consejos escolares.
 
 En los consejos escolares de los centros públicos y privados concertados y en el Consejo Escolar de Canarias se designará una persona, con formación en igualdad de género, que impulse y lleve a cabo el seguimiento de medidas educativas que fomenten la igualdad real y efectiva entre mujeres y hombres.
 
 La composición del consejo escolar respetará el equilibrio entre ambos sexos. Asimismo, en el Consejo Escolar de Canarias participará una persona en representación del Instituto Canario de Igualdad con formación en igualdad y violencia de género.
-
 
 #### Artículo 21. Inspección educativa.
 
@@ -364,7 +336,6 @@ La composición del consejo escolar respetará el equilibrio entre ambos sexos. 
 
 Sección 2.ª Enseñanza universitaria
 
-
 #### Artículo 22. Igualdad de oportunidades en la Educación Superior.
 
 1. El sistema universitario canario, en el ámbito de sus competencias, fomentará la igualdad de oportunidades entre mujeres y hombres con relación a la carrera profesional. Igualmente, desarrollará medidas de conciliación de la vida laboral y familiar para favorecer la promoción profesional y curricular de todo el personal docente y no docente.
@@ -374,7 +345,6 @@ Sección 2.ª Enseñanza universitaria
 3. Asimismo, el sistema universitario canario, dentro del respeto a la autonomía universitaria, y a tenor de lo establecido en su legislación específica, impulsará medidas para promover la representación equilibrada entre mujeres y hombres en la composición de los órganos colegiados de las universidades y comisiones de selección y evaluación.
 
 4. Igualmente, impulsará la labor de las aulas e institutos de la mujer universitarios.
-
 
 #### Artículo 23. Proyectos de investigación.
 
@@ -388,7 +358,6 @@ CAPÍTULO II
 
 De la igualdad en el empleo
 
-
 #### Artículo 24. Igualdad de oportunidades en el acceso al empleo.
 
 1. Será un objetivo prioritario de la actuación de la Administración canaria la igualdad de oportunidades en el empleo. A tal efecto, se llevarán a cabo políticas de fomento del empleo y actividad empresarial que impulsen la presencia de mujeres y hombres en el mercado de trabajo con un empleo de calidad, y una mejor conciliación de la vida laboral, familiar y personal.
@@ -397,9 +366,7 @@ De la igualdad en el empleo
 
 Sección 1.ª De la igualdad laboral en el sector privado y en la Función Pública canaria
 
-
 **Subsección 1.ª Igualdad en el ámbito laboral en el sector privado**
-
 
 #### Artículo 25. Perspectivas de género en el Sistema Público de Empleo y Formación de Canarias.
 
@@ -421,11 +388,9 @@ Asimismo, posibilitará que el personal de los servicios de empleo y entidades c
 
 8. Los planes de formación ocupacional incorporarán la formación en igualdad y género de trabajadoras y trabajadores, en mejora de empleo o en paro, en toda la oferta formativa regular para la inserción laboral que lleven a cabo el Servicio Canario de Empleo y las entidades colaboradoras.
 
-
 #### Artículo 26. Incentivos a la contratación de mujeres.
 
 Se establecerán incentivos a la contratación estable de las mujeres, atendiendo con carácter prioritario a aquellos sectores y categorías laborales en los que se encuentren subrepresentadas, así como a sus situaciones singulares.
-
 
 #### Artículo 27. Trabajo doméstico.
 
@@ -433,11 +398,9 @@ Se establecerán incentivos a la contratación estable de las mujeres, atendiend
 
 2. Las administraciones públicas canarias fomentarán que los hombres se corresponsabilicen del trabajo doméstico, tanto si tienen un trabajo remunerado o no.
 
-
 #### Artículo 28. Promoción empresarial.
 
 Los poderes públicos de Canarias, en el marco de sus políticas de fomento empresarial, contemplarán ayudas específicas a mujeres para la creación de empresas o ayudas al autoempleo. Asimismo, establecerán medidas de formación, asesoramiento y seguimiento que permitan la consolidación de sus proyectos empresariales.
-
 
 #### Artículo 29. Calidad en el empleo.
 
@@ -446,7 +409,6 @@ Los poderes públicos de Canarias, en el marco de sus políticas de fomento empr
 2. La Administración canaria garantizará la igualdad de oportunidades en todas las facetas de la relación laboral y, en especial, en relación con la igualdad de retribución por trabajo de igual valor. A tal fin, promoverá que, en los planes de actuación de la Inspección de Trabajo, tenga carácter prioritario el cumplimiento del principio de igualdad de oportunidades en el ámbito laboral y del empleo.
 
 3. Las administraciones públicas de Canarias, con la colaboración de los agentes sociales, incentivarán la calidad en el empleo y la promoción de la igualdad entre mujeres y hombres.
-
 
 #### Artículo 30. Perspectiva de género en los ámbitos laboral, empresarial y sindical de Canarias.
 
@@ -464,7 +426,6 @@ Los poderes públicos de Canarias, en el marco de sus políticas de fomento empr
 
 7. Las administraciones públicas canarias fomentarán y apoyarán a las empresas que asuman, en colaboración con la representación legal de trabajadoras y trabajadores, organizaciones sindicales y empresariales, instituciones y organismos para la igualdad de género, actuaciones de responsabilidad social, a través de medidas económicas, fiscales, laborales, sociales o de otra índole, con la finalidad de mejorar la situación de igualdad entre mujeres y hombres en la empresa. En este sentido, los poderes públicos de Canarias dispondrán la aplicación de incentivos a las empresas públicas y privadas que proporcionen servicios y medidas de conciliación de la vida laboral, familiar y personal, la creación de servicios de cuidado de menores en el ámbito laboral o servicios de atención a personas dependientes, especialmente en situaciones de vulnerabilidad social de trabajadoras y trabajadores, o de espacios laborales de características especiales, como polígonos industriales y parques tecnológicos que, por sus condiciones de lejanía y carencia de equipamientos sociales, generen superiores dificultades para la conciliación de la vida laboral, familiar y personal.
 
-
 #### Artículo 31. Negociación colectiva.
 
 1. Partiendo del pleno respeto al principio constitucional de la autonomía en la negociación colectiva, la Administración autonómica canaria fomentará la inclusión de cláusulas destinadas a promover y garantizar la igualdad de oportunidades y la no discriminación por razón de género en la negociación colectiva en Canarias. Se promoverá la elaboración de recomendaciones o cláusulas tipo en esta materia, y en materia de conciliación de la vida laboral, familiar y personal.
@@ -481,7 +442,6 @@ b) Hagan un uso no sexista del lenguaje.
 
 5. La Administración autonómica canaria promoverá que los convenios colectivos incluyan el correspondiente análisis de impacto de género.
 
-
 #### Artículo 32. Seguridad y salud laboral.
 
 1. Las administraciones públicas de Canarias promoverán una concepción integral de la salud que tenga en cuenta tanto los riesgos físicos como psicosociales, atendiendo a las diferencias de las mujeres y de los hombres.
@@ -489,7 +449,6 @@ b) Hagan un uso no sexista del lenguaje.
 2. Se adoptarán las medidas adecuadas de protección relativas a la salud y a la seguridad de las trabajadoras embarazadas que hayan dado a luz recientemente o que se encuentren en período de lactancia.
 
 3. Se considerará discriminación por razón de sexo todo trato desfavorable a las mujeres relacionado con el embarazo o la maternidad.
-
 
 #### Artículo 33. Acoso sexual y acoso por razón de sexo.
 
@@ -505,9 +464,7 @@ Igualmente, y con esta finalidad, se establecerán medidas que deberán negociar
 
 5. La consejería competente en materia de igualdad impulsará la elaboración de dichos protocolos y realizará el seguimiento y evaluación de los mismos.
 
-
 **Subsección 2.ª Igualdad en el sector público**
-
 
 #### Artículo 34. Empleo en el sector público canario.
 
@@ -517,7 +474,6 @@ Igualmente, y con esta finalidad, se establecerán medidas que deberán negociar
 
 3. Las ofertas públicas de empleo de la Administración canaria deberán ir acompañadas de un informe de impacto de género.
 
-
 #### Artículo 35. Planes de igualdad en la Administración pública.
 
 1. El Gobierno de Canarias, sus empresas públicas y entidades instrumentales elaborarán, periódicamente, planes de igualdad.
@@ -526,13 +482,11 @@ Igualmente, y con esta finalidad, se establecerán medidas que deberán negociar
 
 3. Los planes de igualdad establecerán el plazo para ser evaluados así como, en su caso, las medidas correctoras oportunas.
 
-
 #### Artículo 36. Protección frente al acoso sexual y al acoso por razón de sexo.
 
 La Administración de la Comunidad Autónoma de Canarias adoptará las medidas necesarias para una protección eficaz frente al acoso sexual y el acoso por razón de sexo, tanto en el ámbito de la Administración pública como en el de las empresas privadas.
 
 Sección 2.ª Responsabilidad social y Marca de Excelencia Canaria en igualdad
-
 
 #### Artículo 37. Actuaciones de responsabilidad social de las empresas en materia de igualdad.
 
@@ -540,11 +494,9 @@ Sección 2.ª Responsabilidad social y Marca de Excelencia Canaria en igualdad
 
 2. Los poderes públicos de Canarias impulsarán medidas para fomentar el desarrollo de actuaciones de responsabilidad social de las empresas en materia de igualdad de género.
 
-
 #### Artículo 38. Entidades colaboradoras.
 
 Se fomentarán las iniciativas surgidas en el ámbito sociolaboral a favor de la igualdad de oportunidades. A estos efectos, el Gobierno de Canarias puede reconocer como entidades colaboradoras en igualdad entre mujeres y hombres a aquellas entidades que desarrollen una política de igualdad en su organización, en las condiciones que se determinen reglamentariamente.
-
 
 #### Artículo 39. Marca de Excelencia Canaria en igualdad.
 
@@ -570,13 +522,11 @@ CAPÍTULO III
 
 Conciliación de la vida laboral, familiar y personal
 
-
 #### Artículo 40. Derecho y deber de la corresponsabilidad de hombres y mujeres en el ámbito público y privado.
 
 1. Las mujeres y los hombres en Canarias tienen el derecho y el deber de compartir adecuadamente las responsabilidades familiares, las tareas domésticas y el cuidado y la atención de las personas en situación de dependencia, posibilitando la conciliación de la vida laboral, personal y familiar y la configuración de su tiempo, para alcanzar la efectiva igualdad de oportunidades entre mujeres y hombres.
 
 2. Las administraciones públicas de Canarias adoptarán medidas para garantizar la conciliación de la vida laboral, familiar y personal de las mujeres y hombres, teniendo en cuenta los nuevos modelos de familia y la situación de las mujeres que viven en el medio rural.
-
 
 #### Artículo 41. Organización de espacios, horarios y creación de servicios.
 
@@ -586,13 +536,11 @@ Conciliación de la vida laboral, familiar y personal
 
 3. Asimismo, se impulsará la creación de infraestructuras y servicios para facilitar el cumplimiento de las responsabilidades familiares y el cuidado y atención de menores y de personas en situación de dependencia.
 
-
 #### Artículo 42. Teletrabajo y trabajo en el domicilio.
 
 Las empresas podrán ofrecer al trabajador o trabajadora el derecho a optar por realizar su trabajo sin necesidad de desplazamiento, cuando las condiciones laborales lo permitan y previo informe positivo de impacto de género en relación con los efectos de dicha medida, de acuerdo con la representación sindical.
 
 Sección 1.ª De la conciliación en las empresas privadas
-
 
 #### Artículo 43. Conciliación en las empresas.
 
@@ -604,7 +552,6 @@ Sección 1.ª De la conciliación en las empresas privadas
 
 Sección 2.ª De la conciliación en la Función Pública canaria
 
-
 #### Artículo 44. Conciliación en el empleo público.
 
 El Gobierno de Canarias impulsará medidas de flexibilización horaria y jornadas parciales, así como la creación de centros infantiles en los centros de trabajo, para facilitar la conciliación de la vida laboral y familiar de las empleadas y empleados públicos, y hacer posible un reparto equilibrado de las tareas y responsabilidades familiares domésticas.
@@ -614,7 +561,6 @@ CAPÍTULO IV
 Políticas de promoción y protección de la salud y de bienestar social
 
 Sección 1.ª Promoción y protección de la salud
-
 
 #### Artículo 45. Perspectiva de género en el Sistema Sanitario Público de Canarias.
 
@@ -636,13 +582,11 @@ Sección 1.ª Promoción y protección de la salud
 
 9. El Sistema Canario de la Salud aplicará de manera especial un lenguaje no sexista, en todas sus formas, y el criterio de eliminación de estereotipos de género en los documentos y soportes que produzca directamente o a través de terceras personas, tanto en los destinados a las comunicaciones, como a la información, difusión de actividades y educación para la salud.
 
-
 #### Artículo 46. Investigación biomédica.
 
 1. La Administración autonómica canaria impulsará el enfoque de género en las diferentes líneas y proyectos de investigación biomédica, de forma que permita conocer los diferentes modos de enfermar y de respuesta terapéutica de las mujeres y los hombres.
 
 2. La Administración sanitaria incorporará a los estudios de investigación y de opinión sobre los servicios sanitarios, así como en las encuestas de salud, indicadores que permitan conocer los datos relativos a mujeres y hombres, tanto de forma desagregada por sexos como en forma global.
-
 
 #### Artículo 47. Igualdad y perspectiva de género en la protección y promoción de la salud.
 
@@ -652,7 +596,6 @@ Sección 1.ª Promoción y protección de la salud
 
 Sección 2.ª Políticas de bienestar social
 
-
 #### Artículo 48. Igualdad en las políticas de bienestar social.
 
 1. Los poderes públicos de Canarias integrarán la perspectiva de género en el desarrollo de las políticas de bienestar social. En este sentido, se establecerán programas específicos para mujeres mayores, mujeres con discapacidad, en riesgo de exclusión social, o dirigidos a mujeres en situación de especial vulnerabilidad.
@@ -661,18 +604,15 @@ Sección 2.ª Políticas de bienestar social
 
 3. Los programas de fomento y apoyo a la corresponsabilidad y la conciliación de la vida personal, familiar y laboral incluirán actuaciones de sensibilización y formación con enfoque de género, junto con medidas estructurales y económicas, como la creación de servicios sociocomunitarios de atención a menores y personas dependientes, con especial atención a los nuevos modelos de familia, a las situaciones de vulnerabilidad, lejanía, ruralidad, carencia de recursos o responsabilidades familiares no compartidas, o la creación de bancos del tiempo en la Red Básica de Servicios Sociales de Canarias para la promoción del voluntariado social y el intercambio de servicios no monetarizados. La creación de bancos de tiempo se hará en coordinación con los cabildos insulares y la Fecam con el objetivo de optimizar los recursos existentes y evitar duplicidades en las diferentes administraciones donde trabajan activamente personal voluntario y organizaciones no gubernamentales.
 
-
 #### Artículo 49. Mujeres mayores.
 
 Los poderes públicos de Canarias, en el contexto de la programación de acciones destinadas a las personas mayores, establecerán programas específicos dirigidos a las mujeres mayores, incidiendo en los aspectos afectivos, emocionales, atendiendo a las necesidades de las que se encuentran en situación de soledad, así como promoviendo su participación en actividades socioculturales y asociativas.
-
 
 #### Artículo 50. Cuidadoras y cuidadores de personas dependientes.
 
 1. En desarrollo de políticas de atención a las personas dependientes en Canarias, la Administración autonómica canaria establecerá medidas para la corresponsabilidad y programas de apoyo a cuidadores y cuidadoras, conforme se determine reglamentariamente.
 
 2. Asimismo, se proporcionará a las personas cuidadoras un acceso permanente a la información, la formación y el asesoramiento adecuado que les ayude a mejorar su calidad de vida.
-
 
 #### Artículo 51. Inclusión social.
 
@@ -686,16 +626,13 @@ Los poderes públicos de Canarias, en el contexto de la programación de accione
 
 5. La Administración autonómica, como responsable de su creación, propiciará acuerdos y establecerá Puntos de Encuentro Familiar en cada una de las siete islas, de acuerdo con la normativa vigente.
 
-
 #### Artículo 52. Tráfico de personas.
 
 El Gobierno de Canarias pondrá en marcha acciones para combatir el tráfico y desaparición de personas adultas y menores, así como mecanismos especiales para luchar contra la explotación sexual y el tráfico de mujeres, en coordinación con el resto de las administraciones a nivel internacional, europeo, estatal, insular y local.
 
-
 #### Artículo 53. Personas prostituidas.
 
 El Gobierno de Canarias reforzará los servicios de atención primaria para que sean ágiles y efectivos en la ayuda a las personas prostituidas, en especial a las mujeres y a aquellas personas que, por su opción sexual, tengan una especial vulnerabilidad.
-
 
 #### Artículo 54. Personas con discapacidad.
 
@@ -703,13 +640,11 @@ El Gobierno de Canarias reforzará los servicios de atención primaria para que 
 
 2. Se garantizará por parte de los poderes públicos que la discapacidad no sea un obstáculo para formar una familia, y se garantizará a las personas con discapacidad tener acceso a la información sobre la planificación familiar y reproducción, y a decidir personalmente sobre las cuestiones que les afecten directamente a su integridad personal. Igualmente, se potenciará la adopción de medidas de apoyo a la inserción laboral y la eliminación de barreras que impidan la contratación de las personas con discapacidad.
 
-
 #### Artículo 55. Mujeres e interculturalidad.
 
 Los poderes públicos de Canarias promoverán la integración, participación y promoción de las mujeres migrantes, realizarán actuaciones para promover la interculturalidad y el valor de la diversidad dentro de un marco de derechos y de igualdad plena de las mujeres, velarán por el acceso al empleo y a los servicios de las mujeres migrantes y concederán protección a situaciones de violencia de género.
 
 Sección 3.ª Derecho al embarazo y la maternidad
-
 
 #### Artículo 56. Derecho al embarazo y la maternidad.
 
@@ -739,7 +674,6 @@ CAPÍTULO V
 
 Políticas de promoción y atención a las mujeres
 
-
 #### Artículo 57. Vivienda, urbanismo y planeamiento.
 
 1. Los poderes públicos de Canarias integrarán la perspectiva de género en el diseño de las políticas y los planes en materia de vivienda, desarrollando programas y actuaciones específicas para distintos grupos sociales y modelos de familia.
@@ -748,13 +682,11 @@ Políticas de promoción y atención a las mujeres
 
 3. Asimismo, facilitarán el acceso a las viviendas protegidas de las mujeres víctimas de violencia de género, y de aquéllas que se encuentren en situación de riesgo de exclusión social, en función de las condiciones especialmente gravosas que pudieran concurrir.
 
-
 #### Artículo 58. Nuevas tecnologías.
 
 1. Los poderes públicos de Canarias promoverán las acciones que favorezcan la implantación de las nuevas tecnologías, en base a criterios de igualdad, y promoverán la participación de las mujeres en la construcción de la sociedad de la información y del conocimiento.
 
 2. En los proyectos desarrollados en el ámbito de las tecnologías de la información y la comunicación, financiados total o parcialmente por la Administración canaria se garantizará que su lenguaje y contenido no sean sexistas.
-
 
 #### Artículo 59. Mujeres del medio rural.
 
@@ -766,11 +698,9 @@ CAPÍTULO VI
 
 Participación social, política y económica
 
-
 #### Artículo 60. Participación política.
 
 Las candidaturas para las elecciones al Parlamento de Canarias garantizarán la presencia equilibrada de mujeres y hombres.
-
 
 #### Artículo 61. Espacios electorales.
 
@@ -778,13 +708,11 @@ Las candidaturas para las elecciones al Parlamento de Canarias garantizarán la 
 
 2. En los debates y entrevistas que se celebren durante el período electoral, tanto en medios de titularidad pública como privada, se recomienda dedicar un apartado a explicar las propuestas electorales de cada formación política en política de igualdad.
 
-
 #### Artículo 62. Participación social.
 
 1. Las administraciones públicas de Canarias impulsarán medidas para el fomento de la participación social de las mujeres.
 
 2. Asimismo, cooperarán con la iniciativa social y las asociaciones para la promoción de la igualdad de género.
-
 
 #### Artículo 63. Fomento de las asociaciones de mujeres.
 
@@ -793,7 +721,6 @@ Las candidaturas para las elecciones al Parlamento de Canarias garantizarán la 
 2. Asimismo, potenciarán todas aquellas iniciativas que persigan la creación de redes de asociaciones de mujeres con el objetivo de incorporar a éstas en la actividad pública y facilitar su participación social.
 
 3. Igualmente, fomentarán la creación de órganos locales de participación en relación con la igualdad de oportunidades entre mujeres y hombres, y su coordinación con otros órganos de ámbito territorial similares.
-
 
 #### Artículo 64. Participación en ámbitos sociales, políticos, económicos, culturales y deportivos.
 
@@ -809,7 +736,6 @@ CAPÍTULO VII
 
 Imagen y medios de comunicación
 
-
 #### Artículo 65. Imagen de las mujeres y de los hombres.
 
 1. Los poderes públicos de Canarias promoverán la transmisión de una imagen igualitaria, plural y no estereotipada de los hombres y de las mujeres en todos los medios de información y comunicación, conforme a los principios y valores de nuestro ordenamiento jurídico y las normas específicas que les sean de aplicación.
@@ -817,7 +743,6 @@ Imagen y medios de comunicación
 A tales efectos, se considerará ilícita, de conformidad con lo previsto en la legislación vigente en esta materia, la publicidad que atente contra la dignidad de la persona o vulnere los valores y derechos reconocidos en la Constitución, especialmente en sus artículos 18 y 20.4. Se entenderán incluidos en la previsión anterior los anuncios que presenten a las mujeres de forma vejatoria, bien utilizando particular y directamente su cuerpo o partes del mismo como mero objeto desvinculado del producto que se pretende promocionar, bien su imagen asociada a comportamientos estereotipados que vulneren los fundamentos de nuestro ordenamiento, coadyuvando a generar la violencia a que se refiere la Ley Orgánica 1/2004, de 28 de diciembre, de Medidas de Protección Integral contra la Violencia de Género.
 
 2. El Consejo de Administración de la Radiotelevisión Canaria contribuirá a fomentar la igualdad de género y los comportamientos no sexistas en los contenidos de las programaciones ofrecidas por los medios de comunicación en Canarias, así como en la publicidad que emitan.
-
 
 #### Artículo 66. Medios de comunicación social.
 
@@ -829,19 +754,15 @@ Los medios de comunicación social adoptarán, mediante autorregulación, códig
 
 3. La Administración canaria promoverá una presencia equilibrada de mujeres y hombres en órganos de dirección y decisión de los medios de comunicación social.
 
-
 ## TÍTULO III
 
-
 **Organización institucional y coordinación entre las distintas administraciones públicas para la igualdad de género**
-
 
 #### Artículo 67. Comisión Interdepartamental para la Igualdad entre Mujeres y Hombres.
 
 1. Se creará la Comisión Interdepartamental para la Igualdad entre Mujeres y Hombres, en la que estarán representadas todas las consejerías del Gobierno de Canarias, como órgano colegiado para el seguimiento de las acciones y actuaciones de la Administración canaria en materia de igualdad de género, que será presidida por la persona titular de la consejería competente en materia de igualdad.
 
 2. Su composición, competencias y régimen de funcionamiento se determinarán reglamentariamente.
-
 
 #### Artículo 68. Unidades de igualdad de género.
 
@@ -851,13 +772,11 @@ Los medios de comunicación social adoptarán, mediante autorregulación, códig
 
 3. La Administración autonómica de Canarias garantizará el asesoramiento y la formación de su personal en materia de igualdad de género para implementar eficazmente las políticas públicas con perspectiva de género.
 
-
 #### Artículo 69. Observatorio de la Igualdad de Género.
 
 1. Se creará el Observatorio de la Igualdad de Género como órgano asesor, adscrito a la consejería competente en materia de igualdad, destinado a detectar, analizar y proponer estrategias para corregir situaciones de desigualdad de las mujeres en la Comunidad Canaria. En todo caso, se priorizarán las áreas de violencia de género, situación laboral e imagen pública de las mujeres.
 
 2. Sus funciones, composición y funcionamiento, así como las distintas áreas de intervención, serán determinadas reglamentariamente.
-
 
 #### Artículo 70. Consejo Canario de Igualdad de Género.
 
@@ -873,22 +792,17 @@ c) Proponer, impulsar y, en su caso, elaborar las medidas necesarias para la ada
 
 d) Proponer a los cabildos insulares y a los ayuntamientos, en el ámbito de sus competencias, la constitución de consejos de participación en materia de igualdad de género.
 
-
 #### Artículo 71. Coordinación de los poderes públicos de Canarias para la igualdad entre mujeres y hombres.
 
 Se creará la Comisión de coordinación de las políticas autonómicas y locales para la igualdad de género con el objeto de coordinar e impulsar la integración del enfoque de género en las políticas y programas, en materia de igualdad entre mujeres y hombres, desarrollados por las distintas administraciones públicas de la Comunidad Autónoma, y que dependerá de la Consejería competente en materia de igualdad. Dicha Comisión estará compuesta por representantes de la Administración autonómica, de los siete cabildos insulares y de los ayuntamientos. Se establecerán reglamentariamente su composición y funcionamiento.
 
-
 ## TÍTULO IV
 
-
 **Garantías para la igualdad de género**
-
 
 #### Artículo 72. Evaluación de la aplicación de la ley.
 
 En los términos en que reglamentariamente se determine, se elaborará un informe periódico sobre el conjunto de actuaciones en relación con la efectividad del principio de igualdad entre mujeres y hombres, que estará coordinado por la consejería que ostente las competencias en materia de igualdad y que establecerá los criterios correctores que correspondan con la finalidad objeto de esta ley.
-
 
 #### Artículo 73. Igualdad de trato en el acceso al uso de bienes y servicios y su suministro.
 
@@ -896,23 +810,19 @@ En los términos en que reglamentariamente se determine, se elaborará un inform
 
 2. De acuerdo con el artículo 69 de la Ley Orgánica 3/2007, de 22 de marzo, para la igualdad efectiva de mujeres y hombres, la prestación de bienes y servicios de forma exclusiva o principal a las personas de uno de los sexos sólo será admisible cuando la diferencia de trato esté justificada por un propósito legítimo y los medios para lograr tal finalidad sean adecuados y necesarios.
 
-
 #### Artículo 74. Acción de cesación y rectificación de la publicidad ilícita.
 
 1. De conformidad con lo dispuesto en el artículo 12 de la Ley Orgánica 1/2004, de 28 de diciembre, de Medidas de Protección Integral contra la Violencia de Género, el Instituto Canario de Igualdad y las asociaciones que tengan como objetivo único la defensa de los intereses de las mujeres estarán legitimados para ejercitar la acción de cesación de publicidad ilícita por utilizar de forma vejatoria la imagen de la mujer, en los términos establecidos en la legislación vigente.
 
 2. El Consejo de Administración de la Radiotelevisión Canaria podrá solicitar de los anunciantes y empresas audiovisuales, por iniciativa propia o a instancia de las partes interesadas, el cese o la rectificación de la publicidad ilícita o prohibida, y, cuando proceda, disponerlo, de conformidad con la legislación aplicable y en los supuestos que la misma establezca.
 
-
 #### Disposición adicional primera. Dotación presupuestaria.
 
 Se autoriza al Gobierno de Canarias a efectuar las modificaciones presupuestarias necesarias para el desarrollo de la presente ley.
 
-
 #### Disposición adicional segunda. Modificaciones en la legislación autonómica de Canarias.
 
 En aplicación de lo dispuesto en la Ley Orgánica 3/2007, de 22 de marzo, para la igualdad efectiva de mujeres y hombres, en relación con la condición de plena ciudadanía de las mujeres en Canarias, se revisarán todos los textos normativos de las administraciones públicas canarias suprimiendo el uso del masculino genérico sistemático en el lenguaje y adaptándolo a la representación paritaria de ambos sexos, en los términos que proceda en cada caso.
-
 
 #### Disposición adicional tercera. Modificación de la Ley 1/1994, de 13 de enero, del Instituto Canario de la Mujer.
 
@@ -925,7 +835,6 @@ Se modifica el artículo 1 y las letras a) y b) del artículo 6 de la Ley 1/1994
 a) El Presidente/a, que será el Presidente/a de Gobierno.
 
 b) Vicepresidencia primera, que será el consejero/a competente en Bienestar Social y Vicepresidencia segunda, que será el director/a del Instituto.»
-
 
 #### Disposición adicional cuarta. Modificación de la Ley 7/2001, de 31 de julio, del Diputado del Común.
 
@@ -949,16 +858,13 @@ Asimismo, y sin perjuicio de las funciones que el artículo 15.3 de la presente 
 
 2. A efectos de su designación, la persona que haya de ostentar dicha Adjuntía especial habrá de cumplir con las previsiones del apartado segundo del artículo anterior. Asimismo, le serán de aplicación las mismas prerrogativas, régimen de incompatibilidades, y sistema de nombramiento y cese que esta ley prevé para los Adjuntos.»
 
-
 #### Disposición derogatoria única. Derogación normativa.
 
 Quedan derogadas todas aquellas disposiciones, de igual o inferior rango, que se opongan a lo previsto en la presente ley.
 
-
 #### Disposición final primera. Desarrollo reglamentario.
 
 Se autoriza al Gobierno de Canarias para dictar las disposiciones necesarias para el desarrollo normativo y ejecución de la presente ley.
-
 
 #### Disposición final segunda. Entrada en vigor.
 
@@ -968,18 +874,15 @@ ANEXO DE LA LEY
 
 En el ámbito de aplicación de esta norma, se adoptarán los siguientes conceptos:
 
-
 **Acciones positivas**
 
 Son estrategias temporales (hasta la consecución del objetivo) destinadas a remover situaciones, prejuicios, comportamientos y prácticas culturales y sociales que impiden a un grupo social discriminado o minusvalorado alcanzar una situación real de igualdad de oportunidades.
-
 
 **Acoso moral por razón de género**
 
 Constituye acoso moral cualquier comportamiento, acción u omisión de actuación, de cualquier naturaleza y en cualquiera de los espacios en los que se produzca, realizado con el propósito o el efecto de atentar contra la dignidad de la persona, a través de la creación de un entorno intimidatorio, hostil, degradante, humillante u ofensivo, y prevaliéndose de una posición o relación de poder o dominación de la persona acosadora, respecto de la persona acosada, determinada por las desigualdades de género.
 
 El acoso moral se extiende a actos de agresión verbal y psicológica; humillación, hostigamiento, burla o cualquier forma de vejación, invasión de la intimidad, el espacio, las pertenencias personales y las comunicaciones; la vulneración o lesión a la dignidad, el buen nombre, la reputación y la imagen privada y pública de las personas; actos no deseados ni consentidos por la víctima, o la amenaza de los mismos, que vulneran sus derechos fundamentales y libertades constitucionales de igualdad, libertad e integridad, y provocan un estado de desestabilización y destrucción de la salud psíquica y física.
-
 
 **Acoso por razón de sexo**
 
@@ -989,21 +892,17 @@ Asimismo, constituye discriminación por razón de sexo el condicionamiento de u
 
 En todo caso, se considerarán discriminatorios el acoso sexual y el acoso por razón de sexo. La persona acosada será la única legitimada en los litigios sobre acoso sexual y acoso por razón de sexo.
 
-
 **Acoso sexual**
 
 A los efectos de esta ley, y sin perjuicio de lo que establece el Código Penal, constituye acoso sexual cualquier comportamiento verbal, no verbal o físico no deseado, de naturaleza sexual, realizado con el propósito o el efecto de atentar contra la dignidad de una persona, en particular cuando se crea un entorno intimidatorio, hostil, degradante, humillante u ofensivo.
-
 
 **Agentes o promotores de igualdad de género**
 
 Figura profesional integrada en administraciones públicas, corporaciones, organismos autónomos, organizaciones sociales, sindicales o empresariales, en empresas públicas o instituciones, encargada de coordinar la actuación en materia de igualdad entre mujeres y hombres en el ámbito concreto de intervención, así como del asesoramiento sobre la integración de la perspectiva de género en la planificación, ejecución y evaluación de las políticas públicas, la acción social, sindical o empresarial, y sobre la evaluación del impacto de género de las disposiciones normativas, las políticas públicas y las actuaciones de los agentes sociales.
 
-
 **Coeducación y educación no sexista**
 
 Perspectiva y acción intencionada en la educación encaminada a la superación de los roles y estereotipos sexistas y la desigualdad de género. La coeducación se refiere al horizonte del desarrollo integral de la persona superando las limitaciones de género y a procesos como el desarrollo de la autonomía personal; el desarrollo cognitivo, afectivo y social; el aprendizaje de pautas de relación, comunicación y resolución no violenta de conflictos; el respeto a la igualdad y a la diversidad de las personas de ambos sexos; la libre elección y desarrollo de orientación y conductas sexuales; la corresponsabilidad de ambos sexos en los ámbitos público, privado y comunitario; la educación afectivo-sexual, salud sexual y reproductiva, orientaciones y conductas sexuales; la visibilidad, reconocimiento y dignificación de la contribución de las mujeres a la cultura y la sociedad y su protagonismo en la historia, la ciencia, la economía, la política o las artes; el conocimiento de la historia y la teoría feminista, los fundamentos filosóficos de la reivindicación de los derechos de las mujeres como derechos humanos y la situación actual de las relaciones de género; el uso no sexista del lenguaje, la comunicación y la representación de mujeres y hombres; la orientación académico-profesional diversificada para ambos sexos y libre de estereotipos de género.
-
 
 **Conciliación de la vida laboral, personal y familiar**
 
@@ -1011,21 +910,17 @@ Situación y condiciones de organización de la vida y de distribución de espac
 
 Son medidas de conciliación las actuaciones intencionales adoptadas por administraciones, instituciones, entidades o empresas en la estructura, organización y funcionamiento orgánicos; en la gestión de sus recursos humanos; en las condiciones laborales o en sus equipamientos y servicios, que permiten a mujeres y a hombres desarrollar la vida profesional, la vida personal y la vida familiar en igualdad de oportunidades, y compatibilizar las responsabilidades familiares con la realización personal y profesional.
 
-
 **Corresponsabilidad en los ámbitos público y privado**
 
 Distribución igualitaria de funciones y responsabilidades públicas y privadas en los ámbitos público, social y privado entre mujeres y hombres a fin de posibilitar el desarrollo de las capacidades y el ejercicio de derechos y oportunidades de ambos sexos y generar un rendimiento óptimo de los recursos humanos en un Estado social y democrático de derecho.
-
 
 **Cuenta complementaria o cuenta satélite**
 
 Cómputo y cuantificación de la riqueza producida por los servicios prestados gratuitamente por las mujeres en el hogar, el trabajo invisible o no monetarizado o las plusvalías generadas al Estado por las unidades familiares, que es preciso realizar de forma independiente de la contabilidad oficial, pero en coherencia con ésta, a fin de que se tenga en cuenta el trabajo gratuito por parte de las mujeres en la determinación del producto interior bruto (PIB) y en la previsión de necesidades sociales, la planificación de los servicios públicos y las prestaciones básicas del Estado.
 
-
 **Desigualdades de género en la educación**
 
 Manifestaciones diferenciales por sexo en las condiciones del sistema educativo y en las relaciones escolares, generadas por los procesos de socialización desigual de mujeres y hombres y la transmisión de roles y estereotipos de género, y proyectadas en fenómenos como: el analfabetismo; el absentismo escolar; el abandono y el fracaso escolar; la convivencia, comunicación y disciplina escolar; la falta de escolarización y la deserción temprana por motivos culturales o económicos; las relaciones y conductas sexistas y discriminatorias en el centro escolar; la segregación de opciones educativas y profesionales por sexos; la violencia de género; los embarazos adolescentes; el abuso, la agresión y el acoso moral escolar; los bajos resultados académicos; el fracaso de los métodos pedagógicos y los contenidos educativos programados en el proyecto educativo de centro; la escasa diversificación de opciones profesionales; la precaria integración laboral y profesional o la baja tasa de continuidad hacia estudios superiores.
-
 
 **Discriminación directa**
 
@@ -1033,21 +928,17 @@ Constituye discriminación directa por razón de sexo la situación en la que se
 
 También se considera discriminación por razón de sexo cualquier trato adverso o efecto negativo que se produzca en una persona como consecuencia de la presentación por su parte de queja, reclamación, denuncia, demanda o recurso, de cualquier tipo, destinados a impedir su discriminación y a exigir el cumplimiento efectivo del principio de igualdad de trato entre mujeres y hombres.
 
-
 **Discriminación indirecta**
 
 Constituye discriminación indirecta por razón de sexo la situación en la que una disposición, criterio o práctica, aparentemente neutras, sitúan a personas de un sexo determinado en desventaja particular con respecto a personas de otro sexo, salvo que dicha disposición, criterio o práctica puedan justificarse objetivamente con una finalidad legítima y que los medios para alcanzarla sean adecuados y necesarios. En cualquier caso, se considera discriminatoria toda orden de discriminar, directa o indirectamente, por razón de sexo.
-
 
 **Discriminación laboral**
 
 Supone discriminación laboral por razón de género, directa o indirecta, de origen o resultado, cualquier trato o condiciones desiguales de mujeres y hombres en cuanto a: acceso al empleo; condiciones y relaciones laborales; contratación; promoción; formación ocupacional y profesional; segregación vertical y horizontal; retribución; clasificación y denominación ocupacional y profesional de puestos de trabajo; acoso sexual y acoso por razón de sexo; salud y seguridad laboral; infrarrepresentación en órganos de dirección y gestión, consejos de administración de empresas, organizaciones empresariales y sindicales y sociedades mercantiles; vulnerabilidad laboral; dificultades de conciliación laboral, personal y familiar debida a las condiciones y relaciones laborales.
 
-
 **Discriminación retributiva**
 
 Desigualdad salarial de las mujeres, computada en términos globales y resultado de la segregación horizontal o vertical en el mercado de trabajo. La discriminación retributiva hace referencia a un conjunto de conceptos retributivos: salario base; complementos salariales y prestaciones extrasalariales.
-
 
 **Doble discriminación o vulnerabilidad social de determinados colectivos de mujeres**
 
@@ -1055,76 +946,61 @@ Situación y condiciones de vida de determinados colectivos de mujeres en las qu
 
 La feminización de la pobreza; el desempleo femenino; el impago de pensiones compensatorias y alimentarias; las responsabilidades familiares no compartidas; el abandono temprano y el retorno tardío al mercado de trabajo o la precariedad de las condiciones de salud muestran mayor incidencia sobre –y se generan en mayor índice entre– mujeres reclusas y ex reclusas; mujeres migrantes y de minorías étnicas; mujeres víctimas de tráfico o explotación sexual; mujeres víctimas de violencia de género y de prácticas culturales contra la dignidad y la integridad física, psíquica y sexual; mujeres mayores y discapacitadas; mujeres dependientes o cuidadoras; mujeres drogodependientes; madres adolescentes; mujeres en situación de aislamiento, ruralidad, marginalidad de áreas urbanas o dificultades de acceso a los recursos sociales, educativos, laborales o culturales; mujeres pensionistas con ingresos inferiores al salario mínimo interprofesional.
 
-
 **Estadísticas de género**
 
 Conjunto de instrumentos o productos estadísticos en los que se han incorporado variables e indicadores de medida específicos para la aplicación del análisis de género a la realidad cifrada, recogida y desglosada por sexo que se está estudiando. Para que las estadísticas puedan mostrar la desigual realidad social de mujeres y hombres han de incorporar variables específicas relacionadas con los diferentes roles sociales y con el impacto diferencial de cualquier fenómeno o medida sobre las personas.
-
 
 **Estadísticas desagregadas por sexo**
 
 Conjunto de datos cifrados y de información estadística segregada por sexo a fin de hacer posible la aplicación del análisis comparativo de las diferencias y desigualdades entre mujeres y hombres en cada variable analizada y es imprescindible para la adopción de medidas de prevención e intervención, así como para la evaluación del impacto de género. La desagregación de todas las variables relacionadas con la población por sexo se refiere a las diferencias biológicas y el campo de la variable sexo debe cruzar el resto de variables.
 
-
 **Evaluación del impacto de género**
 
 Constituye impacto el conjunto de resultados, efectos, productos o respuestas –previstas y no previstas, deseadas o no– que se registran en una población o ámbito de actuación tras una intervención o la aplicación de una norma, medida, política o disposición. La evaluación del impacto de género es el examen de las políticas, normas, planes, programas y medidas en función de indicadores diferenciales de género, a fin de conocer el modo en el que afectarán a mujeres y hombres y poder adoptar las medidas correctoras necesarias. Comporta, en consecuencia, su revisión y adaptación para eliminar los efectos discriminatorios y fomentar la igualdad real y efectiva de ambos sexos.
-
 
 **Feminización de la pobreza**
 
 Incidencia y prevalencia en las mujeres de las condiciones de pobreza, vulnerabilidad y exclusión socioeconómica, motivada por la precariedad en el empleo y en los derechos de seguridad social derivados del régimen de cotización; por la elevada tasa de inactividad y desempleo o empleo encubierto femenino y las dificultades de acceso y estabilidad en el mercado de trabajo productivo y remunerado; por la asunción en exclusiva de las responsabilidades familiares y el cuidado de menores y personas dependientes; por la ausencia de derechos pasivos derivados de uniones de hecho o por la mayor longevidad de las mujeres con peores condiciones económicas.
 
-
 **Género**
 
 Se entiende por género la construcción social y cultural de un conjunto de roles y valores transmitida y aprehendida por mujeres y hombres de modo diferencial a través de los procesos de socialización y educación, generalmente por oposición entre ambos y con desigual valor social el masculino y el femenino. El género hace referencia a las diferencias sociales entre ambos sexos, por oposición a las diferencias biológicas que determinan la pertenencia de la persona a uno u otro sexo genético, y presenta variaciones de concepción en diferentes culturas y en diferentes momentos históricos dentro de una misma cultura. Es una definición social de las relaciones de poder desigual entre ambos sexos y la clave del contrato social implícito de género con el que vivimos y actuamos.
-
 
 **Igualdad legal o formal**
 
 Ausencia de barreras jurídicas o legales a la igualdad de derechos y libertades entre mujeres y hombres, reconocida en la Constitución española de 1978 en el artículo 14, como proscripción de la discriminación por razón de sexo.
 
-
 **Igualdad real y efectiva**
 
 Ausencia de barreras sociales, económicas, políticas o culturales al pleno ejercicio de la igualdad de derechos y libertades de mujeres y hombres; de las condiciones de plena ciudadanía de ambos sexos y de participación paritaria en los ámbitos público y privado, reconocida en la Constitución española de 1978 en el artículo 9.2, que obliga a todos los poderes públicos a remover obstáculos y a promover las condiciones que hagan real y efectiva la igualdad de las personas y de los grupos en los que se integran.
-
 
 **Indicadores sociales de género**
 
 Unidades de información estadística que muestran la incidencia diferencial de una variable social en función de los roles de género y que no se registran habitualmente en instrumentos estadísticos configurados para una población concebida como neutra. Puesto que la diferenciación sexual de las personas que componen la colectividad se convierte en desigualdad social de género, la función de un modelo de indicadores de la situación social de mujeres y hombres es desvelar las manifestaciones y principales características de esta situación y traducirlas en medidas objetivas y comparables.
 
-
 **Lenguaje sexista**
 
 Conjunto de características y fenómenos del habla o uso de la lengua, determinado por una concepción androcéntrica y discriminatoria de las mujeres mediante la invisibilidad, la subrepresentación o la identificación subordinada a la del hombre, como ser o entidad derivada y no individual. El lenguaje sexista incluye el uso normativo del masculino genérico omnicomprensivo, que relega al femenino a una posición de subidentificación o inexistencia y que legitima una doble moral para ambos sexos, al atribuir y socializar distintos o contrarios significados para los mismos conceptos en masculino y en femenino, o al asociar características peyorativas, discriminatorias o de subvaloración a vocablos relacionados con las mujeres. El uso sexista no se limita al lenguaje articulado, se extiende también a características o fenómenos propios del lenguaje simbólico e iconográfico.
-
 
 **Perspectiva o análisis de género**
 
 Es la consideración sistemática, en el conjunto de la actividad política, social, institucional, de las diferentes situaciones y condiciones de vida, obstáculos o limitaciones, participación, recursos, derechos, prioridades o necesidades, valores y comportamientos de mujeres y hombres, determinados por los roles tradicionales de género, que provocan desigualdades sociales o discriminaciones reales y efectivas entre ambos sexos.
 
-
 **Planes de igualdad**
 
 Conjunto sistematizado de objetivos, medidas y criterios de actuación de las administraciones públicas, empresas, instituciones u organizaciones dirigidas a la integración de la transversalidad de género y a la adopción de medidas y la realización de acciones positivas para la igualdad real y efectiva entre mujeres y hombres y a la eliminación de todo tipo de discriminación por razón de género.
-
 
 **Planes de igualdad en las empresas**
 
 Conjunto organizado de medidas adoptadas por las empresas, públicas o privadas, dirigidas a promover condiciones y relaciones laborales de igualdad entre mujeres y hombres. Los planes de igualdad en la empresa deben contemplar actuaciones integrales en relación con el conjunto de desigualdades de género puestas de manifiesto por un diagnóstico sistemático en el seno de la empresa, que pueden extenderse a la siguiente casuística: condiciones de acceso al empleo; contratación; estabilidad laboral; promoción; formación ocupacional y profesional; formación en igualdad de género; igualdad de retribución por trabajo de igual valor; eliminación de la segregación vertical y horizontal; adecuada clasificación ocupacional y profesional de puestos de trabajo de mujeres y hombres; conciliación de la vida familiar y laboral; relaciones laborales no discriminatorias; protección frente al acoso sexual y al acoso por razón de sexo; representación equilibrada de mujeres y hombres; representación y protección sindical frente a condiciones de vulnerabilidad laboral; participación equilibrada de ambos sexos en la negociación colectiva y en la elaboración de los convenios colectivos; creación de la figura de la promotora, promotor o agente de igualdad de género en la empresa; aplicación de criterios de lenguaje, comunicación y publicidad no sexistas; criterios y mecanismos de actuación, seguimiento y evaluación de impacto de género; seguridad y salud laboral, con especial protección de los derechos de las mujeres embarazadas, puérperas y lactantes, reconociendo el derecho a la acumulación de los periodos de lactancia en el horario laboral.
 
-
 **Políticas públicas de igualdad en el empleo**
 
 Conjunto organizado de medidas adoptadas por los poderes públicos dirigidas a la inserción, permanencia y promoción en el mercado laboral; a la contratación de mujeres en condiciones de estabilidad y calidad; a la igualdad retributiva; a la equiparación de la tasa de actividad y ocupación de ambos sexos en el mercado laboral; al refuerzo de la inspección de trabajo para asegurar la erradicación de la discriminación laboral contra las mujeres; al acceso de las mujeres a las profesiones en las que estén infrarrepresentadas; a la inserción laboral del colectivo de mujeres mayores de 45 años; al acceso de las mujeres a los espacios de toma de decisiones, tanto en el sector público como en el privado; al establecimiento de mecanismos que desvelen las situaciones de economía sumergida de las mujeres o al fomento de las iniciativas emprendedoras de las mujeres como empresarias y trabajadoras autónomas.
 
-
 **Presupuestos públicos con enfoque de género**
 
 Conjunto de medidas presupuestarias, económicas o financieras y prioridades políticas establecidas en el marco económico gubernamental, en el que se han tenido en cuenta las desigualdades de género (participación, condiciones sociales de vida, recursos, derechos, valores y roles de mujeres y hombres, respectivamente) tanto en los ingresos como en los gastos, en la política impositiva y en el modelo de procedimiento para su aplicación, con objeto de responder paritariamente a las necesidades diferenciales de ambos sexos y reestructurando ingresos y gastos con el fin de promover la igualdad de género.
-
 
 **Principio de igualdad de trato entre mujeres y hombres**
 
@@ -1132,26 +1008,21 @@ Supone la ausencia de toda discriminación directa o indirecta por razón de sex
 
 La ausencia de barreras sexistas o discriminatorias para la igualdad real y efectiva de ambos sexos completa el reconocimiento de la igualdad jurídica formal y permite la existencia de un nuevo contrato social basado en la plena ciudadanía de las mujeres en la totalidad de derechos, libertades, recursos y oportunidades de participación social, cultural, política y económica.
 
-
 **Publicidad sexista o discriminatoria por razón de género**
 
 Todo tipo de actividad, producto o soporte comunicativo con fines comerciales o de proyección pública que utiliza el cuerpo y la imagen de la mujer como objeto de consumo; que transmite y consolida roles y estereotipos tradicionales y discriminatorios de género; que atenta contra los derechos y valores de la dignidad de las mujeres, el honor, la personalidad integral y su reconocimiento como ciudadana de pleno derecho; que utiliza con fines comerciales, infravalora o ridiculiza actividades tradicionalmente realizadas por las mujeres, así como procesos biológicos, características físicas o edades de las mujeres; que potencia la invisibilidad o la infrarrepresentación de las mujeres en la sociedad, la cultura, la política o el trabajo y que destaca y utiliza como reclamo publicitario y motivo principal de valoración de las mujeres la belleza, la juventud o determinadas características de personalidad tradicionalmente atribuidas al rol femenino.
-
 
 **Punto de encuentro familiar**
 
 El Punto de Encuentro Familiar es un espacio neutral y acogedor donde se facilita el encuentro del menor con el progenitor no custodio y con otros miembros de la familia biológica, con el fin de cumplir el régimen de visitas, en aquellos casos en que las relaciones son conflictivas, garantizando el derecho de los niños a relacionarse con ambos padres, así como su seguridad.
 
-
 **Relaciones sociales de género**
 
 Relaciones sociales entre personas del mismo o distinto sexo basadas en la desigual distribución de roles sociales que caracteriza a todo el sistema sexista y el contrato social de género. La identidad con el respectivo rol de género que se ha transmitido a mujeres y a hombres a través de pautas educativas y modelos de referencia, así como la conciencia de situación de poder o de falta de poder del propio rol, están presentes implícita o explícitamente en todas las relaciones entre ambos sexos, tanto públicas como privadas.
 
-
 **Roles de género**
 
 Los roles sociales de género constituyen pautas de acción, valores y comportamientos asignadas de modo desigual a hombres y a mujeres. El rol de género masculino ha tenido asignada tradicionalmente la actividad, la presencia pública y el poder, en tanto el rol de género femenino ha tenido asignada la actividad doméstica, el servicio a las personas y la responsabilidad sobre la procreación y el cuidado en el ámbito familiar.
-
 
 **Segregación laboral**
 
@@ -1161,18 +1032,15 @@ a) Horizontal.–Presencia mayoritaria de las mujeres en familias ocupacionales 
 
 b) Vertical.–Presencia mayoritaria de las mujeres en las escalas y niveles inferiores de poder adquisitivo, poder, responsabilidad y reconocimiento social, en empleos en precario y con mayor saturación laboral y superior tasa de desempleo que los hombres. Presencia de los hombres en escalas y niveles de superior poder adquisitivo, poder, responsabilidad y reconocimiento social, en condiciones laborales de mayor estabilidad y oportunidades laborales.
 
-
 **Sello de calidad y marca de excelencia empresarial en igualdad de género**
 
 Medidas de distinción e incentivo de empresas promotoras de la igualdad de género, adoptadas por los poderes públicos y dirigidas a la consecución de la igualdad de mujeres y hombres en el ámbito del empleo y la empresa. A tal fin, el sello de calidad y la marca de excelencia valoran iniciativas empresariales en materia de: representación equilibrada de mujeres y hombres en los grupos y categorías profesionales; acceso al empleo y promoción profesional de mujeres y hombres en los puestos, niveles o categorías en los que se encuentren subrepresentados; garantía de igual retribución por trabajo de igual valor de mujeres y hombres; conciliación de la vida laboral, personal y familiar y fomento de la corresponsabilidad; detección, prevención e intervención frente a la violencia de género en el ámbito laboral y empresarial; aplicación de criterios de uso no sexista del lenguaje, la comunicación y la publicidad; implantación de un plan de igualdad en la empresa; actuaciones de responsabilidad social en materia de igualdad de ambos sexos; producción de materiales curriculares no sexistas; que visibilicen el protagonismo de las mujeres en la historia y la sociedad; que desarrollen métodos de análisis para detectar y erradicar estereotipos sexistas y, en general, que incorporen la perspectiva coeducativa en los textos escolares.
-
 
 **Transversalidad y mainstreaming de género**
 
 La estrategia de transversalidad de género consiste en la integración de la igualdad de mujeres y hombres en todas las políticas generales y sectoriales, como parte integral en el trabajo diario de las y los agentes normalmente involucrados en su desarrollo, con el objetivo de alcanzar la igualdad efectiva de género.
 
 El mainstreaming de género constituye la integración de la perspectiva de género en el diagnóstico, la planificación, la ejecución y la evaluación de las políticas públicas, implica un cambio en las técnicas y herramientas institucionales y políticas y en la cultura organizativa de los poderes públicos, a efectos de promover la igualdad efectiva de ambos sexos y evitar el impacto desigual en función del género.
-
 
 **Violencia de género**
 

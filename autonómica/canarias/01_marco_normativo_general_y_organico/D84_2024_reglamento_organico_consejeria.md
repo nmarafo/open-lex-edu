@@ -48,8 +48,6 @@ motor_ocr: rapidocr_onnxruntime
 
 --- Página 1 (Transcripción OCR de Anexo/Imagen) ---
 
-Boletin Oficial de Canarias num. 117
-18939
 Lunes 17 de junio de 2024
 I. Disposiciones generales
 Consejeria de Educacion, Formacion Profesional, Actividad Fisica y Deportes
@@ -92,12 +90,9 @@ Por esta misma razon, se introduce con las disposiciones finales segunda y terce
 modificacion del Decreto 233/1997, de 18 de septiembre, por el que se crea el Consejo
 Canario de Formacion Profesional, y la modificacion del Reglamento de Organizacion
 https:/sede.gobiernodecanarias.org/boc
-boc-a-2024-117-1913
 
 --- Página 2 (Transcripción OCR de Anexo/Imagen) ---
 
-Boletin Oficial de Canarias num. 117
-18940
 Lunes 17 de junio de 2024
 y Funcionamiento del Consejo Canario de Formacion Profesional, aprobado por
 Decreto 143/2008, de 1 de julio.
@@ -144,12 +139,9 @@ racional coherente de los recursos existentes.
 Por otro lado, en lo relativo a la igualdad de genero y de expresion de género, el presente
 Decreto en su redaccion da cumplimiento, respectivamente, a la Ley 1/2010, de 26 de
 https:/sede.gobiernodecanarias.org/boc
-boc-a-2024-117-1913
 
 --- Página 3 (Transcripción OCR de Anexo/Imagen) ---
 
-Boletin Oficial de Canarias num. 117
-18941
 Lunes 17 de junio de 2024
 febrero, Canaria de Igualdad entre Mujeres y Hombres, y a la Ley 2/2021, de 7 de junio, de
 igualdad social y no discriminacion por razon de identidad de género, expresion de género
@@ -187,13 +179,9 @@ la siga ostentando el organo delegante.
 Disposicion adicional tercera.- Remisiones normativas.
 Las referencias normativas contenidas en este Reglamento Organico se entenderan
 efectuadas, en su caso, a las normas que las sustituyan.
-https://sede.gobiernodecanarias.org/boc
-boc-a-2024-117-1913
 
 --- Página 4 (Transcripción OCR de Anexo/Imagen) ---
 
-Boletin Oficial de Canarias num. 117
-18942
 Lunes 17 de junio de 2024
 Disposicion adicional cuarta.- Autorizacion para la aplicacion de medidas
 ejecutivas.
@@ -237,13 +225,9 @@ Territoriales de Educacion y regimen provisional de tramitacion de procedimiento
 en materia de contratacion administrativa.
 1. Las Direcciones Territoriales de Educacion continuaran ejerciendo las competencias
 que como organos territoriales les atribuye el Reglamento Organico de la extinta Consejeria
-https://sede.gobiernodecanarias.org/boc
-boc-a-2024-117-1913
 
 --- Página 5 (Transcripción OCR de Anexo/Imagen) ---
 
-Boletin Oficial de Canarias num. 117
-18943
 Lunes 17 de junio de 2024
 de Educacion, Universidades, Cultura y Deportes, aprobado por Decreto 7/2021, de 18
 de febrero, hasta la aprobacion de la modificacion de la relacion de puestos de trabajo
@@ -283,13 +267,9 @@ dispuesto en el Real Decreto 659/2023, de 18 de julio, por el que se desarrolla 
 del Sistema de Formacion Profesional, o norma que lo sustituya.
 b) Promover el consenso de las organizaciones sindicales y empresariales mas
 representativas para asegurar el efectivo acceso al procedimiento de acreditacion.
-https://sede.gobiernodecanarias.org/boc
-boc-a-2024-117-1913
 
 --- Página 6 (Transcripción OCR de Anexo/Imagen) ---
 
-Boletin Oficial de Canarias num. 117
-18944
 Lunes 17 de junio de 2024
 c) Priorizar a partir de las necesidades acreditativas detectadas los estandares de
 competencia objeto de acreditacion.
@@ -331,12 +311,9 @@ podran crear comisiones de trabajo extraordinarias para la ejecucion de trabajos
 en la planificacion anual cuando asi lo acuerde el centro directivo competente en materia
 de cualificaciones profesionales, a propuesta motivada de los titulares de otros centros
 https:/sede.gobiernodecanarias.org/boc
-boc-a-2024-117-1913
 
 --- Página 7 (Transcripción OCR de Anexo/Imagen) ---
 
-Boletin Oficial de Canarias num. 117
-18945
 Lunes 17 de junio de 2024
 directivos del Departamento competente en materia de educacion y formacion profesional,
 asi como de otros organos o entidades con competencias en materia de cualificaciones
@@ -378,13 +355,9 @@ puestos de trabajo.
 Corresponden a la persona Responsable, ademas de las funciones previstas en el articulo
 27.1 del Decreto 212/1991, de 11 de septiembre, de organizacion de los Departamentos de
 la Administracion Autonomica de Canarias, las de control, coordinacion, estudio e informe
-https://sede.gobiernodecanarias.org/boc
-boc-a-2024-117-1913
 
 --- Página 8 (Transcripción OCR de Anexo/Imagen) ---
 
-Boletin Oficial de Canarias num. 117
-18946
 Lunes 17 de junio de 2024
 propuesta de los asuntos propios de la unidad administrativa, asi como el impulso de los
 trabajos y actividades necesarios para la ejecucion de los planes aprobados y demas tareas
@@ -424,13 +397,9 @@ Decreto 143/2008, de 1 de julio.
 Se modifica el Reglamento de Organizacion y Funcionamiento del Consejo Canario
 de Formacion Profesional, aprobado por Decreto 143/2008, de 1 de julio, en los términos
 siguientes:
-https://sede.gobiernodecanarias.org/boc
-boc-a-2024-117-1913
 
 --- Página 9 (Transcripción OCR de Anexo/Imagen) ---
 
-Boletin Oficial de Canarias num. 117
-18947
 Lunes 17 de junio de 2024
 Uno.- El apartado 1 del articulo 3 queda redactado de la siguiente forma:
 “1. La Presidencia del Consejo recaera en la persona titular del Departamento
@@ -470,13 +439,9 @@ ADMINISTRACIONES PUBLICAS,
 Hipolito Alejandro Suarez Nuez
 JUSTICIA Y SEGURIDAD,
 Nieves Lady Barreto Hernandez.
-https://sede.gobiernodecanarias.org/boc
-boc-a-2024-117-1913
 
 --- Página 10 (Transcripción OCR de Anexo/Imagen) ---
 
-Boletin Oficial de Canarias num. 117
-18948
 Lunes 17 de junio de 2024
 ANEXO
 REGLAMENTO ORGANICO DE LA CONSEJERiA DE EDUCACION, FORMACION
@@ -507,13 +472,9 @@ i) Direccion General de Formacion Profesional y Ensenanzas de Regimen Especial.
 j) Direccion General de Cualificaciones Profesionales.
 k) Direccion General de la Actividad Fisica y el Deporte.
 I) Direccion General de Deportes Autoctonos.
-https://sede.gobiernodecanarias.org/boc
-boc-a-2024-117-1913
 
 --- Página 11 (Transcripción OCR de Anexo/Imagen) ---
 
-Boletin Oficial de Canarias num. 117
-18949
 Lunes 17 de junio de 2024
 B) Organos territoriales:
 1. La Consejeria de Educacion, Formacion Profesional, Actividad Fisica y Deportes
@@ -548,13 +509,9 @@ d) La Comision Canaria de Formacion del Profesorado no universitario
 2. En materia de actividad fisica y deportes:
 a) El Consejo Canario del Deporte.
 b) El Comité Canario de Disciplina Deportiva.
-https://sede.gobiernodecanarias.org/boc
-boc-a-2024-117-1913
 
 --- Página 12 (Transcripción OCR de Anexo/Imagen) ---
 
-Boletin Oficial de Canarias num. 117
-18950
 Lunes 17 de junio de 2024
 c) La Junta Canaria de Garantias Electorales del Deporte.
 d) La Comision Antidopaje de Canarias.
@@ -592,13 +549,9 @@ de 5 de diciembre, de Proteccion de Datos Personales y garantia de los derechos 
 f) La tutela funcional de las actuaciones y las actividades realizadas por las sociedades
 mercantiles y fundaciones publicas dependientes del Departamento en materia de educacion,
 formacion profesional, actividad fisica y deportes, asi como ejercer el control funcional y
-https://sede.gobiernodecanarias.org/boc
-boc-a-2024-117-1913
 
 --- Página 13 (Transcripción OCR de Anexo/Imagen) ---
 
-Boletin Oficial de Canarias num. 117
-18951
 Lunes 17 de junio de 2024
 de eficiencia, sin perjuicio de las competencias atribuidas a otros organos de la Comunidad
 Autonoma de Canarias.
@@ -639,13 +592,9 @@ Articulo 6.- Competencias en materia de educacion y formacion profesional.
 Corresponden a la Consejera o al Consejero de Educacion, Formacion Profesional,
 Actividad Fisica y Deportes las siguientes competencias en materia de ensenanza no
 universitaria:
-https://sede.gobiernodecanarias.org/boc
-boc-a-2024-117-1913
 
 --- Página 14 (Transcripción OCR de Anexo/Imagen) ---
 
-Boletin Oficial de Canarias num. 117
-18952
 Lunes 17 de junio de 2024
 a) Dirigir y ejecutar, bajo las directrices del Gobierno, la politica educativa del
 Departamento.
@@ -687,13 +636,9 @@ especialidades del personal docente no universitario.
 m) Resolver los procedimientos para la formalizacion de conciertos educativos,
 convenios y otorgamiento de subvenciones a las actividades que sean competencia del
 Departamento.
-https://sede.gobiernodecanarias.org/boc
-boc-a-2024-117-1913
 
 --- Página 15 (Transcripción OCR de Anexo/Imagen) ---
 
-Boletin Oficial de Canarias num. 117
-18953
 Lunes 17 de junio de 2024
 n) Conceder las ayudas, subvenciones y transferencias a las Asociaciones, Federaciones
 y Confederaciones constituidas por el alumnado y por sus padres y madres.
@@ -728,13 +673,9 @@ Articulo 8.- Competencias generales y especificas.
 1. La Viceconsejeria de Educacion ejercera, en su ambito funcional, las competencias
 previstas en los articulos 11 y 20.1 del Decreto 212/1991, de 11 de septiembre, de
 organizacion de los Departamentos de la Administracion Autonomica de Canarias.
-https://sede.gobiernodecanarias.org/boc
-boc-a-2024-117-1913
 
 --- Página 16 (Transcripción OCR de Anexo/Imagen) ---
 
-Boletin Oficial de Canarias num. 117
-18954
 Lunes 17 de junio de 2024
 2. Asimismo, y bajo la superior direccion de la persona titular de la Consejeria de
 Educacion, Formacion Profesional, Actividad Fisica y Deportes, le corresponden las
@@ -774,13 +715,9 @@ competencias.
 I) Planificar y coordinar las acciones encaminadas a la puesta en marcha del curso
 académico y el normal desarrollo de las actividades escolares, dentro de su ambito material
 de competencias.
-https://sede.gobiernodecanarias.org/boc
-boc-a-2024-117-1913
 
 --- Página 17 (Transcripción OCR de Anexo/Imagen) ---
 
-Boletin Oficial de Canarias num. 117
-18955
 Lunes 17 de junio de 2024
 m) Proponer criterios de planificacion general de las ensenanzas, asi como analizar y
 proponer revisiones de la estructura y diseno de los distritos escolares y zonas educativas
@@ -818,13 +755,9 @@ v) Las restantes funciones que le vengan atribuidas por el ordenamiento juridico
 sistemas de informacion conforme a lo establecido por el Real Decreto 311/2022, de 3 de
 mayo, por el que se regula el Esquema Nacional de Seguridad, y resto de normativa de
 aplicacion en esta materia.
-https://sede.gobiernodecanarias.org/boc
-boc-a-2024-117-1913
 
 --- Página 18 (Transcripción OCR de Anexo/Imagen) ---
 
-Boletin Oficial de Canarias num. 117
-18956
 Lunes 17 de junio de 2024
 Seccion 2.a
 Viceconsejeria de Formacion Profesional y Cualificaciones Profesionales
@@ -865,13 +798,9 @@ profesional y de regimen especial.
 i) Analizar, planificar y definir las necesidades de personal y recursos materiales en
 la formacion profesional del sistema educativo y las ensenanzas de regimen especial, asi
 como los planes de mejora y cualificacion del profesorado.
-https://sede.gobiernodecanarias.org/boc
-boc-a-2024-117-1913
 
 --- Página 19 (Transcripción OCR de Anexo/Imagen) ---
 
-Boletin Oficial de Canarias num. 117
-18957
 Lunes 17 de junio de 2024
 j) Planificar las actuaciones relativas a la ordenacion académica y curricular, asi
 como las de actualizacion, investigacion, innovacion y emprendimiento en el sistema de
@@ -913,12 +842,9 @@ t) Promover la planificacion integrada en Canarias de una oferta de formacion
 profesional a lo largo de la vida, asi como de la complementariedad de las redes de centros
 del Sistema de Formacion Profesional y el uso compartido de sus instalaciones y recursos.
 https:/sede.gobiernodecanarias.org/boc
-boc-a-2024-117-1913
 
 --- Página 20 (Transcripción OCR de Anexo/Imagen) ---
 
-Boletin Oficial de Canarias num. 117
-18958
 Lunes 17 de junio de 2024
 u) Elevar a la persona titular de la Consejeria la propuesta de aprobacion del Plan
 Canario de Formacion Profesional, previo informe preceptivo del Consejo Canario de
@@ -955,13 +881,9 @@ h) Fomentar alternativas formativas y de perfeccionamiento de los y las profesio
 de su ambito competencial.
 i) Impulsar, coordinar y realizar el seguimiento del sistema de informacion en materia
 deportiva.
-https://sede.gobiernodecanarias.org/boc
-boc-a-2024-117-1913
 
 --- Página 21 (Transcripción OCR de Anexo/Imagen) ---
 
-Boletin Oficial de Canarias num. 117
-18959
 Lunes 17 de junio de 2024
 j) Coordinar y realizar el seguimiento que corresponde a la Administracion Publica de la
 Comunidad Autonoma de los organos de direccion y gestion de las sociedades mercantiles
@@ -1001,13 +923,9 @@ siguientes:
 a) Prestar asesoramiento técnico y juridico a las personas titulares de la Consejeria
 y de las Viceconsejerias, sin perjuicio de las competencias de los Servicios Juridicos del
 Gobierno de Canarias.
-https://sede.gobiernodecanarias.org/boc
-boc-a-2024-117-1913
 
 --- Página 22 (Transcripción OCR de Anexo/Imagen) ---
 
-Boletin Oficial de Canarias num. 117
-18960
 Lunes 17 de junio de 2024
 b) El informe de las disposiciones generales que deba dictar o proponer la Consejeria,
 y, en su caso, la preparacion y elaboracion de las mismas, a iniciativa y con la colaboracion
@@ -1048,13 +966,9 @@ otros centros directivos o unidades administrativas del Departamento.
 I) Impulsar, coordinar e implementar la perspectiva de genero en la planificacion, gestion
 y evaluacion de las politicas de competencia de la Consejeria de Educacion, Formacion
 Profesional, Actividad Fisica y Deportes.
-https://sede.gobiernodecanarias.org/boc
-boc-a-2024-117-1913
 
 --- Página 23 (Transcripción OCR de Anexo/Imagen) ---
 
-Boletin Oficial de Canarias num. 117
-18961
 Lunes 17 de junio de 2024
 m) Coordinar la ejecucion de la actividad estadistica acerca de las materias propias o de
 interés del Departamento, en el marco de los instrumentos de planificacion estadistica de la
@@ -1092,13 +1006,9 @@ no docente de centros educativos por faltas leves, a propuesta de la direccion d
 educativo en los casos previstos en la normativa correspondiente.
 j) Adoptar las medidas necesarias en aplicacion de la normativa vigente en materia
 de prevencion de riesgos laborales, seguridad y salud laboral para el personal funcionario
-https://sede.gobiernodecanarias.org/boc
-boc-a-2024-117-1913
 
 --- Página 24 (Transcripción OCR de Anexo/Imagen) ---
 
-Boletin Oficial de Canarias num. 117
-18962
 Lunes 17 de junio de 2024
 y laboral que preste servicios en dependencias administrativas del Departamento, sin
 perjuicio de las competencias de otros centros directivos en la materia.
@@ -1140,12 +1050,9 @@ deriven de la gestion de los pagos que les competa.
 h) Gestionar la distribucion de fondos a los centros publicos de ensenanza no
 universitaria de su ambito de actuacion.
 https:/sede.gobiernodecanarias.org/boc
-boc-a-2024-117-1913
 
 --- Página 25 (Transcripción OCR de Anexo/Imagen) ---
 
-Boletin Oficial de Canarias num. 117
-18963
 Lunes 17 de junio de 2024
 Articulo 14.- Competencias en materia de digitalizacion de servicios, modernizacion
 y tecnologias de la informacion y comunicacion.
@@ -1184,13 +1091,9 @@ Departamento conforme a lo establecido en el Esquema Nacional de Seguridad y res
 normativa reguladora de aplicacion.
 j) Proporcionar los recursos informaticos necesarios para el Departamento, incluyendo
 la dotacion de la infraestructura tecnologica base (servidores y equipos de comunicaciones
-https://sede.gobiernodecanarias.org/boc
-boc-a-2024-117-1913
 
 --- Página 26 (Transcripción OCR de Anexo/Imagen) ---
 
-Boletin Oficial de Canarias num. 117
-18964
 Lunes 17 de junio de 2024
 de area local, excluido el cableado estructurado) necesaria para la prestacion de los servicios
 digitales en los centros publicos educativos no universitarios, cuando no constituya la
@@ -1230,13 +1133,9 @@ Articulo 15.- Competencias en materia de transparencia, acceso a la informacion
 publica y proteccion de datos personales.
 1. En materia de transparencia y acceso a la informacion publica, corresponden a la
 Secretaria General Técnica las siguientes competencias:
-https://sede.gobiernodecanarias.org/boc
-boc-a-2024-117-1913
 
 --- Página 27 (Transcripción OCR de Anexo/Imagen) ---
 
-Boletin Oficial de Canarias num. 117
-18965
 Lunes 17 de junio de 2024
 a) Coordinar la actividad de los organos del Departamento para el cumplimiento de
 lo establecido en la Ley 12/2014, de 26 de diciembre, de transparencia y de acceso a la
@@ -1276,12 +1175,9 @@ educativo, a propuesta del correspondiente Centro Directivo.
 e) Conceder licencias por estudios al personal docente no universitario en centros
 educativos publicos, previos los informes oportunos.
 https:/sede.gobiernodecanarias.org/boc
-boc-a-2024-117-1913
 
 --- Página 28 (Transcripción OCR de Anexo/Imagen) ---
 
-Boletin Oficial de Canarias num. 117
-18966
 Lunes 17 de junio de 2024
 f) Conceder licencias y permisos al personal docente no universitario.
 g) Planificar y elaborar las plantillas de personal docente no universitario en centros
@@ -1322,13 +1218,9 @@ universitario en centros educativos publicos en las materias propias de su compe
 r) Dirigir y coordinar el funcionamiento de los procedimientos administrativos que,
 en relacion con el personal docente no universitario en centros educativos publicos, y en
 materia de su competencia, se desarrollen a traves de cualesquiera medios telematicos.
-https://sede.gobiernodecanarias.org/boc
-boc-a-2024-117-1913
 
 --- Página 29 (Transcripción OCR de Anexo/Imagen) ---
 
-Boletin Oficial de Canarias num. 117
-18967
 Lunes 17 de junio de 2024
 s) Desarrollar las relaciones con las centrales sindicales representativas del sector
 docente no universitario en centros educativos publicos y el ejercicio de la presidencia de
@@ -1364,13 +1256,9 @@ Articulo 17.- Competencias generales y especificas.
 ejercera, en su ambito funcional, las competencias previstas en el articulo 19 del
 Decreto 212/1991, de 11 de septiembre, de organizacion de los Departamentos de la
 Administracion Autonomica de Canarias.
-https://sede.gobiernodecanarias.org/boc
-boc-a-2024-117-1913
 
 --- Página 30 (Transcripción OCR de Anexo/Imagen) ---
 
-Boletin Oficial de Canarias num. 117
-18968
 Lunes 17 de junio de 2024
 2. Asimismo, le corresponden las competencias de direccion, coordinacion, estudio y
 resolucion en materia de ordenacion de las ensenanzas, inclusion e innovacion no atribuidas
@@ -1408,13 +1296,9 @@ competencias atribuidas a otras Direcciones Generales.
 m) Gestionar la respuesta educativa al alumnado con necesidades especificas de apoyo
 educativo en coordinacion con otros centros directivos y servicios de apoyo.
 n) Gestionar la atencion educativa de menores sujetos a medidas judiciales.
-https://sede.gobiernodecanarias.org/boc
-boc-a-2024-117-1913
 
 --- Página 31 (Transcripción OCR de Anexo/Imagen) ---
 
-Boletin Oficial de Canarias num. 117
-18969
 Lunes 17 de junio de 2024
 n) Coordinar la respuesta educativa al alumnado que no puede asistir presencialmente
 al aula ordinaria.
@@ -1450,13 +1334,9 @@ académicos en las etapas de Educacion Secundaria Obligatoria y Bachillerato.
 z) Elevar a la Viceconsejeria de Educacion propuesta de instrucciones relativas a la
 realizacion de la prueba para el acceso a la universidad.
 aa) Las demas funciones que le vengan atribuidas por el ordenamiento juridico.
-https://sede.gobiernodecanarias.org/boc
-boc-a-2024-117-1913
 
 --- Página 32 (Transcripción OCR de Anexo/Imagen) ---
 
-Boletin Oficial de Canarias num. 117
-18970
 Lunes 17 de junio de 2024
 Seccion 7.a
 Direccion General de Administracion de Centros, Escolarizacion y Servicios
@@ -1496,13 +1376,9 @@ i) Tramitar los procedimientos de responsabilidad patrimonial, cuando los danos 
 lesiones los sufra el alumnado, personal no docente y/o terceros en el ambito educativo no
 universitario, sin perjuicio de las competencias reconocidas expresamente en esta materia
 a otros organos.
-https://sede.gobiernodecanarias.org/boc
-boc-a-2024-117-1913
 
 --- Página 33 (Transcripción OCR de Anexo/Imagen) ---
 
-Boletin Oficial de Canarias num. 117
-18971
 Lunes 17 de junio de 2024
 j) Proponer la elaboracion de normas sobre organizacion y funcionamiento de los
 centros educativos publicos no universitario en el ambito de su competencia.
@@ -1539,13 +1415,9 @@ Direccion General de Infraestructuras y Equipamientos
 Articulo 19.- Competencias generales y especificas.
 1. La Direccion General de Infraestructuras y Equipamientos ejercera, en su ambito
 funcional, las competencias previstas en el articulo 19 del Decreto 212/1991, de 11 de
-https://sede.gobiernodecanarias.org/boc
-boc-a-2024-117-1913
 
 --- Página 34 (Transcripción OCR de Anexo/Imagen) ---
 
-Boletin Oficial de Canarias num. 117
-18972
 Lunes 17 de junio de 2024
 septiembre, de organizacion de los Departamentos de la Administracion Autonomica de
 Canarias.
@@ -1584,13 +1456,9 @@ de conservacion y mantenimiento de los edificios propiedad de la Comunidad Auton
 destinados a centros educativos.
 j) Establecer medidas orientadas a garantizar la seguridad de la infraestructura de los
 centros educativos dependientes del Departamento.
-https://sede.gobiernodecanarias.org/boc
-boc-a-2024-117-1913
 
 --- Página 35 (Transcripción OCR de Anexo/Imagen) ---
 
-Boletin Oficial de Canarias num. 117
-18973
 Lunes 17 de junio de 2024
 k) Ejercer las competencias que, en materia de afectaciones y desafectaciones de
 terrenos y edificios municipales destinados al servicio publico educativo, se atribuye por la
@@ -1626,13 +1494,9 @@ h) Apoyar y llevar un seguimiento de los centros educativos que impartan las ens
 propias de su competencia.
 i) Gestionar la distribucion de fondos a los centros publicos de ensenanza no universitaria
 de su ambito de actuacion.
-https://sede.gobiernodecanarias.org/boc
-boc-a-2024-117-1913
 
 --- Página 36 (Transcripción OCR de Anexo/Imagen) ---
 
-Boletin Oficial de Canarias num. 117
-18974
 Lunes 17 de junio de 2024
 j) Planificar y desarrollar programas y proyectos de mejora de los centros y ensenanzas
 de su ambito competencial.
@@ -1671,12 +1535,9 @@ funcional, las competencias previstas en el articulo 19 del Decreto 212/1991, de
 septiembre, de organizacion de los Departamentos de la Administracion Autonomica de
 Canarias.
 https:/sede.gobiernodecanarias.org/boc
-boc-a-2024-117-1913
 
 --- Página 37 (Transcripción OCR de Anexo/Imagen) ---
 
-Boletin Oficial de Canarias num. 117
-18975
 Lunes 17 de junio de 2024
 2. Asimismo, le corresponden las competencias de direccion, coordinacion, estudio y
 resolucion en materia de cualificaciones profesionales no atribuidas especificamente a otro
@@ -1713,12 +1574,9 @@ Canarias.
 encomendadas a entes instrumentales adscritos a la Consejeria en el area competencial de
 la actividad fisica y el deporte, salvo en lo referido a deportes autoctonos.
 https:/sede.gobiernodecanarias.org/boc
-boc-a-2024-117-1913
 
 --- Página 38 (Transcripción OCR de Anexo/Imagen) ---
 
-Boletin Oficial de Canarias num. 117
-18976
 Lunes 17 de junio de 2024
 3. Asimismo, le corresponden a la Direccion General de la Actividad Fisica y el
 Deporte las competencias de direccion, coordinacion, estudio y resolucion en materia de la
@@ -1757,13 +1615,9 @@ I) Impulsar programas de prevencion y lucha contra el dopaje en el deporte.
 m) Promover medidas de control, prevencion y sancion del uso deportivo de sustancias
 prohibidas y métodos no reglamentarios en coordinacion con la Direccion General de
 Deportes Autoctonos.
-https://sede.gobiernodecanarias.org/boc
-boc-a-2024-117-1913
 
 --- Página 39 (Transcripción OCR de Anexo/Imagen) ---
 
-Boletin Oficial de Canarias num. 117
-18977
 Lunes 17 de junio de 2024
 n) Fomentar el deporte de alto rendimiento.
 n) Impulsar y coordinar los Centros de Tecnificacion Deportiva en el ambito de la
@@ -1798,13 +1652,9 @@ Articulo 23.- Competencias generales y especificas.
 1. La Direccion General de Deportes Autoctonos ejercera, en su ambito funcional, las
 competencias previstas en el articulo 19 del Decreto 212/1991, de 11 de septiembre, de
 organizacion de los Departamentos de la Administracion Autonomica de Canarias.
-https://sede.gobiernodecanarias.org/boc
-boc-a-2024-117-1913
 
 --- Página 40 (Transcripción OCR de Anexo/Imagen) ---
 
-Boletin Oficial de Canarias num. 117
-18978
 Lunes 17 de junio de 2024
 2. También le corresponde ejercer el seguimiento de los programas y actividades
 encomendadas a entes instrumentales adscritos a la Consejeria en el area competencial de
@@ -1842,13 +1692,9 @@ Actividad Fisica y el Deporte.
 I) Proponer, respecto de su area de actuacion, las actividades deportivas en el ambito
 suprainsular cuando las mismas no se encuentren entre las propias u homologadas por las
 Federaciones Deportivas Canarias.
-https://sede.gobiernodecanarias.org/boc
-boc-a-2024-117-1913
 
 --- Página 41 (Transcripción OCR de Anexo/Imagen) ---
 
-Boletin Oficial de Canarias num. 117
-18979
 Lunes 17 de junio de 2024
 m) Colaborar en la gestion del Registro de las Entidades Deportivas de Canarias en lo
 relativo a entidades de deportes y juegos motores autoctonos y tradicionales de Canarias.
@@ -1885,12 +1731,9 @@ Se establecen dos Direcciones Territoriales de Educacion que, sin perjuicio de l
 concretas competencias que asuma cada direccion insular en su respectivo ambito,
 extenderan sus competencias al siguiente ambito territorial:
 https:/sede.gobiernodecanarias.org/boc
-boc-a-2024-117-1913
 
 --- Página 42 (Transcripción OCR de Anexo/Imagen) ---
 
-Boletin Oficial de Canarias num. 117
-18980
 Lunes 17 de junio de 2024
 a) Direccion Territorial de Las Palmas, comprendiendo su ambito de actuacion las islas
 de Gran Canaria, Lanzarote, La Graciosa y Fuerteventura.
@@ -1927,13 +1770,9 @@ i) Asesorar juridicamente a los centros educativos publicos dependientes de la
 Consejeria en el ejercicio de sus funciones conforme a lo establecido la normativa especifica
 de organizacion y funcionamiento de los centros educativos publicos no universitarios y de
 la funcion directiva.
-https://sede.gobiernodecanarias.org/boc
-boc-a-2024-117-1913
 
 --- Página 43 (Transcripción OCR de Anexo/Imagen) ---
 
-Boletin Oficial de Canarias num. 117
-18981
 Lunes 17 de junio de 2024
 B) En materia administrativa:
 a) Coordinar la actuacion de las Direcciones Insulares de su ambito territorial.
@@ -1971,13 +1810,9 @@ c) Tramitar y gestionar expedientes relativos a becas y ayudas del alumnado de
 ensenanzas no universitarias, en coordinacion con la Direccion Territorial correspondiente.
 d) Autorizar las adaptaciones del calendario y la jornada escolar previstos para las
 ensenanzas no universitarias.
-https://sede.gobiernodecanarias.org/boc
-boc-a-2024-117-1913
 
 --- Página 44 (Transcripción OCR de Anexo/Imagen) ---
 
-Boletin Oficial de Canarias num. 117
-18982
 Lunes 17 de junio de 2024
 2. Cuando no exista una prevision expresa en la normativa especifica de aplicacion,
 frente a los actos administrativos que dicten los Directores Insulares de Educacion cabe
@@ -2017,13 +1852,9 @@ asignada expresamente otra categoria quedan encuadrados en la categoria tercera 
 articulo 46.1 del Reglamento de Indemnizaciones por razon del servicio, aprobado por
 Decreto 251/1997, de 30 de septiembre, excepto los que esten presididos por la persona
 titular de la Consejeria, que lo estan en la categoria segunda.
-https://sede.gobiernodecanarias.org/boc
-boc-a-2024-117-1913
 
 --- Página 45 (Transcripción OCR de Anexo/Imagen) ---
 
-Boletin Oficial de Canarias num. 117
-18983
 Lunes 17 de junio de 2024
 4. Los organos colegiados previstos en este Reglamento Organico podran celebrar
 sesiones a traves de medios electronicos. En estos casos, la constitucion, convocatoria y
@@ -2061,12 +1892,9 @@ La Comision Canaria de Formacion del Profesorado no universitario es un organo d
 asesoramiento y coordinacion para la planificacion de la formacion del colectivo docente no
 universitario en el ambito de la Comunidad Autonoma de Canarias, y tiene la composicion,
 https:/sede.gobiernodecanarias.org/boc
-boc-a-2024-117-1913
 
 --- Página 46 (Transcripción OCR de Anexo/Imagen) ---
 
-Boletin Oficial de Canarias num. 117
-18984
 Lunes 17 de junio de 2024
 atribuciones y regimen de funcionamiento que se establecen en su normativa especifica.
 Su direccion y presidencia la asume la Direccion General de Personal y Formacion del
@@ -2099,5 +1927,3 @@ Articulo 39.- El Tribunal Arbitral del Deporte Canario.
 El Tribunal Arbitral del Deporte Canario es el organo dedicado a la mediacion y arbitraje
 deportivo, se adscribe organicamente a la Viceconsejeria de la Actividad Fisica y Deportes
 y tiene la composicion, organizacion y funciones establecidas reglamentariamente.
-https://sede.gobiernodecanarias.org/boc
-boc-a-2024-117-1913

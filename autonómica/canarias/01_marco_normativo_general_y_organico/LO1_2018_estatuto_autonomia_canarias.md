@@ -129,7 +129,6 @@ ANEXO I . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 
 64
 ANEXO II . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 65
-BOLETÍN OFICIAL DEL ESTADO
 LEGISLACIÓN CONSOLIDADA
 Página 2
 
@@ -183,7 +182,6 @@ y Tejas, generando, desde entonces, un constante intercambio de valores material
 culturales entre ambos lados del Atlántico.
 Multitud de disposiciones legales fueron conformando a lo largo de la historia un 
 «corpus» normativo propio que moldeó la especificidad del régimen canario. Así aconteció 
-BOLETÍN OFICIAL DEL ESTADO
 LEGISLACIÓN CONSOLIDADA
 Página 3
 
@@ -240,7 +238,6 @@ de su patrimonio natural y biodiversidad; la solidaridad entre todos cuantos int
 pueblo canario; el desarrollo sostenible y equilibrado de las islas y su contribución a la 
 cooperación y a la paz entre los pueblos, así como a un orden internacional justo, en el 
 marco constitucional y estatutario.
-BOLETÍN OFICIAL DEL ESTADO
 LEGISLACIÓN CONSOLIDADA
 Página 4
 
@@ -294,7 +291,6 @@ Autónoma en las actuaciones de competencia estatal en dichas aguas.
 5. El trazado del contorno perimetral no alterará la delimitación de los espacios marítimos 
 de las Islas Canarias tal y como están establecidos por el ordenamiento jurídico español en 
 virtud del Derecho Internacional vigente.
-BOLETÍN OFICIAL DEL ESTADO
 LEGISLACIÓN CONSOLIDADA
 Página 5
 
@@ -345,7 +341,6 @@ derechos, deberes y libertades reconocidos en la Constitución española y en el
 Estatuto, así como en el Derecho de la Unión Europea y en los instrumentos internacionales 
 de protección de los derechos humanos, individuales y colectivos, en particular, en la 
 Declaración Universal de Derechos Humanos.
-BOLETÍN OFICIAL DEL ESTADO
 LEGISLACIÓN CONSOLIDADA
 Página 6
 
@@ -395,7 +390,6 @@ de los jóvenes, facilitándoles el acceso a la formación, la educación, la sa
 asociacionismo, al mundo laboral y a la vivienda para que puedan desarrollar su propio 
 proyecto de vida y participar en igualdad de derechos y deberes en la vida social y cultural, 
 en los términos que establezcan las leyes.
-BOLETÍN OFICIAL DEL ESTADO
 LEGISLACIÓN CONSOLIDADA
 Página 7
 
@@ -450,7 +444,6 @@ decisión y prestar el consentimiento informado para ser sometidas, en su caso, 
 tratamiento médico.
 d) A la elección de profesional médico y de centro sanitario en el ámbito del sistema 
 público de salud.
-BOLETÍN OFICIAL DEL ESTADO
 LEGISLACIÓN CONSOLIDADA
 Página 8
 
@@ -508,7 +501,6 @@ una vivienda digna y regular su función social, mediante un sistema de promoci�
 en condiciones de igualdad y en los términos que establezcan las leyes, poniendo especial 
 atención sobre aquellos colectivos sociales más vulnerables. Se regulará el uso del suelo de 
 acuerdo con el interés general para evitar la especulación.
-BOLETÍN OFICIAL DEL ESTADO
 LEGISLACIÓN CONSOLIDADA
 Página 9
 
@@ -561,7 +553,6 @@ evolución social, económica y ambiental, evitando la especulación urbanístic
 territorio.
 3. Todas las personas tienen derecho a acceder a la información medioambiental de que 
 disponen los poderes públicos canarios.
-BOLETÍN OFICIAL DEL ESTADO
 LEGISLACIÓN CONSOLIDADA
 Página 10
 
@@ -612,7 +603,6 @@ canarias.
 e) A promover la convocatoria de consultas populares en el ámbito espacial de Canarias, 
 así como participar en ellas. Todo ello sin perjuicio de las competencias del Estado en 
 materia de referéndum.
-BOLETÍN OFICIAL DEL ESTADO
 LEGISLACIÓN CONSOLIDADA
 Página 11
 
@@ -664,7 +654,6 @@ que establezcan las leyes procesales del Estado.
 3. Sin perjuicio de las garantías constitucionales, toda persona podrá dirigirse a la 
 Diputación del Común en defensa de sus derechos por las posibles lesiones imputables a las 
 administraciones públicas de Canarias.
-BOLETÍN OFICIAL DEL ESTADO
 LEGISLACIÓN CONSOLIDADA
 Página 12
 
@@ -722,7 +711,6 @@ política, económica, cultural y social de Canarias.
 próxima a los ciudadanos y ciudadanas de Canarias.
 20. La promoción de las condiciones para la participación de la juventud en el desarrollo 
 político, cultural y social de las islas.
-BOLETÍN OFICIAL DEL ESTADO
 LEGISLACIÓN CONSOLIDADA
 Página 13
 
@@ -775,7 +763,6 @@ a) El sistema electoral será el de representación proporcional.
 b) El número de diputados no será inferior a cincuenta ni superior a setenta y cinco.
 c) Las circunscripciones electorales podrán ser de ámbito autonómico, insular o de 
 ambas. Cada una de las islas de El Hierro, Fuerteventura, Gran Canaria, La Gomera, 
-BOLETÍN OFICIAL DEL ESTADO
 LEGISLACIÓN CONSOLIDADA
 Página 14
 
@@ -832,7 +819,6 @@ Fiscal para el ejercicio, cuando proceda, de las acciones oportunas.
 informar, y recabar del Gobierno, de cualquiera de las administraciones públicas y de las 
 instituciones u organismos de ellas dependientes la información y documentación que 
 precisen.
-BOLETÍN OFICIAL DEL ESTADO
 LEGISLACIÓN CONSOLIDADA
 Página 15
 
@@ -886,7 +872,6 @@ permitir la subdelegación a autoridades distintas del propio Gobierno.
 legislativa y los principios y criterios que han de seguirse en su ejercicio, no pudiendo en 
 ningún caso autorizar la modificación de la propia ley de bases, ni facultar para dictar normas 
 con carácter retroactivo.
-BOLETÍN OFICIAL DEL ESTADO
 LEGISLACIÓN CONSOLIDADA
 Página 16
 
@@ -916,7 +901,6 @@ Artículo 47.  Promulgación y publicación.
 1. Las leyes del Parlamento de Canarias y demás normas con fuerza de ley serán 
 promulgadas en nombre del Rey por el Presidente o Presidenta de la Comunidad Autónoma 
 y publicadas en el «Boletín Oficial de Canarias» en el plazo de 15 días desde su aprobación 
-y en el «Boletín Oficial del Estado». A efectos de su entrada en vigor, regirá la fecha de su 
 publicación en el «Boletín Oficial de Canarias».
 2. El control de la constitucionalidad de las leyes del Parlamento de Canarias y demás 
 normas con fuerza de ley corresponderá al Tribunal Constitucional.
@@ -939,7 +923,6 @@ elecciones para el mismo.
 Artículo 49.  Estatuto personal.
 1. La Presidencia designa y separa libremente a la persona titular de la Vicepresidencia y 
 a los restantes miembros del Gobierno, dirige y coordina su actuación y, como titular de la 
-BOLETÍN OFICIAL DEL ESTADO
 LEGISLACIÓN CONSOLIDADA
 Página 17
 
@@ -990,7 +973,6 @@ d) Al producirse el fallecimiento de quien ostente la Presidencia.
 Gobierno, que tendrá lugar en el plazo máximo de quince días, a contar desde la fecha de 
 nombramiento de la persona titular de la Presidencia. Una Ley del Parlamento de Canarias 
 regulará las atribuciones del Gobierno cesante.
-BOLETÍN OFICIAL DEL ESTADO
 LEGISLACIÓN CONSOLIDADA
 Página 18
 
@@ -1039,7 +1021,6 @@ quintas partes de los miembros del Parlamento de Canarias para un mandato de cin
 y regulará su organización, funcionamiento y la cooperación con el Defensor del Pueblo.
 5. En el ejercicio de su actividad podrá celebrar los acuerdos de cooperación que estime 
 necesarios con instituciones similares.
-BOLETÍN OFICIAL DEL ESTADO
 LEGISLACIÓN CONSOLIDADA
 Página 19
 
@@ -1091,7 +1072,6 @@ Autónoma de Canarias gozará de las siguientes potestades y privilegios:
 a) La presunción de legitimidad y la ejecutoriedad de sus actos, así como los poderes de 
 ejecución forzosa.
 b) La revisión en vía administrativa, tanto de oficio como en vía de recurso.
-BOLETÍN OFICIAL DEL ESTADO
 LEGISLACIÓN CONSOLIDADA
 Página 20
 
@@ -1143,7 +1123,6 @@ Fuerteventura.
 2. Los cabildos insulares son instituciones de la Comunidad Autónoma de Canarias.
 3. Los cabildos insulares constituyen órganos de gobierno, representación y 
 administración de cada isla y gozarán de autonomía en la gestión de sus intereses y el 
-BOLETÍN OFICIAL DEL ESTADO
 LEGISLACIÓN CONSOLIDADA
 Página 21
 
@@ -1196,7 +1175,6 @@ incorporadas los medios económicos, materiales y personales que correspondan.
 2. Los cabildos insulares, como instituciones de la Comunidad Autónoma, ejercerán 
 funciones ejecutivas de carácter insular en el marco y dentro de los límites de la legislación 
 aplicable, en las siguientes materias:
-BOLETÍN OFICIAL DEL ESTADO
 LEGISLACIÓN CONSOLIDADA
 Página 22
 
@@ -1251,7 +1229,6 @@ Artículo 74.  Conferencia de Presidentes.
 de Canarias y los cabildos insulares que tiene la función de servir de encuentro y debate de 
 los grandes asuntos de interés común, la coordinación de las políticas de actuación de 
 interés concurrente y la búsqueda de los acuerdos que deban incorporarse a los 
-BOLETÍN OFICIAL DEL ESTADO
 LEGISLACIÓN CONSOLIDADA
 Página 23
 
@@ -1299,7 +1276,6 @@ particularmente el encargado de canalizar el parecer de los ayuntamientos en las
 legislativas que afecten de forma específica a su organización y competencias. Su 
 composición, organización y funciones serán determinadas por ley del Parlamento de 
 Canarias.
-BOLETÍN OFICIAL DEL ESTADO
 LEGISLACIÓN CONSOLIDADA
 Página 24
 
@@ -1352,7 +1328,6 @@ En todo caso, corresponde al Tribunal Superior de Justicia de Canarias:
 Autónoma con arreglo a las leyes.
 2. Resolver las cuestiones de competencia entre órganos judiciales de Canarias, en 
 todos los casos que no exista un superior común.
-BOLETÍN OFICIAL DEL ESTADO
 LEGISLACIÓN CONSOLIDADA
 Página 25
 
@@ -1402,7 +1377,6 @@ Artículo 84.  Control de los actos del Consejo de Justicia.
 Los actos del Consejo de Justicia de Canarias que no sean impugnables en alzada ante 
 el Consejo General del Poder Judicial pueden impugnarse jurisdiccionalmente en los 
 términos establecidos en las leyes.
-BOLETÍN OFICIAL DEL ESTADO
 LEGISLACIÓN CONSOLIDADA
 Página 26
 
@@ -1465,7 +1439,6 @@ g) Ejercer la potestad disciplinaria e imponer las sanciones que proceda, salvo 
 separación del servicio.
 h) Ejercer todas las demás funciones que sean necesarias para garantizar una gestión 
 eficaz y eficiente de los recursos humanos al servicio de la Administración de Justicia.
-BOLETÍN OFICIAL DEL ESTADO
 LEGISLACIÓN CONSOLIDADA
 Página 27
 
@@ -1519,7 +1492,6 @@ provisión de los medios necesarios para el ejercicio de sus funciones. Le corre
 también la creación de las secretarías y su provisión.
 2. La Comunidad Autónoma de Canarias, en las poblaciones que se determine y de 
 acuerdo con lo establecido por la Ley Orgánica del Poder Judicial, podrá instar el 
-BOLETÍN OFICIAL DEL ESTADO
 LEGISLACIÓN CONSOLIDADA
 Página 28
 
@@ -1568,7 +1540,6 @@ organización de los servicios.
 Artículo 98.  Principio de prevalencia.
 El derecho propio de Canarias en materia de competencia exclusiva de la Comunidad 
 Autónoma es aplicable en su territorio con preferencia a cualquier otro.
-BOLETÍN OFICIAL DEL ESTADO
 LEGISLACIÓN CONSOLIDADA
 Página 29
 
@@ -1619,7 +1590,6 @@ establecer la organización y el régimen de funcionamiento de su Administració
 de lo dispuesto en el artículo 149.1.18 de la Constitución. Esta competencia incluye, en todo 
 caso, la facultad para crear, modificar y suprimir los órganos, unidades administrativas y las 
 entidades que la configuran o que dependen de ella.
-BOLETÍN OFICIAL DEL ESTADO
 LEGISLACIÓN CONSOLIDADA
 Página 30
 
@@ -1675,7 +1645,6 @@ d) Responsabilidad administrativa.
 legislación básica del Estado en materia de contratación, en relación con la inclusión de 
 cláusulas de carácter social y medioambiental, estableciendo unas previsiones mínimas que 
 los órganos de contratación del sector público canario deben incorporar obligatoriamente.
-BOLETÍN OFICIAL DEL ESTADO
 LEGISLACIÓN CONSOLIDADA
 Página 31
 
@@ -1730,7 +1699,6 @@ asociaciones, en el ámbito de la capacidad normativa tributaria asumida por la 
 Autónoma de Canarias.
 c) La declaración de utilidad pública de las asociaciones, así como el contenido y los 
 requisitos para su obtención.
-BOLETÍN OFICIAL DEL ESTADO
 LEGISLACIÓN CONSOLIDADA
 Página 32
 
@@ -1781,7 +1749,6 @@ materia de planificación y promoción de la actividad económica en Canarias, s
 lo establecido en los artículos 149.1.11.ª y 13.ª de la Constitución.
 2. Corresponde a la Comunidad Autónoma de Canarias las competencias de desarrollo 
 legislativo y de ejecución en materia de ordenación de la actividad económica en Canarias.
-BOLETÍN OFICIAL DEL ESTADO
 LEGISLACIÓN CONSOLIDADA
 Página 33
 
@@ -1837,7 +1804,6 @@ Seguridad Social.
 1. Corresponde a la Comunidad Autónoma de Canarias la competencia de desarrollo 
 legislativo y de ejecución en materia de ordenación del crédito, banca, seguros, 
 mutualidades y gestoras de planes de pensiones no integradas en la Seguridad Social.
-BOLETÍN OFICIAL DEL ESTADO
 LEGISLACIÓN CONSOLIDADA
 Página 34
 
@@ -1892,7 +1858,6 @@ c) La defensa de la competencia en el ejercicio de la actividad comercial.
 3. Para garantizar los aspectos previstos en los apartados anteriores, se creará un 
 órgano especializado de defensa de la competencia con jurisdicción en todo el Archipiélago, 
 cuya actividad se coordinará con los previstos en el ámbito estatal y comunitario europeo.
-BOLETÍN OFICIAL DEL ESTADO
 LEGISLACIÓN CONSOLIDADA
 Página 35
 
@@ -1943,7 +1908,6 @@ c) El establecimiento de medidas fiscales de incentivación de las actividades a
 en las que la Comunidad Autónoma de Canarias tenga competencias normativas.
 5. Corresponde a la Comunidad Autónoma de Canarias la competencia ejecutiva en 
 materia de control metrológico y contraste de metales.
-BOLETÍN OFICIAL DEL ESTADO
 LEGISLACIÓN CONSOLIDADA
 Página 36
 
@@ -1996,7 +1960,6 @@ Artículo 128.  Juego y espectáculos.
 materia de juego, de apuestas y casinos, incluidas las modalidades por medios informáticos 
 y telemáticos, cuando la actividad se desarrolle exclusivamente en Canarias. En todo caso, 
 esta competencia comprende:
-BOLETÍN OFICIAL DEL ESTADO
 LEGISLACIÓN CONSOLIDADA
 Página 37
 
@@ -2051,7 +2014,6 @@ b) La regulación y la ejecución de los procesos de producción, con especial a
 calidad, la trazabilidad y las condiciones de los productos agrícolas y ganaderos, así como la 
 lucha contra los fraudes en el ámbito de la producción, transformación, distribución y 
 comercialización de los productos y elementos para uso alimentario, sin perjuicio de las 
-BOLETÍN OFICIAL DEL ESTADO
 LEGISLACIÓN CONSOLIDADA
 Página 38
 
@@ -2108,7 +2070,6 @@ anteriores.
 legislativo y de ejecución sobre la ordenación del sector pesquero. Esta competencia incluye, 
 sin perjuicio de las que puedan corresponder al Estado, el desarrollo y la adopción de 
 medidas de ejecución acerca de las condiciones profesionales de los pescadores y otros 
-BOLETÍN OFICIAL DEL ESTADO
 LEGISLACIÓN CONSOLIDADA
 Página 39
 
@@ -2161,7 +2122,6 @@ como la innovación, la investigación y la experimentación educativa.
 universitaria, la competencia exclusiva sobre las enseñanzas postobligatorias que no 
 conduzcan a la obtención de título o certificación académica o profesional con validez en 
 todo el Estado, y sobre los centros docentes en que se impartan estas enseñanzas.
-BOLETÍN OFICIAL DEL ESTADO
 LEGISLACIÓN CONSOLIDADA
 Página 40
 
@@ -2219,7 +2179,6 @@ d) Coordinar los procedimientos de acceso a las universidades.
 e) Regular el marco jurídico de los títulos propios de las universidades.
 f) Financiar con fondos propios las universidades y gestionar, si procede, los fondos 
 aprobados por el Estado.
-BOLETÍN OFICIAL DEL ESTADO
 LEGISLACIÓN CONSOLIDADA
 Página 41
 
@@ -2275,7 +2234,6 @@ tal fin.
 4. La Comunidad Autónoma de Canarias establecerá las medidas necesarias para 
 garantizar el acceso a la cultura de la ciudadanía considerando la fragmentación territorial 
 del archipiélago, las desigualdades sociales, económicas o de cualquier otra índole.
-BOLETÍN OFICIAL DEL ESTADO
 LEGISLACIÓN CONSOLIDADA
 Página 42
 
@@ -2330,7 +2288,6 @@ Artículo 139.  Empleo y relaciones laborales.
 1. Corresponden a la Comunidad Autónoma de Canarias, en el marco de la legislación 
 del Estado, las competencias ejecutivas en materia de empleo y relaciones laborales, que 
 incluyen, en todo caso:
-BOLETÍN OFICIAL DEL ESTADO
 LEGISLACIÓN CONSOLIDADA
 Página 43
 
@@ -2387,7 +2344,6 @@ sanitario público, así como la formación sanitaria especializada y la investi
 en materia sanitaria.
 3. Corresponde a la Comunidad Autónoma de Canarias la investigación con fines 
 terapéuticos, sin perjuicio de la coordinación general del Estado sobre esta materia.
-BOLETÍN OFICIAL DEL ESTADO
 LEGISLACIÓN CONSOLIDADA
 Página 44
 
@@ -2441,7 +2397,6 @@ a) La competencia exclusiva en la atención sociosanitaria y de orientación de 
 inmigrantes no comunitarios.
 b) El desarrollo de la política de integración de las personas inmigradas en el marco de 
 sus competencias.
-BOLETÍN OFICIAL DEL ESTADO
 LEGISLACIÓN CONSOLIDADA
 Página 45
 
@@ -2496,7 +2451,6 @@ Artículo 147.  Voluntariado, menores y promoción de las familias.
 materia de voluntariado, que incluye, en todo caso, la definición de la actividad, así como la 
 regulación y la promoción de las actuaciones destinadas a la solidaridad y a la acción 
 voluntaria, que se ejecuten individualmente o a través de instituciones públicas o privadas.
-BOLETÍN OFICIAL DEL ESTADO
 LEGISLACIÓN CONSOLIDADA
 Página 46
 
@@ -2549,7 +2503,6 @@ c) La inspección y sanción de las actividades de seguridad privada que se real
 Archipiélago.
 d) La coordinación de los servicios de seguridad e investigación privadas con la policía 
 autonómica y las policías locales.
-BOLETÍN OFICIAL DEL ESTADO
 LEGISLACIÓN CONSOLIDADA
 Página 47
 
@@ -2602,7 +2555,6 @@ instrumentos de control de la contaminación, con independencia de la Administra
 competente para autorizar la obra, la instalación o la actividad que la produzca.
 j) La regulación del régimen de autorización y seguimiento de emisión de gases de 
 efecto invernadero para las instalaciones fijas ubicadas en su territorio.
-BOLETÍN OFICIAL DEL ESTADO
 LEGISLACIÓN CONSOLIDADA
 Página 48
 
@@ -2656,7 +2608,6 @@ incluye en todo caso:
 a) El establecimiento y la regulación de los planes territoriales de ordenación y uso del 
 litoral y de las playas, así como la regulación del procedimiento de tramitación y aprobación 
 de estos instrumentos y planes.
-BOLETÍN OFICIAL DEL ESTADO
 LEGISLACIÓN CONSOLIDADA
 Página 49
 
@@ -2710,7 +2661,6 @@ a) La regulación, la planificación, la gestión, la coordinación y la inspecc
 servicios y las actividades, incluyendo el transporte urbano e interurbano y de los servicios 
 de transporte discrecional de viajeros y mercancías, el transporte turístico, escolar o de 
 menores, sanitario, funerario, de mercancías peligrosas o perecederas y de otros que 
-BOLETÍN OFICIAL DEL ESTADO
 LEGISLACIÓN CONSOLIDADA
 Página 50
 
@@ -2765,7 +2715,6 @@ Artículo 163.  Energía, hidrocarburos y minas.
 artículo 149.1.13.ª y 25.ª de la Constitución, la competencia sobre las siguientes materias:
 a) Instalaciones de producción, distribución y transporte de energía, cuando no estén 
 ubicadas en el mar territorial, este transporte transcurra íntegramente por el territorio de 
-BOLETÍN OFICIAL DEL ESTADO
 LEGISLACIÓN CONSOLIDADA
 Página 51
 
@@ -2816,7 +2765,6 @@ la política y normativa vigente en cada momento para la financiación de la Com
 Autónoma de Canarias y de sus Entidades Locales. En los términos que determine la Ley 
 Orgánica 8/1980, de Financiación de las Comunidades Autónomas y sus normas de 
 desarrollo, estos recursos tributarios no se integrarán, ni computarán, en el Sistema de 
-BOLETÍN OFICIAL DEL ESTADO
 LEGISLACIÓN CONSOLIDADA
 Página 52
 
@@ -2870,7 +2818,6 @@ participación y gestión en el régimen económico y fiscal de Canarias.
 c) Los precios públicos.
 d) El rendimiento de los tributos cedidos por el Estado a la hacienda de la Comunidad 
 Autónoma de Canarias.
-BOLETÍN OFICIAL DEL ESTADO
 LEGISLACIÓN CONSOLIDADA
 Página 53
 
@@ -2923,7 +2870,6 @@ La Comunidad Autónoma de Canarias asumirá, por medio de sus propios órganos
 económico-administrativos, la revisión por la vía administrativa de las reclamaciones que los 
 contribuyentes puedan interponer contra los actos de aplicación de los tributos a que se 
 refieren los apartados 1 y 2 del artículo 186 de este Estatuto, sin perjuicio de las 
-BOLETÍN OFICIAL DEL ESTADO
 LEGISLACIÓN CONSOLIDADA
 Página 54
 
@@ -2978,7 +2924,6 @@ todos los efectos.
 mejora de servicios situados en el archipiélago canario y transferidos a la Comunidad 
 Autónoma de Canarias, esta estará facultada para elaborar y presentar el programa de obras 
 y servicios beneficiarios de la inversión.
-BOLETÍN OFICIAL DEL ESTADO
 LEGISLACIÓN CONSOLIDADA
 Página 55
 
@@ -3031,7 +2976,6 @@ Corresponde al Gobierno de Canarias en las materias reguladas en el presente tí
 a) Elaborar el proyecto de ley de los Presupuestos Generales de la Comunidad 
 Autónoma.
 b) Aprobar los reglamentos generales de los impuestos propios de la Comunidad.
-BOLETÍN OFICIAL DEL ESTADO
 LEGISLACIÓN CONSOLIDADA
 Página 56
 
@@ -3084,7 +3028,6 @@ cualesquiera informes, estudios o propuestas relativos a la gestión de dichas e
 su incidencia en la economía canaria. Dichos informes, estudios o propuestas darán lugar a 
 resolución motivada del Gobierno o de los organismos o entidades titulares de la 
 participación en las empresas.
-BOLETÍN OFICIAL DEL ESTADO
 LEGISLACIÓN CONSOLIDADA
 Página 57
 
@@ -3133,7 +3076,6 @@ c) La participación, información, colaboración y coordinación en el ejercici
 respectivas competencias.
 2. La comisión estará integrada por un número igual de representantes del Gobierno de 
 Canarias y del Gobierno del Estado y podrá ser convocada a petición de una de las partes 
-BOLETÍN OFICIAL DEL ESTADO
 LEGISLACIÓN CONSOLIDADA
 Página 58
 
@@ -3186,7 +3128,6 @@ región ultraperiférica o se traten materias como cooperación transnacional y 
 políticas económico-fiscales, políticas de innovación, sociedad de la información, 
 investigación y desarrollo tecnológico, cuando afecten singularmente los intereses del 
 archipiélago canario.
-BOLETÍN OFICIAL DEL ESTADO
 LEGISLACIÓN CONSOLIDADA
 Página 59
 
@@ -3239,7 +3180,6 @@ propuesta al menos de una quinta parte de sus diputados.
 Canarias por mayoría de tres quintos de sus miembros, la aprobación de las Cortes 
 Generales mediante ley orgánica y, finalmente, ser sometido a referéndum de los electores.
 3. El procedimiento de aprobación de la reforma seguirá las siguientes fases:
-BOLETÍN OFICIAL DEL ESTADO
 LEGISLACIÓN CONSOLIDADA
 Página 60
 
@@ -3294,7 +3234,6 @@ f) Impuesto Especial sobre la Cerveza.
 g) Impuesto Especial sobre Productos Intermedios.
 h) Impuesto Especial sobre el Alcohol y Bebidas Derivadas.
 i) Impuesto Especial sobre Electricidad.
-BOLETÍN OFICIAL DEL ESTADO
 LEGISLACIÓN CONSOLIDADA
 Página 61
 
@@ -3351,7 +3290,6 @@ Disposición adicional cuarta.  La Comisión Mixta de Transferencias.
 1. La Comisión Mixta de Transferencias, compuesta paritariamente por la Administración 
 Pública de la Comunidad Autónoma de Canarias y la Administración del Estado, e integrada 
 en la Comisión Bilateral de Cooperación a que se refiere el artículo 192 del presente 
-BOLETÍN OFICIAL DEL ESTADO
 LEGISLACIÓN CONSOLIDADA
 Página 62
 
@@ -3408,7 +3346,6 @@ cuenta aquellas listas de partido o coalición que hubieran obtenido, al menos, 
 los votos válidos emitidos en la totalidad de la Comunidad Autónoma.
 4. El Parlamento de Canarias elaborará, en un plazo no superior a tres años desde la 
 entrada en vigor del presente Estatuto de Autonomía, la ley a que se refiere el artículo 39.2.
-BOLETÍN OFICIAL DEL ESTADO
 LEGISLACIÓN CONSOLIDADA
 Página 63
 
@@ -3503,13 +3440,11 @@ GC: Gran Canaria.
 TF: Tenerife.
 EH: El Hierro.
 LP: La Palma.
-BOLETÍN OFICIAL DEL ESTADO
 LEGISLACIÓN CONSOLIDADA
 Página 64
 
 --- Página 65 (Transcripción OCR de Anexo/Imagen) ---
 
-BOLETiN OFICIAL DEL ESTADO
 LEGISLACION CONSOLIDADA
 LZ: Lanzarote.
 Las coordenadas geograficas han sido tomadas de la carta nautica espanola 2o9,

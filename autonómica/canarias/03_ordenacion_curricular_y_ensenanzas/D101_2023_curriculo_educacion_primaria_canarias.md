@@ -47,9 +47,6 @@ fuente_pdf_oficial: https://sede.gobiernodecanarias.org/boc/boc-a-2023-096-1553.
 
 # Decreto 101/2023, de 9 de mayo, por el que se establece la ordenación y el currículo de la Educación Primaria en la Comunidad Autónoma de Canarias.
 
-https://sede.gobiernodecanarias.org/boc
-boc-a-2023-096-1553
-Boletín Oficial de Canarias núm. 96 Jueves 18 de mayo de 202328388
 II. Autoridades y personal
 Nombramientos, situaciones e incidencias
 Consejería de Administraciones Públicas, Justicia y Seguridad
@@ -91,9 +88,6 @@ en el plazo de un mes, contado a partir del siguiente al de la publicación de e
 en el Boletín Oficial de Canarias. Decaerá en su derecho quien no tome posesión en dicho 
 plazo.
 
-https://sede.gobiernodecanarias.org/boc
-boc-a-2023-096-1553
-Boletín Oficial de Canarias núm. 96 Jueves 18 de mayo de 202328389
 Cuarto.- Publicar la presente Resolución en el Boletín Oficial de Canarias.
 Contra la presente Resolución, que pone fin a la vía administrativa, cabe interponer 
 recurso contencioso-administrativo ante la Sala de lo Contencioso-administrativo de Santa 
@@ -113,9 +107,6 @@ recurso que se pudiera interponer.
 Santa Cruz de Tenerife, a 5 de mayo de 2023.- La Directora General de la Función 
 Pública, Águeda Márquez Fuentes.
 
-boc-a-2023-096-1553
-Boletín Oficial de Canarias núm. 96 Jueves 18 de mayo de 202328390
-https://sede.gobiernodecanarias.org/boc
 ANEXO I
 APELLIDO-1 APELLIDO-2 NOMBRE PROVINCIA TOTAL 
 CLAVIJO HERNANDEZ MARIA S/C TENERIFE 8.842 
@@ -124,9 +115,6 @@ CAÑAS ALVAREZ MARTA LAS PALMAS 7.13
 GARCIA-MARINA CARRETERO RAMON LAS PALMAS 9.925 
 ANEXO I
 
-boc-a-2023-096-1553
-Boletín Oficial de Canarias núm. 96 Jueves 18 de mayo de 202328391
-https://sede.gobiernodecanarias.org/boc
 GOBIERNO DE CANARIAS  ANEXO II
 DNI Apellidos y nombre
 45****79

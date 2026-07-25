@@ -35,9 +35,6 @@ fuente_pdf_oficial: https://sede.gobiernodecanarias.org/boc/boc-a-2026-053-880.p
 
 # Resolución de 6 de marzo de 2026, por la que se corrige error en la Resolución de 13 de febrero de 2026, que convoca el procedimiento de admisión del alumnado a los Ciclos Formativos de Grado Básico, Medio y Superior (Grado D, niveles 1, 2 y 3, respectivamente) y de los cursos de especialización de Grado Medio y Superior (Grados E, niveles 2 y 3, respectivamente) de todas las Enseñanzas de Formación Profesional autorizadas, Enseñanzas Profesionales de Artes Plásticas y Diseño, Enseñanzas Deportivas, Enseñanzas Elementales y Profesionales de Música y Enseñanzas de Idiomas en centros docentes sostenidos con fondos públicos en la Comunidad Autónoma de Canarias para el curso escolar 2026-2027 (BOC n.º 39, de 26.2.2026).
 
-https://sede.gobiernodecanarias.org/boc
-boc-a-2026-053-880
-Boletín Oficial de Canarias núm. 53 Miércoles 18 de marzo de 202610469
 III. Otras Resoluciones
 Consejería de Educación, Formación Profesional, Actividad Física y Deportes
 880 Dirección General de Formación Profesional y Enseñanzas de Régimen Especial.- 
@@ -80,9 +77,6 @@ para el curso escolar 2026-2027, en lo que se refiere a los periodos para comple
 de grupos, de manera virtual (preferentemente) o presencial mediante el formulario de 
 matrícula única, del alumnado convocado en la 3.ª asignación de plazas.
 
-https://sede.gobiernodecanarias.org/boc
-boc-a-2026-053-880
-Boletín Oficial de Canarias núm. 53 Miércoles 18 de marzo de 202610470
 En su virtud, y en uso de las competencias que tengo conferidas en base a lo dispuesto 
 en el artículo 19 del Decreto 212/1991, de 11 de septiembre, de organización de los 
 Departamentos de la Administración Autonómica de Canarias, y en el artículo 20 del 
@@ -157,9 +151,6 @@ plazas vacantes y no tengan listas de reserva aceptarán solicitudes
 fuera de plazo hasta completar los grupos por orden de registro de 
 entrada.
 
-boc-a-2026-053-880
-Boletín Oficial de Canarias núm. 53 Miércoles 18 de marzo de 202610471
-https://sede.gobiernodecanarias.org/boc
 Del 10 al 14 de julio El alumnado debe entrar en la aplicación de gestión de solicitudes 
 (ADG_solicitantes) para confirmar las peticiones si quiere participar 
 en el llamamiento.
@@ -276,9 +267,6 @@ Hasta el 30 de julio Plazo para comprobar y verificar grabar en la aplicación i
 de gestión de Formación Profesional el alumnado matriculado.
 31 de julio Publicación de las plazas vacantes.
 
-https://sede.gobiernodecanarias.org/boc
-boc-a-2026-053-880
-Boletín Oficial de Canarias núm. 53 Miércoles 18 de marzo de 202610472
 10 de julio 
 1ª publicación de plazas vacantes, de reservas convocadas y del 
 plazo de matrícula  en el  tablón de anuncios del centro y en la 

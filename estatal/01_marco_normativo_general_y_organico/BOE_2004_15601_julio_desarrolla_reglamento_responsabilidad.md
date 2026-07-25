@@ -28,6 +28,7 @@ fundamentos_derecho:
   - '1'
   - '2.1'
 ---
+
 # Real Decreto 1774/2004, de 30 de julio, por el que se aprueba el Reglamento de la Ley Orgánica 5/2000, de 12 de enero, reguladora de la responsabilidad penal de los menores.
 
 La Ley Orgánica 5/2000, de 12 de enero, reguladora de la responsabilidad penal de los menores, en el apartado 24 de su exposición de motivos, prevé una regulación más extensa de algunos de sus aspectos en el reglamento que en su día se dicte en su desarrollo.
@@ -58,9 +59,7 @@ Este reglamento ha sido sometido al preceptivo informe de la Agencia Española d
 
 En su virtud, a propuesta del Ministro de Justicia, con la aprobación previa del Ministro de Administraciones Públicas, de acuerdo con el Consejo de Estado y previa deliberación del Consejo de Ministros en su reunión del día 30 de julio de 2004,
 
-
 **D I S P O N G O :**
-
 
 #### Artículo único. Aprobación del Reglamento de la Ley Orgánica 5/2000, de 12 de enero, reguladora de la responsabilidad penal de los menores.
 
@@ -68,15 +67,11 @@ Se aprueba el Reglamento de la Ley
 
 Orgánica 5/2000, de 12 de enero, reguladora de la responsabilidad penal de los menores, cuyo texto se inserta a continuación.
 
-
 #### Disposición adicional única. Evaluación de resultados.
 
 Transcurrido un año desde la entrada en vigor del reglamento de la Ley Orgánica 5/2000, de 12 de enero, reguladora de la responsabilidad penal de los menores, el Gobierno procederá a evaluar los resultados de su aplicación, consultando para ello a las comunidades autónomas, al Consejo General del Poder Judicial y al Fiscal General del Estado.
 
-
 #### Disposición final única. Entrada en vigor.
-
-El presente real decreto entrará en vigor a los seis meses de su publicación en el "Boletín Oficial del Estado".
 
 Dado en Palma de Mallorca, a 30 de julio de 2004.
 
@@ -92,7 +87,6 @@ CAPÍTULO I
 
 Disposiciones generales
 
-
 #### Artículo 1. Objeto y ámbito de aplicación.
 
 1. Este reglamento tiene por objeto el desarrollo de la Ley Orgánica 5/2000, de 12 de enero, reguladora de la responsabilidad penal de los menores, en lo referente a la actuación del equipo técnico y de la Policía Judicial, a la ejecución de las medidas cautelares y definitivas adoptadas de conformidad con aquella y al régimen disciplinario de los centros para la ejecución de las medidas privativas de libertad, sin perjuicio de las normas que en aplicación de lo dispuesto en el artículo 45.1 y la disposición final séptima de la citada ley orgánica establezcan las comunidades autónomas y las Ciudades de Ceuta y Melilla, en el ámbito de sus competencias.
@@ -102,7 +96,6 @@ Disposiciones generales
 CAPÍTULO II
 
 De la actuación de la Policía Judicial y del equipo técnico
-
 
 #### Artículo 2. Actuación de la Policía Judicial.
 
@@ -133,7 +126,6 @@ Tanto los registros policiales como el registro central al que se refiere este a
 Para la práctica de la diligencia de reconocimiento, se utilizarán los medios que resulten menos dañinos a la integridad del menor, debiendo llevarse a cabo en las dependencias de los Grupos de Menores o en las sedes del Ministerio Fiscal o autoridad judicial competente. La rueda deberá estar compuesta por otras personas, menores o no, conforme a los requisitos de la Ley de Enjuiciamiento Criminal.
 
 Cuando la rueda esté compuesta por otros menores de edad, se deberá contar con su autorización y con la de sus representantes legales o guardadores de hecho o de derecho, a salvo el supuesto de los mayores de 16 años no emancipados y de los menores emancipados en que sea de aplicación lo dispuesto para las limitaciones a la declaración de voluntad de los menores en el artículo 2 de la Ley Orgánica 1/1996, de protección jurídica del menor.
-
 
 #### Artículo 3. Modo de llevar a cabo la detención del menor.
 
@@ -167,7 +159,6 @@ Los datos de dicho registro estarán exclusivamente a disposición del Ministeri
 
 Este libro registro será único para todo lo concerniente a la detención del menor, y no se consignará ninguno de sus datos en ningún otro libro de la dependencia.
 
-
 #### Artículo 4. Actuación del equipo técnico.
 
 1. Los equipos técnicos estarán formados por psicólogos, educadores y trabajadores sociales cuya función es asistir técnicamente en las materias propias de sus disciplinas profesionales a los jueces de menores y al Ministerio Fiscal, elaborando los informes, efectuando las propuestas, siendo oídos en los supuestos y en la forma establecidos en la Ley Orgánica 5/2000, de 12 de enero, reguladora de la responsabilidad penal de los menores, y, en general, desempeñando las funciones que tengan legalmente atribuidas.
@@ -187,7 +178,6 @@ No obstante lo anterior, en el ejercicio de su actividad técnica actuarán con 
 4. El Ministerio de Justicia y las comunidades autónomas con competencias asumidas en sus respectivos ámbitos determinarán el número de equipos técnicos necesarios, su composición y plantilla de conformidad con las necesidades que presenten los juzgados de menores y fiscalías garantizando que cada fiscal instructor cuente con los medios personales adecuados y suficientes para la emisión de los informes determinados por la ley y en los plazos establecidos.
 
 5. Los informes serán firmados por los profesionales del equipo técnico que intervengan en cada caso. La representación del equipo la ostentará aquel que sea designado por el Ministerio Fiscal o el juez de menores en la actuación concreta de que se trate.
-
 
 #### Artículo 5. Modo de llevar a cabo las soluciones extrajudiciales.
 
@@ -221,7 +211,6 @@ De las reglas para la ejecución de las medidas
 
 SECCIÓN 1.ª REGLAS COMUNES PARA LA EJECUCIÓN DE LAS MEDIDAS
 
-
 #### Artículo 6. Principios inspiradores de la ejecución de las medidas.
 
 Los profesionales, organismos e instituciones que intervengan en la ejecución de las medidas ajustarán su actuación con los menores a los principios siguientes:
@@ -246,11 +235,9 @@ i) La confidencialidad, la reserva oportuna y la ausencia de injerencias inneces
 
 j) La coordinación de actuaciones y la colaboración con los demás organismos de la propia o de diferente Administración, que intervengan con menores y jóvenes, especialmente con los que tengan competencias en materia de educación y sanidad.
 
-
 #### Artículo 7. Derechos de los menores durante la ejecución de las medidas.
 
 Los menores y los jóvenes gozarán durante la ejecución de las medidas de los derechos y libertades que a todos reconocen la Constitución, los tratados internacionales ratificados por España y el resto del ordenamiento jurídico vigente, a excepción de los que se encuentren expresamente limitados por la ley, el contenido del fallo condenatorio o el sentido de la medida impuesta.
-
 
 #### Artículo 8. Competencia funcional.
 
@@ -278,7 +265,6 @@ Orgánica 5/2000, de 12 de enero, reguladora de la responsabilidad penal de los 
 
 7. Sin perjuicio de las funciones de mediación atribuidas en el artículo 19.3 de la Ley Orgánica 5/2000, de 12 de enero, reguladora de la responsabilidad penal de los menores, a los equipos técnicos correspondientes, también las entidades públicas podrán poner a disposición del Ministerio Fiscal y de los juzgados de menores, en su caso, los programas necesarios para realizar las funciones de mediación a las que alude el citado artículo.
 
-
 #### Artículo 9. Punto de conexión para determinar la Administración competente en la ejecución de las medidas.
 
 1. Para la ejecución de las medidas previstas en el apartado 1 del artículo anterior, serán competentes las comunidades autónomas y las Ciudades de Ceuta y Melilla donde se ubique el juzgado de menores que las haya acordado.
@@ -288,7 +274,6 @@ En el caso de que la entidad pública haya designado un centro de internamiento 
 2. Si la aprobación judicial prevista en el artículo 46.3 de la Ley Orgánica 5/2000, de 12 de enero, reguladora de la responsabilidad penal de los menores, se adopta una vez iniciada la ejecución de la medida, dejará de ser competente la comunidad autónoma respectiva desde el momento del traslado efectivo del menor al nuevo centro o desde la notificación judicial a la comunidad autónoma de residencia para que designe el profesional responsable de la ejecución de la medida no privativa de libertad impuesta.
 
 3. En caso de traslado de centro por las circunstancias previstas en el artículo 35.1.b) y c) de este reglamento, continuará siendo competente de la ejecución de la medida la comunidad autónoma donde se ubique el juzgado de menores que la haya acordado, sin perjuicio de la colaboración prestada por la comunidad autónoma responsable del centro de destino.
-
 
 #### Artículo 10. Inicio de la ejecución.
 
@@ -342,7 +327,6 @@ que serán los que el Gobierno ponga a disposición de la Audiencia Nacional, si
 
 3. Para dar inicio a la ejecución de las medidas cautelares que se acuerden de conformidad con el artículo 28 de la Ley Orgánica 5/2000, de 12 de enero, reguladora de la responsabilidad penal de los menores, una vez adoptado y comunicado a la entidad pública el auto correspondiente, se aplicarán en lo que proceda las reglas 1.ª, 2.ª y 3.ª del apartado 1 de este artículo.
 
-
 #### Artículo 11. Ejecución de varias medidas.
 
 1. La ejecución de varias medidas se llevará a cabo en todo caso teniendo en cuenta lo acordado por el juez, de acuerdo con lo previsto en los artículos 13 y 47.1 de la Ley Orgánica 5/2000, de 12 de enero, reguladora de la responsabilidad penal de los menores.
@@ -367,7 +351,6 @@ c) La amonestación, la privación del permiso de conducir ciclomotores o vehíc
 
 7. En los casos en que al menor se le hayan impuesto varias medidas de internamiento y se haya acordado por el juez de menores su acumulación en un único expediente de ejecución, el centro donde el menor sea ingresado elaborará un programa individualizado de ejecución que comprenda la totalidad de las medidas, así como un único informe final, sin perjuicio de los correspondientes informes de seguimiento que establece el artículo 13 de este reglamento.
 
-
 #### Artículo 12. Expediente personal del menor en la ejecución de la medida.
 
 1. La entidad pública competente abrirá un expediente personal a cada menor del que tenga encomendada la ejecución de una medida. Dicho expediente será único en el ámbito territorial de la comunidad autónoma, aun cuando se ejecuten medidas sucesivas.
@@ -387,7 +370,6 @@ c) El menor, su letrado y, en su caso, el representante legal del menor, si lo s
 5. Todos los que intervengan en la ejecución de la medida tienen el deber de mantener la reserva oportuna de la información que obtengan con relación a los menores y jóvenes en el ejercicio de sus funciones, y de no facilitarla a terceras personas ajenas a la ejecución, deber que persiste una vez finalizada esta.
 
 6. Una vez finalizada la estancia en el centro, deberán remitirse a la entidad pública, por los medios que se establezcan, todos los documentos relativos al menor, con objeto de que se integren en su expediente personal, sin que pueda quedarse el centro con copia alguna.
-
 
 #### Artículo 13. Informes durante la ejecución.
 
@@ -409,7 +391,6 @@ c) En el resto de las medidas, un informe trimestral.
 
 6. Una copia de los informes de seguimiento y final al que aluden los apartados anteriores se remitirá también al letrado que acredite ser el defensor del menor y lo solicite de forma expresa a la entidad pública.
 
-
 #### Artículo 14. Incumplimientos.
 
 La entidad pública comunicará al juez de menores y al Ministerio Fiscal a los efectos, en su caso, de lo dispuesto en el artículo 50 de la Ley Orgánica 5/2000, de 12 de enero, reguladora de la responsabilidad penal de los menores, los incumplimientos siguientes de los que tenga constancia:
@@ -422,7 +403,6 @@ c) En las medidas no privativas de libertad, la falta de presentación a las ent
 
 Además, la entidad pública comunicará a las Fuerzas y Cuerpos de Seguridad el incumplimiento de las medidas de internamiento y de permanencia de fin de semana en un centro a que se refiere el párrafo a), así como de las medidas de permanencia de fin de semana en el domicilio prevista en el párrafo b). Asimismo, se pondrá en conocimiento de las Fuerzas y Cuerpos de Seguridad el ingreso del menor en el centro en los términos previstos en el artículo 31.2 cuando se hubiese solicitado su búsqueda.
 
-
 #### Artículo 15. Revisión de la medida por conciliación.
 
 1. Si durante la ejecución de la medida el menor manifestara su voluntad de conciliarse con la víctima o perjudicado, o de repararles por el daño causado, la entidad pública informará al juzgado de menores y al Ministerio Fiscal de dicha circunstancia, realizará las funciones de mediación correspondientes entre el menor y la víctima e informará de los compromisos adquiridos y de su grado de cumplimiento al juez y al Ministerio Fiscal, a los efectos de lo dispuesto en el artículo 51.2 de la Ley Orgánica 5/2000, de 12 de enero, reguladora de la responsabilidad penal de los menores. Si la víctima fuera menor, deberá recabarse autorización del juez de menores en los términos del artículo 19.6 de la citada ley orgánica.
@@ -430,7 +410,6 @@ Además, la entidad pública comunicará a las Fuerzas y Cuerpos de Seguridad el
 2. Las funciones de mediación llevadas a cabo con menores internados no podrán suponer una alteración del régimen de cumplimiento de la medida impuesta, sin perjuicio de las salidas que para dicha finalidad pueda autorizar el juzgado de menores competente.
 
 SECCIÓN 2.ª REGLAS ESPECÍFICAS PARA LA EJECUCIÓN DE DETERMINADAS MEDIDAS NO PRIVATIVAS DE LIBERTAD
-
 
 #### Artículo 16. Tratamiento ambulatorio.
 
@@ -442,7 +421,6 @@ SECCIÓN 2.ª REGLAS ESPECÍFICAS PARA LA EJECUCIÓN DE DETERMINADAS MEDIDAS NO 
 
 4. Cuando el tratamiento tenga por objeto la deshabituación del consumo de bebidas alcohólicas, drogas tóxicas, estupefacientes o sustancias psicotrópicas y el menor no preste su consentimiento para iniciarlo o, una vez iniciado, lo abandone o no se someta a las pautas sociosanitarias o a los controles establecidos en el programa de tratamiento aprobado, la entidad pública no iniciará el tratamiento o lo suspenderá y lo pondrá en conocimiento del juez de menores a los efectos oportunos.
 
-
 #### Artículo 17. Asistencia a un centro de día.
 
 1. Para elaborar el programa individualizado de ejecución de la medida, la entidad pública designará el centro de día más adecuado, entre los más cercanos al domicilio del menor en los que exista plaza disponible.
@@ -453,7 +431,6 @@ que el menor realizará, la periodicidad de la asistencia al centro de día y el
 
 3. A los efectos de lo establecido en este artículo, tendrán la condición de centro de día los recursos incluidos en la red de servicios sociales de cada comunidad autónoma, siempre que se encuentren plenamente integrados en la comunidad y sean adecuados a la finalidad de la medida.
 
-
 #### Artículo 18. Libertad vigilada.
 
 1. Una vez designado el profesional encargado de la ejecución de la medida y notificada la designación al juzgado de menores, se entrevistará con el menor al efecto de elaborar el programa individualizado de ejecución de la medida.
@@ -463,7 +440,6 @@ que el menor realizará, la periodicidad de la asistencia al centro de día y el
 3. Si con la medida se hubiera impuesto al menor alguna regla de conducta que requiera para su cumplimiento un programa o recurso específico, este se elaborará o designará por la entidad pública y se adjuntará al programa individualizado de ejecución de la medida.
 
 4. Lo dispuesto en este artículo será también de aplicación para la ejecución del período de libertad vigilada previsto en los artículos 7.2, 9.5.ª, 40.2.c) y apartado 2.c) de la disposición adicional cuarta de la Ley Orgánica 5/2000, de 12 de enero, reguladora de la responsabilidad penal de los menores.
-
 
 #### Artículo 19. Convivencia con otra persona, familia o grupo educativo.
 
@@ -480,7 +456,6 @@ Igualmente, se comunicará el desistimiento de la persona, familia o grupo educa
 5. La persona, familia o grupo educativo que asuma la convivencia adquirirá las obligaciones civiles propias de la guarda y deberá colaborar con el profesional designado en el seguimiento de la medida.
 
 6. Durante la ejecución de la medida el menor conservará el derecho de relacionarse con su familia, salvo que haya una prohibición judicial expresa.
-
 
 #### Artículo 20. Prestaciones en beneficio de la comunidad.
 
@@ -510,13 +485,11 @@ d) No estarán supeditadas a la consecución de intereses económicos.
 
 9. Si el menor no aceptara las actividades propuestas o sus condiciones de realización y no hubiera otras actividades disponibles adecuadas a sus aptitudes personales o no se pudieran variar las condiciones, el profesional designado lo pondrá en conocimiento inmediato del juez de menores a los efectos oportunos.
 
-
 #### Artículo 21. Realización de tareas socioeducativas.
 
 1. El profesional designado, después de entrevistarse con el menor para conocer sus características personales, su situación y sus necesidades, elaborará el programa individualizado de ejecución de la medida en el que expondrá las tareas específicas de carácter formativo, cultural y educativo que debe realizar el menor, encaminadas a facilitarle el desarrollo de su competencia social, el lugar donde se realizarán y el horario de realización, que deberá ser compatible con el de la actividad escolar si el menor se encuentra en el período de la enseñanza básica obligatoria, y, en la medida de lo posible, con su actividad laboral.
 
 2. Lo dispuesto en el apartado anterior será de aplicación para la ejecución de la actividad socioeducativa prevista en el artículo 40.2.c) de la Ley Orgánica 5/2000, de 12 de enero, reguladora de la responsabilidad penal de los menores.
-
 
 #### Artículo 22. Medidas cautelares.
 
@@ -524,23 +497,19 @@ Cuando al menor se le impongan las medidas cautelares de libertad vigilada o con
 
 SECCIÓN 3.ª REGLAS ESPECÍFICAS PARA LA EJECUCIÓN DE LAS MEDIDAS PRIVATIVAS DE LIBERTAD
 
-
 #### Artículo 23. Regímenes de internamiento.
 
 Los menores cumplirán la medida de internamiento en el régimen acordado en resolución motivada por el juez de menores, de acuerdo con lo establecido en los párrafos a), b) y c) del artículo 7.1 de la Ley Orgánica 5/2000, de 12 de enero, reguladora de la responsabilidad penal de los menores.
 
-
 #### Artículo 24. Internamiento en régimen cerrado.
 
 Los menores sometidos a esta medida residirán en el centro y desarrollarán en este las actividades formativas, educativas, laborales y de ocio, planificadas en el programa individualizado de ejecución de la medida.
-
 
 #### Artículo 25. Internamiento en régimen semiabierto.
 
 1. Los menores en régimen semiabierto residirán en el centro, pero realizarán fuera de este alguna o algunas de las actividades formativas, educativas, laborales y de ocio, establecidas en el programa individualizado de ejecución de la medida. Este programa podrá establecer un régimen flexible que deje a la entidad pública un margen de decisión para su aplicación concreta.
 
 2. La actividad o actividades que se realicen en el exterior se ajustarán a los horarios y condiciones establecidos en el programa individualizado de ejecución de la medida, sin perjuicio de que, en función de la evolución personal del menor, la entidad pública pueda aumentar o disminuir las actividades en el exterior o los horarios, siempre dentro del margen establecido en el propio programa.
-
 
 #### Artículo 26. Internamiento en régimen abierto.
 
@@ -552,7 +521,6 @@ Los menores sometidos a esta medida residirán en el centro y desarrollarán en 
 
 4. Cuando la entidad pública entienda que las características personales del menor y la evolución de la medida de internamiento en régimen abierto lo aconsejan, podrá proponer al juzgado de menores que aquella continúe en viviendas o instituciones de carácter familiar ubicadas fuera del recinto del centro, bajo el control de dicha entidad.
 
-
 #### Artículo 27. Internamiento terapéutico.
 
 1. Los menores sometidos a esta medida residirán en el centro designado para recibir la atención educativa especializada o el tratamiento específico de la anomalía o alteración psíquica, dependencia de bebidas alcohólicas, drogas tóxicas, estupefacientes o sustancias psicotrópicas, o alteraciones en la percepción que determinen una alteración grave de la conciencia de la realidad, que padezcan, de acuerdo con el programa de ejecución de la medida elaborado por la entidad pública.
@@ -563,7 +531,6 @@ Los menores sometidos a esta medida residirán en el centro y desarrollarán en 
 
 4. Cuando la entidad pública, en atención al diagnóstico realizado por los facultativos correspondientes o a la evolución en la medida considere que lo más adecuado es el internamiento en un centro sociosanitario, lo solicitará al juez de menores.
 
-
 #### Artículo 28. Permanencia de fin de semana.
 
 1. Una vez recibido en la entidad pública el testimonio de la resolución firme con el número de fines de semana impuestos y las horas de permanencia de cada fin de semana, el profesional designado se entrevistará con el menor al efecto de elaborar el programa individualizado de ejecución de la medida, en el que deberán constar las fechas establecidas para el cumplimiento de las permanencias, los días concretos de cada fin de semana en los que se ejecutará la medida y la distribución de las horas entre los días de permanencia, así como el lugar donde se cumplirá la medida.
@@ -572,13 +539,11 @@ Los menores sometidos a esta medida residirán en el centro y desarrollarán en 
 
 3. Una vez aprobado el programa individualizado de ejecución de la medida por el juez de menores, la entidad pública lo pondrá en conocimiento del menor con indicación de la fecha en la que se dará inicio al cumplimiento de la medida, en el domicilio o en el centro designado, el lugar donde deberá presentarse para realizar las tareas socioeducativas asignadas y el horario de estas.
 
-
 #### Artículo 29. Internamiento cautelar.
 
 1. Los menores a los que se aplique la medida de internamiento cautelar en aplicación de lo dispuesto en el artículo 28 de la Ley Orgánica 5/2000, de 12 de enero, reguladora de la responsabilidad penal de los menores, ingresarán en el centro designado por la entidad pública, en el régimen de internamiento que el juez haya establecido y les será de aplicación, en función de dicho régimen, lo dispuesto en los artículos anteriores de este capítulo.
 
 2. No obstante, para salvaguardar y respetar el principio de presunción de inocencia, el programa individualizado de ejecución de la medida se sustituirá por un modelo individualizado de intervención que deberá contener una planificación de actividades adecuadas a sus características y circunstancias personales, compatible con el régimen de internamiento y su situación procesal. Dicho modelo individualizado de intervención deberá someterse a la aprobación del juez de menores, conforme a lo previsto en el artículo 44 de la Ley Orgánica 5/2000, de 12 de enero, reguladora de la responsabilidad penal de los menores.
-
 
 #### Artículo 30. Normativa de funcionamiento interno.
 
@@ -618,7 +583,6 @@ g) Los incumplimientos de deberes podrán ser objeto de corrección educativa si
 
 En este caso, si la conducta también fuese constitutiva de una infracción disciplinaria por atentar a la seguridad y al buen orden del centro, podrá ser objeto de la correspondiente sanción, que en ningún caso podrá extenderse al fundamento o motivo de la corrección educativa.
 
-
 #### Artículo 31. Ingreso en el centro.
 
 1. El ingreso de un menor en un centro sólo se podrá realizar en cumplimiento de un mandamiento de internamiento cautelar o de una sentencia firme adoptada por la autoridad judicial competente.
@@ -626,7 +590,6 @@ En este caso, si la conducta también fuese constitutiva de una infracción disc
 2. También podrá ingresar por presentación voluntaria el menor sobre el que se haya dictado un mandamiento de internamiento cautelar o una sentencia firme de internamiento pendiente de ejecutar, el menor evadido de un centro y el no retornado a este después de una salida autorizada.
 
 En estos casos, el director del centro recabará del juez de menores, dentro de las 24 horas siguientes al ingreso, el correspondiente mandamiento, así como, en su caso, el testimonio de sentencia y liquidación de condena. Cuando se trate de internos evadidos que decidiesen voluntariamente reingresar en un centro distinto del originario, se solicitará del centro del que se hubiesen evadido los datos necesarios de su expediente personal, sin perjuicio de lo que se determine en relación con su traslado.
-
 
 #### Artículo 32. Trámites después del ingreso.
 
@@ -642,13 +605,11 @@ En estos casos, el director del centro recabará del juez de menores, dentro de 
 
 6. Los menores recibirán, en el momento de su ingreso en el centro, información escrita sobre sus derechos y obligaciones, el régimen de internamiento en el que se encuentran, las cuestiones de organización general, las normas de funcionamiento del centro, las normas disciplinarias y los medios para formular peticiones, quejas o recursos. La información se les facilitará en un idioma que entiendan. A los que tengan cualquier género de dificultad para comprender el contenido de esta información, se les explicará por otro medio adecuado.
 
-
 #### Artículo 33. Grupos de separación interior.
 
 1. Los centros estarán divididos en módulos adecuados a la edad, madurez, necesidades y habilidades sociales de los menores internados y se regirán por una normativa de funcionamiento interno cuyo cumplimiento tendrá como finalidad la consecución de una convivencia ordenada, que permita la ejecución de los diferentes programas de intervención educativa y las funciones de custodia de los menores internados.
 
 2. Los menores que por cualquier circunstancia personal requieran de una protección especial estarán separados de aquellos que les puedan poner en situación de riesgo o de peligro mediante su traslado bien a otro módulo del mismo centro, bien a otro centro, previa autorización del juez de menores en este último caso.
-
 
 #### Artículo 34. Internamiento de madres con hijos menores.
 
@@ -665,7 +626,6 @@ d) Lo autorice el juez de menores.
 2. Los posibles conflictos que surjan entre los derechos del hijo y los de la madre originados por el internamiento en el centro se resolverán por el juez de menores, con independencia de lo que acuerde respecto al hijo la autoridad competente.
 
 3. Admitido el niño en el centro de internamiento, deberá ser reconocido por el médico del centro y, salvo que este dispusiera otra cosa, pasará a ocupar con su madre la habitación que se le asigne, que será en todo caso individual y acondicionada a las necesidades del niño.
-
 
 #### Artículo 35. Traslados.
 
@@ -689,7 +649,6 @@ fundado para la vida o la integridad física de las personas o para los bienes.
 
 En todo caso, los desplazamientos, conducciones y traslados se realizarán respetando la dignidad, la seguridad y la intimidad de los menores.
 
-
 #### Artículo 36. Adopción y cumplimiento de la decisión sobre la libertad del menor.
 
 1. La libertad de los menores internados solamente podrá ser acordada por resolución de la autoridad judicial competente remitida a la entidad pública o por cumplimiento de la fecha aprobada por el juez en la liquidación de la medida.
@@ -700,7 +659,6 @@ En todo caso, los desplazamientos, conducciones y traslados se realizarán respe
 
 Cuando el mandamiento de libertad se refiera a un menor de edad, el centro lo comunicará inmediatamente a sus representantes legales para que se hagan cargo de él, y de no ser localizados, se pondrá a disposición de la entidad pública de protección de menores a los efectos oportunos.
 
-
 #### Artículo 37. Asistencia escolar y formativa.
 
 1. La entidad pública y el organismo que en el respectivo territorio tenga atribuida la competencia en la materia adoptarán las medidas oportunas para garantizar el derecho de los menores internados a recibir la enseñanza básica obligatoria que legalmente le corresponda, cualquiera que sea su situación en el centro. También facilitarán a los menores el acceso a los otros estudios que componen los diferentes niveles del sistema educativo y otras enseñanzas no regladas que contribuyan a su desarrollo personal y sean adecuadas a sus circunstancias.
@@ -710,7 +668,6 @@ Cuando el mandamiento de libertad se refiera a un menor de edad, el centro lo co
 3. El organismo que en el territorio de residencia del menor tenga atribuidas las competencias en materia de educación garantizará la incorporación inmediata del menor que haya sido puesto en libertad y que se encuentre en el período de la enseñanza básica obligatoria al centro docente que le corresponda. Con esta finalidad, la entidad pública comunicará esta circunstancia y la documentación escolar correspondiente al citado organismo.
 
 4. Los certificados y diplomas de estudio, expediente académico y libros de escolaridad no han de indicar, en ningún caso, que se han tramitado o conseguido en un centro para menores infractores.
-
 
 #### Artículo 38. Asistencia sanitaria.
 
@@ -726,7 +683,6 @@ Cuando el mandamiento de libertad se refiera a un menor de edad, el centro lo co
 
 6. De conformidad con lo previsto en la disposición adicional única, el director del centro en el que se encuentre internado el menor podrá solicitar a la autoridad competente que la vigilancia y custodia del menor, durante su permanencia en el centro sanitario, se lleve a cabo por las Fuerzas y Cuerpos de Seguridad cuando exista riesgo fundado para la vida o la integridad física de las personas o para las instalaciones sanitarias.
 
-
 #### Artículo 39. Asistencia religiosa.
 
 1. Todos los menores internados tendrán derecho a dirigirse a una confesión religiosa registrada, de conformidad con lo previsto por la legislación vigente.
@@ -734,7 +690,6 @@ Cuando el mandamiento de libertad se refiera a un menor de edad, el centro lo co
 2. Ningún menor internado podrá ser obligado a asistir o participar en los actos de una confesión religiosa.
 
 3. La entidad pública facilitará que los menores puedan respetar la alimentación, los ritos y las fiestas de su propia confesión, siempre que sea compatible con los derechos fundamentales de los otros internos y no afecte a la seguridad del centro y al desarrollo de la vida en el centro.
-
 
 #### Artículo 40. Comunicaciones y visitas de familiares y de otras personas.
 
@@ -759,7 +714,6 @@ En ambos casos, la suspensión cautelar acordada por el director debe ser comuni
 8. Los menores que durante un plazo superior a un mes no disfruten de ninguna salida de fin de semana o de permisos ordinarios de salida tendrán derecho, previa solicitud al centro, a comunicaciones íntimas con su cónyuge o con persona ligada por análoga relación de afectividad, siempre que dicha relación quede acreditada. Como mínimo se autorizará una comunicación al mes, de una duración mínima de una hora. Estas comunicaciones se llevarán a cabo en dependencias adecuadas del centro y respetando al máximo la intimidad de los comunicantes.
 
 9. En todos los centros se llevará un libro de visitas en el que queden registrados la fecha de la visita, el nombre del interno, el nombre del visitante, su dirección y documento nacional de identidad, así como el parentesco o relación que tiene con el interno.
-
 
 #### Artículo 41. Comunicaciones con el juez, el Ministerio Fiscal, el abogado y con otros profesionales y autoridades.
 
@@ -787,13 +741,11 @@ Las comunicaciones del menor con su abogado o procurador no podrán ser suspendi
 
 9. Todas las autoridades y funcionarios a que hace mención este artículo deberán acreditarse convenientemente al personal de seguridad del centro.
 
-
 #### Artículo 42. Comunicaciones telefónicas.
 
 1. Los menores podrán efectuar y recibir comunicaciones telefónicas de sus padres, representantes legales y familiares, dentro del horario establecido en el centro. Para recibir y efectuar comunicaciones con otras personas o fuera del horario establecido, se requerirá la previa autorización del director.
 
 2. El número mínimo de llamadas que podrán efectuar los menores será el de dos por semana con derecho a una duración mínima de 10 minutos. El abono de las llamadas correrá a cargo del menor internado, de acuerdo con las tarifas vigentes, salvo que la entidad pública establezca lo contrario en atención a las circunstancias del menor o al objeto de la llamada.
-
 
 #### Artículo 43. Comunicaciones escritas.
 
@@ -805,7 +757,6 @@ Las comunicaciones del menor con su abogado o procurador no podrán ser suspendi
 
 4. Los menores deberán cerrar la correspondencia que envíen en presencia del personal designado por la dirección del centro, con la única finalidad de comprobar que no contiene objetos y sustancias prohibidos o que no les pertenecen legítimamente.
 
-
 #### Artículo 44. Paquetes y encargos.
 
 Los menores podrán enviar y recibir paquetes sin ningún tipo de limitación, salvo prohibición expresa del juez.
@@ -813,7 +764,6 @@ Los menores podrán enviar y recibir paquetes sin ningún tipo de limitación, s
 El contenido de los que se pretendan enviar o el de los recibidos será revisado en su presencia para comprobar que lo enviado pertenece legítimamente al menor y para evitar, en los recibidos, la entrada de objetos o sustancias prohibidos o en deficientes condiciones higiénicas.
 
 La recepción de paquetes dirigidos a los menores internados se llevará a cabo previa comprobación de la identidad de quien lo deposita.
-
 
 #### Artículo 45. Permisos de salida ordinarios.
 
@@ -845,7 +795,6 @@ La dirección del centro o el órgano que la entidad pública haya establecido e
 
 7. Los menores internados por sentencia firme en régimen cerrado, una vez cumplido el primer tercio del período de internamiento, cuando la buena evolución personal durante la ejecución de la medida lo justifique y ello favorezca el proceso de reinserción social, y cumplan los requisitos establecidos en el apartado 4, podrán disfrutar de hasta 12 días de permiso al año, con una duración máxima de hasta cuatro días, cuando el juez de menores competente lo autorice.
 
-
 #### Artículo 46. Salidas de fin de semana.
 
 1. Podrán disfrutar de salidas de fin de semana los menores internados por sentencia firme en régimen abierto y semiabierto, siempre que concurran los requisitos establecidos en este artículo y en el apartado 4 del artículo anterior.
@@ -864,7 +813,6 @@ Como regla general, los internados en régimen semiabierto podrán disfrutar de 
 
 7. Los menores internados por sentencia firme en régimen cerrado, una vez cumplido el primer tercio del periodo de internamiento, cuando la buena evolución personal durante la ejecución de la medida lo justifique y ello favorezca el proceso de reinserción social, podrán disfrutar de una salida de fin de semana al mes, siempre que cumplan los requisitos de este artículo y el juez de menores competente lo autorice.
 
-
 #### Artículo 47. Permisos extraordinarios.
 
 1. En caso de fallecimiento o enfermedad grave de los padres, cónyuge, hijos, hermanos u otras personas íntimamente vinculadas con los menores o de nacimiento de un hijo, así como por importantes y comprobados motivos de análoga naturaleza, se concederán, con las medidas de seguridad adecuadas en su caso, permisos de salida extraordinarios, salvo que concurran circunstancias excepcionales que lo impidan.
@@ -874,7 +822,6 @@ Como regla general, los internados en régimen semiabierto podrán disfrutar de 
 3. La concesión del permiso compete al director del centro o al órgano que la entidad pública haya establecido en su normativa.
 
 4. De la concesión de permisos extraordinarios se dará cuenta al juez de menores competente. Cuando se trate de menores internados en régimen cerrado, será necesaria su autorización expresa.
-
 
 #### Artículo 48. Salidas programadas.
 
@@ -892,18 +839,15 @@ También podrán programarse en días laborales siempre que sean compatibles con
 
 6. Los menores internados por sentencia firme en régimen cerrado, una vez cumplido el primer tercio del periodo de internamiento, cuando la buena evolución personal durante la ejecución de la medida lo justifique y ello favorezca el proceso de integración social, podrán disfrutar de salidas programadas de acuerdo con lo establecido en este artículo, cuando el juez de menores competente lo autorice.
 
-
 #### Artículo 49. Salidas y permisos de menores sometidos a medida cautelar de internamiento.
 
 La autorización de cualquier permiso o salida a los menores sometidos a medida cautelar de internamiento se someterá al mismo régimen que el previsto cuando se imponga por sentencia.
-
 
 #### Artículo 50. Salidas y permisos de menores en internamiento terapéutico.
 
 1. Las salidas, permisos y comunicaciones con el exterior de los menores sometidos a internamiento terapéutico se autorizarán, en el marco del programa individual de tratamiento, por el juez de menores en los términos previstos en el artículo 44 de la Ley Orgánica 5/2000, de 12 de enero, reguladora de la responsabilidad penal de los menores.
 
 2. Las salidas, permisos y comunicaciones con el exterior podrán ser dejadas sin efecto por el juez de menores, conforme prevé el artículo 44 de la Ley Orgánica 5/2000, de 12 de enero, reguladora de la responsabilidad penal de los menores, en cualquier momento, si el menor incumple las condiciones.
-
 
 #### Artículo 51. Domicilio durante las salidas y permisos.
 
@@ -915,13 +859,11 @@ La autorización de cualquier permiso o salida a los menores sometidos a medida 
 
 4. Los menores que disfruten de salidas o permisos indicarán un domicilio a efectos de poder ser localizados en caso necesario.
 
-
 #### Artículo 52. Suspensión y revocación de permisos y salidas.
 
 1. Cuando antes de iniciarse el disfrute de un permiso ordinario, de un permiso extraordinario o de las salidas a los que hacen referencia los artículos 45, 46, 47 y 48 se produzcan hechos que modifiquen las circunstancias que propiciaron su concesión, la entidad pública podrá suspenderlos motivadamente. Si el permiso o la salida se hubiese autorizado por el juez de menores, la suspensión tendrá carácter provisional y se pondrá inmediatamente en conocimiento del juez para que resuelva lo que proceda.
 
 2. El permiso o la salida quedará sin efecto desde el momento en que el menor se vea imputado en un nuevo hecho constitutivo de infracción penal.
-
 
 #### Artículo 53. Trabajo.
 
@@ -952,7 +894,6 @@ b) A los trabajadores menores de 18 años se les aplicarán las normas siguiente
 6.ª En su caso, se podrán establecer reglamentariamente otras especialidades que se consideren necesarias en relación con la normativa existente para los penados.
 
 5. En todo caso, el trabajo que realicen los internos tendrá como finalidad esencial su inserción laboral, así como su incorporación al mercado de trabajo. A estos efectos, la práctica laboral se complementará con cursos de formación profesional ocupacional u otros programas que mejoren su competencia y capacidad laboral y favorezcan su futura inserción laboral.
-
 
 #### Artículo 54. Vigilancia y seguridad.
 
@@ -985,7 +926,6 @@ e) Si el resultado del registro con desnudo integral fuese infructuoso y persist
 8. La entidad pública podrá autorizar, en aquellos centros donde la necesidad de seguridad así lo requiera, el servicio de personal especializado, en funciones de vigilancia y de apoyo a las actuaciones de los trabajadores del centro previstas en los apartados anteriores de este artículo. Este personal dependerá funcionalmente del director del centro y no podrá portar ni utilizar dentro del centro otros medios que los contemplados en el artículo 55.2.
 
 9. Cuando exista riesgo inminente de graves alteraciones del orden con peligro para la vida o la integridad física de las personas o para las instalaciones, la entidad pública o el director del centro podrá solicitar la intervención de las Fuerzas y Cuerpos de Seguridad competentes en cada territorio.
-
 
 #### Artículo 55. Medios de contención.
 
@@ -1023,7 +963,6 @@ Asimismo, comunicará inmediatamente al juez de menores la adopción y cese de t
 
 8. En los casos de graves alteraciones del orden con peligro inminente para la vida, la integridad física de las personas o para las instalaciones, la entidad pública o el director del centro podrán solicitar el auxilio de las Fuerzas y Cuerpos de Seguridad que en cada territorio tenga atribuida la competencia, dando cuenta inmediata al juzgado de menores y al Ministerio Fiscal.
 
-
 #### Artículo 56. Informaciones.
 
 1. Todos los menores internados tienen derecho a recibir de la entidad pública, con la periodicidad adecuada y, en todo caso, siempre que lo requieran, información personal y actualizada de sus derechos y deberes, previstos en los artículos 56 y 57 de la Ley Orgánica 5/2000, de 12 de enero, reguladora de la responsabilidad penal de los menores. Dicha información será explicada de forma que se garantice su comprensión, en atención a la edad y a las circunstancias del menor.
@@ -1036,7 +975,6 @@ Salvo prohibición judicial expresa, esta información será facilitada cuando l
 
 4. El menor ha de ser informado sin dilación de la defunción, accidente o enfermedad grave de un pariente cercano o de otra persona íntimamente vinculada con él, y de cualquier otra noticia importante comunicada por la familia.
 
-
 #### Artículo 57. Peticiones, quejas y tramitación de recursos.
 
 1. Todos los menores internados y, en su caso, sus representantes legales podrán formular, verbalmente o por escrito, en sobre abierto o cerrado, peticiones y quejas a la entidad pública o al director del centro, sobre cuestiones referentes a su situación de internamiento, que serán atendidas cuando correspondan al ámbito propio de sus competencias. En caso contrario, el director del centro o la entidad pública harán llegar las presentadas, en el plazo más breve posible, a la autoridad u organismo competente.
@@ -1046,7 +984,6 @@ Salvo prohibición judicial expresa, esta información será facilitada cuando l
 3. Las peticiones y quejas que presenten los menores a través del centro o la entidad pública serán registradas. La tramitación que se le haya dado y, en su caso, la resolución adoptada se comunicará al menor, con indicación de los recursos que procedan.
 
 4. Los recursos que de conformidad con lo dispuesto en el artículo 52.1 de la Ley Orgánica 5/2000, de 12 de enero, reguladora de la responsabilidad penal de los menores, interponga el menor contra cualquier resolución dictada para la ejecución de las medidas, que fueran presentados por el menor o por su letrado de forma escrita al director del centro, se pondrán en conocimiento del juez de menores competente dentro del siguiente día hábil. Si el menor manifestara al director del centro, de forma verbal, su intención de recurrir la resolución dictada, el director dará traslado de esta manifestación al juez de menores, dentro del plazo indicado anteriormente, y, en su caso, dará cumplimiento a las medidas que adopte el juez para oír la alegación del menor.
-
 
 #### Artículo 58. Inspección de centros.
 
@@ -1060,7 +997,6 @@ CAPÍTULO IV
 
 Del régimen disciplinario de los centros
 
-
 #### Artículo 59. Fundamento y ámbito de aplicación.
 
 1. El régimen disciplinario de los centros tendrá como finalidad contribuir a la seguridad y convivencia ordenada en estos y estimular el sentido de la responsabilidad y la capacidad de autocontrol de los menores internados.
@@ -1068,7 +1004,6 @@ Del régimen disciplinario de los centros
 2. El régimen disciplinario se aplicará a todos los menores que cumplan medidas de internamiento en régimen cerrado, abierto o semiabierto, y terapéuticos, sin perjuicio de lo dispuesto en el apartado siguiente, bien en centros propios o colaboradores, tanto dentro del centro como durante los traslados, conducciones o salidas autorizadas que aquellos realicen.
 
 3. El régimen disciplinario previsto en este capítulo no será aplicable a aquellos menores a los que se haya impuesto una medida de internamiento terapéutico como consecuencia de una anomalía o alteración psíquica o de una alteración en la percepción que les impida comprender la ilicitud de los hechos o actuar conforme a aquella comprensión, mientras se mantengan en tal estado.
-
 
 #### Artículo 60. Principios de la potestad disciplinaria.
 
@@ -1084,11 +1019,9 @@ Del régimen disciplinario de los centros
 
 6. Aquellos hechos que pudiesen ser constitutivos de infracción penal podrán ser también sancionados disciplinariamente cuando el fundamento de esta sanción, que ha de ser distinto del de la penal, sea la seguridad y el buen orden del centro. En estos casos, los hechos serán puestos en conocimiento del Ministerio Fiscal y de la autoridad judicial competente, sin perjuicio de que continúe la tramitación del expediente disciplinario hasta su resolución e imposición de la sanción si procediera.
 
-
 #### Artículo 61. Clasificación de las faltas disciplinarias.
 
 Las faltas disciplinarias se clasifican en muy graves, graves y leves, atendiendo a la violencia desarrollada por el sujeto, su intencionalidad, la importancia del resultado y el número de personas ofendidas.
-
 
 #### Artículo 62. Faltas muy graves.
 
@@ -1111,7 +1044,6 @@ h) Introducir o poseer en el centro armas u objetos prohibidos por su peligro pa
 i) Inutilizar deliberadamente las dependencias, materiales o efectos del centro o las pertenencias de otras personas, causando daños y perjuicios superiores a 300 euros.
 
 j) Sustraer materiales o efectos del centro o pertenencias de otras personas.
-
 
 #### Artículo 63. Faltas graves.
 
@@ -1143,7 +1075,6 @@ l) Autolesionarse como medida reivindicativa o simular lesiones o enfermedades p
 
 m) Incumplir las condiciones y medidas de control establecidas en las salidas autorizadas.
 
-
 #### Artículo 64. Faltas leves.
 
 Son faltas leves:
@@ -1159,7 +1090,6 @@ d) Causar daños y perjuicios de cuantía elevada a las dependencias materiales 
 e) Alterar el orden promoviendo altercados o riñas con compañeros de internamiento.
 
 f) Cualquier otra acción u omisión que implique incumplimiento de las normas de funcionamiento del centro y no tenga consideración de falta grave o muy grave.
-
 
 #### Artículo 65. Sanciones disciplinarias.
 
@@ -1195,7 +1125,6 @@ b) La amonestación.
 
 5. A los menores que cumplan en el centro medidas de permanencia de fin de semana se les impondrán las sanciones correspondientes a la naturaleza de la infracción cometida adaptando su duración a la naturaleza y duración de la medida indicada.
 
-
 #### Artículo 66. Sanción de separación.
 
 1. La sanción de separación por la comisión de faltas muy graves o faltas graves solamente se podrá imponer en los casos en los que se manifieste una evidente agresividad o violencia por parte del menor, o cuando este, reiterada y gravemente, altere la normal convivencia en el centro.
@@ -1208,13 +1137,11 @@ b) La amonestación.
 
 5. No obstante lo anterior, la sanción de separación de grupo no se aplicará a las menores embarazadas, a las menores hasta que hayan transcurrido seis meses desde la finalización del embarazo, a las madres lactantes y a las que tengan hijos en su compañía. Tampoco se aplicará a los menores enfermos y se dejará sin efecto en el momento en que se aprecie que esta sanción afecta a su salud física o mental.
 
-
 #### Artículo 67. Graduación de las sanciones
 
 1. La determinación de las sanciones y su duración se llevará a efecto de acuerdo al principio de la proporcionalidad, atendiendo a las circunstancias del menor, la naturaleza de los hechos, la violencia o agresividad mostrada en la comisión de los hechos, la intencionalidad, la perturbación producida en la convivencia del centro, la gravedad de los daños y perjuicios ocasionados, el grado de ejecución y de participación y la reincidencia en otras faltas disciplinarias.
 
 2. Atendiendo a la escasa relevancia de la falta disciplinaria, a la evolución del interno en el cumplimiento de la medida, al reconocimiento por el menor de la comisión de la infracción y a la incidencia de la intervención educativa realizada para expresarle el reproche merecido por su conducta infractora, podrá imponerse al autor de una falta disciplinaria muy grave una sanción establecida para faltas disciplinarias graves y al autor de una falta disciplinaria grave una sanción prevista para las faltas disciplinarias leves.
-
 
 #### Artículo 68. Concurso de infracciones y normas para el cumplimiento de las sanciones.
 
@@ -1230,18 +1157,15 @@ c) Más de dos meses privado de salidas programadas de carácter recreativo.
 
 d) Más de 15 días privado de todas las actividades recreativas del centro.
 
-
 #### Artículo 69. Pluralidad de faltas e infracción continuada.
 
 1. Cuando un mismo hecho sea constitutivo de dos o más faltas o cuando una de estas sea medio necesario para la comisión de otra, se impondrá al menor una sola sanción teniendo en cuenta la más grave de las faltas cometidas.
 
 2. Cuando se trate de una infracción continuada, se impondrá al menor una sola sanción teniendo en cuenta la más grave de las faltas cometidas.
 
-
 #### Artículo 70. Necesidad de procedimientos sancionadores.
 
 Para la imposición de sanciones por faltas graves y muy graves será preceptiva la observancia del procedimiento regulado en los artículos 71 a 78, y para las sanciones impuestas por faltas leves podrá seguirse el procedimiento abreviado previsto en el artículo 79.
-
 
 #### Artículo 71. Procedimiento ordinario: inicio.
 
@@ -1258,7 +1182,6 @@ d) Por denuncia de persona identificada.
 2. El órgano competente para la iniciación designará el instructor que considere conveniente, excluyendo a las personas que pudieran estar relacionadas con los hechos.
 
 3. Para el debido esclarecimiento de los hechos que pudieran ser determinantes de responsabilidad disciplinaria, el órgano competente podrá acordar la apertura de una información previa, que se practicará por el órgano administrativo o la persona que aquel determine.
-
 
 #### Artículo 72. Instrucción y pliego de cargos.
 
@@ -1290,7 +1213,6 @@ c) Al menor extranjero que desconozca el castellano o la lengua cooficial de la 
 
 3. Por el instructor se admitirán verbalmente las pruebas propuestas por el menor o se rechazarán motivadamente por escrito las que fueran improcedentes, por no poder alterar la resolución final del procedimiento o por ser de imposible realización.
 
-
 #### Artículo 73. Tramitación.
 
 1. Notificado el pliego de cargos, el instructor realizará cuantas actuaciones resulten necesarias para el examen de los hechos y recabará los datos e informes que considere necesarios.
@@ -1301,11 +1223,9 @@ c) Al menor extranjero que desconozca el castellano o la lengua cooficial de la 
 
 4. Una vez finalizado el trámite de alegaciones y de la práctica de la prueba, el instructor, inmediatamente y en todo caso en el plazo de 24 horas, formulará la propuesta de resolución, que notificará al interno con indicación de los hechos imputados, la falta cometida y la sanción que deba imponerse, para que en el término de 24 horas pueda formular las alegaciones que considere procedentes. Una vez completado este trámite, el instructor elevará el expediente al órgano competente para que dicte la resolución correspondiente.
 
-
 #### Artículo 74. Resolución.
 
 El órgano competente, en el mismo día o como máximo en el plazo de 24 horas, habrá de resolver motivadamente sobre el sobreseimiento del expediente, la imposición de la sanción disciplinaria correspondiente o la práctica de nuevas actuaciones por parte del instructor. En este último caso, se estará a lo dispuesto en los artículos anteriores.
-
 
 #### Artículo 75. Acuerdo sancionador.
 
@@ -1333,23 +1253,19 @@ En la resolución se adoptarán, en su caso, las disposiciones cautelares precis
 
 3. La iniciación del procedimiento y las sanciones impuestas se anotarán en el expediente personal del menor sancionado. También se anotará la reducción o revocación de la sanción, así como la suspensión de su efectividad.
 
-
 #### Artículo 76. Notificación de la resolución
 
 1. La notificación al menor del acuerdo sancionador deberá hacerse el mismo día o en el plazo máximo de 24 horas de ser adoptado, dando lectura íntegra de aquel y entregándole una copia.
 
 2. Asimismo, se notificará en igual plazo al Ministerio Fiscal y, en su caso, al letrado del menor.
 
-
 #### Artículo 77. Caducidad.
 
 Transcurrido el plazo máximo de un mes desde la iniciación del procedimiento disciplinario sin que la resolución se hubiera notificado al menor expedientado, se entenderá caducado el procedimiento disciplinario y se procederá al archivo de las actuaciones, siempre que la demora no fuera imputable al interesado.
 
-
 #### Artículo 78. Recursos.
 
 Las resoluciones sancionadoras podrán ser recurridas, antes del inicio del cumplimiento, ante el juez de menores, verbalmente en el mismo acto de la notificación o por escrito dentro del plazo de 24 horas, por el propio interesado o por su letrado, actuándose de conformidad con el artículo 60.7 de la Ley Orgánica 5/2000, de 12 de enero, reguladora de la responsabilidad penal de los menores.
-
 
 #### Artículo 79. Procedimiento abreviado.
 
@@ -1363,7 +1279,6 @@ c) Transcurrido el plazo anterior, el órgano competente resolverá lo que proce
 
 d) En todo caso, este procedimiento se documentará debidamente.
 
-
 #### Artículo 80. Medidas cautelares durante el procedimiento.
 
 1. El órgano competente para iniciar el procedimiento, por sí o a propuesta del instructor del expediente disciplinario, podrá acordar en cualquier momento del procedimiento, mediante acuerdo motivado, las medidas cautelares que resulten necesarias para asegurar la eficacia de la resolución que pudiera recaer y el buen fin del procedimiento, así como para evitar la persistencia de los efectos de la infracción y asegurar la integridad del expedientado y de otros posibles afectados. Las únicas medidas cautelares que se podrán adoptar serán las previstas como sanción en el artículo 65 para la presunta falta cometida.
@@ -1374,13 +1289,11 @@ d) En todo caso, este procedimiento se documentará debidamente.
 
 4. Las medidas cautelares no podrán exceder del tiempo máximo que corresponda a la sanción prevista, en función de la gravedad de la falta, en el artículo 65.
 
-
 #### Artículo 81. Ejecución y cumplimiento de las sanciones.
 
 Los acuerdos sancionadores no se harán efectivos en tanto no haya sido resuelto el recurso interpuesto, o en caso de que no se haya interpuesto, hasta que haya transcurrido el plazo para su impugnación, sin perjuicio de las medidas cautelares previstas en el artículo anterior.
 
 Durante la sustanciación del recurso, en el plazo de dos días, la entidad pública ejecutora de la medida podrá adoptar las decisiones precisas para restablecer el orden alterado de acuerdo con lo previsto en el artículo 60.7 de la Ley Orgánica 5/2000, de 12 de enero, reguladora de la responsabilidad penal de los menores.
-
 
 #### Artículo 82. Reducción, suspensión y anulación de sanciones.
 
@@ -1388,13 +1301,11 @@ Durante la sustanciación del recurso, en el plazo de dos días, la entidad púb
 
 2. Las medidas anteriores no podrán adoptarse sin autorización del juez de menores cuando este haya intervenido en su imposición por vía de recurso.
 
-
 #### Artículo 83. Extinción automática de sanciones.
 
 1. Cuando un menor ingrese nuevamente en un centro para la ejecución de otra medida, se extinguirán automáticamente la sanción o sanciones que hubiesen sido impuestas en un ingreso anterior y que hubiesen quedado incumplidas total o parcialmente.
 
 2. En caso de traslado de centro, el menor continuará el cumplimiento de las sanciones impuestas en el centro anterior, sin perjuicio de lo dispuesto en el anterior artículo.
-
 
 #### Artículo 84. Prescripción de faltas y sanciones.
 
@@ -1404,11 +1315,9 @@ Durante la sustanciación del recurso, en el plazo de dos días, la entidad púb
 
 3. Las sanciones impuestas por faltas muy graves, graves y leves prescriben, respectivamente, en los mismos plazos señalados en el apartado 1. El plazo de prescripción empieza a contar desde el día siguiente a aquel en que adquiera firmeza el acuerdo sancionador o desde que se levante el aplazamiento de la ejecución o la suspensión de la efectividad, o desde que se interrumpa el cumplimiento de la sanción si este hubiese ya comenzado.
 
-
 #### Artículo 85. Incentivos.
 
 Los actos del menor que pongan de manifiesto buena conducta, espíritu de trabajo y sentido de la responsabilidad en el comportamiento personal y colectivo, así como la participación positiva en las actividades derivadas del proyecto educativo, podrán ser incentivados por la entidad pública con cualquier recompensa que no resulte incompatible con la ley y los preceptos de este reglamento.
-
 
 #### Disposición adicional única. Actuaciones policiales de vigilancia, custodia y traslado.
 

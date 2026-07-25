@@ -27,11 +27,10 @@ fundamentos_derecho:
   - '1'
   - '2.1'
 ---
+
 # Ley 1/1991, de 7 de enero, de modificación de los Códigos Civil y Penal en materia de responsabilidad civil del profesorado.
 
-
 **JUAN CARLOS I**
-
 
 **REY DE ESPAÑA**
 
@@ -43,7 +42,6 @@ El régimen de responsabilidad que para los profesores y maestros establecen los
 
 Ello induce a modificar el régimen de responsabilidad a fin de establecer que quien responda de los daños ocasionados por sus alumnos sean las personas o entidades titulares de los centros, que son quienes deben adoptar las correspondientes medidas de organización, sin perjuicio de que en supuestos tasados, y a ello obedece la reforma del artículo 1.904 del Código Civil, el titular puede reclamar al personal docente la cantidad satisfecha.
 
-
 #### Artículo 1.
 
 Se modifica el artículo 22 del Código Penal, que queda redactado del modo siguiente:
@@ -52,13 +50,11 @@ Se modifica el artículo 22 del Código Penal, que queda redactado del modo sigu
 
 Igualmente, será extensiva dicha responsabilidad subsidiaria a las personas o entidades que sean titulares de un Centro docente de enseñanza no superior, por los delitos o faltas en que hubiesen incurrido los alumnos del mismo, menores de dieciocho años, durante los periodos en que dichos alumnos se hallen bajo el control o vigilancia del profesorado del Centro, desarrollando actividades escolares o extraescolares y complementarias.»
 
-
 #### Artículo 2.
 
 Se suprime el párrafo quinto del artículo 1.903 del Código Civil. El párrafo sexto de dicho artículo queda redactado en los siguientes términos:
 
 «Las personas o entidades que sean titulares de un Centro docente de enseñanza no superior responderán por los daños y perjuicios que causen sus alumnos menores de edad durante los períodos de tiempo en que los mismos se hallen bajo el control o vigilancia del profesorado del Centro, desarrollando actividades escolares o extraescolares y complementarias.»
-
 
 #### Artículo 3.
 

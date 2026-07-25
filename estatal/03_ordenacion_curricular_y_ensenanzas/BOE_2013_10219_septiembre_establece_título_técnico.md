@@ -55,13 +55,11 @@ En el proceso de elaboración de este real decreto han sido consultadas las Comu
 
 En su virtud, a propuesta del Ministro de Educación, Cultura y Deporte y previa deliberación del Consejo de Ministros en su reunión del día 6 de septiembre de 2013,
 
-
 **DISPONGO:**
 
 CAPÍTULO I
 
 Objeto
-
 
 #### Artículo 1. Objeto.
 
@@ -75,7 +73,6 @@ CAPÍTULO II
 
 Identificación del título y organización de las enseñanzas
 
-
 #### Artículo 2. Identificación del título de Técnico Deportivo en Atletismo.
 
 El título de Técnico Deportivo en Atletismo queda identificado por los siguientes elementos:
@@ -88,7 +85,6 @@ c) Duración: 1.005 horas.
 
 d) Referente Internacional: CINE-3 (Clasificación Internacional Normalizada de Educación).
 
-
 #### Artículo 3. Organización de las enseñanzas conducentes al título de Técnico Deportivo en Atletismo.
 
 Las enseñanzas conducentes al Título de Técnico Deportivo en Atletismo se organizan en dos ciclos:
@@ -96,7 +92,6 @@ Las enseñanzas conducentes al Título de Técnico Deportivo en Atletismo se org
 a) Ciclo inicial de grado medio en atletismo, teniendo una duración de 430 horas.
 
 b) Ciclo final de grado medio en atletismo, teniendo una duración de 575 horas.
-
 
 #### Artículo 4. Especializaciones del título de Técnico Deportivo en Atletismo.
 
@@ -112,16 +107,13 @@ CAPÍTULO III
 
 Perfil profesional y entorno profesional, personal y laboral deportivo de los ciclos
 
-
 #### Artículo 5. Perfil profesional de los ciclos de grado medio en atletismo.
 
 El perfil profesional del ciclo inicial y final de grado medio en atletismo queda determinado por su competencia general, sus competencias profesionales, personales y sociales, por la relación de cualificaciones y en su caso, unidades de competencia del Catálogo Nacional de Cualificaciones Profesionales incluidas en el título y el entorno profesional, laboral y deportivo.
 
-
 #### Artículo 6. Competencia general del ciclo inicial de grado medio en atletismo.
 
 La competencia general del ciclo inicial de grado medio en atletismo consiste en dinamizar, instruir y concretar la iniciación deportiva en atletismo; organizar, acompañar y tutelar a los atletas durante su participación en actividades, competiciones y eventos propios de este nivel; y todo ello conforme a las directrices establecidas en la programación de referencia, en condiciones de seguridad y con el nivel óptimo de calidad que permita la satisfacción de los atletas en la actividad.
-
 
 #### Artículo 7. Competencias profesionales, personales y sociales del ciclo inicial de grado medio en atletismo.
 
@@ -157,7 +149,6 @@ n) Mantener el espíritu de responsabilidad individual, esfuerzo personal e inno
 
 ñ) Mantener la iniciativa y autonomía dentro del trabajo en equipo para el desempeño de sus funciones.
 
-
 #### Artículo 8. Entorno profesional, laboral y deportivo del ciclo inicial de grado medio en atletismo.
 
 1. Este profesional desarrolla su actividad profesional tanto en el ámbito público, ya sea la Administración General del Estado, las Administraciones Autonómicas o Locales, como en entidades de carácter privado, ya sean grandes, medianas o pequeñas empresas, en patronatos deportivos, entidades deportivas municipales, federaciones y clubes deportivos y sociales, escuelas de atletismo, centros de iniciación deportiva, centros educativos, empresas de servicios deportivos, campus de atletismo, etc. que ofrezcan actividades deportivo-recreativas de descubrimiento e iniciación al atletismo.
@@ -172,11 +163,9 @@ b) Auxiliar de competiciones de atletismo.
 
 4. El desarrollo de estas ocupaciones y puestos de trabajo en el ámbito público se realizará de acuerdo a los principios y requisitos de acceso al empleo público previstos en la normativa vigente.
 
-
 #### Artículo 9. Competencia general del ciclo final de grado medio en atletismo.
 
 La competencia general del ciclo final de grado medio en atletismo consiste en adaptar, dirigir y dinamizar el entrenamiento básico y el perfeccionamiento técnico en la etapa de tecnificación deportiva en atletismo; organizar, acompañar y tutelar a los atletas durante su participación en actividades, competiciones y eventos propios de este nivel; gestionar los recursos materiales necesarios y coordinar las actividades de los técnicos a su cargo; organizar actividades, competiciones y eventos del nivel de iniciación deportiva; todo ello conforme a las directrices establecidas en la programación de referencia, en condiciones de seguridad y con el nivel optimo de calidad que permita la satisfacción de los atletas participantes en la actividad.
-
 
 #### Artículo 10. Competencias profesionales, personales y sociales propias del sistema deportivo del ciclo final de grado medio en atletismo.
 
@@ -210,7 +199,6 @@ m) Mantener la iniciativa y autonomía dentro del trabajo en equipo para el dese
 
 n) Adaptar y dirigir la sesión de iniciación en atletismo de acuerdo a las necesidades de los atletas con discapacidad y la programación de referencia, para conseguir la participación conforme a los objetivos propuestos de la misma, y dentro de las normas medioambientales y los márgenes de seguridad permitidos.
 
-
 #### Artículo 11. Entorno profesional, laboral y deportivo del ciclo final de grado medio en atletismo.
 
 1. Este profesional desarrolla su actividad profesional tanto en el ámbito público, ya sea la Administración General del Estado, las administraciones autonómicas o locales, como en entidades de carácter privado, ya sean grandes, medianas o pequeñas empresas, en patronatos deportivos, entidades deportivas municipales, federaciones, centros de tecnificación, clubes deportivos y sociales, centros educativos, empresas de servicios deportivos, campus de atletismo, que ofrezcan actividades deportivo-recreativas de guiado y tecnificación en Atletismo.
@@ -228,7 +216,6 @@ b) Coordinador de escuela deportiva en atletismo, etc.
 CAPÍTULO IV
 
 Estructura de las enseñanzas de cada uno de los ciclos de enseñanza deportiva conducentes al título de Técnico Deportivo en Atletismo
-
 
 #### Artículo 12. Estructura de los ciclos inicial y final de grado medio de atletismo.
 
@@ -290,21 +277,17 @@ MED-ATAT208: Formación práctica.
 
 5. Los objetivos generales y los módulos enseñanza deportiva de los ciclos inicial y final de grado medio en atletismo quedan desarrollados en los anexos II y III del presente real decreto.
 
-
 #### Artículo 13. Ratio profesor/alumno.
 
 Para impartir los módulos del bloque común y los contenidos relacionados con los resultados de aprendizaje de carácter conceptual de los módulos del bloque específico, de los ciclos inicial y final de grado medio en atletismo, la relación profesor/alumno será de 1/30. Para impartir los contenidos relacionados con los resultados de aprendizaje de carácter procedimental de los módulos del bloque específico de los ciclos inicial y final de grado medio en atletismo, la relación profesor/alumno será la recogida en el anexo IV.
-
 
 #### Artículo 14. Módulo de formación práctica.
 
 Para iniciar los módulos de formación práctica de los ciclos inicial y final de grado medio en atletismo, será necesario haber superado con anterioridad los módulos comunes y específicos de enseñanza deportiva que se establecen en el anexo V de este real decreto.
 
-
 #### Artículo 15. Determinación del currículo.
 
 Las Administraciones educativas establecerán los currículos correspondientes respetando lo establecido en este real decreto y de acuerdo con lo dispuesto en el artículo 16 del Real Decreto 1363/2007, de 24 de octubre, por el que se establece la ordenación general de las enseñanzas deportivas de régimen especial.
-
 
 #### Artículo 16. Espacios y equipamientos deportivos.
 
@@ -314,18 +297,15 @@ CAPÍTULO V
 
 Acceso a cada uno de los ciclos
 
-
 #### Artículo 17. Requisitos generales de acceso a los ciclos inicial y final de grado medio en atletismo.
 
 1. Para acceder al ciclo inicial de grado medio en atletismo será necesario tener el título de Graduado en Educación Secundaria Obligatoria o equivalente a efectos de acceso.
 
 2. Para acceder al ciclo final de grado medio en atletismo será necesario acreditar tener superado el ciclo inicial de grado medio en atletismo.
 
-
 #### Artículo 18. Requisitos de acceso al ciclo inicial de grado medio en atletismo para personas sin el título de Graduado en Educación Secundaria Obligatoria.
 
 Se podrá acceder a las enseñanzas del ciclo inicial de grado medio en atletismo sin el título de Graduado en Educación Secundaria Obligatoria, siempre que el aspirante reúna los otros requisitos de carácter específico que se establecen en el presente real decreto, cumpla las condiciones de edad y supere la prueba establecida en el artículo 31.1.a) del Real Decreto 1363/2007, de 24 de octubre, por el que se establece la ordenación general de las enseñanzas deportivas de régimen especial.
-
 
 #### Artículo 19. Requisitos de acceso específicos al ciclo inicial de grado medio en atletismo.
 
@@ -335,13 +315,11 @@ Se podrá acceder a las enseñanzas del ciclo inicial de grado medio en atletism
 
 3. Para la superación de la prueba de carácter específico será necesaria la evaluación positiva en la totalidad de los criterios de evaluación descritos en las mismas.
 
-
 #### Artículo 20. Efectos y vigencia de la prueba de acceso de carácter específico.
 
 1. La superación de la prueba de carácter específico, que se establece para el acceso al ciclo inicial de grado medio en atletismo, tendrá efectos en todo el territorio nacional.
 
 2. La superación de la prueba de carácter específico, que se establece en el anexo VII, tendrá una vigencia de 18 meses, contados a partir de la fecha de su finalización.
-
 
 #### Artículo 21. Exención de la superación de la prueba de carácter específico a los deportistas de alto nivel o y alto rendimiento.
 
@@ -353,18 +331,15 @@ b) La calificación de deportista de alto rendimiento o equivalente en la modali
 
 c) Haber sido clasificado entre los ocho primeros, al menos una vez en los últimos dos años, en cualquier especialidad o prueba de la categoría absoluta del campeonato de España, Esta condición deberá ser acreditada por la Real Federación Española de Atletismo.
 
-
 #### Artículo 22. Requisitos de acceso de personas que acrediten discapacidades.
 
 Las personas con discapacidad podrán acceder a las enseñanzas de estos ciclos conforme a la disposición adicional tercera del Real Decreto 1363/2007, de 24 de octubre, siendo obligación de las administraciones competentes llevar a cabo los ajustes razonables para que este acceso no comporte restricciones injustificadas contrarias al principio de igualdad de oportunidades.
-
 
 #### Artículo 23. Composición y perfil del tribunal de la prueba de carácter específico:
 
 1. El tribunal evaluador de la prueba de carácter específico será nombrado por el órgano competente de la comunidad autónoma y deberá estar formado por un mínimo de tres evaluadores.
 
 2. Los evaluadores de las pruebas de carácter específico deberán acreditar, al menos, la titulación de Técnico Deportivo Superior en Atletismo.
-
 
 #### Artículo 24. Funciones del tribunal evaluador de la prueba de carácter específico.
 
@@ -386,7 +361,6 @@ CAPÍTULO VI
 
 Profesorado
 
-
 #### Artículo 25. Requisitos de titulación del profesorado en centros públicos.
 
 Los requisitos de titulación del profesorado en centros públicos se determinarán en función del bloque de enseñanza deportiva en que hayan de impartir la docencia:
@@ -401,7 +375,6 @@ b) Profesores especialistas que posean el título de Técnico Deportivo Superior
 
 3. Las Administraciones educativas podrán autorizar la docencia de los módulos del bloque específico atribuidos al profesor especialista, a los miembros de los cuerpos de catedráticos y profesores de enseñanza secundaria con la especialidad de Educación física, cuando carezcan del título de Técnico Deportivo Superior en Atletismo, siempre que posean la formación diseñada al efecto o reconocida por dichas Administraciones educativas, o la experiencia laboral o deportiva o la experiencia docente, detallada en el anexo IX-B.
 
-
 #### Artículo 26. Los requisitos de titulación del profesorado en centros privados y de titularidad pública de Administraciones distintas a la educativa.
 
 Las titulaciones requeridas para la impartición de los módulos tanto del bloque común, como del bloque específico que forman los ciclos desarrollados en el presente real decreto, para el profesorado de los centros de titularidad privada o de titularidad pública de otras administraciones distintas de las educativas, se concretan en el anexo X del presente real decreto.
@@ -410,11 +383,9 @@ CAPÍTULO VII
 
 Vinculación a otros estudios
 
-
 #### Artículo 27. Acceso a otros estudios.
 
 El título de Técnico Deportivo en Atletismo permitirá el acceso directo a todas las modalidades de bachillerato.
-
 
 #### Artículo 28. Convalidación de estas enseñanzas.
 
@@ -426,21 +397,17 @@ El título de Técnico Deportivo en Atletismo permitirá el acceso directo a tod
 
 4. La superación de la totalidad de los módulos del bloque común del 1.er o 2.º nivel, en cualquiera de las modalidades o especialidades deportivas de los títulos establecidos al amparo de la Ley Orgánica 1/1990, de 3 de octubre, de Ordenación General del Sistema Educativo, se convalidará por la totalidad de los módulos del bloque común del correspondiente ciclo inicial o final de enseñanza deportiva en atletismo. La superación de la totalidad de los módulos del bloque común de los ciclos inicial o final del título de Técnico Deportivo en Atletismo, se convalidará por la totalidad de los módulos del bloque común, del correspondiente nivel, de los títulos establecidos al amparo de la Ley Orgánica 1/1990, de 3 de octubre, de Ordenación General del Sistema Educativo.
 
-
 #### Artículo 29. Exención del módulo de formación práctica.
 
 Podrá ser objeto de exención total o parcial el módulo de formación práctica de los ciclos desarrollados en el presente real decreto, en función de su correspondencia con la experiencia en el ámbito deportivo o laboral, detallado en el anexo XII.
-
 
 #### Disposición adicional primera. Referencia del título en el marco europeo.
 
 Una vez establecido el marco nacional de cualificaciones, de acuerdo con las recomendaciones europeas, se determinará el nivel correspondiente de estas titulaciones en el marco nacional y su equivalente europeo.
 
-
 #### Disposición adicional segunda. Oferta a distancia de los módulos de enseñanza deportiva del presente título.
 
 Los módulos de enseñanza deportiva que se establecen en el anexo XIII, podrán ofertarse a distancia, siempre que se garantice que el alumno puede conseguir los resultados de aprendizaje de los mismos, de acuerdo con lo dispuesto en el presente real decreto. Para ello, las Administraciones educativas, en el ámbito de sus respectivas competencias, adoptarán las medidas que estimen necesarias y dictarán las instrucciones precisas.
-
 
 #### Disposición adicional tercera. Clave identificativa de los certificados de superación del ciclo inicial.
 
@@ -452,16 +419,13 @@ b) Dígito de la Comunidad Autónoma: De acuerdo con lo establecido en el anexo 
 
 c) Dígitos de modalidad deportiva: ATAT.
 
-
 #### Disposición adicional cuarta. Titulaciones equivalentes.
 
 El título de Técnico Deportivo en Atletismo, establecido en el Real Decreto 254/2004, de 13 de febrero, por el que se establecen los títulos de Técnico Deportivo y Técnico Deportivo Superior en Atletismo, se aprueban las correspondiente enseñanzas comunes y se regulan las pruebas de acceso a estas enseñanzas, tendrá los mismo efectos profesionales y académicos que el título de Técnico Deportivo en Atletismo establecido en el presente real decreto.
 
-
 #### Disposición adicional quinta. Referencias genéricas.
 
 Todas las referencias al alumnado, profesorado y a titulaciones para las que en este real decreto se utiliza la forma del masculino genérico deben entenderse aplicables indistintamente a mujeres y a hombres.
-
 
 #### Disposición transitoria única. Aplicabilidad de otras normas.
 
@@ -469,32 +433,25 @@ Todas las referencias al alumnado, profesorado y a titulaciones para las que en 
 
 2. Así mismo, hasta que sea de aplicación la norma que regule, para el ámbito de gestión del Ministerio de Educación, Cultura y Deporte el currículo correspondiente al título de Técnico Deportivo en Atletismo, aquí regulado, será de aplicación lo establecido en la Orden ECI/430/2005, de 17 de febrero, por la que se establecen para el ámbito territorial de gestión directa del Ministerio de Educación y Ciencia, los currículos y las pruebas y requisitos de acceso, correspondientes a los títulos de Técnico Deportivo y de Técnico Deportivo Superior de Atletismo.
 
-
 #### Disposición derogatoria única. Derogación de normas.
 
 1. Queda derogado el Real Decreto 254/2004, de 13 de febrero, por el que se establecen los títulos de Técnico Deportivo y Técnico Deportivo Superior en Atletismo, se aprueban las correspondientes enseñanzas comunes y se regulan las pruebas de acceso a estas enseñanzas.
 
 2. Quedan derogadas todas y cuantas disposiciones de igual o inferior rango se opongan a lo dispuesto en este real decreto.
 
-
 #### Disposición final primera. Título competencial.
 
 El presente real decreto tiene carácter de norma básica y se dicta, al amparo de las competencias que atribuye al Estado el artículo 149.1. 30.ª de la Constitución que atribuye al Estado las competencias para la regulación de las condiciones de obtención, expedición y homologación de los títulos académicos y profesionales y normas básicas para el desarrollo del artículo 27 de la Constitución, a fin de garantizar el cumplimiento de las obligaciones de los poderes públicos en esta materia.
-
 
 #### Disposición final segunda. Implantación del nuevo currículo.
 
 Las Administraciones educativas implantarán el nuevo currículo de estas enseñanzas en el curso escolar 2013-2014.
 
-
 #### Disposición final tercera. Autorización para el desarrollo.
 
 Con el objeto de actualizar los perfiles del profesorado a los nuevos títulos universitarios regulados por el Real Decreto 1393/2007, de 29 de octubre, por el que se establece la ordenación de las enseñanzas universitarias oficiales, se autoriza al titular del Ministerio de Educación, Cultura y Deporte para la modificación y actualización de los anexos VIII, IX-A, y X de este decreto.
 
-
 #### Disposición final cuarta. Entrada en vigor.
-
-El presente real decreto entrará en vigor el día siguiente al de su publicación en el «Boletín Oficial del Estado».
 
 Dado en Madrid, el 6 de septiembre de 2013.
 
@@ -560,11 +517,7 @@ MED-ATAT104: Formación práctica
 
 Total
 
-137
-
 Total enseñanzas mínimas
-
-172
 
 Ciclo final de grado medio en Atletismo
 
@@ -638,15 +591,9 @@ MED-ATAT207: Atletismo adaptado
 
 MED-ATAT208: Formación práctica
 
-110
-
 Total
 
-231
-
 Total enseñanzas mínimas
-
-316
 
 ANEXO II
 
@@ -809,7 +756,6 @@ Proceso de comunicación. Elementos, tipos y dificultades.
 Técnicas de comunicación: verbal y no verbal.
 
 Valoración comunicativa del contexto: elementos facilitadores y obstáculos e inhibidores en el proceso de comunicación.
-
 
 #### Disposición del espacio y el alumnado para la mejora de la comunicación en la sesión deportiva.
 

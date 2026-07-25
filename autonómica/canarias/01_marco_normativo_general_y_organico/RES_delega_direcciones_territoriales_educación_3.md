@@ -30,10 +30,7 @@ fuente_pdf_oficial: https://sede.gobiernodecanarias.org/boc/boc-a-2021-038-932.p
 
 # Resolución de 12 de febrero de 2021, por la que se delega en las Direcciones Territoriales de Educación determinada competencia relativa a cargos directivos de los centros públicos docentes del ámbito de gestión de este Departamento (BOC n.º 38, de 24 de febrero).
 
-Boletín Oficial de Canarias núm. 38
-https://sede.gobcan.es/boc
 Miércoles 24 de febrero de 2021
-8826
 III. Otras Resoluciones
 Consejería de Educación, Universidades, Cultura y Deportes
 932 Dirección General de Personal.- Resolución de 12 de febrero de 2021, por la que 
@@ -72,13 +69,8 @@ de 15 de junio de 2012.
 Resultando precisa la unificación de la gestión de cargos directivos en su totalidad, se hace 
 necesario conferir nuevamente a los órganos de gestión de esta Consejería tal competencia 
 Página 
-boc-a-2021-038-932
 
-
-Boletín Oficial de Canarias núm. 38
-https://sede.gobcan.es/boc
 Miércoles 24 de febrero de 2021
-8827
 que tienen atribuida para el resto de cargos directivos de los centros docentes del ámbito de 
 gestión de esta Consejería.
 A los anteriores hechos son de aplicación los siguientes
@@ -110,5 +102,3 @@ Tercero.- La presente Resolución entrará en vigor a partir del día siguiente 
 publicación en el Boletín Oficial de Canarias.
 Las Palmas de Gran Canaria, a 12 de febrero de 2021.- El Director General de Personal, 
 Fidel Benigno Trujillo Santana.
-boc-a-2021-038-932
-

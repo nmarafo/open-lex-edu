@@ -67,8 +67,6 @@ Mapa web
 
 Contacto
 
-Versión texto
-
 Inicio
 
 Archivo
@@ -85,15 +83,9 @@ Año 2009
 
 2009/151. Miércoles 5 de Agosto de 2009
 
-1213
-
-<p>Menú de búsqueda y navegación</p>
-
 Anterior
 
 Siguiente
-
-BOC Nº 151. Miércoles 5 de Agosto de 2009 - 1213
 
 III. OTRAS RESOLUCIONES - Consejería de Agricultura, Ganadería, Pesca y Alimentación
 
@@ -425,21 +417,8 @@ Para lo no establecido en estas bases se estará a lo dispuesto en el Reglamento
 
 Asimismo se estará a lo dispuesto en los preceptos básicos de la Ley 38/2003, de 17 de noviembre, General de Subvenciones, y en su Reglamento de desarrollo, aprobado por Real Decreto 887/2006, de 21 de julio, y en el Decreto 36/2009, de 31 de marzo, por el que se establece el régimen general de subvenciones de la Comunidad Autónoma de Canarias, en todo aquello que no se oponga o contradiga a los preceptos básicos de la citada Ley y de su Reglamento.
 
-Ver anexos - página 17626
-
-© Gobierno de Canarias
-
-Aviso Legal
-
-Sugerencias y Reclamaciones
-
-
-
 ## ANEXOS COMPLEMENTARIOS (Descargados desde PDF del BOC)
 
 ### Anexo Fuente: https://www.gobiernodecanarias.org/boc/2009/151/boc-2009-151-anexo-17626.pdf
 
-17626 Boletín Oficial de Canarias núm. 151, miércoles 5 de agosto de 2009
 A N E X O I
- 
-

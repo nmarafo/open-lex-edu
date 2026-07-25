@@ -55,13 +55,11 @@ En el proceso de elaboración de este real decreto han sido consultadas las comu
 
 En su virtud, a propuesta del Ministro de Educación, con la aprobación previa de la Ministra de la Presidencia, y previa deliberación del Consejo de Ministros en su reunión del día 23 de julio de 2010,
 
-
 **DISPONGO:**
 
 CAPÍTULO I
 
 Objeto
-
 
 #### Artículo 1. Objeto.
 
@@ -72,7 +70,6 @@ Objeto
 CAPÍTULO II
 
 Identificación del título y organización de las enseñanzas
-
 
 #### Artículo 2. Identificación de los títulos de Técnico Deportivo en Vela con aparejo fijo y Técnico Deportivo en Vela con aparejo libre.
 
@@ -96,7 +93,6 @@ c) Duración: 1.100 horas.
 
 d) Referente europeo: CINE-3 (Clasificación Internacional Normalizada de Educación).
 
-
 #### Artículo 3. Organización de las enseñanzas conducentes al título de Técnico Deportivo en Vela con Aparejo Fijo.
 
 Las enseñanzas conducentes al Título de Técnico Deportivo en Vela con Aparejo Fijo se organizan en dos ciclos:
@@ -105,7 +101,6 @@ a) Ciclo inicial de grado medio en vela con aparejo fijo y aparejo libre, tenien
 
 b) Ciclo final de grado medio en vela con aparejo fijo, teniendo una duración de 600 horas.
 
-
 #### Artículo 4. Organización de las enseñanzas conducentes al título de Técnico Deportivo en Vela con Aparejo Libre.
 
 Las enseñanzas conducentes al Título de Técnico Deportivo en Vela con Aparejo Libre se organizan en dos ciclos:
@@ -113,7 +108,6 @@ Las enseñanzas conducentes al Título de Técnico Deportivo en Vela con Aparejo
 a) Ciclo inicial de grado medio en vela con aparejo fijo y aparejo libre, teniendo una duración de 500 horas.
 
 b) Ciclo final de grado medio en vela con aparejo libre, teniendo una duración de 600 horas.
-
 
 #### Artículo 5. Especializaciones de los títulos de Técnico Deportivo en Vela con aparejo fijo y Técnico Deportivo en Vela con aparejo libre.
 
@@ -131,16 +125,13 @@ CAPÍTULO III
 
 Perfil profesional y entorno profesional, personal y laboral deportivo de los ciclos
 
-
 #### Artículo 6. Perfil profesional de los ciclos de grado medio en vela con aparejo fijo y los ciclos grado medio en vela con aparejo libre.
 
 El perfil profesional del ciclo inicial y final de grado medio en vela con aparejo fijo y grado medio en vela con aparejo libre queda determinado por su competencia general, sus competencias profesionales, personales y sociales, por la relación de cualificaciones y, en su caso, unidades de competencia del Catálogo Nacional de Cualificaciones Profesionales incluidas en el título y el entorno profesional, laboral y deportivo.
 
-
 #### Artículo 7. Competencia general del ciclo inicial de grado medio en vela con aparejo fijo y aparejo libre.
 
 La competencia general del ciclo inicial de grado medio en vela con aparejo fijo y aparejo libre consiste en dinamizar, instruir y concretar la iniciación deportiva de la Vela; gobernar embarcaciones de recreo de hasta ocho metros; organizar, acompañar y tutelar a los deportistas durante su participación en actividades, competiciones y eventos propios de este nivel, utilizando embarcaciones con aparejo fijo y libre; y todo ello conforme a las directrices establecidas en la programación de referencia, respetando el medio natural, en condiciones de seguridad y con el nivel óptimo de calidad que permita la satisfacción de los deportistas en la actividad.
-
 
 #### Artículo 8. Competencias profesionales, personales y sociales del ciclo inicial de grado medio en vela con aparejo fijo y aparejo libre.
 
@@ -178,7 +169,6 @@ n) Mantener el espíritu de responsabilidad individual, esfuerzo personal e inno
 
 o) Gobernar embarcaciones de recreo de hasta 8 metros de eslora y potencia de motor adecuada a la misma para navegaciones realizadas hasta 5 millas alejadas de un abrigo.
 
-
 #### Artículo 9. Relación de cualificaciones y unidades de competencia del Catálogo Nacional de Cualificaciones Profesionales del ciclo inicial de grado medio en vela con aparejo fijo y aparejo libre.
 
 El ciclo inicial de grado medio en vela con aparejo fijo y aparejo libre incluye la cualificación completa de Iniciación deportiva en vela con embarcaciones de aparejo libre y fijo DFA_513_2 que incluye las siguientes unidades de competencia:
@@ -192,7 +182,6 @@ c) UA_7037_2: Concretar, dirigir y dinamizar sesiones secuenciadas de iniciació
 d) UA_7039_2: Dinamizar acciones de promoción y tutela a deportistas en eventos y competiciones de iniciación a la vela.
 
 e) UC0272_2_R: Asistir como primer interviniente en caso de accidente o situación de emergencia.
-
 
 #### Artículo 10. Entorno profesional, laboral y deportivo del ciclo inicial de grado medio en vela con aparejo fijo y aparejo libre.
 
@@ -208,11 +197,9 @@ b) Entrenador de iniciación a la competición.
 
 4. El desarrollo de estas ocupaciones y puestos de trabajo en el ámbito público se realizará de acuerdo a los principios y requisitos de acceso al empleo público previstos en la normativa vigente.
 
-
 #### Artículo 11. Competencia general del ciclo final de grado medio en vela con aparejo fijo.
 
 La competencia general del ciclo final de grado medio en vela con aparejo fijo consiste en adaptar, dirigir y dinamizar el entrenamiento básico y el perfeccionamiento técnico en la etapa de tecnificación deportiva de la vela con embarcaciones de aparejo fijo; gobernar embarcaciones de recreo de hasta 12 metros; organizar, acompañar y tutelar a los regatistas durante su participación en actividades, competiciones y eventos propias de este nivel; establecer las áreas de navegación propias de este nivel; gestionar los recursos materiales necesarios y coordinar las actividades de los técnicos a su cargo; organizar actividades, competiciones y eventos del nivel de iniciación deportiva; todo ello conforme a las directrices establecidas en la programación de referencia, respetando el medio natural, en condiciones de seguridad y con el nivel optimo de calidad que permita la satisfacción de los regatistas participantes en la navegación deportiva a vela con aparejo fijo.
-
 
 #### Artículo 12. Competencias profesionales, personales y sociales propias del sistema deportivo del ciclo final de grado medio en vela con aparejo fijo.
 
@@ -250,7 +237,6 @@ n) Mantener el espíritu de responsabilidad individual, esfuerzo personal e inno
 
 o) Gobernar embarcaciones de recreo a motor y vela, de hasta 12 mts. de eslora y potencia de motor adecuada, para navegaciones realizadas entre la costa y la línea de 12 millas paralela a la misma.
 
-
 #### Artículo 13. Entorno profesional, laboral y deportivo del ciclo final de grado medio en vela con aparejo fijo.
 
 1. Este profesional desarrolla su actividad profesional tanto en el ámbito público, ya sea la Administración General del Estado, las administraciones autonómicas o locales, como en entidades de carácter privado, ya sean grandes, medianas o pequeñas empresas, en patronatos deportivos, entidades deportivas municipales, federaciones, centros de tecnificación, clubes deportivos y sociales, escuelas de vela y escuelas náuticas, centros educativos, empresas de servicios de actividades extraescolares, que ofrezcan actividades deportivo-recreativas y tecnificación de la Vela.
@@ -271,11 +257,9 @@ e) Responsable de la seguridad de la navegación y de las instalaciones deportiv
 
 4. El desarrollo de estas ocupaciones y puestos de trabajo en el ámbito público se realizará de acuerdo a los principios y requisitos de acceso al empleo público previstos en la normativa vigente.
 
-
 #### Artículo 14. Competencia general del ciclo final de grado medio en vela con aparejo libre.
 
 La competencia general del ciclo final de grado medio en vela con aparejo libre consiste en adaptar, dirigir y dinamizar el entrenamiento básico y el perfeccionamiento técnico en la etapa de tecnificación deportiva de la vela con embarcaciones de aparejo libre; organizar, acompañar y tutelar a los regatistas durante su participación en actividades, competiciones y eventos propios de este nivel; establecer las áreas de navegación propias del nivel de iniciación y tecnificación; gestionar los recursos materiales necesarios y coordinar las actividades de los técnicos a su cargo; organizar actividades, competiciones y eventos del nivel de tecnificación deportiva; todo ello conforme a las directrices establecidas en la programación de referencia, respetando el medio natural, en condiciones de seguridad y con el nivel óptimo de calidad que permita la satisfacción de los regatistas participantes en la navegación deportiva a Vela con aparejo libre.
-
 
 #### Artículo 15. Competencias profesionales, personales y sociales propias del sistema deportivo del ciclo final de grado medio en vela con aparejo libre.
 
@@ -311,7 +295,6 @@ n) Mantener el espíritu de responsabilidad individual, esfuerzo personal e inno
 
 ñ) Mantener la iniciativa y autonomía dentro del trabajo en equipo para el desempeño de sus funciones.
 
-
 #### Artículo 16. Entorno profesional, laboral y deportivo del ciclo final de grado medio en vela con aparejo libre.
 
 1. Este profesional desarrolla su actividad profesional tanto en el ámbito público, ya sea la Administración General del Estado, las administraciones autonómicas o locales, como en entidades de carácter privado, ya sean grandes, medianas o pequeñas empresas, en patronatos deportivos, entidades deportivas municipales, federaciones, centros de tecnificación, clubes deportivos y sociales, escuelas de vela y escuelas náuticas, centros educativos, empresas de servicios de actividades extraescolares, que ofrezcan actividades deportivo-recreativas y tecnificación de la Vela.
@@ -333,7 +316,6 @@ e) Responsable de la seguridad de la navegación y de las instalaciones deportiv
 CAPÍTULO IV
 
 Estructura de las enseñanzas de cada uno de los ciclos de enseñanza deportiva conducentes a los títulos de Técnico Deportivo en Vela con aparejo fijo y Técnico Deportivo en Vela con parejo libre
-
 
 #### Artículo 17. Estructura de los ciclos inicial de grado medio en vela con aparejo fijo y aparejo libre, final de grado medio en vela con aparejo fijo y final de grado medio en vela con aparejo libre.
 
@@ -419,23 +401,19 @@ MED-VEAL211- Formación práctica.
 
 7. Los objetivos generales y los módulos enseñanza deportiva de los ciclos inicial de grado medio en vela con aparejo fijo y aparejo libre, final de grado medio en vela con aparejo fijo y final de grado medio en vela con aparejo fijo quedan desarrollados en los Anexos II, III y IV.
 
-
 #### Artículo 18. Ratio profesor/alumno.
 
 1. Para impartir los módulos del bloque común y los contenidos relacionados con los resultados de aprendizaje de carácter conceptual del los módulos del bloque específico, de los ciclos inicial de grado medio en vela con aparejo fijo y aparejo libre, final de grado medio en vela con aparejo fijo y final de grado medio en vela con aparejo libre, la relación profesor/ alumno será de 1/30.
 
 2. Para impartir los contenidos relacionados con los resultados de aprendizaje de carácter procedimental de los módulos del bloque específico de los ciclos inicial de grado medio en vela con aparejo fijo y aparejo libre, final de grado medio en vela con aparejo fijo y final de grado medio en vela con aparejo libre, la relación profesor/alumno será la recogida en el Anexo V.
 
-
 #### Artículo 19. Módulo de formación práctica.
 
 Para iniciar los módulos de formación práctica de los ciclos inicial de grado medio en vela con aparejo fijo y aparejo libre, final de grado medio en vela con aparejo fijo y final de grado medio en vela con aparejo libre, será necesario haber superado con anterioridad los módulos comunes y específicos de enseñanza deportiva que se establecen en el Anexo VI.
 
-
 #### Artículo 20. Determinación del currículo.
 
 Las Administraciones educativas establecerán los currículos correspondientes respetando lo establecido en este real decreto y de acuerdo con lo dispuesto en el artículo 16 del Real Decreto 1363/2007, de 24 de octubre, por el que se establece la ordenación general de las enseñanzas deportivas de régimen especial.
-
 
 #### Artículo 21. Espacios y equipamientos deportivos.
 
@@ -445,18 +423,15 @@ CAPÍTULO V
 
 Acceso a cada uno de los ciclos
 
-
 #### Artículo 22. Requisitos generales de acceso a los ciclos inicial de grado medio en vela con aparejo fijo y aparejo libre, final de grado medio en vela con aparejo fijo, y final de grado medio en vela con aparejo libre.
 
 1. Para acceder al ciclo inicial de grado medio en vela con aparejo fijo y aparejo libre será necesario tener el título de Graduado en Educación Secundaria Obligatoria o equivalente a efectos de acceso.
 
 2. Para acceder a los ciclos finales de grado medio en vela con aparejo fijo y vela con aparejo libre será necesario acreditar tener superado el ciclo inicial de grado medio en vela con aparejo fijo y aparejo libre.
 
-
 #### Artículo 23. Requisitos de acceso al ciclo inicial de grado medio en vela con aparejo fijo y aparejo libre para personas sin el título de Graduado en Educación Secundaria Obligatoria.
 
 Se podrá acceder a las enseñanzas del ciclo inicial de grado medio en vela con aparejo fijo y aparejo libre, sin el título de Graduado en Educación Secundaria Obligatoria, siempre que el aspirante reúna los otros requisitos de carácter específico que se establezcan, en el presente real decreto y además cumpla las condiciones de edad y supere la prueba correspondiente conforme al artículo 31.1.a del Real Decreto 1363/2007, de 24 de octubre, por el que se establece la ordenación general de las enseñanzas deportivas de régimen especial.
-
 
 #### Artículo 24. Requisitos de acceso específicos al ciclo inicial de grado medio en vela con aparejo fijo y aparejo libre.
 
@@ -466,13 +441,11 @@ Se podrá acceder a las enseñanzas del ciclo inicial de grado medio en vela con
 
 3. Para la superación de la prueba de carácter específico será necesaria la evaluación positiva en la totalidad de los criterios de evaluación descritos en las mismas.
 
-
 #### Artículo 25. Efectos y vigencia de la prueba de carácter específico.
 
 1. La superación de la prueba de carácter específico, que se establecen para el acceso al ciclo inicial de grado medio en vela con aparejo fijo y aparejo libre, tendrá efectos en todo el territorio nacional.
 
 2. La superación de las pruebas de carácter específico, que se establecen en el Anexo VIII, tendrá una vigencia de 18 meses, contados a partir de la fecha de finalización de aquellas.
-
 
 #### Artículo 26. Requisitos de acceso de los deportistas de alto nivel o alto rendimiento.
 
@@ -486,18 +459,15 @@ c) Haber sido seleccionado por la Real Federación Española de Vela para repres
 
 d) Haber quedado clasificado entre los 5 primeros en alguno de los campeonatos del Mundo, de Europa o de España en la modalidad correspondiente.
 
-
 #### Artículo 27. Requisitos de acceso de personas que acrediten discapacidades.
 
 Las personas con discapacidad podrán acceder a las enseñanzas de estos ciclos conforme la disposición adicional tercera del Real Decreto 1363/2007, de 24 de octubre, por el que se establece la ordenación general de las enseñanzas deportivas de régimen especial, siendo obligación de las administraciones competentes llevar a cabo los ajustes razonables para que este acceso no comporte restricciones injustificadas contrarias al principio de igualdad de oportunidades.
-
 
 #### Artículo 28. Composición y perfil del tribunal de la prueba de carácter específico.
 
 1. El tribunal será nombrado por el órgano competente de la comunidad autónoma. Deberá estar formado por un mínimo de tres evaluadores.
 
 2. Los evaluadores de las pruebas de carácter específico deberán acreditar, al menos, la titulación de Técnico Deportivo Superior en Vela con aparejo fijo, o de Técnico Deportivo Superior en Vela con aparejo libre.
-
 
 #### Artículo 29. Funciones del tribunal evaluador de la prueba de carácter específico.
 
@@ -519,7 +489,6 @@ CAPÍTULO VI
 
 Profesorado
 
-
 #### Artículo 30. Requisitos de titulación del profesorado en centros públicos.
 
 Los requisitos de la titulación del profesorado en centros públicos se determinarán en función del bloque de enseñanza deportiva en que hayan de impartir la docencia:
@@ -532,7 +501,6 @@ a) Profesores especialistas que posean, según corresponda, el título de Técni
 
 b) Profesorado de los Cuerpos de Profesores de Enseñanza Secundaria y Catedráticos de Enseñanza Secundaria, con la especialidad en Educación Física, y que posean el título de Técnico Deportivo Superior en Vela con aparejo fijo o el título de Técnico Deportivo Superior en Vela con aparejo libre, según corresponda.
 
-
 #### Artículo 31. Los requisitos de titulación del profesorado en centros privados y públicos no dependientes de la Administración educativa.
 
 Las titulaciones requeridas y cualesquiera otros requisitos necesarios para la impartición de los módulos tanto del bloque común, como del bloque específico que forman los ciclos desarrollados en el presente real decreto, para el profesorado de los centros de titularidad privada o de titularidad pública de otras administraciones distintas de las educativas, se concretan en el Anexo XI del presente real decreto.
@@ -541,11 +509,9 @@ CAPÍTULO VII
 
 Vinculación a otros estudios
 
-
 #### Artículo 32. Acceso a otros estudios.
 
 Los títulos de Técnico Deportivo en Vela con aparejo fijo, y Técnico Deportivo en Vela con aparejo libre permitirán el acceso directo a todas las modalidades de bachillerato.
-
 
 #### Artículo 33. Convalidación de estas enseñanzas.
 
@@ -559,11 +525,9 @@ Los títulos de Técnico Deportivo en Vela con aparejo fijo, y Técnico Deportiv
 
 5. La superación de la totalidad de los módulos del bloque común del 1º o 2º nivel, en cualquiera de las modalidades o especialidades deportivas de los títulos establecidos al amparo de la Ley Orgánica 1/1990, de 3 de octubre de Ordenación General del Sistema Educativo, se convalidará por la totalidad de los módulos del bloque común del correspondiente ciclo inicial o final de enseñanza deportiva en vela con aparejo fijo y vela con aparejo libre. La superación de la totalidad de los módulos del bloque común de los ciclos inicial y final de los títulos de Técnico Deportivo en Vela con aparejo fijo y Técnico Deportivo en Vela con aparejo libre, se convalidará por la totalidad de los módulos del bloque común, del correspondiente nivel, de los títulos establecidos al amparo de la Ley Orgánica 1/1990, de 3 de octubre de Ordenación General del Sistema Educativo.
 
-
 #### Artículo 34. Exención del módulo de formación práctica.
 
 Podrán ser objeto de exención total o parcial del módulo de formación práctica de los ciclos desarrollados en el presente real decreto, en función de su correspondencia con la experiencia en el ámbito deportivo o laboral, detallada en el Anexo XIII.
-
 
 #### Artículo 35. Correspondencia formativa de los módulos de enseñanza deportiva con la experiencia docente.
 
@@ -571,23 +535,19 @@ Podrán ser objeto de exención total o parcial del módulo de formación práct
 
 2. La correspondencia formativa será aplicada por los centros, siguiendo el procedimiento establecido por la correspondiente Administración educativa.
 
-
 #### Artículo 36. Correspondencia formativa de los módulos de enseñanza deportiva con la experiencia deportiva.
 
 1. La correspondencia formativa entre los módulos de enseñanza deportiva de los ciclos desarrollados en el presente real decreto, y la experiencia deportiva acreditable en esta modalidad deportiva, se establece en el Anexo XV.
 
 2. La correspondencia formativa será aplicada por los centros, siguiendo el procedimiento establecido por la correspondiente Administración educativa.
 
-
 #### Disposición adicional primera. Referencia del título en el marco europeo.
 
 Una vez establecido el marco nacional de cualificaciones, de acuerdo con las Recomendaciones europeas, se determinará el nivel correspondiente de estas titulaciones en el marco nacional y su equivalente europeo.
 
-
 #### Disposición adicional segunda. Oferta a distancia de los módulos de enseñanza deportiva de los presentes títulos.
 
 Los módulos de enseñanza deportiva que se establecen en el Anexo XVI, podrán ofertarse a distancia, siempre que se garantice que el alumno puede conseguir los resultados de aprendizaje de los mismos, de acuerdo con lo dispuesto en el presente real decreto. Para ello, las Administraciones educativas, en el ámbito de sus respectivas competencias, adoptarán las medidas que estimen necesarias y dictarán las instrucciones precisas.
-
 
 #### Disposición adicional tercera. Clave identificativa de los certificados de superación del ciclo inicial.
 
@@ -599,7 +559,6 @@ b) Dígito de la Comunidad Autónoma: De acuerdo a lo establecido en el anexo IV
 
 c) Dígitos de modalidad deportiva: VEVE
 
-
 #### Disposición adicional cuarta. Habilitación a las enseñanzas de grado medio en vela con aparejo libre y vela con aparejo fijo para el gobierno de embarcaciones y el ejercicio de su perfil profesional.
 
 1. La posesión del certificado académico oficial de superación de las enseñanzas del ciclo inicial de grado medio en vela con aparejo fijo y aparejo libre, habilitará para el gobierno de embarcaciones de recreo de hasta 8 metros de eslora si son a vela y de 7,5 metros de eslora si son de motor, con la potencia de motor adecuada a la misma, siempre que la embarcación no se aleje más de 5 millas, en cualquier dirección, de un abrigo. De la misma manera habilitará para el ejercicio de las competencias recogidas en el perfil profesional del ciclo inicial descritas en los artículos 7, 8 y 9 del presente real decreto.
@@ -608,11 +567,9 @@ c) Dígitos de modalidad deportiva: VEVE
 
 3. La posesión del título de Técnico Deportivo en Vela con aparejo fijo, habilitará para el gobierno de embarcaciones de recreo a motor o motor y vela de hasta 12 metros, para la navegación que se efectúe en la zona comprendida entre la costa y la línea paralela a la misma trazada a 12 millas, así como la navegación interinsular en los archipiélagos balear y canario. De la misma manera habilitará para el ejercicio de las competencias recogidas en el perfil profesional del ciclo final de grado medio en vela con aparejo fijo descritas en los artículos 11, 12 y 13 del presente real decreto.
 
-
 #### Disposición adicional quinta. Referencias genéricas.
 
 Todas las referencias al alumnado, profesorado y a titulaciones para las que en este real decreto se utiliza la forma del masculino genérico deben entenderse aplicables indistintamente a mujeres y a hombres.
-
 
 #### Disposición transitoria primera. Extinción de la formación del período transitorio en vela con aparejo fijo.
 
@@ -620,57 +577,37 @@ Todas las referencias al alumnado, profesorado y a titulaciones para las que en 
 
 2. Los órganos competentes en materia de deportes, o en su caso de formación deportiva de las comunidades autónomas establecerán el procedimiento adecuado, en el territorio de su competencia, con el fin de que quienes hubieran iniciado formaciones reguladas en la mencionada Orden ECD/3310/2002, de 16 de diciembre, en la vela con aparejo fijo y aparejo libre puedan completarla hasta su tercer nivel, durante los dos cursos académicos siguientes al de la implantación.
 
-
 #### Disposición transitoria segunda. Reconocimiento de las formaciones deportivas y plazo para solicitar la homologación, convalidación y equivalencia de las formaciones a las que se refieren la disposición adicional quinta, la disposición transitoria primera del RD 1363/2007, de 24 de octubre, y la disposición transitoria primera del RD 1913/1997, de 19 de diciembre, en la modalidad de Vela.
 
 1. El reconocimiento de las formaciones deportivas anteriores a las que se refiere la disposición adicional quinta del Real Decreto 1363/2007, de 24 de octubre, llevadas a cabo en la modalidad de Vela por los órganos competentes de las Comunidades Autónomas y las federaciones deportivas de la modalidad mencionada, podrá solicitarse ante el Consejo Superior Deportes por los órganos competentes de las Comunidades Autónomas y por la Real Federación Española de Vela, dentro de los sesenta días naturales siguientes a la entrada en vigor del presente real decreto, conforme a lo que se dispone en la Orden de 30 de julio de 1999 (BOE de 12 de agosto), por la que se regula el procedimiento para el reconocimiento de las formaciones de entrenadores deportivos y la disposición adicional quinta del Real Decreto 1363/2007, de 24 de octubre.
-
-Corresponderá a la Dirección General de Infraestructuras Deportivas, del Consejo Superior de Deportes (CSD), la instrucción del procedimiento y, en el plazo máximo de seis meses contados a partir de la fecha de entrada en el registro del CSD de la solicitud del reconocimiento. A propuesta del citado organismo, el Secretario de Estado - Presidente del Consejo Superior de Deportes dictará y notificará la oportuna Resolución cuya parte dispositiva se publicará en el Boletín Oficial del Estado.
 
 2. El procedimiento de reconocimiento de las formaciones a las que se refieren la disposición transitoria primera del Real Decreto 1363/2007, de 24 de octubre, y la disposición transitoria primera del Real Decreto 1913/1997, de 19 de diciembre, en la modalidad de vela, se efectuará en cuanto a la solicitud y la documentación, los plazos de subsanación, las prácticas de diligencias y el trámite de audiencia, conforme a lo previsto en la ya citada Orden de 30 de julio de 1999. El reconocimiento se iniciará a instancia del órgano competente en materia de deporte o, en su caso, competente en materia de formación deportiva, de la Comunidad Autónoma.
 
 El plazo de presentación de las solicitudes de reconocimiento de formaciones deportivas a las que se refiere este apartado y que hayan finalizado antes de la publicación del presente real decreto, será de 90 días naturales a partir de su entrada en vigor. Para las formaciones realizadas durante el periodo de extinción marcado en la disposición adicional cuarta, el plazo de presentación será de 90 días naturales a partir de la finalización plazo de extinción establecido en la disposición adicional cuarta.
 
-Corresponderá a la Dirección General de Infraestructuras Deportivas, del Consejo Superior de Deportes, la instrucción del procedimiento y, en el plazo máximo de tres meses contados a partir de su iniciación, a propuesta del citado organismo, el Secretario de Estado – Presidente del Consejo Superior de Deportes, dictará y notificará la oportuna resolución cuya parte dispositiva se publicará en el Boletín Oficial del Estado.
-
-3. Las solicitudes de homologación, convalidación y equivalencia a efectos profesionales, de las formaciones de entrenadores a las que se refiere la disposición adicional quinta del Real Decreto 1363/2007, de 24 de octubre, se podrán formular individualmente por los interesados, para la modalidad de vela, dentro del plazo de 10 años que empezará a contar desde el día siguiente al de la publicación en el «Boletín Oficial del Estado» de los criterios comunes de la modalidad, según se establece en el apartado 2 de esta disposición adicional. La resolución del procedimiento se notificará en el plazo máximo de seis meses contados a partir de la recepción de la solicitud.
-
 4. Si en los procedimientos regulados por este real decreto no recayera resolución expresa en los plazos señalados en cada caso, se entenderá desestimada de acuerdo con lo dispuesto en la disposición adicional vigésimo novena de la Ley 14/2000, de 29 de diciembre, de medidas fiscales, administrativas y del orden social, y de la Ley. 30 /1992, de 26 de noviembre, de Régimen Jurídico de las Administraciones Públicas y del Procedimiento Administrativo Común.
 
-
 #### Disposición transitoria tercera. Perfil de los evaluadores de las pruebas de carácter específico.
-
-Hasta el momento de la publicación en el Boletín Oficial del Estado de los criterios comunes de la modalidad de vela con aparejo fijo y vela con aparejo libre, a efectos de homologación, convalidación y equivalencia profesional, según se establece en el apartado 2 de la disposición adicional quinta del Real Decreto 1363/2007, de 24 de octubre, podrán ser evaluadores de las pruebas de carácter específico aquellos que estuvieran en disposición de homologar o tramitar la equivalencia profesional a Técnico Deportivo Superior en Vela con aparejo fijo, o de Técnico Deportivo Superior en Vela con aparejo libre, desde formaciones a las que se refiere la disposición adicional quinta del Real Decreto 1363/2007, de 24 de octubre, y de la disposición transitoria primera de los reales decretos 1913/1997, de 19 de diciembre y 1363/2007, de 24 de octubre.
-
 
 #### Disposición derogatoria única. Derogación de normas.
 
 Quedan derogadas todas y cuantas disposiciones de igual o inferior rango se opongan a lo dispuesto en este real decreto.
 
-
 #### Disposición final primera. Referencia de los títulos de Técnico Deportivo en Vela con aparejo fijo, y Técnico Deportivo en Vela con aparejo libre, al Catálogo Nacional de Cualificaciones Profesionales.
-
-En el momento de la publicación en el Boletín Oficial del Estado, de las correspondientes cualificaciones profesionales de las modalidades de vela con aparejo libre y vela con aparejo fijo incluidas en los títulos objeto del presente real decreto, será de aplicación, en relación con las cualificaciones y, en su caso unidades de competencia del Catálogo Nacional de Cualificaciones Profesionales, lo dispuesto en los artículos 6, 9, y los apartados 2 y 3 del artículo 31 del presente real decreto, siempre y cuando las unidades de competencia mantengan su nivel.
-
 
 #### Disposición final segunda. Título competencial.
 
 El presente real decreto tiene carácter de norma básica y se dicta, al amparo de las competencias que atribuye al Estado el artículo 149.1. 30º de la Constitución que atribuye al Estado las competencias para la regulación de las condiciones de obtención, expedición y homologación de los títulos académicos y profesionales y normas básicas para el desarrollo del artículo 27 de la Constitución, a fin de garantizar el cumplimiento de las obligaciones de los poderes públicos en esta materia.
 
-
 #### Disposición final tercera. Implantación de los títulos.
 
 Las Administraciones educativas podrán implantar, de forma progresiva ciclo a ciclo, el nuevo currículo de estas enseñanzas durante el curso escolar 2.011-2012.
-
 
 #### Disposición final cuarta. Autorización para el desarrollo.
 
 Con el objeto de actualizar los perfiles del profesorado a los nuevos títulos universitarios regulados por el RD 1393/2007, de 29 de septiembre, por el que se establece la ordenación de las enseñanzas universitarias oficiales, se autoriza al titular del Ministerio de Educación para la modificación y actualización de los Anexos IX, X A y XI de este decreto.
 
-
 #### Disposición final quinta. Entrada en vigor.
-
-El presente real decreto entrará en vigor el día siguiente al de su publicación en el «Boletín Oficial del Estado».
 
 Dado en Madrid, el 23 de julio de 2010.
 
@@ -683,7 +620,6 @@ El Ministro de Educación,
 ANEXO I
 
 Distribución horaria de las enseñanzas mínimas
-
 
 **CICLO INICIAL DE GRADO MEDIO EN VELA CON APAREJO FIJO Y APAREJO LIBRE**
 
@@ -742,7 +678,6 @@ TOTAL
 TOTAL ENSEÑANZAS MÍNIMAS
 
 155 h.
-
 
 **CICLO FINAL DE GRADO MEDIO EN VELA CON APAREJO FIJO**
 
@@ -821,7 +756,6 @@ TOTAL
 TOTAL ENSEÑANZAS MÍNIMAS
 
 330 h.
-
 
 **CICLO FINAL DE GRADO MEDIO EN VELA CON APAREJO LIBRE**
 
@@ -943,9 +877,7 @@ p.	Identificar y describir las características básicas de las principales disc
 
 q.	Aplicar y demostrar técnicas de control de embarcaciones a motor, interpretando el convenio internacional para la prevención de abordajes, describiendo la preparación y mantenimiento de las embarcaciones a motor, para gobernar las embarcaciones de recreo de hasta 8 metros de eslora y potencia de motor adecuada a la misma para navegaciones realizadas hasta 5 millas alejadas de un abrigo.
 
-
 **Módulo común de enseñanza deportiva: BASES DEL COMPORTAMIENTO DEPORTIVO**
-
 
 **Código: MED-C101**
 
@@ -1157,7 +1089,6 @@ CONTENIDOS BÁSICOS:
 
 –	Autoevaluación y reflexión de los propios prejuicios y estereotipos personales, incluidos los de género.
 
-
 **Módulo común de enseñanza deportiva: PRIMEROS AUXILIOS**
 
 Código: MED-C102
@@ -1328,7 +1259,6 @@ CONTENIDOS BÁSICOS:
 
 –	Protocolos de alerta.
 
-
 **Módulo común de enseñanza deportiva: ACTIVIDAD FÍSICA ADAPTADA Y DISCAPACIDAD**
 
 Código: MED-C103
@@ -1407,9 +1337,7 @@ CONTENIDOS BÁSICOS:
 
 –	La identificación de los propios prejuicios previos a la práctica respecto de personas con discapacidad.
 
-
 **Módulo común de enseñanza deportiva: ORGANIZACIÓN DEPORTIVA**
-
 
 **Código: MED-C104**
 
@@ -1482,7 +1410,6 @@ CONTENIDOS BÁSICOS:
 –	En la administración local.
 
 –	En la administración autonómica.
-
 
 **Módulo específico de enseñanza deportiva: FORMACIÓN TÉCNICA**
 
@@ -1583,7 +1510,6 @@ CONTENIDOS BÁSICOS
 –	Signos naturales (observación del cielo, tipo de nubes, altura, dirección, cambios de intensidad de viento y dirección, variaciones bruscas de temperatura).
 
 –	Se ha interiorizado la importancia de realizar el análisis del entorno antes de la navegación.
-
 
 **Módulo específico de enseñanza deportiva: SEGURIDAD DE LA NAVEGACIÓN Y CONSERVACIÓN DE LOS MATERIALES.**
 
@@ -1854,7 +1780,6 @@ CONTENIDOS BÁSICOS
 –	Normativa aplicable en cada Comunidad Autónoma en materia medioambiental.
 
 –	Tipos de pantalanes, rampas y grúas.
-
 
 **Módulo específico de enseñanza deportiva: METODOLOGÍA DE LA VELA E INICIACIÓN A LA COMPETICIÓN.**
 
@@ -2156,7 +2081,6 @@ CONTENIDOS BÁSICOS
 
 –	Habilitación del campo de prácticas. Fondeo de embarcaciones, anclas a utilizar.
 
-
 **Módulo específico de enseñanza deportiva: FORMACIÓN PRÁCTICA**
 
 Código: MED-VEVE105
@@ -2337,7 +2261,6 @@ m.	Se han realizado ejercicios del manejo de chalecos salvavidas, extintores, be
 
 n.	Se han realizado ejercicios de conservación y mantenimiento de motores: Carburación, inyección, encendido, refrigeración, lubricación e invernaje, cambio de bujías, filtros, niveles de aceite.
 
-
 ## ANEXO III
 
 Objetivos generales y módulos de enseñanza deportiva del ciclo final de grado medio en vela con aparejo fijo
@@ -2383,7 +2306,6 @@ q.	Identificar y describir las características básicas de las principales disc
 r.	Aplicar y demostrar técnicas de control del gobierno de embarcaciones de recreo a motor y vela, hasta 12 metros de eslora y potencia de motor adecuada, para navegaciones realizadas entre la costa y la línea de 12 millas paralela a la misma así como la navegación interinsular en los archipiélagos balear y canario.
 
 s.	Identificar y analizar las características organizativas y medios materiales y humanos, aplicando procedimientos establecidos de gestión y comunicación, para coordinar a otros técnicos encargados de la iniciación a la vela con aparejo fijo.
-
 
 **Módulo común de enseñanza deportiva: BASES DEL APRENDIZAJE DEPORTIVO**
 
@@ -2711,7 +2633,6 @@ CONTENIDOS BÁSICOS:
 
 –	Adaptación de las estructuras competitivas al desarrollo de valores personales y sociales (mantenimiento del carácter lúdico y de participación de todos y todas, cambios reglamentarios).
 
-
 **Módulo común de enseñanza deportiva: BASES DEL ENTRENAMIENTO DEPORTIVO**
 
 Código: MED-C202
@@ -2944,7 +2865,6 @@ CONTENIDOS BÁSICOS:
 
 –	Capacidades coordinativas: principios metodológicos y medios de entrenamiento.
 
-
 **Módulo común de enseñanza deportiva: DEPORTE ADAPTADO Y DISCAPACIDAD**
 
 Código:MED-C203
@@ -3113,7 +3033,6 @@ CONTENIDOS BÁSICOS:
 
 –	El deporte adaptado como promotor de valores y vehículo de integración social.
 
-
 **Módulo común de enseñanza deportiva: ORGANIZACIÓN Y LEGISLACIÓN DEPORTIVA**
 
 Código: MED-C204
@@ -3274,7 +3193,6 @@ CONTENIDOS BÁSICOS:
 
 –	El patrocinio deportivo. Tipos y normativa relacionada.
 
-
 **Módulo común de enseñanza deportiva: GÉNERO Y DEPORTE**
 
 Código:MED-C205
@@ -3430,7 +3348,6 @@ CONTENIDOS BÁSICOS:
 –	Valores personales.
 
 –	Valores sociales.
-
 
 **Módulo específico de enseñanza deportiva: ESCUELA DE VELA**
 
@@ -3591,7 +3508,6 @@ CONTENIDOS BÁSICOS:
 –	Nivel de aprendizaje alcanzado por los alumnos.
 
 –	Nivel de satisfacción de los alumnos.
-
 
 **Módulo específico de enseñanza deportiva: COMPETICIONES Y EVENTOS A VELA**
 
@@ -3772,7 +3688,6 @@ CONTENIDOS BÁSICOS:
 –	Sistemas de información en el desarrollo de una regata o evento a vela.
 
 –	Análisis de la información para la mejora continúa de la organización de eventos y regatas a vela.
-
 
 **Módulo específico de enseñanza deportiva: SEGURIDAD EN LA NAVEGACIÓN A VELA**
 
@@ -4072,7 +3987,6 @@ CONTENIDOS BÁSICOS:
 
 –	Las afecciones en entorno físico. Reducción de residuos, apoyo al reciclaje y reutilización.
 
-
 **Módulo específico de enseñanza deportiva: PREPARACIÓN FÍSICA DEL REGATISTA**
 
 Código: MED-VEVE204
@@ -4224,7 +4138,6 @@ CONTENIDOS BÁSICOS:
 –	Métodos de entrenamiento orientados a la variación y control del peso corporal.
 
 –	Pautas de alimentación e hidratación adaptadas a la práctica de la vela.
-
 
 **Módulo específico de enseñanza deportiva: VELA ADAPTADA**
 
@@ -4395,7 +4308,6 @@ CONTENIDOS BÁSICOS:
 –	Las principales fuentes de información sobre las actividades de vela adaptada dirigidas a personas con discapacidad.
 
 –	La integración a través de las escuelas de vela adaptada.
-
 
 **Módulo específico de enseñanza deportiva: PERFECCIONAMIENTO TÉCNICO-TÁCTICO DE LA VELA CON AF.**
 
@@ -4779,7 +4691,6 @@ CONTENIDOS BÁSICOS:
 
 –	Importancia del tiempo meteorológico en la seguridad de la navegación.
 
-
 **Módulo específico de enseñanza deportiva: PUESTA A PUNTO DEL MATERIAL DE AF.**
 
 Código: MED-VEAF207
@@ -5022,7 +4933,6 @@ CONTENIDOS BÁSICOS:
 
 –	La seguridad en el transporte de embarcaciones con aparejo fijo: normativa y código de circulación, cuidados durante la carga y el transporte.
 
-
 **Módulo específico de enseñanza deportiva: FORMACIÓN PRÁCTICA**
 
 Código: MED-VEAF208
@@ -5259,36 +5169,25 @@ r.	Identificar y analizar las características organizativas y medios materiales
 
 Los módulos citados a continuación, tanto comunes como específicos, se comparten entre el ciclo final de grado medio en vela con aparejo fijo y el ciclo final de grado medio en vela con aparejo libre, y están desarrollados, en su totalidad dentro del Anexo II:
 
-
 **•	Módulo común de enseñanza deportiva: BASES DEL APRENDIZAJE DEPORTIVO. Código: MED-C201.**
-
 
 **•	Módulo común de enseñanza deportiva: BASES DEL ENTRENAMIENTO DEPORTIVO. Código: MED-C202.**
 
-
 **•	Módulo común de enseñanza deportiva: DEPORTE ADAPTADO Y DISCAPACIDAD. Código: MED-C203.**
-
 
 **•	Módulo común de enseñanza deportiva: ORGANIZACIÓN Y LEGISLACIÓN DEPORTIVA. Código MED-C204.**
 
-
 **•	Módulo común de enseñanza deportiva: GÉNERO Y DEPORTE. Código: MED-C205.**
-
 
 **•	Módulo específico de enseñanza deportiva: ESCUELA DE VELA. Código: MED-VEVE201.**
 
-
 **•	Módulo específico de enseñanza deportiva: COMPETICIONES Y EVENTOS A VELA. Código: MED-VEVE202.**
-
 
 **•	Módulo específico de enseñanza deportiva: SEGURIDAD EN LA NAVEGACION A VELA. Código: MED-VEVE203.**
 
-
 **•	Módulo específico de enseñanza deportiva: PREPARACIÓN FÍSICA DEL REGATISTA. Código: MED-VEVE204.**
 
-
 **•	Módulo específico de enseñanza deportiva: VELA ADAPTADA. Código: MED-VEVE205.**
-
 
 **Módulo específico de enseñanza deportiva: PERFECCIONAMIENTO TÉCNICO-TÁCTICO DE LA VELA CON AL.**
 
@@ -5674,7 +5573,6 @@ CONTENIDOS BÁSICOS:
 
 –	Importancia del tiempo meteorológico en la seguridad de la navegación.
 
-
 **Módulo específico de enseñanza deportiva: PUESTA A PUNTO DEL MATERIAL DE AL.**
 
 Código: MED-VEAL210
@@ -5866,7 +5764,6 @@ CONTENIDOS BÁSICOS:
 –	Transporte de embarcaciones con aparejo libre. Medios: remolques de carretera, bacas, técnicas de sujeción.
 
 –	La seguridad en el transporte de embarcaciones con aparejo libre: normativa y código de circulación, cuidados durante la carga y el transporte.
-
 
 **Módulo específico de enseñanza deportiva: FORMACION PRÁCTICA**
 

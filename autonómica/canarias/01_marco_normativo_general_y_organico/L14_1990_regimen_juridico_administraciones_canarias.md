@@ -31,13 +31,12 @@ fundamentos_derecho:
   articulos:
   - '136'
 ---
-# Ley 14/1990, de 26 de julio, de Régimen Jurídico de las Administraciones Públicas de Canarias
 
+# Ley 14/1990, de 26 de julio, de Régimen Jurídico de las Administraciones Públicas de Canarias
 
 **EL PRESIDENTE DEL GOBIERNO**
 
 Sea notorio a todos los ciudadanos que el Parlamento de Canarias ha aprobado y yo, en nombre del Rey y de acuerdo con lo que establece el artículo 11.7 del Estatuto de Autonomía, promulgo y ordeno la publicación de la siguiente Ley:
-
 
 ## PREÁMBULO
 
@@ -75,9 +74,7 @@ En sus Disposiciones Adicionales Primera y Segunda, se describen, de forma no mu
 
 En las Disposiciones Transitorias se regula principalmente el procedimiento a seguir para la efectiva asunción por los Cabildos Insulares de las competencias transferidas.
 
-
 ## TÍTULO PRIMERO
-
 
 **Disposiciones generales**
 
@@ -85,28 +82,23 @@ CAPÍTULO PRIMERO
 
 Las Administraciones Publicas canarias
 
-
 #### Artículo 1.
 
 Para la representación y gestión de sus intereses, Canarias, sus islas y sus municipios se institucionalizan, respectivamente, en la Comunidad Autónoma, con su Administración Pública, los Cabildos Insulares y los Ayuntamientos.
-
 
 #### Artículo 2.
 
 Las Administraciones Públicas de Canarias se regirán por la Constitución, Estatuto de Autonomía, la legislación básica del Estado, la presente Ley y por las normas dictadas en desarrollo de éstas, respondiendo su organización, funcionamiento y régimen competencial a los principios de eficacia, economía, descentralización y máxima proximidad a los ciudadanos.
 
-
 #### Artículo 3.
 
 El Gobierno de Canarias, conforme a las normas del Estatuto de Autonomía, en los términos de la presente Ley y bajo el control político del Parlamento, ejerce las funciones ejecutivas y administrativas que le corresponden y coordina el funcionamiento de las Administraciones Públicas canarias.
-
 
 #### Artículo 4.
 
 1. La Administración Pública de la Comunidad Autónoma constituye el instrumento para el ejercicio de las funciones administrativas y la prestación de los servicios que dicha Comunidad deba realizar directamente.
 
 2. Corresponde al Gobierno de Canarias la organización y dirección de la Administración Pública de la Comunidad a fin de adecuarla al cumplimiento de los fines que la justifican.
-
 
 #### Artículo 5.
 
@@ -118,11 +110,9 @@ El Gobierno de Canarias, conforme a las normas del Estatuto de Autonomía, en lo
 
 4. En cuanto Instituciones de la Comunidad Autónoma, los Cabildos ejercen competencias y prestan servicio de aquélla de forma descentralizada, en los términos de la presente Ley.
 
-
 #### Artículo 6.
 
 Los Ayuntamientos son los órganos de gobierno y administración de los municipios en que se organizan territorialmente las islas. Gozan de autonomía plena para la gestión de los intereses que representan.
-
 
 #### Artículo 7.
 
@@ -142,13 +132,11 @@ CAPÍTULO II
 
 Sistema de competencias
 
-
 #### Artículo 8.
 
 1. Las Administraciones Públicas canarias aseguran, en su conjunto, el cumplimiento de las funciones administrativas derivadas de las competencias asumidas por la Comunidad Autónoma en virtud del Estatuto de Autonomía de Canarias, de la Ley Orgánica 11/1982, de 10 de agosto, de Transferencias Complementarias a Canarias, o de cualquier otra disposición estatal.
 
 2. El Parlamento de Canarias, en ejercicio de su potestad legislativa, atribuirá competencias a las diferentes Administraciones por cualquiera de los títulos y con ajuste a los principios y las reglas establecidas en el Estatuto de Autonomía de Canarias, en la Ley reguladora de las Bases del Régimen Local y en la presente Ley.
-
 
 #### Artículo 9.
 
@@ -158,7 +146,6 @@ a) Que la adecuada satisfacción del interés público y la defensa de los pri
 
 b) Que la naturaleza de la actividad o el servicio prestado impongan su organización regional por razones sociales, de eficacia o de economía.
 
-
 #### Artículo 10.
 
 1. Cuando no se den las circunstancias previstas en el artículo anterior, el ejercicio de las competencias administrativas de carácter regional podrá ser delegado en los Cabildos Insulares en su condición de Instituciones de la Comunidad Autónoma, por razón de los principios de eficacia, economía, descentralización y máxima proximidad a los ciudadanos.
@@ -166,7 +153,6 @@ b) Que la naturaleza de la actividad o el servicio prestado impongan su organi
 2. No serán delegables en los Cabildos funciones normativas, de planificación y coordinación en relación con competencias de carácter regional.
 
 3. El Gobierno de Canarias podrá acordar que el ejercicio de determinadas competencias de la Administración Pública de la Comunidad Autónoma se delegue en las Entidades municipales de su territorio en los casos y en las formas previstas en el artículo 27 de la Ley 7/1985, de 2 de abril.
-
 
 #### Artículo 11.
 
@@ -176,13 +162,11 @@ a) Respetar y, en su caso, ampliar las competencias directamente atribuidas a 
 
 b) Atribuir a los Cabildos Insulares, como propias, las competencias que procedan conforme a lo establecido en el artículo 22.3 del Estatuto de Autonomía de Canarias, en la Ley 7/1985, de 2 de abril, reguladora de las Bases del Régimen Local y en esta Ley.
 
-
 #### Artículo 12.
 
 1. La Comunidad Autónoma de Canarias, al regular los diversos sectores de la acción pública que sean de su competencia legislativa, transferirá a los Cabildos Insulares la titularidad y el ejercicio de las funciones administrativas autonómicas que respondan preponderantemente a un interés insular. Las competencias transferidas se integrarán entre las propias de la autonomía local de los Cabildos Insulares.
 
 2. La Comunidad Autónoma garantizará la suficiencia financiera de los Cabildos Insulares para el ejercicio de las competencias transferidas.
-
 
 #### Artículo 13.
 
@@ -192,13 +176,11 @@ CAPÍTULO III
 
 Sección 1.ª Relaciones interadministrativas
 
-
 #### Artículo 14.
 
 Las Administraciones Públicas Canarias deberán atenerse en sus relaciones recíprocas a los principios contenidos en el artículo 55 de la Ley reguladora de las Bases del Régimen Local, así como a los preceptos de este capítulo.
 
 Sección 2.ª Convenios de colaboración y sociedades mixtas
-
 
 #### Artículo 15.
 
@@ -207,7 +189,6 @@ Sección 2.ª Convenios de colaboración y sociedades mixtas
 2. A través de los convenios de colaboración las partes podrán coordinar sus políticas de fomento dirigidas a un mismo sector, distribuir las subvenciones otorgadas por una de ellas con referencia al ámbito territorial o población de otra, ejecutar puntualmente obras o servicios de la competencia de una de las partes, compartir las sedes, locales o edificios que sean precisos para el desarrollo de competencias concurrentes; ceder y aceptar la cesión de uso de bienes patrimoniales, desarrollar actividades de carácter prestacional y adoptar las medidas oportunas para alcanzar cualquiera otra finalidad, de contenido análogo a las anteriores.
 
 3. En especial, los Cabildos Insulares podrán suscribir con todos o algunos de los municipios de su isla convenios para garantizar el acceso de la población al conjunto de los servicios municipales y la mayor eficacia de la prestación de éstos.
-
 
 #### Artículo 16.
 
@@ -219,7 +200,6 @@ Sección 2.ª Convenios de colaboración y sociedades mixtas
 
 4. Trimestralmente se dará cuenta a la Comisión de Desarrollo Autonómico y Administración Territorial del Parlamento de Canarias de los convenios de colaboración suscritos por el Gobierno de Canarias con las entidades locales.
 
-
 #### Artículo 17.
 
 1. Para la prestación de servicios con contenido económico que no impliquen el ejercicio de autoridad y que afecten a los intereses de dos o más Administraciones Públicas se podrán constituir sociedades anónimas cuyo capital pertenezca total o mayoritariamente a las entidades afectadas.
@@ -230,13 +210,11 @@ Sección 2.ª Convenios de colaboración y sociedades mixtas
 
 Sección 3.ª Coordinación administrativa
 
-
 #### Artículo 18.
 
 1. El Gobierno de Canarias podrá coordinar el ejercicio de las competencias propias de los Cabildos Insulares y de los municipios de su territorio en cuanto afecte directamente el interés general de la Comunidad, cuando sea expresamente autorizado para ello por Ley del Parlamento de Canarias, para materias, servicios o competencias determinadas, con el contenido y garantías previstas en la legislación básica estatal.
 
 2. La coordinación de la actividad de los Cabildos Insulares se realizará por el Gobierno de Canarias, respetando la potestad autoorganizatoria de los Cabildos Insulares, oída la Comisión de Administración Territorial, pudiendo definir para ello los adecuados planes sectoriales de interés general que, una vez aprobados, serán objeto de examen por el Parlamento de Canarias.
-
 
 #### Artículo 19.
 
@@ -245,7 +223,6 @@ Sección 3.ª Coordinación administrativa
 2. En todo caso, la Administración de la Comunidad Autónoma, con el fin de comprobar la efectividad de la aplicación de la legislación autonómica, podrá recabar y obtener información concreta sobre la actividad insular y municipal e incluso la exhibición o remisión de copia autorizada de expedientes administrativos y la emisión de informes.
 
 3. La Administración de la Comunidad Autónoma facilitará la participación de los representantes legales de las entidades locales canarias en los procedimientos de planificación, programación y gestión de obras y servicios que les afecten directamente, mediante los instrumentos que al efecto proponga la Comisión de Administración Territorial de la Comunidad Autónoma de Canarias prevista en el artículo 21 de esta Ley.
-
 
 #### Artículo 20.
 
@@ -260,7 +237,6 @@ Sección 3.ª Coordinación administrativa
 5. El Plan vinculará las políticas de fomento, transferencia y subvención del Gobierno Autónomo de Canarias.
 
 6. El Gobierno de Canarias remitirá anualmente al Parlamento una Memoria explicativa del grado de cumplimiento de los objetivos trazados por el Plan.
-
 
 #### Artículo 21.
 
@@ -304,11 +280,9 @@ f) Armonización o conjunción de criterios en la política de inversiones pú
 
 5. El Gobierno de Canarias reglamentará el funcionamiento de esta Comisión.
 
-
 #### Artículo 22.
 
 Corresponde al Gobierno de la Comunidad Autónoma de Canarias la facultad de resolver los conflictos de competencias entre los diversos Entes Locales de su ámbito territorial, antes de la intervención de la Jurisdicción Contencioso-Administrativa.
-
 
 #### Artículo 23.
 
@@ -318,27 +292,21 @@ Corresponde al Gobierno de la Comunidad Autónoma de Canarias la facultad de res
 
 3. La Administración de la Comunidad Autónoma, a través de los Servicios Jurídicos del Gobierno de Canarias, podrá impugnar los actos y acuerdos de las entidades locales ante la Jurisdicción Contencioso-Administrativa en los términos previstos en los artículos 65 y 66 de la Ley reguladora de las Bases del Régimen Local.
 
-
 #### Artículo 24.
 
 El abono de los gastos ocasionados a la Administración Autonómica de Canarias como consecuencia de las medidas adoptadas en uso de la potestad de sustitución de las Corporaciones locales conferida por el artículo 60 de la Ley 7/1985, de 2 de abril, se exigirán de la entidad local deudora como ingresos de derecho público.
-
 
 #### Artículo 25.
 
 La facultad atribuida al Gobierno de Canarias por el artículo 61 de la Ley reguladora de las Bases del Régimen Local se ejercerá a propuesta del Consejero competente en la materia de Régimen Local, previo informe del Consejo Consultivo de Canarias y dando cuenta al Parlamento de Canarias.
 
-
 ## TÍTULO II
 
-
 **De la Administración Pública de la Comunidad Autónoma de Canarias**
-
 
 #### Artículo 26.
 
 La Administración de la Comunidad Autónoma sirve con objetividad los intereses generales, actúa de acuerdo con los principios constitucionales y estatutarios y con sometimiento pleno a la Ley y al Derecho.
-
 
 #### Artículo 27.
 
@@ -354,7 +322,6 @@ La Administración de la Comunidad Autónoma sirve con objetividad los intereses
 
 6. De dicha estructura central y territorial se dará cuenta al Parlamento de Canarias.
 
-
 #### Artículo 28.
 
 1. El Gobierno de Canarias, dentro de los límites estatutarios y en el marco de lo dispuesto en la presente Ley, podrá determinar mediante Decreto:
@@ -364,7 +331,6 @@ a) El número, denominación y competencias de las Consejerías que integran s
 b) Los órganos centrales y territoriales, generales y especiales que sean precisos para la gestión de los servicios.
 
 2. De los acuerdos adoptados en uso de la facultad conferida en el apartado a) del número anterior se dará cuenta al Parlamento de Canarias, en forma de comunicación para su debate posterior en el Pleno.
-
 
 #### Artículo 29.
 
@@ -398,13 +364,11 @@ m) Y cualesquiera otras facultades que les atribuyan las leyes.
 
 2. Los restantes órganos de la Administración propia de la Comunidad Autónoma ejercen las competencias que les correspondan conforme a las normas que los regulen.
 
-
 #### Artículo 30.
 
 1. La Administración Pública de la Comunidad Autónoma adecua sus estructuras y ordena su funcionamiento a la consecución de las mejores prestaciones públicas, con la mayor economía de medios que permita el cumplimiento de los fines que tiene encomendados conforme a lo dispuesto en el título I de la presente Ley.
 
 2. La creación de todo órgano administrativo que suponga un incremento del gasto público irá precedida por un estudio económico de los costes de instalación y funcionamiento y del rendimiento de utilidad de sus servicios, así como de la justificación razonada de su procedencia conforme a los criterios previstos en el artículo 9 de esta Ley.
-
 
 #### Artículo 31.
 
@@ -418,18 +382,15 @@ m) Y cualesquiera otras facultades que les atribuyan las leyes.
 
 5. Las delegaciones y las avocaciones de carácter general que se efectúen de acuerdo con los números anteriores deberán ser publicadas, para surtir efectos, en el «Boletín Oficial de la Comunidad de Canarias».
 
-
 #### Artículo 32.
 
 Las actuaciones ejecutadas por los órganos regionales o territoriales de la Administración de la Comunidad Autónoma, así como los actos administrativos emanados de los órganos de los Cabildos Insulares o Ayuntamientos canarios en el ejercicio de competencias delegadas por la Comunidad Autónoma, se imputarán a aquélla a los efectos de la responsabilidad patrimonial y de la representación y defensa en juicio, que se llevará a cabo por los Servicios Jurídicos del Gobierno de Canarias.
-
 
 #### Artículo 33.
 
 1. La responsabilidad patrimonial de la Administración de la Comunidad Autónoma será exigible en los términos establecidos por la legislación básica del Estado, de acuerdo con lo dispuesto en el artículo 106.2 de la Constitución Española.
 
 2. Los actos de la Administración Pública de la Comunidad sujetos al Derecho Administrativo se adoptarán conforme a las normas de procedimiento establecido por la legislación estatal, salvo en el caso de procedimientos especiales regulados por Ley de la Comunidad Autónoma en el marco de las competencias legislativas conferidas por el Estatuto de Autonomía.
-
 
 #### Artículo 34.
 
@@ -449,12 +410,9 @@ f) La inembargabilidad de sus bienes y derechos, así como los privilegios de 
 
 g) La exención de toda obligación de garantía o caución ante cualquier organismo administrativo o Tribunal Jurisdiccional.
 
-
 ## TÍTULO III
 
-
 **De la prohibición de Federaciones o Mancomunidades de Cabildos Insulares**
-
 
 #### Artículo 35.
 
@@ -462,16 +420,13 @@ g) La exención de toda obligación de garantía o caución ante cualquier org
 
 2. Los actos contrarios a lo establecido en el apartado anterior serán nulos de pleno derecho.
 
-
 ## TÍTULO IV
-
 
 **Los Cabildos Insulares**
 
 CAPÍTULO I
 
 Naturaleza y funciones
-
 
 #### Artículo 36.
 
@@ -497,11 +452,9 @@ CAPÍTULO II
 
 Iniciativa legislativa
 
-
 #### Artículo 37.
 
 La iniciativa legislativa de los Cabildos Insulares a que se refiere el artículo 11.4 del Estatuto de Autonomía de Canarias, se ejercerá en cualquier materia sobre la que pueda pronunciarse legislativamente la Comunidad Autónoma de Canarias. Asimismo, los Cabildos Insulares podrán proponer a la Cámara Regional el ejercicio de la iniciativa prevista en el artículo 12.e) del Estatuto de Autonomía de Canarias.
-
 
 #### Artículo 38.
 
@@ -512,7 +465,6 @@ La iniciativa legislativa de los Cabildos Insulares a que se refiere el artícul
 a) El texto articulado de la proposición de Ley, acompañado de una exposición de motivos y de los antecedentes que se consideren necesarios para pronunciarse sobre el mismo.
 
 b) Certificación expedida por el Secretario de la Corporación y acreditativa del cumplimiento de los requisitos previstos en este artículo.
-
 
 #### Artículo 39.
 
@@ -525,7 +477,6 @@ b) Certificación expedida por el Secretario de la Corporación y acreditativa
 CAPÍTULO III
 
 Representación y colaboración con el Gobierno de Canarias
-
 
 #### Artículo 40.
 
@@ -549,18 +500,15 @@ Competencias y funciones
 
 Sección 1.ª Competencias propias
 
-
 #### Artículo 41.
 
 Los Cabildos Insulares, como Corporaciones Locales Territoriales, tienen atribuido el gobierno, la administración y representación de cada isla y gozan de plena autonomía para el ejercicio de sus competencias propias.
-
 
 #### Artículo 42.
 
 Son competencias propias de los Cabildos, además de las reconocidas en el artículo 5 de la Ley 11 de julio de 1912, de Régimen del Archipiélago Canario, las que se les atribuyan con tal carácter, de acuerdo con lo dispuesto en la Ley 7/1985, reguladora de las Bases del Régimen Local, y en las leyes reguladoras de los distintos sectores de la actuación pública.
 
 Idéntico carácter tendrán las competencias transferidas a los Cabildos por Leyes del Parlamento de Canarias.
-
 
 #### Artículo 43.
 
@@ -580,11 +528,9 @@ e) El fomento y administración de los intereses peculiares de la isla.
 
 2. La ejecución por los Cabildos de competencias de carácter municipal que tengan en la isla el ámbito más idóneo de organización, sólo podrá llevarse a cabo, ya sea a iniciativa del Cabildo o de los municipios afectados, por acuerdo de sus respectivos Ayuntamientos. También podrá llevarse a cabo por Ley del Parlamento de Canarias en aquellos sectores que sean de la competencia legislativa de la Comunidad Autónoma.
 
-
 #### Artículo 44.
 
 Asimismo, los Cabildos Insulares ejercen en régimen de autonomía las competencias cuya titularidad les transfiera tanto esta Ley como las sectoriales que pueda aprobar el Parlamento de Canarias en el futuro, conforme al procedimiento y régimen jurídico regulado en el capítulo siguiente.
-
 
 #### Artículo 45.
 
@@ -592,13 +538,11 @@ Asimismo, los Cabildos Insulares ejercen en régimen de autonomía las competenc
 
 2. Si el Gobierno al aprobar un proyecto de Ley o informar sobre una proposición de Ley, apreciare que los mismos limitan las competencias transferidas a los Cabildos Insulares por leyes anteriores, deberá dar previamente audiencia a los mismos antes de su remisión al Parlamento.
 
-
 #### Artículo 46.
 
 1. Las competencias que se atribuyan por la Comunidad Autónoma de Canarias a cada Administración Pública, incluso las transferidas de la Administración de la Comunidad Autónoma a los Cabildos Insulares, se someterán al régimen jurídico y financiero regulador del ejercicio de las competencias propias de cada Administración.
 
 2. Sin perjuicio de la potestad de los Cabildos para la organización y prestación de los servicios correspondientes a las competencias y funciones transferidas bajo su propia responsabilidad, la Comunidad Autónoma ostenta siempre la ordenación básica externa, legislativa y reglamentaria de las materias a que se refieran dichas competencias y funciones.
-
 
 #### Artículo 47.
 
@@ -607,7 +551,6 @@ Asimismo, los Cabildos Insulares ejercen en régimen de autonomía las competenc
 2. No obstante, el ejercicio efectivo de las mismas se podrá asumir paulatinamente por los diferentes Cabildos Insulares de forma que en todo caso quede garantizado el mantenimiento, como mínimo, en las funciones y servicios, del nivel de eficacia anterior a la transferencia. Tal asunción paulatina no podrá superar el plazo de un año.
 
 3. La reiterada negativa de un Cabildo Insular a asumir el ejercicio efectivo de competencias transferidas determinará la adopción de las medidas previstas en el artículo 60 de la Ley 7/1985, de 2 de abril, reguladora de las Bases del Régimen Local.
-
 
 #### Artículo 48.
 
@@ -621,11 +564,9 @@ b) Los Cabildos Insulares se subrogarán en la titularidad de los bienes, dere
 
 c) El personal de la Comunidad Autónoma que quede incorporado a los Cabildos, se integrará en las correspondientes plantillas y relaciones de puestos de trabajo de estos últimos, respetando los derechos adquiridos y conservando el derecho a participar en los concursos que, para la provisión de puestos de trabajo, convoque la Comunidad.
 
-
 #### Artículo 49.
 
 De las competencias transferidas responderán los Cabildos Insulares como del resto de sus competencias propias desde la fecha de eficacia de la transferencia.
-
 
 #### Artículo 50.
 
@@ -643,7 +584,6 @@ d) Los Cabildos Insulares están obligados a mantener, respecto a los servicio
 
 Sección 2.ª Competencias delegadas
 
-
 #### Artículo 51.
 
 1. La delegación de competencias de carácter regional se dispondrá, de acuerdo con las leyes de la Comunidad Autónoma reguladoras de los diversos sectores de la acción pública, mediante Decreto del Gobierno publicado en el «Boletín Oficial de Canarias».
@@ -652,7 +592,6 @@ Sección 2.ª Competencias delegadas
 
 3. La delegación, en ningún caso, modificará la titularidad autonómica de la competencia administrativa que tenga por objeto.
 
-
 #### Artículo 52.
 
 1. Los proyectos de Decretos de delegación serán acordados entre el Gobierno de Canarias y los Cabildos Insulares.
@@ -660,7 +599,6 @@ Sección 2.ª Competencias delegadas
 2. El Decreto delegante concretará el alcance, contenido, condiciones y duración de ésta, así como los medios personales, materiales y los recursos entregados para su ejercicio.
 
 3. La delegación surtirá efectos desde que, publicado el Decreto que se acaba de mencionar, se suscriba entre el Gobierno de Canarias y el Cabildo Insular la correspondiente acta de entrega y recepción de los medios y expedientes relacionados con la competencia delegada.
-
 
 #### Artículo 53.
 
@@ -676,7 +614,6 @@ El control del destino efectivo de los créditos autorizados al ejercicio de las
 
 4. Sin perjuicio de lo dispuesto en el número anterior, los Cabildos Insulares podrán consignar en sus respectivos presupuestos los créditos que estimen convenientes para aumentar la eficacia de los servicios delegados.
 
-
 #### Artículo 54.
 
 A fin de asegurar el control y dirección de la ejecución por los Cabildos Insulares de las competencias delegadas, corresponde al Gobierno de Canarias y a la Administración de la Comunidad Autónoma:
@@ -691,7 +628,6 @@ d) La emisión de informes preceptivos e incluso vinculantes, por parte de sus
 
 e) La facultad de convocar conferencias sectoriales bajo la presidencia del Consejero correspondiente del Gobierno de Canarias con objeto de tratar la problemática general del sector y coordinar la adopción de medidas.
 
-
 #### Artículo 55.
 
 1. En el caso de incumplimiento de las normas reguladoras de las competencias delegadas, obstaculización de la labor inspectora o, en general, deficiente gestión de los servicios, el Gobierno de Canarias advertirá expresamente al Cabildo Insular para que sean corregidas en un plazo no superior a un mes, salvo cuando aquéllas fueran susceptibles de producir daños graves o irreparables, en las que el plazo se reducirá a 15 días.
@@ -700,9 +636,7 @@ e) La facultad de convocar conferencias sectoriales bajo la presidencia del Co
 
 3. De la disposición que deja sin efecto la delegación se dará cuenta al Parlamento de Canarias, que resolverá sobre la procedencia de la decisión del Gobierno, levantando la revocación o ratificando la misma.
 
-
 ## TÍTULO V
-
 
 **De los municipios canarios**
 
@@ -710,26 +644,21 @@ CAPÍTULO I
 
 Normas generales
 
-
 #### Artículo 56.
 
 Los municipios canarios, como entidades locales territoriales, dirigidos por sus órganos de gobierno y representación, gozan de plena autonomía para el ejercicio de sus competencias propias.
-
 
 #### Artículo 57.
 
 Son competencias propias de los municipios canarios las atribuidas por la Ley Reguladora de las Bases del Régimen Local y las que, en este concepto y dentro del ámbito de sus respectivas competencias, les otorguen las Leyes del Estado y de la Comunidad Autónoma al regular los diferentes sectores de la acción pública.
 
-
 #### Artículo 58.
 
 Los municipios canarios podrán ejercer las competencias que les sean delegadas por las Instituciones de la Comunidad Autónoma o por otras Entidades Locales en los términos y con sujeción al régimen jurídico previsto en la Ley Reguladora de las Bases del Régimen Local y en la presente Ley.
 
-
 #### Artículo 59.
 
 Los municipios canarios, como Administraciones Públicas de carácter territorial y dentro de la esfera de sus competencias, ostentarán las potestades y prerrogativas atribuidas por la Ley Reguladora de las Bases del Régimen Local.
-
 
 #### Artículo 60.
 
@@ -743,13 +672,11 @@ De la organización de los municipios
 
 Sección 1.ª De los órganos municipales
 
-
 #### Artículo 61.
 
 1. La organización y funcionamiento de los municipios canarios se regirán por la legislación básica de Régimen Local y por sus respectivos Reglamentos orgánicos.
 
 2. En defecto de Reglamento propio, la organización y funcionamiento de los municipios canarios se regirán por la Ley Reguladora de las Bases del Régimen Local y por los preceptos contenidos en los artículos siguientes.
-
 
 #### Artículo 62.
 
@@ -781,11 +708,9 @@ e) Son órganos de participación vecinal los Consejos de Distrito o Barrio y 
 
 Sección 2.ª Del Alcalde
 
-
 #### Artículo 63.
 
 El Alcalde es el Presidente de la Corporación, representa al Ayuntamiento, dirige el Gobierno y la Administración municipal y convoca y preside las sesiones del Pleno, de la Comisión de Gobierno, en su caso, y de cualesquiera otros órganos municipales de carácter colegiado.
-
 
 #### Artículo 64.
 
@@ -795,7 +720,6 @@ El Alcalde es el Presidente de la Corporación, representa al Ayuntamiento, diri
 
 3. Si no se hallare presente en la sesión de constitución será requerido para tomar posesión en el plazo de cuarenta y ocho horas, igualmente ante el Pleno corporativo, con la advertencia de que, caso de no hacerlo sin causa justificada, se estará a lo dispuesto en la legislación electoral para los casos de vacante en la Alcaldía.
 
-
 #### Artículo 65.
 
 El Alcalde podrá renunciar a su cargo sin perder por ello su condición de Concejal. La renuncia se formulará por escrito ante el Pleno de la Corporación, que deberá aceptarla.
@@ -804,25 +728,21 @@ En tal caso, la vacante se cubrirá en la forma establecida en la legislación e
 
 El Alcalde que hubiere renunciado a su cargo no podrá volver a ostentarlo durante el resto del mandato de la Corporación.
 
-
 #### Artículo 66.
 
 1. Salvo en el supuesto regulado en el artículo 67 de la presente Ley, vacante la Alcaldía por cualquiera de las causas establecidas legalmente, la sesión extraordinaria para elección de nuevo Alcalde se celebrará con los requisitos establecidos en la legislación electoral, dentro de los diez días siguientes a la constatación del hecho que hubiera dado lugar a la vacante.
 
 2. En ningún caso podrá el Teniente de Alcalde presidir una sesión que no sea para celebrar el acto de elección de nuevo Alcalde.
 
-
 #### Artículo 67.
 
 En el supuesto de moción de censura contra el Alcalde, éste cesará en su cargo en el momento que aquélla prosperara, siendo proclamado automáticamente el candidato a Alcalde propuesto por los Concejales que suscriban la moción, de acuerdo con lo establecido en la legislación electoral general.
-
 
 #### Artículo 68.
 
 Las decisiones del Alcalde se materializarán formalmente mediante Decretos de la Alcaldía, que serán comunicados a cuantos tengan interés directo y legítimo en lo decretado. El Secretario general de la Corporación llevará un Libro de Registro de dichos Decretos, que tendrá el carácter de público, expidiendo las certificaciones del mismo que le fueran solicitadas por los Concejales o por cualquier persona que tenga interés directo. Dicho libro se abrirá con los mismos requisitos que el Libro de Actas.
 
 Las resoluciones del Alcalde, Teniente de Alcalde y Concejales Delegados, que no sean de mero trámite, tendrán constancia en un soporte documental que garantice su permanencia y publicidad. Deberán ser firmadas por la autoridad de que emanen y por el Secretario, o persona que legalmente le sustituya, que dará fe de su autenticidad.
-
 
 #### Artículo 69.
 
@@ -840,7 +760,6 @@ Todo lo anterior con la reserva de competencias que la Ley reguladora de las Bas
 
 Sección 3.ª De los Tenientes de Alcalde
 
-
 #### Artículo 70.
 
 Los Tenientes de Alcalde serán designados y revocados por el Alcalde de entre los miembros de la Comisión de Gobierno o, de no existir ésta, de entre los Concejales, en número que no sobrepase el de un tercio del número legal de la Corporación.
@@ -855,7 +774,6 @@ b) 1. En los de ausencia o enfermedad serán requisitos necesarios para la s
 
 c) No será necesaria la manifestación a que se refiere el punto 1 del apartado b) en los casos de catástrofe o infortunio público contemplados en el apartado j) del artículo 21 de la Ley reguladora de las Bases del Régimen Local, siempre y cuando no se pudiese localizar al Alcalde con la brevedad necesaria. En este caso se dará cuenta al Alcalde de manera inmediata y éste al Pleno.
 
-
 #### Artículo 71.
 
 El Alcalde deberá dar cuenta al Pleno, en la primera sesión que éste celebre, de los nombramientos de los Tenientes de Alcalde y del contenido de las delegaciones que haya conferido.
@@ -864,13 +782,11 @@ Todos los nombramientos y delegaciones a los Tenientes de Alcalde serán realiza
 
 Sección 4.ª Del Pleno
 
-
 #### Artículo 72.
 
 1. El Pleno del Ayuntamiento está integrado por todos los Concejales y lo preside el Alcalde.
 
 2. Corresponde al Pleno las atribuciones que le confiere el artículo 22.2 de la Ley reguladora de las Bases del Régimen Local.
-
 
 #### Artículo 73.
 
@@ -884,13 +800,11 @@ Ningún Concejal podrá formar parte de más de un grupo municipal. Los que no q
 
 Sección 5.ª De la Comisión de Gobierno
 
-
 #### Artículo 74.
 
 En todos los municipios con población superior a 5.000 habitantes y en los de menos cuyo Pleno así lo apruebe, existirá una Comisión de Gobierno.
 
 La Comisión de Gobierno se integra por el Alcalde y un número de Concejales no superior al tercio de los mismos, nombrados y separados libremente por aquél, dando cuenta al Pleno.
-
 
 #### Artículo 75.
 
@@ -902,7 +816,6 @@ b) Las que el Alcalde o el Pleno les deleguen y las que les atribuyan las leye
 
 Sección 6.ª De los Concejales delegados
 
-
 #### Artículo 76.
 
 Son Concejales delegados aquellos miembros de la Comisión de Gobierno que de modo individual y, en su condición de tales, ejercen competencias delegadas por el Alcalde en forma expresa.
@@ -910,7 +823,6 @@ Son Concejales delegados aquellos miembros de la Comisión de Gobierno que de mo
 Sin perjuicio de lo anterior, el Alcalde podrá conferir a otros Concejales delegaciones para cometidos específicos.
 
 Sección 7.ª De los Concejales
-
 
 #### Artículo 77.
 
@@ -920,11 +832,9 @@ La toma de posesión, que en todo caso se realizará ante el Pleno, irá precedi
 
 En caso de no tomar posesión en las condiciones establecidas en este artículo, se estará a lo dispuesto en la legislación electoral para los supuestos de vacante de Concejal.
 
-
 #### Artículo 78.
 
 El ejercicio del cargo de Concejal es obligatorio, sin perjuicio del derecho a renuncia, y conllevará la obligación y el derecho de asistir a las sesiones plenarias con voz y voto.
-
 
 #### Artículo 79.
 
@@ -940,16 +850,13 @@ Por expiración del mandato de conformidad con la legislación electoral.
 
 2. La renuncia al cargo de Concejal deberá presentarse ante la Junta electoral de Zona si todavía no se ha tomado posesión del mismo. Una vez posesionado del cargo, la renuncia deberá hacerse efectiva por escrito ante el Pleno de la Corporación, que deberá aceptarla.
 
-
 #### Artículo 80.
 
 Los acuerdos de declaración de vacante de Concejal deberán tramitarse como último punto del Orden del Día de la sesión en que se adopten, y el acto de toma de posesión del sustituto figurará como primer punto del orden del día de la sesión siguiente.
 
-
 #### Artículo 81.
 
 En lo referente a las retribuciones, indemnizaciones, permisos y derechos laborales de los miembros de las Corporaciones, se estará en su totalidad a los artículos 74 y 75 de la Ley reguladora de las bases del Régimen Local.
-
 
 #### Artículo 82.
 
@@ -961,7 +868,6 @@ En lo referente a las retribuciones, indemnizaciones, permisos y derechos labora
 
 Sección 8.ª De las Comisiones Municipales Informativas
 
-
 #### Artículo 83.
 
 1. Las Comisiones Informativas Municipales son órganos de estudio, asesoramiento, informe y consulta en las que participan Concejales de todos los grupos políticos presentes en la Corporación.
@@ -970,20 +876,17 @@ Sección 8.ª De las Comisiones Municipales Informativas
 
 3. En el seno de cada Comisión pueden crearse subcomisiones o grupos de trabajo con cometidos específicos que tendrán, en todo caso, carácter temporal.
 
-
 #### Artículo 84.
 
 1. Todos los Concejales participan en las Comisiones Informativas, respetándose en su composición la proporcionalidad política del Pleno.
 
 2. En todo caso se garantizará que cada grupo político tenga un Concejal en cada Comisión Informativa como mínimo.
 
-
 #### Artículo 85.
 
 Las Comisiones Informativas deberán conocer los asuntos cuyo tratamiento y decisión correspondan al Pleno y aquellos otros para las que sean requeridas por el Alcalde o la Comisión de Gobierno.
 
 Ninguna Comisión podrá deliberar sobre asuntos de la competencia de otra, a menos que se trate de problemas comunes. No obstante, podrán convocarse reuniones de dos o más Comisiones Informativas para tratar asuntos comunes.
-
 
 #### Artículo 86.
 
@@ -993,11 +896,9 @@ Se podrán tratar asuntos no incluidos en el orden del día mediante acuerdo ado
 
 Sección 9.ª De las comisiones especiales
 
-
 #### Artículo 87.
 
 Los Ayuntamientos podrán acordar la creación de Comisiones Especiales por acuerdo de la mayoría absoluta del Pleno a propuesta del Alcalde o de la cuarta parte del número legal de Concejales.
-
 
 #### Artículo 88.
 
@@ -1005,11 +906,9 @@ Los Ayuntamientos podrán acordar la creación de Comisiones Especiales por acue
 
 2. La Comisión de Colaboración con otras Administraciones Públicas tendrá encomendada la supervisión, seguimiento y fiscalización de las competencias delegadas en los Ayuntamientos y desarrollará su labor a través de informes y dictámenes preceptivos en el ejercicio de las competencias delegadas a los Ayuntamientos por otras instancias territoriales.
 
-
 #### Artículo 89.
 
 Las Comisiones de Investigación tendrán carácter extraordinario y se constituirán para un trabajo concreto, extinguiéndose una vez finalizado éste.
-
 
 #### Artículo 90.
 
@@ -1017,26 +916,21 @@ La Comisión Especial de Cuentas tiene por objeto supervisar todas las cuentas m
 
 Sección 10. De las Entidades Territoriales Inframunicipales
 
-
 #### Artículo 91.
 
 Sin perjuicio de las competencias del municipio reconocidas en el artículo 25 de la Ley 7/1985, reguladora de las Bases del Régimen Local, se podrán constituir entidades inframunicipales para la administración descentralizada de los núcleos de población separados o con características peculiares. Para la constitución de estos entes descentralizados se atenderá a las condiciones que permitan un satisfactorio funcionamiento de los mismos y a la voluntad mayoritaria de los habitantes de los núcleos urbanos afectados.
-
 
 #### Artículo 92.
 
 El Ayuntamiento se ajustará para la constitución de estas entidades a las previsiones del artículo 45 de la Ley reguladora de las Bases del Régimen Local y a la legislación en materia de elecciones locales, en cuanto a la elección de Alcalde Pedáneo y de los Vocales de la Junta Vecinal u órgano colegiado.
 
-
 #### Artículo 93.
 
 Además de las competencias legalmente atribuidas a estas entidades inframunicipales, el Ayuntamiento podrá descentralizar en su favor todas aquellas atribuciones que permitan una gestión más eficaz y cercana a los administrados.
 
-
 #### Artículo 94.
 
 Para el desarrollo de las competencias descentralizadas o delegadas, el Ayuntamiento asignará a estas entidades los medios necesarios y suficientes para el ejercicio de las competencias asumidas.
-
 
 #### Artículo 95.
 
@@ -1046,11 +940,9 @@ El importe de las transferencias será, como mínimo, el montante de las cuotas 
 
 Sección 11. De las Juntas Municipales de Distrito o de Barrio
 
-
 #### Artículo 96.
 
 Las Juntas Municipales son órganos territoriales de gestión colegiada y desconcentrada donde se posibilitará la más amplia y efectiva participación ciudadana. En Canarias sólo se podrán crear Juntas Municipales de Distrito en aquellos municipios que superen los 50.000 habitantes de derecho.
-
 
 #### Artículo 97.
 
@@ -1064,16 +956,13 @@ b) En distritos de más de 50.000 habitantes, 11 Vocales a los que se sumará
 
 3. Para el nombramiento de los Vocales se tendrán en cuenta las mismas causas de inelegibilidad e incompatibilidad que se aplica al cargo de Concejal.
 
-
 #### Artículo 98.
 
 Las Juntas Municipales recibirán competencias delegadas de la Alcaldía y de la Comisión de Gobierno, tendiendo de esta forma a mejorar la gestión y a facilitar la participación ciudadana en la misma. En todo caso se actuará en el momento de la delegación de acuerdo con los principios de eficacia, descentralización, desconcentración y coordinación impuestos por el artículo 6 de la Ley reguladora de las Bases del Régimen Local.
 
-
 #### Artículo 99.
 
 Son órganos de las Juntas de Distrito el Presidente, el Pleno, el equipo de Gobierno y los Consejos de Participación Ciudadana.
-
 
 #### Artículo 100.
 
@@ -1085,13 +974,11 @@ Son órganos de las Juntas de Distrito el Presidente, el Pleno, el equipo de Gob
 
 4. El Presidente de la Junta es el representante del Alcalde en el distrito y recibe competencias delegadas de éste.
 
-
 #### Artículo 101.
 
 1. El Pleno de la Junta está compuesto por el Presidente y los Vocales, actuando de Secretario con voz pero sin voto el jefe de la Oficina Municipal de Distrito.
 
 2. El Pleno es el órgano de control y fiscalización del Presidente y del equipo de Gobierno.
-
 
 #### Artículo 102.
 
@@ -1101,11 +988,9 @@ Son órganos de las Juntas de Distrito el Presidente, el Pleno, el equipo de Gob
 
 3. Es un órgano de asistencia al Presidente en el desempeño de sus funciones y de gestión y gobierno colectivo de la Junta de Distrito.
 
-
 #### Artículo 103.
 
 Los Consejos de Participación Ciudadana son órganos de estudio, asesoramiento, consulta, propuesta y seguimiento de la gestión, donde tiene lugar la participación real, directa y efectiva de los vecinos en la vida municipal.
-
 
 #### Artículo 104.
 
@@ -1114,7 +999,6 @@ Pueden ser miembros de los Consejos de Participación Ciudadana:
 a) Las entidades ciudadanas con domicilio en el distrito y que estén inscritas en el Registro de Entidades Ciudadanas.
 
 b) Los vecinos que residan o desempeñen su trabajo en el distrito y soliciten su inscripción en el Consejo para el estudio de temas específicos. En este caso la solicitud se hará mediante escrito razonado al Presidente de la Junta que lo someterá al conocimiento y aprobación del Pleno de la Junta.
-
 
 #### Artículo 105.
 
@@ -1134,7 +1018,6 @@ e) Participar en las actividades y actuaciones directas en el distrito.
 
 Sección 12. De los Consejos de Barrio y de Sector
 
-
 #### Artículo 106.
 
 Si las características del municipio y de su población no aconsejasen la implantación de entes de gestión desconcentrada, la participación ciudadana se articulará a través de los siguientes órganos:
@@ -1142,7 +1025,6 @@ Si las características del municipio y de su población no aconsejasen la impla
 a) Consejos de Barrio.
 
 b) Consejos Locales de Sector.
-
 
 #### Artículo 107.
 
@@ -1162,7 +1044,6 @@ c) Vecinos a título individual previa solicitud razonada al Consejo.
 
 A los efectos del párrafo anterior, los Ayuntamientos deberán recabar de los Consejos informe en todos aquellos asuntos de trascendencia que afecten a los respectivos barrios.
 
-
 #### Artículo 108.
 
 1. Los Consejos Municipales de Sector son órganos sectoriales para facilitar la participación ciudadana en el gobierno municipal.
@@ -1176,7 +1057,6 @@ Los Consejos podrán establecer comisiones de trabajo para el mejor tratamiento 
 a) El Concejal Delegado del Servicio correspondiente, que será su Presidente.
 
 b) Representantes de entidades con interés e incidencia en el sector de que se trate; así: sindicales, empresariales, culturales, deportivas, juveniles y otras.
-
 
 #### Artículo 109.
 
@@ -1194,13 +1074,11 @@ De las sesiones de los órganos municipales
 
 Sección 1.ª De la sesión constitutiva del Ayuntamiento
 
-
 #### Artículo 110.
 
 1. El tercer día anterior al señalado por la legislación electoral para la sesión constitutiva del Ayuntamiento los Concejales cesantes, tanto del Pleno como, en su caso, de la Comisión de Gobierno, se reunirán en sesión convocada al solo efecto de aprobar el Acta de la última sesión celebrada. En caso de no existir quórum suficiente, se celebrará la sesión, en segunda convocatoria, cuarenta y ocho horas después de la señalada para la primera, cualquiera que sea el número de los concurrentes. Será indispensable que asista, como mínimo, un Concejal, además del Alcalde.
 
 2. Los Secretarios e Interventores tomarán las medidas precisas para que el día de la constitución de las nuevas Corporaciones locales estén preparados y actualizados todos los justificantes de las existencias en metálico o valores propios de la Corporación, depositados en la Caja Municipal o entidades bancarias, así como la documentación relativa al inventario del patrimonio de la Corporación y de sus organismos autónomos.
-
 
 #### Artículo 111.
 
@@ -1212,11 +1090,9 @@ Sección 1.ª De la sesión constitutiva del Ayuntamiento
 
 4. Realizada la operación anterior, la Mesa declarará constituida la Corporación si concurre la mayoría absoluta de los Concejales electos. En caso contrario, se celebrará sesión dos días después, en el mismo lugar y hora previstos en el número 1 de este artículo, quedando constituida la Corporación cualquiera que fuera el número de Concejales presentes.
 
-
 #### Artículo 112.
 
 De la sesión constitutiva se levantará acta, que se remitirá al Delegado del Gobierno en la Comunidad y al Consejero competente en materia de Régimen Local en la Comunidad Autónoma en el plazo de tres días siguientes a la celebración de la sesión.
-
 
 #### Artículo 113.
 
@@ -1231,7 +1107,6 @@ c) Establecimiento de las Comisiones informativas y de órganos de gestión de
 d) Conocimiento de los nombramientos de Teniente de Alcalde, Concejales Delegados y Presidentes de las Comisiones Informativas y Concejales Presidentes de las Juntas Municipales de Distrito o de Barrio.
 
 e) Nombramiento de representantes de la Corporación en toda clase de órganos colegiados en que deba estar representada.
-
 
 #### Artículo 114.
 
@@ -1249,7 +1124,6 @@ d) En caso de creación de nuevos municipios.
 
 3. La alteración de términos municipales no determinará modificaciones del número legal de Concejales en los Ayuntamientos afectados durante el tiempo de su mandato.
 
-
 #### Artículo 115.
 
 1. La Comisión Gestora estará integrada por los Concejales que subsistiesen o los proclamados electos que hubiesen presentado sus credenciales en tiempo y forma, precisos para completar el legal de miembros de la Corporación y por los Vocales gestores que se hubiesen nombrado.
@@ -1257,7 +1131,6 @@ d) En caso de creación de nuevos municipios.
 2. Los Vocales gestores serán nombrados por el Consejo de Gobierno de la Comunidad entre personas de adecuada idoneidad y arraigo en la localidad y con rigurosa proporcionalidad a los últimos resultados electorales habidos en la localidad.
 
 3. No podrán ser designados Vocales gestores las personas que hayan dejado de ser Concejal en el período de mandato en que se haga necesario el nombramiento de aquéllos, ni las incursas en causas de inelegibilidad o incompatibilidad según la legislación electoral.
-
 
 #### Artículo 116.
 
@@ -1269,7 +1142,6 @@ d) En caso de creación de nuevos municipios.
 
 Sección 2.ª De las sesiones del Ayuntamiento pleno
 
-
 #### Artículo 117.
 
 Las sesiones del Pleno pueden ser de tres tipos:
@@ -1280,7 +1152,6 @@ Extraordinarias.
 
 Extraordinarias con carácter urgente.
 
-
 #### Artículo 118.
 
 1. El Pleno celebrará sesión ordinaria como mínimo cada tres meses. En la primera sesión ordinaria se determinará la periodicidad y horario de las mismas.
@@ -1289,11 +1160,9 @@ Extraordinarias con carácter urgente.
 
 En este caso, la celebración de la misma no podrá demorarse por más de dos meses desde que fuera solicitada.
 
-
 #### Artículo 119.
 
 Solicitada la celebración de sesión extraordinaria, su no convocatoria y celebración podrá ser comunicada por los Concejales solicitantes al órgano competente de la Comunidad Autónoma
-
 
 #### Artículo 120.
 
@@ -1301,13 +1170,11 @@ Solicitada la celebración de sesión extraordinaria, su no convocatoria y celeb
 
 2. Las sesiones se celebrarán en segunda convocatoria, cuarenta y ocho horas después de la señalada para la primera.
 
-
 #### Artículo 121.
 
 Son sesiones extraordinarias de carácter urgente, las convocadas por el Alcalde cuando la urgencia del asunto o asuntos a tratar no permitan convocar la sesión extraordinaria con la antelación mínima de dos días hábiles exigida por esta Ley.
 
 En este caso debe incluirse como primer punto del orden del día el pronunciamiento del Pleno sobre la urgencia. Si ésta no resulta apreciada por la mayoría del mismo, se levantará acto seguido la sesión.
-
 
 #### Artículo 122.
 
@@ -1315,13 +1182,11 @@ La convocatoria de las sesiones extraordinarias habrá de ser motivada, expresan
 
 Sección 3.ª Requisitos de la celebración y desarrollo de las sesiones
 
-
 #### Artículo 123.
 
 1. El orden del día de la sesiones será fijado por el Alcalde, asistido por el Secretario.
 
 2. Si a la sesión se lleva la resolución de un expediente éste tiene que estar concluido y entregado en la Secretaría con una antelación de tres días a la celebración de la sesión. El Secretario en este plazo lo someterá a la consideración del Alcalde al efecto de su inclusión en el orden del día.
-
 
 #### Artículo 124.
 
@@ -1329,11 +1194,9 @@ Sección 3.ª Requisitos de la celebración y desarrollo de las sesiones
 
 2. Todos los Concejales tienen derecho a obtener del Alcalde cuantos antecedentes, datos o informaciones obren en poder de los servicios de la Corporación y resulten precisos para el desarrollo de su función.
 
-
 #### Artículo 125.
 
 La convocatoria se realizará mediante citación personal e individualizada a todos los miembros de la Corporación en la que debe figurar el orden del día y simultánea exposición en el tablón de anuncios. Las mencionadas citaciones tienen naturaleza de notificaciones.
-
 
 #### Artículo 126.
 
@@ -1344,7 +1207,6 @@ La convocatoria se realizará mediante citación personal e individualizada a to
 3. Las sesiones plenarias serán públicas. No obstante, si se produjeran alteraciones del orden público, el Presidente podrá ordenar la expulsión de la sala del público asistente. Podrán ser secretos el debate y votación de aquellos asuntos que puedan afectar al derecho fundamental de los ciudadanos al que se refiere el artículo 18.1 de la Constitución cuando así se acuerde por mayoría absoluta.
 
 4. En las sesiones plenarias el público asistente no puede intervenir bajo ningún concepto, sin perjuicio de lo establecido en esta Ley sobre participación ciudadana. Las personas que infrinjan este precepto serán expulsadas de la Sala por el Presidente.
-
 
 #### Artículo 127.
 
@@ -1358,7 +1220,6 @@ Si durante el transcurso de la sesión se produjesen ausencias que redujesen el 
 
 3. Todos los Concejales tienen el deber de asistir a las sesiones del Pleno. La inasistencia a las mismas que no fuera debidamente justificada podrá dar lugar, de acuerdo con lo dispuesto en el artículo 78.4 de la Ley reguladora de las Bases del Régimen Local, a la imposición de las sanciones previstas en la Ley.
 
-
 #### Artículo 128.
 
 1. No podrá adoptarse acuerdo sobre asunto que no figure en el orden del día, a menos que fuere declarado de urgencia por el voto favorable de la mayoría absoluta de los miembros que forman la Corporación.
@@ -1366,7 +1227,6 @@ Si durante el transcurso de la sesión se produjesen ausencias que redujesen el 
 2. En el supuesto que se trate de asuntos que requieran informes preceptivos del Secretario o del Interventor, cualquier Concejal que dude respecto a la legalidad de la resolución, podrá solicitar que se aplace quedando sobre la Mesa hasta la próxima sesión.
 
 Cuando dicha petición no fuera atendida o se adoptare la decisión, pese a la duda sobre la legalidad formulada, el Secretario lo hará constar expresamente en el acta a los efectos legales oportunos.
-
 
 #### Artículo 129.
 
@@ -1378,7 +1238,6 @@ Cuando dicha petición no fuera atendida o se adoptare la decisión, pese a la d
 
 4. Los trámites de instrucción y discusión no servirán de excusa al Ayuntamiento o sus Comisiones para demorar el cumplimiento de sus obligaciones legales.
 
-
 #### Artículo 130.
 
 1. Sin perjuicio de las causas de incompatibilidad establecidas por la Ley, los miembros de las Corporaciones locales deberán abstenerse de participar en la deliberación, votación, decisión y ejecución de todo asunto cuando concurra alguna de las causas a que se refiere la legislación de procedimiento administrativo y contratos de las Administraciones Públicas.
@@ -1389,7 +1248,6 @@ La actuación de los miembros en que concurran tales motivos implicará, cuando 
 
 Sección 4.ª Adopción de acuerdos
 
-
 #### Artículo 131.
 
 1. Los acuerdos de las Corporaciones Locales se adoptan, como regla general, por mayoría simple de los miembros presentes. Existe mayoría simple cuando los votos afirmativos son más que los negativos.
@@ -1398,20 +1256,17 @@ Sección 4.ª Adopción de acuerdos
 
 3. Es necesario el voto favorable de la mayoría absoluta del número legal de los miembros de la Corporación para la adopción de acuerdos en las materias descritas en el número 3 del artículo 47 de la Ley reguladora de las Bases del Régimen Local.
 
-
 #### Artículo 132.
 
 1. El voto puede emitirse en sentido afirmativo o negativo, pudiendo los Concejales abstenerse de votar. La ausencia del Concejal del salón de sesiones, iniciada la deliberación de un asunto, equivale, a efectos de la votación correspondiente, a la abstención.
 
 2. Si de la votación resulta un empate, se efectuará una nueva votación; si éste persiste, decidirá la votación el voto de calidad del Presidente.
 
-
 #### Artículo 133.
 
 1. La adopción de acuerdo se produce mediante votación ordinaria, salvo que el propio Pleno acuerde, para un caso concreto, la votación nominal.
 
 2. Los Concejales podrán instar del Secretario que se haga constar expresamente en el acta el sentido en que se emitió el voto, a los efectos de su legitimación para la impugnación de los acuerdos en que hubiere votado en contra.
-
 
 #### Artículo 134.
 
@@ -1425,13 +1280,11 @@ Sección 4.ª Adopción de acuerdos
 
 Sección 5.ª De las actas
 
-
 #### Artículo 135.
 
 1. El Libro de Actas, instrumento público solemne, ha de estar foliado y encuadernado, legalizada cada hoja con la rúbrica del Alcalde y el sello de la Corporación, y expresará en su primera página, mediante diligencia de apertura firmada por el Secretario, el número de folios y la fecha en que se inicia la transcripción de los acuerdos.
 
 2. Las actas de la Comisión de Gobierno se transcribirán en Libro distinto del destinado a las del Pleno del Ayuntamiento.
-
 
 #### Artículo 136.
 
@@ -1451,11 +1304,9 @@ Sexta.–Las mismas formalidades serán de aplicación a la transcripción de la
 
 2. La adopción del sistema de hojas movibles exigirá el acuerdo expreso del Pleno, a propuesta del Alcalde.
 
-
 #### Artículo 137.
 
 El Secretario custodiará los Libros de Actas, bajo su responsabilidad, en la Casa Consistorial, y no consentirá que salgan de la misma bajo ningún pretexto, ni aun a requerimiento de autoridades de cualquier orden. Estará obligado a expedir certificaciones o testimonios de los acuerdos que dicho libro contenga, cuando así lo reclamen de oficio las autoridades.
-
 
 #### Artículo 138.
 
@@ -1483,16 +1334,13 @@ j) Cuantos incidentes se produzcan durante el acto y fueren dignos de reseñar
 
 k) Hora en que el Alcalde levante la sesión.
 
-
 #### Artículo 139.
 
 Inmediatamente de ser aprobado el acta, el Secretario la hará transcribir en el libro respectivo, sin enmiendas ni tachaduras o salvando al final las que involuntariamente se produjeren.
 
-
 #### Artículo 140.
 
 De no celebrarse sesión por falta de asistencia u otro motivo, el Secretario suplirá el acta con una diligencia, autorizada con su firma, en la que consigne la causa y los nombres de los concurrentes y de los que se hubieren excusado.
-
 
 #### Artículo 141.
 
@@ -1504,18 +1352,15 @@ De no celebrarse sesión por falta de asistencia u otro motivo, el Secretario su
 
 Sección 6.ª Publicidad de los actos y acuerdos
 
-
 #### Artículo 142.
 
 1. Los acuerdos que adopten el Ayuntamiento Pleno y la Comisión de Gobierno cuando tengan carácter decisorio, se publicarán y notificarán en la forma prevista por la Ley.
 
 2. En el plazo de seis días posteriores a la adopción de los actos y acuerdos, se remitirán a la Administración del Estado y de la Comunidad Autónoma, copia o, en su caso, extracto comprensivo de los actos y acuerdos de los órganos de gobierno municipal. El Alcalde y, de forma inmediata, el Secretario del Ayuntamiento, serán responsables del cumplimiento de este deber.
 
-
 #### Artículo 143.
 
 Todos los ciudadanos tienen derecho a obtener copia y certificaciones acreditativas de los acuerdos de los órganos de gobierno y administración municipal y de sus antecedentes, así como consultar los archivos y registros en los términos que disponga la legislación de desarrollo del artículo 105.b) de la Constitución. La denegación o limitación de este derecho, en todo cuanto afecte a la seguridad y defensa del Estado, la averiguación de los delitos o la intimidad de las personas, deberá verificarse mediante resolución motivada.
-
 
 #### Artículo 144.
 
@@ -1523,13 +1368,11 @@ Todos los ciudadanos tienen derecho a obtener copia y certificaciones acreditati
 
 2. Estas certificaciones podrán ser solicitadas, mediante instancia, por las personas a quienes interesen, y reclamadas de oficio por las autoridades, Tribunales, Organismos o funcionarios públicos que tramiten expedientes o actuaciones en que deban surtir efecto.
 
-
 #### Artículo 145.
 
 Podrán expedirse certificaciones de los acuerdos de las Corporaciones locales antes de ser aprobadas las actas que los contengan, siempre que se haga la advertencia o salvedad en este sentido y a reserva de los términos que resulten de la aprobación del acta correspondiente.
 
 Sección 7.ª De las sesiones extraordinarias del control y fiscalización
-
 
 #### Artículo 146.
 
@@ -1537,21 +1380,17 @@ Sin perjuicio del régimen de sesiones que para el Pleno de los Ayuntamientos es
 
 Sección 8.ª De las sesiones de la comisión de gobierno
 
-
 #### Artículo 147.
 
 La Comisión de Gobierno celebrará sesión ordinaria cada quince días como mínimo y extraordinaria cuando lo decida el Alcalde.
-
 
 #### Artículo 148.
 
 Las sesiones de la Comisión de Gobierno no serán públicas pero se expondrá en el tablón de anuncios de la Corporación un extracto o copia íntegra de los acuerdos que adopte, con el resultado de las votaciones, y se enviará dicha copia a todos los Concejales en el plazo de los seis días siguientes a la sesión. El Alcalde y, de forma inmediata, el Secretario, serán responsables del cumplimiento de la previsión del artículo 56.1 de la Ley reguladora de las Bases del Régimen Local.
 
-
 #### Artículo 149.
 
 Serán aplicables, en lo que proceda, a la Comisión de Gobierno las normas generales que para las sesiones del Pleno se consignan en la sección 2.ª del presente capítulo y que no contradigan lo preceptuado en los artículos correspondientes de la presente sección.
-
 
 #### Artículo 150.
 
@@ -1561,13 +1400,11 @@ No obstante, cuando se trate de atribuciones delegadas, el acuerdo de delegació
 
 Sección 9.ª De las sesiones de las Comisiones complementarias y demás órganos y entes municipales
 
-
 #### Artículo 151.
 
 1. Los dictámenes de las Comisiones, que no serán vinculantes, se adoptarán por mayoría de votos de sus miembros y llevarán la firma del Presidente y del Secretario de las mismas.
 
 2. El Vocal que disienta del dictamen podrá pedir que conste su voto en contra o formular voto particular.
-
 
 #### Artículo 152.
 
@@ -1575,18 +1412,15 @@ Sección 9.ª De las sesiones de las Comisiones complementarias y demás órg
 
 2. El Alcalde es Presidente nato de todas las Comisiones, y actuará como Presidente efectivo de cada una el Teniente de Alcalde o miembro de la Comisión de Gobierno en quien delegue.
 
-
 #### Artículo 153.
 
 El Secretario del Ayuntamiento lo será también de todas las Comisiones con facultad de delegación en el funcionario que tenga a su cargo la dirección administrativa del área sometida a su informe.
 
 A la Comisión de Hacienda asistirá en todo caso el Interventor.
 
-
 #### Artículo 154.
 
 Las Comisiones podrán requerir en sus sesiones la presencia de cualquier funcionario o miembro de la Corporación responsable del área para que informe sobre un tema concreto.
-
 
 #### Artículo 155.
 
@@ -1597,7 +1431,6 @@ CAPÍTULO IV
 De la información y participación ciudadana
 
 Sección 1.ª Del derecho de los ciudadanos a la información
-
 
 #### Artículo 156. 
 
@@ -1611,23 +1444,19 @@ c) Obtener copias y certificaciones del Ayuntamiento, con la salvedad anterior
 
 d) Asistir a las sesiones del Pleno municipal, así como a las de cualquier otro órgano cuyas sesiones sean públicas.
 
-
 #### Artículo 157.
 
 La garantía de los derechos de los ciudadanos reconocidos en la presente Ley podrá ser exigida por los mismos mediante los recursos administrativos o jurisdiccionales que correspondan, sin perjuicio de la utilización de los canales de participación política.
 
-
 #### Artículo 158.
 
 La participación de los ciudadanos en el gobierno municipal se podrá articular a través del ejercicio del derecho de consulta, petición y propuesta o intervención oral de acuerdo con lo establecido en los artículos siguientes.
-
 
 #### Artículo 159.
 
 Todos los ciudadanos tienen derecho a dirigirse a cualquier autoridad u órgano municipal para realizar peticiones o evacuar consultas o propuestas sobre las actuaciones municipales en la forma regulada por la Ley.
 
 La consulta deberá ser realizada mediante escrito y será contestada en los términos previstos en la legislación general.
-
 
 #### Artículo 160.
 
@@ -1643,11 +1472,9 @@ d) Intervención al terminar la sesión al objeto de expresar opinión sobre l
 
 2. Los Ayuntamientos establecerán el cauce reglamentario que viabilice el ejercicio de estos derechos.
 
-
 #### Artículo 161.
 
 Los derechos establecidos en el artículo anterior podrán ser ejercitados por las entidades cívicas inscritas en el Registro Municipal de Entidades o, excepcionalmente, por persona individual.
-
 
 #### Artículo 162.
 
@@ -1655,25 +1482,21 @@ Los Ayuntamientos de Canarias favorecerán el desarrollo de las asociaciones par
 
 A tal efecto podrán ser declaradas de utilidad pública por el Pleno del Ayuntamiento.
 
-
 #### Artículo 163.
 
 El régimen de consultas populares municipales se ajustará a lo dispuesto en la Ley.
 
 Sección 2.ª Del Registro Municipal de Entidades
 
-
 #### Artículo 164.
 
 El Registro Municipal de Entidades Ciudadanas tiene por objeto permitir al Ayuntamiento el conocimiento de las existentes, sus objetivos y su representatividad, a fin de llevar a cabo una correcta política municipal de fomento de las mismas.
-
 
 #### Artículo 165.
 
 El Ayuntamiento, a los efectos de esta Ley, reconocerá derechos a aquellas entidades que hayan sido debidamente inscritas en el Registro Municipal.
 
 Serán Entidades ciudadanas susceptibles de ser inscritas, todas las que estén legalmente constituidas.
-
 
 #### Artículo 166.
 
@@ -1691,18 +1514,15 @@ e) Programa anual de actividades.
 
 f) Certificación del nombre y número de personas que integren la entidad.
 
-
 #### Artículo 167.
 
 La solicitud de inscripción se dirigirá al Ayuntamiento, el cual, en el plazo de quince días desde la recepción de la misma, notificará la resolución que proceda a la entidad solicitante.
-
 
 #### Artículo 168.
 
 1. En el mes de enero de cada año las entidades inscritas deberán notificar al Ayuntamiento las modificaciones que se hayan producido en la misma durante el año, en relación con lo dispuesto en el artículo 166 de esta Ley, así como la Memoria anual de sus actividades.
 
 2. En caso de incumplimiento de estos requisitos, el Ayuntamiento podrá dar de baja a la entidad en el Registro.
-
 
 #### Artículo 169.
 
@@ -1715,7 +1535,6 @@ Las Entidades ciudadanas tendrán, en los términos establecidos en la legislaci
 3. A participar en los órganos municipales en los términos que se establece en esta Ley.
 
 4. A acogerse a los derechos de propuesta, intervención y consulta popular.
-
 
 #### Disposición adicional primera.
 
@@ -1761,7 +1580,6 @@ r) Conservación y administración del parque público de viviendas.
 
 s) Conservación y policía de obras hidráulicas y administración insular de las aguas terrestres en los términos que establezca la legislación sectorial autonómica.
 
-
 #### Disposición adicional segunda.
 
 Se autoriza al Gobierno de Canarias a delegar total o parcialmente en los Cabildos Insulares el ejercicio, en el ámbito de su respectiva isla, de todas o alguna de las siguientes competencias de la Administración Pública de la Comunidad Autónoma:
@@ -1786,7 +1604,6 @@ i) Museos, Bibliotecas y Archivos que no se reserve para sí la Comunidad Aut�
 
 j) Cualesquiera otras que por leyes sectoriales autonómicas se establezcan.
 
-
 #### Disposición adicional tercera.
 
 1. En las aglomeraciones urbanas de Las Palmas de Gran Canaria y Santa Cruz de Tenerife y a iniciativa de los municipios interesados y previa audiencia de los Cabildos respectivos, podrán constituirse Áreas Metropolitanas. Las iniciativas se referirán exclusivamente a la procedencia de constituir el Área Metropolitana, ámbito territorial de la misma, y servicios metropolitanos.
@@ -1795,31 +1612,25 @@ j) Cualesquiera otras que por leyes sectoriales autonómicas se establezcan.
 
 3. Finalizados los expedientes, el Gobierno formulará los correspondientes Proyectos de Ley.
 
-
 #### Disposición adicional cuarta.
 
 El Gobierno de Canarias elaborará los estudios pertinentes en orden al posible establecimiento de regímenes especiales de los municipios que por su carácter histórico-artístico o el predominio de actividades turísticas, o sus excepcionales valores naturales y medioambientales, requieran una ordenación específica.
-
 
 #### Disposición adicional quinta.
 
 Para garantizar la eficacia en la prestación de las nuevas funciones asumidas en virtud de esta Ley, los Cabildos Insulares, mediante la modificación de sus Reglamentos orgánicos y relaciones de puestos de trabajo, adecuarán sus estructuras administrativas. A tal fin, los Cabildos Insulares podrán crear órganos unipersonales, bien de carácter administrativo cuyas funciones serán ejercidas por funcionarios de carrera, como los Directores de Servicio, bien de carácter político, cuyo titular deberá ser un Consejero electo.
 
-
 #### Disposición adicional sexta.
 
 Los actos y acuerdos adoptados por los Cabildos Insulares en el ejercicio de competencias transferidas que precisen de publicidad se insertarán en el «Boletín Oficial de Canarias».
-
 
 #### Disposición transitoria primera.
 
 Hasta tanto no se actualicen las previsiones organizativas contenidas en los preceptos de esta Ley, subsistirán, con sus competencias y ámbitos territoriales de actuación, los órganos de la Administración de la Comunidad Autónoma constituidos.
 
-
 #### Disposición transitoria segunda.
 
 Los convenios de colaboración suscritos por el Gobierno de Canarias con los Cabildos Insulares o los Ayuntamientos de los municipios canarios con anterioridad a la entrada en vigor de esta Ley, continuarán surtiendo efecto durante los plazos de vigencia que en los mismos se hubieran establecido, aunque no cumplan los requisitos exigidos por esta Ley.
-
 
 #### Disposición transitoria tercera.
 
@@ -1834,7 +1645,6 @@ Los acuerdos en esta Comisión se adoptarán por mayoría absoluta.
 3. El Gobierno de Canarias, en el plazo máximo de un año desde la publicación de ese Decreto, previa audiencia de cada Cabildo Insular, aprobará los anexos de traspasos en que, para cada Corporación, se precisen los servicios, medios personales y materiales y los recursos traspasados.
 
 4. Publicado cada anexo, por el correspondiente Cabildo Insular y por la Administración Pública de la Comunidad se suscribirá la oportuna acta de recepción y entrega de servicios, expedientes, bienes, personal y recursos traspasados. Desde la fecha de este acta, el Cabildo ejercerá efectivamente la competencia transferida.
-
 
 #### Disposición transitoria cuarta.
 
@@ -1852,7 +1662,6 @@ e) Cuantificación de la carga neta asumida por el Cabildo Insular con referen
 
 f) Determinación de los créditos del Presupuesto de la Comunidad Autónoma del correspondiente ejercicio que quedan traspasados, así como de los importes ya contraídos y de los disponibles por el Cabildo Insular durante el ejercicio presupuestario en curso.
 
-
 #### Disposición transitoria quinta.
 
 Hasta tanto se produce la acomodación definitiva de las Haciendas Territoriales a que se refiere el artículo 48 de esta Ley, las competencias transferidas se ejercerán por los Cabildos Insulares en el régimen de autonomía financiera que rige con carácter general la gestión de sus competencias propias. A tal fin:
@@ -1867,26 +1676,21 @@ c) Los créditos para gastos de inversión en reposición se incrementarán us
 
 2. Por Ley del Parlamento de Canarias se asignarán a los Cabildos Insulares y según criterios socioeconómicos y de cuantificación objetiva de las cargas materiales asumidas, los fondos de inversión que procedan en relación con los asignados para el mismo fin en los Presupuestos Generales de la Comunidad Autónoma de cada ejercicio.
 
-
 #### Disposición transitoria sexta.
 
 El importe de las indemnizaciones impuestas al Cabildo Insular como consecuencia de su responsabilidad patrimonial podrá ser repercutido por éste a la Administración de la Comunidad Autónoma de Canarias siempre que su causa sea anterior a la fecha de efectividad de la transferencia y que, en los correspondientes expedientes administrativos o procesos jurisdiccionales en los que se declare la responsabilidad, se haya emplazado a los Servicios Jurídicos del Gobierno de Canarias, sin perjuicio de la personación del Cabildo Insular a través de su propia representación procesal.
-
 
 #### Disposición transitoria séptima.
 
 Los procesos de transferencias a los Cabildos Insulares iniciados al amparo de la Ley 8/1986, de 18 de noviembre, acomodarán su régimen jurídico a lo previsto en esta Ley.
 
-
 #### Disposición derogatoria.
 
 Quedan derogadas cuantas disposiciones de igual o inferior rango se opongan, contradigan o sean incompatibles con los preceptos de esta Ley y en especial el título II de la Ley Territorial 1/1983, de 14 de abril, del Gobierno y de la Administración Pública de la Comunidad Autónoma de Canarias, y la Ley 8/1986, de 18 de noviembre, de Régimen Jurídico de las Administraciones Públicas Canarias.
 
-
 #### Disposición final primera.
 
 Se autoriza al Gobierno de Canarias a desarrollar reglamentariamente los preceptos de esta Ley.
-
 
 #### Disposición final segunda.
 

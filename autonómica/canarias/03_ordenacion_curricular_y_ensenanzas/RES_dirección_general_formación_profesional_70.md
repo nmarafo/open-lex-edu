@@ -31,10 +31,8 @@ fuente_pdf_oficial: https://sede.gobiernodecanarias.org/boc/boc-a-2017-220-5354.
 
 # Resolución de 6 de noviembre de 2017, de la Dirección General de Formación Profesional y Educación de Adultos, por la que se dictan instrucciones para la organización y la evaluación de los módulos de obra final y de proyecto integrado de las enseñanzas profesionales de Artes Plásticas y Diseño en la Comunidad Autónoma de Canarias (BOC n.º 220, de 15 de noviembre).
 
-Boletín Oficial de Canarias núm. 220
 https://sede.gobcan.es/cpji/boc
 Miércoles 15 de noviembre de 2017
-30767
 III. Otras Resoluciones
 Consejería de Educación y Universidades
 5354 Dirección General de Formación Profesional y Educación de Adultos.- Resolución 
@@ -70,13 +68,9 @@ integrado.
 Tercero.- El Decreto 159/2017, de 31 de mayo, por el que se establecen los currículos de 
 los ciclos formativos de grado medio y grado superior de artes plásticas y diseño de la familia 
 profesional artística de Comunicación Gráfica y Audiovisual en el ámbito de la Comunidad 
-boc-a-2017-220-5354
 
-
-Boletín Oficial de Canarias núm. 220
 https://sede.gobcan.es/cpji/boc
 Miércoles 15 de noviembre de 2017
-30768
 Autónoma de Canarias (BOC nº 110, de 9 de junio), en sus artículos 9 y 10, respectivamente, 
 establece aspectos referidos a los módulos de Obra final y de Proyecto integrado.
 Asimismo, el Decreto 160/2017, de 31 de mayo, por el que se establece el currículo 
@@ -115,13 +109,9 @@ Segunda.- Características.
 integración de conocimientos, destrezas y capacidades específicos del campo profesional 
 de la especialidad. Consistirá en la planificación y realización de una obra propia del perfil 
 profesional del técnico o técnica de artes plásticas y diseño de la especialidad correspondiente 
-boc-a-2017-220-5354
 
-
-Boletín Oficial de Canarias núm. 220
 https://sede.gobcan.es/cpji/boc
 Miércoles 15 de noviembre de 2017
-30769
 que evidencie el dominio en los procedimientos de realización y sea expresión de su 
 sensibilidad artística.
 2. En los ciclos formativos de grado superior, el módulo de Proyecto integrado tiene 
@@ -159,13 +149,9 @@ el mismo establezca la dirección del centro, con el fin de asesorar o resolver 
 que se presenten al alumnado durante la realización de los proyectos.
 3. Para los ciclos de grado medio, el proyecto que presente el alumnado en la parte B 
 deberá contemplar los siguientes apartados:
-boc-a-2017-220-5354
 
-
-Boletín Oficial de Canarias núm. 220
 https://sede.gobcan.es/cpji/boc
 Miércoles 15 de noviembre de 2017
-30770
 a) Memoria, donde se realizará un análisis de los procesos y fases de ideación y realización 
 del proyecto, atendiendo a las necesidades funcionales, artísticas, comunicativas, técnicas, 
 económicas, legales y organizativas de proyecto.
@@ -198,13 +184,9 @@ que incluya, como mínimo, los siguientes aspectos: situación de la empresa en 
 actividad empresarial, medios tecnológicos, modelo organizativo y gestión y desarrollo de 
 proyectos.
 b) Testimonio gráfico.
-boc-a-2017-220-5354
 
-
-Boletín Oficial de Canarias núm. 220
 https://sede.gobcan.es/cpji/boc
 Miércoles 15 de noviembre de 2017
-30771
 En cada proyecto se incluirá un dossier gráfico de la estancia en la empresa que 
 deberá incluir todas aquellas imágenes, catálogos, pruebas o elementos gráficos que 
 permitan conocer la organización de la empresa así como valorar el trabajo realizado 
@@ -238,13 +220,9 @@ c) Concretar aspectos referidos a los apartados a), b), c) y d) de los puntos 3 
 instrucción tercera de la presente resolución.
 d) Fijar los indicadores y los criterios de calificación para la valoración de cada una de 
 las partes de las que se componen los proyectos.
-boc-a-2017-220-5354
 
-
-Boletín Oficial de Canarias núm. 220
 https://sede.gobcan.es/cpji/boc
 Miércoles 15 de noviembre de 2017
-30772
 e) Fijar las fechas de entrega y de exposición de los proyectos.
 f) Concretar aspectos referidos a los apartados a), b) y c) del punto 2 de la instrucción 
 cuarta de la presente resolución.
@@ -279,13 +257,9 @@ cuarta de la presente resolución.
 establecidos por la comisión de proyectos y levantará acta de las decisiones adoptadas.
 6. La comisión evaluadora emitirá informes motivados sobre las reclamaciones a las 
 calificaciones que presenten los estudiantes.
-boc-a-2017-220-5354
 
-
-Boletín Oficial de Canarias núm. 220
 https://sede.gobcan.es/cpji/boc
 Miércoles 15 de noviembre de 2017
-30773
 Octava.- Evaluación y sistema de calificaciones.
 1. Los módulos de Obra final y de Proyecto integrado se evaluarán una vez superados los 
 restantes módulos que constituyen el currículo de cada ciclo formativo.
@@ -320,13 +294,9 @@ Décima.- Conservación de los instrumentos de evaluación.
 de adoptadas las decisiones y formuladas las correspondientes calificaciones finales de los 
 módulos de Obra final y de Proyecto integrado. Los centros establecerán los procedimientos 
 oportunos para asegurar esta conservación. En el caso de que el estudiante haya solicitado 
-boc-a-2017-220-5354
 
-
-Boletín Oficial de Canarias núm. 220
 https://sede.gobcan.es/cpji/boc
 Miércoles 15 de noviembre de 2017
-30774
 revisión de la calificación final obtenida, se guardará, en su totalidad, la documentación 
 generada para el caso, hasta que se resuelva en firme la reclamación.
 2. A los efectos de lo establecido en el apartado anterior, se entiende por instrumentos 
@@ -364,13 +334,9 @@ posteriores a la finalización del plazo de reclamación.
 ante la Dirección Territorial de Educación que corresponda, a través de la secretaría del 
 centro, en el plazo de los dos días hábiles siguientes a su notificación, y, en su defecto, 
 transcurridos diez días desde que inicialmente formulara dicha reclamación. La dirección del 
-boc-a-2017-220-5354
 
-
-Boletín Oficial de Canarias núm. 220
 https://sede.gobcan.es/cpji/boc
 Miércoles 15 de noviembre de 2017
-30775
 centro remitirá todo el expediente a la Dirección Territorial de Educación en el plazo de dos 
 días siguientes a la presentación de la reclamación. La Dirección Territorial de Educación, 
 previo informe de la Inspección de Educación, resolverá notificándolo en el plazo de veinte 
@@ -379,5 +345,3 @@ recurso de alzada en el plazo de un mes ante la Dirección General de Formación
 y Educación de Adultos, la resolución que se dicte pondrá fin a la vía administrativa.
 Santa Cruz de Tenerife, a 6 de noviembre de 2017.- El Director General de Formación 
 Profesional y Educación de Adultos, Manuel Jorge Pérez.
-boc-a-2017-220-5354
-

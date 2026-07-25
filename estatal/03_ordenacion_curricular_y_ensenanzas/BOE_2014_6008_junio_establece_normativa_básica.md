@@ -60,18 +60,15 @@ En la tramitación de este real decreto se ha consultado a las comunidades autó
 
 En su virtud, a propuesta del Ministro de Educación, Cultura y Deporte, previa aprobación del Ministro de Hacienda y Administraciones Públicas, de acuerdo con el Consejo de Estado y previa deliberación del Consejo de Ministros en su reunión del día 6 de junio de 2014,
 
-
 **DISPONGO:**
 
 CAPÍTULO I
 
 Disposiciones Generales
 
-
 #### Artículo 1. Objeto y ámbito de aplicación.
 
 El presente real decreto tiene por objeto establecer los requisitos de acceso y la normativa básica relativa a los procedimientos de admisión a las enseñanzas universitarias oficiales de Grado, de acuerdo con los criterios establecidos en los artículos 38 y 69 y las disposiciones adicionales trigésimo tercera y trigésimo sexta de la Ley Orgánica 2/2006, de 3 de mayo, de Educación.
-
 
 #### Artículo 2. Definiciones.
 
@@ -86,7 +83,6 @@ c) Procedimiento de admisión: conjunto de actuaciones que tienen como objetivo 
 CAPÍTULO II
 
 Acceso a los estudios universitarios oficiales de Grado
-
 
 #### Artículo 3. Acceso a los estudios universitarios oficiales de Grado.
 
@@ -120,7 +116,6 @@ m) Estudiantes que estuvieran en condiciones de acceder a la universidad según 
 
 2. En el ámbito de sus competencias, las Administraciones educativas podrán coordinar los procedimientos de acceso a las Universidades de su territorio.
 
-
 #### Artículo 4. Solicitudes de homologación del título, diploma o estudio obtenido o realizado en sistemas educativos extranjeros en tramitación.
 
 En todos aquellos supuestos en los que se exija la homologación de cualquier título, diploma o estudio obtenido o realizado en sistemas educativos extranjeros para el acceso a la universidad, las Universidades podrán admitir con carácter condicional a los estudiantes que acrediten haber presentado la correspondiente solicitud de la homologación mientras se resuelve el procedimiento para dicha homologación.
@@ -128,7 +123,6 @@ En todos aquellos supuestos en los que se exija la homologación de cualquier t�
 CAPÍTULO III
 
 Admisión a las enseñanzas universitarias oficiales de Grado
-
 
 #### Artículo 5. Principios generales de admisión a las enseñanzas universitarias oficiales de Grado.
 
@@ -144,11 +138,9 @@ En la valoración de la formación previa de los procedimientos de admisión se 
 
 5. Los estudiantes que, habiendo comenzado sus estudios universitarios en un determinado centro, tengan superados, al menos, seis créditos ECTS y los hayan abandonado temporalmente, podrán continuarlos en el mismo centro sin necesidad de volver a participar en proceso de admisión alguno, sin perjuicio de las normas de permanencia que la universidad pueda tener establecidas.
 
-
 #### Artículo 6. Límites máximos de plazas.
 
 El Gobierno, en virtud del artículo 44 de la Ley Orgánica 6/2001, de 21 de diciembre, de Universidades, previo acuerdo de la Conferencia General de Política Universitaria podrá, para poder cumplir las exigencias derivadas de Directivas comunitarias o de convenios internacionales, o bien por motivos de interés general igualmente acordados en la Conferencia General de Política Universitaria, establecer límites máximos de admisión de estudiantes en los estudios de que se trate. Estos límites máximos de plazas afectarán al conjunto de las Universidades públicas y privadas.
-
 
 #### Artículo 7. Establecimiento de procedimientos de admisión, de los plazos de preinscripción y períodos de matriculación, y de las reglas para establecer el orden de prelación en la adjudicación de plazas en Universidades públicas.
 
@@ -158,21 +150,17 @@ El Gobierno, en virtud del artículo 44 de la Ley Orgánica 6/2001, de 21 de dic
 
 Se excluye de esta norma a los centros universitarios de la defensa cuya oferta de plazas vendrá determinada, cada año, por la publicación del real decreto por el que se aprueba la provisión de plazas de las Fuerzas Armadas y de la Escala Superior de Oficiales de la Guardia Civil.
 
-La Conferencia General de Política Universitaria, en función de las fechas fijadas para la realización de la evaluación final de Bachillerato, fijará los plazos mínimos de preinscripción y matriculación en las Universidades públicas para permitir a los estudiantes concurrir a la oferta de todas las Universidades. La decisión adoptada por la Conferencia General de Política Universitaria será publicada en el «Boletín Oficial del Estado».
-
 Ninguna Universidad pública podrá dejar vacantes plazas previamente ofertadas, mientras existan solicitudes para ellas que cumplan los requisitos y hayan sido formalizadas dentro los plazos establecidos por cada Universidad.
 
 3. Las Administraciones educativas adoptarán las decisiones que correspondan en el ámbito de sus competencias para la aplicación de estas medidas.
 
 4. Las Universidades públicas harán públicos los procedimientos que vayan a aplicar para la admisión a las distintas enseñanzas universitarias oficiales de Grado, su contenido, reglas de funcionamiento y las fechas de realización de los mismos, así como los criterios de valoración y su ponderación y baremos, y las reglas para establecer el orden de prelación en la adjudicación de plazas que vayan a aplicar, con al menos un curso académico de antelación.
 
-
 #### Artículo 8. Mecanismos de coordinación entre Universidades.
 
 Corresponde a las Universidades adoptar cuantas decisiones sean necesarias para la aplicación de los procedimientos de admisión regulados en el presente decreto, así como establecer mecanismos de coordinación entre ellas.
 
 Asimismo, podrán acordar la realización conjunta de todo o parte de los procedimientos de admisión, así como el reconocimiento mutuo de los resultados de las valoraciones realizadas en los procedimientos de admisión, con el alcance que estimen oportuno. Las decisiones adoptadas serán comunicadas en la Conferencia General de Política Universitaria y en el Consejo de Universidades.
-
 
 #### Artículo 9. Formas de admisión a las enseñanzas universitarias oficiales de Grado.
 
@@ -209,7 +197,6 @@ a) Personas mayores de veinticinco años que superen la prueba de acceso estable
 b) Personas mayores de cuarenta años que acrediten experiencia laboral o profesional en relación con una enseñanza.
 
 c) Personas mayores de cuarenta y cinco años que superen la prueba de acceso establecida en este real decreto.
-
 
 #### Artículo 10. Procedimientos generales de admisión.
 
@@ -251,11 +238,9 @@ Procedimientos específicos de acceso y admisión
 
 Sección 1.ª Personas mayores de 25 años
 
-
 #### Artículo 11. Acceso a las enseñanzas universitarias oficiales de Grado para mayores de 25 años.
 
 Las personas mayores de 25 años de edad que no posean ninguna titulación académica que de acceso a la universidad por otras vías, podrán acceder a las enseñanzas universitarias oficiales de Grado mediante la superación de una prueba de acceso. Sólo podrán concurrir a dicha prueba de acceso quienes cumplan o hayan cumplido los 25 años de edad en el año natural en que se celebre dicha prueba.
-
 
 #### Artículo 12. Prueba de acceso a la universidad para mayores de 25 años.
 
@@ -287,20 +272,17 @@ El candidato podrá realizar la prueba de acceso en tantas Universidades como es
 
 9. Tras la publicación de las calificaciones, y de conformidad con los plazos y procedimientos que determine cada Comunidad Autónoma, los candidatos podrán presentar reclamación mediante escrito razonado dirigido a la Universidad correspondiente.
 
-
 #### Artículo 13. Convocatoria de la prueba de acceso para mayores de 25 años.
 
 1. Las Universidades realizarán anualmente una convocatoria de prueba de acceso para mayores de 25 años, para cada una de las ramas en las que oferten enseñanzas.
 
 2. Una vez superada la prueba de acceso, los candidatos podrán presentarse de nuevo en sucesivas convocatorias, con la finalidad de mejorar su calificación. Se tomará en consideración la calificación obtenida en la nueva convocatoria, siempre que ésta sea superior a la anterior.
 
-
 #### Artículo 14. Calificación de la prueba de acceso para mayores de 25 años.
 
 1. La calificación de la prueba de acceso, y de cada uno de sus ejercicios, se realizará por la Universidad, de conformidad con los criterios y fórmulas de valoración establecidos por la Administración educativa. La calificación final vendrá determinada por la media aritmética de las calificaciones obtenidas en la fase general y la fase específica, calificada de 0 a 10 y expresada con dos cifras decimales, redondeada a la centésima más próxima y en caso de equidistancia a la superior.
 
 2. Se entenderá que el candidato ha superado la prueba de acceso cuando obtenga un mínimo de cinco puntos en la calificación final, no pudiéndose, en ningún caso, promediar cuando no se obtenga una puntuación mínima de cuatro puntos tanto en la fase general como en la fase específica.
-
 
 #### Artículo 15. Comisión organizadora de la prueba de acceso para mayores de 25 años.
 
@@ -320,7 +302,6 @@ e) Resolución de reclamaciones.
 
 Sección 2.ª Acreditación de experiencia laboral o profesional
 
-
 #### Artículo 16. Acceso mediante acreditación de experiencia laboral o profesional.
 
 1. Podrán acceder a la universidad por esta vía los candidatos con experiencia laboral o profesional en relación con una enseñanza, que no posean ninguna titulación académica habilitante para acceder a la universidad por otras vías y cumplan o hayan cumplido los 40 años de edad en el año natural de comienzo del curso académico.
@@ -330,7 +311,6 @@ Sección 2.ª Acreditación de experiencia laboral o profesional
 3. A efectos de lo dispuesto en este artículo, las Universidades incluirán en la memoria del plan de estudios verificado, de acuerdo con lo dispuesto en el Real Decreto 1393/2007, de 29 de octubre, por el que se establece la ordenación de las enseñanzas universitarias oficiales, los criterios de acreditación y ámbito de la experiencia laboral o profesional en relación con cada una de las enseñanzas, de forma que permitan ordenar a los solicitantes. Entre dichos criterios se incluirá, en todo caso, la realización de una entrevista personal con el candidato, que podrá repetir en ocasiones sucesivas.
 
 Sección 3.ª Personas mayores de 45 años
-
 
 #### Artículo 17. Acceso para mayores de 45 años.
 
@@ -354,7 +334,6 @@ En el caso de que la prueba se celebre en Universidades del ámbito de gestión 
 
 7. Tras la publicación de las calificaciones, y de conformidad con los plazos y procedimientos que determine cada Comunidad Autónoma, los candidatos podrán presentar reclamación mediante escrito razonado dirigido a la Universidad correspondiente.
 
-
 #### Artículo 18. Convocatoria de la prueba de acceso para mayores de 45 años.
 
 1. Las Universidades realizarán anualmente una convocatoria de prueba de acceso a la que se refiere el artículo 17 del presente real decreto.
@@ -363,13 +342,11 @@ En el caso de que la prueba se celebre en Universidades del ámbito de gestión 
 
 3. Una vez superada la prueba de acceso, los candidatos podrán presentarse de nuevo en sucesivas convocatorias en la misma Universidad, con la finalidad de mejorar su calificación. Se tomará en consideración la calificación obtenida en la nueva convocatoria, siempre que ésta sea superior a la anterior.
 
-
 #### Artículo 19. Calificación de la prueba de acceso para mayores de 45 años.
 
 1. La calificación de la prueba de acceso para personas mayores de 45 años, y de cada uno de sus ejercicios, se realizará por cada Universidad, de conformidad con los criterios y fórmulas de valoración establecidos por la Administración educativa. La calificación final vendrá determinada por la media aritmética de las calificaciones obtenidas en los ejercicios, calificada de 0 a 10 y expresada con dos cifras decimales, redondeada a la centésima más próxima y en caso de equidistancia a la superior.
 
 2. Se entenderá que el candidato ha superado la prueba de acceso cuando obtenga una calificación de apto en la entrevista personal, y un mínimo de cinco puntos en la calificación final, no pudiéndose en ningún caso promediar cuando no se obtenga una puntuación mínima de cuatro puntos en cada ejercicio.
-
 
 #### Artículo 20. Comisión organizadora de la prueba de acceso para mayores de 45 años.
 
@@ -389,7 +366,6 @@ f) Resolución de reclamaciones.
 
 Sección 4.ª Personas con discapacidad
 
-
 #### Artículo 21. Personas que presentan algún tipo de discapacidad.
 
 1. Las comisiones organizadoras de las pruebas de acceso determinarán las medidas oportunas que garanticen que los estudiantes que presenten algún tipo de discapacidad puedan realizar la prueba en las debidas condiciones de igualdad. En la convocatoria se indicará expresamente esta posibilidad.
@@ -402,13 +378,11 @@ CAPÍTULO V
 
 Criterios específicos para la adjudicación de plazas por las Universidades públicas
 
-
 #### Artículo 22. Establecimiento por las Universidades públicas del orden de prelación.
 
 Las Universidades establecerán el orden de prelación en la adjudicación de plazas que vayan a aplicar, que en cualquier caso deberán respetar los porcentajes de reserva de plazas recogidos en este capítulo.
 
 Asimismo, podrán establecer cupos de reserva de plazas y diferentes reglas de prelación en función de las diferentes formas de acceso y admisión a las enseñanzas universitarias oficiales de Grado.
-
 
 #### Artículo 23. Porcentajes de reserva de plazas.
 
@@ -420,23 +394,19 @@ Asimismo, podrán establecer cupos de reserva de plazas y diferentes reglas de p
 
 4. La ordenación y adjudicación de las plazas dentro de cada cupo se realizará atendiendo a los criterios de valoración establecidos a tal efecto.
 
-
 #### Artículo 24. Plazas reservadas para mayores de 25 años.
 
 Para los estudiantes que hayan superado la prueba de acceso a la universidad para mayores de 25 años de edad, se reservará un número de plazas no inferior al 2 por 100.
 
-
 #### Artículo 25. Plazas reservadas para mayores de 45 años y para mayores de 40 años que acrediten experiencia laboral o profesional.
 
 Para las personas que accedan a las enseñanzas universitarias oficiales de Grado tras la superación de la prueba de acceso a la universidad para mayores de 45 años o la acreditación de una experiencia laboral o profesional a la que se refiere el artículo 16, las Universidades reservarán en su conjunto un número de plazas no inferior al 1 por 100 ni superior al 3 por 100.
-
 
 #### Artículo 26. Plazas reservadas a estudiantes con discapacidad.
 
 Se reservará al menos un 5 por 100 de las plazas ofertadas para estudiantes que tengan reconocido un grado de discapacidad igual o superior al 33 por 100, así como para aquellos estudiantes con necesidades educativas especiales permanentes asociadas a circunstancias personales de discapacidad, que durante su escolarización anterior hayan precisado de recursos y apoyos para su plena normalización educativa.
 
 A tal efecto, los estudiantes con discapacidad deberán presentar certificado de calificación y reconocimiento del grado de discapacidad expedido por el órgano competente de cada Comunidad Autónoma.
-
 
 #### Artículo 27. Plazas reservadas a deportistas de alto nivel y de alto rendimiento.
 
@@ -446,11 +416,9 @@ Se reservará un porcentaje mínimo del 3 por 100 de las plazas ofertadas por la
 
 Los centros que impartan los estudios y enseñanzas a los que hace referencia el párrafo cuarto del apartado 1 del artículo 9 del Real Decreto 971/2007, de 13 de julio, sobre deportistas de alto nivel y alto rendimiento, reservarán un cupo adicional equivalente como mínimo al 5 por 100 de las plazas ofertadas para estos deportistas, pudiendo incrementarse dicho cupo. Los cupos de reserva de plazas habrán de mantenerse en las diferentes convocatorias que se realicen a lo largo del año.
 
-
 #### Artículo 28. Plazas reservadas a estudiantes con titulación universitaria o equivalente.
 
 Para los estudiantes que ya estén en posesión de una titulación universitaria oficial o equivalente, se reservará un número de plazas no inferior al 1 por 100 ni superior al 3 por 100.
-
 
 #### Artículo 29. Cambio de universidad y/o estudios universitarios oficiales españoles.
 
@@ -461,7 +429,6 @@ Para los estudiantes que ya estén en posesión de una titulación universitaria
 3. La adjudicación de plaza en otra Universidad dará lugar al traslado del expediente académico correspondiente, el cual deberá ser tramitado por la universidad de procedencia, una vez que el interesado acredite haber sido admitido en otra universidad.
 
 4. Para los deportistas de alto nivel y alto rendimiento que se vean obligados a cambiar de residencia por motivos deportivos, se tomarán las medidas necesarias para que puedan continuar su formación en su nuevo lugar de residencia, de acuerdo con lo dispuesto en el apartado 10 del artículo 9 del Real Decreto 971/2007, de 13 de julio, sobre deportistas de alto nivel y alto rendimiento.
-
 
 #### Artículo 30. Admisión de estudiantes con estudios universitarios extranjeros.
 
@@ -477,11 +444,9 @@ Los estudiantes que no obtengan reconocimiento de al menos 30 créditos ECTS pod
 
 La nota media del expediente académico de los interesados se obtendrá de acuerdo con las equivalencias que se establezcan por el Ministro de Educación, Cultura y Deporte entre las calificaciones de dichos sistemas extranjeros y las propias del Sistema Educativo Español.
 
-
 #### Disposición adicional primera. Universidad Nacional de Educación a Distancia (UNED).
 
 En el caso de la UNED, corresponde al Gobierno el ejercicio de las competencias atribuidas a las Administraciones educativas en este real decreto.
-
 
 #### Disposición adicional segunda. Admisión a las enseñanzas universitarias oficiales de Grado que se impartan en el sistema de centros universitarios de la defensa.
 
@@ -490,7 +455,6 @@ La admisión a las enseñanzas universitarias oficiales de Grado que se impartan
 1. Los resultados de las evaluaciones específicas que se realicen en el seno de los procedimientos de admisión a los centros docentes militares de formación para el acceso a las escalas de oficiales de los Cuerpos Generales de los Ejércitos y al Cuerpo de Infantería de Marina y a la escala superior de oficiales de la Guardia Civil tendrán validez para la admisión en cualquiera de los tres Centros Universitarios de la Defensa.
 
 2. No se aplicará al total de plazas ofertadas para las centros universitarios de la defensa los cupos de reserva a los que se refieren los artículos 24 al 28, ambos inclusive, del presente real decreto.
-
 
 #### Disposición adicional tercera. Estudiantes en posesión de títulos, estudios y diplomas obtenidos con anterioridad a la entrada en vigor de la Ley Orgánica 8/2013, de 9 de diciembre, para la Mejora de la Calidad Educativa.
 
@@ -514,7 +478,6 @@ b) La calificación de las materias de la fase específica tendrá validez como 
 
 Los estudiantes podrán presentarse a los procedimientos de admisión fijados por las Universidades para mejorar su calificación.
 
-
 #### Disposición adicional cuarta. Calendario de implantación.
 
 Los procedimientos de admisión a las enseñanzas universitarias oficiales de Grado regulados en el presente real decreto se aplicarán a partir de los siguientes cursos académicos:
@@ -522,7 +485,6 @@ Los procedimientos de admisión a las enseñanzas universitarias oficiales de Gr
 a) A partir del curso académico 2017-2018, a los estudiantes que hayan obtenido el título de Bachiller del Sistema Educativo Español de acuerdo con la redacción del artículo 37 de la Ley Orgánica 2/2006, de 3 de mayo, introducida por la Ley Orgánica 8/2013, de 9 de diciembre.
 
 b) A partir del curso académico 2014-2015, al resto de estudiantes.
-
 
 #### Disposición transitoria única. Cursos académicos 2014-2015 a 2016-2017.
 
@@ -538,16 +500,13 @@ Para la realización de la prueba de acceso a la universidad se tendrán en cuen
 
 5. Para la admisión a los estudios universitarios oficiales de Grado en las Universidades españolas en los cursos académicos 2014-2015, 2015-2016 y 2016-2017 las Universidades podrán utilizar como criterio de valoración en los procedimientos de admisión la credencial para el acceso a la universidad española expedida por la Universidad Nacional de Educación a Distancia (UNED), de acuerdo con los requisitos establecidos en la Orden EDU/1161/2010, de 4 de mayo, por la que se establece el procedimiento para el acceso a la Universidad española por parte de los estudiantes procedentes de sistemas educativos a los que es de aplicación el artículo 38.5 de la Ley Orgánica 2/2006, de 3 de mayo, de Educación, para los estudiantes indicados en el artículo 9.1.b) de este real decreto.
 
-
 #### Disposición derogatoria única. Derogación normativa.
 
 Queda derogado el Real Decreto 1892/2008, de 14 de noviembre, por el que se regulan las condiciones para el acceso a las enseñanzas universitarias de grado y los procedimientos de admisión a las Universidades públicas españolas, sin perjuicio de lo establecido en la disposición adicional cuarta de este real decreto.
 
-
 #### Disposición final primera. Título competencial y carácter básico.
 
 Este real decreto tiene el carácter de norma básica y se dicta al amparo del artículo 149.1.30.ª de la Constitución, que atribuye al Estado las competencias para la regulación de las condiciones de obtención, expedición y homologación de los títulos académicos y profesionales y normas básicas para el desarrollo del artículo 27 de la Constitución, a fin de garantizar el cumplimiento de las obligaciones de los poderes públicos en esta materia.
-
 
 #### Disposición final segunda. Desarrollo y ejecución.
 
@@ -555,10 +514,7 @@ Este real decreto tiene el carácter de norma básica y se dicta al amparo del a
 
 2. De la aplicación de las previsiones contenidas en este real decreto no se derivará incremento de las dotaciones presupuestarias públicas, de los costes de personal, de las dotaciones de efectivos ni de sus retribuciones.
 
-
 #### Disposición final tercera. Entrada en vigor.
-
-El presente real decreto entrará en vigor el día siguiente al de su publicación en el «Boletín Oficial del Estado».
 
 Dado en Madrid, el 6 de junio de 2014.
 

@@ -32,9 +32,6 @@ fuente_pdf_oficial: https://sede.gobiernodecanarias.org/boc/boc-a-2026-039-643.p
 
 # Resolución de 5 de febrero de 2026, de la DGACESC, por la que se convoca el procedimiento de admisión del alumnado en centros docentes que oferten enseñanzas de Educación Infantil, Educación Primaria, Educación Secundaria Obligatoria, Bachillerato y Educación de Personas Adultas sostenidos con fondos públicos, para el curso escolar 2026-2027, en la Comunidad Autónoma de Canarias (BOC núm. 31, de 16 de febrero).
 
-https://sede.gobiernodecanarias.org/boc
-boc-a-2026-039-643
-Boletín Oficial de Canarias núm. 39 Jueves 26 de febrero de 20267355
 III. Otras Resoluciones
 Consejería de Educación, Formación Profesional, Actividad Física y Deportes
 643 Dirección General de Formación Profesional y Enseñanzas de Régimen Especial.- 
@@ -78,9 +75,6 @@ se desarrolle reglamentariamente la normativa, se deben aplicar las disposicione
 siempre que no sean contradictorias con lo dispuesto en la 
 LEA.
 
-https://sede.gobiernodecanarias.org/boc
-boc-a-2026-039-643
-Boletín Oficial de Canarias núm. 39 Jueves 26 de febrero de 20267356
 Tercero.- La disposición final segunda de la LEA suprime el apartado 5 del artículo 69 
 de la Ley Orgánica 2/2006, de 3 de mayo, de Educación, que indicaba lo siguiente: “Los 
 mayores de dieciocho años de edad podrán acceder directamente a las enseñanzas artísticas 
@@ -126,9 +120,6 @@ Octavo.- La Resolución de 25 de mayo de 2011, de la Dirección General de Forma
 Profesional y Educación de Adultos, por la que se dictan instrucciones sobre organización 
 y desarrollo de las pruebas de acceso a las enseñanzas artísticas superiores de Grado en 
 
-https://sede.gobiernodecanarias.org/boc
-boc-a-2026-039-643
-Boletín Oficial de Canarias núm. 39 Jueves 26 de febrero de 20267357
 Música, Arte Dramático y Diseño en la Comunidad Autónoma de Canarias, y se convocan 
 las correspondientes al curso 2011-2012, en su redacción actual, establece el marco general 
 para la realización de las referidas pruebas de acceso, disponiendo que se garantizará la 
@@ -168,9 +159,6 @@ del Real Decreto 633/2010, de 14 de mayo, por el que se regula el contenido bás
 enseñanzas artísticas superiores de Grado de Diseño establecidas en la Ley Orgánica 2/2006, 
 de 3 de mayo, de Educación.
 
-https://sede.gobiernodecanarias.org/boc
-boc-a-2026-039-643
-Boletín Oficial de Canarias núm. 39 Jueves 26 de febrero de 20267358
 3. Podrán también acceder a las enseñanzas artísticas superiores de Música las personas 
 de dieciséis y de diecisiete años de edad que, sin reunir los requisitos académicos señalados 
 en los apartados anteriores, superen la prueba de acceso para aspirantes sin requisitos. 
@@ -212,9 +200,6 @@ La solicitud de plaza y la inscripción en las pruebas específicas de acceso a 
 enseñanzas artísticas superiores de Arte Dramático se cumplimentará en el formulario que 
 figura como Anexo III de la presente Resolución.
 
-https://sede.gobiernodecanarias.org/boc
-boc-a-2026-039-643
-Boletín Oficial de Canarias núm. 39 Jueves 26 de febrero de 20267359
 Se presentará en el Centro Superior Autorizado de Arte Dramático “Escuela de Actores 
 de Canarias” (en adelante, EAC), haciendo uso de los medios y procedimientos que 
 establezca dicho centro educativo.
@@ -256,9 +241,6 @@ g) Quienes estén en posesión del título de Técnico Superior de Artes Plásti
 deberán adjuntar una fotocopia del mismo o del justificante de haber abonado sus derechos 
 de expedición, o de la certificación académica oficial expedida por el centro correspondiente 
 
-https://sede.gobiernodecanarias.org/boc
-boc-a-2026-039-643
-Boletín Oficial de Canarias núm. 39 Jueves 26 de febrero de 20267360
 de haber superado dichas enseñanzas. En cualquier caso, debe acreditarse la nota media del 
 expediente.
 h) Las personas con discapacidad que precisen de recursos personales o materiales para 
@@ -299,9 +281,6 @@ Cuarto.- Prueba específica de acceso a las enseñanzas artísticas superiores.
 1.1. Las pruebas específicas de acceso serán diferenciadas para cada una de las 
 enseñanzas artísticas superiores.
 
-https://sede.gobiernodecanarias.org/boc
-boc-a-2026-039-643
-Boletín Oficial de Canarias núm. 39 Jueves 26 de febrero de 20267361
 1.2. La realización de las pruebas específicas de acceso tendrá lugar en el centro en el 
 que cada persona interesada desee ingresar.
 1.3. Para la formalización de la inscripción en las pruebas específicas de acceso se 
@@ -338,9 +317,6 @@ publicarán en los tablones de anuncios y en su sitio web una relación orientat
 textos, así como de los útiles y materiales necesarios para la realización de la prueba, según 
 las distintas enseñanzas y especialidades.
 
-https://sede.gobiernodecanarias.org/boc
-boc-a-2026-039-643
-Boletín Oficial de Canarias núm. 39 Jueves 26 de febrero de 20267362
 3. Elaboración, orientación y calificación final de las pruebas específicas de acceso a las 
 enseñanzas artísticas superiores.
 3.1. Las pruebas específicas de acceso a las enseñanzas artísticas superiores serán 
@@ -378,9 +354,6 @@ Resolución:
 - Enseñanzas artísticas superiores de Música: Anexos VII, VIII, IX y X.
 - Enseñanzas artísticas superiores de Arte Dramático: Anexo XI.
 
-https://sede.gobiernodecanarias.org/boc
-boc-a-2026-039-643
-Boletín Oficial de Canarias núm. 39 Jueves 26 de febrero de 20267363
 4.5. Las actas de las sesiones de evaluación y de calificación quedarán archivadas en 
 la secretaría del centro. Asimismo, los ejercicios correspondientes quedarán archivados en 
 la secretaría del centro durante los tres meses siguientes a contar desde la finalización del 
@@ -420,9 +393,6 @@ enseñanzas artísticas superiores.
 8.1. En caso de discrepancia con la calificación obtenida en las pruebas específicas de 
 acceso, las personas interesadas podrán presentar reclamación por escrito y dirigidas a la 
 
-https://sede.gobiernodecanarias.org/boc
-boc-a-2026-039-643
-Boletín Oficial de Canarias núm. 39 Jueves 26 de febrero de 20267364
 dirección del centro, en la secretaría del centro en que se hayan realizado las pruebas, en el 
 plazo máximo de tres días desde la publicación de las listas provisionales de admitidos y 
 excluidos, concretando en el escrito los motivos de la reclamación.
@@ -464,9 +434,6 @@ solicitud de inscripción la fotocopia del documento nacional de identidad (
 DNI) o del 
 número de identificación de extranjero (NIE) o, en su defecto, del pasaporte.
 
-https://sede.gobiernodecanarias.org/boc
-boc-a-2026-039-643
-Boletín Oficial de Canarias núm. 39 Jueves 26 de febrero de 20267365
 2. Listados provisionales y definitivos de personas admitidas y excluidas.
 2.1. En la fecha señalada en el calendario de la convocatoria, el Conservatorio Superior 
 de Música de Canarias publicará, en los tablones de anuncios de sus dos sedes territoriales, 
@@ -504,9 +471,6 @@ Tenerife.
 5.1. Según lo establecido en el Anexo I de la Resolución de 25 de mayo de 2011, por 
 la que se dictan instrucciones sobre organización y desarrollo de las pruebas de acceso a 
 
-https://sede.gobiernodecanarias.org/boc
-boc-a-2026-039-643
-Boletín Oficial de Canarias núm. 39 Jueves 26 de febrero de 20267366
 las enseñanzas artísticas superiores de Grado en Música, Arte Dramático y Diseño en la 
 Comunidad Autónoma de Canarias, y se convocan las correspondientes al curso académico 
 2011-2012, la prueba de acceso constará de tres ejercicios:
@@ -546,9 +510,6 @@ Evaluadoras estarán constituidas por cinco miembros, entre los cuales uno ejerc
 la presidencia y el resto actuarán como vocales, asumiendo el vocal de menor edad la 
 secretaría.
 
-https://sede.gobiernodecanarias.org/boc
-boc-a-2026-039-643
-Boletín Oficial de Canarias núm. 39 Jueves 26 de febrero de 20267367
 6.2. Las Escuelas de Arte y Superiores de Diseño trasladarán a la Dirección General 
 de Formación Profesional y Enseñanzas de Régimen Especial, antes del 10 de abril de 
 2026, las propuestas de miembros que habrán de integrar las Comisiones Evaluadoras 
@@ -592,9 +553,6 @@ Música para aspirantes de dieciséis y de diecisiete años sin requisitos acad�
 custodiada por el 
 CSMC, debiendo quedar una copia archivada en la secretaría del centro.
 
-https://sede.gobiernodecanarias.org/boc
-boc-a-2026-039-643
-Boletín Oficial de Canarias núm. 39 Jueves 26 de febrero de 20267368
 En el caso de que se haya presentado reclamación ante la Dirección Territorial de 
 Educación, se guardará, en su totalidad, la documentación generada para el caso hasta que se 
 resuelva en firme la reclamación o se hayan agotado las vías establecidas normativamente.
@@ -635,9 +593,6 @@ los términos establecidos en la legislación sobre protección de datos.
 educativa, con las garantías previstas en la disposición adicional vigésima tercera, de 
 la Ley Orgánica 2/2006, de 3 de mayo, de Educación, en los ficheros de admisión del 
 
-https://sede.gobiernodecanarias.org/boc
-boc-a-2026-039-643
-Boletín Oficial de Canarias núm. 39 Jueves 26 de febrero de 20267369
 alumnado y gestión de centros escolares públicos. El órgano responsable de los ficheros 
 es la Consejería de Educación, Formación Profesional, Actividad Física y Deportes. Los 
 interesados podrán acudir al centro en el que se haya presentado la solicitud, para ejercer 
@@ -655,9 +610,6 @@ sin perjuicio de cualesquiera otros que se estime procedente interponer.
 Las Palmas de Gran Canaria, a 13 de febrero de 2026.- La Directora General de 
 Formación Profesional y Enseñanzas de Régimen Especial, Carolina León Martínez.
 
-boc-a-2026-039-643
-Boletín Oficial de Canarias núm. 39 Jueves 26 de febrero de 20267370
-https://sede.gobiernodecanarias.org/boc
 ANEXO I
 Calendario del procedimiento de admisión y pruebas específicas de acceso para las enseñanzas 
 artísticas superiores de Diseño y Música
@@ -714,9 +666,6 @@ CALENDARIO DEL PROCEDIMIENTO DE ADMISIÓN Y PRUEBAS ESPECÍFICAS DE
 ACCESO PARA LAS ENSEÑANZAS ARTÍSTICAS SUPERIORES 
 DE DISEÑO Y MÚSICA
 
-boc-a-2026-039-643
-Boletín Oficial de Canarias núm. 39 Jueves 26 de febrero de 20267371
-https://sede.gobiernodecanarias.org/boc
 Calendario del procedimiento de admisión y pruebas específicas de acceso para las enseñanzas 
 artísticas superiores de Arte Dramático
 ENSEÑANZAS ARTÍSTICAS SUPERIORES DE ARTE DRAMÁTICO
@@ -761,9 +710,6 @@ CALENDARIO DEL PROCEDIMIENTO DE ADMISIÓN Y PRUEBAS ESPECÍFICAS DE
 ACCESO PARA LAS ENSEÑANZAS ARTÍSTICAS SUPERIORES 
 DE ARTE DRAMÁTICO
 
-boc-a-2026-039-643
-Boletín Oficial de Canarias núm. 39 Jueves 26 de febrero de 20267372
-https://sede.gobiernodecanarias.org/boc
 ANEXO II
 Calendario del procedimiento de admisión y prueba de acceso a las enseñanzas artísticas 
 superiores de Música para aspirantes de dieciséis y de diecisiete años sin requisitos académicos
@@ -808,9 +754,6 @@ CALENDARIO DEL PROCEDIMIENTO DE ADMISIÓN Y PRUEBA DE ACCESO A LAS
 ENSEÑANZAS ARTÍSTICAS SUPERIORES DE MÚSICA PARA ASPIRANTES 
 DE DIECISÉIS Y DE DIECISIETE AÑOS SIN REQUISITOS ACADÉMICOS
 
-boc-a-2026-039-643
-Boletín Oficial de Canarias núm. 39 Jueves 26 de febrero de 20267373
-https://sede.gobiernodecanarias.org/boc
 ANEXO III
 ENSEÑANZAS ARTÍSTICAS SUPERIORES DE ARTE DRAMÁTICO
 MODELO DE SOLICITUD DE PLAZA E INSCRIPCIÓN A LA PRUEBA ESPECÍFICA DE 
@@ -836,9 +779,6 @@ académica oficial expedida por el centro correspondiente de haber superado dich
 ANEXO III
 ENSEÑANZAS ARTÍSTICAS SUPERIORES DE ARTE DRAMÁTICO
 
-boc-a-2026-039-643
-Boletín Oficial de Canarias núm. 39 Jueves 26 de febrero de 20267374
-https://sede.gobiernodecanarias.org/boc
 □ Fotocopia del título de Técnico Superior o del justificante de haber abonado sus derechos de expedición, o de la
 certificación académica oficial expedida por el centro correspondiente de haber superado dichas enseñanzas.
 □ Justificante del pago de los derechos de examen establecidos.
@@ -859,9 +799,6 @@ En ______________________________________, a__________________________________
 SR/A DIRECTOR/A DEL  CENTRO  SUPERIOR  AUTORIZADO  DE  ARTE  DRAMÁTICO  “ESCUELA DE 
 ACTORES DE CANARIAS”
 
-boc-a-2026-039-643
-Boletín Oficial de Canarias núm. 39 Jueves 26 de febrero de 20267375
-https://sede.gobiernodecanarias.org/boc
 ANEXO IV
 ASPIRANTES SIN REQUISITOS ACADÉMICOS
 MODELO DE SOLICITUD DE INSCRIPCIÓN A LA PRUEBA DE ACCESO PARA ASPIRANTES 
@@ -882,9 +819,6 @@ del pasaporte.
 ANEXO IV
 ASPIRANTES SIN REQUISITOS ACADÉMICOS
 
-boc-a-2026-039-643
-Boletín Oficial de Canarias núm. 39 Jueves 26 de febrero de 20267376
-https://sede.gobiernodecanarias.org/boc
 PROTECCIÓN DE DATOS
 Tratamiento de datos de carácter personal. Responsable del tratamiento: Consejería de Educación, Formación Profesional, 
 Actividad Física y Deportes del Gobierno de Canarias. Finalidad del tratamiento: Gestionar la escolarización del alumnado  
@@ -901,9 +835,6 @@ En ______________________________________, a__________________________________
 (Firma del solicitante / representante)
 SR/A DIRECTOR/A DEL CENTRO
 
-boc-a-2026-039-643
-Boletín Oficial de Canarias núm. 39 Jueves 26 de febrero de 20267377
-https://sede.gobiernodecanarias.org/boc
 ANEXO V
 PRUEBA DE ACCESO PARA ASPIRANTES DE 16 Y DE 17 AÑOS SIN REQUISITOS 
 ACADÉMICOS A LAS ENSEÑANZAS ARTÍSTICAS SUPERIORES DE MÚSICA
@@ -925,9 +856,6 @@ La Comisión Evaluadora: (firmas)
 El/La Presidente/a: El/La Secretario/a: Vocal 1: Vocal 2: Vocal 3:
 ANEXO V
 
-boc-a-2026-039-643
-Boletín Oficial de Canarias núm. 39 Jueves 26 de febrero de 20267378
-https://sede.gobiernodecanarias.org/boc
 ANEXO VI
 PRUEBA ESPECÍFICA DE ACCESO A LAS ENSEÑANZAS ARTÍSTICAS SUPERIORES DE DISEÑO
 ACTA DE CALIFICACIÓN DE LA PRUEBA ESPECÍFICA DE ACCESO
@@ -943,9 +871,6 @@ El/La Presidente/a: El/La Secretario/a: Vocal 1: Vocal 2: Vocal 3:
 Vocal 4: Vocal 5:
 ANEXO VI
 
-boc-a-2026-039-643
-Boletín Oficial de Canarias núm. 39 Jueves 26 de febrero de 20267379
-https://sede.gobiernodecanarias.org/boc
 ANEXO VII
 PRUEBA ESPECÍFICA DE ACCESO A LAS ENSEÑANZAS ARTÍSTICAS SUPERIORES DE MÚSICA, ESPECIALIDAD DE INTERPRETACIÓN
 ACTA DE CALIFICACIÓN DE LA PRUEBA ESPECÍFICA DE ACCESO
@@ -974,9 +899,6 @@ El/La Presidente/a: El/La Secretario/a: Vocal 1: Vocal 2: Vocal 3:
 Vocal 4: Vocal 5:
 ANEXO VII
 
-boc-a-2026-039-643
-Boletín Oficial de Canarias núm. 39 Jueves 26 de febrero de 20267380
-https://sede.gobiernodecanarias.org/boc
 ANEXO VIII
 PRUEBA ESPECÍFICA DE ACCESO A LAS ENSEÑANZAS ARTÍSTICAS SUPERIORES DE MÚSICA, ESPECIALIDAD DE PEDAGOGÍA
 ACTA DE CALIFICACIÓN DE LA PRUEBA ESPECÍFICA DE ACCESO
@@ -1007,9 +929,6 @@ El/La Presidente/a: El/La Secretario/a: Vocal 1: Vocal 2: Vocal 3:
 Vocal 4: Vocal 5:
 ANEXO VIII
 
-boc-a-2026-039-643
-Boletín Oficial de Canarias núm. 39 Jueves 26 de febrero de 20267381
-https://sede.gobiernodecanarias.org/boc
 ANEXO IX
 PRUEBA ESPECÍFICA DE ACCESO A LAS ENSEÑANZAS ARTÍSTICAS SUPERIORES DE MÚSICA, ESPECIALIDAD DE COMPOSICIÓN
 ACTA DE CALIFICACIÓN DE LA PRUEBA ESPECÍFICA DE ACCESO
@@ -1042,9 +961,6 @@ El/La Presidente/a: El/La Secretario/a: Vocal 1: Vocal 2: Vocal 3:
 Vocal 4: Vocal 5:
 ANEXO IX
 
-boc-a-2026-039-643
-Boletín Oficial de Canarias núm. 39 Jueves 26 de febrero de 20267382
-https://sede.gobiernodecanarias.org/boc
 ANEXO X
 PRUEBA ESPECÍFICA DE ACCESO A LAS ENSEÑANZAS ARTÍSTICAS SUPERIORES DE MÚSICA, ESPECIALIDAD DE MUSICOLOGÍA
 ACTA DE CALIFICACIÓN DE LA PRUEBA ESPECÍFICA DE ACCESO
@@ -1075,9 +991,6 @@ El/La Presidente/a: El/La Secretario/a: Vocal 1: Vocal 2: Vocal 3:
 Vocal 4: Vocal 5:
 ANEXO X
 
-boc-a-2026-039-643
-Boletín Oficial de Canarias núm. 39 Jueves 26 de febrero de 20267383
-https://sede.gobiernodecanarias.org/boc
 ANEXO XI
 PRUEBA ESPECÍFICA DE ACCESO A LAS ENSEÑANZAS ARTÍSTICAS SUPERIORES DE ARTE DRAMÁTICO, ESPECIALIDAD DE INTERPRETACIÓN
 ACTA DE CALIFICACIÓN DE LA PRUEBA ESPECÍFICA DE ACCESO
@@ -1100,9 +1013,6 @@ El/La Presidente/a: El/La Secretario/a: Vocal 1: Vocal 2: Vocal 3:
 Vocal 4: Vocal 5:
 ANEXO XI
 
-boc-a-2026-039-643
-Boletín Oficial de Canarias núm. 39 Jueves 26 de febrero de 20267384
-https://sede.gobiernodecanarias.org/boc
 ANEXO XII
 CERTIFICACIÓN ACREDITATIVA DE LA SUPERACIÓN DE LA PRUEBA DE ACCESO 
 PARA ASPIRANTES DE 16 Y DE 17 AÑOS SIN REQUISITOS ACADÉMICOS A LAS 
@@ -1131,9 +1041,6 @@ convocan el procedimiento de admisión y las pruebas de acceso a las enseñanzas
 Dramático, en la Comunidad Autónoma de Canarias, para el curso académico 2026-2027.
 ANEXO XII
 
-boc-a-2026-039-643
-Boletín Oficial de Canarias núm. 39 Jueves 26 de febrero de 20267385
-https://sede.gobiernodecanarias.org/boc
 ANEXO XIII
 CERTIFICACIÓN ACREDITATIVA DE LA SUPERACIÓN DE LA PRUEBA ESPECÍFICA 
 DE ACCESO A LAS ENSEÑANZAS ARTÍSTICAS SUPERIORES

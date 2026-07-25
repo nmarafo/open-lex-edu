@@ -30,10 +30,7 @@ fuente_pdf_oficial: https://sede.gobiernodecanarias.org/boc/boc-a-2019-143-3820.
 
 # Resolución de 10 de julio de 2019, por la que se dictan instrucciones relativas al procedimiento para el reconocimiento de correspondencias, convalidaciones y exenciones en las enseñanzas deportivas de régimen especial en la Comunidad Autónoma de Canarias (BOC n.º 143, de 26 de julio).
 
-Boletín Oficial de Canarias núm. 143
-https://sede.gobcan.es/boc
 Viernes 26 de julio de 2019
-29426
 III. Otras Resoluciones
 Consejería de Educación y Universidades
 3820 Dirección General de Formación Profesional y Educación de Adultos.- Resolución 
@@ -73,12 +70,8 @@ tendrán la consideración de enseñanzas de régimen especial, y en su Capítul
 I, que establece los principios generales de las enseñanzas deportivas así como las normas 
 fundamentales sobre su organización.
 Página 
-boc-a-2019-143-3820
 
-Boletín Oficial de Canarias núm. 143
-https://sede.gobcan.es/boc
 Viernes 26 de julio de 2019
-29427
 Segundo.- El Real Decreto 1363/2007, de 24 de octubre, por el que se establece la 
 ordenación general de las enseñanzas deportivas de régimen especial (BOE nº 268, de 
 8 de noviembre), en su Capítulo IX, que regula las convalidaciones, correspondencias y 
@@ -115,12 +108,8 @@ octubre, del Procedimiento Administrativo Común de las Administraciones Públic
 nº 236, de 2.10.15).
 Santa Cruz de Tenerife, a 10 de julio de 2019.- El Director General de Formación 
 Profesional y Educación de Adultos, Manuel Jorge Pérez.
-boc-a-2019-143-3820
 
-Boletín Oficial de Canarias núm. 143
-https://sede.gobcan.es/boc
 Viernes 26 de julio de 2019
-29428
 Folio 1/8
 RESOLUCIÓN  DE  LA  DIRECCIÓN  GENERAL  DE FORMACIÓN  PROFESIONAL  Y
 EDUCACIÓN DE ADULTOS POR LA QUE SE DICTAN INSTRUCCIONES RELATIVAS
@@ -169,12 +158,8 @@ En la dirección https://sede.gobcan.es/sede/verifica_doc puede ser comprobada l
 autenticidad de esta copia, mediante el número de documento electrónico siguiente:
 05D2VIXjcK844ZEsRh-Sy_jdKOLJ7N5rG
 El presente documento ha sido descargado el 23/07/2019 - 12:41:20
-boc-a-2019-143-3820
 
-Boletín Oficial de Canarias núm. 143
-https://sede.gobcan.es/boc
 Viernes 26 de julio de 2019
-29429
 RESOLUCIÓN  DE  LA  DIRECCIÓN  GENERAL  DE FORMACIÓN  PROFESIONAL  Y
 EDUCACIÓN DE ADULTOS POR LA QUE SE DICTAN INSTRUCCIONES RELATIVAS
 AL  PROCEDIMIENTO  PARA  EL  RECONOCIMIENTO  DE  CORRESPONDENCIAS,
@@ -226,12 +211,8 @@ En la dirección https://sede.gobcan.es/sede/verifica_doc puede ser comprobada l
 autenticidad de esta copia, mediante el número de documento electrónico siguiente:
 05D2VIXjcK844ZEsRh-Sy_jdKOLJ7N5rG
 El presente documento ha sido descargado el 23/07/2019 - 12:41:20
-boc-a-2019-143-3820
 
-Boletín Oficial de Canarias núm. 143
-https://sede.gobcan.es/boc
 Viernes 26 de julio de 2019
-29430
 RESOLUCIÓN  DE  LA  DIRECCIÓN  GENERAL  DE FORMACIÓN  PROFESIONAL  Y
 EDUCACIÓN DE ADULTOS POR LA QUE SE DICTAN INSTRUCCIONES RELATIVAS
 AL  PROCEDIMIENTO  PARA  EL  RECONOCIMIENTO  DE  CORRESPONDENCIAS,
@@ -291,12 +272,8 @@ En la dirección https://sede.gobcan.es/sede/verifica_doc puede ser comprobada l
 autenticidad de esta copia, mediante el número de documento electrónico siguiente:
 05D2VIXjcK844ZEsRh-Sy_jdKOLJ7N5rG
 El presente documento ha sido descargado el 23/07/2019 - 12:41:20
-boc-a-2019-143-3820
 
-Boletín Oficial de Canarias núm. 143
-https://sede.gobcan.es/boc
 Viernes 26 de julio de 2019
-29431
 RESOLUCIÓN  DE  LA  DIRECCIÓN  GENERAL  DE FORMACIÓN  PROFESIONAL  Y
 EDUCACIÓN DE ADULTOS POR LA QUE SE DICTAN INSTRUCCIONES RELATIVAS
 AL  PROCEDIMIENTO  PARA  EL  RECONOCIMIENTO  DE  CORRESPONDENCIAS,
@@ -360,12 +337,8 @@ En la dirección https://sede.gobcan.es/sede/verifica_doc puede ser comprobada l
 autenticidad de esta copia, mediante el número de documento electrónico siguiente:
 05D2VIXjcK844ZEsRh-Sy_jdKOLJ7N5rG
 El presente documento ha sido descargado el 23/07/2019 - 12:41:20
-boc-a-2019-143-3820
 
-Boletín Oficial de Canarias núm. 143
-https://sede.gobcan.es/boc
 Viernes 26 de julio de 2019
-29432
 RESOLUCIÓN  DE  LA  DIRECCIÓN  GENERAL  DE FORMACIÓN  PROFESIONAL  Y
 EDUCACIÓN DE ADULTOS POR LA QUE SE DICTAN INSTRUCCIONES RELATIVAS
 AL  PROCEDIMIENTO  PARA  EL  RECONOCIMIENTO  DE  CORRESPONDENCIAS,
@@ -428,12 +401,8 @@ En la dirección https://sede.gobcan.es/sede/verifica_doc puede ser comprobada l
 autenticidad de esta copia, mediante el número de documento electrónico siguiente:
 05D2VIXjcK844ZEsRh-Sy_jdKOLJ7N5rG
 El presente documento ha sido descargado el 23/07/2019 - 12:41:20
-boc-a-2019-143-3820
 
-Boletín Oficial de Canarias núm. 143
-https://sede.gobcan.es/boc
 Viernes 26 de julio de 2019
-29433
 RESOLUCIÓN  DE  LA  DIRECCIÓN  GENERAL  DE FORMACIÓN  PROFESIONAL  Y
 EDUCACIÓN DE ADULTOS POR LA QUE SE DICTAN INSTRUCCIONES RELATIVAS
 AL  PROCEDIMIENTO  PARA  EL  RECONOCIMIENTO  DE  CORRESPONDENCIAS,
@@ -504,12 +473,8 @@ En la dirección https://sede.gobcan.es/sede/verifica_doc puede ser comprobada l
 autenticidad de esta copia, mediante el número de documento electrónico siguiente:
 05D2VIXjcK844ZEsRh-Sy_jdKOLJ7N5rG
 El presente documento ha sido descargado el 23/07/2019 - 12:41:20
-boc-a-2019-143-3820
 
-Boletín Oficial de Canarias núm. 143
-https://sede.gobcan.es/boc
 Viernes 26 de julio de 2019
-29434
 RESOLUCIÓN  DE  LA  DIRECCIÓN  GENERAL  DE FORMACIÓN  PROFESIONAL  Y
 EDUCACIÓN DE ADULTOS POR LA QUE SE DICTAN INSTRUCCIONES RELATIVAS
 AL  PROCEDIMIENTO  PARA  EL  RECONOCIMIENTO  DE  CORRESPONDENCIAS,
@@ -555,12 +520,8 @@ En la dirección https://sede.gobcan.es/sede/verifica_doc puede ser comprobada l
 autenticidad de esta copia, mediante el número de documento electrónico siguiente:
 05D2VIXjcK844ZEsRh-Sy_jdKOLJ7N5rG
 El presente documento ha sido descargado el 23/07/2019 - 12:41:20
-boc-a-2019-143-3820
 
-Boletín Oficial de Canarias núm. 143
-https://sede.gobcan.es/boc
 Viernes 26 de julio de 2019
-29435
 RESOLUCIÓN  DE  LA  DIRECCIÓN  GENERAL  DE FORMACIÓN  PROFESIONAL  Y
 EDUCACIÓN DE ADULTOS POR LA QUE SE DICTAN INSTRUCCIONES RELATIVAS
 AL  PROCEDIMIENTO  PARA  EL  RECONOCIMIENTO  DE  CORRESPONDENCIAS,
@@ -610,4 +571,3 @@ En la dirección https://sede.gobcan.es/sede/verifica_doc puede ser comprobada l
 autenticidad de esta copia, mediante el número de documento electrónico siguiente:
 05D2VIXjcK844ZEsRh-Sy_jdKOLJ7N5rG
 El presente documento ha sido descargado el 23/07/2019 - 12:41:20
-boc-a-2019-143-3820

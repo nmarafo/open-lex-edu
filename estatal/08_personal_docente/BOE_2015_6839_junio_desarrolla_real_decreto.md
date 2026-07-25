@@ -31,6 +31,7 @@ fundamentos_derecho:
   articulos:
   - '1'
 ---
+
 # Orden ESS/1187/2015, de 15 de junio, por la que se desarrolla el Real Decreto 625/2014, de 18 de julio, por el que se regulan determinados aspectos de la gestión y control de los procesos por incapacidad temporal en los primeros trescientos sesenta y cinco días de su duración.
 
 El Real Decreto 625/2014, de 18 de julio, por el que se regulan determinados aspectos de la gestión y control de los procesos por incapacidad temporal en los primeros trescientos sesenta y cinco días de su duración, ha venido a establecer una nueva regulación que incide en varias cuestiones de la gestión de la referida situación de incapacidad temporal. Dicha regulación responde, entre otras razones, a determinadas reformas legales introducidas en los últimos años en materia de incapacidad temporal, y al avance en los medios de coordinación de actuaciones entre las distintas entidades implicadas en su gestión.
@@ -51,13 +52,11 @@ CAPÍTULO I
 
 Normas generales
 
-
 #### Artículo 1. Partes médicos de incapacidad temporal.
 
 De conformidad con lo previsto en los artículos 2 y 5 del Real Decreto 625/2014, de 18 de julio, por el que se regulan determinados aspectos de la gestión y control de los procesos por incapacidad temporal en los primeros trescientos sesenta y cinco días de su duración, se aprueban los modelos de los partes médicos de baja/alta y de confirmación de la incapacidad temporal, que figuran como anexos a esta orden.
 
 Los trabajadores deberán facilitar a los facultativos a los que corresponda la expedición de los mencionados partes médicos los datos necesarios para su correcta cumplimentación.
-
 
 #### Artículo 2. Tipos de procesos de incapacidad temporal en función de su duración estimada.
 
@@ -79,7 +78,6 @@ CAPÍTULO II
 
 Expedición de los partes médicos de baja y confirmación
 
-
 #### Artículo 3. Expedición de los partes médicos de baja.
 
 1. El parte médico de baja de incapacidad temporal, cualquiera que sea la contingencia determinante, se expedirá inmediatamente después del reconocimiento médico del trabajador, por el facultativo del servicio público de salud que lo realice, utilizando el modelo que figura como anexo I.
@@ -93,7 +91,6 @@ No obstante, el trabajador podrá solicitar que se le realice un reconocimiento 
 3. Cuando el facultativo del servicio público de salud o de la mutua considere que se trata de un proceso de duración estimada corta, media o larga, consignará en el parte de baja la fecha de la siguiente revisión médica prevista que, en ningún caso, excederá en más de siete días naturales a la fecha de la baja médica, tratándose de procesos de duración estimada corta o media, o de catorce días naturales tratándose de procesos de duración estimada larga.
 
 En la fecha de la primera revisión médica se extenderá el parte de alta o, en caso de que proceda mantener la baja, el primer parte de confirmación, de acuerdo con lo indicado en el artículo siguiente.
-
 
 #### Artículo 4. Expedición de los partes de confirmación de la baja.
 
@@ -129,7 +126,6 @@ Tratándose de procesos derivados de contingencia profesional, la mutua, una vez
 
 Este Instituto dictará resolución expresa en el ejercicio de las referidas competencias, cualquiera que sea la contingencia.
 
-
 #### Artículo 5. Informes complementarios.
 
 En los procesos de incapacidad temporal de duración estimada superior a 30 días naturales, cuya gestión corresponda al servicio público de salud, cualquiera que sea la contingencia de que deriven, el segundo parte de confirmación de la baja, y los que correspondan conforme a lo previsto en el artículo 4.1 del Real Decreto 625/2014, irán acompañados de un informe médico complementario cumplimentado y actualizado por el facultativo que expida el parte de confirmación, en los términos y con el contenido señalado en el citado artículo.
@@ -138,18 +134,15 @@ CAPÍTULO III
 
 Declaración de alta médica en los procesos de incapacidad temporal
 
-
 #### Artículo 6. Expedición de partes médicos de alta por el facultativo del servicio público de salud o de la mutua.
 
 1. El parte médico de alta será expedido por el facultativo del correspondiente servicio público de salud, o de la mutua si el proceso deriva de contingencia profesional cubierta por ella, tras el reconocimiento del trabajador, utilizando para ello el modelo que se acompaña como anexo I.
 
 2. El alta médica determinará la extinción de la situación de incapacidad temporal y del consiguiente subsidio el mismo día de su expedición, sin perjuicio de que los servicios sanitarios correspondientes continúen prestando al trabajador la asistencia sanitaria que aconseje su estado.
 
-
 #### Artículo 7. Expedición de altas médicas por los inspectores médicos de los servicios públicos de salud.
 
 Los inspectores médicos del respectivo servicio público de salud que, de acuerdo con lo previsto en el artículo 5 del Real Decreto 625/2014, expidan partes de alta médica, utilizarán el modelo anexo I. La tramitación del parte de alta, del que se entregarán dos copias al trabajador, será la prevista en el capítulo IV de esta orden.
-
 
 #### Artículo 8. Expedición de altas médicas por los inspectores médicos adscritos al Instituto Nacional de la Seguridad Social e Instituto Social de la Marina.
 
@@ -169,13 +162,11 @@ CAPÍTULO IV
 
 Normas comunes sobre tramitación de los partes médicos de baja/alta y confirmación
 
-
 #### Artículo 9. Remisión de los partes médicos de baja/alta y confirmación, por los servicios públicos de salud y las mutuas.
 
 El servicio público de salud o la mutua, en función de quien lo hubiera expedido, remitirá el parte de baja/alta y de confirmación al Instituto Nacional de la Seguridad Social, por vía telemática, de manera inmediata y, en todo caso, en el primer día hábil siguiente al de su expedición.
 
 Excepcionalmente, cuando el facultativo no disponga de los medios indicados, las actuaciones se llevarán a cabo a través de los partes médicos en soporte papel. No obstante, en estos casos, los datos correspondientes a dichos partes deberán ser transmitidos telemáticamente al Instituto Nacional de la Seguridad Social por el servicio público de salud o por la mutua en los dos días hábiles siguientes a su expedición.
-
 
 #### Artículo 10. Entrega del parte al trabajador y presentación en la empresa de la copia destinada a ella.
 
@@ -188,7 +179,6 @@ Asimismo, está obligado a presentar a la empresa la copia destinada a ella del 
 De igual modo, en los procesos de duración estimada muy corta, el trabajador presentará a la empresa la copia del parte de baja/alta destinada a ella dentro de las 24 horas siguientes a la fecha del alta. Excepcionalmente, si el facultativo emite el primer parte de confirmación porque considere que el trabajador no ha recuperado su capacidad laboral, según lo dispuesto en el segundo párrafo del artículo 3.2., el trabajador lo presentará a la empresa dentro de las 24 horas siguientes a su expedición, junto con el parte de baja inicial.
 
 No obstante, si la relación laboral finaliza durante la situación de incapacidad temporal, a partir de ese momento el trabajador habrá de presentar la copia de los partes de confirmación y de alta destinada a la empresa, a la entidad gestora o mutua que cubra la prestación económica de incapacidad temporal, en los mismos plazos indicados en el párrafo anterior.
-
 
 #### Artículo 11. Tramitación por el empresario.
 
@@ -206,13 +196,11 @@ En todo caso, la transmisión, cesión, tratamiento y explotación de los datos 
 
 Los modelos de las copias de los partes médicos en soporte papel deberán ser conservados por las empresas durante un plazo de cuatro años, contado desde la fecha de presentación telemática de los mismos.
 
-
 #### Artículo 12. Reglas especiales aplicables a determinados trabajadores.
 
 En los procesos de incapacidad temporal en los que proceda el pago directo del subsidio por la entidad gestora o colaboradora, corresponderá a los interesados presentar ante la misma los partes médicos de baja/alta o de confirmación, utilizando para ello la copia destinada a la empresa.
 
 La presentación de los indicados partes se efectuará, como máximo, en los plazos indicados en el artículo 10.2.
-
 
 #### Artículo 13. Tramitación por el Instituto Nacional de la Seguridad Social.
 
@@ -222,18 +210,15 @@ CAPÍTULO V
 
 Control de la situación de incapacidad temporal
 
-
 #### Artículo 14. Control por los servicios de inspección médica del servicio público de salud.
 
 1. En los procesos cuya gestión corresponda al servicio público de salud, trimestralmente, a contar desde el inicio de la situación de incapacidad temporal, la Inspección de Servicios Sanitarios de la Seguridad Social u órgano equivalente del respectivo servicio público de salud, o el médico de atención primaria bajo su supervisión, expedirá un informe médico de control de la incapacidad en el que deberán constar todos los extremos que, a juicio médico, justifiquen la necesidad de mantener el proceso de incapacidad temporal.
 
 2. Los servicios públicos de salud, en el plazo de cinco días hábiles desde su emisión, pondrán los citados informes médicos de control a disposición de los inspectores médicos adscritos al Instituto Nacional de la Seguridad Social o al Instituto Social de la Marina, o de los facultativos de las mutuas respecto de los procesos por contingencia común cuya cobertura les corresponda. La misma obligación existirá respecto de los informes médicos complementarios y sus actualizaciones a que se refiere el artículo 5, y las pruebas médicas que se realicen a lo largo del proceso.
 
-
 #### Disposición adicional primera. Facultativos e inspectores médicos del Instituto Social de la Marina.
 
 Las referencias que se realizan en la presente orden a los facultativos del servicio público de salud, así como a los inspectores médicos del servicio público de salud, se entenderán realizadas a los facultativos o inspectores médicos del Instituto Social de la Marina en aquellos casos en los que estos últimos ejerzan las mismas funciones, por no haberse producido la transferencia de la competencia de asistencia sanitaria a una comunidad autónoma.
-
 
 #### Disposición adicional segunda. Subsidio de incapacidad temporal durante la jubilación parcial.
 
@@ -241,11 +226,9 @@ El subsidio de incapacidad temporal, cualquiera que sea la contingencia de la qu
 
 La entidad gestora o colaboradora comunicará a la empresa el inicio del abono del subsidio al trabajador en régimen de pago directo, así como su finalización.
 
-
 #### Disposición adicional tercera. Instituto Nacional de Gestión Sanitaria.
 
 Las referencias a los servicios públicos de salud que se contienen en esta orden han de entenderse también realizadas al Instituto Nacional de Gestión Sanitaria, entidad gestora de la Seguridad Social a quien le corresponde la gestión de las prestaciones sanitarias en el ámbito de las ciudades de Ceuta y Melilla.
-
 
 #### Disposición transitoria única. Procesos en curso.
 
@@ -257,16 +240,13 @@ Las reglas fijadas en esta orden así como los nuevos modelos de partes de baja/
 
 La transmisión de los partes y datos correspondientes a los procesos referidos anteriormente se llevará a cabo conforme a lo previsto en esta orden a partir de su entrada en vigor.
 
-
 #### Disposición derogatoria única. Normas que se derogan.
 
 Quedan derogadas cuantas disposiciones de igual o inferior rango se opongan a la presente orden y, expresamente, la Orden de 6 de abril de 1983, por la que se dictan normas a efectos de control de la situación de incapacidad laboral transitoria en el sistema de la Seguridad Social; la Orden de 19 de junio de 1997, por la que se desarrolla el Real Decreto 575/1997, de 18 de abril, y la Orden TAS/399/2004, de 12 de febrero, sobre presentación en soporte informático de los partes médicos de baja, confirmación de la baja y alta correspondientes a procesos de incapacidad temporal.
 
-
 #### Disposición final primera. Título competencial.
 
 Esta orden se dicta al amparo de lo dispuesto en el artículo 149.1.17.ª de la Constitución Española que atribuye al Estado la competencia exclusiva en materia de régimen económico de la Seguridad Social.
-
 
 #### Disposición final segunda. Modificación de la Orden de 13 de octubre de 1967, por la que se establecen normas para la aplicación y desarrollo de la prestación por incapacidad laboral transitoria en el Régimen General de la Seguridad Social.
 
@@ -274,15 +254,11 @@ El apartado 2 del artículo 9 de la Orden de 13 de octubre de 1967, por la que s
 
 «En el caso de que el trabajador sea dado de alta sin incapacidad permanente, tendrá derecho a percibir el subsidio correspondiente al día de alta».
 
-
 #### Disposición final tercera. Facultades de aplicación.
 
 Se faculta a la Secretaría de Estado de la Seguridad Social para dictar las disposiciones necesarias para la aplicación de esta orden.
 
-
 #### Disposición final cuarta. Entrada en vigor.
-
-La presente orden entrará en vigor el día primero del sexto mes natural siguiente al de su publicación en el «Boletín Oficial del Estado».
 
 Madrid, 15 de junio de 2015.–La Ministra de Empleo y Seguridad Social, Fátima Báñez García.
 

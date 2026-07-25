@@ -54,8 +54,6 @@ Mapa web
 
 Contacto
 
-Versión texto
-
 Inicio
 
 Archivo
@@ -72,13 +70,7 @@ Año 1994
 
 1994/071. Viernes 10 de Junio de 1994
 
-828
-
-<p>Menú de búsqueda y navegación</p>
-
 Siguiente
-
-BOC Nº 071. Viernes 10 de Junio de 1994 - 828
 
 II. AUTORIDADES Y PERSONAL - Nombramientos, situaciones e incidencias - Presidencia del Gobierno
 
@@ -99,9 +91,3 @@ EL PRESIDENTE
 DEL GOBIERNO,
 
 Manuel Hermoso Rojas.
-
-© Gobierno de Canarias
-
-Aviso Legal
-
-Sugerencias y Reclamaciones

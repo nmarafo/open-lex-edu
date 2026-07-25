@@ -46,7 +46,6 @@ anexos_extraidos_pdf: true
 
 # Orden de 7 de junio de 2007, por la que se regulan las medidas de atención a la diversidad en la enseñanza básica en la Comunidad Autónoma de Canarias.
 
-Boletín Oficial de Canarias núm. 124, jueves 21 de junio de 2007 15401
 I. Disposiciones generales
 Consejería de Educación, 
 Cultura y Deportes
@@ -227,7 +226,6 @@ jeto de evaluación y calificación. Su evaluación po-
 sitiva será tenida en cuenta a los efectos de califica-
 ción de las áreas o materias no superadas, así como
 de promoción.
-15402 Boletín Oficial de Canarias núm. 124, jueves 21 de junio de 2007
 
 Sección 2ª
 Apoyo idiomático
@@ -326,7 +324,6 @@ pre que concurra alguna de las siguientes circunstancias:
 a) Estar en condiciones de cursar tercero de la ESO
 y haber repetido una vez en la etapa o en la Educa -
 ción Primaria.
-Boletín Oficial de Canarias núm. 124, jueves 21 de junio de 2007 15403
 
 b) Haber cursado segundo, no estar en condicio-
 nes de promocionar a tercero y haber repetido ya una
@@ -430,7 +427,6 @@ Ordenación e Innovación Educativa las propuestas
 para asignar al alumnado un nuevo centro de desti-
 no, al que se remitirá la documentación señalada con
 anterioridad. 
-15404 Boletín Oficial de Canarias núm. 124, jueves 21 de junio de 2007
 
 3. Excepcionalmente, durante el primer trimestre
 del curso escolar y una vez realizada la evaluación
@@ -530,7 +526,6 @@ ma. En su defecto, podrá ser impartido por profeso-
 rado que haya desarrollado en otros centros progra-
 mas o proyectos relacionados con la mejora de la
 convivencia. 
-Boletín Oficial de Canarias núm. 124, jueves 21 de junio de 2007 15405
 
 2. La Dirección General de Ordenación e Innovación
 Educativa podrá autorizar excepcionalmente la im-
@@ -628,7 +623,6 @@ Artículo 24.-Desarrollo de otras medidas de aten-
 ción a la diversidad.
 1. Los centros educativos que imparten enseñan-
 za básica podrán disponer de una asignación horaria
-15406 Boletín Oficial de Canarias núm. 124, jueves 21 de junio de 2007
 
 que, en el ejercicio de su autonomía, destinarán al de-
 sarrollo de otras medidas de atención a la diversidad
@@ -726,21 +720,14 @@ EL CONSEJERO DE EDUCACIÓN,
 CULTURA Y DEPORTES
 en funciones,
 Isaac Cristóbal Godoy Delgado.
-Boletín Oficial de Canarias núm. 124, jueves 21 de junio de 2007 15407
 
-15408 Boletín Oficial de Canarias núm. 124, jueves 21 de junio de 2007
 A N E X O  I
 A N E X O  I I
  
-
-
 
 ## ANEXOS COMPLEMENTARIOS (Descargados desde PDF del BOC)
 
 ### Anexo Fuente: https://www.gobiernodecanarias.org/boc/2007/124/boc-2007-124-anexo-15408.pdf
 
-15408 Boletín Oficial de Canarias núm. 124, jueves 21 de junio de 2007
 A N E X O  I
 A N E X O  I I
- 
-

@@ -35,7 +35,6 @@ Boletín Oficial de Canarias
 Accesibilidad
 Mapa web
 Contacto
-Versión texto
 Inicio
 Archivo
 Búsqueda
@@ -44,11 +43,8 @@ Inicio
 Archivo
 Año 2004
 2004/158. Martes 17 de Agosto de 2004
-1219
-<p>Menú de búsqueda y navegación</p>
 Anterior
 Siguiente
-BOC Nº 158. Martes 17 de Agosto de 2004 - 1219
 III. OTRAS RESOLUCIONES - Consejería de Educación, Cultura y Deportes
 1219 - Dirección General de Formación Profesional y Educación de Adultos.- Resolución de 14 de julio de 2004, por la que se dictan instrucciones para el funcionamiento de las Aulas Mentor.
 Descargar en formato pdf
@@ -122,6 +118,3 @@ c) Mantener un registro mensual de uso de las aulas, bajas y altas de las mismas
 6.4. El pago al profesorado-tutor de su acción tutorial se realizará mediante el documento pertinente remitido al efecto. Éste, una vez firmado por el tutor, se archivará en la Secretaría del centro.
 6.5. El dinero cobrado al alumnado tiene como finalidad el pago a los tutores, y el mantenimiento del aula, en los porcentajes establecidos por el Ministerio de Educación y Ciencia.
 6.6. En el momento de la inscripción se entregará al alumnado el material didáctico del curso en el que se ha inscrito que tenga carácter gratuito, y se informará del coste de aquel específico que no esté incluido en la matrícula y que deberá ser adquirido para el adecuado seguimiento del mismo. En ambos casos el administrador del aula orientará al alumno en la forma de obtenerlo.
-© Gobierno de Canarias
-Aviso Legal
-Sugerencias y Reclamaciones

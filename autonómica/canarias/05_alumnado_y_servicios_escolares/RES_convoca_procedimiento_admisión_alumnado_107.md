@@ -33,9 +33,6 @@ fuente_pdf_oficial: https://sede.gobiernodecanarias.org/boc/boc-a-2025-047-936.p
 
 # Resolución de 24 de febrero de 2025, por la que se convoca el procedimiento de admisión del alumnado a los Ciclos Formativos de Grado Básico, Medio y Superior (niveles 1, 2 y 3, respectivamente) de las Enseñanzas de Formación Profesional de Grado D, Enseñanzas Profesionales de Artes Plásticas y Diseño, Enseñanzas Elementales y Profesionales de Música, Enseñanzas de Idiomas y Enseñanzas Deportivas en centros docentes sostenidos con fondos públicos en la Comunidad Autónoma de Canarias para el curso escolar 2025/2026.
 
-https://sede.gobiernodecanarias.org/boc
-boc-a-2025-047-936
-Boletín Oficial de Canarias núm. 47 Viernes 7 de marzo de 202510588
 III. Otras Resoluciones
 Consejería de Educación, Formación Profesional, Actividad Física y Deportes
 936 Dirección General de Formación Profesional y Enseñanzas de Régimen Especial.- 
@@ -76,9 +73,6 @@ Primero.- La Ley Orgánica 2/2006, de 3 de mayo, de Educación, señala en su ar
 que “Las Administraciones educativas regularán la admisión de alumnos y alumnas en 
 centros públicos y privados concertados de tal forma que garantice el derecho a la educación, 
 
-https://sede.gobiernodecanarias.org/boc
-boc-a-2025-047-936
-Boletín Oficial de Canarias núm. 47 Viernes 7 de marzo de 202510589
 el acceso en condiciones de igualdad y la libertad de elección de centro por padres, madres 
 o tutores legales. En dicha regulación se dispondrán las medidas necesarias para evitar 
 la segregación del alumnado por motivos socioeconómicos o de otra naturaleza. En todo 
@@ -123,9 +117,6 @@ En atención a lo anteriormente indicado, y de acuerdo con la atribución previs
 disposición adicional tercera de la Orden de 3 de marzo de 2022, por la que se desarrolla el 
 Decreto 9/2022, de 20 de enero, por el que se regula la admisión del alumnado en centros 
 
-https://sede.gobiernodecanarias.org/boc
-boc-a-2025-047-936
-Boletín Oficial de Canarias núm. 47 Viernes 7 de marzo de 202510590
 docentes que oferten enseñanzas no universitarias sostenidas con fondos públicos, en 
 la Comunidad Autónoma de Canarias, y en ejercicio de las competencias atribuidas en 
 el artículo 20.2.d) del Reglamento Orgánico de la Consejería de Educación, Formación 
@@ -169,9 +160,6 @@ alto rendimiento serán los que al efecto establezca la resolución de calendari
 para estas enseñanzas la Dirección General de Administración de Centros, Escolarización y 
 Servicios Complementarios.
 
-https://sede.gobiernodecanarias.org/boc
-boc-a-2025-047-936
-Boletín Oficial de Canarias núm. 47 Viernes 7 de marzo de 202510591
 Cuarto.- Desempate.
 En el caso de los ciclos formativos de grado medio, de haber más solicitudes que 
 plazas ofertadas, y existir empate en los cupos de reserva para los graduados en Educación 
@@ -201,9 +189,6 @@ interponer.
 Las Palmas de Gran Canaria, a 24 de febrero de 2025.- La Directora General de 
 Formación Profesional y Enseñanzas de Régimen Especial, Carolina León Martínez.
 
-boc-a-2025-047-936
-Boletín Oficial de Canarias núm. 47 Viernes 7 de marzo de 202510592
-https://sede.gobiernodecanarias.org/boc
 ANEXO I
 CALENDARIO DE ADMISIÓN Y MATRÍCULA PARA LA ENSEÑANZA DE FORMACIÓN 
 PROFESIONAL DE GRADO D Y SUS RESPECTIVOS NIVELES, EN MODALIDAD
@@ -272,9 +257,6 @@ PROFESIONAL DE GRADO D Y SUS RESPECTIVOS NIVELES,
 EN MODALIDAD PRESENCIAL Y SEMIPRESENCIAL  
 CURSO 2025-2026
 
-boc-a-2025-047-936
-Boletín Oficial de Canarias núm. 47 Viernes 7 de marzo de 202510593
-https://sede.gobiernodecanarias.org/boc
 PERIODOS PARA COMPLETAR MATRÍCULA DE GRUPOS
 (Solicitantes en listas de reserva y que poseen las condiciones de acceso)
 15 al 28 de julio
@@ -306,9 +288,6 @@ Formación Profesional, Actividad Física y Deporte.
 30 de julio Plazo para grabar en la aplicación informática el alumnado matriculado.
 31 de julio Publicación de las plazas vacantes.
 
-boc-a-2025-047-936
-Boletín Oficial de Canarias núm. 47 Viernes 7 de marzo de 202510594
-https://sede.gobiernodecanarias.org/boc
 ANEXO II
 CALENDARIO DE ADMISIÓN Y MATRÍCULA PARA LOS CICLOS FORMATIVOS 
 DE GRADO MEDIO Y SUPERIOR DE LAS ENSEÑANZAS PROFESIONALES DE
@@ -371,9 +350,6 @@ DE GRADO MEDIO Y SUPERIOR DE LAS ENSEÑANZAS
 PROFESIONALES DE ARTES PLÁSTICAS  
 CURSO 2025/2026
 
-boc-a-2025-047-936
-Boletín Oficial de Canarias núm. 47 Viernes 7 de marzo de 202510595
-https://sede.gobiernodecanarias.org/boc
 20 de junio
 Último día para que los centros graben la nota media del alumnado que procede de 
 centros privados o de otra Comunidad Autónoma de la evaluación extraordinaria de 
@@ -485,9 +461,6 @@ que procede de otra Comunidad Autónoma, y ha superado la evaluación final extr
 ordinaria, entregue en la secretaría del centro el certificado de calificaciones donde  
 conste la nota media del expediente.
 
-boc-a-2025-047-936
-Boletín Oficial de Canarias núm. 47 Viernes 7 de marzo de 202510596
-https://sede.gobiernodecanarias.org/boc
 ANEXO III
 CALENDARIO DE ADMISIÓN Y MATRÍCULA PARA LAS ENSEÑANZAS DEPORTIV AS 
 DE RÉGIMEN ESPECIAL
@@ -545,9 +518,6 @@ CALENDARIO DE ADMISIÓN Y MATRÍCULA PARA LAS ENSEÑANZAS
 DEPORTIV AS DE RÉGIMEN ESPECIAL  
 CURSO 2025/2026
 
-boc-a-2025-047-936
-Boletín Oficial de Canarias núm. 47 Viernes 7 de marzo de 202510597
-https://sede.gobiernodecanarias.org/boc
 CONVOCA TORIA EXTRAORDINARIA/SEPTIEMBRE 2025
 Los centros que dispongan de plazas vacantes, una vez cerrado el plazo ordinario, abrirán un 
 segundo plazo según el siguiente calendario:
@@ -586,9 +556,6 @@ tivas de las pruebas específicas de acceso.
 Del 12 al 19 de 
 septiembre Plazo extraordinario de matrícula.
 
-boc-a-2025-047-936
-Boletín Oficial de Canarias núm. 47 Viernes 7 de marzo de 202510598
-https://sede.gobiernodecanarias.org/boc
 ANEXO IV
 CALENDARIO DE ADMISIÓN Y MATRÍCULA PARA LAS ENSEÑANZAS
 ELEMENTALES Y PROFESIONALES DE MÚSICA
@@ -645,9 +612,6 @@ CALENDARIO DE ADMISIÓN Y MATRÍCULA PARA LAS ENSEÑANZAS
 ELEMENTALES Y PROFESIONALES DE MÚSICA  
 CURSO 2025/2026
 
-boc-a-2025-047-936
-Boletín Oficial de Canarias núm. 47 Viernes 7 de marzo de 202510599
-https://sede.gobiernodecanarias.org/boc
 ANEXO V
 CALENDARIO DE ADMISIÓN Y MATRÍCULA PARA LAS ENSEÑANZAS DE 
 IDIOMAS DE RÉGIMEN ESPECIAL
@@ -702,9 +666,6 @@ CALENDARIO DE ADMISIÓN Y MATRÍCULA PARA LAS ENSEÑANZAS
 DE IDIOMAS DE RÉGIMEN ESPECIAL  
 CURSO 2025/2026
 
-boc-a-2025-047-936
-Boletín Oficial de Canarias núm. 47 Viernes 7 de marzo de 202510600
-https://sede.gobiernodecanarias.org/boc
 PRUEBA DE CLASIFICACIÓN DE ENSEÑANZAS DE IDIOMAS DE RÉGIMEN 
 ESPECIAL
 FECHA PROCEDIMIENTO
@@ -736,9 +697,6 @@ PARTE ORAL Presencial El centro convocará al alumnado con
 indicación de la fecha y hora concreta.
 10 minutos
 
-boc-a-2025-047-936
-Boletín Oficial de Canarias núm. 47 Viernes 7 de marzo de 202510601
-https://sede.gobiernodecanarias.org/boc
 CENTROS DE REALIZACIÓN DE LA PRUEBA DE CLASIFICACIÓN, POR IDIOMAS
 Inglés Alemán Francés Italiano Español Chino Ruso Árabe Portugués
 A Distancia de 

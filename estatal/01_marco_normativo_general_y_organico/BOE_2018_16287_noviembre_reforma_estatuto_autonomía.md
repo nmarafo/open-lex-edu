@@ -28,11 +28,10 @@ fundamentos_derecho:
   - '1'
   - '2.1'
 ---
+
 # Resolución de 7 de noviembre de 2018, del Ayuntamiento de Zaragoza, referente a la convocatoria para proveer varias plazas.
 
 En el «Boletín Oficial de la Provincia» número 256 de Zaragoza de 7 de noviembre de 2018 se han publicado íntegramente las bases que han de regir el proceso selectivo para la provisión de plazas del Cuerpo de la Policía Local (Cuatro plazas Inspector Grupo/Subgrupo A2, seis plazas Subinspector Grupo/Subgrupo A2, diecisiete plazas Oficial Grupo/Subgrupo C1, mediante acceso por el turno de promoción interna.
-
-El plazo de presentación de solicitudes será de veinte días naturales a contar desde el siguiente al de la publicación de este anuncio en el «Boletín Oficial del Estado».
 
 Los sucesivos anuncios referentes a esta convocatoria, cuando procedan de conformidad con las bases, se harán públicos en la forma prevista en las bases.
 

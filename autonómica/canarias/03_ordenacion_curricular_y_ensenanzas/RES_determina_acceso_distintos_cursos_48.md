@@ -32,10 +32,7 @@ fuente_pdf_oficial: https://sede.gobiernodecanarias.org/boc/boc-a-2019-069-1699.
 
 # Resolución de 26 de marzo de 2019, por la que se determina el acceso a los distintos cursos de enseñanzas de idiomas de régimen especial en aplicación de lo establecido en la Orden de 21 de septiembre de 2016, de esta Consejería, que regula el reconocimiento de la acreditación de la competencia lingüística conforme al Marco Común Europeo de Referencia para las Lenguas en la Comunidad Autónoma de Canarias (BOC n.º 69, de 9 de abril).
 
-Boletín Oficial de Canarias núm. 69
-https://sede.gobcan.es/boc
 Martes 9 de abril de 2019
-12316
 III. Otras Resoluciones
 Consejería de Educación y Universidades
 1699 Dirección General de Formación Profesional y Educación de Adultos.- Resolución 
@@ -72,13 +69,8 @@ básico de los niveles Intermedio B1, Intermedio B2, Avanzado C1, y Avanzado C2,
 Enseñanzas de idiomas de régimen especial reguladas por la Ley Orgánica 2/2006, de 3 de 
 mayo, de Educación, y se establecen las equivalencias entre las Enseñanzas de idiomas de 
 Página 
-boc-a-2019-069-1699
 
-
-Boletín Oficial de Canarias núm. 69
-https://sede.gobcan.es/boc
 Martes 9 de abril de 2019
-12317
 régimen especial reguladas en diversos planes de estudios y las de este Real Decreto (BOE 
 nº 311, de 23.12.17) viene a desarrollar las modificaciones en materia de enseñanzas de 
 idiomas de régimen especial introducidas por la Ley Orgánica 8/2013, de 9 de diciembre, 
@@ -121,13 +113,8 @@ titulaciones a efectos de acceso a los distintos niveles de enseñanzas de idiom
 especial.
 En atención a lo anteriormente indicado, de conformidad con lo dispuesto en el artículo 
 19 del Decreto 212/1991, de 11 de septiembre, de organización de los departamentos de 
-boc-a-2019-069-1699
 
-
-Boletín Oficial de Canarias núm. 69
-https://sede.gobcan.es/boc
 Martes 9 de abril de 2019
-12318
 la Administración de la Comunidad Autónoma de Canarias (BOC nº 122, de 16.9.91), y 
 artículo 11 del Decreto 135/2016, de 10 de octubre, por el que se aprueba el Reglamento 
 Orgánico de la Consejería de Educación y Universidades (BOC nº 203, de 19.10.16); visto 
@@ -157,13 +144,8 @@ octubre, del Procedimiento Administrativo Común de las Administraciones Públic
 nº 236, de 2.10.15).
 Santa Cruz de Tenerife, a 26 de marzo de 2019.- El Director General de Formación 
 Profesional y Educación de Adultos, Manuel Jorge Pérez.
-boc-a-2019-069-1699
 
-
-Boletín Oficial de Canarias núm. 69
-https://sede.gobcan.es/boc
 Martes 9 de abril de 2019
-12319
 ANEXO
 Acceso a los distintos cursos de enseñanzas de idiomas de régimen especial con titulaciones y certificaciones expedidas por instituciones de España y
 otros países cuya validez ha sido reconocida1.
@@ -220,13 +202,8 @@ En la dirección https://sede.gobcan.es/sede/verifica_doc puede ser comprobada l
 autenticidad de esta copia, mediante el número de documento electrónico siguiente:
 0Oy_fawNTDkpLdwnkBN0-miJM0hx3q6fr
 El presente documento ha sido descargado el 04/04/2019 - 11:37:41
-boc-a-2019-069-1699
 
-
-Boletín Oficial de Canarias núm. 69
-https://sede.gobcan.es/boc
 Martes 9 de abril de 2019
-12320
 ALEMÁN
 INSTITUCIÓN / ORGANISMO QUE EXPIDE LA
 TITULACIÓN O CERTIFICACIÓN
@@ -292,13 +269,8 @@ En la dirección https://sede.gobcan.es/sede/verifica_doc puede ser comprobada l
 autenticidad de esta copia, mediante el número de documento electrónico siguiente:
 0Oy_fawNTDkpLdwnkBN0-miJM0hx3q6fr
 El presente documento ha sido descargado el 04/04/2019 - 11:37:41
-boc-a-2019-069-1699
 
-
-Boletín Oficial de Canarias núm. 69
-https://sede.gobcan.es/boc
 Martes 9 de abril de 2019
-12321
 CHINO
 INSTITUCIÓN / ORGANISMO QUE EXPIDE LA
 TITULACIÓN O CERTIFICACIÓN
@@ -374,13 +346,8 @@ En la dirección https://sede.gobcan.es/sede/verifica_doc puede ser comprobada l
 autenticidad de esta copia, mediante el número de documento electrónico siguiente:
 0Oy_fawNTDkpLdwnkBN0-miJM0hx3q6fr
 El presente documento ha sido descargado el 04/04/2019 - 11:37:41
-boc-a-2019-069-1699
 
-
-Boletín Oficial de Canarias núm. 69
-https://sede.gobcan.es/boc
 Martes 9 de abril de 2019
-12322
 INGLÉS
 INSTITUCIÓN / ORGANISMO QUE EXPIDE LA
 TITULACIÓN O CERTIFICACIÓN
@@ -477,13 +444,8 @@ En la dirección https://sede.gobcan.es/sede/verifica_doc puede ser comprobada l
 autenticidad de esta copia, mediante el número de documento electrónico siguiente:
 0Oy_fawNTDkpLdwnkBN0-miJM0hx3q6fr
 El presente documento ha sido descargado el 04/04/2019 - 11:37:41
-boc-a-2019-069-1699
 
-
-Boletín Oficial de Canarias núm. 69
-https://sede.gobcan.es/boc
 Martes 9 de abril de 2019
-12323
 PORTUGUÉS
 INSTITUCIÓN / ORGANISMO QUE EXPIDE LA
 TITULACIÓN O CERTIFICACIÓN
@@ -590,5 +552,3 @@ En la dirección https://sede.gobcan.es/sede/verifica_doc puede ser comprobada l
 autenticidad de esta copia, mediante el número de documento electrónico siguiente:
 0Oy_fawNTDkpLdwnkBN0-miJM0hx3q6fr
 El presente documento ha sido descargado el 04/04/2019 - 11:37:41
-boc-a-2019-069-1699
-

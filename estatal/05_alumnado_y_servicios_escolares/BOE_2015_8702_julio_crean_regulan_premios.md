@@ -57,11 +57,9 @@ CAPÍTULO I
 
 Disposiciones generales
 
-
 #### Artículo 1. Objeto.
 
 Esta orden tiene por objeto la regulación de los Premios Nacionales al rendimiento académico de los alumnos y alumnas en las modalidades de Educación Secundaria Obligatoria y de Enseñanzas Artísticas Profesionales en los ámbitos de Música, de Danza y de Artes Plásticas y Diseño, como reconocimiento del especial aprovechamiento del alumnado que haya cursado dichas enseñanzas conforme a lo dispuesto en el marco de la Ley Orgánica 2/2006, de 3 de mayo, de Educación.
-
 
 #### Artículo 2. Convocatorias.
 
@@ -83,7 +81,6 @@ El plazo de presentación de solicitudes se fijará en cada convocatoria. En tod
 
 Los Premios Nacionales tendrán una dotación económica, cuya cuantía individualizada se fijará en la correspondiente convocatoria anual en función del crédito previamente asignado al efecto en el presupuesto de gastos del departamento para el año correspondiente y en correlación con el resto de premios convocados por el Ministerio de Educación, Cultura y Deporte.
 
-
 #### Artículo 3. Comunicación del alumnado seleccionado para participar en los Premios Nacionales.
 
 1. Las Administraciones educativas enviarán a la Dirección General de Evaluación y Cooperación Territorial del Ministerio de Educación, Cultura y Deporte, antes del 15 de octubre de cada año, la relación del alumnado que haya obtenido Premio Extraordinario de Educación Secundaria Obligatoria y haya sido seleccionado por su Administración educativa para participar en los Premios Nacionales, indicando la Primera Lengua Extranjera y en su caso la opción de Matemáticas cursadas.
@@ -95,7 +92,6 @@ Los Premios Nacionales tendrán una dotación económica, cuya cuantía individu
 a) para la modalidad de Educación Secundaria Obligatoria: uno por cada 1750, o fracción superior a 500, matriculados en cuarto curso en el año académico al que se refiere la convocatoria,
 
 b) para la modalidad de Enseñanzas Artísticas Profesionales: uno por cada especialidad o familia profesional.
-
 
 #### Artículo 4. Procedimiento.
 
@@ -117,7 +113,6 @@ Dichos jurados asumirán las funciones atribuidas al órgano colegiado al que se
 
 7. El órgano instructor elevará propuesta de resolución al órgano resolutor, formulada a la vista del informe emitido por el jurado de selección; la propuesta de resolución podrá proponer la declaración «desierto».
 
-
 #### Artículo 5. Anotación del premio en el expediente académico y en el historial.
 
 La obtención del Premio Nacional de Educación Secundaria Obligatoria o de Enseñanzas Artísticas Profesionales será anotada, mediante diligencia realizada por el Secretario del centro docente, en el expediente académico y en el historial académico del alumno o alumna.
@@ -125,7 +120,6 @@ La obtención del Premio Nacional de Educación Secundaria Obligatoria o de Ense
 CAPÍTULO II
 
 Premios Nacionales al rendimiento académico del alumnado de Educación Secundaria Obligatoria
-
 
 #### Artículo 6. Requisitos de los candidatos.
 
@@ -141,7 +135,6 @@ d) Haber obtenido una calificación final de «sobresaliente» en el último cur
 
 e) Haber sido seleccionado por su Administración educativa para participar en los Premios Nacionales.
 
-
 #### Artículo 7. Pruebas.
 
 1. La Dirección General de Evaluación y Cooperación Territorial elaborará y remitirá a las Comunidades Autónomas, Direcciones Provinciales del Ministerio de Educación, Cultura y Deporte, Consejerías de Educación en el exterior, y CIDEAD, tanto las instrucciones necesarias para el desarrollo de las pruebas, como el contenido de las mismas.
@@ -156,7 +149,6 @@ b) El segundo ejercicio versará sobre aspectos que permitan verificar el grado 
 
 c) El tercer ejercicio versará sobre aspectos que permitan verificar el grado de adquisición de la competencia lingüística en relación con la materia Primera Lengua Extranjera, y consistirá en la realización de tareas de comprensión y expresión escrita sobre un texto de carácter cultural, literario o divulgativo.
 
-
 #### Artículo 8. Criterios de valoración de las pruebas.
 
 La valoración de las pruebas atenderá, entre otros criterios específicos para cada uno de los ejercicios que las componen, a los siguientes: la corrección de las respuestas, la claridad y calidad de la exposición, la estructuración del ejercicio, la propiedad del vocabulario, la puntuación y la ortografía.
@@ -164,7 +156,6 @@ La valoración de las pruebas atenderá, entre otros criterios específicos para
 CAPÍTULO III
 
 Premios nacionales de Enseñanzas Artísticas Profesionales en los ámbitos de Música, de Danza y de Artes Plásticas y Diseño
-
 
 #### Artículo 9. Requisitos de los candidatos.
 
@@ -194,16 +185,13 @@ c) Ámbito C: Artes Plásticas y Diseño:
 
 3.º Haber sido seleccionado por su Administración educativa para participar en los Premios Nacionales.
 
-
 #### Artículo 10. Criterios de valoración.
 
 El jurado designado al efecto llevará a cabo la valoración de los expedientes presentados atendiendo, entre otros criterios específicos establecidos para cada convocatoria, a los siguientes: nivel técnico, calidad artística y calidad de ejecución.
 
-
 #### Disposición adicional única. Régimen jurídico.
 
 Para todos aquellos extremos no previstos en la presente orden se aplicará la Ley 30/1992, de 26 de noviembre, de Régimen Jurídico de las Administraciones Públicas y del Procedimiento Administrativo Común, y cualquier otra disposición normativa que por su naturaleza pudiera resultar de aplicación.
-
 
 #### Disposición transitoria única. Periodo transitorio.
 
@@ -213,19 +201,14 @@ Hasta el curso escolar 2016-2017, en el que, de acuerdo con el apartado 2 de la 
 
 Del mismo modo, hasta dicha fecha, el segundo ejercicio de las pruebas a las que se refiere el artículo 7 consistirá en la respuesta a cuestiones y/o resolución de ejercicios prácticos dentro de la materia de Matemáticas cursada por el alumno o alumna.
 
-
 #### Disposición final primera. Título competencial.
 
 La presente Orden se dicta al amparo de lo establecido en el artículo 149.1.30.º de la Constitución que atribuye al Estado la competencia para el establecimiento de las normas básicas para el desarrollo del artículo 27 de la Constitución, a fin de garantizar el cumplimiento de las obligaciones de los poderes públicos en esta materia.
-
 
 #### Disposición final segunda. Desarrollo.
 
 Se faculta a la persona titular de la Secretaría de Estado de Educación, Formación Profesional y Universidades para dictar cuantas disposiciones requiera la aplicación de lo dispuesto en esta orden.
 
-
 #### Disposición final tercera. Entrada en vigor.
-
-La presente Orden entrará en vigor a partir del día siguiente al de su publicación en el «Boletín Oficial del Estado».
 
 Madrid, 29 de julio de 2015.–El Ministro de Educación, Cultura y Deporte, Íñigo Méndez de Vigo y Montojo.

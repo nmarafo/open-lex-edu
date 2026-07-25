@@ -30,6 +30,7 @@ fundamentos_derecho:
   articulos:
   - '1'
 ---
+
 # Real Decreto 1635/1995, de 6 de octubre, por el que se adscribe el profesorado de los Cuerpos de Profesores de Enseñanza Secundaria y Profesores Técnicos de Formación Profesional a las especialidades propias de la formación profesional específica.
 
 La Ley Orgánica 1/1990, de 3 de octubre, de Ordenación General del Sistema Educativo, en su disposición adicional décima, crea los Cuerpos de Profesores de Enseñanza Secundaria y Profesores Técnicos de Formación Profesional y determina que el primero de estos Cuerpos desempeñará sus funciones en la educación secundaria obligatoria, bachillerato y formación profesional y el segundo lo hará en la formación profesional específica y, en las condiciones que se establezcan, en la educación secundaria obligatoria y en el bachillerato.
@@ -46,14 +47,11 @@ En la elaboración de esta norma se ha cumplido lo previsto en el artículo 32 d
 
 En su virtud, a propuesta del Ministro de Educación y Ciencia, previo informe del Consejo Escolar del Estado, de acuerdo con el Consejo de Estado, y previa deliberación del Consejo de Ministros en su reunión de 6 de octubre de 1995,
 
-
 **DISPONGO:**
-
 
 #### Artículo 1.
 
 Las familias profesionales en que se organiza la formación profesional específica y los ciclos formativos en ellas incluidos son las que se relacionan en el anexo I.
-
 
 #### Artículo 2.
 
@@ -65,11 +63,9 @@ Asimismo, se atribuye competencia docente a los profesores de estas especialidad
 
 3. Los funcionarios del Cuerpo de Profesores de Enseñanza Secundaria, de acuerdo con la especialidad de la que sean titulares, quedan adscritos a las especialidades que se indican según la correspondencia establecida en el anexo II d) entre antiguas y nuevas especialidades de formación profesional específica.
 
-
 #### Artículo 3.
 
 Los funcionarios del Cuerpo de Profesores de Enseñanza Secundaria de las especialidades creadas por el Real Decreto 1701/1991, de 29 de noviembre, por el que se establecen especialidades del Cuerpo de Profesores de Enseñanza Secundaria, tienen competencia docente para impartir los módulos profesionales de los ciclos formativos de grado medio y grado superior que se indican en el anexo III, siempre que reúnan las condiciones que en el mismo se detallan y sin perjuicio de la prioridad y obligación que para impartir estos módulos tienen los profesores de las especialidades relacionadas en el anexo II b) anterior.
-
 
 #### Artículo 4.
 
@@ -79,26 +75,21 @@ Los funcionarios del Cuerpo de Profesores de Enseñanza Secundaria de las especi
 
 3. Los funcionarios del Cuerpo de Profesores Técnicos de Formación Profesional, de acuerdo con la especialidad de la que sean titulares, quedan adscritos a las especialidades que se indican según la correspondencia establecida en el anexo IV c) entre antiguas y nuevas especialidades de formación profesional específica.
 
-
 #### Artículo 5.
 
 Los titulares de las especialidades de formación profesional específica a que se refieren los artículos 2.1 y 4.1 de este Real Decreto para las que no se establece ninguna correspondencia con las antiguas especialidades serán seleccionados a través de los correspondientes procedimientos selectivos que se convoquen al amparo de los Reales Decretos 575/1991, de 22 de abril, por el que se regula la movilidad entre los Cuerpos Docentes, y 850/1993, de 4 de junio, por el que se regula el ingreso y la adquisición de especialidades de los Cuerpos Docentes.
-
 
 #### Disposición adicional primera.
 
 Los anexos I, II b), III y IV b) a los que hacen referencia los artículos 1, 2, 3 y 4 de la presente norma se completarán por los sucesivos Reales Decretos que establezcan los títulos de formación profesional específica aprobados con posterioridad a la publicación de este Real Decreto.
 
-
 #### Disposición adicional segunda.
 
 Por el Ministerio de Educación y Ciencia, previa consulta con las Administraciones educativas, se determinarán las titulaciones académicas que deberá acreditar el profesorado de los centros privados autorizados para impartir los módulos profesionales de los ciclos formativos de grado medio y grado superior.
 
-
 #### Disposición adicional tercera.
 
 Los profesores de las especialidades «Educadores» del Cuerpo de Profesores de Enseñanza Secundaria y «Actividades» del Cuerpo de Profesores Técnicos de Formación Profesional, así como los de aquellas otras especialidades de estos Cuerpos para las que no se haya establecido ninguna correspondencia, continuarán desempeñando las mismas funciones que tuvieran asignadas a la entrada en vigor del presente Real Decreto, sin perjuicio de que por las Administraciones educativas, oídos los interesados, pueda adscribírseles a otros puestos o funciones teniendo en cuenta la formación específica de cada uno de ellos y su adecuación a las necesidades docentes.
-
 
 #### Disposición adicional cuarta.
 
@@ -114,18 +105,15 @@ Cuando concurran dos o más profesores en los que se dé la circunstancia señal
 
 3. En las condiciones que determinen las Administraciones educativas los profesores desplazados de sus centros podrán acogerse en los procedimientos para la provisión de puestos docentes a lo establecido por el Real Decreto 1774/1994, de 5 de agosto, para los titulares de los puestos suprimidos.»
 
-
 #### Disposición adicional quinta.
 
 El apartado 2 de la disposición adicional primera del Real Decreto 1701/1991, de 29 de noviembre, queda redactado de la manera siguiente:
 
 «2. Las Administraciones educativas determinarán, en sus ámbitos respectivos, las especialidades del Cuerpo de Profesores Técnicos de Formación Profesional cuyos titulares podrán impartir el área de Tecnología y las materias optativas referidas a la iniciación profesional de la educación secundaria obligatoria en los centros en los que estén destinados. Asimismo, podrán ser adscritos, en la forma que por las mismas se determine, a las plazas del Departamento de Orientación o, en su caso, a las plazas con funciones específicas de orientación y/o atención a la diversidad que puedan establecerse en dichos centros.»
 
-
 #### Disposición adicional sexta.
 
 Los profesores de la especialidad de Dibujo pertenecientes al Cuerpo de Profesores de Enseñanza Secundaria tendrán competencia docente para impartir las materias de «Fundamentos de Diseño» e «Imagen» del bachillerato. Asimismo, aquellos que posean la licenciatura en Bellas Artes tendrán, además, atribución docente para impartir la materia de «Volumen I» del bachillerato.
-
 
 #### Disposición adicional séptima.
 
@@ -135,66 +123,53 @@ La disposición adicional segunda del Real Decreto 1701/1991, de 29 de noviembre
 
 Las Administraciones educativas determinarán, en sus ámbitos respectivos, qué área, materias y módulos de la educación secundaria obligatoria, el bachillerato y la formación profesional específica podrán impartir los profesores pertenecientes a los Cuerpos y Escalas Docentes declarados a extinguir y no integrados en los establecidos en la Ley Orgánica de Ordenación General del Sistema Educativo. En dicha determinación se tendrán en cuenta las áreas, materias o módulos que actualmente están impartiendo.»
 
-
 #### Disposición adicional octava.
 
 Se crea la especialidad de «Economía» que se incluye en los anexos I y V del Real Decreto 1701/1991, de 29 de noviembre, por el que se establecen especialidades del Cuerpo de Profesores de Enseñanza Secundaria. Los titulares de esta especialidad tendrán competencia docente para impartir las materias «Economía» y «Economía y Organización de Empresas» del bachillerato. Además tendrán atribución docente para impartir los módulos profesionales que se especifican en el anexo III, en las condiciones establecidas en el artículo 3 del presente Real Decreto.
-
 
 #### Disposición adicional novena.
 
 De acuerdo con lo establecido en el apartado 2 del artículo 1 del Real Decreto 1701/1991, de 29 de noviembre, en las Comunidades Autónomas que tengan lengua propia cooficial con el castellano, el Cuerpo de Profesores de Enseñanza Secundaria tendrá, asimismo, la especialidad correspondiente a la lengua respectiva. En consecuencia, y de conformidad con lo dispuesto en el artículo 2.1 de la Ley 16/1990, de 13 de julio, sobre régimen especial del Valle de Arán («Diario Oficial de la Generalidad de Cataluña» de 3 de agosto), en la Comunidad Autónoma de Cataluña se establece la especialidad «Lengua Aranesa» entre las del Cuerpo de Profesores de Enseñanza Secundaria.
 
-
 #### Disposición adicional décima.
 
 Las Administraciones educativas podrán convocar puestos específicos del Cuerpo de Profesores de Enseñanza Secundaria a los que pueden acceder indistintamente quienes posean las especialidades de Latín o Griego y con la atribución docente de ambas especialidades.
-
 
 #### Disposición adicional undécima.
 
 Dentro del ámbito territorial que por las Administraciones educativas se determine, en los casos en los que se produzca un cambio de enseñanzas desde un centro a otro, los profesores de las especialidades afectadas quedarán adscritos al nuevo centro, manteniendo a todos los efectos la antigüedad en el centro que pudiera corresponderles por el periodo que hubieran permanecido con destino definitivo en el centro desde el que se hubiera producido la adscripción.
 
-
 #### Disposición adicional duodécima.
 
 El Ministerio de Educación y Ciencia y los órganos correspondientes de las Comunidades Autónomas podrán establecer criterios y procedimientos para la redistribución del profesorado por la implantación del segundo ciclo de la educación secundaria obligatoria, del bachillerato y de la formación profesional, en la forma que determine cada Administración educativa.
-
 
 #### Disposición transitoria primera.
 
 Mientras subsista la antigua ordenación académica de la formación profesional, según el calendario establecido, el profesorado de las especialidades de la formación profesional específica a que se refiere este Real Decreto seguirá teniendo competencia docente para impartir las materias y áreas atribuidas a sus antiguas especialidades en la formación profesional de primero y segundo grados y en los módulos profesionales experimentales.
 
-
 #### Disposición transitoria segunda.
 
 En las condiciones y con los requisitos que cada Administración educativa determine y hasta que finalice el calendario del proceso de implantación del sistema educativo establecido por la Ley Orgánica 1/1990, de 3 de octubre, los funcionarios de los Cuerpos de Profesores de Enseñanza Secundaria y Profesores Técnicos de Formación Profesional que estén en posesión del título de Ingeniero, Arquitecto, Doctor o Licenciado en Ciencias Físicas, o en Ciencias Químicas, o en Ciencias, Ingeniero Técnico, Arquitecto Técnico, Licenciado de la Marina Civil o Diplomado de la Marina Civil, podrán optar por una sola vez a plazas de la especialidad de Tecnología dentro del ámbito de gestión de la misma Administración educativa, a través de los procedimientos de provisión de puestos que se convoquen. Dichos profesores tendrán preferencia, sin perjuicio de lo dispuesto en la disposición adicional cuarta del presente Real Decreto, para ser adscritos a esas plazas en el caso de tener ya destino definitivo en el centro al que corresponda la vacante.
-
 
 #### Disposición transitoria tercera.
 
 En las condiciones y con los requisitos que cada Administración educativa determine y hasta que finalice el calendario del proceso de implantación del sistema educativo establecido por la Ley Orgánica 1/1990, de 3 de octubre, los funcionarios del Cuerpo de Profesores de Enseñanza Secundaria que estén en posesión del título de Doctor o Licenciado en Psicología, Filosofía y Ciencias de la Educación (especialidades: Psicología o Ciencias de la Educación) o Filosofía y Letras (especialidad: Pedagogía o Psicología) o que hayan sido diplomados en las Escuelas Universitarias de Psicología hasta 1974, podrán optar por una sola vez a plazas de la especialidad de Psicología y Pedagogía dentro del ámbito de gestión de la misma Administración educativa, a través de los procedimientos de provisión de puestos que se convoquen. Dichos profesores tendrán preferencia, sin perjuicio de lo dispuesto en la disposición adicional cuarta del presente Real Decreto, para ser adscritos a esas plazas en el caso de tener ya destino definitivo en el centro al que corresponda la vacante.
 
-
 #### Disposición transitoria cuarta.
 
 Igualmente, hasta que finalice el calendario del proceso de implantación del sistema educativo establecido por la Ley Orgánica 1/1990, de 3 de abril, a los funcionarios del Cuerpo de Profesores de Enseñanza Secundaria y del Cuerpo de Profesores Técnicos de Formación Profesional con destino definitivo podrá reconocérseles preferencia en los términos que cada Administración educativa establezca, sin perjuicio de lo dispuesto en la disposición adicional quinta del presente Real Decreto, para ser adscritos a las plazas a las que hace referencia la citada disposición adicional quinta.
-
 
 #### Disposición transitoria quinta.
 
 Sin perjuicio de lo establecido en el artículo 5 y en la disposición adicional tercera de este Real Decreto, hasta la finalización del calendario de implantación del sistema educativo establecido en la Ley Orgánica de Ordenación General del Sistema Educativo, los funcionarios de los Cuerpos de Profesores de Enseñanza Secundaria y Profesores Técnicos de Formación Profesional que estén en posesión de las titulaciones relacionadas en el anexo V podrán optar, por una sola vez y con ocasión de vacante, a las plazas de esas especialidades en su propio centro o en otro distinto dentro del ámbito de gestión de la Administración educativa donde tengan destino, a través de los procedimientos de provisión de puestos que se convoquen. Dichos profesores tendrán preferencia, sin perjuicio de lo dispuesto en la disposición adicional tercera del presente Real Decreto, para ser adscritos a esas plazas en el caso de tener ya destino definitivo en el centro al que corresponda la vacante.
 
-
 #### Disposición transitoria sexta.
 
 Las Administraciones educativas competentes podrán determinar, en sus ámbitos respectivos, las condiciones para que funcionarios pertenecientes a otras especialidades de los Cuerpos de Profesores de Enseñanza Secundaria y de Profesores Técnicos de Formación Profesional puedan concursar a las plazas correspondientes a la especialidad de Formación y Orientación Laboral, existentes en el centro donde estén destinados, durante la etapa transitoria de implantación del sistema educativo establecido por la Ley Orgánica 1/1990, de 3 de octubre.
 
-
 #### Disposición derogatoria única.
 
 Quedan derogadas cuantas disposiciones de igual o inferior rango se opongan a lo dispuesto en el presente Real Decreto.
-
 
 #### Disposición final primera.
 
@@ -202,15 +177,11 @@ Quedan derogadas cuantas disposiciones de igual o inferior rango se opongan a lo
 
 2. El Ministro de Educación y Ciencia y las autoridades correspondientes de las Comunidades Autónomas podrán dictar, en el ámbito de sus respectivas competencias, las normas que sean precisas para la aplicación y desarrollo de este Real Decreto.
 
-
 #### Disposición final segunda.
 
 Todas las referencias a las Administraciones educativas contenidas en el presente Real Decreto se entenderán referidas a aquellas que se encuentren en el pleno ejercicio de sus competencias educativas.
 
-
 #### Disposición final tercera.
-
-El presente Real Decreto entrará en vigor el día siguiente al de su publicación en el «Boletín Oficial del Estado».
 
 Dado en Madrid a 6 de octubre de 1995.
 

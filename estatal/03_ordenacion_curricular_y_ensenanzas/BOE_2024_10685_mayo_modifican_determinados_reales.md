@@ -31,8 +31,8 @@ fundamentos_derecho:
   articulos:
   - '22'
 ---
-# Real Decreto 500/2024, de 21 de mayo, por el que se modifican determinados reales decretos por los que se establecen títulos de Formación Profesional de grado superior y se fijan sus enseñanzas mínimas.
 
+# Real Decreto 500/2024, de 21 de mayo, por el que se modifican determinados reales decretos por los que se establecen títulos de Formación Profesional de grado superior y se fijan sus enseñanzas mínimas.
 
 **ÍNDICE**
 
@@ -56,36 +56,25 @@ Artículo noveno. Modificación del Real Decreto 1448/2018, de 14 de diciemb
 
 Artículo décimo. Modalidad destinada al personal militar.
 
-
 #### Disposición adicional primera. Horas del currículo básico.
-
 
 #### Disposición adicional segunda. Créditos ECTS.
 
-
 #### Disposición adicional tercera. Referencias contenidas en la disposición relativa a titulaciones equivalentes y vinculación con capacitaciones profesionales.
-
 
 #### Disposición adicional cuarta. Referencias a los anexos III B) y III D).
 
-
 #### Disposición adicional quinta. Referencias a las modalidades de Bachillerato.
-
 
 #### Disposición adicional sexta. Referencias a las competencias profesionales, personales y sociales.
 
-
 #### Disposición adicional séptima. Referencias al módulo de «Proyecto».
-
 
 #### Disposición transitoria única. Aplicación de los reales decretos por los que se establecen títulos de Formación Profesional de grado superior de acuerdo con el calendario establecido en el Real Decreto 278/2023, de 11 de abril.
 
-
 #### Disposición final primera. Modificación del Real Decreto 1085/2020, de 9 de diciembre.
 
-
 #### Disposición final segunda. Título competencial.
-
 
 #### Disposición final tercera. Entrada en vigor.
 
@@ -289,9 +278,7 @@ En la tramitación de este real decreto se han cumplido los trámites establecid
 
 En su virtud, a propuesta de la Ministra de Educación, Formación Profesional y Deportes, y previa deliberación del Consejo de Ministros en su reunión del día 21 de mayo de 2024,
 
-
 **DISPONGO:**
-
 
 #### Artículo primero. Objeto y ámbito de aplicación.
 
@@ -485,13 +472,11 @@ d) Forman parte de este ámbito los reales decretos que a continuación se rel
 
 5.º Real Decreto 1448/2018, de 14 de diciembre, por el que se establece el título de Técnico Superior en mantenimiento de sistemas electrónicos y aviónicos en aeronaves y se fijan los aspectos básicos del currículo.
 
-
 #### Artículo segundo. Modificación del artículo relativo a la identificación del título.
 
 De acuerdo con lo establecido en el Real Decreto 272/2022, de 12 de abril, por el que se establece el Marco Español de Cualificaciones para el Aprendizaje Permanente, en los reales decretos a que hace referencia el artículo primero.Dos, se añade un nuevo párrafo final al artículo 2, con la siguiente redacción:
 
 «El título de Técnico Superior se corresponde con un nivel 5A del Marco Español de Cualificaciones para el Aprendizaje Permanente.»
-
 
 #### Artículo tercero. Modificaciones relativas a las cualificaciones profesionales y unidades de competencia.
 
@@ -510,7 +495,6 @@ ANEXO V B)
 Correspondencia de los módulos profesionales y unidades de competencia para su acreditación
 
 Dos. En el Real Decreto 1686/2007, de 14 de diciembre, por el que se establece el título de Técnico Superior en Gestión de Alojamientos Turísticos y se fijan sus enseñanzas mínimas, se da una nueva redacción al artículo 6 y se sustituyen los anexos V A) y V B) con la siguiente redacción:
-
 
 #### «Artículo 6. Relación de cualificaciones y unidades de competencia del Catálogo Nacional de Cualificaciones Profesionales incluidas en el título.
 
@@ -583,7 +567,6 @@ Correspondencia de los módulos profesionales y unidades de competencia para su 
 0177. Recursos humanos en el alojamiento.
 
 Tres. En el Real Decreto 219/2008, de 15 de febrero, por el que se establece el título de Técnico Superior en Desarrollo de Proyectos de Instalaciones Térmicas y de Fluidos y se fijan sus enseñanzas mínimas, se da una nueva redacción al artículo 6 y se sustituyen los anexos V A) y V B) con la siguiente redacción:
-
 
 #### «Artículo 6. Relación de cualificaciones y unidades de competencia del Catálogo Nacional de Cualificaciones Profesionales incluidas en el título.
 
@@ -670,7 +653,6 @@ UC1168_3: Planificar y especificar el montaje, pruebas y protocolos de las insta
 UC1281_3: Planificar y especificar el montaje, pruebas y protocolos de redes y sistemas de distribución de fluidos.»
 
 Cuatro. En el Real Decreto 220/2008, de 15 de febrero, por el que se establece el título de Técnico Superior en Mantenimiento de Instalaciones Térmicas y de Fluidos y se fijan sus enseñanzas mínimas, se da una nueva redacción al artículo 6 y se sustituyen los anexos V A) y V B) con la siguiente redacción:
-
 
 #### «Artículo 6. Relación de cualificaciones y unidades de competencia del Catálogo Nacional de Cualificaciones Profesionales incluidas en el título.
 
@@ -796,7 +778,6 @@ UC2752_3: Supervisar la puesta en marcha de instalaciones térmicas.»
 
 Cinco. En el Real Decreto 954/2008, de 6 de junio, por el que se establece el título de Técnico Superior en Patronaje y Moda y se fijan sus enseñanzas mínimas, se da una nueva redacción al artículo 6 y se sustituyen los anexos V A) y V B) con la siguiente redacción:
 
-
 #### «Artículo 6. Relación de cualificaciones y unidades de competencia del Catálogo Nacional de Cualificaciones Profesionales incluidas en el título.
 
 Cualificaciones profesionales:
@@ -883,7 +864,6 @@ UC2359_3: Realizar el proceso de patronaje por medios informáticos.
 
 Seis. En el Real Decreto 1254/2009, de 24 de julio, por el que se establece el título de Técnico Superior en Agencias de Viajes y Gestión de Eventos y se fijan sus enseñanzas mínimas, se da una nueva redacción al artículo 6 y se sustituyen los anexos V A) y V B) con la siguiente redacción:
 
-
 #### «Artículo 6. Relación de cualificaciones y unidades de competencia del Catálogo Nacional de Cualificaciones Profesionales incluidas en el título.
 
 Cualificaciones profesionales:
@@ -944,7 +924,6 @@ UC0268_3: Gestionar unidades de información y distribución turísticas.»
 
 Siete. En el Real Decreto 1255/2009, de 24 de julio, por el que se establece el título de Técnico Superior en Guía, Información y Asistencias Turísticas y se fijan sus enseñanzas mínimas, se da una nueva redacción al artículo 6 y se sustituyen los anexos V A) y V B) con la siguiente redacción:
 
-
 #### «Artículo 6. Relación de cualificaciones y unidades de competencia del Catálogo Nacional de Cualificaciones Profesionales incluidas en el título.
 
 Cualificaciones profesionales:
@@ -1004,7 +983,6 @@ UC2579_3: Prestar servicios de guía, acompañamiento y asistencia en actividade
 UC2580_3: Prestar servicios de guía, acompañamiento y asistencia en actividades vinculadas a la divulgación del patrimonio y Bienes de Interés Cultural en parques, jardines y entornos naturales urbanos a turistas.
 
 Ocho. En el Real Decreto 687/2010, de 20 de mayo, por el que se establece el título de Técnico Superior en Dirección de Cocina y se fijan sus enseñanzas mínimas, se da una nueva redacción al artículo 6 y se sustituyen los anexos V A) y V B) con la siguiente redacción:
-
 
 #### «Artículo 6. Relación de cualificaciones y unidades de competencia del Catálogo Nacional de Cualificaciones Profesionales incluidas en el título.
 
@@ -1085,7 +1063,6 @@ UC1104_3: Gestionar y dirigir departamentos de servicio de restauración.
 UC2280_3: Diseñar ofertas gastronómicas en términos de menús, cartas o análogos.
 
 Nueve. En el Real Decreto 688/2010, de 20 de mayo, por el que se establece el título de Técnico Superior en Dirección de Servicios de Restauración y se fijan sus enseñanzas mínimas, se da una nueva redacción al artículo 6 y se sustituyen los anexos V A) y V B) con la siguiente redacción:
-
 
 #### «Artículo 6. Relación de cualificaciones y unidades de competencia del Catálogo Nacional de Cualificaciones Profesionales incluidas en el título.
 
@@ -1213,7 +1190,6 @@ UC2280_3: Diseñar ofertas gastronómicas en términos de menús, cartas o anál
 
 Diez. En el Real Decreto 258/2011, de 28 de febrero, por el que se establece el título de Técnico Superior en Centrales Eléctricas y se fijan sus enseñanzas mínimas, se da una nueva redacción al artículo 6 y se sustituyen los anexos IV A) y IV B) con la siguiente redacción:
 
-
 #### «Artículo 6. Relación de cualificaciones y unidades de competencia del Catálogo Nacional de Cualificaciones Profesionales incluidas en el título.
 
 a) Gestión de la operación en centrales termoeléctricas ENA359_3 (Real Decreto 1698/2007, de 14 de diciembre, por el que se complementa el Catálogo Nacional de Cualificaciones Profesionales, mediante el establecimiento de tres cualificaciones profesionales correspondientes a la familia profesional energía y agua):
@@ -1323,7 +1299,6 @@ UC1529_2: Operar en planta y realizar el mantenimiento de primer nivel de centra
 UC1201_2: Operar en planta y realizar el mantenimiento de primer nivel de centrales termoeléctricas.
 
 Once. En el Real Decreto 385/2011, de 18 de marzo, por el que se establece el título de Técnico Superior en Energías Renovables y se fijan sus enseñanzas mínimas, se da una nueva redacción al artículo 6 y se sustituyen los anexos IV A) y IV B) con la siguiente redacción:
-
 
 #### «Artículo 6. Relación de cualificaciones y unidades de competencia del Catálogo Nacional de Cualificaciones Profesionales incluidas en el título.
 
@@ -1455,7 +1430,6 @@ UC0618_2: Prevenir riesgos profesionales y actuar en casos de emergencia en parq
 
 Doce. En el Real Decreto 881/2011, de 24 de junio, por el que se establece el título de Técnico Superior en Estética Integral y Bienestar y se fijan sus enseñanzas mínimas, se da una nueva redacción al artículo 6 y se sustituyen los anexos IV A) y IV B) con la siguiente redacción:
 
-
 #### «Artículo 6. Relación de cualificaciones y unidades de competencia del Catálogo Nacional de Cualificaciones Profesionales incluidas en el título.
 
 Cualificaciones profesionales:
@@ -1572,7 +1546,6 @@ UC0062_3: Aplicar cosmética termal en los servicios hidrotermales.»
 
 Trece. En el Real Decreto 1572/2011, de 4 de noviembre, por el que se establece el título de Técnico Superior en Transporte y Logística y se fijan sus enseñanzas mínimas, se da una nueva redacción al artículo 6 y se sustituyen los anexos V A) y V B) con la siguiente redacción:
 
-
 #### «Artículo 6. Relación de cualificaciones y unidades de competencia del Catálogo Nacional de Cualificaciones Profesionales incluidas en el título.
 
 Cualificaciones profesionales:
@@ -1675,7 +1648,6 @@ UC1015_2: Gestionar y coordinar las operaciones del almacén.
 
 Catorce. En el Real Decreto 1574/2011, de 4 de noviembre, por el que se establece el Título de Técnico Superior en Comercio Internacional y se fijan sus enseñanzas mínimas, se da una nueva redacción al artículo 6 y se sustituyen los anexos V A) y V B) con la siguiente redacción:
 
-
 #### «Artículo 6. Relación de cualificaciones y unidades de competencia del Catálogo Nacional de Cualificaciones Profesionales incluidas en el título.
 
 Cualificaciones profesionales:
@@ -1733,7 +1705,6 @@ UC1015_2: Gestionar y coordinar las operaciones del almacén.
 0179. Inglés Profesional (GS).
 
 Quince. En el Real Decreto 1577/2011, de 4 de noviembre, por el que se establece el título de Técnico Superior en Estilismo y Dirección de Peluquería y se fijan sus enseñanzas mínimas, se da una nueva redacción al artículo 6 y se sustituyen los anexos IV A) y IV B) con la siguiente redacción:
-
 
 #### «Artículo 6. Relación de cualificaciones y unidades de competencia del Catálogo Nacional de Cualificaciones Profesionales incluidas en el título.
 
@@ -1818,7 +1789,6 @@ UC0795_3: Gestionar las actividades desarrolladas en empresas de Imagen Personal
 UC0352_2: Vender productos y servicios para la Imagen Personal.»
 
 Dieciséis. En el Real Decreto 1580/2011, de 4 de noviembre, por el que se establece el título de Técnico Superior en Diseño Técnico en Textil y Piel y se fijan sus enseñanzas mínimas, se da una nueva redacción al artículo 6 y se sustituyen los anexos V A) y V B) con la siguiente redacción:
-
 
 #### «Artículo 6. Relación de cualificaciones y unidades de competencia del Catálogo Nacional de Cualificaciones Profesionales incluidas en el título.
 
@@ -1952,7 +1922,6 @@ UC0900_3: Realizar el diseño técnico de estampados textiles asegurando su viab
 
 Diecisiete. En el Real Decreto 1582/2011, de 4 de noviembre, por el que se establece el título de Técnico Superior en Asistencia a la Dirección y se fijan sus enseñanzas mínimas, se da una nueva redacción al artículo 6 y se sustituyen los anexos V A) y V B) con la siguiente redacción:
 
-
 #### «Artículo 6. Relación de cualificaciones y unidades de competencia del Catálogo Nacional de Cualificaciones Profesionales incluidas en el título.
 
 Cualificaciones profesionales:
@@ -2037,7 +2006,6 @@ UC0979_2: Realizar las gestiones administrativas de tesorería.
 
 Dieciocho. En el Real Decreto 1679/2011, de 18 de noviembre, por el que se establece el título de Técnico Superior en Vestuario a Medida y de Espectáculos y se fijan sus enseñanzas mínimas, se da una nueva redacción al artículo 6 y se sustituyen los anexos V A) y V B) con la siguiente redacción:
 
-
 #### «Artículo 6. Relación de cualificaciones y unidades de competencia del Catálogo Nacional de Cualificaciones Profesionales incluidas en el título.
 
 Cualificaciones profesionales:
@@ -2115,7 +2083,6 @@ UC1515_3: Crear patrones de prendas para vestuario a medida.
 UC1519_3: Realizar el modelaje, patronaje, y corte de vestuario del espectáculo.»
 
 Diecinueve. En el Real Decreto 1684/2011, de 18 de noviembre, por el que se establece el título de Técnico Superior en Animación Sociocultural y Turística y se fijan sus enseñanzas mínimas, se da una nueva redacción al artículo 6 y se sustituyen los anexos V A) y V B) con la siguiente redacción:
-
 
 #### «Artículo 6. Relación de cualificaciones y unidades de competencia del Catálogo Nacional de Cualificaciones Profesionales incluidas en el título.
 
@@ -2259,7 +2226,6 @@ UC1875_3: Organizar y gestionar acciones de dinamización de la información par
 
 Veinte. En el Real Decreto 1691/2011, de 18 de noviembre, por el que se establece el título de Técnico Superior en Transporte marítimo y pesca de altura y se fijan sus enseñanzas mínimas, se da una nueva redacción al artículo 6 y se sustituyen los anexos V A) y V B) con la siguiente redacción:
 
-
 #### «Artículo 6. Relación de cualificaciones y unidades de competencia del Catálogo Nacional de Cualificaciones Profesionales incluidas en el título.
 
 Cualificaciones profesionales:
@@ -2321,7 +2287,6 @@ UC0748_3: Planificar y dirigir las maniobras del buque y determinar la estabilid
 UC0749_3: Planificar y dirigir la navegación.
 
 Veintiuno. En el Real Decreto 1075/2012, de 13 de julio, por el que se establece el título de Técnico Superior en Organización del mantenimiento de maquinaria de buques y embarcaciones y se fijan sus enseñanzas mínimas, se da una nueva redacción al artículo 6 y se sustituyen los anexos V A) y V B) con la siguiente redacción:
-
 
 #### «Artículo 6. Relación de cualificaciones y unidades de competencia del Catálogo Nacional de Cualificaciones Profesionales incluidas en el título.
 
@@ -2419,7 +2384,6 @@ UC1993_3: Gestionar el mantenimiento de embarcaciones deportivas y de recreo.
 
 Veintidós. En el Real Decreto 832/2014, de 3 de octubre, por el que se establece el título de Técnico Superior en Fabricación de Productos Farmacéuticos, Biotecnológicos y Afines y se fijan sus enseñanzas mínimas, se da una nueva redacción al artículo 6 y se sustituyen los anexos V A) y V B) con la siguiente redacción:
 
-
 #### «Artículo 6. Relación de cualificaciones y unidades de competencia del Catálogo Nacional de Cualificaciones Profesionales incluidas en el título.
 
 Cualificaciones profesionales:
@@ -2511,7 +2475,6 @@ UC0577_3: Supervisar los sistemas de control básico.
 UC0578_3: Supervisar y operar los sistemas de control avanzado y de optimización.
 
 Veintitrés. En el Real Decreto 636/2015, de 10 de julio, por el que se establece el título de Técnico Superior en Organización y Control de Obras de Construcción y se fijan los aspectos básicos del currículo, se da una nueva redacción al artículo 6 y se sustituyen los anexos V A) y V B) con la siguiente redacción:
-
 
 #### «Artículo 6. Relación de cualificaciones y unidades de competencia del Catálogo Nacional de Cualificaciones Profesionales incluidas en el título.
 
@@ -2639,7 +2602,6 @@ Nota: Las personas matriculadas en este ciclo formativo que tengan superados tod
 
 Veinticuatro. En el Real Decreto 651/2017, de 23 de junio, por el que se establece el título de Técnico Superior en Acondicionamiento Físico y se fijan los aspectos básicos del currículo, se da una nueva redacción al artículo 6 y se sustituyen los anexos V A) y V B) con la siguiente redacción:
 
-
 #### «Artículo 6. Relación de cualificaciones y unidades de competencia del Catálogo Nacional de Cualificaciones Profesionales incluidas en el título.
 
 Cualificaciones profesionales:
@@ -2733,7 +2695,6 @@ UC1663_3: Ejecutar habilidades motrices básicas en el medio acuático.
 UC1664_3: Programar eventos y actividades de acondicionamiento físico en el medio acuático.
 
 Veinticinco. En el Real Decreto 653/2017, de 23 de junio, por el que se establece el título de Técnico Superior en Enseñanza y Animación sociodeportiva y se fijan los aspectos básicos del currículo, se da una nueva redacción al artículo 6 y se sustituyen los anexos V A) y V B) con la siguiente redacción:
-
 
 #### «Artículo 6. Relación de cualificaciones y unidades de competencia del Catálogo Nacional de Cualificaciones Profesionales incluidas en el título.
 
@@ -2843,7 +2804,6 @@ UC1085_3: Dirigir el aprendizaje y el acondicionamiento físico básico en activ
 
 Veintiséis. En el Real Decreto 283/2019, de 22 de abril, por el que se establece el título de Técnico Superior en Química y Salud Ambiental y se fijan los aspectos básicos del currículo, se da una nueva redacción al artículo 6 y se sustituyen los anexos V A) y V B) con la siguiente redacción:
 
-
 #### «Artículo 6. Relación de cualificaciones y unidades de competencia del Catálogo Nacional de Cualificaciones Profesionales incluidas en el título.
 
 Cualificaciones profesionales:
@@ -2929,7 +2889,6 @@ UC1597_3: Gestionar una unidad de salud ambiental.
 UC1972_3: Documentar los aspectos ambientales de la organización.»
 
 Veintisiete. En el Real Decreto 699/2019, de 29 de noviembre, por el que se establece el título de Técnico Superior en Termalismo y Bienestar y se fijan los aspectos básicos del currículo, se da una nueva redacción al artículo 6 y se sustituyen los anexos V A) y V B) con la siguiente redacción:
-
 
 #### «Artículo 6. Relación de cualificaciones y unidades de competencia del Catálogo Nacional de Cualificaciones Profesionales incluidas en el título.
 
@@ -3040,7 +2999,6 @@ UC0272_2: Asistir como primer interviniente en caso de accidente o situación de
 UC1663_3: Ejecutar habilidades motrices básicas en el medio acuático.
 
 UC1664_3: Programar eventos y actividades de acondicionamiento físico en el medio acuático.
-
 
 #### Artículo cuarto. Modificación del artículo relativo a los módulos profesionales.
 
@@ -3188,7 +3146,6 @@ h) Se incluye un nuevo apartado 9, con la siguiente redacción:
 
 «9. Todos los ciclos formativos a que hace referencia el artículo 1.2 incluirán un periodo de formación en empresa u organismo equiparado en los términos regulados en el título IV del Real Decreto 659/2023, de 18 de julio.»
 
-
 #### Artículo quinto. Modificación del artículo relativo al profesorado.
 
 Uno. En los reales decretos a que hace referencia el artículo primero.Dos.a), el artículo primero.Dos.b) y el artículo primero.Dos.c), el artículo 12 queda redactado como sigue:
@@ -3214,7 +3171,6 @@ Dos. En los reales decretos a que hace referencia el artículo primero.Dos.d),
 4. En caso de contar con otros perfiles colaboradores, estos deberán cumplir los requisitos indicados en el capítulo IV del título V del Real Decreto 659/2023, de 18 de julio.
 
 5. Corresponderá a las administraciones competentes determinar la atribución docente del módulo o módulos optativos en consonancia con su diseño curricular.»
-
 
 #### Artículo sexto. Modificación del artículo relativo a convalidaciones y exenciones.
 
@@ -3261,7 +3217,6 @@ b) Para aquellos títulos establecidos con posterioridad al 5 de marzo de 20
 7. La exención del periodo de formación en empresa u organismo equiparado podrá efectuarse en los términos recogidos en el artículo 131 del Real Decreto 659/2023, de 18 de julio.
 
 8. Quedan exceptuados de la posible exención del periodo de formación u organismo equiparado los ciclos formativos de grado superior de la familia profesional de Sanidad establecidos en los siguientes reales decretos: Real Decreto 1685/2007, de 14 de diciembre; Real Decreto 1687/2011, de 18 de noviembre; Real Decreto 905/2013, de 22 de noviembre; Real Decreto 767/2014, de 12 de septiembre; Real Decreto 768/2014, de 12 de septiembre; Real Decreto 769/2014, de 12 de septiembre; Real Decreto 770/2014, de 12 de septiembre; Real Decreto 771/2014, de 12 de septiembre y Real Decreto 772/2014, de 12 de septiembre.»
-
 
 #### Artículo séptimo. Modificación del anexo I.
 
@@ -3334,7 +3289,6 @@ b) Se incluyen los siguientes módulos profesionales:
 4.º 1708. Sostenibilidad aplicada al sistema productivo cuyo código, duración del currículo básico, equivalencia en créditos ECTS y resultados de aprendizaje y criterios de evaluación figuran como anexo VIII del Real Decreto 659/2023, de 18 de julio.
 
 c) Se sustituye la denominación «Proyecto» por la de «Proyecto intermodular».
-
 
 #### Artículo octavo. Modificación de los anexos III A), III B), III C) y III D).
 
@@ -3518,56 +3472,45 @@ Ochenta y ocho. En el Real Decreto 1447/2018, de 14 de diciembre, por el que
 
 Ochenta y nueve. En el Real Decreto 1448/2018, de 14 de diciembre, por el que se establece el título de Técnico Superior en mantenimiento de sistemas electrónicos y aviónicos en aeronaves y se fijan los aspectos básicos del currículo, se incluye como anexo III el que figura como anexo XC en el presente real decreto.
 
-
 #### Artículo noveno. Modificación del Real Decreto 1448/2018, de 14 de diciembre.
 
 En el Real Decreto 1448/2018, de 14 de diciembre, por el que se establece el título de Técnico Superior en mantenimiento de sistemas electrónicos y aviónicos en aeronaves y se fijan los aspectos básicos del currículo, se modifica el anexo IV-b), cuya redacción es la que sigue:
-
 
 #### Artículo décimo. Modalidad destinada al personal militar.
 
 Los centros docentes militares podrán adaptar los currículos correspondientes a las circunstancias singulares del entorno profesional de las Fuerzas Armadas, en los términos establecidos en los artículos 40-42 del Real Decreto 659/2023, de 18 de julio. Las ofertas formativas de formación profesional en esta modalidad podrán adaptar su organización temporal, en función de las necesidades de desempeño profesional o de compatibilidad con otras formaciones, sin perjuicio del cumplimiento de la duración prescriptiva del currículo establecido.
 
-
 #### Disposición adicional primera. Horas del currículo básico.
 
 En cumplimiento de lo dispuesto en el artículo 6.4 de la Ley Orgánica 2/2006, de 3 de mayo, de Educación, las horas del currículo básico de cada uno de los módulos profesionales incluidos en los reales decretos a que hace referencia el artículo primero.Dos del presente real decreto, para las comunidades autónomas con lengua cooficial se minorarán, proporcionalmente, de acuerdo con lo establecido en la tabla que figura como anexo I. En ningún caso, esta reducción afectará a las horas de currículo básico del Proyecto intermodular, Inglés profesional (GS), Sostenibilidad aplicada al sistema productivo, Digitalización aplicada a los sectores productivos (GS), Itinerario personal para la empleabilidad I, Itinerario personal para la empleabilidad II ni al módulo(s) optativo(s).
-
 
 #### Disposición adicional segunda. Créditos ECTS.
 
 En consecuencia de lo dispuesto en la disposición adicional primera, se modifica el número de créditos ECTS de los módulos profesionales incluidos en los anexos I de los reales decretos a que hace referencia el artículo primero.Dos del presente real decreto, de acuerdo con lo establecido en la tabla que figura como anexo XCI.
 
-
 #### Disposición adicional tercera. Referencias contenidas en la disposición relativa a titulaciones equivalentes y vinculación con capacitaciones profesionales.
 
 En todos los reales decretos objeto de la presente norma, las referencias contenidas en la disposición adicional tercera relativa a las titulaciones equivalentes y vinculación con capacitaciones profesionales que se hicieran al módulo profesional de Formación y orientación laboral deberán entenderse hechas al módulo de Itinerario personal para la empleabilidad I.
-
 
 #### Disposición adicional cuarta. Referencias a los anexos III B) y III D).
 
 Queda sin efecto cualquier referencia a titulaciones habilitantes a efectos de docencia que remita a los derogados anexos III B) y III D).
 
-
 #### Disposición adicional quinta. Referencias a las modalidades de Bachillerato.
 
 Queda sin efecto cualquier referencia a las preferencias para el acceso a ciclos formativos de grado superior en relación con las modalidades y materias de Bachillerato cursadas contenida en los reales decretos a que hace referencia el artículo primero.Dos.
-
 
 #### Disposición adicional sexta. Referencias a las competencias profesionales, personales y sociales.
 
 En todos los reales decretos objeto de la presente norma, las referencias contenidas en el articulado a las «competencias profesionales, personales y sociales» deben entenderse hechas a «competencias profesionales y para la empleabilidad».
 
-
 #### Disposición adicional séptima. Referencias al módulo de «Proyecto».
 
 En todos los reales decretos objeto de la presente norma, las referencias contenidas en el articulado al módulo de «Proyecto», con la denominación específica que corresponda, pasa a denominarse «Proyecto intermodular», manteniendo el resto de la denominación y número de código específico que tuviera en cada uno de los reales decretos afectados.
 
-
 #### Disposición transitoria única. Aplicación de los reales decretos por los que se establecen títulos de formación profesional de grado superior de acuerdo con el calendario establecido en el Real Decreto 278/2023, de 11 de abril.
 
 De acuerdo con el calendario establecido en el artículo 11 del Real Decreto 278/2023, de 11 de abril, por el que se establece el calendario de implantación del Sistema de Formación Profesional establecido por la Ley Orgánica 3/2022, de 31 de marzo, de ordenación e integración de la Formación Profesional, en el curso 2024-2025 se completará la implantación del primer curso de todos los ciclos formativos. Durante dicho curso académico, para el segundo curso permanecerá en vigor la ordenación de los ciclos formativos de grado superior previa a la entrada en vigor del presente real decreto.
-
 
 #### Disposición final primera. Modificación del Real Decreto 1085/2020, de 9 de diciembre.
 
@@ -3589,15 +3532,11 @@ Tres. Se sustituye la tabla denominada «Para todos los ciclos formativos con 
 
 Cuatro. Se sustituye la tabla denominada «Para determinados ciclos formativos» del anexo III por la que figura a continuación:
 
-
 #### Disposición final segunda. Título competencial.
 
 Este real decreto se dicta al amparo de las competencias que atribuye al Estado el artículo 149.1.30.ª de la Constitución Española, para la regulación de las condiciones de obtención, expedición y homologación de los títulos académicos y profesionales y normas básicas para el desarrollo del artículo 27 de la Constitución Española, a fin de garantizar el cumplimiento de las obligaciones de los poderes públicos en esta materia.
 
-
 #### Disposición final tercera. Entrada en vigor.
-
-Este real decreto entrará en vigor el día siguiente al de su publicación en el «Boletín Oficial del Estado».
 
 Dado en Madrid, el 21 de mayo de 2024.
 

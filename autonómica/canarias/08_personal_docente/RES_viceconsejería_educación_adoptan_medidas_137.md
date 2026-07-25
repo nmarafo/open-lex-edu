@@ -31,9 +31,6 @@ fuente_pdf_oficial: https://sede.gobiernodecanarias.org/boc/boc-a-2025-094-1775.
 
 # Resolución de 29 de abril de 2025, de la Viceconsejería de Educación, por la que se adoptan las medidas necesarias para la aplicación del Acuerdo de 8 de abril de 2025, que modifica el Acuerdo de mejora del Sistema Público Educativo de Canarias, de 18 de julio de 2022, entre Administración y Sindicatos (BOC nº 94, de 13 de mayo).
 
-https://sede.gobiernodecanarias.org/boc
-boc-a-2025-094-1775
-Boletín Oficial de Canarias núm. 94 Martes 13 de mayo de 202519842
 III. Otras Resoluciones
 Consejería de Educación, Formación Profesional, Actividad Física y Deportes
 1775 Viceconsejería de Educación.- Resolución de 29 de abril de 2025, por la que se 
@@ -78,9 +75,6 @@ fundamental en la promoción de la salud y el bienestar en colaboración con otr
 la actividad física y el deporte, todo ello como motor al desarrollo personal, social, cultural 
 y económico del archipiélago.
 
-https://sede.gobiernodecanarias.org/boc
-boc-a-2025-094-1775
-Boletín Oficial de Canarias núm. 94 Martes 13 de mayo de 202519843
 Igualmente, establece los objetivos estratégicos vinculados a la consecución de objetivos 
 específicos, expuestos en la citada Orden.
 Tercero.- Con fecha 18 de julio de 2022, la Administración Educativa y los Sindicatos 
@@ -120,9 +114,6 @@ el 23 de octubre de 2024, el Comité Departamental de Planificación de la CEFPA
 acuerdo relativo a la segunda modificación de la propuesta del Plan Estratégico Departamental 
 2024-2027, dando paso a la Orden de 31 de octubre de 2024, por la que se modifica la Orden 
 
-https://sede.gobiernodecanarias.org/boc
-boc-a-2025-094-1775
-Boletín Oficial de Canarias núm. 94 Martes 13 de mayo de 202519844
 n.º 1048/2023, departamental de 28 de diciembre de 2023, por la que se aprueba la propuesta 
 del Plan Estratégico Departamental correspondiente a los ejercicios 2024, 2025, 2026 y 2027 
 (PED 2024-2027), estableciendo, entre otros, los siguientes objetivos estratégicos:
@@ -168,9 +159,6 @@ de Canarias, de fecha 18 de julio de 2022, una vez que se han puesto en práctic
 de las decisiones tomadas en dicho instrumento de consenso, refrendado por Resolución de la 
 Dirección General de Personal de 27 de julio de 2022, mencionada en el antecedente quinto.
 
-https://sede.gobiernodecanarias.org/boc
-boc-a-2025-094-1775
-Boletín Oficial de Canarias núm. 94 Martes 13 de mayo de 202519845
 En concreto, el citado Acuerdo de 8 de abril de 2025 realiza las siguientes consideraciones:
 1.ª) Se hace necesario seguir incrementando los recursos personales para reforzar 
 la equidad y la capacidad inclusiva, dando respuesta a las necesidades educativas y 
@@ -217,9 +205,6 @@ correspondientes a la Especialidad Pedagogía Terapéutica y Audición y Lenguaj
 públicos no universitarios (Anexo III de la Resolución de 27 de julio de 2022) en los siguientes 
 términos:
 
-https://sede.gobiernodecanarias.org/boc
-boc-a-2025-094-1775
-Boletín Oficial de Canarias núm. 94 Martes 13 de mayo de 202519846
 Profesorado de Pedagogía Terapéutica.
 La relación del profesional de Pedagogía Terapéutica en centros de Educación Infantil 
 y Primaria y centros de Educación Primaria (CEIP y CEP) será la siguiente:
@@ -303,9 +288,6 @@ los que estén escolarizados 1 o 2 alumnos/as con NEE y ACUS o alumnado con tras
 trastorno grave de la comunicación o del lenguaje.
 2 Para centros de 8 unidades o menos.
 
-https://sede.gobiernodecanarias.org/boc
-boc-a-2025-094-1775
-Boletín Oficial de Canarias núm. 94 Martes 13 de mayo de 202519847
 • Se establece el siguiente plan plurianual de reducción de ratio en Educación Secundaria:
 2024/2025 2025/2026 2026/2027 2027/2028
 1º ESO 253 253 253 253

@@ -54,8 +54,6 @@ La Ley Orgánica 2/2006, de 3 de mayo, de Educación (LOE) establece las bases d
 
 Ciertamente, la LOE dispensa una especial atención al régimen jurídico del concurso de traslados de ámbito estatal. Con carácter general, el apartado 3 de la disposición adicional sexta establece que, periódicamente, las Administraciones educativas convocarán concursos de traslados de ámbito estatal, a efectos de proceder a la provisión de las plazas o puestos vacantes que determinen en los centros docentes de enseñanza dependientes de aquéllas, así como para garantizar la posible concurrencia del personal funcionario de su ámbito de gestión a puestos de otras Administraciones educativas y, cuando proceda, la adjudicación de aquellas que resulten del propio concurso. En estos concursos podrán participar todas las funcionarias y funcionarios públicos docentes, cualquiera que sea la Administración educativa de la que dependan o por la que hayan ingresado, siempre que reúnan los requisitos generales y los específicos que, de acuerdo con las respectivas plantillas o relaciones de puestos de trabajo, establezcan dichas convocatorias. En todo caso, en los concursos de traslados de ámbito estatal se tendrán en cuenta las especialidades docentes (apartado 2 de la disposición adicional séptima).
 
-Las convocatorias de los concursos de traslados de ámbito estatal se harán públicas en el «Boletín Oficial del Estado» y en los Diarios Oficiales de las Comunidades Autónomas convocantes e incluirán un único baremo de méritos. Entre los méritos que se tendrán en cuenta deberán contarse los cursos de formación y perfeccionamiento superados, cualquiera que sea la Administración educativa que los organice, los méritos académicos y profesionales, la antigüedad, la pertenencia a alguno de los cuerpos de catedráticos, y la evaluación voluntaria de la función docente. Además, el artículo 139.2 de la LOE contempla que en los procedimientos de provisión de puestos de trabajo, incluidos los concursos de ámbito estatal, deberá valorarse especialmente el ejercicio de los cargos directivos y, en todo caso, del cargo de director.
-
 Pero, además, la Ley Orgánica de Educación contiene previsiones de carácter básico referidas a la participación del personal funcionario docente en otros procedimientos de provisión de puestos de trabajo. Así, se determina que el personal funcionario de los correspondientes cuerpos de catedráticos de enseñanza secundaria, de escuelas oficiales de idiomas y de artes plásticas y diseño participarán en los concursos de provisión de puestos conjuntamente con el funcionariado de los cuerpos de profesores de los niveles correspondientes, a las mismas vacantes, sin perjuicio de los méritos específicos que les sean de aplicación por su pertenencia a los mencionados cuerpos de catedráticos (apartado 5 de la disposición adicional octava). Asimismo, se establece que la provisión de puestos por personal funcionario docente en los centros superiores de enseñanzas artísticas se realizará por concurso específico, de acuerdo con lo que determinen las Administraciones educativas (apartado 5 de dicha disposición adicional sexta).
 
 En cualquier caso, el inciso final del apartado primero de la disposición adicional sexta habilita expresamente al Gobierno para desarrollar reglamentariamente estas previsiones legales «en aquellos aspectos básicos que sean necesarios para garantizar el marco común básico de la función pública docente».
@@ -70,13 +68,11 @@ En el proceso de elaboración de este Real Decreto han sido consultadas las Admi
 
 En su virtud, a propuesta del Ministro de Educación, con la aprobación previa de la Vicepresidenta Primera del Gobierno y Ministra de la Presidencia, de acuerdo con el Consejo de Estado y previa deliberación del Consejo de Ministros en su reunión del día 29 de octubre de 2010,
 
-
 **DISPONGO:**
 
 CAPÍTULO I
 
 Objeto y ámbito de aplicación
-
 
 #### Artículo 1. Objeto y ámbito de aplicación.
 
@@ -94,7 +90,6 @@ CAPÍTULO II
 
 Procedimientos de provisión de plazas y puestos docentes
 
-
 #### Artículo 2. Concurso.
 
 1. El concurso es el procedimiento normal de provisión de las plazas o puestos vacantes dependientes de las Administraciones educativas, a cubrir por el personal docente.
@@ -102,7 +97,6 @@ Procedimientos de provisión de plazas y puestos docentes
 El personal funcionario docente que obtenga una plaza o puesto por concurso, deberá permanecer en ella un mínimo de dos años desde la toma de posesión de la misma, para poder participar en sucesivos concursos de provisión de plazas o puestos.
 
 2. De conformidad con el apartado 4 de la disposición adicional sexta de la Ley Orgánica 2/2006, de 3 de mayo, de Educación, durante los cursos escolares en los que no se celebren los concursos de ámbito estatal, las Administraciones educativas podrán desarrollar procedimientos de provisión referidos al ámbito territorial cuya gestión les corresponda, destinados a la cobertura de sus plazas o puestos, todo ello sin perjuicio de que en cualquier momento puedan realizar procesos de redistribución o de recolocación del profesorado dependiente de las mismas.
-
 
 #### Artículo 3. Comisiones de servicio.
 
@@ -112,7 +106,6 @@ La fecha de inicio de toma de posesión de estas comisiones se hará coincidir c
 
 2. Las comisiones de servicio que se concedan a las funcionarias y funcionarios a los que se refiere este Real Decreto, no podrá exceder del comienzo del curso escolar siguiente a aquel en el que se concedan.
 
-
 #### Artículo 4. Movilidad por razón de violencia de género.
 
 1. Las funcionarias víctimas de violencia de género que para hacer efectiva su protección o el derecho a la asistencia social integral, se vean obligadas a abandonar la plaza o puesto donde venían prestando sus servicios tendrán derecho al traslado a otra plaza o puesto propio de su cuerpo, de análogas características, sin necesidad de que sea vacante de necesaria cobertura. Aún así, la Administración educativa competente, estará obligada a comunicarles las vacantes ubicadas en la misma localidad o en las localidades que las interesadas expresamente soliciten.
@@ -121,13 +114,11 @@ La fecha de inicio de toma de posesión de estas comisiones se hará coincidir c
 
 3. En las actuaciones y procedimientos relacionados con la violencia de género, se protegerá la intimidad de las víctimas, en especial sus datos personales, los de sus descendientes y los de cualquier persona que esté bajo su guarda o custodia.
 
-
 #### Artículo 5. Reingreso o reincorporación a la actividad docente.
 
 1. El personal funcionario de carrera que haya desempeñado un puesto de trabajo en otros ámbitos de la Administración solicitará el reingreso o la reincorporación a la actividad docente a la Administración educativa en cuyo ámbito de gestión hubiera tenido su último destino docente. Este personal funcionario, en el supuesto de que hubiera perdido la plaza docente que desempeñaba con carácter definitivo o, el último destino docente desempeñado no tuviera carácter definitivo, queda obligado a participar en los concursos que convoquen las Administraciones educativas hasta la obtención de un destino definitivo.
 
 2. En los supuestos en que exista reserva de plaza, el reingreso o la asignación de plaza se efectuará directamente a la misma con carácter definitivo y, de haber sido ésta suprimida, se asignará una plaza con carácter provisional a otra de las correspondientes a su cuerpo y especialidad, de la misma localidad o ámbito territorial, manteniendo en todo caso, los derechos que pudieran corresponderle como titular de la plaza suprimida.
-
 
 #### Artículo 6. Provisión de plazas en centros superiores de enseñanzas artísticas.
 
@@ -139,13 +130,11 @@ CAPÍTULO III
 
 Concurso de traslados de ámbito estatal
 
-
 #### Artículo 7. Concurso de traslados de ámbito estatal.
 
 Con carácter bienal, las Administraciones educativas convocarán concursos de traslados de ámbito estatal, a efectos de proceder a la provisión de las plazas o puestos vacantes que determinen en los centros docentes de enseñanza dependientes de aquéllas, así como para garantizar la posible concurrencia del profesorado de su ámbito de gestión a plazas o puestos de otras Administraciones educativas y, en su caso, la adjudicación de aquéllas que resulten del propio concurso.
 
 Sección 1.ª Normas generales
-
 
 #### Artículo 8. Normas procedimentales.
 
@@ -165,12 +154,7 @@ d) Las especificaciones del baremo único de méritos.
 
 4. Durante la tramitación de estas convocatorias y hasta la resolución definitiva de las mismas, corresponderá a la Comisión de Personal de la Conferencia de Educación, asegurar la debida coordinación en la gestión de los procedimientos convocados por las diferentes Administraciones educativas. A estos efectos, la Comisión podrá evacuar consultas y emitir recomendaciones. Cuando las cuestiones que sometan a su conocimiento afecten a la igualdad en las condiciones de participación o a los criterios de interpretación de los baremos de méritos, las resoluciones que adopte tendrán carácter vinculante.
 
-
 #### Artículo 9. Convocatorias y puestos ofertados.
-
-1. El Ministerio de Educación publicará en el «Boletín Oficial del Estado» las convocatorias para proveer plazas o puestos vacantes por concurso de traslados de ámbito estatal correspondientes a su ámbito de gestión territorial.
-
-Las convocatorias que realicen los órganos correspondientes de las Comunidades Autónomas se publicarán en sus respectivos Boletines o Diarios Oficiales y en el «Boletín Oficial del Estado». En este último caso, la publicación en el «Boletín Oficial del Estado» podrá sustituirse por la inserción en el mismo de un anuncio en el que se indique la Administración educativa convocante, el cuerpo o cuerpos a los que afecta la convocatoria, el Boletín o Diario Oficial en que se hace pública la convocatoria, el plazo de presentación de solicitudes y la fecha de inicio del mismo y el órgano o dependencia al que las solicitudes deben dirigirse.
 
 2. En estas convocatorias deberán incluirse, al menos, los tipos de plazas o puestos, los requisitos indispensables para desempeñarlas, el baremo de méritos y la forma en la que se harán públicas sus resoluciones, no pudiendo establecer una puntuación mínima para la obtención de un destino definitivo.
 
@@ -181,7 +165,6 @@ Asimismo, las convocatorias podrán establecer que las unidades de personal de l
 4. En los concursos se ofertarán los puestos vacantes que determinen las Administraciones educativas, entre los que se incluirán, al menos, los que se produzcan hasta el 31 de diciembre del curso escolar en el que se efectúe la convocatoria, así como aquellos que resulten del propio concurso siempre que, en cualquiera de los casos, la continuidad de su funcionamiento esté prevista en la planificación educativa y en función de los criterios de estabilidad del profesorado en un mismo centro que las Administraciones educativas puedan establecer.
 
 Sección 2.ª Requisitos y condiciones de participación
-
 
 #### Artículo 10. Requisitos generales de participación.
 
@@ -199,7 +182,6 @@ b) Las funcionarias y los funcionarios en prácticas seleccionados en los últim
 
 5. Todos los requisitos de participación, sin perjuicio de lo establecido en el artículo 11 de este Real Decreto, así como los méritos alegados han de reunirse en la fecha de finalización del plazo de presentación de instancias, acreditándose en la forma que se establezca en las respectivas convocatorias.
 
-
 #### Artículo 11. Participación voluntaria.
 
 Podrán participar en los concursos de traslados con carácter voluntario:
@@ -209,7 +191,6 @@ a) El personal funcionario docente de carrera de los cuerpos a los que correspon
 b) El personal funcionario docente de carrera que se encuentre en la situación de excedencia voluntaria prevista en el apartado a) del artículo 89 de la Ley 7/2007, de 12 de abril, del Estatuto Básico del Empleado Público podrá participar siempre que, en la misma fecha a que se refiere el apartado anterior, hayan transcurrido, al menos, dos años desde que pasaron a la citada situación.
 
 c) El personal funcionario docente de carrera que se encuentre en la situación de suspenso, podrá participar, siempre que con anterioridad a la misma fecha a que se refieren los apartados anteriores, haya concluido el tiempo de duración de la sanción disciplinaria de suspensión.
-
 
 #### Artículo 12. Participación obligatoria.
 
@@ -223,25 +204,21 @@ b) El personal funcionario que finalice el periodo de tiempo por el que fue adsc
 
 c) El personal funcionario que tenga derecho preferente a obtener destino en una localidad o ámbito territorial determinado, si desea hacer uso de este derecho hasta que alcance aquél, deberá participar en todas las convocatorias que, a estos efectos, realicen las Administraciones educativas, en la forma establecida en las mismas. De no participar, se le tendrá por decaído del derecho preferente.
 
-
 #### Artículo 13. Participación del personal funcionario en prácticas.
 
 1. Deberán participar en los concursos quienes, habiendo sido declarados seleccionados en los procedimientos selectivos convocados por las distintas Administraciones educativas, hayan sido nombrados funcionarias o funcionarios en prácticas. Este personal, conforme determinen sus respectivas convocatorias de procedimientos selectivos, está obligado a obtener su primer destino definitivo en el ámbito de gestión de la Comunidad Autónoma convocante y por la especialidad y, en su caso, idioma o perfil lingüístico por la que ha sido seleccionado.
 
 2. La adjudicación de destino a estos participantes se hará teniendo en cuenta el orden en que figuren en su nombramiento como personal funcionario en prácticas y su toma de posesión estará supeditada a la superación de la fase de prácticas.
 
-
 #### Artículo 14. Requisitos específicos para solicitar determinados puestos.
 
 Las Administraciones educativas, de acuerdo con su planificación educativa, podrán ofertar plazas o puestos para cuya cobertura se requieran requisitos específicos en la forma que se determinen en las correspondientes normas procedimentales de las respectivas convocatorias.
-
 
 #### Artículo 15. Comunidades Autónomas con lengua propia de carácter oficial.
 
 En las convocatorias para plazas o puestos dependientes de Comunidades Autónomas cuya lengua propia tenga carácter oficial, se podrán establecer los requisitos legalmente exigibles en razón de la cooficialidad de las lenguas.
 
 Sección 3.ª Derechos preferentes y derecho de concurrencia
-
 
 #### Artículo 16. Derecho preferente a centro.
 
@@ -258,7 +235,6 @@ d) Por adquisición de nuevas especialidades, al amparo de lo dispuesto en los R
 2. Cuando concurran dos o más funcionarias o funcionarios de carrera en los que se den las circunstancias señaladas en el apartado anterior, se adjudicará la plaza a quien cuente con mayor puntuación en la aplicación de los baremos de méritos a que se refiere el artículo 19. En el supuesto de que se produjesen empates en las puntuaciones se utilizará como primer criterio de desempate el mayor tiempo de servicios efectivos como funcionario de carrera en el centro y, de resultar necesario, los demás criterios previstos en el anexo I de este Real Decreto en el orden en el que aparecen en el mismo.
 
 3. Este derecho preferente implica una prelación para obtener destino frente a quienes ejerciten el derecho preferente a localidad o ámbito territorial.
-
 
 #### Artículo 17. Derecho preferente a localidad o ámbito territorial.
 
@@ -280,7 +256,6 @@ g) Cuando tras haber sido declarado jubilado por incapacidad permanente haya sid
 
 2. Cuando concurran dos o más funcionarias o funcionarios de carrera en los que se den las circunstancias señaladas en el apartado anterior, se adjudicará la plaza a quien cuente con mayor puntuación en la aplicación del baremo de méritos a que se refiere el artículo 19.
 
-
 #### Artículo 18. Derecho de concurrencia.
 
 1. A los efectos de la participación en el concurso de traslados de ámbito estatal, se entiende por derecho de concurrencia la posibilidad de que varios funcionarios o funcionarias de carrera con destino definitivo condicionen su voluntaria participación en el concurso a la obtención de destino en uno o varios centros de una provincia determinada.
@@ -299,7 +274,6 @@ d) Esta modalidad de participación tiene como finalidad que todas las personas 
 
 Sección 4.ª Resolución del concurso de traslados de ámbito estatal
 
-
 #### Artículo 19. Resolución.
 
 1. El baremo de méritos que regirá los concursos de traslados de ámbito estatal se ajustará, para las plazas o puestos correspondientes a los distintos cuerpos, a las especificaciones básicas que se recogen en los anexos I y II.
@@ -314,11 +288,9 @@ Complementariamente, el Ministerio de Educación podrá facilitar a través de s
 
 5. Los recursos contra las resoluciones definitivas de los concursos de traslados, con independencia de la Administración educativa a través de la que haya participado el personal funcionario, se deberán dirigir y ser resueltos por la Administración educativa a la que pertenezca la plaza objeto del recurso, quien podrá solicitar cuanta información considere necesaria a la Administración educativa de procedencia del recurrente.
 
-
 #### Disposición adicional primera. Solicitud de plazas o puestos de otras Administraciones educativas.
 
 El profesorado participante en el concurso de traslados de ámbito estatal que dependa de una Administración educativa cuya legislación funcionarial propia establezca como plazo de permanencia en la plaza o puesto obtenido por concurso de traslados uno distinto del contemplando en el artículo 2.1 de este real decreto, para poder solicitar plazas o puestos de ámbitos de gestión de otras Administraciones educativas, deberá cumplir lo establecido con carácter general en el citado artículo en cuanto a la permanencia mínima indicada en el mismo.
-
 
 #### Disposición adicional segunda. Criterios para los desplazamientos.
 
@@ -350,23 +322,19 @@ En el caso en que el número de los que soliciten cesar fuese mayor que el de aq
 
 Al personal funcionario de carrera de los Cuerpos de Catedráticos de Enseñanza Secundaria, de Escuelas Oficiales de Idiomas y de Artes Plásticas y Diseño a los efectos de determinar los servicios efectivos prestados como funcionario de carrera en esta disposición adicional se le tendrá en cuenta el tiempo de servicios efectivos que anteriormente hubiese prestado como funcionario de carrera en el respectivo cuerpo de profesores.
 
-
 #### Disposición adicional tercera. Antigüedad por desglose, desdoblamiento, fusión, transformación, supresión, o cualquier otra situación que suponga modificación del destino definitivo.
 
 El personal funcionario de carrera que obtenga destino definitivo en un centro como consecuencia de desglose, desdoblamiento, fusión o transformación total o parcial de centro, supresión o cualquier otra situación que suponga modificación del destino que venía desempeñando, mantendrá, a efectos de antigüedad en el nuevo centro, la generada en su centro de origen.
 
-
 #### Disposición adicional cuarta. Personal funcionario del Cuerpo de Maestros.
 
 El personal funcionario docente de carrera del Cuerpo de Maestros que haya superado los procedimientos selectivos de ingreso convocados por las distintas Administraciones educativas y sea titular de la correspondiente especialidad, o haya sido habilitado para la misma de acuerdo con la normativa anterior a la entrada en vigor del presente Real Decreto, podrá seguir participando en los concursos de traslado de ámbito estatal a plazas o puestos de su especialidad o a aquellas para las que haya sido habilitado.
-
 
 #### Disposición adicional quinta. Especialidades del Cuerpo de Maestros.
 
 A los efectos de la participación en los concursos de traslados de ámbito estatal las especialidades docentes del Cuerpo de Maestros son las que se relacionan en el anexo  III.
 
 Asimismo, tendrán la consideración de especialidades del Cuerpo de Maestros las propias de la lengua cooficial en aquellas Comunidades Autónomas que así lo tuvieran regulado.
-
 
 #### Disposición adicional sexta. Permutas.
 
@@ -392,7 +360,6 @@ e) Que se emita informe previo favorable por la unidad administrativa de la que 
 
 6. A quien se haya autorizado la permuta no podrá participar en los concursos de provisión de puestos hasta que no acredite, al menos, dos años de servicios efectivos, a partir de la fecha de la toma de posesión, en la plaza a que se incorporó como consecuencia de la concesión de la permuta.
 
-
 #### Disposición transitoria primera. Personal funcionario del Cuerpo de Maestros adscritos a los cursos primero y segundo de la Educación Secundaria Obligatoria.
 
 1. El personal funcionario del Cuerpo de Maestros, que a la entrada en vigor de la Ley Orgánica 2/2006, de 3 de mayo, de Educación, estuviera adscrito con carácter definitivo a puestos de los dos primeros cursos de la educación secundaria obligatoria, podrá continuar en dichos puestos indefinidamente, así como ejercer su movilidad en relación con las vacantes de estos dos primeros cursos que a tal fin determine cada Administración educativa. Asimismo, podrán ejercer su movilidad a plazas o puestos de educación infantil y primaria para los que esté habilitado y, caso de obtenerlas, perderá toda opción a futuras vacantes de los cursos primero y segundo de la educación secundaria obligatoria.
@@ -401,16 +368,13 @@ e) Que se emita informe previo favorable por la unidad administrativa de la que 
 
 3. Dicho personal, en el supuesto de que accediera al Cuerpo de Profesores de Enseñanza Secundaria a través de los procedimientos selectivos de acceso convocados por las distintas Administraciones educativas, podrá permanecer en su mismo destino, siempre y cuando la especialidad por la que ha accedido al Cuerpo de Profesores de Enseñanza Secundaria se corresponda con la plaza o puesto desempeñado, como Maestro, en los cursos primero y segundo de la educación secundaria obligatoria.
 
-
 #### Disposición transitoria segunda. Profesores Técnicos de Formación Profesional.
 
 El personal funcionario del Cuerpo de Profesores Técnicos de Formación Profesional que, en virtud de lo establecido en las disposiciones transitoria primera del Real Decreto 1701/1991, de 29 de noviembre, transitorias segunda y quinta del Real Decreto 1635/1995, de 6 de octubre y en la transitoria tercera del Real Decreto 777/1998, de 30 de abril, a la entrada en vigor de la Ley Orgánica 2/2006, de 3 de mayo, de Educación, tuviera un destino definitivo en plazas o puestos correspondientes a especialidades del Cuerpo de Profesores de Enseñanza Secundaria, en el supuesto de que, a través de los procedimientos selectivos de acceso convocados por las distintas Administraciones educativas, accediera al citado Cuerpo podrá permanecer en su mismo destino en los términos que se establezcan en las respectivas convocatorias, siempre y cuando la especialidad de acceso se corresponda con la de la plaza o puesto que desempeña con carácter definitivo.
 
-
 #### Disposición transitoria tercera. Personal funcionario transferido.
 
 Los funcionarios de carrera que accedieron a la función pública docente mediante convocatoria realizada por el Ministerio de Educación antes de completarse el proceso de transferencia de las competencias educativas a las Comunidades Autónomas y que no hayan obtenido su primer destino definitivo, podrán participar en el concurso de traslados de ámbito estatal, a efectos de obtener su primer destino definitivo en alguna de las Comunidades que en el momento de la convocatoria del proceso selectivo formaran parte del ámbito de gestión del Ministerio de Educación.
-
 
 #### Disposición derogatoria única. Derogación normativa.
 
@@ -420,11 +384,9 @@ a) Real Decreto 895/1989, de 14 de julio, por el que se regula la provisión de 
 
 b) Real Decreto 2112/1998, de 2 de octubre, por el se regulan los concursos de traslados de ámbito nacional para la provisión de plazas correspondientes a los cuerpos docentes.
 
-
 #### Disposición final primera. Participación de las organizaciones sindicales.
 
 Las organizaciones sindicales participarán en los procesos a que se refiere este Real Decreto a través de los órganos de participación establecidos en las disposiciones vigentes aplicables en el ámbito de cada Administración educativa y de acuerdo con lo que se disponga en esas disposiciones.
-
 
 #### Disposición final segunda. Título competencial.
 
@@ -432,10 +394,7 @@ Las organizaciones sindicales participarán en los procesos a que se refiere est
 
 2. Los preceptos de este real decreto tienen carácter básico, con excepción de los artículos 1.3, 3, 5, 8.3, 9.3, 14, 15, letra c del artículo 17.1, las disposiciones adicionales segunda y tercera y la disposición final primera, que serán de aplicación directa en las Ciudades de Ceuta y Melilla y supletoria en las Comunidades Autónomas.
 
-
 #### Disposición final tercera. Entrada en vigor.
-
-Este real decreto entrará en vigor el día siguiente al de su publicación en el «Boletín Oficial del Estado».
 
 Dado en Madrid, el 29 de octubre de 2010.
 

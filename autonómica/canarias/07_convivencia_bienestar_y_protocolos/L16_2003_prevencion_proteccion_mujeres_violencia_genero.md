@@ -39,13 +39,12 @@ fundamentos_derecho:
   articulos:
   - '16'
 ---
+
 # Ley 16/2003 de Prevención y Protección Integral de las Mujeres contra la Violencia de Género de Canarias
 
 Sea notorio a todos los ciudadanos que el Parlamento de Canarias ha aprobado y yo, en nombre del Rey y de acuerdo con lo que establece el artículo 12.8 del Estatuto de Autonomía, promulgo y ordeno la publicación de la Ley 16/2003, de 8 de abril, de Prevención y Protección Integral de las Mujeres contra la Violencia de Género.
 
-
 ## PREÁMBULO
-
 
 **I**
 
@@ -55,11 +54,9 @@ La violencia de género no es un fenómeno nuevo ni característico exclusivamen
 
 Durante años la lucha por la erradicación de la discriminación contra las mujeres y la denuncia del fenómeno de la violencia ha estado liderada e impulsada por los colectivos feministas y de mujeres. Ello ha llevado a que en la actualidad la sociedad sea más consciente y sensible a la problemática y que tanto en el ámbito nacional como en el autonómico y local, se hayan puesto en marcha numerosos programas y acciones de todo orden para hacer frente a dicha cuestión. En dicho marco se encuadra el Programa canario para prevenir y erradicar la violencia contra las mujeres (2002-2006), que es un conjunto de actuaciones diseñadas y promovidas por el Gobierno de Canarias a través del cual se formaliza su compromiso activo en la eliminación de cualquier tipo de manifestación de violencia de género en nuestro territorio. Fruto de la implementación de dicho programa ha sido el desarrollo de acciones específicas y transversales, coordinadas y promovidas por el Instituto Canario de la Mujer, que han contribuido a generar la iniciativa de crear un sistema canario de intervención integral contra la violencia hacia las mujeres, al que la presente Ley da el máximo relieve en cuanto contiene un conjunto de medidas para la prevención, sensibilización y erradicación de la violencia de género, así como para la asistencia y protección de sus víctimas.
 
-
 **II**
 
 En el marco de la Unión Europea, la igualdad entre hombres y mujeres y su promoción se consagra en el artículo 2 del Tratado constitutivo, punto de partida de un proceso institucional cuyo objeto fundamental es garantizar la igualdad de hombres y mujeres y evitar la discriminación de éstas, instando a los Estados miembros al desarrollo de políticas específicas de prevención y represión de la violencia contra las mujeres. La violencia ejercida contra las mujeres ha sido denunciada como problema que afecta al conjunto de la sociedad por distintos organismos internacionales, pero fue la Organización de Naciones Unidas la que en la IV Conferencia Mundial sobre las Mujeres de septiembre de 1995, alcanzó a calificarla como un obstáculo para conseguir los objetivos de igualdad, desarrollo y paz, al tiempo que un impedimento del ejercicio de los derechos humanos y de las libertades individuales. En la misma línea, como concluye el Dictamen del Foro Mundial de Mujeres contra la Violencia de noviembre de 2002, «socava el desarrollo y el progreso de todas las naciones, especialmente la igualdad de género y la posibilidad de ejercer la plena soberanía las mujeres» y además comporta «unos incalculables e irreversibles costes físicos y económicos».
-
 
 **III**
 
@@ -67,12 +64,9 @@ La presente Ley, en atención a todo lo anterior, tiene como propósito la creac
 
 La presente Ley se organiza conforme a la siguiente estructura. En el Título I se recogen las disposiciones generales y el objeto y fines de la Ley, así como la descripción de las distintas formas de violencia de género, con un carácter exhaustivo para abarcar todas las manifestaciones de la misma, de conformidad con las resoluciones de los organismos internacionales. En el Título II se desarrollan las disposiciones relativas al Sistema Canario de Prevención y Protección de las Mujeres contra la Violencia de Género, así como los principios de organización y funcionamiento de tal sistema. El Título III está referido a las actuaciones dirigidas a prevenir posibles situaciones de violencia de género e intervenir sobre las distintas causas que la originan. Así se concretan medidas de detección en distintos campos, actuaciones de estudio, divulgación, información y formación, así como acciones concretas en el ámbito educativo. El Título IV desarrolla los sistemas de apoyo y asistencia frente a situaciones de violencia de género, definiendo las funciones de cada uno de los centros y servicios asistenciales: los Dispositivos de Emergencia para Mujeres Agredidas, los Centros de Acogida Inmediata, las Casas de Acogida y los Pisos Tutelados. A su vez, prevé la colaboración de instituciones, asociaciones y fundaciones sin ánimo lucrativo con las administraciones públicas canarias en el desarrollo de los planes y programas relacionados con la violencia de género. En el Título V se regulan las competencias de las administraciones públicas canarias, la Comunidad Autónoma, los cabildos insulares y los ayuntamientos, en materia de prevención y protección de las mujeres contra la violencia de género. El Título VI regula el régimen de actuación en materia de atención integral a las mujeres maltratadas frente a situaciones de violencia de género, por parte de las entidades colaboradoras.
 
-
 ## TÍTULO I
 
-
 **Disposiciones generales**
-
 
 #### Artículo 1. Objeto y fines.
 
@@ -82,11 +76,9 @@ En dicho sistema se integra y articula funcionalmente el conjunto de actividades
 
 2. Igualmente la Ley establece la distribución de competencias en la materia entre las distintas administraciones públicas y la colaboración con los órganos de gobierno del Poder Judicial y con el Ministerio Fiscal.
 
-
 #### Artículo 2. Definición de la violencia de género.
 
 A los efectos de la presente Ley, se entiende por violencia contra las mujeres todo tipo de actuación basado en la pertenencia a dicho sexo de la víctima, y con independencia de la edad de ésta, que, a través de medios físicos o psicológicos, incluyendo las amenazas, intimidaciones o coacciones, tenga como resultado posible o real un daño o sufrimiento físico, sexual o psicológico para la mujer, y se realice al amparo de una situación de debilidad o de dependencia física, psicológica, familiar, laboral o económica de la víctima frente al agresor.
-
 
 #### Artículo 3. Formas de violencia de género.
 
@@ -112,7 +104,6 @@ i) Maltrato o malos tratos económicos, que consiste en la privación intenciona
 
 j) Cualquiera otras formas análogas que lesionen o sean susceptibles de lesionar la dignidad, integridad o libertad de la mujer.
 
-
 #### Artículo 4. Situaciones de violencia de género.
 
 En función al ámbito y naturaleza de la relación que une al agresor con la víctima, las situaciones de violencia contra las mujeres se clasifican en:
@@ -123,16 +114,13 @@ b) Situaciones de violencia laboral y docente: son las que se operan por quienes
 
 c) Situaciones de violencia social: son las que se operan por quienes carezcan, en relación con la víctima, de cualquiera de los vínculos que se relacionan en los dos apartados anteriores del presente artículo.
 
-
 ## TÍTULO II
-
 
 **Del Sistema Canario Integral de Prevención y Protección de las Mujeres contra la Violencia de Género**
 
 CAPÍTULO I
 
 Disposiciones generales
-
 
 #### Artículo 5. Concepto y ámbito.
 
@@ -141,7 +129,6 @@ Disposiciones generales
 2. El Sistema Canario de Intervención Integral contra la Violencia hacia las Mujeres se configura como un programa integrado-multisectorial de acciones en el ámbito sanitario, educativo, laboral, social, de protección, sin perjuicio de las relaciones de coordinación con los demás programas y áreas de actuación de las administraciones públicas que operan en Canarias.
 
 3. El Sistema Canario de Intervención Integral contra la Violencia hacia las Mujeres mantendrá las necesarias relaciones de cooperación, colaboración y asistencia con los órganos de gobierno del Poder Judicial, con el Ministerio Fiscal y con las Fuerzas y Cuerpos de Seguridad en el ámbito de sus respectivas competencias.
-
 
 #### Artículo 6. Principios del sistema.
 
@@ -177,7 +164,6 @@ n) La mutua colaboración e interdependencia entre el sistema y las demás área
 
 ñ) La reeducación de los agresores, ofreciendo a los mismos la asistencia y el tratamiento específico como medida de prevención de nuevas conductas violentas y en ningún caso como alternativa a las penas privativas de libertad.
 
-
 #### Artículo 7. Ámbito funcional del sistema.
 
 1. El conjunto de actuaciones que forman el sistema se concreta en programas de carácter preventivo y de carácter asistencial y de protección, integrados funcionalmente.
@@ -186,16 +172,13 @@ n) La mutua colaboración e interdependencia entre el sistema y las demás área
 
 3. El programa asistencial y de protección tiene por objeto un conjunto de actuaciones de información, asesoramiento, asistencia, protección y reintegración de las víctimas de violencia de género.
 
-
 ## TÍTULO III
-
 
 **Del programa de prevención frente a la violencia de género**
 
 CAPÍTULO I
 
 Disposiciones generales
-
 
 #### Artículo 8. Funciones del sistema de prevención.
 
@@ -223,7 +206,6 @@ De las actuaciones específicas de prevención
 
 Sección 1.ª Medidas de detección de situaciones de violencia o de riesgo de la misma
 
-
 #### Artículo 9. Detección de las situaciones de riesgo.
 
 1. Las administraciones públicas canarias desarrollarán las actuaciones necesarias para la detección de situaciones de riesgo o existencia de violencia contra las mujeres.
@@ -231,7 +213,6 @@ Sección 1.ª Medidas de detección de situaciones de violencia o de riesgo de l
 2. Las administraciones públicas canarias deberán mantener una relación directa con los entornos sociofamiliares, realizar los estudios, estadísticas e investigaciones que se determinen en los respectivos planes y programas de atención, así como promover o ejecutar las actuaciones precisas para concienciar a la población de la necesidad de alertar acerca de las situaciones de violencia de género de las que se tenga conocimiento.
 
 3. Las administraciones competentes en cada ámbito habrán de dar cuenta de sus actuaciones sobre esta materia al Instituto Canario de la Mujer, a través de los mecanismos de coordinación y colaboración que se establezcan.
-
 
 #### Artículo 10. Obligaciones de los centros y servicios sanitarios y de servicios sociales.
 
@@ -241,7 +222,6 @@ Sección 1.ª Medidas de detección de situaciones de violencia o de riesgo de l
 
 3. En los conciertos que se suscriban con entidades privadas para la prestación de asistencia sanitaria y servicios sociales deberán recogerse expresamente las obligaciones de comunicación y denuncia contenidas en este artículo, así como consignar como causa de resolución de aquellos el incumplimiento de las mismas.
 
-
 #### Artículo 11. Obligaciones de los centros escolares.
 
 1. Los responsables de los centros escolares, los consejos escolares y el personal educativo están obligados a comunicar a la Administración competente la existencia de situaciones acreditativas de violencia contra las alumnas cualquiera que fuere su procedencia, especialmente en los casos de malos tratos, siempre y cuando no suponga un riesgo para la vida y la integridad física de la víctima y con el conocimiento de ésta.
@@ -250,13 +230,11 @@ Sección 1.ª Medidas de detección de situaciones de violencia o de riesgo de l
 
 3. En los conciertos educativos que se suscriban con entidades privadas y particulares deberán recogerse expresamente las obligaciones de comunicación, denuncia y colaboración contenidas en este artículo, así como consignar como causa de resolución de aquellos el incumplimiento de éstas.
 
-
 #### Artículo 12. Obligaciones de las empresas y organizaciones sindicales.
 
 Los responsables de las empresas, representantes de los trabajadores y organizaciones sindicales están obligados a comunicar a la Administración competente la existencia de situaciones acreditativas de violencia contra las mujeres, cualquiera que fuere su procedencia, especialmente en los casos de malos tratos y acoso sexual.
 
 Sección 2.ª Actuaciones de estudio, divulgación, información y formación
-
 
 #### Artículo 13. Estudios e investigaciones.
 
@@ -264,11 +242,9 @@ Sección 2.ª Actuaciones de estudio, divulgación, información y formación
 
 2. Los resultados de los estudios e investigaciones se darán a conocer a la sociedad canaria para fomentar el conocimiento de las causas y de las medidas para la erradicación de la violencia de género. De manera especial, se pondrán en conocimiento de los profesionales, las instituciones y las asociaciones relacionadas con la materia en los ámbitos social, jurídico, educativo, sanitario, judicial y policial.
 
-
 #### Artículo 14. Divulgación.
 
 Las actuaciones de divulgación tienen por objeto poner en conocimiento de la sociedad, en general, y de los distintos sectores y agentes afectados, las situaciones de violencia de género concurrentes en el ámbito municipal, insular y de la Comunidad Autónoma, a los efectos de conseguir la concienciación y sensibilización de la sociedad sobre la realidad del problema y sus posibles soluciones.
-
 
 #### Artículo 15. Información.
 
@@ -284,7 +260,6 @@ Los deberes de la ciudadanía, del funcionariado público y de los agentes socia
 
 3. Se promoverá que los medios de comunicación públicos o subvencionados con recursos públicos no emitan en su programación imágenes o contenidos que directa o indirectamente pudieran incitar a cualquier forma de violencia de género.
 
-
 #### Artículo 16. Formación.
 
 1. Las actuaciones de formación tienen por objeto la especialización actualizada del personal de centros policiales, asistenciales, docentes y sanitarios, públicos y privados.
@@ -293,13 +268,11 @@ Los deberes de la ciudadanía, del funcionariado público y de los agentes socia
 
 Sección 3.ª De las medidas de prevención y su fomento
 
-
 #### Artículo 17. Prevención en el ámbito educativo.
 
 1. En los diseños curriculares se integrarán los contenidos necesarios para promover en el ámbito educativo los valores de la igualdad entre sexos, el respeto a la dignidad de la persona, y la eliminación de cualquier práctica o contenido formativo que infunda ideas o conceptos de minusvaloración, debilidad, dependencia, subordinación o sometimiento de la mujer frente al hombre en el ámbito físico, sexual, intelectual, cultural, religioso, económico o social.
 
 2. Con el mismo fin se revisarán los materiales educativos reglados y no reglados.
-
 
 #### Artículo 18. Subvenciones de las actividades de prevención.
 
@@ -307,13 +280,11 @@ Sección 3.ª De las medidas de prevención y su fomento
 
 2. Las subvenciones destinadas a la realización de programas y proyectos cuya duración sea superior al ejercicio presupuestario podrán formalizarse en conciertos o convenios de colaboración con financiación plurianual.
 
-
 #### Artículo 19. Medidas de apoyo a las asociaciones de mujeres.
 
 La Comunidad Autónoma de Canarias, con ayudas de carácter plurianual, apoyará el tejido asociativo de los colectivos femeninos y sociales que trabajen, tanto en los ámbitos regional, insular, comarcal o municipal, en prevenir y erradicar la violencia de género.
 
 Sección 4.ª De la colaboración en las actuaciones de prevención
-
 
 #### Artículo 20. Desarrollo y fomento de actuaciones preventivas.
 
@@ -321,16 +292,13 @@ Sección 4.ª De la colaboración en las actuaciones de prevención
 
 2. Las administraciones públicas canarias podrán concertar con las entidades colaboradoras, reconocidas conforme a lo dispuesto en el Título VI de la presente Ley, los servicios de apoyo y asistencia técnica que sean precisos para el adecuado desarrollo de las actuaciones preventivas.
 
-
 ## TÍTULO IV
-
 
 **Del programa de servicios sociales frente a situaciones de violencia de género**
 
 CAPÍTULO I
 
 Disposiciones generales
-
 
 #### Artículo 21. Funciones.
 
@@ -345,7 +313,6 @@ c) Prestar acogimiento a las víctimas de violencia de género y personas de ell
 d) Denunciar ante las autoridades competentes las situaciones de violencia de que tuvieran conocimiento, previa conformidad de la víctima.
 
 e) Colaborar con las autoridades competentes en la adopción de medidas asistenciales que tengan por objeto la protección de la víctima ante futuras situaciones de violencia de género, o la aportación de medios probatorios relacionados con la comisión de actos de violencia.
-
 
 #### Artículo 22. Principios de actuación.
 
@@ -365,7 +332,6 @@ f) Coordinar los servicios asistenciales con los órganos jurisdiccionales y con
 
 g) Coordinar los servicios asistenciales con las funciones judiciales y policiales de protección de la víctima y de las personas de ella dependientes.
 
-
 #### Artículo 23. De las personas usuarias del sistema de servicios sociales.
 
 Tienen la condición de personas usuarias del sistema de servicios sociales contra la violencia, siempre que cumplan con los requisitos que se establecen en la presente Ley y en sus disposiciones de desarrollo, las mujeres, cualquiera que sea su edad, estado civil, nacionalidad o lugar de residencia, que se encuentren en territorio de la Comunidad Autónoma, respecto a los servicios y prestaciones de intervención y asistencia ante situaciones inminentes de violencia de género o riesgo de las mismas.
@@ -375,7 +341,6 @@ CAPÍTULO II
 De los servicios y centros que integran el sistema asistencial
 
 Sección 1.ª Relación de servicios y centros asistenciales
-
 
 #### Artículo 24. Enumeración.
 
@@ -389,9 +354,7 @@ Los servicios y centros que integran el sistema asistencial se clasifican en:
 
 4. Pisos Tutelados (PT).
 
-
 **Subsección 1.ª De los Dispositivos de Emergencia para Mujeres Agredidas**
-
 
 #### Artículo 25. Funciones.
 
@@ -407,16 +370,13 @@ d) Información sobre las actuaciones y alternativas de la situación legal, con
 
 e) Acogimiento inmediato de la víctima en los Centros de Acogida Inmediata por un plazo de 96 horas, sin requerir la denuncia de ésta y como medida de protección.
 
-
 #### Artículo 26. Colaboración con los centros primarios del sistema de servicios sociales y con entidades colaboradoras.
 
 1. Los centros y servicios sociales de carácter municipal a los que acudan mujeres en cualquiera de las situaciones descritas en el artículo 4 de la presente Ley, prestarán la asistencia inmediata, en los mismos términos previstos en el artículo 20 de la misma, poniéndolo en conocimiento del DEMA de la respectiva isla y, en caso de ser varios, del que comprenda, en su ámbito de actuación, el respectivo municipio, a los efectos de coordinar las actuaciones referenciadas, correspondiendo al DEMA, en todo caso, la competencia para la derivación de la mujer a otros centros y servicios regulados en la presente Ley o a aquellos otros integrados en el sistema canario de servicios sociales.
 
 2. Para la ejecución de las medidas de asistencia a que hace referencia el artículo 20 de la presente Ley, el DEMA competente podrá recabar la colaboración de los centros y servicios sociales de los municipios que procedan, así como de las entidades colaboradoras que cumplan los requisitos de homologación que se establezcan reglamentariamente.
 
-
 **Subsección 2.ª De los Centros de Acogida Inmediata**
-
 
 #### Artículo 27. Funciones.
 
@@ -426,9 +386,7 @@ e) Acogimiento inmediato de la víctima en los Centros de Acogida Inmediata por 
 
 3. Para el ejercicio de las referidas funciones, los CAI actuarán en coordinación con los DEMA y los demás centros y servicios de las administraciones públicas competentes para la prestación y utilización de los servicios de guardería, enseñanza, asistencia sanitaria, de empleo y restantes servicios sociales, en función de las necesidades y circunstancias concurrentes en las víctimas.
 
-
 **Subsección 3.ª De las Casas de Acogida**
-
 
 #### Artículo 28. Funciones.
 
@@ -438,19 +396,15 @@ e) Acogimiento inmediato de la víctima en los Centros de Acogida Inmediata por 
 
 3. Para el ejercicio de las referidas funciones, las Casas de Acogida actuarán en coordinación con los CAI y con los demás centros y servicios de las administraciones públicas competentes para la prestación y utilización de los servicios de guardería, enseñanza, asistencia sanitaria, de empleo y restantes servicios sociales, en función de las necesidades y circunstancias concurrentes en las víctimas.
 
-
 #### Artículo 29. Personas usuarias.
 
 Tendrá derecho a la manutención y alojamiento en CAI toda mujer que padezca situación real o riesgo de violencia, si así lo hubiera denunciado ante la autoridad competente, y carezca de medios propios para ello o, de tenerlos, el único medio disponible radique en su domicilio habitual y exista riesgo razonable de que el retorno al mismo pueda dar lugar a nuevas situaciones de violencia, y así lo solicite del DEMA o servicio social al que haya acudido.
 
-
 **Subsección 4.ª De los Pisos Tutelados**
-
 
 #### Artículo 30. Funciones.
 
 Son Pisos Tutelados (PT) los inmuebles puestos a disposición, para su alojamiento por un período máximo de 12 meses, de las mujeres y, en su caso, de las personas sujetas a la patria potestad, tutela, curatela, guarda o acogimiento o representación legal de la mujer víctima de violencia de género, cuando dichas potestades se ejerzan efectivamente, y de forma exclusiva por ésta, o cuando, de ejercerlas de manera compartida con otra persona, resulte conveniente, a fin de evitar situaciones de riesgo, que tales personas convivan con la víctima de violencia, o cuando así lo disponga la autoridad competente en cada caso.
-
 
 #### Artículo 31. Personas usuarias.
 
@@ -459,7 +413,6 @@ Son Pisos Tutelados (PT) los inmuebles puestos a disposición, para su alojamien
 2. Será a su cargo el mantenimiento del piso en las condiciones adecuadas de uso.
 
 Sección 2.ª De la titularidad y organización de los centros de asistencia
-
 
 #### Artículo 32. Titularidad y gestión.
 
@@ -470,7 +423,6 @@ Sección 2.ª De la titularidad y organización de los centros de asistencia
 3. Los recursos de acogida de titularidad privada son aquellos cuyo titular sea una entidad colaboradora reconocida según se establezca reglamentariamente, o convenido, a título gratuito u oneroso, la prestación del servicio, previa homologación.
 
 4. Los recursos privados de acogida deberán reunir los mismos requisitos y condiciones que se establezcan para los centros públicos.
-
 
 #### Artículo 33. Coordinación.
 
@@ -483,7 +435,6 @@ b) El conocimiento preciso de la situación de las personas usuarias.
 c) La uniformidad de los criterios y condiciones de ingreso y baja en los centros.
 
 d) La inspección y control de sus actividades.
-
 
 #### Artículo 34. Régimen económico.
 
@@ -499,7 +450,6 @@ c) Procedimiento y medios de justificación de la aplicación de las cantidades 
 
 d) Órgano o unidad administrativa responsable de la custodia de los justificantes originales y de los documentos acreditativos de los pagos realizados.
 
-
 #### Artículo 35. Organización y funcionamiento de los centros.
 
 El Gobierno de Canarias velará por la existencia equilibrada de centros y servicios asistenciales para las mujeres víctimas de violencia de género en todo el territorio canario.
@@ -509,7 +459,6 @@ Reglamentariamente se establecerá la organización y funcionamiento de los cent
 El reglamento de régimen interior de cada uno de los centros se adecuará a lo dispuesto en esta Ley y en su normativa de desarrollo.
 
 Sección 3.ª Del régimen jurídico de la prestación de asistencia y alojamiento
-
 
 #### Artículo 36. Naturaleza de los servicios.
 
@@ -529,11 +478,9 @@ CAPÍTULO III
 
 Otros medios de atención y asistencia
 
-
 #### Artículo 37. Acceso a la vivienda.
 
 De acuerdo con la legislación sectorial aplicable, las mujeres víctimas de violencia de género tendrán acceso prioritario a una vivienda social, en virtud de los informes sociales que así lo acrediten y aconsejen; así mismo tendrán acceso prioritario aquellas mujeres víctimas de violencia que abandonen las Casas de Acogida o los Pisos Tutelados una vez transcurrido el período de estancia en los mismos. Tendrán derecho asimismo a las ayudas económicas necesarias para garantizar un alojamiento provisional gratuito, cuando así lo requieran en virtud de su situación sociolaboral y por un período máximo de doce meses.
-
 
 #### Artículo 38. Formación e inserción laboral.
 
@@ -547,7 +494,6 @@ La integración preferente en los programas de formación para el empleo y de in
 
 Cualquier otra vía de promoción laboral que contribuya a los objetivos de esta Ley.
 
-
 #### Artículo 39. Fondo de Emergencia.
 
 1. La Comunidad Autónoma creará un Fondo de Emergencia destinado a ayudas que tengan por finalidad atender de modo inmediato situaciones de emergencia social en que se encuentren las mujeres víctimas de violencia de género que carezcan de medios económicos.
@@ -555,7 +501,6 @@ Cualquier otra vía de promoción laboral que contribuya a los objetivos de esta
 2. Reglamentariamente se establecerán los tipos y las cuantías de dichas ayudas, el período máximo de percepción y su régimen de gestión, concesión y abono.
 
 3. Dichas ayudas estarán gestionadas por las corporaciones locales.
-
 
 #### Artículo 40. Ayudas escolares.
 
@@ -565,21 +510,17 @@ CAPÍTULO IV
 
 Asistencia jurídica
 
-
 #### Artículo 41. Asistencia jurídica gratuita.
 
 1. Las mujeres víctimas de violencia de género tienen derecho a la asistencia jurídica gratuita en los procedimientos civiles y penales que inicien por razón de tal situación.
 
 2. La Comunidad Autónoma podrá convenir con el Consejo General de Colegios de Abogados de Canarias o con cada uno de los colegios, las condiciones para la prestación de este servicio, de conformidad con la legislación reguladora de la asistencia jurídica gratuita.
 
-
 #### Artículo 42. Acción popular.
 
 La Comunidad Autónoma ejercerá la acción popular en los procedimientos penales por violencia de género, en la forma y condiciones establecidas por la legislación procesal, en los casos de muerte o incapacitación definitiva de la víctima por las secuelas de la violencia. La acción popular se ejercerá con el consentimiento de la familia.
 
-
 ## TÍTULO V
-
 
 **Competencias de las Administraciones Públicas Canarias**
 
@@ -589,7 +530,6 @@ Delimitación de las competencias
 
 Sección 1.ª Disposiciones generales
 
-
 #### Artículo 43. Principios de distribución competencial.
 
 1. Las administraciones públicas canarias garantizan el cumplimiento de las funciones que conforman el sistema integral de prevención y protección de las mujeres contra la violencia de género, en los términos de la presente Ley. Su actuación se ajustará a los principios de coordinación y colaboración en el ejercicio de las competencias que se les atribuyen y en la planificación, programación y prestación de los distintos servicios, así como a los principios de eficacia y eficiencia.
@@ -597,7 +537,6 @@ Sección 1.ª Disposiciones generales
 2. La distribución de funciones y competencias entre las distintas administraciones públicas canarias responde a los principios de máxima proximidad a las personas usuarias y de atención al hecho insular, garantizando la efectiva descentralización de los servicios, prestaciones y medios de atención a las mujeres víctimas de violencia de género.
 
 Sección 2.ª Competencias de la Comunidad Autónoma de Canarias
-
 
 #### Artículo 44. Delimitación de competencias.
 
@@ -621,7 +560,6 @@ h) Prestación, con carácter subsidiario, de servicios, funciones y gestión de
 
 Sección 3.ª De las competencias de las islas
 
-
 #### Artículo 45. Delimitación de competencias.
 
 1. Corresponden a las islas las siguientes competencias:
@@ -637,7 +575,6 @@ d) Las demás atribuidas por el Decreto 113/2002, de 9 de agosto, de traspaso de
 2. Las islas ejercerán sus competencias a través del presidente del cabildo insular o del consejero del cabildo en el que delegue.
 
 Sección 4.ª De las competencias de los municipios
-
 
 #### Artículo 46. Delimitación de competencias.
 
@@ -657,7 +594,6 @@ Organización administrativa del sistema
 
 Sección 1.ª De los órganos unipersonales de dirección, supervisión y coordinación
 
-
 #### Artículo 47. De la coordinación general.
 
 1. Bajo la dependencia del Instituto Canario de la Mujer, corresponde la dirección superior, coordinación y supervisión del sistema en el ámbito de la Comunidad Autónoma de Canarias al coordinador general, con categoría de jefe de servicio.
@@ -665,7 +601,6 @@ Sección 1.ª De los órganos unipersonales de dirección, supervisión y coordi
 2. El coordinador general será nombrado por la Dirección del Instituto Canario de la Mujer.
 
 3. Reglamentariamente se establecerá la dotación de medios personales y materiales adscritos al coordinador general para el ejercicio de sus funciones.
-
 
 #### Artículo 48 Del coordinador insular.
 
@@ -678,7 +613,6 @@ Sección 1.ª De los órganos unipersonales de dirección, supervisión y coordi
 4. Reglamentariamente se establecerá la dotación de medios personales y materiales adscritos al coordinador para el cumplimiento de sus funciones y el desarrollo de éstas.
 
 Sección 2.ª De los órganos colegiados de asesoramiento y coordinación
-
 
 #### Artículo 49. De la Comisión General de Coordinación del Sistema.
 
@@ -720,7 +654,6 @@ d) el establecimiento de criterios generales básicos a que debe responder la ev
 
 3. Reglamentariamente se establecerá el régimen de organización, funcionamiento y competencias de la Comisión.
 
-
 #### Artículo 50. De las Comisiones Insulares de Coordinación del Sistema.
 
 1. Cada una de las Comisiones Insulares estará integrada, en la forma que se determine reglamentariamente, por:
@@ -753,7 +686,6 @@ un representante de las asociaciones de mujeres reconocidas legalmente y que ent
 
 Sección 3.ª De la colaboración interadministrativa
 
-
 #### Artículo 51. Colaboración interadministrativa.
 
 1. Las administraciones públicas canarias colaborarán, en todo momento, en el ejercicio de las competencias de atención integral a las mujeres víctimas de violencia o en situación de riesgo que tienen asignadas, a cuyo efecto están obligadas a:
@@ -776,7 +708,6 @@ CAPÍTULO III
 
 Registros administrativos
 
-
 #### Artículo 52. Creación de registros administrativos.
 
 1. La Administración pública de la Comunidad Autónoma de Canarias establecerá los registros administrativos necesarios para el ejercicio de las competencias que tiene atribuidas para la atención integral de las mujeres víctimas de violencia de género.
@@ -785,17 +716,13 @@ Registros administrativos
 
 3. El número, denominación, organización y funcionamiento de los registros de este artículo se establecerán reglamentariamente, respetando en todo caso los principios de intimidad, confidencialidad y obligación de reserva de sus inscripciones, así como el libre acceso del Ministerio Fiscal y los órganos judiciales en ejercicio de las funciones que le atribuya la legislación vigente.
 
-
 ## TÍTULO VI
 
-
 **De las entidades colaboradoras del sistema**
-
 
 #### Artículo 53. Entidades colaboradoras.
 
 Son entidades colaboradoras de las administraciones públicas, las fundaciones, asociaciones y cualesquiera otras que hayan sido reconocidas por la Administración Pública de la Comunidad Autónoma para desempeñar actividades y tareas de atención integral a las mujeres frente a situaciones de violencia de género que cumplan con los requisitos establecidos en el reglamento que desarrolle la presente Ley.
-
 
 #### Artículo 54. Repercusión de la violencia en la salud.
 
@@ -803,51 +730,41 @@ Son entidades colaboradoras de las administraciones públicas, las fundaciones, 
 
 2. Los planes y programas de la Consejería de Sanidad deberán incluir la formación de los profesionales del Servicio Canario de Salud para abordar de forma adecuada la violencia de género en base a las nuevas tipologías que se definen en la presente Ley.
 
-
 #### Disposición adicional primera.
 
 El Gobierno, en colaboración con los cabildos insulares, elaborará para cada isla, dentro de los planes sectoriales, un plan de centros asistenciales para la prevención y protección integral de la mujer contra la violencia de género a financiar conjuntamente por el Gobierno de Canarias y el cabildo correspondiente.
-
 
 #### Disposición adicional segunda.
 
 El Gobierno promoverá la suscripción de un convenio de colaboración con el Consejo General del Poder Judicial para articular la participación de la Comunidad Autónoma de Canarias en el Observatorio sobre la Violencia Doméstica constituido en su seno.
 
-
 #### Disposición adicional tercera. Viviendas de promoción pública.
 
 El Gobierno de Canarias, a través de la consejería competente en materia de Vivienda, regulará procesos específicos de adjudicación de viviendas de promoción pública a mujeres víctimas de la violencia de género.
-
 
 #### Disposición adicional cuarta. Informe anual al Parlamento.
 
 El Gobierno de Canarias remitirá al Parlamento un informe con carácter anual sobre la situación de la violencia de género en la Comunidad Autónoma canaria.
 
-
 #### Disposición adicional quinta. Alojamientos alternativos.
 
 Excepcionalmente, cuando no existan plazas disponibles en los centros y servicios que integran el sistema asistencial, el/la coordinador/a insular podrá disponer su ingreso temporal en otros alojamientos alternativos por el tiempo mínimo indispensable.
-
 
 #### Disposición transitoria primera.
 
 Los ayuntamientos de más de 100.000 habitantes presentarán, dentro de los doce meses siguientes a la entrada en vigor de la presente Ley, la creación de una unidad especial dentro de las policías locales de atención a mujeres víctimas de violencia de género, así como un programa especial de formación de los cuerpos policiales locales dirigido a la especialización en la prevención, detección y erradicación de la violencia de género, y también en la protección y asistencia a las víctimas de la misma, en orden a la consecución de la máxima eficacia en dichos objetivos, con el apoyo de la Academia Canaria de Seguridad.
 
-
 #### Disposición transitoria segunda.
 
 La Administración educativa procederá en el plazo de un año a la definición de los diseños curriculares para la consecución de los fines previstos en el artículo 17 de la presente Ley.
-
 
 #### Disposición derogatoria.
 
 Quedan derogadas cuantas disposiciones de igual o inferior rango contradigan o se opongan a lo dispuesto en la presente Ley.
 
-
 #### Disposición final primera. Desarrollo reglamentario.
 
 Se autoriza al Gobierno para dictar cuantas disposiciones sean necesarias para la aplicación y desarrollo de la presente Ley.
-
 
 #### Disposición final segunda.
 

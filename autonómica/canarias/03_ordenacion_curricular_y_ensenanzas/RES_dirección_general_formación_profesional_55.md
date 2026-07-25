@@ -31,9 +31,6 @@ fuente_pdf_oficial: https://sede.gobiernodecanarias.org/boc/boc-a-2025-134-2514.
 
 # Resolución de 26 de junio de 2025, de la Dirección General de Formación Profesional y Enseñanzas de Régimen Especial, por la que se dictan instrucciones específicas complementarias para el curso 2025/2026 sobre organización, funcionamiento y calendario de las Enseñanzas de Idiomas de Régimen Especial impartidas en las Escuelas Oficiales de Idiomas de la Comunidad Autónoma de Canarias (BOC núm.134, de 8 de julio).
 
-https://sede.gobiernodecanarias.org/boc
-boc-a-2025-134-2514
-Boletín Oficial de Canarias núm. 134 Martes 8 de julio de 202531132
 III. Otras Resoluciones
 Consejería de Educación, Formación Profesional, Actividad Física y Deportes
 2514 Dirección General de Formación Profesional y Enseñanzas de Régimen Especial.- 
@@ -75,9 +72,6 @@ del Estado. Además, en su artículo 35 se refiere a las Escuelas Oficiales de I
 regula aspectos básicos de las enseñanzas, tales como su finalidad y características, y la 
 certificación de idiomas.
 
-https://sede.gobiernodecanarias.org/boc
-boc-a-2025-134-2514
-Boletín Oficial de Canarias núm. 134 Martes 8 de julio de 202531133
 Tercero.- El Decreto 81/2010, de 8 de julio, por el que se aprueba el Reglamento 
 Orgánico de los centros docentes públicos no universitarios de la Comunidad Autónoma 
 de Canarias, determina en su disposición adicional tercera, sobre centros de características 
@@ -123,9 +117,6 @@ organización y funcionamiento de la Escuela Oficial de Idiomas a Distancia de C
 incluye las modalidades y formatos de los cursos ofertados a través de dicha escuela y su 
 organización y distribución horaria.
 
-https://sede.gobiernodecanarias.org/boc
-boc-a-2025-134-2514
-Boletín Oficial de Canarias núm. 134 Martes 8 de julio de 202531134
 Décimo.- La Resolución de 20 de febrero de 2025, de la Dirección General de 
 Administración de Centros, Escolarización y Servicios Complementarios, por la que se 
 establece el calendario escolar y se dictan instrucciones para la organización y desarrollo 
@@ -167,9 +158,6 @@ Oficiales de Idiomas.
 Esta Resolución también estará a disposición de las personas interesadas en la página 
 web de la Consejería de Educación, Formación Profesional, Actividad Física y Deportes.
 
-https://sede.gobiernodecanarias.org/boc
-boc-a-2025-134-2514
-Boletín Oficial de Canarias núm. 134 Martes 8 de julio de 202531135
 Contra la presente Resolución, que no pone fin a la vía administrativa, cabe interponer 
 en el plazo de un (1) mes, a contar desde el día siguiente al de su publicación, recurso de 
 alzada ante la Viceconsejería de Formación Profesional y Cualificaciones Profesionales, 
@@ -177,9 +165,6 @@ sin perjuicio de cualesquiera otros que se estime procedente interponer.
 Las Palmas de Gran Canaria, a 26 de junio de 2025.- La Directora General de Formación 
 Profesional y Enseñanzas de Régimen Especial, Carolina León Martínez.
 
-https://sede.gobiernodecanarias.org/boc
-boc-a-2025-134-2514
-Boletín Oficial de Canarias núm. 134 Martes 8 de julio de 202531136
 ANEXO
 1. AUTONOMÍA DE LOS CENTROS Y PROCESOS DE MEJORA.
 2. DISTRIBUCIÓN HORARIA DE LAS ENSEÑANZAS.
@@ -217,9 +202,6 @@ Pedagógica, el Claustro y el resto de la comunidad educativa, realizar propuest
 actualización del proyecto educativo (PE), el proyecto de gestión (PG) y las normas de 
 organización y funcionamiento (NOF). El equipo directivo será el encargado de actualizar 
 
-https://sede.gobiernodecanarias.org/boc
-boc-a-2025-134-2514
-Boletín Oficial de Canarias núm. 134 Martes 8 de julio de 202531137
 estos documentos, implementar las medidas acordadas y velar por el cumplimiento de los 
 criterios y objetivos de mejora fijados en consonancia con los objetivos de la Consejería de 
 Educación, Formación Profesional, Actividad Física y Deportes (en adelante, CEFPAFD).
@@ -260,9 +242,6 @@ sus necesidades.
 Los cursos de enseñanza reglada, en función de la modalidad en que se impartan, se 
 podrán organizar de la siguiente manera:
 
-https://sede.gobiernodecanarias.org/boc
-boc-a-2025-134-2514
-Boletín Oficial de Canarias núm. 134 Martes 8 de julio de 202531138
 a) Modalidad presencial.
 Extensión Duración Horas semanales Sesiones  semanales
 Cursos extensivos Anual 120 horas 4 horas 30 minutos 2 sesiones presenciales de 2 horas 15 minutos
@@ -308,9 +287,6 @@ Cursos anuales 60 horas 2 horas 15 minutos
 1 sesión síncrona de 30 minutos
 Bloque asíncrono de 40 minutos
 
-https://sede.gobiernodecanarias.org/boc
-boc-a-2025-134-2514
-Boletín Oficial de Canarias núm. 134 Martes 8 de julio de 202531139
 Duración Horas semanales Sesiones  semanales
 Cursos 
 cuatrimestrales 60 horas 4 horas 30 minutos
@@ -368,9 +344,6 @@ a) Docencia directa de grupos para el desarrollo del currículo.
 b) Desempeño de funciones directivas o de coordinación docente, tal como se recoge 
 en los apartados 3.2 y 3.3 de estas instrucciones.
 
-https://sede.gobiernodecanarias.org/boc
-boc-a-2025-134-2514
-Boletín Oficial de Canarias núm. 134 Martes 8 de julio de 202531140
 c) Elaboración de pruebas de certificación de idiomas, tal como se recoge en el apartado 
 3.4 de estas instrucciones.
 d) Otras actividades computadas como lectivas, tal como se recoge en el apartado 
@@ -412,9 +385,6 @@ del tipo de escuela, según la siguiente clasificación:
 5. Tipo D: escuelas que tengan de 10 a 19 grupos.
 6. Tipo E: escuelas que tengan menos de 10 grupos.
 
-https://sede.gobiernodecanarias.org/boc
-boc-a-2025-134-2514
-Boletín Oficial de Canarias núm. 134 Martes 8 de julio de 202531141
 Con carácter general, el cómputo de grupos utilizado en la determinación de la tipología 
 de cada EOI será, a efectos de la asignación del descuento de horas lectivas, el que exista 
 con fecha de 30 de junio de 2025.
@@ -468,9 +438,6 @@ B y C, podrá asignarse a un solo miembro del equipo directivo o dividirse en do
 de 2 horas y 15 minutos para ser distribuidos entre dos miembros, conforme a lo que el 
 equipo directivo determine.
 
-https://sede.gobiernodecanarias.org/boc
-boc-a-2025-134-2514
-Boletín Oficial de Canarias núm. 134 Martes 8 de julio de 202531142
 Se autorizará una jefatura de estudios adjunta en cada una de las siguientes circunstancias:
 a) EOI con un aula adscrita independiente del recinto principal y cuyo número de 
 grupos autorizados sea de, al menos, diez.
@@ -513,9 +480,6 @@ de estas instrucciones, existirá la figura de la coordinación de innovación y
 de la información y comunicación (TIC). En las escuelas tipo D y E, el equipo directivo 
 asumirá las funciones de esta coordinación.
 
-https://sede.gobiernodecanarias.org/boc
-boc-a-2025-134-2514
-Boletín Oficial de Canarias núm. 134 Martes 8 de julio de 202531143
 Quien ejerza la coordinación de innovación y en tecnologías de la información y 
 comunicación (TIC) se encargará de coordinar con carácter estable las iniciativas educativas 
 comunes a los distintos departamentos en el ámbito de la renovación pedagógica. Además, 
@@ -559,9 +523,6 @@ k) Cualquier otra función que le sea atribuida por los órganos de gobierno del
 por la 
 DGFPERE.
 
-https://sede.gobiernodecanarias.org/boc
-boc-a-2025-134-2514
-Boletín Oficial de Canarias núm. 134 Martes 8 de julio de 202531144
 3.4. Elaboración de pruebas de certificación de idiomas.
 Atendiendo al artículo 7.3 del Real Decreto 1041/2017, de 22 de diciembre, y el artículo 
 5.1 del Real Decreto 1/2019, de 11 de enero, será el profesorado de las Escuelas Oficiales 
@@ -613,9 +574,6 @@ Coordinación: 9 horas
 Redacción: 4 horas 30 minutos
 Hasta 2 pruebas 4’5 horas Redacción: 4 horas 30 minutos
 
-https://sede.gobiernodecanarias.org/boc
-boc-a-2025-134-2514
-Boletín Oficial de Canarias núm. 134 Martes 8 de julio de 202531145
 Las comisiones que deban elaborar más de 16 pruebas contarán con un apoyo a la 
 coordinación que tendrá una asignación horaria semanal de 4,5 horas y que será de aplicación a 
 un único miembro de la comisión, sin que pueda ser asumido por la propia persona coordinadora.
@@ -682,9 +640,6 @@ de 2026.
 1 No se sumarán descuentos lectivos correspondientes a proyectos KA121-ADU y KA122-ADU de distintas 
 convocatorias.
 
-https://sede.gobiernodecanarias.org/boc
-boc-a-2025-134-2514
-Boletín Oficial de Canarias núm. 134 Martes 8 de julio de 202531146
 Las actividades ordinarias del curso escolar se iniciarán el 1 de septiembre de 2025 y 
 finalizarán el 30 de junio de 2026.
 Las actividades propiamente lectivas del curso 2025/2026 tendrán las fechas que se 
@@ -730,9 +685,6 @@ en el centro establecido con carácter general para el personal docente no unive
 centros públicos en la Orden de 9 de octubre de 2013, y se ajustará a lo indicado en la 
 Orden de 16 de julio de 2019 y en la Orden de 28 de septiembre de 2023.
 
-https://sede.gobiernodecanarias.org/boc
-boc-a-2025-134-2514
-Boletín Oficial de Canarias núm. 134 Martes 8 de julio de 202531147
 Igualmente, podrán constituirse tribunales para administrar y evaluar las pruebas de 
 certificación que se convoquen en fechas distintas a las de la convocatoria anual general 
 para alumnado escolarizado y aspirantes libres. Las personas que integren estos tribunales 
@@ -781,9 +733,6 @@ De acuerdo con lo establecido en el artículo 49.4 de la Orden de 9 de octubre d
 2013, por la que se desarrolla el Decreto 81/2010, de 8 de julio, por el que se aprueba el 
 Reglamento Orgánico de los centros docentes públicos no universitarios de la Comunidad 
 
-https://sede.gobiernodecanarias.org/boc
-boc-a-2025-134-2514
-Boletín Oficial de Canarias núm. 134 Martes 8 de julio de 202531148
 Autónoma de Canarias, podrá incorporarse nuevo alumnado que no haya obtenido plaza 
 en el periodo de solicitud de plaza para ese curso, siempre que queden plazas suficientes y 
 con la fecha límite del día anterior al comienzo del periodo de solicitud de plaza del curso 
@@ -825,9 +774,6 @@ texto y materiales curriculares seleccionados en el tablón de anuncios, según 
 vigente y los criterios establecidos en la programación general anual (PGA), especificando 
 el título, la autoría, el curso, la empresa editorial y el soporte requerido.
 
-https://sede.gobiernodecanarias.org/boc
-boc-a-2025-134-2514
-Boletín Oficial de Canarias núm. 134 Martes 8 de julio de 202531149
 Los libros de texto y demás materiales curriculares permanecerán vigentes, al menos, 
 durante cinco cursos académicos. No obstante, los departamentos de coordinación didáctica 
 podrán proponer su sustitución antes de finalizar el periodo de vigencia. A estos efectos, 

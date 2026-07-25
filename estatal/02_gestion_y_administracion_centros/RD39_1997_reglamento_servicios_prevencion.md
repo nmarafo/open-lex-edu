@@ -57,13 +57,11 @@ En relación con las capacidades o aptitudes necesarias para el desarrollo de la
 
 En su virtud, a propuesta del Ministro de Trabajo y Asuntos Sociales, oída la Comisión Nacional de Seguridad y Salud en el Trabajo, consultadas las organizaciones sindicales y asociaciones empresariales más representativas, previa aprobación del Ministro de Administraciones Públicas, de acuerdo con el Consejo de Estado y previa deliberación del Consejo de Ministros en su reunión del día 17 de enero de 1997.
 
-
 **DISPONGO:**
 
 CAPITULO I
 
 Disposiciones generales
-
 
 #### Artículo 1. Integración de la actividad preventiva.
 
@@ -74,7 +72,6 @@ La integración de la prevención en todos los niveles jerárquicos de la empres
 2. Los trabajadores tendrán derecho a participar, en los términos previstos en el capítulo V de la Ley de Prevención de Riesgos Laborales, en el diseño, la adopción y el cumplimiento de las medidas preventivas.
 
 Dicha participación incluye la consulta acerca de la evaluación de los riesgos y de la consiguiente planificación y organización de la actividad preventiva, en su caso, así como el acceso a la documentación correspondiente, en los términos señalados en los artículos 33 y 36 de la Ley de Prevención de Riesgos Laborales.
-
 
 #### Artículo 2. Acción de la empresa en materia de prevención de riesgos.
 
@@ -92,7 +89,6 @@ Evaluación de los riesgos y planificación de la actividad preventiva
 
 SECCION 1.ª EVALUACION DE LOS RIESGOS
 
-
 #### Artículo 3. Definición.
 
 1. La evaluación de los riesgos laborales es el proceso dirigido a estimar la magnitud de aquellos riesgos que no hayan podido evitarse, obteniendo la información necesaria para que el empresario esté en condiciones de tomar una decisión apropiada sobre la necesidad de adoptar medidas preventivas y, en tal caso, sobre el tipo de medidas que deben adoptarse.
@@ -104,7 +100,6 @@ a) Eliminar o reducir el riesgo, mediante medidas de prevención en el origen, o
 b) Controlar periódicamente las condiciones, la organización y los métodos de trabajo y el estado de salud de los trabajadores.
 
 2. De acuerdo con lo previsto en el artículo 33 de la Ley de Prevención de Riesgos Laborales, el empresario deberá consultar a los representantes de los trabajadores, o a los propios trabajadores en ausencia de representantes, acerca del procedimiento de evaluación a utilizar en la empresa o centro de trabajo.
-
 
 #### Artículo 4. Contenido general de la evaluación.
 
@@ -125,7 +120,6 @@ b) El cambio en las condiciones de trabajo.
 c) La incorporación de un trabajador cuyas características personales o estado biológico conocido lo hagan especialmente sensible a las condiciones del puesto.
 
 3. La evaluación de los riesgos se realizará mediante la intervención de personal competente, de acuerdo con lo dispuesto en el capítulo VI de esta norma.
-
 
 #### Artículo 5. Procedimiento.
 
@@ -149,7 +143,6 @@ c) Normas internacionales.
 
 d) En ausencia de los anteriores, guías de otras entidades de reconocido prestigio en la materia u otros métodos o criterios profesionales descritos documentalmente que cumplan lo establecido en el primer párrafo del apartado 2 de este artículo y proporcionen un nivel de confianza equivalente.
 
-
 #### Artículo 6. Revisión.
 
 1. La evaluación inicial a que se refiere el artículo 4 deberá revisarse cuando así lo establezca una disposición específica.
@@ -166,7 +159,6 @@ d) El análisis de la situación epidemiológica según los datos aportados por 
 
 2. Sin perjuicio de lo señalado en el apartado anterior, deberá revisarse igualmente la evaluación inicial con la periodicidad que se acuerde entre la empresa y los representantes de los trabajadores, teniendo en cuenta, en particular, el deterioro por el transcurso del tiempo de los elementos que integran el proceso productivo.
 
-
 #### Artículo 7. Documentación.
 
 En la documentación a que hace referencia el párrafo a) del apartado 1 del artículo 23 de la Ley de Prevención de Riesgos Laborales deberán reflejarse, para cada puesto de trabajo cuya evaluación ponga de manifiesto la necesidad de tomar alguna medida preventiva, los siguientes datos:
@@ -181,13 +173,11 @@ d) La referencia de los criterios y procedimientos de evaluación y de los méto
 
 SECCION 2.ª PLANIFICACION DE LA ACTIVIDAD PREVENTIVA
 
-
 #### Artículo 8. Necesidad de la planificación.
 
 Cuando el resultado de la evaluación pusiera de manifiesto situaciones de riesgo, el empresario planificará la actividad preventiva que proceda con objeto de eliminar o controlar y reducir dichos riesgos, conforme a un orden de prioridades en función de su magnitud y número de trabajadores expuestos a los mismos.
 
 En la planificación de esta actividad preventiva se tendrá en cuenta la existencia, en su caso, de disposiciones legales relativas a riesgos específicos, así como los principios de acción preventiva señalados en el artículo 15 de la Ley de Prevención de Riesgos Laborales.
-
 
 #### Artículo 9. Contenido.
 
@@ -200,7 +190,6 @@ En la planificación de esta actividad preventiva se tendrá en cuenta la existe
 CAPITULO III
 
 Organización de recursos para las actividades preventivas
-
 
 #### Artículo 10. Modalidades.
 
@@ -218,7 +207,6 @@ d) Recurriendo a un servicio de prevención ajeno.
 
 3. Los servicios de prevención tendrán carácter interdisciplinario, entendiendo como tal la conjunción coordinada de dos o más disciplinas técnicas o científicas en materia de prevención de riesgos laborales.
 
-
 #### Artículo 11. Asunción personal por el empresario de la actividad preventiva.
 
 1. El empresario podrá desarrollar personalmente la actividad de prevención, con excepción de las actividades relativas a la vigilancia de la salud de los trabajadores, cuando concurran las siguientes circunstancias:
@@ -232,7 +220,6 @@ c) Que desarrolle de forma habitual su actividad profesional en el centro de tra
 d) Que tenga la capacidad correspondiente a las funciones preventivas que va a desarrollar, de acuerdo con lo establecido en el capítulo VI.
 
 2. La vigilancia de la salud de los trabajadores, así como aquellas otras actividades preventivas no asumidas personalmente por el empresario, deberán cubrirse mediante el recurso a alguna de las restantes modalidades de organización preventiva previstas en este capítulo.
-
 
 #### Artículo 12. Designación de trabajadores.
 
@@ -248,13 +235,11 @@ b) Haya recurrido a un servicio de prevención propio.
 
 c) Haya recurrido a un servicio de prevención ajeno.
 
-
 #### Artículo 13. Capacidad y medios de los trabajadores designados.
 
 1. Para el desarrollo de la actividad preventiva, los trabajadores designados deberán tener la capacidad correspondiente a las funciones a desempeñar, de acuerdo con lo establecido en el capítulo VI.
 
 2. El número de trabajadores designados, así como los medios que el empresario ponga a su disposición y el tiempo de que dispongan para el desempeño de su actividad, deberán ser los necesarios para desarrollar adecuadamente sus funciones.
-
 
 #### Artículo 14. Servicio de prevención propio.
 
@@ -267,7 +252,6 @@ b) Que, tratándose de empresas de entre 250 y 500 trabajadores, desarrollen alg
 c) Que, tratándose de empresas no incluidas en los apartados anteriores, así lo decida la autoridad laboral, previo informe de la Inspección de Trabajo y Seguridad Social y, en su caso, de los órganos técnicos en materia preventiva de las Comunidades Autónomas, en función de la peligrosidad de la actividad desarrollada o de la frecuencia o gravedad de la siniestralidad en la empresa, salvo que se opte por el concierto con una entidad especializada ajena a la empresa de conformidad con lo dispuesto en el artículo 16 de esta disposición.
 
 Teniendo en cuenta las circunstancias existentes, la resolución de la autoridad laboral fijará un plazo, no superior a un año, para que, en el caso de que se optase por un servicio de prevención propio, la empresa lo constituya en dicho plazo. Hasta la fecha señalada en la resolución, las actividades preventivas en la empresa deberán ser concertadas con una entidad especializada ajena a la empresa, salvo de aquellas que vayan siendo asumidas progresivamente por la empresa mediante la designación de trabajadores, hasta su plena integración en el servicio de prevención que se constituya.
-
 
 #### Artículo 15. Organización y medios de los servicios de prevención propios.
 
@@ -287,7 +271,6 @@ Las actividades de los integrantes del servicio de prevención se coordinarán c
 
 5. La empresa deberá elaborar anualmente y mantener a disposición de las autoridades laborales y sanitarias competentes la memoria y programación anual del servicio de prevención a que se refiere el párrafo d) del apartado 2 del artículo 39 de la Ley de Prevención de Riesgos Laborales.
 
-
 #### Artículo 16. Servicios de prevención ajenos.
 
 1. El empresario deberá recurrir a uno o varios servicios de prevención ajenos, que colaborarán entre sí cuando sea necesario, cuando concurra alguna de las siguientes circunstancias:
@@ -299,7 +282,6 @@ b) Que en el supuesto a que se refiere el párrafo c) del artículo 14 no se hay
 c) Que se haya producido una asunción parcial de la actividad preventiva en los términos previstos en el apartado 2 del artículo 11 y en el apartado 4 del artículo 15 de la presente disposición.
 
 2. De conformidad con lo dispuesto en el apartado 1 del artículo 33 de la Ley de Prevención de Riesgos Laborales, los representantes de los trabajadores deberán ser consultados por el empresario con carácter previo a la adopción de la decisión de concertar la actividad preventiva con uno o varios servicios de prevención ajenos.
-
 
 #### Artículo 17. Requisitos de las entidades especializadas para poder actuar como servicios de prevención.
 
@@ -314,7 +296,6 @@ c) No mantener con las empresas concertadas vinculaciones comerciales, financier
 d) Obtener la aprobación de la Administración sanitaria, en cuanto a los aspectos de carácter sanitario.
 
 e) Ser objeto de acreditación por la Administración laboral.
-
 
 #### Artículo 18. Recursos materiales y humanos de las entidades especializadas que actúen como servicios de prevención.
 
@@ -332,11 +313,9 @@ b) Las instalaciones e instrumentación necesarias para realizar las pruebas, re
 
 4. La autoridad laboral, previo informe, en su caso, de la sanitaria en cuanto a los aspectos de carácter sanitario, podrá eximir del cumplimiento de alguna de las condiciones señaladas a los servicios de prevención en el apartado 2.a), a solicitud de los mismos, en función del tipo de empresas al que extiende su ámbito y de los riesgos existentes en las mismas, siempre que quede suficientemente garantizada su actuación interdisciplinar en relación con dichas empresas.
 
-
 #### Artículo 19. Funciones de las entidades especializadas que actúen como servicios de prevención.
 
 Las entidades especializadas que actúen como servicios de prevención deberán asumir directamente el desarrollo de las funciones señaladas en el apartado 3 del artículo 31 de la Ley de Prevención de Riesgos Laborales que hubieran concertado, teniendo presente la integración de la prevención en el conjunto de actividades de la empresa y en todos los niveles jerárquicos de la misma, sin perjuicio de que puedan subcontratar los servicios de otros profesionales o entidades cuando sea necesario para la realización de actividades que requieran conocimientos especiales o instalaciones de gran complejidad.
-
 
 #### Artículo 20. Concierto de la actividad preventiva.
 
@@ -358,7 +337,6 @@ f) Condiciones económicas del concierto.
 
 Igualmente, deberán facilitar a las empresas para las que actúen como servicios de prevención la memoria y la programación anual a las que se refiere el apartado 2.d) del artículo 39 de la Ley de Prevención de Riesgos Laborales, a fin de que pueda ser conocida por el Comité de Seguridad y Salud en los términos previstos en el artículo citado.
 
-
 #### Artículo 21. Servicios de prevención mancomunados.
 
 1. Podrán constituirse servicios de prevención mancomunados entre aquellas empresas que desarrollen simultáneamente actividades en un mismo centro de trabajo, edificio o centro comercial, siempre que quede garantizada la operatividad y eficacia del servicio en los términos previstos en el apartado 3 del artículo 15 de esta disposición.
@@ -373,16 +351,13 @@ Por negociación colectiva o mediante los acuerdos a que se refiere el artículo
 
 5. El servicio de prevención mancomunado deberá tener a disposición de la autoridad laboral la información relativa a las empresas que lo constituyen y al grado de participación de las mismas.
 
-
 #### Artículo 22. Actuación de las Mutuas de Accidentes de Trabajo y Enfermedades Profesionales de la Seguridad Social como servicios de prevención.
 
 La actuación de las Mutuas de Accidentes de Trabajo y Enfermedades Profesionales de la Seguridad Social como servicios de prevención se desarrollará en las mismas condiciones que las aplicables a los servicios de prevención ajenos, teniendo en cuenta las prescripciones contenidas al respecto en la normativa específica aplicable a dichas entidades.
 
 CAPITULO IV
 
-
 **Acreditación de entidades especializadas como servicios de prevención ajenos a las empresas**
-
 
 #### Artículo 23. Solicitud de acreditación.
 
@@ -398,13 +373,11 @@ d) Compromiso de suscribir una póliza de seguro que cubra su responsabilidad, p
 
 e) Actividades especializadas que, en su caso, tiene previsto contratar con otras entidades.
 
-
 #### Artículo 24. Autoridad competente.
 
 1. Será autoridad laboral competente para conocer de las solicitudes de acreditación formuladas por las entidades especializadas que pretendan actuar como servicios de prevención el órgano competente de la Comunidad Autónoma que haya recibido el correspondiente traspaso de servicios o, en su defecto, la Dirección Provincial de Trabajo y Asuntos Sociales de la provincia donde radiquen sus instalaciones principales.
 
 2. La acreditación otorgada tendrá validez para todo el ámbito del Estado, de acuerdo con los criterios de coordinación establecidos por la Comisión Nacional de Seguridad y Salud en el Trabajo.
-
 
 #### Artículo 25. Aprobación provisional.
 
@@ -417,7 +390,6 @@ e) Actividades especializadas que, en su caso, tiene previsto contratar con otra
 4. La resolución prevista en el apartado anterior que autorice provisionalmente tendrá carácter definitivo cuando la entidad especializada, al tiempo de formular la solicitud, acredite la efectiva realización del proyecto, en los términos señalados en el artículo siguiente.
 
 5. Contra la resolución expresa o presunta de la autoridad laboral podrá interponerse recurso ordinario en el plazo de un mes ante el órgano superior jerárquico correspondiente.
-
 
 #### Artículo 26. Acreditación.
 
@@ -449,7 +421,6 @@ Contra la resolución expresa o presunta de la autoridad laboral cabrá la inter
 
 5. Las entidades especializadas podrán desarrollar su actividad como servicio de prevención una vez obtenida la acreditación mediante la ratificación de la autorización provisional.
 
-
 #### Artículo 27. Mantenimiento de las condiciones de acreditación.
 
 1. Las entidades especializadas deberán mantener las condiciones en que se basó su acreditación como servicios de prevención. Cualquier modificación de las mismas será comunicada a la autoridad laboral que la concedió.
@@ -457,7 +428,6 @@ Contra la resolución expresa o presunta de la autoridad laboral cabrá la inter
 2. Las autoridades laboral y sanitaria podrán verificar, en el ámbito de sus competencias, el cumplimiento de las condiciones exigibles para el desarrollo de las actividades del servicio, comunicando a la autoridad laboral que concedió la acreditación las deficiencias detectadas con motivo de tales verificaciones.
 
 3. Si como resultado de las comprobaciones efectuadas, bien directamente o a través de las comunicaciones señaladas en el apartado anterior, la autoridad laboral que concedió la acreditación comprobara el incumplimiento de requisitos que determinaron aquélla, podrá extinguir la acreditación otorgada.
-
 
 #### Artículo 28. Registro.
 
@@ -473,7 +443,6 @@ CAPITULO V
 
 Auditorías
 
-
 #### Artículo 29. Ámbito de aplicación.
 
 1. Las auditorías o evaluaciones externas serán obligatorias en los términos establecidos en el presente capítulo cuando, como consecuencia de la evaluación de los riesgos, las empresas tengan que desarrollar actividades preventivas para evitar o disminuir los riesgos derivados del trabajo.
@@ -488,7 +457,6 @@ La autoridad laboral registrará y ordenará según las actividades de las empre
 
 4. Teniendo en cuenta la notificación prevista en el apartado anterior, la documentación establecida en el artículo 7 y la situación individualizada de la empresa, a la vista de los datos de siniestralidad de la empresa o del sector, de informaciones o de otras circunstancias que pongan de manifiesto la peligrosidad de las actividades desarrolladas o la inadecuación del sistema de prevención, la autoridad laboral, previo informe de la Inspección de Trabajo y Seguridad Social y, en su caso, de los órganos técnicos en materia preventiva de las Comunidades Autónomas, podrá requerir la realización de una auditoría a las empresas referidas en el citado apartado, de conformidad con lo dispuesto en el apartado 2.
 
-
 #### Artículo 30. Concepto y objetivos.
 
 La auditoría, como instrumento de gestión que ha de incluir una evaluación sistemática, documentada y objetiva de la eficacia del sistema de prevención, deberá ser realizada de acuerdo con las normas técnicas establecidas o que puedan establecerse y teniendo en cuenta la información recibida de los trabajadores, y tendrá como objetivos:
@@ -499,11 +467,9 @@ b) Comprobar que el tipo y planificación de las actividades preventivas se ajus
 
 c) Analizar la adecuación entre los procedimientos y medios requeridos para realizar las actividades preventivas mencionadas en el párrafo anterior y los recursos de que dispone el empresario, propios o concertados, teniendo en cuenta, además, el modo en que están organizados o coordinados, en su caso.
 
-
 #### Artículo 31. Documentación.
 
 Los resultados de la auditoría deberán quedar reflejados en un informe que la empresa auditada deberá mantener a disposición de la autoridad laboral competente y de los representantes de los trabajadores.
-
 
 #### Artículo 32. Requisitos.
 
@@ -514,7 +480,6 @@ Los resultados de la auditoría deberán quedar reflejados en un informe que la 
 Del mismo modo, tales personas no podrán realizar para la misma o distinta empresa actividades en calidad de entidad especializada para actuar como servicio de prevención, ni mantener con estas últimas vinculaciones comerciales, financieras o de cualquier otro tipo distintas de las que concierte la propia auditora como empresa para desarrollar las actividades de prevención en el seno de la misma.
 
 3. Cuando la complejidad de las verificaciones a realizar lo haga necesario, las personas o entidades encargadas de llevar a cabo la auditoría podrán recurrir a otros profesionales que cuenten con los conocimientos, medios e instalaciones necesarios para la realización de aquéllas.
-
 
 #### Artículo 33. Autorización.
 
@@ -530,7 +495,6 @@ CAPITULO VI
 
 Funciones y niveles de cualificación
 
-
 #### Artículo 34. Clasificación de las funciones.
 
 A efectos de determinación de las capacidades y aptitudes necesarias para la evaluación de los riesgos y el desarrollo de la actividad preventiva, las funciones a realizar se clasifican en los siguientes grupos:
@@ -544,7 +508,6 @@ c) Funciones de nivel superior, correspondientes a las especialidades y discipli
 Las funciones que se recogen en los artículos siguientes serán las que orienten los distintos proyectos y programas formativos desarrollados para cada nivel.
 
 Estos proyectos y programas deberán ajustarse a los criterios generales y a los contenidos formativos mínimos que se establecen para cada nivel en los anexos III a VI.
-
 
 #### Artículo 35. Funciones de nivel básico.
 
@@ -574,7 +537,6 @@ En los supuestos contemplados en los párrafos b) y c), los niveles de cualifica
 
 3. La formación mínima prevista en el párrafo a) del apartado anterior se acreditará mediante certificación de formación específica en materia de prevención de riesgos laborales, emitida por un servicio de prevención o por una entidad pública o privada con capacidad para desarrollar actividades formativas específicas en esta materia.
 
-
 #### Artículo 36. Funciones de nivel intermedio.
 
 1. Las funciones correspondientes al nivel intermedio son las siguientes:
@@ -596,7 +558,6 @@ g) Colaborar con los servicios de prevención, en su caso.
 h) Cualquier otra función asignada como auxiliar, complementaria o de colaboración del nivel superior.
 
 2. Para desempeñar las funciones referidas en el apartado anterior, será preciso poseer una formación mínima con el contenido especificado en el programa a que se refiere el anexo V y cuyo desarrollo tendrá una duración no inferior a 300 horas y una distribución horaria adecuada a cada proyecto formativo, respetando la establecida en el anexo citado.
-
 
 #### Artículo 37. Funciones de nivel superior.
 
@@ -650,13 +611,11 @@ CAPITULO VII
 
 Colaboración de los servicios de prevención con el Sistema Nacional de Salud
 
-
 #### Artículo 38. Colaboración con el Sistema Nacional de Salud.
 
 1. De acuerdo con lo establecido en el artículo 10 de la Ley 31/1995, de Prevención de Riesgos Laborales, y artículo 21 de la Ley 14/1986, General de Sanidad, el servicio de prevención colaborará con los servicios de atención primaria de salud y de asistencia sanitaria especializada para el diagnóstico, tratamiento y rehabilitación de enfermedades relacionadas con el trabajo, y con las Administraciones sanitarias competentes en la actividad de salud laboral que se planifique, siendo las unidades responsables de salud pública del Área de Salud, que define la Ley General de Sanidad, las competentes para la coordinación entre los servicios de prevención que actúen en esa Area y el sistema sanitario. Esta coordinación será desarrollada por las Comunidades Autónomas en el ámbito de sus competencias.
 
 2. El servicio de prevención colaborará en las campañas sanitarias y epidemiológicas organizadas por las Administraciones públicas competentes en materia sanitaria.
-
 
 #### Artículo 39. Información sanitaria.
 
@@ -668,7 +627,6 @@ Colaboración de los servicios de prevención con el Sistema Nacional de Salud
 
 [encabezado]DISPOSICIONES ADICIONALES
 
-
 #### [precepto]Primera. Carácter básico.
 
 1. El presente Reglamento constituye legislación laboral, dictada al amparo del artículo 149.1.7.ª de la Constitución.
@@ -679,18 +637,15 @@ a) Los artículos que a continuación se relacionan constituyen normas básicas 
 
 b) En el ámbito de las Comunidades Autónomas y las entidades locales, las funciones que el Reglamento atribuye a las autoridades laborales y a la Inspección de Trabajo y Seguridad Social podrán ser atribuidas a órganos diferentes.
 
-
 #### [precepto]Segunda. Integración en los servicios de prevención.
 
 De conformidad con lo dispuesto en el párrafo d) de la disposición derogatoria única de la Ley de Prevención de Riesgos Laborales, el personal perteneciente a los servicios médicos de empresa en la fecha de entrada en vigor de dicha Ley se integrará en los servicios de prevención de las correspondientes empresas, cuando éstos se constituyan, sin perjuicio de que continúen efectuando aquellas funciones que tuvieran atribuidas, distintas de las propias del servicio de prevención.
-
 
 #### [precepto]Tercera. Mantenimiento de la actividad preventiva.
 
 1. La aplicación del presente Real Decreto no afectará a la continuación de la actividad sanitaria que se ha venido desarrollando en las empresas al amparo de las normas reguladoras de los servicios médicos de empresa que se derogan y de sus disposiciones de aplicación y desarrollo, aunque dichas empresas no constituyan servicios de prevención.
 
 2. Tampoco afectará la aplicación del presente Real Decreto al mantenimiento de la actividad preventiva desarrollada por los servicios de seguridad e higiene en el trabajo existentes en las empresas en la fecha de publicación de la Ley de Prevención de Riesgos Laborales, aún cuando no concurran las circunstancias previstas en el artículo 14 del mismo.
-
 
 #### [precepto]Cuarta. Aplicación a las Administraciones públicas.
 
@@ -704,7 +659,6 @@ La normativa específica prevista en el apartado anterior deberá establecer los
 
 3. Las referencias a la negociación colectiva y a los acuerdos a que se refiere el artículo 83, apartado 3, del Estatuto de los Trabajadores contenidas en el presente Reglamento se entenderán referidas, en el caso de las relaciones de carácter administrativo o estatutario del personal al servicio de las Administraciones públicas, a los acuerdos y pactos que se concluyan en los términos señalados en la Ley 7/1990, de 19 de julio, sobre negociación colectiva y participación en la determinación de las condiciones de trabajo de los empleados públicos.
 
-
 #### [precepto]Quinta. Convalidación de funciones.
 
 Quienes en la fecha de publicación de la Ley de Prevención de Riesgos Laborales vinieran realizando las funciones señaladas en los artículos 36 y 37 de esta norma y no cuenten con la formación mínima prevista en dichos preceptos, podrán continuar desempeñando tales funciones en la empresa o entidad en que la viniesen desarrollando, siempre que reúnan los requisitos siguientes:
@@ -715,21 +669,17 @@ b) Acreditar una formación específica en materia preventiva no inferior a 100 
 
 Lo dispuesto en el párrafo anterior no será de aplicación al personal sanitario, que continuará rigiéndose por su normativa específica.
 
-
 #### [precepto]Sexta. Reconocimientos médicos previos al embarque de los trabajadores del mar.
 
 En el sector marítimo-pesquero seguirá en vigor lo establecido, en materia de formación, información, educación y práctica de los reconocimientos médicos previos al embarque, en el Real Decreto 1414/1981, de 3 de julio, por el que se reestructura el Instituto Social de la Marina.
-
 
 #### [precepto]Séptima. Negociación colectiva.
 
 En la negociación colectiva o mediante los acuerdos a que se refiere el artículo 83, apartado 3, del Estatuto de los Trabajadores, podrán establecerse criterios para la determinación de los medios personales y materiales de los servicios de prevención propios, del número de trabajadores designados, en su caso, por el empresario para llevar a cabo actividades de prevención y del tiempo y los medios de que dispongan para el desempeño de su actividad, en función del tamaño de la empresa, de los riesgos a que estén expuestos los trabajadores y de su distribución en la misma, así como en materia de planificación de la actividad preventiva y para la formación en materia preventiva de los trabajadores y de los delegados de prevención.
 
-
 #### [precepto]Octava. Criterios de acreditación y autorización.
 
 La Comisión Nacional de Seguridad y Salud en el Trabajo conocerá los criterios adoptados por las Administraciones laboral y sanitaria en relación con la acreditación de las entidades especializadas para poder actuar como servicios de prevención y con la autorización de las personas físicas o jurídicas que quieran desarrollar la actividad de auditoría, con el fin de poder informar y formular propuestas dirigidas a una adecuada coordinación entre las Administraciones.
-
 
 #### [precepto]Novena. Disposiciones supletorias en materia de procedimientos administrativos.
 
@@ -737,18 +687,15 @@ En materia de procedimientos administrativos, en todo lo no previsto expresament
 
 [encabezado]DISPOSICIONES TRANSITORIAS
 
-
 #### [precepto]Primera. Constitución de servicio de prevención propio.
 
 Sin perjuicio del mantenimiento de aquellas actividades preventivas que se estuvieran realizando en la empresa en la fecha de entrada en vigor de esta disposición, los servicios de prevención propios que deban constituir las empresas de más de 250 trabajadores y hasta 1.000 trabajadores, de conformidad con lo dispuesto en los párrafos a) y b) del artículo 14, deberán estar en funcionamiento a más tardar el 1 de enero de 1999, con excepción de las empresas que realizan alguna de las actividades incluidas en el anexo I que lo harán el 1 de enero de 1998.
 
 Hasta la fecha señalada en el párrafo anterior, las actividades preventivas en las empresas citadas deberán ser concertadas con una entidad especializada ajena a la empresa, salvo aquellas que vayan siendo asumidas progresivamente por la empresa mediante la designación de trabajadores, hasta su plena integración en el servicio de prevención que se constituya.
 
-
 #### [precepto]Segunda. Acreditación de Mutuas de Accidentes de Trabajo y Enfermedades Profesionales de la Seguridad Social.
 
 A las Mutuas de Accidentes de Trabajo y Enfermedades Profesionales que al amparo de la autorización contenida en la disposición transitoria segunda de la Ley de Prevención de Riesgos Laborales desarrollen las funciones correspondientes a los servicios de prevención en relación con sus empresas asociadas, les será de aplicación lo establecido en los artículos 23 a 27 de esta norma en materia de acreditación y requisitos.
-
 
 #### [precepto]Tercera. Acreditación de la formación.
 
@@ -756,11 +703,9 @@ En tanto no se determinen por las autoridades competentes en materia educativa l
 
 La certificación acreditativa de la formación se expedirá previa comprobación de que se ha cursado un programa con el contenido establecido en los anexos V o VI de la presente disposición y se ha superado una prueba de evaluación sobre dicho programa, o de que se cuenta con una formación equivalente que haya sido legalmente exigida para el ejercicio de una actividad profesional.
 
-
 #### [precepto]Cuarta. Aplicación transitoria de los criterios de gestión de la prevención de riesgos laborales en hospitales y centros sanitarios públicos.
 
 En tanto se desarrolla lo previsto en la disposición adicional cuarta, «Aplicación a las Administraciones públicas», la prevención de riesgos laborales en los hospitales y centros sanitarios públicos seguirá gestionándose con arreglo a los criterios y procedimientos hasta ahora vigentes, de modo que queden garantizadas las funciones de vigilancia y control de la salud de los trabajadores y las demás actividades de prevención a que se refiere el presente Reglamento. A estos efectos, se coordinarán las actividades de medicina preventiva con las demás funciones relacionadas con la prevención en orden a conseguir una actuación integrada e interdisciplinaria.
-
 
 #### Disposición derogatoria única. Alcance de la derogación normativa.
 
@@ -770,15 +715,11 @@ El presente Real Decreto no afecta a la vigencia de las disposiciones especiales
 
 [encabezado]DISPOSICIONES FINALES
 
-
 #### [precepto]Primera. Habilitación reglamentaria.
 
 Se autoriza al Ministro de Trabajo y Asuntos Sociales, previo informe de la Comisión Nacional de Seguridad y Salud en el Trabajo, para dictar cuantas disposiciones sean necesarias para la aplicación de lo establecido en el presente Real Decreto.
 
-
 #### [precepto]Segunda. Entrada en vigor.
-
-El presente Real Decreto entrará en vigor a los dos meses de su publicación en el «Boletín Oficial del Estado», a excepción del apartado 2 de los artículos 35, 36 y 37 del capítulo VI que lo harán a los doce meses.
 
 Dado en Madrid a 17 de enero de 1997.
 

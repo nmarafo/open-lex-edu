@@ -48,10 +48,8 @@ fuente_pdf_oficial: https://sede.gobiernodecanarias.org/boc/boc-a-2013-200-5076.
 
 # Orden de 9 de octubre de 2013, por la que se desarrolla el Decreto 81/2010, de 8 de julio, por el que se aprueba el Reglamento Orgánico de los centros docentes públicos no universitarios de la Comunidad Autónoma de Canarias, en lo referente a su organización y funcionamiento.
 
-Boletín Oficial de Canarias núm. 200
 https://sede.gobcan.es/cpji/boc
 Miércoles 16 de octubre de 2013
-26114
 I. Disposiciones generales
 Consejería de Educación, Universidades y Sostenibilidad
 5076 ORDEN de 9 de octubre de 2013, por la que se desarrolla el Decreto 81/2010, de 
@@ -91,13 +89,9 @@ tro se hacen apreciables no solo en las citadas pruebas de diagnóstico sino tam
 cialmente, en las tasas de idoneidad, absentismo, titulación y abandono escolar temprano. 
 El conjunto de estas tasas proporciona a los centros un cuadro de indicadores de enorme 
 utilidad para valorar el uso eficaz de las competencias que tienen atribuidas y les permite 
-boc-a-2013-200-5076
 
-
-Boletín Oficial de Canarias núm. 200
 https://sede.gobcan.es/cpji/boc
 Miércoles 16 de octubre de 2013
-26115
 adecuar perfectamente su proyecto educativo a los compromisos, tanto nacionales como 
 internacionales, asumidos por el sistema educativo en el que están insertos. Esta adecuación 
 resulta esencial para superar la difícil situación actual.
@@ -140,13 +134,9 @@ Reglamento Orgánico de los centros docentes públicos no universitarios de la C
 Autónoma de Canarias (BOC nº 143, de 22 de julio), que regula, para nuestro ámbito de 
 gestión, una parte tan destacada de la Ley Orgánica 2/2006, de Educación, como la referida 
 al funcionamiento de los centros, materia a la que la propia Ley dedica su Título V .
-boc-a-2013-200-5076
 
-
-Boletín Oficial de Canarias núm. 200
 https://sede.gobcan.es/cpji/boc
 Miércoles 16 de octubre de 2013
-26116
 A partir de las directrices esenciales, marcadas por dicho Decreto, la presente Orden 
 sigue, ante todo, la pauta de que una única norma desarrolle la organización y el funcio -
 namiento de todos los centros escolares, de modo que, donde hasta ahora había una orden 
@@ -187,13 +177,9 @@ incorporación, entre otras, de medidas dirigidas a potenciar la educación para
 cia, lo que aconseja adaptar el contenido de la presente Orden.
 Las instrucciones concretas que son objeto de esta Orden se desarrollan de acuerdo con 
 el siguiente índice:
-boc-a-2013-200-5076
 
-
-Boletín Oficial de Canarias núm. 200
 https://sede.gobcan.es/cpji/boc
 Miércoles 16 de octubre de 2013
-26117
 CAPÍTULO PRELIMINAR
 Artº. 1.- Objeto y ámbito de aplicación.
 CAPÍTULO I
@@ -223,13 +209,9 @@ SECCIÓN 3ª DEL PROFESORADO
 Artº. 17.- Organización del recreo. Cuidado y atención al alumnado.
 Artº. 18.- Jornada de trabajo: aspectos generales.
 Artº. 19.- Horas complementarias de permanencia en el centro.
-boc-a-2013-200-5076
 
-
-Boletín Oficial de Canarias núm. 200
 https://sede.gobcan.es/cpji/boc
 Miércoles 16 de octubre de 2013
-26118
 SECCIÓN 4ª ELABORACIÓN Y APROBACIÓN DE HORARIOS
 Artº. 20.- Condiciones y criterios previos para la elaboración de horarios.
 Artº. 21.- Asignación de niveles, tutorías, áreas, grupos y otras actividades docentes.
@@ -264,13 +246,9 @@ Artº. 42.- Desempeño de horario compartido.
 Artº. 43.- Confección de horarios individuales por la jefatura de estudios.
 Artº. 44.- Aprobación de horarios.
 Artº. 45.- Circunstancias excepcionales de los horarios.
-boc-a-2013-200-5076
 
-
-Boletín Oficial de Canarias núm. 200
 https://sede.gobcan.es/cpji/boc
 Miércoles 16 de octubre de 2013
-26119
 CAPÍTULO V
 ASPECTOS ORGANIZATIVOS COMUNES
 SECCIÓN 1ª DEL ALUMNADO
@@ -306,13 +284,9 @@ Comunidad Autónoma de Canarias (BOC nº 11, de 30 de abril); en el artículo 29
 14/1990, de 26 de julio, de Reforma de la Ley 8/1986, de 18 de noviembre, de Régimen Ju-
 rídico de las Administraciones Públicas de Canarias (BOC nº 96, de 1 de agosto); y en virtud 
 de la habilitación expresa prevista en la Disposición Final Primera del Decreto 81/2010, de 
-boc-a-2013-200-5076
 
-
-Boletín Oficial de Canarias núm. 200
 https://sede.gobcan.es/cpji/boc
 Miércoles 16 de octubre de 2013
-26120
 8 de julio, por el que se aprueba el Reglamento Orgánico de los centros docentes públicos no 
 universitarios de la Comunidad Autónoma de Canarias (BOC nº 143, de 22 de julio), 
 D I S P O N G O:
@@ -347,13 +321,9 @@ pedagógica y del Claustro, y que serán explicitados en la programación genera
 Artículo 3.- Participación democrática de la comunidad educativa.
 1. Los órganos de gobierno de los centros deberán garantizar el ejercicio de los derechos 
 y el cumplimiento de los deberes de las personas que pertenecen a la comunidad educativa, 
-boc-a-2013-200-5076
 
-
-Boletín Oficial de Canarias núm. 200
 https://sede.gobcan.es/cpji/boc
 Miércoles 16 de octubre de 2013
-26121
 así como su implicación efectiva en la vida del centro, en su gestión y en su evaluación, 
 respetando y fomentando la participación y la convivencia democrática.
 2. El plan de convivencia, como parte fundamental del proyecto educativo, contemplará 
@@ -394,13 +364,9 @@ centro, la Consejería de Educación, Universidades y Sostenibilidad desarrollar
 ciones y requisitos para su acreditación o formación específica.
 4. La persona o personas elegidas como responsables de fomentar la coeducación en el 
 centro tendrán atribuidas, además de las funciones establecidas en el artículo 16, apartado 
-boc-a-2013-200-5076
 
-
-Boletín Oficial de Canarias núm. 200
 https://sede.gobcan.es/cpji/boc
 Miércoles 16 de octubre de 2013
-26122
 2, de la Ley 1/2010, de 26 de febrero, Canaria de Igualdad entre Mujeres y Hombres, las 
 siguientes funciones específicas:
 - Proponer criterios al Claustro y al Consejo Escolar para la revisión del proyecto edu -
@@ -434,13 +400,9 @@ reflejará todas las actividades de este y se acomodará al mejor aprovechamient
 actividades docentes y a las particularidades del centro. Este horario general transcu -
 rrirá entre la apertura y el cierre de las instalaciones durante el curso escolar, y deberá 
 especificar:
-boc-a-2013-200-5076
 
-
-Boletín Oficial de Canarias núm. 200
 https://sede.gobcan.es/cpji/boc
 Miércoles 16 de octubre de 2013
-26123
 a) El horario de funcionamiento en el que estará disponible para la comunidad educativa 
 cada uno de los servicios y de las instalaciones del centro, dentro y fuera de la jornada esco-
 lar, y las condiciones para su utilización.
@@ -478,13 +440,9 @@ Artículo 7.- Atención al alumnado en ausencia de profesorado.
 1. Los centros, en el ejercicio de su autonomía organizativa, elaborarán un plan de aten-
 ción al alumnado en caso de ausencia de profesorado, del que formará parte el personal do-
 cente disponible en cada sesión sin horas de docencia directa y que no esté realizando otras 
-boc-a-2013-200-5076
 
-
-Boletín Oficial de Canarias núm. 200
 https://sede.gobcan.es/cpji/boc
 Miércoles 16 de octubre de 2013
-26124
 funciones docentes asignadas por la dirección del centro. Se excluyen al orientador o a la 
 orientadora y al profesorado de Pedagogía Terapéutica (PT) cuando tengan horario lectivo. 
 Se dará prioridad al alumnado que esté cursando Educación Infantil, Educación Primaria y 
@@ -525,13 +483,9 @@ educativos del distrito, los proyectos de innovación o las relaciones con otras
 No obstante, los directores y las directoras de los centros del distrito, convocados por la 
 Inspección Educativa, celebrarán reuniones de coordinación, adecuándolas a la disposición 
 horaria de las partes convocadas, al menos, durante el primer trimestre del curso y en los 
-boc-a-2013-200-5076
 
-
-Boletín Oficial de Canarias núm. 200
 https://sede.gobcan.es/cpji/boc
 Miércoles 16 de octubre de 2013
-26125
 momentos que fije la resolución anual por la que se convoca el procedimiento de admisión 
 del alumnado para el siguiente curso. 
 Artículo 9.- Funcionamiento de los órganos colegiados.
@@ -566,13 +520,9 @@ públicos no universitarios de la Comunidad Autónoma de Canarias y, en su caso,
 de organización y funcionamiento del centro.
 2. Asimismo, podrán constituirse equipos de trabajo que desarrollen programas y pro -
 yectos educativos. 
-boc-a-2013-200-5076
 
-
-Boletín Oficial de Canarias núm. 200
 https://sede.gobcan.es/cpji/boc
 Miércoles 16 de octubre de 2013
-26126
 Artículo 11.- Comisión de coordinación pedagógica.
 1. La comisión de coordinación pedagógica establecida en el Reglamento Orgánico de 
 los centros se reunirá, como mínimo, con una periodicidad mensual para el cumplimiento 
@@ -610,13 +560,9 @@ los procesos de enseñanza y de aprendizaje del alumnado del grupo. Estarán con
 el profesorado que imparte docencia a cada grupo y serán coordinados por el profesorado tutor.
 1.2. Las reuniones de equipos docentes de grupo deben articularse, según el calendario 
 establecido por la jefatura de estudios y, como mínimo, de la siguiente forma:
-boc-a-2013-200-5076
 
-
-Boletín Oficial de Canarias núm. 200
 https://sede.gobcan.es/cpji/boc
 Miércoles 16 de octubre de 2013
-26127
 a) Reuniones preparatorias en el mes de septiembre para elaborar la programación 
  didáctica. 
 b) Reuniones ordinarias, de carácter periódico, para el control del desarrollo y cumpli -
@@ -654,13 +600,9 @@ las dificultades encontradas y los resultados obtenidos; y aplicar las propuesta
 jora que esa evaluación aconseje. Estas propuestas serán recogidas en un informe que 
 elaborará la persona coordinadora del equipo de ciclo y servirán para la redacción de la 
 memoria final. 
-boc-a-2013-200-5076
 
-
-Boletín Oficial de Canarias núm. 200
 https://sede.gobcan.es/cpji/boc
 Miércoles 16 de octubre de 2013
-26128
 3.4. Cuando no existan personas coordinadoras de ciclo de Educación Infantil o Edu -
 cación Primaria, por tener el ciclo una sola unidad, sus funciones serán asumidas por la 
 dirección.
@@ -694,13 +636,9 @@ do del grupo cuando las tengan prescritas.
 - Cumplimentar los documentos oficiales de evaluación del alumnado y elaborar los 
 informes personales y los resultados de la evaluación final del alumnado de su grupo, ad -
 juntando una copia de estos resultados a la memoria final de curso; además de rellenar los 
-boc-a-2013-200-5076
 
-
-Boletín Oficial de Canarias núm. 200
 https://sede.gobcan.es/cpji/boc
 Miércoles 16 de octubre de 2013
-26129
 boletines de calificaciones, cuidando que lleguen a sus destinatarios y sean devueltos, debi-
 damente firmados, en los plazos previstos. 
 b) En relación con los padres, las madres: 
@@ -735,13 +673,9 @@ horarios.
 les, que se distribuirá de lunes a viernes, en jornadas de mañana o de mañana y tarde. Entre 
 las actividades lectivas de la mañana y de la tarde, si se trata del mismo grupo, deberá existir 
 un descanso mínimo de dos horas.
-boc-a-2013-200-5076
 
-
-Boletín Oficial de Canarias núm. 200
 https://sede.gobcan.es/cpji/boc
 Miércoles 16 de octubre de 2013
-26130
 Artículo 16.- Agrupamiento del alumnado.
 1. El Claustro, a propuesta de la dirección, aprobará los criterios pedagógicos para la 
 formación de los grupos en que se organizará al alumnado de cada curso, teniendo en cuenta 
@@ -779,13 +713,9 @@ instalaciones del centro, así como de sus posibilidades organizativas.
 recreos, que serán aprobados por el Claustro. Se arbitrará un sistema de turnos con un míni-
 mo de un maestro o una maestra como responsable directo del cuidado por cada 60 alumnos 
 y alumnas o fracción en Educación Primaria y por cada 30 o fracción en Educación Infantil.
-boc-a-2013-200-5076
 
-
-Boletín Oficial de Canarias núm. 200
 https://sede.gobcan.es/cpji/boc
 Miércoles 16 de octubre de 2013
-26131
 3. En los centros en los que el número de maestros y maestras sea superior al de unida-
 des, la dirección, la jefatura de estudios y la secretaría podrán estar exentos, por este orden, 
 del cuidado del recreo, en cuyo caso no podrán descontar estas horas de su horario lectivo. 
@@ -844,13 +774,9 @@ de formación complementaria…
 No figuran en los horarios individuales del profesorado. 
 2.- Esta jornada semanal se distribuirá de acuerdo con las horas lectivas y complementarias 
 establecidas mediante las instrucciones que se dicten al efecto. 
-boc-a-2013-200-5076
 
-
-Boletín Oficial de Canarias núm. 200
 https://sede.gobcan.es/cpji/boc
 Miércoles 16 de octubre de 2013
-26132
 Artículo 19.- Horas complementarias de permanencia en el centro.
 1. Las horas complementarias de periodicidad fija están destinadas a la realización de ac-
 tividades orientadas a la consecución de los objetivos previstos en la programación general 
@@ -885,13 +811,9 @@ Elaboración y aprobación de horarios
 Artículo 20.- Condiciones y criterios previos para la elaboración de horarios.
 1. Las horas de trabajo del profesorado serán distribuidas de lunes a viernes. Los horarios 
 de todo el personal docente, con la especificación de las horas lectivas y complementarias, 
-boc-a-2013-200-5076
 
-
-Boletín Oficial de Canarias núm. 200
 https://sede.gobcan.es/cpji/boc
 Miércoles 16 de octubre de 2013
-26133
 se consignarán en la aplicación informática PINCEL o en la que se determine al efecto para 
 este proceso. Se guardará una copia firmada por las personas interesadas en la secretaría del 
 centro.
@@ -929,13 +851,9 @@ de la dirección del centro existieran razones pedagógicas suficientemente just
 no aplicar este criterio, esta dispondrá la asignación del docente afectado a otro ciclo, curso, 
 área o actividad docente, una vez oída la persona interesada.
 c) Acreditación de especialidad en el puesto de trabajo al que se está adscrito. 
-boc-a-2013-200-5076
 
-
-Boletín Oficial de Canarias núm. 200
 https://sede.gobcan.es/cpji/boc
 Miércoles 16 de octubre de 2013
-26134
 d) Orden de mejor derecho para el resto del profesorado.
 3. Además de los criterios establecidos en el apartado anterior, se tendrán en cuenta las 
 siguientes consideraciones:
@@ -975,13 +893,9 @@ de su especialidad.
 4. De no producirse acuerdo para la asignación de ciclos, cursos, áreas o grupos de alum-
 nos o alumnas, se procederá según lo previsto en la normativa específica sobre ordenación 
 del personal docente, sin perjuicio de lo establecido en el artículo 20 de la presente Orden.
-boc-a-2013-200-5076
 
-
-Boletín Oficial de Canarias núm. 200
 https://sede.gobcan.es/cpji/boc
 Miércoles 16 de octubre de 2013
-26135
 Artículo 22.- Organización de la disponibilidad horaria de los centros. 
 1. Una vez asignados los descuentos lectivos no condicionados a la disponibilidad hora-
 ria del centro, la dirección adjudicará las tutorías, las áreas y los grupos al resto del profeso-
@@ -1016,13 +930,9 @@ Artículo 23.- Aprobación de horarios.
 1. La dirección, una vez confeccionados los horarios, los aprobará de forma provisional y 
 los distribuirá entre el profesorado antes del comienzo de las actividades lectivas del nuevo 
 curso. A continuación, se celebrará una sesión del Claustro, en la que la propuesta de horario 
-boc-a-2013-200-5076
 
-
-Boletín Oficial de Canarias núm. 200
 https://sede.gobcan.es/cpji/boc
 Miércoles 16 de octubre de 2013
-26136
 se expondrá públicamente para comprobar que, en su elaboración, se han seguido tanto los 
 criterios pedagógicos fijados por los órganos de gobierno del centro como los establecidos en 
 la presente Orden. Se dejará constancia en el acta de las observaciones o reparos  formulados. 
@@ -1060,13 +970,9 @@ Artículo 25.- Comisión de coordinación pedagógica.
 nirá una hora a la semana o dos horas quincenalmente. Asimismo, podrá crear subcomisiones 
 para temas específicos o solicitar la asistencia a sus sesiones de otras personas ajenas a la misma 
 en asuntos de especial interés en los que pueda ser oportuna su orientación o asesoramiento.
-boc-a-2013-200-5076
 
-
-Boletín Oficial de Canarias núm. 200
 https://sede.gobcan.es/cpji/boc
 Miércoles 16 de octubre de 2013
-26137
 2. Durante el mes de septiembre la comisión de coordinación pedagógica deberá esta -
 blecer sus objetivos y su calendario de tareas, que se incluirán en la programación general 
 anual. 
@@ -1103,13 +1009,9 @@ integrará en el departamento de orientación.
 3. Los equipos educativos podrán solicitar el asesoramiento del departamento de orien-
 tación, si se observara la necesidad de adoptar medidas de grupo o individuales para adaptar 
 el proceso de enseñanza y de aprendizaje.
-boc-a-2013-200-5076
 
-
-Boletín Oficial de Canarias núm. 200
 https://sede.gobcan.es/cpji/boc
 Miércoles 16 de octubre de 2013
-26138
 Artículo 28.- Departamentos de coordinación didáctica: carácter y constitución.
 1. Cada departamento de coordinación didáctica estará integrado por el profesorado que 
 imparta las enseñanzas propias de las materias, módulos o ámbitos asignados a este. El pro-
@@ -1149,13 +1051,9 @@ partamentos por familias profesionales, que agruparán a todo el profesorado que
 ta módulos de Formación Profesional en Ciclos Formativos y Programas de Cualificación 
 Profesional Inicial sobre los que tenga atribución docente esa familia profesional y que no 
 pertenezca a otro departamento de coordinación didáctica. 
-boc-a-2013-200-5076
 
-
-Boletín Oficial de Canarias núm. 200
 https://sede.gobcan.es/cpji/boc
 Miércoles 16 de octubre de 2013
-26139
 3. En los IES y en los Centros de Educación Obligatoria (CEO) de once o menos uni -
 dades de Educación Secundaria Obligatoria, los departamentos de coordinación didáctica 
 se constituirán por ámbitos, en los que se integrará el profesorado que imparta las materias 
@@ -1193,13 +1091,9 @@ mente al alumnado y a emitir los correspondientes informes.
 procesos de enseñanza y aprendizaje del alumnado del grupo. De los acuerdos tomados, tan-
 to en sesiones ordinarias como extraordinarias, quedará constancia en las correspondientes 
 actas.
-boc-a-2013-200-5076
 
-
-Boletín Oficial de Canarias núm. 200
 https://sede.gobcan.es/cpji/boc
 Miércoles 16 de octubre de 2013
-26140
 Artículo 31.- Equipos docentes de nivel.
 Los centros podrán organizar equipos docentes de nivel, en el ejercicio de su autonomía, 
 con el objetivo de coordinar la intervención docente en dichos grupos y de favorecer el de-
@@ -1234,13 +1128,9 @@ g) Información sobre el rendimiento académico global del grupo.
 3. Bajo la coordinación de la jefatura de estudios, los tutores y las tutoras de cada nivel 
 celebrarán semanalmente, con carácter general, reuniones con el departamento de orienta-
 ción para la coordinación y el desarrollo del plan de acción tutorial con el alumnado. 
-boc-a-2013-200-5076
 
-
-Boletín Oficial de Canarias núm. 200
 https://sede.gobcan.es/cpji/boc
 Miércoles 16 de octubre de 2013
-26141
 4. Para posibilitar la información y el seguimiento del proceso educativo del alumnado, 
 el equipo directivo planificará la atención semanal a los padres, madres o tutores legales, o 
 al propio alumnado si es mayor de edad, de forma individual o colectiva. A estos efectos, 
@@ -1281,13 +1171,9 @@ rias. Dentro de las horas complementarias del profesorado se incluyen las guardi
 necesarias para garantizar el normal desarrollo de todas las actividades del centro. 
 Sin perjuicio de lo que el centro concrete en sus normas de organización y funcionamien-
 to, el profesorado de guardia -y, cuando resulte necesario, el profesorado sin carga lectiva y 
-boc-a-2013-200-5076
 
-
-Boletín Oficial de Canarias núm. 200
 https://sede.gobcan.es/cpji/boc
 Miércoles 16 de octubre de 2013
-26142
 sin atención directa con el alumnado- se dedicará, de modo preferencial, al plan de atención 
 al alumnado en el caso de ausencia del profesorado al que se refiere el artículo 7 de la pre-
 sente Orden, para lo cual tendrá que realizar las siguientes funciones básicas: 
@@ -1325,13 +1211,9 @@ descanso mínimo de dos horas. Por lo que se refiere al módulo profesional de F
 Centros de Trabajo, el horario semanal no podrá exceder, con carácter general, de cuarenta 
 horas. Sin embargo, en los ciclos de Formación Profesional que desarrollen actividades 
 formativas en ámbitos laborales que tengan una jornada de trabajo especial -así reconocida 
-boc-a-2013-200-5076
 
-
-Boletín Oficial de Canarias núm. 200
 https://sede.gobcan.es/cpji/boc
 Miércoles 16 de octubre de 2013
-26143
 en el Estatuto de los Trabajadores-, se podrá llegar a reconocer un número mayor de horas 
 semanales. En este sentido, el límite máximo de horas que se podrá reconocer será el fijado 
 en la normativa laboral que regule la actividad, sin que, en ningún caso, exceda de doce 
@@ -1370,13 +1252,9 @@ el principio de no discriminación por razón de nacimiento, raza, sexo, religi�
 cualquier otra condición o circunstancia personal o social.
 5. Con carácter general y para garantizar una situación de enseñanza y aprendizaje ade-
 cuada, todos los grupos tendrán un número semejante de alumnado, e incorporarán, de ma-
-boc-a-2013-200-5076
 
-
-Boletín Oficial de Canarias núm. 200
 https://sede.gobcan.es/cpji/boc
 Miércoles 16 de octubre de 2013
-26144
 nera equilibrada, a aquel con necesidad específica de apoyo educativo. En este sentido, los 
 alumnos y las alumnas con necesidades educativas especiales escolarizados deberán estar 
 distribuidos de forma homogénea entre todos los grupos de un mismo nivel, excluyendo 
@@ -1435,13 +1313,9 @@ establecidas mediante las instrucciones que se dicten al efecto.
 fuera del horario lectivo, podrán computarse en sus horarios personales como horas 
 complementarias, siempre que estas actividades tengan periodicidad fija y e stén autorizadas 
 por la dirección del centro. La jefatura de estudios, mediante el procedimiento que la 
-boc-a-2013-200-5076
 
-
-Boletín Oficial de Canarias núm. 200
 https://sede.gobcan.es/cpji/boc
 Miércoles 16 de octubre de 2013
-26145
 2. Esta jornada semanal se distribuirá de acuerdo con las horas lectivas y complementa-
 rias establecidas mediante las instrucciones que se dicten al efecto.
 3. Las horas dedicadas por el profesorado a la organización de actividades con el alum-
@@ -1478,13 +1352,9 @@ tivas de lunes a viernes, ambos inclusive, y procurando evitar la concentración
 complementarias y la existencia de periodos de inactividad.
 4. Los horarios de todo el personal docente, con la especificación de las horas lectivas 
 y complementarias, se consignarán en la aplicación informática PINCEL o en la que se 
-boc-a-2013-200-5076
 
-
-Boletín Oficial de Canarias núm. 200
 https://sede.gobcan.es/cpji/boc
 Miércoles 16 de octubre de 2013
-26146
 determine al efecto para este proceso, quedando una copia firmada por los interesados en la 
 secretaría del centro.
 5. Se garantizará la existencia del profesorado de guardia necesario para el normal desa-
@@ -1535,13 +1405,9 @@ desarrolladas en estos cursos u otras horas que tengan este carácter hasta comp
 horas lectivas correspondientes.  
 4. A los efectos de lo regulado en el apartado anterior y en aplicación de lo establecido en el 
 artículo 6 del citado Real Decreto sobre « Ampliación de la atribución de docencia», con el 
-boc-a-2013-200-5076
 
-
-Boletín Oficial de Canarias núm. 200
 https://sede.gobcan.es/cpji/boc
 Miércoles 16 de octubre de 2013
-26147
 taria la asignación de horas de carácter lectivo de aquellas materias de primero y de segundo 
 de Educación Secundaria Obligatoria, así como de las medidas de atención a la diversidad 
 desarrolladas en estos cursos u otras horas que tengan este carácter hasta completar el total 
@@ -1586,13 +1452,9 @@ Música Educación Plástica y Visual
 5. La asignación de materias o módulos profesionales se ajustará a las normas vigentes en 
 materia de atribución docente. A este respecto, el profesorado podrá completar su horario en 
 cualquiera de los cursos de la Educación Secundaria Obligatoria, en función del ámbito de la 
-boc-a-2013-200-5076
 
-
-Boletín Oficial de Canarias núm. 200
 https://sede.gobcan.es/cpji/boc
 Miércoles 16 de octubre de 2013
-26148
 a la suya, siempre que reúna las condiciones de titulación establecidas en las normas que 
 aprueben los correspondientes Títulos de Grado Medio y Grado Superior, sin perjuicio de la 
 preferencia a estos efectos de los titulares de las especialidades respectivas.
@@ -1633,13 +1495,9 @@ Artículo 41. - Criterios específicos para la elección de horario.
 1. Entre las personas integrantes del departamento de coordinación didáctica, para la 
 elección de turno o la distribución de cada curso, materia, ámbito o módulo, se fijará el orden 
 de mejor derecho, aplicando los criterios de ordenación del personal docente determinados 
-boc-a-2013-200-5076
 
-
-Boletín Oficial de Canarias núm. 200
 https://sede.gobcan.es/cpji/boc
 Miércoles 16 de octubre de 2013
-26149
 en la normativa vigente. En este supuesto, fijado el orden de elección de los miembros del 
 departamento de coordinación didáctica, se procederá de la siguiente manera: la persona 
 con mejor derecho será la que primero elija turno, a continuación lo hará la persona a quien 
@@ -1681,13 +1539,9 @@ aplicables a los concursos de traslados que se convoquen para funcionarios y fun
 los Cuerpos docentes a que se refiere la Ley Orgánica 2/2006, de 3 de mayo, de Educación, 
 así como a la ordenación del personal docente, en el ámbito de la Comunidad Autónoma de 
 Canarias (BOC nº 157, de 11 de agosto).
-boc-a-2013-200-5076
 
-
-Boletín Oficial de Canarias núm. 200
 https://sede.gobcan.es/cpji/boc
 Miércoles 16 de octubre de 2013
-26150
 Artículo 43.- Confección de horarios individuales por la jefatura de estudios.
 1. Conocido el resultado del proceso de elección anterior, la jefatura de estudios confec-
 cionará tantos horarios individuales nominales como miembros tenga el departamento de 
@@ -1728,13 +1582,9 @@ curso. A continuación, se celebrará una sesión del Claustro en la que la prop
 se expondrá públicamente, para que el profesorado pueda comprobar que, en la elaboración 
 de los mismos, se han seguido tanto los criterios pedagógicos fijados por los órganos de 
 gobierno del centro como los establecidos en la presente Orden. 
-boc-a-2013-200-5076
 
-
-Boletín Oficial de Canarias núm. 200
 https://sede.gobcan.es/cpji/boc
 Miércoles 16 de octubre de 2013
-26151
 2. El profesorado no conforme podrá reclamar ante la dirección del centro en el plazo 
 de los tres días hábiles siguientes a la comunicación del horario. La dirección del centro 
 resolverá en el plazo de los tres días hábiles siguientes a la presentación de la reclamación. 
@@ -1774,13 +1624,9 @@ Acceso a la Universidad, el profesorado que imparta clase en este curso continua
 actividades de ese alumnado, bien sea para la recuperación de materia pendiente, bien para 
 la preparación de la citada prueba, o con otras tareas que el equipo directivo le encargue de 
 manera específica.
-boc-a-2013-200-5076
 
-
-Boletín Oficial de Canarias núm. 200
 https://sede.gobcan.es/cpji/boc
 Miércoles 16 de octubre de 2013
-26152
 Asimismo, siempre que haya alumnado que, por cualquier motivo (actividades extraes-
 colares, viajes ...), no tenga actividad lectiva dentro del centro, el profesorado que imparta 
 clase en ese grupo y no participe en la citada actividad seguirá asistiendo al centro educati-
@@ -1818,13 +1664,9 @@ informe, de periodicidad mensual, que recoja todos los casos de absentismo escol
 tacando, de una manera especial, los casos que conlleven un 15% o más de inasistencia 
 injustificada a las sesiones lectivas. Dicho informe se enviará durante la primera quincena 
 del mes siguiente.
-boc-a-2013-200-5076
 
-
-Boletín Oficial de Canarias núm. 200
 https://sede.gobcan.es/cpji/boc
 Miércoles 16 de octubre de 2013
-26153
 En los centros de Educación Infantil, se establecerán las medidas oportunas para la pre-
 vención del absentismo escolar.
 4. El equipo educativo adoptará los instrumentos de evaluación establecidos con carácter 
@@ -1863,13 +1705,9 @@ Artículo 48.- Cambios de centro del alumnado durante el curso escolar.
 traslado del historial académico y del informe personal por traslado o, en su caso, de la cer-
 tificación académica personal- será autorizado en cualquier momento del curso por la direc-
 ción del centro para el que se solicita el traslado, previa existencia de vacantes y de acuerdo 
-boc-a-2013-200-5076
 
-
-Boletín Oficial de Canarias núm. 200
 https://sede.gobcan.es/cpji/boc
 Miércoles 16 de octubre de 2013
-26154
 con los grupos autorizados. Siempre y en todo caso, la persona interesada debe acreditar 
 documentalmente que se encuentra en alguna de las siguientes circunstancias:
 a) Cambio de domicilio que genere problemas de desplazamiento.
@@ -1909,13 +1747,9 @@ damente cumplimentado.
 lo establecido en el Decreto 114/2011, de 11 de mayo, deberá permanecer escolarizado en el 
 centro de origen hasta que la Dirección Territorial de Educación determine el centro de destino, 
 salvo acuerdo expreso entre los dos centros, previa comunicación a la Inspección Educativa.
-boc-a-2013-200-5076
 
-
-Boletín Oficial de Canarias núm. 200
 https://sede.gobcan.es/cpji/boc
 Miércoles 16 de octubre de 2013
-26155
 En los supuestos de escolarización extraordinaria, debido a acoso escolar o por ser vícti-
 ma de violencia de género, se actuará según lo dispuesto en la disposición adicional tercera 
 de la Orden de 27 de marzo de 2007, por la que se desarrolla el procedimiento de admisión 
@@ -1955,13 +1789,9 @@ o si inasiste a las mismas.
 4. Por otra parte, podrá incorporarse nuevo alumnado que no esté escolarizado o que no 
 haya obtenido plaza en el periodo de preinscripción para ese curso, en cualquiera de los ni-
 veles o etapas de las enseñanzas postobligatorias que oferte un centro, siempre que queden 
-boc-a-2013-200-5076
 
-
-Boletín Oficial de Canarias núm. 200
 https://sede.gobcan.es/cpji/boc
 Miércoles 16 de octubre de 2013
-26156
 plazas suficientes y con la fecha límite del día anterior al comienzo del periodo de preins -
 cripción para solicitud de plaza del curso siguiente. 
 Artículo 50.- Escolarización del alumnado procedente de sistemas educativos 
@@ -2000,13 +1830,9 @@ recibir dicha información deberá solicitarla al centro educativo mediante escr
 la dirección, que acompañará de una copia fehaciente de la resolución judicial (auto o sen-
 tencia) de separación, divorcio o nulidad en lo que concierne únicamente a los elementos 
 conclusivos de la misma.
-boc-a-2013-200-5076
 
-
-Boletín Oficial de Canarias núm. 200
 https://sede.gobcan.es/cpji/boc
 Miércoles 16 de octubre de 2013
-26157
 b) Si la resolución judicial contuviera una declaración expresa sobre aspectos que incidan 
 en el proceso escolar, los centros se atendrán estrictamente a lo que en ella se disponga.
 c) Si la resolución judicial no contuviera ninguna limitación, el centro deberá remitir 
@@ -2045,13 +1871,9 @@ la dirección del centro. En los casos en los que la necesidad de disfrutar alg�
 cumplimiento de un deber inexcusable surjan de forma inesperada y no puedan comunicar-
 se previamente, la persona afectada lo pondrá en conocimiento de la dirección a la mayor 
 brevedad posible. 
-boc-a-2013-200-5076
 
-
-Boletín Oficial de Canarias núm. 200
 https://sede.gobcan.es/cpji/boc
 Miércoles 16 de octubre de 2013
-26158
 Cualquier ausencia del profesorado deberá ser justificada siempre por escrito e indicando 
 la causa que la motiva. La dirección reclamará al interesado la entrega de la documentación 
 en los plazos establecidos, estimando suficiente o no la justificación de los motivos alega -
@@ -2088,13 +1910,9 @@ director o directora cualquier incidencia que altere el normal funcionamiento de
 Secretaría General Técnica dictará las instrucciones de servicio necesarias en esta materia y, 
 en particular, sobre incorporaciones y ceses, régimen de permisos y vacaciones, control de 
 horario y absentismo del personal.
-boc-a-2013-200-5076
 
-
-Boletín Oficial de Canarias núm. 200
 https://sede.gobcan.es/cpji/boc
 Miércoles 16 de octubre de 2013
-26159
 Sección 3ª 
 Otros aspectos organizativos comunes
 Artículo 56.- Protección de datos de carácter personal.
@@ -2133,13 +1951,9 @@ Pública de la Comunidad Autónoma de Canarias (BOC nº 44, de 3 de marzo).
 Artículo 57.- Propiedad intelectual.
 1. Toda la comunidad educativa debe conocer que la propiedad intelectual de una obra 
 literaria, artística o científica corresponde al autor o a la autora por el solo hecho de su crea-
-boc-a-2013-200-5076
 
-
-Boletín Oficial de Canarias núm. 200
 https://sede.gobcan.es/cpji/boc
 Miércoles 16 de octubre de 2013
-26160
 ción y que esta condición conlleva el reconocimiento de unos derechos que hay que respetar, 
 de acuerdo con lo establecido en la vigente legislación sobre propiedad intelectual. 
 2. Se tendrá en cuenta lo siguiente antes de utilizar información de otras fuentes 
@@ -2176,13 +1990,9 @@ didáctica podrán proponer su sustitución antes de finalizar el periodo de vig
 efectos, presentarán a la dirección del centro un informe justificativo que, en caso de valorar 
 favorablemente, trasladará al Consejo Escolar para su aprobación. Esta modificación se co-
 municará a la Inspección Educativa para su conocimiento.
-boc-a-2013-200-5076
 
-
-Boletín Oficial de Canarias núm. 200
 https://sede.gobcan.es/cpji/boc
 Miércoles 16 de octubre de 2013
-26161
 Artículo 59.- Conservación de los instrumentos de evaluación.
 1. Los instrumentos de evaluación, en tanto que las informaciones que contienen justi -
 fican los acuerdos y las decisiones adoptados respecto a un alumno o una alumna, se con -
@@ -2220,13 +2030,9 @@ usuarias. Estas aceptan dicho registro desde el primer momento en que ingresa en
 Artículo 61.- Prohibición de contenidos.
 A los usuarios o las usuarias con permisos de administradores de las webs, blogs o plata-
 formas de teleformación alojados en los servidores de la Consejería de Educación, Universi-
-boc-a-2013-200-5076
 
-
-Boletín Oficial de Canarias núm. 200
 https://sede.gobcan.es/cpji/boc
 Miércoles 16 de octubre de 2013
-26162
 dades y Sostenibilidad les está prohibida la transmisión, la difusión o la puesta a disposición 
 de terceros a través del servicio, de informaciones, mensajes, gráficos, archivos de sonido 
 o imagen, fotografías, grabaciones, software y, en general, de cualquier clase de material, 
@@ -2262,13 +2068,9 @@ la aplicación de lo establecido en el presente artículo.
 Artículo 63.- Plan de autoprotección del centro.
 1. El proyecto de gestión del centro incluirá un plan de autoprotección, cuya implanta -
 ción es responsabilidad del equipo directivo. En él se detallarán los mecanismos y los me-
-boc-a-2013-200-5076
 
-
-Boletín Oficial de Canarias núm. 200
 https://sede.gobcan.es/cpji/boc
 Miércoles 16 de octubre de 2013
-26163
 dios disponibles para hacer frente ante cualquier incidencia que afecte a la seguridad de las 
 instalaciones del recinto escolar o de las personas que lo utilicen.
 2. Para su posible divulgación entre las fuerzas y los cuerpos de protección civil, así 
@@ -2310,13 +2112,9 @@ dicha incidencia a la Dirección Territorial de Educación correspondiente.
 7. En caso de robos, hurtos o destrozos en el interior del recinto escolar, se pondrá la corres-
 pondiente denuncia, se dará parte a la entidad aseguradora y se enviarán copias de ambas a la Di-
 rección Territorial de Educación y a la Dirección General de Centros e Infraestructura Educativa.
-boc-a-2013-200-5076
 
-
-Boletín Oficial de Canarias núm. 200
 https://sede.gobcan.es/cpji/boc
 Miércoles 16 de octubre de 2013
-26164
 8. Al finalizar la jornada escolar, el centro adoptará las medidas que estime necesarias 
 para evitar posibles pérdidas o consumos innecesarios de diferentes suministros, como agua, 
 electricidad o gas.
@@ -2357,13 +2155,9 @@ durante el periodo escolar, el personal educativo o cuidador podrá suministrar 
 correspondiente, según la patología que padezca el alumna o la alumna, siempre que: 
 - La medicación a administrar haya sido prescrita por su médico de familia o pediatra, 
 para lo que se tendrá que aportar el informe correspondiente. 
-boc-a-2013-200-5076
 
-
-Boletín Oficial de Canarias núm. 200
 https://sede.gobcan.es/cpji/boc
 Miércoles 16 de octubre de 2013
-26165
 - Exista un protocolo específico de actuación para ese alumnado, firmado por sus proge-
 nitores o tutores legales y aprobado por el Consejo Escolar, de acuerdo con las instrucciones 
 que dicte la Administración educativa y con las pautas concretas indicadas en los informes 
@@ -2402,13 +2196,9 @@ profesorado de Formación Profesional, debiendo estar incluidas en la programaci
 de cada módulo, en la que se deberá indicar el tipo de actividad, la competencia profesional 
 a desarrollar, el espacio donde tendrá lugar, las condiciones de organización de la misma y 
 el procedimiento para su evaluación. El departamento de coordinación didáctica realizará un 
-boc-a-2013-200-5076
 
-
-Boletín Oficial de Canarias núm. 200
 https://sede.gobcan.es/cpji/boc
 Miércoles 16 de octubre de 2013
-26166
 seguimiento y evaluación de las actividades curriculares específicas, que se incluirá en el in-
 forme trimestral del departamento. La actividad curricular estará bajo la cobertura del mismo 
 seguro que se dispensa a la Formación en Centros de Trabajo.
@@ -2447,13 +2237,9 @@ Disposición adicional quinta. Asociaciones del alumnado y de padres y madres de
 1. Las asociaciones del alumnado y de padres y madres del alumnado participarán y 
 colaborarán en la vida del centro en los términos previstos en el Reglamento Orgánico de 
 los centros docentes públicos no universitarios y de acuerdo con las normas que las regulan.
-boc-a-2013-200-5076
 
-
-Boletín Oficial de Canarias núm. 200
 https://sede.gobcan.es/cpji/boc
 Miércoles 16 de octubre de 2013
-26167
 2. Siempre que no interfieran el normal desarrollo de la programación general anual del 
 centro, las referidas asociaciones podrán utilizar, para la realización de las actividades que 
 les son propias, los locales y las dependencias del centro que, a tales efectos, se les indiquen. 
@@ -2491,13 +2277,9 @@ timen oportunos. Otros aspectos organizativos de este tipo de centros se regirá
 instrucciones complementarias que se dicten.
 Disposición adicional novena. Transporte escolar y otras actividades y servicios 
  complementarios.
-boc-a-2013-200-5076
 
-
-Boletín Oficial de Canarias núm. 200
 https://sede.gobcan.es/cpji/boc
 Miércoles 16 de octubre de 2013
-26168
 1. El transporte escolar, que se regula por su normativa específica, es un servicio de la 
 Administración educativa que forma parte de los recursos de los centros escolares. A este 
 respecto, las normas de organización y funcionamiento del centro incluirán las condiciones 
@@ -2534,13 +2316,9 @@ Disposición derogatoria única. Derogación normativa.
 1. Quedan derogadas las siguientes disposiciones:
 a) La Orden de 28 de julio de 2006, por la que se aprueban las instrucciones que regulan 
 la organización y funcionamiento de las Escuelas de Educación Infantil y de los colegios 
-boc-a-2013-200-5076
 
-
-Boletín Oficial de Canarias núm. 200
 https://sede.gobcan.es/cpji/boc
 Miércoles 16 de octubre de 2013
-26169
 de Educación Primaria dependientes de la Consejería de Educación, Cultura y Deportes del 
 Gobierno de Canarias (BOC nº 161, de 18 de agosto).
 b) La Orden de 28 de julio de 2006, por la que se aprueban las instrucciones de orga -
@@ -2576,13 +2354,9 @@ e) Departamento de V olumen, integrado por el profesorado de la especialidad de 
 f) Departamento de Proyectos y Talleres, constituido por los profesores de Cerámica, Di-
 seño de Interiores, Diseño de Moda, Diseño de Producto, Diseño Gráfico, Diseño Textil, Fo-
 tografía, Joyería y Orfebrería, Ebanistería Artística, Fotografía y Procesos de Reproducción, 
-boc-a-2013-200-5076
 
-
-Boletín Oficial de Canarias núm. 200
 https://sede.gobcan.es/cpji/boc
 Miércoles 16 de octubre de 2013
-26170
 Modelismo y Maquetismo, Moldes y Reproducciones, Talla en Piedra y Madera, Técnicas 
 Cerámicas, Técnicas de Grabado y Estampación, Técnicas de Joyería y Bisutería, Técnicas 
 de Patronaje y Confección, Técnicas del Metal, Técnicas Murales y Técnicas Textiles. 
@@ -2619,5 +2393,3 @@ Santa Cruz de Tenerife, a 9 de octubre de 2013.
 EL CONSEJERO DE EDUCACIÓN,
 UNIVERSIDADES Y SOSTENIBILIDAD,
 José Miguel Pérez García.
-boc-a-2013-200-5076
-

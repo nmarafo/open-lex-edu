@@ -32,9 +32,7 @@ fundamentos_derecho:
 
 # Ley 53/1984 de Incompatibilidades del Personal al Servicio de las Administraciones Públicas
 
-
 **JUAN CARLOS I,**
-
 
 **REY DE ESPAÑA**
 
@@ -54,7 +52,6 @@ CAPÍTULO PRIMERO
 
 Principios generales
 
-
 #### Artículo primero.
 
 1. El personal comprendido en el ámbito de aplicación de esta Ley no podrá compatibilizar sus actividades con el desempeño, por sí o mediante sustitución, de un segundo puesto de trabajo, cargo o actividad en el sector público, salvo en los supuestos previstos en la misma.
@@ -70,7 +67,6 @@ A los efectos del párrafo anterior, se entenderá por remuneración cualquier d
 CAPÍTULO II
 
 Ámbito de aplicación
-
 
 #### Artículo segundo.
 
@@ -102,7 +98,6 @@ CAPÍTULO III
 
 Actividades públicas
 
-
 #### Artículo tercero.
 
 1. El personal comprendido en el ámbito de aplicación de esta Ley sólo podrá desempeñar un segundo puesto de trabajo o actividad en el sector público en los supuestos previstos en la misma para las funciones docente y sanitaria, en los casos a que se refieren los artículo 5.º y 6.º y en los que, por razón de interés público, se determine por el Consejo de Ministros, mediante Real decreto, u órgano de gobierno de la Comunidad Autónoma, en el ámbito de sus respectivas competencias; en este último supuesto la actividad sólo podrá prestarse en régimen laboral, a tiempo parcial y con duración determinada, en las condiciones establecidas por la legislación laboral.
@@ -117,7 +112,6 @@ La percepción de las pensiones indicadas quedará en suspenso por el tiempo que
 
 Por excepción, en el ámbito laboral, será compatible la pensión de jubilación parcial con un puesto de trabajo a tiempo parcial.
 
-
 #### Artículo cuarto.
 
 1. Podrá autorizarse la compatibilidad, cumplidas las restantes exigencias de esta Ley, para el desempeño de un puesto de trabajo en la esfera docente como Profesor universitario asociado en régimen de dedicación no superior a la de tiempo parcial y con duración determinada.
@@ -130,7 +124,6 @@ Asimismo a los Profesores titulares de Escuelas Universitarias de Enfermería po
 
 3. La dedicación del profesorado universitario será en todo caso compatible con la realización de los trabajos a que se refiere el artículo 11 de la Ley de Reforma Universitaria, en los términos previstos en la misma.
 
-
 #### Artículo quinto.
 
 Por excepción, el personal incluido en el ámbito de aplicación de esta Ley podrá compatibilizar sus actividades con el desempeño de los cargos electivos siguientes:
@@ -141,13 +134,11 @@ b) Miembros de las Corporaciones locales, salvo que desempeñen en las mismas ca
 
 En cualquier caso, en los supuestos comprendidos en este artículo sólo podrá percibirse la retribución correspondiente a una de las dos actividades, sin perjuicio de las dietas, indemnizaciones o asistencias que correspondan por la otra.
 
-
 #### Artículo sexto.
 
 Sin perjuicio de lo previsto en el artículo 4.º,3, al personal incluido en el ámbito de esta Ley podrá autorizársele, excepcionalmente, la compatibilidad para el ejercicio de actividades de investigación, de carácter no permanente, o de asesoramiento en supuestos concretos, que no correspondan a las funciones del personal adscrito a las respectivas Administraciones Públicas.
 
 Dicha excepcionalidad se acredita por la asignación del encargo en concurso público o por requerir especiales cualificaciones que sólo ostenten personas afectadas por el ámbito de aplicación de esta Ley.
-
 
 #### Artículo séptimo.
 
@@ -169,20 +160,17 @@ La superación de estos límites, en cómputo anual, requiere en cada caso acuer
 
 3. Los servicios prestados en el segundo puesto o actividad tampoco se computarán a efectos de pensiones de Seguridad Social en la medida en que puedan rebasarse las prestaciones correspondientes a cualquiera de los puestos compatibilizados, desempeñados en régimen de jornada ordinaria, pudiendo adecuarse la cotización en la forma que reglamentariamente se determine.
 
-
 #### Artículo octavo.
 
 1. El personal incluido en el ámbito de aplicación de esta Ley que en representación del sector público pertenezca a Consejos de Administración u órganos de gobierno de Entidades o Empresas públicas o privadas, sólo podrá percibir las dietas o indemnizaciones que correspondan por su asistencia a los mismos, ajustándose en su cuantía al régimen general previsto para las Administraciones Públicas. Las cantidades devengadas por cualquier otro concepto serán ingresadas directamente por la Entidad o Empresa en la Tesorería pública que corresponda.
 
 No se podrá pertenecer a más de dos Consejos de Administración u órganos de gobierno a que se refiere el apartado anterior, salvo que excepcionalmente se autorice para supuestos concretos mediante acuerdo del Gobierno, órgano competente de la Comunidad Autónoma o Pleno de la Corporación Local correspondiente.
 
-
 #### Artículo noveno.
 
 La autorización o denegación de compatibilidad para un segundo puesto o actividad del sector público corresponde al Ministerio de la Presidencia, a propuesta de la Subsecretaría del Departamento correspondiente, al órgano competente de la Comunidad Autónoma o al Pleno de la Corporación Local a que figure adscrito el puesto principal, previo informe, en su caso, de los Directores de los Organismos, Entes y Empresas públicas.
 
 Dicha autorización requiere además el previo informe favorable del órgano competente de la Comunidad Autónoma o Pleno de la Corporación Local, conforme a la adscripción del segundo puesto. Si los dos puestos correspondieran a la Administración del Estado, emitirá este informe la Subsecretaría del Departamento al que corresponda el segundo puesto.
-
 
 #### Artículo diez.
 
@@ -196,7 +184,6 @@ CAPÍTULO IV
 
 Actividades privadas
 
-
 #### Artículo once.
 
 1. De acuerdo con lo dispuesto en el artículo 1º,3, de la presente Ley, el personal comprendido en su ámbito de aplicación no podrá ejercer, por sí o mediante sustitución, actividades privadas, incluidas las de carácter profesional, sean por cuenta propia o bajo la dependencia o al servicio de Entidades o particulares que se relacionen directamente con las que desarrolle el Departamento, Organismo o Entidad donde estuviera destinado.
@@ -204,7 +191,6 @@ Actividades privadas
 Se exceptúan de dicha prohibición las actividades particulares que, en ejercicio de un derecho legalmente reconocido, realicen para sí los directamente interesados.
 
 2. El Gobierno, por Real Decreto, podrá determinar, con carácter general, las funciones, puestos o colectivos del sector público, incompatibles con determinadas profesiones o actividades privadas, que puedan comprometer la imparcialidad independencia del personal de que se trate, impedir o menoscabar el estricto cumplimiento de sus deberes o perjudicar los intereses generales.
-
 
 #### Artículo doce.
 
@@ -222,11 +208,9 @@ d) La participación superior al 10 por 100 en el capital de las Empresas o Soci
 
 2. Las actividades privadas que correspondan a puestos de trabajo que requieran la presencia efectiva del interesado durante un horario igual o superior a la mitad de la jornada semanal ordinaria de trabajo en las Administraciones Públicas sólo podrán autorizarse cuando la actividad pública sea una de las enunciadas en esta Ley como de prestación a tiempo parcial.
 
-
 #### Artículo trece.
 
 No podrá reconocerse compatibilidad alguna para actividades privadas a quienes se les hubiere autorizado la compatibilidad para un segundo puesto o actividad públicos, siempre que la suma de jornadas de ambos sea igual o superior a la máxima en las Administraciones Públicas.
-
 
 #### Artículo catorce.
 
@@ -238,7 +222,6 @@ Los reconocimientos de compatibilidad no podrán modificar la jornada de trabajo
 
 Quienes se hallen autorizados para el desempeño de un segundo puesto o actividad públicos deberán instar el reconocimiento de compatibilidad con ambos.
 
-
 #### Artículo quince.
 
 El personal a que se refiere esta Ley no podrá invocar o hacer uso de su condición pública para el ejercicio de actividad mercantil, industrial o profesional.
@@ -246,7 +229,6 @@ El personal a que se refiere esta Ley no podrá invocar o hacer uso de su condic
 CAPÍTULO V
 
 Disposiciones comunes
-
 
 #### Artículo dieciséis.
 
@@ -256,18 +238,15 @@ Disposiciones comunes
 
 3. Se exceptúan de la prohibición enunciada en el apartado 1, las autorizaciones de compatibilidad para ejercer como Profesor universitario asociado en los términos del apartado 1 del artículo 4.º, así como para realizar las actividades de investigación o asesoramiento a que se refiere el artículo 6.º de esta Ley, salvo para el personal docente universitario a tiempo completo.
 
-
 #### Artículo diecisiete.
 
 1. Los Delegados del Gobierno en las Comunidades Autónomas, en relación al personal de los servicios periféricos de ámbito regional, y los Gobernadores civiles respecto al de los servicios periféricos provinciales, ejercerán las facultades que esta Ley atribuye a los Subsecretarios de los Departamentos respecto del personal de la Administración Civil del Estado y de sus Organismos autónomos y de la Seguridad Social.
 
 2. Las referencias a las facultades que esta Ley atribuye a las Subsecretarías y órganos competentes de las Comunidades Autónomas se entenderán referidas al Rector de cada Universidad, en relación al personal al servicio de la misma, en el marco del respectivo Estatuto.
 
-
 #### Artículo dieciocho.
 
 Todas las resoluciones de compatibilidad para desempeñar un segundo puesto o actividad en el sector público o el ejercicio de actividades privadas se inscribirán en los Registros de Personal correspondientes. Este requisito será indispensable, en el primer caso, para que puedan acreditarse haberes a los afectados por dicho puesto o actividad.
-
 
 #### Artículo diecinueve.
 
@@ -289,7 +268,6 @@ g) La participación ocasional en coloquios y programas en cualquier medio de co
 
 h) La colaboración y la asistencia ocasional a Congresos, seminarios, conferencias o cursos de carácter profesional.
 
-
 #### Artículo veinte.
 
 1. El incumplimiento de lo dispuesto en los artículos anteriores será sancionado conforme al régimen disciplinario de aplicación, sin perjuicio de la ejecutividad de la incompatibilidad en que se haya incurrido.
@@ -300,23 +278,19 @@ h) La colaboración y la asistencia ocasional a Congresos, seminarios, conferenc
 
 [encabezado]DISPOSICIONES ADICIONALES
 
-
 #### [precepto]Primera.
 
 Con la salvedad del artículo 3.º, 2, las situaciones de incompatibilidad que se produzcan por aplicación de esta Ley se entienden con respeto de los derechos consolidados, o en trámite de consolidación en materia de Derechos Pasivos o de pensiones de cualquier régimen de Seguridad Social, quedando condicionados, en su caso, a los niveles máximos de percepción o de actualización que puedan establecerse.
 
-
 #### [precepto]Segunda.
 
 Toda modificación del régimen de incompatibilidades de la presente Ley contendrá una redacción completa de las normas afectadas.
-
 
 #### [precepto]Tercera.
 
 El Consejo Superior de la Función Pública informará cada seis meses a las Cortes Generales de las autorizaciones de compatibilidades concedidas en todas las Administraciones Públicas y en los Entes, Organismos y Empresas de ellas dependientes.
 
 A estos efectos, las distintas Administraciones Públicas deberán dar traslado al mencionado Consejo Superior de las autorizaciones de compatibilidad inscritas en sus correspondientes registros.
-
 
 #### [precepto]Cuarta.
 
@@ -326,33 +300,27 @@ A estos efectos, las distintas Administraciones Públicas deberán dar traslado 
 
 3. Los órganos a que se refiere el apartado 1 podrán determinar, asimismo, con carácter general y en el ámbito de su competencia, los puestos de carácter exclusivamente investigador de los Centros públicos de investigación susceptibles de prestación a tiempo parcial.
 
-
 #### [precepto]Quinta.
 
 Se autoriza al Gobierno para adaptar en el plazo de seis meses, a propuesta del Ministerio de Defensa, de acuerdo con el de Interior, por lo que se refiere a la Guardia Civil, las disposiciones de esta Ley a la estructura y funciones específicas de las Fuerzas Armadas.
-
 
 #### [precepto]Sexta.
 
 El Gobierno y los órganos competentes de las Comunidades Autónomas dictarán las normas precisas para la ejecución de la presente Ley, asegurando la necesaria coordinación y uniformidad de criterios y procedimientos.
 
-
 #### [precepto]Séptima.
 
 Las nuevas incompatibilidades generadas por virtud de la presente Ley tendrán efectividad en el ámbito docente a partir del 1 de octubre de 1985.
 
-
 #### [precepto]Octava.
 
 El régimen de incompatibilidades del personal incluido en el ámbito de aplicación de esta Ley que tenga la condición de Diputado o Senador de las Cortes Generales será el establecido en la futura Ley Electoral, siendo de aplicación entre tanto el régimen vigente en la actualidad.
-
 
 #### [precepto]Novena.
 
 La incompatibilidad a que se refiere el artículo 3.2 de esta Ley no será de aplicación a los Profesores universitarios eméritos.
 
 [encabezado]DISPOSICIONES TRANSITORIAS
-
 
 #### [precepto]Primera.
 
@@ -370,11 +338,9 @@ b) Si la opción referida se realiza dentro del primer mes y la retribución ín
 
 La resolución autorizando o denegando dicha compatibilidad se adoptará dentro de los tres meses siguientes a la entrada en vigor de esta Ley.
 
-
 #### [precepto]Segunda.
 
 Queda exceptuada del régimen de incompatibilidades de la presente Ley la actividad tutorial en los Centros Asociados de la Universidad Nacional de Educación a Distancia, salvo para el personal indicado en los artículos 13 y 16 de esta Ley y siempre que no afecte al horario de trabajo, en tanto se modifica el régimen de dicha actividad.
-
 
 #### [precepto]Tercera.
 
@@ -390,11 +356,9 @@ También se producirá la citada anulación de compatibilidad cuando, con poster
 
 A falta de opción en los plazos señalados se entenderá que opta por el puesto de jornada ordinaria, pasando a la situación de excedencia en el otro puesto. Si ambos fueran de jornada ordinaria, por el grupo superior, y si lo fueran del mismo, por el de mayor nivel. En cuanto al personal laboral y al no funcionario de la Seguridad Social se entenderá referida la opción al puesto dotado con mayor retribución básica.
 
-
 #### [precepto]Cuarta.
 
 En tanto se establece la regulación de los hospitales universitarios, la actividad docente de los Catedráticos y Profesores de Facultades de Medicina y Farmacia y de Escuelas Universitarias de Enfermería no precisarán autorización de compatibilidad para su complementaria actividad asistencial en los centros hospitalarios de la Universidad o concertados con la misma, pudiendo desempeñar dichas actividades, en su conjunto, en régimen de dedicación completa o a tiempo parcial.
-
 
 #### [precepto]Quinta.
 
@@ -402,21 +366,17 @@ Los funcionarios de los Cuerpos Especiales al servicio de la Sanidad Local que d
 
 En todo caso se les garantizará, a título personal, hasta el 30 de septiembre de 1985, el importe de la media mensual de las retribuciones percibidas en los dos puestos en los doce meses anteriores a la entrada en vigor de esta Ley.
 
-
 #### [precepto]Sexta.
 
 Lo previsto en el artículo 12.2 de esta Ley no será de aplicación a los Farmacéuticos titulares obligados a tener oficina de farmacia abierta en la propia localidad en que ejercen su función.
-
 
 #### [precepto]Séptima.
 
 Hasta tanto se revise el régimen jurídico de los Médicos del Registro Civil, el ejercicio de su actividad como tales podrá compatibilizarse, previa autorización, con otro puesto en el sector público, siempre que no impida o menoscabe el estricto cumplimiento de sus deberes y sin perjuicio de lo dispuesto en el capítulo IV.
 
-
 #### [precepto]Octava.
 
 Lo dispuesto en el artículo 3.º, 2, de la presente Ley no será de aplicación, en cuanto a la pensión de retiro, a los funcionarios integrados en las Administraciones Públicas al amparo de las Leyes de 15 de julio de 1952, 28 de diciembre de 1963 y 17 de julio de 1958, salvo cuando en el puesto administrativo que desempeñen perciban el total de retribuciones que al mismo correspondan.
-
 
 #### [precepto]Novena.
 
@@ -424,16 +384,13 @@ La incompatibilidad a que se refiere el artículo 3.º, 2, se aplicará igualmen
 
 [encabezado]DISPOSICIONES FINALES
 
-
 #### [precepto]Primera.
 
 Las anteriores normas de esta Ley se considerarán bases del régimen estatutario de la función pública, dictadas al amparo del artículo 149.1, 18, de la Constitución, a excepción de las contenidas en los preceptos siguientes: artículo 17.1, disposición adicional quinta y disposición transitoria séptima.
 
-
 #### [precepto]Segunda.
 
 El régimen de incompatibilidades del personal de las Cortes Generales se regulará por el Estatuto al que se refiere el artículo 72.1 de la Constitución, que se ajustará a la presente Ley.
-
 
 #### [precepto]Tercera.
 
@@ -444,7 +401,6 @@ Los susceptibles de autorización con arreglo a esta Ley habrán de ajustarse a 
 Lo dispuesto en los párrafos anteriores de este apartado se entenderá sin perjuicio de lo previsto en la disposición adicional séptima y transitorias tercera, cuarta, quinta y séptima.
 
 2. La adecuación a las normas de esta Ley de los reconocimientos de compatibilidad de actividades privadas, efectuados con anterioridad a su entrada en vigor, se realizará en la forma que reglamentariamente se determine.
-
 
 #### DISPOSICIÓN DEROGATORIA
 

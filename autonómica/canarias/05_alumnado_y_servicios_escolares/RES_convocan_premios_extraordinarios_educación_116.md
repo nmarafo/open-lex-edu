@@ -31,9 +31,6 @@ fuente_pdf_oficial: https://sede.gobiernodecanarias.org/boc/boc-a-2026-070-1144.
 
 # Resolución de 26 de marzo de 2026, por la que se convocan los Premios Extraordinarios de Educación Secundaria Obligatoria en el ámbito de la Comunidad Autónoma de Canarias, correspondientes al curso escolar 2025-2026. Plazo para realizar la solicitud de participación: del 19 de junio de 2026, día de la entrega de las calificaciones finales de ESO, al 26 de junio de 2026.
 
-https://sede.gobiernodecanarias.org/boc
-boc-a-2026-070-1144
-Boletín Oficial de Canarias núm. 70 Lunes 13 de abril de 202613696
 III. Otras Resoluciones
 Consejería de Educación, Formación Profesional, Actividad Física y Deportes
 1144 Dirección General de Ordenación de las Enseñanzas, Inclusión e Innovación.- 
@@ -78,9 +75,6 @@ marzo de 2017, por la que se crean y regulan los Premios Extraordinarios de Educ
 Secundaria Obligatoria, en el ámbito de la Comunidad Autónoma de Canarias, reconociendo, 
 de esta forma, al alumnado que haya cursado esta etapa con un especial aprovechamiento.
 
-https://sede.gobiernodecanarias.org/boc
-boc-a-2026-070-1144
-Boletín Oficial de Canarias núm. 70 Lunes 13 de abril de 202613697
 Cuarto.- Dicha Orden de 29 de marzo de 2017, en su artículo 4.2, dispone que “podrá 
 concederse un Premio Extraordinario por cada mil setecientos cincuenta, o fracción 
 superior a quinientos, del total del alumnado matriculado en cuarto curso de ESO, en el año 
@@ -124,9 +118,6 @@ ESO
 una nota media igual o superior a 8,75 puntos. La nota media será la media aritmética de 
 las calificaciones de todas las materias de los cuatro cursos de esta etapa educativa (sin 
 
-https://sede.gobiernodecanarias.org/boc
-boc-a-2026-070-1144
-Boletín Oficial de Canarias núm. 70 Lunes 13 de abril de 202613698
 contar la calificación de las enseñanzas de religión, según se determina en la disposición 
 adicional primera del citado Decreto 30/2023, de 16 de marzo), redondeada a la centésima 
 más próxima y, en caso de equidistancia, a la superior. No se tendrán en cuenta en dicho 
@@ -169,15 +160,11 @@ junio de 2026. Esta remisión documental se realizará a través de la aplicaci�
 entrada y salida de documentos de la Administración Pública de la Comunidad Autónoma 
 de Canarias (HiperReg) u otros medios telemáticos.
 
-https://sede.gobiernodecanarias.org/boc
-boc-a-2026-070-1144
-Boletín Oficial de Canarias núm. 70 Lunes 13 de abril de 202613699
 4. Los listados del alumnado que participa en este procedimiento se publicarán, 
 distribuidos por sedes y de manera provisional, el 3 de julio en la web de la CEFPAFD: 
 https://www.gobiernodecanarias.org/educacion/web/estudiantes/premios_educativos/
 premios-extraordinarios-eso/convocatoria/
 El plazo de reclamación a los mismos finalizará el 8 de julio y se presentará a través del trámite 
-“Sugerencias y Reclamaciones”: https://sede.gobiernodecanarias.org/sede/procedimientos_
 servicios/tramites/4196, dirigida a la citada Unidad de Apoyo del apartado 3 de este resuelvo.
 5. Los listados definitivos se publicarán el 9 de julio en el “tablón de anuncios” de la 
 sede electrónica de la 
@@ -213,9 +200,6 @@ máximo. La calificación final de la prueba será la media aritmética de las c
 obtenidas en los tres ejercicios de que consta la misma, expresada con dos decimales y 
 redondeada a la centésima más próxima, y, en caso de equidistancia, a la superior.
 
-https://sede.gobiernodecanarias.org/boc
-boc-a-2026-070-1144
-Boletín Oficial de Canarias núm. 70 Lunes 13 de abril de 202613700
 2. La valoración de la prueba atenderá, además de a los criterios de evaluación regulados 
 curricularmente para cada una de las materias objeto de la prueba, a la corrección de las 
 respuestas, la calidad y la claridad de la exposición escrita, la estructuración del ejercicio, 
@@ -258,9 +242,6 @@ Noveno.- Publicación de las calificaciones provisionales de la prueba.
 CEFPAFD en 
 la primera quincena del mes de septiembre de 2026 las calificaciones y la propuesta 
 
-https://sede.gobiernodecanarias.org/boc
-boc-a-2026-070-1144
-Boletín Oficial de Canarias núm. 70 Lunes 13 de abril de 202613701
 provisional de adjudicación de los premios correspondientes al alumnado cuyas pruebas 
 hayan evaluado. El alumnado participante deberá haber alcanzado una calificación global 
 igual o superior a 27 puntos para la obtención del citado premio.
@@ -302,9 +283,6 @@ refiere el artículo anterior, la Dirección General de Ordenación de las Ense�
 e Innovación elevará propuesta de concesión de los Premios Extraordinarios de 
 ESO de 
 
-https://sede.gobiernodecanarias.org/boc
-boc-a-2026-070-1144
-Boletín Oficial de Canarias núm. 70 Lunes 13 de abril de 202613702
 la Comunidad Autónoma de Canarias, correspondientes al curso académico 2025/2026, 
 al Consejero de Educación, Formación Profesional, Actividad Física y Deportes, dándose 
 publicidad de los mismos en el Boletín Oficial de Canarias, así como en la indicada página 
@@ -351,9 +329,6 @@ caso, cualquier otro que estime procedente.
 Las Palmas de Gran Canaria, a 26 de marzo de 2026.- El Director General de Ordenación 
 de las Enseñanzas, Inclusión e Innovación, David Pablos González.
 
-boc-a-2026-070-1144
-Boletín Oficial de Canarias núm. 70 Lunes 13 de abril de 202613703
-https://sede.gobiernodecanarias.org/boc
 Anexo I
 ALUMNADO ACREDITADO PARA INSCRIBIRSE EN LA CONVOCATORIA DE LOS PREMIOS EXTRAORDINARIOS DE ESO DE LA COMUNIDAD 
 AUTÓNOMA DE CANARIAS (CURSO 2025/2026)
@@ -385,9 +360,6 @@ ANEXO I
 ALUMNADO ACREDITADO PARA INSCRIBIRSE EN LA CONVOCATORIA DE LOS PREMIOS EXTRAORDINARIOS  
 DE ESO DE LA COMUNIDAD AUTÓNOMA DE CANARIAS (CURSO 2025/2026)
 
-boc-a-2026-070-1144
-Boletín Oficial de Canarias núm. 70 Lunes 13 de abril de 202613704
-https://sede.gobiernodecanarias.org/boc
 Anexo II
 PREMIOS EXTRAORDINARIOS DE ESO
 CURSO 2025/2026
@@ -417,9 +389,6 @@ ANEXO II
 PREMIOS EXTRAORDINARIOS DE ESO 
 CURSO 2025/2026
 
-boc-a-2026-070-1144
-Boletín Oficial de Canarias núm. 70 Lunes 13 de abril de 202613705
-https://sede.gobiernodecanarias.org/boc
 3. LUGARES DE CELEBRACIÓN DE LA PRUEBA:
 PROVINCIA DE SANTA CRUZ DE TENERIFE
 TENERIFE

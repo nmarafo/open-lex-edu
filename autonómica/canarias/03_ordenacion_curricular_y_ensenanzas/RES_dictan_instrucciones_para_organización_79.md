@@ -30,10 +30,7 @@ fuente_pdf_oficial: https://sede.gobiernodecanarias.org/boc/boc-a-2021-109-2756.
 
 # Resolución de 19 de mayo de 2021, por la que se dictan instrucciones para la organización y el funcionamiento del Curso Específico de Acceso a Ciclos Formativos de Formación Profesional de Grado Medio a impartir en centros de educación de personas adultas dependientes de esta Consejería (BOC n.º 109, de 28 de mayo).
 
-Boletín Oficial de Canarias núm. 109
-https://sede.gobcan.es/boc
 Viernes 28 de mayo de 2021
-23715
 III. Otras Resoluciones
 Consejería de Educación, Universidades, Cultura y Deportes
 2756 Dirección General de Formación Profesional y Educación de Adultos.- Resolución 
@@ -72,13 +69,8 @@ Segundo.- El Real Decreto 1147/2011, de 29 de julio, por el que se establece la 
 general de la formación profesional del sistema educativo, que en su artículo 15 dispone 
 que “para acceder a los ciclos formativos de grado medio se requerirá una de las siguientes 
 Página 
-boc-a-2021-109-2756
 
-
-Boletín Oficial de Canarias núm. 109
-https://sede.gobcan.es/boc
 Viernes 28 de mayo de 2021
-23716
 condiciones: c) Haber superado el curso de formación específico para el acceso a ciclos de 
 grado medio en centros públicos o privados autorizados por la Administración educativa”.
 En su artículo 16, en relación con el 21, se establecen instrucciones respecto al curso 
@@ -111,13 +103,8 @@ ante la Viceconsejería de Educación, Universidades y Deportes, sin perjuicio d
 otros que se estime procedente interponer.
 Santa Cruz de Tenerife, a 19 de mayo de 2021.- La Directora General de Formación 
 Profesional y Educación de Adultos, Rosario Gañan Pérez.
-boc-a-2021-109-2756
 
-
-Boletín Oficial de Canarias núm. 109
-https://sede.gobcan.es/boc
 Viernes 28 de mayo de 2021
-23717
 Folio 4/16
 ANEXO
 INSTRUCCIONES  PARA  EL  DESARROLLO  DEL  CURSO  ESPECÍFICO  DE
@@ -194,13 +181,8 @@ En la dirección https://sede.gobcan.es/sede/verifica_doc?codigo_nde= puede ser
 comprobada la autenticidad de esta copia, mediante el número de documento
 electrónico siguiente: 0mumlaxaVblzcLYmSOjx-IteeO7v4RVxf
 El presente documento ha sido descargado el 20/05/2021 - 07:37:41
-boc-a-2021-109-2756
 
-
-Boletín Oficial de Canarias núm. 109
-https://sede.gobcan.es/boc
 Viernes 28 de mayo de 2021
-23718
 Folio 5/16
 comunicará  para  que,  en  el  plazo  de  dos  días,  presente  las  alegaciones  que  considere
 oportunas. Transcurrido dicho plazo sin haber presentado alegaciones, o si estas no estuviesen
@@ -271,13 +253,8 @@ En la dirección https://sede.gobcan.es/sede/verifica_doc?codigo_nde= puede ser
 comprobada la autenticidad de esta copia, mediante el número de documento
 electrónico siguiente: 0mumlaxaVblzcLYmSOjx-IteeO7v4RVxf
 El presente documento ha sido descargado el 20/05/2021 - 07:37:41
-boc-a-2021-109-2756
 
-
-Boletín Oficial de Canarias núm. 109
-https://sede.gobcan.es/boc
 Viernes 28 de mayo de 2021
-23719
 Folio 7/16
 Los centros, en el caso de que deseen impartir  una  modalidad  diferente a la autorizada ,
 deberán remitir solicitud argumentada a la Dirección General de Formación Profesional y
@@ -354,13 +331,8 @@ En la dirección https://sede.gobcan.es/sede/verifica_doc?codigo_nde= puede ser
 comprobada la autenticidad de esta copia, mediante el número de documento
 electrónico siguiente: 0mumlaxaVblzcLYmSOjx-IteeO7v4RVxf
 El presente documento ha sido descargado el 20/05/2021 - 07:37:41
-boc-a-2021-109-2756
 
-
-Boletín Oficial de Canarias núm. 109
-https://sede.gobcan.es/boc
 Viernes 28 de mayo de 2021
-23720
 Folio 8/16
 4.3. Ratio
 La ratio mínima será de 20 y la máxima de 30 alumnos/as.
@@ -440,13 +412,8 @@ En la dirección https://sede.gobcan.es/sede/verifica_doc?codigo_nde= puede ser
 comprobada la autenticidad de esta copia, mediante el número de documento
 electrónico siguiente: 0mumlaxaVblzcLYmSOjx-IteeO7v4RVxf
 El presente documento ha sido descargado el 20/05/2021 - 07:37:41
-boc-a-2021-109-2756
 
-
-Boletín Oficial de Canarias núm. 109
-https://sede.gobcan.es/boc
 Viernes 28 de mayo de 2021
-23721
 Folio 9/16
 aprendizaje, contenidos, etc.) de los currículos de las materias de la ESO.
 En cualquier caso, el currículo tendrá por objeto acreditar la adquisición de las competencias
@@ -531,13 +498,8 @@ En la dirección https://sede.gobcan.es/sede/verifica_doc?codigo_nde= puede ser
 comprobada la autenticidad de esta copia, mediante el número de documento
 electrónico siguiente: 0mumlaxaVblzcLYmSOjx-IteeO7v4RVxf
 El presente documento ha sido descargado el 20/05/2021 - 07:37:41
-boc-a-2021-109-2756
 
-
-Boletín Oficial de Canarias núm. 109
-https://sede.gobcan.es/boc
 Viernes 28 de mayo de 2021
-23722
 Folio 10/16
 2. Durante  el  mes  de  enero  o  en  la  primera  quincena  de  febrero  se  desarrollará  la
 evaluación del primer cuatrimestre (1.ª evaluación).
@@ -620,13 +582,8 @@ En la dirección https://sede.gobcan.es/sede/verifica_doc?codigo_nde= puede ser
 comprobada la autenticidad de esta copia, mediante el número de documento
 electrónico siguiente: 0mumlaxaVblzcLYmSOjx-IteeO7v4RVxf
 El presente documento ha sido descargado el 20/05/2021 - 07:37:41
-boc-a-2021-109-2756
 
-
-Boletín Oficial de Canarias núm. 109
-https://sede.gobcan.es/boc
 Viernes 28 de mayo de 2021
-23723
 Folio 11/16
 tener una nota mínima de cuatro (4) puntos.
 5. Con una calificación inferior a cuatro (4) puntos en algún ámbito, en la evaluación
@@ -666,13 +623,8 @@ En la dirección https://sede.gobcan.es/sede/verifica_doc?codigo_nde= puede ser
 comprobada la autenticidad de esta copia, mediante el número de documento
 electrónico siguiente: 0mumlaxaVblzcLYmSOjx-IteeO7v4RVxf
 El presente documento ha sido descargado el 20/05/2021 - 07:37:41
-boc-a-2021-109-2756
 
-
-Boletín Oficial de Canarias núm. 109
-https://sede.gobcan.es/boc
 Viernes 28 de mayo de 2021
-23724
 Folio 12/16
 APÉNDICE I
 Procedimiento y calendario de admisión del curso 2021-2022
@@ -688,7 +640,6 @@ Del 10 al 24 de junio de 2021 • Presentación de solicitudes
 Del 28 al 30 de junio de 2021 • Reclamación a las listas provisionales de admitidos
 1 de julio de 2021 • Publicación de listas definitivas de admitidos
 Del  1 de julio al  1 de agosto de
-2021
 • Plazo  para  interponer  recurso  de  alzada  ante  la
 Dirección  Territorial  de  Educación  contra  las  listas
 definitivas
@@ -709,13 +660,8 @@ En la dirección https://sede.gobcan.es/sede/verifica_doc?codigo_nde= puede ser
 comprobada la autenticidad de esta copia, mediante el número de documento
 electrónico siguiente: 0mumlaxaVblzcLYmSOjx-IteeO7v4RVxf
 El presente documento ha sido descargado el 20/05/2021 - 07:37:41
-boc-a-2021-109-2756
 
-
-Boletín Oficial de Canarias núm. 109
-https://sede.gobcan.es/boc
 Viernes 28 de mayo de 2021
-23725
 Folio 13/16
 APÉNDICE II
 Formulario de solicitud de plaza para el curso 2021-2022
@@ -747,13 +693,8 @@ En la dirección https://sede.gobcan.es/sede/verifica_doc?codigo_nde= puede ser
 comprobada la autenticidad de esta copia, mediante el número de documento
 electrónico siguiente: 0mumlaxaVblzcLYmSOjx-IteeO7v4RVxf
 El presente documento ha sido descargado el 20/05/2021 - 07:37:41
-boc-a-2021-109-2756
 
-
-Boletín Oficial de Canarias núm. 109
-https://sede.gobcan.es/boc
 Viernes 28 de mayo de 2021
-23726
 Folio 14/16
 2. DATOS FAMILIARES
 3. DOCUMENTACIÓN QUE SE ADJUNTA
@@ -781,13 +722,8 @@ En la dirección https://sede.gobcan.es/sede/verifica_doc?codigo_nde= puede ser
 comprobada la autenticidad de esta copia, mediante el número de documento
 electrónico siguiente: 0mumlaxaVblzcLYmSOjx-IteeO7v4RVxf
 El presente documento ha sido descargado el 20/05/2021 - 07:37:41
-boc-a-2021-109-2756
 
-
-Boletín Oficial de Canarias núm. 109
-https://sede.gobcan.es/boc
 Viernes 28 de mayo de 2021
-23727
 APÉNDICE III
  Centros autorizados a impartir el curso específico en el curso escolar 2021-2022
 El Curso Específico de Acceso a Ciclos Formativos de Grado Medio se impartirá en el curso 2021-2022 y en las modalidades indicadas, siempre que
@@ -815,13 +751,8 @@ En la dirección https://sede.gobcan.es/sede/verifica_doc?codigo_nde= puede ser
 comprobada la autenticidad de esta copia, mediante el número de documento
 electrónico siguiente: 0mumlaxaVblzcLYmSOjx-IteeO7v4RVxf
 El presente documento ha sido descargado el 20/05/2021 - 07:37:41
-boc-a-2021-109-2756
 
-
-Boletín Oficial de Canarias núm. 109
-https://sede.gobcan.es/boc
 Viernes 28 de mayo de 2021
-23728
 Folio 16/16
 APÉNDICE IV
 Declaración jurada o de responsabilidad para la admisión en el curso escolar 2021-2022
@@ -844,5 +775,3 @@ En la dirección https://sede.gobcan.es/sede/verifica_doc?codigo_nde= puede ser
 comprobada la autenticidad de esta copia, mediante el número de documento
 electrónico siguiente: 0mumlaxaVblzcLYmSOjx-IteeO7v4RVxf
 El presente documento ha sido descargado el 20/05/2021 - 07:37:41
-boc-a-2021-109-2756
-

@@ -31,10 +31,7 @@ fuente_pdf_oficial: https://sede.gobiernodecanarias.org/boc/boc-a-2018-106-2612.
 
 # Resolución de 22 de mayo de 2018, de la Dirección General de Formación Profesional y Educación de Adultos, por la que se dictan instrucciones para la concesión de los Premios Extraordinarios de Enseñanzas Profesionales de Música y de Artes Plásticas y Diseño en la Comunidad Autónoma de Canarias, en el curso 2017-2018 (BOC n.º 106, de 4 de junio).
 
-Boletín Oficial de Canarias núm. 106
-https://sede.gobcan.es/boc
 Lunes 4 de junio de 2018
-18701
 III. Otras Resoluciones
 Consejería de Educación y Universidades
 2612 Dirección General de Formación Profesional y Educación de Adultos.- Resolución 
@@ -72,13 +69,8 @@ Artes Plásticas y Diseño (BOE nº 183, de 1 de agosto).
 Tercero.- La Orden de 17 de abril de 2009, por la que se regula la evaluación, promoción 
 y permanencia del alumnado que cursa enseñanzas profesionales de música y se establecen 
 Página 
-boc-a-2018-106-2612
 
-
-Boletín Oficial de Canarias núm. 106
-https://sede.gobcan.es/boc
 Lunes 4 de junio de 2018
-18702
 los requisitos para la obtención del título profesional de música (BOC nº 83, de 4 de mayo), 
 en su artículo 14 (Premio extraordinario), dispone que el alumnado que haya obtenido el 
 “Premio fin de Grado” en una determinada especialidad en su centro podrá participar en 
@@ -112,13 +104,8 @@ aquel en que tenga lugar la notificación, de acuerdo con lo dispuesto en los ar
 Administraciones Públicas (BOE nº 236, de 2 de octubre).
 Santa Cruz de Tenerife, a 22 de mayo de 2018.- El Director General de Formación 
 Profesional y Educación de Adultos, Manuel Jorge Pérez.
-boc-a-2018-106-2612
 
-
-Boletín Oficial de Canarias núm. 106
-https://sede.gobcan.es/boc
 Lunes 4 de junio de 2018
-18703
 A N E X O
 INSTRUCCIONES PARA LA CONCESIÓN DE LOS PREMIOS EXTRAORDINARIOS DE 
 ENSEÑANZAS PROFESIONALES DE MÚSICA Y DE ARTES PLÁSTICAS Y DISEÑO EN LA 
@@ -156,13 +143,8 @@ los cursos realizados en dichas enseñanzas, con expresión de los cursos acadé
 especialidad, todas las asignaturas cursadas, las calificaciones obtenidas en cada una de 
 ellas, y curso académico en el que el candidato ha obtenido el Premio fin de grado, con la 
 indicación expresa de la especialidad cursada.
-boc-a-2018-106-2612
 
-
-Boletín Oficial de Canarias núm. 106
-https://sede.gobcan.es/boc
 Lunes 4 de junio de 2018
-18704
 2. Para participar en la convocatoria al Premio Extraordinario de Enseñanzas Profesionales 
 de Artes Plásticas y Diseño en la Comunidad Autónoma de Canarias, en el curso 2017-2018, 
 será necesario reunir los siguientes requisitos:
@@ -200,13 +182,8 @@ superiores de diseño, en los que concurra alumnado que cumpla los requisitos co
 en la base segunda, apartados primero y segundo, de las presentes instrucciones, remitirán 
 a esta Dirección General, antes del 26 de junio de 2018, la relación de posibles candidatos a 
 los Premios Extraordinarios de Enseñanzas Profesionales de Música y de Artes Plásticas y 
-boc-a-2018-106-2612
 
-
-Boletín Oficial de Canarias núm. 106
-https://sede.gobcan.es/boc
 Lunes 4 de junio de 2018
-18705
 Diseño, acompañada de la documentación acreditativa del cumplimiento de los requisitos, 
 según lo estipulado en los Apéndices I, II y III de estas instrucciones.
 2. Esta Dirección General examinará la documentación aportada por los centros docentes 
@@ -240,13 +217,8 @@ b) Mayor nota obtenida en el módulo de obra final en el ciclo formativo corresp
 c) Mayor nota media obtenida en la Educación Secundaria Obligatoria.
 d) Mayor nota obtenida en la prueba de acceso específica a estas enseñanzas.
 e) Menor edad.
-boc-a-2018-106-2612
 
-
-Boletín Oficial de Canarias núm. 106
-https://sede.gobcan.es/boc
 Lunes 4 de junio de 2018
-18706
 5.2. En ciclos formativos de grado superior:
 a) Mayor nota media obtenida del expediente de las Enseñanzas Profesionales de Artes 
 Plásticas y Diseño.
@@ -280,13 +252,8 @@ Artes Plásticas y Diseño de la Comunidad Autónoma de Canarias y que haya curs
 formativo de grado superior.
 En caso de que concurran varios aspirantes en una misma familia profesional, la 
 adjudicación final se dirimirá aplicando estos criterios:
-boc-a-2018-106-2612
 
-
-Boletín Oficial de Canarias núm. 106
-https://sede.gobcan.es/boc
 Lunes 4 de junio de 2018
-18707
 a) Mayor nota obtenida en el módulo de proyecto integrado/proyecto final.
 b) Mayor nota media obtenida del expediente.
 c) Mayor nota media obtenida en Bachillerato.
@@ -299,13 +266,8 @@ inscripción, que sean convocados por el Ministerio competente en materia de Edu
 organización y celebración de un acto de entrega de los Premios Extraordinarios de 
 Enseñanzas Profesionales de Música y Artes Plásticas y Diseño en la Comunidad Autónoma 
 de Canarias, en el curso 2017-2018, con la participación de los premiados.
-boc-a-2018-106-2612
 
-
-Boletín Oficial de Canarias núm. 106
-https://sede.gobcan.es/boc
 Lunes 4 de junio de 2018
-18708
 Folio 1/3
 RESOLUCIÓN DE LA DIRECCIÓN GENERAL DE FORMACIÓN PROFESIONAL Y
 EDUCACIÓN DE ADULTOS POR LA QUE SE DICTAN INSTRUCCIONES PARA LA
@@ -325,13 +287,8 @@ En …………………..…., a……..... de……..…………..… de…�
 El Director/a El/La  Secretario/a
 Fdo.: Fdo.:
 Nombre y apellidos: Nombre y apellidos:
-boc-a-2018-106-2612
 
-
-Boletín Oficial de Canarias núm. 106
-https://sede.gobcan.es/boc
 Lunes 4 de junio de 2018
-18709
 Folio 2/3
 RESOLUCIÓN DE LA DIRECCIÓN GENERAL DE FORMACIÓN PROFESIONAL Y
 EDUCACIÓN DE ADULTOS POR LA QUE SE DICTAN INSTRUCCIONES PARA LA
@@ -372,13 +329,8 @@ En …………………..…., a……..... de……..…………..… de…�
 El Director/a El/La  Secretario/a
 Fdo.: Fdo.:
 Nombre y apellidos: Nombre y apellidos:
-boc-a-2018-106-2612
 
-
-Boletín Oficial de Canarias núm. 106
-https://sede.gobcan.es/boc
 Lunes 4 de junio de 2018
-18710
 Folio 3/3
 RESOLUCIÓN DE LA DIRECCIÓN GENERAL DE FORMACIÓN PROFESIONAL Y
 EDUCACIÓN DE ADULTOS POR LA QUE SE DICTAN INSTRUCCIONES PARA LA
@@ -419,5 +371,3 @@ En …………………..…., a……..... de……..…………..… de…�
 El/La Director/a El/La  Secretario/a
 Fdo.: Fdo.:
 Nombre y apellidos: Nombre y apellidos:
-boc-a-2018-106-2612
-

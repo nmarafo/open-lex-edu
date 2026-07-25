@@ -31,9 +31,6 @@ fuente_pdf_oficial: https://sede.gobiernodecanarias.org/boc/boc-a-2025-046-918.p
 
 # Resolución de la Dirección General de Formación Profesional y Enseñanzas de Régimen Especial, de 21 de febrero de 2025, por la que se dictan instrucciones para la implantación de los itinerarios formativos de Formación Profesional Adaptada y el desarrollo de los currículos de los módulos de carácter general a partir del curso escolar 2024/2025, en el ámbito de la Comunidad Autónoma de Canarias
 
-https://sede.gobiernodecanarias.org/boc
-boc-a-2025-046-918
-Boletín Oficial de Canarias núm. 46 Jueves 6 de marzo de 202510287
 III. Otras Resoluciones
 Consejería de Educación, Formación Profesional, Actividad Física y Deportes
 918 Dirección General de Formación Profesional y Enseñanzas de Régimen Especial.- 
@@ -77,9 +74,6 @@ en la Comunidad Autónoma de Canarias dos itinerarios formativos dirigidos a jó
 con discapacidad intelectual: Itinerario Formativo Específico +16 (IFE+16) e Itinerario 
 Formativo de Capacitación +21 (IFC+21).
 
-https://sede.gobiernodecanarias.org/boc
-boc-a-2025-046-918
-Boletín Oficial de Canarias núm. 46 Jueves 6 de marzo de 202510288
 En consonancia con lo expuesto, y dada la finalidad del sistema de Formación 
 Profesional, los siguientes itinerarios formativos facilitarán la posibilidad de acreditar Estándares 
 de Competencias de Nivel 1 al alumnado participante en los mismos.
@@ -122,9 +116,6 @@ o que hayan abandonado prematuramente el sistema educativo sin alcanzar cualific
 profesional alguna (artículo 73.a). Esto obliga a las administraciones competentes en 
 materia de formación profesional, a establecer “ofertas de formación profesional adaptadas 
 
-https://sede.gobiernodecanarias.org/boc
-boc-a-2025-046-918
-Boletín Oficial de Canarias núm. 46 Jueves 6 de marzo de 202510289
 a las necesidades específicas de personas con fracaso escolar, discapacidad, pertenecientes 
 a minorías étnicas, parados de larga duración y, en general, personas con riesgo de exclusión 
 sociolaboral o en situación de vulnerabilidad”.
@@ -170,9 +161,6 @@ formativos de Formación Profesional Adaptada y desarrollo de los currículos de
 módulos de carácter general a partir del curso escolar 2024/2025, en el ámbito de gestión 
 de la Comunidad Autónoma de Canarias.
 
-https://sede.gobiernodecanarias.org/boc
-boc-a-2025-046-918
-Boletín Oficial de Canarias núm. 46 Jueves 6 de marzo de 202510290
 Segundo.- Encomendar a la Inspección de Educación el asesoramiento sobre aquellos 
 aspectos específicos que le soliciten los equipos directivos de los centros docentes y la 
 supervisión del cumplimiento de esta Resolución.
@@ -188,9 +176,6 @@ Oficial de Canarias, sin perjuicio de cualquier otro que se estime procedente in
 Las Palmas de Gran Canaria, a 21 de febrero de 2025.- La Directora General de 
 Formación Profesional y Enseñanzas de Régimen Especial, Carolina León Martínez.
 
-https://sede.gobiernodecanarias.org/boc
-boc-a-2025-046-918
-Boletín Oficial de Canarias núm. 46 Jueves 6 de marzo de 202510291
 ANEXO I
 INSTRUCCIONES PARA LA IMPLANTACIÓN Y DESARROLLO DE LOS ITINERARIOS 
 FORMATIVOS Y LOS CURRÍCULOS DE LOS MÓDULOS DE CARÁCTER GENERAL DE LA 
@@ -228,9 +213,6 @@ a) Desarrollar las competencias clave, profesionales y para la empleabilidad pro
 estándares de competencia profesional de nivel 1 del Catálogo Nacional de Estándares de 
 Competencias Profesionales que permitan participar en la vida social, cultural y laboral.
 
-https://sede.gobiernodecanarias.org/boc
-boc-a-2025-046-918
-Boletín Oficial de Canarias núm. 46 Jueves 6 de marzo de 202510292
 b) Favorecer la progresión del alumnado en la construcción de su proyecto vital, 
 apoyando la elaboración de su itinerario personal y profesional, y promoviendo el desarrollo 
 de competencias clave para el aprendizaje permanente, la participación activa en la vida en 
@@ -271,9 +253,6 @@ Quinta.- Alumnado por grupo.
 En ambos itinerarios formativos el número mínimo de alumnos y alumnas por grupo 
 será de ocho (8) y el máximo de doce (12).
 
-https://sede.gobiernodecanarias.org/boc
-boc-a-2025-046-918
-Boletín Oficial de Canarias núm. 46 Jueves 6 de marzo de 202510293
 Sexta.- Admisión.
 Se atenderá a lo establecido en la Resolución de la Dirección General de Formación 
 Profesional y Enseñanzas de Régimen Especial por la que se convocan y dictan instrucciones 
@@ -312,9 +291,6 @@ tendrá como referencia las unidades de competencia de nivel 1 del Catálogo Nac
 de Cualificaciones Profesionales de acuerdo a lo establecido en la disposición transitoria 
 primera del Real Decreto 659/2023.
 
-https://sede.gobiernodecanarias.org/boc
-boc-a-2025-046-918
-Boletín Oficial de Canarias núm. 46 Jueves 6 de marzo de 202510294
 2. Los currículos de los módulos profesionales se desarrollarán siguiendo las disposiciones 
 normativas que se citan en los Anexos del III al X adjuntos a la presente Resolución. En 
 estos módulos, que forman parte de la cualificación profesional correspondiente, cualquier 
@@ -354,9 +330,6 @@ NEAE impartirá los siguientes ámbitos:
 • Ámbito de Comunicación y competencia social.
 • Ámbito de Ciencias aplicadas y competencia lógica.
 
-https://sede.gobiernodecanarias.org/boc
-boc-a-2025-046-918
-Boletín Oficial de Canarias núm. 46 Jueves 6 de marzo de 202510295
 5. El ámbito de prevención y orientación profesional será impartido en docencia 
 compartida por el profesorado con atribución docente en la familia profesional y profesorado 
 de apoyo a las NEAE.
@@ -400,9 +373,6 @@ Decimotercera.- Tutoría y orientación.
 por la Dirección del centro a propuesta de la Jefatura de Estudios, entre el profesorado que 
 imparta docencia a todo el grupo.
 
-https://sede.gobiernodecanarias.org/boc
-boc-a-2025-046-918
-Boletín Oficial de Canarias núm. 46 Jueves 6 de marzo de 202510296
 2. El tutor o tutora coordinará los procesos de seguimiento, evaluación y de orientación 
 académica, personal y profesional, desarrollados por el equipo docente, con el asesoramiento 
 del Departamento de Orientación. El profesorado que ejerza la tutoría será una referencia 
@@ -441,9 +411,6 @@ que la constituyen.
 de evaluación, así como a la competencia general de la cualificación profesional 
 correspondiente.
 
-https://sede.gobiernodecanarias.org/boc
-boc-a-2025-046-918
-Boletín Oficial de Canarias núm. 46 Jueves 6 de marzo de 202510297
 3. La evaluación continua requiere la asistencia a clase y la realización de las actividades 
 programadas para los distintos módulos. Para presentarse a la prueba de evaluación final 
 de un módulo profesional, la persona en formación deberá justificar una asistencia de, al 
@@ -483,9 +450,6 @@ El profesorado encargado de la tutoría, y en su caso cada docente, informará a
 alumnado, así como a padres, madres o representantes legales según las circunstancias, de 
 su rendimiento y medidas de apoyo propuestas.
 
-https://sede.gobiernodecanarias.org/boc
-boc-a-2025-046-918
-Boletín Oficial de Canarias núm. 46 Jueves 6 de marzo de 202510298
 En las sesiones de evaluación formativa se determinará el alumnado que realizará la 
 estancia formativa en empresa u organismo equiparado atendiendo a los requisitos establecidos 
 en la instrucción decimosegunda de las presentes instrucciones.
@@ -522,9 +486,6 @@ reflejada como “Superado” o “No superado” y acompañada de una calificac
 entre uno (1) y diez (10) puntos, sin decimales, considerándose positivas las puntuaciones 
 iguales o superiores a cinco (5) puntos.
 
-https://sede.gobiernodecanarias.org/boc
-boc-a-2025-046-918
-Boletín Oficial de Canarias núm. 46 Jueves 6 de marzo de 202510299
 3. Los módulos de carácter general, se expresarán en términos de calificación literal 
 cualitativa, reflejada como “superado” o “no superado” y acompañada de una calificación 
 numérica cuantitativa entre uno (1) y diez (10) puntos, sin decimales, considerándose 
@@ -552,9 +513,6 @@ de su incorporación a la formación en empresa u organismo equiparado, emitirá
 solicitud de la persona interesada, la certificación de la formación en prevención de riesgos 
 laborales de acuerdo con el modelo que se determina en el Anexo XI.
 
-https://sede.gobiernodecanarias.org/boc
-boc-a-2025-046-918
-Boletín Oficial de Canarias núm. 46 Jueves 6 de marzo de 202510300
 ANEXO II
 CURRÍCULO DE LOS MÓDULOS DE CARÁCTER GENERAL DE LOS ITINERARIOS 
 FORMATIVOS IFE+16 E IFC+21.
@@ -596,9 +554,6 @@ Desarrollo Sostenible enmarcados en la Agenda 2030.
 Los módulos de carácter general de los itinerarios formativos de Formación Profesional 
 IFE+ 16 e IFC +21 de la Formación Profesional Adaptada se estructuran en tres ámbitos 
 
-https://sede.gobiernodecanarias.org/boc
-boc-a-2025-046-918
-Boletín Oficial de Canarias núm. 46 Jueves 6 de marzo de 202510301
 principales: Comunicación y competencia social, Ciencias aplicadas y competencia lógica 
 y Prevención y orientación profesional. En el presente currículo cada uno de estos ámbitos 
 se desarrolla en función de los objetivos educativos establecidos para estas enseñanzas 
@@ -644,9 +599,6 @@ Desde los tres ámbitos se pone de manifiesto el carácter funcional de los apre
 matemáticos y de las ciencias, permite que el alumnado desarrolle y aplique la perspectiva 
 y el razonamiento matemático con el fin de resolver diversos problemas en situaciones 
 
-https://sede.gobiernodecanarias.org/boc
-boc-a-2025-046-918
-Boletín Oficial de Canarias núm. 46 Jueves 6 de marzo de 202510302
 cotidianas, usando el lenguaje matemático para cuantificar los fenómenos del mundo físico 
 y resolver problemas en diferentes contextos. Por consiguiente, se desarrolla la habilidad 
 para interpretar el entorno, tanto en sus aspectos naturales como en los resultantes de la 
@@ -694,9 +646,6 @@ La contribución del ámbito a esta competencia se logra a partir del fomento de
 activas y participativas, de programas de la vida real y profesional llevadas a cabo en 
 contextos colaborativos, en la que el alumnado ponga en práctica sus conocimientos, 
 
-https://sede.gobiernodecanarias.org/boc
-boc-a-2025-046-918
-Boletín Oficial de Canarias núm. 46 Jueves 6 de marzo de 202510303
 realizando un planteamiento de los objetivos y una planificación para conseguirlos. Con 
 ello se desarrollarán desde los tres ámbitos capacidades como las de análisis, organización, 
 gestión, toma de decisiones, etc., y valores como la creatividad, la responsabilidad, el 
@@ -742,9 +691,6 @@ de enseñanza y aprendizaje motivador, progresivo y funcional.
 La inclusión es un principio esencial en la planificación de situaciones de aprendizaje. 
 Se deberá garantizar que las actividades sean accesibles y equitativas, considerando la 
 
-https://sede.gobiernodecanarias.org/boc
-boc-a-2025-046-918
-Boletín Oficial de Canarias núm. 46 Jueves 6 de marzo de 202510304
 diversidad del alumnado y proporcionando los apoyos y adaptaciones necesarias para atender a 
 sus distintas capacidades, estilos de aprendizaje e intereses. La educación inclusiva no solo 
 favorece el desarrollo individual, sino que también enriquece el aprendizaje colectivo y la 
@@ -788,9 +734,6 @@ simulación y role playing, etc.
 En el aprendizaje basado en retos se facilita que el alumnado se enfrente a un desafío 
 real o simulado, que deben resolver aplicando sus conocimientos, habilidades y creatividad 
 
-https://sede.gobiernodecanarias.org/boc
-boc-a-2025-046-918
-Boletín Oficial de Canarias núm. 46 Jueves 6 de marzo de 202510305
 intentado generar un impacto positivo en el entorno. La propia naturaleza de los ámbitos 
 que conforman los itinerarios formativos de la Formación Profesional Adaptada, sugiere el 
 empleo de esta metodología de enseñanza que implementa un conjunto de tareas basadas 
@@ -836,9 +779,6 @@ La capacidad que tiene una persona para saber cuándo y por qué necesita inform
 dónde encontrarla, y cómo evaluarla, utilizarla y comunicar de manera ética es un requisito 
 necesario para participar eficazmente en la sociedad de la información. La alfabetización 
 
-https://sede.gobiernodecanarias.org/boc
-boc-a-2025-046-918
-Boletín Oficial de Canarias núm. 46 Jueves 6 de marzo de 202510306
 informacional es transversal a todos los ámbitos que conforman los Itinerarios Formativos 
 de la Formación Profesional Adaptada. Implica acciones puramente lingüísticas, como 
 la comprensión de la información, su selección y tratamiento en esquemas, resúmenes 
@@ -884,9 +824,6 @@ las competencias de aprender a aprender, sociales y cívicas y comunicación y c
 ciudadana. En este desarrollo, debe favorecerse el establecimiento de conexiones con las 
 competencias asociadas al título profesional de estas enseñanzas.
 
-https://sede.gobiernodecanarias.org/boc
-boc-a-2025-046-918
-Boletín Oficial de Canarias núm. 46 Jueves 6 de marzo de 202510307
 El ámbito consta de cinco competencias específicas.
 El desarrollo de la autonomía personal en este currículo atenderá al concepto de 
 autodeterminación como elemento esencial de calidad de vida adquiriendo destrezas para la 
@@ -932,9 +869,6 @@ alumnado saberes relacionados con la autodeterminación, vida saludable y comuni
 contribuyen significativamente al desarrollo de competencias clave para la empleabilidad, 
 así como a la formación integral en distintos ámbitos de la vida. En cuanto al objetivo 
 
-https://sede.gobiernodecanarias.org/boc
-boc-a-2025-046-918
-Boletín Oficial de Canarias núm. 46 Jueves 6 de marzo de 202510308
 de desarrollar competencias para la empleabilidad y la vida en comunidad (Objetivo b), 
 la autodeterminación, vida saludable y comunicación resultan fundamentales, ya que 
 permiten al alumnado desempeñarse de forma autónoma y eficaz en el ámbito laboral y 
@@ -983,9 +917,6 @@ permite al alumnado adquirir competencias para buscar, organizar y evaluar infor
 en entornos digitales, facilitando su crecimiento profesional en un mundo cada vez más 
 digitalizado.
 
-https://sede.gobiernodecanarias.org/boc
-boc-a-2025-046-918
-Boletín Oficial de Canarias núm. 46 Jueves 6 de marzo de 202510309
 3. Competencias específicas del ámbito de Comunicación y competencia social.
 Las competencias específicas vinculadas al ámbito de Comunicación y competencia 
 social son las siguientes:
@@ -1025,9 +956,6 @@ a bloques competenciales, que incluyen: el enunciado de la competencia específi
 criterios de evaluación y la explicación del bloque competencial que orienta sobre el 
 proceso de enseñanza y aprendizaje.
 
-https://sede.gobiernodecanarias.org/boc
-boc-a-2025-046-918
-Boletín Oficial de Canarias núm. 46 Jueves 6 de marzo de 202510310
 Los criterios de evaluación propuestos servirán como referencia para orientar el 
 aprendizaje, permitiendo que cada alumno o alumna avance a su propio ritmo y desarrolle 
 al máximo sus capacidades y competencias clave.
@@ -1102,9 +1030,6 @@ prácticas y adaptativas
 CCL
 CP
 
-boc-a-2025-046-918
-Boletín Oficial de Canarias núm. 46 Jueves 6 de marzo de 202510311
-https://sede.gobiernodecanarias.org/boc
 en el que se encuentra (personal, social y laboral), considerando las consecuencias de  
 sus elecciones y buscando las mejores alternativas según sus circunstancias. 
 CC
@@ -1255,9 +1180,6 @@ CPSAA
 CC
 CCEC
 
-boc-a-2025-046-918
-Boletín Oficial de Canarias núm. 46 Jueves 6 de marzo de 202510312
-https://sede.gobiernodecanarias.org/boc
 Competencia específica 3. Desarrollar destrezas que contribuyan a la participación activa en procesos de  
 toma de decisiones comunitarias y políticas basadas en sus derechos y orientadas a la inclusión, a la  
 participación y al desarrollo de la autodeterminación y la vida independiente.
@@ -1363,9 +1285,6 @@ CCL
 CP
 CPSAA
 
-boc-a-2025-046-918
-Boletín Oficial de Canarias núm. 46 Jueves 6 de marzo de 202510313
-https://sede.gobiernodecanarias.org/boc
 Explicación del bloque competencial:
 Este bloque competencial se centra en el desarrollo de destrezas que fomenten la participación activa del  
 alumnado en procesos de toma de decisiones comunitarias y políticas como  una condición esencial para  
@@ -1461,9 +1380,6 @@ CCL
 CP
 CD
 
-boc-a-2025-046-918
-Boletín Oficial de Canarias núm. 46 Jueves 6 de marzo de 202510314
-https://sede.gobiernodecanarias.org/boc
 lingüística. CE
 CCEC
 Explicación del bloque competencial:
@@ -1548,9 +1464,6 @@ relacionadas con el desarrollo de la comunicación oral, escrita y multimodal, l
 personal, la competencia social y cívica y vida en comunidad. Es un ámbito con carácter 
 transversal que debe entramarse con los saberes de los restantes bloques.
 
-boc-a-2025-046-918
-Boletín Oficial de Canarias núm. 46 Jueves 6 de marzo de 202510315
-https://sede.gobiernodecanarias.org/boc
 CPSAA
 CCEC
 Explicación del bloque competencial:
@@ -1625,9 +1538,6 @@ género, orientación sexual.
 • Relaciones interpersonales: Construcción de relaciones saludables.
 • Prevención de violencias:  violencia digital, acoso sexual, agresión sexual.
 
-boc-a-2025-046-918
-Boletín Oficial de Canarias núm. 46 Jueves 6 de marzo de 202510316
-https://sede.gobiernodecanarias.org/boc
 BLOQUE B. PARTICIPACIÓN SOCIAL Y VIDA EN COMUNIDAD.
 I. Valores, derechos y deberes democráticos.
 • El ejercicio de una ciudadanía democrática: la participación, la responsabilidad ética y ecosocial,
@@ -1681,9 +1591,6 @@ adecuada para cada propósito.
 diversas fuentes de información. Selección adecuada de fuentes, síntesis y organización de ideas en
 formatos adecuados según el contexto.
 
-https://sede.gobiernodecanarias.org/boc
-boc-a-2025-046-918
-Boletín Oficial de Canarias núm. 46 Jueves 6 de marzo de 202510317
 ÁMBITO DE CIENCIAS APLICADAS Y COMPETENCIA LÓGICA.
 1. Introducción.
 El desarrollo curricular del ámbito de Ciencias aplicadas y competencia lógica en 
@@ -1729,9 +1636,6 @@ Mediante la planificación y gestión autónoma de actividades se contribuye a q
 las personas con discapacidad intelectual estructuren su actividad diaria y participen 
 activamente en la comunidad.
 
-https://sede.gobiernodecanarias.org/boc
-boc-a-2025-046-918
-Boletín Oficial de Canarias núm. 46 Jueves 6 de marzo de 202510318
 Asimismo, se promueven hábitos responsables, que refuerzan su sentido de pertenencia 
 y su compromiso con el entorno, contribuyendo al logro del objetivo b).
 El objetivo c), que busca comprender el sector productivo y los mecanismos de inserción 
@@ -1774,9 +1678,6 @@ Los criterios de evaluación propuestos servirán como referencia para orientar 
 aprendizaje, permitiendo que cada alumno o alumna avance a su propio ritmo y desarrolle 
 al máximo sus capacidades y competencias clave.
 
-boc-a-2025-046-918
-Boletín Oficial de Canarias núm. 46 Jueves 6 de marzo de 202510319
-https://sede.gobiernodecanarias.org/boc
 Competencia específica 1.  Aplicar conceptos matemáticos relacionados con cantidad, espacio y forma, 
 relaciones e incertidumbre para resolver problemas de la vida cotidiana, demostrando autonomía en la 
 solución de situaciones prácticas adaptadas a distintos contextos.
@@ -1853,9 +1754,6 @@ potenciará el uso de productos de apoyo ajustados a sus características person
 que tengan una repercusión directa en su aprendizaje, la empleabilidad, el acceso a la información y  
 participación social.
 
-boc-a-2025-046-918
-Boletín Oficial de Canarias núm. 46 Jueves 6 de marzo de 202510320
-https://sede.gobiernodecanarias.org/boc
 Competencia  específica  2.  Utilizar  herramientas  tecnológicas  y  digitales  para  organizar  y  gestionar 
 actividades cotidianas, así como para favorecer su autonomía y empleabilidad, adaptadas a cada contexto.
 Criterios de evaluación Competencias clave
@@ -1934,9 +1832,6 @@ desarrollar esta competencia deberán estar contextualizadas en los entornos de 
 cursadas,  de  tal  forma  que  asuman  hábitos  de  cuidado  medioambiental  en  relación  a  las  tareas 
 desempeñadas.
 
-boc-a-2025-046-918
-Boletín Oficial de Canarias núm. 46 Jueves 6 de marzo de 202510321
-https://sede.gobiernodecanarias.org/boc
 BLOQUE D
 I. Cálculo y medida
 • Comprensión y uso de cálculos numéricos, magnitudes y medidas en situaciones laborales y
@@ -1985,9 +1880,6 @@ saberes de los restantes bloques.
 El desarrollo curricular del ámbito de Prevención y orientación profesional en los 
 Itinerarios Formativos Específicos +16 y en los Itinerarios Formativos de Capacitación 
 
-https://sede.gobiernodecanarias.org/boc
-boc-a-2025-046-918
-Boletín Oficial de Canarias núm. 46 Jueves 6 de marzo de 202510322
 +21, de la Formación Profesional Adaptada, responde a los propósitos pedagógicos de 
 estas enseñanzas.
 La búsqueda de empleo, la consecución y el mantenimiento de este es un proceso 
@@ -2029,9 +1921,6 @@ capacidad para planificar su vida, permite a cada alumno y alumna tener un enfoq
 de su futuro y desarrollar un plan de búsqueda de empleo. El desarrollo de estas capacidades 
 contribuye directamente con el objetivo b), relacionado con la progresión del alumnado en 
 
-https://sede.gobiernodecanarias.org/boc
-boc-a-2025-046-918
-Boletín Oficial de Canarias núm. 46 Jueves 6 de marzo de 202510323
 la construcción de su proyecto vital, apoyando la elaboración de su itinerario personal 
 y profesional, y promoviendo el desarrollo de competencias clave para el aprendizaje 
 permanente.
@@ -2073,9 +1962,6 @@ Competencia específica 1. Comprender la relación entre trabajo y salud, identi
 los riesgos y daños que la actividad laboral conlleva, aplicando y cumpliendo las medidas 
 de prevención y protección, los protocolos de actuación en materia de planes de emergencia 
 
-https://sede.gobiernodecanarias.org/boc
-boc-a-2025-046-918
-Boletín Oficial de Canarias núm. 46 Jueves 6 de marzo de 202510324
 y las técnicas básicas de primeros auxilios de forma responsable para garantizar la salud 
 y seguridad de los trabajadores, con el fin de desarrollar las competencias necesarias en 
 materia de prevención de riesgos laborales en su actividad profesional.
@@ -2121,9 +2007,6 @@ Los criterios de evaluación propuestos servirán como referencia para orientar 
 aprendizaje, permitiendo que cada alumno o alumna avance a su propio ritmo y desarrolle 
 al máximo sus capacidades y competencias clave.
 
-boc-a-2025-046-918
-Boletín Oficial de Canarias núm. 46 Jueves 6 de marzo de 202510325
-https://sede.gobiernodecanarias.org/boc
 Competencia específica 1: Comprender la relación entre trabajo y salud, identificando los riesgos y daños  
 que la actividad laboral conlleva, aplicando y cumpliendo las medidas de prevención y protección, los  
 protocolos de actuación de los planes de emergencia y las técnicas básicas de primeros auxilios de forma  
@@ -2204,9 +2087,6 @@ CD
 CPSAA
 CE
 
-boc-a-2025-046-918
-Boletín Oficial de Canarias núm. 46 Jueves 6 de marzo de 202510326
-https://sede.gobiernodecanarias.org/boc
 1.5. Reconocer y clasificar las distintas formas de gestión de la prevención en  
 la empresa y las formas de representación de las personas trabajadoras en  
 materia  de  prevención  de  riesgos,  según  los  criterios  establecidos  en  la  
@@ -2307,9 +2187,6 @@ CPSAA
 CC
 CE
 
-boc-a-2025-046-918
-Boletín Oficial de Canarias núm. 46 Jueves 6 de marzo de 202510327
-https://sede.gobiernodecanarias.org/boc
 2.3. Identificar las principales oportunidades de empleo y de inserción laboral en  
 el  sector  productivo,  analizando  los  requerimientos  actuales  para  el  perfil  
 profesional. 
@@ -2413,9 +2290,6 @@ STEM
 CE
 CPSAA
 
-boc-a-2025-046-918
-Boletín Oficial de Canarias núm. 46 Jueves 6 de marzo de 202510328
-https://sede.gobiernodecanarias.org/boc
 4.4. Identificar las principales prestaciones y trámites derivados de la suspensión 
 y extinción de la relación laboral.
 CCL
@@ -2555,9 +2429,6 @@ entorno laboral.
 En conjunto, el aprendizaje de estas habilidades facilitará que el alumnado pueda desenvolverse con  
 mayor autonomía y seguridad en cualquier entorno profesional.
 
-boc-a-2025-046-918
-Boletín Oficial de Canarias núm. 46 Jueves 6 de marzo de 202510329
-https://sede.gobiernodecanarias.org/boc
 con apoyo y estrategias adecuadas.
 CC
 CE
@@ -2640,9 +2511,6 @@ personal, orientados a la mejora de habilidades y la ampliación de perspectivas
 • Oportunidades de empleo.
 • Ajustes y apoyos necesarios para alcanzar los intereses profesionales y personales.
 
-boc-a-2025-046-918
-Boletín Oficial de Canarias núm. 46 Jueves 6 de marzo de 202510330
-https://sede.gobiernodecanarias.org/boc
 BLOQUE E. PREVENCIÓN DE RIESGOS LABORALES
 I. Prevención y salud laboral
 • El trabajo y la salud. Principios y conceptos básicos de prevención.
@@ -2723,9 +2591,6 @@ ambiente de cooperación, respeto y adaptación a la diversidad cultural, social
 • Resolución de conflictos: identificación y gestión de desacuerdos o dificultades en situaciones
 grupales, promoviendo soluciones constructivas.
 
-boc-a-2025-046-918
-Boletín Oficial de Canarias núm. 46 Jueves 6 de marzo de 202510331
-https://sede.gobiernodecanarias.org/boc
 • Análisis de las amenazas, fortalezas y oportunidades para la inserción laboral. La marca personal.
 • Toma de decisiones informadas sobre el futuro laboral. Estrategias para analizar y seleccionar
 opciones relacionadas con la carrera profesional.
@@ -2776,9 +2641,6 @@ generar soluciones innovadoras.
 • Gestión  del  tiempo:  Priorización  de  tareas  y  cumplimiento  con  los  plazos  establecidos  en
 actividades laborales y de búsqueda de empleo.
 
-boc-a-2025-046-918
-Boletín Oficial de Canarias núm. 46 Jueves 6 de marzo de 202510332
-https://sede.gobiernodecanarias.org/boc
 ANEXO III
 FAMILIA PROFESIONAL: ADMINISTRACIÓN Y GESTIÓN
 OPERACIONES AUXILIARES DE SERVICIOS ADMINISTRATIVOS Y GENERALES 
@@ -2820,9 +2682,6 @@ OPERACIONES AUXILIARES DE SERVICIOS ADMINISTRATIVOS
 Y GENERALES (ADG305_1) 
 (RD 107/2008, de 1 de febrero1)
 
-boc-a-2025-046-918
-Boletín Oficial de Canarias núm. 46 Jueves 6 de marzo de 202510333
-https://sede.gobiernodecanarias.org/boc
 ANEXO IV
 FAMILIA PROFESIONAL: ADMINISTRACIÓN Y GESTIÓN
 OPERACIONES DE GRABACIÓN Y TRATAMIENTO DE DATOS Y DOCUMENTOS 
@@ -2865,9 +2724,6 @@ OPERACIONES DE GRABACIÓN Y TRATAMIENTO DE DATOS
 Y DOCUMENTOS (ADG306_1) 
 (RD 107/2008, de 1 de febrero2)
 
-boc-a-2025-046-918
-Boletín Oficial de Canarias núm. 46 Jueves 6 de marzo de 202510334
-https://sede.gobiernodecanarias.org/boc
 ANEXO V
 FAMILIA PROFESIONAL: AGRARIA
 ACTIVIDADES AUXILIARES EN FLORISTERÍA (AGA342_1)
@@ -2914,9 +2770,6 @@ FAMILIA PROFESIONAL: AGRARIA
 ACTIVIDADES AUXILIARES EN FLORISTERÍA (AGA342_1) 
 (RD 108/2008, de 1 de febrero3)
 
-boc-a-2025-046-918
-Boletín Oficial de Canarias núm. 46 Jueves 6 de marzo de 202510335
-https://sede.gobiernodecanarias.org/boc
 ANEXO VI
 FAMILIA PROFESIONAL: AGRARIA
 ACTIVIDADES AUXILIARES EN VIVEROS, JARDINES Y CENTROS DE JARDINERÍA 
@@ -2962,9 +2815,6 @@ ACTIVIDADES AUXILIARES EN VIVEROS, JARDINES Y CENTROS
 DE JARDINERÍA (AGA164_1) 
 (RD 1228/2006, de 27 de octubre4)
 
-boc-a-2025-046-918
-Boletín Oficial de Canarias núm. 46 Jueves 6 de marzo de 202510336
-https://sede.gobiernodecanarias.org/boc
 ANEXO VII
 FAMILIA PROFESIONAL: COMERCIO Y MARKETING
 ACTIVIDADES AUXILIARES DE COMERCIO (COM412_1)
@@ -3005,9 +2855,6 @@ FAMILIA PROFESIONAL: COMERCIO Y MARKETING
 ACTIVIDADES AUXILIARES DE COMERCIO (COM412_1) 
 (Orden EFP/63/2021, de 21 de enero5)
 
-boc-a-2025-046-918
-Boletín Oficial de Canarias núm. 46 Jueves 6 de marzo de 202510337
-https://sede.gobiernodecanarias.org/boc
 ANEXO VIII
 FAMILIA PROFESIONAL: HOSTELERÍA Y TURISMO
 OPERACIONES BÁSICAS DE RESTAURANTE Y BAR (HOT092_1)
@@ -3046,9 +2893,6 @@ FAMILIA PROFESIONAL: HOSTELERÍA Y TURISMO
 OPERACIONES BÁSICAS DE RESTAURANTE Y BAR (HOT092_1) 
 (RD 295/2004, de 20 de febrero de 20076)
 
-boc-a-2025-046-918
-Boletín Oficial de Canarias núm. 46 Jueves 6 de marzo de 202510338
-https://sede.gobiernodecanarias.org/boc
 ANEXO IX
 FAMILIA PROFESIONAL: IMAGEN PERSONAL
 SERVICIOS AUXILIARES DE ESTÉTICA (IMP118_1)
@@ -3089,9 +2933,6 @@ FAMILIA PROFESIONAL: IMAGEN PERSONAL
 SERVICIOS AUXILIARES DE ESTÉTICA (IMP118_1) 
 (RD 1087/2005, de 16 de septiembre7)
 
-boc-a-2025-046-918
-Boletín Oficial de Canarias núm. 46 Jueves 6 de marzo de 202510339
-https://sede.gobiernodecanarias.org/boc
 ANEXO X
 FAMILIA PROFESIONAL: IMAGEN PERSONAL
 SERVICIOS AUXILIARES DE PELUQUERÍA (IMP022_1)
@@ -3132,9 +2973,6 @@ FAMILIA PROFESIONAL: IMAGEN PERSONAL
 SERVICIOS AUXILIARES DE PELUQUERÍA (IMP022_1) 
 (RD 295/2004, de 20 de febrero8)
 
-boc-a-2025-046-918
-Boletín Oficial de Canarias núm. 46 Jueves 6 de marzo de 202510340
-https://sede.gobiernodecanarias.org/boc
 ANEXO XI
 D./Dña. _______________________________________________________________________________, 
 Secretario/Secretaria del centro _____________________________________________________________, 
@@ -3159,9 +2997,6 @@ Fdo:_________________________ Fdo:_______________________
 (Reverso)
 ANEXO XI
 
-https://sede.gobiernodecanarias.org/boc
-boc-a-2025-046-918
-Boletín Oficial de Canarias núm. 46 Jueves 6 de marzo de 202510341
 ÁMBITO DE PREVENCIÓN Y ORIENTACIÓN PROFESIONAL
 Competencia específica 1:
 • Comprender la relación entre trabajo y salud, identificando los riesgos y daños 
@@ -3194,9 +3029,6 @@ que garanticen un entorno de trabajo seguro y sostenible. Protección colectiva 
 • El control de la salud de los trabajadores.
 • Organismos públicos relacionados con la seguridad y salud en el trabajo.
 
-https://sede.gobiernodecanarias.org/boc
-boc-a-2025-046-918
-Boletín Oficial de Canarias núm. 46 Jueves 6 de marzo de 202510342
 • Gestión y organización del trabajo preventivo. Rutinas básicas.
 • Documentación a la que está obligada la empresa: recogida, elaboración y archivo.
 • Aplicación de principios básicos de higiene personal: las normas y los hábitos de 

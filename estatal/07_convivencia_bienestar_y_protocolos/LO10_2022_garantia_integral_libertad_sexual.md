@@ -36,9 +36,7 @@ fundamentos_derecho:
 
 # Ley Orgánica 10/2022 de Garantía Integral de la Libertad Sexual
 
-
 **FELIPE VI**
-
 
 **REY DE ESPAÑA**
 
@@ -46,30 +44,23 @@ A todos los que la presente vieren y entendieren.
 
 Sabed: Que las Cortes Generales han aprobado y Yo vengo en sancionar la siguiente ley orgánica:
 
-
 **ÍNDICE**
 
 Preámbulo.
 
 Título preliminar. Disposiciones generales.
 
-
 #### Artículo 1. Objeto y finalidad.
 
-
 #### Artículo 2. Principios rectores.
-
 
 #### Artículo 3. Ámbito de aplicación.
 
 Título I. Investigación y producción de datos.
 
-
 #### Artículo 4. Investigación y datos.
 
-
 #### Artículo 5. Órgano responsable.
-
 
 #### Artículo 6. Fomento de la investigación en materia de violencia sexual.
 
@@ -77,85 +68,59 @@ Título II. Prevención y detección.
 
 Capítulo I. Medidas de prevención y sensibilización.
 
-
 #### Artículo 7. Prevención y sensibilización en el ámbito educativo.
-
 
 #### Artículo 8. Prevención y sensibilización en el ámbito sanitario, sociosanitario y de servicios sociales.
 
-
 #### Artículo 9. Campañas institucionales de prevención e información.
-
 
 #### Artículo 10. Medidas de prevención en el ámbito digital y de la comunicación.
 
-
 #### Artículo 11. Prevención y sensibilización en el ámbito publicitario.
-
 
 #### Artículo 12. Prevención y sensibilización en el ámbito laboral.
 
-
 #### Artículo 13. Prevención y sensibilización en la Administración Pública, los organismos públicos y los órganos constitucionales.
-
 
 #### Artículo 14. Prevención y sensibilización en el ámbito castrense.
 
-
 #### Artículo 15. Prevención y sensibilización en instituciones residenciales y en centros penitenciarios, de detención, o de internamiento involuntario de personas.
 
-
 #### Artículo 16. Espacios públicos seguros.
-
 
 #### Artículo 17. Partidos políticos y organizaciones sociales.
 
 Capítulo II. Detección de las violencias sexuales.
 
-
 #### Artículo 18. Responsabilidad institucional de detección de las violencias sexuales.
-
 
 #### Artículo 19. Detección y respuesta en el ámbito educativo.
 
-
 #### Artículo 20. Detección e intervención en el ámbito sanitario.
 
-
 #### Artículo 21. Detección e intervención en el ámbito sociosanitario y en el sistema de servicios sociales.
-
 
 #### Artículo 22. Detección de casos de mutilación genital femenina, trata de mujeres con fines de explotación sexual y matrimonio forzado.
 
 Título III. Formación.
 
-
 #### Artículo 23. Garantía de especialización profesional a través de la formación.
-
 
 #### Artículo 24. Formación en el ámbito docente y educativo.
 
-
 #### Artículo 25. Formación del sector sanitario, sociosanitario y de servicios sociales.
-
 
 #### Artículo 26. Formación de las Fuerzas y Cuerpos de Seguridad.
 
-
 #### Artículo 27. Formación en las Carreras Judicial y Fiscal y de todo el personal al servicio de la Administración de Justicia.
-
 
 #### Artículo 28. Formación en el ámbito de la abogacía.
 
-
 #### Artículo 29. Formación en el ámbito forense.
-
 
 #### Artículo 30. Formación en el ámbito penitenciario y otros centros de internamiento o custodia.
 
-
 #### Artículo 31. Formación del personal en el exterior.
-
 
 #### Artículo 32. Medidas relativas a la evaluación, verificación y acreditación de centros y de títulos universitarios.
 
@@ -163,49 +128,35 @@ Título IV. Derecho a la asistencia integral especializada y accesible.
 
 Capítulo I. Alcance y garantía del derecho.
 
-
 #### Artículo 33. El derecho a la asistencia integral especializada y accesible.
-
 
 #### Artículo 34. Derecho a la información.
 
-
 #### Artículo 35. Servicios de asistencia integral especializada y accesible.
 
-
 #### Artículo 36. Garantía de los derechos de las víctimas en situación administrativa irregular.
-
 
 #### Artículo 37. Acreditación de la existencia de violencias sexuales.
 
 Capítulo II. Autonomía económica, derechos laborales y vivienda.
 
-
 #### Artículo 38. Derechos laborales y de Seguridad Social.
-
 
 #### Artículo 39. Programa específico de empleo.
 
-
 #### Artículo 40. Derechos de las funcionarias públicas.
 
-
 #### Artículo 41. Ayudas económicas a las víctimas de violencias sexuales.
-
 
 #### Artículo 42. Acceso a la vivienda.
 
 Título V. Actuación de las Fuerzas y Cuerpos de Seguridad.
 
-
 #### Artículo 43. Actuación policial especializada.
-
 
 #### Artículo 44. Investigación policial.
 
-
 #### Artículo 45. Protección efectiva de las víctimas en riesgo.
-
 
 #### Artículo 46. Colaboración policial.
 
@@ -213,153 +164,105 @@ Título VI. Acceso y obtención de justicia.
 
 Capítulo I. Actuaciones fundamentales para la acreditación del delito.
 
-
 #### Artículo 47. Unidades de valoración forense integral.
-
 
 #### Artículo 48. Práctica forense disponible, accesible y especializada.
 
 Capítulo II. Protección, acompañamiento y seguridad de las víctimas.
 
-
 #### Artículo 49. Información y acompañamiento en el ámbito judicial.
 
-
 #### Artículo 50. Protección de datos y limitaciones a la publicidad.
-
 
 #### Artículo 51. Asistencia de Embajadas y Oficinas Consulares.
 
 Título VII. Derecho a la reparación.
 
-
 #### Artículo 52. Alcance y garantía del derecho a la reparación.
-
 
 #### Artículo 53. Indemnización.
 
-
 #### Artículo 54. Pensión de orfandad y prestación de orfandad.
-
 
 #### Artículo 55. Completa recuperación y garantías de no repetición.
 
-
 #### Artículo 56. Fondos para la reparación a las víctimas.
-
 
 #### Artículo 57. Reparación simbólica y enfoque reparador integral transformador.
 
 Título VIII. Medidas para la aplicación efectiva de la ley orgánica.
 
-
 #### Artículo 58. Estructura institucional.
-
 
 #### Artículo 59. Colaboración para una intervención coordinada.
 
-
 #### Artículo 60. Estrategia estatal de prevención y respuesta a las violencias machistas.
-
 
 #### Artículo 61. Mesa de coordinación estatal sobre violencias sexuales.
 
-
 #### Disposición adicional primera. Aprobación de la Estrategia estatal de prevención y respuesta a las violencias machistas.
-
 
 #### Disposición adicional segunda. Financiación de costes para la Seguridad Social con cargo a los Presupuestos Generales del Estado.
 
-
 #### Disposición adicional tercera. Evaluación de la aplicación de la ley orgánica.
-
 
 #### Disposición adicional cuarta. Sistema de financiación de las políticas públicas en materia de violencia contra las mujeres en el marco del Pacto de Estado Contra la Violencia de Género.
 
-
 #### Disposición adicional quinta. Evaluación y monitoreo de la actividad de las instituciones en materia de violencia contra las mujeres.
-
 
 #### Disposición transitoria única. Aplicación de medidas.
 
-
 #### Disposición final primera. Modificación de la Ley de Enjuiciamiento Criminal, aprobada por Real Decreto de 14 de septiembre de 1882.
-
 
 #### Disposición final segunda. Modificación de la Ley Orgánica 8/1985, de 3 de julio, reguladora del Derecho a la Educación.
 
-
 #### Disposición final tercera. Modificación de la Ley 34/1988, de 11 de noviembre, General de Publicidad.
-
 
 #### Disposición final cuarta. Modificación de la Ley Orgánica 10/1995, de 23 de noviembre, del Código Penal.
 
-
 #### Disposición final quinta. Modificación de la Ley 35/1995, de 11 de diciembre, de ayudas y asistencia a las víctimas de delitos violentos y contra la libertad sexual.
-
 
 #### Disposición final sexta. Modificación de la Ley Orgánica 4/2000, de 11 de enero, sobre derechos y libertades de los extranjeros en España y su integración social.
 
-
 #### Disposición final séptima. Modificación de la Ley Orgánica 5/2000, 12 de enero, reguladora de la responsabilidad penal de los menores.
-
 
 #### Disposición final octava. Modificación de la Ley 38/2003, de 17 de noviembre, General de Subvenciones.
 
-
 #### Disposición final novena. Modificación de la Ley Orgánica 1/2004, de 28 de diciembre, de Medidas de Protección Integral contra la Violencia de Género.
-
 
 #### Disposición final décima. Modificación de la Ley Orgánica 3/2007, de 22 de marzo, para la igualdad efectiva de mujeres y hombres.
 
-
 #### Disposición final undécima. Modificación de la Ley 20/2007, de 11 de julio, del Estatuto del trabajo autónomo.
-
 
 #### Disposición final duodécima. Modificación de la Ley 4/2015, de 27 de abril, del Estatuto de la víctima del delito.
 
-
 #### Disposición final decimotercera. Modificación de la Ley Orgánica 14/2015, de 14 de octubre, del Código Penal Militar.
-
 
 #### Disposición final decimocuarta. Modificación del texto refundido de la Ley del Estatuto de los Trabajadores, aprobado por Real Decreto Legislativo 2/2015, de 23 de octubre.
 
-
 #### Disposición final decimoquinta. Modificación del texto refundido de la Ley del Estatuto Básico del Empleado Público, aprobado por Real Decreto Legislativo 5/2015, de 30 de octubre.
-
 
 #### Disposición final decimosexta. Modificación del texto refundido de la Ley General de la Seguridad Social, aprobado por Real Decreto Legislativo 8/2015, de 30 de octubre.
 
-
 #### Disposición final decimoséptima. Naturaleza y rango jurídico.
-
 
 #### Disposición final decimoctava. Título competencial.
 
-
 #### Disposición final decimonovena. Competencias autonómicas.
-
 
 #### Disposición final vigésima. Especialización en violencias sexuales.
 
-
 #### Disposición final vigesimoprimera. Asistencia jurídica gratuita a las víctimas de violencias sexuales.
-
 
 #### Disposición final vigesimosegunda. Fondo de bienes decomisados por delitos contra la libertad sexual.
 
-
 #### Disposición final vigesimotercera. Modificaciones reglamentarias.
-
 
 #### Disposición final vigesimocuarta. Habilitación para el desarrollo reglamentario.
 
-
 #### Disposición final vigesimoquinta. Entrada en vigor.
 
-
 ## PREÁMBULO
-
 
 **I**
 
@@ -384,7 +287,6 @@ A contrario sensu, resulta también imprescindible dar respuesta a la indefensi�
 Además de la edad, otros factores determinan que no todas las víctimas de violencias sexuales cuenten con las mismas oportunidades de vivir sin violencia y de obtener una respuesta adecuada en su búsqueda de apoyo, protección y justicia. Esta ley orgánica adopta la interseccionalidad como concepto básico para describir las obligaciones del Estado frente a las discriminaciones y su impacto. La discriminación por motivos de género está unida de manera indivisible a otros factores de discriminación como la discapacidad, el origen racial o étnico, la orientación sexual, la identidad sexual, la clase social, la situación administrativa, el país de procedencia, la religión, la convicción u opinión o el estado civil.
 
 Esta ley orgánica pretende impulsar la prevención de las violencias sexuales y garantizar los derechos de todas las víctimas, poniendo las bases para la eliminación de los obstáculos añadidos que algunas encuentran por los factores de discriminación descritos. Para asegurar la prevención, una respuesta efectiva a las víctimas y la sanción proporcional de estas conductas, se confiere una importancia central a la puesta en marcha de medidas integrales e interdisciplinares de actuación institucional y profesional especializada y coordinada.
-
 
 **II**
 
@@ -413,7 +315,6 @@ Por último, ha de señalarse que el primer informe de evaluación de la aplicac
 El GREVIO identifica una serie de cuestiones que requieren acción urgente, tales como fortalecer las medidas para prevenir y combatir la violencia que afecta a mujeres expuestas a discriminación interseccional; reforzar la formación de profesionales como agentes policiales, trabajadores de la salud y docentes, y evaluar las diferentes capacitaciones disponibles para el poder judicial; mejorar la prestación de servicios de apoyo, en particular mediante la adopción de medidas efectivas para garantizar una provisión de alojamiento suficiente; o reforzar el marco legal sobre violencia psicológica, acoso, violencia sexual, acoso sexual y mutilación genital femenina. Todo ello son cuestiones a las que la ley da respuesta.
 
 Esta ley orgánica pretende dar cumplimiento a las mencionadas obligaciones globales en materia de protección de los derechos humanos de las mujeres, las niñas y los niños frente a las violencias sexuales, integrándose también en la política exterior española; y, siguiendo el mandato del artículo 9.2 de la Constitución, remover los obstáculos para la prevención de estas violencias, así como para garantizar una respuesta adecuada, integral y coordinada que proporcione atención, protección, justicia y reparación a las víctimas. Para ello, esta ley orgánica extiende y desarrolla para las violencias sexuales todos aquellos aspectos preventivos, de atención, sanción, especialización o asistencia integral que, estando vigentes para otras violencias, no contaban con medidas específicas para poder abordar de forma adecuada y transversal las violencias sexuales. Además, como novedad, se desarrolla el derecho a la reparación, como uno de los ejes centrales de la responsabilidad institucional para lograr la completa recuperación de las víctimas y las garantías de no repetición de la violencia.
-
 
 **III**
 
@@ -489,7 +390,6 @@ La disposición final vigesimosegunda prevé la creación, en el plazo de un añ
 
 Finalmente, la disposición final vigesimocuarta se refiere al desarrollo reglamentario de la norma por parte del Gobierno y la disposición final vigesimoquinta regula la entrada en vigor de la norma.
 
-
 **IV**
 
 La presente ley orgánica se adecua a los principios de buena regulación previstos en el artículo 129 de la Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común de las Administraciones Públicas. Dicho precepto dispone que, en el ejercicio de la iniciativa legislativa y la potestad reglamentaria, las administraciones públicas actuarán de acuerdo con los principios de necesidad, eficacia, proporcionalidad, seguridad jurídica, transparencia y eficiencia.
@@ -512,17 +412,13 @@ En aplicación del principio de transparencia, se han puesto a disposición de l
 
 Por último, en aplicación del principio de eficiencia, la iniciativa normativa evita la imposición de cargas administrativas y racionaliza, en su aplicación, la gestión de los recursos públicos.
 
-
 **V**
 
 La presente ley orgánica se dicta al amparo de las competencias exclusivas atribuidas al Estado por los títulos competenciales recogidos en los artículos 149.1. 1.ª, 2.ª, 4.ª, 5.ª, 6.ª, 7.ª, 13.ª, 16.ª, 17.ª, 18.ª, 21.ª, 27.ª, 29.ª, 30.ª y 31.ª de la Constitución.
 
-
 ## TÍTULO PRELIMINAR
 
-
 **Disposiciones generales**
-
 
 #### Artículo 1. Objeto y finalidad.
 
@@ -552,7 +448,6 @@ i) Garantizar la adecuada formación y capacitación de las personas profesion
 
 j) Asegurar el principio de transversalidad de las medidas, de manera que en su aplicación se tengan en cuenta las necesidades y demandas específicas de las víctimas de violencias sexuales.
 
-
 #### Artículo 2. Principios rectores.
 
 A efectos de la presente ley orgánica, serán principios rectores de la actuación de los poderes públicos los siguientes:
@@ -577,7 +472,6 @@ i) Equidad territorial. Todas las políticas que adopten las administraciones 
 
 j) Cooperación. Todas las políticas que se adopten en ejecución de la presente ley orgánica se aplicarán por medio de una cooperación efectiva entre todas las administraciones públicas, instituciones y organizaciones implicadas en la lucha contra las violencias sexuales. En el seno de la Conferencia Sectorial de Igualdad podrán adoptarse planes y programas conjuntos de actuación entre todas las administraciones públicas competentes con esta finalidad.
 
-
 #### Artículo 3. Ámbito de aplicación.
 
 1. El ámbito de aplicación objetivo de esta ley orgánica comprende las violencias sexuales, entendidas como cualquier acto de naturaleza sexual no consentido o que condicione el libre desarrollo de la vida sexual en cualquier ámbito público o privado, incluyendo el ámbito digital. Se considera incluido en el ámbito de aplicación, a efectos estadísticos y de reparación, el feminicidio sexual, entendido como homicidio o asesinato de mujeres y niñas vinculado a conductas definidas en el siguiente párrafo como violencias sexuales.
@@ -590,12 +484,9 @@ En todo caso se consideran violencias sexuales los delitos previstos en el Títu
 
 4. En el marco de la legislación vigente, habrá que tomar en consideración, junto con la libertad sexual, la protección frente a las violencias sexuales cometidas contra menores o contra personas con capacidad jurídica modificada, como manifestación de la dignidad de la persona humana y el derecho que todo ser humano tiene a un libre desarrollo de su personalidad, sin intervenciones traumáticas en su esfera íntima por parte de terceras personas.
 
-
 ## TÍTULO I
 
-
 **Investigación y producción de datos**
-
 
 #### Artículo 4. Investigación y datos.
 
@@ -604,7 +495,6 @@ En todo caso se consideran violencias sexuales los delitos previstos en el Títu
 Se incorporarán datos estadísticos proporcionados por el Consejo General del Poder Judicial de forma trimestral, desglosado por tribunales, provincias y partidos judiciales con el fin de disponer de una información integral de la evolución de estos de forma similar a como se prevé en la Ley Orgánica 1/2004, de 28 de diciembre, de Medidas de Protección Integral contra la Violencia de Género.
 
 2. La Administración General del Estado, en colaboración con las comunidades autónomas y las Entidades Locales, realizará y mantendrá actualizado un mapa de recursos de atención a las víctimas de violencias sexuales.
-
 
 #### Artículo 5. Órgano responsable.
 
@@ -620,21 +510,17 @@ d) Elaborará recomendaciones y propuestas de acción destinadas a la erradica
 
 e) Impulsará la coordinación interministerial y la cooperación con otras instituciones y órganos de carácter académico y social.
 
-
 #### Artículo 6. Fomento de la investigación en materia de violencia sexual.
 
 Las administraciones públicas competentes en materia de investigación fomentarán la investigación relativa a las violencias sexuales, con especial énfasis en los instrumentos de detección, prevención, así como la efectividad de las medidas de protección, incluidas las violencias relacionadas con formas de discriminación interseccional o múltiple.
 
-
 ## TÍTULO II
-
 
 **Prevención y detección**
 
 CAPÍTULO I
 
 Medidas de prevención y sensibilización
-
 
 #### Artículo 7. Prevención y sensibilización en el ámbito educativo.
 
@@ -646,11 +532,9 @@ Medidas de prevención y sensibilización
 
 4. Los servicios de inspección educativa, u órganos que las administraciones educativas competentes determinen, velarán por el cumplimiento y aplicación de lo previsto en los apartados 1 y 2 de este artículo en todos los ámbitos del sistema educativo.
 
-
 #### Artículo 8. Prevención y sensibilización en el ámbito sanitario, sociosanitario y de servicios sociales.
 
 Las administraciones sanitarias, sociosanitarias y de servicios sociales competentes, en el seno del Consejo Interterritorial del Sistema Nacional de Salud y del Consejo Territorial de Servicios Sociales y del Sistema para la Autonomía y Atención a la Dependencia, promoverán la adopción de medidas para la prevención y sensibilización de las violencias sexuales sobre las personas usuarias de los recursos sanitarios, sociosanitarios y de servicios sociales, respetando, en todo caso, las competencias en estas materias de las comunidades autónomas.
-
 
 #### Artículo 9. Campañas institucionales de prevención e información.
 
@@ -670,7 +554,6 @@ f) Campañas de concienciación y sensibilización dirigidas específicamente 
 
 2. Las campañas se realizarán de manera que sean accesibles a la población, tomando en consideración circunstancias tales como la edad, la discapacidad, el idioma, el medio rural, la insularidad o la eventual residencia en el extranjero de nacionales españolas. Para ello, tendrán especial divulgación en los medios de comunicación de titularidad pública y en los centros educativos, sociales, sanitarios, laborales, culturales y deportivos.
 
-
 #### Artículo 10. Medidas de prevención en el ámbito digital y de la comunicación.
 
 1. Los poderes públicos, en el ámbito de sus respectivas competencias, promoverán, respetando en todo caso la libertad de expresión, la independencia y la libre prestación de servicios, las siguientes medidas que contribuyan a prevenir las violencias sexuales en el ámbito de las nuevas tecnologías de la información y la comunicación, incluyendo la apología de estas conductas:
@@ -685,7 +568,6 @@ c) La adopción de acuerdos de autorregulación que, contando con mecanismos d
 
 3. La Agencia Española de Protección de Datos garantizará la disponibilidad de un cauce accesible y seguro de denuncia de la existencia de contenidos ilícitos en Internet que comportaran un menoscabo grave del derecho a la protección de datos personales.
 
-
 #### Artículo 11. Prevención y sensibilización en el ámbito publicitario.
 
 1. Se considerará ilícita la publicidad que utilice estereotipos de género que fomenten o normalicen las violencias sexuales contra las mujeres, niñas, niños y adolescentes, así como las que supongan promoción de la prostitución en los términos establecidos en la Ley 34/1998, de 11 de noviembre, General de Publicidad.
@@ -693,7 +575,6 @@ c) La adopción de acuerdos de autorregulación que, contando con mecanismos d
 2. Las administraciones públicas promoverán la adopción de acuerdos de autorregulación con las asociaciones del ámbito publicitario, con el fin de garantizar que la prevención de las violencias sexuales se integre como uno de los objetivos de los códigos de conducta publicitaria. A efectos de lo anterior, se promoverá que las plantillas de las empresas de este sector reciban formación sobre esta materia.
 
 3. Las administraciones educativas competentes y las universidades impulsarán la inclusión, en los planes de estudios conducentes a la obtención de los títulos universitarios o títulos de formación profesional oficiales relacionados con la publicidad, de contenidos dirigidos a la prevención, sensibilización y formación en materia de violencias sexuales. Se prestará particular atención a los estereotipos de género.
-
 
 #### Artículo 12. Prevención y sensibilización en el ámbito laboral.
 
@@ -713,7 +594,6 @@ Las empresas deberán incluir en la valoración de riesgos de los diferentes pue
 
 4. Por real decreto se determinará el procedimiento y las condiciones para la concesión, revisión periódica y retirada del distintivo al que se refiere el apartado anterior, las facultades derivadas de su obtención y las condiciones de difusión institucional de las empresas que lo obtengan.
 
-
 #### Artículo 13. Prevención y sensibilización en la Administración Pública, los organismos públicos y los órganos constitucionales.
 
 1. En el marco de lo establecido en la Ley Orgánica 3/2007, de 22 de marzo, y en la legislación autonómica, las administraciones públicas, los organismos públicos y los órganos constitucionales deberán promover condiciones de trabajo que eviten las conductas que atenten contra la libertad sexual y la integridad moral en el trabajo, incidiendo especialmente en el acoso sexual y el acoso por razón de sexo, incluidos los cometidos en el ámbito digital. Asimismo, deberán arbitrar procedimientos o protocolos específicos para su prevención, detección temprana, denuncia y asesoramiento a quienes hayan sido víctimas de estas conductas.
@@ -722,11 +602,9 @@ Las empresas deberán incluir en la valoración de riesgos de los diferentes pue
 
 3. Se establecerán medidas y campañas de prevención, concienciación y promoción de la denuncia para la prevención de casos de mutilación genital femenina, trata de mujeres con fines de explotación sexual y matrimonio forzado, incluyendo las operaciones de colaboración entre agentes y entidades nacionales e internacionales, por medio de acuerdos bilaterales o multilaterales que favorezcan el intercambio de información para lograr dicho fin dentro del marco de la cooperación internacional al desarrollo.
 
-
 #### Artículo 14. Prevención y sensibilización en el ámbito castrense.
 
 El Ministerio de Defensa incluirá en sus planes de formación de los mandos y en la instrucción y adiestramiento de la tropa y marinería, suboficiales y oficiales, medidas de prevención y sensibilización frente a las violencias sexuales, incluidas específicamente las cometidas en el ámbito digital. Estas medidas se dirigirán tanto al personal civil del Ministerio de Defensa como al personal militar, teniendo en cuenta, en particular, el personal que se encuentra destacado en el exterior.
-
 
 #### Artículo 15. Prevención y sensibilización en instituciones residenciales y en centros penitenciarios, de detención, o de internamiento involuntario de personas.
 
@@ -736,13 +614,11 @@ Será necesario prever protocolos específicos de detección de prácticas de vi
 
 Asimismo, deberán arbitrar procedimientos específicos para su prevención, estableciendo las medidas necesarias para que las instituciones residenciales sean un entorno seguro, libre de violencias, partiendo de la necesaria formación específica en materia de violencia sexual del personal que trabaja en esos centros.
 
-
 #### Artículo 16. Espacios públicos seguros.
 
 1. La Administración General del Estado y las comunidades autónomas con competencias en la materia, apoyarán a las Entidades Locales para que desarrollen políticas urbanísticas y de seguridad con enfoque de género que garanticen que los espacios públicos de los municipios sean seguros y accesibles para todas las mujeres, las niñas y los niños.
 
 2. Las empresas integrarán la perspectiva de género en la organización de los espacios de sus centros de trabajo con el fin de que resulten seguros y accesibles para todas las trabajadoras.
-
 
 #### Artículo 17. Partidos políticos y organizaciones sociales.
 
@@ -751,7 +627,6 @@ Los partidos políticos y las organizaciones sociales legalmente constituidas de
 CAPÍTULO II
 
 Detección de las violencias sexuales
-
 
 #### Artículo 18. Responsabilidad institucional de detección de las violencias sexuales.
 
@@ -763,11 +638,9 @@ Detección de las violencias sexuales
 
 4. Todos los poderes públicos actuarán con la diligencia debida con el fin de que las víctimas de violencia puedan acceder a un ejercicio efectivo de los derechos previstos en esta ley y en los Convenios Internacionales contra la violencia de género.
 
-
 #### Artículo 19. Detección y respuesta en el ámbito educativo.
 
 Las administraciones educativas, en el ámbito de sus respectivas competencias y en el marco de la conferencia sectorial correspondiente, promoverán la aplicación, permanente actualización y difusión de protocolos que contengan pautas de actuación para la prevención, detección y erradicación de las violencias sexuales en el ámbito educativo, tanto público como privado, y para cada uno de los niveles educativos, incluido el ámbito universitario, en el marco de lo establecido en la legislación en materia de universidades que resulte de aplicación. Tales protocolos impulsarán actividades continuadas de prevención y sistemas de detección precoz e intervención para casos de violencias sexuales, de acuerdo con los principios rectores de la presente ley orgánica.
-
 
 #### Artículo 20. Detección e intervención en el ámbito sanitario.
 
@@ -781,24 +654,19 @@ Las administraciones educativas, en el ámbito de sus respectivas competencias y
 
 5. El protocolo común de actuaciones será el marco desde el que actualizar y mejorar los protocolos sanitarios autonómicos existentes, asegurando una actuación homogénea y adecuada del personal sanitario en el conjunto del Estado.
 
-
 #### Artículo 21. Detección e intervención en el ámbito sociosanitario y en el sistema de servicios sociales.
 
 1. Las administraciones públicas, en el ámbito de sus respectivas competencias y en el seno del Consejo Territorial de Servicios Sociales y del Sistema para la Autonomía y Atención a la Dependencia, y del Consejo Interterritorial del Sistema Nacional de Salud promoverán los procedimientos y la adecuada formación del personal sociosanitario y del sistema de los servicios sociales generales para la detección de las violencias sexuales, que deberá incluir tanto los espacios residenciales como los ambulatorios.
 
 2. En los planes de servicios sociales, de prevención de las situaciones de dependencia y de prevención de deficiencias y de intensificación de discapacidades, así como en otros en los que proceda, se contemplará un apartado de prevención, detección e intervención integral frente a las violencias sexuales.
 
-
 #### Artículo 22. Detección de casos de mutilación genital femenina, trata de mujeres con fines de explotación sexual y matrimonio forzado.
 
 Los poderes públicos establecerán protocolos de actuación que permitan la detección y atención de casos de mutilación genital femenina, de trata de mujeres con fines de explotación sexual y de matrimonio forzado, para lo cual se procurará la formación específica necesaria para la especialización profesional, pudiendo incluirse acciones específicas en el marco de la cooperación internacional al desarrollo.
 
-
 ## TÍTULO III
 
-
 **Formación**
-
 
 #### Artículo 23. Garantía de especialización profesional a través de la formación.
 
@@ -808,7 +676,6 @@ Los poderes públicos establecerán protocolos de actuación que permitan la det
 
 3. Las administraciones públicas fomentarán y promoverán la formación especializada de los sectores previstos en este Título, con especial incidencia en la formación de los profesionales en ejercicio.
 
-
 #### Artículo 24. Formación en el ámbito docente y educativo.
 
 1. Las administraciones educativas competentes y las universidades impulsarán la inclusión de contenidos dirigidos a la capacitación para la prevención, sensibilización, detección y formación en materia de violencias sexuales en los planes de estudios de los títulos universitarios oficiales que conducen al ejercicio de profesiones docentes.
@@ -817,13 +684,11 @@ Los poderes públicos establecerán protocolos de actuación que permitan la det
 
 3. En la formación permanente del profesorado universitario y del personal de administración y servicios se incorporarán contenidos dirigidos a la capacitación para la prevención, sensibilización y detección en materia de violencias sexuales.
 
-
 #### Artículo 25. Formación del sector sanitario, sociosanitario y de servicios sociales.
 
 1. Las administraciones educativas competentes y las universidades impulsarán la incorporación de contenidos formativos para la prevención, detección, intervención y apoyo a las víctimas de violencias sexuales en los planes de estudios de los títulos universitarios o títulos de formación profesional oficiales del ámbito de las ciencias de la salud y del ámbito de los servicios sociales en los que resulte coherente conforme a las competencias inherentes a los mismos.
 
 2. Asimismo, las administraciones públicas competentes se asegurarán de que los planes de formación continua de las personas trabajadoras del Sistema Nacional de Salud y de la red de servicios sociales se incluyan temas dedicados a la sensibilización y formación en materia de prevención, detección y actuación en casos de violencias sexuales, así como en el tratamiento de las víctimas de violencias sexuales y sus derechos.
-
 
 #### Artículo 26. Formación de las Fuerzas y Cuerpos de Seguridad.
 
@@ -833,20 +698,17 @@ Los poderes públicos establecerán protocolos de actuación que permitan la det
 
 3. En la formación del personal de las Fuerzas y Cuerpos de Seguridad del Estado desplazado en países en conflicto se incluirá formación específica sobre prevención, detección y respuesta a las violencias sexuales.
 
-
 #### Artículo 27. Formación en las Carreras Judicial y Fiscal y de todo el personal al servicio de la Administración de Justicia.
 
 1. El Ministerio de Justicia, el Consejo General del Poder Judicial y la Fiscalía General del Estado adoptarán las medidas necesarias para garantizar que, en el temario de acceso a las Carreras Judicial y Fiscal, así como al Cuerpo de Letrados de la Administración de Justicia y otro personal al servicio de la Administración de Justicia, se incluyan temas dedicados a la igualdad entre hombres y mujeres desde una perspectiva interseccional, y en especial, a la protección integral contra todas las violencias sexuales, considerando la situación de las mujeres, niñas, niños y adolescentes afectados por formas múltiples e interrelacionadas de discriminación, como las mujeres con discapacidad o inmigrantes, entre otras.
 
 2. El Ministerio de Justicia, en colaboración en su caso con la Fiscalía General del Estado, el Consejo General del Poder Judicial y las comunidades autónomas con competencias al respecto, asegurarán que, en la formación inicial y continua de los integrantes de la Carrera Judicial, del Ministerio Fiscal y demás personal al servicio de la Administración de Justicia se incluya transversalmente la perspectiva de género y, en especial, las obligaciones del sistema de justicia en relación con las violencias sexuales, considerando el derecho al acceso a la justicia de las mujeres, niñas, niños y adolescentes afectados por formas múltiples e interrelacionadas de discriminación.
 
-
 #### Artículo 28. Formación en el ámbito de la abogacía.
 
 1. Las administraciones públicas, en colaboración con el Consejo General de la Abogacía Española y los Colegios de la Abogacía, así como el Consejo General de Procuradores de España y los Colegios Oficiales de Procuradores, garantizarán una formación adecuada, periódica y gratuita de los letrados y procuradores encargados de asistir a víctimas de violencias sexuales, en materia de igualdad, perspectiva de género y protección integral contra todas las violencias sexuales, considerando en particular el derecho al acceso a la justicia de las mujeres, niñas, niños y adolescentes afectados por formas múltiples e interrelacionadas de discriminación, como las mujeres con discapacidad o inmigrantes, entre otras.
 
 2. Los Colegios de la Abogacía, exigirán para el ejercicio del turno de oficio cursos de especialización en violencia de género que incluirán como línea de formación una específica en violencias sexuales.
-
 
 #### Artículo 29. Formación en el ámbito forense.
 
@@ -856,18 +718,15 @@ Los poderes públicos establecerán protocolos de actuación que permitan la det
 
 3. Asimismo, se garantizará la formación para una adecuada especialización de todo el personal del Cuerpo Nacional de Médicos Forenses que realice la valoración de circunstancias y daños ocasionados en casos de violencias sexuales, considerando especialmente la situación de mujeres, niñas, niños y adolescentes afectados por formas múltiples e interrelacionadas de discriminación.
 
-
 #### Artículo 30. Formación en el ámbito penitenciario y otros centros de internamiento o custodia.
 
 1. Las administraciones públicas competentes en materia penitenciaria asegurarán que, en la formación inicial, continua y para la promoción y la capacitación profesional de quienes trabajan en los centros penitenciarios y de menores infractores, se incluya transversalmente la perspectiva de género, así como medidas dirigidas a su formación respecto a la protección integral contra las violencias sexuales en el ámbito de sus funciones, considerando la situación de las mujeres, niñas, niños y adolescentes afectados por formas múltiples e interrelacionadas de discriminación, como las mujeres con discapacidad o inmigrantes, entre otras.
 
 2. Asimismo, se garantizará esta formación al personal que preste sus servicios en los centros de internamiento de personas extranjeras y otros centros de custodia o acogida, incluidos los de estancia temporal y los de menores de edad.
 
-
 #### Artículo 31. Formación del personal en el exterior.
 
 El Ministerio de Asuntos Exteriores, Unión Europea y Cooperación proporcionará formación inicial y continua al personal funcionario y contratado localmente que se encargue, en el ámbito de la asistencia consular o en cualesquiera otras funciones, de la atención a las víctimas españolas de violencias sexuales en el extranjero.
-
 
 #### Artículo 32. Medidas relativas a la evaluación, verificación y acreditación de centros y de títulos universitarios.
 
@@ -877,16 +736,13 @@ La ausencia de los contenidos en materia de igualdad de género y de prevención
 
 2. Las universidades establecerán un itinerario formativo en materia de prevención de la violencia contra las mujeres y de promoción de la igualdad entre mujeres y hombres, evaluable y acreditable por la Agencia Nacional de Evaluación de la Calidad y Acreditación o la autoridad competente del Ministerio de Educación y Formación Profesional o, en su caso, los órganos competentes de las comunidades autónomas, en los planes de estudios conducentes a la obtención de títulos universitarios oficiales en los que resulte coherente conforme a las competencias inherentes a los mismos.
 
-
 ## TÍTULO IV
-
 
 **Derecho a la asistencia integral especializada y accesible**
 
 CAPÍTULO I
 
 Alcance y garantía del derecho
-
 
 #### Artículo 33. El derecho a la asistencia integral especializada y accesible.
 
@@ -922,7 +778,6 @@ Igualmente, se garantizará el normal funcionamiento y prestación del sistema d
 
 5. Los servicios de salud mental que se presten a las mujeres víctimas de violencias sexuales deberán ser diseñados con perspectiva de género y derechos humanos y deberán garantizar el consentimiento libre e informado de la mujer para cualquier tratamiento médico. Para ello, se le deberán facilitar los apoyos que pueda necesitar para ejercer ese derecho, así como para la adopción de decisiones sobre su propia vida.
 
-
 #### Artículo 34. Derecho a la información.
 
 1. Las víctimas de violencias sexuales tienen derecho a recibir plena información y asesoramiento adecuado a su situación personal, a través de los servicios, organismos u oficinas que dispongan las administraciones públicas.
@@ -934,7 +789,6 @@ A tal efecto las administraciones públicas competentes desplegarán, financiar�
 2. Se garantizará, a través de los medios necesarios, el acceso integral de las mujeres con discapacidad, así como de las niñas y los niños víctimas de violencias sexuales, a la información sobre sus derechos y sobre los recursos existentes. Esta información deberá ofrecerse en formato accesible y comprensible adaptado a las circunstancias de edad y discapacidad, incluyendo sistemas tales como la lengua de signos u otras modalidades u opciones de comunicación, incluidos los sistemas alternativos y aumentativos. En su caso, se proporcionará, además, a la persona representante de la víctima o a quien tenga atribuida su guarda, protección o defensa, sin perjuicio del deber de atención inmediata e información previsto en el artículo 16.4 de la Ley Orgánica 8/2021 de protección integral de la infancia y adolescencia frente a la violencia, y el derecho de los niños, niñas y adolescentes a estar acompañados de una persona de su confianza previsto en el artículo 17.2 de la misma ley.
 
 3. Asimismo, se articularán los medios necesarios para que las víctimas de violencias sexuales que, por sus circunstancias personales, sociales o idiomáticas, puedan tener dificultades para el acceso a la información, tengan garantizado el ejercicio efectivo de este derecho, garantizando siempre que la información esté disponible en las reconocidas como lenguas propias de cada territorio.
-
 
 #### Artículo 35. Servicios de asistencia integral especializada y accesible.
 
@@ -954,11 +808,9 @@ d) Servicios de atención especializada a niñas y niños víctimas de violenc
 
 4. Se garantizará la disponibilidad de estos servicios a través de la previsión de un número suficiente de centros, con personal suficiente y cualificado, y de un reparto equitativo de los mismos que asegure la accesibilidad a las mujeres de las zonas rurales y alejadas de los núcleos urbanos de gran densidad.
 
-
 #### Artículo 36. Garantía de los derechos de las víctimas en situación administrativa irregular.
 
 Las víctimas de violencias sexuales en situación administrativa irregular, de acuerdo con la legislación de extranjería, gozarán de los derechos reconocidos en esta ley orgánica en igualdad de condiciones con el resto de las víctimas. Asimismo, tendrán derecho a la residencia y trabajo en los términos previstos para las autorizaciones por circunstancias excepcionales en la Ley Orgánica 4/2000, de 11 de enero, reguladora de los derechos y libertades de los extranjeros en España y su integración social en aquellos supuestos no regulados en esta norma y que serán desarrollados reglamentariamente.
-
 
 #### Artículo 37. Acreditación de la existencia de violencias sexuales.
 
@@ -973,7 +825,6 @@ En el caso de víctimas menores de edad, y a los mismos efectos, la acreditació
 CAPÍTULO II
 
 Autonomía económica, derechos laborales y vivienda
-
 
 #### Artículo 38. Derechos laborales y de Seguridad Social.
 
@@ -991,13 +842,11 @@ El período de suspensión tendrá una duración inicial que no podrá exceder d
 
 A los efectos de lo previsto en el párrafo anterior, se tomará una base de cotización equivalente al promedio de las bases cotizadas durante los seis meses previos a la suspensión de la obligación de cotizar.
 
-
 #### Artículo 39. Programa específico de empleo.
 
 1. En el marco de los planes anuales de empleo a los que se refiere el artículo 11 del texto refundido de la Ley de Empleo, aprobado por Real Decreto Legislativo 3/2015, de 23 de octubre, se incluirá un programa de acción específico para las víctimas de violencias sexuales inscritas como demandantes de empleo. Este programa incluirá medidas para favorecer el inicio de una nueva actividad por cuenta propia.
 
 2. Las trabajadoras desempleadas que hayan sufrido violencias sexuales, así como las trabajadoras autónomas que hubiesen cesado su actividad por ser víctimas de violencias sexuales, tendrán derecho, en el momento de demandar un empleo, a participar en las ayudas de contenido económico a que se refiere el artículo 41, así como a participar en programas específicos de inserción laboral.
-
 
 #### Artículo 40. Derechos de las funcionarias públicas.
 
@@ -1006,7 +855,6 @@ A los efectos de lo previsto en el párrafo anterior, se tomará una base de cot
 2. Las ausencias totales o parciales al trabajo motivadas por la situación física o psicológica derivada de la violencia sexual sufrida por una mujer funcionaria se considerarán justificadas y serán remuneradas cuando así lo determinen los servicios sociales de atención o los servicios de salud, según proceda, sin perjuicio de que dichas ausencias sean comunicadas por las funcionarias a su Administración a la mayor brevedad.
 
 3. La acreditación de las circunstancias que dan lugar al reconocimiento de los derechos de movilidad geográfica de centro de trabajo, excedencia y reducción o reordenación del tiempo de trabajo se realizará en los términos establecidos en el artículo 37.
-
 
 #### Artículo 41. Ayudas económicas a las víctimas de violencias sexuales.
 
@@ -1026,19 +874,15 @@ En el caso de que la víctima tenga personas a cargo, su importe podrá alcanzar
 
 5. Las víctimas acreditadas de violencia sexual tendrán la consideración jurídica de víctimas de violencia de género a los efectos del artículo 2.2.c) del Real Decreto 1369/2006, de 24 de noviembre, por el que se regula el programa de renta activa de inserción para desempleados con especiales necesidades económicas y dificultad para encontrar empleo.
 
-
 #### Artículo 42. Acceso a la vivienda.
 
 Las administraciones públicas promoverán el acceso prioritario de las víctimas de violencias sexuales al parque público de vivienda y a los programas de ayuda de acceso a la vivienda, en los términos que se establezcan.
 
 Asimismo, promoverán el acceso prioritario de las víctimas de violencias sexuales a los establecimientos residenciales y otros centros de atención a las personas en situación de dependencia.
 
-
 ## TÍTULO V
 
-
 **Actuación de las Fuerzas y Cuerpos de Seguridad**
-
 
 #### Artículo 43. Actuación policial especializada.
 
@@ -1052,7 +896,6 @@ Asimismo, promoverán el acceso prioritario de las víctimas de violencias sexua
 
 5. El Ministerio del Interior, en el ámbito de sus competencias, promoverá la realización de estudios, informes y estadísticas tendentes a delimitar la magnitud de la violencia sexual en España.
 
-
 #### Artículo 44. Investigación policial.
 
 Las administraciones públicas competentes arbitrarán todos los medios disponibles, incluidas las técnicas más avanzadas, para garantizar la eficacia de las investigaciones realizadas por las Fuerzas y Cuerpos de Seguridad a fin de verificar y acreditar los hechos que puedan constituir violencia sexual, siempre preservando la integridad e intimidad de las víctimas.
@@ -1061,28 +904,23 @@ Las distintas Fuerzas y Cuerpos de Seguridad que actúen en un mismo territorio 
 
 Las administraciones públicas, en el ámbito de sus competencias, potenciarán la labor de las Fuerzas y Cuerpos de Seguridad mediante el desarrollo de herramientas tecnológicas interoperables que faciliten la investigación de los delitos.
 
-
 #### Artículo 45. Protección efectiva de las víctimas en riesgo.
 
 1. Las Fuerzas y Cuerpos de Seguridad y las policías autonómicas y locales competentes desplegarán medidas de evaluación del riesgo y de protección orientadas a garantizar la no repetición de la violencia y a brindar protección efectiva ante represalias o amenazas, haciendo posible que las mujeres, niñas y niños vivan en condiciones de libertad y seguridad. Estas medidas se podrán mantener en los casos de sobreseimiento provisional, siempre respetando el derecho a la intimidad de las víctimas, si se valora su necesidad.
 
 2. En el mismo sentido, a través de las unidades especializadas, se deberá vigilar y controlar el cumplimiento exacto de las medidas acordadas por los órganos judiciales encaminadas a la protección de la víctima a través de la vigilancia de los investigados o condenados o el control de localización a través de dispositivos telemáticos de control del cumplimiento de penas y medidas de seguridad de alejamiento, cuando su utilización sea acordada mediante resolución judicial.
 
-
 #### Artículo 46. Colaboración policial.
 
 El Gobierno, a través de acuerdos con las comunidades autónomas y las Entidades Locales, promoverá la formación y la colaboración de las policías autonómicas y locales con la finalidad de mejorar la respuesta policial frente a las distintas formas de violencia sexual, especialmente en lo relativo a la primera atención y a la protección de víctimas en situación de riesgo. Para ello, revisará y actualizará los acuerdos y protocolos en materia de colaboración entre los diferentes Cuerpos y Fuerzas de Seguridad.
 
-
 ## TÍTULO VI
-
 
 **Acceso y obtención de justicia**
 
 CAPÍTULO I
 
 Actuaciones fundamentales para la acreditación del delito
-
 
 #### Artículo 47. Unidades de valoración forense integral.
 
@@ -1091,7 +929,6 @@ Actuaciones fundamentales para la acreditación del delito
 2. La Administración General del Estado y las comunidades autónomas que hayan asumido competencias en materia de justicia ordenarán a las unidades de valoración forense integral que diseñen protocolos de actuación global e integral en casos de violencia sexual. En dichos protocolos se tendrán en cuenta, en particular, las necesidades y derechos de las víctimas, con atención específica a las sometidas a formas de discriminación múltiple, especialmente a las víctimas menores de edad y con discapacidad. Asimismo, se establecerán protocolos para realizar los informes de valoración, que incluirán el daño social.
 
 3. Dichas unidades realizarán una valoración de la gravedad de la situación y del riesgo de reiteración de la violencia a efectos de gestionar el riesgo y garantizar, en su caso, la coordinación de la seguridad y el apoyo a las víctimas.
-
 
 #### Artículo 48. Práctica forense disponible, accesible y especializada.
 
@@ -1105,7 +942,6 @@ CAPÍTULO II
 
 Protección, acompañamiento y seguridad de las víctimas
 
-
 #### Artículo 49. Información y acompañamiento en el ámbito judicial.
 
 1. Sin perjuicio de las competencias atribuidas a las Oficinas de Asistencia a la Víctima reguladas en la Ley 4/2015, de 27 de abril, del Estatuto de la víctima del delito, se promoverá su formación específica y refuerzo de las mismas a través de los medios materiales y personales necesarios para contribuir adecuadamente a la información y acompañamiento de las víctimas de violencias sexuales.
@@ -1118,7 +954,6 @@ Protección, acompañamiento y seguridad de las víctimas
 
 5. La Administración General del Estado y las comunidades autónomas, en el ámbito de sus respectivas competencias, tomarán medidas específicas para garantizar la protección, acompañamiento y seguridad de las víctimas de violencias sexuales menores de edad.
 
-
 #### Artículo 50. Protección de datos y limitaciones a la publicidad.
 
 1. En las actuaciones y procedimientos relacionados con la violencia sexual se protegerá la intimidad de las víctimas, y en especial sus datos personales.
@@ -1129,22 +964,17 @@ Protección, acompañamiento y seguridad de las víctimas
 
 4. La Agencia garantizará la disponibilidad de un canal accesible y seguro de denuncia de la existencia de contenidos ilícitos en Internet que comportaran un menoscabo grave del derecho a la protección de datos personales.
 
-
 #### Artículo 51. Asistencia de Embajadas y Oficinas Consulares.
 
 Las Embajadas y Oficinas Consulares de España en el exterior, dentro de sus deberes generales de protección a los españoles y españolas en el exterior, asistirán a las víctimas de violencia sexual, proporcionándoles orientación y acompañamiento de manera prioritaria dentro de sus capacidades. Se entenderá asimismo que se encuentran amparadas por el Protocolo Interministerial de Actuación para la Atención de las Mujeres Españolas Víctimas de Violencia de Género en el Exterior. Las Embajadas y Oficinas Consulares, en coordinación con la Delegación del Gobierno contra la Violencia de Género, facilitarán, en su caso, la repatriación de las víctimas a España.
 
-
 ## TÍTULO VII
 
-
 **Derecho a la reparación**
-
 
 #### Artículo 52. Alcance y garantía del derecho a la reparación.
 
 Las víctimas de violencias sexuales tienen derecho a la reparación, lo que comprende la indemnización a la que se refiere el artículo siguiente, las medidas necesarias para su completa recuperación física, psíquica y social, las acciones de reparación simbólica y las garantías de no repetición. Para garantizar este derecho, y sin perjuicio de las competencias autonómicas en la materia, se elaborará un programa administrativo de reparación a las víctimas de violencias sexuales que incluya medidas simbólicas, materiales, individuales y colectivas.
-
 
 #### Artículo 53. Indemnización.
 
@@ -1162,11 +992,9 @@ e) El tratamiento terapéutico, social y de salud sexual y reproductiva.
 
 2. La indemnización será satisfecha por la o las personas civil o penalmente responsables, de acuerdo con la normativa vigente.
 
-
 #### Artículo 54. Pensión de orfandad y prestación de orfandad.
 
 En los casos de muerte en el marco de alguna de las conductas previstas en el apartado 1 del artículo 3, los hijos e hijas de las víctimas, cualquiera de sea la naturaleza de su filiación, por naturaleza o por adopción, podrán percibir una pensión, o, en su caso, una prestación de orfandad, de acuerdo con lo dispuesto en el texto refundido de la Ley General de la Seguridad Social, aprobado por el Real Decreto Legislativo 8/2015, de 30 de octubre.
-
 
 #### Artículo 55. Completa recuperación y garantías de no repetición.
 
@@ -1178,13 +1006,11 @@ En los casos de muerte en el marco de alguna de las conductas previstas en el ap
 
 4. Para dar cumplimiento a lo dispuesto en el apartado anterior, las administraciones públicas promoverán programas específicos dirigidos a favorecer la reinserción y prevenir la reincidencia de las personas condenadas por delitos contra la libertad sexual.
 
-
 #### Artículo 56. Fondos para la reparación a las víctimas.
 
 1. La Administración General del Estado y las administraciones de las comunidades autónomas con competencias en la materia recibirán fondos para hacer efectivo el derecho a la reparación de las víctimas, resultantes de la ejecución de los bienes, efectos y ganancias decomisados por los jueces y tribunales a los condenados por los delitos previstos en el artículo 127 bis del Código Penal.
 
 2. Estos fondos podrán destinarse a financiar las ayudas establecidas en el artículo 55.2 de esta ley orgánica, así como medidas de inserción laboral y fomento de la autonomía económica, dirigidas prioritariamente a las víctimas de explotación sexual y trata con fines de explotación sexual, en coordinación con las comunidades autónomas y las entidades locales.
-
 
 #### Artículo 57. Reparación simbólica y enfoque reparador integral transformador.
 
@@ -1194,12 +1020,9 @@ En los casos de muerte en el marco de alguna de las conductas previstas en el ap
 
 3. Los poderes públicos promoverán acciones de rechazo a las violencias sexuales y adoptarán las medidas necesarias para evitar la repetición del delito.
 
-
 ## TÍTULO VIII
 
-
 **Medidas para la aplicación efectiva de la ley orgánica**
-
 
 #### Artículo 58. Estructura institucional.
 
@@ -1207,13 +1030,11 @@ En los casos de muerte en el marco de alguna de las conductas previstas en el ap
 
 2. Dentro de las funciones que tienen encomendadas en materia de violencia de género la Delegación del Gobierno contra la Violencia de Género, las Unidades de Coordinación contra la Violencia sobre la Mujer, las Unidades de Violencia sobre la Mujer y el Observatorio Estatal de Violencia sobe la Mujer, se entenderán comprendidas todas aquellas violencias a las que se refiere esta ley orgánica.
 
-
 #### Artículo 59. Colaboración para una intervención coordinada.
 
 1. En el ámbito de sus competencias, las administraciones sanitarias y las educativas, la Administración de Justicia, las Fuerzas y Cuerpos de Seguridad, los servicios sociales y los organismos de igualdad articularán protocolos de detección, atención e intervención o derivación de las violencias sexuales que aseguren una actuación global, coordinada e integral de las distintas administraciones públicas y servicios implicados y que garanticen la actividad probatoria en los procesos que se sigan.
 
 2. En las actuaciones previstas en este artículo se considerará de forma especial la situación de las mujeres, niñas y niños que, por sus circunstancias personales y sociales, puedan tener mayor riesgo de sufrir violencias sexuales o mayores dificultades para acceder a los servicios previstos en esta ley orgánica, prestando particular atención a las sometidas a discriminación interseccional, debido a la situación migratoria, la situación de exclusión social, la edad, o la discapacidad.
-
 
 #### Artículo 60. Estrategia estatal de prevención y respuesta a las violencias machistas.
 
@@ -1223,7 +1044,6 @@ En los casos de muerte en el marco de alguna de las conductas previstas en el ap
 
 3. La Estrategia tendrá carácter cuatrienal y establecerá los mecanismos de evaluación y seguimiento que se determinen.
 
-
 #### Artículo 61. Mesa de coordinación estatal sobre violencias sexuales.
 
 1. Se crea la Mesa de coordinación estatal sobre violencias sexuales, como órgano colegiado de consulta y asesoramiento, con el fin de servir a los agentes implicados, administraciones y asociaciones especializadas, en coordinación con el Observatorio Estatal de Violencia sobre la Mujer.
@@ -1232,23 +1052,19 @@ En los casos de muerte en el marco de alguna de las conductas previstas en el ap
 
 3. Este órgano deberá participar en la preparación, elaboración, ejecución y evaluación de la Estrategia estatal a la que se refiere el artículo 60, actuando en coordinación con los órganos que pudieran crear las comunidades autónomas para dicho fin.
 
-
 #### Disposición adicional primera. Aprobación de la Estrategia estatal de prevención y respuesta a las violencias machistas.
 
 En el plazo de un año desde la entrada en vigor de la presente ley orgánica, el Gobierno aprobará y pondrá en marcha la Estrategia estatal de prevención y respuesta a las violencias machistas conforme a lo establecido en el artículo 60 de esta ley orgánica que servirá para las comunidades autónomas que no dispongan de una Estrategia propia.
 
-
 #### Disposición adicional segunda. Financiación de costes para la Seguridad Social con cargo a los Presupuestos Generales del Estado.
 
 El coste que de las medidas introducidas por esta ley orgánica se deriva para la Seguridad Social se financiará mediante transferencia de los Presupuestos Generales del Estado.
-
 
 #### Disposición adicional tercera. Evaluación de la aplicación de la ley orgánica.
 
 El Gobierno, en colaboración con las comunidades autónomas, a los tres años de la entrada en vigor de esta ley orgánica, elaborará y remitirá al Congreso de los Diputados un informe en el que se hará una evaluación de los efectos de su aplicación en la lucha contra las violencias sexuales.
 
 A estos efectos, las administraciones públicas competentes recogerán datos estadísticos sobre la actuación institucional en materia de prevención, detección, atención integral, protección, justicia y reparación, incorporando tanto la información procedente de todas las administraciones públicas e instituciones como de las organizaciones especializadas en la asistencia a las víctimas, además de la relativa a los procesos penales en materia de violencias sexuales.
-
 
 #### Disposición adicional cuarta. Sistema de financiación de las políticas públicas en materia de violencia contra las mujeres en el marco del Pacto de Estado Contra la Violencia de Género.
 
@@ -1262,18 +1078,15 @@ Los acuerdos de la Conferencia Sectorial en los que se fijen los criterios objet
 
 Con carácter excepcional, no resultará de aplicación a dichas partidas reservadas a las comunidades autónomas y las Ciudades de Ceuta y Melilla lo dispuesto en la regla Sexta del artículo 86.2 de la Ley 47/2003, de 26 de noviembre, General Presupuestaria en relación con los remanentes no comprometidos resultantes al final del ejercicio.
 
-
 #### Disposición adicional quinta. Evaluación y monitoreo de la actividad de las instituciones en materia de violencia contra las mujeres.
 
 El Gobierno, las comunidades autónomas, las Entidades que forman parte de la Administración Local, así como el Ministerio Fiscal y el Poder Judicial, en el marco de sus competencias, elaborarán informes cuatrienales de cumplimiento de las medidas en materia de violencia contra las mujeres, que serán remitidos a las Cortes Generales como medida de evaluación y rendición de cuentas sobre los procesos de implementación de la normativa y de las políticas públicas y su impacto en la violencia contra las mujeres, con especial atención a la rendición de cuentas por parte del conjunto de administraciones públicas de las medidas del Pacto de Estado contra la violencia de género y de los fondos previstos en el Pacto de Estado contra la Violencia de Género.
 
 A estos efectos, las administraciones públicas competentes recogerán datos estadísticos, homogéneos y de manera permanente sobre la actuación institucional en materia de prevención, detección, atención integral, protección, justicia y reparación, incorporando tanto la información procedente de todas las administraciones públicas como de las organizaciones especializadas en la asistencia a las víctimas, además de la relativa a los procesos penales en materia de violencia contra las mujeres.
 
-
 #### Disposición transitoria única. Aplicación de medidas.
 
 En los procesos sobre hechos contemplados en la presente ley orgánica que se encuentren en tramitación a su entrada en vigor, los juzgados o tribunales que los estén conociendo podrán adoptar las medidas previstas en el Capítulo II del Título VI.
-
 
 #### Disposición final primera. Modificación de la Ley de Enjuiciamiento Criminal, aprobada por Real Decreto de 14 de septiembre de 1882.
 
@@ -1299,13 +1112,11 @@ Cinco. Se modifica el segundo párrafo del artículo 709, que queda redactado
 
 «El Presidente podrá adoptar medidas para evitar que se formulen a la víctima preguntas innecesarias relativas a la vida privada, en particular a la intimidad sexual, que no tengan relevancia para el hecho delictivo enjuiciado, salvo que, excepcionalmente y teniendo en cuenta las circunstancias particulares del caso, el Presidente considere que sean pertinentes y necesarias. Si esas preguntas fueran formuladas, el Presidente no permitirá que sean contestadas.»
 
-
 #### Disposición final segunda. Modificación de la Ley Orgánica 8/1985, de 3 de julio, reguladora del Derecho a la Educación.
 
 Se modifica la letra m) del apartado 1 del artículo 31, que queda redactada como sigue:
 
 «m) Personalidades de reconocido prestigio en la lucha para la erradicación de la violencia sexual y de género.»
-
 
 #### Disposición final tercera. Modificación de la Ley 34/1988, de 11 de noviembre, General de Publicidad.
 
@@ -1314,7 +1125,6 @@ Se modifica el párrafo a) del artículo 3, que quedará redactado como sigue:
 «a) La publicidad que atente contra la dignidad de la persona o vulnere los valores y derechos reconocidos en la Constitución, especialmente a los que se refieren sus artículos 14, 18 y 20, apartado 4. Se entenderán incluidos en la previsión anterior los anuncios que presenten a las mujeres de forma vejatoria, bien utilizando particular y directamente su cuerpo o partes del mismo como mero objeto desvinculado del producto que se pretende promocionar, bien su imagen asociada a comportamientos estereotipados que vulneren los fundamentos de nuestro ordenamiento coadyuvando a generar las violencias a que se refieren la Ley Orgánica 1/2004, de 28 de diciembre de Medidas de Protección Integral contra la Violencia de Género y la Ley Orgánica de garantía integral de la libertad sexual.
 
 Asimismo, se entenderá incluida en la previsión anterior cualquier forma de publicidad que coadyuve a generar violencia o discriminación en cualquiera de sus manifestaciones sobre las personas menores de edad, o fomente estereotipos de carácter sexista, racista, estético o de carácter homofóbico o transfóbico o por razones de discapacidad, así como la que promueva la prostitución.»
-
 
 #### Disposición final cuarta. Modificación de la Ley Orgánica 10/1995, de 23 de noviembre, del Código Penal.
 
@@ -1386,9 +1196,7 @@ Los delitos tipificados en los dos párrafos anteriores sólo serán perseguible
 
 Seis. Se modifica la rúbrica del Título VIII del Libro II, que queda redactada como sigue:
 
-
 **«TÍTULO VIII**
-
 
 **Delitos contra la libertad sexual»**
 
@@ -1398,7 +1206,6 @@ Siete. Se modifica el Capítulo I del Título VIII del Libro II, que queda red
 
 De las agresiones sexuales
 
-
 #### Artículo 178.
 
 1. Será castigado con la pena de prisión de uno a cuatro años, como responsable de agresión sexual, el que realice cualquier acto que atente contra la libertad sexual de otra persona sin su consentimiento. Sólo se entenderá que hay consentimiento cuando se haya manifestado libremente mediante actos que, en atención a las circunstancias del caso, expresen de manera clara la voluntad de la persona.
@@ -1407,11 +1214,9 @@ De las agresiones sexuales
 
 3. El órgano sentenciador, razonándolo en la sentencia, y siempre que no concurran las circunstancias del artículo 180, podrá imponer la pena de prisión en su mitad inferior o multa de dieciocho a veinticuatro meses, en atención a la menor entidad del hecho y a las circunstancias personales del culpable.»
 
-
 #### Artículo 179.
 
 Cuando la agresión sexual consista en acceso carnal por vía vaginal, anal o bucal, o introducción de miembros corporales u objetos por alguna de las dos primeras vías, el responsable será castigado como reo de violación con la pena de prisión de cuatro a doce años.
-
 
 #### Artículo 180.
 
@@ -1440,7 +1245,6 @@ Ocho. Se modifica el Capítulo II del Título VIII del Libro II, que queda red
 «CAPÍTULO II
 
 De las agresiones sexuales a menores de dieciséis años
-
 
 #### «Artículo 181.
 
@@ -1474,20 +1278,17 @@ h) Cuando la infracción se haya cometido en el seno de una organización o de
 
 5. En todos los casos previstos en este artículo, cuando el culpable se hubiera prevalido de su condición de autoridad, agente de ésta o funcionario público, se impondrá, además, la pena de inhabilitación absoluta de seis a doce años.
 
-
 #### Artículo 182.
 
 1. El que, con fines sexuales, haga presenciar a un menor de dieciséis años actos de carácter sexual, aunque el autor no participe en ellos, será castigado con una pena de prisión de seis meses a dos años.
 
 2. Si los actos de carácter sexual que se hacen presenciar al menor de dieciséis años constituyeran un delito contra la libertad sexual, la pena será de prisión de uno a tres años.
 
-
 #### Artículo 183.
 
 1. El que a través de internet, del teléfono o de cualquier otra tecnología de la información y la comunicación contacte con un menor de dieciséis años y proponga concertar un encuentro con el mismo a fin de cometer cualquiera de los delitos descritos en los artículos 181 y 189, siempre que tal propuesta se acompañe de actos materiales encaminados al acercamiento, será castigado con la pena de uno a tres años de prisión o multa de doce a veinticuatro meses, sin perjuicio de las penas correspondientes a los delitos en su caso cometidos. Las penas se impondrán en su mitad superior cuando el acercamiento se obtenga mediante coacción, intimidación o engaño.
 
 2. El que, a través de internet, del teléfono o de cualquier otra tecnología de la información y la comunicación contacte con un menor de dieciséis años y realice actos dirigidos a embaucarle para que le facilite material pornográfico o le muestre imágenes pornográficas en las que se represente o aparezca un menor, será castigado con una pena de prisión de seis meses a dos años.
-
 
 #### Artículo 183 bis.
 
@@ -1496,7 +1297,6 @@ Salvo en los casos en que concurra alguna de las circunstancias previstas en el 
 Nueve. Se suprime el Capítulo II bis del Título VIII del Libro II.
 
 Diez. Se modifica el artículo 184, que queda redactado como sigue:
-
 
 #### «Artículo 184.
 
@@ -1516,7 +1316,6 @@ Once. Se añade una letra d) que sustituye al último párrafo del artículo 
 
 Doce. Se modifica la ubicación y el contenido del artículo 190, que pasa a incluirse en el Capítulo VI del Título VIII del Libro II y queda redactado como sigue:
 
-
 #### «Artículo 190.
 
 La condena de un Juez o Tribunal extranjero, impuesta por delitos comprendidos en este Título, será equiparada a las sentencias de los Jueces o Tribunales españoles a los efectos de la aplicación de la circunstancia agravante de reincidencia.»
@@ -1533,13 +1332,11 @@ Asimismo, la autoridad judicial impondrá a las personas responsables de los del
 
 Quince. Se modifica el artículo 194, que queda redactado como sigue:
 
-
 #### «Artículo 194.
 
 En los supuestos tipificados en los capítulos IV y V de este título, cuando en la realización de los actos se utilizaren establecimientos o locales, abiertos o no al público, se decretará en la sentencia condenatoria su clausura definitiva. La clausura podrá adoptarse también con carácter cautelar.»
 
 Dieciséis. Se introduce un nuevo artículo 194 bis con la siguiente redacción:
-
 
 #### «Artículo 194 bis.
 
@@ -1556,7 +1353,6 @@ En los supuestos de los párrafos anteriores, la pena se impondrá en su mitad s
 Dieciocho. Se modifica el apartado 2 del artículo 443, que queda redactado como sigue:
 
 «2. El funcionario de Instituciones Penitenciarias, de centros de protección o reforma de menores, centro de internamiento de personas extranjeras, o cualquier otro centro de detención, o custodia, incluso de estancia temporal, que solicitara sexualmente a una persona sujeta a su guarda, será castigado con la pena de prisión de uno a cuatro años e inhabilitación absoluta por tiempo de seis a doce años.»
-
 
 #### Disposición final quinta. Modificación de la Ley 35/1995, de 11 de diciembre, de ayudas y asistencia a las víctimas de delitos violentos y contra la libertad sexual.
 
@@ -1648,11 +1444,9 @@ Siete. Se añaden dos párrafos al apartado 5 del artículo 15, con el sigui
 
 El Ministerio Fiscal actuará de la misma manera en los casos en que no se haya sustanciado proceso por haberse acreditado la violencia por medios no judiciales.»
 
-
 #### Disposición final sexta. Modificación de la Ley Orgánica 4/2000, de 11 de enero, sobre derechos y libertades de los extranjeros en España y su integración social.
 
 Se modifica el artículo 31 bis, que queda redactado como sigue:
-
 
 #### «Artículo 31 bis. Residencia temporal y trabajo de mujeres extranjeras víctimas de violencia de género o de violencias sexuales.
 
@@ -1667,7 +1461,6 @@ Sin perjuicio de lo anterior, la autoridad competente para otorgar la autorizaci
 4. Cuando el procedimiento penal concluyera con una sentencia condenatoria o con una resolución judicial de la que se deduzca que la mujer ha sido víctima de violencia de género o de violencia sexual, incluido el archivo de la causa por encontrarse el investigado en paradero desconocido o el sobreseimiento provisional por expulsión del denunciado, se notificará a la interesada la concesión de las autorizaciones solicitadas. En el supuesto de que no se hubieran solicitado, se le informará de la posibilidad de concederlas, otorgándole un plazo para su solicitud.
 
 Si del procedimiento penal concluido no pudiera deducirse la situación de violencia de género o sexual, se incoará el expediente administrativo sancionador por infracción del artículo 53.1.a) o se continuará, en el supuesto de que se hubiera suspendido inicialmente.»
-
 
 #### Disposición final séptima. Modificación de la Ley Orgánica 5/2000,  de 12 de enero, reguladora de la responsabilidad penal de los menores.
 
@@ -1697,20 +1490,17 @@ Cuatro. Se modifica el apartado 2 del artículo 19, con la siguiente redacci
 
 Cuando la medida sea consecuencia de la comisión de alguno de los delitos tipificados en los Capítulos I y II del Título VIII del Código Penal, o estén relacionados con la violencia de género, no tendrá efecto de conciliación, a menos que la víctima lo solicite expresamente y que el menor, además, haya realizado la medida accesoria de educación sexual y de educación para la igualdad.»
 
-
 #### Disposición final octava. Modificación de la Ley 38/2003, de 17 de noviembre, General de Subvenciones.
 
 Se añade una nueva letra i) al apartado 4 del artículo 2, con el siguiente tenor literal:
 
 «i) Las ayudas económicas a las víctimas de violencias sexuales concedidas según lo establecido en el artículo 41 de la Ley Orgánica de garantía integral de la libertad sexual y en la Ley 35/1995, de 11 de diciembre, de ayudas y asistencia a las víctimas de delitos violentos y contra la libertad sexual.»
 
-
 #### Disposición final novena. Modificación de la Ley Orgánica 1/2004, de 28 de diciembre, de Medidas de Protección Integral contra la Violencia de Género.
 
 La Ley Orgánica 1/2004, de 28 de diciembre, de Medidas de Protección Integral contra la Violencia de Género, se modifica en los siguientes términos:
 
 Uno. El artículo 3 queda redactado del siguiente modo:
-
 
 #### «Artículo 3. Planes de sensibilización.
 
@@ -1732,7 +1522,6 @@ La Delegación del Gobierno contra la Violencia de Género, oída la Comisión a
 
 Dos. El artículo 17 queda redactado del siguiente modo:
 
-
 #### «Artículo 17. Garantía de los derechos de las víctimas.
 
 1. Todas las mujeres víctimas de violencia de género tienen garantizados los derechos reconocidos en esta ley, sin que pueda existir discriminación en el acceso a los mismos.
@@ -1747,7 +1536,6 @@ Igualmente, se garantizará el normal funcionamiento y prestación del sistema d
 
 Tres. El artículo 18 queda redactado del siguiente modo:
 
-
 #### «Artículo 18. Derecho a la información.
 
 1. Las mujeres víctimas de violencia de género tienen derecho a recibir plena información y asesoramiento adecuado a su situación personal, sin que pueda existir discriminación en el acceso a los mismos, a través de los servicios, organismos u oficinas que puedan disponer las administraciones públicas.
@@ -1759,7 +1547,6 @@ Dicha información comprenderá las medidas contempladas en esta ley relativas a
 3. Asimismo, se articularán los medios necesarios para que las mujeres víctimas de violencia de género que por sus circunstancias personales y sociales puedan tener una mayor dificultad para el acceso integral a la información, tengan garantizado el ejercicio efectivo de este derecho. La información deberá ser accesible para las mujeres que desconozcan el castellano o, en su caso, la otra lengua oficial de su territorio de residencia.»
 
 Cuatro. El artículo 19 queda redactado del siguiente modo:
-
 
 #### «Artículo 19. Derecho a la atención integral.
 
@@ -1793,7 +1580,6 @@ g) Apoyo a la formación e inserción laboral.
 
 Cinco. Se añade un artículo 19 bis con la siguiente redacción:
 
-
 #### «Artículo 19 bis. Derecho a la atención sanitaria.
 
 1. El Sistema Público de Salud garantizará a las mujeres víctimas de violencia de género, así como a sus hijos e hijas, el derecho a la atención sanitaria, con especial atención psicológica y psiquiátrica, y al seguimiento de la evolución de su estado de salud hasta su total recuperación, en lo concerniente a la sintomatología o las secuelas psíquicas y físicas derivadas de la situación de violencia sufrida. Asimismo, los servicios sanitarios deberán contar con psicólogos infantiles para la atención de los hijos e hijas menores que sean víctimas de violencia vicaria.
@@ -1803,7 +1589,6 @@ Cinco. Se añade un artículo 19 bis con la siguiente redacción:
 3. Asimismo, se establecerán medidas específicas para la detección, intervención y asistencia en situaciones de violencia contra mujeres con discapacidad, mujeres con problemas de salud mental, adicciones u otras problemáticas u otros casos de adicciones derivadas o añadidas a la violencia.»
 
 Seis. El artículo 21 queda redactado del siguiente modo:
-
 
 #### «Artículo 21. Derechos laborales y de Seguridad Social.
 
@@ -1821,7 +1606,6 @@ A los efectos de lo previsto en el párrafo anterior, se tomará una base de cot
 
 Siete. El artículo 22 queda redactado del siguiente modo:
 
-
 #### «Artículo 22. Programa específico de empleo.
 
 1. En el marco de los planes anuales de empleo a los que se refiere el artículo 11 del texto refundido de la Ley de Empleo, aprobado por Real Decreto Legislativo 3/2015, de 23 de octubre, se desarrollará un programa de acción específico para las víctimas de violencia de género inscritas como demandantes de empleo.
@@ -1829,7 +1613,6 @@ Siete. El artículo 22 queda redactado del siguiente modo:
 Este programa incluirá medidas para favorecer el inicio de una nueva actividad por cuenta propia.»
 
 Ocho. El artículo 23 queda redactado del siguiente modo:
-
 
 #### «Artículo 23. Acreditación de situaciones de violencia de género.
 
@@ -1845,11 +1628,9 @@ Nueve. Se añade un nuevo Capítulo V sobre el "Derecho a la reparación" dent
 
 Derecho a la reparación
 
-
 #### Artículo 28 bis. Alcance y garantía del derecho.
 
 Las víctimas de violencia de género tienen derecho a la reparación, lo que comprende la compensación económica por los daños y perjuicios derivados de la violencia, las medidas necesarias para su completa recuperación física, psíquica y social, las acciones de reparación simbólica y las garantías de no repetición.
-
 
 #### Artículo 28 ter. Medidas para garantizar el derecho a la reparación.
 
@@ -1879,7 +1660,6 @@ Asimismo, las administraciones públicas podrán establecer ayudas complementari
 
 Diez. El artículo 29 queda redactado del siguiente modo:
 
-
 #### «Artículo 29. La Delegación del Gobierno contra la Violencia de Género.
 
 1. La Delegación del Gobierno contra la Violencia de Género, adscrita al Ministerio de Igualdad o al departamento con competencias en la materia, formulará las políticas públicas en relación con la violencia de género a desarrollar por el Gobierno y elaborará la Macroencuesta de Violencia contra las Mujeres. Asimismo, coordinará e impulsará cuantas acciones se realicen en dicha materia, trabajando en colaboración y coordinación con las administraciones con competencia en la materia.
@@ -1889,7 +1669,6 @@ Diez. El artículo 29 queda redactado del siguiente modo:
 3. Reglamentariamente se determinará el rango y las funciones concretas de la persona titular de la Delegación del Gobierno contra la Violencia de Género.»
 
 Once. El artículo 32 queda redactado del siguiente modo:
-
 
 #### «Artículo 32. Planes de colaboración.
 
@@ -1907,13 +1686,11 @@ Los protocolos, además de referirse a los procedimientos a seguir, harán refer
 
 Doce. El artículo 47 queda redactado del siguiente modo:
 
-
 #### «Artículo 47. Formación.
 
 El Gobierno, el Consejo General del Poder Judicial y las comunidades autónomas, en el ámbito de sus respectivas competencias, asegurarán una formación específica relativa a la igualdad y no discriminación por razón de sexo y sobre violencia de género en los cursos de formación de Jueces y Magistrados, Fiscales, Secretarios Judiciales, Fuerzas y Cuerpos de Seguridad y Médicos Forenses. En todo caso, en los cursos de formación anteriores se introducirá el enfoque de la discapacidad de las víctimas y se tendrá en cuenta la violencia vicaria.»
 
 Trece. El artículo 66 queda redactado del siguiente modo:
-
 
 #### «Artículo 66. De la medida de suspensión del régimen de visitas, estancia, relación o comunicación con los menores.
 
@@ -1921,13 +1698,11 @@ El Juez ordenará la suspensión del régimen de visitas, estancia, relación o 
 
 Catorce. Se da una nueva redacción a la disposición adicional segunda, con el siguiente tenor literal:
 
-
 #### «Disposición adicional segunda. Protocolos de actuación.
 
 El Gobierno y las comunidades autónomas que hayan asumido competencias en materia de justicia, organizarán en el ámbito que a cada una le es propio los servicios forenses de modo que cuenten con unidades de valoración forense integral encargadas de diseñar protocolos de actuación global e integral en casos de violencia de género. Estos protocolos deberán prestar especial atención a la violencia vicaria.»
 
 Quince. Se añade una nueva disposición adicional vigesimosegunda, con el siguiente tenor literal:
-
 
 #### «Disposición adicional vigesimosegunda. Macroencuesta de violencia contra la mujer.
 
@@ -1935,13 +1710,11 @@ La Delegación del Gobierno contra la Violencia de Género realizará y publicar
 
 Dieciséis. Se da una nueva redacción a la disposición adicional decimonovena, con el siguiente tenor literal:
 
-
 #### «Disposición adicional decimonovena. Fondo de garantía de pensiones de alimentos.
 
 En el marco de la protección contra la violencia económica en los términos previstos en esta ley, el Estado garantizará el pago de alimentos reconocidos e impagados a favor de los hijos e hijas menores de edad en convenio judicialmente aprobado o en resolución judicial, a través de una legislación específica que concretará el sistema de cobertura en dichos supuestos y que, en todo caso, tendrá en cuenta las circunstancias de las víctimas de violencia de género.
 
 Para reforzar las medidas de apoyo a las víctimas de violencia económica, el Gobierno modificará la regulación actual del Fondo de Garantía de Pensiones en el sentido de mejorar su accesibilidad, su eficacia y su dotación económica, a través de la modificación del Real Decreto 1618/ 2007, de 7 de diciembre, sobre organización y funcionamiento del Fondo de Garantía del Pago de Alimentos.»
-
 
 #### Disposición final décima. Modificación de la Ley Orgánica 3/2007, de 22 de marzo, para la igualdad efectiva de mujeres y hombres.
 
@@ -1957,7 +1730,6 @@ Dos. Se modifica la letra d) del apartado 1 del artículo 38, que queda reda
 
 Tres. Se modifica el artículo 48, que queda redactado como sigue:
 
-
 #### «Artículo 48. Medidas específicas para prevenir la comisión de delitos y otras conductas contra la libertad sexual y la integridad moral en el trabajo.
 
 1. Las empresas deberán promover condiciones de trabajo que eviten la comisión de delitos y otras conductas contra la libertad sexual y la integridad moral en el trabajo, incidiendo especialmente en el acoso sexual y el acoso por razón de sexo, incluidos los cometidos en el ámbito digital.
@@ -1968,18 +1740,15 @@ Con esta finalidad se podrán establecer medidas que deberán negociarse con los
 
 Cuatro. Se modifica el artículo 66, que queda redactado como sigue:
 
-
 #### «Artículo 66. Aplicación en las Fuerzas Armadas de las normas referidas al personal de las administraciones públicas.
 
 Las normas referidas al personal al servicio de las administraciones públicas en materia de igualdad, protección integral contra la violencia de género y la violencia sexual, y la conciliación de la vida personal, familiar y profesional serán de aplicación en las Fuerzas Armadas, con las adaptaciones que resulten necesarias y en los términos establecidos en su normativa específica.»
 
 Cinco. Se modifica el artículo 68, que queda redactado como sigue:
 
-
 #### «Artículo 68. Aplicación de las normas referidas al personal de las administraciones públicas en las Fuerzas y Cuerpos de Seguridad.
 
 Las normas referidas al personal al servicio de las administraciones públicas en materia de igualdad, prevención de la violencia de género y la violencia sexual, y la conciliación de la vida personal, familiar y profesional serán de aplicación en las Fuerzas y Cuerpos de Seguridad, adaptándose, en su caso, a las peculiaridades de las funciones que tienen encomendadas, en los términos establecidos por su normativa específica.»
-
 
 #### Disposición final undécima. Modificación de la Ley 20/2007, de 11 de julio, del Estatuto del trabajo autónomo.
 
@@ -1996,7 +1765,6 @@ Dos. Se modifica la letra g) del apartado 1 del artículo 15, que queda reda
 Tres. Se modifica el párrafo f) del apartado 1 del artículo 16, que queda redactado como sigue:
 
 «f) La situación de violencia de género o de violencias sexuales, para que la trabajadora autónoma económicamente dependiente haga efectiva su protección o su derecho a la asistencia social integral.»
-
 
 #### Disposición final duodécima. Modificación de la Ley 4/2015, de 27 de abril, del Estatuto de la víctima del delito.
 
@@ -2036,7 +1804,6 @@ Seis. Se modifican las letras b) y d) del apartado 1 del artículo 25, que q
 
 Siete. Se modifica la rúbrica y el apartado 1 del artículo 26, que quedarán redactados como siguen:
 
-
 #### «Artículo 26. Medidas de protección para menores, personas con discapacidad necesitadas de especial protección y víctimas de violencias sexuales.
 
 1. En el caso de las víctimas menores de edad, víctimas con discapacidad necesitadas de especial protección y víctimas de violencias sexuales, además de las medidas previstas en el artículo anterior se adoptarán, de acuerdo con lo dispuesto en la Ley de Enjuiciamiento Criminal, las medidas que resulten necesarias para evitar o limitar, en la medida de lo posible, que el desarrollo de la investigación o la celebración del juicio se conviertan en una nueva fuente de perjuicios para la víctima del delito. En particular, serán aplicables las siguientes:
@@ -2047,11 +1814,9 @@ b) La declaración podrá recibirse por medio de personas expertas.»
 
 Ocho. Se modifica el artículo 34, que quedará redactado como sigue:
 
-
 #### «Artículo 34. Sensibilización.
 
 Los poderes públicos fomentarán campañas de sensibilización social en favor de las víctimas, así como la autorregulación de los medios de comunicación social de titularidad pública y privada en orden a preservar la intimidad, la imagen, la dignidad y los demás derechos de las víctimas. Estos derechos deberán ser respetados por los medios de comunicación social.»
-
 
 #### Disposición final decimotercera. Modificación de la Ley Orgánica 14/2015, de 14 de octubre, del Código Penal Militar.
 
@@ -2063,13 +1828,11 @@ Uno. Se modifica el apartado 1 del artículo 42, que queda redactado como si
 
 Dos. Se modifica el artículo 47, que queda redactado como sigue:
 
-
 #### «Artículo 47.
 
 El superior que tratare a una persona subordinada de manera degradante, inhumana o humillante, o le agrediere sexualmente, será castigado con la pena de seis meses a cinco años de prisión, pudiendo imponerse, además, la pena de pérdida de empleo, sin perjuicio de las penas que correspondan por los resultados lesivos producidos o por la agresión sexual conforme al Código Penal.»
 
 Tres. Se modifica el artículo 48, que queda redactado como sigue:
-
 
 #### «Artículo 48.
 
@@ -2077,11 +1840,9 @@ El superior que, respecto de una persona subordinada, realizare actos de acoso t
 
 Cuatro. Se modifica el artículo 49, que queda redactado como sigue:
 
-
 #### «Artículo 49.
 
 El militar que, sin incurrir en los delitos de insulto a superior o abuso de autoridad, públicamente, en lugares afectos a las Fuerzas Armadas o a la Guardia Civil o en acto de servicio, maltratare de obra a otro militar, le tratare de manera degradante, inhumana o humillante, o le agrediere sexualmente, será castigado con la pena de seis meses a tres años de prisión, sin perjuicio de las penas que le puedan corresponder por los resultados lesivos producidos o las agresiones y otros atentados contra la libertad sexual efectivamente cometidas, conforme al Código Penal.»
-
 
 #### Disposición final decimocuarta. Modificación del texto refundido de la Ley del Estatuto de los Trabajadores, aprobado por Real Decreto Legislativo 2/2015, de 23 de octubre.
 
@@ -2117,13 +1878,11 @@ Seis. Se modifica la letra b) del apartado 5 del artículo 55, que queda red
 
 «b) El de las trabajadoras embarazadas, desde la fecha de inicio del embarazo hasta el comienzo del periodo de suspensión a que se refiere la letra a); el de las personas trabajadoras que hayan solicitado uno de los permisos a los que se refieren los apartados 4, 5 y 6 del artículo 37, o estén disfrutando de ellos, o hayan solicitado o estén disfrutando la excedencia prevista en el artículo 46.3; y el de las trabajadoras víctimas de violencia de género o de violencia sexual por el ejercicio de derecho a la tutela judicial efectiva o de los derechos reconocidos en esta ley para hacer efectiva su protección o su derecho a la asistencia social integral.»
 
-
 #### Disposición final decimoquinta. Modificación del texto refundido de la Ley del Estatuto Básico del Empleado Público, aprobado por Real Decreto Legislativo 5/2015, de 30 de octubre.
 
 Se modifica el texto refundido de la Ley del Estatuto Básico del Empleado Público, aprobado por Real Decreto Legislativo 5/2015, de 30 de octubre, en los siguientes términos:
 
 Uno. Se modifica la rúbrica y la letra d) del artículo 49, que quedan redactados como sigue:
-
 
 #### «Artículo 49. Permisos por motivos de conciliación de la vida personal, familiar y laboral, por razón de violencia de género o de violencia sexual y para las víctimas de terrorismo y sus familiares directos.»
 
@@ -2134,7 +1893,6 @@ Asimismo, las funcionarias víctimas de violencia sobre la mujer o de violencias
 En el supuesto enunciado en el párrafo anterior, la funcionaria pública mantendrá sus retribuciones íntegras cuando reduzca su jornada en un tercio o menos.»
 
 Dos. Se modifica la rúbrica y el apartado 1 del artículo 82, que quedan redactados como sigue:
-
 
 #### «Artículo 82. Movilidad por razón de violencia de género, violencia sexual y violencia terrorista.
 
@@ -2149,7 +1907,6 @@ Tres. Se modifica la letra d) del apartado 1 y el primer párrafo del apartad
 «d) Excedencia por razón de violencia de género o de violencia sexual.»
 
 «Las funcionarias víctimas de violencia de género o de violencia sexual, para hacer efectiva su protección o su derecho a la asistencia social integral, tendrán derecho a solicitar la situación de excedencia sin tener que haber prestado un tiempo mínimo de servicios previos y sin que sea exigible plazo de permanencia en la misma.»
-
 
 #### Disposición final decimosexta. Modificación del texto refundido de la Ley General de la Seguridad Social, aprobado por Real Decreto Legislativo 8/2015, de 30 de octubre.
 
@@ -2209,21 +1966,17 @@ Doce. Se modifica el apartado 2 del artículo 337, que queda redactado como 
 
 «2. El reconocimiento de la situación legal de cese de actividad se podrá solicitar hasta el último día del mes siguiente al que se produjo el cese de actividad. No obstante, en las situaciones legales de cese de actividad causadas por motivos económicos, técnicos, productivos u organizativos, de fuerza mayor, por violencia de género, violencia sexual, por voluntad del cliente, fundada en causa justificada y por muerte, incapacidad y jubilación del cliente, el plazo comenzará a computar a partir de la fecha que se hubiere hecho constar en los correspondientes documentos que acrediten la concurrencia de tales situaciones.»
 
-
 #### Disposición final decimoséptima. Naturaleza y rango jurídico.
 
 Las normas contenidas en el Título Preliminar y las disposiciones finales primera, apartado uno, segunda, cuarta, sexta y undécima tienen rango orgánico.
-
 
 #### Disposición final decimoctava. Título competencial.
 
 La presente ley orgánica se dicta al amparo de las competencias exclusivas atribuidas al Estado por los títulos competenciales recogidos en los artículos 149.1. 1.ª, 2.ª, 4.ª, 5.ª, 6.ª, 7.ª, 13.ª, 16.ª, 17.ª, 18.ª, 21.ª, 27.ª, 29.ª, 30.ª y 31.ª de la Constitución.
 
-
 #### Disposición final decimonovena. Competencias autonómicas.
 
 Las previsiones de actuación de las diversas administraciones públicas contempladas en la presente ley se llevarán a cabo en el marco de la consideración de las competencias de las comunidades autónomas en los diversos ámbitos concernidos y de las disposiciones adoptadas por estas en su desarrollo.
-
 
 #### Disposición final vigésima. Especialización en violencias sexuales.
 
@@ -2231,16 +1984,13 @@ Las previsiones de actuación de las diversas administraciones públicas contemp
 
 2. Del mismo modo, y en el plazo establecido en el apartado anterior, se procederá a regular la composición y funcionamiento de los equipos técnicos adscritos a los juzgados de violencia sobre la mujer y la forma de acceso a los mismos de acuerdo con los criterios de especialización y formación recogidos en esta ley orgánica, así como a la realización de las modificaciones legislativas que sean necesarias para dar cumplimiento a lo establecido en la presente disposición.
 
-
 #### Disposición final vigesimoprimera. Asistencia jurídica gratuita a las víctimas de violencias sexuales.
 
 En el plazo de un año desde la entrada en vigor de la presente ley orgánica, el Gobierno remitirá a las Cortes Generales un proyecto de reforma de la Ley 1/1996, de 10 de enero, de asistencia jurídica gratuita, al objeto de garantizar la asistencia jurídica gratuita a las víctimas de violencias sexuales, en los términos y con los objetivos previstos en esta ley orgánica.
 
-
 #### Disposición final vigesimosegunda. Fondo de bienes decomisados por delitos contra la libertad sexual.
 
 En el plazo de un año desde la entrada en vigor de la presente ley orgánica, el Gobierno remitirá a las Cortes Generales un proyecto de ley por la que se cree y se regule un fondo de bienes decomisados por delitos contra la libertad sexual destinado a financiar las medidas de reparación a las víctimas previstas en el Título VII de esta ley.
-
 
 #### Disposición final vigesimotercera. Modificaciones reglamentarias.
 
@@ -2248,17 +1998,11 @@ El Gobierno, en el plazo de seis meses desde la entrada en vigor de esta ley org
 
 En el plazo mencionado en el apartado anterior, la Administración General del Estado y las Administraciones Autonómicas, en el ámbito de sus respectivas competencias, adaptarán su normativa a las previsiones contenidas en la presente ley orgánica.
 
-
 #### Disposición final vigesimocuarta. Habilitación para el desarrollo reglamentario.
 
 Se autoriza al Gobierno a dictar cuantas disposiciones sean necesarias para el desarrollo y ejecución de esta ley orgánica en el marco de sus competencias.
 
-
 #### Disposición final vigesimoquinta. Entrada en vigor.
-
-La presente ley orgánica entrará en vigor a los treinta días de su publicación en el «Boletín Oficial del Estado».
-
-No obstante, el Capítulo I del Título IV y el Título VI de la ley serán de aplicación en el plazo de seis meses desde su publicación en el «Boletín Oficial del Estado».
 
 Asimismo, la letra d) del apartado 1 del artículo 33 de esta ley será de aplicación a partir de la entrada en vigor de la modificación normativa prevista en la disposición final vigesimoprimera.
 

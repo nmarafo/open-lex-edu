@@ -57,8 +57,6 @@ Mapa web
 
 Contacto
 
-Versión texto
-
 Inicio
 
 Archivo
@@ -75,15 +73,9 @@ Año 1996
 
 1996/121. Lunes 23 de Septiembre de 1996
 
-1622
-
-<p>Menú de búsqueda y navegación</p>
-
 Anterior
 
 Siguiente
-
-BOC Nº 121. Lunes 23 de Septiembre de 1996 - 1622
 
 III. OTRAS RESOLUCIONES - Consejería de Economía y Hacienda
 
@@ -94,9 +86,3 @@ Descargar en formato pdf
 Advertido error en el texto remitido para la publicación de la Circular de 20 de junio de 1996, acerca de los documentos contables que deben aportarse en los expedientes de contratación del personal laboral fijo y eventual, inserta en el Boletín Oficial de Canarias nº 109, del día 28 de agosto de 1996, a continuación se transcribe a fin de proceder a su rectificación:
 
 En  la página 7831, instrucción tercera, segundo párrafo, donde dice: AD-421, debe decir D-501.
-
-© Gobierno de Canarias
-
-Aviso Legal
-
-Sugerencias y Reclamaciones

@@ -35,9 +35,7 @@ fundamentos_derecho:
 
 # Ley 12/1987, de 2 de julio, sobre establecimiento de la gratuidad de los estudios de Bachillerato, Formación Profesional y Artes Aplicadas y Oficios Artísticos en los Centros públicos y la autonomía de gestión económica de los Centros docentes públicos no universitarios.
 
-
 **JUAN CARLOS I**
-
 
 **REY DE ESPAÑA**
 
@@ -57,7 +55,6 @@ CAPÍTULO PRIMERO
 
 De la supresión de las tasas académicas en los estudios de Bachillerato, Formación Profesional y Artes Aplicadas y Oficios Artísticos
 
-
 #### Artículo primero.
 
 Uno. Los estudios de Bachillerato, Formación Profesional y Artes Aplicadas y Oficios Artísticos serán gratuitos en los Centros públicos, no estando sujetos al pago de tasas académicas.
@@ -68,21 +65,17 @@ CAPÍTULO II
 
 De las tasas académicas
 
-
 #### Artículo segundo.
 
 Las tasas académicas se regirán por lo dispuesto en la presente Ley y, en cuanto no se oponga a lo regulado en ésta por la Ley 230/1963, de 28 de diciembre, General Tributaria, y sus normas de desarrollo.
-
 
 #### Artículo tercero.
 
 Constituye el hecho imponible de las tasas académicas la prestación por tos Centros públicos de los servicios que figuran en el artículo 6.° de esta Ley, correspondientes al Curso de Orientación Universitaria, Escuelas de Idiomas, Conservatorios de Música y Escuelas de Arte Dramático, Danza, Canto, Cerámica y Restauración.
 
-
 #### Artículo cuarto.
 
 Son sujetos pasivos las personas que soliciten o a las que se presten los servicios mencionados en el artículo anterior.
-
 
 #### Artículo quinto.
 
@@ -91,7 +84,6 @@ Uno. Las tasas académicas se devengarán en el momento de solicitarse los corre
 Dos. El pago de las tasas que se hayan devengado podrá fraccionarse en los casos y en la forma que se establezca reglamentariamente.
 
 Tres. Las tasas serán objeto de autoliquidación por el sujeto pasivo, determinándose reglamentariamente la forma y el plazo de presentarla.
-
 
 #### Artículo sexto.
 
@@ -106,7 +98,6 @@ Escuelasdeidiomas
 Escuelasde Cerámicay Restauración
 
 Conservatoriosy Escuelade Arte Dramático,de Danzay Canto
-
 
 **Alumnos Oficiales**
 
@@ -140,24 +131,11 @@ Matrícula curso completo
 
 Matrícula asignaturas sueltas
 
-750
-
 3.500
-
-750
 
 2.500
 
 Servicios generales
-
-920
-
-540
-
-920
-
-540
-
 
 **Alumnos de Centros homologados**
 
@@ -181,14 +159,11 @@ Inscripción (primera vez)
 
 Servicios generales
 
-720
-
 –
 
 –
 
 –
-
 
 **Alumnos de Centros habilitados, reconocidos, autorizados o libres, y alumos de Enseñanza libre**
 
@@ -222,15 +197,6 @@ Derechos examen (por asignatura)
 
 Servicios generales
 
-720
-
-540
-
-720
-
-540
-
-
 **Examen de reválida o aptitud**
 
 Â
@@ -250,7 +216,6 @@ Alumnos oficiales y libres
 5.450
 
 –
-
 
 **Cursos monográficos**
 
@@ -272,11 +237,9 @@ Por mes
 
 3.930
 
-
 #### Artículo séptimo.
 
 Serán aplicables a las tasas a que se refiere la presente Ley los beneficios fiscales vigentes para las tasas que se suprimen.
-
 
 #### Artículo octavo.
 
@@ -288,26 +251,21 @@ CAPÍTULO III
 
 De la autonomía de gestión económica de los Centros docentes públicos no universitarios
 
-
 #### Artículo noveno.
 
 Los Centro docentes públicos no universitarios dispondrán de autonomía en su gestión económica en los términos que se establecen en la presente Ley.
-
 
 #### Artículo diez.
 
 Los ingresos que los Centros docentes pudieran obtener derivados de la prestación de servicios distintos de los gravados por las tasas que se regulan en la presente Ley, así como los producidos por legados, donaciones y venta de bienes, podrán ser aplicados a sus gastos de funcionamiento.
 
-
 #### Artículo once.
 
 Corresponde al Consejo Escolar del Centro aprobar la aplicación a los gastos de funcionamiento de los ingresos a que se refiere el artículo anterior.
 
-
 #### Artículo doce.
 
 El Ministerio de Economía y Hacienda determinará la estructura y periodicidad de la cuenta de gestión que los Centros docentes públicos no universitarios han de rendir ante el Ministerio de Educación y Ciencia y su aplicación a presupuesto.
-
 
 #### Artículo trece.
 
@@ -315,11 +273,9 @@ La justificación de la cuenta de gestión a que se refiere el artículo anterio
 
 [encabezado]DISPOSICIONES ADICIONALES
 
-
 #### [precepto]Primera.
 
 La presente Ley no será de aplicación en las Comunidades Autónomas que se hallen en el pleno ejercicio de competencias en las materias propias de la misma.
-
 
 #### [precepto]Segunda.
 
@@ -327,16 +283,13 @@ La Ley de Presupuestos Generales del Estado podrá modificar las exenciones y la
 
 [encabezado]DISPOSICIONES TRANSITORIAS
 
-
 #### [precepto]Primera.
 
 En tanto no entren en vigor las disposiciones reglamentarias para la ejecución de la presente Ley, serán aplicables las actuales normas reglamentarias que no estén en contradicción con sus preceptos.
 
-
 #### [precepto]Segunda.
 
 Serán de aplicación a los servicios solicitados con anterioridad a la entrada en vigor de esta Ley los Decretos 1636/1959, de 23 de septiembre, sobre tasas administrativas, y 4290/1964, de 17 de diciembre, de regulación de las tasas académicas.
-
 
 #### DISPOSICIÓN DEROGATORIA
 
@@ -344,11 +297,7 @@ A salvo de lo establecido en la disposición adicional primera, quedan derogados
 
 [encabezado]DISPOSICIONES FINALES
 
-
 #### [precepto]Primera.
-
-La presente Ley entrará en vigor el día siguiente al de su publicación en el «Boletín Oficial del Estado», surtiendo efectos, en todo caso, para el curso académico 1987/1988.
-
 
 #### [precepto]Segunda.
 

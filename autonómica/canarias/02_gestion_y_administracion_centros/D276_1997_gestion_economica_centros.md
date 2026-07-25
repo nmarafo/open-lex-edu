@@ -55,8 +55,6 @@ Mapa web
 
 Contacto
 
-Versión texto
-
 Inicio
 
 Archivo
@@ -73,13 +71,7 @@ Año 1997
 
 1997/162. Miércoles 17 de Diciembre de 1997
 
-1726
-
-<p>Menú de búsqueda y navegación</p>
-
 Siguiente
-
-BOC Nº 162. Miércoles 17 de Diciembre de 1997 - 1726
 
 I. DISPOSICIONES GENERALES - Consejería de Economía y Hacienda
 
@@ -112,9 +104,3 @@ EL CONSEJERO DE
 ECONOMÍA Y HACIENDA,
 
 José Carlos Francisco Díaz.
-
-© Gobierno de Canarias
-
-Aviso Legal
-
-Sugerencias y Reclamaciones

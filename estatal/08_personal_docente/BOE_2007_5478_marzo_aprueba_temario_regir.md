@@ -42,10 +42,7 @@ Artículo único. Temario.
 
 El temario a que se refiere el artículo 19 del Real Decreto 276/2007, de 23 de febrero, para las convocatorias de ingreso, accesos y adquisición de nuevas especialidades en el Cuerpo de Maestros en la especialidad de Primaria, es el que establece la presente Orden y que figura en el anexo.
 
-
 #### Disposición final. Entrada en vigor.
-
-La presente Orden entrará en vigor el día siguiente al de su publicación en el «Boletín Oficial del Estado».
 
 Madrid, 12 de marzo de 2007.-La Ministra de Educación y Ciencia, Mercedes Cabrera Calvo-Sotelo.
 

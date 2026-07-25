@@ -29,10 +29,8 @@ fuente_pdf_oficial: https://sede.gobiernodecanarias.org/boc/boc-a-2017-036-808.p
 
 # Resolución de 8 de febrero de 2017, por la que se dictan instrucciones para el proceso de evaluación en las Enseñanzas Artísticas Superiores en la Comunidad Autónoma de Canarias (BOC n.º 36, de 21 de febrero).
 
-Boletín Oficial de Canarias núm. 36
 https://sede.gobcan.es/cpji/boc
 Martes 21 de febrero de 2017
-4647
 III. Otras Resoluciones
 Consejería de Educación y Universidades
 808 Dirección General de Formación Profesional y Educación de Adultos.- Resolución 
@@ -72,13 +70,9 @@ de 10 de diciembre), regula las Enseñanzas Artísticas Superiores en su Título
 Sección Tercera, estableciendo los principios generales, los aspectos fundamentales sobre 
 la organización y, en el artículo 46.2, la definición del contenido y de la evaluación de estas 
 enseñanzas.
-boc-a-2017-036-808
 
-
-Boletín Oficial de Canarias núm. 36
 https://sede.gobcan.es/cpji/boc
 Martes 21 de febrero de 2017
-4648
 Segundo.- El Real Decreto 1614/2009, de 26 de octubre, por el que se establece la 
 ordenación de las Enseñanzas Artísticas Superiores reguladas por la Ley Orgánica 2/2006, 
 de 3 de mayo, de Educación (BOE nº 259, de 27 de octubre), modificado por el Real 
@@ -120,13 +114,9 @@ del Trabajo fin de estudios correspondiente a las Enseñanzas Artísticas Superi
 Comunidad Autónoma de Canarias (BOC nº 220, de 14 de noviembre).
 Noveno.- La Resolución de la Dirección General de Formación Profesional y Educación 
 de Adultos, de 20 de abril de 2016, por la que se dictan instrucciones para la realización de las 
-boc-a-2017-036-808
 
-
-Boletín Oficial de Canarias núm. 36
 https://sede.gobcan.es/cpji/boc
 Martes 21 de febrero de 2017
-4649
 Prácticas externas de los estudiantes de Enseñanzas Artísticas Superiores en la Comunidad 
 Autónoma de Canarias (BOC nº 86, de 5 de mayo).
 Décimo.- La Resolución de la Dirección General de Formación Profesional y 
@@ -162,13 +152,9 @@ relación con la adquisición de las distintas competencias exigidas para cada u
 serán los criterios de evaluación de las asignaturas, que deberán ser establecidos de modo 
 que resulten objetivables y mensurables, de acuerdo con los parámetros indicados en las 
 correspondientes guías docentes y en las programaciones didácticas.
-boc-a-2017-036-808
 
-
-Boletín Oficial de Canarias núm. 36
 https://sede.gobcan.es/cpji/boc
 Martes 21 de febrero de 2017
-4650
 3. El proceso de evaluación se desarrollará a lo largo de todo el periodo lectivo y será 
 necesario considerar tanto la evaluación del resultado como la evaluación del proceso, 
 permitiendo al mismo tiempo que todos los estudiantes desarrollen la capacidad de valorar 
@@ -206,13 +192,9 @@ las Enseñanzas Artísticas Superiores en la Comunidad Autónoma de Canarias.
 Resolución de 20 de abril de 2016, por la que se dictan instrucciones para la realización de las 
 Prácticas externas de los estudiantes de Enseñanzas Artísticas Superiores en la Comunidad 
 Autónoma de Canarias.
-boc-a-2017-036-808
 
-
-Boletín Oficial de Canarias núm. 36
 https://sede.gobcan.es/cpji/boc
 Martes 21 de febrero de 2017
-4651
 Cuarta.- Desarrollo de la evaluación.
 1. Los centros de enseñanzas artísticas superiores publicarán, antes del comienzo del 
 curso, el calendario de periodo de exámenes de las citadas enseñanzas, de acuerdo a lo 
@@ -249,13 +231,9 @@ b) Excepcionalmente, los estudiantes matriculados en cuarto curso con asignatura
 segunda o tercera matrícula, tanto de este curso como de cursos anteriores, dispondrán 
 además de un tercer momento de evaluación que coincidirá con la evaluación final ordinaria 
 del primer semestre. La realización de las pruebas de evaluación para estas asignaturas no 
-boc-a-2017-036-808
 
-
-Boletín Oficial de Canarias núm. 36
 https://sede.gobcan.es/cpji/boc
 Martes 21 de febrero de 2017
-4652
 supondrá, en ningún caso, la suspensión de clases. El alumnado que se encuentre en esta 
 situación solo podrá presentarse a dos de estos tres momentos de evaluación para hacer uso 
 de las dos convocatorias a las que le da derecho su matrícula.
@@ -291,13 +269,9 @@ resultado de aplicar la siguiente fórmula: multiplicación del número de créd
 asignatura cursada por la calificación obtenida en la misma, sumando a continuación el 
 resultado obtenido en todas las asignaturas y dividiendo por el número de créditos ECTS 
 totales cursados por el estudiante.
-boc-a-2017-036-808
 
-
-Boletín Oficial de Canarias núm. 36
 https://sede.gobcan.es/cpji/boc
 Martes 21 de febrero de 2017
-4653
 4. Según lo establecido en la Resolución de 24 de octubre de 2016, por la que se 
 dictan instrucciones sobre el reconocimiento y transferencia de créditos en las Enseñanzas 
 Artísticas Superiores, para las asignaturas objeto de reconocimiento de créditos en las que 
@@ -335,13 +309,9 @@ criterios:
 a) Mayor calificación media del expediente.
 b) Mayor calificación media del cuarto curso.
 c) Mayor calificación en el trabajo fin de estudios.
-boc-a-2017-036-808
 
-
-Boletín Oficial de Canarias núm. 36
 https://sede.gobcan.es/cpji/boc
 Martes 21 de febrero de 2017
-4654
 4. A los efectos del cálculo de la nota media, tanto si la misma se refiere a un curso como 
 si se refiere a todo el expediente académico del alumnado, se estará a lo dispuesto en la 
 instrucción sexta, apartado tres de la presente resolución.
@@ -380,13 +350,9 @@ b) El límite de permanencia en las Enseñanzas Artísticas Superiores será de 
 para los estudiantes con dedicación a tiempo completo y de ocho años para los que estudien 
 a tiempo parcial. En todos los casos, los años de interrupción de estudios no computarán a 
 efectos de permanencia en los estudios.
-boc-a-2017-036-808
 
-
-Boletín Oficial de Canarias núm. 36
 https://sede.gobcan.es/cpji/boc
 Martes 21 de febrero de 2017
-4655
 c) Atendiendo a lo establecido en la Orden de 14 de marzo de 2014, si concurrieran 
 circunstancias excepcionales debidamente justificadas, la dirección general competente en 
 materia de Enseñanzas Artísticas Superiores podrá autorizar, previos informes del director o 
@@ -421,13 +387,9 @@ tribunales de evaluación que se precisen para la evaluación del alumnado.
 a) Para la evaluación de asignaturas en tercera matrícula, el tribunal evaluador estará 
 compuesto por tres profesores del departamento docente correspondiente a la asignatura objeto 
 de evaluación. El profesor que imparta la asignatura no podrá formar parte de dicho tribunal.
-boc-a-2017-036-808
 
-
-Boletín Oficial de Canarias núm. 36
 https://sede.gobcan.es/cpji/boc
 Martes 21 de febrero de 2017
-4656
 b) Para la evaluación de los trabajos de fin de estudios, se estará a lo establecido en la 
 citada Resolución de 2 de noviembre de 2016.
 c) Para la evaluación de asignaturas del último curso, cuando así lo establezca el Proyecto 
@@ -465,13 +427,9 @@ y Educación de Adultos, cuya resolución pondrá fin a la vía administrativa.
 6. En el supuesto de que exista desacuerdo con la calificación final obtenida en el trabajo 
 fin de estudios se estará a lo dispuesto en la citada Resolución de 2 de noviembre de 2016, 
 por la que se dictan instrucciones para la realización del trabajo fin de estudios.
-boc-a-2017-036-808
 
-
-Boletín Oficial de Canarias núm. 36
 https://sede.gobcan.es/cpji/boc
 Martes 21 de febrero de 2017
-4657
 Decimotercera.- Documentos de evaluación.
 1. Los documentos oficiales de evaluación de las Enseñanzas Artísticas Superiores 
 son el expediente académico personal, las actas de calificación y la certificación 
@@ -507,13 +465,9 @@ de la especialidad correspondiente:
 Título Superior de Arte Dramático.
 Título Superior de Diseño.
 Título Superior de Música.
-boc-a-2017-036-808
 
-
-Boletín Oficial de Canarias núm. 36
 https://sede.gobcan.es/cpji/boc
 Martes 21 de febrero de 2017
-4658
 2. Para la obtención del Título Superior de Arte Dramático, Diseño o Música, el estudiante 
 deberá superar la totalidad de las asignaturas, las prácticas programadas, y el trabajo de fin 
 de estudios que constituyen el plan de estudios en su integridad.
@@ -552,5 +506,3 @@ los centros de Enseñanzas Artísticas Superiores los planes de evaluación inte
 externa correspondientes.
 Santa Cruz de Tenerife, a 8 de febrero de 2017.- El Director General de Formación 
 Profesional y Educación de Adultos, Manuel Jorge Pérez.
-boc-a-2017-036-808
-

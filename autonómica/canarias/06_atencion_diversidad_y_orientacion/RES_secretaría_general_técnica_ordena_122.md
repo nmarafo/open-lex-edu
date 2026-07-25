@@ -32,10 +32,7 @@ fuente_pdf_oficial: https://sede.gobiernodecanarias.org/boc/boc-a-2018-086-2126.
 
 # Resolución de 8 de febrero de 2018, de la Secretaría General Técnica, por la que se ordena la publicación del Convenio de Colaboración entre la Consejería de Educación y Universidades y la Asociación de Padres de Personas con Autismo de Tenerife (APANATE) para la atención educativa del alumnado no universitario con necesidades específicas de apoyo educativo derivadas de Trastornos del Espectro Autista (TEA) (BOC n.º 86, de 4 de mayo).
 
-Boletín Oficial de Canarias núm. 86
-https://sede.gobcan.es/boc
 Viernes 4 de mayo de 2018
-15159
 III. Otras Resoluciones
 Consejería de Educación y Universidades
 2126 Secretaría General Técnica.- Resolución de 8 de febrero de 2018, por la que se 
@@ -66,13 +63,8 @@ trastornos del espectro autista (TEA).
 Santa Cruz de Tenerife, a 8 de febrero de 2018.- La Secretaria General Técnica, Ángeles 
 Bogas Gálvez.
 Página 
-boc-a-2018-086-2126
 
-
-Boletín Oficial de Canarias núm. 86
-https://sede.gobcan.es/boc
 Viernes 4 de mayo de 2018
-15160
 A N E X O
 CONVENIO DE COLABORACIÓN ENTRE LA CONSEJERÍA DE EDUCACIÓN Y 
 UNIVERSIDADES DEL GOBIERNO DE CANARIAS Y LA ASOCIACIÓN DE PADRES DE 
@@ -111,13 +103,8 @@ la igualdad de derechos y oportunidades entre hombres y mujeres y en la igualdad
 no discriminación de las personas con discapacidad”.
 Segundo.- El Gobierno de Canarias a través del Decreto 104/2010, de 29 de julio, 
 regula en el ámbito de la Comunidad Autónoma de Canarias la atención a la diversidad 
-boc-a-2018-086-2126
 
-
-Boletín Oficial de Canarias núm. 86
-https://sede.gobcan.es/boc
 Viernes 4 de mayo de 2018
-15161
 y, especialmente, la atención educativa al alumnado que presente necesidades específicas 
 de apoyo educativo, propiciando la colaboración y alentando el compromiso de todos los 
 sectores educativos y de las instituciones y de la sociedad para lograr una atención adecuada 
@@ -160,13 +147,8 @@ de 5 de junio de 1998), tiene por objeto fomentar la participación de los ciuda
 ciudadanas de Canarias en organizaciones sin ánimo de lucro y facilitar las relaciones que 
 se entablen entre las Administraciones Públicas, las entidades que desarrollen actividades de 
 aquella naturaleza y las personas voluntarias que participen en su ejecución. En el Decreto 
-boc-a-2018-086-2126
 
-
-Boletín Oficial de Canarias núm. 86
-https://sede.gobcan.es/boc
 Viernes 4 de mayo de 2018
-15162
 13/2002, de 13 de febrero, por el que se desarrolla dicha Ley, se establecen los requisitos y 
 el procedimiento para constituirse en entidad de voluntariado.
 Quinto.- La asociación APANATE tiene como ámbito de actuación la isla de Tenerife 
@@ -202,13 +184,8 @@ cumplimiento de sus fines.
 Sexto.- En el año 2005 fue suscrito un Convenio de Colaboración entre ambas entidades, 
 con nº 466 de registro en el Registro de Convenios de la Secretaría General Técnica, con 
 fecha 7 de julio de 2005. 
-boc-a-2018-086-2126
 
-
-Boletín Oficial de Canarias núm. 86
-https://sede.gobcan.es/boc
 Viernes 4 de mayo de 2018
-15163
 Asimismo, el día 8 de febrero de 2013 se firma Adenda al mencionado Protocolo de 
 colaboración entre la Directora General de Ordenación, Innovación y Promoción Educativa 
 de la Consejería de Educación, Universidades y Sostenibilidad del Gobierno de Canarias, 
@@ -247,13 +224,8 @@ pertenencia o no a dicha Asociación.
 Segunda.- Ejecución y desarrollo. Condiciones.
 1. El ámbito del presente Convenio afecta al alumnado con necesidades específicas 
 de apoyo educativo derivado de Trastornos del Espectro Autista, escolarizado en centros 
-boc-a-2018-086-2126
 
-
-Boletín Oficial de Canarias núm. 86
-https://sede.gobcan.es/boc
 Viernes 4 de mayo de 2018
-15164
 docentes sostenidos con fondos públicos ubicados en la isla de Tenerife. El alumnado que 
 reciba esta atención deberá estar vinculado a APANATE. 
 2. A los efectos del presente Convenio se considerará que un alumno o una alumna 
@@ -291,13 +263,8 @@ Educativa de 9 de febrero de 2011, por la que se dictan instrucciones sobre los 
 y los plazos para la atención educativa del alumnado con necesidades específicas de apoyo 
 educativo en los centros escolares de la Comunidad Autónoma de Canarias (BOC nº 40, de 
 24.2.11).
-boc-a-2018-086-2126
 
-
-Boletín Oficial de Canarias núm. 86
-https://sede.gobcan.es/boc
 Viernes 4 de mayo de 2018
-15165
 Tercera.- Colaboración de voluntarios de APANATE en las actividades de los 
 centros educativos.
 Para colaborar en las acciones con el alumnado con Trastorno del Espectro Autista, 
@@ -340,13 +307,8 @@ y Promoción Educativa de la Consejería un informe sobre el contenido y horario
 actividades concretas realizadas por cada voluntario o voluntaria.
 La asociación deberá tener autorizado el plan de actuación en el aula por el Consejo 
 Escolar. Los centros determinarán, dentro de su plan de atención a la diversidad, las 
-boc-a-2018-086-2126
 
-
-Boletín Oficial de Canarias núm. 86
-https://sede.gobcan.es/boc
 Viernes 4 de mayo de 2018
-15166
 funciones que se les puede asignar a las personas voluntarias, las limitaciones a su actuación 
 que estimen pertinentes, las relaciones con los demás miembros de la comunidad educativa 
 y los mecanismos de resolución de los conflictos.
@@ -386,13 +348,8 @@ el ejercicio de la actividad voluntaria.
 Los voluntarios para realizar su función contarán exclusivamente con los medios 
 materiales y personales que ponga a disposición la asociación, que además sufragará cuantos 
 gastos e indemnizaciones ocasiones la actividad de los referidos voluntarios.
-boc-a-2018-086-2126
 
-
-Boletín Oficial de Canarias núm. 86
-https://sede.gobcan.es/boc
 Viernes 4 de mayo de 2018
-15167
 Sexta.- Comisión de Seguimiento.
 Se constituirá una Comisión de Seguimiento del Convenio integrada por dos representantes 
 de cada una de las partes. De la asistencia a las reuniones no podrá imputarse gasto alguno a 
@@ -425,13 +382,8 @@ El presente Convenio se suscribe al amparo de los artículos 47 a 53 de la Ley 4
 el que se regula la actividad convencional del sector público de la Comunidad Autónoma de 
 Canarias y la Ley 12/2014, de 26 diciembre, de transparencia y de acceso a la información 
 pública.
-boc-a-2018-086-2126
 
-
-Boletín Oficial de Canarias núm. 86
-https://sede.gobcan.es/boc
 Viernes 4 de mayo de 2018
-15168
 El presente Convenio tiene naturaleza administrativa, y del mismo no pueden derivarse 
 obligaciones económicas para la Consejería de Educación y Universidades. Asimismo, se 
 encuentra excluido del ámbito de aplicación del Real Decreto Legislativo 3/2011, de 14 
@@ -456,5 +408,3 @@ Y para que así conste a los efectos oportunos, en prueba de conformidad, las pa
 firman el presente documento, por triplicado ejemplar y a un solo efecto y tenor, en el lugar 
 y fecha indicados en el encabezamiento.- La Consejera de Educación y Universidades, 
 Soledad Monzón Cabrera.- La Presidente de APANATE, Carmen Delia Rosa Di.
-boc-a-2018-086-2126
-

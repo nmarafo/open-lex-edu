@@ -31,9 +31,6 @@ fuente_pdf_oficial: https://sede.gobiernodecanarias.org/boc/boc-a-2026-029-465.p
 
 # Resolución de 30 de enero de2026, de la Dirección General de Personal y Formación del Profesorado, por la que se convoca, por el sistema de libre designación, la provisión de puestos de dirección de centros públicos integrados de formación profesional de la Comunidad Autónoma de Canarias para el periodo de mandato 2026-2030 (BOC n.º 29, de 12 de febrero).
 
-https://sede.gobiernodecanarias.org/boc
-boc-a-2026-029-465
-Boletín Oficial de Canarias núm. 29 Jueves 12 de febrero de 20265199
 II. Autoridades y personal
 Oposiciones y concursos
 Consejería de Educación, Formación Profesional, Actividad Física y Deportes
@@ -72,9 +69,6 @@ función directiva.
 Tercero.- La Ley Orgánica 8/2021, de 4 de junio, de protección integral a la infancia y 
 la adolescencia frente a la violencia, en particular el artículo 57, apartado 1.
 
-https://sede.gobiernodecanarias.org/boc
-boc-a-2026-029-465
-Boletín Oficial de Canarias núm. 29 Jueves 12 de febrero de 20265200
 Cuarto.- La Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común 
 de las Administraciones Públicas, en cuanto le sea de aplicación.
 Quinto.- La Ley 40/2015, de 1 de octubre, de Régimen Jurídico del Sector Público, en 
@@ -107,9 +101,6 @@ resuelva expresamente el de reposición o se produzca su desestimación presunta
 Las Palmas de Gran Canaria, a 30 de enero de 2026.- La Directora General de Personal 
 y Formación del Profesorado, Mónica Ramírez Barbosa.
 
-https://sede.gobiernodecanarias.org/boc
-boc-a-2026-029-465
-Boletín Oficial de Canarias núm. 29 Jueves 12 de febrero de 20265201
 ANEXO I
 BASES DE LA CONVOCATORIA
 ÍNDICE.
@@ -136,9 +127,6 @@ proyectos de dirección presentados.
 5.3. Actuación de las personas candidatas.
 5.4. Exposición y defensa del proyecto de dirección.
 
-https://sede.gobiernodecanarias.org/boc
-boc-a-2026-029-465
-Boletín Oficial de Canarias núm. 29 Jueves 12 de febrero de 20265202
 5.5. Informe sobre los proyectos de dirección.
 5.6. Informe sobre los currículum presentados.
 6. NOMBRAMIENTO DE LOS DIRECTORES Y DIRECTORAS.
@@ -151,9 +139,6 @@ NOMBRAMIENTOS.
 ANEXO II: MODELO DE CURRÍCULUM.
 ANEXO III: V ACANTES.
 
-https://sede.gobiernodecanarias.org/boc
-boc-a-2026-029-465
-Boletín Oficial de Canarias núm. 29 Jueves 12 de febrero de 20265203
 ANEXO I
 BASES
 1. Requisitos de los participantes.
@@ -192,9 +177,6 @@ funciones en los últimos cuatro años.
 g) No tener nombramiento como director o directora que se extienda a fecha posterior 
 a la prevista para la toma de posesión en la presente convocatoria.
 
-https://sede.gobiernodecanarias.org/boc
-boc-a-2026-029-465
-Boletín Oficial de Canarias núm. 29 Jueves 12 de febrero de 20265204
 1.2. Cumplimiento de requisitos.
 Los requisitos deberán tenerse cumplidos, o en condiciones de obtenerlos, en la fecha 
 de finalización del plazo de presentación de solicitudes y mantenerse durante el proceso 
@@ -231,9 +213,6 @@ de competencias profesionales adquiridas a través de la experiencia laboral u o
 formales.
 - La definición de las líneas estratégicas de actuación.
 
-https://sede.gobiernodecanarias.org/boc
-boc-a-2026-029-465
-Boletín Oficial de Canarias núm. 29 Jueves 12 de febrero de 20265205
 - Los objetivos del proyecto y las áreas de mejora, con especial relevancia en:
 • La mejora de los resultados de los aprendizajes y del rendimiento académico.
 • La reducción del abandono escolar.
@@ -272,9 +251,6 @@ en las que hayan participado las personas candidatas y que tengan una especial r
 la dirección y la gestión económico-financiera de los centros docentes públicos, justificando 
 las mismas mediante certificación de los méritos que se aleguen.
 
-https://sede.gobiernodecanarias.org/boc
-boc-a-2026-029-465
-Boletín Oficial de Canarias núm. 29 Jueves 12 de febrero de 20265206
 No será preciso presentar aquella documentación que consta en la hoja de servicios y 
 en el expediente personal de las personas candidatas.
 La Administración podrá requerir a las personas interesadas, en cualquier momento, 
@@ -313,9 +289,6 @@ En cada uno de los centros donde se oferten vacantes se constituirá una Comisi�
 valorar el proyecto de dirección y el currículum presentado por los candidatos o candidatas a 
 su dirección. Las Comisiones de Valoración, que serán nombradas por la Dirección General 
 
-https://sede.gobiernodecanarias.org/boc
-boc-a-2026-029-465
-Boletín Oficial de Canarias núm. 29 Jueves 12 de febrero de 20265207
 de Personal y Formación del Profesorado en la Resolución que apruebe la lista definitiva de 
 personas candidatas admitidas y excluidas, estarán compuestas por los siguientes miembros 
 que deberán ser, en todo caso, personal funcionario de carrera del mismo Grupo o superior:
@@ -352,9 +325,6 @@ no pueda actuar por causa sobrevenida será sustituido por el suplente.
 Las Comisiones, una vez constituidas, tendrán su sede oficial en el centro donde haya 
 candidatos.
 
-https://sede.gobiernodecanarias.org/boc
-boc-a-2026-029-465
-Boletín Oficial de Canarias núm. 29 Jueves 12 de febrero de 20265208
 4.4. Funciones.
 Serán funciones de las Comisiones de Valoración:
 a) Solicitar a los órganos colegiados de participación del centro, a través de su secretaría 
@@ -392,9 +362,6 @@ los mismos deberán presentarse.
 El desarrollo de la exposición y defensa del proyecto de dirección se realizará en 
 sesiones públicas.
 
-https://sede.gobiernodecanarias.org/boc
-boc-a-2026-029-465
-Boletín Oficial de Canarias núm. 29 Jueves 12 de febrero de 20265209
 Las personas candidatas deberán identificarse ante la Comisión de Valoración mediante 
 la presentación de documento acreditativo de su identidad (DNI o pasaporte y, en su caso 
 adicionalmente, tarjeta de identidad de extranjero).
@@ -435,9 +402,6 @@ distribución de funciones y tareas, coordinación y relación con los órganos 
 de participación en el control, gestión y clima de convivencia del centro, así como los 
 instrumentos y procedimientos de evaluación de la gestión del centro.
 
-https://sede.gobiernodecanarias.org/boc
-boc-a-2026-029-465
-Boletín Oficial de Canarias núm. 29 Jueves 12 de febrero de 20265210
 5.6. Informe sobre los currículum presentados.
 La Comisión de Valoración estudiará los currículum presentados y emitirá informe, 
 preceptivo pero no vinculante, que deberá estar motivado.
@@ -478,9 +442,6 @@ del centro, propondrá a la Dirección General de Personal y Formación del Prof
 nombramiento de los cargos que formen el equipo directivo, preferentemente, de entre 
 personal funcionario con destino en el centro.
 
-https://sede.gobiernodecanarias.org/boc
-boc-a-2026-029-465
-Boletín Oficial de Canarias núm. 29 Jueves 12 de febrero de 20265211
 8.2. Nombramiento.
 El nombramiento de los cargos directivos propuestos se hará mediante Resolución de la 
 Dirección General de Personal y Formación del Profesorado que se publicará en la página 
@@ -491,9 +452,6 @@ resolver cuantas dudas se susciten en el cumplimiento de lo dispuesto en las bas
 convocatoria, así como dictar instrucciones necesarias para el mejor desarrollo de este 
 procedimiento.
 
-boc-a-2026-029-465
-Boletín Oficial de Canarias núm. 29 Jueves 12 de febrero de 20265212
-https://sede.gobiernodecanarias.org/boc
 ANEXO II
 MODELO DE CURRÍCULUM
 Nombre y apellidos:
@@ -525,9 +483,6 @@ que se ostenta.
 ANEXO II
 MODELO DE CURRÍCULUM
 
-boc-a-2026-029-465
-Boletín Oficial de Canarias núm. 29 Jueves 12 de febrero de 20265213
-https://sede.gobiernodecanarias.org/boc
 3. Conocimientos  de  informática:  cursos  realizados  y  conocimientos  que  posee,  breve
 exposición de estos últimos.
 4. Cursos superados y/o impartidos sobre gestión en la función directiva.
@@ -542,9 +497,6 @@ Documentación
 Las personas candidatas deberán aportar con el currículum los documentos que acrediten los  
 méritos alegados.
 
-boc-a-2026-029-465
-Boletín Oficial de Canarias núm. 29 Jueves 12 de febrero de 20265214
-https://sede.gobiernodecanarias.org/boc
 ANEXO III
 VACANTES
 CÓDIGO NOMBRE DEL CENTRO MUNICIPIO

@@ -44,9 +44,7 @@ Para la elaboración de este real decreto han sido consultadas las Comunidades A
 
 En virtud de lo expuesto, a propuesta del Ministro de Educación, de acuerdo con el Consejo de Estado y previa deliberación del Consejo de Ministros en su reunión del día 29 de julio de 2011,
 
-
 **DISPONGO:**
-
 
 #### Artículo primero. Modificación Real Decreto 1631/2006, de 29 de diciembre, por el que se establecen las enseñanzas mínimas correspondientes a la Educación Secundaria Obligatoria.
 
@@ -223,7 +221,6 @@ Seis. Se modifica el anexo III del Real Decreto 1631/2006 incorporando el horari
 Ciencias aplicadas a la actividad profesional: 70*.
 
 Orientación Profesional e Iniciativa emprendedora: 70*.»
-
 
 #### Artículo segundo. Modificación del Real Decreto 1834/2008, de 8 de noviembre, por el que se definen las condiciones de formación para el ejercicio de la docencia en la educación secundaria obligatoria, el bachillerato, la formación profesional y las enseñanzas de régimen especial y se establecen las especialidades de los cuerpos docentes de enseñanza secundaria.
 
@@ -467,7 +464,6 @@ Los profesores de Asesoría y procesos de imagen personal podrán impartir la ma
 
 Los profesores de Formación y orientación laboral podrán impartir las materias de Economía, Economía de Empresa, Orientación Profesional e Iniciativa emprendedora, siempre que se trate de licenciados o graduados en alguna especialidad de la rama de conocimientos de Ciencias Sociales y Jurídicas con formación en Economía.»
 
-
 #### Artículo tercero. Modificación del Real Decreto 860/2010, de 2 de julio, por el que se regulan las condiciones de formación inicial del profesorado de los centros privados para ejercer la docencia en las enseñanzas de educación secundaria obligatoria o de bachillerato.
 
 Se modifica el anexo del Real Decreto 860/2010, incorporando las materias de Alimentación, nutrición y salud, Ciencias aplicadas a la actividad profesional, Orientación Profesional e Iniciativa emprendedora, en los bloques correspondientes, de la siguiente forma:
@@ -576,23 +572,19 @@ ESO
 
 Licenciado o Ingeniero en Informática. Cualquier título de Ingeniero, Arquitecto o Licenciado del área de las Enseñanzas Técnicas o de Ciencias Experimentales y de la Salud o cualquier título oficial de Graduado de la rama de conocimiento de Ingeniería y Arquitectura, o de Ciencias, o cualquier titulación declarada equivalente a efectos de docencia para impartir las materias de Tecnologías y acreditar una experiencia docente o una formación superior adecuada para impartir el currículo de la materia.»
 
-
 #### Disposición adicional primera. Calendario de aplicación.
 
 1. En el curso 2011-2012 se implantará lo establecido en el nuevo artículo 15 bis del Real Decreto 1631/2006, de 29 de diciembre, por el que se establecen las enseñanzas mínimas correspondientes a la Educación Secundaria Obligatoria
 
 2. En el curso 2012-2013 se implantarán el resto de las modificaciones incorporadas en el presente Real Decreto. No obstante, las Administraciones educativas podrán anticipar su aplicación al curso 2011-2012.
 
-
 #### Disposición adicional segunda. Conciertos de los programas de cualificación profesional inicial.
 
 Las Administraciones educativas podrán concertar, con carácter preferente, la impartición de programas de cualificación profesional inicial con centros privados concertados que impartan la educación secundaria obligatoria, conforme a lo previsto en la Ley Orgánica 2/2006, de 3 de mayo, de Educación. Estos conciertos asegurarán que las familias no realicen aportaciones económicas.
 
-
 #### Disposición final primera. Desarrollo normativo.
 
 Se habilita al Ministro de Educación para dictar, en el ámbito de sus competencias, cuantas disposiciones sean precisas para la ejecución y desarrollo de lo establecido en este Real Decreto.
-
 
 #### Disposición final segunda. Entrada en vigor.
 
@@ -607,7 +599,6 @@ El Ministro de Educación,
 ÁNGEL GABILONDO PUJOL
 
 ANEXO
-
 
 **Alimentación, nutrición y salud**
 
@@ -673,7 +664,6 @@ La enseñanza de esta materia en esta etapa tendrá como finalidad el desarrollo
 
 Contenidos
 
-
 **Bloque 1. Salud y enfermedad. Hábitos saludables**
 
 – Definiciones de salud: Aspectos subjetivos y objetivos. Continuidad salud/enfermedad.
@@ -693,7 +683,6 @@ Contenidos
 – Hábitos correctos de higiene y actividad física.
 
 – Primero auxilios. Conducta a seguir en casos de emergencia. Técnicas básicas de primeros auxilios.
-
 
 **Bloque 2. Alimentación y nutrición**
 
@@ -720,7 +709,6 @@ Contenidos
 – Usos alimentarios de la población inmigrante.
 
 – Otras costumbres alimentarias (vegetarianos, comida rápida, etc.).
-
 
 **Bloque 3. Conservación e higiene. Tecnología alimentaria**
 
@@ -802,7 +790,6 @@ Este criterio busca que el alumno emplee de forma eficaz los conceptos y términ
 
 A través de este criterio se pretende evaluar la capacidad del alumno para encontrar información idónea a partir de orígenes y soportes diferentes, evaluando su relevancia y verosimilitud y utilizando diferentes estrategias, medios o instrumentos, fundamentalmente las Tecnologías de la Información y la Comunicación.
 
-
 **Ciencias aplicadas a la actividad profesional**
 
 Es importante que al finalizar la Educación Secundaria Obligatoria, los estudiantes hayan adquirido conocimientos procedimentales en el área científica, sobre todo en técnicas experimentales. Esta materia les aportará una formación experimental básica y contribuirá a la adquisición de una disciplina de trabajo en el laboratorio, respetando las normas de seguridad e higiene así como valorando la importancia de utilizar los equipos de protección personal necesarios en cada caso. Por tanto es fundamental utilizar un enfoque práctico en su desarrollo metodológico.
@@ -875,7 +862,6 @@ La enseñanza de esta materia en esta etapa tendrá como finalidad el desarrollo
 
 Contenidos
 
-
 **Bloque 1. Técnicas básicas de Laboratorio**
 
 – El laboratorio: Organización. Materiales e instrumentos básicos. Productos químicos habituales. Interpretación de su etiquetado. Manipulación y Transporte de reactivos.
@@ -896,7 +882,6 @@ Contenidos
 
 – Herramientas TIC en el trabajo de laboratorio para la búsqueda, análisis y tratamiento de la información, así como para la realización de simulaciones y experiencias asistidas por ordenador.
 
-
 **Bloque 2. Ciencia y medioambiente**
 
 – Concepto de contaminación. Contaminación de la atmósfera: agentes contaminantes, origen de éstos y efectos sobre el medioambiente (lluvia ácida, efecto invernadero, destrucción de la capa de ozono, cambio global)
@@ -912,7 +897,6 @@ Contenidos
 – Experimentación con reacciones químicas relacionadas con el medio ambiente. Conocimiento del pH como medida e indicador medioambiental.
 
 – Concepto de desarrollo sostenible. Posibles soluciones al problema medioambiental: Técnicas de ahorro energético, diversificación energética, desarrollo de nuevas tecnologías en la industria para favorecer la eficiencia energética y reducir la contaminación.
-
 
 **Bloque 3. I + D + i**
 
@@ -979,7 +963,6 @@ Con este criterio se pretende valorar la capacidad del alumno de buscar informac
 12. Emplear adecuadamente las TIC en la búsqueda, selección y proceso de la información necesaria para realizar un estudio relacionado con el conocimiento científico aplicado a la actividad profesional.
 
 Con este criterio se pretende comprobar si los estudiantes son capaces de utilizar las herramientas informáticas disponibles para buscar y tratar la información necesaria llevar a cabo un estudio sobre la aplicación del conocimiento científico a la actividad profesional. También se trata, por medio del estudio de casos concretos, comprobar la capacidad de respuesta, el grado de adquisición de la competencia en comunicación y expresión lingüística, junto con la del tratamiento de la información y competencia digital, en la resolución de diferentes problemas científicos contextualizados en diferentes situaciones profesionales.
-
 
 **Orientación profesional e iniciativa emprendedora**
 
@@ -1101,7 +1084,6 @@ Objetivos
 
 Contenidos
 
-
 **Bloque 1. Habilidades para la gestión personal de la trayectoria formativa y profesional**
 
 – Competencias personales y sociales transferibles a una variedad de contextos de trabajo:
@@ -1117,7 +1099,6 @@ Contenidos
 ▪ Habilidades de relación: cooperación y trabajo en equipo; comunicación empresarial; asertividad; persuasión y autoridad moral; sensibilidad hacia las necesidades de los demás, empatía y asertividad.
 
 ▪ Habilidades de dirección: dirección y liderazgo; asunción de responsabilidades y delegación; gestión y organización; planificación y programación; toma de decisiones; resolución de problemas; motivación y madurez profesional; habilidad negociadora.
-
 
 **Bloque 2. Exploración de contextos de formación y de trabajo**
 
@@ -1139,7 +1120,6 @@ Contenidos
 
 ▪ Entorno socioeconómico local, regional, nacional e internacional; características y demandas sociales del entorno. Previsiones a corto, medio y largo plazo a tener en cuenta en la toma de decisiones en un plan de carrera profesional. EI mercado europeo como escenario de los proyectos empresariales.
 
-
 **Bloque 3. Mercado laboral y economía financiera**
 
 – Empleo por cuenta ajena. Acceso a las ofertas de empleo pública y privada.
@@ -1151,7 +1131,6 @@ Contenidos
 – Conceptos básicos de economía: la actividad económica, los agentes económicos y los sectores económicos.
 
 – Conceptos básicos financieros: el dinero, el tipo de interés, la inflación, el sistema financiero, el mercado de valores. Relación con la banca. Medios de pago.
-
 
 **Bloque 4. Desarrollo y gestión de un plan de carrera profesional**
 

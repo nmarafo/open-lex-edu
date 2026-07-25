@@ -53,19 +53,15 @@ Este real decreto ha sido informado por el Consejo de Universidades, por la Conf
 
 En su virtud, a propuesta del Ministro de Educación, con la aprobación previa del Ministro de Política Territorial y Administración Pública, de acuerdo con el Consejo de Estado y previa deliberación del Consejo de Ministros en su reunión del día 11 de noviembre de 2011,
 
-
 **DISPONGO:**
-
 
 #### Artículo 1. Objeto.
 
 El presente real decreto tiene por objeto establecer el nuevo régimen de equivalencias de los estudios y titulaciones de ciencias eclesiásticas de nivel universitario respecto de los títulos universitarios oficiales españoles, en cumplimiento de lo dispuesto en el Acuerdo entre el Estado Español y la Santa Sede de 3 de enero de 1979 sobre enseñanza y asuntos culturales.
 
-
 #### Artículo 2. Ámbito de aplicación.
 
 Lo dispuesto en la presente norma es de aplicación a los títulos de la Iglesia Católica que se relacionan en el Anexo I, otorgados por los Centros Superiores de Ciencias Eclesiásticas de la Iglesia Católica situados en España o en el extranjero, que cumplan el procedimiento y los requisitos establecidos en el presente real decreto.
-
 
 #### Artículo 3. Reconocimiento de efectos civiles.
 
@@ -75,11 +71,9 @@ Lo dispuesto en la presente norma es de aplicación a los títulos de la Iglesia
 
 3. En el supuesto de que los títulos eclesiásticos superiores se expresen en el futuro con denominaciones diferentes a las citadas en el Anexo I, deberá acreditarse, por las autoridades competentes de la Iglesia Católica en España, su equivalencia con las mismas y el cumplimiento de los requisitos establecidos en el presente Real Decreto y los exigidos por la normativa citada en el artículo 5 de este artículo.
 
-
 #### Artículo 4. Reconocimiento de estudios parciales.
 
 Para el reconocimiento de estudios parciales y créditos superados en las enseñanzas conducentes a los títulos eclesiásticos a que se refiere el artículo anterior, a efectos de cursar en España estudios oficiales conducentes a la obtención de títulos universitarios con validez en todo el territorio nacional, será de aplicación la normativa vigente en materia de reconocimiento de títulos y estudios extranjeros de nivel universitario.
-
 
 #### Artículo 5. Requisitos.
 
@@ -89,11 +83,9 @@ Para el reconocimiento de estudios parciales y créditos superados en las enseñ
 
 3. Los títulos expedidos por los Centros Superiores de Ciencias Eclesiásticas de la Iglesia Católica deberán ir acompañados, a efectos de reconocimiento de los efectos civiles a que se refiere este real decreto, por el correspondiente Suplemento europeo al título (SET), el cual contendrá la información relativa al nivel y contenido de las enseñanzas cursadas, que deberán estar expresadas en el sistema de créditos ECTS.
 
-
 #### Artículo 6. Diligenciado de los títulos.
 
 El reconocimiento de efectos civiles de los títulos eclesiásticos universitarios conferidos por los Centros Superiores de Ciencias Eclesiásticas de la Iglesia Católica a que se refiere el artículo 3 de este real decreto, requerirá que los documentos acreditativos de los mismos sean previamente diligenciados por las autoridades competentes de la Iglesia Católica en España mediante la certificación de la autenticidad de los mismos a los efectos previstos por este real decreto.
-
 
 #### Artículo 7. Procedimiento.
 
@@ -115,11 +107,9 @@ Asimismo, dichos documentos deberán contar con el diligenciado previo a que se 
 
 8. La falta de resolución y notificación en plazo permitirá entender desestimada la solicitud.
 
-
 #### Disposición adicional primera. Pruebas de acceso a los Centros Superiores de Ciencias Eclesiásticas de la Iglesia Católica.
 
 La superación de pruebas de acceso a estudios de ciencias eclesiásticas en Centros Superiores de la Iglesia Católica sólo surtirá efectos para el acceso a dichos Centros.
-
 
 #### Disposición adicional segunda. Títulos que ya han obtenido el reconocimiento a efectos civiles.
 
@@ -127,50 +117,39 @@ La superación de pruebas de acceso a estudios de ciencias eclesiásticas en Cen
 
 2. Quienes hayan obtenido el reconocimiento civil de un título de acuerdo con el Real Decreto 3/1995, de 13 de enero, no podrán solicitar un nuevo reconocimiento del mismo título de conformidad con lo establecido en el presente real decreto.
 
-
 #### Disposición adicional tercera. Inscripción de Centros de la Iglesia Católica en el Registro de Universidades, Centros y Títulos (RUCT).
 
 Las Facultades de Ciencias Eclesiásticas de la Iglesia Católica sitas en España que figuran en el Anexo II serán inscritas en el RUCT, de conformidad con lo establecido en el artículo 2 del Real Decreto 1509/2008, de 12 de septiembre, por el que se regula el Registro de Universidades, Centros y Títulos.
-
 
 #### Disposición adicional cuarta. Declaraciones de equivalencia anteriores.
 
 Por el Ministerio de Educación se adoptarán las medidas necesarias para inscribir en el Registro a que se refiere el artículo 7.7 de este real decreto, las declaraciones de equivalencia acordadas bajo la vigencia del Real Decreto 3/1995, de 13 de enero.
 
-
 #### Disposición transitoria primera. Solicitudes ya presentadas.
 
 Quienes a la entrada en vigor del presente real decreto hubiesen iniciado la tramitación de solicitudes de reconocimiento de efectos civiles de títulos de la Iglesia Católica podrán continuar la misma por el procedimiento contenido en el citado Real Decreto 3/1995, de 13 de enero, o iniciar una nueva solicitud de acuerdo con lo previsto en la presente norma.
-
 
 #### Disposición transitoria segunda. Estudios anteriores.
 
 Quienes a la entrada en vigor de este Real Decreto ya hubieran completado o iniciado estudios conducentes a la obtención de un título eclesiástico susceptible de reconocimiento de efectos civiles respecto del título español de diplomado universitario, de conformidad con lo establecido en el Real Decreto 3/1995, de 13 de enero, podrán optar a dicho reconocimiento en los mismos términos hasta el 30 de septiembre de 2015.
 
-
 #### Disposición derogatoria única. Derogación del Real Decreto 3/1995, de 13 de enero.
 
 Queda derogado el RD 3/1995, de 13 de enero, por el que se da cumplimiento a lo dispuesto en el Acuerdo entre el Estado español y la Santa Sede sobre enseñanza y asuntos culturales en materia de estudios y titulaciones de Ciencias Eclesiásticas de nivel universitario, sin perjuicio de lo dispuesto en la disposición transitoria segunda del presente real decreto.
-
 
 #### Disposición final primera. Actualización de los Anexos.
 
 Se habilita al Ministro de Educación para modificar, corregir o actualizar, cuando ello sea preciso, los Anexos del presente real decreto, oída la autoridad competente de la Iglesia Católica en España.
 
-
 #### Disposición final segunda. Habilitación para el desarrollo reglamentario.
 
 Se habilita al Ministro de Educación para dictar las disposiciones necesarias para el desarrollo y aplicación de lo dispuesto en el presente real decreto.
-
 
 #### Disposición final tercera. Título competencial.
 
 Este real decreto se dicta al amparo de lo dispuesto en el artículo 149.1.30.ª de la Constitución Española que atribuye al Estado la competencia exclusiva sobre las condiciones de obtención, expedición y homologación de títulos académicos y profesionales.
 
-
 #### Disposición final cuarta. Entrada en vigor.
-
-El presente real decreto entrará en vigor el día siguiente al de su publicación en el «Boletín Oficial del Estado».
 
 Dado en Madrid, el 14 de noviembre de 2011.
 

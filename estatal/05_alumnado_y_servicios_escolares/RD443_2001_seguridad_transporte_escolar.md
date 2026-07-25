@@ -49,9 +49,7 @@ Esta disposición ha sido sometida al procedimiento de información en materia d
 
 En su virtud, a propuesta del Vicepresidente Primero y Ministro del Interior, y de los Ministros de Fomento, de Educación, Cultura y Deporte, y de Ciencia y Tecnología, oídos el Comité Nacional del Transporte por Carretera y el Consejo Nacional de Transportes Terrestres, de acuerdo con el Consejo de Estado y previa deliberación del Consejo de Ministros en su reunión del día 27 de abril de 2001,
 
-
 **D I S P O N G O :**
-
 
 #### Artículo 1. Ámbito de aplicación.
 
@@ -65,13 +63,11 @@ c) A los transportes públicos discrecionales de viajeros en autobús, cuando tr
 
 d) A los transportes privados complementarios de viajeros por carretera, cuando la tercera parte, o más, de los viajeros sean menores de dieciséis años.
 
-
 #### Artículo 2. Autorizaciones de transporte.
 
 Los transportes reseñados en el artículo anterior sólo podrán ser realizados por aquellas empresas que cuenten con la correspondiente concesión o autorización administrativa que, conforme a lo dispuesto en las normas de ordenación de los transportes terrestres, habilite para llevar a cabo el transporte regular o discrecional de que en cada caso se trate.
 
 Para el otorgamiento de la preceptiva autorización de transporte regular de uso especial para la realización de los transportes incluidos en el párrafo a) de dicho artículo, se exigirá, en todo caso, que el transportista solicitante acredite el cumplimiento de los requisitos exigidos en los artículos 3, 4, 6 y 12, junto a los demás que resulten exigibles por razones de ordenación del transporte, con especial atención a todos aquellos destinados a garantizar un mayor nivel de seguridad en el transporte.
-
 
 #### Artículo 3. Antigüedad de los vehículos.
 
@@ -88,7 +84,6 @@ No obstante, se admitirá la adscripción de vehículos de antigüedad superior,
 matriculación o puesta en servicio, sea superior a dieciséis años.
 
 3. A los efectos del cómputo de antigüedad se considerará el día 1 de septiembre como fecha de inicio del curso escolar.
-
 
 #### Artículo 4. Características técnicas de los vehículos.
 
@@ -204,7 +199,6 @@ Los dispositivos y su situación deberán cumplir las especificaciones que regla
 
 Dicho dispositivo deberá cumplir las especificaciones que reglamentariamente se establezcan.
 
-
 #### Artículo 5. Distintivo indicativo de transporte de menores.
 
 1. Durante la realización de los servicios a que se refiere el artículo 1, los vehículos deberán encontrarse identificados mediante la señal V-10 que figura en el anexo XI del Reglamento General de Vehículos.
@@ -217,7 +211,6 @@ Las dimensiones, color y características de esta señal serán las establecidas
 
 La silueta de la figura no deberá estar iluminada más que durante las paradas que el vehículo realice para que los menores lo aborden o lo abandonen, tolerándose, no obstante, que el dispositivo permanezca iluminado durante un máximo de veinte segundos después de la puesta en marcha del vehículo.
 
-
 #### Artículo 6. Inspección técnica de los vehículos.
 
 Para la realización de los servicios previstos en el artículo 1, será requisito necesario que los correspondientes vehículos hayan superado favorablemente una inspección técnica en una estación ITV, según lo previsto en la disposición adicional primera del Real Decreto 2042/1994, de 14 de octubre, por el que se regula la inspección técnica de vehículos, que versará sobre el cumplimiento de los requisitos técnicos exigibles. El órgano que realice dicha inspección efectuará, cuando proceda, la oportuna anotación en la tarjeta ITV del vehículo.
@@ -226,11 +219,9 @@ Para la realización de los servicios previstos en el artículo 1, será requisi
 
 En todas las inspecciones técnicas obligatorias que se realicen a los vehículos a que se refieren el párrafo primero de este artículo se revisará, además del cumplimiento de las prescripciones exigidas en la legislación general, el de las específicas establecidas en el artículo 4.
 
-
 #### Artículo 7. Conductores.
 
 Los conductores de los vehículos con que se realicen las distintas clases de transporte reseñadas en el artículo 1 deberán cumplir las condiciones establecidas en el artículo 32 del Reglamento General de Conductores, aprobado por Real Decreto 772/1997, de 30 de mayo.
-
 
 #### Artículo 8. Acompañante.
 
@@ -250,11 +241,9 @@ El acompañante deberá ocupar plaza en las inmediaciones de la puerta de servic
 
 3. La acreditación del acompañante a que hace referencia el apartado 1 no supone necesariamente relación laboral con la entidad organizadora del servicio.
 
-
 #### Artículo 9. Limitación de velocidad.
 
 La velocidad máxima a la que podrán circular los vehículos que realicen los transportes incluidos en el artículo 1 será la establecida al efecto en el artículo 48.1.2 del Reglamento General de Circulación, aprobado por Real Decreto 13/1992, de 17 de enero.
-
 
 #### Artículo 10. Itinerario y paradas.
 
@@ -278,18 +267,15 @@ a) Cuando el acceso o abandono se produzca en las inmediaciones de un centro esc
 
 b) Cuando, tratándose de un transporte de los definidos en el párrafo a) del artículo 1, la autorización de transporte regular de uso especial establezca expresamente esta obligación en relación con la parada de que se trate.
 
-
 #### Artículo 11. Duración máxima del viaje.
 
 Los itinerarios y horarios de aquellos transportes incluidos en el artículo 1 que tengan por objeto el traslado de los menores entre su domicilio y el centro escolar en que cursan estudios, deberán establecerse de tal forma que en circunstancias normales resulte posible que el tiempo máximo que aquéllos permanezcan en el vehículo no alcance una hora por cada sentido del viaje, previniéndose únicamente que se alcance esta duración máxima en casos excepcionales debidamente justificados.
 
 En todo caso, en la realización de cualquiera de los transportes incluidos en el artículo 1 deberán respetarse las normas relativas a los tiempos de conducción y descanso de los conductores, establecidas en el Real Decreto 2242/1996, de 18 de octubre, en aplicación de los Reglamentos (CEE) números 3820/85 y 3821/85.
 
-
 #### Artículo 12. Seguros.
 
 Sin perjuicio del cumplimiento de la legislación vigente en materia de seguros obligatorios, las empresas que realicen cualquiera de los transportes incluidos en el artículo 1 deberán tener cubierta de forma ilimitada su responsabilidad civil por los daños que puedan sufrir los ocupantes de los vehículos en que aquéllos se realicen.
-
 
 #### Artículo 13. Obligaciones de la entidad organizadora del transporte.
 
@@ -301,28 +287,23 @@ Las entidades que contraten la realización de alguno de los transportes incluid
 
 3. Haber suscrito los contratos de seguro a que se refiere el artículo 12.
 
-
 #### Artículo 14. Infracciones y sanciones.
 
 El incumplimiento de lo dispuesto en el artículo 4 de este Real Decreto (excepto en los apartados 2.9.a, 2.12, en lo referido al hecho de que cada menor dispondrá de su propia plaza o asiento, 2.13, 2.14 y 3.4.a) sobre características técnicas de los vehículos, se considerará infracción al artículo 12.9 del Reglamento General de Vehículos, aprobado por Real Decreto 2822/1998, de 23 de diciembre ; en el artículo 5, sobre distintivo indicativo de transporte de menores, a los artículos 173 del Reglamento General de Circulación, aprobado por Real Decreto 13/1992, de 17 de enero, y 18, en relación con el anexo XI, del Reglamento General de Vehículos ; en el artículo 6, sobre inspección técnica de los vehículos, a los artículos 14 del Real Decreto 2042/1994, de 14 de octubre, por el que se regula la inspección técnica de vehículos, y 18, en relación con el anexo XI, del Reglamento General de Vehículos ; en el artículo 7, sobre conductores, al artículo 32 del Reglamento General de Conductores, aprobado por Real Decreto 772/1997, de 30 de mayo, y en el 9, sobre limitación de velocidad, al artículo 48.1.2 del Reglamento General de Circulación. El procedimiento se adecuará a lo dispuesto en el Real Decreto 320/1994, de 25 de febrero, por el que se aprueba el Reglamento de Procedimiento Sancionador en Materia de Tráfico, Circulación de Vehículos a Motor y Seguridad Vial.
 
 El incumplimiento de los restantes preceptos de este Real Decreto será sancionado de acuerdo con lo dispuesto en la Ley 16/1987, de 30 de julio, de Ordenación de los Transportes Terrestres, y sus normas de desarrollo, así como en las demás normas que, en su caso, resulten de aplicación.
 
-
 #### Disposición adicional primera. Ámbito de aplicación de las condiciones de seguridad.
 
 Las condiciones de seguridad establecidas en este Real Decreto en relación con los transportes incluidos en el artículo 1, cuya definición corresponde a las dis tintas categorías de transporte de viajeros establecidas en la Ley 16/1987, de 30 de julio, de Ordenación de los Transportes Terrestres, serán asimismo de aplicación a todas aquellas clases de transporte que, en su caso, se contemplen en las normas dictadas por las Comunidades Autónomas en uso de sus competencias que, aun identificándose en aquéllas con distinta nomenclatura, incluyan transportes cuyas características coincidan con las de los contemplados en la referida Ley y el presente Real Decreto.
-
 
 #### Disposición adicional segunda. Modificación de las normas reguladoras de las características técnicas de los vehículos.
 
 Las características técnicas de los vehículos establecidas en este Real Decreto se entenderán modificadas cuando sea objeto de revisión la normativa técnica de carácter general que les afecte.
 
-
 #### Disposición adicional tercera. Colaboración formativa del Ministerio del Interior.
 
 El Ministerio del Interior colaborará con los órganos educativos competentes, siempre que éstos lo demanden, en la impartición de cursos sobre seguridad vial en los centros escolares.
-
 
 #### Disposición adicional cuarta. Excepciones de aplicación de la normativa.
 
@@ -334,11 +315,9 @@ En las Comunidades Autónomas de las Illes Balears y de Canarias, y en las ciuda
 
 En ambos casos se considerará el 1 de septiembre como fecha de inicio del curso escolar.
 
-
 #### Disposición adicional quinta. Normativa aplicable a los vehículos procedentes de la Unión Europea o del Espacio Económico Europeo.
 
 En relación con los requisitos técnicos exigibles a los vehículos procedentes de la Unión Europea o del Espacio Económico Europeo serán de aplicación las normas establecidas en el Real Decreto 2140/1985, de 9 de octubre, por el que se dictan normas sobre homologación de tipos de vehículos automóviles, remolques y semirremolques, así como las partes y piezas de dichos vehículos, modificado por Real Decreto 1204/1999, de 9 de julio.
-
 
 #### Disposición transitoria primera. Aplicación temporal de la normativa anterior.
 
@@ -346,30 +325,25 @@ Los vehículos que a la entrada en vigor de este Real Decreto se encuentren dedi
 
 A partir de la referida fecha, dichos vehículos sólo podrán continuar dedicándose a la realización de tales servicios si cumplen las exigencias establecidas en el artículo 4, con excepción de las establecidas en los apartados 2.5.a y 2.8.a
 
-
 #### Disposición transitoria segunda. Régimen transitorio en materia de antigüedad de los vehículos de transporte.
 
 Los vehículos que, a la entrada en vigor de este Real Decreto, se encuentren dedicados a la realización de alguna de las clases de transporte incluidas en el artículo 1 y tengan una antigüedad, desde su primera matriculación, superior a trece años podrán continuar siendo utilizados para la prestación de tales transportes hasta la finalización del curso 2003-2004, salvo que cumplieran los dieciocho años de antigüedad en un curso anterior, en cuyo caso no podrán seguir utilizándose desde la finalización del mismo.
 
 Sin perjuicio de ello, las entidades organizadoras del servicio valorarán, en la adjudicación de los contratos de transporte escolar que hayan de celebrar, la prestación del servicio con vehículos de menor antigüedad.
 
-
 #### Disposición transitoria tercera. Competencia de aplicación progresiva.
 
 No obstante lo dispuesto en el párrafo d) del apartado 1 del artículo 8, la aplicación progresiva de esta norma, en cada curso escolar, se realizará por cada Administración pública de acuerdo con las competencias que sobre la planificación educativa le corresponden en sus respectivos ámbitos territoriales de gestión. En todo caso se garantizará su total implantación en el curso académico 2007-2008.
 
-
 #### Disposición derogatoria única. Derogación normativa.
 
 Queda derogado el Real Decreto 2296/1983, de 25 de agosto, sobre tráfico y circulación de vehículos escolares y de menores, así como cuantas otras disposiciones de igual o inferior rango se opongan a lo dispuesto en este Real Decreto.
-
 
 #### Disposición final primera. Habilitación normativa.
 
 Se faculta a los Ministros de Fomento, del Interior, de Educación, Cultura y Deporte, y de Ciencia y Tecnología para dictar, dentro del ámbito de sus respectivas competencias, las disposiciones necesarias para el desarrollo de este Real Decreto.
 
 Sin perjuicio de lo anterior, la Ministra de Ciencia y Tecnología establecerá las especificaciones técnicas a que hacen referencia los apartados 4.5.º y 4.6.º del artículo 4 de este Real Decreto.
-
 
 #### Disposición final segunda. Entrada en vigor.
 

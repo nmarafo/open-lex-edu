@@ -32,9 +32,6 @@ fuente_pdf_oficial: https://sede.gobiernodecanarias.org/boc/boc-a-2024-049-903.p
 
 # Resolución de 27 de febrero de 2024, de la DGACESC, por la que se dictan instrucciones sobre el proceso de admisión del alumnado en centros docentes que oferten enseñanzas de Educación Infantil, Educación Primaria, Educación Secundaria Obligatoria, Bachillerato y Educación de Personas Adultas en los centros docentes sostenidos con fondos públicos en la Comunidad Autónoma de Canarias (BOC núm. 49, de 7 de marzo).
 
-https://sede.gobiernodecanarias.org/boc
-boc-a-2024-049-903
-Boletín Oficial de Canarias núm. 49 Jueves 7 de marzo de 20247616
 III. Otras Resoluciones
 Consejería de Educación, Formación Profesional, Actividad Física y Deportes
 903 Dirección General de Administración de Centros, Escolarización y Servicios 
@@ -74,9 +71,6 @@ alumnado que comienza su escolarización en el segundo ciclo de Educación Infan
 aulas mixtas de segundo y tercer curso del primer ciclo, podrá mantener la continuidad del 
 segundo al tercer curso de Educación Infantil.
 
-https://sede.gobiernodecanarias.org/boc
-boc-a-2024-049-903
-Boletín Oficial de Canarias núm. 49 Jueves 7 de marzo de 20247617
 Por ello, es preciso publicar la resolución con el calendario e instrucciones específicas 
 del procedimiento de admisión del alumnado para cursar, en centros docentes sostenidos 
 con fondos públicos, enseñanzas de Educación Infantil, Educación Primaria, Educación 
@@ -122,9 +116,6 @@ aprobado por Decreto 7/2021, de 18 de febrero, en relación con la disposición 
 única del Decreto 123/2023, de 17 de julio, por la que se determina la estructura orgánica 
 y sedes de las Consejerías del Gobierno de Canarias,
 
-https://sede.gobiernodecanarias.org/boc
-boc-a-2024-049-903
-Boletín Oficial de Canarias núm. 49 Jueves 7 de marzo de 20247618
 RESUELVO :
 Primero.- Convocatoria.
 La presente Resolución tiene por objeto convocar el procedimiento de admisión del 
@@ -255,9 +246,6 @@ puede ser comprobada la autenticidad de esta copia, mediante el número de
 documento electrónico siguiente:
  0Ak91x4Cu6Gun5VWdUU8F-Z5E-8PxUCSX
 
-https://sede.gobiernodecanarias.org/boc
-boc-a-2024-049-903
-Boletín Oficial de Canarias núm. 49 Jueves 7 de marzo de 20247619
 3. El alumnado que quiera hacer valer su condición de deportista de alto nivel o alto 
 rendimiento a los efectos de admisión, según se determina en el Real Decreto 971/2007, 
 de 13 de julio, sobre deportistas de alto nivel y alto rendimiento, y en el Decreto 27/2024, 
@@ -286,9 +274,6 @@ Las Palmas de Gran Canaria, a 27 de febrero de 2024.- La Directora General de
 Administración de Centros, Escolarización y Servicios Complementarios, Carolina León 
 Martínez.
 
-boc-a-2024-049-903
-Boletín Oficial de Canarias núm. 49 Jueves 7 de marzo de 20247620
-https://sede.gobiernodecanarias.org/boc
 A N E X O  I
 CALENDARIO DEL PROCEDIMIENTO DE ADMISIÓN DEL ALUMNADO DE
 EDUCACIÓN INFANTIL Y EDUCACIÓN PRIMARIA
@@ -366,9 +351,6 @@ CALENDARIO DEL PROCEDIMIENTO DE ADMISIÓN DEL ALUMNADO DE
 EDUCACIÓN INFANTIL Y EDUCACIÓN PRIMARIA 
 Curso 2024-2025
 
-boc-a-2024-049-903
-Boletín Oficial de Canarias núm. 49 Jueves 7 de marzo de 20247621
-https://sede.gobiernodecanarias.org/boc
 SOLICITUDES FUERA DE PLAZO
 (NO PARTICIPANTES EN EL PROCEDIMIENTO DE ADMISIÓN)
 FUERA DE  PLAZO
@@ -382,9 +364,6 @@ automáticamente.
 SOLICITUDES FUERA DE PLAZO 
 (NO PARTICIPANTES EN EL PROCEDIMIENTO DE ADMISIÓN)
 
-boc-a-2024-049-903
-Boletín Oficial de Canarias núm. 49 Jueves 7 de marzo de 20247622
-https://sede.gobiernodecanarias.org/boc
 A N E X O   II
 CALENDARIO DEL PROCEDIMIENTO DE ADMISIÓN DEL ALUMNADO
 DE EDUCACIÓN SECUNDARIA OBLIGATORIA
@@ -468,9 +447,6 @@ CALENDARIO DEL PROCEDIMIENTO DE ADMISIÓN DEL ALUMNADO DE
 EDUCACIÓN SECUNDARIA OBLIGATORIA 
 Curso 2024-2025
 
-boc-a-2024-049-903
-Boletín Oficial de Canarias núm. 49 Jueves 7 de marzo de 20247623
-https://sede.gobiernodecanarias.org/boc
 SOLICITUDES FUERA DE PLAZO 
 (NO PARTICIPANTES EN EL PROCEDIMIENTO DE ADMISIÓN)
 FUERA
@@ -485,9 +461,6 @@ asignadas automáticamente.
 SOLICITUDES FUERA DE PLAZO 
 (NO PARTICIPANTES EN EL PROCEDIMIENTO DE ADMISIÓN)
 
-boc-a-2024-049-903
-Boletín Oficial de Canarias núm. 49 Jueves 7 de marzo de 20247624
-https://sede.gobiernodecanarias.org/boc
 A N E X O III
 CALENDARIO DEL PROCEDIMIENTO DE ADMISIÓN DEL ALUMNADO
 DE BACHILLERATO
@@ -562,9 +535,6 @@ CALENDARIO DEL PROCEDIMIENTO DE ADMISIÓN DEL ALUMNADO DE
 BACHILLERATO 
 Curso 2024-2025
 
-boc-a-2024-049-903
-Boletín Oficial de Canarias núm. 49 Jueves 7 de marzo de 20247625
-https://sede.gobiernodecanarias.org/boc
 SOLICITUDES FUERA DE PLAZO 
 (NO PARTICIPANTES EN EL PROCEDIMIENTO DE ADMISIÓN)
   FUERA DE
@@ -579,9 +549,6 @@ PLAZO no asignadas automáticamente.
 SOLICITUDES FUERA DE PLAZO 
 (NO PARTICIPANTES EN EL PROCEDIMIENTO DE ADMISIÓN)
 
-boc-a-2024-049-903
-Boletín Oficial de Canarias núm. 49 Jueves 7 de marzo de 20247626
-https://sede.gobiernodecanarias.org/boc
 A N E X O   IV
 CALENDARIO DE ADMISIÓN Y MATRÍCULA DE
 ENSEÑANZAS DE EDUCACIÓN DE PERSONAS ADULTAS
@@ -639,9 +606,6 @@ CALENDARIO DE ADMISIÓN Y MATRÍCULA DE ENSEÑANZAS DE EDUCACIÓN DE
 PERSONAS ADULTAS 
 CURSO 2024-2025
 
-boc-a-2024-049-903
-Boletín Oficial de Canarias núm. 49 Jueves 7 de marzo de 20247627
-https://sede.gobiernodecanarias.org/boc
 INGLÉS A DISTANCIA (THAT’S ENGLISH!)
 PERÍODO ACTIVIDAD
 Del lunes 2 de septiembre al viernes 20
