@@ -76,6 +76,7 @@ fundamentos_derecho:
 
 
 
+
 # [Real Decreto 452/2026](RD452_2026_correccion_errores_real_decreto_establece_ordenacion.md), de 3 de junio, por el que se establece la ordenación de las Enseñanzas Profesionales de Artes Plásticas y Diseño.
 
 La [Ley Orgánica 2/2006](../01_marco_normativo_general_y_organico/LO2_2006_educacion_texto_consolidado_modificaciones_lomloe.md), de 3 de mayo, de Educación, incluye las Enseñanzas Profesionales de Artes Plásticas y Diseño entre las enseñanzas artísticas, a las que dedica el capítulo VI de su título I. Su finalidad es proporcionar una formación artística de calidad al alumnado y garantizar la cualificación de los futuros profesionales del ámbito de las artes plásticas y el diseño.

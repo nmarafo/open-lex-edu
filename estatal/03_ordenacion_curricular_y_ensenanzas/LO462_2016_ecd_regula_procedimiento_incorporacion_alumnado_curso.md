@@ -70,6 +70,7 @@ fundamentos_derecho:
 
 
 
+
 # Orden ECD/462/2016, de 31 de marzo, por la que se regula el procedimiento de incorporación del alumnado a un curso de Educación Secundaria Obligatoria o de Bachillerato del sistema educativo definido por la Ley Orgánica 8/2013, de 9 de diciembre, para la mejora de la calidad educativa, con materias no superadas del currículo anterior a su implantación.
 
 La Ley Orgánica 8/2013, de 9 de diciembre, para la Mejora de la Calidad Educativa, establece una nueva ordenación de las enseñanzas del sistema educativo español cuyo calendario de implantación se recoge en su disposición final quinta. De acuerdo con el mismo, se prevé que la nueva ordenación sustituya de manera progresiva a la definida por la [Ley Orgánica 2/2006](../01_marco_normativo_general_y_organico/LO2_2006_educacion_texto_consolidado_modificaciones_lomloe.md), de 3 de mayo, de Educación, en su redacción original.

@@ -56,6 +56,7 @@ fundamentos_derecho:
 
 
 
+
 # Orden EDU/3429/2009, de 11 de diciembre, por la que se aprueba el temario de la fase de oposición del procedimiento selectivo de acceso al Cuerpo de Inspectores de Educación.
 
 La [Ley Orgánica 2/2006](../01_marco_normativo_general_y_organico/LO2_2006_educacion_texto_consolidado_modificaciones_lomloe.md), de 3 de mayo, de Educación, establece en su disposición adicional duodécima que el acceso al Cuerpo de Inspectores de Educación se realizará mediante concurso-oposición.

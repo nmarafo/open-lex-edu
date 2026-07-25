@@ -63,6 +63,7 @@ fuente_pdf_oficial: https://sede.gobiernodecanarias.org/boc/boc-a-2025-166-3041.
 
 
 
+
 # Resolución de 8 de agosto de 2025,de la Dirección General de Administración de Centros, Escolarización y Servicios Complementarios por la que se aprueban las instrucciones de organización y funcionamiento de los comedores escolares de los centros docentes públicos no universitarios para el curso escolar 2025-2026 (BOC nº 166, de 22 de agosto).
 
 III. Otras Resoluciones

@@ -47,6 +47,7 @@ fundamentos_derecho:
 
 
 
+
 # Ley 1/2010, de 26 de febrero, canaria de igualdad entre mujeres y hombres.
 
 Sea notorio a todos los ciudadanos que el Parlamento de Canarias ha aprobado y yo, en nombre del Rey y de acuerdo con lo que establece el artículo 12.8 del Estatuto de Autonomía, promulgo y ordeno la publicación de la ley 1/2010, de 26 de febrero, canaria de igualdad entre mujeres y hombres.

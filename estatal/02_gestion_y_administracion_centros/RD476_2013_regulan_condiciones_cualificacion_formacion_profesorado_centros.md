@@ -71,6 +71,7 @@ fundamentos_derecho:
 
 
 
+
 # Real Decreto 476/2013 - Cualificación del Profesorado en Centros Privados
 
 El artículo 92 de la [Ley Orgánica 2/2006](../01_marco_normativo_general_y_organico/LO2_2006_educacion_texto_consolidado_modificaciones_lomloe.md), de 3 de mayo, de Educación, establece que la atención educativa directa a los niños del primer ciclo de Educación Infantil correrá a cargo de profesionales que posean el título de Maestro con la especialización en Educación Infantil o el título de Grado equivalente y, en su caso, de otro personal con la debida titulación para la atención a las niñas y niños de esta edad. En todo caso, la elaboración y seguimiento de la propuesta pedagógica a la que hace referencia el apartado 2 del artículo 14, estarán bajo la responsabilidad de un profesional con el título de Maestro de Educación Infantil o título de Grado equivalente. El segundo ciclo de Educación Infantil será impartido por profesores con el título de Maestro y la especialidad en Educación Infantil o el título de Grado equivalente y podrán ser apoyados, en su labor docente, por Maestros de otras especialidades cuando las enseñanzas impartidas lo requieran.

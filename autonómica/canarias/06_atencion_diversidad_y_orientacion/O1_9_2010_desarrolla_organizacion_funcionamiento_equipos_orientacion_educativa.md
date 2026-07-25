@@ -60,6 +60,7 @@ fuente_pdf_oficial: https://sede.gobiernodecanarias.org/boc/boc-a-2010-181-5209.
 
 
 
+
 # Orden de 1 de septiembre de 2010, por la que se desarrolla la organización y funcionamiento de los equipos de orientación educativa y psicopedagógica de zona y específicos de la Comunidad Autónoma de Canarias.
 
 II. Autoridades y personal

@@ -18,10 +18,12 @@ clasificacion:
   categoria_canonica: 02_gestion_y_administracion_centros
   subcategoria: Gestión económica e infraestructuras
 tags:
+- admision-alumnado
 - autonomia-centro
 - contratacion-menor
 - gestion-economica
 - presupuestos-escolares
+- profesorado
 - proteccion-menores
 - proyectos-educativos
 relaciones:
@@ -34,22 +36,23 @@ fundamentos_derecho:
 ---
 
 
+# Decreto 86/2017, de 17 de octubre, del Consejo de Gobierno, por el que se regula el modelo de autonomía de gestión de los centros docentes públicos no universitarios de la Comunidad de Madrid (BOCM n.º 248, de 18 de octubre).
+
+### Resolución de 3 de octubre de 2017, de la Universidad Jaume I, por la que se nombra Profesora Titular de Universidad a doña María Mercedes Segarra Ciprés.
 
 
 
-# Decreto 86/2017, de 17 de octubre, del Consejo de Gobierno, por el que se regula el modelo de autonomía de gestión de los centros docentes públicos no universitarios de la Comunidad de Madrid.
+### TEXTO ORIGINAL
 
-## Preámbulo
-La Ley Orgánica 2/2006, de 3 de mayo, de Educación, promueve la autonomía pedagógica, organizativa y de gestión de los centros educativos como herramienta clave para la mejora continua del rendimiento escolar. El presente Decreto desarrolla el marco de autonomía económica y presupuestaria de los centros públicos madrileños.
 
-## Artículo 1. Objeto y ámbito de aplicación.
-1. Este Decreto tiene por objeto regular el régimen de autonomía de gestión económica, organizativa y pedagógica de los centros docentes públicos no universitarios dependientes de la Consejería de Educación de la Comunidad de Madrid.
-2. Los centros educativos dispondrán de autonomía para gestionar sus recursos económicos y materiales conforme a las asignaciones presupuestarias que reciban.
+Vista la propuesta formulada por la comisión constituida para juzgar el concurso de acceso convocado por la Resolución de la Universidad Jaume I de 13 de julio de 2017 (BOE de 19 de julio de 2017), para la provisión de la plaza n.º 16929 del cuerpo de profesores Titulares de Universidad del área de conocimiento de Organización de Empresas, y de conformidad con lo que prevé el artículo 65 de la Ley orgánica 6/2001, de 21 de diciembre, de universidades, modificada por la Ley orgánica 4/2007, de 12 de abril; el Real decreto 1312/2007, de 5 de octubre, por el que se establece la acreditación nacional de los cuerpos docentes, así como el Real decreto 1313/2007, de 5 de octubre, por el que se regula el régimen de los concursos de acceso a cuerpos docentes universitarios, y presentada por la persona interesada la documentación a que hace referencia la base undécima de la convocatoria,
 
-## Artículo 2. Gestión presupuestaria y recursos propios.
-1. Los centros docentes públicos formalizarán anualmente su presupuesto de ingresos y gastos con la aprobación de su Consejo Escolar.
-2. Los centros podrán obtener ingresos derivados de la prestación de servicios, actividades extraordinarias, donaciones o convenios de colaboración, los cuales se integrarán directamente en su presupuesto.
+Este Rectorado, en uso de las atribuciones conferidas por el artículo 20.1 de la Ley Orgánica 6/2001, de 21 de diciembre, de Universidades, modificada por la Ley Orgánica 4/2007, de 12 de abril, resuelve nombrar a María Mercedes Segarra Ciprés, DNI 18997179F, profesora Titular de Universidad en el área de conocimiento de Organización de Empresas, adscrita al departamento de Administración de empresas y Marketing.
 
-## Artículo 3. Contratación y gastos de funcionamiento.
-1. Los directores de los centros públicos docentes podrán celebrar contratos menores de obras, suministros y servicios para responder a las necesidades de funcionamiento del centro.
-2. La rendición de cuentas de la gestión económica se realizará al finalizar el ejercicio económico ante la Consejería de Educación.
+De conformidad con lo dispuesto en el artículo. 6.4 de la Ley Orgánica 6/2001, de 21 de diciembre, de Universidades, modificada por la Ley Orgánica 4/2007, de 12 de abril, esta resolución agota la vía administrativa y será impugnable en el plazo de dos meses contados desde el día siguiente al de la notificación o publicación de la misma, como establece el artículo 46 de la Ley 29/1998, de 13 de julio, reguladora de la Jurisdicción contencioso administrativa, ante los juzgados de lo Contencioso-Administrativo de Castellón, en virtud de lo dispuesto en el artículo 8.3 de la Ley 29/1998 citada.
+
+No obstante lo anterior, se puede interponer un recurso de reposición ante el rector en el plazo de un mes contador desde el día siguiente de la notificación o publicación; en este caso no se podrá interponer el recurso contencioso administrativo mencionado en el párrafo anterior hasta que no se dicte una resolución expresa o presunta del recurso de reposición, de acuerdo con los artículos 123 y siguiente de la Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común de las Administraciones Públicas.
+
+Castellón, 3 de octubre de 2017.–El Rector, Vicent Climent Jordà.
+
+subir

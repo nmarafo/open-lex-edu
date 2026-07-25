@@ -58,6 +58,7 @@ fundamentos_derecho:
 
 
 
+
 # Real Decreto 774/2015, de 28 de agosto, por el que se establecen seis Títulos de Formación Profesional Básica del catálogo de Títulos de las enseñanzas de Formación Profesional.
 
 La [Ley Orgánica 2/2006](../01_marco_normativo_general_y_organico/LO2_2006_educacion_texto_consolidado_modificaciones_lomloe.md), de 3 de mayo, de Educación, dispone en el artículo 39.6 que el Gobierno, previa consulta a las comunidades autónomas, establecerá las titulaciones correspondientes a los estudios de formación profesional, así como los aspectos básicos del currículo de cada una de ellas.

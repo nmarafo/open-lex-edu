@@ -38,6 +38,7 @@ fundamentos_derecho:
 
 
 
+
 # Real Decreto 33/1986, de 10 de enero, por el que se aprueba el Reglamento de Régimen Disciplinario de los Funcionarios de la Administración del Estado.
 
 El artículo 31 de la [Ley 30/1984](L30_1984_medidas_reforma_funcion_publica.md), de 2 de agosto, de Medidas para la Reforma de la Función Pública, vino a modificar el número y la tipificación de las faltas consideradas como muy graves cometidas por los funcionarios en el ejercicio de sus cargos, derogando así, en este punto, la regulación del Régimen Disciplinario de los Funcionarios, contenida en la Ley articulada de 7 de febrero de 1964.

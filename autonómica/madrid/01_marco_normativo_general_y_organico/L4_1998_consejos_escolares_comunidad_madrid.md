@@ -30,6 +30,7 @@ fundamentos_derecho:
 - norma_id: norm-es-lo-2-2006
 ---
 
+
 # Ley 4/1998, de 8 de abril, de Consejos Escolares de la Comunidad de Madrid.
 
 

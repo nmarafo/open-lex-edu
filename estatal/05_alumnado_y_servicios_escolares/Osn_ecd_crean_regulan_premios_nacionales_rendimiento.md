@@ -58,6 +58,7 @@ fundamentos_derecho:
 
 
 
+
 # Orden ECD/1611/2015, de 29 de julio, por la que se crean y regulan los Premios Nacionales al rendimiento académico del alumnado de Educación Secundaria Obligatoria y de Enseñanzas Artísticas Profesionales en los ámbitos de Música, Danza y Artes Plásticas y Diseño.
 
 La [Ley Orgánica 2/2006](../01_marco_normativo_general_y_organico/LO2_2006_educacion_texto_consolidado_modificaciones_lomloe.md), de 3 de mayo, de Educación, señala en su artículo 2 bis 4, que el funcionamiento del Sistema Educativo Español se rige por los principios de calidad, cooperación, equidad, libertad de enseñanza, mérito, igualdad de oportunidades, no discriminación, eficiencia en la asignación de recursos públicos, transparencia y rendición de cuentas.

@@ -32,6 +32,7 @@ fundamentos_derecho:
 - norma_id: norm-es-lo-2-2006
 ---
 
+
 # Ley 1/2022, de 10 de febrero, Maestra de Libertad de Elección Educativa de la Comunidad de Madrid.
 
 

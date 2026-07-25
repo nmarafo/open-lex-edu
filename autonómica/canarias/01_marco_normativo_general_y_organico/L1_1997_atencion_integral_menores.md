@@ -54,6 +54,7 @@ fundamentos_derecho:
 
 
 
+
 # Ley 1/1997 de Atención Integral a los Menores de Canarias
 
 Sea notorio a todos los ciudadanos que el Parlamento de Canarias ha aprobado y yo, en nombre del Rey y de acuerdo con lo que establece el artículo 12.8 del Estatuto de Autonomía, promulgo y ordeno la publicación de la siguiente Ley:

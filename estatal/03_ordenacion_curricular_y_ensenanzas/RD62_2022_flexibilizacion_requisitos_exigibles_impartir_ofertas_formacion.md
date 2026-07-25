@@ -52,6 +52,7 @@ fundamentos_derecho:
 
 
 
+
 # Real Decreto 62/2022, de 25 de enero, de flexibilización de los requisitos exigibles para impartir ofertas de formación profesional conducentes a la obtención de certificados de profesionalidad, así como de la oferta de formación profesional en centros del sistema educativo y de formación profesional para el empleo.
 
 La [Ley Orgánica 5/2002](LO5_2002_cualificaciones_formacion_profesional.md), de 19 de junio, de las Cualificaciones y de la Formación Profesional establece que los títulos de formación profesional y los certificados de profesionalidad constituirán las ofertas de formación profesional referidas al Catálogo de Cualificaciones Profesionales, que tienen carácter oficial y validez en todo el territorio nacional y serán expedidos por las administraciones competentes, acreditando las correspondientes cualificaciones profesionales a quienes los hayan obtenido, y en su caso, surten los correspondientes efectos académicos y profesionales según la legislación aplicable. La coordinación de las referidas ofertas formativas de formación profesional debe garantizarse por las administraciones públicas con la clara finalidad de dar respuesta a las necesidades de cualificación, optimizando el uso de los recursos públicos.

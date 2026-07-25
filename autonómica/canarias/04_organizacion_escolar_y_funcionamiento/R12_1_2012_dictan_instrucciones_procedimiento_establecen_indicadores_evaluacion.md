@@ -52,6 +52,7 @@ fuente_juriscan: http://www.gobiernodecanarias.org/juriscan/ficha.jsp?id=66772
 
 
 
+
 # Resolución de 12 de enero de 2012, por la que se dictan instrucciones de procedimiento y se establecen los indicadores para la evaluación de la función directiva desempeñada por las directoras y directores al finalizar el mandato en los centros públicos de enseñanzas no universitarias de la Comunidad Autónoma de Canarias (BOC n.º 15, de 23 de enero).
 
 Consejería de Educación, 

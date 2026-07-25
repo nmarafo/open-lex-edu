@@ -40,6 +40,7 @@ fundamentos_derecho:
 
 
 
+
 # Decreto 64/2023, de 17 de mayo, del Consejo de Gobierno, por el que se establece la ordenación y el currículo del Bachillerato en la Comunidad de Madrid.
 
 ## Preámbulo

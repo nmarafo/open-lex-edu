@@ -53,6 +53,7 @@ ocr_procesado: true
 
 
 
+
 # Resolución de 16 de marzo de 2017, de la Dirección General de Centros e Infraestructura Educativa, por la que se delega en la Dirección General de Formación Profesional y Educación de Adultos, la competencia en materia de contratos menores de material y equipamiento específico necesario para el desarrollo del Proyecto Enlaza (BOC n.º 61, de 28 de marzo).
 
 Boletín Oficial de Canarias núm. 61

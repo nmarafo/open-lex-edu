@@ -56,6 +56,7 @@ fundamentos_derecho:
 
 
 
+
 # Real Decreto 669/2013, de 6 de septiembre, por el que se establece el título de Técnico Deportivo en Atletismo y se fijan sus enseñanzas mínimas y los requisitos de acceso.
 
 La Ley 10/1990, de 15 de octubre, del Deporte, encomendó al Gobierno la regulación de las enseñanzas de los técnicos deportivos según las exigencias marcadas por los distintos niveles educativos.

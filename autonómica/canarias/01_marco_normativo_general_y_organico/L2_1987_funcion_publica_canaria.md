@@ -62,6 +62,7 @@ fundamentos_derecho:
 
 
 
+
 # Ley 2/1987 de la Función Pública Canaria
 
 **EL PRESIDENTE DEL GOBIERNO DE CANARIAS**

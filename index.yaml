@@ -4533,6 +4533,7 @@ normas:
     categoria_canonica: 01_marco_normativo_general_y_organico
     subcategoria: Estructura de la Consejería
     tags:
+    - admision-alumnado
     - consejeria-educacion
     - curriculo
     - educacion-infantil
@@ -4541,10 +4542,13 @@ normas:
     - equipos-directivos
     - eso
     - estructura-organica
+    - evaluacion
     - formacion-profesional
     - funcion-publica
     - marco-normativo-general
+    - oposiciones
     - ordenacion-escolar
+    - procedimiento-administrativo
     path: autonómica/madrid/01_marco_normativo_general_y_organico/D61_2019_reglamento_organico_consejeria_educacion.md
   norm-mad-l-1-2022:
     id: norm-mad-l-1-2022
@@ -4653,10 +4657,12 @@ normas:
     categoria_canonica: 02_gestion_y_administracion_centros
     subcategoria: Gestión económica e infraestructuras
     tags:
+    - admision-alumnado
     - autonomia-centro
     - contratacion-menor
     - gestion-economica
     - presupuestos-escolares
+    - profesorado
     - proteccion-menores
     - proyectos-educativos
     path: autonómica/madrid/02_gestion_y_administracion_centros/D86_2017_reglamento_autonomia_gestion_centros_docentes.md
@@ -4725,7 +4731,11 @@ normas:
     - educacion-primaria
     - ensenanzas-artisticas
     - evaluacion
+    - formacion-profesional
+    - igualdad-genero
     - ordenacion-academica
+    - procedimiento-administrativo
+    - titulacion
     path: autonómica/madrid/03_ordenacion_curricular_y_ensenanzas/D61_2022_ordenacion_curriculo_educacion_primaria.md
   norm-mad-d-64-2022:
     id: norm-mad-d-64-2022
@@ -4936,8 +4946,10 @@ normas:
     subcategoria: Convivencia y disciplina
     tags:
     - acoso-escolar
+    - admision-alumnado
     - convivencia-escolar
     - derechos-y-deberes
+    - oposiciones
     - sanciones
     - uso-dispositivos-moviles
     path: autonómica/madrid/07_convivencia_bienestar_y_protocolos/D32_2019_marco_regulador_convivencia_centros.md

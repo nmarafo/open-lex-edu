@@ -37,6 +37,7 @@ fundamentos_derecho:
 
 
 
+
 # Orden 2882/2023, de 8 de septiembre, de la Consejería de Educación, Ciencia y Universidades, por la que se regula la prestación del servicio de transporte escolar en la Comunidad de Madrid.
 
 ## Preámbulo

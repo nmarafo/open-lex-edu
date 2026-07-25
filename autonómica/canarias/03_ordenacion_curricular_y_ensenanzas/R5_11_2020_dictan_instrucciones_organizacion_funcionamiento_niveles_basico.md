@@ -55,6 +55,7 @@ fuente_pdf_oficial: https://sede.gobiernodecanarias.org/boc/boc-a-2020-236-4341.
 
 
 
+
 # Resolución de 5 de noviembre de 2020, por la que se dictan instrucciones para la organización y el funcionamiento de los niveles básico, intermedio y avanzado de la enseñanza del idioma inglés a distancia para personas adultas That's English!
 
 Miércoles 18 de noviembre de 2020

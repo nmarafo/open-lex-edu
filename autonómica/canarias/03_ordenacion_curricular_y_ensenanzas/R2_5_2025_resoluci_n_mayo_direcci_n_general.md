@@ -59,6 +59,7 @@ fuente_pdf_oficial: https://sede.gobiernodecanarias.org/boc/boc-a-2025-093-1761.
 
 
 
+
 # Resolución de 2 de mayo de 2025, de la Dirección General de Formación Profesional y Enseñanzas de Régimen Especial por la que se dictan instrucciones para la organización de la oferta de dobles titulaciones de formación profesional (Grados D) de ciclos formativos con el primer curso en común en la Comunidad Autónoma de Canarias a partir del curso 2025/2026 (BOC n.º 93, de 12 de mayo).
 
 III. Otras Resoluciones

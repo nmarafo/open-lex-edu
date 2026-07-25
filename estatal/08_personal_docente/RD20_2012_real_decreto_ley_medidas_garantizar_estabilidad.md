@@ -49,6 +49,7 @@ fundamentos_derecho:
 
 
 
+
 # Real Decreto-ley 20/2012, de 13 de julio, de medidas para garantizar la estabilidad presupuestaria y de fomento de la competitividad.
 
 **I**

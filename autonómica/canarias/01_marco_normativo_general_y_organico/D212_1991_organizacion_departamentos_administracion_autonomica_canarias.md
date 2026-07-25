@@ -74,6 +74,7 @@ fundamentos_derecho:
 
 
 
+
 # Decreto 212/1991, de 11 de septiembre, de organización de los Departamentos de la Administración Autonómica de Canarias (BOC n.º 122, de 16 de septiembre).
 
 El Decreto 147/1991, de 17 de julio, aborda la reestructuración administrativa desde la perspectiva de la distribución de las áreas de acción política y de competencias del Gobierno entre las distintas consejerías y fija las pautas procedimentales para que las innovaciones orgánicas tengan una adecuada traducción en los restantes elementos de las organizaciones departamentales.
