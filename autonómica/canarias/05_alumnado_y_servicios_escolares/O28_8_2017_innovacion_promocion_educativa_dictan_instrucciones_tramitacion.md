@@ -29,6 +29,7 @@ fundamentos_derecho:
   articulos:
   - '1'
 - norma_id: norm-es-l-39-2015
+- norma_id: norm-can-d-135-2016
 fuente_pdf_oficial: https://sede.gobiernodecanarias.org/boc/boc-a-2017-169-4284.pdf
 ---
 # Resolución de 28 de agosto de 2017, de la Dirección General de Ordenación, Innovación y Promoción Educativa, por la que se dictan instrucciones para la tramitación electrónica del procedimiento que regula las actividades escolares complementarias, actividades extraescolares y servicios escolares en los centros privados concertados de Canarias (BOC n.º 169, de 1 de septiembre).
@@ -68,7 +69,7 @@ y servicios escolares en los centros privados concertados de Canarias (BOC nº 1
 Segundo.- La Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común 
 de las Administraciones Públicas (BOE nº 236, de 2.10.15).
 Esta Dirección General de acuerdo con todo lo anterior, y en uso de las atribuciones 
-que le son propias con arreglo a lo previsto en el artículo 13 del Decreto 135/2016, de 10 
+que le son propias con arreglo a lo previsto en el artículo 13 del [Decreto 135/2016](../01_marco_normativo_general_y_organico/D135_2016_reglamento_organico_consejeria_educacion_universidades_cultura.md), de 10 
 de octubre, por el que se aprueba el Reglamento Orgánico de la Consejería de Educación 
 y Universidades (BOC nº 203, de 19.10.16); el artículo 9 del Decreto 183/2015, de 21 de 
 

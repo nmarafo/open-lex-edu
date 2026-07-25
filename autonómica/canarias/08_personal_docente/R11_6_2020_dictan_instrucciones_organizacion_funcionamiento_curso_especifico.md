@@ -31,6 +31,7 @@ fundamentos_derecho:
 - norma_id: norm-es-lo-2-2006
 - norma_id: norm-es-2021-20113
 - norma_id: norm-es-2010-12201
+- norma_id: norm-can-d-135-2016
 fuente_pdf_oficial: https://sede.gobiernodecanarias.org/boc/boc-a-2020-130-2054.pdf
 ---
 # Resolución de 11 de junio de 2020, por la que se dictan instrucciones para la organización y el funcionamiento del Curso Específico de Acceso a Ciclos Formativos de Formación Profesional de Grado Medio a impartir en centros de educación de personas adultas dependientes de esta Consejería (BOC n.º 130, de 30 de junio).
@@ -105,7 +106,7 @@ artículo 1 se establece su objeto: “El presente Decreto tiene por objeto regu
 la intervención y el seguimiento del absentismo escolar y del abandono escolar temprano en 
 la Comunidad Autónoma de Canarias”.
 En virtud de lo anteriormente expuesto, y en el ejercicio de las competencias conferidas 
-por el artículo 11 del Decreto 135/2016, de 10 de octubre, por el que se aprueba el Reglamento 
+por el artículo 11 del [Decreto 135/2016](../01_marco_normativo_general_y_organico/D135_2016_reglamento_organico_consejeria_educacion_universidades_cultura.md), de 10 de octubre, por el que se aprueba el Reglamento 
 Orgánico de la Consejería de Educación y Universidades,
 R E S U E L V O:
 Primero.- Dictar instrucciones para la organización y el funcionamiento del Curso 

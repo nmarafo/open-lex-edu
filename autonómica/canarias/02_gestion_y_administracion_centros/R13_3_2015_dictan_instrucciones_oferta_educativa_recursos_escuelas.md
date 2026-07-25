@@ -31,6 +31,7 @@ fundamentos_derecho:
 - norma_id: norm-can-d-109-1999
 - norma_id: norm-es-2021-20113
 - norma_id: norm-es-2010-12201
+- norma_id: norm-can-d-135-2016
 fuente_pdf_oficial: https://sede.gobiernodecanarias.org/boc/boc-a-2020-257-4915.pdf
 ---
 # Resolución de la Viceconsejería de Educación y Universidades, por la que se dictan instrucciones para la oferta educativa y recursos en las escuelas unitarias y los colectivos de escuelas rurales en canarias (13 de marzo de 2015).
@@ -92,7 +93,7 @@ Canarias, a celebrar en el curso escolar 2020/2021, y se aprueba su calendario, 
 el resuelvo primero, apartado 3, que los Consejos de los CER atenderán a lo que su propia 
 normativa establezca sobre su constitución y renovación, aplicándose la Orden de 12 de 
 mayo de 2016 con carácter supletorio, en lo relativo al procedimiento.
-Por ello, en virtud de las competencias atribuidas en el artículo 10 del Decreto 135/2016, de 
+Por ello, en virtud de las competencias atribuidas en el artículo 10 del [Decreto 135/2016](../01_marco_normativo_general_y_organico/D135_2016_reglamento_organico_consejeria_educacion_universidades_cultura.md), de 
 10 de octubre, por el que se aprueba el Reglamento Orgánico de la Consejería de Educación y 
 Universidades y en el Decreto 203/2019, de 1 de agosto, por el que se determina la estructura 
 central y periférica, así como las sedes de las Consejerías del Gobierno de Canarias,

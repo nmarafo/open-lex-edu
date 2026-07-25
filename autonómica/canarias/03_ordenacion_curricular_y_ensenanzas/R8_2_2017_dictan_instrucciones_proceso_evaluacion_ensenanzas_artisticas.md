@@ -31,6 +31,7 @@ fundamentos_derecho:
 - norma_id: norm-es-2021-20113
 - norma_id: norm-es-2010-12201
 - norma_id: norm-can-res-juriscan-74499-67
+- norma_id: norm-can-d-135-2016
 fuente_pdf_oficial: https://sede.gobiernodecanarias.org/boc/boc-a-2017-036-808.pdf
 ---
 # Resolución de 8 de febrero de 2017, por la que se dictan instrucciones para el proceso de evaluación en las Enseñanzas Artísticas Superiores en la Comunidad Autónoma de Canarias (BOC n.º 36, de 21 de febrero).
@@ -134,7 +135,7 @@ Disposición final primera, apartado uno, autoriza a las Direcciones Generales c
 en sus respectivas materias a dictar las resoluciones necesarias para la ejecución y desarrollo 
 de lo establecido en la citada orden.
 En atención a lo anteriormente indicado, de conformidad con lo dispuesto en el artículo 
-11 del Decreto 135/2016, de 10 de octubre, por el que se aprueba el Reglamento Orgánico 
+11 del [Decreto 135/2016](../01_marco_normativo_general_y_organico/D135_2016_reglamento_organico_consejeria_educacion_universidades_cultura.md), de 10 de octubre, por el que se aprueba el Reglamento Orgánico 
 de la Consejería de Educación y Universidades (BOC nº 203, de 19 de octubre), y el Decreto 
 305/2015, de 30 de julio, de nombramiento del Director General de Formación Profesional 
 y Educación de Adultos (BOC nº 149, de 3 de agosto),

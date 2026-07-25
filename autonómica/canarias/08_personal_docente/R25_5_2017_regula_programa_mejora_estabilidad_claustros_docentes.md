@@ -26,6 +26,7 @@ fundamentos_derecho:
 - norma_id: norm-can-l-6-2014
   articulos:
   - '1'
+- norma_id: norm-can-d-135-2016
 fuente_pdf_oficial: https://sede.gobiernodecanarias.org/boc/boc-a-2017-106-2687.pdf
 fuente_juriscan: http://www.gobiernodecanarias.org/juriscan/ficha.jsp?id=75818
 ---
@@ -74,7 +75,7 @@ oferta de estabilidad a los interinos que se comprometan con su continuidad en e
 boc-a-2017-106-2687
 
 Visto el artículo 12 del Reglamento Orgánico de la Consejería de Educación y 
-Universidades del Gobierno de Canarias aprobado por Decreto 135/2016, de 10 de octubre, 
+Universidades del Gobierno de Canarias aprobado por [Decreto 135/2016](../01_marco_normativo_general_y_organico/D135_2016_reglamento_organico_consejeria_educacion_universidades_cultura.md), de 10 de octubre, 
 y el Decreto 306/2015, de 30 de julio, de nombramiento del Director General de Personal de 
 la Consejería de Educación y Universidades (BOC de 3.8.15).
 R E S U E L V O:

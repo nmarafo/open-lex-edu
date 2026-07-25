@@ -37,6 +37,7 @@ fundamentos_derecho:
 - norma_id: norm-es-2016-3229
 - norma_id: norm-es-2021-20113
 - norma_id: norm-es-2010-12201
+- norma_id: norm-can-d-135-2016
 fuente_pdf_oficial: https://sede.gobiernodecanarias.org/boc/boc-a-2019-069-1699.pdf
 ---
 # Resolución de 26 de marzo de 2019, por la que se determina el acceso a los distintos cursos de enseñanzas de idiomas de régimen especial en aplicación de lo establecido en la Orden de 21 de septiembre de 2016, de esta Consejería, que regula el reconocimiento de la acreditación de la competencia lingüística conforme al Marco Común Europeo de Referencia para las Lenguas en la Comunidad Autónoma de Canarias (BOC n.º 69, de 9 de abril).
@@ -125,7 +126,7 @@ En atención a lo anteriormente indicado, de conformidad con lo dispuesto en el 
 
 Martes 9 de abril de 2019
 la Administración de la Comunidad Autónoma de Canarias (BOC nº 122, de 16.9.91), y 
-artículo 11 del Decreto 135/2016, de 10 de octubre, por el que se aprueba el Reglamento 
+artículo 11 del [Decreto 135/2016](../01_marco_normativo_general_y_organico/D135_2016_reglamento_organico_consejeria_educacion_universidades_cultura.md), de 10 de octubre, por el que se aprueba el Reglamento 
 Orgánico de la Consejería de Educación y Universidades (BOC nº 203, de 19.10.16); visto 
 el Decreto 305/2015, de 30 de julio, de nombramiento del Director General de Formación 
 Profesional y Educación de Adultos (BOC nº 149, de 3.8.15),

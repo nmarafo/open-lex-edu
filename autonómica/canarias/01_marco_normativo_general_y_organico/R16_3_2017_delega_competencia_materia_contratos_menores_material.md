@@ -32,6 +32,7 @@ fundamentos_derecho:
   - '1'
 - norma_id: norm-can-l-14-1990
 - norma_id: norm-es-l-40-2015
+- norma_id: norm-can-d-135-2016
 fuente_pdf_oficial: https://sede.gobiernodecanarias.org/boc/boc-a-2017-061-1429.pdf
 anexos_extraidos_pdf: true
 ocr_procesado: true
@@ -55,7 +56,7 @@ equipamiento específico necesario para el desarrollo del Proyecto Enlaza, con e
 agilizar la tramitación de la adquisición con destino a los centros que imparten formación 
 profesional, y de acuerdo con los siguientes
 ANTECEDENTES DE HECHO
-Primero.- Decreto 135/2016, de 10 de octubre, por el que se aprueba el Reglamento 
+Primero.- [Decreto 135/2016](D135_2016_reglamento_organico_consejeria_educacion_universidades_cultura.md), de 10 de octubre, por el que se aprueba el Reglamento 
 Orgánico de la Consejería de Educación y Universidades (BOC nº 203, de 19 de octubre).
 Segundo.- Teniendo en cuenta que entre las atribuciones establecidas por el artículo 10 
 del Decreto 135/2016, de 10 de octubre, por el que se aprueba el Reglamento Orgánico de la 

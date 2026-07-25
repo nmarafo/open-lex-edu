@@ -31,6 +31,7 @@ fundamentos_derecho:
   - '1'
 - norma_id: norm-es-l-39-2015
 - norma_id: norm-es-l-40-2015
+- norma_id: norm-can-d-135-2016
 fuente_pdf_oficial: https://sede.gobiernodecanarias.org/boc/boc-a-2019-067-1646.pdf
 ---
 # Secretaría General Técnica.- Resolución de 21 de marzo de 2019, por la que se crea el sello electrónico de la Dirección General de Universidades.
@@ -105,7 +106,7 @@ En su virtud, y de conformidad con lo dispuesto en el artículo 24.2 del Decreto
 de 10 de febrero, por el que se regula la utilización de los medios electrónicos en la 
 Administración Pública de la Comunidad Autónoma de Canarias, la competencia para crear 
 el sello electrónico de la Dirección General de Universidades corresponde a la Secretaría 
-General Técnica, en concordancia con lo establecido en el Decreto 135/2016, de 10 de 
+General Técnica, en concordancia con lo establecido en el [Decreto 135/2016](../01_marco_normativo_general_y_organico/D135_2016_reglamento_organico_consejeria_educacion_universidades_cultura.md), de 10 de 
 octubre, por el que se aprueba el Reglamento Orgánico de la Consejería de Educación y 
 Universidades, 
 R E S U E L V O:

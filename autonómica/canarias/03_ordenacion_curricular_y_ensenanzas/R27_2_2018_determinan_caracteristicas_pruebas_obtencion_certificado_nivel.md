@@ -32,6 +32,7 @@ fundamentos_derecho:
 - norma_id: norm-es-2016-3229
 - norma_id: norm-es-2021-20113
 - norma_id: norm-es-2010-12201
+- norma_id: norm-can-d-135-2016
 fuente_pdf_oficial: https://sede.gobiernodecanarias.org/boc/boc-a-2018-048-1091.pdf
 ---
 # Resolución de 27 de febrero de 2018, por la que se determinan las características de las pruebas para la obtención del certificado de nivel C2 de enseñanzas de idiomas de régimen especial, en la Comunidad Autónoma de Canarias (BOC n.º 48, de 8 de marzo).
@@ -104,7 +105,7 @@ establece los criterios para su elaboración y calificación.
 En atención a lo anteriormente indicado, de conformidad con lo dispuesto en el artículo 
 19 del Decreto 212/1991, de 11 de septiembre, de organización de los departamentos de la 
 Administración de la Comunidad Autónoma de Canarias (BOC nº 122, de 16 de septiembre), 
-y artículo 11 del Decreto 135/2016, de 10 de octubre, por el que se aprueba el Reglamento 
+y artículo 11 del [Decreto 135/2016](../01_marco_normativo_general_y_organico/D135_2016_reglamento_organico_consejeria_educacion_universidades_cultura.md), de 10 de octubre, por el que se aprueba el Reglamento 
 Orgánico de la Consejería de Educación y Universidades (BOC nº 203, de 19 de octubre); 
 visto el Decreto 305/2015, de 30 de julio, de nombramiento del Director General de 
 Formación Profesional y Educación de Adultos (BOC nº 149, de 3 de agosto de 2015),

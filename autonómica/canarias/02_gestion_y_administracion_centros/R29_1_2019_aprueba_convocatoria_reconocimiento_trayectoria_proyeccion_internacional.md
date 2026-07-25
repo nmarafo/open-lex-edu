@@ -29,6 +29,7 @@ fundamentos_derecho:
 - norma_id: norm-es-l-39-2015
 - norma_id: norm-es-2021-20113
 - norma_id: norm-es-2010-12201
+- norma_id: norm-can-d-135-2016
 fuente_pdf_oficial: https://sede.gobiernodecanarias.org/boc/boc-a-2019-024-502.pdf
 ---
 # Resolución de 29 de enero de 2019, por la que se aprueba la convocatoria de reconocimiento de la trayectoria y proyección internacional de los centros educativos públicos no universitarios de la Comunidad Autónoma de Canarias (BOC n.º 24, de 5 de febrero).
@@ -82,7 +83,7 @@ Finalmente, en materia de formación lingüística y metodológica, su artículo
 que la administración educativa organizará estancias en el extranjero para el alumnado 
 y profesorado y fomentará la participación de los centros educativos en programas de 
 intercambios escolares internacionales. 
-Tercero.- En cuanto al régimen competencial, el artículo 8.2 del Decreto 135/2016, por 
+Tercero.- En cuanto al régimen competencial, el artículo 8.2 del [Decreto 135/2016](../01_marco_normativo_general_y_organico/D135_2016_reglamento_organico_consejeria_educacion_universidades_cultura.md), por 
 el que se aprueba el Reglamento Orgánico de la Consejería de Educación y Universidades 
 (BOC nº 203, de 19 de octubre) señala que corresponde a la Viceconsejería de Educación y 
 Universidades, entre otras, las siguientes atribuciones:

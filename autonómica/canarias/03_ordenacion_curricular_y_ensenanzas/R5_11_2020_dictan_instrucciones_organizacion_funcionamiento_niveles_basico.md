@@ -34,6 +34,7 @@ fundamentos_derecho:
 - norma_id: norm-es-2019-317
 - norma_id: norm-es-2021-20113
 - norma_id: norm-es-2010-12201
+- norma_id: norm-can-d-135-2016
 fuente_pdf_oficial: https://sede.gobiernodecanarias.org/boc/boc-a-2020-236-4341.pdf
 ---
 # Resolución de 5 de noviembre de 2020, por la que se dictan instrucciones para la organización y el funcionamiento de los niveles básico, intermedio y avanzado de la enseñanza del idioma inglés a distancia para personas adultas That's English!
@@ -108,7 +109,7 @@ distintos cursos de enseñanzas de idiomas de régimen especial en aplicación d
 en la [Orden de 21 de septiembre de 2016](O26_3_2019_determina_acceso_distintos_cursos_ensenanzas_idiomas.md), de esta Consejería, que regula el reconocimiento 
 de la acreditación de la competencia lingüística conforme al Marco Común Europeo de 
 Referencia para las Lenguas en la Comunidad Autónoma de Canarias.
-Por todo lo expuesto, y de conformidad con el artículo 11 del Decreto 135/2016, de 10 
+Por todo lo expuesto, y de conformidad con el artículo 11 del [Decreto 135/2016](../01_marco_normativo_general_y_organico/D135_2016_reglamento_organico_consejeria_educacion_universidades_cultura.md), de 10 
 de octubre, por el que se aprueba el Reglamento Orgánico de la Consejería de Educación y 
 Universidades, y se asignan competencias generales y específicas a la Dirección General de 
 Formación Profesional y Educación de Adultos,

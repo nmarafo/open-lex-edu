@@ -36,6 +36,7 @@ fundamentos_derecho:
 - norma_id: norm-es-2007-19326
 - norma_id: norm-es-2021-20113
 - norma_id: norm-es-2010-12201
+- norma_id: norm-can-d-135-2016
 fuente_pdf_oficial: https://sede.gobiernodecanarias.org/boc/boc-a-2019-143-3820.pdf
 ---
 # Resolución de 10 de julio de 2019, por la que se dictan instrucciones relativas al procedimiento para el reconocimiento de correspondencias, convalidaciones y exenciones en las enseñanzas deportivas de régimen especial en la Comunidad Autónoma de Canarias (BOC n.º 143, de 26 de julio).
@@ -90,7 +91,7 @@ Tercero.- El Decreto 93/2019, de 22 de mayo, por el que se regulan las enseñanz
 deportivas de régimen especial en la Comunidad Autónoma de Canarias (BOC nº 110, de 11 
 de junio), en su Capítulo VI, que regula las correspondencias, convalidaciones y exenciones.
 En atención a lo anteriormente indicado, de conformidad con lo dispuesto en el artículo 
-11 del Decreto 135/2016, de 10 de octubre, por el que se aprueba el Reglamento Orgánico 
+11 del [Decreto 135/2016](../01_marco_normativo_general_y_organico/D135_2016_reglamento_organico_consejeria_educacion_universidades_cultura.md), de 10 de octubre, por el que se aprueba el Reglamento Orgánico 
 de la Consejería de Educación y Universidades (BOC nº 203, de 19 de octubre); el Decreto 
 305/2015, de 30 de julio, de nombramiento del Director General de Formación Profesional y 
 Educación de Adultos (BOC nº 149, de 3 de agosto), y el artículo 19 del Decreto 212/1991, 

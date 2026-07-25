@@ -36,6 +36,7 @@ fundamentos_derecho:
   - '1'
 - norma_id: norm-es-l-39-2015
 - norma_id: norm-es-l-40-2015
+- norma_id: norm-can-d-135-2016
 fuente_pdf_oficial: https://sede.gobiernodecanarias.org/boc/boc-a-2017-235-5824.pdf
 ---
 # Secretaría General Técnica.- Resolución de 15 de marzo de 2016, por la que se ordena la publicación del Convenio de Colaboración entre la Consejería de Educación y Universidades y la Agencia Canaria de Calidad Universitaria y Evaluación Educativa (ACCUEE), para la incorporación de este organismo a la sede electrónica de la Consejería de Educación y Universidades, para la utilización de su registro electrónico (BOC n.º 57, de 23 de marzo).
@@ -112,7 +113,7 @@ de 10 de febrero, por el que se regula la utilización de los medios electrónic
 Administración Pública de la Comunidad Autónoma de Canarias, la competencia para crear 
 el sello electrónico de la Dirección General de Personal de la Consejería de Educación y 
 Universidades corresponde a la Secretaría General Técnica, en concordancia con lo establecido 
-en el  Decreto 135/2016, de 10 de octubre, por el que se aprobó el Reglamento Orgánico de la 
+en el  [Decreto 135/2016](../01_marco_normativo_general_y_organico/D135_2016_reglamento_organico_consejeria_educacion_universidades_cultura.md), de 10 de octubre, por el que se aprobó el Reglamento Orgánico de la 
 Consejería de Educación y Universidades, por lo que de conformidad con lo expuesto,
 R E S U E L V O:
 Primero.- La creación del sello electrónico de la Dirección General de Personal 

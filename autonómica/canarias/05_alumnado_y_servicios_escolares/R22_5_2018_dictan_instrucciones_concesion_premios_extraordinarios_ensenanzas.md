@@ -36,6 +36,7 @@ fundamentos_derecho:
 - norma_id: norm-es-2021-20113
 - norma_id: norm-es-2007-10487
 - norma_id: norm-es-2010-12201
+- norma_id: norm-can-d-135-2016
 fuente_pdf_oficial: https://sede.gobiernodecanarias.org/boc/boc-a-2018-106-2612.pdf
 ---
 # Resolución de 22 de mayo de 2018, de la Dirección General de Formación Profesional y Educación de Adultos, por la que se dictan instrucciones para la concesión de los Premios Extraordinarios de Enseñanzas Profesionales de Música y de Artes Plásticas y Diseño en la Comunidad Autónoma de Canarias, en el curso 2017-2018 (BOC n.º 106, de 4 de junio).
@@ -91,7 +92,7 @@ autoriza a la Dirección General de Formación Profesional y Educación de Adult
 dictar, en el ámbito de sus competencias, cuantas medidas sean precisas para la aplicación, 
 ejecución y desarrollo de la referida Orden.
 En atención a lo anteriormente indicado, de conformidad con lo dispuesto en el artículo 
-11 del Decreto 135/2016, de 10 de octubre, por el que se aprueba el Reglamento Orgánico 
+11 del [Decreto 135/2016](../01_marco_normativo_general_y_organico/D135_2016_reglamento_organico_consejeria_educacion_universidades_cultura.md), de 10 de octubre, por el que se aprueba el Reglamento Orgánico 
 de la Consejería de Educación y Universidades (BOC nº 203, de 19 de octubre), y el Decreto 
 305/2015, de 30 de julio, de nombramiento del Director General de Formación Profesional 
 y Educación de Adultos (BOC nº 149, de 3 de agosto),

@@ -1,5 +1,5 @@
 version: '1.0'
-total_normas: 319
+total_normas: 320
 normas:
   norm-can-d-123-2023:
     id: norm-can-d-123-2023
@@ -21,6 +21,25 @@ normas:
     - gobierno_canarias
     - roc
     path: autonómica/canarias/01_marco_normativo_general_y_organico/D123_2023_determina_estructura_organica_sedes_consejerias_gobierno.md
+  norm-can-d-135-2016:
+    id: norm-can-d-135-2016
+    codigo_sintetizado: Decreto BOC 135/2016
+    titulo: Decreto 135/2016, de 10 de octubre, por el que se aprueba el Reglamento
+      Orgánico de la Consejería de Educación, Universidades, Cultura y Deportes (BOC
+      n.º 203, de 19 de octubre).
+    jurisdiccion: Canarias
+    ambito: Autonómico
+    tipo_disposicion: Decreto
+    fecha_publicacion: ''
+    estado: Vigente
+    redaccion: original
+    categoria_canonica: 01_marco_normativo_general_y_organico
+    subcategoria: Marco normativo general
+    tags:
+    - marco-normativo-general
+    - organizacion-escolar
+    - consejeria-educacion
+    path: autonómica/canarias/01_marco_normativo_general_y_organico/D135_2016_reglamento_organico_consejeria_educacion_universidades_cultura.md
   norm-can-d-84-2024:
     id: norm-can-d-84-2024
     codigo_sintetizado: D84_2024 Reglamento Organico de la Consejeria de Educacion
@@ -7362,6 +7381,11 @@ relaciones_grafo:
   - Todos
   articulos_destino:
   - Todos
+- origen: norm-can-d-135-2016
+  tipo: desarrolla
+  destino: norm-can-l-6-2014
+  articulos_origen: []
+  articulos_destino: []
 - origen: norm-can-d-84-2024
   tipo: desarrolla
   destino: norm-can-d-123-2023

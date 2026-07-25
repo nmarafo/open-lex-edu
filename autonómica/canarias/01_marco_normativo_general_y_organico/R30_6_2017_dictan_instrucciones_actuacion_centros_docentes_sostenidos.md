@@ -39,6 +39,7 @@ fundamentos_derecho:
 - norma_id: norm-es-lo-2-2006
 - norma_id: norm-es-2021-20113
 - norma_id: norm-es-2010-12201
+- norma_id: norm-can-d-135-2016
 fuente_pdf_oficial: https://sede.gobiernodecanarias.org/boc/boc-a-2017-132-3376.pdf
 anexos_extraidos_pdf: true
 ocr_procesado: true
@@ -188,7 +189,7 @@ Martes 11 de julio de 2017
 19486
 Considerando todo lo expuesto anteriormente, consultadas la Inspección de Educación y 
 las Direcciones Territoriales de Educación; y en uso de las atribuciones que me son propias, 
-conforme al artículo 10 del Decreto 135/2016, de 10 de octubre, por el que se aprueba el 
+conforme al artículo 10 del [Decreto 135/2016](D135_2016_reglamento_organico_consejeria_educacion_universidades_cultura.md), de 10 de octubre, por el que se aprueba el 
 Reglamento Orgánico de la Consejería de Educación y Universidades (BOC nº 203, de 19 
 de octubre),
 R E S U E L V O:

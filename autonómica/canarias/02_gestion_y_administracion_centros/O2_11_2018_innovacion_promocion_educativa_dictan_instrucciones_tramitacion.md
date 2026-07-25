@@ -30,6 +30,7 @@ fundamentos_derecho:
   - '1'
 - norma_id: norm-es-l-39-2015
 - norma_id: norm-can-res-boc-2018-220-19
+- norma_id: norm-can-d-135-2016
 fuente_pdf_oficial: https://sede.gobiernodecanarias.org/boc/boc-a-2018-220-5208.pdf
 ---
 # [Resolución de 2 de noviembre de 2018](O2_11_2018_innovacion_promocion_educativa_dictan_instrucciones_tramitacion_2.md), de la Dirección General de Ordenación, Innovación y Promoción Educativa, por la que se dictan instrucciones para la tramitación electrónica del procedimiento por el que se regula la justificación correspondiente a la financiación de gastos de personal complementario, en los centros privados concertados de Canarias (BOC n.º 220, de 14 de noviembre).
@@ -70,7 +71,7 @@ concertadas, financiado por esta Consejería a través de los conciertos educati
 Segundo.- La Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común 
 de las Administraciones Públicas (BOE nº 236, de 2.10.15).
 Esta Dirección General de acuerdo con todo lo anterior, y en uso de las atribuciones 
-que le son propias con arreglo a lo previsto en el artículo 13 del Decreto 135/2016, de 10 
+que le son propias con arreglo a lo previsto en el artículo 13 del [Decreto 135/2016](../01_marco_normativo_general_y_organico/D135_2016_reglamento_organico_consejeria_educacion_universidades_cultura.md), de 10 
 Página 
 
 Miércoles 14 de noviembre de 2018

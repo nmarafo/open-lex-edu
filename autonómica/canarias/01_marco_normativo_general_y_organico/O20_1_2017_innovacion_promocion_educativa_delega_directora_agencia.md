@@ -30,6 +30,7 @@ fundamentos_derecho:
 - norma_id: norm-can-l-14-1990
 - norma_id: norm-es-l-40-2015
 - norma_id: norm-es-2012-9282
+- norma_id: norm-can-d-135-2016
 fuente_pdf_oficial: https://sede.gobiernodecanarias.org/boc/boc-a-2017-020-416.pdf
 anexos_extraidos_pdf: true
 ocr_procesado: true
@@ -53,7 +54,7 @@ de Calidad Universitaria y Evaluación Educativa (ACCUEE), con el fin de agiliza
 tramitación de procedimientos administrativos dimanantes del ejercicio de las mismas, en 
 aras de mejorar la eficiencia de la gestión pública, y de conformidad con los siguientes
 ANTECEDENTES DE HECHO
-Primero.- El artículo 13.2 del Decreto 135/2016, de 10 de octubre, por el que se aprueba 
+Primero.- El artículo 13.2 del [Decreto 135/2016](D135_2016_reglamento_organico_consejeria_educacion_universidades_cultura.md), de 10 de octubre, por el que se aprueba 
 el Reglamento Orgánico de la Consejería de Educación y Universidades (BOC nº 203, de 
 19.10.16), preceptúa que la Dirección General de Ordenación, Innovación y Promoción 
 Educativa es el órgano superior del Departamento al que corresponden, entre otras, las 

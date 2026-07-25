@@ -30,6 +30,7 @@ fundamentos_derecho:
   - '1'
 - norma_id: norm-es-lo-2-2006
 - norma_id: norm-es-l-40-2015
+- norma_id: norm-can-d-135-2016
 fuente_pdf_oficial: https://sede.gobiernodecanarias.org/boc/boc-a-2021-038-932.pdf
 anexos_extraidos_pdf: true
 ocr_procesado: true
@@ -52,7 +53,7 @@ los centros docentes públicos no universitarios, se precisa delegar en las Dire
 Territoriales de Educación la competencia de esta Dirección General en relación con las 
 Jefaturas de Estudio adjuntas en los centros educativos en los que se determine.
 ANTECEDENTES DE HECHO
-Primero.- El Decreto 135/2016, de 10 de octubre, por el que se aprueba el Reglamento 
+Primero.- El [Decreto 135/2016](D135_2016_reglamento_organico_consejeria_educacion_universidades_cultura.md), de 10 de octubre, por el que se aprueba el Reglamento 
 Orgánico de la Consejería de Educación, Universidades, Cultura y Deportes, atribuye a la 
 Dirección General de Personal, de forma genérica, entre otras facultades, la de planificar, 
 dirigir, controlar y coordinar la gestión del personal docente no universitario de la 

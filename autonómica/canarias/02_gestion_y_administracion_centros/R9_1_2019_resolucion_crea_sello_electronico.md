@@ -34,6 +34,7 @@ fundamentos_derecho:
 - norma_id: norm-es-l-39-2015
 - norma_id: norm-es-l-40-2015
 - norma_id: norm-can-res-boc-2019-016-13
+- norma_id: norm-can-d-135-2016
 fuente_pdf_oficial: https://sede.gobiernodecanarias.org/boc/boc-a-2019-016-310.pdf
 ---
 # Secretaría General Técnica.- [Resolución de 9 de enero de 2019](R9_1_2019_resolucion_crea_sello_electronico_2.md), por la que se crea el sello electrónico de la Dirección General de Centros e Infraestructura Educativa (BOC n.º 16, de 24 de enero).
@@ -109,7 +110,7 @@ En su virtud, y de conformidad con lo dispuesto en el artículo 24.2 del Decreto
 la Administración Pública de la Comunidad Autónoma de Canarias, la competencia para 
 crear el sello electrónico de la Dirección General de Centros e Infraestructura Educativa 
 corresponde a la Secretaría General Técnica, en concordancia con lo establecido en el 
-Decreto 135/2016, de 10 de octubre, por el que se aprobó el Reglamento Orgánico de la 
+[Decreto 135/2016](../01_marco_normativo_general_y_organico/D135_2016_reglamento_organico_consejeria_educacion_universidades_cultura.md), de 10 de octubre, por el que se aprobó el Reglamento Orgánico de la 
 Consejería de Educación y Universidades, por lo que de conformidad con lo expuesto,
 R E S U E L V O:
 Primero.- La creación del sello electrónico de la Dirección General de Centros e 
