@@ -32,14 +32,6 @@ relaciones:
   - norma_id: norm-es-ce-1978
   - norma_id: norm-es-l-39-2015
   - norma_id: norm-es-lo-2-2006
-  fundamento_de:
-  - norma_id: norm-can-res-053
-  - norma_id: norm-can-res-055
-  - norma_id: norm-can-res-059
-  - norma_id: norm-can-res-boc-2019-234-52
-  - norma_id: norm-can-res-boc-2020-236-82
-  - norma_id: norm-can-res-boc-2026-077-49
-  - norma_id: norm-can-res-boc-2026-116-87
 fundamentos_derecho:
 - norma_id: norm-es-ce-1978
   articulos:
@@ -54,6 +46,7 @@ fundamentos_derecho:
 - norma_id: norm-es-2021-20113
 - norma_id: norm-es-2010-12201
 ---
+
 
 
 # Real Decreto 1/2019, de 11 de enero, por el que se establecen los principios básicos comunes de evaluación aplicables a las pruebas de certificación oficial de los niveles Intermedio B1, Intermedio B2, Avanzado C1, y Avanzado C2 de las enseñanzas de idiomas de régimen especial.

@@ -21,7 +21,6 @@ tags:
 - centros-p-blicos
 relaciones:
   fundamentado_en:
-  - norma_id: norm-can-d-81-2010
   - norma_id: norm-es-1987-13494
   - norma_id: norm-es-lo-2-2006
   fundamento_de:
@@ -36,6 +35,7 @@ fundamentos_derecho:
   - '120'
 - norma_id: norm-es-1987-13494
 ---
+
 
 
 # [Real Decreto 605/1987](RD605_1987_desarrollo_real_decreto_regula_procedimiento_autorizacion.md), de 10 de abril, por el que se regula el procedimiento de autorización previa a la desafectación de edificios públicos escolares de propiedad municipal.

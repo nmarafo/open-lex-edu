@@ -25,7 +25,6 @@ tags:
 - titulacion
 relaciones:
   fundamentado_en:
-  - norma_id: norm-can-l-2-1987
   - norma_id: norm-es-1985-5392
   - norma_id: norm-es-2010-12201
   - norma_id: norm-es-2010-4518
@@ -33,8 +32,6 @@ relaciones:
   - norma_id: norm-es-ce-1978
   - norma_id: norm-es-lo-2-2006
   fundamento_de:
-  - norma_id: norm-can-res-boc-2017-020-2
-  - norma_id: norm-can-res-juriscan-75634-6
   - norma_id: norm-es-2012-8745
 fundamentos_derecho:
 - norma_id: norm-es-ce-1978
@@ -49,6 +46,7 @@ fundamentos_derecho:
 - norma_id: norm-es-2010-12201
 - norma_id: norm-es-2010-4518
 ---
+
 
 
 # Ley 4/2012, de 25 de junio, de medidas administrativas y fiscales.

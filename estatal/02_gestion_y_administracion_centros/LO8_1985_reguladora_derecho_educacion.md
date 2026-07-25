@@ -34,11 +34,6 @@ relaciones:
   fundamentado_en:
   - norma_id: norm-es-ce-1978
   fundamento_de:
-  - norma_id: norm-can-d-114-2011
-  - norma_id: norm-can-res-boc-2004-189-65
-  - norma_id: norm-can-res-boc-2022-158-21
-  - norma_id: norm-can-res-boc-2024-117-93
-  - norma_id: norm-can-res-boc-2026-109-92
   - norma_id: norm-es-1987-15278
   - norma_id: norm-es-1988-3987
   - norma_id: norm-es-1993-16128
@@ -63,6 +58,7 @@ fundamentos_derecho:
   articulos:
   - '27'
 ---
+
 
 
 # Ley Orgánica 8/1985 reguladora del Derecho a la Educación (LODE)

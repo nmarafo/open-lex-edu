@@ -22,7 +22,6 @@ tags:
 - ensenanzas-artisticas
 relaciones:
   fundamentado_en:
-  - norma_id: norm-can-res-134
   - norma_id: norm-es-2000-544
   - norma_id: norm-es-2001-7022
   - norma_id: norm-es-2010-12201
@@ -36,7 +35,6 @@ relaciones:
   - norma_id: norm-es-lo-8-1985
   - norma_id: norm-es-rdl-5-2015
   fundamento_de:
-  - norma_id: norm-can-res-boc-2026-039-111
   - norma_id: norm-es-2026-12038
 fundamentos_derecho:
 - norma_id: norm-es-lo-2-2006
@@ -56,6 +54,7 @@ fundamentos_derecho:
 - norma_id: norm-es-2010-12201
 - norma_id: norm-es-lo-1-2004
 ---
+
 
 
 # Ley 1/2024, de 7 de junio, por la que se regulan las enseñanzas artísticas superiores y se establece la organización y equivalencias de las enseñanzas artísticas profesionales.

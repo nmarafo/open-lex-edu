@@ -23,7 +23,6 @@ tags:
 - proteccion-menores
 relaciones:
   fundamentado_en:
-  - norma_id: norm-can-l-16-2003
   - norma_id: norm-es-1999-23750
   - norma_id: norm-es-2000-544
   - norma_id: norm-es-2010-12201
@@ -36,7 +35,6 @@ relaciones:
   - norma_id: norm-es-lo-2-2006
   - norma_id: norm-es-rdl-5-2015
   fundamento_de:
-  - norma_id: norm-can-res-boc-2017-132-1
   - norma_id: norm-es-lo-8-2021
   - norma_id: norm-es-rdl-5-2015
 fundamentos_derecho:
@@ -60,6 +58,7 @@ fundamentos_derecho:
 - norma_id: norm-es-2010-12201
 - norma_id: norm-es-lo-1-2004
 ---
+
 
 
 # Ley 26/2015, de 28 de julio, de modificación del sistema de protección a la infancia y a la adolescencia.

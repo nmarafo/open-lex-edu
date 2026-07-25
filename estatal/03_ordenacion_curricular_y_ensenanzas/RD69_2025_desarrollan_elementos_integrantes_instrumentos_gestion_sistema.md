@@ -29,8 +29,6 @@ relaciones:
   - norma_id: norm-es-lo-3-2022
   - norma_id: norm-es-rd-659-2023
   fundamentado_en:
-  - norma_id: norm-can-res-134
-  - norma_id: norm-can-res-boc-2024-230-25
   - norma_id: norm-es-2002-12018
   - norma_id: norm-es-2010-12201
   - norma_id: norm-es-2021-20113
@@ -38,15 +36,6 @@ relaciones:
   - norma_id: norm-es-l-39-2015
   - norma_id: norm-es-lo-2-2006
   - norma_id: norm-es-lo-3-2018
-  fundamento_de:
-  - norma_id: norm-can-res-033
-  - norma_id: norm-can-res-034
-  - norma_id: norm-can-res-035
-  - norma_id: norm-can-res-036
-  - norma_id: norm-can-res-037
-  - norma_id: norm-can-res-038
-  - norma_id: norm-can-res-039
-  - norma_id: norm-can-res-boc-2026-070-41
 fundamentos_derecho:
 - norma_id: norm-es-ce-1978
   articulos:
@@ -64,6 +53,7 @@ fundamentos_derecho:
 - norma_id: norm-es-rd-659-2023
 - norma_id: norm-es-2010-12201
 ---
+
 
 
 # Real Decreto 69/2025, de 4 de febrero, por el que se desarrollan los elementos integrantes y los instrumentos de gestión del Sistema Nacional de Formación Profesional, y se modifica el Real Decreto 375/1999, de 5 de marzo, por el que se crea el Instituto Nacional de las Cualificaciones.

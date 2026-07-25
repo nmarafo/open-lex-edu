@@ -36,7 +36,6 @@ relaciones:
   desarrolla:
   - norma_id: norm-es-lo-2-2006
   desarrollado_por:
-  - norma_id: norm-can-d-103-2023
   - norma_id: norm-es-2023-9553
   fundamentado_en:
   - norma_id: norm-es-2010-12201
@@ -47,9 +46,6 @@ relaciones:
   - norma_id: norm-es-l-39-2015
   - norma_id: norm-es-lo-3-2018
   fundamento_de:
-  - norma_id: norm-can-res-040
-  - norma_id: norm-can-res-063
-  - norma_id: norm-can-res-boc-2026-077-62
   - norma_id: norm-es-2022-15953
   - norma_id: norm-es-2026-12038
 fundamentos_derecho:
@@ -72,6 +68,7 @@ fundamentos_derecho:
 - norma_id: norm-es-2021-20113
 - norma_id: norm-es-2010-12201
 ---
+
 
 
 # Real Decreto 243/2022 - Ordenación y Enseñanzas Mínimas del Bachillerato

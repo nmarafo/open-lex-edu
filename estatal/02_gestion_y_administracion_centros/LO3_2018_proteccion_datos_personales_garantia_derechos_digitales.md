@@ -31,7 +31,6 @@ tags:
 - transparencia
 relaciones:
   fundamentado_en:
-  - norma_id: norm-can-l-16-2003
   - norma_id: norm-es-1999-23750
   - norma_id: norm-es-2008-979
   - norma_id: norm-es-2010-12201
@@ -47,14 +46,6 @@ relaciones:
   - norma_id: norm-es-rdl-2-2015
   - norma_id: norm-es-rdl-5-2015
   fundamento_de:
-  - norma_id: norm-can-o-2023-09-28
-  - norma_id: norm-can-res-014
-  - norma_id: norm-can-res-097
-  - norma_id: norm-can-res-099
-  - norma_id: norm-can-res-125
-  - norma_id: norm-can-res-boc-2024-230-25
-  - norma_id: norm-can-res-boc-2026-039-111
-  - norma_id: norm-can-res-boc-2026-129-26
   - norma_id: norm-es-2007-19814
   - norma_id: norm-es-2008-979
   - norma_id: norm-es-2021-11382
@@ -86,6 +77,7 @@ fundamentos_derecho:
 - norma_id: norm-es-2013-12632
 - norma_id: norm-es-rdl-2-2015
 ---
+
 
 
 # Ley Orgánica 3/2018 de Protección de Datos Personales y Garantía de los Derechos Digitales

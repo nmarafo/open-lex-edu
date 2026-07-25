@@ -195,14 +195,6 @@ relaciones:
   - norma_id: norm-can-res-juriscan-75527-17
   - norma_id: norm-can-res-juriscan-75634-6
   - norma_id: norm-can-res-juriscan-75818-136
-  - norma_id: norm-es-2000-5990
-  - norma_id: norm-es-2002-4371
-  - norma_id: norm-es-2005-21534
-  - norma_id: norm-es-2021-979
-  - norma_id: norm-es-2024-10684
-  - norma_id: norm-es-2024-10685
-  - norma_id: norm-es-2025-16039
-  - norma_id: norm-es-2026-15301
 fundamentos_derecho:
 - norma_id: norm-es-ce-1978
   articulos:
@@ -217,6 +209,7 @@ fuente_pdf_oficial: https://sede.gobiernodecanarias.org/boc/boc-a-2014-152-3511.
 anexos_extraidos_pdf: true
 ocr_procesado: true
 ---
+
 
 
 # Ley 6/2014, de 25 de julio, Canaria de Educación no Universitaria.

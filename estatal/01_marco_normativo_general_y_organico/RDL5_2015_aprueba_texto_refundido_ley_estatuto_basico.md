@@ -29,8 +29,6 @@ tags:
 - procedimiento-administrativo
 - trebep
 relaciones:
-  desarrollado_por:
-  - norma_id: norm-can-l-2-1987
   fundamentado_en:
   - norma_id: norm-es-1984-17387
   - norma_id: norm-es-1985-5392
@@ -41,11 +39,6 @@ relaciones:
   - norma_id: norm-es-l-40-2015
   - norma_id: norm-es-l-53-1984
   fundamento_de:
-  - norma_id: norm-can-d-74-2010
-  - norma_id: norm-can-o-2023-09-28
-  - norma_id: norm-can-res-125
-  - norma_id: norm-can-res-boc-2018-127-9
-  - norma_id: norm-can-res-boc-2026-046-139
   - norma_id: norm-es-1979-29491
   - norma_id: norm-es-1985-7820
   - norma_id: norm-es-1993-23257
@@ -78,6 +71,7 @@ fundamentos_derecho:
 - norma_id: norm-es-2013-12632
 - norma_id: norm-es-2012-9364
 ---
+
 
 
 # Real Decreto Legislativo 5/2015 (TREBEP)

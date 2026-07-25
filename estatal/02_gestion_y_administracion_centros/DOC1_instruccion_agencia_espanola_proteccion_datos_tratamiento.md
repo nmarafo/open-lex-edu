@@ -23,7 +23,6 @@ tags:
 - rgpd
 relaciones:
   fundamentado_en:
-  - norma_id: norm-can-d-81-2010
   - norma_id: norm-es-1999-23750
   - norma_id: norm-es-lo-2-2006
 fundamentos_derecho:
@@ -36,6 +35,7 @@ fundamentos_derecho:
   - '120'
 - norma_id: norm-es-1999-23750
 ---
+
 
 
 # Instrucción 1/2006, de 8 de noviembre, de la Agencia Española de Protección de Datos, sobre el tratamiento de datos personales con fines de vigilancia a través de sistemas de cámaras o videocámaras.

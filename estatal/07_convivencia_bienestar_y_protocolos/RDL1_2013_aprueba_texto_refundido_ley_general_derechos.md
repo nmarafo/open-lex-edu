@@ -33,7 +33,6 @@ relaciones:
   - norma_id: norm-es-lo-2-2006
   - norma_id: norm-es-lo-8-1985
   fundamento_de:
-  - norma_id: norm-can-d-25-2018
   - norma_id: norm-es-2022-11589
   - norma_id: norm-es-2026-12038
   - norma_id: norm-es-l-40-2015
@@ -51,6 +50,7 @@ fundamentos_derecho:
 - norma_id: norm-es-2021-20113
 - norma_id: norm-es-2010-12201
 ---
+
 
 
 # Real Decreto Legislativo 1/2013, de 29 de noviembre, por el que se aprueba el Texto Refundido de la Ley General de derechos de las personas con discapacidad y de su inclusión social.

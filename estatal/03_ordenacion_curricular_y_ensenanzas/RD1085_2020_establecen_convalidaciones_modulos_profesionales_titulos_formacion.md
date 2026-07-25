@@ -35,11 +35,6 @@ relaciones:
   - norma_id: norm-es-lo-2-2006
   - norma_id: norm-es-rd-39-1997
   fundamento_de:
-  - norma_id: norm-can-res-030
-  - norma_id: norm-can-res-032
-  - norma_id: norm-can-res-boc-2024-226-44
-  - norma_id: norm-can-res-boc-2025-047-108
-  - norma_id: norm-can-res-boc-2026-039-103
   - norma_id: norm-es-2021-979
   - norma_id: norm-es-2024-10684
   - norma_id: norm-es-2024-10685
@@ -61,6 +56,7 @@ fundamentos_derecho:
 - norma_id: norm-es-2021-979
 - norma_id: norm-es-2010-12201
 ---
+
 
 
 # [Real Decreto 1085/2020](RD1085_2020_correccion_errores_real_decreto_establecen_convalidaciones.md), de 9 de diciembre, por el que se establecen convalidaciones de módulos profesionales de los títulos de Formación Profesional del sistema educativo español y las medidas para su aplicación, y se modifica el Real Decreto 1147/2011, de 29 de julio, por el que se establece la ordenación general de la formación profesional del sistema educativo.

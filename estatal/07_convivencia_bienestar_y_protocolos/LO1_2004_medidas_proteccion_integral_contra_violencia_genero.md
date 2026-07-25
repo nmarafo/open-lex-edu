@@ -28,8 +28,6 @@ tags:
 - protocolos-de-actuaci-n-y-protecci-n
 - violencia-genero
 relaciones:
-  desarrollado_por:
-  - norma_id: norm-can-l-16-2003
   fundamentado_en:
   - norma_id: norm-es-1984-17387
   - norma_id: norm-es-1995-25444
@@ -37,7 +35,6 @@ relaciones:
   - norma_id: norm-es-ce-1978
   - norma_id: norm-es-lo-8-1985
   fundamento_de:
-  - norma_id: norm-can-o-2023-09-28
   - norma_id: norm-es-2010-4518
   - norma_id: norm-es-2012-9364
   - norma_id: norm-es-2015-8222
@@ -56,6 +53,7 @@ fundamentos_derecho:
 - norma_id: norm-es-2001-7022
 - norma_id: norm-es-lo-8-1985
 ---
+
 
 
 # Ley Orgánica 1/2004 de Medidas de Protección Integral contra la Violencia de Género

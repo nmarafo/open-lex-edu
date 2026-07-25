@@ -28,12 +28,9 @@ tags:
 - titulacion
 relaciones:
   fundamentado_en:
-  - norma_id: norm-can-l-6-2014
   - norma_id: norm-es-2001-7022
   - norma_id: norm-es-lo-2-2006
   fundamento_de:
-  - norma_id: norm-can-res-boc-2017-036-75
-  - norma_id: norm-can-res-boc-2019-143-74
   - norma_id: norm-es-2000-5990
   - norma_id: norm-es-2007-19326
   - norma_id: norm-es-2010-13564
@@ -50,6 +47,7 @@ fundamentos_derecho:
   - '22'
 - norma_id: norm-es-2001-7022
 ---
+
 
 
 # Orden ECD/454/2002, de 22 de febrero, por la que se establecen los elementos básicos de los informes de evaluación de las enseñanzas que conducentes a la obtención de titulaciones de técnicos deportivos reguladas por el Real Decreto 1913/1997, de 19 de diciembre, así como los requisitos formales derivados del proceso de evaluación que son necesarios para garantizar la movilidad de los alumnos.

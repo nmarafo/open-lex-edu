@@ -32,9 +32,6 @@ relaciones:
   desarrolla:
   - norma_id: norm-es-l-31-1995
   fundamento_de:
-  - norma_id: norm-can-o-2013-10-09
-  - norma_id: norm-can-res-036
-  - norma_id: norm-can-res-boc-2024-226-44
   - norma_id: norm-es-2010-10424
   - norma_id: norm-es-2014-5591
   - norma_id: norm-es-2020-17274
@@ -43,6 +40,7 @@ fundamentos_derecho:
   articulos:
   - '6'
 ---
+
 
 
 # Real Decreto 39/1997 - Reglamento de los Servicios de Prevención

@@ -27,8 +27,6 @@ tags:
 - personal-laboral
 - r-gimen-disciplinario
 relaciones:
-  desarrollado_por:
-  - norma_id: norm-can-convenio-3-laboral
   fundamentado_en:
   - norma_id: norm-es-2002-12018
   - norma_id: norm-es-2007-6115
@@ -37,11 +35,6 @@ relaciones:
   - norma_id: norm-es-l-31-1995
   - norma_id: norm-es-lo-1-1982
   fundamento_de:
-  - norma_id: norm-can-o-2023-09-28
-  - norma_id: norm-can-res-125
-  - norma_id: norm-can-res-boc-2022-158-21
-  - norma_id: norm-can-res-boc-2026-046-139
-  - norma_id: norm-can-res-boc-2026-129-26
   - norma_id: norm-es-l-9-2017
   - norma_id: norm-es-lo-10-2022
   - norma_id: norm-es-lo-3-2018
@@ -56,6 +49,7 @@ fundamentos_derecho:
 - norma_id: norm-es-2007-6115
 - norma_id: norm-es-2012-9364
 ---
+
 
 
 # Real Decreto Legislativo 2/2015 - Texto Refundido del Estatuto de los Trabajadores

@@ -27,10 +27,7 @@ tags:
 - proteccion-menores
 - protocolos-de-actuaci-n-y-protecci-n
 relaciones:
-  desarrollado_por:
-  - norma_id: norm-can-res-096
   fundamentado_en:
-  - norma_id: norm-can-l-16-2003
   - norma_id: norm-es-1995-25444
   - norma_id: norm-es-2010-12201
   - norma_id: norm-es-2015-8222
@@ -45,8 +42,6 @@ relaciones:
   - norma_id: norm-es-lo-3-2018
   - norma_id: norm-es-lo-5-2000
   fundamento_de:
-  - norma_id: norm-can-res-135
-  - norma_id: norm-can-res-boc-2026-129-26
   - norma_id: norm-es-2026-2622
   - norma_id: norm-es-lo-10-2022
 fundamentos_derecho:
@@ -68,6 +63,7 @@ fundamentos_derecho:
 - norma_id: norm-es-2010-12201
 - norma_id: norm-es-lo-1-2004
 ---
+
 
 
 # Ley Orgánica 8/2021 de Protección Integral a la Infancia y la Adolescencia frente a la Violencia (LOPIVI)

@@ -34,7 +34,6 @@ relaciones:
   - norma_id: norm-es-rd-217-2022
   - norma_id: norm-es-rd-243-2022
   fundamentado_en:
-  - norma_id: norm-can-res-134
   - norma_id: norm-es-1993-23257
   - norma_id: norm-es-2001-7022
   - norma_id: norm-es-2010-12201
@@ -68,6 +67,7 @@ fundamentos_derecho:
 - norma_id: norm-es-1993-23257
 - norma_id: norm-es-2022-16194
 ---
+
 
 
 # Real Decreto 286/2023, de 18 de abril, por el que se regula la asignación de materias en Educación Secundaria Obligatoria y en Bachillerato a las especialidades de distintos cuerpos de funcionarios docentes, y se modifican diversas normas relativas al profesorado de enseñanzas no universitarias.

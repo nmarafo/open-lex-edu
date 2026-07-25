@@ -34,8 +34,6 @@ relaciones:
   - norma_id: norm-es-1988-6938
   - norma_id: norm-es-l-39-2015
   fundamento_de:
-  - norma_id: norm-can-res-boc-2025-047-108
-  - norma_id: norm-can-res-boc-2026-039-103
   - norma_id: norm-es-1988-3987
   - norma_id: norm-es-1988-6938
   - norma_id: norm-es-1996-10210
@@ -49,6 +47,7 @@ fundamentos_derecho:
 - norma_id: norm-es-1988-3987
 - norma_id: norm-es-1988-6938
 ---
+
 
 
 # Orden ECD/3305/2002, de 16 de diciembre, por la que se modifican las de 14 de marzo de 1988 y de 30 de abril de 1996, para la aplicación de lo dispuesto en el [Real Decreto 104/1988](RD104_1988_homologacion_convalidacion_titulos_estudios_extranjeros_educacion.md), de 29 de enero, sobre homologación y convalidación de títulos y estudios extranjeros de educación no universitaria.

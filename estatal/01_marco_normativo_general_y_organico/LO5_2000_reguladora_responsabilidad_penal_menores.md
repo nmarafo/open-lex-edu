@@ -32,8 +32,6 @@ relaciones:
   - norma_id: norm-es-l-39-2015
   - norma_id: norm-es-lo-1-1996
   fundamento_de:
-  - norma_id: norm-can-d-114-2011
-  - norma_id: norm-can-res-juriscan-71394-16
   - norma_id: norm-es-2004-15601
   - norma_id: norm-es-lo-10-2022
   - norma_id: norm-es-lo-8-2021
@@ -49,6 +47,7 @@ fundamentos_derecho:
 - norma_id: norm-es-lo-1-1996
 - norma_id: norm-es-1999-23750
 ---
+
 
 
 # Ley Orgánica 5/2000 reguladora de la responsabilidad penal de los menores

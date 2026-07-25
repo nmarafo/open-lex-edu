@@ -27,7 +27,6 @@ tags:
 - titulacion
 relaciones:
   fundamentado_en:
-  - norma_id: norm-can-l-6-2014
   - norma_id: norm-es-2010-4130
   - norma_id: norm-es-lo-2-2006
   - norma_id: norm-es-rd-1834-2008
@@ -42,6 +41,7 @@ fundamentos_derecho:
 - norma_id: norm-es-rd-1834-2008
 - norma_id: norm-es-2010-4130
 ---
+
 
 
 # Resolución de 24 de julio de 2025, de la Secretaría de Estado de Educación, por la que se dictan instrucciones relativas al programa de doble titulación Bachiller-Baccalauréat correspondientes al curso 2025-2026.

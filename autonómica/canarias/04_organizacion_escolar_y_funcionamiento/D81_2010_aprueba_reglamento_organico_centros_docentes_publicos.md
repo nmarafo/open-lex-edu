@@ -55,15 +55,6 @@ relaciones:
   - norma_id: norm-can-res-boc-2026-116-87
   - norma_id: norm-can-res-juriscan-64838-121
   - norma_id: norm-can-res-juriscan-72788-60
-  - norma_id: norm-es-1987-11341
-  - norma_id: norm-es-1987-13494
-  - norma_id: norm-es-1988-6938
-  - norma_id: norm-es-1996-10210
-  - norma_id: norm-es-1999-23750
-  - norma_id: norm-es-2001-7022
-  - norma_id: norm-es-2006-21648
-  - norma_id: norm-es-2018-5111
-  - norma_id: norm-es-2023-3846
 fundamentos_derecho:
 - norma_id: norm-es-lo-2-2006
   articulos:
@@ -79,6 +70,7 @@ fundamentos_derecho:
 - norma_id: norm-es-2010-12201
 fuente_pdf_oficial: https://sede.gobiernodecanarias.org/boc/boc-a-2010-143-4245.pdf
 ---
+
 
 
 # [Decreto 81/2010](Ds_n_desarrolla_decreto_aprueba_reglamento_organico_centros.md), de 8 de julio, por el que se aprueba el Reglamento Orgánico de los centros docentes públicos no universitarios de la Comunidad Autónoma de Canarias.

@@ -25,15 +25,8 @@ tags:
 - titulacion
 relaciones:
   fundamentado_en:
-  - norma_id: norm-can-d-81-2010
   - norma_id: norm-es-lo-2-2006
   fundamento_de:
-  - norma_id: norm-can-d-114-2011
-  - norma_id: norm-can-o-1-9-2010
-  - norma_id: norm-can-res-boc-2018-086-122
-  - norma_id: norm-can-res-juriscan-64838-121
-  - norma_id: norm-can-res-juriscan-65631-68
-  - norma_id: norm-can-res-juriscan-72882-123
   - norma_id: norm-es-2003-23399
   - norma_id: norm-es-2003-4151
   - norma_id: norm-es-2004-15601
@@ -64,6 +57,7 @@ fundamentos_derecho:
   articulos:
   - '120'
 ---
+
 
 
 # Ley Orgánica 15/1999, de 13 de diciembre, de Protección de Datos de Carácter Personal.

@@ -25,7 +25,6 @@ tags:
 - profesorado
 relaciones:
   fundamentado_en:
-  - norma_id: norm-can-d-81-2010
   - norma_id: norm-es-1987-11341
   - norma_id: norm-es-lo-2-2006
   fundamento_de:
@@ -40,6 +39,7 @@ fundamentos_derecho:
   - '120'
 - norma_id: norm-es-1987-11341
 ---
+
 
 
 # Orden de 4 de junio de 1987 sobre desarrollo del [Real Decreto 605/1987](RD605_1987_regula_procedimiento_autorizacion_previa_desafectacion_edificios.md), de 10 de abril, por el que se regula el procedimiento de autorización previa a la desafectación de los edificios públicos escolares de propiedad municipal.

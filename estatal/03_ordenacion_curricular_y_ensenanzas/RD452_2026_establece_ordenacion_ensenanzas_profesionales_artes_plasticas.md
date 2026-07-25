@@ -31,8 +31,6 @@ tags:
 - titulacion
 relaciones:
   fundamentado_en:
-  - norma_id: norm-can-res-134
-  - norma_id: norm-can-res-boc-2024-230-25
   - norma_id: norm-es-2001-7022
   - norma_id: norm-es-2007-10487
   - norma_id: norm-es-2010-12201
@@ -69,6 +67,7 @@ fundamentos_derecho:
 - norma_id: norm-es-2010-12201
 - norma_id: norm-es-2013-12632
 ---
+
 
 
 # [Real Decreto 452/2026](RD452_2026_correccion_errores_real_decreto_establece_ordenacion.md), de 3 de junio, por el que se establece la ordenación de las Enseñanzas Profesionales de Artes Plásticas y Diseño.

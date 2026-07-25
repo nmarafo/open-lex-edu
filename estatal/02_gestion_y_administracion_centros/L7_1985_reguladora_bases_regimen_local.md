@@ -25,8 +25,6 @@ relaciones:
   - norma_id: norm-es-1984-17387
   - norma_id: norm-es-ce-1978
   fundamento_de:
-  - norma_id: norm-can-l-14-1990
-  - norma_id: norm-can-res-boc-2026-129-26
   - norma_id: norm-es-1995-8730
   - norma_id: norm-es-2012-8745
   - norma_id: norm-es-2012-9282
@@ -42,6 +40,7 @@ fundamentos_derecho:
   - '27'
 - norma_id: norm-es-1984-17387
 ---
+
 
 
 # Ley 7/1985, de 2 de abril, Reguladora de las Bases del Régimen Local

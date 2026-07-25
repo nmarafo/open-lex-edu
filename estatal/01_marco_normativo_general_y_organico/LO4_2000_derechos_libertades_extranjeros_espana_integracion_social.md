@@ -27,7 +27,6 @@ relaciones:
   fundamentado_en:
   - norma_id: norm-es-ce-1978
   fundamento_de:
-  - norma_id: norm-can-res-boc-2026-039-103
   - norma_id: norm-es-2012-8745
   - norma_id: norm-es-2013-12632
   - norma_id: norm-es-2015-8222
@@ -43,6 +42,7 @@ fundamentos_derecho:
   articulos:
   - '27'
 ---
+
 
 
 # Ley Orgánica 4/2000, de 11 de enero, sobre derechos y libertades de los extranjeros en España y su integración social.

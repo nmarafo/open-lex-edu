@@ -54,6 +54,7 @@ fuente_pdf_oficial: https://sede.gobiernodecanarias.org/boc/boc-a-2025-044-886.p
 ---
 
 
+
 # Resolución de la Dirección General de Administración de Centros, Escolarización y Servicios Complementarios, de 20 de febrero de 2025, por la que se establece el calendario escolar y se dictan instrucciones para la organización y desarrollo de las actividades de comienzo y finalización del curso 2025-2026, para los centros de enseñanzas no universitarias de la Comunidad Autónoma de Canarias (BOC n.º 44, de 4 de marzo).
 
 III. Otras Resoluciones

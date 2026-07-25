@@ -29,7 +29,6 @@ tags:
 - profesorado
 relaciones:
   fundamentado_en:
-  - norma_id: norm-can-res-134
   - norma_id: norm-es-2001-7022
   - norma_id: norm-es-2007-5478
   - norma_id: norm-es-2010-12201
@@ -62,6 +61,7 @@ fundamentos_derecho:
 - norma_id: norm-es-rd-1364-2010
 - norma_id: norm-es-rd-276-2007
 ---
+
 
 
 # Real Decreto 800/2022, de 4 de octubre, por el que se regula la integración del profesorado del Cuerpo, a extinguir, de Profesores Técnicos de Formación Profesional en el Cuerpo de Profesores de Enseñanza Secundaria, y se modifican diversos reales decretos relativos al profesorado de enseñanzas no universitarias.

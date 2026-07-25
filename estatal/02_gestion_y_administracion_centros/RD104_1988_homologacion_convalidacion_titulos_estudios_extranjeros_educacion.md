@@ -29,8 +29,6 @@ relaciones:
   - norma_id: norm-es-ce-1978
   - norma_id: norm-es-lo-8-1985
   fundamento_de:
-  - norma_id: norm-can-res-boc-2025-047-108
-  - norma_id: norm-can-res-boc-2026-039-103
   - norma_id: norm-es-1988-6938
   - norma_id: norm-es-1996-10210
   - norma_id: norm-es-2001-7022
@@ -48,6 +46,7 @@ fundamentos_derecho:
 - norma_id: norm-es-1988-6938
 - norma_id: norm-es-2002-25289
 ---
+
 
 
 # [Real Decreto 104/1988](RD104_1988_aplicacion_lo_dispuesto_real_decreto_homologacion.md), de 29 de enero, sobre homologación y convalidación de títulos y estudios extranjeros de educación no universitaria.

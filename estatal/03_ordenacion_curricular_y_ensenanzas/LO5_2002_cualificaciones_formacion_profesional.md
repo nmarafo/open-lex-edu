@@ -30,8 +30,6 @@ relaciones:
   - norma_id: norm-es-l-53-1984
   - norma_id: norm-es-lo-8-1985
   fundamento_de:
-  - norma_id: norm-can-res-boc-2019-143-74
-  - norma_id: norm-can-res-boc-2026-039-103
   - norma_id: norm-es-2005-21534
   - norma_id: norm-es-2007-19326
   - norma_id: norm-es-2010-13564
@@ -57,6 +55,7 @@ fundamentos_derecho:
 - norma_id: norm-es-2001-7022
 - norma_id: norm-es-lo-8-1985
 ---
+
 
 
 # Ley Orgánica 5/2002, de 19 de junio, de las Cualificaciones y de la Formación Profesional.

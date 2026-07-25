@@ -28,13 +28,6 @@ tags:
 - sector-publico
 relaciones:
   desarrollado_por:
-  - norma_id: norm-can-res-098
-  - norma_id: norm-can-res-boc-2017-235-5
-  - norma_id: norm-can-res-boc-2019-016-12
-  - norma_id: norm-can-res-boc-2019-016-13
-  - norma_id: norm-can-res-boc-2019-067-11
-  - norma_id: norm-can-res-boc-2022-138-7
-  - norma_id: norm-can-res-juriscan-75634-6
   - norma_id: norm-es-l-39-2015
   fundamentado_en:
   - norma_id: norm-es-1985-5392
@@ -47,26 +40,6 @@ relaciones:
   - norma_id: norm-es-l-39-2015
   - norma_id: norm-es-l-53-1984
   fundamento_de:
-  - norma_id: norm-can-d-84-2024
-  - norma_id: norm-can-o-2023-09-28
-  - norma_id: norm-can-res-014
-  - norma_id: norm-can-res-028
-  - norma_id: norm-can-res-095
-  - norma_id: norm-can-res-096
-  - norma_id: norm-can-res-097
-  - norma_id: norm-can-res-099
-  - norma_id: norm-can-res-125
-  - norma_id: norm-can-res-boc-2017-020-2
-  - norma_id: norm-can-res-boc-2017-061-4
-  - norma_id: norm-can-res-boc-2017-132-1
-  - norma_id: norm-can-res-boc-2018-086-122
-  - norma_id: norm-can-res-boc-2018-124-126
-  - norma_id: norm-can-res-boc-2018-127-9
-  - norma_id: norm-can-res-boc-2021-038-3
-  - norma_id: norm-can-res-boc-2025-118-46
-  - norma_id: norm-can-res-boc-2026-046-139
-  - norma_id: norm-can-res-boc-2026-060-61
-  - norma_id: norm-can-res-boc-2026-129-26
   - norma_id: norm-es-2018-6348
   - norma_id: norm-es-2021-11382
   - norma_id: norm-es-2022-11589
@@ -94,6 +67,7 @@ fundamentos_derecho:
 - norma_id: norm-es-2013-13756
 - norma_id: norm-es-2013-12632
 ---
+
 
 
 # Ley 40/2015 del Régimen Jurídico del Sector Público

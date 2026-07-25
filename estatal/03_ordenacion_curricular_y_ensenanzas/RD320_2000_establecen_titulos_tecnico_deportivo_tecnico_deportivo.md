@@ -28,7 +28,6 @@ tags:
 - titulacion
 relaciones:
   fundamentado_en:
-  - norma_id: norm-can-l-6-2014
   - norma_id: norm-es-2001-7022
   - norma_id: norm-es-2002-4371
   - norma_id: norm-es-lo-2-2006
@@ -48,6 +47,7 @@ fundamentos_derecho:
 - norma_id: norm-es-lo-8-1985
 - norma_id: norm-es-2002-4371
 ---
+
 
 
 # Real Decreto 320/2000, de 3 de marzo, por el que se establecen los títulos de Técnico Deportivo y Técnico Deportivo superior en las especialidades de Fútbol y Fútbol Sala, se aprueban las correspondientes enseñanzas mínimas y se regulan las pruebas y los requisitos de acceso a estas enseñanzas.

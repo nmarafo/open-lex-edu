@@ -60,6 +60,7 @@ fuente_pdf_oficial: https://sede.gobiernodecanarias.org/boc/boc-a-2018-124-3068.
 ---
 
 
+
 # Resolución de 21 de junio de 2018, de la Viceconsejería de Educación y Universidades, por la que se dictan instrucciones de organización y funcionamiento dirigidas a los centros docentes públicos no universitarios de la Comunidad Autónoma de Canarias para el curso 2018/19 (BOC n.º 124, de 28 de junio).
 
 Jueves 28 de junio de 2018

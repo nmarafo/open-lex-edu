@@ -55,6 +55,7 @@ fuente_pdf_oficial: https://sede.gobiernodecanarias.org/boc/boc-a-2023-096-1554.
 ---
 
 
+
 # Decreto 102/2023, de 9 de mayo, por el que se establece la ordenación y el currículo de la Educación Secundaria Obligatoria en la Comunidad Autónoma de Canarias.
 
 II. Autoridades y personal

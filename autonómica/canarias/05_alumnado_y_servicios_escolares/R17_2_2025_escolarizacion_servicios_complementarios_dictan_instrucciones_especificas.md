@@ -56,6 +56,7 @@ fuente_pdf_oficial: https://sede.gobiernodecanarias.org/boc/boc-a-2025-039-739.p
 ---
 
 
+
 # Resolución de 17 de febrero de 2025,de la Dirección General de Administración de Centros, Escolarización y Servicios Complementarios, por la que se dictan instrucciones específicas y se convoca procedimiento extraordinario de admisión del alumnado del primer ciclo de Educación Infantil en determinados centros docentes dependientes de esta Consejería, para el curso escolar 2024-2025.
 
 III. Otras Resoluciones

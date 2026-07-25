@@ -48,8 +48,6 @@ relaciones:
   - norma_id: norm-es-2021-20113
   - norma_id: norm-es-ce-1978
   fundamento_de:
-  - norma_id: norm-can-o-2013-10-09
-  - norma_id: norm-can-res-135
   - norma_id: norm-es-2010-11426
   - norma_id: norm-es-2011-13117
   - norma_id: norm-es-2011-15628
@@ -74,6 +72,7 @@ fundamentos_derecho:
 - norma_id: norm-es-2010-12201
 - norma_id: norm-es-2007-22017
 ---
+
 
 
 # Real Decreto 1834/2008 - Condiciones de Formación para el Ejercicio de la Docencia

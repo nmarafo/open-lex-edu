@@ -40,6 +40,7 @@ fundamentos_derecho:
 ---
 
 
+
 # Resolución de 28 de enero de 1992, de la Dirección General de Trabajo, por la que se hace público el III Convenio Colectivo del Personal Laboral de la Comunidad Autónoma de Canarias.
 
 Gobierno de Canarias

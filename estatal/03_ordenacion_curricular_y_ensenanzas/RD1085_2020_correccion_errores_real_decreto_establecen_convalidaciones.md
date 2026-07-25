@@ -24,15 +24,9 @@ tags:
 - titulacion
 relaciones:
   fundamentado_en:
-  - norma_id: norm-can-l-6-2014
   - norma_id: norm-es-2020-17274
   - norma_id: norm-es-lo-2-2006
   fundamento_de:
-  - norma_id: norm-can-res-030
-  - norma_id: norm-can-res-032
-  - norma_id: norm-can-res-boc-2024-226-44
-  - norma_id: norm-can-res-boc-2025-047-108
-  - norma_id: norm-can-res-boc-2026-039-103
   - norma_id: norm-es-2020-17274
   - norma_id: norm-es-2024-10684
   - norma_id: norm-es-2024-10685
@@ -47,6 +41,7 @@ fundamentos_derecho:
   - '22'
 - norma_id: norm-es-2020-17274
 ---
+
 
 
 # Corrección de errores del [Real Decreto 1085/2020](RD1085_2020_establecen_convalidaciones_modulos_profesionales_titulos_formacion.md), de 9 de diciembre, por el que se establecen convalidaciones de módulos profesionales de los títulos de Formación Profesional del sistema educativo español y las medidas para su aplicación, y se modifica el Real Decreto 1147/2011, de 29 de julio, por el que se establece la ordenación general de la formación profesional del sistema educativo.

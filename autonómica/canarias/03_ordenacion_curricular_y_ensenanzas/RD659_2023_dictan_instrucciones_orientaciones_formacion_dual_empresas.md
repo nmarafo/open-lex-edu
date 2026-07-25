@@ -70,12 +70,6 @@ relaciones:
   - norma_id: norm-can-res-boc-2026-073-113
   - norma_id: norm-can-res-boc-2026-129-26
   - norma_id: norm-can-res-boc-2026-141-29
-  - norma_id: norm-es-2024-10683
-  - norma_id: norm-es-2024-10684
-  - norma_id: norm-es-2024-10685
-  - norma_id: norm-es-2025-2039
-  - norma_id: norm-es-2026-12038
-  - norma_id: norm-es-rd-659-2023
 fundamentos_derecho:
 - norma_id: norm-can-l-6-2014
   articulos:
@@ -97,6 +91,7 @@ fundamentos_derecho:
 - norma_id: norm-es-2010-12201
 fuente_pdf_oficial: https://sede.gobiernodecanarias.org/boc/boc-a-2024-230-3794.pdf
 ---
+
 
 
 # Resolución de 5 de noviembre de 2024,de la Dirección General de Formación Profesional y Enseñanzas de Régimen Especial, por la que se dictan instrucciones y orientaciones para la formación dual en empresas u organismos equiparados en los Certificados Profesionales (Grado C), los Ciclos Formativos de Grado Básico, Medio y Superior (Grados D, niveles 1, 2 y 3) y Cursos de Especialización (Grado E, niveles 2 y 3), en aplicación del [Real Decreto 659/2023](../../../estatal/03_ordenacion_curricular_y_ensenanzas/RD659_2023_desarrolla_ordenacion_sistema_formacion_profesional.md), de 18 de julio, en los centros docentes no universitarios de la Comunidad Autónoma de Canarias.

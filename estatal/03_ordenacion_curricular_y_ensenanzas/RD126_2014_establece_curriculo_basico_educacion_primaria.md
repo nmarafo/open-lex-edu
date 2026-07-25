@@ -36,7 +36,6 @@ relaciones:
   - norma_id: norm-es-lo-2-2006
   - norma_id: norm-es-lo-8-1985
   fundamento_de:
-  - norma_id: norm-can-res-juriscan-72788-60
   - norma_id: norm-es-2021-18812
   - norma_id: norm-es-rd-157-2022
 fundamentos_derecho:
@@ -53,6 +52,7 @@ fundamentos_derecho:
 - norma_id: norm-es-2021-20113
 - norma_id: norm-es-2010-12201
 ---
+
 
 
 # Real Decreto 126/2014, de 28 de febrero, por el que se establece el currículo básico de la Educación Primaria.

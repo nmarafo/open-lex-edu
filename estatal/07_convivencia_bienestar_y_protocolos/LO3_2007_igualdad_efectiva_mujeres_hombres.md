@@ -25,14 +25,10 @@ tags:
 - oposiciones
 relaciones:
   fundamentado_en:
-  - norma_id: norm-can-l-16-2003
   - norma_id: norm-es-1984-17387
   - norma_id: norm-es-ce-1978
   - norma_id: norm-es-l-31-1995
   fundamento_de:
-  - norma_id: norm-can-o-2023-09-28
-  - norma_id: norm-can-res-125
-  - norma_id: norm-can-res-boc-2018-124-126
   - norma_id: norm-es-2010-13564
   - norma_id: norm-es-2010-4518
   - norma_id: norm-es-2011-12632
@@ -51,6 +47,7 @@ fundamentos_derecho:
 - norma_id: norm-es-1984-17387
 - norma_id: norm-es-l-31-1995
 ---
+
 
 
 # Ley Orgánica 3/2007, de 22 de marzo, para la igualdad efectiva de mujeres y hombres.

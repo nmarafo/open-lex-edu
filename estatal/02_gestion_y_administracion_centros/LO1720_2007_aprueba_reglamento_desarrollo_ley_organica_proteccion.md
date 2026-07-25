@@ -25,15 +25,10 @@ tags:
 - rgpd
 relaciones:
   fundamentado_en:
-  - norma_id: norm-can-l-16-2003
   - norma_id: norm-es-1999-23750
   - norma_id: norm-es-l-39-2015
   - norma_id: norm-es-lo-3-2018
   fundamento_de:
-  - norma_id: norm-can-d-114-2011
-  - norma_id: norm-can-res-boc-2018-086-122
-  - norma_id: norm-can-res-juriscan-64838-121
-  - norma_id: norm-can-res-juriscan-72882-123
   - norma_id: norm-es-2011-17560
   - norma_id: norm-es-lo-3-2018
 fundamentos_derecho:
@@ -46,6 +41,7 @@ fundamentos_derecho:
 - norma_id: norm-can-l-16-2003
 - norma_id: norm-es-1999-23750
 ---
+
 
 
 # Real Decreto 1720/2007, de 21 de diciembre, por el que se aprueba el Reglamento de desarrollo de la [Ley Orgánica 15/1999](LO15_1999_proteccion_datos_caracter_personal.md), de 13 de diciembre, de protección de datos de carácter personal.

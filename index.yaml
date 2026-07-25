@@ -1,5 +1,5 @@
 version: '1.0'
-total_normas: 321
+total_normas: 326
 normas:
   norm-can-d-123-2023:
     id: norm-can-d-123-2023
@@ -4518,6 +4518,123 @@ normas:
     - personal-no-docente
     - roc
     path: autonómica/canarias/09_personal_laboral_y_no_docente/R30_1_2007_relativa_registro_deposito_publicacion_acuerdo_comision.md
+  norm-mad-d-61-2019:
+    id: norm-mad-d-61-2019
+    codigo_sintetizado: Decreto BOCM 61/2019
+    titulo: Decreto 61/2019, de 9 de julio, del Consejo de Gobierno, por el que se
+      regula la estructura orgánica de la Consejería de Educación y Juventud de la
+      Comunidad de Madrid (BOCM n.º 163, de 11 de julio).
+    jurisdiccion: Madrid
+    ambito: Autonómico
+    tipo_disposicion: Decreto
+    fecha_publicacion: ''
+    estado: Vigente
+    redaccion: original
+    categoria_canonica: 01_marco_normativo_general_y_organico
+    subcategoria: Estructura de la Consejería
+    tags:
+    - consejeria-educacion
+    - curriculo
+    - educacion-infantil
+    - educacion-primaria
+    - ensenanzas-universitarias
+    - equipos-directivos
+    - eso
+    - estructura-organica
+    - formacion-profesional
+    - funcion-publica
+    - marco-normativo-general
+    - ordenacion-escolar
+    path: autonómica/madrid/01_marco_normativo_general_y_organico/D61_2019_reglamento_organico_consejeria_educacion.md
+  norm-mad-l-1-2022:
+    id: norm-mad-l-1-2022
+    codigo_sintetizado: Ley Madrid 1/2022
+    titulo: Ley 1/2022, de 10 de febrero, Maestra de Libertad de Elección Educativa
+      de la Comunidad de Madrid (BOCM n.º 38, de 14 de febrero; BOE n.º 90, de 15
+      de abril).
+    jurisdiccion: Madrid
+    ambito: Autonómico
+    tipo_disposicion: Ley
+    fecha_publicacion: ''
+    estado: Vigente
+    redaccion: original
+    categoria_canonica: 01_marco_normativo_general_y_organico
+    subcategoria: Marco normativo general
+    tags:
+    - admision-alumnado
+    - autonomia-centro
+    - ensenanzas-universitarias
+    - escolarizacion
+    - igualdad-genero
+    - libertad-de-eleccion
+    - libertad-de-ensenanza
+    - marco-normativo-general
+    - proteccion-menores
+    path: autonómica/madrid/01_marco_normativo_general_y_organico/L1_2022_maestra_libertad_eleccion_educativa.md
+  norm-mad-d-23-2023:
+    id: norm-mad-d-23-2023
+    codigo_sintetizado: Decreto BOCM 23/2023
+    titulo: Decreto 23/2023, de 22 de marzo, del Consejo de Gobierno, por el que se
+      regula la ordenación y el currículo de la Educación Secundaria Obligatoria en
+      la Comunidad de Madrid (BOCM n.º 71, de 24 de marzo).
+    jurisdiccion: Madrid
+    ambito: Autonómico
+    tipo_disposicion: Decreto
+    fecha_publicacion: ''
+    estado: Vigente
+    redaccion: original
+    categoria_canonica: 03_ordenacion_curricular_y_ensenanzas
+    subcategoria: ESO
+    tags:
+    - curriculo
+    - eso
+    - evaluacion
+    - ordenacion-academica
+    - promocion
+    path: autonómica/madrid/03_ordenacion_curricular_y_ensenanzas/D23_2023_ordenacion_curriculo_educacion_secundaria_obligatoria.md
+  norm-mad-d-61-2022:
+    id: norm-mad-d-61-2022
+    codigo_sintetizado: Decreto BOCM 61/2022
+    titulo: Decreto 61/2022, de 13 de julio, del Consejo de Gobierno, por el que se
+      establece para la Comunidad de Madrid la ordenación y el currículo de la Educación
+      Primaria (BOCM n.º 167, de 15 de julio).
+    jurisdiccion: Madrid
+    ambito: Autonómico
+    tipo_disposicion: Decreto
+    fecha_publicacion: ''
+    estado: Vigente
+    redaccion: original
+    categoria_canonica: 03_ordenacion_curricular_y_ensenanzas
+    subcategoria: Educación Primaria
+    tags:
+    - competencias-clave
+    - curriculo
+    - educacion-primaria
+    - ensenanzas-artisticas
+    - evaluacion
+    - ordenacion-academica
+    path: autonómica/madrid/03_ordenacion_curricular_y_ensenanzas/D61_2022_ordenacion_curriculo_educacion_primaria.md
+  norm-mad-d-32-2019:
+    id: norm-mad-d-32-2019
+    codigo_sintetizado: Decreto BOCM 32/2019
+    titulo: Decreto 32/2019, de 9 de abril, del Consejo de Gobierno, por el que se
+      establece el Marco Regulador de la Convivencia en los centros docentes sostenidos
+      con fondos públicos de la Comunidad de Madrid (BOCM n.º 88, de 13 de abril).
+    jurisdiccion: Madrid
+    ambito: Autonómico
+    tipo_disposicion: Decreto
+    fecha_publicacion: ''
+    estado: Vigente
+    redaccion: original
+    categoria_canonica: 07_convivencia_bienestar_y_protocolos
+    subcategoria: Convivencia y disciplina
+    tags:
+    - acoso-escolar
+    - convivencia-escolar
+    - derechos-y-deberes
+    - sanciones
+    - uso-dispositivos-moviles
+    path: autonómica/madrid/07_convivencia_bienestar_y_protocolos/D32_2019_marco_regulador_convivencia_centros.md
   norm-es-ce-1978:
     id: norm-es-ce-1978
     codigo_sintetizado: CE_1978 Constitucion Espanola
@@ -8638,11 +8755,6 @@ relaciones_grafo:
   destino: norm-can-res-juriscan-49002-54
   articulos_origen: []
   articulos_destino: []
-- origen: norm-can-l-1-1997
-  tipo: fundamento_de
-  destino: norm-es-2021-11382
-  articulos_origen: []
-  articulos_destino: []
 - origen: norm-can-l-2-1987
   tipo: desarrolla
   destino: norm-es-rdl-5-2015
@@ -8691,11 +8803,6 @@ relaciones_grafo:
 - origen: norm-can-l-2-1987
   tipo: fundamento_de
   destino: norm-can-res-juriscan-64565-138
-  articulos_origen: []
-  articulos_destino: []
-- origen: norm-can-l-2-1987
-  tipo: fundamento_de
-  destino: norm-es-2012-9282
   articulos_origen: []
   articulos_destino: []
 - origen: norm-can-l-4-2023
@@ -9563,46 +9670,6 @@ relaciones_grafo:
   destino: norm-can-res-juriscan-75818-136
   articulos_origen: []
   articulos_destino: []
-- origen: norm-can-l-6-2014
-  tipo: fundamento_de
-  destino: norm-es-2000-5990
-  articulos_origen: []
-  articulos_destino: []
-- origen: norm-can-l-6-2014
-  tipo: fundamento_de
-  destino: norm-es-2002-4371
-  articulos_origen: []
-  articulos_destino: []
-- origen: norm-can-l-6-2014
-  tipo: fundamento_de
-  destino: norm-es-2005-21534
-  articulos_origen: []
-  articulos_destino: []
-- origen: norm-can-l-6-2014
-  tipo: fundamento_de
-  destino: norm-es-2021-979
-  articulos_origen: []
-  articulos_destino: []
-- origen: norm-can-l-6-2014
-  tipo: fundamento_de
-  destino: norm-es-2024-10684
-  articulos_origen: []
-  articulos_destino: []
-- origen: norm-can-l-6-2014
-  tipo: fundamento_de
-  destino: norm-es-2024-10685
-  articulos_origen: []
-  articulos_destino: []
-- origen: norm-can-l-6-2014
-  tipo: fundamento_de
-  destino: norm-es-2025-16039
-  articulos_origen: []
-  articulos_destino: []
-- origen: norm-can-l-6-2014
-  tipo: fundamento_de
-  destino: norm-es-2026-15301
-  articulos_origen: []
-  articulos_destino: []
 - origen: norm-can-lo-1-2018
   tipo: fundamentado_en
   destino: norm-es-ce-1978
@@ -9756,16 +9823,6 @@ relaciones_grafo:
 - origen: norm-can-lo-1-2018
   tipo: fundamento_de
   destino: norm-can-res-boc-2026-141-29
-  articulos_origen: []
-  articulos_destino: []
-- origen: norm-can-lo-1-2018
-  tipo: fundamento_de
-  destino: norm-es-2010-10321
-  articulos_origen: []
-  articulos_destino: []
-- origen: norm-can-lo-1-2018
-  tipo: fundamento_de
-  destino: norm-es-2021-11382
   articulos_origen: []
   articulos_destino: []
 - origen: norm-can-res-boc-2017-020-2
@@ -13613,36 +13670,6 @@ relaciones_grafo:
   destino: norm-can-res-boc-2026-141-29
   articulos_origen: []
   articulos_destino: []
-- origen: norm-can-res-boc-2024-230-25
-  tipo: fundamento_de
-  destino: norm-es-2024-10683
-  articulos_origen: []
-  articulos_destino: []
-- origen: norm-can-res-boc-2024-230-25
-  tipo: fundamento_de
-  destino: norm-es-2024-10684
-  articulos_origen: []
-  articulos_destino: []
-- origen: norm-can-res-boc-2024-230-25
-  tipo: fundamento_de
-  destino: norm-es-2024-10685
-  articulos_origen: []
-  articulos_destino: []
-- origen: norm-can-res-boc-2024-230-25
-  tipo: fundamento_de
-  destino: norm-es-2025-2039
-  articulos_origen: []
-  articulos_destino: []
-- origen: norm-can-res-boc-2024-230-25
-  tipo: fundamento_de
-  destino: norm-es-2026-12038
-  articulos_origen: []
-  articulos_destino: []
-- origen: norm-can-res-boc-2024-230-25
-  tipo: fundamento_de
-  destino: norm-es-rd-659-2023
-  articulos_origen: []
-  articulos_destino: []
 - origen: norm-can-res-059
   tipo: fundamentado_en
   destino: norm-can-d-212-1991
@@ -13851,51 +13878,6 @@ relaciones_grafo:
 - origen: norm-can-d-81-2010
   tipo: fundamento_de
   destino: norm-can-res-juriscan-72788-60
-  articulos_origen: []
-  articulos_destino: []
-- origen: norm-can-d-81-2010
-  tipo: fundamento_de
-  destino: norm-es-1987-11341
-  articulos_origen: []
-  articulos_destino: []
-- origen: norm-can-d-81-2010
-  tipo: fundamento_de
-  destino: norm-es-1987-13494
-  articulos_origen: []
-  articulos_destino: []
-- origen: norm-can-d-81-2010
-  tipo: fundamento_de
-  destino: norm-es-1988-6938
-  articulos_origen: []
-  articulos_destino: []
-- origen: norm-can-d-81-2010
-  tipo: fundamento_de
-  destino: norm-es-1996-10210
-  articulos_origen: []
-  articulos_destino: []
-- origen: norm-can-d-81-2010
-  tipo: fundamento_de
-  destino: norm-es-1999-23750
-  articulos_origen: []
-  articulos_destino: []
-- origen: norm-can-d-81-2010
-  tipo: fundamento_de
-  destino: norm-es-2001-7022
-  articulos_origen: []
-  articulos_destino: []
-- origen: norm-can-d-81-2010
-  tipo: fundamento_de
-  destino: norm-es-2006-21648
-  articulos_origen: []
-  articulos_destino: []
-- origen: norm-can-d-81-2010
-  tipo: fundamento_de
-  destino: norm-es-2018-5111
-  articulos_origen: []
-  articulos_destino: []
-- origen: norm-can-d-81-2010
-  tipo: fundamento_de
-  destino: norm-es-2023-3846
   articulos_origen: []
   articulos_destino: []
 - origen: norm-can-o-2013-10-09
@@ -14746,16 +14728,6 @@ relaciones_grafo:
 - origen: norm-can-d-9-2022
   tipo: fundamento_de
   destino: norm-can-res-boc-2026-039-111
-  articulos_origen: []
-  articulos_destino: []
-- origen: norm-can-d-9-2022
-  tipo: fundamento_de
-  destino: norm-es-1971-1198
-  articulos_origen: []
-  articulos_destino: []
-- origen: norm-can-d-9-2022
-  tipo: fundamento_de
-  destino: norm-es-1985-19457
   articulos_origen: []
   articulos_destino: []
 - origen: norm-can-o-25-2-2003
@@ -16093,46 +16065,6 @@ relaciones_grafo:
   destino: norm-can-lo-1-2018
   articulos_origen: []
   articulos_destino: []
-- origen: norm-can-l-16-2003
-  tipo: fundamento_de
-  destino: norm-es-2007-6115
-  articulos_origen: []
-  articulos_destino: []
-- origen: norm-can-l-16-2003
-  tipo: fundamento_de
-  destino: norm-es-2008-979
-  articulos_origen: []
-  articulos_destino: []
-- origen: norm-can-l-16-2003
-  tipo: fundamento_de
-  destino: norm-es-2010-4518
-  articulos_origen: []
-  articulos_destino: []
-- origen: norm-can-l-16-2003
-  tipo: fundamento_de
-  destino: norm-es-2012-8745
-  articulos_origen: []
-  articulos_destino: []
-- origen: norm-can-l-16-2003
-  tipo: fundamento_de
-  destino: norm-es-2015-8470
-  articulos_origen: []
-  articulos_destino: []
-- origen: norm-can-l-16-2003
-  tipo: fundamento_de
-  destino: norm-es-2021-11382
-  articulos_origen: []
-  articulos_destino: []
-- origen: norm-can-l-16-2003
-  tipo: fundamento_de
-  destino: norm-es-lo-3-2018
-  articulos_origen: []
-  articulos_destino: []
-- origen: norm-can-l-16-2003
-  tipo: fundamento_de
-  destino: norm-es-lo-8-2021
-  articulos_origen: []
-  articulos_destino: []
 - origen: norm-can-res-125
   tipo: fundamentado_en
   destino: norm-can-d-168-2009
@@ -16428,56 +16360,6 @@ relaciones_grafo:
   destino: norm-can-res-boc-2026-141-29
   articulos_origen: []
   articulos_destino: []
-- origen: norm-can-res-134
-  tipo: fundamento_de
-  destino: norm-es-2022-16194
-  articulos_origen: []
-  articulos_destino: []
-- origen: norm-can-res-134
-  tipo: fundamento_de
-  destino: norm-es-2023-9553
-  articulos_origen: []
-  articulos_destino: []
-- origen: norm-can-res-134
-  tipo: fundamento_de
-  destino: norm-es-2024-10683
-  articulos_origen: []
-  articulos_destino: []
-- origen: norm-can-res-134
-  tipo: fundamento_de
-  destino: norm-es-2024-10684
-  articulos_origen: []
-  articulos_destino: []
-- origen: norm-can-res-134
-  tipo: fundamento_de
-  destino: norm-es-2024-10685
-  articulos_origen: []
-  articulos_destino: []
-- origen: norm-can-res-134
-  tipo: fundamento_de
-  destino: norm-es-2024-11613
-  articulos_origen: []
-  articulos_destino: []
-- origen: norm-can-res-134
-  tipo: fundamento_de
-  destino: norm-es-2025-2039
-  articulos_origen: []
-  articulos_destino: []
-- origen: norm-can-res-134
-  tipo: fundamento_de
-  destino: norm-es-2026-12038
-  articulos_origen: []
-  articulos_destino: []
-- origen: norm-can-res-134
-  tipo: fundamento_de
-  destino: norm-es-lo-3-2022
-  articulos_origen: []
-  articulos_destino: []
-- origen: norm-can-res-134
-  tipo: fundamento_de
-  destino: norm-es-rd-659-2023
-  articulos_origen: []
-  articulos_destino: []
 - origen: norm-can-res-juriscan-30668-127
   tipo: fundamentado_en
   destino: norm-can-l-6-2014
@@ -16748,34 +16630,39 @@ relaciones_grafo:
   destino: norm-can-l-6-2014
   articulos_origen: []
   articulos_destino: []
-- origen: norm-es-ce-1978
+- origen: norm-mad-d-61-2019
   tipo: fundamentado_en
+  destino: norm-es-l-40-2015
+  articulos_origen: []
+  articulos_destino: []
+- origen: norm-mad-l-1-2022
+  tipo: desarrolla
+  destino: norm-es-lo-2-2006
+  articulos_origen: []
+  articulos_destino: []
+- origen: norm-mad-d-23-2023
+  tipo: desarrolla
+  destino: norm-es-lo-2-2006
+  articulos_origen: []
+  articulos_destino: []
+- origen: norm-mad-d-61-2022
+  tipo: desarrolla
+  destino: norm-es-lo-2-2006
+  articulos_origen: []
+  articulos_destino: []
+- origen: norm-mad-d-61-2022
+  tipo: desarrolla
+  destino: norm-es-rd-157-2022
+  articulos_origen: []
+  articulos_destino: []
+- origen: norm-mad-d-32-2019
+  tipo: desarrolla
   destino: norm-es-lo-2-2006
   articulos_origen: []
   articulos_destino: []
 - origen: norm-es-ce-1978
-  tipo: fundamento_de
-  destino: norm-can-d-234-1996
-  articulos_origen: []
-  articulos_destino: []
-- origen: norm-es-ce-1978
-  tipo: fundamento_de
-  destino: norm-can-l-1-1997
-  articulos_origen: []
-  articulos_destino: []
-- origen: norm-es-ce-1978
-  tipo: fundamento_de
-  destino: norm-can-l-14-1990
-  articulos_origen: []
-  articulos_destino: []
-- origen: norm-es-ce-1978
-  tipo: fundamento_de
-  destino: norm-can-l-6-2014
-  articulos_origen: []
-  articulos_destino: []
-- origen: norm-es-ce-1978
-  tipo: fundamento_de
-  destino: norm-can-lo-1-2018
+  tipo: fundamentado_en
+  destino: norm-es-lo-2-2006
   articulos_origen: []
   articulos_destino: []
 - origen: norm-es-ce-1978
@@ -17175,11 +17062,6 @@ relaciones_grafo:
   articulos_destino: []
 - origen: norm-es-l-19-2013
   tipo: fundamento_de
-  destino: norm-can-o-2023-09-28
-  articulos_origen: []
-  articulos_destino: []
-- origen: norm-es-l-19-2013
-  tipo: fundamento_de
   destino: norm-es-l-39-2015
   articulos_origen: []
   articulos_destino: []
@@ -17201,11 +17083,6 @@ relaciones_grafo:
 - origen: norm-es-1991-342
   tipo: fundamentado_en
   destino: norm-es-lo-2-2006
-  articulos_origen: []
-  articulos_destino: []
-- origen: norm-es-2015-8470
-  tipo: fundamentado_en
-  destino: norm-can-l-16-2003
   articulos_origen: []
   articulos_destino: []
 - origen: norm-es-2015-8470
@@ -17265,11 +17142,6 @@ relaciones_grafo:
   articulos_destino: []
 - origen: norm-es-2015-8470
   tipo: fundamento_de
-  destino: norm-can-res-boc-2017-132-1
-  articulos_origen: []
-  articulos_destino: []
-- origen: norm-es-2015-8470
-  tipo: fundamento_de
   destino: norm-es-lo-8-2021
   articulos_origen: []
   articulos_destino: []
@@ -17281,26 +17153,6 @@ relaciones_grafo:
 - origen: norm-es-1984-17387
   tipo: fundamentado_en
   destino: norm-es-ce-1978
-  articulos_origen: []
-  articulos_destino: []
-- origen: norm-es-1984-17387
-  tipo: fundamento_de
-  destino: norm-can-d-109-1999
-  articulos_origen: []
-  articulos_destino: []
-- origen: norm-es-1984-17387
-  tipo: fundamento_de
-  destino: norm-can-l-2-1987
-  articulos_origen: []
-  articulos_destino: []
-- origen: norm-es-1984-17387
-  tipo: fundamento_de
-  destino: norm-can-res-boc-1996-057-140
-  articulos_origen: []
-  articulos_destino: []
-- origen: norm-es-1984-17387
-  tipo: fundamento_de
-  destino: norm-can-res-juriscan-49002-54
   articulos_origen: []
   articulos_destino: []
 - origen: norm-es-1984-17387
@@ -17431,316 +17283,6 @@ relaciones_grafo:
 - origen: norm-es-l-39-2015
   tipo: fundamentado_en
   destino: norm-es-l-19-2013
-  articulos_origen: []
-  articulos_destino: []
-- origen: norm-es-l-39-2015
-  tipo: fundamento_de
-  destino: norm-can-d-101-2023
-  articulos_origen: []
-  articulos_destino: []
-- origen: norm-es-l-39-2015
-  tipo: fundamento_de
-  destino: norm-can-d-102-2023
-  articulos_origen: []
-  articulos_destino: []
-- origen: norm-es-l-39-2015
-  tipo: fundamento_de
-  destino: norm-can-d-196-2022
-  articulos_origen: []
-  articulos_destino: []
-- origen: norm-es-l-39-2015
-  tipo: fundamento_de
-  destino: norm-can-d-25-2018
-  articulos_origen: []
-  articulos_destino: []
-- origen: norm-es-l-39-2015
-  tipo: fundamento_de
-  destino: norm-can-d-84-2024
-  articulos_origen: []
-  articulos_destino: []
-- origen: norm-es-l-39-2015
-  tipo: fundamento_de
-  destino: norm-can-l-4-2023
-  articulos_origen: []
-  articulos_destino: []
-- origen: norm-es-l-39-2015
-  tipo: fundamento_de
-  destino: norm-can-o-1-9-2010
-  articulos_origen: []
-  articulos_destino: []
-- origen: norm-es-l-39-2015
-  tipo: fundamento_de
-  destino: norm-can-o-2023-09-28
-  articulos_origen: []
-  articulos_destino: []
-- origen: norm-es-l-39-2015
-  tipo: fundamento_de
-  destino: norm-can-res-028
-  articulos_origen: []
-  articulos_destino: []
-- origen: norm-es-l-39-2015
-  tipo: fundamento_de
-  destino: norm-can-res-032
-  articulos_origen: []
-  articulos_destino: []
-- origen: norm-es-l-39-2015
-  tipo: fundamento_de
-  destino: norm-can-res-033
-  articulos_origen: []
-  articulos_destino: []
-- origen: norm-es-l-39-2015
-  tipo: fundamento_de
-  destino: norm-can-res-034
-  articulos_origen: []
-  articulos_destino: []
-- origen: norm-es-l-39-2015
-  tipo: fundamento_de
-  destino: norm-can-res-035
-  articulos_origen: []
-  articulos_destino: []
-- origen: norm-es-l-39-2015
-  tipo: fundamento_de
-  destino: norm-can-res-036
-  articulos_origen: []
-  articulos_destino: []
-- origen: norm-es-l-39-2015
-  tipo: fundamento_de
-  destino: norm-can-res-037
-  articulos_origen: []
-  articulos_destino: []
-- origen: norm-es-l-39-2015
-  tipo: fundamento_de
-  destino: norm-can-res-038
-  articulos_origen: []
-  articulos_destino: []
-- origen: norm-es-l-39-2015
-  tipo: fundamento_de
-  destino: norm-can-res-039
-  articulos_origen: []
-  articulos_destino: []
-- origen: norm-es-l-39-2015
-  tipo: fundamento_de
-  destino: norm-can-res-043
-  articulos_origen: []
-  articulos_destino: []
-- origen: norm-es-l-39-2015
-  tipo: fundamento_de
-  destino: norm-can-res-095
-  articulos_origen: []
-  articulos_destino: []
-- origen: norm-es-l-39-2015
-  tipo: fundamento_de
-  destino: norm-can-res-096
-  articulos_origen: []
-  articulos_destino: []
-- origen: norm-es-l-39-2015
-  tipo: fundamento_de
-  destino: norm-can-res-097
-  articulos_origen: []
-  articulos_destino: []
-- origen: norm-es-l-39-2015
-  tipo: fundamento_de
-  destino: norm-can-res-098
-  articulos_origen: []
-  articulos_destino: []
-- origen: norm-es-l-39-2015
-  tipo: fundamento_de
-  destino: norm-can-res-099
-  articulos_origen: []
-  articulos_destino: []
-- origen: norm-es-l-39-2015
-  tipo: fundamento_de
-  destino: norm-can-res-110
-  articulos_origen: []
-  articulos_destino: []
-- origen: norm-es-l-39-2015
-  tipo: fundamento_de
-  destino: norm-can-res-112
-  articulos_origen: []
-  articulos_destino: []
-- origen: norm-es-l-39-2015
-  tipo: fundamento_de
-  destino: norm-can-res-119
-  articulos_origen: []
-  articulos_destino: []
-- origen: norm-es-l-39-2015
-  tipo: fundamento_de
-  destino: norm-can-res-125
-  articulos_origen: []
-  articulos_destino: []
-- origen: norm-es-l-39-2015
-  tipo: fundamento_de
-  destino: norm-can-res-boc-2011-099-72
-  articulos_origen: []
-  articulos_destino: []
-- origen: norm-es-l-39-2015
-  tipo: fundamento_de
-  destino: norm-can-res-boc-2017-169-100
-  articulos_origen: []
-  articulos_destino: []
-- origen: norm-es-l-39-2015
-  tipo: fundamento_de
-  destino: norm-can-res-boc-2017-235-5
-  articulos_origen: []
-  articulos_destino: []
-- origen: norm-es-l-39-2015
-  tipo: fundamento_de
-  destino: norm-can-res-boc-2018-048-56
-  articulos_origen: []
-  articulos_destino: []
-- origen: norm-es-l-39-2015
-  tipo: fundamento_de
-  destino: norm-can-res-boc-2018-086-122
-  articulos_origen: []
-  articulos_destino: []
-- origen: norm-es-l-39-2015
-  tipo: fundamento_de
-  destino: norm-can-res-boc-2018-106-114
-  articulos_origen: []
-  articulos_destino: []
-- origen: norm-es-l-39-2015
-  tipo: fundamento_de
-  destino: norm-can-res-boc-2018-127-9
-  articulos_origen: []
-  articulos_destino: []
-- origen: norm-es-l-39-2015
-  tipo: fundamento_de
-  destino: norm-can-res-boc-2018-220-18
-  articulos_origen: []
-  articulos_destino: []
-- origen: norm-es-l-39-2015
-  tipo: fundamento_de
-  destino: norm-can-res-boc-2018-220-19
-  articulos_origen: []
-  articulos_destino: []
-- origen: norm-es-l-39-2015
-  tipo: fundamento_de
-  destino: norm-can-res-boc-2019-016-12
-  articulos_origen: []
-  articulos_destino: []
-- origen: norm-es-l-39-2015
-  tipo: fundamento_de
-  destino: norm-can-res-boc-2019-016-13
-  articulos_origen: []
-  articulos_destino: []
-- origen: norm-es-l-39-2015
-  tipo: fundamento_de
-  destino: norm-can-res-boc-2019-024-22
-  articulos_origen: []
-  articulos_destino: []
-- origen: norm-es-l-39-2015
-  tipo: fundamento_de
-  destino: norm-can-res-boc-2019-067-11
-  articulos_origen: []
-  articulos_destino: []
-- origen: norm-es-l-39-2015
-  tipo: fundamento_de
-  destino: norm-can-res-boc-2019-069-48
-  articulos_origen: []
-  articulos_destino: []
-- origen: norm-es-l-39-2015
-  tipo: fundamento_de
-  destino: norm-can-res-boc-2019-143-74
-  articulos_origen: []
-  articulos_destino: []
-- origen: norm-es-l-39-2015
-  tipo: fundamento_de
-  destino: norm-can-res-boc-2019-234-52
-  articulos_origen: []
-  articulos_destino: []
-- origen: norm-es-l-39-2015
-  tipo: fundamento_de
-  destino: norm-can-res-boc-2022-138-7
-  articulos_origen: []
-  articulos_destino: []
-- origen: norm-es-l-39-2015
-  tipo: fundamento_de
-  destino: norm-can-res-boc-2022-158-21
-  articulos_origen: []
-  articulos_destino: []
-- origen: norm-es-l-39-2015
-  tipo: fundamento_de
-  destino: norm-can-res-boc-2025-061-106
-  articulos_origen: []
-  articulos_destino: []
-- origen: norm-es-l-39-2015
-  tipo: fundamento_de
-  destino: norm-can-res-boc-2025-061-88
-  articulos_origen: []
-  articulos_destino: []
-- origen: norm-es-l-39-2015
-  tipo: fundamento_de
-  destino: norm-can-res-boc-2025-094-137
-  articulos_origen: []
-  articulos_destino: []
-- origen: norm-es-l-39-2015
-  tipo: fundamento_de
-  destino: norm-can-res-boc-2026-037-105
-  articulos_origen: []
-  articulos_destino: []
-- origen: norm-es-l-39-2015
-  tipo: fundamento_de
-  destino: norm-can-res-boc-2026-046-139
-  articulos_origen: []
-  articulos_destino: []
-- origen: norm-es-l-39-2015
-  tipo: fundamento_de
-  destino: norm-can-res-boc-2026-060-61
-  articulos_origen: []
-  articulos_destino: []
-- origen: norm-es-l-39-2015
-  tipo: fundamento_de
-  destino: norm-can-res-boc-2026-070-115
-  articulos_origen: []
-  articulos_destino: []
-- origen: norm-es-l-39-2015
-  tipo: fundamento_de
-  destino: norm-can-res-boc-2026-070-116
-  articulos_origen: []
-  articulos_destino: []
-- origen: norm-es-l-39-2015
-  tipo: fundamento_de
-  destino: norm-can-res-boc-2026-073-113
-  articulos_origen: []
-  articulos_destino: []
-- origen: norm-es-l-39-2015
-  tipo: fundamento_de
-  destino: norm-can-res-boc-2026-075-85
-  articulos_origen: []
-  articulos_destino: []
-- origen: norm-es-l-39-2015
-  tipo: fundamento_de
-  destino: norm-can-res-boc-2026-129-26
-  articulos_origen: []
-  articulos_destino: []
-- origen: norm-es-l-39-2015
-  tipo: fundamento_de
-  destino: norm-can-res-boc-2026-132-101
-  articulos_origen: []
-  articulos_destino: []
-- origen: norm-es-l-39-2015
-  tipo: fundamento_de
-  destino: norm-can-res-juriscan-64565-138
-  articulos_origen: []
-  articulos_destino: []
-- origen: norm-es-l-39-2015
-  tipo: fundamento_de
-  destino: norm-can-res-juriscan-65632-66
-  articulos_origen: []
-  articulos_destino: []
-- origen: norm-es-l-39-2015
-  tipo: fundamento_de
-  destino: norm-can-res-juriscan-72176-78
-  articulos_origen: []
-  articulos_destino: []
-- origen: norm-es-l-39-2015
-  tipo: fundamento_de
-  destino: norm-can-res-juriscan-75527-17
-  articulos_origen: []
-  articulos_destino: []
-- origen: norm-es-l-39-2015
-  tipo: fundamento_de
-  destino: norm-can-res-juriscan-75634-6
   articulos_origen: []
   articulos_destino: []
 - origen: norm-es-l-39-2015
@@ -17955,41 +17497,6 @@ relaciones_grafo:
   articulos_destino: []
 - origen: norm-es-l-40-2015
   tipo: desarrollado_por
-  destino: norm-can-res-098
-  articulos_origen: []
-  articulos_destino: []
-- origen: norm-es-l-40-2015
-  tipo: desarrollado_por
-  destino: norm-can-res-boc-2017-235-5
-  articulos_origen: []
-  articulos_destino: []
-- origen: norm-es-l-40-2015
-  tipo: desarrollado_por
-  destino: norm-can-res-boc-2019-016-12
-  articulos_origen: []
-  articulos_destino: []
-- origen: norm-es-l-40-2015
-  tipo: desarrollado_por
-  destino: norm-can-res-boc-2019-016-13
-  articulos_origen: []
-  articulos_destino: []
-- origen: norm-es-l-40-2015
-  tipo: desarrollado_por
-  destino: norm-can-res-boc-2019-067-11
-  articulos_origen: []
-  articulos_destino: []
-- origen: norm-es-l-40-2015
-  tipo: desarrollado_por
-  destino: norm-can-res-boc-2022-138-7
-  articulos_origen: []
-  articulos_destino: []
-- origen: norm-es-l-40-2015
-  tipo: desarrollado_por
-  destino: norm-can-res-juriscan-75634-6
-  articulos_origen: []
-  articulos_destino: []
-- origen: norm-es-l-40-2015
-  tipo: desarrollado_por
   destino: norm-es-l-39-2015
   articulos_origen: []
   articulos_destino: []
@@ -18036,106 +17543,6 @@ relaciones_grafo:
 - origen: norm-es-l-40-2015
   tipo: fundamentado_en
   destino: norm-es-l-53-1984
-  articulos_origen: []
-  articulos_destino: []
-- origen: norm-es-l-40-2015
-  tipo: fundamento_de
-  destino: norm-can-d-84-2024
-  articulos_origen: []
-  articulos_destino: []
-- origen: norm-es-l-40-2015
-  tipo: fundamento_de
-  destino: norm-can-o-2023-09-28
-  articulos_origen: []
-  articulos_destino: []
-- origen: norm-es-l-40-2015
-  tipo: fundamento_de
-  destino: norm-can-res-014
-  articulos_origen: []
-  articulos_destino: []
-- origen: norm-es-l-40-2015
-  tipo: fundamento_de
-  destino: norm-can-res-028
-  articulos_origen: []
-  articulos_destino: []
-- origen: norm-es-l-40-2015
-  tipo: fundamento_de
-  destino: norm-can-res-095
-  articulos_origen: []
-  articulos_destino: []
-- origen: norm-es-l-40-2015
-  tipo: fundamento_de
-  destino: norm-can-res-096
-  articulos_origen: []
-  articulos_destino: []
-- origen: norm-es-l-40-2015
-  tipo: fundamento_de
-  destino: norm-can-res-097
-  articulos_origen: []
-  articulos_destino: []
-- origen: norm-es-l-40-2015
-  tipo: fundamento_de
-  destino: norm-can-res-099
-  articulos_origen: []
-  articulos_destino: []
-- origen: norm-es-l-40-2015
-  tipo: fundamento_de
-  destino: norm-can-res-125
-  articulos_origen: []
-  articulos_destino: []
-- origen: norm-es-l-40-2015
-  tipo: fundamento_de
-  destino: norm-can-res-boc-2017-020-2
-  articulos_origen: []
-  articulos_destino: []
-- origen: norm-es-l-40-2015
-  tipo: fundamento_de
-  destino: norm-can-res-boc-2017-061-4
-  articulos_origen: []
-  articulos_destino: []
-- origen: norm-es-l-40-2015
-  tipo: fundamento_de
-  destino: norm-can-res-boc-2017-132-1
-  articulos_origen: []
-  articulos_destino: []
-- origen: norm-es-l-40-2015
-  tipo: fundamento_de
-  destino: norm-can-res-boc-2018-086-122
-  articulos_origen: []
-  articulos_destino: []
-- origen: norm-es-l-40-2015
-  tipo: fundamento_de
-  destino: norm-can-res-boc-2018-124-126
-  articulos_origen: []
-  articulos_destino: []
-- origen: norm-es-l-40-2015
-  tipo: fundamento_de
-  destino: norm-can-res-boc-2018-127-9
-  articulos_origen: []
-  articulos_destino: []
-- origen: norm-es-l-40-2015
-  tipo: fundamento_de
-  destino: norm-can-res-boc-2021-038-3
-  articulos_origen: []
-  articulos_destino: []
-- origen: norm-es-l-40-2015
-  tipo: fundamento_de
-  destino: norm-can-res-boc-2025-118-46
-  articulos_origen: []
-  articulos_destino: []
-- origen: norm-es-l-40-2015
-  tipo: fundamento_de
-  destino: norm-can-res-boc-2026-046-139
-  articulos_origen: []
-  articulos_destino: []
-- origen: norm-es-l-40-2015
-  tipo: fundamento_de
-  destino: norm-can-res-boc-2026-060-61
-  articulos_origen: []
-  articulos_destino: []
-- origen: norm-es-l-40-2015
-  tipo: fundamento_de
-  destino: norm-can-res-boc-2026-129-26
   articulos_origen: []
   articulos_destino: []
 - origen: norm-es-l-40-2015
@@ -18200,11 +17607,6 @@ relaciones_grafo:
   articulos_destino: []
 - origen: norm-es-l-53-1984
   tipo: fundamento_de
-  destino: norm-can-o-1-9-2010
-  articulos_origen: []
-  articulos_destino: []
-- origen: norm-es-l-53-1984
-  tipo: fundamento_de
   destino: norm-es-1985-7820
   articulos_origen: []
   articulos_destino: []
@@ -18260,11 +17662,6 @@ relaciones_grafo:
   articulos_destino: []
 - origen: norm-es-1995-25444
   tipo: fundamento_de
-  destino: norm-can-res-boc-2026-129-26
-  articulos_origen: []
-  articulos_destino: []
-- origen: norm-es-1995-25444
-  tipo: fundamento_de
   destino: norm-es-2004-15601
   articulos_origen: []
   articulos_destino: []
@@ -18313,11 +17710,6 @@ relaciones_grafo:
   destino: norm-es-lo-5-2000
   articulos_origen: []
   articulos_destino: []
-- origen: norm-es-2004-15601
-  tipo: fundamento_de
-  destino: norm-can-res-juriscan-71394-16
-  articulos_origen: []
-  articulos_destino: []
 - origen: norm-es-lo-1-1982
   tipo: fundamentado_en
   destino: norm-es-ce-1978
@@ -18339,11 +17731,6 @@ relaciones_grafo:
   articulos_origen: []
   articulos_destino: []
 - origen: norm-es-lo-1-1996
-  tipo: desarrollado_por
-  destino: norm-can-l-1-1997
-  articulos_origen: []
-  articulos_destino: []
-- origen: norm-es-lo-1-1996
   tipo: fundamentado_en
   destino: norm-es-ce-1978
   articulos_origen: []
@@ -18351,16 +17738,6 @@ relaciones_grafo:
 - origen: norm-es-lo-1-1996
   tipo: fundamentado_en
   destino: norm-es-lo-1-1982
-  articulos_origen: []
-  articulos_destino: []
-- origen: norm-es-lo-1-1996
-  tipo: fundamento_de
-  destino: norm-can-res-boc-2018-086-122
-  articulos_origen: []
-  articulos_destino: []
-- origen: norm-es-lo-1-1996
-  tipo: fundamento_de
-  destino: norm-can-res-boc-2024-230-25
   articulos_origen: []
   articulos_destino: []
 - origen: norm-es-lo-1-1996
@@ -18396,46 +17773,6 @@ relaciones_grafo:
 - origen: norm-es-lo-1-1996
   tipo: fundamento_de
   destino: norm-es-lo-8-2021
-  articulos_origen: []
-  articulos_destino: []
-- origen: norm-es-lo-2-2006
-  tipo: desarrollado_por
-  destino: norm-can-d-106-2009
-  articulos_origen: []
-  articulos_destino: []
-- origen: norm-es-lo-2-2006
-  tipo: desarrollado_por
-  destino: norm-can-d-23-1995
-  articulos_origen: []
-  articulos_destino: []
-- origen: norm-es-lo-2-2006
-  tipo: desarrollado_por
-  destino: norm-can-d-25-2018
-  articulos_origen: []
-  articulos_destino: []
-- origen: norm-es-lo-2-2006
-  tipo: desarrollado_por
-  destino: norm-can-d-276-1997
-  articulos_origen: []
-  articulos_destino: []
-- origen: norm-es-lo-2-2006
-  tipo: desarrollado_por
-  destino: norm-can-d-52-2009
-  articulos_origen: []
-  articulos_destino: []
-- origen: norm-es-lo-2-2006
-  tipo: desarrollado_por
-  destino: norm-can-d-9-2022
-  articulos_origen: []
-  articulos_destino: []
-- origen: norm-es-lo-2-2006
-  tipo: desarrollado_por
-  destino: norm-can-l-6-2014
-  articulos_origen: []
-  articulos_destino: []
-- origen: norm-es-lo-2-2006
-  tipo: desarrollado_por
-  destino: norm-can-o-7-6-2007
   articulos_origen: []
   articulos_destino: []
 - origen: norm-es-lo-2-2006
@@ -18536,416 +17873,6 @@ relaciones_grafo:
 - origen: norm-es-lo-2-2006
   tipo: fundamentado_en
   destino: norm-es-lo-8-1985
-  articulos_origen: []
-  articulos_destino: []
-- origen: norm-es-lo-2-2006
-  tipo: fundamento_de
-  destino: norm-can-d-101-2023
-  articulos_origen: []
-  articulos_destino: []
-- origen: norm-es-lo-2-2006
-  tipo: fundamento_de
-  destino: norm-can-d-102-2023
-  articulos_origen: []
-  articulos_destino: []
-- origen: norm-es-lo-2-2006
-  tipo: fundamento_de
-  destino: norm-can-d-103-2023
-  articulos_origen: []
-  articulos_destino: []
-- origen: norm-es-lo-2-2006
-  tipo: fundamento_de
-  destino: norm-can-d-109-1999
-  articulos_origen: []
-  articulos_destino: []
-- origen: norm-es-lo-2-2006
-  tipo: fundamento_de
-  destino: norm-can-d-114-2011
-  articulos_origen: []
-  articulos_destino: []
-- origen: norm-es-lo-2-2006
-  tipo: fundamento_de
-  destino: norm-can-d-196-2022
-  articulos_origen: []
-  articulos_destino: []
-- origen: norm-es-lo-2-2006
-  tipo: fundamento_de
-  destino: norm-can-d-81-2010
-  articulos_origen: []
-  articulos_destino: []
-- origen: norm-es-lo-2-2006
-  tipo: fundamento_de
-  destino: norm-can-o-2-8-2006
-  articulos_origen: []
-  articulos_destino: []
-- origen: norm-es-lo-2-2006
-  tipo: fundamento_de
-  destino: norm-can-o-2013-10-09
-  articulos_origen: []
-  articulos_destino: []
-- origen: norm-es-lo-2-2006
-  tipo: fundamento_de
-  destino: norm-can-o-2023-09-28
-  articulos_origen: []
-  articulos_destino: []
-- origen: norm-es-lo-2-2006
-  tipo: fundamento_de
-  destino: norm-can-res-014
-  articulos_origen: []
-  articulos_destino: []
-- origen: norm-es-lo-2-2006
-  tipo: fundamento_de
-  destino: norm-can-res-027
-  articulos_origen: []
-  articulos_destino: []
-- origen: norm-es-lo-2-2006
-  tipo: fundamento_de
-  destino: norm-can-res-040
-  articulos_origen: []
-  articulos_destino: []
-- origen: norm-es-lo-2-2006
-  tipo: fundamento_de
-  destino: norm-can-res-043
-  articulos_origen: []
-  articulos_destino: []
-- origen: norm-es-lo-2-2006
-  tipo: fundamento_de
-  destino: norm-can-res-053
-  articulos_origen: []
-  articulos_destino: []
-- origen: norm-es-lo-2-2006
-  tipo: fundamento_de
-  destino: norm-can-res-055
-  articulos_origen: []
-  articulos_destino: []
-- origen: norm-es-lo-2-2006
-  tipo: fundamento_de
-  destino: norm-can-res-059
-  articulos_origen: []
-  articulos_destino: []
-- origen: norm-es-lo-2-2006
-  tipo: fundamento_de
-  destino: norm-can-res-063
-  articulos_origen: []
-  articulos_destino: []
-- origen: norm-es-lo-2-2006
-  tipo: fundamento_de
-  destino: norm-can-res-090
-  articulos_origen: []
-  articulos_destino: []
-- origen: norm-es-lo-2-2006
-  tipo: fundamento_de
-  destino: norm-can-res-095
-  articulos_origen: []
-  articulos_destino: []
-- origen: norm-es-lo-2-2006
-  tipo: fundamento_de
-  destino: norm-can-res-096
-  articulos_origen: []
-  articulos_destino: []
-- origen: norm-es-lo-2-2006
-  tipo: fundamento_de
-  destino: norm-can-res-097
-  articulos_origen: []
-  articulos_destino: []
-- origen: norm-es-lo-2-2006
-  tipo: fundamento_de
-  destino: norm-can-res-098
-  articulos_origen: []
-  articulos_destino: []
-- origen: norm-es-lo-2-2006
-  tipo: fundamento_de
-  destino: norm-can-res-099
-  articulos_origen: []
-  articulos_destino: []
-- origen: norm-es-lo-2-2006
-  tipo: fundamento_de
-  destino: norm-can-res-134
-  articulos_origen: []
-  articulos_destino: []
-- origen: norm-es-lo-2-2006
-  tipo: fundamento_de
-  destino: norm-can-res-135
-  articulos_origen: []
-  articulos_destino: []
-- origen: norm-es-lo-2-2006
-  tipo: fundamento_de
-  destino: norm-can-res-boc-2011-099-72
-  articulos_origen: []
-  articulos_destino: []
-- origen: norm-es-lo-2-2006
-  tipo: fundamento_de
-  destino: norm-can-res-boc-2017-036-71
-  articulos_origen: []
-  articulos_destino: []
-- origen: norm-es-lo-2-2006
-  tipo: fundamento_de
-  destino: norm-can-res-boc-2017-036-75
-  articulos_origen: []
-  articulos_destino: []
-- origen: norm-es-lo-2-2006
-  tipo: fundamento_de
-  destino: norm-can-res-boc-2017-132-1
-  articulos_origen: []
-  articulos_destino: []
-- origen: norm-es-lo-2-2006
-  tipo: fundamento_de
-  destino: norm-can-res-boc-2017-220-70
-  articulos_origen: []
-  articulos_destino: []
-- origen: norm-es-lo-2-2006
-  tipo: fundamento_de
-  destino: norm-can-res-boc-2018-048-56
-  articulos_origen: []
-  articulos_destino: []
-- origen: norm-es-lo-2-2006
-  tipo: fundamento_de
-  destino: norm-can-res-boc-2018-086-122
-  articulos_origen: []
-  articulos_destino: []
-- origen: norm-es-lo-2-2006
-  tipo: fundamento_de
-  destino: norm-can-res-boc-2018-106-114
-  articulos_origen: []
-  articulos_destino: []
-- origen: norm-es-lo-2-2006
-  tipo: fundamento_de
-  destino: norm-can-res-boc-2018-124-126
-  articulos_origen: []
-  articulos_destino: []
-- origen: norm-es-lo-2-2006
-  tipo: fundamento_de
-  destino: norm-can-res-boc-2019-024-22
-  articulos_origen: []
-  articulos_destino: []
-- origen: norm-es-lo-2-2006
-  tipo: fundamento_de
-  destino: norm-can-res-boc-2019-069-48
-  articulos_origen: []
-  articulos_destino: []
-- origen: norm-es-lo-2-2006
-  tipo: fundamento_de
-  destino: norm-can-res-boc-2019-143-74
-  articulos_origen: []
-  articulos_destino: []
-- origen: norm-es-lo-2-2006
-  tipo: fundamento_de
-  destino: norm-can-res-boc-2019-234-52
-  articulos_origen: []
-  articulos_destino: []
-- origen: norm-es-lo-2-2006
-  tipo: fundamento_de
-  destino: norm-can-res-boc-2020-130-131
-  articulos_origen: []
-  articulos_destino: []
-- origen: norm-es-lo-2-2006
-  tipo: fundamento_de
-  destino: norm-can-res-boc-2020-236-82
-  articulos_origen: []
-  articulos_destino: []
-- origen: norm-es-lo-2-2006
-  tipo: fundamento_de
-  destino: norm-can-res-boc-2020-257-24
-  articulos_origen: []
-  articulos_destino: []
-- origen: norm-es-lo-2-2006
-  tipo: fundamento_de
-  destino: norm-can-res-boc-2021-038-3
-  articulos_origen: []
-  articulos_destino: []
-- origen: norm-es-lo-2-2006
-  tipo: fundamento_de
-  destino: norm-can-res-boc-2021-109-79
-  articulos_origen: []
-  articulos_destino: []
-- origen: norm-es-lo-2-2006
-  tipo: fundamento_de
-  destino: norm-can-res-boc-2021-114-80
-  articulos_origen: []
-  articulos_destino: []
-- origen: norm-es-lo-2-2006
-  tipo: fundamento_de
-  destino: norm-can-res-boc-2022-087-31
-  articulos_origen: []
-  articulos_destino: []
-- origen: norm-es-lo-2-2006
-  tipo: fundamento_de
-  destino: norm-can-res-boc-2022-143-23
-  articulos_origen: []
-  articulos_destino: []
-- origen: norm-es-lo-2-2006
-  tipo: fundamento_de
-  destino: norm-can-res-boc-2022-158-21
-  articulos_origen: []
-  articulos_destino: []
-- origen: norm-es-lo-2-2006
-  tipo: fundamento_de
-  destino: norm-can-res-boc-2023-085-51
-  articulos_origen: []
-  articulos_destino: []
-- origen: norm-es-lo-2-2006
-  tipo: fundamento_de
-  destino: norm-can-res-boc-2023-133-57
-  articulos_origen: []
-  articulos_destino: []
-- origen: norm-es-lo-2-2006
-  tipo: fundamento_de
-  destino: norm-can-res-boc-2024-049-109
-  articulos_origen: []
-  articulos_destino: []
-- origen: norm-es-lo-2-2006
-  tipo: fundamento_de
-  destino: norm-can-res-boc-2024-117-93
-  articulos_origen: []
-  articulos_destino: []
-- origen: norm-es-lo-2-2006
-  tipo: fundamento_de
-  destino: norm-can-res-boc-2024-125-91
-  articulos_origen: []
-  articulos_destino: []
-- origen: norm-es-lo-2-2006
-  tipo: fundamento_de
-  destino: norm-can-res-boc-2024-226-44
-  articulos_origen: []
-  articulos_destino: []
-- origen: norm-es-lo-2-2006
-  tipo: fundamento_de
-  destino: norm-can-res-boc-2024-230-25
-  articulos_origen: []
-  articulos_destino: []
-- origen: norm-es-lo-2-2006
-  tipo: fundamento_de
-  destino: norm-can-res-boc-2025-039-104
-  articulos_origen: []
-  articulos_destino: []
-- origen: norm-es-lo-2-2006
-  tipo: fundamento_de
-  destino: norm-can-res-boc-2025-044-89
-  articulos_origen: []
-  articulos_destino: []
-- origen: norm-es-lo-2-2006
-  tipo: fundamento_de
-  destino: norm-can-res-boc-2025-046-47
-  articulos_origen: []
-  articulos_destino: []
-- origen: norm-es-lo-2-2006
-  tipo: fundamento_de
-  destino: norm-can-res-boc-2025-047-107
-  articulos_origen: []
-  articulos_destino: []
-- origen: norm-es-lo-2-2006
-  tipo: fundamento_de
-  destino: norm-can-res-boc-2025-047-108
-  articulos_origen: []
-  articulos_destino: []
-- origen: norm-es-lo-2-2006
-  tipo: fundamento_de
-  destino: norm-can-res-boc-2025-118-46
-  articulos_origen: []
-  articulos_destino: []
-- origen: norm-es-lo-2-2006
-  tipo: fundamento_de
-  destino: norm-can-res-boc-2026-039-102
-  articulos_origen: []
-  articulos_destino: []
-- origen: norm-es-lo-2-2006
-  tipo: fundamento_de
-  destino: norm-can-res-boc-2026-039-103
-  articulos_origen: []
-  articulos_destino: []
-- origen: norm-es-lo-2-2006
-  tipo: fundamento_de
-  destino: norm-can-res-boc-2026-039-111
-  articulos_origen: []
-  articulos_destino: []
-- origen: norm-es-lo-2-2006
-  tipo: fundamento_de
-  destino: norm-can-res-boc-2026-060-61
-  articulos_origen: []
-  articulos_destino: []
-- origen: norm-es-lo-2-2006
-  tipo: fundamento_de
-  destino: norm-can-res-boc-2026-070-115
-  articulos_origen: []
-  articulos_destino: []
-- origen: norm-es-lo-2-2006
-  tipo: fundamento_de
-  destino: norm-can-res-boc-2026-070-116
-  articulos_origen: []
-  articulos_destino: []
-- origen: norm-es-lo-2-2006
-  tipo: fundamento_de
-  destino: norm-can-res-boc-2026-070-41
-  articulos_origen: []
-  articulos_destino: []
-- origen: norm-es-lo-2-2006
-  tipo: fundamento_de
-  destino: norm-can-res-boc-2026-077-49
-  articulos_origen: []
-  articulos_destino: []
-- origen: norm-es-lo-2-2006
-  tipo: fundamento_de
-  destino: norm-can-res-boc-2026-077-62
-  articulos_origen: []
-  articulos_destino: []
-- origen: norm-es-lo-2-2006
-  tipo: fundamento_de
-  destino: norm-can-res-boc-2026-109-92
-  articulos_origen: []
-  articulos_destino: []
-- origen: norm-es-lo-2-2006
-  tipo: fundamento_de
-  destino: norm-can-res-boc-2026-116-87
-  articulos_origen: []
-  articulos_destino: []
-- origen: norm-es-lo-2-2006
-  tipo: fundamento_de
-  destino: norm-can-res-boc-2026-129-26
-  articulos_origen: []
-  articulos_destino: []
-- origen: norm-es-lo-2-2006
-  tipo: fundamento_de
-  destino: norm-can-res-boc-2026-141-29
-  articulos_origen: []
-  articulos_destino: []
-- origen: norm-es-lo-2-2006
-  tipo: fundamento_de
-  destino: norm-can-res-juriscan-64838-121
-  articulos_origen: []
-  articulos_destino: []
-- origen: norm-es-lo-2-2006
-  tipo: fundamento_de
-  destino: norm-can-res-juriscan-65631-68
-  articulos_origen: []
-  articulos_destino: []
-- origen: norm-es-lo-2-2006
-  tipo: fundamento_de
-  destino: norm-can-res-juriscan-66772-94
-  articulos_origen: []
-  articulos_destino: []
-- origen: norm-es-lo-2-2006
-  tipo: fundamento_de
-  destino: norm-can-res-juriscan-70096-50
-  articulos_origen: []
-  articulos_destino: []
-- origen: norm-es-lo-2-2006
-  tipo: fundamento_de
-  destino: norm-can-res-juriscan-72176-78
-  articulos_origen: []
-  articulos_destino: []
-- origen: norm-es-lo-2-2006
-  tipo: fundamento_de
-  destino: norm-can-res-juriscan-72882-123
-  articulos_origen: []
-  articulos_destino: []
-- origen: norm-es-lo-2-2006
-  tipo: fundamento_de
-  destino: norm-can-res-juriscan-73844-69
-  articulos_origen: []
-  articulos_destino: []
-- origen: norm-es-lo-2-2006
-  tipo: fundamento_de
-  destino: norm-can-res-juriscan-74499-67
   articulos_origen: []
   articulos_destino: []
 - origen: norm-es-lo-2-2006
@@ -19355,11 +18282,6 @@ relaciones_grafo:
   articulos_destino: []
 - origen: norm-es-2000-544
   tipo: fundamento_de
-  destino: norm-can-res-boc-2026-039-103
-  articulos_origen: []
-  articulos_destino: []
-- origen: norm-es-2000-544
-  tipo: fundamento_de
   destino: norm-es-2012-8745
   articulos_origen: []
   articulos_destino: []
@@ -19435,16 +18357,6 @@ relaciones_grafo:
   articulos_destino: []
 - origen: norm-es-lo-5-2000
   tipo: fundamento_de
-  destino: norm-can-d-114-2011
-  articulos_origen: []
-  articulos_destino: []
-- origen: norm-es-lo-5-2000
-  tipo: fundamento_de
-  destino: norm-can-res-juriscan-71394-16
-  articulos_origen: []
-  articulos_destino: []
-- origen: norm-es-lo-5-2000
-  tipo: fundamento_de
   destino: norm-es-2004-15601
   articulos_origen: []
   articulos_destino: []
@@ -19476,16 +18388,6 @@ relaciones_grafo:
 - origen: norm-es-2015-8222
   tipo: fundamentado_en
   destino: norm-es-lo-1-2004
-  articulos_origen: []
-  articulos_destino: []
-- origen: norm-es-2015-8222
-  tipo: fundamento_de
-  destino: norm-can-res-boc-2017-132-1
-  articulos_origen: []
-  articulos_destino: []
-- origen: norm-es-2015-8222
-  tipo: fundamento_de
-  destino: norm-can-res-boc-2018-086-122
   articulos_origen: []
   articulos_destino: []
 - origen: norm-es-2015-8222
@@ -19554,11 +18456,6 @@ relaciones_grafo:
   articulos_origen: []
   articulos_destino: []
 - origen: norm-es-rdl-5-2015
-  tipo: desarrollado_por
-  destino: norm-can-l-2-1987
-  articulos_origen: []
-  articulos_destino: []
-- origen: norm-es-rdl-5-2015
   tipo: fundamentado_en
   destino: norm-es-1984-17387
   articulos_origen: []
@@ -19596,31 +18493,6 @@ relaciones_grafo:
 - origen: norm-es-rdl-5-2015
   tipo: fundamentado_en
   destino: norm-es-l-53-1984
-  articulos_origen: []
-  articulos_destino: []
-- origen: norm-es-rdl-5-2015
-  tipo: fundamento_de
-  destino: norm-can-d-74-2010
-  articulos_origen: []
-  articulos_destino: []
-- origen: norm-es-rdl-5-2015
-  tipo: fundamento_de
-  destino: norm-can-o-2023-09-28
-  articulos_origen: []
-  articulos_destino: []
-- origen: norm-es-rdl-5-2015
-  tipo: fundamento_de
-  destino: norm-can-res-125
-  articulos_origen: []
-  articulos_destino: []
-- origen: norm-es-rdl-5-2015
-  tipo: fundamento_de
-  destino: norm-can-res-boc-2018-127-9
-  articulos_origen: []
-  articulos_destino: []
-- origen: norm-es-rdl-5-2015
-  tipo: fundamento_de
-  destino: norm-can-res-boc-2026-046-139
   articulos_origen: []
   articulos_destino: []
 - origen: norm-es-rdl-5-2015
@@ -19730,11 +18602,6 @@ relaciones_grafo:
   articulos_destino: []
 - origen: norm-es-2006-21648
   tipo: fundamentado_en
-  destino: norm-can-d-81-2010
-  articulos_origen: []
-  articulos_destino: []
-- origen: norm-es-2006-21648
-  tipo: fundamentado_en
   destino: norm-es-1999-23750
   articulos_origen: []
   articulos_destino: []
@@ -19780,22 +18647,12 @@ relaciones_grafo:
   articulos_destino: []
 - origen: norm-es-l-31-1995
   tipo: desarrollado_por
-  destino: norm-can-d-168-2009
-  articulos_origen: []
-  articulos_destino: []
-- origen: norm-es-l-31-1995
-  tipo: desarrollado_por
   destino: norm-es-rd-39-1997
   articulos_origen: []
   articulos_destino: []
 - origen: norm-es-l-31-1995
   tipo: fundamentado_en
   destino: norm-es-ce-1978
-  articulos_origen: []
-  articulos_destino: []
-- origen: norm-es-l-31-1995
-  tipo: fundamento_de
-  destino: norm-can-res-125
   articulos_origen: []
   articulos_destino: []
 - origen: norm-es-l-31-1995
@@ -19871,16 +18728,6 @@ relaciones_grafo:
 - origen: norm-es-1985-5392
   tipo: fundamentado_en
   destino: norm-es-ce-1978
-  articulos_origen: []
-  articulos_destino: []
-- origen: norm-es-1985-5392
-  tipo: fundamento_de
-  destino: norm-can-l-14-1990
-  articulos_origen: []
-  articulos_destino: []
-- origen: norm-es-1985-5392
-  tipo: fundamento_de
-  destino: norm-can-res-boc-2026-129-26
   articulos_origen: []
   articulos_destino: []
 - origen: norm-es-1985-5392
@@ -19990,62 +18837,12 @@ relaciones_grafo:
   articulos_destino: []
 - origen: norm-es-l-9-2017
   tipo: fundamento_de
-  destino: norm-can-d-84-2024
-  articulos_origen: []
-  articulos_destino: []
-- origen: norm-es-l-9-2017
-  tipo: fundamento_de
-  destino: norm-can-res-014
-  articulos_origen: []
-  articulos_destino: []
-- origen: norm-es-l-9-2017
-  tipo: fundamento_de
-  destino: norm-can-res-boc-2026-129-26
-  articulos_origen: []
-  articulos_destino: []
-- origen: norm-es-l-9-2017
-  tipo: fundamento_de
   destino: norm-es-2022-11589
   articulos_origen: []
   articulos_destino: []
 - origen: norm-es-1999-23750
   tipo: fundamentado_en
-  destino: norm-can-d-81-2010
-  articulos_origen: []
-  articulos_destino: []
-- origen: norm-es-1999-23750
-  tipo: fundamentado_en
   destino: norm-es-lo-2-2006
-  articulos_origen: []
-  articulos_destino: []
-- origen: norm-es-1999-23750
-  tipo: fundamento_de
-  destino: norm-can-d-114-2011
-  articulos_origen: []
-  articulos_destino: []
-- origen: norm-es-1999-23750
-  tipo: fundamento_de
-  destino: norm-can-o-1-9-2010
-  articulos_origen: []
-  articulos_destino: []
-- origen: norm-es-1999-23750
-  tipo: fundamento_de
-  destino: norm-can-res-boc-2018-086-122
-  articulos_origen: []
-  articulos_destino: []
-- origen: norm-es-1999-23750
-  tipo: fundamento_de
-  destino: norm-can-res-juriscan-64838-121
-  articulos_origen: []
-  articulos_destino: []
-- origen: norm-es-1999-23750
-  tipo: fundamento_de
-  destino: norm-can-res-juriscan-65631-68
-  articulos_origen: []
-  articulos_destino: []
-- origen: norm-es-1999-23750
-  tipo: fundamento_de
-  destino: norm-can-res-juriscan-72882-123
   articulos_origen: []
   articulos_destino: []
 - origen: norm-es-1999-23750
@@ -20155,11 +18952,6 @@ relaciones_grafo:
   articulos_destino: []
 - origen: norm-es-2008-979
   tipo: fundamentado_en
-  destino: norm-can-l-16-2003
-  articulos_origen: []
-  articulos_destino: []
-- origen: norm-es-2008-979
-  tipo: fundamentado_en
   destino: norm-es-1999-23750
   articulos_origen: []
   articulos_destino: []
@@ -20175,37 +18967,12 @@ relaciones_grafo:
   articulos_destino: []
 - origen: norm-es-2008-979
   tipo: fundamento_de
-  destino: norm-can-d-114-2011
-  articulos_origen: []
-  articulos_destino: []
-- origen: norm-es-2008-979
-  tipo: fundamento_de
-  destino: norm-can-res-boc-2018-086-122
-  articulos_origen: []
-  articulos_destino: []
-- origen: norm-es-2008-979
-  tipo: fundamento_de
-  destino: norm-can-res-juriscan-64838-121
-  articulos_origen: []
-  articulos_destino: []
-- origen: norm-es-2008-979
-  tipo: fundamento_de
-  destino: norm-can-res-juriscan-72882-123
-  articulos_origen: []
-  articulos_destino: []
-- origen: norm-es-2008-979
-  tipo: fundamento_de
   destino: norm-es-2011-17560
   articulos_origen: []
   articulos_destino: []
 - origen: norm-es-2008-979
   tipo: fundamento_de
   destino: norm-es-lo-3-2018
-  articulos_origen: []
-  articulos_destino: []
-- origen: norm-es-2001-7022
-  tipo: fundamentado_en
-  destino: norm-can-d-81-2010
   articulos_origen: []
   articulos_destino: []
 - origen: norm-es-2001-7022
@@ -20226,66 +18993,6 @@ relaciones_grafo:
 - origen: norm-es-2001-7022
   tipo: fundamentado_en
   destino: norm-es-lo-2-2006
-  articulos_origen: []
-  articulos_destino: []
-- origen: norm-es-2001-7022
-  tipo: fundamento_de
-  destino: norm-can-res-063
-  articulos_origen: []
-  articulos_destino: []
-- origen: norm-es-2001-7022
-  tipo: fundamento_de
-  destino: norm-can-res-098
-  articulos_origen: []
-  articulos_destino: []
-- origen: norm-es-2001-7022
-  tipo: fundamento_de
-  destino: norm-can-res-boc-2004-189-65
-  articulos_origen: []
-  articulos_destino: []
-- origen: norm-es-2001-7022
-  tipo: fundamento_de
-  destino: norm-can-res-boc-2011-099-72
-  articulos_origen: []
-  articulos_destino: []
-- origen: norm-es-2001-7022
-  tipo: fundamento_de
-  destino: norm-can-res-boc-2019-143-74
-  articulos_origen: []
-  articulos_destino: []
-- origen: norm-es-2001-7022
-  tipo: fundamento_de
-  destino: norm-can-res-boc-2024-230-25
-  articulos_origen: []
-  articulos_destino: []
-- origen: norm-es-2001-7022
-  tipo: fundamento_de
-  destino: norm-can-res-boc-2026-039-103
-  articulos_origen: []
-  articulos_destino: []
-- origen: norm-es-2001-7022
-  tipo: fundamento_de
-  destino: norm-can-res-boc-2026-077-62
-  articulos_origen: []
-  articulos_destino: []
-- origen: norm-es-2001-7022
-  tipo: fundamento_de
-  destino: norm-can-res-boc-2026-129-26
-  articulos_origen: []
-  articulos_destino: []
-- origen: norm-es-2001-7022
-  tipo: fundamento_de
-  destino: norm-can-res-juriscan-30668-127
-  articulos_origen: []
-  articulos_destino: []
-- origen: norm-es-2001-7022
-  tipo: fundamento_de
-  destino: norm-can-res-juriscan-48984-84
-  articulos_origen: []
-  articulos_destino: []
-- origen: norm-es-2001-7022
-  tipo: fundamento_de
-  destino: norm-can-res-juriscan-49002-54
   articulos_origen: []
   articulos_destino: []
 - origen: norm-es-2001-7022
@@ -20425,11 +19132,6 @@ relaciones_grafo:
   articulos_destino: []
 - origen: norm-es-lo-3-2018
   tipo: fundamentado_en
-  destino: norm-can-l-16-2003
-  articulos_origen: []
-  articulos_destino: []
-- origen: norm-es-lo-3-2018
-  tipo: fundamentado_en
   destino: norm-es-1999-23750
   articulos_origen: []
   articulos_destino: []
@@ -20496,46 +19198,6 @@ relaciones_grafo:
 - origen: norm-es-lo-3-2018
   tipo: fundamentado_en
   destino: norm-es-rdl-5-2015
-  articulos_origen: []
-  articulos_destino: []
-- origen: norm-es-lo-3-2018
-  tipo: fundamento_de
-  destino: norm-can-o-2023-09-28
-  articulos_origen: []
-  articulos_destino: []
-- origen: norm-es-lo-3-2018
-  tipo: fundamento_de
-  destino: norm-can-res-014
-  articulos_origen: []
-  articulos_destino: []
-- origen: norm-es-lo-3-2018
-  tipo: fundamento_de
-  destino: norm-can-res-097
-  articulos_origen: []
-  articulos_destino: []
-- origen: norm-es-lo-3-2018
-  tipo: fundamento_de
-  destino: norm-can-res-099
-  articulos_origen: []
-  articulos_destino: []
-- origen: norm-es-lo-3-2018
-  tipo: fundamento_de
-  destino: norm-can-res-125
-  articulos_origen: []
-  articulos_destino: []
-- origen: norm-es-lo-3-2018
-  tipo: fundamento_de
-  destino: norm-can-res-boc-2024-230-25
-  articulos_origen: []
-  articulos_destino: []
-- origen: norm-es-lo-3-2018
-  tipo: fundamento_de
-  destino: norm-can-res-boc-2026-039-111
-  articulos_origen: []
-  articulos_destino: []
-- origen: norm-es-lo-3-2018
-  tipo: fundamento_de
-  destino: norm-can-res-boc-2026-129-26
   articulos_origen: []
   articulos_destino: []
 - origen: norm-es-lo-3-2018
@@ -20611,31 +19273,6 @@ relaciones_grafo:
 - origen: norm-es-lo-8-1985
   tipo: fundamentado_en
   destino: norm-es-ce-1978
-  articulos_origen: []
-  articulos_destino: []
-- origen: norm-es-lo-8-1985
-  tipo: fundamento_de
-  destino: norm-can-d-114-2011
-  articulos_origen: []
-  articulos_destino: []
-- origen: norm-es-lo-8-1985
-  tipo: fundamento_de
-  destino: norm-can-res-boc-2004-189-65
-  articulos_origen: []
-  articulos_destino: []
-- origen: norm-es-lo-8-1985
-  tipo: fundamento_de
-  destino: norm-can-res-boc-2022-158-21
-  articulos_origen: []
-  articulos_destino: []
-- origen: norm-es-lo-8-1985
-  tipo: fundamento_de
-  destino: norm-can-res-boc-2024-117-93
-  articulos_origen: []
-  articulos_destino: []
-- origen: norm-es-lo-8-1985
-  tipo: fundamento_de
-  destino: norm-can-res-boc-2026-109-92
   articulos_origen: []
   articulos_destino: []
 - origen: norm-es-lo-8-1985
@@ -20735,11 +19372,6 @@ relaciones_grafo:
   articulos_destino: []
 - origen: norm-es-1996-10210
   tipo: fundamentado_en
-  destino: norm-can-d-81-2010
-  articulos_origen: []
-  articulos_destino: []
-- origen: norm-es-1996-10210
-  tipo: fundamentado_en
   destino: norm-es-1988-3987
   articulos_origen: []
   articulos_destino: []
@@ -20761,11 +19393,6 @@ relaciones_grafo:
 - origen: norm-es-1996-10210
   tipo: fundamentado_en
   destino: norm-es-lo-2-2006
-  articulos_origen: []
-  articulos_destino: []
-- origen: norm-es-2023-3846
-  tipo: fundamentado_en
-  destino: norm-can-d-81-2010
   articulos_origen: []
   articulos_destino: []
 - origen: norm-es-2023-3846
@@ -20830,22 +19457,12 @@ relaciones_grafo:
   articulos_destino: []
 - origen: norm-es-2018-5111
   tipo: fundamentado_en
-  destino: norm-can-d-81-2010
-  articulos_origen: []
-  articulos_destino: []
-- origen: norm-es-2018-5111
-  tipo: fundamentado_en
   destino: norm-es-2018-4480
   articulos_origen: []
   articulos_destino: []
 - origen: norm-es-2018-5111
   tipo: fundamentado_en
   destino: norm-es-lo-2-2006
-  articulos_origen: []
-  articulos_destino: []
-- origen: norm-es-1988-6938
-  tipo: fundamentado_en
-  destino: norm-can-d-81-2010
   articulos_origen: []
   articulos_destino: []
 - origen: norm-es-1988-6938
@@ -20861,16 +19478,6 @@ relaciones_grafo:
 - origen: norm-es-1988-6938
   tipo: fundamentado_en
   destino: norm-es-lo-2-2006
-  articulos_origen: []
-  articulos_destino: []
-- origen: norm-es-1988-6938
-  tipo: fundamento_de
-  destino: norm-can-res-boc-2025-047-108
-  articulos_origen: []
-  articulos_destino: []
-- origen: norm-es-1988-6938
-  tipo: fundamento_de
-  destino: norm-can-res-boc-2026-039-103
   articulos_origen: []
   articulos_destino: []
 - origen: norm-es-1988-6938
@@ -20921,16 +19528,6 @@ relaciones_grafo:
 - origen: norm-es-1988-3987
   tipo: fundamentado_en
   destino: norm-es-lo-8-1985
-  articulos_origen: []
-  articulos_destino: []
-- origen: norm-es-1988-3987
-  tipo: fundamento_de
-  destino: norm-can-res-boc-2025-047-108
-  articulos_origen: []
-  articulos_destino: []
-- origen: norm-es-1988-3987
-  tipo: fundamento_de
-  destino: norm-can-res-boc-2026-039-103
   articulos_origen: []
   articulos_destino: []
 - origen: norm-es-1988-3987
@@ -21010,16 +19607,6 @@ relaciones_grafo:
   articulos_destino: []
 - origen: norm-es-rd-132-2010
   tipo: fundamento_de
-  destino: norm-can-res-040
-  articulos_origen: []
-  articulos_destino: []
-- origen: norm-es-rd-132-2010
-  tipo: fundamento_de
-  destino: norm-can-res-boc-2024-230-25
-  articulos_origen: []
-  articulos_destino: []
-- origen: norm-es-rd-132-2010
-  tipo: fundamento_de
   destino: norm-es-2012-5337
   articulos_origen: []
   articulos_destino: []
@@ -21061,16 +19648,6 @@ relaciones_grafo:
 - origen: norm-es-rd-1834-2008
   tipo: fundamentado_en
   destino: norm-es-ce-1978
-  articulos_origen: []
-  articulos_destino: []
-- origen: norm-es-rd-1834-2008
-  tipo: fundamento_de
-  destino: norm-can-o-2013-10-09
-  articulos_origen: []
-  articulos_destino: []
-- origen: norm-es-rd-1834-2008
-  tipo: fundamento_de
-  destino: norm-can-res-135
   articulos_origen: []
   articulos_destino: []
 - origen: norm-es-rd-1834-2008
@@ -21138,16 +19715,6 @@ relaciones_grafo:
   destino: norm-es-ce-1978
   articulos_origen: []
   articulos_destino: []
-- origen: norm-es-rd-2377-1985
-  tipo: fundamento_de
-  destino: norm-can-res-boc-2022-158-21
-  articulos_origen: []
-  articulos_destino: []
-- origen: norm-es-rd-2377-1985
-  tipo: fundamento_de
-  destino: norm-can-res-juriscan-63878-20
-  articulos_origen: []
-  articulos_destino: []
 - origen: norm-es-2002-25289
   tipo: fundamentado_en
   destino: norm-es-1988-3987
@@ -21161,16 +19728,6 @@ relaciones_grafo:
 - origen: norm-es-2002-25289
   tipo: fundamentado_en
   destino: norm-es-l-39-2015
-  articulos_origen: []
-  articulos_destino: []
-- origen: norm-es-2002-25289
-  tipo: fundamento_de
-  destino: norm-can-res-boc-2025-047-108
-  articulos_origen: []
-  articulos_destino: []
-- origen: norm-es-2002-25289
-  tipo: fundamento_de
-  destino: norm-can-res-boc-2026-039-103
   articulos_origen: []
   articulos_destino: []
 - origen: norm-es-2002-25289
@@ -21206,21 +19763,6 @@ relaciones_grafo:
 - origen: norm-es-rd-39-1997
   tipo: desarrolla
   destino: norm-es-l-31-1995
-  articulos_origen: []
-  articulos_destino: []
-- origen: norm-es-rd-39-1997
-  tipo: fundamento_de
-  destino: norm-can-o-2013-10-09
-  articulos_origen: []
-  articulos_destino: []
-- origen: norm-es-rd-39-1997
-  tipo: fundamento_de
-  destino: norm-can-res-036
-  articulos_origen: []
-  articulos_destino: []
-- origen: norm-es-rd-39-1997
-  tipo: fundamento_de
-  destino: norm-can-res-boc-2024-226-44
   articulos_origen: []
   articulos_destino: []
 - origen: norm-es-rd-39-1997
@@ -21280,11 +19822,6 @@ relaciones_grafo:
   articulos_destino: []
 - origen: norm-es-1987-13494
   tipo: fundamentado_en
-  destino: norm-can-d-81-2010
-  articulos_origen: []
-  articulos_destino: []
-- origen: norm-es-1987-13494
-  tipo: fundamentado_en
   destino: norm-es-1987-11341
   articulos_origen: []
   articulos_destino: []
@@ -21296,11 +19833,6 @@ relaciones_grafo:
 - origen: norm-es-1987-13494
   tipo: fundamento_de
   destino: norm-es-1987-11341
-  articulos_origen: []
-  articulos_destino: []
-- origen: norm-es-1987-11341
-  tipo: fundamentado_en
-  destino: norm-can-d-81-2010
   articulos_origen: []
   articulos_destino: []
 - origen: norm-es-1987-11341
@@ -21415,11 +19947,6 @@ relaciones_grafo:
   articulos_destino: []
 - origen: norm-es-2024-11613
   tipo: fundamentado_en
-  destino: norm-can-res-134
-  articulos_origen: []
-  articulos_destino: []
-- origen: norm-es-2024-11613
-  tipo: fundamentado_en
   destino: norm-es-2000-544
   articulos_origen: []
   articulos_destino: []
@@ -21480,97 +20007,7 @@ relaciones_grafo:
   articulos_destino: []
 - origen: norm-es-2024-11613
   tipo: fundamento_de
-  destino: norm-can-res-boc-2026-039-111
-  articulos_origen: []
-  articulos_destino: []
-- origen: norm-es-2024-11613
-  tipo: fundamento_de
   destino: norm-es-2026-12038
-  articulos_origen: []
-  articulos_destino: []
-- origen: norm-es-lo-3-2022
-  tipo: desarrollado_por
-  destino: norm-can-res-027
-  articulos_origen: []
-  articulos_destino: []
-- origen: norm-es-lo-3-2022
-  tipo: desarrollado_por
-  destino: norm-can-res-032
-  articulos_origen: []
-  articulos_destino: []
-- origen: norm-es-lo-3-2022
-  tipo: desarrollado_por
-  destino: norm-can-res-033
-  articulos_origen: []
-  articulos_destino: []
-- origen: norm-es-lo-3-2022
-  tipo: desarrollado_por
-  destino: norm-can-res-034
-  articulos_origen: []
-  articulos_destino: []
-- origen: norm-es-lo-3-2022
-  tipo: desarrollado_por
-  destino: norm-can-res-035
-  articulos_origen: []
-  articulos_destino: []
-- origen: norm-es-lo-3-2022
-  tipo: desarrollado_por
-  destino: norm-can-res-036
-  articulos_origen: []
-  articulos_destino: []
-- origen: norm-es-lo-3-2022
-  tipo: desarrollado_por
-  destino: norm-can-res-037
-  articulos_origen: []
-  articulos_destino: []
-- origen: norm-es-lo-3-2022
-  tipo: desarrollado_por
-  destino: norm-can-res-038
-  articulos_origen: []
-  articulos_destino: []
-- origen: norm-es-lo-3-2022
-  tipo: desarrollado_por
-  destino: norm-can-res-039
-  articulos_origen: []
-  articulos_destino: []
-- origen: norm-es-lo-3-2022
-  tipo: desarrollado_por
-  destino: norm-can-res-042
-  articulos_origen: []
-  articulos_destino: []
-- origen: norm-es-lo-3-2022
-  tipo: desarrollado_por
-  destino: norm-can-res-134
-  articulos_origen: []
-  articulos_destino: []
-- origen: norm-es-lo-3-2022
-  tipo: desarrollado_por
-  destino: norm-can-res-boc-2022-087-31
-  articulos_origen: []
-  articulos_destino: []
-- origen: norm-es-lo-3-2022
-  tipo: desarrollado_por
-  destino: norm-can-res-boc-2024-226-44
-  articulos_origen: []
-  articulos_destino: []
-- origen: norm-es-lo-3-2022
-  tipo: desarrollado_por
-  destino: norm-can-res-boc-2024-230-25
-  articulos_origen: []
-  articulos_destino: []
-- origen: norm-es-lo-3-2022
-  tipo: desarrollado_por
-  destino: norm-can-res-boc-2025-046-47
-  articulos_origen: []
-  articulos_destino: []
-- origen: norm-es-lo-3-2022
-  tipo: desarrollado_por
-  destino: norm-can-res-boc-2025-047-108
-  articulos_origen: []
-  articulos_destino: []
-- origen: norm-es-lo-3-2022
-  tipo: desarrollado_por
-  destino: norm-can-res-boc-2025-118-46
   articulos_origen: []
   articulos_destino: []
 - origen: norm-es-lo-3-2022
@@ -21586,11 +20023,6 @@ relaciones_grafo:
 - origen: norm-es-lo-3-2022
   tipo: desarrollado_por
   destino: norm-es-rd-659-2023
-  articulos_origen: []
-  articulos_destino: []
-- origen: norm-es-lo-3-2022
-  tipo: fundamentado_en
-  destino: norm-can-res-134
   articulos_origen: []
   articulos_destino: []
 - origen: norm-es-lo-3-2022
@@ -21631,41 +20063,6 @@ relaciones_grafo:
 - origen: norm-es-lo-3-2022
   tipo: fundamentado_en
   destino: norm-es-lo-8-1985
-  articulos_origen: []
-  articulos_destino: []
-- origen: norm-es-lo-3-2022
-  tipo: fundamento_de
-  destino: norm-can-res-040
-  articulos_origen: []
-  articulos_destino: []
-- origen: norm-es-lo-3-2022
-  tipo: fundamento_de
-  destino: norm-can-res-043
-  articulos_origen: []
-  articulos_destino: []
-- origen: norm-es-lo-3-2022
-  tipo: fundamento_de
-  destino: norm-can-res-boc-2025-047-107
-  articulos_origen: []
-  articulos_destino: []
-- origen: norm-es-lo-3-2022
-  tipo: fundamento_de
-  destino: norm-can-res-boc-2026-039-102
-  articulos_origen: []
-  articulos_destino: []
-- origen: norm-es-lo-3-2022
-  tipo: fundamento_de
-  destino: norm-can-res-boc-2026-039-103
-  articulos_origen: []
-  articulos_destino: []
-- origen: norm-es-lo-3-2022
-  tipo: fundamento_de
-  destino: norm-can-res-boc-2026-129-26
-  articulos_origen: []
-  articulos_destino: []
-- origen: norm-es-lo-3-2022
-  tipo: fundamento_de
-  destino: norm-can-res-boc-2026-141-29
   articulos_origen: []
   articulos_destino: []
 - origen: norm-es-lo-3-2022
@@ -21716,71 +20113,6 @@ relaciones_grafo:
 - origen: norm-es-2016-3229
   tipo: fundamentado_en
   destino: norm-es-lo-2-2006
-  articulos_origen: []
-  articulos_destino: []
-- origen: norm-es-2016-3229
-  tipo: fundamento_de
-  destino: norm-can-d-25-2018
-  articulos_origen: []
-  articulos_destino: []
-- origen: norm-es-2016-3229
-  tipo: fundamento_de
-  destino: norm-can-res-014
-  articulos_origen: []
-  articulos_destino: []
-- origen: norm-es-2016-3229
-  tipo: fundamento_de
-  destino: norm-can-res-063
-  articulos_origen: []
-  articulos_destino: []
-- origen: norm-es-2016-3229
-  tipo: fundamento_de
-  destino: norm-can-res-boc-2018-048-56
-  articulos_origen: []
-  articulos_destino: []
-- origen: norm-es-2016-3229
-  tipo: fundamento_de
-  destino: norm-can-res-boc-2018-086-122
-  articulos_origen: []
-  articulos_destino: []
-- origen: norm-es-2016-3229
-  tipo: fundamento_de
-  destino: norm-can-res-boc-2018-124-126
-  articulos_origen: []
-  articulos_destino: []
-- origen: norm-es-2016-3229
-  tipo: fundamento_de
-  destino: norm-can-res-boc-2019-069-48
-  articulos_origen: []
-  articulos_destino: []
-- origen: norm-es-2016-3229
-  tipo: fundamento_de
-  destino: norm-can-res-boc-2019-234-52
-  articulos_origen: []
-  articulos_destino: []
-- origen: norm-es-2016-3229
-  tipo: fundamento_de
-  destino: norm-can-res-boc-2020-236-82
-  articulos_origen: []
-  articulos_destino: []
-- origen: norm-es-2016-3229
-  tipo: fundamento_de
-  destino: norm-can-res-boc-2026-077-49
-  articulos_origen: []
-  articulos_destino: []
-- origen: norm-es-2016-3229
-  tipo: fundamento_de
-  destino: norm-can-res-boc-2026-077-62
-  articulos_origen: []
-  articulos_destino: []
-- origen: norm-es-2016-3229
-  tipo: fundamento_de
-  destino: norm-can-res-juriscan-72176-78
-  articulos_origen: []
-  articulos_destino: []
-- origen: norm-es-2016-3229
-  tipo: fundamento_de
-  destino: norm-can-res-juriscan-72882-123
   articulos_origen: []
   articulos_destino: []
 - origen: norm-es-2016-3229
@@ -21885,16 +20217,6 @@ relaciones_grafo:
   articulos_destino: []
 - origen: norm-es-2002-12018
   tipo: fundamento_de
-  destino: norm-can-res-boc-2019-143-74
-  articulos_origen: []
-  articulos_destino: []
-- origen: norm-es-2002-12018
-  tipo: fundamento_de
-  destino: norm-can-res-boc-2026-039-103
-  articulos_origen: []
-  articulos_destino: []
-- origen: norm-es-2002-12018
-  tipo: fundamento_de
   destino: norm-es-2005-21534
   articulos_origen: []
   articulos_destino: []
@@ -21971,376 +20293,6 @@ relaciones_grafo:
 - origen: norm-es-2021-20113
   tipo: fundamentado_en
   destino: norm-es-lo-2-2006
-  articulos_origen: []
-  articulos_destino: []
-- origen: norm-es-2021-20113
-  tipo: fundamento_de
-  destino: norm-can-d-114-2011
-  articulos_origen: []
-  articulos_destino: []
-- origen: norm-es-2021-20113
-  tipo: fundamento_de
-  destino: norm-can-d-25-2018
-  articulos_origen: []
-  articulos_destino: []
-- origen: norm-es-2021-20113
-  tipo: fundamento_de
-  destino: norm-can-d-81-2010
-  articulos_origen: []
-  articulos_destino: []
-- origen: norm-es-2021-20113
-  tipo: fundamento_de
-  destino: norm-can-o-2-8-2006
-  articulos_origen: []
-  articulos_destino: []
-- origen: norm-es-2021-20113
-  tipo: fundamento_de
-  destino: norm-can-o-2013-10-09
-  articulos_origen: []
-  articulos_destino: []
-- origen: norm-es-2021-20113
-  tipo: fundamento_de
-  destino: norm-can-o-7-6-2007
-  articulos_origen: []
-  articulos_destino: []
-- origen: norm-es-2021-20113
-  tipo: fundamento_de
-  destino: norm-can-res-014
-  articulos_origen: []
-  articulos_destino: []
-- origen: norm-es-2021-20113
-  tipo: fundamento_de
-  destino: norm-can-res-027
-  articulos_origen: []
-  articulos_destino: []
-- origen: norm-es-2021-20113
-  tipo: fundamento_de
-  destino: norm-can-res-040
-  articulos_origen: []
-  articulos_destino: []
-- origen: norm-es-2021-20113
-  tipo: fundamento_de
-  destino: norm-can-res-043
-  articulos_origen: []
-  articulos_destino: []
-- origen: norm-es-2021-20113
-  tipo: fundamento_de
-  destino: norm-can-res-053
-  articulos_origen: []
-  articulos_destino: []
-- origen: norm-es-2021-20113
-  tipo: fundamento_de
-  destino: norm-can-res-055
-  articulos_origen: []
-  articulos_destino: []
-- origen: norm-es-2021-20113
-  tipo: fundamento_de
-  destino: norm-can-res-059
-  articulos_origen: []
-  articulos_destino: []
-- origen: norm-es-2021-20113
-  tipo: fundamento_de
-  destino: norm-can-res-063
-  articulos_origen: []
-  articulos_destino: []
-- origen: norm-es-2021-20113
-  tipo: fundamento_de
-  destino: norm-can-res-090
-  articulos_origen: []
-  articulos_destino: []
-- origen: norm-es-2021-20113
-  tipo: fundamento_de
-  destino: norm-can-res-095
-  articulos_origen: []
-  articulos_destino: []
-- origen: norm-es-2021-20113
-  tipo: fundamento_de
-  destino: norm-can-res-096
-  articulos_origen: []
-  articulos_destino: []
-- origen: norm-es-2021-20113
-  tipo: fundamento_de
-  destino: norm-can-res-097
-  articulos_origen: []
-  articulos_destino: []
-- origen: norm-es-2021-20113
-  tipo: fundamento_de
-  destino: norm-can-res-099
-  articulos_origen: []
-  articulos_destino: []
-- origen: norm-es-2021-20113
-  tipo: fundamento_de
-  destino: norm-can-res-134
-  articulos_origen: []
-  articulos_destino: []
-- origen: norm-es-2021-20113
-  tipo: fundamento_de
-  destino: norm-can-res-135
-  articulos_origen: []
-  articulos_destino: []
-- origen: norm-es-2021-20113
-  tipo: fundamento_de
-  destino: norm-can-res-boc-2011-099-72
-  articulos_origen: []
-  articulos_destino: []
-- origen: norm-es-2021-20113
-  tipo: fundamento_de
-  destino: norm-can-res-boc-2017-036-71
-  articulos_origen: []
-  articulos_destino: []
-- origen: norm-es-2021-20113
-  tipo: fundamento_de
-  destino: norm-can-res-boc-2017-036-75
-  articulos_origen: []
-  articulos_destino: []
-- origen: norm-es-2021-20113
-  tipo: fundamento_de
-  destino: norm-can-res-boc-2017-132-1
-  articulos_origen: []
-  articulos_destino: []
-- origen: norm-es-2021-20113
-  tipo: fundamento_de
-  destino: norm-can-res-boc-2017-220-70
-  articulos_origen: []
-  articulos_destino: []
-- origen: norm-es-2021-20113
-  tipo: fundamento_de
-  destino: norm-can-res-boc-2018-048-56
-  articulos_origen: []
-  articulos_destino: []
-- origen: norm-es-2021-20113
-  tipo: fundamento_de
-  destino: norm-can-res-boc-2018-086-122
-  articulos_origen: []
-  articulos_destino: []
-- origen: norm-es-2021-20113
-  tipo: fundamento_de
-  destino: norm-can-res-boc-2018-106-114
-  articulos_origen: []
-  articulos_destino: []
-- origen: norm-es-2021-20113
-  tipo: fundamento_de
-  destino: norm-can-res-boc-2018-124-126
-  articulos_origen: []
-  articulos_destino: []
-- origen: norm-es-2021-20113
-  tipo: fundamento_de
-  destino: norm-can-res-boc-2019-024-22
-  articulos_origen: []
-  articulos_destino: []
-- origen: norm-es-2021-20113
-  tipo: fundamento_de
-  destino: norm-can-res-boc-2019-069-48
-  articulos_origen: []
-  articulos_destino: []
-- origen: norm-es-2021-20113
-  tipo: fundamento_de
-  destino: norm-can-res-boc-2019-143-74
-  articulos_origen: []
-  articulos_destino: []
-- origen: norm-es-2021-20113
-  tipo: fundamento_de
-  destino: norm-can-res-boc-2019-234-52
-  articulos_origen: []
-  articulos_destino: []
-- origen: norm-es-2021-20113
-  tipo: fundamento_de
-  destino: norm-can-res-boc-2020-130-131
-  articulos_origen: []
-  articulos_destino: []
-- origen: norm-es-2021-20113
-  tipo: fundamento_de
-  destino: norm-can-res-boc-2020-236-82
-  articulos_origen: []
-  articulos_destino: []
-- origen: norm-es-2021-20113
-  tipo: fundamento_de
-  destino: norm-can-res-boc-2020-257-24
-  articulos_origen: []
-  articulos_destino: []
-- origen: norm-es-2021-20113
-  tipo: fundamento_de
-  destino: norm-can-res-boc-2021-114-80
-  articulos_origen: []
-  articulos_destino: []
-- origen: norm-es-2021-20113
-  tipo: fundamento_de
-  destino: norm-can-res-boc-2022-143-23
-  articulos_origen: []
-  articulos_destino: []
-- origen: norm-es-2021-20113
-  tipo: fundamento_de
-  destino: norm-can-res-boc-2022-158-21
-  articulos_origen: []
-  articulos_destino: []
-- origen: norm-es-2021-20113
-  tipo: fundamento_de
-  destino: norm-can-res-boc-2023-085-51
-  articulos_origen: []
-  articulos_destino: []
-- origen: norm-es-2021-20113
-  tipo: fundamento_de
-  destino: norm-can-res-boc-2023-133-57
-  articulos_origen: []
-  articulos_destino: []
-- origen: norm-es-2021-20113
-  tipo: fundamento_de
-  destino: norm-can-res-boc-2024-049-109
-  articulos_origen: []
-  articulos_destino: []
-- origen: norm-es-2021-20113
-  tipo: fundamento_de
-  destino: norm-can-res-boc-2024-117-93
-  articulos_origen: []
-  articulos_destino: []
-- origen: norm-es-2021-20113
-  tipo: fundamento_de
-  destino: norm-can-res-boc-2024-125-91
-  articulos_origen: []
-  articulos_destino: []
-- origen: norm-es-2021-20113
-  tipo: fundamento_de
-  destino: norm-can-res-boc-2024-226-44
-  articulos_origen: []
-  articulos_destino: []
-- origen: norm-es-2021-20113
-  tipo: fundamento_de
-  destino: norm-can-res-boc-2024-230-25
-  articulos_origen: []
-  articulos_destino: []
-- origen: norm-es-2021-20113
-  tipo: fundamento_de
-  destino: norm-can-res-boc-2025-039-104
-  articulos_origen: []
-  articulos_destino: []
-- origen: norm-es-2021-20113
-  tipo: fundamento_de
-  destino: norm-can-res-boc-2025-044-89
-  articulos_origen: []
-  articulos_destino: []
-- origen: norm-es-2021-20113
-  tipo: fundamento_de
-  destino: norm-can-res-boc-2025-046-47
-  articulos_origen: []
-  articulos_destino: []
-- origen: norm-es-2021-20113
-  tipo: fundamento_de
-  destino: norm-can-res-boc-2025-047-107
-  articulos_origen: []
-  articulos_destino: []
-- origen: norm-es-2021-20113
-  tipo: fundamento_de
-  destino: norm-can-res-boc-2025-047-108
-  articulos_origen: []
-  articulos_destino: []
-- origen: norm-es-2021-20113
-  tipo: fundamento_de
-  destino: norm-can-res-boc-2025-118-46
-  articulos_origen: []
-  articulos_destino: []
-- origen: norm-es-2021-20113
-  tipo: fundamento_de
-  destino: norm-can-res-boc-2026-039-102
-  articulos_origen: []
-  articulos_destino: []
-- origen: norm-es-2021-20113
-  tipo: fundamento_de
-  destino: norm-can-res-boc-2026-039-103
-  articulos_origen: []
-  articulos_destino: []
-- origen: norm-es-2021-20113
-  tipo: fundamento_de
-  destino: norm-can-res-boc-2026-039-111
-  articulos_origen: []
-  articulos_destino: []
-- origen: norm-es-2021-20113
-  tipo: fundamento_de
-  destino: norm-can-res-boc-2026-060-61
-  articulos_origen: []
-  articulos_destino: []
-- origen: norm-es-2021-20113
-  tipo: fundamento_de
-  destino: norm-can-res-boc-2026-070-115
-  articulos_origen: []
-  articulos_destino: []
-- origen: norm-es-2021-20113
-  tipo: fundamento_de
-  destino: norm-can-res-boc-2026-070-116
-  articulos_origen: []
-  articulos_destino: []
-- origen: norm-es-2021-20113
-  tipo: fundamento_de
-  destino: norm-can-res-boc-2026-070-41
-  articulos_origen: []
-  articulos_destino: []
-- origen: norm-es-2021-20113
-  tipo: fundamento_de
-  destino: norm-can-res-boc-2026-077-49
-  articulos_origen: []
-  articulos_destino: []
-- origen: norm-es-2021-20113
-  tipo: fundamento_de
-  destino: norm-can-res-boc-2026-077-62
-  articulos_origen: []
-  articulos_destino: []
-- origen: norm-es-2021-20113
-  tipo: fundamento_de
-  destino: norm-can-res-boc-2026-109-92
-  articulos_origen: []
-  articulos_destino: []
-- origen: norm-es-2021-20113
-  tipo: fundamento_de
-  destino: norm-can-res-boc-2026-116-87
-  articulos_origen: []
-  articulos_destino: []
-- origen: norm-es-2021-20113
-  tipo: fundamento_de
-  destino: norm-can-res-boc-2026-129-26
-  articulos_origen: []
-  articulos_destino: []
-- origen: norm-es-2021-20113
-  tipo: fundamento_de
-  destino: norm-can-res-boc-2026-141-29
-  articulos_origen: []
-  articulos_destino: []
-- origen: norm-es-2021-20113
-  tipo: fundamento_de
-  destino: norm-can-res-juriscan-64838-121
-  articulos_origen: []
-  articulos_destino: []
-- origen: norm-es-2021-20113
-  tipo: fundamento_de
-  destino: norm-can-res-juriscan-65631-68
-  articulos_origen: []
-  articulos_destino: []
-- origen: norm-es-2021-20113
-  tipo: fundamento_de
-  destino: norm-can-res-juriscan-66772-94
-  articulos_origen: []
-  articulos_destino: []
-- origen: norm-es-2021-20113
-  tipo: fundamento_de
-  destino: norm-can-res-juriscan-70096-50
-  articulos_origen: []
-  articulos_destino: []
-- origen: norm-es-2021-20113
-  tipo: fundamento_de
-  destino: norm-can-res-juriscan-72176-78
-  articulos_origen: []
-  articulos_destino: []
-- origen: norm-es-2021-20113
-  tipo: fundamento_de
-  destino: norm-can-res-juriscan-72882-123
-  articulos_origen: []
-  articulos_destino: []
-- origen: norm-es-2021-20113
-  tipo: fundamento_de
-  destino: norm-can-res-juriscan-73844-69
-  articulos_origen: []
-  articulos_destino: []
-- origen: norm-es-2021-20113
-  tipo: fundamento_de
-  destino: norm-can-res-juriscan-74499-67
   articulos_origen: []
   articulos_destino: []
 - origen: norm-es-2021-20113
@@ -22805,11 +20757,6 @@ relaciones_grafo:
   articulos_destino: []
 - origen: norm-es-2025-16039
   tipo: fundamentado_en
-  destino: norm-can-l-6-2014
-  articulos_origen: []
-  articulos_destino: []
-- origen: norm-es-2025-16039
-  tipo: fundamentado_en
   destino: norm-es-2010-4130
   articulos_origen: []
   articulos_destino: []
@@ -22845,16 +20792,6 @@ relaciones_grafo:
   articulos_destino: []
 - origen: norm-es-2010-4130
   tipo: fundamento_de
-  destino: norm-can-res-063
-  articulos_origen: []
-  articulos_destino: []
-- origen: norm-es-2010-4130
-  tipo: fundamento_de
-  destino: norm-can-res-boc-2026-077-62
-  articulos_origen: []
-  articulos_destino: []
-- origen: norm-es-2010-4130
-  tipo: fundamento_de
   destino: norm-es-2010-12706
   articulos_origen: []
   articulos_destino: []
@@ -22875,42 +20812,12 @@ relaciones_grafo:
   articulos_destino: []
 - origen: norm-es-2021-979
   tipo: fundamentado_en
-  destino: norm-can-l-6-2014
-  articulos_origen: []
-  articulos_destino: []
-- origen: norm-es-2021-979
-  tipo: fundamentado_en
   destino: norm-es-2020-17274
   articulos_origen: []
   articulos_destino: []
 - origen: norm-es-2021-979
   tipo: fundamentado_en
   destino: norm-es-lo-2-2006
-  articulos_origen: []
-  articulos_destino: []
-- origen: norm-es-2021-979
-  tipo: fundamento_de
-  destino: norm-can-res-030
-  articulos_origen: []
-  articulos_destino: []
-- origen: norm-es-2021-979
-  tipo: fundamento_de
-  destino: norm-can-res-032
-  articulos_origen: []
-  articulos_destino: []
-- origen: norm-es-2021-979
-  tipo: fundamento_de
-  destino: norm-can-res-boc-2024-226-44
-  articulos_origen: []
-  articulos_destino: []
-- origen: norm-es-2021-979
-  tipo: fundamento_de
-  destino: norm-can-res-boc-2025-047-108
-  articulos_origen: []
-  articulos_destino: []
-- origen: norm-es-2021-979
-  tipo: fundamento_de
-  destino: norm-can-res-boc-2026-039-103
   articulos_origen: []
   articulos_destino: []
 - origen: norm-es-2021-979
@@ -22975,31 +20882,6 @@ relaciones_grafo:
   articulos_destino: []
 - origen: norm-es-2020-17274
   tipo: fundamento_de
-  destino: norm-can-res-030
-  articulos_origen: []
-  articulos_destino: []
-- origen: norm-es-2020-17274
-  tipo: fundamento_de
-  destino: norm-can-res-032
-  articulos_origen: []
-  articulos_destino: []
-- origen: norm-es-2020-17274
-  tipo: fundamento_de
-  destino: norm-can-res-boc-2024-226-44
-  articulos_origen: []
-  articulos_destino: []
-- origen: norm-es-2020-17274
-  tipo: fundamento_de
-  destino: norm-can-res-boc-2025-047-108
-  articulos_origen: []
-  articulos_destino: []
-- origen: norm-es-2020-17274
-  tipo: fundamento_de
-  destino: norm-can-res-boc-2026-039-103
-  articulos_origen: []
-  articulos_destino: []
-- origen: norm-es-2020-17274
-  tipo: fundamento_de
   destino: norm-es-2021-979
   articulos_origen: []
   articulos_destino: []
@@ -23055,11 +20937,6 @@ relaciones_grafo:
   articulos_destino: []
 - origen: norm-es-2014-2222
   tipo: fundamento_de
-  destino: norm-can-res-juriscan-72788-60
-  articulos_origen: []
-  articulos_destino: []
-- origen: norm-es-2014-2222
-  tipo: fundamento_de
   destino: norm-es-2021-18812
   articulos_origen: []
   articulos_destino: []
@@ -23110,26 +20987,6 @@ relaciones_grafo:
   articulos_destino: []
 - origen: norm-es-2007-19326
   tipo: fundamento_de
-  destino: norm-can-res-boc-2017-036-75
-  articulos_origen: []
-  articulos_destino: []
-- origen: norm-es-2007-19326
-  tipo: fundamento_de
-  destino: norm-can-res-boc-2019-143-74
-  articulos_origen: []
-  articulos_destino: []
-- origen: norm-es-2007-19326
-  tipo: fundamento_de
-  destino: norm-can-res-boc-2025-047-108
-  articulos_origen: []
-  articulos_destino: []
-- origen: norm-es-2007-19326
-  tipo: fundamento_de
-  destino: norm-can-res-boc-2026-039-103
-  articulos_origen: []
-  articulos_destino: []
-- origen: norm-es-2007-19326
-  tipo: fundamento_de
   destino: norm-es-2010-13564
   articulos_origen: []
   articulos_destino: []
@@ -23155,11 +21012,6 @@ relaciones_grafo:
   articulos_destino: []
 - origen: norm-es-2005-21534
   tipo: fundamentado_en
-  destino: norm-can-l-6-2014
-  articulos_origen: []
-  articulos_destino: []
-- origen: norm-es-2005-21534
-  tipo: fundamentado_en
   destino: norm-es-2002-12018
   articulos_origen: []
   articulos_destino: []
@@ -23175,22 +21027,12 @@ relaciones_grafo:
   articulos_destino: []
 - origen: norm-es-2005-21534
   tipo: fundamento_de
-  destino: norm-can-res-043
-  articulos_origen: []
-  articulos_destino: []
-- origen: norm-es-2005-21534
-  tipo: fundamento_de
   destino: norm-es-rd-1834-2008
   articulos_origen: []
   articulos_destino: []
 - origen: norm-es-rd-157-2022
   tipo: desarrolla
   destino: norm-es-lo-2-2006
-  articulos_origen: []
-  articulos_destino: []
-- origen: norm-es-rd-157-2022
-  tipo: desarrollado_por
-  destino: norm-can-d-101-2023
   articulos_origen: []
   articulos_destino: []
 - origen: norm-es-rd-157-2022
@@ -23258,49 +21100,9 @@ relaciones_grafo:
   destino: norm-es-lo-2-2006
   articulos_origen: []
   articulos_destino: []
-- origen: norm-es-2019-317
-  tipo: fundamento_de
-  destino: norm-can-res-053
-  articulos_origen: []
-  articulos_destino: []
-- origen: norm-es-2019-317
-  tipo: fundamento_de
-  destino: norm-can-res-055
-  articulos_origen: []
-  articulos_destino: []
-- origen: norm-es-2019-317
-  tipo: fundamento_de
-  destino: norm-can-res-059
-  articulos_origen: []
-  articulos_destino: []
-- origen: norm-es-2019-317
-  tipo: fundamento_de
-  destino: norm-can-res-boc-2019-234-52
-  articulos_origen: []
-  articulos_destino: []
-- origen: norm-es-2019-317
-  tipo: fundamento_de
-  destino: norm-can-res-boc-2020-236-82
-  articulos_origen: []
-  articulos_destino: []
-- origen: norm-es-2019-317
-  tipo: fundamento_de
-  destino: norm-can-res-boc-2026-077-49
-  articulos_origen: []
-  articulos_destino: []
-- origen: norm-es-2019-317
-  tipo: fundamento_de
-  destino: norm-can-res-boc-2026-116-87
-  articulos_origen: []
-  articulos_destino: []
 - origen: norm-es-rd-217-2022
   tipo: desarrolla
   destino: norm-es-lo-2-2006
-  articulos_origen: []
-  articulos_destino: []
-- origen: norm-es-rd-217-2022
-  tipo: desarrollado_por
-  destino: norm-can-d-102-2023
   articulos_origen: []
   articulos_destino: []
 - origen: norm-es-rd-217-2022
@@ -23340,16 +21142,6 @@ relaciones_grafo:
   articulos_destino: []
 - origen: norm-es-rd-217-2022
   tipo: fundamento_de
-  destino: norm-can-res-boc-2022-243-81
-  articulos_origen: []
-  articulos_destino: []
-- origen: norm-es-rd-217-2022
-  tipo: fundamento_de
-  destino: norm-can-res-boc-2024-226-44
-  articulos_origen: []
-  articulos_destino: []
-- origen: norm-es-rd-217-2022
-  tipo: fundamento_de
   destino: norm-es-2024-10683
   articulos_origen: []
   articulos_destino: []
@@ -23381,11 +21173,6 @@ relaciones_grafo:
 - origen: norm-es-rd-243-2022
   tipo: desarrolla
   destino: norm-es-lo-2-2006
-  articulos_origen: []
-  articulos_destino: []
-- origen: norm-es-rd-243-2022
-  tipo: desarrollado_por
-  destino: norm-can-d-103-2023
   articulos_origen: []
   articulos_destino: []
 - origen: norm-es-rd-243-2022
@@ -23430,32 +21217,12 @@ relaciones_grafo:
   articulos_destino: []
 - origen: norm-es-rd-243-2022
   tipo: fundamento_de
-  destino: norm-can-res-040
-  articulos_origen: []
-  articulos_destino: []
-- origen: norm-es-rd-243-2022
-  tipo: fundamento_de
-  destino: norm-can-res-063
-  articulos_origen: []
-  articulos_destino: []
-- origen: norm-es-rd-243-2022
-  tipo: fundamento_de
-  destino: norm-can-res-boc-2026-077-62
-  articulos_origen: []
-  articulos_destino: []
-- origen: norm-es-rd-243-2022
-  tipo: fundamento_de
   destino: norm-es-2022-15953
   articulos_origen: []
   articulos_destino: []
 - origen: norm-es-rd-243-2022
   tipo: fundamento_de
   destino: norm-es-2026-12038
-  articulos_origen: []
-  articulos_destino: []
-- origen: norm-es-2000-5990
-  tipo: fundamentado_en
-  destino: norm-can-l-6-2014
   articulos_origen: []
   articulos_destino: []
 - origen: norm-es-2000-5990
@@ -23560,17 +21327,7 @@ relaciones_grafo:
   articulos_destino: []
 - origen: norm-es-2014-6008
   tipo: fundamento_de
-  destino: norm-can-res-juriscan-72176-78
-  articulos_origen: []
-  articulos_destino: []
-- origen: norm-es-2014-6008
-  tipo: fundamento_de
   destino: norm-es-2023-3846
-  articulos_origen: []
-  articulos_destino: []
-- origen: norm-es-2026-15301
-  tipo: fundamentado_en
-  destino: norm-can-l-6-2014
   articulos_origen: []
   articulos_destino: []
 - origen: norm-es-2026-15301
@@ -23586,16 +21343,6 @@ relaciones_grafo:
 - origen: norm-es-2026-15301
   tipo: fundamento_de
   destino: norm-es-2026-12038
-  articulos_origen: []
-  articulos_destino: []
-- origen: norm-es-2026-12038
-  tipo: fundamentado_en
-  destino: norm-can-res-134
-  articulos_origen: []
-  articulos_destino: []
-- origen: norm-es-2026-12038
-  tipo: fundamentado_en
-  destino: norm-can-res-boc-2024-230-25
   articulos_origen: []
   articulos_destino: []
 - origen: norm-es-2026-12038
@@ -23675,27 +21422,12 @@ relaciones_grafo:
   articulos_destino: []
 - origen: norm-es-2002-4371
   tipo: fundamentado_en
-  destino: norm-can-l-6-2014
-  articulos_origen: []
-  articulos_destino: []
-- origen: norm-es-2002-4371
-  tipo: fundamentado_en
   destino: norm-es-2001-7022
   articulos_origen: []
   articulos_destino: []
 - origen: norm-es-2002-4371
   tipo: fundamentado_en
   destino: norm-es-lo-2-2006
-  articulos_origen: []
-  articulos_destino: []
-- origen: norm-es-2002-4371
-  tipo: fundamento_de
-  destino: norm-can-res-boc-2017-036-75
-  articulos_origen: []
-  articulos_destino: []
-- origen: norm-es-2002-4371
-  tipo: fundamento_de
-  destino: norm-can-res-boc-2019-143-74
   articulos_origen: []
   articulos_destino: []
 - origen: norm-es-2002-4371
@@ -23731,16 +21463,6 @@ relaciones_grafo:
 - origen: norm-es-2024-10683
   tipo: desarrolla
   destino: norm-es-lo-3-2022
-  articulos_origen: []
-  articulos_destino: []
-- origen: norm-es-2024-10683
-  tipo: fundamentado_en
-  destino: norm-can-res-134
-  articulos_origen: []
-  articulos_destino: []
-- origen: norm-es-2024-10683
-  tipo: fundamentado_en
-  destino: norm-can-res-boc-2024-230-25
   articulos_origen: []
   articulos_destino: []
 - origen: norm-es-2024-10683
@@ -23808,36 +21530,6 @@ relaciones_grafo:
   destino: norm-es-rd-659-2023
   articulos_origen: []
   articulos_destino: []
-- origen: norm-es-2024-10683
-  tipo: fundamento_de
-  destino: norm-can-res-027
-  articulos_origen: []
-  articulos_destino: []
-- origen: norm-es-2024-10683
-  tipo: fundamento_de
-  destino: norm-can-res-boc-2024-226-44
-  articulos_origen: []
-  articulos_destino: []
-- origen: norm-es-2024-10683
-  tipo: fundamento_de
-  destino: norm-can-res-boc-2024-230-25
-  articulos_origen: []
-  articulos_destino: []
-- origen: norm-es-2024-10684
-  tipo: fundamentado_en
-  destino: norm-can-l-6-2014
-  articulos_origen: []
-  articulos_destino: []
-- origen: norm-es-2024-10684
-  tipo: fundamentado_en
-  destino: norm-can-res-134
-  articulos_origen: []
-  articulos_destino: []
-- origen: norm-es-2024-10684
-  tipo: fundamentado_en
-  destino: norm-can-res-boc-2024-230-25
-  articulos_origen: []
-  articulos_destino: []
 - origen: norm-es-2024-10684
   tipo: fundamentado_en
   destino: norm-es-2007-5478
@@ -23893,46 +21585,6 @@ relaciones_grafo:
   destino: norm-es-rd-659-2023
   articulos_origen: []
   articulos_destino: []
-- origen: norm-es-2024-10684
-  tipo: fundamento_de
-  destino: norm-can-res-027
-  articulos_origen: []
-  articulos_destino: []
-- origen: norm-es-2024-10684
-  tipo: fundamento_de
-  destino: norm-can-res-030
-  articulos_origen: []
-  articulos_destino: []
-- origen: norm-es-2024-10684
-  tipo: fundamento_de
-  destino: norm-can-res-boc-2024-226-44
-  articulos_origen: []
-  articulos_destino: []
-- origen: norm-es-2024-10684
-  tipo: fundamento_de
-  destino: norm-can-res-boc-2024-230-25
-  articulos_origen: []
-  articulos_destino: []
-- origen: norm-es-2024-10684
-  tipo: fundamento_de
-  destino: norm-can-res-boc-2026-070-41
-  articulos_origen: []
-  articulos_destino: []
-- origen: norm-es-2024-10685
-  tipo: fundamentado_en
-  destino: norm-can-l-6-2014
-  articulos_origen: []
-  articulos_destino: []
-- origen: norm-es-2024-10685
-  tipo: fundamentado_en
-  destino: norm-can-res-134
-  articulos_origen: []
-  articulos_destino: []
-- origen: norm-es-2024-10685
-  tipo: fundamentado_en
-  destino: norm-can-res-boc-2024-230-25
-  articulos_origen: []
-  articulos_destino: []
 - origen: norm-es-2024-10685
   tipo: fundamentado_en
   destino: norm-es-2007-5478
@@ -23986,36 +21638,6 @@ relaciones_grafo:
 - origen: norm-es-2024-10685
   tipo: fundamentado_en
   destino: norm-es-rd-659-2023
-  articulos_origen: []
-  articulos_destino: []
-- origen: norm-es-2024-10685
-  tipo: fundamento_de
-  destino: norm-can-res-027
-  articulos_origen: []
-  articulos_destino: []
-- origen: norm-es-2024-10685
-  tipo: fundamento_de
-  destino: norm-can-res-030
-  articulos_origen: []
-  articulos_destino: []
-- origen: norm-es-2024-10685
-  tipo: fundamento_de
-  destino: norm-can-res-boc-2024-226-44
-  articulos_origen: []
-  articulos_destino: []
-- origen: norm-es-2024-10685
-  tipo: fundamento_de
-  destino: norm-can-res-boc-2024-230-25
-  articulos_origen: []
-  articulos_destino: []
-- origen: norm-es-2024-10685
-  tipo: fundamento_de
-  destino: norm-can-res-boc-2025-047-108
-  articulos_origen: []
-  articulos_destino: []
-- origen: norm-es-2024-10685
-  tipo: fundamento_de
-  destino: norm-can-res-boc-2026-039-103
   articulos_origen: []
   articulos_destino: []
 - origen: norm-es-2022-12014
@@ -24085,72 +21707,7 @@ relaciones_grafo:
   articulos_destino: []
 - origen: norm-es-rd-659-2023
   tipo: desarrollado_por
-  destino: norm-can-res-033
-  articulos_origen: []
-  articulos_destino: []
-- origen: norm-es-rd-659-2023
-  tipo: desarrollado_por
-  destino: norm-can-res-034
-  articulos_origen: []
-  articulos_destino: []
-- origen: norm-es-rd-659-2023
-  tipo: desarrollado_por
-  destino: norm-can-res-035
-  articulos_origen: []
-  articulos_destino: []
-- origen: norm-es-rd-659-2023
-  tipo: desarrollado_por
-  destino: norm-can-res-036
-  articulos_origen: []
-  articulos_destino: []
-- origen: norm-es-rd-659-2023
-  tipo: desarrollado_por
-  destino: norm-can-res-037
-  articulos_origen: []
-  articulos_destino: []
-- origen: norm-es-rd-659-2023
-  tipo: desarrollado_por
-  destino: norm-can-res-038
-  articulos_origen: []
-  articulos_destino: []
-- origen: norm-es-rd-659-2023
-  tipo: desarrollado_por
-  destino: norm-can-res-039
-  articulos_origen: []
-  articulos_destino: []
-- origen: norm-es-rd-659-2023
-  tipo: desarrollado_por
-  destino: norm-can-res-042
-  articulos_origen: []
-  articulos_destino: []
-- origen: norm-es-rd-659-2023
-  tipo: desarrollado_por
-  destino: norm-can-res-boc-2024-226-44
-  articulos_origen: []
-  articulos_destino: []
-- origen: norm-es-rd-659-2023
-  tipo: desarrollado_por
-  destino: norm-can-res-boc-2024-230-25
-  articulos_origen: []
-  articulos_destino: []
-- origen: norm-es-rd-659-2023
-  tipo: desarrollado_por
-  destino: norm-can-res-boc-2025-046-47
-  articulos_origen: []
-  articulos_destino: []
-- origen: norm-es-rd-659-2023
-  tipo: desarrollado_por
   destino: norm-es-2025-2039
-  articulos_origen: []
-  articulos_destino: []
-- origen: norm-es-rd-659-2023
-  tipo: fundamentado_en
-  destino: norm-can-res-134
-  articulos_origen: []
-  articulos_destino: []
-- origen: norm-es-rd-659-2023
-  tipo: fundamentado_en
-  destino: norm-can-res-boc-2024-230-25
   articulos_origen: []
   articulos_destino: []
 - origen: norm-es-rd-659-2023
@@ -24255,81 +21812,6 @@ relaciones_grafo:
   articulos_destino: []
 - origen: norm-es-rd-659-2023
   tipo: fundamento_de
-  destino: norm-can-d-84-2024
-  articulos_origen: []
-  articulos_destino: []
-- origen: norm-es-rd-659-2023
-  tipo: fundamento_de
-  destino: norm-can-res-027
-  articulos_origen: []
-  articulos_destino: []
-- origen: norm-es-rd-659-2023
-  tipo: fundamento_de
-  destino: norm-can-res-030
-  articulos_origen: []
-  articulos_destino: []
-- origen: norm-es-rd-659-2023
-  tipo: fundamento_de
-  destino: norm-can-res-032
-  articulos_origen: []
-  articulos_destino: []
-- origen: norm-es-rd-659-2023
-  tipo: fundamento_de
-  destino: norm-can-res-040
-  articulos_origen: []
-  articulos_destino: []
-- origen: norm-es-rd-659-2023
-  tipo: fundamento_de
-  destino: norm-can-res-043
-  articulos_origen: []
-  articulos_destino: []
-- origen: norm-es-rd-659-2023
-  tipo: fundamento_de
-  destino: norm-can-res-boc-2025-047-107
-  articulos_origen: []
-  articulos_destino: []
-- origen: norm-es-rd-659-2023
-  tipo: fundamento_de
-  destino: norm-can-res-boc-2025-047-108
-  articulos_origen: []
-  articulos_destino: []
-- origen: norm-es-rd-659-2023
-  tipo: fundamento_de
-  destino: norm-can-res-boc-2025-118-46
-  articulos_origen: []
-  articulos_destino: []
-- origen: norm-es-rd-659-2023
-  tipo: fundamento_de
-  destino: norm-can-res-boc-2026-039-102
-  articulos_origen: []
-  articulos_destino: []
-- origen: norm-es-rd-659-2023
-  tipo: fundamento_de
-  destino: norm-can-res-boc-2026-039-103
-  articulos_origen: []
-  articulos_destino: []
-- origen: norm-es-rd-659-2023
-  tipo: fundamento_de
-  destino: norm-can-res-boc-2026-070-41
-  articulos_origen: []
-  articulos_destino: []
-- origen: norm-es-rd-659-2023
-  tipo: fundamento_de
-  destino: norm-can-res-boc-2026-073-113
-  articulos_origen: []
-  articulos_destino: []
-- origen: norm-es-rd-659-2023
-  tipo: fundamento_de
-  destino: norm-can-res-boc-2026-129-26
-  articulos_origen: []
-  articulos_destino: []
-- origen: norm-es-rd-659-2023
-  tipo: fundamento_de
-  destino: norm-can-res-boc-2026-141-29
-  articulos_origen: []
-  articulos_destino: []
-- origen: norm-es-rd-659-2023
-  tipo: fundamento_de
   destino: norm-es-2024-10683
   articulos_origen: []
   articulos_destino: []
@@ -24400,16 +21882,6 @@ relaciones_grafo:
   articulos_destino: []
 - origen: norm-es-2025-2039
   tipo: fundamentado_en
-  destino: norm-can-res-134
-  articulos_origen: []
-  articulos_destino: []
-- origen: norm-es-2025-2039
-  tipo: fundamentado_en
-  destino: norm-can-res-boc-2024-230-25
-  articulos_origen: []
-  articulos_destino: []
-- origen: norm-es-2025-2039
-  tipo: fundamentado_en
   destino: norm-es-2002-12018
   articulos_origen: []
   articulos_destino: []
@@ -24441,46 +21913,6 @@ relaciones_grafo:
 - origen: norm-es-2025-2039
   tipo: fundamentado_en
   destino: norm-es-lo-3-2018
-  articulos_origen: []
-  articulos_destino: []
-- origen: norm-es-2025-2039
-  tipo: fundamento_de
-  destino: norm-can-res-033
-  articulos_origen: []
-  articulos_destino: []
-- origen: norm-es-2025-2039
-  tipo: fundamento_de
-  destino: norm-can-res-034
-  articulos_origen: []
-  articulos_destino: []
-- origen: norm-es-2025-2039
-  tipo: fundamento_de
-  destino: norm-can-res-035
-  articulos_origen: []
-  articulos_destino: []
-- origen: norm-es-2025-2039
-  tipo: fundamento_de
-  destino: norm-can-res-036
-  articulos_origen: []
-  articulos_destino: []
-- origen: norm-es-2025-2039
-  tipo: fundamento_de
-  destino: norm-can-res-037
-  articulos_origen: []
-  articulos_destino: []
-- origen: norm-es-2025-2039
-  tipo: fundamento_de
-  destino: norm-can-res-038
-  articulos_origen: []
-  articulos_destino: []
-- origen: norm-es-2025-2039
-  tipo: fundamento_de
-  destino: norm-can-res-039
-  articulos_origen: []
-  articulos_destino: []
-- origen: norm-es-2025-2039
-  tipo: fundamento_de
-  destino: norm-can-res-boc-2026-070-41
   articulos_origen: []
   articulos_destino: []
 - origen: norm-es-2015-9462
@@ -24609,11 +22041,6 @@ relaciones_grafo:
   articulos_origen: []
   articulos_destino: []
 - origen: norm-es-rd-95-2022
-  tipo: desarrollado_por
-  destino: norm-can-d-196-2022
-  articulos_origen: []
-  articulos_destino: []
-- origen: norm-es-rd-95-2022
   tipo: fundamentado_en
   destino: norm-es-2010-12201
   articulos_origen: []
@@ -24684,11 +22111,6 @@ relaciones_grafo:
   articulos_origen: []
   articulos_destino: []
 - origen: norm-es-rd-1533-1986
-  tipo: desarrollado_por
-  destino: norm-can-d-234-1996
-  articulos_origen: []
-  articulos_destino: []
-- origen: norm-es-rd-1533-1986
   tipo: fundamentado_en
   destino: norm-es-ce-1978
   articulos_origen: []
@@ -24750,17 +22172,7 @@ relaciones_grafo:
   articulos_destino: []
 - origen: norm-es-1971-1198
   tipo: fundamentado_en
-  destino: norm-can-d-9-2022
-  articulos_origen: []
-  articulos_destino: []
-- origen: norm-es-1971-1198
-  tipo: fundamentado_en
   destino: norm-es-lo-2-2006
-  articulos_origen: []
-  articulos_destino: []
-- origen: norm-es-1971-1198
-  tipo: fundamento_de
-  destino: norm-can-res-boc-2026-129-26
   articulos_origen: []
   articulos_destino: []
 - origen: norm-es-2010-12201
@@ -24781,376 +22193,6 @@ relaciones_grafo:
 - origen: norm-es-2010-12201
   tipo: fundamentado_en
   destino: norm-es-lo-2-2006
-  articulos_origen: []
-  articulos_destino: []
-- origen: norm-es-2010-12201
-  tipo: fundamento_de
-  destino: norm-can-d-114-2011
-  articulos_origen: []
-  articulos_destino: []
-- origen: norm-es-2010-12201
-  tipo: fundamento_de
-  destino: norm-can-d-25-2018
-  articulos_origen: []
-  articulos_destino: []
-- origen: norm-es-2010-12201
-  tipo: fundamento_de
-  destino: norm-can-d-81-2010
-  articulos_origen: []
-  articulos_destino: []
-- origen: norm-es-2010-12201
-  tipo: fundamento_de
-  destino: norm-can-o-2-8-2006
-  articulos_origen: []
-  articulos_destino: []
-- origen: norm-es-2010-12201
-  tipo: fundamento_de
-  destino: norm-can-o-2013-10-09
-  articulos_origen: []
-  articulos_destino: []
-- origen: norm-es-2010-12201
-  tipo: fundamento_de
-  destino: norm-can-o-7-6-2007
-  articulos_origen: []
-  articulos_destino: []
-- origen: norm-es-2010-12201
-  tipo: fundamento_de
-  destino: norm-can-res-014
-  articulos_origen: []
-  articulos_destino: []
-- origen: norm-es-2010-12201
-  tipo: fundamento_de
-  destino: norm-can-res-027
-  articulos_origen: []
-  articulos_destino: []
-- origen: norm-es-2010-12201
-  tipo: fundamento_de
-  destino: norm-can-res-040
-  articulos_origen: []
-  articulos_destino: []
-- origen: norm-es-2010-12201
-  tipo: fundamento_de
-  destino: norm-can-res-043
-  articulos_origen: []
-  articulos_destino: []
-- origen: norm-es-2010-12201
-  tipo: fundamento_de
-  destino: norm-can-res-053
-  articulos_origen: []
-  articulos_destino: []
-- origen: norm-es-2010-12201
-  tipo: fundamento_de
-  destino: norm-can-res-055
-  articulos_origen: []
-  articulos_destino: []
-- origen: norm-es-2010-12201
-  tipo: fundamento_de
-  destino: norm-can-res-059
-  articulos_origen: []
-  articulos_destino: []
-- origen: norm-es-2010-12201
-  tipo: fundamento_de
-  destino: norm-can-res-063
-  articulos_origen: []
-  articulos_destino: []
-- origen: norm-es-2010-12201
-  tipo: fundamento_de
-  destino: norm-can-res-090
-  articulos_origen: []
-  articulos_destino: []
-- origen: norm-es-2010-12201
-  tipo: fundamento_de
-  destino: norm-can-res-095
-  articulos_origen: []
-  articulos_destino: []
-- origen: norm-es-2010-12201
-  tipo: fundamento_de
-  destino: norm-can-res-096
-  articulos_origen: []
-  articulos_destino: []
-- origen: norm-es-2010-12201
-  tipo: fundamento_de
-  destino: norm-can-res-097
-  articulos_origen: []
-  articulos_destino: []
-- origen: norm-es-2010-12201
-  tipo: fundamento_de
-  destino: norm-can-res-099
-  articulos_origen: []
-  articulos_destino: []
-- origen: norm-es-2010-12201
-  tipo: fundamento_de
-  destino: norm-can-res-134
-  articulos_origen: []
-  articulos_destino: []
-- origen: norm-es-2010-12201
-  tipo: fundamento_de
-  destino: norm-can-res-135
-  articulos_origen: []
-  articulos_destino: []
-- origen: norm-es-2010-12201
-  tipo: fundamento_de
-  destino: norm-can-res-boc-2011-099-72
-  articulos_origen: []
-  articulos_destino: []
-- origen: norm-es-2010-12201
-  tipo: fundamento_de
-  destino: norm-can-res-boc-2017-036-71
-  articulos_origen: []
-  articulos_destino: []
-- origen: norm-es-2010-12201
-  tipo: fundamento_de
-  destino: norm-can-res-boc-2017-036-75
-  articulos_origen: []
-  articulos_destino: []
-- origen: norm-es-2010-12201
-  tipo: fundamento_de
-  destino: norm-can-res-boc-2017-132-1
-  articulos_origen: []
-  articulos_destino: []
-- origen: norm-es-2010-12201
-  tipo: fundamento_de
-  destino: norm-can-res-boc-2017-220-70
-  articulos_origen: []
-  articulos_destino: []
-- origen: norm-es-2010-12201
-  tipo: fundamento_de
-  destino: norm-can-res-boc-2018-048-56
-  articulos_origen: []
-  articulos_destino: []
-- origen: norm-es-2010-12201
-  tipo: fundamento_de
-  destino: norm-can-res-boc-2018-086-122
-  articulos_origen: []
-  articulos_destino: []
-- origen: norm-es-2010-12201
-  tipo: fundamento_de
-  destino: norm-can-res-boc-2018-106-114
-  articulos_origen: []
-  articulos_destino: []
-- origen: norm-es-2010-12201
-  tipo: fundamento_de
-  destino: norm-can-res-boc-2018-124-126
-  articulos_origen: []
-  articulos_destino: []
-- origen: norm-es-2010-12201
-  tipo: fundamento_de
-  destino: norm-can-res-boc-2019-024-22
-  articulos_origen: []
-  articulos_destino: []
-- origen: norm-es-2010-12201
-  tipo: fundamento_de
-  destino: norm-can-res-boc-2019-069-48
-  articulos_origen: []
-  articulos_destino: []
-- origen: norm-es-2010-12201
-  tipo: fundamento_de
-  destino: norm-can-res-boc-2019-143-74
-  articulos_origen: []
-  articulos_destino: []
-- origen: norm-es-2010-12201
-  tipo: fundamento_de
-  destino: norm-can-res-boc-2019-234-52
-  articulos_origen: []
-  articulos_destino: []
-- origen: norm-es-2010-12201
-  tipo: fundamento_de
-  destino: norm-can-res-boc-2020-130-131
-  articulos_origen: []
-  articulos_destino: []
-- origen: norm-es-2010-12201
-  tipo: fundamento_de
-  destino: norm-can-res-boc-2020-236-82
-  articulos_origen: []
-  articulos_destino: []
-- origen: norm-es-2010-12201
-  tipo: fundamento_de
-  destino: norm-can-res-boc-2020-257-24
-  articulos_origen: []
-  articulos_destino: []
-- origen: norm-es-2010-12201
-  tipo: fundamento_de
-  destino: norm-can-res-boc-2021-114-80
-  articulos_origen: []
-  articulos_destino: []
-- origen: norm-es-2010-12201
-  tipo: fundamento_de
-  destino: norm-can-res-boc-2022-143-23
-  articulos_origen: []
-  articulos_destino: []
-- origen: norm-es-2010-12201
-  tipo: fundamento_de
-  destino: norm-can-res-boc-2022-158-21
-  articulos_origen: []
-  articulos_destino: []
-- origen: norm-es-2010-12201
-  tipo: fundamento_de
-  destino: norm-can-res-boc-2023-085-51
-  articulos_origen: []
-  articulos_destino: []
-- origen: norm-es-2010-12201
-  tipo: fundamento_de
-  destino: norm-can-res-boc-2023-133-57
-  articulos_origen: []
-  articulos_destino: []
-- origen: norm-es-2010-12201
-  tipo: fundamento_de
-  destino: norm-can-res-boc-2024-049-109
-  articulos_origen: []
-  articulos_destino: []
-- origen: norm-es-2010-12201
-  tipo: fundamento_de
-  destino: norm-can-res-boc-2024-117-93
-  articulos_origen: []
-  articulos_destino: []
-- origen: norm-es-2010-12201
-  tipo: fundamento_de
-  destino: norm-can-res-boc-2024-125-91
-  articulos_origen: []
-  articulos_destino: []
-- origen: norm-es-2010-12201
-  tipo: fundamento_de
-  destino: norm-can-res-boc-2024-226-44
-  articulos_origen: []
-  articulos_destino: []
-- origen: norm-es-2010-12201
-  tipo: fundamento_de
-  destino: norm-can-res-boc-2024-230-25
-  articulos_origen: []
-  articulos_destino: []
-- origen: norm-es-2010-12201
-  tipo: fundamento_de
-  destino: norm-can-res-boc-2025-039-104
-  articulos_origen: []
-  articulos_destino: []
-- origen: norm-es-2010-12201
-  tipo: fundamento_de
-  destino: norm-can-res-boc-2025-044-89
-  articulos_origen: []
-  articulos_destino: []
-- origen: norm-es-2010-12201
-  tipo: fundamento_de
-  destino: norm-can-res-boc-2025-046-47
-  articulos_origen: []
-  articulos_destino: []
-- origen: norm-es-2010-12201
-  tipo: fundamento_de
-  destino: norm-can-res-boc-2025-047-107
-  articulos_origen: []
-  articulos_destino: []
-- origen: norm-es-2010-12201
-  tipo: fundamento_de
-  destino: norm-can-res-boc-2025-047-108
-  articulos_origen: []
-  articulos_destino: []
-- origen: norm-es-2010-12201
-  tipo: fundamento_de
-  destino: norm-can-res-boc-2025-118-46
-  articulos_origen: []
-  articulos_destino: []
-- origen: norm-es-2010-12201
-  tipo: fundamento_de
-  destino: norm-can-res-boc-2026-039-102
-  articulos_origen: []
-  articulos_destino: []
-- origen: norm-es-2010-12201
-  tipo: fundamento_de
-  destino: norm-can-res-boc-2026-039-103
-  articulos_origen: []
-  articulos_destino: []
-- origen: norm-es-2010-12201
-  tipo: fundamento_de
-  destino: norm-can-res-boc-2026-039-111
-  articulos_origen: []
-  articulos_destino: []
-- origen: norm-es-2010-12201
-  tipo: fundamento_de
-  destino: norm-can-res-boc-2026-060-61
-  articulos_origen: []
-  articulos_destino: []
-- origen: norm-es-2010-12201
-  tipo: fundamento_de
-  destino: norm-can-res-boc-2026-070-115
-  articulos_origen: []
-  articulos_destino: []
-- origen: norm-es-2010-12201
-  tipo: fundamento_de
-  destino: norm-can-res-boc-2026-070-116
-  articulos_origen: []
-  articulos_destino: []
-- origen: norm-es-2010-12201
-  tipo: fundamento_de
-  destino: norm-can-res-boc-2026-070-41
-  articulos_origen: []
-  articulos_destino: []
-- origen: norm-es-2010-12201
-  tipo: fundamento_de
-  destino: norm-can-res-boc-2026-077-49
-  articulos_origen: []
-  articulos_destino: []
-- origen: norm-es-2010-12201
-  tipo: fundamento_de
-  destino: norm-can-res-boc-2026-077-62
-  articulos_origen: []
-  articulos_destino: []
-- origen: norm-es-2010-12201
-  tipo: fundamento_de
-  destino: norm-can-res-boc-2026-109-92
-  articulos_origen: []
-  articulos_destino: []
-- origen: norm-es-2010-12201
-  tipo: fundamento_de
-  destino: norm-can-res-boc-2026-116-87
-  articulos_origen: []
-  articulos_destino: []
-- origen: norm-es-2010-12201
-  tipo: fundamento_de
-  destino: norm-can-res-boc-2026-129-26
-  articulos_origen: []
-  articulos_destino: []
-- origen: norm-es-2010-12201
-  tipo: fundamento_de
-  destino: norm-can-res-boc-2026-141-29
-  articulos_origen: []
-  articulos_destino: []
-- origen: norm-es-2010-12201
-  tipo: fundamento_de
-  destino: norm-can-res-juriscan-64838-121
-  articulos_origen: []
-  articulos_destino: []
-- origen: norm-es-2010-12201
-  tipo: fundamento_de
-  destino: norm-can-res-juriscan-65631-68
-  articulos_origen: []
-  articulos_destino: []
-- origen: norm-es-2010-12201
-  tipo: fundamento_de
-  destino: norm-can-res-juriscan-66772-94
-  articulos_origen: []
-  articulos_destino: []
-- origen: norm-es-2010-12201
-  tipo: fundamento_de
-  destino: norm-can-res-juriscan-70096-50
-  articulos_origen: []
-  articulos_destino: []
-- origen: norm-es-2010-12201
-  tipo: fundamento_de
-  destino: norm-can-res-juriscan-72176-78
-  articulos_origen: []
-  articulos_destino: []
-- origen: norm-es-2010-12201
-  tipo: fundamento_de
-  destino: norm-can-res-juriscan-72882-123
-  articulos_origen: []
-  articulos_destino: []
-- origen: norm-es-2010-12201
-  tipo: fundamento_de
-  destino: norm-can-res-juriscan-73844-69
-  articulos_origen: []
-  articulos_destino: []
-- origen: norm-es-2010-12201
-  tipo: fundamento_de
-  destino: norm-can-res-juriscan-74499-67
   articulos_origen: []
   articulos_destino: []
 - origen: norm-es-2010-12201
@@ -25535,17 +22577,7 @@ relaciones_grafo:
   articulos_destino: []
 - origen: norm-es-1985-19457
   tipo: fundamentado_en
-  destino: norm-can-d-9-2022
-  articulos_origen: []
-  articulos_destino: []
-- origen: norm-es-1985-19457
-  tipo: fundamentado_en
   destino: norm-es-lo-2-2006
-  articulos_origen: []
-  articulos_destino: []
-- origen: norm-es-rd-443-2001
-  tipo: desarrollado_por
-  destino: norm-can-o-2-8-2006
   articulos_origen: []
   articulos_destino: []
 - origen: norm-es-rd-443-2001
@@ -25580,27 +22612,7 @@ relaciones_grafo:
   articulos_destino: []
 - origen: norm-es-2007-10487
   tipo: fundamento_de
-  destino: norm-can-res-boc-2017-220-70
-  articulos_origen: []
-  articulos_destino: []
-- origen: norm-es-2007-10487
-  tipo: fundamento_de
-  destino: norm-can-res-boc-2018-106-114
-  articulos_origen: []
-  articulos_destino: []
-- origen: norm-es-2007-10487
-  tipo: fundamento_de
-  destino: norm-can-res-boc-2026-039-103
-  articulos_origen: []
-  articulos_destino: []
-- origen: norm-es-2007-10487
-  tipo: fundamento_de
   destino: norm-es-2026-12038
-  articulos_origen: []
-  articulos_destino: []
-- origen: norm-es-2010-10321
-  tipo: fundamentado_en
-  destino: norm-can-lo-1-2018
   articulos_origen: []
   articulos_destino: []
 - origen: norm-es-2010-10321
@@ -25663,16 +22675,6 @@ relaciones_grafo:
   destino: norm-es-lo-1-2004
   articulos_origen: []
   articulos_destino: []
-- origen: norm-es-2022-11589
-  tipo: fundamento_de
-  destino: norm-can-res-125
-  articulos_origen: []
-  articulos_destino: []
-- origen: norm-es-2010-4518
-  tipo: fundamentado_en
-  destino: norm-can-l-16-2003
-  articulos_origen: []
-  articulos_destino: []
 - origen: norm-es-2010-4518
   tipo: fundamentado_en
   destino: norm-es-2007-6115
@@ -25690,52 +22692,12 @@ relaciones_grafo:
   articulos_destino: []
 - origen: norm-es-2010-4518
   tipo: fundamento_de
-  destino: norm-can-d-84-2024
-  articulos_origen: []
-  articulos_destino: []
-- origen: norm-es-2010-4518
-  tipo: fundamento_de
-  destino: norm-can-l-4-2023
-  articulos_origen: []
-  articulos_destino: []
-- origen: norm-es-2010-4518
-  tipo: fundamento_de
-  destino: norm-can-o-2013-10-09
-  articulos_origen: []
-  articulos_destino: []
-- origen: norm-es-2010-4518
-  tipo: fundamento_de
-  destino: norm-can-o-2023-09-28
-  articulos_origen: []
-  articulos_destino: []
-- origen: norm-es-2010-4518
-  tipo: fundamento_de
-  destino: norm-can-res-boc-2018-124-126
-  articulos_origen: []
-  articulos_destino: []
-- origen: norm-es-2010-4518
-  tipo: fundamento_de
   destino: norm-es-2012-9282
   articulos_origen: []
   articulos_destino: []
 - origen: norm-es-2010-4518
   tipo: fundamento_de
   destino: norm-es-2021-11382
-  articulos_origen: []
-  articulos_destino: []
-- origen: norm-es-2021-11382
-  tipo: fundamentado_en
-  destino: norm-can-l-1-1997
-  articulos_origen: []
-  articulos_destino: []
-- origen: norm-es-2021-11382
-  tipo: fundamentado_en
-  destino: norm-can-l-16-2003
-  articulos_origen: []
-  articulos_destino: []
-- origen: norm-es-2021-11382
-  tipo: fundamentado_en
-  destino: norm-can-lo-1-2018
   articulos_origen: []
   articulos_destino: []
 - origen: norm-es-2021-11382
@@ -25766,16 +22728,6 @@ relaciones_grafo:
 - origen: norm-es-2021-11382
   tipo: fundamentado_en
   destino: norm-es-lo-3-2018
-  articulos_origen: []
-  articulos_destino: []
-- origen: norm-es-2021-11382
-  tipo: fundamento_de
-  destino: norm-can-d-84-2024
-  articulos_origen: []
-  articulos_destino: []
-- origen: norm-es-2021-11382
-  tipo: fundamento_de
-  destino: norm-can-l-4-2023
   articulos_origen: []
   articulos_destino: []
 - origen: norm-es-lo-10-2022
@@ -25838,16 +22790,6 @@ relaciones_grafo:
   destino: norm-es-rdl-5-2015
   articulos_origen: []
   articulos_destino: []
-- origen: norm-es-lo-10-2022
-  tipo: fundamento_de
-  destino: norm-can-res-125
-  articulos_origen: []
-  articulos_destino: []
-- origen: norm-es-lo-1-2004
-  tipo: desarrollado_por
-  destino: norm-can-l-16-2003
-  articulos_origen: []
-  articulos_destino: []
 - origen: norm-es-lo-1-2004
   tipo: fundamentado_en
   destino: norm-es-1984-17387
@@ -25871,11 +22813,6 @@ relaciones_grafo:
 - origen: norm-es-lo-1-2004
   tipo: fundamentado_en
   destino: norm-es-lo-8-1985
-  articulos_origen: []
-  articulos_destino: []
-- origen: norm-es-lo-1-2004
-  tipo: fundamento_de
-  destino: norm-can-o-2023-09-28
   articulos_origen: []
   articulos_destino: []
 - origen: norm-es-lo-1-2004
@@ -25925,11 +22862,6 @@ relaciones_grafo:
   articulos_destino: []
 - origen: norm-es-2007-6115
   tipo: fundamentado_en
-  destino: norm-can-l-16-2003
-  articulos_origen: []
-  articulos_destino: []
-- origen: norm-es-2007-6115
-  tipo: fundamentado_en
   destino: norm-es-1984-17387
   articulos_origen: []
   articulos_destino: []
@@ -25941,21 +22873,6 @@ relaciones_grafo:
 - origen: norm-es-2007-6115
   tipo: fundamentado_en
   destino: norm-es-l-31-1995
-  articulos_origen: []
-  articulos_destino: []
-- origen: norm-es-2007-6115
-  tipo: fundamento_de
-  destino: norm-can-o-2023-09-28
-  articulos_origen: []
-  articulos_destino: []
-- origen: norm-es-2007-6115
-  tipo: fundamento_de
-  destino: norm-can-res-125
-  articulos_origen: []
-  articulos_destino: []
-- origen: norm-es-2007-6115
-  tipo: fundamento_de
-  destino: norm-can-res-boc-2018-124-126
   articulos_origen: []
   articulos_destino: []
 - origen: norm-es-2007-6115
@@ -26009,16 +22926,6 @@ relaciones_grafo:
   articulos_origen: []
   articulos_destino: []
 - origen: norm-es-lo-8-2021
-  tipo: desarrollado_por
-  destino: norm-can-res-096
-  articulos_origen: []
-  articulos_destino: []
-- origen: norm-es-lo-8-2021
-  tipo: fundamentado_en
-  destino: norm-can-l-16-2003
-  articulos_origen: []
-  articulos_destino: []
-- origen: norm-es-lo-8-2021
   tipo: fundamentado_en
   destino: norm-es-1995-25444
   articulos_origen: []
@@ -26085,16 +22992,6 @@ relaciones_grafo:
   articulos_destino: []
 - origen: norm-es-lo-8-2021
   tipo: fundamento_de
-  destino: norm-can-res-135
-  articulos_origen: []
-  articulos_destino: []
-- origen: norm-es-lo-8-2021
-  tipo: fundamento_de
-  destino: norm-can-res-boc-2026-129-26
-  articulos_origen: []
-  articulos_destino: []
-- origen: norm-es-lo-8-2021
-  tipo: fundamento_de
   destino: norm-es-2026-2622
   articulos_origen: []
   articulos_destino: []
@@ -26140,11 +23037,6 @@ relaciones_grafo:
   articulos_destino: []
 - origen: norm-es-2013-12632
   tipo: fundamento_de
-  destino: norm-can-d-25-2018
-  articulos_origen: []
-  articulos_destino: []
-- origen: norm-es-2013-12632
-  tipo: fundamento_de
   destino: norm-es-2022-11589
   articulos_origen: []
   articulos_destino: []
@@ -26181,11 +23073,6 @@ relaciones_grafo:
 - origen: norm-es-1979-29491
   tipo: fundamentado_en
   destino: norm-es-rdl-5-2015
-  articulos_origen: []
-  articulos_destino: []
-- origen: norm-es-2012-8745
-  tipo: fundamentado_en
-  destino: norm-can-l-16-2003
   articulos_origen: []
   articulos_destino: []
 - origen: norm-es-2012-8745
@@ -26250,11 +23137,6 @@ relaciones_grafo:
   articulos_destino: []
 - origen: norm-es-2012-9282
   tipo: fundamentado_en
-  destino: norm-can-l-2-1987
-  articulos_origen: []
-  articulos_destino: []
-- origen: norm-es-2012-9282
-  tipo: fundamentado_en
   destino: norm-es-1985-5392
   articulos_origen: []
   articulos_destino: []
@@ -26281,16 +23163,6 @@ relaciones_grafo:
 - origen: norm-es-2012-9282
   tipo: fundamentado_en
   destino: norm-es-lo-2-2006
-  articulos_origen: []
-  articulos_destino: []
-- origen: norm-es-2012-9282
-  tipo: fundamento_de
-  destino: norm-can-res-boc-2017-020-2
-  articulos_origen: []
-  articulos_destino: []
-- origen: norm-es-2012-9282
-  tipo: fundamento_de
-  destino: norm-can-res-juriscan-75634-6
   articulos_origen: []
   articulos_destino: []
 - origen: norm-es-2012-9282
@@ -26880,11 +23752,6 @@ relaciones_grafo:
   articulos_destino: []
 - origen: norm-es-2012-9364
   tipo: fundamento_de
-  destino: norm-can-l-4-2023
-  articulos_origen: []
-  articulos_destino: []
-- origen: norm-es-2012-9364
-  tipo: fundamento_de
   destino: norm-es-rdl-2-2015
   articulos_origen: []
   articulos_destino: []
@@ -26901,11 +23768,6 @@ relaciones_grafo:
 - origen: norm-es-2023-9553
   tipo: desarrolla
   destino: norm-es-rd-243-2022
-  articulos_origen: []
-  articulos_destino: []
-- origen: norm-es-2023-9553
-  tipo: fundamentado_en
-  destino: norm-can-res-134
   articulos_origen: []
   articulos_destino: []
 - origen: norm-es-2023-9553
@@ -27145,11 +24007,6 @@ relaciones_grafo:
   articulos_destino: []
 - origen: norm-es-2022-16194
   tipo: fundamentado_en
-  destino: norm-can-res-134
-  articulos_origen: []
-  articulos_destino: []
-- origen: norm-es-2022-16194
-  tipo: fundamentado_en
   destino: norm-es-2001-7022
   articulos_origen: []
   articulos_destino: []
@@ -27254,11 +24111,6 @@ relaciones_grafo:
   articulos_origen: []
   articulos_destino: []
 - origen: norm-es-rdl-2-2015
-  tipo: desarrollado_por
-  destino: norm-can-convenio-3-laboral
-  articulos_origen: []
-  articulos_destino: []
-- origen: norm-es-rdl-2-2015
   tipo: fundamentado_en
   destino: norm-es-2002-12018
   articulos_origen: []
@@ -27286,31 +24138,6 @@ relaciones_grafo:
 - origen: norm-es-rdl-2-2015
   tipo: fundamentado_en
   destino: norm-es-lo-1-1982
-  articulos_origen: []
-  articulos_destino: []
-- origen: norm-es-rdl-2-2015
-  tipo: fundamento_de
-  destino: norm-can-o-2023-09-28
-  articulos_origen: []
-  articulos_destino: []
-- origen: norm-es-rdl-2-2015
-  tipo: fundamento_de
-  destino: norm-can-res-125
-  articulos_origen: []
-  articulos_destino: []
-- origen: norm-es-rdl-2-2015
-  tipo: fundamento_de
-  destino: norm-can-res-boc-2022-158-21
-  articulos_origen: []
-  articulos_destino: []
-- origen: norm-es-rdl-2-2015
-  tipo: fundamento_de
-  destino: norm-can-res-boc-2026-046-139
-  articulos_origen: []
-  articulos_destino: []
-- origen: norm-es-rdl-2-2015
-  tipo: fundamento_de
-  destino: norm-can-res-boc-2026-129-26
   articulos_origen: []
   articulos_destino: []
 - origen: norm-es-rdl-2-2015

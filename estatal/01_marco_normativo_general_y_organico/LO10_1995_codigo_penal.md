@@ -26,7 +26,6 @@ relaciones:
   - norma_id: norm-es-ce-1978
   - norma_id: norm-es-lo-1-1982
   fundamento_de:
-  - norma_id: norm-can-res-boc-2026-129-26
   - norma_id: norm-es-2004-15601
   - norma_id: norm-es-lo-1-2004
   - norma_id: norm-es-lo-10-2022
@@ -38,6 +37,7 @@ fundamentos_derecho:
   - '27'
 - norma_id: norm-es-lo-1-1982
 ---
+
 
 
 # Ley Orgánica 10/1995, de 23 de noviembre, del Código Penal.

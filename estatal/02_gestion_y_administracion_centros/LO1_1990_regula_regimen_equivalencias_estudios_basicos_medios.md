@@ -27,24 +27,11 @@ tags:
 - titulacion
 relaciones:
   fundamentado_en:
-  - norma_id: norm-can-d-81-2010
   - norma_id: norm-es-1988-3987
   - norma_id: norm-es-1988-6938
   - norma_id: norm-es-2002-25289
   - norma_id: norm-es-lo-2-2006
   fundamento_de:
-  - norma_id: norm-can-res-063
-  - norma_id: norm-can-res-098
-  - norma_id: norm-can-res-boc-2004-189-65
-  - norma_id: norm-can-res-boc-2011-099-72
-  - norma_id: norm-can-res-boc-2019-143-74
-  - norma_id: norm-can-res-boc-2024-230-25
-  - norma_id: norm-can-res-boc-2026-039-103
-  - norma_id: norm-can-res-boc-2026-077-62
-  - norma_id: norm-can-res-boc-2026-129-26
-  - norma_id: norm-can-res-juriscan-30668-127
-  - norma_id: norm-can-res-juriscan-48984-84
-  - norma_id: norm-can-res-juriscan-49002-54
   - norma_id: norm-es-1995-22212
   - norma_id: norm-es-1996-10210
   - norma_id: norm-es-1998-10720
@@ -84,6 +71,7 @@ fundamentos_derecho:
 - norma_id: norm-es-1988-6938
 - norma_id: norm-es-2002-25289
 ---
+
 
 
 # Orden de 20 de marzo de 2001 por la que se regula el régimen de equivalencias de los estudios básicos y medios cursados en los países signatarios del Convenio "Andrés Bello", con los correspondientes españoles de Educación Secundaria Obligatoria y Bachillerato establecidos por la Ley Orgánica 1/1990, de 3 de octubre, de Ordenación General del Sistema Educativo.

@@ -30,8 +30,6 @@ tags:
 - servicios-escolares
 - transporte-escolar
 relaciones:
-  desarrollado_por:
-  - norma_id: norm-can-o-2-8-2006
   fundamentado_en:
   - norma_id: norm-es-lo-2-2006
 fundamentos_derecho:
@@ -40,6 +38,7 @@ fundamentos_derecho:
   - '80'
   - '82'
 ---
+
 
 
 # Real Decreto 443/2001 sobre condiciones de seguridad en el transporte escolar y de menores

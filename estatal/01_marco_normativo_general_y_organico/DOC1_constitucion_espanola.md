@@ -31,11 +31,6 @@ relaciones:
   fundamentado_en:
   - norma_id: norm-es-lo-2-2006
   fundamento_de:
-  - norma_id: norm-can-d-234-1996
-  - norma_id: norm-can-l-1-1997
-  - norma_id: norm-can-l-14-1990
-  - norma_id: norm-can-l-6-2014
-  - norma_id: norm-can-lo-1-2018
   - norma_id: norm-es-1984-17387
   - norma_id: norm-es-1985-5392
   - norma_id: norm-es-1986-1216
@@ -115,6 +110,7 @@ fundamentos_derecho:
   - '1'
   - '2.1'
 ---
+
 
 
 # Constitución Española de 1978

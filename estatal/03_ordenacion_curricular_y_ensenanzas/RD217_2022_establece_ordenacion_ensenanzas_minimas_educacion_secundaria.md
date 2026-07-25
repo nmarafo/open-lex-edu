@@ -37,7 +37,6 @@ relaciones:
   desarrolla:
   - norma_id: norm-es-lo-2-2006
   desarrollado_por:
-  - norma_id: norm-can-d-102-2023
   - norma_id: norm-es-2023-9553
   fundamentado_en:
   - norma_id: norm-es-2002-12018
@@ -47,8 +46,6 @@ relaciones:
   - norma_id: norm-es-l-39-2015
   - norma_id: norm-es-lo-3-2018
   fundamento_de:
-  - norma_id: norm-can-res-boc-2022-243-81
-  - norma_id: norm-can-res-boc-2024-226-44
   - norma_id: norm-es-2024-10683
   - norma_id: norm-es-rd-659-2023
 fundamentos_derecho:
@@ -68,6 +65,7 @@ fundamentos_derecho:
 - norma_id: norm-es-2021-20113
 - norma_id: norm-es-2010-12201
 ---
+
 
 
 # Real Decreto 217/2022 - Ordenación y Enseñanzas Mínimas de la Educación Secundaria Obligatoria

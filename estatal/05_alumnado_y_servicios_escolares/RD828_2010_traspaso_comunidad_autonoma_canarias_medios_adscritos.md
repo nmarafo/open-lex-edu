@@ -28,7 +28,6 @@ tags:
 - seguro-escolar
 relaciones:
   fundamentado_en:
-  - norma_id: norm-can-lo-1-2018
   - norma_id: norm-es-ce-1978
 fundamentos_derecho:
 - norma_id: norm-es-ce-1978
@@ -38,6 +37,7 @@ fundamentos_derecho:
   articulos:
   - '136'
 ---
+
 
 
 # Real Decreto 828/2010, de 25 de junio, de traspaso a la Comunidad Autónoma de Canarias de los medios adscritos a la gestión de las prestaciones sanitarias del Seguro Escolar.

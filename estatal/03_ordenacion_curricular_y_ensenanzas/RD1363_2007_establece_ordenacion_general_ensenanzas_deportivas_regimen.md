@@ -34,10 +34,6 @@ relaciones:
   - norma_id: norm-es-lo-2-2006
   - norma_id: norm-es-lo-8-1985
   fundamento_de:
-  - norma_id: norm-can-res-boc-2017-036-75
-  - norma_id: norm-can-res-boc-2019-143-74
-  - norma_id: norm-can-res-boc-2025-047-108
-  - norma_id: norm-can-res-boc-2026-039-103
   - norma_id: norm-es-2010-13564
   - norma_id: norm-es-2011-12632
   - norma_id: norm-es-2011-15628
@@ -56,6 +52,7 @@ fundamentos_derecho:
 - norma_id: norm-es-2021-20113
 - norma_id: norm-es-2010-12201
 ---
+
 
 
 # Real Decreto 1363/2007, de 24 de octubre, por el que se establece la ordenación general de las enseñanzas deportivas de régimen especial.

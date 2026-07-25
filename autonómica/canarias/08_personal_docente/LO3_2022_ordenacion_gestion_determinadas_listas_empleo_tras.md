@@ -56,16 +56,6 @@ relaciones:
   - norma_id: norm-can-res-boc-2026-039-103
   - norma_id: norm-can-res-boc-2026-129-26
   - norma_id: norm-can-res-boc-2026-141-29
-  - norma_id: norm-es-2022-16194
-  - norma_id: norm-es-2023-9553
-  - norma_id: norm-es-2024-10683
-  - norma_id: norm-es-2024-10684
-  - norma_id: norm-es-2024-10685
-  - norma_id: norm-es-2024-11613
-  - norma_id: norm-es-2025-2039
-  - norma_id: norm-es-2026-12038
-  - norma_id: norm-es-lo-3-2022
-  - norma_id: norm-es-rd-659-2023
 fundamentos_derecho:
 - norma_id: norm-can-l-6-2014
   articulos:
@@ -76,6 +66,7 @@ fundamentos_derecho:
 - norma_id: norm-es-2010-12201
 fuente_pdf_oficial: https://sede.gobiernodecanarias.org/boc/boc-a-2023-133-2237.pdf
 ---
+
 
 
 # Resolución de 30 de junio de 2023, de la Dirección General de Personal, sobre la ordenación y gestión de determinadas listas de empleo, tras la entrada en vigor de la [Ley Orgánica 3/2022](../../../estatal/03_ordenacion_curricular_y_ensenanzas/LO3_2022_ordenacion_e_integracion_formacion_profesional.md), de 31 de marzo, de ordenación e integración de la Formación Profesional (BOC nº 133, de 10 de julio).

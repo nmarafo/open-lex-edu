@@ -62,8 +62,6 @@ relaciones:
   - norma_id: norm-can-res-boc-2026-109-92
   - norma_id: norm-can-res-boc-2026-129-26
   - norma_id: norm-can-res-boc-2026-141-29
-  - norma_id: norm-es-2010-10321
-  - norma_id: norm-es-2021-11382
 fundamentos_derecho:
 - norma_id: norm-es-ce-1978
   articulos:
@@ -71,6 +69,7 @@ fundamentos_derecho:
 ocr_procesado: true
 motor_ocr: rapidocr_onnxruntime
 ---
+
 
 
 # Ley Orgánica 1/2018, de 5 de noviembre, de reforma del Estatuto de Autonomía de Canarias.

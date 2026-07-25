@@ -46,6 +46,7 @@ fuente_pdf_oficial: https://sede.gobiernodecanarias.org/boc/boc-a-2018-048-1091.
 ---
 
 
+
 # Resolución de 27 de febrero de 2018, por la que se determinan las características de las pruebas para la obtención del certificado de nivel C2 de enseñanzas de idiomas de régimen especial, en la Comunidad Autónoma de Canarias (BOC n.º 48, de 8 de marzo).
 
 Jueves 8 de marzo de 2018

@@ -37,20 +37,12 @@ relaciones:
   - norma_id: norm-es-lo-1-2004
   fundamentado_en:
   - norma_id: norm-can-lo-1-2018
-  fundamento_de:
-  - norma_id: norm-es-2007-6115
-  - norma_id: norm-es-2008-979
-  - norma_id: norm-es-2010-4518
-  - norma_id: norm-es-2012-8745
-  - norma_id: norm-es-2015-8470
-  - norma_id: norm-es-2021-11382
-  - norma_id: norm-es-lo-3-2018
-  - norma_id: norm-es-lo-8-2021
 fundamentos_derecho:
 - norma_id: norm-can-lo-1-2018
   articulos:
   - '16'
 ---
+
 
 
 # Ley 16/2003 de Prevención y Protección Integral de las Mujeres contra la Violencia de Género de Canarias

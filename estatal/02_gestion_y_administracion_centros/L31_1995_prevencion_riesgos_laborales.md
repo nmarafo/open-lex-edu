@@ -27,12 +27,10 @@ tags:
 - seguridad-trabajo
 relaciones:
   desarrollado_por:
-  - norma_id: norm-can-d-168-2009
   - norma_id: norm-es-rd-39-1997
   fundamentado_en:
   - norma_id: norm-es-ce-1978
   fundamento_de:
-  - norma_id: norm-can-res-125
   - norma_id: norm-es-2002-12018
   - norma_id: norm-es-2007-10487
   - norma_id: norm-es-2007-6115
@@ -47,6 +45,7 @@ fundamentos_derecho:
   articulos:
   - '40.2'
 ---
+
 
 
 # Ley 31/1995 de Prevención de Riesgos Laborales

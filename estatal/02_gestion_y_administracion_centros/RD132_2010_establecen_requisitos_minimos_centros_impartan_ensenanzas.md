@@ -44,8 +44,6 @@ relaciones:
   - norma_id: norm-es-2021-20113
   - norma_id: norm-es-lo-8-1985
   fundamento_de:
-  - norma_id: norm-can-res-040
-  - norma_id: norm-can-res-boc-2024-230-25
   - norma_id: norm-es-2012-5337
   - norma_id: norm-es-rd-476-2013
 fundamentos_derecho:
@@ -59,6 +57,7 @@ fundamentos_derecho:
 - norma_id: norm-es-2021-20113
 - norma_id: norm-es-2010-12201
 ---
+
 
 
 # Real Decreto 132/2010 de Requisitos Mínimos de Centros Docentes

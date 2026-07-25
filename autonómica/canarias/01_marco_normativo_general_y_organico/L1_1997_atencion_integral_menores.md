@@ -36,7 +36,6 @@ relaciones:
   fundamento_de:
   - norma_id: norm-can-d-114-2011
   - norma_id: norm-can-res-juriscan-49002-54
-  - norma_id: norm-es-2021-11382
 fundamentos_derecho:
 - norma_id: norm-can-lo-1-2018
   articulos:
@@ -46,6 +45,7 @@ fundamentos_derecho:
   - '27'
 - norma_id: norm-es-lo-1-1996
 ---
+
 
 
 # Ley 1/1997 de Atención Integral a los Menores de Canarias

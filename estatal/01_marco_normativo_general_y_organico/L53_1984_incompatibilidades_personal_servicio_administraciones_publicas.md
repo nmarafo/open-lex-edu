@@ -28,7 +28,6 @@ relaciones:
   fundamentado_en:
   - norma_id: norm-es-ce-1978
   fundamento_de:
-  - norma_id: norm-can-o-1-9-2010
   - norma_id: norm-es-1985-7820
   - norma_id: norm-es-2002-12018
   - norma_id: norm-es-2005-21534
@@ -43,6 +42,7 @@ fundamentos_derecho:
   articulos:
   - '103.3'
 ---
+
 
 
 # Ley 53/1984 de Incompatibilidades del Personal al Servicio de las Administraciones Públicas

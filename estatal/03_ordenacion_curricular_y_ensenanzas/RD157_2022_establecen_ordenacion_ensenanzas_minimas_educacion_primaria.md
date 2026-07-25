@@ -35,8 +35,6 @@ tags:
 relaciones:
   desarrolla:
   - norma_id: norm-es-lo-2-2006
-  desarrollado_por:
-  - norma_id: norm-can-d-101-2023
   fundamentado_en:
   - norma_id: norm-es-2010-12201
   - norma_id: norm-es-2014-2222
@@ -67,6 +65,7 @@ fundamentos_derecho:
 - norma_id: norm-es-2021-20113
 - norma_id: norm-es-2010-12201
 ---
+
 
 
 # Real Decreto 157/2022 - Ordenación y Enseñanzas Mínimas de la Educación Primaria

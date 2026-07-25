@@ -56,6 +56,7 @@ fundamentos_derecho:
 ---
 
 
+
 # Orden ECI/592/2007, de 12 de marzo, por la que se aprueba el temario que ha de regir en el procedimiento de ingreso, accesos y adquisición de nuevas especialidades, para la especialidad de Primaria en el Cuerpo de Maestros, regulada por el [Real Decreto 276/2007](LO276_2007_aprueba_reglamento_ingreso_accesos_adquisicion_nuevas.md), de 23 de febrero.
 
 La [Ley Orgánica 2/2006](../01_marco_normativo_general_y_organico/LO2_2006_educacion_texto_consolidado_modificaciones_lomloe.md), de 3 de mayo, de Educación, en su disposición adicional sexta establece que, además de las recogidas en la [Ley 30/1984](../01_marco_normativo_general_y_organico/L30_1984_medidas_reforma_funcion_publica.md), de 2 de agosto, de Medidas para la Reforma de la Función Pública, modificada por la Ley 23/1988, de 28 de julio, son bases de régimen estatutario de los funcionarios públicos docentes, las reguladas por la propia Ley Orgánica y la normativa que la desarrolla, para el ingreso y la movilidad entre los cuerpos docentes, encomendando al Gobierno su desarrollo reglamentario en aquellos aspectos básicos que sean necesarios para garantizar el marco común básico de la función pública docente.

@@ -47,13 +47,13 @@ relaciones:
   - norma_id: norm-can-res-boc-2026-046-139
   - norma_id: norm-can-res-juriscan-49002-54
   - norma_id: norm-can-res-juriscan-64565-138
-  - norma_id: norm-es-2012-9282
 fundamentos_derecho:
 - norma_id: norm-can-lo-1-2018
   articulos:
   - '136'
 - norma_id: norm-es-1984-17387
 ---
+
 
 
 # Ley 2/1987 de la Función Pública Canaria

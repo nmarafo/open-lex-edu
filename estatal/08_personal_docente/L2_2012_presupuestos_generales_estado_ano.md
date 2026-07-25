@@ -26,7 +26,6 @@ tags:
 - personal-no-docente
 relaciones:
   fundamentado_en:
-  - norma_id: norm-can-l-16-2003
   - norma_id: norm-es-1984-17387
   - norma_id: norm-es-1985-5392
   - norma_id: norm-es-1999-23750
@@ -56,6 +55,7 @@ fundamentos_derecho:
 - norma_id: norm-es-2003-23399
 - norma_id: norm-es-2012-9282
 ---
+
 
 
 # Ley 2/2012, de 29 de junio, de Presupuestos Generales del Estado para el año 2012.

@@ -35,19 +35,6 @@ relaciones:
   - norma_id: norm-es-ce-1978
   - norma_id: norm-es-lo-2-2006
   fundamento_de:
-  - norma_id: norm-can-d-25-2018
-  - norma_id: norm-can-res-014
-  - norma_id: norm-can-res-063
-  - norma_id: norm-can-res-boc-2018-048-56
-  - norma_id: norm-can-res-boc-2018-086-122
-  - norma_id: norm-can-res-boc-2018-124-126
-  - norma_id: norm-can-res-boc-2019-069-48
-  - norma_id: norm-can-res-boc-2019-234-52
-  - norma_id: norm-can-res-boc-2020-236-82
-  - norma_id: norm-can-res-boc-2026-077-49
-  - norma_id: norm-can-res-boc-2026-077-62
-  - norma_id: norm-can-res-juriscan-72176-78
-  - norma_id: norm-can-res-juriscan-72882-123
   - norma_id: norm-es-2014-2222
   - norma_id: norm-es-2014-5591
   - norma_id: norm-es-2014-6008
@@ -74,6 +61,7 @@ fundamentos_derecho:
 - norma_id: norm-es-2021-20113
 - norma_id: norm-es-2010-12201
 ---
+
 
 
 # Orden ECD/462/2016, de 31 de marzo, por la que se regula el procedimiento de incorporación del alumnado a un curso de Educación Secundaria Obligatoria o de Bachillerato del sistema educativo definido por la Ley Orgánica 8/2013, de 9 de diciembre, para la mejora de la calidad educativa, con materias no superadas del currículo anterior a su implantación.

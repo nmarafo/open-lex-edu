@@ -31,8 +31,6 @@ tags:
 relaciones:
   desarrolla:
   - norma_id: norm-es-lo-8-1985
-  desarrollado_por:
-  - norma_id: norm-can-d-234-1996
   fundamentado_en:
   - norma_id: norm-es-ce-1978
 fundamentos_derecho:
@@ -43,6 +41,7 @@ fundamentos_derecho:
   articulos:
   - '27'
 ---
+
 
 
 # Real Decreto 1533/1986 por el que se regulan las asociaciones de padres de alumnos

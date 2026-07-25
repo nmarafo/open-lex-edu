@@ -24,10 +24,6 @@ relaciones:
   fundamentado_en:
   - norma_id: norm-es-ce-1978
   fundamento_de:
-  - norma_id: norm-can-d-109-1999
-  - norma_id: norm-can-l-2-1987
-  - norma_id: norm-can-res-boc-1996-057-140
-  - norma_id: norm-can-res-juriscan-49002-54
   - norma_id: norm-es-1985-5392
   - norma_id: norm-es-1985-7820
   - norma_id: norm-es-1986-1216
@@ -47,6 +43,7 @@ fundamentos_derecho:
   articulos:
   - '27'
 ---
+
 
 
 # Ley 30/1984, de 2 de agosto, de medidas para la reforma de la Función Pública.

@@ -56,6 +56,7 @@ fuente_pdf_oficial: https://sede.gobiernodecanarias.org/boc/boc-a-2026-070-1144.
 ---
 
 
+
 # [Resolución de 26 de marzo de 2026](../03_ordenacion_curricular_y_ensenanzas/R26_3_2026_amplian_resolucion_dicta_instrucciones_orientaciones_implantacion.md), por la que se convocan los Premios Extraordinarios de Educación Secundaria Obligatoria en el ámbito de la Comunidad Autónoma de Canarias, correspondientes al curso escolar 2025-2026. Plazo para realizar la solicitud de participación: del 19 de junio de 2026, día de la entrega de las calificaciones finales de ESO, al 26 de junio de 2026.
 
 III. Otras Resoluciones

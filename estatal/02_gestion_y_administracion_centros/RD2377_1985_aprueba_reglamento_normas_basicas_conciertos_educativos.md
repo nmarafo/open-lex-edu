@@ -32,9 +32,6 @@ relaciones:
   - norma_id: norm-es-lo-8-1985
   fundamentado_en:
   - norma_id: norm-es-ce-1978
-  fundamento_de:
-  - norma_id: norm-can-res-boc-2022-158-21
-  - norma_id: norm-can-res-juriscan-63878-20
 fundamentos_derecho:
 - norma_id: norm-es-lo-8-1985
   articulos:
@@ -43,6 +40,7 @@ fundamentos_derecho:
   articulos:
   - '27'
 ---
+
 
 
 # Real Decreto 2377/1985 - Reglamento de Normas Básicas sobre Conciertos Educativos
