@@ -1,0 +1,605 @@
+---
+id: norm-can-res-boc-2025-044-89
+codigo_sintetizado: Resolucion BOC 89
+titulo: Resolución de la Dirección General de Administración de Centros, Escolarización
+  y Servicios Complementarios, de 20 de febrero de 2025, por la que se establece el
+  calendario escolar y se dictan instrucciones para la organización y desarrollo de
+  las actividades de comienzo y finalización del curso 2025-2026, para los centros
+  de enseñanzas no universitarias de la Comunidad Autónoma de Canarias (BOC n.º 44,
+  de 4 de marzo).
+jurisdiccion: Canarias
+ambito: Autonómico
+organo_emisor: Dirección General de Administración de Centros, Escolarización y Servicios
+  Complementarios
+tipo_disposicion: Resolución
+estado: Vigente
+redaccion: pdf_oficial_boc
+fuente_oficial: https://www.gobiernodecanarias.org/boc/2025/044/886.html
+clasificacion:
+  categoria_canonica: 04_organizacion_escolar_y_funcionamiento
+  subcategoria: Calendario escolar y jornadas
+tags:
+- admision-alumnado
+- calendario-escolar-y-jornadas
+- ensenanzas-deportivas
+- equipos-directivos
+- formacion-profesional
+- organizacion-escolar
+- profesorado
+- roc
+relaciones:
+  desarrolla: []
+fundamentos_derecho:
+- norma_id: norm-can-l-6-2014
+  articulos:
+  - '1'
+- norma_id: norm-es-lo-2-2006
+- norma_id: norm-can-d-123-2023
+- norma_id: norm-can-d-84-2024
+- norma_id: norm-can-o-2013-10-09
+- norma_id: norm-es-2021-20113
+- norma_id: norm-es-2010-12201
+fuente_pdf_oficial: https://sede.gobiernodecanarias.org/boc/boc-a-2025-044-886.pdf
+---
+# Resolución de la Dirección General de Administración de Centros, Escolarización y Servicios Complementarios, de 20 de febrero de 2025, por la que se establece el calendario escolar y se dictan instrucciones para la organización y desarrollo de las actividades de comienzo y finalización del curso 2025-2026, para los centros de enseñanzas no universitarias de la Comunidad Autónoma de Canarias (BOC n.º 44, de 4 de marzo).
+
+III. Otras Resoluciones
+Consejería de Educación, Formación Profesional, Actividad Física y Deportes
+886 Dirección General de Administración de Centros, Escolarización y Servicios 
+Complementarios.- Resolución de 20 de febrero de 2025, por la que se establece el 
+calendario escolar y se dictan instrucciones para la organización y desarrollo de 
+las actividades de comienzo y finalización del curso 2025-2026, para los centros de 
+enseñanzas no universitarias de la Comunidad Autónoma de Canarias.
+Vista la necesidad de establecer el calendario escolar del curso 2025-2026, para la 
+adecuada coordinación de los centros educativos de la Comunidad Autónoma de Canarias, 
+teniendo en cuenta las propuestas trasladadas por los centros directivos con competencia 
+en las distintas enseñanzas incluidas en la presente Resolución, y conforme al siguiente
+ANTECEDENTE DE HECHO
+Único.- La organización y planificación de las actividades escolares corresponde a los 
+centros docentes en el ejercicio de su autonomía. No obstante, para la temporalización de 
+estas actividades se precisa fijar unas normas básicas que garanticen la necesaria coherencia 
+organizativa de todos los centros docentes.
+FUNDAMENTOS DE DERECHO
+Primero.- La disposición adicional quinta de la [Ley Orgánica 2/2006](../../../estatal/01_marco_normativo_general_y_organico/LO2_2006_educacion_texto_consolidado_modificaciones_lomloe.md), de 3 de mayo, de 
+Educación, establece que las Administraciones educativas fijarán anualmente el calendario 
+escolar, que comprenderá un mínimo de 175 días lectivos para las enseñanzas obligatorias.
+Segundo.- La Dirección General de Administración de Centros, Escolarización y Servicios 
+Complementarios es competente para, entre otras atribuciones, gestionar y controlar el régimen 
+administrativo y de gobierno de los centros educativos públicos no universitarios, así como 
+proponer la normativa relativa a la organización y funcionamiento de dichos centros, de 
+acuerdo con lo dispuesto en el artículo 18 del Reglamento Orgánico de la Consejería de 
+Educación, Formación Profesional, Actividad Física y Deportes, aprobado por el [Decreto 
+84/2024](../01_marco_normativo_general_y_organico/D84_2024_aprueba_reglamento_organico_formacion_profesional_actividad.md), de 10 de junio, en relación con la disposición transitoria única del [Decreto 
+123/2023](../01_marco_normativo_general_y_organico/D123_2023_determina_estructura_organica_sedes_consejerias_gobierno.md), de 17 de julio, por la que se determina la estructura orgánica y sedes de las 
+Consejerías del Gobierno de Canarias.
+Por lo que se dictan las presentes instrucciones con el calendario escolar que debe regir 
+para el año académico 2025-2026, así como la organización y desarrollo de las actividades 
+de comienzo y finalización del citado curso escolar en los centros docentes, públicos y 
+privados, de enseñanzas no universitarias de Canarias, y en ejercicio de las competencias 
+atribuidas,
+RESUELVO :
+Primero.- Objeto y ámbito de aplicación.
+1. Esta Resolución tiene por objeto establecer el calendario escolar y la organización y 
+desarrollo de las actividades de comienzo y finalización del curso escolar 2025-2026.
+
+2. La presente Resolución se aplicará a todos los centros públicos y privados que 
+impartan Educación Infantil, Educación Primaria, Educación Secundaria Obligatoria, Bachillerato, 
+Grado C de Formación Profesional (Itinerarios Formativos de Programas de Formación 
+Profesional Adaptada IFE +16 e IFC +21), Grado D de Formación Profesional, Educación 
+de Personas Adultas, Enseñanzas Deportivas, Enseñanzas Profesionales de Artes Plásticas 
+y Diseño, Enseñanzas Elementales y Profesionales de Música y Danza, Enseñanzas 
+Artísticas Superiores de Música, de Diseño, de Arte Dramático y Enseñanzas de Idiomas.
+3. Las escuelas oficiales de idiomas, como centros docentes que imparten Enseñanzas 
+de Idiomas de Régimen Especial, ajustarán sus actividades docentes a las instrucciones 
+de organización, funcionamiento y calendario que, para las citadas enseñanzas, dicte la 
+Dirección General de Formación Profesional y Enseñanzas de Régimen Especial.
+Segundo.- Días lectivos.
+1. Los centros ajustarán la planificación de sus actividades al calendario previsto en la 
+presente Resolución, debiendo cumplir en las enseñanzas obligatorias el mínimo de 175 días 
+lectivos, y en el resto de enseñanzas ajustándose a la duración en horas de cada enseñanza.
+2. El horario efectivo de impartición de clases no podrá destinarse a la celebración de 
+sesiones de evaluación u otras actividades no recogidas en la Programación General Anual 
+(PGA).
+Tercero.- Calendario de actividades de inicio y finalización de curso.
+1. El curso escolar se iniciará el 1 de septiembre de 2025 y finalizará el 31 de agosto 
+de 2026.
+2. Las actividades ordinarias del curso escolar se iniciarán el 1 de septiembre de 2025 
+y finalizarán el 30 de junio de 2026, de conformidad con lo dispuesto en el Anexo I de la 
+presente Resolución.
+3. En las Enseñanzas Artísticas Superiores las actividades ordinarias del curso escolar 
+se iniciarán el 1 de septiembre de 2025 y finalizarán el 10 de julio de 2026, tal y como se 
+prevé en el Anexo II de la presente Resolución.
+4. Las fechas de inicio y finalización de las actividades propiamente lectivas para cada 
+una de las enseñanzas, así como la fecha de entrega de las calificaciones finales, en su caso, 
+serán las que se indican a continuación:
+EDUCACIÓN INFANTIL, EDUCACIÓN PRIMARIA, EDUCACIÓN SECUNDARIA OBLIGATORIA Y
+BACHILLERATO
+Enseñanzas Fecha de Inicio
+(año 2025)
+Fecha de Finalización
+(año 2026) Entrega de calificaciones finales
+Educación Infantil y
+Educación Primaria 9 de septiembre  19 de junio
+19 de junio
+(o de informes finales en el caso de la
+concreción curricular adaptada)
+Educación Secundaria
+Obligatoria
+10 de septiembre  19 de junio 19 de junio
+Primer curso de
+Bachillerato 11 de septiembre 19 de junio Ordinaria:  12 de  junio
+Extraordinaria: 25 de  junio
+Segundo curso de
+Bachillerato 11 de septiembre 15 de mayo Ordinaria:  15 de mayo
+Extraordinaria: 12 junio
+
+ENSEÑANZAS DE FORMACIÓN PROFESIONAL Y DE RÉGIMEN ESPECIAL
+Enseñanzas Fecha de Inicio
+(año 2025)
+Fecha de Finalización
+(año 2026)
+Grado  C:  Itinerarios  Formativos  de  Programas  de
+Formación Profesional Adaptada IFE +16 e IFC +21 15 de septiembre 19 de junio
+Grado D de Formación Profesional: ciclos formativos
+de grado básico, medio y superior  15 de septiembre
+19 de junio
+29 de mayo
+(2º curso de los Ciclos Formativos de Grado
+Superior de Formación Profesional)
+Ciclos formativos de grado medio y de grado superior
+de Artes Plásticas y Diseño  15 de septiembre
+ 19 de junio
+28 de mayo
+(2º curso de los Ciclos Formativos de Grado
+Superior)
+Enseñanzas Artísticas superiores de Música, Diseño y
+Arte Dramático 15 de septiembre 15 de junio
+Ciclos formativos de Enseñanzas Deportivas  15 de septiembre  19 de junio
+Enseñanzas elementales y profesionales de Música  15 de septiembre 10 de junio
+2 de junio (6º curso)
+Enseñanzas de idiomas de régimen especial 22 de septiembre 28 de mayo
+EDUCACIÓN DE PERSONAS ADULTAS
+Enseñanzas Fecha de Inicio
+(año 2025)
+Fecha de Finalización
+(año 2026)
+Bachillerato de personas adultas 11 de septiembre 19 de junio
+(1º curso)
+Educación básica de personas adultas 10 de septiembre  19 de junio
+Curso  de  acceso  directo  a  ciclos
+formativos de grado medio 18 de septiembre  19 de junio
+Curso  de  acceso  directo  a  ciclos
+formativos de grado superior 18 de septiembre  19 de junio
+Inglés a distancia o That´s English! 22 de septiembre  15 de mayo
+Preparación para pruebas de acceso a
+ciclos formativos 22 de septiembre 7 de mayo
+La prueba de acceso será el 9 mayo
+Preparación  para  la  prueba  libre de
+obtención  directa  del  graduado  en
+Educación Secundaria Obligatoria
+22 de septiembre 7 de mayo
+Preparación para pruebas de acceso a
+la  Universidad  para  mayores  de  25
+años
+Se establecerá una vez que se hagan públicas las fechas correspondientes por cada
+una de las Universidades.
+Aulas Mentor  10 de septiembre  19 de junio
+Informática básica (nivel I)  10 de septiembre  20 de junio
+Informática básica (nivel II y III)  2 de febrero  19 de junio
+ENSEÑANZAS DE FORMACIÓN PROFESIONAL Y DE RÉGIMEN ESPECIAL
+Enseñanzas Fecha de Inicio
+(año 2025)
+Fecha de Finalización
+(año 2026)
+Grado  C:  Itinerarios  Formativos  de  Programas  de
+Formación Profesional Adaptada IFE +16 e IFC +21 15 de septiembre 19 de junio
+Grado D de Formación Profesional: ciclos formativos
+de grado básico, medio y superior  15 de septiembre
+19 de junio
+29 de mayo
+(2º curso de los Ciclos Formativos de Grado
+Superior de Formación Profesional)
+Ciclos formativos de grado medio y de grado superior
+de Artes Plásticas y Diseño  15 de septiembre
+ 19 de junio
+28 de mayo
+(2º curso de los Ciclos Formativos de Grado
+Superior)
+Enseñanzas Artísticas superiores de Música, Diseño y
+Arte Dramático 15 de septiembre 15 de junio
+Ciclos formativos de Enseñanzas Deportivas  15 de septiembre  19 de junio
+Enseñanzas elementales y profesionales de Música  15 de septiembre 10 de junio
+2 de junio (6º curso)
+Enseñanzas de idiomas de régimen especial 22 de septiembre 28 de mayo
+EDUCACIÓN DE PERSONAS ADULTAS
+Enseñanzas Fecha de Inicio
+(año 2025)
+Fecha de Finalización
+(año 2026)
+Bachillerato de personas adultas 11 de septiembre 19 de junio
+(1º curso)
+Educación básica de personas adultas 10 de septiembre  19 de junio
+Curso  de  acceso  directo  a  ciclos
+formativos de grado medio 18 de septiembre  19 de junio
+Curso  de  acceso  directo  a  ciclos
+formativos de grado superior 18 de septiembre  19 de junio
+Inglés a distancia o That´s English! 22 de septiembre  15 de mayo
+Preparación para pruebas de acceso a
+ciclos formativos 22 de septiembre 7 de mayo
+La prueba de acceso será el 9 mayo
+Preparación  para  la  prueba  libre de
+obtención  directa  del  graduado  en
+Educación Secundaria Obligatoria
+22 de septiembre 7 de mayo
+Preparación para pruebas de acceso a
+la  Universidad  para  mayores  de  25
+años
+Se establecerá una vez que se hagan públicas las fechas correspondientes por cada
+una de las Universidades.
+Aulas Mentor  10 de septiembre  19 de junio
+Informática básica (nivel I)  10 de septiembre  20 de junio
+Informática básica (nivel II y III)  2 de febrero  19 de junio
+5. Cuando alguna de las fechas de inicio indicadas en el subapartado anterior fuera un 
+día inhábil en el municipio o la isla en el que se ubicase el centro educativo, la fecha de 
+inicio de las clases se entenderá prorrogada al primer día lectivo siguiente, establecido con 
+carácter general.
+6. Los días previstos para el inicio de las distintas enseñanzas se podrán destinar a la 
+realización de actos de presentación de inicio de curso o del profesorado con el alumnado.
+7. La incorporación progresiva o la flexibilidad de horario para el alumnado de 
+Educación Infantil escolarizado en el centro por primera vez, deberá planificarse de forma 
+que este alumnado esté plenamente incorporado a la actividad académica a la finalización 
+de los primeros 10 días lectivos de inicio de las clases en el centro. No obstante, el alumnado 
+de Educación Infantil, de las aulas enclave o de los centros de Educación Especial, que se 
+
+incorpore por primera vez a un centro educativo y que presente dificultades de adaptación, 
+deberá acogerse a las medidas acordadas por el equipo directivo, a propuesta del equipo 
+educativo, oída la familia.
+8. En los niveles de Educación Infantil y Educación Primaria, y en los Centros de 
+Educación Especial, las clases se impartirán en régimen de jornada intensiva en el periodo 
+que va desde la fecha de inicio de las actividades propiamente lectivas hasta el 12 de 
+septiembre, y a partir del 15 de junio, hasta la finalización de las actividades lectivas (19 
+de junio).
+Durante la jornada intensiva, el horario lectivo del alumnado se disminuirá en una hora 
+diaria al final de la jornada, realizándose las correspondientes adaptaciones. Con respecto 
+al horario del profesorado, la hora lectiva de disminución pasará a tener la consideración 
+de no obligada permanencia en el centro.
+A partir de la finalización de las actividades lectivas y hasta el 30 de junio, el horario 
+presencial del profesorado se verá disminuido, igualmente, en una hora, teniendo la hora 
+de disminución la consideración de no obligada permanencia en el centro, con dedicación 
+especial a dejar finalizados todos los trámites y gestiones de final de curso, así como los 
+referidos a la memoria final.
+En el periodo comprendido entre la incorporación y el inicio de las clases, las horas 
+de carácter no lectivo y de periodicidad fija (exclusiva) podrán ser organizadas por cada 
+centro, según acuerdo del Claustro, en función de sus necesidades organizativas.
+En el mes de junio, las horas de carácter no lectivo y de periodicidad fija (exclusiva) 
+tendrán la consideración de no obligada permanencia en el centro, excepto las correspondientes 
+a una de las semanas, que tendrá como función principal la de atender a padres, madres o 
+tutores legales, una vez evaluado el alumnado, de conformidad con el horario de atención a 
+las familias establecido en el artículo 14.2 de la [Orden de 9 de octubre de 2013](Ds_n_desarrolla_decreto_aprueba_reglamento_organico_centros.md).
+El día 15 de septiembre se iniciará la jornada no intensiva de clases.
+9. En los centros privados sostenidos con fondos públicos de Educación Infantil y Primaria: 
+en el periodo comprendido entre el 9 y el 12 de septiembre de 2025, y en el periodo entre el 
+15 y el 19 de junio de 2026, las actividades lectivas en dichos centros podrán desarrollarse 
+en jornada intensiva, de forma análoga a lo que se establezca para los centros públicos, si 
+así lo decide el titular del centro.
+10. Los Centros de Educación Obligatoria (CEO), durante el periodo de jornada 
+intensiva de septiembre, podrán adecuar el horario del alumnado al servicio de transporte, 
+manteniéndose el número de sesiones lectivas.
+11. El calendario establecido con carácter general para las enseñanzas de Formación 
+Profesional podrá ser adaptado, para la Formación Profesional Dual, por la Dirección 
+General de Formación Profesional y Enseñanzas de Régimen Especial.
+12. En todos los centros se celebrará el día 30 de junio de 2026 el preceptivo claustro 
+de final de curso.
+
+Cuarto.- Certificación de matrícula (modelo 0).
+Los centros educativos tendrán los siguientes plazos para certificar los datos de 
+matrícula (modelo 0), según las instrucciones que al efecto se comuniquen:
+Educación Infantil y Educación Primaria Hasta el día 18 de septiembre de
+Educación Secundaria Obligatoria y Bachillerato Hasta el 24 de septiembre de 2025
+Enseñanzas  de  Formación  Profesional,  Enseñanzas  Deportivas,  Enseñanzas
+Profesionales de Artes Plásticas y Diseño, Enseñanzas Elementales y Profesionales de
+Música y Danza, Enseñanzas Artísticas Superiores de Música, de Diseño y de Arte
+Dramático, Enseñanza de Idiomas
+Hasta el 31 de octubre de 2025
+Educación de Personas Adultas (incluido el Bachillerato de Personas Adultas) Hasta el 31 de octubre de 2025
+4.º de Educación Primaria Del 4 al 15 de mayo de 2026
+2.º de Educación Secundaria Obligatoria Del 18 al 28 de mayo de 2026
+Quinto.- Evaluaciones de Diagnóstico de la Agencia Canaria de Calidad 
+Universitaria y Evaluación Educativa (ACCUEE).
+1. La ACCUEE publicará, antes del mes de marzo de 2026, las instrucciones para la 
+realización de las pruebas de diagnóstico correspondientes a las enseñanzas no universitaria, 
+aplicándose en los niveles de 4.º de Educación Primaria y de 2.º de Educación Secundaria 
+Obligatoria.
+2. Con la finalidad de que el proceso se desarrolle en las mejores condiciones, los 
+centros educativos deberán ajustar sus actividades, teniendo en cuenta que las fechas para 
+la realización de las pruebas de diagnóstico, así como para la cumplimentación de los 
+cuestionarios de contexto correspondientes, serán las siguientes:
+Educación Infantil y Educación Primaria Hasta el día 18 de septiembre de
+Educación Secundaria Obligatoria y Bachillerato Hasta el 24 de septiembre de 2025
+Enseñanzas  de  Formación  Profesional,  Enseñanzas  Deportivas,  Enseñanzas
+Profesionales de Artes Plásticas y Diseño, Enseñanzas Elementales y Profesionales de
+Música y Danza, Enseñanzas Artísticas Superiores de Música, de Diseño y de Arte
+Dramático, Enseñanza de Idiomas
+Hasta el 31 de octubre de 2025
+Educación de Personas Adultas (incluido el Bachillerato de Personas Adultas) Hasta el 31 de octubre de 2025
+4.º de Educación Primaria Del 4 al 15 de mayo de 2026
+2.º de Educación Secundaria Obligatoria Del 18 al 28 de mayo de 2026
+Sexto.- Vacaciones.
+Durante el curso escolar 2025-2026 tendrán la consideración de periodos de vacaciones 
+escolares los siguientes:
+- Navidad: del 22 de diciembre de 2025 al 7 de enero de 2026, ambos inclusive.
+- Semana Santa: del 30 de marzo al 3 de abril de 2026, ambos inclusive.
+Séptimo.- Días festivos.
+1. Serán días festivos nacionales y de la Comunidad Autónoma de Canarias, para el 
+curso escolar 2025-2026, los siguientes:
+a) En el año 2025, el 1 de noviembre (Todos los Santos), el 6 de diciembre (Día de la 
+Constitución Española) y el 8 de diciembre (Inmaculada Concepción). Así como, en las 
+islas, las siguientes fiestas laborales:
+• En Fuerteventura: el 19 de septiembre, festividad de Nuestra Señora de la Peña.
+
+• En La Gomera: el 6 de octubre, festividad de Nuestra Señora de Guadalupe.
+• En Lanzarote y La Graciosa: el 15 de septiembre, festividad de Nuestra Señora de 
+Los V olcanes.
+b) En el año 2026, los que la normativa establezca en el calendario de fiestas laborales 
+en el ámbito de la Comunidad Autónoma de Canarias.
+2. Los dos días correspondientes a las fiestas de ámbito local, serán los previstos en el 
+Boletín Oficial de Canarias para cada municipio, en el caso de que coincidan dentro del 
+calendario escolar.
+3. También tiene la consideración de festivo a efectos académicos, el 5 de diciembre de 
+2025, celebración del Día del Enseñante y del Estudiante.
+Octavo.- Días no lectivos de libre disposición de los centros docentes.
+1. Además de los días señalados como festivos en la instrucción anterior, los consejos 
+escolares de los centros, oído el Consejo Escolar Municipal, donde estuviera constituido, 
+podrán establecer hasta un máximo de cuatro días no lectivos.
+No se podrán fijar los días de libre disposición dejando un único día lectivo en la 
+semana.
+2. Las direcciones de los centros tendrán que comunicar antes del 31 de octubre 
+de 2025, mediante la aplicación informática establecida por la Dirección Territorial de 
+Educación correspondiente, las fechas concretas de los cuatro días no lectivos de libre 
+disposición, con los requisitos señalados en el apartado siguiente. Si alguno de esos días de 
+libre disposición es anterior al 31 de octubre, la solicitud debe hacerse con al menos una 
+semana de antelación a la fecha escogida.
+3. La determinación de los cuatro días a los que se refiere el apartado anterior y su 
+localización en el calendario se explicitarán en la Programación General Anual (PGA), 
+adjuntándose a la misma un extracto del acta de la sesión del Consejo Escolar en que fue 
+aprobada la propuesta. Dicho acuerdo se dará a conocer a toda la comunidad educativa y se 
+expondrá en un lugar visible del centro durante todo el curso.
+4. En todo caso, los centros que comparten los servicios de transporte escolar, comedor 
+u otros servicios educativos complementarios, deberán acordar un calendario unificado. 
+De no conseguirse este acuerdo será la Dirección Territorial de Educación quien lo fijará 
+mediante resolución, visto el informe elaborado por la Inspección Educativa.
+5. Los miembros de los Equipos de Orientación Educativa y Psicopedagógicos estarán 
+sujetos a lo que establezca su normativa específica, siendo esta norma de carácter supletorio.
+Noveno.- Actividades de finalización de curso y entrega de calificaciones.
+1. Antes del 15 de mayo de 2026, y mediante el procedimiento establecido, la dirección 
+del centro enviará a la Inspección Educativa, para su supervisión, la planificación de todas 
+las actividades programadas para la finalización del curso, con especificación de las fechas 
+
+de las sesiones de evaluación final, que se determinarán respetando las actividades lectivas, 
+así como las fechas correspondientes a las restantes actividades previstas hasta el 30 de 
+junio, excepto para las enseñanzas artísticas superiores, que finalizarán el 10 de julio 
+de 2026; todo ello en el marco del calendario establecido en esta Resolución. De dicha 
+planificación será informada toda la comunidad escolar.
+2. En los anexos de la presente Resolución se especifican las fechas cuya coincidencia 
+es necesaria para llevar a cabo las distintas actividades de finalización del curso que 
+corresponden a cada uno de los niveles y las modalidades de enseñanzas de los meses de 
+mayo, junio, julio y septiembre.
+3. El día señalado para la entrega de las calificaciones finales se destinará a atender, 
+por parte del profesorado, según el procedimiento que determine la dirección del centro, 
+las aclaraciones que requieran padres, madres, tutores o tutoras legales, guardadores o 
+alumnado. La concreción de los dos días hábiles siguientes a la publicación o notificación de 
+las calificaciones previstos como plazo de presentación de reclamaciones, en su caso, ante la 
+dirección del centro, así como la hora precisa en que finaliza dicho plazo, se dará a conocer 
+a través del profesorado tutor de grupo y mediante la publicación destacada en los lugares 
+habilitados o los medios habituales para las comunicaciones del centro.
+4. Asimismo, los centros que imparten enseñanzas incorporadas al Registro Centralizado 
+de Expedientes Académicos, deberán cerrar, antes de la finalización del mes de septiembre 
+de 2025, no antes del plazo de presentación de reclamaciones a las calificaciones, y en el 
+citado aplicativo, el curso 2024-2025, indispensable para la posterior tramitación de los 
+correspondientes títulos académicos, remisión a los centros de destino de los historiales 
+académicos del alumnado que se haya trasladado y la entrega de una copia de los mismos 
+a las familias de aquel alumnado que haya finalizado etapa.
+Décimo.- Programación General Anual y memoria final de curso.
+1. El plazo para la aprobación de la PGA, con carácter general, finaliza el día 31 de 
+octubre de 2025.
+2. Una vez aprobada la memoria final del curso por la dirección del centro, será remitida 
+a la Inspección de Educación a través de la página web de la Consejería de Educación, 
+Formación Profesional, Actividad Física y Deportes, o de los medios telemáticos que se 
+establezcan al efecto, antes del 15 de julio de 2026. La Inspección de Educación remitirá 
+a la Dirección General de Ordenación de las Enseñanzas, Inclusión e Innovación, las 
+memorias de los centros de Educación Especial.
+Undécimo.- Calendario de las pruebas extraordinarias.
+1. Los centros publicarán antes del 15 de mayo de 2026, el calendario de las pruebas 
+extraordinarias en las enseñanzas que correspondan.
+2. Para el alumnado que accede al módulo de FCT en el primer cuatrimestre del curso 
+2025-2026 por no tenerlo superado, se realizará, en un plazo no superior a cinco días hábiles 
+desde su finalización, una sesión de evaluación final extraordinaria de FCT en la que se 
+decida su titulación y propuesta de certificación.
+
+Duodécimo.- Bachillerato de Personas Adultas.
+Los centros que imparten Bachillerato de Personas Adultas y actúan como centros de 
+apoyo para que el alumnado del Bachillerato presencial curse alguna materia, deberán tener 
+en cuenta las fechas señaladas en la presente Resolución para trasladar la documentación al 
+centro de referencia correspondiente.
+Decimotercero.- Sesiones de evaluación y envío de rendimiento académico.
+1. La sesión de evaluación correspondiente a la primera evaluación deberá realizarse 
+antes del periodo de vacaciones escolares de Navidad.
+2. La sesión de evaluación correspondiente a la segunda evaluación deberá realizarse 
+antes de las vacaciones escolares correspondientes a la Semana Santa.
+3. Los centros que imparten Educación Primaria, Educación Secundaria Obligatoria, 
+Educación Básica de Personas Adultas, Bachillerato, Bachillerato de Personas Adultas, 
+Formación Profesional, Curso Específico de acceso a Ciclos Formativos de Grado Medio, 
+Enseñanzas Profesionales de Artes Plásticas y Diseño, Enseñanzas Musicales y Enseñanzas 
+Deportivas, remitirán a la Inspección General de Educación los datos del rendimiento académico 
+correspondientes a:
+• La primera y segunda evaluación, en cuyo caso, la propia Inspección General de Educación 
+comunicará, a los centros que proceda, el plazo para su remisión.
+• La evaluación final ordinaria, antes del 30 de junio de 2026; y la evaluación extraordinaria, 
+en su caso, como fecha límite el 3 de julio de 2026.
+Decimocuarto.- Modificaciones excepcionales.
+1. El calendario escolar aprobado por la presente Resolución, con las excepciones 
+recogidas en la misma, es de obligado cumplimiento para todos los centros docentes de 
+Canarias que imparten enseñanzas de niveles no universitarios, y no podrá ser modificado.
+2. La alteración o adaptación del calendario escolar por la coincidencia con determinadas 
+festividades locales, o cuando concurran circunstancias excepcionales sobrevenidas, deberá contar 
+con la previa autorización expresa de la Dirección Territorial de Educación correspondiente, 
+siempre con el visto bueno de la Inspección de Educación. La solicitud de propuesta motivada de 
+modificación será formulada por el centro educativo con la debida antelación a través del órgano 
+competente y poniéndolo en conocimiento del Consejo Escolar del centro o Consejo Social en su 
+caso.
+3. Ante la posible realización de obras de infraestructura en los centros educativos, la 
+dirección adoptará las medidas oportunas para facilitar la mejor ejecución de las mismas.
+Decimoquinto.- Divulgación.
+Cada centro educativo deberá garantizar la divulgación suficiente del calendario escolar 
+durante todo el curso escolar, así como de las modificaciones al mismo que pudieran 
+autorizarse en su caso.
+
+Decimosexto.- Cómputo de plazos.
+Son días inhábiles, a efectos de cómputo de plazos, en los trámites propios de los centros 
+educativos, los sábados, los domingos, los días declarados como festivos, los periodos de 
+vacaciones y los días no lectivos establecidos por los Consejos Escolares.
+Decimoséptimo.- Responsabilidad, supervisión y control del cumplimiento del 
+calendario escolar.
+1. La responsabilidad del cumplimiento de este calendario escolar corresponde a la 
+persona que ejerza la dirección del centro o a la persona titular del mismo en el caso de 
+centros privados o privados concertados.
+2. La supervisión y control de su aplicación corresponde a la Inspección de Educación, 
+que velará por su cumplimiento y adoptará cuantas medidas sean necesarias al efecto.
+Contra el presente acto, que no pone fin a la vía administrativa, cabe interponer en el 
+plazo de un mes, a contar desde el día siguiente al de su publicación en el Boletín Oficial de 
+Canarias, recurso de alzada ante la Viceconsejería de Educación o ante la Viceconsejería de 
+Formación Profesional y Cualificaciones Profesionales, en atención a su competencia, sin 
+perjuicio de cualesquiera otro que se estime procedente interponer.
+Las Palmas de Gran Canaria, a 20 de febrero de 2025.- El Director General de 
+Administración de Centros, Escolarización y Servicios Complementarios, David Crego 
+Chaves.
+
+A N E X O  I
+CALENDARIO DE FINALIZACIÓN DE ACTIVIDADES
+CURSO 2025-2026
+MESES DE ABRIL, MAYO Y JUNIO DE 2026
+BACHILLERATO
+PRIMER CURSO DE BACHILLERATO
+Finalización actividades de primer curso de Bachillerato 19 de junio
+Finalización actividades de primer curso de Bachillerato de Personas Adultas 19 de junio
+SEGUNDO CURSO DE BACHILLERATO
+Convocatoria
+Ordinaria
+El alumnado de este curso con asignaturas pendientes del curso anterior
+deberá estar evaluado de las mismas Antes del 8 de mayo
+Los centros tienen para terminar las sesiones de la evaluación final
+ordinaria Hasta el 14 de mayo
+Entrega de calificaciones finales 15 de mayo
+Bachillerato
+de Personas
+Adultas
+Alumnado en condiciones de titular se regirá por las fechas indicadas en los puntos anteriores
+Alumnado
+sin
+condiciones
+de titular
+Sesiones de la evaluación final ordinaria Hasta el 12 de junio
+ Entrega de las calificaciones finales 12 de junio
+Convocatoria
+extraordinaria
+ El alumnado de este curso con asignaturas pendientes del curso anterior
+deberá estar evaluado de las mismas Antes del 5 de junio
+ Los  centros  tienen  para  terminar  las  sesiones  de  la  evaluación  final
+extraordinaria Hasta el 11 de junio
+Entrega de las calificaciones finales  12 de junio
+Bachillerato
+de Personas
+Adultas
+ Alumnado en condiciones de titular, se regirá por las fechas indicadas en los puntos anteriores
+Alumnado
+sin
+condiciones
+de titular
+ Sesiones  de  evaluación  final
+extraordinaria        
+ 25 de junio
+ Entrega de las calificaciones finales  26 de junio
+FORMACIÓN PROFESIONAL DE GRADO C (Certificados Profesionales): ITINERARIOS FORMATIVOS DE
+PROGRAMAS DE FORMACIÓN PROFESIONAL ADAPTADA (IFE +16 e IFC +21), 
+Entrega de calificaciones 19 de junio
+FORMACIÓN PROFESIONAL DE GRADO D (NIVEL 1): CICLOS FORMATIVOS DE GRADO BÁSICO, GRADO
+MEDIO Y GRADO SUPERIOR
+Primer
+curso
+Entrega de calificaciones finales de evaluación extraordinaria  19 de junio
+Segundo
+curso
+Entrega de calificaciones finales de evaluación  19 de junio
+ARTES PLÁSTICAS Y DISEÑO Y ENSEÑANZAS DEPORTIV AS (EXCEPTO SEGUNDO CURSO DE CICLOS
+FORMATIVOS DE GRADO SUPERIOR DE ARTES PLÁSTICAS Y DISEÑO)
+Sesiones de la evaluación final ordinaria Hasta el 18 de junio
+Entrega de calificaciones finales 19 de junio
+ANEXO I
+CALENDARIO DE FINALIZACIÓN DE ACTIVIDADES  
+CURSO 2025-2026
+
+SEGUNDO CURSO DE CICLOS FORMATIVOS DE GRADO SUPERIOR DE ARTES PLÁSTICAS Y DISEÑO
+Finalización de la formación práctica en empresas, estudios y talleres o de los Ciclos
+Formativos de Artes Plásticas y Diseño Hasta el 22 de mayo
+Las evaluaciones y calificaciones finales de segundo curso de los ciclos formativos de
+grado superior deberán estar terminadas  27 de mayo
+Entrega de calificaciones finales  28 de mayo
+ENSEÑANZAS DE MÚSICA (CONSERV ATORIO ELEMENTAL Y CONSERV ATORIOS PROFESIONALES DE
+MÚSICA)
+Para  las  Enseñanzas  Elementales  y  las
+Enseñanzas  Profesionales  de  Música
+(excepto  para  el  sexto  curso  de  estas
+Enseñanzas Profesionales)
+Sesiones de evaluación final ordinaria Hasta el 9 de junio
+Entrega de calificaciones finales  10 de junio
+Para  el  sexto  curso  de  estas  Enseñanzas
+Profesionales
+Sesiones de evaluación final ordinaria Hasta el 1 de junio
+Entrega de calificaciones finales  2 de junio
+ENSEÑANZAS DE IDIOMAS DE RÉGIMEN ESPECIAL
+La finalización de las actividades académicas de las Enseñanzas de Idiomas de Régimen Especial atenderá a lo dispuesto en las
+Resoluciones que, al efecto, dicte la Dirección General de Formación Profesional y Enseñanzas de Régimen Especial
+EDUCACIÓN BÁSICA DE PERSONAS ADULTAS Y CURSO DE ACCESO DIRECTO A CICLOS FORMATIVOS DE
+GRADO MEDIO Y SUPERIOR
+El alumnado del nivel II de la Educación Secundaria para Personas Adultas (ESPA) con un ámbito pendiente del  primer nivel
+deberá estar evaluado del mismo
+Sesiones de evaluación final (únicamente en el caso de Educación Básica de Personas Adultas)
+MES DE SEPTIEMBRE DE 2026
+ENSEÑANZAS PROFESIONALES DE MÚSICA
+Enseñanzas Profesionales de Música: Del 1 al 7 de septiembre plazo para la realización de la evaluación extraordinaria, las sesiones
+de evaluación y la entrega de calificaciones
+El correspondiente trámite de matrícula de las enseñanzas a las que se hace referencia en los apartados anteriores se hará, en su
+caso, de acuerdo con los plazos que se establezcan en la correspondiente Resolución de admisión del alumnado
+
+A N E X O II
+CALENDARIO DE FINALIZACIÓN DE ACTIVIDADES EN LAS ENSEÑANZAS ARTÍSTICAS
+SUPERIORES DE MÚSICA, DISEÑO Y ARTE DRAMÁTICO
+CURSO 2025-2026
+CONVOCATORIA SEMESTRE EXÁMENES
+Evaluaciones, entrega de
+calificaciones,
+reclamaciones e informes
+de equipos educativos /
+tribunales
+Ordinaria
+Asignaturas del primer semestre Del 12  al 21 de enero Del 22 al 29 de enero
+Asignaturas anuales y del segundo 
+semestre*
+ Del 25 de mayo al 5 de
+junio  Del 8 al 15 de junio
+Registro y primer llamamiento del 
+Trabajo Fin de Estudios -- Del 8 al 26 de junio
+Extraordinaria
+Asignaturas anuales y del primer y 
+segundo semestre
+ Del 22 de junio al 3 de
+julio  Del 6 al 10 de julio
+Registro y segundo llamamiento del 
+Trabajo Fin de Estudios
+--  Del 7 de julio al 8 de
+septiembre
+ *Las actividades lectivas de las asignaturas del segundo semestre comienzan el 26 de enero de 2026
+ANEXO II
+CALENDARIO DE FINALIZACIÓN DE ACTIVIDADES EN LAS ENSEÑANZAS 
+ARTÍSTICAS SUPERIORES DE MÚSICA, DISEÑO  
+Y ARTE DRAMÁTICO CURSO 2025-2026

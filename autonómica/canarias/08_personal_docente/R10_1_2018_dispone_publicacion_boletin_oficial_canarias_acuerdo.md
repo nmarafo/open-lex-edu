@@ -1,0 +1,372 @@
+---
+id: norm-can-res-boc-2018-019-130
+codigo_sintetizado: Resolucion BOC 130
+titulo: Resolución de 10 de enero de 2018, de la Dirección General de Personal, por
+  la que se dispone la publicación en el Boletín Oficial de Canarias del Acuerdo entre
+  la Consejería de Educación y Universidades y las centrales sindicales representativas
+  del profesorado sobre la mejora del marco retributivo del personal docente no universitario
+  del ámbito de la Consejería de Educación y Universidades (BOC n.º 19, de 26 de enero).
+jurisdiccion: Canarias
+ambito: Autonómico
+organo_emisor: Dirección General de Personal y Formación del Profesorado
+tipo_disposicion: Resolución
+estado: Vigente
+redaccion: pdf_oficial_boc
+fuente_oficial: http://www.gobcan.es/boc/2018/019/007.html
+clasificacion:
+  categoria_canonica: 08_personal_docente
+  subcategoria: Formación del profesorado
+tags:
+- equipos-directivos
+- evaluacion
+- formaci-n-del-profesorado
+- profesorado
+relaciones:
+  desarrolla: []
+fundamentos_derecho:
+- norma_id: norm-can-l-6-2014
+  articulos:
+  - '1'
+fuente_pdf_oficial: https://sede.gobiernodecanarias.org/boc/boc-a-2018-019-376.pdf
+---
+# Resolución de 10 de enero de 2018, de la Dirección General de Personal, por la que se dispone la publicación en el Boletín Oficial de Canarias del Acuerdo entre la Consejería de Educación y Universidades y las centrales sindicales representativas del profesorado sobre la mejora del marco retributivo del personal docente no universitario del ámbito de la Consejería de Educación y Universidades (BOC n.º 19, de 26 de enero).
+
+Viernes 26 de enero de 2018
+III. Otras Resoluciones
+Consejería de Educación y Universidades
+376 Dirección General de Personal.- Resolución de 10 de enero de 2018, por la que 
+se dispone la publicación en el Boletín Oficial de Canarias del Acuerdo entre la 
+Consejería de Educación y Universidades y las centrales sindicales representativas 
+del profesorado sobre la mejora del marco retributivo del personal docente no 
+universitario del ámbito de la Consejería de Educación y Universidades.
+El día 1 de septiembre de 2017, en la sede de la Presidencia del Gobierno de Canarias en 
+Santa Cruz de Tenerife, la Consejería de Educación y Universidades y las centrales sindicales 
+representativas del profesorado de la enseñanza pública, en presencia del Presidente del 
+Gobierno de Canarias, firmaron el acuerdo sobre la mejora del marco retributivo del 
+personal docente no universitario del ámbito de actuación de la Consejería de Educación y 
+Universidades.
+A fin de favorecer el conocimiento del citado Acuerdo, esta Dirección General, 
+R E S U E L V E:
+Único.- Ordenar la publicación en el Boletín Oficial de Canarias del Acuerdo firmado y 
+que se inserta a continuación.
+Las Palmas de Gran Canaria, a 10 de enero de 2018.- El Director General de Personal, 
+Juan Rafael Bailón Casanova. 
+Página 
+
+Viernes 26 de enero de 2018
+La [Ley 6/2014](../01_marco_normativo_general_y_organico/L6_2014_canaria_educacion_no_universitaria.md), de 25 de julio, Canaria de Educación no Universitaria (BOC 
+nº 152, de 7 de agosto) establece en el artículo 65 un conjunto de medidas para el 
+reconocimiento y la protección de la función docente. En este sentido, recoge el deber 
+de la Administración educativa de velar para que el profesorado reciba el trato, la 
+consideración y el respeto que le corresponden conforme a la importancia social de la 
+tarea que desempeña. 
+Asimismo, establece que la consejería competente en materia de educación prestará una 
+atención prioritaria a la mejora de las condiciones laborales del profesorado y establecerá 
+planes de trabajo para lograr una creciente consideración y reconocimiento social de la 
+función docente. A su vez, se potenciará el desarrollo de medidas de profesionalización 
+docente como la formación permanente, la innovación y la investigación educativas dirigidas 
+a la mejora y actualización de la competencia profesional de la práctica docente, así como a 
+su reconocimiento en la promoción e incentivación del profesorado.
+En virtud de lo anterior, la Ley Canaria de Educación determina, en la Disposición 
+adicional decimocuarta, que la consejería competente en materia educativa elaborará, con 
+la colaboración de las organizaciones más representativas del profesorado y con el Consejo 
+Escolar de Canarias un plan para promover el desarrollo profesional y el reconocimiento 
+social del profesorado.
+Una de la acciones incluidas en el citado Plan de Reconocimiento Profesional y Social 
+del Profesorado que promueve la Consejería de Educación y Universidades del Gobierno de 
+Canarias es la mejora del marco retributivo del personal docente no universitario. 
+En base a ello, la Consejería de Educación y Universidades y las centrales sindicales 
+firmantes, reunidas en la sede de la Presidencia del Gobierno de Canarias en Santa Cruz de 
+Tenerife, el 1 de septiembre de 2017, acuerdan la mejora del marco retributivo del personal 
+docente no universitario dependiente de la Consejería de Educación y Universidades, 
+conforme se señala a continuación.
+I-ASPECTOS GENERALES.
+Primero.- El Plan de Reconocimiento Profesional y Social del Profesorado tiene como 
+objetivo reforzar la figura del docente como eje principal del sistema educativo canario, que 
+contribuye de forma significativa al incremento de su calidad. 
+La mejora del marco retributivo del personal docente no universitario del ámbito 
+de la Consejería de Educación y Universidades, como una de las acciones incluidas 
+en el citado Plan, estará vinculada a la mejora del sistema educativo canario, en tanto 
+que requiere de docentes motivados y comprometidos con la mejora continua en su 
+desempeño profesional. 
+Segundo.- La mejora del marco retributivo objeto del presente acuerdo incluirá la 
+implementación y, en su caso abono, del complemento por formación permanente, conocido 
+en el resto del Estado como sexenio, y el abono de otros complementos asociados a funciones 
+docentes de especial responsabilidad al personal docente no universitario de centros públicos 
+de la Consejería de Educación y Universidades del Gobierno de Canarias.
+
+Viernes 26 de enero de 2018
+Tercero.- La financiación de la mejora del marco retributivo será de carácter plurianual, 
+y se desarrollará de forma gradual en 5 anualidades, comprendidas entre el año 2018 y 
+el 2022, ambos inclusive, en consonancia con el aumento presupuestario progresivo que 
+establece la Ley 6/2014, de 25 de julio, Canaria de Educación no Universitaria.
+II-COMPLEMENTO POR FORMACIÓN PERMANENTE-SEXENIOS.
+Cuarto.- El abono del complemento por formación permanente se ajustará, para cada 
+sexenio, a la financiación gradual señalada en el apartado tercero, hasta un máximo de cinco 
+sexenios, en catorce mensualidades, conforme a la valoración económica que se señala a 
+continuación:
+Quinto.- Los requisitos para lograr el complemento por formación permanente, son los 
+que se determinan a continuación:
+1) Podrá acceder al complemento retributivo de mejora por sexenios, el personal docente 
+no universitario de la Comunidad Autónoma de Canarias que se encuentren en situación 
+de servicio activo y que haya desarrollado con normalidad su actividad docente durante el 
+período que desee consolidar.
+A los efectos del presente acuerdo se considera que el normal desarrollo de la actividad 
+docente durante un curso académico consiste en el correcto desempeño de las funciones 
+propias del puesto de trabajo que ocupa, especialmente en lo que se refiere a la asistencia al 
+mismo y el adecuado rendimiento en la actividad docente desarrollada.
+2) Los requisitos para lograr un complemento retributivo de mejora por sexenios estarán 
+vinculados a la formación acreditada y actividades de gestión, investigación e innovación 
+educativa vinculadas a objetivos de calidad y excelencia que necesita el sistema educativo 
+canario.
+En concreto, el personal docente deberá acreditar 100 horas (o su equivalente en 
+créditos LRU o ECTS) de actividades de formación para cada sexenio, reconocidas por la 
+Administración Educativa Canaria e incluida en el portafolio de formación del profesorado 
+o en el certificado correspondiente a cada actividad, si no han sido incorporadas al citado 
+portafolio, siempre que su finalización se produzca en el espacio temporal del período que 
+corresponda al sexenio a consolidar. 
+Folio 3/7
+RESOLUCIÓN  DE  LA  DIRECCIÓN  GENERAL  DE  PERSONAL  DE  LA  CONSEJERÍA  DE  EDUCACIÓN  Y
+UNIVERSIDADES, POR LA QUE SE DISPONE LA PUBLICACIÓN EN EL BOLETÍN OFICIAL DE CANARIAS DEL
+ACUERDO ENTRE LA CONSEJERÍA DE EDUCACIÓN Y UNIVERSIDADES DEL GOBIERNO DE CANARIAS Y LAS
+CENTRALES  SINDICALES  REPRESENTATIV AS  DEL  PROFESORADO  SOBRE  LA  MEJORA  DEL  MARCO
+RETRIBUTIVO  DEL  PERSONAL  DOCENTE  NO  UNIVERSITARIO  DEL  ÁMBITO  DE  LA  CONSEJERÍA  DE
+EDUCACIÓN Y UNIVERSIDADES. 
+Tercero: La financiación de la mejora del marco retributivo  será de carácter plurianual, y se desarrollará de
+forma gradual en 5 anualidades, comprendidas entre el año 2018 y el 2022, ambos inclusive, en consonancia
+con el aumento presupuestario progresivo que establece la Ley6/2014, de 25 de julio, Canaria de Educación
+no Universitaria.
+II - COMPLEMENTO POR FORMACIÓN PERMANENTE - SEXENIOS
+Cuarto: El abono del complemento por formación permanente se ajustará, para cada sexenio, a la
+financiación gradual señalada en el apartado tercero, hasta un máximo de cinco sexenios, en catorce
+mensualidades, conforme a la valoración económica que se señala a continuación:
+Importes Acumulados
+2018 2019 2020 2021 2022
+1º 30,25 € 55,00 € 55,00 € 55,00 € 55,00 €
+2º 37,93 € 87,00 € 119,00 € 119,00 € 119,00 €
+3º 52,33 € 99,00 € 203,00 € 239,00 € 239,00 €
+4º 70,33 € 118,80 € 248,00 € 383,00 € 419,00 €
+5º 87,83 € 188,80 € 318,00 € 453,00 € 489,00 €
+Quinto: Los requisitos para lograr el complemento por formación permanente, son los que se determinan a
+continuación:
+1) Podrá acceder al complemento retributivo de mejora por sexenios, el personal docente no universitario de
+la  Comunidad  Autónoma  de  Canarias  que  se  encuentren  en  situación  de  servicio  activo  y  que  haya
+desarrollado con normalidad su actividad docente durante el período que desee consolidar.
+A los efectos del presente acuerdo se considera que el normal desarrollo de la actividad docente durante un
+curso académico consiste en el correcto desempeño de las funciones propias del puesto de trabajo que ocupa,
+especialmente en lo que se refiere a la asistencia al mismo y el adecuado  rendimiento en la actividad docente
+desarrollada.
+2) Los requisitos para lograr un complemento retributivo de mejora por sexenios estarán vinculados a la
+formación acreditada y actividades de gestión, investigación e innovación educativa vinculadas a objetivos
+de calidad y excelencia que necesita el sistema educativo canario.
+Este documento ha sido firmado electrónicamente por:
+JUAN RAFAEL BAILON CASANOVA - DIRECTOR GENERAL DE PERSONAL
+MIGUEL ANGEL NEGRIN MEDINA - RESP.  PLANIFICACIÓN Y RELAC. SINDICALES
+Fecha: 10/01/2018 - 12:20:52
+Fecha: 10/01/2018 - 12:17:23
+Este documento ha sido registrado electrónicamente:
+RESOLUCION - Nº: 46 / 2018 - Tomo: 1 - Libro: 289 - Fecha: 10/01/2018 12:54:36 Fecha: 10/01/2018 - 12:54:36
+En la dirección https://sede.gobcan.es/sede/verifica_doc puede ser comprobada la
+autenticidad de esta copia, mediante el número de documento electrónico siguiente:
+0evepoYL4jgNDOQdP1jbWtdH5fQfdZcrS
+
+Viernes 26 de enero de 2018
+En ningún caso el exceso de horas realizadas durante los seis años correspondientes a un 
+sexenio será computable para completar otro periodo.
+3) Los funcionarios docentes que se encuentren en situación de servicios especiales, 
+los que se encuentren en comisión de servicios en la administración educativa canaria o 
+con adscripción temporal de funciones en otros sectores de la administración, así como los 
+docentes en situación de dispensa laboral absoluta por actividad sindical, en aplicación de 
+la Ley Orgánica 11/1985, de 2 de agosto, de Libertad Sindical, y los funcionarios docentes 
+pertenecientes al cuerpo de Inspectores de Educación, podrán acceder a los sexenios siempre 
+que acrediten las horas por actividades de formación correspondientes a cada período.
+4) Las actividades objeto de reconocimiento y valoración a efectos del cómputo de horas 
+exigidas en cada sexenio, serán las siguientes:
+a) Obtención de nuevas titulaciones cuya finalización se encuentre en el período de 
+seis años correspondiente al sexenio a consolidar y que no hubieran sido utilizadas como 
+requisito de acceso a la función pública docente (100 h):
+- Titulaciones de enseñanza universitaria de carácter oficial de licenciado, diplomado 
+universitario, grado, máster (incluido el diploma de estudios avanzados o suficiencia 
+investigadora que no hayan conducido al título de Doctor) o doctorado.
+- Titulaciones de enseñanza de régimen especial.
+b) Obtención de titulaciones, diplomas o certificaciones emitidas por instituciones de 
+España y otros países europeos que se adecuen al modelo establecido en el MCERL (Marco 
+Común Europeo de Referencia para las Lenguas), reguladas por Orden de 21 de septiembre 
+de 2016 (BOC de 30 de septiembre de 2016), cuya acreditación de nivel de competencia sea 
+como mínimo el B2 (100 horas).
+c) Actividades de formación superadas, que tengan por objeto el perfeccionamiento 
+sobre aspectos científicos y didácticos de las especialidades de su cuerpo docente o bien que 
+estén relacionadas con la organización escolar o las tecnologías aplicadas a la educación, 
+organizadas por la Consejería de Educación y Universidades, el Ministerio de Educación, 
+el resto de las Consejerías competentes en materia educativa, las universidades españolas e 
+instituciones sin ánimo de lucro, siempre que dichas actividades se encuentren oficialmente 
+homologadas o reconocidas por las Administraciones Educativas.
+d) Participación en planes de formación en centros, seminarios de equipos directivos 
+y servicios de apoyo, grupos de trabajo, programas educativos europeos, programas o 
+proyectos educativos convocados por la Consejería de Educación y Universidades (hasta 
+100 horas recogidas en el portafolio individual de formación del profesorado).
+e) Participación como tutor o tutora en el centro educativo del practicum para el alumnado 
+universitario de los grados conducentes al título de maestro o del máster en formación del 
+profesorado de Educación Secundaria Obligatoria y Bachillerato, Formación Profesional 
+y Enseñanzas de Idiomas, incluyendo el CAP o Título de Especialización Didáctica (hasta 
+
+Viernes 26 de enero de 2018
+100 horas recogidas en el portafolio individual de formación del profesorado y/o en los 
+certificados acreditativos correspondientes), o como profesor en la impartición de docencia 
+en los títulos de grado y máster anteriormente citados en las universidades públicas canarias 
+(hasta 100 horas a través de certificación que al efecto emitan las universidades canarias).
+f) Por publicaciones de carácter educativo y didáctico con ISBN o ISSN:
+• Autor o coautor de libros, materiales curriculares o análogos (50 horas por cada uno si 
+es autor; 25 horas si es coautor).
+• Autor o coautor de capítulo de un libro o artículo educativo publicado en revistas 
+especializadas o dependientes de la administración educativa canaria (20 horas por cada uno 
+si es autor; 15 horas si es coautor).
+Se acreditarán mediante la presentación de la publicación (incluyendo actas/ponencias en 
+congresos o jornadas que se considerarán como publicaciones en revistas) y certificación de 
+la empresa editora o administración educativa canaria de la cual dependa la misma, donde 
+conste todos los datos y reseñas más significativas de la publicación.
+g) Por presentación de ponencias, comunicaciones o pósters relacionados con el ámbito 
+educativo en Congresos y Jornadas, debidamente acreditados por la organización:
+• Ponente (15 horas).
+• Comunicación o póster (10 horas).
+• Asistente (5 horas).
+5) A partir de la entrada en vigor del presente Acuerdo, la Consejería de Educación y 
+Universidades reconocerá de oficio a todo su personal docente no universitario todos los 
+sexenios que le correspondan, siempre que cumpla los requisitos establecidos en el apartado 
+quinto, 1.
+6) Asimismo, a la entrada en vigor del presente acuerdo, para la obtención del sexenio 
+siguiente o para acceder a este complemento habrán de acreditar los méritos que correspondan 
+a la parte proporcional de los años que le falten para cumplir con dicho sexenio.
+7) A partir de la implantación definitiva de este complemento, es decir, año 2023, la 
+obtención de cualquier sexenio deberá acreditarse en su totalidad conforme a los requisitos 
+de formación señalados.
+III-COMPLEMENTOS ASOCIADOS AL EJERCICIO DE FUNCIONES DOCENTES DE 
+ESPECIAL RESPONSABILIDAD.
+Sexto.- El Plan de Reconocimiento Profesional y Social del profesorado prevé la mejora 
+del marco retributivo del personal docente no universitario del ámbito de la Consejería de 
+Educación y Universidades, en especial para el reconocimiento del ejercicio de funciones 
+docentes de especial responsabilidad, imprescindibles para el buen funcionamiento y la 
+mejora del sistema educativo canario. 
+
+Viernes 26 de enero de 2018
+En concreto, prevé el reconocimiento del ejercicio de cargos directivos en centros 
+educativos no universitarios del ámbito de la Consejería de Educación y Universidades, 
+por ser los puestos desde los que se articula la organización y gestión de los centros para 
+el desarrollo del proyecto educativo. Así mismo, se reconocerá el ejercicio efectivo de 
+la tutoría, como puesto docente de especial relevancia, determinante en aspectos como 
+la coordinación del profesorado que interviene en cada grupo o unidad, la atención a las 
+familias, la orientación y apoyo continuo al alumnado, entre otros. 
+Además, el Plan recoge la posibilidad de incluir el reconocimiento al ejercicio efectivo de 
+otras funciones de especial responsabilidad, que estará vinculado a los siguientes conceptos:
+- Coordinación en Convivencia, para el profesorado que coordine acciones de mediación 
+y convivencia en los centros. 
+- Coordinación en Prevención de Riesgos Laborales, que impulse y desarrolle acciones 
+dirigidas a la prevención de riesgos laborales. 
+- Coordinación TIC, que desarrolle acciones para el fomento de las tecnologías de la 
+información y la comunicación en los centros.
+Séptimo.- El abono de los citados complementos se ajustará a la financiación señalada 
+en el apartado tercero del presente acuerdo, tendrá carácter mensual con la limitación en 
+términos anuales que se señala en la tabla siguiente, y conforme a la valoración económica 
+que se determina a continuación:
+ 
+Octavo.- El abono de los citados complementos, de carácter mensual, requerirá la previa 
+presentación de una certificación emitida por el secretario o secretaria del centro educativo 
+donde los profesores desempeñen sus funciones, mediante el procedimiento telemático que 
+determine la Dirección General de Personal. En todo caso, el ejercicio de estas funciones 
+docentes podrán computar, a efectos de procedimientos selectivos o concursos de traslados, 
+como ejercidas durante un curso escolar.
+En el caso de las personas que desempeñen cargos directivos, la presentación de dicha 
+certificación no será necesaria toda vez que dicha información ya consta en el expediente 
+del profesorado.
+Folio 6/7
+RESOLUCIÓN  DE  LA  DIRECCIÓN  GENERAL  DE  PERSONAL  DE  LA  CONSEJERÍA  DE  EDUCACIÓN  Y
+UNIVERSIDADES, POR LA QUE SE DISPONE LA PUBLICACIÓN EN EL BOLETÍN OFICIAL DE CANARIAS DEL
+ACUERDO ENTRE LA CONSEJERÍA DE EDUCACIÓN Y UNIVERSIDADES DEL GOBIERNO DE CANARIAS Y LAS
+CENTRALES  SINDICALES  REPRESENTATIV AS  DEL  PROFESORADO  SOBRE  LA  MEJORA  DEL  MARCO
+RETRIBUTIVO  DEL  PERSONAL  DOCENTE  NO  UNIVERSITARIO  DEL  ÁMBITO  DE  LA  CONSEJERÍA  DE
+EDUCACIÓN Y UNIVERSIDADES. 
+En  concreto,  prevé  el  reconocimiento  del  ejercicio  de  cargos  directivos  en  centros  educativos  no
+universitarios del ámbito de la Consejería de Educación y Universidades, por ser los puestos desde los que se
+articula la organización y gestión de los centros para el desarrollo del proyecto educativo. Así mismo, se
+reconocerá el ejercicio efectivo de la tutoría, como puesto docente de especial relevancia, determinante en
+aspectos como la coordinación del profesorado que interviene en cada grupo o unidad, la atención a las
+familias, la orientación y apoyo continuo al alumnado, entre otros. 
+Además, el Plan recoge la posibilidad de incluir el reconocimiento al ejercicio efectivo de otras funciones de
+especial responsabilidad, que estará vinculado a los siguientes conceptos:
+- Coordinación en Convivencia , para el profesorado que  coordine acciones de mediación y convivencia en
+los centros. 
+- Coordinación en Prevención de  Riesgos  Laborales, que  impulse  y desarrolle  acciones  dirigidas  a  la
+prevención de riesgos laborales. 
+- Coordinación TIC , que desarrolle acciones para el fomento de las tecnologías de la información y la
+comunicación en los centros.
+Séptimo: El abono de los citados complementos se ajustará a la financiación señalada en el apartado tercero
+del presente acuerdo, tendrá carácter mensual con la limitación en términos anuales que se señala en la tabla
+siguiente, y conforme a la valoración económica que se determina a continuación:
+COMPLEMENTOS REQUISITOS ESPECÍFICOS FECHA DE
+APLICACIÓN
+CANTIDAD
+MENSUAL
+Tutoría de grupo
+Certificación  emitida  por  el  secretario  o
+secretaria  del  centro  donde  ejerza  esas
+funciones.
+ A partir del 
+01-01-2018 35 €
+Ejercicio de cargos 
+directivos
+Nombramiento por la Dirección Territorial de
+Educación  correspondiente.
+A partir del 
+01-01-2019
+5% de incremento
+mensual en el
+complemento de
+especial
+responsabilidad
+Otros complementos 
+que se determinarán
+Certificación  emitida  por  el  secretario  o
+secretaria  del  centro  donde  ejerza  esas
+funciones.
+A partir del 
+01-01-2019 30 €
+ 
+Octavo: El abono de los citados complementos, de carácter mensual, requerirá la previa presentación de una
+certificación emitida por el secretario o secretaria del centro educativo donde los profesores desempeñen sus
+funciones, mediante el procedimiento telemático que determine la Dirección General de Personal. En todo
+caso, el ejercicio de estas funciones docentes podrán computar, a efectos de procedimientos selectivos o
+concursos de traslados, como ejercidas durante un curso escolar.
+En el caso de las personas que desempeñen cargos directivos, la presentación de dicha certificación no será
+necesaria toda vez que dicha información ya consta en el expediente del profesorado.
+Este documento ha sido firmado electrónicamente por:
+JUAN RAFAEL BAILON CASANOVA - DIRECTOR GENERAL DE PERSONAL
+MIGUEL ANGEL NEGRIN MEDINA - RESP.  PLANIFICACIÓN Y RELAC. SINDICALES
+Fecha: 10/01/2018 - 12:20:52
+Fecha: 10/01/2018 - 12:17:23
+Este documento ha sido registrado electrónicamente:
+RESOLUCION - Nº: 46 / 2018 - Tomo: 1 - Libro: 289 - Fecha: 10/01/2018 12:54:36 Fecha: 10/01/2018 - 12:54:36
+En la dirección https://sede.gobcan.es/sede/verifica_doc puede ser comprobada la
+autenticidad de esta copia, mediante el número de documento electrónico siguiente:
+0evepoYL4jgNDOQdP1jbWtdH5fQfdZcrS
+El presente documento ha sido descargado el 18/01/2018 - 16:12:30
+
+Viernes 26 de enero de 2018
+IV-CONSIDERACIONES FINALES. 
+Noveno.- La mejora del sistema retributivo del personal docente no universitario, en los 
+términos recogidos en el presente acuerdo, con carácter general, surtirán efecto a partir del 
+1 de enero del 2018. 
+Décimo.- La Dirección General de Personal será la competente para la interpretación y 
+aplicación del presente acuerdo. De igual forma procederá el centro directivo competente en 
+materia de perfeccionamiento del profesorado, en lo que respecta a las competencias que le 
+corresponden. En ambos casos, podrán dictar instrucciones aclaratorias al presente acuerdo, 
+previa información a las centrales sindicales representativas del profesorado. 
+Undécimo.- Debe entenderse en el presente texto el uso del masculino genérico aplicable 
+tanto a hombres como mujeres.
+Santa Cruz de Tenerife, a 1 de septiembre de 2017.- El Presidente de Gobierno, 
+Fernando Clavijo Battle.- Por la Consejería de Educación y Universidades, la Consejera de 
+Educación y Universidades, Soledad Monzón Cabrera.- Por la Viceconsejería de Educación 
+y Universidades, el Viceconsejero de Educación, David Pérez-Dionis Chinea.- Por las 
+organizaciones sindicales, ANPE, Pedro Crespo González; CCOO, Juan Jesús Bermúdez 
+Ferrer; INSUCAN-CSIF, José Ángel Amador Sierra; STEC-IC, Fernando Pellicer Melo; 
+UGT, Francisco Javier Bautista Yanes; CO.BAS, Antonio Peña Santana; USPS-SEPCA, 
+Nieves Alonso Espinoza.

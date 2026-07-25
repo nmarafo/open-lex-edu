@@ -224,23 +224,23 @@ Título VIII. Medidas para la aplicación efectiva de la ley orgánica.
 
 #### Disposición final primera. Modificación de la Ley de Enjuiciamiento Criminal, aprobada por Real Decreto de 14 de septiembre de 1882.
 
-#### Disposición final segunda. Modificación de la [Ley Orgánica 8/1985](../02_gestion_y_administracion_centros/LO8_1985_derecho_educacion.md), de 3 de julio, reguladora del Derecho a la Educación.
+#### Disposición final segunda. Modificación de la [Ley Orgánica 8/1985](../02_gestion_y_administracion_centros/LO8_1985_reguladora_derecho_educacion.md), de 3 de julio, reguladora del Derecho a la Educación.
 
 #### Disposición final tercera. Modificación de la Ley 34/1988, de 11 de noviembre, General de Publicidad.
 
-#### Disposición final cuarta. Modificación de la [Ley Orgánica 10/1995](../01_marco_normativo_general_y_organico/BOE_1995_25444_noviembre_código_penal.md), de 23 de noviembre, del Código Penal.
+#### Disposición final cuarta. Modificación de la [Ley Orgánica 10/1995](../01_marco_normativo_general_y_organico/LO10_1995_codigo_penal.md), de 23 de noviembre, del Código Penal.
 
 #### Disposición final quinta. Modificación de la Ley 35/1995, de 11 de diciembre, de ayudas y asistencia a las víctimas de delitos violentos y contra la libertad sexual.
 
-#### Disposición final sexta. Modificación de la [Ley Orgánica 4/2000](../01_marco_normativo_general_y_organico/BOE_2000_544_enero_sobre_derechos_libertades.md), de 11 de enero, sobre derechos y libertades de los extranjeros en España y su integración social.
+#### Disposición final sexta. Modificación de la [Ley Orgánica 4/2000](../01_marco_normativo_general_y_organico/LO4_2000_derechos_libertades_extranjeros_espana_integracion_social.md), de 11 de enero, sobre derechos y libertades de los extranjeros en España y su integración social.
 
-#### Disposición final séptima. Modificación de la [Ley Orgánica 5/2000](../01_marco_normativo_general_y_organico/LO5_2000_responsabilidad_penal_menores.md), 12 de enero, reguladora de la responsabilidad penal de los menores.
+#### Disposición final séptima. Modificación de la [Ley Orgánica 5/2000](../01_marco_normativo_general_y_organico/LO5_2000_reguladora_responsabilidad_penal_menores.md), 12 de enero, reguladora de la responsabilidad penal de los menores.
 
 #### Disposición final octava. Modificación de la Ley 38/2003, de 17 de noviembre, General de Subvenciones.
 
-#### Disposición final novena. Modificación de la [Ley Orgánica 1/2004](LO1_2004_medidas_proteccion_violencia_genero.md), de 28 de diciembre, de Medidas de Protección Integral contra la Violencia de Género.
+#### Disposición final novena. Modificación de la [Ley Orgánica 1/2004](LO1_2004_medidas_proteccion_integral_contra_violencia_genero.md), de 28 de diciembre, de Medidas de Protección Integral contra la Violencia de Género.
 
-#### Disposición final décima. Modificación de la [Ley Orgánica 3/2007](BOE_2007_6115_marzo_para_igualdad_efectiva.md), de 22 de marzo, para la igualdad efectiva de mujeres y hombres.
+#### Disposición final décima. Modificación de la [Ley Orgánica 3/2007](LO3_2007_igualdad_efectiva_mujeres_hombres.md), de 22 de marzo, para la igualdad efectiva de mujeres y hombres.
 
 #### Disposición final undécima. Modificación de la Ley 20/2007, de 11 de julio, del Estatuto del trabajo autónomo.
 
@@ -248,9 +248,9 @@ Título VIII. Medidas para la aplicación efectiva de la ley orgánica.
 
 #### Disposición final decimotercera. Modificación de la Ley Orgánica 14/2015, de 14 de octubre, del Código Penal Militar.
 
-#### Disposición final decimocuarta. Modificación del texto refundido de la Ley del Estatuto de los Trabajadores, aprobado por [Real Decreto Legislativo 2/2015](../09_personal_laboral_y_no_docente/RDL2_2015_estatuto_trabajadores.md), de 23 de octubre.
+#### Disposición final decimocuarta. Modificación del texto refundido de la Ley del Estatuto de los Trabajadores, aprobado por [Real Decreto Legislativo 2/2015](../09_personal_laboral_y_no_docente/RDL2_2015_aprueba_texto_refundido_ley_estatuto_trabajadores.md), de 23 de octubre.
 
-#### Disposición final decimoquinta. Modificación del texto refundido de la Ley del Estatuto Básico del Empleado Público, aprobado por [Real Decreto Legislativo 5/2015](../01_marco_normativo_general_y_organico/RD5_2015_estatuto_basico_empleado_publico.md), de 30 de octubre.
+#### Disposición final decimoquinta. Modificación del texto refundido de la Ley del Estatuto Básico del Empleado Público, aprobado por [Real Decreto Legislativo 5/2015](../01_marco_normativo_general_y_organico/RDL5_2015_aprueba_texto_refundido_ley_estatuto_basico.md), de 30 de octubre.
 
 #### Disposición final decimosexta. Modificación del texto refundido de la Ley General de la Seguridad Social, aprobado por Real Decreto Legislativo 8/2015, de 30 de octubre.
 
@@ -402,7 +402,7 @@ Finalmente, la disposición final vigesimocuarta se refiere al desarrollo reglam
 
 **IV**
 
-La presente ley orgánica se adecua a los principios de buena regulación previstos en el artículo 129 de la [Ley 39/2015](../01_marco_normativo_general_y_organico/L39_2015_procedimiento_administrativo_comun.md), de 1 de octubre, del Procedimiento Administrativo Común de las Administraciones Públicas. Dicho precepto dispone que, en el ejercicio de la iniciativa legislativa y la potestad reglamentaria, las administraciones públicas actuarán de acuerdo con los principios de necesidad, eficacia, proporcionalidad, seguridad jurídica, transparencia y eficiencia.
+La presente ley orgánica se adecua a los principios de buena regulación previstos en el artículo 129 de la [Ley 39/2015](../01_marco_normativo_general_y_organico/L39_2015_procedimiento_administrativo_comun_administraciones_publicas.md), de 1 de octubre, del Procedimiento Administrativo Común de las Administraciones Públicas. Dicho precepto dispone que, en el ejercicio de la iniciativa legislativa y la potestad reglamentaria, las administraciones públicas actuarán de acuerdo con los principios de necesidad, eficacia, proporcionalidad, seguridad jurídica, transparencia y eficiencia.
 
 En virtud de los principios de necesidad y eficacia, la iniciativa normativa debe estar justificada por una razón de interés general, basarse en una identificación clara de los fines perseguidos y ser el instrumento más adecuado para garantizar su consecución.
 
@@ -490,7 +490,7 @@ En todo caso se consideran violencias sexuales los delitos previstos en el Títu
 
 2. La presente ley orgánica es de aplicación a las mujeres, niñas y niños que hayan sido víctimas de violencias sexuales en España, con independencia de su nacionalidad y de su situación administrativa; o en el extranjero, siempre que sean de nacionalidad española, pudiendo a estos efectos recabar la asistencia de embajadas y oficinas consulares prevista en el artículo 51, todo ello sin perjuicio de lo establecido en la Ley Orgánica 6/1985, de 1 de julio, del Poder Judicial, respecto a la competencia de los tribunales españoles.
 
-3. En el caso de la violencia ejercida contra niñas, niños y adolescentes, las disposiciones contenidas en esta ley orgánica deberán estar alineadas con lo establecido en la [Ley Orgánica 8/2021](LO8_2021_proteccion_infancia_adolescencia_violencia.md), de 4 de junio, de Protección Integral de la Infancia y la Adolescencia frente a la Violencia.
+3. En el caso de la violencia ejercida contra niñas, niños y adolescentes, las disposiciones contenidas en esta ley orgánica deberán estar alineadas con lo establecido en la [Ley Orgánica 8/2021](LO8_2021_proteccion_integral_infancia_adolescencia_frente_violencia.md), de 4 de junio, de Protección Integral de la Infancia y la Adolescencia frente a la Violencia.
 
 4. En el marco de la legislación vigente, habrá que tomar en consideración, junto con la libertad sexual, la protección frente a las violencias sexuales cometidas contra menores o contra personas con capacidad jurídica modificada, como manifestación de la dignidad de la persona humana y el derecho que todo ser humano tiene a un libre desarrollo de su personalidad, sin intervenciones traumáticas en su esfera íntima por parte de terceras personas.
 
@@ -968,7 +968,7 @@ Protección, acompañamiento y seguridad de las víctimas
 
 1. En las actuaciones y procedimientos relacionados con la violencia sexual se protegerá la intimidad de las víctimas, y en especial sus datos personales.
 
-2. La Agencia Española de Protección de Datos ejercerá las funciones y potestades que le corresponden de acuerdo con lo previsto en el artículo 47 de la [Ley Orgánica 3/2018](../02_gestion_y_administracion_centros/LO3_2018_proteccion_datos_personales.md), de 5 de diciembre, de Protección de Datos Personales y garantía de los derechos digitales, con el fin de garantizar una protección específica de los datos personales de las mujeres en los casos de violencia sexual, especialmente cuando esta se perpetúe a través de las tecnologías de la información y la comunicación.
+2. La Agencia Española de Protección de Datos ejercerá las funciones y potestades que le corresponden de acuerdo con lo previsto en el artículo 47 de la [Ley Orgánica 3/2018](../02_gestion_y_administracion_centros/LO3_2018_proteccion_datos_personales_garantia_derechos_digitales.md), de 5 de diciembre, de Protección de Datos Personales y garantía de los derechos digitales, con el fin de garantizar una protección específica de los datos personales de las mujeres en los casos de violencia sexual, especialmente cuando esta se perpetúe a través de las tecnologías de la información y la comunicación.
 
 3. El juzgado o tribunal competente podrá acordar, de oficio o a instancia de parte, que las vistas se desarrollen a puerta cerrada y que las actuaciones sean reservadas.
 
