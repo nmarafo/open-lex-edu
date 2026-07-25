@@ -56,6 +56,7 @@ fundamentos_derecho:
 - norma_id: norm-can-res-039
 - norma_id: norm-can-res-032
 - norma_id: norm-can-res-boc-2024-226-44
+- norma_id: norm-can-d-212-1991
 fuente_pdf_oficial: https://sede.gobiernodecanarias.org/boc/boc-a-2026-045-736.pdf
 ---
 # [Resolución de 25 de febrero de 2026](R25_2_2026_establece_distribucion_horaria_estructura_modular_grados.md), por la que se establece la distribución horaria y estructura modular de los Grados C (Certificados Profesionales) y sus correspondientes Grados B (Certificados de Competencia), de niveles 2 y 3, de las familias profesionales de Edificación y Obra Civil; Electricidad y Electrónica; Energía y Agua; e Industrias Extractivas, en el ámbito de la Comunidad Autónoma de Canarias.
@@ -171,7 +172,7 @@ a la Viceconsejería de Formación Profesional y Cualificaciones Profesionales e
 artículo 9, apartado 2, del Decreto 84/2024, de 10 de junio, por el que se aprueba el 
 Reglamento Orgánico de la Consejería de Educación, Formación Profesional, Actividad 
 Física y Deportes, y el desempeño de las funciones previstas en los artículos 11 y 20.1 
-del Decreto 212/1991, de 11 de septiembre, de organización de los Departamentos de la 
+del [Decreto 212/1991](../01_marco_normativo_general_y_organico/D212_1991_organizacion_departamentos_administracion_autonomica_canarias.md), de 11 de septiembre, de organización de los Departamentos de la 
 Administración Autonómica de Canarias,
 RESUELVO :
 Primero.- Aprobar la distribución horaria y la estructura modular de los Grados C 

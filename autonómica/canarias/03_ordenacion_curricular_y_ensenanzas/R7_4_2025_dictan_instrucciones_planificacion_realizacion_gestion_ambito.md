@@ -40,6 +40,7 @@ fundamentos_derecho:
 - norma_id: norm-es-2021-20113
 - norma_id: norm-es-rd-243-2022
 - norma_id: norm-es-2010-12201
+- norma_id: norm-can-d-212-1991
 fuente_pdf_oficial: https://sede.gobiernodecanarias.org/boc/boc-a-2025-074-1452.pdf
 ---
 # Resolución de 7 de abril de 2025, por la que se dictan instrucciones para la planificación, realización y gestión, en el ámbito de la Comunidad Autónoma de Canarias, de la Prueba para el Acceso a la Universidad, aplicables al alumnado que haya cursado el Bachillerato, así como Ciclos Formativos de Grado Superior de Formación Profesional, de Enseñanzas Profesionales de Artes Plásticas y Diseño, y de Enseñanzas Deportivas (BOC nº 74, de 15 de abril).
@@ -144,7 +145,7 @@ Física y Deportes, pertenecientes a la comisión organizadora de la Prueba para
 la Universidad (
 COPAU), vista la propuesta de 4 de marzo de 2025, de la Dirección General 
 de Ordenación de las Enseñanzas, Inclusión e Innovación, en el ejercicio de la facultad 
-de dictar instrucciones y directrices atribuida por el artículo 4 del Decreto 212/1991, de 
+de dictar instrucciones y directrices atribuida por el artículo 4 del [Decreto 212/1991](../01_marco_normativo_general_y_organico/D212_1991_organizacion_departamentos_administracion_autonomica_canarias.md), de 
 11 de septiembre, de organización de los Departamentos de la Administración Autonómica 
 de Canarias, el artículo 8.2.ñ) del Reglamento Orgánico de la Consejería de Educación, 
 Formación Profesional, Actividad Física y Deportes, aprobado por el [Decreto 84/2024](../01_marco_normativo_general_y_organico/D84_2024_aprueba_reglamento_organico_formacion_profesional_actividad.md), 

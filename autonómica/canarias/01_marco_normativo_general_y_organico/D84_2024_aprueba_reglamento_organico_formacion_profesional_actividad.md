@@ -52,6 +52,7 @@ fundamentos_derecho:
 - norma_id: norm-es-rd-659-2023
 - norma_id: norm-es-2010-4518
 - norma_id: norm-es-2021-11382
+- norma_id: norm-can-d-212-1991
 fuente_pdf_oficial: https://sede.gobiernodecanarias.org/boc/boc-a-2024-117-1913.pdf
 ocr_procesado: true
 motor_ocr: rapidocr_onnxruntime
@@ -365,7 +366,7 @@ a propuesta de la persona titular de la Direccion General de Cualificaciones Pro
 mediante el sistema de provision previsto para el mismo en la correspondiente relacion de
 puestos de trabajo.
 Corresponden a la persona Responsable, ademas de las funciones previstas en el articulo
-27.1 del Decreto 212/1991, de 11 de septiembre, de organizacion de los Departamentos de
+27.1 del [Decreto 212/1991](D212_1991_organizacion_departamentos_administracion_autonomica_canarias.md), de 11 de septiembre, de organizacion de los Departamentos de
 la Administracion Autonomica de Canarias, las de control, coordinacion, estudio e informe
 
 --- Página 8 (Transcripción OCR de Anexo/Imagen) ---

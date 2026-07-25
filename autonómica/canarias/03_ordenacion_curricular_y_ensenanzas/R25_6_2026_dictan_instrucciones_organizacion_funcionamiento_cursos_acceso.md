@@ -41,6 +41,7 @@ fundamentos_derecho:
 - norma_id: norm-es-rd-243-2022
 - norma_id: norm-es-rd-659-2023
 - norma_id: norm-es-2010-12201
+- norma_id: norm-can-d-212-1991
 fuente_pdf_oficial: https://sede.gobiernodecanarias.org/boc/boc-a-2026-139-2475.pdf
 ---
 # Resolución de 25 de junio de 2026, por la que se dictan instrucciones para la organización y el funcionamiento de los cursos de acceso directo a ciclos formativos CAD2 y CAD3 (cursos de formación preparatorios para acceder a ciclos formativos de grado medio y superior) en Canarias.
@@ -143,7 +144,7 @@ Autónoma de Canarias, recoge en su artículo 4 las competencias clave cuyo desa
 adquisición quedarán garantizados en el currículo de ambas enseñanzas. Dicho currículo 
 queda establecido, para las materias de Bachillerato, en el Anexo 3 del citado Decreto.
 Por todo lo anteriormente expuesto, y de conformidad con lo establecido en el artículo 
-19 del Decreto 212/1991, de 11 de septiembre, de organización de los Departamentos de 
+19 del [Decreto 212/1991](../01_marco_normativo_general_y_organico/D212_1991_organizacion_departamentos_administracion_autonomica_canarias.md), de 11 de septiembre, de organización de los Departamentos de 
 la Administración Autonómica de Canarias, así como en la disposición final cuarta y en 
 el artículo 17 del [Decreto 84/2024](../01_marco_normativo_general_y_organico/D84_2024_aprueba_reglamento_organico_formacion_profesional_actividad.md), de 10 de junio, por el que se aprueba el Reglamento 
 Orgánico de la Consejería de Educación, Formación Profesional, Actividad Física y 

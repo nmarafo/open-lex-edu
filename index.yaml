@@ -1,5 +1,5 @@
 version: '1.0'
-total_normas: 320
+total_normas: 321
 normas:
   norm-can-d-123-2023:
     id: norm-can-d-123-2023
@@ -40,6 +40,24 @@ normas:
     - organizacion-escolar
     - consejeria-educacion
     path: autonómica/canarias/01_marco_normativo_general_y_organico/D135_2016_reglamento_organico_consejeria_educacion_universidades_cultura.md
+  norm-can-d-212-1991:
+    id: norm-can-d-212-1991
+    codigo_sintetizado: Decreto BOC 212/1991
+    titulo: Decreto 212/1991, de 11 de septiembre, de organización de los Departamentos
+      de la Administración Autonómica de Canarias (BOC n.º 122, de 16 de septiembre).
+    jurisdiccion: Canarias
+    ambito: Autonómico
+    tipo_disposicion: Decreto
+    fecha_publicacion: ''
+    estado: Vigente
+    redaccion: original
+    categoria_canonica: 01_marco_normativo_general_y_organico
+    subcategoria: Marco normativo general
+    tags:
+    - marco-normativo-general
+    - organizacion-administrativa
+    - funcion-publica
+    path: autonómica/canarias/01_marco_normativo_general_y_organico/D212_1991_organizacion_departamentos_administracion_autonomica_canarias.md
   norm-can-d-84-2024:
     id: norm-can-d-84-2024
     codigo_sintetizado: D84_2024 Reglamento Organico de la Consejeria de Educacion

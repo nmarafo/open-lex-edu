@@ -34,6 +34,7 @@ fundamentos_derecho:
 - norma_id: norm-es-lo-2-2006
 - norma_id: norm-es-2021-20113
 - norma_id: norm-es-2010-12201
+- norma_id: norm-can-d-212-1991
 fuente_pdf_oficial: https://sede.gobiernodecanarias.org/boc/boc-a-2023-085-1356.pdf
 ---
 # Resolución de 18 de abril de 2023, por la que se dictan instrucciones para la organización de los cursos de especialización en idiomas y se regula la planificación y autorización de su oferta y la admisión del alumnado en las Escuelas Oficiales de Idiomas de la Comunidad Autónoma de Canarias (BOC n.º 85, de 3 de mayo).
@@ -94,7 +95,7 @@ que elaboren las Escuelas Oficiales de Idiomas y autorizará los cursos de espec
 atendiendo a las necesidades y demandas específicas de formación en idiomas y a los 
 recursos existentes.
 Por todo lo expuesto, de conformidad con lo establecido en el artículo 19 del 
-Decreto 212/1991, de 11 de septiembre, de organización de los Departamentos de la 
+[Decreto 212/1991](../01_marco_normativo_general_y_organico/D212_1991_organizacion_departamentos_administracion_autonomica_canarias.md), de 11 de septiembre, de organización de los Departamentos de la 
 Administración Autonómica de Canarias, y en el artículo 18 del Reglamento Orgánico 
 de la Consejería de Educación, Universidades, Cultura y Deportes, aprobado mediante 
 Decreto 7/2021, de 18 de febrero, por el que se asignan competencias generales y específicas 

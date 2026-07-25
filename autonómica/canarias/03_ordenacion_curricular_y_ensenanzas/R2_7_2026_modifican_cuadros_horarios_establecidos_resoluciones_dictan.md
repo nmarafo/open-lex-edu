@@ -40,6 +40,7 @@ fundamentos_derecho:
 - norma_id: norm-es-rd-659-2023
 - norma_id: norm-es-2010-12201
 - norma_id: norm-can-res-030
+- norma_id: norm-can-d-212-1991
 fuente_pdf_oficial: https://sede.gobiernodecanarias.org/boc/boc-a-2026-141-2508.pdf
 ---
 # Resolución de 2 de julio de 2026, por la que se modifican cuadros horarios establecidos en las Resoluciones de 26 de noviembre de 2025 y de 27 de enero de 2026, por las que se dictan instrucciones para la implantación y desarrollo de la oferta de dobles titulaciones de formación profesional (Grados D) en la Comunidad Autónoma de Canarias, a partir del curso escolar 2026/2027. (BOC n.º 141, de 15 de julio)
@@ -130,7 +131,7 @@ Sistema de Formación Profesional. En todo caso, se respetarán siempre todos lo
 contemplados en el currículo básico”.
 
 En su virtud, y en uso de las competencias que tengo conferidas con base a lo dispuesto 
-en el artículo 19 del Decreto 212/1991, de 11 de septiembre, de organización de los 
+en el artículo 19 del [Decreto 212/1991](../01_marco_normativo_general_y_organico/D212_1991_organizacion_departamentos_administracion_autonomica_canarias.md), de 11 de septiembre, de organización de los 
 Departamentos de la Administración Autonómica de Canarias, y en el artículo 20 del 
 Reglamento Orgánico de la Consejería de Educación, Formación Profesional, Actividad 
 Física y Deportes, aprobado por el [Decreto 84/2024](../01_marco_normativo_general_y_organico/D84_2024_aprueba_reglamento_organico_formacion_profesional_actividad.md), de 10 de junio, por el que se asignan 

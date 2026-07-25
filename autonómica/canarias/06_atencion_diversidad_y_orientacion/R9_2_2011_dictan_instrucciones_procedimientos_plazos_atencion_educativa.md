@@ -38,6 +38,7 @@ fundamentos_derecho:
 - norma_id: norm-es-2008-979
 - norma_id: norm-es-2021-20113
 - norma_id: norm-es-2010-12201
+- norma_id: norm-can-d-212-1991
 fuente_pdf_oficial: https://sede.gobiernodecanarias.org/boc/boc-a-2011-040-910.pdf
 fuente_juriscan: http://www.gobcan.es/juriscan/ficha.jsp?id=64838
 ---
@@ -167,7 +168,7 @@ veniente por razón de los destinatarios o de los efectos
 que puedan producirse, las instrucciones y órdenes
 de servicio se publicarán en el periódico oficial que
 corresponda (BOE nº 285, de 27.11.92).
-Por otra parte, el Decreto 212/1991, de 11 de sep-
+Por otra parte, el [Decreto 212/1991](../01_marco_normativo_general_y_organico/D212_1991_organizacion_departamentos_administracion_autonomica_canarias.md), de 11 de sep-
 tiembre, de organización de los Departamentos de la
 Administración Autonómica de Canarias, establece
 en su artículo 4, apartado 1, que los órganos depar-

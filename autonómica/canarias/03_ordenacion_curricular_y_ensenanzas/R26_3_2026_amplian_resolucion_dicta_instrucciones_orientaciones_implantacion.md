@@ -43,6 +43,7 @@ fundamentos_derecho:
 - norma_id: norm-can-res-boc-2024-226-44
 - norma_id: norm-can-res-boc-2026-070-115
 - norma_id: norm-can-res-boc-2026-070-116
+- norma_id: norm-can-d-212-1991
 fuente_pdf_oficial: https://sede.gobiernodecanarias.org/boc/boc-a-2026-070-1143.pdf
 ---
 # [Resolución de 26 de marzo de 2026](../05_alumnado_y_servicios_escolares/R26_3_2026_convocan_premios_extraordinarios_bachillerato_ambito_comunidad.md), por la que se amplían la [Resolución de 30 de octubre de 2024](R30_10_2024_dictan_instrucciones_orientaciones_implantacion_desarrollo_grados.md), que dicta instrucciones y orientaciones para la implantación y desarrollo de los grados de formación D y E, a partir del curso escolar 2024/2025, y se establece la distribución horaria y modular de los currículos; y la Resolución de 21 de febrero de 2025, que dicta instrucciones para la implantación de los itinerarios formativos de Formación Profesional Adaptada y el desarrollo de los currículos de los módulos de carácter general a partir del curso escolar 2024/2025, en el ámbito de la Comunidad Autónoma de Canarias.
@@ -164,7 +165,7 @@ instrucciones para la implantación de los itinerarios formativos de Formación 
 Adaptada y el desarrollo de los currículos de los módulos de carácter general a partir del 
 curso escolar 2024/2025, en el ámbito de la Comunidad Autónoma de Canarias.
 En su virtud, y en uso de las competencias que tengo conferidas en base a lo dispuesto 
-en el artículo 19 del Decreto 212/1991, de 11 de septiembre, de organización de los 
+en el artículo 19 del [Decreto 212/1991](../01_marco_normativo_general_y_organico/D212_1991_organizacion_departamentos_administracion_autonomica_canarias.md), de 11 de septiembre, de organización de los 
 Departamentos de la Administración Autonómica de Canarias, y en el artículo 20 del 
 Reglamento Orgánico de la Consejería de Educación, Formación Profesional, Actividad 
 Física y Deportes, aprobado por el [Decreto 84/2024](../01_marco_normativo_general_y_organico/D84_2024_aprueba_reglamento_organico_formacion_profesional_actividad.md), de 10 de junio, por el que se asignan 

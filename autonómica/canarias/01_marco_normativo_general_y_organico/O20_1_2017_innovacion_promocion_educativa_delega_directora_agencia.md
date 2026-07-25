@@ -31,6 +31,7 @@ fundamentos_derecho:
 - norma_id: norm-es-l-40-2015
 - norma_id: norm-es-2012-9282
 - norma_id: norm-can-d-135-2016
+- norma_id: norm-can-d-212-1991
 fuente_pdf_oficial: https://sede.gobiernodecanarias.org/boc/boc-a-2017-020-416.pdf
 anexos_extraidos_pdf: true
 ocr_procesado: true
@@ -153,7 +154,7 @@ Esta Dirección General es competente para efectuar la delegación de competenci
 objeto de la presente resolución, de conformidad con lo preceptuado en el artículo 13.2.A) 
 del Decreto 135/2016, de 10 de octubre, por el que se aprueba el Reglamento Orgánico de 
 la Consejería de Educación y Universidades (BOC nº 203, de 19.10.16), así como con lo 
-previsto en el artículo 19 del Decreto 212/1991, de 11 de septiembre, de organización de los 
+previsto en el artículo 19 del [Decreto 212/1991](D212_1991_organizacion_departamentos_administracion_autonomica_canarias.md), de 11 de septiembre, de organización de los 
 Departamentos de la Administración Autonómica de Canarias (BOC nº 122, de 16.9.91), 
 en cuya virtud, los titulares de las direcciones generales, en el área de actividad que tienen 
 encomendada, desempeñan las atribuciones del correspondiente reglamento orgánico.

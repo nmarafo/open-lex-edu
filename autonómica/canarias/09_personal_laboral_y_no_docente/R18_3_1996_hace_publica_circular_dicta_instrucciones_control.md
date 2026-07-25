@@ -30,6 +30,7 @@ fundamentos_derecho:
   - '1'
 - norma_id: norm-can-l-2-1987
 - norma_id: norm-es-1984-17387
+- norma_id: norm-can-d-212-1991
 ---
 # Resolución de 18 de marzo de 1996, de la Secretaría General Técnica, por la que se hace pública la Circular 1/1996, que dicta instrucciones sobre control de horarios y absentismo del personal no docente de Centros escolares de la Consejería de Educación, Cultura y Deportes (BOC nº 57, de 10 de mayo).
 
@@ -54,7 +55,7 @@ III. OTRAS RESOLUCIONES - Consejería de Educación, Cultura y Deportes
 679 - RESOLUCIÓN de 18 de marzo de 1996, de la Secretaría General Técnica, por la que se hace pública la Circular 1/1996, que dicta instrucciones sobre control de horarios y absentismo del personal no docente de Centros escolares dependientes de la Consejería de Educación, Cultura y Deportes.
 Descargar en formato pdf
 El elevado número de Centros docentes, dependientes de la Consejería de Educación, Cultura y Deportes, a quienes se dirige la Circular 1/1996, y el interés que supone la difusión de su contenido en todos los Centros públicos, hacen necesaria su publicación.
-Por ello, en virtud de las facultades contenidas en el artículo 15.6 del Decreto 212/1991, de 11 de septiembre, de Organización de los Departamentos de la Administración Autonómica de Canarias,
+Por ello, en virtud de las facultades contenidas en el artículo 15.6 del [Decreto 212/1991](../01_marco_normativo_general_y_organico/D212_1991_organizacion_departamentos_administracion_autonomica_canarias.md), de 11 de septiembre, de Organización de los Departamentos de la Administración Autonómica de Canarias,
 R E S U E L V O:
 Hacer pública la Circular 1/1996 de esta Secretaría General Técnica, por la que se dictan instrucciones sobre control de horarios y absentismo del personal no docente de Centros escolares, que se contiene en el anexo.
 Santa Cruz de Tenerife, a 18 de marzo de 1996.- La Secretaria General Técnica, María Teresa Larrea Díez.

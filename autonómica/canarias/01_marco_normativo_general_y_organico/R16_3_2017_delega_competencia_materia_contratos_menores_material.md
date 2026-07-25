@@ -33,6 +33,7 @@ fundamentos_derecho:
 - norma_id: norm-can-l-14-1990
 - norma_id: norm-es-l-40-2015
 - norma_id: norm-can-d-135-2016
+- norma_id: norm-can-d-212-1991
 fuente_pdf_oficial: https://sede.gobiernodecanarias.org/boc/boc-a-2017-061-1429.pdf
 anexos_extraidos_pdf: true
 ocr_procesado: true
@@ -113,7 +114,7 @@ público en materia contractual corresponde a los órganos de contratación que 
 norma legal, reglamentaria o disposición estatutaria tengan atribuida la facultad de celebrar 
 contratos en su nombre, pudiendo los órganos de contratación delegar sus competencias y 
 facultades en esta materia.
-Y en virtud de las atribuciones que me confiere el artículo 19.3 del Decreto 212/1991, de 
+Y en virtud de las atribuciones que me confiere el artículo 19.3 del [Decreto 212/1991](D212_1991_organizacion_departamentos_administracion_autonomica_canarias.md), de 
 11 de septiembre, de organización de los Departamentos de la Administración Autonómica 
 de Canarias (BOC nº 122, 16 de septiembre de 1991),
 R E S U E L V O:

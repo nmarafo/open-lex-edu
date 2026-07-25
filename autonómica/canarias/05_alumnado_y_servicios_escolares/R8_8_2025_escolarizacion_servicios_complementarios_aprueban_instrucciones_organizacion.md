@@ -40,6 +40,7 @@ fundamentos_derecho:
 - norma_id: norm-can-d-114-2011
 - norma_id: norm-es-l-39-2015
 - norma_id: norm-can-res-boc-2025-061-88
+- norma_id: norm-can-d-212-1991
 fuente_pdf_oficial: https://sede.gobiernodecanarias.org/boc/boc-a-2025-166-3041.pdf
 ---
 # Resolución de 8 de agosto de 2025,de la Dirección General de Administración de Centros, Escolarización y Servicios Complementarios por la que se aprueban las instrucciones de organización y funcionamiento de los comedores escolares de los centros docentes públicos no universitarios para el curso escolar 2025-2026 (BOC nº 166, de 22 de agosto).
@@ -107,7 +108,7 @@ Complementarios, por la que se establece el calendario escolar, las instruccione
 del procedimiento de admisión del alumnado comensal y los criterios de concesión de 
 las subvenciones y por la que se autoriza la oferta de plazas de comensales de los centros 
 docentes públicos no universitarios para el curso escolar 2025-2026.
-Cuarto.- Conforme a lo dispuesto en el artículo 19.1 del Decreto 212/1991, de 11 de 
+Cuarto.- Conforme a lo dispuesto en el artículo 19.1 del [Decreto 212/1991](../01_marco_normativo_general_y_organico/D212_1991_organizacion_departamentos_administracion_autonomica_canarias.md), de 11 de 
 septiembre, de organización de los Departamentos de la Administración Autonómica de 
 Canarias,
 “Los directores generales, en el área de actividad que tengan encomendada, desempeñan 

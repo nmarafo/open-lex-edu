@@ -35,6 +35,7 @@ fundamentos_derecho:
 - norma_id: norm-es-2019-317
 - norma_id: norm-es-2021-20113
 - norma_id: norm-es-2010-12201
+- norma_id: norm-can-d-212-1991
 fuente_pdf_oficial: https://sede.gobiernodecanarias.org/boc/boc-a-2019-234-5741.pdf
 ---
 # Resolución de 18 de noviembre de 2019, por la que se dictan instrucciones sobre evaluación de las pruebas de certificación de enseñanzas de idiomas de régimen especial en la Comunidad Autónoma de Canarias (BOC n.º 234, de 3 de diciembre).
@@ -130,7 +131,7 @@ un nuevo desarrollo normativo en materia de evaluación y certificación, se man
 en vigor las disposiciones normativas e instrucciones dictadas en esta materia para las 
 enseñanzas de idiomas de régimen especial.
 En atención a lo anteriormente indicado, de conformidad con lo dispuesto en el artículo 
-19 del Decreto 212/1991, de 11 de septiembre, de organización de los departamentos de 
+19 del [Decreto 212/1991](../01_marco_normativo_general_y_organico/D212_1991_organizacion_departamentos_administracion_autonomica_canarias.md), de 11 de septiembre, de organización de los departamentos de 
 la Administración de la Comunidad Autónoma de Canarias y en el artículo 11 del Decreto 
 135/2016, de 10 de octubre, por el que se aprueba el Reglamento Orgánico de la Consejería 
 de Educación y Universidades, 

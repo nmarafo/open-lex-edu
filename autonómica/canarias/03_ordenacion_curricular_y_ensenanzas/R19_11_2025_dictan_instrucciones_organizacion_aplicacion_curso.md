@@ -37,6 +37,7 @@ fundamentos_derecho:
 - norma_id: norm-es-2019-317
 - norma_id: norm-es-2021-20113
 - norma_id: norm-es-2010-12201
+- norma_id: norm-can-d-212-1991
 fuente_pdf_oficial: https://sede.gobiernodecanarias.org/boc/boc-a-2025-238-4105.pdf
 ---
 # Resolución de 19 de noviembre de 2025, de la Dirección General de Formación Profesional y Enseñanzas de Régimen Especial.por la que se convocan pruebas para la obtención de la certificación de Enseñanzas de Idiomas de Régimen Especial destinadas a la población escolar de centros docentes públicos de la Comunidad Autónoma de Canarias, y se dictan instrucciones para su organización y aplicación en el curso 2025/2026 (BOC nº 238, de 1 de diciembre).
@@ -161,7 +162,7 @@ Régimen Especial en la Comunidad Autónoma de Canarias, establece directrices s
 características generales y la estructura de las pruebas de certificación junto con los tipos 
 de tareas y las características de los textos por actividad de lengua.
 En atención a lo anteriormente indicado, y de conformidad con lo dispuesto en el artículo 
-19 del Decreto 212/1991, de 11 de septiembre, de organización de los Departamentos de la 
+19 del [Decreto 212/1991](../01_marco_normativo_general_y_organico/D212_1991_organizacion_departamentos_administracion_autonomica_canarias.md), de 11 de septiembre, de organización de los Departamentos de la 
 Administración Autonómica de Canarias, y el artículo 20 del [Decreto 84/2024](../01_marco_normativo_general_y_organico/D84_2024_aprueba_reglamento_organico_formacion_profesional_actividad.md), de 10 de junio, 
 por el que se aprueba el Reglamento Orgánico de la Consejería de Educación, Formación 
 Profesional, Actividad Física y Deportes, que asignan competencias generales y específicas a 

@@ -29,6 +29,7 @@ fundamentos_derecho:
   - '1'
 - norma_id: norm-es-2004-15601
 - norma_id: norm-es-lo-5-2000
+- norma_id: norm-can-d-212-1991
 fuente_pdf_oficial: https://sede.gobiernodecanarias.org/boc/boc-a-2014-188-4160.pdf
 fuente_juriscan: http://www.gobcan.es/juriscan/ficha.jsp?id=71394
 ---
@@ -71,7 +72,7 @@ de internamiento de menores y jóvenes infractores dictadas por los Juzgados de 
 que se regulan las normas de organización y funcionamiento de los centros para la ejecución de 
 medidas de internamiento, y en el se contienen las normas administrativas conformadoras del 
 régimen jurídico especial de la actuación de la entidad pública competente en la materia. 
-Acorde con lo dispuesto en el artículo 3 del Decreto 212/1991, de 11 de septiembre, 
+Acorde con lo dispuesto en el artículo 3 del [Decreto 212/1991](../01_marco_normativo_general_y_organico/D212_1991_organizacion_departamentos_administracion_autonomica_canarias.md), de 11 de septiembre, 
 de organización de los Departamentos de la Administración Autonómica de Canarias, los 
 órganos de superior rango jerárquico dirigen la actuación de los inferiores y unidades admi-
 nistrativas que les estén adscritos o dependan de ellos funcionalmente.

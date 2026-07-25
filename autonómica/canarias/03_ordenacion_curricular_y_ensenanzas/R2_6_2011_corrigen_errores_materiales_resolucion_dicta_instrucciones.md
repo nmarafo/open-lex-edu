@@ -35,6 +35,7 @@ fundamentos_derecho:
   - '1'
 - norma_id: norm-es-l-39-2015
 - norma_id: norm-can-res-juriscan-65631-68
+- norma_id: norm-can-d-212-1991
 fuente_pdf_oficial: https://sede.gobiernodecanarias.org/boc/boc-a-2011-124-3519.pdf
 fuente_juriscan: http://www.gobcan.es/juriscan/ficha.jsp?id=65632
 ---
@@ -94,7 +95,7 @@ y c) del Reglamento Orgánico de la Consejería de Edu-
 cación, Cultura y Deportes (BOC nº 148, de 1 de agos-
 to), aprobado por el Decreto 113/2006, de 26 de ju-
 lio, en su redacción actual, así como en relación con
-el artículo 19.1 del Decreto 212/1991, de 11 de sep-
+el artículo 19.1 del [Decreto 212/1991](../01_marco_normativo_general_y_organico/D212_1991_organizacion_departamentos_administracion_autonomica_canarias.md), de 11 de sep-
 tiembre, de organización de los Departamentos de la
 Administración Autonómica de Canarias (BOC nº 122,
 de 16 de septiembre), 

@@ -39,6 +39,7 @@ fundamentos_derecho:
 - norma_id: norm-es-2021-20113
 - norma_id: norm-es-2010-12201
 - norma_id: norm-can-res-boc-2026-075-85
+- norma_id: norm-can-d-212-1991
 fuente_pdf_oficial: https://sede.gobiernodecanarias.org/boc/boc-a-2026-077-1287.pdf
 ---
 # [Resolución de 10 de abril de 2026](../04_organizacion_escolar_y_funcionamiento/R10_4_2026_corrige_error_resolucion_mazo_establece_calendario.md), por la que se convocan pruebas de certificación de Enseñanzas de Idiomas de Régimen Especial para aspirantes libres y alumnado escolarizado en las Escuelas Oficiales de Idiomas de la Comunidad Autónoma de Canarias, y se dictan instrucciones para su organización y aplicación en el curso 2025-2026. Fechas de inscripción: Aspirantes libres de todos los niveles y aspirantes escolarizados/as de los niveles B1, B2, C1 y C2: del 29 de abril al 13 de mayo de 2026. Aspirantes escolarizados del nivel A2: del 27 de mayo al 1 de junio de 2026.
@@ -123,7 +124,7 @@ Régimen Especial en la Comunidad Autónoma de Canarias, establece directrices s
 características generales y la estructura de las pruebas de certificación junto con los tipos 
 de tareas y las características de los textos por actividad de lengua.
 En atención a lo anteriormente indicado y de conformidad con lo dispuesto en el artículo 
-19 del Decreto 212/1991, de 11 de septiembre, de organización de los Departamentos de 
+19 del [Decreto 212/1991](../01_marco_normativo_general_y_organico/D212_1991_organizacion_departamentos_administracion_autonomica_canarias.md), de 11 de septiembre, de organización de los Departamentos de 
 la Administración Autonómica de Canarias, y el artículo 20 del [Decreto 84/2024](../01_marco_normativo_general_y_organico/D84_2024_aprueba_reglamento_organico_formacion_profesional_actividad.md), de 10 
 de junio, por el que se aprueba el Reglamento Orgánico de la Consejería de Educación, 
 Formación Profesional, Actividad Física y Deportes, que asignan competencias generales 

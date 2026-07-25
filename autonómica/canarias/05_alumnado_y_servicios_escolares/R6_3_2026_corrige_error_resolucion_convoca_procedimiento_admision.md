@@ -40,6 +40,7 @@ fundamentos_derecho:
 - norma_id: norm-can-d-84-2024
 - norma_id: norm-can-res-boc-2026-039-102
 - norma_id: norm-can-res-boc-2026-039-103
+- norma_id: norm-can-d-212-1991
 fuente_pdf_oficial: https://sede.gobiernodecanarias.org/boc/boc-a-2026-053-880.pdf
 ---
 # Resolución de 6 de marzo de 2026, por la que se corrige error en la [Resolución de 13 de febrero de 2026](R13_2_2026_convoca_procedimiento_admision_alumnado_ciclos_formativos.md), que convoca el procedimiento de admisión del alumnado a los Ciclos Formativos de Grado Básico, Medio y Superior (Grado D, niveles 1, 2 y 3, respectivamente) y de los cursos de especialización de Grado Medio y Superior (Grados E, niveles 2 y 3, respectivamente) de todas las Enseñanzas de Formación Profesional autorizadas, Enseñanzas Profesionales de Artes Plásticas y Diseño, Enseñanzas Deportivas, Enseñanzas Elementales y Profesionales de Música y Enseñanzas de Idiomas en centros docentes sostenidos con fondos públicos en la Comunidad Autónoma de Canarias para el curso escolar 2026-2027 (BOC n.º 39, de 26.2.2026).
@@ -87,7 +88,7 @@ de grupos, de manera virtual (preferentemente) o presencial mediante el formular
 matrícula única, del alumnado convocado en la 3.ª asignación de plazas.
 
 En su virtud, y en uso de las competencias que tengo conferidas en base a lo dispuesto 
-en el artículo 19 del Decreto 212/1991, de 11 de septiembre, de organización de los 
+en el artículo 19 del [Decreto 212/1991](../01_marco_normativo_general_y_organico/D212_1991_organizacion_departamentos_administracion_autonomica_canarias.md), de 11 de septiembre, de organización de los 
 Departamentos de la Administración Autonómica de Canarias, y en el artículo 20 del 
 Reglamento Orgánico de la Consejería de Educación, Formación Profesional, Actividad 
 Física y Deportes, aprobado por el [Decreto 84/2024](../01_marco_normativo_general_y_organico/D84_2024_aprueba_reglamento_organico_formacion_profesional_actividad.md), de 10 de junio, por le que se asignan 

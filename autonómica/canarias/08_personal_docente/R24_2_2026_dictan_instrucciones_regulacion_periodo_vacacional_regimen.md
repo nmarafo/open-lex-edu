@@ -43,6 +43,7 @@ fundamentos_derecho:
 - norma_id: norm-es-l-40-2015
 - norma_id: norm-es-rdl-5-2015
 - norma_id: norm-es-rdl-2-2015
+- norma_id: norm-can-d-212-1991
 fuente_pdf_oficial: https://sede.gobiernodecanarias.org/boc/boc-a-2026-046-751.pdf
 ---
 # Resolución de 24 de febrero de 2026, por la que se dictan instrucciones sobre la regulación del periodo vacacional, régimen de permisos y licencias del personal docente no universitario al servicio de la Administración Educativa Canaria y se delegan competencias en las Direcciones Territoriales y direcciones de los centros educativos. (BOC N.º 046. Lunes 9 de marzo de 2026).
@@ -103,7 +104,7 @@ universitario en centros públicos (letra a), así como conceder licencias y per
 personal docente no universitario (letra f).
 Cuarto.- A su vez, el artículo 26 del referido Reglamento Orgánico dispone que las 
 Direcciones Territoriales de Educación, además de las funciones que el artículo 23 del 
-Decreto 212/1991, de 11 de septiembre, de organización de los Departamentos de la 
+[Decreto 212/1991](../01_marco_normativo_general_y_organico/D212_1991_organizacion_departamentos_administracion_autonomica_canarias.md), de 11 de septiembre, de organización de los Departamentos de la 
 Administración Autonómica de Canarias, asigna con carácter general a las Direcciones 
 Territoriales, ejercerán las que se les atribuyen por dicho Reglamento Orgánico y cuantas 
 otras les sean delegadas y encomendadas por los órganos superiores del Departamento.

@@ -44,6 +44,7 @@ fundamentos_derecho:
 - norma_id: norm-es-2021-20113
 - norma_id: norm-es-2010-12201
 - norma_id: norm-es-lo-8-2021
+- norma_id: norm-can-d-212-1991
 fuente_pdf_oficial: https://sede.gobiernodecanarias.org/boc/boc-a-2026-029-465.pdf
 ---
 # Resolución de 30 de enero de2026, de la Dirección General de Personal y Formación del Profesorado, por la que se convoca, por el sistema de libre designación, la provisión de puestos de dirección de centros públicos integrados de formación profesional de la Comunidad Autónoma de Canarias para el periodo de mandato 2026-2030 (BOC n.º 29, de 12 de febrero).
@@ -93,7 +94,7 @@ cuanto le sea de aplicación.
 De conformidad con lo anterior, en virtud de las competencias previstas en el artículo 
 16 del Reglamento Orgánico de la Consejería de Educación, Formación Profesional, 
 Actividad Física y Deportes del Gobierno de Canarias, aprobado por [Decreto 84/2024](../01_marco_normativo_general_y_organico/D84_2024_aprueba_reglamento_organico_formacion_profesional_actividad.md), de 
-10 de junio, y en relación con el artículo 19 del Decreto 212/1991, de 11 de septiembre, de 
+10 de junio, y en relación con el artículo 19 del [Decreto 212/1991](../01_marco_normativo_general_y_organico/D212_1991_organizacion_departamentos_administracion_autonomica_canarias.md), de 11 de septiembre, de 
 organización de los Departamentos de la Administración Autonómica de Canarias,
 RESUELVO :
 Primero.- Convocar para su provisión, por el sistema de libre designación, los puestos 

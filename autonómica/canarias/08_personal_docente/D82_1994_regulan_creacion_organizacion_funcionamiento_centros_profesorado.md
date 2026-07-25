@@ -41,6 +41,7 @@ fundamentos_derecho:
 - norma_id: norm-can-l-6-2014
   articulos:
   - '61'
+- norma_id: norm-can-d-212-1991
 ---
 # Decreto 82/1994, de 13 de mayo, por el que se regulan la creación, organización y funcionamiento de los Centros del Profesorado en la Comunidad Autónoma de Canarias.
 
@@ -80,7 +81,7 @@ II. AUTORIDADES Y PERSONAL - Nombramientos, situaciones e incidencias - Presiden
 
 Descargar en formato pdf
 
-De conformidad con lo previsto en el artículo 5, apartado 2, del Decreto 212/1991, de 11 de septiembre, de organización de los Departamentos de la Administración Autonómica de Canarias,
+De conformidad con lo previsto en el artículo 5, apartado 2, del [Decreto 212/1991](../01_marco_normativo_general_y_organico/D212_1991_organizacion_departamentos_administracion_autonomica_canarias.md), de 11 de septiembre, de organización de los Departamentos de la Administración Autonómica de Canarias,
 
 D I S P O N G O:
 

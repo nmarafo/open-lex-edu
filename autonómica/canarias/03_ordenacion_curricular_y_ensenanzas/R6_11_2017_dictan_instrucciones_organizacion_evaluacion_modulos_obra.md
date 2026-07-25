@@ -35,6 +35,7 @@ fundamentos_derecho:
 - norma_id: norm-es-2007-10487
 - norma_id: norm-es-2010-12201
 - norma_id: norm-can-d-135-2016
+- norma_id: norm-can-d-212-1991
 fuente_pdf_oficial: https://sede.gobiernodecanarias.org/boc/boc-a-2017-220-5354.pdf
 ---
 # Resolución de 6 de noviembre de 2017, de la Dirección General de Formación Profesional y Educación de Adultos, por la que se dictan instrucciones para la organización y la evaluación de los módulos de obra final y de proyecto integrado de las enseñanzas profesionales de Artes Plásticas y Diseño en la Comunidad Autónoma de Canarias (BOC n.º 220, de 15 de noviembre).
@@ -95,7 +96,7 @@ en materia de educación establecer los aspectos relacionados con la evaluación
 mencionados módulos de Obra final y de Proyecto integrado de los ciclos formativos de 
 grado medio y superior de artes plásticas y diseño regulados en este marco normativo.
 En atención a lo anteriormente indicado, de conformidad con lo dispuesto en el artículo 
-19 del Decreto 212/1991, de 11 de septiembre, de organización de los departamentos 
+19 del [Decreto 212/1991](../01_marco_normativo_general_y_organico/D212_1991_organizacion_departamentos_administracion_autonomica_canarias.md), de 11 de septiembre, de organización de los departamentos 
 de la Administración de la Comunidad Autónoma de Canarias (BOC nº 122, de 16 de 
 septiembre), y artículo 11 del [Decreto 135/2016](../01_marco_normativo_general_y_organico/D135_2016_reglamento_organico_consejeria_educacion_universidades_cultura.md), de 10 de octubre, por el que se aprueba 
 el Reglamento Orgánico de la Consejería de Educación y Universidades (BOC nº 203, 

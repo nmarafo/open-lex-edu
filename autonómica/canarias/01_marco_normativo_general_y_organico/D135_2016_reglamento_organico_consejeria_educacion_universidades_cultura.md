@@ -155,7 +155,7 @@ CAPÍTULO III
 
 Sección 1ª - Viceconsejería de Educación y Universidades
 Artículo 8.- Competencias generales y específicas.
-1. La Viceconsejería de Educación y Universidades ejercerá, en su ámbito funcional, las competencias previstas en el artículo 11 del Decreto 212/1991, de 11 de septiembre, de organización de los Departamentos de la Administración Autonómica de Canarias.
+1. La Viceconsejería de Educación y Universidades ejercerá, en su ámbito funcional, las competencias previstas en el artículo 11 del [Decreto 212/1991](D212_1991_organizacion_departamentos_administracion_autonomica_canarias.md), de 11 de septiembre, de organización de los Departamentos de la Administración Autonómica de Canarias.
 2. Asimismo, le corresponden las competencias de dirección, coordinación, estudio y resolución en materia de educación y universidades, no atribuidas específicamente a otro órgano.
 
 Sección 2ª - Secretaría General Técnica

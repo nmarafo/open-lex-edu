@@ -41,6 +41,7 @@ fundamentos_derecho:
 - norma_id: norm-es-2010-12201
 - norma_id: norm-es-2007-6115
 - norma_id: norm-es-2010-4518
+- norma_id: norm-can-d-212-1991
 fuente_pdf_oficial: https://sede.gobiernodecanarias.org/boc/boc-a-2018-124-3068.pdf
 ---
 # Resolución de 21 de junio de 2018, de la Viceconsejería de Educación y Universidades, por la que se dictan instrucciones de organización y funcionamiento dirigidas a los centros docentes públicos no universitarios de la Comunidad Autónoma de Canarias para el curso 2018/19 (BOC n.º 124, de 28 de junio).
@@ -179,7 +180,7 @@ Duodécimo.- De acuerdo con lo expuesto, en virtud de lo previsto en la [Ley 40/
 de 1 de octubre, de Régimen Jurídico del Sector Público (BOE nº 236, de 2 de octubre) 
 en su artículo 6.1, «Los órganos administrativos podrán dirigir las actividades de sus 
 órganos jerárquicamente dependientes mediante instrucciones y órdenes de servicio», 
-y en el artículo 4.1 del Decreto 212/1991, de 11 de septiembre, de organización de los 
+y en el artículo 4.1 del [Decreto 212/1991](../01_marco_normativo_general_y_organico/D212_1991_organizacion_departamentos_administracion_autonomica_canarias.md), de 11 de septiembre, de organización de los 
 Departamentos de la Administración Autonómica de Canarias (BOC nº 122, de 16 de 
 septiembre), «Los órganos departamentales, en el ámbito de atribuciones que les sea 
 propio, podrán dictar instrucciones y directrices a los órganos y unidades que dependan 

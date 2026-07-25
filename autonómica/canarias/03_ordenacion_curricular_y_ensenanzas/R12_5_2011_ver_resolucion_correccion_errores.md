@@ -30,6 +30,7 @@ fundamentos_derecho:
 - norma_id: norm-es-2001-7022
 - norma_id: norm-es-2021-20113
 - norma_id: norm-es-2010-12201
+- norma_id: norm-can-d-212-1991
 fuente_pdf_oficial: https://sede.gobiernodecanarias.org/boc/boc-a-2011-099-2678.pdf
 ---
 # ver Resolución corrección de errores de 12 de mayo de 2011
@@ -79,7 +80,7 @@ momento, de oficio o a instancia de los interesados,
 los errores materiales, de hecho o aritméticos exis-
 tentes en sus actos.
 Y en virtud de lo dispuesto en el artículo 15.5, apar-
-tado f), del Decreto 212/1991, de 11 de septiembre,
+tado f), del [Decreto 212/1991](../01_marco_normativo_general_y_organico/D212_1991_organizacion_departamentos_administracion_autonomica_canarias.md), de 11 de septiembre,
 de organización de los Departamentos de la Admi-
 nistración Autonómica de Canarias (BOC nº 122, de
 16.9.91), de coordinar las publicaciones de los De-
