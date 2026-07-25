@@ -25,8 +25,8 @@ tags:
 - estatal
 - marco_general
 relaciones:
-  modificada_por:
-  - norma_id: norm-es-lo-2-2006
+  modificado_por:
+  - norma_id: norm-es-lo-3-2020
     fecha_modificacion: '2020-12-30'
     nota: Modificada de forma integral por la Ley Orgánica 3/2020 (LOMLOE).
 fundamentos_derecho:
