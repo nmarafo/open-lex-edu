@@ -39,6 +39,7 @@ fuente_pdf_oficial: https://sede.gobiernodecanarias.org/boc/boc-a-2018-019-376.p
 
 
 
+
 # Resolución de 10 de enero de 2018, de la Dirección General de Personal, por la que se dispone la publicación en el Boletín Oficial de Canarias del Acuerdo entre la Consejería de Educación y Universidades y las centrales sindicales representativas del profesorado sobre la mejora del marco retributivo del personal docente no universitario del ámbito de la Consejería de Educación y Universidades (BOC n.º 19, de 26 de enero).
 
 Viernes 26 de enero de 2018

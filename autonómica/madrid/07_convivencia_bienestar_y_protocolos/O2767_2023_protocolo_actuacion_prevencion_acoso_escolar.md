@@ -40,6 +40,7 @@ fundamentos_derecho:
 ---
 
 
+
 # Orden 2767/2023, de 28 de julio, de la Consejería de Educación, Ciencia y Universidades, por la que se aprueba el protocolo de actuación ante situaciones de acoso escolar en los centros docentes de la Comunidad de Madrid.
 
 ## Preámbulo

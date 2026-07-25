@@ -64,6 +64,7 @@ fundamentos_derecho:
 
 
 
+
 # Real Decreto 68/2026, de 4 de febrero, por el que se regula la inspección educativa.
 
 El Cuerpo de Inspectores de Educación, como institución, se remonta a 1849, año en que se publica el real decreto de su creación, cuyo preámbulo la justifica por la necesidad del Gobierno de «observar muchas cosas que solo se descubren a los ojos de personas facultativas», con el objetivo último de promover mejoras en la educación.

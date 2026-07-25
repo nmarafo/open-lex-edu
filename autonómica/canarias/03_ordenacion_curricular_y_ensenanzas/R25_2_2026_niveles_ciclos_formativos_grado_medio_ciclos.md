@@ -84,6 +84,7 @@ fuente_pdf_oficial: https://sede.gobiernodecanarias.org/boc/boc-a-2026-043-703.p
 
 
 
+
 # [Resolución de 25 de febrero de 2026](R25_2_2026_establece_distribucion_horaria_estructura_modular_grados.md), de la Dirección General de Formación Profesional y Enseñanzas de Régimen Especial por la que se dictan instrucciones para la implantación y desarrollo del módulo profesional optativo en las ofertas formativas de Grados D, niveles 2 (ciclos formativos de grado medio) y 3 (ciclos formativos de grado superior), a partir del curso escolar 2026/2027, en la Comunidad Autónoma de Canarias (BOC n.º 43, de 4 de marzo).
 
 III. Otras Resoluciones

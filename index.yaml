@@ -4562,14 +4562,12 @@ normas:
     subcategoria: Marco normativo general
     tags:
     - admision-alumnado
-    - autonomia-centro
     - conciertos-educativos
-    - ensenanzas-universitarias
+    - equipos-directivos
     - ideario-educativo
     - libertad-de-eleccion
     - libertad-de-ensenanza
     - marco-normativo-general
-    - titulacion
     - zona-unica
     path: autonómica/madrid/01_marco_normativo_general_y_organico/L1_2022_maestra_libertad_eleccion_educativa.md
   norm-mad-l-4-1998:
@@ -4586,13 +4584,10 @@ normas:
     categoria_canonica: 01_marco_normativo_general_y_organico
     subcategoria: Órganos colegiados
     tags:
-    - admision-alumnado
-    - autonomia-centro
     - comunidad-educativa
-    - conciertos-educativos
     - consejo-escolar
     - consejos-escolares-municipales
-    - ensenanzas-universitarias
+    - equipos-directivos
     - organos-consultivos
     - participacion-educativa
     path: autonómica/madrid/01_marco_normativo_general_y_organico/L4_1998_consejos_escolares_comunidad_madrid.md
@@ -4601,7 +4596,7 @@ normas:
     codigo_sintetizado: Ley Madrid 6/1995
     titulo: Ley 6/1995, de 28 de marzo, de Garantías de los Derechos de la Infancia
       y la Adolescencia en la Comunidad de Madrid (BOCM n.º 85, de 10 de abril; BOE
-      n.º 134, de 6 de junio).
+      n.º 184, de 2 de agosto).
     jurisdiccion: Madrid
     ambito: Autonómico
     tipo_disposicion: Ley
@@ -4612,16 +4607,11 @@ normas:
     subcategoria: Protección jurídica de menores
     tags:
     - absentismo-escolar
-    - autonomia-centro
     - bienestar-infantil
     - comision-de-tutela
     - derechos-de-los-menores
-    - evaluacion
-    - igualdad-genero
     - infancia-y-adolescencia
-    - prevencion-riesgos-laborales
     - proteccion-menores
-    - titulacion
     - tutela-y-guarda
     path: autonómica/madrid/01_marco_normativo_general_y_organico/L6_1995_garantias_derechos_infancia_adolescencia.md
   norm-mad-o-20-1-2021:

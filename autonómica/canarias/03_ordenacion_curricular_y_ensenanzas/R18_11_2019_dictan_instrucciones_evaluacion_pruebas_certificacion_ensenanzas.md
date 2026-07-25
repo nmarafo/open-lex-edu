@@ -56,6 +56,7 @@ fuente_pdf_oficial: https://sede.gobiernodecanarias.org/boc/boc-a-2019-234-5741.
 
 
 
+
 # Resolución de 18 de noviembre de 2019, por la que se dictan instrucciones sobre evaluación de las pruebas de certificación de enseñanzas de idiomas de régimen especial en la Comunidad Autónoma de Canarias (BOC n.º 234, de 3 de diciembre).
 
 Martes 3 de diciembre de 2019

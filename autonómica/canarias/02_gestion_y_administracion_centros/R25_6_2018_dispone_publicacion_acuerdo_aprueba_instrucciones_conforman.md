@@ -44,6 +44,7 @@ fuente_pdf_oficial: https://sede.gobiernodecanarias.org/boc/boc-a-2018-127-3139.
 
 
 
+
 # Resolución de 25 de junio de 2018, por la que se dispone la publicación del Acuerdo que aprueba las instrucciones que conforman la normativa de seguridad en el uso de los recursos informáticos, telefónicos y de redes de comunicación de la Administración Pública de la Comunidad Autónoma de Canarias (BOC n.º 127, de 3 de julio).
 
 Martes 3 de julio de 2018

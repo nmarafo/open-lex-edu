@@ -41,6 +41,7 @@ fundamentos_derecho:
 
 
 
+
 # Ley 27/2013, de 27 de diciembre, de racionalización y sostenibilidad de la Administración Local.
 
 **JUAN CARLOS I**

@@ -37,6 +37,7 @@ fundamentos_derecho:
 
 
 
+
 # Decreto 14/2010, de 18 de marzo, del Consejo de Gobierno, por el que se regula la autonomía organizativa de los Institutos de Educación Secundaria de la Comunidad de Madrid.
 
 ## Preámbulo

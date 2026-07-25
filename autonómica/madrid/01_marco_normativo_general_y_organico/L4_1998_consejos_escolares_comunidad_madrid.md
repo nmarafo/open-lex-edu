@@ -17,13 +17,10 @@ clasificacion:
   categoria_canonica: 01_marco_normativo_general_y_organico
   subcategoria: Órganos colegiados
 tags:
-- admision-alumnado
-- autonomia-centro
 - comunidad-educativa
-- conciertos-educativos
 - consejo-escolar
 - consejos-escolares-municipales
-- ensenanzas-universitarias
+- equipos-directivos
 - organos-consultivos
 - participacion-educativa
 relaciones:
@@ -33,25 +30,65 @@ fundamentos_derecho:
 - norma_id: norm-es-lo-2-2006
 ---
 
-
-
-
 # Ley 4/1998, de 8 de abril, de Consejos Escolares de la Comunidad de Madrid.
 
-## Preámbulo
-La participación de la comunidad educativa en la programación general de la enseñanza es un principio básico consagrado en el artículo 27.7 de la Constitución Española. La presente Ley regula la estructura, composición y funcionamiento del Consejo Escolar de la Comunidad de Madrid y de los Consejos Escolares Municipales.
 
-## Artículo 1. Naturaleza y fines.
-1. El Consejo Escolar de la Comunidad de Madrid es el órgano superior de consulta y participación de la comunidad educativa en la programación general de la enseñanza no universitaria en el ámbito de la Comunidad Autónoma.
-2. El Consejo Escolar estará adscrito a la Consejería competente en materia de educación.
 
-## Artículo 2. Funciones consultivas.
-1. El Consejo Escolar de la Comunidad de Madrid será consultado preceptivamente en las siguientes materias:
-a) Los proyectos de ley y reglamentos orgánicos en materia educativa no universitaria.
-b) Los planes generales de actuación de la Consejería de Educación.
-c) Los criterios generales sobre financiación de centros públicos y conciertos educativos.
-d) Las propuestas de acuerdos o convenios marco en materia educativa.
+### Resolución de 12 de junio de 1998, de la Dirección General de la Energía, por la que se hacen públicos los nuevos precios máximos de venta, antes de impuestos, de los gases licuados del petróleo.
 
-## Artículo 3. Consejos Escolares Municipales y Territoriales.
-1. Los Municipios de la Comunidad de Madrid podrán crear Consejos Escolares Municipales para encauzar la participación de los sectores afectados en la gestión educativa local.
-2. Los Consejos Escolares Municipales colaborarán en los procesos de escolarización y mantenimiento de infraestructuras educativas.
+
+[Vigencia agotada]
+
+
+### TEXTO ORIGINAL
+
+
+La Orden del Ministerio de Industria y Energía, de 31 de julio de 1997, establece el sistema de determinación de los precios de los gases licuados del petróleo, utilizados como combustibles o carburantes, para usos domésticos, comerciales e industriales, en todo el ámbito nacional.
+
+En cumplimiento de lo dispuesto en la mencionada Orden y con el fin de hacer públicos los nuevos precios máximos de los gases licuados del petróleo, en las diferentes modalidades de suministro establecidas en su apartado segundo, esta Dirección General de la Energía ha resuelto lo siguiente:
+
+Primero.-Desde las cero horas del día 16 de junio de 1998, los precios máximos de venta, antes de impuestos, de aplicación a los suministros de gases licuados del petróleo, a granel y por canalización, según modalidades de suministro, serán los que se indican a continuación:
+
+1. Gases licuados del petróleo en suministros directos a granel en destino a usuarios finales, instalaciones individuales o comunidades de propietarios:
+
+En el Archipiélago Canario: 44,41 pesetas/kilogramo.
+
+En el resto del territorio nacional: 59,46 pesetas/kilogramo.
+
+2. Gases licuados del petróleo por canalización a usuarios finales:
+
+Término fijo: 212,00 pesetas/mes.
+
+Término variable: 68,26 pesetas/kilogramo.
+
+3. Gases licuados del petróleo a granel a empresas distribuidoras de gases licuados del petróleo por canalización: 49,16 pesetas/kilogramo.
+
+Segundo.-Los precios máximos establecidos en el apartado primero no incluyen los siguientes impuestos vigentes:
+
+Península e islas Baleares: Impuesto Especial sobre Hidrocarburos e Impuesto sobre el Valor Añadido.
+
+Archipiélago canario: Impuesto especial sobre Hidrocarburos e Impuesto General Indirecto Canario.
+
+Ciudades de Ceuta y Melilla: Impuesto especial sobre Hidrocarburos e Impuesto sobre la producción, los servicios y la importación.
+
+Tercero.-Los precios máximos de aplicación para los suministros de los gases licuados del petróleo señalados en la presente Resolución se aplicarán a los suministros pendientes de ejecución el día de su entrada en vigor, aunque los pedidos correspondientes tengan fecha anterior. A estos efectos, se entienden por suministros pendientes de ejecución, aquellos que aún no se hayan realizado o se encuentren en fase de realización a las cero horas del día de entrada en vigor de la presente Resolución.
+
+Cuarto.-Las facturaciones de los consumos correspondientes a los suministros de GLP por canalización medidos por contador, relativas al período que incluya la fecha de entrada en vigor de la presente Resolución o, en su caso, de otras Resoluciones u Órdenes anteriores o posteriores relativas al mismo período de facturación, se calcularán repartiendo proporcionalmente el consumo total correspondiente al período facturado a los días anteriores y posteriores a cada una de dichas fechas, aplicando a los consumos resultantes del reparto los precios que corresponden a las distintas Resoluciones u órdenes aplicables.
+
+Quinto.-Las empresas distribuidoras de GLP por canalización, adoptarán las medidas necesarias para la determinación de los consumos periódicos efectuados por cada uno de sus clientes, a efectos de proceder a la correcta aplicación de los precios de GLP por canalización a que se refiere la presente Resolución.
+
+Madrid, 12 de junio de 1998.-El Director general, Antonio Gomis Sáez.
+
+
+### ANÁLISIS
+
+
+
+#### Referencias anteriores
+
+
+
+#### Materias
+
+
+subir

@@ -52,6 +52,7 @@ fuente_pdf_oficial: https://sede.gobiernodecanarias.org/boc/boc-a-2023-085-1356.
 
 
 
+
 # Resolución de 18 de abril de 2023, por la que se dictan instrucciones para la organización de los cursos de especialización en idiomas y se regula la planificación y autorización de su oferta y la admisión del alumnado en las Escuelas Oficiales de Idiomas de la Comunidad Autónoma de Canarias (BOC n.º 85, de 3 de mayo).
 
 III. Otras Resoluciones

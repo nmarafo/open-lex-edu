@@ -56,6 +56,7 @@ fundamentos_derecho:
 
 
 
+
 # Real Decreto 412/2014, de 6 de junio, por el que se establece la normativa básica de los procedimientos de admisión a las enseñanzas universitarias oficiales de Grado.
 
 La [Ley Orgánica 8/2013](LO462_2016_ecd_regula_procedimiento_incorporacion_alumnado_curso.md), de 9 de diciembre, para la Mejora de la Calidad Educativa (LOMCE) modifica los requisitos de acceso y admisión a las enseñanzas oficiales de Grado desde el título de Bachiller o equivalente, desde el título de Técnico Superior de Formación Profesional, de Técnico Superior de Artes Plásticas y Diseño o de Técnico Deportivo Superior así como para los estudiantes procedentes de sistemas educativos extranjeros.

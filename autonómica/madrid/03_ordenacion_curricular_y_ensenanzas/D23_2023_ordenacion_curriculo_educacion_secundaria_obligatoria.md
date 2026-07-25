@@ -35,6 +35,7 @@ fundamentos_derecho:
 
 
 
+
 # Decreto 23/2023, de 22 de marzo, del Consejo de Gobierno, por el que se regula la ordenación y el currículo de la Educación Secundaria Obligatoria en la Comunidad de Madrid.
 
 ## Preámbulo

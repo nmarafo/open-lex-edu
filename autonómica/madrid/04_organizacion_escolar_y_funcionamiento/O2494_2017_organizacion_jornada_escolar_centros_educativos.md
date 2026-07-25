@@ -34,6 +34,7 @@ fundamentos_derecho:
 ---
 
 
+
 # Orden 2494/2017, de 10 de julio, de la Consejería de Educación, Juventud y Deporte, por la que se regula la jornada escolar en los centros docentes públicos que imparten Educación Infantil y Primaria en la Comunidad de Madrid.
 
 ## Preámbulo

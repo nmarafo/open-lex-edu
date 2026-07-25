@@ -69,6 +69,7 @@ fundamentos_derecho:
 
 
 
+
 # Ley 14/1990, de 26 de julio, de Régimen Jurídico de las Administraciones Públicas de Canarias
 
 **EL PRESIDENTE DEL GOBIERNO**

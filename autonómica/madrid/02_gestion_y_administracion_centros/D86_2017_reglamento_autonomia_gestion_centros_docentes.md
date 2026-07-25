@@ -36,6 +36,7 @@ fundamentos_derecho:
 
 
 
+
 # Decreto 86/2017, de 17 de octubre, del Consejo de Gobierno, por el que se regula el modelo de autonomía de gestión de los centros docentes públicos no universitarios de la Comunidad de Madrid.
 
 ## Preámbulo
