@@ -52,6 +52,7 @@ fundamentos_derecho:
 
 
 
+
 # Real Decreto-ley 14/2012, de 20 de abril, de medidas urgentes de racionalización del gasto público en el ámbito educativo.
 
 En la actual coyuntura económica se hace necesario mejorar la eficiencia de las Administraciones Públicas en el uso de los recursos públicos, con objeto de contribuir a la consecución del inexcusable objetivo de estabilidad presupuestaria derivado del marco constitucional y de la Unión Europea.

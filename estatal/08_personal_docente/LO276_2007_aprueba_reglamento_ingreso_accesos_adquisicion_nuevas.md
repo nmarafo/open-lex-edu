@@ -90,6 +90,7 @@ fundamentos_derecho:
 
 
 
+
 # [Real Decreto 276/2007](RD592_2007_eci_aprueba_temario_ha_regir_procedimiento.md) - Reglamento de Ingreso, Accesos y Adquisición de Nuevas Especialidades en Cuerpos Docentes
 
 La [Ley Orgánica 2/2006](../01_marco_normativo_general_y_organico/LO2_2006_educacion_texto_consolidado_modificaciones_lomloe.md), de 3 de mayo, de Educación, en su disposición adicional sexta establece que, además de las recogidas en la [Ley 30/1984](../01_marco_normativo_general_y_organico/L30_1984_medidas_reforma_funcion_publica.md), de 2 de agosto, de Medidas para la Reforma de la Función Pública, modificada por la Ley 23/1988, de 28 de julio, son bases del régimen estatutario de los funcionarios públicos docentes, las reguladas por la propia ley orgánica y la normativa que la desarrolle para el ingreso y la movilidad entre los cuerpos docentes, encomendando al Gobierno su desarrollo reglamentario en aquellos aspectos básicos que sean necesarios para garantizar el marco común básico de la función pública docente.

@@ -1,5 +1,5 @@
 version: '1.0'
-total_normas: 326
+total_normas: 332
 normas:
   norm-can-d-123-2023:
     id: norm-can-d-123-2023
@@ -4591,6 +4591,7 @@ normas:
     - evaluacion
     - ordenacion-academica
     - promocion
+    - titulacion
     path: autonómica/madrid/03_ordenacion_curricular_y_ensenanzas/D23_2023_ordenacion_curriculo_educacion_secundaria_obligatoria.md
   norm-mad-d-61-2022:
     id: norm-mad-d-61-2022
@@ -4614,6 +4615,102 @@ normas:
     - evaluacion
     - ordenacion-academica
     path: autonómica/madrid/03_ordenacion_curricular_y_ensenanzas/D61_2022_ordenacion_curriculo_educacion_primaria.md
+  norm-mad-d-64-2022:
+    id: norm-mad-d-64-2022
+    codigo_sintetizado: Decreto BOCM 64/2022
+    titulo: Decreto 64/2022, de 20 de julio, del Consejo de Gobierno, por el que se
+      establece para la Comunidad de Madrid la ordenación y el currículo de la Educación
+      Infantil (BOCM n.º 173, de 22 de julio).
+    jurisdiccion: Madrid
+    ambito: Autonómico
+    tipo_disposicion: Decreto
+    fecha_publicacion: ''
+    estado: Vigente
+    redaccion: original
+    categoria_canonica: 03_ordenacion_curricular_y_ensenanzas
+    subcategoria: Educación Infantil
+    tags:
+    - admision-alumnado
+    - curriculo
+    - educacion-infantil
+    - ordenacion-academica
+    - primer-ciclo
+    - segundo-ciclo
+    path: autonómica/madrid/03_ordenacion_curricular_y_ensenanzas/D64_2022_ordenacion_curriculo_educacion_infantil.md
+  norm-mad-d-64-2023:
+    id: norm-mad-d-64-2023
+    codigo_sintetizado: Decreto BOCM 64/2023
+    titulo: Decreto 64/2023, de 17 de mayo, del Consejo de Gobierno, por el que se
+      establece la ordenación y el currículo del Bachillerato en la Comunidad de Madrid
+      (BOCM n.º 118, de 19 de mayo).
+    jurisdiccion: Madrid
+    ambito: Autonómico
+    tipo_disposicion: Decreto
+    fecha_publicacion: ''
+    estado: Vigente
+    redaccion: original
+    categoria_canonica: 03_ordenacion_curricular_y_ensenanzas
+    subcategoria: Bachillerato
+    tags:
+    - bachillerato
+    - curriculo
+    - ensenanzas-artisticas
+    - eso
+    - evaluacion
+    - modalidades-bachillerato
+    - ordenacion-academica
+    - prueba-acceso-universidad
+    - titulacion
+    path: autonómica/madrid/03_ordenacion_curricular_y_ensenanzas/D64_2023_ordenacion_curriculo_bachillerato.md
+  norm-mad-o-2096-2022:
+    id: norm-mad-o-2096-2022
+    codigo_sintetizado: Orden BOCM 2096/2022
+    titulo: Orden 2096/2022, de 22 de julio, del Consejero de Educación, Universidades,
+      Ciencia y Portavocía, por la que se regulan la evaluación y la promoción en
+      la Educación Primaria en la Comunidad de Madrid (BOCM n.º 177, de 27 de julio).
+    jurisdiccion: Madrid
+    ambito: Autonómico
+    tipo_disposicion: Orden
+    fecha_publicacion: ''
+    estado: Vigente
+    redaccion: original
+    categoria_canonica: 03_ordenacion_curricular_y_ensenanzas
+    subcategoria: Educación Primaria
+    tags:
+    - actas-de-evaluacion
+    - criterios-de-evaluacion
+    - educacion-primaria
+    - evaluacion
+    - profesorado
+    - promocion
+    path: autonómica/madrid/03_ordenacion_curricular_y_ensenanzas/O2096_2022_evaluacion_educacion_primaria.md
+  norm-mad-d-29-2013:
+    id: norm-mad-d-29-2013
+    codigo_sintetizado: Decreto BOCM 29/2013
+    titulo: Decreto 29/2013, de 11 de abril, del Consejo de Gobierno, por el que se
+      establece la libertad de elección de centro escolar en la Comunidad de Madrid
+      (BOCM n.º 86, de 12 de abril).
+    jurisdiccion: Madrid
+    ambito: Autonómico
+    tipo_disposicion: Decreto
+    fecha_publicacion: ''
+    estado: Vigente
+    redaccion: original
+    categoria_canonica: 05_alumnado_y_servicios_escolares
+    subcategoria: Admisión de alumnado
+    tags:
+    - admision-alumnado
+    - bachillerato
+    - baremo-admision
+    - educacion-infantil
+    - educacion-primaria
+    - escolarizacion
+    - eso
+    - libertad-de-eleccion
+    - personal-no-docente
+    - profesorado
+    - zona-unica
+    path: autonómica/madrid/05_alumnado_y_servicios_escolares/D29_2013_libertad_eleccion_centro_escolar.md
   norm-mad-d-32-2019:
     id: norm-mad-d-32-2019
     codigo_sintetizado: Decreto BOCM 32/2019
@@ -4635,6 +4732,52 @@ normas:
     - sanciones
     - uso-dispositivos-moviles
     path: autonómica/madrid/07_convivencia_bienestar_y_protocolos/D32_2019_marco_regulador_convivencia_centros.md
+  norm-mad-d-187-2021:
+    id: norm-mad-d-187-2021
+    codigo_sintetizado: Decreto BOCM 187/2021
+    titulo: Decreto 187/2021, de 21 de julio, del Consejo de Gobierno, por el que
+      se regula la formación permanente del profesorado de enseñanzas no universitarias
+      en la Comunidad de Madrid (BOCM n.º 174, de 23 de julio).
+    jurisdiccion: Madrid
+    ambito: Autonómico
+    tipo_disposicion: Decreto
+    fecha_publicacion: ''
+    estado: Vigente
+    redaccion: original
+    categoria_canonica: 08_personal_docente
+    subcategoria: Formación del profesorado
+    tags:
+    - acreditacion-competencias
+    - ensenanzas-universitarias
+    - formacion-permanente
+    - profesorado
+    - proyectos-de-innovacion
+    - red-de-formacion
+    - titulacion
+    path: autonómica/madrid/08_personal_docente/D187_2021_formacion_permanente_profesorado.md
+  norm-mad-o-1308-2021:
+    id: norm-mad-o-1308-2021
+    codigo_sintetizado: Orden BOCM 1308/2021
+    titulo: Orden 1308/2021, de 12 de mayo, de la Consejería de Educación y Juventud,
+      por la que se regula la selección, nombramiento y cese de los funcionarios interinos
+      de los cuerpos docentes no universitarios en la Comunidad de Madrid (BOCM n.º
+      119, de 20 de mayo).
+    jurisdiccion: Madrid
+    ambito: Autonómico
+    tipo_disposicion: Orden
+    fecha_publicacion: ''
+    estado: Vigente
+    redaccion: original
+    categoria_canonica: 08_personal_docente
+    subcategoria: Profesorado interino
+    tags:
+    - baremo-interinos
+    - interinos
+    - listas-de-reserva
+    - nombramientos
+    - plantillas-docentes
+    - profesorado
+    path: autonómica/madrid/08_personal_docente/O1308_2021_regulacion_listas_aspirantes_interinos.md
   norm-es-ce-1978:
     id: norm-es-ce-1978
     codigo_sintetizado: CE_1978 Constitucion Espanola
@@ -16655,7 +16798,57 @@ relaciones_grafo:
   destino: norm-es-rd-157-2022
   articulos_origen: []
   articulos_destino: []
+- origen: norm-mad-d-61-2022
+  tipo: desarrollado_por
+  destino: norm-mad-o-2096-2022
+  articulos_origen: []
+  articulos_destino: []
+- origen: norm-mad-d-64-2022
+  tipo: desarrolla
+  destino: norm-es-lo-2-2006
+  articulos_origen: []
+  articulos_destino: []
+- origen: norm-mad-d-64-2022
+  tipo: desarrolla
+  destino: norm-es-rd-95-2022
+  articulos_origen: []
+  articulos_destino: []
+- origen: norm-mad-d-64-2023
+  tipo: desarrolla
+  destino: norm-es-lo-2-2006
+  articulos_origen: []
+  articulos_destino: []
+- origen: norm-mad-d-64-2023
+  tipo: desarrolla
+  destino: norm-es-rd-243-2022
+  articulos_origen: []
+  articulos_destino: []
+- origen: norm-mad-o-2096-2022
+  tipo: desarrolla
+  destino: norm-es-lo-2-2006
+  articulos_origen: []
+  articulos_destino: []
+- origen: norm-mad-o-2096-2022
+  tipo: desarrolla
+  destino: norm-mad-d-61-2022
+  articulos_origen: []
+  articulos_destino: []
+- origen: norm-mad-d-29-2013
+  tipo: desarrolla
+  destino: norm-es-lo-2-2006
+  articulos_origen: []
+  articulos_destino: []
 - origen: norm-mad-d-32-2019
+  tipo: desarrolla
+  destino: norm-es-lo-2-2006
+  articulos_origen: []
+  articulos_destino: []
+- origen: norm-mad-d-187-2021
+  tipo: desarrolla
+  destino: norm-es-lo-2-2006
+  articulos_origen: []
+  articulos_destino: []
+- origen: norm-mad-o-1308-2021
   tipo: desarrolla
   destino: norm-es-lo-2-2006
   articulos_origen: []

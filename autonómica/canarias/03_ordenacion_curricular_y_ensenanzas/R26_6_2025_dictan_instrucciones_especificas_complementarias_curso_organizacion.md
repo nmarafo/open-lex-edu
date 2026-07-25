@@ -56,6 +56,7 @@ fuente_pdf_oficial: https://sede.gobiernodecanarias.org/boc/boc-a-2025-134-2514.
 
 
 
+
 # Resolución de 26 de junio de 2025, de la Dirección General de Formación Profesional y Enseñanzas de Régimen Especial, por la que se dictan instrucciones específicas complementarias para el curso 2025/2026 sobre organización, funcionamiento y calendario de las Enseñanzas de Idiomas de Régimen Especial impartidas en las Escuelas Oficiales de Idiomas de la Comunidad Autónoma de Canarias (BOC núm.134, de 8 de julio).
 
 III. Otras Resoluciones

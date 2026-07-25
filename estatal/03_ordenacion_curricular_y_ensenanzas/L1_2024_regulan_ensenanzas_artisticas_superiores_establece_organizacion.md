@@ -57,6 +57,7 @@ fundamentos_derecho:
 
 
 
+
 # Ley 1/2024, de 7 de junio, por la que se regulan las enseñanzas artísticas superiores y se establece la organización y equivalencias de las enseñanzas artísticas profesionales.
 
 **FELIPE VI**

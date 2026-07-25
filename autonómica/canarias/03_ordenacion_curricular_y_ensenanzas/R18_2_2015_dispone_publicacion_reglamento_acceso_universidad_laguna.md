@@ -49,6 +49,7 @@ fuente_juriscan: http://www.gobcan.es/juriscan/ficha.jsp?id=72176
 
 
 
+
 # Resolución de 18 de febrero de 2015, por la que se dispone la publicación del Reglamento de acceso a la Universidad de La Laguna para mayores de 25, 40 y 45 años.
 
 Otras Administraciones Públicas

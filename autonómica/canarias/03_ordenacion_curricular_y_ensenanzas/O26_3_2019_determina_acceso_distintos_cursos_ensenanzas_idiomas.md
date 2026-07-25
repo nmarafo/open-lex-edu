@@ -58,6 +58,7 @@ fuente_pdf_oficial: https://sede.gobiernodecanarias.org/boc/boc-a-2019-069-1699.
 
 
 
+
 # Resolución de 26 de marzo de 2019, por la que se determina el acceso a los distintos cursos de enseñanzas de idiomas de régimen especial en aplicación de lo establecido en la Orden de 21 de septiembre de 2016, de esta Consejería, que regula el reconocimiento de la acreditación de la competencia lingüística conforme al Marco Común Europeo de Referencia para las Lenguas en la Comunidad Autónoma de Canarias (BOC n.º 69, de 9 de abril).
 
 Martes 9 de abril de 2019

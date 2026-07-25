@@ -55,6 +55,7 @@ fundamentos_derecho:
 
 
 
+
 # Resolución de 13 de febrero de 2023, de la Subsecretaría, por la que se publica la Resolución de 8 de febrero de 2023, conjunta de la Secretaría de Estado de Educación y la Secretaría General de Universidades, por la que se establecen las adaptaciones de la evaluación de Bachillerato para el acceso a la Universidad a las necesidades y situación de los centros españoles situados en el exterior del territorio nacional, los programas educativos en el exterior, los programas internacionales, el alumnado procedente de sistemas educativos extranjeros y las enseñanzas a distancia, en el curso 2022-2023.
 
 El Secretario de Estado de Educación y el Secretario General de Universidades han suscrito, con fecha 8 de febrero de 2023, una Resolución conjunta por la que se establecen las adaptaciones de la evaluación de Bachillerato para el acceso a la Universidad a las necesidades y situación de los centros españoles situados en el exterior del territorio nacional, los programas educativos en el exterior, los programas internacionales, el alumnado procedente de sistemas educativos extranjeros y las enseñanzas a distancia, en el curso 2022-2023.

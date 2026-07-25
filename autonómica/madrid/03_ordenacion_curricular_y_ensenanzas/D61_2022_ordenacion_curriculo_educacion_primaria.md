@@ -28,10 +28,13 @@ relaciones:
   desarrolla:
   - norma_id: norm-es-lo-2-2006
   - norma_id: norm-es-rd-157-2022
+  desarrollado_por:
+  - norma_id: norm-mad-o-2096-2022
 fundamentos_derecho:
 - norma_id: norm-es-lo-2-2006
 - norma_id: norm-es-rd-157-2022
 ---
+
 
 # Decreto 61/2022, de 13 de julio, del Consejo de Gobierno, por el que se establece para la Comunidad de Madrid la ordenación y el currículo de la Educación Primaria.
 

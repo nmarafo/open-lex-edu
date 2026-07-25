@@ -1,7 +1,9 @@
 ---
 id: norm-mad-d-23-2023
 codigo_sintetizado: Decreto BOCM 23/2023
-titulo: Decreto 23/2023, de 22 de marzo, del Consejo de Gobierno, por el que se regula la ordenación y el currículo de la Educación Secundaria Obligatoria en la Comunidad de Madrid (BOCM n.º 71, de 24 de marzo).
+titulo: Decreto 23/2023, de 22 de marzo, del Consejo de Gobierno, por el que se regula
+  la ordenación y el currículo de la Educación Secundaria Obligatoria en la Comunidad
+  de Madrid (BOCM n.º 71, de 24 de marzo).
 jurisdiccion: Madrid
 ambito: Autonómico
 organo_emisor: Consejo de Gobierno de la Comunidad de Madrid
@@ -16,17 +18,19 @@ clasificacion:
   categoria_canonica: 03_ordenacion_curricular_y_ensenanzas
   subcategoria: ESO
 tags:
-- eso
 - curriculo
-- ordenacion-academica
+- eso
 - evaluacion
+- ordenacion-academica
 - promocion
+- titulacion
 relaciones:
   desarrolla:
   - norma_id: norm-es-lo-2-2006
 fundamentos_derecho:
 - norma_id: norm-es-lo-2-2006
 ---
+
 # Decreto 23/2023, de 22 de marzo, del Consejo de Gobierno, por el que se regula la ordenación y el currículo de la Educación Secundaria Obligatoria en la Comunidad de Madrid.
 
 ## Preámbulo

@@ -49,6 +49,7 @@ fundamentos_derecho:
 
 
 
+
 # [Real Decreto 104/1988](RD104_1988_aplicacion_lo_dispuesto_real_decreto_homologacion.md), de 29 de enero, sobre homologación y convalidación de títulos y estudios extranjeros de educación no universitaria.
 
 El artículo 149.1.30 de la Constitución establece que el Estado tiene competencia exclusiva en orden a la regulación de las condiciones de obtención, expedición y homologación de títulos académicos y profesionales.

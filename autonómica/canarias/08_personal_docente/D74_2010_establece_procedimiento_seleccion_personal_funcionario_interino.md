@@ -48,6 +48,7 @@ fuente_pdf_oficial: https://sede.gobiernodecanarias.org/boc/boc-a-2010-136-4028.
 
 
 
+
 # Decreto 74/2010, de 1 de julio, por el que se establece el procedimiento de selección del personal funcionario interino docente en el ámbito de la Comunidad Autónoma de Canarias.
 
 I. Disposiciones generales

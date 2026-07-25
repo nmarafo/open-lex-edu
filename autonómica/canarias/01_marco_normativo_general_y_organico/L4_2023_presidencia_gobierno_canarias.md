@@ -52,6 +52,7 @@ anexos_extraidos_pdf: true
 
 
 
+
 # Ley 4/2023, de 23 de marzo, de la Presidencia y del Gobierno de Canarias.
 
 https://sede.gobiernodecanarias.org/boc

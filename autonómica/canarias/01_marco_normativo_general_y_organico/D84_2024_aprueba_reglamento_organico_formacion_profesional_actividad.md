@@ -126,6 +126,7 @@ motor_ocr: rapidocr_onnxruntime
 
 
 
+
 # Decreto 84/2024, de 10 de junio, por el que se aprueba el Reglamento Orgánico de la Consejería de Educación, Formación Profesional, Actividad Física y Deportes.
 
 --- Página 1 (Transcripción OCR de Anexo/Imagen) ---
