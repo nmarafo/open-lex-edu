@@ -29,6 +29,12 @@ fundamentos_derecho:
   articulos:
   - '1'
 - norma_id: norm-es-lo-2-2006
+- norma_id: norm-can-d-81-2010
+- norma_id: norm-can-o-2013-10-09
+- norma_id: norm-es-2002-4371
+- norma_id: norm-es-2007-19326
+- norma_id: norm-es-2021-20113
+- norma_id: norm-es-2010-12201
 fuente_pdf_oficial: https://sede.gobiernodecanarias.org/boc/boc-a-2017-036-807.pdf
 ---
 # Resolución de 4 de febrero de 2017, por la que se dictan instrucciones para el proceso de evaluación en las enseñanzas deportivas de régimen especial en el ámbito de la Comunidad Autónoma de Canarias (BOC n.º 36, de 21 de febrero).
@@ -45,12 +51,12 @@ Vista la necesidad de establecer instrucciones para el proceso de evaluación de
 enseñanzas deportivas de régimen especial en el ámbito de la Comunidad Autónoma de 
 Canarias, y teniendo en cuenta los siguientes 
 ANTECEDENTES DE HECHO
-Primero.- La Ley Orgánica 2/2006, de 3 de mayo, de Educación, modificada por la Ley 
+Primero.- La [Ley Orgánica 2/2006](../../../estatal/01_marco_normativo_general_y_organico/LO2_2006_ley_organica_educacion.md), de 3 de mayo, de Educación, modificada por la Ley 
 Orgánica 8/2013, de 9 de diciembre, para la Mejora de la Calidad Educativa, en el artículo 
 3.2, integra las enseñanzas deportivas dentro de la oferta del sistema educativo, y en el 
 Capítulo VIII del Título I desarrolla los aspectos fundamentales de este tipo de enseñanzas, 
 que forman parte de las enseñanzas de régimen especial.
-Segundo.- El Real Decreto 1363/2007, de 24 de octubre, por el que se establece la 
+Segundo.- El [Real Decreto 1363/2007](../../../estatal/03_ordenacion_curricular_y_ensenanzas/BOE_2007_19326_octubre_establece_ordenación_general.md), de 24 de octubre, por el que se establece la 
 ordenación general de las enseñanzas deportivas de régimen especial, dedica su Capítulo IV 
 a la evaluación, regulando los criterios generales para la evaluación del alumnado que cursa 
 alguna de las modalidades o especialidades de las enseñanzas deportivas, y estableciendo, 
@@ -58,7 +64,7 @@ en su artículo 15, los documentos de evaluación y la regulación de su proceso
 La Disposición transitoria segunda del mencionado texto normativo establece la vigencia 
 de las enseñanzas deportivas en las modalidades de atletismo, baloncesto, balonmano, 
 deportes de montaña y escalada, deportes de invierno y fútbol, esta blecidas al amparo del 
-Real Decreto 1913/1997, de 19 de diciembre, que seguirán impartiéndose conforme a lo 
+[Real Decreto 1913/1997](../../../estatal/03_ordenacion_curricular_y_ensenanzas/BOE_2002_4371_febrero_establecen_elementos_básicos.md), de 19 de diciembre, que seguirán impartiéndose conforme a lo 
 previsto en los reales decretos que crearon los respectivos títulos y enseñanzas mínimas 
 hasta que se creen los nuevos títulos y enseñanzas, excepto en los aspectos que se detallan 
 en la misma, en los que se seguirán los criterios que allí se determinan.
@@ -85,10 +91,10 @@ fundamentales sobre su organización.
 Segundo.- El Real Decreto 1363/2007, de 24 de octubre, por el que se establece la 
 ordenación general de las enseñanzas deportivas de régimen especial (BOE nº 268, de 8 de 
 noviembre), que regula en su Capítulo IV la evaluación.
-Tercero.- El Decreto 81/2010, de 8 de julio, por el que se aprueba el Reglamento Orgánico 
+Tercero.- El [Decreto 81/2010](../04_organizacion_escolar_y_funcionamiento/D81_2010_reglamento_organico_centros.md), de 8 de julio, por el que se aprueba el Reglamento Orgánico 
 de los centros docentes públicos no universitarios de la Comunidad Autónoma de Canarias 
 (BOC nº 143, de 22 de julio).
-Cuarto.- La Orden de 9 de octubre de 2013, por la que se desarrolla el Decreto 81/2010, 
+Cuarto.- La [Orden de 9 de octubre de 2013](../04_organizacion_escolar_y_funcionamiento/O9_10_2013_desarrollo_reglamento_organico_centros.md), por la que se desarrolla el Decreto 81/2010, 
 de 8 de julio, por el que se aprueba el Reglamento Orgánico de los centros docentes públicos 
 no universitarios de la Comunidad Autónoma de Canarias, en lo referente a su organización 
 y funcionamiento (BOC nº 200, de 16 de octubre).

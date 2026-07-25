@@ -44,6 +44,13 @@ fundamentos_derecho:
 - norma_id: norm-can-lo-1-2018
   articulos:
   - '136'
+- norma_id: norm-can-l-1-1997
+- norma_id: norm-es-lo-5-2000
+- norma_id: norm-es-1999-23750
+- norma_id: norm-es-2008-979
+- norma_id: norm-es-lo-8-1985
+- norma_id: norm-es-2021-20113
+- norma_id: norm-es-2010-12201
 fuente_pdf_oficial: https://sede.gobiernodecanarias.org/boc/boc-a-2011-108-3000.pdf
 ---
 # Decreto 114/2011, de 11 de mayo, por el que se regula la convivencia en el ámbito educativo de la Comunidad Autónoma de Canarias.
@@ -77,7 +84,7 @@ las familias las primeras y principales colaborado-
 ras en el proceso educativo, y por tanto, su parti -
 cipación es un valor necesario para la consecución
 de los objetivos y fines de la educación.
-La Ley Orgánica 2/2006, de 3 de mayo, de Edu-
+La [Ley Orgánica 2/2006](../../../estatal/01_marco_normativo_general_y_organico/LO2_2006_ley_organica_educacion.md), de 3 de mayo, de Edu-
 cación, establece en su artículo 1, entre los principios
 inspiradores del sistema educativo español, la edu-
 cación para la prevención de conflictos y para la re-
@@ -472,7 +479,7 @@ de asociación, a través de las asociaciones de alumnos
 y alumnas, y de representación en el centro, a través de
 sus delegados o delegadas, y de sus representantes en
 el Consejo Escolar de acuerdo con lo dispuesto en el
-artículo 8 de la Ley Orgánica 8/1985, de 3 de julio, re-
+artículo 8 de la [Ley Orgánica 8/1985](../../../estatal/02_gestion_y_administracion_centros/LO8_1985_derecho_educacion.md), de 3 de julio, re-
 guladora del Derecho a la Educación. 
 c) La elección, mediante sufragio directo y secre-
 to, de sus representantes en el Consejo Escolar y de
@@ -531,8 +538,8 @@ en situaciones de riesgo y de desamparo en las que
 puedan involucrarse, tendentes a garantizar su desa-
 rrollo integral y a promover una vida normalizada,
 primando, en todo caso, su interés todo ello de acuer-
-do con lo previsto en los artículos 17 y 19 de la Ley
-1/1997, de 7 de febrero, de Atención integral a los
+do con lo previsto en los artículos 17 y 19 de la [Ley
+1/1997](../01_marco_normativo_general_y_organico/L1_1997_atencion_integral_menores_canarias.md), de 7 de febrero, de Atención integral a los
 menores. 
 Artículo 12.- Derecho a la igualdad de oportunidades. 
 El alumnado tiene derecho a recibir las ayudas y
@@ -1237,7 +1244,7 @@ o en el plan de convivencia.
 terio Fiscal cualquier hecho que pueda ser constitu-
 tivo de infracción penal. 
 La incoación por el Ministerio Fiscal de un pro-
-cedimiento previsto en la Ley Orgánica 5/2000, de
+cedimiento previsto en la [Ley Orgánica 5/2000](../../../estatal/01_marco_normativo_general_y_organico/LO5_2000_responsabilidad_penal_menores.md), de
 12 de enero, reguladora de la responsabilidad penal
 de los menores, respecto a conductas gravemente
 perjudiciales para las normas de convivencia en un
@@ -2075,9 +2082,9 @@ tamiento de datos.
 Durante el tiempo en que la documentación ge-
 nerada en los procedimientos regulados en este De-
 creto sea conservada, su tratamiento estará someti-
-do a lo que se dispone en Ley Orgánica 15/1999, de
+do a lo que se dispone en [Ley Orgánica 15/1999](../../../estatal/02_gestion_y_administracion_centros/BOE_1999_23750_diciembre_protección_datos_carácter.md), de
 13 de diciembre, de Protección de Datos de Carác -
-ter Personal, el Real Decreto 1720/2007, de 21 de di-
+ter Personal, el [Real Decreto 1720/2007](../../../estatal/02_gestion_y_administracion_centros/BOE_2008_979_diciembre_aprueba_reglamento_desarrollo.md), de 21 de di-
 ciembre, por el que se aprueba el reglamento de desa-
 rrollo de dicha Ley, así como las disposiciones
 aprobadas por la Comunidad Autónoma de Canarias

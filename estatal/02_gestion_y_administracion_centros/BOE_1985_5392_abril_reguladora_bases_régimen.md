@@ -24,6 +24,7 @@ fundamentos_derecho:
 - norma_id: norm-es-ce-1978
   articulos:
   - '27'
+- norma_id: norm-es-1984-17387
 ---
 # Ley 7/1985, de 2 de abril, Reguladora de las Bases del Régimen Local
 
@@ -1069,7 +1070,7 @@ En el supuesto de tales retribuciones, su percepción será incompatible con la 
 
 3. Las Corporaciones locales consignarán en sus Presupuestos las retribuciones o indemnizaciones a que se hace referencia en los dos números anteriores, dentro de los límites que con carácter general se establecen.
 
-4. A efectos de lo dispuesto en el articulo 37.3.d) del Estatuto de los Trabajadores y en el articulo 30.2 de la Ley 30/1984, se entiende por tiempo indispensable para el desempeño del cargo electivo de una Corporación Local, el necesario para la asistencia a las sesiones del Pleno de la Corporación o de las Comisiones y atención a las Delegaciones de que forme parte o que desempeñe el interesado.
+4. A efectos de lo dispuesto en el articulo 37.3.d) del Estatuto de los Trabajadores y en el articulo 30.2 de la [Ley 30/1984](../01_marco_normativo_general_y_organico/BOE_1984_17387_agosto_medidas_para_reforma.md), se entiende por tiempo indispensable para el desempeño del cargo electivo de una Corporación Local, el necesario para la asistencia a las sesiones del Pleno de la Corporación o de las Comisiones y atención a las Delegaciones de que forme parte o que desempeñe el interesado.
 
 5. Todos los miembros de las Corporaciones locales están obligados a formular, antes de la toma de posesión y cuando se produzcan variaciones a lo largo del mandato, declaración de sus bienes y de las actividades privadas que les proporcionen o puedan proporcionar ingresos económicos o afecten al ámbito de competencias de la Corporación. Tales declaraciones se inscribirán en un Registro de intereses constituido en cada Corporación Local.
 

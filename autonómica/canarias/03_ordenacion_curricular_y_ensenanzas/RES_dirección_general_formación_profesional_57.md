@@ -31,6 +31,11 @@ fundamentos_derecho:
   articulos:
   - '1'
 - norma_id: norm-es-lo-2-2006
+- norma_id: norm-can-d-106-2009
+- norma_id: norm-can-d-81-2010
+- norma_id: norm-can-o-2013-10-09
+- norma_id: norm-es-2021-20113
+- norma_id: norm-es-2010-12201
 fuente_pdf_oficial: https://sede.gobiernodecanarias.org/boc/boc-a-2023-133-2236.pdf
 ---
 # Resolución de 27 de junio de 2023, de la Dirección General de Formación Profesional y Educación de Adultos por la que se dictan instrucciones específicas sobre organización y funcionamiento de la Escuela Oficial de Idiomas a Distancia de Canarias. (BOC n.º 133, de 10 de julio).
@@ -64,12 +69,12 @@ normativa general de organización, funcionamiento y calendario atendiendo a los
 propios de estas enseñanzas.
 A los anteriores hechos les son de aplicación los siguientes
 FUNDAMENTOS DE DERECHO
-Primero.- La Ley Orgánica 2/2006, de 3 de mayo, de Educación, establece los principios 
+Primero.- La [Ley Orgánica 2/2006](../../../estatal/01_marco_normativo_general_y_organico/LO2_2006_ley_organica_educacion.md), de 3 de mayo, de Educación, establece los principios 
 generales que debe regir el sistema educativo y la ordenación de las Enseñanzas de Idiomas 
 de Régimen Especial. Su Título V se centra en la participación, autonomía y gobierno 
 de los centros. Asimismo, el artículo 60.3 establece que las administraciones educativas 
 pueden integrar en las escuelas oficiales de idiomas las enseñanzas de idiomas a distancia.
-Segundo.- La Ley 6/2014, de 25 de julio, Canaria de Educación no Universitaria, 
+Segundo.- La [Ley 6/2014](../01_marco_normativo_general_y_organico/L6_2014_ley_canaria_educacion.md), de 25 de julio, Canaria de Educación no Universitaria, 
 complementa esta definición de las Enseñanzas de Régimen Especial, a las que dedica su 
 Capítulo III, en el que establece que los objetivos de estas enseñanzas, su organización y 
 
@@ -95,12 +100,12 @@ en la escuela oficial de idiomas encargada de la enseñanza de idiomas a distanc
 modalidad busca compensar las limitaciones fruto de la fragmentación y ultraperificidad 
 del territorio canario favoreciendo que una escuela oficial de idiomas pueda llegar a todo el 
 archipiélago para dar respuesta a la necesidad de aprendizaje de idiomas.
-Quinto.- El Decreto 81/2010, de 8 de julio, por el que se aprueba el Reglamento 
+Quinto.- El [Decreto 81/2010](../04_organizacion_escolar_y_funcionamiento/D81_2010_reglamento_organico_centros.md), de 8 de julio, por el que se aprueba el Reglamento 
 Orgánico de los centros docentes públicos no universitarios de la Comunidad Autónoma 
 de Canarias, determina en su disposición adicional tercera, sobre centros de características 
 especiales, que las escuelas oficiales de idiomas se regirán por su normativa específica y, 
 supletoriamente, por el Reglamento aprobado por el citado Decreto.
-Sexto.- En este mismo sentido, la Orden de 9 de octubre de 2013, que desarrolla el 
+Sexto.- En este mismo sentido, la [Orden de 9 de octubre de 2013](../04_organizacion_escolar_y_funcionamiento/O9_10_2013_desarrollo_reglamento_organico_centros.md), que desarrolla el 
 mencionado Decreto 81/2010, de 8 de julio, dispone en el artículo 1.2, en cuanto a la 
 organización y funcionamiento de los centros docentes públicos no universitarios, que las 
 Escuelas oficiales de Idiomas se regirán por su normativa específica y, supletoriamente, por 
@@ -388,7 +393,7 @@ serán las que se recojan anualmente en la resolución de la Dirección General 
 materia de Enseñanzas de Régimen Especial en la que se dictan instrucciones específicas 
 complementarias sobre organización, funcionamiento y calendario.
 6.2. Además de las competencias atribuidas a la dirección, a la jefatura de estudios y a 
-la secretaría de los centros en los artículos 6, 7 y 8, respectivamente, del Decreto 106/2009, 
+la secretaría de los centros en los artículos 6, 7 y 8, respectivamente, del [Decreto 106/2009](../04_organizacion_escolar_y_funcionamiento/D106_2009_funcion_directiva_centros_docentes.md), 
 de 28 de julio, por el que se regula la función directiva en centros docentes públicos no 
 universitarios dependientes de la Comunidad Autónoma de Canarias, el equipo directivo de 
 la Escuela Oficial de Idiomas a Distancia de Canarias tendrá las siguientes competencias:

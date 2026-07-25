@@ -32,6 +32,9 @@ fundamentos_derecho:
 - norma_id: norm-can-l-6-2014
   articulos:
   - '1'
+- norma_id: norm-can-d-81-2010
+- norma_id: norm-can-o-2013-10-09
+- norma_id: norm-es-2014-2222
 fuente_pdf_oficial: https://sede.gobiernodecanarias.org/boc/boc-a-2015-100-2486.pdf
 fuente_juriscan: http://www.gobiernodecanarias.org/juriscan/ficha.jsp?id=72788
 ---
@@ -130,7 +133,7 @@ Primero.- El Real Decreto 1630/2006, de 29 de diciembre, por el que se establece
 enseñanzas mínimas del segundo ciclo de Educación Infantil (BOE nº 4, de 4 de enero de 
 2007). En el artículo 7.2 se determina que los criterios de evaluación serán los referentes 
 para la evaluación global, continua y formativa del alumnado en este ciclo de la etapa.
-Segundo.- El Real Decreto 126/2014, de 28 de febrero, por el que se establece el currícu­
+Segundo.- El [Real Decreto 126/2014](../../../estatal/03_ordenacion_curricular_y_ensenanzas/BOE_2014_2222_febrero_establece_currículo_básico.md), de 28 de febrero, por el que se establece el currícu­
 lo básico de la Educación Primaria (BOE nº 52, de 1 de marzo), regula en el artículo 12 las 
 evaluaciones de la etapa y establece que «las Administraciones educativas garantizarán el 
 derecho de los alumnos a una evaluación objetiva y a que su dedicación, esfuerzo y rendi­
@@ -163,7 +166,7 @@ evaluación regulados en el Decreto 183/2008, de 29 de julio, se utilizarán com
 para la identificación de los avances y dificultades del alumnado».
 boc-a-2015-100-2486
 
-Séptimo.- El Decreto 81/2010, de 8 de julio, por el que se aprueba el Reglamento Or­
+Séptimo.- El [Decreto 81/2010](../04_organizacion_escolar_y_funcionamiento/D81_2010_reglamento_organico_centros.md), de 8 de julio, por el que se aprueba el Reglamento Or­
 gánico de los centros docentes públicos no universitarios de la Comunidad Autónoma de 
 Canarias (BOC nº 143, de 22 de julio). En el artículo 44.3, apartado g), se establece que los 
 procedimientos e instrumentos de evaluación, y los criterios de calificación de las evaluacio­

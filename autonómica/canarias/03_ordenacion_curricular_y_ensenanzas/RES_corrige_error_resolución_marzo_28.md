@@ -32,6 +32,9 @@ fundamentos_derecho:
 - norma_id: norm-can-l-6-2014
   articulos:
   - '1'
+- norma_id: norm-can-d-84-2024
+- norma_id: norm-es-l-39-2015
+- norma_id: norm-es-l-40-2015
 fuente_pdf_oficial: https://sede.gobiernodecanarias.org/boc/boc-a-2026-080-1342.pdf
 ---
 # Resolución de 17 de abril de 2026, que corrige error en la Resolución de 26 de marzo de 2026, por la que se amplían la Resolución de 30 de octubre de 2024, que dicta instrucciones y orientaciones par la implantación y desarrollo de los grados de formación D y E, a partir del curso escolar 2024/2025, y se establece la distribución horaria y modular de los currículos; y la Resolución de 21 de febrero de 2025, que dicta instrucciones para la implantación de los itinerarios formativos de Formación Profesional Adaptada y el desarrollo de los currículos de los módulos de carácter general a partir del curso escolar 2024/2025, en el ámbito de la Comunidad Autónoma de Canarias (BOC n.º 70, de 13.4.2026).
@@ -70,11 +73,11 @@ Anexo III, referido a la distribución horaria semanal por curso del Certificado
 de Actividades auxiliares en agricultura (AGAX0208) de la Familia Profesional de Agraria, 
 por lo que procede a su incorporación.
 FUNDAMENTOS DE DERECHO
-Primero.- El artículo 109.2 de la Ley 39/2015, de 1 de octubre, del Procedimiento 
+Primero.- El artículo 109.2 de la [Ley 39/2015](../../../estatal/01_marco_normativo_general_y_organico/L39_2015_procedimiento_administrativo_comun.md), de 1 de octubre, del Procedimiento 
 Administrativo Común de las Administraciones Públicas, dispone que: “Las Administraciones 
 Públicas podrán, asimismo, rectificar en cualquier momento, de oficio o a instancia de los 
 interesados, los errores materiales, de hecho, o aritméticos existentes en sus actos”.
-Segundo.- Según dispone la Ley 40/2015, de 1 de octubre, de Régimen Jurídico del 
+Segundo.- Según dispone la [Ley 40/2015](../../../estatal/01_marco_normativo_general_y_organico/L40_2015_regimen_juridico_sector_publico.md), de 1 de octubre, de Régimen Jurídico del 
 Sector Público, en su artículo 6, “los órganos administrativos podrán dirigir las actividades 
 de sus órganos jerárquicamente dependientes mediante instrucciones y órdenes de servicio”.
 
@@ -82,7 +85,7 @@ En su virtud, y en uso de las competencias que tengo conferidas en base a lo dis
 en el artículo 19 del Decreto 212/1991, de 11 de septiembre, de organización de los 
 Departamentos de la Administración Autonómica de Canarias, y en el artículo 20 del 
 Reglamento Orgánico de la Consejería de Educación, Formación Profesional, Actividad 
-Física y Deportes, aprobado por el Decreto 84/2024, de 10 de junio, por el que se asignan 
+Física y Deportes, aprobado por el [Decreto 84/2024](../01_marco_normativo_general_y_organico/D84_2024_reglamento_organico_consejeria.md), de 10 de junio, por el que se asignan 
 las competencias generales y específicas a la Dirección General de Formación Profesional 
 y Enseñanzas de Régimen Especial,
 RESUELVO :

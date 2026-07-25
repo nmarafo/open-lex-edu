@@ -28,6 +28,8 @@ fundamentos_derecho:
 - norma_id: norm-can-l-6-2014
   articulos:
   - '1'
+- norma_id: norm-can-d-84-2024
+- norma_id: norm-es-l-39-2015
 fuente_pdf_oficial: https://sede.gobiernodecanarias.org/boc/boc-a-2025-094-1775.pdf
 ---
 # Resolución de 29 de abril de 2025, de la Viceconsejería de Educación, por la que se adoptan las medidas necesarias para la aplicación del Acuerdo de 8 de abril de 2025, que modifica el Acuerdo de mejora del Sistema Público Educativo de Canarias, de 18 de julio de 2022, entre Administración y Sindicatos (BOC nº 94, de 13 de mayo).
@@ -132,7 +134,7 @@ ANPE-Sindicato Independiente ( ANPE-FSES),
 Sindicato de Trabajadores de la Enseñanza de Canarias-Intersindical Canaria ( STEC), 
 Docentes de Canarias-Insucan (DCI) y Unión General de Trabajadores (UGT).
 FUNDAMENTOS DE DERECHO
-Primero.- El artículo 3 de la Ley 6/2014, de 25 de julio, Canaria de Educación no 
+Primero.- El artículo 3 de la [Ley 6/2014](../01_marco_normativo_general_y_organico/L6_2014_ley_canaria_educacion.md), de 25 de julio, Canaria de Educación no 
 Universitaria, establece como principios rectores del sistema educativo, entre otros, los 
 siguientes:
 a) Un sistema educativo de calidad, entendido como un sistema que garantice la equidad 
@@ -179,7 +181,7 @@ de horarios adicionales al quince por ciento de los centros educativos que prese
 resultados en las evaluaciones de diagnóstico.
 Por ello, de conformidad con lo dispuesto en el artículo 8 del Reglamento Orgánico de 
 la Consejería de Educación, Formación Profesional, Actividad Física y Deportes, aprobado 
-por Decreto 84/2024, de 10 de junio,
+por [Decreto 84/2024](../01_marco_normativo_general_y_organico/D84_2024_reglamento_organico_consejeria.md), de 10 de junio,
 RESUELVO :
 Primero.- Aprobar nuevos criterios para la configuración de las plantillas orgánicas 
 correspondientes a la Especialidad Orientación Educativa en centros públicos no universitarios 
@@ -317,7 +319,7 @@ Contra la presente Resolución, que no agota la vía administrativa, cabe interp
 alzada ante el consejero de Educación, Formación, Profesional, Actividad Física y Deportes, 
 en el plazo de un mes a partir de la notificación de la presente Resolución, y sin perjuicio de  
 cualquier otro recurso que pudiera interponerse, conforme a lo establecido en los artículos 
-121 y 122 de la Ley 39/2015, de 1 de octubre, del procedimiento administrativo común de las 
+121 y 122 de la [Ley 39/2015](../../../estatal/01_marco_normativo_general_y_organico/L39_2015_procedimiento_administrativo_comun.md), de 1 de octubre, del procedimiento administrativo común de las 
 Administraciones Públicas. 
 El viceconsejero de Educación
 Este documento ha sido firmado electrónicamente por:

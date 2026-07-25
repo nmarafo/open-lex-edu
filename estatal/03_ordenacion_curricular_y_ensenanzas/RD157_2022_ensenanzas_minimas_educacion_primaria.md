@@ -63,10 +63,16 @@ fundamentos_derecho:
 - norma_id: norm-es-l-39-2015
   articulos:
   - '1'
+- norma_id: norm-es-lo-3-2018
+- norma_id: norm-es-lo-8-1985
+- norma_id: norm-es-2014-2222
+- norma_id: norm-es-2021-18812
+- norma_id: norm-es-2021-20113
+- norma_id: norm-es-2010-12201
 ---
 # Real Decreto 157/2022 - Ordenación y Enseñanzas Mínimas de la Educación Primaria
 
-La Ley Orgánica 3/2020, de 29 de diciembre, por la que se modifica la Ley Orgánica 2/2006, de 3 de mayo, de Educación, introduce en la anterior redacción de la norma importantes cambios, muchos de ellos derivados, tal y como indica la propia ley en su exposición de motivos, de la conveniencia de revisar las medidas previstas en el texto original con objeto de adaptar el sistema educativo a los retos y desafíos del siglo XXI, de acuerdo con los objetivos fijados por la Unión Europea y la UNESCO para la década 2020-2030.
+La Ley Orgánica 3/2020, de 29 de diciembre, por la que se modifica la [Ley Orgánica 2/2006](../01_marco_normativo_general_y_organico/LO2_2006_ley_organica_educacion.md), de 3 de mayo, de Educación, introduce en la anterior redacción de la norma importantes cambios, muchos de ellos derivados, tal y como indica la propia ley en su exposición de motivos, de la conveniencia de revisar las medidas previstas en el texto original con objeto de adaptar el sistema educativo a los retos y desafíos del siglo XXI, de acuerdo con los objetivos fijados por la Unión Europea y la UNESCO para la década 2020-2030.
 
 De acuerdo con este enfoque, el nuevo texto de la Ley Orgánica 2/2006, de 3 de mayo, de Educación, incorpora entre los principios y fines de la educación el cumplimiento efectivo de los derechos de la infancia según lo establecido en la Convención sobre los Derechos del Niño de Naciones Unidas, la inclusión educativa y la aplicación de los principios del Diseño Universal para el Aprendizaje.
 
@@ -88,7 +94,7 @@ Además, se establece para las diferentes áreas el horario escolar que correspo
 
 Finalmente, se recogen en esta norma otras disposiciones referidas a aspectos esenciales de la ordenación de la etapa, como la tutoría, la orientación, la evaluación o los criterios para la promoción de ciclo y etapa.
 
-El presente real decreto se adecúa a los principios de buena regulación previstos en el artículo 129 de la Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común de las Administraciones Públicas. En lo que se refiere a los principios de necesidad y eficacia, se trata de una norma necesaria para la regulación de las enseñanzas de Educación Primaria conforme a la nueva redacción de la Ley Orgánica 2/2006, de 3 de mayo, tras las modificaciones introducidas por la Ley Orgánica 3/2020, de 29 de diciembre. De acuerdo con el principio de proporcionalidad, contiene la regulación imprescindible de la estructura de estas enseñanzas, al no existir ninguna alternativa regulatoria menos restrictiva de derechos. Conforme a los principios de seguridad jurídica y eficiencia, resulta coherente con el ordenamiento jurídico y permite una gestión más eficiente de los recursos públicos. Cumple también con el principio de transparencia, ya que identifica claramente su propósito y durante el procedimiento de elaboración de la norma se ha permitido la participación activa de los potenciales destinatarios a través del trámite de audiencia e información pública.
+El presente real decreto se adecúa a los principios de buena regulación previstos en el artículo 129 de la [Ley 39/2015](../01_marco_normativo_general_y_organico/L39_2015_procedimiento_administrativo_comun.md), de 1 de octubre, del Procedimiento Administrativo Común de las Administraciones Públicas. En lo que se refiere a los principios de necesidad y eficacia, se trata de una norma necesaria para la regulación de las enseñanzas de Educación Primaria conforme a la nueva redacción de la Ley Orgánica 2/2006, de 3 de mayo, tras las modificaciones introducidas por la Ley Orgánica 3/2020, de 29 de diciembre. De acuerdo con el principio de proporcionalidad, contiene la regulación imprescindible de la estructura de estas enseñanzas, al no existir ninguna alternativa regulatoria menos restrictiva de derechos. Conforme a los principios de seguridad jurídica y eficiencia, resulta coherente con el ordenamiento jurídico y permite una gestión más eficiente de los recursos públicos. Cumple también con el principio de transparencia, ya que identifica claramente su propósito y durante el procedimiento de elaboración de la norma se ha permitido la participación activa de los potenciales destinatarios a través del trámite de audiencia e información pública.
 
 En el proceso de elaboración de este real decreto han sido consultadas las comunidades autónomas en el seno de la Conferencia Sectorial de Educación y ha emitido informe el Consejo Escolar del Estado y el Ministerio de Política Territorial.
 
@@ -280,7 +286,7 @@ h) Competencia en conciencia y expresión culturales.
 
 1. En la Educación Primaria, la orientación y la acción tutorial acompañarán el proceso educativo individual y colectivo del alumnado. Asimismo, se fomentará en la etapa el respeto mutuo y la cooperación entre iguales, con especial atención a la igualdad de género.
 
-2. Desde la tutoría se coordinará la intervención educativa del conjunto del profesorado y se mantendrá una relación permanente con las madres, los padres, las tutoras o los tutores legales, a fin de facilitar el ejercicio de los derechos reconocidos en el artículo 4.1.d) y g) de la Ley Orgánica 8/1985, de 3 de julio, reguladora del Derecho a la Educación.
+2. Desde la tutoría se coordinará la intervención educativa del conjunto del profesorado y se mantendrá una relación permanente con las madres, los padres, las tutoras o los tutores legales, a fin de facilitar el ejercicio de los derechos reconocidos en el artículo 4.1.d) y g) de la [Ley Orgánica 8/1985](../02_gestion_y_administracion_centros/LO8_1985_derecho_educacion.md), de 3 de julio, reguladora del Derecho a la Educación.
 
 3. A lo largo del tercer ciclo, desde la tutoría se coordinará la incorporación de elementos de orientación educativa, académica y profesional que incluyan, al menos, el progresivo descubrimiento de estudios y profesiones, así como la generación de intereses vocacionales libres de estereotipos sexistas.
 
@@ -380,7 +386,7 @@ Las administraciones educativas garantizarán el derecho del alumnado a que su d
 
 #### Artículo 24. Participación y derecho a la información de madres, padres, tutoras o tutores legales.
 
-Las madres, los padres, las tutoras o los tutores legales deberán participar y apoyar la evolución del proceso educativo de sus hijos, hijas, tutelados o tuteladas, colaborando en las medidas de apoyo o refuerzo que adopten los centros para facilitar su progreso. Tendrán, además, derecho a conocer las decisiones relativas a su evaluación y promoción, así como al acceso a los documentos oficiales de su evaluación y a las pruebas y documentos de las evaluaciones que se les realicen, en la parte referida al alumno o alumna de que se trate, sin perjuicio del respeto a las garantías establecidas en la Ley Orgánica 3/2018, de 5 de diciembre, de Protección de Datos Personales y garantía de los derechos digitales, y demás normativa aplicable en materia de protección de datos de carácter personal.
+Las madres, los padres, las tutoras o los tutores legales deberán participar y apoyar la evolución del proceso educativo de sus hijos, hijas, tutelados o tuteladas, colaborando en las medidas de apoyo o refuerzo que adopten los centros para facilitar su progreso. Tendrán, además, derecho a conocer las decisiones relativas a su evaluación y promoción, así como al acceso a los documentos oficiales de su evaluación y a las pruebas y documentos de las evaluaciones que se les realicen, en la parte referida al alumno o alumna de que se trate, sin perjuicio del respeto a las garantías establecidas en la [Ley Orgánica 3/2018](../02_gestion_y_administracion_centros/LO3_2018_proteccion_datos_personales.md), de 5 de diciembre, de Protección de Datos Personales y garantía de los derechos digitales, y demás normativa aplicable en materia de protección de datos de carácter personal.
 
 #### Artículo 25. Documentos e informes de evaluación.
 
@@ -462,13 +468,13 @@ Las actividades a las que se refiere este apartado en ningún caso comportarán 
 
 El calendario escolar, que fijarán anualmente las administraciones educativas, comprenderá un mínimo de 175 días lectivos para las enseñanzas obligatorias.
 
-#### Disposición transitoria primera. Aplicabilidad del Real Decreto 126/2014, de 28 de febrero, por el que se establece el currículo básico de la Educación Primaria.
+#### Disposición transitoria primera. Aplicabilidad del [Real Decreto 126/2014](BOE_2014_2222_febrero_establece_currículo_básico.md), de 28 de febrero, por el que se establece el currículo básico de la Educación Primaria.
 
 1. Las enseñanzas mínimas reguladas de acuerdo con el Real Decreto 126/2014, de 28 de febrero, por el que se establece el currículo básico de la Educación Primaria, serán de aplicación en los cursos segundo, cuarto y sexto de Educación Primaria, durante el año académico 2022-2023.
 
 2. Los estándares de aprendizaje evaluables que figuran en los anexos al citado Real Decreto 126/2014, de 28 de febrero, tienen carácter meramente orientativo para los cursos de Educación Primaria a que se refiere el apartado 1 durante el año académico 2022-2023.
 
-#### Disposición transitoria segunda. Aplicabilidad del Real Decreto 984/2021, de 16 de noviembre, por el que se regulan la evaluación y la promoción en la Educación Primaria, así como la evaluación, la promoción y la titulación en la Educación Secundaria Obligatoria, el Bachillerato y la Formación Profesional.
+#### Disposición transitoria segunda. Aplicabilidad del [Real Decreto 984/2021](BOE_2021_18812_noviembre_regulan_evaluación_promoción.md), de 16 de noviembre, por el que se regulan la evaluación y la promoción en la Educación Primaria, así como la evaluación, la promoción y la titulación en la Educación Secundaria Obligatoria, el Bachillerato y la Formación Profesional.
 
 El Real Decreto 984/2021, de 16 de noviembre, por el que se regulan la evaluación y la promoción en la Educación Primaria, así como la evaluación, la promoción y la titulación en la Educación Secundaria Obligatoria, el Bachillerato y la Formación Profesional, se aplicará a los cursos segundo, cuarto y sexto de Educación Primaria, durante el año académico 2022-2023.
 

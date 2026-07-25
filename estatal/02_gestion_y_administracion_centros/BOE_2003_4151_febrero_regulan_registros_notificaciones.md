@@ -28,6 +28,7 @@ fundamentos_derecho:
 - norma_id: norm-es-l-39-2015
   articulos:
   - '1'
+- norma_id: norm-es-1999-23750
 ---
 # Real Decreto 209/2003, de 21 de febrero, por el que se regulan los registros y las notificaciones telemáticas, así como la utilización de medios telemáticos para la sustitución de la aportación de certificados por los ciudadanos.
 
@@ -43,7 +44,7 @@ Para alcanzar los objetivos de las modificaciones anteriormente señaladas, resu
 
 En este sentido, resulta fundamental tener en cuenta las ventajas que desde el punto de vista de la gestión administrativa representa la presentación telemática de las solicitudes y demás documentación exigible. Ello permitiría agilizar los trámites administrativos y reducir los plazos de resolución y notificación.
 
-Es importante resaltar que el uso de los medios y técnicas telemáticas se hará de acuerdo con lo dispuesto en la Ley Orgánica 15/1999, de 13 de diciembre, de Protección de Datos de Carácter Personal. Por otro lado, se ha buscado en todo momento la garantía de la autenticidad, integridad, confidencialidad, disponibilidad y conservación de los documentos regulados en el presente real decreto.
+Es importante resaltar que el uso de los medios y técnicas telemáticas se hará de acuerdo con lo dispuesto en la [Ley Orgánica 15/1999](BOE_1999_23750_diciembre_protección_datos_carácter.md), de 13 de diciembre, de Protección de Datos de Carácter Personal. Por otro lado, se ha buscado en todo momento la garantía de la autenticidad, integridad, confidencialidad, disponibilidad y conservación de los documentos regulados en el presente real decreto.
 
 El real decreto se estructura en tres artículos, tres disposiciones adicionales, una disposición transitoria, una disposición derogatoria y dos disposiciones finales.
 

@@ -53,6 +53,11 @@ fundamentos_derecho:
 - norma_id: norm-es-lo-2-2006
   articulos:
   - '71'
+- norma_id: norm-es-l-39-2015
+- norma_id: norm-es-2016-3229
+- norma_id: norm-es-2021-20113
+- norma_id: norm-es-2010-12201
+- norma_id: norm-es-2013-12632
 fuente_pdf_oficial: https://sede.gobiernodecanarias.org/boc/boc-a-2018-046-1008.pdf
 ---
 # Decreto 25/2018, de 26 de febrero, por el que se regula la atención a la diversidad en el ámbito de las enseñanzas no universitarias de la Comunidad Autónoma de Canarias.
@@ -72,7 +77,7 @@ alumnos y alumnas, ofreciéndoles un entorno común de aprendizaje en el que se 
 convivan en la diversidad requerida en la sociedad actual y venidera. Todo ello, teniendo en 
 cuenta la participación de la familia como las primeras responsables de la educación de sus 
 hijos e hijas. 
-La Ley Orgánica 2/2006, de 3 de mayo, de Educación (LOE), modificada por la Ley 
+La [Ley Orgánica 2/2006](../../../estatal/01_marco_normativo_general_y_organico/LO2_2006_ley_organica_educacion.md), de 3 de mayo, de Educación (LOE), modificada por la Ley 
 Orgánica 8/2013, de 9 de diciembre, para la mejora de la calidad educativa (LOMCE), recoge 
 en el Título Preliminar los principios y los fines de la educación, entre los que se destaca 
 la calidad de la educación para todo el alumnado, independientemente de sus condiciones 
@@ -87,7 +92,7 @@ con necesidades específicas de apoyo educativo alcance el máximo desarrollo pe
 intelectual, social y emocional, así como los objetivos establecidos con carácter general en 
 la Ley. Asimismo, establecerán los procedimientos y los recursos precisos para identificar 
 tempranamente las necesidades educativas del alumnado.
-La Ley 6/2014, de 25 de julio, Canaria de Educación no Universitaria, establece en el 
+La [Ley 6/2014](../01_marco_normativo_general_y_organico/L6_2014_ley_canaria_educacion.md), de 25 de julio, Canaria de Educación no Universitaria, establece en el 
 artículo 3 los principios rectores que regirán el sistema educativo canario, entre los que 
 figura un sistema educativo de calidad, entendido como un sistema que garantice la equidad 
 y la excelencia, con capacidad de ofrecer a cada persona el tipo de atención pedagógica que 
@@ -152,7 +157,7 @@ y partiendo de su propia realidad, han de ajustarlas a sus circunstancias concre
 contexto y a la rica diversidad de su alumnado, con el objetivo de conseguir el éxito escolar 
 y, por ende, una educación de calidad, garantizando siempre el interés superior del menor.
 El Decreto da cumplimiento a los principios de buena regulación contenidos en el artículo 
-129.1 de la Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común de las 
+129.1 de la [Ley 39/2015](../../../estatal/01_marco_normativo_general_y_organico/L39_2015_procedimiento_administrativo_comun.md), de 1 de octubre, del Procedimiento Administrativo Común de las 
 Administraciones Públicas. Así, la disposición es respetuosa con los principios de necesidad, 
 eficacia y proporcionalidad, en tanto que con ella se consigue el fin perseguido, básicamente, 
 la regulación de atención a la diversidad en el ámbito de las enseñanzas no universitarias de 
@@ -560,8 +565,8 @@ educativo.
 para garantizar la atención a las necesidades que en el ámbito de la salud y el bienestar pueda 
 presentar el alumnado durante su permanencia en el centro docente.
 4. En los términos establecidos en la Ley 8/1995, de 6 de abril, de accesibilidad y 
-supresión de barreras físicas y de la comunicación, así como en el Real Decreto Legislativo 
-1/2013, de 29 de noviembre, por el que aprueba el Texto Refundido de la Ley General 
+supresión de barreras físicas y de la comunicación, así como en el [Real Decreto Legislativo 
+1/2013](../../../estatal/07_convivencia_bienestar_y_protocolos/BOE_2013_12632_noviembre_aprueba_texto_refundido.md), de 29 de noviembre, por el que aprueba el Texto Refundido de la Ley General 
 de derecho de las personas con discapacidad y de su inclusión social, se promoverá las 
 actuaciones necesarias para la supresión de las barreras físicas y de la comunicación en sus 
 centros y servicios, potenciando las actuaciones que favorezcan la plena accesibilidad a 
@@ -631,7 +636,7 @@ su caso.
 Disposición transitoria primera.- Del acceso a las universidades.
 Hasta la entrada en vigor de la normativa resultante del Pacto de Estado social y político 
 por la educación, en la evaluación de bachillerato para el acceso a la Universidad regulada 
-en la Ley Orgánica 8/2013, de 9 de diciembre, para la Mejora de la Calidad Educativa, se 
+en la [Ley Orgánica 8/2013](../../../estatal/03_ordenacion_curricular_y_ensenanzas/BOE_2016_3229_marzo_regula_procedimiento_incorporación.md), de 9 de diciembre, para la Mejora de la Calidad Educativa, se 
 velará por la adopción de las medidas necesarias para asegurar la igualdad de oportunidades, 
 no discriminación y accesibilidad universal del alumnado con necesidades específicas de 
 apoyo educativo. 

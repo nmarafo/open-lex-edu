@@ -30,16 +30,23 @@ fundamentos_derecho:
   articulos:
   - '1'
   - '2'
+- norma_id: norm-es-2001-7022
+- norma_id: norm-es-2002-12018
+- norma_id: norm-es-2002-4371
+- norma_id: norm-es-2007-19326
+- norma_id: norm-es-2021-20113
+- norma_id: norm-es-2010-12201
+- norma_id: norm-es-2007-6115
 ---
 # Real Decreto 935/2010, de 23 de julio, por el que se establecen los títulos de Técnico Deportivo en vela con aparejo fijo y Técnico Deportivo en vela con aparejo libre, y se fijan sus enseñanzas mínimas y los requisitos de acceso.
 
 La Ley 10/1990, de 15 de octubre, del Deporte, encomendó al Gobierno la regulación de las enseñanzas de los técnicos deportivos según las exigencias marcadas por los distintos niveles educativos.
 
-La Ley Orgánica 2/2006, de 3 de mayo, de Educación, dispone en su artículo 64.6 que el Gobierno, previa consulta a las Comunidades Autónomas, establecerá las titulaciones correspondientes a los estudios de enseñanzas deportivas, los aspectos básicos del currículo y los requisitos mínimos de los centros.
+La [Ley Orgánica 2/2006](../01_marco_normativo_general_y_organico/LO2_2006_ley_organica_educacion.md), de 3 de mayo, de Educación, dispone en su artículo 64.6 que el Gobierno, previa consulta a las Comunidades Autónomas, establecerá las titulaciones correspondientes a los estudios de enseñanzas deportivas, los aspectos básicos del currículo y los requisitos mínimos de los centros.
 
-La Ley Orgánica 5/2002, de 19 de junio, de las Cualificaciones y de la Formación Profesional, establece el Sistema Nacional de Cualificaciones y Formación Profesional como marco de las acciones formativas dirigidas a responder a las demandas del sector productivo. Algunas modalidades de las enseñanzas deportivas tienen características que permiten relacionarlas con el concepto genérico de formación profesional, sin que por ello se deba renunciar a su condición de oferta específica dirigida al sistema deportivo y diferenciada de la oferta que, dentro de la formación profesional del sistema educativo, realiza la familia profesional de Actividades Físicas y Deportivas para el resto del sector. Por ello, la citada Ley Orgánica 2/2006, de 3 de mayo, de Educación, establece la posibilidad de que las enseñanzas deportivas se refieran al Catálogo Nacional de Cualificaciones Profesionales.
+La [Ley Orgánica 5/2002](BOE_2002_12018_junio_cualificaciones_formación_profesional.md), de 19 de junio, de las Cualificaciones y de la Formación Profesional, establece el Sistema Nacional de Cualificaciones y Formación Profesional como marco de las acciones formativas dirigidas a responder a las demandas del sector productivo. Algunas modalidades de las enseñanzas deportivas tienen características que permiten relacionarlas con el concepto genérico de formación profesional, sin que por ello se deba renunciar a su condición de oferta específica dirigida al sistema deportivo y diferenciada de la oferta que, dentro de la formación profesional del sistema educativo, realiza la familia profesional de Actividades Físicas y Deportivas para el resto del sector. Por ello, la citada Ley Orgánica 2/2006, de 3 de mayo, de Educación, establece la posibilidad de que las enseñanzas deportivas se refieran al Catálogo Nacional de Cualificaciones Profesionales.
 
-El Real Decreto 1363/2007, de 24 de octubre, ha establecido la ordenación general de las enseñanzas deportivas de régimen especial, y define en el artículo 4 la estructura de las enseñanzas deportivas.
+El [Real Decreto 1363/2007](BOE_2007_19326_octubre_establece_ordenación_general.md), de 24 de octubre, ha establecido la ordenación general de las enseñanzas deportivas de régimen especial, y define en el artículo 4 la estructura de las enseñanzas deportivas.
 
 Por otra parte, del mismo modo, concreta en el artículo 6 el perfil profesional de dichos títulos, que incluirá la competencia general, las competencias profesionales, personales y sociales, las cualificaciones y, en su caso, las unidades de competencia del Catálogo Nacional de Cualificaciones Profesionales incluidas en los títulos, con el fin de lograr que, en efecto, los títulos de enseñanzas deportivas respondan a las necesidades demandadas por el sistema productivo y a los valores personales y sociales para ejercer una ciudadanía democrática.
 
@@ -51,7 +58,7 @@ A estos efectos procede determinar para cada título su identificación, su perf
 
 Así, el presente real decreto, se dicta en desarrollo del Real Decreto 1363/2007, de 24 de octubre, por el que se establece la ordenación general de las enseñanzas deportivas de régimen especial, y establece y regula, en los aspectos y elementos básicos antes indicados, los títulos de enseñanzas deportivas de Técnico Deportivo en Vela con aparejo fijo y Técnico Deportivo en Vela con Aparejo libre.
 
-Finalmente, este real decreto adapta, al ámbito de las enseñanzas deportivas de Vela con aparejo fijo y Vela con aparejo libre, las previsiones ya contenidas, al respecto de la Ley 51/2003, de 2 de diciembre, de igualdad de oportunidades, no discriminación y accesibilidad universal de las personas con discapacidad, en el citado Real Decreto 1363/2007, de 24 de octubre, y desarrolla, en este ámbito, las previsiones contenidas en la Ley Orgánica 3/2007, de 22 de marzo, para la igualdad efectiva de mujeres y hombres.
+Finalmente, este real decreto adapta, al ámbito de las enseñanzas deportivas de Vela con aparejo fijo y Vela con aparejo libre, las previsiones ya contenidas, al respecto de la Ley 51/2003, de 2 de diciembre, de igualdad de oportunidades, no discriminación y accesibilidad universal de las personas con discapacidad, en el citado Real Decreto 1363/2007, de 24 de octubre, y desarrolla, en este ámbito, las previsiones contenidas en la [Ley Orgánica 3/2007](../07_convivencia_bienestar_y_protocolos/BOE_2007_6115_marzo_para_igualdad_efectiva.md), de 22 de marzo, para la igualdad efectiva de mujeres y hombres.
 
 En el proceso de elaboración de este real decreto han sido consultadas las comunidades autónomas y han emitido informe el Consejo Escolar del Estado y el Ministerio de Política Territorial.
 
@@ -517,7 +524,7 @@ Los títulos de Técnico Deportivo en Vela con aparejo fijo, y Técnico Deportiv
 
 #### Artículo 33. Convalidación de estas enseñanzas.
 
-1. El Ministerio de Educación establecerá las convalidaciones que proceda otorgar del bloque común de las enseñanzas reguladas en el presente real decreto, a aquellos que acrediten estudios o título de Licenciado en Ciencias de la Actividad Física y el Deporte, regulado por el Real Decreto 1670/1993, de 24 de septiembre, de Diplomado en Educación Física y Licenciado en Educación Física, regulado por el Real Decreto 790/1981, de 24 de abril, de Maestro Especialista en Educación Física; regulado por el Real Decreto 1440/1991, de 30 de agosto, de Técnico Superior en Animación de Actividades Físicas y Deportivas, regulado por el Real Decreto 2048/1995, de 22 de diciembre, y el de Técnico en Conducción de Actividades Físico-Deportivas en el Medio Natural regulado por el Real Decreto 2049/1995, de 22 de diciembre así como con las materias de bachillerato y los títulos establecidos al amparo del Real Decreto 1913/1997, de 19 de diciembre.
+1. El Ministerio de Educación establecerá las convalidaciones que proceda otorgar del bloque común de las enseñanzas reguladas en el presente real decreto, a aquellos que acrediten estudios o título de Licenciado en Ciencias de la Actividad Física y el Deporte, regulado por el Real Decreto 1670/1993, de 24 de septiembre, de Diplomado en Educación Física y Licenciado en Educación Física, regulado por el Real Decreto 790/1981, de 24 de abril, de Maestro Especialista en Educación Física; regulado por el Real Decreto 1440/1991, de 30 de agosto, de Técnico Superior en Animación de Actividades Físicas y Deportivas, regulado por el Real Decreto 2048/1995, de 22 de diciembre, y el de Técnico en Conducción de Actividades Físico-Deportivas en el Medio Natural regulado por el Real Decreto 2049/1995, de 22 de diciembre así como con las materias de bachillerato y los títulos establecidos al amparo del [Real Decreto 1913/1997](BOE_2002_4371_febrero_establecen_elementos_básicos.md), de 19 de diciembre.
 
 2. La correspondencia de los módulos de enseñanza deportiva que forman el presente título con las unidades de competencia para su acreditación, queda determinada en el Anexo XII A.
 
@@ -525,7 +532,7 @@ Los títulos de Técnico Deportivo en Vela con aparejo fijo, y Técnico Deportiv
 
 4. Serán objeto de convalidación los módulos comunes y específicos de enseñanza deportiva con la misma denominación y código.
 
-5. La superación de la totalidad de los módulos del bloque común del 1º o 2º nivel, en cualquiera de las modalidades o especialidades deportivas de los títulos establecidos al amparo de la Ley Orgánica 1/1990, de 3 de octubre de Ordenación General del Sistema Educativo, se convalidará por la totalidad de los módulos del bloque común del correspondiente ciclo inicial o final de enseñanza deportiva en vela con aparejo fijo y vela con aparejo libre. La superación de la totalidad de los módulos del bloque común de los ciclos inicial y final de los títulos de Técnico Deportivo en Vela con aparejo fijo y Técnico Deportivo en Vela con aparejo libre, se convalidará por la totalidad de los módulos del bloque común, del correspondiente nivel, de los títulos establecidos al amparo de la Ley Orgánica 1/1990, de 3 de octubre de Ordenación General del Sistema Educativo.
+5. La superación de la totalidad de los módulos del bloque común del 1º o 2º nivel, en cualquiera de las modalidades o especialidades deportivas de los títulos establecidos al amparo de la [Ley Orgánica 1/1990](../02_gestion_y_administracion_centros/BOE_2001_7022_correspondientes_españoles_educación_secundaria.md), de 3 de octubre de Ordenación General del Sistema Educativo, se convalidará por la totalidad de los módulos del bloque común del correspondiente ciclo inicial o final de enseñanza deportiva en vela con aparejo fijo y vela con aparejo libre. La superación de la totalidad de los módulos del bloque común de los ciclos inicial y final de los títulos de Técnico Deportivo en Vela con aparejo fijo y Técnico Deportivo en Vela con aparejo libre, se convalidará por la totalidad de los módulos del bloque común, del correspondiente nivel, de los títulos establecidos al amparo de la Ley Orgánica 1/1990, de 3 de octubre de Ordenación General del Sistema Educativo.
 
 #### Artículo 34. Exención del módulo de formación práctica.
 

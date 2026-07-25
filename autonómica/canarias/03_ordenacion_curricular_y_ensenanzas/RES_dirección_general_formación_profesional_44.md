@@ -39,6 +39,23 @@ fundamentos_derecho:
 - norma_id: norm-can-l-6-2014
   articulos:
   - '1'
+- norma_id: norm-can-d-84-2024
+- norma_id: norm-can-lo-1-2018
+- norma_id: norm-can-res-boc-2019-069-48
+- norma_id: norm-can-res-boc-2024-230-25
+- norma_id: norm-can-res-134
+- norma_id: norm-es-lo-2-2006
+- norma_id: norm-es-rd-39-1997
+- norma_id: norm-es-2020-17274
+- norma_id: norm-es-2021-20113
+- norma_id: norm-es-2021-979
+- norma_id: norm-es-2024-10683
+- norma_id: norm-es-2024-10684
+- norma_id: norm-es-2024-10685
+- norma_id: norm-es-lo-3-2022
+- norma_id: norm-es-rd-217-2022
+- norma_id: norm-es-rd-659-2023
+- norma_id: norm-es-2010-12201
 fuente_pdf_oficial: https://sede.gobiernodecanarias.org/boc/boc-a-2024-226-3747.pdf
 ---
 # Resolución de 30 de octubre de 2024, de la Dirección General de Formación Profesional y Enseñanzas de Régimen Especial, por la que se dictan instrucciones y orientaciones para la implantación y desarrollo de los grados de formación D y E, a partir del curso escolar 2024/2025, y se establece la distribución horaria y modular de los currículos, en el ámbito de la Comunidad Autónoma de Canarias.
@@ -50,7 +67,7 @@ Resolución de 30 de octubre de 2024, por la que se dictan instrucciones y
 orientaciones para la implantación y desarrollo de los grados de formación D y E, a 
 partir del curso escolar 2024/2025, y se establece la distribución horaria y modular 
 de los currículos, en el ámbito de la Comunidad Autónoma de Canarias.
-La Ley Orgánica 3/2022, de 31 de marzo, de ordenación e integración de la Formación 
+La [Ley Orgánica 3/2022](../08_personal_docente/RES_dirección_general_personal_sobre_134.md), de 31 de marzo, de ordenación e integración de la Formación 
 Profesional, concreta el compromiso asumido por España de modernización de nuestro país, 
 facilitando la cualificación, la empleabilidad y, en consecuencia, la generación de riqueza. 
 Pone en el centro de la acción política, respecto a la formación, a la persona y su necesidad 
@@ -64,7 +81,7 @@ nivel 2 (Especialista) y 3 (Máster) en el actual sistema canario de enseñanzas
 profesional específica, disponer de un instrumento para su implantación y desarrollo, hasta 
 que se publique un nuevo Decreto en la Comunidad Autónoma de Canarias que establezca 
 el nuevo marco de ordenación del Sistema de Formación Profesional en nuestro ámbito 
-educativo, teniendo como referente el Real Decreto 659/2023, de 18 de julio, por el que se 
+educativo, teniendo como referente el [Real Decreto 659/2023](RES_dirección_general_formación_profesional_25.md), de 18 de julio, por el que se 
 desarrolla la ordenación del Sistema de Formación Profesional que regula el carácter dual 
 a estas enseñanzas.
 Vista la necesidad de establecer instrucciones para canalizar la oferta de los nuevos 
@@ -91,14 +108,14 @@ Tercero.- Con la implantación del Sistema de Formación Profesional establecido
 la LOOIFP, surge la necesidad de concretar determinados aspectos para la implantación y 
 desarrollo de las ofertas de Grado D y E en la Comunidad Autónoma de Canarias.
 FUNDAMENTOS DE DERECHO
-Primero.- La Ley Orgánica 1/2018, de 5 de noviembre, de reforma del Estatuto de 
+Primero.- La [Ley Orgánica 1/2018](../01_marco_normativo_general_y_organico/LO1_2018_estatuto_autonomia_canarias.md), de 5 de noviembre, de reforma del Estatuto de 
 Autonomía de Canarias, en su artículo 133.1, establece que “Corresponde a la Comunidad 
 Autónoma de Canarias la competencia de desarrollo legislativo y de ejecución, en materia 
 de enseñanza no universitaria, con relación a las enseñanzas obligatorias y no obligatorias 
 que conducen a la obtención de un título académico o profesional con validez en todo 
 el Estado (...)”. Además del establecimiento de los correspondientes planes de estudio, 
 incluida la ordenación curricular de conformidad con el artículo 133.3.b).
-Segundo.- La Ley 6/2014, de 25 de julio, Canaria de Educación no Universitaria, 
+Segundo.- La [Ley 6/2014](../01_marco_normativo_general_y_organico/L6_2014_ley_canaria_educacion.md), de 25 de julio, Canaria de Educación no Universitaria, 
 en su artículo 33, referido a la Formación Profesional, indica en su apartado tercero 3 
 que “De acuerdo con la normativa básica del Estado, una vez aprobado el real decreto 
 correspondiente a un título de formación profesional y hasta que sea completado el currículo 
@@ -109,7 +126,7 @@ formación relativa a prevención de riesgos laborales y medioambientales, tecno
 la información y la comunicación, fomento de la cultura emprendedora, creación y gestión 
 de empresas y autoempleo y conocimiento del mercado de trabajo y de las relaciones 
 laborales”.
-Tercero.- El artículo 39 de la Ley Orgánica 2/2006, de 3 de mayo, de Educación, establece 
+Tercero.- El artículo 39 de la [Ley Orgánica 2/2006](../../../estatal/01_marco_normativo_general_y_organico/LO2_2006_ley_organica_educacion.md), de 3 de mayo, de Educación, establece 
 en su artículo 39.3 que la formación profesional en el sistema educativo comprende los 
 ciclos formativos de grado básico, de grado medio y de grado superior, así como los cursos 
 de especialización. Todos ellos tendrán una organización modular, de duración variable, que 
@@ -152,8 +169,8 @@ necesarios de los cursos de especialización de grado medio y superior, así com
 títulos de Formación Profesional de grado básico, medio y superior, para permitir su oferta 
 en el marco de la nueva estructura establecida por el Real Decreto 659/2023, de 18 de julio, 
 por el que se desarrolla la ordenación del Sistema de Formación Profesional.
-Por todo lo expuesto, de conformidad con lo establecido en el artículo 20 del Decreto 
-84/2024, de 10 de junio, por el que se aprueba el Reglamento Orgánico de la Consejería de 
+Por todo lo expuesto, de conformidad con lo establecido en el artículo 20 del [Decreto 
+84/2024](../01_marco_normativo_general_y_organico/D84_2024_reglamento_organico_consejeria.md), de 10 de junio, por el que se aprueba el Reglamento Orgánico de la Consejería de 
 Educación, Formación Profesional, Actividad Física y Deportes,
 RESUELVO :
 Primero.- Dictar las instrucciones específicas para la implantación y desarrollo de los 
@@ -203,10 +220,10 @@ y para la empleabilidad, cualificaciones profesionales, estándares de competenc
 referencia, objetivos generales, módulos profesionales, resultados de aprendizaje y criterios 
 de evaluación de cada título son los expresados en cada uno de los Reales Decretos vigentes.
 2. La actualización de la relación de los módulos profesionales que forman parte del 
-plan de estudios de cada ciclo formativo viene recogida en el Real Decreto 499/2024, de 
+plan de estudios de cada ciclo formativo viene recogida en el [Real Decreto 499/2024](../../../estatal/03_ordenacion_curricular_y_ensenanzas/BOE_2024_10684_mayo_modifican_determinados_reales.md), de 
 21 de mayo, por el que se modifican determinados reales decretos por los que se establecen 
 títulos de Formación Profesional de grado medio y se fijan sus enseñanzas mínimas, y 
-el Real Decreto 500/2024, de 21 de mayo, por el que se modifican determinados reales 
+el [Real Decreto 500/2024](../../../estatal/03_ordenacion_curricular_y_ensenanzas/BOE_2024_10685_mayo_modifican_determinados_reales.md), de 21 de mayo, por el que se modifican determinados reales 
 decretos por los que se establecen títulos de Formación Profesional de grado superior y se 
 fijan sus enseñanzas mínimas.
 3. Las orientaciones referentes a la adaptación del currículo al entorno socio-productivo 
@@ -300,7 +317,7 @@ d) El módulo será convalidado cuando se aporte título de Grado o equivalente 
 Filología Inglesa o en Traducción e Interpretación (Inglés).
 e) El módulo será objeto de convalidación cuando se aporte módulos 
 LOGSE de Lengua 
-Extranjera, de acuerdo con lo dispuesto en el Anexo II del Real Decreto 1085/2020, de 9 de 
+Extranjera, de acuerdo con lo dispuesto en el Anexo II del [Real Decreto 1085/2020](../../../estatal/03_ordenacion_curricular_y_ensenanzas/BOE_2020_17274_diciembre_establecen_convalidaciones_módulos.md), de 9 de 
 diciembre, por el que se establecen convalidaciones de módulos profesionales de los títulos 
 
 de Formación Profesional del sistema educativo español y las medidas para su aplicación, y 
@@ -314,7 +331,7 @@ el módulo como superado, trasladando la calificación obtenida en dicho módulo
 Ciclo de nivel 3.
 b) El módulo se convalida cuando se aporte certificados de nivel B2 o superior que para el 
 idioma Inglés ha establecido la Orden de 25 de noviembre de 2022, por la que se actualizan 
-los títulos y certificados establecidos en el Anexo I de la Orden de 21 de septiembre de 2016, 
+los títulos y certificados establecidos en el Anexo I de la [Orden de 21 de septiembre de 2016](RES_determina_acceso_distintos_cursos_48.md), 
 que regula el reconocimiento de la acreditación de la competencia lingüística conforme al 
 Marco Común Europeo de Referencia para las Lenguas en la Comunidad Autónoma de 
 Canarias.
@@ -714,7 +731,7 @@ de formación D de nivel 1 (Ciclos Formativos de Grado Básico), a partir del cu
 Serán de aplicación en todos los centros educativos del sistema de formación profesional 
 de la Comunidad Autónoma de Canarias.
 Segunda.- Currículos.
-1. El Real Decreto 217/2022, de 29 de marzo, por el que se establece la ordenación 
+1. El [Real Decreto 217/2022](../../../estatal/03_ordenacion_curricular_y_ensenanzas/RD217_2022_ordenacion_ensenanzas_minimas_eso.md), de 29 de marzo, por el que se establece la ordenación 
 y enseñanzas mínimas en la Educación Secundaria Obligatoria, establece en el Anexo I 
 el Perfil de salida del alumnado al término de la enseñanza básica, las competencias clave 
 que debe adquirir y los descriptores operativos de las competencias clave en la enseñanza 
@@ -726,7 +743,7 @@ comunes de los ciclos formativos de grado básico, fijando las competencias espe
 como los criterios de evaluación y los contenidos, enunciados en forma de saberes básicos.
 2. En el ámbito de la Comunidad Autónoma de Canarias, el Decreto 9/2023, de 26 de 
 enero, regula y establece el currículo de veintitrés ciclos formativos de grado básico.
-3. El Real Decreto 498/2024, de 21 de mayo, por el que se modifican determinados 
+3. El [Real Decreto 498/2024](../../../estatal/03_ordenacion_curricular_y_ensenanzas/BOE_2024_10683_mayo_modifican_determinados_reales.md), de 21 de mayo, por el que se modifican determinados 
 reales decretos por los que se establecen títulos de Formación Profesional de grado básico 
 y se fijan sus enseñanzas mínimas, actualiza la relación de módulos profesionales que 
 forman parte del plan de estudios de cada ciclo formativo de grado básico.
@@ -7025,7 +7042,7 @@ laborales  del  ciclo  formativo  de  Grado  (1)   _________________________  de
 ______________________________________________________,  regulado  por  el  Real  Decreto  (3)  
 __________________________, que incluye la formación que capacita para llevar a cabo responsabilidades  
 profesionales  equivalentes  a las que precisan las  actividades de nivel básico en prevención de riesgos  
-laborales establecidas en el Real Decreto 39/1997, de 17 de enero, por el que se aprueba el Reglamento de  
+laborales establecidas en el [Real Decreto 39/1997](../../../estatal/02_gestion_y_administracion_centros/RD39_1997_reglamento_servicios_prevencion.md), de 17 de enero, por el que se aprueba el Reglamento de  
 los Servicios de Prevención, con la duración y contenidos que se especifican en el reverso de la presente  
 certificación.
 Y , para que conste y surta los efectos oportunos, expido el presente certificado en

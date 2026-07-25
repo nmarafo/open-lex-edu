@@ -43,6 +43,15 @@ fundamentos_derecho:
 - norma_id: norm-can-l-6-2014
   articulos:
   - '60'
+- norma_id: norm-can-d-123-2023
+- norma_id: norm-can-l-14-1990
+- norma_id: norm-can-res-boc-2024-230-25
+- norma_id: norm-es-l-39-2015
+- norma_id: norm-es-l-40-2015
+- norma_id: norm-es-l-9-2017
+- norma_id: norm-es-rd-659-2023
+- norma_id: norm-es-2010-4518
+- norma_id: norm-es-2021-11382
 fuente_pdf_oficial: https://sede.gobiernodecanarias.org/boc/boc-a-2024-117-1913.pdf
 ocr_procesado: true
 motor_ocr: rapidocr_onnxruntime
@@ -64,9 +73,9 @@ la Consejeria de Educacion, Formacion Profesional, Actividad Fisica y Deportes a
 las competencias que en materia de educacion, formacion profesional y deportes estaban
 atribuidas a la extinta Consejeria de Educacion, Universidades, Cultura y Deportes, salvo
 las relativas a materias de universidades, cultura y patrimonio cultural.
-Por su parte, mediante Decreto 123/2023, de 17 de julio, se determina la estructura
+Por su parte, mediante [Decreto 123/2023](D123_2023_estructura_organica_gobierno_canarias.md), de 17 de julio, se determina la estructura
 organica y las sedes de las Consejerias del Gobierno de Canarias, de acuerdo con los
-principios y criterios establecidos en la Ley 4/2023, de 23 de marzo, de la Presidencia
+principios y criterios establecidos en la [Ley 4/2023](L4_2023_gobierno_canarias.md), de 23 de marzo, de la Presidencia
 y del Gobierno de Canarias. El articulo 5 del citado Decreto regula la estructura de los
 organos superiores de la Consejeria de Educacion, Formacion Profesional, Actividad
 Fisica y Deportes, estableciendo tres Viceconsejerias, la Secretaria General Técnica y
@@ -118,13 +127,13 @@ Direccion General de Ordenacion, Innovacion y Calidad, cuyas competencias son as
 por la Direccion General de Ordenacion de las Ensenanzas, Inclusion e Innovacion, excepto
 las relativas a la formacion y perfeccionamiento del profesorado, que se atribuyen a la
 Direccion General de Personal y Formacion del Profesorado.
-De conformidad con lo previsto en el articulo 27.3 de la antedicha Ley 14/1990, de 26
+De conformidad con lo previsto en el articulo 27.3 de la antedicha [Ley 14/1990](L14_1990_regimen_juridico_administraciones_canarias.md), de 26
 de julio, la estructura organica y las sedes de las consejerias seran aprobadas por decreto
 del Gobierno de Canarias, a propuesta de la Presidencia del Gobierno, por lo que debe
 entenderse que las modificaciones que se introduzcan en tales decretos de estructura
 organica corresponderan, asimismo, al Gobierno.
 La regulacion que se contiene en esta norma se ajusta a los principios contemplados en
-el articulo 129 de la Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Comun
+el articulo 129 de la [Ley 39/2015](../../../estatal/01_marco_normativo_general_y_organico/L39_2015_procedimiento_administrativo_comun.md), de 1 de octubre, del Procedimiento Administrativo Comun
 de las Administraciones Publicas, asi como en los articulos 66.2 y 80.5 de la Ley 4/2023,
 de 23 de marzo, de la Presidencia y del Gobierno de Canarias. En concreto, cumple con los
 principios de necesidad y eficacia, pues se trata de dar cumplimiento a lo establecido en la
@@ -140,13 +149,13 @@ que no se imponen cargas administrativas innecesarias o accesorias. Atiende, a s
 principio de eficiencia puesto que su aplicacion permite llevar a cabo una organizacion
 racional coherente de los recursos existentes.
 Por otro lado, en lo relativo a la igualdad de genero y de expresion de género, el presente
-Decreto en su redaccion da cumplimiento, respectivamente, a la Ley 1/2010, de 26 de
+Decreto en su redaccion da cumplimiento, respectivamente, a la [Ley 1/2010](../../../estatal/07_convivencia_bienestar_y_protocolos/BOE_2010_4518_febrero_canaria_igualdad_entre.md), de 26 de
 https:/sede.gobiernodecanarias.org/boc
 
 --- Página 3 (Transcripción OCR de Anexo/Imagen) ---
 
 Lunes 17 de junio de 2024
-febrero, Canaria de Igualdad entre Mujeres y Hombres, y a la Ley 2/2021, de 7 de junio, de
+febrero, Canaria de Igualdad entre Mujeres y Hombres, y a la [Ley 2/2021](../../../estatal/07_convivencia_bienestar_y_protocolos/BOE_2021_11382_junio_igualdad_social_discriminación.md), de 7 de junio, de
 igualdad social y no discriminacion por razon de identidad de género, expresion de género
 y caracteristicas sexuales. Conforme a ello, la presente disposicion ni prevé ni recoge
 género, ni afecta negativamente a la igualdad y no discriminacion por razon de la identidad
@@ -266,7 +275,7 @@ Formacion Profesional, solicitando, en su caso, la cooperacion de la consejeria 
 en materia de empleo, sobre:
 a) Realizar la gestion del procedimiento de acreditacion de competencias adquiridas a
 través de la experiencia laboral u otras vias no formales e informales, de acuerdo con lo
-dispuesto en el Real Decreto 659/2023, de 18 de julio, por el que se desarrolla la ordenacion
+dispuesto en el [Real Decreto 659/2023](../03_ordenacion_curricular_y_ensenanzas/RES_dirección_general_formación_profesional_25.md), de 18 de julio, por el que se desarrolla la ordenacion
 del Sistema de Formacion Profesional, o norma que lo sustituya.
 b) Promover el consenso de las organizaciones sindicales y empresariales mas
 representativas para asegurar el efectivo acceso al procedimiento de acreditacion.
@@ -539,8 +548,8 @@ las materias atribuidas a la Consejeria.
 b) Resolver los procedimientos de responsabilidad patrimonial en el ambito funcional
 de la Consejeria.
 c) Los encargos a medios propios personificados de la Administracion Publica de la
-Comunidad Autonoma de Canarias, en los términos regulados en el articulo 32 de la Ley
-9/2017, de 8 de noviembre, de Contratos del Sector Publico.
+Comunidad Autonoma de Canarias, en los términos regulados en el articulo 32 de la [Ley
+9/2017](../../../estatal/02_gestion_y_administracion_centros/L9_2017_contratos_sector_publico.md), de 8 de noviembre, de Contratos del Sector Publico.
 d) Disponer libramientos en concepto de aportaciones dinerarias con cargo a los
 presupuestos de la seccion presupuestaria de la Consejeria.
 e) Incoar y resolver los procedimientos sancionadores por las infracciones previstas
@@ -1862,7 +1871,7 @@ Lunes 17 de junio de 2024
 4. Los organos colegiados previstos en este Reglamento Organico podran celebrar
 sesiones a traves de medios electronicos. En estos casos, la constitucion, convocatoria y
 celebracion de sesiones, adopcion de acuerdos de los organos colegiados y remision de
-actas se efectuaran conforme a lo preceptuado en los articulos 17 y 18 de la Ley 40/2015,
+actas se efectuaran conforme a lo preceptuado en los articulos 17 y 18 de la [Ley 40/2015](../../../estatal/01_marco_normativo_general_y_organico/L40_2015_regimen_juridico_sector_publico.md),
 de 1 de octubre, de Régimen Juridico del Sector Publico.
 5. En la celebracion de las sesiones, la presidencia del organo colegiado velara por la
 observancia del principio de unidad de acto, del quorum de asistencia y de la mayoria de

@@ -40,6 +40,7 @@ fundamentos_derecho:
 - norma_id: norm-es-lo-2-2006
   articulos:
   - '82'
+- norma_id: norm-es-1984-17387
 fuente_pdf_oficial: https://www.gobiernodecanarias.org/boc/1999/079/boc-1999-079-007.pdf
 anexos_extraidos_pdf: true
 ocr_procesado: true
@@ -63,7 +64,7 @@ N ANTIGUO
 Segundo.- La realizacion de las pruebas se ajus-
 130204003
 130204004
-tara a lo establecido en la Ley 30/1984, de 2 de ag0s-
+tara a lo establecido en la [Ley 30/1984](../../../estatal/01_marco_normativo_general_y_organico/BOE_1984_17387_agosto_medidas_para_reforma.md), de 2 de ag0s-
 to; Ley 23/1988, de 29 de julio, de modificaci6n de
 la Ley de Medidas para la Reforma anterior; Real Decreto
 364/1995, de 10 de marz0 (B.0.E. de 10 de abril),

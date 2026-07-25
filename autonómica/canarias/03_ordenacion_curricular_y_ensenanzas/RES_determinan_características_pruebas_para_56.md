@@ -28,6 +28,10 @@ fundamentos_derecho:
   articulos:
   - '1'
 - norma_id: norm-es-lo-2-2006
+- norma_id: norm-es-l-39-2015
+- norma_id: norm-es-2016-3229
+- norma_id: norm-es-2021-20113
+- norma_id: norm-es-2010-12201
 fuente_pdf_oficial: https://sede.gobiernodecanarias.org/boc/boc-a-2018-048-1091.pdf
 ---
 # Resolución de 27 de febrero de 2018, por la que se determinan las características de las pruebas para la obtención del certificado de nivel C2 de enseñanzas de idiomas de régimen especial, en la Comunidad Autónoma de Canarias (BOC n.º 48, de 8 de marzo).
@@ -58,8 +62,8 @@ obtención del certificado de especialización de este nivel, queda por definir 
 concretas de las pruebas en relación con este nivel C2. 
 A los anteriores hechos les son de aplicación los siguientes
 FUNDAMENTOS DE DERECHO
-Primero.- La Ley Orgánica 2/2006, de 3 de mayo, de Educación (BOE nº 106, de 4 de 
-mayo de 2006), en la redacción actual dada por la Ley Orgánica 8/2013, de 9 de diciembre, 
+Primero.- La [Ley Orgánica 2/2006](../../../estatal/01_marco_normativo_general_y_organico/LO2_2006_ley_organica_educacion.md), de 3 de mayo, de Educación (BOE nº 106, de 4 de 
+mayo de 2006), en la redacción actual dada por la [Ley Orgánica 8/2013](../../../estatal/03_ordenacion_curricular_y_ensenanzas/BOE_2016_3229_marzo_regula_procedimiento_incorporación.md), de 9 de diciembre, 
 para la mejora de la calidad educativa (BOE nº 295, de 10 de diciembre de 2013), regula en 
 sus artículos 59, 60, 61 y 62 la ordenación de las enseñanzas de idiomas, estableciendo que 
 estas enseñanzas se organizarán en tres niveles, que se corresponderán, respectivamente, 
@@ -121,7 +125,7 @@ web de la Consejería de Educación y Universidades: http://www.gobiernodecanari
 educacion/web
 Contra la presente resolución se podrá interponer recurso de alzada ante el Ilmo Sr. 
 Viceconsejero de Educación y Universidades, en el plazo de un mes a partir del día siguiente 
-al de su publicación, de conformidad con los artículos 114 y 115 de la Ley 39/2015, de 1 de 
+al de su publicación, de conformidad con los artículos 114 y 115 de la [Ley 39/2015](../../../estatal/01_marco_normativo_general_y_organico/L39_2015_procedimiento_administrativo_comun.md), de 1 de 
 octubre, del Procedimiento  Administrativo Común de las Administraciones Públicas (BOE 
 nº 236, de 2 de octubre de 2015).
 Santa Cruz de Tenerife, a 27 de febrero de 2018.- El Director General de Formación 

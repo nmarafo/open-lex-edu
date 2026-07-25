@@ -45,6 +45,8 @@ fundamentos_derecho:
   articulos:
   - '1'
 - norma_id: norm-es-l-39-2015
+- norma_id: norm-es-l-53-1984
+- norma_id: norm-es-1999-23750
 fuente_pdf_oficial: https://sede.gobiernodecanarias.org/boc/boc-a-2010-181-5209.pdf
 ---
 # Orden de 1 de septiembre de 2010, por la que se desarrolla la organización y funcionamiento de los equipos de orientación educativa y psicopedagógica de zona y específicos de la Comunidad Autónoma de Canarias.
@@ -84,8 +86,8 @@ versidades (BOE de 24.12.01), modificada por la
 Ley Orgánica 4/2007, de 12 de abril (BOE de 13.4.07),
 el Real Decreto Legislativo 1/1995, de 24 de marzo,
 por el que se aprueba el texto refundido de la Ley del
-Estatuto de los Trabajadores (BOE de 29.3.95), la Ley
-53/1984, de 26 de diciembre, de Incompatibilidades
+Estatuto de los Trabajadores (BOE de 29.3.95), la [Ley
+53/1984](../../../estatal/01_marco_normativo_general_y_organico/L53_1984_incompatibilidades_personal_publico.md), de 26 de diciembre, de Incompatibilidades
 del Personal al Servicio de las Administraciones Pú-
 blicas (BOE de 4.1.85), el Decreto 89/2004, de 6 de
 julio (BOC de 26.7.04), por el que se aprueban los
@@ -505,7 +507,7 @@ empresa/empleados y cedidos a otras administracio-
 nes públicas en cumplimiento de la normativa labo-
 ral, de seguridad social y tributaria y a cualquier en-
 tidad obligada por Ley de acuerdo con lo dispuesto
-en la Ley Orgánica 15/1999, de 13 de diciembre, de
+en la [Ley Orgánica 15/1999](../../../estatal/02_gestion_y_administracion_centros/BOE_1999_23750_diciembre_protección_datos_carácter.md), de 13 de diciembre, de
 Protección de Datos de Carácter Personal, los inte-
 resados pueden ejercitar los derechos de acceso, rec-
 tificación, cancelación y oposición dirigiendo un es-

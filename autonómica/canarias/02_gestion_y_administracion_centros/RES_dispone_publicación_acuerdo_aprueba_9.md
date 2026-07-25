@@ -25,6 +25,9 @@ fundamentos_derecho:
 - norma_id: norm-can-l-6-2014
   articulos:
   - '1'
+- norma_id: norm-es-l-39-2015
+- norma_id: norm-es-l-40-2015
+- norma_id: norm-es-rdl-5-2015
 fuente_pdf_oficial: https://sede.gobiernodecanarias.org/boc/boc-a-2018-127-3139.pdf
 ---
 # Resolución de 25 de junio de 2018, por la que se dispone la publicación del Acuerdo que aprueba las instrucciones que conforman la normativa de seguridad en el uso de los recursos informáticos, telefónicos y de redes de comunicación de la Administración Pública de la Comunidad Autónoma de Canarias (BOC n.º 127, de 3 de julio).
@@ -70,12 +73,12 @@ garantizar la eficiencia, confidencialidad, integridad y disponibilidad de la in
 Para ello, el uso de los citados recursos y redes ha de ser realizado de forma ordenada y 
 responsable, enfocado al desempeño de las funciones del puesto de trabajo.
 En este sentido, y de acuerdo con lo previsto en el Texto Refundido de la Ley del Estatuto 
-Básico del Empleado Público, aprobado por Real Decreto Legislativo 5/2015, de 30 de 
+Básico del Empleado Público, aprobado por [Real Decreto Legislativo 5/2015](../../../estatal/01_marco_normativo_general_y_organico/RD5_2015_estatuto_basico_empleado_publico.md), de 30 de 
 octubre, es un principio de conducta de las empleadas y empleados públicos la administración 
 de los recursos y bienes públicos con austeridad, y la no utilización de los mismos en 
 provecho propio o de personas allegadas. El personal de la Administración y las personas 
 que ocupan cargos públicos tendrán asimismo el deber de velar por su conservación.
-El artículo 156.2 de la Ley 40/2015, de 1 de octubre, de Régimen Jurídico del Sector 
+El artículo 156.2 de la [Ley 40/2015](../../../estatal/01_marco_normativo_general_y_organico/L40_2015_regimen_juridico_sector_publico.md), de 1 de octubre, de Régimen Jurídico del Sector 
 Público, establece que el Esquema Nacional de Seguridad, regulado por el Real Decreto 
 3/2010, de 8 de enero, tiene por objeto establecer la política de seguridad en la utilización de 
 medios electrónicos, y está constituido por los principios básicos y requisitos mínimos que 
@@ -87,7 +90,7 @@ a) El uso correcto de equipos, servicios e instalaciones.
 b) Lo que se considerará uso indebido.
 c) La responsabilidad del personal con respecto al cumplimiento o violación de estas 
 normas.
-La entrada en vigor de la Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo 
+La entrada en vigor de la [Ley 39/2015](../../../estatal/01_marco_normativo_general_y_organico/L39_2015_procedimiento_administrativo_comun.md), de 1 de octubre, del Procedimiento Administrativo 
 Común de las Administraciones Públicas, así como de la Ley 40/2015, de 1 de octubre, de 
 Régimen Jurídico del Sector Público, plantean un entorno de trabajo en el cual la tramitación 
 

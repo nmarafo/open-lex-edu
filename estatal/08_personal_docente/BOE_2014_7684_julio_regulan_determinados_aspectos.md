@@ -28,8 +28,10 @@ fundamentos_derecho:
 - norma_id: norm-es-rdl-5-2015
   articulos:
   - '1'
+- norma_id: norm-es-1999-23750
+- norma_id: norm-es-2015-6839
 ---
-# Real Decreto 625/2014, de 18 de julio, por el que se regulan determinados aspectos de la gestión y control de los procesos por incapacidad temporal en los primeros trescientos sesenta y cinco días de su duración.
+# [Real Decreto 625/2014](BOE_2015_6839_junio_desarrolla_real_decreto.md), de 18 de julio, por el que se regulan determinados aspectos de la gestión y control de los procesos por incapacidad temporal en los primeros trescientos sesenta y cinco días de su duración.
 
 El Real Decreto 575/1997, de 18 de abril, por el que se regulan determinados aspectos de la gestión y control de la prestación económica de la Seguridad Social por incapacidad temporal, modificado por el Real Decreto 1117/1998, de 5 de junio, y desarrollado por la Orden de 19 de junio de 1997, pretendía asegurar la efectividad en el percibo de la prestación económica de la Seguridad Social y evitar la utilización indebida de la protección, incidiendo en los principales aspectos de la gestión de la prestación. Al mismo tiempo, dicho real decreto también regulaba la forma de expedición de los partes de baja y alta médicas, así como el establecimiento de determinados controles en la comprobación del mantenimiento del derecho a la prestación, con la finalidad de conseguir un mayor rigor en la constatación de la enfermedad y de su repercusión en la capacidad de trabajo del interesado.
 
@@ -205,7 +207,7 @@ En todo caso, los inspectores médicos del Instituto Nacional de la Seguridad So
 
 2. Con el fin de que las actuaciones médicas a las que se refiere este artículo cuenten con el mayor respaldo técnico, a los efectos indicados en el artículo 2.3, se pondrá a disposición de los médicos a los que competan dichas actuaciones tablas de duraciones óptimas, tipificadas para los distintos procesos patológicos susceptibles de generar incapacidades, así como tablas sobre el grado de incidencia de dichos procesos en las diversas ocupaciones laborales, a que se refiere el artículo 2.2.
 
-3. El tratamiento de los datos de los trabajadores afectados así como el acceso a los mismos quedará sujeto a lo dispuesto en la Ley Orgánica 15/1999, de 13 de diciembre, de Protección de Datos de Carácter Personal, y en sus disposiciones de desarrollo.
+3. El tratamiento de los datos de los trabajadores afectados así como el acceso a los mismos quedará sujeto a lo dispuesto en la [Ley Orgánica 15/1999](../02_gestion_y_administracion_centros/BOE_1999_23750_diciembre_protección_datos_carácter.md), de 13 de diciembre, de Protección de Datos de Carácter Personal, y en sus disposiciones de desarrollo.
 
 Los datos únicamente podrán ser utilizados con la finalidad del control de los procesos de incapacidad y control interno, sin que puedan ser empleados para finalidades distintas. En ningún caso podrán ser utilizados con fines discriminatorios o en perjuicio del trabajador.
 

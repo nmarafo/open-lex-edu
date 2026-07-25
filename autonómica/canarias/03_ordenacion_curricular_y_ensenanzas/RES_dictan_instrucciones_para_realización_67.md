@@ -28,6 +28,8 @@ fundamentos_derecho:
   articulos:
   - '1'
 - norma_id: norm-es-lo-2-2006
+- norma_id: norm-es-2021-20113
+- norma_id: norm-es-2010-12201
 fuente_pdf_oficial: https://sede.gobiernodecanarias.org/boc/boc-a-2016-086-1192.pdf
 fuente_juriscan: http://www.gobiernodecanarias.org/juriscan/ficha.jsp?id=74499
 ---
@@ -54,7 +56,7 @@ desarrollo y evaluación de las Prácticas Externas del alumnado que curse estas
 en el ámbito autonómico.
  FUNDAMENTOS DE DERECHO 
 Primero.- El Real Decreto 1614/2009, de 26 de octubre, por el que se establece la 
-ordenación de las enseñanzas artísticas superiores reguladas por la Ley Orgánica 2/2006, 
+ordenación de las enseñanzas artísticas superiores reguladas por la [Ley Orgánica 2/2006](../../../estatal/01_marco_normativo_general_y_organico/LO2_2006_ley_organica_educacion.md), 
 de 3 de mayo, de Educación (BOE nº 259, de 27.10.09), modificado por el Real Decreto 
 21/2015, de 23 de enero (BOE nº 33, de 7.2.15), en su artículo 11, apartados cuarto y quinto, 
 recoge la posibilidad de programar prácticas externas como actividad de formación del 

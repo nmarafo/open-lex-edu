@@ -28,6 +28,18 @@ fundamentos_derecho:
 - norma_id: norm-can-l-6-2014
   articulos:
   - '1'
+- norma_id: norm-can-d-84-2024
+- norma_id: norm-can-l-14-1990
+- norma_id: norm-can-lo-1-2018
+- norma_id: norm-can-res-boc-2024-230-25
+- norma_id: norm-can-res-134
+- norma_id: norm-es-l-39-2015
+- norma_id: norm-es-lo-2-2006
+- norma_id: norm-es-2005-21534
+- norma_id: norm-es-2021-20113
+- norma_id: norm-es-lo-3-2022
+- norma_id: norm-es-rd-659-2023
+- norma_id: norm-es-2010-12201
 fuente_pdf_oficial: https://sede.gobiernodecanarias.org/boc/boc-a-2025-158-2923.pdf
 ---
 # Resolución de 29 de julio de 2025, de la Dirección General de Formación Profesional y Enseñanzas de Régimen Especial por la que se dictan instrucciones y se establece el calendario para la renovación parcial o la nueva constitución de los Consejos Sociales en los centros integrados de formación profesional, de la Comunidad Autónoma de Canarias, a celebrar en el curso escolar 2025/2026 (BOC núm. 158, de 11 de agosto).
@@ -65,7 +77,7 @@ programación general de la enseñanza, con la participación efectiva de todos 
 afectados”; y en el artículo 27, apartado 7, cuando prevé que “el profesorado, los padres 
 y, en su caso, el alumnado intervendrán en el control y la gestión de los centros sostenidos 
 por la Administración con fondos públicos, en los términos que la Ley establezca”.
-Segundo.- El Título V de la Ley Orgánica 2/2006, de 3 de mayo, de Educación, está 
+Segundo.- El Título V de la [Ley Orgánica 2/2006](../../../estatal/01_marco_normativo_general_y_organico/LO2_2006_ley_organica_educacion.md), de 3 de mayo, de Educación, está 
 dedicado a la participación, la autonomía y el gobierno de los centros; reconociendo 
 que la participación es un valor básico para la formación de ciudadanos autónomos, 
 libres, responsables y comprometidos con los principios y valores de la Constitución y 
@@ -73,24 +85,24 @@ estableciendo que las Administraciones educativas garantizarán la participació
 la comunidad educativa en las cuestiones relevantes de la organización, el gobierno, el 
 funcionamiento y la evaluación de los centros.
 
-Tercero.- La Ley Orgánica 3/2022, de 31 de marzo, de ordenación e integración de 
+Tercero.- La [Ley Orgánica 3/2022](../08_personal_docente/RES_dirección_general_personal_sobre_134.md), de 31 de marzo, de ordenación e integración de 
 la Formación Profesional, establece para los centros integrados sostenidos con fondos 
 públicos que impartan, al menos, ofertas de grados D y E, el establecimiento como órgano 
 colegiado de un Consejo Social.
-Cuarto.- La Ley Orgánica 1/2018, de 5 de noviembre, de reforma del Estatuto de 
+Cuarto.- La [Ley Orgánica 1/2018](../01_marco_normativo_general_y_organico/LO1_2018_estatuto_autonomia_canarias.md), de 5 de noviembre, de reforma del Estatuto de 
 Autonomía de Canarias, establece que los miembros de la comunidad educativa tienen 
 derecho a participar en los asuntos escolares y universitarios en los términos establecidos 
 por las leyes.
-Quinto.- La Ley 6/2014, de 25 de julio, Canaria de Educación no Universitaria, 
+Quinto.- La [Ley 6/2014](../01_marco_normativo_general_y_organico/L6_2014_ley_canaria_educacion.md), de 25 de julio, Canaria de Educación no Universitaria, 
 reconoce la relevancia de la participación de la comunidad educativa en la vida escolar, 
 por cuanto que entre los principios rectores que regirán el sistema educativo canario está 
 el de facilitar la participación social como elemento de calidad del propio sistema, como se 
 regula en su artículo 3, apartado a).
-Sexto.- El Real Decreto 1558/2005, de 23 de diciembre, por el que se regulan los 
+Sexto.- El [Real Decreto 1558/2005](../../../estatal/03_ordenacion_curricular_y_ensenanzas/BOE_2005_21534_diciembre_regulan_requisitos_básicos.md), de 23 de diciembre, por el que se regulan los 
 requisitos básicos de los Centros integrados de formación profesional, en su redacción 
 actual, establece en su artículo 14.1 que “El Consejo Social es el órgano de participación 
 de la sociedad en los centros integrados de formación profesional”.
-Séptimo.- El Real Decreto 659/2023, de 18 de julio, por el que se desarrolla la 
+Séptimo.- El [Real Decreto 659/2023](RES_dirección_general_formación_profesional_25.md), de 18 de julio, por el que se desarrolla la 
 ordenación del Sistema de Formación Profesional, en su redacción actual, especifica en su 
 artículo 203 que “El Consejo Social es el órgano de participación del entorno económico y 
 productivo en los centros especializados del Sistema de Formación Profesional”.
@@ -106,9 +118,9 @@ CIFP) en Telde, isla de Gran Canaria. Así mismo, el futuro Decreto de creación
 en Valverde (El Hierro), en San Sebastián de La Gomera (La Gomera), en Morro Jable 
 (Fuerteventura) y en Guía (Gran Canaria).
 Por ello, en virtud de las competencias atribuidas en el artículo 29, apartado 1, letra a), 
-de la Ley 14/1990, de 26 de julio, de Régimen Jurídico de las Administraciones Públicas 
+de la [Ley 14/1990](../01_marco_normativo_general_y_organico/L14_1990_regimen_juridico_administraciones_canarias.md), de 26 de julio, de Régimen Jurídico de las Administraciones Públicas 
 de Canarias, y en el artículo 20 del Reglamento Orgánico de la Consejería de Educación, 
-Formación Profesional, Actividad Física y Deportes, aprobado por Decreto 84/2024, de 10 
+Formación Profesional, Actividad Física y Deportes, aprobado por [Decreto 84/2024](../01_marco_normativo_general_y_organico/D84_2024_reglamento_organico_consejeria.md), de 10 
 de junio,
 RESUELVO :
 Primero.- Dictar y aprobar las instrucciones y el calendario para la constitución 
@@ -129,7 +141,7 @@ Contra la presente Resolución, que no pone fin a la vía administrativa, cabe i
 en el plazo de un (1) mes, a partir del día siguiente al de su publicación en el Boletín 
 Oficial de Canarias, recurso de alzada ante la Viceconsejería de Formación Profesional y 
 Cualificaciones Profesionales, conforme a lo previsto en los artículos 121 y 122, en relación 
-con el artículo 30.4 de la Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo 
+con el artículo 30.4 de la [Ley 39/2015](../../../estatal/01_marco_normativo_general_y_organico/L39_2015_procedimiento_administrativo_comun.md), de 1 de octubre, del Procedimiento Administrativo 
 Común de las Administraciones Públicas (BOE n.º 236, de 2.10.2015).
 Las Palmas de Gran Canaria, a 29 de julio de 2025.- La Directora General de Formación 
 Profesional y Enseñanzas de Régimen Especial, Carolina León Martínez.

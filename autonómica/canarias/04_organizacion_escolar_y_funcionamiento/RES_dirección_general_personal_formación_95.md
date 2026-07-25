@@ -31,6 +31,13 @@ fundamentos_derecho:
   articulos:
   - '1'
 - norma_id: norm-es-lo-2-2006
+- norma_id: norm-can-d-84-2024
+- norma_id: norm-can-d-109-1999
+- norma_id: norm-can-d-106-2009
+- norma_id: norm-es-l-39-2015
+- norma_id: norm-es-l-40-2015
+- norma_id: norm-es-2021-20113
+- norma_id: norm-es-2010-12201
 fuente_pdf_oficial: https://sede.gobiernodecanarias.org/boc/boc-a-2025-246-4231.pdf
 ---
 # Resolución de 2 de diciembre de 2025, de la Dirección General de Personal y Formación del Profesorado, por la que se convoca procedimiento para la selección de directores y directoras de los centros públicos de enseñanzas no universitarias de la Comunidad Autónoma de Canarias para el periodo de mandato 2026-2030 (BOC n.º 246, de 12 de diciembre).
@@ -66,7 +73,7 @@ incorporaba la correspondiente al IES Los Cristianos (38010712). No obstante, da
 existencia de circunstancias de naturaleza judicial que inciden en dicha plaza, procede su 
 no inclusión en esta fase, resultando excluida de la relación definitiva.
 FUNDAMENTOS DE DERECHO
-Primero.- La Ley Orgánica 2/2006, de 3 de mayo, de Educación, en su redacción dada 
+Primero.- La [Ley Orgánica 2/2006](../../../estatal/01_marco_normativo_general_y_organico/LO2_2006_ley_organica_educacion.md), de 3 de mayo, de Educación, en su redacción dada 
 por la Ley Orgánica 3/2020, de 29 de diciembre, que en su Título V , Capítulo IV , regula 
 el marco general de la dirección de los centros públicos y, específicamente, en su artículo 
 135 y siguientes establece el procedimiento de selección de directores y directoras y sus 
@@ -85,10 +92,10 @@ Segundo.- El artículo 134.1.c) del mismo texto legal, en relación con el Real 
 formación sobre el desarrollo de la función directiva, así como de los correspondientes 
 cursos de actualización de competencias directivas previstos en su disposición transitoria 
 única.
-Tercero.- La Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común 
+Tercero.- La [Ley 39/2015](../../../estatal/01_marco_normativo_general_y_organico/L39_2015_procedimiento_administrativo_comun.md), de 1 de octubre, del Procedimiento Administrativo Común 
 de las Administraciones Públicas.
-Cuarto.- La Ley 40/2015, de 1 de octubre, de Régimen Jurídico del Sector Público.
-Quinto.- El Decreto 106/2009, de 28 de julio, por el que se regula la función directiva 
+Cuarto.- La [Ley 40/2015](../../../estatal/01_marco_normativo_general_y_organico/L40_2015_regimen_juridico_sector_publico.md), de 1 de octubre, de Régimen Jurídico del Sector Público.
+Quinto.- El [Decreto 106/2009](D106_2009_funcion_directiva_centros_docentes.md), de 28 de julio, por el que se regula la función directiva 
 de los centros docentes públicos no universitarios dependientes de la Comunidad Autónoma 
 de Canarias, que en su artículo 13.1 dispone que, para la selección de directores, el órgano 
 competente de la Administración educativa aprobará las convocatorias de concursos de 
@@ -107,7 +114,7 @@ final primera establece que corresponde a la Dirección General de Personal el d
 interpretación de la misma y resolver cuantas dudas se susciten.
 De conformidad con lo anterior, en virtud de las competencias previstas en el artículo 
 16 del Reglamento Orgánico de la Consejería de Educación, Formación Profesional, 
-Actividad Física y Deportes del Gobierno de Canarias, aprobado por Decreto 84/2024, de 
+Actividad Física y Deportes del Gobierno de Canarias, aprobado por [Decreto 84/2024](../01_marco_normativo_general_y_organico/D84_2024_reglamento_organico_consejeria.md), de 
 10 de junio, y en relación con el artículo 19 del Decreto 212/1991, de 11 de septiembre, de 
 organización de los Departamentos de la Administración Autonómica de Canarias,
 RESUELVO :
@@ -1473,8 +1480,8 @@ puntuación de ambos, baremándose únicamente el cargo de mayor puntuación.
 c) Para la baremación del trabajo desempeñado como Director o Directora de los 
 Equipos Zonales de Tutorías de Jóvenes el nombramiento deberá ser posterior al Decreto 
 80/2003, de 12 de mayo (BOC n.º 98, de 23.5.2003). Por otra parte, el desempeño del cargo 
-de coordinador de CER, se baremará siempre que el nombramiento sea posterior al Decreto 
-109/1999, de 25 de mayo, por el que se regula el régimen de creación y funcionamiento de 
+de coordinador de CER, se baremará siempre que el nombramiento sea posterior al [Decreto 
+109/1999](../02_gestion_y_administracion_centros/D109_1999_escuelas_rurales_cer.md), de 25 de mayo, por el que se regula el régimen de creación y funcionamiento de 
 los Colectivos de Escuelas Rurales (BOC n.º 79, de 18.6.1999).
 d) A los efectos previstos en el apartado 1.3 del baremo de méritos, se considerarán 
 como cargos directivos asimilados los siguientes:

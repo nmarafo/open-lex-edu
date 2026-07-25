@@ -34,10 +34,13 @@ fundamentos_derecho:
 - norma_id: norm-can-l-6-2014
   articulos:
   - '22'
+- norma_id: norm-es-2001-7022
+- norma_id: norm-es-lo-8-1985
+- norma_id: norm-es-2002-4371
 ---
 # Real Decreto 320/2000, de 3 de marzo, por el que se establecen los títulos de Técnico Deportivo y Técnico Deportivo superior en las especialidades de Fútbol y Fútbol Sala, se aprueban las correspondientes enseñanzas mínimas y se regulan las pruebas y los requisitos de acceso a estas enseñanzas.
 
-El Real Decreto 1913/1997, de 19 de diciembre, otorga la consideración de enseñanzas de régimen especial, a aquellas enseñanzas que conducen a la obtención de los títulos de técnicos deportivos mencionadas en el artículo 55 de la Ley 10/ 1990, de 15 de octubre, del Deporte. Asimismo, aprueba las directrices generales sobre los títulos y de las correspondientes enseñanzas mínimas.
+El [Real Decreto 1913/1997](BOE_2002_4371_febrero_establecen_elementos_básicos.md), de 19 de diciembre, otorga la consideración de enseñanzas de régimen especial, a aquellas enseñanzas que conducen a la obtención de los títulos de técnicos deportivos mencionadas en el artículo 55 de la Ley 10/ 1990, de 15 de octubre, del Deporte. Asimismo, aprueba las directrices generales sobre los títulos y de las correspondientes enseñanzas mínimas.
 
 Una vez que por el citado Real Decreto se han fijado las directrices generales para el establecimiento de los títulos de los técnicos deportivos, procede que el Gobierno, previa consulta a las Comunidades Autónomas, establezca cada uno de los títulos correspondientes a las modalidades o especialidades deportivas reconocidas por el Consejo Superior de Deportes, fije sus respectivas enseñanzas mínimas y determine los diversos aspectos de la ordenación académica que, sin perjuicio de las competencias atribuidas a las Administraciones educativas competentes en el establecimiento del currículo de estas enseñanzas de régimen especial, garanticen una formación básica común a todos los alumnos.
 
@@ -199,7 +202,7 @@ Efectos académicos y profesionales de los títulos de grado medio y grado super
 
 1. Los títulos de Técnico Deportivo en Fútbol y de Técnico Deportivo en Fútbol Sala y de Técnico Deportivo superior en Fútbol y de Técnico Deportivo superior en Fútbol Sala se obtendrán tras la superación de las correspondientes enseñanzas y, en su caso, del proyecto final.
 
-2. Los títulos de grado medio y superior citados en el apartado anterior serán equivalentes a todos los efectos a los correspondientes de grado medio y grado superior de formación profesional, a los que se refiere el artículo 35.2 de la Ley Orgánica 1/1990, de Ordenación General del Sistema Educativo.
+2. Los títulos de grado medio y superior citados en el apartado anterior serán equivalentes a todos los efectos a los correspondientes de grado medio y grado superior de formación profesional, a los que se refiere el artículo 35.2 de la [Ley Orgánica 1/1990](../02_gestion_y_administracion_centros/BOE_2001_7022_correspondientes_españoles_educación_secundaria.md), de Ordenación General del Sistema Educativo.
 
 3. La completa superación del primer nivel del grado medio de las enseñanzas que se regulan en el presente Real Decreto dará lugar a la obtención del certificado de primer nivel en la especialidad de Fútbol o Fútbol Sala, según los casos.
 
@@ -317,7 +320,7 @@ Quedan derogadas todas aquellas otras disposiciones de igual o inferior rango qu
 
 #### Disposición final primera. Carácter de la norma.
 
-El presente Real Decreto, que se dicta en uso de las competencias atribuidas al Estado en el artículo 149.1.30.a de la Constitución, así como en la disposición adicional primera, apartado 2, de la Ley Orgánica 8/1985, de 3 de julio, del Derecho a la Educación, y en virtud de la habilitación que confiere al Gobierno el artículo 4 de la Ley Orgánica 1/1990, de 3 de octubre, de Ordenación General del Sistema Educativo, así como el artículo 14 del Real Decreto 1913/1997, de 19 de diciembre, tiene carácter básico y es de aplicación en todo el territorio nacional.
+El presente Real Decreto, que se dicta en uso de las competencias atribuidas al Estado en el artículo 149.1.30.a de la Constitución, así como en la disposición adicional primera, apartado 2, de la [Ley Orgánica 8/1985](../02_gestion_y_administracion_centros/LO8_1985_derecho_educacion.md), de 3 de julio, del Derecho a la Educación, y en virtud de la habilitación que confiere al Gobierno el artículo 4 de la Ley Orgánica 1/1990, de 3 de octubre, de Ordenación General del Sistema Educativo, así como el artículo 14 del Real Decreto 1913/1997, de 19 de diciembre, tiene carácter básico y es de aplicación en todo el territorio nacional.
 
 #### Disposición final segunda. Órganos competentes para el desarrollo y aplicación de la presente norma.
 

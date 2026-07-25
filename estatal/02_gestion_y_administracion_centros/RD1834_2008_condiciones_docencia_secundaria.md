@@ -55,10 +55,14 @@ fundamentos_derecho:
 - norma_id: norm-es-ce-1978
   articulos:
   - '27'
+- norma_id: norm-es-2001-7022
+- norma_id: norm-es-2005-21534
+- norma_id: norm-es-2021-20113
+- norma_id: norm-es-2010-12201
 ---
 # Real Decreto 1834/2008 - Condiciones de Formación para el Ejercicio de la Docencia
 
-La Ley Orgánica 2/2006, de 3 de mayo, de Educación establece en sus artículos 91 al 99 las funciones del profesorado de las distintas enseñanzas que se regulan en ella, así como sus respectivas condiciones de titulación y formación pedagógica y didáctica. En la disposición adicional séptima, a su vez, se especifican las funciones de los diferentes cuerpos en los que se ordena la función pública docente.
+La [Ley Orgánica 2/2006](../01_marco_normativo_general_y_organico/LO2_2006_ley_organica_educacion.md), de 3 de mayo, de Educación establece en sus artículos 91 al 99 las funciones del profesorado de las distintas enseñanzas que se regulan en ella, así como sus respectivas condiciones de titulación y formación pedagógica y didáctica. En la disposición adicional séptima, a su vez, se especifican las funciones de los diferentes cuerpos en los que se ordena la función pública docente.
 
 El Real Decreto 1631/2006, de 29 de diciembre, establece las enseñanzas mínimas correspondientes a la educación secundaria obligatoria, que deberán formar parte del currículo que las distintas Administraciones educativas definan para esta etapa del sistema. Por otra parte, el Real Decreto 1467/2007, de 2 de noviembre, regula la estructura del bachillerato sobre la base de lo dispuesto a este respecto en la Ley Orgánica 2/2006, de 3 de mayo, de Educación y concreta la relación de materias de sus diferentes modalidades. Además, el Gobierno ha establecido, previa consulta a las Comunidades Autónomas, la ordenación general de la formación profesional del sistema educativo en el Real Decreto 1538/2006, de 15 de diciembre, cuya disposición adicional décima remite a las normas que regulen los títulos respectivos la definición de las titulaciones y especialidades del profesorado, atribución docente y equivalencia a efectos de docencia. Diferentes reales decretos han regulado asimismo las enseñanzas mínimas a las que deberán ajustarse los currículos de las enseñanzas profesionales de música y de danza, así como los de las enseñanzas de idiomas de régimen especial y las enseñanzas deportivas.
 
@@ -106,9 +110,9 @@ En su virtud, a propuesta de la Ministra de Educación, Política Social y Depor
 
 1. Los funcionarios de los cuerpos de catedráticos de enseñanza secundaria, de profesores de enseñanza secundaria y de profesores técnicos de formación profesional impartirán enseñanzas en los ciclos formativos de grado medio y de grado superior de acuerdo con la asignación de módulos contenida, para las especialidades docentes respectivas, en los reales decretos reguladores de las diferentes titulaciones de acuerdo con lo dispuesto en la Disposición adicional décima, apartado 1 del Real Decreto 1538/2006, de 15 de diciembre, por el que se establece la ordenación general de la formación profesional en el sistema educativo. Asimismo, los profesores de otras especialidades docentes, que cumplan las condiciones de formación establecidas en las normas citadas para impartir docencia en los diferentes módulos en centros privados, podrán hacerlo en centros públicos sin perjuicio de la preferencia a estos efectos de los titulares de las especialidades respectivas.
 
-2. La atribución docente de las enseñanzas de formación profesional reguladas al amparo de la Ley Orgánica 1/1990, de 3 de octubre, de Ordenación General del Sistema Educativo se ajustará a la normativa aplicable a dichas enseñanzas. En todo caso, la atribución docente a especialidades del cuerpo de profesores de enseñanza secundaria se extenderá a las especialidades docentes del cuerpo de catedráticos de enseñanza secundaria que se establecen en este real decreto.
+2. La atribución docente de las enseñanzas de formación profesional reguladas al amparo de la [Ley Orgánica 1/1990](BOE_2001_7022_correspondientes_españoles_educación_secundaria.md), de 3 de octubre, de Ordenación General del Sistema Educativo se ajustará a la normativa aplicable a dichas enseñanzas. En todo caso, la atribución docente a especialidades del cuerpo de profesores de enseñanza secundaria se extenderá a las especialidades docentes del cuerpo de catedráticos de enseñanza secundaria que se establecen en este real decreto.
 
-3. En relación con los centros integrados de formación profesional, se estará a lo dispuesto, en materia de docencia, información y orientación profesional, en el Real Decreto 1558/2005, de 23 de diciembre, por el que se regulan los requisitos básicos de los centros integrados de formación profesional.
+3. En relación con los centros integrados de formación profesional, se estará a lo dispuesto, en materia de docencia, información y orientación profesional, en el [Real Decreto 1558/2005](../03_ordenacion_curricular_y_ensenanzas/BOE_2005_21534_diciembre_regulan_requisitos_básicos.md), de 23 de diciembre, por el que se regulan los requisitos básicos de los centros integrados de formación profesional.
 
 #### Artículo 5. Asignación de materias optativas y de módulos obligatorios de programas de cualificación profesional inicial.
 

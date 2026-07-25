@@ -30,6 +30,10 @@ fundamentos_derecho:
   - '1'
 - norma_id: norm-es-lo-2-2006
 - norma_id: norm-es-l-39-2015
+- norma_id: norm-es-2014-6008
+- norma_id: norm-es-2016-3229
+- norma_id: norm-es-2021-20113
+- norma_id: norm-es-2010-12201
 fuente_pdf_oficial: https://sede.gobiernodecanarias.org/boc/boc-a-2015-040-837.pdf
 fuente_juriscan: http://www.gobcan.es/juriscan/ficha.jsp?id=72176
 ---
@@ -53,15 +57,15 @@ La Ley Orgánica 6/2001, de 21 de diciembre, de Universidades, establece, en su 
 sición adicional vigésimo quinta, que el Gobierno regulará las condiciones básicas para el 
 acceso a la universidad de los mayores de 25 años que no estén en posesión del título de 
 bachiller o equivalente.
-Por su parte, la Ley Orgánica 2/2006, de 3 de mayo, de Educación, establece, en el artículo 
+Por su parte, la [Ley Orgánica 2/2006](../../../estatal/01_marco_normativo_general_y_organico/LO2_2006_ley_organica_educacion.md), de 3 de mayo, de Educación, establece, en el artículo 
 69.6, que las personas mayores de 25 años de edad podrán acceder directamente a la universi-
 dad, sin necesidad de titulación alguna, mediante la superación de una prueba específica.
-La Ley Orgánica 8/2013, de 9 de diciembre, para la Mejora de la Calidad Educativa 
+La [Ley Orgánica 8/2013](../../../estatal/03_ordenacion_curricular_y_ensenanzas/BOE_2016_3229_marzo_regula_procedimiento_incorporación.md), de 9 de diciembre, para la Mejora de la Calidad Educativa 
 (LOMCE) modifica los requisitos de admisión a las enseñanzas oficiales de Grado desde el 
 título de Bachiller o equivalente, desde el título de Técnico Superior de Formación Profe-
 sional, de Técnico Superior de Artes Plásticas y Diseño o de Técnico Deportivo Superior así 
 como para los estudiantes procedentes de sistemas educativos extranjeros.
-Es el Real Decreto 412/2014, de 6 de junio, por el que se establece la normativa básica 
+Es el [Real Decreto 412/2014](../../../estatal/03_ordenacion_curricular_y_ensenanzas/BOE_2014_6008_junio_establece_normativa_básica.md), de 6 de junio, por el que se establece la normativa básica 
 de los procedimientos de acceso para el acceso a las enseñanzas universitarias oficiales de 
 grado y los procedimientos de admisión a las universidades públicas españolas, el que ha ve-
 nido a desarrollar estas previsiones normativas, estableciendo las condiciones básicas para 

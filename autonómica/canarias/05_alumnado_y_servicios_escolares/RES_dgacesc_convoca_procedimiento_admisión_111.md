@@ -38,6 +38,13 @@ fundamentos_derecho:
 - norma_id: norm-can-l-6-2014
   articulos:
   - '1'
+- norma_id: norm-can-d-84-2024
+- norma_id: norm-can-d-9-2022
+- norma_id: norm-es-lo-2-2006
+- norma_id: norm-es-lo-3-2018
+- norma_id: norm-es-2021-20113
+- norma_id: norm-es-2024-11613
+- norma_id: norm-es-2010-12201
 fuente_pdf_oficial: https://sede.gobiernodecanarias.org/boc/boc-a-2026-039-643.pdf
 ---
 # Resolución de 5 de febrero de 2026, de la DGACESC, por la que se convoca el procedimiento de admisión del alumnado en centros docentes que oferten enseñanzas de Educación Infantil, Educación Primaria, Educación Secundaria Obligatoria, Bachillerato y Educación de Personas Adultas sostenidos con fondos públicos, para el curso escolar 2026-2027, en la Comunidad Autónoma de Canarias (BOC núm. 31, de 16 de febrero).
@@ -57,7 +64,7 @@ Dirección General competente en materia de enseñanzas artísticas superiores c
 procedimiento de admisión y organizar anualmente las pruebas de acceso a las enseñanzas 
 artísticas superiores.
 FUNDAMENTOS DE DERECHO
-Primero.- La Ley 1/2024, de 7 de junio, por la que se regulan las enseñanzas artísticas 
+Primero.- La [Ley 1/2024](../../../estatal/03_ordenacion_curricular_y_ensenanzas/BOE_2024_11613_junio_regulan_enseñanzas_artísticas.md), de 7 de junio, por la que se regulan las enseñanzas artísticas 
 superiores y se establece la organización y equivalencias de las enseñanzas artísticas 
 profesionales (en adelante, 
 LEA), contempla en su artículo 7.1 que para acceder a los estudios 
@@ -79,7 +86,7 @@ a los que se refiere el apartado 7.1.a). En todo caso, quienes accedan de esta f
 superar, además de la prueba específica a la que se refiere el apartado 7.1.b), una prueba 
 que acredite que la persona aspirante ha alcanzado el desarrollo de las competencias clave 
 previsto al finalizar el bachillerato conforme a lo previsto en el Capítulo IV del Título I de la 
-Ley Orgánica 2/2006, de 3 de mayo, y en la normativa de desarrollo correspondiente.
+[Ley Orgánica 2/2006](../../../estatal/01_marco_normativo_general_y_organico/LO2_2006_ley_organica_educacion.md), de 3 de mayo, y en la normativa de desarrollo correspondiente.
 Por otra parte, la disposición transitoria quinta de esta ley establece que, mientras no 
 se desarrolle reglamentariamente la normativa, se deben aplicar las disposiciones previas 
 siempre que no sean contradictorias con lo dispuesto en la 
@@ -97,7 +104,7 @@ Según lo expuesto, sigue siendo de aplicación, de forma transitoria, la prueba
 para las personas aspirantes de dieciséis y de diecisiete años que no posean los requisitos 
 académicos exigidos en el fundamento primero y soliciten acceso a las enseñanzas artísticas 
 superiores de Música.
-Cuarto.- El Decreto 9/2022, de 20 de enero, por el que se regula la admisión del 
+Cuarto.- El [Decreto 9/2022](D9_2022_admision_alumnado_canarias.md), de 20 de enero, por el que se regula la admisión del 
 alumnado en centros docentes que oferten enseñanzas no universitarias sostenidas con 
 fondos públicos en la Comunidad Autónoma de Canarias, recoge en su disposición 
 adicional sexta que la admisión del alumnado en las enseñanzas artísticas superiores en 
@@ -141,7 +148,7 @@ realizar la convocatoria de las pruebas de acceso a las enseñanzas artísticas 
 la Comunidad Autónoma de Canarias, para el curso académico 2026-2027, con el fin de 
 garantizar su difusión y publicidad entre todas las personas interesadas.
 En atención a lo anteriormente indicado, y de conformidad con lo establecido en el 
-artículo 20 del Decreto 84/2024, de 10 de junio, por el que se aprueba el Reglamento 
+artículo 20 del [Decreto 84/2024](../01_marco_normativo_general_y_organico/D84_2024_reglamento_organico_consejeria.md), de 10 de junio, por el que se aprueba el Reglamento 
 Orgánico de la Consejería de Educación, Formación Profesional, Actividad Física 
 y Deportes que asigna competencias generales y específicas a la Dirección General de 
 Formación Profesional y Enseñanzas de Régimen Especial,
@@ -607,7 +614,7 @@ alumnado y gestión de centros escolares públicos. El órgano responsable de lo
 es la Consejería de Educación, Formación Profesional, Actividad Física y Deportes. Los 
 interesados podrán acudir al centro en el que se haya presentado la solicitud, para ejercer 
 los derechos de acceso, rectificación, cancelación y oposición, en los términos establecidos 
-en la Ley Orgánica 3/2018, de 5 de diciembre, de Protección de Datos Personales y garantía 
+en la [Ley Orgánica 3/2018](../../../estatal/02_gestion_y_administracion_centros/LO3_2018_proteccion_datos_personales.md), de 5 de diciembre, de Protección de Datos Personales y garantía 
 de los derechos digitales.
 Noveno.- Publicación.
 Ordenar su publicación en el Boletín Oficial de Canarias y en la página web de la 
@@ -797,7 +804,7 @@ Tratamiento de datos de carácter personal. Responsable del tratamiento: Conseje
 Actividad Física y Deportes del Gobierno de Canarias. Finalidad del tratamiento: Gestionar la escolarización del alumnado  
 que accede por primera vez a un centro público o privado concertado de enseñanzas no universitarias o que accede a  
 enseñanzas postobligatorias. Legitimación:- Artículo 6.1.c) del Reglamento UE 2016/679 General de Protección de Datos.  
--Ley Orgánica 2/2006, de 3 de mayo, de Educación. Ley 6/2014, de 25 de julio, Canaria de Educación no Universitaria.  
+-Ley Orgánica 2/2006, de 3 de mayo, de Educación. [Ley 6/2014](../01_marco_normativo_general_y_organico/L6_2014_ley_canaria_educacion.md), de 25 de julio, Canaria de Educación no Universitaria.  
 Destinatarios de cesiones o transferencias: No hay cesiones. No hay transferencias internacionales previstas. Derechos de  
 las personas interesadas: De acuerdo con el Reglamento General de Protección de Datos, podrá ejercer los derechos de  
 acceso,  rectificación,  supresión,  limitación  del  tratamiento,  oposición  y  a  no  ser  objeto  de  decisiones  individualizadas 

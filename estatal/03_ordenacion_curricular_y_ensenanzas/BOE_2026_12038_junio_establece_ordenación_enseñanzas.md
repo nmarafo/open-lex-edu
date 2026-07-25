@@ -33,20 +33,34 @@ fundamentos_derecho:
   articulos:
   - '1'
 - norma_id: norm-es-lo-2-2006
+- norma_id: norm-can-res-boc-2024-230-25
+- norma_id: norm-can-res-134
+- norma_id: norm-es-2001-7022
+- norma_id: norm-es-l-31-1995
+- norma_id: norm-es-lo-3-2018
+- norma_id: norm-es-2021-20113
+- norma_id: norm-es-2024-11613
+- norma_id: norm-es-2026-15301
+- norma_id: norm-es-lo-3-2022
+- norma_id: norm-es-rd-243-2022
+- norma_id: norm-es-rd-659-2023
+- norma_id: norm-es-2007-10487
+- norma_id: norm-es-2010-12201
+- norma_id: norm-es-2013-12632
 ---
-# Real Decreto 452/2026, de 3 de junio, por el que se establece la ordenación de las Enseñanzas Profesionales de Artes Plásticas y Diseño.
+# [Real Decreto 452/2026](BOE_2026_15301_junio_establece_ordenación_enseñanzas.md), de 3 de junio, por el que se establece la ordenación de las Enseñanzas Profesionales de Artes Plásticas y Diseño.
 
-La Ley Orgánica 2/2006, de 3 de mayo, de Educación, incluye las Enseñanzas Profesionales de Artes Plásticas y Diseño entre las enseñanzas artísticas, a las que dedica el capítulo VI de su título I. Su finalidad es proporcionar una formación artística de calidad al alumnado y garantizar la cualificación de los futuros profesionales del ámbito de las artes plásticas y el diseño.
+La [Ley Orgánica 2/2006](../01_marco_normativo_general_y_organico/LO2_2006_ley_organica_educacion.md), de 3 de mayo, de Educación, incluye las Enseñanzas Profesionales de Artes Plásticas y Diseño entre las enseñanzas artísticas, a las que dedica el capítulo VI de su título I. Su finalidad es proporcionar una formación artística de calidad al alumnado y garantizar la cualificación de los futuros profesionales del ámbito de las artes plásticas y el diseño.
 
 Específicamente, la Ley Orgánica 2/2006, de 3 de mayo, dedica la sección segunda del capítulo VI a las Enseñanzas Profesionales de Artes Plásticas y Diseño, detallando diversos aspectos relacionados con su organización, los requisitos de acceso y las titulaciones que proporcionan. Así, se establece que estas enseñanzas se organizarán en ciclos de formación específica conforme a lo dispuesto en el capítulo de la ley dedicado a la Formación Profesional, con las salvedades que se establecen en los artículos 52 y 53 de la ley orgánica, a la vez que se regula la obligatoriedad de que los ciclos formativos de estas enseñanzas incluyan una fase de práctica en empresas, estudios y talleres. Por último, la norma enmarca los ciclos formativos de grado medio en la educación secundaria postobligatoria y los de grado superior en la educación superior.
 
-En desarrollo de lo dispuesto en dicha Ley Orgánica 2/2006, de 3 de mayo, se publicó el Real Decreto 596/2007, de 4 de mayo, por el que se establece la ordenación general de las Enseñanzas Profesionales de Artes Plásticas y Diseño. En él se disponen las directrices generales, las enseñanzas mínimas, estructura y efectos de los títulos, incorporando criterios de capacitación acordes con las competencias profesionales y con referentes europeos, a la vez que se regulan el acceso, la evaluación, la movilidad y la formación continua del alumnado, así como aspectos relacionados con las convalidaciones y exenciones.
+En desarrollo de lo dispuesto en dicha Ley Orgánica 2/2006, de 3 de mayo, se publicó el [Real Decreto 596/2007](../05_alumnado_y_servicios_escolares/BOE_2007_10487_mayo_establece_ordenación_general.md), de 4 de mayo, por el que se establece la ordenación general de las Enseñanzas Profesionales de Artes Plásticas y Diseño. En él se disponen las directrices generales, las enseñanzas mínimas, estructura y efectos de los títulos, incorporando criterios de capacitación acordes con las competencias profesionales y con referentes europeos, a la vez que se regulan el acceso, la evaluación, la movilidad y la formación continua del alumnado, así como aspectos relacionados con las convalidaciones y exenciones.
 
 Por su parte, la Ley Orgánica 3/2020, de 29 de diciembre, por la que se modifica la Ley Orgánica 2/2006, de 3 de mayo, de Educación, introdujo modificaciones que afectaron de forma significativa a las Enseñanzas Profesionales de Artes Plásticas y Diseño, estableciendo nuevos supuestos para el acceso y la admisión, así como ampliando los efectos de sus titulaciones.
 
 Como consecuencia de lo anterior, se hizo necesario hacer ciertas adaptaciones en el Real Decreto 596/2007, de 4 de mayo. Con ese fin se publicó el Real Decreto 628/2022, de 26 de julio, por el que se modifican varios reales decretos para la aplicación de la Ley Orgánica 3/2020, de 29 de diciembre, por la que se modifica la Ley Orgánica 2/2006, de 3 de mayo, de Educación, a las enseñanzas artísticas y las enseñanzas deportivas, y la adecuación de determinados aspectos de la ordenación general de dichas enseñanzas.
 
-A su vez, la Ley 1/2024, de 7 de junio, por la que se regulan las enseñanzas artísticas superiores y se establece la organización y equivalencias de las enseñanzas artísticas profesionales, introduce en su título II importantes novedades en relación con las enseñanzas artísticas profesionales, algunas de ellas específicamente dirigidas a las Enseñanzas Profesionales de Artes Plásticas y Diseño. Así, la Ley 1/2024, de 7 de junio, contempla que, cuando así se prevea en función de sus características en la regulación de los títulos correspondientes, determinadas enseñanzas y especialidades podrán acogerse a un modelo de carácter dual que permita que los procesos de enseñanza y aprendizaje se lleven a cabo de forma combinada en centros educativos y centros de trabajo. Este modelo se regulará en los términos propuestos en la Ley Orgánica 3/2022, de 31 de marzo, de ordenación e integración de la Formación Profesional.
+A su vez, la [Ley 1/2024](BOE_2024_11613_junio_regulan_enseñanzas_artísticas.md), de 7 de junio, por la que se regulan las enseñanzas artísticas superiores y se establece la organización y equivalencias de las enseñanzas artísticas profesionales, introduce en su título II importantes novedades en relación con las enseñanzas artísticas profesionales, algunas de ellas específicamente dirigidas a las Enseñanzas Profesionales de Artes Plásticas y Diseño. Así, la Ley 1/2024, de 7 de junio, contempla que, cuando así se prevea en función de sus características en la regulación de los títulos correspondientes, determinadas enseñanzas y especialidades podrán acogerse a un modelo de carácter dual que permita que los procesos de enseñanza y aprendizaje se lleven a cabo de forma combinada en centros educativos y centros de trabajo. Este modelo se regulará en los términos propuestos en la [Ley Orgánica 3/2022](../../autonómica/canarias/08_personal_docente/RES_dirección_general_personal_sobre_134.md), de 31 de marzo, de ordenación e integración de la Formación Profesional.
 
 Asimismo, la Ley 1/2024, de 7 de junio, dispone que las administraciones educativas competentes y las universidades promoverán el reconocimiento mutuo de créditos del Sistema Europeo de Transferencia de Créditos (ECTS) entre los ciclos formativos de grado superior y los títulos oficiales de Grado, con objeto de facilitar el establecimiento de itinerarios formativos que reconozcan la formación previamente adquirida en ambos sentidos.
 
@@ -86,7 +100,7 @@ Por último, se incluyen una disposición derogatoria única y cinco disposicion
 
 El real decreto se acompaña de un total de cinco anexos.
 
-Cabe mencionar que este real decreto se ajusta a los principios de buena regulación contenidos en la Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común de las Administraciones Públicas. En concreto, es acorde con los principios de necesidad y eficacia, en tanto que el mismo persigue el interés general al facilitar la comprensión y aplicabilidad de las modificaciones recientemente introducidas en la Ley Orgánica 2/2006, de 3 de mayo, y clarificar otros aspectos de la ordenación de las Enseñanzas Profesionales de Artes Plásticas y Diseño derivadas de la Ley 1/2024, de 7 de junio.
+Cabe mencionar que este real decreto se ajusta a los principios de buena regulación contenidos en la [Ley 39/2015](../01_marco_normativo_general_y_organico/L39_2015_procedimiento_administrativo_comun.md), de 1 de octubre, del Procedimiento Administrativo Común de las Administraciones Públicas. En concreto, es acorde con los principios de necesidad y eficacia, en tanto que el mismo persigue el interés general al facilitar la comprensión y aplicabilidad de las modificaciones recientemente introducidas en la Ley Orgánica 2/2006, de 3 de mayo, y clarificar otros aspectos de la ordenación de las Enseñanzas Profesionales de Artes Plásticas y Diseño derivadas de la Ley 1/2024, de 7 de junio.
 
 Asimismo, este real decreto cumple estrictamente con el principio de proporcionalidad, no existiendo ninguna alternativa regulatoria menos restrictiva de derechos, y con el de seguridad jurídica, al resultar coherente con el ordenamiento jurídico. Se cumple también con el principio de eficiencia, ya que permite una gestión más eficiente de los recursos públicos. Del mismo modo, se respeta el principio de transparencia, pues durante el procedimiento de elaboración de la norma se ha garantizado la participación de las potenciales personas destinatarias a través del trámite de audiencia e información pública y quedan justificados los objetivos que persigue.
 
@@ -388,7 +402,7 @@ d) La Formación práctica en empresas, estudios o talleres podrá acogerse a 
 
 1. Además de la formación preventiva adquirida por la superación del módulo profesional de Empleabilidad y gestión de la actividad profesional, los módulos profesionales incorporarán en sus enseñanzas, cuando proceda, aquellos aspectos que se consideren necesarios para una eficaz prevención de los riesgos laborales específicos del ejercicio profesional correspondiente, así como los vinculados a la protección medioambiental y al tratamiento, aprovechamiento y eliminación de residuos derivados de la actividad profesional correspondiente. Antes de incorporarse a la Formación práctica en empresas, estudios y talleres, el alumnado deberá haber adquirido los resultados de aprendizaje correspondientes con los aspectos mencionados.
 
-2. Lo anterior se entenderá sin perjuicio de la plena aplicación, cuando proceda, de lo dispuesto en la Ley 31/1995, de 8 de noviembre, de Prevención de Riesgos Laborales y su normativa de desarrollo, por lo que sigue presente la obligación por parte de la empresa de formar a la persona trabajadora conforme al artículo 19 de la ley.
+2. Lo anterior se entenderá sin perjuicio de la plena aplicación, cuando proceda, de lo dispuesto en la [Ley 31/1995](../02_gestion_y_administracion_centros/L31_1995_prevencion_riesgos_laborales.md), de 8 de noviembre, de Prevención de Riesgos Laborales y su normativa de desarrollo, por lo que sigue presente la obligación por parte de la empresa de formar a la persona trabajadora conforme al artículo 19 de la ley.
 
 #### Artículo 18. Competencias en materia de currículo.
 
@@ -550,7 +564,7 @@ Las administraciones garantizarán, mediante el establecimiento de los oportunos
 
 #### Artículo 27. Derecho a la información sobre el proceso de formación personal.
 
-El alumnado tendrá derecho a conocer las decisiones relativas a su evaluación, promoción y titulación, así como a acceder a la parte de los documentos oficiales de evaluación personales y las pruebas y documentos de las evaluaciones que se le realicen, sin perjuicio del respeto a las garantías establecidas en la Ley Orgánica 3/2018, de 5 de diciembre, de Protección de Datos Personales y garantía de los derechos digitales y demás normativa aplicable en materia de protección de datos de carácter personal.
+El alumnado tendrá derecho a conocer las decisiones relativas a su evaluación, promoción y titulación, así como a acceder a la parte de los documentos oficiales de evaluación personales y las pruebas y documentos de las evaluaciones que se le realicen, sin perjuicio del respeto a las garantías establecidas en la [Ley Orgánica 3/2018](../02_gestion_y_administracion_centros/LO3_2018_proteccion_datos_personales.md), de 5 de diciembre, de Protección de Datos Personales y garantía de los derechos digitales y demás normativa aplicable en materia de protección de datos de carácter personal.
 
 CAPÍTULO VI
 
@@ -582,7 +596,7 @@ Asimismo, desplegarán los efectos que les correspondan con arreglo a la normati
 
 2. El título de Técnico o Técnica de Artes Plásticas y Diseño se corresponde con un nivel 4A del Marco Español de Cualificaciones para el Aprendizaje Permanente (MECU) y permitirá el acceso al Bachillerato y a los ciclos formativos de grado superior de Formación Profesional y de Enseñanzas Profesionales de Artes Plásticas y Diseño.
 
-3. El título de Técnico o Técnica de Artes Plásticas y Diseño permitirá obtener el título de Bachiller en la modalidad de Artes mediante la superación de las materias comunes de bachillerato, en consonancia con lo establecido en el Real Decreto 243/2022, de 5 de abril, por el que se establecen la ordenación y las enseñanzas mínimas del Bachillerato, sin perjuicio del régimen de convalidaciones regulado para estas enseñanzas.
+3. El título de Técnico o Técnica de Artes Plásticas y Diseño permitirá obtener el título de Bachiller en la modalidad de Artes mediante la superación de las materias comunes de bachillerato, en consonancia con lo establecido en el [Real Decreto 243/2022](RD243_2022_ordenacion_ensenanzas_minimas_bachillerato.md), de 5 de abril, por el que se establecen la ordenación y las enseñanzas mínimas del Bachillerato, sin perjuicio del régimen de convalidaciones regulado para estas enseñanzas.
 
 4. El título de Técnico o Técnica Superior de Artes Plásticas y Diseño se corresponde con el nivel 5A del Marco Español de Cualificaciones para el Aprendizaje Permanente (MECU) y con el nivel 1 del Marco Español de Cualificaciones para la Educación Superior (MECES).
 
@@ -732,7 +746,7 @@ El Gobierno, previa consulta a las comunidades autónomas, podrá establecer el 
 
 1. En la norma que regule cada título se incluirá un anexo con información sobre la correspondencia entre determinados módulos profesionales y los ECP del Catálogo. Esta correspondencia tendrá efectos tanto para la acreditación de dichos ECP por la superación del módulo o módulos profesionales asociados, como para la convalidación del módulo o módulos profesionales por haber obtenido previamente la acreditación de los ECP correspondientes.
 
-2. Los ECP del Catálogo acreditados por un procedimiento formal de acreditación de competencias profesionales conforme a lo establecido en el Real Decreto 659/2023, de 18 de julio, por el que se desarrolla la ordenación del Sistema de Formación Profesional permitirán la convalidación de los módulos profesionales de los ciclos formativos de Artes Plásticas y Diseño vinculados a dicho ECP.
+2. Los ECP del Catálogo acreditados por un procedimiento formal de acreditación de competencias profesionales conforme a lo establecido en el [Real Decreto 659/2023](../../autonómica/canarias/03_ordenacion_curricular_y_ensenanzas/RES_dirección_general_formación_profesional_25.md), de 18 de julio, por el que se desarrolla la ordenación del Sistema de Formación Profesional permitirán la convalidación de los módulos profesionales de los ciclos formativos de Artes Plásticas y Diseño vinculados a dicho ECP.
 
 3. La convalidación se resolverá por el centro educativo, previa solicitud de la persona interesada y una vez formalizada la matrícula. Los módulos profesionales que correspondan se registrarán como «Convalidado» en todos los documentos de evaluación y computarán como «5» para el cálculo de la nota media final de la nueva formación.
 
@@ -762,7 +776,7 @@ Orientación personal, académica y profesional
 
 #### Disposición adicional primera. Medidas en materia de igualdad de oportunidades, no discriminación y accesibilidad universal.
 
-Las administraciones educativas establecerán las medidas oportunas que garanticen el cumplimiento de lo establecido en el texto refundido de la Ley General de derechos de las personas con discapacidad y de su inclusión social, aprobado por el Real Decreto Legislativo 1/2013, de 29 de noviembre, para establecer y regular la accesibilidad cognitiva y sus condiciones de exigencia y aplicación, a fin de facilitar al alumnado los medios y recursos que se precisen para acceder y cursar las enseñanzas profesionales de Artes Plásticas y Diseño.
+Las administraciones educativas establecerán las medidas oportunas que garanticen el cumplimiento de lo establecido en el texto refundido de la Ley General de derechos de las personas con discapacidad y de su inclusión social, aprobado por el [Real Decreto Legislativo 1/2013](../07_convivencia_bienestar_y_protocolos/BOE_2013_12632_noviembre_aprueba_texto_refundido.md), de 29 de noviembre, para establecer y regular la accesibilidad cognitiva y sus condiciones de exigencia y aplicación, a fin de facilitar al alumnado los medios y recursos que se precisen para acceder y cursar las enseñanzas profesionales de Artes Plásticas y Diseño.
 
 #### Disposición adicional segunda. Acreditación de condiciones de acceso del alumnado a determinadas Enseñanzas Profesionales de Artes Plásticas y Diseño.
 
@@ -810,7 +824,7 @@ En el ejercicio de su autonomía, y en el marco que establezca la Administració
 
 1. En aquellos aspectos para cuya regulación este real decreto remite a ulteriores disposiciones reglamentarias, y en tanto estas no sean dictadas, serán de aplicación, en cada caso, las normas de este rango que lo venían siendo a la fecha de entrada en vigor de este real decreto, siempre que no se opongan a lo dispuesto en él.
 
-2. Los títulos de Técnico y de Técnico Superior de la Ley Orgánica 1/1990, de 3 de octubre, de Ordenación del Sistema Educativo que no tengan declarada la equivalencia a efectos académicos y profesionales, respectivamente, a un título de Técnico y de Técnico Superior de la Ley Orgánica 2/2006, de 3 de mayo, tendrán los mismos efectos académicos y profesionales que correspondan al título genérico de Técnico o Técnico Superior de Artes Plásticas y Diseño del sistema educativo vigente.
+2. Los títulos de Técnico y de Técnico Superior de la [Ley Orgánica 1/1990](../02_gestion_y_administracion_centros/BOE_2001_7022_correspondientes_españoles_educación_secundaria.md), de 3 de octubre, de Ordenación del Sistema Educativo que no tengan declarada la equivalencia a efectos académicos y profesionales, respectivamente, a un título de Técnico y de Técnico Superior de la Ley Orgánica 2/2006, de 3 de mayo, tendrán los mismos efectos académicos y profesionales que correspondan al título genérico de Técnico o Técnico Superior de Artes Plásticas y Diseño del sistema educativo vigente.
 
 #### Disposición transitoria segunda. Calendario de aplicación del régimen de acceso y admisión recogido en esta norma.
 

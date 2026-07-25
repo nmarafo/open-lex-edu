@@ -29,6 +29,8 @@ fundamentos_derecho:
   articulos:
   - '1'
 - norma_id: norm-es-lo-2-2006
+- norma_id: norm-es-2021-20113
+- norma_id: norm-es-2010-12201
 fuente_pdf_oficial: https://sede.gobiernodecanarias.org/boc/boc-a-2020-130-2054.pdf
 ---
 # Resolución de 11 de junio de 2020, por la que se dictan instrucciones para la organización y el funcionamiento del Curso Específico de Acceso a Ciclos Formativos de Formación Profesional de Grado Medio a impartir en centros de educación de personas adultas dependientes de esta Consejería (BOC n.º 130, de 30 de junio).
@@ -42,7 +44,7 @@ funcionamiento del Curso Específico de Acceso a Ciclos Formativos de Formación
 Profesional de Grado Medio a impartir en centros de educación de personas adultas 
 dependientes de esta Consejería.
 Debido a la necesidad de dar cumplimiento a lo establecido en el artículo 41.2 de la 
-Ley Orgánica 2/2006, de 3 de mayo, de Educación y ante la necesidad de dar respuesta al 
+[Ley Orgánica 2/2006](../../../estatal/01_marco_normativo_general_y_organico/LO2_2006_ley_organica_educacion.md), de 3 de mayo, de Educación y ante la necesidad de dar respuesta al 
 alumnado que no puede acceder a la Formación Profesional de Grado Medio, por no reunir 
 los requisitos establecidos para ello, se hace necesario organizar el Curso Específico de 
 Acceso a Ciclos Formativos de Grado Medio a impartir en centros de educación de personas 
@@ -91,7 +93,7 @@ En su artículo 16, en relación con el 21, se establecen instrucciones respecto
 formativo específico y las disposiciones comunes para los cursos y las pruebas de acceso, 
 y específicamente en su apartado 5 se concreta que “las Administraciones educativas 
 determinarán los centros públicos que podrán impartir estos cursos”.
-Tercero.-  La Ley 6/2014, de 25 de julio,  Canaria de Educación no universitaria establece 
+Tercero.-  La [Ley 6/2014](../01_marco_normativo_general_y_organico/L6_2014_ley_canaria_educacion.md), de 25 de julio,  Canaria de Educación no universitaria establece 
 en su artículo 5 como uno de los objetivos del sistema educativo canario “2.a) Garantizar 
 el desarrollo integral de todas las personas para que puedan alcanzar el mayor nivel en sus 
 capacidades que les permitan el pleno ejercicio de sus derechos y deberes de ciudadanía, así 

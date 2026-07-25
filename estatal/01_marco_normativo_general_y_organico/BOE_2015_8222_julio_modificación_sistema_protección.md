@@ -26,6 +26,9 @@ fundamentos_derecho:
 - norma_id: norm-es-ce-1978
   articulos:
   - '27'
+- norma_id: norm-es-2000-544
+- norma_id: norm-es-lo-1-1996
+- norma_id: norm-es-lo-1-2004
 ---
 # Ley Orgánica 8/2015, de 22 de julio, de modificación del sistema de protección a la infancia y a la adolescencia.
 
@@ -45,7 +48,7 @@ El artículo 39 de la Constitución establece la obligación de los poderes pú
 
 En cumplimiento de este mandato, el legislador estatal, en el marco de sus competencias, ha regulado las instituciones jurídico-públicas y privadas sobre las que se asienta la protección del menor.
 
-El resultado, cuyo máximo exponente es la Ley Orgánica 1/1996, de 15 de enero, de Protección Jurídica del Menor, de modificación parcial del Código Civil y de Enjuiciamiento Civil, en adelante Ley Orgánica de Protección Jurídica del Menor, es un marco regulador que garantiza a los menores una protección uniforme en todo el territorio del Estado, y que ha servido de referencia a la legislación que las Comunidades Autónomas han ido aprobando de acuerdo con su competencia en materia de asistencia social, servicios sociales y protección pública de menores.
+El resultado, cuyo máximo exponente es la [Ley Orgánica 1/1996](LO1_1996_proteccion_juridica_menor.md), de 15 de enero, de Protección Jurídica del Menor, de modificación parcial del Código Civil y de Enjuiciamiento Civil, en adelante Ley Orgánica de Protección Jurídica del Menor, es un marco regulador que garantiza a los menores una protección uniforme en todo el territorio del Estado, y que ha servido de referencia a la legislación que las Comunidades Autónomas han ido aprobando de acuerdo con su competencia en materia de asistencia social, servicios sociales y protección pública de menores.
 
 Sin embargo, transcurridos casi veinte años desde la aprobación de la citada norma, se han producido importantes cambios sociales que inciden en la situación de los menores y que demandan una mejora de sus instrumentos de protección jurídica en aras del cumplimiento efectivo del citado artículo 39 de la Constitución.
 
@@ -53,7 +56,7 @@ Así se constata en las Recomendaciones contenidas en el Informe sobre «Centros
 
 De conformidad con las propuestas y recomendaciones referidas, esta ley tiene como objeto introducir los cambios jurídicos-procesales y sustantivos necesarios en aquellos ámbitos considerados como materia orgánica, al incidir en los derechos fundamentales y libertades públicas establecidos en los artículos 14, 15, 16, 17.1, 18.2 y 24 de la Constitución. Se busca con ello la mejora de los citados instrumentos de protección, a los efectos de continuar garantizando a los menores una protección uniforme en todo el territorio del Estado, que sirva de marco a las Comunidades Autónomas en el desarrollo de su respectiva legislación de protección de menores, con independencia de su situación administrativa, en caso de extranjeros. Para ello, mediante dos artículos y tres disposiciones finales, se procede a la modificación de las principales leyes que regulan las instituciones para la protección de los menores.
 
-En el artículo primero se establecen las modificaciones de la Ley Orgánica de Protección Jurídica del Menor; en el artículo segundo se determinan las modificaciones que afectan a la Ley 1/2000, de 7 de enero, de Enjuiciamiento Civil, en lo sucesivo Ley de Enjuiciamiento Civil; en la disposición final primera se recogen las modificaciones correspondientes a la Ley Orgánica 6/1985, de 1 de julio, del Poder Judicial, en adelante Ley Orgánica del Poder Judicial; en la disposición final segunda se modifica la Ley Orgánica 4/2000, de 11 de enero, sobre derechos y libertades de los extranjeros en España y su integración social y en la disposición final tercera se modifica la Ley Orgánica 1/2004, de 28 de diciembre, de Medidas de Protección Integral contra la Violencia de Género.
+En el artículo primero se establecen las modificaciones de la Ley Orgánica de Protección Jurídica del Menor; en el artículo segundo se determinan las modificaciones que afectan a la Ley 1/2000, de 7 de enero, de Enjuiciamiento Civil, en lo sucesivo Ley de Enjuiciamiento Civil; en la disposición final primera se recogen las modificaciones correspondientes a la Ley Orgánica 6/1985, de 1 de julio, del Poder Judicial, en adelante Ley Orgánica del Poder Judicial; en la disposición final segunda se modifica la [Ley Orgánica 4/2000](BOE_2000_544_enero_sobre_derechos_libertades.md), de 11 de enero, sobre derechos y libertades de los extranjeros en España y su integración social y en la disposición final tercera se modifica la [Ley Orgánica 1/2004](../07_convivencia_bienestar_y_protocolos/LO1_2004_medidas_proteccion_violencia_genero.md), de 28 de diciembre, de Medidas de Protección Integral contra la Violencia de Género.
 
 **II**
 

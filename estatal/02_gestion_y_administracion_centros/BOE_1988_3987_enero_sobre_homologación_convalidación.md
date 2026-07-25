@@ -30,14 +30,16 @@ fundamentos_derecho:
   articulos:
   - '1'
   - '6'
+- norma_id: norm-es-1988-6938
+- norma_id: norm-es-2002-25289
 ---
-# Real Decreto 104/1988, de 29 de enero, sobre homologación y convalidación de títulos y estudios extranjeros de educación no universitaria.
+# [Real Decreto 104/1988](BOE_1988_6938_enero_sobre_homologación_convalidación.md), de 29 de enero, sobre homologación y convalidación de títulos y estudios extranjeros de educación no universitaria.
 
 El artículo 149.1.30 de la Constitución establece que el Estado tiene competencia exclusiva en orden a la regulación de las condiciones de obtención, expedición y homologación de títulos académicos y profesionales.
 
 Por lo que se refiere a la educación universitaria, el artículo 32.2 de la Ley Orgánica 11/1983, de 25 de agosto, de reforma universitaria, determina que el Gobierno regulará las condiciones de homologación de títulos extranjeros.
 
-Por último, la disposición adicional primera, dos, c), de la Ley Orgánica 8/1985, de 3 de julio, reguladora del derecho a la educación, prevé que corresponde al Estado la regulación de las condiciones para la obtención, expedición y homologación de títulos académicos y profesionales válidos en todo el territorio español.
+Por último, la disposición adicional primera, dos, c), de la [Ley Orgánica 8/1985](LO8_1985_derecho_educacion.md), de 3 de julio, reguladora del derecho a la educación, prevé que corresponde al Estado la regulación de las condiciones para la obtención, expedición y homologación de títulos académicos y profesionales válidos en todo el territorio español.
 
 Uno de los objetivos del presente Real Decreto es el de homogeneizar los criterios inspiradores de la homologación y convalidación de títulos y estudios extranjeros no universitarios con los establecidos en el Real Decreto citado.
 

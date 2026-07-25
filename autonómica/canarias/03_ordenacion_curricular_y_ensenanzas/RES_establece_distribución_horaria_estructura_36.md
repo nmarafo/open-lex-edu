@@ -39,6 +39,15 @@ fundamentos_derecho:
 - norma_id: norm-can-l-6-2014
   articulos:
   - '1'
+- norma_id: norm-can-d-84-2024
+- norma_id: norm-can-lo-1-2018
+- norma_id: norm-can-res-boc-2024-230-25
+- norma_id: norm-can-res-134
+- norma_id: norm-es-l-39-2015
+- norma_id: norm-es-rd-39-1997
+- norma_id: norm-es-2025-2039
+- norma_id: norm-es-lo-3-2022
+- norma_id: norm-es-rd-659-2023
 fuente_pdf_oficial: https://sede.gobiernodecanarias.org/boc/boc-a-2026-045-735.pdf
 ---
 # Resolución de 25 de febrero de 2026, por la que se establece la distribución horaria y estructura modular de los Grados C (Certificados Profesionales) y sus correspondientes Grados B (Certificados de Competencia), de niveles 2 y 3, de las familias profesionales de Artes Gráficas; Fabricación Mecánica; y Servicios Socioculturales y a la Comunidad, en el ámbito de la Comunidad Autónoma de Canarias.
@@ -51,7 +60,7 @@ modular de los Grados C (Certificados Profesionales) y sus correspondientes Grad
 B (Certificados de Competencia), de niveles 2 y 3, de las familias profesionales 
 de Artes Gráficas; Fabricación Mecánica; y Servicios Socioculturales y a la 
 Comunidad, en el ámbito de la Comunidad Autónoma de Canarias.
-La Ley Orgánica 3/2022, de 31 de marzo, de ordenación e integración de la Formación 
+La [Ley Orgánica 3/2022](../08_personal_docente/RES_dirección_general_personal_sobre_134.md), de 31 de marzo, de ordenación e integración de la Formación 
 Profesional, establece en su artículo 5.1 y en los apartados a) y b) de su artículo 5.3 
 que el Sistema de Formación Profesional se configura como un conjunto articulado de 
 actuaciones orientadas a la identificación de las competencias profesionales demandadas 
@@ -63,7 +72,7 @@ organiza conforme a un modelo basado en itinerarios formativos que facilitan la 
 en la formación, estructurado en una doble escala: cinco Grados ascendentes (A, B, C, D y 
 E) y tres niveles de competencia profesional (1, 2 y 3), de acuerdo con el Catálogo Nacional 
 de Estándares de Competencias Profesionales.
-Por su parte, el Real Decreto 659/2023, de 18 de julio, por el que se desarrolla la 
+Por su parte, el [Real Decreto 659/2023](RES_dirección_general_formación_profesional_25.md), de 18 de julio, por el que se desarrolla la 
 ordenación del Sistema de Formación Profesional, regula en su artículo 4 la organización 
 de las distintas ofertas formativas que integran dicho sistema, estableciendo el marco 
 general para su implantación y desarrollo por las administraciones competentes.
@@ -112,7 +121,7 @@ las familias profesionales señaladas, en el ámbito territorial de la Comunidad
 de Canarias.
 A los antecedentes expuestos les son de aplicación los siguientes
 FUNDAMENTOS DE DERECHO
-Primero.- La Ley Orgánica 1/2018, de 5 de noviembre, de reforma del Estatuto de 
+Primero.- La [Ley Orgánica 1/2018](../01_marco_normativo_general_y_organico/LO1_2018_estatuto_autonomia_canarias.md), de 5 de noviembre, de reforma del Estatuto de 
 Autonomía de Canarias, en su artículo 133.1, establece que “Corresponde a la Comunidad 
 Autónoma de Canarias la competencia de desarrollo legislativo y de ejecución, en materia de 
 enseñanza no universitaria, con relación a las enseñanzas obligatorias y no obligatorias que 
@@ -120,7 +129,7 @@ conducen a la obtención de un título académico o profesional con validez en t
 (...)”. Dicha competencia comprende, asimismo, el establecimiento de los correspondientes 
 planes de estudio y la ordenación curricular de las enseñanzas, de conformidad con lo 
 previsto en el artículo 133.3.c) del citado texto legal.
-Segundo.- La Ley 6/2014, de 25 de julio, Canaria de Educación no Universitaria, 
+Segundo.- La [Ley 6/2014](../01_marco_normativo_general_y_organico/L6_2014_ley_canaria_educacion.md), de 25 de julio, Canaria de Educación no Universitaria, 
 dispone en su artículo 33.3 que, de acuerdo con la normativa básica del Estado, una vez 
 
 aprobado el Real Decreto correspondiente a un título de formación profesional y hasta que 
@@ -140,7 +149,7 @@ Al certificado profesional con código SSCS0208, establecido en el citado Real D
 e incluido en el Anexo III de la presente Resolución, le es de aplicación la disposición 
 transitoria primera del Real Decreto 659/2023, de 18 de julio, por el que se desarrolla 
 la ordenación del Sistema de Formación Profesional, así como la disposición adicional 
-cuarta del Real Decreto 69/2025, de 4 de febrero, por el que se desarrollan los elementos 
+cuarta del [Real Decreto 69/2025](../../../estatal/03_ordenacion_curricular_y_ensenanzas/BOE_2025_2039_febrero_desarrollan_elementos_integrantes.md), de 4 de febrero, por el que se desarrollan los elementos 
 integrantes y los instrumentos de gestión del Sistema Nacional de Formación Profesional, 
 y se modifica el Real Decreto 375/1999, de 5 de marzo, por el que se crea el Instituto 
 Nacional de las Cualificaciones.
@@ -158,7 +167,7 @@ mayor nivel del Catálogo Nacional de Estándares de Competencias Profesionales.
 Así mismo, en el punto 5 del citado artículo establece que todas las ofertas de Formación 
 Profesional tendrán carácter acreditable y acumulable, permitiendo progresar en itinerarios 
 de formación conducentes a otros de mayor grado.
-Séptimo.- El Decreto 84/2024, de 10 de junio, por el que se aprueba el Reglamento 
+Séptimo.- El [Decreto 84/2024](../01_marco_normativo_general_y_organico/D84_2024_reglamento_organico_consejeria.md), de 10 de junio, por el que se aprueba el Reglamento 
 Orgánico de la Consejería de Educación, Formación Profesional, Actividad Física y 
 Deportes, atribuye a la Dirección General de Formación Profesional y Enseñanzas de 
 Régimen Especial las competencias generales y específicas en materia de ordenación, 
@@ -216,7 +225,7 @@ los equipos directivos de los centros docentes que adopten las medidas oportunas
 garantizar su difusión entre los distintos sectores de la comunidad educativa.
 Contra la presente Resolución, que no pone fin a la vía administrativa, podrá interponerse 
 recurso de alzada ante el Consejero de Educación, Formación Profesional, Actividad Física y 
-Deportes, de conformidad con los artículos 121 y 122 de la Ley 39/2015, de 1 de octubre, del 
+Deportes, de conformidad con los artículos 121 y 122 de la [Ley 39/2015](../../../estatal/01_marco_normativo_general_y_organico/L39_2015_procedimiento_administrativo_comun.md), de 1 de octubre, del 
 Procedimiento Administrativo Común de las Administraciones Públicas, en el plazo de un mes, 
 a partir del día siguiente al de su publicación en el Boletín Oficial de Canarias, sin perjuicio de 
 cualquier otro que se estime procedente.
@@ -1654,6 +1663,6 @@ Antes del inicio de la estancia en empresa u organismo equiparado deberá garant
 cursado  el  módulo  Prevención  de  riesgos  laborales
 ,  formación  que  permite  alcanzar  las  competencias 
 necesarias  para  el  desempeño  de  las  funciones  de  nivel  básico  en  Prevención  de  Riesgos  Laborales, 
-establecidas en el artículo 35 del Real Decreto 39/1997, de 17 de enero, por el que se aprueba el Reglamento  
+establecidas en el artículo 35 del [Real Decreto 39/1997](../../../estatal/02_gestion_y_administracion_centros/RD39_1997_reglamento_servicios_prevencion.md), de 17 de enero, por el que se aprueba el Reglamento  
 de los Servicios de Prevención, sin perjuicio de lo establecido en el artículo 153.2.d). del Real Decreto  
 659/2023, de 18 de julio.

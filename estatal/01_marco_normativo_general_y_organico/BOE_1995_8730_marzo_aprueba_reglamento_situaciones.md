@@ -27,10 +27,12 @@ fundamentos_derecho:
   articulos:
   - '1'
   - '2.1'
+- norma_id: norm-es-1984-17387
+- norma_id: norm-es-1985-5392
 ---
 # Real Decreto 365/1995, de 10 de marzo, por el que se aprueba el Reglamento de Situaciones Administrativas de los Funcionarios Civiles de la Administración General del Estado.
 
-La importancia de las modificaciones en materia de situaciones administrativas de los funcionarios llevadas a cabo por la Ley 22/1993, de 29 de diciembre, de Medidas Fiscales, de Reforma del Régimen Jurídico de la Función Pública y de la Protección por Desempleo, determina la necesidad de actualizar las normas reglamentarias dictadas al efecto en desarrollo de la Ley 30/1984, de 2 de agosto, de Medidas para la Reforma de la Función Pública, contenidas en el Reglamento aprobado por Real Decreto 730/1986, de 11 de abril, incorporando, al propio tiempo, las innovaciones que en esta materia introdujo la Ley 3/1989, de 3 de marzo, de ampliación del permiso por maternidad y medidas para favorecer la igualdad de trato de la mujer en el trabajo, así como las que traen causa de otras normas de modificación del régimen jurídico de la Función Pública, que tienen reflejo directo sobre el Reglamento aludido.
+La importancia de las modificaciones en materia de situaciones administrativas de los funcionarios llevadas a cabo por la Ley 22/1993, de 29 de diciembre, de Medidas Fiscales, de Reforma del Régimen Jurídico de la Función Pública y de la Protección por Desempleo, determina la necesidad de actualizar las normas reglamentarias dictadas al efecto en desarrollo de la [Ley 30/1984](BOE_1984_17387_agosto_medidas_para_reforma.md), de 2 de agosto, de Medidas para la Reforma de la Función Pública, contenidas en el Reglamento aprobado por Real Decreto 730/1986, de 11 de abril, incorporando, al propio tiempo, las innovaciones que en esta materia introdujo la Ley 3/1989, de 3 de marzo, de ampliación del permiso por maternidad y medidas para favorecer la igualdad de trato de la mujer en el trabajo, así como las que traen causa de otras normas de modificación del régimen jurídico de la Función Pública, que tienen reflejo directo sobre el Reglamento aludido.
 
 En consecuencia, y dada la entidad de las reformas que es necesario introducir, se ha optado por la elaboración de un nuevo texto, en lugar de acudir a un sistema de modificaciones puntuales, que dificultaría la aplicación de las normas.
 
@@ -114,7 +116,7 @@ e) Cuando presten servicios en las Cortes Generales, de conformidad con lo dispu
 
 f) Cuando accedan a la condición de miembros de las Asambleas Legislativas de las Comunidades Autónomas y, no percibiendo retribuciones periódicas por el desempeño de la función, opten por permanecer en esta situación, conforme al artículo 29.2.g) de la Ley 30/1984, de 2 de agosto.
 
-g) Cuando accedan a la condición de miembros de las Corporaciones Locales, conforme al régimen previsto por el artículo 74 de la Ley 7/1985, de 2 de abril, reguladora de las Bases de Régimen Local, salvo que desempeñen cargo retribuido y de dedicación exclusiva en las mismas.
+g) Cuando accedan a la condición de miembros de las Corporaciones Locales, conforme al régimen previsto por el artículo 74 de la [Ley 7/1985](../02_gestion_y_administracion_centros/BOE_1985_5392_abril_reguladora_bases_régimen.md), de 2 de abril, reguladora de las Bases de Régimen Local, salvo que desempeñen cargo retribuido y de dedicación exclusiva en las mismas.
 
 h) Cuando queden a disposición del Subsecretario, Director del Organismo autónomo, Delegado del Gobierno o Gobernador Civil, de acuerdo con lo dispuesto en el artículo 21.2.b) de la Ley 30/1984, de 2 de agosto, de Medidas para la Reforma de la Función Pública.
 

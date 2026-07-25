@@ -51,14 +51,20 @@ fundamentos_derecho:
 - norma_id: norm-es-ce-1978
   articulos:
   - '27'
+- norma_id: norm-es-2001-7022
+- norma_id: norm-es-rd-132-2010
+- norma_id: norm-es-2021-20113
+- norma_id: norm-es-2010-12201
+- norma_id: norm-es-2007-5478
+- norma_id: norm-es-rd-276-2007
 ---
 # Real Decreto 476/2013 - Cualificación del Profesorado en Centros Privados
 
-El artículo 92 de la Ley Orgánica 2/2006, de 3 de mayo, de Educación, establece que la atención educativa directa a los niños del primer ciclo de Educación Infantil correrá a cargo de profesionales que posean el título de Maestro con la especialización en Educación Infantil o el título de Grado equivalente y, en su caso, de otro personal con la debida titulación para la atención a las niñas y niños de esta edad. En todo caso, la elaboración y seguimiento de la propuesta pedagógica a la que hace referencia el apartado 2 del artículo 14, estarán bajo la responsabilidad de un profesional con el título de Maestro de Educación Infantil o título de Grado equivalente. El segundo ciclo de Educación Infantil será impartido por profesores con el título de Maestro y la especialidad en Educación Infantil o el título de Grado equivalente y podrán ser apoyados, en su labor docente, por Maestros de otras especialidades cuando las enseñanzas impartidas lo requieran.
+El artículo 92 de la [Ley Orgánica 2/2006](../01_marco_normativo_general_y_organico/LO2_2006_ley_organica_educacion.md), de 3 de mayo, de Educación, establece que la atención educativa directa a los niños del primer ciclo de Educación Infantil correrá a cargo de profesionales que posean el título de Maestro con la especialización en Educación Infantil o el título de Grado equivalente y, en su caso, de otro personal con la debida titulación para la atención a las niñas y niños de esta edad. En todo caso, la elaboración y seguimiento de la propuesta pedagógica a la que hace referencia el apartado 2 del artículo 14, estarán bajo la responsabilidad de un profesional con el título de Maestro de Educación Infantil o título de Grado equivalente. El segundo ciclo de Educación Infantil será impartido por profesores con el título de Maestro y la especialidad en Educación Infantil o el título de Grado equivalente y podrán ser apoyados, en su labor docente, por Maestros de otras especialidades cuando las enseñanzas impartidas lo requieran.
 
 El artículo 93 de la Ley Orgánica 2/2006, de 3 de mayo, establece que para impartir las enseñanzas de Educación Primaria será necesario tener el título de Maestro de Educación Primaria o el título de Grado equivalente, sin perjuicio de la habilitación de otras titulaciones universitarias que, a efectos de docencia pudiera establecer el Gobierno para determinadas áreas, previa consulta a las Comunidades Autónomas. La Educación Primaria será impartida por Maestros, que tendrán competencia en todas las áreas de este nivel. La enseñanza de la música, de la Educación Física, de los idiomas extranjeros o de aquellas otras enseñanzas que determine el Gobierno, previa consulta a las Comunidades Autónomas, serán impartidas por Maestros con la especialización o cualificación correspondiente.
 
-El artículo 8 del Real Decreto 132/2010, de 12 de febrero, por el que se establecen los requisitos mínimos de los centros que impartan las enseñanzas del segundo ciclo de la Educación Infantil, la Educación Primaria y la Educación Secundaria, establece los requisitos de titulación de los profesionales que atienden la Educación Infantil indicando que la atención educativa en el primer ciclo de Educación Infantil correrá a cargo de profesionales que posean el título de Grado que habilite para el ejercicio de la profesión de Maestro de Educación Infantil, el título de Maestro con la especialidad de Educación Infantil, o el título de Técnico Superior en Educación Infantil regulado en el Real Decreto 1394/2007, de 29 de octubre, por el que se establece el título de Técnico Superior en Educación Infantil y se fijan sus enseñanzas mínimas.
+El artículo 8 del [Real Decreto 132/2010](RD132_2010_requisitos_minimos_centros.md), de 12 de febrero, por el que se establecen los requisitos mínimos de los centros que impartan las enseñanzas del segundo ciclo de la Educación Infantil, la Educación Primaria y la Educación Secundaria, establece los requisitos de titulación de los profesionales que atienden la Educación Infantil indicando que la atención educativa en el primer ciclo de Educación Infantil correrá a cargo de profesionales que posean el título de Grado que habilite para el ejercicio de la profesión de Maestro de Educación Infantil, el título de Maestro con la especialidad de Educación Infantil, o el título de Técnico Superior en Educación Infantil regulado en el Real Decreto 1394/2007, de 29 de octubre, por el que se establece el título de Técnico Superior en Educación Infantil y se fijan sus enseñanzas mínimas.
 
 Asimismo, indica que el segundo ciclo de Educación Infantil correrá a cargo de profesionales que posean el título de Grado en Educación Infantil, o el título de Maestro con la especialidad de Educación Infantil. Cuando las enseñanzas impartidas lo requieran, el grupo podrá ser atendido por Maestros de otras especialidades.
 
@@ -120,7 +126,7 @@ a) Enseñanzas de Música:
 
 2.º Licenciado en Musicología o en Historia y Ciencia de la Música.
 
-3.º Título Superior de Música de la Ley Orgánica 1/1990, de 3 de octubre, de Ordenación General del Sistema Educativo, o titulaciones declaradas equivalentes a efectos de docencia.
+3.º Título Superior de Música de la [Ley Orgánica 1/1990](BOE_2001_7022_correspondientes_españoles_educación_secundaria.md), de 3 de octubre, de Ordenación General del Sistema Educativo, o titulaciones declaradas equivalentes a efectos de docencia.
 
 4.º Título Profesional de Música de la Ley Orgánica 1/1990, de 3 de octubre, o de la Ley Orgánica 2/2006, de 3 de mayo.
 
@@ -206,7 +212,7 @@ Este requisito se entenderá cumplido al haber superado los cursos de especialid
 
 #### Artículo 8. Requisito de haber superado la fase de oposición de la especialidad correspondiente.
 
-Dicho requisito se refiere a la superación de la fase de oposición de la especialidad correspondiente, a la que hacen referencia los artículos 18 y siguientes del Reglamento de ingreso, accesos y adquisición de nuevas especialidades en los cuerpos docentes a que se refiere la Ley Orgánica 2/2006, de 3 de mayo, de Educación, aprobado por el Real Decreto 276/2007, de 23 de febrero, y será de aplicación a partir de la fecha de entrada en vigor del presente real decreto.
+Dicho requisito se refiere a la superación de la fase de oposición de la especialidad correspondiente, a la que hacen referencia los artículos 18 y siguientes del Reglamento de ingreso, accesos y adquisición de nuevas especialidades en los cuerpos docentes a que se refiere la Ley Orgánica 2/2006, de 3 de mayo, de Educación, aprobado por el [Real Decreto 276/2007](../08_personal_docente/BOE_2007_5478_marzo_aprueba_temario_regir.md), de 23 de febrero, y será de aplicación a partir de la fecha de entrada en vigor del presente real decreto.
 
 #### Disposición adicional primera. Prórroga de la actividad docente.
 

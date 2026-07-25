@@ -38,6 +38,7 @@ fundamentos_derecho:
   articulos:
   - '2'
   - '5'
+- norma_id: norm-can-l-4-2023
 anexos_extraidos_pdf: true
 ocr_procesado: true
 ---
@@ -55,7 +56,7 @@ Decreto  41/2023, de 14 de julio, del Presidente, por el que se determinan las
 competencias de la Presidencia y Vicepresidencia, así como el número, denominación, 
 competencias y orden de precedencias de las Consejerías, y se determina la 
 estructura orgánica de la Presidencia del Gobierno.
-La Ley 4/2023, de 23 de marzo, de la Presidencia y del Gobierno de Canarias, atribuye 
+La [Ley 4/2023](L4_2023_gobierno_canarias.md), de 23 de marzo, de la Presidencia y del Gobierno de Canarias, atribuye 
 en su artículo 13.i) al titular de la Presidencia la determinación del número, denominación, 
 competencias y orden de precedencia de las consejerías.
 Habiéndose determinado la reorganización que dote al Gobierno de los órganos 

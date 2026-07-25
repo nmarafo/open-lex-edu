@@ -54,7 +54,7 @@ Juan Rafael Bailón Casanova.
 Página 
 
 Viernes 26 de enero de 2018
-La Ley 6/2014, de 25 de julio, Canaria de Educación no Universitaria (BOC 
+La [Ley 6/2014](../01_marco_normativo_general_y_organico/L6_2014_ley_canaria_educacion.md), de 25 de julio, Canaria de Educación no Universitaria (BOC 
 nº 152, de 7 de agosto) establece en el artículo 65 un conjunto de medidas para el 
 reconocimiento y la protección de la función docente. En este sentido, recoge el deber 
 de la Administración educativa de velar para que el profesorado reciba el trato, la 

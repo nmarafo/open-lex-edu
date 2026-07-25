@@ -37,6 +37,11 @@ fundamentos_derecho:
 - norma_id: norm-can-l-6-2014
   articulos:
   - '1'
+- norma_id: norm-can-d-84-2024
+- norma_id: norm-can-d-9-2022
+- norma_id: norm-es-lo-2-2006
+- norma_id: norm-es-2021-20113
+- norma_id: norm-es-2010-12201
 fuente_pdf_oficial: https://sede.gobiernodecanarias.org/boc/boc-a-2025-039-739.pdf
 ---
 # Resolución de 17 de febrero de 2025,de la Dirección General de Administración de Centros, Escolarización y Servicios Complementarios, por la que se dictan instrucciones específicas y se convoca procedimiento extraordinario de admisión del alumnado del primer ciclo de Educación Infantil en determinados centros docentes dependientes de esta Consejería, para el curso escolar 2024-2025.
@@ -83,7 +88,7 @@ previamente admitido, se realizará en fechas diferentes dependiendo del centro 
 la adecuación del aula, lo que será comunicado oportunamente a cada familia.
 
 FUNDAMENTOS DE DERECHO
-Primero.- El Decreto 9/2022, de 20 de enero, por el que se regula la admisión del 
+Primero.- El [Decreto 9/2022](D9_2022_admision_alumnado_canarias.md), de 20 de enero, por el que se regula la admisión del 
 alumnado en centros docentes que oferten enseñanzas no universitarias sostenidas con 
 fondos públicos en la Comunidad Autónoma de Canarias, reglamento marco que establece, 
 en nuestro ámbito autonómico de gestión, el procedimiento de admisión del alumnado en 
@@ -104,7 +109,7 @@ legales, respecto a sus descendientes o representados, menores de edad, en el á
 enseñanzas no universitarias de la Comunidad Autónoma de Canarias.
 En su virtud, y en ejercicio de las competencias atribuidas en el artículo 18 del 
 Reglamento Orgánico de la Consejería de Educación, Formación Profesional, Actividad 
-Física y Deportes, aprobado por el Decreto 84/2024, de 10 de junio,
+Física y Deportes, aprobado por el [Decreto 84/2024](../01_marco_normativo_general_y_organico/D84_2024_reglamento_organico_consejeria.md), de 10 de junio,
 RESUELVO :
 Primero.- Aprobar las instrucciones específicas de la convocatoria del procedimiento 
 extraordinario de admisión del alumnado del primer ciclo de Educación Infantil en los 
@@ -466,7 +471,7 @@ su caso)
 PROTECCIÓN DE DATOS: Tratamiento de datos de carácter personal:"Admisión del alumnado". Responsable del tratamiento: Consejería de Educación, Formación
 Profesional, Actividad Física y Deportes del Gobierno de Canarias. Finalidad del tratamiento: Gestionar la escolarización del alumnado que accede por primera vez a un
 centro público o privado concertado de enseñanzas no universitarias o que accede a enseñanzas postobligatorias. Legitimación:- Artículo 6.1.c) y e) del Reglamento UE
-2016/679 General de Protección de Datos. -Ley Orgánica 2/2006, de 3 de mayo, de Educación. Ley 6/2014, de 25 de julio, Canaria de Educación no Universitaria.
+2016/679 General de Protección de Datos. -[Ley Orgánica 2/2006](../../../estatal/01_marco_normativo_general_y_organico/LO2_2006_ley_organica_educacion.md), de 3 de mayo, de Educación. [Ley 6/2014](../01_marco_normativo_general_y_organico/L6_2014_ley_canaria_educacion.md), de 25 de julio, Canaria de Educación no Universitaria.
 Destinatarios de cesiones o transferencias: No hay cesiones. No hay transferencias internacionales previstas. Derechos de las personas interesadas:  De acuerdo con el
 Reglamento General de Protección de Datos, podrá ejercer los derechos de acceso, rectificación, supresión, limitación y oposición del tratamiento, y a no ser objeto de
 decisiones individualizadas basadas únicamente en el tratamiento automatizado ante el centro docente al que vaya dirigida. Derecho a reclamar ante la autoridad de control

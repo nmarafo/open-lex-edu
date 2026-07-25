@@ -33,6 +33,7 @@ fundamentos_derecho:
 - norma_id: norm-can-lo-1-2018
   articulos:
   - '136'
+- norma_id: norm-es-1985-5392
 ---
 # Ley 14/1990, de 26 de julio, de Régimen Jurídico de las Administraciones Públicas de Canarias
 
@@ -128,7 +129,7 @@ c) Las Mancomunidades de municipios.
 
 2. Tendrán igual consideración las administraciones institucionales creadas de acuerdo con la Ley.
 
-3. El instrumento por el que se constituyan las Administraciones Públicas a que hace referencia el apartado 1 de este artículo, podrá atribuir a las mismas todas o alguna de las potestades contenidas en los apartados e), f), g) y h) del número 1 del artículo 4 de la Ley 7/1985, de 2 de abril, reguladora de las Bases del Régimen Local.
+3. El instrumento por el que se constituyan las Administraciones Públicas a que hace referencia el apartado 1 de este artículo, podrá atribuir a las mismas todas o alguna de las potestades contenidas en los apartados e), f), g) y h) del número 1 del artículo 4 de la [Ley 7/1985](../../../estatal/02_gestion_y_administracion_centros/BOE_1985_5392_abril_reguladora_bases_régimen.md), de 2 de abril, reguladora de las Bases del Régimen Local.
 
 CAPÍTULO II
 

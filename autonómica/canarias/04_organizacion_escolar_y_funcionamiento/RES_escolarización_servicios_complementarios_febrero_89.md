@@ -34,6 +34,11 @@ fundamentos_derecho:
   articulos:
   - '1'
 - norma_id: norm-es-lo-2-2006
+- norma_id: norm-can-d-123-2023
+- norma_id: norm-can-d-84-2024
+- norma_id: norm-can-o-2013-10-09
+- norma_id: norm-es-2021-20113
+- norma_id: norm-es-2010-12201
 fuente_pdf_oficial: https://sede.gobiernodecanarias.org/boc/boc-a-2025-044-886.pdf
 ---
 # Resolución de la Dirección General de Administración de Centros, Escolarización y Servicios Complementarios, de 20 de febrero de 2025, por la que se establece el calendario escolar y se dictan instrucciones para la organización y desarrollo de las actividades de comienzo y finalización del curso 2025-2026, para los centros de enseñanzas no universitarias de la Comunidad Autónoma de Canarias (BOC n.º 44, de 4 de marzo).
@@ -55,7 +60,7 @@ centros docentes en el ejercicio de su autonomía. No obstante, para la temporal
 estas actividades se precisa fijar unas normas básicas que garanticen la necesaria coherencia 
 organizativa de todos los centros docentes.
 FUNDAMENTOS DE DERECHO
-Primero.- La disposición adicional quinta de la Ley Orgánica 2/2006, de 3 de mayo, de 
+Primero.- La disposición adicional quinta de la [Ley Orgánica 2/2006](../../../estatal/01_marco_normativo_general_y_organico/LO2_2006_ley_organica_educacion.md), de 3 de mayo, de 
 Educación, establece que las Administraciones educativas fijarán anualmente el calendario 
 escolar, que comprenderá un mínimo de 175 días lectivos para las enseñanzas obligatorias.
 Segundo.- La Dirección General de Administración de Centros, Escolarización y Servicios 
@@ -63,9 +68,9 @@ Complementarios es competente para, entre otras atribuciones, gestionar y contro
 administrativo y de gobierno de los centros educativos públicos no universitarios, así como 
 proponer la normativa relativa a la organización y funcionamiento de dichos centros, de 
 acuerdo con lo dispuesto en el artículo 18 del Reglamento Orgánico de la Consejería de 
-Educación, Formación Profesional, Actividad Física y Deportes, aprobado por el Decreto 
-84/2024, de 10 de junio, en relación con la disposición transitoria única del Decreto 
-123/2023, de 17 de julio, por la que se determina la estructura orgánica y sedes de las 
+Educación, Formación Profesional, Actividad Física y Deportes, aprobado por el [Decreto 
+84/2024](../01_marco_normativo_general_y_organico/D84_2024_reglamento_organico_consejeria.md), de 10 de junio, en relación con la disposición transitoria única del [Decreto 
+123/2023](../01_marco_normativo_general_y_organico/D123_2023_estructura_organica_gobierno_canarias.md), de 17 de julio, por la que se determina la estructura orgánica y sedes de las 
 Consejerías del Gobierno de Canarias.
 Por lo que se dictan las presentes instrucciones con el calendario escolar que debe regir 
 para el año académico 2025-2026, así como la organización y desarrollo de las actividades 
@@ -270,7 +275,7 @@ En el mes de junio, las horas de carácter no lectivo y de periodicidad fija (ex
 tendrán la consideración de no obligada permanencia en el centro, excepto las correspondientes 
 a una de las semanas, que tendrá como función principal la de atender a padres, madres o 
 tutores legales, una vez evaluado el alumnado, de conformidad con el horario de atención a 
-las familias establecido en el artículo 14.2 de la Orden de 9 de octubre de 2013.
+las familias establecido en el artículo 14.2 de la [Orden de 9 de octubre de 2013](O9_10_2013_desarrollo_reglamento_organico_centros.md).
 El día 15 de septiembre se iniciará la jornada no intensiva de clases.
 9. En los centros privados sostenidos con fondos públicos de Educación Infantil y Primaria: 
 en el periodo comprendido entre el 9 y el 12 de septiembre de 2025, y en el periodo entre el 

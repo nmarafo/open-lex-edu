@@ -57,7 +57,7 @@ que se convoca el procedimiento de admisión del alumnado en centros docentes qu
 enseñanzas de Educación Infantil, Educación Primaria, Educación Secundaria Obligatoria, 
 Bachillerato y Educación de Personas Adultas sostenidos con fondos públicos, para el curso 
 escolar 2026-2027, en la Comunidad Autónoma de Canarias, se procede, de conformidad 
-con el artículo 109.2 de la Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo 
+con el artículo 109.2 de la [Ley 39/2015](../../../estatal/01_marco_normativo_general_y_organico/L39_2015_procedimiento_administrativo_comun.md), de 1 de octubre, del Procedimiento Administrativo 
 Común de las Administraciones Públicas, a efectuar la oportuna rectificación:
 En la página 5806, en el Anexo II, correspondiente al calendario del procedimiento de 
 admisión del alumnado de Educación Secundaria Obligatoria, para el curso 2026-2027, en 

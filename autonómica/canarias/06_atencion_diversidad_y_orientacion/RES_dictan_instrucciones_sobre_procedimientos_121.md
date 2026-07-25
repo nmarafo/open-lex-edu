@@ -30,6 +30,14 @@ fundamentos_derecho:
 - norma_id: norm-can-l-6-2014
   articulos:
   - '1'
+- norma_id: norm-can-d-81-2010
+- norma_id: norm-can-o-2013-10-09
+- norma_id: norm-can-o-1-9-2010
+- norma_id: norm-es-lo-2-2006
+- norma_id: norm-es-1999-23750
+- norma_id: norm-es-2008-979
+- norma_id: norm-es-2021-20113
+- norma_id: norm-es-2010-12201
 fuente_pdf_oficial: https://sede.gobiernodecanarias.org/boc/boc-a-2011-040-910.pdf
 fuente_juriscan: http://www.gobcan.es/juriscan/ficha.jsp?id=64838
 ---
@@ -330,7 +338,7 @@ gica quien, con toda la información anterior, decidi-
 rá los alumnos o alumnas a los que se les realizará
 el preinforme e informe psicopedagógico y en qué
 orden de prioridad, teniendo en cuenta para ello lo
-regulado en la Orden de 1 de septiembre de 2010.
+regulado en la [Orden de 1 de septiembre de 2010](O1_9_2010_organizacion_funcionamiento_eoep_canarias.md).
 3. En la detección temprana del alumnado con es-
 peciales condiciones personales e historia escolar, se
 tendrá en cuenta:
@@ -1053,8 +1061,8 @@ cer a la comunidad educativa.
 de autonomía para elaborar, aprobar y ejecutar su pro-
 yecto educativo, así como las normas de organiza-
 ción y funcionamiento del centro en el marco de lo
-establecido en el capítulo I del título III del Decreto
-81/2010, de 8 de julio, por el que se aprueba el Re-
+establecido en el capítulo I del título III del [Decreto
+81/2010](../04_organizacion_escolar_y_funcionamiento/D81_2010_reglamento_organico_centros.md), de 8 de julio, por el que se aprueba el Re-
 glamento Orgánico de los centros docentes públicos
 no universitarios de la Comunidad Autónoma de Ca-
 narias (BOC nº 143, de 22 de julio), considerando
@@ -1097,7 +1105,7 @@ o tutora, la intervención se realizará en grupos de 6-
 Décimo quinta.- Funciones del profesorado tutor de
 las aulas enclave y de los centros de educación especial. 
 1. Con independencia de las funciones asignadas
-al profesorado tutor en el Decreto 81/2010, de 8 de
+al profesorado tutor en el [Decreto 81/2010](../04_organizacion_escolar_y_funcionamiento/D81_2010_reglamento_organico_centros.md), de 8 de
 julio, por el que se aprueba el Reglamento Orgáni-
 co de los centros docentes públicos no universitarios
 de la Comunidad Autónoma de Canarias (BOC nº 143,
@@ -1873,13 +1881,13 @@ tir de los datos objetivos contenidos en los informes.
 tos establecidos en la presente Resolución deberán ser
 tratados conforme a lo que establece la Ley Orgáni-
 ca 15/1999, de Protección de Datos de Carácter Per-
-sonal y el Real Decreto 1720/2007, de 21 de diciem-
+sonal y el [Real Decreto 1720/2007](../../../estatal/02_gestion_y_administracion_centros/BOE_2008_979_diciembre_aprueba_reglamento_desarrollo.md), de 21 de diciem-
 bre, por el que se aprueba el Reglamento de desarro-
-llo de la Ley Orgánica 15/1999, de 13 de diciembre,
+llo de la [Ley Orgánica 15/1999](../../../estatal/02_gestion_y_administracion_centros/BOE_1999_23750_diciembre_protección_datos_carácter.md), de 13 de diciembre,
 de Protección de Datos de Carácter Personal, así co-
 mo el resto de normativa aplicable en este ámbito. 
 4. En todo caso, de acuerdo con lo que dispone la
-disposición adicional 23ª de la Ley Orgánica 2/2006,
+disposición adicional 23ª de la [Ley Orgánica 2/2006](../../../estatal/01_marco_normativo_general_y_organico/LO2_2006_ley_organica_educacion.md),
 de 3 de mayo, de Educación, los centros docentes po-
 drán recabar los datos personales de su alumnado que
 sean necesarios para el ejercicio de su función edu-

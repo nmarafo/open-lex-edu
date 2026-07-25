@@ -37,10 +37,13 @@ fundamentos_derecho:
 - norma_id: norm-es-l-39-2015
   articulos:
   - '1'
+- norma_id: norm-es-2016-3229
+- norma_id: norm-es-2021-20113
+- norma_id: norm-es-2010-12201
 ---
 # Orden ECD/1611/2015, de 29 de julio, por la que se crean y regulan los Premios Nacionales al rendimiento académico del alumnado de Educación Secundaria Obligatoria y de Enseñanzas Artísticas Profesionales en los ámbitos de Música, Danza y Artes Plásticas y Diseño.
 
-La Ley Orgánica 2/2006, de 3 de mayo, de Educación, señala en su artículo 2 bis 4, que el funcionamiento del Sistema Educativo Español se rige por los principios de calidad, cooperación, equidad, libertad de enseñanza, mérito, igualdad de oportunidades, no discriminación, eficiencia en la asignación de recursos públicos, transparencia y rendición de cuentas.
+La [Ley Orgánica 2/2006](../01_marco_normativo_general_y_organico/LO2_2006_ley_organica_educacion.md), de 3 de mayo, de Educación, señala en su artículo 2 bis 4, que el funcionamiento del Sistema Educativo Español se rige por los principios de calidad, cooperación, equidad, libertad de enseñanza, mérito, igualdad de oportunidades, no discriminación, eficiencia en la asignación de recursos públicos, transparencia y rendición de cuentas.
 
 Asimismo, la Ley Orgánica 2/2006, de 3 de mayo, establece en su artículo 89 que el Ministerio de Educación, Cultura y Deporte, sin perjuicio de las competencias de las Comunidades Autónomas, podrá establecer, por sí mismo o en colaboración con otras entidades, premios y concursos de carácter estatal destinados a alumnado, profesorado o centros escolares.
 
@@ -202,7 +205,7 @@ Para todos aquellos extremos no previstos en la presente orden se aplicará la L
 
 La presente orden no será de aplicación a los procedimientos regidos por las convocatorias aprobadas con anterioridad a su entrada en vigor. El plazo establecido en el artículo 3.1 queda prorrogado para la convocatoria de los premios Extraordinarios en las modalidades a las que se refiere la presente orden correspondientes al curso 2014-2015, hasta el 15 de noviembre de 2015.
 
-Hasta el curso escolar 2016-2017, en el que, de acuerdo con el apartado 2 de la disposición final quinta de la Ley Orgánica 8/2013, de 9 de diciembre, para la mejora de la calidad educativa, tendrá lugar la implantación de las modificaciones introducidas en el currículo, la organización, objetivos, requisitos para la obtención de certificados y títulos, programas, promoción y evaluaciones de Educación Secundaria Obligatoria, no se tendrá en cuenta la distinción de opciones previstas para dicha etapa a las que se hace alusión en el artículo 6.a) de la presente orden.
+Hasta el curso escolar 2016-2017, en el que, de acuerdo con el apartado 2 de la disposición final quinta de la [Ley Orgánica 8/2013](../03_ordenacion_curricular_y_ensenanzas/BOE_2016_3229_marzo_regula_procedimiento_incorporación.md), de 9 de diciembre, para la mejora de la calidad educativa, tendrá lugar la implantación de las modificaciones introducidas en el currículo, la organización, objetivos, requisitos para la obtención de certificados y títulos, programas, promoción y evaluaciones de Educación Secundaria Obligatoria, no se tendrá en cuenta la distinción de opciones previstas para dicha etapa a las que se hace alusión en el artículo 6.a) de la presente orden.
 
 Del mismo modo, hasta dicha fecha, el segundo ejercicio de las pruebas a las que se refiere el artículo 7 consistirá en la respuesta a cuestiones y/o resolución de ejercicios prácticos dentro de la materia de Matemáticas cursada por el alumno o alumna.
 

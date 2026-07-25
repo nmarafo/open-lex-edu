@@ -34,12 +34,16 @@ fundamentos_derecho:
 - norma_id: norm-es-l-39-2015
   articulos:
   - '1'
+- norma_id: norm-es-2000-5990
+- norma_id: norm-es-2007-19326
+- norma_id: norm-es-2021-20113
+- norma_id: norm-es-2010-12201
 ---
 # Orden EDU/216/2011, de 8 de febrero, por la que se establece el procedimiento de reconocimiento de las formaciones de entrenadores deportivos en las modalidades de fútbol y fútbol sala.
 
-El Real Decreto 320/2000, de 3 de marzo, estableció los títulos de Técnico Deportivo y Técnico Deportivo Superior en fútbol y fútbol sala, aprobó las correspondientes enseñanzas mínimas y reguló las pruebas de acceso a estas enseñanzas.
+El [Real Decreto 320/2000](BOE_2000_5990_marzo_establecen_títulos_técnico.md), de 3 de marzo, estableció los títulos de Técnico Deportivo y Técnico Deportivo Superior en fútbol y fútbol sala, aprobó las correspondientes enseñanzas mínimas y reguló las pruebas de acceso a estas enseñanzas.
 
-En el desarrollo de lo previsto en el capítulo VIII del Título I de la Ley Orgánica 2/2006, de 3 de mayo, de Educación, se dictó el Real Decreto 1363/2007, de 24 de octubre, por el que se establece la ordenación general de las enseñanzas deportivas de régimen especial, que en su disposición transitoria quinta, otorga al Ministerio de Educación y Ciencia, hoy Ministerio de Educación, la opción de regular el procedimiento de reconocimiento de las formaciones realizadas con carácter meramente federativo entre la entrada en vigor de la Orden de 5 de julio de 1999 y la entrada en vigor del propio Real Decreto.
+En el desarrollo de lo previsto en el capítulo VIII del Título I de la [Ley Orgánica 2/2006](../01_marco_normativo_general_y_organico/LO2_2006_ley_organica_educacion.md), de 3 de mayo, de Educación, se dictó el [Real Decreto 1363/2007](BOE_2007_19326_octubre_establece_ordenación_general.md), de 24 de octubre, por el que se establece la ordenación general de las enseñanzas deportivas de régimen especial, que en su disposición transitoria quinta, otorga al Ministerio de Educación y Ciencia, hoy Ministerio de Educación, la opción de regular el procedimiento de reconocimiento de las formaciones realizadas con carácter meramente federativo entre la entrada en vigor de la Orden de 5 de julio de 1999 y la entrada en vigor del propio Real Decreto.
 
 Tal disposición establece que la propuesta ha de formularla el Consejo Superior de Deportes, previo acuerdo de los órganos competentes en materia de deporte y en materia de educación de las Comunidades Autónomas y las Ciudades de Ceuta y Melilla, así como de las Federaciones deportivas españolas.
 

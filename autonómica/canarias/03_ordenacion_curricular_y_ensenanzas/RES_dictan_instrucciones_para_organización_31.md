@@ -37,6 +37,8 @@ fundamentos_derecho:
   articulos:
   - '1'
 - norma_id: norm-es-lo-2-2006
+- norma_id: norm-can-res-134
+- norma_id: norm-es-lo-3-2022
 fuente_pdf_oficial: https://sede.gobiernodecanarias.org/boc/boc-a-2022-087-1481.pdf
 ---
 # Resolución de 21 de abril de 2022, por la que se dictan instrucciones para la organización y el funcionamiento del Curso Específico de Acceso a Ciclos Formativos de Formación Profesional de Grado Medio que se impartirá en centros de educación de personas adultas dependientes de esta Consejería (BOC n.º 87, de 4 de mayo).
@@ -77,7 +79,7 @@ certificación oficial en la que constará el número de años cursados y el niv
 de las competencias. Asimismo, recibirán un consejo orientador individualizado que incluirá 
 una propuesta sobre la opción u opciones académicas o profesionales más convenientes 
 para continuar su proceso formativo”.
-Segundo.- La Ley Orgánica 3/2022, de 31 de marzo, de ordenación e integración de 
+Segundo.- La [Ley Orgánica 3/2022](../08_personal_docente/RES_dirección_general_personal_sobre_134.md), de 31 de marzo, de ordenación e integración de 
 la Formación Profesional, establece, en el artículo 46, que las administraciones educativas 
 ofertarán cursos de formación específicos preparatorios para el acceso a la formación 
 
@@ -96,7 +98,7 @@ En su artículo 16, en relación con el 21, se establecen instrucciones respecto
 formativo específico y las disposiciones comunes para los cursos y las pruebas de acceso, 
 y específicamente en su apartado 5 se concreta que “las Administraciones educativas 
 determinarán los centros públicos que podrán impartir estos cursos”.
-Cuarto.-  La Ley 6/2014, de 25 de julio, Canaria de Educación no Universitaria, 
+Cuarto.-  La [Ley 6/2014](../01_marco_normativo_general_y_organico/L6_2014_ley_canaria_educacion.md), de 25 de julio, Canaria de Educación no Universitaria, 
 establece en su artículo 5 como uno de los objetivos del sistema educativo canario 
 “garantizar el desarrollo integral de todas las personas para que puedan alcanzar el mayor 
 nivel en sus capacidades que les permitan el pleno ejercicio de sus derechos y deberes de 

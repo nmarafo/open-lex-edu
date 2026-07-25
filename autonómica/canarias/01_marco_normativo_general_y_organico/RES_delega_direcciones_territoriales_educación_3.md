@@ -29,6 +29,7 @@ fundamentos_derecho:
   articulos:
   - '1'
 - norma_id: norm-es-lo-2-2006
+- norma_id: norm-es-l-40-2015
 fuente_pdf_oficial: https://sede.gobiernodecanarias.org/boc/boc-a-2021-038-932.pdf
 anexos_extraidos_pdf: true
 ocr_procesado: true
@@ -94,7 +95,7 @@ establece las competencias de la Dirección General de Personal, en relación co
 17 que dispone que las Direcciones Territoriales ejercerán, además de las que atribuye el 
 propio Reglamento, las que sean delegadas y encomendadas por los órganos superiores del 
 Departamento.
-Segundo.- El artículo 9 de la Ley 40/2015, de 1 de octubre, de Régimen Jurídico del Sector 
+Segundo.- El artículo 9 de la [Ley 40/2015](../../../estatal/01_marco_normativo_general_y_organico/L40_2015_regimen_juridico_sector_publico.md), de 1 de octubre, de Régimen Jurídico del Sector 
 Público que dispone que los órganos de las diferentes Administraciones públicas podrán 
 delegar el ejercicio de las competencias que tengan atribuidas en otros órganos de la misma 
 Administración, aun cuando no sean jerárquicamente dependientes, o en los Organismos 

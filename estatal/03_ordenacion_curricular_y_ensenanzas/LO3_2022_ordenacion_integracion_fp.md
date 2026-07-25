@@ -141,8 +141,16 @@ fundamentos_derecho:
   articulos:
   - '27'
   - 149.1.30
+- norma_id: norm-can-res-134
+- norma_id: norm-es-l-39-2015
+- norma_id: norm-es-l-40-2015
+- norma_id: norm-es-lo-2-2006
+- norma_id: norm-es-lo-8-1985
+- norma_id: norm-es-2002-12018
+- norma_id: norm-es-2021-20113
+- norma_id: norm-es-2010-12201
 ---
-# Ley Orgánica 3/2022 de Ordenación e Integración de la Formación Profesional
+# [Ley Orgánica 3/2022](../../autonómica/canarias/08_personal_docente/RES_dirección_general_personal_sobre_134.md) de Ordenación e Integración de la Formación Profesional
 
 **FELIPE VI**
 
@@ -506,7 +514,7 @@ Título XI. Organización, competencias y gobernanza.
 
 #### Disposición derogatoria única. Derogación normativa.
 
-#### Disposición final primera. Modificación de la Ley Orgánica 2/2006, de 3 de mayo, de Educación.
+#### Disposición final primera. Modificación de la [Ley Orgánica 2/2006](../01_marco_normativo_general_y_organico/LO2_2006_ley_organica_educacion.md), de 3 de mayo, de Educación.
 
 #### Disposición final segunda. Modificación de la Ley Orgánica 3/2020, de 29 de diciembre, por la que se modifica la Ley Orgánica 2/2006, de 3 de mayo, de Educación.
 
@@ -572,7 +580,7 @@ Esta alianza entre estos tres actores es especialmente importante por el caráct
 
 **III**
 
-La actual regulación de la formación profesional en España no cumple con los requisitos y resultados de un buen sistema que acaban de señalarse. La base de nuestro ordenamiento en materia de formación profesional, la Ley Orgánica 5/2002 de las Cualificaciones y la Formación Profesional, creó un Sistema de Formación Profesional ligado al Sistema Nacional de Cualificaciones Profesionales que supuso un indudable avance. Pero los dos sistemas creados desde entonces, la formación profesional del sistema educativo, con sus correspondientes ciclos formativos, y la formación profesional para el empleo, a través de los certificados de profesionalidad, no sirven para dar una respuesta eficaz, veinte años después, a las necesidades y al modelo que la nueva economía requiere. Su división en dos subsistemas destinados a diferentes colectivos, sin relación entre ellos, es fuente de limitaciones importantes en la cualificación y recualificación profesional en España.
+La actual regulación de la formación profesional en España no cumple con los requisitos y resultados de un buen sistema que acaban de señalarse. La base de nuestro ordenamiento en materia de formación profesional, la [Ley Orgánica 5/2002](BOE_2002_12018_junio_cualificaciones_formación_profesional.md) de las Cualificaciones y la Formación Profesional, creó un Sistema de Formación Profesional ligado al Sistema Nacional de Cualificaciones Profesionales que supuso un indudable avance. Pero los dos sistemas creados desde entonces, la formación profesional del sistema educativo, con sus correspondientes ciclos formativos, y la formación profesional para el empleo, a través de los certificados de profesionalidad, no sirven para dar una respuesta eficaz, veinte años después, a las necesidades y al modelo que la nueva economía requiere. Su división en dos subsistemas destinados a diferentes colectivos, sin relación entre ellos, es fuente de limitaciones importantes en la cualificación y recualificación profesional en España.
 
 De aquí la urgente necesidad de su reforma. Esta urgencia se ve facilitada por la oportunidad que ahora representan los Fondos Europeos «Next Generation UE» para financiar el nuevo Sistema de Formación Profesional.
 
@@ -704,7 +712,7 @@ El sistema, tal y como se había venido desarrollando hasta ahora, no había alc
 
 Así pues, este deja de depender de convocatorias de las administraciones para convertirse en un procedimiento abierto de manera permanente y referido constantemente a cualquier competencia, sea cual sea el ámbito profesional en que la persona haya mantenido su experiencia profesional.
 
-En el Título VII se aborda el proceso de orientación como un servicio de acompañamiento obligado al del aprendizaje a lo largo de la vida. En este sentido, se definen su cometido, objetivos, fines, y condiciones de la prestación, sin perjuicio de las regulaciones que, sobre esta materia, se establecen en la Ley Orgánica 8/1985, de 3 de julio, reguladora del Derecho a la Educación, y de la Ley Orgánica 2/2006, de 3 de mayo, de Educación.
+En el Título VII se aborda el proceso de orientación como un servicio de acompañamiento obligado al del aprendizaje a lo largo de la vida. En este sentido, se definen su cometido, objetivos, fines, y condiciones de la prestación, sin perjuicio de las regulaciones que, sobre esta materia, se establecen en la [Ley Orgánica 8/1985](../02_gestion_y_administracion_centros/LO8_1985_derecho_educacion.md), de 3 de julio, reguladora del Derecho a la Educación, y de la Ley Orgánica 2/2006, de 3 de mayo, de Educación.
 
 A este mismo fin, las diferentes administraciones implicadas promoverán la coordinación para garantizar la calidad y complementariedad del servicio de información y orientación profesional facilitado desde el Sistema de Formación Profesional y el sistema nacional de empleo.
 
@@ -740,7 +748,7 @@ En las disposiciones finales, primera, se modifica la Ley Orgánica 2/2006, de�
 
 **VI**
 
-Por todo lo dicho anteriormente, esta ley es coherente con los principios de buena regulación establecidos en el artículo 129 de la Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común de las Administraciones Públicas: necesidad y eficacia, proporcionalidad, seguridad jurídica, transparencia y eficiencia.
+Por todo lo dicho anteriormente, esta ley es coherente con los principios de buena regulación establecidos en el artículo 129 de la [Ley 39/2015](../01_marco_normativo_general_y_organico/L39_2015_procedimiento_administrativo_comun.md), de 1 de octubre, del Procedimiento Administrativo Común de las Administraciones Públicas: necesidad y eficacia, proporcionalidad, seguridad jurídica, transparencia y eficiencia.
 
 En primer lugar, se adecua a los principios de necesidad y eficacia. Su necesidad viene indicada por las razones de interés general que se han mencionado al principio. Por un lado, dotar a las personas de los derechos, capacidades y habilidades necesarias para lograr una ciudadanía plena. Por otro, fortalecer la capacidad del sistema productivo. Su eficacia viene asegurada por el hecho de que esta ley establece un sistema ágil y flexible de formación y aprendizaje a lo largo de la vida, que da respuesta de forma fiable en un espacio de tiempo suficientemente corto, a las necesidades de formación de los perfiles profesionales de los distintos sectores productivos y de prestación de servicios en nuestro país. La norma es además eficaz, en tanto establece un sistema que permite a cualquier ciudadano, en cualquier situación, tener el acceso a una oferta formativa adecuada a sus capacidades y expectativas. Por otra parte, y como complementos a los principios de eficacia y de seguridad jurídica, se establece un marco normativo claro que integra en la misma norma las modificaciones que desde 2002 y 2006 han afectado respectivamente a la Ley Orgánica 5/2002, de 19 de junio, de las Cualificaciones y de la Formación Profesional, así como a la Ley Orgánica 2/2006, de 3 de mayo, de Educación.
 
@@ -2634,7 +2642,7 @@ e) Aprobar propuestas de ofertas de formación profesional para su incorporaci
 
 f) Dirigir los trabajos de evaluación del Sistema de Formación Profesional y elaborar el Informe de estado bienal resultante de dicha evaluación.
 
-g) Procurará la necesaria coherencia de actuación y coordinación en la materia, el intercambio de puntos de vista y el examen en común de las decisiones sobre la formación profesional, así como las acciones proyectadas para afrontarlos y resolverlos, mediante las Conferencias sectoriales previstas en la Ley 12/1983, de 14 de octubre, del Proceso Autonómico y la Ley 40/2015, de 1 de octubre, de Régimen Jurídico del Sector Público.
+g) Procurará la necesaria coherencia de actuación y coordinación en la materia, el intercambio de puntos de vista y el examen en común de las decisiones sobre la formación profesional, así como las acciones proyectadas para afrontarlos y resolverlos, mediante las Conferencias sectoriales previstas en la Ley 12/1983, de 14 de octubre, del Proceso Autonómico y la [Ley 40/2015](../01_marco_normativo_general_y_organico/L40_2015_regimen_juridico_sector_publico.md), de 1 de octubre, de Régimen Jurídico del Sector Público.
 
 h) Cuantas otras competencias relativas a la ordenación, ejecución, gestión y coordinación que, no estando atribuidas a otros órganos, requieran la integridad y efectividad, en sus contenidos básicos, del Sistema de Formación Profesional.
 

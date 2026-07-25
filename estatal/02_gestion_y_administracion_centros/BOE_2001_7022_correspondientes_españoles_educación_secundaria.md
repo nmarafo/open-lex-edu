@@ -34,12 +34,15 @@ fundamentos_derecho:
 - norma_id: norm-es-lo-2-2006
   articulos:
   - '120'
+- norma_id: norm-es-1988-3987
+- norma_id: norm-es-1988-6938
+- norma_id: norm-es-2002-25289
 ---
 # Orden de 20 de marzo de 2001 por la que se regula el régimen de equivalencias de los estudios básicos y medios cursados en los países signatarios del Convenio "Andrés Bello", con los correspondientes españoles de Educación Secundaria Obligatoria y Bachillerato establecidos por la Ley Orgánica 1/1990, de 3 de octubre, de Ordenación General del Sistema Educativo.
 
 En cumplimiento del artículo 4 del Convenio, la XIX Reunión de Ministros de Educación de los países signatarios aprobó la Resolución número 006-98 por la que se actualizan las equivalencias de estudios realizados conforme a los respectivos sistemas educativos. Es preciso, por tanto, incorporar tales equivalencias al ordenamiento español.
 
-En su virtud, previo informe del Consejo Escolar del Estado, y en uso de la autorización conferida por la disposición final del Real Decreto 104/1988, de 29 de enero, dispongo:
+En su virtud, previo informe del Consejo Escolar del Estado, y en uso de la autorización conferida por la disposición final del [Real Decreto 104/1988](BOE_1988_3987_enero_sobre_homologación_convalidación.md), de 29 de enero, dispongo:
 
 #### Primero.
 

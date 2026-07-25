@@ -30,6 +30,7 @@ fundamentos_derecho:
 - norma_id: norm-es-lo-3-2018
   articulos:
   - '1'
+- norma_id: norm-es-1999-23750
 ---
 # Ley 37/2007, de 16 de noviembre, sobre reutilización de la información del sector público.
 
@@ -57,7 +58,7 @@ El Título II prevé los aspectos básicos del régimen jurídico de la reutiliz
 
 Para ello el uso de licencias-tipo que puedan estar disponibles por medios electrónicos se revela como un elemento clave en este sentido. Por otra parte, se prevé que las distintas Administraciones y organismos difundan qué documentación es susceptible de ser reutilizada mediante la creación de listados e índices accesibles en línea de los documentos disponibles, con el objeto de fomentar y facilitar las solicitudes de reutilización. Para incrementar las posibilidades de reutilización, las Administraciones y organismos del sector público deben procurar ofrecer los documentos por medios electrónicos en los formatos o lenguas preexistentes.
 
-El régimen de reutilización garantiza el pleno respeto de los principios que consagran la protección de datos personales, en los términos establecidos en la Ley Orgánica 15/1999, de 13 de diciembre, de Protección de Datos de carácter personal y su normativa de desarrollo.
+El régimen de reutilización garantiza el pleno respeto de los principios que consagran la protección de datos personales, en los términos establecidos en la [Ley Orgánica 15/1999](../02_gestion_y_administracion_centros/BOE_1999_23750_diciembre_protección_datos_carácter.md), de 13 de diciembre, de Protección de Datos de carácter personal y su normativa de desarrollo.
 
 Por otra parte, las Administraciones y organismos del sector público deben adecuarse a las normas de competencia, evitando acuerdos exclusivos. No obstante, la ley prevé una excepción a este principio cuando, con vistas a la prestación de un servicio de interés económico general, pueda resultar necesario conceder un derecho exclusivo a la reutilización de determinados documentos del sector público.
 

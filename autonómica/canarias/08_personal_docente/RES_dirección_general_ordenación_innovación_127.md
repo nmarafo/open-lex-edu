@@ -29,6 +29,7 @@ fundamentos_derecho:
 - norma_id: norm-can-l-6-2014
   articulos:
   - '1'
+- norma_id: norm-es-2001-7022
 fuente_pdf_oficial: http://www.gobiernodecanarias.org/boc/1998/070/boc-1998-070-009.pdf
 fuente_juriscan: http://www.gobiernodecanarias.org/juriscan/ficha.jsp?id=30668
 ---
@@ -68,7 +69,7 @@ BOC Nº 070. Lunes 8 de Junio de 1998 - 780
 
 Descargar en formato pdf
 
-La Ley Orgánica 1/1990, de 3 de octubre, de Ordenación General del Sistema Educativo, considera la formación permanente del profesorado como uno de los elementos básicos para el incremento de la calidad de la enseñanza y recoge, en su artículo 56, que la formación permanente es un derecho y una obligación del profesorado, a la vez que ordena a las autoridades educativas la realización de una oferta suficiente de actividades de formación, para cuyo cumplimiento, esta Dirección General viene desarrollando los planes de formación anuales en colaboración con diversas instituciones, entre otras, fundamentalmente, los Centros del Profesorado.
+La [Ley Orgánica 1/1990](../../../estatal/02_gestion_y_administracion_centros/BOE_2001_7022_correspondientes_españoles_educación_secundaria.md), de 3 de octubre, de Ordenación General del Sistema Educativo, considera la formación permanente del profesorado como uno de los elementos básicos para el incremento de la calidad de la enseñanza y recoge, en su artículo 56, que la formación permanente es un derecho y una obligación del profesorado, a la vez que ordena a las autoridades educativas la realización de una oferta suficiente de actividades de formación, para cuyo cumplimiento, esta Dirección General viene desarrollando los planes de formación anuales en colaboración con diversas instituciones, entre otras, fundamentalmente, los Centros del Profesorado.
 
 	Por otra parte, la Consejería de Educación, Cultura y Deportes, para poder llevar a cabo la gestión de las tareas directamente relacionadas con la organización académica previstas en sus funciones, tiene adscrito en diversas unidades administrativas establecidas en su organigrama profesorado que desempeña su tarea, tanto en los servicios centrales como en los servicios de apoyo a la escuela (Inspección de Educación, Centros del Profesorado, Orientación Escolar, Servicios Centrales y Programas Educativos), y que no desempeña docencia directa en las aulas. Este profesorado participa igualmente en Planes de Formación Específicos para la mejora de las funciones que desempeña.
 

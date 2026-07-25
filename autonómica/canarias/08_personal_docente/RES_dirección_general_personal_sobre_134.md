@@ -35,9 +35,12 @@ fundamentos_derecho:
   articulos:
   - '1'
 - norma_id: norm-es-lo-2-2006
+- norma_id: norm-es-2021-20113
+- norma_id: norm-es-lo-3-2022
+- norma_id: norm-es-2010-12201
 fuente_pdf_oficial: https://sede.gobiernodecanarias.org/boc/boc-a-2023-133-2237.pdf
 ---
-# Resolución de 30 de junio de 2023, de la Dirección General de Personal, sobre la ordenación y gestión de determinadas listas de empleo, tras la entrada en vigor de la Ley Orgánica 3/2022, de 31 de marzo, de ordenación e integración de la Formación Profesional (BOC nº 133, de 10 de julio).
+# Resolución de 30 de junio de 2023, de la Dirección General de Personal, sobre la ordenación y gestión de determinadas listas de empleo, tras la entrada en vigor de la [Ley Orgánica 3/2022](../../../estatal/03_ordenacion_curricular_y_ensenanzas/LO3_2022_ordenacion_integracion_fp.md), de 31 de marzo, de ordenación e integración de la Formación Profesional (BOC nº 133, de 10 de julio).
 
 III. Otras Resoluciones
 Consejería de Educación, Universidades, Cultura y Deportes
@@ -47,7 +50,7 @@ Ley Orgánica 3/2022, de 31 de marzo, de ordenación e integración de la Formac
 Profesional.
 La Ley Orgánica 3/2020, de 29 de diciembre, por la que se modifica la Ley 
 Orgánica 2/2006, de 3 de mayo, de Educación, modifica la disposición adicional séptima 
-de la Ley Orgánica 2/2006, de 3 de mayo, de Educación, y declara a extinguir el Cuerpo de 
+de la [Ley Orgánica 2/2006](../../../estatal/01_marco_normativo_general_y_organico/LO2_2006_ley_organica_educacion.md), de 3 de mayo, de Educación, y declara a extinguir el Cuerpo de 
 Profesores Técnicos de Formación Profesional.
 Por su parte, la Ley Orgánica 3/2022, de 31 de marzo, de ordenación e integración de 
 la Formación Profesional, en el artículo 85 crea el Cuerpo de Profesores Especialistas en 

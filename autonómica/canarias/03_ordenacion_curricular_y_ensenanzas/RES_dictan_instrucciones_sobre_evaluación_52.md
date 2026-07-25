@@ -30,6 +30,11 @@ fundamentos_derecho:
   articulos:
   - '1'
 - norma_id: norm-es-lo-2-2006
+- norma_id: norm-es-l-39-2015
+- norma_id: norm-es-2016-3229
+- norma_id: norm-es-2019-317
+- norma_id: norm-es-2021-20113
+- norma_id: norm-es-2010-12201
 fuente_pdf_oficial: https://sede.gobiernodecanarias.org/boc/boc-a-2019-234-5741.pdf
 ---
 # Resolución de 18 de noviembre de 2019, por la que se dictan instrucciones sobre evaluación de las pruebas de certificación de enseñanzas de idiomas de régimen especial en la Comunidad Autónoma de Canarias (BOC n.º 234, de 3 de diciembre).
@@ -47,7 +52,7 @@ de certificación de enseñanzas de idiomas de régimen especial en la Comunidad
 de Canarias, y de acuerdo con los siguientes
 ANTECEDENTES DE HECHO 
 Primero.- Con objeto de establecer los principios básicos comunes de evaluación, se ha 
-publicado el Real Decreto 1/2019, de 11 de enero, por el que se establecen los principios 
+publicado el [Real Decreto 1/2019](../../../estatal/03_ordenacion_curricular_y_ensenanzas/BOE_2019_317_enero_establecen_principios_básicos.md), de 11 de enero, por el que se establecen los principios 
 básicos comunes de evaluación aplicables a las pruebas de certificación oficial de los niveles 
 intermedio B1, intermedio B2, avanzado C1, y avanzado C2 de las enseñanzas de idiomas 
 de régimen especial, con carácter de norma básica.
@@ -57,8 +62,8 @@ de idiomas de régimen especial que se imparten en la Comunidad Autónoma de Can
 procede dictar instrucciones sobre evaluación de las pruebas de certificación, dentro del 
 marco normativo vigente de referencia.
 FUNDAMENTOS DE DERECHO
-Primero.- La Ley Orgánica 2/2006, de 3 de mayo, de Educación, en la redacción actual 
-dada por la Ley Orgánica 8/2013, de 9 de diciembre, para la mejora de la calidad educativa, 
+Primero.- La [Ley Orgánica 2/2006](../../../estatal/01_marco_normativo_general_y_organico/LO2_2006_ley_organica_educacion.md), de 3 de mayo, de Educación, en la redacción actual 
+dada por la [Ley Orgánica 8/2013](../../../estatal/03_ordenacion_curricular_y_ensenanzas/BOE_2016_3229_marzo_regula_procedimiento_incorporación.md), de 9 de diciembre, para la mejora de la calidad educativa, 
 regula en sus artículos 59 a 62, las enseñanzas de idiomas de régimen especial, estableciendo 
 en el artículo 59 que estas enseñanzas se organizarán en tres niveles: básico, intermedio y 
 avanzado. Estos niveles se corresponderán, respectivamente, con los niveles A, B y C del 
@@ -543,6 +548,6 @@ de Educación sobre la adecuación del procedimiento de evaluación aplicado, ad
 resolución pertinente en el plazo de quince días a partir de la recepción del expediente y la 
 comunicará a la Dirección del centro para su aplicación y traslado a la persona interesada. La 
 resolución que dicte la Dirección Territorial de Educación pondrá fin a la vía administrativa, 
-sin perjuicio de que la persona interesada pueda interponer los recursos previstos en la Ley 
-39/2015, de 1 de octubre, del Procedimiento Administrativo Común de las Administraciones 
+sin perjuicio de que la persona interesada pueda interponer los recursos previstos en la [Ley 
+39/2015](../../../estatal/01_marco_normativo_general_y_organico/L39_2015_procedimiento_administrativo_comun.md), de 1 de octubre, del Procedimiento Administrativo Común de las Administraciones 
 Públicas.

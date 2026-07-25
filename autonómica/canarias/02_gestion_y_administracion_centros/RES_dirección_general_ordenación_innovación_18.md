@@ -41,7 +41,7 @@ de 2 de noviembre de 2018, por la que se dictan instrucciones para la tramitaci�
 electrónica del procedimiento por el que se regula la justificación correspondiente 
 a la financiación de gastos de personal complementario, en los centros privados 
 concertados de Canarias.
-En virtud de la entrada en vigor, el 2 de octubre de 2016, de la Ley 39/2015, de 1 de 
+En virtud de la entrada en vigor, el 2 de octubre de 2016, de la [Ley 39/2015](../../../estatal/01_marco_normativo_general_y_organico/L39_2015_procedimiento_administrativo_comun.md), de 1 de 
 octubre, del Procedimiento Administrativo Común de las Administraciones Públicas, se 
 hace ineludible establecer las actuaciones necesarias con el objeto de dar cumplimiento a las 
 diferentes previsiones establecidas en la misma, y teniendo en cuenta los siguientes

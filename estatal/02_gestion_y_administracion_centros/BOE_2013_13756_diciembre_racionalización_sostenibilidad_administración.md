@@ -25,6 +25,7 @@ fundamentos_derecho:
 - norma_id: norm-es-ce-1978
   articulos:
   - '27'
+- norma_id: norm-es-1985-5392
 ---
 # Ley 27/2013, de 27 de diciembre, de racionalización y sostenibilidad de la Administración Local.
 
@@ -40,7 +41,7 @@ Sabed: Que las Cortes Generales han aprobado y Yo vengo en sancionar la siguient
 
 La reforma del artículo 135 de la Constitución española, en su nueva redacción dada en 2011, consagra la estabilidad presupuestaria como principio rector que debe presidir las actuaciones de todas las Administraciones Públicas. En desarrollo de este precepto constitucional se aprobó la Ley Orgánica 2/2012, de 27 de abril, de Estabilidad Presupuestaria y Sostenibilidad Financiera, que exige nuevas adaptaciones de la normativa básica en materia de Administración local para la adecuada aplicación de los principios de estabilidad presupuestaria, sostenibilidad financiera o eficiencia en el uso de los recursos públicos locales. Todo ello exige adaptar algunos aspectos de la organización y funcionamiento de la Administración local así como mejorar su control económico-financiero.
 
-Por todo lo expuesto, transcurridos casi treinta años desde la entrada en vigor de la Ley 7/1985, de 2 de abril, reguladora de las Bases del Régimen Local, y con más de una veintena de modificaciones de su texto original, cabe señalar que ha llegado el momento de someter a una revisión profunda el conjunto de disposiciones relativas al completo estatuto jurídico de la Administración local.
+Por todo lo expuesto, transcurridos casi treinta años desde la entrada en vigor de la [Ley 7/1985](BOE_1985_5392_abril_reguladora_bases_régimen.md), de 2 de abril, reguladora de las Bases del Régimen Local, y con más de una veintena de modificaciones de su texto original, cabe señalar que ha llegado el momento de someter a una revisión profunda el conjunto de disposiciones relativas al completo estatuto jurídico de la Administración local.
 
 Con este propósito se plantea esta reforma que persigue varios objetivos básicos: clarificar las competencias municipales para evitar duplicidades con las competencias de otras Administraciones de forma que se haga efectivo el principio «una Administración una competencia», racionalizar la estructura organizativa de la Administración local de acuerdo con los principios de eficiencia, estabilidad y sostenibilidad financiera, garantizar un control financiero y presupuestario más riguroso y favorecer la iniciativa económica privada evitando intervenciones administrativas desproporcionadas.
 

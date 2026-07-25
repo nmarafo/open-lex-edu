@@ -38,6 +38,9 @@ fundamentos_derecho:
 - norma_id: norm-es-l-39-2015
   articulos:
   - '1'
+- norma_id: norm-es-2021-20113
+- norma_id: norm-es-2010-12201
+- norma_id: norm-es-2012-5337
 ---
 # Ley 4/2019, de 7 de marzo, de mejora de las condiciones para el desempeño de la docencia y la enseñanza en el ámbito de la educación no universitaria.
 
@@ -51,11 +54,11 @@ Sabed: Que las Cortes Generales han aprobado y Yo vengo en sancionar la siguient
 
 ## PREÁMBULO
 
-El Real Decreto-ley 14/2012, de 20 de abril, de medidas urgentes de racionalización del gasto público en el ámbito educativo, estableció una serie de decisiones que pretendían conjugar los objetivos de calidad y eficiencia del sistema educativo con el cumplimiento de los objetivos de estabilidad presupuestaria y su reflejo en la contención del gasto público y en la oferta de empleo público. La justificación de la introducción de estas medidas, que se definieron como excepcionales en el Real Decreto-ley, vino referida a la coyuntura económica del momento.
+El Real Decreto-[ley 14/2012](BOE_2012_5337_abril_medidas_urgentes_racionalización.md), de 20 de abril, de medidas urgentes de racionalización del gasto público en el ámbito educativo, estableció una serie de decisiones que pretendían conjugar los objetivos de calidad y eficiencia del sistema educativo con el cumplimiento de los objetivos de estabilidad presupuestaria y su reflejo en la contención del gasto público y en la oferta de empleo público. La justificación de la introducción de estas medidas, que se definieron como excepcionales en el Real Decreto-ley, vino referida a la coyuntura económica del momento.
 
 Desde entonces, tanto la favorable evolución de la situación económica del país como la aprobación posterior de otras normas con incidencia en aspectos a que se refieren las medidas aprobadas, aconsejan su revisión a la luz de la situación actual, entendiendo que las mismas se concibieron para tener reflejo en el gasto público en una coyuntura económica desfavorable en un determinado momento.
 
-Así, en materia de educación no universitaria, el Real Decreto-ley 14/2012 aprobó en su artículo 2 la posibilidad de elevación hasta en un 20 por 100 de las ratios máximas de alumnos por aula establecidas en el artículo 157.1.a) de la Ley Orgánica 2/2006, de 3 de mayo, de Educación, para la educación primaria y secundaria obligatoria, cuando la Ley de Presupuestos Generales del Estado no autorice la incorporación de personal de nuevo ingreso mediante Oferta de Empleo Público o establezca, con carácter básico, una tasa de reposición de efectivos inferior al 50 por 100.
+Así, en materia de educación no universitaria, el Real Decreto-ley 14/2012 aprobó en su artículo 2 la posibilidad de elevación hasta en un 20 por 100 de las ratios máximas de alumnos por aula establecidas en el artículo 157.1.a) de la [Ley Orgánica 2/2006](../01_marco_normativo_general_y_organico/LO2_2006_ley_organica_educacion.md), de 3 de mayo, de Educación, para la educación primaria y secundaria obligatoria, cuando la Ley de Presupuestos Generales del Estado no autorice la incorporación de personal de nuevo ingreso mediante Oferta de Empleo Público o establezca, con carácter básico, una tasa de reposición de efectivos inferior al 50 por 100.
 
 El hecho de que las Leyes de Presupuestos Generales del Estado para 2016, 2017 y 2018 hayan establecido ya una tasa de reposición del 100 por 100 para el acceso a los cuerpos de funcionarios docentes en las Administraciones Públicas con competencias educativas para el desarrollo de la Ley Orgánica de Educación, lleva implícita la asunción de que la situación económica coyuntural que motivó la aprobación del Real Decreto-ley 14/2012 ha quedado superada, resultando por tanto innecesario mantener la medida aprobada por el Real Decreto-ley 14/2012. Teniendo en cuenta además que en estos momentos, según lo dispuesto por las Leyes de Presupuestos Generales del Estado de los últimos años, la supresión de esta medida no tiene impacto en el gasto público, se considera sin embargo que su mantenimiento sí tendría un alto impacto en la garantía de los estándares de calidad de la enseñanza que se ven afectados con la elevación del número de alumnos por aula.
 
@@ -69,7 +72,7 @@ Si bien esta modificación alivió la situación de las Administraciones Educati
 
 Con la presente Ley se persigue, por tanto, reestablecer la situación anterior al Real Decreto-ley 14/2012, de 20 de abril, de medidas urgentes de racionalización del gasto público en el ámbito educativo, al haber desaparecido las circunstancias que motivaron la aprobación de unas medidas calificadas de carácter excepcional e implicar su supresión una clara mejora de las condiciones para el desempeño de la docencia y la enseñanza en el ámbito de la educación no universitaria, disponiéndose los efectos inmediatos derivados de la derogación del artículo 4 del Real Decreto-ley 14/2012, de 20 de abril, mientras que, por razones de planificación y organización del curso escolar, lo dispuesto en el artículo único de la Ley se aplicará a partir del inicio del curso escolar inmediatamente posterior a la entrada en vigor de la misma.
 
-La presente Ley se adecua a los principios de buena regulación establecidos en el artículo 129 de la Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común de las Administraciones Públicas.
+La presente Ley se adecua a los principios de buena regulación establecidos en el artículo 129 de la [Ley 39/2015](../01_marco_normativo_general_y_organico/L39_2015_procedimiento_administrativo_comun.md), de 1 de octubre, del Procedimiento Administrativo Común de las Administraciones Públicas.
 
 En cuanto al principio de proporcionalidad, la presente regulación guarda el necesario equilibrio que permite proporcionar a las Administraciones Educativas las medidas adecuadas para la eficacia organizativa de los centros docentes, redundando ello en la mejora de la calidad de la enseñanza y en la atención al alumnado.
 

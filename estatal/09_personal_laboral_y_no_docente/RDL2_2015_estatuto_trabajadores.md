@@ -38,6 +38,11 @@ fundamentos_derecho:
 - norma_id: norm-es-ce-1978
   articulos:
   - '35'
+- norma_id: norm-es-lo-1-1982
+- norma_id: norm-es-l-31-1995
+- norma_id: norm-es-2002-12018
+- norma_id: norm-es-2007-6115
+- norma_id: norm-es-2012-9364
 ---
 # Real Decreto Legislativo 2/2015 - Texto Refundido del Estatuto de los Trabajadores
 
@@ -69,7 +74,7 @@ Quedan derogadas cuantas disposiciones de igual o inferior rango se opongan a lo
 
 6. El artículo 17, las disposiciones adicionales sexta y novena, las disposiciones transitorias quinta y sexta, el apartado 1 de la disposición transitoria novena y las disposiciones transitorias décima y decimoquinta de la Ley 3/2012, de 6 de julio, de medidas urgentes para la reforma del mercado laboral.
 
-7. La disposición transitoria séptima del Real Decreto-ley 20/2012, de 13 de julio, de medidas para garantizar la estabilidad presupuestaria y de fomento de la competitividad.
+7. La disposición transitoria séptima del Real Decreto-[ley 20/2012](../08_personal_docente/BOE_2012_9364_julio_medidas_para_garantizar.md), de 13 de julio, de medidas para garantizar la estabilidad presupuestaria y de fomento de la competitividad.
 
 8. La disposición adicional sexta del Real Decreto-ley 5/2013, de 15 de marzo, de medidas para favorecer la continuidad de la vida laboral de los trabajadores de mayor edad y promover el envejecimiento activo.
 
@@ -563,7 +568,7 @@ Sección 3.ª Elementos y eficacia del contrato de trabajo
 
 1. Se prohíbe la admisión al trabajo a los menores de dieciséis años.
 
-2. Los trabajadores menores de dieciocho años no podrán realizar trabajos nocturnos ni aquellas actividades o puestos de trabajo respecto a los que se establezcan limitaciones a su contratación conforme a lo dispuesto en la Ley 31/1995, de 8 de noviembre, de Prevención de Riesgos Laborales, y en las normas reglamentarias aplicables.
+2. Los trabajadores menores de dieciocho años no podrán realizar trabajos nocturnos ni aquellas actividades o puestos de trabajo respecto a los que se establezcan limitaciones a su contratación conforme a lo dispuesto en la [Ley 31/1995](../02_gestion_y_administracion_centros/L31_1995_prevencion_riesgos_laborales.md), de 8 de noviembre, de Prevención de Riesgos Laborales, y en las normas reglamentarias aplicables.
 
 3. Se prohíbe realizar horas extraordinarias a los menores de dieciocho años.
 
@@ -593,7 +598,7 @@ Cualquiera de las partes podrá exigir que el contrato se formalice por escrito,
 
 4. El empresario entregará a la representación legal de los trabajadores una copia básica de todos los contratos que deban celebrarse por escrito, a excepción de los contratos de relación laboral especial de alta dirección sobre los que se establece el deber de notificación a la representación legal de los trabajadores.
 
-Con el fin de comprobar la adecuación del contenido del contrato a la legalidad vigente, esta copia básica contendrá todos los datos del contrato a excepción del número del documento nacional de identidad o del número de identidad de extranjero, el domicilio, el estado civil, y cualquier otro que, de acuerdo con la Ley Orgánica 1/1982, de 5 de mayo, de protección civil del derecho al honor, a la intimidad personal y familiar y a la propia imagen, pudiera afectar a la intimidad personal. El tratamiento de la información facilitada estará sometido a los principios y garantías previstos en la normativa aplicable en materia de protección de datos.
+Con el fin de comprobar la adecuación del contenido del contrato a la legalidad vigente, esta copia básica contendrá todos los datos del contrato a excepción del número del documento nacional de identidad o del número de identidad de extranjero, el domicilio, el estado civil, y cualquier otro que, de acuerdo con la [Ley Orgánica 1/1982](../01_marco_normativo_general_y_organico/LO1_1982_proteccion_honor_intimid_imagen.md), de 5 de mayo, de protección civil del derecho al honor, a la intimidad personal y familiar y a la propia imagen, pudiera afectar a la intimidad personal. El tratamiento de la información facilitada estará sometido a los principios y garantías previstos en la normativa aplicable en materia de protección de datos.
 
 La copia básica se entregará por el empresario, en plazo no superior a diez días desde la formalización del contrato, a los representantes legales de los trabajadores, quienes la firmarán a efectos de acreditar que se ha producido la entrega.
 
@@ -623,7 +628,7 @@ Sección 4.ª Modalidades del contrato de trabajo
 
 #### Artículo 11. Contratos formativos.
 
-1. El contrato de trabajo en prácticas podrá concertarse con quienes estuvieren en posesión de título universitario o de formación profesional de grado medio o superior o títulos oficialmente reconocidos como equivalentes, de acuerdo con las leyes reguladoras del sistema educativo vigente, o de certificado de profesionalidad de acuerdo con lo previsto en la Ley Orgánica 5/2002, de 19 de junio, de las Cualificaciones y de la Formación Profesional, que habiliten para el ejercicio profesional, dentro de los cinco años, o de siete años cuando el contrato se concierte con un trabajador con discapacidad, siguientes a la terminación de los correspondientes estudios, de acuerdo con las siguientes reglas:
+1. El contrato de trabajo en prácticas podrá concertarse con quienes estuvieren en posesión de título universitario o de formación profesional de grado medio o superior o títulos oficialmente reconocidos como equivalentes, de acuerdo con las leyes reguladoras del sistema educativo vigente, o de certificado de profesionalidad de acuerdo con lo previsto en la [Ley Orgánica 5/2002](../03_ordenacion_curricular_y_ensenanzas/BOE_2002_12018_junio_cualificaciones_formación_profesional.md), de 19 de junio, de las Cualificaciones y de la Formación Profesional, que habiliten para el ejercicio profesional, dentro de los cinco años, o de siete años cuando el contrato se concierte con un trabajador con discapacidad, siguientes a la terminación de los correspondientes estudios, de acuerdo con las siguientes reglas:
 
 a) El puesto de trabajo deberá permitir la obtención de la práctica profesional adecuada al nivel de estudios o de formación cursados. Mediante convenio colectivo de ámbito sectorial estatal o, en su defecto, en los convenios colectivos sectoriales de ámbito inferior, se podrán determinar los puestos de trabajo o grupos profesionales objeto de este contrato.
 
@@ -889,7 +894,7 @@ Las medidas a las que se refieren los párrafos anteriores se orientarán priori
 
 Asimismo, la negociación colectiva podrá establecer este tipo de medidas en las condiciones de clasificación profesional, promoción y formación, de modo que, en igualdad de condiciones de idoneidad, tengan preferencia las personas del sexo menos representado para favorecer su acceso al grupo profesional o puesto de trabajo de que se trate.
 
-5. El establecimiento de planes de igualdad en las empresas se ajustará a lo dispuesto en esta ley y en la Ley Orgánica 3/2007, de 22 de marzo, para la igualdad efectiva de mujeres y hombres.
+5. El establecimiento de planes de igualdad en las empresas se ajustará a lo dispuesto en esta ley y en la [Ley Orgánica 3/2007](../07_convivencia_bienestar_y_protocolos/BOE_2007_6115_marzo_para_igualdad_efectiva.md), de 22 de marzo, para la igualdad efectiva de mujeres y hombres.
 
 #### Artículo 18. Inviolabilidad de la persona del trabajador.
 

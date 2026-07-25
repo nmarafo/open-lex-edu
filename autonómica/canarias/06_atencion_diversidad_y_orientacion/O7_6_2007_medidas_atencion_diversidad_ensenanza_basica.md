@@ -46,6 +46,10 @@ fundamentos_derecho:
 - norma_id: norm-can-l-6-2014
   articulos:
   - '22'
+- norma_id: norm-can-l-14-1990
+- norma_id: norm-es-lo-2-2006
+- norma_id: norm-es-2021-20113
+- norma_id: norm-es-2010-12201
 fuente_pdf_oficial: https://www.gobiernodecanarias.org/boc/2007/124/boc-2007-124-001.pdf
 anexos_extraidos_pdf: true
 ---
@@ -115,7 +119,7 @@ En su virtud, de acuerdo con las competencias atri-
 buidas en el artículo 32 de la Ley 1/1983, de 14 de
 abril, del Gobierno y de la Administración Pública
 de la Comunidad Autónoma de Canarias (B.O.C. de
-30 de mayo), en el artículo 29 de la Ley 14/1990, de
+30 de mayo), en el artículo 29 de la [Ley 14/1990](../01_marco_normativo_general_y_organico/L14_1990_regimen_juridico_administraciones_canarias.md), de
 26 de julio, de Régimen Jurídico de las Administra-
 ciones Públicas de Canarias (B.O.C. de 20 de agos-
 to), en los artículos 4 y 5 del Decreto 113/2006, de
@@ -699,7 +703,7 @@ señanzas vigentes del segundo y tercer ciclo de la eta-
 pa a las sesiones de cuarenta y cinco minutos.
 DISPOSICIÓN DEROGATORIA
 A medida que se aplique el calendario de im-
-plantación de la Ley Orgánica 2/2006, de 3 de ma-
+plantación de la [Ley Orgánica 2/2006](../../../estatal/01_marco_normativo_general_y_organico/LO2_2006_ley_organica_educacion.md), de 3 de ma-
 yo (LOE), en la redacción dada por la Disposición
 Transitoria del Decreto 126/2007, de 24 de mayo, por
 el que se establece la ordenación y el currículo de la

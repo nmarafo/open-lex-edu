@@ -53,7 +53,7 @@ sobre el funcionamiento del PROMECI, en los dos cursos escolares que se ha venid
 ejecutando, se concluye que es preciso acometer cambios en dicho programa, orientados 
 fundamentalmente a propiciar el correcto equilibrio entre estabilidad de los equipos docentes 
 y la autonomía de los centros para desarrollar sus proyectos.
-Por otro lado, la Ley 6/2014, de 25 de julio, Canaria de Educación no Universitaria, 
+Por otro lado, la [Ley 6/2014](../01_marco_normativo_general_y_organico/L6_2014_ley_canaria_educacion.md), de 25 de julio, Canaria de Educación no Universitaria, 
 en su artículo 60 establece en relación con la autonomía de los centros sostenidos con 
 fondos públicos que: “5. La consejería competente en materia de educación dotará a los 
 centros docentes públicos de recursos humanos y materiales que posibiliten el ejercicio 

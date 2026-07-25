@@ -32,6 +32,13 @@ fundamentos_derecho:
   articulos:
   - '1'
 - norma_id: norm-es-lo-2-2006
+- norma_id: norm-can-d-84-2024
+- norma_id: norm-can-d-276-1997
+- norma_id: norm-es-l-39-2015
+- norma_id: norm-es-l-40-2015
+- norma_id: norm-es-lo-3-2018
+- norma_id: norm-es-2021-20113
+- norma_id: norm-es-2010-12201
 fuente_pdf_oficial: https://sede.gobiernodecanarias.org/boc/boc-a-2025-087-1645.pdf
 ---
 # Resolución de 11 de abril de 2025, de la Dirección General de Administración de Centros, Escolarización y Servicios Complementarios por la que se aprueba la instrucción de las ayudas de préstamo de libros de texto y materiales didácticos para el curso escolar 2025/2026 (BOC n.º 87, de 2 de mayo).
@@ -49,7 +56,7 @@ detectadas de libros de texto y materiales didácticos en determinadas enseñanz
 curso 2025/2026, de acuerdo con los siguientes
 ANTECEDENTES DE HECHO
 Primero.- El artículo octogésimo primero de la Ley Orgánica 3/2020, de 29 de diciembre, 
-por la que se modifica la Ley Orgánica 2/2006, de 3 de mayo, de Educación, establece 
+por la que se modifica la [Ley Orgánica 2/2006](../../../estatal/01_marco_normativo_general_y_organico/LO2_2006_ley_organica_educacion.md), de 3 de mayo, de Educación, establece 
 que con el fin de hacer efectivo el principio de equidad en el ejercicio del derecho a la 
 educación, se desarrollarán acciones dirigidas hacia las personas, grupos, entornos sociales 
 y ámbitos territoriales que se encuentren en situación de vulnerabilidad socioeducativa y 
@@ -62,7 +69,7 @@ se eviten desigualdades derivadas de factores sociales, económicos, culturales,
 étnicos o de otra índole, correspondiendo al Estado y a la Comunidad Autónoma, en sus 
 respectivos ámbitos de competencia, fijar sus objetivos prioritarios a fin de lograr una 
 educación de mayor equidad.
-Segundo.- La Ley 6/2014, de 25 de julio, Canaria de Educación no Universitaria, 
+Segundo.- La [Ley 6/2014](../01_marco_normativo_general_y_organico/L6_2014_ley_canaria_educacion.md), de 25 de julio, Canaria de Educación no Universitaria, 
 incluye dentro de sus principios rectores la equidad del sistema educativo para evitar que las 
 desigualdades económicas y sociales limiten las oportunidades de aprendizaje y se conviertan 
 en un determinante del éxito escolar, además de promover las ayudas y apoyos precisos para 
@@ -161,17 +168,17 @@ Quinto.- El Anexo III, resumen de gastos por secciones, programas y capítulos, 
 Ley 5/2024, de 26 de diciembre, de Presupuestos Generales de la Comunidad Autónoma 
 de Canarias para 2025, establece la cuantía del uso gratuito de libros de texto, dentro del 
 resumen de gastos por subconceptos.
-Sexto.- El Capítulo VIII del Decreto 276/1997, de 27 de noviembre, por el que se 
+Sexto.- El Capítulo VIII del [Decreto 276/1997](../02_gestion_y_administracion_centros/D276_1997_gestion_economica_centros.md), de 27 de noviembre, por el que se 
 regula el procedimiento de gestión económica de los centros docentes públicos no 
 universitarios dependientes de la Consejería de Educación, Cultura y Deportes, en relación 
 a la justificación económica de los centros docentes públicos.
 
-Séptimo.- El artículo 18.2.B.a) del Decreto 84/2024, de 10 de junio, por el que se 
+Séptimo.- El artículo 18.2.B.a) del [Decreto 84/2024](../01_marco_normativo_general_y_organico/D84_2024_reglamento_organico_consejeria.md), de 10 de junio, por el que se 
 aprueba el Reglamento Orgánico de la Consejería de Educación, Formación Profesional, 
 Actividad Física y Deportes.
-Octavo.- La Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común 
+Octavo.- La [Ley 39/2015](../../../estatal/01_marco_normativo_general_y_organico/L39_2015_procedimiento_administrativo_comun.md), de 1 de octubre, del Procedimiento Administrativo Común 
 de las Administraciones Públicas.
-Noveno.- Los artículos 15 a 18 de la Ley 40/2015, de 1 de octubre, de Régimen 
+Noveno.- Los artículos 15 a 18 de la [Ley 40/2015](../../../estatal/01_marco_normativo_general_y_organico/L40_2015_regimen_juridico_sector_publico.md), de 1 de octubre, de Régimen 
 Jurídico del Sector Público, en lo relativo al funcionamiento de los órganos colegiados de 
 la administración pública.
 Décimo.- Los artículos 2, 3 y 4 de la Ley 40/2003, de 18 de noviembre, de Protección 
@@ -969,7 +976,7 @@ de libros y/o material didáctico, independientemente de sus posteriores adjudic
 denegaciones. Los mismos se tendrán en cuenta para las asignaciones de fondos a realizar 
 en el siguiente curso escolar.
 Undécimo.- Datos de carácter personal.
-De conformidad con la Ley Orgánica 3/2018, de 5 de diciembre, de Protección de Datos 
+De conformidad con la [Ley Orgánica 3/2018](../../../estatal/02_gestion_y_administracion_centros/LO3_2018_proteccion_datos_personales.md), de 5 de diciembre, de Protección de Datos 
 Personales y garantía de los derechos digitales, que recoge lo establecido en el artículo 30.1 
 del Reglamento (UE) 2016/679 del Parlamento Europeo y del Consejo, de 27 de abril de 
 2016, los datos recogidos. Este procedimiento será incluido en la Resolución 177//2022, 

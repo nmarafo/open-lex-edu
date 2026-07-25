@@ -31,6 +31,15 @@ fundamentos_derecho:
 - norma_id: norm-can-l-6-2014
   articulos:
   - '1'
+- norma_id: norm-can-d-84-2024
+- norma_id: norm-can-lo-1-2018
+- norma_id: norm-can-res-boc-2024-230-25
+- norma_id: norm-es-lo-2-2006
+- norma_id: norm-es-2021-20113
+- norma_id: norm-es-2024-10684
+- norma_id: norm-es-2025-2039
+- norma_id: norm-es-rd-659-2023
+- norma_id: norm-es-2010-12201
 fuente_pdf_oficial: https://sede.gobiernodecanarias.org/boc/boc-a-2026-070-1143.pdf
 ---
 # Resolución de 26 de marzo de 2026, por la que se amplían la Resolución de 30 de octubre de 2024, que dicta instrucciones y orientaciones para la implantación y desarrollo de los grados de formación D y E, a partir del curso escolar 2024/2025, y se establece la distribución horaria y modular de los currículos; y la Resolución de 21 de febrero de 2025, que dicta instrucciones para la implantación de los itinerarios formativos de Formación Profesional Adaptada y el desarrollo de los currículos de los módulos de carácter general a partir del curso escolar 2024/2025, en el ámbito de la Comunidad Autónoma de Canarias.
@@ -76,7 +85,7 @@ los cuadros horarios correspondientes.
 A los antecedentes de hecho expuestos les resultan de aplicación los siguientes
 
 FUNDAMENTOS DE DERECHO
-Primero.- La Ley Orgánica 1/2018, de 5 de noviembre, de reforma del Estatuto de 
+Primero.- La [Ley Orgánica 1/2018](../01_marco_normativo_general_y_organico/LO1_2018_estatuto_autonomia_canarias.md), de 5 de noviembre, de reforma del Estatuto de 
 Autonomía de Canarias, en su artículo 133.1 establece que “Corresponde a la Comunidad 
 Autónoma de Canarias la competencia de desarrollo legislativo y de ejecución, en materia 
 de enseñanza no universitaria, con relación a las enseñanzas obligatorias y no obligatorias 
@@ -85,16 +94,16 @@ Estado (...)”.
 Asimismo, de acuerdo con lo previsto en el artículo 133.3.c) del citado texto legal, 
 dicha competencia comprende el establecimiento de los correspondientes planes de estudio 
 y la ordenación curricular de las enseñanzas.
-Segundo.- La Ley 6/2014, de 25 de julio, Canaria de Educación no Universitaria, 
+Segundo.- La [Ley 6/2014](../01_marco_normativo_general_y_organico/L6_2014_ley_canaria_educacion.md), de 25 de julio, Canaria de Educación no Universitaria, 
 dispone en su artículo 33.3 que, de acuerdo con la normativa básica del Estado, una vez 
 aprobado el real decreto correspondiente a un título de formación profesional y hasta que 
 sea completado el currículo propio de la Comunidad Autónoma, dicho real decreto actuará 
 como norma subsidiaria.
-Tercero.- El Real Decreto 659/2023, de 18 de julio, por el que se desarrolla la ordenación 
+Tercero.- El [Real Decreto 659/2023](RES_dirección_general_formación_profesional_25.md), de 18 de julio, por el que se desarrolla la ordenación 
 del Sistema de Formación Profesional, establece en su artículo 7.2 que:
 “Las administraciones educativas establecerán los currículos correspondientes a los 
 grados D y E, respetando las atribuciones competenciales establecidas en el artículo 6 de la 
-Ley Orgánica 2/2006, de 3 de mayo, de Educación, y de acuerdo con lo prescrito por la Ley 
+[Ley Orgánica 2/2006](../../../estatal/01_marco_normativo_general_y_organico/LO2_2006_ley_organica_educacion.md), de 3 de mayo, de Educación, y de acuerdo con lo prescrito por la Ley 
 Orgánica 3/2022, de 31 de marzo, de ordenación e integración de la Formación Profesional, 
 esta disposición y el resto de los desarrollos normativos del Sistema de Formación 
 Profesional. En todo caso, se respetarán siempre todos los elementos contemplados en el 
@@ -104,7 +113,7 @@ Planta Química y fija sus enseñanzas mínimas mientras que el Real Decreto 290
 18 de abril, actualiza los títulos de Técnico en Operaciones de Laboratorio, Técnico en 
 Planta Química y Técnico Superior en Laboratorio de Análisis y de Control de Calidad de 
 la familia profesional Química, y fija sus enseñanzas mínimas.
-Quinto.- El Real Decreto 499/2024, de 21 de mayo, por el que se modifican 
+Quinto.- El [Real Decreto 499/2024](../../../estatal/03_ordenacion_curricular_y_ensenanzas/BOE_2024_10684_mayo_modifican_determinados_reales.md), de 21 de mayo, por el que se modifican 
 determinados reales decretos por los que se establecen títulos de Formación Profesional 
 de grado medio y se fijan sus enseñanzas mínimas, establece los cambios de ordenación 
 necesarios para permitir su oferta en el marco de la nueva estructura establecida por el Real 
@@ -140,7 +149,7 @@ el Repertorio Nacional de certificados de profesionalidad, modificado por el Rea
 Al certificado profesional con código AGAX0208, establecido en el citado Real Decreto 
 e incluido en el Anexo III de la presente Resolución, le es de aplicación la disposición 
 transitoria primera del Real Decreto 659/2023, de 18 de julio, así como la disposición 
-adicional cuarta del Real Decreto 69/2025, de 4 de febrero.
+adicional cuarta del [Real Decreto 69/2025](../../../estatal/03_ordenacion_curricular_y_ensenanzas/BOE_2025_2039_febrero_desarrollan_elementos_integrantes.md), de 4 de febrero.
 Decimocuarto.- La Resolución de 30 de octubre de 2024, por la que se dictan 
 instrucciones y orientaciones para la implantación y desarrollo de los grados D y E del 
 Sistema de Formación Profesional a partir del curso escolar 2024/2025, y se establece la 
@@ -155,7 +164,7 @@ En su virtud, y en uso de las competencias que tengo conferidas en base a lo dis
 en el artículo 19 del Decreto 212/1991, de 11 de septiembre, de organización de los 
 Departamentos de la Administración Autonómica de Canarias, y en el artículo 20 del 
 Reglamento Orgánico de la Consejería de Educación, Formación Profesional, Actividad 
-Física y Deportes, aprobado por el Decreto 84/2024, de 10 de junio, por el que se asignan 
+Física y Deportes, aprobado por el [Decreto 84/2024](../01_marco_normativo_general_y_organico/D84_2024_reglamento_organico_consejeria.md), de 10 de junio, por el que se asignan 
 las competencias generales y específicas a la Dirección General de Formación Profesional 
 y Enseñanzas de Régimen Especial,
 

@@ -33,10 +33,13 @@ fundamentos_derecho:
 - norma_id: norm-es-rdl-5-2015
   articulos:
   - '1'
+- norma_id: norm-es-2001-7022
+- norma_id: norm-es-lo-8-1985
+- norma_id: norm-es-1993-23257
 ---
 # Real Decreto 1635/1995, de 6 de octubre, por el que se adscribe el profesorado de los Cuerpos de Profesores de Enseñanza Secundaria y Profesores Técnicos de Formación Profesional a las especialidades propias de la formación profesional específica.
 
-La Ley Orgánica 1/1990, de 3 de octubre, de Ordenación General del Sistema Educativo, en su disposición adicional décima, crea los Cuerpos de Profesores de Enseñanza Secundaria y Profesores Técnicos de Formación Profesional y determina que el primero de estos Cuerpos desempeñará sus funciones en la educación secundaria obligatoria, bachillerato y formación profesional y el segundo lo hará en la formación profesional específica y, en las condiciones que se establezcan, en la educación secundaria obligatoria y en el bachillerato.
+La [Ley Orgánica 1/1990](../02_gestion_y_administracion_centros/BOE_2001_7022_correspondientes_españoles_educación_secundaria.md), de 3 de octubre, de Ordenación General del Sistema Educativo, en su disposición adicional décima, crea los Cuerpos de Profesores de Enseñanza Secundaria y Profesores Técnicos de Formación Profesional y determina que el primero de estos Cuerpos desempeñará sus funciones en la educación secundaria obligatoria, bachillerato y formación profesional y el segundo lo hará en la formación profesional específica y, en las condiciones que se establezcan, en la educación secundaria obligatoria y en el bachillerato.
 
 Esta misma disposición, en su apartado 8, establece que el Gobierno, previa consulta con las Comunidades Autónomas, determinará las especialidades a las que deben ser adscritos los profesores a que se refiere como consecuencia tanto de las integraciones de Cuerpos previstos en la misma como de las necesidades derivadas de la nueva ordenación académica, especificando que esta adscripción incluirá las áreas y materias que deberán impartir teniendo en cuenta las especialidades de las que los profesores sean titulares.
 
@@ -100,7 +103,7 @@ El artículo 4 del Real Decreto 1701/1991, de 29 de noviembre, queda redactado d
 
 «Artículo 4.
 
-1. Los funcionarios de los Cuerpos de Profesores de Enseñanza Secundaria y Profesores Técnicos de Formación Profesional que hayan adquirido nuevas especialidades, al amparo de lo dispuesto en el Real Decreto 850/1993, de 4 de junio, tendrán preferencia, por una sola vez, con ocasión de vacante, para ser adscritos a plazas de la nueva especialidad adquirida en el centro, donde tuvieran destino definitivo.
+1. Los funcionarios de los Cuerpos de Profesores de Enseñanza Secundaria y Profesores Técnicos de Formación Profesional que hayan adquirido nuevas especialidades, al amparo de lo dispuesto en el [Real Decreto 850/1993](BOE_1993_23257_adquisición_nuevas_especialidades_movilidad.md), de 4 de junio, tendrán preferencia, por una sola vez, con ocasión de vacante, para ser adscritos a plazas de la nueva especialidad adquirida en el centro, donde tuvieran destino definitivo.
 
 2. No obstante lo dispuesto en el apartado anterior, los profesores desplazados del puesto de trabajo en el que tengan destino definitivo por declaración expresa de supresión del mismo o, en las condiciones que se establezcan por cada Administración educativa, por insuficiencia de horario, gozarán mientras se mantenga esta circunstancia de derecho preferente ante cualquier otro aspirante para obtener cualquier otro puesto en el mismo centro siempre que reúnan los requisitos exigidos para su desempeño.
 
@@ -176,7 +179,7 @@ Quedan derogadas cuantas disposiciones de igual o inferior rango se opongan a lo
 
 #### Disposición final primera.
 
-1. El presente Real Decreto, que se dicta en virtud de la habilitación que confiere al Gobierno la Ley Orgánica 1/1990, de 3 de octubre, en sus disposiciones adicionales novena, apartado 1, y décima, apartado 8, y en uso de la competencia estatal para la ordenación general del sistema educativo recogida expresamente en la disposición adicional primera 2, a) de la Ley Orgánica 8/1985, de 3 de julio, reguladora del Derecho a la Educación, tiene carácter de norma básica.
+1. El presente Real Decreto, que se dicta en virtud de la habilitación que confiere al Gobierno la Ley Orgánica 1/1990, de 3 de octubre, en sus disposiciones adicionales novena, apartado 1, y décima, apartado 8, y en uso de la competencia estatal para la ordenación general del sistema educativo recogida expresamente en la disposición adicional primera 2, a) de la [Ley Orgánica 8/1985](../02_gestion_y_administracion_centros/LO8_1985_derecho_educacion.md), de 3 de julio, reguladora del Derecho a la Educación, tiene carácter de norma básica.
 
 2. El Ministro de Educación y Ciencia y las autoridades correspondientes de las Comunidades Autónomas podrán dictar, en el ámbito de sus respectivas competencias, las normas que sean precisas para la aplicación y desarrollo de este Real Decreto.
 

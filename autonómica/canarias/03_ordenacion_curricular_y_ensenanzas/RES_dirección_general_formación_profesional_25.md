@@ -40,9 +40,24 @@ fundamentos_derecho:
 - norma_id: norm-can-l-6-2014
   articulos:
   - '1'
+- norma_id: norm-can-d-84-2024
+- norma_id: norm-can-lo-1-2018
+- norma_id: norm-can-res-134
+- norma_id: norm-es-lo-1-1996
+- norma_id: norm-es-lo-2-2006
+- norma_id: norm-es-2001-7022
+- norma_id: norm-es-lo-3-2018
+- norma_id: norm-es-rd-132-2010
+- norma_id: norm-es-2021-20113
+- norma_id: norm-es-2024-10683
+- norma_id: norm-es-2024-10684
+- norma_id: norm-es-2024-10685
+- norma_id: norm-es-lo-3-2022
+- norma_id: norm-es-rd-659-2023
+- norma_id: norm-es-2010-12201
 fuente_pdf_oficial: https://sede.gobiernodecanarias.org/boc/boc-a-2024-230-3794.pdf
 ---
-# Resolución de 5 de noviembre de 2024,de la Dirección General de Formación Profesional y Enseñanzas de Régimen Especial, por la que se dictan instrucciones y orientaciones para la formación dual en empresas u organismos equiparados en los Certificados Profesionales (Grado C), los Ciclos Formativos de Grado Básico, Medio y Superior (Grados D, niveles 1, 2 y 3) y Cursos de Especialización (Grado E, niveles 2 y 3), en aplicación del Real Decreto 659/2023, de 18 de julio, en los centros docentes no universitarios de la Comunidad Autónoma de Canarias.
+# Resolución de 5 de noviembre de 2024,de la Dirección General de Formación Profesional y Enseñanzas de Régimen Especial, por la que se dictan instrucciones y orientaciones para la formación dual en empresas u organismos equiparados en los Certificados Profesionales (Grado C), los Ciclos Formativos de Grado Básico, Medio y Superior (Grados D, niveles 1, 2 y 3) y Cursos de Especialización (Grado E, niveles 2 y 3), en aplicación del [Real Decreto 659/2023](../../../estatal/03_ordenacion_curricular_y_ensenanzas/RD659_2023_ordenacion_general_formacion_profesional.md), de 18 de julio, en los centros docentes no universitarios de la Comunidad Autónoma de Canarias.
 
 III. Otras Resoluciones
 Consejería de Educación, Formación Profesional, Actividad Física y Deportes
@@ -53,7 +68,7 @@ los Certificados Profesionales (Grado C), los Ciclos Formativos de Grado Básico
 Medio y Superior (Grados D, niveles 1, 2 y 3) y Cursos de Especialización (Grado E, 
 niveles 2 y 3), en aplicación del Real Decreto 659/2023, de 18 de julio, en los centros 
 docentes no universitarios de la Comunidad Autónoma de Canarias.
-La Ley Orgánica 3/2022, de 31 de marzo, de ordenación e integración de la Formación 
+La [Ley Orgánica 3/2022](../08_personal_docente/RES_dirección_general_personal_sobre_134.md), de 31 de marzo, de ordenación e integración de la Formación 
 Profesional, da relevancia a la formación del individuo a lo largo de la vida profesional 
 y personal, acompañándolo en la toma de decisiones en cuanto a formación se refiere, 
 desde la enseñanza básica, pasando por la enseñanza postobligatoria y finalizando en el 
@@ -103,7 +118,7 @@ centros de trabajo, denominado FCT, en el curso 2025-2026, establecido en el art
 del Real Decreto 1147/2011, de 29 de julio, por el que se establece la ordenación general 
 de la formación profesional. Sin embargo, el módulo de FCT seguirá impartiéndose en 
 aquellos títulos de formación profesional aún vigentes y que fueron creados bajo el amparo 
-de la Ley Orgánica 1/1990, de 3 de octubre (
+de la [Ley Orgánica 1/1990](../../../estatal/02_gestion_y_administracion_centros/BOE_2001_7022_correspondientes_españoles_educación_secundaria.md), de 3 de octubre (
 LOGSE).
 Cuarto.- El adelanto en la Comunidad Autónoma de Canarias de los ciclos formativos 
 de grado básico [Grado D, nivel 1 (en adelante CFGB)], con el Decreto 9/2023, de 26 
@@ -116,12 +131,12 @@ preferencia para acceder a los títulos de la misma familia profesional. Al titu
 dará lugar a la obtención del título de Graduado en Educación Secundaria Obligatoria 
 (ESO) y el título Profesional Básico.
 FUNDAMENTOS DE DERECHO
-Primero.- El artículo 133.3 de la Ley Orgánica 1/2018, de 5 de noviembre, de reforma 
+Primero.- El artículo 133.3 de la [Ley Orgánica 1/2018](../01_marco_normativo_general_y_organico/LO1_2018_estatuto_autonomia_canarias.md), de 5 de noviembre, de reforma 
 del Estatuto de Autonomía de Canarias, indica que le corresponde a la Comunidad Autónoma 
 de Canarias la competencia de desarrollo legislativo y de ejecución, entre otras, de la 
 ordenación de las enseñanza y la actividad docente y educativa, así como el establecimiento 
 de los correspondientes planes de estudio, incluida la ordenación curricular.
-Segundo.- El artículo 42.2 de la Ley Orgánica 2/2006, de 3 de mayo, de Educación, en 
+Segundo.- El artículo 42.2 de la [Ley Orgánica 2/2006](../../../estatal/01_marco_normativo_general_y_organico/LO2_2006_ley_organica_educacion.md), de 3 de mayo, de Educación, en 
 su redacción actual, indica que todos los ciclos formativos “incluirán una fase práctica dual 
 de formación en los centros de trabajo, de la que podrán quedar exentos quienes acrediten 
 una experiencia laboral que se corresponda con los estudios profesionales cursados. Las 
@@ -155,24 +170,24 @@ formativos y profesionales.
 Sexto.- Respecto a la formación en empresas u organismos equiparados en las ofertas de 
 ciclos formativos de Grado D y E, los siguientes reales decretos que modifican o complementan 
 al Real Decreto 659/2023:
-- Real Decreto 499/2024, de 21 de mayo, por el que se modifican determinados reales 
+- [Real Decreto 499/2024](../../../estatal/03_ordenacion_curricular_y_ensenanzas/BOE_2024_10684_mayo_modifican_determinados_reales.md), de 21 de mayo, por el que se modifican determinados reales 
 decretos por los que se establecen títulos de Formación Profesional de grado medio y se 
 fijan sus enseñanzas mínimas.
-- Real Decreto 498/2024, de 21 de mayo, por el que se modifican determinados reales 
+- [Real Decreto 498/2024](../../../estatal/03_ordenacion_curricular_y_ensenanzas/BOE_2024_10683_mayo_modifican_determinados_reales.md), de 21 de mayo, por el que se modifican determinados reales 
 decretos por los que se establecen títulos de Formación Profesional de grado básico y se 
 fijan sus enseñanzas mínimas.
 - Real Decreto 499/2024, de 21 de mayo, por el que se modifican determinados reales 
 decretos por los que se establecen títulos de Formación Profesional de grado medio y se 
 fijan sus enseñanzas mínimas.
-- Real Decreto 500/2024, de 21 de mayo, por el que se modifican determinados reales 
+- [Real Decreto 500/2024](../../../estatal/03_ordenacion_curricular_y_ensenanzas/BOE_2024_10685_mayo_modifican_determinados_reales.md), de 21 de mayo, por el que se modifican determinados reales 
 decretos por los que se establecen títulos de Formación Profesional de grado superior y se 
 fijan sus enseñanzas mínimas.
-- Real Decreto 658/2024, de 9 de julio, por el que se modifican el Real Decreto 
-132/2010, de 12 de febrero, por el que se establecen los requisitos mínimos de los centros 
+- Real Decreto 658/2024, de 9 de julio, por el que se modifican el [Real Decreto 
+132/2010](../../../estatal/02_gestion_y_administracion_centros/RD132_2010_requisitos_minimos_centros.md), de 12 de febrero, por el que se establecen los requisitos mínimos de los centros 
 que impartan las enseñanzas del segundo ciclo de la educación infantil, la educación 
 primaria y la educación secundaria, y el Real Decreto 659/2023, de 18 de julio, por el que 
 se desarrolla la ordenación del Sistema de Formación Profesional.
-Séptimo.- La Ley 6/2014, de 25 de julio, Canaria de Educación no Universitaria, en su 
+Séptimo.- La [Ley 6/2014](../01_marco_normativo_general_y_organico/L6_2014_ley_canaria_educacion.md), de 25 de julio, Canaria de Educación no Universitaria, en su 
 artículo 33, puntos 10 y 11, promueve los programas para que el alumnado pueda realizar 
 prácticas de formación profesional inicial en centros de trabajo ubicados en países de la 
 
@@ -199,7 +214,7 @@ académico y lo define como formación práctica con carácter no laboral desarr
 un entorno productivo real.
 Por todo lo expuesto, de conformidad con lo establecido en el artículo 20 del Reglamento 
 Orgánico de la Consejería de Educación, Formación Profesional, Actividad Física y Deportes, 
-aprobado mediante Decreto 84/2024, de 10 de junio, por el que se asignan competencias 
+aprobado mediante [Decreto 84/2024](../01_marco_normativo_general_y_organico/D84_2024_reglamento_organico_consejeria.md), de 10 de junio, por el que se asignan competencias 
 generales y específicas a la Dirección General de Formación Profesional y Enseñanzas de 
 Régimen Especial,
 RESUELVO :
@@ -448,7 +463,7 @@ perfil profesional del título.
 • En el caso de centros públicos que imparten CFGB, la formación en empresa por parte 
 del alumnado se podrá llevar a cabo en otros centros docentes de la red pública de Canarias, 
 atendiendo al perfil profesional de nivel 1 de cualificación y los requisitos establecidos 
-para el contacto con menores por la Ley Orgánica 1/1996, de 15 de enero, de Protección 
+para el contacto con menores por la [Ley Orgánica 1/1996](../../../estatal/01_marco_normativo_general_y_organico/LO1_1996_proteccion_juridica_menor.md), de 15 de enero, de Protección 
 Jurídica del Menor. Para ello será necesario que el centro emisor cuente con la colaboración 
 del centro donde se vaya a realizar la formación y que este cuente con un profesional que 
 desempeñe tareas en el mismo del sector de la familia profesional del CFGB.
@@ -842,7 +857,7 @@ accidente o aspecto relevante que afecte al alumnado desde el momento de la dete
 para poder resolverla de manera satisfactoria.
 h) Conocer e informar al alumnado tutorizado de aquellas circunstancias específicas 
 que puedan influir en el desarrollo de su formación práctica, manteniendo en todo momento 
-la confidencialidad de la información recibida, cumpliendo con la Ley Orgánica 3/2018, 
+la confidencialidad de la información recibida, cumpliendo con la [Ley Orgánica 3/2018](../../../estatal/02_gestion_y_administracion_centros/LO3_2018_proteccion_datos_personales.md), 
 de 5 de diciembre, de Protección de Datos Personales y garantía de los derechos digitales.
 i) Dotar al alumno o alumna de las herramientas informáticas para la realización de 
 teletrabajo, en el caso de que la empresa u organismo equiparado desarrolle esta modalidad 

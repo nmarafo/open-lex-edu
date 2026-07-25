@@ -28,10 +28,12 @@ fundamentos_derecho:
 - norma_id: norm-es-rdl-5-2015
   articulos:
   - '1'
+- norma_id: norm-es-1984-17387
+- norma_id: norm-es-l-53-1984
 ---
 # Real Decreto 598/1985, de 30 de abril, sobre incompatibilidades del personal al servicio de la Administración del Estado, de la Seguridad Social y de los Entes, Organismos y Empresas dependientes.
 
-La Ley 53/1984, de 26 de diciembre, de incompatibilidades del personal al servicio de las Administraciones Públicas, requiere el desarrollo reglamentario de determinados preceptos, entre los que se encuentran los relativos a procedimiento y plazos, así como otros referentes a la forma y condiciones de los reconocimientos de compatibilidad de actividades privadas.
+La [Ley 53/1984](../01_marco_normativo_general_y_organico/L53_1984_incompatibilidades_personal_publico.md), de 26 de diciembre, de incompatibilidades del personal al servicio de las Administraciones Públicas, requiere el desarrollo reglamentario de determinados preceptos, entre los que se encuentran los relativos a procedimiento y plazos, así como otros referentes a la forma y condiciones de los reconocimientos de compatibilidad de actividades privadas.
 
 El personal de las Fuerzas Armadas queda excluido del presente Real Decreto por cuanto que, con arreglo a la disposición adicional quinta de la citada Ley, la adaptación de la misma a la estructura y funciones de aquéllas debe efectuarse por el Gobierno, en plazo de seis meses desde la entrada en vigor de dicha Ley, a propuesta del Ministerio de Defensa, de acuerdo con el de Interior, por lo que se refiere a la Guardia Civil.
 
@@ -175,7 +177,7 @@ En el plazo indicado deberán ejercitar la opción establecida con carácter gen
 
 1. El Ministerio de la Presidencia procederá a adoptar las medidas necesarias para que se produzca el cese en el segundo puesto o actividad y se declare al interesado en la situación que proceda, respecto del personal que hubiere realizado la opción a que se refiere la disposición transitoria primera, a), de la Ley 53/1984.
 
-Cuando se trate de personal sometido al ámbito de aplicación de la Ley 30/1984, de 2 de agosto, y el puesto en el que se haya de cesar esté comprendido en el artículo 2.º de la Ley 53/1984, de 26 de diciembre, la situación administrativa procedente será la que se determina en el apartado a) del artículo 29.3 De la disposición legal primeramente citada.
+Cuando se trate de personal sometido al ámbito de aplicación de la [Ley 30/1984](../01_marco_normativo_general_y_organico/BOE_1984_17387_agosto_medidas_para_reforma.md), de 2 de agosto, y el puesto en el que se haya de cesar esté comprendido en el artículo 2.º de la Ley 53/1984, de 26 de diciembre, la situación administrativa procedente será la que se determina en el apartado a) del artículo 29.3 De la disposición legal primeramente citada.
 
 En todos los supuestos a que se refiere este apartado, el cese del interesado en la prestación de servicios en el segundo puesto se producirá como consecuencia de la declaración de excedencia adaptada por el órgano competente, cuyos efectos, en todo caso, no podrán ser posteriores al día último del mes siguiente a aquel en que se produjera la pertinente comunicación del Ministerio de la Presidencia.
 

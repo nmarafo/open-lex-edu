@@ -23,6 +23,7 @@ fundamentos_derecho:
 - norma_id: norm-es-ce-1978
   articulos:
   - '27'
+- norma_id: norm-es-1999-23750
 ---
 # Ley 59/2003, de 19 de diciembre, de firma electrónica.
 
@@ -380,7 +381,7 @@ Obligaciones
 
 #### Artículo 17. Protección de los datos personales.
 
-1. El tratamiento de los datos personales que precisen los prestadores de servicios de certificación para el desarrollo de su actividad y los órganos administrativos para el ejercicio de las funciones atribuidas por esta ley se sujetará a lo dispuesto en la Ley Orgánica 15/1999, de 13 de diciembre, de Protección de Datos de Carácter Personal y en sus normas de desarrollo.
+1. El tratamiento de los datos personales que precisen los prestadores de servicios de certificación para el desarrollo de su actividad y los órganos administrativos para el ejercicio de las funciones atribuidas por esta ley se sujetará a lo dispuesto en la [Ley Orgánica 15/1999](BOE_1999_23750_diciembre_protección_datos_carácter.md), de 13 de diciembre, de Protección de Datos de Carácter Personal y en sus normas de desarrollo.
 
 2. Para la expedición de certificados electrónicos al público, los prestadores de servicios de certificación únicamente podrán recabar datos personales directamente de los firmantes o previo consentimiento expreso de éstos.
 

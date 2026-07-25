@@ -34,6 +34,16 @@ fundamentos_derecho:
 - norma_id: norm-can-l-6-2014
   articulos:
   - '1'
+- norma_id: norm-can-d-84-2024
+- norma_id: norm-can-lo-1-2018
+- norma_id: norm-can-res-boc-2024-230-25
+- norma_id: norm-can-d-9-2022
+- norma_id: norm-can-res-134
+- norma_id: norm-es-lo-2-2006
+- norma_id: norm-es-2021-20113
+- norma_id: norm-es-lo-3-2022
+- norma_id: norm-es-rd-659-2023
+- norma_id: norm-es-2010-12201
 fuente_pdf_oficial: https://sede.gobiernodecanarias.org/boc/boc-a-2026-039-642.pdf
 ---
 # Resolución de 13 de febrero de 2026, por la que se convoca el procedimiento de admisión del alumnado a los Ciclos Formativos de Grado Básico, Medio y Superior (Grado D, niveles 1, 2 y 3, respectivamente) y de los cursos de especialización de Grado Medio y Superior (Grados E, niveles 2 y 3, respectivamente) de todas las Enseñanzas de Formación Profesional autorizadas, Enseñanzas Profesionales de Artes Plásticas y Diseño, Enseñanzas Deportivas, Enseñanzas Elementales y Profesionales de Música y Enseñanzas de Idiomas en centros docentes sostenidos con fondos públicos en la Comunidad Autónoma de Canarias para el curso escolar 2026-2027.
@@ -96,7 +106,7 @@ Formación Profesional, Enseñanzas Profesionales de Artes Plásticas y Diseño,
 Deportivas, Enseñanzas Elementales y Profesionales de Música y Enseñanzas de Idiomas 
 en la Comunidad Autónoma de Canarias.
 FUNDAMENTOS DE DERECHO
-Primero.- La Ley Orgánica 2/2006, de 3 de mayo, de Educación, señala en su artículo 
+Primero.- La [Ley Orgánica 2/2006](../../../estatal/01_marco_normativo_general_y_organico/LO2_2006_ley_organica_educacion.md), de 3 de mayo, de Educación, señala en su artículo 
 84.1 que “Las Administraciones educativas regularán la admisión de alumnos y alumnas en 
 centros públicos y privados concertados de tal forma que garantice el derecho a la educación, 
 el acceso en condiciones de igualdad y la libertad de elección de centro por padres, madres 
@@ -104,18 +114,18 @@ o tutores legales. En dicha regulación se dispondrán las medidas necesarias pa
 la segregación del alumnado por motivos socioeconómicos o de otra naturaleza. En todo 
 caso, se atenderá a una adecuada y equilibrada distribución entre los centros escolares del 
 alumnado con necesidad específica de apoyo educativo”.
-Segundo.- La Ley 6/2014, de 25 de julio, Canaria de Educación no Universitaria, en 
+Segundo.- La [Ley 6/2014](../01_marco_normativo_general_y_organico/L6_2014_ley_canaria_educacion.md), de 25 de julio, Canaria de Educación no Universitaria, en 
 su artículo 51, prevé que el Gobierno de Canarias regulará la admisión del alumnado en 
 centros públicos y privados concertados, de tal forma que se garantice el derecho a la 
 educación y el acceso en condiciones de igualdad. En todo caso, se atenderá a una adecuada 
 y equilibrada distribución entre los centros escolares del alumnado con necesidad específica 
 de apoyo educativo.
-Tercero.- El artículo 133.3 de la Ley Orgánica 1/2018, de 5 de noviembre, de reforma del 
+Tercero.- El artículo 133.3 de la [Ley Orgánica 1/2018](../01_marco_normativo_general_y_organico/LO1_2018_estatuto_autonomia_canarias.md), de 5 de noviembre, de reforma del 
 Estatuto de Autonomía de Canarias, indica que le corresponde a la Comunidad Autónoma 
 de Canarias la competencia de desarrollo legislativo y de ejecución, entre otras, de la 
 ordenación de las enseñanza y la actividad docente y educativa, así como el establecimiento 
 de los correspondientes planes de estudio, incluida la ordenación curricular.
-Cuarto.- El Decreto 9/2022, de 20 de enero, por el que se regula la admisión del 
+Cuarto.- El [Decreto 9/2022](D9_2022_admision_alumnado_canarias.md), de 20 de enero, por el que se regula la admisión del 
 alumnado en centros docentes que oferten enseñanzas no universitarias sostenidas 
 con fondos públicos en la Comunidad Autónoma de Canarias, garantiza el derecho a la 
 educación, el acceso en condiciones de igualdad y la libertad de elección de centro por 
@@ -127,8 +137,8 @@ enseñanzas no universitarias sostenidas con fondos públicos en la Comunidad Au
 de Canarias, en su artículo 7.1 dispone que la dirección general competente en materia de 
 escolarización dictará las instrucciones necesarias y convocará anualmente el procedimiento 
 de admisión, con el calendario de cada una de las enseñanzas.
-Sexto.- El Real Decreto 659/2023, de 18 de julio, por el que se desarrolla la ordenación 
-del sistema de Formación Profesional, definido por la Ley Orgánica 3/2022, de 31 de 
+Sexto.- El [Real Decreto 659/2023](../03_ordenacion_curricular_y_ensenanzas/RES_dirección_general_formación_profesional_25.md), de 18 de julio, por el que se desarrolla la ordenación 
+del sistema de Formación Profesional, definido por la [Ley Orgánica 3/2022](../08_personal_docente/RES_dirección_general_personal_sobre_134.md), de 31 de 
 marzo, de ordenación e integración de la Formación Profesional, señala en su artículo 4 
 que entre las ofertas formativas del Sistema de Formación Profesional se encuentran los 
 denominados Grados D de los que forman parte los ciclos formativos de Grado Básico, 
@@ -161,7 +171,7 @@ Decreto 9/2022, de 20 de enero, por el que se regula la admisión del alumnado e
 docentes que oferten enseñanzas no universitarias sostenidas con fondos públicos, en 
 la Comunidad Autónoma de Canarias, y en ejercicio de las competencias atribuidas en 
 el artículo 20.2.d) del Reglamento Orgánico de la Consejería de Educación, Formación 
-Profesional, Actividad Física y Deportes, aprobado por Decreto 84/2024, de 10 de junio,
+Profesional, Actividad Física y Deportes, aprobado por [Decreto 84/2024](../01_marco_normativo_general_y_organico/D84_2024_reglamento_organico_consejeria.md), de 10 de junio,
 RESUELVO :
 Primero.- Aprobar las presentes instrucciones contenidas en esta Resolución que tiene 
 por objeto publicar el procedimiento de admisión del alumnado, el calendario de aplicación 

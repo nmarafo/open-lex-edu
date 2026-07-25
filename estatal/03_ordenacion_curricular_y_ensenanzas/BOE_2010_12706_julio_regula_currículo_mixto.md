@@ -34,10 +34,13 @@ fundamentos_derecho:
   articulos:
   - '1'
   - '2'
+- norma_id: norm-es-2010-4130
+- norma_id: norm-es-2021-20113
+- norma_id: norm-es-2010-12201
 ---
 # Orden EDU/2157/2010, de 30 de julio, por la que se regula el currículo mixto de las enseñanzas acogidas al Acuerdo entre el Gobierno de España y el Gobierno de Francia relativo a la doble titulación de Bachiller y de Baccalauréat en centros docentes españoles, así como los requisitos para su obtención.
 
-La Ley Orgánica 2/2006, de 3 de mayo, de Educación, recoge en su Preámbulo, como uno de sus principios inspiradores, el compromiso decidido con los objetivos educativos planteados por la Unión Europea para los próximos años. La Unión Europea y la UNESCO han puesto de manifiesto la necesidad de abrir los sistemas educativos al mundo exterior, lo que exige, entre otros requisitos, mejorar el aprendizaje de idiomas extranjeros, aumentar la movilidad y los intercambios, y reforzar la cooperación europea.
+La [Ley Orgánica 2/2006](../01_marco_normativo_general_y_organico/LO2_2006_ley_organica_educacion.md), de 3 de mayo, de Educación, recoge en su Preámbulo, como uno de sus principios inspiradores, el compromiso decidido con los objetivos educativos planteados por la Unión Europea para los próximos años. La Unión Europea y la UNESCO han puesto de manifiesto la necesidad de abrir los sistemas educativos al mundo exterior, lo que exige, entre otros requisitos, mejorar el aprendizaje de idiomas extranjeros, aumentar la movilidad y los intercambios, y reforzar la cooperación europea.
 
 Asimismo, en su artículo 6.6 determina que el Gobierno podrá establecer, en el marco de la cooperación internacional en materia de educación, currículos mixtos de enseñanzas del sistema educativo español y de otros sistemas educativos, conducentes a los títulos respectivos.
 
@@ -45,7 +48,7 @@ La Constitución Española establece, en su artículo149.1.30.ª, como competenc
 
 En consecuencia, los representantes de España y de Francia, animados por la voluntad común de continuar promoviendo la cooperación cultural entre los dos Estados, en particular en el ámbito educativo, firmaron el Acuerdo entre el Gobierno del Reino de España y el Gobierno de la República Francesa relativo a la doble titulación de Bachiller y de Baccalauréat, hecho «ad referendum» en París el 10 de enero de 2008, con el objetivo de establecer un marco de cooperación educativa que permita otorgar simultáneamente los títulos de Bachiller y de Baccalauréat.
 
-Finalmente, el Real Decreto 102/2010, de 5 de febrero, por el que se regula la ordenación de las enseñanzas acogidas al Acuerdo entre el Gobierno de España y el Gobierno de Francia relativo a la doble titulación de Bachiller y de Baccalauréat en centros docentes españoles, ordena la aplicación de ambos acuerdos de modo que sus beneficios puedan extenderse a centros de todas las Administraciones educativas, respetando sus competencias en materia de currículo.
+Finalmente, el [Real Decreto 102/2010](BOE_2010_4130_febrero_regula_ordenación_enseñanzas.md), de 5 de febrero, por el que se regula la ordenación de las enseñanzas acogidas al Acuerdo entre el Gobierno de España y el Gobierno de Francia relativo a la doble titulación de Bachiller y de Baccalauréat en centros docentes españoles, ordena la aplicación de ambos acuerdos de modo que sus beneficios puedan extenderse a centros de todas las Administraciones educativas, respetando sus competencias en materia de currículo.
 
 Asimismo, su artículo 2 dispone que los centros escolares españoles que deseen ofrecer las enseñanzas conducentes a la doble titulación de Bachiller y Baccalauréat deberán implantar un currículo mixto que integre los contenidos esenciales para el conocimiento de la lengua y de la realidad histórica, social y política de Francia, así como los métodos pedagógicos y los criterios de evaluación acordados por las Partes firmantes del Acuerdo de Doble Titulación de 2008.
 

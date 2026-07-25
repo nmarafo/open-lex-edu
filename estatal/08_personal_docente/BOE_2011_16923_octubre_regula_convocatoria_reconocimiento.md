@@ -29,10 +29,14 @@ fundamentos_derecho:
   articulos:
   - '1'
   - '2'
+- norma_id: norm-es-1999-23750
+- norma_id: norm-es-rd-1834-2008
+- norma_id: norm-es-2021-20113
+- norma_id: norm-es-2010-12201
 ---
 # Orden EDU/2886/2011, de 20 de octubre, por la que se regula la convocatoria, reconocimiento, certificación y registro de las actividades de formación permanente del profesorado.
 
-La Ley Orgánica 2/2006, de 3 de mayo, de Educación, en su título preliminar, destaca entre los factores que favorecen la calidad de la enseñanza, y a los cuales se prestará una atención prioritaria, la cualificación y formación del profesorado, la investigación, la experimentación y la renovación educativa.
+La [Ley Orgánica 2/2006](../01_marco_normativo_general_y_organico/LO2_2006_ley_organica_educacion.md), de 3 de mayo, de Educación, en su título preliminar, destaca entre los factores que favorecen la calidad de la enseñanza, y a los cuales se prestará una atención prioritaria, la cualificación y formación del profesorado, la investigación, la experimentación y la renovación educativa.
 
 Los cambios en la educación y en la sociedad plantean nuevas demandas a la profesión docente que la hacen cada vez más compleja. En consonancia con estos cambios también se han producido cambios en las modalidades y estructura de las actividades de formación. Además, la difusión de las tecnologías de la información y la comunicación y su impacto en el ámbito educativo ofrece nuevas vías de formación que deben ser contempladas en una norma de estas características. Por tanto, se hace necesaria la actualización y unificación de la normativa existente en esta materia.
 
@@ -206,7 +210,7 @@ Congreso
 
 4. Excepcionalmente, se podrán reconocer actividades que no cumplan los requisitos establecidos en la tabla anterior, cuando las características de la actividad o el colectivo al que se dirige así lo justifique.
 
-5. En los cursos, seminarios, grupos de trabajo y congresos, una vez alcanzado el número mínimo de personas participantes que sean Profesores, se podrán asignar plazas a quienes no habiendo ejercido la docencia, cumplan todos los requisitos para ello establecidos en el Real Decreto 1834/2008 y la Orden ECI/3857/2007. Estas plazas no podrán superar el 15% del total de los participantes.
+5. En los cursos, seminarios, grupos de trabajo y congresos, una vez alcanzado el número mínimo de personas participantes que sean Profesores, se podrán asignar plazas a quienes no habiendo ejercido la docencia, cumplan todos los requisitos para ello establecidos en el [Real Decreto 1834/2008](../02_gestion_y_administracion_centros/RD1834_2008_condiciones_docencia_secundaria.md) y la Orden ECI/3857/2007. Estas plazas no podrán superar el 15% del total de los participantes.
 
 #### Artículo 9. Evaluación de los participantes.
 
@@ -642,7 +646,7 @@ A tal fin remito la siguiente de documentación:
 
 □ Certificación de la Agencia Tributaria
 
-De acuerdo con el artículo 6 de la Ley Orgánica 15/1999, de 13 de diciembre, de Protección de Datos de Carácter Personal, consiento expresamente en que el Ministerio de Educación, a través de la Dirección General de Formación Profesional, recabe de la Agencia Estatal de la Administración Tributaria y de la Tesorería General de la Seguridad Social los siguientes datos: certificados de estar al corriente de sus obligaciones tributarias y frente a la Seguridad Social.
+De acuerdo con el artículo 6 de la [Ley Orgánica 15/1999](../02_gestion_y_administracion_centros/BOE_1999_23750_diciembre_protección_datos_carácter.md), de 13 de diciembre, de Protección de Datos de Carácter Personal, consiento expresamente en que el Ministerio de Educación, a través de la Dirección General de Formación Profesional, recabe de la Agencia Estatal de la Administración Tributaria y de la Tesorería General de la Seguridad Social los siguientes datos: certificados de estar al corriente de sus obligaciones tributarias y frente a la Seguridad Social.
 
 En Madrid, a ........ de ................................... de ...........
 

@@ -31,6 +31,16 @@ fundamentos_derecho:
   articulos:
   - '1'
 - norma_id: norm-es-lo-2-2006
+- norma_id: norm-can-d-106-2009
+- norma_id: norm-can-d-81-2010
+- norma_id: norm-can-o-2013-10-09
+- norma_id: norm-can-d-25-2018
+- norma_id: norm-es-l-40-2015
+- norma_id: norm-es-2016-3229
+- norma_id: norm-es-2021-20113
+- norma_id: norm-es-2010-12201
+- norma_id: norm-es-2007-6115
+- norma_id: norm-es-2010-4518
 fuente_pdf_oficial: https://sede.gobiernodecanarias.org/boc/boc-a-2018-124-3068.pdf
 ---
 # Resolución de 21 de junio de 2018, de la Viceconsejería de Educación y Universidades, por la que se dictan instrucciones de organización y funcionamiento dirigidas a los centros docentes públicos no universitarios de la Comunidad Autónoma de Canarias para el curso 2018/19 (BOC n.º 124, de 28 de junio).
@@ -46,11 +56,11 @@ Siendo necesario dictar instrucciones precisas para los centros docentes públic
 universitarios de la Comunidad Autónoma de Canarias para el curso 2018/19, en la Consejería 
 de Educación y Universidades (en adelante CEU), y de acuerdo con los siguientes
 ANTECEDENTES DE HECHO
-Primero.- La Ley Orgánica 8/2013, de 9 de diciembre, para la mejora de la calidad 
-educativa (en adelante LOMCE), en tanto en cuanto modifica la Ley Orgánica 2/2006, de 3 
+Primero.- La [Ley Orgánica 8/2013](../../../estatal/03_ordenacion_curricular_y_ensenanzas/BOE_2016_3229_marzo_regula_procedimiento_incorporación.md), de 9 de diciembre, para la mejora de la calidad 
+educativa (en adelante LOMCE), en tanto en cuanto modifica la [Ley Orgánica 2/2006](../../../estatal/01_marco_normativo_general_y_organico/LO2_2006_ley_organica_educacion.md), de 3 
 de mayo, de Educación (en adelante LOE), en las etapas educativas de Educación Secundaria 
 Obligatoria, Bachillerato y Educación de Personas Adultas, conlleva la generalización del 
-nuevo marco curricular y evaluativo de estas enseñanzas; asimismo, la Ley 6/2014, de 25 de 
+nuevo marco curricular y evaluativo de estas enseñanzas; asimismo, la [Ley 6/2014](../01_marco_normativo_general_y_organico/L6_2014_ley_canaria_educacion.md), de 25 de 
 julio, Canaria de Educación no Universitaria (BOC nº 152, de 7 de agosto) determina que el 
 sistema educativo en Canarias se vaya configurando, progresivamente, dentro de los límites 
 establecidos por los planes y líneas estratégicas que desarrollan dicha Ley, los cuales se han 
@@ -110,13 +120,13 @@ de 13 de agosto).
 Cuarto.- El Decreto 315/2015, de 28 de agosto, por el que se establece la ordenación 
 de la Educación Secundaria Obligatoria y del Bachillerato en la Comunidad Autónoma de 
 Canarias (BOC nº 169, de 31 de agosto).
-Quinto.- El Decreto 25/2018, de 26 de febrero, por el que se regula la atención a la 
+Quinto.- El [Decreto 25/2018](../06_atencion_diversidad_y_orientacion/D25_2018_atencion_diversidad_canarias.md), de 26 de febrero, por el que se regula la atención a la 
 diversidad en el ámbito de las enseñanzas no universitarias de la Comunidad Autónoma de 
 Canarias (BOC nº 46, de 6 de marzo).
 Sexto.- El Decreto 83/2016, de 4 de julio, por el que se establece el currículo de la 
 Educación Secundaria Obligatoria y el Bachillerato en la Comunidad Autónoma de Canarias 
 (BOC nº 136, de 15 de julio).
-Séptimo.- El Decreto 81/2010, de 8 de julio, por el que se aprueba el Reglamento Orgánico 
+Séptimo.- El [Decreto 81/2010](../04_organizacion_escolar_y_funcionamiento/D81_2010_reglamento_organico_centros.md), de 8 de julio, por el que se aprueba el Reglamento Orgánico 
 de los centros docentes públicos no universitarios de la Comunidad Autónoma de Canarias 
 
 Jueves 28 de junio de 2018
@@ -134,7 +144,7 @@ alcanzar el éxito educativo mediante una reducción del absentismo escolar y de
 abandono escolar, de una parte, y mediante la mejora del rendimiento educativo y del nivel 
 de logro en la adquisición de las competencias por el alumnado, de otra parte.
 Las instrucciones y criterios que se definen en la presente Resolución están en 
-consonancia con lo dispuesto en la Orden de 9 de octubre de 2013, por la que se desarrolla 
+consonancia con lo dispuesto en la [Orden de 9 de octubre de 2013](../04_organizacion_escolar_y_funcionamiento/O9_10_2013_desarrollo_reglamento_organico_centros.md), por la que se desarrolla 
 el Decreto 81/2010, de 8 de julio, por el que se aprueba el Reglamento Orgánico de los 
 centros docentes públicos no universitarios de la Comunidad Autónoma de Canarias, 
 en lo referente a su organización y funcionamiento (BOC nº 200, de 16 de octubre), 
@@ -142,7 +152,7 @@ en adelante, Orden de 9 de octubre de 2013, y deben contribuir a que cada uno de
 centros pueda formalizar su compromiso con la mejora continua en los resultados de 
 aprendizaje de su alumnado y, especialmente, en la reducción de las tasas de absentismo 
 escolar y de abandono escolar.
-Octavo.- El Decreto 106/2009, de 28 de julio, por el que se regula la función directiva en 
+Octavo.- El [Decreto 106/2009](../04_organizacion_escolar_y_funcionamiento/D106_2009_funcion_directiva_centros_docentes.md), de 28 de julio, por el que se regula la función directiva en 
 los centros docentes públicos no universitarios dependientes de la Comunidad Autónoma de 
 Canarias (BOC nº 155, de 11 de agosto).
 Noveno.- El Decreto 224/2017, de 13 de noviembre, por el que se aprueba el Reglamento 
@@ -156,8 +166,8 @@ datos de carácter personal contenidos en ficheros de la titularidad de la Admin
 Pública de la Comunidad Autónoma de Canarias (BOC nº 44, de 3 de marzo), así como 
 las Resoluciones y Orden por las que se registran las actividades de tratamiento de datos 
 personales que afecten a los centros educativos.
-Undécimo.- La Ley Orgánica 3/2007, de 22 de marzo, para la igualdad efectiva de 
-mujeres y hombres (BOE nº 71, de 23 de marzo), la Ley 1/2010, de 26 de febrero, Canaria 
+Undécimo.- La [Ley Orgánica 3/2007](../../../estatal/07_convivencia_bienestar_y_protocolos/BOE_2007_6115_marzo_para_igualdad_efectiva.md), de 22 de marzo, para la igualdad efectiva de 
+mujeres y hombres (BOE nº 71, de 23 de marzo), la [Ley 1/2010](../../../estatal/07_convivencia_bienestar_y_protocolos/BOE_2010_4518_febrero_canaria_igualdad_entre.md), de 26 de febrero, Canaria 
 de Igualdad entre mujeres y hombres (BOC nº 45, de 5 de marzo), la Ley 8/2014, de 28 
 de octubre, de no discriminación por motivos de identidad de género y de reconocimiento 
 de los derechos de las personas transexuales (BOC nº 215, de 5 de noviembre) y la Ley 
@@ -165,7 +175,7 @@ de los derechos de las personas transexuales (BOC nº 215, de 5 de noviembre) y 
 Jueves 28 de junio de 2018
 Orgánica 1/1996, de 15 de enero, de Protección Jurídica del Menor, de modificación parcial 
 del Código Civil y de la Ley de Enjuiciamiento Civil (BOE nº 15, de 16 de febrero).
-Duodécimo.- De acuerdo con lo expuesto, en virtud de lo previsto en la Ley 40/2015, 
+Duodécimo.- De acuerdo con lo expuesto, en virtud de lo previsto en la [Ley 40/2015](../../../estatal/01_marco_normativo_general_y_organico/L40_2015_regimen_juridico_sector_publico.md), 
 de 1 de octubre, de Régimen Jurídico del Sector Público (BOE nº 236, de 2 de octubre) 
 en su artículo 6.1, «Los órganos administrativos podrán dirigir las actividades de sus 
 órganos jerárquicamente dependientes mediante instrucciones y órdenes de servicio», 

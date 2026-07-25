@@ -33,6 +33,12 @@ fundamentos_derecho:
 - norma_id: norm-can-l-6-2014
   articulos:
   - '1'
+- norma_id: norm-can-d-123-2023
+- norma_id: norm-can-d-84-2024
+- norma_id: norm-can-l-14-1990
+- norma_id: norm-can-o-25-2-2003
+- norma_id: norm-can-d-114-2011
+- norma_id: norm-es-l-39-2015
 fuente_pdf_oficial: https://sede.gobiernodecanarias.org/boc/boc-a-2025-166-3041.pdf
 ---
 # Resolución de 8 de agosto de 2025,de la Dirección General de Administración de Centros, Escolarización y Servicios Complementarios por la que se aprueban las instrucciones de organización y funcionamiento de los comedores escolares de los centros docentes públicos no universitarios para el curso escolar 2025-2026 (BOC nº 166, de 22 de agosto).
@@ -65,7 +71,7 @@ al inicio del curso escolar, debe dictarse una resolución que contenga las inst
 organización y funcionamiento de los comedores escolares de los centros docentes públicos 
 no universitarios.
 FUNDAMENTOS JURÍDICOS
-Primero.- La Orden de 25 de febrero de 2003, por la que se regula la organización y 
+Primero.- La [Orden de 25 de febrero de 2003](O25_2_2003_comedores_escolares_canarias.md), por la que se regula la organización y 
 funcionamiento de los comedores escolares en los centros públicos docentes no universitarios 
 dependientes de la Consejería de Educación, Cultura y Deportes y se establecen las bases de la 
 convocatoria de plazas y ayudas con destino al alumnado comensal, recoge en su artículo 9.1 
@@ -110,11 +116,11 @@ resolución en los procedimientos en que deban resolver las viceconsejerías a q
 adscritos o, en su defecto, los titulares de los Departamentos”.
 De conformidad con lo dispuesto en el Reglamento Orgánico de la Consejería 
 de Educación, Formación Profesional, Actividad Física y Deportes, aprobado por el 
-Decreto 84/2024, de 10 de junio, y en línea con lo anterior, de acuerdo con lo previsto en el 
-artículo 5 del vigente Decreto 123/2023, de 17 de julio, por el que se determina la estructura 
+[Decreto 84/2024](../01_marco_normativo_general_y_organico/D84_2024_reglamento_organico_consejeria.md), de 10 de junio, y en línea con lo anterior, de acuerdo con lo previsto en el 
+artículo 5 del vigente [Decreto 123/2023](../01_marco_normativo_general_y_organico/D123_2023_estructura_organica_gobierno_canarias.md), de 17 de julio, por el que se determina la estructura 
 orgánica y las sedes de las Consejerías del Gobierno de Canarias, así como con la Orden de 
 27 de mayo de 2024, por la que se delegan determinadas competencias, y en relación con 
-lo establecido en el artículo 29, apartado 1, letra j), de la Ley 14/1990, de 26 de julio, de 
+lo establecido en el artículo 29, apartado 1, letra j), de la [Ley 14/1990](../01_marco_normativo_general_y_organico/L14_1990_regimen_juridico_administraciones_canarias.md), de 26 de julio, de 
 Régimen Jurídico de las Administraciones Públicas de Canarias, así como con la restante 
 normativa de general aplicación, se procede a dictar la presente Resolución.
 
@@ -288,7 +294,7 @@ Séptima.- Otras normas de funcionamiento del servicio.
 1. La pérdida de la condición de comensal por causas distintas a las especificadas en 
 la base vigésima primera, apartado 3, del Anexo II de la Orden de 24 de abril de 2009, 
 “falta de abono de cuotas en el plazo establecido o falseamiento de datos para obtener la 
-subvención”, requerirá la aplicación del procedimiento que establece el Decreto 114/2011, 
+subvención”, requerirá la aplicación del procedimiento que establece el [Decreto 114/2011](../07_convivencia_bienestar_y_protocolos/D114_2011_convivencia_escolar.md), 
 de 11 de mayo, por el que se regula la convivencia en el ámbito educativo de la Comunidad 
 Autónoma de Canarias en relación con la normativa vigente reguladora del procedimiento 
 administrativo común.
@@ -531,7 +537,7 @@ por Hiperreg
 (LPA:47.35.40.10 y 
 TFE:47.35.45.10)
 6.- Todas las certificaciones y documentación remitidas a esta Dirección General deberán estar firmadas  
-a través de firma electrónica, tal y como establece la Ley 39/2015 de 1 de octubre del Procedimiento  
+a través de firma electrónica, tal y como establece la [Ley 39/2015](../../../estatal/01_marco_normativo_general_y_organico/L39_2015_procedimiento_administrativo_comun.md) de 1 de octubre del Procedimiento  
 Administrativo Común de las Administraciones Públicas, en su artículo 14, 2.e).
 En la dirección https://sede.gobiernodecanarias.org/sede/verifica_doc?codigo_nde=
 puede ser comprobada la autenticidad de esta copia, mediante el número de

@@ -28,6 +28,8 @@ fundamentos_derecho:
   articulos:
   - '1'
 - norma_id: norm-es-lo-2-2006
+- norma_id: norm-es-2021-20113
+- norma_id: norm-es-2010-12201
 fuente_pdf_oficial: https://sede.gobiernodecanarias.org/boc/boc-a-2017-036-808.pdf
 ---
 # Resolución de 8 de febrero de 2017, por la que se dictan instrucciones para el proceso de evaluación en las Enseñanzas Artísticas Superiores en la Comunidad Autónoma de Canarias (BOC n.º 36, de 21 de febrero).
@@ -44,7 +46,7 @@ Vista la necesidad de establecer instrucciones para el proceso de evaluación en
 Enseñanzas Artísticas Superiores en la Comunidad Autónoma de Canarias y teniendo en 
 cuenta los siguientes
 ANTECEDENTES DE HECHO
-Primero.- La Ley Orgánica 2/2006, de 3 de mayo, de Educación, modificada por la Ley 
+Primero.- La [Ley Orgánica 2/2006](../../../estatal/01_marco_normativo_general_y_organico/LO2_2006_ley_organica_educacion.md), de 3 de mayo, de Educación, modificada por la Ley 
 Orgánica 8/2013, de 9 de diciembre, para la Mejora de la Calidad Educativa, en el artículo 
 3.2, integra las enseñanzas artísticas dentro de la oferta del sistema educativo, y en el Título 
 I, Capítulo VI, Sección Tercera, establece y regula las Enseñanzas Artísticas Superiores, 

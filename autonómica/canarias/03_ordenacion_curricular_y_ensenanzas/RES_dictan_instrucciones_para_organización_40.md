@@ -32,6 +32,15 @@ fundamentos_derecho:
   articulos:
   - '1'
 - norma_id: norm-es-lo-2-2006
+- norma_id: norm-can-d-84-2024
+- norma_id: norm-can-res-boc-2024-230-25
+- norma_id: norm-can-res-134
+- norma_id: norm-es-rd-132-2010
+- norma_id: norm-es-2021-20113
+- norma_id: norm-es-lo-3-2022
+- norma_id: norm-es-rd-243-2022
+- norma_id: norm-es-rd-659-2023
+- norma_id: norm-es-2010-12201
 fuente_pdf_oficial: https://sede.gobiernodecanarias.org/boc/boc-a-2026-139-2475.pdf
 ---
 # Resolución de 25 de junio de 2026, por la que se dictan instrucciones para la organización y el funcionamiento de los cursos de acceso directo a ciclos formativos CAD2 y CAD3 (cursos de formación preparatorios para acceder a ciclos formativos de grado medio y superior) en Canarias.
@@ -61,7 +70,7 @@ introducidas en el ámbito estatal en cuanto al reconocimiento de competencias b
 hace necesaria la actualización de estas enseñanzas.
 A estos hechos les son de aplicación los siguientes
 FUNDAMENTOS DE DERECHO
-Primero.- La Ley Orgánica 2/2006, de 3 de mayo, de Educación, establece en el 
+Primero.- La [Ley Orgánica 2/2006](../../../estatal/01_marco_normativo_general_y_organico/LO2_2006_ley_organica_educacion.md), de 3 de mayo, de Educación, establece en el 
 apartado 2 del artículo 5 que “el sistema educativo tiene como principio básico propiciar la 
 educación permanente. A tal efecto, preparará a los alumnos para aprender por sí mismos y 
 facilitará a las personas adultas su incorporación a las distintas enseñanzas, favoreciendo la 
@@ -86,7 +95,7 @@ oficial en la que constará el número de años cursados y el nivel de adquisici
 competencias. Asimismo, recibirán un consejo orientador individualizado que incluirá una 
 propuesta sobre la opción u opciones académicas o profesionales más convenientes para 
 continuar su proceso formativo”.
-Tercero.- La Ley Orgánica 3/2022, de 31 de marzo, de Ordenación e Integración de la 
+Tercero.- La [Ley Orgánica 3/2022](../08_personal_docente/RES_dirección_general_personal_sobre_134.md), de 31 de marzo, de Ordenación e Integración de la 
 Formación Profesional, establece, en el artículo 46, que las Administraciones educativas 
 ofertarán cursos de formación específicos preparatorios para el acceso a la formación 
 profesional destinados a personas que no cumplan los requisitos de acceso, y que “la 
@@ -94,14 +103,14 @@ superación de la totalidad o de parte de estos cursos dependientes de las Admin
 educativas comportará la exención, total o parcial, de la prueba de acceso, considerando, 
 en su caso, la posesión de un grado A, B o C de formación profesional o de experiencia 
 laboral”.
-Cuarto.- La Ley 6/2014, de 25 de julio, Canaria de Educación No Universitaria, 
+Cuarto.- La [Ley 6/2014](../01_marco_normativo_general_y_organico/L6_2014_ley_canaria_educacion.md), de 25 de julio, Canaria de Educación No Universitaria, 
 establece en su artículo 5 que uno de los objetivos del sistema educativo canario es 
 “garantizar el desarrollo integral de todas las personas para que puedan alcanzar el mayor 
 nivel en sus capacidades que les permitan el pleno ejercicio de sus derechos y deberes de 
 ciudadanía, así como una adecuada inclusión social y profesional”.
-Quinto.- El Real Decreto 659/2023, de 18 de julio, por el que se desarrolla la ordenación 
+Quinto.- El [Real Decreto 659/2023](RES_dirección_general_formación_profesional_25.md), de 18 de julio, por el que se desarrolla la ordenación 
 del Sistema de Formación Profesional, modificado por el Real Decreto 658/2024, de 9 de 
-julio, por el que se modifican el Real Decreto 132/2010, de 12 de febrero, por el que se 
+julio, por el que se modifican el [Real Decreto 132/2010](../../../estatal/02_gestion_y_administracion_centros/RD132_2010_requisitos_minimos_centros.md), de 12 de febrero, por el que se 
 establecen los requisitos mínimos de los centros que impartan las enseñanzas del segundo 
 ciclo de la educación infantil, la educación primaria y la educación secundaria, y el Real 
 Decreto 659/2023, de 18 de julio, por el que se desarrolla la ordenación del Sistema de 
@@ -136,7 +145,7 @@ queda establecido, para las materias de Bachillerato, en el Anexo 3 del citado D
 Por todo lo anteriormente expuesto, y de conformidad con lo establecido en el artículo 
 19 del Decreto 212/1991, de 11 de septiembre, de organización de los Departamentos de 
 la Administración Autonómica de Canarias, así como en la disposición final cuarta y en 
-el artículo 17 del Decreto 84/2024, de 10 de junio, por el que se aprueba el Reglamento 
+el artículo 17 del [Decreto 84/2024](../01_marco_normativo_general_y_organico/D84_2024_reglamento_organico_consejeria.md), de 10 de junio, por el que se aprueba el Reglamento 
 Orgánico de la Consejería de Educación, Formación Profesional, Actividad Física y 
 Deportes, que asigna competencias generales y específicas a la Dirección General de 
 Ordenación de las Enseñanzas, Inclusión e Innovación,
@@ -836,7 +845,7 @@ nivel 4 de competencias básicas del marco de referencia, incluido en el Anexo I
 real decreto.
 También el artículo 22.2 del Real Decreto 86/2025 faculta a las Administraciones 
 educativas para “incorporar aquellas otras competencias clave a las que se refiere el artículo 2.b) 
-del Real Decreto 243/2022, de 5 de abril, por el que se establecen la ordenación y las 
+del [Real Decreto 243/2022](../../../estatal/03_ordenacion_curricular_y_ensenanzas/RD243_2022_ordenacion_ensenanzas_minimas_bachillerato.md), de 5 de abril, por el que se establecen la ordenación y las 
 enseñanzas mínimas del Bachillerato, siempre que a su criterio sean imprescindibles para 
 cursar con éxito ciclos formativos de grado superior”.
 Es por ello que se ha incorporado a la estructura del curso una parte específica con 

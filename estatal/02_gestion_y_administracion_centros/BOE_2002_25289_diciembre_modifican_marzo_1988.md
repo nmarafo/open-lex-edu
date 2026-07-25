@@ -32,8 +32,10 @@ fundamentos_derecho:
 - norma_id: norm-es-l-39-2015
   articulos:
   - '1'
+- norma_id: norm-es-1988-3987
+- norma_id: norm-es-1988-6938
 ---
-# Orden ECD/3305/2002, de 16 de diciembre, por la que se modifican las de 14 de marzo de 1988 y de 30 de abril de 1996, para la aplicación de lo dispuesto en el Real Decreto 104/1988, de 29 de enero, sobre homologación y convalidación de títulos y estudios extranjeros de educación no universitaria.
+# Orden ECD/3305/2002, de 16 de diciembre, por la que se modifican las de 14 de marzo de 1988 y de 30 de abril de 1996, para la aplicación de lo dispuesto en el [Real Decreto 104/1988](BOE_1988_3987_enero_sobre_homologación_convalidación.md), de 29 de enero, sobre homologación y convalidación de títulos y estudios extranjeros de educación no universitaria.
 
 Por Real Decreto 104/1988, de 29 de enero, se regula la homologación y convalidación de títulos y estudios extranjeros por sus equivalentes españoles de educación no universitaria. Su artículo 7, apartado dos, señala que el Ministerio de Educación y Ciencia (actualmente de Educación, Cultura y Deporte) determinará el modelo de solicitud, la documentación que deba aportarse al expediente y los requisitos a que hayan de ajustarse los documentos expedidos en el extranjero. Por otra parte, la disposición final única del citado Real Decreto autoriza al Ministro de Educación y Ciencia para dictar las disposiciones necesarias para el desarrollo y aplicación de las normas contenidas en el mismo.
 
@@ -45,7 +47,7 @@ Por último, se desarrolla la atribución de competencias, contenida en el Real 
 
 En su virtud, en uso de la autorización conferida por el artículo 7.1 y la disposición final primera del Real Decreto 104/1988, de 29 de enero, previa aprobación del Ministro de Administraciones Públicas y dictamen del Consejo Escolar del Estado, dispongo:
 
-#### Apartado único. Modificación de la Orden de 14 de marzo de 1988 para la aplicación de lo dispuesto en el Real Decreto 104/1988, de 29 de enero.-Se modifica la Orden de 14 de marzo de 1988, en los términos que se establecen a continuación:
+#### Apartado único. Modificación de la [Orden de 14 de marzo de 1988](BOE_1988_6938_enero_sobre_homologación_convalidación.md) para la aplicación de lo dispuesto en el Real Decreto 104/1988, de 29 de enero.-Se modifica la Orden de 14 de marzo de 1988, en los términos que se establecen a continuación:
 
 1. Se añade un segundo y un tercer párrafos a la letra c) del apartado segundo, con la siguiente redacción:
 

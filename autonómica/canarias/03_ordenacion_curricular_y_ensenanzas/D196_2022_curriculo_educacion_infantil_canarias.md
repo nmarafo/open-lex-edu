@@ -75,7 +75,7 @@ la última Resolución emitida por la presidenta del Tribunal Calificador de 9 d
 2022, en la que se estimaron varios recursos de alzada interpuestos por diversos aspirantes 
 contra esta Resolución de 24 de febrero de 2022, con la consiguiente modificación en la 
 puntuación otorgada en su momento, se hace necesario modificar el Anexo I, conforme a 
-lo dispuesto en el artículo 109.2 de la Ley 39/2015, de 1 de octubre, del Procedimiento 
+lo dispuesto en el artículo 109.2 de la [Ley 39/2015](../../../estatal/01_marco_normativo_general_y_organico/L39_2015_procedimiento_administrativo_comun.md), de 1 de octubre, del Procedimiento 
 Administrativo Común de las Administraciones Públicas.
 De acuerdo con lo anteriormente expuesto, según lo establecido en el artículo 81.1.h) 
 del Reglamento orgánico de la Consejería de Presidencia, Justicia y Seguridad, aprobado 

@@ -44,9 +44,18 @@ fundamentos_derecho:
 - norma_id: norm-can-d-81-2010
   articulos:
   - Disposición Final Primera
+- norma_id: norm-can-l-14-1990
+- norma_id: norm-can-d-106-2009
+- norma_id: norm-can-d-114-2011
+- norma_id: norm-es-lo-2-2006
+- norma_id: norm-es-rd-1834-2008
+- norma_id: norm-es-rd-39-1997
+- norma_id: norm-es-2021-20113
+- norma_id: norm-es-2010-12201
+- norma_id: norm-es-2010-4518
 fuente_pdf_oficial: https://sede.gobiernodecanarias.org/boc/boc-a-2013-200-5076.pdf
 ---
-# Orden de 9 de octubre de 2013, por la que se desarrolla el Decreto 81/2010, de 8 de julio, por el que se aprueba el Reglamento Orgánico de los centros docentes públicos no universitarios de la Comunidad Autónoma de Canarias, en lo referente a su organización y funcionamiento.
+# Orden de 9 de octubre de 2013, por la que se desarrolla el [Decreto 81/2010](D81_2010_reglamento_organico_centros.md), de 8 de julio, por el que se aprueba el Reglamento Orgánico de los centros docentes públicos no universitarios de la Comunidad Autónoma de Canarias, en lo referente a su organización y funcionamiento.
 
 https://sede.gobcan.es/cpji/boc
 Miércoles 16 de octubre de 2013
@@ -132,7 +141,7 @@ discriminación.
 La presente Orden desarrolla el Decreto 81/2010, de 8 de julio, por el que se aprueba el 
 Reglamento Orgánico de los centros docentes públicos no universitarios de la Comunidad 
 Autónoma de Canarias (BOC nº 143, de 22 de julio), que regula, para nuestro ámbito de 
-gestión, una parte tan destacada de la Ley Orgánica 2/2006, de Educación, como la referida 
+gestión, una parte tan destacada de la [Ley Orgánica 2/2006](../../../estatal/01_marco_normativo_general_y_organico/LO2_2006_ley_organica_educacion.md), de Educación, como la referida 
 al funcionamiento de los centros, materia a la que la propia Ley dedica su Título V .
 
 https://sede.gobcan.es/cpji/boc
@@ -160,12 +169,12 @@ Procedimiento Administrativo Común (BOE nº 285, de 27 de noviembre), por cuant
 mite, en su artículo 21, que los órganos administrativos puedan dirigir las actividades de sus 
 órganos jerárquicamente dependientes mediante instrucciones y órdenes de servicio que no 
 necesariamente deben publicarse en Boletín Oficial.
-De otra parte, la presente Orden detalla también algunos aspectos del Decreto 106/2009, 
+De otra parte, la presente Orden detalla también algunos aspectos del [Decreto 106/2009](D106_2009_funcion_directiva_centros_docentes.md), 
 de 28 de julio, por el que se regula la función directiva en los centros docentes públicos no 
 universitarios dependientes de la Comunidad Autónoma de Canarias (BOC nº 155, de 11 de 
 agosto), en particular, en lo referido a determinadas preferencias reconocidas a las personas 
 que desempeñan cargos directivos.
-Por último, es importante, además, resaltar la aprobación del Decreto 114/2011, de 11 de 
+Por último, es importante, además, resaltar la aprobación del [Decreto 114/2011](../07_convivencia_bienestar_y_protocolos/D114_2011_convivencia_escolar.md), de 11 de 
 mayo, por el que se regula la convivencia en el ámbito educativo de la Comunidad Autóno-
 ma de Canarias (BOC nº 108, de 2 de junio), que desarrolla la Ley Orgánica 2/2006, de 3 
 de mayo, de Educación, que establece, en su artículo 1, entre los principios inspiradores del 
@@ -280,8 +289,8 @@ DISPOSICIÓN DEROGATORIA
 DISPOSICIONES FINALES
 Por cuanto antecede, de conformidad con las competencias atribuidas en virtud de los 
 artículos 32 y 37 de la Ley 1/1983, de 14 de abril, del Gobierno y de la Administración de la 
-Comunidad Autónoma de Canarias (BOC nº 11, de 30 de abril); en el artículo 29 de la Ley 
-14/1990, de 26 de julio, de Reforma de la Ley 8/1986, de 18 de noviembre, de Régimen Ju-
+Comunidad Autónoma de Canarias (BOC nº 11, de 30 de abril); en el artículo 29 de la [Ley 
+14/1990](../01_marco_normativo_general_y_organico/L14_1990_regimen_juridico_administraciones_canarias.md), de 26 de julio, de Reforma de la Ley 8/1986, de 18 de noviembre, de Régimen Ju-
 rídico de las Administraciones Públicas de Canarias (BOC nº 96, de 1 de agosto); y en virtud 
 de la habilitación expresa prevista en la Disposición Final Primera del Decreto 81/2010, de 
 
@@ -341,7 +350,7 @@ que se regula la convivencia en el ámbito educativo de la Comunidad Autónoma d
 Artículo 4.- Medidas para fomentar la igualdad entre mujeres y hombres.
 1. El centro educativo velará por el cumplimiento y la aplicación de las medidas e iniciati-
 vas educativas destinadas a fomentar la igualdad real entre mujeres y hombres en los términos 
-establecidos en la Ley 1/2010, de 26 de febrero, Canaria de Igualdad entre Mujeres y Hombres 
+establecidos en la [Ley 1/2010](../../../estatal/07_convivencia_bienestar_y_protocolos/BOE_2010_4518_febrero_canaria_igualdad_entre.md), de 26 de febrero, Canaria de Igualdad entre Mujeres y Hombres 
 (BOC nº 45, de 5 de marzo). En este sentido, el Consejo Escolar y el Claustro tendrán entre 
 sus atribuciones proponer medidas e iniciativas que favorezcan la convivencia en el centro, la 
 igualdad entre hombres y mujeres, y la resolución pacífica de conflictos en todos los ámbitos 
@@ -1366,7 +1375,7 @@ nes de horario lectivo que se establezcan en instrucciones dictadas al efecto, s
 tenga conocimiento de estas circunstancias con antelación. 
 Artículo 39.- Atribución docente del profesorado para la asignación de horarios.
 1. La asignación de materias y módulos al profesorado de las distintas especialidades 
-docentes se hará conforme a lo que determina el Real Decreto 1834/2008, de 8 de noviem-
+docentes se hará conforme a lo que determina el [Real Decreto 1834/2008](../../../estatal/02_gestion_y_administracion_centros/RD1834_2008_condiciones_docencia_secundaria.md), de 8 de noviem-
 bre, por el que se definen las condiciones de formación para el ejercicio de la docencia en la 
 educación secundaria obligatoria, el bachillerato, la formación profesional y las enseñanzas 
 de régimen especial y se establecen las especialidades de los cuerpos docentes de enseñanza 
@@ -2172,7 +2181,7 @@ la atención adecuada ante determinadas enfermedades específicas o la administr
 algunos medicamentos.
 Artículo 65.- Coordinación de prevención de riesgos laborales.
 1. Para llevar a cabo el desempeño de las funciones de la actividad preventiva de nivel 
-básico previstas en el artículo 35 del Real Decreto 39/1997, de 17 de enero, la dirección de 
+básico previstas en el artículo 35 del [Real Decreto 39/1997](../../../estatal/02_gestion_y_administracion_centros/RD39_1997_reglamento_servicios_prevencion.md), de 17 de enero, la dirección de 
 los centros educativos podrá nombrar un coordinador o una coordinadora de Prevención de 
 Riesgos Laborales entre el personal docente elegido por el Claustro, preferentemente con 
 destino definitivo. Para el ejercicio de sus funciones, el coordinador o la coordinadora de 

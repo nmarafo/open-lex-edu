@@ -28,6 +28,17 @@ fundamentos_derecho:
 - norma_id: norm-es-ce-1978
   articulos:
   - '27'
+- norma_id: norm-can-l-16-2003
+- norma_id: norm-es-1984-17387
+- norma_id: norm-es-2000-544
+- norma_id: norm-es-lo-2-2006
+- norma_id: norm-es-1985-5392
+- norma_id: norm-es-l-31-1995
+- norma_id: norm-es-2021-20113
+- norma_id: norm-es-2010-12201
+- norma_id: norm-es-1999-23750
+- norma_id: norm-es-2003-23399
+- norma_id: norm-es-2012-9282
 ---
 # Ley 2/2012, de 29 de junio, de Presupuestos Generales del Estado para el año 2012.
 
@@ -827,7 +838,7 @@ De la gestión de los presupuestos docentes
 
 #### Artículo 17. Módulo económico de distribución de fondos públicos para sostenimiento de centros concertados.
 
-Uno. De acuerdo con lo establecido en los apartados segundo y tercero del artículo 117 y de la disposición adicional vigésima séptima de la Ley Orgánica 2/2006, de 3 de mayo, de Educación, el importe del módulo económico por unidad escolar, a efectos de distribución de la cuantía global de los fondos públicos destinados al sostenimiento de los centros concertados para el año 2012, es el fijado en el anexo IV de esta Ley.
+Uno. De acuerdo con lo establecido en los apartados segundo y tercero del artículo 117 y de la disposición adicional vigésima séptima de la [Ley Orgánica 2/2006](../01_marco_normativo_general_y_organico/LO2_2006_ley_organica_educacion.md), de 3 de mayo, de Educación, el importe del módulo económico por unidad escolar, a efectos de distribución de la cuantía global de los fondos públicos destinados al sostenimiento de los centros concertados para el año 2012, es el fijado en el anexo IV de esta Ley.
 
 A fin de dar cumplimiento a lo previsto en el artículo 116.1 en relación con el 15.2 de la Ley Orgánica 2/2006, de 3 de mayo, de Educación, las unidades que se concierten en las enseñanzas de Educación Infantil se financiarán conforme a los módulos económicos establecidos en el anexo IV de esta Ley.
 
@@ -949,7 +960,7 @@ c) Las indemnizaciones correspondientes a traslados, suspensiones o despidos.
 
 d) Las indemnizaciones o suplidos por gastos que hubiera realizado el trabajador.
 
-Cinco. 1. Los funcionarios a los que resulta de aplicación el artículo 76 del Estatuto Básico del Empleado Público e incluidos en el ámbito de aplicación de la Ley 30/1984, de 2 de agosto, en los términos de la disposición final cuarta del citado Estatuto Básico o de las Leyes de Función Pública dictadas en desarrollo de aquél, percibirán, en concepto de sueldo y trienios, en las nóminas ordinarias de enero a diciembre de 2012, las mismas cuantías que en 2011, referidas a doce mensualidades y que se recogen a continuación:
+Cinco. 1. Los funcionarios a los que resulta de aplicación el artículo 76 del Estatuto Básico del Empleado Público e incluidos en el ámbito de aplicación de la [Ley 30/1984](../01_marco_normativo_general_y_organico/BOE_1984_17387_agosto_medidas_para_reforma.md), de 2 de agosto, en los términos de la disposición final cuarta del citado Estatuto Básico o de las Leyes de Función Pública dictadas en desarrollo de aquél, percibirán, en concepto de sueldo y trienios, en las nóminas ordinarias de enero a diciembre de 2012, las mismas cuantías que en 2011, referidas a doce mensualidades y que se recogen a continuación:
 
 Grupo/Subgrupo Ley 7/2007
 
@@ -5295,7 +5306,7 @@ Uno. Con el fin de proceder a la liquidación definitiva de la participación de
 
 Dos. El procedimiento de remisión de la documentación en papel podrá sustituirse por la transmisión electrónica de la información en los modelos habilitados para tal fin, siempre que el soporte utilizado para el envío incorpore la firma electrónica del Interventor o, en su caso, del titular del órgano de la Corporación local que tenga atribuida la función de contabilidad.
 
-La firma electrónica reconocida, entendida en los términos previstos por la Ley 59/2003, de 19 de diciembre, de firma electrónica, tendrá respecto de los datos transmitidos por la Entidad local el mismo valor que la firma manuscrita en relación con los consignados en papel, por lo que su aplicación en la transmisión electrónica de la información eximirá de la obligación de remitir la citada documentación en soporte papel.
+La firma electrónica reconocida, entendida en los términos previstos por la [Ley 59/2003](../02_gestion_y_administracion_centros/BOE_2003_23399_diciembre_firma_electrónica_diciembre.md), de 19 de diciembre, de firma electrónica, tendrá respecto de los datos transmitidos por la Entidad local el mismo valor que la firma manuscrita en relación con los consignados en papel, por lo que su aplicación en la transmisión electrónica de la información eximirá de la obligación de remitir la citada documentación en soporte papel.
 
 Tres. Por la Secretaría General de Coordinación Autonómica y Local se procederá a dictar la correspondiente resolución estableciendo los modelos que contengan el detalle de la información necesaria, así como la regulación del procedimiento para la presentación telemática de la documentación y la firma electrónica de la misma.
 
@@ -6305,7 +6316,7 @@ Cuatro. Respecto de los requisitos que han de cumplir los beneficiarios, las exc
 
 #### [precepto]Séptima. Reducción en la cotización a la Seguridad Social en los supuestos de cambio de puesto de trabajo por riesgo durante el embarazo o durante la lactancia natural, así como en los supuestos de enfermedad profesional.
 
-En los supuestos en que, por razón de riesgo durante el embarazo o riesgo durante la lactancia natural, la trabajadora, en virtud de lo previsto en el artículo 26 de la Ley 31/1995, de 8 de noviembre, de Prevención de Riesgos Laborales, sea destinada a un puesto de trabajo o función diferente y compatible con su estado, se aplicará, con respecto a las cuotas devengadas durante el período de permanencia en el nuevo puesto de trabajo o función, una reducción, a cargo del Presupuesto de la Seguridad Social, del 50 por ciento de la aportación empresarial en la cotización a la Seguridad Social por contingencias comunes.
+En los supuestos en que, por razón de riesgo durante el embarazo o riesgo durante la lactancia natural, la trabajadora, en virtud de lo previsto en el artículo 26 de la [Ley 31/1995](../02_gestion_y_administracion_centros/L31_1995_prevencion_riesgos_laborales.md), de 8 de noviembre, de Prevención de Riesgos Laborales, sea destinada a un puesto de trabajo o función diferente y compatible con su estado, se aplicará, con respecto a las cuotas devengadas durante el período de permanencia en el nuevo puesto de trabajo o función, una reducción, a cargo del Presupuesto de la Seguridad Social, del 50 por ciento de la aportación empresarial en la cotización a la Seguridad Social por contingencias comunes.
 
 Esa misma reducción será aplicable, en los términos y condiciones que reglamentariamente se determinen, en aquellos casos en que, por razón de enfermedad profesional, se produzca un cambio de puesto de trabajo en la misma empresa o el desempeño, en otra distinta, de un puesto de trabajo compatible con el estado del trabajador.
 
@@ -6617,7 +6628,7 @@ En relación con las Ayudas reguladas por el artículo 86 de la Ley 47/2003, de 
 
 #### [precepto]Vigésima octava. Actuaciones acogidas al Programa de Desarrollo Rural Sostenible, aprobado por Real Decreto 752/2010, de 4 de junio.
 
-Se declaran de interés general, con expresa declaración de utilidad pública, urgente ocupación, y eximente del control preventivo municipal previsto en el artículo 84 de la Ley 7/1985, de 2 de abril, reguladora de las bases del régimen local, las siguientes obras públicas:
+Se declaran de interés general, con expresa declaración de utilidad pública, urgente ocupación, y eximente del control preventivo municipal previsto en el artículo 84 de la [Ley 7/1985](../02_gestion_y_administracion_centros/BOE_1985_5392_abril_reguladora_bases_régimen.md), de 2 de abril, reguladora de las bases del régimen local, las siguientes obras públicas:
 
 1. Actuaciones acogidas al Programa de Desarrollo Rural Sostenible aprobado por Real Decreto 752/2010, de 4 de junio:
 
@@ -6823,7 +6834,7 @@ Las empresas que durante el año 2012 concedan permisos individuales de formaci�
 
 #### [precepto]Cuadragésima cuarta. Suspensión normativa.
 
-Queda sin efecto en 2012 lo previsto en el artículo 2 ter 4 de la Ley Orgánica 4/2000, de 11 de enero.
+Queda sin efecto en 2012 lo previsto en el artículo 2 ter 4 de la [Ley Orgánica 4/2000](../01_marco_normativo_general_y_organico/BOE_2000_544_enero_sobre_derechos_libertades.md), de 11 de enero.
 
 #### [precepto]Cuadragésima quinta. Préstamos y anticipos concedidos con cargo a los Presupuestos Generales del Estado.
 
@@ -7209,7 +7220,7 @@ Dos. A partir del 1 de septiembre y con efectos indefinidos, la condición de re
 
 Reglamentariamente podrán establecerse otros medios para la acreditación de la condición de residente, en sustitución del previsto en este apartado o como adicionales de éste.
 
-Los órganos gestores de la bonificación del Ministerio de Fomento podrán acceder a los servicios de verificación y consulta de datos de residencia de la Plataforma de Intermediación del Ministerio de Hacienda y Administraciones Públicas con el fin de comprobar el cumplimiento de los requisitos para ser beneficiarios de la subvención, en base a lo previsto en la Ley 11/2007, de 22 de junio, de acceso electrónico de los ciudadanos a los Servicios Públicos, y el Real Decreto 523/2006, de 28 de abril, por el que se suprime la exigencia de aportar el certificado de empadronamiento, como documento probatorio del domicilio y residencia, en los procedimientos administrativos de la Administración General del Estado y de sus organismos públicos vinculados o dependientes, con las garantías previstas en la Ley Orgánica 15/1999, de 13 de diciembre, de Protección de Datos de Carácter Personal y en la Ley 58/2003, de 17 de diciembre, Ley General Tributaria.
+Los órganos gestores de la bonificación del Ministerio de Fomento podrán acceder a los servicios de verificación y consulta de datos de residencia de la Plataforma de Intermediación del Ministerio de Hacienda y Administraciones Públicas con el fin de comprobar el cumplimiento de los requisitos para ser beneficiarios de la subvención, en base a lo previsto en la Ley 11/2007, de 22 de junio, de acceso electrónico de los ciudadanos a los Servicios Públicos, y el Real Decreto 523/2006, de 28 de abril, por el que se suprime la exigencia de aportar el certificado de empadronamiento, como documento probatorio del domicilio y residencia, en los procedimientos administrativos de la Administración General del Estado y de sus organismos públicos vinculados o dependientes, con las garantías previstas en la [Ley Orgánica 15/1999](../02_gestion_y_administracion_centros/BOE_1999_23750_diciembre_protección_datos_carácter.md), de 13 de diciembre, de Protección de Datos de Carácter Personal y en la Ley 58/2003, de 17 de diciembre, Ley General Tributaria.
 
 Los órganos gestores podrán facilitar por vía telemática a las agencias, las compañías aéreas o marítimas o sus delegaciones, que comercialicen los títulos de transporte bonificados, la confirmación del cumplimiento de los requisitos para ser beneficiario de la subvención.
 
@@ -7897,7 +7908,7 @@ Las Entidades locales a las que se refieren los artículos 111 y 135 del Texto R
 
 En el caso de que las Entidades locales incumplan los objetivos de estabilidad presupuestaria, los límites de endeudamiento que les resulten de aplicación o los plazos establecidos en la Ley 3/2004, de 29 de diciembre, por la que se establecen medidas de lucha contra la morosidad en las operaciones comerciales, deberán aprobar un plan de ajuste, que garantice la corrección de aquellos incumplimientos, mediante acuerdo de sus respectivos Plenos, que, además, deberán aceptar la posible imposición por el Ministerio de Hacienda y Administraciones Públicas de condiciones particulares en materia de seguimiento y remisión de información, así como, en su caso, de adopción de medidas de ajuste extraordinarias que permitan aquella corrección. Asimismo, aquellas entidades deberán presentar un certificado del secretario o del secretario-interventor del acuerdo del Pleno con el anterior contenido y aprobatorio del plan de ajuste antes citado, así como el informe del interventor o del secretario-interventor en el que se recojan las medidas de aquel plan.
 
-Se entenderá cumplido el requisito de la aprobación del plan de ajuste en aquellos casos en los que se hubiera aprobado el regulado en el artículo 7 del Real Decreto-ley 4/2012, de 24 de febrero, por el que se determinan obligaciones de información y procedimientos necesarios para establecer un mecanismo de financiación para el pago a los proveedores de las entidades locales.
+Se entenderá cumplido el requisito de la aprobación del plan de ajuste en aquellos casos en los que se hubiera aprobado el regulado en el artículo 7 del Real Decreto-[ley 4/2012](BOE_2012_9282_junio_medidas_administrativas_fiscales.md), de 24 de febrero, por el que se determinan obligaciones de información y procedimientos necesarios para establecer un mecanismo de financiación para el pago a los proveedores de las entidades locales.
 
 2. A las Entidades locales que, no habiendo presentado la documentación citada en el apartado anterior, lo hagan con posterioridad a la fecha de publicación de esta Ley y con fecha límite el día 30 de septiembre de 2012, el Ministerio de Hacienda y Administraciones Públicas les aplicará a partir de 1 de enero de 2013 el fraccionamiento en 108 mensualidades del importe pendiente de reintegro en dicha fecha correspondiente a las liquidaciones mencionadas en el apartado anterior.
 
@@ -9071,7 +9082,7 @@ Igualmente, la Tesorería General de la Seguridad Social podrá disponer de los 
 
 El Ministerio de Empleo y Seguridad Social informará anualmente a las comisiones competentes del Congreso de los Diputados y del Senado sobre las operaciones que se acuerden conforme a lo dispuesto en este apartado».
 
-#### [precepto]Vigésima octava. Modificación de la ley 16/2003 de 28 de mayo, de cohesión y calidad del Sistema Nacional de Salud.
+#### [precepto]Vigésima octava. Modificación de la [ley 16/2003](../../autonómica/canarias/07_convivencia_bienestar_y_protocolos/L16_2003_prevencion_proteccion_mujeres_violencia_genero.md) de 28 de mayo, de cohesión y calidad del Sistema Nacional de Salud.
 
 Con efectos desde la entrada en vigor de esta ley y vigencia indefinida, se da nueva redacción a la letra d) del apartado 2 del artículo 3, de la Ley 16/2003, de 28 de mayo, de cohesión y calidad del Sistema Nacional de Salud, que queda redactada como sigue:
 

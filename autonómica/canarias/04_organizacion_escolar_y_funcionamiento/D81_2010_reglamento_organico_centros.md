@@ -50,9 +50,13 @@ fundamentos_derecho:
 - norma_id: norm-can-l-6-2014
   articulos:
   - '60'
+- norma_id: norm-can-d-106-2009
+- norma_id: norm-can-o-2013-10-09
+- norma_id: norm-es-2021-20113
+- norma_id: norm-es-2010-12201
 fuente_pdf_oficial: https://sede.gobiernodecanarias.org/boc/boc-a-2010-143-4245.pdf
 ---
-# Decreto 81/2010, de 8 de julio, por el que se aprueba el Reglamento Orgánico de los centros docentes públicos no universitarios de la Comunidad Autónoma de Canarias.
+# [Decreto 81/2010](O9_10_2013_desarrollo_reglamento_organico_centros.md), de 8 de julio, por el que se aprueba el Reglamento Orgánico de los centros docentes públicos no universitarios de la Comunidad Autónoma de Canarias.
 
 I. Disposiciones generales
 Consejería de Educación, Universidades, 
@@ -62,7 +66,7 @@ se aprueba el Reglamento Orgánico de los
 centros docentes públicos no universitarios
 de la Comunidad Autónoma de Canarias.
 Existen tres principios fundamentales que presi-
-den la Ley Orgánica 2/2006, de 3 de mayo, de Edu-
+den la [Ley Orgánica 2/2006](../../../estatal/01_marco_normativo_general_y_organico/LO2_2006_ley_organica_educacion.md), de 3 de mayo, de Edu-
 cación. El primero, se refiere a la exigencia de pro-
 porcionar una educación de calidad a la ciudadanía
 en todos los niveles del sistema educativo. El segun-
@@ -195,7 +199,7 @@ teria educativa determine, podrá existir un adminis-
 trador o administradora bajo la dependencia directa
 del titular de la dirección. A estos efectos se atende-
 rá a lo establecido en la disposición adicional segun-
-da del Decreto 106/2009, de 28 de julio, por el que
+da del [Decreto 106/2009](D106_2009_funcion_directiva_centros_docentes.md), de 28 de julio, por el que
 se regula la función directiva en los centros docen-
 tes públicos no universitarios dependientes de la Co-
 munidad Autónoma de Canarias.

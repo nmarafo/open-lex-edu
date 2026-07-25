@@ -38,7 +38,7 @@ de 2 de marzo de 2017, por la que se establecen los procedimientos administrativ
 sujetos al sistema de notificación electrónica mediante comparecencia en sede 
 electrónica.
 ANTECEDENTES DE HECHO
-Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común de las 
+[Ley 39/2015](../../../estatal/01_marco_normativo_general_y_organico/L39_2015_procedimiento_administrativo_comun.md), de 1 de octubre, del Procedimiento Administrativo Común de las 
 Administraciones Públicas (BOE nº 236, de 2.10.15), establece en su artículo 43.1 que las 
 notificaciones por medios electrónicos se practicarán mediante comparecencia en la sede 
 electrónica de la Administración u Organismo actuante, a través de la dirección electrónica 

@@ -51,7 +51,7 @@ Administración de Centros, Escolarización y Servicios Complementarios, de 20 d
 de 2025, por la que se establece el calendario escolar y se dictan instrucciones para la 
 organización y desarrollo de las actividades de comienzo y finalización del curso 2025-
 2026, para los centros de enseñanzas no universitarias de la Comunidad Autónoma de 
-Canarias, se procede, de conformidad con el artículo 109.2 de la Ley 39/2015, de 1 de 
+Canarias, se procede, de conformidad con el artículo 109.2 de la [Ley 39/2015](../../../estatal/01_marco_normativo_general_y_organico/L39_2015_procedimiento_administrativo_comun.md), de 1 de 
 octubre, del Procedimiento Administrativo Común de las Administraciones Públicas, a 
 efectuar la oportuna rectificación:
 En la página 9270, en el Anexo I correspondiente al Calendario de Finalización de 

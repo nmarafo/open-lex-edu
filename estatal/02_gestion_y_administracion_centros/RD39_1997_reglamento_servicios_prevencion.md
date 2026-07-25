@@ -42,7 +42,7 @@ fundamentos_derecho:
 ---
 # Real Decreto 39/1997 - Reglamento de los Servicios de Prevención
 
-La Ley 31/1995, de 8 de noviembre, ha venido a dar un nuevo enfoque, ya anunciado en su preámbulo, a la prevención de los riesgos laborales, que en la nueva concepción legal no se limita a un conjunto de deberes de obligado cumplimiento empresarial o a la subsanación de situaciones de riesgo ya manifestadas, sino que se integra en el conjunto de actividades y decisiones de la empresa, de las que forma parte desde el comienzo mismo del proyecto empresarial.
+La [Ley 31/1995](L31_1995_prevencion_riesgos_laborales.md), de 8 de noviembre, ha venido a dar un nuevo enfoque, ya anunciado en su preámbulo, a la prevención de los riesgos laborales, que en la nueva concepción legal no se limita a un conjunto de deberes de obligado cumplimiento empresarial o a la subsanación de situaciones de riesgo ya manifestadas, sino que se integra en el conjunto de actividades y decisiones de la empresa, de las que forma parte desde el comienzo mismo del proyecto empresarial.
 
 La nueva óptica de la prevención se articula así en torno a la planificación de la misma a partir de la evaluación inicial de los riesgos inherentes al trabajo, y la consiguiente adopción de las medidas adecuadas a la naturaleza de los riesgos detectados.
 

@@ -38,6 +38,9 @@ fundamentos_derecho:
 - norma_id: norm-es-lo-3-2018
   articulos:
   - '1'
+- norma_id: norm-es-2007-19814
+- norma_id: norm-es-1985-5392
+- norma_id: norm-es-1999-23750
 ---
 # Ley 19/2013 de Transparencia, Acceso a la Información Pública y Buen Gobierno
 
@@ -209,7 +212,7 @@ Para canalizar la publicación de tan ingente cantidad de información y facilit
 
 La Ley también regula el derecho de acceso a la información pública que, no obstante, ya ha sido desarrollado en otras disposiciones de nuestro ordenamiento. En efecto, partiendo de la previsión contenida en el artículo 105.b) de nuestro texto constitucional, la Ley 30/1992, de 26 de noviembre, de Régimen Jurídico de las Administraciones Públicas y del Procedimiento Administrativo Común, desarrolla en su artículo 37 el derecho de los ciudadanos a acceder a los registros y documentos que se encuentren en los archivos administrativos. Pero esta regulación adolece de una serie de deficiencias que han sido puestas de manifiesto de forma reiterada al no ser claro el objeto del derecho de acceso, al estar limitado a documentos contenidos en procedimientos administrativos ya terminados y al resultar su ejercicio extraordinariamente limitado en su articulación práctica.
 
-Igualmente, pero con un alcance sectorial y derivado de sendas Directivas comunitarias, otras normas contemplan el acceso a la información pública. Es el caso de la Ley 27/2006, de 18 de julio, por la que se regulan los derechos de acceso a la información, de participación pública y de acceso a la justicia en materia de medio ambiente y de la Ley 37/2007, de 16 de noviembre, sobre reutilización de la información del sector público, que regula el uso privado de documentos en poder de Administraciones y organismos del sector público. Además, la Ley 11/2007, de 22 de junio, de acceso electrónico de los ciudadanos a los Servicios Públicos, a la vez que reconoce el derecho de los ciudadanos a relacionarse con la Administración por medios electrónicos, se sitúa en un camino en el que se avanza con esta Ley: la implantación de una cultura de transparencia que impone la modernización de la Administración, la reducción de cargas burocráticas y el empleo de los medios electrónicos para la facilitar la participación, la transparencia y el acceso a la información.
+Igualmente, pero con un alcance sectorial y derivado de sendas Directivas comunitarias, otras normas contemplan el acceso a la información pública. Es el caso de la Ley 27/2006, de 18 de julio, por la que se regulan los derechos de acceso a la información, de participación pública y de acceso a la justicia en materia de medio ambiente y de la [Ley 37/2007](BOE_2007_19814_noviembre_sobre_reutilización_información.md), de 16 de noviembre, sobre reutilización de la información del sector público, que regula el uso privado de documentos en poder de Administraciones y organismos del sector público. Además, la Ley 11/2007, de 22 de junio, de acceso electrónico de los ciudadanos a los Servicios Públicos, a la vez que reconoce el derecho de los ciudadanos a relacionarse con la Administración por medios electrónicos, se sitúa en un camino en el que se avanza con esta Ley: la implantación de una cultura de transparencia que impone la modernización de la Administración, la reducción de cargas burocráticas y el empleo de los medios electrónicos para la facilitar la participación, la transparencia y el acceso a la información.
 
 La Ley, por lo tanto, no parte de la nada ni colma un vacío absoluto, sino que ahonda en lo ya conseguido, supliendo sus carencias, subsanando sus deficiencias y creando un marco jurídico acorde con los tiempos y los intereses ciudadanos.
 
@@ -363,7 +366,7 @@ f)	Las retribuciones percibidas anualmente por los altos cargos y máximos respo
 
 g)	Las resoluciones de autorización o reconocimiento de compatibilidad que afecten a los empleados públicos así como las que autoricen el ejercicio de actividad privada al cese de los altos cargos de la Administración General del Estado o asimilados según la normativa autonómica o local.
 
-h)	Las declaraciones anuales de bienes y actividades de los representantes locales, en los términos previstos en la Ley 7/1985, de 2 de abril, Reguladora de las Bases del Régimen Local. Cuando el reglamento no fije los términos en que han de hacerse públicas estas declaraciones se aplicará lo dispuesto en la normativa de conflictos de intereses en el ámbito de la Administración General del Estado. En todo caso, se omitirán los datos relativos a la localización concreta de los bienes inmuebles y se garantizará la privacidad y seguridad de sus titulares.
+h)	Las declaraciones anuales de bienes y actividades de los representantes locales, en los términos previstos en la [Ley 7/1985](../02_gestion_y_administracion_centros/BOE_1985_5392_abril_reguladora_bases_régimen.md), de 2 de abril, Reguladora de las Bases del Régimen Local. Cuando el reglamento no fije los términos en que han de hacerse públicas estas declaraciones se aplicará lo dispuesto en la normativa de conflictos de intereses en el ámbito de la Administración General del Estado. En todo caso, se omitirán los datos relativos a la localización concreta de los bienes inmuebles y se garantizará la privacidad y seguridad de sus titulares.
 
 i)	La información estadística necesaria para valorar el grado de cumplimiento y calidad de los servicios públicos que sean de su competencia, en los términos que defina cada administración competente.
 
@@ -447,7 +450,7 @@ l)	La protección del medio ambiente.
 
 #### Artículo 15. Protección de datos personales.
 
-1. Si la información solicitada contuviera datos especialmente protegidos a los que se refiere el apartado 2 del artículo 7 de la Ley Orgánica 15/1999, de 13 de diciembre, de Protección de Datos de Carácter Personal, el acceso únicamente se podrá autorizar en caso de que se contase con el consentimiento expreso y por escrito del afectado, a menos que dicho afectado hubiese hecho manifiestamente públicos los datos con anterioridad a que se solicitase el acceso.
+1. Si la información solicitada contuviera datos especialmente protegidos a los que se refiere el apartado 2 del artículo 7 de la [Ley Orgánica 15/1999](../02_gestion_y_administracion_centros/BOE_1999_23750_diciembre_protección_datos_carácter.md), de 13 de diciembre, de Protección de Datos de Carácter Personal, el acceso únicamente se podrá autorizar en caso de que se contase con el consentimiento expreso y por escrito del afectado, a menos que dicho afectado hubiese hecho manifiestamente públicos los datos con anterioridad a que se solicitase el acceso.
 
 Si la información incluyese datos especialmente protegidos a los que se refiere el apartado 3 del artículo 7 de la Ley Orgánica 15/1999, de 13 de diciembre, o datos relativos a la comisión de infracciones penales o administrativas que no conllevasen la amonestación pública al infractor, el acceso sólo se podrá autorizar en caso de que se cuente con el consentimiento expreso del afectado o si aquél estuviera amparado por una norma con rango de Ley.
 

@@ -38,6 +38,7 @@ fundamentos_derecho:
   articulos:
   - '1'
 - norma_id: norm-es-l-39-2015
+- norma_id: norm-can-d-84-2024
 fuente_pdf_oficial: https://sede.gobiernodecanarias.org/boc/boc-a-2026-132-2304.pdf
 ---
 # Dirección General de Formación Profesional y Enseñanzas de Régimen Especial.- Resolución de 24 de junio de 2026, por la que se corrige la Resolución de 13 de febrero de 2026, que dicta instrucciones sobre el proceso de admisión del alumnado a Ciclos Formativos de Grado Básico, Medio y Superior (Grado D, niveles 1, 2 y 3, respectivamente) de las Enseñanzas de Formación Profesional de Grados D, Enseñanzas Profesionales de Artes Plásticas y Diseño, Enseñanzas Elementales y Profesionales de Música, Enseñanzas de Idiomas y Enseñanzas Deportivas en centros docentes sostenidos con fondos públicos en la Comunidad Autónoma de Canarias para el curso escolar 2026/2027 (BOC n.º 39, de 26.2.2026).
@@ -66,7 +67,7 @@ Segundo.- Se advierte un error de hecho en la instrucción “I. Instrucciones g
 del procedimiento”, referido a la reclamación tras la publicación de las listas definitivas del 
 procedimiento de admisión.
 FUNDAMENTO DE DERECHO
-Único.- El artículo 109.2 de la Ley 39/2015, de 1 de octubre, del Procedimiento 
+Único.- El artículo 109.2 de la [Ley 39/2015](../../../estatal/01_marco_normativo_general_y_organico/L39_2015_procedimiento_administrativo_comun.md), de 1 de octubre, del Procedimiento 
 Administrativo Común de las Administraciones Públicas, dispone que “Las Administraciones 
 Públicas podrán, asimismo, rectificar en cualquier momento, de oficio o a instancia de 
 los interesados, los errores materiales, de hecho, o aritméticos existentes en sus actos”. A 
@@ -76,7 +77,7 @@ En su virtud, y en uso de las competencias que tengo conferidas en base a lo dis
 en el artículo 19 del Decreto 212/1991, de 11 de septiembre, de organización de los 
 Departamentos de la Administración Autonómica de Canarias, y en el artículo 20 del 
 Reglamento Orgánico de la Consejería de Educación, Formación Profesional, Actividad 
-Física y Deportes, aprobado por el Decreto 84/2024, de 10 de junio, por el que se asignan 
+Física y Deportes, aprobado por el [Decreto 84/2024](../01_marco_normativo_general_y_organico/D84_2024_reglamento_organico_consejeria.md), de 10 de junio, por el que se asignan 
 las competencias generales y específicas a la Dirección General de Formación Profesional 
 y Enseñanzas de Régimen Especial,
 RESUELVO :

@@ -34,14 +34,18 @@ fundamentos_derecho:
 - norma_id: norm-es-l-31-1995
   articulos:
   - '1'
+- norma_id: norm-es-2002-12018
+- norma_id: norm-es-2016-3229
+- norma_id: norm-es-2021-20113
+- norma_id: norm-es-2010-12201
 ---
 # Real Decreto 774/2015, de 28 de agosto, por el que se establecen seis Títulos de Formación Profesional Básica del catálogo de Títulos de las enseñanzas de Formación Profesional.
 
-La Ley Orgánica 2/2006, de 3 de mayo, de Educación, dispone en el artículo 39.6 que el Gobierno, previa consulta a las comunidades autónomas, establecerá las titulaciones correspondientes a los estudios de formación profesional, así como los aspectos básicos del currículo de cada una de ellas.
+La [Ley Orgánica 2/2006](../01_marco_normativo_general_y_organico/LO2_2006_ley_organica_educacion.md), de 3 de mayo, de Educación, dispone en el artículo 39.6 que el Gobierno, previa consulta a las comunidades autónomas, establecerá las titulaciones correspondientes a los estudios de formación profesional, así como los aspectos básicos del currículo de cada una de ellas.
 
-La Ley Orgánica 8/2013, de 9 de diciembre, para la mejora de la calidad educativa, modifica el artículo 3.10 de la Ley Orgánica 2/2006, de 3 de mayo, y crea los ciclos de formación profesional básica dentro de la Formación Profesional del sistema educativo, como medida para facilitar la permanencia de los alumnos y las alumnas en el sistema educativo y ofrecerles mayores posibilidades para su desarrollo personal y profesional.
+La [Ley Orgánica 8/2013](BOE_2016_3229_marzo_regula_procedimiento_incorporación.md), de 9 de diciembre, para la mejora de la calidad educativa, modifica el artículo 3.10 de la Ley Orgánica 2/2006, de 3 de mayo, y crea los ciclos de formación profesional básica dentro de la Formación Profesional del sistema educativo, como medida para facilitar la permanencia de los alumnos y las alumnas en el sistema educativo y ofrecerles mayores posibilidades para su desarrollo personal y profesional.
 
-Por otro lado, la Ley Orgánica 5/2002, de 19 de junio, de las Cualificaciones y de la Formación Profesional, señala en el artículo 10.1 que la Administración General del Estado, de conformidad con lo que se establece en el artículo 149.1.30.ª y 7.ª de la Constitución, y previa consulta al Consejo General de la Formación Profesional, determinará los títulos de formación profesional del sistema educativo y los certificados de profesionalidad del subsistema de formación profesional para el empleo, que constituirán las ofertas de formación profesional referidas al Catálogo Nacional de Cualificaciones Profesionales.
+Por otro lado, la [Ley Orgánica 5/2002](BOE_2002_12018_junio_cualificaciones_formación_profesional.md), de 19 de junio, de las Cualificaciones y de la Formación Profesional, señala en el artículo 10.1 que la Administración General del Estado, de conformidad con lo que se establece en el artículo 149.1.30.ª y 7.ª de la Constitución, y previa consulta al Consejo General de la Formación Profesional, determinará los títulos de formación profesional del sistema educativo y los certificados de profesionalidad del subsistema de formación profesional para el empleo, que constituirán las ofertas de formación profesional referidas al Catálogo Nacional de Cualificaciones Profesionales.
 
 La disposición final cuarta del Real Decreto 127/2014, de 28 de febrero, por el que se regulan aspectos específicos de la Formación Profesional Básica de las enseñanzas de formación profesional del sistema educativo, se aprueban catorce títulos profesionales básicos, se fijan sus currículos básicos y se modifica el Real Decreto 1850/2009, de 4 de diciembre, sobre expedición de títulos académicos y profesionales correspondientes a las enseñanzas establecidas en la Ley Orgánica 2/2006, de 3 de mayo, de Educación, indica que corresponde al Gobierno, previa consulta a las comunidades autónomas, la actualización y ampliación del catálogo de títulos de las enseñanzas de Formación Profesional y el establecimiento de nuevos títulos de Formación Profesional Básica y de los currículos básicos correspondientes, al amparo de lo establecido en el artículo 39.6 de la Ley Orgánica 2/2006, de 3 de mayo.
 

@@ -35,10 +35,14 @@ fundamentos_derecho:
   articulos:
   - '1'
   - '2'
+- norma_id: norm-es-2010-11426
+- norma_id: norm-es-rd-1834-2008
+- norma_id: norm-es-2021-20113
+- norma_id: norm-es-2010-12201
 ---
 # Real Decreto 1146/2011, de 29 de julio, por el que se modifica el Real Decreto 1631/2006, de 29 de diciembre, por el que se esteblecen las enseñanzas mínimas correspondientes a la Educación Secundaria Obligatoria, así como los Reales Decretos 1834/2008, de 8 de noviembre, y 860/2010, de 2 de julio, afectados por estas modificaciones.
 
-La Ley 2/2011, de 4 de marzo, de Economía Sostenible, en su disposición final vigésima cuarta, apartado 3, introduce modificaciones en algunos artículos de la Ley Orgánica 2/2006, de 3 de mayo, de Educación, destinadas a favorecer la adecuación del sistema educativo a la distintas situaciones y características del alumnado después de una escolarización de 9 años desde el inicio de la educación primaria, así como a favorecer que los estudiantes puedan continuar su formación una vez finalizada la Educación Secundaria Obligatoria. En esta línea se adelanta la edad de acceso a los Programas de Cualificación Profesional Inicial a los 15 años.
+La Ley 2/2011, de 4 de marzo, de Economía Sostenible, en su disposición final vigésima cuarta, apartado 3, introduce modificaciones en algunos artículos de la [Ley Orgánica 2/2006](../01_marco_normativo_general_y_organico/LO2_2006_ley_organica_educacion.md), de 3 de mayo, de Educación, destinadas a favorecer la adecuación del sistema educativo a la distintas situaciones y características del alumnado después de una escolarización de 9 años desde el inicio de la educación primaria, así como a favorecer que los estudiantes puedan continuar su formación una vez finalizada la Educación Secundaria Obligatoria. En esta línea se adelanta la edad de acceso a los Programas de Cualificación Profesional Inicial a los 15 años.
 
 Por otra parte la Ley Orgánica 4/2011, de 11 de marzo, complementaria de la Ley de Economía Sostenible, recoge modificaciones normativas de la Ley Orgánica 2/2006, de 3 de mayo, de Educación, dirigidas a establecer opciones orientadas hacia las diferentes modalidades de bachillerato y hacia los diferentes ciclos de grado medio de formación profesional, a fin de orientar la elección del alumnado, organizar los Programas de cualificación profesional inicial y establecer un certificado oficial en el que conste el nivel de adquisición de las competencias básicas del alumnado que finalice la educación secundaria obligatoria sin obtener el título de Graduado en Educación Secundaria Obligatoria.
 
@@ -228,7 +232,7 @@ Ciencias aplicadas a la actividad profesional: 70*.
 
 Orientación Profesional e Iniciativa emprendedora: 70*.»
 
-#### Artículo segundo. Modificación del Real Decreto 1834/2008, de 8 de noviembre, por el que se definen las condiciones de formación para el ejercicio de la docencia en la educación secundaria obligatoria, el bachillerato, la formación profesional y las enseñanzas de régimen especial y se establecen las especialidades de los cuerpos docentes de enseñanza secundaria.
+#### Artículo segundo. Modificación del [Real Decreto 1834/2008](RD1834_2008_condiciones_docencia_secundaria.md), de 8 de noviembre, por el que se definen las condiciones de formación para el ejercicio de la docencia en la educación secundaria obligatoria, el bachillerato, la formación profesional y las enseñanzas de régimen especial y se establecen las especialidades de los cuerpos docentes de enseñanza secundaria.
 
 Se modifican los anexos III y V del Real Decreto 1834/2008, de 8 de noviembre, por el que se definen las condiciones de formación para el ejercicio de la docencia en la educación secundaria obligatoria, el bachillerato, la formación profesional y las enseñanzas de régimen especial y se establecen las especialidades de los cuerpos docentes de enseñanza secundaria, que quedan redactados en los siguientes términos:
 
@@ -470,7 +474,7 @@ Los profesores de Asesoría y procesos de imagen personal podrán impartir la ma
 
 Los profesores de Formación y orientación laboral podrán impartir las materias de Economía, Economía de Empresa, Orientación Profesional e Iniciativa emprendedora, siempre que se trate de licenciados o graduados en alguna especialidad de la rama de conocimientos de Ciencias Sociales y Jurídicas con formación en Economía.»
 
-#### Artículo tercero. Modificación del Real Decreto 860/2010, de 2 de julio, por el que se regulan las condiciones de formación inicial del profesorado de los centros privados para ejercer la docencia en las enseñanzas de educación secundaria obligatoria o de bachillerato.
+#### Artículo tercero. Modificación del [Real Decreto 860/2010](BOE_2010_11426_julio_regulan_condiciones_formación.md), de 2 de julio, por el que se regulan las condiciones de formación inicial del profesorado de los centros privados para ejercer la docencia en las enseñanzas de educación secundaria obligatoria o de bachillerato.
 
 Se modifica el anexo del Real Decreto 860/2010, incorporando las materias de Alimentación, nutrición y salud, Ciencias aplicadas a la actividad profesional, Orientación Profesional e Iniciativa emprendedora, en los bloques correspondientes, de la siguiente forma:
 

@@ -29,6 +29,14 @@ fundamentos_derecho:
 - norma_id: norm-can-l-6-2014
   articulos:
   - '1'
+- norma_id: norm-can-d-84-2024
+- norma_id: norm-can-lo-1-2018
+- norma_id: norm-can-res-boc-2024-230-25
+- norma_id: norm-es-2020-17274
+- norma_id: norm-es-2021-979
+- norma_id: norm-es-2024-10684
+- norma_id: norm-es-2024-10685
+- norma_id: norm-es-rd-659-2023
 fuente_pdf_oficial: https://sede.gobiernodecanarias.org/boc/boc-a-2025-093-1761.pdf
 ---
 # Resolución de 2 de mayo de 2025, de la Dirección General de Formación Profesional y Enseñanzas de Régimen Especial por la que se dictan instrucciones para la organización de la oferta de dobles titulaciones de formación profesional (Grados D) de ciclos formativos con el primer curso en común en la Comunidad Autónoma de Canarias a partir del curso 2025/2026 (BOC n.º 93, de 12 de mayo).
@@ -82,17 +90,17 @@ ciclos formativos relacionados entre sí pertenecientes a una familia profesiona
 la obtención de dos títulos en tres cursos académicos, promoviendo una formación más 
 completa y versátil, adaptada a las necesidades del mercado laboral.
 FUNDAMENTOS DE DERECHO
-Primero.- El artículo 133.3 de la Ley Orgánica 1/2018, de 5 de noviembre, de reforma 
+Primero.- El artículo 133.3 de la [Ley Orgánica 1/2018](../01_marco_normativo_general_y_organico/LO1_2018_estatuto_autonomia_canarias.md), de 5 de noviembre, de reforma 
 del Estatuto de Autonomía de Canarias, indica que le corresponde a la Comunidad Autónoma 
 de Canarias la competencia de desarrollo legislativo y de ejecución, entre otras, de la 
 ordenación de las enseñanza y la actividad docente y educativa, así como el establecimiento 
 de los correspondientes planes de estudio, incluida la ordenación curricular.
-Segundo.- La Ley 6/2014, de 25 de julio, Canaria de Educación no Universitaria, 
+Segundo.- La [Ley 6/2014](../01_marco_normativo_general_y_organico/L6_2014_ley_canaria_educacion.md), de 25 de julio, Canaria de Educación no Universitaria, 
 establece en su artículo 33.3 que “De acuerdo con la normativa básica del Estado, una vez 
 aprobado el Real Decreto correspondiente a un título de formación profesional y hasta que 
 sea completado el currículo correspondiente a la comunidad autónoma, aquel actuará como 
 norma subsidiaria”.
-Tercero.- El Real Decreto 1085/2020, de 9 de diciembre, por el que se establecen 
+Tercero.- El [Real Decreto 1085/2020](../../../estatal/03_ordenacion_curricular_y_ensenanzas/BOE_2020_17274_diciembre_establecen_convalidaciones_módulos.md), de 9 de diciembre, por el que se establecen 
 convalidaciones de módulos profesionales de los títulos de Formación Profesional del 
 sistema educativo español y las medidas para su aplicación, y se modifica el Real Decreto 
 1147/2011, de 29 de julio, por el que se establece la ordenación general de la formación 
@@ -124,7 +132,7 @@ faculta a las Administraciones educativas para establecer, en su ámbito de comp
 procedimientos para las convalidaciones correspondientes a módulos profesionales propios 
 que formen parte de sus currículos autonómicos, siempre que se trate de módulos idénticos, 
 independientemente del ciclo formativo al que pertenezcan.
-Cuarto.- El Real Decreto 659/2023, de 18 de julio, por el que se desarrolla la ordenación 
+Cuarto.- El [Real Decreto 659/2023](RES_dirección_general_formación_profesional_25.md), de 18 de julio, por el que se desarrolla la ordenación 
 del Sistema de Formación Profesional, establece en su artículo 126.3 que “Serán objeto de 
 convalidación entre ciclos formativos del mismo grado:
 a) Inglés Profesional;
@@ -152,7 +160,7 @@ Profesional de grado medio y grado superior, y se fijan sus enseñanzas mínimas
 en su artículo sexto varios aspectos sobre convalidaciones y exenciones.
 Por todo lo expuesto, de conformidad con lo establecido en el artículo 20 del Reglamento 
 Orgánico de la Consejería de Educación, Formación Profesional, Actividad Física y Deportes, 
-aprobado mediante Decreto 84/2024, de 10 de junio, por el que se asignan competencias 
+aprobado mediante [Decreto 84/2024](../01_marco_normativo_general_y_organico/D84_2024_reglamento_organico_consejeria.md), de 10 de junio, por el que se asignan competencias 
 generales y específicas a la Dirección General de Formación Profesional y Enseñanzas de 
 Régimen Especial,
 
@@ -195,10 +203,10 @@ objetivos generales, módulos profesionales, resultados de aprendizaje y criteri
 de cada título son los expresados en cada uno de los Reales Decretos vigentes.
 2. Las actualizaciones de los módulos profesionales que forman parte del plan de 
 estudios de cada ciclo formativo vienen recogidas en los siguientes Reales Decretos:
-• Real Decreto 499/2024, de 21 de mayo, por el que se modifican determinados reales 
+• [Real Decreto 499/2024](../../../estatal/03_ordenacion_curricular_y_ensenanzas/BOE_2024_10684_mayo_modifican_determinados_reales.md), de 21 de mayo, por el que se modifican determinados reales 
 decretos por los que se establecen títulos de Formación Profesional de grado medio y se 
 fijan sus enseñanzas mínimas.
-• Real Decreto 500/2024, de 21 de mayo, por el que se modifican determinados reales 
+• [Real Decreto 500/2024](../../../estatal/03_ordenacion_curricular_y_ensenanzas/BOE_2024_10685_mayo_modifican_determinados_reales.md), de 21 de mayo, por el que se modifican determinados reales 
 decretos por los que se establecen títulos de Formación Profesional de grado superior y se 
 fijan sus enseñanzas mínimas.
 3. Las orientaciones referentes a la adaptación del currículo al entorno socio-productivo 

@@ -33,14 +33,16 @@ fundamentos_derecho:
 - norma_id: norm-es-rdl-5-2015
   articulos:
   - '1'
+- norma_id: norm-es-1993-23257
+- norma_id: norm-es-1995-22212
 ---
 # Orden de 1 de febrero de 1996 por la que se aprueban los temarios que han de regir en los procedimientos de ingreso, adquisición de nuevas especialidades y movilidad para determinadas especialidades de los Cuerpos de Profesores de Enseñanza Secundaria y Profesores Técnicos de Formación Profesional.
 
-Con objeto de adecuar el contenido de la parte A de los temarios a las nuevas enseñanzas de la Formación Profesional Específica, procede aprobar los temarios para las distintas especialidades de los Cuerpos de Profesores de Enseñanza Secundaria y Profesores Técnicos de Formación Profesional, en función de los contenidos básicos de los módulos profesionales sobre los que tienen atribución docente las especialidades del profesorado, según el Real Decreto 1635/1995. Igualmente, para concluir el proceso iniciado con la Orden de 9 de septiembre de 1993, se incluye el temario de la especialidad de Economía del Cuerpo de Profesores de Enseñanza Secundaria.
+Con objeto de adecuar el contenido de la parte A de los temarios a las nuevas enseñanzas de la Formación Profesional Específica, procede aprobar los temarios para las distintas especialidades de los Cuerpos de Profesores de Enseñanza Secundaria y Profesores Técnicos de Formación Profesional, en función de los contenidos básicos de los módulos profesionales sobre los que tienen atribución docente las especialidades del profesorado, según el [Real Decreto 1635/1995](BOE_1995_22212_octubre_adscribe_profesorado_cuerpos.md). Igualmente, para concluir el proceso iniciado con la [Orden de 9 de septiembre de 1993](BOE_1993_23257_adquisición_nuevas_especialidades_movilidad.md), se incluye el temario de la especialidad de Economía del Cuerpo de Profesores de Enseñanza Secundaria.
 
 Asimismo, ha de procederse a la adecuación de la parte B del temario, que incluye temas de carácter didáctico y de contenido general, a las demandas de los nuevos currículos de Formación Profesional Específica y a la ubicación y organización de este tipo de enseñanza en el sistema educativo-formativo nacional.
 
-Todas las especialidades, cuyos temarios se definen en la presente Orden, incluyen habilidades instrumentales o técnicas. Por lo dispuesto en el artículo 26.4 del Real Decreto 850/1993, estas habilidades podrán ser evaluadas en alguna de las pruebas.
+Todas las especialidades, cuyos temarios se definen en la presente Orden, incluyen habilidades instrumentales o técnicas. Por lo dispuesto en el artículo 26.4 del [Real Decreto 850/1993](BOE_1993_23257_adquisición_nuevas_especialidades_movilidad.md), estas habilidades podrán ser evaluadas en alguna de las pruebas.
 
 En su virtud, previa consulta con los órganos competentes de las Comunidades Autónomas que se hallan en el pleno ejercicio de sus competencias en materia de educación, y en uso de las atribuciones conferidas por el artículo 22.2, del Real Decreto 850/1993, de 4 de junio, he dispuesto:
 

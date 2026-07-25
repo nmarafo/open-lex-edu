@@ -37,6 +37,9 @@ fundamentos_derecho:
   - '1'
 - norma_id: norm-es-lo-2-2006
 - norma_id: norm-es-l-39-2015
+- norma_id: norm-can-d-84-2024
+- norma_id: norm-es-l-40-2015
+- norma_id: norm-es-2001-7022
 fuente_pdf_oficial: https://sede.gobiernodecanarias.org/boc/boc-a-2026-045-737.pdf
 ---
 # Resolución de 23 de febrero de 2026, por la que se dictan instrucciones para la tramitación electrónica de los títulos académicos y profesionales de las enseñanzas no universitarias en el ámbito de la Comunidad Autónoma de Canarias (BOC n.º 45, de 6 de marzo).
@@ -53,8 +56,8 @@ de títulos académicos y profesionales de las enseñanzas no universitarias de 
 Autónoma de Canarias, es necesario dictar unas instrucciones que establezca el procedimiento 
 a seguir, de conformidad con los siguientes
 ANTECEDENTE DE HECHO
-Único.- La Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común de 
-las Administraciones Públicas, y la Ley 40/2015, de 1 de octubre, de Régimen Jurídico del 
+Único.- La [Ley 39/2015](../../../estatal/01_marco_normativo_general_y_organico/L39_2015_procedimiento_administrativo_comun.md), de 1 de octubre, del Procedimiento Administrativo Común de 
+las Administraciones Públicas, y la [Ley 40/2015](../../../estatal/01_marco_normativo_general_y_organico/L40_2015_regimen_juridico_sector_publico.md), de 1 de octubre, de Régimen Jurídico del 
 Sector Público, han establecido que la tramitación electrónica de los procedimientos debe 
 constituir la actuación habitual de las Administraciones Públicas, por lo que es necesario 
 desarrollar y concretar las previsiones legales en relación con el procedimiento para la 
@@ -73,11 +76,11 @@ Cuarto.- Decreto 237/1997, de 30 de septiembre, de creación y regulación del R
 de títulos académicos y profesionales de la Comunidad Autónoma de Canarias.
 Quinto.- Orden de 10 de noviembre de 1997, por la que se regula en el ámbito de la 
 Comunidad Autónoma de Canarias el procedimiento de expedición de los títulos académicos y 
-profesionales correspondientes a las enseñanzas establecidas por la Ley Orgánica 1/1990, 
+profesionales correspondientes a las enseñanzas establecidas por la [Ley Orgánica 1/1990](../../../estatal/02_gestion_y_administracion_centros/BOE_2001_7022_correspondientes_españoles_educación_secundaria.md), 
 de 3 de octubre, de Ordenación General del Sistema Educativo.
 Por lo expuesto, y en ejercicio de las competencias atribuidas en el artículo 18.2A.c) 
 del Reglamento Orgánico de la Consejería de Educación, Formación Profesional, Actividad 
-Física y Deportes, aprobado por el Decreto 84/2024, de 10 de junio,
+Física y Deportes, aprobado por el [Decreto 84/2024](../01_marco_normativo_general_y_organico/D84_2024_reglamento_organico_consejeria.md), de 10 de junio,
 
 RESUELVO :
 Primero.- Aprobar las instrucciones que se contienen en la presente Resolución para 

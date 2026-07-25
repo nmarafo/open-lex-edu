@@ -35,6 +35,10 @@ fundamentos_derecho:
 - norma_id: norm-es-ce-1978
   articulos:
   - '14'
+- norma_id: norm-es-1984-17387
+- norma_id: norm-es-1995-25444
+- norma_id: norm-es-2001-7022
+- norma_id: norm-es-lo-8-1985
 ---
 # Ley Orgánica 1/2004 de Medidas de Protección Integral contra la Violencia de Género
 
@@ -62,7 +66,7 @@ En la realidad española, las agresiones sobre las mujeres tienen una especial i
 
 Los poderes públicos no pueden ser ajenos a la violencia de género, que constituye uno de los ataques más flagrantes a derechos fundamentales como la libertad, la igualdad, la vida, la seguridad y la no discriminación proclamados en nuestra Constitución. Esos mismos poderes públicos tienen, conforme a lo dispuesto en el artículo 9.2 de la Constitución, la obligación de adoptar medidas de acción positiva para hacer reales y efectivos dichos derechos, removiendo los obstáculos que impiden o dificultan su plenitud.
 
-En los últimos años se han producido en el derecho español avances legislativos en materia de lucha contra la violencia de género, tales como la Ley Orgánica 11/2003, de 29 de septiembre, de Medidas Concretas en Materia de Seguridad Ciudadana, Violencia Doméstica e Integración Social de los Extranjeros; la Ley Orgánica 15/2003, de 25 de noviembre, por la que se modifica la Ley Orgánica 10/1995, de 23 de noviembre, del Código Penal, o la Ley 27/2003, de 31 de julio, reguladora de la Orden de Protección de las Víctimas de la Violencia Doméstica; además de las leyes aprobadas por diversas Comunidades Autónomas, dentro de su ámbito competencial. Todas ellas han incidido en distintos ámbitos civiles, penales, sociales o educativos a través de sus respectivas nor-mativas.
+En los últimos años se han producido en el derecho español avances legislativos en materia de lucha contra la violencia de género, tales como la Ley Orgánica 11/2003, de 29 de septiembre, de Medidas Concretas en Materia de Seguridad Ciudadana, Violencia Doméstica e Integración Social de los Extranjeros; la Ley Orgánica 15/2003, de 25 de noviembre, por la que se modifica la [Ley Orgánica 10/1995](../01_marco_normativo_general_y_organico/BOE_1995_25444_noviembre_código_penal.md), de 23 de noviembre, del Código Penal, o la Ley 27/2003, de 31 de julio, reguladora de la Orden de Protección de las Víctimas de la Violencia Doméstica; además de las leyes aprobadas por diversas Comunidades Autónomas, dentro de su ámbito competencial. Todas ellas han incidido en distintos ámbitos civiles, penales, sociales o educativos a través de sus respectivas nor-mativas.
 
 La Ley pretende atender a las recomendaciones de los organismos internacionales en el sentido de proporcionar una respuesta global a la violencia que se ejerce sobre las mujeres. Al respecto se puede citar la Convención sobre la eliminación de todas las formas de discriminación sobre la mujer de 1979; la Declaración de Naciones Unidas sobre la eliminación de la violencia sobre la Mujer, proclamada en diciembre de 1993 por la Asamblea General; las Resoluciones de la última Cumbre Internacional sobre la Mujer celebrada en Pekín en septiembre de 1995; la Resolución WHA49.25 de la Asamblea Mundial de la Salud declarando la violencia como problema prioritario de salud pública proclamada en 1996 por la OMS; el informe del Parlamento Europeo de julio de 1997; la Resolución de la Comisión de Derechos Humanos de Naciones Unidas de 1997; y la Declaración de 1999 como Año Europeo de Lucha Contra la Violencia de Género, entre otros. Muy recientemente, la Decisión n.º 803/2004/CE del Parlamento Europeo, por la que se aprueba un programa de acción comunitario (2004-2008) para prevenir y combatir la violencia ejercida sobre la infancia, los jóvenes y las mujeres y proteger a las víctimas y grupos de riesgo (programa Daphne II), ha fijado la posición y estrategia de los representantes de la ciudadanía de la Unión al respecto.
 
@@ -98,7 +102,7 @@ Asimismo, se reconoce el derecho a la asistencia jurídica gratuita, con el fin 
 
 Se establecen, asimismo, medidas de protección en el ámbito social, modificando el Real Decreto Legislativo 1/1995, de 24 de marzo, por el que se aprueba el texto refundido de la Ley del Estatuto de los Trabajadores, para justificar las ausencias del puesto de trabajo de las víctimas de la violencia de género, posibilitar su movilidad geográfica, la suspensión con reserva del puesto de trabajo y la extinción del contrato.
 
-En idéntico sentido se prevén medidas de apoyo a las funcionarias públicas que sufran formas de violencia de las que combate esta Ley, modificando los preceptos correspondientes de la Ley 30/1984, de 2 de agosto, de Medidas para la Reforma de la Función Pública.
+En idéntico sentido se prevén medidas de apoyo a las funcionarias públicas que sufran formas de violencia de las que combate esta Ley, modificando los preceptos correspondientes de la [Ley 30/1984](../01_marco_normativo_general_y_organico/BOE_1984_17387_agosto_medidas_para_reforma.md), de 2 de agosto, de Medidas para la Reforma de la Función Pública.
 
 Se regulan, igualmente, medidas de apoyo económico, modificando el Real Decreto Legislativo 1/1994, de 20 de junio, por el que se aprueba el texto refundido de la Ley General de la Seguridad Social, para que las víctimas de la violencia de género generen derecho a la situación legal de desempleo cuando resuelvan o suspendan voluntariamente su contrato de trabajo.
 
@@ -908,7 +912,7 @@ El Gobierno y las Comunidades Autónomas, que hayan asumido competencias en mate
 
 #### Disposición adicional tercera. Modificación de la Ley Orgánica reguladora del Derecho a la Educación.
 
-Uno. Las letras b) y g) del artículo 2 de la Ley Orgánica 8/1985, de 3 de julio, reguladora del Derecho a la Educación, quedarán redactadas de la forma siguiente:
+Uno. Las letras b) y g) del artículo 2 de la [Ley Orgánica 8/1985](../02_gestion_y_administracion_centros/LO8_1985_derecho_educacion.md), de 3 de julio, reguladora del Derecho a la Educación, quedarán redactadas de la forma siguiente:
 
 «b) La formación en el respeto de los derechos y libertades fundamentales, de la igualdad entre hombres y mujeres y en el ejercicio de la tolerancia y de la libertad dentro de los principios democráticos de convivencia.
 
@@ -940,7 +944,7 @@ Seis. Se adiciona una nueva letra m) en el artículo 57 de la Ley Orgánica 8/19
 
 #### Disposición adicional cuarta. Modificación de la Ley Orgánica de Ordenación General del Sistema Educativo.
 
-Uno. Se modifica la letra b) del apartado 1 del artícu-lo 1 de la Ley Orgánica 1/1990, de 3 de octubre, de Ordenación General del Sistema Educativo, que quedará redactado de la siguiente forma:
+Uno. Se modifica la letra b) del apartado 1 del artícu-lo 1 de la [Ley Orgánica 1/1990](../02_gestion_y_administracion_centros/BOE_2001_7022_correspondientes_españoles_educación_secundaria.md), de 3 de octubre, de Ordenación General del Sistema Educativo, que quedará redactado de la siguiente forma:
 
 «b) La formación en el respeto de los derechos y libertades fundamentales, de la igualdad entre hombres y mujeres y en el ejercicio de la tolerancia y de la libertad dentro de los principios democráticos de convivencia.»
 

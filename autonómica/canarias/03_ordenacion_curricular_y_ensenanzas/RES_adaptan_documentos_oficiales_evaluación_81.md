@@ -31,6 +31,7 @@ fundamentos_derecho:
 - norma_id: norm-can-l-6-2014
   articulos:
   - '1'
+- norma_id: norm-es-rd-217-2022
 fuente_pdf_oficial: https://sede.gobiernodecanarias.org/boc/boc-a-2022-243-3774.pdf
 ---
 # Resolución de 28 de noviembre de 2022, por la que se adaptan los documentos oficiales de evaluación a la Educación Básica de Personas Adultas en la Comunidad Autónoma de Canarias (BOC n.º 243, de 13 de diciembre).
@@ -210,7 +211,7 @@ de dicho período en la que se indicará la calificación obtenida (apéndice VI
 APÉNDICE I
 Expediente académico
 EXPEDIENTE ACADÉMICO
-EDUCACIÓN BÁSICA DE PERSONAS ADULTAS foto• Real Decreto 217/2022, de 29 de marzo, por el que se establece la ordenación y las enseñanzas mínimas de la ESO
+EDUCACIÓN BÁSICA DE PERSONAS ADULTAS foto• [Real Decreto 217/2022](../../../estatal/03_ordenacion_curricular_y_ensenanzas/RD217_2022_ordenacion_ensenanzas_minimas_eso.md), de 29 de marzo, por el que se establece la ordenación y las enseñanzas mínimas de la ESO
 • Orden de 20 de octubre de 2022, por la que se regulan la oferta educativa y la evaluación de las enseñanzas que in-
 tegran la EBPA en la comunidad autónoma de Canarias
 CURSO ACADÉMICO

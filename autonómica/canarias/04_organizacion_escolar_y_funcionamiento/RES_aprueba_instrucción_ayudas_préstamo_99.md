@@ -32,6 +32,13 @@ fundamentos_derecho:
   articulos:
   - '1'
 - norma_id: norm-es-lo-2-2006
+- norma_id: norm-can-d-84-2024
+- norma_id: norm-can-d-276-1997
+- norma_id: norm-es-l-39-2015
+- norma_id: norm-es-l-40-2015
+- norma_id: norm-es-lo-3-2018
+- norma_id: norm-es-2021-20113
+- norma_id: norm-es-2010-12201
 fuente_pdf_oficial: https://sede.gobiernodecanarias.org/boc/boc-a-2026-067-1098.pdf
 ---
 # Resolución de 25 de marzo de 2026, por la que se aprueba la instrucción de las ayudas de préstamo de libros de texto y materiales didácticos en los centros públicos para el curso escolar 2026/2027.
@@ -64,7 +71,7 @@ el alumnado isleño”.
 Segundo.- El derecho fundamental a la educación está consagrado en el artículo 27.1 
 de la Constitución Española y el artículo 27.4 establece que “La enseñanza básica es 
 obligatoria y gratuita”.
-La Ley Orgánica 2/2006, de 3 de mayo, de Educación, en el artículo 3.3 establece que “la 
+La [Ley Orgánica 2/2006](../../../estatal/01_marco_normativo_general_y_organico/LO2_2006_ley_organica_educacion.md), de 3 de mayo, de Educación, en el artículo 3.3 establece que “la 
 educación primaria, la educación secundaria obligatoria y los ciclos formativos de grado básico 
 constituyen la educación básica”. Asimismo, determina en el artículo 4.1 que la enseñanza 
 básica es obligatoria y gratuita para todas las personas, y en el artículo 88.2 establece que 
@@ -87,7 +94,7 @@ eviten desigualdades derivadas de factores sociales, económicos, culturales, ge
 étnicos o de otra índole, correspondiendo al Estado y a la Comunidad Autónoma, en sus 
 respectivos ámbitos de competencia, fijar sus objetivos prioritarios a fin de lograr una 
 educación de mayor equidad.
-Tercero.- La Ley 6/2014, de 25 de julio, Canaria de Educación no Universitaria, 
+Tercero.- La [Ley 6/2014](../01_marco_normativo_general_y_organico/L6_2014_ley_canaria_educacion.md), de 25 de julio, Canaria de Educación no Universitaria, 
 incluye dentro de sus principios rectores la equidad del sistema educativo para evitar que 
 las desigualdades económicas y sociales limiten las oportunidades de aprendizaje y se 
 conviertan en un determinante del éxito escolar, además de promover las ayudas y apoyos 
@@ -149,16 +156,16 @@ Quinto.- El Anexo III, resumen de gastos por secciones, programas y capítulos, 
 Ley 9/2025, de 23 de diciembre, de Presupuestos Generales de la Comunidad Autónoma 
 de Canarias para 2026, establece la cuantía del uso gratuito de libros de texto, dentro del 
 resumen de gastos por subconceptos.
-Sexto.- El Capítulo VIII del Decreto 276/1997, de 27 de noviembre, por el que se 
+Sexto.- El Capítulo VIII del [Decreto 276/1997](../02_gestion_y_administracion_centros/D276_1997_gestion_economica_centros.md), de 27 de noviembre, por el que se 
 regula el procedimiento de gestión económica de los centros docentes públicos no 
 universitarios dependientes de la Consejería de Educación, Cultura y Deportes, en relación 
 a la justificación económica de los centros docentes públicos.
-Séptimo.- El artículo 18.2.B.a) del Decreto 84/2024, de 10 de junio, por el que se 
+Séptimo.- El artículo 18.2.B.a) del [Decreto 84/2024](../01_marco_normativo_general_y_organico/D84_2024_reglamento_organico_consejeria.md), de 10 de junio, por el que se 
 aprueba el Reglamento Orgánico de la Consejería de Educación, Formación Profesional, 
 Actividad Física y Deportes.
-Octavo.- La Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común 
+Octavo.- La [Ley 39/2015](../../../estatal/01_marco_normativo_general_y_organico/L39_2015_procedimiento_administrativo_comun.md), de 1 de octubre, del Procedimiento Administrativo Común 
 de las Administraciones Públicas.
-Noveno.- Los artículos 15 a 18 de la Ley 40/2015, de 1 de octubre, de Régimen 
+Noveno.- Los artículos 15 a 18 de la [Ley 40/2015](../../../estatal/01_marco_normativo_general_y_organico/L40_2015_regimen_juridico_sector_publico.md), de 1 de octubre, de Régimen 
 Jurídico del Sector Público, en lo relativo al funcionamiento de los órganos colegiados de 
 la Administración pública.
 Décimo.- Los artículos 2, 3 y 4 de la Ley 40/2003, de 18 de noviembre, de Protección 
@@ -1667,7 +1674,7 @@ General de Administración de Centros, Escolarización
 y  Servicios  Complementarios,  en  el  aplicativo  de 
 sistema integral de gestión económica (SIGECO).
 Quinta.- Datos de carácter personal
-De conformidad con la Ley Orgánica 3/2018, de 5 de diciembre, de Protección de Datos Personales y garantía de 
+De conformidad con la [Ley Orgánica 3/2018](../../../estatal/02_gestion_y_administracion_centros/LO3_2018_proteccion_datos_personales.md), de 5 de diciembre, de Protección de Datos Personales y garantía de 
 los  derechos  digitales,  que  recoge  lo  establecido  en  el  artículo  30.1   del  Reglamento  (UE)  2016/679  del 
 parlamento europeo y del Consejo, de 27 de abril de 2016. E ste procedimiento será incluido en la Resolución 
 177//2022, de 9 de  febrero  en la actividad de tratamiento “Gestión del Sistema de préstamo de libros de texto o 

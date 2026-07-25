@@ -32,10 +32,14 @@ fundamentos_derecho:
 - norma_id: norm-es-l-39-2015
   articulos:
   - '1'
+- norma_id: norm-es-l-40-2015
+- norma_id: norm-es-2016-3229
+- norma_id: norm-es-2021-20113
+- norma_id: norm-es-2010-12201
 ---
 # Orden ECD/482/2018, de 4 de mayo, por la que se regulan los Premios Nacionales de Bachillerato.
 
-La Ley Orgánica 2/2006, de 3 de mayo, de Educación, establece en su artículo 89 que el Ministerio de Educación, Cultura y Deporte, sin perjuicio de las competencias de las Comunidades Autónomas, podrá establecer, por sí mismo o en colaboración con otras entidades, premios y concursos de carácter estatal destinados a alumnado, profesorado o centros escolares.
+La [Ley Orgánica 2/2006](../01_marco_normativo_general_y_organico/LO2_2006_ley_organica_educacion.md), de 3 de mayo, de Educación, establece en su artículo 89 que el Ministerio de Educación, Cultura y Deporte, sin perjuicio de las competencias de las Comunidades Autónomas, podrá establecer, por sí mismo o en colaboración con otras entidades, premios y concursos de carácter estatal destinados a alumnado, profesorado o centros escolares.
 
 En consonancia con lo anterior, el Ministerio ha venido convocando anualmente los Premios Nacionales de Bachillerato, como reconocimiento oficial de los méritos de los alumnos que ha demostrado una especial preparación en los estudios correspondientes a esta etapa.
 
@@ -43,7 +47,7 @@ Con carácter previo, el Ministerio de Educación, Cultura y Deporte y las Comun
 
 En el año 2010 se aprobó la Orden EDU/2058/2010, de 13 de julio que ha regulado desde entonces los Premios Nacionales de Bachillerato con el objetivo de incentivar y reconocer el esfuerzo y la dedicación de los alumnos que cursen estos estudios con una trayectoria académica cualificada.
 
-La introducción, más recientemente, de las modificaciones del currículo, la organización, los objetivos y programas del Bachillerato conforme al calendario establecido en la disposición final quinta de la Ley Orgánica 8/2013, de 9 de diciembre, para la mejora de la calidad educativa, obligan ahora a modificar la regulación de los Premios Nacionales, por cuanto la estructura de las materias que se estudian en el primer y segundo cursos de Bachillerato ha cambiado sustancialmente y, por tanto, resulta necesario definir la plasmación de dichos cambios en las pruebas que se vayan a realizar a partir de este momento.
+La introducción, más recientemente, de las modificaciones del currículo, la organización, los objetivos y programas del Bachillerato conforme al calendario establecido en la disposición final quinta de la [Ley Orgánica 8/2013](../03_ordenacion_curricular_y_ensenanzas/BOE_2016_3229_marzo_regula_procedimiento_incorporación.md), de 9 de diciembre, para la mejora de la calidad educativa, obligan ahora a modificar la regulación de los Premios Nacionales, por cuanto la estructura de las materias que se estudian en el primer y segundo cursos de Bachillerato ha cambiado sustancialmente y, por tanto, resulta necesario definir la plasmación de dichos cambios en las pruebas que se vayan a realizar a partir de este momento.
 
 Al mismo tiempo, se modifica el procedimiento anteriormente establecido de participación en los Premios Nacionales, en el sentido de que no se fija límite en el número de Premios Extraordinarios que puedan conceder las Administraciones educativas en su ámbito competencial, aunque se mantiene el número de posibles candidatos a los Premios Nacionales en atención al número de alumnos matriculados en cada una de dichas Administraciones educativas.
 
@@ -97,7 +101,7 @@ A los efectos previstos en este apartado, se tendrá en cuenta el número de alu
 
 2. Los alumnos que figuren en la relación a que se refiere el apartado anterior que deseen tomar parte en la convocatoria, dirigirán la correspondiente solicitud al titular de la Dirección General de Planificación y Gestión Educativa del Ministerio de Educación, Cultura y Deporte.
 
-Esta solicitud podrá presentarse a través de la sede electrónica (https://sede.educacion.gob.es) o bien en el Registro General del Ministerio de Educación Cultura y Deporte, calle Los Madrazo 15-17, 28071, Madrid, o en los lugares a que se refiere el artículo 16.4 de la Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común de las Administraciones Públicas. A estos efectos, los registros de los centros docentes no se consideran dependencias de las enumeradas en dicho artículo.
+Esta solicitud podrá presentarse a través de la sede electrónica (https://sede.educacion.gob.es) o bien en el Registro General del Ministerio de Educación Cultura y Deporte, calle Los Madrazo 15-17, 28071, Madrid, o en los lugares a que se refiere el artículo 16.4 de la [Ley 39/2015](../01_marco_normativo_general_y_organico/L39_2015_procedimiento_administrativo_comun.md), de 1 de octubre, del Procedimiento Administrativo Común de las Administraciones Públicas. A estos efectos, los registros de los centros docentes no se consideran dependencias de las enumeradas en dicho artículo.
 
 3. El plazo de presentación de solicitudes será el que se determine en la correspondiente convocatoria. Este plazo no podrá ser superior a un mes.
 
@@ -125,7 +129,7 @@ Corresponde a la Subdirección General de Becas, Ayudas al Estudio y Promoción 
 
 Las Consejerías de Educación de las Comunidades Autónomas, las Direcciones Provinciales de Ceuta y Melilla, las Consejerías de Educación en el exterior dependientes del Ministerio de Educación, Cultura y Deporte y el Centro para la Innovación y Desarrollo de la Educación a Distancia (CIDEAD) del Ministerio de Educación, Cultura y Deporte facilitarán la realización de las pruebas en sus respectivos ámbitos de competencia.
 
-3. Las pruebas se supervisarán y evaluarán por un Jurado constituido por especialistas en las materias objeto de las mismas que será designado por el Director General de Planificación y Gestión Educativa. Dicho Jurado tendrá el carácter de órgano colegiado a que se refiere el artículo 22.1 de la Ley 38/2003, de 17 de noviembre, y estará compuesto por un Presidente y un Secretario, que serán funcionarios del Ministerio de Educación, Cultura y Deporte, y hasta un máximo de ocho vocales designados entre Inspectores de Educación, Catedráticos o Profesores pertenecientes a los respectivos Cuerpos de Catedráticos o Profesores de Enseñanza Secundaria, especialistas en las materias objeto de las pruebas. Este jurado, en su funcionamiento, se regirá por lo dispuesto en la Sección 3.º, del Capítulo II del Título Preliminar de la Ley 40/2015, de 1 de octubre, de Régimen Jurídico del Sector Público.
+3. Las pruebas se supervisarán y evaluarán por un Jurado constituido por especialistas en las materias objeto de las mismas que será designado por el Director General de Planificación y Gestión Educativa. Dicho Jurado tendrá el carácter de órgano colegiado a que se refiere el artículo 22.1 de la Ley 38/2003, de 17 de noviembre, y estará compuesto por un Presidente y un Secretario, que serán funcionarios del Ministerio de Educación, Cultura y Deporte, y hasta un máximo de ocho vocales designados entre Inspectores de Educación, Catedráticos o Profesores pertenecientes a los respectivos Cuerpos de Catedráticos o Profesores de Enseñanza Secundaria, especialistas en las materias objeto de las pruebas. Este jurado, en su funcionamiento, se regirá por lo dispuesto en la Sección 3.º, del Capítulo II del Título Preliminar de la [Ley 40/2015](../01_marco_normativo_general_y_organico/L40_2015_regimen_juridico_sector_publico.md), de 1 de octubre, de Régimen Jurídico del Sector Público.
 
 4. La evaluación de cada una de las pruebas se realizará de acuerdo con el criterio técnico del Jurado.
 

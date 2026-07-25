@@ -31,8 +31,9 @@ fundamentos_derecho:
 - norma_id: norm-es-lo-2-2006
   articulos:
   - '120'
+- norma_id: norm-es-1987-11341
 ---
-# Orden de 4 de junio de 1987 sobre desarrollo del Real Decreto 605/1987, de 10 de abril, por el que se regula el procedimiento de autorización previa a la desafectación de los edificios públicos escolares de propiedad municipal.
+# Orden de 4 de junio de 1987 sobre desarrollo del [Real Decreto 605/1987](BOE_1987_11341_abril_regula_procedimiento_autorización.md), de 10 de abril, por el que se regula el procedimiento de autorización previa a la desafectación de los edificios públicos escolares de propiedad municipal.
 
 PARA EL ADECUADO CUMPLIMIENTO DEL REAL DECRETO 605/1987, DE 10 DE ABRIL, POR EL QUE SE REGULA EL PROCEDIMIENTO DE AUTORIZACION PREVIA A LA DESAFECTACION DE LOS EDIFICIOS PUBLICOS ESCOLARES DE PROPIEDAD MUNICIPAL, RESULTA NECESARIO DESARROLLAR LAS NORMAS PROCEDIMENTALES, ASI COMO EL CONTENIDO DE LOS INFORMES PRECEPTIVOS.
 

@@ -24,6 +24,7 @@ fundamentos_derecho:
 - norma_id: norm-can-l-6-2014
   articulos:
   - '1'
+- norma_id: norm-es-2001-7022
 fuente_pdf_oficial: http://www.gobiernodecanarias.org/boc/2004/157/boc-2004-157-011.pdf
 fuente_juriscan: http://www.gobiernodecanarias.org/juriscan/ficha.jsp?id=48984
 ---
@@ -704,7 +705,7 @@ nica 1/1990, de 3 de octubre.
 Podrán concurrir a este sistema de acceso esta-
 blecido por la U.L.P.G.C. los mayores de 25 años
 que, estando en posesión del título de bachiller an-
-terior a la Ley Orgánica 1/1990, de 3 de octubre,
+terior a la [Ley Orgánica 1/1990](../../../estatal/02_gestion_y_administracion_centros/BOE_2001_7022_correspondientes_españoles_educación_secundaria.md), de 3 de octubre,
 de Ordenación General del Sistema Educativo, no
 reúnan las condiciones necesarias para el acceso a
 la universidad, teniendo en cuenta las disposicio-

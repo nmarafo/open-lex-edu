@@ -26,6 +26,13 @@ fundamentos_derecho:
 - norma_id: norm-can-l-6-2014
   articulos:
   - '1'
+- norma_id: norm-can-l-14-1990
+- norma_id: norm-es-lo-2-2006
+- norma_id: norm-es-1999-23750
+- norma_id: norm-es-2008-979
+- norma_id: norm-es-2016-3229
+- norma_id: norm-es-2021-20113
+- norma_id: norm-es-2010-12201
 fuente_pdf_oficial: https://sede.gobiernodecanarias.org/boc/boc-a-2015-111-2756.pdf
 fuente_juriscan: http://www.gobcan.es/juriscan/ficha.jsp?id=72882
 ---
@@ -75,7 +82,7 @@ REUNIDOS
 De una parte, D. José Miguel Pérez García, Consejero de Educación, Universidades y 
 Sostenibilidad del Gobierno de Canarias, en nombre y representación de la Administración 
 Pública de la Comunidad Autónoma de Canarias, en virtud de las facultades conferidas en el 
-artículo 29, apartado 1, letra k), de la Ley 14/1990, de 26 de julio, de Régimen Jurídico de 
+artículo 29, apartado 1, letra k), de la [Ley 14/1990](../01_marco_normativo_general_y_organico/L14_1990_regimen_juridico_administraciones_canarias.md), de 26 de julio, de Régimen Jurídico de 
 las Administraciones Públicas de Canarias (BOC nº 96, de 1.8.90), y en el artículo 5, apar-
 tado 1, letra a) del Reglamento Orgánico de la Consejería de Educación, Cultura y Deportes 
 (en la actualidad, Consejería de Educación, Universidades y Sostenibilidad), aprobado por 
@@ -91,7 +98,7 @@ riado con el nº 35/005/2014.
 Ambas partes se reconocen mutua y recíprocamente capacidad legal para obligarse en la 
 formalización del presente Convenio de Colaboración y, en su virtud,
 EXPONEN
-Primero.- La Ley Orgánica 2/2006, de 3 de mayo, de Educación, modificada por la Ley 
+Primero.- La [Ley Orgánica 2/2006](../../../estatal/01_marco_normativo_general_y_organico/LO2_2006_ley_organica_educacion.md), de 3 de mayo, de Educación, modificada por la Ley 
 Orgánica 8/2013, de 9 de diciembre, para la mejora de la calidad educativa, entre los prin-
 cipios que la inspiran se encuentra el de “la equidad, que garantice la igualdad de oportuni-
 dades, la inclusión educativa y la no discriminación y actúe como elemento compensador 
@@ -207,7 +214,7 @@ tario y los centros donde participará.
 rales ni de ningún otro tipo para la Consejería de Educación, Universidades y Sostenibilidad.
 6. El marco normativo del presente Convenio es el siguiente:
 - La Ley Orgánica 2/2006, de 3 de mayo, de Educación (BOE nº 106, de 4.5.06), modifi-
-cada por la Ley Orgánica 8/2013, de 9 de diciembre, para la mejora de la calidad educativa 
+cada por la [Ley Orgánica 8/2013](../../../estatal/03_ordenacion_curricular_y_ensenanzas/BOE_2016_3229_marzo_regula_procedimiento_incorporación.md), de 9 de diciembre, para la mejora de la calidad educativa 
 (BOE nº 295, de 10.12.13).
 - La Ley 4/1998, de 15 de mayo, de Voluntariado de Canarias (BOC nº 63, de 25.5.98).
 - Decreto 13/2002, de 13 de febrero, por el que se desarrolla la Ley 4/1998 (BOC nº 26, 
@@ -317,9 +324,9 @@ solventarse de mutuo acuerdo entre las partes y, en defecto de acuerdo, el conoc
 estas cuestiones corresponderá a la Jurisdicción Contencioso-Administrativa.
 Octava.- Protección de datos.
 Las partes firmantes de este Convenio de Colaboración deberán respetar las prescripcio-
-nes de la Ley Orgánica 15/1999, de 13 de diciembre, de Protección de Datos de Carácter 
-Personal (LOPD), y del Reglamento de Desarrollo de la LOPD, aprobado por Real Decreto 
-1720/2007, de 21 de diciembre, en relación con los datos que obtengan con motivo de la 
+nes de la [Ley Orgánica 15/1999](../../../estatal/02_gestion_y_administracion_centros/BOE_1999_23750_diciembre_protección_datos_carácter.md), de 13 de diciembre, de Protección de Datos de Carácter 
+Personal (LOPD), y del Reglamento de Desarrollo de la LOPD, aprobado por [Real Decreto 
+1720/2007](../../../estatal/02_gestion_y_administracion_centros/BOE_2008_979_diciembre_aprueba_reglamento_desarrollo.md), de 21 de diciembre, en relación con los datos que obtengan con motivo de la 
 ejecución del presente Convenio de Colaboración, especialmente en relación a los datos del 
 alumnado que participe en las actividades objeto del mismo.
 Novena.- De la colaboración entre los firmantes.

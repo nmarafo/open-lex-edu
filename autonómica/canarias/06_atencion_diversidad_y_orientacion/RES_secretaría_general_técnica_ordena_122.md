@@ -26,6 +26,16 @@ fundamentos_derecho:
 - norma_id: norm-can-l-6-2014
   articulos:
   - '1'
+- norma_id: norm-es-2015-8222
+- norma_id: norm-es-l-39-2015
+- norma_id: norm-es-l-40-2015
+- norma_id: norm-es-lo-1-1996
+- norma_id: norm-es-lo-2-2006
+- norma_id: norm-es-1999-23750
+- norma_id: norm-es-2008-979
+- norma_id: norm-es-2016-3229
+- norma_id: norm-es-2021-20113
+- norma_id: norm-es-2010-12201
 fuente_pdf_oficial: https://sede.gobiernodecanarias.org/boc/boc-a-2018-086-2126.pdf
 ---
 # Resolución de 8 de febrero de 2018, de la Secretaría General Técnica, por la que se ordena la publicación del Convenio de Colaboración entre la Consejería de Educación y Universidades y la Asociación de Padres de Personas con Autismo de Tenerife (APANATE) para la atención educativa del alumnado no universitario con necesidades específicas de apoyo educativo derivadas de Trastornos del Espectro Autista (TEA) (BOC n.º 86, de 4 de mayo).
@@ -89,7 +99,7 @@ del Ministerio del Interior, de 26 de marzo de 2004.
 Ambas partes se reconocen mutua y recíprocamente capacidad legal para obligarse en la 
 formalización del presente Convenio de Colaboración y, en su virtud,
 EXPONEN
-Primero.- La Ley Orgánica 2/2006, de 3 de mayo, de Educación, modificada por la Ley 
+Primero.- La [Ley Orgánica 2/2006](../../../estatal/01_marco_normativo_general_y_organico/LO2_2006_ley_organica_educacion.md), de 3 de mayo, de Educación, modificada por la Ley 
 Orgánica 8/2013, de 9 de diciembre, para la mejora de la calidad educativa, entre los principios 
 que la inspiran se encuentra el de “la equidad, que garantice la igualdad de oportunidades, 
 la inclusión educativa y la no discriminación y actúe como elemento compensador de las 
@@ -245,7 +255,7 @@ curso escolar, especificando las tareas que realizará el personal voluntario y 
 donde participará.
 5. El marco normativo del presente Convenio es el siguiente:
 1. La Ley Orgánica 2/2006, de 3 de mayo, de Educación (BOE nº 106, de 4.5.06), 
-modificada por la Ley Orgánica 8/2013, de 9 de diciembre, para la mejora de la calidad 
+modificada por la [Ley Orgánica 8/2013](../../../estatal/03_ordenacion_curricular_y_ensenanzas/BOE_2016_3229_marzo_regula_procedimiento_incorporación.md), de 9 de diciembre, para la mejora de la calidad 
 educativa (BOE nº 295, de 10.12.13).
 2. La Ley 4/1998, de 15 de mayo, de V oluntariado de Canarias (BOC nº 63, de 25.5.98).
 3. Decreto 13/2002, de 13 de febrero, por el que se desarrolla la Ley 4/1998 (BOC nº 26, 
@@ -279,7 +289,7 @@ orientadora. Las personas voluntarias no podrán realizar tareas de sustitución
 parcial del personal del centro, docente o no docente, dependiente de la Consejería de 
 Educación o de empresas, entidades u otras administraciones que se encuentren realizando 
 servicios derivados del ámbito de la contratación administrativa u otros convenios de 
-colaboración y figuras afines previstas en la Ley 39/2015, de 1 de octubre, del Procedimiento 
+colaboración y figuras afines previstas en la [Ley 39/2015](../../../estatal/01_marco_normativo_general_y_organico/L39_2015_procedimiento_administrativo_comun.md), de 1 de octubre, del Procedimiento 
 Administrativo Común de las Administraciones Públicas, todo ello sin perjuicio de que se 
 cumpla con la normativa vigente en materia de prevención de riesgos laborales.
 En ninguno de los casos, la acreditación como voluntario o voluntaria para desarrollar las 
@@ -316,9 +326,9 @@ del centro educativo y las personas voluntarias, teniendo en cuenta, además los
 de la Dirección respecto al voluntario o voluntaria y la decisión evaluadora de APANATE 
 respecto a los mismos.
 Cuarta.- Protección Jurídica del Menor.
-El artículo 13.5 de la Ley Orgánica 1/1996, de 15 de enero, de Protección Jurídica del 
+El artículo 13.5 de la [Ley Orgánica 1/1996](../../../estatal/01_marco_normativo_general_y_organico/LO1_1996_proteccion_juridica_menor.md), de 15 de enero, de Protección Jurídica del 
 Menor, de modificación parcial del Código Civil y de la Ley de Enjuiciamiento Civil, en 
-la redacción dada por la Ley Orgánica 8/2015, de 22 de julio, de modificación del sistema 
+la redacción dada por la [Ley Orgánica 8/2015](../../../estatal/01_marco_normativo_general_y_organico/BOE_2015_8222_julio_modificación_sistema_protección.md), de 22 de julio, de modificación del sistema 
 de protección a la infancia y a la adolescencia, dispone que para el acceso y ejercicio de 
 profesiones, oficios y actividades que impliquen contacto habitual con menores será requisito 
 necesario no haber sido condenado por sentencia firme por algún delito contra la libertad e 
@@ -375,7 +385,7 @@ siguientes causas:
 • El mutuo acuerdo entre las partes, siempre que no concurra otra causa de resolución.
 • Cualesquiera otras establecidas en la legislación vigente.
 Octava.- Naturaleza jurídica.
-El presente Convenio se suscribe al amparo de los artículos 47 a 53 de la Ley 40/2015, de 
+El presente Convenio se suscribe al amparo de los artículos 47 a 53 de la [Ley 40/2015](../../../estatal/01_marco_normativo_general_y_organico/L40_2015_regimen_juridico_sector_publico.md), de 
 1 de octubre, de Régimen Jurídico del Sector Público y Decreto 74/2014, de 26 de junio, por 
 el que se regula la actividad convencional del sector público de la Comunidad Autónoma de 
 Canarias y la Ley 12/2014, de 26 diciembre, de transparencia y de acceso a la información 
@@ -394,9 +404,9 @@ Superior de Justicia de Canarias, de conformidad con lo dispuesto en el artícul
 la Ley 29/1998, de 13 de julio, de la Jurisdicción Contencioso-Administrativa. 
 Décima.- Protección de datos.
 Las partes firmantes de este Convenio de Colaboración deberán respetar las prescripciones 
-de la Ley Orgánica 15/1999, de 13 de diciembre, de Protección de Datos de Carácter 
-Personal (LOPD), y del Reglamento de Desarrollo de la LOPD, aprobado por Real Decreto 
-1720/2007, en relación con los datos que obtengan con motivo de la ejecución del presente 
+de la [Ley Orgánica 15/1999](../../../estatal/02_gestion_y_administracion_centros/BOE_1999_23750_diciembre_protección_datos_carácter.md), de 13 de diciembre, de Protección de Datos de Carácter 
+Personal (LOPD), y del Reglamento de Desarrollo de la LOPD, aprobado por [Real Decreto 
+1720/2007](../../../estatal/02_gestion_y_administracion_centros/BOE_2008_979_diciembre_aprueba_reglamento_desarrollo.md), en relación con los datos que obtengan con motivo de la ejecución del presente 
 Convenio de Colaboración, especialmente en relación a los datos del alumnado que participe 
 en las actividades objeto del mismo.
 Undécima.- De la colaboración entre los firmantes.

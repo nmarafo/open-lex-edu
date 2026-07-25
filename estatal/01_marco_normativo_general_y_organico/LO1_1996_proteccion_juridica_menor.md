@@ -35,6 +35,7 @@ fundamentos_derecho:
 - norma_id: norm-es-ce-1978
   articulos:
   - '39'
+- norma_id: norm-es-lo-1-1982
 ---
 # Ley Orgánica 1/1996 de Protección Jurídica del Menor
 
@@ -94,7 +95,7 @@ El Título I comienza enunciando un reconocimiento general de derechos contenido
 
 Por otra parte, del conjunto de derechos de los menores, se ha observado la necesidad de matizar algunos de ellos, combinando, por una parte, la posibilidad de su ejercicio con la necesaria protección que, por razón de la edad, los menores merecen.
 
-Así, con el fin de reforzar los mecanismos de garantía previstos en la Ley Orgánica 1/1982, de 5 de mayo, de Protección Civil del Derecho al Honor, a la Intimidad Personal y Familiar y a la Propia Imagen, se prohíbe la difusión de datos o imágenes referidos a menores de edad en los medios de comunicación cuando sea contrario a su interés, incluso cuando conste el consentimiento del menor. Con ello se pretende proteger al menor, que puede ser objeto de manipulación incluso por sus propios representantes legales o grupos en que se mueve. Completa esta modificación la legitimación activa al Ministerio Fiscal.
+Así, con el fin de reforzar los mecanismos de garantía previstos en la [Ley Orgánica 1/1982](LO1_1982_proteccion_honor_intimid_imagen.md), de 5 de mayo, de Protección Civil del Derecho al Honor, a la Intimidad Personal y Familiar y a la Propia Imagen, se prohíbe la difusión de datos o imágenes referidos a menores de edad en los medios de comunicación cuando sea contrario a su interés, incluso cuando conste el consentimiento del menor. Con ello se pretende proteger al menor, que puede ser objeto de manipulación incluso por sus propios representantes legales o grupos en que se mueve. Completa esta modificación la legitimación activa al Ministerio Fiscal.
 
 El derecho a la participación de los menores también se ha recogido expresamente en el articulado, con referencia al derecho a formar parte de asociaciones y a promover asociaciones infantiles y juveniles, con ciertos requisitos, que se completa con el derecho a participar en reuniones públicas y manifestaciones pacíficas, estableciéndose el requisito de la autorización de los padres, tutores o guardadores.
 

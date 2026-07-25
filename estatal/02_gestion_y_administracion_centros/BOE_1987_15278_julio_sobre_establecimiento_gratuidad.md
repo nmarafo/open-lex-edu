@@ -48,7 +48,7 @@ A todos lo que la presente vieren y entendieren.
 
 Sabed: Que las Cortes Generales han aprobado y Yo vengo en sancionar la siguiente Ley:
 
-La Constitución española, en su articulo 27.4, establece que «la enseñanza básica es obligatoria y gratuita». Aunque la plena escolarización de los niños comprendidos entre los seis y los catorce años es ya una realidad desde hace tiempo, la Ley Orgánica 8/1985, de 3 de julio, reguladora del Derecho a la Educación, ha venido a garantizar la gratuidad de dicha enseñanza básica.
+La Constitución española, en su articulo 27.4, establece que «la enseñanza básica es obligatoria y gratuita». Aunque la plena escolarización de los niños comprendidos entre los seis y los catorce años es ya una realidad desde hace tiempo, la [Ley Orgánica 8/1985](LO8_1985_derecho_educacion.md), de 3 de julio, reguladora del Derecho a la Educación, ha venido a garantizar la gratuidad de dicha enseñanza básica.
 
 Paralelamente a lo anterior, se ha venido acentuando en los últimos años la tendencia a la generalización de la escolarización de los jóvenes hasta los dieciséis años, lo que aconseja la supresión de las tasas académicas para los alumnos que cursen estudios de Bachillerato, Formación Profesional y Artes Aplicadas y Oficios Artísticos en Centro públicos, así como la de aquéllas que vienen abonando los alumnos que cursan los mencionados estudios en Centros privados. Todo ello con el fin de hacer efectivo el derecho que todos tienen a acceder a niveles superiores de educación, según lo dispuesto en el artículo 1.°, 2, de la mencionada Ley Orgánica.
 

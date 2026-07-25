@@ -34,14 +34,17 @@ fundamentos_derecho:
   articulos:
   - '1'
   - '2'
+- norma_id: norm-es-2016-3229
+- norma_id: norm-es-2021-20113
+- norma_id: norm-es-2010-12201
 ---
 # Real Decreto 412/2014, de 6 de junio, por el que se establece la normativa básica de los procedimientos de admisión a las enseñanzas universitarias oficiales de Grado.
 
-La Ley Orgánica 8/2013, de 9 de diciembre, para la Mejora de la Calidad Educativa (LOMCE) modifica los requisitos de acceso y admisión a las enseñanzas oficiales de Grado desde el título de Bachiller o equivalente, desde el título de Técnico Superior de Formación Profesional, de Técnico Superior de Artes Plásticas y Diseño o de Técnico Deportivo Superior así como para los estudiantes procedentes de sistemas educativos extranjeros.
+La [Ley Orgánica 8/2013](BOE_2016_3229_marzo_regula_procedimiento_incorporación.md), de 9 de diciembre, para la Mejora de la Calidad Educativa (LOMCE) modifica los requisitos de acceso y admisión a las enseñanzas oficiales de Grado desde el título de Bachiller o equivalente, desde el título de Técnico Superior de Formación Profesional, de Técnico Superior de Artes Plásticas y Diseño o de Técnico Deportivo Superior así como para los estudiantes procedentes de sistemas educativos extranjeros.
 
 En esta nueva regulación desaparece la superación de la prueba de acceso a la universidad como requisito de acceso a las enseñanzas universitarias oficiales de Grado y se establece como requisito la posesión de la titulación que da acceso a la universidad: título de Bachiller o título, diploma o estudios equivalentes, y títulos de Técnico Superior de Formación Profesional, de Técnico Superior de Artes Plásticas y Diseño, o de Técnico Deportivo Superior.
 
-Además, de acuerdo con la nueva redacción del artículo 38 de la Ley Orgánica 2/2006, de 3 de mayo, de Educación, son las Universidades las que determinan, de conformidad con distintos criterios de valoración, la admisión a estas enseñanzas de aquellos estudiantes que hayan obtenido la titulación que da acceso a la universidad.
+Además, de acuerdo con la nueva redacción del artículo 38 de la [Ley Orgánica 2/2006](../01_marco_normativo_general_y_organico/LO2_2006_ley_organica_educacion.md), de 3 de mayo, de Educación, son las Universidades las que determinan, de conformidad con distintos criterios de valoración, la admisión a estas enseñanzas de aquellos estudiantes que hayan obtenido la titulación que da acceso a la universidad.
 
 Los criterios de valoración y procedimientos de admisión establecidos por las Universidades son también aplicables para los estudiantes de los sistemas educativos extranjeros. En el caso de los titulados y tituladas en Bachillerato Europeo y en Bachillerato internacional y estudiantes procedentes de sistemas educativos de Estados miembros de la Unión Europea o de otros Estados con los que se hayan suscrito acuerdos internacionales aplicables a este respecto, en régimen de reciprocidad, se establece como requisito de acceso la acreditación de la titulación correspondiente y se establecen los mismos criterios de admisión que puedan fijar las Universidades para los estudiantes en posesión del título del Sistema Educativo Español.
 

@@ -27,6 +27,8 @@ fundamentos_derecho:
 - norma_id: norm-es-rdl-5-2015
   articulos:
   - '1'
+- norma_id: norm-es-1999-23750
+- norma_id: norm-es-rd-39-1997
 ---
 # Orden PRE/1744/2010, de 30 de junio, por la que se regula el procedimiento de reconocimiento, control y seguimiento de las situaciones de incapacidad temporal, riesgo durante el embarazo y riesgo durante la lactancia natural en el Régimen Especial de la Seguridad Social de los Funcionarios Civiles del Estado.
 
@@ -142,7 +144,7 @@ Si el resultado de estos informes de reconocimiento fuera desfavorable para la c
 
 2. La introducción en el fichero de MUFACE de los datos indicados en el apartado anterior será realizada por el personal designado por cada órgano de personal competente. A tal efecto, el acceso de dicho personal al fichero se realizará mediante el uso de certificados digitales u otros modos de autenticación electrónica que garanticen la seguridad del acceso y la identificación unívoca del usuario.
 
-3. En el acceso y en la transmisión de datos de salud, así como de datos personales se garantizará el estricto cumplimiento de las condiciones establecidas en la Ley Orgánica 15/1999, de 13 de diciembre, de Protección de Datos de Carácter Personal.
+3. En el acceso y en la transmisión de datos de salud, así como de datos personales se garantizará el estricto cumplimiento de las condiciones establecidas en la [Ley Orgánica 15/1999](../02_gestion_y_administracion_centros/BOE_1999_23750_diciembre_protección_datos_carácter.md), de 13 de diciembre, de Protección de Datos de Carácter Personal.
 
 #### Artículo 10. Seguimiento de la situación de IT.
 
@@ -220,7 +222,7 @@ La acreditación de la existencia de situación de riesgo durante el embarazo o 
 
 a)	Informe del médico dependiente de la Entidad o, en su caso, del Servicio Público de Salud a la que figure adscrita la mutualista y que asista facultativamente a ella o al lactante, en el que se diagnostique su situación de embarazo y la fecha probable del parto o la situación de lactancia natural, según corresponda.
 
-b)	Informe del Servicio de Prevención del centro de trabajo donde desempeñe sus tareas la mutualista y que desarrolle las funciones de vigilancia y control de la salud de los empleados en los términos establecidos en el artículo 37.3 del Real Decreto 39/1997, de 17 de enero, por el que se aprueba el Reglamento de los Servicios de Prevención, o en la normativa específica que regule las normas de prevención de riesgos laborales en determinados sectores.
+b)	Informe del Servicio de Prevención del centro de trabajo donde desempeñe sus tareas la mutualista y que desarrolle las funciones de vigilancia y control de la salud de los empleados en los términos establecidos en el artículo 37.3 del [Real Decreto 39/1997](../02_gestion_y_administracion_centros/RD39_1997_reglamento_servicios_prevencion.md), de 17 de enero, por el que se aprueba el Reglamento de los Servicios de Prevención, o en la normativa específica que regule las normas de prevención de riesgos laborales en determinados sectores.
 
 En dicho informe se hará constar, de acuerdo con la evaluación de riesgos en la actividad desarrollada y las condiciones del puesto de trabajo que desempeña, si concurren o no agentes, procedimientos o condiciones de trabajo que pueden influir negativamente en su salud y/o en la del feto o en la del lactante, según corresponda conforme a su situación. A tal efecto deberá tenerse en cuenta la lista no exhaustiva de tales agentes, procedimientos y condiciones de trabajo incluidos en el anexo II del Real Decreto 39/1997, de 17 de enero.
 
@@ -266,7 +268,7 @@ El contenido y diseño de los modelos de partes, informes médicos y modelos de 
 
 #### Disposición transitoria primera. Situaciones de IT iniciadas con anterioridad a la entrada en vigor de la presente orden.
 
-Las situaciones de IT iniciadas con anterioridad a la entrada en vigor de la presente orden podrán ser objeto de seguimiento y control en los términos establecidos en el artículo 10, con pleno respeto, en todo caso, de los requerimientos exigidos en cuanto al tratamiento de datos por la Ley Orgánica 15/1999, de 13 de diciembre.
+Las situaciones de IT iniciadas con anterioridad a la entrada en vigor de la presente orden podrán ser objeto de seguimiento y control en los términos establecidos en el artículo 10, con pleno respeto, en todo caso, de los requerimientos exigidos en cuanto al tratamiento de datos por la [Ley Orgánica 15/1999](../02_gestion_y_administracion_centros/BOE_1999_23750_diciembre_protección_datos_carácter.md), de 13 de diciembre.
 
 #### Disposición transitoria segunda. Utilización de partes anteriores.
 

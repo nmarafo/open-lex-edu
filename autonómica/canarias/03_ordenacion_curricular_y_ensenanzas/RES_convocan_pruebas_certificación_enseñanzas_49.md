@@ -33,6 +33,11 @@ fundamentos_derecho:
   articulos:
   - '1'
 - norma_id: norm-es-lo-2-2006
+- norma_id: norm-can-d-84-2024
+- norma_id: norm-es-2016-3229
+- norma_id: norm-es-2019-317
+- norma_id: norm-es-2021-20113
+- norma_id: norm-es-2010-12201
 fuente_pdf_oficial: https://sede.gobiernodecanarias.org/boc/boc-a-2026-077-1287.pdf
 ---
 # Resolución de 10 de abril de 2026, por la que se convocan pruebas de certificación de Enseñanzas de Idiomas de Régimen Especial para aspirantes libres y alumnado escolarizado en las Escuelas Oficiales de Idiomas de la Comunidad Autónoma de Canarias, y se dictan instrucciones para su organización y aplicación en el curso 2025-2026. Fechas de inscripción: Aspirantes libres de todos los niveles y aspirantes escolarizados/as de los niveles B1, B2, C1 y C2: del 29 de abril al 13 de mayo de 2026. Aspirantes escolarizados del nivel A2: del 27 de mayo al 1 de junio de 2026.
@@ -60,7 +65,7 @@ Comunidad Autónoma de Canarias, incluyendo el calendario y horario de celebraci
 las pruebas, su aplicación y calificación.
 A los anteriores antecedentes de hecho les son de aplicación los siguientes
 FUNDAMENTOS DE DERECHO
-Primero.- La Ley Orgánica 2/2006, de 3 de mayo, de Educación, dedica los artículos 
+Primero.- La [Ley Orgánica 2/2006](../../../estatal/01_marco_normativo_general_y_organico/LO2_2006_ley_organica_educacion.md), de 3 de mayo, de Educación, dedica los artículos 
 59, 60, 61 y 62 a la ordenación de las Enseñanzas de Idiomas de Régimen Especial, 
 estableciendo que estas enseñanzas se organizarán en tres niveles: básico, intermedio y 
 avanzado. Estos niveles se corresponderán, respectivamente, con los niveles A, B y C del 
@@ -73,7 +78,7 @@ enseñanzas de idiomas de régimen especial reguladas por la Ley Orgánica 2/200
 mayo, de Educación, y se establecen las equivalencias entre las Enseñanzas de Idiomas de 
 Régimen Especial reguladas en diversos planes de estudios y las de este real decreto, viene 
 a desarrollar las modificaciones en materia de Enseñanzas de Idiomas de Régimen Especial 
-introducidas por la derogada Ley Orgánica 8/2013, de 9 de diciembre, para la mejora de 
+introducidas por la derogada [Ley Orgánica 8/2013](../../../estatal/03_ordenacion_curricular_y_ensenanzas/BOE_2016_3229_marzo_regula_procedimiento_incorporación.md), de 9 de diciembre, para la mejora de 
 la calidad educativa. Entre esas modificaciones se encuentra el anclaje de los niveles 
 impartidos en las Escuelas Oficiales de Idiomas y la regulación básica para la obtención de 
 la certificación oficial de los distintos niveles de idiomas.
@@ -87,7 +92,7 @@ transparencia e impacto positivo, así como el derecho del alumnado a ser evalua
 objetividad. Por último, determina que el Gobierno, previa consulta con las Comunidades 
 Autónomas, establecerá los principios básicos comunes de evaluación con el fin de garantizar 
 el cumplimiento de los requisitos de calidad mencionados.
-Tercero.- El Real Decreto 1/2019, de 11 de enero, por el que se establecen los principios 
+Tercero.- El [Real Decreto 1/2019](../../../estatal/03_ordenacion_curricular_y_ensenanzas/BOE_2019_317_enero_establecen_principios_básicos.md), de 11 de enero, por el que se establecen los principios 
 básicos comunes de evaluación aplicables a las pruebas de certificación oficial de los 
 Niveles Intermedio B1, Intermedio B2, Avanzado C1 y Avanzado C2, de las enseñanzas 
 de idiomas de régimen especial, dictado en desarrollo de lo dispuesto en el citado artículo 7 
@@ -118,7 +123,7 @@ características generales y la estructura de las pruebas de certificación junt
 de tareas y las características de los textos por actividad de lengua.
 En atención a lo anteriormente indicado y de conformidad con lo dispuesto en el artículo 
 19 del Decreto 212/1991, de 11 de septiembre, de organización de los Departamentos de 
-la Administración Autonómica de Canarias, y el artículo 20 del Decreto 84/2024, de 10 
+la Administración Autonómica de Canarias, y el artículo 20 del [Decreto 84/2024](../01_marco_normativo_general_y_organico/D84_2024_reglamento_organico_consejeria.md), de 10 
 de junio, por el que se aprueba el Reglamento Orgánico de la Consejería de Educación, 
 Formación Profesional, Actividad Física y Deportes, que asignan competencias generales 
 y específicas a la Dirección General de Formación Profesional y Enseñanzas de Régimen 

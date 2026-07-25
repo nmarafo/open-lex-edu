@@ -35,6 +35,8 @@ fundamentos_derecho:
   articulos:
   - '1'
   - '2'
+- norma_id: norm-es-2021-20113
+- norma_id: norm-es-2010-12201
 ---
 # Real Decreto 102/2010, de 5 de febrero, por el que se regula la ordenación de las enseñanzas acogidas al acuerdo entre el Gobierno de España y el Gobierno de Francia relativo a la doble titulación de Bachiller y de Baccalauréat en centros docentes españoles.
 
@@ -44,7 +46,7 @@ Los representantes de España y de Francia, animados por la voluntad común de c
 
 La iniciativa responde al doble propósito de reforzar la enseñanza de la lengua y la cultura del otro país y de contribuir a la cooperación y a la integración europeas.
 
-Así, la Ley Orgánica 2/2006, de 3 de mayo, de Educación, recoge en su Preámbulo, como uno de sus principios inspiradores, el compromiso decidido con los objetivos educativos planteados por la Unión Europea para los próximos años.
+Así, la [Ley Orgánica 2/2006](../01_marco_normativo_general_y_organico/LO2_2006_ley_organica_educacion.md), de 3 de mayo, de Educación, recoge en su Preámbulo, como uno de sus principios inspiradores, el compromiso decidido con los objetivos educativos planteados por la Unión Europea para los próximos años.
 
 Por otra parte, el artículo 6.6 de la citada ley determina que el Gobierno podrá establecer, en el marco de la cooperación internacional en materia de educación, currículos mixtos de enseñanza del sistema educativo español y de otros sistemas educativos, conducentes a los títulos respectivos.
 

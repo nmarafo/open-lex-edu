@@ -39,6 +39,11 @@ fundamentos_derecho:
 - norma_id: norm-es-lo-2-2006
   articulos:
   - '120'
+- norma_id: norm-es-2010-4130
+- norma_id: norm-es-2014-6008
+- norma_id: norm-es-2016-3229
+- norma_id: norm-es-2021-20113
+- norma_id: norm-es-2010-12201
 ---
 # Resolución de 13 de febrero de 2023, de la Subsecretaría, por la que se publica la Resolución de 8 de febrero de 2023, conjunta de la Secretaría de Estado de Educación y la Secretaría General de Universidades, por la que se establecen las adaptaciones de la evaluación de Bachillerato para el acceso a la Universidad a las necesidades y situación de los centros españoles situados en el exterior del territorio nacional, los programas educativos en el exterior, los programas internacionales, el alumnado procedente de sistemas educativos extranjeros y las enseñanzas a distancia, en el curso 2022-2023.
 
@@ -50,7 +55,7 @@ ANEJO
 
 Resolución de 8 de febrero de 2023, conjunta de la Secretaría de Estado de Educación y la Secretaría General de Universidades, por la que se establecen las adaptaciones de la evaluación de Bachillerato para el acceso a la Universidad a las necesidades y situación de los centros españoles situados en el exterior del territorio nacional, los programas educativos en el exterior, los programas internacionales, el alumnado procedente de sistemas educativos extranjeros y las enseñanzas a distancia, en el curso 2022-2023
 
-La Ley Orgánica 2/2006, de 3 de mayo, de Educación, en la redacción introducida por la Ley Orgánica 8/2013, de 9 de diciembre, para la mejora de la calidad educativa, estableció, en su artículo 36 bis, la realización de una evaluación individualizada al finalizar la etapa de Bachillerato.
+La [Ley Orgánica 2/2006](../01_marco_normativo_general_y_organico/LO2_2006_ley_organica_educacion.md), de 3 de mayo, de Educación, en la redacción introducida por la [Ley Orgánica 8/2013](../03_ordenacion_curricular_y_ensenanzas/BOE_2016_3229_marzo_regula_procedimiento_incorporación.md), de 9 de diciembre, para la mejora de la calidad educativa, estableció, en su artículo 36 bis, la realización de una evaluación individualizada al finalizar la etapa de Bachillerato.
 
 En su desarrollo, se dictó el Real Decreto 310/2016, de 29 de julio, por el que se regulan las evaluaciones finales de Educación Secundaria Obligatoria y de Bachillerato, en el que se establece que, mediante orden ministerial, el Ministerio de Educación, Cultura y Deporte determinaría las características, el diseño y el contenido de las pruebas de la citada evaluación, así como los procedimientos de revisión de las calificaciones obtenidas.
 
@@ -90,7 +95,7 @@ En su virtud, resolvemos:
 
 #### Cuarto. Enseñanzas acogidas al acuerdo entre el Gobierno de España y el Gobierno de Francia relativo a la doble titulación de Bachiller y de Baccalauréat.
 
-1. El alumnado que haya cursado las enseñanzas reguladas mediante el Real Decreto 102/2010, de 5 de febrero, por el que se regula la ordenación de las enseñanzas acogidas al acuerdo entre el Gobierno de España y el Gobierno de Francia relativo a la doble titulación de Bachiller y de Baccalauréat en centros docentes españoles, deberá realizar la prueba externa establecida en su artículo 7 si desea obtener la doble titulación.
+1. El alumnado que haya cursado las enseñanzas reguladas mediante el [Real Decreto 102/2010](../03_ordenacion_curricular_y_ensenanzas/BOE_2010_4130_febrero_regula_ordenación_enseñanzas.md), de 5 de febrero, por el que se regula la ordenación de las enseñanzas acogidas al acuerdo entre el Gobierno de España y el Gobierno de Francia relativo a la doble titulación de Bachiller y de Baccalauréat en centros docentes españoles, deberá realizar la prueba externa establecida en su artículo 7 si desea obtener la doble titulación.
 
 2. En este caso, como regla general, los alumnos y alumnas que hayan superado dicha prueba externa y deseen acceder mediante el título de Bachiller, podrán realizar la evaluación de Bachillerato para el acceso a la Universidad en la Administración educativa en la que hubieran finalizado sus estudios, si bien no necesitarán realizar las pruebas relativas a las materias Historia de España y Primera Lengua Extranjera; la nota de dichas materias será la obtenida en la prueba externa en las materias Historia de España y de Francia y Lengua y Literatura Francesas, respectivamente.
 
@@ -104,7 +109,7 @@ A estos efectos las Administraciones educativas deberán remitir a las universid
 
 1. Los alumnos y alumnas que estén en posesión del título de Bachillerato Europeo podrán acceder a la Universidad española, en aplicación de lo convenido en el Estatuto de las Escuelas Europeas, hecho en Luxemburgo el 21 de junio de 1994.
 
-2. A efectos de admisión a las enseñanzas universitarias oficiales de Grado, de conformidad con el artículo 10 del Real Decreto 412/2014, de 6 de junio, por el que se establece la normativa básica de los procedimientos de admisión a las enseñanzas universitarias oficiales de Grado, las universidades podrán utilizar como criterio de valoración la conversión a escala española de las calificaciones de aquellas materias equivalentes a las del Bachillerato español obtenidas en las pruebas externas del Bachillerato europeo.
+2. A efectos de admisión a las enseñanzas universitarias oficiales de Grado, de conformidad con el artículo 10 del [Real Decreto 412/2014](../03_ordenacion_curricular_y_ensenanzas/BOE_2014_6008_junio_establece_normativa_básica.md), de 6 de junio, por el que se establece la normativa básica de los procedimientos de admisión a las enseñanzas universitarias oficiales de Grado, las universidades podrán utilizar como criterio de valoración la conversión a escala española de las calificaciones de aquellas materias equivalentes a las del Bachillerato español obtenidas en las pruebas externas del Bachillerato europeo.
 
 #### Sexto. Estudiantes que se encuentren en posesión del Diploma de Bachillerato Internacional y los procedentes de los sistemas educativos de la Unión Europea y de otros países con convenio de reciprocidad en la materia.
 

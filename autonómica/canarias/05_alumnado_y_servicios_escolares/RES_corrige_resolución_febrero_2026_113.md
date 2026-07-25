@@ -36,6 +36,9 @@ fundamentos_derecho:
   articulos:
   - '1'
 - norma_id: norm-es-l-39-2015
+- norma_id: norm-can-d-84-2024
+- norma_id: norm-can-res-boc-2024-230-25
+- norma_id: norm-es-rd-659-2023
 fuente_pdf_oficial: https://sede.gobiernodecanarias.org/boc/boc-a-2026-073-1192.pdf
 ---
 # Resolución de 8 de abril de 2026, por la que se corrige la Resolución de 13 de febrero de 2026, que dicta instrucciones sobre el proceso de admisión del alumnado a Ciclos Formativos de Grado Básico, Medio y Superior (niveles 1, 2 y 3, respectivamente) de las Enseñanzas de Formación Profesional de Grados D, Enseñanzas Profesionales de Artes Pláticas y Diseño, Enseñanzas Elementales y Profesionales de Música, Enseñanzas de Idiomas y Enseñanzas Deportivas en centros docentes sostenidos con fondos públicos en la Comunidad Autónoma de Canarias para el curso escolar 2026/2027.
@@ -65,7 +68,7 @@ específicas para los Ciclos Formativos de Grado Medio (nivel 2) y Superior (niv
 referidos al acceso a los Ciclos Formativos de Grado Medio (nivel 2), y a la adjudicación 
 definitiva y matrícula en los Ciclos Formativos de Formación Profesional.
 FUNDAMENTO DE DERECHO
-Único.- El artículo 109.2 de la Ley 39/2015, de 1 de octubre, del Procedimiento 
+Único.- El artículo 109.2 de la [Ley 39/2015](../../../estatal/01_marco_normativo_general_y_organico/L39_2015_procedimiento_administrativo_comun.md), de 1 de octubre, del Procedimiento 
 Administrativo Común de las Administraciones Públicas, dispone que “Las 
 Administraciones Públicas podrán, asimismo, rectificar en cualquier momento, de oficio 
 o a instancia de los interesados, los errores materiales, de hecho, o aritméticos existentes 
@@ -80,7 +83,7 @@ en el artículo 19 del Decreto 212/1991, de 11 de septiembre, de organización d
 Departamentos de la Administración Autonómica de Canarias, y en el artículo 20 del 
 Reglamento Orgánico de la Consejería de Educación, Formación Profesional, Actividad 
 
-Física y Deportes, aprobado por el Decreto 84/2024, de 10 de junio, por el que se asignan 
+Física y Deportes, aprobado por el [Decreto 84/2024](../01_marco_normativo_general_y_organico/D84_2024_reglamento_organico_consejeria.md), de 10 de junio, por el que se asignan 
 las competencias generales y específicas a la Dirección General de Formación Profesional 
 y Enseñanzas de Régimen Especial,
 RESUELVO :
@@ -104,7 +107,7 @@ Superior (Grado D, nivel 3) y, o la prueba de acceso a la universidad para mayor
 años.
 f) Estar en posesión del Título de Bachiller.
 g) Acreditar algunas de las condiciones establecidas en la disposición adicional sexta 
-del Real Decreto 659/2023, de 18 de julio, por la que se desarrolla la ordenación del Sistema 
+del [Real Decreto 659/2023](../03_ordenacion_curricular_y_ensenanzas/RES_dirección_general_formación_profesional_25.md), de 18 de julio, por la que se desarrolla la ordenación del Sistema 
 de Formación Profesional del sistema educativo, relativa a otras titulaciones equivalentes 
 a efectos de acceso.
 h) Estar en posesión de una acreditación de competencias básicas de nivel 3 obtenidas 

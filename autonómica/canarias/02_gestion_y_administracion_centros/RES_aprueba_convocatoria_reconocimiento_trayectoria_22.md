@@ -26,6 +26,9 @@ fundamentos_derecho:
   articulos:
   - '1'
 - norma_id: norm-es-lo-2-2006
+- norma_id: norm-es-l-39-2015
+- norma_id: norm-es-2021-20113
+- norma_id: norm-es-2010-12201
 fuente_pdf_oficial: https://sede.gobiernodecanarias.org/boc/boc-a-2019-024-502.pdf
 ---
 # Resolución de 29 de enero de 2019, por la que se aprueba la convocatoria de reconocimiento de la trayectoria y proyección internacional de los centros educativos públicos no universitarios de la Comunidad Autónoma de Canarias (BOC n.º 24, de 5 de febrero).
@@ -47,7 +50,7 @@ una de las líneas de actuación de la citada estrategia consiste en la puesta e
 una convocatoria para el reconocimiento de la trayectoria y la proyección internacional 
 de los centros educativos mediante la concesión del distintivo “Centro Embajador ECIE”.
 FUNDAMENTOS DE DERECHO
-Primero.- La Ley Orgánica 2/2006, de 3 de mayo, de Educación (BOE nº 106, de 4 
+Primero.- La [Ley Orgánica 2/2006](../../../estatal/01_marco_normativo_general_y_organico/LO2_2006_ley_organica_educacion.md), de 3 de mayo, de Educación (BOE nº 106, de 4 
 de mayo), señala en su artículo 10.1, que “corresponde a las Administraciones educativas 
 facilitar el intercambio de información y la difusión de buenas prácticas educativas o de 
 gestión de los centros docentes, a fin de contribuir a la mejora de la calidad de la educación.”
@@ -59,7 +62,7 @@ En este sentido, Canarias ha venido impulsando en los últimos años las iniciat
 vinculadas a la movilidad internacional y los intercambios puesto por puesto del profesorado, 
 pero también todas aquellas con repercusión en el resto de la comunidad educativa dirigidas 
 a la internacionalización de su actividad educativa.
-Segundo.- En el ámbito autonómico, la Ley 6/2014, de 25 de julio, Canaria de Educación 
+Segundo.- En el ámbito autonómico, la [Ley 6/2014](../01_marco_normativo_general_y_organico/L6_2014_ley_canaria_educacion.md), de 25 de julio, Canaria de Educación 
 no Universitaria (BOC nº 152, de 7 de agosto), recoge en su exposición de motivos que 
 “Canarias necesita un sistema educativo abierto a las nuevas realidades y conectado con las 
 redes estatales e internacionales que sustentan la investigación, la innovación y el desarrollo 
@@ -103,7 +106,7 @@ en la página web de la Consejería de Educación y Universidades y en el Bolet�
 Canarias para general conocimiento, concediendo el plazo de veinte días hábiles para la 
 presentación de solicitudes a partir de la publicación de este último anuncio.
 Contra la presente resolución, que no agota la vía administrativa, de conformidad 
-con lo dispuesto en los artículos 121 y siguientes de la Ley 39/2015, de 1 de octubre, del 
+con lo dispuesto en los artículos 121 y siguientes de la [Ley 39/2015](../../../estatal/01_marco_normativo_general_y_organico/L39_2015_procedimiento_administrativo_comun.md), de 1 de octubre, del 
 Procedimiento Administrativo Común de las Administraciones Públicas, cabe interponer 
 recurso de alzada ante la Sra. Consejera de Educación y Universidades, en el plazo de un 
 mes, a contar desde el día siguiente al de su publicación.

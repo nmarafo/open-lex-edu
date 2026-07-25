@@ -41,6 +41,7 @@ fundamentos_derecho:
 - norma_id: norm-es-ce-1978
   articulos:
   - '27'
+- norma_id: norm-es-lo-1-1996
 ---
 # Ley 1/1997 de Atención Integral a los Menores de Canarias
 
@@ -1574,7 +1575,7 @@ Se autoriza al Gobierno, mediante Decreto, a actualizar periódicamente las cuan
 
 #### Disposición transitoria primera.
 
-1. Los procedimientos administrativos iniciados antes de la entrada en vigor de la presente Ley en el ámbito de las actuaciones de amparo previstas en el título V de la misma, continuarán su tramitación conforme a lo establecido en el Decreto 103/1994, de 10 de junio, por el que se regulan los procedimientos y registros de la adopción y de las formas de protección de menores en el ámbito de la Comunidad Autónoma de Canarias, sin perjuicio de las adaptaciones que procedan a las modificaciones introducidas en el Código Civil por la Ley Orgánica 1/1996, de 15 de enero.
+1. Los procedimientos administrativos iniciados antes de la entrada en vigor de la presente Ley en el ámbito de las actuaciones de amparo previstas en el título V de la misma, continuarán su tramitación conforme a lo establecido en el Decreto 103/1994, de 10 de junio, por el que se regulan los procedimientos y registros de la adopción y de las formas de protección de menores en el ámbito de la Comunidad Autónoma de Canarias, sin perjuicio de las adaptaciones que procedan a las modificaciones introducidas en el Código Civil por la [Ley Orgánica 1/1996](../../../estatal/01_marco_normativo_general_y_organico/LO1_1996_proteccion_juridica_menor.md), de 15 de enero.
 
 2. Asimismo, hasta la aprobación de las disposiciones reglamentarias previstas en el citado título V de esta Ley, se aplicará la normativa citada en el apartado anterior a los procedimientos que se inicien a partir de la entrada en vigor de la misma.
 

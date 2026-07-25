@@ -30,6 +30,15 @@ fundamentos_derecho:
 - norma_id: norm-can-l-6-2014
   articulos:
   - '1'
+- norma_id: norm-can-d-84-2024
+- norma_id: norm-can-lo-1-2018
+- norma_id: norm-can-res-boc-2024-230-25
+- norma_id: norm-can-res-134
+- norma_id: norm-es-lo-2-2006
+- norma_id: norm-es-2021-20113
+- norma_id: norm-es-lo-3-2022
+- norma_id: norm-es-rd-659-2023
+- norma_id: norm-es-2010-12201
 fuente_pdf_oficial: https://sede.gobiernodecanarias.org/boc/boc-a-2026-141-2508.pdf
 ---
 # Resolución de 2 de julio de 2026, por la que se modifican cuadros horarios establecidos en las Resoluciones de 26 de noviembre de 2025 y de 27 de enero de 2026, por las que se dictan instrucciones para la implantación y desarrollo de la oferta de dobles titulaciones de formación profesional (Grados D) en la Comunidad Autónoma de Canarias, a partir del curso escolar 2026/2027. (BOC n.º 141, de 15 de julio)
@@ -85,7 +94,7 @@ resoluciones citadas ni a otros cuadros horarios distintos de los expresamente i
 en los antecedentes anteriores.
 A los antecedentes expuestos les son de aplicación los siguientes
 FUNDAMENTOS DE DERECHO
-Primero.- La Ley Orgánica 1/2018, de 5 de noviembre, de reforma del Estatuto de 
+Primero.- La [Ley Orgánica 1/2018](../01_marco_normativo_general_y_organico/LO1_2018_estatuto_autonomia_canarias.md), de 5 de noviembre, de reforma del Estatuto de 
 Autonomía de Canarias, en su artículo 133.1, establece que “Corresponde a la Comunidad 
 Autónoma de Canarias la competencia de desarrollo legislativo y de ejecución, en materia 
 de enseñanza no universitaria, con relación a las enseñanzas obligatorias y no obligatorias 
@@ -94,17 +103,17 @@ Estado (...)”.
 Asimismo, de acuerdo con lo previsto en el artículo 133.3.c) del citado texto legal, 
 dicha competencia comprende el establecimiento de los correspondientes planes de estudio 
 y la ordenación curricular de las enseñanzas.
-Segundo.- La Ley 6/2014, de 25 de julio, Canaria de Educación no Universitaria, 
+Segundo.- La [Ley 6/2014](../01_marco_normativo_general_y_organico/L6_2014_ley_canaria_educacion.md), de 25 de julio, Canaria de Educación no Universitaria, 
 dispone en su artículo 33.3 que, de acuerdo con la normativa básica del Estado, una vez 
 aprobado el real decreto correspondiente a un título de formación profesional y hasta que 
 sea completado el currículo propio de la Comunidad Autónoma, dicho real decreto actuará 
 como norma subsidiaria.
-Tercero.- La Ley Orgánica 3/2022, de 31 de marzo, de ordenación e integración de la 
+Tercero.- La [Ley Orgánica 3/2022](../08_personal_docente/RES_dirección_general_personal_sobre_134.md), de 31 de marzo, de ordenación e integración de la 
 Formación Profesional, dispone en su artículo 42.2 que podrán realizarse ofertas de dobles 
 titulaciones del Catálogo Nacional de Ofertas de Formación Profesional, siempre que se 
 respete la duración, los módulos profesionales y el porcentaje de optatividad de cada uno 
 de los ciclos formativos.
-Cuarto.- El artículo 84 del Real Decreto 659/2023, de 18 de julio, por el que se 
+Cuarto.- El artículo 84 del [Real Decreto 659/2023](RES_dirección_general_formación_profesional_25.md), de 18 de julio, por el que se 
 desarrolla la ordenación del Sistema de Formación Profesional, establece la posibilidad 
 de que las administraciones competentes, de oficio o previa solicitud de los centros del 
 Sistema de Formación Profesional, integren dos titulaciones del mismo nivel del Catálogo 
@@ -113,7 +122,7 @@ de formación profesional”.
 Quinto.- Asimismo, el artículo 7.2 del citado Real Decreto 659/2023, de 18 de julio, 
 dispone que “Las administraciones educativas establecerán los currículos correspondientes 
 a los Grados D y E, respetando las atribuciones competenciales establecidas en el 
-artículo 6 de la Ley Orgánica 2/2006, de 3 de mayo, de Educación, y de acuerdo con lo 
+artículo 6 de la [Ley Orgánica 2/2006](../../../estatal/01_marco_normativo_general_y_organico/LO2_2006_ley_organica_educacion.md), de 3 de mayo, de Educación, y de acuerdo con lo 
 prescrito por la Ley Orgánica 3/2022, de 31 de marzo, de ordenación e integración de 
 la Formación Profesional, esta disposición y el resto de los desarrollos normativos del 
 Sistema de Formación Profesional. En todo caso, se respetarán siempre todos los elementos 
@@ -123,7 +132,7 @@ En su virtud, y en uso de las competencias que tengo conferidas con base a lo di
 en el artículo 19 del Decreto 212/1991, de 11 de septiembre, de organización de los 
 Departamentos de la Administración Autonómica de Canarias, y en el artículo 20 del 
 Reglamento Orgánico de la Consejería de Educación, Formación Profesional, Actividad 
-Física y Deportes, aprobado por el Decreto 84/2024, de 10 de junio, por el que se asignan 
+Física y Deportes, aprobado por el [Decreto 84/2024](../01_marco_normativo_general_y_organico/D84_2024_reglamento_organico_consejeria.md), de 10 de junio, por el que se asignan 
 las competencias generales y específicas a la Dirección General de Formación Profesional 
 y Enseñanzas de Régimen Especial,
 RESUELVO :

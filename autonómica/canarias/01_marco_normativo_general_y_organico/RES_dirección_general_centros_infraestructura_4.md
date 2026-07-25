@@ -30,6 +30,8 @@ fundamentos_derecho:
 - norma_id: norm-can-l-6-2014
   articulos:
   - '1'
+- norma_id: norm-can-l-14-1990
+- norma_id: norm-es-l-40-2015
 fuente_pdf_oficial: https://sede.gobiernodecanarias.org/boc/boc-a-2017-061-1429.pdf
 anexos_extraidos_pdf: true
 ocr_procesado: true
@@ -86,13 +88,13 @@ https://sede.gobcan.es/cpji/boc
 Martes 28 de marzo de 2017
 8458
 FUNDAMENTOS DE DERECHO
-Primero.- Que los artículos 8 y 9 de la Ley 40/2015, de 1 de octubre, de Régimen Jurídico 
+Primero.- Que los artículos 8 y 9 de la [Ley 40/2015](../../../estatal/01_marco_normativo_general_y_organico/L40_2015_regimen_juridico_sector_publico.md), de 1 de octubre, de Régimen Jurídico 
 del Sector Público (BOE nº 236, de 2 de octubre de 2015), establecen que los órganos de 
 las diferentes Administraciones Públicas podrán delegar el ejercicio de las competencias 
 que tengan atribuidas en otros órganos de la misma Administración, aun cuando no sean 
 jerárquicamente dependientes, o en los Organismos públicos o Entidades de Derecho 
 Público vinculados o dependientes de aquellas. 
-Igualmente, el artículo 31.3 de la Ley 14/1990, de 26 de julio, de Régimen Jurídico de 
+Igualmente, el artículo 31.3 de la [Ley 14/1990](L14_1990_regimen_juridico_administraciones_canarias.md), de 26 de julio, de Régimen Jurídico de 
 las Administraciones Públicas de Canarias (BOC nº 96, de 1 de agosto; en adelante Ley 
 14/1990), preceptúa que el ejercicio de las competencias propias podrá ser delegado en el 
 órgano que, por aplicación del principio de eficacia, sea más idóneo para ello. 

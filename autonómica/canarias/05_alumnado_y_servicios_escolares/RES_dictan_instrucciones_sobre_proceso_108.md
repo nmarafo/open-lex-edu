@@ -40,6 +40,21 @@ fundamentos_derecho:
   articulos:
   - '1'
 - norma_id: norm-es-lo-2-2006
+- norma_id: norm-can-d-84-2024
+- norma_id: norm-can-res-boc-2024-230-25
+- norma_id: norm-can-d-9-2022
+- norma_id: norm-can-res-134
+- norma_id: norm-es-1988-3987
+- norma_id: norm-es-1988-6938
+- norma_id: norm-es-2002-25289
+- norma_id: norm-es-2007-19326
+- norma_id: norm-es-2020-17274
+- norma_id: norm-es-2021-20113
+- norma_id: norm-es-2021-979
+- norma_id: norm-es-2024-10685
+- norma_id: norm-es-lo-3-2022
+- norma_id: norm-es-rd-659-2023
+- norma_id: norm-es-2010-12201
 fuente_pdf_oficial: https://sede.gobiernodecanarias.org/boc/boc-a-2025-047-935.pdf
 ---
 # Resolución de 24 de febrero de 2025, por la que se dictan instrucciones sobre el proceso de admisión del alumnado a Ciclos Formativos de Grado Básico, Medio y Superior (niveles 1, 2 y 3, respectivamente) de las Enseñanzas de Formación Profesional de Grado D, Enseñanzas Profesionales de Artes Plásticas y Diseño, Enseñanzas Elementales y Profesionales de Música, Enseñanzas de Idiomas y Enseñanzas Deportivas en centros docentes sostenidos con fondos públicos en la Comunidad Autónoma de Canarias para el curso escolar 2025/2026.
@@ -66,7 +81,7 @@ que se consideran necesarias para que todos los destinatarios de la misma, tanto
 educativos como el alumnado y las familias, conozcan la tramitación de dicho procedimiento, 
 lo que permitirá garantizar y hacer efectivo el derecho a la educación y el acceso en 
 condiciones de igualdad, fin último del mismo.
-Segundo.- En la Ley Orgánica 2/2006, de 3 de mayo, de Educación, se marca como 
+Segundo.- En la [Ley Orgánica 2/2006](../../../estatal/01_marco_normativo_general_y_organico/LO2_2006_ley_organica_educacion.md), de 3 de mayo, de Educación, se marca como 
 eje de trabajo, el mejorar la flexibilización entre las enseñanzas y facilitar los mecanismos 
 de convalidaciones y equivalencias, contemplando que sea objeto de regulación el régimen 
 entre los Ciclos Formativos de Grado Medio (Grado D, nivel 2) y Superior (Grado D, nivel 
@@ -74,7 +89,7 @@ entre los Ciclos Formativos de Grado Medio (Grado D, nivel 2) y Superior (Grado 
 Tercero.- La Administración Educativa Canaria completará en el curso escolar 
 2025/2026 la totalidad de la Formación Profesional dual, atendiendo a lo establecido en el 
 Real Decreto 278/2023, de 11 de abril, por el que se establece el calendario de implantación 
-del Sistema de Formación Profesional establecido por la Ley Orgánica 3/2022, de 31 de 
+del Sistema de Formación Profesional establecido por la [Ley Orgánica 3/2022](../08_personal_docente/RES_dirección_general_personal_sobre_134.md), de 31 de 
 marzo, de ordenación e integración de la Formación Profesional, por lo que es preciso 
 definir el nuevo procedimiento de admisión del alumnado en centros docentes sostenidos 
 con fondos públicos en los Ciclos Formativos de Grado Básico, Grado Medio y Grado 
@@ -89,13 +104,13 @@ padres, madres o tutores legales. En dicha regulación se dispondrán las medida
 para evitar la segregación del alumnado por motivos socioeconómicos o de otra naturaleza. 
 En todo caso, se atenderá a una adecuada y equilibrada distribución entre los centros 
 escolares del alumnado con necesidad específica de apoyo educativo”.
-Segundo.- La Ley 6/2014, de 25 de julio, Canaria de Educación no Universitaria, en 
+Segundo.- La [Ley 6/2014](../01_marco_normativo_general_y_organico/L6_2014_ley_canaria_educacion.md), de 25 de julio, Canaria de Educación no Universitaria, en 
 su artículo 51, prevé que “el Gobierno de Canarias regulará la admisión del alumnado 
 en centros públicos y privados concertados, de tal forma que se garantice el derecho a la 
 educación y el acceso en condiciones de igualdad. En todo caso, se atenderá a una adecuada 
 y equilibrada distribución entre los centros escolares del alumnado con necesidad específica 
 de apoyo educativo”.
-Tercero.- El Real Decreto 659/2023, de 18 de julio, por el que se desarrolla la 
+Tercero.- El [Real Decreto 659/2023](../03_ordenacion_curricular_y_ensenanzas/RES_dirección_general_formación_profesional_25.md), de 18 de julio, por el que se desarrolla la 
 ordenación del sistema de Formación Profesional, definido por la Ley Orgánica 3/2022, de 
 31 de marzo, de ordenación e integración de la Formación Profesional, señala en su artículo 
 4 que entre las ofertas formativas del Sistema de Formación Profesional se encuentran los 
@@ -107,7 +122,7 @@ y resolverse por las administraciones educativas. Dado que existen diferentes v�
 acceso para los distintos Grados, las administraciones educativas resolverán, atendiendo a 
 las diferentes vías de acceso a los Ciclos Formativos mediante el establecimiento de reservas 
 de plazas y su gestión conforme a los criterios establecidos para cada uno de ellos”.
-Cuarto.- El Real Decreto 1085/2020, de 9 de diciembre, por el que se establecen 
+Cuarto.- El [Real Decreto 1085/2020](../../../estatal/03_ordenacion_curricular_y_ensenanzas/BOE_2020_17274_diciembre_establecen_convalidaciones_módulos.md), de 9 de diciembre, por el que se establecen 
 convalidaciones de módulos profesionales de los títulos de Formación Profesional del sistema 
 educativo español y las medidas para su aplicación, y se modifica el Real Decreto 1147/2011, 
 de 29 de julio, por el que se establece la ordenación general de la formación profesional 
@@ -117,7 +132,7 @@ mismas denominaciones, capacidades terminales o resultados de aprendizaje, conte
 duración, serán considerados módulos idénticos, independientemente del ciclo formativo al 
 que pertenezcan, y se trasladarán las calificaciones obtenidas en los módulos profesionales 
 superados a cualquiera de los ciclos en los que dichos módulos estén incluidos”.
-Quinto.- El Decreto 9/2022, de 20 de enero, por el que se regula la admisión del 
+Quinto.- El [Decreto 9/2022](D9_2022_admision_alumnado_canarias.md), de 20 de enero, por el que se regula la admisión del 
 alumnado en centros docentes que oferten enseñanzas no universitarias sostenidas con 
 fondos públicos en la Comunidad Autónoma de Canarias, reglamento marco que establece, 
 en nuestro ámbito autonómico de gestión, el procedimiento de admisión del alumnado en 
@@ -144,7 +159,7 @@ En su virtud, con la intención de unificar todos los procedimientos de admisió
 y de acuerdo con la atribución prevista en la disposición adicional tercera de la Orden de 3 
 de marzo de 2022, y en ejercicio de las competencias atribuidas en el artículo 20.2.d) del 
 Reglamento Orgánico de la Consejería de Educación, Formación Profesional, Actividad 
-Física y Deportes, aprobado por Decreto 84/2024, de 10 de junio,
+Física y Deportes, aprobado por [Decreto 84/2024](../01_marco_normativo_general_y_organico/D84_2024_reglamento_organico_consejeria.md), de 10 de junio,
 RESUELVO :
 Primero.- Aprobar las instrucciones que se contienen en la presente Resolución del 
 proceso de admisión del alumnado en los centros docentes sostenidos con fondos públicos en 
@@ -668,7 +683,7 @@ requerirá, además, tener diecinueve años, como mínimo, cumplidos en el año 
 de la prueba o del inicio de la formación.
 Vigésima primera.- Reserva de plazas escolares en Ciclos Formativos de Grado 
 Superior (nivel 3).
-1. Atendiendo a lo indicado en la disposición quinta del Real Decreto 500/2024, de 21 
+1. Atendiendo a lo indicado en la disposición quinta del [Real Decreto 500/2024](../../../estatal/03_ordenacion_curricular_y_ensenanzas/BOE_2024_10685_mayo_modifican_determinados_reales.md), de 21 
 de mayo, por el que se modifican determinados reales decretos por los que se establecen 
 títulos de Formación Profesional de Grado Superior y se fijan sus enseñanzas mínimas, 
 queda sin efecto cualquier referencia a las preferencias para el acceso a Ciclos Formativos 
@@ -1552,7 +1567,7 @@ NIE o documento equivalente a efectos de identificación.
 nombrará los tribunales que calificarán las pruebas específicas y determinará los centros 
 donde se desarrollan, siempre que haya un mínimo de 15 aspirantes, y en las fechas fijadas 
 en el calendario establecido. Los tribunales actuarán de conformidad con lo establecido en 
-el Real Decreto 1363/2007, de 24 de octubre.
+el [Real Decreto 1363/2007](../../../estatal/03_ordenacion_curricular_y_ensenanzas/BOE_2007_19326_octubre_establece_ordenación_general.md), de 24 de octubre.
 
 6. Las personas con discapacidad que precisen algún tipo de adaptación para la realización 
 de la prueba específica deberán solicitar esta petición de adaptación, consignándolo en la 
@@ -1698,7 +1713,7 @@ para informar a este alumnado de los siguientes aspectos:
 - La validez, los efectos y las consecuencias académicas de la inscripción que realiza 
 con carácter provisional, de acuerdo con lo que establece el apartado anterior, siendo 
 responsabilidad única de la persona interesada.
-- El plazo máximo de tres meses que el Real Decreto 104/1988, de 29 de enero, otorga al 
+- El plazo máximo de tres meses que el [Real Decreto 104/1988](../../../estatal/02_gestion_y_administracion_centros/BOE_1988_3987_enero_sobre_homologación_convalidación.md), de 29 de enero, otorga al 
 Ministerio de Educación, Formación Profesional y Deportes para resolver los expedientes 
 de homologación o convalidación de estudios, contará a partir de la fecha en la que el 
 expediente contenga toda la documentación prescriptiva.

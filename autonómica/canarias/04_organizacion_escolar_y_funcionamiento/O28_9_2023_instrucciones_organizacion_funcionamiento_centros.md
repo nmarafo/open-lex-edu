@@ -40,6 +40,16 @@ fundamentos_derecho:
 - norma_id: norm-es-lo-2-2006
   articulos:
   - '120'
+- norma_id: norm-can-res-boc-2019-069-48
+- norma_id: norm-es-l-19-2013
+- norma_id: norm-es-l-39-2015
+- norma_id: norm-es-l-40-2015
+- norma_id: norm-es-rdl-5-2015
+- norma_id: norm-es-lo-3-2018
+- norma_id: norm-es-2007-6115
+- norma_id: norm-es-2010-4518
+- norma_id: norm-es-lo-1-2004
+- norma_id: norm-es-rdl-2-2015
 ---
 # Orden de 28 de septiembre de 2023, por la que se aprueban las instrucciones de organización y funcionamiento de los centros docentes públicos no universitarios de la Comunidad Autónoma de Canarias.
 
@@ -147,7 +157,7 @@ ANEXO
 
 ACUERDO DE LA MESA DEL PARLAMENTO DE CANARIAS, DE 21 DE SEPTIEMBRE DE 2023, POR EL QUE SE APRUEBA LA CONVOCATORIA DE PRUEBAS SELECTIVAS PARA LA PROVISIÓN, EN RÉGIMEN DE CONTRATACIÓN LABORAL FIJA, DE UNA PLAZA CON LA CATEGORÍA DE JEFE/A DE DESARROLLO (GRUPO I) DEL PARLAMENTO DE CANARIAS, POR EL SISTEMA DE CONCURSO-OPOSICIÓN, TURNO DE ACCESO LIBRE.
 
-En ejecución de lo dispuesto en la Oferta de Empleo Público ordinaria y de estabilización de empleo temporal para el año 2022 del Parlamento de Canarias, aprobada por Acuerdo de la Mesa del Parlamento de Canarias, de 20 de mayo de 2022, publicado en el BOPC n.º 211, de 24.5.2022, modificado por Acuerdo de la Mesa de la Cámara de 28 de julio de 2023, publicado en el BOPC, n.º 32, de 2.8.2023, y conforme a lo previsto en los artículos 16 y siguientes del I Convenio Colectivo del Personal del Parlamento de Canarias (Boletín Oficial de la Provincia de Santa Cruz de Tenerife, n.º 226, de 18.11.2009) y con carácter supletorio, el Real Decreto Legislativo 2/2015, de 23 de octubre, por el que se aprueba el texto refundido de la Ley del Estatuto de los Trabajadores, en las Normas de Gobierno Interior del Parlamento de Canarias y en el resto de la legislación laboral de obligado cumplimiento, y previa negociación en la Mesa de Negociación de 18 de septiembre de 2023, la Mesa de la Cámara, en reunión de 21 de septiembre de 2023, acuerda convocar concurso-oposición, turno de acceso libre, con arreglo a las siguientes
+En ejecución de lo dispuesto en la Oferta de Empleo Público ordinaria y de estabilización de empleo temporal para el año 2022 del Parlamento de Canarias, aprobada por Acuerdo de la Mesa del Parlamento de Canarias, de 20 de mayo de 2022, publicado en el BOPC n.º 211, de 24.5.2022, modificado por Acuerdo de la Mesa de la Cámara de 28 de julio de 2023, publicado en el BOPC, n.º 32, de 2.8.2023, y conforme a lo previsto en los artículos 16 y siguientes del I Convenio Colectivo del Personal del Parlamento de Canarias (Boletín Oficial de la Provincia de Santa Cruz de Tenerife, n.º 226, de 18.11.2009) y con carácter supletorio, el [Real Decreto Legislativo 2/2015](../../../estatal/09_personal_laboral_y_no_docente/RDL2_2015_estatuto_trabajadores.md), de 23 de octubre, por el que se aprueba el texto refundido de la Ley del Estatuto de los Trabajadores, en las Normas de Gobierno Interior del Parlamento de Canarias y en el resto de la legislación laboral de obligado cumplimiento, y previa negociación en la Mesa de Negociación de 18 de septiembre de 2023, la Mesa de la Cámara, en reunión de 21 de septiembre de 2023, acuerda convocar concurso-oposición, turno de acceso libre, con arreglo a las siguientes
 
 BASES
 
@@ -165,7 +175,7 @@ Segunda.- Requisitos de las personas aspirantes.
 
 1.- Para participar en el concurso-oposición será necesario reunir los siguientes requisitos:
 
-a) Poseer la nacionalidad española, sin perjuicio de lo establecido en el artículo 57.4 del Real Decreto Legislativo 5/2015, de 30 de octubre, por el que se aprueba el texto refundido de la Ley del Estatuto Básico del Empleado Público.
+a) Poseer la nacionalidad española, sin perjuicio de lo establecido en el artículo 57.4 del [Real Decreto Legislativo 5/2015](../../../estatal/01_marco_normativo_general_y_organico/RD5_2015_estatuto_basico_empleado_publico.md), de 30 de octubre, por el que se aprueba el texto refundido de la Ley del Estatuto Básico del Empleado Público.
 
 b) Ser mayor de edad y no haber alcanzado, en su caso, la edad de jubilación forzosa.
 
@@ -209,7 +219,7 @@ Si no aporta la documentación requerida para la adaptación de las pruebas sele
 
 Tercera.- Solicitudes de participación en las pruebas selectivas.
 
-1.- En virtud de lo dispuesto en el artículo 66.6 de la Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común de las Administraciones Públicas, las solicitudes para participar en el presente proceso selectivo se cumplimentaran y presentarán exclusivamente por vía electrónica a través del formulario oficial al que se accederá a través de la sede electrónica del Parlamento de Canarias, en el punto de acceso: https://sede.parcan.es/sede/es/empleo-publico
+1.- En virtud de lo dispuesto en el artículo 66.6 de la [Ley 39/2015](../../../estatal/01_marco_normativo_general_y_organico/L39_2015_procedimiento_administrativo_comun.md), de 1 de octubre, del Procedimiento Administrativo Común de las Administraciones Públicas, las solicitudes para participar en el presente proceso selectivo se cumplimentaran y presentarán exclusivamente por vía electrónica a través del formulario oficial al que se accederá a través de la sede electrónica del Parlamento de Canarias, en el punto de acceso: https://sede.parcan.es/sede/es/empleo-publico
 
 La solicitud se cumplimentará, firmará y registrará electrónicamente. Al final de este proceso, la sede electrónica generará el justificante de registro de entrada, el cual acredita que la solicitud se ha presentado de forma electrónica.
 
@@ -253,7 +263,7 @@ En ningún caso, la presentación y pago de la tasa de los derechos de examen su
 
 Los errores materiales, de hecho o aritméticos que se adviertan en las solitudes podrán subsanarse de oficio o a instancia de la persona interesada.
 
-7.- Los datos personales recogidos en la solicitud de admisión serán tratados con la única finalidad de la gestión de las pruebas selectivas y las comunicaciones necesarias para ello. El nombre, apellidos y número del documento nacional de identidad se publicarán en la forma que determina la Ley Orgánica 3/2018, de 5 de diciembre, de Protección de Datos Personales y garantía de los derechos digitales.
+7.- Los datos personales recogidos en la solicitud de admisión serán tratados con la única finalidad de la gestión de las pruebas selectivas y las comunicaciones necesarias para ello. El nombre, apellidos y número del documento nacional de identidad se publicarán en la forma que determina la [Ley Orgánica 3/2018](../../../estatal/02_gestion_y_administracion_centros/LO3_2018_proteccion_datos_personales.md), de 5 de diciembre, de Protección de Datos Personales y garantía de los derechos digitales.
 
 Cuarta.- Admisión de las personas aspirantes.
 
@@ -275,7 +285,7 @@ La secretaria o secretario del tribunal habrá de prestar servicios en el Parlam
 
 2.- La designación de las personas integrantes del tribunal calificador y sus suplencias se realizará por la Mesa de la Cámara, conforme al principio de presencia equilibrada de mujeres y hombres, debiendo publicarse la misma en el BOPC con anterioridad al comienzo de las pruebas selectivas y se observará el principio de especialidad, de tal manera que todas las personas integrantes habrán de poseer una titulación de igual o superior nivel académico en el área de conocimiento exigida para participar.
 
-3.- El procedimiento de actuación del tribunal se ajustará a lo previsto en la Ley 40/2015, de 1 de octubre, de Régimen Jurídico del Sector Público, y demás normativa de aplicación.
+3.- El procedimiento de actuación del tribunal se ajustará a lo previsto en la [Ley 40/2015](../../../estatal/01_marco_normativo_general_y_organico/L40_2015_regimen_juridico_sector_publico.md), de 1 de octubre, de Régimen Jurídico del Sector Público, y demás normativa de aplicación.
 
 4.- Serán causa de abstención o recusación de las personas integrantes del tribunal las previstas en los artículos 23 y 24 de la Ley 40/2015, de 1 de octubre, de Régimen Jurídico del Sector Público.
 
@@ -417,7 +427,7 @@ Ver anexo en la página 52553 del documento
 
 Descargar
 
-2.2. En relación a las titulaciones oficiales de idiomas: B1, B2, C1 y C2, se puntuarán solo los certificados que se relacionan en la Orden de 11 de abril de 2018, por la que se actualizan los títulos y certificados establecidos en el Anexo I de la Orden de 21 de septiembre de 2016, que regula el reconocimiento de la acreditación de la competencia lingüística conforme al Marco Común Europeo de Referencia para las Lenguas en la Comunidad Autónoma de Canaria, como figura en la siguiente tabla:
+2.2. En relación a las titulaciones oficiales de idiomas: B1, B2, C1 y C2, se puntuarán solo los certificados que se relacionan en la Orden de 11 de abril de 2018, por la que se actualizan los títulos y certificados establecidos en el Anexo I de la [Orden de 21 de septiembre de 2016](../03_ordenacion_curricular_y_ensenanzas/RES_determina_acceso_distintos_cursos_48.md), que regula el reconocimiento de la acreditación de la competencia lingüística conforme al Marco Común Europeo de Referencia para las Lenguas en la Comunidad Autónoma de Canaria, como figura en la siguiente tabla:
 
 Ver anexo en la página 52554 del documento
 
@@ -527,7 +537,7 @@ TEMARIO DE LA CONVOCATORIA DE PRUEBAS SELECTIVAS PARA LA PROVISIÓN, EN RÉGIMEN
 
 1.- PARTE GENERAL
 
-Tema 1.- Los derechos constitucionales a la igualdad y no discriminación: Políticas de igualdad de género en la Ley Orgánica 3/2007, de 22 de marzo, para la igualdad efectiva de mujeres y hombres. Medidas de la Ley 1/2010, de 26 de febrero, Canaria de igualdad entre mujeres y hombres, en materia de función pública.
+Tema 1.- Los derechos constitucionales a la igualdad y no discriminación: Políticas de igualdad de género en la [Ley Orgánica 3/2007](../../../estatal/07_convivencia_bienestar_y_protocolos/BOE_2007_6115_marzo_para_igualdad_efectiva.md), de 22 de marzo, para la igualdad efectiva de mujeres y hombres. Medidas de la [Ley 1/2010](../../../estatal/07_convivencia_bienestar_y_protocolos/BOE_2010_4518_febrero_canaria_igualdad_entre.md), de 26 de febrero, Canaria de igualdad entre mujeres y hombres, en materia de función pública.
 
 Tema 2.- Las Cortes Generales. Composición, organización y funciones del Congreso de los Diputados y del Senado. La Corona: posición constitucional y funciones. El refrendo. La sanción de las Leyes.
 
@@ -563,7 +573,7 @@ Tema 17.- I Plan de Igualdad de Mujeres y Hombres del Parlamento de Canarias. Á
 
 Tema 18.- La prevención de riesgos laborales. Regulación jurídica. Órganos de control de las medidas de prevención de riesgos en el trabajo. Responsabilidades y sanciones. La prevención de riesgos laborales en las Administraciones Públicas.
 
-Tema 19.- La transparencia de las Administraciones Públicas: Ley 19/2013, de 9 de diciembre, de transparencia, acceso a la información pública y buen gobierno, y la Ley 12/2014, de 26 de diciembre, de transparencia y de acceso a la información pública. Implicación de la normativa en materia de transparencia de la actividad pública y del ejercicio del derecho de acceso a la información pública en el Parlamento de Canarias.
+Tema 19.- La transparencia de las Administraciones Públicas: [Ley 19/2013](../../../estatal/01_marco_normativo_general_y_organico/L19_2013_transparencia_buen_gobierno.md), de 9 de diciembre, de transparencia, acceso a la información pública y buen gobierno, y la Ley 12/2014, de 26 de diciembre, de transparencia y de acceso a la información pública. Implicación de la normativa en materia de transparencia de la actividad pública y del ejercicio del derecho de acceso a la información pública en el Parlamento de Canarias.
 
 Tema 20.- El régimen jurídico de la protección de datos de carácter personal: regulación europea, estatal y autonómica. Principios en el tratamiento de los datos personales. La seguridad de los datos. Ejercicio y tutela de los derechos del titular de los datos.
 
@@ -577,7 +587,7 @@ Tema 24.- La Ley 40/2015, de 1 de octubre, de Régimen jurídico del sector púb
 
 Tema 25.- El sistema electoral español. Elecciones generales al Congreso y Senado. Elecciones al Parlamento de Canarias. Elecciones al Parlamento Europeo. Elecciones municipales. La Junta Electoral Central. Las Juntas Provinciales y de Zona. Especial referencia a la Junta Electoral de Canarias.
 
-Tema 26.- La Ley Orgánica 1/2004, de 28 de diciembre, de Medidas de Protección Integral contra la Violencia de Género.
+Tema 26.- La [Ley Orgánica 1/2004](../../../estatal/07_convivencia_bienestar_y_protocolos/LO1_2004_medidas_proteccion_violencia_genero.md), de 28 de diciembre, de Medidas de Protección Integral contra la Violencia de Género.
 
 Tema 27.- El Estatuto de Autonomía de Canarias: estructura, contenido y naturaleza jurídica. La posición del Estatuto en el sistema de fuentes. Reforma del Estatuto de Autonomía.
 

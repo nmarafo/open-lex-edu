@@ -28,6 +28,26 @@ fundamentos_derecho:
 - norma_id: norm-can-l-6-2014
   articulos:
   - '1'
+- norma_id: norm-can-d-84-2024
+- norma_id: norm-can-l-14-1990
+- norma_id: norm-can-lo-1-2018
+- norma_id: norm-can-res-boc-2024-230-25
+- norma_id: norm-can-res-134
+- norma_id: norm-es-1995-25444
+- norma_id: norm-es-l-39-2015
+- norma_id: norm-es-l-40-2015
+- norma_id: norm-es-lo-2-2006
+- norma_id: norm-es-1985-5392
+- norma_id: norm-es-2001-7022
+- norma_id: norm-es-l-9-2017
+- norma_id: norm-es-lo-3-2018
+- norma_id: norm-es-2021-20113
+- norma_id: norm-es-lo-3-2022
+- norma_id: norm-es-rd-659-2023
+- norma_id: norm-es-1971-1198
+- norma_id: norm-es-2010-12201
+- norma_id: norm-es-lo-8-2021
+- norma_id: norm-es-rdl-2-2015
 fuente_pdf_oficial: https://sede.gobiernodecanarias.org/boc/boc-a-2026-129-2245.pdf
 ---
 # Resolución de 16 de junio de 2026, por la que se ordena la publicación del Protocolo General de Actuación entre la Consejería de Educación, Formación Profesional, Actividad Física y Deportes y la Federación Canaria de Municipios, como organismo intermedio, para el desarrollo de la formación en empresa u organismo equiparado por el alumnado de formación profesional matriculado en centros docentes de titularidad pública de la Comunidad Autónoma de Canarias.(BOC n.º 129, de 29.06.2026).
@@ -77,9 +97,9 @@ REUNIDOS
 De una parte, D. Hipólito Alejandro Suárez Nuez, Consejero de Educación, Formación 
 Profesional, Actividad Física y Deportes de la Comunidad Autónoma de Canarias, en virtud 
 de nombramiento efectuado mediante Decreto 43/2023, de 14 de julio, del Presidente, y 
-en ejercicio de sus competencias recogidas en el artículo 29.1.m) de la Ley 14/1990, de 26 
+en ejercicio de sus competencias recogidas en el artículo 29.1.m) de la [Ley 14/1990](../01_marco_normativo_general_y_organico/L14_1990_regimen_juridico_administraciones_canarias.md), de 26 
 de julio, de Régimen Jurídico de las Administraciones Públicas de Canarias, así como en 
-el Decreto 84/2024, de 10 de junio, por el que se aprueba el Reglamento Orgánico de la 
+el [Decreto 84/2024](../01_marco_normativo_general_y_organico/D84_2024_reglamento_organico_consejeria.md), de 10 de junio, por el que se aprueba el Reglamento Orgánico de la 
 Consejería de Educación, Formación Profesional, Actividad Física y Deportes, en nombre 
 y representación de la misma.
 De otra parte, Dña. María Concepción Brito Núñez, Presidenta de la Federación Canaria 
@@ -94,9 +114,9 @@ EXPONEN
 Primero.- La Comunidad Autónoma de Canarias es competente, a través de la 
 Consejería de Educación, Formación Profesional, Actividad Física y Deportes, para el 
 desarrollo legislativo y ejecución en materia de enseñanza no universitaria, según establece 
-el artículo 133 del Estatuto de Autonomía de Canarias, aprobado por Ley Orgánica 1/2018, 
+el artículo 133 del Estatuto de Autonomía de Canarias, aprobado por [Ley Orgánica 1/2018](../01_marco_normativo_general_y_organico/LO1_2018_estatuto_autonomia_canarias.md), 
 de 5 de noviembre, de reforma del Estatuto de Autonomía de Canarias.
-Segundo.- La Ley Orgánica 2/2006, de 3 de mayo, de Educación, define en el artículo 
+Segundo.- La [Ley Orgánica 2/2006](../../../estatal/01_marco_normativo_general_y_organico/LO2_2006_ley_organica_educacion.md), de 3 de mayo, de Educación, define en el artículo 
 42 bis la Formación Profesional dual del Sistema Educativo Español como el conjunto de 
 acciones e iniciativas formativas que, en corresponsabilidad con las empresas, tienen por 
 objeto la cualificación profesional de las personas, armonizando los procesos de enseñanza 
@@ -104,7 +124,7 @@ y aprendizaje entre los centros docentes y los centros de trabajo. Asimismo, dis
 el Gobierno, previa consulta a las Comunidades Autónomas, regulará las condiciones y 
 requisitos básicos que permitan el desarrollo por las Administraciones educativas de la 
 Formación Profesional dual en el ámbito del sistema educativo.
-Tercero.- La Ley Orgánica 3/2022, de 31 de marzo, de ordenación e integración de 
+Tercero.- La [Ley Orgánica 3/2022](../08_personal_docente/RES_dirección_general_personal_sobre_134.md), de 31 de marzo, de ordenación e integración de 
 la Formación Profesional (en adelante 
 LOOIFP), establece como uno de sus principios 
 generales, recogido en el apartado g) del artículo 3.1, el de la “participación de las empresas 
@@ -127,13 +147,13 @@ FCT) según se
 desprende del artículo 11.3 y 4 del Real Decreto 278/2023, de 11 de abril, por el que 
 se establece el calendario de implementación del Sistema de Formación Profesional 
 establecido por la citada Ley Orgánica 3/2022, de 31 de marzo, considerando la existencia 
-actual de Ciclos Formativos regulados sobre la base de la Ley Orgánica 1/1990, de 3 de 
+actual de Ciclos Formativos regulados sobre la base de la [Ley Orgánica 1/1990](../../../estatal/02_gestion_y_administracion_centros/BOE_2001_7022_correspondientes_españoles_educación_secundaria.md), de 3 de 
 octubre, de Ordenación General del Sistema Educativo.
-Cuarto.- La Ley 6/2014, de 25 de julio, Canaria de Educación no Universitaria, en su 
+Cuarto.- La [Ley 6/2014](../01_marco_normativo_general_y_organico/L6_2014_ley_canaria_educacion.md), de 25 de julio, Canaria de Educación no Universitaria, en su 
 artículo 33.1 establece que “La formación profesional comprende el conjunto de acciones 
 formativas que capacitan para el desempeño cualificado de las diversas profesiones, el 
 acceso al empleo y la participación activa en la vida social, cultural y económica”.
-Quinto.- El Real Decreto 659/2023, de 18 de julio, por el que se desarrolla la ordenación 
+Quinto.- El [Real Decreto 659/2023](RES_dirección_general_formación_profesional_25.md), de 18 de julio, por el que se desarrolla la ordenación 
 del Sistema de Formación Profesional, señala en su artículo 3.1 como uno de los objetivos 
 del Sistema de Formación Profesional “a) Garantizar a todas las personas, en condiciones 
 de equidad y a lo largo de la vida, una Formación Profesional de calidad, en diferentes 
@@ -157,7 +177,7 @@ municipios de Canarias, con personalidad jurídica plena, constituida al amparo 
 Ley Orgánica 1/2002, de 22 de marzo, reguladora del Derecho de Asociación, y la Ley 
 4/2003, de 28 de febrero, de Asociaciones Canarias, según las previsiones de la disposición 
 
-adicional quinta de la Ley 7/1985, de 2 de abril, reguladora de las Bases del Régimen Local 
+adicional quinta de la [Ley 7/1985](../../../estatal/02_gestion_y_administracion_centros/BOE_1985_5392_abril_reguladora_bases_régimen.md), de 2 de abril, reguladora de las Bases del Régimen Local 
 (en adelante LBRL). La FECAM está debidamente inscrita en el registro de asociaciones 
 Canarias, tal como exige la normativa vigente.
 La FECAM es una asociación creada para la protección y promoción de los intereses 
@@ -277,7 +297,7 @@ de la participación municipal.
 Cuarta.- Protección de datos personales.
 Las partes se comprometen a cumplir con las obligaciones establecidas en el Reglamento 
 General de Protección de Datos (UE) 2016/679 del Parlamento Europeo y del Consejo, 
-de 27 de abril de 2016, y en la Ley Orgánica 3/2018, de 5 de diciembre, de Protección de 
+de 27 de abril de 2016, y en la [Ley Orgánica 3/2018](../../../estatal/02_gestion_y_administracion_centros/LO3_2018_proteccion_datos_personales.md), de 5 de diciembre, de Protección de 
 Datos Personales y garantía de los derechos digitales, y en cualquiera otras normas vigentes 
 o que en el futuro se puedan promulgar sobre esta materia.
 Quinta.- Comisión de Seguimiento.
@@ -295,7 +315,7 @@ por la persona titular de la Dirección General de Formación Profesional y Ense
 de Régimen Especial o persona en quien delegue, y por quien designe a tales efectos la 
 propia 
 FECAM. La Secretaría tendrá voz y voto, y sus atribuciones estarán de acuerdo a 
-lo dispuesto en el artículo 16 de la Ley 40/2015, de 1 de octubre, de Régimen Jurídico del 
+lo dispuesto en el artículo 16 de la [Ley 40/2015](../../../estatal/01_marco_normativo_general_y_organico/L40_2015_regimen_juridico_sector_publico.md), de 1 de octubre, de Régimen Jurídico del 
 Sector Público.
 4. Sin perjuicio de lo anterior, y a propuesta de algunas de las partes, podrán acudir a 
 las reuniones terceros expertos, con voz pero sin voto.
@@ -363,10 +383,10 @@ perjuicio del cumplimiento de lo dispuesto en la cláusula cuarta en lo que resp
 normativa reguladora de protección de datos de carácter personal.
 Decimoprimera.- Naturaleza y jurisdicción.
 El presente Protocolo General de Actuación tiene naturaleza administrativa, siendo 
-el régimen aplicable el previsto en la Ley 39/2015, de 1 de octubre, del Procedimiento 
+el régimen aplicable el previsto en la [Ley 39/2015](../../../estatal/01_marco_normativo_general_y_organico/L39_2015_procedimiento_administrativo_comun.md), de 1 de octubre, del Procedimiento 
 Administrativo Común de las Administraciones Públicas, y en la Ley 40/2015, de 1 de 
 octubre, de Régimen Jurídico del Sector Público, estando excluido del ámbito de aplicación 
-de la Ley 9/2017, de 8 de noviembre, de Contratos del Sector Público, siéndole de aplicación, 
+de la [Ley 9/2017](../../../estatal/02_gestion_y_administracion_centros/L9_2017_contratos_sector_publico.md), de 8 de noviembre, de Contratos del Sector Público, siéndole de aplicación, 
 en defecto de normas específicas, los principios de esta Ley y del resto del ordenamiento 
 jurídico administrativo, para resolver las dudas y lagunas que pudieran presentarse.
 En prueba de conformidad, y para la debida constancia de todo lo acordado, las partes 
@@ -596,7 +616,7 @@ empresario deberá comunicar los días efectivos de prácticas a partir de la in
 facilite el centro donde se realice la práctica formativa. (...)»
 En cuanto a la cotización a la Seguridad Social aplicable en cada caso, se estará a lo previsto en  
 los apartados 5 a 7 de la citada disposición adicional.
-Quinto.- El Real Decreto Legislativo 2/2015, de 23 de octubre, por el que se aprueba el Texto  
+Quinto.- El [Real Decreto Legislativo 2/2015](../../../estatal/09_personal_laboral_y_no_docente/RDL2_2015_estatuto_trabajadores.md), de 23 de octubre, por el que se aprueba el Texto  
 Refundido  del  Estatuto  de  los  Trabajadores,  establece  en  su  artículo  11.2  la  formación  en 
 alternancia para llevar a cabo de forma adecuada la formación dual, siendo aplicable el Real  
 Decreto 1529/2012, de 8 de noviembre, por el que se desarrolla el contrato para la formación y el  
@@ -797,7 +817,7 @@ i) No ocupar, ni siquiera con carácter interino, ningún puesto de trabajo en p
 alumnado que realice las actividades formativas en la empresa u organismo equiparado. 
 j)Acreditar que el tutor o tutora dual de la empresa, en el caso de que el alumnado sea menor de
 edad, aporte un Certificado Negativo del Registro Central de Delincuentes Sexuales y Trata de  
-Seres Humanos sexuales (de conformidad con el art. 57.1 de la Ley Orgánica 8/2021, de 4 de  
+Seres Humanos sexuales (de conformidad con el art. 57.1 de la [Ley Orgánica 8/2021](../../../estatal/07_convivencia_bienestar_y_protocolos/LO8_2021_proteccion_infancia_adolescencia_violencia.md), de 4 de  
 junio, de protección integral a la infancia y la adolescencia frente a la violencia).
 k) Cumplir con la legislación vigente en materia de Seguridad Social durante la fase de formación
 en empresa u organismo equiparado, de conformidad con lo previsto en la cláusula duodécima de  
@@ -958,7 +978,7 @@ seguro para indemnizaciones, con la cobertura  de incapacidad, fallecimiento, da
 daños materiales, gestionada directamente por los centros educativos a través de la aplicación  
 informática utilizada a tal efecto, sin perjuicio de la existencia del seguro escolar obligatorio.
 
-4. A los efectos previstos en el Decreto 2078/1971, de 1 3 de agos to, por el que se extiende el
+4. A los efectos previstos en el [Decreto 2078/1971](../../../estatal/05_alumnado_y_servicios_escolares/BOE_1971_1198_agosto_extiende_campo_aplicación.md), de 1 3 de agos to, por el que se extiende el
 campo del Seguro Escolar, establecido por la Ley de 17 de julio de 1953, al alumnado que sigue  
 las enseñanzas de Formación Profesional Dual, el centro docente comunicará a la Dirección  
 General de Formación Profesional y Enseñanzas de Régimen Especial, para que lo traslade a  
@@ -1126,8 +1146,8 @@ Según lo indicado en el artículo 57.1 de la Ley Orgánica 8/2021, de 4 de juni
 integral a la infancia y a la adolescencia frente a la violencia: “ será requisito para el acceso y  
 ejercicio de cualesquiera profesiones, oficios y actividades que impliquen contacto habitual  
 con personas menores de edad, el no haber sido condenado por sentencia firme por cualquier  
-delito contra la libertad e indemnidad sexuales tipificados en el título VIII de la Ley Orgánica  
-10/1995, de 23 de noviembre, del Código Penal, así como por cualquier delito de trata de seres 
+delito contra la libertad e indemnidad sexuales tipificados en el título VIII de la [Ley Orgánica  
+10/1995](../../../estatal/01_marco_normativo_general_y_organico/BOE_1995_25444_noviembre_código_penal.md), de 23 de noviembre, del Código Penal, así como por cualquier delito de trata de seres 
 humanos tipificado en el título VII bis del Código Penal.
 A  tal  efecto,  quien  pretenda  el  acceso  a  tales  profesiones,  oficios  o  actividades  deberá  
 acreditar esta circunstancia mediante la aportación de una certificación negativa del Registro  

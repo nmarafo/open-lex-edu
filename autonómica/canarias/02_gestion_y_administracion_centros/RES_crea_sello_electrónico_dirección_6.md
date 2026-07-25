@@ -33,6 +33,8 @@ fundamentos_derecho:
   articulos:
   - '1'
 - norma_id: norm-es-l-39-2015
+- norma_id: norm-es-l-40-2015
+- norma_id: norm-es-2012-9282
 fuente_pdf_oficial: https://sede.gobiernodecanarias.org/boc/boc-a-2017-066-1585.pdf
 fuente_juriscan: http://www.gobiernodecanarias.org/juriscan/ficha.jsp?id=75634
 ---
@@ -44,7 +46,7 @@ Resolución de 23 de marzo de 2017, de la Directora, por la que se crea el sello
 electrónico de la Agencia Canaria de Calidad Universitaria y Evaluación Educativa 
 (ACCUEE). 
 ANTECEDENTES DE HECHO
-La Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común de las 
+La [Ley 39/2015](../../../estatal/01_marco_normativo_general_y_organico/L39_2015_procedimiento_administrativo_comun.md), de 1 de octubre, del Procedimiento Administrativo Común de las 
 Administraciones Públicas (BOE nº 236, de 2.10.15), en su exposición de motivos 
 dispone:
 “En particular, se admitirán como sistemas de firma: los sistemas de firma electrónica 
@@ -66,7 +68,7 @@ el resto de Estados miembros, así como los sistemas de firma y sello electróni
 certificados electrónicos cualificados emitidos por prestadores de servicios que figuren en 
 las listas de confianza de otros Estados miembros de la Unión Europea, en los términos que 
 prevea dicha norma comunitaria”.
-Por su parte, la Ley 40/2015, de 1 de octubre, de Régimen Jurídico del Sector Público 
+Por su parte, la [Ley 40/2015](../../../estatal/01_marco_normativo_general_y_organico/L40_2015_regimen_juridico_sector_publico.md), de 1 de octubre, de Régimen Jurídico del Sector Público 
 (BOE nº 236, de 2.10.15), ha venido a recoger, con las adaptaciones necesarias, las normas 
 hasta ahora contenidas en la Ley 11/2007, de 22 de junio, de acceso electrónico de los 
 ciudadanos a los Servicios Públicos, en lo relativo al funcionamiento electrónico del sector 
@@ -113,8 +115,8 @@ el sello electrónico de la Agencia Canaria de Calidad Universitaria y Evaluaci�
 (ACCUEE) corresponde a la Directora, en concordancia con lo establecido en el Decreto 
 1/2010, de 12 de enero, por el que se aprueba el Reglamento que regula la estructura 
 organizativa y de funcionamiento de la Agencia Canaria de Evaluación de la Calidad y 
-Acreditación Universitaria (BOC nº 13, de 21 de enero de 2010), modificado por la Ley 
-4/2012, de 25 de julio, de medidas administrativas y fiscales (BOC nº 124, de 26 de junio de 
+Acreditación Universitaria (BOC nº 13, de 21 de enero de 2010), modificado por la [Ley 
+4/2012](../../../estatal/08_personal_docente/BOE_2012_9282_junio_medidas_administrativas_fiscales.md), de 25 de julio, de medidas administrativas y fiscales (BOC nº 124, de 26 de junio de 
 2012), que cambia la denominación de la Agencia, pasando a denominarse Agencia Canaria 
 de Calidad Universitaria y Evaluación Educativa (ACCUEE).
 En consecuencia,

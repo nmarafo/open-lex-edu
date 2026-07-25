@@ -34,10 +34,14 @@ fundamentos_derecho:
 - norma_id: norm-es-rdl-5-2015
   articulos:
   - '1'
+- norma_id: norm-es-2001-7022
+- norma_id: norm-es-lo-8-1985
+- norma_id: norm-es-1993-23257
+- norma_id: norm-es-1995-22212
 ---
 # Real Decreto 777/1998, de 30 de abril, por el que se desarrollan determinados aspectos de la ordenación de la formación profesional en el ámbito del sistema educativo.
 
-La Ley Orgánica 1/1990, de 3 de octubre, de Ordenación General del Sistema Educativo, define en el capítulo IV del Título I la configuración de la nueva ordenación académica de la formación profesional.
+La [Ley Orgánica 1/1990](../02_gestion_y_administracion_centros/BOE_2001_7022_correspondientes_españoles_educación_secundaria.md), de 3 de octubre, de Ordenación General del Sistema Educativo, define en el capítulo IV del Título I la configuración de la nueva ordenación académica de la formación profesional.
 
 En desarrollo de este capítulo, se ha ido creando el marco legal necesario para fundamentar la estructura de los nuevos estudios de formación profesional. De acuerdo con ello, se establecieron las directrices generales sobre los títulos y las correspondientes enseñanzas mínimas de formación profesional en el Real Decreto 676/1993, de 7 de mayo, y por distintos Reales Decretos se han establecido los diferentes títulos y aprobado las correspondientes enseñanzas mínimas.
 
@@ -55,7 +59,7 @@ El presente Real Decreto constituye un avance al determinar los criterios genera
 
 El Real Decreto 1004/1991, de 14 de junio, determina los requisitos mínimos de los centros que impartan enseñanzas de régimen general no universitarias que se completa con la regulación establecida en los Reales Decretos de los títulos. La implantación anticipada de determinados ciclos formativos ha puesto de manifiesto la necesidad de adaptar los espacios a la posibilidad de disminución del número de puestos escolares por unidad educativa. Igualmente resulta conveniente unificar las denominaciones de los mismos, en aquellos casos que lo requieran.
 
-Por último, esta disposición viene a completar la ordenación que, respecto al profesorado, ha ido apareciendo en diversas normas, entre ellas el Real Decreto 1635/1995, de 6 de octubre, por el que se adscribe el profesorado de los Cuerpos de Profesores de Enseñanza Secundaria y de Profesores Técnicos de Formación Profesional a las especialidades propias de la formación profesional específica, y en las modificaciones incluidas en los Reales Decretos que establecen los títulos de formación profesional específica publicados con posterioridad. Al mismo tiempo, se amplía la atribución docente de los Profesores Técnicos de Formación Profesional y de Enseñanza Secundaria en determinados módulos profesionales pertenecientes a ciclos formativos de distintas familias profesionales, que inicialmente habían sido atribuidos a un profesor especialista.
+Por último, esta disposición viene a completar la ordenación que, respecto al profesorado, ha ido apareciendo en diversas normas, entre ellas el [Real Decreto 1635/1995](BOE_1995_22212_octubre_adscribe_profesorado_cuerpos.md), de 6 de octubre, por el que se adscribe el profesorado de los Cuerpos de Profesores de Enseñanza Secundaria y de Profesores Técnicos de Formación Profesional a las especialidades propias de la formación profesional específica, y en las modificaciones incluidas en los Reales Decretos que establecen los títulos de formación profesional específica publicados con posterioridad. Al mismo tiempo, se amplía la atribución docente de los Profesores Técnicos de Formación Profesional y de Enseñanza Secundaria en determinados módulos profesionales pertenecientes a ciclos formativos de distintas familias profesionales, que inicialmente habían sido atribuidos a un profesor especialista.
 
 Las necesidades detectadas en algunos ciclos formativos respecto a la competencia profesional requerida para impartir docencia en determinadas especialidades hace preciso ampliar las titulaciones declaradas equivalentes a efectos de docencia para el acceso al Cuerpo de Profesores Técnicos de Formación Profesional. Asimismo, conviene adaptar estas titulaciones y los estudios universitarios a los que se pueden acceder tras haber cursado los correspondientes ciclos formativos de grado superior a lo establecido en el Real Decreto 1954/1994, de 30 de septiembre, sobre homologación de títulos a los del Catálogo de Títulos Universitarios Oficiales y a las sucesivas incorporaciones realizadas al mismo.
 
@@ -89,7 +93,7 @@ Aquellos alumnos que hayan superado un programa de garantía social, podrán rea
 
 #### Artículo 4. Admisión de alumnos a la formación profesional específica.
 
-1. Los criterios de admisión de alumnos en centros sostenidos con fondos públicos son los establecidos con carácter general en la Ley Orgánica 8/1985, de 3 de junio, que regula el Derecho a la Educación, en sus normas de desarrollo y, para los ciclos formativos de grado superior, los criterios que se determinan en la disposición adicional tercera de la Ley Orgánica 9/1995, de 20 de noviembre, de la Participación, la Evaluación y el Gobierno de los Centros Docentes.
+1. Los criterios de admisión de alumnos en centros sostenidos con fondos públicos son los establecidos con carácter general en la [Ley Orgánica 8/1985](../02_gestion_y_administracion_centros/LO8_1985_derecho_educacion.md), de 3 de junio, que regula el Derecho a la Educación, en sus normas de desarrollo y, para los ciclos formativos de grado superior, los criterios que se determinan en la disposición adicional tercera de la Ley Orgánica 9/1995, de 20 de noviembre, de la Participación, la Evaluación y el Gobierno de los Centros Docentes.
 
 2. Las Administraciones educativas podrán definir áreas de influencia para la admisión de alumnos a ciclos formativos de grado medio.
 
@@ -359,7 +363,7 @@ Hasta tanto no se modifique el Real Decreto 1005/1991, de 14 de junio, por el qu
 
 #### Disposición transitoria segunda. Aplicación de las equivalencias a efectos de docencia en los procedimientos selectivos para el ingreso en el Cuerpo de Profesores Técnicos de Formación Profesional.
 
-Las equivalencias a efectos de docencia recogidas en el anexo III del Real Decreto 850/1993, de 4 de junio, por el que se regula el ingreso y la adquisición de especialidades en los Cuerpos de funcionarios docentes a que se refiere la Ley Orgánica de Ordenación General del Sistema Educativo, serán de aplicación en los procedimientos selectivos que efectúen las Administraciones educativas, en las tres primeras convocatorias de cada especialidad, para el ingreso en el Cuerpo de Profesores Técnicos de Formación Profesional, para aquellos aspirantes que acrediten experiencia docente de, al menos, dos años en centros educativos públicos dependientes de la Administración educativa convocante.
+Las equivalencias a efectos de docencia recogidas en el anexo III del [Real Decreto 850/1993](BOE_1993_23257_adquisición_nuevas_especialidades_movilidad.md), de 4 de junio, por el que se regula el ingreso y la adquisición de especialidades en los Cuerpos de funcionarios docentes a que se refiere la Ley Orgánica de Ordenación General del Sistema Educativo, serán de aplicación en los procedimientos selectivos que efectúen las Administraciones educativas, en las tres primeras convocatorias de cada especialidad, para el ingreso en el Cuerpo de Profesores Técnicos de Formación Profesional, para aquellos aspirantes que acrediten experiencia docente de, al menos, dos años en centros educativos públicos dependientes de la Administración educativa convocante.
 
 #### Disposición transitoria tercera. Oferta de plazas de especialidades a profesores funcionarios según titulación.
 

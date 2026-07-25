@@ -31,6 +31,9 @@ fundamentos_derecho:
   articulos:
   - '1'
 - norma_id: norm-es-lo-2-2006
+- norma_id: norm-can-d-106-2009
+- norma_id: norm-es-2021-20113
+- norma_id: norm-es-2010-12201
 fuente_pdf_oficial: https://sede.gobiernodecanarias.org/boc/boc-a-2012-015-333.pdf
 fuente_juriscan: http://www.gobiernodecanarias.org/juriscan/ficha.jsp?id=66772
 ---
@@ -92,12 +95,12 @@ teria de educación.
 Alos anteriores antecedentes les son de aplicación
 los siguientes,
 FUNDAMENTOS DE DERECHO
-Primero.- La Ley Orgánica 2/2006, de 3 de ma-
+Primero.- La [Ley Orgánica 2/2006](../../../estatal/01_marco_normativo_general_y_organico/LO2_2006_ley_organica_educacion.md), de 3 de ma-
 yo, de Educación (BOE nº 106, de 4.5.06), en cuan-
 to sea de aplicación, en especial el Título V, Capítu-
 lo IV, que regula el marco general de la dirección de
 los centros públicos.
-Segundo.- El Decreto 106/2009, de 28 de julio,
+Segundo.- El [Decreto 106/2009](D106_2009_funcion_directiva_centros_docentes.md), de 28 de julio,
 por el que se regula la función directiva en los cen-
 tros docentes públicos no universitarios dependien-
 tes de la Comunidad Autónoma de Canarias (BOC

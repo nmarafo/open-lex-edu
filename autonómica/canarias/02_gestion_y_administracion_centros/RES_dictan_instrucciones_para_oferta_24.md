@@ -28,6 +28,9 @@ fundamentos_derecho:
   articulos:
   - '1'
 - norma_id: norm-es-lo-2-2006
+- norma_id: norm-can-d-109-1999
+- norma_id: norm-es-2021-20113
+- norma_id: norm-es-2010-12201
 fuente_pdf_oficial: https://sede.gobiernodecanarias.org/boc/boc-a-2020-257-4915.pdf
 ---
 # Resolución de la Viceconsejería de Educación y Universidades, por la que se dictan instrucciones para la oferta educativa y recursos en las escuelas unitarias y los colectivos de escuelas rurales en canarias (13 de marzo de 2015).
@@ -59,7 +62,7 @@ viene a suponer que en todos los actos de la convocatoria de elecciones a los Co
 Escolares se deban atender las medidas de higiene y prevención previstas.
 A estos antecedentes, le son de aplicación los siguientes
 FUNDAMENTOS DE DERECHO
-Primero.- El Título V de la Ley Orgánica 2/2006, de 3 de mayo, de Educación, en su 
+Primero.- El Título V de la [Ley Orgánica 2/2006](../../../estatal/01_marco_normativo_general_y_organico/LO2_2006_ley_organica_educacion.md), de 3 de mayo, de Educación, en su 
 redacción actual, está dedicado a la participación, autonomía y gobierno de los centros; y 
 el Capítulo II de dicho título se refiere específicamente a la autonomía de los centros, en 
 particular, para elaborar, aprobar y ejecutar el proyecto educativo y el proyecto de gestión 
@@ -75,7 +78,7 @@ Página
 Martes 15 de diciembre de 2020
 Segundo.- La necesidad de convocar elecciones para la renovación de los representantes 
 de los distintos sectores de la comunidad educativa en los Consejos de los CER viene 
-determinada en el artículo 22 del Decreto 109/1999, de 25 de mayo, por el que se regula el 
+determinada en el artículo 22 del [Decreto 109/1999](D109_1999_escuelas_rurales_cer.md), de 25 de mayo, por el que se regula el 
 régimen de creación y funcionamiento de los Colectivos de Escuelas Rurales.
 Tercero.- La Orden de 12 de mayo de 2016, por la que se regulan la composición y 
 el procedimiento para la constitución y la renovación de los Consejos Escolares de los 

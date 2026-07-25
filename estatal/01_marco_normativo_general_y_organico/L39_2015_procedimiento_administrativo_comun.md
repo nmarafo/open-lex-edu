@@ -35,6 +35,9 @@ fundamentos_derecho:
 - norma_id: norm-es-ce-1978
   articulos:
   - 149.1.18
+- norma_id: norm-es-l-19-2013
+- norma_id: norm-es-1985-5392
+- norma_id: norm-es-2003-23399
 ---
 # Ley 39/2015 del Procedimiento Administrativo Común
 
@@ -86,7 +89,7 @@ El desarrollo de las tecnologías de la información y comunicación también ha
 
 Si bien la Ley 30/1992, de 26 de noviembre, ya fue consciente del impacto de las nuevas tecnologías en las relaciones administrativas, fue la Ley 11/2007, de 22 de junio, de acceso electrónico de los ciudadanos a los Servicios Públicos, la que les dio carta de naturaleza legal, al establecer el derecho de los ciudadanos a relacionarse electrónicamente con las Administraciones Públicas, así como la obligación de éstas de dotarse de los medios y sistemas necesarios para que ese derecho pudiera ejercerse. Sin embargo, en el entorno actual, la tramitación electrónica no puede ser todavía una forma especial de gestión de los procedimientos sino que debe constituir la actuación habitual de las Administraciones. Porque una Administración sin papel basada en un funcionamiento íntegramente electrónico no sólo sirve mejor a los principios de eficacia y eficiencia, al ahorrar costes a ciudadanos y empresas, sino que también refuerza las garantías de los interesados. En efecto, la constancia de documentos y actuaciones en un archivo electrónico facilita el cumplimiento de las obligaciones de transparencia, pues permite ofrecer información puntual, ágil y actualizada a los interesados.
 
-Por otra parte, la regulación de esta materia venía adoleciendo de un problema de dispersión normativa y superposición de distintos regímenes jurídicos no siempre coherentes entre sí, de lo que es muestra la sucesiva aprobación de normas con incidencia en la materia, entre las que cabe citar: la Ley 17/2009, de 23 de noviembre, sobre libre acceso a las actividades de servicios y su ejercicio; la Ley 2/2011, de 4 de marzo, de Economía Sostenible; la Ley 19/2013, de 9 de diciembre, de transparencia, acceso a la información pública y buen gobierno, o la Ley 20/1013, de 9 de diciembre, de garantía de la unidad de mercado.
+Por otra parte, la regulación de esta materia venía adoleciendo de un problema de dispersión normativa y superposición de distintos regímenes jurídicos no siempre coherentes entre sí, de lo que es muestra la sucesiva aprobación de normas con incidencia en la materia, entre las que cabe citar: la Ley 17/2009, de 23 de noviembre, sobre libre acceso a las actividades de servicios y su ejercicio; la Ley 2/2011, de 4 de marzo, de Economía Sostenible; la [Ley 19/2013](L19_2013_transparencia_buen_gobierno.md), de 9 de diciembre, de transparencia, acceso a la información pública y buen gobierno, o la Ley 20/1013, de 9 de diciembre, de garantía de la unidad de mercado.
 
 Ante este escenario legislativo, resulta clave contar con una nueva Ley que sistematice toda la regulación relativa al procedimiento administrativo, que clarifique e integre el contenido de las citadas Ley 30/1992, de 26 de noviembre y Ley 11/2007, de 22 de junio, y profundice en la agilización de los procedimientos con un pleno funcionamiento electrónico. Todo ello revertirá en un mejor cumplimiento de los principios constitucionales de eficacia y seguridad jurídica que deben regir la actuación de las Administraciones Públicas.
 
@@ -830,7 +833,7 @@ b) Las que contengan medios de pago a favor de los obligados, tales como cheques
 
 Cuando no fuera posible realizar la notificación de acuerdo con lo señalado en la solicitud, se practicará en cualquier lugar adecuado a tal fin, y por cualquier medio que permita tener constancia de la recepción por el interesado o su representante, así como de la fecha, la identidad y el contenido del acto notificado.
 
-4. En los procedimientos iniciados de oficio, a los solos efectos de su iniciación, las Administraciones Públicas podrán recabar, mediante consulta a las bases de datos del Instituto Nacional de Estadística, los datos sobre el domicilio del interesado recogidos en el Padrón Municipal, remitidos por las Entidades Locales en aplicación de lo previsto en la Ley 7/1985, de 2 de abril, reguladora de las Bases del Régimen Local.
+4. En los procedimientos iniciados de oficio, a los solos efectos de su iniciación, las Administraciones Públicas podrán recabar, mediante consulta a las bases de datos del Instituto Nacional de Estadística, los datos sobre el domicilio del interesado recogidos en el Padrón Municipal, remitidos por las Entidades Locales en aplicación de lo previsto en la [Ley 7/1985](../02_gestion_y_administracion_centros/BOE_1985_5392_abril_reguladora_bases_régimen.md), de 2 de abril, reguladora de las Bases del Régimen Local.
 
 5. Cuando el interesado o su representante rechace la notificación de una actuación administrativa, se hará constar en el expediente, especificándose las circunstancias del intento de notificación y el medio, dando por efectuado el trámite y siguiéndose el procedimiento.
 
@@ -2068,7 +2071,7 @@ Hasta que, de acuerdo con lo dispuesto en la disposición final séptima, produz
 
 3. Lo previsto en los artículos 92 primer párrafo, 111, 114.2 y disposición transitoria segunda, serán de aplicación únicamente a la Administración General del Estado, así como el resto de apartados de los distintos preceptos que prevén su aplicación exclusiva en el ámbito de la Administración General del Estado.
 
-#### Disposición final segunda. Modificación de la Ley 59/2003, de 19 de diciembre, de firma electrónica.
+#### Disposición final segunda. Modificación de la [Ley 59/2003](../02_gestion_y_administracion_centros/BOE_2003_23399_diciembre_firma_electrónica_diciembre.md), de 19 de diciembre, de firma electrónica.
 
 En la Ley 59/2003, de 19 de diciembre, de firma electrónica, se incluye un nuevo apartado 11 en el artículo 3 con la siguiente redacción:
 

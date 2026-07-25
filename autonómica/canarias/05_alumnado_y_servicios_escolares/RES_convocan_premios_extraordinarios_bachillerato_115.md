@@ -31,6 +31,11 @@ fundamentos_derecho:
   articulos:
   - '1'
 - norma_id: norm-can-lo-1-2018
+- norma_id: norm-can-d-84-2024
+- norma_id: norm-es-l-39-2015
+- norma_id: norm-es-lo-2-2006
+- norma_id: norm-es-2021-20113
+- norma_id: norm-es-2010-12201
 fuente_pdf_oficial: https://sede.gobiernodecanarias.org/boc/boc-a-2026-070-1145.pdf
 ---
 # Resolución de 26 de marzo de 2026, por la que se convocan los Premios Extraordinarios de Bachillerato en el ámbito de la Comunidad Autónoma de Canarias, correspondientes al curso escolar 2025/2026. Plazo para realizar la inscripción: desde el 15 de mayo de 2026, día de la entrega de las calificaciones finales de segundo curso de Bachillerato, al 15 de junio de 2026.
@@ -63,9 +68,9 @@ para su concesión.
 FUNDAMENTOS DE DERECHO
 Primero.- La Comunidad Autónoma de Canarias ostenta la competencia de desarrollo 
 legislativo y de ejecución del régimen de fomento del estudio, en materia de enseñanza no 
-universitaria, en virtud del artículo 133.1.f) de la Ley Orgánica 1/2018, de 5 de noviembre, 
+universitaria, en virtud del artículo 133.1.f) de la [Ley Orgánica 1/2018](../01_marco_normativo_general_y_organico/LO1_2018_estatuto_autonomia_canarias.md), de 5 de noviembre, 
 de reforma del Estatuto de Autonomía de Canarias.
-Segundo.- En virtud del artículo 3.a) de la Ley 6/2014, de 25 de julio, Canaria de 
+Segundo.- En virtud del artículo 3.a) de la [Ley 6/2014](../01_marco_normativo_general_y_organico/L6_2014_ley_canaria_educacion.md), de 25 de julio, Canaria de 
 Educación no Universitaria, entre los principios rectores que han de regir el sistema 
 educativo canario se encuentra el siguiente: “un sistema educativo de calidad, entendido 
 como un sistema que garantice la equidad y la excelencia, con capacidad de ofrecer a cada 
@@ -76,7 +81,7 @@ de aprendizaje en todo el alumnado”.
 Tercero.- Las bases que regulan esta convocatoria se regirán por la Orden de 20 
 de diciembre de 2011, por la que se crean los Premios Extraordinarios de Bachillerato, 
 
-reconocidos por la Ley Orgánica 2/2006, de 3 de mayo, de Educación, en su redacción 
+reconocidos por la [Ley Orgánica 2/2006](../../../estatal/01_marco_normativo_general_y_organico/LO2_2006_ley_organica_educacion.md), de 3 de mayo, de Educación, en su redacción 
 actual, en el ámbito de la Comunidad Autónoma de Canarias.
 Cuarto.- Dicha Orden de 20 de diciembre de 2011, en su artículo 3, dispone que 
 “podrá concederse un Premio Extraordinario por cada mil alumnos, o fracción superior a 
@@ -89,7 +94,7 @@ de marzo, por el que se establece la ordenación y el currículo de la Educació
 Obligatoria y del Bachillerato en la Comunidad Autónoma de Canarias.
 Sexto.- El Director General de Ordenación de las Enseñanzas, Inclusión e Innovación es 
 competente para dictar la presente Resolución, según lo dispuesto en el artículo 17.2.y) del 
-anexo del Decreto 84/2024, de 10 de junio, por el que se aprueba el Reglamento Orgánico 
+anexo del [Decreto 84/2024](../01_marco_normativo_general_y_organico/D84_2024_reglamento_organico_consejeria.md), de 10 de junio, por el que se aprueba el Reglamento Orgánico 
 de la Consejería de Educación, Formación Profesional, Actividad Física y Deportes.
 Por todo lo expuesto anteriormente, oída la Inspección de Educación,
 RESUELVO :
@@ -137,7 +142,7 @@ Cuarto.- Plazo de presentación de solicitudes.
 1. El plazo para realizar la inscripción en los Premios Extraordinarios de Bachillerato 
 de la Comunidad Autónoma de Canarias será desde el 15 de mayo de 2026, día de la 
 entrega de las calificaciones finales del segundo curso de Bachillerato, al 15 de junio.
-2. De acuerdo con lo establecido en el artículo 68.1 de la Ley 39/2015, de 1 de octubre, 
+2. De acuerdo con lo establecido en el artículo 68.1 de la [Ley 39/2015](../../../estatal/01_marco_normativo_general_y_organico/L39_2015_procedimiento_administrativo_comun.md), de 1 de octubre, 
 del Procedimiento Administrativo Común de las Administraciones Públicas, la persona 
 interesada podrá subsanar la falta de documentos, si así se le requiriese, en un plazo de 
 diez días.

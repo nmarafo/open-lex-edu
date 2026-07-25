@@ -28,8 +28,12 @@ fundamentos_derecho:
   articulos:
   - '1'
   - '2.1'
+- norma_id: norm-es-1995-25444
+- norma_id: norm-es-lo-1-1996
+- norma_id: norm-es-lo-5-2000
+- norma_id: norm-es-1999-23750
 ---
-# Real Decreto 1774/2004, de 30 de julio, por el que se aprueba el Reglamento de la Ley Orgánica 5/2000, de 12 de enero, reguladora de la responsabilidad penal de los menores.
+# Real Decreto 1774/2004, de 30 de julio, por el que se aprueba el Reglamento de la [Ley Orgánica 5/2000](LO5_2000_responsabilidad_penal_menores.md), de 12 de enero, reguladora de la responsabilidad penal de los menores.
 
 La Ley Orgánica 5/2000, de 12 de enero, reguladora de la responsabilidad penal de los menores, en el apartado 24 de su exposición de motivos, prevé una regulación más extensa de algunos de sus aspectos en el reglamento que en su día se dicte en su desarrollo.
 
@@ -43,7 +47,7 @@ El capítulo II, rubricado "De la actuación de la Policía Judicial y del equip
 
 El capítulo III ("De las reglas para la ejecución de las medidas") se divide en tres secciones. La primera destinada a regular las reglas comunes; la segunda, a algunas medidas no privativas de libertad, y la tercera, a las medidas privativas de libertad.
 
-Las denominadas reglas comunes comprenden el establecimiento de los principios que deben inspirar la ejecución de las medidas y los derechos de los menores, con expresa mención en el último a los tratados internacionales ratificados por España (artículos 6 y 7) y la delimitación de la competencia de las Administraciones públicas para la ejecución de las medidas (artículos 8 a 11). Pero también regula el expediente personal del menor, único en la comunidad autónoma que ejecute la medida, de carácter reservado y sometido a la Ley Orgánica 15/1999, de 13 de diciembre, de Protección de Datos de Carácter Personal (artículo 12), así como los llamados "informes de seguimiento" que la entidad pública competente deberá remitir al juez de menores y al Ministerio Fiscal (artículo 13). Seguidamente, reglamenta la actuación de la entidad pública en los casos de incumplimiento de las medidas de internamiento y de permanencia de fin de semana en el centro o en el domicilio y otras medidas no privativas de libertad.
+Las denominadas reglas comunes comprenden el establecimiento de los principios que deben inspirar la ejecución de las medidas y los derechos de los menores, con expresa mención en el último a los tratados internacionales ratificados por España (artículos 6 y 7) y la delimitación de la competencia de las Administraciones públicas para la ejecución de las medidas (artículos 8 a 11). Pero también regula el expediente personal del menor, único en la comunidad autónoma que ejecute la medida, de carácter reservado y sometido a la [Ley Orgánica 15/1999](../02_gestion_y_administracion_centros/BOE_1999_23750_diciembre_protección_datos_carácter.md), de 13 de diciembre, de Protección de Datos de Carácter Personal (artículo 12), así como los llamados "informes de seguimiento" que la entidad pública competente deberá remitir al juez de menores y al Ministerio Fiscal (artículo 13). Seguidamente, reglamenta la actuación de la entidad pública en los casos de incumplimiento de las medidas de internamiento y de permanencia de fin de semana en el centro o en el domicilio y otras medidas no privativas de libertad.
 
 La sección concluye con un precepto que regula los casos en que el menor desee conciliarse con la víctima o reparar el daño causado. En estos casos, se encomiendan a la entidad pública las funciones de mediación.
 
@@ -125,7 +129,7 @@ Tanto los registros policiales como el registro central al que se refiere este a
 
 Para la práctica de la diligencia de reconocimiento, se utilizarán los medios que resulten menos dañinos a la integridad del menor, debiendo llevarse a cabo en las dependencias de los Grupos de Menores o en las sedes del Ministerio Fiscal o autoridad judicial competente. La rueda deberá estar compuesta por otras personas, menores o no, conforme a los requisitos de la Ley de Enjuiciamiento Criminal.
 
-Cuando la rueda esté compuesta por otros menores de edad, se deberá contar con su autorización y con la de sus representantes legales o guardadores de hecho o de derecho, a salvo el supuesto de los mayores de 16 años no emancipados y de los menores emancipados en que sea de aplicación lo dispuesto para las limitaciones a la declaración de voluntad de los menores en el artículo 2 de la Ley Orgánica 1/1996, de protección jurídica del menor.
+Cuando la rueda esté compuesta por otros menores de edad, se deberá contar con su autorización y con la de sus representantes legales o guardadores de hecho o de derecho, a salvo el supuesto de los mayores de 16 años no emancipados y de los menores emancipados en que sea de aplicación lo dispuesto para las limitaciones a la declaración de voluntad de los menores en el artículo 2 de la [Ley Orgánica 1/1996](LO1_1996_proteccion_juridica_menor.md), de protección jurídica del menor.
 
 #### Artículo 3. Modo de llevar a cabo la detención del menor.
 
@@ -253,7 +257,7 @@ Dichas entidades públicas llevarán a cabo, de acuerdo con sus respectivas norm
 
 2. Corresponde al Estado, en los establecimientos y con el control del personal especializado que ponga a disposición de la Audiencia Nacional, la ejecución de la detención preventiva, de las medidas cautelares de internamiento y de las medidas adoptadas en sentencia firme que, de conformidad con la disposición adicional cuarta de la Ley Orgánica 5/2000, de 12 de enero, reguladora de la responsabilidad penal de los menores, acuerden el Juzgado Central de Menores o la sala correspondiente de la Audiencia Nacional, sin perjuicio de los convenios que, en su caso, pueda establecer para dicha finalidad con las comunidades autónomas y las Ciudades de Ceuta y Melilla.
 
-3. Corresponde a las instituciones públicas que en el respectivo territorio tengan encomendada la ejecución de las medidas penales a las que alude el artículo 105.1 de la Ley Orgánica 10/1995, de 23 de noviembre, del Código Penal, la ejecución de la medida de libertad vigilada impuesta de conformidad con la regla 5.ª del artículo 9 y, en su caso, con el apartado 2.c) de la disposición adicional cuarta de la Ley Orgánica 5/2000, de 12 de enero, reguladora de la responsabilidad penal de los menores.
+3. Corresponde a las instituciones públicas que en el respectivo territorio tengan encomendada la ejecución de las medidas penales a las que alude el artículo 105.1 de la [Ley Orgánica 10/1995](BOE_1995_25444_noviembre_código_penal.md), de 23 de noviembre, del Código Penal, la ejecución de la medida de libertad vigilada impuesta de conformidad con la regla 5.ª del artículo 9 y, en su caso, con el apartado 2.c) de la disposición adicional cuarta de la Ley Orgánica 5/2000, de 12 de enero, reguladora de la responsabilidad penal de los menores.
 
 4. Las medidas de privación del permiso de conducir ciclomotores o vehículos a motor, o del derecho a obtenerlo, o de las licencias administrativas para caza o para cualquier tipo de armas y la inhabilitación absoluta, previstas en los párrafos m) y n) del artículo 7.1 de la Ley Orgánica 5/2000, de 12 de enero, reguladora de la responsabilidad penal de los menores, si no fueran ejecutadas directamente por el juez de menores, se ejecutarán por los órganos administrativos competentes por razón de la materia.
 

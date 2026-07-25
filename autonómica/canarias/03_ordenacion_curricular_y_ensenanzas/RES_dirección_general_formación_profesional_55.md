@@ -31,6 +31,13 @@ fundamentos_derecho:
   articulos:
   - '1'
 - norma_id: norm-es-lo-2-2006
+- norma_id: norm-can-d-84-2024
+- norma_id: norm-can-d-81-2010
+- norma_id: norm-can-o-2023-09-28
+- norma_id: norm-can-o-2013-10-09
+- norma_id: norm-es-2019-317
+- norma_id: norm-es-2021-20113
+- norma_id: norm-es-2010-12201
 fuente_pdf_oficial: https://sede.gobiernodecanarias.org/boc/boc-a-2025-134-2514.pdf
 ---
 # Resolución de 26 de junio de 2025, de la Dirección General de Formación Profesional y Enseñanzas de Régimen Especial, por la que se dictan instrucciones específicas complementarias para el curso 2025/2026 sobre organización, funcionamiento y calendario de las Enseñanzas de Idiomas de Régimen Especial impartidas en las Escuelas Oficiales de Idiomas de la Comunidad Autónoma de Canarias (BOC núm.134, de 8 de julio).
@@ -62,13 +69,13 @@ normativa general de organización, funcionamiento y calendario atendiendo a los
 propios de estas enseñanzas.
 A los anteriores hechos les son de aplicación los siguientes
 FUNDAMENTOS DE DERECHO
-Primero.- La Ley Orgánica 2/2006, de 3 de mayo, de Educación, establece los principios 
+Primero.- La [Ley Orgánica 2/2006](../../../estatal/01_marco_normativo_general_y_organico/LO2_2006_ley_organica_educacion.md), de 3 de mayo, de Educación, establece los principios 
 generales que deben regir el sistema educativo y la ordenación de las Enseñanzas de Idiomas 
 de Régimen Especial. Su Título V se centra en la participación, autonomía y gobierno de 
 los centros, y en su disposición adicional quinta se establece que las Administraciones 
 Educativas fijarán anualmente el calendario escolar, como parte del proceso de organización 
 de la actividad en los centros docentes.
-Segundo.- La Ley 6/2014, de 25 de julio, Canaria de Educación no Universitaria, 
+Segundo.- La [Ley 6/2014](../01_marco_normativo_general_y_organico/L6_2014_ley_canaria_educacion.md), de 25 de julio, Canaria de Educación no Universitaria, 
 dedica su Capítulo III a las enseñanzas de régimen especial, en el que establece que los 
 objetivos de estas enseñanzas, su organización y el acceso, la evaluación y la obtención 
 del título correspondiente se realizarán de acuerdo con lo recogido en la normativa básica 
@@ -76,17 +83,17 @@ del Estado. Además, en su artículo 35 se refiere a las Escuelas Oficiales de I
 regula aspectos básicos de las enseñanzas, tales como su finalidad y características, y la 
 certificación de idiomas.
 
-Tercero.- El Decreto 81/2010, de 8 de julio, por el que se aprueba el Reglamento 
+Tercero.- El [Decreto 81/2010](../04_organizacion_escolar_y_funcionamiento/D81_2010_reglamento_organico_centros.md), de 8 de julio, por el que se aprueba el Reglamento 
 Orgánico de los centros docentes públicos no universitarios de la Comunidad Autónoma 
 de Canarias, determina en su disposición adicional tercera, sobre centros de características 
 especiales, que las Escuelas Oficiales de Idiomas se regirán por su normativa específica y, 
 supletoriamente, por el reglamento aprobado por el citado decreto.
-Cuarto.- La Orden de 9 de octubre de 2013, por la que se desarrolla el Decreto 81/2010, 
+Cuarto.- La [Orden de 9 de octubre de 2013](../04_organizacion_escolar_y_funcionamiento/O9_10_2013_desarrollo_reglamento_organico_centros.md), por la que se desarrolla el Decreto 81/2010, 
 de 8 de julio, por el que se aprueba el Reglamento Orgánico de los centros docentes públicos 
 no universitarios de la Comunidad Autónoma de Canarias, en lo referente a su organización 
 y funcionamiento recoge que las Escuelas Oficiales de Idiomas se regirán por su normativa 
 específica y, supletoriamente, por lo establecido en la citada orden. Por su parte, la Orden 
-de 16 de julio de 2019 y la Orden de 28 de septiembre de 2023 modifican la citada Orden 
+de 16 de julio de 2019 y la [Orden de 28 de septiembre de 2023](../04_organizacion_escolar_y_funcionamiento/O28_9_2023_instrucciones_organizacion_funcionamiento_centros.md) modifican la citada Orden 
 de 9 de octubre de 2013 y establecen la jornada semanal del profesorado en los centros 
 en los que se imparten las enseñanzas de educación secundaria y educación superior no 
 universitaria.
@@ -100,7 +107,7 @@ régimen especial reguladas en diversos planes de estudios y las de este Real De
 el ámbito autonómico, por el Decreto 142/2018, de 8 de octubre, por el que se establece 
 la ordenación y el currículo de las enseñanzas y la certificación de idiomas de régimen 
 especial para la Comunidad Autónoma de Canarias.
-Sexto.- El Real Decreto 1/2019, de 11 de enero, por el que se establecen los principios 
+Sexto.- El [Real Decreto 1/2019](../../../estatal/03_ordenacion_curricular_y_ensenanzas/BOE_2019_317_enero_establecen_principios_básicos.md), de 11 de enero, por el que se establecen los principios 
 básicos comunes de evaluación aplicables a las pruebas de certificación oficial de los 
 niveles Intermedio B1, Intermedio B2, Avanzado C1, y Avanzado C2 de las enseñanzas de 
 idiomas de régimen especial establece el marco general para la elaboración de las pruebas 
@@ -140,7 +147,7 @@ Dirección General de Formación Profesional y Enseñanzas de Régimen Especial 
 instrucciones complementarias para las Escuelas Oficiales de Idiomas.
 Por todo lo expuesto, y de conformidad con lo establecido en el artículo 19 del Decreto 
 212/1991, de 11 de septiembre, de organización de los Departamentos de la Administración 
-Autonómica de Canarias, y en el artículo 20 del Decreto 84/2024, de 10 de junio, por el que 
+Autonómica de Canarias, y en el artículo 20 del [Decreto 84/2024](../01_marco_normativo_general_y_organico/D84_2024_reglamento_organico_consejeria.md), de 10 de junio, por el que 
 se aprueba el Reglamento Orgánico de la Consejería de Educación, Formación Profesional, 
 Actividad Física y Deportes que asigna competencias generales y específicas a la Dirección 
 General de Formación Profesional y Enseñanzas de Régimen Especial,

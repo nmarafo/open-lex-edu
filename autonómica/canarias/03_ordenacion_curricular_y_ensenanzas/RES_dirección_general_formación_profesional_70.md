@@ -31,6 +31,9 @@ fundamentos_derecho:
   articulos:
   - '1'
 - norma_id: norm-es-lo-2-2006
+- norma_id: norm-es-2021-20113
+- norma_id: norm-es-2007-10487
+- norma_id: norm-es-2010-12201
 fuente_pdf_oficial: https://sede.gobiernodecanarias.org/boc/boc-a-2017-220-5354.pdf
 ---
 # Resolución de 6 de noviembre de 2017, de la Dirección General de Formación Profesional y Educación de Adultos, por la que se dictan instrucciones para la organización y la evaluación de los módulos de obra final y de proyecto integrado de las enseñanzas profesionales de Artes Plásticas y Diseño en la Comunidad Autónoma de Canarias (BOC n.º 220, de 15 de noviembre).
@@ -62,10 +65,10 @@ evaluación de los módulos de Obra final y de Proyecto integrado en los ciclos 
 de las enseñanzas profesionales de artes plásticas y diseño en la Comunidad Autónoma de 
 Canarias.
 FUNDAMENTOS DE DERECHO
-Primero.- La Ley Orgánica 2/2006, de 3 de mayo, de Educación, modificada por la Ley 
+Primero.- La [Ley Orgánica 2/2006](../../../estatal/01_marco_normativo_general_y_organico/LO2_2006_ley_organica_educacion.md), de 3 de mayo, de Educación, modificada por la Ley 
 Orgánica 8/2013, de 9 de diciembre, para la Mejora de la calidad Educativa, establece en el 
 artículo 51 la organización de las enseñanzas profesionales de artes plásticas y diseño. 
-Segundo.- El Real Decreto 596/2007, de 4 de mayo, por el que se establece la ordenación 
+Segundo.- El [Real Decreto 596/2007](../../../estatal/05_alumnado_y_servicios_escolares/BOE_2007_10487_mayo_establece_ordenación_general.md), de 4 de mayo, por el que se establece la ordenación 
 general de las enseñanzas profesionales de artes plásticas y diseño (BOE nº 125, de 25 de 
 mayo), regula en su artículo 8 aspectos referidos a los módulos de Obra final y de Proyecto 
 integrado.

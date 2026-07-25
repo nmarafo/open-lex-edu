@@ -26,6 +26,7 @@ fundamentos_derecho:
 - norma_id: norm-es-ce-1978
   articulos:
   - '27'
+- norma_id: norm-es-lo-1-1982
 ---
 # Ley Orgánica 10/1995, de 23 de noviembre, del Código Penal.
 
@@ -5079,7 +5080,7 @@ l) De la infidelidad en la custodia de presos (artículo 471).»
 
 #### Disposición final cuarta.
 
-La Ley Orgánica 1/1982, de 5 de mayo, de Protección del Derecho al Honor, a la Intimidad Personal y Familiar y a la Propia Imagen, quedará modificada en los siguientes términos:
+La [Ley Orgánica 1/1982](LO1_1982_proteccion_honor_intimid_imagen.md), de 5 de mayo, de Protección del Derecho al Honor, a la Intimidad Personal y Familiar y a la Propia Imagen, quedará modificada en los siguientes términos:
 
 «Artículo 1.º
 

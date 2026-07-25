@@ -31,6 +31,17 @@ fundamentos_derecho:
 - norma_id: norm-es-ce-1978
   articulos:
   - 149.1.18
+- norma_id: norm-es-2007-19814
+- norma_id: norm-es-l-19-2013
+- norma_id: norm-es-l-39-2015
+- norma_id: norm-es-l-40-2015
+- norma_id: norm-es-l-53-1984
+- norma_id: norm-es-rdl-5-2015
+- norma_id: norm-es-1985-5392
+- norma_id: norm-es-1999-23750
+- norma_id: norm-es-2007-6115
+- norma_id: norm-es-2013-12632
+- norma_id: norm-es-rdl-2-2015
 ---
 # Ley 9/2017 de Contratos del Sector Público
 
@@ -1120,11 +1131,11 @@ Título III. Gestión de la publicidad contractual por medios electrónicos, inf
 
 #### Disposición final duodécima. Modificación del texto refundido de la Ley Reguladora de las Haciendas Locales, aprobado mediante Real Decreto Legislativo 2/2004, de 5 de marzo.
 
-#### Disposición final decimotercera. Modificación de la Ley 37/2007, de 16 de noviembre, sobre reutilización de la información del sector público.
+#### Disposición final decimotercera. Modificación de la [Ley 37/2007](../01_marco_normativo_general_y_organico/BOE_2007_19814_noviembre_sobre_reutilización_información.md), de 16 de noviembre, sobre reutilización de la información del sector público.
 
-#### Disposición final decimocuarta. Modificación del texto refundido de la Ley General de derechos de las personas con discapacidad y de su inclusión social, aprobado mediante Real Decreto Legislativo  1/2013, de 29 de noviembre.
+#### Disposición final decimocuarta. Modificación del texto refundido de la Ley General de derechos de las personas con discapacidad y de su inclusión social, aprobado mediante [Real Decreto Legislativo  1/2013](../07_convivencia_bienestar_y_protocolos/BOE_2013_12632_noviembre_aprueba_texto_refundido.md), de 29 de noviembre.
 
-#### Disposición final decimoquinta. Modificación de la Ley 40/2015, de 1 de octubre, de Régimen Jurídico del Sector Público.
+#### Disposición final decimoquinta. Modificación de la [Ley 40/2015](../01_marco_normativo_general_y_organico/L40_2015_regimen_juridico_sector_publico.md), de 1 de octubre, de Régimen Jurídico del Sector Público.
 
 #### Disposición final decimosexta. Entrada en vigor.
 
@@ -2076,7 +2087,7 @@ c) En aquellos casos en que la invalidez derive de la ilegalidad de su clausulad
 
 #### Artículo 39. Causas de nulidad de derecho administrativo.
 
-1. Son causas de nulidad de derecho administrativo las indicadas en el artículo 47 de la Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común de las Administraciones Públicas.
+1. Son causas de nulidad de derecho administrativo las indicadas en el artículo 47 de la [Ley 39/2015](../01_marco_normativo_general_y_organico/L39_2015_procedimiento_administrativo_comun.md), de 1 de octubre, del Procedimiento Administrativo Común de las Administraciones Públicas.
 
 2. Serán igualmente nulos de pleno derecho los contratos celebrados por poderes adjudicadores en los que concurra alguna de las causas siguientes:
 
@@ -2100,7 +2111,7 @@ g) El incumplimiento grave de normas de derecho de la Unión Europea en materia 
 
 #### Artículo 40. Causas de anulabilidad de derecho administrativo.
 
-Son causas de anulabilidad de derecho administrativo las demás infracciones del ordenamiento jurídico y, en especial, las de las reglas contenidas en la presente Ley, de conformidad con lo establecido en el artículo 48 de la Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común de las Administraciones Públicas.
+Son causas de anulabilidad de derecho administrativo las demás infracciones del ordenamiento jurídico y, en especial, las de las reglas contenidas en la presente Ley, de conformidad con lo establecido en el artículo 48 de la [Ley 39/2015](../01_marco_normativo_general_y_organico/L39_2015_procedimiento_administrativo_comun.md), de 1 de octubre, del Procedimiento Administrativo Común de las Administraciones Públicas.
 
 En particular, se incluyen entre las causas de anulabilidad a las que se refiere el párrafo anterior, las siguientes:
 
@@ -2190,7 +2201,7 @@ En el caso de actuaciones realizadas por poderes adjudicadores que no tengan la 
 
 3. El Presidente del Tribunal deberá ser funcionario de carrera, de cuerpo o escala para cuyo acceso sea requisito necesario el título de licenciado o grado en derecho y haber desempeñado su actividad profesional por tiempo superior a quince años, preferentemente en el ámbito del derecho administrativo relacionado directamente con la contratación pública.
 
-En el caso de que los Vocales o el Presidente fueran designados entre funcionarios de carrera incluidos en el ámbito de aplicación del Real Decreto Legislativo 5/2015, de 30 de octubre, por el que se aprueba el texto refundido de la Ley del Estatuto Básico del Empleado Público, estos deberán pertenecer a cuerpos o escalas clasificados en el Subgrupo A1 del artículo 76 de dicha Ley.
+En el caso de que los Vocales o el Presidente fueran designados entre funcionarios de carrera incluidos en el ámbito de aplicación del [Real Decreto Legislativo 5/2015](../01_marco_normativo_general_y_organico/RD5_2015_estatuto_basico_empleado_publico.md), de 30 de octubre, por el que se aprueba el texto refundido de la Ley del Estatuto Básico del Empleado Público, estos deberán pertenecer a cuerpos o escalas clasificados en el Subgrupo A1 del artículo 76 de dicha Ley.
 
 4. La designación del Presidente y los Vocales de este Tribunal se realizará por el Gobierno a propuesta conjunta del Ministro de Hacienda y Función Pública y del Ministro de Justicia. Los designados tendrán carácter independiente e inamovible, y no podrán ser removidos de sus puestos sino por las causas siguientes:
 
@@ -2232,7 +2243,7 @@ El nombramiento del Secretario General y el del personal integrante de los servi
 
 En el supuesto de que no exista previsión expresa en la legislación autonómica y sin perjuicio de lo dispuesto en el párrafo siguiente, la competencia para resolver los recursos corresponderá al mismo órgano al que las Comunidades Autónomas en cuyo territorio se integran las Corporaciones Locales hayan atribuido la competencia para resolver los recursos de su ámbito.
 
-En todo caso, los Ayuntamientos de los municipios de gran población a los que se refiere el artículo 121 de la Ley 7/1985, de 2 de abril, Reguladora de las Bases del Régimen Local, y las Diputaciones Provinciales podrán crear un órgano especializado y funcionalmente independiente que ostentará la competencia para resolver los recursos. Su constitución y funcionamiento y los requisitos que deben reunir sus miembros, su nombramiento, remoción y la duración de su mandato se regirá por lo que establezca la legislación autonómica, o, en su defecto, por lo establecido en el artículo 45 de esta Ley. El Pleno de la Corporación será el competente para acordar su creación y nombrar y remover a sus miembros. El resto de los Ayuntamientos podrán atribuir la competencia para resolver el recurso al órgano creado por la Diputación de la provincia a la que pertenezcan.
+En todo caso, los Ayuntamientos de los municipios de gran población a los que se refiere el artículo 121 de la [Ley 7/1985](BOE_1985_5392_abril_reguladora_bases_régimen.md), de 2 de abril, Reguladora de las Bases del Régimen Local, y las Diputaciones Provinciales podrán crear un órgano especializado y funcionalmente independiente que ostentará la competencia para resolver los recursos. Su constitución y funcionamiento y los requisitos que deben reunir sus miembros, su nombramiento, remoción y la duración de su mandato se regirá por lo que establezca la legislación autonómica, o, en su defecto, por lo establecido en el artículo 45 de esta Ley. El Pleno de la Corporación será el competente para acordar su creación y nombrar y remover a sus miembros. El resto de los Ayuntamientos podrán atribuir la competencia para resolver el recurso al órgano creado por la Diputación de la provincia a la que pertenezcan.
 
 5. En lo relativo a la contratación en el ámbito de los Territorios Históricos Forales, la competencia para resolver los recursos podrá corresponder a los órganos y Tribunales administrativos forales de Recursos Contractuales.
 
@@ -2582,7 +2593,7 @@ b) Haber sido sancionadas con carácter firme por infracción grave en materia p
 
 c) Haber solicitado la declaración de concurso voluntario, haber sido declaradas insolventes en cualquier procedimiento, hallarse declaradas en concurso, salvo que en este haya adquirido eficacia un convenio o se haya iniciado un expediente de acuerdo extrajudicial de pagos, estar sujetos a intervención judicial o haber sido inhabilitados conforme a la Ley 22/2003, de 9 de julio, Concursal, sin que haya concluido el período de inhabilitación fijado en la sentencia de calificación del concurso.
 
-d) No hallarse al corriente en el cumplimiento de las obligaciones tributarias o de Seguridad Social impuestas por las disposiciones vigentes, en los términos que reglamentariamente se determinen; o en el caso de empresas de 50 o más trabajadores, no cumplir el requisito de que al menos el 2 por ciento de sus empleados sean trabajadores con discapacidad, de conformidad con el artículo 42 del Real Decreto Legislativo 1/2013, de 29 de noviembre, por el que se aprueba el texto refundido de la Ley General de derechos de las personas con discapacidad y de su inclusión social, en las condiciones que reglamentariamente se determinen; o en el caso de empresas de más de 250 trabajadores, no cumplir con la obligación de contar con un plan de igualdad conforme a lo dispuesto en el artículo 45 de la Ley Orgánica 3/2007, de 22 de marzo, para la igualdad de mujeres y hombres.
+d) No hallarse al corriente en el cumplimiento de las obligaciones tributarias o de Seguridad Social impuestas por las disposiciones vigentes, en los términos que reglamentariamente se determinen; o en el caso de empresas de 50 o más trabajadores, no cumplir el requisito de que al menos el 2 por ciento de sus empleados sean trabajadores con discapacidad, de conformidad con el artículo 42 del [Real Decreto Legislativo 1/2013](../07_convivencia_bienestar_y_protocolos/BOE_2013_12632_noviembre_aprueba_texto_refundido.md), de 29 de noviembre, por el que se aprueba el texto refundido de la Ley General de derechos de las personas con discapacidad y de su inclusión social, en las condiciones que reglamentariamente se determinen; o en el caso de empresas de más de 250 trabajadores, no cumplir con la obligación de contar con un plan de igualdad conforme a lo dispuesto en el artículo 45 de la [Ley Orgánica 3/2007](../07_convivencia_bienestar_y_protocolos/BOE_2007_6115_marzo_para_igualdad_efectiva.md), de 22 de marzo, para la igualdad de mujeres y hombres.
 
 En relación con el cumplimiento de sus obligaciones tributarias o con la Seguridad Social, se considerará que las empresas se encuentran al corriente en el mismo cuando las deudas estén aplazadas, fraccionadas o se hubiera acordado su suspensión con ocasión de la impugnación de tales deudas.
 
@@ -2596,7 +2607,7 @@ f) Estar afectado por una prohibición de contratar impuesta en virtud de sanci�
 
 La presente causa de prohibición de contratar dejará de aplicarse cuando el órgano de contratación, en aplicación de lo dispuesto en el artículo 72.1, compruebe que la empresa ha cumplido sus obligaciones de pago o celebrado un acuerdo vinculante con vistas al pago de las cantidades adeudadas, incluidos en su caso los intereses acumulados o las multas impuestas.
 
-g) Estar incursa la persona física o los administradores de la persona jurídica en alguno de los supuestos de la Ley 3/2015, de 30 de marzo, reguladora del ejercicio del alto cargo de la Administración General del Estado o las respectivas normas de las Comunidades Autónomas, de la Ley 53/1984, de 26 de diciembre, de Incompatibilidades del Personal al Servicio de las Administraciones Públicas o tratarse de cualquiera de los cargos electivos regulados en la Ley Orgánica 5/1985, de 19 de junio, del Régimen Electoral General, en los términos establecidos en la misma.
+g) Estar incursa la persona física o los administradores de la persona jurídica en alguno de los supuestos de la Ley 3/2015, de 30 de marzo, reguladora del ejercicio del alto cargo de la Administración General del Estado o las respectivas normas de las Comunidades Autónomas, de la [Ley 53/1984](../01_marco_normativo_general_y_organico/L53_1984_incompatibilidades_personal_publico.md), de 26 de diciembre, de Incompatibilidades del Personal al Servicio de las Administraciones Públicas o tratarse de cualquiera de los cargos electivos regulados en la Ley Orgánica 5/1985, de 19 de junio, del Régimen Electoral General, en los términos establecidos en la misma.
 
 La prohibición alcanzará a las personas jurídicas en cuyo capital participen, en los términos y cuantías establecidas en la legislación citada, el personal y los altos cargos a que se refiere el párrafo anterior, así como los cargos electos al servicio de las mismas.
 
@@ -3638,7 +3649,7 @@ Cuando la empresa que viniese efectuando la prestación objeto del contrato a ad
 
 5. En el caso de que una vez producida la subrogación los costes laborales fueran superiores a los que se desprendieran de la información facilitada por el antiguo contratista al órgano de contratación, el contratista tendrá acción directa contra el antiguo contratista.
 
-6. Asimismo, y sin perjuicio de la aplicación, en su caso, de lo establecido en el artículo 44 del texto refundido de la Ley del Estatuto de los Trabajadores, aprobado por Real Decreto Legislativo 2/2015, de 23 de octubre, el pliego de cláusulas administrativas particulares siempre contemplará la obligación del contratista de responder de los salarios impagados a los trabajadores afectados por subrogación, así como de las cotizaciones a la Seguridad social devengadas, aún en el supuesto de que se resuelva el contrato y aquellos sean subrogados por el nuevo contratista, sin que en ningún caso dicha obligación corresponda a este último. En este caso, la Administración, una vez acreditada la falta de pago de los citados salarios, procederá a la retención de las cantidades debidas al contratista para garantizar el pago de los citados salarios, y a la no devolución de la garantía definitiva en tanto no se acredite el abono de éstos.
+6. Asimismo, y sin perjuicio de la aplicación, en su caso, de lo establecido en el artículo 44 del texto refundido de la Ley del Estatuto de los Trabajadores, aprobado por [Real Decreto Legislativo 2/2015](../09_personal_laboral_y_no_docente/RDL2_2015_estatuto_trabajadores.md), de 23 de octubre, el pliego de cláusulas administrativas particulares siempre contemplará la obligación del contratista de responder de los salarios impagados a los trabajadores afectados por subrogación, así como de las cotizaciones a la Seguridad social devengadas, aún en el supuesto de que se resuelva el contrato y aquellos sean subrogados por el nuevo contratista, sin que en ningún caso dicha obligación corresponda a este último. En este caso, la Administración, una vez acreditada la falta de pago de los citados salarios, procederá a la retención de las cantidades debidas al contratista para garantizar el pago de los citados salarios, y a la no devolución de la garantía definitiva en tanto no se acredite el abono de éstos.
 
 Sección 2.ª De la adjudicación de los contratos de las Administraciones Públicas
 
@@ -3676,7 +3687,7 @@ En ningún caso podrá limitarse la participación por la forma jurídica o el �
 
 El deber de confidencialidad del órgano de contratación así como de sus servicios dependientes no podrá extenderse a todo el contenido de la oferta del adjudicatario ni a todo el contenido de los informes y documentación que, en su caso, genere directa o indirectamente el órgano de contratación en el curso del procedimiento de licitación. Únicamente podrá extenderse a documentos que tengan una difusión restringida, y en ningún caso a documentos que sean públicamente accesibles.
 
-El deber de confidencialidad tampoco podrá impedir la divulgación pública de partes no confidenciales de los contratos celebrados, tales como, en su caso, la liquidación, los plazos finales de ejecución de la obra, las empresas con las que se ha contratado y subcontratado, y, en todo caso, las partes esenciales de la oferta y las modificaciones posteriores del contrato, respetando en todo caso lo dispuesto en la Ley Orgánica 15/1999, de 13 de diciembre, de Protección de Datos de Carácter Personal.
+El deber de confidencialidad tampoco podrá impedir la divulgación pública de partes no confidenciales de los contratos celebrados, tales como, en su caso, la liquidación, los plazos finales de ejecución de la obra, las empresas con las que se ha contratado y subcontratado, y, en todo caso, las partes esenciales de la oferta y las modificaciones posteriores del contrato, respetando en todo caso lo dispuesto en la [Ley Orgánica 15/1999](BOE_1999_23750_diciembre_protección_datos_carácter.md), de 13 de diciembre, de Protección de Datos de Carácter Personal.
 
 2. El contratista deberá respetar el carácter confidencial de aquella información a la que tenga acceso con ocasión de la ejecución del contrato a la que se le hubiese dado el referido carácter en los pliegos o en el contrato, o que por su propia naturaleza deba ser tratada como tal. Este deber se mantendrá durante un plazo de cinco años desde el conocimiento de esa información, salvo que los pliegos o el contrato establezcan un plazo mayor que, en todo caso, deberá ser definido y limitado en el tiempo.
 
@@ -4188,7 +4199,7 @@ Los anuncios de formalización no se publicarán en los lugares indicados en los
 
 7. Podrán no publicarse determinados datos relativos a la celebración del contrato cuando se considere, justificándose debidamente en el expediente, que la divulgación de esa información puede obstaculizar la aplicación de una norma, resultar contraria al interés público o perjudicar intereses comerciales legítimos de empresas públicas o privadas o la competencia leal entre ellas, o cuando se trate de contratos declarados secretos o reservados o cuya ejecución deba ir acompañada de medidas de seguridad especiales conforme a la legislación vigente, o cuando lo exija la protección de los intereses esenciales de la seguridad del Estado y así se haya declarado de conformidad con lo previsto en la letra c) del apartado 2 del artículo 19.
 
-En todo caso, previa la decisión de no publicar unos determinados datos relativos a la celebración del contrato, los órganos de contratación deberán solicitar la emisión de informe por el Consejo de Transparencia y Buen Gobierno a que se refiere la Ley 19/2013, de 9 de diciembre, de transparencia, acceso a la información pública y buen gobierno, en el que se aprecie si el derecho de acceso a la información pública prevalece o no frente a los bienes que se pretenden salvaguardar con su no publicación, que será evacuado en un plazo máximo de diez días.
+En todo caso, previa la decisión de no publicar unos determinados datos relativos a la celebración del contrato, los órganos de contratación deberán solicitar la emisión de informe por el Consejo de Transparencia y Buen Gobierno a que se refiere la [Ley 19/2013](../01_marco_normativo_general_y_organico/L19_2013_transparencia_buen_gobierno.md), de 9 de diciembre, de transparencia, acceso a la información pública y buen gobierno, en el que se aprecie si el derecho de acceso a la información pública prevalece o no frente a los bienes que se pretenden salvaguardar con su no publicación, que será evacuado en un plazo máximo de diez días.
 
 No obstante lo anterior, no se requerirá dicho informe por el Consejo de Transparencia y Buen Gobierno en caso de que con anterioridad se hubiese efectuado por el órgano de contratación consulta sobre una materia idéntica o análoga, sin perjuicio de la justificación debida de su exclusión en el expediente en los términos establecidos en este apartado.
 

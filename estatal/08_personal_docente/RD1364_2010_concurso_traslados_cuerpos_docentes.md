@@ -48,10 +48,15 @@ fundamentos_derecho:
 - norma_id: norm-es-rdl-5-2015
   articulos:
   - '1'
+- norma_id: norm-es-1984-17387
+- norma_id: norm-es-2021-20113
+- norma_id: norm-es-2010-12201
+- norma_id: norm-es-1995-22212
+- norma_id: norm-es-1998-10720
 ---
 # Real Decreto 1364/2010 - Concurso de Traslados Estatal Docente
 
-La Ley Orgánica 2/2006, de 3 de mayo, de Educación, tiene como objetivo esencial la exigencia de proporcionar una educación de calidad para todos y entre todos. Según se señala en su preámbulo, uno de sus principios orientadores se refiere a la necesidad de que todos los componentes de la comunidad educativa colaboren para conseguir ese objetivo, indicando expresamente que las políticas dirigidas al profesorado constituyen uno de los elementos más valiosos y decisivos a la hora de lograr la eficacia y la eficiencia de los sistemas de educación y de formación.
+La [Ley Orgánica 2/2006](../01_marco_normativo_general_y_organico/LO2_2006_ley_organica_educacion.md), de 3 de mayo, de Educación, tiene como objetivo esencial la exigencia de proporcionar una educación de calidad para todos y entre todos. Según se señala en su preámbulo, uno de sus principios orientadores se refiere a la necesidad de que todos los componentes de la comunidad educativa colaboren para conseguir ese objetivo, indicando expresamente que las políticas dirigidas al profesorado constituyen uno de los elementos más valiosos y decisivos a la hora de lograr la eficacia y la eficiencia de los sistemas de educación y de formación.
 
 El artículo 2.3 de la Ley 7/2007, de 12 de abril, del Estatuto Básico del Empleado Público, determina que el personal docente se regirá por la legislación específica dictada por el Estado y por las Comunidades Autónomas en el ámbito de sus respectivas competencias y por lo previsto en dicho Estatuto, con las excepciones recogidas en dicho artículo 2.3.
 
@@ -375,7 +380,7 @@ e) Que se emita informe previo favorable por la unidad administrativa de la que 
 
 #### Disposición transitoria segunda. Profesores Técnicos de Formación Profesional.
 
-El personal funcionario del Cuerpo de Profesores Técnicos de Formación Profesional que, en virtud de lo establecido en las disposiciones transitoria primera del Real Decreto 1701/1991, de 29 de noviembre, transitorias segunda y quinta del Real Decreto 1635/1995, de 6 de octubre y en la transitoria tercera del Real Decreto 777/1998, de 30 de abril, a la entrada en vigor de la Ley Orgánica 2/2006, de 3 de mayo, de Educación, tuviera un destino definitivo en plazas o puestos correspondientes a especialidades del Cuerpo de Profesores de Enseñanza Secundaria, en el supuesto de que, a través de los procedimientos selectivos de acceso convocados por las distintas Administraciones educativas, accediera al citado Cuerpo podrá permanecer en su mismo destino en los términos que se establezcan en las respectivas convocatorias, siempre y cuando la especialidad de acceso se corresponda con la de la plaza o puesto que desempeña con carácter definitivo.
+El personal funcionario del Cuerpo de Profesores Técnicos de Formación Profesional que, en virtud de lo establecido en las disposiciones transitoria primera del Real Decreto 1701/1991, de 29 de noviembre, transitorias segunda y quinta del [Real Decreto 1635/1995](BOE_1995_22212_octubre_adscribe_profesorado_cuerpos.md), de 6 de octubre y en la transitoria tercera del [Real Decreto 777/1998](BOE_1998_10720_abril_desarrollan_determinados_aspectos.md), de 30 de abril, a la entrada en vigor de la Ley Orgánica 2/2006, de 3 de mayo, de Educación, tuviera un destino definitivo en plazas o puestos correspondientes a especialidades del Cuerpo de Profesores de Enseñanza Secundaria, en el supuesto de que, a través de los procedimientos selectivos de acceso convocados por las distintas Administraciones educativas, accediera al citado Cuerpo podrá permanecer en su mismo destino en los términos que se establezcan en las respectivas convocatorias, siempre y cuando la especialidad de acceso se corresponda con la de la plaza o puesto que desempeña con carácter definitivo.
 
 #### Disposición transitoria tercera. Personal funcionario transferido.
 
@@ -589,7 +594,7 @@ Cuando este personal funcionario participe por primera vez con carácter volunta
 
 Las fracciones de año se computarán a razón de 0,1666 puntos por cada mes completo.
 
-A los efectos de determinar la antigüedad en estos cuerpos se reconocerán los servicios efectivos prestados como personal funcionario de carrera en los cuerpos de Inspectores de procedencia y los prestados desde la fecha de acceso como docentes a la función inspectora de conformidad con la disposición adicional decimoquinta de la Ley 30/1984, de 2 de agosto, de Medidas para la Reforma de la Función Pública.
+A los efectos de determinar la antigüedad en estos cuerpos se reconocerán los servicios efectivos prestados como personal funcionario de carrera en los cuerpos de Inspectores de procedencia y los prestados desde la fecha de acceso como docentes a la función inspectora de conformidad con la disposición adicional decimoquinta de la [Ley 30/1984](../01_marco_normativo_general_y_organico/BOE_1984_17387_agosto_medidas_para_reforma.md), de 2 de agosto, de Medidas para la Reforma de la Función Pública.
 
 1.3.2 Por cada año de servicios efectivos prestados en situación de servicio activo como personal funcionario de carrera en otros cuerpos docentes a los que se refiere la LOE: 1.0000 punto.
 

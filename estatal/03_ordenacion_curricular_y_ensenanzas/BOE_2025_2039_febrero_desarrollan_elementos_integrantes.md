@@ -43,10 +43,19 @@ fundamentos_derecho:
 - norma_id: norm-es-l-39-2015
   articulos:
   - '1'
+- norma_id: norm-can-res-boc-2024-230-25
+- norma_id: norm-can-res-134
+- norma_id: norm-es-lo-2-2006
+- norma_id: norm-es-lo-3-2018
+- norma_id: norm-es-2002-12018
+- norma_id: norm-es-2021-20113
+- norma_id: norm-es-lo-3-2022
+- norma_id: norm-es-rd-659-2023
+- norma_id: norm-es-2010-12201
 ---
 # Real Decreto 69/2025, de 4 de febrero, por el que se desarrollan los elementos integrantes y los instrumentos de gestión del Sistema Nacional de Formación Profesional, y se modifica el Real Decreto 375/1999, de 5 de marzo, por el que se crea el Instituto Nacional de las Cualificaciones.
 
-La Ley Orgánica 3/2022, de 31 de marzo, de ordenación e integración de la Formación Profesional, pretende una transformación global del Sistema de Formación Profesional, a través de un sistema único e integrado de formación profesional, con la finalidad de regular un régimen de formación y acompañamiento profesionales que, sirviendo al fortalecimiento, la competitividad y la sostenibilidad de la economía española, sea capaz de responder con flexibilidad a los intereses, las expectativas y las aspiraciones de cualificación profesional de las personas a lo largo de su vida y a las competencias demandadas por las nuevas necesidades productivas y sectoriales tanto para el aumento de la productividad como para la generación de empleo.
+La [Ley Orgánica 3/2022](../../autonómica/canarias/08_personal_docente/RES_dirección_general_personal_sobre_134.md), de 31 de marzo, de ordenación e integración de la Formación Profesional, pretende una transformación global del Sistema de Formación Profesional, a través de un sistema único e integrado de formación profesional, con la finalidad de regular un régimen de formación y acompañamiento profesionales que, sirviendo al fortalecimiento, la competitividad y la sostenibilidad de la economía española, sea capaz de responder con flexibilidad a los intereses, las expectativas y las aspiraciones de cualificación profesional de las personas a lo largo de su vida y a las competencias demandadas por las nuevas necesidades productivas y sectoriales tanto para el aumento de la productividad como para la generación de empleo.
 
 La función del Sistema de Formación Profesional es el desarrollo personal y profesional de la persona, la mejora continuada de su cualificación a lo largo de toda la vida y la garantía de la satisfacción de las necesidades formativas del sistema productivo y del empleo.
 
@@ -54,7 +63,7 @@ El artículo 5 de la Ley Orgánica 3/2022, de 31 de marzo, establece que el S
 
 El marco jurídico establecido en la Ley Orgánica 3/2022, de 31 de marzo, requiere el correspondiente desarrollo reglamentario para facilitar, de manera predecible, la progresiva adaptación del Sistema de Formación Profesional a las exigencias y las necesidades del país, y a lo establecido en la propia norma, asegurando coherencia entre ellos y sinergias para alcanzar el objetivo de una cualificación profesional permanente de calidad.
 
-En este marco, parte de los objetivos de dicha ley orgánica han sido desarrollados por el Real Decreto 659/2023, de 18 de julio, por el que se desarrolla la ordenación del Sistema de Formación Profesional, con la salvedad de los aspectos relacionados con los elementos integrantes y los instrumentos de Gestión del Sistema de Formación Profesional desarrollados en este real decreto.
+En este marco, parte de los objetivos de dicha ley orgánica han sido desarrollados por el [Real Decreto 659/2023](../../autonómica/canarias/03_ordenacion_curricular_y_ensenanzas/RES_dirección_general_formación_profesional_25.md), de 18 de julio, por el que se desarrolla la ordenación del Sistema de Formación Profesional, con la salvedad de los aspectos relacionados con los elementos integrantes y los instrumentos de Gestión del Sistema de Formación Profesional desarrollados en este real decreto.
 
 La Ley Orgánica 3/2022, de 31 de marzo, define en el capítulo II del título I los elementos integrantes del Sistema de Formación Profesional.
 
@@ -72,7 +81,7 @@ Con base a lo establecido en la disposición final octava de la Ley Orgánica 3
 
 Igualmente, esta norma adapta el Real Decreto 375/1999, de 5 de marzo, por el que se crea el Instituto Nacional de las Cualificaciones, a los cambios derivados de la Ley Orgánica 3/2022, de 31 de marzo, en lo que atañe a la creación y fines, a las funciones y a la estructura orgánica y funcional.
 
-Este real decreto se ajusta a los principios de buena regulación contenidos en el artículo 129 de la Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común de las Administraciones Públicas, principios de necesidad, eficacia, proporcionalidad, seguridad jurídica, transparencia y eficiencia. La norma es necesaria y eficaz en tanto que la misma persigue un interés general al facilitar el carácter integrado y la adecuación entre la formación profesional y el mercado laboral, así como la formación a lo largo de la vida, la movilidad de los trabajadores y la unidad del mercado laboral, así mismo, permite una gestión más eficiente de los recursos públicos. Cumple con los principios de proporcionalidad, seguridad jurídica y eficiencia en la medida en que no supone restricción alguna de derechos, resulta coherente con el ordenamiento jurídico y no afecta a las cargas administrativas. Del mismo modo, durante el procedimiento de elaboración de la norma se ha permitido la participación activa de los potenciales destinatarios a través del trámite de audiencia e información pública y quedan justificados los objetivos que persigue la ley, respetándose así el principio de transparencia.
+Este real decreto se ajusta a los principios de buena regulación contenidos en el artículo 129 de la [Ley 39/2015](../01_marco_normativo_general_y_organico/L39_2015_procedimiento_administrativo_comun.md), de 1 de octubre, del Procedimiento Administrativo Común de las Administraciones Públicas, principios de necesidad, eficacia, proporcionalidad, seguridad jurídica, transparencia y eficiencia. La norma es necesaria y eficaz en tanto que la misma persigue un interés general al facilitar el carácter integrado y la adecuación entre la formación profesional y el mercado laboral, así como la formación a lo largo de la vida, la movilidad de los trabajadores y la unidad del mercado laboral, así mismo, permite una gestión más eficiente de los recursos públicos. Cumple con los principios de proporcionalidad, seguridad jurídica y eficiencia en la medida en que no supone restricción alguna de derechos, resulta coherente con el ordenamiento jurídico y no afecta a las cargas administrativas. Del mismo modo, durante el procedimiento de elaboración de la norma se ha permitido la participación activa de los potenciales destinatarios a través del trámite de audiencia e información pública y quedan justificados los objetivos que persigue la ley, respetándose así el principio de transparencia.
 
 En la tramitación de este real decreto se han cumplido los trámites establecidos en la Ley 50/1997, de 27 de noviembre, del Gobierno y en la Ley 39/2015, de 1 de octubre. Han sido consultadas las comunidades autónomas, ha emitido dictamen el Consejo Escolar del Estado y han informado el Consejo General de la Formación Profesional y el Ministerio de Política Territorial y Memoria Democrática.
 
@@ -322,7 +331,7 @@ Registro Estatal de Formación Profesional
 
 1. El Registro Estatal de Formación Profesional es un registro administrativo electrónico dependiente del Ministerio de Educación, Formación Profesional y Deportes que incluirá todos los títulos, certificados y acreditaciones del sistema de formación profesional que respondan a una acción formativa del Catálogo Nacional de Ofertas de Formación Profesional.
 
-2. El Registro Estatal de Formación Profesional estará debidamente interconectado con el Registro Estatal de Acreditaciones de Competencias Profesionales Adquiridas por Experiencia Laboral o Vías No Formales e Informales y con el Registro Central de Títulos no universitarios regulado por el Real Decreto 1850/2009, de 4 de diciembre, sobre expedición de títulos y certificaciones académicas y profesionales correspondientes a las enseñanzas establecidas por la Ley Orgánica 2/2006, de 3 de mayo, de Educación.
+2. El Registro Estatal de Formación Profesional estará debidamente interconectado con el Registro Estatal de Acreditaciones de Competencias Profesionales Adquiridas por Experiencia Laboral o Vías No Formales e Informales y con el Registro Central de Títulos no universitarios regulado por el Real Decreto 1850/2009, de 4 de diciembre, sobre expedición de títulos y certificaciones académicas y profesionales correspondientes a las enseñanzas establecidas por la [Ley Orgánica 2/2006](../01_marco_normativo_general_y_organico/LO2_2006_ley_organica_educacion.md), de 3 de mayo, de Educación.
 
 3. Los datos del registro serán objeto de tratamiento automatizado con sujeción a las medidas de seguridad previstas en la normativa sobre protección de datos de carácter personal.
 
@@ -478,7 +487,7 @@ n) Ofertas del Sistema de Formación Profesional autorizadas, sobre las que se
 
 4. El Registro General de Centros de Formación Profesional mantendrá una versión pública que permitirá la consulta a la ciudadanía.
 
-5. Los centros inscritos en el Registro General de Centros de Formación Profesional podrán solicitar la rectificación de los datos recogidos, bien a través de los registros autonómicos, o bien directamente, en los términos establecidos en la Ley Orgánica 3/2018, de 5 de diciembre, de Protección de Datos Personales y garantía de los derechos digitales.
+5. Los centros inscritos en el Registro General de Centros de Formación Profesional podrán solicitar la rectificación de los datos recogidos, bien a través de los registros autonómicos, o bien directamente, en los términos establecidos en la [Ley Orgánica 3/2018](../02_gestion_y_administracion_centros/LO3_2018_proteccion_datos_personales.md), de 5 de diciembre, de Protección de Datos Personales y garantía de los derechos digitales.
 
 #### Disposición adicional primera. Unidades de competencia.
 
@@ -558,7 +567,7 @@ El responsable del tratamiento garantizará la aplicación de las medidas de seg
 
 1. Queda derogado el Real Decreto 1128/2003, de 5 de septiembre. Las normas establecidas al amparo de dicho real decreto mantendrán en todo su vigencia, salvo en aquellos aspectos que sean incompatibles con la regulación proyectada en este real decreto o la Ley Orgánica 3/2022, de 31 de marzo.
 
-2. Queda derogado el Real Decreto 817/2014, de 26 de septiembre, por el que se establecen los aspectos puntuales de las cualificaciones profesionales para cuya modificación, procedimiento de aprobación y efectos es de aplicación el artículo 7.3 de la Ley Orgánica 5/2002, de 19 de junio.
+2. Queda derogado el Real Decreto 817/2014, de 26 de septiembre, por el que se establecen los aspectos puntuales de las cualificaciones profesionales para cuya modificación, procedimiento de aprobación y efectos es de aplicación el artículo 7.3 de la [Ley Orgánica 5/2002](BOE_2002_12018_junio_cualificaciones_formación_profesional.md), de 19 de junio.
 
 3. Queda derogada la Orden PCI/18/2020, de 10 de enero, por la que se establece el Reglamento del Observatorio Profesional del Instituto Nacional de las Cualificaciones y se determinan las condiciones para el registro y reconocimiento de las entidades colaboradoras del Instituto Nacional de las Cualificaciones.
 

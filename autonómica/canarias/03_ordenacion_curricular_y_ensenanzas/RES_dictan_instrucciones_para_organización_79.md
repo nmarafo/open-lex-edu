@@ -83,7 +83,7 @@ En su artículo 16, en relación con el 21, se establecen instrucciones respecto
 formativo específico y las disposiciones comunes para los cursos y las pruebas de acceso, 
 y específicamente en su apartado 5 se concreta que “las Administraciones educativas 
 determinarán los centros públicos que podrán impartir estos cursos”.
-Tercero.- La Ley 6/2014 Canaria de Educación no universitaria establece en su artículo 
+Tercero.- La [Ley 6/2014](../01_marco_normativo_general_y_organico/L6_2014_ley_canaria_educacion.md) Canaria de Educación no universitaria establece en su artículo 
 5 como uno de los objetivos del sistema educativo canario “garantizar el desarrollo integral 
 de todas las personas para que puedan alcanzar el mayor nivel en sus capacidades que les 
 permitan el pleno ejercicio de sus derechos y deberes de ciudadanía, así como una adecuada 

@@ -36,16 +36,18 @@ fundamentos_derecho:
   articulos:
   - '1'
 - norma_id: norm-es-lo-2-2006
+- norma_id: norm-es-2021-20113
+- norma_id: norm-es-2010-12201
 ---
 # Orden EFP/1210/2021, de 2 de noviembre, por la que se establece la equivalencia, a los efectos de acceso a enseñanzas de formación profesional, de determinados estudios y títulos anteriores al actual sistema educativo.
 
-La Ley Orgánica 2/2006, de 3 de mayo, de Educación, declara que todas las personas deben tener la posibilidad de formarse a lo largo de la vida, dentro y fuera del sistema educativo. Para ello dicho Sistema se concibe de manera flexible, lo que implica, por una parte, establecer conexiones entre los distintos tipos de enseñanzas, de modo que se facilite el paso de unas a otras y, por otra, permitir la configuración de vías formativas adaptadas a las necesidades y los intereses personales más diversos.
+La [Ley Orgánica 2/2006](../01_marco_normativo_general_y_organico/LO2_2006_ley_organica_educacion.md), de 3 de mayo, de Educación, declara que todas las personas deben tener la posibilidad de formarse a lo largo de la vida, dentro y fuera del sistema educativo. Para ello dicho Sistema se concibe de manera flexible, lo que implica, por una parte, establecer conexiones entre los distintos tipos de enseñanzas, de modo que se facilite el paso de unas a otras y, por otra, permitir la configuración de vías formativas adaptadas a las necesidades y los intereses personales más diversos.
 
 En el caso de las personas adultas, la Ley plantea la necesidad de adoptar medidas para reconocer los aprendizajes adquiridos, impulsando su continuidad en la educación y la formación, y que ello les proporcione una mejora cuantitativa y cualitativa en el empleo.
 
 En la actualidad hay personas adultas que cuentan con el título de Bachiller regulado por la Ley 14/1970, de 4 de agosto, General de Educación y Financiamiento de la Reforma Educativa, o que han superado la totalidad de las asignaturas que integraban estos estudios y, en consecuencia, se encuentran en las condiciones de obtener dicho título. Por otra parte, estas personas precisan acceder y titular en las enseñanzas de Formación Profesional de grado superior, o Certificados de Profesionalidad de Nivel 3, considerándose que su formación previa correspondiente a las citadas enseñanzas de bachillerato extinguidas puede permitir cursar con garantías la formación profesional indicada. Esta Orden permite, por tanto, que el alumnado que se encuentra en esta situación pueda terminar las actividades iniciadas para la obtención del correspondiente título de formación profesional o certificado de profesionalidad, así como permite a otros ciudadanos que finalizaron sus estudios de bachillerato con arreglo al plan extinguido que se cita, continuar su proceso formativo en el ámbito de la Formación Profesional Superior.
 
-La presente orden cumple con los principios de buena regulación, de necesidad, eficacia, proporcionalidad, seguridad jurídica, transparencia y eficiencia previstos en el artículo 129 de la Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común de las Administraciones Públicas.
+La presente orden cumple con los principios de buena regulación, de necesidad, eficacia, proporcionalidad, seguridad jurídica, transparencia y eficiencia previstos en el artículo 129 de la [Ley 39/2015](../01_marco_normativo_general_y_organico/L39_2015_procedimiento_administrativo_comun.md), de 1 de octubre, del Procedimiento Administrativo Común de las Administraciones Públicas.
 
 En su virtud, previo dictamen favorable del Consejo Escolar del Estado, habiendo sido consultadas las comunidades autónomas en el seno de la Comisión de Formación Profesional de la Conferencia Sectorial de Educación, habiéndose realizado el preceptivo trámite de audiencia e información pública y recabado, asimismo, informe preceptivo sobre la distribución de competencias del Ministerio de Política Territorial conforme al artículo 26.5 de la Ley 50/1997, de 27 de noviembre, del Gobierno, dispongo:
 

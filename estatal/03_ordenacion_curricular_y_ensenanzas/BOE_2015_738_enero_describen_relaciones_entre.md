@@ -32,6 +32,9 @@ fundamentos_derecho:
   articulos:
   - '1'
   - '2'
+- norma_id: norm-es-2016-3229
+- norma_id: norm-es-2021-20113
+- norma_id: norm-es-2010-12201
 ---
 # Orden ECD/65/2015, de 21 de enero, por la que se describen las relaciones entre las competencias, los contenidos y los criterios de evaluación de la educación primaria, la educación secundaria obligatoria y el bachillerato.
 
@@ -59,9 +62,9 @@ Por último, la propuesta de aprendizaje por competencias favorecerá la vincula
 
 La Comisión, en la Estrategia Europea 2020 para un crecimiento inteligente, sostenible e integrador, señala que los Estados miembros necesitarán «Mejorar los resultados educativos, abordando cada segmento (preescolar, primario, secundario, formación profesional y universitario) mediante un planteamiento integrado que recoja las competencias clave y tenga como fin reducir el abandono escolar y garantizar las competencias requeridas para proseguir la formación y el acceso al mercado laboral «.
 
-Siguiendo estas recomendaciones, en España se incorporaron al sistema educativo no universitario las competencias clave con el nombre de competencias básicas. La Ley Orgánica 2/2006, de 3 de mayo, de Educación (LOE), hace ya referencia en su exposición de motivos, entre otros asuntos, a la necesidad de cohesión social, al aprendizaje permanente a lo largo de la vida y a la sociedad del conocimiento, e introduce el término competencias básicas por primera vez en la normativa educativa.
+Siguiendo estas recomendaciones, en España se incorporaron al sistema educativo no universitario las competencias clave con el nombre de competencias básicas. La [Ley Orgánica 2/2006](../01_marco_normativo_general_y_organico/LO2_2006_ley_organica_educacion.md), de 3 de mayo, de Educación (LOE), hace ya referencia en su exposición de motivos, entre otros asuntos, a la necesidad de cohesión social, al aprendizaje permanente a lo largo de la vida y a la sociedad del conocimiento, e introduce el término competencias básicas por primera vez en la normativa educativa.
 
-La Ley Orgánica 8/2013, de 9 de diciembre, para la Mejora de Calidad Educativa (LOMCE), va más allá al poner el énfasis en un modelo de currículo basado en competencias: introduce un nuevo artículo 6 bis en la Ley Orgánica 2/2006, de 3 de mayo, de Educación, que en su apartado 1.e) establece que corresponde al Gobierno «el diseño del currículo básico, en relación con los objetivos, competencias, contenidos, criterios de evaluación, estándares y resultados de aprendizaje evaluables, con el fin de asegurar una formación común y el carácter oficial y la validez en todo el territorio nacional de las titulaciones a que se refiere esta Ley Orgánica».
+La [Ley Orgánica 8/2013](BOE_2016_3229_marzo_regula_procedimiento_incorporación.md), de 9 de diciembre, para la Mejora de Calidad Educativa (LOMCE), va más allá al poner el énfasis en un modelo de currículo basado en competencias: introduce un nuevo artículo 6 bis en la Ley Orgánica 2/2006, de 3 de mayo, de Educación, que en su apartado 1.e) establece que corresponde al Gobierno «el diseño del currículo básico, en relación con los objetivos, competencias, contenidos, criterios de evaluación, estándares y resultados de aprendizaje evaluables, con el fin de asegurar una formación común y el carácter oficial y la validez en todo el territorio nacional de las titulaciones a que se refiere esta Ley Orgánica».
 
 Dado que el aprendizaje basado en competencias se caracteriza por su transversalidad, su dinamismo y su carácter integral, el proceso de enseñanza-aprendizaje competencial debe abordarse desde todas las áreas de conocimiento y por parte de las diversas instancias que conforman la comunidad educativa, tanto en los ámbitos formales como en los no formales e informales. Su dinamismo se refleja en que las competencias no se adquieren en un determinado momento y permanecen inalterables, sino que implican un proceso de desarrollo mediante el cual los individuos van adquiriendo mayores niveles de desempeño en el uso de las mismas.
 

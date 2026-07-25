@@ -29,6 +29,13 @@ fundamentos_derecho:
   articulos:
   - '1'
 - norma_id: norm-es-lo-2-2006
+- norma_id: norm-es-l-39-2015
+- norma_id: norm-es-2001-7022
+- norma_id: norm-es-2002-12018
+- norma_id: norm-es-2002-4371
+- norma_id: norm-es-2007-19326
+- norma_id: norm-es-2021-20113
+- norma_id: norm-es-2010-12201
 fuente_pdf_oficial: https://sede.gobiernodecanarias.org/boc/boc-a-2019-143-3820.pdf
 ---
 # Resolución de 10 de julio de 2019, por la que se dictan instrucciones relativas al procedimiento para el reconocimiento de correspondencias, convalidaciones y exenciones en las enseñanzas deportivas de régimen especial en la Comunidad Autónoma de Canarias (BOC n.º 143, de 26 de julio).
@@ -45,17 +52,17 @@ reconocimiento de correspondencias, convalidaciones y exenciones en las enseñan
 deportivas de régimen especial en el ámbito de la Comunidad Autónoma de Canarias, y 
 teniendo en cuenta los siguientes
 ANTECEDENTES DE HECHO
-Primero.- La Ley Orgánica 2/2006, de 3 de mayo, de Educación, modificada por la Ley 
+Primero.- La [Ley Orgánica 2/2006](../../../estatal/01_marco_normativo_general_y_organico/LO2_2006_ley_organica_educacion.md), de 3 de mayo, de Educación, modificada por la Ley 
 Orgánica 8/2013, de 9 de diciembre, para la Mejora de la Calidad Educativa, en el artículo 
 3.2, integra las enseñanzas deportivas dentro de la oferta del sistema educativo, y en el 
 Capítulo VIII del Título I desarrolla los aspectos fundamentales de este tipo de enseñanzas, 
 que forman parte de las enseñanzas de régimen especial.
-Segundo.- El Real Decreto 1363/2007, de 24 de octubre, por el que se establece la 
+Segundo.- El [Real Decreto 1363/2007](../../../estatal/03_ordenacion_curricular_y_ensenanzas/BOE_2007_19326_octubre_establece_ordenación_general.md), de 24 de octubre, por el que se establece la 
 ordenación general de las enseñanzas deportivas de régimen especial, dedica su Capítulo IX 
 a las correspondencias, convalidaciones y exenciones, estableciendo, en su artículo 44, el 
 procedimiento para su solicitud y concesión.
 La Disposición transitoria segunda del mencionado texto normativo establece la vigencia 
-de aquellas enseñanzas deportivas establecidas al amparo del Real Decreto 1913/1997, de 
+de aquellas enseñanzas deportivas establecidas al amparo del [Real Decreto 1913/1997](../../../estatal/03_ordenacion_curricular_y_ensenanzas/BOE_2002_4371_febrero_establecen_elementos_básicos.md), de 
 19 de diciembre, impartiéndose conforme a lo previsto en los reales decretos que crearon los 
 respectivos títulos y enseñanzas mínimas hasta que se creen los nuevos títulos y enseñanzas, 
 excepto en los aspectos que se detallan en la misma, en los que se seguirán los criterios que 
@@ -106,7 +113,7 @@ equipos directivos de los centros que impartan las enseñanzas objeto de esta re
 Contra la presente resolución, que no pone fin a la vía administrativa, se podrá interponer 
 recurso de alzada ante el Ilmo. Sr. Viceconsejero de Educación y Universidades, en el plazo 
 de un mes a contar desde el día siguiente al de su publicación en el Boletín Oficial de 
-Canarias, de acuerdo con lo dispuesto en los artículos 121 y 122 de la Ley 39/2015, de 1 de 
+Canarias, de acuerdo con lo dispuesto en los artículos 121 y 122 de la [Ley 39/2015](../../../estatal/01_marco_normativo_general_y_organico/L39_2015_procedimiento_administrativo_comun.md), de 1 de 
 octubre, del Procedimiento Administrativo Común de las Administraciones Públicas (BOE 
 nº 236, de 2.10.15).
 Santa Cruz de Tenerife, a 10 de julio de 2019.- El Director General de Formación 
@@ -193,7 +200,7 @@ dio con las materias de bachillerato que se determinen en los reales decretos qu
 y enseñanzas mínimas.
 3. Podrá ser objeto de convalidación la superación de la totalidad de los módulos del bloque común de
 cada ciclo de enseñanza, en cualquiera de las modalidades o especialidades deportivas de los títulos
-establecidos al amparo de la Ley Orgánica 1/1990, de 3 de octubre, de Ordenación General del Siste-
+establecidos al amparo de la [Ley Orgánica 1/1990](../../../estatal/02_gestion_y_administracion_centros/BOE_2001_7022_correspondientes_españoles_educación_secundaria.md), de 3 de octubre, de Ordenación General del Siste-
 ma Educativo (LOGSE), por la totalidad de los módulos del bloque común del correspondiente ciclo
 de enseñanza deportiva en cualquiera de las modalidades o especialidades deportivas de los títulos es-
 tablecidos al amparo de la Ley Orgánica 2/2006, de 3 de mayo, de Educación (LOE ) y viceversa.
@@ -351,7 +358,7 @@ RÉGIMEN ESPECIAL EN LA COMUNIDAD AUTÓNOMA  DE CANARIAS.
 de formación profesional.
 • Certificado de profesionalidad.
 • Acreditación parcial conforme a lo que se establezca en cumplimiento de lo previsto en
-el artículo 8.3 de la Ley Orgánica 5/2002, de 19 de junio, de las Cualificaciones y de la
+el artículo 8.3 de la [Ley Orgánica 5/2002](../../../estatal/03_ordenacion_curricular_y_ensenanzas/BOE_2002_12018_junio_cualificaciones_formación_profesional.md), de 19 de junio, de las Cualificaciones y de la
 Formación Profesional.
 • Por haber superado módulos del bloque específico que sean comunes a varios ciclos de ense -
 ñanza deportiva y que tengan igual denominación, duración, objetivos, criterios de evaluación y

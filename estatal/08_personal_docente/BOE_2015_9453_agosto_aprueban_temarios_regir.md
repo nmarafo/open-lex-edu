@@ -42,10 +42,15 @@ fundamentos_derecho:
 - norma_id: norm-es-rdl-5-2015
   articulos:
   - '1'
+- norma_id: norm-es-1984-17387
+- norma_id: norm-es-2021-20113
+- norma_id: norm-es-2010-12201
+- norma_id: norm-es-2007-5478
+- norma_id: norm-es-rd-276-2007
 ---
 # Orden ECD/1753/2015, de 25 de agosto, por la que se aprueban los temarios que han de regir en los procedimientos de ingreso, acceso y adquisición de nuevas especialidades en el Cuerpo de Profesores de Música y Artes Escénicas en las especialidades vinculadas a las enseñanzas de música y de danza.
 
-Aparte de las establecidas en la Ley 7/2007, de 12 de abril, del Estatuto Básico del Empleado Público, la disposición adicional sexta de la Ley Orgánica 2/2006, de 3 de mayo, de Educación, establece que, además de las recogidas en la Ley 30/1984, de 2 de agosto, de Medidas para la Reforma de la Función Pública, son bases del régimen estatutario de los funcionarios públicos docentes las reguladas por la propia Ley Orgánica 2/2006, de 3 de mayo, y la normativa que la desarrolla, para el ingreso y la movilidad entre los cuerpos docentes, encomendando al Gobierno su desarrollo reglamentario en aquellos aspectos básicos que sean necesarios para garantizar el marco común básico de la función pública docente.
+Aparte de las establecidas en la Ley 7/2007, de 12 de abril, del Estatuto Básico del Empleado Público, la disposición adicional sexta de la [Ley Orgánica 2/2006](../01_marco_normativo_general_y_organico/LO2_2006_ley_organica_educacion.md), de 3 de mayo, de Educación, establece que, además de las recogidas en la [Ley 30/1984](../01_marco_normativo_general_y_organico/BOE_1984_17387_agosto_medidas_para_reforma.md), de 2 de agosto, de Medidas para la Reforma de la Función Pública, son bases del régimen estatutario de los funcionarios públicos docentes las reguladas por la propia Ley Orgánica 2/2006, de 3 de mayo, y la normativa que la desarrolla, para el ingreso y la movilidad entre los cuerpos docentes, encomendando al Gobierno su desarrollo reglamentario en aquellos aspectos básicos que sean necesarios para garantizar el marco común básico de la función pública docente.
 
 Las especialidades para impartir las enseñanzas elementales y profesionales de Música y de Danza por el cuerpo de funcionarios docentes en centros públicos han sido determinadas en el Real Decreto 428/2013, de 14 de junio, por el que se establecen las especialidades docentes del Cuerpo de Profesores de Música y Artes Escénicas vinculadas a las enseñanzas de Música y de Danza.
 
@@ -65,7 +70,7 @@ Esta orden tiene por objeto la aprobación de los temarios que han de regir en l
 
 #### Artículo 2. Aprobación de los temarios que han de regir en los procedimientos de ingreso, acceso y adquisición de nuevas especialidades en el Cuerpo de Profesores de Música y Artes Escénicas, en las especialidades vinculadas a las enseñanzas de Música y de Danza.
 
-Los temarios a que se refiere el artículo 19 del Reglamento de ingreso, accesos y adquisición de nuevas especialidades en los cuerpos docentes a que se refiere la Ley Orgánica 2/2006, de 3 de mayo, de Educación, y se regula el régimen transitorio de ingreso a que se refiere la disposición transitoria decimoséptima de la citada ley, aprobado por Real Decreto 276/2007, de 23 de febrero, para las convocatorias de ingreso, acceso y adquisición de nuevas especialidades en el Cuerpo de Profesores de Música y Artes Escénicas en las especialidades vinculadas a las enseñanzas de Música y de Danza, reguladas por el Real Decreto 428/2013, de 14 de junio, por el que se establecen las especialidades docentes del Cuerpo de Profesores de Música y Artes Escénicas vinculadas a las enseñanzas de Música y de Danza, son los que se establecen en la presente orden y que figuran en el anexo.
+Los temarios a que se refiere el artículo 19 del Reglamento de ingreso, accesos y adquisición de nuevas especialidades en los cuerpos docentes a que se refiere la Ley Orgánica 2/2006, de 3 de mayo, de Educación, y se regula el régimen transitorio de ingreso a que se refiere la disposición transitoria decimoséptima de la citada ley, aprobado por [Real Decreto 276/2007](BOE_2007_5478_marzo_aprueba_temario_regir.md), de 23 de febrero, para las convocatorias de ingreso, acceso y adquisición de nuevas especialidades en el Cuerpo de Profesores de Música y Artes Escénicas en las especialidades vinculadas a las enseñanzas de Música y de Danza, reguladas por el Real Decreto 428/2013, de 14 de junio, por el que se establecen las especialidades docentes del Cuerpo de Profesores de Música y Artes Escénicas vinculadas a las enseñanzas de Música y de Danza, son los que se establecen en la presente orden y que figuran en el anexo.
 
 #### Disposición final primera. Título competencial.
 

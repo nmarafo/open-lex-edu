@@ -28,6 +28,8 @@ fundamentos_derecho:
   articulos:
   - '1'
 - norma_id: norm-es-lo-2-2006
+- norma_id: norm-es-2021-20113
+- norma_id: norm-es-2010-12201
 fuente_pdf_oficial: https://sede.gobiernodecanarias.org/boc/boc-a-2014-021-349.pdf
 fuente_juriscan: http://www.gobiernodecanarias.org/juriscan/ficha.jsp?id=70096
 ---
@@ -59,7 +61,7 @@ de especialización de este nivel, quedan por definir las características concr
 bas en relación con el nivel C1.
 A estos hechos les son de aplicación los siguientes
 FUNDAMENTOS DE DERECHO
-Primero.- La Ley Orgánica 2/2006, de 3 de mayo, de Educación (BOE nº 106, de 4 de 
+Primero.- La [Ley Orgánica 2/2006](../../../estatal/01_marco_normativo_general_y_organico/LO2_2006_ley_organica_educacion.md), de 3 de mayo, de Educación (BOE nº 106, de 4 de 
 mayo), regula en sus artículos del 59 al 62 las enseñanzas de idiomas de régimen especial.
 Segundo.- El Real Decreto 1629/2006, de 29 de diciembre, por el que se fijan los aspec-
 tos básicos del currículo de las enseñanzas de idiomas de régimen especial reguladas por la 

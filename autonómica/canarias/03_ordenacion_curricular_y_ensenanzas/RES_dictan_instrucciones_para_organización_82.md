@@ -29,6 +29,11 @@ fundamentos_derecho:
   articulos:
   - '1'
 - norma_id: norm-es-lo-2-2006
+- norma_id: norm-can-res-boc-2019-069-48
+- norma_id: norm-es-2016-3229
+- norma_id: norm-es-2019-317
+- norma_id: norm-es-2021-20113
+- norma_id: norm-es-2010-12201
 fuente_pdf_oficial: https://sede.gobiernodecanarias.org/boc/boc-a-2020-236-4341.pdf
 ---
 # Resolución de 5 de noviembre de 2020, por la que se dictan instrucciones para la organización y el funcionamiento de los niveles básico, intermedio y avanzado de la enseñanza del idioma inglés a distancia para personas adultas That's English!
@@ -52,11 +57,11 @@ inglés a distancia para personas adultas That’s English!
 Segundo.- El Real Decreto 1041/2017, de 22 de diciembre, por el que se fijan las 
 exigencias mínimas del nivel básico a efectos de certificación y se establecen el currículo 
 básico de los niveles Intermedio B1, Intermedio B2, Avanzado C1 y Avanzado C2 de las 
-enseñanzas de idiomas de régimen especial reguladas por la Ley Orgánica 2/2006, de 3 de 
+enseñanzas de idiomas de régimen especial reguladas por la [Ley Orgánica 2/2006](../../../estatal/01_marco_normativo_general_y_organico/LO2_2006_ley_organica_educacion.md), de 3 de 
 mayo, de Educación, y las equivalencias entre las enseñanzas de idiomas de régimen especial 
 reguladas en diversos planes de estudios y las de este real decreto, viene a desarrollar las 
 modificaciones en materia de enseñanzas de idiomas de régimen especial introducidas por la 
-Ley Orgánica 8/2013, de 9 de diciembre, para la mejora de la calidad educativa. Entre esas 
+[Ley Orgánica 8/2013](../../../estatal/03_ordenacion_curricular_y_ensenanzas/BOE_2016_3229_marzo_regula_procedimiento_incorporación.md), de 9 de diciembre, para la mejora de la calidad educativa. Entre esas 
 modificaciones se encuentra un nuevo anclaje de los diferentes niveles y la regulación básica 
 para la obtención de la certificación oficial de los distintos niveles de idiomas.
 Posteriormente, mediante Decreto 142/2018, de 8 de octubre, se establece la ordenación 
@@ -82,7 +87,7 @@ básico de los niveles Intermedio B1, Intermedio B2, Avanzado C1, y Avanzado C2,
 Enseñanzas de idiomas de régimen especial reguladas por la Ley Orgánica 2/2006, de 3 de 
 mayo, de Educación, y se establecen las equivalencias entre las enseñanzas de idiomas de 
 régimen especial reguladas en diversos planes de estudios y las de este Real Decreto.
-Tercero.- El Real Decreto 1/2019, de 11 de enero, por el que se establecen los principios 
+Tercero.- El [Real Decreto 1/2019](../../../estatal/03_ordenacion_curricular_y_ensenanzas/BOE_2019_317_enero_establecen_principios_básicos.md), de 11 de enero, por el que se establecen los principios 
 básicos comunes de evaluación aplicables a las pruebas de certificación oficial de los niveles 
 Intermedio B1, Intermedio B2, Avanzado C1, y Avanzado C2 de las enseñanzas de idiomas 
 de régimen especial.
@@ -100,7 +105,7 @@ y el currículo de las enseñanzas y la certificación de idiomas de régimen es
 Comunidad Autónoma de Canarias. 
 Sexto.- La Resolución de 26 de marzo de 2019, por la que se determina el acceso a los 
 distintos cursos de enseñanzas de idiomas de régimen especial en aplicación de lo establecido 
-en la Orden de 21 de septiembre de 2016, de esta Consejería, que regula el reconocimiento 
+en la [Orden de 21 de septiembre de 2016](RES_determina_acceso_distintos_cursos_48.md), de esta Consejería, que regula el reconocimiento 
 de la acreditación de la competencia lingüística conforme al Marco Común Europeo de 
 Referencia para las Lenguas en la Comunidad Autónoma de Canarias.
 Por todo lo expuesto, y de conformidad con el artículo 11 del Decreto 135/2016, de 10 

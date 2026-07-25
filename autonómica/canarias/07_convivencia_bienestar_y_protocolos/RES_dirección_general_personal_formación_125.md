@@ -29,6 +29,19 @@ fundamentos_derecho:
 - norma_id: norm-can-l-6-2014
   articulos:
   - '1'
+- norma_id: norm-can-d-84-2024
+- norma_id: norm-can-l-2-1987
+- norma_id: norm-can-l-4-2023
+- norma_id: norm-can-d-168-2009
+- norma_id: norm-es-l-39-2015
+- norma_id: norm-es-l-40-2015
+- norma_id: norm-es-rdl-5-2015
+- norma_id: norm-es-l-31-1995
+- norma_id: norm-es-lo-3-2018
+- norma_id: norm-es-2007-6115
+- norma_id: norm-es-2022-11589
+- norma_id: norm-es-lo-10-2022
+- norma_id: norm-es-rdl-2-2015
 fuente_pdf_oficial: https://sede.gobiernodecanarias.org/boc/boc-a-2025-045-900.pdf
 ---
 # Resolución de 19 de febrero de 2025, de la Dirección General de Personal y Formación del Profesorado, por la que se establece el Protocolo de actuación ante situaciones de acoso en el entorno laboral en los centros públicos dependientes de la Consejería de Educación, Formación Profesional, Actividad Física y Deportes (BOC nº 45 de 5 de marzo).
@@ -90,7 +103,7 @@ reconoce la dignidad inherente al ser humano, el artículo 14, que prohíbe todo
 discriminación, y el artículo 15, que reconoce el derecho a la integridad física y moral. En 
 este sentido, el presente Protocolo trata de garantizar una protección eficaz de los empleados 
 dependientes de la Consejería con competencia en materia de educación, atendiendo a 
-los derechos recogidos en la Ley 2/1987, de 30 de marzo, de la Función Pública Canaria 
+los derechos recogidos en la [Ley 2/1987](../01_marco_normativo_general_y_organico/L2_1987_funcion_publica_canaria.md), de 30 de marzo, de la Función Pública Canaria 
 (que en su artículo 2.2 dispone que se podrán dictar normas específicas para adecuar la 
 aplicación de la presente Ley a las peculiaridades del personal docente); el Real Decreto 
 Legislativo 5/2015, de 30 de octubre, por el que se aprueba el texto refundido de la Ley 
@@ -99,21 +112,21 @@ respeto de su intimidad, orientación e identidad sexual, expresión de género,
 sexuales, propia imagen y dignidad en el trabajo, especialmente frente al acoso sexual y 
 por razón de sexo, de orientación e identidad sexual, expresión de género o características 
 sexuales y en su artículo 95 establece el régimen disciplinario para el personal funcionario, 
-incluyendo sanciones por conductas de acoso laboral o sexual]; y el Real Decreto Legislativo 
-2/2015, de 23 de octubre, por el que se aprueba el texto refundido de la Ley del Estatuto 
+incluyendo sanciones por conductas de acoso laboral o sexual]; y el [Real Decreto Legislativo 
+2/2015](../../../estatal/09_personal_laboral_y_no_docente/RDL2_2015_estatuto_trabajadores.md), de 23 de octubre, por el que se aprueba el texto refundido de la Ley del Estatuto 
 de los Trabajadores [que en su artículo 4.1.e) recoge análogos derechos y en su artículo 
 54 establece el despido disciplinario por incumplimiento contractual por razón de acoso].
 Para dicha protección eficaz de los empleados en su entorno laboral se continúa 
-garantizando la efectividad de la aplicación de la Ley Orgánica 3/2007, de 22 de marzo, 
-para la igualdad efectiva de mujeres y hombres, la Ley 31/1995, de Prevención de Riesgos 
-Laborales, y el Decreto 168/2009, de 29 de diciembre, de adaptación de la normativa sobre 
+garantizando la efectividad de la aplicación de la [Ley Orgánica 3/2007](../../../estatal/07_convivencia_bienestar_y_protocolos/BOE_2007_6115_marzo_para_igualdad_efectiva.md), de 22 de marzo, 
+para la igualdad efectiva de mujeres y hombres, la [Ley 31/1995](../../../estatal/02_gestion_y_administracion_centros/L31_1995_prevencion_riesgos_laborales.md), de Prevención de Riesgos 
+Laborales, y el [Decreto 168/2009](../02_gestion_y_administracion_centros/D168_2009_prevencion_riesgos_laborales_administracion_canaria.md), de 29 de diciembre, de adaptación de la normativa sobre 
 Prevención de Riesgos Laborales en la Administración.
-Así mismo, se incorporan los nuevos mandatos de la Ley Orgánica 10/2022, de 6 de 
+Así mismo, se incorporan los nuevos mandatos de la [Ley Orgánica 10/2022](../../../estatal/07_convivencia_bienestar_y_protocolos/LO10_2022_garantia_integral_libertad_sexual.md), de 6 de 
 septiembre, de garantía integral de la libertad sexual, que establece que las administraciones 
 públicas deberán promover condiciones de trabajo que eviten las conductas que atenten 
 contra la libertad sexual y la integridad moral en el trabajo, incidiendo especialmente en el 
-acoso sexual y el acoso por razón de sexo; la Ley 15/2022, de 12 de julio, integral para la 
-igualdad de trato y la no discriminación; y la Ley 4/2023, de 28 de febrero, para la igualdad 
+acoso sexual y el acoso por razón de sexo; la [Ley 15/2022](../../../estatal/07_convivencia_bienestar_y_protocolos/BOE_2022_11589_julio_integral_para_igualdad.md), de 12 de julio, integral para la 
+igualdad de trato y la no discriminación; y la [Ley 4/2023](../01_marco_normativo_general_y_organico/L4_2023_gobierno_canarias.md), de 28 de febrero, para la igualdad 
 real y efectiva de las personas trans y para la garantía de los derechos de las personas 
 LGTBI.
 El contenido de este Protocolo tiene como objetivo promover un entorno igualitario 
@@ -130,7 +143,7 @@ materia, fundamentalmente el Convenio 190 OIT sobre la violencia y el acoso de 2
 complemento de la R206 - Recomendación sobre la violencia y el acoso, 2019.
 Por último, dada la trascendencia en la intimidad de los trabajadores de la materia sobre 
 la que versa el presente Protocolo, se han reforzado los mecanismos de confidencialidad en 
-cumplimiento de la Ley Orgánica 3/2018, de Protección de Datos Personales y garantía de 
+cumplimiento de la [Ley Orgánica 3/2018](../../../estatal/02_gestion_y_administracion_centros/LO3_2018_proteccion_datos_personales.md), de Protección de Datos Personales y garantía de 
 los derechos digitales.
 Segundo.- La importancia y transversalidad del acoso determinan su posición en ocasiones 
 ambigua en su tratamiento jurisdiccional. Durante las últimas décadas ha sido una cuestión 
@@ -201,7 +214,7 @@ administración o servicios (PAS), competencia de la Secretaría General Técnic
 Centros Directivos actuarán como órganos gestores, según la persona denunciante sea de 
 uno u otro colectivo.
 De acuerdo con todo lo anterior, en ejercicio de las competencias que le atribuye el 
-vigente Decreto 84/2024, de 10 de junio, por el que se aprueba el Reglamento Orgánico de 
+vigente [Decreto 84/2024](../01_marco_normativo_general_y_organico/D84_2024_reglamento_organico_consejeria.md), de 10 de junio, por el que se aprueba el Reglamento Orgánico de 
 la Consejería de Educación, Formación Profesional, Actividad Física y Deportes, en sus 
 artículos 16.n), ñ), o) y p) así como el artículo 12 del Decreto 168/2009, de adaptación de la 
 normativa sobre prevención de riesgos laborales en el ámbito de la Administración Pública 
@@ -377,7 +390,7 @@ c) CV AL: Comisión Técnica encargada de investigar y valorar las denuncias pre
 Artículo 5.- Régimen jurídico.
 La actuación de la Consejería con competencia en materia de educación se llevará 
 a cabo conforme a este Protocolo y, en aquellos preceptos que indique el Protocolo, al 
-procedimiento administrativo común establecido en la Ley 39/2015, 1 de octubre, del 
+procedimiento administrativo común establecido en la [Ley 39/2015](../../../estatal/01_marco_normativo_general_y_organico/L39_2015_procedimiento_administrativo_comun.md), 1 de octubre, del 
 Procedimiento Administrativo Común de las Administraciones Públicas.
 Artículo 6.- Confidencialidad y protección de datos de carácter personal.
 1. Se garantizará en todo caso la confidencialidad y la protección de datos de carácter 
@@ -481,7 +494,7 @@ caso, respetando la normativa vigente y el principio de competencia funcional.
 2. Las 
 CV AL tendrán carácter permanente, provincial y vigencia por curso escolar.
 3. A las CV AL, como órganos colegiados, les será de aplicación las disposiciones 
-contenidas en la Sección 3 del Capítulo II de la Ley 40/2015, de 1 de octubre, de Régimen 
+contenidas en la Sección 3 del Capítulo II de la [Ley 40/2015](../../../estatal/01_marco_normativo_general_y_organico/L40_2015_regimen_juridico_sector_publico.md), de 1 de octubre, de Régimen 
 Jurídico del Sector Público.
 
 Artículo 10.- Composición.
@@ -1519,7 +1532,7 @@ La superioridad psicológica o poder psicológico no tiene por qué coincidir co
 que se ocupa en la cadena de mando. La persona acosadora puede pertenecer a cualquier 
 sexo y la persona acosada puede pertenecer a cualquier sexo.
 Aspectos jurídicos.
-Está regulado en el Real Decreto Legislativo 5/2015, de 23 de octubre, por el que se 
+Está regulado en el [Real Decreto Legislativo 5/2015](../../../estatal/01_marco_normativo_general_y_organico/RD5_2015_estatuto_basico_empleado_publico.md), de 23 de octubre, por el que se 
 aprueba el texto refundido de la Ley del Estatuto Básico del Empleado Público como falta 
 disciplinaria de carácter muy grave, el acoso laboral [artículo 95.2, letra o)] y toda actuación 
 que suponga discriminación por razón de origen racial o étnico, religión o convicciones, 

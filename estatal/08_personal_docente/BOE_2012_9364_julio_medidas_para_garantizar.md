@@ -25,6 +25,10 @@ fundamentos_derecho:
 - norma_id: norm-es-rdl-5-2015
   articulos:
   - '1'
+- norma_id: norm-es-l-53-1984
+- norma_id: norm-es-lo-1-2004
+- norma_id: norm-es-1985-7820
+- norma_id: norm-es-2012-8745
 ---
 # Real Decreto-ley 20/2012, de 13 de julio, de medidas para garantizar la estabilidad presupuestaria y de fomento de la competitividad.
 
@@ -58,7 +62,7 @@ Las medidas estructurales que acompañan a este paquete fiscal no son de menor t
 
 La actual coyuntura económica y la necesidad de reducir el déficit público sin menoscabar la prestación de los servicios públicos esenciales, hace necesario mejorar la eficiencia de las Administraciones Públicas en el uso de los recursos públicos, con objeto de contribuir a la consecución del inexcusable objetivo de estabilidad presupuestaria, derivado del marco constitucional y de la Unión Europea.
 
-El Gobierno ya ha adoptado medidas de contención de gastos de personal. Así, el Real Decreto-ley 20/2011, de 30 de diciembre, de medidas urgentes en materia presupuestaria, tributaria y financiera para la corrección del déficit público, establece que en el año 2012, las retribuciones del personal al servicio del sector público no podrán experimentar ningún incremento respecto a las vigentes a 31 de diciembre de 2011. Igualmente, durante el ejercicio 2012 no se podrá realizar aportaciones a planes de pensiones de empleo o contratos de seguro colectivos que incluyan la cobertura de la contingencia de jubilación. Por otro lado, a lo largo del ejercicio 2012 no se procederá a la incorporación de nuevo personal, salvo la que pueda derivarse de la ejecución de procesos selectivos correspondientes a Ofertas de Empleo Público de ejercicios anteriores, limitación que también alcanza a las plazas incursas en los procesos de consolidación de empleo previstos en la disposición transitoria cuarta del Estatuto Básico del Empleado Público, si bien la congelación de la oferta de empleo público no será de aplicación determinados sectores y administraciones en los que la tasa de reposición se fija en el 10 por ciento. Además, fija la jornada de trabajo del sector público estatal en treinta y siete horas y media semanales de trabajo efectivo de promedio en cómputo anual. La Ley 2/2012, de 29 de junio, de Presupuestos Generales del Estado para el año 2012 incide en estas mismas medidas.
+El Gobierno ya ha adoptado medidas de contención de gastos de personal. Así, el Real Decreto-ley 20/2011, de 30 de diciembre, de medidas urgentes en materia presupuestaria, tributaria y financiera para la corrección del déficit público, establece que en el año 2012, las retribuciones del personal al servicio del sector público no podrán experimentar ningún incremento respecto a las vigentes a 31 de diciembre de 2011. Igualmente, durante el ejercicio 2012 no se podrá realizar aportaciones a planes de pensiones de empleo o contratos de seguro colectivos que incluyan la cobertura de la contingencia de jubilación. Por otro lado, a lo largo del ejercicio 2012 no se procederá a la incorporación de nuevo personal, salvo la que pueda derivarse de la ejecución de procesos selectivos correspondientes a Ofertas de Empleo Público de ejercicios anteriores, limitación que también alcanza a las plazas incursas en los procesos de consolidación de empleo previstos en la disposición transitoria cuarta del Estatuto Básico del Empleado Público, si bien la congelación de la oferta de empleo público no será de aplicación determinados sectores y administraciones en los que la tasa de reposición se fija en el 10 por ciento. Además, fija la jornada de trabajo del sector público estatal en treinta y siete horas y media semanales de trabajo efectivo de promedio en cómputo anual. La [Ley 2/2012](BOE_2012_8745_junio_presupuestos_generales_estado.md), de 29 de junio, de Presupuestos Generales del Estado para el año 2012 incide en estas mismas medidas.
 
 En la actualidad, el proceso de consolidación fiscal y de sostenibilidad de las cuentas públicas exige de las Administraciones Públicas continuar adaptando una serie de medidas extraordinarias y cuya adopción debe ser urgente, dirigidas a racionalizar y reducir el gasto de personal de las Administraciones Públicas y a incrementar la eficiencia de su gestión.
 
@@ -1828,7 +1832,7 @@ De acuerdo con lo previsto en el artículo 1.1 de la Ley Orgánica 2/2012, de 27
 
 #### Disposición adicional quinta. Posibilidad de que los funcionarios de la Administración General del Estado pertenecientes a los Subgrupos A1 y A2 soliciten la reducción, a petición propia, del complemento específico.
 
-1. Los funcionarios de la Administración General del Estado pertenecientes a los Subgrupos A1 y A2, incluidos en el ámbito de aplicación del Real Decreto 598/1985, de 30 de abril, podrán solicitar ante las órganos y unidades de personal con competencias en materia de personal de los Departamentos, Organismos Autónomos y Entidades gestoras de la Seguridad Social en los que estén destinados la reducción del importe del complemento específico correspondiente al puesto que desempeñan al objeto de adecuarlo al porcentaje al que se refiere el artículo 16.4 de la Ley 53/1984, de 26 de diciembre, de Incompatibilidades del Personal al Servicio de las Administraciones Públicas.
+1. Los funcionarios de la Administración General del Estado pertenecientes a los Subgrupos A1 y A2, incluidos en el ámbito de aplicación del [Real Decreto 598/1985](BOE_1985_7820_abril_sobre_incompatibilidades_personal.md), de 30 de abril, podrán solicitar ante las órganos y unidades de personal con competencias en materia de personal de los Departamentos, Organismos Autónomos y Entidades gestoras de la Seguridad Social en los que estén destinados la reducción del importe del complemento específico correspondiente al puesto que desempeñan al objeto de adecuarlo al porcentaje al que se refiere el artículo 16.4 de la [Ley 53/1984](../01_marco_normativo_general_y_organico/L53_1984_incompatibilidades_personal_publico.md), de 26 de diciembre, de Incompatibilidades del Personal al Servicio de las Administraciones Públicas.
 
 2. Se excluye de esta posibilidad a los funcionarios que ocupen puestos en Gabinetes de miembros del Gobierno y altos cargos de la Administración General del Estado, a los que desempeñen puestos que tengan asignado complemento de destino de nivel 30 y 29.
 
@@ -1966,7 +1970,7 @@ c) Los apartado 2, 3, 4, 4 bis, 5 y 6 del artículo 2 de la Ley 43/2006, de 29 d
 
 d) Real Decreto-ley 18/2011, de 18 de noviembre, por el que se regulan las bonificaciones de cuotas a la Seguridad Social de los contratos de trabajo celebrados con personas con discapacidad por la Organización Nacional de Ciegos Españoles (ONCE) y se establecen medidas de Seguridad Social para las personas trabajadoras afectadas por la crisis de la bacteria «E.coli».
 
-e) Artículo 21.3 de la Ley Orgánica 1/2004, de 28 de diciembre, de Medidas de Protección Integral contra la Violencia de Género.
+e) Artículo 21.3 de la [Ley Orgánica 1/2004](../07_convivencia_bienestar_y_protocolos/LO1_2004_medidas_proteccion_violencia_genero.md), de 28 de diciembre, de Medidas de Protección Integral contra la Violencia de Género.
 
 f) Real Decreto-ley 11/98, de 4 de septiembre, por el que se regulan las bonificaciones de cuotas a la Seguridad Social de los contratos de interinidad que se celebren con personas desempleadas para sustituir a trabajadores durante los períodos de descanso por maternidad, adopción y acogimiento.
 

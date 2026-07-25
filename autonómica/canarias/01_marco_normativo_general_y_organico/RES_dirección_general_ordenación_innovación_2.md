@@ -27,6 +27,9 @@ fundamentos_derecho:
 - norma_id: norm-can-l-6-2014
   articulos:
   - '1'
+- norma_id: norm-can-l-14-1990
+- norma_id: norm-es-l-40-2015
+- norma_id: norm-es-2012-9282
 fuente_pdf_oficial: https://sede.gobiernodecanarias.org/boc/boc-a-2017-020-416.pdf
 anexos_extraidos_pdf: true
 ocr_procesado: true
@@ -57,7 +60,7 @@ Educativa es el órgano superior del Departamento al que corresponden, entre otr
 competencias de dirección, coordinación, estudio y resolución en materia de innovación 
 educativa no atribuidas específicamente a otro órgano y, en concreto, las relacionadas en el 
 apartado A) del citado precepto reglamentario.
-Segundo.- De conformidad con la previsión contenida en el artículo 12 de la Ley 4/2012, 
+Segundo.- De conformidad con la previsión contenida en el artículo 12 de la [Ley 4/2012](../../../estatal/08_personal_docente/BOE_2012_9282_junio_medidas_administrativas_fiscales.md), 
 de 25 de junio, de medidas administrativas y fiscales (BOC nº 124, de 26.6.12), la Agencia 
 Canaria de Evaluación de la Calidad Educativa y Acreditación Universitaria (ACECAU), 
 organismo autónomo de carácter administrativo creado por la Ley 2/2002, de 27 de marzo, 
@@ -91,7 +94,7 @@ delegación de competencias en materia de innovación y promoción educativa, as
 traspaso de los medios personales y materiales necesarios para se ejercicio efectivo.
 A los precitados antecedentes le son de aplicación los siguientes
 FUNDAMENTOS DE DERECHO
-Primero.- 1. El artículo 9.1 de la Ley 40/2015, de 1 de octubre, de Régimen Jurídico 
+Primero.- 1. El artículo 9.1 de la [Ley 40/2015](../../../estatal/01_marco_normativo_general_y_organico/L40_2015_regimen_juridico_sector_publico.md), de 1 de octubre, de Régimen Jurídico 
 del Sector Público (BOE nº 236, de 2.10.15), preceptúa que los órganos de las diferentes 
 Administraciones Públicas podrán delegar el ejercicio de las competencias que tengan 
 atribuidas en otros órganos de la misma Administración, aun cuando no sean jerárquicamente 
@@ -115,7 +118,7 @@ así como cuantas otras correspondan a la Agencia y no vengan atribuidas a ning�
 En consecuencia, corresponde al titular de la Dirección de la Agencia manifestar la 
 aceptación expresa de la delegación que se atribuye en materia de innovación y promoción 
 educativa.
-Segundo.- Por su parte, el artículo 31.3 de la Ley 14/1990, de 26 de julio, de Régimen 
+Segundo.- Por su parte, el artículo 31.3 de la [Ley 14/1990](L14_1990_regimen_juridico_administraciones_canarias.md), de 26 de julio, de Régimen 
 Jurídico de las Administraciones Públicas de Canarias (BOC nº 96, de 1.8.90), establece que 
 el ejercicio de competencias propias podrá ser delegado en el órgano que, por la aplicación 
 del principio de eficacia, sea más idóneo para su consecución, debiendo ser publicada tal 

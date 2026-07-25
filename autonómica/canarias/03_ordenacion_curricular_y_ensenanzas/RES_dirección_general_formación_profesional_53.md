@@ -32,6 +32,11 @@ fundamentos_derecho:
 - norma_id: norm-can-l-6-2014
   articulos:
   - '1'
+- norma_id: norm-can-d-84-2024
+- norma_id: norm-es-lo-2-2006
+- norma_id: norm-es-2019-317
+- norma_id: norm-es-2021-20113
+- norma_id: norm-es-2010-12201
 fuente_pdf_oficial: https://sede.gobiernodecanarias.org/boc/boc-a-2025-238-4105.pdf
 ---
 # Resolución de 19 de noviembre de 2025, de la Dirección General de Formación Profesional y Enseñanzas de Régimen Especial.por la que se convocan pruebas para la obtención de la certificación de Enseñanzas de Idiomas de Régimen Especial destinadas a la población escolar de centros docentes públicos de la Comunidad Autónoma de Canarias, y se dictan instrucciones para su organización y aplicación en el curso 2025/2026 (BOC nº 238, de 1 de diciembre).
@@ -73,13 +78,13 @@ de las pruebas, el calendario y horario de su celebración, la evaluación y cal
 alumnado convocado y los requisitos de participación.
 A los anteriores hechos les son de aplicación los siguientes
 FUNDAMENTOS DE DERECHO
-Primero.- La Ley Orgánica 2/2006, de 3 de mayo, de Educación, dedica los artículos 
+Primero.- La [Ley Orgánica 2/2006](../../../estatal/01_marco_normativo_general_y_organico/LO2_2006_ley_organica_educacion.md), de 3 de mayo, de Educación, dedica los artículos 
 59, 60, 61 y 62 a la ordenación de las Enseñanzas de Idiomas de Régimen Especial. En 
 
 su artículo 62.2 dispone que las Administraciones educativas facilitarán la realización de 
 pruebas homologadas para obtener la certificación oficial del conocimiento de las lenguas 
 cursadas por el alumnado de Educación Secundaria Obligatoria y Formación Profesional.
-Segundo.- La Ley 6/2014, de 25 de julio, Canaria de Educación no Universitaria, en 
+Segundo.- La [Ley 6/2014](../01_marco_normativo_general_y_organico/L6_2014_ley_canaria_educacion.md), de 25 de julio, Canaria de Educación no Universitaria, en 
 su artículo 35.5 determina que la consejería competente en materia de educación, teniendo 
 en cuenta la normativa básica del Estado, establecerá un régimen de convalidaciones entre 
 el aprendizaje de los idiomas adquiridos en las Enseñanzas de Régimen General y los 
@@ -109,7 +114,7 @@ las competencias propias del nivel A del Marco Común Europeo de Referencia para
 Lenguas, que se subdivide en los niveles A1 y A2, y que los certificados acreditativos 
 de nivel básico expedidos por las Administraciones educativas surtirán efecto en todo el 
 territorio nacional.
-Cuarto.- El Real Decreto 1/2019, de 11 de enero, por el que se establecen los principios 
+Cuarto.- El [Real Decreto 1/2019](../../../estatal/03_ordenacion_curricular_y_ensenanzas/BOE_2019_317_enero_establecen_principios_básicos.md), de 11 de enero, por el que se establecen los principios 
 básicos comunes de evaluación aplicables a las pruebas de certificación oficial de los niveles 
 Intermedio B1, Intermedio B2, Avanzado C1 y Avanzado C2 de las enseñanzas de idiomas 
 de régimen especial, dictado en desarrollo de lo dispuesto en el citado artículo 7 del Real 
@@ -157,7 +162,7 @@ características generales y la estructura de las pruebas de certificación junt
 de tareas y las características de los textos por actividad de lengua.
 En atención a lo anteriormente indicado, y de conformidad con lo dispuesto en el artículo 
 19 del Decreto 212/1991, de 11 de septiembre, de organización de los Departamentos de la 
-Administración Autonómica de Canarias, y el artículo 20 del Decreto 84/2024, de 10 de junio, 
+Administración Autonómica de Canarias, y el artículo 20 del [Decreto 84/2024](../01_marco_normativo_general_y_organico/D84_2024_reglamento_organico_consejeria.md), de 10 de junio, 
 por el que se aprueba el Reglamento Orgánico de la Consejería de Educación, Formación 
 Profesional, Actividad Física y Deportes, que asignan competencias generales y específicas a 
 la Dirección General de Formación Profesional y Enseñanzas de Régimen Especial,

@@ -32,6 +32,17 @@ fundamentos_derecho:
 - norma_id: norm-can-l-6-2014
   articulos:
   - '1'
+- norma_id: norm-can-d-84-2024
+- norma_id: norm-can-l-14-1990
+- norma_id: norm-can-l-2-1987
+- norma_id: norm-can-d-109-1999
+- norma_id: norm-can-d-106-2009
+- norma_id: norm-can-d-81-2010
+- norma_id: norm-can-o-2013-10-09
+- norma_id: norm-es-l-39-2015
+- norma_id: norm-es-l-40-2015
+- norma_id: norm-es-rdl-5-2015
+- norma_id: norm-es-rdl-2-2015
 fuente_pdf_oficial: https://sede.gobiernodecanarias.org/boc/boc-a-2026-046-751.pdf
 ---
 # Resolución de 24 de febrero de 2026, por la que se dictan instrucciones sobre la regulación del periodo vacacional, régimen de permisos y licencias del personal docente no universitario al servicio de la Administración Educativa Canaria y se delegan competencias en las Direcciones Territoriales y direcciones de los centros educativos. (BOC N.º 046. Lunes 9 de marzo de 2026).
@@ -61,7 +72,7 @@ operativas las referidas normas.
 Segundo.- Sin embargo, las modificaciones legales operadas con posterioridad a la 
 expresada Resolución, como la Ley 11/2020, de 30 de diciembre, de Presupuestos Generales 
 del Estado para el año 2021, y la Ley 22/2021, de 28 de diciembre, de Presupuestos 
-Generales del Estado para el año 2022, que modifica el Real Decreto Legislativo 5/2015, 
+Generales del Estado para el año 2022, que modifica el [Real Decreto Legislativo 5/2015](../../../estatal/01_marco_normativo_general_y_organico/RD5_2015_estatuto_basico_empleado_publico.md), 
 de 30 de octubre, por el que se aprueba el texto refundido de la Ley del Estatuto Básico del 
 Empleado Público, así como el Real Decreto-ley 9/2025, por el que se amplía el permiso 
 de nacimiento, y la necesidad de aglutinar todas las instrucciones sobre procedimientos 
@@ -79,14 +90,14 @@ aprobado por Real Decreto Legislativo 5/2015, de 30 de octubre, regula en sus ar
 
 dictarse legislación específica para el personal docente, de conformidad con lo establecido 
 en su artículo 2.3.
-Segundo.- Resulta igualmente de aplicación la Ley 2/1987, de 30 de marzo, de la 
+Segundo.- Resulta igualmente de aplicación la [Ley 2/1987](../01_marco_normativo_general_y_organico/L2_1987_funcion_publica_canaria.md), de 30 de marzo, de la 
 Función Pública Canaria, tanto en lo relativo al reconocimiento al derecho a las vacaciones 
 y al disfrute de determinados permisos y licencias (artículos 47 a 49), como a la previsión 
 contemplada en el artículo 2.2 de que se dicten normas específicas para adecuar lo dispuesto 
 en dicha ley a las peculiaridades del personal docente.
 Tercero.- De conformidad con el artículo 16.2 del Reglamento Orgánico de la 
 Consejería de Educación, Formación Profesional, Actividad Física y Deportes, aprobado 
-por Decreto 84/2024, de 10 de junio, corresponde a la Dirección General de Personal 
+por [Decreto 84/2024](../01_marco_normativo_general_y_organico/D84_2024_reglamento_organico_consejeria.md), de 10 de junio, corresponde a la Dirección General de Personal 
 y Formación del Profesorado dirigir y coordinar la gestión del personal docente no 
 universitario en centros públicos (letra a), así como conceder licencias y permisos al 
 personal docente no universitario (letra f).
@@ -96,18 +107,18 @@ Decreto 212/1991, de 11 de septiembre, de organización de los Departamentos de 
 Administración Autonómica de Canarias, asigna con carácter general a las Direcciones 
 Territoriales, ejercerán las que se les atribuyen por dicho Reglamento Orgánico y cuantas 
 otras les sean delegadas y encomendadas por los órganos superiores del Departamento.
-Quinto.- Por otro lado, el artículo 6 del Decreto 106/2009, de 28 de julio, por el que se 
+Quinto.- Por otro lado, el artículo 6 del [Decreto 106/2009](../04_organizacion_escolar_y_funcionamiento/D106_2009_funcion_directiva_centros_docentes.md), de 28 de julio, por el que se 
 regula la función directiva en los centros docentes públicos no universitarios dependientes 
 de la Comunidad Autónoma de Canarias, atribuye a las direcciones de los centros la 
 competencia de ejercer la jefatura de todo el personal adscrito al centro docente público, 
 bajo la supervisión de la Consejería competente en materia educativa.
-Sexto.- Igualmente, el Decreto 109/1999, de 25 de mayo, que regula el régimen de 
+Sexto.- Igualmente, el [Decreto 109/1999](../02_gestion_y_administracion_centros/D109_1999_escuelas_rurales_cer.md), de 25 de mayo, que regula el régimen de 
 creación y funcionamiento de los Colectivos de Escuelas Rurales, atribuye a la persona 
 coordinadora del Colectivo de Escuelas Rurales el ejercicio de la jefatura del profesorado 
 itinerante (artículo 9.d).
 Séptimo.- El Real Decreto-ley 9/2025, de 29 de julio, por el que se amplía el permiso de 
 nacimiento y cuidado, mediante la modificación del texto refundido de la Ley del Estatuto 
-de los Trabajadores, aprobado por el Real Decreto Legislativo 2/2015, de 23 de octubre, el 
+de los Trabajadores, aprobado por el [Real Decreto Legislativo 2/2015](../../../estatal/09_personal_laboral_y_no_docente/RDL2_2015_estatuto_trabajadores.md), de 23 de octubre, el 
 texto refundido de la Ley del Estatuto Básico del Empleado Público, aprobado por el Real 
 Decreto Legislativo 5/2015, de 30 de octubre, y el texto refundido de la Ley General de 
 la Seguridad Social, aprobado por el Real Decreto Legislativo 8/2015, de 30 de octubre, 
@@ -115,7 +126,7 @@ para completar la transposición de la Directiva (UE) 2019/1158 del Parlamento E
 y del Consejo, de 20 de junio de 2019, relativa a la conciliación de la vida familiar y la 
 vida profesional de los progenitores y los cuidadores, y por la que se deroga la Directiva 
 2010/18/UE del Consejo.
-Octavo.- Por su parte, el artículo 9 de la Ley 40/2015, de 1 de octubre, de Régimen 
+Octavo.- Por su parte, el artículo 9 de la [Ley 40/2015](../../../estatal/01_marco_normativo_general_y_organico/L40_2015_regimen_juridico_sector_publico.md), de 1 de octubre, de Régimen 
 Jurídico del Sector Público, establece que los órganos de las diferentes Administraciones 
 Públicas podrán delegar el ejercicio de las competencias que tengan atribuidas en otros 
 órganos de la misma Administración, aun cuando no sean jerárquicamente dependientes, 
@@ -123,7 +134,7 @@ Públicas podrán delegar el ejercicio de las competencias que tengan atribuidas
 siendo preceptivo que el acto de delegación y, en su caso, su revocación, se publiquen 
 en el Boletín Oficial correspondiente, y debiendo hacerse constar en las resoluciones 
 administrativas que se adopten por delegación, tal circunstancia de manera expresa.
-En la misma línea, y en el ámbito autonómico, la Ley 14/1990, de 26 de julio, de 
+En la misma línea, y en el ámbito autonómico, la [Ley 14/1990](../01_marco_normativo_general_y_organico/L14_1990_regimen_juridico_administraciones_canarias.md), de 26 de julio, de 
 Régimen Jurídico de las Administraciones Públicas de Canarias, dispone en su artículo 
 31.3 que el ejercicio de las competencias propias podrá ser delegado en el órgano que, por 
 la aplicación del principio de eficacia, sea más idóneo para ello, debiendo publicarse el acto 
@@ -493,7 +504,7 @@ Si el funcionario o la funcionaria con nombramiento a curso completo, no indica 
 periodo concreto en el que desea hacer uso de tal derecho o, en el caso del personal que 
 no esté incorporado al centro en el momento de la confección de los horarios individuales, 
 la dirección del centro podrá determinar el tiempo de disfrute dentro de la jornada laboral 
-contemplada en la Orden de 9 de octubre de 2013, por la que se desarrolla el Decreto 81/2010, 
+contemplada en la [Orden de 9 de octubre de 2013](../04_organizacion_escolar_y_funcionamiento/O9_10_2013_desarrollo_reglamento_organico_centros.md), por la que se desarrolla el [Decreto 81/2010](../04_organizacion_escolar_y_funcionamiento/D81_2010_reglamento_organico_centros.md), 
 de 8 de julio, por el que se aprueba el Reglamento Orgánico de los centros docentes públicos 
 no universitarios de la Comunidad Autónoma de Canarias, en lo referente a su organización 
 y funcionamiento, vigente durante el periodo de aplicación de la presente Resolución.
@@ -1042,7 +1053,7 @@ calidad de perito o testigo.
 c) Comparecer personalmente como persona demandante o demandada en procesos 
 judiciales.
 d) El de atender a citaciones efectuadas desde cualquier organismo oficial, siempre que 
-se den las circunstancias a las que alude el artículo 19 de la Ley 39/2015, de 1 de octubre.
+se den las circunstancias a las que alude el artículo 19 de la [Ley 39/2015](../../../estatal/01_marco_normativo_general_y_organico/L39_2015_procedimiento_administrativo_comun.md), de 1 de octubre.
 e) La asistencia por el personal docente, que ostente la condición de cargo electo, a 
 sesiones de los órganos colegiados de las entidades locales y atención a las Delegaciones de 
 las que forma parte o que desempeñe, o bien la asistencia a sesiones de órganos colegiados 

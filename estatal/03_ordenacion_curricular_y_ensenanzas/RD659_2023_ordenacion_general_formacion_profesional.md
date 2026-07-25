@@ -103,8 +103,30 @@ fundamentos_derecho:
 - norma_id: norm-es-lo-3-2022
   articulos:
   - '1'
+- norma_id: norm-can-res-boc-2024-230-25
+- norma_id: norm-can-res-134
+- norma_id: norm-es-2000-544
+- norma_id: norm-es-l-39-2015
+- norma_id: norm-es-l-40-2015
+- norma_id: norm-es-l-53-1984
+- norma_id: norm-es-lo-2-2006
+- norma_id: norm-es-1988-3987
+- norma_id: norm-es-1988-6938
+- norma_id: norm-es-1999-23750
+- norma_id: norm-es-2001-7022
+- norma_id: norm-es-2002-25289
+- norma_id: norm-es-lo-3-2018
+- norma_id: norm-es-lo-8-1985
+- norma_id: norm-es-2002-12018
+- norma_id: norm-es-2020-17274
+- norma_id: norm-es-2021-20113
+- norma_id: norm-es-2021-979
+- norma_id: norm-es-2022-1274
+- norma_id: norm-es-rd-217-2022
+- norma_id: norm-es-2010-12201
+- norma_id: norm-es-rdl-2-2015
 ---
-# Real Decreto 659/2023 - Ordenación General del Sistema de Formación Profesional
+# [Real Decreto 659/2023](../../autonómica/canarias/03_ordenacion_curricular_y_ensenanzas/RES_dirección_general_formación_profesional_25.md) - Ordenación General del Sistema de Formación Profesional
 
 **ÍNDICE**
 
@@ -736,7 +758,7 @@ Capítulo III. Concertación de políticas de Formación Profesional.
 
 #### Disposición adicional decimoquinta. Personas expertas del Sector Productivo.
 
-#### Disposición adicional decimosexta. Referencias contenidas en el Real Decreto 62/2022, de 25 de enero, de flexibilización de los requisitos exigibles para impartir ofertas de Formación Profesional conducentes a la obtención de certificados de profesionalidad, así como de la oferta de Formación Profesional en centros del sistema educativo y de Formación Profesional para el empleo.
+#### Disposición adicional decimosexta. Referencias contenidas en el [Real Decreto 62/2022](BOE_2022_1274_enero_flexibilización_requisitos_exigibles.md), de 25 de enero, de flexibilización de los requisitos exigibles para impartir ofertas de Formación Profesional conducentes a la obtención de certificados de profesionalidad, así como de la oferta de Formación Profesional en centros del sistema educativo y de Formación Profesional para el empleo.
 
 #### Disposición adicional decimoséptima. Financiación y remanentes.
 
@@ -774,9 +796,9 @@ Capítulo III. Concertación de políticas de Formación Profesional.
 
 #### Disposición final segunda. Modificación del Real Decreto 229/2008, de 15 de febrero, por el que se regulan los Centros de Referencia Nacional en el ámbito de la Formación Profesional.
 
-#### Disposición final tercera. Modificación del Real Decreto 1850/2009, de 4 de diciembre, sobre expedición de títulos académicos y profesionales correspondientes a las enseñanzas establecidas por la Ley Orgánica 2/2006, de 3 de mayo, de Educación.
+#### Disposición final tercera. Modificación del Real Decreto 1850/2009, de 4 de diciembre, sobre expedición de títulos académicos y profesionales correspondientes a las enseñanzas establecidas por la [Ley Orgánica 2/2006](../01_marco_normativo_general_y_organico/LO2_2006_ley_organica_educacion.md), de 3 de mayo, de Educación.
 
-#### Disposición final cuarta. Modificación del Real Decreto 1085/2020, de 9 de diciembre, por el que se establecen convalidaciones de módulos profesionales de los títulos de Formación Profesional del sistema educativo español y las medidas para su aplicación, y se modifica el Real Decreto 1147/2011, de 29 de julio, por el que se establece la ordenación general de la Formación Profesional del sistema educativo.
+#### Disposición final cuarta. Modificación del [Real Decreto 1085/2020](BOE_2020_17274_diciembre_establecen_convalidaciones_módulos.md), de 9 de diciembre, por el que se establecen convalidaciones de módulos profesionales de los títulos de Formación Profesional del sistema educativo español y las medidas para su aplicación, y se modifica el Real Decreto 1147/2011, de 29 de julio, por el que se establece la ordenación general de la Formación Profesional del sistema educativo.
 
 #### Disposición final quinta. Homologación de titulaciones y acreditaciones extranjeras por sus equivalentes españoles en el ámbito de la Formación Profesional.
 
@@ -822,7 +844,7 @@ Anexo XVII. Plan de formación.
 
 Anexo XVIII. Modelo de documento de acreditación de estándares de competencias profesionales obtenidos a través del procedimiento de acreditación de competencias adquiridas a través de la experiencia laboral u otras vías no formales e informales (artículo 187 apartado 1).
 
-La Ley Orgánica 3/2022, de 31 de marzo, de ordenación e integración de la Formación Profesional ha concretado la necesidad de reinventar el modelo de Formación Profesional para dar respuesta a las necesidades de la ciudadanía, a lo largo de toda su vida laboral, así como a las de la realidad productiva. Se evita así poner en riesgo objetivos fundamentales para el siglo XXI, ya que el fuerte cambio tecnológico y económico al que estamos sometidos exige una adecuada cualificación y flexibilidad del capital humano para adaptarse a las circunstancias cambiantes de la economía y de la tecnología.
+La [Ley Orgánica 3/2022](../../autonómica/canarias/08_personal_docente/RES_dirección_general_personal_sobre_134.md), de 31 de marzo, de ordenación e integración de la Formación Profesional ha concretado la necesidad de reinventar el modelo de Formación Profesional para dar respuesta a las necesidades de la ciudadanía, a lo largo de toda su vida laboral, así como a las de la realidad productiva. Se evita así poner en riesgo objetivos fundamentales para el siglo XXI, ya que el fuerte cambio tecnológico y económico al que estamos sometidos exige una adecuada cualificación y flexibilidad del capital humano para adaptarse a las circunstancias cambiantes de la economía y de la tecnología.
 
 Se ha diseñado un sistema ágil y eficaz, que permitirá a las administraciones facilitar, por una parte, la cualificación y recualificación permanente de las personas, a lo largo de todo su periodo vital y laboral, y, por otra, el ajuste entre la oferta formativa y la demanda de trabajo, uno de los desafíos como país.
 
@@ -884,7 +906,7 @@ Real Decreto 1085/2020, de 9 de diciembre, por el que se establecen convalidac
 
 De acuerdo con la jurisprudencia del Tribunal Constitucional, esta norma se encuentra incluida en los supuestos contemplados de extensión del carácter básico al ámbito reglamentario, por entenderse complemento indispensable para asegurar el mínimo común denominador establecido en las normas legales básicas.
 
-Asimismo, esta norma se ajusta a los principios de buena regulación contenidos en la Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común de las Administraciones Públicas, principios de necesidad, eficacia, proporcionalidad, seguridad jurídica, transparencia y eficiencia, en tanto que persigue un interés general al contribuir a la mejora del Sistema de Formación Profesional y cumple estrictamente el mandato establecido en el artículo 129 de la citada Ley y, no existiendo ninguna alternativa regulatoria menos restrictiva de derechos, resulta coherente con el ordenamiento jurídico y permite una gestión más eficiente de los recursos públicos. Del mismo modo, durante el procedimiento de elaboración de la norma se ha permitido la participación activa de los potenciales destinatarios a través del trámite de audiencia e información pública y quedan justificados los objetivos que persigue la ley.
+Asimismo, esta norma se ajusta a los principios de buena regulación contenidos en la [Ley 39/2015](../01_marco_normativo_general_y_organico/L39_2015_procedimiento_administrativo_comun.md), de 1 de octubre, del Procedimiento Administrativo Común de las Administraciones Públicas, principios de necesidad, eficacia, proporcionalidad, seguridad jurídica, transparencia y eficiencia, en tanto que persigue un interés general al contribuir a la mejora del Sistema de Formación Profesional y cumple estrictamente el mandato establecido en el artículo 129 de la citada Ley y, no existiendo ninguna alternativa regulatoria menos restrictiva de derechos, resulta coherente con el ordenamiento jurídico y permite una gestión más eficiente de los recursos públicos. Del mismo modo, durante el procedimiento de elaboración de la norma se ha permitido la participación activa de los potenciales destinatarios a través del trámite de audiencia e información pública y quedan justificados los objetivos que persigue la ley.
 
 En su elaboración han sido consultadas las comunidades autónomas, a través de la Conferencia Sectorial de Educación y de la Conferencia Sectorial del Sistema de Cualificaciones y de la Formación Profesional para el Empleo, y han informado el Consejo General de la Formación Profesional y el Ministerio de Política Territorial. Asimismo, ha sido sometido al informe de los diferentes departamentos ministeriales cuyas aportaciones se recogen en la correspondiente Memoria de Análisis del Impacto Normativo.
 
@@ -1230,7 +1252,7 @@ Las administraciones garantizarán, mediante el establecimiento de los oportunos
 
 #### Artículo 17. Derecho a la información sobre el proceso de formación personal.
 
-1. La persona en formación mayor de edad tendrá derecho a conocer las decisiones relativas a su evaluación, promoción y titulación, así como a acceder a la parte de los documentos oficiales de evaluación personales y las pruebas y documentos de las evaluaciones que se le realicen, sin perjuicio del respeto a las garantías establecidas en la Ley Orgánica 3/2018, de 5 de diciembre, de protección de datos personales y garantía de los derechos digitales y demás normativa aplicable en materia de protección de datos de carácter personal.
+1. La persona en formación mayor de edad tendrá derecho a conocer las decisiones relativas a su evaluación, promoción y titulación, así como a acceder a la parte de los documentos oficiales de evaluación personales y las pruebas y documentos de las evaluaciones que se le realicen, sin perjuicio del respeto a las garantías establecidas en la [Ley Orgánica 3/2018](../02_gestion_y_administracion_centros/LO3_2018_proteccion_datos_personales.md), de 5 de diciembre, de protección de datos personales y garantía de los derechos digitales y demás normativa aplicable en materia de protección de datos de carácter personal.
 
 2. Los derechos referidos en el apartado anterior se hacen también extensivos a las personas menores de edad, en las figuras de padres, madres, tutores o tutoras legales.
 
@@ -1588,7 +1610,7 @@ c) Estos centros estarán adscritos a centros públicos de formación profesio
 
 #### Artículo 39. Formación vinculada a la autorización de residencia.
 
-Las ofertas de formación profesional darán opción a la autorización de residencia temporal de un año por arraigo de la formación, contemplada en el Reglamento de la Ley Orgánica 4/2000, sobre derechos y libertades de los extranjeros en España y su integración social.
+Las ofertas de formación profesional darán opción a la autorización de residencia temporal de un año por arraigo de la formación, contemplada en el Reglamento de la [Ley Orgánica 4/2000](../01_marco_normativo_general_y_organico/BOE_2000_544_enero_sobre_derechos_libertades.md), sobre derechos y libertades de los extranjeros en España y su integración social.
 
 Los ciudadanos de países no pertenecientes a la Unión Europea que acrediten ser titulares de dicha autorización de residencia por arraigo para la formación, podrán obtener autorización para la matriculación y realización de una formación de los grados del Sistema de Formación Profesional previstos en el párrafo anterior.
 
@@ -2206,7 +2228,7 @@ d) Proyecto intermodular de aprendizaje colaborativo vinculado a los tres ámb
 
 #### Artículo 87. Currículo.
 
-1. El currículo de los ámbitos a) y b) del apartado 2 del artículo 85 quedan fijados en el anexo V del Real Decreto 217/2022, de 29 de marzo, por el que se establece la ordenación y las enseñanzas mínimas de la educación secundaria obligatoria, estableciendo en dicho anexo las competencias específicas, así como los criterios de evaluación y los contenidos, enunciados en forma de saberes básicos.
+1. El currículo de los ámbitos a) y b) del apartado 2 del artículo 85 quedan fijados en el anexo V del [Real Decreto 217/2022](RD217_2022_ordenacion_ensenanzas_minimas_eso.md), de 29 de marzo, por el que se establece la ordenación y las enseñanzas mínimas de la educación secundaria obligatoria, estableciendo en dicho anexo las competencias específicas, así como los criterios de evaluación y los contenidos, enunciados en forma de saberes básicos.
 
 2. El ámbito profesional tendrá un currículo organizado en módulos profesionales definidos en la normativa que establezca cada título, e incluirá el módulo profesional de itinerario personal para la empleabilidad, en los términos recogidos en el anexo III.
 
@@ -2794,7 +2816,7 @@ b)âMÃ³dulos profesionales de distintas acciones formativas de formaciÃ³
 
 1.º La convalidación de módulos profesionales aportando estudios de formación profesional regulados al amparo de la Ley 14/1970, de 4 de agosto, General de Educación y Financiamiento de la Reforma Educativa se solicitará en el centro de formación profesional donde la persona haya formalizado su matrícula, que dará traslado a la unidad competente del Ministerio de Educación y Formación Profesional. La convalidación quedará registrada en todos los documentos de evaluación como «convalidado» y no computará a efectos de nota media de la nueva formación.
 
-2.º La convalidación de módulos profesionales aportando estudios de formación profesional regulados por la Ley Orgánica 1/1990, de 3 de octubre, de Ordenación General del Sistema Educativo, se solicitará en el centro de formación profesional donde se haya formalizado la matrícula, que resolverá de acuerdo con los anexos del Real Decreto 1085/2020, de 9 de diciembre, por el que se establecen convalidaciones de módulos profesionales de los títulos de Formación Profesional del sistema educativo español y las medidas para su aplicación, y se modifica el Real Decreto 1147/2011, de 29 de julio, por el que se establece la ordenación general de la formación profesional del sistema educativo. La calificación del módulo profesional afectado en la nueva acción formativa será la que aparezca en el expediente académico de la anterior formación.
+2.º La convalidación de módulos profesionales aportando estudios de formación profesional regulados por la [Ley Orgánica 1/1990](../02_gestion_y_administracion_centros/BOE_2001_7022_correspondientes_españoles_educación_secundaria.md), de 3 de octubre, de Ordenación General del Sistema Educativo, se solicitará en el centro de formación profesional donde se haya formalizado la matrícula, que resolverá de acuerdo con los anexos del Real Decreto 1085/2020, de 9 de diciembre, por el que se establecen convalidaciones de módulos profesionales de los títulos de Formación Profesional del sistema educativo español y las medidas para su aplicación, y se modifica el Real Decreto 1147/2011, de 29 de julio, por el que se establece la ordenación general de la formación profesional del sistema educativo. La calificación del módulo profesional afectado en la nueva acción formativa será la que aparezca en el expediente académico de la anterior formación.
 
 3.º La convalidación de módulos profesionales aportando certificados de profesionalidad al amparo del Real Decreto 34/2008, de 18 de enero, por el que se regulan los certificados de profesionalidad, se solicitará en el centro de formación profesional donde se haya formalizado la matrícula en un Grado D o directamente ante la Administración competente cuando se solicite la convalidación para un Grado C, y se resolverá de acuerdo con los estándares de competencia incluidos en los módulos profesionales. A tal efecto, en el primero de los casos, se utilizarán los anexos del real decreto que establezca el título o curso de especialización. Esta convalidación quedará registrada en todos los documentos de evaluación como «convalidado» y computará como «5» a efectos de nota media de la nueva formación.
 
@@ -3404,7 +3426,7 @@ b) Las titulaciones requeridas y cualesquiera otros requisitos necesarios para
 
 4. El profesorado de los cuerpos de Catedráticos y Profesores de Enseñanza Secundaria, del Cuerpo de Profesores Especialistas en sectores singulares de la Formación Profesional, así como el del cuerpo, a extinguir, de Profesores Técnicos de Formación Profesional, sin perjuicio de lo establecido en el artículo 95 de la Ley Orgánica 2/2006 de 3 de mayo, de Educación, podrán ejercer sus funciones en los centros del sistema de Formación Profesional impartiendo todos los Grados de formación profesional de conformidad con su especialidad. Este profesorado podrá completar la jornada y horario establecidos para su puesto de trabajo impartiendo acciones formativas de cualquiera de los grados del Sistema de Formación Profesional. Asimismo, y a tal efecto, podrán ampliar voluntariamente su dedicación, considerándose de interés público.
 
-5. A los efectos previstos en el artículo 3 de la Ley 53/1984, de 26 de diciembre, de Incompatibilidades del Personal al Servicio de las Administraciones Públicas, la impartición de acciones formativas del Sistema de Formación Profesional, en sus distintos grados, tendrá la consideración de interés público.
+5. A los efectos previstos en el artículo 3 de la [Ley 53/1984](../01_marco_normativo_general_y_organico/L53_1984_incompatibilidades_personal_publico.md), de 26 de diciembre, de Incompatibilidades del Personal al Servicio de las Administraciones Públicas, la impartición de acciones formativas del Sistema de Formación Profesional, en sus distintos grados, tendrá la consideración de interés público.
 
 6. Cuando no existiera profesorado de los cuerpos previstos en el apartado a) del artículo 85.2 de la Ley Orgánica 3/2022, de 31 de marzo, de ordenación e integración de la Formación Profesional, o de titulados con las condiciones del apartado b) del citado artículo, ni profesionales inscritos en las listas actualizadas de profesorado interino de las especialidades del Sistema de Formación Profesional que cumplieran los requisitos, se podrán incorporar, para impartir módulos profesionales, profesionales cualificados, en calidad de personas expertas del sector productivo, no necesariamente tituladas. Quedan exceptuados de esta situación los casos en que un módulo profesional estuviera asignado directamente a un perfil de persona experta del sector productivo. Asimismo, y en los mismos términos, podrán incorporarse personas expertas senior, que desarrollen su actividad en el ámbito laboral, atendiendo a su demostrada cualificación y a las necesidades del Sistema de Formación Profesional. Dicha incorporación podrá ser a tiempo completo o parcial, en las condiciones que determinen las correspondientes administraciones competentes, con el fin de facilitar, en su caso, la compatibilidad con la dedicación al sector productivo y se realizará en régimen laboral, de acuerdo con el artículo 95.2 de la Ley Orgánica 2/2006, de 3 de mayo, de Educación.
 
@@ -4230,7 +4252,7 @@ f) La evaluación de los resultados de aprendizaje.
 
 4. Los centros privados de formación profesional decidirán sobre la concesión de las acreditaciones, certificados y títulos para los que estén autorizados. A efectos de solicitud de la expedición de los títulos de Técnico Básico, Técnico, Técnico Superior, Especialista y Máster de Formación Profesional, sin perjuicio de sus plenas facultades académicas, estarán adscritos a centros públicos de formación profesional. Las administraciones competentes regularán esta adscripción de los centros privados autorizados para impartir formación profesional a los centros públicos del Sistema de Formación Profesional.
 
-5. Los centros que ofrezcan enseñanzas reguladas en esta norma y que, además del Registro General de Centros de Formación Profesional, consten en el Registro Estatal de Centros Docentes no Universitarios se regirán por lo dispuesto en la Ley Orgánica 8/1985, de 3 de julio, reguladora del Derecho a la Educación, esta ley y las disposiciones que la desarrollen, y las demás normas que les sean de aplicación.
+5. Los centros que ofrezcan enseñanzas reguladas en esta norma y que, además del Registro General de Centros de Formación Profesional, consten en el Registro Estatal de Centros Docentes no Universitarios se regirán por lo dispuesto en la [Ley Orgánica 8/1985](../02_gestion_y_administracion_centros/LO8_1985_derecho_educacion.md), de 3 de julio, reguladora del Derecho a la Educación, esta ley y las disposiciones que la desarrollen, y las demás normas que les sean de aplicación.
 
 #### Artículo 206. Centros de segunda oportunidad en el Sistema de Formación Profesional.
 
@@ -4570,7 +4592,7 @@ Los vocales en representación de la Administración General del Estado y de las
 
 d) El grupo segundo, con diecinueve vocalías, en representación de las organizaciones sindicales representativas, en proporción a su representatividad, con arreglo a lo dispuesto en los artículos 6.2 y 7.1 de la Ley Orgánica 11/1985, de 2 de agosto, de Libertad Sindical.
 
-e) El grupo tercero, con diecinueve vocalías, en representación de las organizaciones empresariales más representativas del tejido productivo, con arreglo a lo dispuesto en la disposición adicional sexta del Real Decreto Legislativo 2/2015, de 23 de octubre, por el que se aprueba el texto refundido de la Ley del Estatuto de los Trabajadores.
+e) El grupo tercero, con diecinueve vocalías, en representación de las organizaciones empresariales más representativas del tejido productivo, con arreglo a lo dispuesto en la disposición adicional sexta del [Real Decreto Legislativo 2/2015](../09_personal_laboral_y_no_docente/RDL2_2015_estatuto_trabajadores.md), de 23 de octubre, por el que se aprueba el texto refundido de la Ley del Estatuto de los Trabajadores.
 
 f) La Secretaría del Consejo, designada por la Presidencia, con voz, pero sin voto, que prestará asistencia técnica y administrativa.
 
@@ -4762,7 +4784,7 @@ Las administraciones competentes podrán establecer incentivos para las personas
 
 Las referencias anteriores a la promulgación de la Ley Orgánica 3/2022, de 31 de marzo, contenidas en el Real Decreto 229/2008, de 15 de febrero, por el que se regulan los Centros de Referencia Nacional en el ámbito de la Formación Profesional, se entenderán como sigue:
 
-1. Las relativas a la Ley Orgánica 5/2002, de 19 de junio, se entenderán hechas a la Ley Orgánica 3/2022, de 31 de marzo.
+1. Las relativas a la [Ley Orgánica 5/2002](BOE_2002_12018_junio_cualificaciones_formación_profesional.md), de 19 de junio, se entenderán hechas a la Ley Orgánica 3/2022, de 31 de marzo.
 
 2. Las relativas al Catálogo Nacional de Cualificaciones Profesionales se entenderán hechas al Catálogo Nacional de Estándares de Competencias Profesionales.
 
@@ -4862,7 +4884,7 @@ Se habilita un periodo transitorio hasta el 31 de diciembre de 2024 para la ad
 
 #### Disposición transitoria octava. Homologación de estudios extranjeros no universitarios de Formación Profesional.
 
-En tanto no se proceda al desarrollo reglamentario al que hace referencia la disposición adicional décima, será de aplicación a los procedimientos de homologación de titulaciones y acreditaciones extranjeras por sus equivalentes españoles en el ámbito de la Formación Profesional lo previsto en el Real Decreto 104/1988, de 29 de enero, sobre homologación y convalidación de títulos y estudios extranjeros de educación no universitaria.
+En tanto no se proceda al desarrollo reglamentario al que hace referencia la disposición adicional décima, será de aplicación a los procedimientos de homologación de titulaciones y acreditaciones extranjeras por sus equivalentes españoles en el ámbito de la Formación Profesional lo previsto en el [Real Decreto 104/1988](../02_gestion_y_administracion_centros/BOE_1988_3987_enero_sobre_homologación_convalidación.md), de 29 de enero, sobre homologación y convalidación de títulos y estudios extranjeros de educación no universitaria.
 
 #### Disposición transitoria novena. Fundaciones y otras personas jurídicas autorizadas para impartir ofertas del Sistema de Formación Profesional.
 
@@ -5070,7 +5092,7 @@ Cuatro. El apartado 3 del artículo 3 queda redactado en los siguientes tér
 
 Cinco. El apartado 3 del artículo 4 queda redactado en los siguientes términos:
 
-«3. Respecto a la constitución y funcionamiento de estos registros y en particular en el acceso a sus datos, se observarán las previsiones que establece la Ley Orgánica 3/2018, de 5 de diciembre, de Protección de Datos Personales y garantía de los derechos digitales, así como los artículos en vigor de la Ley Orgánica 15/1999, de 13 de diciembre, de Protección de Datos de Carácter Personal, y las contenidas en el artículo 13.d) de la Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común de las Administraciones Públicas.»
+«3. Respecto a la constitución y funcionamiento de estos registros y en particular en el acceso a sus datos, se observarán las previsiones que establece la Ley Orgánica 3/2018, de 5 de diciembre, de Protección de Datos Personales y garantía de los derechos digitales, así como los artículos en vigor de la [Ley Orgánica 15/1999](../02_gestion_y_administracion_centros/BOE_1999_23750_diciembre_protección_datos_carácter.md), de 13 de diciembre, de Protección de Datos de Carácter Personal, y las contenidas en el artículo 13.d) de la Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común de las Administraciones Públicas.»
 
 Seis. Modificación de la denominación de los anexos:
 
@@ -6600,7 +6622,7 @@ Por el centro de Formación Profesional,
 
  
 
-Nota: Cuando alguna de las partes firmantes del convenio tenga la condición de Administración pública, se atendrá a la normativa que, a este respecto, prevé la de Ley 40/2015, de 1 de octubre, de Régimen Jurídico del Sector Público, así como la que en el ámbito autonómico le fuera de aplicación.
+Nota: Cuando alguna de las partes firmantes del convenio tenga la condición de Administración pública, se atendrá a la normativa que, a este respecto, prevé la de [Ley 40/2015](../01_marco_normativo_general_y_organico/L40_2015_regimen_juridico_sector_publico.md), de 1 de octubre, de Régimen Jurídico del Sector Público, así como la que en el ámbito autonómico le fuera de aplicación.
 
 ANEXO XVII
 

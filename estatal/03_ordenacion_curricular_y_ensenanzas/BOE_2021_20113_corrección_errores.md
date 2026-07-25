@@ -28,8 +28,9 @@ fundamentos_derecho:
   articulos:
   - '1'
   - '2'
+- norma_id: norm-es-2010-12201
 ---
-# Corrección de errores de la Orden EFP/721/2021, de 2 de julio, por la que se modifica la Orden ECD/1767/2012, de 3 de agosto, por la que se regula la expedición del título de Bachiller correspondiente a las enseñanzas reguladas por la Ley Orgánica 2/2006, de 3 de mayo, de Educación, para el alumnado inscrito en los programas de secciones internacionales españolas y «Bachibac» en liceos franceses.
+# Corrección de errores de la Orden EFP/721/2021, de 2 de julio, por la que se modifica la Orden ECD/1767/2012, de 3 de agosto, por la que se regula la expedición del título de Bachiller correspondiente a las enseñanzas reguladas por la [Ley Orgánica 2/2006](../01_marco_normativo_general_y_organico/LO2_2006_ley_organica_educacion.md), de 3 de mayo, de Educación, para el alumnado inscrito en los programas de secciones internacionales españolas y «Bachibac» en liceos franceses.
 
 En el modelo de «Solicitud de expedición del título de Bachiller para el alumnado proveniente de secciones internacionales españolas y secciones «Bachibac» en liceos franceses» de la página 81756, en el apartado de «Modalidad» del Anexo I, donde dice: «Ciencias y Tecnología», debe decir: «Ciencias».
 

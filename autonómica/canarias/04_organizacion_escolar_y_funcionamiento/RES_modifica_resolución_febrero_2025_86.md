@@ -34,6 +34,7 @@ fundamentos_derecho:
 - norma_id: norm-can-l-6-2014
   articulos:
   - '1'
+- norma_id: norm-can-d-84-2024
 fuente_pdf_oficial: https://sede.gobiernodecanarias.org/boc/boc-a-2026-023-346.pdf
 ---
 # Resolución de 26 de enero de 2026, por la que se modifica la Resolución de 20 de febrero de 2025, que establece el calendario escolar y dicta instrucciones para la organización y desarrollo de las actividades de comienzo y finalización del curso 2025-2026, para los centros de enseñanzas no universitarias de la Comunidad Autónoma de Canarias, corregida por la Resolución de 19 de marzo de 2025 (BOC nº 23, de 4 de febrero).
@@ -65,7 +66,7 @@ calificación obtenida para dicho acceso en el ciclo formativo que han cursado, 
 las convalidaciones de los créditos universitarios que correspondan.
 En virtud de lo citado anteriormente, y en ejercicio de las competencias atribuidas en 
 el artículo 18.2.A).g) del Reglamento Orgánico de la Consejería de Educación, Formación 
-Profesional, Actividad Física y Deportes, aprobado por el Decreto 84/2024, de 10 de junio,
+Profesional, Actividad Física y Deportes, aprobado por el [Decreto 84/2024](../01_marco_normativo_general_y_organico/D84_2024_reglamento_organico_consejeria.md), de 10 de junio,
 RESUELVO :
 Único.- Modificar el Anexo I, de Calendario de Finalización de Actividades, curso 
 2025-2026, de la Resolución de 20 de febrero de 2025, por la que se establece el calendario 

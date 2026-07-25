@@ -31,6 +31,10 @@ fundamentos_derecho:
 - norma_id: norm-can-l-6-2014
   articulos:
   - '1'
+- norma_id: norm-can-l-1-1997
+- norma_id: norm-can-l-2-1987
+- norma_id: norm-es-1984-17387
+- norma_id: norm-es-2001-7022
 fuente_pdf_oficial: http://www.gobiernodecanarias.org/boc/2004/160/boc-2004-160-003.pdf
 fuente_juriscan: http://www.gobcan.es/juriscan/ficha.jsp?id=49002
 ---
@@ -748,7 +752,7 @@ efectuar los descuentos en nómina que procedan.
 Las ausencias del profesorado deberán ser justi-
 ficadas siempre por escrito y de acuerdo con los su-
 puestos establecidos en los artículos 47, 48 y 49 de
-la Ley 2/1987, de 30 de marzo, de la Función Públi-
+la [Ley 2/1987](../01_marco_normativo_general_y_organico/L2_1987_funcion_publica_canaria.md), de 30 de marzo, de la Función Públi-
 ca Canaria. La Dirección estimará el fundamento y
 oportunidad de las razones alegadas para su justifi-
 cación.
@@ -780,7 +784,7 @@ ciplinaria, entrañarán una deducción proporcional
 de las retribuciones, de acuerdo con el artículo 36 de
 la Ley 31/1991, de Presupuestos Generales del Es-
 tado (B.O.E. de 31 de diciembre), que modifica par-
-cialmente la Ley 30/1984.
+cialmente la [Ley 30/1984](../../../estatal/01_marco_normativo_general_y_organico/BOE_1984_17387_agosto_medidas_para_reforma.md).
 A estos efectos, si en el plazo de tres días de ha-
 berse cometido una falta de asistencia y/o puntuali-
 dad no constase en el Registro de Entrada del centro
@@ -1796,7 +1800,7 @@ bre de 1997, por la que se regula en el ámbito de la
 Comunidad Autónoma de Canarias el procedimien-
 to de expedición de los títulos académicos y profe-
 sionales correspondientes a las enseñanzas estable-
-cidas por la Ley Orgánica 1/1990, de 3 de octubre,
+cidas por la [Ley Orgánica 1/1990](../../../estatal/02_gestion_y_administracion_centros/BOE_2001_7022_correspondientes_españoles_educación_secundaria.md), de 3 de octubre,
 de Ordenación General del Sistema Educativo (B.O.C.
 nº155, de 1 de diciembre), así como por las instrucciones
 de la Dirección General de Formación Profesional y
@@ -1887,7 +1891,7 @@ sonal no docente y a cualquier persona que se encuentre
 en el recinto escolar, siendo su incumplimiento ob-
 jeto de la oportuna advertencia.
 Igualmente, de acuerdo con lo establecido en la
-Ley 1/1997, de 7 de febrero, de Atención Integral a
+[Ley 1/1997](../01_marco_normativo_general_y_organico/L1_1997_atencion_integral_menores_canarias.md), de 7 de febrero, de Atención Integral a
 los Menores (B.O.C. de 17) se prohíben cuantas ac-
 tividades atenten contra la salud pública.
 Los centros docentes deberán promover un am-

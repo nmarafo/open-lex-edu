@@ -36,10 +36,13 @@ fundamentos_derecho:
 - norma_id: norm-es-l-31-1995
   articulos:
   - '1'
+- norma_id: norm-es-2001-7022
+- norma_id: norm-es-2021-20113
+- norma_id: norm-es-2010-12201
 ---
 # Real Decreto 596/2007, de 4 de mayo, por el que se establece la ordenación general de las enseñanzas profesionales de artes plásticas y diseño.
 
-La Ley Orgánica 2/2006, de 3 de mayo, de Educación, incluye las enseñanzas profesionales de artes plásticas y diseño en su capítulo VI sobre enseñanzas artísticas, y las organiza en ciclos de formación específica cuya finalidad es proporcionar al alumnado una formación artística de calidad y garantizar la cualificación de los futuros profesionales de las artes plásticas y el diseño.
+La [Ley Orgánica 2/2006](../01_marco_normativo_general_y_organico/LO2_2006_ley_organica_educacion.md), de 3 de mayo, de Educación, incluye las enseñanzas profesionales de artes plásticas y diseño en su capítulo VI sobre enseñanzas artísticas, y las organiza en ciclos de formación específica cuya finalidad es proporcionar al alumnado una formación artística de calidad y garantizar la cualificación de los futuros profesionales de las artes plásticas y el diseño.
 
 Esta Ley establece para las enseñanzas profesionales de artes plásticas y diseño una semejanza con las enseñanzas de formación profesional en cuanto al nivel académico de los estudios, su organización en ciclos de grado medio y de grado superior, la estructura modular de sus enseñanzas, y su finalidad que es, en ambos casos, la incorporación al mundo profesional. Además la Ley consolida aquellas especificidades propias de las enseñanzas artísticas que se asientan en una formación polivalente para favorecer el desarrollo de las capacidades y destrezas vinculadas al dominio del lenguaje artístico-plástico, la cultura artística, el conocimiento de los materiales y la tecnología, la metodología proyectual y la orientación e inserción profesional de alumno, y especializada a fin de garantizar el dominio cualificado de los procedimientos y técnicas artístico-artesanales propios de cada título. Asimismo, la Ley enmarca las enseñanzas profesionales de artes plásticas y diseño de grado medio en la educación secundaria postobligatoria y las de grado superior en la educación superior. Igualmente dispone que el Gobierno, previa consulta a las Comunidades Autónomas, establecerá las titulaciones correspondientes a las enseñanzas profesionales de artes plásticas y diseño, así como los aspectos básicos del currículo de cada una de ellas.
 
@@ -413,7 +416,7 @@ Periódicamente, el Gobierno procederá a la revisión y, en su caso, actualizac
 
 #### Disposición derogatoria única. Derogación normativa.
 
-Queda derogada la Orden de 16 de febrero de 1996, por la que se establecen los elementos básicos de los informes de evaluación del alumnado que curse los ciclos formativos de artes plásticas y diseño regulados por la Ley Orgánica 1/1990, de 3 de octubre, de Ordenación General del Sistema Educativo, así como los requisitos formales derivados del proceso de evaluación que son precisos para garantizar la movilidad de los alumnos.
+Queda derogada la Orden de 16 de febrero de 1996, por la que se establecen los elementos básicos de los informes de evaluación del alumnado que curse los ciclos formativos de artes plásticas y diseño regulados por la [Ley Orgánica 1/1990](../02_gestion_y_administracion_centros/BOE_2001_7022_correspondientes_españoles_educación_secundaria.md), de 3 de octubre, de Ordenación General del Sistema Educativo, así como los requisitos formales derivados del proceso de evaluación que son precisos para garantizar la movilidad de los alumnos.
 
 Igualmente quedan derogadas cuantas disposiciones de igual o inferior rango se opongan a lo dispuesto en este real decreto.
 

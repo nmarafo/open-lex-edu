@@ -29,8 +29,10 @@ fundamentos_derecho:
 - norma_id: norm-es-rdl-5-2015
   articulos:
   - '1'
+- norma_id: norm-es-1999-23750
+- norma_id: norm-es-2014-7684
 ---
-# Orden ESS/1187/2015, de 15 de junio, por la que se desarrolla el Real Decreto 625/2014, de 18 de julio, por el que se regulan determinados aspectos de la gestión y control de los procesos por incapacidad temporal en los primeros trescientos sesenta y cinco días de su duración.
+# Orden ESS/1187/2015, de 15 de junio, por la que se desarrolla el [Real Decreto 625/2014](BOE_2014_7684_julio_regulan_determinados_aspectos.md), de 18 de julio, por el que se regulan determinados aspectos de la gestión y control de los procesos por incapacidad temporal en los primeros trescientos sesenta y cinco días de su duración.
 
 El Real Decreto 625/2014, de 18 de julio, por el que se regulan determinados aspectos de la gestión y control de los procesos por incapacidad temporal en los primeros trescientos sesenta y cinco días de su duración, ha venido a establecer una nueva regulación que incide en varias cuestiones de la gestión de la referida situación de incapacidad temporal. Dicha regulación responde, entre otras razones, a determinadas reformas legales introducidas en los últimos años en materia de incapacidad temporal, y al avance en los medios de coordinación de actuaciones entre las distintas entidades implicadas en su gestión.
 
@@ -188,7 +190,7 @@ La obligación de presentar las copias de los partes médicos, por el sistema RE
 
 3. El acceso a la consulta, el tratamiento y la explotación de los datos que figuren en la copia de los partes remitidos conforme a lo indicado en este artículo únicamente podrán ser realizados por el Instituto Nacional de la Seguridad Social y, en su caso, el Instituto Social de la Marina o la mutua correspondiente. Asimismo, el acceso a la consulta de los datos que figuran en la copia de los partes remitidos podrá realizarse por la Tesorería General de la Seguridad Social exclusivamente en relación con aquellos aspectos que determinen condiciones de cotización específicas respecto de los trabajadores en situación de baja médica.
 
-En todo caso, la transmisión, cesión, tratamiento y explotación de los datos recogidos en las copias de los partes médicos, presentadas conforme a lo dispuesto en este artículo, están sometidos a lo establecido en la Ley Orgánica 15/1999, de 13 de diciembre, de Protección de Datos de Carácter Personal.
+En todo caso, la transmisión, cesión, tratamiento y explotación de los datos recogidos en las copias de los partes médicos, presentadas conforme a lo dispuesto en este artículo, están sometidos a lo establecido en la [Ley Orgánica 15/1999](../02_gestion_y_administracion_centros/BOE_1999_23750_diciembre_protección_datos_carácter.md), de 13 de diciembre, de Protección de Datos de Carácter Personal.
 
 4. La presentación telemática de las copias de los partes médicos indicados determinará que las mismas no deban presentarse en soporte papel.
 

@@ -27,6 +27,12 @@ fundamentos_derecho:
 - norma_id: norm-es-ce-1978
   articulos:
   - '27'
+- norma_id: norm-es-2000-544
+- norma_id: norm-es-lo-2-2006
+- norma_id: norm-es-1999-23750
+- norma_id: norm-es-lo-8-1985
+- norma_id: norm-es-2021-20113
+- norma_id: norm-es-2010-12201
 ---
 # Real Decreto Legislativo 1/2013, de 29 de noviembre, por el que se aprueba el Texto Refundido de la Ley General de derechos de las personas con discapacidad y de su inclusión social.
 
@@ -186,7 +192,7 @@ La acreditación del grado de discapacidad se realizará en los términos establ
 
 4. A efectos del reconocimiento del derecho a los servicios de prevención de deficiencias y de intensificación de discapacidades se asimilan a dicha situación los estados previos, entendidos como procesos en evolución que puedan llegar a ocasionar una limitación en la actividad.
 
-5. Los servicios, prestaciones y demás beneficios previstos en esta ley se otorgarán a los extranjeros de conformidad con lo previsto en la Ley Orgánica 4/2000, de 11 de enero, sobre derechos y libertades de los extranjeros en España y su integración social, en los tratados internacionales y en los convenios que se establezcan con el país de origen. Para los menores extranjeros se estará además a lo dispuesto en las leyes de protección de los derechos de los menores vigentes, tanto en el ámbito estatal como en el autonómico, así como en los tratados internacionales.
+5. Los servicios, prestaciones y demás beneficios previstos en esta ley se otorgarán a los extranjeros de conformidad con lo previsto en la [Ley Orgánica 4/2000](../01_marco_normativo_general_y_organico/BOE_2000_544_enero_sobre_derechos_libertades.md), de 11 de enero, sobre derechos y libertades de los extranjeros en España y su integración social, en los tratados internacionales y en los convenios que se establezcan con el país de origen. Para los menores extranjeros se estará además a lo dispuesto en las leyes de protección de los derechos de los menores vigentes, tanto en el ámbito estatal como en el autonómico, así como en los tratados internacionales.
 
 6. El Gobierno extenderá la aplicación de las prestaciones económicas previstas en esta ley a los españoles residentes en el extranjero, siempre que carezcan de protección equiparable en el país de residencia, en la forma y con los requisitos que reglamentariamente se determinen.
 
@@ -342,7 +348,7 @@ d) Apoyo para la actividad profesional.
 
 #### Artículo 16. Educación.
 
-La educación inclusiva formará parte del proceso de atención integral de las personas con discapacidad y será impartida mediante los apoyos y ajustes que se reconocen en el capítulo IV de este título y en la Ley Orgánica 2/2006, de 3 de mayo, de Educación.
+La educación inclusiva formará parte del proceso de atención integral de las personas con discapacidad y será impartida mediante los apoyos y ajustes que se reconocen en el capítulo IV de este título y en la [Ley Orgánica 2/2006](../01_marco_normativo_general_y_organico/LO2_2006_ley_organica_educacion.md), de 3 de mayo, de Educación.
 
 #### Artículo 17. Apoyo para la actividad profesional.
 
@@ -398,7 +404,7 @@ d) Se realizarán programas de sensibilización, información y formación conti
 
 1. Son funciones específicas de los servicios de orientación educativa apoyar a los centros docentes en el proceso hacia la inclusión y, especialmente, en las funciones de orientación, evaluación e intervención educativa, contribuyendo a la dinamización pedagógica, a la calidad y la innovación educativa.
 
-2. A efectos de la participación en el control y gestión de los centros docentes previsto en la Ley Orgánica 8/1985, de 3 de julio, reguladora del derecho a la educación, y en la Ley Orgánica 2/2006, de 3 de mayo, de educación, se tendrá en cuenta la especialidad de esta ley en lo que se refiere a los servicios de orientación educativa.
+2. A efectos de la participación en el control y gestión de los centros docentes previsto en la [Ley Orgánica 8/1985](../02_gestion_y_administracion_centros/LO8_1985_derecho_educacion.md), de 3 de julio, reguladora del derecho a la educación, y en la Ley Orgánica 2/2006, de 3 de mayo, de educación, se tendrá en cuenta la especialidad de esta ley en lo que se refiere a los servicios de orientación educativa.
 
 CAPÍTULO V
 
@@ -1012,7 +1018,7 @@ Los procedimientos sancionadores que se incoen con arreglo a lo establecido en e
 
 #### Artículo 92. Publicidad de las resoluciones sancionadoras.
 
-La resolución firme en vía administrativa de los expedientes sancionadores por faltas graves y muy graves será hecha pública, cuando así lo acuerde la autoridad administrativa que la haya adoptado, una vez notificada a los interesados, tras resolver en su caso sobre los aspectos confidenciales de su contenido y previa disociación de los datos de carácter personal a los que se refiere el artículo 3.a) de la Ley Orgánica 15/1999, de 13 de diciembre, de Protección de Datos de Carácter Personal, salvo en lo que se refiere al nombre de los infractores. Con este fin, se recabará con carácter previo el oportuno informe de la Agencia Española de Protección de Datos o la autoridad autonómica que corresponda.
+La resolución firme en vía administrativa de los expedientes sancionadores por faltas graves y muy graves será hecha pública, cuando así lo acuerde la autoridad administrativa que la haya adoptado, una vez notificada a los interesados, tras resolver en su caso sobre los aspectos confidenciales de su contenido y previa disociación de los datos de carácter personal a los que se refiere el artículo 3.a) de la [Ley Orgánica 15/1999](../02_gestion_y_administracion_centros/BOE_1999_23750_diciembre_protección_datos_carácter.md), de 13 de diciembre, de Protección de Datos de Carácter Personal, salvo en lo que se refiere al nombre de los infractores. Con este fin, se recabará con carácter previo el oportuno informe de la Agencia Española de Protección de Datos o la autoridad autonómica que corresponda.
 
 #### Artículo 93. Deber de colaboración.
 

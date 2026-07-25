@@ -33,6 +33,9 @@ fundamentos_derecho:
 - norma_id: norm-es-l-39-2015
   articulos:
   - '1'
+- norma_id: norm-es-1995-25444
+- norma_id: norm-es-lo-1-1996
+- norma_id: norm-es-1999-23750
 ---
 # Ley Orgánica 5/2000 reguladora de la responsabilidad penal de los menores
 
@@ -48,7 +51,7 @@ Sabed: Que las Cortes Generales han aprobado y Yo vengo en sancionar la siguient
 
 **I**
 
-1. La promulgación de la presente Ley Orgánica reguladora de la responsabilidad penal de los menores era una necesidad impuesta por lo establecido en la Ley Orgánica 4/1992, de 5 de junio, sobre reforma de la Ley reguladora de la competencia y el procedimiento de los Juzgados de Menores; en la moción aprobada por el Congreso de los Diputados el 10 de mayo de 1994, y en el artículo 19 de la vigente Ley Orgánica 10/1995, de 23 de noviembre, del Código Penal.
+1. La promulgación de la presente Ley Orgánica reguladora de la responsabilidad penal de los menores era una necesidad impuesta por lo establecido en la Ley Orgánica 4/1992, de 5 de junio, sobre reforma de la Ley reguladora de la competencia y el procedimiento de los Juzgados de Menores; en la moción aprobada por el Congreso de los Diputados el 10 de mayo de 1994, y en el artículo 19 de la vigente [Ley Orgánica 10/1995](BOE_1995_25444_noviembre_código_penal.md), de 23 de noviembre, del Código Penal.
 
 2. La Ley Orgánica 4/1992, promulgada como consecuencia de la sentencia del Tribunal Constitucional 36/1991, de 14 de febrero, que declaró inconstitucional el artículo 15 de la Ley de Tribunales Tutelares de Menores, texto refundido de 11 de junio de 1948, establece un marco flexible para que los Juzgados de Menores puedan determinar las medidas aplicables a éstos en cuanto infractores penales, sobre la base de valorar especialmente el interés del menor, entendiendo por menores a tales efectos a las personas comprendidas entre los doce y los dieciséis años. Simultáneamente, encomienda al Ministerio Fiscal la iniciativa procesal, y le concede amplias facultades para acordar la terminación del proceso con la intención de evitar, dentro de lo posible, los efectos aflictivos que el mismo pudiera llegar a producir. Asimismo, configura al equipo técnico como instrumento imprescindible para alcanzar el objetivo que persiguen las medidas y termina estableciendo un procedimiento de naturaleza sancionadora-educativa, al que otorga todas las garantías derivadas de nuestro ordenamiento constitucional, en sintonía con lo establecido en la aludida sentencia del Tribunal Constitucional y lo dispuesto en el artículo 40 de la Convención de los Derechos del Niño de 20 de noviembre de 1989.
 
@@ -140,7 +143,7 @@ TÍTULO PRELIMINAR
 
 2. También se aplicará lo dispuesto en esta Ley para los menores a las personas mayores de dieciocho años y menores de veintiuno, en los términos establecidos en el artículo 4 de la misma.
 
-3. Las personas a las que se aplique la presente Ley gozarán de todos los derechos reconocidos en la Constitución y en el ordenamiento jurídico, particularmente en la Ley Orgánica 1/1996, de 15 de enero, de Protección Jurídica del Menor, así como en la Convención sobre los Derechos del Niño de 20 de noviembre de 1989 y en todas aquellas normas sobre protección de menores contenidas en los Tratados válidamente celebrados por España.
+3. Las personas a las que se aplique la presente Ley gozarán de todos los derechos reconocidos en la Constitución y en el ordenamiento jurídico, particularmente en la [Ley Orgánica 1/1996](LO1_1996_proteccion_juridica_menor.md), de 15 de enero, de Protección Jurídica del Menor, así como en la Convención sobre los Derechos del Niño de 20 de noviembre de 1989 y en todas aquellas normas sobre protección de menores contenidas en los Tratados válidamente celebrados por España.
 
 4. Al efecto de designar a las personas a quienes se aplica esta Ley, en el articulado de la misma se utiliza el término menores para referirse a las que no han cum plido dieciocho años, y el de jóvenes para referirse a las mayores de dicha edad.
 
@@ -690,7 +693,7 @@ Reglas para la ejecución de las medidas
 
 2. Dicho expediente tendrá carácter reservado y solamente tendrán acceso al mismo el Defensor del Pueblo o institución análoga de la correspondiente Comunidad Autónoma, los Jueces de Menores competentes, el Ministerio Fiscal y las personas que intervengan en la ejecución y estén autorizadas por la entidad pública de acuerdo con sus normas de organización. El menor, su letrado y, en su caso, su representante legal, también tendrán acceso al expediente.
 
-3. La recogida, cesión y tratamiento automatizado de datos de carácter personal de las personas a las que se aplique la presente Ley, sólo podrá realizarse en ficheros informáticos de titularidad pública dependientes de las entidades públicas de protección de menores, Administraciones y Juzgados de Menores competentes o del Ministerio Fiscal, y se regirá por lo dispuesto en la Ley Orgánica 15/1999, de 13 de diciembre, de Protección de Datos de Cáracter Personal, y sus normas de desarrollo.
+3. La recogida, cesión y tratamiento automatizado de datos de carácter personal de las personas a las que se aplique la presente Ley, sólo podrá realizarse en ficheros informáticos de titularidad pública dependientes de las entidades públicas de protección de menores, Administraciones y Juzgados de Menores competentes o del Ministerio Fiscal, y se regirá por lo dispuesto en la [Ley Orgánica 15/1999](../02_gestion_y_administracion_centros/BOE_1999_23750_diciembre_protección_datos_carácter.md), de 13 de diciembre, de Protección de Datos de Cáracter Personal, y sus normas de desarrollo.
 
 #### Artículo 49. Informes sobre la ejecución.
 

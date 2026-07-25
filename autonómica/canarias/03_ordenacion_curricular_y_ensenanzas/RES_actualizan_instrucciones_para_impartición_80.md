@@ -31,6 +31,8 @@ fundamentos_derecho:
   articulos:
   - '1'
 - norma_id: norm-es-lo-2-2006
+- norma_id: norm-es-2021-20113
+- norma_id: norm-es-2010-12201
 fuente_pdf_oficial: https://sede.gobiernodecanarias.org/boc/boc-a-2021-114-2852.pdf
 ---
 # Resolución de 24 de mayo de 2021, por la que se actualizan las instrucciones para la impartición de los cursos de preparación de pruebas de acceso a ciclos formativos de grado medio y superior de Formación Profesional (BOC n.º 114, de 4 de junio).
@@ -58,7 +60,7 @@ centros de educación de personas adultas y centros de educación a distancia a 
 curso 2007-2008.
 A estos hechos les son de aplicación los siguientes
 FUNDAMENTOS DE DERECHO
-Primero.- La Ley Orgánica 2/2006, de 3 de mayo, de Educación (LOE), establece en su 
+Primero.- La [Ley Orgánica 2/2006](../../../estatal/01_marco_normativo_general_y_organico/LO2_2006_ley_organica_educacion.md), de 3 de mayo, de Educación (LOE), establece en su 
 artículo 41.4 que las Administraciones educativas convocarán periódicamente las pruebas 
 de acceso a los ciclos formativos, tanto de grado medio como de grado superior.
 Segundo.- La Ley 13/2003, de 4 de abril, de Educación y Formación Permanente de 

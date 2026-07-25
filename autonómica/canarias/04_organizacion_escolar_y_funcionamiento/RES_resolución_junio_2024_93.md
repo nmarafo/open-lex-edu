@@ -27,6 +27,15 @@ fundamentos_derecho:
 - norma_id: norm-can-l-6-2014
   articulos:
   - '1'
+- norma_id: norm-can-d-123-2023
+- norma_id: norm-can-l-14-1990
+- norma_id: norm-can-lo-1-2018
+- norma_id: norm-can-d-81-2010
+- norma_id: norm-can-o-2013-10-09
+- norma_id: norm-es-lo-2-2006
+- norma_id: norm-es-lo-8-1985
+- norma_id: norm-es-2021-20113
+- norma_id: norm-es-2010-12201
 fuente_pdf_oficial: https://sede.gobiernodecanarias.org/boc/boc-a-2024-117-1919.pdf
 ---
 # Resolución de 3 de junio de 2024
@@ -77,11 +86,11 @@ general de la enseñanza, con la participación efectiva de todos los sectores a
 artículo 27, apartado 7, cuando prevé que el profesorado, las familias y, en su caso, el alumnado 
 intervendrán en el control y la gestión de los centros sostenidos por la Administración con 
 fondos públicos, en los términos que la Ley establezca.
-Segundo.- La Ley Orgánica 8/1985, de 3 de julio, reguladora del Derecho a la Educación, 
+Segundo.- La [Ley Orgánica 8/1985](../../../estatal/02_gestion_y_administracion_centros/LO8_1985_derecho_educacion.md), de 3 de julio, reguladora del Derecho a la Educación, 
 se ocupa de los órganos de gobierno de los centros públicos, con una mayor concreción 
 respecto de los centros concertados, dejando claro que la participación de la comunidad 
 escolar se vehicula a través del consejo escolar del centro.
-Tercero.- El Título V de la Ley Orgánica 2/2006, de 3 de mayo, de Educación, está 
+Tercero.- El Título V de la [Ley Orgánica 2/2006](../../../estatal/01_marco_normativo_general_y_organico/LO2_2006_ley_organica_educacion.md), de 3 de mayo, de Educación, está 
 dedicado a la participación, la autonomía y el gobierno de los centros; en este sentido, 
 el Consejo Escolar, como órgano colegiado de gobierno de los centros educativos, se 
 constituye, en gran medida, en el responsable de impulsar y dinamizar la autonomía del 
@@ -89,17 +98,17 @@ centro. De ahí deriva la importancia y trascendencia que tienen las elecciones 
 del Consejo Escolar, ya sea para su constitución como para su renovación, toda vez que 
 este órgano colegiado, junto con la dirección, conforman el eje de la organización y el 
 funcionamiento de los centros sostenidos con fondos públicos.
-Cuarto.- La Ley Orgánica 1/2018, de 5 de noviembre, de reforma del Estatuto de 
+Cuarto.- La [Ley Orgánica 1/2018](../01_marco_normativo_general_y_organico/LO1_2018_estatuto_autonomia_canarias.md), de 5 de noviembre, de reforma del Estatuto de 
 Autonomía de Canarias, establece que los miembros de la comunidad educativa tienen 
 derecho a participar en los asuntos escolares y universitarios en los términos establecidos 
 por las leyes.
-Quinto.- La Ley 6/2014, de 25 de julio, Canaria de Educación no Universitaria, 
+Quinto.- La [Ley 6/2014](../01_marco_normativo_general_y_organico/L6_2014_ley_canaria_educacion.md), de 25 de julio, Canaria de Educación no Universitaria, 
 reconoce la relevancia de la participación de la comunidad educativa en la vida escolar, 
 por cuanto que, entre los principios rectores que regirán el sistema educativo canario, está 
 el de facilitar la participación social como elemento de calidad del propio sistema, como se 
 regula en su artículo 3, apartado a).
 Sexto.- El Reglamento Orgánico de los centros docentes públicos no universitarios de la 
-Comunidad Autónoma de Canarias, aprobado por Decreto 81/2010, de 8 de julio, establece 
+Comunidad Autónoma de Canarias, aprobado por [Decreto 81/2010](D81_2010_reglamento_organico_centros.md), de 8 de julio, establece 
 en el artículo 16, apartados 1 y 4, que la Consejería competente en materia educativa 
 establecerá el procedimiento de elección, renovación y constitución del Consejo Escolar, 
 que se desarrollará durante el primer trimestre del curso académico que corresponda. 
@@ -117,10 +126,10 @@ produzcan entre un proceso electoral y otro, en cuyo caso se estará a lo dispue
 artículo 27 de la citada Orden.
 
 Por ello, en virtud de las competencias atribuidas en el artículo 29, apartado 1, letra a), 
-de la Ley 14/1990, de 26 de julio, de Régimen Jurídico de las Administraciones Públicas de 
+de la [Ley 14/1990](../01_marco_normativo_general_y_organico/L14_1990_regimen_juridico_administraciones_canarias.md), de 26 de julio, de Régimen Jurídico de las Administraciones Públicas de 
 Canarias, y en el artículo 17.2.a) del Reglamento Orgánico de la Consejería de Educación, 
 Universidades, Cultura y Deportes, aprobado por Decreto 7/2021, de 18 de febrero, en 
-relación con la disposición transitoria única del Decreto 123/2023, de 17 de julio, por la que 
+relación con la disposición transitoria única del [Decreto 123/2023](../01_marco_normativo_general_y_organico/D123_2023_estructura_organica_gobierno_canarias.md), de 17 de julio, por la que 
 se determina la estructura orgánica y sedes de las Consejerías del Gobierno de Canarias,
 RESUELVO :
 Primero.- Objeto y ámbito de aplicación.

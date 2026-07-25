@@ -42,7 +42,7 @@ de 28 de agosto de 2017, por la que se dictan instrucciones para la tramitación
 electrónica del procedimiento que regula las actividades escolares complementarias, 
 actividades extraescolares y servicios escolares en los centros privados concertados 
 de Canarias.
-En virtud de la entrada en vigor, el 2 de octubre de 2016, de la Ley 39/2015, de 1 de 
+En virtud de la entrada en vigor, el 2 de octubre de 2016, de la [Ley 39/2015](../../../estatal/01_marco_normativo_general_y_organico/L39_2015_procedimiento_administrativo_comun.md), de 1 de 
 octubre, del Procedimiento Administrativo Común de las Administraciones Públicas, se 
 hace ineludible establecer la actuaciones necesarias con el objeto de dar cumplimiento a las 
 diferentes previsiones establecidas en la misma, y teniendo en cuenta los siguientes

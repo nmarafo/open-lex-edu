@@ -28,6 +28,11 @@ fundamentos_derecho:
   articulos:
   - '1'
 - norma_id: norm-es-lo-2-2006
+- norma_id: norm-can-d-84-2024
+- norma_id: norm-can-l-14-1990
+- norma_id: norm-can-d-109-1999
+- norma_id: norm-es-2021-20113
+- norma_id: norm-es-2010-12201
 fuente_pdf_oficial: https://sede.gobiernodecanarias.org/boc/boc-a-2026-125-2192.pdf
 ---
 # Resolución de 15 de junio de 2026, por la que se convoca el proceso y se aprueba el calendario para la renovación parcial o la nueva constitución de los Consejos de los Colectivos de Escuelas Rurales en la Comunidad Autónoma de Canarias, a celebrar en el curso escolar 2026-2027.
@@ -59,7 +64,7 @@ años la mitad de las personas representantes de cada sector y cuya última conv
 renovación parcial se realizó en el curso 2024-2025.
 A estos antecedentes, les son de aplicación los siguientes
 FUNDAMENTOS DE DERECHO
-Primero.- El Título V de la Ley Orgánica 2/2006, de 3 de mayo, de Educación, en su 
+Primero.- El Título V de la [Ley Orgánica 2/2006](../../../estatal/01_marco_normativo_general_y_organico/LO2_2006_ley_organica_educacion.md), de 3 de mayo, de Educación, en su 
 redacción actual, está dedicado a la participación, autonomía y gobierno de los centros; y el 
 Capítulo I de dicho título se refiere específicamente a la participación en el funcionamiento 
 y el gobierno de los centros. De ahí deriva la importancia y la trascendencia que tienen 
@@ -69,7 +74,7 @@ CER y los distintos equipos educativos de los centros
 que lo integran, conforman el eje de la organización y funcionamiento de dichos CER.
 Segundo.- La necesidad de convocar elecciones para la renovación o nueva constitución 
 de los representantes de los distintos sectores de la comunidad educativa en los Consejos 
-de los CER viene determinada en la Sección 3.ª del Capítulo II del Decreto 109/1999, de 
+de los CER viene determinada en la Sección 3.ª del Capítulo II del [Decreto 109/1999](../02_gestion_y_administracion_centros/D109_1999_escuelas_rurales_cer.md), de 
 25 de mayo, por el que se regula el régimen de creación y funcionamiento de los Colectivos 
 de Escuelas Rurales.
 Tercero.- La Orden de 12 de mayo de 2016, por la que se regulan la composición 
@@ -83,10 +88,10 @@ aprueba el calendario para la renovación parcial o la nueva constitución de lo
 Escolares de los centros educativos sostenidos con fondos públicos del ámbito de la 
 Comunidad Autónoma de Canarias, a celebrar en el curso escolar 2026-2027.
 Por ello, en virtud de las competencias atribuidas en el artículo 29, apartado 1, letra a) 
-de la Ley 14/1990, de 26 de julio, de Régimen Jurídico de las Administraciones Públicas de 
+de la [Ley 14/1990](../01_marco_normativo_general_y_organico/L14_1990_regimen_juridico_administraciones_canarias.md), de 26 de julio, de Régimen Jurídico de las Administraciones Públicas de 
 Canarias, y en el artículo 18, apartado 2.A).a), del Reglamento Orgánico de la Consejería 
-de Educación, Formación Profesional, Actividad Física y Deportes, aprobado por Decreto 
-84/2024, de 10 de junio,
+de Educación, Formación Profesional, Actividad Física y Deportes, aprobado por [Decreto 
+84/2024](../01_marco_normativo_general_y_organico/D84_2024_reglamento_organico_consejeria.md), de 10 de junio,
 RESUELVO :
 Primero.- Objeto y ámbito de aplicación.
 La presente Resolución tiene por objeto regular el proceso y aprobar el calendario para 

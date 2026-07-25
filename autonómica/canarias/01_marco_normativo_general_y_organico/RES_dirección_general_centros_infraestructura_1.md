@@ -29,6 +29,16 @@ fundamentos_derecho:
 - norma_id: norm-can-l-6-2014
   articulos:
   - '1'
+- norma_id: norm-can-d-106-2009
+- norma_id: norm-can-d-81-2010
+- norma_id: norm-can-o-2013-10-09
+- norma_id: norm-can-d-114-2011
+- norma_id: norm-es-2015-8222
+- norma_id: norm-es-2015-8470
+- norma_id: norm-es-l-40-2015
+- norma_id: norm-es-lo-2-2006
+- norma_id: norm-es-2021-20113
+- norma_id: norm-es-2010-12201
 fuente_pdf_oficial: https://sede.gobiernodecanarias.org/boc/boc-a-2017-132-3376.pdf
 anexos_extraidos_pdf: true
 ocr_procesado: true
@@ -98,16 +108,16 @@ sus progenitores, mediando o resolviendo el conflicto, al menos provisionalmente
 una actuación inmediata que garantice no solo el derecho a la educación, sino también los 
 derechos y deberes de los progenitores, primeros responsables de la educación de sus hijos.
 Para ello, debe tenerse en cuenta la consecución de los fines hacia los que se orienta nuestro 
-sistema educativo, definidos por la Ley Orgánica 2/2006, de 3 de mayo, de Educación, como 
+sistema educativo, definidos por la [Ley Orgánica 2/2006](../../../estatal/01_marco_normativo_general_y_organico/LO2_2006_ley_organica_educacion.md), de 3 de mayo, de Educación, como 
 son el respeto de los derechos y libertades fundamentales, la prevención de conflictos y la 
 resolución pacífica de los mismos. 
-En la misma línea, se destaca la Ley 6/2014, de 25 de julio, Canaria de Educación no 
+En la misma línea, se destaca la [Ley 6/2014](L6_2014_ley_canaria_educacion.md), de 25 de julio, Canaria de Educación no 
 universitaria, que establece, entre sus principios rectores, la educación en y para la convivencia 
 basada en el respeto, la solidaridad y la igualdad, la construcción de una cultura de paz 
 dirigida a la prevención de los conflictos y su resolución mediante el diálogo, reconociendo 
 a las familias, asimismo, su derecho a recibir información sobre sus hijos e hijas y a ser oídas 
 en aquellas decisiones que afecten su evolución escolar y sus oportunidades educativas. 
-Por su parte, la publicación de la Ley Orgánica 8/2015, de 22 de julio y la Ley 26/2015, 
+Por su parte, la publicación de la [Ley Orgánica 8/2015](../../../estatal/01_marco_normativo_general_y_organico/BOE_2015_8222_julio_modificación_sistema_protección.md), de 22 de julio y la [Ley 26/2015](../../../estatal/01_marco_normativo_general_y_organico/BOE_2015_8470_julio_modificación_sistema_protección.md), 
 de 28 de julio, ambas denominadas de modificación del sistema de protección a la infancia 
 y a la adolescencia, introducen cambios jurídicos-procesales y sustantivos que refuerzan el 
 derecho del menor a que su interés superior sea prioritario, siendo este un principio rector de 
@@ -138,8 +148,8 @@ docentes en su quehacer diario y también a las propias familias, proporcionando
 ya pautadas ante determinadas situaciones o favoreciendo que puedan alcanzar un acuerdo 
 en lo que no esté previsto. En definitiva, se trata de extraer de la normativa existente el 
 protocolo de actuación que deben seguir los centros educativos para abordar estos supuestos, 
-a través de instrucciones dictadas de acuerdo con lo previsto en el artículo 6 de la Ley 
-40/2015, de 1 de octubre, de Régimen Jurídico del Sector Público.
+a través de instrucciones dictadas de acuerdo con lo previsto en el artículo 6 de la [Ley 
+40/2015](../../../estatal/01_marco_normativo_general_y_organico/L40_2015_regimen_juridico_sector_publico.md), de 1 de octubre, de Régimen Jurídico del Sector Público.
 Partiendo de esta legislación básica, las presentes instrucciones especifican los criterios 
 de interpretación y aplicación de la normativa educativa que incide sobre aquellas materias 
 en las que, con más frecuencia, aparecen discrepancias entre los progenitores del alumno o 
@@ -151,13 +161,13 @@ Comunidad Autónoma de Canarias (BOC nº 67, de 3 de abril).
 por el que se regula la admisión del alumnado de enseñanzas no universitarias en los centros 
 docentes públicos y privados concertados de la Comunidad Autónoma de Canarias (BOC nº 
 53, de 17 de marzo).
-3) Decreto 106/2009, de 28 de julio, por el que se regula la función directiva en los 
+3) [Decreto 106/2009](../04_organizacion_escolar_y_funcionamiento/D106_2009_funcion_directiva_centros_docentes.md), de 28 de julio, por el que se regula la función directiva en los 
 centros docentes públicos no universitarios dependientes de la Comunidad Autónoma de 
 Canarias (BOC nº 165, de 11 de agosto).
-4) Decreto 81/2010, de 8 de julio, por el que se aprueba el Reglamento Orgánico de los 
+4) [Decreto 81/2010](../04_organizacion_escolar_y_funcionamiento/D81_2010_reglamento_organico_centros.md), de 8 de julio, por el que se aprueba el Reglamento Orgánico de los 
 centros docentes públicos no universitarios de la Comunidad Autónoma de Canarias (BOC 
 nº 143, de 22 de julio).
-5) Decreto 114/2011, de 11 de mayo, por el que se regula la convivencia en el ámbito 
+5) [Decreto 114/2011](../07_convivencia_bienestar_y_protocolos/D114_2011_convivencia_escolar.md), de 11 de mayo, por el que se regula la convivencia en el ámbito 
 educativo de la Comunidad Autónoma de Canarias (BOC nº 108, de 2 de junio).
 6) Orden de 27 de marzo de 2007, por la que se desarrolla el procedimiento de admisión 
 del alumnado en las enseñanzas no universitarias en los centros docentes públicos y privados 
@@ -166,7 +176,7 @@ concertados de la Comunidad Autónoma de Canarias (BOC nº 70, de 9 de abril).
 de 2007, que desarrolla el procedimiento de admisión del alumnado en las enseñanzas no 
 universitarias en los centros docentes públicos y privados concertados de la Comunidad 
 Autónoma de Canarias (BOC nº 58, de 23 de marzo).
-8) Orden de 9 de octubre de 2013, por la que se desarrolla el Decreto 81/2010, de 8 de 
+8) [Orden de 9 de octubre de 2013](../04_organizacion_escolar_y_funcionamiento/O9_10_2013_desarrollo_reglamento_organico_centros.md), por la que se desarrolla el Decreto 81/2010, de 8 de 
 julio, por el que se aprueba el Reglamento Orgánico de los centros docentes públicos no 
 universitarios de la Comunidad Autónoma de Canarias, en lo referente a su organización y 
 funcionamiento (BOC nº 200, de 16 de octubre). 

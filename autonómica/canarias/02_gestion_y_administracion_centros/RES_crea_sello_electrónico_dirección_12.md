@@ -32,6 +32,7 @@ fundamentos_derecho:
   articulos:
   - '1'
 - norma_id: norm-es-l-39-2015
+- norma_id: norm-es-l-40-2015
 fuente_pdf_oficial: https://sede.gobiernodecanarias.org/boc/boc-a-2019-016-310.pdf
 ---
 # Secretaría General Técnica.- Resolución de 9 de enero de 2019, por la que se crea el sello electrónico de la Dirección General de Centros e Infraestructura Educativa (BOC n.º 16, de 24 de enero).
@@ -42,7 +43,7 @@ Consejería de Educación y Universidades
 310 Secretaría General Técnica.- Resolución de 9 de enero de 2019, por la que se crea 
 el sello electrónico de la Dirección General de Centros e Infraestructura Educativa.
 ANTECEDENTES DE HECHO
-La Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común de las 
+La [Ley 39/2015](../../../estatal/01_marco_normativo_general_y_organico/L39_2015_procedimiento_administrativo_comun.md), de 1 de octubre, del Procedimiento Administrativo Común de las 
 Administraciones Públicas (BOE nº 236, de 2 de octubre), en su exposición de motivos 
 señala:
 “En particular, se admitirán como sistemas de firma: los sistemas de firma electrónica 
@@ -64,7 +65,7 @@ el resto de Estados miembros, así como los sistemas de firma y sello electróni
 certificados electrónicos cualificados emitidos por prestadores de servicios que figuren en 
 las listas de confianza de otros Estados miembros de la Unión Europea, en los términos que 
 prevea dicha norma comunitaria”.
-Por su parte, la Ley 40/2015, de 1 de octubre, de Régimen Jurídico del Sector Público 
+Por su parte, la [Ley 40/2015](../../../estatal/01_marco_normativo_general_y_organico/L40_2015_regimen_juridico_sector_publico.md), de 1 de octubre, de Régimen Jurídico del Sector Público 
 (BOE nº 236, de 2 de octubre), ha venido a recoger, con las adaptaciones necesarias, las 
 normas hasta ahora contenidas en la Ley 11/2007, de 22 de junio, de acceso electrónico de 
 los ciudadanos a los Servicios Públicos, en lo relativo al funcionamiento electrónico del 

@@ -38,6 +38,13 @@ fundamentos_derecho:
 - norma_id: norm-es-ce-1978
   articulos:
   - '103'
+- norma_id: norm-es-1984-17387
+- norma_id: norm-es-2015-8470
+- norma_id: norm-es-l-40-2015
+- norma_id: norm-es-l-53-1984
+- norma_id: norm-es-1985-5392
+- norma_id: norm-es-2013-12632
+- norma_id: norm-es-2012-9364
 ---
 # Real Decreto Legislativo 5/2015 (TREBEP)
 
@@ -85,7 +92,7 @@ Quedan derogadas todas las disposiciones de igual o inferior rango que se oponga
 
 5. La disposición final segunda de la Ley 27/2011, de 1 de agosto, sobre actualización, adecuación y modernización del sistema de Seguridad Social.
 
-6. El artículo 7, el artículo 8, apartados uno y dos, el artículo 11 y el artículo 13, apartado 1, del Real Decreto-ley 20/2012, de 13 de julio, de medidas para garantizar la estabilidad presupuestaria y de fomento de la competitividad.
+6. El artículo 7, el artículo 8, apartados uno y dos, el artículo 11 y el artículo 13, apartado 1, del Real Decreto-[ley 20/2012](../08_personal_docente/BOE_2012_9364_julio_medidas_para_garantizar.md), de 13 de julio, de medidas para garantizar la estabilidad presupuestaria y de fomento de la competitividad.
 
 7. La disposición adicional cuarta de la Ley Orgánica 9/2013, de 20 de diciembre, de control de la deuda comercial en el sector publico.
 
@@ -95,7 +102,7 @@ Quedan derogadas todas las disposiciones de igual o inferior rango que se oponga
 
 10. El artículo 5 de la Ley 25/2015, de 28 de julio, de mecanismo de segunda oportunidad, reducción de la carga financiera y otras medidas de orden social.
 
-11. La disposición final cuarta de la Ley 26/2015, de 28 de julio, de modificación del sistema de protección a la infancia y a la adolescencia.
+11. La disposición final cuarta de la [Ley 26/2015](BOE_2015_8470_julio_modificación_sistema_protección.md), de 28 de julio, de modificación del sistema de protección a la infancia y a la adolescencia.
 
 12. El artículo 2 del Real Decreto-ley 10/2015, de 11 de septiembre, por el que se conceden créditos extraordinarios y suplementos de crédito en el presupuesto del Estado y se adoptan otras medidas en materia de empleo público y de estímulo a la economía.
 
@@ -415,7 +422,7 @@ Título VIII. Cooperación entre las Administraciones Públicas.
 
 #### Disposición final segunda.
 
-#### Disposición final tercera. Modificación de la Ley 53/1984, de 26 de diciembre, de incompatibilidades del personal al servicio de las Administraciones Públicas.
+#### Disposición final tercera. Modificación de la [Ley 53/1984](L53_1984_incompatibilidades_personal_publico.md), de 26 de diciembre, de incompatibilidades del personal al servicio de las Administraciones Públicas.
 
 #### Disposición final cuarta. Entrada en vigor.
 
@@ -1345,7 +1352,7 @@ Las Administraciones Públicas establecerán los requisitos y condiciones para e
 
 #### Artículo 59. Personas con discapacidad.
 
-1. En las ofertas de empleo público se reservará un cupo no inferior al siete por ciento de las vacantes para ser cubiertas entre personas con discapacidad, considerando como tales las definidas en el apartado 2 del artículo 4 del texto refundido de la Ley General de derechos de las personas con discapacidad y de su inclusión social, aprobado por el Real Decreto Legislativo 1/2013, de 29 de noviembre, siempre que superen los procesos selectivos y acrediten su discapacidad y la compatibilidad con el desempeño de las tareas, de modo que progresivamente se alcance el dos por ciento de los efectivos totales en cada Administración Pública.
+1. En las ofertas de empleo público se reservará un cupo no inferior al siete por ciento de las vacantes para ser cubiertas entre personas con discapacidad, considerando como tales las definidas en el apartado 2 del artículo 4 del texto refundido de la Ley General de derechos de las personas con discapacidad y de su inclusión social, aprobado por el [Real Decreto Legislativo 1/2013](../07_convivencia_bienestar_y_protocolos/BOE_2013_12632_noviembre_aprueba_texto_refundido.md), de 29 de noviembre, siempre que superen los procesos selectivos y acrediten su discapacidad y la compatibilidad con el desempeño de las tareas, de modo que progresivamente se alcance el dos por ciento de los efectivos totales en cada Administración Pública.
 
 La reserva del mínimo del siete por ciento se realizará de manera que, al menos, el dos por ciento de las plazas ofertadas lo sea para ser cubiertas por personas que acrediten discapacidad intelectual y el resto de las plazas ofertadas lo sea para personas que acrediten cualquier otro tipo de discapacidad.
 
@@ -1977,7 +1984,7 @@ d) La determinación de las faltas y sanciones disciplinarias leves.
 
 #### Disposición adicional cuarta. Aplicación de este Estatuto a las autoridades administrativas independientes de ámbito estatal.
 
-Lo establecido en el presente Estatuto se aplicará a las autoridades administrativas independientes del ámbito estatal, Entidades de Derecho Público reguladas en los artículos 109 y 110 de la Ley 40/2015, de 1 de octubre, de Régimen Jurídico del Sector Público, en la forma prevista en sus leyes de creación.
+Lo establecido en el presente Estatuto se aplicará a las autoridades administrativas independientes del ámbito estatal, Entidades de Derecho Público reguladas en los artículos 109 y 110 de la [Ley 40/2015](L40_2015_regimen_juridico_sector_publico.md), de 1 de octubre, de Régimen Jurídico del Sector Público, en la forma prevista en sus leyes de creación.
 
 #### Disposición adicional quinta. Jubilación de los funcionarios.
 
@@ -2113,11 +2120,11 @@ Quedan derogadas con el alcance establecido en el apartado 2 de la disposición 
 
 a) De la Ley de Funcionarios Civiles del Estado aprobada por Decreto 315/1964, de 7 de febrero, los artículos 1, 2, 3, 4, 5.2, 7, 29, 30, 36, 37, 38, 39.2, 40, 41, 42, 44, 47, 48, 49, 50, 59, 60, 61, 63, 64, 65, 68, 71, 76, 77, 78, 79, 80, 87, 89, 90, 91, 92, 93, 102, 104 y 105.
 
-b) De la Ley 30/1984, de 2 de agosto, de Medidas para la Reforma de la Función Pública, los artículos 3.2.e) y f); 6; 7; 8; 11; 12; 13.2, 3 y 4; 14.4 y 5; 16; 17; 18.1 a 5; 19.1 y 3; 20.1.a), b) párrafo primero, c), e) y g) en sus párrafos primero a cuarto, e i), 2 y 3; 21; 22.1 a excepción de los dos últimos párrafos; 23; 24; 25; 26; 29, a excepción del último párrafo de sus apartados 5, 6 y 7; 30.3 y 5; 31; 32; 33; disposiciones adicionales tercera.2 y 3, cuarta, duodécima y decimoquinta, disposiciones transitorias segunda, octava y novena.
+b) De la [Ley 30/1984](BOE_1984_17387_agosto_medidas_para_reforma.md), de 2 de agosto, de Medidas para la Reforma de la Función Pública, los artículos 3.2.e) y f); 6; 7; 8; 11; 12; 13.2, 3 y 4; 14.4 y 5; 16; 17; 18.1 a 5; 19.1 y 3; 20.1.a), b) párrafo primero, c), e) y g) en sus párrafos primero a cuarto, e i), 2 y 3; 21; 22.1 a excepción de los dos últimos párrafos; 23; 24; 25; 26; 29, a excepción del último párrafo de sus apartados 5, 6 y 7; 30.3 y 5; 31; 32; 33; disposiciones adicionales tercera.2 y 3, cuarta, duodécima y decimoquinta, disposiciones transitorias segunda, octava y novena.
 
 c) La Ley 9/1987, de 12 de junio, de órganos de representación, determinación de las condiciones de trabajo y participación del personal al servicio de las Administraciones Públicas, excepto su artículo 7 y con la excepción contemplada en la disposición transitoria quinta de este Estatuto.
 
-d) De la Ley 7/1985, de 2 de abril, reguladora de las bases del Régimen Local, el capítulo III del título VII.
+d) De la [Ley 7/1985](../02_gestion_y_administracion_centros/BOE_1985_5392_abril_reguladora_bases_régimen.md), de 2 de abril, reguladora de las bases del Régimen Local, el capítulo III del título VII.
 
 e) Del Real Decreto Legislativo 781/1986, de 18 de abril, texto refundido de las disposiciones legales vigentes en materia de Régimen Local, el capítulo III del título VII.
 

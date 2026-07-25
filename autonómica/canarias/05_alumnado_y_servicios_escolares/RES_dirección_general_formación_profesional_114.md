@@ -32,6 +32,10 @@ fundamentos_derecho:
   articulos:
   - '1'
 - norma_id: norm-es-lo-2-2006
+- norma_id: norm-es-l-39-2015
+- norma_id: norm-es-2021-20113
+- norma_id: norm-es-2007-10487
+- norma_id: norm-es-2010-12201
 fuente_pdf_oficial: https://sede.gobiernodecanarias.org/boc/boc-a-2018-106-2612.pdf
 ---
 # Resolución de 22 de mayo de 2018, de la Dirección General de Formación Profesional y Educación de Adultos, por la que se dictan instrucciones para la concesión de los Premios Extraordinarios de Enseñanzas Profesionales de Música y de Artes Plásticas y Diseño en la Comunidad Autónoma de Canarias, en el curso 2017-2018 (BOC n.º 106, de 4 de junio).
@@ -58,7 +62,7 @@ Secundaria Obligatoria y quince Premios Nacionales de Enseñanzas Artísticas Pr
 en régimen de concurrencia competitiva y publicidad.
 Al anterior antecedente le son de aplicación los siguientes
 FUNDAMENTOS DE DERECHO
-Primero.- La Ley Orgánica 2/2006, de 3 de mayo, de Educación, en su redacción actual, 
+Primero.- La [Ley Orgánica 2/2006](../../../estatal/01_marco_normativo_general_y_organico/LO2_2006_ley_organica_educacion.md), de 3 de mayo, de Educación, en su redacción actual, 
 incluye, en su artículo 2.1.d), entre los fines a los que se orientará el sistema educativo 
 español, la educación en la responsabilidad individual y en el mérito y esfuerzo personal.
 Asimismo, los artículos 89 y 90 de la citada Ley Orgánica contemplan la posibilidad de 
@@ -105,7 +109,7 @@ sus respectivas comunidades educativas.
 Contra la presente resolución se podrá interponer recurso de alzada ante el Viceconsejero 
 de Educación y Universidades, en el plazo de un mes a contar desde el día siguiente a 
 aquel en que tenga lugar la notificación, de acuerdo con lo dispuesto en los artículos 121 y 
-122 de la Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común de las 
+122 de la [Ley 39/2015](../../../estatal/01_marco_normativo_general_y_organico/L39_2015_procedimiento_administrativo_comun.md), de 1 de octubre, del Procedimiento Administrativo Común de las 
 Administraciones Públicas (BOE nº 236, de 2 de octubre).
 Santa Cruz de Tenerife, a 22 de mayo de 2018.- El Director General de Formación 
 Profesional y Educación de Adultos, Manuel Jorge Pérez.
@@ -160,8 +164,8 @@ profesionales de artes plásticas y diseño.
 b) Haber obtenido una nota media igual o superior a 8,75 en el ciclo formativo de grado 
 medio o de grado superior cursado. A estos efectos los módulos formativos convalidados o 
 exentos no serán tenidos en cuenta. 
-2.1. Las notas medias del alumnado aspirante se calcularán conforme al Real Decreto 
-596/2007, de 4 de mayo, por el que se establece la ordenación general de las enseñanzas 
+2.1. Las notas medias del alumnado aspirante se calcularán conforme al [Real Decreto 
+596/2007](../../../estatal/05_alumnado_y_servicios_escolares/BOE_2007_10487_mayo_establece_ordenación_general.md), de 4 de mayo, por el que se establece la ordenación general de las enseñanzas 
 profesionales de artes plásticas y diseño (BOE nº 125, de 25 de mayo). 
 2.2. El cumplimiento de los requisitos establecidos en los anteriores apartados a) y b) se 
 acreditará mediante certificación académica personal, expedida por la secretaría del centro 

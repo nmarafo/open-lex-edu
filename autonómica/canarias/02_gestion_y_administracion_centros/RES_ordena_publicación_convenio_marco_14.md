@@ -25,6 +25,14 @@ fundamentos_derecho:
 - norma_id: norm-can-l-6-2014
   articulos:
   - '1'
+- norma_id: norm-can-l-14-1990
+- norma_id: norm-es-l-40-2015
+- norma_id: norm-es-lo-2-2006
+- norma_id: norm-es-l-9-2017
+- norma_id: norm-es-lo-3-2018
+- norma_id: norm-es-2016-3229
+- norma_id: norm-es-2021-20113
+- norma_id: norm-es-2010-12201
 fuente_pdf_oficial: https://sede.gobiernodecanarias.org/boc/boc-a-2021-229-4680.pdf
 ---
 # Resolución de 27 de octubre de 2021, por la que se ordena la publicación del Convenio Marco de Cooperación entre la Consejería de Educación, Universidades, Cultura y Deportes y la Federación Canaria de Municipios (FECAM) para el desarrollo de acciones y actuaciones en los centros docentes públicos no universitarios.
@@ -89,14 +97,14 @@ Para el cumplimiento de sus fines la FECAM, en base al artículo 8.1.f de sus Es
 podrá cooperar y convenir lealmente y en materia de interés mutuo, con las Administraciones 
 públicas que así lo requieran, y siempre y cuando no se invadan o suplanten las competencias 
 estrictamente municipales.
-Tercero.- La Ley Orgánica 2/2006, de 3 de mayo, de Educación (LOE), establece un 
+Tercero.- La [Ley Orgánica 2/2006](../../../estatal/01_marco_normativo_general_y_organico/LO2_2006_ley_organica_educacion.md), de 3 de mayo, de Educación (LOE), establece un 
 principio de cooperación administrativa con las corporaciones locales para la organización 
 de actividades que contribuyan al desarrollo de valores relacionados con la socialización, 
 la participación, el respeto y la solidaridad, con la finalidad de lograr una mayor eficacia 
 de los recursos destinados a la educación y contribuir a los fines educativos establecidos 
 en la misma.
 
-Asimismo, la Ley Orgánica 8/2013, de 9 de diciembre, para la mejora de la 
+Asimismo, la [Ley Orgánica 8/2013](../../../estatal/03_ordenacion_curricular_y_ensenanzas/BOE_2016_3229_marzo_regula_procedimiento_incorporación.md), de 9 de diciembre, para la mejora de la 
 calidad educativa (LOMCE), establece un principio de cooperación sincera entre las 
 Administraciones educativas que permita compartir las mejores prácticas del sistema y 
 mejorar la cohesión territorial.
@@ -118,7 +126,7 @@ realicen los centros públicos no universitarios de la Comunidad Autónoma de Ca
 (BOC nº 11, de 24 de enero). Estas Órdenes establecen la posibilidad de que en estas 
 actividades, distintas entidades cooperen junto a la Administración Educativa para el logro 
 de sus objetivos.
-Sexto.- El Capítulo VI de la Ley 40/2015, de 1 de octubre, de Régimen Jurídico del 
+Sexto.- El Capítulo VI de la [Ley 40/2015](../../../estatal/01_marco_normativo_general_y_organico/L40_2015_regimen_juridico_sector_publico.md), de 1 de octubre, de Régimen Jurídico del 
 Sector Público, regula para los convenios su definición y tipo, los requisitos de validez 
 y eficacia, las materias que deben incluir como mínimo, los trámites preceptivos para la 
 suscripción de los convenios y sus efectos, la extinción, los efectos de la resolución de los 
@@ -257,7 +265,7 @@ Dichas personas para realizar las actividades, acciones y actuaciones objeto del
 Convenio Marco de Cooperación, contarán exclusivamente con los medios materiales y 
 personales que pongan a su disposición los Ayuntamientos, que además sufragarán cuantos 
 gastos e indemnizaciones ocasione la actividad.
-En este sentido, los Ayuntamientos, de acuerdo con el artículo 3.3 de la Ley 9/2017, 
+En este sentido, los Ayuntamientos, de acuerdo con el artículo 3.3 de la [Ley 9/2017](../../../estatal/02_gestion_y_administracion_centros/L9_2017_contratos_sector_publico.md), 
 de 8 de noviembre, de Contratos del Sector Público, por la que se transponen 
 al ordenamiento jurídico español las Directivas del Parlamento Europeo y del 
 Consejo 2014/23/UE y 2014/24/UE, de 26 de febrero de 2014, dictarán en sus respectivos 
@@ -321,7 +329,7 @@ La extinción de este Convenio no afectará a la culminación de las actividades
 con anterioridad a la expiración de la vigencia del Convenio Marco de Cooperación, las 
 cuales continuarán desarrollándose hasta su completa finalización.
 Novena.- Confidencialidad de los resultados de datos personales generados.
-Al amparo de lo dispuesto en la Ley Orgánica 3/2018, de 5 de diciembre, de Protección 
+Al amparo de lo dispuesto en la [Ley Orgánica 3/2018](../../../estatal/02_gestion_y_administracion_centros/LO3_2018_proteccion_datos_personales.md), de 5 de diciembre, de Protección 
 de Datos Personales y garantía de los derechos digitales, las partes se comprometen u 
 obligan a lo siguiente:
 1. Las partes se comprometen a no difundir por una descripción escrita u oral las 
@@ -377,7 +385,7 @@ REUNIDOS
 De una parte, Dña. Manuela de Armas Rodríguez, Consejera de Educación, Universidades, 
 Cultura y Deportes de la Comunidad Autónoma de Canarias en virtud del Decreto 52/2020, de 19 de 
 junio, del Presidente del Gobierno de Canarias, actuando en nombre y representación de la misma, 
-y en uso de las competencias que tiene atribuidas en el artículo 29.1.k de la Ley 14/1990, de 26 de 
+y en uso de las competencias que tiene atribuidas en el artículo 29.1.k de la [Ley 14/1990](../01_marco_normativo_general_y_organico/L14_1990_regimen_juridico_administraciones_canarias.md), de 26 de 
 julio, de Régimen Jurídico de las Administraciones Públicas Canarias.
 De otra parte, D./Dña. ............., Presidente/a del Ayuntamiento ..................., previa autorización 
 expresa del pleno de la corporación otorgada en la sesión celebrada el .............................................

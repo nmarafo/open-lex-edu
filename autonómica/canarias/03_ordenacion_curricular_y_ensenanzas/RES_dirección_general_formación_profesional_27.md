@@ -34,6 +34,19 @@ fundamentos_derecho:
 - norma_id: norm-can-l-6-2014
   articulos:
   - '1'
+- norma_id: norm-can-d-84-2024
+- norma_id: norm-can-res-boc-2024-230-25
+- norma_id: norm-can-d-81-2010
+- norma_id: norm-can-o-2013-10-09
+- norma_id: norm-can-res-134
+- norma_id: norm-es-lo-2-2006
+- norma_id: norm-es-2021-20113
+- norma_id: norm-es-2024-10683
+- norma_id: norm-es-2024-10684
+- norma_id: norm-es-2024-10685
+- norma_id: norm-es-lo-3-2022
+- norma_id: norm-es-rd-659-2023
+- norma_id: norm-es-2010-12201
 fuente_pdf_oficial: https://sede.gobiernodecanarias.org/boc/boc-a-2024-251-4224.pdf
 ---
 # Resolución de 10 de diciembre de 2024, de la Dirección General de Formación Profesional y Enseñanzas de Régimen Especial,-por la que se dictan instrucciones y orientaciones para la implantación y desarrollo de la oferta en las modalidades semipresencial y virtual de certificados profesionales de Grado C, ciclos formativos de Grado D y cursos especialización de Grado E a partir del curso 2024/2025 en el ámbito de la Comunidad Autónoma de Canarias (BOC nº 251, de 18 de diciembre).
@@ -46,7 +59,7 @@ orientaciones para la implantación y desarrollo de la oferta en las modalidades
 semipresencial y virtual de certificados profesionales de Grado C, ciclos formativos 
 de Grado D y cursos especialización de Grado E a partir del curso 2024/2025 en 
 el ámbito de la Comunidad Autónoma de Canarias. 
-La Ley Orgánica 3/2022, de 31 de marzo, de ordenación e integración de la Formación 
+La [Ley Orgánica 3/2022](../08_personal_docente/RES_dirección_general_personal_sobre_134.md), de 31 de marzo, de ordenación e integración de la Formación 
 Profesional, concreta la relación de las modalidades de la oferta de Formación Profesional, 
 atendiendo a las competencias que tienen las administraciones competentes respecto a la 
 planificación de la oferta educativa, en cuanto a las modalidades de impartición presencial, 
@@ -93,7 +106,7 @@ Deportes del Gobierno de Canarias tiene como uno de sus principios básicos el p
 educación permanente para el aprendizaje a lo largo de la vida, con el fin de facilitar a todas 
 las personas su incorporación a las distintas enseñanzas.
 FUNDAMENTOS DE DERECHO
-Primero.- La Ley Orgánica 2/2006, de 3 de mayo, de Educación, en su artículo 3.9, 
+Primero.- La [Ley Orgánica 2/2006](../../../estatal/01_marco_normativo_general_y_organico/LO2_2006_ley_organica_educacion.md), de 3 de mayo, de Educación, en su artículo 3.9, 
 establece que: “Para garantizar el derecho a la educación de quienes no puedan asistir de 
 modo regular a los centros docentes, se desarrollará una oferta adecuada de educación 
 a distancia o, en su caso, de apoyo y atención educativa específica” y que en el caso de 
@@ -112,7 +125,7 @@ dispuesto en el artículo 42.8 de la Ley Orgánica 2/2006, de 3 de mayo, manteni
 oferta pública en estas modalidades que garanticen el acceso a las personas a la formación 
 profesional, siempre que esté garantizada, síncrona o asíncronamente, la interacción 
 didáctica adecuada y continua para las ofertas de los diferentes grados formativos.
-Tercero.- La Ley 6/2014, de 25 de julio, Canaria de Educación no Universitaria, en su 
+Tercero.- La [Ley 6/2014](../01_marco_normativo_general_y_organico/L6_2014_ley_canaria_educacion.md), de 25 de julio, Canaria de Educación no Universitaria, en su 
 exposición de motivos, hace referencia al aprendizaje a lo largo de la vida, considerando 
 la educación como un “factor decisivo para alcanzar una sociedad más culta, más justa, 
 más crítica y solidaria, una sociedad con más oportunidades para que cada persona pueda 
@@ -127,7 +140,7 @@ ya sea en la modalidad semipresencial o a distancia” y en al artículo 40.2 qu
 impartir en la modalidad de educación no presencial (...) la formación profesional, la 
 formación para el empleo y la formación permanente”.
 
-Cuarto.- El Real Decreto 659/2023, de 18 de julio, por el que se desarrolla la ordenación 
+Cuarto.- El [Real Decreto 659/2023](RES_dirección_general_formación_profesional_25.md), de 18 de julio, por el que se desarrolla la ordenación 
 del Sistema de Formación Profesional, regula en su artículo 25 las condiciones y requisitos 
 básicos para el desarrollo de todas las modalidades de la formación profesional, haciendo 
 énfasis en las modalidades semipresencial y virtual, mientras que en su artículo 26 
@@ -150,13 +163,13 @@ Real Decreto 659/2023:
 - Real Decreto 497/2024, de 21 de mayo, por el que se modifican determinados reales 
 decretos por los que se establecen, en el ámbito de la Formación Profesional, cursos de 
 especialización de grado medio y superior y se fijan sus enseñanzas mínimas.
-- Real Decreto 498/2024, de 21 de mayo, por el que se modifican determinados reales 
+- [Real Decreto 498/2024](../../../estatal/03_ordenacion_curricular_y_ensenanzas/BOE_2024_10683_mayo_modifican_determinados_reales.md), de 21 de mayo, por el que se modifican determinados reales 
 decretos por los que se establecen títulos de Formación Profesional de grado básico y se 
 fijan sus enseñanzas mínimas.
-- Real Decreto 499/2024, de 21 de mayo, por el que se modifican determinados reales 
+- [Real Decreto 499/2024](../../../estatal/03_ordenacion_curricular_y_ensenanzas/BOE_2024_10684_mayo_modifican_determinados_reales.md), de 21 de mayo, por el que se modifican determinados reales 
 decretos por los que se establecen títulos de Formación Profesional de grado medio y se 
 fijan sus enseñanzas mínimas.
-- Real Decreto 500/2024, de 21 de mayo, por el que se modifican determinados reales 
+- [Real Decreto 500/2024](../../../estatal/03_ordenacion_curricular_y_ensenanzas/BOE_2024_10685_mayo_modifican_determinados_reales.md), de 21 de mayo, por el que se modifican determinados reales 
 decretos por los que se establecen títulos de Formación Profesional de grado superior y se 
 fijan sus enseñanzas mínimas.
 Séptimo.- La organización y funcionamiento de la oferta de Formación Profesional 
@@ -165,7 +178,7 @@ fueron establecidos mediante la Resolución de 23 de septiembre de 2020, por la 
 dictan instrucciones para la organización y funcionamiento de la oferta de Formación 
 Profesional semipresencial, a partir del curso 2020-2021.
 Por todo lo expuesto, de conformidad con lo establecido en el artículo 20.2.d) del 
-Decreto 84/2024, de 10 de junio, por el que se aprueba el Reglamento Orgánico de la 
+[Decreto 84/2024](../01_marco_normativo_general_y_organico/D84_2024_reglamento_organico_consejeria.md), de 10 de junio, por el que se aprueba el Reglamento Orgánico de la 
 Consejería de Educación, Formación Profesional, Actividad Física y Deportes,
 
 RESUELVO :
@@ -303,8 +316,8 @@ Canarias.
 2. El proceso de admisión y matrícula para los Grados C, D y E en modalidad semipresencial 
 y virtual permanecerá abierto en los periodos establecidos para ello por la 
 DGFPERE, sin 
-menoscabo de lo establecido en el artículo 49.4 de la Orden de 9 de octubre de 2013, por 
-la que se desarrolla el Decreto 81/2010, de 8 de julio, por el que se aprueba el Reglamento 
+menoscabo de lo establecido en el artículo 49.4 de la [Orden de 9 de octubre de 2013](../04_organizacion_escolar_y_funcionamiento/O9_10_2013_desarrollo_reglamento_organico_centros.md), por 
+la que se desarrolla el [Decreto 81/2010](../04_organizacion_escolar_y_funcionamiento/D81_2010_reglamento_organico_centros.md), de 8 de julio, por el que se aprueba el Reglamento 
 Orgánico de los centros docentes públicos no universitarios de la Comunidad Autónoma de 
 Canarias. En cualquier caso, la atención al alumnado incorporado una vez iniciado el curso 
 escolar deberá atender al apartado A9.5 de la instrucción novena de este anexo.

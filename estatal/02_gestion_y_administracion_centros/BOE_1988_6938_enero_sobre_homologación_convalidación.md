@@ -33,8 +33,10 @@ fundamentos_derecho:
 - norma_id: norm-es-lo-2-2006
   articulos:
   - '120'
+- norma_id: norm-es-1988-3987
+- norma_id: norm-es-2002-25289
 ---
-# Orden de 14 de marzo de 1988 para la aplicación de lo dispuesto en el Real Decreto 104/1988, de 29 de enero, sobre homologación y convalidación de títulos y estudios extranjeros de educación no universitaria.
+# Orden de 14 de marzo de 1988 para la aplicación de lo dispuesto en el [Real Decreto 104/1988](BOE_1988_3987_enero_sobre_homologación_convalidación.md), de 29 de enero, sobre homologación y convalidación de títulos y estudios extranjeros de educación no universitaria.
 
 En su virtud y en uso de la autorización conferida por la disposición final primera del Real Decreto 104/1988, de 29 de enero,
 

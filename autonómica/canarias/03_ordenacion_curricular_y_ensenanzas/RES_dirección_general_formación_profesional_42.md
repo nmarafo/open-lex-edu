@@ -39,6 +39,12 @@ fundamentos_derecho:
 - norma_id: norm-can-l-6-2014
   articulos:
   - '1'
+- norma_id: norm-can-d-84-2024
+- norma_id: norm-can-lo-1-2018
+- norma_id: norm-can-res-boc-2024-230-25
+- norma_id: norm-can-res-134
+- norma_id: norm-es-lo-3-2022
+- norma_id: norm-es-rd-659-2023
 fuente_pdf_oficial: https://sede.gobiernodecanarias.org/boc/boc-a-2025-250-4323.pdf
 ---
 # Resolución de 26 de noviembre de 2025, de la Dirección General de Formación Profesional y Enseñanzas de Régimen Especial,por la que se dictan instrucciones para la implantación y desarrollo de la oferta de dobles titulaciones de formación profesional (Grados D) en la Comunidad Autónoma de Canarias, a partir del curso escolar 2026/2027 (BOC n.º 250, de 18 de diciembre)
@@ -50,11 +56,11 @@ Resolución de 26 de noviembre de 2025, por la que se dictan instrucciones para
 la implantación y desarrollo de la oferta de dobles titulaciones de formación 
 profesional (Grados D) en la Comunidad Autónoma de Canarias, a partir del curso 
 escolar 2026/2027.
-La Ley Orgánica 3/2022, de 31 de marzo, de ordenación e integración de la Formación 
+La [Ley Orgánica 3/2022](../08_personal_docente/RES_dirección_general_personal_sobre_134.md), de 31 de marzo, de ordenación e integración de la Formación 
 Profesional, en el artículo 42.2 dispone que podrán realizarse ofertas de dobles titulaciones del 
 Catálogo Nacional de Ofertas de Formación Profesional, siempre que se respete la duración, 
 los módulos profesionales y el porcentaje de optatividad de cada uno de los ciclos formativos.
-Asimismo, el artículo 84 del Real Decreto 659/2023, de 18 de julio, por el que se 
+Asimismo, el artículo 84 del [Real Decreto 659/2023](RES_dirección_general_formación_profesional_25.md), de 18 de julio, por el que se 
 desarrolla la ordenación del Sistema de Formación Profesional, establece la posibilidad 
 de que las administraciones competentes, de oficio o previa solicitud de los centros del 
 Sistema de Formación Profesional, integren dos titulaciones del mismo nivel del Catálogo 
@@ -80,7 +86,7 @@ una formación más completa, flexible y alineada con las necesidades del mercad
 canario, favoreciendo la adquisición de competencias versátiles que permitan una mejor 
 adaptación a la demanda del sector productivo.
 FUNDAMENTOS DE DERECHO
-Primero.- El artículo 133.3 de la Ley Orgánica 1/2018, de 5 de noviembre, de reforma 
+Primero.- El artículo 133.3 de la [Ley Orgánica 1/2018](../01_marco_normativo_general_y_organico/LO1_2018_estatuto_autonomia_canarias.md), de 5 de noviembre, de reforma 
 del Estatuto de Autonomía de Canarias, indica que le corresponde a la Comunidad Autónoma 
 de Canarias la competencia de desarrollo legislativo y de ejecución, entre otras, de la 
 
@@ -161,7 +167,7 @@ Medio y Superior (Grados D, niveles 2 y 3) y Cursos de Especialización (Grados 
 escolar 2025/2026.
 Por todo lo expuesto, de conformidad con lo establecido en el artículo 20 del 
 Reglamento Orgánico de la Consejería de Educación, Formación Profesional, Actividad 
-Física y Deportes, aprobado mediante Decreto 84/2024, de 10 de junio, por el que se asignan 
+Física y Deportes, aprobado mediante [Decreto 84/2024](../01_marco_normativo_general_y_organico/D84_2024_reglamento_organico_consejeria.md), de 10 de junio, por el que se asignan 
 competencias generales y específicas a la Dirección General de Formación Profesional y 
 Enseñanzas de Régimen Especial,
 

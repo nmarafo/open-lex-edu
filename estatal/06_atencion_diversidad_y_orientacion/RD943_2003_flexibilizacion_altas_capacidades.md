@@ -47,6 +47,7 @@ fundamentos_derecho:
 - norma_id: norm-es-ce-1978
   articulos:
   - '27'
+- norma_id: norm-es-lo-8-1985
 ---
 # Real Decreto 943/2003 - Flexibilización de la escolarización para alumnado con Altas Capacidades
 
@@ -134,7 +135,7 @@ Quedan derogadas todas las normas de igual o inferior rango en cuanto se opongan
 
 #### Disposición final primera. Título competencial.
 
-Este real decreto se dicta al amparo de lo dispuesto en el artículo 149.1.30.a de la Constitución, y en uso de la competencia exclusiva del Estado para la regulación de las condiciones para la obtención, expedición y homologación de títulos académicos y profesionales válidos en todo el territorio español, recogida expresamente en la disposición adicional primera, apartado 2, de la Ley Orgánica 8/1985, de 3 de julio, reguladora del Derecho a la Educación, y en virtud de la habilitación que confiere al Gobierno la Ley Orgánica 10/2002, de 23 de diciembre, de Calidad de la Educación, en su artículo 43.3, a excepción de los artículos 3 y 4, que tienen carácter de norma básica.
+Este real decreto se dicta al amparo de lo dispuesto en el artículo 149.1.30.a de la Constitución, y en uso de la competencia exclusiva del Estado para la regulación de las condiciones para la obtención, expedición y homologación de títulos académicos y profesionales válidos en todo el territorio español, recogida expresamente en la disposición adicional primera, apartado 2, de la [Ley Orgánica 8/1985](../02_gestion_y_administracion_centros/LO8_1985_derecho_educacion.md), de 3 de julio, reguladora del Derecho a la Educación, y en virtud de la habilitación que confiere al Gobierno la Ley Orgánica 10/2002, de 23 de diciembre, de Calidad de la Educación, en su artículo 43.3, a excepción de los artículos 3 y 4, que tienen carácter de norma básica.
 
 #### Disposición final segunda. Desarrollo.
 

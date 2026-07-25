@@ -29,6 +29,7 @@ fundamentos_derecho:
 - norma_id: norm-can-l-6-2014
   articulos:
   - '1'
+- norma_id: norm-es-rd-2377-1985
 fuente_pdf_oficial: https://sede.gobiernodecanarias.org/boc/boc-a-2010-158-4691.pdf
 fuente_juriscan: http://www.gobiernodecanarias.org/juriscan/ficha.jsp?id=63878
 ---
@@ -78,7 +79,7 @@ recibidas por todos los niveles educativos en un úni-
 co impreso, con un único certificado del Consejo
 Escolar. 
 FUNDAMENTOS DE DERECHO
-Primero.- El artículo 40 del Real Decreto 2377/1985,
+Primero.- El artículo 40 del [Real Decreto 2377/1985](../../../estatal/02_gestion_y_administracion_centros/RD2377_1985_reglamento_conciertos_educativos.md),
 de 18 de diciembre, por el que se aprueba el Regla-
 mento de Normas Básicas sobre Conciertos Educa-
 tivos (BOE nº 310, de 27.12.85), que establece lo

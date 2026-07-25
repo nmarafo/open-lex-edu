@@ -30,6 +30,10 @@ fundamentos_derecho:
   articulos:
   - '1'
 - norma_id: norm-es-lo-2-2006
+- norma_id: norm-can-l-14-1990
+- norma_id: norm-can-d-109-1999
+- norma_id: norm-es-2021-20113
+- norma_id: norm-es-2010-12201
 fuente_pdf_oficial: https://sede.gobiernodecanarias.org/boc/boc-a-2022-143-2426.pdf
 ---
 # Resolución de 10 de junio de 2021, de la Viceconsejería de Educación, Universidades y Deportes, por la que se establece la composición de la comisión de seguimiento del acuerdo entre la Consejería de Educación y los Colectivos de Escuelas Rurales/Unitarias sobre los servicios educativos públicos en las Escuelas Unitarias de Canarias y se nombra a los vocales de dicha comisión.
@@ -57,7 +61,7 @@ Segundo.- La última convocatoria para la renovación parcial de los Consejos de
 CER fue en el curso 2020/2021.
 A estos antecedentes les son de aplicación los siguientes
 FUNDAMENTOS DE DERECHO
-Primero.- El Título V de la Ley Orgánica 2/2006, de 3 de mayo, de Educación, en su 
+Primero.- El Título V de la [Ley Orgánica 2/2006](../../../estatal/01_marco_normativo_general_y_organico/LO2_2006_ley_organica_educacion.md), de 3 de mayo, de Educación, en su 
 redacción actual, está dedicado a la participación, autonomía y gobierno de los centros; y 
 el Capítulo II de dicho título se refiere específicamente a la autonomía de los centros, en 
 particular, para elaborar, aprobar y ejecutar el proyecto educativo y el proyecto de gestión de 
@@ -69,7 +73,7 @@ coordinador o coordinadora de los CER y los distintos equipos educativos de los 
 que lo integran, conforman el eje de la organización y funcionamiento de dichos CER.
 Segundo.- La necesidad de convocar elecciones para la renovación o nueva constitución 
 de los representantes de los distintos sectores de la comunidad educativa en los Consejos 
-de los CER viene determinada en el artículo 22 del Decreto 109/1999, de 25 de mayo, por 
+de los CER viene determinada en el artículo 22 del [Decreto 109/1999](D109_1999_escuelas_rurales_cer.md), de 25 de mayo, por 
 el que se regula el régimen de creación y funcionamiento de los Colectivos de Escuelas 
 Rurales.
 
@@ -86,7 +90,7 @@ en el resuelvo primero, apartado 3, que los Consejos de los CER atenderán a lo 
 propia normativa establezca sobre su constitución y renovación, aplicándose la Orden de 
 12 de mayo de 2016 con carácter supletorio, en lo relativo al procedimiento.
 Por ello, en virtud de las competencias atribuidas en el artículo 29, apartado 1, letra a), 
-de la Ley 14/1990, de 26 de julio, de Régimen Jurídico de las Administraciones Públicas de 
+de la [Ley 14/1990](../01_marco_normativo_general_y_organico/L14_1990_regimen_juridico_administraciones_canarias.md), de 26 de julio, de Régimen Jurídico de las Administraciones Públicas de 
 Canarias; y en el artículo 17.2.a) del Reglamento Orgánico de la Consejería de Educación, 
 Universidades, Cultura y Deportes, aprobado por Decreto 7/2021, de 18 de febrero,
 RESUELVO :

@@ -32,6 +32,20 @@ fundamentos_derecho:
 - norma_id: norm-es-ce-1978
   articulos:
   - '18.4'
+- norma_id: norm-can-l-16-2003
+- norma_id: norm-es-l-19-2013
+- norma_id: norm-es-l-39-2015
+- norma_id: norm-es-l-40-2015
+- norma_id: norm-es-lo-1-1996
+- norma_id: norm-es-lo-2-2006
+- norma_id: norm-es-rdl-5-2015
+- norma_id: norm-es-1999-23750
+- norma_id: norm-es-2008-979
+- norma_id: norm-es-l-31-1995
+- norma_id: norm-es-2021-20113
+- norma_id: norm-es-2010-12201
+- norma_id: norm-es-2013-12632
+- norma_id: norm-es-rdl-2-2015
 ---
 # Ley Orgánica 3/2018 de Protección de Datos Personales y Garantía de los Derechos Digitales
 
@@ -333,7 +347,7 @@ Título X. Garantía de los derechos digitales.
 
 #### Disposición transitoria primera. Estatuto de la Agencia Española de Protección de Datos.
 
-#### Disposición transitoria segunda. Códigos tipo inscritos en las autoridades de protección de datos conforme a la Ley Orgánica 15/1999, de 13 de diciembre.
+#### Disposición transitoria segunda. Códigos tipo inscritos en las autoridades de protección de datos conforme a la [Ley Orgánica 15/1999](BOE_1999_23750_diciembre_protección_datos_carácter.md), de 13 de diciembre.
 
 #### Disposición transitoria tercera. Régimen transitorio de los procedimientos.
 
@@ -363,11 +377,11 @@ Título X. Garantía de los derechos digitales.
 
 #### Disposición final novena. Modificación de la Ley 41/2002, de 14 de noviembre, básica reguladora de la autonomía del paciente y de derechos y obligaciones en materia de información y documentación clínica.
 
-#### Disposición final décima. Modificación de la Ley Orgánica 2/2006, de 3 de mayo, de Educación.
+#### Disposición final décima. Modificación de la [Ley Orgánica 2/2006](../01_marco_normativo_general_y_organico/LO2_2006_ley_organica_educacion.md), de 3 de mayo, de Educación.
 
-#### Disposición final undécima. Modificación de la Ley 19/2013, de 9 de diciembre, de transparencia, acceso a la información pública y buen gobierno.
+#### Disposición final undécima. Modificación de la [Ley 19/2013](../01_marco_normativo_general_y_organico/L19_2013_transparencia_buen_gobierno.md), de 9 de diciembre, de transparencia, acceso a la información pública y buen gobierno.
 
-#### Disposición final duodécima. Modificación de la Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común de las Administraciones Públicas.
+#### Disposición final duodécima. Modificación de la [Ley 39/2015](../01_marco_normativo_general_y_organico/L39_2015_procedimiento_administrativo_comun.md), de 1 de octubre, del Procedimiento Administrativo Común de las Administraciones Públicas.
 
 #### Disposición final decimotercera. Modificación del texto refundido de la Ley del Estatuto de los Trabajadores.
 
@@ -441,7 +455,7 @@ El Título V se refiere al responsable y al encargado del tratamiento. Es precis
 
 El Título VI, relativo a las transferencias internacionales de datos, procede a la adaptación de lo previsto en el Reglamento (UE) 2016/679 y se refiere a las especialidades relacionadas con los procedimientos a través de los cuales las autoridades de protección de datos pueden aprobar modelos contractuales o normas corporativas vinculantes, supuestos de autorización de una determinada transferencia, o información previa.
 
-El Título VII se dedica a las autoridades de protección de datos, que siguiendo el mandato del Reglamento (UE) 2016/679 se han de establecer por ley nacional. Manteniendo el esquema que se venía recogiendo en sus antecedentes normativos, la ley orgánica regula el régimen de la Agencia Española de Protección de Datos y refleja la existencia de las autoridades autonómicas de protección de datos y la necesaria cooperación entre las autoridades de control. La Agencia Española de Protección de Datos se configura como una autoridad administrativa independiente con arreglo a la Ley 40/2015, de 1 de octubre, de Régimen Jurídico del Sector Público, que se relaciona con el Gobierno a través del Ministerio de Justicia.
+El Título VII se dedica a las autoridades de protección de datos, que siguiendo el mandato del Reglamento (UE) 2016/679 se han de establecer por ley nacional. Manteniendo el esquema que se venía recogiendo en sus antecedentes normativos, la ley orgánica regula el régimen de la Agencia Española de Protección de Datos y refleja la existencia de las autoridades autonómicas de protección de datos y la necesaria cooperación entre las autoridades de control. La Agencia Española de Protección de Datos se configura como una autoridad administrativa independiente con arreglo a la [Ley 40/2015](../01_marco_normativo_general_y_organico/L40_2015_regimen_juridico_sector_publico.md), de 1 de octubre, de Régimen Jurídico del Sector Público, que se relaciona con el Gobierno a través del Ministerio de Justicia.
 
 El Título VIII regula el «Procedimientos en caso de posible vulneración de la normativa de protección de datos». El Reglamento (UE) 2016/679 establece un sistema novedoso y complejo, evolucionando hacia un modelo de «ventanilla única» en el que existe una autoridad de control principal y otras autoridades interesadas. También se establece un procedimiento de cooperación entre autoridades de los Estados miembros y, en caso de discrepancia, se prevé la decisión vinculante del Comité Europeo de Protección de Datos. En consecuencia, con carácter previo a la tramitación de cualquier procedimiento, será preciso determinar si el tratamiento tiene o no carácter transfronterizo y, en caso de tenerlo, qué autoridad de protección de datos ha de considerarse principal.
 
@@ -1073,7 +1087,7 @@ Corresponde a la Presidencia de la Agencia Española de Protección de Datos aut
 
 4. El resultado positivo de sus ingresos se destinará por la Agencia Española de Protección de Datos a la dotación de sus reservas con el fin de garantizar su plena independencia.
 
-5. El personal al servicio de la Agencia Española de Protección de Datos será funcionario o laboral y se regirá por lo previsto en el texto refundido de la Ley del Estatuto Básico del Empleado Público, aprobado por Real Decreto Legislativo 5/2015, de 30 de octubre, y demás normativa reguladora de los funcionarios públicos y, en su caso, por la normativa laboral.
+5. El personal al servicio de la Agencia Española de Protección de Datos será funcionario o laboral y se regirá por lo previsto en el texto refundido de la Ley del Estatuto Básico del Empleado Público, aprobado por [Real Decreto Legislativo 5/2015](../01_marco_normativo_general_y_organico/RD5_2015_estatuto_basico_empleado_publico.md), de 30 de octubre, y demás normativa reguladora de los funcionarios públicos y, en su caso, por la normativa laboral.
 
 6. La Agencia Española de Protección Datos elaborará y aprobará su relación de puestos de trabajo, en el marco de los criterios establecidos por el Ministerio de Hacienda, respetando el límite de gasto de personal establecido en el presupuesto. En dicha relación de puestos de trabajo constarán, en todo caso, aquellos puestos que deban ser desempeñados en exclusiva por funcionarios públicos, por consistir en el ejercicio de las funciones que impliquen la participación directa o indirecta en el ejercicio de potestades públicas y la salvaguarda de los intereses generales del Estado y de las Administraciones Públicas.
 
@@ -1683,7 +1697,7 @@ Las Administraciones educativas deberán incluir en el diseño del bloque de asi
 
 1. Los padres, madres, tutores, curadores o representantes legales procurarán que los menores de edad hagan un uso equilibrado y responsable de los dispositivos digitales y de los servicios de la sociedad de la información a fin de garantizar el adecuado desarrollo de su personalidad y preservar su dignidad y sus derechos fundamentales.
 
-2. La utilización o difusión de imágenes o información personal de menores en las redes sociales y servicios de la sociedad de la información equivalentes que puedan implicar una intromisión ilegítima en sus derechos fundamentales determinará la intervención del Ministerio Fiscal, que instará las medidas cautelares y de protección previstas en la Ley Orgánica 1/1996, de 15 de enero, de Protección Jurídica del Menor.
+2. La utilización o difusión de imágenes o información personal de menores en las redes sociales y servicios de la sociedad de la información equivalentes que puedan implicar una intromisión ilegítima en sus derechos fundamentales determinará la intervención del Ministerio Fiscal, que instará las medidas cautelares y de protección previstas en la [Ley Orgánica 1/1996](../01_marco_normativo_general_y_organico/LO1_1996_proteccion_juridica_menor.md), de 15 de enero, de Protección Jurídica del Menor.
 
 #### Artículo 85. Derecho de rectificación en Internet.
 
@@ -1927,11 +1941,11 @@ e) Asumir, sin designación expresa del responsable o el encargado del tratamien
 
 a) La Ley 14/1986, de 25 de abril, General de Sanidad.
 
-b) La Ley 31/1995, de 8 de noviembre, de Prevención de Riesgos Laborales.
+b) La [Ley 31/1995](L31_1995_prevencion_riesgos_laborales.md), de 8 de noviembre, de Prevención de Riesgos Laborales.
 
 c) La Ley 41/2002, de 14 de noviembre, básica reguladora de la autonomía del paciente y de derechos y obligaciones en materia de información y documentación clínica.
 
-d) La Ley 16/2003, de 28 de mayo, de cohesión y calidad del Sistema Nacional de Salud.
+d) La [Ley 16/2003](../../autonómica/canarias/07_convivencia_bienestar_y_protocolos/L16_2003_prevencion_proteccion_mujeres_violencia_genero.md), de 28 de mayo, de cohesión y calidad del Sistema Nacional de Salud.
 
 e) La Ley 44/2003, de 21 de noviembre, de ordenación de las profesiones sanitarias.
 
@@ -1943,7 +1957,7 @@ h) La Ley 20/2015, de 14 de julio, de ordenación, supervisión y solvencia de l
 
 i)	El texto refundido de la Ley de garantías y uso racional de los 105 medicamentos y productos sanitarios, aprobado por Real Decreto Legislativo 1/2015, de 24 de julio.
 
-j)	El texto refundido de la Ley General de derechos de las personas con discapacidad y de su inclusión social, aprobado por Real Decreto Legislativo 1/2013 de 29 de noviembre.
+j)	El texto refundido de la Ley General de derechos de las personas con discapacidad y de su inclusión social, aprobado por [Real Decreto Legislativo 1/2013](../07_convivencia_bienestar_y_protocolos/BOE_2013_12632_noviembre_aprueba_texto_refundido.md) de 29 de noviembre.
 
 2. El tratamiento de datos en la investigación en salud se regirá por los siguientes criterios:
 
@@ -2033,7 +2047,7 @@ Si, transcurrido dicho plazo, no se hubiera solicitado la aprobación prevista e
 
 1. Los procedimientos ya iniciados a la entrada en vigor de esta ley orgánica se regirán por la normativa anterior, salvo que esta ley orgánica contenga disposiciones más favorables para el interesado.
 
-2. Lo dispuesto en el apartado anterior será asimismo de aplicación a los procedimientos respecto de los cuales ya se hubieren iniciado las actuaciones previas a las que se refiere la Sección 2.ª del Capítulo III del Título IX del Reglamento de desarrollo de la Ley Orgánica 15/1999, de 13 de diciembre, de Protección de Datos de Carácter Personal, aprobado por Real Decreto 1720/2007, de 21 de diciembre.
+2. Lo dispuesto en el apartado anterior será asimismo de aplicación a los procedimientos respecto de los cuales ya se hubieren iniciado las actuaciones previas a las que se refiere la Sección 2.ª del Capítulo III del Título IX del Reglamento de desarrollo de la Ley Orgánica 15/1999, de 13 de diciembre, de Protección de Datos de Carácter Personal, aprobado por [Real Decreto 1720/2007](BOE_2008_979_diciembre_aprueba_reglamento_desarrollo.md), de 21 de diciembre.
 
 #### Disposición transitoria cuarta. Tratamientos sometidos a la Directiva (UE) 2016/680.
 
@@ -2279,7 +2293,7 @@ Asimismo, las Administraciones Públicas no requerirán a los interesados datos 
 
 #### Disposición final decimotercera. Modificación del texto refundido de la Ley del Estatuto de los Trabajadores.
 
-Se añade un nuevo artículo 20 bis al texto refundido de la Ley del Estatuto de los Trabajadores, aprobado por Real Decreto Legislativo 2/2015, de 23 de octubre, con el siguiente contenido:
+Se añade un nuevo artículo 20 bis al texto refundido de la Ley del Estatuto de los Trabajadores, aprobado por [Real Decreto Legislativo 2/2015](../09_personal_laboral_y_no_docente/RDL2_2015_estatuto_trabajadores.md), de 23 de octubre, con el siguiente contenido:
 
 «Artículo 20 bis. Derechos de los trabajadores a la intimidad en relación con el entorno digital y a la desconexión.
 

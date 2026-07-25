@@ -27,6 +27,8 @@ fundamentos_derecho:
 - norma_id: norm-can-l-6-2014
   articulos:
   - '1'
+- norma_id: norm-es-2004-15601
+- norma_id: norm-es-lo-5-2000
 fuente_pdf_oficial: https://sede.gobiernodecanarias.org/boc/boc-a-2014-188-4160.pdf
 fuente_juriscan: http://www.gobcan.es/juriscan/ficha.jsp?id=71394
 ---
@@ -59,7 +61,7 @@ y vigilancia en los Centros de Internamiento Educativo para Menores Infractores,
 dicho borrador de Protocolo para su implantación.
 Dicho Protocolo se debe establecer conforme con los fundamentos jurídicos estatales y 
 autonómicos siguientes:
-Según dispone el artículo 45 de la Ley Orgánica 5/2000, de 12 de enero, reguladora de la Res-
+Según dispone el artículo 45 de la [Ley Orgánica 5/2000](../../../estatal/01_marco_normativo_general_y_organico/LO5_2000_responsabilidad_penal_menores.md), de 12 de enero, reguladora de la Res-
 ponsabilidad Penal de Menores (Ley Orgánica 5/2000), corresponde a la Administración Pública 
 de la Comunidad Autónoma, establecer, organizar y regular los recursos, servicios y programas 
 necesarios para la ejecución de medidas judiciales de su competencia. Y a tal fin, en la Comu-
@@ -84,8 +86,8 @@ de la Consejería de Cultura, Deportes, Políticas Sociales y Vivienda, aprobado
 64/2013, de 6 de junio, a la Dirección General de Dependencia, Infancia y Familia, le co-
 rresponde el dictado de instrucciones en materia de dirección, gestión y seguimiento de la 
 ejecución de las medidas de internamiento de menores y jóvenes infractores dictadas por 
-los Juzgados de Menores, y teniendo como base jurídica, el artículo 54 del Real Decreto 
-1774/2004, de 30 de julio, por el que se aprueba el Reglamento de desarrollo de la Ley Or-
+los Juzgados de Menores, y teniendo como base jurídica, el artículo 54 del [Real Decreto 
+1774/2004](../../../estatal/01_marco_normativo_general_y_organico/BOE_2004_15601_julio_desarrolla_reglamento_responsabilidad.md), de 30 de julio, por el que se aprueba el Reglamento de desarrollo de la Ley Or-
 gánica 5/2000, se establecen los principios rectores para la realización de los registros a los 
 menores y jóvenes, así como a sus bienes, enseres y a las dependencias que ocupan.
 Asimismo, y de acuerdo con la Disposición Final primera de la Orden de 1 de marzo de 

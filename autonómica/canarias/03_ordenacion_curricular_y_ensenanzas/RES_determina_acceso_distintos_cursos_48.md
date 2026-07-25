@@ -33,6 +33,10 @@ fundamentos_derecho:
   articulos:
   - '1'
 - norma_id: norm-es-lo-2-2006
+- norma_id: norm-es-l-39-2015
+- norma_id: norm-es-2016-3229
+- norma_id: norm-es-2021-20113
+- norma_id: norm-es-2010-12201
 fuente_pdf_oficial: https://sede.gobiernodecanarias.org/boc/boc-a-2019-069-1699.pdf
 ---
 # Resolución de 26 de marzo de 2019, por la que se determina el acceso a los distintos cursos de enseñanzas de idiomas de régimen especial en aplicación de lo establecido en la Orden de 21 de septiembre de 2016, de esta Consejería, que regula el reconocimiento de la acreditación de la competencia lingüística conforme al Marco Común Europeo de Referencia para las Lenguas en la Comunidad Autónoma de Canarias (BOC n.º 69, de 9 de abril).
@@ -64,8 +68,8 @@ las enseñanzas de idiomas de régimen especial al que da acceso cada una de est
 o certificaciones.
 A los anteriores hechos les son de aplicación los siguientes
 FUNDAMENTOS DE DERECHO
-Primero.- La Ley Orgánica 2/2006, de 3 de mayo, de Educación (BOE nº 106, de 4.5.06), 
-en la redacción actual dada por la Ley Orgánica 8/2013, de 9 de diciembre, para la mejora 
+Primero.- La [Ley Orgánica 2/2006](../../../estatal/01_marco_normativo_general_y_organico/LO2_2006_ley_organica_educacion.md), de 3 de mayo, de Educación (BOE nº 106, de 4.5.06), 
+en la redacción actual dada por la [Ley Orgánica 8/2013](../../../estatal/03_ordenacion_curricular_y_ensenanzas/BOE_2016_3229_marzo_regula_procedimiento_incorporación.md), de 9 de diciembre, para la mejora 
 de la calidad educativa (BOE nº 295, de 10.12.13), dedica los artículos 59, 60, 61 y 62 a la 
 ordenación de las enseñanzas de idiomas de régimen especial.
 Segundo.- El Real Decreto 1041/2017, de 22 de diciembre, por el que se fijan las 
@@ -144,7 +148,7 @@ Esta resolución también estará a disposición de los interesados en la págin
 Consejería de Educación y Universidades.
 Contra la presente resolución se podrá interponer recurso de alzada ante el Ilmo. Sr. 
 Viceconsejero de Educación y Universidades, en el plazo de un mes a partir del día siguiente 
-al de su publicación, de conformidad con los artículos 121 y 122 de la Ley 39/2015, de 1 de 
+al de su publicación, de conformidad con los artículos 121 y 122 de la [Ley 39/2015](../../../estatal/01_marco_normativo_general_y_organico/L39_2015_procedimiento_administrativo_comun.md), de 1 de 
 octubre, del Procedimiento Administrativo Común de las Administraciones Públicas (BOE 
 nº 236, de 2.10.15).
 Santa Cruz de Tenerife, a 26 de marzo de 2019.- El Director General de Formación 

@@ -36,6 +36,11 @@ fundamentos_derecho:
 - norma_id: norm-can-l-6-2014
   articulos:
   - '1'
+- norma_id: norm-can-d-123-2023
+- norma_id: norm-can-d-9-2022
+- norma_id: norm-es-lo-2-2006
+- norma_id: norm-es-2021-20113
+- norma_id: norm-es-2010-12201
 fuente_pdf_oficial: https://sede.gobiernodecanarias.org/boc/boc-a-2024-049-903.pdf
 ---
 # Resolución de 27 de febrero de 2024, de la DGACESC, por la que se dictan instrucciones sobre el proceso de admisión del alumnado en centros docentes que oferten enseñanzas de Educación Infantil, Educación Primaria, Educación Secundaria Obligatoria, Bachillerato y Educación de Personas Adultas en los centros docentes sostenidos con fondos públicos en la Comunidad Autónoma de Canarias (BOC núm. 49, de 7 de marzo).
@@ -84,7 +89,7 @@ del procedimiento de admisión del alumnado para cursar, en centros docentes sos
 con fondos públicos, enseñanzas de Educación Infantil, Educación Primaria, Educación 
 Secundaria Obligatoria, Bachillerato, y Educación de Personas Adultas.
 FUNDAMENTOS DE DERECHO
-Primero.- La Ley Orgánica 2/2006, de 3 de mayo, de Educación, señala en su artículo 84.1 
+Primero.- La [Ley Orgánica 2/2006](../../../estatal/01_marco_normativo_general_y_organico/LO2_2006_ley_organica_educacion.md), de 3 de mayo, de Educación, señala en su artículo 84.1 
 que “Las Administraciones educativas regularán la admisión de alumnos y alumnas en 
 centros públicos y privados concertados de tal forma que garantice el derecho a la educación, 
 el acceso en condiciones de igualdad y la libertad de elección de centro por padres, madres 
@@ -92,13 +97,13 @@ o tutores legales. En dicha regulación se dispondrán las medidas necesarias pa
 la segregación del alumnado por motivos socioeconómicos o de otra naturaleza. En todo 
 caso, se atenderá a una adecuada y equilibrada distribución entre los centros escolares del 
 alumnado con necesidad específica de apoyo educativo”.
-Segundo.- La Ley 6/2014, de 25 de julio, Canaria de Educación no Universitaria, en 
+Segundo.- La [Ley 6/2014](../01_marco_normativo_general_y_organico/L6_2014_ley_canaria_educacion.md), de 25 de julio, Canaria de Educación no Universitaria, en 
 su artículo 51, prevé que el Gobierno de Canarias regulará la admisión del alumnado en 
 centros públicos y privados concertados, de tal forma que se garantice el derecho a la 
 educación y el acceso en condiciones de igualdad. En todo caso, se atenderá a una adecuada 
 y equilibrada distribución entre los centros escolares del alumnado con necesidad específica 
 de apoyo educativo.
-Tercero.- El Decreto 9/2022, de 20 de enero, por el que se regula la admisión del 
+Tercero.- El [Decreto 9/2022](D9_2022_admision_alumnado_canarias.md), de 20 de enero, por el que se regula la admisión del 
 alumnado en centros docentes que oferten enseñanzas no universitarias sostenidas con 
 fondos públicos en la Comunidad Autónoma de Canarias, es el reglamento marco que 
 establece en nuestro ámbito autonómico de gestión el procedimiento de admisión del 
@@ -121,7 +126,7 @@ enseñanzas no universitarias sostenidas con fondos públicos, en la Comunidad A
 de Canarias, y en ejercicio de las competencias atribuidas en el artículo 17.2.e) del 
 Reglamento Orgánico de la Consejería de Educación, Universidades, Cultura y Deportes, 
 aprobado por Decreto 7/2021, de 18 de febrero, en relación con la disposición transitoria 
-única del Decreto 123/2023, de 17 de julio, por la que se determina la estructura orgánica 
+única del [Decreto 123/2023](../01_marco_normativo_general_y_organico/D123_2023_estructura_organica_gobierno_canarias.md), de 17 de julio, por la que se determina la estructura orgánica 
 y sedes de las Consejerías del Gobierno de Canarias,
 
 RESUELVO :

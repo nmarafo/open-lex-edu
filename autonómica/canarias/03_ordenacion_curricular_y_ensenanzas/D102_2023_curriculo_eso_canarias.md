@@ -50,6 +50,7 @@ fundamentos_derecho:
   - '22'
   - '24'
   - '25'
+- norma_id: norm-es-l-39-2015
 fuente_pdf_oficial: https://sede.gobiernodecanarias.org/boc/boc-a-2023-096-1554.pdf
 ---
 # Decreto 102/2023, de 9 de mayo, por el que se establece la ordenación y el currículo de la Educación Secundaria Obligatoria en la Comunidad Autónoma de Canarias.
@@ -122,7 +123,7 @@ publicación en el Boletín Oficial de Canarias.
 No obstante, a criterio de la persona interesada, podrá interponerse en vía administrativa 
 recurso potestativo de reposición ante esta Dirección General, en el plazo de un mes a 
 contar desde el día siguiente a la publicación de esta Resolución en el Boletín Oficial de 
-Canarias, en los términos previstos en los artículos 123 y 124 de la Ley 39/2015, de 1 de 
+Canarias, en los términos previstos en los artículos 123 y 124 de la [Ley 39/2015](../../../estatal/01_marco_normativo_general_y_organico/L39_2015_procedimiento_administrativo_comun.md), de 1 de 
 octubre, del Procedimiento Administrativo Común de las Administraciones Públicas. En 
 el caso de presentarse recurso potestativo de reposición, no se podrá interponer recurso 
 contencioso-administrativo hasta que se resuelva expresamente el recurso de reposición o 

@@ -30,6 +30,8 @@ fundamentos_derecho:
   articulos:
   - '1'
 - norma_id: norm-es-l-39-2015
+- norma_id: norm-can-l-14-1990
+- norma_id: norm-can-l-2-1987
 fuente_pdf_oficial: http://www.gobiernodecanarias.org/boc/2005/167/boc-2005-167-019.pdf
 fuente_juriscan: http://www.gobiernodecanarias.org/juriscan/ficha.jsp?id=64565
 ---
@@ -211,7 +213,7 @@ Deportes se dé a este acuerdo la tramitación previs-
 ta en el artículo 36 de la referida Ley 9/1987, de 12
 de junio.
 Lo que comunico a los efectos determinados por
-el artículo 29.1.l) de la Ley 14/1990, de 26 de julio,
+el artículo 29.1.l) de la [Ley 14/1990](../01_marco_normativo_general_y_organico/L14_1990_regimen_juridico_administraciones_canarias.md), de 26 de julio,
 de Régimen Jurídico de las Administraciones Públi-
 cas de Canarias.- Santa Cruz de Tenerife, a 21 de ju-
 lio de 2005.- La Secretaria General, María del Car-
@@ -335,8 +337,8 @@ en el “Acuerdo sobre ofertas de empleo público pa-
 ra acceso a los Cuerpos docentes no universitarios”.
 Cuarto.- 1. El personal interino, una vez efectua-
 da la toma de posesión en su destino, percibirá sus
-retribuciones conforme a lo dispuesto en la Ley
-2/1987, de la Función Pública Canaria.
+retribuciones conforme a lo dispuesto en la [Ley
+2/1987](../01_marco_normativo_general_y_organico/L2_1987_funcion_publica_canaria.md), de la Función Pública Canaria.
 2. El personal sustituto que acredite cinco meses
 y medio de servicio efectivo en un mismo curso per-
 cibirá, además, las retribuciones correspondientes a

@@ -48,6 +48,7 @@ fundamentos_derecho:
 - norma_id: norm-can-lo-1-2018
   articulos:
   - '136'
+- norma_id: norm-es-1984-17387
 ---
 # Ley 2/1987 de la Función Pública Canaria
 
@@ -67,7 +68,7 @@ La Ley quiere, asimismo, servir de marco a la regulación del personal al servic
 
 Se atribuye al Gobierno la dirección de la política de personal de la Administración de la Comunidad, impulsado en su ámbito de competencias por la Consejería de la Presidencia y asistido por la Comisión de la Función Pública, en la que se integran representantes de las Centrales Sindicales, adquiriendo por ello este órgano consultivo, una proyección social indispensable para un eficaz ejercicio de sus tareas.
 
-Se definen las distintas clases de personal al servicio de la Comunidad y se aborda seguidamente la pieza clave del nuevo sistema de la Función Pública, las relaciones de puestos de trabajo que, impuestas con carácter básico por la Ley 30/1984, de 2 de agosto, se exigen en esta Ley como instrumento imprescindible para racionalizar la estructura interna de la Administración Autonómica y obtener la dimensión óptima del personal a su servicio, siempre dentro de los límites cuantitativos fijados en cada ejercicio por las dotaciones presupuestarias de personal.
+Se definen las distintas clases de personal al servicio de la Comunidad y se aborda seguidamente la pieza clave del nuevo sistema de la Función Pública, las relaciones de puestos de trabajo que, impuestas con carácter básico por la [Ley 30/1984](../../../estatal/01_marco_normativo_general_y_organico/BOE_1984_17387_agosto_medidas_para_reforma.md), de 2 de agosto, se exigen en esta Ley como instrumento imprescindible para racionalizar la estructura interna de la Administración Autonómica y obtener la dimensión óptima del personal a su servicio, siempre dentro de los límites cuantitativos fijados en cada ejercicio por las dotaciones presupuestarias de personal.
 
 En capítulo aparte se regula el Registro de Personal, tratando de que, además de cumplir la finalidad que le es propia, sirva de instrumento básico de coordinación de la Función Pública autonómica con la local.
 

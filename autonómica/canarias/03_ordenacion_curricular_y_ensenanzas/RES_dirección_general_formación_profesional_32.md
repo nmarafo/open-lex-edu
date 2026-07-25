@@ -34,6 +34,15 @@ fundamentos_derecho:
 - norma_id: norm-can-l-6-2014
   articulos:
   - '1'
+- norma_id: norm-can-d-84-2024
+- norma_id: norm-can-lo-1-2018
+- norma_id: norm-can-res-boc-2024-230-25
+- norma_id: norm-can-res-134
+- norma_id: norm-es-l-39-2015
+- norma_id: norm-es-2020-17274
+- norma_id: norm-es-2021-979
+- norma_id: norm-es-lo-3-2022
+- norma_id: norm-es-rd-659-2023
 fuente_pdf_oficial: https://sede.gobiernodecanarias.org/boc/boc-a-2026-043-703.pdf
 ---
 # Resolución de 25 de febrero de 2026, de la Dirección General de Formación Profesional y Enseñanzas de Régimen Especial por la que se dictan instrucciones para la implantación y desarrollo del módulo profesional optativo en las ofertas formativas de Grados D, niveles 2 (ciclos formativos de grado medio) y 3 (ciclos formativos de grado superior), a partir del curso escolar 2026/2027, en la Comunidad Autónoma de Canarias (BOC n.º 43, de 4 de marzo).
@@ -46,7 +55,7 @@ implantación y desarrollo del módulo profesional optativo en las ofertas forma
 de Grados D, niveles 2 (ciclos formativos de grado medio) y 3 (ciclos formativos de 
 grado superior), a partir del curso escolar 2026/2027, en la Comunidad Autónoma 
 de Canarias.
-La Ley Orgánica 3/2022, de 31 de marzo, de ordenación e integración de la Formación 
+La [Ley Orgánica 3/2022](../08_personal_docente/RES_dirección_general_personal_sobre_134.md), de 31 de marzo, de ordenación e integración de la Formación 
 Profesional, tiene por objeto adecuar la oferta formativa a las necesidades actuales del 
 sistema productivo, atribuyendo a cada administración competente la responsabilidad de 
 contextualizarla a la realidad económica y empresarial de su ámbito territorial. Con este 
@@ -74,7 +83,7 @@ Formación Profesional (en adelante
 LOOIFP), tiene como finalidad garantizar una oferta 
 formativa ágil y eficaz, adaptada al entorno productivo al que se dirige la formación del 
 alumnado.
-Segundo.- Con la aprobación del Real Decreto 659/2023, de 18 de julio, por el que 
+Segundo.- Con la aprobación del [Real Decreto 659/2023](RES_dirección_general_formación_profesional_25.md), de 18 de julio, por el que 
 se desarrolla la ordenación del Sistema de Formación Profesional, modificado por el Real 
 Decreto 658/2024, de 9 de julio, se regula la optatividad en los currículos de los ciclos 
 formativos de grado medio y superior, configurándola como un módulo destinado a la 
@@ -94,12 +103,12 @@ resultado, se dictan nuevas instrucciones para el curso académico 2026/2027, in
 un catálogo actualizado de módulos profesionales optativos que amplía de forma notable la 
 oferta formativa y asegura la cobertura de todas las especialidades docentes.
 FUNDAMENTOS DE DERECHO
-Primero.- El artículo 133.3 de la Ley Orgánica 1/2018, de 5 de noviembre, de reforma 
+Primero.- El artículo 133.3 de la [Ley Orgánica 1/2018](../01_marco_normativo_general_y_organico/LO1_2018_estatuto_autonomia_canarias.md), de 5 de noviembre, de reforma 
 del Estatuto de Autonomía de Canarias, indica que le corresponde a la Comunidad 
 Autónoma de Canarias la competencia de desarrollo legislativo y de ejecución, entre 
 otras, de la ordenación de las enseñanzas y la actividad docente y educativa, así como el 
 establecimiento de los correspondientes planes de estudio, incluida la ordenación curricular.
-Segundo.- La Ley 6/2014, de 25 de julio, Canaria de Educación no Universitaria, 
+Segundo.- La [Ley 6/2014](../01_marco_normativo_general_y_organico/L6_2014_ley_canaria_educacion.md), de 25 de julio, Canaria de Educación no Universitaria, 
 establece en su artículo 33.3 que “De acuerdo con la normativa básica del Estado, una vez 
 aprobado el real decreto correspondiente a un título de formación profesional y hasta que 
 sea completado el currículo correspondiente a la comunidad autónoma, aquel actuará como 
@@ -140,7 +149,7 @@ así como sus posteriores ampliaciones y modificaciones, resultan de aplicación
 presente procedimiento.
 Por todo lo expuesto, de conformidad con lo establecido en el artículo 20 del 
 Reglamento Orgánico de la Consejería de Educación, Formación Profesional, Actividad 
-Física y Deportes, aprobado mediante Decreto 84/2024, de 10 de junio, por el que se asignan 
+Física y Deportes, aprobado mediante [Decreto 84/2024](../01_marco_normativo_general_y_organico/D84_2024_reglamento_organico_consejeria.md), de 10 de junio, por el que se asignan 
 competencias generales y específicas a la Dirección General de Formación Profesional y 
 Enseñanzas de Régimen Especial,
 RESUELVO :
@@ -579,13 +588,13 @@ solicitar la convalidación de otros módulos profesionales.
 9. Corresponde a la dirección del centro educativo en el que el alumnado esté matriculado 
 la resolución de las solicitudes de convalidación reguladas en la presente instrucción, 
 por tratarse de convalidaciones entre módulos profesionales del sistema educativo y del 
-currículo autonómico, de conformidad con lo dispuesto en el Real Decreto 1085/2020, de 9 
+currículo autonómico, de conformidad con lo dispuesto en el [Real Decreto 1085/2020](../../../estatal/03_ordenacion_curricular_y_ensenanzas/BOE_2020_17274_diciembre_establecen_convalidaciones_módulos.md), de 9 
 de diciembre, y en el artículo 102 del Real Decreto 659/2023, de 18 de julio, sin perjuicio 
 de aquellos supuestos cuya competencia esté expresamente atribuida a otros órganos 
 conforme a la normativa básica estatal.
 10. Contra las resoluciones de convalidación podrá interponerse recurso de alzada 
-ante la Dirección Territorial que corresponda, en los plazos y términos previstos en la Ley 
-39/2015, de 1 de octubre.
+ante la Dirección Territorial que corresponda, en los plazos y términos previstos en la [Ley 
+39/2015](../../../estatal/01_marco_normativo_general_y_organico/L39_2015_procedimiento_administrativo_comun.md), de 1 de octubre.
 11. El plazo de presentación será desde el inicio del curso escolar hasta el último día 
 lectivo del curso.
 Se tramitarán con preferencia las solicitudes presentadas hasta el 31 de octubre.
@@ -633,7 +642,7 @@ solicitudes de reconocimiento de formación no formal previstas en la presente i
 a la vista de la propuesta emitida por la comisión de valoración.
 e) Contra las resoluciones de reconocimiento podrán interponerse recurso de alzada 
 ante la Dirección Territorial que corresponda, en los plazos y términos previstos en la 
-Ley 39/2015, de 1 de octubre.
+[Ley 39/2015](../../../estatal/01_marco_normativo_general_y_organico/L39_2015_procedimiento_administrativo_comun.md), de 1 de octubre.
 
 4. Una vez que sea firme la resolución emitida por la dirección del centro educativo, y 
 de conformidad con lo dispuesto en la misma, el resultado del reconocimiento se trasladará 

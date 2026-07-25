@@ -35,6 +35,8 @@ fundamentos_derecho:
   articulos:
   - '1'
   - '2'
+- norma_id: norm-es-2021-20113
+- norma_id: norm-es-2010-12201
 ---
 # Resolución de 17 de diciembre de 2007, de la Secretaría de Estado de Universidades e Investigación, por la que se publica el Acuerdo de Consejo de Ministros de 14 de diciembre de 2007, por el que se establecen las condiciones a las que deberán adecuarse los planes de estudios conducentes a la obtención de títulos que habiliten para el ejercicio de las profesiones reguladas de Profesor de Educación Secundaria Obligatoria y Bachillerato, Formación Profesional y Enseñanzas de Idiomas.
 
@@ -47,7 +49,7 @@ ANEXO
 Acuerdo de Consejo de Ministros por el que se establecen las condiciones a las que deberán adecuarse los planes de estudios conducentes a la obtención de títulos que habiliten para el ejercicio de las profesiones reguladas de Profesor de Educación Secundaria Obligatoria y Bachillerato, Formación Profesional y Enseñanzas de Idiomas
 
 El artículo 15.4 del Real Decreto 1393/2007, de 29 de octubre, por el que se establece la ordenación de las enseñanzas universitarias oficiales, dispone que los planes de estudios conducentes a títulos universitarios oficiales que permitan obtener las competencias necesarias para el ejercicio de una actividad profesional regulada en España, deberán adecuarse a las condiciones que establezca el Gobierno que además deberán ajustarse, en su caso, a la normativa europea aplicable.
-El Capítulo II del Título III de la Ley Orgánica 2/2006, de 3 de mayo, de Educación, relativo al profesorado de las distintas enseñanzas contempladas en dicha Ley, conforma tales profesiones docentes como reguladas, estableciendo en los artículos 92 y siguientes, los requisitos de titulación exigidos para el ejercicio de cada una de ellas.
+El Capítulo II del Título III de la [Ley Orgánica 2/2006](../01_marco_normativo_general_y_organico/LO2_2006_ley_organica_educacion.md), de 3 de mayo, de Educación, relativo al profesorado de las distintas enseñanzas contempladas en dicha Ley, conforma tales profesiones docentes como reguladas, estableciendo en los artículos 92 y siguientes, los requisitos de titulación exigidos para el ejercicio de cada una de ellas.
 En el caso de las enseñanzas a las que se refiere el presente acuerdo, de conformidad con lo dispuesto en la citada norma, para el ejercicio de las correspondientes profesiones se requiere un título de Máster.
 Se trata pues, en este caso, de establecer de conformidad con lo previsto en el artículo 15.4 del real decreto 1393/2007, de 29 de octubre, anteriormente mencionado, las condiciones que serán de aplicación a todos los planes de estudios conducentes a la obtención de los títulos universitarios oficiales que permitan ejercer las profesiones de Profesor de Educación Secundaria Obligatoria y Bachillerato, Formación Profesional y Enseñanzas de Idiomas.
 En su virtud, a propuesta de la Ministra de Educación y Ciencia, oído el Consejo de Universidades, el Consejo de Ministros, en su reunión del día 14 de diciembre de 2007, acuerda:

@@ -31,6 +31,11 @@ fundamentos_derecho:
 - norma_id: norm-can-l-6-2014
   articulos:
   - '1'
+- norma_id: norm-can-d-84-2024
+- norma_id: norm-es-lo-2-2006
+- norma_id: norm-es-2019-317
+- norma_id: norm-es-2021-20113
+- norma_id: norm-es-2010-12201
 fuente_pdf_oficial: https://sede.gobiernodecanarias.org/boc/boc-a-2025-250-4324.pdf
 ---
 # Resolución de la Dirección General de Formación Profesional y Enseñanzas de Régimen Especial, número 597/2025 de 4 de diciembre, por la que se convocan pruebas para la obtención de certificados de nivel intermedio B2 y nivel avanzado C1 de Inglés de Enseñanzas de Idiomas de Régimen Especial en la Comunidad Autónoma de Canarias y se dictan instrucciones para su organización y aplicación en el curso 2025-2026 (BOC núm 250, de 18 de diciembre).
@@ -76,7 +81,7 @@ personas convocadas y los requisitos de participación.
 A los anteriores hechos les son de aplicación los siguientes
 
 FUNDAMENTOS DE DERECHO
-Primero.- La Ley Orgánica 2/2006, de 3 de mayo, de Educación, dedica los artículos 59, 
+Primero.- La [Ley Orgánica 2/2006](../../../estatal/01_marco_normativo_general_y_organico/LO2_2006_ley_organica_educacion.md), de 3 de mayo, de Educación, dedica los artículos 59, 
 60, 61 y 62 a la ordenación de las Enseñanzas de Idiomas de Régimen Especial, estableciendo 
 que estas enseñanzas se organizarán en tres niveles: básico, intermedio y avanzado. Estos 
 niveles se corresponderán, respectivamente, con los niveles A, B y C del Marco Común 
@@ -97,7 +102,7 @@ así como el derecho del alumnado a ser evaluado con plena objetividad. Por últ
 determina que el Gobierno, previa consulta con las Comunidades Autónomas, establecerá 
 los principios básicos comunes de evaluación con el fin de garantizar el cumplimiento de 
 los requisitos de calidad mencionados.
-Tercero.- El Real Decreto 1/2019, de 11 de enero, por el que se establecen los principios 
+Tercero.- El [Real Decreto 1/2019](../../../estatal/03_ordenacion_curricular_y_ensenanzas/BOE_2019_317_enero_establecen_principios_básicos.md), de 11 de enero, por el que se establecen los principios 
 básicos comunes de evaluación aplicables a las pruebas de certificación oficial de los niveles 
 Intermedio B1, Intermedio B2, Avanzado C1, y Avanzado C2 de las Enseñanzas de Idiomas 
 de Régimen Especial, dictado en desarrollo de lo dispuesto en el citado artículo 7 del Real 
@@ -133,7 +138,7 @@ características generales y la estructura de las pruebas de certificación junt
 de tareas y las características de los textos por actividad de lengua.
 En atención a lo anteriormente indicado, y de conformidad con lo dispuesto en el artículo 
 19 del Decreto 212/1991, de 11 de septiembre, de organización de los Departamentos 
-de la Administración Autonómica de Canarias, y el artículo 20 del Decreto 84/2024, de 
+de la Administración Autonómica de Canarias, y el artículo 20 del [Decreto 84/2024](../01_marco_normativo_general_y_organico/D84_2024_reglamento_organico_consejeria.md), de 
 10 de junio, por el que se aprueba el Reglamento Orgánico de la Consejería de Educación, 
 Formación Profesional, Actividad Física y Deportes, que asigna competencias generales 
 y específicas a la Dirección General de Formación Profesional y Enseñanzas de Régimen 

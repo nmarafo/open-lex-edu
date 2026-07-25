@@ -34,6 +34,9 @@ fundamentos_derecho:
   articulos:
   - '1'
   - '2'
+- norma_id: norm-es-rd-132-2010
+- norma_id: norm-es-2021-20113
+- norma_id: norm-es-2010-12201
 ---
 # Real Decreto-ley 14/2012, de 20 de abril, de medidas urgentes de racionalización del gasto público en el ámbito educativo.
 
@@ -51,7 +54,7 @@ Por su parte, en el ámbito de las Universidades se determina la actividad docen
 
 Se trata, en definitiva, de introducir importantes elementos de racionalidad y eficiencia en el sistema educativo, que redundarán en una mejor prestación de este servicio público indispensable. Y se hace a través de medidas encaminadas a la consecución del equilibrio presupuestario, lo que guarda relación con su naturaleza básica, y que legitiman la intervención del Estado como titular de la competencia exclusiva para sentar las bases y coordinar la planificación general de la actividad económica (artículo 149.1.13.ª de la Constitución), según consolidada doctrina del Tribunal Constitucional, competencia en este caso convergente con los títulos competenciales recogidos en las reglas 1.ª, 18.ª y 30.ª del mismo artículo 149.1 de la Constitución, en cuanto constituyen bases del régimen estatutario de los funcionarios públicos o disposiciones básicas que garantizan la igualdad en las condiciones básicas del ejercicio de los derechos y libertades reconocidos en el artículo 27 de la Constitución.
 
-Las medidas que se adoptan en este real decreto-ley resultan imprescindibles para cumplir con la senda de consolidación fiscal fijada y con el compromiso de reducción de déficit de la Unión Europea, por lo que concurren las circunstancias de extraordinaria y urgente necesidad que exige el artículo 86 de la Constitución Española como premisa para recurrir a este instrumento jurídico. Por otra parte, se respetan los límites constitucionalmente establecidos para el uso de este instrumento normativo y, singularmente, se ha salvaguardado el contenido esencial del derecho a la educación regulado en el artículo 27 de la Constitución; de hecho, no se acomete la modificación de ningún precepto legal que se encuentre expresamente calificado como orgánico por la disposición final séptima de la Ley Orgánica 2/2006, de 3 de mayo, de Educación, o por la disposición final cuarta de la Ley Orgánica 6/2001, de 21 de diciembre, de Universidades.
+Las medidas que se adoptan en este real decreto-ley resultan imprescindibles para cumplir con la senda de consolidación fiscal fijada y con el compromiso de reducción de déficit de la Unión Europea, por lo que concurren las circunstancias de extraordinaria y urgente necesidad que exige el artículo 86 de la Constitución Española como premisa para recurrir a este instrumento jurídico. Por otra parte, se respetan los límites constitucionalmente establecidos para el uso de este instrumento normativo y, singularmente, se ha salvaguardado el contenido esencial del derecho a la educación regulado en el artículo 27 de la Constitución; de hecho, no se acomete la modificación de ningún precepto legal que se encuentre expresamente calificado como orgánico por la disposición final séptima de la [Ley Orgánica 2/2006](../01_marco_normativo_general_y_organico/LO2_2006_ley_organica_educacion.md), de 3 de mayo, de Educación, o por la disposición final cuarta de la Ley Orgánica 6/2001, de 21 de diciembre, de Universidades.
 
 En su virtud, en uso de la autorización contenida en el artículo 86 de la Constitución Española, a propuesta del Ministro de Educación, Cultura y Deporte y previa deliberación del Consejo de Ministros en su reunión del día 20 de abril de 2012,
 
@@ -197,7 +200,7 @@ b) Las Comunidades Autónomas financiarán íntegramente con cargo a sus presupu
 
 #### Disposición derogatoria única.
 
-Quedan derogados los apartados 3 y 4 del artículo 13 del Real Decreto 132/2010, de 12 de febrero, por el que se establecen los requisitos mínimos de los centros que impartan las enseñanzas del segundo ciclo de la educación infantil, la educación primaria y la educación secundaria.
+Quedan derogados los apartados 3 y 4 del artículo 13 del [Real Decreto 132/2010](../02_gestion_y_administracion_centros/RD132_2010_requisitos_minimos_centros.md), de 12 de febrero, por el que se establecen los requisitos mínimos de los centros que impartan las enseñanzas del segundo ciclo de la educación infantil, la educación primaria y la educación secundaria.
 
 #### Disposición final primera. Fundamento competencial.
 

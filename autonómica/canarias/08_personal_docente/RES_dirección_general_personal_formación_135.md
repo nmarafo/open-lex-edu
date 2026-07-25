@@ -29,6 +29,11 @@ fundamentos_derecho:
 - norma_id: norm-can-l-6-2014
   articulos:
   - '1'
+- norma_id: norm-es-lo-2-2006
+- norma_id: norm-es-rd-1834-2008
+- norma_id: norm-es-2021-20113
+- norma_id: norm-es-2010-12201
+- norma_id: norm-es-lo-8-2021
 fuente_pdf_oficial: https://sede.gobiernodecanarias.org/boc/boc-a-2024-048-880.pdf
 ---
 # Resolución de 15 de febrero de 2024, de la Dirección General de Personal y Formación del Profesorado, por la que se determina el procedimiento para el acceso a listas de empleo abiertas, para el nombramiento de personal docente interino en el ámbito educativo no universitario (BOC nº 48, de 6 de marzo).
@@ -125,7 +130,7 @@ no estar sometidos a sanción disciplinaria o condena penal que impida, en su Es
 acceso a la función pública.
 e) Acreditar no haber sido condenados por sentencia firme por ningún delito contra 
 la libertad e indemnidad sexual, así como por cualquier delito de trata de seres humanos, 
-conforme a lo dispuesto en el artículo 57 de la Ley Orgánica 8/2021, de 4 de junio, de 
+conforme a lo dispuesto en el artículo 57 de la [Ley Orgánica 8/2021](../../../estatal/07_convivencia_bienestar_y_protocolos/LO8_2021_proteccion_infancia_adolescencia_violencia.md), de 4 de junio, de 
 protección integral a la infancia y a la adolescencia frente a la violencia. Los participantes 
 cuya nacionalidad sea distinta de la española deberán acreditar, además de la certificación 
 negativa del Registro Central de Delincuentes Sexuales referidos al Estado español, la 
@@ -147,11 +152,11 @@ presentan la solicitud.
 2.2. Formación pedagógica y didáctica.
 Los participantes de las especialidades convocadas relativas al Cuerpo de Profesores de 
 Enseñanza Secundaria deberán poseer la formación pedagógica y didáctica a que se refiere 
-el artículo 100.2 de la Ley Orgánica 2/2006, de 3 de mayo.
+el artículo 100.2 de la [Ley Orgánica 2/2006](../../../estatal/01_marco_normativo_general_y_organico/LO2_2006_ley_organica_educacion.md), de 3 de mayo.
 Con carácter general, reunirán este requisito quienes estén en posesión del título oficial 
 de Máster universitario que habilite para el ejercicio de las profesiones de Profesor de 
 Secundaria y Formación Profesional, de acuerdo con lo que se establece en el artículo 9 del 
-Real Decreto 1834/2008, de 8 de noviembre. La especialidad que conste en el citado título 
+[Real Decreto 1834/2008](../../../estatal/02_gestion_y_administracion_centros/RD1834_2008_condiciones_docencia_secundaria.md), de 8 de noviembre. La especialidad que conste en el citado título 
 facultará para la presentación del aspirante a otras especialidades.
 No obstante, están dispensados de la posesión del citado título quienes acrediten 
 encontrarse en alguno de los siguientes supuestos:

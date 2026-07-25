@@ -26,6 +26,10 @@ fundamentos_derecho:
   articulos:
   - '1'
 - norma_id: norm-es-l-39-2015
+- norma_id: norm-es-lo-2-2006
+- norma_id: norm-es-2001-7022
+- norma_id: norm-es-2021-20113
+- norma_id: norm-es-2010-12201
 fuente_pdf_oficial: https://sede.gobiernodecanarias.org/boc/boc-a-2011-099-2678.pdf
 ---
 # ver Resolución corrección de errores de 12 de mayo de 2011
@@ -118,7 +122,7 @@ junto de procesos para modificar las políticas educati-
 vas y los sistemas educativos en los países miembros
 que afectan a los distintos niveles de enseñanza y, en
 concreto, a las enseñanzas artísticas superiores. 
-En esta línea, la Ley Orgánica 2/2006, de 3 de ma-
+En esta línea, la [Ley Orgánica 2/2006](../../../estatal/01_marco_normativo_general_y_organico/LO2_2006_ley_organica_educacion.md), de 3 de ma-
 yo, de Educación (BOE nº 106, de 4 de mayo), en su
 artículo 45.2.c), establece que los estudios superio-
 res de música, las enseñanzas de arte dramático y los
@@ -794,7 +798,7 @@ DISPOSICIONES DEROGATORIAS
 1. Queda derogada la Orden de 8 de marzo de 1999,
 por la que se dictan instrucciones sobre requisitos y
 procedimientos para el acceso a las enseñanzas pre-
-vistas en la Ley Orgánica 1/1990, de 3 de octubre,
+vistas en la [Ley Orgánica 1/1990](../../../estatal/02_gestion_y_administracion_centros/BOE_2001_7022_correspondientes_españoles_educación_secundaria.md), de 3 de octubre,
 de Ordenación General del Sistema Educativo, du-
 rante el período de su implantación (BOC nº 33, de
 17.3.99).

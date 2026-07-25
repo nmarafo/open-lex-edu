@@ -31,6 +31,14 @@ fundamentos_derecho:
 - norma_id: norm-can-l-6-2014
   articulos:
   - '1'
+- norma_id: norm-can-d-84-2024
+- norma_id: norm-can-res-boc-2019-069-48
+- norma_id: norm-can-d-25-2018
+- norma_id: norm-es-l-39-2015
+- norma_id: norm-es-l-40-2015
+- norma_id: norm-es-lo-2-2006
+- norma_id: norm-es-2021-20113
+- norma_id: norm-es-2010-12201
 fuente_pdf_oficial: https://sede.gobiernodecanarias.org/boc/boc-a-2026-060-1011.pdf
 ---
 # Resolución de la Dirección General de Ordenación de las Enseñanzas, Inclusión e Innovación, por la que se dictan instrucciones para regular la implantación, con carácter de experiencia piloto, del Programa del Diploma del Bachillerato Internacional en centros educativos públicos de la Comunidad Autónoma de Canarias, durante el curso 2026-2027. Presentación de solicitudes de participación del alumnado por vía telemática: del 20 de abril al 11 de mayo (BOC nº 60, de 27 de marzo).
@@ -105,7 +113,7 @@ Internacional para cada centro, de acuerdo con sus requisitos, fases y procedimi
 encontrándose los centros participantes en fase de implantación y desarrollo de la 
 documentación y políticas institucionales requeridas.
 FUNDAMENTOS DE DERECHO
-Primero.- La Ley Orgánica 2/2006, de 3 de mayo, de Educación, dispone en su artículo 
+Primero.- La [Ley Orgánica 2/2006](../../../estatal/01_marco_normativo_general_y_organico/LO2_2006_ley_organica_educacion.md), de 3 de mayo, de Educación, dispone en su artículo 
 32.1, dentro de los principios generales del Bachillerato, que esta etapa tiene como finalidad 
 proporcionar al alumnado formación, madurez intelectual y humana, conocimientos, 
 habilidades y actitudes que le permitan desarrollar funciones sociales e incorporarse a la 
@@ -118,7 +126,7 @@ de Bachillerato. En virtud de este marco, la Comunidad Autónoma puede desarroll
 organización de las enseñanzas, sin perjuicio de la normativa específica aplicable al acceso 
 y admisión del alumnado en centros sostenidos con fondos públicos.
 
-Tercero.- La Ley 6/2014, de 25 de julio, Canaria de Educación, establece en su 
+Tercero.- La [Ley 6/2014](../01_marco_normativo_general_y_organico/L6_2014_ley_canaria_educacion.md), de 25 de julio, Canaria de Educación, establece en su 
 artículo 1 como objetivo hacer efectivo el derecho a una educación de calidad, inclusiva 
 e integradora, garantizando la equidad y la excelencia. En consecuencia, el impulso de 
 programas educativos de referencia internacional se alinea con dichos fines, en tanto 
@@ -146,19 +154,19 @@ competente en materia de educación ampliará, de manera progresiva, la oferta d
 en las diferentes modalidades y vías del Bachillerato, ofreciendo cobertura normativa para 
 promover, de forma gradual y planificada, nuevas opciones formativas en Bachillerato, 
 como el pilotaje del Programa del Diploma, en el marco de la red pública.
-Octavo.- La Ley 40/2015, de 1 de octubre, de Régimen Jurídico del Sector Público, 
+Octavo.- La [Ley 40/2015](../../../estatal/01_marco_normativo_general_y_organico/L40_2015_regimen_juridico_sector_publico.md), de 1 de octubre, de Régimen Jurídico del Sector Público, 
 dispone que los órganos administrativos podrán dirigir la actividad de sus órganos 
 jerárquicamente dependientes mediante instrucciones y órdenes de servicio, resultando 
 procedente dictar la presente Resolución con el fin de ordenar y homogeneizar la actuación 
 administrativa vinculada al procedimiento de participación regulado y a sus anexos.
-Noveno.- El Decreto 84/2024, de 10 de junio, por el que se aprueba el Reglamento 
+Noveno.- El [Decreto 84/2024](../01_marco_normativo_general_y_organico/D84_2024_reglamento_organico_consejeria.md), de 10 de junio, por el que se aprueba el Reglamento 
 Orgánico de la Consejería de Educación, Formación Profesional, Actividad Física y Deportes, 
 establece en su artículo 17.2.j) que corresponde a la Dirección General de Ordenación de 
 las Enseñanzas, Inclusión e Innovación desarrollar e impulsar iniciativas de investigación 
 e innovación educativas, incluidas la gestión económica y administrativa de las mismas, 
 habilitando la actuación administrativa necesaria para la ordenación del pilotaje y del 
 procedimiento de participación.
-Décimo.- El Decreto 25/2018, de 26 de febrero, por el que se regula la atención a la 
+Décimo.- El [Decreto 25/2018](../06_atencion_diversidad_y_orientacion/D25_2018_atencion_diversidad_canarias.md), de 26 de febrero, por el que se regula la atención a la 
 diversidad en el ámbito de las enseñanzas no universitarias de la Comunidad Autónoma de 
 Canarias, dispone medidas para favorecer una atención a la diversidad desde un enfoque 
 inclusivo. En consecuencia, el procedimiento previsto deberá aplicarse garantizando la 
@@ -192,7 +200,7 @@ Actividad Física y Deportes del Gobierno de Canarias.
 A la presente Resolución, que no pone fin a la vía administrativa, podrá interponerse 
 recurso de alzada ante el órgano superior jerárquico, en el plazo de un mes contado a partir 
 del día siguiente al de su publicación, de conformidad con lo previsto en los artículos 121 
-y 122 de la Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común de las 
+y 122 de la [Ley 39/2015](../../../estatal/01_marco_normativo_general_y_organico/L39_2015_procedimiento_administrativo_comun.md), de 1 de octubre, del Procedimiento Administrativo Común de las 
 Administraciones Públicas.
 Las Palmas de Gran Canaria, a 13 de marzo de 2026.- El Director General de Ordenación 
 de las Enseñanzas, Inclusión e Innovación, David Pablos González.
@@ -396,7 +404,7 @@ a) Certificación idiomática del alumnado, a efectos del criterio de desempate 
 en la instrucción sexta del presente anexo, conforme a la Orden de 25 de noviembre de 
 2022, por la que se actualizan los títulos y certificados establecidos en el Anexo I de la 
 
-Orden de 21 de septiembre de 2016, que regula el reconocimiento de la acreditación de 
+[Orden de 21 de septiembre de 2016](RES_determina_acceso_distintos_cursos_48.md), que regula el reconocimiento de la acreditación de 
 la competencia lingüística conforme al Marco Común Europeo de Referencia para las 
 Lenguas en la Comunidad Autónoma de Canarias.
 b) Cualquier otra documentación que, en su caso, se requiera para la correcta tramitación 

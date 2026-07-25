@@ -31,6 +31,8 @@ fundamentos_derecho:
 - norma_id: norm-can-l-6-2014
   articulos:
   - '1'
+- norma_id: norm-es-l-39-2015
+- norma_id: norm-es-l-40-2015
 fuente_pdf_oficial: https://sede.gobiernodecanarias.org/boc/boc-a-2022-138-2350.pdf
 ---
 # Agencia Canaria de Calidad Universitaria y Evaluación Educativa (ACCUEE).- Resolución de 30 de junio de 2022, del Director, por la que se crea el sello electrónico cualificado de la Agencia Canaria de Calidad Universitaria y Evaluación Educativa.
@@ -40,7 +42,7 @@ Consejería de Educación, Universidades, Cultura y Deportes
 2350 Agencia Canaria de Calidad Universitaria y Evaluación Educativa (ACCUEE).- 
 Resolución de 30 de junio de 2022, del Director, por la que se crea el sello electrónico 
 cualificado de la Agencia Canaria de Calidad Universitaria y Evaluación Educativa.
-La Ley 40/2015, de 1 de octubre, de Régimen Jurídico del Sector Público, establece 
+La [Ley 40/2015](../../../estatal/01_marco_normativo_general_y_organico/L40_2015_regimen_juridico_sector_publico.md), de 1 de octubre, de Régimen Jurídico del Sector Público, establece 
 en su artículo 38.6 que las sedes electrónicas utilizarán, para identificarse y garantizar 
 una comunicación segura con las mismas, certificados reconocidos o cualificados de 
 autenticación de sitio web o medio equivalente. Así, en su artículo 40, apartado 1, 
@@ -146,7 +148,7 @@ servicios que presta la Agencia Canaria de Calidad Universitaria y Evaluación E
 (ACCUEE) en materias de su competencia.
 5.- La obtención de imágenes electrónicas de documentos en papel, con su misma 
 validez y eficacia, a través de procesos de digitalización, de acuerdo con lo previsto en el 
-artículo 27 de la Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común 
+artículo 27 de la [Ley 39/2015](../../../estatal/01_marco_normativo_general_y_organico/L39_2015_procedimiento_administrativo_comun.md), de 1 de octubre, del Procedimiento Administrativo Común 
 de las Administraciones Públicas, y en el apartado 5 del artículo 41 del Decreto 19/2011, 
 de 10 de febrero, por el que se regula la utilización de los medios electrónicos en la 
 Administración Pública de la Comunidad Autónoma de Canarias, así como en la Orden 

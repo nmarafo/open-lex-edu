@@ -30,6 +30,8 @@ fundamentos_derecho:
   articulos:
   - '1'
 - norma_id: norm-es-lo-2-2006
+- norma_id: norm-es-2021-20113
+- norma_id: norm-es-2010-12201
 fuente_pdf_oficial: https://sede.gobiernodecanarias.org/boc/boc-a-2015-245-5622.pdf
 fuente_juriscan: http://www.gobiernodecanarias.org/juriscan/ficha.jsp?id=73844
 ---
@@ -54,7 +56,7 @@ Segundo.- Resulta procedente dictar instrucciones para la adecuada organización
 rrollo y evaluación del TFE del alumnado que curse estas enseñanzas en el ámbito autonó-
 mico en el presente curso académico 2015-2016.
 FUNDAMENTOS DE DERECHO
-Primero.- La Ley Orgánica 2/2006, de 3 de mayo, de Educación, en su redacción actual, 
+Primero.- La [Ley Orgánica 2/2006](../../../estatal/01_marco_normativo_general_y_organico/LO2_2006_ley_organica_educacion.md), de 3 de mayo, de Educación, en su redacción actual, 
 establece y regula en su Título I, Capítulo VI, Sección Tercera, las Enseñanzas Artísticas 
 Superiores, entre las que se encuentran las de Diseño, Música y Arte Dramático. 
 Segundo.- El Real Decreto 1614/2009, de 26 de octubre, por el que se establece la orde-

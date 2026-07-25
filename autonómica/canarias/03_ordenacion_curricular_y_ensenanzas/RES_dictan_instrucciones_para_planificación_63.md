@@ -33,6 +33,13 @@ fundamentos_derecho:
   articulos:
   - '1'
 - norma_id: norm-es-lo-2-2006
+- norma_id: norm-can-d-84-2024
+- norma_id: norm-es-2001-7022
+- norma_id: norm-es-2010-4130
+- norma_id: norm-es-2016-3229
+- norma_id: norm-es-2021-20113
+- norma_id: norm-es-rd-243-2022
+- norma_id: norm-es-2010-12201
 fuente_pdf_oficial: https://sede.gobiernodecanarias.org/boc/boc-a-2025-074-1452.pdf
 ---
 # Resolución de 7 de abril de 2025, por la que se dictan instrucciones para la planificación, realización y gestión, en el ámbito de la Comunidad Autónoma de Canarias, de la Prueba para el Acceso a la Universidad, aplicables al alumnado que haya cursado el Bachillerato, así como Ciclos Formativos de Grado Superior de Formación Profesional, de Enseñanzas Profesionales de Artes Plásticas y Diseño, y de Enseñanzas Deportivas (BOC nº 74, de 15 de abril).
@@ -49,7 +56,7 @@ Las presentes instrucciones tienen por objeto dirigir las actividades conducente
 planificación, realización y gestión de la Prueba para el Acceso a la Universidad (PAU), en 
 el curso escolar 2024/2025, teniendo en cuenta los siguientes
 ANTECEDENTES DE HECHO
-Primero.- La Ley Orgánica 2/2006, de 3 de mayo, Educación, establece que para 
+Primero.- La [Ley Orgánica 2/2006](../../../estatal/01_marco_normativo_general_y_organico/LO2_2006_ley_organica_educacion.md), de 3 de mayo, Educación, establece que para 
 acceder a los estudios universitarios se requerirá superar una prueba que, junto con las 
 calificaciones de Bachillerato, evaluará objetivamente la madurez académica y la capacidad 
 para cursar estudios superiores.
@@ -112,7 +119,7 @@ competencias vinculadas al currículo del Bachillerato, así como la coordinaci�
 universidades y los centros que impartan la etapa para su organización y realización. Cada 
 administración educativa podrá delimitar el alcance de la colaboración de sus universidades 
 a estos efectos.
-Cuarto.- Resulta igualmente de aplicación el Real Decreto 243/2022, de 5 de abril, 
+Cuarto.- Resulta igualmente de aplicación el [Real Decreto 243/2022](../../../estatal/03_ordenacion_curricular_y_ensenanzas/RD243_2022_ordenacion_ensenanzas_minimas_bachillerato.md), de 5 de abril, 
 por el que se establecen la ordenación y las enseñanzas mínimas del Bachillerato, así como 
 el Decreto 30/2023, de 16 de marzo, por el que se establecen la ordenación y el currículo 
 de la Educación Secundaria Obligatoria y del Bachillerato en la Comunidad Autónoma de 
@@ -140,7 +147,7 @@ de Ordenación de las Enseñanzas, Inclusión e Innovación, en el ejercicio de 
 de dictar instrucciones y directrices atribuida por el artículo 4 del Decreto 212/1991, de 
 11 de septiembre, de organización de los Departamentos de la Administración Autonómica 
 de Canarias, el artículo 8.2.ñ) del Reglamento Orgánico de la Consejería de Educación, 
-Formación Profesional, Actividad Física y Deportes, aprobado por el Decreto 84/2024, 
+Formación Profesional, Actividad Física y Deportes, aprobado por el [Decreto 84/2024](../01_marco_normativo_general_y_organico/D84_2024_reglamento_organico_consejeria.md), 
 de 10 de junio, ante la necesidad de dirigir las actividades conducentes a la planificación, 
 realización y gestión de la Prueba para el Acceso a la Universidad,
 RESUELVO :
@@ -498,7 +505,7 @@ de un Ciclo Formativo de Grado Superior, y desee presentarse a la prueba, comuni
 configuración de la prueba que desea realizar, durante el plazo que se establezca y a través 
 de los medios telemáticos que se determinen para ello.
 4. El alumnado que, en el curso actual, esté cursado las enseñanzas reguladas mediante 
-el Real Decreto 102/2010, de 5 de febrero, por el que se regula la ordenación de las 
+el [Real Decreto 102/2010](../../../estatal/03_ordenacion_curricular_y_ensenanzas/BOE_2010_4130_febrero_regula_ordenación_enseñanzas.md), de 5 de febrero, por el que se regula la ordenación de las 
 enseñanzas acogidas al acuerdo entre el Gobierno de España y el Gobierno de Francia 
 relativo a la doble titulación de Bachiller y de Baccalauréat, y desee presentarse a la 
 prueba, comunicará la configuración de la prueba que desea realizar, durante el plazo que se 
@@ -778,7 +785,7 @@ general de la prueba de acceso deberá presentarse íntegramente a la misma.
 el artículo 23 del Real Decreto 243/2022, de 5 de abril, podrá sustituir la materia obligatoria 
 de modalidad por la materia que no hubiera escogido previamente al optar entre Historia de 
 España e Historia de la Filosofía.
-5. El alumnado procedente del sistema establecido por la Ley Orgánica 8/2013, de 9 de 
+5. El alumnado procedente del sistema establecido por la [Ley Orgánica 8/2013](../../../estatal/03_ordenacion_curricular_y_ensenanzas/BOE_2016_3229_marzo_regula_procedimiento_incorporación.md), de 9 de 
 diciembre, para la mejora de la calidad educativa, que escoja para la prueba la modalidad 
 de Artes podrá examinarse de la materia de Fundamentos Artísticos regulada en el 
 Decreto 30/2023, de 16 de marzo.
@@ -909,7 +916,7 @@ Podrán acceder a las enseñanzas universitarias oficiales de Grado superando la
 acceso quienes estén en posesión de cualquiera de los títulos o certificados, correspondientes 
 a planes de estudios de ordenaciones educativas anteriores, que se indican a continuación:
 • Título de Bachiller correspondiente a la ordenación del sistema educativo regulada 
-por la Ley Orgánica 1/1990, de 3 de octubre, de Ordenación General del Sistema Educativo.
+por la [Ley Orgánica 1/1990](../../../estatal/02_gestion_y_administracion_centros/BOE_2001_7022_correspondientes_españoles_educación_secundaria.md), de 3 de octubre, de Ordenación General del Sistema Educativo.
 • Certificado acreditativo de haber superado el Curso de Orientación Universitaria.
 • Certificado acreditativo de haber superado el Curso Preuniversitario.
 • Cualquier otro título que el Ministerio de Educación, Formación Profesional y 

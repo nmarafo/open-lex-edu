@@ -34,6 +34,15 @@ fundamentos_derecho:
 - norma_id: norm-can-l-6-2014
   articulos:
   - '1'
+- norma_id: norm-can-d-84-2024
+- norma_id: norm-can-res-boc-2024-230-25
+- norma_id: norm-can-res-134
+- norma_id: norm-es-l-40-2015
+- norma_id: norm-es-lo-2-2006
+- norma_id: norm-es-2021-20113
+- norma_id: norm-es-lo-3-2022
+- norma_id: norm-es-rd-659-2023
+- norma_id: norm-es-2010-12201
 fuente_pdf_oficial: https://sede.gobiernodecanarias.org/boc/boc-a-2025-118-2219.pdf
 ---
 # Resolución de 9 de junio de 2025, por la que se dictan instrucciones respecto al proceso de evaluación en los Ciclos Formativos (Grados C y D) y Cursos de Especialización (Grado E) del sistema de formación profesional que se imparten en la Comunidad Autónoma de Canarias a partir del curso escolar 2024/2025.
@@ -45,7 +54,7 @@ Resolución de 9 de junio de 2025, por la que se dictan instrucciones respecto a
 evaluación en los Ciclos Formativos (Grados C y D) y Cursos de Especialización 
 (Grado E) del sistema de formación profesional que se imparten en la Comunidad 
 Autónoma de Canarias a partir del curso escolar 2024/2025.
-La entrada en vigor de la Ley Orgánica 3/2022, de 31 de marzo, de ordenación e 
+La entrada en vigor de la [Ley Orgánica 3/2022](../08_personal_docente/RES_dirección_general_personal_sobre_134.md), de 31 de marzo, de ordenación e 
 integración de la Formación Profesional (en adelante LOOIFP), determina una transformación 
 global del Sistema de Formación Profesional, a través de un sistema único en el que toda 
 la formación profesional tendrá carácter dual, en tanto que se realizará entre el centro de 
@@ -80,7 +89,7 @@ adelante
 LOGSE), aún en vigor.
 
 Tercero.- Con la implantación del Sistema de Formación Profesional establecido por 
-la LOOIFP, desarrollado por el Real Decreto 659/2023, de 18 de julio, y una vez aprobadas 
+la LOOIFP, desarrollado por el [Real Decreto 659/2023](RES_dirección_general_formación_profesional_25.md), de 18 de julio, y una vez aprobadas 
 diversas Instrucciones para su implementación en el ámbito de nuestra Comunidad 
 Autónoma, se considera necesaria la emisión de una Resolución específica que comprenda 
 y concrete el proceso de evaluación en los Grados D y E a partir del curso 2024/2025.
@@ -96,7 +105,7 @@ dispone que la evaluación deberá ser objetiva a través de los oportunos proce
 atendiendo, en todo caso, al carácter continuo y diferenciado de los módulos profesionales 
 o los resultados de aprendizaje, así como a las necesarias adaptaciones en los procesos de 
 aprendizaje y evaluación.
-Tercero.- La Ley 6/2014, de 25 de julio, Canaria de Educación no Universitaria, 
+Tercero.- La [Ley 6/2014](../01_marco_normativo_general_y_organico/L6_2014_ley_canaria_educacion.md), de 25 de julio, Canaria de Educación no Universitaria, 
 tiene por objeto regular nuestro sistema educativo y su evaluación, de modo que pueda 
 convertirse en un instrumento eficaz para hacer efectivo el derecho a una educación de 
 calidad, inclusiva e integradora, que garantice la equidad y la excelencia, la prestación de 
@@ -129,12 +138,12 @@ formativos de Grado D y cursos especialización de Grado E a partir del curso 20
 en el ámbito de la Comunidad Autónoma de Canarias, regula, entre otros aspectos, la 
 evaluación en la empresa u organismo equiparado en las modalidades semipresencial y 
 virtual, con las especificaciones establecidas por la presente Resolución.
-Séptimo.- La Ley 40/2015, de 1 de octubre, de Régimen Jurídico del Sector Público, 
+Séptimo.- La [Ley 40/2015](../../../estatal/01_marco_normativo_general_y_organico/L40_2015_regimen_juridico_sector_publico.md), de 1 de octubre, de Régimen Jurídico del Sector Público, 
 establece, en su artículo 6, que los órganos administrativos podrán dirigir las actividades 
 de sus órganos jerárquicamente dependientes mediante instrucciones y órdenes de servicio.
 Por todo lo expuesto, de conformidad con lo establecido en el artículo 20 del 
 Reglamento Orgánico de la Consejería de Educación, Formación Profesional, Actividad 
-Física y Deportes, aprobado mediante Decreto 84/2024, de 10 de junio, por el que se asignan 
+Física y Deportes, aprobado mediante [Decreto 84/2024](../01_marco_normativo_general_y_organico/D84_2024_reglamento_organico_consejeria.md), de 10 de junio, por el que se asignan 
 competencias generales y específicas a la Dirección General de Formación Profesional y 
 Enseñanzas de Régimen Especial,
 RESUELVO :
@@ -624,7 +633,7 @@ mayo de 2019, por la que se establece el procedimiento para la certificación de
 a nivel básico en prevención de riesgos laborales del alumnado que cursa ciclos formativos 
 de formación profesional básica en centros educativos de la Comunidad Autónoma de 
 Canarias, y que hayan obtenido el título de formación básica de las enseñanzas de formación 
-profesional establecidas en la Ley Orgánica 2/2006, de 3 de mayo, de Educación.
+profesional establecidas en la [Ley Orgánica 2/2006](../../../estatal/01_marco_normativo_general_y_organico/LO2_2006_ley_organica_educacion.md), de 3 de mayo, de Educación.
 
 ANEXO II
 INSTRUCCIONES PARA LA EV ALUACIÓN DEL ALUMNADO DE LOS GRADOS 

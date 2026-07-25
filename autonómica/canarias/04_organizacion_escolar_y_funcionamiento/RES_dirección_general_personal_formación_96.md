@@ -37,6 +37,13 @@ fundamentos_derecho:
 - norma_id: norm-can-l-6-2014
   articulos:
   - '1'
+- norma_id: norm-can-d-84-2024
+- norma_id: norm-es-l-39-2015
+- norma_id: norm-es-l-40-2015
+- norma_id: norm-es-lo-2-2006
+- norma_id: norm-es-2021-20113
+- norma_id: norm-es-2010-12201
+- norma_id: norm-es-lo-8-2021
 fuente_pdf_oficial: https://sede.gobiernodecanarias.org/boc/boc-a-2026-029-465.pdf
 ---
 # Resolución de 30 de enero de2026, de la Dirección General de Personal y Formación del Profesorado, por la que se convoca, por el sistema de libre designación, la provisión de puestos de dirección de centros públicos integrados de formación profesional de la Comunidad Autónoma de Canarias para el periodo de mandato 2026-2030 (BOC n.º 29, de 12 de febrero).
@@ -76,16 +83,16 @@ y de los equipos directivos de los centros públicos integrados de formación pr
 de la Comunidad Autónoma de Canarias, que regulan el procedimiento a seguir en las 
 convocatorias, así como el nombramiento del director o directora y el seguimiento de la 
 función directiva.
-Tercero.- La Ley Orgánica 8/2021, de 4 de junio, de protección integral a la infancia y 
+Tercero.- La [Ley Orgánica 8/2021](../../../estatal/07_convivencia_bienestar_y_protocolos/LO8_2021_proteccion_infancia_adolescencia_violencia.md), de 4 de junio, de protección integral a la infancia y 
 la adolescencia frente a la violencia, en particular el artículo 57, apartado 1.
 
-Cuarto.- La Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común 
+Cuarto.- La [Ley 39/2015](../../../estatal/01_marco_normativo_general_y_organico/L39_2015_procedimiento_administrativo_comun.md), de 1 de octubre, del Procedimiento Administrativo Común 
 de las Administraciones Públicas, en cuanto le sea de aplicación.
-Quinto.- La Ley 40/2015, de 1 de octubre, de Régimen Jurídico del Sector Público, en 
+Quinto.- La [Ley 40/2015](../../../estatal/01_marco_normativo_general_y_organico/L40_2015_regimen_juridico_sector_publico.md), de 1 de octubre, de Régimen Jurídico del Sector Público, en 
 cuanto le sea de aplicación.
 De conformidad con lo anterior, en virtud de las competencias previstas en el artículo 
 16 del Reglamento Orgánico de la Consejería de Educación, Formación Profesional, 
-Actividad Física y Deportes del Gobierno de Canarias, aprobado por Decreto 84/2024, de 
+Actividad Física y Deportes del Gobierno de Canarias, aprobado por [Decreto 84/2024](../01_marco_normativo_general_y_organico/D84_2024_reglamento_organico_consejeria.md), de 
 10 de junio, y en relación con el artículo 19 del Decreto 212/1991, de 11 de septiembre, de 
 organización de los Departamentos de la Administración Autonómica de Canarias,
 RESUELVO :
@@ -161,7 +168,7 @@ reúna los siguientes requisitos:
 a) Pertenecer a alguno de los cuerpos de personal funcionario docente dependientes de 
 la Consejería.
 b) Tener una antigüedad de, al menos, cinco años como funcionario o funcionaria de 
-carrera de un cuerpo docente al que se refiere la Ley Orgánica 2/2006, de 3 de mayo, de 
+carrera de un cuerpo docente al que se refiere la [Ley Orgánica 2/2006](../../../estatal/01_marco_normativo_general_y_organico/LO2_2006_ley_organica_educacion.md), de 3 de mayo, de 
 Educación.
 c) Haber ejercido con anterioridad algún cargo directivo, al menos durante dos años, en 
 centros públicos docentes donde se haya impartido Formación Profesional.

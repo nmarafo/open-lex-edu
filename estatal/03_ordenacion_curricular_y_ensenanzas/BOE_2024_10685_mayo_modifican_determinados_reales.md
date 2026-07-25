@@ -34,6 +34,18 @@ fundamentos_derecho:
 - norma_id: norm-can-l-6-2014
   articulos:
   - '22'
+- norma_id: norm-can-res-boc-2024-230-25
+- norma_id: norm-can-res-134
+- norma_id: norm-es-l-39-2015
+- norma_id: norm-es-2020-17274
+- norma_id: norm-es-2021-20113
+- norma_id: norm-es-2021-979
+- norma_id: norm-es-lo-3-2022
+- norma_id: norm-es-rd-659-2023
+- norma_id: norm-es-2010-12201
+- norma_id: norm-es-2007-5478
+- norma_id: norm-es-2022-16194
+- norma_id: norm-es-rd-276-2007
 ---
 # Real Decreto 500/2024, de 21 de mayo, por el que se modifican determinados reales decretos por los que se establecen títulos de Formación Profesional de grado superior y se fijan sus enseñanzas mínimas.
 
@@ -75,7 +87,7 @@ Artículo décimo. Modalidad destinada al personal militar.
 
 #### Disposición transitoria única. Aplicación de los reales decretos por los que se establecen títulos de Formación Profesional de grado superior de acuerdo con el calendario establecido en el Real Decreto 278/2023, de 11 de abril.
 
-#### Disposición final primera. Modificación del Real Decreto 1085/2020, de 9 de diciembre.
+#### Disposición final primera. Modificación del [Real Decreto 1085/2020](BOE_2020_17274_diciembre_establecen_convalidaciones_módulos.md), de 9 de diciembre.
 
 #### Disposición final segunda. Título competencial.
 
@@ -263,17 +275,17 @@ Anexo XC. Real Decreto 1448/2018, de 14 de diciembre. Anexo III. Especialida
 
 Anexo XCI. Adaptación de los créditos ECTS de los módulos profesionales y proyecto intermodular.
 
-La Ley Orgánica 3/2022, de 31 de marzo, de ordenación e integración de la Formación Profesional, concreta el compromiso asumido por España de modernización de nuestro país, facilitando la cualificación, la empleabilidad y, en consecuencia, la generación de riqueza. Pone en el centro de la acción política a la persona y su necesidad de cualificarse y mantenerse actualizada a lo largo de toda su vida.
+La [Ley Orgánica 3/2022](../../autonómica/canarias/08_personal_docente/RES_dirección_general_personal_sobre_134.md), de 31 de marzo, de ordenación e integración de la Formación Profesional, concreta el compromiso asumido por España de modernización de nuestro país, facilitando la cualificación, la empleabilidad y, en consecuencia, la generación de riqueza. Pone en el centro de la acción política a la persona y su necesidad de cualificarse y mantenerse actualizada a lo largo de toda su vida.
 
 Para canalizar todas las expectativas, la ley orgánica requiere ser desarrollada, dando cobertura reglamentaria a la concreción de la flexibilización y accesibilidad del sistema planteadas, para que las administraciones responsables del desarrollo de las políticas en materia de Formación Profesional y su gestión desde cada comunidad autónoma trabajen conjuntamente, garantizando una oferta suficiente y adecuada de Formación Profesional, tanto para estudiantes como para personas trabajadoras, en todos y cada uno de los grados previstos en el sistema, permitiendo el establecimiento de itinerarios formativos, que les acompañen, desde antes de acabar su escolaridad obligatoria y a lo largo de su vida laboral, y que concluya en la generalización de una nueva cultura del aprendizaje.
 
-Establecida la ordenación del sistema por el Real Decreto 659/2023, de 18 de julio, por el que se desarrolla la ordenación del Sistema de Formación Profesional, procede realizar los cambios normativos mínimos e imprescindibles para garantizar la transición y adaptación al nuevo sistema de las titulaciones y ofertas formativas reguladas con anterioridad, con plena seguridad jurídica para la ciudadanía y de las administraciones competentes de las comunidades autónomas.
+Establecida la ordenación del sistema por el [Real Decreto 659/2023](../../autonómica/canarias/03_ordenacion_curricular_y_ensenanzas/RES_dirección_general_formación_profesional_25.md), de 18 de julio, por el que se desarrolla la ordenación del Sistema de Formación Profesional, procede realizar los cambios normativos mínimos e imprescindibles para garantizar la transición y adaptación al nuevo sistema de las titulaciones y ofertas formativas reguladas con anterioridad, con plena seguridad jurídica para la ciudadanía y de las administraciones competentes de las comunidades autónomas.
 
-A este objetivo responde la presente norma en la que se establecen los cambios de ordenación necesarios de los títulos de Formación Profesional de grado superior para permitir su oferta en el marco de la nueva estructura establecida en el Real Decreto 659/2023, de 18 de julio. Concretamente, se procede a la actualización de la nómina de los módulos profesionales que forman parte del plan de estudios de cada ciclo formativo, se adapta el antiguo proyecto a la intermodularidad requerida, se adaptan los cuerpos del profesorado tras la publicación del Real Decreto 800/2022, de 4 de octubre, por el que se regula la integración del profesorado del Cuerpo, a extinguir, de Profesores Técnicos de Formación Profesional en el Cuerpo de Profesores de Enseñanza Secundaria, y se modifican diversos reales decretos relativos al profesorado de enseñanzas no universitarias, y se actualiza el contenido del artículo 6 de algunos reales decretos y por consiguiente se actualiza el anexo relativo a la correspondencia de los módulos profesionales con las unidades de competencia.
+A este objetivo responde la presente norma en la que se establecen los cambios de ordenación necesarios de los títulos de Formación Profesional de grado superior para permitir su oferta en el marco de la nueva estructura establecida en el Real Decreto 659/2023, de 18 de julio. Concretamente, se procede a la actualización de la nómina de los módulos profesionales que forman parte del plan de estudios de cada ciclo formativo, se adapta el antiguo proyecto a la intermodularidad requerida, se adaptan los cuerpos del profesorado tras la publicación del [Real Decreto 800/2022](../08_personal_docente/BOE_2022_16194_octubre_regula_integración_profesorado.md), de 4 de octubre, por el que se regula la integración del profesorado del Cuerpo, a extinguir, de Profesores Técnicos de Formación Profesional en el Cuerpo de Profesores de Enseñanza Secundaria, y se modifican diversos reales decretos relativos al profesorado de enseñanzas no universitarias, y se actualiza el contenido del artículo 6 de algunos reales decretos y por consiguiente se actualiza el anexo relativo a la correspondencia de los módulos profesionales con las unidades de competencia.
 
 En relación con el contenido de carácter básico de este real decreto, se ha recurrido a una norma reglamentaria para establecer bases estatales conforme con el Tribunal Constitucional, que admite «excepcionalmente», que las bases puedan establecerse mediante normas reglamentarias en determinados supuestos, cuando, como ocurre en el presente caso, «resulta complemento indispensable para asegurar el mínimo común denominador establecido en las normas legales básicas» (así, entre otras, en las Sentencias del Tribunal Constitucional 25/1983, de 7 de abril, 32/1983, de 28 de abril, 48/1988, de 22 de marzo, y 49/1988, de 22 de marzo).
 
-Asimismo, cabe mencionar que este real decreto se ajusta a los principios de buena regulación contenidos en el artículo 129 de la Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común de las Administraciones Públicas, los principios de necesidad, eficacia, proporcionalidad, seguridad jurídica, transparencia y eficiencia. Cumple el principio de necesidad en tanto que persigue el interés general al facilitar la adecuación de la oferta formativa a las demandas de los sectores productivos, ampliar la oferta de Formación Profesional, avanzar en la integración de la formación profesional en el conjunto del sistema educativo y formativo y reforzar la cooperación entre las administraciones educativas, así como con los agentes sociales y las empresas privadas. Cumple con los principios de eficacia, eficiencia, proporcionalidad y seguridad jurídica porque, no existiendo ninguna alternativa regulatoria menos restrictiva de derechos, resulta coherente con el ordenamiento jurídico y permite una gestión más eficiente de los recursos públicos. Del mismo modo, cumple con el principio de transparencia porque durante el procedimiento de elaboración de la norma se ha permitido la participación activa de los potenciales destinatarios a través del trámite de audiencia e información pública y quedan justificados los objetivos que persigue la ley.
+Asimismo, cabe mencionar que este real decreto se ajusta a los principios de buena regulación contenidos en el artículo 129 de la [Ley 39/2015](../01_marco_normativo_general_y_organico/L39_2015_procedimiento_administrativo_comun.md), de 1 de octubre, del Procedimiento Administrativo Común de las Administraciones Públicas, los principios de necesidad, eficacia, proporcionalidad, seguridad jurídica, transparencia y eficiencia. Cumple el principio de necesidad en tanto que persigue el interés general al facilitar la adecuación de la oferta formativa a las demandas de los sectores productivos, ampliar la oferta de Formación Profesional, avanzar en la integración de la formación profesional en el conjunto del sistema educativo y formativo y reforzar la cooperación entre las administraciones educativas, así como con los agentes sociales y las empresas privadas. Cumple con los principios de eficacia, eficiencia, proporcionalidad y seguridad jurídica porque, no existiendo ninguna alternativa regulatoria menos restrictiva de derechos, resulta coherente con el ordenamiento jurídico y permite una gestión más eficiente de los recursos públicos. Del mismo modo, cumple con el principio de transparencia porque durante el procedimiento de elaboración de la norma se ha permitido la participación activa de los potenciales destinatarios a través del trámite de audiencia e información pública y quedan justificados los objetivos que persigue la ley.
 
 Este real decreto se dicta al amparo de las competencias que atribuye al Estado el artículo 149.1.30.ª de la Constitución Española, para la regulación de las condiciones de obtención, expedición y homologación de los títulos académicos y profesionales y normas básicas para el desarrollo del artículo 27 de la Constitución Española, a fin de garantizar el cumplimiento de las obligaciones de los poderes públicos en esta materia.
 
@@ -3033,7 +3045,7 @@ e) Se incluye un nuevo apartado 3, con la siguiente redacción:
 
 f) Se incluye un nuevo apartado 4, con la siguiente redacción:
 
-«4. De acuerdo con lo establecido en los artículos 12.3 y 12.4 del Real Decreto 659/2023, de 18 de julio, y sin perjuicio de lo señalado en el artículo 6 de la Ley Orgánica 2/2006, de 3 de mayo, de Educación, los contenidos básicos que figuran en los anexos I correspondientes a los módulos profesionales y proyecto intermodular que conforman los diferentes ciclos formativos de grado superior a los que se refiere el presente real decreto tendrán la consideración de carácter orientativo.»
+«4. De acuerdo con lo establecido en los artículos 12.3 y 12.4 del Real Decreto 659/2023, de 18 de julio, y sin perjuicio de lo señalado en el artículo 6 de la [Ley Orgánica 2/2006](../01_marco_normativo_general_y_organico/LO2_2006_ley_organica_educacion.md), de 3 de mayo, de Educación, los contenidos básicos que figuran en los anexos I correspondientes a los módulos profesionales y proyecto intermodular que conforman los diferentes ciclos formativos de grado superior a los que se refiere el presente real decreto tendrán la consideración de carácter orientativo.»
 
 g) Se incluye un nuevo apartado 5, con la siguiente redacción:
 
@@ -3153,7 +3165,7 @@ h) Se incluye un nuevo apartado 9, con la siguiente redacción:
 
 Uno. En los reales decretos a que hace referencia el artículo primero.Dos.a), el artículo primero.Dos.b) y el artículo primero.Dos.c), el artículo 12 queda redactado como sigue:
 
-«1. La docencia de los módulos profesionales que constituyen las enseñanzas de este ciclo formativo corresponde al profesorado de las especialidades establecidas en el Anexo III pertenecientes a los cuerpos indicados en dicho anexo, sin perjuicio de lo establecido en la disposición transitoria sexta del Reglamento de ingreso, accesos y adquisición de nuevas especialidades en los cuerpos docentes a que se refiere la Ley Orgánica 2/2006, de 3 de mayo, de Educación, aprobado por el Real Decreto 276/2007, de 23 de febrero.
+«1. La docencia de los módulos profesionales que constituyen las enseñanzas de este ciclo formativo corresponde al profesorado de las especialidades establecidas en el Anexo III pertenecientes a los cuerpos indicados en dicho anexo, sin perjuicio de lo establecido en la disposición transitoria sexta del Reglamento de ingreso, accesos y adquisición de nuevas especialidades en los cuerpos docentes a que se refiere la Ley Orgánica 2/2006, de 3 de mayo, de Educación, aprobado por el [Real Decreto 276/2007](../08_personal_docente/BOE_2007_5478_marzo_aprueba_temario_regir.md), de 23 de febrero.
 
 2. Las condiciones de acceso a los cuerpos a que se refiere el apartado anterior serán las recogidas en el Real Decreto 276/2007, de 23 de febrero.
 

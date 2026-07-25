@@ -26,8 +26,12 @@ fundamentos_derecho:
 - norma_id: norm-es-l-39-2015
   articulos:
   - '1'
+- norma_id: norm-es-2007-19814
+- norma_id: norm-es-1999-23750
+- norma_id: norm-es-2008-979
+- norma_id: norm-es-2007-6115
 ---
-# Real Decreto 1495/2011, de 24 de octubre, por el que se desarrolla la Ley 37/2007, de 16 de noviembre, sobre reutilización de la información del sector público, para el ámbito del sector público estatal.
+# Real Decreto 1495/2011, de 24 de octubre, por el que se desarrolla la [Ley 37/2007](BOE_2007_19814_noviembre_sobre_reutilización_información.md), de 16 de noviembre, sobre reutilización de la información del sector público, para el ámbito del sector público estatal.
 
 La Ley 37/2007, de 16 de noviembre, sobre reutilización de la información del sector público, por medio de la cual se incorpora a nuestro ordenamiento jurídico la Directiva 2003/98/CE, de 17 de noviembre de 2003, del Parlamento Europeo y del Consejo, relativa a la reutilización de la información del sector público, establece el régimen jurídico general para la reutilización de dicha información.
 
@@ -65,7 +69,7 @@ Por su parte, el artículo 10 desarrolla el mandato establecido en el artículo 
 
 Finalmente, el artículo 11 establece, en relación con los documentos que contengan datos de carácter personal, que podrá procederse a autorizar su reutilización siempre y cuando se proceda previamente a un proceso de disociación, de conformidad con lo establecido en la normativa de protección de datos de carácter personal.
 
-Conforme a lo dispuesto por el artículo 14.11 de la Ley Orgánica 3/2007, de 22 de marzo, para la igualdad efectiva de mujeres y hombres, el uso del masculino genérico en el texto de esta disposición debe considerarse como inclusivo de ambos géneros.
+Conforme a lo dispuesto por el artículo 14.11 de la [Ley Orgánica 3/2007](../07_convivencia_bienestar_y_protocolos/BOE_2007_6115_marzo_para_igualdad_efectiva.md), de 22 de marzo, para la igualdad efectiva de mujeres y hombres, el uso del masculino genérico en el texto de esta disposición debe considerarse como inclusivo de ambos géneros.
 
 El presente real decreto se dicta en virtud de la habilitación contenida en la disposición final segunda de la Ley 37/2007, de 16 de noviembre y ha sido informado por el Consejo Superior de Administración Electrónica y el Consejo Asesor de las Telecomunicaciones y de la Sociedad de la Información y sometido a consulta pública.
 
@@ -225,7 +229,7 @@ No obstante, lo dispuesto en el párrafo anterior podrá ser excepcionado, en to
 
 1. El acceso a documentos que contengan datos de carácter personal o referentes a la intimidad de las personas estará reservado a éstas, que podrán además ejercer sus derechos de rectificación, cancelación y oposición de acuerdo con lo previsto en la legislación de protección de datos personales y el artículo 37.2 de la Ley 30/1992, de 26 de noviembre.
 
-2. No obstante, siempre y cuando los medios técnicos y económicos lo permitan, deberá procederse a la disociación de los datos personales, en los términos que se derivan de lo establecido en el artículo 3.f) de la Ley Orgánica 15/1999, de 13 de diciembre, de Protección de Datos de Carácter Personal y en el artículo 5.1.e) del Real Decreto 1720/2007, de 21 de diciembre, por el que se aprueba su Reglamento de Desarrollo, a fin de permitir su reutilización por otras personas.
+2. No obstante, siempre y cuando los medios técnicos y económicos lo permitan, deberá procederse a la disociación de los datos personales, en los términos que se derivan de lo establecido en el artículo 3.f) de la [Ley Orgánica 15/1999](../02_gestion_y_administracion_centros/BOE_1999_23750_diciembre_protección_datos_carácter.md), de 13 de diciembre, de Protección de Datos de Carácter Personal y en el artículo 5.1.e) del [Real Decreto 1720/2007](../02_gestion_y_administracion_centros/BOE_2008_979_diciembre_aprueba_reglamento_desarrollo.md), de 21 de diciembre, por el que se aprueba su Reglamento de Desarrollo, a fin de permitir su reutilización por otras personas.
 
 #### Disposición adicional primera. Ausencia de impacto presupuestario.
 

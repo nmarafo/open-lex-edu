@@ -32,6 +32,8 @@ fundamentos_derecho:
   articulos:
   - '1'
 - norma_id: norm-es-lo-2-2006
+- norma_id: norm-es-2021-20113
+- norma_id: norm-es-2010-12201
 fuente_pdf_oficial: https://sede.gobiernodecanarias.org/boc/boc-a-2023-085-1356.pdf
 ---
 # Resolución de 18 de abril de 2023, por la que se dictan instrucciones para la organización de los cursos de especialización en idiomas y se regula la planificación y autorización de su oferta y la admisión del alumnado en las Escuelas Oficiales de Idiomas de la Comunidad Autónoma de Canarias (BOC n.º 85, de 3 de mayo).
@@ -58,11 +60,11 @@ con respecto a la organización de este tipo de cursos, así como unas directric
 para la planificación y autorización de su oferta y la admisión de su alumnado en las 
 Escuelas Oficiales de Idiomas de la Comunidad Autónoma de Canarias.
 FUNDAMENTOS DE DERECHO
-Primero.- El artículo 60.4 de la Ley Orgánica 2/2006, de 3 de mayo, de Educación, 
+Primero.- El artículo 60.4 de la [Ley Orgánica 2/2006](../../../estatal/01_marco_normativo_general_y_organico/LO2_2006_ley_organica_educacion.md), de 3 de mayo, de Educación, 
 prevé que las Escuelas Oficiales de Idiomas podrán impartir cursos para la actualización 
 de conocimientos de idiomas y para la formación del profesorado y de otros colectivos 
 profesionales.
-Segundo.- La Ley 6/2014, de 25 de julio, Canaria de Educación no Universitaria, 
+Segundo.- La [Ley 6/2014](../01_marco_normativo_general_y_organico/L6_2014_ley_canaria_educacion.md), de 25 de julio, Canaria de Educación no Universitaria, 
 dispone en su artículo 35.8 que las Escuelas Oficiales de Idiomas desarrollarán planes y 
 programas para atender la formación permanente en idiomas del profesorado, especialmente 
 del que imparta materias de su especialidad en una lengua extranjera, así como de otros 

@@ -30,10 +30,12 @@ fundamentos_derecho:
 - norma_id: norm-can-l-6-2014
   articulos:
   - '22'
+- norma_id: norm-es-l-53-1984
+- norma_id: norm-es-2002-12018
 ---
 # Real Decreto 1558/2005, de 23 de diciembre, por el que se regulan los requisitos básicos de los Centros integrados de formación profesional.
 
-La Ley Orgánica 5/2002, de 19 de junio, de las Cualificaciones y de la Formación Profesional, tiene por objeto «la ordenación de un sistema integral de formación profesional, cualificaciones y acreditación, que responda con eficacia y transparencia a las demandas sociales y económicas a través de las diversas modalidades formativas».
+La [Ley Orgánica 5/2002](BOE_2002_12018_junio_cualificaciones_formación_profesional.md), de 19 de junio, de las Cualificaciones y de la Formación Profesional, tiene por objeto «la ordenación de un sistema integral de formación profesional, cualificaciones y acreditación, que responda con eficacia y transparencia a las demandas sociales y económicas a través de las diversas modalidades formativas».
 
 El artículo 11.1 de la Ley Orgánica 5/2002 habilita al Gobierno para establecer los requisitos básicos que deben reunir los centros que impartirán ofertas de formación profesional conducentes a la obtención de títulos de formación profesional y certificados de profesionalidad. Asimismo, el artículo 11.4 prevé la denominación de Centros integrados para aquellos centros de formación profesional que se caractericen por impartir todas las ofertas formativas a las que se refiere el artículo 10.1 de la misma. El objetivo de los Centros integrados es desarrollar acciones formativas derivadas de la integración de las ofertas de formación profesional, dirigidas a la población demandante, jóvenes, trabajadores en activo ocupados y desempleados, que faciliten el aprendizaje a lo largo de la vida.
 
@@ -253,7 +255,7 @@ d) Cualesquiera otras que le sean atribuidas por la Administración competente.
 
 3. Podrán ser contratados, como expertos, profesionales cualificados para impartir aquellas enseñanzas que por su naturaleza lo requieran, en las condiciones y régimen que determinen las Administraciones competentes.
 
-4. El personal que preste sus servicios en centros de titularidad pública estará sujeto al régimen de incompatibilidades previsto en la Ley 53/1984, de 26 de diciembre, de Incompatibilidades del Personal al Servicio de las Administraciones Públicas, y a lo que se derive de la consideración como de interés público que a los efectos previstos en el artículo 3 de la citada Ley tiene la impartición de la formación en estos centros.
+4. El personal que preste sus servicios en centros de titularidad pública estará sujeto al régimen de incompatibilidades previsto en la [Ley 53/1984](../01_marco_normativo_general_y_organico/L53_1984_incompatibilidades_personal_publico.md), de 26 de diciembre, de Incompatibilidades del Personal al Servicio de las Administraciones Públicas, y a lo que se derive de la consideración como de interés público que a los efectos previstos en el artículo 3 de la citada Ley tiene la impartición de la formación en estos centros.
 
 #### Artículo 16. Personal que desarrolla las funciones de información y orientación profesional.
 

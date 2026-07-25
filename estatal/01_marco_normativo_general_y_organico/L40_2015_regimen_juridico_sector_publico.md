@@ -77,6 +77,13 @@ fundamentos_derecho:
 - norma_id: norm-es-l-39-2015
   articulos:
   - '1'
+- norma_id: norm-es-2000-544
+- norma_id: norm-es-l-19-2013
+- norma_id: norm-es-l-53-1984
+- norma_id: norm-es-1985-5392
+- norma_id: norm-es-1999-23750
+- norma_id: norm-es-2013-13756
+- norma_id: norm-es-2013-12632
 ---
 # Ley 40/2015 del Régimen Jurídico del Sector Público
 
@@ -144,7 +151,7 @@ Con el objeto de evitar la proliferación de centros encargados de la prestació
 
 Sobre la base de la regulación de la Administración Periférica contenida en la Ley 6/1997, la Ley regula los órganos de la Administración General del Estado de carácter territorial, los Delegados y Subdelegados del Gobierno. Como principales novedades respecto a la regulación hasta ahora vigente, destacan las siguientes cuestiones.
 
-En cuanto a los Delegados del Gobierno, se refuerza su papel político e institucional, se les define como órganos directivos, y se dispone que su nombramiento atenderá a criterios de competencia profesional y experiencia, siendo de aplicación al desempeño de sus funciones lo establecido en el Título II de la Ley 19/2013, de 9 de diciembre, de transparencia, acceso a la información pública y buen gobierno.
+En cuanto a los Delegados del Gobierno, se refuerza su papel político e institucional, se les define como órganos directivos, y se dispone que su nombramiento atenderá a criterios de competencia profesional y experiencia, siendo de aplicación al desempeño de sus funciones lo establecido en el Título II de la [Ley 19/2013](L19_2013_transparencia_buen_gobierno.md), de 9 de diciembre, de transparencia, acceso a la información pública y buen gobierno.
 
 Se mejora la regulación de su suplencia, vacante o enfermedad, correspondiendo al Subdelegado del Gobierno que el Delegado designe. En caso de no haber realizado formalmente la designación, y cuando se trate de una Comunidad uniprovincial que carezca de Subdelegado, la suplencia recaerá sobre el Secretario General.
 
@@ -716,7 +723,7 @@ Principios de la potestad sancionadora
 
 #### Artículo 25. Principio de legalidad.
 
-1. La potestad sancionadora de las Administraciones Públicas se ejercerá cuando haya sido expresamente reconocida por una norma con rango de Ley, con aplicación del procedimiento previsto para su ejercicio y de acuerdo con lo establecido en esta Ley y en la Ley de Procedimiento Administrativo Común de las Administraciones Públicas y, cuando se trate de Entidades Locales, de conformidad con lo dispuesto en el Título XI de la Ley 7/1985, de 2 de abril.
+1. La potestad sancionadora de las Administraciones Públicas se ejercerá cuando haya sido expresamente reconocida por una norma con rango de Ley, con aplicación del procedimiento previsto para su ejercicio y de acuerdo con lo establecido en esta Ley y en la Ley de Procedimiento Administrativo Común de las Administraciones Públicas y, cuando se trate de Entidades Locales, de conformidad con lo dispuesto en el Título XI de la [Ley 7/1985](../02_gestion_y_administracion_centros/BOE_1985_5392_abril_reguladora_bases_régimen.md), de 2 de abril.
 
 2. El ejercicio de la potestad sancionadora corresponde a los órganos administrativos que la tengan expresamente atribuida, por disposición de rango legal o reglamentario.
 
@@ -2132,7 +2139,7 @@ De los consorcios
 
 2. En lo no previsto en esta Ley, en la normativa autonómica aplicable, ni en sus Estatutos sobre el régimen del derecho de separación, disolución, liquidación y extinción, se estará a lo previsto en el Código Civil sobre la sociedad civil, salvo el régimen de liquidación, que se someterá a lo dispuesto en el artículo 97, y en su defecto, el Real Decreto Legislativo 1/2010, de 2 de julio.
 
-3. Las normas establecidas en la Ley 7/1985, de 2 de abril, y en la Ley 27/2013, de 21 de diciembre, de racionalización y sostenibilidad de la Administración Local sobre los Consorcios locales tendrán carácter supletorio respecto a lo dispuesto en esta Ley.
+3. Las normas establecidas en la Ley 7/1985, de 2 de abril, y en la [Ley 27/2013](../02_gestion_y_administracion_centros/BOE_2013_13756_diciembre_racionalización_sostenibilidad_administración.md), de 21 de diciembre, de racionalización y sostenibilidad de la Administración Local sobre los Consorcios locales tendrán carácter supletorio respecto a lo dispuesto en esta Ley.
 
 #### Artículo 120. Régimen de adscripción.
 
@@ -2594,7 +2601,7 @@ Relaciones electrónicas entre las Administraciones
 
 #### Artículo 155. Transmisiones de datos entre Administraciones Públicas.
 
-1. De conformidad con lo dispuesto en la Ley Orgánica 15/1999, de 13 de diciembre, de Protección de Datos de Carácter Personal y su normativa de desarrollo, cada Administración deberá facilitar el acceso de las restantes Administraciones Públicas a los datos relativos a los interesados que obren en su poder, especificando las condiciones, protocolos y criterios funcionales o técnicos necesarios para acceder a dichos datos con las máximas garantías de seguridad, integridad y disponibilidad.
+1. De conformidad con lo dispuesto en la [Ley Orgánica 15/1999](../02_gestion_y_administracion_centros/BOE_1999_23750_diciembre_protección_datos_carácter.md), de 13 de diciembre, de Protección de Datos de Carácter Personal y su normativa de desarrollo, cada Administración deberá facilitar el acceso de las restantes Administraciones Públicas a los datos relativos a los interesados que obren en su poder, especificando las condiciones, protocolos y criterios funcionales o técnicos necesarios para acceder a dichos datos con las máximas garantías de seguridad, integridad y disponibilidad.
 
 2. La disponibilidad de tales datos estará limitada estrictamente a aquellos que son requeridos a los interesados por las restantes Administraciones para la tramitación y resolución de los procedimientos y actuaciones de su competencia, de acuerdo con la normativa reguladora de los mismos.
 
@@ -3038,7 +3045,7 @@ Doce. El Título V queda redactado del siguiente modo:
 
 #### Artículo 22. Del ejercicio de la iniciativa legislativa y la potestad reglamentaria del Gobierno.
 
-El Gobierno ejercerá la iniciativa y la potestad reglamentaria de conformidad con los principios y reglas establecidos en el Título VI de la Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común de las Administraciones Públicas y en el presente Título.
+El Gobierno ejercerá la iniciativa y la potestad reglamentaria de conformidad con los principios y reglas establecidos en el Título VI de la [Ley 39/2015](L39_2015_procedimiento_administrativo_comun.md), de 1 de octubre, del Procedimiento Administrativo Común de las Administraciones Públicas y en el presente Título.
 
 #### Artículo 23. Disposiciones de entrada en vigor.
 
@@ -3422,7 +3429,7 @@ b) Haber sido sancionadas con carácter firme por infracción grave en materia p
 
 c) Haber solicitado la declaración de concurso voluntario, haber sido declaradas insolventes en cualquier procedimiento, hallarse declaradas en concurso, salvo que en éste haya adquirido la eficacia un convenio, estar sujetos a intervención judicial o haber sido inhabilitados conforme a la Ley 22/2003, de 9 de julio, Concursal, sin que haya concluido el período de inhabilitación fijado en la sentencia de calificación del concurso.
 
-d) No hallarse al corriente en el cumplimiento de las obligaciones tributarias o de Seguridad Social impuestas por las disposiciones vigentes, en los términos que reglamentariamente se determinen; o en el caso de empresas de 50 o más trabajadores, no cumplir el requisito de que al menos el 2 por ciento de sus empleados sean trabajadores con discapacidad, de conformidad con el artículo 42 del Real Decreto Legislativo 1/2013, de 29 de noviembre, por el que se aprueba el Texto Refundido de la Ley General de derechos de las personas con discapacidad y de su inclusión social, en las condiciones que reglamentariamente se determinen.
+d) No hallarse al corriente en el cumplimiento de las obligaciones tributarias o de Seguridad Social impuestas por las disposiciones vigentes, en los términos que reglamentariamente se determinen; o en el caso de empresas de 50 o más trabajadores, no cumplir el requisito de que al menos el 2 por ciento de sus empleados sean trabajadores con discapacidad, de conformidad con el artículo 42 del [Real Decreto Legislativo 1/2013](../07_convivencia_bienestar_y_protocolos/BOE_2013_12632_noviembre_aprueba_texto_refundido.md), de 29 de noviembre, por el que se aprueba el Texto Refundido de la Ley General de derechos de las personas con discapacidad y de su inclusión social, en las condiciones que reglamentariamente se determinen.
 
 En relación con el cumplimiento de sus obligaciones tributarias o con la Seguridad Social, se considerará que las empresas se encuentran al corriente en el mismo cuando las deudas estén aplazadas, fraccionadas o se hubiera acordado su suspensión con ocasión de la impugnación de tales deudas.
 
@@ -3430,7 +3437,7 @@ e) Haber incurrido en falsedad al efectuar la declaración responsable a que se 
 
 f) Estar afectado por una prohibición de contratar impuesta en virtud de sanción administrativa firme, con arreglo a lo previsto en la Ley 38/2003, de 17 de noviembre, General de Subvenciones, o en la Ley 58/2003, de 17 de diciembre, General Tributaria.
 
-g) Estar incursa la persona física o los administradores de la persona jurídica en alguno de los supuestos de la Ley 5/2006, de 10 de abril, de Regulación de los Conflictos de Intereses de los Miembros del Gobierno y de los Altos Cargos de la Administración General del Estado o las respectivas normas de las Comunidades Autónomas, de la Ley 53/1984, de 26 de diciembre, de Incompatibilidades del Personal al Servicio de las Administraciones Públicas o tratarse de cualquiera de los cargos electivos regulados en la Ley Orgánica 5/1985, de 19 de junio, del Régimen Electoral General, en los términos establecidos en la misma.
+g) Estar incursa la persona física o los administradores de la persona jurídica en alguno de los supuestos de la Ley 5/2006, de 10 de abril, de Regulación de los Conflictos de Intereses de los Miembros del Gobierno y de los Altos Cargos de la Administración General del Estado o las respectivas normas de las Comunidades Autónomas, de la [Ley 53/1984](L53_1984_incompatibilidades_personal_publico.md), de 26 de diciembre, de Incompatibilidades del Personal al Servicio de las Administraciones Públicas o tratarse de cualquiera de los cargos electivos regulados en la Ley Orgánica 5/1985, de 19 de junio, del Régimen Electoral General, en los términos establecidos en la misma.
 
 La prohibición alcanzará a las personas jurídicas en cuyo capital participen, en los términos y cuantías establecidas en la legislación citada, el personal y los altos cargos a que se refiere el párrafo anterior, así como los cargos electos al servicio de las mismas.
 
@@ -3672,7 +3679,7 @@ Se modifica la disposición adicional décima tercera de la Ley 17/2012, de 27
 
 Uno. Con vigencia indefinida tendrán derecho a obtener bonificaciones en las tarifas de los servicios regulares de transporte marítimo y aéreo de pasajeros, los ciudadanos españoles, así como los de los demás Estados miembros de la Unión Europea o de otros Estados firmantes del Acuerdo sobre el Espacio Económico Europeo o de Suiza, sus familiares nacionales de terceros países beneficiarios del derecho de residencia o del derecho de residencia permanente y los ciudadanos nacionales de terceros países residentes de larga duración, que acrediten su condición de residente en las Comunidades Autónomas de Canarias e Illes Balears y en las Ciudades de Ceuta y Melilla.
 
-El derecho de residencia de los familiares de ciudadanos de Estados miembros de la Unión Europea o de otro Estado parte en el Acuerdo del Espacio Económico Europeo se acreditará conforme al Real Decreto 240/2007, de 16 de febrero, sobre entrada, libre circulación y residencia en España de ciudadanos de los Estados miembros de la Unión Europea o de otro Estado parte en el Acuerdo del Espacio Económico Europeo. El derecho de residencia de larga duración de los nacionales de terceros países a que se refiere el párrafo anterior se acreditará conforme a lo previsto en la Ley Orgánica 4/2000, de 11 de enero, de derechos y libertades de los extranjeros en España y su integración social y su normativa de desarrollo.
+El derecho de residencia de los familiares de ciudadanos de Estados miembros de la Unión Europea o de otro Estado parte en el Acuerdo del Espacio Económico Europeo se acreditará conforme al Real Decreto 240/2007, de 16 de febrero, sobre entrada, libre circulación y residencia en España de ciudadanos de los Estados miembros de la Unión Europea o de otro Estado parte en el Acuerdo del Espacio Económico Europeo. El derecho de residencia de larga duración de los nacionales de terceros países a que se refiere el párrafo anterior se acreditará conforme a lo previsto en la [Ley Orgánica 4/2000](BOE_2000_544_enero_sobre_derechos_libertades.md), de 11 de enero, de derechos y libertades de los extranjeros en España y su integración social y su normativa de desarrollo.
 
 Para ciudadanos españoles, de los Estados miembros de la Unión Europea o de los demás Estados firmantes del Acuerdo sobre el Espacio Económico Europeo o Suiza, el documento acreditativo de su identidad será el documento nacional de identidad o pasaporte en vigor. En el caso de los familiares de ciudadanos de Estados miembros de la Unión Europea o de otro Estado parte en el Acuerdo del Espacio Económico Europeo y los ciudadanos nacionales de terceros países residentes de larga duración, su identidad se acreditará mediante la tarjeta española de residencia de familiar de ciudadano de la Unión o de identidad de extranjero en la que debe constar su condición de residente de larga duración, respectivamente. Dichos documentos deben encontrarse en vigor.
 

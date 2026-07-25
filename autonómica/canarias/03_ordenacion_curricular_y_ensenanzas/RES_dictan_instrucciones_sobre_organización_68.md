@@ -32,6 +32,9 @@ fundamentos_derecho:
   articulos:
   - '1'
 - norma_id: norm-es-lo-2-2006
+- norma_id: norm-es-1999-23750
+- norma_id: norm-es-2021-20113
+- norma_id: norm-es-2010-12201
 fuente_pdf_oficial: https://sede.gobiernodecanarias.org/boc/boc-a-2011-106-2943.pdf
 fuente_juriscan: http://www.gobcan.es/juriscan/ficha.jsp?id=65631
 ---
@@ -62,7 +65,7 @@ teria de enseñanzas artísticas superiores convocar y
 organizar las pruebas de acceso en los centros auto-
 rizados a impartirlas.
 FUNDAMENTOS JURÍDICOS
-Primero.- La Ley Orgánica 2/2006, de 3 de ma-
+Primero.- La [Ley Orgánica 2/2006](../../../estatal/01_marco_normativo_general_y_organico/LO2_2006_ley_organica_educacion.md), de 3 de ma-
 yo, de Educación (BOE nº 106, de 4 de mayo), es-
 tablece que para acceder a las enseñanzas artísticas
 superiores se requerirá estar en posesión del título de
@@ -1324,7 +1327,7 @@ sujetos al deber de sigilo.
 fichero automatizado de la Consejería de Educación,
 Universidades, Cultura y Deportes, siendo tratados
 de forma totalmente confidencial de acuerdo con lo
-dispuesto en la Ley Orgánica 15/1999, de 13 de di-
+dispuesto en la [Ley Orgánica 15/1999](../../../estatal/02_gestion_y_administracion_centros/BOE_1999_23750_diciembre_protección_datos_carácter.md), de 13 de di-
 ciembre, de Protección de Datos de Carácter Perso-
 nal. La persona titular de los datos podrá ejercer los
 derechos de acceso, rectificación, cancelación y opo-

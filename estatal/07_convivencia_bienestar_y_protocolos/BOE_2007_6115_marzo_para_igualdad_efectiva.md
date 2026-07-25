@@ -26,6 +26,9 @@ fundamentos_derecho:
 - norma_id: norm-es-ce-1978
   articulos:
   - '27'
+- norma_id: norm-can-l-16-2003
+- norma_id: norm-es-1984-17387
+- norma_id: norm-es-l-31-1995
 ---
 # Ley Orgánica 3/2007, de 22 de marzo, para la igualdad efectiva de mujeres y hombres.
 
@@ -1009,7 +1012,7 @@ Cuatro. Se da nueva redacción al inciso inicial del apartado 1 del artículo 21
 
 #### Disposición adicional novena. Modificaciones de la Ley de Cohesión y Calidad del Sistema Nacional de Salud.
 
-Uno. Se modifica la letra a) del artículo 2 de la Ley 16/2003, de 28 de mayo, de Cohesión y Calidad del Sistema Nacional de Salud, que queda redactada en los siguientes términos:
+Uno. Se modifica la letra a) del artículo 2 de la [Ley 16/2003](../../autonómica/canarias/07_convivencia_bienestar_y_protocolos/L16_2003_prevencion_proteccion_mujeres_violencia_genero.md), de 28 de mayo, de Cohesión y Calidad del Sistema Nacional de Salud, que queda redactada en los siguientes términos:
 
 «a) La prestación de los servicios a los usuarios del Sistema Nacional de Salud en condiciones de igualdad efectiva y calidad, evitando especialmente toda discriminación entre mujeres y hombres en las actuaciones sanitarias.»
 
@@ -1125,7 +1128,7 @@ En los supuestos de adopción internacional, cuando sea necesario el desplazamie
 
 Los trabajadores se beneficiarán de cualquier mejora en las condiciones de trabajo a la que hubieran podido tener derecho durante la suspensión del contrato en los supuestos a que se refiere este apartado, así como en los previstos en el siguiente apartado y en el artículo 48 bis.»
 
-«5. En el supuesto de riesgo durante el embarazo o de riesgo durante la lactancia natural, en los términos previstos en el artículo 26 de la Ley 31/1995, de 8 de noviembre, de Prevención de Riesgos Laborales, la suspensión del contrato finalizará el día en que se inicie la suspensión del contrato por maternidad biológica o el lactante cumpla nueve meses, respectivamente, o, en ambos casos, cuando desaparezca la imposibilidad de la trabajadora de reincorporarse a su puesto anterior o a otro compatible con su estado.»
+«5. En el supuesto de riesgo durante el embarazo o de riesgo durante la lactancia natural, en los términos previstos en el artículo 26 de la [Ley 31/1995](../02_gestion_y_administracion_centros/L31_1995_prevencion_riesgos_laborales.md), de 8 de noviembre, de Prevención de Riesgos Laborales, la suspensión del contrato finalizará el día en que se inicie la suspensión del contrato por maternidad biológica o el lactante cumpla nueve meses, respectivamente, o, en ambos casos, cuando desaparezca la imposibilidad de la trabajadora de reincorporarse a su puesto anterior o a otro compatible con su estado.»
 
 Once. Se incluye un nuevo artículo 48 bis, con la siguiente redacción:
 
@@ -1411,7 +1414,7 @@ Maternidad
 
 [ignorar]Artículo 133 bis.  Situaciones protegidas.
 
-A efectos de la prestación por maternidad prevista en esta Sección, se consideran situaciones protegidas la maternidad, la adopción y el acogimiento, tanto preadoptivo como permanente o simple de conformidad con el Código Civil o las leyes civiles de las Comunidades Autónomas que lo regulen, siempre que, en este último caso, su duración no sea inferior a un año, y aunque dichos acogimientos sean provisionales, durante los períodos de descanso que por tales situaciones se disfruten, de acuerdo con lo previsto en el artículo 48.4 del Texto Refundido del Estatuto de los Trabajadores, aprobado por el Real Decreto Legislativo 1/1995, de 24 de marzo, y en el artículo 30.3 de la Ley 30/1984, de 2 de agosto, de Medidas para la reforma de la función pública.
+A efectos de la prestación por maternidad prevista en esta Sección, se consideran situaciones protegidas la maternidad, la adopción y el acogimiento, tanto preadoptivo como permanente o simple de conformidad con el Código Civil o las leyes civiles de las Comunidades Autónomas que lo regulen, siempre que, en este último caso, su duración no sea inferior a un año, y aunque dichos acogimientos sean provisionales, durante los períodos de descanso que por tales situaciones se disfruten, de acuerdo con lo previsto en el artículo 48.4 del Texto Refundido del Estatuto de los Trabajadores, aprobado por el Real Decreto Legislativo 1/1995, de 24 de marzo, y en el artículo 30.3 de la [Ley 30/1984](../01_marco_normativo_general_y_organico/BOE_1984_17387_agosto_medidas_para_reforma.md), de 2 de agosto, de Medidas para la reforma de la función pública.
 
 [ignorar]Artículo 133 ter. Beneficiarios.
 

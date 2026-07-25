@@ -45,6 +45,10 @@ fundamentos_derecho:
   articulos:
   - '56'
 - norma_id: norm-es-lo-2-2006
+- norma_id: norm-can-l-14-1990
+- norma_id: norm-es-2021-20113
+- norma_id: norm-es-2010-12201
+- norma_id: norm-es-rd-443-2001
 anexos_extraidos_pdf: true
 ---
 # Orden de 2 de agosto de 2006, por la que se aprueban las bases que regulan la prestación del servicio de transporte escolar en la Comunidad Autónoma de Canarias.
@@ -91,7 +95,7 @@ Examinado el expediente tramitado por la Dirección General de Promoción Educat
 
 ANTECEDENTES DE HECHO
 
-Primero.- El artículo 1 de la Ley Orgánica 2/2006, de 3 de mayo, de Educación (B.O.E. nº 106, de 4.5.06), enumera los principios que rigen el sistema educativo español. Teniendo en cuenta las especificidades orográficas de la Comunidad Autónoma de Canarias, y en aplicación del principio de flexibilidad para adecuar la educación a la diversidad y necesidad del alumnado, a la nueva estructura y organización, a los cambios legislativos operados recientemente en el servicio público y social de la educación, y en las condiciones de seguridad en el transporte escolar y de menores, así como la necesaria escolarización de todos los alumnos sujetos a la enseñanza obligatoria, exige una nueva regulación y ampliación de la cobertura del servicio de transporte escolar canario.
+Primero.- El artículo 1 de la [Ley Orgánica 2/2006](../../../estatal/01_marco_normativo_general_y_organico/LO2_2006_ley_organica_educacion.md), de 3 de mayo, de Educación (B.O.E. nº 106, de 4.5.06), enumera los principios que rigen el sistema educativo español. Teniendo en cuenta las especificidades orográficas de la Comunidad Autónoma de Canarias, y en aplicación del principio de flexibilidad para adecuar la educación a la diversidad y necesidad del alumnado, a la nueva estructura y organización, a los cambios legislativos operados recientemente en el servicio público y social de la educación, y en las condiciones de seguridad en el transporte escolar y de menores, así como la necesaria escolarización de todos los alumnos sujetos a la enseñanza obligatoria, exige una nueva regulación y ampliación de la cobertura del servicio de transporte escolar canario.
 
 Segundo.- Asimismo, el artº. 1.j) del mismo texto legal, garantiza la participación de los distintos sectores de la comunidad educativa, en el ámbito de sus correspondientes competencias, en el desarrollo de la actividad escolar de los centros.
 
@@ -107,11 +111,11 @@ FUNDAMENTOS DE DERECHO
 
 Primero.- De conformidad con la Ley Orgánica 2/2006, de 3 de mayo, de Educación.
 
-Segundo.- De acuerdo con el Real Decreto 443/2001, de 27 de abril, sobre condiciones de seguridad en el transporte escolar y de menores (B.O.E. nº 105, de 2.5.01), modificado por el Real Decreto 894/2002, de 30 de agosto (B.O.E. nº 209, de 31.8.02).
+Segundo.- De acuerdo con el [Real Decreto 443/2001](../../../estatal/05_alumnado_y_servicios_escolares/RD443_2001_seguridad_transporte_escolar.md), de 27 de abril, sobre condiciones de seguridad en el transporte escolar y de menores (B.O.E. nº 105, de 2.5.01), modificado por el Real Decreto 894/2002, de 30 de agosto (B.O.E. nº 209, de 31.8.02).
 
 Tercero.- En aplicación de la Ley 38/2003, de 17 de noviembre, General de Subvenciones (B.O.E. nº 276, de 18.11.03), y el Decreto 337/1997, de 19 de diciembre, por el que se establece el régimen general de ayudas y subvenciones de la Administración Pública de la Comunidad Autónoma de Canarias (B.O.C. nº 170, de 31.12.97), en su redacción actual.
 
-En virtud de las competencias atribuidas por el artículo 32 de la Ley 1/1983, de 14 de abril, del Gobierno y de la Administración Pública de la Comunidad Autónoma de Canarias; artículo 29 de la Ley 14/1990, de 26 de julio, de Régimen Jurídico de las Administraciones Públicas de Canarias (B.O.C. nº 96, de 1.8.90); los artículos 4 y 5 del Decreto 113/2006, de 26 de julio, por el que se aprueba el Reglamento Orgánico de la Consejería de Educación, Cultura y Deportes (B.O.C. nº 148, de 1.8.06),
+En virtud de las competencias atribuidas por el artículo 32 de la Ley 1/1983, de 14 de abril, del Gobierno y de la Administración Pública de la Comunidad Autónoma de Canarias; artículo 29 de la [Ley 14/1990](../01_marco_normativo_general_y_organico/L14_1990_regimen_juridico_administraciones_canarias.md), de 26 de julio, de Régimen Jurídico de las Administraciones Públicas de Canarias (B.O.C. nº 96, de 1.8.90); los artículos 4 y 5 del Decreto 113/2006, de 26 de julio, por el que se aprueba el Reglamento Orgánico de la Consejería de Educación, Cultura y Deportes (B.O.C. nº 148, de 1.8.06),
 
 D I S P O N G O:
 

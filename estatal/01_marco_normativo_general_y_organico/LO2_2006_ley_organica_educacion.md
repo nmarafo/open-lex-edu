@@ -134,8 +134,16 @@ fundamentos_derecho:
   articulos:
   - '1'
   - '6'
+- norma_id: norm-es-1984-17387
+- norma_id: norm-es-2000-544
+- norma_id: norm-es-1987-15278
+- norma_id: norm-es-2001-7022
+- norma_id: norm-es-2002-12018
+- norma_id: norm-es-2021-20113
+- norma_id: norm-es-2010-12201
+- norma_id: norm-es-lo-1-2004
 ---
-# Ley Orgánica 2/2006, de 3 de mayo, de Educación (Texto Consolidado LOMLOE)
+# [Ley Orgánica 2/2006](../03_ordenacion_curricular_y_ensenanzas/BOE_2021_20113_corrección_errores.md), de 3 de mayo, de Educación (Texto Consolidado LOMLOE)
 
 **JUAN CARLOS I**
 
@@ -163,7 +171,7 @@ Lograr que todos los ciudadanos puedan recibir una educación y una formación d
 
 La generalización de la educación básica ha sido tardía en nuestro país. Aunque la obligatoriedad escolar se promulgó en 1857 y en 1964 se extendió desde los seis hasta los catorce años, hubo que esperar hasta mediados de la década de los ochenta del siglo pasado para que dicha prescripción se hiciese realidad. La Ley General de Educación de 1970 supuso el inicio de la superación del gran retraso histórico que aquejaba al sistema educativo español. La Ley Orgánica del Derecho a la Educación proporcionó un nuevo y decidido impulso a ese proceso de modernización educativa, pero la consecución total de ese objetivo tuvo que esperar aún bastantes años.
 
-La Ley 14/1970, General de Educación y de Financiamiento de la Reforma Educativa, y la Ley Orgánica 8/1985, reguladora del Derecho a la Educación, declaraban la educación como servicio público. La Ley Orgánica de Educación sigue y se inscribe en esta tradición. El servicio público de la educación considera a ésta como un servicio esencial de la comunidad, que debe hacer que la educación escolar sea asequible a todos, sin distinción de ninguna clase, en condiciones de igualdad de oportunidades, con garantía de regularidad y continuidad y adaptada progresivamente a los cambios sociales. El servicio público de la educación puede ser prestado por los poderes públicos y por la iniciativa social, como garantía de los derechos fundamentales de los ciudadanos y la libertad de enseñanza.
+La Ley 14/1970, General de Educación y de Financiamiento de la Reforma Educativa, y la [Ley Orgánica 8/1985](../02_gestion_y_administracion_centros/LO8_1985_derecho_educacion.md), reguladora del Derecho a la Educación, declaraban la educación como servicio público. La Ley Orgánica de Educación sigue y se inscribe en esta tradición. El servicio público de la educación considera a ésta como un servicio esencial de la comunidad, que debe hacer que la educación escolar sea asequible a todos, sin distinción de ninguna clase, en condiciones de igualdad de oportunidades, con garantía de regularidad y continuidad y adaptada progresivamente a los cambios sociales. El servicio público de la educación puede ser prestado por los poderes públicos y por la iniciativa social, como garantía de los derechos fundamentales de los ciudadanos y la libertad de enseñanza.
 
 En 1990, la Ley Orgánica de Ordenación General del Sistema Educativo estableció en diez años el período de obligatoriedad escolar y proporcionó un impulso y prestigio profesional y social a la formación profesional que permitiría finalmente equiparar a España con los países más avanzados de su entorno. Como consecuencia de esa voluntad expresada en la Ley, a finales del siglo XX se había conseguido que todos los jóvenes españoles de ambos sexos asistiesen a los centros educativos al menos entre los seis y los dieciséis años y que muchos de ellos comenzasen antes su escolarización y la prolongasen después. Se había acortado así una distancia muy importante con los países de la Unión Europea, en la que España se había integrado en 1986.
 
@@ -221,7 +229,7 @@ El título Preliminar comienza con un capítulo dedicado a los principios y los 
 
 También ocupa un lugar relevante, en la relación de principios de la educación, la transmisión de aquellos valores que favorecen la libertad personal, la responsabilidad, la ciudadanía democrática, la solidaridad, la tolerancia, la igualdad, el respeto y la justicia, que constituyen la base de la vida en común.
 
-Entre los fines de la educación se resaltan el pleno desarrollo de la personalidad y de las capacidades afectivas del alumnado, la formación en el respeto de los derechos y libertades fundamentales y de la igualdad efectiva de oportunidades entre hombres y mujeres, el reconocimiento de la diversidad afectivo-sexual, así como la valoración crítica de las desigualdades, que permita superar los comportamientos sexistas. Se asume así en su integridad el contenido de lo expresado en la Ley Orgánica 1/2004, de 28 de diciembre, de Medidas de Protección Integral contra la Violencia de Género.
+Entre los fines de la educación se resaltan el pleno desarrollo de la personalidad y de las capacidades afectivas del alumnado, la formación en el respeto de los derechos y libertades fundamentales y de la igualdad efectiva de oportunidades entre hombres y mujeres, el reconocimiento de la diversidad afectivo-sexual, así como la valoración crítica de las desigualdades, que permita superar los comportamientos sexistas. Se asume así en su integridad el contenido de lo expresado en la [Ley Orgánica 1/2004](../07_convivencia_bienestar_y_protocolos/LO1_2004_medidas_proteccion_violencia_genero.md), de 28 de diciembre, de Medidas de Protección Integral contra la Violencia de Género.
 
 Asimismo, se propone el ejercicio de la tolerancia y de la libertad, dentro de los principios democráticos de convivencia y la prevención de conflictos y la resolución pacífica de los mismos. Igualmente se insiste en la importancia de la preparación del alumnado para el ejercicio de la ciudadanía y para la participación en la vida económica, social y cultural, con actitud crítica y responsable. La relación completa de principios y fines permitirá asentar sobre bases firmes el conjunto de la actividad educativa.
 
@@ -975,7 +983,7 @@ Formación profesional
 
 4. Los ciclos formativos serán de grado medio y de grado superior, estarán referidos al Catálogo Nacional de Cualificaciones Profesionales y constituirán, respectivamente, la formación profesional de grado medio y la formación profesional de grado superior. El currículo de estas enseñanzas se ajustará a las exigencias derivadas del Sistema Nacional de Cualificaciones y Formación Profesional y a lo establecido en el artículo 6.3 de la presente Ley.
 
-5. Los estudios de formación profesional regulados en esta Ley podrán realizarse tanto en los centros educativos que en ella se regulan como en los centros integrados y de referencia nacional a los que se refiere el artículo 11 de la Ley Orgánica 5/2002, de 19 de junio, de las Cualificaciones y de la Formación Profesional.
+5. Los estudios de formación profesional regulados en esta Ley podrán realizarse tanto en los centros educativos que en ella se regulan como en los centros integrados y de referencia nacional a los que se refiere el artículo 11 de la [Ley Orgánica 5/2002](../03_ordenacion_curricular_y_ensenanzas/BOE_2002_12018_junio_cualificaciones_formación_profesional.md), de 19 de junio, de las Cualificaciones y de la Formación Profesional.
 
 6. El Gobierno, previa consulta a las Comunidades Autónomas, establecerá las titulaciones correspondientes a los estudios de formación profesional, así como los aspectos básicos del currículo de cada una de ellas.
 
@@ -1585,7 +1593,7 @@ Para impartir las enseñanzas de educación secundaria obligatoria y de bachille
 
 3. Excepcionalmente, para determinados módulos o materias, se podrá incorporar como profesores especialistas, atendiendo a su cualificación y a las necesidades del sistema educativo, a profesionales, no necesariamente titulados, que desarrollen su actividad en el ámbito laboral. Dicha incorporación se realizará en régimen laboral o administrativo, de acuerdo con la normativa que resulte de aplicación.
 
-4. Para las enseñanzas artísticas superiores, excepcionalmente, se podrá incorporar como profesores especialistas, atendiendo a su cualificación y a las necesidades del sistema educativo, a profesionales, no necesariamente titulados, de nacionalidad extranjera. Dicha incorporación se realizará en régimen laboral o administrativo, de acuerdo con la normativa que resulte de aplicación y deberá cumplirse el contenido de los artículos 9.5 y 36 de la Ley Orgánica 4/2000, de 11 de enero, sobre derechos y libertades de los extranjeros en España y su integración social, salvo en el caso de nacionales de los Estados miembros de la Unión Europea o de aquellos a quienes sea de aplicación el régimen comunitario de extranjería. Para estas enseñanzas el Gobierno, previa consulta a las Comunidades Autónomas, establecerá la figura de profesor emérito.
+4. Para las enseñanzas artísticas superiores, excepcionalmente, se podrá incorporar como profesores especialistas, atendiendo a su cualificación y a las necesidades del sistema educativo, a profesionales, no necesariamente titulados, de nacionalidad extranjera. Dicha incorporación se realizará en régimen laboral o administrativo, de acuerdo con la normativa que resulte de aplicación y deberá cumplirse el contenido de los artículos 9.5 y 36 de la [Ley Orgánica 4/2000](BOE_2000_544_enero_sobre_derechos_libertades.md), de 11 de enero, sobre derechos y libertades de los extranjeros en España y su integración social, salvo en el caso de nacionales de los Estados miembros de la Unión Europea o de aquellos a quienes sea de aplicación el régimen comunitario de extranjería. Para estas enseñanzas el Gobierno, previa consulta a las Comunidades Autónomas, establecerá la figura de profesor emérito.
 
 #### Artículo 97. Profesorado de enseñanzas de idiomas.
 
@@ -2273,7 +2281,7 @@ h) Cualesquiera otras que le sean atribuidas por las Administraciones educativas
 
 #### Artículo 152. Inspectores de Educación.
 
-La inspección educativa será ejercida por las Administraciones educativas a través de funcionarios públicos del Cuerpo de Inspectores de Educación, así como los pertenecientes al extinguido Cuerpo de Inspectores al servicio de la Administración educativa creado por la Ley 30/1984, de 2 de agosto, de Medidas para la Reforma de la Función Pública, modificada por la Ley 23/1988, de 28 de julio, que no hubieran optado en su momento por su incorporación al de Inspectores de Educación.
+La inspección educativa será ejercida por las Administraciones educativas a través de funcionarios públicos del Cuerpo de Inspectores de Educación, así como los pertenecientes al extinguido Cuerpo de Inspectores al servicio de la Administración educativa creado por la [Ley 30/1984](BOE_1984_17387_agosto_medidas_para_reforma.md), de 2 de agosto, de Medidas para la Reforma de la Función Pública, modificada por la Ley 23/1988, de 28 de julio, que no hubieran optado en su momento por su incorporación al de Inspectores de Educación.
 
 #### Artículo 153. Atribuciones de los inspectores.
 
@@ -2401,7 +2409,7 @@ i) El cuerpo de inspectores de educación, que realizará las funciones recogida
 
 El Gobierno, previa consulta a las Comunidades Autónomas, podrá establecer las condiciones y los requisitos para que los funcionarios pertenecientes a alguno de los cuerpos docentes recogidos en el apartado anterior puedan excepcionalmente desempeñar funciones en una etapa o, en su caso, enseñanza distintas de las asignadas a su cuerpo con carácter general. Para tal desempeño se determinará la titulación, formación o experiencia que se consideren necesarias.
 
-Los cuerpos y escalas declarados a extinguir por las normas anteriores a la Ley Orgánica 1/1990, de 3 de octubre, de Ordenación General del Sistema Educativo, se regirán por lo establecido en aquellas disposiciones, siéndoles de aplicación lo señalado a efectos de movilidad en la disposición adicional duodécima de esta Ley.
+Los cuerpos y escalas declarados a extinguir por las normas anteriores a la [Ley Orgánica 1/1990](../02_gestion_y_administracion_centros/BOE_2001_7022_correspondientes_españoles_educación_secundaria.md), de 3 de octubre, de Ordenación General del Sistema Educativo, se regirán por lo establecido en aquellas disposiciones, siéndoles de aplicación lo señalado a efectos de movilidad en la disposición adicional duodécima de esta Ley.
 
 2. Corresponde al Gobierno, previa consulta a las Comunidades Autónomas, la creación o supresión de las especialidades docentes de los cuerpos a los que se refiere esta disposición, a excepción de la letra i) del apartado anterior, y la asignación de áreas, materias y módulos que deberán impartir los funcionarios adscritos a cada una de ellas, sin perjuicio de lo dispuesto en el artículo 93.2 de esta Ley.
 
@@ -2957,7 +2965,7 @@ Todas las referencias contenidas en las disposiciones vigentes a las enseñanzas
 
 #### Disposición final cuarta. Autonomía de gestión económica de los centros docentes públicos no universitarios.
 
-Continuará en vigor, con las modificaciones derivadas de la presente Ley, la Ley 12/1987, de 2 de julio, sobre establecimiento de la gratuidad de los estudios de bachillerato, formación profesional y artes aplicadas y oficios artísticos en los centros públicos y la autonomía de gestión económica de los centros docentes públicos no universitarios.
+Continuará en vigor, con las modificaciones derivadas de la presente Ley, la [Ley 12/1987](../02_gestion_y_administracion_centros/BOE_1987_15278_julio_sobre_establecimiento_gratuidad.md), de 2 de julio, sobre establecimiento de la gratuidad de los estudios de bachillerato, formación profesional y artes aplicadas y oficios artísticos en los centros públicos y la autonomía de gestión económica de los centros docentes públicos no universitarios.
 
 #### Disposición final quinta. Título competencial.
 

@@ -29,6 +29,13 @@ fundamentos_derecho:
 - norma_id: norm-can-l-6-2014
   articulos:
   - '1'
+- norma_id: norm-es-l-39-2015
+- norma_id: norm-es-lo-2-2006
+- norma_id: norm-es-lo-8-1985
+- norma_id: norm-es-rd-2377-1985
+- norma_id: norm-es-2021-20113
+- norma_id: norm-es-2010-12201
+- norma_id: norm-es-rdl-2-2015
 fuente_pdf_oficial: https://sede.gobiernodecanarias.org/boc/boc-a-2022-158-2645.pdf
 ---
 # Resolución de 28 de julio de 2022, por la que se modifica parcialmente la Resolución de 29 de mayo de 2007, que aprueba y publica las normas sobre la gestión del pago delegado de la nómina de personal docente en centros privados concertados (BOC n.º 158, de 10 de agosto).
@@ -78,16 +85,16 @@ propuesta de pago en relación con el personal docente no universitario en centr
 y de aquel que imparta enseñanzas en centros educativos privados que, previamente, hayan 
 formalizado concierto educativo con este Departamento.
 FUNDAMENTOS DE DERECHO
-1. Ley Orgánica 8/1985, de 3 de julio, reguladora del Derecho a la Educación.
-2. Ley Orgánica 2/2006, de 3 de mayo, de Educación.
+1. [Ley Orgánica 8/1985](../../../estatal/02_gestion_y_administracion_centros/LO8_1985_derecho_educacion.md), de 3 de julio, reguladora del Derecho a la Educación.
+2. [Ley Orgánica 2/2006](../../../estatal/01_marco_normativo_general_y_organico/LO2_2006_ley_organica_educacion.md), de 3 de mayo, de Educación.
 3. Ley Orgánica 3/2020, de 29 de diciembre, por la que se modifica la Ley 
 Orgánica 2/2006, de 3 de mayo, de Educación.
-4. Ley 6/2014, de 25 de julio, Canaria de Educación no Universitaria.
+4. [Ley 6/2014](../01_marco_normativo_general_y_organico/L6_2014_ley_canaria_educacion.md), de 25 de julio, Canaria de Educación no Universitaria.
 5. Ley de Presupuestos Generales del Estado para cada año.
 6. Ley de Presupuestos Generales de la Comunidad Autónoma de Canarias para cada año.
-7. Real Decreto 2377/1985, de 18 de diciembre, por el que se aprueba el Reglamento 
+7. [Real Decreto 2377/1985](../../../estatal/02_gestion_y_administracion_centros/RD2377_1985_reglamento_conciertos_educativos.md), de 18 de diciembre, por el que se aprueba el Reglamento 
 de Normas Básicas sobre Conciertos Educativos.
-8. Real Decreto Legislativo 2/2015, de 23 de octubre, por el que se aprueba el texto 
+8. [Real Decreto Legislativo 2/2015](../../../estatal/09_personal_laboral_y_no_docente/RDL2_2015_estatuto_trabajadores.md), de 23 de octubre, por el que se aprueba el texto 
 refundido de la Ley del Estatuto de los Trabajadores.
 9. VII Convenio Colectivo de Empresas de Enseñanza Privada sostenidas total o 
 parcialmente con fondos públicos.
@@ -404,7 +411,7 @@ la localidad donde radique el centro y días de descanso semanal (sábados y dom
 Así, en caso de que el día de finalización sea inhábil, esta se adelantará al primer día hábil 
 inmediatamente anterior.”
 Segundo.- Publicar la presente Resolución en el Boletín Oficial de Canarias, según 
-lo previsto en el artículo 45 de la Ley 39/2015, de 1 de octubre, del Procedimiento 
+lo previsto en el artículo 45 de la [Ley 39/2015](../../../estatal/01_marco_normativo_general_y_organico/L39_2015_procedimiento_administrativo_comun.md), de 1 de octubre, del Procedimiento 
 Administrativo Común de las Administraciones Públicas.
 Tercero.- La presente Resolución entrará en vigor el día 1 de septiembre de 2022.
 Las Palmas de Gran Canaria, a 28 de julio de 2022.- El Director General de Personal, 

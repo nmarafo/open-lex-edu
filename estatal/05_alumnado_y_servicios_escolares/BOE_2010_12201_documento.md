@@ -31,8 +31,10 @@ fundamentos_derecho:
 - norma_id: norm-es-l-39-2015
   articulos:
   - '1'
+- norma_id: norm-es-2001-7022
+- norma_id: norm-es-2021-20113
 ---
-# Orden EDU/2058/2010, de 13 de julio, por la que se regulan los Premios Nacionales de Bachillerato establecidos por la Ley Orgánica 2/2006, de 3 de mayo, de Educación.
+# Orden EDU/2058/2010, de 13 de julio, por la que se regulan los Premios Nacionales de Bachillerato establecidos por la [Ley Orgánica 2/2006](../01_marco_normativo_general_y_organico/LO2_2006_ley_organica_educacion.md), de 3 de mayo, de Educación.
 
 El Ministerio de Educación ha venido convocando anualmente los Premios Nacionales de Bachillerato, como reconocimiento oficial de los méritos del alumnado que ha demostrado una especial preparación en los estudios correspondientes a esta etapa.
 
@@ -118,7 +120,7 @@ El plazo establecido en el punto dos del artículo 6, queda prorrogado para la c
 
 #### Disposición derogatoria única. Derogación normativa.
 
-Queda derogada la Orden de 13 de diciembre de 1999 («BOE» del 25 de diciembre), del Ministerio de Educación y Cultura, por la que se crean los Premios Nacionales de Bachillerato y se establecen, a tal efecto, los requisitos para la concesión de los Premios Extraordinarios del Bachillerato regulado por la Ley Orgánica 1/1990, de 3 de octubre, de Ordenación General del Sistema Educativo.
+Queda derogada la Orden de 13 de diciembre de 1999 («BOE» del 25 de diciembre), del Ministerio de Educación y Cultura, por la que se crean los Premios Nacionales de Bachillerato y se establecen, a tal efecto, los requisitos para la concesión de los Premios Extraordinarios del Bachillerato regulado por la [Ley Orgánica 1/1990](../02_gestion_y_administracion_centros/BOE_2001_7022_correspondientes_españoles_educación_secundaria.md), de 3 de octubre, de Ordenación General del Sistema Educativo.
 
 #### Disposición final primera. Título competencial.
 

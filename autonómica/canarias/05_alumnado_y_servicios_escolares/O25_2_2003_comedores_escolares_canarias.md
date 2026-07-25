@@ -42,6 +42,7 @@ fundamentos_derecho:
 - norma_id: norm-can-l-6-2014
   articulos:
   - '57'
+- norma_id: norm-can-d-276-1997
 anexos_extraidos_pdf: true
 fuente_pdf_oficial: https://www.gobiernodecanarias.org/boc/2003/047/boc-2003-047-002.pdf
 ocr_procesado: true
@@ -107,7 +108,7 @@ Autónoma de Canarias (B.O.C. nº 170, de 31.12.97),
 modificado por los Decretos 174/1998, de 8 de oc-
 tubre (B.O.C. nº 132, de 19.10.98), y Decreto 103/2000,
 de 12 de junio (B.O.C. nº 77, de 23.6.00).
-El Decreto 276/1997, de 27 de noviembre, por el
+El [Decreto 276/1997](../02_gestion_y_administracion_centros/D276_1997_gestion_economica_centros.md), de 27 de noviembre, por el
 que se regula el procedimiento de gestión económi-
 ca de los centros docentes públicos no universitarios
 dependientes de la Consejería de Educación, Cultura

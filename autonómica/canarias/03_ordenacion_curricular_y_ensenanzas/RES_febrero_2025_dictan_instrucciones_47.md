@@ -41,6 +41,15 @@ fundamentos_derecho:
 - norma_id: norm-can-l-6-2014
   articulos:
   - '1'
+- norma_id: norm-can-d-84-2024
+- norma_id: norm-can-lo-1-2018
+- norma_id: norm-can-res-boc-2024-230-25
+- norma_id: norm-can-res-134
+- norma_id: norm-es-lo-2-2006
+- norma_id: norm-es-2021-20113
+- norma_id: norm-es-lo-3-2022
+- norma_id: norm-es-rd-659-2023
+- norma_id: norm-es-2010-12201
 fuente_pdf_oficial: https://sede.gobiernodecanarias.org/boc/boc-a-2025-046-918.pdf
 ---
 # Resolución de la Dirección General de Formación Profesional y Enseñanzas de Régimen Especial, de 21 de febrero de 2025, por la que se dictan instrucciones para la implantación de los itinerarios formativos de Formación Profesional Adaptada y el desarrollo de los currículos de los módulos de carácter general a partir del curso escolar 2024/2025, en el ámbito de la Comunidad Autónoma de Canarias
@@ -52,7 +61,7 @@ Resolución de 21 de febrero de 2025, por la que se dictan instrucciones para la
 implantación de los itinerarios formativos de Formación Profesional Adaptada y el 
 desarrollo de los currículos de los módulos de carácter general a partir del curso 
 escolar 2024/2025, en el ámbito de la Comunidad Autónoma de Canarias.
-La Ley Orgánica 3/2022, de 31 de marzo, de Ordenación e Integración de la Formación 
+La [Ley Orgánica 3/2022](../08_personal_docente/RES_dirección_general_personal_sobre_134.md), de 31 de marzo, de Ordenación e Integración de la Formación 
 Profesional (en adelante LOOIFP), concreta el compromiso asumido por España de 
 modernización de nuestro país a través de un nuevo modelo de Formación Profesional, 
 facilitando la cualificación, la empleabilidad y, en consecuencia, la generación de riqueza. 
@@ -61,7 +70,7 @@ a disposición de la ciudadanía las bases elementales para el desarrollo de pro
 cualificación que permitan una constante actualización del conocimiento a la largo de su 
 vida, incidiendo asimismo en el fomento de una cultura de formación permanente en la 
 sociedad.
-El Real Decreto 659/2023, de 18 de julio, por el que se desarrolla la ordenación 
+El [Real Decreto 659/2023](RES_dirección_general_formación_profesional_25.md), de 18 de julio, por el que se desarrolla la ordenación 
 del Sistema de Formación Profesional, establece que las administraciones responsables 
 de cada oferta fomentarán la equidad e inclusión, la igualdad de oportunidades y la no 
 discriminación en la formación profesional a lo largo de la vida laboral. Para ello, en función 
@@ -96,7 +105,7 @@ itinerarios formativos de la formación profesional adaptada en la Comunidad Aut
 Canarias, en línea con lo establecido en la Ley Orgánica 3/2022 y el Real Decreto 659/2023 
 que la desarrolla, y de acuerdo con los siguientes
 ANTECEDENTES DE HECHO
-Primero.- La Ley 6/2014, de 25 de julio, Canaria de Educación no Universitaria, 
+Primero.- La [Ley 6/2014](../01_marco_normativo_general_y_organico/L6_2014_ley_canaria_educacion.md), de 25 de julio, Canaria de Educación no Universitaria, 
 establece en su artículo 33 que las consejerías competentes en materia de educación y 
 de empleo deben coordinarse especialmente para garantizar la integridad de la oferta 
 formativa. A tal fin, se podrán ofrecer en algunos centros educativos títulos de Formación 
@@ -108,13 +117,13 @@ aspectos específicos de la Formación Profesional Básica de las enseñanzas de
 Profesional del sistema educativo, se aprueban catorce títulos profesionales básicos, se 
 fijan los currículos básicos y se modifica el Real Decreto 1850/2009, de 4 de diciembre, 
 sobre expedición de títulos académicos y profesionales correspondientes a las enseñanzas 
-establecidas en la Ley Orgánica 2/2006, de 3 de mayo, de Educación.
+establecidas en la [Ley Orgánica 2/2006](../../../estatal/01_marco_normativo_general_y_organico/LO2_2006_ley_organica_educacion.md), de 3 de mayo, de Educación.
 Tercero.- Con la implantación del Sistema de Formación Profesional establecido por la 
 LOOIFP y desarrollado por el Real Decreto 659/2023, de 18 de julio, surge la necesidad de 
 concretar determinados aspectos para la organización y desarrollo de ofertas de itinerarios 
 formativos conforme al actual marco jurídico en la Comunidad Autónoma de Canarias.
 FUNDAMENTOS DE DERECHO
-Primero.- La Ley Orgánica 1/2018, de 5 de noviembre, de reforma del Estatuto de 
+Primero.- La [Ley Orgánica 1/2018](../01_marco_normativo_general_y_organico/LO1_2018_estatuto_autonomia_canarias.md), de 5 de noviembre, de reforma del Estatuto de 
 Autonomía de Canarias, en su artículo 133.1 establece que “Corresponde a la Comunidad 
 Autónoma de Canarias la competencia de desarrollo legislativo y de ejecución, en materia 
 de enseñanza no universitaria, con relación a las enseñanzas obligatorias y no obligatorias 
@@ -166,8 +175,8 @@ proporcionalmente al número de horas entre el resto de los módulos profesional
 conforman el certificado profesional, manteniendo la duración total de la acción formativa. 
 Los porcentajes para la estancia en empresa u organismo equiparado se calcularán respecto 
 del total de la duración del antiguo certificado de profesionalidad”.
-Por todo lo expuesto, de conformidad con lo establecido en el artículo 20 del Decreto 
-84/2024, de 10 de junio, por el que se aprueba el Reglamento Orgánico de la Consejería de 
+Por todo lo expuesto, de conformidad con lo establecido en el artículo 20 del [Decreto 
+84/2024](../01_marco_normativo_general_y_organico/D84_2024_reglamento_organico_consejeria.md), de 10 de junio, por el que se aprueba el Reglamento Orgánico de la Consejería de 
 Educación, Formación Profesional, Actividad Física y Deportes,
 RESUELVO :
 Primero.- Dictar las instrucciones específicas para la implantación de los itinerarios 
