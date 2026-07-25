@@ -48,6 +48,8 @@ fuente_juriscan: http://www.gobiernodecanarias.org/juriscan/ficha.jsp?id=72788
 
 
 
+
+
 # Resolución de 13 de mayo de 2015, de la Dirección General de Ordenación, Innovación y Promoción Educativa de la Consejería de Educación, Universidades y Sostenibilidad, por la que se establecen las rúbricas de los criterios de evaluación del segundo ciclo de la Educación Infantil y de la Educación Primaria para orientar y facilitar la evaluación objetiva del alumnado en la Comunidad Autónoma de Canarias (BOC n.º 100, de 27 de mayo).
 
 Consejería de Educación, Universidades y Sostenibilidad

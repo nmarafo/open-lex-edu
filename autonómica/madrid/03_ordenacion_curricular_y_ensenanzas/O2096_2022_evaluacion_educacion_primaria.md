@@ -34,6 +34,8 @@ fundamentos_derecho:
 - norma_id: norm-es-lo-2-2006
 ---
 
+
+
 # Orden 2096/2022, de 22 de julio, del Consejero de Educación, Universidades, Ciencia y Portavocía, por la que se regulan la evaluación y la promoción en la Educación Primaria en la Comunidad de Madrid.
 
 ## Preámbulo

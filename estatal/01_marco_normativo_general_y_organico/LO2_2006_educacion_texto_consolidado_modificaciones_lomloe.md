@@ -155,6 +155,8 @@ fundamentos_derecho:
 
 
 
+
+
 # [Ley Orgánica 2/2006](../03_ordenacion_curricular_y_ensenanzas/LO721_2021_correccion_errores_orden_efp_modifica_orden.md), de 3 de mayo, de Educación (Texto Consolidado LOMLOE)
 
 **JUAN CARLOS I**

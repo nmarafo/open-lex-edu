@@ -59,6 +59,8 @@ fuente_juriscan: http://www.gobcan.es/juriscan/ficha.jsp?id=64838
 
 
 
+
+
 # Resolución de 9 de febrero de 2011, por la que se dictan instrucciones sobre los procedimientos y los plazos para la atención educativa del alumnado con necesidades específicas de apoyo educativo en los centros escolares de la Comunidad Autónoma de Canarias (BOC n.º 40, de 24 de febrero).
 
 Consejería de Educación, Universidades, 

@@ -66,6 +66,8 @@ fundamentos_derecho:
 
 
 
+
+
 # Decreto 135/2016, de 10 de octubre, por el que se aprueba el Reglamento Orgánico de la Consejería de Educación, Universidades, Cultura y Deportes (BOC n.º 203, de 19 de octubre).
 
 El Decreto 103/2015, de 9 de julio, del Presidente, por el que se determinan el número, denominación y competencias de las Consejerías establece en su artículo 9 que la Consejería de Educación y Universidades asume las competencias que legal y reglamentariamente tenía atribuidas en materia de educación y universidades la Consejería de Educación, Universidades y Sostenibilidad.

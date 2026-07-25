@@ -32,6 +32,8 @@ fundamentos_derecho:
 - norma_id: norm-es-lo-2-2006
 ---
 
+
+
 # Decreto 187/2021, de 21 de julio, del Consejo de Gobierno, por el que se regula la formación permanente del profesorado de enseñanzas no universitarias en la Comunidad de Madrid.
 
 ## Preámbulo

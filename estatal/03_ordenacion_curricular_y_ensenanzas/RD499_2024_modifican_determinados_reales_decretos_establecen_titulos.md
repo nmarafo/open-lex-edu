@@ -61,6 +61,8 @@ fundamentos_derecho:
 
 
 
+
+
 # Real Decreto 499/2024, de 21 de mayo, por el que se modifican determinados reales decretos por los que se establecen títulos de Formación Profesional de grado medio y se fijan sus enseñanzas mínimas.
 
 **ÍNDICE**

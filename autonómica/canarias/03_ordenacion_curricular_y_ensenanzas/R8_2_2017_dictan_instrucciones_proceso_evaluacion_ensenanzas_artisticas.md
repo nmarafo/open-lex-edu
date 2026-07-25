@@ -45,6 +45,8 @@ fuente_pdf_oficial: https://sede.gobiernodecanarias.org/boc/boc-a-2017-036-808.p
 
 
 
+
+
 # Resolución de 8 de febrero de 2017, por la que se dictan instrucciones para el proceso de evaluación en las Enseñanzas Artísticas Superiores en la Comunidad Autónoma de Canarias (BOC n.º 36, de 21 de febrero).
 
 https://sede.gobcan.es/cpji/boc

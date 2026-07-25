@@ -40,6 +40,8 @@ fundamentos_derecho:
 
 
 
+
+
 # Corrección de errores del [Real Decreto 452/2026](RD452_2026_establece_ordenacion_ensenanzas_profesionales_artes_plasticas.md), de 3 de junio, por el que se establece la ordenación de las Enseñanzas Profesionales de Artes Plásticas y Diseño.
 
 En la página 76241, artículo 34, apartado 8, en la quinta línea, donde dice: «...en la disposición transitoria tercera...», debe decir: «...en la disposición transitoria cuarta...».

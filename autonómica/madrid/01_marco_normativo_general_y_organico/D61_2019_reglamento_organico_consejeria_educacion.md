@@ -38,6 +38,8 @@ fundamentos_derecho:
 ---
 
 
+
+
 # Decreto 61/2019, de 9 de julio, del Consejo de Gobierno, por el que se regula la estructura orgánica de la Consejería de Educación y Juventud de la Comunidad de Madrid.
 
 ## Artículo 1. Competencias de la Consejería.

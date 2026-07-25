@@ -56,6 +56,8 @@ fundamentos_derecho:
 
 
 
+
+
 # Real Decreto 126/2014, de 28 de febrero, por el que se establece el currículo básico de la Educación Primaria.
 
 La [Ley Orgánica 8/2013](LO462_2016_ecd_regula_procedimiento_incorporacion_alumnado_curso.md), de 9 de diciembre, para la Mejora de la Calidad Educativa, ha modificado el artículo 6 de la [Ley Orgánica 2/2006](../01_marco_normativo_general_y_organico/LO2_2006_educacion_texto_consolidado_modificaciones_lomloe.md), de 3 de mayo, de Educación, para definir el currículo como la regulación de los elementos que determinan los procesos de enseñanza y aprendizaje para cada una de las enseñanzas. El currículo estará integrado por los objetivos de cada enseñanza y etapa educativa; las competencias, o capacidades para activar y aplicar de forma integrada los contenidos propios de cada enseñanza y etapa educativa, para lograr la realización adecuada de actividades y la resolución eficaz de problemas complejos, los contenidos, o conjuntos de conocimientos, habilidades, destrezas y actitudes que contribuyen al logro de los objetivos de cada enseñanza y etapa educativa y a la adquisición de competencias; la metodología didáctica, que comprende tanto la descripción de las prácticas docentes como la organización del trabajo de los docentes; los estándares y resultados de aprendizaje evaluables; y los criterios de evaluación del grado de adquisición de las competencias y del logro de los objetivos de cada enseñanza y etapa educativa. Los contenidos se ordenan en asignaturas, que se clasifican en materias, ámbitos, áreas y módulos en función de las enseñanzas, las etapas educativas o los programas en que participe el alumnado.

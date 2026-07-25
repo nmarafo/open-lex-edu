@@ -67,6 +67,8 @@ fundamentos_derecho:
 
 
 
+
+
 # [Ley Orgánica 3/2022](../../autonómica/canarias/08_personal_docente/LO3_2022_ordenacion_gestion_determinadas_listas_empleo_tras.md) de Ordenación e Integración de la Formación Profesional
 
 **FELIPE VI**

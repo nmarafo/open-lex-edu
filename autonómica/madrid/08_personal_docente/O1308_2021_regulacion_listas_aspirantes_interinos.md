@@ -32,6 +32,8 @@ fundamentos_derecho:
 - norma_id: norm-es-lo-2-2006
 ---
 
+
+
 # Orden 1308/2021, de 12 de mayo, de la Consejería de Educación y Juventud, por la que se regula la selección, nombramiento y cese de los funcionarios interinos de los cuerpos docentes no universitarios en la Comunidad de Madrid.
 
 ## Preámbulo

@@ -56,6 +56,8 @@ fuente_pdf_oficial: https://sede.gobiernodecanarias.org/boc/boc-a-2026-116-2013.
 
 
 
+
+
 # Resolución de 29 de mayo de 2026, por la que se dictan instrucciones específicas complementarias para el curso 2026-2027 sobre organización, funcionamiento y calendario de las Enseñanzas de Idiomas de Régimen Especial impartidas en las Escuelas Oficiales de Idiomas de la Comunidad Autónoma de Canarias.
 
 III. Otras Resoluciones

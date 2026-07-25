@@ -56,6 +56,8 @@ fuente_pdf_oficial: https://sede.gobiernodecanarias.org/boc/boc-a-2024-049-903.p
 
 
 
+
+
 # Resolución de 27 de febrero de 2024, de la DGACESC, por la que se dictan instrucciones sobre el proceso de admisión del alumnado en centros docentes que oferten enseñanzas de Educación Infantil, Educación Primaria, Educación Secundaria Obligatoria, Bachillerato y Educación de Personas Adultas en los centros docentes sostenidos con fondos públicos en la Comunidad Autónoma de Canarias (BOC núm. 49, de 7 de marzo).
 
 III. Otras Resoluciones

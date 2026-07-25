@@ -36,6 +36,8 @@ fundamentos_derecho:
 - norma_id: norm-es-lo-2-2006
 ---
 
+
+
 # Decreto 29/2013, de 11 de abril, del Consejo de Gobierno, por el que se establece la libertad de elección de centro escolar en la Comunidad de Madrid.
 
 ## Preámbulo

@@ -70,6 +70,8 @@ fuente_pdf_oficial: https://sede.gobiernodecanarias.org/boc/boc-a-2023-133-2237.
 
 
 
+
+
 # Resolución de 30 de junio de 2023, de la Dirección General de Personal, sobre la ordenación y gestión de determinadas listas de empleo, tras la entrada en vigor de la [Ley Orgánica 3/2022](../../../estatal/03_ordenacion_curricular_y_ensenanzas/LO3_2022_ordenacion_e_integracion_formacion_profesional.md), de 31 de marzo, de ordenación e integración de la Formación Profesional (BOC nº 133, de 10 de julio).
 
 III. Otras Resoluciones

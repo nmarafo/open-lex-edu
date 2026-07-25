@@ -52,6 +52,8 @@ fundamentos_derecho:
 
 
 
+
+
 # Orden EDU/216/2011, de 8 de febrero, por la que se establece el procedimiento de reconocimiento de las formaciones de entrenadores deportivos en las modalidades de fútbol y fútbol sala.
 
 El [Real Decreto 320/2000](RD320_2000_establecen_titulos_tecnico_deportivo_tecnico_deportivo.md), de 3 de marzo, estableció los títulos de Técnico Deportivo y Técnico Deportivo Superior en fútbol y fútbol sala, aprobó las correspondientes enseñanzas mínimas y reguló las pruebas de acceso a estas enseñanzas.

@@ -42,6 +42,8 @@ fundamentos_derecho:
 
 
 
+
+
 # Resolución de 18 de marzo de 1996, de la Secretaría General Técnica, por la que se hace pública la Circular 1/1996, que dicta instrucciones sobre control de horarios y absentismo del personal no docente de Centros escolares de la Consejería de Educación, Cultura y Deportes (BOC nº 57, de 10 de mayo).
 
 BOC - 1996/057. Viernes 10 de Mayo de 1996 - 679

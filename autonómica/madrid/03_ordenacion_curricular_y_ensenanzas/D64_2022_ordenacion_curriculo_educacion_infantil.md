@@ -32,6 +32,8 @@ fundamentos_derecho:
 - norma_id: norm-es-lo-2-2006
 ---
 
+
+
 # Decreto 64/2022, de 20 de julio, del Consejo de Gobierno, por el que se establece para la Comunidad de Madrid la ordenación y el currículo de la Educación Infantil.
 
 ## Preámbulo

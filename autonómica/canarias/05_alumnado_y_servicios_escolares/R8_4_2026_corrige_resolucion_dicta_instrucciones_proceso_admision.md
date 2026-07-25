@@ -56,6 +56,8 @@ fuente_pdf_oficial: https://sede.gobiernodecanarias.org/boc/boc-a-2026-073-1192.
 
 
 
+
+
 # Resolución de 8 de abril de 2026, por la que se corrige la [Resolución de 13 de febrero de 2026](R13_2_2026_convoca_procedimiento_admision_alumnado_ciclos_formativos.md), que dicta instrucciones sobre el proceso de admisión del alumnado a Ciclos Formativos de Grado Básico, Medio y Superior (niveles 1, 2 y 3, respectivamente) de las Enseñanzas de Formación Profesional de Grados D, Enseñanzas Profesionales de Artes Pláticas y Diseño, Enseñanzas Elementales y Profesionales de Música, Enseñanzas de Idiomas y Enseñanzas Deportivas en centros docentes sostenidos con fondos públicos en la Comunidad Autónoma de Canarias para el curso escolar 2026/2027.
 
 III. Otras Resoluciones

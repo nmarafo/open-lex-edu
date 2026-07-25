@@ -49,6 +49,8 @@ ocr_procesado: true
 
 
 
+
+
 # Decreto 123/2023, de 17 de julio, por el que se determina la estructura orgánica y las sedes de las Consejerías del Gobierno de Canarias.
 
 https://sede.gobiernodecanarias.org/boc

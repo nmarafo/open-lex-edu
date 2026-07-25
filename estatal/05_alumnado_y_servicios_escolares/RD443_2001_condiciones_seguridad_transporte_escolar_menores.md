@@ -42,6 +42,8 @@ fundamentos_derecho:
 
 
 
+
+
 # Real Decreto 443/2001 sobre condiciones de seguridad en el transporte escolar y de menores
 
 Las normas de seguridad aplicables en el transporte colectivo de menores por carretera estaban recogidas en el Real Decreto 2296/1983, de 25 de agosto, sobre tráfico y circulación de vehículos escolares y de menores.

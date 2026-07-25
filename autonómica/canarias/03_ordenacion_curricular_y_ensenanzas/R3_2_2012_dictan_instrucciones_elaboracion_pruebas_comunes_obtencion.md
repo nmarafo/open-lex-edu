@@ -38,6 +38,8 @@ fuente_pdf_oficial: https://sede.gobiernodecanarias.org/boc/boc-a-2012-035-870.p
 
 
 
+
+
 # Resolución de 3 de febrero de 2012, de la Dirección General de Formación Profesional y Educación de Adultos (DGFPEA), por la que se dictan instrucciones para la elaboración de las pruebas comunes de obtención de los certificados enseñanzas de idiomas de régimen especial, en la Comunidad Autónoma de Canarias, a partir del curso 2012-2013.
 
 III. Otras Resoluciones

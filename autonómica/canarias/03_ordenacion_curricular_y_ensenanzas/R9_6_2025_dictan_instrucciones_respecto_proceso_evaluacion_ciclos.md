@@ -60,6 +60,8 @@ fuente_pdf_oficial: https://sede.gobiernodecanarias.org/boc/boc-a-2025-118-2219.
 
 
 
+
+
 # Resolución de 9 de junio de 2025, por la que se dictan instrucciones respecto al proceso de evaluación en los Ciclos Formativos (Grados C y D) y Cursos de Especialización (Grado E) del sistema de formación profesional que se imparten en la Comunidad Autónoma de Canarias a partir del curso escolar 2024/2025.
 
 III. Otras Resoluciones

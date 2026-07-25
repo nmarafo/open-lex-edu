@@ -1,5 +1,5 @@
 version: '1.0'
-total_normas: 332
+total_normas: 337
 normas:
   norm-can-d-123-2023:
     id: norm-can-d-123-2023
@@ -4571,6 +4571,75 @@ normas:
     - marco-normativo-general
     - proteccion-menores
     path: autonómica/madrid/01_marco_normativo_general_y_organico/L1_2022_maestra_libertad_eleccion_educativa.md
+  norm-mad-l-4-1998:
+    id: norm-mad-l-4-1998
+    codigo_sintetizado: Ley Madrid 4/1998
+    titulo: Ley 4/1998, de 8 de abril, de Consejos Escolares de la Comunidad de Madrid
+      (BOCM n.º 91, de 18 de abril; BOE n.º 142, de 15 de junio).
+    jurisdiccion: Madrid
+    ambito: Autonómico
+    tipo_disposicion: Ley
+    fecha_publicacion: ''
+    estado: Vigente
+    redaccion: original
+    categoria_canonica: 01_marco_normativo_general_y_organico
+    subcategoria: Órganos colegiados
+    tags:
+    - admision-alumnado
+    - autonomia-centro
+    - comunidad-educativa
+    - conciertos-educativos
+    - consejo-escolar
+    - consejos-escolares-municipales
+    - ensenanzas-universitarias
+    - organos-consultivos
+    - participacion-educativa
+    path: autonómica/madrid/01_marco_normativo_general_y_organico/L4_1998_consejos_escolares_comunidad_madrid.md
+  norm-mad-l-6-1995:
+    id: norm-mad-l-6-1995
+    codigo_sintetizado: Ley Madrid 6/1995
+    titulo: Ley 6/1995, de 28 de marzo, de Garantías de los Derechos de la Infancia
+      y la Adolescencia en la Comunidad de Madrid (BOCM n.º 85, de 10 de abril; BOE
+      n.º 134, de 6 de junio).
+    jurisdiccion: Madrid
+    ambito: Autonómico
+    tipo_disposicion: Ley
+    fecha_publicacion: ''
+    estado: Vigente
+    redaccion: original
+    categoria_canonica: 01_marco_normativo_general_y_organico
+    subcategoria: Protección jurídica de menores
+    tags:
+    - bienestar-infantil
+    - derechos-de-los-menores
+    - evaluacion
+    - infancia-y-adolescencia
+    - prevencion-riesgos-laborales
+    - proteccion-menores
+    - tutela-y-guarda
+    path: autonómica/madrid/01_marco_normativo_general_y_organico/L6_1995_garantias_derechos_infancia_adolescencia.md
+  norm-mad-d-86-2017:
+    id: norm-mad-d-86-2017
+    codigo_sintetizado: Decreto BOCM 86/2017
+    titulo: Decreto 86/2017, de 17 de octubre, del Consejo de Gobierno, por el que
+      se regula el modelo de autonomía de gestión de los centros docentes públicos
+      no universitarios de la Comunidad de Madrid (BOCM n.º 248, de 18 de octubre).
+    jurisdiccion: Madrid
+    ambito: Autonómico
+    tipo_disposicion: Decreto
+    fecha_publicacion: ''
+    estado: Vigente
+    redaccion: original
+    categoria_canonica: 02_gestion_y_administracion_centros
+    subcategoria: Gestión económica e infraestructuras
+    tags:
+    - autonomia-centro
+    - contratacion-menor
+    - gestion-economica
+    - presupuestos-escolares
+    - proteccion-menores
+    - proyectos-educativos
+    path: autonómica/madrid/02_gestion_y_administracion_centros/D86_2017_reglamento_autonomia_gestion_centros_docentes.md
   norm-mad-d-23-2023:
     id: norm-mad-d-23-2023
     codigo_sintetizado: Decreto BOCM 23/2023
@@ -4684,6 +4753,31 @@ normas:
     - profesorado
     - promocion
     path: autonómica/madrid/03_ordenacion_curricular_y_ensenanzas/O2096_2022_evaluacion_educacion_primaria.md
+  norm-mad-d-14-2010:
+    id: norm-mad-d-14-2010
+    codigo_sintetizado: Decreto BOCM 14/2010
+    titulo: Decreto 14/2010, de 18 de marzo, del Consejo de Gobierno, por el que se
+      regula la autonomía organizativa de los Institutos de Educación Secundaria de
+      la Comunidad de Madrid (BOCM n.º 71, de 24 de marzo).
+    jurisdiccion: Madrid
+    ambito: Autonómico
+    tipo_disposicion: Decreto
+    fecha_publicacion: ''
+    estado: Vigente
+    redaccion: original
+    categoria_canonica: 04_organizacion_escolar_y_funcionamiento
+    subcategoria: Organización de centros de secundaria
+    tags:
+    - autonomia-centro
+    - comision-coordinacion-pedagogica
+    - convivencia-escolar
+    - departamentos-didacticos
+    - eso
+    - ies
+    - organizacion-escolar
+    - orientacion-educativa
+    - profesorado
+    path: autonómica/madrid/04_organizacion_escolar_y_funcionamiento/D14_2010_reglamento_autonomia_organizativa_centros_secundaria.md
   norm-mad-d-29-2013:
     id: norm-mad-d-29-2013
     codigo_sintetizado: Decreto BOCM 29/2013
@@ -4711,6 +4805,29 @@ normas:
     - profesorado
     - zona-unica
     path: autonómica/madrid/05_alumnado_y_servicios_escolares/D29_2013_libertad_eleccion_centro_escolar.md
+  norm-mad-d-89-2014:
+    id: norm-mad-d-89-2014
+    codigo_sintetizado: Decreto BOCM 89/2014
+    titulo: Decreto 89/2014, de 24 de julio, del Consejo de Gobierno, por el que se
+      establece la ordenación e impartición de la educación para alumnos con necesidades
+      educativas especiales en la Comunidad de Madrid (BOCM n.º 176, de 25 de julio).
+    jurisdiccion: Madrid
+    ambito: Autonómico
+    tipo_disposicion: Decreto
+    fecha_publicacion: ''
+    estado: Vigente
+    redaccion: original
+    categoria_canonica: 06_atencion_diversidad_y_orientacion
+    subcategoria: Atención a la diversidad y NEAE
+    tags:
+    - adaptaciones-curriculares
+    - admision-alumnado
+    - atencion-diversidad
+    - educacion-especial
+    - escolarizacion
+    - evaluacion
+    - neae
+    path: autonómica/madrid/06_atencion_diversidad_y_orientacion/D89_2014_atencion_alumnado_necesidades_educativas_especiales.md
   norm-mad-d-32-2019:
     id: norm-mad-d-32-2019
     codigo_sintetizado: Decreto BOCM 32/2019
@@ -16783,6 +16900,21 @@ relaciones_grafo:
   destino: norm-es-lo-2-2006
   articulos_origen: []
   articulos_destino: []
+- origen: norm-mad-l-4-1998
+  tipo: desarrolla
+  destino: norm-es-lo-2-2006
+  articulos_origen: []
+  articulos_destino: []
+- origen: norm-mad-l-6-1995
+  tipo: desarrolla
+  destino: norm-es-lo-1-1996
+  articulos_origen: []
+  articulos_destino: []
+- origen: norm-mad-d-86-2017
+  tipo: desarrolla
+  destino: norm-es-lo-2-2006
+  articulos_origen: []
+  articulos_destino: []
 - origen: norm-mad-d-23-2023
   tipo: desarrolla
   destino: norm-es-lo-2-2006
@@ -16833,7 +16965,17 @@ relaciones_grafo:
   destino: norm-mad-d-61-2022
   articulos_origen: []
   articulos_destino: []
+- origen: norm-mad-d-14-2010
+  tipo: desarrolla
+  destino: norm-es-lo-2-2006
+  articulos_origen: []
+  articulos_destino: []
 - origen: norm-mad-d-29-2013
+  tipo: desarrolla
+  destino: norm-es-lo-2-2006
+  articulos_origen: []
+  articulos_destino: []
+- origen: norm-mad-d-89-2014
   tipo: desarrolla
   destino: norm-es-lo-2-2006
   articulos_origen: []

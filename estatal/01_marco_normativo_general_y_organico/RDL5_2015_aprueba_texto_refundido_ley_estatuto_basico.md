@@ -75,6 +75,8 @@ fundamentos_derecho:
 
 
 
+
+
 # Real Decreto Legislativo 5/2015 (TREBEP)
 
 El artículo uno.g) de la Ley 20/2014, de 29 de octubre, por la que se delega en el Gobierno la potestad de dictar diversos textos refundidos, en virtud de lo establecido en el artículo 82 y siguientes de la Constitución Española, autoriza al Gobierno para aprobar, en el plazo de doce meses a partir de la entrada en vigor de esta ley, un texto refundido en el que se integren, debidamente regularizadas, aclaradas y armonizadas, la Ley 7/2007, de 12 de abril, del Estatuto Básico del Empleado Público, y las disposiciones en materia de régimen jurídico del empleo público contenidas en normas con rango de ley que la hayan modificado, y las que, afectando a su ámbito material, puedan, en su caso, promulgarse antes de la aprobación por Consejo de Ministros de los textos refundidos que procedan y así se haya previsto en las mismas.
