@@ -82,6 +82,7 @@ fuente_pdf_oficial: https://sede.gobiernodecanarias.org/boc/boc-a-2026-045-735.p
 
 
 
+
 # [Resolución de 25 de febrero de 2026](R25_2_2026_establece_distribucion_horaria_estructura_modular_grados.md), por la que se establece la distribución horaria y estructura modular de los Grados C (Certificados Profesionales) y sus correspondientes Grados B (Certificados de Competencia), de niveles 2 y 3, de las familias profesionales de Artes Gráficas; Fabricación Mecánica; y Servicios Socioculturales y a la Comunidad, en el ámbito de la Comunidad Autónoma de Canarias.
 
 III. Otras Resoluciones

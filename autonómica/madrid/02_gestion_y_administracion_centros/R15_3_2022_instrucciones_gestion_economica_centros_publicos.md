@@ -32,6 +32,7 @@ fundamentos_derecho:
 - norma_id: norm-mad-d-86-2017
 ---
 
+
 # Resolución de 15 de marzo de 2022, de la Dirección General de Infraestructuras y Servicios, por la que se dictan instrucciones para la gestión económica de los gastos de funcionamiento de los centros docentes públicos.
 
 ## Preámbulo

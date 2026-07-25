@@ -31,6 +31,7 @@ fundamentos_derecho:
 - norma_id: norm-es-rdl-2-2015
 ---
 
+
 # Orden 3410/2022, de 16 de noviembre, de la Consejería de Economía, Hacienda y Empleo, por la que se dispone la publicación del Acuerdo del Convenio Colectivo del Personal Laboral de la Comunidad de Madrid.
 
 ## Preámbulo

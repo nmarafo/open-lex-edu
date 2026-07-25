@@ -66,6 +66,7 @@ fuente_pdf_oficial: https://sede.gobiernodecanarias.org/boc/boc-a-2026-046-751.p
 
 
 
+
 # Resolución de 24 de febrero de 2026, por la que se dictan instrucciones sobre la regulación del periodo vacacional, régimen de permisos y licencias del personal docente no universitario al servicio de la Administración Educativa Canaria y se delegan competencias en las Direcciones Territoriales y direcciones de los centros educativos. (BOC N.º 046. Lunes 9 de marzo de 2026).
 
 III. Otras Resoluciones

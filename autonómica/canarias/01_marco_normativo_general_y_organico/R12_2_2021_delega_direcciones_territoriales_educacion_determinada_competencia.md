@@ -46,6 +46,7 @@ ocr_procesado: true
 
 
 
+
 # Resolución de 12 de febrero de 2021, por la que se delega en las Direcciones Territoriales de Educación determinada competencia relativa a cargos directivos de los centros públicos docentes del ámbito de gestión de este Departamento (BOC n.º 38, de 24 de febrero).
 
 Boletín Oficial de Canarias núm. 38

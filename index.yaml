@@ -4563,13 +4563,14 @@ normas:
     tags:
     - admision-alumnado
     - autonomia-centro
+    - conciertos-educativos
     - ensenanzas-universitarias
-    - escolarizacion
-    - igualdad-genero
+    - ideario-educativo
     - libertad-de-eleccion
     - libertad-de-ensenanza
     - marco-normativo-general
-    - proteccion-menores
+    - titulacion
+    - zona-unica
     path: autonómica/madrid/01_marco_normativo_general_y_organico/L1_2022_maestra_libertad_eleccion_educativa.md
   norm-mad-l-4-1998:
     id: norm-mad-l-4-1998
@@ -4610,12 +4611,17 @@ normas:
     categoria_canonica: 01_marco_normativo_general_y_organico
     subcategoria: Protección jurídica de menores
     tags:
+    - absentismo-escolar
+    - autonomia-centro
     - bienestar-infantil
+    - comision-de-tutela
     - derechos-de-los-menores
     - evaluacion
+    - igualdad-genero
     - infancia-y-adolescencia
     - prevencion-riesgos-laborales
     - proteccion-menores
+    - titulacion
     - tutela-y-guarda
     path: autonómica/madrid/01_marco_normativo_general_y_organico/L6_1995_garantias_derechos_infancia_adolescencia.md
   norm-mad-o-20-1-2021:

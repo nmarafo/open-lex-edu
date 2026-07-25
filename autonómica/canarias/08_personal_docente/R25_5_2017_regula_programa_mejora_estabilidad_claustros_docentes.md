@@ -41,6 +41,7 @@ fuente_juriscan: http://www.gobiernodecanarias.org/juriscan/ficha.jsp?id=75818
 
 
 
+
 # Resolución de 25 de mayo de 2017, por la que se regula el Programa de Mejora de la Estabilidad de Claustros Docentes Inestables, así como el procedimiento de provisión de sus plazas (BOC nº 106, de 5 de junio).
 
 Consejería de Educación y Universidades

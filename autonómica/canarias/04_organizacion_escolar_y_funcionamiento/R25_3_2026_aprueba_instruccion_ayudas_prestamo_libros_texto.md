@@ -62,6 +62,7 @@ fuente_pdf_oficial: https://sede.gobiernodecanarias.org/boc/boc-a-2026-067-1098.
 
 
 
+
 # Resolución de 25 de marzo de 2026, por la que se aprueba la instrucción de las ayudas de préstamo de libros de texto y materiales didácticos en los centros públicos para el curso escolar 2026/2027.
 
 III. Otras Resoluciones

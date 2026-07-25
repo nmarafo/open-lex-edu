@@ -49,6 +49,7 @@ fundamentos_derecho:
 
 
 
+
 # Ley 16/2003 de Prevención y Protección Integral de las Mujeres contra la Violencia de Género de Canarias
 
 Sea notorio a todos los ciudadanos que el Parlamento de Canarias ha aprobado y yo, en nombre del Rey y de acuerdo con lo que establece el artículo 12.8 del Estatuto de Autonomía, promulgo y ordeno la publicación de la Ley 16/2003, de 8 de abril, de Prevención y Protección Integral de las Mujeres contra la Violencia de Género.

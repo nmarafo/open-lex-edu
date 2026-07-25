@@ -60,6 +60,7 @@ ocr_procesado: true
 
 
 
+
 # Decreto 109/1999, de 25 de mayo, por el que se regula el régimen de creación y funcionamiento de los Colectivos de Escuelas Rurales.
 
 --- Página 1 (Transcripción OCR) ---

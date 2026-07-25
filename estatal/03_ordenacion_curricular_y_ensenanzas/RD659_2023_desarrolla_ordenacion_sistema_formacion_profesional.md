@@ -95,6 +95,7 @@ fundamentos_derecho:
 
 
 
+
 # [Real Decreto 659/2023](../../autonómica/canarias/03_ordenacion_curricular_y_ensenanzas/RD659_2023_dictan_instrucciones_orientaciones_formacion_dual_empresas.md) - Ordenación General del Sistema de Formación Profesional
 
 **ÍNDICE**

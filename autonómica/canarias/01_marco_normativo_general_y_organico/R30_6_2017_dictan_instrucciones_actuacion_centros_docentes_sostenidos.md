@@ -70,6 +70,7 @@ ocr_procesado: true
 
 
 
+
 # Resolución de 30 de junio de 2017, de la Dirección General de Centros e Infraestructura Educativa, por la que se dictan instrucciones para la actuación de los centros docentes sostenidos con fondos públicos, en los casos de padres, madres, separados, divorciados, que hayan finalizado su convivencia, o representantes legales, respecto a sus descendientes o representados, menores de edad, en el ámbito de las enseñanzas no universitarias de la Comunidad Autónoma de Canarias (BOC n.º 132, de 11 de julio).
 
 Boletín Oficial de Canarias núm. 132

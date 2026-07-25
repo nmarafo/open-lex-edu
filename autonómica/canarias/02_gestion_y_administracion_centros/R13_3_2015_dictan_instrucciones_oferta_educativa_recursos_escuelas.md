@@ -47,6 +47,7 @@ fuente_pdf_oficial: https://sede.gobiernodecanarias.org/boc/boc-a-2020-257-4915.
 
 
 
+
 # Resolución de la Viceconsejería de Educación y Universidades, por la que se dictan instrucciones para la oferta educativa y recursos en las escuelas unitarias y los colectivos de escuelas rurales en canarias (13 de marzo de 2015).
 
 Martes 15 de diciembre de 2020

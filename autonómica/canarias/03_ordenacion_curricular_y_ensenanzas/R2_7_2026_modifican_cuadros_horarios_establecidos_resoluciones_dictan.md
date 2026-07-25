@@ -61,6 +61,7 @@ fuente_pdf_oficial: https://sede.gobiernodecanarias.org/boc/boc-a-2026-141-2508.
 
 
 
+
 # Resolución de 2 de julio de 2026, por la que se modifican cuadros horarios establecidos en las Resoluciones de 26 de noviembre de 2025 y de 27 de enero de 2026, por las que se dictan instrucciones para la implantación y desarrollo de la oferta de dobles titulaciones de formación profesional (Grados D) en la Comunidad Autónoma de Canarias, a partir del curso escolar 2026/2027. (BOC n.º 141, de 15 de julio)
 
 III. Otras Resoluciones

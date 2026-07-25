@@ -59,6 +59,7 @@ fundamentos_derecho:
 
 
 
+
 # Orden EDU/2645/2011, de 23 de septiembre, por la que se establece la formación equivalente a la formación pedagógica y didáctica exigida para aquellas personas que estando en posesión de una titulación declarada equivalente a efectos de docencia no pueden realizar los estudios de máster.
 
 La [Ley Orgánica 2/2006](../01_marco_normativo_general_y_organico/LO2_2006_educacion_texto_consolidado_modificaciones_lomloe.md), de 3 de mayo, de Educación, en el artículo 95.1, especifica que para impartir enseñanzas de formación profesional se exigirán los mismos requisitos de titulación y formación establecidos para la educación secundaria obligatoria y el bachillerato, es decir, será necesario tener el título de Licenciado, Ingeniero o Arquitecto, o el título de Grado equivalente, además de la formación pedagógica y didáctica de nivel de Postgrado, de acuerdo con lo dispuesto en el artículo 100 de la citada Ley, sin perjuicio de la habilitación de otras titulaciones que, a efectos de docencia pudiera establecer el Gobierno para determinados módulos, previa consulta a las Comunidades Autónomas.

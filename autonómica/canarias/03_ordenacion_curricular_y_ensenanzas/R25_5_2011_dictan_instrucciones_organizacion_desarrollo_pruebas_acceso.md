@@ -56,6 +56,7 @@ fuente_juriscan: http://www.gobcan.es/juriscan/ficha.jsp?id=65631
 
 
 
+
 # Resolución de 25 de mayo de 2011, por la que se dictan instrucciones sobre organización y desarrollo de las pruebas de acceso a las enseñanzas artísticas superiores de Grado en Música, Arte Dramático y Diseño en la Comunidad Autónoma de Canarias, y se convocan las correspondientes al curso académico 2011 (BOC n.º 106, de 31 de mayo).
 
 Consejería de Educación, Universidades, 

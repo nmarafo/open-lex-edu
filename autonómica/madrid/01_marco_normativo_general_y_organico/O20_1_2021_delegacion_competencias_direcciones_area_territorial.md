@@ -35,6 +35,7 @@ fundamentos_derecho:
 - norma_id: norm-es-l-40-2015
 ---
 
+
 # Orden de 20 de enero de 2021, del Consejero de Educación y Juventud, por la que se delegan determinadas competencias en los titulares de las Direcciones de Área Territorial.
 
 ## Preámbulo

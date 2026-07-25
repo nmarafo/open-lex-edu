@@ -36,6 +36,7 @@ fundamentos_derecho:
 
 
 
+
 # Decreto 32/2019, de 9 de abril, del Consejo de Gobierno, por el que se establece el Marco Regulador de la Convivencia en los centros docentes sostenidos con fondos públicos de la Comunidad de Madrid.
 
 ## Objeto y ámbito de aplicación

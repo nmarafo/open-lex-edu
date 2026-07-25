@@ -50,6 +50,7 @@ fuente_pdf_oficial: https://sede.gobiernodecanarias.org/boc/boc-a-2024-125-2080.
 
 
 
+
 # Resolución de 20 de junio de 2024
 
 III. Otras Resoluciones

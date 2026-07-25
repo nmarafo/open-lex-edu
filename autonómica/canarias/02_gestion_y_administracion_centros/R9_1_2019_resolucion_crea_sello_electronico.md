@@ -47,6 +47,7 @@ fuente_pdf_oficial: https://sede.gobiernodecanarias.org/boc/boc-a-2019-016-310.p
 
 
 
+
 # Secretaría General Técnica.- [Resolución de 9 de enero de 2019](R9_1_2019_resolucion_crea_sello_electronico_2.md), por la que se crea el sello electrónico de la Dirección General de Centros e Infraestructura Educativa (BOC n.º 16, de 24 de enero).
 
 Jueves 24 de enero de 2019

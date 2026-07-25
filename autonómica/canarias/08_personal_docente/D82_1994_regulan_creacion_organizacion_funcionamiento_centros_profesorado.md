@@ -46,6 +46,7 @@ fundamentos_derecho:
 
 
 
+
 # Decreto 82/1994, de 13 de mayo, por el que se regulan la creación, organización y funcionamiento de los Centros del Profesorado en la Comunidad Autónoma de Canarias.
 
 Gobierno de Canarias

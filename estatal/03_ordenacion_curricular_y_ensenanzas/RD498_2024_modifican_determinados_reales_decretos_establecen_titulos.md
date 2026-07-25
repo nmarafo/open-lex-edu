@@ -71,6 +71,7 @@ fundamentos_derecho:
 
 
 
+
 # Real Decreto 498/2024, de 21 de mayo, por el que se modifican determinados reales decretos por los que se establecen títulos de Formación Profesional de grado básico y se fijan sus enseñanzas mínimas.
 
 **ÍNDICE**

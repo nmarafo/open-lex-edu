@@ -111,6 +111,7 @@ fundamentos_derecho:
 
 
 
+
 # Orden EDU/2058/2010, de 13 de julio, por la que se regulan los Premios Nacionales de Bachillerato establecidos por la [Ley Orgánica 2/2006](../01_marco_normativo_general_y_organico/LO2_2006_educacion_texto_consolidado_modificaciones_lomloe.md), de 3 de mayo, de Educación.
 
 El Ministerio de Educación ha venido convocando anualmente los Premios Nacionales de Bachillerato, como reconocimiento oficial de los méritos del alumnado que ha demostrado una especial preparación en los estudios correspondientes a esta etapa.

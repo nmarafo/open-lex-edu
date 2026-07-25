@@ -39,6 +39,7 @@ fundamentos_derecho:
 
 
 
+
 # Decreto 61/2022, de 13 de julio, del Consejo de Gobierno, por el que se establece para la Comunidad de Madrid la ordenación y el currículo de la Educación Primaria.
 
 ## Objeto y ámbito de aplicación
