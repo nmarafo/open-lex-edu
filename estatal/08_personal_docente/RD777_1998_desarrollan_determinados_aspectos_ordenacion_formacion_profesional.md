@@ -25,8 +25,18 @@ tags:
 - formacion-profesional
 - oposiciones
 - profesorado
+- titulacion
 relaciones:
-  desarrolla: []
+  fundamentado_en:
+  - norma_id: norm-es-1993-23257
+  - norma_id: norm-es-1995-22212
+  - norma_id: norm-es-2001-7022
+  - norma_id: norm-es-lo-8-1985
+  - norma_id: norm-es-rd-276-2007
+  - norma_id: norm-es-rdl-5-2015
+  fundamento_de:
+  - norma_id: norm-es-rd-1364-2010
+  - norma_id: norm-es-rd-276-2007
 fundamentos_derecho:
 - norma_id: norm-es-rd-276-2007
   articulos:
@@ -39,6 +49,8 @@ fundamentos_derecho:
 - norma_id: norm-es-1993-23257
 - norma_id: norm-es-1995-22212
 ---
+
+
 # Real Decreto 777/1998, de 30 de abril, por el que se desarrollan determinados aspectos de la ordenación de la formación profesional en el ámbito del sistema educativo.
 
 La [Ley Orgánica 1/1990](../02_gestion_y_administracion_centros/LO1_1990_regula_regimen_equivalencias_estudios_basicos_medios.md), de 3 de octubre, de Ordenación General del Sistema Educativo, define en el capítulo IV del Título I la configuración de la nueva ordenación académica de la formación profesional.

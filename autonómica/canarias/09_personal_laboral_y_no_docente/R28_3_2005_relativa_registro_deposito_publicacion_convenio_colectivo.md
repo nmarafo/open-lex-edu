@@ -19,14 +19,18 @@ tags:
 - convenio-colectivo-y-personal-laboral
 - equipos-directivos
 - inclusiva
+- personal-no-docente
 - roc
 relaciones:
-  desarrolla: []
+  fundamentado_en:
+  - norma_id: norm-can-l-6-2014
 fundamentos_derecho:
 - norma_id: norm-can-l-6-2014
   articulos:
   - '1'
 ---
+
+
 # Resolución de 28 de marzo de 2005, de la Dirección General de Trabajo de la Consejería de Empleo y Asuntos Sociales, relativa al registro, depósito y publicación del convenio colectivo del personal laboral de la Comunidad Autónoma de Canarias (BOC n.º 80, de 25 de abril).
 
 BOC - 2005/080. Lunes 25 de Abril de 2005 - 1379

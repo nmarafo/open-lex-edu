@@ -21,24 +21,19 @@ clasificacion:
   subcategoria: Residencias escolares
 tags:
 - ensenanzas-artisticas
-- igualdad_oportunidades
+- igualdad-oportunidades
 - residencias-escolares
-- residencias_escolares
-- servicios_complementarios
+- servicios-complementarios
 relaciones:
   desarrolla:
   - norma_id: norm-can-l-6-2014
-    articulos_origen:
-    - Todos
-    articulos_destino:
-    - '58'
-    nota: Regula la estructura, gestión y uso de las Residencias Escolares públicas
-      de Canarias.
 fundamentos_derecho:
 - norma_id: norm-can-l-6-2014
   articulos:
   - '58'
 ---
+
+
 # Decreto 40/2005, de 16 de marzo, de ordenación de las Residencias Escolares en la Comunidad Autónoma de Canarias.
 
 Gobierno de Canarias

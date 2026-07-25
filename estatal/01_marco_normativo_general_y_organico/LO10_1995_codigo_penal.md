@@ -17,17 +17,29 @@ clasificacion:
   subcategoria: Empleados públicos
 tags:
 - convivencia
+- convivencia-escolar
 - empleados-p-blicos
 - equipos-directivos
 - gestion-economica
 relaciones:
-  desarrolla: []
+  fundamentado_en:
+  - norma_id: norm-es-ce-1978
+  - norma_id: norm-es-lo-1-1982
+  fundamento_de:
+  - norma_id: norm-can-res-boc-2026-129-26
+  - norma_id: norm-es-2004-15601
+  - norma_id: norm-es-lo-1-2004
+  - norma_id: norm-es-lo-10-2022
+  - norma_id: norm-es-lo-5-2000
+  - norma_id: norm-es-lo-8-2021
 fundamentos_derecho:
 - norma_id: norm-es-ce-1978
   articulos:
   - '27'
 - norma_id: norm-es-lo-1-1982
 ---
+
+
 # Ley Orgánica 10/1995, de 23 de noviembre, del Código Penal.
 
 **JUAN CARLOS I**

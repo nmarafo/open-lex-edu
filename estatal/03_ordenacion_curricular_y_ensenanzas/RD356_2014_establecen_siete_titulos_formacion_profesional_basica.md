@@ -19,10 +19,21 @@ clasificacion:
   subcategoria: Formación Profesional
 tags:
 - curriculo
-- formaci-n-profesional
 - formacion-profesional
+- fp-basica
+- titulacion
 relaciones:
-  desarrolla: []
+  fundamentado_en:
+  - norma_id: norm-es-2002-12018
+  - norma_id: norm-es-2010-12201
+  - norma_id: norm-es-2016-3229
+  - norma_id: norm-es-2021-20113
+  - norma_id: norm-es-ce-1978
+  - norma_id: norm-es-l-31-1995
+  - norma_id: norm-es-lo-2-2006
+  - norma_id: norm-es-rd-39-1997
+  fundamento_de:
+  - norma_id: norm-es-2024-10683
 fundamentos_derecho:
 - norma_id: norm-es-ce-1978
   articulos:
@@ -40,6 +51,8 @@ fundamentos_derecho:
 - norma_id: norm-es-2021-20113
 - norma_id: norm-es-2010-12201
 ---
+
+
 # Real Decreto 356/2014, de 16 de mayo, por el que se establecen siete títulos de Formación Profesional Básica del catálogo de títulos de las enseñanzas de Formación Profesional.
 
 La [Ley Orgánica 2/2006](../01_marco_normativo_general_y_organico/LO2_2006_educacion_texto_consolidado_modificaciones_lomloe.md), de 3 de mayo, de Educación, dispone en el artículo 39.6 que el Gobierno, previa consulta a las Comunidades Autónomas, establecerá las titulaciones correspondientes a los estudios de formación profesional, así como los aspectos básicos del currículo de cada una de ellas.

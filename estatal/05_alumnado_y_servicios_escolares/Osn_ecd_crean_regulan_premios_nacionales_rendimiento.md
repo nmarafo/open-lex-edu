@@ -26,9 +26,17 @@ tags:
 - ensenanzas-deportivas
 - eso
 - formacion-profesional
+- grado-superior
+- igualdad-genero
 - profesorado
+- transparencia
 relaciones:
-  desarrolla: []
+  fundamentado_en:
+  - norma_id: norm-es-2010-12201
+  - norma_id: norm-es-2016-3229
+  - norma_id: norm-es-2021-20113
+  - norma_id: norm-es-l-39-2015
+  - norma_id: norm-es-lo-2-2006
 fundamentos_derecho:
 - norma_id: norm-es-lo-2-2006
   articulos:
@@ -41,6 +49,8 @@ fundamentos_derecho:
 - norma_id: norm-es-2021-20113
 - norma_id: norm-es-2010-12201
 ---
+
+
 # Orden ECD/1611/2015, de 29 de julio, por la que se crean y regulan los Premios Nacionales al rendimiento académico del alumnado de Educación Secundaria Obligatoria y de Enseñanzas Artísticas Profesionales en los ámbitos de Música, Danza y Artes Plásticas y Diseño.
 
 La [Ley Orgánica 2/2006](../01_marco_normativo_general_y_organico/LO2_2006_educacion_texto_consolidado_modificaciones_lomloe.md), de 3 de mayo, de Educación, señala en su artículo 2 bis 4, que el funcionamiento del Sistema Educativo Español se rige por los principios de calidad, cooperación, equidad, libertad de enseñanza, mérito, igualdad de oportunidades, no discriminación, eficiencia en la asignación de recursos públicos, transparencia y rendición de cuentas.

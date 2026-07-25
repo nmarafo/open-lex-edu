@@ -20,85 +20,75 @@ clasificacion:
   categoria_canonica: 03_ordenacion_curricular_y_ensenanzas
   subcategoria: Formación Profesional
 tags:
+- autonomia-centro
 - curriculo
 - dual
 - evaluacion
-- formaci-n-profesional
 - formacion-profesional
 - fp
-- grados_fp
+- grados-fp
 - orientacion-educativa
-- sistema_fp
+- sistema-fp
+- titulacion
 relaciones:
   desarrolla:
   - norma_id: norm-es-lo-3-2022
-    articulos_origen:
-    - Todos
-    articulos_destino:
-    - Todos
-    nota: Desarrolla el reglamento general del Sistema de Formación Profesional establecido
-      por la Ley Orgánica 3/2022.
   desarrollado_por:
-  - norma_id: norm-can-res-042
-    articulos_origen:
-    - Todos
-    articulos_destino:
-    - Todos
-  - norma_id: norm-can-res-034
-    articulos_origen:
-    - Todos
-    articulos_destino:
-    - Todos
-  - norma_id: norm-can-res-035
-    articulos_origen:
-    - Todos
-    articulos_destino:
-    - Todos
-  - norma_id: norm-can-res-boc-2024-226-44
-    articulos_origen:
-    - Todos
-    articulos_destino:
-    - Todos
-  - norma_id: norm-can-res-036
-    articulos_origen:
-    - Todos
-    articulos_destino:
-    - Todos
-  - norma_id: norm-can-res-boc-2025-046-47
-    articulos_origen:
-    - Todos
-    articulos_destino:
-    - Todos
-  - norma_id: norm-es-2025-2039
-    articulos_origen:
-    - Todos
-    articulos_destino:
-    - Todos
-  - norma_id: norm-can-res-038
-    articulos_origen:
-    - Todos
-    articulos_destino:
-    - Todos
-  - norma_id: norm-can-res-037
-    articulos_origen:
-    - Todos
-    articulos_destino:
-    - Todos
-  - norma_id: norm-can-res-039
-    articulos_origen:
-    - Todos
-    articulos_destino:
-    - Todos
   - norma_id: norm-can-res-033
-    articulos_origen:
-    - Todos
-    articulos_destino:
-    - Todos
+  - norma_id: norm-can-res-034
+  - norma_id: norm-can-res-035
+  - norma_id: norm-can-res-036
+  - norma_id: norm-can-res-037
+  - norma_id: norm-can-res-038
+  - norma_id: norm-can-res-039
+  - norma_id: norm-can-res-042
+  - norma_id: norm-can-res-boc-2024-226-44
   - norma_id: norm-can-res-boc-2024-230-25
-    articulos_origen:
-    - Todos
-    articulos_destino:
-    - Todos
+  - norma_id: norm-can-res-boc-2025-046-47
+  - norma_id: norm-es-2025-2039
+  fundamentado_en:
+  - norma_id: norm-can-res-134
+  - norma_id: norm-can-res-boc-2024-230-25
+  - norma_id: norm-es-1988-3987
+  - norma_id: norm-es-1988-6938
+  - norma_id: norm-es-1999-23750
+  - norma_id: norm-es-2000-544
+  - norma_id: norm-es-2001-7022
+  - norma_id: norm-es-2002-12018
+  - norma_id: norm-es-2002-25289
+  - norma_id: norm-es-2010-12201
+  - norma_id: norm-es-2020-17274
+  - norma_id: norm-es-2021-20113
+  - norma_id: norm-es-2021-979
+  - norma_id: norm-es-2022-1274
+  - norma_id: norm-es-l-39-2015
+  - norma_id: norm-es-l-40-2015
+  - norma_id: norm-es-l-53-1984
+  - norma_id: norm-es-lo-2-2006
+  - norma_id: norm-es-lo-3-2018
+  - norma_id: norm-es-lo-8-1985
+  - norma_id: norm-es-rd-217-2022
+  - norma_id: norm-es-rdl-2-2015
+  fundamento_de:
+  - norma_id: norm-can-d-84-2024
+  - norma_id: norm-can-res-027
+  - norma_id: norm-can-res-030
+  - norma_id: norm-can-res-032
+  - norma_id: norm-can-res-040
+  - norma_id: norm-can-res-043
+  - norma_id: norm-can-res-boc-2025-047-107
+  - norma_id: norm-can-res-boc-2025-047-108
+  - norma_id: norm-can-res-boc-2025-118-46
+  - norma_id: norm-can-res-boc-2026-039-102
+  - norma_id: norm-can-res-boc-2026-039-103
+  - norma_id: norm-can-res-boc-2026-070-41
+  - norma_id: norm-can-res-boc-2026-073-113
+  - norma_id: norm-can-res-boc-2026-129-26
+  - norma_id: norm-can-res-boc-2026-141-29
+  - norma_id: norm-es-2024-10683
+  - norma_id: norm-es-2024-10684
+  - norma_id: norm-es-2024-10685
+  - norma_id: norm-es-2026-12038
 fundamentos_derecho:
 - norma_id: norm-es-lo-3-2022
   articulos:
@@ -126,6 +116,8 @@ fundamentos_derecho:
 - norma_id: norm-es-2010-12201
 - norma_id: norm-es-rdl-2-2015
 ---
+
+
 # [Real Decreto 659/2023](../../autonómica/canarias/03_ordenacion_curricular_y_ensenanzas/RD659_2023_dictan_instrucciones_orientaciones_formacion_dual_empresas.md) - Ordenación General del Sistema de Formación Profesional
 
 **ÍNDICE**

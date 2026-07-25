@@ -17,14 +17,22 @@ clasificacion:
   subcategoria: Administración electrónica y firmas
 tags:
 - administraci-n-electr-nica-y-firmas
+- equipos-directivos
 relaciones:
-  desarrolla: []
+  fundamentado_en:
+  - norma_id: norm-es-1999-23750
+  - norma_id: norm-es-ce-1978
+  fundamento_de:
+  - norma_id: norm-es-2012-8745
+  - norma_id: norm-es-l-39-2015
 fundamentos_derecho:
 - norma_id: norm-es-ce-1978
   articulos:
   - '27'
 - norma_id: norm-es-1999-23750
 ---
+
+
 # Ley 59/2003, de 19 de diciembre, de firma electrónica.
 
 **JUAN CARLOS I**

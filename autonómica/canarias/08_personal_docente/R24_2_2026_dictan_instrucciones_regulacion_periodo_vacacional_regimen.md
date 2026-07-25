@@ -27,7 +27,20 @@ tags:
 - permisos-licencias-y-vacaciones
 - profesorado
 relaciones:
-  desarrolla: []
+  fundamentado_en:
+  - norma_id: norm-can-d-106-2009
+  - norma_id: norm-can-d-109-1999
+  - norma_id: norm-can-d-212-1991
+  - norma_id: norm-can-d-81-2010
+  - norma_id: norm-can-d-84-2024
+  - norma_id: norm-can-l-14-1990
+  - norma_id: norm-can-l-2-1987
+  - norma_id: norm-can-l-6-2014
+  - norma_id: norm-can-o-2013-10-09
+  - norma_id: norm-es-l-39-2015
+  - norma_id: norm-es-l-40-2015
+  - norma_id: norm-es-rdl-2-2015
+  - norma_id: norm-es-rdl-5-2015
 fundamentos_derecho:
 - norma_id: norm-can-l-6-2014
   articulos:
@@ -46,6 +59,8 @@ fundamentos_derecho:
 - norma_id: norm-can-d-212-1991
 fuente_pdf_oficial: https://sede.gobiernodecanarias.org/boc/boc-a-2026-046-751.pdf
 ---
+
+
 # Resolución de 24 de febrero de 2026, por la que se dictan instrucciones sobre la regulación del periodo vacacional, régimen de permisos y licencias del personal docente no universitario al servicio de la Administración Educativa Canaria y se delegan competencias en las Direcciones Territoriales y direcciones de los centros educativos. (BOC N.º 046. Lunes 9 de marzo de 2026).
 
 III. Otras Resoluciones

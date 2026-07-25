@@ -19,13 +19,26 @@ tags:
 - alumnado-con-altas-capacidades
 - atencion-diversidad
 - ensenanzas-deportivas
+- ensenanzas-universitarias
 - equipos-directivos
 - evaluacion
 - neae
 - orientacion-educativa
 - profesorado
 relaciones:
-  desarrolla: []
+  fundamentado_en:
+  - norma_id: norm-can-d-212-1991
+  - norma_id: norm-can-d-81-2010
+  - norma_id: norm-can-l-6-2014
+  - norma_id: norm-can-o-1-9-2010
+  - norma_id: norm-can-o-2013-10-09
+  - norma_id: norm-es-1999-23750
+  - norma_id: norm-es-2008-979
+  - norma_id: norm-es-2010-12201
+  - norma_id: norm-es-2021-20113
+  - norma_id: norm-es-lo-2-2006
+  fundamento_de:
+  - norma_id: norm-can-d-25-2018
 fundamentos_derecho:
 - norma_id: norm-can-l-6-2014
   articulos:
@@ -42,6 +55,8 @@ fundamentos_derecho:
 fuente_pdf_oficial: https://sede.gobiernodecanarias.org/boc/boc-a-2011-040-910.pdf
 fuente_juriscan: http://www.gobcan.es/juriscan/ficha.jsp?id=64838
 ---
+
+
 # Resolución de 9 de febrero de 2011, por la que se dictan instrucciones sobre los procedimientos y los plazos para la atención educativa del alumnado con necesidades específicas de apoyo educativo en los centros escolares de la Comunidad Autónoma de Canarias (BOC n.º 40, de 24 de febrero).
 
 Consejería de Educación, Universidades, 

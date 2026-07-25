@@ -23,7 +23,13 @@ tags:
 - ensenanzas-deportivas
 - profesorado
 relaciones:
-  desarrolla: []
+  fundamentado_en:
+  - norma_id: norm-es-2010-12201
+  - norma_id: norm-es-2016-3229
+  - norma_id: norm-es-2021-20113
+  - norma_id: norm-es-l-39-2015
+  - norma_id: norm-es-l-40-2015
+  - norma_id: norm-es-lo-2-2006
 fundamentos_derecho:
 - norma_id: norm-es-lo-2-2006
   articulos:
@@ -37,6 +43,8 @@ fundamentos_derecho:
 - norma_id: norm-es-2021-20113
 - norma_id: norm-es-2010-12201
 ---
+
+
 # Orden ECD/482/2018, de 4 de mayo, por la que se regulan los Premios Nacionales de Bachillerato.
 
 La [Ley Orgánica 2/2006](../01_marco_normativo_general_y_organico/LO2_2006_educacion_texto_consolidado_modificaciones_lomloe.md), de 3 de mayo, de Educación, establece en su artículo 89 que el Ministerio de Educación, Cultura y Deporte, sin perjuicio de las competencias de las Comunidades Autónomas, podrá establecer, por sí mismo o en colaboración con otras entidades, premios y concursos de carácter estatal destinados a alumnado, profesorado o centros escolares.

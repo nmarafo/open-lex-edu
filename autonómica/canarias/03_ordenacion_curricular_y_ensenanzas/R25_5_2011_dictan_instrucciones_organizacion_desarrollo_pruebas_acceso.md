@@ -25,8 +25,18 @@ tags:
 - equipos-directivos
 - formacion-profesional
 - oposiciones
+- titulacion
 relaciones:
-  desarrolla: []
+  fundamentado_en:
+  - norma_id: norm-can-d-212-1991
+  - norma_id: norm-can-l-6-2014
+  - norma_id: norm-es-1999-23750
+  - norma_id: norm-es-2010-12201
+  - norma_id: norm-es-2021-20113
+  - norma_id: norm-es-lo-2-2006
+  fundamento_de:
+  - norma_id: norm-can-res-boc-2026-039-111
+  - norma_id: norm-can-res-juriscan-65632-66
 fundamentos_derecho:
 - norma_id: norm-can-l-6-2014
   articulos:
@@ -39,6 +49,8 @@ fundamentos_derecho:
 fuente_pdf_oficial: https://sede.gobiernodecanarias.org/boc/boc-a-2011-106-2943.pdf
 fuente_juriscan: http://www.gobcan.es/juriscan/ficha.jsp?id=65631
 ---
+
+
 # Resolución de 25 de mayo de 2011, por la que se dictan instrucciones sobre organización y desarrollo de las pruebas de acceso a las enseñanzas artísticas superiores de Grado en Música, Arte Dramático y Diseño en la Comunidad Autónoma de Canarias, y se convocan las correspondientes al curso académico 2011 (BOC n.º 106, de 31 de mayo).
 
 Consejería de Educación, Universidades, 

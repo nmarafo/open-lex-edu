@@ -19,8 +19,17 @@ tags:
 - ensenanzas-deportivas
 - equipos-directivos
 - formacion-profesional
+- titulacion
 relaciones:
-  desarrolla: []
+  fundamentado_en:
+  - norma_id: norm-can-d-109-1999
+  - norma_id: norm-can-d-84-2024
+  - norma_id: norm-can-l-14-1990
+  - norma_id: norm-can-l-6-2014
+  - norma_id: norm-can-res-boc-2024-117-93
+  - norma_id: norm-es-2010-12201
+  - norma_id: norm-es-2021-20113
+  - norma_id: norm-es-lo-2-2006
 fundamentos_derecho:
 - norma_id: norm-can-l-6-2014
   articulos:
@@ -34,6 +43,8 @@ fundamentos_derecho:
 - norma_id: norm-can-res-boc-2024-117-93
 fuente_pdf_oficial: https://sede.gobiernodecanarias.org/boc/boc-a-2024-125-2080.pdf
 ---
+
+
 # Resolución de 20 de junio de 2024
 
 III. Otras Resoluciones

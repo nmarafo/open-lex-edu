@@ -23,7 +23,11 @@ tags:
 - profesorado
 - roc
 relaciones:
-  desarrolla: []
+  fundamentado_en:
+  - norma_id: norm-can-d-135-2016
+  - norma_id: norm-can-l-6-2014
+  - norma_id: norm-es-l-40-2015
+  - norma_id: norm-es-lo-2-2006
 fundamentos_derecho:
 - norma_id: norm-can-l-6-2014
   articulos:
@@ -35,6 +39,8 @@ fuente_pdf_oficial: https://sede.gobiernodecanarias.org/boc/boc-a-2021-038-932.p
 anexos_extraidos_pdf: true
 ocr_procesado: true
 ---
+
+
 # Resolución de 12 de febrero de 2021, por la que se delega en las Direcciones Territoriales de Educación determinada competencia relativa a cargos directivos de los centros públicos docentes del ámbito de gestión de este Departamento (BOC n.º 38, de 24 de febrero).
 
 Boletín Oficial de Canarias núm. 38

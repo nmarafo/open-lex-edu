@@ -19,12 +19,15 @@ tags:
 - curriculo
 - ensenanzas-deportivas
 - equipos-directivos
-- formaci-n-del-profesorado
+- formacion-del-profesorado
 - orientacion-educativa
 - profesorado
 - roc
+- titulacion
 relaciones:
-  desarrolla: []
+  fundamentado_en:
+  - norma_id: norm-can-l-6-2014
+  - norma_id: norm-es-2001-7022
 fundamentos_derecho:
 - norma_id: norm-can-l-6-2014
   articulos:
@@ -33,6 +36,8 @@ fundamentos_derecho:
 fuente_pdf_oficial: http://www.gobiernodecanarias.org/boc/1998/070/boc-1998-070-009.pdf
 fuente_juriscan: http://www.gobiernodecanarias.org/juriscan/ficha.jsp?id=30668
 ---
+
+
 # Resolución de 15 de mayo de 1998, de la Dirección General de Ordenación e Innovación Educativa, por la que se establecen criterios para el reconocimiento o certificación de las actividades de formación del profesorado de esta Dirección General (BOC n.º 70, de 8 de junio).
 
 Comunidad Autónoma de Canarias

@@ -26,7 +26,14 @@ tags:
 - formacion-profesional
 - profesorado
 relaciones:
-  desarrolla: []
+  fundamentado_en:
+  - norma_id: norm-can-d-212-1991
+  - norma_id: norm-can-d-84-2024
+  - norma_id: norm-can-l-6-2014
+  - norma_id: norm-es-2010-12201
+  - norma_id: norm-es-2019-317
+  - norma_id: norm-es-2021-20113
+  - norma_id: norm-es-lo-2-2006
 fundamentos_derecho:
 - norma_id: norm-can-l-6-2014
   articulos:
@@ -39,6 +46,8 @@ fundamentos_derecho:
 - norma_id: norm-can-d-212-1991
 fuente_pdf_oficial: https://sede.gobiernodecanarias.org/boc/boc-a-2025-250-4324.pdf
 ---
+
+
 # Resolución de la Dirección General de Formación Profesional y Enseñanzas de Régimen Especial, número 597/2025 de 4 de diciembre, por la que se convocan pruebas para la obtención de certificados de nivel intermedio B2 y nivel avanzado C1 de Inglés de Enseñanzas de Idiomas de Régimen Especial en la Comunidad Autónoma de Canarias y se dictan instrucciones para su organización y aplicación en el curso 2025-2026 (BOC núm 250, de 18 de diciembre).
 
 III. Otras Resoluciones

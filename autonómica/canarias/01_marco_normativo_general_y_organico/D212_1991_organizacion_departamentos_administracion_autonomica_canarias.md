@@ -1,7 +1,8 @@
 ---
 id: norm-can-d-212-1991
 codigo_sintetizado: Decreto BOC 212/1991
-titulo: Decreto 212/1991, de 11 de septiembre, de organización de los Departamentos de la Administración Autonómica de Canarias (BOC n.º 122, de 16 de septiembre).
+titulo: Decreto 212/1991, de 11 de septiembre, de organización de los Departamentos
+  de la Administración Autonómica de Canarias (BOC n.º 122, de 16 de septiembre).
 jurisdiccion: Canarias
 ambito: Autonómico
 organo_emisor: Presidencia del Gobierno
@@ -16,14 +17,56 @@ clasificacion:
   categoria_canonica: 01_marco_normativo_general_y_organico
   subcategoria: Marco normativo general
 tags:
+- funcion-publica
 - marco-normativo-general
 - organizacion-administrativa
-- funcion-publica
 relaciones:
-  desarrolla: []
+  fundamento_de:
+  - norma_id: norm-can-d-135-2016
+  - norma_id: norm-can-d-82-1994
+  - norma_id: norm-can-d-84-2024
+  - norma_id: norm-can-res-028
+  - norma_id: norm-can-res-035
+  - norma_id: norm-can-res-037
+  - norma_id: norm-can-res-038
+  - norma_id: norm-can-res-040
+  - norma_id: norm-can-res-053
+  - norma_id: norm-can-res-059
+  - norma_id: norm-can-res-063
+  - norma_id: norm-can-res-095
+  - norma_id: norm-can-res-096
+  - norma_id: norm-can-res-112
+  - norma_id: norm-can-res-119
+  - norma_id: norm-can-res-boc-1996-057-140
+  - norma_id: norm-can-res-boc-2011-099-72
+  - norma_id: norm-can-res-boc-2017-020-2
+  - norma_id: norm-can-res-boc-2017-036-75
+  - norma_id: norm-can-res-boc-2017-061-4
+  - norma_id: norm-can-res-boc-2017-220-70
+  - norma_id: norm-can-res-boc-2018-048-56
+  - norma_id: norm-can-res-boc-2018-124-126
+  - norma_id: norm-can-res-boc-2019-069-48
+  - norma_id: norm-can-res-boc-2019-143-74
+  - norma_id: norm-can-res-boc-2019-234-52
+  - norma_id: norm-can-res-boc-2023-085-51
+  - norma_id: norm-can-res-boc-2023-133-57
+  - norma_id: norm-can-res-boc-2025-061-106
+  - norma_id: norm-can-res-boc-2026-046-139
+  - norma_id: norm-can-res-boc-2026-070-41
+  - norma_id: norm-can-res-boc-2026-073-113
+  - norma_id: norm-can-res-boc-2026-077-49
+  - norma_id: norm-can-res-boc-2026-077-62
+  - norma_id: norm-can-res-boc-2026-132-101
+  - norma_id: norm-can-res-boc-2026-141-29
+  - norma_id: norm-can-res-juriscan-64838-121
+  - norma_id: norm-can-res-juriscan-65631-68
+  - norma_id: norm-can-res-juriscan-65632-66
+  - norma_id: norm-can-res-juriscan-71394-16
 fundamentos_derecho:
 - norma_id: norm-can-l-1-1983
 ---
+
+
 # Decreto 212/1991, de 11 de septiembre, de organización de los Departamentos de la Administración Autonómica de Canarias (BOC n.º 122, de 16 de septiembre).
 
 El Decreto 147/1991, de 17 de julio, aborda la reestructuración administrativa desde la perspectiva de la distribución de las áreas de acción política y de competencias del Gobierno entre las distintas consejerías y fija las pautas procedimentales para que las innovaciones orgánicas tengan una adecuada traducción en los restantes elementos de las organizaciones departamentales.

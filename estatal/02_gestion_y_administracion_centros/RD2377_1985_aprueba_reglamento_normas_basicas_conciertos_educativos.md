@@ -20,20 +20,21 @@ clasificacion:
   categoria_canonica: 02_gestion_y_administracion_centros
   subcategoria: Centros privados concertados
 tags:
+- centros-concertados
 - centros-privados-concertados
-- centros_concertados
-- conciertos_educativos
+- conciertos-educativos
+- fp-basica
 - profesorado
-- regimen_economico
+- regimen-economico
+- titulacion
 relaciones:
   desarrolla:
   - norma_id: norm-es-lo-8-1985
-    articulos_origen:
-    - Todos
-    articulos_destino:
-    - '47'
-    nota: Desarrolla el régimen de conciertos educativos establecido en el Título
-      IV de la LODE.
+  fundamentado_en:
+  - norma_id: norm-es-ce-1978
+  fundamento_de:
+  - norma_id: norm-can-res-boc-2022-158-21
+  - norma_id: norm-can-res-juriscan-63878-20
 fundamentos_derecho:
 - norma_id: norm-es-lo-8-1985
   articulos:
@@ -42,6 +43,8 @@ fundamentos_derecho:
   articulos:
   - '27'
 ---
+
+
 # Real Decreto 2377/1985 - Reglamento de Normas Básicas sobre Conciertos Educativos
 
 La [Ley orgánica 8/1985](LO8_1985_reguladora_derecho_educacion.md) de 3 de julio, reguladora del Derecho a la Educación, establece en su artículo 20.1 que una programación adecuada de los puestos escolares gratuitos garantizará tanto la efectividad del derecho a la educación como la posibilidad de escoger centro docente. Por otra parte, el artículo 27.3 establece que la programación específica de puestos escolares en los niveles obligatorios y gratuitos deberá tener en cuenta en todo caso la oferta existente de centros públicos y concertados. Finalmente, el artículo 47.1 señala que para el sostenimiento de centros privados con fondos públicos se establecerá un régimen de conciertos al que podrán acogerse todos aquellos que, en orden al servicio público de la educación en los términos previstos por esta ley, impartan la educación básica y reúnan los requisitos previstos en el título IV de la ley orgánica.

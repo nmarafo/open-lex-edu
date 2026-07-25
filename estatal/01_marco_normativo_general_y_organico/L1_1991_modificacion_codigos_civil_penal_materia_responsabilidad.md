@@ -18,15 +18,20 @@ clasificacion:
   subcategoria: Empleados públicos
 tags:
 - empleados-p-blicos
+- igualdad-genero
 - profesorado
+- proteccion-menores
 relaciones:
-  desarrolla: []
+  fundamentado_en:
+  - norma_id: norm-es-lo-2-2006
 fundamentos_derecho:
 - norma_id: norm-es-lo-2-2006
   articulos:
   - '1'
   - '2.1'
 ---
+
+
 # Ley 1/1991, de 7 de enero, de modificación de los Códigos Civil y Penal en materia de responsabilidad civil del profesorado.
 
 **JUAN CARLOS I**

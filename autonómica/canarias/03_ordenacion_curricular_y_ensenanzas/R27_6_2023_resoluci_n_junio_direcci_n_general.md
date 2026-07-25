@@ -24,8 +24,20 @@ tags:
 - evaluacion
 - formacion-profesional
 - oposiciones
+- profesorado
 relaciones:
-  desarrolla: []
+  fundamentado_en:
+  - norma_id: norm-can-d-106-2009
+  - norma_id: norm-can-d-212-1991
+  - norma_id: norm-can-d-81-2010
+  - norma_id: norm-can-l-6-2014
+  - norma_id: norm-can-o-2013-10-09
+  - norma_id: norm-es-2010-12201
+  - norma_id: norm-es-2021-20113
+  - norma_id: norm-es-lo-2-2006
+  fundamento_de:
+  - norma_id: norm-can-res-055
+  - norma_id: norm-can-res-boc-2026-116-87
 fundamentos_derecho:
 - norma_id: norm-can-l-6-2014
   articulos:
@@ -39,6 +51,8 @@ fundamentos_derecho:
 - norma_id: norm-can-d-212-1991
 fuente_pdf_oficial: https://sede.gobiernodecanarias.org/boc/boc-a-2023-133-2236.pdf
 ---
+
+
 # Resolución de 27 de junio de 2023, de la Dirección General de Formación Profesional y Educación de Adultos por la que se dictan instrucciones específicas sobre organización y funcionamiento de la Escuela Oficial de Idiomas a Distancia de Canarias. (BOC n.º 133, de 10 de julio).
 
 III. Otras Resoluciones

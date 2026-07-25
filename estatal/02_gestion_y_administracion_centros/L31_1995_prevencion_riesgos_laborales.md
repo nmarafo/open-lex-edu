@@ -18,29 +18,37 @@ clasificacion:
   categoria_canonica: 02_gestion_y_administracion_centros
   subcategoria: Prevención de riesgos y salud laboral
 tags:
+- personal-no-docente
 - prevenci-n-de-riesgos-y-salud-laboral
+- prevencion-riesgos
 - prevencion-riesgos-laborales
-- prevencion_riesgos
-- salud_laboral
-- seguridad_trabajo
+- proteccion-menores
+- salud-laboral
+- seguridad-trabajo
 relaciones:
-  desarrolla: []
   desarrollado_por:
-  - norma_id: norm-es-rd-39-1997
-    articulos_origen:
-    - Todos
-    articulos_destino:
-    - Todos
   - norma_id: norm-can-d-168-2009
-    articulos_origen:
-    - Todos
-    articulos_destino:
-    - Todos
+  - norma_id: norm-es-rd-39-1997
+  fundamentado_en:
+  - norma_id: norm-es-ce-1978
+  fundamento_de:
+  - norma_id: norm-can-res-125
+  - norma_id: norm-es-2002-12018
+  - norma_id: norm-es-2007-10487
+  - norma_id: norm-es-2007-6115
+  - norma_id: norm-es-2012-8745
+  - norma_id: norm-es-2014-5591
+  - norma_id: norm-es-2015-9462
+  - norma_id: norm-es-2026-12038
+  - norma_id: norm-es-lo-3-2018
+  - norma_id: norm-es-rdl-2-2015
 fundamentos_derecho:
 - norma_id: norm-es-ce-1978
   articulos:
   - '40.2'
 ---
+
+
 # Ley 31/1995 de Prevención de Riesgos Laborales
 
 **JUAN CARLOS I**

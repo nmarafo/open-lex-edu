@@ -22,25 +22,30 @@ clasificacion:
   categoria_canonica: 08_personal_docente
   subcategoria: Selección y provisión de puestos
 tags:
-- baremo_meritos
+- admision-alumnado
+- baremo-meritos
 - concurso-traslados
-- concurso_traslados
 - curriculo
 - ebep
-- movilidad_docente
+- movilidad-docente
 - oposiciones
 - plantillas-docentes
+- procedimiento-administrativo
 - profesorado
-- provision_plazas
+- provision-plazas
 - selecci-n-y-provisi-n-de-puestos
 relaciones:
   desarrolla:
   - norma_id: norm-es-lo-2-2006
-    articulos_origen:
-    - Todos
-    articulos_destino:
-    - Disposición adicional sexta
-    nota: Regula el concurso de traslados estatal entre funcionarios docentes.
+  fundamentado_en:
+  - norma_id: norm-es-1984-17387
+  - norma_id: norm-es-1995-22212
+  - norma_id: norm-es-1998-10720
+  - norma_id: norm-es-2010-12201
+  - norma_id: norm-es-2021-20113
+  - norma_id: norm-es-rdl-5-2015
+  fundamento_de:
+  - norma_id: norm-es-2022-16194
 fundamentos_derecho:
 - norma_id: norm-es-lo-2-2006
   articulos:
@@ -54,6 +59,8 @@ fundamentos_derecho:
 - norma_id: norm-es-1995-22212
 - norma_id: norm-es-1998-10720
 ---
+
+
 # Real Decreto 1364/2010 - Concurso de Traslados Estatal Docente
 
 La [Ley Orgánica 2/2006](../01_marco_normativo_general_y_organico/LO2_2006_educacion_texto_consolidado_modificaciones_lomloe.md), de 3 de mayo, de Educación, tiene como objetivo esencial la exigencia de proporcionar una educación de calidad para todos y entre todos. Según se señala en su preámbulo, uno de sus principios orientadores se refiere a la necesidad de que todos los componentes de la comunidad educativa colaboren para conseguir ese objetivo, indicando expresamente que las políticas dirigidas al profesorado constituyen uno de los elementos más valiosos y decisivos a la hora de lograr la eficacia y la eficiencia de los sistemas de educación y de formación.

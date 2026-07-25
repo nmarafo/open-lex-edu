@@ -20,29 +20,27 @@ clasificacion:
   categoria_canonica: 08_personal_docente
   subcategoria: Formación del profesorado
 tags:
-- centros_profesorado
+- centros-profesorado
 - cep
 - equipos-directivos
-- formaci-n-del-profesorado
-- formacion_permanente
-- innovacion_educativa
+- formacion-del-profesorado
+- formacion-permanente
+- innovacion-educativa
 - interinos
 - profesorado
 relaciones:
   desarrolla:
   - norma_id: norm-can-l-6-2014
-    articulos_origen:
-    - Todos
-    articulos_destino:
-    - '61'
-    nota: Regula la red de Centros del Profesorado (CEP) para el desarrollo de la
-      formación permanente docente.
+  fundamentado_en:
+  - norma_id: norm-can-d-212-1991
 fundamentos_derecho:
 - norma_id: norm-can-l-6-2014
   articulos:
   - '61'
 - norma_id: norm-can-d-212-1991
 ---
+
+
 # Decreto 82/1994, de 13 de mayo, por el que se regulan la creación, organización y funcionamiento de los Centros del Profesorado en la Comunidad Autónoma de Canarias.
 
 Gobierno de Canarias

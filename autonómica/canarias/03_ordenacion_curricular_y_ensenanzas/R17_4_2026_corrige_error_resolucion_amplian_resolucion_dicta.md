@@ -24,10 +24,18 @@ tags:
 - curriculo
 - ensenanzas-deportivas
 - equipos-directivos
-- formaci-n-profesional
 - formacion-profesional
 relaciones:
-  desarrolla: []
+  fundamentado_en:
+  - norma_id: norm-can-d-212-1991
+  - norma_id: norm-can-d-84-2024
+  - norma_id: norm-can-l-6-2014
+  - norma_id: norm-can-res-boc-2024-226-44
+  - norma_id: norm-can-res-boc-2026-070-115
+  - norma_id: norm-can-res-boc-2026-070-116
+  - norma_id: norm-can-res-boc-2026-070-41
+  - norma_id: norm-es-l-39-2015
+  - norma_id: norm-es-l-40-2015
 fundamentos_derecho:
 - norma_id: norm-can-l-6-2014
   articulos:
@@ -42,6 +50,8 @@ fundamentos_derecho:
 - norma_id: norm-can-d-212-1991
 fuente_pdf_oficial: https://sede.gobiernodecanarias.org/boc/boc-a-2026-080-1342.pdf
 ---
+
+
 # Resolución de 17 de abril de 2026, que corrige error en la [Resolución de 26 de marzo de 2026](R26_3_2026_amplian_resolucion_dicta_instrucciones_orientaciones_implantacion.md), por la que se amplían la [Resolución de 30 de octubre de 2024](R30_10_2024_dictan_instrucciones_orientaciones_implantacion_desarrollo_grados.md), que dicta instrucciones y orientaciones par la implantación y desarrollo de los grados de formación D y E, a partir del curso escolar 2024/2025, y se establece la distribución horaria y modular de los currículos; y la Resolución de 21 de febrero de 2025, que dicta instrucciones para la implantación de los itinerarios formativos de Formación Profesional Adaptada y el desarrollo de los currículos de los módulos de carácter general a partir del curso escolar 2024/2025, en el ámbito de la Comunidad Autónoma de Canarias (BOC n.º 70, de 13.4.2026).
 
 III. Otras Resoluciones

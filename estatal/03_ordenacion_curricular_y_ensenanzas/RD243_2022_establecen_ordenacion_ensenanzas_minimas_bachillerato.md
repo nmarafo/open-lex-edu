@@ -24,33 +24,34 @@ tags:
 - curriculo
 - ebau
 - ensenanzas-artisticas
-- ensenanzas_minimas
+- ensenanzas-minimas
 - evaluacion
 - inclusiva
-- modalidades_bachillerato
+- modalidades-bachillerato
+- neae
 - oposiciones
+- proteccion-menores
+- titulacion
 relaciones:
   desarrolla:
   - norma_id: norm-es-lo-2-2006
-    articulos_origen:
-    - Todos
-    articulos_destino:
-    - '32'
-    - '34'
-    - '36'
-    - '37'
-    nota: Establece la ordenación y currículo básico del Bachillerato.
   desarrollado_por:
   - norma_id: norm-can-d-103-2023
-    articulos_origen:
-    - Todos
-    articulos_destino:
-    - Todos
   - norma_id: norm-es-2023-9553
-    articulos_origen:
-    - Todos
-    articulos_destino:
-    - Todos
+  fundamentado_en:
+  - norma_id: norm-es-2010-12201
+  - norma_id: norm-es-2016-3229
+  - norma_id: norm-es-2021-18812
+  - norma_id: norm-es-2021-20113
+  - norma_id: norm-es-ce-1978
+  - norma_id: norm-es-l-39-2015
+  - norma_id: norm-es-lo-3-2018
+  fundamento_de:
+  - norma_id: norm-can-res-040
+  - norma_id: norm-can-res-063
+  - norma_id: norm-can-res-boc-2026-077-62
+  - norma_id: norm-es-2022-15953
+  - norma_id: norm-es-2026-12038
 fundamentos_derecho:
 - norma_id: norm-es-lo-2-2006
   articulos:
@@ -71,6 +72,8 @@ fundamentos_derecho:
 - norma_id: norm-es-2021-20113
 - norma_id: norm-es-2010-12201
 ---
+
+
 # Real Decreto 243/2022 - Ordenación y Enseñanzas Mínimas del Bachillerato
 
 La Ley Orgánica 3/2020, de 29 de diciembre, por la que se modifica la [Ley Orgánica 2/2006](../01_marco_normativo_general_y_organico/LO2_2006_educacion_texto_consolidado_modificaciones_lomloe.md), de 3 de mayo, de Educación, introduce importantes cambios, muchos de ellos derivados, tal y como indica la propia ley en su exposición de motivos, de la conveniencia de revisar las medidas previstas en el texto original con objeto de adaptar el sistema educativo a los retos y desafíos del siglo XXI, de acuerdo con los objetivos fijados por la Unión Europea y la UNESCO para la década 2020-2030.

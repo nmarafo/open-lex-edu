@@ -20,14 +20,18 @@ clasificacion:
 tags:
 - convenio-colectivo-y-personal-laboral
 - equipos-directivos
+- personal-no-docente
 - roc
 relaciones:
-  desarrolla: []
+  fundamentado_en:
+  - norma_id: norm-can-l-6-2014
 fundamentos_derecho:
 - norma_id: norm-can-l-6-2014
   articulos:
   - '1'
 ---
+
+
 # Resolución de 21 de diciembre de 2006, de la Dirección General de Trabajo de la Consejería de Empleo y Asuntos Sociales, relativa al registro, deposito y publicación del Acuerdo de la Comisión Negociadora del Convenio Colectivo del Personal Laboral de la Comunidad Autónoma de Canarias, para la modificación del artículo 11 del vigente convenio colectivo, así como de la Disposición Transitoria Primera (BOC n.º 9, de 12 de enero).
 
 BOC - 2007/009. Viernes 12 de Enero de 2007 - 143

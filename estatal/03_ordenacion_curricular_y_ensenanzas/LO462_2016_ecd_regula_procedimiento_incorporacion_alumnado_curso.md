@@ -27,8 +27,42 @@ tags:
 - ensenanzas-deportivas
 - eso
 - evaluacion
+- igualdad-genero
 relaciones:
-  desarrolla: []
+  fundamentado_en:
+  - norma_id: norm-es-2010-12201
+  - norma_id: norm-es-2021-20113
+  - norma_id: norm-es-ce-1978
+  - norma_id: norm-es-lo-2-2006
+  fundamento_de:
+  - norma_id: norm-can-d-25-2018
+  - norma_id: norm-can-res-014
+  - norma_id: norm-can-res-063
+  - norma_id: norm-can-res-boc-2018-048-56
+  - norma_id: norm-can-res-boc-2018-086-122
+  - norma_id: norm-can-res-boc-2018-124-126
+  - norma_id: norm-can-res-boc-2019-069-48
+  - norma_id: norm-can-res-boc-2019-234-52
+  - norma_id: norm-can-res-boc-2020-236-82
+  - norma_id: norm-can-res-boc-2026-077-49
+  - norma_id: norm-can-res-boc-2026-077-62
+  - norma_id: norm-can-res-juriscan-72176-78
+  - norma_id: norm-can-res-juriscan-72882-123
+  - norma_id: norm-es-2014-2222
+  - norma_id: norm-es-2014-5591
+  - norma_id: norm-es-2014-6008
+  - norma_id: norm-es-2015-738
+  - norma_id: norm-es-2015-8043
+  - norma_id: norm-es-2015-8470
+  - norma_id: norm-es-2015-8702
+  - norma_id: norm-es-2015-9462
+  - norma_id: norm-es-2018-4480
+  - norma_id: norm-es-2018-6348
+  - norma_id: norm-es-2022-15953
+  - norma_id: norm-es-2023-3846
+  - norma_id: norm-es-2023-9553
+  - norma_id: norm-es-2024-11613
+  - norma_id: norm-es-rd-243-2022
 fundamentos_derecho:
 - norma_id: norm-es-ce-1978
   articulos:
@@ -40,6 +74,8 @@ fundamentos_derecho:
 - norma_id: norm-es-2021-20113
 - norma_id: norm-es-2010-12201
 ---
+
+
 # Orden ECD/462/2016, de 31 de marzo, por la que se regula el procedimiento de incorporación del alumnado a un curso de Educación Secundaria Obligatoria o de Bachillerato del sistema educativo definido por la Ley Orgánica 8/2013, de 9 de diciembre, para la mejora de la calidad educativa, con materias no superadas del currículo anterior a su implantación.
 
 La Ley Orgánica 8/2013, de 9 de diciembre, para la Mejora de la Calidad Educativa, establece una nueva ordenación de las enseñanzas del sistema educativo español cuyo calendario de implantación se recoge en su disposición final quinta. De acuerdo con el mismo, se prevé que la nueva ordenación sustituya de manera progresiva a la definida por la [Ley Orgánica 2/2006](../01_marco_normativo_general_y_organico/LO2_2006_educacion_texto_consolidado_modificaciones_lomloe.md), de 3 de mayo, de Educación, en su redacción original.

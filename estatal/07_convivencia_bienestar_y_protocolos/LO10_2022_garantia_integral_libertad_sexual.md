@@ -20,11 +20,29 @@ clasificacion:
   subcategoria: Protocolos de actuación y protección
 tags:
 - coeducacion
-- libertad_sexual
-- prevencion_violencia_sexual
+- libertad-sexual
+- personal-no-docente
+- prevencion-riesgos-laborales
+- prevencion-violencia-sexual
+- proteccion-menores
 - protocolos-de-actuaci-n-y-protecci-n
+- titulacion
 relaciones:
-  desarrolla: []
+  fundamentado_en:
+  - norma_id: norm-es-1995-25444
+  - norma_id: norm-es-2000-544
+  - norma_id: norm-es-2007-6115
+  - norma_id: norm-es-ce-1978
+  - norma_id: norm-es-l-39-2015
+  - norma_id: norm-es-lo-1-2004
+  - norma_id: norm-es-lo-3-2018
+  - norma_id: norm-es-lo-5-2000
+  - norma_id: norm-es-lo-8-1985
+  - norma_id: norm-es-lo-8-2021
+  - norma_id: norm-es-rdl-2-2015
+  - norma_id: norm-es-rdl-5-2015
+  fundamento_de:
+  - norma_id: norm-can-res-125
 fundamentos_derecho:
 - norma_id: norm-es-ce-1978
   articulos:
@@ -44,6 +62,8 @@ fundamentos_derecho:
 - norma_id: norm-es-lo-8-2021
 - norma_id: norm-es-rdl-2-2015
 ---
+
+
 # Ley Orgánica 10/2022 de Garantía Integral de la Libertad Sexual
 
 **FELIPE VI**

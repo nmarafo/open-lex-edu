@@ -20,27 +20,28 @@ clasificacion:
   categoria_canonica: 05_alumnado_y_servicios_escolares
   subcategoria: Transporte escolar
 tags:
-- acompanante_transporte
+- acompanante-transporte
 - ensenanzas-deportivas
+- equipos-directivos
 - oposiciones
-- seguridad_menores
-- servicios_escolares
+- proteccion-menores
+- seguridad-menores
+- servicios-complementarios
+- servicios-escolares
 - transporte-escolar
-- transporte_escolar
 relaciones:
-  desarrolla: []
   desarrollado_por:
   - norma_id: norm-can-o-2-8-2006
-    articulos_origen:
-    - Todos
-    articulos_destino:
-    - Todos
+  fundamentado_en:
+  - norma_id: norm-es-lo-2-2006
 fundamentos_derecho:
 - norma_id: norm-es-lo-2-2006
   articulos:
   - '80'
   - '82'
 ---
+
+
 # Real Decreto 443/2001 sobre condiciones de seguridad en el transporte escolar y de menores
 
 Las normas de seguridad aplicables en el transporte colectivo de menores por carretera estaban recogidas en el Real Decreto 2296/1983, de 25 de agosto, sobre tráfico y circulación de vehículos escolares y de menores.

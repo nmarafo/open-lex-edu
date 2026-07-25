@@ -22,23 +22,21 @@ clasificacion:
   subcategoria: Alumnado con altas capacidades
 tags:
 - admision-alumnado
-- altas_capacidades
+- altas-capacidades
 - alumnado-con-altas-capacidades
-- flexibilizacion_escolar
-- medidas_curriculares
+- autonomia-centro
+- flexibilizacion-escolar
+- igualdad-genero
+- medidas-curriculares
 - neae
 - profesorado
 - superdotacion
 relaciones:
   desarrolla:
   - norma_id: norm-es-lo-2-2006
-    articulos_origen:
-    - Todos
-    articulos_destino:
-    - '76'
-    - '77'
-    nota: Establece las condiciones reglamentarias para flexibilizar la escolarización
-      del alumnado con altas capacidades.
+  fundamentado_en:
+  - norma_id: norm-es-ce-1978
+  - norma_id: norm-es-lo-8-1985
 fundamentos_derecho:
 - norma_id: norm-es-lo-2-2006
   articulos:
@@ -49,6 +47,8 @@ fundamentos_derecho:
   - '27'
 - norma_id: norm-es-lo-8-1985
 ---
+
+
 # Real Decreto 943/2003 - Flexibilización de la escolarización para alumnado con Altas Capacidades
 
 La Ley Orgánica 10/2002, de 23 de diciembre, de Calidad de la Educación, establece, en su preámbulo, que uno de sus objetivos esenciales es conseguir el mayor poder cualificador del sistema educativo junto a la integración en éste del máximo número posible de alumnos; que el sistema educativo debe procurar una configuración flexible, que se adapte a las diferencias individuales de aptitudes, necesidades, intereses y ritmos de maduración de las personas para no renunciar al logro de resultados de calidad para todos; asimismo, a través de esta ley, se establece un marco general que permita a las Administraciones educativas garantizar una adecuada respuesta educativa a las circunstancias y necesidades que concurren en los alumnos superdotados intelectualmente.

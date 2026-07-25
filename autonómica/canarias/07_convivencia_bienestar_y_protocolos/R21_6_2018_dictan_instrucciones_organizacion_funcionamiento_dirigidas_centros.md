@@ -20,12 +20,26 @@ tags:
 - bachillerato
 - educacion-personas-adultas
 - ensenanzas-artisticas
+- ensenanzas-universitarias
 - eso
 - evaluacion
 - orientaciones-y-gu-as-de-actuaci-n
 - profesorado
 relaciones:
-  desarrolla: []
+  fundamentado_en:
+  - norma_id: norm-can-d-106-2009
+  - norma_id: norm-can-d-212-1991
+  - norma_id: norm-can-d-25-2018
+  - norma_id: norm-can-d-81-2010
+  - norma_id: norm-can-l-6-2014
+  - norma_id: norm-can-o-2013-10-09
+  - norma_id: norm-es-2007-6115
+  - norma_id: norm-es-2010-12201
+  - norma_id: norm-es-2010-4518
+  - norma_id: norm-es-2016-3229
+  - norma_id: norm-es-2021-20113
+  - norma_id: norm-es-l-40-2015
+  - norma_id: norm-es-lo-2-2006
 fundamentos_derecho:
 - norma_id: norm-can-l-6-2014
   articulos:
@@ -44,6 +58,8 @@ fundamentos_derecho:
 - norma_id: norm-can-d-212-1991
 fuente_pdf_oficial: https://sede.gobiernodecanarias.org/boc/boc-a-2018-124-3068.pdf
 ---
+
+
 # Resolución de 21 de junio de 2018, de la Viceconsejería de Educación y Universidades, por la que se dictan instrucciones de organización y funcionamiento dirigidas a los centros docentes públicos no universitarios de la Comunidad Autónoma de Canarias para el curso 2018/19 (BOC n.º 124, de 28 de junio).
 
 Jueves 28 de junio de 2018

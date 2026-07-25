@@ -32,7 +32,11 @@ tags:
 - procedimiento-administrativo
 - profesorado
 relaciones:
-  desarrolla: []
+  fundamentado_en:
+  - norma_id: norm-can-l-6-2014
+  - norma_id: norm-can-res-boc-2026-037-105
+  - norma_id: norm-can-res-boc-2026-039-111
+  - norma_id: norm-es-l-39-2015
 fundamentos_derecho:
 - norma_id: norm-can-l-6-2014
   articulos:
@@ -42,6 +46,8 @@ fundamentos_derecho:
 - norma_id: norm-can-res-boc-2026-039-111
 fuente_pdf_oficial: https://sede.gobiernodecanarias.org/boc/boc-a-2026-046-752.pdf
 ---
+
+
 # Resolución de 27 de febrero de 2026, por la que se corrige error en la [Resolución de 5 de febrero de 2026](R5_2_2026_dgacesc_convoca_procedimiento_admision_alumnado_centros.md), que convoca el procedimiento de admisión del alumnado en centros docentes que oferten enseñanzas de Educación Infantil, Educación Primaria, Educación Secundaria Obligatoria, Bachillerato y Educación de Personas Adultas sostenidos con fondos públicos, para el curso escolar 2026-2027, en la Comunidad Autónoma de Canarias, corregida por [Resolución de 18 de febrero de 2026](R18_2_2026_dgacesc_corrige_error_resolucion_convoca_procedimiento.md) (BOC núm. 37, de 24 de febrero).
 
 III. Otras Resoluciones

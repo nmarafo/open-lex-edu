@@ -19,13 +19,15 @@ tags:
 - admision-alumnado
 - educacion-personas-adultas
 - ensenanzas-deportivas
+- ensenanzas-universitarias
 - equipos-directivos
-- formaci-n-del-profesorado
+- formacion-del-profesorado
 - formacion-profesional
 - oposiciones
 - profesorado
 relaciones:
-  desarrolla: []
+  fundamentado_en:
+  - norma_id: norm-can-l-6-2014
 fundamentos_derecho:
 - norma_id: norm-can-l-6-2014
   articulos:
@@ -33,6 +35,8 @@ fundamentos_derecho:
 fuente_pdf_oficial: http://www.gobiernodecanarias.org/boc/2009/082/boc-2009-082-009.pdf
 fuente_juriscan: http://www.gobiernodecanarias.org/juriscan/ficha.jsp?id=61148
 ---
+
+
 # Dirección General de Formación Profesional y Educación de Adultos.- Resolución de 23 de marzo de 2009, por la que se determinan las zonas de actuación de la red pública de Centros de Educación de Personas Adultas de la Comunidad Autónoma de Canarias (BOC n.º 82, de 30 de abril).
 
 654

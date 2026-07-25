@@ -27,10 +27,14 @@ tags:
 relaciones:
   desarrolla:
   - norma_id: norm-es-rd-276-2007
-    articulos_origen:
-    - Todos
-    articulos_destino:
-    - Todos
+  fundamentado_en:
+  - norma_id: norm-es-1984-17387
+  - norma_id: norm-es-2007-5478
+  - norma_id: norm-es-2010-12201
+  - norma_id: norm-es-2021-20113
+  - norma_id: norm-es-ce-1978
+  - norma_id: norm-es-lo-2-2006
+  - norma_id: norm-es-rdl-5-2015
 fundamentos_derecho:
 - norma_id: norm-es-ce-1978
   articulos:
@@ -48,6 +52,8 @@ fundamentos_derecho:
 - norma_id: norm-es-2007-5478
 - norma_id: norm-es-rd-276-2007
 ---
+
+
 # Orden ECD/1753/2015, de 25 de agosto, por la que se aprueban los temarios que han de regir en los procedimientos de ingreso, acceso y adquisición de nuevas especialidades en el Cuerpo de Profesores de Música y Artes Escénicas en las especialidades vinculadas a las enseñanzas de música y de danza.
 
 Aparte de las establecidas en la Ley 7/2007, de 12 de abril, del Estatuto Básico del Empleado Público, la disposición adicional sexta de la [Ley Orgánica 2/2006](../01_marco_normativo_general_y_organico/LO2_2006_educacion_texto_consolidado_modificaciones_lomloe.md), de 3 de mayo, de Educación, establece que, además de las recogidas en la [Ley 30/1984](../01_marco_normativo_general_y_organico/L30_1984_medidas_reforma_funcion_publica.md), de 2 de agosto, de Medidas para la Reforma de la Función Pública, son bases del régimen estatutario de los funcionarios públicos docentes las reguladas por la propia [Ley Orgánica 2/2006](../01_marco_normativo_general_y_organico/LO2_2006_educacion_texto_consolidado_modificaciones_lomloe.md), de 3 de mayo, y la normativa que la desarrolla, para el ingreso y la movilidad entre los cuerpos docentes, encomendando al Gobierno su desarrollo reglamentario en aquellos aspectos básicos que sean necesarios para garantizar el marco común básico de la función pública docente.

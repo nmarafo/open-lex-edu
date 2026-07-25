@@ -24,28 +24,41 @@ clasificacion:
 tags:
 - bachillerato
 - centros-p-blicos
-- cualificacion_docente
+- cualificacion-docente
 - curriculo
 - ebep
 - ensenanzas-artisticas
 - ensenanzas-deportivas
 - eoi
 - eso
-- especialidades_secundaria
+- especialidades-secundaria
 - evaluacion
 - formacion-profesional
-- master_profesorado
+- master-profesorado
 - profesorado
+- titulacion
 relaciones:
   desarrolla:
   - norma_id: norm-es-lo-2-2006
-    articulos_origen:
-    - Todos
-    articulos_destino:
-    - '94'
-    - '95'
-    nota: Regula los requisitos de titulación pedagógica y especialidades docentes
-      para la impartición de docencia.
+  fundamentado_en:
+  - norma_id: norm-es-2001-7022
+  - norma_id: norm-es-2005-21534
+  - norma_id: norm-es-2007-22017
+  - norma_id: norm-es-2010-12201
+  - norma_id: norm-es-2021-20113
+  - norma_id: norm-es-ce-1978
+  fundamento_de:
+  - norma_id: norm-can-o-2013-10-09
+  - norma_id: norm-can-res-135
+  - norma_id: norm-es-2010-11426
+  - norma_id: norm-es-2011-13117
+  - norma_id: norm-es-2011-15628
+  - norma_id: norm-es-2011-16923
+  - norma_id: norm-es-2013-6281
+  - norma_id: norm-es-2015-8043
+  - norma_id: norm-es-2022-16194
+  - norma_id: norm-es-2023-9553
+  - norma_id: norm-es-2025-16039
 fundamentos_derecho:
 - norma_id: norm-es-lo-2-2006
   articulos:
@@ -61,6 +74,8 @@ fundamentos_derecho:
 - norma_id: norm-es-2010-12201
 - norma_id: norm-es-2007-22017
 ---
+
+
 # Real Decreto 1834/2008 - Condiciones de Formación para el Ejercicio de la Docencia
 
 La [Ley Orgánica 2/2006](../01_marco_normativo_general_y_organico/LO2_2006_educacion_texto_consolidado_modificaciones_lomloe.md), de 3 de mayo, de Educación establece en sus artículos 91 al 99 las funciones del profesorado de las distintas enseñanzas que se regulan en ella, así como sus respectivas condiciones de titulación y formación pedagógica y didáctica. En la disposición adicional séptima, a su vez, se especifican las funciones de los diferentes cuerpos en los que se ordena la función pública docente.

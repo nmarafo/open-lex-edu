@@ -23,15 +23,16 @@ clasificacion:
   categoria_canonica: 08_personal_docente
   subcategoria: Selección y provisión de puestos
 tags:
-- adquisicion_especialidades
+- adquisicion-especialidades
+- concurso-oposicion
 - concurso-traslados
-- concurso_oposicion
 - ebep
 - ensenanzas-artisticas
 - eoi
 - equipos-directivos
+- eso
 - evaluacion
-- ingreso_docente
+- ingreso-docente
 - inspeccion-educativa
 - oposiciones
 - profesorado
@@ -39,33 +40,36 @@ tags:
 relaciones:
   desarrolla:
   - norma_id: norm-es-lo-2-2006
-    articulos_origen:
-    - Todos
-    articulos_destino:
-    - Disposición adicional duodécima
-    nota: Regula el sistema general de ingreso y accesos a la función pública docente
-      no universitaria.
   desarrollado_por:
-  - norma_id: norm-es-2009-20550
-    articulos_origen:
-    - Todos
-    articulos_destino:
-    - Todos
-  - norma_id: norm-es-2015-9453
-    articulos_origen:
-    - Todos
-    articulos_destino:
-    - Todos
   - norma_id: norm-es-2007-5478
-    articulos_origen:
-    - Todos
-    articulos_destino:
-    - Todos
+  - norma_id: norm-es-2009-20550
+  - norma_id: norm-es-2015-9453
   - norma_id: norm-es-2026-2622
-    articulos_origen:
-    - Todos
-    articulos_destino:
-    - Todos
+  fundamentado_en:
+  - norma_id: norm-es-1984-17387
+  - norma_id: norm-es-1998-10720
+  - norma_id: norm-es-2001-7022
+  - norma_id: norm-es-2007-5478
+  - norma_id: norm-es-2010-12201
+  - norma_id: norm-es-2021-20113
+  - norma_id: norm-es-ce-1978
+  - norma_id: norm-es-rdl-5-2015
+  fundamento_de:
+  - norma_id: norm-es-1979-29491
+  - norma_id: norm-es-1985-7820
+  - norma_id: norm-es-1993-23257
+  - norma_id: norm-es-1995-22212
+  - norma_id: norm-es-1996-3102
+  - norma_id: norm-es-1998-10720
+  - norma_id: norm-es-2010-11426
+  - norma_id: norm-es-2011-15628
+  - norma_id: norm-es-2014-7684
+  - norma_id: norm-es-2015-6839
+  - norma_id: norm-es-2022-16194
+  - norma_id: norm-es-2024-10683
+  - norma_id: norm-es-2024-10684
+  - norma_id: norm-es-2024-10685
+  - norma_id: norm-es-rd-476-2013
 fundamentos_derecho:
 - norma_id: norm-es-rdl-5-2015
   articulos:
@@ -83,6 +87,8 @@ fundamentos_derecho:
 - norma_id: norm-es-1998-10720
 - norma_id: norm-es-2007-5478
 ---
+
+
 # [Real Decreto 276/2007](RD592_2007_eci_aprueba_temario_ha_regir_procedimiento.md) - Reglamento de Ingreso, Accesos y Adquisición de Nuevas Especialidades en Cuerpos Docentes
 
 La [Ley Orgánica 2/2006](../01_marco_normativo_general_y_organico/LO2_2006_educacion_texto_consolidado_modificaciones_lomloe.md), de 3 de mayo, de Educación, en su disposición adicional sexta establece que, además de las recogidas en la [Ley 30/1984](../01_marco_normativo_general_y_organico/L30_1984_medidas_reforma_funcion_publica.md), de 2 de agosto, de Medidas para la Reforma de la Función Pública, modificada por la Ley 23/1988, de 28 de julio, son bases del régimen estatutario de los funcionarios públicos docentes, las reguladas por la propia ley orgánica y la normativa que la desarrolle para el ingreso y la movilidad entre los cuerpos docentes, encomendando al Gobierno su desarrollo reglamentario en aquellos aspectos básicos que sean necesarios para garantizar el marco común básico de la función pública docente.

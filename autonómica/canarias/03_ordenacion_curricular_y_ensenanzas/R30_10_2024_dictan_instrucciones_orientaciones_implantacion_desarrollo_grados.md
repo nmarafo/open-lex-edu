@@ -18,23 +18,47 @@ clasificacion:
   subcategoria: Formación Profesional
 tags:
 - curriculo
+- cursos-especializacion
 - ensenanzas-deportivas
 - equipos-directivos
-- formaci-n-profesional
 - formacion-profesional
+- grado-medio
+- grado-superior
 - profesorado
 relaciones:
   desarrolla:
-  - norma_id: norm-es-rd-659-2023
-    articulos_origen:
-    - Todos
-    articulos_destino:
-    - Todos
   - norma_id: norm-es-lo-3-2022
-    articulos_origen:
-    - Todos
-    articulos_destino:
-    - Todos
+  - norma_id: norm-es-rd-659-2023
+  fundamentado_en:
+  - norma_id: norm-can-d-84-2024
+  - norma_id: norm-can-l-6-2014
+  - norma_id: norm-can-lo-1-2018
+  - norma_id: norm-can-res-134
+  - norma_id: norm-can-res-boc-2019-069-48
+  - norma_id: norm-can-res-boc-2024-230-25
+  - norma_id: norm-es-2010-12201
+  - norma_id: norm-es-2020-17274
+  - norma_id: norm-es-2021-20113
+  - norma_id: norm-es-2021-979
+  - norma_id: norm-es-2024-10683
+  - norma_id: norm-es-2024-10684
+  - norma_id: norm-es-2024-10685
+  - norma_id: norm-es-lo-2-2006
+  - norma_id: norm-es-rd-217-2022
+  - norma_id: norm-es-rd-39-1997
+  fundamento_de:
+  - norma_id: norm-can-res-028
+  - norma_id: norm-can-res-032
+  - norma_id: norm-can-res-033
+  - norma_id: norm-can-res-034
+  - norma_id: norm-can-res-035
+  - norma_id: norm-can-res-036
+  - norma_id: norm-can-res-037
+  - norma_id: norm-can-res-038
+  - norma_id: norm-can-res-039
+  - norma_id: norm-can-res-042
+  - norma_id: norm-can-res-boc-2025-118-46
+  - norma_id: norm-can-res-boc-2026-070-41
 fundamentos_derecho:
 - norma_id: norm-can-l-6-2014
   articulos:
@@ -58,6 +82,8 @@ fundamentos_derecho:
 - norma_id: norm-es-2010-12201
 fuente_pdf_oficial: https://sede.gobiernodecanarias.org/boc/boc-a-2024-226-3747.pdf
 ---
+
+
 # Resolución de 30 de octubre de 2024, de la Dirección General de Formación Profesional y Enseñanzas de Régimen Especial, por la que se dictan instrucciones y orientaciones para la implantación y desarrollo de los grados de formación D y E, a partir del curso escolar 2024/2025, y se establece la distribución horaria y modular de los currículos, en el ámbito de la Comunidad Autónoma de Canarias.
 
 III. Otras Resoluciones

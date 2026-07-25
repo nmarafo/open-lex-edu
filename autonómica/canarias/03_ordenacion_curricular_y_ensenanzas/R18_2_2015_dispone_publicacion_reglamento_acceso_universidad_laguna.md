@@ -18,12 +18,21 @@ tags:
 - admision-alumnado
 - bachillerato
 - educaci-n-de-personas-adultas
+- educacion-personas-adultas
 - ensenanzas-artisticas
 - evaluacion
 - oposiciones
 - procedimiento-administrativo
+- titulacion
 relaciones:
-  desarrolla: []
+  fundamentado_en:
+  - norma_id: norm-can-l-6-2014
+  - norma_id: norm-es-2010-12201
+  - norma_id: norm-es-2014-6008
+  - norma_id: norm-es-2016-3229
+  - norma_id: norm-es-2021-20113
+  - norma_id: norm-es-l-39-2015
+  - norma_id: norm-es-lo-2-2006
 fundamentos_derecho:
 - norma_id: norm-can-l-6-2014
   articulos:
@@ -37,6 +46,8 @@ fundamentos_derecho:
 fuente_pdf_oficial: https://sede.gobiernodecanarias.org/boc/boc-a-2015-040-837.pdf
 fuente_juriscan: http://www.gobcan.es/juriscan/ficha.jsp?id=72176
 ---
+
+
 # Resolución de 18 de febrero de 2015, por la que se dispone la publicación del Reglamento de acceso a la Universidad de La Laguna para mayores de 25, 40 y 45 años.
 
 Otras Administraciones Públicas

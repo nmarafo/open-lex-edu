@@ -18,15 +18,22 @@ clasificacion:
 tags:
 - admision-alumnado
 - curriculo
+- cursos-especializacion
 - educacion-personas-adultas
 - ense-anzas-de-idiomas
 - ensenanzas-deportivas
 - eoi
 - equipos-directivos
 - formacion-profesional
+- neae
 - profesorado
 relaciones:
-  desarrolla: []
+  fundamentado_en:
+  - norma_id: norm-can-d-212-1991
+  - norma_id: norm-can-l-6-2014
+  - norma_id: norm-es-2010-12201
+  - norma_id: norm-es-2021-20113
+  - norma_id: norm-es-lo-2-2006
 fundamentos_derecho:
 - norma_id: norm-can-l-6-2014
   articulos:
@@ -37,6 +44,8 @@ fundamentos_derecho:
 - norma_id: norm-can-d-212-1991
 fuente_pdf_oficial: https://sede.gobiernodecanarias.org/boc/boc-a-2023-085-1356.pdf
 ---
+
+
 # Resolución de 18 de abril de 2023, por la que se dictan instrucciones para la organización de los cursos de especialización en idiomas y se regula la planificación y autorización de su oferta y la admisión del alumnado en las Escuelas Oficiales de Idiomas de la Comunidad Autónoma de Canarias (BOC n.º 85, de 3 de mayo).
 
 III. Otras Resoluciones

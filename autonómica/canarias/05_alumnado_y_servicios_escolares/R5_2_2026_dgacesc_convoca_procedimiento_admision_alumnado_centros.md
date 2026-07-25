@@ -32,8 +32,23 @@ tags:
 - formacion-profesional
 - oposiciones
 - profesorado
+- titulacion
 relaciones:
-  desarrolla: []
+  fundamentado_en:
+  - norma_id: norm-can-d-84-2024
+  - norma_id: norm-can-d-9-2022
+  - norma_id: norm-can-l-6-2014
+  - norma_id: norm-can-res-boc-2026-039-102
+  - norma_id: norm-can-res-boc-2026-039-103
+  - norma_id: norm-can-res-juriscan-65631-68
+  - norma_id: norm-es-2010-12201
+  - norma_id: norm-es-2021-20113
+  - norma_id: norm-es-2024-11613
+  - norma_id: norm-es-lo-2-2006
+  - norma_id: norm-es-lo-3-2018
+  fundamento_de:
+  - norma_id: norm-can-res-110
+  - norma_id: norm-can-res-boc-2026-037-105
 fundamentos_derecho:
 - norma_id: norm-can-l-6-2014
   articulos:
@@ -50,6 +65,8 @@ fundamentos_derecho:
 - norma_id: norm-can-res-boc-2026-039-103
 fuente_pdf_oficial: https://sede.gobiernodecanarias.org/boc/boc-a-2026-039-643.pdf
 ---
+
+
 # Resolución de 5 de febrero de 2026, de la DGACESC, por la que se convoca el procedimiento de admisión del alumnado en centros docentes que oferten enseñanzas de Educación Infantil, Educación Primaria, Educación Secundaria Obligatoria, Bachillerato y Educación de Personas Adultas sostenidos con fondos públicos, para el curso escolar 2026-2027, en la Comunidad Autónoma de Canarias (BOC núm. 31, de 16 de febrero).
 
 III. Otras Resoluciones

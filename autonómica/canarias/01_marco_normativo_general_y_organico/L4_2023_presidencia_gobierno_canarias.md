@@ -18,12 +18,23 @@ clasificacion:
   categoria_canonica: 01_marco_normativo_general_y_organico
   subcategoria: Estructura de la Consejería
 tags:
-- administracion_autonomica
+- administracion-autonomica
+- autonomia-centro
 - estructura-de-la-consejer-a
 - evaluacion
-- gobierno_canarias
+- gobierno-canarias
+- igualdad-genero
 relaciones:
-  desarrolla: []
+  fundamentado_en:
+  - norma_id: norm-can-lo-1-2018
+  - norma_id: norm-es-2010-4518
+  - norma_id: norm-es-2012-9364
+  - norma_id: norm-es-2021-11382
+  - norma_id: norm-es-l-39-2015
+  fundamento_de:
+  - norma_id: norm-can-d-123-2023
+  - norma_id: norm-can-d-84-2024
+  - norma_id: norm-can-res-125
 fundamentos_derecho:
 - norma_id: norm-can-lo-1-2018
   articulos:
@@ -38,6 +49,8 @@ ocr_procesado: true
 motor_ocr: rapidocr_onnxruntime
 anexos_extraidos_pdf: true
 ---
+
+
 # Ley 4/2023, de 23 de marzo, de la Presidencia y del Gobierno de Canarias.
 
 https://sede.gobiernodecanarias.org/boc

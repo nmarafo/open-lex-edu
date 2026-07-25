@@ -20,33 +20,27 @@ clasificacion:
   categoria_canonica: 06_atencion_diversidad_y_orientacion
   subcategoria: Equipos de Orientación (EOEP)
 tags:
+- becas-y-ayudas
 - eoep
-- equipos-de-orientaci-n-eoep
-- evaluacion_psicopedagogica
+- equipos-de-orientacion-eoep
+- evaluacion-psicopedagogica
 - gestion-economica
 - orientacion-educativa
-- orientacion_educativa
 - tutoria
 relaciones:
   desarrolla:
   - norma_id: norm-es-lo-2-2006
-    articulos_origen:
-    - Todos
-    articulos_destino:
-    - 91.1.d
-    nota: Regula el modelo de orientación educativa y psicopedagógica en la red escolar
-      de Canarias.
   desarrollado_por:
   - norma_id: norm-can-o-1-9-2010
-    articulos_origen:
-    - Todos
-    articulos_destino:
-    - Todos
+  fundamentado_en:
+  - norma_id: norm-can-l-6-2014
 fundamentos_derecho:
 - norma_id: norm-can-l-6-2014
   articulos:
   - '25'
 ---
+
+
 # Decreto 23/1995, de 24 de febrero, por el que se regula la orientación educativa en la Comunidad Autónoma de Canarias.
 
 Gobierno de Canarias

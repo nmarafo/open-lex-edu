@@ -23,52 +23,61 @@ tags:
 - empleados-p-blicos
 - oposiciones
 - procedimiento-administrativo
-- regimen_juridico
-- responsabilidad_patrimonial
-- sector_publico
+- regimen-juridico
+- responsabilidad-patrimonial
+- sector-publico
 relaciones:
-  desarrolla: []
   desarrollado_por:
-  - norma_id: norm-can-res-boc-2022-138-7
-    articulos_origen:
-    - Todos
-    articulos_destino:
-    - Todos
   - norma_id: norm-can-res-098
-    articulos_origen:
-    - Todos
-    articulos_destino:
-    - Todos
-  - norma_id: norm-can-res-juriscan-75634-6
-    articulos_origen:
-    - Todos
-    articulos_destino:
-    - Todos
-  - norma_id: norm-can-res-boc-2019-016-13
-    articulos_origen:
-    - Todos
-    articulos_destino:
-    - Todos
   - norma_id: norm-can-res-boc-2017-235-5
-    articulos_origen:
-    - Todos
-    articulos_destino:
-    - Todos
-  - norma_id: norm-can-res-boc-2019-067-11
-    articulos_origen:
-    - Todos
-    articulos_destino:
-    - Todos
-  - norma_id: norm-es-l-39-2015
-    articulos_origen:
-    - Todos
-    articulos_destino:
-    - Todos
   - norma_id: norm-can-res-boc-2019-016-12
-    articulos_origen:
-    - Todos
-    articulos_destino:
-    - Todos
+  - norma_id: norm-can-res-boc-2019-016-13
+  - norma_id: norm-can-res-boc-2019-067-11
+  - norma_id: norm-can-res-boc-2022-138-7
+  - norma_id: norm-can-res-juriscan-75634-6
+  - norma_id: norm-es-l-39-2015
+  fundamentado_en:
+  - norma_id: norm-es-1985-5392
+  - norma_id: norm-es-1999-23750
+  - norma_id: norm-es-2000-544
+  - norma_id: norm-es-2013-12632
+  - norma_id: norm-es-2013-13756
+  - norma_id: norm-es-ce-1978
+  - norma_id: norm-es-l-19-2013
+  - norma_id: norm-es-l-39-2015
+  - norma_id: norm-es-l-53-1984
+  fundamento_de:
+  - norma_id: norm-can-d-84-2024
+  - norma_id: norm-can-o-2023-09-28
+  - norma_id: norm-can-res-014
+  - norma_id: norm-can-res-028
+  - norma_id: norm-can-res-095
+  - norma_id: norm-can-res-096
+  - norma_id: norm-can-res-097
+  - norma_id: norm-can-res-099
+  - norma_id: norm-can-res-125
+  - norma_id: norm-can-res-boc-2017-020-2
+  - norma_id: norm-can-res-boc-2017-061-4
+  - norma_id: norm-can-res-boc-2017-132-1
+  - norma_id: norm-can-res-boc-2018-086-122
+  - norma_id: norm-can-res-boc-2018-124-126
+  - norma_id: norm-can-res-boc-2018-127-9
+  - norma_id: norm-can-res-boc-2021-038-3
+  - norma_id: norm-can-res-boc-2025-118-46
+  - norma_id: norm-can-res-boc-2026-046-139
+  - norma_id: norm-can-res-boc-2026-060-61
+  - norma_id: norm-can-res-boc-2026-129-26
+  - norma_id: norm-es-2018-6348
+  - norma_id: norm-es-2021-11382
+  - norma_id: norm-es-2022-11589
+  - norma_id: norm-es-2022-1274
+  - norma_id: norm-es-2026-2622
+  - norma_id: norm-es-l-9-2017
+  - norma_id: norm-es-lo-3-2018
+  - norma_id: norm-es-lo-3-2022
+  - norma_id: norm-es-lo-8-2021
+  - norma_id: norm-es-rd-659-2023
+  - norma_id: norm-es-rdl-5-2015
 fundamentos_derecho:
 - norma_id: norm-es-ce-1978
   articulos:
@@ -85,6 +94,8 @@ fundamentos_derecho:
 - norma_id: norm-es-2013-13756
 - norma_id: norm-es-2013-12632
 ---
+
+
 # Ley 40/2015 del Régimen Jurídico del Sector Público
 
 **FELIPE VI**

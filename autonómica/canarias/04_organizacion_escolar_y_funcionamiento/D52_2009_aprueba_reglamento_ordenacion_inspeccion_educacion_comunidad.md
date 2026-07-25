@@ -20,30 +20,21 @@ clasificacion:
   categoria_canonica: 04_organizacion_escolar_y_funcionamiento
   subcategoria: Inspección educativa
 tags:
-- asesoramiento_tecnico
+- asesoramiento-tecnico
 - ebep
 - equipos-directivos
-- evaluacion_sistema
+- evaluacion-sistema
 - inspecci-n-educativa
-- inspeccion_educativa
+- inspeccion-educativa
 - oposiciones
-- reglamento_inspeccion
+- procedimiento-administrativo
+- reglamento-inspeccion
 - retribuciones
 relaciones:
   desarrolla:
   - norma_id: norm-es-lo-2-2006
-    articulos_origen:
-    - Todos
-    articulos_destino:
-    - '148'
-    - '149'
-    - '150'
-    - '151'
-    - '152'
-    - '153'
-    - '154'
-    nota: Desarrolla la estructura, funciones y atribuciones de la Inspección Educativa
-      en la Comunidad Autónoma de Canarias.
+  fundamentado_en:
+  - norma_id: norm-can-l-6-2014
 fundamentos_derecho:
 - norma_id: norm-can-l-6-2014
   articulos:
@@ -53,6 +44,8 @@ fundamentos_derecho:
   - '148'
   - '151'
 ---
+
+
 # Decreto 52/2009, de 12 de mayo, por el que se aprueba el Reglamento de Ordenación de la Inspección de Educación de la Comunidad Autónoma de Canarias.
 
 Gobierno de Canarias

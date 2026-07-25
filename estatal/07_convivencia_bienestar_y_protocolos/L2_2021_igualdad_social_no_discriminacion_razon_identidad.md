@@ -19,11 +19,28 @@ clasificacion:
 tags:
 - admision-alumnado
 - atencion-diversidad
+- autonomia-centro
+- becas-y-ayudas
 - evaluacion
+- igualdad-genero
 - procedimiento-administrativo
+- proteccion-menores
 - protocolos-de-actuaci-n-y-protecci-n
+- titulacion
 relaciones:
-  desarrolla: []
+  fundamentado_en:
+  - norma_id: norm-can-l-1-1997
+  - norma_id: norm-can-l-16-2003
+  - norma_id: norm-can-lo-1-2018
+  - norma_id: norm-es-2010-4518
+  - norma_id: norm-es-2015-8222
+  - norma_id: norm-es-l-39-2015
+  - norma_id: norm-es-l-40-2015
+  - norma_id: norm-es-lo-1-1996
+  - norma_id: norm-es-lo-3-2018
+  fundamento_de:
+  - norma_id: norm-can-d-84-2024
+  - norma_id: norm-can-l-4-2023
 fundamentos_derecho:
 - norma_id: norm-can-lo-1-2018
   articulos:
@@ -37,6 +54,8 @@ fundamentos_derecho:
 - norma_id: norm-es-lo-3-2018
 - norma_id: norm-es-2010-4518
 ---
+
+
 # Ley 2/2021, de 7 de junio, de igualdad social y no discriminación por razón de identidad de género, expresión de género y características sexuales.
 
 Sea notorio a todos los ciudadanos y ciudadanas que el Parlamento de Canarias ha aprobado y yo, en nombre del Rey y de acuerdo con lo que establece el artículo 47.1 del Estatuto de Autonomía de Canarias, promulgo y ordeno la publicación de la Ley 2/2021, de 7 de junio, de igualdad social y no discriminación por razón de identidad de género, expresión de género y características sexuales.

@@ -22,13 +22,19 @@ tags:
 - admision-alumnado
 - autonomia-centro
 - bachillerato
+- conciertos-educativos
 - consejo-escolar
 - formacion-profesional
+- fp-basica
 - gesti-n-econ-mica-de-centros
 - gestion-economica
 - profesorado
 relaciones:
-  desarrolla: []
+  fundamentado_en:
+  - norma_id: norm-es-ce-1978
+  - norma_id: norm-es-lo-8-1985
+  fundamento_de:
+  - norma_id: norm-es-lo-2-2006
 fundamentos_derecho:
 - norma_id: norm-es-ce-1978
   articulos:
@@ -38,6 +44,8 @@ fundamentos_derecho:
   - '1'
   - '6'
 ---
+
+
 # Ley 12/1987, de 2 de julio, sobre establecimiento de la gratuidad de los estudios de Bachillerato, Formación Profesional y Artes Aplicadas y Oficios Artísticos en los Centros públicos y la autonomía de gestión económica de los Centros docentes públicos no universitarios.
 
 **JUAN CARLOS I**

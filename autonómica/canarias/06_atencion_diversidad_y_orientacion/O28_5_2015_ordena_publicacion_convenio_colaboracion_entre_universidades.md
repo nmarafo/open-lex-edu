@@ -19,9 +19,18 @@ clasificacion:
   subcategoria: Centros de Educación Especial (CEE)
 tags:
 - centros-de-educaci-n-especial-cee
+- equipos-directivos
 - neae
 relaciones:
-  desarrolla: []
+  fundamentado_en:
+  - norma_id: norm-can-l-14-1990
+  - norma_id: norm-can-l-6-2014
+  - norma_id: norm-es-1999-23750
+  - norma_id: norm-es-2008-979
+  - norma_id: norm-es-2010-12201
+  - norma_id: norm-es-2016-3229
+  - norma_id: norm-es-2021-20113
+  - norma_id: norm-es-lo-2-2006
 fundamentos_derecho:
 - norma_id: norm-can-l-6-2014
   articulos:
@@ -36,6 +45,8 @@ fundamentos_derecho:
 fuente_pdf_oficial: https://sede.gobiernodecanarias.org/boc/boc-a-2015-111-2756.pdf
 fuente_juriscan: http://www.gobcan.es/juriscan/ficha.jsp?id=72882
 ---
+
+
 # Resolución de 28 de mayo de 2015, por la que se ordena la publicación del Convenio de Colaboración entre la Consejería de Educación, Universidades y Sostenibilidad y la Asociación de Padres de Alumnos con Discapacidad en Aulas Enclave de la Provincia de Las Palmas (APAELP) para la atención educativa del alumnado no universitario con necesidades específicas de apoyo educativo escolarizados en aulas enclave (BOC n.º 111, de 11 de junio).
 
 Presidencia del Gobierno

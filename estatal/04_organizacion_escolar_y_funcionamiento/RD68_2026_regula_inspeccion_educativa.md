@@ -22,13 +22,21 @@ tags:
 - inspeccion-educativa
 - oposiciones
 - profesorado
+- titulacion
 relaciones:
   desarrolla:
   - norma_id: norm-es-rd-276-2007
-    articulos_origen:
-    - Todos
-    articulos_destino:
-    - Todos
+  fundamentado_en:
+  - norma_id: norm-es-2007-5478
+  - norma_id: norm-es-2007-6115
+  - norma_id: norm-es-2010-12201
+  - norma_id: norm-es-2021-20113
+  - norma_id: norm-es-ce-1978
+  - norma_id: norm-es-l-39-2015
+  - norma_id: norm-es-l-40-2015
+  - norma_id: norm-es-lo-2-2006
+  - norma_id: norm-es-lo-8-2021
+  - norma_id: norm-es-rdl-5-2015
 fundamentos_derecho:
 - norma_id: norm-es-ce-1978
   articulos:
@@ -48,6 +56,8 @@ fundamentos_derecho:
 - norma_id: norm-es-2007-5478
 - norma_id: norm-es-rd-276-2007
 ---
+
+
 # Real Decreto 68/2026, de 4 de febrero, por el que se regula la inspección educativa.
 
 El Cuerpo de Inspectores de Educación, como institución, se remonta a 1849, año en que se publica el real decreto de su creación, cuyo preámbulo la justifica por la necesidad del Gobierno de «observar muchas cosas que solo se descubren a los ojos de personas facultativas», con el objetivo último de promover mejoras en la educación.

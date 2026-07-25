@@ -22,37 +22,35 @@ clasificacion:
 tags:
 - curriculo
 - educaci-n-secundaria-obligatoria-eso
-- educacion_secundaria
+- educacion-secundaria
 - ensenanzas-artisticas
-- ensenanzas_minimas
+- ensenanzas-minimas
 - eso
 - evaluacion
 - inclusiva
+- neae
 - oposiciones
-- perfil_salida
+- perfil-salida
+- proteccion-menores
+- titulacion
 relaciones:
   desarrolla:
   - norma_id: norm-es-lo-2-2006
-    articulos_origen:
-    - Todos
-    articulos_destino:
-    - '22'
-    - '24'
-    - '25'
-    - '28'
-    nota: Establece la ordenación y enseñanzas mínimas de la Educación Secundaria
-      Obligatoria.
   desarrollado_por:
   - norma_id: norm-can-d-102-2023
-    articulos_origen:
-    - Todos
-    articulos_destino:
-    - Todos
   - norma_id: norm-es-2023-9553
-    articulos_origen:
-    - Todos
-    articulos_destino:
-    - Todos
+  fundamentado_en:
+  - norma_id: norm-es-2002-12018
+  - norma_id: norm-es-2010-12201
+  - norma_id: norm-es-2021-18812
+  - norma_id: norm-es-2021-20113
+  - norma_id: norm-es-l-39-2015
+  - norma_id: norm-es-lo-3-2018
+  fundamento_de:
+  - norma_id: norm-can-res-boc-2022-243-81
+  - norma_id: norm-can-res-boc-2024-226-44
+  - norma_id: norm-es-2024-10683
+  - norma_id: norm-es-rd-659-2023
 fundamentos_derecho:
 - norma_id: norm-es-lo-2-2006
   articulos:
@@ -70,6 +68,8 @@ fundamentos_derecho:
 - norma_id: norm-es-2021-20113
 - norma_id: norm-es-2010-12201
 ---
+
+
 # Real Decreto 217/2022 - Ordenación y Enseñanzas Mínimas de la Educación Secundaria Obligatoria
 
 La Ley Orgánica 3/2020, de 29 de diciembre, por la que se modifica la [Ley Orgánica 2/2006](../01_marco_normativo_general_y_organico/LO2_2006_educacion_texto_consolidado_modificaciones_lomloe.md), de 3 de mayo, de Educación, introduce importantes cambios, muchos de ellos derivados, tal y como indica la propia ley en su exposición de motivos, de la conveniencia de revisar las medidas previstas en el texto original con objeto de adaptar el sistema educativo a los retos y desafíos del siglo XXI, de acuerdo con los objetivos fijados por la Unión Europea y la UNESCO para la década 2020-2030.

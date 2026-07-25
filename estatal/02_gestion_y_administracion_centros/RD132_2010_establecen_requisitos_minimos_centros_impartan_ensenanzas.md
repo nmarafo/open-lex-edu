@@ -21,26 +21,33 @@ clasificacion:
   categoria_canonica: 02_gestion_y_administracion_centros
   subcategoria: Centros públicos
 tags:
-- aula_instalaciones
+- aula-instalaciones
 - centros-p-blicos
 - curriculo
 - educacion-infantil
 - educacion-primaria
+- ensenanzas-deportivas
+- ensenanzas-universitarias
 - eso
 - evaluacion
-- instalaciones_centros
+- fp-basica
+- instalaciones-centros
 - oposiciones
 - profesorado
-- requisitos_minimos
+- requisitos-minimos
+- titulacion
 relaciones:
   desarrolla:
   - norma_id: norm-es-lo-2-2006
-    articulos_origen:
-    - Todos
-    articulos_destino:
-    - '107'
-    nota: Establece los requisitos mínimos de instalaciones y plantilla para los centros
-      docentes no universitarios.
+  fundamentado_en:
+  - norma_id: norm-es-2010-12201
+  - norma_id: norm-es-2021-20113
+  - norma_id: norm-es-lo-8-1985
+  fundamento_de:
+  - norma_id: norm-can-res-040
+  - norma_id: norm-can-res-boc-2024-230-25
+  - norma_id: norm-es-2012-5337
+  - norma_id: norm-es-rd-476-2013
 fundamentos_derecho:
 - norma_id: norm-es-lo-2-2006
   articulos:
@@ -52,6 +59,8 @@ fundamentos_derecho:
 - norma_id: norm-es-2021-20113
 - norma_id: norm-es-2010-12201
 ---
+
+
 # Real Decreto 132/2010 de Requisitos Mínimos de Centros Docentes
 
 La [Ley Orgánica 8/1985](LO8_1985_reguladora_derecho_educacion.md), de 3 de julio, reguladora del Derecho a la Educación, establece, en su artículo 14, que todos los centros docentes, independientemente de su titularidad, deberán reunir unos requisitos mínimos referidos a titulación académica del profesorado, relación numérica alumno-profesor, instalaciones docentes y deportivas, y número de puestos escolares, para impartir enseñanzas con garantía de calidad. Por su parte, el artículo 23 de la misma ley condiciona la apertura y funcionamiento de los centros docentes privados al principio de autorización administrativa que se concederá siempre que aquellos reúnan los requisitos mínimos establecidos.

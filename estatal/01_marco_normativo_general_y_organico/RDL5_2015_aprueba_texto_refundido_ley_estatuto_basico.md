@@ -21,19 +21,51 @@ clasificacion:
   subcategoria: Empleados públicos
 tags:
 - ebep
-- empleado_publico
+- empleado-publico
 - empleados-p-blicos
-- funcion_publica
+- fp-basica
+- funcion-publica
 - oposiciones
+- procedimiento-administrativo
 - trebep
 relaciones:
-  desarrolla: []
   desarrollado_por:
   - norma_id: norm-can-l-2-1987
-    articulos_origen:
-    - Todos
-    articulos_destino:
-    - Todos
+  fundamentado_en:
+  - norma_id: norm-es-1984-17387
+  - norma_id: norm-es-1985-5392
+  - norma_id: norm-es-2012-9364
+  - norma_id: norm-es-2013-12632
+  - norma_id: norm-es-2015-8470
+  - norma_id: norm-es-ce-1978
+  - norma_id: norm-es-l-40-2015
+  - norma_id: norm-es-l-53-1984
+  fundamento_de:
+  - norma_id: norm-can-d-74-2010
+  - norma_id: norm-can-o-2023-09-28
+  - norma_id: norm-can-res-125
+  - norma_id: norm-can-res-boc-2018-127-9
+  - norma_id: norm-can-res-boc-2026-046-139
+  - norma_id: norm-es-1979-29491
+  - norma_id: norm-es-1985-7820
+  - norma_id: norm-es-1993-23257
+  - norma_id: norm-es-1995-22212
+  - norma_id: norm-es-1996-3102
+  - norma_id: norm-es-1998-10720
+  - norma_id: norm-es-2010-10424
+  - norma_id: norm-es-2012-9364
+  - norma_id: norm-es-2014-7684
+  - norma_id: norm-es-2015-6839
+  - norma_id: norm-es-2015-8470
+  - norma_id: norm-es-2015-9453
+  - norma_id: norm-es-2022-16194
+  - norma_id: norm-es-2024-11613
+  - norma_id: norm-es-2026-2622
+  - norma_id: norm-es-l-9-2017
+  - norma_id: norm-es-lo-10-2022
+  - norma_id: norm-es-lo-3-2018
+  - norma_id: norm-es-rd-1364-2010
+  - norma_id: norm-es-rd-276-2007
 fundamentos_derecho:
 - norma_id: norm-es-ce-1978
   articulos:
@@ -46,6 +78,8 @@ fundamentos_derecho:
 - norma_id: norm-es-2013-12632
 - norma_id: norm-es-2012-9364
 ---
+
+
 # Real Decreto Legislativo 5/2015 (TREBEP)
 
 El artículo uno.g) de la Ley 20/2014, de 29 de octubre, por la que se delega en el Gobierno la potestad de dictar diversos textos refundidos, en virtud de lo establecido en el artículo 82 y siguientes de la Constitución Española, autoriza al Gobierno para aprobar, en el plazo de doce meses a partir de la entrada en vigor de esta ley, un texto refundido en el que se integren, debidamente regularizadas, aclaradas y armonizadas, la Ley 7/2007, de 12 de abril, del Estatuto Básico del Empleado Público, y las disposiciones en materia de régimen jurídico del empleo público contenidas en normas con rango de ley que la hayan modificado, y las que, afectando a su ámbito material, puedan, en su caso, promulgarse antes de la aprobación por Consejo de Ministros de los textos refundidos que procedan y así se haya previsto en las mismas.

@@ -24,9 +24,20 @@ tags:
 - equipos-directivos
 - formacion-profesional
 - inclusiva
+- neae
+- personal-no-docente
 - profesorado
 relaciones:
-  desarrolla: []
+  fundamentado_en:
+  - norma_id: norm-can-d-25-2018
+  - norma_id: norm-can-d-84-2024
+  - norma_id: norm-can-l-6-2014
+  - norma_id: norm-can-res-boc-2019-069-48
+  - norma_id: norm-es-2010-12201
+  - norma_id: norm-es-2021-20113
+  - norma_id: norm-es-l-39-2015
+  - norma_id: norm-es-l-40-2015
+  - norma_id: norm-es-lo-2-2006
 fundamentos_derecho:
 - norma_id: norm-can-l-6-2014
   articulos:
@@ -41,6 +52,8 @@ fundamentos_derecho:
 - norma_id: norm-es-2010-12201
 fuente_pdf_oficial: https://sede.gobiernodecanarias.org/boc/boc-a-2026-060-1011.pdf
 ---
+
+
 # Resolución de la Dirección General de Ordenación de las Enseñanzas, Inclusión e Innovación, por la que se dictan instrucciones para regular la implantación, con carácter de experiencia piloto, del Programa del Diploma del Bachillerato Internacional en centros educativos públicos de la Comunidad Autónoma de Canarias, durante el curso 2026-2027. Presentación de solicitudes de participación del alumnado por vía telemática: del 20 de abril al 11 de mayo (BOC nº 60, de 27 de marzo).
 
 III. Otras Resoluciones

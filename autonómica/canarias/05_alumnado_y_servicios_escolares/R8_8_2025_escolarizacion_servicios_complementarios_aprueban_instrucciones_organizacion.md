@@ -19,6 +19,7 @@ clasificacion:
   subcategoria: Comedores y desayunos escolares
 tags:
 - admision-alumnado
+- becas-y-ayudas
 - comedor-escolar
 - comedores-y-desayunos-escolares
 - ensenanzas-deportivas
@@ -27,8 +28,18 @@ tags:
 - formacion-profesional
 - organizacion-escolar
 - profesorado
+- servicios-complementarios
 relaciones:
-  desarrolla: []
+  fundamentado_en:
+  - norma_id: norm-can-d-114-2011
+  - norma_id: norm-can-d-123-2023
+  - norma_id: norm-can-d-212-1991
+  - norma_id: norm-can-d-84-2024
+  - norma_id: norm-can-l-14-1990
+  - norma_id: norm-can-l-6-2014
+  - norma_id: norm-can-o-25-2-2003
+  - norma_id: norm-can-res-boc-2025-061-88
+  - norma_id: norm-es-l-39-2015
 fundamentos_derecho:
 - norma_id: norm-can-l-6-2014
   articulos:
@@ -43,6 +54,8 @@ fundamentos_derecho:
 - norma_id: norm-can-d-212-1991
 fuente_pdf_oficial: https://sede.gobiernodecanarias.org/boc/boc-a-2025-166-3041.pdf
 ---
+
+
 # Resolución de 8 de agosto de 2025,de la Dirección General de Administración de Centros, Escolarización y Servicios Complementarios por la que se aprueban las instrucciones de organización y funcionamiento de los comedores escolares de los centros docentes públicos no universitarios para el curso escolar 2025-2026 (BOC nº 166, de 22 de agosto).
 
 III. Otras Resoluciones

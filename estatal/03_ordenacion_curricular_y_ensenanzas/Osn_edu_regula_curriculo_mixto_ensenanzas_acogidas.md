@@ -21,11 +21,18 @@ clasificacion:
 tags:
 - bachillerato
 - curriculo
+- eoi
 - eso
 - evaluacion
 - profesorado
+- titulacion
 relaciones:
-  desarrolla: []
+  fundamentado_en:
+  - norma_id: norm-es-2010-12201
+  - norma_id: norm-es-2010-4130
+  - norma_id: norm-es-2021-20113
+  - norma_id: norm-es-ce-1978
+  - norma_id: norm-es-lo-2-2006
 fundamentos_derecho:
 - norma_id: norm-es-ce-1978
   articulos:
@@ -38,6 +45,8 @@ fundamentos_derecho:
 - norma_id: norm-es-2021-20113
 - norma_id: norm-es-2010-12201
 ---
+
+
 # Orden EDU/2157/2010, de 30 de julio, por la que se regula el currículo mixto de las enseñanzas acogidas al Acuerdo entre el Gobierno de España y el Gobierno de Francia relativo a la doble titulación de Bachiller y de Baccalauréat en centros docentes españoles, así como los requisitos para su obtención.
 
 La [Ley Orgánica 2/2006](../01_marco_normativo_general_y_organico/LO2_2006_educacion_texto_consolidado_modificaciones_lomloe.md), de 3 de mayo, de Educación, recoge en su Preámbulo, como uno de sus principios inspiradores, el compromiso decidido con los objetivos educativos planteados por la Unión Europea para los próximos años. La Unión Europea y la UNESCO han puesto de manifiesto la necesidad de abrir los sistemas educativos al mundo exterior, lo que exige, entre otros requisitos, mejorar el aprendizaje de idiomas extranjeros, aumentar la movilidad y los intercambios, y reforzar la cooperación europea.

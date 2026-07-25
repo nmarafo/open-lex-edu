@@ -25,9 +25,30 @@ tags:
 - eso
 - evaluacion
 - formacion-profesional
+- grado-medio
+- grado-superior
 - oposiciones
+- titulacion
 relaciones:
-  desarrolla: []
+  fundamentado_en:
+  - norma_id: norm-can-res-134
+  - norma_id: norm-can-res-boc-2024-230-25
+  - norma_id: norm-es-2001-7022
+  - norma_id: norm-es-2007-10487
+  - norma_id: norm-es-2010-12201
+  - norma_id: norm-es-2013-12632
+  - norma_id: norm-es-2021-20113
+  - norma_id: norm-es-2024-11613
+  - norma_id: norm-es-2026-15301
+  - norma_id: norm-es-l-31-1995
+  - norma_id: norm-es-l-39-2015
+  - norma_id: norm-es-lo-2-2006
+  - norma_id: norm-es-lo-3-2018
+  - norma_id: norm-es-lo-3-2022
+  - norma_id: norm-es-rd-243-2022
+  - norma_id: norm-es-rd-659-2023
+  fundamento_de:
+  - norma_id: norm-es-2026-15301
 fundamentos_derecho:
 - norma_id: norm-es-l-39-2015
   articulos:
@@ -48,6 +69,8 @@ fundamentos_derecho:
 - norma_id: norm-es-2010-12201
 - norma_id: norm-es-2013-12632
 ---
+
+
 # [Real Decreto 452/2026](RD452_2026_correccion_errores_real_decreto_establece_ordenacion.md), de 3 de junio, por el que se establece la ordenación de las Enseñanzas Profesionales de Artes Plásticas y Diseño.
 
 La [Ley Orgánica 2/2006](../01_marco_normativo_general_y_organico/LO2_2006_educacion_texto_consolidado_modificaciones_lomloe.md), de 3 de mayo, de Educación, incluye las Enseñanzas Profesionales de Artes Plásticas y Diseño entre las enseñanzas artísticas, a las que dedica el capítulo VI de su título I. Su finalidad es proporcionar una formación artística de calidad al alumnado y garantizar la cualificación de los futuros profesionales del ámbito de las artes plásticas y el diseño.

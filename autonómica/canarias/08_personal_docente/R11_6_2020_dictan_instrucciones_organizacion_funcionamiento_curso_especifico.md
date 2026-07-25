@@ -19,11 +19,17 @@ tags:
 - educacion-personas-adultas
 - ensenanzas-deportivas
 - equipos-directivos
-- formaci-n-del-profesorado
+- formacion-del-profesorado
 - formacion-profesional
+- grado-medio
 - oposiciones
 relaciones:
-  desarrolla: []
+  fundamentado_en:
+  - norma_id: norm-can-d-135-2016
+  - norma_id: norm-can-l-6-2014
+  - norma_id: norm-es-2010-12201
+  - norma_id: norm-es-2021-20113
+  - norma_id: norm-es-lo-2-2006
 fundamentos_derecho:
 - norma_id: norm-can-l-6-2014
   articulos:
@@ -34,6 +40,8 @@ fundamentos_derecho:
 - norma_id: norm-can-d-135-2016
 fuente_pdf_oficial: https://sede.gobiernodecanarias.org/boc/boc-a-2020-130-2054.pdf
 ---
+
+
 # Resolución de 11 de junio de 2020, por la que se dictan instrucciones para la organización y el funcionamiento del Curso Específico de Acceso a Ciclos Formativos de Formación Profesional de Grado Medio a impartir en centros de educación de personas adultas dependientes de esta Consejería (BOC n.º 130, de 30 de junio).
 
 Martes 30 de junio de 2020

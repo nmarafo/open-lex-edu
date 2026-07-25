@@ -24,8 +24,16 @@ tags:
 - equipos-directivos
 - evaluacion
 - formacion-profesional
+- grado-medio
 relaciones:
-  desarrolla: []
+  fundamentado_en:
+  - norma_id: norm-can-d-135-2016
+  - norma_id: norm-can-d-212-1991
+  - norma_id: norm-can-l-6-2014
+  - norma_id: norm-es-2007-10487
+  - norma_id: norm-es-2010-12201
+  - norma_id: norm-es-2021-20113
+  - norma_id: norm-es-lo-2-2006
 fundamentos_derecho:
 - norma_id: norm-can-l-6-2014
   articulos:
@@ -38,6 +46,8 @@ fundamentos_derecho:
 - norma_id: norm-can-d-212-1991
 fuente_pdf_oficial: https://sede.gobiernodecanarias.org/boc/boc-a-2017-220-5354.pdf
 ---
+
+
 # Resolución de 6 de noviembre de 2017, de la Dirección General de Formación Profesional y Educación de Adultos, por la que se dictan instrucciones para la organización y la evaluación de los módulos de obra final y de proyecto integrado de las enseñanzas profesionales de Artes Plásticas y Diseño en la Comunidad Autónoma de Canarias (BOC n.º 220, de 15 de noviembre).
 
 https://sede.gobcan.es/cpji/boc

@@ -24,9 +24,13 @@ tags:
 - eso
 - evaluacion
 - formacion-profesional
+- fp-basica
 - roc
+- titulacion
 relaciones:
-  desarrolla: []
+  fundamentado_en:
+  - norma_id: norm-can-l-6-2014
+  - norma_id: norm-es-rd-217-2022
 fundamentos_derecho:
 - norma_id: norm-can-l-6-2014
   articulos:
@@ -34,6 +38,8 @@ fundamentos_derecho:
 - norma_id: norm-es-rd-217-2022
 fuente_pdf_oficial: https://sede.gobiernodecanarias.org/boc/boc-a-2022-243-3774.pdf
 ---
+
+
 # Resolución de 28 de noviembre de 2022, por la que se adaptan los documentos oficiales de evaluación a la Educación Básica de Personas Adultas en la Comunidad Autónoma de Canarias (BOC n.º 243, de 13 de diciembre).
 
 III. Otras Resoluciones

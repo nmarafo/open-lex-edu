@@ -23,25 +23,18 @@ tags:
 - ampas
 - asociaciones-de-padres-y-madres-ampas
 - bachillerato
-- comunidad_educativa
+- comunidad-educativa
 - formacion-profesional
-- participacion_familias
+- fp-basica
+- participacion-familias
 - profesorado
 relaciones:
   desarrolla:
   - norma_id: norm-es-lo-8-1985
-    articulos_origen:
-    - Todos
-    articulos_destino:
-    - '5'
-    nota: Desarrolla el derecho de participación de los padres de alumnos regulado
-      en el artículo 5 de la LODE.
   desarrollado_por:
   - norma_id: norm-can-d-234-1996
-    articulos_origen:
-    - Todos
-    articulos_destino:
-    - Todos
+  fundamentado_en:
+  - norma_id: norm-es-ce-1978
 fundamentos_derecho:
 - norma_id: norm-es-lo-8-1985
   articulos:
@@ -50,6 +43,8 @@ fundamentos_derecho:
   articulos:
   - '27'
 ---
+
+
 # Real Decreto 1533/1986 por el que se regulan las asociaciones de padres de alumnos
 
 El artículo 5.º de la [Ley Orgánica 8/1985](../02_gestion_y_administracion_centros/LO8_1985_reguladora_derecho_educacion.md), de 3 de julio, reguladora del Derecho a la Educación, garantiza la libertad de asociación de padres de alumnos remitiendo a un reglamento posterior la regulación de las características específicas de dichas asociaciones. Por ello, el presente Real Decreto viene a dar cumplimiento a dicha previsión legal, dictándose de acuerdo con la autorización que al Gobierno le concede la disposición final primera de la citada Ley Orgánica.

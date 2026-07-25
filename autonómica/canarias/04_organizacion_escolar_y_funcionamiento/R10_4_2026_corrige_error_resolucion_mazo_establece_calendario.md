@@ -21,13 +21,19 @@ tags:
 - admision-alumnado
 - calendario-escolar-y-jornadas
 - ensenanzas-deportivas
+- ensenanzas-universitarias
 - equipos-directivos
 - formacion-profesional
 - organizacion-escolar
 - permisos-licencias
 - procedimiento-administrativo
 relaciones:
-  desarrolla: []
+  fundamentado_en:
+  - norma_id: norm-can-l-6-2014
+  - norma_id: norm-can-res-boc-2026-077-49
+  - norma_id: norm-es-l-39-2015
+  fundamento_de:
+  - norma_id: norm-can-res-boc-2026-077-49
 fundamentos_derecho:
 - norma_id: norm-can-l-6-2014
   articulos:
@@ -36,6 +42,8 @@ fundamentos_derecho:
 - norma_id: norm-can-res-boc-2026-077-49
 fuente_pdf_oficial: https://sede.gobiernodecanarias.org/boc/boc-a-2026-075-1240.pdf
 ---
+
+
 # [Resolución de 10 de abril de 2026](../03_ordenacion_curricular_y_ensenanzas/R10_4_2026_convocan_pruebas_certificacion_ensenanzas_idiomas_regimen.md), por la que se corrige error en la Resolución de 17 de mazo de 2026, que establece el calendario escolar y dicta instrucciones para la organización y desarrollo de las actividades de comienzo y finalización del curso 2026-2027, para los centros de enseñanzas no universitarias de la Comunidad Autónoma de Canaria.(BOC n.º 61, de 30.3.2026).
 
 III. Otras Resoluciones

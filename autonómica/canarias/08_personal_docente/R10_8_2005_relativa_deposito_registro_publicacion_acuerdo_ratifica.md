@@ -17,14 +17,21 @@ clasificacion:
   categoria_canonica: 08_personal_docente
   subcategoria: Permisos, licencias y vacaciones
 tags:
+- convivencia-escolar
 - ensenanzas-deportivas
 - equipos-directivos
+- interinos
 - permisos-licencias
 - permisos-licencias-y-vacaciones
 - procedimiento-administrativo
 - profesorado
+- proteccion-menores
 relaciones:
-  desarrolla: []
+  fundamentado_en:
+  - norma_id: norm-can-l-14-1990
+  - norma_id: norm-can-l-2-1987
+  - norma_id: norm-can-l-6-2014
+  - norma_id: norm-es-l-39-2015
 fundamentos_derecho:
 - norma_id: norm-can-l-6-2014
   articulos:
@@ -35,6 +42,8 @@ fundamentos_derecho:
 fuente_pdf_oficial: http://www.gobiernodecanarias.org/boc/2005/167/boc-2005-167-019.pdf
 fuente_juriscan: http://www.gobiernodecanarias.org/juriscan/ficha.jsp?id=64565
 ---
+
+
 # Resolución de 10 de agosto de 2005, de la Dirección General de Trabajo de la Consejería de Empleo y Asuntos Sociales, relativa a depósito, registro y publicación del Acuerdo por el que se ratifica el Segundo Protocolo para la Gestión del Profesorado Interino y Sustituto del Sistema Educativo Público Canario (Consejería de Educación, Cultura y Deportes) (BOC n.º 167, de 25 de agosto).
 
 cidos en el artículo 107 de la Ley 30/1992, de 26 de

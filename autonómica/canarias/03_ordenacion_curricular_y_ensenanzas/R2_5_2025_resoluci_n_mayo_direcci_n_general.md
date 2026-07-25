@@ -20,11 +20,22 @@ tags:
 - curriculo
 - ensenanzas-deportivas
 - equipos-directivos
-- formaci-n-profesional
 - formacion-profesional
 - oposiciones
+- personal-no-docente
 relaciones:
-  desarrolla: []
+  fundamentado_en:
+  - norma_id: norm-can-d-84-2024
+  - norma_id: norm-can-l-6-2014
+  - norma_id: norm-can-lo-1-2018
+  - norma_id: norm-can-res-boc-2024-230-25
+  - norma_id: norm-es-2020-17274
+  - norma_id: norm-es-2021-979
+  - norma_id: norm-es-2024-10684
+  - norma_id: norm-es-2024-10685
+  - norma_id: norm-es-rd-659-2023
+  fundamento_de:
+  - norma_id: norm-can-res-boc-2026-141-29
 fundamentos_derecho:
 - norma_id: norm-can-l-6-2014
   articulos:
@@ -39,6 +50,8 @@ fundamentos_derecho:
 - norma_id: norm-es-rd-659-2023
 fuente_pdf_oficial: https://sede.gobiernodecanarias.org/boc/boc-a-2025-093-1761.pdf
 ---
+
+
 # Resolución de 2 de mayo de 2025, de la Dirección General de Formación Profesional y Enseñanzas de Régimen Especial por la que se dictan instrucciones para la organización de la oferta de dobles titulaciones de formación profesional (Grados D) de ciclos formativos con el primer curso en común en la Comunidad Autónoma de Canarias a partir del curso 2025/2026 (BOC n.º 93, de 12 de mayo).
 
 III. Otras Resoluciones

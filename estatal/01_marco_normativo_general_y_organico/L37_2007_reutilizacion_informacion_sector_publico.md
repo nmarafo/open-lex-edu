@@ -18,8 +18,18 @@ clasificacion:
   subcategoria: Empleados públicos
 tags:
 - empleados-p-blicos
+- equipos-directivos
+- transparencia
 relaciones:
-  desarrolla: []
+  fundamentado_en:
+  - norma_id: norm-es-1999-23750
+  - norma_id: norm-es-ce-1978
+  - norma_id: norm-es-l-39-2015
+  - norma_id: norm-es-lo-3-2018
+  fundamento_de:
+  - norma_id: norm-es-2011-17560
+  - norma_id: norm-es-l-19-2013
+  - norma_id: norm-es-l-9-2017
 fundamentos_derecho:
 - norma_id: norm-es-ce-1978
   articulos:
@@ -32,6 +42,8 @@ fundamentos_derecho:
   - '1'
 - norma_id: norm-es-1999-23750
 ---
+
+
 # Ley 37/2007, de 16 de noviembre, sobre reutilización de la información del sector público.
 
 **JUAN CARLOS I**

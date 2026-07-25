@@ -25,10 +25,13 @@ tags:
 relaciones:
   desarrolla:
   - norma_id: norm-es-l-40-2015
-    articulos_origen:
-    - Todos
-    articulos_destino:
-    - Todos
+  fundamentado_en:
+  - norma_id: norm-can-d-135-2016
+  - norma_id: norm-can-l-6-2014
+  - norma_id: norm-can-res-boc-2019-016-12
+  - norma_id: norm-es-l-39-2015
+  fundamento_de:
+  - norma_id: norm-can-res-boc-2019-016-12
 fundamentos_derecho:
 - norma_id: norm-can-l-6-2014
   articulos:
@@ -39,6 +42,8 @@ fundamentos_derecho:
 - norma_id: norm-can-d-135-2016
 fuente_pdf_oficial: https://sede.gobiernodecanarias.org/boc/boc-a-2019-016-311.pdf
 ---
+
+
 # Secretaría General Técnica.- [Resolución de 9 de enero de 2019](R9_1_2019_resolucion_crea_sello_electronico.md), por la que se crea el sello electrónico de la Dirección General de Formación Profesional y Educación de Adultos de la Consejería de Educación y Universidades (BOC n.º 16, de 24 de enero).
 
 Jueves 24 de enero de 2019

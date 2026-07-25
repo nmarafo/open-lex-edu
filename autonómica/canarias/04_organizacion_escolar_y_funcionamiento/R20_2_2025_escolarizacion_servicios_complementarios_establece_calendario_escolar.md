@@ -20,15 +20,25 @@ clasificacion:
   subcategoria: Calendario escolar y jornadas
 tags:
 - admision-alumnado
+- autonomia-centro
 - calendario-escolar-y-jornadas
 - ensenanzas-deportivas
+- ensenanzas-universitarias
 - equipos-directivos
 - formacion-profesional
 - organizacion-escolar
 - profesorado
 - roc
 relaciones:
-  desarrolla: []
+  fundamentado_en:
+  - norma_id: norm-can-d-123-2023
+  - norma_id: norm-can-d-84-2024
+  - norma_id: norm-can-l-6-2014
+  - norma_id: norm-can-o-2013-10-09
+  - norma_id: norm-can-res-boc-2025-061-88
+  - norma_id: norm-es-2010-12201
+  - norma_id: norm-es-2021-20113
+  - norma_id: norm-es-lo-2-2006
 fundamentos_derecho:
 - norma_id: norm-can-l-6-2014
   articulos:
@@ -42,6 +52,8 @@ fundamentos_derecho:
 - norma_id: norm-can-res-boc-2025-061-88
 fuente_pdf_oficial: https://sede.gobiernodecanarias.org/boc/boc-a-2025-044-886.pdf
 ---
+
+
 # Resolución de la Dirección General de Administración de Centros, Escolarización y Servicios Complementarios, de 20 de febrero de 2025, por la que se establece el calendario escolar y se dictan instrucciones para la organización y desarrollo de las actividades de comienzo y finalización del curso 2025-2026, para los centros de enseñanzas no universitarias de la Comunidad Autónoma de Canarias (BOC n.º 44, de 4 de marzo).
 
 III. Otras Resoluciones

@@ -18,12 +18,34 @@ clasificacion:
   subcategoria: Formación Profesional
 tags:
 - convivencia
+- convivencia-escolar
 - evaluacion
-- formaci-n-profesional
 - formacion-profesional
 - orientacion-educativa
 relaciones:
-  desarrolla: []
+  fundamentado_en:
+  - norma_id: norm-es-2001-7022
+  - norma_id: norm-es-ce-1978
+  - norma_id: norm-es-l-31-1995
+  - norma_id: norm-es-l-53-1984
+  - norma_id: norm-es-lo-8-1985
+  fundamento_de:
+  - norma_id: norm-can-res-boc-2019-143-74
+  - norma_id: norm-can-res-boc-2026-039-103
+  - norma_id: norm-es-2005-21534
+  - norma_id: norm-es-2007-19326
+  - norma_id: norm-es-2010-13564
+  - norma_id: norm-es-2011-12632
+  - norma_id: norm-es-2013-10219
+  - norma_id: norm-es-2014-5591
+  - norma_id: norm-es-2015-9462
+  - norma_id: norm-es-2022-1274
+  - norma_id: norm-es-2025-2039
+  - norma_id: norm-es-lo-2-2006
+  - norma_id: norm-es-lo-3-2022
+  - norma_id: norm-es-rd-217-2022
+  - norma_id: norm-es-rd-659-2023
+  - norma_id: norm-es-rdl-2-2015
 fundamentos_derecho:
 - norma_id: norm-es-ce-1978
   articulos:
@@ -35,6 +57,8 @@ fundamentos_derecho:
 - norma_id: norm-es-2001-7022
 - norma_id: norm-es-lo-8-1985
 ---
+
+
 # Ley Orgánica 5/2002, de 19 de junio, de las Cualificaciones y de la Formación Profesional.
 
 **JUAN CARLOS I**

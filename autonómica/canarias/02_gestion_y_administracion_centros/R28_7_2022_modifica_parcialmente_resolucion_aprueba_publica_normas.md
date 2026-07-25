@@ -17,6 +17,7 @@ clasificacion:
   subcategoria: Centros privados concertados
 tags:
 - centros-privados-concertados
+- conciertos-educativos
 - ensenanzas-deportivas
 - equipos-directivos
 - interinos
@@ -24,7 +25,15 @@ tags:
 - profesorado
 - roc
 relaciones:
-  desarrolla: []
+  fundamentado_en:
+  - norma_id: norm-can-l-6-2014
+  - norma_id: norm-es-2010-12201
+  - norma_id: norm-es-2021-20113
+  - norma_id: norm-es-l-39-2015
+  - norma_id: norm-es-lo-2-2006
+  - norma_id: norm-es-lo-8-1985
+  - norma_id: norm-es-rd-2377-1985
+  - norma_id: norm-es-rdl-2-2015
 fundamentos_derecho:
 - norma_id: norm-can-l-6-2014
   articulos:
@@ -38,6 +47,8 @@ fundamentos_derecho:
 - norma_id: norm-es-rdl-2-2015
 fuente_pdf_oficial: https://sede.gobiernodecanarias.org/boc/boc-a-2022-158-2645.pdf
 ---
+
+
 # Resolución de 28 de julio de 2022, por la que se modifica parcialmente la Resolución de 29 de mayo de 2007, que aprueba y publica las normas sobre la gestión del pago delegado de la nómina de personal docente en centros privados concertados (BOC n.º 158, de 10 de agosto).
 
 I. Disposiciones generales

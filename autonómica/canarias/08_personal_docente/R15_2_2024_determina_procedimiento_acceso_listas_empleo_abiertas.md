@@ -24,7 +24,13 @@ tags:
 - oposiciones
 - profesorado
 relaciones:
-  desarrolla: []
+  fundamentado_en:
+  - norma_id: norm-can-l-6-2014
+  - norma_id: norm-es-2010-12201
+  - norma_id: norm-es-2021-20113
+  - norma_id: norm-es-lo-2-2006
+  - norma_id: norm-es-lo-8-2021
+  - norma_id: norm-es-rd-1834-2008
 fundamentos_derecho:
 - norma_id: norm-can-l-6-2014
   articulos:
@@ -36,6 +42,8 @@ fundamentos_derecho:
 - norma_id: norm-es-lo-8-2021
 fuente_pdf_oficial: https://sede.gobiernodecanarias.org/boc/boc-a-2024-048-880.pdf
 ---
+
+
 # Resolución de 15 de febrero de 2024, de la Dirección General de Personal y Formación del Profesorado, por la que se determina el procedimiento para el acceso a listas de empleo abiertas, para el nombramiento de personal docente interino en el ámbito educativo no universitario (BOC nº 48, de 6 de marzo).
 
 II. Autoridades y personal

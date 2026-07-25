@@ -17,6 +17,7 @@ clasificacion:
   subcategoria: Administración electrónica y firmas
 tags:
 - administraci-n-electr-nica-y-firmas
+- ensenanzas-universitarias
 - equipos-directivos
 - evaluacion
 - oposiciones
@@ -24,10 +25,10 @@ tags:
 relaciones:
   desarrolla:
   - norma_id: norm-es-l-40-2015
-    articulos_origen:
-    - Todos
-    articulos_destino:
-    - Todos
+  fundamentado_en:
+  - norma_id: norm-can-l-6-2014
+  - norma_id: norm-es-2012-9282
+  - norma_id: norm-es-l-39-2015
 fundamentos_derecho:
 - norma_id: norm-can-l-6-2014
   articulos:
@@ -38,6 +39,8 @@ fundamentos_derecho:
 fuente_pdf_oficial: https://sede.gobiernodecanarias.org/boc/boc-a-2017-066-1585.pdf
 fuente_juriscan: http://www.gobiernodecanarias.org/juriscan/ficha.jsp?id=75634
 ---
+
+
 # Secretaría General Técnica.- Resolución de 24 de febrero de 2017, por la que se crea el sello electrónico de la Dirección General de Ordenación, Innovación y Promoción Educativa de la Consejería de Educación y Universidades (BOC n.º 44, de 3 de marzo).
 
 Consejería de Educación y Universidades

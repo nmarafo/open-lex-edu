@@ -21,11 +21,22 @@ tags:
 - admision-alumnado
 - bachillerato
 - ensenanzas-artisticas
+- ensenanzas-universitarias
 - evaluacion
 - formacion-profesional
+- fp-basica
 - oposiciones
+- titulacion
 relaciones:
-  desarrolla: []
+  fundamentado_en:
+  - norma_id: norm-es-2010-12201
+  - norma_id: norm-es-2016-3229
+  - norma_id: norm-es-2021-20113
+  - norma_id: norm-es-ce-1978
+  - norma_id: norm-es-lo-2-2006
+  fundamento_de:
+  - norma_id: norm-can-res-juriscan-72176-78
+  - norma_id: norm-es-2023-3846
 fundamentos_derecho:
 - norma_id: norm-es-ce-1978
   articulos:
@@ -38,6 +49,8 @@ fundamentos_derecho:
 - norma_id: norm-es-2021-20113
 - norma_id: norm-es-2010-12201
 ---
+
+
 # Real Decreto 412/2014, de 6 de junio, por el que se establece la normativa básica de los procedimientos de admisión a las enseñanzas universitarias oficiales de Grado.
 
 La [Ley Orgánica 8/2013](LO462_2016_ecd_regula_procedimiento_incorporacion_alumnado_curso.md), de 9 de diciembre, para la Mejora de la Calidad Educativa (LOMCE) modifica los requisitos de acceso y admisión a las enseñanzas oficiales de Grado desde el título de Bachiller o equivalente, desde el título de Técnico Superior de Formación Profesional, de Técnico Superior de Artes Plásticas y Diseño o de Técnico Deportivo Superior así como para los estudiantes procedentes de sistemas educativos extranjeros.

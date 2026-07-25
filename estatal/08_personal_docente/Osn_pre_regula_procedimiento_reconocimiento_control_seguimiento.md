@@ -20,9 +20,14 @@ clasificacion:
   subcategoria: Salud laboral y vigilancia
 tags:
 - curriculo
+- personal-no-docente
+- prevencion-riesgos-laborales
 - salud-laboral-y-vigilancia
 relaciones:
-  desarrolla: []
+  fundamentado_en:
+  - norma_id: norm-es-1999-23750
+  - norma_id: norm-es-rd-39-1997
+  - norma_id: norm-es-rdl-5-2015
 fundamentos_derecho:
 - norma_id: norm-es-rdl-5-2015
   articulos:
@@ -30,6 +35,8 @@ fundamentos_derecho:
 - norma_id: norm-es-1999-23750
 - norma_id: norm-es-rd-39-1997
 ---
+
+
 # Orden PRE/1744/2010, de 30 de junio, por la que se regula el procedimiento de reconocimiento, control y seguimiento de las situaciones de incapacidad temporal, riesgo durante el embarazo y riesgo durante la lactancia natural en el Régimen Especial de la Seguridad Social de los Funcionarios Civiles del Estado.
 
 El Reglamento General del Mutualismo Administrativo, aprobado por Real Decreto 375/2003, de 28 de marzo (en adelante «el Reglamento») desarrolla en sus artículos 88 a 101, lo dispuesto en el texto refundido de la Ley sobre Seguridad Social de los Funcionarios Civiles del Estado, aprobado por Real Decreto Legislativo 4/2000, de 23 de junio, en cuanto a las prestaciones por incapacidad temporal y por riesgo durante el embarazo y durante la lactancia natural, determinando la definición de las contingencias protegidas, así como la duración y extinción de las situaciones y las reglas aplicables a los subsidios económicos en dichos casos.

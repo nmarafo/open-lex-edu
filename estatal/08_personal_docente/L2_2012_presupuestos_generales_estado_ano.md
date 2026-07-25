@@ -21,9 +21,25 @@ tags:
 - gestion-economica
 - inclusiva
 - jornada-laboral-y-horarios
+- neae
 - oposiciones
+- personal-no-docente
 relaciones:
-  desarrolla: []
+  fundamentado_en:
+  - norma_id: norm-can-l-16-2003
+  - norma_id: norm-es-1984-17387
+  - norma_id: norm-es-1985-5392
+  - norma_id: norm-es-1999-23750
+  - norma_id: norm-es-2000-544
+  - norma_id: norm-es-2003-23399
+  - norma_id: norm-es-2010-12201
+  - norma_id: norm-es-2012-9282
+  - norma_id: norm-es-2021-20113
+  - norma_id: norm-es-ce-1978
+  - norma_id: norm-es-l-31-1995
+  - norma_id: norm-es-lo-2-2006
+  fundamento_de:
+  - norma_id: norm-es-2012-9364
 fundamentos_derecho:
 - norma_id: norm-es-ce-1978
   articulos:
@@ -40,6 +56,8 @@ fundamentos_derecho:
 - norma_id: norm-es-2003-23399
 - norma_id: norm-es-2012-9282
 ---
+
+
 # Ley 2/2012, de 29 de junio, de Presupuestos Generales del Estado para el año 2012.
 
 **JUAN CARLOS I**

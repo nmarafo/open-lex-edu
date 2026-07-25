@@ -27,10 +27,23 @@ tags:
 relaciones:
   desarrolla:
   - norma_id: norm-es-rd-276-2007
-    articulos_origen:
-    - Todos
-    articulos_destino:
-    - Todos
+  fundamentado_en:
+  - norma_id: norm-es-1984-17387
+  - norma_id: norm-es-2010-12201
+  - norma_id: norm-es-2021-20113
+  - norma_id: norm-es-lo-2-2006
+  fundamento_de:
+  - norma_id: norm-es-2009-20550
+  - norma_id: norm-es-2010-11426
+  - norma_id: norm-es-2011-15628
+  - norma_id: norm-es-2015-9453
+  - norma_id: norm-es-2022-16194
+  - norma_id: norm-es-2024-10683
+  - norma_id: norm-es-2024-10684
+  - norma_id: norm-es-2024-10685
+  - norma_id: norm-es-2026-2622
+  - norma_id: norm-es-rd-276-2007
+  - norma_id: norm-es-rd-476-2013
 fundamentos_derecho:
 - norma_id: norm-es-lo-2-2006
   articulos:
@@ -41,6 +54,8 @@ fundamentos_derecho:
 - norma_id: norm-es-2010-12201
 - norma_id: norm-es-rd-276-2007
 ---
+
+
 # Orden ECI/592/2007, de 12 de marzo, por la que se aprueba el temario que ha de regir en el procedimiento de ingreso, accesos y adquisición de nuevas especialidades, para la especialidad de Primaria en el Cuerpo de Maestros, regulada por el [Real Decreto 276/2007](LO276_2007_aprueba_reglamento_ingreso_accesos_adquisicion_nuevas.md), de 23 de febrero.
 
 La [Ley Orgánica 2/2006](../01_marco_normativo_general_y_organico/LO2_2006_educacion_texto_consolidado_modificaciones_lomloe.md), de 3 de mayo, de Educación, en su disposición adicional sexta establece que, además de las recogidas en la [Ley 30/1984](../01_marco_normativo_general_y_organico/L30_1984_medidas_reforma_funcion_publica.md), de 2 de agosto, de Medidas para la Reforma de la Función Pública, modificada por la Ley 23/1988, de 28 de julio, son bases de régimen estatutario de los funcionarios públicos docentes, las reguladas por la propia Ley Orgánica y la normativa que la desarrolla, para el ingreso y la movilidad entre los cuerpos docentes, encomendando al Gobierno su desarrollo reglamentario en aquellos aspectos básicos que sean necesarios para garantizar el marco común básico de la función pública docente.

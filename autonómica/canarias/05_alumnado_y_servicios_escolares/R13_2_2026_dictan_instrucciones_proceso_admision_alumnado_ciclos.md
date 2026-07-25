@@ -29,7 +29,37 @@ tags:
 - oposiciones
 - profesorado
 relaciones:
-  desarrolla: []
+  fundamentado_en:
+  - norma_id: norm-can-d-84-2024
+  - norma_id: norm-can-d-9-2022
+  - norma_id: norm-can-l-6-2014
+  - norma_id: norm-can-res-134
+  - norma_id: norm-can-res-boc-2017-132-1
+  - norma_id: norm-can-res-boc-2024-230-25
+  - norma_id: norm-can-res-boc-2026-039-102
+  - norma_id: norm-es-1988-3987
+  - norma_id: norm-es-1988-6938
+  - norma_id: norm-es-2000-544
+  - norma_id: norm-es-2001-7022
+  - norma_id: norm-es-2002-12018
+  - norma_id: norm-es-2002-25289
+  - norma_id: norm-es-2007-10487
+  - norma_id: norm-es-2007-19326
+  - norma_id: norm-es-2010-12201
+  - norma_id: norm-es-2020-17274
+  - norma_id: norm-es-2021-20113
+  - norma_id: norm-es-2021-979
+  - norma_id: norm-es-2024-10685
+  - norma_id: norm-es-lo-2-2006
+  - norma_id: norm-es-lo-3-2022
+  - norma_id: norm-es-rd-659-2023
+  fundamento_de:
+  - norma_id: norm-can-res-099
+  - norma_id: norm-can-res-112
+  - norma_id: norm-can-res-boc-2026-039-102
+  - norma_id: norm-can-res-boc-2026-039-111
+  - norma_id: norm-can-res-boc-2026-073-113
+  - norma_id: norm-can-res-boc-2026-132-101
 fundamentos_derecho:
 - norma_id: norm-can-l-6-2014
   articulos:
@@ -58,6 +88,8 @@ fundamentos_derecho:
 - norma_id: norm-can-res-boc-2026-039-102
 fuente_pdf_oficial: https://sede.gobiernodecanarias.org/boc/boc-a-2026-039-641.pdf
 ---
+
+
 # [Resolución de 13 de febrero de 2026](R13_2_2026_convoca_procedimiento_admision_alumnado_ciclos_formativos.md), por la que se dictan instrucciones sobre el proceso de admisión del alumnado a Ciclos Formativos de Grado Básico, Medio y Superior (Grado D, niveles 1, 2 y 3, respectivamente) de las Enseñanzas de Formación Profesional de Grados D, Enseñanzas Profesionales de Artes Plásticas y Diseño, Enseñanzas Elementales y Profesionales de Música, Enseñanzas de Idiomas y Enseñanzas Deportivas en centros docentes sostenidos con fondos públicos en la Comunidad Autónoma de Canarias para el curso escolar 2026-2027.
 
 III. Otras Resoluciones

@@ -20,12 +20,24 @@ clasificacion:
 tags:
 - bachillerato
 - centros-privados
+- conciertos-educativos
 - eso
 - evaluacion
 - formacion-profesional
 - profesorado
+- titulacion
 relaciones:
-  desarrolla: []
+  fundamentado_en:
+  - norma_id: norm-es-2001-7022
+  - norma_id: norm-es-2007-5478
+  - norma_id: norm-es-2010-12201
+  - norma_id: norm-es-2021-20113
+  - norma_id: norm-es-lo-2-2006
+  - norma_id: norm-es-rd-1834-2008
+  - norma_id: norm-es-rd-276-2007
+  fundamento_de:
+  - norma_id: norm-es-2011-13117
+  - norma_id: norm-es-2015-8043
 fundamentos_derecho:
 - norma_id: norm-es-lo-2-2006
   articulos:
@@ -38,6 +50,8 @@ fundamentos_derecho:
 - norma_id: norm-es-2007-5478
 - norma_id: norm-es-rd-276-2007
 ---
+
+
 # Real Decreto 860/2010, de 2 de julio, por el que se regulan las condiciones de formación inicial del profesorado de los centros privados para ejercer la docencia en las enseñanzas de educación secundaria obligatoria o de bachillerato.
 
 El artículo 94 de la [Ley Orgánica 2/2006](../01_marco_normativo_general_y_organico/LO2_2006_educacion_texto_consolidado_modificaciones_lomloe.md), de 3 de mayo, de Educación, supedita el ejercicio de la docencia en las enseñanzas de Educación Secundaria Obligatoria y de Bachillerato a dos requisitos de formación. En primer lugar, será necesario tener un título oficial de Licenciado, Ingeniero o Arquitecto, o un título de Educación superior de Graduado, sin perjuicio de la habilitación de otras titulaciones que, a efectos de docencia pudiera establecerse. Además, será necesario estar en posesión de un título oficial de Máster que acredite la formación pedagógica y didáctica de acuerdo con lo exigido por el artículos 94 de la [Ley Orgánica 2/2006](../01_marco_normativo_general_y_organico/LO2_2006_educacion_texto_consolidado_modificaciones_lomloe.md), de 3 de mayo, de Educación.

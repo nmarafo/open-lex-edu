@@ -25,8 +25,14 @@ tags:
 - eoi
 - equipos-directivos
 - formacion-profesional
+- fp-basica
 relaciones:
-  desarrolla: []
+  fundamentado_en:
+  - norma_id: norm-can-l-1-1997
+  - norma_id: norm-can-l-2-1987
+  - norma_id: norm-can-l-6-2014
+  - norma_id: norm-es-1984-17387
+  - norma_id: norm-es-2001-7022
 fundamentos_derecho:
 - norma_id: norm-can-l-6-2014
   articulos:
@@ -38,6 +44,8 @@ fundamentos_derecho:
 fuente_pdf_oficial: http://www.gobiernodecanarias.org/boc/2004/160/boc-2004-160-003.pdf
 fuente_juriscan: http://www.gobcan.es/juriscan/ficha.jsp?id=49002
 ---
+
+
 # Resolución de 23 de julio de 2004, de la Dirección General de Formación Profesional y Educación de Adultos, por la que se dictan instrucciones para la organización y funcionamiento de las Escuelas Oficiales de Idiomas dependientes de la Consejería de Educación, Cultura y Deportes del Gobierno de Canarias (BOC n.º 160, de 19 de agosto).
 
 ción de Adultos, no realizando la matrícula definiti-

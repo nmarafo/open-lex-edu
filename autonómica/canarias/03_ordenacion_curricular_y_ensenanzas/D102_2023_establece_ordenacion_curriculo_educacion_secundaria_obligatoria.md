@@ -20,26 +20,26 @@ clasificacion:
   categoria_canonica: 03_ordenacion_curricular_y_ensenanzas
   subcategoria: Educación Secundaria Obligatoria (ESO)
 tags:
+- admision-alumnado
 - concurso-traslados
 - curriculo
-- curriculo_eso
+- curriculo-eso
 - ebep
 - educaci-n-secundaria-obligatoria-eso
 - equipos-directivos
 - eso
 - evaluacion
-- evaluacion_eso
+- evaluacion-eso
 - interinos
 - oposiciones
-- perfil_salida
+- perfil-salida
 relaciones:
   desarrolla:
   - norma_id: norm-es-rd-217-2022
-    articulos_origen:
-    - Todos
-    articulos_destino:
-    - Todos
-    nota: Establece la ordenación y el currículo de la ESO adaptado a Canarias.
+  fundamentado_en:
+  - norma_id: norm-can-l-6-2014
+  - norma_id: norm-es-l-39-2015
+  - norma_id: norm-es-lo-2-2006
 fundamentos_derecho:
 - norma_id: norm-can-l-6-2014
   articulos:
@@ -53,6 +53,8 @@ fundamentos_derecho:
 - norma_id: norm-es-l-39-2015
 fuente_pdf_oficial: https://sede.gobiernodecanarias.org/boc/boc-a-2023-096-1554.pdf
 ---
+
+
 # Decreto 102/2023, de 9 de mayo, por el que se establece la ordenación y el currículo de la Educación Secundaria Obligatoria en la Comunidad Autónoma de Canarias.
 
 II. Autoridades y personal

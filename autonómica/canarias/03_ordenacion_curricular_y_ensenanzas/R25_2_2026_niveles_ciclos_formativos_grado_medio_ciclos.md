@@ -21,15 +21,38 @@ tags:
 - curriculo
 - ensenanzas-deportivas
 - equipos-directivos
-- formaci-n-profesional
 - formacion-profesional
+- grado-medio
+- grado-superior
 relaciones:
   desarrolla:
   - norma_id: norm-es-lo-3-2022
-    articulos_origen:
-    - Todos
-    articulos_destino:
-    - Todos
+  fundamentado_en:
+  - norma_id: norm-can-d-84-2024
+  - norma_id: norm-can-l-6-2014
+  - norma_id: norm-can-lo-1-2018
+  - norma_id: norm-can-res-033
+  - norma_id: norm-can-res-034
+  - norma_id: norm-can-res-035
+  - norma_id: norm-can-res-036
+  - norma_id: norm-can-res-037
+  - norma_id: norm-can-res-038
+  - norma_id: norm-can-res-039
+  - norma_id: norm-can-res-134
+  - norma_id: norm-can-res-boc-2024-226-44
+  - norma_id: norm-can-res-boc-2024-230-25
+  - norma_id: norm-es-2020-17274
+  - norma_id: norm-es-2021-979
+  - norma_id: norm-es-l-39-2015
+  - norma_id: norm-es-rd-659-2023
+  fundamento_de:
+  - norma_id: norm-can-res-033
+  - norma_id: norm-can-res-034
+  - norma_id: norm-can-res-035
+  - norma_id: norm-can-res-036
+  - norma_id: norm-can-res-037
+  - norma_id: norm-can-res-038
+  - norma_id: norm-can-res-039
 fundamentos_derecho:
 - norma_id: norm-can-l-6-2014
   articulos:
@@ -53,6 +76,8 @@ fundamentos_derecho:
 - norma_id: norm-can-res-boc-2024-226-44
 fuente_pdf_oficial: https://sede.gobiernodecanarias.org/boc/boc-a-2026-043-703.pdf
 ---
+
+
 # [Resolución de 25 de febrero de 2026](R25_2_2026_establece_distribucion_horaria_estructura_modular_grados.md), de la Dirección General de Formación Profesional y Enseñanzas de Régimen Especial por la que se dictan instrucciones para la implantación y desarrollo del módulo profesional optativo en las ofertas formativas de Grados D, niveles 2 (ciclos formativos de grado medio) y 3 (ciclos formativos de grado superior), a partir del curso escolar 2026/2027, en la Comunidad Autónoma de Canarias (BOC n.º 43, de 4 de marzo).
 
 III. Otras Resoluciones

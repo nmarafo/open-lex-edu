@@ -20,8 +20,18 @@ tags:
 - bienestar-infantil
 - curriculo
 - protecci-n-jur-dica-de-menores
+- proteccion-menores
 relaciones:
-  desarrolla: []
+  fundamentado_en:
+  - norma_id: norm-es-2000-544
+  - norma_id: norm-es-ce-1978
+  - norma_id: norm-es-lo-1-1996
+  - norma_id: norm-es-lo-1-2004
+  fundamento_de:
+  - norma_id: norm-can-res-boc-2017-132-1
+  - norma_id: norm-can-res-boc-2018-086-122
+  - norma_id: norm-es-2021-11382
+  - norma_id: norm-es-lo-8-2021
 fundamentos_derecho:
 - norma_id: norm-es-ce-1978
   articulos:
@@ -30,6 +40,8 @@ fundamentos_derecho:
 - norma_id: norm-es-lo-1-1996
 - norma_id: norm-es-lo-1-2004
 ---
+
+
 # Ley Orgánica 8/2015, de 22 de julio, de modificación del sistema de protección a la infancia y a la adolescencia.
 
 **FELIPE VI**

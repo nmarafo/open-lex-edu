@@ -19,15 +19,24 @@ clasificacion:
   categoria_canonica: 02_gestion_y_administracion_centros
   subcategoria: Centros extranjeros
 tags:
+- autonomia-centro
 - bachillerato
 - centros-extranjeros
 - consejo-escolar
 - educacion-primaria
 - eso
 - formacion-profesional
+- fp-basica
 - orientacion-educativa
+- titulacion
 relaciones:
-  desarrolla: []
+  fundamentado_en:
+  - norma_id: norm-can-d-81-2010
+  - norma_id: norm-es-1988-3987
+  - norma_id: norm-es-1988-6938
+  - norma_id: norm-es-2001-7022
+  - norma_id: norm-es-2002-25289
+  - norma_id: norm-es-lo-2-2006
 fundamentos_derecho:
 - norma_id: norm-can-d-81-2010
   articulos:
@@ -41,6 +50,8 @@ fundamentos_derecho:
 - norma_id: norm-es-2001-7022
 - norma_id: norm-es-2002-25289
 ---
+
+
 # Orden de 30 de abril de 1996 por la que se adecuan a la nueva ordenación educativa determinados criterios en materia de homologación y convalidación de títulos y estudios extranjeros de niveles no universitarios y se fija el régimen de equivalencias con los correspondientes españoles.
 
 En el actual curso académico se han implantado con carácter general la totalidad de los estudios de Enseñanza Primaria. Está prevista la implantación de la Enseñanza Secundaria Obligatoria a partir del curso académico 1996/1997 y la de Bachillerato a partir del curso académico 1998/1999. Es preciso, pues, adecuar al sistema educativo vigente los criterios aplicables a la homologación y convalidación de títulos y estudios extranjeros de los niveles no universitarios.

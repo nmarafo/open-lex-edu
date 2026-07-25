@@ -19,12 +19,16 @@ clasificacion:
   subcategoria: Centros privados concertados
 tags:
 - centros-privados-concertados
+- conciertos-educativos
 - consejo-escolar
 - ensenanzas-deportivas
 - equipos-directivos
 - evaluacion
+- titulacion
 relaciones:
-  desarrolla: []
+  fundamentado_en:
+  - norma_id: norm-can-l-6-2014
+  - norma_id: norm-es-rd-2377-1985
 fundamentos_derecho:
 - norma_id: norm-can-l-6-2014
   articulos:
@@ -33,6 +37,8 @@ fundamentos_derecho:
 fuente_pdf_oficial: https://sede.gobiernodecanarias.org/boc/boc-a-2010-158-4691.pdf
 fuente_juriscan: http://www.gobiernodecanarias.org/juriscan/ficha.jsp?id=63878
 ---
+
+
 # Resolución de 28 de julio de 2010, de la Dirección General de Promoción Educativa, por la que se modifica el modelo al que ha de ajustarse la certificación del acuerdo del Consejo Escolar de los centros privados concertados, en relación a la justificación de las cantidades recibidas en concepto de «otros gastos» (BOC n.º 158, de 12 de agosto).
 
 Consejería de Educación, Universidades, 

@@ -25,7 +25,18 @@ tags:
 - organizacion-escolar
 - profesorado
 relaciones:
-  desarrolla: []
+  fundamentado_en:
+  - norma_id: norm-can-d-81-2010
+  - norma_id: norm-can-d-84-2024
+  - norma_id: norm-can-l-6-2014
+  - norma_id: norm-can-o-2013-10-09
+  - norma_id: norm-can-o-2023-09-28
+  - norma_id: norm-can-res-boc-2023-133-57
+  - norma_id: norm-can-res-boc-2025-061-88
+  - norma_id: norm-es-2010-12201
+  - norma_id: norm-es-2019-317
+  - norma_id: norm-es-2021-20113
+  - norma_id: norm-es-lo-2-2006
 fundamentos_derecho:
 - norma_id: norm-can-l-6-2014
   articulos:
@@ -42,6 +53,8 @@ fundamentos_derecho:
 - norma_id: norm-can-res-boc-2025-061-88
 fuente_pdf_oficial: https://sede.gobiernodecanarias.org/boc/boc-a-2025-134-2514.pdf
 ---
+
+
 # Resolución de 26 de junio de 2025, de la Dirección General de Formación Profesional y Enseñanzas de Régimen Especial, por la que se dictan instrucciones específicas complementarias para el curso 2025/2026 sobre organización, funcionamiento y calendario de las Enseñanzas de Idiomas de Régimen Especial impartidas en las Escuelas Oficiales de Idiomas de la Comunidad Autónoma de Canarias (BOC núm.134, de 8 de julio).
 
 III. Otras Resoluciones

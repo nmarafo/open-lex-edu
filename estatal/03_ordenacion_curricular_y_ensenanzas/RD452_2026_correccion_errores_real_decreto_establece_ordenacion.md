@@ -21,7 +21,12 @@ tags:
 - ense-anzas-art-sticas
 - ensenanzas-artisticas
 relaciones:
-  desarrolla: []
+  fundamentado_en:
+  - norma_id: norm-can-l-6-2014
+  - norma_id: norm-es-2026-12038
+  - norma_id: norm-es-lo-2-2006
+  fundamento_de:
+  - norma_id: norm-es-2026-12038
 fundamentos_derecho:
 - norma_id: norm-es-lo-2-2006
   articulos:
@@ -32,6 +37,8 @@ fundamentos_derecho:
   - '22'
 - norma_id: norm-es-2026-12038
 ---
+
+
 # Corrección de errores del [Real Decreto 452/2026](RD452_2026_establece_ordenacion_ensenanzas_profesionales_artes_plasticas.md), de 3 de junio, por el que se establece la ordenación de las Enseñanzas Profesionales de Artes Plásticas y Diseño.
 
 En la página 76241, artículo 34, apartado 8, en la quinta línea, donde dice: «...en la disposición transitoria tercera...», debe decir: «...en la disposición transitoria cuarta...».

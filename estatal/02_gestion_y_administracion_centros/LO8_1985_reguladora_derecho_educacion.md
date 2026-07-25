@@ -19,30 +19,52 @@ clasificacion:
   subcategoria: Centros privados concertados
 tags:
 - bienestar-infantil
+- centros-concertados
 - centros-privados-concertados
-- centros_concertados
-- derecho_educacion
-- ideario_centro
+- conciertos-educativos
+- derecho-educacion
+- fp-basica
+- ideario-centro
 - lode
 - profesorado
 relaciones:
-  desarrolla: []
   desarrollado_por:
-  - norma_id: norm-es-rd-2377-1985
-    articulos_origen:
-    - Todos
-    articulos_destino:
-    - Todos
   - norma_id: norm-es-rd-1533-1986
-    articulos_origen:
-    - Todos
-    articulos_destino:
-    - Todos
+  - norma_id: norm-es-rd-2377-1985
+  fundamentado_en:
+  - norma_id: norm-es-ce-1978
+  fundamento_de:
+  - norma_id: norm-can-d-114-2011
+  - norma_id: norm-can-res-boc-2004-189-65
+  - norma_id: norm-can-res-boc-2022-158-21
+  - norma_id: norm-can-res-boc-2024-117-93
+  - norma_id: norm-can-res-boc-2026-109-92
+  - norma_id: norm-es-1987-15278
+  - norma_id: norm-es-1988-3987
+  - norma_id: norm-es-1993-16128
+  - norma_id: norm-es-1995-22212
+  - norma_id: norm-es-1998-10720
+  - norma_id: norm-es-2000-5990
+  - norma_id: norm-es-2002-12018
+  - norma_id: norm-es-2007-19326
+  - norma_id: norm-es-2013-12632
+  - norma_id: norm-es-2014-2222
+  - norma_id: norm-es-2024-11613
+  - norma_id: norm-es-lo-1-2004
+  - norma_id: norm-es-lo-10-2022
+  - norma_id: norm-es-lo-2-2006
+  - norma_id: norm-es-lo-3-2022
+  - norma_id: norm-es-rd-132-2010
+  - norma_id: norm-es-rd-157-2022
+  - norma_id: norm-es-rd-659-2023
+  - norma_id: norm-es-rd-943-2003
 fundamentos_derecho:
 - norma_id: norm-es-ce-1978
   articulos:
   - '27'
 ---
+
+
 # Ley Orgánica 8/1985 reguladora del Derecho a la Educación (LODE)
 
 **JUAN CARLOS I,**

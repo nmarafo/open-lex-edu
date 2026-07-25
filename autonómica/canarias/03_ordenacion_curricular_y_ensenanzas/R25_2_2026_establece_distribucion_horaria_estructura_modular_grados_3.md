@@ -20,21 +20,38 @@ tags:
 - curriculo
 - ensenanzas-artisticas
 - ensenanzas-deportivas
-- formaci-n-profesional
 - formacion-profesional
 - orientacion-educativa
+- personal-no-docente
 relaciones:
   desarrolla:
-  - norma_id: norm-es-rd-659-2023
-    articulos_origen:
-    - Todos
-    articulos_destino:
-    - Todos
   - norma_id: norm-es-lo-3-2022
-    articulos_origen:
-    - Todos
-    articulos_destino:
-    - Todos
+  - norma_id: norm-es-rd-659-2023
+  fundamentado_en:
+  - norma_id: norm-can-d-212-1991
+  - norma_id: norm-can-d-84-2024
+  - norma_id: norm-can-l-6-2014
+  - norma_id: norm-can-lo-1-2018
+  - norma_id: norm-can-res-032
+  - norma_id: norm-can-res-033
+  - norma_id: norm-can-res-034
+  - norma_id: norm-can-res-036
+  - norma_id: norm-can-res-037
+  - norma_id: norm-can-res-038
+  - norma_id: norm-can-res-039
+  - norma_id: norm-can-res-134
+  - norma_id: norm-can-res-boc-2024-226-44
+  - norma_id: norm-can-res-boc-2024-230-25
+  - norma_id: norm-es-2025-2039
+  - norma_id: norm-es-l-39-2015
+  fundamento_de:
+  - norma_id: norm-can-res-032
+  - norma_id: norm-can-res-033
+  - norma_id: norm-can-res-034
+  - norma_id: norm-can-res-036
+  - norma_id: norm-can-res-037
+  - norma_id: norm-can-res-038
+  - norma_id: norm-can-res-039
 fundamentos_derecho:
 - norma_id: norm-can-l-6-2014
   articulos:
@@ -58,6 +75,8 @@ fundamentos_derecho:
 - norma_id: norm-can-d-212-1991
 fuente_pdf_oficial: https://sede.gobiernodecanarias.org/boc/boc-a-2026-045-734.pdf
 ---
+
+
 # [Resolución de 25 de febrero de 2026](R25_2_2026_establece_distribucion_horaria_estructura_modular_grados.md), por la que se establece la distribución horaria y estructura modular de los Grados C (Certificados Profesionales) y sus correspondientes Grados B (Certificados de Competencia), de niveles 2 y 3, de las familias profesionales de Administración y Gestión; Agraria; Informática y Comunicaciones; y Madera, Mueble y Corcho, en el ámbito de la Comunidad Autónoma de Canarias.
 
 III. Otras Resoluciones

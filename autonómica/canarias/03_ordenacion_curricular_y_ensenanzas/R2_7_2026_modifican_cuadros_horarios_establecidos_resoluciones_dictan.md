@@ -21,11 +21,22 @@ tags:
 - ensenanzas-deportivas
 - equipos-directivos
 - evaluacion
-- formaci-n-profesional
 - formacion-profesional
 - organizacion-escolar
 relaciones:
-  desarrolla: []
+  fundamentado_en:
+  - norma_id: norm-can-d-212-1991
+  - norma_id: norm-can-d-84-2024
+  - norma_id: norm-can-l-6-2014
+  - norma_id: norm-can-lo-1-2018
+  - norma_id: norm-can-res-030
+  - norma_id: norm-can-res-134
+  - norma_id: norm-can-res-boc-2024-230-25
+  - norma_id: norm-es-2010-12201
+  - norma_id: norm-es-2021-20113
+  - norma_id: norm-es-lo-2-2006
+  - norma_id: norm-es-lo-3-2022
+  - norma_id: norm-es-rd-659-2023
 fundamentos_derecho:
 - norma_id: norm-can-l-6-2014
   articulos:
@@ -43,6 +54,8 @@ fundamentos_derecho:
 - norma_id: norm-can-d-212-1991
 fuente_pdf_oficial: https://sede.gobiernodecanarias.org/boc/boc-a-2026-141-2508.pdf
 ---
+
+
 # Resolución de 2 de julio de 2026, por la que se modifican cuadros horarios establecidos en las Resoluciones de 26 de noviembre de 2025 y de 27 de enero de 2026, por las que se dictan instrucciones para la implantación y desarrollo de la oferta de dobles titulaciones de formación profesional (Grados D) en la Comunidad Autónoma de Canarias, a partir del curso escolar 2026/2027. (BOC n.º 141, de 15 de julio)
 
 III. Otras Resoluciones

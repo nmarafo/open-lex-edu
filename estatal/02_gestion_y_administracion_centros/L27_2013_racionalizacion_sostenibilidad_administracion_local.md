@@ -19,14 +19,22 @@ clasificacion:
 tags:
 - cooperaci-n-con-entidades-locales
 - curriculo
+- fp-basica
 relaciones:
-  desarrolla: []
+  fundamentado_en:
+  - norma_id: norm-es-1985-5392
+  - norma_id: norm-es-ce-1978
+  fundamento_de:
+  - norma_id: norm-es-2015-8470
+  - norma_id: norm-es-l-40-2015
 fundamentos_derecho:
 - norma_id: norm-es-ce-1978
   articulos:
   - '27'
 - norma_id: norm-es-1985-5392
 ---
+
+
 # Ley 27/2013, de 27 de diciembre, de racionalización y sostenibilidad de la Administración Local.
 
 **JUAN CARLOS I**

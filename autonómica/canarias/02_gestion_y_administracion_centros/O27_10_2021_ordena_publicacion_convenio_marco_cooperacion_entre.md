@@ -18,9 +18,19 @@ clasificacion:
 tags:
 - cooperaci-n-con-entidades-locales
 - ensenanzas-deportivas
+- equipos-directivos
 - profesorado
 relaciones:
-  desarrolla: []
+  fundamentado_en:
+  - norma_id: norm-can-l-14-1990
+  - norma_id: norm-can-l-6-2014
+  - norma_id: norm-es-2010-12201
+  - norma_id: norm-es-2016-3229
+  - norma_id: norm-es-2021-20113
+  - norma_id: norm-es-l-40-2015
+  - norma_id: norm-es-l-9-2017
+  - norma_id: norm-es-lo-2-2006
+  - norma_id: norm-es-lo-3-2018
 fundamentos_derecho:
 - norma_id: norm-can-l-6-2014
   articulos:
@@ -35,6 +45,8 @@ fundamentos_derecho:
 - norma_id: norm-es-2010-12201
 fuente_pdf_oficial: https://sede.gobiernodecanarias.org/boc/boc-a-2021-229-4680.pdf
 ---
+
+
 # Resolución de 27 de octubre de 2021, por la que se ordena la publicación del Convenio Marco de Cooperación entre la Consejería de Educación, Universidades, Cultura y Deportes y la Federación Canaria de Municipios (FECAM) para el desarrollo de acciones y actuaciones en los centros docentes públicos no universitarios.
 
 III. Otras Resoluciones

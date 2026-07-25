@@ -23,17 +23,15 @@ clasificacion:
 tags:
 - ampas
 - asociaciones-de-padres-y-madres-ampas
-- federaciones_ampas
-- participacion_familias
+- federaciones-ampas
+- participacion-familias
+- personal-no-docente
 relaciones:
   desarrolla:
   - norma_id: norm-es-rd-1533-1986
-    articulos_origen:
-    - Todos
-    articulos_destino:
-    - Todos
-    nota: Regula el marco autonómico de Canarias para las Asociaciones de Madres y
-      Padres de Alumnos.
+  fundamentado_en:
+  - norma_id: norm-can-l-6-2014
+  - norma_id: norm-es-ce-1978
 fundamentos_derecho:
 - norma_id: norm-can-l-6-2014
   articulos:
@@ -42,6 +40,8 @@ fundamentos_derecho:
   articulos:
   - '27'
 ---
+
+
 # Decreto 234/1996, de 12 de septiembre, por el que se regulan las Asociaciones de Madres y Padres de Alumnos y sus Federaciones y Confederaciones en la Comunidad Autónoma de Canarias.
 
 Gobierno de Canarias

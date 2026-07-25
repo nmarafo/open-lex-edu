@@ -20,30 +20,27 @@ clasificacion:
   categoria_canonica: 04_organizacion_escolar_y_funcionamiento
   subcategoria: Función directiva y liderazgo
 tags:
-- autonomia_gestion
+- autonomia-gestion
+- becas-y-ayudas
 - equipos-directivos
-- equipos_directivos
 - funci-n-directiva-y-liderazgo
-- funcion_directiva
+- funcion-directiva
 - profesorado
-- seleccion_directores
+- seleccion-directores
 relaciones:
   desarrolla:
   - norma_id: norm-es-lo-2-2006
-    articulos_origen:
-    - Todos
-    articulos_destino:
-    - '131'
-    - '132'
-    - '133'
-    - '134'
-    - '135'
-    - '136'
-    - '137'
-    - '138'
-    - '139'
-    nota: Regula la selección, nombramiento, evaluación y competencias de la función
-      directiva en los centros docentes de Canarias.
+  fundamentado_en:
+  - norma_id: norm-can-l-6-2014
+  fundamento_de:
+  - norma_id: norm-can-d-81-2010
+  - norma_id: norm-can-o-2013-10-09
+  - norma_id: norm-can-res-095
+  - norma_id: norm-can-res-boc-2017-132-1
+  - norma_id: norm-can-res-boc-2018-124-126
+  - norma_id: norm-can-res-boc-2023-133-57
+  - norma_id: norm-can-res-boc-2026-046-139
+  - norma_id: norm-can-res-juriscan-66772-94
 fundamentos_derecho:
 - norma_id: norm-can-l-6-2014
   articulos:
@@ -54,6 +51,8 @@ fundamentos_derecho:
   - '132'
 anexos_extraidos_pdf: true
 ---
+
+
 # Decreto 106/2009, de 28 de julio, por el que se regula la función directiva en los centros docentes públicos no universitarios de la Comunidad Autónoma de Canarias.
 
 Gobierno de Canarias

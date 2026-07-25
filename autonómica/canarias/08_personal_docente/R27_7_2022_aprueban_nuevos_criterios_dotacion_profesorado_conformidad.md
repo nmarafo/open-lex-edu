@@ -22,15 +22,21 @@ tags:
 - inclusiva
 - neae
 - plantillas-docentes
+- prevencion-riesgos-laborales
 - profesorado
 relaciones:
-  desarrolla: []
+  fundamentado_en:
+  - norma_id: norm-can-l-6-2014
+  fundamento_de:
+  - norma_id: norm-can-res-boc-2025-094-137
 fundamentos_derecho:
 - norma_id: norm-can-l-6-2014
   articulos:
   - '1'
 fuente_pdf_oficial: https://sede.gobiernodecanarias.org/boc/boc-a-2022-158-2653.pdf
 ---
+
+
 # Resolución de 27 de julio de 2022, por la que se aprueban nuevos criterios para la dotación de profesorado, de conformidad con el Acuerdo para la mejora del sistema público educativo de Canarias entre Administración y sindicatos.
 
 III. Otras Resoluciones

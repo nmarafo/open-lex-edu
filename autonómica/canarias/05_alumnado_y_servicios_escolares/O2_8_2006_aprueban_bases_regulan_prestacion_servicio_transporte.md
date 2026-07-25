@@ -27,19 +27,21 @@ tags:
 - ensenanzas-deportivas
 - equipos-directivos
 - evaluacion
-- gratuidad_transporte
-- rutas_transporte
+- gratuidad-transporte
+- neae
+- proteccion-menores
+- rutas-transporte
+- servicios-complementarios
 - transporte-escolar
-- transporte_escolar
 relaciones:
   desarrolla:
   - norma_id: norm-es-rd-443-2001
-    articulos_origen:
-    - Todos
-    articulos_destino:
-    - Todos
-    nota: Regula las bases de prestación del servicio de transporte escolar complementario
-      en Canarias.
+  fundamentado_en:
+  - norma_id: norm-can-l-14-1990
+  - norma_id: norm-can-l-6-2014
+  - norma_id: norm-es-2010-12201
+  - norma_id: norm-es-2021-20113
+  - norma_id: norm-es-lo-2-2006
 fundamentos_derecho:
 - norma_id: norm-can-l-6-2014
   articulos:
@@ -51,6 +53,8 @@ fundamentos_derecho:
 - norma_id: norm-es-rd-443-2001
 anexos_extraidos_pdf: true
 ---
+
+
 # Orden de 2 de agosto de 2006, por la que se aprueban las bases que regulan la prestación del servicio de transporte escolar en la Comunidad Autónoma de Canarias.
 
 Gobierno de Canarias

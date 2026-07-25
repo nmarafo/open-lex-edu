@@ -21,12 +21,25 @@ tags:
 - educacion-personas-adultas
 - ensenanzas-deportivas
 - equipos-directivos
-- formaci-n-profesional
 - formacion-profesional
+- grado-medio
 - inclusiva
+- neae
 - oposiciones
 relaciones:
-  desarrolla: []
+  fundamentado_en:
+  - norma_id: norm-can-d-212-1991
+  - norma_id: norm-can-d-84-2024
+  - norma_id: norm-can-l-6-2014
+  - norma_id: norm-can-res-134
+  - norma_id: norm-can-res-boc-2024-230-25
+  - norma_id: norm-es-2010-12201
+  - norma_id: norm-es-2021-20113
+  - norma_id: norm-es-lo-2-2006
+  - norma_id: norm-es-lo-3-2022
+  - norma_id: norm-es-rd-132-2010
+  - norma_id: norm-es-rd-243-2022
+  - norma_id: norm-es-rd-659-2023
 fundamentos_derecho:
 - norma_id: norm-can-l-6-2014
   articulos:
@@ -44,6 +57,8 @@ fundamentos_derecho:
 - norma_id: norm-can-d-212-1991
 fuente_pdf_oficial: https://sede.gobiernodecanarias.org/boc/boc-a-2026-139-2475.pdf
 ---
+
+
 # Resolución de 25 de junio de 2026, por la que se dictan instrucciones para la organización y el funcionamiento de los cursos de acceso directo a ciclos formativos CAD2 y CAD3 (cursos de formación preparatorios para acceder a ciclos formativos de grado medio y superior) en Canarias.
 
 III. Otras Resoluciones

@@ -21,15 +21,24 @@ tags:
 - curriculo
 - ensenanzas-deportivas
 - equipos-directivos
-- formaci-n-profesional
 - formacion-profesional
 relaciones:
   desarrolla:
   - norma_id: norm-es-lo-3-2022
-    articulos_origen:
-    - Todos
-    articulos_destino:
-    - Todos
+  fundamentado_en:
+  - norma_id: norm-can-d-81-2010
+  - norma_id: norm-can-d-84-2024
+  - norma_id: norm-can-l-6-2014
+  - norma_id: norm-can-o-2013-10-09
+  - norma_id: norm-can-res-134
+  - norma_id: norm-can-res-boc-2024-230-25
+  - norma_id: norm-es-2010-12201
+  - norma_id: norm-es-2021-20113
+  - norma_id: norm-es-2024-10683
+  - norma_id: norm-es-2024-10684
+  - norma_id: norm-es-2024-10685
+  - norma_id: norm-es-lo-2-2006
+  - norma_id: norm-es-rd-659-2023
 fundamentos_derecho:
 - norma_id: norm-can-l-6-2014
   articulos:
@@ -49,6 +58,8 @@ fundamentos_derecho:
 - norma_id: norm-es-2010-12201
 fuente_pdf_oficial: https://sede.gobiernodecanarias.org/boc/boc-a-2024-251-4224.pdf
 ---
+
+
 # Resolución de 10 de diciembre de 2024, de la Dirección General de Formación Profesional y Enseñanzas de Régimen Especial,-por la que se dictan instrucciones y orientaciones para la implantación y desarrollo de la oferta en las modalidades semipresencial y virtual de certificados profesionales de Grado C, ciclos formativos de Grado D y cursos especialización de Grado E a partir del curso 2024/2025 en el ámbito de la Comunidad Autónoma de Canarias (BOC nº 251, de 18 de diciembre).
 
 III. Otras Resoluciones

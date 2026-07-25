@@ -22,24 +22,43 @@ clasificacion:
   categoria_canonica: 04_organizacion_escolar_y_funcionamiento
   subcategoria: Instrucciones de organización y funcionamiento
 tags:
+- becas-y-ayudas
 - departamentos
-- desarrollo_roc
-- instrucciones-de-organizaci-n-y-funcionamiento
-- organizacion_centro
+- desarrollo-roc
+- instrucciones-de-organizacion-y-funcionamiento
+- organizacion-centro
 - profesorado
 - roc
 relaciones:
   desarrolla:
   - norma_id: norm-can-d-81-2010
-    articulos_origen:
-    - Todos
-    articulos_destino:
-    - Todos
-    nota: Desarrolla el Decreto 81/2010 ROC de Canarias en lo relativo a la organización
-      y funcionamiento de los centros públicos.
+  fundamentado_en:
+  - norma_id: norm-can-d-106-2009
+  - norma_id: norm-can-d-114-2011
+  - norma_id: norm-can-l-14-1990
+  - norma_id: norm-es-2010-12201
+  - norma_id: norm-es-2010-4518
+  - norma_id: norm-es-2021-20113
+  - norma_id: norm-es-lo-2-2006
+  - norma_id: norm-es-rd-1834-2008
+  - norma_id: norm-es-rd-39-1997
+  fundamento_de:
+  - norma_id: norm-can-d-81-2010
+  - norma_id: norm-can-res-027
+  - norma_id: norm-can-res-055
+  - norma_id: norm-can-res-boc-2017-036-75
+  - norma_id: norm-can-res-boc-2017-132-1
+  - norma_id: norm-can-res-boc-2018-124-126
+  - norma_id: norm-can-res-boc-2023-133-57
+  - norma_id: norm-can-res-boc-2024-117-93
+  - norma_id: norm-can-res-boc-2025-044-89
+  - norma_id: norm-can-res-boc-2026-046-139
+  - norma_id: norm-can-res-boc-2026-109-92
+  - norma_id: norm-can-res-boc-2026-116-87
+  - norma_id: norm-can-res-juriscan-64838-121
+  - norma_id: norm-can-res-juriscan-72788-60
   modificado_por:
   - norma_id: norm-can-o-2023-09-28
-    fecha_modificacion: '2023-10-11'
 fundamentos_derecho:
 - norma_id: norm-can-d-81-2010
   articulos:
@@ -55,6 +74,8 @@ fundamentos_derecho:
 - norma_id: norm-es-2010-4518
 fuente_pdf_oficial: https://sede.gobiernodecanarias.org/boc/boc-a-2013-200-5076.pdf
 ---
+
+
 # Orden de 9 de octubre de 2013, por la que se desarrolla el [Decreto 81/2010](D81_2010_aprueba_reglamento_organico_centros_docentes_publicos.md), de 8 de julio, por el que se aprueba el Reglamento Orgánico de los centros docentes públicos no universitarios de la Comunidad Autónoma de Canarias, en lo referente a su organización y funcionamiento.
 
 https://sede.gobcan.es/cpji/boc

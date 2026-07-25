@@ -26,9 +26,21 @@ tags:
 - eso
 - evaluacion
 - formacion-profesional
+- fp-basica
 - profesorado
+- titulacion
 relaciones:
-  desarrolla: []
+  fundamentado_en:
+  - norma_id: norm-es-2010-12201
+  - norma_id: norm-es-2014-2222
+  - norma_id: norm-es-2021-20113
+  - norma_id: norm-es-ce-1978
+  - norma_id: norm-es-l-39-2015
+  - norma_id: norm-es-lo-2-2006
+  fundamento_de:
+  - norma_id: norm-es-rd-157-2022
+  - norma_id: norm-es-rd-217-2022
+  - norma_id: norm-es-rd-243-2022
 fundamentos_derecho:
 - norma_id: norm-es-ce-1978
   articulos:
@@ -41,6 +53,8 @@ fundamentos_derecho:
 - norma_id: norm-es-2021-20113
 - norma_id: norm-es-2010-12201
 ---
+
+
 # Real Decreto 984/2021, de 16 de noviembre, por el que se regulan la evaluación y la promoción en la Educación Primaria, así como la evaluación, la promoción y la titulación en la Educación Secundaria Obligatoria, el Bachillerato y la Formación Profesional.
 
 La Ley Orgánica 3/2020, de 29 de diciembre, por la que se modifica la [Ley Orgánica 2/2006](../01_marco_normativo_general_y_organico/LO2_2006_educacion_texto_consolidado_modificaciones_lomloe.md), de 3 de mayo, de Educación, aborda una ambiciosa transformación del sistema educativo con el objetivo principal, según declara la propia ley en su preámbulo, de establecer un renovado ordenamiento legal que aumente las oportunidades educativas y formativas de toda la población, que contribuya a la mejora de los resultados educativos del alumnado y que satisfaga la demanda de una educación de calidad para todos.

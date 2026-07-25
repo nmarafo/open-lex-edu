@@ -17,14 +17,31 @@ clasificacion:
   categoria_canonica: 07_convivencia_bienestar_y_protocolos
   subcategoria: Protocolos de actuación y protección
 tags:
+- convivencia-escolar
 - ensenanzas-deportivas
 - equipos-directivos
 - formacion-profesional
 - orientacion-educativa
+- personal-no-docente
 - profesorado
+- proteccion-menores
 - protocolos-de-actuaci-n-y-protecci-n
 relaciones:
-  desarrolla: []
+  fundamentado_en:
+  - norma_id: norm-can-d-168-2009
+  - norma_id: norm-can-d-84-2024
+  - norma_id: norm-can-l-2-1987
+  - norma_id: norm-can-l-4-2023
+  - norma_id: norm-can-l-6-2014
+  - norma_id: norm-es-2007-6115
+  - norma_id: norm-es-2022-11589
+  - norma_id: norm-es-l-31-1995
+  - norma_id: norm-es-l-39-2015
+  - norma_id: norm-es-l-40-2015
+  - norma_id: norm-es-lo-10-2022
+  - norma_id: norm-es-lo-3-2018
+  - norma_id: norm-es-rdl-2-2015
+  - norma_id: norm-es-rdl-5-2015
 fundamentos_derecho:
 - norma_id: norm-can-l-6-2014
   articulos:
@@ -44,6 +61,8 @@ fundamentos_derecho:
 - norma_id: norm-es-rdl-2-2015
 fuente_pdf_oficial: https://sede.gobiernodecanarias.org/boc/boc-a-2025-045-900.pdf
 ---
+
+
 # Resolución de 19 de febrero de 2025, de la Dirección General de Personal y Formación del Profesorado, por la que se establece el Protocolo de actuación ante situaciones de acoso en el entorno laboral en los centros públicos dependientes de la Consejería de Educación, Formación Profesional, Actividad Física y Deportes (BOC nº 45 de 5 de marzo).
 
 III. Otras Resoluciones

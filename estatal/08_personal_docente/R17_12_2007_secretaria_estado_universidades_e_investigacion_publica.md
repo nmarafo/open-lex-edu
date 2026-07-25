@@ -22,14 +22,22 @@ clasificacion:
 tags:
 - bachillerato
 - curriculo
+- ensenanzas-universitarias
 - eoi
+- equipos-directivos
 - eso
 - evaluacion
-- formaci-n-del-profesorado
+- formacion-del-profesorado
 - formacion-profesional
 - profesorado
+- titulacion
 relaciones:
-  desarrolla: []
+  fundamentado_en:
+  - norma_id: norm-es-2010-12201
+  - norma_id: norm-es-2021-20113
+  - norma_id: norm-es-lo-2-2006
+  fundamento_de:
+  - norma_id: norm-es-rd-1834-2008
 fundamentos_derecho:
 - norma_id: norm-es-lo-2-2006
   articulos:
@@ -38,6 +46,8 @@ fundamentos_derecho:
 - norma_id: norm-es-2021-20113
 - norma_id: norm-es-2010-12201
 ---
+
+
 # Resolución de 17 de diciembre de 2007, de la Secretaría de Estado de Universidades e Investigación, por la que se publica el Acuerdo de Consejo de Ministros de 14 de diciembre de 2007, por el que se establecen las condiciones a las que deberán adecuarse los planes de estudios conducentes a la obtención de títulos que habiliten para el ejercicio de las profesiones reguladas de Profesor de Educación Secundaria Obligatoria y Bachillerato, Formación Profesional y Enseñanzas de Idiomas.
 
 El Consejo de Ministros, en su reunión del día 14 de diciembre de 2007, ha adoptado el Acuerdo por el que se establecen las condiciones a las que deberán adecuarse los planes de estudios conducentes a la obtención de títulos que habiliten para el ejercicio de las profesiones reguladas de Profesor de Educación Secundaria Obligatoria y Bachillerato, Formación Profesional y Enseñanzas de Idiomas.

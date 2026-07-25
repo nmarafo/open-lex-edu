@@ -26,8 +26,16 @@ tags:
 - evaluacion
 - formacion-profesional
 - profesorado
+- titulacion
 relaciones:
-  desarrolla: []
+  fundamentado_en:
+  - norma_id: norm-can-d-212-1991
+  - norma_id: norm-can-d-84-2024
+  - norma_id: norm-can-l-6-2014
+  - norma_id: norm-es-2010-12201
+  - norma_id: norm-es-2019-317
+  - norma_id: norm-es-2021-20113
+  - norma_id: norm-es-lo-2-2006
 fundamentos_derecho:
 - norma_id: norm-can-l-6-2014
   articulos:
@@ -40,6 +48,8 @@ fundamentos_derecho:
 - norma_id: norm-can-d-212-1991
 fuente_pdf_oficial: https://sede.gobiernodecanarias.org/boc/boc-a-2025-238-4105.pdf
 ---
+
+
 # Resolución de 19 de noviembre de 2025, de la Dirección General de Formación Profesional y Enseñanzas de Régimen Especial.por la que se convocan pruebas para la obtención de la certificación de Enseñanzas de Idiomas de Régimen Especial destinadas a la población escolar de centros docentes públicos de la Comunidad Autónoma de Canarias, y se dictan instrucciones para su organización y aplicación en el curso 2025/2026 (BOC nº 238, de 1 de diciembre).
 
 III. Otras Resoluciones

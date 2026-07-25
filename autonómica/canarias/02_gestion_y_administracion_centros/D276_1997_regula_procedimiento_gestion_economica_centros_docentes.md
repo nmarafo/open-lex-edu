@@ -22,28 +22,29 @@ clasificacion:
   subcategoria: Gestión económica de centros
 tags:
 - admision-alumnado
-- autonomia_gestion
+- autonomia-gestion
 - gesti-n-econ-mica-de-centros
 - gestion-economica
-- gestion_economica
 - oposiciones
-- pagos_en_firme
-- presupuestos_centros
+- pagos-en-firme
+- presupuestos-centros
 - profesorado
 relaciones:
   desarrolla:
   - norma_id: norm-es-lo-2-2006
-    articulos_origen:
-    - Todos
-    articulos_destino:
-    - '122'
-    nota: Regula la autonomía de gestión económica de los centros docentes públicos
-      en Canarias.
+  fundamentado_en:
+  - norma_id: norm-can-l-6-2014
+  fundamento_de:
+  - norma_id: norm-can-o-25-2-2003
+  - norma_id: norm-can-res-097
+  - norma_id: norm-can-res-099
 fundamentos_derecho:
 - norma_id: norm-can-l-6-2014
   articulos:
   - '63'
 ---
+
+
 # Decreto 276/1997, de 27 de noviembre, por el que se regula el procedimiento de gestión económica de los centros docentes públicos no universitarios de la Comunidad Autónoma de Canarias.
 
 Gobierno de Canarias

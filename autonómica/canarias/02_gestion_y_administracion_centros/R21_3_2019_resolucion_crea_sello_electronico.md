@@ -21,10 +21,10 @@ tags:
 relaciones:
   desarrolla:
   - norma_id: norm-es-l-40-2015
-    articulos_origen:
-    - Todos
-    articulos_destino:
-    - Todos
+  fundamentado_en:
+  - norma_id: norm-can-d-135-2016
+  - norma_id: norm-can-l-6-2014
+  - norma_id: norm-es-l-39-2015
 fundamentos_derecho:
 - norma_id: norm-can-l-6-2014
   articulos:
@@ -34,6 +34,8 @@ fundamentos_derecho:
 - norma_id: norm-can-d-135-2016
 fuente_pdf_oficial: https://sede.gobiernodecanarias.org/boc/boc-a-2019-067-1646.pdf
 ---
+
+
 # Secretaría General Técnica.- Resolución de 21 de marzo de 2019, por la que se crea el sello electrónico de la Dirección General de Universidades.
 
 Viernes 5 de abril de 2019

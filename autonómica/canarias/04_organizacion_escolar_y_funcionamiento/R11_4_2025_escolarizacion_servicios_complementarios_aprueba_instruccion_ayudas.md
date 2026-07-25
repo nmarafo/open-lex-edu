@@ -19,14 +19,25 @@ clasificacion:
 tags:
 - admision-alumnado
 - becas-ayudas
+- becas-y-ayudas
 - ensenanzas-deportivas
 - equipos-directivos
 - formacion-profesional
+- igualdad-genero
 - inclusiva
-- instrucciones-de-organizaci-n-y-funcionamiento
+- instrucciones-de-organizacion-y-funcionamiento
 - oposiciones
 relaciones:
-  desarrolla: []
+  fundamentado_en:
+  - norma_id: norm-can-d-276-1997
+  - norma_id: norm-can-d-84-2024
+  - norma_id: norm-can-l-6-2014
+  - norma_id: norm-es-2010-12201
+  - norma_id: norm-es-2021-20113
+  - norma_id: norm-es-l-39-2015
+  - norma_id: norm-es-l-40-2015
+  - norma_id: norm-es-lo-2-2006
+  - norma_id: norm-es-lo-3-2018
 fundamentos_derecho:
 - norma_id: norm-can-l-6-2014
   articulos:
@@ -41,6 +52,8 @@ fundamentos_derecho:
 - norma_id: norm-es-2010-12201
 fuente_pdf_oficial: https://sede.gobiernodecanarias.org/boc/boc-a-2025-087-1645.pdf
 ---
+
+
 # Resolución de 11 de abril de 2025, de la Dirección General de Administración de Centros, Escolarización y Servicios Complementarios por la que se aprueba la instrucción de las ayudas de préstamo de libros de texto y materiales didácticos para el curso escolar 2025/2026 (BOC n.º 87, de 2 de mayo).
 
 III. Otras Resoluciones

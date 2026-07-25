@@ -20,11 +20,30 @@ clasificacion:
   subcategoria: Protección jurídica de menores
 tags:
 - convivencia
+- convivencia-escolar
+- ensenanzas-universitarias
 - equipos-directivos
 - profesorado
 - protecci-n-jur-dica-de-menores
+- proteccion-menores
 relaciones:
-  desarrolla: []
+  fundamentado_en:
+  - norma_id: norm-can-d-106-2009
+  - norma_id: norm-can-d-114-2011
+  - norma_id: norm-can-d-135-2016
+  - norma_id: norm-can-d-81-2010
+  - norma_id: norm-can-l-6-2014
+  - norma_id: norm-can-o-2013-10-09
+  - norma_id: norm-es-2010-12201
+  - norma_id: norm-es-2015-8222
+  - norma_id: norm-es-2015-8470
+  - norma_id: norm-es-2021-20113
+  - norma_id: norm-es-l-40-2015
+  - norma_id: norm-es-lo-2-2006
+  fundamento_de:
+  - norma_id: norm-can-res-boc-2025-039-104
+  - norma_id: norm-can-res-boc-2025-047-108
+  - norma_id: norm-can-res-boc-2026-039-103
 fundamentos_derecho:
 - norma_id: norm-can-l-6-2014
   articulos:
@@ -44,6 +63,8 @@ fuente_pdf_oficial: https://sede.gobiernodecanarias.org/boc/boc-a-2017-132-3376.
 anexos_extraidos_pdf: true
 ocr_procesado: true
 ---
+
+
 # Resolución de 30 de junio de 2017, de la Dirección General de Centros e Infraestructura Educativa, por la que se dictan instrucciones para la actuación de los centros docentes sostenidos con fondos públicos, en los casos de padres, madres, separados, divorciados, que hayan finalizado su convivencia, o representantes legales, respecto a sus descendientes o representados, menores de edad, en el ámbito de las enseñanzas no universitarias de la Comunidad Autónoma de Canarias (BOC n.º 132, de 11 de julio).
 
 Boletín Oficial de Canarias núm. 132

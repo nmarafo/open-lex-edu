@@ -16,10 +16,26 @@ clasificacion:
   categoria_canonica: 07_convivencia_bienestar_y_protocolos
   subcategoria: Igualdad de género y diversidad
 tags:
+- autonomia-centro
 - igualdad-de-g-nero-y-diversidad
+- igualdad-genero
+- neae
 - oposiciones
+- personal-no-docente
 relaciones:
-  desarrolla: []
+  fundamentado_en:
+  - norma_id: norm-can-l-16-2003
+  - norma_id: norm-es-2007-6115
+  - norma_id: norm-es-ce-1978
+  - norma_id: norm-es-lo-1-2004
+  fundamento_de:
+  - norma_id: norm-can-d-84-2024
+  - norma_id: norm-can-l-4-2023
+  - norma_id: norm-can-o-2013-10-09
+  - norma_id: norm-can-o-2023-09-28
+  - norma_id: norm-can-res-boc-2018-124-126
+  - norma_id: norm-es-2012-9282
+  - norma_id: norm-es-2021-11382
 fundamentos_derecho:
 - norma_id: norm-es-ce-1978
   articulos:
@@ -28,6 +44,8 @@ fundamentos_derecho:
 - norma_id: norm-es-2007-6115
 - norma_id: norm-es-lo-1-2004
 ---
+
+
 # Ley 1/2010, de 26 de febrero, canaria de igualdad entre mujeres y hombres.
 
 Sea notorio a todos los ciudadanos que el Parlamento de Canarias ha aprobado y yo, en nombre del Rey y de acuerdo con lo que establece el artículo 12.8 del Estatuto de Autonomía, promulgo y ordeno la publicación de la ley 1/2010, de 26 de febrero, canaria de igualdad entre mujeres y hombres.

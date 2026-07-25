@@ -19,10 +19,16 @@ clasificacion:
   subcategoria: Centros de internamiento de menores
 tags:
 - centros-de-internamiento-de-menores
+- convivencia-escolar
 - ensenanzas-deportivas
 - equipos-directivos
+- proteccion-menores
 relaciones:
-  desarrolla: []
+  fundamentado_en:
+  - norma_id: norm-can-d-212-1991
+  - norma_id: norm-can-l-6-2014
+  - norma_id: norm-es-2004-15601
+  - norma_id: norm-es-lo-5-2000
 fundamentos_derecho:
 - norma_id: norm-can-l-6-2014
   articulos:
@@ -33,6 +39,8 @@ fundamentos_derecho:
 fuente_pdf_oficial: https://sede.gobiernodecanarias.org/boc/boc-a-2014-188-4160.pdf
 fuente_juriscan: http://www.gobcan.es/juriscan/ficha.jsp?id=71394
 ---
+
+
 # Dirección General de Dependencia, Infancia y Familia.- Resolución de 11 de septiembre de 2014, por la que se establecen las instrucciones y órdenes de servicio del Documento 1 \"Protocolo de Registros a Personas y Dependencias en los Centros de Internamiento Educativo para Menores Infractores (CIEMI) de la Comunidad Autónoma de Canarias», relativo al protocolo de actuación en materia de vigilancia y seguridad interior (BOC n.º 188, de 29 de septiembre).
 
 Consejería de Cultura, Deportes, Políticas Sociales y Vivienda

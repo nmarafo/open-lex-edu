@@ -16,10 +16,14 @@ clasificacion:
   subcategoria: Educación de Personas Adultas
 tags:
 - educaci-n-de-personas-adultas
+- educacion-personas-adultas
 - ensenanzas-deportivas
+- ensenanzas-universitarias
 - oposiciones
 relaciones:
-  desarrolla: []
+  fundamentado_en:
+  - norma_id: norm-can-l-6-2014
+  - norma_id: norm-es-2001-7022
 fundamentos_derecho:
 - norma_id: norm-can-l-6-2014
   articulos:
@@ -28,6 +32,8 @@ fundamentos_derecho:
 fuente_pdf_oficial: http://www.gobiernodecanarias.org/boc/2004/157/boc-2004-157-011.pdf
 fuente_juriscan: http://www.gobiernodecanarias.org/juriscan/ficha.jsp?id=48984
 ---
+
+
 # Resolución de 9 de julio de 2004, por la que se hace público el Reglamento que regula en la Universidad de Las Palmas de Gran Canaria el Acceso para Mayores de 25 años (BOC n.º 157, de 13 de agosto).
 
 Otras Administraciones

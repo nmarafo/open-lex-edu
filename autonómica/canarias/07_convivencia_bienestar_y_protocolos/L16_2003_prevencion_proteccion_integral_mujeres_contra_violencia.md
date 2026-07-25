@@ -21,26 +21,38 @@ clasificacion:
   categoria_canonica: 07_convivencia_bienestar_y_protocolos
   subcategoria: Protocolos de actuación y protección
 tags:
+- autonomia-centro
 - coeducacion
 - convivencia
+- convivencia-escolar
 - evaluacion
-- proteccion_mujeres
+- igualdad-genero
+- prevencion-riesgos-laborales
+- proteccion-menores
+- proteccion-mujeres
 - protocolos-de-actuaci-n-y-protecci-n
-- violencia_genero
+- violencia-genero
 relaciones:
   desarrolla:
   - norma_id: norm-es-lo-1-2004
-    articulos_origen:
-    - Todos
-    articulos_destino:
-    - Todos
-    nota: Desarrolla el marco autonómico de prevención de la violencia de género en
-      Canarias.
+  fundamentado_en:
+  - norma_id: norm-can-lo-1-2018
+  fundamento_de:
+  - norma_id: norm-es-2007-6115
+  - norma_id: norm-es-2008-979
+  - norma_id: norm-es-2010-4518
+  - norma_id: norm-es-2012-8745
+  - norma_id: norm-es-2015-8470
+  - norma_id: norm-es-2021-11382
+  - norma_id: norm-es-lo-3-2018
+  - norma_id: norm-es-lo-8-2021
 fundamentos_derecho:
 - norma_id: norm-can-lo-1-2018
   articulos:
   - '16'
 ---
+
+
 # Ley 16/2003 de Prevención y Protección Integral de las Mujeres contra la Violencia de Género de Canarias
 
 Sea notorio a todos los ciudadanos que el Parlamento de Canarias ha aprobado y yo, en nombre del Rey y de acuerdo con lo que establece el artículo 12.8 del Estatuto de Autonomía, promulgo y ordeno la publicación de la Ley 16/2003, de 8 de abril, de Prevención y Protección Integral de las Mujeres contra la Violencia de Género.

@@ -20,11 +20,27 @@ tags:
 - bachillerato
 - centros-extranjeros
 - curriculo
+- ensenanzas-universitarias
 - equipos-directivos
 - formacion-profesional
+- fp-basica
 - procedimiento-administrativo
+- titulacion
 relaciones:
-  desarrolla: []
+  fundamentado_en:
+  - norma_id: norm-can-d-81-2010
+  - norma_id: norm-es-1988-3987
+  - norma_id: norm-es-2002-25289
+  - norma_id: norm-es-lo-2-2006
+  fundamento_de:
+  - norma_id: norm-can-res-boc-2025-047-108
+  - norma_id: norm-can-res-boc-2026-039-103
+  - norma_id: norm-es-1988-3987
+  - norma_id: norm-es-1996-10210
+  - norma_id: norm-es-2001-7022
+  - norma_id: norm-es-2002-25289
+  - norma_id: norm-es-2018-4480
+  - norma_id: norm-es-rd-659-2023
 fundamentos_derecho:
 - norma_id: norm-can-d-81-2010
   articulos:
@@ -36,6 +52,8 @@ fundamentos_derecho:
 - norma_id: norm-es-1988-3987
 - norma_id: norm-es-2002-25289
 ---
+
+
 # Orden de 14 de marzo de 1988 para la aplicación de lo dispuesto en el [Real Decreto 104/1988](RD104_1988_homologacion_convalidacion_titulos_estudios_extranjeros_educacion.md), de 29 de enero, sobre homologación y convalidación de títulos y estudios extranjeros de educación no universitaria.
 
 En su virtud y en uso de la autorización conferida por la disposición final primera del [Real Decreto 104/1988](./RD104_1988_homologacion_convalidacion_titulos_estudios_extranjeros_educacion.md), de 29 de enero,

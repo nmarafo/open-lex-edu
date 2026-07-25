@@ -20,17 +20,31 @@ clasificacion:
   subcategoria: Empleados públicos
 tags:
 - empleados-p-blicos
-- empleados_publicos
-- funcion_publica
+- empleados-publicos
+- funcion-publica
 - gestion-economica
 - incompatibilidades
 relaciones:
-  desarrolla: []
+  fundamentado_en:
+  - norma_id: norm-es-ce-1978
+  fundamento_de:
+  - norma_id: norm-can-o-1-9-2010
+  - norma_id: norm-es-1985-7820
+  - norma_id: norm-es-2002-12018
+  - norma_id: norm-es-2005-21534
+  - norma_id: norm-es-2012-9364
+  - norma_id: norm-es-2024-11613
+  - norma_id: norm-es-l-40-2015
+  - norma_id: norm-es-l-9-2017
+  - norma_id: norm-es-rd-659-2023
+  - norma_id: norm-es-rdl-5-2015
 fundamentos_derecho:
 - norma_id: norm-es-ce-1978
   articulos:
   - '103.3'
 ---
+
+
 # Ley 53/1984 de Incompatibilidades del Personal al Servicio de las Administraciones Públicas
 
 **JUAN CARLOS I,**

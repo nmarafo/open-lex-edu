@@ -22,22 +22,20 @@ clasificacion:
   subcategoria: Selección y provisión de puestos
 tags:
 - ebep
+- igualdad-genero
 - interinos
-- interinos_docentes
-- listas_empleo
-- ordenacion_listas
+- interinos-docentes
+- listas-empleo
+- ordenacion-listas
+- procedimiento-administrativo
 - profesorado
 - selecci-n-y-provisi-n-de-puestos
-- sustituciones_docentes
+- sustituciones-docentes
 relaciones:
   desarrolla:
   - norma_id: norm-can-l-2-1987
-    articulos_origen:
-    - Todos
-    articulos_destino:
-    - '48'
-    nota: Regula el procedimiento de constitución, gestión y selección de listas de
-      empleo del profesorado interino en Canarias.
+  fundamentado_en:
+  - norma_id: norm-es-rdl-5-2015
 fundamentos_derecho:
 - norma_id: norm-can-l-2-1987
   articulos:
@@ -47,6 +45,8 @@ fundamentos_derecho:
   - '10'
 fuente_pdf_oficial: https://sede.gobiernodecanarias.org/boc/boc-a-2010-136-4028.pdf
 ---
+
+
 # Decreto 74/2010, de 1 de julio, por el que se establece el procedimiento de selección del personal funcionario interino docente en el ámbito de la Comunidad Autónoma de Canarias.
 
 I. Disposiciones generales

@@ -17,16 +17,17 @@ clasificacion:
 tags:
 - administraci-n-electr-nica-y-firmas
 - ensenanzas-deportivas
+- ensenanzas-universitarias
 - equipos-directivos
 - evaluacion
 - oposiciones
+- procedimiento-administrativo
 relaciones:
   desarrolla:
   - norma_id: norm-es-l-40-2015
-    articulos_origen:
-    - Todos
-    articulos_destino:
-    - Todos
+  fundamentado_en:
+  - norma_id: norm-can-l-6-2014
+  - norma_id: norm-es-l-39-2015
 fundamentos_derecho:
 - norma_id: norm-can-l-6-2014
   articulos:
@@ -35,6 +36,8 @@ fundamentos_derecho:
 - norma_id: norm-es-l-40-2015
 fuente_pdf_oficial: https://sede.gobiernodecanarias.org/boc/boc-a-2022-138-2350.pdf
 ---
+
+
 # Agencia Canaria de Calidad Universitaria y Evaluación Educativa (ACCUEE).- Resolución de 30 de junio de 2022, del Director, por la que se crea el sello electrónico cualificado de la Agencia Canaria de Calidad Universitaria y Evaluación Educativa.
 
 III. Otras Resoluciones

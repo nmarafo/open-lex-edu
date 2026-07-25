@@ -18,13 +18,20 @@ clasificacion:
   subcategoria: Centros privados concertados
 tags:
 - centros-privados-concertados
+- conciertos-educativos
 - ensenanzas-deportivas
 - equipos-directivos
 - evaluacion
 - procedimiento-administrativo
 - roc
 relaciones:
-  desarrolla: []
+  fundamentado_en:
+  - norma_id: norm-can-d-135-2016
+  - norma_id: norm-can-l-6-2014
+  - norma_id: norm-can-res-boc-2018-220-18
+  - norma_id: norm-es-l-39-2015
+  fundamento_de:
+  - norma_id: norm-can-res-boc-2018-220-18
 fundamentos_derecho:
 - norma_id: norm-can-l-6-2014
   articulos:
@@ -34,6 +41,8 @@ fundamentos_derecho:
 - norma_id: norm-can-d-135-2016
 fuente_pdf_oficial: https://sede.gobiernodecanarias.org/boc/boc-a-2018-220-5209.pdf
 ---
+
+
 # [Resolución de 2 de noviembre de 2018](O2_11_2018_innovacion_promocion_educativa_dictan_instrucciones_tramitacion.md), de la Dirección General de Ordenación, Innovación y Promoción Educativa, por la que se dictan instrucciones para la tramitación electrónica del procedimiento por el que se regula la justificación correspondiente a la financiación de otros gastos, en los centros privados concertados de Canarias (BOC n.º 220, de 14 de noviembre).
 
 Miércoles 14 de noviembre de 2018

@@ -22,10 +22,20 @@ tags:
 - curriculo
 - ense-anzas-deportivas
 - ensenanzas-deportivas
+- fp-basica
 - oposiciones
 - profesorado
+- titulacion
 relaciones:
-  desarrolla: []
+  fundamentado_en:
+  - norma_id: norm-can-l-6-2014
+  - norma_id: norm-es-2001-7022
+  - norma_id: norm-es-2002-4371
+  - norma_id: norm-es-lo-2-2006
+  - norma_id: norm-es-lo-8-1985
+  fundamento_de:
+  - norma_id: norm-es-2007-19326
+  - norma_id: norm-es-2011-2615
 fundamentos_derecho:
 - norma_id: norm-es-lo-2-2006
   articulos:
@@ -38,6 +48,8 @@ fundamentos_derecho:
 - norma_id: norm-es-lo-8-1985
 - norma_id: norm-es-2002-4371
 ---
+
+
 # Real Decreto 320/2000, de 3 de marzo, por el que se establecen los títulos de Técnico Deportivo y Técnico Deportivo superior en las especialidades de Fútbol y Fútbol Sala, se aprueban las correspondientes enseñanzas mínimas y se regulan las pruebas y los requisitos de acceso a estas enseñanzas.
 
 El [Real Decreto 1913/1997](RD454_2002_ecd_establecen_elementos_basicos_informes_evaluacion.md), de 19 de diciembre, otorga la consideración de enseñanzas de régimen especial, a aquellas enseñanzas que conducen a la obtención de los títulos de técnicos deportivos mencionadas en el artículo 55 de la Ley 10/ 1990, de 15 de octubre, del Deporte. Asimismo, aprueba las directrices generales sobre los títulos y de las correspondientes enseñanzas mínimas.

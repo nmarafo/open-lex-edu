@@ -20,13 +20,50 @@ clasificacion:
   categoria_canonica: 01_marco_normativo_general_y_organico
   subcategoria: Marco normativo general
 tags:
-- competencias_educacion
+- autonomia-centro
+- competencias-educacion
 - curriculo
 - ensenanzas-deportivas
-- estatuto_autonomia
+- equipos-directivos
+- estatuto-autonomia
 - marco-normativo-general
+- titulacion
 relaciones:
-  desarrolla: []
+  fundamentado_en:
+  - norma_id: norm-es-ce-1978
+  fundamento_de:
+  - norma_id: norm-can-d-114-2011
+  - norma_id: norm-can-d-123-2023
+  - norma_id: norm-can-l-1-1997
+  - norma_id: norm-can-l-14-1990
+  - norma_id: norm-can-l-16-2003
+  - norma_id: norm-can-l-2-1987
+  - norma_id: norm-can-l-4-2023
+  - norma_id: norm-can-l-6-2014
+  - norma_id: norm-can-res-030
+  - norma_id: norm-can-res-032
+  - norma_id: norm-can-res-033
+  - norma_id: norm-can-res-034
+  - norma_id: norm-can-res-035
+  - norma_id: norm-can-res-036
+  - norma_id: norm-can-res-037
+  - norma_id: norm-can-res-038
+  - norma_id: norm-can-res-039
+  - norma_id: norm-can-res-042
+  - norma_id: norm-can-res-043
+  - norma_id: norm-can-res-boc-2024-117-93
+  - norma_id: norm-can-res-boc-2024-226-44
+  - norma_id: norm-can-res-boc-2024-230-25
+  - norma_id: norm-can-res-boc-2025-046-47
+  - norma_id: norm-can-res-boc-2026-039-102
+  - norma_id: norm-can-res-boc-2026-070-115
+  - norma_id: norm-can-res-boc-2026-070-116
+  - norma_id: norm-can-res-boc-2026-070-41
+  - norma_id: norm-can-res-boc-2026-109-92
+  - norma_id: norm-can-res-boc-2026-129-26
+  - norma_id: norm-can-res-boc-2026-141-29
+  - norma_id: norm-es-2010-10321
+  - norma_id: norm-es-2021-11382
 fundamentos_derecho:
 - norma_id: norm-es-ce-1978
   articulos:
@@ -34,6 +71,8 @@ fundamentos_derecho:
 ocr_procesado: true
 motor_ocr: rapidocr_onnxruntime
 ---
+
+
 # Ley Orgánica 1/2018, de 5 de noviembre, de reforma del Estatuto de Autonomía de Canarias.
 
 --- Página 1 (Transcripción OCR de Anexo/Imagen) ---

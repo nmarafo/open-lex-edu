@@ -19,10 +19,42 @@ clasificacion:
 tags:
 - curriculo
 - evaluacion
-- protecci-n-de-datos-y-seguridad-de-la-informaci-n
+- protecci-n-de-datos-y-seguridad-de-la-informacion
+- proteccion-menores
 - rgpd
+- titulacion
 relaciones:
-  desarrolla: []
+  fundamentado_en:
+  - norma_id: norm-can-d-81-2010
+  - norma_id: norm-es-lo-2-2006
+  fundamento_de:
+  - norma_id: norm-can-d-114-2011
+  - norma_id: norm-can-o-1-9-2010
+  - norma_id: norm-can-res-boc-2018-086-122
+  - norma_id: norm-can-res-juriscan-64838-121
+  - norma_id: norm-can-res-juriscan-65631-68
+  - norma_id: norm-can-res-juriscan-72882-123
+  - norma_id: norm-es-2003-23399
+  - norma_id: norm-es-2003-4151
+  - norma_id: norm-es-2004-15601
+  - norma_id: norm-es-2006-21648
+  - norma_id: norm-es-2007-19814
+  - norma_id: norm-es-2008-979
+  - norma_id: norm-es-2010-10424
+  - norma_id: norm-es-2011-16923
+  - norma_id: norm-es-2011-17560
+  - norma_id: norm-es-2012-8745
+  - norma_id: norm-es-2013-12632
+  - norma_id: norm-es-2014-2222
+  - norma_id: norm-es-2014-7684
+  - norma_id: norm-es-2015-6839
+  - norma_id: norm-es-2015-8470
+  - norma_id: norm-es-l-19-2013
+  - norma_id: norm-es-l-40-2015
+  - norma_id: norm-es-l-9-2017
+  - norma_id: norm-es-lo-3-2018
+  - norma_id: norm-es-lo-5-2000
+  - norma_id: norm-es-rd-659-2023
 fundamentos_derecho:
 - norma_id: norm-can-d-81-2010
   articulos:
@@ -32,6 +64,8 @@ fundamentos_derecho:
   articulos:
   - '120'
 ---
+
+
 # Ley Orgánica 15/1999, de 13 de diciembre, de Protección de Datos de Carácter Personal.
 
 **JUAN CARLOS I**

@@ -17,10 +17,17 @@ clasificacion:
   subcategoria: Centros públicos
 tags:
 - centros-p-blicos
+- ensenanzas-universitarias
 - evaluacion
 - profesorado
 relaciones:
-  desarrolla: []
+  fundamentado_en:
+  - norma_id: norm-can-d-135-2016
+  - norma_id: norm-can-l-6-2014
+  - norma_id: norm-es-2010-12201
+  - norma_id: norm-es-2021-20113
+  - norma_id: norm-es-l-39-2015
+  - norma_id: norm-es-lo-2-2006
 fundamentos_derecho:
 - norma_id: norm-can-l-6-2014
   articulos:
@@ -32,6 +39,8 @@ fundamentos_derecho:
 - norma_id: norm-can-d-135-2016
 fuente_pdf_oficial: https://sede.gobiernodecanarias.org/boc/boc-a-2019-024-502.pdf
 ---
+
+
 # Resolución de 29 de enero de 2019, por la que se aprueba la convocatoria de reconocimiento de la trayectoria y proyección internacional de los centros educativos públicos no universitarios de la Comunidad Autónoma de Canarias (BOC n.º 24, de 5 de febrero).
 
 Martes 5 de febrero de 2019

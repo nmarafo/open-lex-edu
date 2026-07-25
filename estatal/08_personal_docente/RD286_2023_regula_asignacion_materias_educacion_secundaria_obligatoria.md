@@ -22,23 +22,33 @@ tags:
 - bachillerato
 - curriculo
 - ebep
+- ensenanzas-universitarias
 - eso
 - especialidades-y-habilitaciones
 - evaluacion
 - formacion-profesional
 - profesorado
+- titulacion
 relaciones:
   desarrolla:
   - norma_id: norm-es-rd-217-2022
-    articulos_origen:
-    - Todos
-    articulos_destino:
-    - Todos
   - norma_id: norm-es-rd-243-2022
-    articulos_origen:
-    - Todos
-    articulos_destino:
-    - Todos
+  fundamentado_en:
+  - norma_id: norm-can-res-134
+  - norma_id: norm-es-1993-23257
+  - norma_id: norm-es-2001-7022
+  - norma_id: norm-es-2010-12201
+  - norma_id: norm-es-2015-8043
+  - norma_id: norm-es-2016-3229
+  - norma_id: norm-es-2021-20113
+  - norma_id: norm-es-2022-16194
+  - norma_id: norm-es-ce-1978
+  - norma_id: norm-es-l-39-2015
+  - norma_id: norm-es-lo-2-2006
+  - norma_id: norm-es-lo-3-2022
+  - norma_id: norm-es-rd-1834-2008
+  fundamento_de:
+  - norma_id: norm-es-2024-10683
 fundamentos_derecho:
 - norma_id: norm-es-ce-1978
   articulos:
@@ -58,6 +68,8 @@ fundamentos_derecho:
 - norma_id: norm-es-1993-23257
 - norma_id: norm-es-2022-16194
 ---
+
+
 # Real Decreto 286/2023, de 18 de abril, por el que se regula la asignación de materias en Educación Secundaria Obligatoria y en Bachillerato a las especialidades de distintos cuerpos de funcionarios docentes, y se modifican diversas normas relativas al profesorado de enseñanzas no universitarias.
 
 La [Ley Orgánica 2/2006](../01_marco_normativo_general_y_organico/LO2_2006_educacion_texto_consolidado_modificaciones_lomloe.md), de 3 de mayo, de Educación, establece en sus artículos 91 al 99 las funciones del profesorado de las distintas enseñanzas que se regulan en ella, así como sus respectivas condiciones de titulación y formación pedagógica y didáctica. En la disposición adicional séptima, a su vez, se especifican las funciones de los diferentes cuerpos en los que se ordena la función pública docente.

@@ -23,9 +23,18 @@ tags:
 - ense-anzas-deportivas
 - ensenanzas-deportivas
 - formacion-profesional
+- grado-medio
+- grado-superior
 - oposiciones
+- titulacion
 relaciones:
-  desarrolla: []
+  fundamentado_en:
+  - norma_id: norm-es-2000-5990
+  - norma_id: norm-es-2007-19326
+  - norma_id: norm-es-2010-12201
+  - norma_id: norm-es-2021-20113
+  - norma_id: norm-es-l-39-2015
+  - norma_id: norm-es-lo-2-2006
 fundamentos_derecho:
 - norma_id: norm-es-lo-2-2006
   articulos:
@@ -39,6 +48,8 @@ fundamentos_derecho:
 - norma_id: norm-es-2021-20113
 - norma_id: norm-es-2010-12201
 ---
+
+
 # Orden EDU/216/2011, de 8 de febrero, por la que se establece el procedimiento de reconocimiento de las formaciones de entrenadores deportivos en las modalidades de fútbol y fútbol sala.
 
 El [Real Decreto 320/2000](RD320_2000_establecen_titulos_tecnico_deportivo_tecnico_deportivo.md), de 3 de marzo, estableció los títulos de Técnico Deportivo y Técnico Deportivo Superior en fútbol y fútbol sala, aprobó las correspondientes enseñanzas mínimas y reguló las pruebas de acceso a estas enseñanzas.

@@ -20,10 +20,16 @@ tags:
 - educacion-infantil
 - educacion-primaria
 - ensenanzas-deportivas
+- equipos-directivos
 - organizacion-escolar
+- personal-no-docente
 - profesorado
 relaciones:
-  desarrolla: []
+  fundamentado_en:
+  - norma_id: norm-can-d-212-1991
+  - norma_id: norm-can-l-2-1987
+  - norma_id: norm-can-l-6-2014
+  - norma_id: norm-es-1984-17387
 fundamentos_derecho:
 - norma_id: norm-can-l-6-2014
   articulos:
@@ -32,6 +38,8 @@ fundamentos_derecho:
 - norma_id: norm-es-1984-17387
 - norma_id: norm-can-d-212-1991
 ---
+
+
 # Resolución de 18 de marzo de 1996, de la Secretaría General Técnica, por la que se hace pública la Circular 1/1996, que dicta instrucciones sobre control de horarios y absentismo del personal no docente de Centros escolares de la Consejería de Educación, Cultura y Deportes (BOC nº 57, de 10 de mayo).
 
 BOC - 1996/057. Viernes 10 de Mayo de 1996 - 679

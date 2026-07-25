@@ -19,15 +19,54 @@ clasificacion:
   categoria_canonica: 02_gestion_y_administracion_centros
   subcategoria: Protección de datos y seguridad de la información
 tags:
-- derechos_digitales
+- derechos-digitales
 - lopdgdd
 - oposiciones
-- protecci-n-de-datos-y-seguridad-de-la-informaci-n
-- proteccion_datos
+- protecci-n-de-datos-y-seguridad-de-la-informacion
+- proteccion-datos
+- proteccion-menores
 - rgpd
-- seguridad_informacion
+- seguridad-informacion
+- titulacion
+- transparencia
 relaciones:
-  desarrolla: []
+  fundamentado_en:
+  - norma_id: norm-can-l-16-2003
+  - norma_id: norm-es-1999-23750
+  - norma_id: norm-es-2008-979
+  - norma_id: norm-es-2010-12201
+  - norma_id: norm-es-2013-12632
+  - norma_id: norm-es-2021-20113
+  - norma_id: norm-es-ce-1978
+  - norma_id: norm-es-l-19-2013
+  - norma_id: norm-es-l-31-1995
+  - norma_id: norm-es-l-39-2015
+  - norma_id: norm-es-l-40-2015
+  - norma_id: norm-es-lo-1-1996
+  - norma_id: norm-es-lo-2-2006
+  - norma_id: norm-es-rdl-2-2015
+  - norma_id: norm-es-rdl-5-2015
+  fundamento_de:
+  - norma_id: norm-can-o-2023-09-28
+  - norma_id: norm-can-res-014
+  - norma_id: norm-can-res-097
+  - norma_id: norm-can-res-099
+  - norma_id: norm-can-res-125
+  - norma_id: norm-can-res-boc-2024-230-25
+  - norma_id: norm-can-res-boc-2026-039-111
+  - norma_id: norm-can-res-boc-2026-129-26
+  - norma_id: norm-es-2007-19814
+  - norma_id: norm-es-2008-979
+  - norma_id: norm-es-2021-11382
+  - norma_id: norm-es-2025-2039
+  - norma_id: norm-es-2026-12038
+  - norma_id: norm-es-l-19-2013
+  - norma_id: norm-es-lo-10-2022
+  - norma_id: norm-es-lo-8-2021
+  - norma_id: norm-es-rd-157-2022
+  - norma_id: norm-es-rd-217-2022
+  - norma_id: norm-es-rd-243-2022
+  - norma_id: norm-es-rd-659-2023
 fundamentos_derecho:
 - norma_id: norm-es-ce-1978
   articulos:
@@ -47,6 +86,8 @@ fundamentos_derecho:
 - norma_id: norm-es-2013-12632
 - norma_id: norm-es-rdl-2-2015
 ---
+
+
 # Ley Orgánica 3/2018 de Protección de Datos Personales y Garantía de los Derechos Digitales
 
 **FELIPE VI**

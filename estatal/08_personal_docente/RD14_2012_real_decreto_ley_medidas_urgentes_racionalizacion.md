@@ -20,12 +20,23 @@ tags:
 - bachillerato
 - curriculo
 - ebep
+- ensenanzas-universitarias
 - formacion-profesional
+- fp-basica
+- interinos
 - jornada-laboral-y-horarios
 - oposiciones
+- personal-no-docente
 - profesorado
 relaciones:
-  desarrolla: []
+  fundamentado_en:
+  - norma_id: norm-es-2010-12201
+  - norma_id: norm-es-2021-20113
+  - norma_id: norm-es-ce-1978
+  - norma_id: norm-es-lo-2-2006
+  - norma_id: norm-es-rd-132-2010
+  fundamento_de:
+  - norma_id: norm-es-2019-3307
 fundamentos_derecho:
 - norma_id: norm-es-ce-1978
   articulos:
@@ -38,6 +49,8 @@ fundamentos_derecho:
 - norma_id: norm-es-2021-20113
 - norma_id: norm-es-2010-12201
 ---
+
+
 # Real Decreto-ley 14/2012, de 20 de abril, de medidas urgentes de racionalización del gasto público en el ámbito educativo.
 
 En la actual coyuntura económica se hace necesario mejorar la eficiencia de las Administraciones Públicas en el uso de los recursos públicos, con objeto de contribuir a la consecución del inexcusable objetivo de estabilidad presupuestaria derivado del marco constitucional y de la Unión Europea.

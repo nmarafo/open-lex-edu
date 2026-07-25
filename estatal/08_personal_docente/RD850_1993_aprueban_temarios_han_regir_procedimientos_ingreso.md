@@ -21,11 +21,21 @@ clasificacion:
   subcategoria: Oposiciones y acceso
 tags:
 - eoi
+- eso
 - oposiciones
 - oposiciones-y-acceso
+- profesorado
+- proteccion-menores
 - rgpd
 relaciones:
-  desarrolla: []
+  fundamentado_en:
+  - norma_id: norm-es-rd-276-2007
+  - norma_id: norm-es-rdl-5-2015
+  fundamento_de:
+  - norma_id: norm-es-1995-22212
+  - norma_id: norm-es-1996-3102
+  - norma_id: norm-es-1998-10720
+  - norma_id: norm-es-2023-9553
 fundamentos_derecho:
 - norma_id: norm-es-rd-276-2007
   articulos:
@@ -34,6 +44,8 @@ fundamentos_derecho:
   articulos:
   - '1'
 ---
+
+
 # Orden de 9 de septiembre de 1993 por la que se aprueban los temarios que han de regir en los procedimientos de ingreso, adquisición de nuevas especialidades y movilidad para determinadas especialidades de los Cuerpos de Maestros, Profesores de Enseñanza Secundaria y Profesores de Escuelas Oficiales de Idiomas, regulados por el Real Decreto 850/1993, de 4 de junio.
 
 Ir a contenido

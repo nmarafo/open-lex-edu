@@ -29,10 +29,15 @@ tags:
 relaciones:
   desarrolla:
   - norma_id: norm-es-lo-8-2021
-    articulos_origen:
-    - Todos
-    articulos_destino:
-    - Todos
+  fundamentado_en:
+  - norma_id: norm-can-d-212-1991
+  - norma_id: norm-can-d-84-2024
+  - norma_id: norm-can-l-6-2014
+  - norma_id: norm-es-2010-12201
+  - norma_id: norm-es-2021-20113
+  - norma_id: norm-es-l-39-2015
+  - norma_id: norm-es-l-40-2015
+  - norma_id: norm-es-lo-2-2006
 fundamentos_derecho:
 - norma_id: norm-can-l-6-2014
   articulos:
@@ -47,6 +52,8 @@ fundamentos_derecho:
 - norma_id: norm-can-d-212-1991
 fuente_pdf_oficial: https://sede.gobiernodecanarias.org/boc/boc-a-2026-029-465.pdf
 ---
+
+
 # Resolución de 30 de enero de2026, de la Dirección General de Personal y Formación del Profesorado, por la que se convoca, por el sistema de libre designación, la provisión de puestos de dirección de centros públicos integrados de formación profesional de la Comunidad Autónoma de Canarias para el periodo de mandato 2026-2030 (BOC n.º 29, de 12 de febrero).
 
 II. Autoridades y personal

@@ -19,20 +19,36 @@ clasificacion:
   categoria_canonica: 07_convivencia_bienestar_y_protocolos
   subcategoria: Protocolos de actuación y protección
 tags:
-- coordinador_bienestar
+- coordinador-bienestar
 - educacion-infantil
 - lopivi
-- prevencion_violencia
-- proteccion_menores
+- prevencion-riesgos-laborales
+- prevencion-violencia
+- proteccion-menores
 - protocolos-de-actuaci-n-y-protecci-n
 relaciones:
-  desarrolla: []
   desarrollado_por:
   - norma_id: norm-can-res-096
-    articulos_origen:
-    - Todos
-    articulos_destino:
-    - Todos
+  fundamentado_en:
+  - norma_id: norm-can-l-16-2003
+  - norma_id: norm-es-1995-25444
+  - norma_id: norm-es-2010-12201
+  - norma_id: norm-es-2015-8222
+  - norma_id: norm-es-2015-8470
+  - norma_id: norm-es-2021-20113
+  - norma_id: norm-es-ce-1978
+  - norma_id: norm-es-l-39-2015
+  - norma_id: norm-es-l-40-2015
+  - norma_id: norm-es-lo-1-1996
+  - norma_id: norm-es-lo-1-2004
+  - norma_id: norm-es-lo-2-2006
+  - norma_id: norm-es-lo-3-2018
+  - norma_id: norm-es-lo-5-2000
+  fundamento_de:
+  - norma_id: norm-can-res-135
+  - norma_id: norm-can-res-boc-2026-129-26
+  - norma_id: norm-es-2026-2622
+  - norma_id: norm-es-lo-10-2022
 fundamentos_derecho:
 - norma_id: norm-es-ce-1978
   articulos:
@@ -52,6 +68,8 @@ fundamentos_derecho:
 - norma_id: norm-es-2010-12201
 - norma_id: norm-es-lo-1-2004
 ---
+
+
 # Ley Orgánica 8/2021 de Protección Integral a la Infancia y la Adolescencia frente a la Violencia (LOPIVI)
 
 **FELIPE VI**

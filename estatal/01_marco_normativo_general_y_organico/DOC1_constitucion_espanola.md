@@ -18,19 +18,105 @@ clasificacion:
   categoria_canonica: 01_marco_normativo_general_y_organico
   subcategoria: Marco normativo general
 tags:
+- autonomia-centro
 - constitucion
 - convivencia
-- derecho_educacion
-- derechos_fundamentales
+- convivencia-escolar
+- derecho-educacion
+- derechos-fundamentales
+- igualdad-genero
 - marco-normativo-general
+- titulacion
 relaciones:
-  desarrolla: []
+  fundamentado_en:
+  - norma_id: norm-es-lo-2-2006
+  fundamento_de:
+  - norma_id: norm-can-d-234-1996
+  - norma_id: norm-can-l-1-1997
+  - norma_id: norm-can-l-14-1990
+  - norma_id: norm-can-l-6-2014
+  - norma_id: norm-can-lo-1-2018
+  - norma_id: norm-es-1984-17387
+  - norma_id: norm-es-1985-5392
+  - norma_id: norm-es-1986-1216
+  - norma_id: norm-es-1987-15278
+  - norma_id: norm-es-1988-3987
+  - norma_id: norm-es-1995-25444
+  - norma_id: norm-es-1999-8849
+  - norma_id: norm-es-2000-544
+  - norma_id: norm-es-2002-12018
+  - norma_id: norm-es-2003-23399
+  - norma_id: norm-es-2004-5771
+  - norma_id: norm-es-2007-19814
+  - norma_id: norm-es-2007-6115
+  - norma_id: norm-es-2009-20550
+  - norma_id: norm-es-2009-3424
+  - norma_id: norm-es-2010-10321
+  - norma_id: norm-es-2010-12706
+  - norma_id: norm-es-2010-4130
+  - norma_id: norm-es-2010-4518
+  - norma_id: norm-es-2011-17890
+  - norma_id: norm-es-2012-5337
+  - norma_id: norm-es-2012-8745
+  - norma_id: norm-es-2012-9282
+  - norma_id: norm-es-2013-12632
+  - norma_id: norm-es-2013-13756
+  - norma_id: norm-es-2014-2222
+  - norma_id: norm-es-2014-5591
+  - norma_id: norm-es-2014-6008
+  - norma_id: norm-es-2015-8043
+  - norma_id: norm-es-2015-8222
+  - norma_id: norm-es-2015-8470
+  - norma_id: norm-es-2015-9453
+  - norma_id: norm-es-2015-9462
+  - norma_id: norm-es-2016-3229
+  - norma_id: norm-es-2018-4480
+  - norma_id: norm-es-2019-317
+  - norma_id: norm-es-2019-3307
+  - norma_id: norm-es-2020-17274
+  - norma_id: norm-es-2021-18189
+  - norma_id: norm-es-2021-18812
+  - norma_id: norm-es-2022-11589
+  - norma_id: norm-es-2022-12014
+  - norma_id: norm-es-2023-9553
+  - norma_id: norm-es-2024-10683
+  - norma_id: norm-es-2025-2039
+  - norma_id: norm-es-2026-2622
+  - norma_id: norm-es-l-19-2013
+  - norma_id: norm-es-l-31-1995
+  - norma_id: norm-es-l-39-2015
+  - norma_id: norm-es-l-40-2015
+  - norma_id: norm-es-l-53-1984
+  - norma_id: norm-es-l-9-2017
+  - norma_id: norm-es-lo-1-1982
+  - norma_id: norm-es-lo-1-1996
+  - norma_id: norm-es-lo-1-2004
+  - norma_id: norm-es-lo-10-2022
+  - norma_id: norm-es-lo-2-2006
+  - norma_id: norm-es-lo-3-2018
+  - norma_id: norm-es-lo-3-2022
+  - norma_id: norm-es-lo-5-2000
+  - norma_id: norm-es-lo-8-1985
+  - norma_id: norm-es-lo-8-2021
+  - norma_id: norm-es-rd-1533-1986
+  - norma_id: norm-es-rd-157-2022
+  - norma_id: norm-es-rd-1834-2008
+  - norma_id: norm-es-rd-2377-1985
+  - norma_id: norm-es-rd-243-2022
+  - norma_id: norm-es-rd-276-2007
+  - norma_id: norm-es-rd-476-2013
+  - norma_id: norm-es-rd-943-2003
+  - norma_id: norm-es-rd-95-2022
+  - norma_id: norm-es-rdl-2-2015
+  - norma_id: norm-es-rdl-5-2015
 fundamentos_derecho:
 - norma_id: norm-es-lo-2-2006
   articulos:
   - '1'
   - '2.1'
 ---
+
+
 # Constitución Española de 1978
 
 DON JUAN CARLOS I, REY DE ESPAÑA, A TODOS LOS QUE LA PRESENTE VIEREN Y ENTENDIEREN,

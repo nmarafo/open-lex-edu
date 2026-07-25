@@ -19,18 +19,34 @@ clasificacion:
   categoria_canonica: 07_convivencia_bienestar_y_protocolos
   subcategoria: Protocolos de actuación y protección
 tags:
+- convivencia-escolar
 - igualdad
-- proteccion_victimas
+- igualdad-genero
+- personal-no-docente
+- proteccion-menores
+- proteccion-victimas
 - protocolos-de-actuaci-n-y-protecci-n
-- violencia_genero
+- violencia-genero
 relaciones:
-  desarrolla: []
   desarrollado_por:
   - norma_id: norm-can-l-16-2003
-    articulos_origen:
-    - Todos
-    articulos_destino:
-    - Todos
+  fundamentado_en:
+  - norma_id: norm-es-1984-17387
+  - norma_id: norm-es-1995-25444
+  - norma_id: norm-es-2001-7022
+  - norma_id: norm-es-ce-1978
+  - norma_id: norm-es-lo-8-1985
+  fundamento_de:
+  - norma_id: norm-can-o-2023-09-28
+  - norma_id: norm-es-2010-4518
+  - norma_id: norm-es-2012-9364
+  - norma_id: norm-es-2015-8222
+  - norma_id: norm-es-2015-8470
+  - norma_id: norm-es-2022-11589
+  - norma_id: norm-es-2024-11613
+  - norma_id: norm-es-lo-10-2022
+  - norma_id: norm-es-lo-2-2006
+  - norma_id: norm-es-lo-8-2021
 fundamentos_derecho:
 - norma_id: norm-es-ce-1978
   articulos:
@@ -40,6 +56,8 @@ fundamentos_derecho:
 - norma_id: norm-es-2001-7022
 - norma_id: norm-es-lo-8-1985
 ---
+
+
 # Ley Orgánica 1/2004 de Medidas de Protección Integral contra la Violencia de Género
 
 **JUAN CARLOS I**

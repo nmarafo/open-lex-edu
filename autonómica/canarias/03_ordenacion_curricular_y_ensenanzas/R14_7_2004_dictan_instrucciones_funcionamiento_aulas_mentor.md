@@ -15,19 +15,24 @@ clasificacion:
   categoria_canonica: 03_ordenacion_curricular_y_ensenanzas
   subcategoria: Educación de Personas Adultas
 tags:
+- becas-y-ayudas
 - educaci-n-de-personas-adultas
 - educacion-personas-adultas
 - ensenanzas-deportivas
 - equipos-directivos
 - formacion-profesional
+- profesorado
 - roc
 relaciones:
-  desarrolla: []
+  fundamentado_en:
+  - norma_id: norm-can-l-6-2014
 fundamentos_derecho:
 - norma_id: norm-can-l-6-2014
   articulos:
   - '1'
 ---
+
+
 # Resolución de 14 de julio de 2004, de la Dirección General de Formación Profesional y Educación de Adultos, por la que se dictan instrucciones para el funcionamiento de las Aulas Mentor.
 
 BOC - 2004/158. Martes 17 de Agosto de 2004 - 1219

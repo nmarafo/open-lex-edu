@@ -19,11 +19,32 @@ clasificacion:
   subcategoria: Formación Profesional
 tags:
 - curriculo
-- formaci-n-profesional
 - formacion-profesional
+- grado-medio
 - profesorado
+- titulacion
 relaciones:
-  desarrolla: []
+  fundamentado_en:
+  - norma_id: norm-can-l-6-2014
+  - norma_id: norm-can-res-134
+  - norma_id: norm-can-res-boc-2024-230-25
+  - norma_id: norm-es-2007-5478
+  - norma_id: norm-es-2010-12201
+  - norma_id: norm-es-2020-17274
+  - norma_id: norm-es-2021-20113
+  - norma_id: norm-es-2021-979
+  - norma_id: norm-es-2022-16194
+  - norma_id: norm-es-l-39-2015
+  - norma_id: norm-es-lo-2-2006
+  - norma_id: norm-es-lo-3-2022
+  - norma_id: norm-es-rd-276-2007
+  - norma_id: norm-es-rd-659-2023
+  fundamento_de:
+  - norma_id: norm-can-res-027
+  - norma_id: norm-can-res-030
+  - norma_id: norm-can-res-boc-2024-226-44
+  - norma_id: norm-can-res-boc-2024-230-25
+  - norma_id: norm-can-res-boc-2026-070-41
 fundamentos_derecho:
 - norma_id: norm-es-lo-2-2006
   articulos:
@@ -45,6 +66,8 @@ fundamentos_derecho:
 - norma_id: norm-es-2022-16194
 - norma_id: norm-es-rd-276-2007
 ---
+
+
 # Real Decreto 499/2024, de 21 de mayo, por el que se modifican determinados reales decretos por los que se establecen títulos de Formación Profesional de grado medio y se fijan sus enseñanzas mínimas.
 
 **ÍNDICE**

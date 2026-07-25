@@ -16,13 +16,18 @@ clasificacion:
   subcategoria: Enseñanzas de Idiomas
 tags:
 - curriculo
+- cursos-especializacion
 - educacion-personas-adultas
 - ense-anzas-de-idiomas
 - eoi
 - equipos-directivos
 - formacion-profesional
 relaciones:
-  desarrolla: []
+  fundamentado_en:
+  - norma_id: norm-can-l-6-2014
+  - norma_id: norm-es-2010-12201
+  - norma_id: norm-es-2021-20113
+  - norma_id: norm-es-lo-2-2006
 fundamentos_derecho:
 - norma_id: norm-can-l-6-2014
   articulos:
@@ -33,6 +38,8 @@ fundamentos_derecho:
 fuente_pdf_oficial: https://sede.gobiernodecanarias.org/boc/boc-a-2014-021-349.pdf
 fuente_juriscan: http://www.gobiernodecanarias.org/juriscan/ficha.jsp?id=70096
 ---
+
+
 # Resolución de 14 de enero de 2014, por la que se determinan las características de las pruebas comunes de obtención del certificado de especialización de nivel C1 de enseñanzas de idiomas de régimen especial, en la Comunidad Autónoma de Canarias.
 
 Consejería de Educación, Universidades y Sostenibilidad

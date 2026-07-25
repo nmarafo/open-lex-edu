@@ -17,12 +17,19 @@ clasificacion:
   subcategoria: Estructura de la Consejería
 tags:
 - curriculo
+- ensenanzas-universitarias
 - equipos-directivos
 - estructura-de-la-consejer-a
 - evaluacion
 - roc
 relaciones:
-  desarrolla: []
+  fundamentado_en:
+  - norma_id: norm-can-d-135-2016
+  - norma_id: norm-can-d-212-1991
+  - norma_id: norm-can-l-14-1990
+  - norma_id: norm-can-l-6-2014
+  - norma_id: norm-es-2012-9282
+  - norma_id: norm-es-l-40-2015
 fundamentos_derecho:
 - norma_id: norm-can-l-6-2014
   articulos:
@@ -36,6 +43,8 @@ fuente_pdf_oficial: https://sede.gobiernodecanarias.org/boc/boc-a-2017-020-416.p
 anexos_extraidos_pdf: true
 ocr_procesado: true
 ---
+
+
 # Resolución de 20 de enero de 2017, de la Dirección General de Ordenación, Innovación y Promoción Educativa, por la que se delega en la Directora de la Agencia Canaria de Calidad Universitaria y Evaluación Educativa determinadas competencias en materia de innovación y promoción educativa (BOC n.º 20, de 30 de enero).
 
 Boletín Oficial de Canarias núm. 20

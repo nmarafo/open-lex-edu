@@ -26,7 +26,14 @@ tags:
 - evaluacion
 - formacion-profesional
 relaciones:
-  desarrolla: []
+  fundamentado_en:
+  - norma_id: norm-can-d-135-2016
+  - norma_id: norm-can-l-6-2014
+  - norma_id: norm-es-2007-10487
+  - norma_id: norm-es-2010-12201
+  - norma_id: norm-es-2021-20113
+  - norma_id: norm-es-l-39-2015
+  - norma_id: norm-es-lo-2-2006
 fundamentos_derecho:
 - norma_id: norm-can-l-6-2014
   articulos:
@@ -39,6 +46,8 @@ fundamentos_derecho:
 - norma_id: norm-can-d-135-2016
 fuente_pdf_oficial: https://sede.gobiernodecanarias.org/boc/boc-a-2018-106-2612.pdf
 ---
+
+
 # Resolución de 22 de mayo de 2018, de la Dirección General de Formación Profesional y Educación de Adultos, por la que se dictan instrucciones para la concesión de los Premios Extraordinarios de Enseñanzas Profesionales de Música y de Artes Plásticas y Diseño en la Comunidad Autónoma de Canarias, en el curso 2017-2018 (BOC n.º 106, de 4 de junio).
 
 Lunes 4 de junio de 2018

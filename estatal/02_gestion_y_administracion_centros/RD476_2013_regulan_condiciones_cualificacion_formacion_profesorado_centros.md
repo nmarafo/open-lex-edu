@@ -23,26 +23,30 @@ clasificacion:
 tags:
 - bachillerato
 - centros-privados
-- centros_privados
-- cualificacion_profesorado
+- conciertos-educativos
+- cualificacion-profesorado
 - curriculo
 - educacion-infantil
 - educacion-primaria
 - ensenanzas-artisticas
+- ensenanzas-universitarias
+- eoi
 - eso
 - evaluacion
 - profesorado
-- titulaciones_requeridas
+- titulacion
+- titulaciones-requeridas
 relaciones:
   desarrolla:
   - norma_id: norm-es-lo-2-2006
-    articulos_origen:
-    - Todos
-    articulos_destino:
-    - '93'
-    - '94'
-    nota: Regula las condiciones específicas de titulación para impartir docencia
-      en centros privados no universitarios.
+  fundamentado_en:
+  - norma_id: norm-es-2001-7022
+  - norma_id: norm-es-2007-5478
+  - norma_id: norm-es-2010-12201
+  - norma_id: norm-es-2021-20113
+  - norma_id: norm-es-ce-1978
+  - norma_id: norm-es-rd-132-2010
+  - norma_id: norm-es-rd-276-2007
 fundamentos_derecho:
 - norma_id: norm-es-lo-2-2006
   articulos:
@@ -58,6 +62,8 @@ fundamentos_derecho:
 - norma_id: norm-es-2007-5478
 - norma_id: norm-es-rd-276-2007
 ---
+
+
 # Real Decreto 476/2013 - Cualificación del Profesorado en Centros Privados
 
 El artículo 92 de la [Ley Orgánica 2/2006](../01_marco_normativo_general_y_organico/LO2_2006_educacion_texto_consolidado_modificaciones_lomloe.md), de 3 de mayo, de Educación, establece que la atención educativa directa a los niños del primer ciclo de Educación Infantil correrá a cargo de profesionales que posean el título de Maestro con la especialización en Educación Infantil o el título de Grado equivalente y, en su caso, de otro personal con la debida titulación para la atención a las niñas y niños de esta edad. En todo caso, la elaboración y seguimiento de la propuesta pedagógica a la que hace referencia el apartado 2 del artículo 14, estarán bajo la responsabilidad de un profesional con el título de Maestro de Educación Infantil o título de Grado equivalente. El segundo ciclo de Educación Infantil será impartido por profesores con el título de Maestro y la especialidad en Educación Infantil o el título de Grado equivalente y podrán ser apoyados, en su labor docente, por Maestros de otras especialidades cuando las enseñanzas impartidas lo requieran.

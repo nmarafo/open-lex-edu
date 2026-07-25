@@ -20,13 +20,21 @@ tags:
 - curriculo
 - ebep
 - educacion-primaria
+- ensenanzas-universitarias
 - eso
 - gestion-economica
 - jornada-laboral-y-horarios
 - oposiciones
+- personal-no-docente
 - profesorado
 relaciones:
-  desarrolla: []
+  fundamentado_en:
+  - norma_id: norm-es-2010-12201
+  - norma_id: norm-es-2012-5337
+  - norma_id: norm-es-2021-20113
+  - norma_id: norm-es-ce-1978
+  - norma_id: norm-es-l-39-2015
+  - norma_id: norm-es-lo-2-2006
 fundamentos_derecho:
 - norma_id: norm-es-ce-1978
   articulos:
@@ -42,6 +50,8 @@ fundamentos_derecho:
 - norma_id: norm-es-2010-12201
 - norma_id: norm-es-2012-5337
 ---
+
+
 # Ley 4/2019, de 7 de marzo, de mejora de las condiciones para el desempeño de la docencia y la enseñanza en el ámbito de la educación no universitaria.
 
 **FELIPE VI**

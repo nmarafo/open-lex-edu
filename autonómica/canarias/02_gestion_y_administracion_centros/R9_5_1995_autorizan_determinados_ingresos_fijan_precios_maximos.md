@@ -16,6 +16,7 @@ clasificacion:
   categoria_canonica: 02_gestion_y_administracion_centros
   subcategoria: Gestión económica de centros
 tags:
+- autonomia-centro
 - consejo-escolar
 - curriculo
 - ensenanzas-deportivas
@@ -26,7 +27,8 @@ tags:
 - profesorado
 - roc
 relaciones:
-  desarrolla: []
+  fundamentado_en:
+  - norma_id: norm-can-l-6-2014
 fundamentos_derecho:
 - norma_id: norm-can-l-6-2014
   articulos:
@@ -34,6 +36,8 @@ fundamentos_derecho:
 fuente_pdf_oficial: http://www.gobiernodecanarias.org/boc/1995/067/boc-1995-067-013.pdf
 fuente_juriscan: http://www.gobcan.es/juriscan/ficha.jsp?id=22458
 ---
+
+
 # Resolución de 9 de mayo de 1995, de la Dirección General de Centros, por la que se autorizan determinados ingresos, se fijan precios máximos con carácter general y otros precios que puedan fijar los Centros docentes públicos no universitarios de la Comunidad Autónoma de Canarias (BOC n.º 67, de 29 de mayo).
 
 Comunidad Autónoma de Canarias

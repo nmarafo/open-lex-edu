@@ -20,13 +20,31 @@ clasificacion:
   categoria_canonica: 02_gestion_y_administracion_centros
   subcategoria: Gestión económica de centros
 tags:
-- contratacion_publica
+- contratacion-publica
 - evaluacion
 - gesti-n-econ-mica-de-centros
-- gestion_economica
+- gestion-economica
 - lcsp
+- titulacion
 relaciones:
-  desarrolla: []
+  fundamentado_en:
+  - norma_id: norm-es-1985-5392
+  - norma_id: norm-es-1999-23750
+  - norma_id: norm-es-2007-19814
+  - norma_id: norm-es-2007-6115
+  - norma_id: norm-es-2013-12632
+  - norma_id: norm-es-ce-1978
+  - norma_id: norm-es-l-19-2013
+  - norma_id: norm-es-l-39-2015
+  - norma_id: norm-es-l-40-2015
+  - norma_id: norm-es-l-53-1984
+  - norma_id: norm-es-rdl-2-2015
+  - norma_id: norm-es-rdl-5-2015
+  fundamento_de:
+  - norma_id: norm-can-d-84-2024
+  - norma_id: norm-can-res-014
+  - norma_id: norm-can-res-boc-2026-129-26
+  - norma_id: norm-es-2022-11589
 fundamentos_derecho:
 - norma_id: norm-es-ce-1978
   articulos:
@@ -43,6 +61,8 @@ fundamentos_derecho:
 - norma_id: norm-es-2013-12632
 - norma_id: norm-es-rdl-2-2015
 ---
+
+
 # Ley 9/2017 de Contratos del Sector Público
 
 **FELIPE VI**

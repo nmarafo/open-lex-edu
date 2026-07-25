@@ -18,6 +18,7 @@ clasificacion:
   subcategoria: Función directiva y liderazgo
 tags:
 - ensenanzas-deportivas
+- ensenanzas-universitarias
 - equipos-directivos
 - formacion-profesional
 - funci-n-directiva-y-liderazgo
@@ -25,7 +26,17 @@ tags:
 - oposiciones
 - profesorado
 relaciones:
-  desarrolla: []
+  fundamentado_en:
+  - norma_id: norm-can-d-106-2009
+  - norma_id: norm-can-d-109-1999
+  - norma_id: norm-can-d-212-1991
+  - norma_id: norm-can-d-84-2024
+  - norma_id: norm-can-l-6-2014
+  - norma_id: norm-es-2010-12201
+  - norma_id: norm-es-2021-20113
+  - norma_id: norm-es-l-39-2015
+  - norma_id: norm-es-l-40-2015
+  - norma_id: norm-es-lo-2-2006
 fundamentos_derecho:
 - norma_id: norm-can-l-6-2014
   articulos:
@@ -41,6 +52,8 @@ fundamentos_derecho:
 - norma_id: norm-can-d-212-1991
 fuente_pdf_oficial: https://sede.gobiernodecanarias.org/boc/boc-a-2025-246-4231.pdf
 ---
+
+
 # Resolución de 2 de diciembre de 2025, de la Dirección General de Personal y Formación del Profesorado, por la que se convoca procedimiento para la selección de directores y directoras de los centros públicos de enseñanzas no universitarias de la Comunidad Autónoma de Canarias para el periodo de mandato 2026-2030 (BOC n.º 246, de 12 de diciembre).
 
 II. Autoridades y personal

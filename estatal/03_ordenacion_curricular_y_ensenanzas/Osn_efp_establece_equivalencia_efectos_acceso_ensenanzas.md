@@ -22,12 +22,18 @@ tags:
 - consejo-escolar
 - curriculo
 - educacion-personas-adultas
-- formaci-n-profesional
 - formacion-profesional
+- grado-superior
 - oposiciones
 - procedimiento-administrativo
+- titulacion
 relaciones:
-  desarrolla: []
+  fundamentado_en:
+  - norma_id: norm-es-2010-12201
+  - norma_id: norm-es-2021-20113
+  - norma_id: norm-es-ce-1978
+  - norma_id: norm-es-l-39-2015
+  - norma_id: norm-es-lo-2-2006
 fundamentos_derecho:
 - norma_id: norm-es-ce-1978
   articulos:
@@ -39,6 +45,8 @@ fundamentos_derecho:
 - norma_id: norm-es-2021-20113
 - norma_id: norm-es-2010-12201
 ---
+
+
 # Orden EFP/1210/2021, de 2 de noviembre, por la que se establece la equivalencia, a los efectos de acceso a enseñanzas de formación profesional, de determinados estudios y títulos anteriores al actual sistema educativo.
 
 La [Ley Orgánica 2/2006](../01_marco_normativo_general_y_organico/LO2_2006_educacion_texto_consolidado_modificaciones_lomloe.md), de 3 de mayo, de Educación, declara que todas las personas deben tener la posibilidad de formarse a lo largo de la vida, dentro y fuera del sistema educativo. Para ello dicho Sistema se concibe de manera flexible, lo que implica, por una parte, establecer conexiones entre los distintos tipos de enseñanzas, de modo que se facilite el paso de unas a otras y, por otra, permitir la configuración de vías formativas adaptadas a las necesidades y los intereses personales más diversos.

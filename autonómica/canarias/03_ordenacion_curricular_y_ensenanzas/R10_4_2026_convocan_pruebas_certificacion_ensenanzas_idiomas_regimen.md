@@ -26,8 +26,20 @@ tags:
 - equipos-directivos
 - evaluacion
 - formacion-profesional
+- titulacion
 relaciones:
-  desarrolla: []
+  fundamentado_en:
+  - norma_id: norm-can-d-212-1991
+  - norma_id: norm-can-d-84-2024
+  - norma_id: norm-can-l-6-2014
+  - norma_id: norm-can-res-boc-2026-075-85
+  - norma_id: norm-es-2010-12201
+  - norma_id: norm-es-2016-3229
+  - norma_id: norm-es-2019-317
+  - norma_id: norm-es-2021-20113
+  - norma_id: norm-es-lo-2-2006
+  fundamento_de:
+  - norma_id: norm-can-res-boc-2026-075-85
 fundamentos_derecho:
 - norma_id: norm-can-l-6-2014
   articulos:
@@ -42,6 +54,8 @@ fundamentos_derecho:
 - norma_id: norm-can-d-212-1991
 fuente_pdf_oficial: https://sede.gobiernodecanarias.org/boc/boc-a-2026-077-1287.pdf
 ---
+
+
 # [Resolución de 10 de abril de 2026](../04_organizacion_escolar_y_funcionamiento/R10_4_2026_corrige_error_resolucion_mazo_establece_calendario.md), por la que se convocan pruebas de certificación de Enseñanzas de Idiomas de Régimen Especial para aspirantes libres y alumnado escolarizado en las Escuelas Oficiales de Idiomas de la Comunidad Autónoma de Canarias, y se dictan instrucciones para su organización y aplicación en el curso 2025-2026. Fechas de inscripción: Aspirantes libres de todos los niveles y aspirantes escolarizados/as de los niveles B1, B2, C1 y C2: del 29 de abril al 13 de mayo de 2026. Aspirantes escolarizados del nivel A2: del 27 de mayo al 1 de junio de 2026.
 
 III. Otras Resoluciones

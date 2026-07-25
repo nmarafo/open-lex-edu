@@ -18,12 +18,34 @@ clasificacion:
   categoria_canonica: 03_ordenacion_curricular_y_ensenanzas
   subcategoria: Formación Profesional
 tags:
+- convivencia-escolar
 - ensenanzas-deportivas
-- formaci-n-profesional
+- equipos-directivos
 - formacion-profesional
 - profesorado
 relaciones:
-  desarrolla: []
+  fundamentado_en:
+  - norma_id: norm-can-d-84-2024
+  - norma_id: norm-can-l-14-1990
+  - norma_id: norm-can-l-6-2014
+  - norma_id: norm-can-lo-1-2018
+  - norma_id: norm-can-res-134
+  - norma_id: norm-can-res-boc-2024-230-25
+  - norma_id: norm-es-1971-1198
+  - norma_id: norm-es-1985-5392
+  - norma_id: norm-es-1995-25444
+  - norma_id: norm-es-2001-7022
+  - norma_id: norm-es-2010-12201
+  - norma_id: norm-es-2021-20113
+  - norma_id: norm-es-l-39-2015
+  - norma_id: norm-es-l-40-2015
+  - norma_id: norm-es-l-9-2017
+  - norma_id: norm-es-lo-2-2006
+  - norma_id: norm-es-lo-3-2018
+  - norma_id: norm-es-lo-3-2022
+  - norma_id: norm-es-lo-8-2021
+  - norma_id: norm-es-rd-659-2023
+  - norma_id: norm-es-rdl-2-2015
 fundamentos_derecho:
 - norma_id: norm-can-l-6-2014
   articulos:
@@ -50,6 +72,8 @@ fundamentos_derecho:
 - norma_id: norm-es-rdl-2-2015
 fuente_pdf_oficial: https://sede.gobiernodecanarias.org/boc/boc-a-2026-129-2245.pdf
 ---
+
+
 # Resolución de 16 de junio de 2026, por la que se ordena la publicación del Protocolo General de Actuación entre la Consejería de Educación, Formación Profesional, Actividad Física y Deportes y la Federación Canaria de Municipios, como organismo intermedio, para el desarrollo de la formación en empresa u organismo equiparado por el alumnado de formación profesional matriculado en centros docentes de titularidad pública de la Comunidad Autónoma de Canarias.(BOC n.º 129, de 29.06.2026).
 
 III. Otras Resoluciones

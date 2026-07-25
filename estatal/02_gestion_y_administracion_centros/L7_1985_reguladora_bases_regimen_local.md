@@ -16,16 +16,34 @@ clasificacion:
   categoria_canonica: 02_gestion_y_administracion_centros
   subcategoria: Cooperación con entidades locales
 tags:
+- autonomia-centro
 - convivencia
+- convivencia-escolar
 - cooperaci-n-con-entidades-locales
 relaciones:
-  desarrolla: []
+  fundamentado_en:
+  - norma_id: norm-es-1984-17387
+  - norma_id: norm-es-ce-1978
+  fundamento_de:
+  - norma_id: norm-can-l-14-1990
+  - norma_id: norm-can-res-boc-2026-129-26
+  - norma_id: norm-es-1995-8730
+  - norma_id: norm-es-2012-8745
+  - norma_id: norm-es-2012-9282
+  - norma_id: norm-es-2013-13756
+  - norma_id: norm-es-l-19-2013
+  - norma_id: norm-es-l-39-2015
+  - norma_id: norm-es-l-40-2015
+  - norma_id: norm-es-l-9-2017
+  - norma_id: norm-es-rdl-5-2015
 fundamentos_derecho:
 - norma_id: norm-es-ce-1978
   articulos:
   - '27'
 - norma_id: norm-es-1984-17387
 ---
+
+
 # Ley 7/1985, de 2 de abril, Reguladora de las Bases del Régimen Local
 
 **JUAN CARLOS I**

@@ -22,16 +22,16 @@ tags:
 - ensenanzas-deportivas
 - equipos-directivos
 - eso
-- formaci-n-profesional
 - formacion-profesional
+- grado-medio
 - oposiciones
 relaciones:
   desarrolla:
   - norma_id: norm-es-lo-3-2022
-    articulos_origen:
-    - Todos
-    articulos_destino:
-    - Todos
+  fundamentado_en:
+  - norma_id: norm-can-l-6-2014
+  - norma_id: norm-can-res-134
+  - norma_id: norm-es-lo-2-2006
 fundamentos_derecho:
 - norma_id: norm-can-l-6-2014
   articulos:
@@ -41,6 +41,8 @@ fundamentos_derecho:
 - norma_id: norm-es-lo-3-2022
 fuente_pdf_oficial: https://sede.gobiernodecanarias.org/boc/boc-a-2022-087-1481.pdf
 ---
+
+
 # Resolución de 21 de abril de 2022, por la que se dictan instrucciones para la organización y el funcionamiento del Curso Específico de Acceso a Ciclos Formativos de Formación Profesional de Grado Medio que se impartirá en centros de educación de personas adultas dependientes de esta Consejería (BOC n.º 87, de 4 de mayo).
 
 III. Otras Resoluciones

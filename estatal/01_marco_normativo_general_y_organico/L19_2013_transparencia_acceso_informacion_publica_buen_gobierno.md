@@ -19,15 +19,29 @@ clasificacion:
   categoria_canonica: 01_marco_normativo_general_y_organico
   subcategoria: Empleados públicos
 tags:
-- acceso_informacion
+- acceso-informacion
 - admision-alumnado
-- buen_gobierno
+- buen-gobierno
 - empleados-p-blicos
 - oposiciones
+- proteccion-menores
 - rgpd
+- titulacion
 - transparencia
 relaciones:
-  desarrolla: []
+  fundamentado_en:
+  - norma_id: norm-es-1985-5392
+  - norma_id: norm-es-1999-23750
+  - norma_id: norm-es-2007-19814
+  - norma_id: norm-es-ce-1978
+  - norma_id: norm-es-l-39-2015
+  - norma_id: norm-es-lo-3-2018
+  fundamento_de:
+  - norma_id: norm-can-o-2023-09-28
+  - norma_id: norm-es-l-39-2015
+  - norma_id: norm-es-l-40-2015
+  - norma_id: norm-es-l-9-2017
+  - norma_id: norm-es-lo-3-2018
 fundamentos_derecho:
 - norma_id: norm-es-ce-1978
   articulos:
@@ -42,6 +56,8 @@ fundamentos_derecho:
 - norma_id: norm-es-1985-5392
 - norma_id: norm-es-1999-23750
 ---
+
+
 # Ley 19/2013 de Transparencia, Acceso a la Información Pública y Buen Gobierno
 
 **JUAN CARLOS I**

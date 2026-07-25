@@ -20,26 +20,31 @@ clasificacion:
   categoria_canonica: 02_gestion_y_administracion_centros
   subcategoria: Prevención de riesgos y salud laboral
 tags:
+- equipos-directivos
 - evaluacion
-- evaluacion_riesgos
-- planificacion_preventiva
+- evaluacion-riesgos
+- personal-no-docente
+- planificacion-preventiva
 - prevenci-n-de-riesgos-y-salud-laboral
 - prevencion-riesgos-laborales
-- servicios_prevencion
+- servicios-prevencion
 relaciones:
   desarrolla:
   - norma_id: norm-es-l-31-1995
-    articulos_origen:
-    - Todos
-    articulos_destino:
-    - '31'
-    nota: Desarrolla el Reglamento de los Servicios de Prevención previsto en la Ley
-      de Prevención de Riesgos Laborales.
+  fundamento_de:
+  - norma_id: norm-can-o-2013-10-09
+  - norma_id: norm-can-res-036
+  - norma_id: norm-can-res-boc-2024-226-44
+  - norma_id: norm-es-2010-10424
+  - norma_id: norm-es-2014-5591
+  - norma_id: norm-es-2020-17274
 fundamentos_derecho:
 - norma_id: norm-es-l-31-1995
   articulos:
   - '6'
 ---
+
+
 # Real Decreto 39/1997 - Reglamento de los Servicios de Prevención
 
 La [Ley 31/1995](L31_1995_prevencion_riesgos_laborales.md), de 8 de noviembre, ha venido a dar un nuevo enfoque, ya anunciado en su preámbulo, a la prevención de los riesgos laborales, que en la nueva concepción legal no se limita a un conjunto de deberes de obligado cumplimiento empresarial o a la subsanación de situaciones de riesgo ya manifestadas, sino que se integra en el conjunto de actividades y decisiones de la empresa, de las que forma parte desde el comienzo mismo del proyecto empresarial.

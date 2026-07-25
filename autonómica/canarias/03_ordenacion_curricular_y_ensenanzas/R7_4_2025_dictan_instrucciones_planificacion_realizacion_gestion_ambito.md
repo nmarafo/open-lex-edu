@@ -24,10 +24,22 @@ tags:
 - curriculo
 - ensenanzas-artisticas
 - ensenanzas-deportivas
+- ensenanzas-universitarias
 - formacion-profesional
+- grado-superior
 - oposiciones
 relaciones:
-  desarrolla: []
+  fundamentado_en:
+  - norma_id: norm-can-d-212-1991
+  - norma_id: norm-can-d-84-2024
+  - norma_id: norm-can-l-6-2014
+  - norma_id: norm-es-2001-7022
+  - norma_id: norm-es-2010-12201
+  - norma_id: norm-es-2010-4130
+  - norma_id: norm-es-2016-3229
+  - norma_id: norm-es-2021-20113
+  - norma_id: norm-es-lo-2-2006
+  - norma_id: norm-es-rd-243-2022
 fundamentos_derecho:
 - norma_id: norm-can-l-6-2014
   articulos:
@@ -43,6 +55,8 @@ fundamentos_derecho:
 - norma_id: norm-can-d-212-1991
 fuente_pdf_oficial: https://sede.gobiernodecanarias.org/boc/boc-a-2025-074-1452.pdf
 ---
+
+
 # Resolución de 7 de abril de 2025, por la que se dictan instrucciones para la planificación, realización y gestión, en el ámbito de la Comunidad Autónoma de Canarias, de la Prueba para el Acceso a la Universidad, aplicables al alumnado que haya cursado el Bachillerato, así como Ciclos Formativos de Grado Superior de Formación Profesional, de Enseñanzas Profesionales de Artes Plásticas y Diseño, y de Enseñanzas Deportivas (BOC nº 74, de 15 de abril).
 
 III. Otras Resoluciones

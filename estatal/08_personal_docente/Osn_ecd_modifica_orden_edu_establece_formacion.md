@@ -25,11 +25,16 @@ tags:
 - eoi
 - eso
 - evaluacion
-- formaci-n-del-profesorado
+- formacion-del-profesorado
 - formacion-profesional
 - profesorado
+- titulacion
 relaciones:
-  desarrolla: []
+  fundamentado_en:
+  - norma_id: norm-es-2010-12201
+  - norma_id: norm-es-2021-20113
+  - norma_id: norm-es-lo-2-2006
+  - norma_id: norm-es-rd-1834-2008
 fundamentos_derecho:
 - norma_id: norm-es-lo-2-2006
   articulos:
@@ -39,6 +44,8 @@ fundamentos_derecho:
 - norma_id: norm-es-2021-20113
 - norma_id: norm-es-2010-12201
 ---
+
+
 # Orden ECD/1058/2013, de 7 de junio, por la que se modifica la Orden EDU/2645/2011, de 23 de septiembre, por la que se establece la formación equivalente a la formación pedagógica y didáctica exigida para aquellas personas que, estando en posesión de una titulación declarada equivalente a efectos de docencia, no pueden realizar los estudios de máster.
 
 El artículo 94 de la [Ley Orgánica 2/2006](../01_marco_normativo_general_y_organico/LO2_2006_educacion_texto_consolidado_modificaciones_lomloe.md), de 3 de mayo, de Educación, establece que para impartir enseñanzas de formación profesional será necesario tener el título de Licenciado, Ingeniero o Arquitecto, o el título de Grado equivalente, además de la formación pedagógica y didáctica de nivel de Postgrado, de acuerdo con lo dispuesto en el artículo 100 de dicha ley, sin perjuicio de la habilitación de otras titulaciones que, a efectos de docencia pudiera establecer el Gobierno para determinados módulos, previa consulta a las Comunidades Autónomas.

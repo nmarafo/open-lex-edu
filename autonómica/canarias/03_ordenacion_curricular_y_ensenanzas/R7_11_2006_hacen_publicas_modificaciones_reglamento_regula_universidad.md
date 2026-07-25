@@ -16,11 +16,14 @@ clasificacion:
   subcategoria: Educación de Personas Adultas
 tags:
 - educaci-n-de-personas-adultas
+- educacion-personas-adultas
 - ensenanzas-deportivas
+- ensenanzas-universitarias
 - equipos-directivos
 - oposiciones
 relaciones:
-  desarrolla: []
+  fundamentado_en:
+  - norma_id: norm-can-l-6-2014
 fundamentos_derecho:
 - norma_id: norm-can-l-6-2014
   articulos:
@@ -28,6 +31,8 @@ fundamentos_derecho:
 fuente_pdf_oficial: http://www.gobiernodecanarias.org/boc/2006/226/boc-2006-226-029.pdf
 fuente_juriscan: http://www.gobiernodecanarias.org/juriscan/ficha.jsp?id=55445
 ---
+
+
 # Resolución de 7 de noviembre de 2006, por la que se hacen públicas las modificaciones al Reglamento que regula en la Universidad de Las Palmas de Gran Canaria el Acceso para mayores de 25 años (BOC n.º 226, de 21 de noviembre).
 
 d) La Directora del Servicio de Patrimonio y Con-

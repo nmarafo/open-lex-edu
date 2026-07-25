@@ -19,9 +19,21 @@ clasificacion:
   subcategoria: Alumnado con NEAE
 tags:
 - alumnado-con-neae
+- equipos-directivos
 - neae
 relaciones:
-  desarrolla: []
+  fundamentado_en:
+  - norma_id: norm-can-l-6-2014
+  - norma_id: norm-es-1999-23750
+  - norma_id: norm-es-2008-979
+  - norma_id: norm-es-2010-12201
+  - norma_id: norm-es-2015-8222
+  - norma_id: norm-es-2016-3229
+  - norma_id: norm-es-2021-20113
+  - norma_id: norm-es-l-39-2015
+  - norma_id: norm-es-l-40-2015
+  - norma_id: norm-es-lo-1-1996
+  - norma_id: norm-es-lo-2-2006
 fundamentos_derecho:
 - norma_id: norm-can-l-6-2014
   articulos:
@@ -38,6 +50,8 @@ fundamentos_derecho:
 - norma_id: norm-es-2010-12201
 fuente_pdf_oficial: https://sede.gobiernodecanarias.org/boc/boc-a-2018-086-2126.pdf
 ---
+
+
 # Resolución de 8 de febrero de 2018, de la Secretaría General Técnica, por la que se ordena la publicación del Convenio de Colaboración entre la Consejería de Educación y Universidades y la Asociación de Padres de Personas con Autismo de Tenerife (APANATE) para la atención educativa del alumnado no universitario con necesidades específicas de apoyo educativo derivadas de Trastornos del Espectro Autista (TEA) (BOC n.º 86, de 4 de mayo).
 
 Viernes 4 de mayo de 2018

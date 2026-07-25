@@ -21,20 +21,20 @@ tags:
 - ensenanzas-deportivas
 - equipos-directivos
 - evaluacion
-- formaci-n-profesional
 - formacion-profesional
+- titulacion
 relaciones:
   desarrolla:
-  - norma_id: norm-es-rd-659-2023
-    articulos_origen:
-    - Todos
-    articulos_destino:
-    - Todos
   - norma_id: norm-es-lo-3-2022
-    articulos_origen:
-    - Todos
-    articulos_destino:
-    - Todos
+  - norma_id: norm-es-rd-659-2023
+  fundamentado_en:
+  - norma_id: norm-can-d-84-2024
+  - norma_id: norm-can-l-6-2014
+  - norma_id: norm-can-lo-1-2018
+  - norma_id: norm-can-res-134
+  - norma_id: norm-can-res-boc-2024-226-44
+  - norma_id: norm-can-res-boc-2024-230-25
+  - norma_id: norm-can-res-boc-2025-118-46
 fundamentos_derecho:
 - norma_id: norm-can-l-6-2014
   articulos:
@@ -49,6 +49,8 @@ fundamentos_derecho:
 - norma_id: norm-can-res-boc-2025-118-46
 fuente_pdf_oficial: https://sede.gobiernodecanarias.org/boc/boc-a-2025-250-4323.pdf
 ---
+
+
 # Resolución de 26 de noviembre de 2025, de la Dirección General de Formación Profesional y Enseñanzas de Régimen Especial,por la que se dictan instrucciones para la implantación y desarrollo de la oferta de dobles titulaciones de formación profesional (Grados D) en la Comunidad Autónoma de Canarias, a partir del curso escolar 2026/2027 (BOC n.º 250, de 18 de diciembre)
 
 III. Otras Resoluciones

@@ -18,14 +18,33 @@ clasificacion:
   subcategoria: Protección jurídica de menores
 tags:
 - curriculo
+- igualdad-genero
 - protecci-n-jur-dica-de-menores
+- proteccion-menores
+- servicios-complementarios
+- titulacion
 relaciones:
-  desarrolla: []
+  fundamentado_en:
+  - norma_id: norm-es-ce-1978
+  fundamento_de:
+  - norma_id: norm-can-res-boc-2026-039-103
+  - norma_id: norm-es-2012-8745
+  - norma_id: norm-es-2013-12632
+  - norma_id: norm-es-2015-8222
+  - norma_id: norm-es-2015-8470
+  - norma_id: norm-es-2022-11589
+  - norma_id: norm-es-2024-11613
+  - norma_id: norm-es-l-40-2015
+  - norma_id: norm-es-lo-10-2022
+  - norma_id: norm-es-lo-2-2006
+  - norma_id: norm-es-rd-659-2023
 fundamentos_derecho:
 - norma_id: norm-es-ce-1978
   articulos:
   - '27'
 ---
+
+
 # Ley Orgánica 4/2000, de 11 de enero, sobre derechos y libertades de los extranjeros en España y su integración social.
 
 **JUAN CARLOS I**

@@ -22,14 +22,36 @@ clasificacion:
 tags:
 - admisi-n-y-escolarizaci-n-del-alumnado
 - admision-alumnado
+- cursos-especializacion
 - ensenanzas-artisticas
 - ensenanzas-deportivas
 - eoi
 - equipos-directivos
 - formacion-profesional
+- grado-medio
 - profesorado
 relaciones:
-  desarrolla: []
+  fundamentado_en:
+  - norma_id: norm-can-d-84-2024
+  - norma_id: norm-can-d-9-2022
+  - norma_id: norm-can-l-6-2014
+  - norma_id: norm-can-lo-1-2018
+  - norma_id: norm-can-res-134
+  - norma_id: norm-can-res-boc-2024-230-25
+  - norma_id: norm-can-res-boc-2025-061-88
+  - norma_id: norm-can-res-boc-2026-039-103
+  - norma_id: norm-es-2010-12201
+  - norma_id: norm-es-2021-20113
+  - norma_id: norm-es-lo-2-2006
+  - norma_id: norm-es-lo-3-2022
+  - norma_id: norm-es-rd-659-2023
+  fundamento_de:
+  - norma_id: norm-can-res-099
+  - norma_id: norm-can-res-112
+  - norma_id: norm-can-res-boc-2026-039-103
+  - norma_id: norm-can-res-boc-2026-039-111
+  - norma_id: norm-can-res-boc-2026-073-113
+  - norma_id: norm-can-res-boc-2026-132-101
 fundamentos_derecho:
 - norma_id: norm-can-l-6-2014
   articulos:
@@ -48,6 +70,8 @@ fundamentos_derecho:
 - norma_id: norm-can-res-boc-2026-039-103
 fuente_pdf_oficial: https://sede.gobiernodecanarias.org/boc/boc-a-2026-039-642.pdf
 ---
+
+
 # [Resolución de 13 de febrero de 2026](R13_2_2026_dictan_instrucciones_proceso_admision_alumnado_ciclos.md), por la que se convoca el procedimiento de admisión del alumnado a los Ciclos Formativos de Grado Básico, Medio y Superior (Grado D, niveles 1, 2 y 3, respectivamente) y de los cursos de especialización de Grado Medio y Superior (Grados E, niveles 2 y 3, respectivamente) de todas las Enseñanzas de Formación Profesional autorizadas, Enseñanzas Profesionales de Artes Plásticas y Diseño, Enseñanzas Deportivas, Enseñanzas Elementales y Profesionales de Música y Enseñanzas de Idiomas en centros docentes sostenidos con fondos públicos en la Comunidad Autónoma de Canarias para el curso escolar 2026-2027.
 
 III. Otras Resoluciones

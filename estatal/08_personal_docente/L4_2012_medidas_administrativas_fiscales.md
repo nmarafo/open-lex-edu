@@ -16,13 +16,26 @@ clasificacion:
   categoria_canonica: 08_personal_docente
   subcategoria: Permisos, licencias y vacaciones
 tags:
+- autonomia-centro
 - ebep
 - gestion-economica
 - permisos-licencias
 - permisos-licencias-y-vacaciones
 - retribuciones
+- titulacion
 relaciones:
-  desarrolla: []
+  fundamentado_en:
+  - norma_id: norm-can-l-2-1987
+  - norma_id: norm-es-1985-5392
+  - norma_id: norm-es-2010-12201
+  - norma_id: norm-es-2010-4518
+  - norma_id: norm-es-2021-20113
+  - norma_id: norm-es-ce-1978
+  - norma_id: norm-es-lo-2-2006
+  fundamento_de:
+  - norma_id: norm-can-res-boc-2017-020-2
+  - norma_id: norm-can-res-juriscan-75634-6
+  - norma_id: norm-es-2012-8745
 fundamentos_derecho:
 - norma_id: norm-es-ce-1978
   articulos:
@@ -36,6 +49,8 @@ fundamentos_derecho:
 - norma_id: norm-es-2010-12201
 - norma_id: norm-es-2010-4518
 ---
+
+
 # Ley 4/2012, de 25 de junio, de medidas administrativas y fiscales.
 
 ## EXPOSICIÓN DE MOTIVOS

@@ -21,12 +21,34 @@ tags:
 - empleados-p-blicos
 - ensenanzas-artisticas
 relaciones:
-  desarrolla: []
+  fundamentado_en:
+  - norma_id: norm-es-ce-1978
+  fundamento_de:
+  - norma_id: norm-can-d-109-1999
+  - norma_id: norm-can-l-2-1987
+  - norma_id: norm-can-res-boc-1996-057-140
+  - norma_id: norm-can-res-juriscan-49002-54
+  - norma_id: norm-es-1985-5392
+  - norma_id: norm-es-1985-7820
+  - norma_id: norm-es-1986-1216
+  - norma_id: norm-es-1995-8730
+  - norma_id: norm-es-2007-5478
+  - norma_id: norm-es-2007-6115
+  - norma_id: norm-es-2009-20550
+  - norma_id: norm-es-2012-8745
+  - norma_id: norm-es-2015-9453
+  - norma_id: norm-es-lo-1-2004
+  - norma_id: norm-es-lo-2-2006
+  - norma_id: norm-es-rd-1364-2010
+  - norma_id: norm-es-rd-276-2007
+  - norma_id: norm-es-rdl-5-2015
 fundamentos_derecho:
 - norma_id: norm-es-ce-1978
   articulos:
   - '27'
 ---
+
+
 # Ley 30/1984, de 2 de agosto, de medidas para la reforma de la Función Pública.
 
 **JUAN CARLOS I,**

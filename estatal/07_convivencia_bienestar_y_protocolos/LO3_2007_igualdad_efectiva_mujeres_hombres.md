@@ -17,11 +17,32 @@ clasificacion:
   categoria_canonica: 07_convivencia_bienestar_y_protocolos
   subcategoria: Igualdad de género y diversidad
 tags:
+- equipos-directivos
 - evaluacion
 - igualdad-de-g-nero-y-diversidad
+- igualdad-genero
+- neae
 - oposiciones
 relaciones:
-  desarrolla: []
+  fundamentado_en:
+  - norma_id: norm-can-l-16-2003
+  - norma_id: norm-es-1984-17387
+  - norma_id: norm-es-ce-1978
+  - norma_id: norm-es-l-31-1995
+  fundamento_de:
+  - norma_id: norm-can-o-2023-09-28
+  - norma_id: norm-can-res-125
+  - norma_id: norm-can-res-boc-2018-124-126
+  - norma_id: norm-es-2010-13564
+  - norma_id: norm-es-2010-4518
+  - norma_id: norm-es-2011-12632
+  - norma_id: norm-es-2011-17560
+  - norma_id: norm-es-2013-10219
+  - norma_id: norm-es-2022-11589
+  - norma_id: norm-es-2026-2622
+  - norma_id: norm-es-l-9-2017
+  - norma_id: norm-es-lo-10-2022
+  - norma_id: norm-es-rdl-2-2015
 fundamentos_derecho:
 - norma_id: norm-es-ce-1978
   articulos:
@@ -30,6 +51,8 @@ fundamentos_derecho:
 - norma_id: norm-es-1984-17387
 - norma_id: norm-es-l-31-1995
 ---
+
+
 # Ley Orgánica 3/2007, de 22 de marzo, para la igualdad efectiva de mujeres y hombres.
 
 **JUAN CARLOS I**

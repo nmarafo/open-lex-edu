@@ -19,7 +19,9 @@ clasificacion:
 tags:
 - seguro-escolar
 relaciones:
-  desarrolla: []
+  fundamentado_en:
+  - norma_id: norm-can-d-9-2022
+  - norma_id: norm-es-lo-2-2006
 fundamentos_derecho:
 - norma_id: norm-can-d-9-2022
   articulos:
@@ -29,6 +31,8 @@ fundamentos_derecho:
   articulos:
   - '84'
 ---
+
+
 # Real Decreto 1633/1985, de 28 de agosto, por el que se fija la cuantía de la cuota del Seguro Escolar.
 
 EL ARTICULO 10 DE LA LEY DE 17 DE JULIO DE 1953, REGULADORA DEL SEGURO ESCOLAR, ESTABLECE QUE LOS RECURSOS DE AQUEL ESTARAN CONSTITUIDOS, ENTRE OTRAS PARTIDAS, POR LA APORTACION DEL ESTADO Y POR LAS CUOTAS ABONADAS POR LOS ESTUDIANTES.

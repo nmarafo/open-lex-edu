@@ -21,26 +21,23 @@ clasificacion:
   subcategoria: Educación Infantil
 tags:
 - curriculo
-- curriculo_infantil
+- curriculo-infantil
 - ebep
 - educaci-n-infantil
 - educacion-infantil
-- educacion_infantil
 - equipos-directivos
 - oposiciones
-- primer_ciclo
+- primer-ciclo
 - procedimiento-administrativo
 - roc
-- segundo_ciclo
+- segundo-ciclo
 relaciones:
   desarrolla:
   - norma_id: norm-es-rd-95-2022
-    articulos_origen:
-    - Todos
-    articulos_destino:
-    - Todos
-    nota: Establece el currículo de Educación Infantil adaptado a Canarias sobre las
-      enseñanzas mínimas del Estado.
+  fundamentado_en:
+  - norma_id: norm-can-l-6-2014
+  - norma_id: norm-es-l-39-2015
+  - norma_id: norm-es-lo-2-2006
 fundamentos_derecho:
 - norma_id: norm-can-l-6-2014
   articulos:
@@ -52,6 +49,8 @@ fundamentos_derecho:
 - norma_id: norm-es-l-39-2015
 fuente_pdf_oficial: https://sede.gobiernodecanarias.org/boc/boc-a-2022-208-3159.pdf
 ---
+
+
 # Decreto 196/2022, de 13 de octubre, por el que se establece la ordenación y el currículo de la Educación Infantil en la Comunidad Autónoma de Canarias.
 
 II. Autoridades y personal

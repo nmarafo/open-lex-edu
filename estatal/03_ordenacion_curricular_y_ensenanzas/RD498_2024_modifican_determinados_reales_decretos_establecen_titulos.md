@@ -21,16 +21,33 @@ tags:
 - admision-alumnado
 - curriculo
 - evaluacion
-- formaci-n-profesional
 - formacion-profesional
+- fp-basica
 - profesorado
+- titulacion
 relaciones:
   desarrolla:
   - norma_id: norm-es-lo-3-2022
-    articulos_origen:
-    - Todos
-    articulos_destino:
-    - Todos
+  fundamentado_en:
+  - norma_id: norm-can-res-134
+  - norma_id: norm-can-res-boc-2024-230-25
+  - norma_id: norm-es-2007-5478
+  - norma_id: norm-es-2010-12201
+  - norma_id: norm-es-2014-5591
+  - norma_id: norm-es-2015-9462
+  - norma_id: norm-es-2021-20113
+  - norma_id: norm-es-2022-16194
+  - norma_id: norm-es-2023-9553
+  - norma_id: norm-es-ce-1978
+  - norma_id: norm-es-l-39-2015
+  - norma_id: norm-es-lo-2-2006
+  - norma_id: norm-es-rd-217-2022
+  - norma_id: norm-es-rd-276-2007
+  - norma_id: norm-es-rd-659-2023
+  fundamento_de:
+  - norma_id: norm-can-res-027
+  - norma_id: norm-can-res-boc-2024-226-44
+  - norma_id: norm-can-res-boc-2024-230-25
 fundamentos_derecho:
 - norma_id: norm-es-ce-1978
   articulos:
@@ -53,6 +70,8 @@ fundamentos_derecho:
 - norma_id: norm-es-2023-9553
 - norma_id: norm-es-rd-276-2007
 ---
+
+
 # Real Decreto 498/2024, de 21 de mayo, por el que se modifican determinados reales decretos por los que se establecen títulos de Formación Profesional de grado básico y se fijan sus enseñanzas mínimas.
 
 **ÍNDICE**

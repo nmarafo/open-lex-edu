@@ -23,9 +23,15 @@ tags:
 - estructura-de-la-consejer-a
 - formacion-profesional
 - profesorado
+- proteccion-menores
 - roc
 relaciones:
-  desarrolla: []
+  fundamentado_en:
+  - norma_id: norm-can-d-135-2016
+  - norma_id: norm-can-d-212-1991
+  - norma_id: norm-can-l-14-1990
+  - norma_id: norm-can-l-6-2014
+  - norma_id: norm-es-l-40-2015
 fundamentos_derecho:
 - norma_id: norm-can-l-6-2014
   articulos:
@@ -38,6 +44,8 @@ fuente_pdf_oficial: https://sede.gobiernodecanarias.org/boc/boc-a-2017-061-1429.
 anexos_extraidos_pdf: true
 ocr_procesado: true
 ---
+
+
 # Resolución de 16 de marzo de 2017, de la Dirección General de Centros e Infraestructura Educativa, por la que se delega en la Dirección General de Formación Profesional y Educación de Adultos, la competencia en materia de contratos menores de material y equipamiento específico necesario para el desarrollo del Proyecto Enlaza (BOC n.º 61, de 28 de marzo).
 
 Boletín Oficial de Canarias núm. 61

@@ -21,108 +21,206 @@ clasificacion:
 tags:
 - bienestar-infantil
 - convivencia
-- ley_organica
+- convivencia-escolar
+- ley-organica
 - loe
 - lomloe
+- marco-general
 - marco-normativo-general
-- marco_general
 relaciones:
-  modificado_por:
-  - norma_id: norm-es-lo-3-2020
-    fecha_modificacion: '2020-12-30'
-    nota: Modificada de forma integral por la Ley Orgánica 3/2020 (LOMLOE).
-  desarrolla: []
   desarrollado_por:
-  - norma_id: norm-es-rd-95-2022
-    articulos_origen:
-    - Todos
-    articulos_destino:
-    - Todos
-  - norma_id: norm-es-rd-132-2010
-    articulos_origen:
-    - Todos
-    articulos_destino:
-    - Todos
-  - norma_id: norm-es-rd-1364-2010
-    articulos_origen:
-    - Todos
-    articulos_destino:
-    - Todos
-  - norma_id: norm-es-rd-1834-2008
-    articulos_origen:
-    - Todos
-    articulos_destino:
-    - Todos
-  - norma_id: norm-can-d-52-2009
-    articulos_origen:
-    - Todos
-    articulos_destino:
-    - Todos
-  - norma_id: norm-es-rd-217-2022
-    articulos_origen:
-    - Todos
-    articulos_destino:
-    - Todos
-  - norma_id: norm-es-rd-243-2022
-    articulos_origen:
-    - Todos
-    articulos_destino:
-    - Todos
-  - norma_id: norm-can-l-6-2014
-    articulos_origen:
-    - Todos
-    articulos_destino:
-    - Todos
-  - norma_id: norm-can-o-7-6-2007
-    articulos_origen:
-    - Todos
-    articulos_destino:
-    - Todos
-  - norma_id: norm-can-d-9-2022
-    articulos_origen:
-    - Todos
-    articulos_destino:
-    - Todos
-  - norma_id: norm-es-rd-157-2022
-    articulos_origen:
-    - Todos
-    articulos_destino:
-    - Todos
-  - norma_id: norm-es-rd-276-2007
-    articulos_origen:
-    - Todos
-    articulos_destino:
-    - Todos
-  - norma_id: norm-can-d-23-1995
-    articulos_origen:
-    - Todos
-    articulos_destino:
-    - Todos
   - norma_id: norm-can-d-106-2009
-    articulos_origen:
-    - Todos
-    articulos_destino:
-    - Todos
-  - norma_id: norm-can-d-276-1997
-    articulos_origen:
-    - Todos
-    articulos_destino:
-    - Todos
-  - norma_id: norm-es-rd-943-2003
-    articulos_origen:
-    - Todos
-    articulos_destino:
-    - Todos
+  - norma_id: norm-can-d-23-1995
   - norma_id: norm-can-d-25-2018
-    articulos_origen:
-    - Todos
-    articulos_destino:
-    - Todos
+  - norma_id: norm-can-d-276-1997
+  - norma_id: norm-can-d-52-2009
+  - norma_id: norm-can-d-9-2022
+  - norma_id: norm-can-l-6-2014
+  - norma_id: norm-can-o-7-6-2007
+  - norma_id: norm-es-rd-132-2010
+  - norma_id: norm-es-rd-1364-2010
+  - norma_id: norm-es-rd-157-2022
+  - norma_id: norm-es-rd-1834-2008
+  - norma_id: norm-es-rd-217-2022
+  - norma_id: norm-es-rd-243-2022
+  - norma_id: norm-es-rd-276-2007
   - norma_id: norm-es-rd-476-2013
-    articulos_origen:
-    - Todos
-    articulos_destino:
-    - Todos
+  - norma_id: norm-es-rd-943-2003
+  - norma_id: norm-es-rd-95-2022
+  fundamentado_en:
+  - norma_id: norm-es-1984-17387
+  - norma_id: norm-es-1987-15278
+  - norma_id: norm-es-2000-544
+  - norma_id: norm-es-2001-7022
+  - norma_id: norm-es-2002-12018
+  - norma_id: norm-es-2010-12201
+  - norma_id: norm-es-2021-20113
+  - norma_id: norm-es-ce-1978
+  - norma_id: norm-es-lo-1-2004
+  - norma_id: norm-es-lo-8-1985
+  fundamento_de:
+  - norma_id: norm-can-d-101-2023
+  - norma_id: norm-can-d-102-2023
+  - norma_id: norm-can-d-103-2023
+  - norma_id: norm-can-d-109-1999
+  - norma_id: norm-can-d-114-2011
+  - norma_id: norm-can-d-196-2022
+  - norma_id: norm-can-d-81-2010
+  - norma_id: norm-can-o-2-8-2006
+  - norma_id: norm-can-o-2013-10-09
+  - norma_id: norm-can-o-2023-09-28
+  - norma_id: norm-can-res-014
+  - norma_id: norm-can-res-027
+  - norma_id: norm-can-res-040
+  - norma_id: norm-can-res-043
+  - norma_id: norm-can-res-053
+  - norma_id: norm-can-res-055
+  - norma_id: norm-can-res-059
+  - norma_id: norm-can-res-063
+  - norma_id: norm-can-res-090
+  - norma_id: norm-can-res-095
+  - norma_id: norm-can-res-096
+  - norma_id: norm-can-res-097
+  - norma_id: norm-can-res-098
+  - norma_id: norm-can-res-099
+  - norma_id: norm-can-res-134
+  - norma_id: norm-can-res-135
+  - norma_id: norm-can-res-boc-2011-099-72
+  - norma_id: norm-can-res-boc-2017-036-71
+  - norma_id: norm-can-res-boc-2017-036-75
+  - norma_id: norm-can-res-boc-2017-132-1
+  - norma_id: norm-can-res-boc-2017-220-70
+  - norma_id: norm-can-res-boc-2018-048-56
+  - norma_id: norm-can-res-boc-2018-086-122
+  - norma_id: norm-can-res-boc-2018-106-114
+  - norma_id: norm-can-res-boc-2018-124-126
+  - norma_id: norm-can-res-boc-2019-024-22
+  - norma_id: norm-can-res-boc-2019-069-48
+  - norma_id: norm-can-res-boc-2019-143-74
+  - norma_id: norm-can-res-boc-2019-234-52
+  - norma_id: norm-can-res-boc-2020-130-131
+  - norma_id: norm-can-res-boc-2020-236-82
+  - norma_id: norm-can-res-boc-2020-257-24
+  - norma_id: norm-can-res-boc-2021-038-3
+  - norma_id: norm-can-res-boc-2021-109-79
+  - norma_id: norm-can-res-boc-2021-114-80
+  - norma_id: norm-can-res-boc-2022-087-31
+  - norma_id: norm-can-res-boc-2022-143-23
+  - norma_id: norm-can-res-boc-2022-158-21
+  - norma_id: norm-can-res-boc-2023-085-51
+  - norma_id: norm-can-res-boc-2023-133-57
+  - norma_id: norm-can-res-boc-2024-049-109
+  - norma_id: norm-can-res-boc-2024-117-93
+  - norma_id: norm-can-res-boc-2024-125-91
+  - norma_id: norm-can-res-boc-2024-226-44
+  - norma_id: norm-can-res-boc-2024-230-25
+  - norma_id: norm-can-res-boc-2025-039-104
+  - norma_id: norm-can-res-boc-2025-044-89
+  - norma_id: norm-can-res-boc-2025-046-47
+  - norma_id: norm-can-res-boc-2025-047-107
+  - norma_id: norm-can-res-boc-2025-047-108
+  - norma_id: norm-can-res-boc-2025-118-46
+  - norma_id: norm-can-res-boc-2026-039-102
+  - norma_id: norm-can-res-boc-2026-039-103
+  - norma_id: norm-can-res-boc-2026-039-111
+  - norma_id: norm-can-res-boc-2026-060-61
+  - norma_id: norm-can-res-boc-2026-070-115
+  - norma_id: norm-can-res-boc-2026-070-116
+  - norma_id: norm-can-res-boc-2026-070-41
+  - norma_id: norm-can-res-boc-2026-077-49
+  - norma_id: norm-can-res-boc-2026-077-62
+  - norma_id: norm-can-res-boc-2026-109-92
+  - norma_id: norm-can-res-boc-2026-116-87
+  - norma_id: norm-can-res-boc-2026-129-26
+  - norma_id: norm-can-res-boc-2026-141-29
+  - norma_id: norm-can-res-juriscan-64838-121
+  - norma_id: norm-can-res-juriscan-65631-68
+  - norma_id: norm-can-res-juriscan-66772-94
+  - norma_id: norm-can-res-juriscan-70096-50
+  - norma_id: norm-can-res-juriscan-72176-78
+  - norma_id: norm-can-res-juriscan-72882-123
+  - norma_id: norm-can-res-juriscan-73844-69
+  - norma_id: norm-can-res-juriscan-74499-67
+  - norma_id: norm-es-1889-4763
+  - norma_id: norm-es-1971-1198
+  - norma_id: norm-es-1985-19457
+  - norma_id: norm-es-1987-11341
+  - norma_id: norm-es-1987-13494
+  - norma_id: norm-es-1988-6938
+  - norma_id: norm-es-1991-342
+  - norma_id: norm-es-1995-8730
+  - norma_id: norm-es-1996-10210
+  - norma_id: norm-es-1999-23750
+  - norma_id: norm-es-2000-5990
+  - norma_id: norm-es-2001-7022
+  - norma_id: norm-es-2002-4371
+  - norma_id: norm-es-2004-15601
+  - norma_id: norm-es-2005-21534
+  - norma_id: norm-es-2006-21648
+  - norma_id: norm-es-2007-10487
+  - norma_id: norm-es-2007-19326
+  - norma_id: norm-es-2007-22017
+  - norma_id: norm-es-2007-22450
+  - norma_id: norm-es-2007-5478
+  - norma_id: norm-es-2009-20550
+  - norma_id: norm-es-2009-3424
+  - norma_id: norm-es-2010-11426
+  - norma_id: norm-es-2010-12201
+  - norma_id: norm-es-2010-12706
+  - norma_id: norm-es-2010-13564
+  - norma_id: norm-es-2010-4130
+  - norma_id: norm-es-2011-12632
+  - norma_id: norm-es-2011-13117
+  - norma_id: norm-es-2011-15628
+  - norma_id: norm-es-2011-16923
+  - norma_id: norm-es-2011-2615
+  - norma_id: norm-es-2012-5337
+  - norma_id: norm-es-2012-8745
+  - norma_id: norm-es-2012-9282
+  - norma_id: norm-es-2013-10219
+  - norma_id: norm-es-2013-12632
+  - norma_id: norm-es-2013-6281
+  - norma_id: norm-es-2014-2222
+  - norma_id: norm-es-2014-5591
+  - norma_id: norm-es-2014-6008
+  - norma_id: norm-es-2015-738
+  - norma_id: norm-es-2015-8043
+  - norma_id: norm-es-2015-8470
+  - norma_id: norm-es-2015-8702
+  - norma_id: norm-es-2015-9453
+  - norma_id: norm-es-2015-9462
+  - norma_id: norm-es-2016-3229
+  - norma_id: norm-es-2018-16287
+  - norma_id: norm-es-2018-5111
+  - norma_id: norm-es-2018-6348
+  - norma_id: norm-es-2019-317
+  - norma_id: norm-es-2019-3307
+  - norma_id: norm-es-2020-17274
+  - norma_id: norm-es-2021-18189
+  - norma_id: norm-es-2021-18812
+  - norma_id: norm-es-2021-20113
+  - norma_id: norm-es-2021-979
+  - norma_id: norm-es-2022-12014
+  - norma_id: norm-es-2022-1274
+  - norma_id: norm-es-2022-15953
+  - norma_id: norm-es-2022-16194
+  - norma_id: norm-es-2023-3846
+  - norma_id: norm-es-2023-9553
+  - norma_id: norm-es-2024-10683
+  - norma_id: norm-es-2024-10684
+  - norma_id: norm-es-2024-10685
+  - norma_id: norm-es-2024-11613
+  - norma_id: norm-es-2025-16039
+  - norma_id: norm-es-2025-2039
+  - norma_id: norm-es-2026-12038
+  - norma_id: norm-es-2026-15301
+  - norma_id: norm-es-2026-2622
+  - norma_id: norm-es-ce-1978
+  - norma_id: norm-es-lo-3-2018
+  - norma_id: norm-es-lo-3-2022
+  - norma_id: norm-es-lo-8-2021
+  - norma_id: norm-es-rd-443-2001
+  - norma_id: norm-es-rd-659-2023
 fundamentos_derecho:
 - norma_id: norm-es-ce-1978
   articulos:
@@ -143,6 +241,8 @@ fundamentos_derecho:
 - norma_id: norm-es-2010-12201
 - norma_id: norm-es-lo-1-2004
 ---
+
+
 # [Ley Orgánica 2/2006](../03_ordenacion_curricular_y_ensenanzas/LO721_2021_correccion_errores_orden_efp_modifica_orden.md), de 3 de mayo, de Educación (Texto Consolidado LOMLOE)
 
 **JUAN CARLOS I**

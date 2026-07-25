@@ -25,8 +25,16 @@ tags:
 - eso
 - evaluacion
 - profesorado
+- titulacion
 relaciones:
-  desarrolla: []
+  fundamentado_en:
+  - norma_id: norm-es-2010-12201
+  - norma_id: norm-es-2010-4130
+  - norma_id: norm-es-2016-3229
+  - norma_id: norm-es-2021-20113
+  - norma_id: norm-es-l-39-2015
+  - norma_id: norm-es-lo-2-2006
+  - norma_id: norm-es-rd-243-2022
 fundamentos_derecho:
 - norma_id: norm-es-l-39-2015
   articulos:
@@ -38,6 +46,8 @@ fundamentos_derecho:
 - norma_id: norm-es-rd-243-2022
 - norma_id: norm-es-2010-12201
 ---
+
+
 # Orden EFP/935/2022, de 27 de septiembre, por la que se modifica la Orden EDU/2157/2010, de 30 de julio, por la que se regula el currículo mixto de las enseñanzas acogidas al Acuerdo entre el Gobierno de España y el Gobierno de Francia relativo a la doble titulación de Bachiller y de Baccalauréat en centros docentes españoles, así como los requisitos para su obtención.
 
 El Acuerdo Marco firmado por el Gobierno del Reino de España y el Gobierno de la República Francesa relativo a programas educativos, lingüísticos y culturales en centros escolares de los dos Estados, de 16 de mayo de 2005, preveía ya, en su artículo 7, una posible integración de los currículos respectivos de educación secundaria, con el fin de obtener la doble titulación a través de una prueba externa al final del Bachillerato.
