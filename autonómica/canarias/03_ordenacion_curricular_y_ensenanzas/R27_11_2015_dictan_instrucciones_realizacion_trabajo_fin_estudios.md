@@ -41,15 +41,7 @@ fuente_pdf_oficial: https://sede.gobiernodecanarias.org/boc/boc-a-2015-245-5622.
 fuente_juriscan: http://www.gobiernodecanarias.org/juriscan/ficha.jsp?id=73844
 ---
 
-
-
-
-
-
-
-
-
-
+## Preámbulo
 
 # Resolución de 27 de noviembre de 2015, por la que se dictan instrucciones para la realización del trabajo fin de estudios correspondiente a las Enseñanzas Artísticas Superiores en la Comunidad Autónoma de Canarias, en el curso académico 2015-2016 (BOC n.º 245, de 18 de diciembre).
 

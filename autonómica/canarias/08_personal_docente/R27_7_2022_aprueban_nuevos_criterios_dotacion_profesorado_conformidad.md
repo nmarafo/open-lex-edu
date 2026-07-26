@@ -36,15 +36,7 @@ fundamentos_derecho:
 fuente_pdf_oficial: https://sede.gobiernodecanarias.org/boc/boc-a-2022-158-2653.pdf
 ---
 
-
-
-
-
-
-
-
-
-
+## Preámbulo
 
 # Resolución de 27 de julio de 2022, por la que se aprueban nuevos criterios para la dotación de profesorado, de conformidad con el Acuerdo para la mejora del sistema público educativo de Canarias entre Administración y sindicatos.
 

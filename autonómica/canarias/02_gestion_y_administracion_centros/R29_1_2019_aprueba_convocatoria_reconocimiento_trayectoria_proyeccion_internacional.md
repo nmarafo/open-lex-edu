@@ -40,15 +40,7 @@ fundamentos_derecho:
 fuente_pdf_oficial: https://sede.gobiernodecanarias.org/boc/boc-a-2019-024-502.pdf
 ---
 
-
-
-
-
-
-
-
-
-
+## Preámbulo
 
 # Resolución de 29 de enero de 2019, por la que se aprueba la convocatoria de reconocimiento de la trayectoria y proyección internacional de los centros educativos públicos no universitarios de la Comunidad Autónoma de Canarias (BOC n.º 24, de 5 de febrero).
 

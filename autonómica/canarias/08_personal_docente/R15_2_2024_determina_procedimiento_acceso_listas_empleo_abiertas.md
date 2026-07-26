@@ -43,15 +43,7 @@ fundamentos_derecho:
 fuente_pdf_oficial: https://sede.gobiernodecanarias.org/boc/boc-a-2024-048-880.pdf
 ---
 
-
-
-
-
-
-
-
-
-
+## Preámbulo
 
 # Resolución de 15 de febrero de 2024, de la Dirección General de Personal y Formación del Profesorado, por la que se determina el procedimiento para el acceso a listas de empleo abiertas, para el nombramiento de personal docente interino en el ámbito educativo no universitario (BOC nº 48, de 6 de marzo).
 

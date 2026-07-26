@@ -37,15 +37,7 @@ fundamentos_derecho:
 fuente_pdf_oficial: https://sede.gobiernodecanarias.org/boc/boc-a-2017-169-4284.pdf
 ---
 
-
-
-
-
-
-
-
-
-
+## Preámbulo
 
 # Resolución de 28 de agosto de 2017, de la Dirección General de Ordenación, Innovación y Promoción Educativa, por la que se dictan instrucciones para la tramitación electrónica del procedimiento que regula las actividades escolares complementarias, actividades extraescolares y servicios escolares en los centros privados concertados de Canarias (BOC n.º 169, de 1 de septiembre).
 

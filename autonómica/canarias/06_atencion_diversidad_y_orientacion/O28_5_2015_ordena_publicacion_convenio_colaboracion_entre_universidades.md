@@ -46,15 +46,7 @@ fuente_pdf_oficial: https://sede.gobiernodecanarias.org/boc/boc-a-2015-111-2756.
 fuente_juriscan: http://www.gobcan.es/juriscan/ficha.jsp?id=72882
 ---
 
-
-
-
-
-
-
-
-
-
+## Preámbulo
 
 # Resolución de 28 de mayo de 2015, por la que se ordena la publicación del Convenio de Colaboración entre la Consejería de Educación, Universidades y Sostenibilidad y la Asociación de Padres de Alumnos con Discapacidad en Aulas Enclave de la Provincia de Las Palmas (APAELP) para la atención educativa del alumnado no universitario con necesidades específicas de apoyo educativo escolarizados en aulas enclave (BOC n.º 111, de 11 de junio).
 

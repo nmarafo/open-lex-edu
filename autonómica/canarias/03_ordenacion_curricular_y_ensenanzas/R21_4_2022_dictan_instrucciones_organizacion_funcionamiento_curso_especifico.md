@@ -42,15 +42,7 @@ fundamentos_derecho:
 fuente_pdf_oficial: https://sede.gobiernodecanarias.org/boc/boc-a-2022-087-1481.pdf
 ---
 
-
-
-
-
-
-
-
-
-
+## Preámbulo
 
 # Resolución de 21 de abril de 2022, por la que se dictan instrucciones para la organización y el funcionamiento del Curso Específico de Acceso a Ciclos Formativos de Formación Profesional de Grado Medio que se impartirá en centros de educación de personas adultas dependientes de esta Consejería (BOC n.º 87, de 4 de mayo).
 

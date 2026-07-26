@@ -41,15 +41,7 @@ fuente_pdf_oficial: https://sede.gobiernodecanarias.org/boc/boc-a-2016-086-1192.
 fuente_juriscan: http://www.gobiernodecanarias.org/juriscan/ficha.jsp?id=74499
 ---
 
-
-
-
-
-
-
-
-
-
+## Preámbulo
 
 # Resolución de 20 de abril de 2016, por la que se dictan instrucciones para la realización de las prácticas externas de los estudiantes de enseñanzas artísticas superiores en la Comunidad Autónoma de Canarias (BOC n.º 86, de 5 de mayo).
 

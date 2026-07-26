@@ -71,15 +71,7 @@ fundamentos_derecho:
 fuente_pdf_oficial: https://sede.gobiernodecanarias.org/boc/boc-a-2010-143-4245.pdf
 ---
 
-
-
-
-
-
-
-
-
-
+## Preámbulo
 
 # [Decreto 81/2010](Ds_n_desarrolla_decreto_aprueba_reglamento_organico_centros.md), de 8 de julio, por el que se aprueba el Reglamento Orgánico de los centros docentes públicos no universitarios de la Comunidad Autónoma de Canarias.
 

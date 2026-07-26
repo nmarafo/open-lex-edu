@@ -75,15 +75,7 @@ fundamentos_derecho:
 fuente_pdf_oficial: https://sede.gobiernodecanarias.org/boc/boc-a-2026-046-750.pdf
 ---
 
-
-
-
-
-
-
-
-
-
+## Preámbulo
 
 # [Resolución de 25 de febrero de 2026](R25_2_2026_establece_distribucion_horaria_estructura_modular_grados.md), por la que se establece la distribución horaria y estructura modular de los Grados C (Certificados Profesionales) y sus correspondientes Grados B (Certificados de Competencia), de niveles 2 y 3, de las familias profesionales de Industrias Alimentarias; Seguridad y Medio Ambiente; Textil, Confección y Piel; y Transporte y Mantenimiento de Vehículos, en el ámbito de la Comunidad Autónoma de Canarias.
 

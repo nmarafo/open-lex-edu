@@ -37,15 +37,7 @@ fuente_pdf_oficial: http://www.gobiernodecanarias.org/boc/1998/070/boc-1998-070-
 fuente_juriscan: http://www.gobiernodecanarias.org/juriscan/ficha.jsp?id=30668
 ---
 
-
-
-
-
-
-
-
-
-
+## Preámbulo
 
 # Resolución de 15 de mayo de 1998, de la Dirección General de Ordenación e Innovación Educativa, por la que se establecen criterios para el reconocimiento o certificación de las actividades de formación del profesorado de esta Dirección General (BOC n.º 70, de 8 de junio).
 

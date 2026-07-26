@@ -54,15 +54,7 @@ fundamentos_derecho:
 fuente_pdf_oficial: https://sede.gobiernodecanarias.org/boc/boc-a-2025-046-918.pdf
 ---
 
-
-
-
-
-
-
-
-
-
+## Preámbulo
 
 # Resolución de la Dirección General de Formación Profesional y Enseñanzas de Régimen Especial, de 21 de febrero de 2025, por la que se dictan instrucciones para la implantación de los itinerarios formativos de Formación Profesional Adaptada y el desarrollo de los currículos de los módulos de carácter general a partir del curso escolar 2024/2025, en el ámbito de la Comunidad Autónoma de Canarias
 

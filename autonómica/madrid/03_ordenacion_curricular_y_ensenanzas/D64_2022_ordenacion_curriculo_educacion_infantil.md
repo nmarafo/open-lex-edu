@@ -18,11 +18,9 @@ clasificacion:
   categoria_canonica: 03_ordenacion_curricular_y_ensenanzas
   subcategoria: Educación Infantil
 tags:
-- areas-de-aprendizaje
-- autonomia-centro
+- admision-alumnado
 - curriculo
 - educacion-infantil
-- fp-basica
 - ordenacion-academica
 - primer-ciclo
 - segundo-ciclo
@@ -34,14 +32,11 @@ fundamentos_derecho:
 - norma_id: norm-es-lo-2-2006
 ---
 
-
 # Decreto 64/2022, de 20 de julio, del Consejo de Gobierno, por el que se establece para la Comunidad de Madrid la ordenación y el currículo de la Educación Infantil.
 
 ## PREÁMBULO
 
-La Ley Orgánica 2/2006, de 3 de mayo, de Educación, concibe la Educación Infantil como una etapa educativa única con identidad propia que atiende a las niñas y niños desde el nacimiento hasta los seis años de edad.
-
-El Real Decreto 95/2022, de 1 de febrero, por el que se establece la ordenación y las enseñanzas mínimas de la Educación Infantil, fija la estructura básica de la etapa. En el marco autonómico, el presente Decreto establece el currículo oficial aplicable en la Comunidad de Madrid.
+La Ley Orgánica 2/2006, de 3 de mayo, de Educación, concibe la Educación Infantil como una etapa educativa única con identidad propia que atiende a niños desde el nacimiento hasta los seis años de edad. El presente Decreto establece la ordenación general y los elementos curriculares obligatorios para los centros educativos de la Comunidad de Madrid que impartan estas enseñanzas.
 
 ---
 
@@ -49,35 +44,52 @@ El Real Decreto 95/2022, de 1 de febrero, por el que se establece la ordenación
 
 ### Artículo 1. Objeto y ámbito de aplicación.
 1. El presente Decreto tiene por objeto establecer la ordenación y el currículo de la Educación Infantil en la Comunidad de Madrid.
-2. Esta norma es de aplicación en todos los centros docentes públicos y privados autorizados que impartan el primer o el segundo ciclo de la Educación Infantil en el territorio madrileño.
+2. Esta norma es de aplicación en todos los centros docentes públicos y privados autorizados que impartan el primer o el segundo ciclo de la Educación Infantil en el ámbito territorial madrileño.
 
-### Artículo 2. Principios generales y fines de la etapa.
-1. La Educación Infantil se estructura en dos ciclos pedagógicos:
-a) Primer ciclo: comprende desde el nacimiento hasta los tres años de edad.
-b) Segundo ciclo: comprende desde los tres hasta los seis años de edad.
-2. La finalidad de la Educación Infantil es contribuir al desarrollo físico, afectivo, social, cognitivo y artístico del alumnado, así como al desarrollo de su autonomía personal.
-3. El segundo ciclo de la Educación Infantil será gratuito en los centros sostenidos con fondos públicos.
+### Artículo 2. Principios generales y carácter educativo.
+1. La Educación Infantil se estructura en dos ciclos: el primero comprende desde el nacimiento hasta los tres años, y el segundo, desde los tres hasta los seis años de edad.
+2. El segundo ciclo de la Educación Infantil será gratuito y se garantizará la existencia de plazas suficientes en la red pública para atender la demanda de las familias.
+3. La Educación Infantil tiene carácter voluntario y su finalidad es contribuir al desarrollo físico, afectivo, social, cognitivo y artístico del alumnado.
+
+### Artículo 3. Objetivos de la etapa.
+La Educación Infantil contribuirá a desarrollar en las niñas y niños las capacidades que les permitan:
+a) Conocer su propio cuerpo y el de los otros, sus posibilidades de acción y aprender a respetar las diferencias.
+b) Observar y explorar su entorno familiar, natural y social.
+c) Adquirir progresivamente autonomía en sus actividades habituales.
+d) Desarrollar sus capacidades afectivas y emocionales.
+e) Relacionarse con los demás de forma pacífica y adquirir las pautas elementales de convivencia.
+f) Desarrollar habilidades comunicativas en diferentes lenguajes y formas de expresión.
 
 ---
 
-## CAPÍTULO II. Áreas y Organización Curricular
+## CAPÍTULO II. Currículo y Áreas de Conocimiento
 
-### Artículo 3. Áreas de la Educación Infantil.
-Las actividades educativas en ambos ciclos se organizarán en torno a las siguientes áreas del currículo:
+### Artículo 4. Áreas del currículo.
+Las actividades educativas en ambos ciclos se organizarán en áreas correspondientes a ámbitos propios de la experiencia y del desarrollo infantil:
 a) Crecimiento en Armonía.
 b) Descubrimiento y Exploración del Entorno.
 c) Comunicación y Representación de la Realidad.
 
-### Artículo 4. Autonomía de los centros y propuesta pedagógica.
-Los centros educativos desarrollarán y completarán el currículo adaptándolo a las características de su alumnado mediante la elaboración de su propuesta pedagógica.
+### Artículo 5. Orientaciones pedagógicas.
+1. La práctica educativa en esta etapa se basará en el juego, la experimentación y el afecto como motores del aprendizaje.
+2. Se fomentará el enfoque globalizado del currículo, integrando los aprendizajes de las tres áreas en propuestas didácticas significativas y vivenciales.
 
 ---
 
-## CAPÍTULO III. Evaluación y Coordinación
+## CAPÍTULO III. Evaluación y Atención a la Diversidad
 
-### Artículo 5. Evaluación de los aprendizajes.
-1. La evaluación en la Educación Infantil será continua, global y formativa, basada en la observación directa y sistemática de los niños.
-2. Las valoraciones se expresarán en términos cualitativos reflejando los avances del desarrollo del alumnado.
+### Artículo 6. Evaluación de los aprendizajes.
+1. La evaluación en Educación Infantil será continua, global, cualitativa y formativa.
+2. La observación directa y sistemática constituirá el técnica principal del proceso de evaluación.
+3. Los tutores elaborarán un informe individualizado de evaluación al finalizar cada curso académico para informar a las familias.
+
+### Artículo 7. Atención a las diferencias individuales.
+1. La intervención educativa atenderá a la diversidad del alumnado, adaptando la práctica docente a las características, ritmos y estilos de aprendizaje de cada niño.
+2. Los centros adoptarán medidas de atención temprana e inclusión educativa en colaboración con los equipos de orientación psicopedagógica.
+
+---
+
+## DISPOSICIONES FINALES
 
 ### Disposición Final Única. Entrada en vigor.
-La presente norma entrará en vigor el día siguiente al de su publicación oficial en el Boletín Oficial de la Comunidad de Madrid.
+El presente Decreto entrará en vigor el día siguiente al de su publicación en el Boletín Oficial de la Comunidad de Madrid.

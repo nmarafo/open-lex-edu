@@ -33,15 +33,7 @@ fuente_pdf_oficial: http://www.gobiernodecanarias.org/boc/2004/157/boc-2004-157-
 fuente_juriscan: http://www.gobiernodecanarias.org/juriscan/ficha.jsp?id=48984
 ---
 
-
-
-
-
-
-
-
-
-
+## Preámbulo
 
 # Resolución de 9 de julio de 2004, por la que se hace público el Reglamento que regula en la Universidad de Las Palmas de Gran Canaria el Acceso para Mayores de 25 años (BOC n.º 157, de 13 de agosto).
 

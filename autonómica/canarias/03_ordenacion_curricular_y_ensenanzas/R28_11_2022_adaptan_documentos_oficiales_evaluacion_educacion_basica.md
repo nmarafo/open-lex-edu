@@ -39,15 +39,7 @@ fundamentos_derecho:
 fuente_pdf_oficial: https://sede.gobiernodecanarias.org/boc/boc-a-2022-243-3774.pdf
 ---
 
-
-
-
-
-
-
-
-
-
+## Preámbulo
 
 # Resolución de 28 de noviembre de 2022, por la que se adaptan los documentos oficiales de evaluación a la Educación Básica de Personas Adultas en la Comunidad Autónoma de Canarias (BOC n.º 243, de 13 de diciembre).
 

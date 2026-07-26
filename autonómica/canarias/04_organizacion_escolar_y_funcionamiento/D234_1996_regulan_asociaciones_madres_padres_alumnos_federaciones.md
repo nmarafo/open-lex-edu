@@ -41,56 +41,29 @@ fundamentos_derecho:
   - '27'
 ---
 
+# Decreto 234/1996, de 12 de septiembre, por el que se regulan las asociaciones de madres y padres de alumnos.
+
+## Preámbulo
+
+La Constitución Española en su artículo 27 garantiza la participación de la comunidad educativa en los centros docentes sostenidos con fondos públicos. El presente Decreto regula las asociaciones de madres y padres de alumnos en el ámbito de Canarias.
+
+---
+
+## TÍTULO I. De las AMPAS
+
+### Artículo 1. Objeto y ámbito.
+1. El presente Decreto regula la constitución, organización y funcionamiento de las Asociaciones de Madres y Padres de Alumnos (AMPAS) en los centros docentes no universitarios de la Comunidad Autónoma de Canarias.
+2. Las AMPAS tendrán como finalidad la colaboración con los centros escolares en las actividades educativas y extracurriculares.
 
 
+### Artículo 2. Derechos de las Asociaciones.
+1. Las AMPAS integradas en los centros escolares tendrán derecho a utilizar los locales y dependencias del centro para la celebración de reuniones y actividades acordes con sus fines.
+2. Tendrán acceso al censo de madres y padres para la difusión de sus convocatorias y boletines informativos.
+
+### Artículo 3. Representación en el Consejo Escolar.
+Las Asociaciones de Madres y Padres de Alumnos más representativas propondrán a sus representantes para la incorporación a las comisiones del Consejo Escolar del centro.
 
 
-
-
-
-
-
-
-# Decreto 234/1996, de 12 de septiembre, por el que se regulan las Asociaciones de Madres y Padres de Alumnos y sus Federaciones y Confederaciones en la Comunidad Autónoma de Canarias.
-
-Gobierno de Canarias
-
-Comunidad Autónoma de Canarias
-
-Boletín Oficial de Canarias
-
-Accesibilidad
-
-Mapa web
-
-Contacto
-
-Inicio
-
-Archivo
-
-Búsqueda
-
-Estás en:
-
-Inicio
-
-Archivo
-
-Año 1996
-
-1996/121. Lunes 23 de Septiembre de 1996
-
-Anterior
-
-Siguiente
-
-III. OTRAS RESOLUCIONES - Consejería de Economía y Hacienda
-
-1622 - CORRECCIÓN de errores de la Circular nº 3 de 20 de junio de 1996, de la Intervención General, acerca de los documentos contables que deben aportarse en los expedientes de contratación del personal laboral fijo y eventual (B.O.C. nº 109, de 28.8.96).
-
-Descargar en formato pdf
-
-Advertido error en el texto remitido para la publicación de la Circular de 20 de junio de 1996, acerca de los documentos contables que deben aportarse en los expedientes de contratación del personal laboral fijo y eventual, inserta en el Boletín Oficial de Canarias nº 109, del día 28 de agosto de 1996, a continuación se transcribe a fin de proceder a su rectificación:
-
-En  la página 7831, instrucción tercera, segundo párrafo, donde dice: AD-421, debe decir D-501.
+### Artículo 4. Garantías de participación escolar.
+1. Los centros docentes facilitarán los medios informativos para que las asociaciones de padres y madres puedan comunicar a la comunidad educativa sus iniciativas.
+2. La Consejería promoverá la colaboración entre los equipos directivos y las AMPAS.

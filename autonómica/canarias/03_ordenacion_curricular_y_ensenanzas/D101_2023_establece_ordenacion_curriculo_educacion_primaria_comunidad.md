@@ -51,15 +51,7 @@ fundamentos_derecho:
 fuente_pdf_oficial: https://sede.gobiernodecanarias.org/boc/boc-a-2023-096-1553.pdf
 ---
 
-
-
-
-
-
-
-
-
-
+## Preámbulo
 
 # Decreto 101/2023, de 9 de mayo, por el que se establece la ordenación y el currículo de la Educación Primaria en la Comunidad Autónoma de Canarias.
 

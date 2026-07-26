@@ -40,15 +40,7 @@ fuente_pdf_oficial: https://sede.gobiernodecanarias.org/boc/boc-a-2017-066-1585.
 fuente_juriscan: http://www.gobiernodecanarias.org/juriscan/ficha.jsp?id=75634
 ---
 
-
-
-
-
-
-
-
-
-
+## Preámbulo
 
 # Secretaría General Técnica.- Resolución de 24 de febrero de 2017, por la que se crea el sello electrónico de la Dirección General de Ordenación, Innovación y Promoción Educativa de la Consejería de Educación y Universidades (BOC n.º 44, de 3 de marzo).
 

@@ -35,6 +35,9 @@ fundamentos_derecho:
 
 # Decreto 23/2023, de 22 de marzo, del Consejo de Gobierno, por el que se regula la ordenación y el currículo de la Educación Secundaria Obligatoria en la Comunidad de Madrid (BOCM n.º 71, de 24 de marzo).
 
+
+## Preámbulo
+
 ### Resolución de 14 de marzo de 2023, de la Abogacía General del Estado, por la que se publica el Convenio con la Universidad Autónoma de Barcelona, para el desarrollo de prácticas formativas de sus estudiantes.
 
 

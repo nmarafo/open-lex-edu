@@ -52,15 +52,7 @@ fundamentos_derecho:
 fuente_pdf_oficial: https://sede.gobiernodecanarias.org/boc/boc-a-2023-133-2236.pdf
 ---
 
-
-
-
-
-
-
-
-
-
+## Preámbulo
 
 # Resolución de 27 de junio de 2023, de la Dirección General de Formación Profesional y Educación de Adultos por la que se dictan instrucciones específicas sobre organización y funcionamiento de la Escuela Oficial de Idiomas a Distancia de Canarias. (BOC n.º 133, de 10 de julio).
 

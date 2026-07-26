@@ -47,15 +47,7 @@ fundamentos_derecho:
 fuente_pdf_oficial: https://sede.gobiernodecanarias.org/boc/boc-a-2026-045-737.pdf
 ---
 
-
-
-
-
-
-
-
-
-
+## Preámbulo
 
 # Resolución de 23 de febrero de 2026, por la que se dictan instrucciones para la tramitación electrónica de los títulos académicos y profesionales de las enseñanzas no universitarias en el ámbito de la Comunidad Autónoma de Canarias (BOC n.º 45, de 6 de marzo).
 

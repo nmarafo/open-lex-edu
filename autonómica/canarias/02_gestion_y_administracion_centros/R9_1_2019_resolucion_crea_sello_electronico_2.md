@@ -43,15 +43,7 @@ fundamentos_derecho:
 fuente_pdf_oficial: https://sede.gobiernodecanarias.org/boc/boc-a-2019-016-311.pdf
 ---
 
-
-
-
-
-
-
-
-
-
+## Preámbulo
 
 # Secretaría General Técnica.- [Resolución de 9 de enero de 2019](R9_1_2019_resolucion_crea_sello_electronico.md), por la que se crea el sello electrónico de la Dirección General de Formación Profesional y Educación de Adultos de la Consejería de Educación y Universidades (BOC n.º 16, de 24 de enero).
 

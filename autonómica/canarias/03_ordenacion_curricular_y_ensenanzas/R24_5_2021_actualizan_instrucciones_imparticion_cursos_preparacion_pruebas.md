@@ -42,15 +42,7 @@ fundamentos_derecho:
 fuente_pdf_oficial: https://sede.gobiernodecanarias.org/boc/boc-a-2021-114-2852.pdf
 ---
 
-
-
-
-
-
-
-
-
-
+## Preámbulo
 
 # Resolución de 24 de mayo de 2021, por la que se actualizan las instrucciones para la impartición de los cursos de preparación de pruebas de acceso a ciclos formativos de grado medio y superior de Formación Profesional (BOC n.º 114, de 4 de junio).
 

@@ -61,15 +61,7 @@ fundamentos_derecho:
 fuente_pdf_oficial: https://sede.gobiernodecanarias.org/boc/boc-a-2018-046-1008.pdf
 ---
 
-
-
-
-
-
-
-
-
-
+## Preámbulo
 
 # Decreto 25/2018, de 26 de febrero, por el que se regula la atención a la diversidad en el ámbito de las enseñanzas no universitarias de la Comunidad Autónoma de Canarias.
 

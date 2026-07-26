@@ -63,15 +63,7 @@ fundamentos_derecho:
 - norma_id: norm-can-d-212-1991
 ---
 
-
-
-
-
-
-
-
-
-
+## Preámbulo
 
 # Decreto 135/2016, de 10 de octubre, por el que se aprueba el Reglamento Orgánico de la Consejería de Educación, Universidades, Cultura y Deportes (BOC n.º 203, de 19 de octubre).
 

@@ -71,15 +71,7 @@ fundamentos_derecho:
 fuente_pdf_oficial: https://sede.gobiernodecanarias.org/boc/boc-a-2026-039-642.pdf
 ---
 
-
-
-
-
-
-
-
-
-
+## Preámbulo
 
 # [Resolución de 13 de febrero de 2026](R13_2_2026_dictan_instrucciones_proceso_admision_alumnado_ciclos.md), por la que se convoca el procedimiento de admisión del alumnado a los Ciclos Formativos de Grado Básico, Medio y Superior (Grado D, niveles 1, 2 y 3, respectivamente) y de los cursos de especialización de Grado Medio y Superior (Grados E, niveles 2 y 3, respectivamente) de todas las Enseñanzas de Formación Profesional autorizadas, Enseñanzas Profesionales de Artes Plásticas y Diseño, Enseñanzas Deportivas, Enseñanzas Elementales y Profesionales de Música y Enseñanzas de Idiomas en centros docentes sostenidos con fondos públicos en la Comunidad Autónoma de Canarias para el curso escolar 2026-2027.
 

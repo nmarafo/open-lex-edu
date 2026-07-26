@@ -47,15 +47,7 @@ fundamentos_derecho:
 fuente_pdf_oficial: https://sede.gobiernodecanarias.org/boc/boc-a-2025-250-4324.pdf
 ---
 
-
-
-
-
-
-
-
-
-
+## Preámbulo
 
 # Resolución de la Dirección General de Formación Profesional y Enseñanzas de Régimen Especial, número 597/2025 de 4 de diciembre, por la que se convocan pruebas para la obtención de certificados de nivel intermedio B2 y nivel avanzado C1 de Inglés de Enseñanzas de Idiomas de Régimen Especial en la Comunidad Autónoma de Canarias y se dictan instrucciones para su organización y aplicación en el curso 2025-2026 (BOC núm 250, de 18 de diciembre).
 

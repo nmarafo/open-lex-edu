@@ -50,15 +50,7 @@ motor_ocr: rapidocr_onnxruntime
 anexos_extraidos_pdf: true
 ---
 
-
-
-
-
-
-
-
-
-
+## Preámbulo
 
 # Ley 4/2023, de 23 de marzo, de la Presidencia y del Gobierno de Canarias.
 

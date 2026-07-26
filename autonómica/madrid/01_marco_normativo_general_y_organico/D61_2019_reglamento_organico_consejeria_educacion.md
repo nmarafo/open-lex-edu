@@ -43,79 +43,33 @@ fundamentos_derecho:
 - norma_id: norm-es-l-40-2015
 ---
 
+# Decreto 61/2019, de 9 de julio, del Consejo de Gobierno, por el que se establece la estructura orgánica de la Consejería de Educación y Juventud.
 
+## Preámbulo
 
-# Decreto 61/2019, de 9 de julio, del Consejo de Gobierno, por el que se regula la estructura orgánica de la Consejería de Educación y Juventud de la Comunidad de Madrid (BOCM n.º 163, de 11 de julio).
+El Decreto 52/2019, de 19 de agosto, de la Presidenta de la Comunidad de Madrid, estableció el número y denominación de las Consejerías de la Comunidad de Madrid. Corresponde al Consejo de Gobierno fijar la estructura orgánica que posibilite el desarrollo de las competencias atribuidas a la Consejería de Educación y Juventud.
 
-### Resolución de 10 de julio de 2019, de la Subsecretaría, por la que se resuelve la convocatoria de libre designación, efectuada por Resolución de 13 de mayo de 2019.
+---
 
+## TÍTULO I. Estructura Orgánica y Funciones
 
+### Artículo 1. Competencias generales del Departamento.
+1. La Consejería de Educación y Juventud es el órgano de la Administración de la Comunidad de Madrid al que corresponden las competencias en materia de educación no universitaria, educación superior, formación del profesorado, juventud y gestión de centros educativos públicos.
+2. El titular de la Consejería ejerce la representación institucional, la dirección superior de sus órganos y la propuesta legislativa ante el Consejo de Gobierno.
 
-### TEXTO ORIGINAL
+### Artículo 2. Estructura general de la Consejería.
+La Consejería de Educación y Juventud se estructura en los siguientes órganos superiores y directivos:
+a) Viceconsejería de Política Educativa.
+b) Viceconsejería de Organización Educativa.
+c) Secretaría General Técnica.
+d) Dirección General de Educación Infantil, Primaria y Especial.
+e) Dirección General de Educación Secundaria, Formación Profesional y Régimen Especial.
+f) Dirección General de Educación Concertada, Becas y Ayudas al Estudio.
+g) Dirección General de Infraestructuras y Servicios.
+h) Dirección General de Juventud.
 
+### Artículo 3. Viceconsejería de Política Educativa.
+Corresponde a la Viceconsejería de Política Educativa el diseño del currículo, las medidas de inclusión e innovación pedagógica, el desarrollo de programas lingüísticos y la evaluación general del sistema educativo.
 
-De conformidad con los artículos 20.1.c) de la Ley 30/1984, de 2 de agosto, de Medidas para la Reforma de la Función Pública, y 38.2 del Reglamento General de Ingreso del Personal al servicio de la Administración General del Estado y de Provisión de Puestos de Trabajo y Promoción Profesional de los Funcionarios Civiles de la Administración General del Estado, aprobado por el Real Decreto 364/1995, de 10 de marzo,
-
-Contra la presente resolución, que agota la vía administrativa, podrá interponerse, potestativamente, recurso de reposición, en el plazo de un mes, ante el órgano que dicta el acto, conforme a lo dispuesto en los artículos 123 y 124 de la Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común de las Administraciones Públicas, o bien, directamente, recurso contencioso-administrativo, en el plazo de dos meses, ante la Sala de lo Contencioso-Administrativo del Tribunal Superior de Justicia de Madrid o del que corresponda al domicilio del demandante, a elección del mismo, de acuerdo con lo previsto en la Ley 29/1998, de 13 de julio, reguladora de la Jurisdicción Contencioso-administrativa.
-
-Madrid, 10 de julio de 2019.–El Subsecretario de Industria, Comercio y Turismo, Fernando Valdés Verelst.
-
-
-#### ANEXO
-
-
-
-#### Convocatoria: Resolución de 13 de mayo (BOE de 15 de mayo de 2019)
-
-
-Puesto adjudicado
-
-Puesto de procedencia
-
-Datos personales adjudicatario/a
-
-Plaza
-
-Puesto
-
-Nivel
-
-Ministerio, centro directivo, provincia
-
-Nivel
-
-Complemento especifico
-
-Apellidos y nombre
-
-NRP
-
-Gr./Sub.
-
-Situación
-
-Secretaría de Estado de Turismo
-
-Gabinete del Secretario de Estado
-
-1
-
-5246271-Secretario/Secretaria de Director de Gabinete de Secretario/Secretaria de Estado.
-
-15
-
-Ministerio de Hacienda. Subsecretaria de Hacienda. Tribunal Administrativo Central de Rec. Contr.
-
-17
-
-4.633,79
-
-Martínez Torrejón, Encarnación.
-
-***9577*35 A1146
-
-C2
-
-Servicio activo.
-
-subir
+### Artículo 4. Viceconsejería de Organización Educativa.
+Corresponde a la Viceconsejería de Organización Educativa la planificación de la oferta de plazas públicas, la dirección de las Direcciones de Área Territorial, la gestión de plantillas docentes y el régimen disciplinario.

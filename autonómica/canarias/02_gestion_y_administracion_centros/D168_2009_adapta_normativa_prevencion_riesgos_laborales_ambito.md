@@ -50,15 +50,7 @@ fundamentos_derecho:
 fuente_pdf_oficial: https://sede.gobiernodecanarias.org/boc/boc-a-2010-007-187.pdf
 ---
 
-
-
-
-
-
-
-
-
-
+## Preámbulo
 
 # Decreto 168/2009, de 29 de diciembre, por el que se adapta la normativa sobre prevención de riesgos laborales al ámbito de la Administración Pública de la Comunidad Autónoma de Canarias y sus Organismos Autónomos.
 

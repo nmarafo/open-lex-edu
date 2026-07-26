@@ -32,15 +32,7 @@ fundamentos_derecho:
   - '1'
 ---
 
-
-
-
-
-
-
-
-
-
+## Preámbulo
 
 # Resolución de 14 de julio de 2004, de la Dirección General de Formación Profesional y Educación de Adultos, por la que se dictan instrucciones para el funcionamiento de las Aulas Mentor.
 

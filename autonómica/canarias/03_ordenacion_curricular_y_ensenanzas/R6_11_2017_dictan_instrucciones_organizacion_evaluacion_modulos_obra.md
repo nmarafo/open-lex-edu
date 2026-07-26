@@ -47,15 +47,7 @@ fundamentos_derecho:
 fuente_pdf_oficial: https://sede.gobiernodecanarias.org/boc/boc-a-2017-220-5354.pdf
 ---
 
-
-
-
-
-
-
-
-
-
+## Preámbulo
 
 # Resolución de 6 de noviembre de 2017, de la Dirección General de Formación Profesional y Educación de Adultos, por la que se dictan instrucciones para la organización y la evaluación de los módulos de obra final y de proyecto integrado de las enseñanzas profesionales de Artes Plásticas y Diseño en la Comunidad Autónoma de Canarias (BOC n.º 220, de 15 de noviembre).
 

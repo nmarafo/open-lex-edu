@@ -53,15 +53,7 @@ fundamentos_derecho:
 fuente_pdf_oficial: https://sede.gobiernodecanarias.org/boc/boc-a-2025-087-1645.pdf
 ---
 
-
-
-
-
-
-
-
-
-
+## Preámbulo
 
 # Resolución de 11 de abril de 2025, de la Dirección General de Administración de Centros, Escolarización y Servicios Complementarios por la que se aprueba la instrucción de las ayudas de préstamo de libros de texto y materiales didácticos para el curso escolar 2025/2026 (BOC n.º 87, de 2 de mayo).
 

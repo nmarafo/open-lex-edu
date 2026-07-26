@@ -46,15 +46,7 @@ fundamentos_derecho:
 fuente_pdf_oficial: https://sede.gobiernodecanarias.org/boc/boc-a-2021-229-4680.pdf
 ---
 
-
-
-
-
-
-
-
-
-
+## Preámbulo
 
 # Resolución de 27 de octubre de 2021, por la que se ordena la publicación del Convenio Marco de Cooperación entre la Consejería de Educación, Universidades, Cultura y Deportes y la Federación Canaria de Municipios (FECAM) para el desarrollo de acciones y actuaciones en los centros docentes públicos no universitarios.
 

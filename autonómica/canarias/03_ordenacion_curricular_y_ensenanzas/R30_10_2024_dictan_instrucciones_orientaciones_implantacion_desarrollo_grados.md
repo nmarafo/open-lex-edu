@@ -83,15 +83,7 @@ fundamentos_derecho:
 fuente_pdf_oficial: https://sede.gobiernodecanarias.org/boc/boc-a-2024-226-3747.pdf
 ---
 
-
-
-
-
-
-
-
-
-
+## Preámbulo
 
 # Resolución de 30 de octubre de 2024, de la Dirección General de Formación Profesional y Enseñanzas de Régimen Especial, por la que se dictan instrucciones y orientaciones para la implantación y desarrollo de los grados de formación D y E, a partir del curso escolar 2024/2025, y se establece la distribución horaria y modular de los currículos, en el ámbito de la Comunidad Autónoma de Canarias.
 

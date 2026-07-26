@@ -30,15 +30,7 @@ fundamentos_derecho:
   - '1'
 ---
 
-
-
-
-
-
-
-
-
-
+## Preámbulo
 
 # Resolución de 1 de octubre de 2002, de la Dirección General de Trabajo de la Consejería de Empleo y Asuntos Sociales, relativa al Acuerdo de la Comisión Negociadora del Convenio Colectivo del Personal Laboral de la Comunidad Autónoma de Canarias para la introducción en el Convenio de una Disposición Adicional Novena (BOC n.º 147, de 4 de noviembre).
 

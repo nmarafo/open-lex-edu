@@ -50,15 +50,7 @@ fundamentos_derecho:
 fuente_pdf_oficial: https://sede.gobiernodecanarias.org/boc/boc-a-2025-250-4323.pdf
 ---
 
-
-
-
-
-
-
-
-
-
+## Preámbulo
 
 # Resolución de 26 de noviembre de 2025, de la Dirección General de Formación Profesional y Enseñanzas de Régimen Especial,por la que se dictan instrucciones para la implantación y desarrollo de la oferta de dobles titulaciones de formación profesional (Grados D) en la Comunidad Autónoma de Canarias, a partir del curso escolar 2026/2027 (BOC n.º 250, de 18 de diciembre)
 

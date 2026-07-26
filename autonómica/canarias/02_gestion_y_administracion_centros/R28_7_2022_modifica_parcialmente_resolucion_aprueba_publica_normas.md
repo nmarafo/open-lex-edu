@@ -48,15 +48,7 @@ fundamentos_derecho:
 fuente_pdf_oficial: https://sede.gobiernodecanarias.org/boc/boc-a-2022-158-2645.pdf
 ---
 
-
-
-
-
-
-
-
-
-
+## Preámbulo
 
 # Resolución de 28 de julio de 2022, por la que se modifica parcialmente la Resolución de 29 de mayo de 2007, que aprueba y publica las normas sobre la gestión del pago delegado de la nómina de personal docente en centros privados concertados (BOC n.º 158, de 10 de agosto).
 

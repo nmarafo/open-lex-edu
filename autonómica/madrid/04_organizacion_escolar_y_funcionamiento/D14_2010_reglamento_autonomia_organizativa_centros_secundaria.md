@@ -34,33 +34,35 @@ fundamentos_derecho:
 - norma_id: norm-es-lo-2-2006
 ---
 
+# Decreto 14/2010, de 18 de marzo, del Consejo de Gobierno, por el que se regula la autonomía organizativa de los Institutos de Educación Secundaria de la Comunidad de Madrid.
 
-# Decreto 14/2010, de 18 de marzo, del Consejo de Gobierno, por el que se regula
+## Preámbulo
+
+La configuración de la autonomía de los centros educativos constituye un pilar esencial en el desarrollo pedagógico y en la organización interna del profesorado y de los departamentos de coordinación docente de Educación Secundaria.
+
+---
+
+## TÍTULO I. Autonomía y Coordinación Docente
+
+### Artículo 1. Objeto y ámbito de aplicación.
+1. Este Decreto regula la autonomía pedagógica, organizativa y de gestión de los Institutos de Educación Secundaria (IES) de la Comunidad de Madrid.
+2. Resulta de aplicación a todos los institutos públicos de educación secundaria de la red autonómica.
+
+### Artículo 2. Principios de autonomía organizativa.
+1. Los institutos dispondrán de autonomía para definir su modelo de organización, distribución de horarios lectivos y asignación de tutorías conforme a sus características.
+2. Se potenciará el liderazgo pedagógico de los equipos directivos y la coordinación de los departamentos didácticos.
+
+### Artículo 3. Órganos de coordinación docente.
+En los Institutos de Educación Secundaria existirán los siguientes órganos de coordinación docente:
+a) Comisión de Coordinación Pedagógica.
+b) Departamentos Didácticos por áreas de conocimiento.
+c) Departamento de Orientación Educativa.
+d) Equipo de Tutores.
 
 
-### Documento BOE-A-2010-6187
+### Artículo 4. Proyecto Educativo y Reglamento de Régimen Interior.
+1. El Proyecto Educativo de cada instituto definirá las señas de identidad del centro, los objetivos prioritarios y la oferta curricular.
+2. El Reglamento de Régimen Interior establecerá las normas de convivencia, uso de espacios y régimen de tutorías.
 
-
-
-### Resolución de 9 de abril de 2010, de la Universidad de Lleida, por la que se nombra Profesor Titular de Universidad a don Jorge Lampurlanés Castel.
-
-
-- Otros formatos:
-
-- PDF
-
-- XML
-
-
-### TEXTO ORIGINAL
-
-
-De conformidad con la propuesta formulada por la Comisión nombrada para juzgar el concurso convocado por Resolución de la Universidad de Lleida de 1 de diciembre de 2009 (BOE número 300, de 14 de diciembre de 2009), y una vez acreditado por el concursante propuesto que reúne los requisitos establecidos en la base undécima de la convocatoria,
-
-Este Rectorado, en uso de las atribuciones conferidas por el artículo 65 de la Ley Orgánica 4/2007, de 12 de abril, por la cual se modifica la Ley Orgánica 6/2001, de Universidades, de 21 de diciembre (BOE de 24 de diciembre), y el resto de disposiciones concordantes, ha resuelto nombrar Profesor titular de Universidad a don Jorge Lampurlanés Castel, del área de conocimiento «Ingeniería Agroforestal», del Departamento de Ingeniería Agroforestal.
-
-Contra la presente Resolución, que pone fin a la vía administrativa, cabe interponer recurso contencioso-administrativo antel el Tribunal Superior de Justicia de Catalunya, en el plazo de dos meses, contados desde el día siguiente al de su publicación. No obstante, y sin perjuicio de que se pueda ejercitar cualquier otro que se estime procedente, puede optarse por interponer contra la presente resolución recurso de reposición ante el Rector de la UdL, en el plazo de un mes, contado desde el día siguiente al de su publicación, en cuyo caso no podrá interponerse el recurso contencioso-administrativo anteriormente mencionado en tanto no sea resulto expresamente o se haya producido la desestimación presunta del recurso de reposición interpuesto, conforme a lo previsto en los artículos 116 y 117 de la LRJAP-PAC.
-
-Lleida, 9 de abril de 2010.–El Rector, Joan Viñas i Salas.
-
-subir
+### Artículo 5. Departamentos Didácticos.
+Los departamentos didácticos organizarán y desarrollarán las enseñanzas propias de los ámbitos o materias encomendadas.

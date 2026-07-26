@@ -33,15 +33,7 @@ fundamentos_derecho:
   - '58'
 ---
 
-
-
-
-
-
-
-
-
-
+## Preámbulo
 
 # Decreto 40/2005, de 16 de marzo, de ordenación de las Residencias Escolares en la Comunidad Autónoma de Canarias.
 

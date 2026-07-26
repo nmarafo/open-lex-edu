@@ -30,15 +30,7 @@ fundamentos_derecho:
   - '1'
 ---
 
-
-
-
-
-
-
-
-
-
+## Preámbulo
 
 # Resolución de 28 de marzo de 2005, de la Dirección General de Trabajo de la Consejería de Empleo y Asuntos Sociales, relativa al registro, depósito y publicación del convenio colectivo del personal laboral de la Comunidad Autónoma de Canarias (BOC n.º 80, de 25 de abril).
 

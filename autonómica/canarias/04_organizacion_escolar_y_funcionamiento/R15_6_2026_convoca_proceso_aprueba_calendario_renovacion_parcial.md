@@ -45,15 +45,7 @@ fundamentos_derecho:
 fuente_pdf_oficial: https://sede.gobiernodecanarias.org/boc/boc-a-2026-125-2192.pdf
 ---
 
-
-
-
-
-
-
-
-
-
+## Preámbulo
 
 # Resolución de 15 de junio de 2026, por la que se convoca el proceso y se aprueba el calendario para la renovación parcial o la nueva constitución de los Consejos de los Colectivos de Escuelas Rurales en la Comunidad Autónoma de Canarias, a celebrar en el curso escolar 2026-2027.
 

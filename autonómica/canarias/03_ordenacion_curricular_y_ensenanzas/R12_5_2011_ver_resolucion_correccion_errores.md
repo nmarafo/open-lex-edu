@@ -42,15 +42,7 @@ fundamentos_derecho:
 fuente_pdf_oficial: https://sede.gobiernodecanarias.org/boc/boc-a-2011-099-2678.pdf
 ---
 
-
-
-
-
-
-
-
-
-
+## Preámbulo
 
 # ver Resolución corrección de errores de 12 de mayo de 2011
 

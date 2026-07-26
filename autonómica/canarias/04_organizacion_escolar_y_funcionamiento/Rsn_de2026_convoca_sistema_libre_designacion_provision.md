@@ -53,15 +53,7 @@ fundamentos_derecho:
 fuente_pdf_oficial: https://sede.gobiernodecanarias.org/boc/boc-a-2026-029-465.pdf
 ---
 
-
-
-
-
-
-
-
-
-
+## Preámbulo
 
 # Resolución de 30 de enero de2026, de la Dirección General de Personal y Formación del Profesorado, por la que se convoca, por el sistema de libre designación, la provisión de puestos de dirección de centros públicos integrados de formación profesional de la Comunidad Autónoma de Canarias para el periodo de mandato 2026-2030 (BOC n.º 29, de 12 de febrero).
 

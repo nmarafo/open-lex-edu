@@ -44,15 +44,7 @@ fuente_pdf_oficial: https://sede.gobiernodecanarias.org/boc/boc-a-2011-124-3519.
 fuente_juriscan: http://www.gobcan.es/juriscan/ficha.jsp?id=65632
 ---
 
-
-
-
-
-
-
-
-
-
+## Preámbulo
 
 # Resolución de 2 de junio de 2011, por la que se corrigen errores materiales en la [Resolución de 25 de mayo de 2011](R25_5_2011_dictan_instrucciones_organizacion_desarrollo_pruebas_acceso.md), que dicta instrucciones sobre organización y desarrollo de las pruebas de acceso a las enseñanzas artísticas superiores de Grado en Música, , Arte Dramático y Diseño en la Comunidad Autónoma de Canarias, y convoca las correspondientes al curso académico 2011-2012 (BOC n.º 124, de 24 de junio).
 

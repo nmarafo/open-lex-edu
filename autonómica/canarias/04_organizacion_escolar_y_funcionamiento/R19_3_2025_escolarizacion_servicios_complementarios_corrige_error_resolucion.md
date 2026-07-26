@@ -46,15 +46,7 @@ fundamentos_derecho:
 fuente_pdf_oficial: https://sede.gobiernodecanarias.org/boc/boc-a-2025-061-1213.pdf
 ---
 
-
-
-
-
-
-
-
-
-
+## Preámbulo
 
 # Resolución de la Dirección General de Administración de Centros, Escolarización y Servicios Complementarios, de 19 de marzo de 2025, por la que se corrige error en la Resolución de 20 de febrero de 2025, que establece el calendario escolar y dicta instrucciones para la organización y desarrollo de las actividades de comienzo y finalización del curso 2025-2026, para los centros de enseñanzas no universitarias de la Comunidad Autónoma de Canarias (BOC n. 44, de 4.3.2025).
 

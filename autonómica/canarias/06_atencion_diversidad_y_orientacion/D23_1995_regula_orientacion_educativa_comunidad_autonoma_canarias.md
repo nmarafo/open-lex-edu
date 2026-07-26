@@ -40,15 +40,7 @@ fundamentos_derecho:
   - '25'
 ---
 
-
-
-
-
-
-
-
-
-
+## Preámbulo
 
 # Decreto 23/1995, de 24 de febrero, por el que se regula la orientación educativa en la Comunidad Autónoma de Canarias.
 

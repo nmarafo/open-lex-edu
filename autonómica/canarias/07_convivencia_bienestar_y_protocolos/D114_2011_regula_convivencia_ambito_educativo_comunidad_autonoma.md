@@ -65,15 +65,7 @@ fundamentos_derecho:
 fuente_pdf_oficial: https://sede.gobiernodecanarias.org/boc/boc-a-2011-108-3000.pdf
 ---
 
-
-
-
-
-
-
-
-
-
+## Preámbulo
 
 # Decreto 114/2011, de 11 de mayo, por el que se regula la convivencia en el ámbito educativo de la Comunidad Autónoma de Canarias.
 

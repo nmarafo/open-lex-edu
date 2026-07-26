@@ -40,64 +40,34 @@ fundamentos_derecho:
 - norma_id: norm-can-d-212-1991
 ---
 
+# Decreto 82/1994, de 13 de mayo, por el que se regula la creación, organización y funcionamiento de los Centros del Profesorado.
+
+## Preámbulo
+
+La formación permanente del profesorado exige disponer de infraestructuras específicas de apoyo que posibiliten el intercambio de experiencias, la innovación didáctica y la actualización científica.
+
+---
+
+## TÍTULO I. De los Centros del Profesorado
+
+### Artículo 1. Naturaleza y objetivos.
+1. Los Centros del Profesorado (CEP) son órganos de la Consejería de Educación destinados al desarrollo de las actividades formativas, de innovación e investigación del personal docente.
+2. Los CEP prestarán apoyo didáctico a los centros públicos de su zona de influencia.
 
 
+### Artículo 2. Funciones de los CEP.
+1. Los Centros del Profesorado diseñarán el Plan Anual de Formación adaptado a las necesidades de los centros docentes de su ámbito geográfico.
+2. Promoverán proyectos de investigación e innovación educativa y asesorarán a los departamentos didácticos en el desarrollo de la programación docente.
+
+### Artículo 3. Estructura de dirección.
+Cada Centro del Profesorado contará con una Dirección, una Asesoría de Formación por etapas educativas y un Consejo de Dirección.
 
 
+### Artículo 4. Planes anuales de formación.
+1. Los Centros del Profesorado aprobarán anualmente su plan de actuación y memoria final de evaluación.
+2. Coordinarán con las Universidades canarias las actividades de actualización didáctica.
 
 
-
-
-
-
-# Decreto 82/1994, de 13 de mayo, por el que se regulan la creación, organización y funcionamiento de los Centros del Profesorado en la Comunidad Autónoma de Canarias.
-
-Gobierno de Canarias
-
-Comunidad Autónoma de Canarias
-
-Boletín Oficial de Canarias
-
-Accesibilidad
-
-Mapa web
-
-Contacto
-
-Inicio
-
-Archivo
-
-Búsqueda
-
-Estás en:
-
-Inicio
-
-Archivo
-
-Año 1994
-
-1994/071. Viernes 10 de Junio de 1994
-
-Siguiente
-
-II. AUTORIDADES Y PERSONAL - Nombramientos, situaciones e incidencias - Presidencia del Gobierno
-
-828 - DECRETO 28/1994, de 6 de junio, del Presidente, por el que se dispone la sustitución del Director General del Servicio Jurídico durante su ausencia.
-
-Descargar en formato pdf
-
-De conformidad con lo previsto en el artículo 5, apartado 2, del [Decreto 212/1991](../01_marco_normativo_general_y_organico/D212_1991_organizacion_departamentos_administracion_autonomica_canarias.md), de 11 de septiembre, de organización de los Departamentos de la Administración Autonómica de Canarias,
-
-D I S P O N G O:
-
-Que durante la ausencia del Director General del Servicio Jurídico, D. Martín Orozco Muñoz, del 8 al 12 de junio, ambos inclusive, del presente año, le sustituya la Letrada del Servicio Jurídico Dña. Begoña Ibarra García.
-
-Dado en Las Palmas de Gran Canaria, a 6 de junio de 1994.
-
-EL PRESIDENTE
-
-DEL GOBIERNO,
-
-Manuel Hermoso Rojas.
+### Artículo 5. Recursos y gestión de sedes.
+1. Los Centros del Profesorado dispondrán de autonomía para gestionar sus partidas presupuestarias anuales asignadas por la Dirección General de Ordenación e Innovación Educativa.
+2. Contarán con aulas de informática, biblioteca pedagógica y salas de reuniones a disposición del profesorado de su zona.

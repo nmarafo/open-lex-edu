@@ -41,15 +41,7 @@ fundamentos_derecho:
 fuente_pdf_oficial: https://sede.gobiernodecanarias.org/boc/boc-a-2017-235-5824.pdf
 ---
 
-
-
-
-
-
-
-
-
-
+## Preámbulo
 
 # Secretaría General Técnica.- Resolución de 15 de marzo de 2016, por la que se ordena la publicación del Convenio de Colaboración entre la Consejería de Educación y Universidades y la Agencia Canaria de Calidad Universitaria y Evaluación Educativa (ACCUEE), para la incorporación de este organismo a la sede electrónica de la Consejería de Educación y Universidades, para la utilización de su registro electrónico (BOC n.º 57, de 23 de marzo).
 

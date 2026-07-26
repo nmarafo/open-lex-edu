@@ -43,6 +43,9 @@ fundamentos_derecho:
 
 # Decreto 61/2022, de 13 de julio, del Consejo de Gobierno, por el que se establece para la Comunidad de Madrid la ordenación y el currículo de la Educación Primaria (BOCM n.º 167, de 15 de julio).
 
+
+## Preámbulo
+
 ### Resolución de 13 de julio de 2022, de la Subsecretaría, por la que se convoca la provisión de puesto de trabajo por el sistema de libre designación.
 
 

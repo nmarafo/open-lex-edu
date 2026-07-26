@@ -44,15 +44,7 @@ anexos_extraidos_pdf: true
 ocr_procesado: true
 ---
 
-
-
-
-
-
-
-
-
-
+## Preámbulo
 
 # Resolución de 20 de enero de 2017, de la Dirección General de Ordenación, Innovación y Promoción Educativa, por la que se delega en la Directora de la Agencia Canaria de Calidad Universitaria y Evaluación Educativa determinadas competencias en materia de innovación y promoción educativa (BOC n.º 20, de 30 de enero).
 

@@ -41,15 +41,7 @@ fundamentos_derecho:
 fuente_pdf_oficial: https://sede.gobiernodecanarias.org/boc/boc-a-2020-130-2054.pdf
 ---
 
-
-
-
-
-
-
-
-
-
+## Preámbulo
 
 # Resolución de 11 de junio de 2020, por la que se dictan instrucciones para la organización y el funcionamiento del Curso Específico de Acceso a Ciclos Formativos de Formación Profesional de Grado Medio a impartir en centros de educación de personas adultas dependientes de esta Consejería (BOC n.º 130, de 30 de junio).
 

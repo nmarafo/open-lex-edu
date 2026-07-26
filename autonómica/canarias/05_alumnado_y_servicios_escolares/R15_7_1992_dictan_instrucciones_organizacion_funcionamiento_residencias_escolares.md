@@ -38,15 +38,7 @@ fundamentos_derecho:
   - '1'
 ---
 
-
-
-
-
-
-
-
-
-
+## Preámbulo
 
 # Resolución de 15 de julio de 1992, de la Dirección General de Promoción Educativa, por la que se dictan instrucciones para la organización y funcionamiento de las Residencias Escolares.
 

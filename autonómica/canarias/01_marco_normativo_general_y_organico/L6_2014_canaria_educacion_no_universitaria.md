@@ -210,15 +210,7 @@ anexos_extraidos_pdf: true
 ocr_procesado: true
 ---
 
-
-
-
-
-
-
-
-
-
+## Preámbulo
 
 # Ley 6/2014, de 25 de julio, Canaria de Educación no Universitaria.
 

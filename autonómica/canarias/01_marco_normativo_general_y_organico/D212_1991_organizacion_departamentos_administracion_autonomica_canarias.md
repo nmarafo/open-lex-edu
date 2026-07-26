@@ -66,15 +66,7 @@ fundamentos_derecho:
 - norma_id: norm-can-l-1-1983
 ---
 
-
-
-
-
-
-
-
-
-
+## Preámbulo
 
 # Decreto 212/1991, de 11 de septiembre, de organización de los Departamentos de la Administración Autonómica de Canarias (BOC n.º 122, de 16 de septiembre).
 

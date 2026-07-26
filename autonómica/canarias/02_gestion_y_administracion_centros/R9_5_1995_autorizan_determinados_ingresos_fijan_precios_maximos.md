@@ -37,15 +37,7 @@ fuente_pdf_oficial: http://www.gobiernodecanarias.org/boc/1995/067/boc-1995-067-
 fuente_juriscan: http://www.gobcan.es/juriscan/ficha.jsp?id=22458
 ---
 
-
-
-
-
-
-
-
-
-
+## Preámbulo
 
 # Resolución de 9 de mayo de 1995, de la Dirección General de Centros, por la que se autorizan determinados ingresos, se fijan precios máximos con carácter general y otros precios que puedan fijar los Centros docentes públicos no universitarios de la Comunidad Autónoma de Canarias (BOC n.º 67, de 29 de mayo).
 

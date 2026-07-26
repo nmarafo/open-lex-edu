@@ -30,15 +30,7 @@ fundamentos_derecho:
   - '1'
 ---
 
-
-
-
-
-
-
-
-
-
+## Preámbulo
 
 # Resolución de 21 de junio de 1994, de la Dirección General de Trabajo, por la que se hace público Acuerdo de la Comisión Negociadora del Convenio Colectivo del Personal Laboral de la Comunidad Autónoma de Canarias (BOC n.º 83, de 8 de julio).
 

@@ -41,15 +41,7 @@ fundamentos_derecho:
 anexos_extraidos_pdf: true
 ---
 
-
-
-
-
-
-
-
-
-
+## Preámbulo
 
 # - Resolución de la Dirección General de Formación Profesional y Educación de Adultos,de 27 de julio de 2004, por la que se hacen públicas las instrucciones dictadas sobre la organización y funcionamiento de los Conservatorios y Centros Autorizados elementales y profesionales de música, en la Comunidad Autónoma de Canarias
 

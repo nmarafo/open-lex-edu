@@ -70,15 +70,7 @@ ocr_procesado: true
 motor_ocr: rapidocr_onnxruntime
 ---
 
-
-
-
-
-
-
-
-
-
+## Preámbulo
 
 # Ley Orgánica 1/2018, de 5 de noviembre, de reforma del Estatuto de Autonomía de Canarias.
 
