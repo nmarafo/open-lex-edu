@@ -11,7 +11,7 @@ fecha_publicacion: "2023-02-02"
 boletin: BOCM
 numero_boletin: "28"
 estado: Vigente
-redaccion: consolidada
+redaccion: original
 fuente_oficial: "https://www.bocm.es/boletin/CM_Orden_BOCM/2023/02/02/BOCM-20230202-1.PDF"
 fuente_pdf_oficial: "https://www.bocm.es/boletin/CM_Orden_BOCM/2023/02/02/BOCM-20230202-1.PDF"
 clasificacion:
@@ -33,27 +33,77 @@ relaciones:
 
 ## Preámbulo
 
-Esta disposición de la Comunidad de Madrid regula materias fundamentales para el desarrollo del sistema educativo no universitario en el ámbito territorial madrileño. Se aprueba de acuerdo con las competencias autonómicas de desarrollo legislativo conferidas por el artículo 29 del Estatuto de Autonomía de la Comunidad de Madrid y en cumplimiento del marco básico legal establecido por la Ley Orgánica 2/2006 (LOE) y la Ley Orgánica 3/2020 (LOMLOE).
 
-## Artículo 1. Objeto y ámbito de aplicación
+JUEVES 2 DE FEBRERO DE 2023Pág. 14 B.O.C.M. Núm. 28
+BOLETÍN OFICIAL DE LA COMUNIDAD DE MADRIDBOCM
+I. COMUNIDAD DE MADRID
+B) Autoridades y Personal
+Vicepresidencia, Consejería de Educación y Universidades
+1 RESOLUCIÓN de 26 de enero de 2023, del Director General de Recursos
+Humanos, por la que se modifica la Resolución de 1 de junio de 2021, por la que
+se publica la relación definitiva de aspirantes que han superado el procedimien-
+to de acceso a los Cuerpos de Catedráticos de Enseñanza Secundaria y de Es-
+cuelas Oficiales de Idiomas, convocado por Resolución de 13 de mayo de 2019.
+ANTECEDENTES DE HECHO
+Primero
+Por Resolución de 13 de mayo de 2019, de la Dirección General de Recursos Huma-
+nos, se convoca procedimiento de acceso a los Cuerpos de Catedráticos de Enseñanza Se-
+cundaria y de Escuelas Oficiales de Idiomas (B
+OLETÍN OFICIAL DE LA COMUNIDAD DE
+MADRID número 119, de 21 de mayo de 2019).
+Segundo
+Por Resolución de 6 de mayo de 2021, de la Dirección General de Recursos Humanos
+de la Consejería de Educación y Juventud, se anuncian las fechas de exposición de las lis-
+tas definitivas con la valoración de méritos y la lista de aspirantes seleccionados en el
+procedimiento de acceso a los Cuerpos de Catedráticos de Enseñanza Secundaria y de
+Escuelas Oficiales de Idiomas, convocado por Resolución de 13 de mayo de 2019.
+Tercero
+Por Resolución de 1 de junio de 2021, de la Dirección General de Recursos Humanos de
+la Consejería de Educación y Juventud, se publica la relación definitiva de aspirantes que han
+superado el procedimiento de acceso a los Cuerpos de Catedráticos de Enseñanza Secundaria
+y de Escuelas Oficiales de Idiomas, convocado por Resolución de 13 de mayo de 2019 (B
+O-
+LETÍN OFICIAL DE LA COMUNIDAD DE MADRID número 136, de 9 de junio de 2021).
+Cuarto
+Por sentencia firme número 336/2021, de fecha 20 de septiembre, dictada por el Juz-
+gado de lo Contencioso-Administrativo número 33 de Madrid, en el Procedimiento Abre-
+viado 292/2021 (Demandante: Doña Cristina Pascual Sobrado), se estima en parte el recur-
+so contencioso-administrativo interpuesto por doña Cristina Pascual Sobrado contra la
+Resolución de 3 de junio de 2021, de la Dirección General de Recursos Humanos de la Con-
+sejería de Educación y Juventud, que resuelve el recurso de alzada interpuesto por Doña
+Cristina Pascual Sobrado contra la Resolución de 6 de mayo de 2021, por la que se anuncian
+las listas definitivas de valoración de méritos y la lista de aspirantes seleccionados en el pro-
+cedimiento de acceso a los Cuerpos de Catedráticos de Enseñanza Secundaria y de Escuelas
+Oficiales de Idiomas, convocado por resolución de 13 de mayo de 2019, reconociendo el de-
+recho de la recurrente «a la puntuación de 0,1000 correspondiente a la valoración del libro
+“Oposiciones al Cuerpo de Maestros de Educación Infantil” como autora junto con más de
+tres personas, que se habrá de sumar a los 9,30 asignados en vía administrativa, otorgando
+una puntuación final de 9,40 puntos».
+Quinto
+Por Resolución del Director General de Recursos Humanos de Vicepresidencia,
+Consejería de Educación y Universidades, de 19 de diciembre de 2022, se ordena el
+cumplimiento del fallo de sentencia firme número 336/2021 (PA 292/2021), modifican-
+do la puntuación de doña Cristina Pascual Sobrado. Como consecuencia de esta nueva
 
-1. La presente norma tiene por objeto establecer la regulación autonómica referente a norma autonómica para la incorporación y desarrollo de los programas de diversificación curricular en 3º y 4º de eso.
-2. Será de aplicación directa en todos los centros docentes y educativos no universitarios sostenidos con fondos públicos de la Comunidad de Madrid.
-
-## Artículo 2. Principios organizativos y pedagógicos
-
-1. La gestión, ordenación y desarrollo del objeto regulado en esta disposición responderá a los principios de equidad, inclusión, excelencia académica y libertad de elección.
-2. Los órganos directivos y los equipos docentes adaptarán los instrumentos de planificación escolar (Proyecto Educativo, Programación General Anual) conforme a las prescripciones directas de la presente disposición autonómica.
-
-## Artículo 3. Evaluación, seguimiento e inspección educativa
-
-1. La Consejería competente en materia de educación, a través de la Inspección Educativa, supervisará el estricto cumplimiento de lo establecido en la presente disposición.
-2. Los centros educativos facilitarán a las comisiones de evaluación y a la administración autonómica cuanta información sea requerida para verificar la calidad e idoneidad de la implantación regulatoria.
-
-## Disposición Adicional Primera. Desarrollo normativo e instrucciones de aplicación
-
-Se faculta a los titulares de las Viceconsejerías y Direcciones Generales competentes por razón de la materia para dictar cuantas resoluciones e instrucciones sean necesarias para la ejecución y desarrollo de lo dispuesto en este texto regulador.
-
-## Disposición Final Única. Entrada en vigor
-
-La presente norma entra en vigor el día siguiente al de su publicación oficial en el Boletín Oficial de la Comunidad de Madrid (BOCM).
+JUEVES 2 DE FEBRERO DE 2023B.O.C.M. Núm. 28 Pág. 15
+http://www.bocm.es BOLETÍN OFICIAL DE LA COMUNIDAD DE MADRID D. L.: M. 19.462-1983      ISSN 1989-4791
+BOLETÍN OFICIAL DE LA COMUNIDAD DE MADRIDBOCM
+puntuación, doña Cristina Pascual Sobrado resultaría seleccionada, accediendo al Cuer-
+po de Catedráticos de Enseñanza Secundaria.
+Por cuanto antecede, esta Dirección General
+RESUELVE
+Primero
+Inclusión en las listas definitivas de seleccionados
+Incluir en la lista de seleccionados de la especialidad 108-Intervención Sociocomunita-
+ria del Cuerpo 511-Catedráticos de Enseñanza Secundaria, a doña Cristina Pascual Sobrado,
+DNI *****6811, con una puntuación de 9,4000, y con el número de orden 2 bis.
+Segundo
+Nombramiento como funcionario de carrera en el Cuerpo de Catedráticos
+de Enseñanza Secundaria
+Esta Dirección General propondrá al Ministerio de Educación y Formación Profesional
+el nombramiento como funcionaria de carrera de doña Cristina Pascual Sobrado, en el Cuer-
+po de Catedráticos de Enseñanza Secundaria, especialidad Intervención Sociocomunitaria,
+con efectos económicos y administrativos de 1 de septiembre de 2021.
+En Madrid, a 26 de enero de 2023.—El Director General de Recursos Humanos,
+Miguel José Zurita Becerril.
+(03/1.361/23)

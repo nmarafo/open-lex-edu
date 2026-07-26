@@ -11,7 +11,7 @@ fecha_publicacion: "2025-08-20"
 boletin: BOCM
 numero_boletin: "197"
 estado: Vigente
-redaccion: consolidada
+redaccion: original
 fuente_oficial: "https://www.bocm.es/boletin/CM_Orden_BOCM/2025/08/20/BOCM-20250820-1.PDF"
 fuente_pdf_oficial: "https://www.bocm.es/boletin/CM_Orden_BOCM/2025/08/20/BOCM-20250820-1.PDF"
 clasificacion:
@@ -33,27 +33,49 @@ relaciones:
 
 ## Preámbulo
 
-Esta disposición de la Comunidad de Madrid regula materias fundamentales para el desarrollo del sistema educativo no universitario en el ámbito territorial madrileño. Se aprueba de acuerdo con las competencias autonómicas de desarrollo legislativo conferidas por el artículo 29 del Estatuto de Autonomía de la Comunidad de Madrid y en cumplimiento del marco básico legal establecido por la Ley Orgánica 2/2006 (LOE) y la Ley Orgánica 3/2020 (LOMLOE).
 
-## Artículo 1. Objeto y ámbito de aplicación
-
-1. La presente norma tiene por objeto establecer la regulación autonómica referente a aprueba el catálogo autonómico de módulos profesionales optativos adaptados al tejido industrial madrileño.
-2. Será de aplicación directa en todos los centros docentes y educativos no universitarios sostenidos con fondos públicos de la Comunidad de Madrid.
-
-## Artículo 2. Principios organizativos y pedagógicos
-
-1. La gestión, ordenación y desarrollo del objeto regulado en esta disposición responderá a los principios de equidad, inclusión, excelencia académica y libertad de elección.
-2. Los órganos directivos y los equipos docentes adaptarán los instrumentos de planificación escolar (Proyecto Educativo, Programación General Anual) conforme a las prescripciones directas de la presente disposición autonómica.
-
-## Artículo 3. Evaluación, seguimiento e inspección educativa
-
-1. La Consejería competente en materia de educación, a través de la Inspección Educativa, supervisará el estricto cumplimiento de lo establecido en la presente disposición.
-2. Los centros educativos facilitarán a las comisiones de evaluación y a la administración autonómica cuanta información sea requerida para verificar la calidad e idoneidad de la implantación regulatoria.
-
-## Disposición Adicional Primera. Desarrollo normativo e instrucciones de aplicación
-
-Se faculta a los titulares de las Viceconsejerías y Direcciones Generales competentes por razón de la materia para dictar cuantas resoluciones e instrucciones sean necesarias para la ejecución y desarrollo de lo dispuesto en este texto regulador.
-
-## Disposición Final Única. Entrada en vigor
-
-La presente norma entra en vigor el día siguiente al de su publicación oficial en el Boletín Oficial de la Comunidad de Madrid (BOCM).
+MIÉRCOLES 20 DE AGOSTO DE 2025Pág. 8 B.O.C.M. Núm. 198
+http://www.bocm.es BOLETÍN OFICIAL DE LA COMUNIDAD DE MADRID D. L.: M. 19.462-1983      ISSN 1989-4791
+BOLETÍN OFICIAL DE LA COMUNIDAD DE MADRIDBOCM
+I. COMUNIDAD DE MADRID
+B) Autoridades y Personal
+Consejería de Economía, Hacienda y Empleo
+1 ORDEN de 1 de agosto de 2025, de la Consejera de Economía, Hacienda y Em-
+pleo, por la que se nombra a don Alberto Molina Navarro y a doña María Cris-
+tina Benito Grande vocales de la Junta Superior de Hacienda.
+La Junta Superior de Hacienda es el órgano económico-administrativo de la Comuni-
+dad de Madrid, teniendo encomendado el conocimiento y resolución de los recursos y re-
+clamaciones que se susciten en la vía económico-administrativa.
+Existiendo en la actualidad vocalías vacantes en dicho órgano, resulta necesario pro-
+ceder a su cobertura.
+En su virtud, y de conformidad con lo dispuesto en el artículo 54.7 de la Ley 1/1983,
+de 13 de diciembre, de Gobierno y Administración de la Comunidad de Madrid, así como
+en el artículo 9.3 del Decreto 215/2023, de 26 de julio, del Consejo de Gobierno, por el que
+se aprueba el reglamento de régimen jurídico y organizativo de las reclamaciones económi-
+co-administrativas que se susciten en el ámbito de la gestión económico-financiera de la
+Comunidad de Madrid,
+DISPONGO
+Primero
+Nombrar a don Alberto Molina Navarro, funcionario en activo al servicio de la Comu-
+nidad de Madrid, vocal de la Junta Superior de Hacienda.
+Segundo
+Nombrar a doña María Cristina Benito Grande, funcionaria en activo al servicio de la
+Comunidad de Madrid, vocal de la Junta Superior de Hacienda.
+Tercero
+La presente Orden tendrá efectos desde el día de su publicación en el B
+OLETÍN OFI-
+CIAL DE LA COMUNIDAD DE MADRID.
+El presente acto pone fin a la vía administrativa y contra el mismo podrá interponerse, con
+carácter potestativo, recurso de reposición en el plazo de un mes ante el mismo órgano que la
+ha dictado, o bien recurso contencioso-administrativo, en el plazo de dos meses, ante los Juz-
+gados de lo Contencioso-Administrativo de Madrid, ambos plazos contados a partir del día si-
+guiente a su publicación en el B
+OLETÍN OFICIAL DE LA COMUNIDAD DE MADRID, sin perjui-
+cio de cualquier otro recurso que se estime procedente en derecho, todo ello, de conformidad
+con lo dispuesto en los artículos 123 y 124 de la Ley 39/2015, de 1 de octubre, del Procedimien-
+to Administrativo Común de las Administraciones Públicas y 8.2.a) y 46 de la Ley 29/1998,
+de 13 de julio, reguladora de la Jurisdicción Contencioso-Administrativa.
+Madrid, a 1 de agosto de 2025.
+La Consejera de Economía, Hacienda y Empleo,
+ROCÍO ALBERT LÓPEZ-IBOR
+(03/13.034/25)

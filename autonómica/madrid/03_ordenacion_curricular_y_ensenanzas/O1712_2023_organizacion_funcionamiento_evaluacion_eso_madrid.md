@@ -11,7 +11,7 @@ fecha_publicacion: "2023-05-26"
 boletin: BOCM
 numero_boletin: "124"
 estado: Vigente
-redaccion: consolidada
+redaccion: original
 fuente_oficial: "https://www.bocm.es/boletin/CM_Orden_BOCM/2023/05/26/BOCM-20230526-1.PDF"
 fuente_pdf_oficial: "https://www.bocm.es/boletin/CM_Orden_BOCM/2023/05/26/BOCM-20230526-1.PDF"
 clasificacion:
@@ -33,27 +33,77 @@ relaciones:
 
 ## Preámbulo
 
-Esta disposición de la Comunidad de Madrid regula materias fundamentales para el desarrollo del sistema educativo no universitario en el ámbito territorial madrileño. Se aprueba de acuerdo con las competencias autonómicas de desarrollo legislativo conferidas por el artículo 29 del Estatuto de Autonomía de la Comunidad de Madrid y en cumplimiento del marco básico legal establecido por la Ley Orgánica 2/2006 (LOE) y la Ley Orgánica 3/2020 (LOMLOE).
 
-## Artículo 1. Objeto y ámbito de aplicación
+VIERNES 26 DE MAYO DE 2023B.O.C.M. Núm. 124 Pág. 11
+BOLETÍN OFICIAL DE LA COMUNIDAD DE MADRIDBOCM
+I. COMUNIDAD DE MADRID
+B) Autoridades y Personal
+Vicepresidencia, Consejería de Educación y Universidades
+1 RESOLUCIÓN de 19 de mayo de 2023, de la Dirección General de Recursos Hu-
+manos, por la que se publican las listas definitivas de admitidos y excluidos en
+los procedimientos selectivos de ingreso y accesos a los Cuerpos de Profesores
+de Enseñanza Secundaria, Profesores de Escuelas Oficiales de Idiomas, Profe-
+sores de Música y Artes Escénicas, Profesores de Artes Plásticas y Diseño,
+Maestros de Taller de Artes Plásticas y Diseño y procedimiento para la adquisi-
+ción de nuevas especialidades por los funcionarios de los citados cuerpos con-
+vocados por Resolución de 2 de febrero de 2022.
+La Resolución de 2 de febrero de 2022, por la que se convocan los procedimientos se-
+lectivos a los Cuerpos de Profesores de Enseñanza Secundaria, Profesores de Escuelas
+Oficiales de Idiomas, Profesores de Música y Artes Escénicas, Profesores de Artes Plásti-
+cas y Diseño, Maestros de Taller de Artes Plásticas y Diseño y procedimiento para la ad-
+quisición de nuevas especialidades por los funcionarios de los citados cuerpos, dispone en
+su base 5.2 que examinadas y resueltas las subsanaciones presentadas a las listas provisio-
+nales de admitidos y excluidos, la Dirección General de Recursos Humanos de la Vicepre-
+sidencia, Consejería de Educación y Universidades, dictará resolución publicando las listas
+definitivas de admitidos y excluidos, entendiendo desestimadas las subsanaciones o alega-
+ciones no recogidas en las mismas.
+De conformidad con lo anterior, habiendo finalizado el plazo para la subsanación, y re-
+sueltas las mismas, procede dictar resolución publicando las listas definitivas de admitidos
+y excluidos.
+A la vista de lo expuesto, en virtud de las atribuciones conferidas en el Decre-
+to 38/2022, de 15 de junio, del Consejo de Gobierno, por el que se crea la Vicepresidencia,
+Consejería de Educación y Universidades, en relación con el artículo 19 del Decre-
+to 236/2021, de 17 de noviembre, del Consejo de Gobierno, por el que se establece la es-
+tructura orgánica de la Consejería de Educación, Universidades, Ciencia y Portavocía, esta
+Dirección General
+RESUELVE
+Primero
+Listas definitivas de admitidos y excluidos
+De conformidad con lo dispuesto en la base 5.2.de la Resolución de convocatoria de 2 de
+febrero de 2022, se publican las listas definitivas de aspirantes admitidos y excluidos, con in-
+dicación de las causas que han motivado su exclusión.
+El hecho de figurar en las listas definitivas de admitidos no prejuzga que se reconoz-
+ca a los interesados la posesión de los requisitos exigidos en los procedimientos selectivos.
+Asimismo, los interesados decaerán en todos los derechos que pudieran derivarse de su par-
+ticipación en estos procedimientos selectivos, cuando de la documentación presentada con-
+forme a la base tercera de la Resolución de convocatoria (Requisitos que deben reunir los
+candidatos) se desprenda que no se posee alguno de los requisitos.
+Segundo
+Fecha y lugares de exposición
+Las citadas listas se publicarán, a partir del día 26 de mayo de 2023, en el portal de la
+Comunidad de Madrid, en
+https://sede.comunidad.madrid/oferta-empleo/oposiciones-ensenanza-
+secundaria . También se podrá acceder, con carácter meramente informativo y sin efectos ad-
+ministrativos, a través del portal “personal+educación” ( comunidad.madrid/servicios/personal-
+educacion ), siguiendo la secuencia: “Funcionarios Docentes”, “Procesos selectivos”,
+“Profesores”, “Enseñanza Secundaria, FP y RE”.
 
-1. La presente norma tiene por objeto establecer la regulación autonómica referente a desarrolla las normas relativas a la evaluación continua, promoción y titulación en la eso en centros docentes madrileños.
-2. Será de aplicación directa en todos los centros docentes y educativos no universitarios sostenidos con fondos públicos de la Comunidad de Madrid.
-
-## Artículo 2. Principios organizativos y pedagógicos
-
-1. La gestión, ordenación y desarrollo del objeto regulado en esta disposición responderá a los principios de equidad, inclusión, excelencia académica y libertad de elección.
-2. Los órganos directivos y los equipos docentes adaptarán los instrumentos de planificación escolar (Proyecto Educativo, Programación General Anual) conforme a las prescripciones directas de la presente disposición autonómica.
-
-## Artículo 3. Evaluación, seguimiento e inspección educativa
-
-1. La Consejería competente en materia de educación, a través de la Inspección Educativa, supervisará el estricto cumplimiento de lo establecido en la presente disposición.
-2. Los centros educativos facilitarán a las comisiones de evaluación y a la administración autonómica cuanta información sea requerida para verificar la calidad e idoneidad de la implantación regulatoria.
-
-## Disposición Adicional Primera. Desarrollo normativo e instrucciones de aplicación
-
-Se faculta a los titulares de las Viceconsejerías y Direcciones Generales competentes por razón de la materia para dictar cuantas resoluciones e instrucciones sean necesarias para la ejecución y desarrollo de lo dispuesto en este texto regulador.
-
-## Disposición Final Única. Entrada en vigor
-
-La presente norma entra en vigor el día siguiente al de su publicación oficial en el Boletín Oficial de la Comunidad de Madrid (BOCM).
+VIERNES 26 DE MAYO DE 2023Pág. 12 B.O.C.M. Núm. 124
+http://www.bocm.es BOLETÍN OFICIAL DE LA COMUNIDAD DE MADRID D. L.: M. 19.462-1983      ISSN 1989-4791
+BOLETÍN OFICIAL DE LA COMUNIDAD DE MADRIDBOCM
+Tercero
+Notificación
+Con esta publicación se considerará efectuada la correspondiente notificación a los in-
+teresados, de conformidad con lo dispuesto en el artículo 5.2 de la resolución de convoca-
+toria en relación con el artículo 45 de la Ley 39/2015, de 1 de octubre, de Procedimiento
+Administrativo Común de las Administraciones Públicas.
+Cuarto
+Recursos
+Contra esta Resolución, que no pone fin a la vía administrativa, podrá interponerse re-
+curso de alzada ante la Viceconsejería de Organización Educativa en el plazo de un mes
+contado a partir del día siguiente al de su publicación, todo ello de conformidad con lo dis-
+puesto en los artículos 115, 121 y 122 de la Ley 39/2015, de 1 de octubre, de Procedimien-
+to Administrativo Común de las Administraciones Públicas.
+Madrid, a 19 de mayo de 2023.—El Director General de Recursos Humanos, Miguel
+José Zurita Becerril.
+(03/8.659/23)
