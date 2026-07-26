@@ -19,7 +19,7 @@
   "properties": {
     "id": {
       "type": "string",
-      "pattern": "^norm-(es|can|mad)-[a-z0-9-]+$"
+      "pattern": "^norm-(es|can|mad|and)-[a-z0-9-]+$"
     },
     "codigo_sintetizado": {
       "type": "string"
@@ -29,7 +29,7 @@
     },
     "jurisdiccion": {
       "type": "string",
-      "enum": ["España", "Canarias", "Madrid"]
+      "enum": ["España", "Canarias", "Madrid", "Andalucía"]
     },
     "ambito": {
       "type": "string",
@@ -52,7 +52,7 @@
     },
     "boletin": {
       "type": "string",
-      "enum": ["BOE", "BOC", "BOCM", "DOUE"]
+      "enum": ["BOE", "BOC", "BOCM", "BOJA", "DOUE"]
     },
     "numero_boletin": {
       "type": "string"
@@ -67,7 +67,7 @@
     },
     "fuente_oficial": {
       "type": "string",
-      "pattern": "^https?://.*(boe\\.es|gobiernodecanarias\\.org|sede\\.gobiernodecanarias\\.org|gobcan\\.es|eur-lex\\.europa\\.eu|juriscan|bocm\\.es|madrid\\.org).*"
+      "pattern": "^https?://.*(boe\\.es|gobiernodecanarias\\.org|sede\\.gobiernodecanarias\\.org|gobcan\\.es|eur-lex\\.europa\\.eu|juriscan|bocm\\.es|madrid\\.org|juntadeandalucia\\.es).*"
     },
     "fuente_juriscan": {
       "type": "string"
