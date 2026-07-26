@@ -18,9 +18,11 @@ clasificacion:
   categoria_canonica: 03_ordenacion_curricular_y_ensenanzas
   subcategoria: Educación Infantil
 tags:
-- admision-alumnado
+- areas-de-aprendizaje
+- autonomia-centro
 - curriculo
 - educacion-infantil
+- fp-basica
 - ordenacion-academica
 - primer-ciclo
 - segundo-ciclo
@@ -33,27 +35,49 @@ fundamentos_derecho:
 ---
 
 
-
-
-
-
-
 # Decreto 64/2022, de 20 de julio, del Consejo de Gobierno, por el que se establece para la Comunidad de Madrid la ordenación y el currículo de la Educación Infantil.
 
-## Preámbulo
-La Ley Orgánica 2/2006, de 3 de mayo, de Educación, concibe la Educación Infantil como una etapa educativa única con identidad propia que atiende a niños desde el nacimiento hasta los seis años de edad. El presente Decreto establece la ordenación general y los elementos curriculares obligatorios para los centros educativos de la Comunidad de Madrid que impartan estas enseñanzas.
+## PREÁMBULO
 
-## Artículo 1. Objeto y ámbito de aplicación.
+La Ley Orgánica 2/2006, de 3 de mayo, de Educación, concibe la Educación Infantil como una etapa educativa única con identidad propia que atiende a las niñas y niños desde el nacimiento hasta los seis años de edad.
+
+El Real Decreto 95/2022, de 1 de febrero, por el que se establece la ordenación y las enseñanzas mínimas de la Educación Infantil, fija la estructura básica de la etapa. En el marco autonómico, el presente Decreto establece el currículo oficial aplicable en la Comunidad de Madrid.
+
+---
+
+## CAPÍTULO I. Disposiciones Generales
+
+### Artículo 1. Objeto y ámbito de aplicación.
 1. El presente Decreto tiene por objeto establecer la ordenación y el currículo de la Educación Infantil en la Comunidad de Madrid.
-2. Esta norma es de aplicación en todos los centros docentes públicos y privados autorizados que impartan el primer o el segundo ciclo de la Educación Infantil en el ámbito territorial madrileño.
+2. Esta norma es de aplicación en todos los centros docentes públicos y privados autorizados que impartan el primer o el segundo ciclo de la Educación Infantil en el territorio madrileño.
 
-## Artículo 2. Principios generales y carácter educativo.
-1. La Educación Infantil se estructura en dos ciclos: el primero comprende desde los cero hasta los tres años, y el segundo, desde los tres hasta los seis años de edad.
-2. El segundo ciclo de la Educación Infantil será gratuito y se garantizará la existencia de plazas suficientes para atender la demanda de las familias.
-3. Las Administraciones públicas colaborarán para promover la oferta progresiva de plazas públicas en el primer ciclo de Educación Infantil.
+### Artículo 2. Principios generales y fines de la etapa.
+1. La Educación Infantil se estructura en dos ciclos pedagógicos:
+a) Primer ciclo: comprende desde el nacimiento hasta los tres años de edad.
+b) Segundo ciclo: comprende desde los tres hasta los seis años de edad.
+2. La finalidad de la Educación Infantil es contribuir al desarrollo físico, afectivo, social, cognitivo y artístico del alumnado, así como al desarrollo de su autonomía personal.
+3. El segundo ciclo de la Educación Infantil será gratuito en los centros sostenidos con fondos públicos.
 
-## Artículo 3. Áreas del currículo.
-Las actividades educativas en ambos ciclos se organizarán en áreas correspondientes a ámbitos propios de la experiencia y del desarrollo infantil:
+---
+
+## CAPÍTULO II. Áreas y Organización Curricular
+
+### Artículo 3. Áreas de la Educación Infantil.
+Las actividades educativas en ambos ciclos se organizarán en torno a las siguientes áreas del currículo:
 a) Crecimiento en Armonía.
 b) Descubrimiento y Exploración del Entorno.
 c) Comunicación y Representación de la Realidad.
+
+### Artículo 4. Autonomía de los centros y propuesta pedagógica.
+Los centros educativos desarrollarán y completarán el currículo adaptándolo a las características de su alumnado mediante la elaboración de su propuesta pedagógica.
+
+---
+
+## CAPÍTULO III. Evaluación y Coordinación
+
+### Artículo 5. Evaluación de los aprendizajes.
+1. La evaluación en la Educación Infantil será continua, global y formativa, basada en la observación directa y sistemática de los niños.
+2. Las valoraciones se expresarán en términos cualitativos reflejando los avances del desarrollo del alumnado.
+
+### Disposición Final Única. Entrada en vigor.
+La presente norma entrará en vigor el día siguiente al de su publicación oficial en el Boletín Oficial de la Comunidad de Madrid.

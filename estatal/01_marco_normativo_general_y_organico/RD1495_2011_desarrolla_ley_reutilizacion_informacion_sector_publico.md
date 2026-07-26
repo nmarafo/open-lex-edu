@@ -48,6 +48,7 @@ fundamentos_derecho:
 
 
 
+
 # Real Decreto 1495/2011, de 24 de octubre, por el que se desarrolla la [Ley 37/2007](L37_2007_reutilizacion_informacion_sector_publico.md), de 16 de noviembre, sobre reutilización de la información del sector público, para el ámbito del sector público estatal.
 
 La [Ley 37/2007](./L37_2007_reutilizacion_informacion_sector_publico.md), de 16 de noviembre, sobre reutilización de la información del sector público, por medio de la cual se incorpora a nuestro ordenamiento jurídico la Directiva 2003/98/CE, de 17 de noviembre de 2003, del Parlamento Europeo y del Consejo, relativa a la reutilización de la información del sector público, establece el régimen jurídico general para la reutilización de dicha información.

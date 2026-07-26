@@ -24,7 +24,7 @@ tags:
 - educacion-primaria
 - eso
 - gratuidad
-- proteccion-menores
+- igualdad-genero
 - rutas-escolares
 - servicios-complementarios
 - transporte-escolar
@@ -36,21 +36,35 @@ fundamentos_derecho:
 ---
 
 
-
-
 # Orden 2882/2023, de 8 de septiembre, de la Consejería de Educación, Ciencia y Universidades, por la que se regula la prestación del servicio de transporte escolar en la Comunidad de Madrid.
 
-## Preámbulo
-El transporte escolar es un servicio complementario fundamental para garantizar la efectividad del derecho a la educación en condiciones de equidad, facilitando el acceso a los centros públicos docentes al alumnado que deba desplazarse fuera de su localidad de residencia.
+## PREÁMBULO
 
-## Artículo 1. Objeto.
-Esta Orden tiene por objeto regular los requisitos, condiciones de gratuidad y procedimiento de organización del servicio complementario de transporte escolar en los centros docentes públicos no universitarios de la Comunidad de Madrid.
+El servicio complementario de transporte escolar constituye un instrumento imprescindible para garantizar el acceso al sistema educativo en condiciones de equidad e igualdad de oportunidades al alumnado que se encuentra desplazado de su municipio o entorno de residencia.
 
-## Artículo 2. Beneficiarios del servicio gratuito.
-Tendrán derecho al uso gratuito del servicio de transporte escolar:
-a) El alumnado escolarizado en centros públicos de Educación Infantil, Primaria y Secundaria Obligatoria asignado a un centro fuera de su municipio por falta de oferta en el de su residencia.
-b) El alumnado escolarizado en Centros de Educación Especial.
-c) El alumnado con graves dificultades de acceso derivadas de barreras geográficas.
+---
 
-## Artículo 3. Seguridad y acompañantes.
-Todas las rutas de transporte escolar contarán con la presencia obligatoria de un acompañante encargado del cuidado y vigilancia de los menores durante el trayecto.
+## CAPÍTULO I. Objeto y Condiciones de Gratuidad
+
+### Artículo 1. Objeto.
+La presente Orden regula los requisitos, condiciones de gratuidad y el procedimiento de gestión de las rutas de transporte escolar en los centros docentes públicos de la Comunidad de Madrid.
+
+### Artículo 2. Beneficiarios con derecho a gratuidad.
+1. Tendrán derecho a la prestación gratuita del servicio de transporte escolar:
+a) El alumnado escolarizado en centros públicos de Educación Infantil, Primaria o Educación Secundaria Obligatoria asignado a un centro ubicado en distinto municipio por falta de oferta en el de su residencia.
+b) El alumnado escolarizado en Centros de Educación Especial o en aulas especializadas de integración.
+c) El alumnado residente en zonas rurales o núcleos aislados que no dispongan de centro educativo dentro de una distancia mínima reglamentaria.
+
+---
+
+## CAPÍTULO II. Organización de Rutas y Acompañantes
+
+### Artículo 3. Autorización de rutas.
+Las rutas de transporte escolar serán autorizadas anualmente por las Direcciones de Área Territorial atendiendo a las solicitudes formuladas por los centros públicos.
+
+### Artículo 4. Presencia de acompañantes.
+1. En todos los vehículos escolares que transporten alumnado de Educación Infantil, Primaria o Educación Especial será obligatoria la presencia de un acompañante idóneo.
+2. El acompañante velará por la seguridad, subida, descenso y adecuado comportamiento de los alumnos durante todo el trayecto.
+
+### Disposición Final Única. Entrada en vigor.
+La presente Orden entrará en vigor el día siguiente al de su publicación en el Boletín Oficial de la Comunidad de Madrid.

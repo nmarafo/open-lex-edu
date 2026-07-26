@@ -42,6 +42,7 @@ fundamentos_derecho:
 
 
 
+
 # Decreto 40/2005, de 16 de marzo, de ordenación de las Residencias Escolares en la Comunidad Autónoma de Canarias.
 
 Gobierno de Canarias

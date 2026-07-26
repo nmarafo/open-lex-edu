@@ -59,6 +59,7 @@ fundamentos_derecho:
 
 
 
+
 # Orden de 14 de marzo de 1988 para la aplicación de lo dispuesto en el [Real Decreto 104/1988](RD104_1988_homologacion_convalidacion_titulos_estudios_extranjeros_educacion.md), de 29 de enero, sobre homologación y convalidación de títulos y estudios extranjeros de educación no universitaria.
 
 En su virtud y en uso de la autorización conferida por la disposición final primera del [Real Decreto 104/1988](./RD104_1988_homologacion_convalidacion_titulos_estudios_extranjeros_educacion.md), de 29 de enero,

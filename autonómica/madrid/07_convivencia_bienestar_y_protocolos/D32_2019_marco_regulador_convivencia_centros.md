@@ -35,6 +35,7 @@ fundamentos_derecho:
 ---
 
 
+
 # Decreto 32/2019, de 9 de abril, del Consejo de Gobierno, por el que se establece el Marco Regulador de la Convivencia en los centros docentes sostenidos con fondos públicos de la Comunidad de Madrid (BOCM n.º 88, de 13 de abril).
 
 ### Resolución de 5 de abril de 2019, de la Subsecretaría, por la que se aprueba la relación de admitidos y excluidos, y se anuncia fecha, hora y lugar de celebración del primer ejercicio del proceso selectivo para el ingreso, por el sistema de acceso libre, al Cuerpo General Administrativo de la Administración del Estado, especialidad de Tráfico, convocado por Resolución de 31 de enero de 2019.

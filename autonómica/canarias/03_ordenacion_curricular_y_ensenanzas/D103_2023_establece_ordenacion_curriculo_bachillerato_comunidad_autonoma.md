@@ -57,6 +57,7 @@ fuente_pdf_oficial: https://sede.gobiernodecanarias.org/boc/boc-a-2023-096-1555.
 
 
 
+
 # Decreto 103/2023, de 9 de mayo, por el que se establece la ordenación y el currículo del Bachillerato en la Comunidad Autónoma de Canarias.
 
 II. Autoridades y personal

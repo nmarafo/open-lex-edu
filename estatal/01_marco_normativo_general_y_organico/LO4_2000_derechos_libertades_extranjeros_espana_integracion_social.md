@@ -52,6 +52,7 @@ fundamentos_derecho:
 
 
 
+
 # Ley Orgánica 4/2000, de 11 de enero, sobre derechos y libertades de los extranjeros en España y su integración social.
 
 **JUAN CARLOS I**

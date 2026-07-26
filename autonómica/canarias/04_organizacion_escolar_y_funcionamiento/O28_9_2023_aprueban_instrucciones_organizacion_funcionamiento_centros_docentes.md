@@ -76,6 +76,7 @@ fundamentos_derecho:
 
 
 
+
 # Orden de 28 de septiembre de 2023, por la que se aprueban las instrucciones de organización y funcionamiento de los centros docentes públicos no universitarios de la Comunidad Autónoma de Canarias.
 
 Gobierno de Canarias

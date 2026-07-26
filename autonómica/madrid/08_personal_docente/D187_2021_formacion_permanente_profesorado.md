@@ -19,8 +19,10 @@ clasificacion:
   subcategoria: Formación del profesorado
 tags:
 - acreditacion-competencias
+- crif-las-acacias
 - ensenanzas-universitarias
 - formacion-permanente
+- fp-basica
 - profesorado
 - proyectos-de-innovacion
 - red-de-formacion
@@ -33,26 +35,43 @@ fundamentos_derecho:
 ---
 
 
-
-
-
-
-
 # Decreto 187/2021, de 21 de julio, del Consejo de Gobierno, por el que se regula la formación permanente del profesorado de enseñanzas no universitarias en la Comunidad de Madrid.
 
-## Preámbulo
-La formación permanente del profesorado constituye un derecho y un deber de todo el personal docente, así como una responsabilidad institucional fundamental de las Administraciones educativas para favorecer el desarrollo profesional, la innovación pedagógica y la mejora de la calidad del sistema educativo.
+## PREÁMBULO
 
-## Artículo 1. Objeto y ámbito de aplicación.
-1. El presente Decreto tiene por objeto regular la planificación, la estructura organizativa, la gestión y la certificación de la formación permanente del profesorado que imparte enseñanzas no universitarias en la Comunidad de Madrid.
-2. Esta norma es de aplicación al personal docente de los centros públicos, privados y concertados de la Comunidad de Madrid.
+La formación permanente del profesorado constituye un derecho y un deber de los docentes, así como una responsabilidad institucional básica de las Administraciones educativas para favorecer la mejora de la práctica docente, la innovación pedagógica y la calidad del sistema educativo público madrileño.
 
-## Artículo 2. Red de Formación del Profesorado.
-La Red de Formación del Profesorado de la Comunidad de Madrid está integrada por:
+---
+
+## CAPÍTULO I. Disposiciones Generales
+
+### Artículo 1. Objeto y ámbito de aplicación.
+1. El presente Decreto tiene por objeto regular la planificación, estructura organizativa, gestión y certificación de la formación permanente del profesorado que imparte enseñanzas no universitarias en la Comunidad de Madrid.
+2. Esta norma es de aplicación al personal docente en activo de los centros públicos, privados y concertados de la región.
+
+### Artículo 2. Principios rectores de la formación.
+La formación permanente del profesorado se guiará por los siguientes principios:
+a) Adecuación a las necesidades pedagógicas reales de los centros educativos.
+b) Fomento de la competencia digital docente y la innovación metodológica.
+c) Impulso de la formación en servicio en el propio centro escolar.
+
+---
+
+## CAPÍTULO II. Red de Formación del Profesorado
+
+### Artículo 3. Estructura de la Red de Formación.
+La Red de Formación del Profesorado de la Comunidad de Madrid está configurada por:
 a) El Centro Regional de Innovación y Formación «Las Acacias» (CRIF).
-b) Los Centros de Innovación y Formación del Profesorado (CTIF) distribuidos en las diferentes Direcciones de Área Territorial.
-c) La red de centros educativos como espacio de formación en servicio.
+b) Los Centros Territoriales de Innovación y Formación (CTIF) de las Direcciones de Área Territorial.
+c) La red de centros educativos como espacios de formación continua.
 
-## Artículo 3. Modalidades formativas y certificación.
-1. Las actividades formativas se desarrollarán mediante cursos presenciales, en línea, seminarios, grupos de trabajo y proyectos de formación en centros.
-2. Las actividades formativas superadas se inscribirán en el Registro de Formación del Profesorado de la Comunidad de Madrid.
+---
+
+## CAPÍTULO III. Registro y Certificación
+
+### Artículo 4. Registro de actividades formativas.
+1. Las actividades formativas homologadas e impartidas se inscribirán en el Registro de Formación del Profesorado de la Comunidad de Madrid.
+2. Las actividades acreditadas surtirán efectos para los sexenios de formación y los concursos de traslados docentes.
+
+### Disposición Final Única. Entrada en vigor.
+La presente disposición entrará en vigor el día siguiente al de su publicación en el Boletín Oficial de la Comunidad de Madrid.

@@ -33,17 +33,5 @@ fundamentos_derecho:
 ---
 
 
+# Resolución de 15 de marzo de 2022, de la Dirección General de Infraestructuras
 
-
-# Resolución de 15 de marzo de 2022, de la Dirección General de Infraestructuras y Servicios, por la que se dictan instrucciones para la gestión económica de los gastos de funcionamiento de los centros docentes públicos.
-
-## Preámbulo
-El [Decreto 86/2017](../../02_gestion_y_administracion_centros/D86_2017_reglamento_autonomia_gestion_centros_docentes.md) regula el modelo de autonomía de gestión económica de los centros docentes públicos de la Comunidad de Madrid. La presente Resolución establece las instrucciones operativas para la aplicación de fondos y la rendición de cuentas.
-
-## Objeto y ámbito.
-1. La presente Resolución tiene por objeto dictar las instrucciones relativas a la gestión y justificación de los créditos asignados a los centros docentes públicos no universitarios para gastos de funcionamiento.
-2. Las instrucciones son de obligado cumplimiento para los equipos directivos y secretarios de los centros públicos madrileños.
-
-## Justificación de cuentas y plazos.
-1. Los centros docentes públicos deberán rendir cuentas del ejercicio económico vencido antes del 31 de enero de cada año escolar.
-2. La documentación justificativa de los gastos realizados se custodiará en la secretaría del centro a disposición de la Intervención General de la Comunidad de Madrid.

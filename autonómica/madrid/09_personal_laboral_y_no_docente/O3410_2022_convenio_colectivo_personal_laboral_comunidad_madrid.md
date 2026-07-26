@@ -18,11 +18,13 @@ clasificacion:
   categoria_canonica: 09_personal_laboral_y_no_docente
   subcategoria: Convenio colectivo del personal laboral
 tags:
+- condiciones-de-trabajo
 - convenio-colectivo
 - educadores-infantiles
 - personal-auxiliar
 - personal-laboral
 - personal-no-docente
+- profesorado
 - titulacion
 relaciones:
   desarrolla:
@@ -32,16 +34,29 @@ fundamentos_derecho:
 ---
 
 
-
-
 # Orden 3410/2022, de 16 de noviembre, de la Consejería de Economía, Hacienda y Empleo, por la que se dispone la publicación del Acuerdo del Convenio Colectivo del Personal Laboral de la Comunidad de Madrid.
 
-## Preámbulo
-El Convenio Colectivo del Personal Laboral de la Comunidad de Madrid regula las condiciones de trabajo, régimen retributivo, clasificación profesional y derechos laborales del personal no funcionario que presta servicios en la Administración autonómica y sus centros educativos.
+## PREÁMBULO
 
-## Artículo 1. Ámbito funcional y territorial.
-1. El presente Convenio regula las relaciones de trabajo entre la Comunidad de Madrid y el personal laboral que presta servicios en sus diferentes Consejerías, organismos autónomos y centros docentes públicos.
-2. Queda comprendido en su ámbito el personal laboral de gestión, educadores de escuelas infantiles, fisioterapeutas, diplomados en Enfermería y personal auxiliar de hostelería y limpieza de los centros escolares.
+El Convenio Colectivo del Personal Laboral de la Comunidad de Madrid fija las reglas del marco de relaciones laborales, clasificación profesional, estructura salarial, jornada de trabajo y derechos sindicales del personal no funcionario asignado a las dependencias y centros públicos autonómicos.
 
-## Artículo 2. Clasificación profesional.
-El personal laboral se clasifica en grupos profesionales en función de la titulación requerida, nivel de responsabilidad y competencias profesionales asignadas a cada categoría laboral.
+---
+
+## CAPÍTULO I. Ámbito y Vigencia
+
+### Artículo 1. Ámbito de aplicación.
+1. El presente Convenio regula las condiciones laborales del personal laboral contratado por la Administración de la Comunidad de Madrid.
+2. Resulta de aplicación directa al personal laboral no docente de los centros educativos públicos, incluyendo educadores de escuelas infantiles, fisioterapeutas, diplomados universitarios de Enfermería, integradores sociales y personal técnico auxiliar de servicios.
+
+---
+
+## CAPÍTULO II. Clasificación Profesional y Retribuciones
+
+### Artículo 2. Grupos profesionales.
+El personal laboral se encuadra en los grupos profesionales 1 a 5 en función del nivel de titulación académica exigido y el grado de responsabilidad de la categoría desempeñada.
+
+### Artículo 3. Estructura retributiva.
+Las retribuciones del personal laboral se compondrán del salario base del grupo, la antigüedad por trienios y los complementos singulares de puesto derivados de nocturnidad, peligrosidad o turnicidad.
+
+### Disposición Final Única. Entrada en vigor.
+El presente Convenio desplegará sus efectos desde el día de su publicación oficial en el Boletín Oficial de la Comunidad de Madrid.

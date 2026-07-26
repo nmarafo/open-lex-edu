@@ -65,6 +65,7 @@ fundamentos_derecho:
 
 
 
+
 # Ley Orgánica 5/2002, de 19 de junio, de las Cualificaciones y de la Formación Profesional.
 
 **JUAN CARLOS I**

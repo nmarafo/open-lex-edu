@@ -47,6 +47,7 @@ fundamentos_derecho:
 
 
 
+
 # Resolución de 15 de julio de 1992, de la Dirección General de Promoción Educativa, por la que se dictan instrucciones para la organización y funcionamiento de las Residencias Escolares.
 
 BOC - 1992/106. Viernes 31 de Julio de 1992 - 1164

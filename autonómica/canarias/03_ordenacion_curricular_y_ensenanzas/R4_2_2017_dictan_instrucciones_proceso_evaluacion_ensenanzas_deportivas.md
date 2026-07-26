@@ -60,6 +60,7 @@ fuente_pdf_oficial: https://sede.gobiernodecanarias.org/boc/boc-a-2017-036-807.p
 
 
 
+
 # Resolución de 4 de febrero de 2017, por la que se dictan instrucciones para el proceso de evaluación en las enseñanzas deportivas de régimen especial en el ámbito de la Comunidad Autónoma de Canarias (BOC n.º 36, de 21 de febrero).
 
 https://sede.gobcan.es/cpji/boc

@@ -44,6 +44,7 @@ fundamentos_derecho:
 ---
 
 
+
 # Decreto 61/2019, de 9 de julio, del Consejo de Gobierno, por el que se regula la estructura orgánica de la Consejería de Educación y Juventud de la Comunidad de Madrid (BOCM n.º 163, de 11 de julio).
 
 ### Resolución de 10 de julio de 2019, de la Subsecretaría, por la que se resuelve la convocatoria de libre designación, efectuada por Resolución de 13 de mayo de 2019.

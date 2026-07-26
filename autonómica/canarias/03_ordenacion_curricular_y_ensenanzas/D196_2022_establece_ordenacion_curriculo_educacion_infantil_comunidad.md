@@ -59,6 +59,7 @@ fuente_pdf_oficial: https://sede.gobiernodecanarias.org/boc/boc-a-2022-208-3159.
 
 
 
+
 # Decreto 196/2022, de 13 de octubre, por el que se establece la ordenación y el currículo de la Educación Infantil en la Comunidad Autónoma de Canarias.
 
 II. Autoridades y personal

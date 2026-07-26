@@ -47,6 +47,7 @@ fuente_pdf_oficial: https://sede.gobiernodecanarias.org/boc/boc-a-2021-109-2756.
 
 
 
+
 # Resolución de 19 de mayo de 2021, por la que se dictan instrucciones para la organización y el funcionamiento del Curso Específico de Acceso a Ciclos Formativos de Formación Profesional de Grado Medio a impartir en centros de educación de personas adultas dependientes de esta Consejería (BOC n.º 109, de 28 de mayo).
 
 Viernes 28 de mayo de 2021

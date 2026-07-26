@@ -36,6 +36,7 @@ fundamentos_derecho:
 ---
 
 
+
 # Decreto 86/2017, de 17 de octubre, del Consejo de Gobierno, por el que se regula el modelo de autonomía de gestión de los centros docentes públicos no universitarios de la Comunidad de Madrid (BOCM n.º 248, de 18 de octubre).
 
 ### Resolución de 3 de octubre de 2017, de la Universidad Jaume I, por la que se nombra Profesora Titular de Universidad a doña María Mercedes Segarra Ciprés.

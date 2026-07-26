@@ -65,6 +65,7 @@ fuente_pdf_oficial: https://sede.gobiernodecanarias.org/boc/boc-a-2026-077-1285.
 
 
 
+
 # Resolución de 14 de abril de 2026, por la que se dictan instrucciones para la planificación, realización y gestión, en el ámbito de la Comunidad Autónoma de Canarias, de la Prueba para el Acceso a la Universidad, aplicables al alumnado que haya cursado el Bachillerato, así como los Ciclos Formativos de Grado Superior de Formación Profesional, de Enseñanzas Profesionales de Artes Pláticas y Diseño, y de Enseñanzas Deportivas.
 
 III. Otras Resoluciones

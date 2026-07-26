@@ -49,6 +49,7 @@ fuente_juriscan: http://www.gobcan.es/juriscan/ficha.jsp?id=71394
 
 
 
+
 # Dirección General de Dependencia, Infancia y Familia.- Resolución de 11 de septiembre de 2014, por la que se establecen las instrucciones y órdenes de servicio del Documento 1 \"Protocolo de Registros a Personas y Dependencias en los Centros de Internamiento Educativo para Menores Infractores (CIEMI) de la Comunidad Autónoma de Canarias», relativo al protocolo de actuación en materia de vigilancia y seguridad interior (BOC n.º 188, de 29 de septiembre).
 
 Consejería de Cultura, Deportes, Políticas Sociales y Vivienda
