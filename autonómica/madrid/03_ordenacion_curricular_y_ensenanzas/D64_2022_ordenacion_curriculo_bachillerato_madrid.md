@@ -35,6 +35,7 @@ relaciones:
 
 
 JUEVES 21 DE JULIO DE 2022Pág. 24 B.O.C.M. Núm. 172
+BOCM-20220721-2
 BOLETÍN OFICIAL DE LA COMUNIDAD DE MADRIDBOCM
 I. COMUNIDAD DE MADRID
 A) Disposiciones Generales
@@ -94,6 +95,7 @@ tiva, de las secretarías generales técnicas de las consejerías, de la Direcci
 cursos Humanos y de la Dirección General de Presupuestos, ambas adscritas a la Conseje-
 
 JUEVES 21 DE JULIO DE 2022B.O.C.M. Núm. 172 Pág. 25
+BOCM-20220721-2
 BOLETÍN OFICIAL DE LA COMUNIDAD DE MADRIDBOCM
 ría de Economía, Hacienda y Empleo, y los informes de impacto social de la Consejería de
 Familia, Juventud y Política Social.
@@ -149,6 +151,7 @@ Estructura orgánica del Servicio Madrileño de Salud
 nistración.
 
 JUEVES 21 DE JULIO DE 2022Pág. 26 B.O.C.M. Núm. 172
+BOCM-20220721-2
 BOLETÍN OFICIAL DE LA COMUNIDAD DE MADRIDBOCM
 2. El órgano de dirección del Servicio Madrileño de Salud está integrado por el Di-
 rector General de Asistencia Sanitaria y el Director General de Gestión Económica que, a
@@ -203,6 +206,7 @@ leño de Salud, así como cuantas otras disposiciones de igual o inferior rango 
 lo dispuesto en el presente decreto.
 
 JUEVES 21 DE JULIO DE 2022B.O.C.M. Núm. 172 Pág. 27
+BOCM-20220721-2
 BOLETÍN OFICIAL DE LA COMUNIDAD DE MADRIDBOCM
 
 ## DISPOSICIÓN FINAL PRIMERA
@@ -264,6 +268,7 @@ con lo señalado en la Ley 11/1999, de 29 de abril, de la Cámara de Cuentas de 
 Comunidad de Madrid.
 
 JUEVES 21 DE JULIO DE 2022Pág. 28 B.O.C.M. Núm. 172
+BOCM-20220721-2
 http://www.bocm.es BOLETÍN OFICIAL DE LA COMUNIDAD DE MADRID D. L.: M. 19.462-1983      ISSN 1989-4791
 BOLETÍN OFICIAL DE LA COMUNIDAD DE MADRIDBOCM
 i) Ordenar la tramitación de los expedientes de responsabilidad patrimonial, formu-
@@ -297,3 +302,97 @@ ENRIQUE LÓPEZ LÓPEZ
 La Presidenta,
 ISABEL DÍAZ AYUSO
 (03/15.264/22)
+
+MIÉRCOLES 27 DE JULIO DE 2022B.O.C.M. Núm. 177 Pág. 15
+BOCM-20220727-1
+BOLETÍN OFICIAL DE LA COMUNIDAD DE MADRIDBOCM
+I. COMUNIDAD DE MADRID
+B) Autoridades y Personal
+Asamblea de Madrid
+1 RESOLUCIÓN de 19 de julio de 2022, de la Secretaría General de la Asamblea
+de Madrid, por la que se aprueban las listas provisionales de admitidos y exclui-
+dos para la cobertura de 2 plazas del Cuerpo de Letrados (B OLETÍN OFICIAL DE
+LA COMUNIDAD DE MADRID número 137, de 10 de junio de 2022).
+Esta Secretaría General, en virtud de lo dispuesto en la base 5.1 de la convocatoria para
+la cobertura de dos plazas del Cuerpo de Letrados, Grupo A, Subgrupo A1, del artículo 14
+del Estatuto del Personal de la Asamblea de Madrid (B
+OLETÍN OFICIAL DE LA COMUNIDAD DE
+MADRID número 137, del viernes 10 de junio de 2022), convocada mediante Resolución de
+Presidencia de la Asamblea de Madrid de fecha 3 de junio de 2022,
+RESUELVE
+Primero
+Aprobar las listas provisionales de admitidos y excluidos a las pruebas selectivas de la
+convocatoria para la cobertura de dos plazas del Cuerpo de Letrados, Grupo A, Subgrupo A1,
+del artículo 14 del Estatuto del Personal de la Asamblea de Madrid (B
+OLETÍN OFICIAL DE
+LA COMUNIDAD DE MADRID número 137, del viernes 10 de junio de 2022), convocada me-
+diante Resolución de Presidencia de la Asamblea de Madrid de fecha 3 de junio de 2022.
+Segundo
+Ordenar su publicación en el B OLETÍN OFICIAL DE LA COMUNIDAD DE MADRID.
+Tercero
+Los aspirantes excluidos expresamente, así como los que no figuren en la relación de
+admitidos ni en la de excluidos, dispondrán de un plazo de diez días hábiles, contados a par-
+tir del siguiente al de la publicación, para subsanar el defecto que haya motivado su exclu-
+sión o su no inclusión expresa.
+Madrid, a 19 de julio de 2022.—La Secretaria General, Bárbara Cosculluela Martínez.
+
+MIÉRCOLES 27 DE JULIO DE 2022Pág. 16 B.O.C.M. Núm. 177
+BOCM-20220727-1
+BOLETÍN OFICIAL DE LA COMUNIDAD DE MADRIDBOCM
+Listado Provisional Admitidos
+Año 2022
+Convocatoria Cuerpo de Letrados
+Turno Libre
+Orden Registro Nombre Apellidos DNI Admitido ObservacionesSolicita
+adaptación
+Total Turno: 11
+1 937 BEATRIZ ARANDA BRIONES ***2526** SI NO Falta elección de idioma base 7.1 apartado 4.
+2 866 CARLOS GARCIA-LORCA FERNÁNDEZ ***6041** SI NO Falta elección de idioma base 7.1 apartado 4.
+3 867 MAR ÍAH E R N ÁNDEZ GONZÁLEZ ***5230** SI NO 1º inglesy 2º francés
+4 1019 PALOMA JIMÉNEZ PÁRRAGA ***8818** SI NO 1º inglésy 2º francés
+5 935 MAR ÍA EULALIA LACARRA MART ÍN ***5936** SI NO 1º inglésy 2º francés
+6 886 CARLOS MART ÍN CARRASCO ***1821** SI NO 1º inglésy 2º francés
+7 868 ALBERTO RECIO MAYORAL ***1356** SI NO 1º inglésy 2º francés
+8 958 ANA RIESGO BARRIGA ***8966** SI NO 1º inglésy 2º francés
+9 1108 FRANCISCO SACRISTAN ROMERO ***0450** SI NO Falta elección de idioma base 7.1 apartado 4.
+10 954 NATIVIDAD SALAS MARTINEZ ***2144** SI NO Falta elección de idioma base 7.1 apartado 4.
+11 1001 MAR ÍAE S T H E R SERRALLER SANDINO ***2837** SI NO 1º inglésy 2º francés
+Listado Provisional Excluidos
+Año: 2022
+Convocatoria: Cuerpo de Letrados
+Turno: Libre
+SIN ASPIRANTES
+H: Falta de abono o acreditación de las tasas en el plazo señalado (Base 3.3. de la convocatoria)
+Claves identificativas de las causas de exclusión:
+A: No tener la nacionalidad española  (Base 2.1.1 de la Convocatoria)
+B: No reseñar el número del DNI o datos de identidad (Base  2.1.1 de la Convocatoria)
+C: Omisión o error en la fecha de nacimiento; no tener la edad reglamentaria (Base  2.1.2 de la Convocatoria)
+D: Falta de precisión en la instancia; no tener la titulación requerida (Base  2.1.3 de la Convocatoria)
+E: No ajustar la solicitud al Modelo publicado en la Convocatoria (Base  3.1 de la Convocatoria)
+F: Presentar fuera de plazo y/o no tener registro de entrada (Base  3.1 de la Convocatoria)
+G: No firmar la instancia (Base 3.2. de la Convocatoria)
+
+MIÉRCOLES 27 DE JULIO DE 2022B.O.C.M. Núm. 177 Pág. 17
+BOCM-20220727-1
+http://www.bocm.es BOLETÍN OFICIAL DE LA COMUNIDAD DE MADRID D. L.: M. 19.462-1983      ISSN 1989-4791
+BOLETÍN OFICIAL DE LA COMUNIDAD DE MADRIDBOCM
+Listado Provisional Admitidos
+Año: 2022
+Convocatoria: Cuerpo de Letrados
+Turno: Discapacidad
+SIN ASPIRANTES
+Listado Provisional Excluidos
+Año: 2022
+Convocatoria: Cuerpo de Letrados
+Turno: Discapacidad
+SIN ASPIRANTES
+H: Falta de abono o acreditación de las tasas en el plazo señalado (Base 3.3. de la convocatoria)
+Claves identificativas de las causas de exclusión:
+A: No tener la nacionalidad española  (Base 2.1.1 de la Convocatoria)
+B: No reseñar el número del DNI o datos de identidad (Base  2.1.1 de la Convocatoria)
+C: Omisión o error en la fecha de nacimiento; no tener la edad reglamentaria (Base  2.1.2 de la Convocatoria)
+D: Falta de precisión en la instancia; no tener la titulación requerida (Base  2.1.3 de la Convocatoria)
+E: No ajustar la solicitud al Modelo publicado en la Convocatoria (Base  3.1 de la Convocatoria)
+F: Presentar fuera de plazo y/o no tener registro de entrada (Base  3.1 de la Convocatoria)
+G: No firmar la instancia (Base 3.2. de la Convocatoria)
+(01/15.101/22)
