@@ -14,7 +14,7 @@ fecha_publicacion: '2013-04-22'
 boletin: BOCM
 estado: Vigente
 redaccion: original
-fuente_oficial: https://www.bocm.es
+fuente_oficial: https://www.bocm.es/boletin/CM_Orden_BOCM/2013/04/22/BOCM-20130422-1.PDF
 clasificacion:
   categoria_canonica: 05_alumnado_y_servicios_escolares
   subcategoria: Admisión de alumnado
@@ -27,7 +27,9 @@ relaciones:
   modifica_a: []
   modificado_por: []
   afecta_a_articulos: []
+fuente_pdf_oficial: https://www.bocm.es/boletin/CM_Orden_BOCM/2013/04/22/BOCM-20130422-1.PDF
 ---
+
 
 **Orden 1240/2013, de 17 de abril, de la Consejería de Educación, Juventud y Deporte, por la que se establece el procedimiento para la admisión de alumnos en centros docentes sostenidos con fondos públicos de la Comunidad de Madrid**
 

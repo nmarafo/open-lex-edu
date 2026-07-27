@@ -15,7 +15,7 @@ fecha_publicacion: '2022-04-29'
 boletin: BOCM
 estado: Vigente
 redaccion: original
-fuente_oficial: https://www.bocm.es
+fuente_oficial: https://www.bocm.es/boletin/CM_Orden_BOCM/2022/04/29/BOCM-20220429-1.PDF
 clasificacion:
   categoria_canonica: 04_organizacion_escolar_y_funcionamiento
   subcategoria: Formación Profesional
@@ -29,7 +29,9 @@ relaciones:
   modifica_a: []
   modificado_por: []
   afecta_a_articulos: []
+fuente_pdf_oficial: https://www.bocm.es/boletin/CM_Orden_BOCM/2022/04/29/BOCM-20220429-1.PDF
 ---
+
 
 **Orden 893/2022, de 21 de abril, de la Consejería de Educación, Universidades, Ciencia y Portavocía, por la que se regulan los procedimientos de evaluación, matrícula y acreditación académica en las enseñanzas de Formación Profesional en la Comunidad de Madrid**
 

@@ -14,7 +14,7 @@ fecha_publicacion: '2018-04-16'
 boletin: BOCM
 estado: Vigente
 redaccion: original
-fuente_oficial: https://www.bocm.es
+fuente_oficial: https://www.bocm.es/boletin/CM_Orden_BOCM/2018/04/16/BOCM-20180416-1.PDF
 clasificacion:
   categoria_canonica: 06_atencion_diversidad_y_orientacion
   subcategoria: Educación especial
@@ -27,7 +27,9 @@ relaciones:
   modifica_a: []
   modificado_por: []
   afecta_a_articulos: []
+fuente_pdf_oficial: https://www.bocm.es/boletin/CM_Orden_BOCM/2018/04/16/BOCM-20180416-1.PDF
 ---
+
 
 **Orden 1149/2018, de 4 de abril, de la Consejería de Educación e Investigación, por la que se regula la organización y el funcionamiento de los centros públicos de Educación Especial en la Comunidad de Madrid**
 

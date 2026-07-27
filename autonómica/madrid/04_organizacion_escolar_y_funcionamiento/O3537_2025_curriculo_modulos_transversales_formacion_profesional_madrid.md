@@ -14,7 +14,7 @@ fecha_publicacion: '2025-08-20'
 boletin: BOCM
 estado: Vigente
 redaccion: original
-fuente_oficial: https://www.bocm.es
+fuente_oficial: https://www.bocm.es/boletin/CM_Orden_BOCM/2025/08/20/BOCM-20250820-1.PDF
 clasificacion:
   categoria_canonica: 04_organizacion_escolar_y_funcionamiento
   subcategoria: Formación Profesional
@@ -27,7 +27,9 @@ relaciones:
   modifica_a: []
   modificado_por: []
   afecta_a_articulos: []
+fuente_pdf_oficial: https://www.bocm.es/boletin/CM_Orden_BOCM/2025/08/20/BOCM-20250820-2.PDF
 ---
+
 
 **Orden 3537/2025, de 12 de agosto, de la Consejería de Educación, Ciencia y Universidades, por la que se regulan los currículos de los módulos profesionales transversales en Formación Profesional en la Comunidad de Madrid**
 

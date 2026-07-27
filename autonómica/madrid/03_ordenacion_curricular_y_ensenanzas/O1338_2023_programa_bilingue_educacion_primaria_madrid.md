@@ -14,7 +14,7 @@ fecha_publicacion: '2023-05-05'
 boletin: BOCM
 estado: Vigente
 redaccion: original
-fuente_oficial: https://www.bocm.es
+fuente_oficial: https://www.bocm.es/boletin/CM_Orden_BOCM/2023/05/05/BOCM-20230505-1.PDF
 clasificacion:
   categoria_canonica: 03_ordenacion_curricular_y_ensenanzas
   subcategoria: Educación Primaria
@@ -27,7 +27,9 @@ relaciones:
   modifica_a: []
   modificado_por: []
   afecta_a_articulos: []
+fuente_pdf_oficial: https://www.bocm.es/boletin/CM_Orden_BOCM/2023/05/05/BOCM-20230505-1.PDF
 ---
+
 
 **Orden 1338/2023, de 26 de abril, de la Consejería de Educación, Universidades, Ciencia y Portavocía, por la que se regula la implantación del programa bilingüe en centros docentes de Educación Primaria de la Comunidad de Madrid**
 

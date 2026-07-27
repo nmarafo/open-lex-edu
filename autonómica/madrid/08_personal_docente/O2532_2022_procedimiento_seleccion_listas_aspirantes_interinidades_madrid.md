@@ -14,7 +14,7 @@ fecha_publicacion: '2022-09-07'
 boletin: BOCM
 estado: Vigente
 redaccion: original
-fuente_oficial: https://www.bocm.es
+fuente_oficial: https://www.bocm.es/boletin/CM_Orden_BOCM/2022/09/07/BOCM-20220907-1.PDF
 clasificacion:
   categoria_canonica: 08_personal_docente
   subcategoria: Personal interino
@@ -27,7 +27,9 @@ relaciones:
   modifica_a: []
   modificado_por: []
   afecta_a_articulos: []
+fuente_pdf_oficial: https://www.bocm.es/boletin/CM_Orden_BOCM/2022/09/07/BOCM-20220907-1.PDF
 ---
+
 
 ## Preámbulo
 

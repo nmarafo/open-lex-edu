@@ -14,7 +14,7 @@ fecha_publicacion: '2023-01-31'
 boletin: BOCM
 estado: Vigente
 redaccion: original
-fuente_oficial: https://www.bocm.es
+fuente_oficial: https://www.bocm.es/boletin/CM_Orden_BOCM/2023/01/31/BOCM-20230131-1.PDF
 clasificacion:
   categoria_canonica: 03_ordenacion_curricular_y_ensenanzas
   subcategoria: Educación Primaria
@@ -28,7 +28,9 @@ relaciones:
   modifica_a: []
   modificado_por: []
   afecta_a_articulos: []
+fuente_pdf_oficial: https://www.bocm.es/boletin/CM_Orden_BOCM/2023/01/31/BOCM-20230131-1.PDF
 ---
+
 
 **Orden 130/2023, de 23 de enero, de la Viceconsejería de Política Educativa, por la que se regulan la organización, el funcionamiento y la evaluación en la etapa de Educación Primaria en la Comunidad de Madrid**
 

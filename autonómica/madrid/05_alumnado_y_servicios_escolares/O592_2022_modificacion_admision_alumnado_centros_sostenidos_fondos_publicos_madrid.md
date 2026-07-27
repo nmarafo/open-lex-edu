@@ -14,7 +14,7 @@ fecha_publicacion: '2022-03-24'
 boletin: BOCM
 estado: Vigente
 redaccion: original
-fuente_oficial: https://www.bocm.es
+fuente_oficial: https://www.bocm.es/boletin/CM_Orden_BOCM/2022/03/24/BOCM-20220324-1.PDF
 clasificacion:
   categoria_canonica: 05_alumnado_y_servicios_escolares
   subcategoria: Admisión de alumnado
@@ -27,7 +27,9 @@ relaciones:
   modifica_a: []
   modificado_por: []
   afecta_a_articulos: []
+fuente_pdf_oficial: https://www.bocm.es/boletin/CM_Orden_BOCM/2022/03/24/BOCM-20220324-1.PDF
 ---
+
 
 **Orden 592/2022, de 16 de marzo, de la Consejería de Educación, Universidades, Ciencia y Portavocía, por la que se modifica la Orden 1240/2013 en relación con los criterios de baremación en la admisión de alumnos**
 

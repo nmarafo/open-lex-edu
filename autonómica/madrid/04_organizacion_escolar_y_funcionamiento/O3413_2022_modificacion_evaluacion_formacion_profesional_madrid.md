@@ -14,7 +14,7 @@ fecha_publicacion: '2022-11-23'
 boletin: BOCM
 estado: Vigente
 redaccion: original
-fuente_oficial: https://www.bocm.es
+fuente_oficial: https://www.bocm.es/boletin/CM_Orden_BOCM/2022/11/23/BOCM-20221123-1.PDF
 clasificacion:
   categoria_canonica: 04_organizacion_escolar_y_funcionamiento
   subcategoria: Formación Profesional
@@ -27,7 +27,9 @@ relaciones:
   modifica_a: []
   modificado_por: []
   afecta_a_articulos: []
+fuente_pdf_oficial: https://www.bocm.es/boletin/CM_Orden_BOCM/2022/11/23/BOCM-20221123-1.PDF
 ---
+
 
 **Orden 3413/2022, de 15 de noviembre, de la Consejería de Educación, Universidades, Ciencia y Portavocía, por la que se modifica la Orden 893/2022 de evaluación y matrícula en Formación Profesional**
 

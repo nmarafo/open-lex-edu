@@ -14,7 +14,7 @@ fecha_publicacion: '2023-02-27'
 boletin: BOCM
 estado: Vigente
 redaccion: original
-fuente_oficial: https://www.bocm.es
+fuente_oficial: https://www.bocm.es/boletin/CM_Orden_BOCM/2023/02/27/BOCM-20230227-1.PDF
 clasificacion:
   categoria_canonica: 03_ordenacion_curricular_y_ensenanzas
   subcategoria: Educación Infantil
@@ -28,7 +28,9 @@ relaciones:
   modifica_a: []
   modificado_por: []
   afecta_a_articulos: []
+fuente_pdf_oficial: https://www.bocm.es/boletin/CM_Orden_BOCM/2023/02/27/BOCM-20230227-1.PDF
 ---
+
 
 ## Preámbulo
 
