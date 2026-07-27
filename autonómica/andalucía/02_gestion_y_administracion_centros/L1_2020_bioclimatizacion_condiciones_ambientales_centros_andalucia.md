@@ -41,14 +41,14 @@ Seleccionar apartado
 
 [Preámbulo]
 
-### Capítulo I
+### Capítulo Capítulo
 
 ## Artículo 1
 
 
 ## Artículo 2
 
-### Capítulo II
+### Capítulo Capítulo
 
 Sección 1
 
@@ -75,7 +75,7 @@ Sección 4
 
 ## Artículo 9
 
-### Capítulo III
+### Capítulo Capítulo
 
 ## Artículo 10
 
@@ -162,7 +162,7 @@ Se incluye una disposición adicional para establecer medidas de apoyo de la Jun
 
 Por último, se integra en esta Ley la modificación del
 
-artículo 171 de la Ley 17/2007, de 10 de diciembre
+## artículo 171 de la Ley 17/2007, de 10 de diciembre
 
 , de Educación de Andalucía.
 
@@ -172,7 +172,7 @@ Subir
 
 [Bloque 2: #ci]
 
-### Capítulo I
+### Capítulo Capítulo
 
 Disposiciones generales
 
@@ -206,7 +206,7 @@ Subir
 
 [Bloque 5: #ci-2]
 
-### Capítulo II
+### Capítulo Capítulo
 
 Intervención y financiación
 
@@ -340,7 +340,7 @@ Subir
 
 [Bloque 17: #ci-3]
 
-### Capítulo III
+### Capítulo Capítulo
 
 Participación ciudadana
 
@@ -412,7 +412,7 @@ Ley 17/2007, de 10 de diciembre
 
 Se modifica el
 
-artículo 171 de la Ley 17/2007, de 10 de diciembre
+## artículo 171 de la Ley 17/2007, de 10 de diciembre
 
 , de Educación de Andalucía, que queda redactado de la siguiente forma:
 

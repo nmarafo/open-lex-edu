@@ -208,7 +208,7 @@ Consultivo de Andalucía y previa deliberación del Consejo de Gobierno, en su r
 día 9 de mayo de 2023,
 DISPONGO
 
-### Capítulo I
+### Capítulo Capítulo
 Disposiciones de carácter general
 
 ## Artículo 1. Objeto y ámbito de aplicación.
@@ -313,7 +313,7 @@ potencialidades.
 página 8471/6
 BOJABOJA
 
-### Capítulo II
+### Capítulo Capítulo
 Currículo
 
 ## Artículo 5. Objetivos de la etapa.
@@ -442,7 +442,7 @@ y al entorno inmediato.
 el funcionamiento coordinado de los equipos docentes, con objeto de proporcionar un 
 enfoque interdisciplinar, integrador y holístico al proceso educativo.
 
-### Capítulo III
+### Capítulo Capítulo
 Ordenación de la etapa
 
 ## Artículo 8. Ordenación general.
@@ -615,10 +615,10 @@ Lengua Extranjera junto con la materia en cuestión de manera que se conforme un
 ámbito.
 3. Los centros que impartan una parte de las materias en lenguas extranjeras 
 aplicarán, en todo caso, los criterios para la admisión del alumnado establecidos en el 
-artículo 84 de la Ley Orgánica 2/2006, de 3 de mayo, de Educación. Entre tales criterios 
+## artículo 84 de la Ley Orgánica 2/2006, de 3 de mayo, de Educación. Entre tales criterios
 no se incluirán requisitos lingüísticos. 
 
-### Capítulo IV 
+### Capítulo Capítulo
 Evaluación, promoción y titulación
 
 ## Artículo 13. Evaluación.
@@ -755,7 +755,7 @@ que, al tiempo de su nombramiento, se hayan designado. Adecuarán sus procedimie
 a lo regulado en la Subsección 1.ª de la Sección 3.ª del Capítulo II del Título preliminar 
 de la Ley 40/2015, de 1 de octubre, de Régimen Jurídico del Sector Público, y en el 
 
-### Capítulo II del Título IV de la Ley 9/2007, de 22 de octubre, de la Administración de la 
+### Capítulo Capítulo
 Junta de Andalucía.
 3. A fin de garantizar la representación equilibrada de mujeres y hombres en la 
 composición de las Comisiones Técnicas Provinciales de Reclamaciones, se actuará de 
@@ -836,7 +836,7 @@ materia de protección de datos de carácter personal, todo ello teniendo en cue
 dispuesto en el Decreto 622/2019, de 27 de diciembre, de administración electrónica, 
 simplificación de procedimientos y racionalización organizativa de la Junta de Andalucía.
 
-### Capítulo V 
+### Capítulo Capítulo
 Atención a la diversidad y a las diferencias individuales
 
 ## Artículo 21. Atención a la diversidad y a las diferencias individuales.
@@ -945,7 +945,7 @@ especiales según lo recogido el apartado 3.c).
 1. De conformidad con lo dispuesto en el artículo 24 del Real Decreto 217/2022, de 29 
 de marzo, el programa de diversificación curricular estará orientado a la consecución del 
 
-# Título de Graduado en Educación Secundaria Obligatoria por parte de quienes presenten 
+# Título Título
 dificultades relevantes de aprendizaje tras haber recibido, en su caso, las medidas de 
 atención a la diversidad y a las diferencias individuales oportunas en el primero o segundo 
 curso de esta etapa, o a quienes esta medida les sea favorable para la obtención del 
@@ -1125,7 +1125,7 @@ los certificados y títulos para los que estén autorizados y estarán adscritos
 públicos de formación profesional, a efectos de solicitud de la expedición de certificados 
 de competencia, certificados profesionales y títulos de grado básico.
 
-### Capítulo VI
+### Capítulo Capítulo
 Tutoría y orientación
 
 ## Artículo 25. Principios.
@@ -1184,7 +1184,7 @@ se emitirá con esa única finalidad.
 establecerán las características del consejo orientador al que se refieren los apartados 3, 
 4 y 5 del artículo 18 del Real Decreto 217/2022, de 29 de marzo.
 
-### Capítulo VII
+### Capítulo Capítulo
 Autonomía de los centros y participación en el proceso educativo
 
 ## Artículo 27. Autonomía de los centros docentes.
@@ -1246,7 +1246,7 @@ y a la libre circulación de estos datos y por el se se deroga la Directiva 95/4
 2. Los derechos referidos en el apartado 1 se hacen también extensivos al alumnado 
 mayor de edad.
 
-### Capítulo VIII
+### Capítulo Capítulo
 Medidas de apoyo al profesorado para el desarrollo del currículo
 
 ## Artículo 29. Formación permanente del profesorado.
@@ -1326,7 +1326,7 @@ un módulo determinado dentro de cada uno de los ámbitos de conocimiento de la 
 de Educación Secundaria Obligatoria para las personas adultas.
 6. De conformidad con lo establecido en el artículo 105 de la Ley 17/2007, de 10 
 de diciembre, podrán incorporarse a las enseñanzas a las que se refiere la presente 
-disposición adicional, en las modalidades que se determinen por orden, las personas 
+## disposición adicional, en las modalidades que se determinen por orden, las personas
 00283504
  Número 90 - Lunes, 15 de mayo de 2023
 página 8471/24

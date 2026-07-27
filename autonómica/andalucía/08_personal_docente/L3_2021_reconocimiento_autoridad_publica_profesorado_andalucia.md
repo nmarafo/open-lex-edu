@@ -41,7 +41,7 @@ Seleccionar apartado
 
 [Preámbulo]
 
-### Capítulo I
+### Capítulo Capítulo
 
 ## Artículo 1
 
@@ -57,14 +57,14 @@ Seleccionar apartado
 
 ## Artículo 5
 
-### Capítulo II
+### Capítulo Capítulo
 
 ## Artículo 6
 
 
 ## Artículo 7
 
-### Capítulo III
+### Capítulo Capítulo
 
 ## Artículo 8
 
@@ -101,13 +101,13 @@ I
 
 El
 
-artículo 27 de la Constitución española
+## artículo 27 de la Constitución española
 
 reconoce que todas las personas tienen derecho a la educación y establece los principios esenciales sobre los que se sustenta el ejercicio de este derecho fundamental.
 
 Asimismo, el
 
-artículo 4.2.f) de la Ley Orgánica 8/1985, de 3 de julio
+## artículo 4.2.f) de la Ley Orgánica 8/1985, de 3 de julio
 
 , reguladora del Derecho a la Educación, establece que a los padres, madres o tutores legales, como primeros responsables de la educación de sus hijos o hijas, les corresponde, entre otras obligaciones, respetar y hacer respetar las normas establecidas por el centro, la autoridad y las indicaciones u orientaciones educativas del profesorado.
 
@@ -141,7 +141,7 @@ artículos 104 y 105 de la Ley Orgánica 2/2006, de 3 de mayo
 
 Asimismo, el
 
-artículo 124.3 de la Ley Orgánica 2/2006, de 3 de mayo
+## artículo 124.3 de la Ley Orgánica 2/2006, de 3 de mayo
 
 , establece que los miembros del equipo directivo y los profesores y profesoras serán considerados autoridad pública. En los procedimientos de adopción de medidas correctoras, los hechos constatados por profesores, profesoras y miembros del equipo directivo de los centros docentes tendrán valor probatorio y disfrutarán de presunción de veracidad
 
@@ -191,7 +191,7 @@ Subir
 
 [Bloque 2: #ci]
 
-### Capítulo I
+### Capítulo Capítulo
 
 Disposiciones generales
 
@@ -227,7 +227,7 @@ c) Los artículos 9.2 y 8.f) solo serán de aplicación al profesorado de los ce
 
 2. El ámbito de aplicación de la Ley se entenderá referido al conjunto de actuaciones incluidas en la programación general de la enseñanza, conforme al
 
-artículo 2 de la Ley 17/2007, de 10 de diciembre
+## artículo 2 de la Ley 17/2007, de 10 de diciembre
 
 , de Educación de Andalucía, entre las que se incluyen las actuaciones que desarrollen los centros docentes para ofrecer nuevos servicios y actividades al alumnado fuera del horario lectivo, de conformidad con lo establecido en el apartado 2 del citado artículo.
 
@@ -243,7 +243,7 @@ Subir
 
 1. La Ley, que se fundamenta en el respeto al derecho de todas las personas a la educación consagrado en el
 
-artículo 27.1 de la Constitución española
+## artículo 27.1 de la Constitución española
 
 y en el artículo 21 del
 
@@ -303,7 +303,7 @@ Subir
 
 [Bloque 8: #ci-2]
 
-### Capítulo II
+### Capítulo Capítulo
 
 Protección jurídica y psicológica del personal docente
 
@@ -317,7 +317,7 @@ Subir
 
 2. Conforme establece el
 
-artículo 124.3 de la Ley Orgánica 2/2006, de 3 de mayo
+## artículo 124.3 de la Ley Orgánica 2/2006, de 3 de mayo
 
 , en los procedimientos de adopción de medidas correctoras, los hechos constatados por el profesorado de la Comunidad Autónoma de Andalucía tendrán valor probatorio y disfrutarán de presunción de veracidad
 
@@ -335,13 +335,13 @@ Subir
 
 Conforme a lo establecido en el
 
-artículo 105.1 de la Ley Orgánica 2/2006, de 3 de mayo
+## artículo 105.1 de la Ley Orgánica 2/2006, de 3 de mayo
 
 , de Educación, corresponde a la Administración educativa, respecto del profesorado y de las direcciones de los centros públicos, adoptar las medidas oportunas para garantizar la debida protección y asistencia jurídica, así como la cobertura de la responsabilidad civil, en relación con los hechos que se deriven de su ejercicio profesional.
 
 Por su parte, conforme establece el
 
-artículo 23.6 de la Ley 17/2007, de 10 de diciembre
+## artículo 23.6 de la Ley 17/2007, de 10 de diciembre
 
 , de Educación de Andalucía, la Administración educativa proporcionará asistencia psicológica y jurídica gratuita al personal docente de todos los niveles educativos, a que se refiere la citada Ley, que preste servicios en los centros docentes públicos por hechos que se deriven de su ejercicio profesional. La asistencia jurídica consistirá en la representación y defensa en juicio, cualesquiera que sean el órgano y el orden de la jurisdicción ante los que se diriman, en la forma y condiciones que se determinan reglamentariamente. En el caso de las direcciones de los centros, incluirá las denuncias interpuestas a las mismas por parte de los miembros del claustro y/o personal de administración y servicios. Del mismo modo, se potenciará la coordinación entre los centros educativos, a través de las direcciones de los mismos, y las delegaciones territoriales de Educación, a través de sus servicios jurídicos y de inspección.
 
@@ -351,7 +351,7 @@ Subir
 
 [Bloque 11: #ci-3]
 
-### Capítulo III
+### Capítulo Capítulo
 
 Medidas de apoyo al profesorado
 
@@ -387,7 +387,7 @@ Subir
 
 1. El alumno o alumna tiene la obligación de reparar los daños que cause individual o colectivamente, de forma intencionada o por negligencia, a las instalaciones, a los materiales del centro y a las pertenencias de todos los miembros de la comunidad educativa, haciéndose cargo, en su caso, del coste económico de su reparación, sin perjuicio de la aplicación de lo establecido en el
 
-artículo 1.903 del Código Civil
+## artículo 1.903 del Código Civil
 
 , que recoge que los padres son responsables de los daños causados por los hijos que se encuentren bajo su guarda, así como en las normas que regulan la responsabilidad patrimonial de las administraciones públicas.
 
@@ -407,7 +407,7 @@ Subir
 
 En aplicación de lo dispuesto en el
 
-artículo 25 de la Ley Orgánica 8/1985, de 3 de julio
+## artículo 25 de la Ley Orgánica 8/1985, de 3 de julio
 
 , reguladora del Derecho a la Educación, los centros privados no concertados gozarán de autonomía para establecer su régimen interno, elaborar el proyecto educativo y establecer las normas de convivencia.
 

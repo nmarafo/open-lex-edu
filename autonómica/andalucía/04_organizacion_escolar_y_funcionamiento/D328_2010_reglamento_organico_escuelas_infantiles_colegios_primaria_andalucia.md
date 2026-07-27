@@ -440,10 +440,10 @@ tros públicos específicos de educación especial dependientes
 de la Consejería competente en materia de educación.
 Sevilla, 16 de julio 2010 BOJA núm. 139 Página núm. 37
 
-# Título I
+# Título Título
 EL ALUMNADO
 
-### Capítulo I
+### Capítulo Capítulo
 Deberes y derechos
 
 ## Artículo 2. Deberes del alumnado.
@@ -533,7 +533,7 @@ adecuadas a su edad, en las que este podrá participar.
 la forma, los espacios y lugares donde se podrán fijar escritos 
 del alumnado en los que ejercite su libertad de expresión.
 
-### Capítulo II
+### Capítulo Capítulo
 Participación del alumnado
 
 ## Artículo 5. Cauces de participación. 
@@ -559,7 +559,7 @@ reclamaciones del grupo al que representan.
 centro podrá recoger otras func iones de los delegados y dele-
 gadas de clase.
 
-# Título II
+# Título Título
 EL PROFESORADO
 CAPÍTULO ÚNICO
 Funciones, deberes y derechos del profesorado
@@ -703,7 +703,7 @@ como en aquellos otros que éste inicie en defensa de sus de-
 rechos frente a actos que atenten contra su integridad física o 
 provoquen daños en sus bienes.
 
-# Título III
+# Título Título
 LAS FAMILIAS
 CAPÍTULO ÚNICO
 Participación en el proceso educativo
@@ -797,7 +797,7 @@ madres y padres del alumnado con los equipos directivos de
 los centros, y la realización de acciones formativas en las que 
 participen las familias y el profesorado.
 
-# Título IV
+# Título Título
 EL PERSONAL DE ADMINISTRACIÓN Y SERVICIOS Y DE ATENCIÓN 
 EDUCATIVA COMPLEMENTARIA
 CAPÍTULO ÚNICO
@@ -834,10 +834,10 @@ públicos específicos de educación especial.
 jurídica y psicológica gratuita por hechos que se deriven de su 
 ejercicio profesional en los términos recogidos en el artículo 9.5. 
 
-# Título V 
+# Título Título
 EL CENTRO DOCENTE
 
-### Capítulo I
+### Capítulo Capítulo
 Disposiciones generales
 
 ## Artículo 15. Carácter y enseñanzas de los centros.
@@ -934,7 +934,7 @@ colegios con la misma denominación específica.
 3. La denominación del centro figurará en la fachada del 
 edificio, en lugar visible.
 
-### Capítulo II
+### Capítulo Capítulo
 Autonomía pedagógica, organizativa y de gestión
 
 ## Artículo 19. Disposiciones generales.
@@ -989,12 +989,12 @@ Sevilla, 16 de julio 2010 BOJA núm. 139 Página núm. 41
 informará el reglamento de organización y funcionamiento y 
 aprobará y evaluará los aspectos educativos del Plan de Cen-
 tro a que se refieren las letras b), c), d), e), f), g), k), n) y ñ) del 
-artículo 21.3.
+## artículo 21.3.
 4. El Plan de Centro tendrá un carácter plurianual, obli-
 gará a todo el personal del centro y vinculará a la comunidad 
 educativa del mismo. Se podrá actualizar o modificar, en su 
 caso, tras los procesos de autoevaluación a que se refiere el 
-artículo 26 o a propuesta del director o directora en función de 
+## artículo 26 o a propuesta del director o directora en función de
 su proyecto de dirección. 
 5. El Plan de Centro será público y se facilitará su 
 conocimiento por la comunidad educativa y la ciudadanía en 
@@ -1362,7 +1362,7 @@ y materiales.
 h) Los procedimientos de evaluación del alumnado, en con-
 sonancia con las orientaciones metodológicas establecidas.
 
-### Capítulo III
+### Capítulo Capítulo
 Normas de convivencia
 Sección 1.ª Disposiciones generales
 
@@ -1791,7 +1791,7 @@ la vía administrativa, deberá dictarse y notificarse en el plazo
 máximo de tres meses. Transcurrido dicho plazo sin que re-
 caiga resolución, se podrá entender desestimado el recurso.
 
-### Capítulo IV
+### Capítulo Capítulo
 Órganos colegiados de gobierno
 
 ## Artículo 47. Órganos colegiados.
@@ -1934,7 +1934,7 @@ tora del centro.
 tores de la comunidad educativa en el Consejo Escolar se rea-
 lizará de forma que permita la representación equilibrada de 
 hombres y mujeres, de conformidad con lo establecido en el 
-artículo 19.2 de la Ley 9/2007, de 22 de octubre.
+## artículo 19.2 de la Ley 9/2007, de 22 de octubre.
 8. Una vez constituido el Consejo Escolar del centro, éste 
 designará una persona que impulse medidas educativas que 
 fomenten la igualdad real y efectiva entre hombres y mujeres.
@@ -2462,7 +2462,7 @@ las sesiones del Claustro de Profesorado será obligatoria para
 todos sus miembros, considerándose la falta injustificada a los 
 mismos como un incumplimiento del horario laboral.
 
-### Capítulo V
+### Capítulo Capítulo
 El equipo directivo
 
 ## Artículo 68. Funciones del equipo directivo.
@@ -2799,7 +2799,7 @@ de estudios y la secretaría serán suplidas temporalmente por
 el maestro o maestra que designe la dirección, que informará 
 de su decisión al Consejo Escolar. 
 
-### Capítulo VI
+### Capítulo Capítulo
 Órganos de coordinación docente
 
 ## Artículo 78. Órganos de coordinación docente. 
@@ -3229,7 +3229,7 @@ de orientación y acción tutorial  del centro o por Orden de la
 persona titular de la Consejería competente en materia de 
 educación. 
 
-# Título VI 
+# Título Título
 EVALUACIÓN DE LOS CENTROS
 CAPÍTULO ÚNICO
 Evaluación 

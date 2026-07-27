@@ -190,7 +190,7 @@ Consultivo de Andalucía y previa deliberación del Consejo de Gobierno, en su r
 día 9 de mayo de 2023,
 DISPONGO
 
-### Capítulo I
+### Capítulo Capítulo
 Disposiciones de carácter general
 
 ## Artículo 1. Objeto y ámbito de aplicación.
@@ -299,7 +299,7 @@ que permitan el desarrollo del éxito educativo y la búsqueda de la excelencia 
 todo el alumnado que ha de ser capaz de desarrollar al completo sus capacidades y 
 potencialidades. 
 
-### Capítulo II
+### Capítulo Capítulo
 Currículo
 
 ## Artículo 5. Objetivos de la etapa. 
@@ -424,7 +424,7 @@ enfoque interdisciplinar, integrador y holístico al proceso educativo.
 página 8469/8
 BOJABOJA
 
-### Capítulo III
+### Capítulo Capítulo
 Acceso y ordenación de la etapa
 
 ## Artículo 8. Acceso. 
@@ -663,7 +663,7 @@ extranjeras aplicarán, en todo caso, los criterios para la admisión del alumna
 en el artículo 86 de la Ley Orgánica 2/2006, de 3 de mayo, y en la normativa específica de 
 aplicación en Andalucía. Entre tales criterios no se incluirán requisitos lingüísticos.
 
-### Capítulo IV
+### Capítulo Capítulo
 Evaluación, promoción y titulación 
 
 ## Artículo 14. Evaluación.
@@ -776,7 +776,7 @@ materias comunes.
 Enseñanzas Profesionales de Música o de Danza, y haya superado dichas Enseñanzas 
 Profesionales, podrá obtener el título de Bachiller por la modalidad que elija, además del 
 
-# Título de Bachiller por la modalidad de Artes, superando las materias específicas de la 
+# Título Título
 modalidad elegida distinta a la de Artes y las materias comunes.
 3. La nota que figurará en el título de Bachiller de este alumnado se deducirá de la 
 siguiente ponderación: 
@@ -810,7 +810,7 @@ que, al tiempo de su nombramiento, se hayan designado. Adecuarán sus procedimie
 lo regulado en la Subsección 1.ª de la Sección 3.ª del Capítulo II del Título Preliminar de la 
 Ley 40/2015, de 1 de octubre, de Régimen Jurídico del Sector Público, y en el Capítulo II del 
 
-# Título IV de la Ley 9/2007, de 22 de octubre, de la Administración de la Junta de Andalucía.
+# Título Título
 3. A fin de garantizar la representación equilibrada de mujeres y hombres en la 
 composición de las Comisiones Técnicas Provinciales de Reclamaciones, se actuará de 
 acuerdo con lo previsto en el artículo 11.2 de la Ley 12/2007, de 26 de noviembre.
@@ -867,7 +867,7 @@ materia de protección de datos de carácter personal, todo ello teniendo en cue
 dispuesto en el Decreto 622/2019, de 27 de diciembre, de administración electrónica, 
 simplificación de procedimientos y racionalización organizativa de la Junta de Andalucía.
 
-### Capítulo V
+### Capítulo Capítulo
 Atención a la diversidad y a las diferencias individuales 
 
 ## Artículo 22. Atención a la diversidad y a las diferencias individuales.
@@ -939,7 +939,7 @@ adoptar para su adecuada atención.
 página 8469/17
 BOJABOJA
 
-### Capítulo VI
+### Capítulo Capítulo
 Tutoría y orientación
 
 ## Artículo 24. Principios. 
@@ -959,7 +959,7 @@ una orientación profesional sobre el tránsito al mundo laboral.
 de las modalidades, vías y materias a las que se refieren los artículos 9, 10 y 11 sea la 
 más adecuada para sus intereses y su orientación formativa posterior.
 
-### Capítulo VII
+### Capítulo Capítulo
 Autonomía de los centros y participación en el proceso educativo
 
 ## Artículo 25. Autonomía de los centros docentes. 
@@ -1019,7 +1019,7 @@ que se deroga la Directiva 95/46/CE.
 2. Los derechos referidos en el apartado 1 se hacen también extensivos al alumnado 
 mayor de edad.
 
-### Capítulo VIII
+### Capítulo Capítulo
  Medidas de apoyo al profesorado para el desarrollo del currículo
 
 ## Artículo 27. Formación permanente del profesorado.
@@ -1095,7 +1095,7 @@ final de la etapa, se considerará la nota numérica obtenida en la materia no s
 5. Además, el alumnado que curse estas enseñanzas y se encuentre en posesión de 
 alguno de los títulos a los que se refiere el artículo 17 de este decreto, podrá obtener el 
 
-# Título de Bachiller mediante el procedimiento previsto en el citado artículo.
+# Título Título
 6. Podrán incorporarse a las enseñanzas a las que se refiere la presente disposición 
 adicional las personas mayores de dieciocho años o que cumplan esa edad dentro del 
 año natural en que comience el curso, de conformidad con el artículo 105.1 de la Ley 
@@ -1188,7 +1188,7 @@ los «Principios pedagógicos», 7 de los «Objetivos», 8.2, 8.3 y 8.4 de la «
 general», 15 de la «Organización del Bachillerato en tres años académicos», 20 de la 
 «Evaluación», 21 de la «Promoción», 22 del «Título de Bachiller», 23 de la «Obtención del 
 
-# Título de Bachiller desde otras enseñanzas», 24.2 de la «Tutoría u orientación», 25.5 de la 
+# Título Título
 «Atención a las diferencias individuales», 26.1 y 26.4 de la «Autonomía de los centros», 
 27 del «Derecho del alumnado a una evaluación objetiva», 28 de la «Participación 
 y derecho a la información de padres, madres, tutores o tutoras legales y alumnado 

@@ -116,7 +116,7 @@ sejo Consultivo de Andalucía y previa deliberación del Consejo
 de Gobierno en su reunión del día 23 de enero de 2007,
 DISPONGO
 
-# Título I
+# Título Título
 PRINCIPIOS Y DISPOSICIONES GENERALES
 CAPÍTULO ÚNICO
 Principios de actuación y objetivos
@@ -205,10 +205,10 @@ nismos que conduzcan a la promoción de la cultura de paz y
 a la mejora de la convivencia escolar, mediante la creación de 
 un Observatorio sobre la Convivencia Escolar en Andalucía. 
 
-# Título II
+# Título Título
 ACTUACIONES EN LOS CENTROS EDUCATIVOS
 
-### Capítulo I
+### Capítulo Capítulo
 Promoción de la convivencia en los centros educativos
 
 ## Artículo 4. Plan de convivencia.
@@ -257,7 +257,7 @@ en su caso, conflictividad detectada en el mismo, así como los
 objetivos a conseguir.
 b) Establecimiento de las normas de convivencia genera-
 les del centro y particulares de cada aula a que se refiere el 
-artículo 14 del presente Decreto.
+## artículo 14 del presente Decreto.
 c) Composición, plan de reuniones y plan de actuación de 
 la Comisión de Convivencia.
 d) Normas específicas para el funcionamiento del aula de 
@@ -411,7 +411,7 @@ misma, de acuerdo con los criterios pedagógicos que, a tales
 efectos, sean establecidos por el Equipo Técnico de Coordina-
 ción Pedagógica. 
 
-### Capítulo II
+### Capítulo Capítulo
 Tutoría y orientación
 
 ## Artículo 10. Tutoría.
@@ -460,7 +460,7 @@ Escolar del centro un conjunto mínimo de actuaciones, te-
 niendo en cuenta las acciones propuestas por el Equipo Téc-
 nico Provincial para la Orientación Educativa y Profesional.
 
-### Capítulo III
+### Capítulo Capítulo
 Seguimiento y medidas de seguridad en los centros 
 educativos
 
@@ -497,10 +497,10 @@ protección de los centros docentes e impulsar la adopción de
 medidas preventivas de seguridad del entorno escolar en de-
 terminadas zonas o centros.
 
-# Título III
+# Título Título
 NORMAS DE CONVIVENCIA
 
-### Capítulo I
+### Capítulo Capítulo
 Disposiciones generales
 
 ## Artículo 14. Elaboración de las normas de convivencia.
@@ -621,7 +621,7 @@ fuera del recinto y del horario escolar, estén motivadas o di-
 rectamente relacionadas con el ejercicio de sus derechos y el 
 cumplimiento de sus deberes como tal.
 
-### Capítulo II
+### Capítulo Capítulo
 Conductas contrarias a las normas
 de convivencia y su corrección
 
@@ -720,7 +720,7 @@ estudios.
 d) Para la prevista en la letra e), el director o directora, 
 que dará cuenta a la Comisión de Convivencia.
 
-### Capítulo III
+### Capítulo Capítulo
 Conductas gravemente perjudiciales para la convivencia
 y su corrección
 
@@ -809,7 +809,7 @@ imposición de las medidas disciplinarias previstas en el artícu-
 lo 24 del presente Decreto, de lo que dará traslado a la Comi-
 sión de Convivencia. 
 
-### Capítulo IV
+### Capítulo Capítulo
 Procedimiento para la imposición de las correcciones
 y de las medidas disciplinarias 
 
@@ -859,7 +859,7 @@ contados desde que se presentó la instancia, para que este
 órgano proceda a confirmar o revisar la decisión y proponga, 
 si corresponde, las medidas oportunas.
 
-### Capítulo V
+### Capítulo Capítulo
 Procedimiento para la imposición de la medida disciplinaria 
 de cambio de centro
 
@@ -950,11 +950,11 @@ el plazo máximo de tres meses, pondrá fin a la vía administra-
 tiva. Transcurrido dicho plazo sin que se haya dictado resolu-
 ción, la reclamación podrá entenderse desestimada. 
 
-# Título IV
+# Título Título
 RECURSOS Y APOYOS PARA LA MEJORA
 DE LA CONVIVENCIA
 
-### Capítulo I
+### Capítulo Capítulo
 Protocolos de actuación
 
 ## Artículo 34. Actuación e intervención ante conductas de 
@@ -976,7 +976,7 @@ desarrollo de sus funciones. Además, adoptará las medidas
 oportunas para garantizar la debida protección y asistencia ju-
 rídica en estos supuestos.
 
-### Capítulo II
+### Capítulo Capítulo
 Recursos humanos
 
 ## Artículo 35. Profesorado de apoyo y disminución de la ra-
@@ -1010,7 +1010,7 @@ social. Este personal, que se integrará en el departamento de
 orientación, desarrollará las tareas que se recogen en el apar-
 tado anterior. 
 
-### Capítulo III
+### Capítulo Capítulo
 Formación
 
 ## Artículo 37. Formación de la comunidad educativa.
@@ -1053,7 +1053,7 @@ dres y madres del alumnado, profesorado y equipos directivos,
 encaminadas al fomento de la cultura de paz y a la participa-
 ción de la comunidad educativa en los centros docentes.
 
-### Capítulo IV
+### Capítulo Capítulo
 Proyectos integrales «Escuela: Espacio de Paz»
 
 ## Artículo 38. Bases reguladoras.
@@ -1123,7 +1123,7 @@ sean atribuidas.
 e) Cualquier otra función que le atribuya la Administración 
 educativa en el ámbito de sus competencias.
 
-### Capítulo V
+### Capítulo Capítulo
 Campañas y materiales
 
 ## Artículo 42. Realización de campañas de sensibilización 
@@ -1172,10 +1172,10 @@ Decreto, tanto por parte de los centros educativos como por
 parte del profesorado, a través de las correspondientes convo-
 catorias de ayudas. 
 
-# Título V
+# Título Título
 COORDINACIÓN, SEGUIMIENTO Y EVALUACIÓN
 
-### Capítulo I
+### Capítulo Capítulo
 Gabinetes provinciales de asesoramiento sobre la convivencia 
 escolar
 
@@ -1251,7 +1251,7 @@ mendadas.
 i) Cualquier otra función que les atribuya la Administra-
 ción educativa en el ámbito de sus competencias.
 
-### Capítulo II
+### Capítulo Capítulo
 Comisiones Provinciales de Seguimiento de la Convivencia 
 Escolar
 
@@ -1376,7 +1376,7 @@ tas de mejora.
 lado del informe anual a la persona titular del centro directivo 
 de la Consejería de Educación competente en la materia.
 
-### Capítulo III
+### Capítulo Capítulo
 Evaluación
 
 ## Artículo 49. Inspección educativa.
@@ -1387,11 +1387,11 @@ tales efectos, se establezca en los planes de actuación de la
 inspección educativa, sin perjuicio de las que, en este ámbito, 
 puedan corresponder a otros órganos.
 
-# Título VI
+# Título Título
 OBSERVATORIO PARA LA CONVIVENCIA ESCOLAR
 EN ANDALUCÍA
 
-### Capítulo I
+### Capítulo Capítulo
 Naturaleza, finalidad y atribuciones
 
 ## Artículo 50. Naturaleza y adscripción.
@@ -1462,7 +1462,7 @@ vestigación y la promoción de actuaciones en todas las mate-
 rias relacionadas con la mejora de la convivencia en el ámbito 
 de los centros educativos.
 
-### Capítulo II
+### Capítulo Capítulo
 Organización
 
 ## Artículo 53. Estructura organizativa.

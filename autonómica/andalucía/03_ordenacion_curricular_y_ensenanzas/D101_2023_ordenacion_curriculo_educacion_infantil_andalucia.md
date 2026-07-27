@@ -160,7 +160,7 @@ Se trata de formar una ciudadanía competente a través de una educación que te
 cuenta las competencias clave que demanda la construcción de una sociedad igualitaria, 
 plural, dinámica y emprendedora, democrática y solidaria.
 Además, se incluye en este decreto, como disposición final, una modificación del 
-artículo 11 del Decreto 39/2003, de 18 de febrero, por el que se regula la provisión de los 
+## artículo 11 del Decreto 39/2003, de 18 de febrero, por el que se regula la provisión de los
 puestos de trabajo de los Equipos de Orientación Educativa adscritos al personal docente 
 y se establecen las funciones de los coordinadores de área de los Equipos Técnicos 
 Provinciales, que viene a reducir los requisitos de acceso a un puesto de personal 
@@ -196,7 +196,7 @@ página 8470/4
 BOJABOJA
 DISPONGO
 
-### Capítulo I
+### Capítulo Capítulo
 Disposiciones de carácter general
 
 ## Artículo 1. Objeto y ámbito de aplicación.
@@ -292,7 +292,7 @@ que permitan el desarrollo del éxito educativo y la búsqueda de la excelencia 
 todo el alumnado que ha de ser capaz de desarrollar al completo sus capacidades y 
 potencialidades.
 
-### Capítulo II
+### Capítulo Capítulo
 Currículo
 
 ## Artículo 5. Objetivos de la etapa.
@@ -428,7 +428,7 @@ y al entorno inmediato.
 el funcionamiento coordinado de los equipos docentes, con objeto de proporcionar un 
 enfoque interdisciplinar, integrador y holístico al proceso educativo.
 
-### Capítulo III
+### Capítulo Capítulo
 Ordenación de la etapa
 
 ## Artículo 8. Ordenación general.
@@ -524,14 +524,14 @@ en materia de educación que lo desarrolle. Para ello, los centros integrarán l
 Lengua Extranjera junto con el área en cuestión de manera que se conforme un ámbito.
 3. Los centros que impartan una parte de las áreas del currículo en lenguas extranjeras 
 aplicarán, en todo caso, los criterios para la admisión del alumnado establecidos en el 
-artículo 84 de la Ley Orgánica 2/2006, de 3 de mayo. Entre tales criterios no se incluirán 
+## artículo 84 de la Ley Orgánica 2/2006, de 3 de mayo. Entre tales criterios no se incluirán
 requisitos lingüísticos.
 00283499
  Número 90 - Lunes, 15 de mayo de 2023
 página 8470/10
 BOJABOJA
 
-### Capítulo IV
+### Capítulo Capítulo
 Evaluación y promoción
 
 ## Artículo 11. Evaluación.
@@ -626,7 +626,7 @@ nacional.
 ## Artículo 15. Informes de evaluación.
 1. Mediante orden de la Consejería competente en materia de educación se 
 establecerán las características de los informes finales de ciclo a los que se refiere el 
-artículo 15.4 del Real Decreto 157/2022, de 1 de marzo.
+## artículo 15.4 del Real Decreto 157/2022, de 1 de marzo.
 2. Además, se considerarán informes de evaluación los boletines de calificaciones y 
 las actas de las sesiones de evaluación continua.
 
@@ -657,7 +657,7 @@ materia de protección de datos de carácter personal, todo ello teniendo en cue
 dispuesto en el Decreto 622/2019, de 27 de diciembre, de administración electrónica, 
 simplificación de procedimientos y racionalización organizativa de la Junta de Andalucía.
 
-### Capítulo V
+### Capítulo Capítulo
 Atención a la diversidad y a las diferencias individuales
 
 ## Artículo 17. Atención a la diversidad y a las diferencias individuales.
@@ -755,7 +755,7 @@ especiales según lo recogido en el apartado 3.c).
 página 8470/14
 BOJABOJA
 
-### Capítulo VI
+### Capítulo Capítulo
 Tutoría y orientación
 
 ## Artículo 19. Principios.
@@ -767,7 +767,7 @@ acuerdo con lo establecido en el artículo 121.2 de la Ley Orgánica 2/2006, de 
 educativa y psicopedagógica constituirán un elemento fundamental en la ordenación de 
 la etapa y orientarán el proceso educativo individual y colectivo del alumnado.
 
-### Capítulo VII
+### Capítulo Capítulo
 Autonomía de los centros y participación en el proceso educativo
 
 ## Artículo 20. Autonomía de los centros docentes.
@@ -826,7 +826,7 @@ Protección de Datos Personales y garantía de los derechos digitales, y en el R
 protección de las personas físicas en lo que respecta al tratamiento de datos personales 
 y a la libre circulación de estos datos y por el que se deroga la Directiva 95/46/CE.
 
-### Capítulo VIII
+### Capítulo Capítulo
 Medidas de apoyo al profesorado para el desarrollo del currículo
 
 ## Artículo 22. Formación permanente del profesorado.

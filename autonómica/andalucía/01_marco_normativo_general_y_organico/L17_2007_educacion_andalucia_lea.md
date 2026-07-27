@@ -57,9 +57,9 @@ TÍTULO PRELIMINAR
 
 ## Artículo 5
 
-# Título I
+# Título Título
 
-### Capítulo I
+### Capítulo Capítulo
 
 Sección 1
 
@@ -84,7 +84,7 @@ Sección 2
 
 ## Artículo 12
 
-### Capítulo II
+### Capítulo Capítulo
 
 Sección 1
 
@@ -133,14 +133,14 @@ Sección 5
 
 ## Artículo 26
 
-### Capítulo III
+### Capítulo Capítulo
 
 ## Artículo 27
 
 
 ## Artículo 28
 
-### Capítulo IV
+### Capítulo Capítulo
 
 Sección 1
 
@@ -168,9 +168,9 @@ Sección 2
 
 ## Artículo 36
 
-# Título II
+# Título Título
 
-### Capítulo I
+### Capítulo Capítulo
 
 ## Artículo 37
 
@@ -183,7 +183,7 @@ Sección 2
 
 ## Artículo 40
 
-### Capítulo II
+### Capítulo Capítulo
 
 ## Artículo 41
 
@@ -199,7 +199,7 @@ Sección 2
 
 ## Artículo 45
 
-### Capítulo III
+### Capítulo Capítulo
 
 Sección 1
 
@@ -252,7 +252,7 @@ Sección 3
 
 ## Artículo 61
 
-### Capítulo IV
+### Capítulo Capítulo
 
 ## Artículo 62
 
@@ -271,7 +271,7 @@ Sección 3
 
 ## Artículo 67
 
-### Capítulo V
+### Capítulo Capítulo
 
 ## Artículo 68
 
@@ -302,7 +302,7 @@ Sección 3
 
 ## Artículo 77
 
-### Capítulo VI
+### Capítulo Capítulo
 
 ## Artículo 78
 
@@ -376,7 +376,7 @@ Sección 4
 
 ## Artículo 100
 
-### Capítulo VII
+### Capítulo Capítulo
 
 ## Artículo 101
 
@@ -386,11 +386,11 @@ Sección 4
 
 ## Artículo 103
 
-### Capítulo VIII
+### Capítulo Capítulo
 
 ## Artículo 104
 
-### Capítulo IX
+### Capítulo Capítulo
 
 ## Artículo 105
 
@@ -415,9 +415,9 @@ Sección 4
 
 ## Artículo 112
 
-# Título III
+# Título Título
 
-### Capítulo I
+### Capítulo Capítulo
 
 Sección 1
 
@@ -442,14 +442,14 @@ Sección 2
 
 ## Artículo 119
 
-### Capítulo II
+### Capítulo Capítulo
 
 ## Artículo 120
 
 
 ## Artículo 121
 
-### Capítulo III
+### Capítulo Capítulo
 
 ## Artículo 122
 
@@ -459,9 +459,9 @@ Sección 2
 
 ## Artículo 124
 
-# Título IV
+# Título Título
 
-### Capítulo I
+### Capítulo Capítulo
 
 ## Artículo 125
 
@@ -480,7 +480,7 @@ Sección 2
 
 ## Artículo 130
 
-### Capítulo II
+### Capítulo Capítulo
 
 ## Artículo 131
 
@@ -493,7 +493,7 @@ Sección 2
 
 ## Artículo 134
 
-### Capítulo III
+### Capítulo Capítulo
 
 Sección 1
 
@@ -519,13 +519,13 @@ Sección 3
 
 ## Artículo 141
 
-# Título V
+# Título Título
 
-### Capítulo I
+### Capítulo Capítulo
 
 ## Artículo 142
 
-### Capítulo II
+### Capítulo Capítulo
 
 Sección 1
 
@@ -554,23 +554,23 @@ Sección 3
 
 ## Artículo 150
 
-### Capítulo III
+### Capítulo Capítulo
 
 ## Artículo 151
 
 
 ## Artículo 152
 
-# Título VI
+# Título Título
 
-### Capítulo I
+### Capítulo Capítulo
 
 ## Artículo 153
 
 
 ## Artículo 154
 
-### Capítulo II
+### Capítulo Capítulo
 
 ## Artículo 155
 
@@ -586,7 +586,7 @@ Sección 3
 
 ## Artículo 159
 
-### Capítulo III
+### Capítulo Capítulo
 
 ## Artículo 160
 
@@ -614,9 +614,9 @@ Sección 3
 
 ## Artículo 168
 
-# Título VII
+# Título Título
 
-### Capítulo I
+### Capítulo Capítulo
 
 Sección 1
 
@@ -639,15 +639,15 @@ Sección 3
 
 ## Artículo 174
 
-### Capítulo II
+### Capítulo Capítulo
 
 ## Artículo 175
 
-### Capítulo III
+### Capítulo Capítulo
 
 ## Artículo 176
 
-### Capítulo IV
+### Capítulo Capítulo
 
 Sección 1
 
@@ -680,7 +680,7 @@ Sección 4
 
 ## Artículo 185
 
-# Título VIII
+# Título Título
 
 ## Artículo 186
 
@@ -740,7 +740,7 @@ I
 
 El
 
-artículo 27 de la Constitución Española
+## artículo 27 de la Constitución Española
 
 reconoce que todas las personas tienen derecho a la educación y establece los principios esenciales sobre los que se sustenta el ejercicio de este derecho fundamental.
 
@@ -862,7 +862,7 @@ Estatuto de Autonomía para Andalucía
 
 , para la regulación y administración de la enseñanza no universitaria, sin perjuicio de lo establecido en el
 
-artículo 27 de la Constitución
+## artículo 27 de la Constitución
 
 , de las facultades que atribuye al Estado el número 30 del apartado 1 del artículo 149 de la norma fundamental y de lo dispuesto en las Leyes Orgánicas 8/1985, de 3 de julio, reguladora del Derecho a la Educación, y 2/2006, de 3 de mayo.
 
@@ -922,7 +922,7 @@ b) Los centros docentes públicos de titularidad de las Corporaciones locales y 
 
 c) Los centros docentes privados concertados, sin perjuicio de la legislación específica aplicable establecida en el
 
-### Capítulo IV del Título IV de la Ley Orgánica 2/2006, de 3 de mayo
+### Capítulo Capítulo
 
 , de Educación, y disposiciones que la desarrollen.
 
@@ -954,7 +954,7 @@ Estatuto de Autonomía para Andalucía
 
 , así como por los principios del sistema educativo español establecidos en el
 
-artículo 1 de la Ley Orgánica 2/2006, de 3 de mayo
+## artículo 1 de la Ley Orgánica 2/2006, de 3 de mayo
 
 , se fundamenta en los siguientes principios:
 
@@ -1032,7 +1032,7 @@ Subir
 
 [Bloque 8: #ti]
 
-# Título I
+# Título Título
 
 La comunidad educativa
 
@@ -1040,7 +1040,7 @@ Subir
 
 [Bloque 9: #ci]
 
-### Capítulo I
+### Capítulo Capítulo
 
 El alumnado
 
@@ -1100,7 +1100,7 @@ i) La accesibilidad y permanencia en el sistema educativo, por lo que recibirán
 
 j) La libertad de expresión y de asociación, así como de reunión en los términos establecidos en el
 
-artículo 8 de la Ley Orgánica 8/1985, de 3 de julio
+## artículo 8 de la Ley Orgánica 8/1985, de 3 de julio
 
 , reguladora del Derecho a la Educación.
 
@@ -1158,7 +1158,7 @@ Subir
 
 2. De conformidad con el apartado 2 del
 
-artículo 7 de la Ley Orgánica 8/1985, de 3 de julio
+## artículo 7 de la Ley Orgánica 8/1985, de 3 de julio
 
 , las asociaciones del alumnado tendrán las finalidades que se establezcan en sus propios estatutos, entre las que se considerarán, al menos, las siguientes:
 
@@ -1172,7 +1172,7 @@ d) Realizar actividades culturales, deportivas y de fomento de la acción cooper
 
 3. De conformidad con el apartado 3 del
 
-artículo 7 de la Ley Orgánica 8/1985, de 3 de julio
+## artículo 7 de la Ley Orgánica 8/1985, de 3 de julio
 
 , la Administración educativa favorecerá el ejercicio del derecho de asociación del alumnado, así como la formación de federaciones y confederaciones.
 
@@ -1198,7 +1198,7 @@ Subir
 
 [Bloque 19: #cii]
 
-### Capítulo II
+### Capítulo Capítulo
 
 El profesorado
 
@@ -1288,7 +1288,7 @@ d) La normativa reguladora de la función pública de la Administración de la J
 
 11. Sin perjuicio de lo recogido en el
 
-artículo 96.2 de la Ley Orgánica 2/2006, de 3 de mayo
+## artículo 96.2 de la Ley Orgánica 2/2006, de 3 de mayo
 
 , en las enseñanzas artísticas superiores, la Administración educativa podrá incluir para el profesorado que las imparta otras exigencias distintas a las contempladas con carácter general para el ejercicio de la docencia.
 
@@ -1302,7 +1302,7 @@ artículos 96 y 97 de la Ley Orgánica 2/2006, de 3 de mayo
 
 14. La Administración educativa podrá incorporar a las enseñanzas artísticas superiores a profesorado, con la categoría de emérito, de acuerdo con lo que a tales efectos se establezca en desarrollo del
 
-artículo 96.4 de la Ley Orgánica 2/2006, de 3 de mayo
+## artículo 96.4 de la Ley Orgánica 2/2006, de 3 de mayo
 
 .
 
@@ -1388,7 +1388,7 @@ Subir
 
 1. La formación inicial del profesorado se ajustará a las necesidades de titulación y de cualificación requeridas por la ordenación general del sistema educativo y se regulará según lo recogido en el
 
-artículo 100 de la Ley Orgánica 2/2006, de 3 de mayo
+## artículo 100 de la Ley Orgánica 2/2006, de 3 de mayo
 
 , y lo que se establezca en la correspondiente normativa de desarrollo.
 
@@ -1484,7 +1484,7 @@ Subir
 
 8. De acuerdo con lo establecido en el
 
-artículo 104.3 de la Ley Orgánica 2/2006, de 3 de mayo
+## artículo 104.3 de la Ley Orgánica 2/2006, de 3 de mayo
 
 , el profesorado debidamente acreditado dispondrá de acceso gratuito a las bibliotecas y museos dependientes de los poderes públicos. Asimismo, podrá hacer uso de los servicios de préstamo de libros y otros materiales que ofrezcan dichas bibliotecas.
 
@@ -1526,7 +1526,7 @@ Subir
 
 [Bloque 39: #ciii]
 
-### Capítulo III
+### Capítulo Capítulo
 
 Personal de administración y servicios y de atención educativa complementaria
 
@@ -1562,7 +1562,7 @@ Subir
 
 [Bloque 42: #civ]
 
-### Capítulo IV
+### Capítulo Capítulo
 
 Las familias
 
@@ -1644,7 +1644,7 @@ Subir
 
 2. De acuerdo con lo establecido en el apartado 2 del
 
-artículo 5 de la Ley Orgánica 8/1985, de 3 de julio
+## artículo 5 de la Ley Orgánica 8/1985, de 3 de julio
 
 , las asociaciones de padres y madres del alumnado tendrán las finalidades que se establezcan en sus propios estatutos, entre las que se considerarán, al menos, las siguientes:
 
@@ -1676,7 +1676,7 @@ Subir
 
 [Bloque 53: #tii]
 
-# Título II
+# Título Título
 
 Las enseñanzas
 
@@ -1684,7 +1684,7 @@ Subir
 
 [Bloque 54: #ci-2]
 
-### Capítulo I
+### Capítulo Capítulo
 
 El currículo
 
@@ -1772,7 +1772,7 @@ Subir
 
 [Bloque 59: #cii-2]
 
-### Capítulo II
+### Capítulo Capítulo
 
 Educación infantil
 
@@ -1786,7 +1786,7 @@ Subir
 
 2. Los objetivos y la ordenación de la etapa son los que se recogen en el
 
-### Capítulo I del Título I de la Ley Orgánica 2/2006, de 3 de mayo
+### Capítulo Capítulo
 
 .
 
@@ -1832,7 +1832,7 @@ Subir
 
 1. De acuerdo con lo recogido en el
 
-artículo 14.7 de la Ley Orgánica 2/2006, de 3 de mayo
+## artículo 14.7 de la Ley Orgánica 2/2006, de 3 de mayo
 
 , la Administración educativa regulará los requisitos que habrán de reunir los centros que impartan el primer ciclo de la educación infantil, relativos, en todo caso, a la relación numérica alumnado-profesorado, a las instalaciones y al número de puestos escolares.
 
@@ -1842,7 +1842,7 @@ Subir
 
 [Bloque 65: #ciii-2]
 
-### Capítulo III
+### Capítulo Capítulo
 
 Educación básica
 
@@ -1874,7 +1874,7 @@ Subir
 
 8. De acuerdo con lo recogido en el
 
-artículo 28.3 de la Ley Orgánica 2/2006, de 3 de mayo
+## artículo 28.3 de la Ley Orgánica 2/2006, de 3 de mayo
 
 , en la educación secundaria obligatoria, los equipos docentes, a que se refiere el artículo 140 de esta Ley, podrán autorizar, con carácter excepcional, la promoción de un alumno o alumna con evaluación negativa en tres materias, cuando consideren que la naturaleza de sus dificultades no le impide seguir con éxito el curso siguiente, que tiene expectativas favorables de recuperación, a partir de las competencias básicas alcanzadas, y que dicha promoción beneficiará su evolución académica.
 
@@ -1952,7 +1952,7 @@ Subir
 
 2. Los objetivos de la educación primaria, su organización, los principios pedagógicos y la evaluación del alumnado se realizarán de conformidad con lo establecido en el
 
-### Capítulo II del Título I de la Ley Orgánica 2/2006, de 3 de mayo
+### Capítulo Capítulo
 
 .
 
@@ -2002,7 +2002,7 @@ Subir
 
 2. Los objetivos de la educación secundaria obligatoria, su organización, los principios pedagógicos y la evaluación, promoción y la obtención del título de Graduado en Educación Secundaria Obligatoria se llevarán a cabo de conformidad con lo establecido en el
 
-### Capítulo III del Título I de la Ley Orgánica 2/2006, de 3 de mayo
+### Capítulo Capítulo
 
 .
 
@@ -2016,7 +2016,7 @@ Subir
 
 2. Asimismo, dispondrán de autonomía para establecer diversificaciones del currículo desde el tercer curso de la etapa. La Administración educativa regulará los programas de diversificación curricular a que se refiere el
 
-artículo 27 de la Ley Orgánica 2/2006, de 3 de mayo
+## artículo 27 de la Ley Orgánica 2/2006, de 3 de mayo
 
 , que estarán orientados a la obtención del título de Graduado en Educación Secundaria Obligatoria.
 
@@ -2044,7 +2044,7 @@ Subir
 
 1. Los centros docentes sostenidos con fondos públicos organizarán programas de cualificación profesional inicial que, en todo caso, contemplarán los módulos de carácter voluntario a que se refiere la letra c) del
 
-artículo 30.3 de la Ley Orgánica 2/2006, de 3 de mayo
+## artículo 30.3 de la Ley Orgánica 2/2006, de 3 de mayo
 
 , cuya superación conduce a la obtención del título de Graduado en Educación Secundaria Obligatoria.
 
@@ -2076,7 +2076,7 @@ Subir
 
 [Bloque 85: #civ-2]
 
-### Capítulo IV
+### Capítulo Capítulo
 
 Bachillerato
 
@@ -2090,7 +2090,7 @@ Subir
 
 2. Los objetivos del bachillerato, su organización, los principios pedagógicos y el acceso, la evaluación, promoción y la obtención del título de Bachiller se realizarán de acuerdo con lo recogido en el
 
-### Capítulo IV del Título I de la Ley Orgánica 2/2006, de 3 de mayo
+### Capítulo Capítulo
 
 .
 
@@ -2150,7 +2150,7 @@ Subir
 
 [Bloque 92: #cv]
 
-### Capítulo V
+### Capítulo Capítulo
 
 Formación profesional
 
@@ -2166,7 +2166,7 @@ Subir
 
 3. Los objetivos de la formación profesional inicial, su organización y el acceso, evaluación y la obtención del título correspondiente se realizarán de acuerdo con lo recogido en el
 
-### Capítulo V del Título I de la Ley Orgánica 2/2006, de 3 de mayo
+### Capítulo Capítulo
 
 .
 
@@ -2272,7 +2272,7 @@ Subir
 
 1. Sin perjuicio de lo establecido en el
 
-artículo 44.3 de la Ley Orgánica 2/2006, de 3 de mayo
+## artículo 44.3 de la Ley Orgánica 2/2006, de 3 de mayo
 
 , la Consejería competente en materia de educación promoverá la colaboración con las universidades, a fin de establecer convalidaciones entre estudios universitarios y estudios de formación profesional inicial de grado superior.
 
@@ -2286,7 +2286,7 @@ Subir
 
 [Bloque 103: #cvi]
 
-### Capítulo VI
+### Capítulo Capítulo
 
 Enseñanzas artísticas
 
@@ -2298,7 +2298,7 @@ Subir
 
 De acuerdo con lo recogido en el
 
-artículo 45.2 de la Ley Orgánica 2/2006, de 3 de mayo
+## artículo 45.2 de la Ley Orgánica 2/2006, de 3 de mayo
 
 , son enseñanzas artísticas las siguientes:
 
@@ -2412,7 +2412,7 @@ Subir
 
 2. La organización, el acceso y la obtención del título profesional correspondiente se llevarán a cabo de acuerdo con lo recogido en la sección primera del
 
-### Capítulo VI del Título I de la Ley Orgánica 2/2006, de 3 de mayo
+### Capítulo Capítulo
 
 .
 
@@ -2434,7 +2434,7 @@ Subir
 
 2. La organización, el acceso y la obtención del título correspondiente se llevarán a cabo de acuerdo con lo recogido en la sección segunda del
 
-### Capítulo VI del Título I de la Ley Orgánica 2/2006, de 3 de mayo
+### Capítulo Capítulo
 
 .
 
@@ -2466,7 +2466,7 @@ Subir
 
 1. La organización de las enseñanzas artísticas superiores, el acceso y la obtención del título correspondiente se realizarán de acuerdo con lo recogido en la sección tercera del
 
-### Capítulo VI del Título I de la Ley Orgánica 2/2006, de 3 de mayo
+### Capítulo Capítulo
 
 .
 
@@ -2650,7 +2650,7 @@ Subir
 
 [Bloque 131: #cvii]
 
-### Capítulo VII
+### Capítulo Capítulo
 
 Enseñanzas especializadas de idiomas
 
@@ -2666,7 +2666,7 @@ Subir
 
 3. Las enseñanzas de los niveles intermedio y avanzado tendrán las características y organización que se recogen en el
 
-### Capítulo VII del Título I de la Ley Orgánica 2/2006, de 3 de mayo
+### Capítulo Capítulo
 
 .
 
@@ -2692,7 +2692,7 @@ Subir
 
 De acuerdo con lo recogido en el
 
-artículo 60.1 de la Ley Orgánica 2/2006, de 3 de mayo
+## artículo 60.1 de la Ley Orgánica 2/2006, de 3 de mayo
 
 , la Administración educativa regulará los requisitos que habrán de reunir las escuelas oficiales de idiomas relativos, en todo caso, a la relación numérica alumnado-profesorado, a las instalaciones y al número de puestos escolares.
 
@@ -2700,7 +2700,7 @@ Subir
 
 [Bloque 135: #cviii]
 
-### Capítulo VIII
+### Capítulo Capítulo
 
 Enseñanzas deportivas
 
@@ -2714,7 +2714,7 @@ Subir
 
 2. La organización de estas enseñanzas y la obtención del título correspondiente se llevarán a cabo de acuerdo con lo recogido en el
 
-### Capítulo VIII del Título I de la Ley Orgánica 2/2006, de 3 de mayo
+### Capítulo Capítulo
 
 .
 
@@ -2722,7 +2722,7 @@ Subir
 
 4. Los centros que impartan las enseñanzas deportivas deberán reunir los requisitos que a tales efectos se establezcan, de conformidad con lo dispuesto en el apartado 6 del
 
-artículo 64 de la Ley Orgánica 2/2006, de 3 de mayo
+## artículo 64 de la Ley Orgánica 2/2006, de 3 de mayo
 
 .
 
@@ -2730,7 +2730,7 @@ Subir
 
 [Bloque 137: #cix]
 
-### Capítulo IX
+### Capítulo Capítulo
 
 Educación permanente de personas adultas
 
@@ -2852,7 +2852,7 @@ Subir
 
 [Bloque 146: #tiii]
 
-# Título III
+# Título Título
 
 Equidad en la educación
 
@@ -2860,7 +2860,7 @@ Subir
 
 [Bloque 147: #ci-3]
 
-### Capítulo I
+### Capítulo Capítulo
 
 Alumnado con necesidades específicas de apoyo educativo
 
@@ -2882,13 +2882,13 @@ Subir
 
 3. Asimismo, se considera alumnado con necesidad específica de apoyo educativo al que presenta altas capacidades intelectuales, de acuerdo con lo establecido en el
 
-artículo 71.2 de la Ley Orgánica 2/2006, de 3 de mayo
+## artículo 71.2 de la Ley Orgánica 2/2006, de 3 de mayo
 
 .
 
 4. La atención al alumnado con necesidades específicas de apoyo educativo se realizará de acuerdo con lo recogido en el
 
-# Título II de la Ley Orgánica 2/2006, de 3 de mayo
+# Título Título
 
 ; en la
 
@@ -2978,7 +2978,7 @@ Subir
 
 [Bloque 157: #cii-3]
 
-### Capítulo II
+### Capítulo Capítulo
 
 Residencias escolares
 
@@ -3004,7 +3004,7 @@ Subir
 
 [Bloque 160: #ciii-3]
 
-### Capítulo III
+### Capítulo Capítulo
 
 Gratuidad, becas y ayudas
 
@@ -3052,7 +3052,7 @@ Subir
 
 [Bloque 164: #tiv]
 
-# Título IV
+# Título Título
 
 Centros docentes
 
@@ -3060,7 +3060,7 @@ Subir
 
 [Bloque 165: #ci-4]
 
-### Capítulo I
+### Capítulo Capítulo
 
 Autonomía pedagógica, organizativa y de gestión
 
@@ -3180,7 +3180,7 @@ Subir
 
 [Bloque 172: #cii-4]
 
-### Capítulo II
+### Capítulo Capítulo
 
 La función directiva
 
@@ -3196,11 +3196,11 @@ Subir
 
 3. La selección y nombramiento del director o directora se realizará de acuerdo con lo establecido en el
 
-### Capítulo IV del Título V de la Ley Orgánica 2/2006, de 3 de mayo
+### Capítulo Capítulo
 
 . Los restantes miembros del equipo directivo serán nombrados y cesados por la Administración educativa a propuesta del director o directora del centro, previa comunicación al Claustro de Profesorado y al Consejo Escolar del mismo. La propuesta se realizará de forma que permita la presencia equilibrada entre hombres y mujeres en los términos previstos en el
 
-artículo 140 de la Ley 18/2003, de 29 de diciembre
+## artículo 140 de la Ley 18/2003, de 29 de diciembre
 
 , por la que se aprueban medidas fiscales y administrativas.
 
@@ -3248,7 +3248,7 @@ Subir
 
 1. De conformidad con lo dispuesto en el
 
-artículo 139 de la Ley Orgánica 2/2006, de 3 de mayo
+## artículo 139 de la Ley Orgánica 2/2006, de 3 de mayo
 
 , el ejercicio de cargos directivos, y en especial del cargo de director o directora, será retribuido de forma diferenciada, en consideración a la responsabilidad y dedicación exigidas, de acuerdo con las cuantías que para los complementos establecidos al efecto fije el Consejo de Gobierno.
 
@@ -3266,7 +3266,7 @@ Subir
 
 [Bloque 177: #ciii-4]
 
-### Capítulo III
+### Capítulo Capítulo
 
 Órganos colegiados de gobierno y de coordinación docente
 
@@ -3296,7 +3296,7 @@ Ley Orgánica 8/1985, de 3 de julio
 
 . En todo caso, la elección de los representantes de los distintos sectores de la comunidad educativa en el Consejo Escolar de los centros docentes públicos se realizará de forma que permita la presencia equilibrada de hombres y mujeres, de acuerdo con lo establecido en el
 
-artículo 140 de la Ley 18/2003, de 29 de diciembre
+## artículo 140 de la Ley 18/2003, de 29 de diciembre
 
 .
 
@@ -3392,7 +3392,7 @@ Subir
 
 [Bloque 188: #tv]
 
-# Título V
+# Título Título
 
 Redes y zonas educativas. Descentralización y modernización administrativa
 
@@ -3400,7 +3400,7 @@ Subir
 
 [Bloque 189: #ci-5]
 
-### Capítulo I
+### Capítulo Capítulo
 
 Redes educativas
 
@@ -3420,7 +3420,7 @@ Subir
 
 [Bloque 191: #cii-5]
 
-### Capítulo II
+### Capítulo Capítulo
 
 Descentralización educativa
 
@@ -3542,7 +3542,7 @@ Subir
 
 [Bloque 203: #ciii-5]
 
-### Capítulo III
+### Capítulo Capítulo
 
 Administración educativa electrónica
 
@@ -3566,7 +3566,7 @@ Subir
 
 [Bloque 206: #tvi]
 
-# Título VI
+# Título Título
 
 Evaluación del sistema educativo
 
@@ -3574,7 +3574,7 @@ Subir
 
 [Bloque 207: #ci-6]
 
-### Capítulo I
+### Capítulo Capítulo
 
 Requisitos, finalidades y ámbitos
 
@@ -3600,7 +3600,7 @@ Subir
 
 [Bloque 210: #cii-6]
 
-### Capítulo II
+### Capítulo Capítulo
 
 Evaluación del sistema educativo y de los centros docentes
 
@@ -3628,7 +3628,7 @@ Subir
 
 1. La Agencia Andaluza de Evaluación Educativa realizará las evaluaciones generales de diagnóstico, a que se refiere el
 
-artículo 144 de la Ley Orgánica 2/2006, de 3 de mayo
+## artículo 144 de la Ley Orgánica 2/2006, de 3 de mayo
 
 .
 
@@ -3668,7 +3668,7 @@ Subir
 
 [Bloque 216: #ciii-6]
 
-### Capítulo III
+### Capítulo Capítulo
 
 La Agencia Andaluza de Evaluación Educativa
 
@@ -3680,7 +3680,7 @@ Subir
 
 1. Se crea, con la denominación de Agencia Andaluza de Evaluación Educativa, una agencia administrativa de la Administración de la Junta de Andalucía, a la que le corresponde ejercer, en el ámbito de la Comunidad Autónoma, las funciones establecidas en el
 
-# Título VI de la Ley Orgánica 2/2006, de 3 de mayo
+# Título Título
 
 , y en la presente Ley.
 
@@ -3790,7 +3790,7 @@ Subir
 
 [Bloque 226: #tvii]
 
-# Título VII
+# Título Título
 
 Cooperación de otras administraciones y entidades
 
@@ -3798,7 +3798,7 @@ Subir
 
 [Bloque 227: #ci-7]
 
-### Capítulo I
+### Capítulo Capítulo
 
 Cooperación entre la Administración educativa y las Corporaciones locales
 
@@ -3924,7 +3924,7 @@ Subir
 
 [Bloque 237: #cii-7]
 
-### Capítulo II
+### Capítulo Capítulo
 
 Cooperación entre la Administración educativa y las universidades
 
@@ -3968,7 +3968,7 @@ Subir
 
 [Bloque 239: #ciii-7]
 
-### Capítulo III
+### Capítulo Capítulo
 
 Cooperación entre administraciones educativas
 
@@ -3980,7 +3980,7 @@ Subir
 
 La Administración educativa andaluza podrá concertar con otras administraciones educativas el establecimiento de criterios y objetivos comunes con el fin de mejorar la calidad del sistema educativo y garantizar la equidad, así como participar en los programas de cooperación territorial que promueva la Administración General del Estado para alcanzar los objetivos educativos a los que se refiere el
 
-artículo 9 de la Ley Orgánica 2/2006, de 3 de mayo
+## artículo 9 de la Ley Orgánica 2/2006, de 3 de mayo
 
 .
 
@@ -3988,7 +3988,7 @@ Subir
 
 [Bloque 241: #civ-3]
 
-### Capítulo IV
+### Capítulo Capítulo
 
 Colaboración de otras entidades
 
@@ -4006,7 +4006,7 @@ Subir
 
 1. El voluntariado en el ámbito educativo tendrá como principios básicos los recogidos en el
 
-artículo 4 de la Ley 7/2001, de 12 de julio
+## artículo 4 de la Ley 7/2001, de 12 de julio
 
 , del Voluntariado, y se orientará preferentemente a la consecución de las siguientes finalidades:
 
@@ -4126,7 +4126,7 @@ Subir
 
 [Bloque 255: #tviii]
 
-# Título VIII
+# Título Título
 
 Gasto público en Educación
 
@@ -4378,7 +4378,7 @@ Ley 4/1984, de 9 de enero
 
 1. Al
 
-artículo 6.1 de la Ley 4/1984, de 9 de enero
+## artículo 6.1 de la Ley 4/1984, de 9 de enero
 
 , de Consejos Escolares, se le añaden nuevas letras k) y l) con el siguiente texto:
 
@@ -4388,7 +4388,7 @@ l) El Instituto Andaluz de la Mujer, mediante la representación designada por e
 
 2. El
 
-artículo 10.1 de la Ley 4/1984, de 9 de enero
+## artículo 10.1 de la Ley 4/1984, de 9 de enero
 
 , tendrá la siguiente redacción en su letra b):
 
@@ -4396,7 +4396,7 @@ artículo 10.1 de la Ley 4/1984, de 9 de enero
 
 3. Al
 
-artículo 10.1 de la Ley 4/1984, de 9 de enero
+## artículo 10.1 de la Ley 4/1984, de 9 de enero
 
 , se le añaden nuevas letras e) y f), con el siguiente texto:
 
@@ -4406,7 +4406,7 @@ f) El Instituto Andaluz de la Mujer, mediante la representación designada por e
 
 4. El
 
-artículo 17.1 de la Ley 4/1984, de 9 de enero
+## artículo 17.1 de la Ley 4/1984, de 9 de enero
 
 , tendrá la siguiente redacción en su letra b):
 
@@ -4414,7 +4414,7 @@ artículo 17.1 de la Ley 4/1984, de 9 de enero
 
 5. Al
 
-artículo 17.1 de la Ley 4/1984, de 9 de enero
+## artículo 17.1 de la Ley 4/1984, de 9 de enero
 
 , se le añade una nueva letra e), con el siguiente texto:
 
@@ -4422,7 +4422,7 @@ artículo 17.1 de la Ley 4/1984, de 9 de enero
 
 6. El
 
-artículo 16 de la Ley 4/1984, de 9 de enero
+## artículo 16 de la Ley 4/1984, de 9 de enero
 
 , queda redactado de la siguiente forma:
 

@@ -547,7 +547,7 @@ aplicación a los centros docentes públicos que impartan en-
 señanzas de régimen especial lo dispuesto en los Títulos I, II, 
 III y IV, en los artículos 24 y 25 y en los Capítulos III y IV del 
 
-# Título V, a excepción del artículo 50, del Reglamento que se 
+# Título Título
 aprueba mediante el presente Decreto, así como en la disposi-
 ción transitoria tercera del presente Decreto.
 
@@ -629,10 +629,10 @@ El presente Reglamento será de aplicación a los institutos
 de educación secundaria dependientes de la Consejería com-
 petente en materia de educación.
 
-# Título I
+# Título Título
 EL ALUMNADO
 
-### Capítulo I
+### Capítulo Capítulo
 Deberes y derechos
 
 ## Artículo 2. Deberes del alumnado.
@@ -737,7 +737,7 @@ otras actividades análogas en las que éste podrá participar.
 la forma, los espacios y lugares donde se podrán fijar escritos 
 del alumnado en los que ejercite su libertad de expresión.
 
-### Capítulo II
+### Capítulo Capítulo
 Participación del alumnado
 
 ## Artículo 5. Cauces de participación.
@@ -811,7 +811,7 @@ Censo de Entidades Colaboradoras de la Enseñanza, a que
 se refiere el Decreto 71/2009, de 31 de marzo, por el que se 
 regula el Censo de Entidades Colaboradoras de la Enseñanza.
 
-# Título II
+# Título Título
 EL PROFESORADO
 CAPÍTULO ÚNICO
 Funciones, deberes y derechos del profesorado
@@ -954,7 +954,7 @@ como en aquellos otros que éste inicie en defensa de sus de-
 rechos frente a actos que atenten contra su integridad física o 
 provoquen daños en sus bienes.
 
-# Título III
+# Título Título
 LAS FAMILIAS
 CAPÍTULO ÚNICO
 Participación en el proceso educativo
@@ -1046,7 +1046,7 @@ madres y padres del alumnado con los equipos directivos de
 los centros, y la realización de acciones formativas en las que 
 participen las familias y el profesorado.
 
-# Título IV
+# Título Título
 EL PERSONAL DE ADMINISTRACIÓN Y SERVICIOS
 Y DE ATENCIÓN EDUCATIVA COMPLEMENTARIA
 CAPÍTULO ÚNICO
@@ -1078,10 +1078,10 @@ ción secundaria.
 jurídica y psicológica gratuita por hechos que se deriven de su 
 ejercicio profesional en los términos recogidos en el artículo 11.5.
 
-# Título V 
+# Título Título
 EL CENTRO DOCENTE
 
-### Capítulo I
+### Capítulo Capítulo
 Disposiciones generales
 
 ## Artículo 17. Carácter y enseñanzas de los institutos.
@@ -1138,7 +1138,7 @@ educación secundaria con la misma denominación específica.
 3. La denominación del instituto figurará en la fachada 
 del edificio, en lugar visible.
 
-### Capítulo II
+### Capítulo Capítulo
 Autonomía pedagógica, organizativa y de gestión
 
 ## Artículo 21. Disposiciones generales.
@@ -1195,7 +1195,7 @@ p) y q) del artículo 23.3.
 gará a todo el personal del instituto y vinculará a la comunidad 
 educativa del mismo. Se podrá actualizar o modificar, en su 
 caso, tras los procesos de autoevaluación a que se refiere el 
-artículo 28 o a propuesta del director o directora en función de 
+## artículo 28 o a propuesta del director o directora en función de
 su proyecto de dirección.
 5. El Plan de Centro será público y se facilitará su conoci-
 miento por la comunidad educativa y la ciudadanía en general.
@@ -1566,7 +1566,7 @@ educativa.
 acuerdo con las programaciones didácticas de las enseñanzas 
 que imparta.
 
-### Capítulo III
+### Capítulo Capítulo
 Normas de convivencia
 Sección 1.ª Disposiciones generales
 
@@ -1873,7 +1873,7 @@ alumna.
 Cuando la corrección o medida disciplinaria a impo-
 ner sea la suspensión del derecho de asistencia al centro o 
 cualquiera de las contempladas en las letras a), b), c) y d) del 
-artículo 38.1 de este Reglamento, y el alumno o alumna sea 
+## artículo 38.1 de este Reglamento, y el alumno o alumna sea
 menor de edad, se dará audiencia a sus padres, madres o 
 representantes legales.
 Asimismo, para la imposición de las correcciones previs-
@@ -1996,7 +1996,7 @@ la vía administrativa, deberá dictarse y notificarse en el plazo
 máximo de tres meses. Transcurrido dicho plazo sin que re-
 caiga resolución, se podrá entender desestimado el recurso.
 
-### Capítulo IV
+### Capítulo Capítulo
  Órganos colegiados de gobierno
 
 ## Artículo 48. Órganos colegiados.
@@ -2080,7 +2080,7 @@ secretaría del Consejo Escolar, con voz y sin voto.
 tores de la comunidad educativa en el Consejo Escolar se rea-
 lizará de forma que permita la representación equilibrada de 
 hombres y mujeres, de conformidad con lo establecido en el 
-artículo 19.2 de la Ley 9/2007, de 22 de octubre.
+## artículo 19.2 de la Ley 9/2007, de 22 de octubre.
 4. Una vez constituido el Consejo Escolar del instituto, éste 
 designará una persona que impulse medidas educativas que fo-
 menten la igualdad real y efectiva entre hombres y mujeres.
@@ -2628,7 +2628,7 @@ las sesiones del Claustro de Profesorado será obligatoria para
 todos sus miembros, considerándose la falta injustificada a los 
 mismos como un incumplimiento del horario laboral.
 
-### Capítulo V
+### Capítulo Capítulo
 El equipo directivo
 
 ## Artículo 70. Funciones del equipo directivo.
@@ -3019,7 +3019,7 @@ la jefatura de estudios. No obstante, la jefatura de estudios
 adjunta desarrollará sus competencias en la etapa educativa 
 que se le asigne.
 
-### Capítulo VI
+### Capítulo Capítulo
 Órganos de coordinación docente
 
 ## Artículo 82. Órganos de coordinación docente.
@@ -3611,7 +3611,7 @@ cualquiera de las circunstancias señaladas en los párrafos b)
 y c) del apartado 1, el nombramiento no podrá recaer en el 
 mismo profesor o profesora.
 
-# Título VI 
+# Título Título
 EVALUACIÓN DE LOS INSTITUTOS
 CAPÍTULO ÚNICO
 Evaluación

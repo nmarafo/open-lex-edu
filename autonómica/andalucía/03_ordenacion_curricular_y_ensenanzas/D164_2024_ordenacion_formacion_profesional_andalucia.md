@@ -31,229 +31,115 @@ relaciones:
 
 ## Preámbulo
 
-00005827
-Sumario
-Número 168 - Jueves, 29 de agosto de 2024 - Año XLVI
+00306790
+ Número 168 - Jueves, 29 de agosto de 2024
+página 49840/1
 BOJABOJA
-CONSEJERÍA DE LA PRESIDENCIA, INTERIOR, DIÁLOGO SOCIAL Y SIMPLIFICACIÓN ADMINISTRATIVA
-Secretaría General Técnica
-https://www.juntadeandalucia.es/eboja
-Junta de Andalucía
 1. Disposiciones generales
 CONSEJERÍA DE AGRICULTURA, PESCA, AGUA 
 Y DESARROLLO  RURAL
-Resolución de 23 de agosto de 2024, de la Dirección General de 
-Ayudas Directas y de Mercados, por la que se establecen medidas 
-excepcionales para la campaña 2024 en la gestión, seguimiento y 
-control de la PAC.
-texto núm. 49840 - 3 páginas
-2. Autoridades y personal
-2.1. Nombramientos, situaciones e incidencias
-CONSEJERÍA DE DESARROLLO EDUCATIVO 
-Y FORMACIÓN  PROFESIONAL
-Resolución de 19 de agosto de 2024, de la Dirección General del 
-Profesorado y Gestión de Recursos Humanos, por la que se nombra 
-a la Coordinadora de la Red Andaluza «Escuela: Espacio de Paz».
-texto núm. 49820 - 2 páginas
-CONSEJERÍA DE SALUD Y CONSUMO
-Resolución de 23 de agosto de 2024, de la Dirección General de 
-Personal del Servicio Andaluz de Salud, por la que, a propuesta de la 
-comisión de valoración que ha valorado el concurso de traslado para 
-la provisión de plazas básicas vacantes de Facultativo/a Especialista 
-de Área Pediatría, se aprueba la resolución definitiva de dicho 
-concurso.
-texto núm. 49801 - 9 páginas
-00005827
+Resolución de 23 de agosto de 2024, de la Dirección General de Ayudas 
+Directas y de Mercados, por la que se establecen medidas excepcionales para 
+la campaña 2024 en la gestión, seguimiento y control de la PAC.
+La Unión Europea aprobó en el año 2021 el Reglamento (UE) núm. 2021/2115 del 
+Parlamento Europeo y del Consejo, de 2 de diciembre de 2021, por el que se establecen 
+normas en relación con la ayuda a los planes estratégicos que deben elaborar los Estados 
+miembros en el marco de la política agrícola común (planes estratégicos de la PAC), 
+financiada con cargo al Fondo Europeo Agrícola de Garantía (FEAGA) y al Fondo Europeo 
+Agrícola de Desarrollo Rural (FEADER), y por el que se derogan los Reglamentos (UE) 
+núm. 1305/2013 y (UE) núm. 1307/2013.
+Con base en este reglamento, se ha procedido a la elaboración del Plan Estratégico 
+Nacional de la Política Agrícola Común (PAC) del Reino de España 2023-2027, aprobado 
+por la Comisión el 31 de agosto de 2022, que ha supuesto un importante cambio de 
+enfoque de la PAC. Con el fin de poder realizar una correcta implantación y gestión 
+del conjunto de intervenciones que se incluyen en este Plan Estratégico Nacional se 
+publicaron una serie de reales decretos.
+El Real Decreto 408/2024, de 23 de abril, por el que se modifica el Real Decreto 
+1055/2021, de 30 de noviembre, por el que se establecen las bases reguladoras para 
+la concesión directa de las subvenciones estatales para la renovación del parque 
+nacional de maquinaria agraria, en su disposición final primera, modifica el Real Decreto 
+1048/2022, de 27 de diciembre, sobre la aplicación, a partir de 2023, de las intervenciones 
+en forma de pagos directos y el establecimiento de requisitos comunes en el marco del 
+Plan Estratégico de la Política Agrícola Común, y la regulación de la solicitud única del 
+sistema integrado de gestión y control, incorporando una nueva disposición transitoria 
+segunda, sobre adaptación de diversos plazos y condiciones para la campaña 2024.
+En efecto, para el año 2024 el plazo de presentación de la solicitud ha finalizado el 31 
+de mayo de 2024, inclusive, y el plazo para modificar o incluir nuevas intervenciones en 
+forma de pagos directos o de desarrollo rural, añadir parcelas individuales o derechos de 
+pago individuales siempre que se cumplan los requisitos fijados en la intervención de que 
+se trate, ha finalizado el 15 de junio, inclusive.
+En la Comunidad Autónoma de Andalucía se publicó en el BOJA número 23, de 1 
+de febrero de 2024, la Resolución de 25 de enero de 2024, de la Dirección General de 
+Ayudas Directas y de Mercados, por la que se dispone para el año 2024 las ayudas 
+que se incluyen en la solicitud única, al amparo del Real Decreto 1048/2022, de 27 de 
+diciembre y de la Orden de 24 de marzo de 2023, así como las particularidades de la 
+campaña 2024.
+A mayor abundamiento, algunos de los plazos y condiciones establecidos se han 
+reducido en la campaña 2024 por causas derivadas de la interrupción de la aplicación 
+SGA durante los días 19 al 22 de agosto, debido a tareas de mantenimiento de la base 
+de datos y mejoras, lo que afectará a los diferentes módulos de SGA. Estas tareas se 
+enmarcan en la planificación de mantenimiento de la aplicación establecida por el servicio 
+de informática de la Consejería de Agricultura, Pesca, Agua y Desarrollo Rural. 
+Las Organizaciones Profesionales Agrarias han puesto de manifiesto que mediante 
+esta aplicación SGA, entre otras muchas gestiones, se presentan las alegaciones a los 
+controles por monitorización y a controles preliminares o administrativos, cuyo plazo 
+finaliza el 31 de agosto, por lo que si están casi una semana sin la herramienta activa, no 
+00306790
  Número 168 - Jueves, 29 de agosto de 2024
-sumario - página 2 
+página 49840/2
 BOJABOJA
-CONSEJERÍA DE INCLUSIÓN SOCIAL, JUVENTUD, FAMILIAS E  IGUALDAD
-Resolución de 22 de agosto de 2024, de la Dirección General del Instituto Andaluz de 
-la Juventud, por la que se adjudica el puesto de trabajo de libre designación convocado 
-por la resolución que se cita.
-texto núm. 49781 - 1 página
-CONSEJERÍA DE SOSTENIBILIDAD Y MEDIO AMBIENTE
-Orden de 14 de agosto de 2024, por la que se dispone el nombramiento de Lucía 
-María García-Borbolla Escudero como personal eventual en el puesto de Asesoría de 
-Programas de la Secretaría de la Consejera.
-texto núm. 49821 - 1 página
-CONSEJERÍA DE JUSTICIA, ADMINISTRACIÓN LOCAL Y FUNCIÓN PÚBLICA
-Resolución de 16 de agosto de 2024, de la Viceconsejería, por la que se adjudica 
-puesto de trabajo de libre designación convocado por resolución que se cita.
-texto núm. 49800 - 1 página
-2.2. Oposiciones, concursos y otras convocatorias
-CONSEJERÍA DE DESARROLLO EDUCATIVO Y  FORMACIÓN  PROFESIONAL
-Resolución de 23 de agosto de 2024, de la Dirección General del Profesorado y 
-Gestión de Recursos Humanos, por la que se prorroga el plazo de resolución en el 
-procedimiento de la adjudicación del puesto de libre designación, convocado por la 
-resolución que se cita.
-texto núm. 49828 - 1 página
-Resolución de 23 de agosto de 2024, de la Dirección General del Profesorado y 
-Gestión de Recursos Humanos, por la que se prorroga el plazo de resolución en 
-el procedimiento de la adjudicación del puesto de libre designación convocado por 
-resolución que se cita.
-texto núm. 49830 - 1 página
-CONSEJERÍA DE SALUD Y CONSUMO
-Resolución de 23 de agosto de 2024, de la Dirección General de Personal del Servicio 
-Andaluz de Salud, por la que se convoca mediante el sistema de concurso de méritos, 
-la cobertura del puesto de cargo intermedio de Jefe/a de Sección Facultativo de 
-Cardiología en el Hospital Universitario Virgen de las Nieves de Granada.
-texto núm. 49802 - 13 páginas
-Resolución de 23 de agosto de 2024, de la Dirección General de Personal del Servicio 
-Andaluz de Salud, por la que se convoca, mediante el sistema de concurso de méritos, 
-la cobertura del puesto de cargo intermedio de Jefe/a de Sección Facultativo de 
-Oftalmología en el Área de Gestión Sanitaria Sur de Sevilla.
-texto núm. 49804 - 13 páginas
-00005827
+van a poder realizar con normalidad dichos trámites en los plazos requeridos, y por ello, 
+solicitan una ampliación de los plazos establedidos en la normativa aplicable.
+Por todo lo anterior, procede ampliar el plazo inicialmente previsto para adaptar la 
+solicitud única de parcelas sobre las cuales la administración haya notificado controles 
+preliminares o controles administrativos, que estará abierto en la campaña 2024 hasta el 
+10 de septiembre.
+Asimismo, con respecto al sistema de monitorización de superficies, los beneficiarios 
+a los que se haya comunicado en la campaña 2024 la información sobre las hectáreas 
+en las que no se cumplan las condiciones de subvencionabilidad pertinentes y sobre la 
+presencia detectada de superficie no subvencionable, uso de la tierra no subvencionable 
+o cambio en la categoría de la superficie agrícola, podrán adaptar hasta el 10 de 
+septiembre las solicitudes de ayuda, o aportar pruebas adicionales.
+Por último, por los motivos expuestos, y al amparo de lo establecido en el artículo 
+113.1 del Real Decreto 1048/2022, de 27 de diciembre, la Comunidad Autónoma de 
+Andalucía entiende oportuno ampliar igualmente la fecha límite para la retirada total o 
+parcial de solicitudes de ayuda por parte de los agricultores hasta el 10 de septiembre.
+En virtud de lo expuesto, y en uso de las atribuciones que me confiere la legislación 
+vigente y en particular los artículos 8 y 9 del Decreto 70/2016, de 1 de marzo, por el 
+que se establece la organización y el régimen de funcionamiento del organismo pagador 
+de los gastos financiados por el Fondo Europeo de Garantía y por el Fondo Europeo 
+Agrícola de Desarrollo Rural en la Comunidad Autónoma de Andalucía y se designa al 
+Organismo de Certificación, y el artículo 13 del Decreto 157/2022, de 9 de agosto, por el 
+que se establece la estructura orgánica de la Consejería de Agricultura, Pesca, Agua y 
+Desarrollo Rural,
+RESUELVO
+Primero. En la campaña 2024, el plazo para adaptar la solicitud única de parcelas 
+sobre las cuales la administración haya notificado controles preliminares o controles 
+administrativos, estará abierto hasta el 10 de septiembre.
+Segundo. En la campaña 2024, los beneficiarios a los que tras la realización de los 
+controles por monitorización se les haya comunicado la información sobre las hectáreas 
+en las que no se cumplan las condiciones de subvencionabilidad pertinentes y sobre la 
+presencia detectada de superficie no subvencionable, uso de la tierra no subvencionable 
+o cambio en la categoría de la superficie agrícola, podrán adaptar hasta el 10 de 
+septiembre las solicitudes de ayuda, o aportar pruebas adicionales.
+Tercero. En la campaña 2024, se establece el 10 de septiembre como fecha límite 
+para la retirada total o parcial de solicitudes de ayuda por parte de los agricultores.
+Cuarto. Publicar la presente resolución en el Boletín Oficial de la Junta de Andalucía 
+para su general conocimiento, de conformidad con el artículo 45 de la Ley 39/2015, de 1 
+de octubre, del Procedimiento Administrativo Común de las Administraciones Públicas, y 
+demás normativa aplicable.
+Quinto. Contra esta resolución se podrá interponer recurso potestativo de reposición 
+ante la persona titular de la Dirección General de Ayudas Directas y de Mercados, en el 
+plazo de un mes contado a partir del día siguiente a aquél en que tenga lugar la publicación 
+del presente acto, o interponer directamente el recurso contencioso-administrativo ante 
+los órganos judiciales de este orden jurisdiccional, en el plazo de dos meses contados 
+desde el día siguiente a su publicación, todo ello de conformidad con lo establecido en 
+00306790
  Número 168 - Jueves, 29 de agosto de 2024
-sumario - página 3 
+página 49840/3
 BOJABOJA
-Resolución de 26 de agosto de 2024, de la Dirección General de Personal del Servicio 
-Andaluz de Salud, por la que se anuncia convocatoria pública para cubrir puesto de 
-trabajo de carácter directivo de Subdirección Gerencia en el Hospital Universitario 
-Reina Sofía, de Córdoba.
-texto núm. 49809 - 3 páginas
-CONSEJERÍA DE SOSTENIBILIDAD Y MEDIO AMBIENTE
-Resolución de 22 de agosto de 2024, de la Viceconsejería, por la que se acuerda la 
-ampliación del plazo establecido para efectuar el nombramiento del puesto de trabajo 
-de libre designación convocado por resolución que se cita.
-texto núm. 49823 - 2 páginas
-CONSEJERÍA DE JUSTICIA, ADMINISTRACIÓN LOCAL Y FUNCIÓN PÚBLICA
-Resolución de 23 de agosto de 2024, de la Dirección General de Recursos Humanos 
-y Función Pública, por la que se aprueban los listados provisionales de personas 
-aspirantes admitidas y excluidas, con expresión de las causas de exclusión, relativos al 
-proceso selectivo para la cobertura de vacantes correspondientes al Grupo I del personal 
-laboral incluido en el Convenio Colectivo de la Administración de la Junta de Andalucía, 
-mediante concurso de promoción, convocado por Resolución de 24 de junio de 2024.
-texto núm. 49806 - 1 página
-3. Otras disposiciones
-CONSEJERÍA DE ECONOMÍA, HACIENDA Y FONDOS EUROPEOS
-Resolución de 27 de junio de 2024, de la Dirección General de Tributos, Financiación, 
-Relaciones Financieras con las Corporaciones Locales y Juego, por la que se autorizan 
-las tarifas de abastecimiento de agua potable del municipio de El Ejido (Almería). 
-(PP. 89 8 8/2024).
-texto núm. 47540 - 4 páginas
-CONSEJERÍA DE DESARROLLO EDUCATIVO Y  FORMACIÓN  PROFESIONAL
-Resolución de 23 de agosto de 2024, de la Secretaría General Técnica, por la que 
-se acuerda la remisión del expediente administrativo al Juzgado de lo Contencioso-
-Administrativo núm. 5 de Sevilla, y se emplaza a los terceros interesados.
-texto núm. 49825 - 1 página
-CONSEJERÍA DE TURISMO, CULTURA Y DEPORTE
-Resolución de 21 de agosto de 2024, de la Dirección General de Sistemas y Valores 
-del Deporte, por la que se dispone la publicación del Reglamento Electoral de la 
-Federación Andaluza de Balonmano.
-texto núm. 49792 - 21 páginas
-Corrección de errores de la Resolución de 6 de junio de 2024, de la Secretaría 
-General para el Deporte, sobre la Relación de Deporte de Rendimiento de Andalucía, 
-correspondiente al primer listado de 2024 (BOJA núm. 113, de 12 de junio de 2024).
-texto núm. 49808 - 1 página
-00005827
- Número 168 - Jueves, 29 de agosto de 2024
-sumario - página 4 
-BOJABOJA
-CONSEJERÍA DE INCLUSIÓN SOCIAL, JUVENTUD, FAMILIAS E  IGUALDAD
-Resolución de 30 de julio de 2024, de la Dirección Gerencia de la Agencia de Servicios 
-Sociales y Dependencia de Andalucía, por la que se anuncia la interposición de 
-recurso contencioso-administrativo, se ordena la remisión del expediente requerido 
-por el Juzgado de lo Contencioso-Administrativo número 4 de Cádiz y se emplaza a 
-terceros interesados.
-texto núm. 49799 - 1 página
-CONSEJERÍA DE JUSTICIA, ADMINISTRACIÓN LOCAL Y FUNCIÓN PÚBLICA
-Orden de 20 de agosto de 2024, por la que se aprueba el replanteo de la línea 
-delimitadora entre los términos municipales de Motril y de Salobreña, ambos en la 
-provincia de Granada, y se establecen sus datos identificativos.
-texto núm. 49803 - 4 páginas
-Resolución de 20 de agosto de 2024, de la Secretaría General de Administración Local, 
-por la que se suprime en la Diputación de Málaga el puesto de trabajo denominado 
-Secretaría-Intervención (puesto de colaboración).
-texto núm. 49798 - 1 página
-Resolución de 23 de agosto de 2024, de la Secretaría General de Administración Local, 
-por la que se acuerda la reclasificación del puesto de trabajo del Ayuntamiento de 
-Aljaraque (Huelva) reservado a funcionarios de Administración Local con habilitación 
-de carácter nacional.
-texto núm. 49814 - 2 páginas
-5. Anuncios
-5.2. Otros anuncios oficiales
-CONSEJERÍA DE AGRICULTURA, PESCA, AGUA Y DESARROLLO  RURAL
-Anuncio de 23 de agosto de 2024, de la Delegación Territorial de Agricultura, Pesca, 
-Agua y Desarrollo Rural en Granada, por el que se notifican los actos administrativos 
-relativos a procedimientos sancionadores en materia de agricultura y pesca que se 
-citan.
-texto núm. 49841 - 2 páginas
-Anuncio de 23 de agosto de 2024, de la Delegación Territorial de Agricultura, Pesca, 
-Agua y Desarrollo Rural en Málaga, de acuerdo de inicio en procedimiento sancionador 
-en materia de aguas.
-texto núm. 49805 - 1 página
-CONSEJERÍA DE SALUD Y CONSUMO
-Anuncio de 23 de agosto de 2024, de la Delegación Territorial de Salud y Consumo en 
-Cádiz, por el que se notifican actos administrativos de procedimientos sancionadores 
-en materia de salud pública.
-texto núm. 49797 - 1 página
-00005827
- Número 168 - Jueves, 29 de agosto de 2024
-sumario - página 5 
-BOJABOJA
-Anuncio de 20 de agosto de 2024, de la Delegación Territorial de Salud y Consumo en 
-Granada, por el que se notifica acuerdo de iniciación de procedimiento sancionador en 
-materia de salud pública.
-texto núm. 49813 - 1 página
-Anuncio de 6 de agosto de 2024, de la Delegación Territorial de Salud y Consumo 
-en Huelva, por el que se publica la distribución definitiva de la cuantía máxima entre 
-los distintos créditos presupuestarios para la provincia de Huelva en la convocatoria 
-realizada por Resolución de 30 de abril de 2024, de la Dirección General de Consumo, 
-por la que se convocan subvenciones, en régimen de concurrencia competitiva, a 
-Entidades Locales de Andalucía para la financiación de actuaciones de mantenimiento 
-y funcionamiento de los servicios locales de consumo en la Comunidad Autónoma de 
-Andalucía, para el ejercicio 2024 (BOJA núm. 88, de 8 de mayo)
-texto núm. 49816 - 1 página
-Anuncio de 7 de agosto de 2024, de la Delegación Territorial de Salud y Consumo en 
-Huelva, por el que se publica relación de actos administrativos relativos a procedimientos 
-sancionadores en materia de salud pública.
-texto núm. 49817 - 1 página
-CONSEJERÍA DE TURISMO, CULTURA Y DEPORTE
-Anuncio de 5 de agosto de 2024, de la Delegación Territorial de Turismo, Cultura y 
-Deporte en Granada, por el que se notifica resolución de procedimiento sancionador 
-que se cita.
-texto núm. 49810 - 1 página
-Anuncio de 20 de agosto de 2024, de la Delegación Territorial de Turismo, Cultura y 
-Deporte en Granada, por el que se notifica resolución de procedimiento sancionador 
-que se cita.
-texto núm. 49811 - 1 página
-CONSEJERÍA DE FOMENTO, ARTICULACIÓN DEL TERRITORIO Y VIVIENDA
-Anuncio de 21 de agosto de 2024, de la Dirección General de Movilidad y Transportes, 
-sobre notificación de incoación de expediente sancionador en materia de transportes. 
-Empresa de transporte.
-texto núm. 49827 - 2 páginas
-CONSEJERÍA DE INCLUSIÓN SOCIAL, JUVENTUD, FAMILIAS E  IGUALDAD
-Acuerdo de 22 de agosto de 2024, de la Delegación Territorial de Inclusión Social, 
-Juventud, Familias e Igualdad en Córdoba, por el que se ordena la notificación por 
-edicto del acuerdo de inicio y trámite de audiencia en el procedimiento de regulación 
-de relaciones familiares.
-texto núm. 49831 - 1 página
-Anuncio de 23 de agosto de 2024, de la Delegación Territorial de Inclusión Social, 
-Juventud, Familias e Igualdad en Almería, para la notificación por edicto del acuerdo 
-que se cita.
-texto núm. 49812 - 1 página
-00005827
- Número 168 - Jueves, 29 de agosto de 2024
-sumario - página 6 
-BOJABOJA
-CONSEJERÍA DE SOSTENIBILIDAD, MEDIO AMBIENTE Y  ECONOMÍA AZUL
-Anuncio de 3 de junio de 2024, de la Delegación Territorial de Sostenibilidad, Medio 
-Ambiente y Economía Azul en Jaén, referente a acto en materia medioambiental.
-texto núm. 49837 - 1 página
-Anuncio de 12 de junio de 2024, de la Delegación Territorial de Sostenibilidad, Medio 
-Ambiente y Economía Azul en Jaén,  por el que se notifica a la/s persona/s interesada/s 
-acto administrativo relativo al expediente de responsabilidad patrimonial por el que se 
-le notifica subsanación a fin de que acredite legitimación para interponer reclamación.
-texto núm. 49838 - 1 página
-Anuncio de 23 de agosto de 2024, de la Delegación Territorial de Sostenibilidad, Medio 
-Ambiente y Economía Azul en Málaga, de procedimientos sancionadores referente a 
-diversos actos en materia de legislación medioambiental.
-texto núm. 49784 - 1 página
-AYUNTAMIENTOS
-Resolución de 20 de agosto de 2024, del Ayuntamiento de Ferreira, de Oferta de 
-Empleo Público extraordinaria al amparo del artículo 20. Dos, 4 de la Ley 31/2023, 
-de 23 de diciembre, de Presupuestos Generales del Estado para 2023, mediante el 
-sistema de oposición, Auxiliar Administrativo. (PP. 9347/2024).
-texto núm. 49727 - 1 página
+los artículos 123 y 124 de la Ley 39/2015, de 1 de octubre, y el artículo 46.1 de la Ley 
+29/1998, de 13 de julio, reguladora de la Jurisdicción Contencioso-Administrativa.
+Sexto. La presente resolución surtirá efectos el día siguiente al de su publicación en 
+el Boletín Oficial de la Junta de Andalucía.
+Sevilla, 23 de agosto de 2024.- La Directora General, Raquel María Espín Crespo.

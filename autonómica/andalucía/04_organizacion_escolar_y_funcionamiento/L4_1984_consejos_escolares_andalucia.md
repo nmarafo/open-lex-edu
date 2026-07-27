@@ -49,7 +49,7 @@ Seleccionar apartado
 
 [Preámbulo]
 
-# Título I
+# Título Título
 
 ## Artículo 1
 
@@ -62,9 +62,9 @@ Seleccionar apartado
 
 ## Artículo 4
 
-# Título II
+# Título Título
 
-### Capítulo I
+### Capítulo Capítulo
 
 ## Artículo 5
 
@@ -77,7 +77,7 @@ Seleccionar apartado
 
 ## Artículo 8
 
-### Capítulo II
+### Capítulo Capítulo
 
 ## Artículo 9
 
@@ -90,7 +90,7 @@ Seleccionar apartado
 
 ## Artículo 12
 
-### Capítulo III
+### Capítulo Capítulo
 
 ## Artículo 13
 
@@ -100,7 +100,7 @@ Seleccionar apartado
 
 ## Artículo 15
 
-### Capítulo IV
+### Capítulo Capítulo
 
 ## Artículo 16
 
@@ -183,7 +183,7 @@ Subir
 
 [Bloque 2: #tp]
 
-# Título I
+# Título Título
 
 
 Disposiciones generales
@@ -280,7 +280,7 @@ Subir
 
 [Bloque 7: #ti]
 
-# Título II
+# Título Título
 
 
 De los Consejos Escolares de Andalucía
@@ -297,7 +297,7 @@ Subir
 
 [Bloque 8: #cp]
 
-### Capítulo I
+### Capítulo Capítulo
 
 
 Del Consejo Escolar de Andalucía
@@ -502,7 +502,7 @@ Subir
 
 [Bloque 13: #ci]
 
-### Capítulo II
+### Capítulo Capítulo
 
 
 De los Consejos Escolares Provinciales
@@ -678,7 +678,7 @@ Subir
 
 [Bloque 18: #ci-2]
 
-### Capítulo III
+### Capítulo Capítulo
 
 
 De los Consejeros Escolares Comarcales
@@ -746,7 +746,7 @@ Subir
 
 [Bloque 22: #ci-3]
 
-### Capítulo IV
+### Capítulo Capítulo
 
 
 De los Consejos Escolares Municipales

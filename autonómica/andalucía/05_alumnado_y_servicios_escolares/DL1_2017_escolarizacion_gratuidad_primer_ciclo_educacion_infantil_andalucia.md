@@ -29,7 +29,6 @@ relaciones:
   afecta_a_articulos: []
 ---
 
-#CODIGO_VERIFICACION#
 Sumario
 Número 62 - Viernes, 31 de marzo de 2017  - Año XXXIX
 JUNTA DE ANDALUCIA
@@ -62,7 +61,6 @@ con la salud pública. 21
 Número 62 - Viernes, 31 de marzo de 2017
 sumario - página 2 
 BOJA
-#CODIGO_VERIFICACION#
 2. Autoridades y personal
 2.1. Nombramientos, situaciones e incidencias
 Consejería de la Presiden Cia y administraCión loCal
@@ -101,7 +99,6 @@ de presentación ante el Tribunal. 43
 Número 62 - Viernes, 31 de marzo de 2017
 sumario - página 3 
 BOJA
-#CODIGO_VERIFICACION#
 Consejería de justiCia e interior
 Resolución de 27 de marzo de 2017, de la Viceconsejería, por la que se anuncia 
 convocatoria para cubrir puesto de libre designación. 47
@@ -140,7 +137,6 @@ para la Investigación de Málaga en Biomedicina y Salud (FIMABIS). 77
 Número 62 - Viernes, 31 de marzo de 2017
 sumario - página  
 BOJA
-#CODIGO_VERIFICACION#
 Resolución de 7 de febrero de 2017, de la Dirección General de Justicia 
 Juvenil y Cooperación, por la que se acuerda la inscripción en el Registro 
 de Fundaciones de Andalucía de la modificación estatutaria de la Fundación 
@@ -183,7 +179,6 @@ núm. 47/2014. (PP. 97/2017). 95
 Número 62 - Viernes, 31 de marzo de 2017
 sumario - página  
 BOJA
-#CODIGO_VERIFICACION#
 juzgados de violenCia sobre la mujer
 Edicto de 2 de febrero de 2017, del Juzgado de Violencia sobre la Mujer núm. 
 Uno de Jaén, dimanante de autos núm. 9/2017. (PD. 881/2017). 97
@@ -220,7 +215,6 @@ Contratación, por la que se anuncia la contratación de servicios que se cita
 Número 62 - Viernes, 31 de marzo de 2017
 sumario - página 6 
 BOJA
-#CODIGO_VERIFICACION#
 5.2. Otros anuncios oficiales
 Consejería de eConomía y ConoCimiento
 Anuncio de 23 de marzo de 2017, de la Dirección General de Economía Social y 
@@ -262,7 +256,6 @@ de la notificación de las citadas resoluciones. 125
 Número 62 - Viernes, 31 de marzo de 2017
 sumario - página 7 
 BOJA
-#CODIGO_VERIFICACION#
 Resolución de 23 de marzo de 2017, de la Delegación Territorial de Igualdad, 
 Salud y Políticas Sociales en Huelva, mediante la que se hacen públicas las 
 subvenciones concedidas al amparo de la Orden de 28 de marzo de 2016, por 
@@ -308,7 +301,6 @@ de restricción de visitas y relaciones personales que se cita. 140
 Número 62 - Viernes, 31 de marzo de 2017
 sumario - página  
 BOJA
-#CODIGO_VERIFICACION#
 Acuerdo de 27 de marzo de 2017, de la Delegación Territorial de Igualdad, Salud 
 y Políticas Sociales en Málaga, para la notificación por edicto del acuerdo de 
 ampliación de plazo que se cita. 141
@@ -353,7 +345,6 @@ de Empleo Joven reguladas en la Ley 2/2015, de 29 de diciembre. 162
 Número 62 - Viernes, 31 de marzo de 2017
 sumario - página  
 BOJA
-#CODIGO_VERIFICACION#
 Consejería de Fomento y vivienda
 Anuncio de 22 de marzo de 2017, de la Delegación Territorial de Fomento y 
 Vivienda en Granada, sobre notificación de resoluciones de expedientes 
@@ -396,7 +387,6 @@ innovación núm. 4/13 del PGOU de Roquetas de Mar. 181
 Número 62 - Viernes, 31 de marzo de 2017
 sumario - página 10 
 BOJA
-#CODIGO_VERIFICACION#
 Anuncio de 2 de marzo de 2017, de la Delegación Territorial de Medio 
 Ambiente y Ordenación del Territorio en Cádiz, relativo a la apertura del trámite 
 de información pública del expediente que se cita, en el t.m. de Tarifa. (PP. 
@@ -437,7 +427,6 @@ publicación de bases para la convocatoria de dos plazas de la Policía Local.
 Número 62 - Viernes, 31 de marzo de 2017
 página 11 
 BOJA
-#CODIGO_VERIFICACION#
 1. Disposiciones generales
 Consejería de la PresidenCia y administraCión loCal
 Acuerdo de 21 de marzo de 2017, del Consejo de Gobierno, por el que se 
@@ -491,7 +480,6 @@ debe someterse.
 Número 62 - Viernes, 31 de marzo de 2017
 página 12 
 BOJA
-#CODIGO_VERIFICACION#
 Con fecha 29 de septiembre de 2016, la Consejería de Turismo y Deporte encomendó 
 a la Empresa Pública para la Gestión del Turismo y del Deporte de Andalucía la gestión 
 de las instalaciones de la nueva Escuela Pública de Golf de El Toyo, en Almería, hasta 
@@ -543,7 +531,6 @@ gozarán de la exención de los precios públicos establecida en la Ley 40/2003,
 Número 62 - Viernes, 31 de marzo de 2017
 página 13 
 BOJA
-#CODIGO_VERIFICACION#
 noviembre, de Protección a las Familias Numerosas: exención del 100% a los miembros de 
 las familias numerosas clasificadas en la categoría especial, para servicios de utilización 
 a título individual y para los accesos familiares anuales o semestrales.
@@ -595,7 +582,6 @@ y Consejero de la Presidencia y Administración Local
 Número 62 - Viernes, 31 de marzo de 2017
 página 1 
 BOJA
-#CODIGO_VERIFICACION#
 ANEXO
 PRECIOS PÚBLICOS 
 1.- Precios Públicos para el acceso a las Instalaciones Deportivas. 
@@ -694,7 +680,6 @@ Obtencion de Handicap (examen teorico y practico)
 Número 62 - Viernes, 31 de marzo de 2017
 página 1 
 BOJA
-#CODIGO_VERIFICACION#
 1. Disposiciones generales
 Consejería de HaCienda y administraCión PúbliCa
 Decreto 53/2017, de 28 de marzo, por el que se autoriza la concertación de 
@@ -747,7 +732,6 @@ Comisión Delegada del Gobierno para Asuntos Económicos asignan a la Comunidad
 Número 62 - Viernes, 31 de marzo de 2017
 página 16 
 BOJA
-#CODIGO_VERIFICACION#
 Autónoma de Andalucía para el primer y segundo trimestre de 2017 un importe máximo 
 de 2.238.560.000 euros, de los que 1.660.640.000 euros se destinan a amortizar 
 vencimientos, 111.640.000 euros a financiar la devolución de las liquidaciones negativas 
@@ -803,7 +787,6 @@ Decreto sin la previa obtención de la autorización del Estado en aquellos caso
 Número 62 - Viernes, 31 de marzo de 2017
 página 17 
 BOJA
-#CODIGO_VERIFICACION#
 sea preceptiva de conformidad con lo establecido en la Ley Orgánica 8/1980, de 22 de 
 septiembre, y en la Ley Orgánica 2/2012, de 27 de abril, de Estabilidad Presupuestaria y 
 Sostenibilidad Financiera así como en el resto de la normativa en materia de estabilidad 
@@ -826,7 +809,6 @@ Consejera de Hacienda y Administración Pública
 Número 62 - Viernes, 31 de marzo de 2017
 página 1 
 BOJA
-#CODIGO_VERIFICACION#
 1. Disposiciones generales
 Consejería de eduCaCión
 Decreto 50/2017, de 28 de marzo, por el que se aprueba la Oferta de Empleo 
@@ -877,7 +859,6 @@ Gobierno en su reunión del día 28 de marzo de 2017,
 Número 62 - Viernes, 31 de marzo de 2017
 página 1 
 BOJA
-#CODIGO_VERIFICACION#
 D I S P O N G O 
 
 ## Artículo 1. Aprobación de la oferta.
@@ -921,7 +902,6 @@ Consejera de Educación
 Número 62 - Viernes, 31 de marzo de 2017
 página 20 
 BOJA
-#CODIGO_VERIFICACION#
 ANEXO II
 OFERTA DE EMPLEO PÚBLICO 2017
 A) ESPECIALIDADES DEL CUERPO DE MAESTROS 
@@ -954,7 +934,6 @@ TOTAL 1.710
 Número 62 - Viernes, 31 de marzo de 2017
 página 21 
 BOJA
-#CODIGO_VERIFICACION#
 1. Disposiciones generales
 Consejería de salud
 Decreto 51/2017, de 28 de marzo, de desarrollo de los derechos y 
@@ -1008,7 +987,6 @@ previstos en esta ley y en cuantas disposiciones la desarrollen.
 Número 62 - Viernes, 31 de marzo de 2017
 página 22 
 BOJA
-#CODIGO_VERIFICACION#
 La Ley 16/2011, de 23 de diciembre, de Salud Pública de Andalucía, se promulgó 
 con la misión de profundizar el desarrollo de los artículos del Estatuto de Autonomía 
 para Andalucía anteriormente referidos. Ello, junto con la necesidad de dar cumplida 
@@ -1065,7 +1043,6 @@ salud pública se verificará a través del Portal de la Consejería competente 
 Número 62 - Viernes, 31 de marzo de 2017
 página 23 
 BOJA
-#CODIGO_VERIFICACION#
 de salud, sin perjuicio del derecho de acceso a la información pública mediante solicitud 
 conforme a lo dispuesto en el título III de la Ley 1/2014, de 24 de junio.
 El capítulo III reglamenta el derecho a la promoción de la salud de las personas, 
@@ -1097,7 +1074,7 @@ Andalucía, y previa deliberación del Consejo de Gobierno, en su reunión del d
 marzo de 2017,
 D I S P O N G O
 
-### Capítulo I
+### Capítulo Capítulo
 Disposiciones generales
 
 ## Artículo 1. Objeto.
@@ -1107,7 +1084,7 @@ otros, el derecho a la promoción de la salud, el derecho a las acciones prevent
 salud pública, el derecho a la no discriminación y el derecho a la información sobre salud 
 pública, y definir las responsabilidades de la ciudadanía frente a la salud pública.
 
-### Capítulo II
+### Capítulo Capítulo
 Información sobre salud pública
 Sección 1.ª Derecho a la información específica sobre salud pública 
 
@@ -1118,7 +1095,6 @@ de diciembre.
 Número 62 - Viernes, 31 de marzo de 2017
 página 2 
 BOJA
-#CODIGO_VERIFICACION#
 2. En relación con la cartera de servicios de salud pública definida en el artículo 61 
 de la Ley 16/2011, de 23 de diciembre, todas las personas tendrán derecho a recibir una 
 información suficiente y adecuada sobre las estructuras sanitarias, administrativas o 
@@ -1173,7 +1149,6 @@ de las personas, que incremente la capacidad de la población para adoptar elecc
 Número 62 - Viernes, 31 de marzo de 2017
 página 2 
 BOJA
-#CODIGO_VERIFICACION#
 saludables con una perspectiva de ciclo de vida, en el marco, entre otros, del Plan de 
 Atención a la Infancia y a la Adolescencia, del Programa Forma Joven y de la Estrategia 
 de Envejecimiento Activo.
@@ -1229,7 +1204,6 @@ medicamentos, productos sanitarios y cosméticos.
 Número 62 - Viernes, 31 de marzo de 2017
 página 26 
 BOJA
-#CODIGO_VERIFICACION#
 c) El Sistema de Alertas y Crisis de Salud Pública de Andalucía, previsto en el artículo 
 66 de la Ley 16/2011, de 23 de diciembre.
 d) Información sobre violencia de género extraída del Sistema de Información del 
@@ -1283,7 +1257,6 @@ en el título III de la Ley 1/2014, de 24 de junio, de Transparencia Pública de
 Número 62 - Viernes, 31 de marzo de 2017
 página 27 
 BOJA
-#CODIGO_VERIFICACION#
 
 ## Artículo 9. Lista unificada de responsables de la información sobre salud pública.
 1. El órgano directivo competente en materia de salud pública coordinará la elaboración 
@@ -1305,7 +1278,7 @@ responsables, la Administración Pública a la que pertenecen, el órgano admini
 al que en su caso se adscriben y el tipo de información de salud pública que obre en su 
 poder.
 
-### Capítulo III
+### Capítulo Capítulo
 Derecho a la promoción de la salud
 
 ## Artículo 10. Derecho a la promoción de la salud de la población infantil y adolescente. 
@@ -1338,7 +1311,6 @@ práctica deportiva como fuente de salud física y mental.
 Número 62 - Viernes, 31 de marzo de 2017
 página 2 
 BOJA
-#CODIGO_VERIFICACION#
 f) Definir programas y actuaciones que fomenten la salud bucodental en prevención 
 de caries dental y enfermedades periodontales y que promuevan el cepillado dental diario 
 con dentífrico fluorado como fuente de salud bucodental.
@@ -1396,7 +1368,6 @@ positiva que promueva el bienestar emocional de la población en su conjunto, a 
 Número 62 - Viernes, 31 de marzo de 2017
 página 2 
 BOJA
-#CODIGO_VERIFICACION#
 de medidas dirigidas a concienciar y favorecer un cambio positivo de las personas y sus 
 familias, y de la comunidad, en los entornos educativos, laborales y sociales. 
 2. En concreto, en aras a la promoción del bienestar y la salud positiva, se adoptarán 
@@ -1452,7 +1423,6 @@ infantil y la adolescente, con el fin de prevenir futuras adicciones y el aislam
 Número 62 - Viernes, 31 de marzo de 2017
 página 30 
 BOJA
-#CODIGO_VERIFICACION#
 
 ## Artículo 15. Espacios de convivencia saludable. 
 1. Los municipios andaluces, a través de los Planes locales de salud, fomentarán el 
@@ -1510,7 +1480,6 @@ las personas a medida que envejecen, fomentando el protagonismo social y posibil
 Número 62 - Viernes, 31 de marzo de 2017
 página 31 
 BOJA
-#CODIGO_VERIFICACION#
 el desarrollo del proyecto vital de cada persona. La estrategia de envejecimiento activo 
 atenderá a los diferentes escenarios en los que se desarrolle el devenir cotidiano de las 
 personas.
@@ -1520,7 +1489,7 @@ por su condición económica, física o mental. A tal fin, se definirán program
 que promuevan condiciones de igualdad real y efectiva, así como el cumplimiento de los 
 derechos reconocidos para las personas mayores.
 
-### Capítulo IV
+### Capítulo Capítulo
 Derecho a las acciones preventivas en materia de salud pública
 
 ## Artículo 18. Derecho a las prestaciones de salud pública.
@@ -1566,7 +1535,6 @@ las evidencias científicas, la importancia de la enfermedad y de los recursos s
 Número 62 - Viernes, 31 de marzo de 2017
 página 32 
 BOJA
-#CODIGO_VERIFICACION#
 disponibles, los efectos secundarios, los costes del cribado y la experiencia conseguida 
 con los ensayos clínicos y los proyectos previos.
 f) Garantizar que se observe debidamente la legislación sobre protección de datos 
@@ -1604,7 +1572,7 @@ urbanos, localizando puntos de riesgo de accidentes, mejoras en la red vial loca
 de movilidad y de ocio, e itinerarios seguros para personas mayores, menores de edad y 
 con discapacidad, teniendo en cuenta la perspectiva de género.
 
-### Capítulo V
+### Capítulo Capítulo
 Derecho a no discriminación
 
 ## Artículo 23. Derecho a no sufrir discriminaciones en el reconocimiento y acceso a los 
@@ -1622,7 +1590,6 @@ estereotipos dominantes por motivo de cualquier elemento de vulnerabilidad perso
 Número 62 - Viernes, 31 de marzo de 2017
 página 33 
 BOJA
-#CODIGO_VERIFICACION#
 social, de manera que las personas sean plenamente reconocidas y dispongan de libre 
 acceso a los servicios de salud pública. 
 b) Emprender campañas de sensibilización, dirigidas a la ciudadanía, a fin de combatir 
@@ -1633,7 +1600,7 @@ las Administraciones Públicas de Andalucía.
 d) Apoyar la constitución y el reconocimiento de asociaciones, colectivos y 
 organizaciones que promuevan y protejan los derechos de las personas vulnerables.
 
-### Capítulo VI
+### Capítulo Capítulo
 La tutela administrativa en asuntos de salud pública
 
 ## Artículo 24. Colaboración y cooperación interadministrativa. 
@@ -1678,9 +1645,8 @@ diciembre.
 Número 62 - Viernes, 31 de marzo de 2017
 página 3 
 BOJA
-#CODIGO_VERIFICACION#
 
-### Capítulo VII
+### Capítulo Capítulo
 Responsabilidades de la ciudadanía en materia de salud pública
 
 ## Artículo 27. Responsabilidades de la ciudadanía en relación con la salud pública.
@@ -1722,7 +1688,6 @@ Consejero de Salud
 Número 62 - Viernes, 31 de marzo de 2017
 página 3 
 BOJA
-#CODIGO_VERIFICACION#
 2. Autoridades y personal
 2.1. Nombramientos, situaciones e incidencias
 Consejería de la PresidenCia y administraCión loCal
@@ -1772,7 +1737,6 @@ Localidad: Granada.
 Número 62 - Viernes, 31 de marzo de 2017
 página 36 
 BOJA
-#CODIGO_VERIFICACION#
 2. Autoridades y personal
 2.1. Nombramientos, situaciones e incidencias
 Consejería de la PresidenCia y administraCión loCal
@@ -1822,7 +1786,6 @@ Localidad: Sevilla.
 Número 62 - Viernes, 31 de marzo de 2017
 página 37 
 BOJA
-#CODIGO_VERIFICACION#
 2. Autoridades y personal
 2.1. Nombramientos, situaciones e incidencias
 Consejería de justiCia e interior
@@ -1868,7 +1831,6 @@ Localidad: Sevilla.
 Número 62 - Viernes, 31 de marzo de 2017
 página 3 
 BOJA
-#CODIGO_VERIFICACION#
 2. Autoridades y personal
 2.1. Nombramientos, situaciones e incidencias
 Consejería de medio ambiente y ordenaCión del territorio
@@ -1876,7 +1838,7 @@ Resolución de 27 de marzo de 2017, de la Viceconsejería, por la que se adjudic
 puesto de libre designación convocado por Resolución de 13 de enero de 2017.
 De conformidad con lo previsto en el artículo 25.1 de la Ley 6/1985, de 28 noviembre, 
 de Ordenación de la Función Pública de la Junta de Andalucía, visto lo dispuesto en el 
-artículo 63 del Reglamento General de Ingreso, Promoción Interna, Provisión de Puestos 
+## artículo 63 del Reglamento General de Ingreso, Promoción Interna, Provisión de Puestos
 de Trabajo y Promoción Profesional de los Funcionarios de la Administración General de 
 la Junta de Andalucía, aprobado por Decreto 2/2002, de 9 de enero (BOJA núm. 8, de 
 19.1.2002) y teniendo en cuenta las competencias delegadas por la Orden 22 de febrero 
@@ -1909,7 +1871,6 @@ Localidad: Jaén.
 Número 62 - Viernes, 31 de marzo de 2017
 página 3 
 BOJA
-#CODIGO_VERIFICACION#
 2. Autoridades y personal
 2.1. Nombramientos, situaciones e incidencias
 Consejería de medio ambiente y ordenaCión del territorio
@@ -1917,7 +1878,7 @@ Resolución de 27 de marzo de 2017, de la Viceconsejería, por la que se adjudic
 puesto de libre designación convocado por Resolución de 13 de enero de 2017.
 De conformidad con lo previsto en el artículo 25.1 de la Ley 6/1985, de 28 noviembre, 
 de Ordenación de la Función Pública de la Junta de Andalucía, visto lo dispuesto en el 
-artículo 63 del Reglamento General de Ingreso, Promoción Interna, Provisión de Puestos 
+## artículo 63 del Reglamento General de Ingreso, Promoción Interna, Provisión de Puestos
 de Trabajo y Promoción Profesional de los Funcionarios de la Administración General de 
 la Junta de Andalucía, aprobado por Decreto 2/2002, de 9 de enero (BOJA núm. 8, de 
 19.1.2002) y teniendo en cuenta la competencias delegadas por la Orden 22 de febrero 
@@ -1950,7 +1911,6 @@ Localidad: Jaén.
 Número 62 - Viernes, 31 de marzo de 2017
 página 0 
 BOJA
-#CODIGO_VERIFICACION#
 2. Autoridades y personal
 2.1. Nombramientos, situaciones e incidencias
 universidades
@@ -1987,7 +1947,6 @@ Recursos Humanos, Santiago Melcón Pérez.
 Número 62 - Viernes, 31 de marzo de 2017
 página 1 
 BOJA
-#CODIGO_VERIFICACION#
 2. Autoridades y personal
 2.2. Oposiciones, concursos y otras convocatorias
 Consejería de HaCienda y administraCión PúbliCa
@@ -2025,7 +1984,6 @@ Sevilla, 21 de marzo de 2017.- La Viceconsejera, Pilar Paneque Sosa.
 Número 62 - Viernes, 31 de marzo de 2017
 página 2 
 BOJA
-#CODIGO_VERIFICACION#
 A N E X O
 Centro destino y localidad: Dirección General de Presupuestos - Sevilla.
 Denominación del puesto: Gabinete Técnico.
@@ -2041,7 +1999,6 @@ Experiencia: 3.
 Número 62 - Viernes, 31 de marzo de 2017
 página 3 
 BOJA
-#CODIGO_VERIFICACION#
 2. Autoridades y personal
 2.2. Oposiciones, concursos y otras convocatorias
 Consejería de eduCaCión
@@ -2086,7 +2043,6 @@ Humanos, edificio Torretriana, C/ Juan Antonio de Vizarrón, s/n, 41071, Sevilla
 Número 62 - Viernes, 31 de marzo de 2017
 página  
 BOJA
-#CODIGO_VERIFICACION#
 Quinto. De acuerdo con lo dispuesto en el apartado 6.2.1 de la Base Sexta de la 
 Orden de 14 de noviembre de 2016, se convoca al personal aspirante admitido en el 
 concurso de méritos, para el acto de presentación ante el tribunal, que tendrá lugar el 
@@ -2118,7 +2074,6 @@ Sevilla, 28 de marzo de 2017.- La Directora General, Antonia Cascales Guil.
 Número 62 - Viernes, 31 de marzo de 2017
 página  
 BOJA
-#CODIGO_VERIFICACION#
 ANEXO I
 LISTADO DEFINITIVO DEL PERSONAL ADMITIDO EN EL PROCEDIMIENTO 
 SELECTIVO PARA ACCESO AL CUERPO DE INSPECTORES DE EDUCACIÓN 
@@ -2126,7 +2081,6 @@ CONVOCADOS POR ORDEN DE 14 DE NOVIEMBRE DE 2016
 Número 62 - Viernes, 31 de marzo de 2017
 página 6 
 BOJA
-#CODIGO_VERIFICACION#
 ANEXO II
 Listado DEFINITIVO del personal excluido en el Procedimiento Selectivo para acceso al
 Cuerpo de Inspectores de Educación convocado por Orden de 14 de noviembre de
@@ -2155,7 +2109,6 @@ punto 1.d) de la Base segunda de la convocatoria.
 Número 62 - Viernes, 31 de marzo de 2017
 página 7 
 BOJA
-#CODIGO_VERIFICACION#
 2. Autoridades y personal
 2.2. Oposiciones, concursos y otras convocatorias
 Consejería de justiCia e interior
@@ -2200,7 +2153,6 @@ Sevilla, 27 de marzo de 2017.- La Viceconsejera, M.ª Asunción Peña Bursón.
 Número 62 - Viernes, 31 de marzo de 2017
 página  
 BOJA
-#CODIGO_VERIFICACION#
 A N E X O
 Consejería/Organismo: Justicia e Interior.
 Centro directivo: Dirección General de Oficina Judicial y Fiscal.
@@ -2220,7 +2172,6 @@ Localidad: Sevilla.
 Número 62 - Viernes, 31 de marzo de 2017
 página  
 BOJA
-#CODIGO_VERIFICACION#
 2. Autoridades y personal
 2.2. Oposiciones, concursos y otras convocatorias
 universidades
@@ -2268,7 +2219,6 @@ contencioso-administrativo ante el Juzgado de lo Contencioso-Administrativo de A
 Número 62 - Viernes, 31 de marzo de 2017
 página 0 
 BOJA
-#CODIGO_VERIFICACION#
 en el plazo de dos meses a partir de la publicación de esta Resolución, de conformidad 
 con lo dispuesto en los artículos 8.3 y 46 de la Ley 29/1998, de 13 de julio, reguladora 
 de la Jurisdicción Contencioso-Administrativa, o potestativamente recurso de reposición 
@@ -2279,7 +2229,6 @@ Almería, 27 de marzo de 2017.- El Rector, Carmelo Rodríguez Torreblanca.
 Número 62 - Viernes, 31 de marzo de 2017
 página 1 
 BOJA
-#CODIGO_VERIFICACION#
 2. Autoridades y personal
 2.2. Oposiciones, concursos y otras convocatorias
 universidades
@@ -2330,7 +2279,6 @@ circulación de trabajadores.
 Número 62 - Viernes, 31 de marzo de 2017
 página 2 
 BOJA
-#CODIGO_VERIFICACION#
 También podrán participar el cónyuge, descendientes y descendientes del cónyuge, 
 de los españoles y de los nacionales de otros Estados miembros de la Unión Europea, 
 siempre que no estén separados de derecho, sean menores de veintiún años o mayores 
@@ -2384,7 +2332,6 @@ el Registro General de la Universidad de Córdoba, Avda. Medina Azahara, nº 5, 
 Número 62 - Viernes, 31 de marzo de 2017
 página 3 
 BOJA
-#CODIGO_VERIFICACION#
 Córdoba, o bien en el Registro auxiliar del Campus de Rabanales, sito en el Edificio de 
 Gobierno, Ctra. Nacional IV, km 396, 14071 Córdoba.
 En todo caso, las solicitudes de participación podrán igualmente presentarse en la 
@@ -2438,7 +2385,6 @@ Oficial de la Universidad de Córdoba.
 Número 62 - Viernes, 31 de marzo de 2017
 página  
 BOJA
-#CODIGO_VERIFICACION#
 Contra esta resolución los interesados podrán presentar reclamación ante el Rector, 
 en el plazo de diez días hábiles siguientes a su publicación. Transcurrido este plazo sin 
 que se hubieran presentado reclamaciones o resueltas las que, en su caso, hayan podido 
@@ -2493,7 +2439,6 @@ o Catedráticos de Escuelas Universitarias.
 Número 62 - Viernes, 31 de marzo de 2017
 página  
 BOJA
-#CODIGO_VERIFICACION#
 En el caso de ausencia del Secretario, éste será sustituido por el profesor más 
 moderno en orden de prelación de cuerpo inverso al indicado anteriormente.
 Para que la Comisión pueda actuar válidamente será necesaria la participación de, al 
@@ -2549,7 +2494,6 @@ tiempo máximo de dos horas.
 Número 62 - Viernes, 31 de marzo de 2017
 página 6 
 BOJA
-#CODIGO_VERIFICACION#
 Finalizada la prueba, cada miembro de la Comisión entregará al Presidente un informe 
 razonado, ajustado en todo caso a los criterios previamente establecidos por la Comisión 
 Evaluadora. A la vista de estos informes, la Comisión procederá a una votación, en la que 
@@ -2583,7 +2527,7 @@ celebre la prueba, los candidatos admitidos al concurso podrán presentar reclam
 el plazo máximo de diez días computados a partir del siguiente a dicha publicación, ante 
 el Rector de la Universidad, para que sea valorada por la Comisión de Reclamaciones 
 en los términos previstos en el artículo 10 del Real Decreto 1313/2007, de 5 de octubre, y 
-artículo 172 de los Estatutos de la Universidad de Córdoba.
+## artículo 172 de los Estatutos de la Universidad de Córdoba.
 Admitida a trámite la reclamación, se suspenderá el nombramiento hasta su resolución 
 definitiva.
 Esta reclamación será valorada por la Comisión de Reclamaciones de la Universidad 
@@ -2658,7 +2602,6 @@ potestativamente, recurso de Reposición en el plazo de un mes, a contar desde e
 Número 62 - Viernes, 31 de marzo de 2017
 página  
 BOJA
-#CODIGO_VERIFICACION#
 siguiente a la publicación de esta Resolución, ante el Rectorado de la Universidad de 
 Córdoba (artículos 123 y 124 de la Ley 39/2015, de 1 de octubre, del Procedimiento 
 Administrativo Común de las Administraciones Públicas), o recurso contencioso-
@@ -2709,7 +2652,6 @@ Olavide
 Número 62 - Viernes, 31 de marzo de 2017
 página  
 BOJA
-#CODIGO_VERIFICACION#
 ANEXO II
 CONVOCADA/S A CONCURSO DE ACCESO PLAZA /S DE C UERPOS DOCENTES 
 UNIVERSITARIOS DE ESA U NIVERSIDAD, SOLICITO SER ADMITIDO/A COMO 
@@ -2740,7 +2682,6 @@ Ingreso en Cuenta Corriente
 Número 62 - Viernes, 31 de marzo de 2017
 página 60 
 BOJA
-#CODIGO_VERIFICACION#
 DOCUMENTACIÓN QUE SE ADJUNTA:
 El/La abajo firmante, Don/Doña .......................……………………..............…......……………..
 SOLICITA
@@ -2758,7 +2699,6 @@ SR. RECTOR MAGFCO. DE LA UNIVERSIDAD DE CÓRDOBA
 Número 62 - Viernes, 31 de marzo de 2017
 página 61 
 BOJA
-#CODIGO_VERIFICACION#
 3. Otras disposiciones
 Consejería de eduCaCión
 Orden de 10 de marzo de 2017, por la que se aprueba la denominación específica 
@@ -2796,7 +2736,6 @@ Consejera de Educación
 Número 62 - Viernes, 31 de marzo de 2017
 página 62 
 BOJA
-#CODIGO_VERIFICACION#
 3. Otras disposiciones
 Consejería de eduCaCión
 Orden de 13 de marzo de 2017, por la que se aprueba la denominación 
@@ -2836,7 +2775,6 @@ Consejera de Educación
 Número 62 - Viernes, 31 de marzo de 2017
 página 63 
 BOJA
-#CODIGO_VERIFICACION#
 3. Otras disposiciones
 Consejería de turismo y dePorte
 Resolución de 23 de marzo de 2017, de la Secretaría General para el Deporte, 
@@ -2855,7 +2793,7 @@ como mínimo los objetivos generales, prioridades y periodo de vigencia de este.
 No obstante lo anterior, es importante destacar en este contexto, que la Ley 5/2016, 
 de 19 de julio, del Deporte de Andalucía dispone su disposición final quinta que para el 
 
-# Título VII «Del Ejercicio Profesional del Deporte» y el Título IX dedicado a la «Solución 
+# Título Título
 de Litigios Deportivos», título este último en el que se regula, entre otros capítulos, el 
 destinado a la Inspección Deportiva, se establece un periodo transitorio de dieciocho 
 meses, a partir de la entrada en vigor de la misma, para su entrada en vigor; por ello, y 
@@ -2891,7 +2829,6 @@ de las actividades de formación deportiva, a los que se refiere la disposición
 Número 62 - Viernes, 31 de marzo de 2017
 página 6 
 BOJA
-#CODIGO_VERIFICACION#
 primera del Real Decreto 1363/2007, de 24 de octubre, y el Real Decreto 875/2014, de 
 10 de octubre, por el que se regulan las titulaciones náuticas para el gobierno de las 
 embarcaciones de recreo. 
@@ -2945,7 +2882,6 @@ el artículo 6.2 m) del Decreto 212/2015, de 14 de julio,
 Número 62 - Viernes, 31 de marzo de 2017
 página 6 
 BOJA
-#CODIGO_VERIFICACION#
 R E S U E L V O
 Primero. Aprobar el Plan General de Inspección del Deporte en el ámbito territorial de 
 la Comunidad Autónoma de Andalucía, que tendrá vigencia durante el año 2017. 
@@ -2996,7 +2932,6 @@ de las tareas de inspección que se deriven de este Plan General de Inspección 
 Número 62 - Viernes, 31 de marzo de 2017
 página 66 
 BOJA
-#CODIGO_VERIFICACION#
 en materia de Deporte se ejercerán  por la Secretaría General para el Deporte, según 
 lo establecido en el artículo 6.2 m) del Decreto 212/2015, de 14 de julio, por el que se 
 establece la estructura  orgánica de la Consejería de Turismo y Deporte.
@@ -3047,7 +2982,6 @@ y asesoramiento en relación al uso de desfibriladores externos automatizados fu
 Número 62 - Viernes, 31 de marzo de 2017
 página 67 
 BOJA
-#CODIGO_VERIFICACION#
 2.7. Verificación de las denuncias presentadas por los distintos usuarios o agentes 
 deportivos sobre la posible vulneración de la normativa deportiva, mediante visitas de 
 inspección.
@@ -3100,7 +3034,6 @@ de actuaciones dirigidas a la vigilancia y control del cumplimiento de los deber
 Número 62 - Viernes, 31 de marzo de 2017
 página 6 
 BOJA
-#CODIGO_VERIFICACION#
 obligaciones en relación con la formación de entrenadores y monitores deportivos 
 impartidos por las federaciones deportivas.
 Programa 3.3 Control de la actividad de formación deportiva de entrenadores y 
@@ -3157,7 +3090,6 @@ demandan actuaciones inspectoras concretas en determinadas provincias.
 Número 62 - Viernes, 31 de marzo de 2017
 página 6 
 BOJA
-#CODIGO_VERIFICACION#
 Programa 3.4.2 Comprobación de las prácticas de seguridad y navegación para la 
 obtención de las titulaciones de recreo (2017.05).
 - Objetivo: Comprobación por la Inspección Deportiva del cumplimiento de las reglas 
@@ -3214,7 +3146,6 @@ homologados por la Dirección General de la Marina Mercante.
 Número 62 - Viernes, 31 de marzo de 2017
 página 70 
 BOJA
-#CODIGO_VERIFICACION#
 -  Igualmente, se comprobará que los instructores y el personal que impartan los 
 cursos de formación están en posesión de las titulaciones exigidas en el artículo 
 31 del supra citado Real Decreto, en función del tipo de formación a impartir. 
@@ -3268,7 +3199,6 @@ vulneración de la normativa deportiva vigente.
 Número 62 - Viernes, 31 de marzo de 2017
 página 71 
 BOJA
-#CODIGO_VERIFICACION#
 - Ámbito de aplicación: Entidades deportivas o lugares en los que se preste algún 
 servicio deportivo en el territorio de la Comunidad Autónoma andaluza y que hayan sido 
 objeto de denuncia o reclamación por los usuarios de los mismos.
@@ -3293,7 +3223,6 @@ General para el Deporte.
 Número 62 - Viernes, 31 de marzo de 2017
 página 72 
 BOJA
-#CODIGO_VERIFICACION#
 3. Otras disposiciones
 Consejería de justiCia e interior
 Resolución de 16 de enero de 2017, de la Dirección General de Justicia Juvenil y 
@@ -3341,7 +3270,6 @@ modificación estatutaria y la fusión con otra fundación.
 Número 62 - Viernes, 31 de marzo de 2017
 página 73 
 BOJA
-#CODIGO_VERIFICACION#
 - Acreditación documental de que la Asociación «Si quieres puedo», inscrita en el 
 Registro de Asociaciones de Andalucía con el número 11-1-3895, persigue 
 fines de interés general, y ha sido declarada de utilidad publica por Resolución 
@@ -3361,7 +3289,7 @@ Segundo. Al expediente se han aportado cuantos datos y documentos se consideran
 esenciales, cumpliéndose los requisitos previstos en los artículos 42 de la Ley 10/2005, 
 de 31 de mayo, y el 39 del Decreto 32/2008, de 5 de febrero, por el que se aprueba 
 el Reglamento de Fundaciones de la Comunidad Autónoma de Andalucía, así como el 
-artículo 35 del Reglamento de organización y funcionamiento del Registro de Fundaciones 
+## artículo 35 del Reglamento de organización y funcionamiento del Registro de Fundaciones
 de Andalucía, aprobado por Decreto 279/2003, de 7 de octubre.
 Esta Dirección General de Justicia Juvenil y Cooperación, a quien corresponde el 
 ejercicio del Protectorado sobre las Fundaciones Andaluzas regulado en la Ley 10/2005, 
@@ -3387,7 +3315,6 @@ lo dispuesto en el artículo 26.5 del Reglamento de organización y funcionamien
 Número 62 - Viernes, 31 de marzo de 2017
 página 7 
 BOJA
-#CODIGO_VERIFICACION#
 Registro de Fundaciones de Andalucía y en los artículos 121 y 122 de la Ley 39/2015, de 
 1 de octubre, del Procedimiento Administrativo Común de las Administraciones Públicas, 
 así como el artículo 115 de la Ley 9/2007, de 22 de octubre, de la Administración de la 
@@ -3398,7 +3325,6 @@ Sevilla, 16 de enero de 2017.- La Directora General, Carmen Belinchón Sánchez.
 Número 62 - Viernes, 31 de marzo de 2017
 página 7 
 BOJA
-#CODIGO_VERIFICACION#
 3. Otras disposiciones
 Consejería de justiCia e interior
 Resolución de 30 de enero de 2017, de la Dirección General de Justicia Juvenil y 
@@ -3441,7 +3367,6 @@ la Ley 10/2005, de 31 de mayo.
 Número 62 - Viernes, 31 de marzo de 2017
 página 76 
 BOJA
-#CODIGO_VERIFICACION#
 Tercero. Al expediente de inscripción de modificación estatutaria se han aportado 
 cuantos datos y documentos se consideran esenciales, cumpliéndose los requisitos 
 previstos en el artículo 40 de la Ley 10/2005, de 31 de mayo, y el 37 del Decreto 32/2008, 
@@ -3482,7 +3407,6 @@ Sevilla, 30 de enero de 2017.- La Directora General, Carmen Belinchón Sánchez.
 Número 62 - Viernes, 31 de marzo de 2017
 página 77 
 BOJA
-#CODIGO_VERIFICACION#
 3. Otras disposiciones
 Consejería de justiCia e interior
 Resolución de 31 de enero de 2017, de la Dirección General de Justicia Juvenil y 
@@ -3526,7 +3450,6 @@ y funcionamiento del Registro de Fundaciones de Andalucía, aprobado por Decreto
 Número 62 - Viernes, 31 de marzo de 2017
 página 7 
 BOJA
-#CODIGO_VERIFICACION#
 Cuarto. De acuerdo con lo dispuesto en el artículo 8.b) y n) del Decreto 279/2003, 
 de 7 de octubre, por el que se crea el Registro de Fundaciones de Andalucía, deberán 
 inscribirse en dicho Registro la modificación o nueva redacción de los estatutos de la 
@@ -3559,7 +3482,6 @@ Sevilla, 31 de enero de 2017.- La Directora General, Carmen Belinchón Sánchez.
 Número 62 - Viernes, 31 de marzo de 2017
 página 7 
 BOJA
-#CODIGO_VERIFICACION#
 3. Otras disposiciones
 Consejería de justiCia e interior
 Resolución de 7 de febrero de 2017, de la Dirección General de Justicia Juvenil y 
@@ -3604,7 +3526,6 @@ Ley 10/2005, de 31 de mayo.
 Número 62 - Viernes, 31 de marzo de 2017
 página 0 
 BOJA
-#CODIGO_VERIFICACION#
 Tercero. Al expediente de inscripción de modificación estatutaria se han aportado 
 cuantos datos y documentos se consideran esenciales, cumpliéndose los requisitos 
 previstos en el artículo 40 de la Ley 10/2005, de 31 de mayo, y el 37 del Decreto 32/2008, 
@@ -3646,7 +3567,6 @@ Sevilla, 7 de febrero de 2017.- La Directora General, Carmen Belinchón Sánchez
 Número 62 - Viernes, 31 de marzo de 2017
 página 1 
 BOJA
-#CODIGO_VERIFICACION#
 3. Otras disposiciones
 Consejería de justiCia e interior
 Resolución de 17 de febrero de 2017, de la Dirección General de Justicia 
@@ -3691,7 +3611,6 @@ cuantos datos y documentos se consideran esenciales, cumpliéndose los requisito
 Número 62 - Viernes, 31 de marzo de 2017
 página 2 
 BOJA
-#CODIGO_VERIFICACION#
 previstos en los artículos 40 de la Ley 10/2005, de 31 de mayo, y 37 del Decreto 32/2008, 
 de 5 de febrero, por el que se aprueba el Reglamento de Fundaciones de la Comunidad 
 Autónoma de Andalucía, así como en el artículo 30 del Reglamento de organización 
@@ -3730,7 +3649,6 @@ Sevilla, 17 de febrero de 2017.- La Directora General, Carmen Belinchón Sánche
 Número 62 - Viernes, 31 de marzo de 2017
 página 3 
 BOJA
-#CODIGO_VERIFICACION#
 3. Otras disposiciones
 Consejería de justiCia e interior
 Resolución de 20 de febrero de 2017, de la Dirección General de Justicia 
@@ -3776,7 +3694,6 @@ mayo.
 Número 62 - Viernes, 31 de marzo de 2017
 página  
 BOJA
-#CODIGO_VERIFICACION#
 Tercero. Al expediente de inscripción de modificación estatutaria se han aportado 
 cuantos datos y documentos se consideran esenciales, cumpliéndose los requisitos 
 previstos en el artículo 40 de la Ley 10/2005, de 31 de mayo, y el 37 del Decreto 32/2008, 
@@ -3818,7 +3735,6 @@ Sevilla, 20 de febrero de 2017.- La Directora General, Carmen Belinchón Sánche
 Número 62 - Viernes, 31 de marzo de 2017
 página  
 BOJA
-#CODIGO_VERIFICACION#
 3. Otras disposiciones
 Consejería de justiCia e interior
 Resolución de 3 de marzo de 2017, de la Dirección General de Justicia Juvenil y 
@@ -3863,7 +3779,6 @@ cuantos datos y documentos se consideran esenciales, cumpliéndose los requisito
 Número 62 - Viernes, 31 de marzo de 2017
 página 6 
 BOJA
-#CODIGO_VERIFICACION#
 previstos en el artículo 40 de la Ley 10/2005, de 31 de mayo, y el 37 del Decreto 32/2008, 
 de 5 de febrero, por el que se aprueba el Reglamento de Fundaciones de la Comunidad 
 Autónoma de Andalucía, así como en el artículo 30 del Reglamento de organización 
@@ -3901,7 +3816,6 @@ Sevilla, 3 de marzo de 2017.- El Director General, Francisco Muñoz Aguilera.
 Número 62 - Viernes, 31 de marzo de 2017
 página 7 
 BOJA
-#CODIGO_VERIFICACION#
 3. Otras disposiciones
 Consejería de justiCia e interior
 Resolución de 8 de marzo de 2017, de la Dirección General de Justicia Juvenil y 
@@ -3946,7 +3860,6 @@ y funcionamiento del Registro de Fundaciones de Andalucía, aprobado por Decreto
 Número 62 - Viernes, 31 de marzo de 2017
 página  
 BOJA
-#CODIGO_VERIFICACION#
 Cuarto. De acuerdo con lo dispuesto en el artículo 8.b) y n) del Decreto 279/2003, 
 de 7 de octubre, por el que se crea el Registro de Fundaciones de Andalucía, deberán 
 inscribirse en dicho Registro la modificación o nueva redacción de los estatutos de la 
@@ -3980,7 +3893,6 @@ Sevilla, 8 de marzo de 2017.- El Director General, Francisco Muñoz Aguilera.
 Número 62 - Viernes, 31 de marzo de 2017
 página  
 BOJA
-#CODIGO_VERIFICACION#
 3. Otras disposiciones
 Consejería de medio ambiente y ordenaCión del territorio
 Resolución de 28 de marzo de 2017, de la Delegación Territorial de Medio 
@@ -4025,7 +3937,6 @@ demás legislación aplicable al caso.
 Número 62 - Viernes, 31 de marzo de 2017
 página 0 
 BOJA
-#CODIGO_VERIFICACION#
 Segundo. En concreto le es de aplicación lo dispuesto en el artículo 21 y 61 de la Ley 
 39/2015, de 2 de octubre, del Procedimiento Administrativo Común de las Administraciones 
 Públicas.
@@ -4074,7 +3985,6 @@ mes, de acuerdo con lo dispuesto por los artículos 112, 121 y 122 de la Ley 39/
 Número 62 - Viernes, 31 de marzo de 2017
 página 1 
 BOJA
-#CODIGO_VERIFICACION#
 2 de octubre, del Procedimiento Administrativo Común de las Administraciones Públicas, 
 o bien, directamente recurso contencioso-administrativo, ante la Sala de lo Contencioso-
 Administrativo del Tribunal Superior de Justicia de Andalucía que corresponda, en el 
@@ -4085,7 +3995,6 @@ Cádiz, 28 de marzo de 2017.- El Delegado, Ángel Acuña Racero.
 Número 62 - Viernes, 31 de marzo de 2017
 página 2 
 BOJA
-#CODIGO_VERIFICACION#
 4. Administración de Justicia
 juzgados de Primera instanCia
 Edicto de 14 de marzo de 2017, del Juzgado de Primera Instancia núm. Seis de 
@@ -4122,7 +4031,6 @@ de Carácter Personal).»
 Número 62 - Viernes, 31 de marzo de 2017
 página 3 
 BOJA
-#CODIGO_VERIFICACION#
 4. Administración de Justicia
 juzgados de Primera instanCia
 Edicto de 17 de marzo de 2017, del Juzgado de Primera Instancia núm. Seis de 
@@ -4157,7 +4065,6 @@ carácter personal).»
 Número 62 - Viernes, 31 de marzo de 2017
 página  
 BOJA
-#CODIGO_VERIFICACION#
 4. Administración de Justicia
 juzgados de Primera instanCia e instruCCión
 Edicto de 4 de noviembre de 2016, del Juzgado de Primera Instancia e 
@@ -4199,7 +4106,6 @@ de Justicia.
 Número 62 - Viernes, 31 de marzo de 2017
 página  
 BOJA
-#CODIGO_VERIFICACION#
 4. Administración de Justicia
 juzgados de Primera instanCia e instruCCión
 Edicto de 19 de septiembre de 2016, del Juzgado de Primera Instancia e 
@@ -4244,7 +4150,6 @@ plazo veinte días siguientes a la notificación.
 Número 62 - Viernes, 31 de marzo de 2017
 página 6 
 BOJA
-#CODIGO_VERIFICACION#
 Igualmente, se ha dictado auto aclarando la anterior sentencia cuyo tenor literal dice:
 A U T O
 Doña María Dolores Segura Gonzálvez.
@@ -4286,7 +4191,6 @@ carácter personal). »
 Número 62 - Viernes, 31 de marzo de 2017
 página 7 
 BOJA
-#CODIGO_VERIFICACION#
 4. Administración de Justicia
 juzgados de violenCia sobre la mujer
 Edicto de 2 de febrero de 2017, del Juzgado de Violencia sobre la Mujer núm. 
@@ -4326,7 +4230,6 @@ Voluntaria (LJV).
 Número 62 - Viernes, 31 de marzo de 2017
 página  
 BOJA
-#CODIGO_VERIFICACION#
 Segundo. Vistas las pretensiones formuladas en la solicitud, este Órgano judicial 
 tiene jurisdicción y competencia objetiva para conocerlas, según los artículos 36 y 45 de 
 la LEC, y 9 de la LJV.
@@ -4379,7 +4282,6 @@ LEC).
 Número 62 - Viernes, 31 de marzo de 2017
 página  
 BOJA
-#CODIGO_VERIFICACION#
 Modo de impugnación: Recurso de reposición ante el/la Letrado/a de la Administración 
 de Justicia, mediante un escrito que se debe presentar en el plazo de cinco días, 
 contados desde el siguiente al de la notificación, en el que se debe expresar la infracción 
@@ -4396,7 +4298,6 @@ carácter personal).»
 Número 62 - Viernes, 31 de marzo de 2017
 página 100 
 BOJA
-#CODIGO_VERIFICACION#
 4. Administración de Justicia
 juzgados de lo soCial
 Edicto de 16 de marzo de 2017, del Juzgado de lo Social núm. Cinco de Sevilla, 
@@ -4441,7 +4342,6 @@ mando y firmo.
 Número 62 - Viernes, 31 de marzo de 2017
 página 101 
 BOJA
-#CODIGO_VERIFICACION#
 Y para que sirva de notificación al demandado Interguadalrío, S.L., y Fresacales, 
 S.L.U., actualmente en paradero desconocido, expido el presente para su publicación 
 en el Boletín Oficial de la Junta de Andalucía, con la advertencia de que las siguientes 
@@ -4456,7 +4356,6 @@ carácter personal).»
 Número 62 - Viernes, 31 de marzo de 2017
 página 102 
 BOJA
-#CODIGO_VERIFICACION#
 4. Administración de Justicia
 juzgados de lo soCial
 Edicto de 16 de marzo de 2017, del Juzgado de lo Social núm. Cinco de Sevilla, 
@@ -4497,7 +4396,6 @@ Juzgado.
 Número 62 - Viernes, 31 de marzo de 2017
 página 103 
 BOJA
-#CODIGO_VERIFICACION#
 II HECHOS PROBADOS
 Primero. Doña María Concepción Osuna García ha venido prestando sus servicios 
 Poliuretano Sur, S.L., desde el 11 de julio de 2006, siendo el objeto de la empresa el 
@@ -4543,7 +4441,6 @@ concepto de interés por mora.
 Número 62 - Viernes, 31 de marzo de 2017
 página 10 
 BOJA
-#CODIGO_VERIFICACION#
 Notifíquese la presente resolución a las partes, haciéndoles saber que contra la misma 
 cabe recurso de suplicación ante la Sala de Social del Tribunal Superior de Justicia de 
 Andalucía, dentro de los cinco días hábiles siguientes a la notificación de la sentencia, 
@@ -4572,7 +4469,6 @@ Justicia.
 Número 62 - Viernes, 31 de marzo de 2017
 página 10 
 BOJA
-#CODIGO_VERIFICACION#
 5. Anuncios
 5.1. Licitaciones públicas y adjudicaciones
 Consejería de la PresidenCia y administraCión loCal
@@ -4623,7 +4519,6 @@ Particulares.
 Número 62 - Viernes, 31 de marzo de 2017
 página 106 
 BOJA
-#CODIGO_VERIFICACION#
 c) Lugar de presentación.
 1.º  Entidad: Registro General de la Delegación del Gobierno en Jaén. Cuando las 
 proposiciones se envíen por correo se estará a lo dispuesto en la cláusula 9.1 del 
@@ -4658,7 +4553,6 @@ Jaén, 22 de marzo de 2017.- La Delegada del Gobierno, Ana María Cobo Carmona.
 Número 62 - Viernes, 31 de marzo de 2017
 página 107 
 BOJA
-#CODIGO_VERIFICACION#
 5. Anuncios
 5.1. Licitaciones públicas y adjudicaciones
 Consejería de la PresidenCia y administraCión loCal
@@ -4709,7 +4603,6 @@ Particulares.
 Número 62 - Viernes, 31 de marzo de 2017
 página 10 
 BOJA
-#CODIGO_VERIFICACION#
 c) Lugar de presentación:
 1.º Entidad: Registro General de la Delegación del Gobierno en Jaén. Cuando las 
 proposiciones se envíen por correo se estará a lo dispuesto en la cláusula 9.1 
@@ -4744,7 +4637,6 @@ Jaén, 23 de marzo de 2017.- La Delegada del Gobierno, Ana María Cobo Carmona.
 Número 62 - Viernes, 31 de marzo de 2017
 página 10 
 BOJA
-#CODIGO_VERIFICACION#
 5. Anuncios
 5.1. Licitaciones públicas y adjudicaciones
 Consejería de eConomía y ConoCimiento
@@ -4788,7 +4680,6 @@ Sevilla, 24 de marzo de 2017.- La Secretaria General Técnica, María Luz Osorio
 Número 62 - Viernes, 31 de marzo de 2017
 página 110 
 BOJA
-#CODIGO_VERIFICACION#
 5. Anuncios
 5.1. Licitaciones públicas y adjudicaciones
 Consejería de emPleo, emPresa y ComerCio
@@ -4837,7 +4728,6 @@ día de finalización del plazo de presentación de ofertas.
 Número 62 - Viernes, 31 de marzo de 2017
 página 111 
 BOJA
-#CODIGO_VERIFICACION#
 7. Requisitos específicos del contratista.
 a) Clasificación: No.
 b) Otros requisitos: Ver lo especificado en el Pliego de Cláusulas Administrativas 
@@ -4880,7 +4770,6 @@ Gerente, Julio Samuel Coca Blanes.
 Número 62 - Viernes, 31 de marzo de 2017
 página 112 
 BOJA
-#CODIGO_VERIFICACION#
 5. Anuncios
 5.1. Licitaciones públicas y adjudicaciones
 Consejería de Fomento y vivienda
@@ -4933,7 +4822,6 @@ admitida.
 Número 62 - Viernes, 31 de marzo de 2017
 página 113 
 BOJA
-#CODIGO_VERIFICACION#
 Núm. de fax del Registro: 955 007 201.
 c) Plazo durante el cual el licitador está obligado a mantener su oferta: 2 meses desde 
 la apertura del sobre núm. 3.
@@ -4949,7 +4837,6 @@ Ignacio Ortiz Poole.
 Número 62 - Viernes, 31 de marzo de 2017
 página 11 
 BOJA
-#CODIGO_VERIFICACION#
 5. Anuncios
 5.1. Licitaciones públicas y adjudicaciones
 Consejería de Fomento y vivienda
@@ -4975,7 +4862,6 @@ de dicha fecha.
 Número 62 - Viernes, 31 de marzo de 2017
 página 11 
 BOJA
-#CODIGO_VERIFICACION#
 5. Anuncios
 5.2. Otros anuncios oficiales
 Consejería de eConomía y ConoCimiento
@@ -5013,7 +4899,6 @@ su notificación.»
 Número 62 - Viernes, 31 de marzo de 2017
 página 116 
 BOJA
-#CODIGO_VERIFICACION#
 5. Anuncios
 5.2. Otros anuncios oficiales
 Consejería de eConomía y ConoCimiento
@@ -5060,7 +4945,6 @@ Destinatario: Nicoleta Cojocariu.
 Número 62 - Viernes, 31 de marzo de 2017
 página 117 
 BOJA
-#CODIGO_VERIFICACION#
 Acto notificado: Resolución relativa a los procedimientos sancionadores en materia 
 de infracciones en el orden social.
 Órgano que lo dicta: Delegación Territorial de Almería.
@@ -5071,7 +4955,6 @@ notificación.»
 Número 62 - Viernes, 31 de marzo de 2017
 página 11 
 BOJA
-#CODIGO_VERIFICACION#
 5. Anuncios
 5.2. Otros anuncios oficiales
 Consejería de eConomía y ConoCimiento
@@ -5121,7 +5004,6 @@ de infracciones en el orden social.
 Número 62 - Viernes, 31 de marzo de 2017
 página 11 
 BOJA
-#CODIGO_VERIFICACION#
 Expte. 2900/2016/S/AL/364.
 Acta: I42016000095172.
 Destinatario: Dafran-Darzoves, S.R.L.
@@ -5135,7 +5017,6 @@ notificación.»
 Número 62 - Viernes, 31 de marzo de 2017
 página 120 
 BOJA
-#CODIGO_VERIFICACION#
 5. Anuncios
 5.2. Otros anuncios oficiales
 Consejería de HaCienda y administraCión PúbliCa
@@ -5154,7 +5035,6 @@ Estado, que será la determinante a los efectos de su notificación.»
 Número 62 - Viernes, 31 de marzo de 2017
 página 121 
 BOJA
-#CODIGO_VERIFICACION#
 5. Anuncios
 5.2. Otros anuncios oficiales
 Consejería de eduCaCión
@@ -5201,7 +5081,6 @@ de Formación Profesional Andaluza).
 Número 62 - Viernes, 31 de marzo de 2017
 página 122 
 BOJA
-#CODIGO_VERIFICACION#
 Del mismo modo, también podrá consultarse en la web del Portal de Transparencia 
 de la Junta de Andalucía, en la siguiente dirección web: http://juntadeandalucia.es/
 transparencia/publicidad-activa/informacion-juridica.html.
@@ -5216,7 +5095,6 @@ Sevilla, 22 de marzo de 2017.- La Directora General, Purificación Pérez Hidalg
 Número 62 - Viernes, 31 de marzo de 2017
 página 123 
 BOJA
-#CODIGO_VERIFICACION#
 5. Anuncios
 5.2. Otros anuncios oficiales
 Consejería de eduCaCión
@@ -5264,7 +5142,6 @@ ATALHA, HICHAM 2012/2013 152180/000585
 Número 62 - Viernes, 31 de marzo de 2017
 página 12 
 BOJA
-#CODIGO_VERIFICACION#
 Interesado/a Curso Número expediente reintegro
 BACIGALUPE PEÑA, PABLO 2012/2013 152180/000530
 BALLESTEROS GARCÍA, JESSICA 2012/2013 152180/001179
@@ -5286,7 +5163,6 @@ preceptiva publicación en el Boletín Oficial del Estado, que será la determin
 Número 62 - Viernes, 31 de marzo de 2017
 página 12 
 BOJA
-#CODIGO_VERIFICACION#
 5. Anuncios
 5.2. Otros anuncios oficiales
 Consejería de salud
@@ -5321,7 +5197,6 @@ notificación.»
 Número 62 - Viernes, 31 de marzo de 2017
 página 126 
 BOJA
-#CODIGO_VERIFICACION#
 5. Anuncios
 5.2. Otros anuncios oficiales
 Consejería de salud
@@ -5370,7 +5245,6 @@ ASOC. DE PADRES DE DEFICIENTES SENSORIALES SORDOS ASPRODESORDOS MANTENIMIENTO 3.
 Número 62 - Viernes, 31 de marzo de 2017
 página 127 
 BOJA
-#CODIGO_VERIFICACION#
 ENTIDAD MODALIDAD CONCEDIDO
 FEDERACION CONFED. DE PERSONAS CON DISC. FIS. Y ORG. CONFEDERACION 
 COORDINADORA ESTATAL DE MINUSV. FISICOS DE HUELVA CANF-COCEMFE PROGRAMA 5.000,00 €
@@ -5400,7 +5274,6 @@ Huelva, 23 de marzo de 2017.- El Delegado, Rafael López Fernández.
 Número 62 - Viernes, 31 de marzo de 2017
 página 12 
 BOJA
-#CODIGO_VERIFICACION#
 5. Anuncios
 5.2. Otros anuncios oficiales
 Consejería de salud
@@ -5447,7 +5320,6 @@ concordantes de la Ley 29/1998, de 13 de julio, reguladora de la Jurisdicción C
 Número 62 - Viernes, 31 de marzo de 2017
 página 12 
 BOJA
-#CODIGO_VERIFICACION#
 Administrativa. Podrá tener acceso al texto íntegro en la Delegación Territorial de la 
 Consejería de Igualdad, Salud y Políticas Sociales, sita en C/ Alcalde Mora Claros, 4-6, 
 de Huelva.
@@ -5498,7 +5370,6 @@ oportunos, concediéndole un plazo de 10 días a partir del siguiente a la fecha
 Número 62 - Viernes, 31 de marzo de 2017
 página 130 
 BOJA
-#CODIGO_VERIFICACION#
 publicación, para que presente las alegaciones, documentos y/o justificaciones que 
 estime pertinentes en defensa de sus intereses, de conformidad con lo establecido en 
 el art. 84.2 de la Ley 30/1992, de 26 de noviembre, de RJAP y PAC. Podrá tener acceso 
@@ -5535,7 +5406,6 @@ publicación en el BOE, que será determinante a los efectos notificación.»
 Número 62 - Viernes, 31 de marzo de 2017
 página 131 
 BOJA
-#CODIGO_VERIFICACION#
 5. Anuncios
 5.2. Otros anuncios oficiales
 Consejería de salud
@@ -5572,7 +5442,6 @@ Córdoba, 27 de marzo de 2017.- La Delegada, María Ángeles Luna Morales.
 Número 62 - Viernes, 31 de marzo de 2017
 página 132 
 BOJA
-#CODIGO_VERIFICACION#
 5. Anuncios
 5.2. Otros anuncios oficiales
 Consejería de salud
@@ -5598,7 +5467,6 @@ su notificación.»
 Número 62 - Viernes, 31 de marzo de 2017
 página 133 
 BOJA
-#CODIGO_VERIFICACION#
 5. Anuncios
 5.2. Otros anuncios oficiales
 Consejería de salud
@@ -5624,7 +5492,6 @@ su notificación.»
 Número 62 - Viernes, 31 de marzo de 2017
 página 13 
 BOJA
-#CODIGO_VERIFICACION#
 5. Anuncios
 5.2. Otros anuncios oficiales
 Consejería de salud
@@ -5651,7 +5518,6 @@ su notificación.»
 Número 62 - Viernes, 31 de marzo de 2017
 página 13 
 BOJA
-#CODIGO_VERIFICACION#
 5. Anuncios
 5.2. Otros anuncios oficiales
 Consejería de salud
@@ -5678,7 +5544,6 @@ su notificación.»
 Número 62 - Viernes, 31 de marzo de 2017
 página 136 
 BOJA
-#CODIGO_VERIFICACION#
 5. Anuncios
 5.2. Otros anuncios oficiales
 Consejería de salud
@@ -5700,7 +5565,6 @@ su notificación.»
 Número 62 - Viernes, 31 de marzo de 2017
 página 137 
 BOJA
-#CODIGO_VERIFICACION#
 5. Anuncios
 5.2. Otros anuncios oficiales
 Consejería de salud
@@ -5727,7 +5591,6 @@ su notificación.»
 Número 62 - Viernes, 31 de marzo de 2017
 página 13 
 BOJA
-#CODIGO_VERIFICACION#
 5. Anuncios
 5.2. Otros anuncios oficiales
 Consejería de salud
@@ -5753,7 +5616,6 @@ su notificación.»
 Número 62 - Viernes, 31 de marzo de 2017
 página 13 
 BOJA
-#CODIGO_VERIFICACION#
 5. Anuncios
 5.2. Otros anuncios oficiales
 Consejería de salud
@@ -5780,7 +5642,6 @@ su notificación.»
 Número 62 - Viernes, 31 de marzo de 2017
 página 10 
 BOJA
-#CODIGO_VERIFICACION#
 5. Anuncios
 5.2. Otros anuncios oficiales
 Consejería de salud
@@ -5806,7 +5667,6 @@ su notificación.»
 Número 62 - Viernes, 31 de marzo de 2017
 página 11 
 BOJA
-#CODIGO_VERIFICACION#
 5. Anuncios
 5.2. Otros anuncios oficiales
 Consejería de salud
@@ -5829,7 +5689,6 @@ su notificación.»
 Número 62 - Viernes, 31 de marzo de 2017
 página 12 
 BOJA
-#CODIGO_VERIFICACION#
 5. Anuncios
 5.2. Otros anuncios oficiales
 Consejería de salud
@@ -5864,7 +5723,6 @@ a su publicación en el Boletín Oficial del Estado, que será determinante a lo
 Número 62 - Viernes, 31 de marzo de 2017
 página 13 
 BOJA
-#CODIGO_VERIFICACION#
 5. Anuncios
 5.2. Otros anuncios oficiales
 Consejería de salud
@@ -5898,7 +5756,6 @@ publicación en el Boletín Oficial del Estado, que será el determinante a los 
 Número 62 - Viernes, 31 de marzo de 2017
 página 1 
 BOJA
-#CODIGO_VERIFICACION#
 5. Anuncios
 5.2. Otros anuncios oficiales
 Consejería de salud
@@ -5933,7 +5790,6 @@ su notificación.»
 Número 62 - Viernes, 31 de marzo de 2017
 página 1 
 BOJA
-#CODIGO_VERIFICACION#
 5. Anuncios
 5.2. Otros anuncios oficiales
 Consejería de salud
@@ -5963,7 +5819,6 @@ su notificación.»
 Número 62 - Viernes, 31 de marzo de 2017
 página 16 
 BOJA
-#CODIGO_VERIFICACION#
 5. Anuncios
 5.2. Otros anuncios oficiales
 Consejería de igualdad y PolítiCas soCiales
@@ -6000,7 +5855,6 @@ su notificación.»
 Número 62 - Viernes, 31 de marzo de 2017
 página 17 
 BOJA
-#CODIGO_VERIFICACION#
 5. Anuncios
 5.2. Otros anuncios oficiales
 Consejería de igualdad y PolítiCas soCiales
@@ -6039,7 +5893,6 @@ Oficial del Estado, que será la determinante a los efectos de su notificación.
 Número 62 - Viernes, 31 de marzo de 2017
 página 1 
 BOJA
-#CODIGO_VERIFICACION#
 5. Anuncios
 5.2. Otros anuncios oficiales
 Consejería de emPleo, emPresa y ComerCio
@@ -6071,7 +5924,6 @@ Provincial, María Auxiliadora de Nova Pozuelo.
 Número 62 - Viernes, 31 de marzo de 2017
 página 1 
 BOJA
-#CODIGO_VERIFICACION#
 5. Anuncios
 5.2. Otros anuncios oficiales
 Consejería de emPleo, emPresa y ComerCio
@@ -6117,7 +5969,6 @@ GR/BJE/0256/2015 24742473Q MARIA GLORIA JIMENEZ DE BURGOS 2.400,00 €
 Número 62 - Viernes, 31 de marzo de 2017
 página 10 
 BOJA
-#CODIGO_VERIFICACION#
 EXPEDIENTE CIF/NIF SOLICITANTE IMPORTE
 GR/BJE/0258/2015 E18566422 LOS JUSTOS C.B. 4.800,00 €
 GR/BJE/0260/2015 B19541218, ACEITUNAS CAMPOTORO S.L. 4.800,00 €
@@ -6164,7 +6015,6 @@ GR/BJE/0338/2015 24131332P FRANCISCO JAVIER SALAZAR COBOS 4.800,00 €
 Número 62 - Viernes, 31 de marzo de 2017
 página 11 
 BOJA
-#CODIGO_VERIFICACION#
 EXPEDIENTE CIF/NIF SOLICITANTE IMPORTE
 GR/BJE/0341/2015 B18498022 TUBOCAS, S.L. 4.800,00 €
 GR/BJE/0342/2015 B18630939 LIBRERIA I-MAGINA, S.L. 2.400,00 €
@@ -6211,7 +6061,6 @@ GR/BJE/0410/2015 B18969188 UNIT 4 R&D SPAIN S.L. 4.800,00 €
 Número 62 - Viernes, 31 de marzo de 2017
 página 12 
 BOJA
-#CODIGO_VERIFICACION#
 EXPEDIENTE CIF/NIF SOLICITANTE IMPORTE
 GR/BJE/0411/2015 B18969188 UNIT4 R&D SPAIN S.L 4.800,00 €
 GR/BJE/0412/2015 B18969188 UNIT4 R&D SPAIN S.L. 4.800,00 €
@@ -6259,7 +6108,6 @@ GR/BJE/0482/2015 A18551549 ALHAMBRA SOLUCIONES Y SERVICIOS S.A. 4.800,00 €
 Número 62 - Viernes, 31 de marzo de 2017
 página 13 
 BOJA
-#CODIGO_VERIFICACION#
 EXPEDIENTE CIF/NIF SOLICITANTE IMPORTE
 GR/BJE/0483/2015 B18702746 AIRE AZAFATAS S.L 4.800,00 €
 GR/BJE/0484/2015 B18969188 UNIT4 R&D SPAIN S.L 4.800,00 €
@@ -6307,7 +6155,6 @@ GR/BJE/0545/2015 B18960203 AUTOESCUELA FRANCIS, S.L. 4.800,00 €
 Número 62 - Viernes, 31 de marzo de 2017
 página 1 
 BOJA
-#CODIGO_VERIFICACION#
 EXPEDIENTE CIF/NIF SOLICITANTE IMPORTE
 GR/BJE/0549/2015 B18516443 GUADIANA RESTAURACION, S.L. 2.400,00 €
 GR/BJE/0550/2015 B18667667 GERYSALUD FERNANDEZ ABRIL, S.L. 2.400,00 €
@@ -6355,7 +6202,6 @@ DE FIJACION TECNICA S.L ) 4.800,00 €
 Número 62 - Viernes, 31 de marzo de 2017
 página 1 
 BOJA
-#CODIGO_VERIFICACION#
 EXPEDIENTE CIF/NIF SOLICITANTE IMPORTE
 GR/BJE/0636/2015 A18224089 VISTA TRAVEL S.A. 4.800,00 €
 GR/BJE/0637/2015 B87107033 FERNANDEZ DE PRADA INVERSIONES, S.L. 4.800,00 €
@@ -6403,7 +6249,6 @@ GR/BJE/0717/2015 B18292656 AMBULANCIAS ALHAMBRA GRANADA, S.L. 4.800,00 €
 Número 62 - Viernes, 31 de marzo de 2017
 página 16 
 BOJA
-#CODIGO_VERIFICACION#
 EXPEDIENTE CIF/NIF SOLICITANTE IMPORTE
 GR/BJE/0718/2015 74718122T RAUL GARCIA MARTOS 4.800,00 €
 GR/BJE/0719/2015 14625141Q GERMAN PALOMAR VICTORIA 4.800,00 €
@@ -6451,7 +6296,6 @@ GR/BJE/0776/2015 B18446864 FRUTOS SECOS Y GOLOSINAS ALHAMBRA, SL 4.800,00 €
 Número 62 - Viernes, 31 de marzo de 2017
 página 17 
 BOJA
-#CODIGO_VERIFICACION#
 EXPEDIENTE CIF/NIF SOLICITANTE IMPORTE
 GR/BJE/0780/2015 B18446864 FRUTOS SECOS Y GOLOSINAS ALHAMBRA, SL 4.800,00 €
 GR/BJE/0782/2015 74715853P MIGUEL RIVAS SOTO 4.800,00 €
@@ -6499,7 +6343,6 @@ GR/BJE/0847/2015 B18534776 MARTIMOTO MOTOR S.L 4.800,00 €
 Número 62 - Viernes, 31 de marzo de 2017
 página 1 
 BOJA
-#CODIGO_VERIFICACION#
 EXPEDIENTE CIF/NIF SOLICITANTE IMPORTE
 GR/BJE/0848/2015 B18534776 MARTIMOTO MOTOR S.L. 4.800,00 €
 GR/BJE/0851/2015 B19524669 COMERCIAL EL ROMERAL ,S.L. 3.918,90 €
@@ -6547,7 +6390,6 @@ TIONS 4.800,00 €
 Número 62 - Viernes, 31 de marzo de 2017
 página 1 
 BOJA
-#CODIGO_VERIFICACION#
 EXPEDIENTE CIF/NIF SOLICITANTE IMPORTE
 GR/BJE/0920/2015 B87269619 TECSYNC TECHNOLOGY SPAIN S.L. 2.400,00 €
 GR/BJE/0921/2015 B18898189 ANDO CREANDO, S.L. 2.400,00 €
@@ -6594,7 +6436,6 @@ GR/BJE/0996/2015 77144580G MARIA INES PEREZ LOPEZ 4.800,00 €
 Número 62 - Viernes, 31 de marzo de 2017
 página 160 
 BOJA
-#CODIGO_VERIFICACION#
 EXPEDIENTE CIF/NIF SOLICITANTE IMPORTE
 GR/BJE/0998/2015 F19561349 MY SCHOOL ENGLISH CENTER S.C.A 4.800,00 €
 GR/BJE/1000/2015 E18984617 PREVENCION QUESADA 4.800,00 €
@@ -6642,7 +6483,6 @@ GR/BJE/1062/2015 E18984617 PREVENCION QUESADA, C.B. 4.800,00 €
 Número 62 - Viernes, 31 de marzo de 2017
 página 161 
 BOJA
-#CODIGO_VERIFICACION#
 EXPEDIENTE CIF/NIF SOLICITANTE IMPORTE
 GR/BJE/1064/2015 E18482604 FARMACIA VALDIVIA DURO, C.B. 4.800,00 €
 GR/BJE/1066/2015 B18924175 ORITIA & BOREAS, S.L. 4.800,00 €
@@ -6676,7 +6516,6 @@ Provincial, María Auxiliadora de Nova Pozuelo.
 Número 62 - Viernes, 31 de marzo de 2017
 página 162 
 BOJA
-#CODIGO_VERIFICACION#
 5. Anuncios
 5.2. Otros anuncios oficiales
 Consejería de emPleo, emPresa y ComerCio
@@ -6724,7 +6563,6 @@ EXPEDIENTE CIF/NIF SOLICITANTE IMPORTE
 Número 62 - Viernes, 31 de marzo de 2017
 página 163 
 BOJA
-#CODIGO_VERIFICACION#
 EXPEDIENTE CIF/NIF SOLICITANTE IMPORTE
  GR/BJE/0061/2016 22835138W MERCEDES BARRIONUEVO DIAZ 2.400,00 €
  GR/BJE/0063/2016 B18646075 LAS NIEVES OUTSOURCING 2.400,00 €
@@ -6774,7 +6612,6 @@ EXPEDIENTE CIF/NIF SOLICITANTE IMPORTE
 Número 62 - Viernes, 31 de marzo de 2017
 página 16 
 BOJA
-#CODIGO_VERIFICACION#
 EXPEDIENTE CIF/NIF SOLICITANTE IMPORTE
  GR/BJE/0161/2016 B18961557 GALLAGHER´S S.L. 4.800,00 €
  GR/BJE/0162/2016 G18777904 ASOC. ATENC. PERSONAS DISCAPACIDAD LA PIRAMIDE 2.400,00 €
@@ -6824,7 +6661,6 @@ EXPEDIENTE CIF/NIF SOLICITANTE IMPORTE
 Número 62 - Viernes, 31 de marzo de 2017
 página 16 
 BOJA
-#CODIGO_VERIFICACION#
 EXPEDIENTE CIF/NIF SOLICITANTE IMPORTE
  GR/BJE/0254/2016 B82155680 ERESA AUTOMOCION, S.L. 4.800,00 €
  GR/BJE/0255/2016 46747614E RAQUEL LUCINDA ESPINOSA JIMENEZ 4.800,00 €
@@ -6874,7 +6710,6 @@ EXPEDIENTE CIF/NIF SOLICITANTE IMPORTE
 Número 62 - Viernes, 31 de marzo de 2017
 página 166 
 BOJA
-#CODIGO_VERIFICACION#
 EXPEDIENTE CIF/NIF SOLICITANTE IMPORTE
  GR/BJE/0384/2016 B19531375 TALLERES SERVIAUTO VALLE LECRÍN S.L 4.800,00 €
  GR/BJE/0405/2016 B18560136 CASA CUESTA DEL AGUA S.L 2.400,00 €
@@ -6922,7 +6757,6 @@ Provincial, María Auxiliadora de Nova Pozuelo.
 Número 62 - Viernes, 31 de marzo de 2017
 página 167 
 BOJA
-#CODIGO_VERIFICACION#
 5. Anuncios
 5.2. Otros anuncios oficiales
 Consejería de Fomento y vivienda
@@ -6971,7 +6805,6 @@ HORAS DE FECHA 11/07/16 DESCANSO REALIZADO 6:47 HORAS, COMPRENDIDO ENTRE
 Número 62 - Viernes, 31 de marzo de 2017
 página 16 
 BOJA
-#CODIGO_VERIFICACION#
 LAS 04:47 HORAS DE FECHA 11/07/16 Y LAS 11:34 HORAS DE FECHA 11/07/16. ELLO SUPONE 
 UNA DISMINUCIÓN DEL DESCANSO DIARIO REDUCIDO EN MAS DE 2 HORAS, REALIZANDO 
 DESCANSO IGUAL O SUPERIOR A 6 HORAS E INFERIOR A 7 HORAS. REALIZADA LECTURA 
@@ -7026,7 +6859,6 @@ TRANSPORTE PRIVADO COMPLEMENTARIO AL AMPARO DE UNA AUTORIZACIÓN
 Número 62 - Viernes, 31 de marzo de 2017
 página 16 
 BOJA
-#CODIGO_VERIFICACION#
 CADUCADA, REVOCADA O QUE POR CUALQUIER OTRA CAUSA HUBIERA PERDIDO 
 VALIDEZ. TRANSPORTA CARGA DE VIGAS Y BOVEDILLA DE CORCHO. Normas Infringidas: 
 141.14 LEY 16/87 Sancion: 601
@@ -7071,7 +6903,6 @@ Granada, 22 de marzo de 2017.- La Delegada, María Eulalia Fernández Bermejo.
 Número 62 - Viernes, 31 de marzo de 2017
 página 170 
 BOJA
-#CODIGO_VERIFICACION#
 5. Anuncios
 5.2. Otros anuncios oficiales
 Consejería de Fomento y vivienda
@@ -7123,7 +6954,6 @@ Sancion: 1500
 Número 62 - Viernes, 31 de marzo de 2017
 página 171 
 BOJA
-#CODIGO_VERIFICACION#
 Expediente: GR-02976/2016 Matrícula: 4171HXY Titular: CARGO P&V SL Nif/Cif: B23746001 
 Domicilio: CTRA\ MADRID - CADIZ, 297 Co Postal: 23710 Municipio: BAILEN Provincia: 
 Jaen Fecha de denuncia: 30 de Noviembre de 2016 Vía: A92 Punto kilométrico: 241 Hechos: 
@@ -7180,7 +7010,6 @@ CONSTATA QUE SE HA EFECTUADO UNA CONDUCCIÓN DIARIA DE 10:26 HORAS, ENTRE
 Número 62 - Viernes, 31 de marzo de 2017
 página 172 
 BOJA
-#CODIGO_VERIFICACION#
 LAS 14:09 HORAS DE FECHA 15/11/2016 Y LAS 03:28 HORAS DE FECHA 16/11/2016. EXCESO 
 00:26 HORAS, LO QUE SUPONE UN EXCESO INFERIOR O IGUAL A 1 HORA SOBRE UN 
 MÁXIMO DE 10 HORAS. Normas Infringidas: 142.17 LEY 16/87 Sancion: 100
@@ -7235,7 +7064,6 @@ PELIGRO. SE APORTA COMO PRUEBA FOTOGRAFÍA PLACA. Normas Infringidas: 142.7.4 LE
 Número 62 - Viernes, 31 de marzo de 2017
 página 173 
 BOJA
-#CODIGO_VERIFICACION#
 Expediente: GR-00083/2017 Matrícula: Titular: CESPA Nif/Cif: Domicilio: PLANTA DE RESIDUOS 
 MOTRIL Co Postal: 18600 Municipio: MOTRIL Provincia: Granada Fecha de denuncia: 23 de 
 Diciembre de 2016 Vía: A-7 Punto kilométrico: 336 Hechos: TRANSPORTE DE MERCANCÍAS 
@@ -7290,7 +7118,6 @@ Granada, 22 de marzo de 2017.- La Delegada, María Eulalia Fernández Bermejo.
 Número 62 - Viernes, 31 de marzo de 2017
 página 17 
 BOJA
-#CODIGO_VERIFICACION#
 5. Anuncios
 5.2. Otros anuncios oficiales
 Consejería de justiCia e interior
@@ -7330,7 +7157,6 @@ Casasola Gómez.
 Número 62 - Viernes, 31 de marzo de 2017
 página 17 
 BOJA
-#CODIGO_VERIFICACION#
 5. Anuncios
 5.2. Otros anuncios oficiales
 Consejería de justiCia e interior
@@ -7372,7 +7198,6 @@ Sevilla, 21 de marzo de 2017.- El Director General, Demetrio Pérez Carretero.
 Número 62 - Viernes, 31 de marzo de 2017
 página 176 
 BOJA
-#CODIGO_VERIFICACION#
 5. Anuncios
 5.2. Otros anuncios oficiales
 Consejería de justiCia e interior
@@ -7410,7 +7235,6 @@ Sevilla, 21 de marzo de 2017.- El Director General, Demetrio Pérez Carretero.
 Número 62 - Viernes, 31 de marzo de 2017
 página 177 
 BOJA
-#CODIGO_VERIFICACION#
 5. Anuncios
 5.2. Otros anuncios oficiales
 Consejería de agriCultura, PesCa y desarrollo rural
@@ -7447,7 +7271,6 @@ su notificación.»
 Número 62 - Viernes, 31 de marzo de 2017
 página 17 
 BOJA
-#CODIGO_VERIFICACION#
 5. Anuncios
 5.2. Otros anuncios oficiales
 Consejería de agriCultura, PesCa y desarrollo rural
@@ -7473,7 +7296,6 @@ su notificación.»
 Número 62 - Viernes, 31 de marzo de 2017
 página 17 
 BOJA
-#CODIGO_VERIFICACION#
 5. Anuncios
 5.2. Otros anuncios oficiales
 Consejería de medio ambiente y ordenaCión del territorio
@@ -7494,7 +7316,6 @@ Córdoba, 10 de marzo de 2017.- El Delegado, Francisco de Paula Algar Torres.
 Número 62 - Viernes, 31 de marzo de 2017
 página 10 
 BOJA
-#CODIGO_VERIFICACION#
 5. Anuncios
 5.2. Otros anuncios oficiales
 Consejería de medio ambiente y ordenaCión del territorio
@@ -7514,7 +7335,6 @@ Almería, 23 de junio de 2016.- El Delegado, Antonio Martínez Rodríguez.
 Número 62 - Viernes, 31 de marzo de 2017
 página 11 
 BOJA
-#CODIGO_VERIFICACION#
 5. Anuncios
 5.2. Otros anuncios oficiales
 Consejería de medio ambiente y ordenaCión del territorio
@@ -7548,7 +7368,6 @@ Almería, 27 de marzo de 2017.- El Delegado, Antonio Martínez Rodríguez.
 Número 62 - Viernes, 31 de marzo de 2017
 página 12 
 BOJA
-#CODIGO_VERIFICACION#
 
   
 ANEXO I  
@@ -7562,7 +7381,7 @@ ANTECEDENTES
 3 de marzo de 2016, en relación con la Innovación n º 4/13 del PGOU de Roquetas de Mar (Almería), en ma teria de 
 modificación de la clasificación de suelo de los te rrenos incluidos en el ámbito de  suelo urbano no c onsolidado U-
 CMO-11 a suelo urbanizable no sectorizado, acordó s uspender la aprobación definitiva de la referida, c onforme al 
-artículo 33.2.d) de la LOUA por contener el instrum ento las siguientes deficiencias sustanciales a sub sanar 
+## artículo 33.2.d) de la LOUA por contener el instrum ento las siguientes deficiencias sustanciales a sub sanar
 recogidas en el Fundamento de Derecho IV del Acuerdo adoptado en fecha 3 de marzo de 2016: 
  Se deberá corregir la tabla incluida en la pagina 2 4 (foliado 185) de la memoria de la innovación 
 propuesta ya que no se han reajustado los datos glo bales del “total del suelo urbano” que se 
@@ -7596,7 +7415,6 @@ englobados en un gran ámbito denominado SUR-NS-Roquetas Pueblo.
 Número 62 - Viernes, 31 de marzo de 2017
 página 13 
 BOJA
-#CODIGO_VERIFICACION#
 
   
 La U-CMO-11 cuenta con una superficie de 11.300 m2,  uso característico residencial para 73 viviendas, sin 
@@ -7646,7 +7464,6 @@ Roquetas de Mar (Almería), en materia de modificaci ón de la clasificación de
 Número 62 - Viernes, 31 de marzo de 2017
 página 1 
 BOJA
-#CODIGO_VERIFICACION#
 
   
 2º.- Notificar este Acuerdo al Ayuntamiento de Roquetas de Mar, proceder a su depósito e inscripción en el 
@@ -7664,7 +7481,6 @@ Antonio Martínez Rodríguez
 Número 62 - Viernes, 31 de marzo de 2017
 página 1 
 BOJA
-#CODIGO_VERIFICACION#
 
   
 ANEXO II 
@@ -7708,7 +7524,6 @@ la presente Innovación del PGOU, D. Francisco J. Fe rnández Ocaña, es propiet
 Número 62 - Viernes, 31 de marzo de 2017
 página 16 
 BOJA
-#CODIGO_VERIFICACION#
 
   
 1.5.- Competencia y procedimiento   
@@ -7745,7 +7560,7 @@ el sistema de asentamientos.
 Igualmente así se recoge en el art 165 N Incidencia territorial de planes urbanísticos [N] del Plan de 
 Ordenación del Territorio de Andalucía POTA, en su Título V. Desarrollo y Gestión de la Política Territorial, 
 
-### Capítulo 1. Instrumentos de gestión de la Política Territorial 
+### Capítulo Capítulo
 1. En el marco de la Disposición Adicional Segunda de la Ley 1/1994 y Disposición Adicional Octava de la L ey 7/2002, los 
 Planes Generales previstas por la legislación urbaní stica, la valoración de la incidencia de sus determ inaciones en la 
 ordenación del territorio, particularmente en el si stema de ciudades, sistema de comunicaciones y tran sportes, equipamientos, 
@@ -7759,7 +7574,6 @@ Estratégica, no generando una incidencia territorial negativa.
 Número 62 - Viernes, 31 de marzo de 2017
 página 17 
 BOJA
-#CODIGO_VERIFICACION#
 
   
 2. MEMORIA DE LA INFORMACIÓN URBANÍSTICA 
@@ -7778,7 +7592,6 @@ Plano de situación en el municipio
 Número 62 - Viernes, 31 de marzo de 2017
 página 1 
 BOJA
-#CODIGO_VERIFICACION#
 
   
 El ámbito de la presente Innovación corresponde ínt egramente a la superficie ocupada por el ámbito de Suelo 
@@ -7797,7 +7610,6 @@ urbanizable no sectorizado.
 Número 62 - Viernes, 31 de marzo de 2017
 página 1 
 BOJA
-#CODIGO_VERIFICACION#
 
   
 2.3. Estado actual y usos. 
@@ -7821,7 +7633,6 @@ Total 11.300 m2 Total ámbito
 Número 62 - Viernes, 31 de marzo de 2017
 página 10 
 BOJA
-#CODIGO_VERIFICACION#
 
   
 El promotor de la presente Innovación del PGOU es D. Francisco J.Fernández Ocaña, propietario mayoritario del 
@@ -7839,7 +7650,6 @@ La presente Innovación modifica dicha clasificación de suelo de Suelo Urbano a
 Número 62 - Viernes, 31 de marzo de 2017
 página 11 
 BOJA
-#CODIGO_VERIFICACION#
 
   
 Plano Ordenación Estructural. Clasificación del Suelo. Suelo Urbano 
@@ -7852,7 +7662,6 @@ La presente Innovación no modifica el Uso Global del ámbito que seguirá siend
 Número 62 - Viernes, 31 de marzo de 2017
 página 12 
 BOJA
-#CODIGO_VERIFICACION#
 
   
 Plano Ordenación Estructural. Estructura del Territorio. Clasificación del Suelo. 
@@ -7866,7 +7675,6 @@ No Sectorizado SUR-NS.
 Número 62 - Viernes, 31 de marzo de 2017
 página 13 
 BOJA
-#CODIGO_VERIFICACION#
 
   
 Plano Ordenación Estructural. Delimitación de los distintos ámbitos del calificación del suelo, 
@@ -7878,7 +7686,6 @@ La presente Innovación modifica dicha zonificación a ZONA IX (SUR-NS. Suelo Ur
 Número 62 - Viernes, 31 de marzo de 2017
 página 1 
 BOJA
-#CODIGO_VERIFICACION#
 
   
 B.-Condiciones recogidas de carácter de ORDENACION PORMENORIZADA. 
@@ -7893,7 +7700,6 @@ Delimitación de Areas de Reparto y Programación., plano 19 de la presente Inno
 Número 62 - Viernes, 31 de marzo de 2017
 página 1 
 BOJA
-#CODIGO_VERIFICACION#
 
   
 CONDICIONES DEL AREA DE REPARTO ARU-11 
@@ -7916,7 +7722,6 @@ previstos y propuestos.
 Número 62 - Viernes, 31 de marzo de 2017
 página 16 
 BOJA
-#CODIGO_VERIFICACION#
 
   
 Plano de Ordenación de Usos. POTPA. 
@@ -7929,7 +7734,6 @@ Poniente Almeriense.
 Número 62 - Viernes, 31 de marzo de 2017
 página 17 
 BOJA
-#CODIGO_VERIFICACION#
 
   
 2.7. Dominio Público Hidráulico y Calidad de las Aguas. 
@@ -7976,7 +7780,6 @@ Sectorizado, en el momento que el municipio entienda la necesidad de programaci�
 Número 62 - Viernes, 31 de marzo de 2017
 página 1 
 BOJA
-#CODIGO_VERIFICACION#
 
   
 3.- Se mantiene la estructuración viaria del Plan, por tanto preservando la vertebración de la ciudad en su 
@@ -8030,7 +7833,6 @@ Incidencia supramunicipal.
 Número 62 - Viernes, 31 de marzo de 2017
 página 1 
 BOJA
-#CODIGO_VERIFICACION#
 
   
 Se concluye que la innovación propuesta no genera afección sobre el territorio a excepción de la población prevista 
@@ -8053,7 +7855,6 @@ según lo recogido en el plano 6 de la presente Innovación.
 Número 62 - Viernes, 31 de marzo de 2017
 página 200 
 BOJA
-#CODIGO_VERIFICACION#
 
   
 Plano Ordenación Estructural. Estructura del Territorio. Clasificación del Suelo. 
@@ -8065,7 +7866,6 @@ presente Innovación.
 Número 62 - Viernes, 31 de marzo de 2017
 página 201 
 BOJA
-#CODIGO_VERIFICACION#
 
   
 Plano Ordenación Estructural. Delimitación de los distintos ámbitos del calificación del suelo, 
@@ -8077,7 +7877,6 @@ Suelo Urbanizable No Sectorizado)
 Número 62 - Viernes, 31 de marzo de 2017
 página 202 
 BOJA
-#CODIGO_VERIFICACION#
 
   
 Modificación de la presente Innovación. 
@@ -8087,7 +7886,6 @@ a SUR-NS, tal y como se grafía en el plano 18 de la presente Innovación.
 Número 62 - Viernes, 31 de marzo de 2017
 página 203 
 BOJA
-#CODIGO_VERIFICACION#
 
   
 Plano de Ordenacion Pormenorizada. Calificacion y Tipologias 
@@ -8097,7 +7895,6 @@ tanto, no se incluyen en ninguna Area de Reparto prevista por el Plan. Plano 20 
 Número 62 - Viernes, 31 de marzo de 2017
 página 20 
 BOJA
-#CODIGO_VERIFICACION#
 
   
 Modificación de la presente Innovación. 
@@ -8121,7 +7918,6 @@ todos aquellos aspectos relacionados no regulados en la presente documentación.
 Número 62 - Viernes, 31 de marzo de 2017
 página 20 
 BOJA
-#CODIGO_VERIFICACION#
 
   
 4.2. Régimen urbanístico del suelo. 
@@ -8175,13 +7971,11 @@ RELACIÓN DE LOS ÁMBITOS EN EL SUELO URBANIZABLE NO SECTORIZADO
 Número 62 - Viernes, 31 de marzo de 2017
 página 206 
 BOJA
-#CODIGO_VERIFICACION#
   
 
 Número 62 - Viernes, 31 de marzo de 2017
 página 207 
 BOJA
-#CODIGO_VERIFICACION#
 
   
 CUADRO GENERAL DEL TÉRMINO MUNICIPAL 
@@ -8260,7 +8054,6 @@ CUADRO GENERAL DEL TÉRMINO MUNICIPAL
 Número 62 - Viernes, 31 de marzo de 2017
 página 20 
 BOJA
-#CODIGO_VERIFICACION#
 
   
 
@@ -8311,7 +8104,6 @@ BOJA
 Número 62 - Viernes, 31 de marzo de 2017
 página 20 
 BOJA
-#CODIGO_VERIFICACION#
   
 CUADRO DEL SUELO URBANO  
 
@@ -8334,7 +8126,6 @@ Subtotal Suelo Urbano No Consolidado 
 Número 62 - Viernes, 31 de marzo de 2017
 página 210 
 BOJA
-#CODIGO_VERIFICACION#
 
   
 CUADRO DEL SUELO URBANO NO CONSOLIDADO  
@@ -8373,7 +8164,6 @@ U-ROQ-10 5.496 3.664 9.159
 Número 62 - Viernes, 31 de marzo de 2017
 página 211 
 BOJA
-#CODIGO_VERIFICACION#
 
   
 Intervención Denominación Núcleo Uso global Área de  Ap. Superficie Edificab. Superf. Densidad Nº 
@@ -8406,7 +8196,6 @@ Mojonera
 Número 62 - Viernes, 31 de marzo de 2017
 página 212 
 BOJA
-#CODIGO_VERIFICACION#
 
   
 Intervención Denominación Núcleo Uso global Área de  Ap. Superficie Edificab. Superf. Densidad Nº 
@@ -8437,7 +8226,6 @@ Pueblo
 Número 62 - Viernes, 31 de marzo de 2017
 página 213 
 BOJA
-#CODIGO_VERIFICACION#
 
   
 SUELO URBANIZABLE   
@@ -8485,7 +8273,6 @@ Estas áreas de reparto incluyen además los Sistemas Generales adscritos para s
 Número 62 - Viernes, 31 de marzo de 2017
 página 21 
 BOJA
-#CODIGO_VERIFICACION#
 
   
 ESTUDIO DE COSTES ECONÓMICOS 
@@ -8510,7 +8297,6 @@ A-SAL-01  12.597,00      452.862,07    10.430.316,0 0
 Número 62 - Viernes, 31 de marzo de 2017
 página 21 
 BOJA
-#CODIGO_VERIFICACION#
 
   
 Intervenciones  Superficie (m2)   Coste Suelo (€)  Coste Edificación (€) 
@@ -8552,7 +8338,6 @@ en gastos.
 Número 62 - Viernes, 31 de marzo de 2017
 página 216 
 BOJA
-#CODIGO_VERIFICACION#
 
   
 Categoría Superficie (m2) Coste Suelo (€)     Coste Edificaci ón (€) 
@@ -8592,7 +8377,6 @@ U-CMO-10 Sur Finca Los morenos 2 1º Cuatrinenio
 Número 62 - Viernes, 31 de marzo de 2017
 página 217 
 BOJA
-#CODIGO_VERIFICACION#
 
   
 Puerto  
@@ -8618,7 +8402,6 @@ legitime la actividad de ejecución, en función de las necesidades y previsione
 Número 62 - Viernes, 31 de marzo de 2017
 página 21 
 BOJA
-#CODIGO_VERIFICACION#
   
 AREAS DE REPARTO EN SUN-ARIS Y SUNC-SEC 
   Categoría Uso Global Sup. (M²) 
@@ -8678,7 +8461,6 @@ TOTAL ÁREA DE REPARTO ARU-07 39.435 51.266 394 47.393 1,202
 Número 62 - Viernes, 31 de marzo de 2017
 página 21 
 BOJA
-#CODIGO_VERIFICACION#
   
   Categoría Uso Global Sup. (M²) 
 Edf. 
@@ -8734,7 +8516,6 @@ Residencial VPP      27% 11.283 1 0,45 5.957
 Número 62 - Viernes, 31 de marzo de 2017
 página 220 
 BOJA
-#CODIGO_VERIFICACION#
   
   Categoría Uso Global Sup. (M²) 
 Edf. 
@@ -8788,7 +8569,6 @@ Residencial VPP      27% 11.701 1 0,45 5.266
 Número 62 - Viernes, 31 de marzo de 2017
 página 221 
 BOJA
-#CODIGO_VERIFICACION#
   
   Categoría Uso Global Sup. (M²) 
 Edf. 
@@ -8842,7 +8622,6 @@ Residencial VPP      27% 8.315 1 0,45 3.742
 Número 62 - Viernes, 31 de marzo de 2017
 página 222 
 BOJA
-#CODIGO_VERIFICACION#
   
   Categoría Uso Global Sup. (M²) 
 Edf. 
@@ -8898,7 +8677,6 @@ ARU-11B TOTAL ÁREA DE REPARTO ARU-11B 28.018 28.018 0 28.018 1,000
 Número 62 - Viernes, 31 de marzo de 2017
 página 223 
 BOJA
-#CODIGO_VERIFICACION#
 
   
 
@@ -8952,7 +8730,6 @@ Puerto
 Número 62 - Viernes, 31 de marzo de 2017
 página 22 
 BOJA
-#CODIGO_VERIFICACION#
 Núcleo Ámbito Superficie Uso 
 SUR-NS-Las Marinas 722.106 Residencial-
 Turístico 
@@ -9001,7 +8778,6 @@ continuidad con la trama urbana
 Número 62 - Viernes, 31 de marzo de 2017
 página 22 
 BOJA
-#CODIGO_VERIFICACION#
 5. Anuncios
 5.2. Otros anuncios oficiales
 Consejería de medio ambiente y ordenaCión del territorio
@@ -9036,7 +8812,6 @@ Cádiz, 2 de marzo de 2017.- El Delegado, Ángel Acuña Racero.
 Número 62 - Viernes, 31 de marzo de 2017
 página 226 
 BOJA
-#CODIGO_VERIFICACION#
 5. Anuncios
 5.2. Otros anuncios oficiales
 Consejería de medio ambiente y ordenaCión del territorio
@@ -9064,7 +8839,6 @@ Huelva, 31 de octubre de 2016.- La Delegada, Rocío Jiménez Garrochena.
 Número 62 - Viernes, 31 de marzo de 2017
 página 227 
 BOJA
-#CODIGO_VERIFICACION#
 5. Anuncios
 5.2. Otros anuncios oficiales
 Consejería de medio ambiente y ordenaCión del territorio
@@ -9086,7 +8860,6 @@ Jaén, 14 de febrero de 2017.- El Delegado, Juan Eugenio Ortega Rodríguez.
 Número 62 - Viernes, 31 de marzo de 2017
 página 22 
 BOJA
-#CODIGO_VERIFICACION#
 5. Anuncios
 5.2. Otros anuncios oficiales
 Consejería de medio ambiente y ordenaCión del territorio
@@ -9102,7 +8875,6 @@ Jaén, 1 de marzo de 2017.- El Delegado, Juan Eugenio Ortega Rodríguez.
 Número 62 - Viernes, 31 de marzo de 2017
 página 22 
 BOJA
-#CODIGO_VERIFICACION#
 5. Anuncios
 5.2. Otros anuncios oficiales
 Consejería de medio ambiente y ordenaCión del territorio
@@ -9130,7 +8902,6 @@ Málaga, 3 de marzo de 2017.- El Delegado, Adolfo Moreno Carrera.
 Número 62 - Viernes, 31 de marzo de 2017
 página 230 
 BOJA
-#CODIGO_VERIFICACION#
 5. Anuncios
 5.2. Otros anuncios oficiales
 Consejería de medio ambiente y ordenaCión del territorio
@@ -9153,7 +8924,6 @@ Ortega Rodríguez.
 Número 62 - Viernes, 31 de marzo de 2017
 página 231 
 BOJA
-#CODIGO_VERIFICACION#
 5. Anuncios
 5.2. Otros anuncios oficiales
 ayuntamientos
@@ -9189,7 +8959,6 @@ Mojácar, 23 de marzo de 2017.- La Alcaldesa-Presidenta, Rosa María Cano Montoy
 Número 62 - Viernes, 31 de marzo de 2017
 página 232 
 BOJA
-#CODIGO_VERIFICACION#
 5. Anuncios
 5.2. Otros anuncios oficiales
 ayuntamientos
@@ -9209,7 +8978,6 @@ Trigueros, 20 de marzo de 2017.- El Alcalde, Cristóbal Romero Márquez.
 Número 62 - Viernes, 31 de marzo de 2017
 página 233 
 BOJA
-#CODIGO_VERIFICACION#
 5. Anuncios
 5.2. Otros anuncios oficiales
 ayuntamientos
