@@ -29,7122 +29,24385 @@ relaciones:
   afecta_a_articulos: []
 ---
 
-# Decreto 61/2022, de 13 de julio, por el que se establece la ordenación y el currículo de la Educación Primaria en la Comunidad de Madrid
+## Preámbulo
 
-JUEVES 14 DE JULIO DE 2022Pág. 10 B.O.C.M. Núm. 166
-BOCM-20220714-1
-BOLETÍN OFICIAL DE LA COMUNIDAD DE MADRIDBOCM
-I. COMUNIDAD DE MADRID
-B) Autoridades y Personal
-Vicepresidencia, Consejería de Educación y Universidades
-1 ORDEN 1943/2022, de 4 de julio, del Vicepresidente, Consejero de Educa-
-ción y Universidades, por la que se resuelve la convocatoria aprobada por
-Orden 1166/2022, de 11 de mayo, del entonces Consejero de Educación, Univer-
-sidades, Ciencia y Portavoz del Gobierno (B
-OLETÍN OFICIAL DE LA COMUNIDAD
-DE MADRID de 25 de mayo, corregido por BOLETÍN OFICIAL DE LA COMUNIDAD DE
-MADRID de 27 de mayo), para la provisión de dos puestos de trabajo vacantes en
-la entonces Consejería de Educación, Universidades, Ciencia y Portavocía por el
-procedimiento de Libre Designación.
-Por Orden 1166/2022, de 11 de mayo, del entonces Consejero de Educación, Univer-
-sidades, Ciencia y Portavoz del Gobierno (B
-OLETÍN OFICIAL DE LA COMUNIDAD DE
-MADRID de 25 de mayo, corregido por B OLETÍN OFICIAL DE LA COMUNIDAD DE MADRID
-de 27 de mayo), se aprobó convocatoria pública para la provisión de dos puestos de traba-
-jo vacantes en la entonces Consejería de Educación, Universidades, Ciencia y Portavocía
-por el procedimiento de Libre Designación.
-En el procedimiento de provisión se han cumplido las normas de la Ley 1/1986, de 10
-de abril, de la Función Pública de la Comunidad de Madrid (B
-OLETÍN OFICIAL DE LA CO-
-MUNIDAD DE MADRID de 24 de abril); la Orden 923/1989, de 20 de abril, de la Consejería
-de Hacienda, por la que se aprueban las bases generales que han de regir en las convocato-
-rias para provisión de puestos por los sistemas de Concurso de Méritos y Libre Designación
-(B
-OLETÍN OFICIAL DE LA COMUNIDAD DE MADRID de 27 de abril) y, en lo no previsto por
-las anteriores, el Real Decreto 364/1995, de 10 de marzo, por el que se aprueba el Reglamen-
-to General de Ingreso del Personal al Servicio de la Administración General del Estado y de
-Provisión de Puestos de Trabajo y Promoción Profesional de los Funcionarios Civiles de la
-Administración General del Estado (“Boletín Oficial del Estado” de 10 de abril), así como
-las demás prescripciones contenidas en las bases de convocatoria correspondientes.
-De acuerdo con la propuesta formulada por la unidad responsable y el informe favora-
-ble emitido por la Consejería de Economía, Hacienda y Empleo, verificado que las candi-
-datas propuestas cumplen los requisitos y especificaciones exigidos en la convocatoria, en
-virtud de la competencia atribuida en el artículo 49.2 de la Ley 1/1986, de 10 de abril, de la
-Función Pública de la Comunidad de Madrid,
-RESUELVO
-Primero
-Objeto
-Se adjudican los puestos de trabajo a las funcionarias que figuran en el Anexo.
-Segundo
-Plazo de toma de posesión
-1. El plazo para tomar posesión del nuevo destino obtenido será de tres días. Dicho
-plazo empezará a contarse a partir del día siguiente al del cese, que deberá efectuarse den-
-tro de los tres días siguientes al de la publicación de la presente Resolución, salvo que el
-cese haya sido formalmente diferido o aplazado por el órgano competente.
-El cómputo del plazo posesorio se iniciará cuando finalicen los permisos o licencias
-que, en su caso, hayan sido concedidas a los interesados, salvo que, por causas justificadas,
-el órgano que los concedió acuerde suspender el disfrute de los mismos.
-2. Si la Resolución comporta el reingreso al servicio activo, el plazo de toma de po-
-sesión será el que establezca la orden de reingreso, conforme a lo previsto en la normativa
-aplicable.
+Texto consolidado
+: «Última actualización, publicada el 26/11/2025»
 
-JUEVES 14 DE JULIO DE 2022B.O.C.M. Núm. 166 Pág. 11
-BOCM-20220714-1
-BOLETÍN OFICIAL DE LA COMUNIDAD DE MADRIDBOCM
-Tercero
-Recursos
-La presente Orden pone fin a la vía administrativa y contra la misma podrá interpo-
-nerse, con carácter potestativo, recurso de reposición en el plazo de un mes ante el mis-
-mo órgano que la ha dictado, o bien, recurso contencioso-administrativo, en el plazo de
-dos meses, ante los Juzgados de lo Contencioso-Administrativo de Madrid, ambos pla-
-zos contados a partir del día siguiente a su publicación en el B
-OLETÍN OFICIAL DE LA
-COMUNIDAD DE MADRID, sin perjuicio de cualquier otro recurso que se estime proce-
-dente en derecho, todo ello de conformidad con lo dispuesto en los artículos 123 y 124
-de la Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común de las Ad-
-ministraciones Públicas, y 46 de la Ley 29/1998, de 13 de julio, Reguladora de la Juris-
-dicción Contencioso-Administrativa.
-Dado en Madrid, a 4 de julio de 2022.—El Vicepresidente, Consejero de Educación
-y Universidades, P. D. (Orden 11634/2012, de 27 de noviembre, B
-OLETÍN OFICIAL DE LA
-COMUNIDAD DE MADRID de 3 de diciembre), la Secretaria General Técnica, Mar Pérez
-Merino.
 
-JUEVES 14 DE JULIO DE 2022Pág. 12 B.O.C.M. Núm. 166
-BOCM-20220714-1
-http://www.bocm.es BOLETÍN OFICIAL DE LA COMUNIDAD DE MADRID D. L.: M. 19.462-1983      ISSN 1989-4791
-BOLETÍN OFICIAL DE LA COMUNIDAD DE MADRIDBOCM
-RESOLUCIÓN DE CONVOCATORIA DE PROVISIÓN DE PUESTOS POR EL SISTEMA DE LIBRE DESIGNACIÓN
-76572
-39357
-CONSEJERIA : VICEPRESIDENCIA, CONSEJERÍA DE EDUCACIÓN Y
-UNIVERSIDADES
-SECRETARIA GENERAL TECNICA
-SUBDIRECCION GENERAL REGIMEN JURIDICO
-DIVISIÓN RÉGIMEN JURÍDICO
-CONSEJERIA : VICEPRESIDENCIA, CONSEJERÍA DE EDUCACIÓN Y
-UNIVERSIDADES
-SECRETARIA GENERAL TECNICA
-SUBDIRECCION GENERAL REGIMEN JURIDICO
-AREA COORDINACIÓN NORMATIVA
-Puesto de Trabajo:
-Puesto de Trabajo:
-JEFE DE DIVISION DE REGIMEN JURIDICO
-JEFE DE AREA DE COORDINACION
-NORMATIVA
-Denominación     :
-Denominación     :
+
+
+Ir a: 
+
+
+
+
+
+
+Seleccionar apartado
+
+
+
+
+[Preámbulo]
+
+
+1. Consideraciones de carácter general
+
+
+2. Atención Primaria, Atención Especializada y Servicios de Urgencia
+
+
+3. Prestación farmacéutica y con productos dietéticos, mediante dispensación ambulatoria
+
+
+4. Prestaciones por traslados de enfermos
+
+
+5. Prestación ortoprotésica
+
+
+6. Prestaciones sanitarias complementarias
+
+
+## Disposición transitoria primera
+
+
+## Disposición transitoria segunda
+
+
+## Disposición derogatoria
+
+
+Disposición final primera
+
+
+## Disposición final segunda
+
+
+[Firma]
+
+
+ANEXO 1
+
+
+ANEXO 2
+
+
+ANEXO 3
+
+
+ANEXO 4
+
+
+ANEXO 5
+
+
+ANEXO 6
+
+
+
+
+
+
+
+
+
+
+
+
+Se deja sin efecto la presente Resolución, desde el 1 de enero de 2026, por la disposición derogatoria.A) de la Resolución 4B0/38485/2025, de 17 de noviembre. 
+Ref. BOE-A-2025-23973
+
+
+
+
+
+
+Subir
+
+
+
+
+
+
+[Bloque 2: #pr]
+
+
+El 
+Texto Refundido de la Ley sobre Seguridad Social de las Fuerzas Armadas, aprobado por el Real Decreto Legislativo 1/2000, de 9 de junio
+, establece en su artículo 13 el contenido de la asistencia sanitaria de este régimen especial, que se desarrolla en el capítulo V de su Reglamento General, aprobado por 
+Real Decreto 1726/2007, de 21 de diciembre
+, concretándose que su contenido será análogo al establecido en el ámbito del Sistema Nacional de Salud.
+
+
+La 
+Ley 16/2003, de 28 de mayo
+, de cohesión y calidad del Sistema Nacional de Salud, en su artículo 7.1, establece que el catálogo de prestaciones del Sistema Nacional de Salud tiene por objeto garantizar las condiciones básicas y comunes para una atención integral, continuada y en el nivel adecuado de atención que, conforme a lo previsto en el artículo 8, se harán efectivas mediante la cartera común de servicios que se estructura en las siguientes modalidades:
+
+
+a) Cartera común básica de servicios asistenciales del Sistema Nacional de Salud, que comprende todas las actividades asistenciales de prevención, diagnóstico, tratamiento y rehabilitación que se realicen en centros sanitarios, así como el transporte sanitario urgente, cubiertos de forma completa.
+
+
+b) Cartera común suplementaria del Sistema Nacional de Salud, que incluye aquellas prestaciones cuya provisión se realiza mediante dispensación ambulatoria, en concreto, la prestación farmacéutica, la prestación ortoprotésica, la prestación con productos dietéticos y el transporte sanitario no urgente.
+
+
+c) Cartera común de servicios accesorios del Sistema Nacional de Salud, que incluye todas aquellas actividades, servicios o técnicas, sin carácter de prestaciones, no esenciales y/o coadyuvantes o de apoyo, sujetas a aportación y/o reembolso por parte del usuario.
+
+
+En la 
+## Disposición adicional única del Real Decreto 1030/2006, de 15 de septiembre
+, por el que se establece la cartera de servicios comunes del Sistema Nacional de Salud y el procedimiento para su actualización, se contempla que las mutualidades de funcionarios, en sus respectivos ámbitos de competencia, podrán aprobar sus respectivas carteras de servicios y, atendiendo a esta previsión, por, Resolución 4B0/38303/2020, de 30 de septiembre, se aprobó la Cartera de Servicios de Asistencia Sanitaria del ISFAS.
+
+
+El desarrollo de la Sede Electrónica del ISFAS permitirá que la mayor parte de las prestaciones puedan tramitarse por procedimientos telemáticos y, por tanto, reducir la tramitación presencial de expedientes.
+
+
+Los principios de simplicidad y claridad, que vinculan a las administraciones públicas según lo previsto en el 
+artículo 3 de la Ley 40/2015, de 1 de octubre
+, de Régimen Jurídico de las Administraciones Públicas, inspiran la revisión de los procedimientos para el reconocimiento de las prestaciones del ISFAS.
+
+
+Los cambios procedimentales que se adoptan con esta Resolución forman parte de las diferentes actuaciones enmarcadas en el vigente Plan Estratégico del ISFAS, si bien su puesta en marcha se ha visto acelerada por la situación reciente.
+
+
+Los motivos expresados determinan la necesidad de adecuar las condiciones de tramitación de las prestaciones incluidas en la Cartera de Servicios de Asistencia Sanitaria del ISFAS. Y los principios que lo inspiran tratan de buscar un adecuado equilibrio entre la simplicidad y comodidad para el administrado, y la necesaria seguridad jurídica y adecuación a la norma por parte de la gestión económica desarrollada por un organismo autónomo con presupuesto público. En consecuencia, los nuevos procedimientos son acordes con la 
+Ley 39/2015, de 1 de octubre
+, de Procedimiento Administrativo Común de las Administraciones Públicas y la restante normativa aplicable.
+
+
+Los nuevos procedimientos permiten, como principal novedad, la remisión telemática de la documentación necesaria para tramitar las correspondientes solicitudes de los afiliados. En un solo trámite se presentará la solicitud y la documentación que la sustenta, eliminando, en la mayoría de los casos, la exigencia de ser documentos originales.
+
+
+La Sede electrónica debe de convertirse, paulatinamente, en el cauce preferencial para la presentación de solicitudes y se irá priorizando a medida que las ventajas de dicho cauce sean percibidas por los afiliados. Si bien con esta Resolución se aprueba el marco jurídico genérico para ello, los correspondientes trámites en la Sede Electrónica se irán activando paulatinamente a medida que se implanten los desarrollos informáticos necesarios, circunstancia a la que se dará la debida difusión. A tal efecto se introduce la oportuna disposición transitoria.
+
+
+En paralelo, este cambio supone la necesidad de requerir del afiliado una declaración responsable de la autenticidad de los documentos aportados, junto con el consentimiento para contrastar la información con terceros, logrando así la necesaria seguridad jurídica que el cambio conlleva.
+
+
+Finalmente, y dado que la Resolución 4B0/38303/2020 que aprobó la Cartera de Servicios de Asistencia Sanitaria del ISFAS ha sufrido diversos cambios parciales en estos años, destacando como principal y fundamental novedad, la concreción y actualización del 
+Anexo VI del Real Decreto 1030/2006, de 15 de septiembre
+, pendiente mediante la 
+Orden SND/44/2022, de 27 de enero
+, y precisa puntualizar determinados aspectos de su regulación, en aras de una mayor transparencia y claridad normativa, se considera oportuno dictar una un nueva Resolución, mediante la que se aprueba la totalidad de esa Cartera de Servicios.
+
+
+Y, con este objeto, en el ejercicio de las competencias atribuidas por el 
+artículo 18 del Reglamento General de la Seguridad Social de las Fuerzas Armadas, aprobado por Real Decreto 1726/2007, de 21 de diciembre
+, dispongo:
+
+
+
+
+Subir
+
+
+
+
+
+
+[Bloque 3: #A1]
+
+
+1. Consideraciones de carácter general.
+
+
+1.1 Contenido de la Cartera de Servicios de la Asistencia Sanitaria.
+
+
+La Cartera de Servicios es el conjunto de técnicas, tecnologías o procedimientos, entendiendo por tales cada uno de los métodos, actividades y recursos basados en el conocimiento y experimentación científica, mediante los que se harán efectivas las prestaciones sanitarias.
+
+
+La Cartera de Servicios de la asistencia sanitaria del ISFAS se estructura en las siguientes prestaciones:
+
+
+a) Prestaciones de atención primaria, atención especializada y asistencia de urgencia, incluidas en la cartera común básica de servicios asistenciales.
+
+
+b) Prestación Farmacéutica.
+
+
+c) Prestación con productos dietéticos.
+
+
+d) Transporte sanitario.
+
+
+e) Prestación Ortoprotésica.
+
+
+f) Prestaciones sanitarias complementarias.
+
+
+1.2 Beneficiarios.
+
+
+De conformidad con lo dispuesto en el artículo 12 del texto refundido de la Ley sobre Seguridad Social de las Fuerzas Armadas y sus normas de desarrollo, el derecho a las prestaciones de asistencia sanitaria del ISFAS corresponde a los titulares incluidos en el ámbito de aplicación de este régimen especial de Seguridad Social y a los beneficiarios a su cargo.
+
+
+1.3 Condiciones generales para la tramitación de solicitudes de prestaciones.
+
+
+1.3.1 Con carácter general, las solicitudes se presentarán a través de la Sede Electrónica del ISFAS. También podrán presentarse en las Delegaciones del ISFAS, mediante formulario normalizado que podrá obtenerse en las mismas Delegaciones del ISFAS o en la web de este Instituto.
+
+
+1.3.2 Las solicitudes se acompañarán de la documentación requerida para el reconocimiento de la correspondiente prestación, según lo previsto en el apartado específico.
+
+
+1.3.3 En las facturas deberá figurar el detalle de conceptos y precios así como la constancia del pago, o ir acompañada, en su caso, del correspondiente recibo que lo acredite. Además las facturas deberán reunir todos los requisitos legales y reglamentarios exigidos para su validez, es decir:
+
+
+a) Número y, en su caso, serie de la factura.
+
+
+b) Fecha de su expedición.
+
+
+c) Nombre y apellidos, razón o denominación social completa, así como el NIF del emisor.
+
+
+d) Nombre y apellidos del destinatario.
+
+
+e) Domicilio del emisor.
+
+
+f) Descripción de las operaciones, consignándose todos los datos necesarios para la determinación de la base imponible de aquellas y su importe.
+
+
+g) Indicación, en su caso, de que la operación está exenta del Impuesto sobre el Valor Añadido.
+
+
+h) Fecha en que se hayan efectuado las operaciones que se facturan, si se trata de fecha distinta a la de expedición de la factura.
+
+
+1.3.4 El ISFAS podrá requerir al solicitante la documentación que considere necesaria y realizar de oficio las comprobaciones oportunas, tanto para completar la documentación que se hubiera aportado con carácter previo a la resolución de la solicitud, como para verificar aquellos extremos que hubieran sido objeto de simple declaración, aun tratándose de solicitudes ya resueltas.
+
+
+Por ello, los titulares deberán conservar los originales de las facturas y los otros documentos originales de valor probatorio que no hubieran tenido que unir a la solicitud, durante un plazo de cuatro años, contados desde la fecha de cobro de la prestación, tal y como establece el 
+artículo 19 del Reglamento por el que se regulan las obligaciones de facturación, aprobado por Real Decreto 1619/2012, de 30 de noviembre
+.
+
+
+En el caso de verificarse el incumplimiento de las condiciones y requisitos necesarios para su concesión, el ISFAS solicitará el reintegro de los importes abonados conforme a lo previsto en el 
+artículo 47 del Reglamento General de la Seguridad Social de las Fuerzas Armadas, aprobado por el Real Decreto 1726/2007, de 21 de diciembre
+.
+
+
+1.3.5 Cualquiera que sea el canal de presentación de la solicitud será de aplicación lo dispuesto en el artículo 46 del citado Reglamento General de la Seguridad Social de las Fuerzas Armadas que establece que el derecho al reconocimiento de las prestaciones prescribirá a los cuatro años, contados a partir del día siguiente a aquél en que tenga lugar el hecho causante de la prestación de que se trate. La prescripción se interrumpirá por la reclamación ante el ISFAS y por las causas ordinarias establecidas en el 
+artículo 1973 del Código Civil
+.
+
+
+A efectos de lo previsto en este apartado, en relación al hecho causante se tendrá en cuenta la fecha de la correspondiente factura y en cuanto a la fecha de presentación, aquélla en la que tenga entrada la solicitud en el registro público correspondiente.
+
+
+1.3.6 Conforme a la normativa vigente el plazo máximo para la resolución de las solicitudes de prestaciones es de 6 (seis) meses y el silencio administrativo tendrá efectos estimatorios.
+
+
+
+
+Subir
+
+
+
+
+
+
+[Bloque 4: #A2]
+
+
+2. Atención Primaria, Atención Especializada y Servicios de Urgencia.
+
+
+La cartera común básica de servicios comprende todas las actividades asistenciales de prevención, diagnóstico, tratamiento y rehabilitación que se realicen en centros sanitarios, en el ámbito de la Atención Primaria, la Atención Especializada y la Asistencia de Urgencia, incluyendo el transporte sanitario urgente.
+
+
+La Atención Primaria, la Atención Especializada y la Asistencia de Urgencia se prestarán por los correspondientes servicios asignados en función de la Modalidad Asistencial a la que haya quedado adscrito el titular, con un contenido análogo al que se recoge en el 
+Real Decreto 1030/2006, de 15 de septiembre
+, por el que se establece la cartera de servicios comunes del Sistema Nacional de Salud y el procedimiento para su actualización, y con sujeción a los requisitos previstos en los Conciertos suscritos por el ISFAS o en el marco regulador de la colaboración concertada con la Sanidad Militar, para el acceso a los servicios.
+
+
+La oxigenoterapia y demás técnicas de terapia respiratoria a domicilio, reguladas por la Orden de 3 de marzo de 1999, constituyen procedimientos terapéuticos incluidos en la Cartera de Servicios de la Atención Especializada y se facilitarán por los correspondientes servicios asignados.
+
+
+En determinados supuestos, podrán reconocerse las prestaciones suplementarias para asistencia primaria, para la atención a la Salud Mental y para la Atención de Pacientes Diabéticos que se detallan a continuación.
+
+
+2.1 Prestación para gastos por asistencia primaria prestada por facultativo ajeno.
+
+
+2.1.1 Objeto y contenido. Podrán acogerse a esta prestación exclusivamente los beneficiarios adscritos a los Consultorios del ISFAS para recibir asistencia primaria (Modalidad D1) cuando, por cualquier circunstancia, el ISFAS no disponga de Médico de Familia, Pediatra o profesional de Enfermería que pueda asignarse al titular en el correspondiente centro.
+
+
+La prestación tendrá por objeto la compensación de los gastos que se deriven de la asistencia del beneficiario por un facultativo de su elección.
+
+
+Con carácter general la prestación se hará efectiva mediante el reintegro de los honorarios del facultativo a cargo del ISFAS, si bien, a petición del interesado, podrá hacerse efectivo su abono directamente a los correspondientes servicios médicos.
+
+
+2.1.2 Procedimiento. La prestación se solicitará a través de la Sede electrónica del ISFAS o mediante formulario normalizado que podrá obtenerse en las Delegaciones del ISFAS o a través de la web de este Instituto, al que se unirá:
+
+
+a) Factura del facultativo que haya prestado la asistencia
+
+
+b) Justificación documental del abono de la factura por parte del interesado o, en caso de solicitud de pago directo al centro, documento que acredite la conformidad del centro con esta forma de pago y datos de la cuenta bancaria para materializarlo.
+
+
+c) En el caso de atenciones prestadas por profesionales de enfermería, la prescripción del médico asignado para la asistencia del paciente.
+
+
+2.2 Hospitalización Psiquiátrica.
+
+
+2.2.1 Objeto y contenido de la prestación. La prestación para Hospitalización Psiquiátrica tiene por objeto mejorar las condiciones de acceso a los servicios hospitalarios de psiquiatría, de los titulares y beneficiarios que reciban asistencia sanitaria a través de los servicios de la Sanidad Militar, especialmente de los pacientes con procesos crónicos.
+
+
+Esta prestación consistirá en una ayuda económica a cargo del ISFAS, por cada día de estancia en régimen de internamiento o de estancia diurna (hospital de día) en el Hospital psiquiátrico que elija el beneficiario, siempre que esté debidamente acreditado por la Administración competente.
+
+
+El límite o importe máximo de la ayuda económica para Hospitalización Psiquiátrica se recoge en el Anexo 1 y podrá ser actualizado por resolución de la Gerencia del ISFAS.
+
+
+En ningún caso la ayuda que corresponda abonar por meses podrá ser superior al coste facturado y, a estos efectos, se tendrán en cuenta todos los conceptos derivados de la asistencia psiquiátrica integral del paciente, incluidos las técnicas de diagnóstico y tratamiento que se apliquen, así como toda la medicación y demás productos sanitarios que precise el paciente durante su hospitalización.
+
+
+Podrá solicitarse el abono directo al centro hospitalario en lugar del reintegro de gastos, en cuyo caso se unirá al expediente, además de la documentación requerida con carácter general, un escrito en el que se ponga de manifiesto la conformidad del centro y se hagan constar los datos de la cuenta bancaria a través de la que deberá materializarse el pago, sin que en este caso la factura emitida al ISFAS pueda reflejar un importe superior al de la prestación que se hubiera reconocido.
+
+
+2.2.2 Beneficiarios de la prestación. Tendrán derecho a las ayudas para hospitalización psiquiátrica los titulares y beneficiarios que reúnan los siguientes requisitos:
+
+
+a) Estar adscritos a los servicios de la Sanidad Militar para la asistencia especializada.
+
+
+b) Padecer una enfermedad o trastorno psiquiátrico que haga necesaria la asistencia especializada en régimen de internamiento o en régimen de estancia diurna (hospital de día).
+
+
+2.2.3 Procedimiento. Las ayudas por hospitalización psiquiátrica se solicitarán a través de la Sede Electrónica del ISFAS, o mediante formulario normalizado que se obtendrá en la Delegación del ISFAS o a través de la página web de este Instituto, al que se acompañará la siguiente documentación:
+
+
+a) Informe del especialista en psiquiatría que corresponda en función de la modalidad asistencial de adscripción del titular, en el que habrá de constar el trastorno que motiva la necesidad de atención psiquiátrica y el régimen en que deba dispensarse (internamiento hospitalario o régimen de hospital de día).
+
+
+b) Facturas, en las que debe constar el nombre del paciente, número de estancias y régimen de la asistencia (internamiento u hospital de día), además de los requisitos exigidos en la normativa aplicable.
+
+
+c) Justificación documental del abono de la factura por parte del interesado o, en caso de solicitud de pago directo al centro, documento que acredite la conformidad del centro con esta forma de pago y datos de la cuenta bancaria para materializarlo.
+
+
+d) Presupuesto del centro, en el que se detalle el coste de la asistencia por cada día de estancia, exclusivamente cuando en el momento de formularse la solicitud, no se disponga aún de facturas.
+
+
+La prestación se reconocerá por un periodo máximo de seis meses, debiendo determinarse el límite de la ayuda económica en la correspondiente resolución. No obstante, en el caso de que el límite máximo establecido para la ayuda fuera actualizado, conforme a la previsión recogida en al apartado 2.2.1. precedente, se aplicará el nuevo límite sobre los pagos que deban realizarse por estancias causadas a partir del primer día del mes siguiente al de entrada en vigor de la resolución por la que se modifique el Anexo 1, debiendo incluirse en el expediente de pago una diligencia del Delegado del ISFAS, para hacer constar este extremo.
+
+
+Dentro del periodo y ámbito de validez de la Resolución aprobatoria, por el mismo cauce se podrá solicitar el pago de las sucesivas facturas, adjuntando a las mismas el justificante de su abono o la indicación del pago directo al centro.
+
+
+Si fuera necesario prolongar la asistencia del beneficiario, habrá de formularse una nueva solicitud a la que se unirá un informe del especialista encargado de su asistencia.
+
+
+2.3 Ayudas para tratamientos de Psicoterapia.
+
+
+2.3.1 Objeto y contenido. La prestación para tratamientos de Psicoterapia tiene por objeto mejorar las condiciones de accesibilidad a determinadas técnicas de psicoterapia, individual, de grupo o familiar, de los titulares y beneficiarios que reciban asistencia sanitaria a través de los servicios de la Sanidad Militar o de la Red sanitaria pública, equiparándolas con las de los colectivos acogidos a los Conciertos de asistencia sanitaria suscritos con Entidades de Seguro, y consistirá en una ayuda económica a cargo del ISFAS por cada sesión de psicoterapia.
+
+
+Para el acceso a la prestación será imprescindible que la terapia haya sido prescrita por un especialista en psiquiatría de los correspondientes servicios asignados y que su finalidad sea el tratamiento de patologías psiquiátricas.
+
+
+El tratamiento se realizará por los profesionales elegidos por el beneficiario, siempre que cuenten con la debida titulación oficial.
+
+
+Se atenderá un máximo de 20 sesiones por año natural, entre el día 1 de enero y el día 31 de diciembre de cada año, salvo en los trastornos de la alimentación y trastornos relacionados con la violencia de género, en los que se facilitarán todas las sesiones que el psiquiatra responsable de la asistencia considere necesario para la correcta evolución del caso.
+
+
+El importe de la prestación por psicoterapia será equivalente al coste facturado por cada sesión de tratamiento, con el límite que se establece en el Anexo 1.
+
+
+2.3.2 Exclusiones e incompatibilidades. Quedan excluidos de este régimen de ayudas, y por tanto no serán objeto de las mismas, los tratamientos mediante psicoanálisis o terapias afines (terapias psicoanalíticas y psicodinámicas), hipnosis o narcolepsia ambulatoria, los tratamientos que se realicen en régimen de internamiento u hospitalización y las terapias de mantenimiento.
+
+
+No podrán reconocerse prestaciones por psicoterapia al mismo beneficiario durante más de cinco años consecutivos y, a partir de ese momento, las sesiones que se prescriban tendrán la consideración de terapia de mantenimiento, salvo en el caso de pacientes diagnosticados de trastornos de la alimentación y trastornos relacionados con la violencia de género.
+
+
+Las ayudas económicas por psicoterapia serán incompatibles con las prestaciones por Hospitalización Psiquiátrica, tanto en régimen de internamiento, como de hospital de día.
+
+
+2.3.3 Beneficiarios de la prestación. Tendrán derecho a las ayudas para tratamientos de psicoterapia los titulares y beneficiarios adscritos a los servicios de la Red sanitaria pública o de la Sanidad Militar para la asistencia especializada que presenten un trastorno psiquiátrico.
+
+
+2.3.4 Procedimiento. Para el reconocimiento de las ayudas por Psicoterapia, deberá formularse la correspondiente solicitud a través de la Sede Electrónica del ISFAS o mediante formulario normalizado que se obtendrá en la Delegación del ISFAS o a través de la página web de este Instituto, al que se unirá la siguiente documentación:
+
+
+a) Informe del especialista en psiquiatría que corresponda en función de la modalidad asistencial de adscripción del titular, en el que habrá de constar la indicación del tratamiento y el proceso que motiva la indicación.
+
+
+b) Informe del profesional que realizará el tratamiento, en el que se especificará la técnica terapéutica y el número previsible de sesiones.
+
+
+c) Facturas, en las que debe constar el nombre del paciente y número de sesiones de tratamiento realizadas, además de los requisitos generales exigidos en la normativa aplicable.
+
+
+d) Justificación documental del abono de la factura por parte del interesado.
+
+
+Previamente a dictar resolución, se recabará dictamen del asesor médico de la Delegación del ISFAS o, cuando no fuera posible, del Área de Asistencia Sanitaria de la Subdirección de Prestaciones.
+
+
+De estimarse la prestación, en la correspondiente resolución se especificará el importe de la ayuda por sesión y el número de sesiones de tratamiento que serán objeto de ayuda económica. En ningún caso podrán reconocerse ayudas para más de 20 sesiones de tratamiento a un mismo beneficiario dentro del año natural en curso, con las excepciones previstas en el apartado 2.3.1.
+
+
+El abono de la prestación se podrá efectuar a través de un expediente de pago único. No obstante, de solicitarlo expresamente el interesado, podrá tramitarse un expediente con pagos sucesivos hasta hacer efectiva la totalidad de la prestación reconocida, si bien estos pagos deberán corresponder a un mínimo de diez (10) sesiones, salvo conclusión del tratamiento o finalización del año en curso.
+
+
+2.4 Ayudas para Pacientes Diabéticos.
+
+
+2.4.1 Ayudas para compra de jeringuillas de insulina y agujas para inyectores. Tendrán acceso al reintegro de gastos por compra de jeringuillas para insulina o por adquisición de agujas para inyectores u otros sistemas no precargados de insulina a cargo del ISFAS, los titulares y beneficiarios diagnosticados de Diabetes insulino-dependiente adscritos a los servicios de la Sanidad Militar o de la Red sanitaria pública, cuando no les sean suministradas por los Centros de Atención Primaria.
+
+
+La prestación cubrirá el coste real de adquisición de un máximo de 60 jeringuillas al mes. En el caso de pacientes diagnosticados de Diabetes en los que se hubiera indicado tratamiento intensivo con inyecciones múltiples, el límite máximo de jeringuillas que podrían ser objeto de financiación se fija en 120 al mes. Cuando esta prestación se solicite para la compra de agujas para inyectores, el importe de la misma no podrá ser superior al establecido en el Anexo 1.
+
+
+2.4.2 Ayudas por la compra de Bomba externa de infusión continua de insulina.
+
+
+A) Beneficiarios. Podrán acceder a la ayuda para adquisición de Bomba externa de infusión continua de insulina a cargo del ISFAS, los beneficiarios diagnosticados de Diabetes que cumplan todos los criterios fijados en el anexo de la 
+Orden SCO/710/2004, de 12 de marzo
+ por la que se autoriza la financiación de determinados efectos y accesorios con fondos públicos, adscritos a los servicios de la Sanidad Militar para la asistencia especializada, siempre que no se les facilite gratuitamente por los servicios de la Modalidad asistencial a la que se encuentren adscritos.
+
+
+B) Prescripción. La prescripción de las bombas portátiles de infusión subcutánea continua de insulina se formulará por un médico especialista de los correspondientes servicios asignados, en un informe protocolo ajustado al modelo que figura en el Anexo 3 de esta Resolución, basado en las recomendaciones para la selección de pacientes susceptibles de la indicación de bombas de insulina que se establecen en el anexo de la citada 
+Orden SCO/710/2004, de 12 de marzo
+.
+
+
+El modelo normalizado de solicitud y el modelo de informe médico protocolo podrá obtenerse en la Sede Electrónica, en la Delegación del ISFAS o a través de la página web de este Instituto.
+
+
+C) Suministro. La bomba de insulina, una vez autorizada su financiación a cargo del ISFAS, conforme al procedimiento establecido en el apartado 2.4.6, se dispensará a través de los servicios hospitalarios asignados en función de la Modalidad Asistencial de adscripción del beneficiario, o que el correspondiente Organismo gestor haya seleccionado para tal fin, bajo la responsabilidad y supervisión del Médico Especialista responsable de la prescripción y del seguimiento posterior del beneficiario.
+
+
+El citado facultativo informará al paciente sobre cualquier aspecto relacionado con la utilización de la bomba, de acuerdo con lo establecido en la 
+Ley 41/2002, de 14 de noviembre
+, reguladora de la autonomía del paciente y de derechos y obligaciones en materia de información y documentación clínica.
+
+
+2.4.3 Ayudas para material fungible de Bomba de infusión de insulina. Los beneficiarios a los que se les hubiera reconocido la prestación para Bomba externa de infusión continua de Insulina, adscritos al Régimen de colaboración concertada con la Sanidad Militar, tendrán acceso a una ayuda para atender los gastos derivados de la adquisición del correspondiente material fungible, por el importe que se justifique mediante la aportación de las correspondientes facturas, sin que éste pueda exceder el límite establecido en el Anexo 1.
+
+
+2.4.4 Ayudas por compra de reflectómetro. Se reconocerán ayudas para la adquisición de reflectómetros o glucómetros (aparatos medidores de glucemia), exclusivamente a beneficiarios adscritos a la Red sanitaria pública o al Régimen de colaboración concertada con la Sanidad Militar que acrediten su condición de diabéticos, con el límite establecido en el Anexo 1.
+
+
+2.4.5 Sistema de monitorización de glucosa mediante sensores (tipo flash). Tendrán derecho a la prestación para el Sistema de monitorización de glucosa mediante sensores (tipo flash) los titulares y beneficiarios adscritos a los servicios de la Sanidad Militar para la asistencia especializada, cuando el paciente cumpla los requisitos establecidos en el ámbito del Sistema Nacional de Salud y se indiquen por el especialista en Endocrinología o Medicina Interna, en su caso, Pediatría de los servicios asignados.
+
+
+2.4.6 Procedimiento. Las Ayudas para Pacientes Diabéticos se solicitarán a través de la Sede Electrónica del ISFAS, o mediante formulario normalizado al que se unirá la correspondiente factura, con los requisitos exigidos en el apartado 1.3.3, en la que constará el nombre del paciente.
+
+
+Cuando se solicite por primera vez una Ayuda para Pacientes Diabéticos deberá unirse a la solicitud un informe médico del especialista en Endocrinología o Medicina Interna, en su caso, Pediatría de los correspondientes servicios asignados, en el que se hará constar el tipo de diabetes diagnosticado. A las sucesivas solicitudes de ayudas para el mismo beneficiario no será necesario adjuntar ningún informe, puesto que con el registro de una prestación anterior queda ya acreditado el diagnóstico de la enfermedad.
+
+
+En el caso de prestaciones para adquisición de bomba externa para infusión continua de insulina, se aportará el informe médico al que se alude en el apartado 2.4.2.B) precedente, ajustado al modelo de protocolo que figura en el Anexo 3, que deberá ser emitido por el especialista de los correspondientes servicios asignados que formule la prescripción. Este informe será trasladado al Área de Asistencia Sanitaria que emitirá dictamen previo a la resolución de la solicitud, pudiendo recabar a tal fin la documentación e informes adicionales que considere necesarios para la emisión del dictamen.
+
+
+Las ayudas reconocidas se harán efectivas por el procedimiento de reembolso o reintegro de gastos, por lo que habrá de acreditarse que se ha realizado el pago de la factura.
+
+
+En el caso de las ayudas reconocidas para bomba externa para infusión continua de insulina, el pago se realizará directamente al centro sanitario que la dispense, siempre que el titular no lo hubiera materializado.
+
+
+
+
+Subir
+
+
+
+
+
+
+[Bloque 5: #A3]
+
+
+3. Prestación farmacéutica y con productos dietéticos, mediante dispensación ambulatoria.
+
+
+La prestación farmacéutica comprende los medicamentos y productos sanitarios y el conjunto de actuaciones encaminadas a que los pacientes los reciban de forma adecuada a sus necesidades clínicas, en las dosis precisas según sus requerimientos individuales, durante el período de tiempo adecuado y al menor coste posible para ellos y para la comunidad y se regirá por lo dispuesto en el 
+Texto Refundido de la Ley de garantías y uso racional de los medicamentos y productos sanitarios, aprobado por el Real Decreto Legislativo 1/2015, de 24 de julio
+, y demás disposiciones aplicables.
+
+
+Por otro lado, la prestación con productos dietéticos comprende la dispensación de los tratamientos dietoterápicos a las personas que padezcan determinados trastornos metabólicos congénitos y la nutrición enteral (aplicación del RD 1030/2006, de 15 de septiembre, Anexo VII, apartado 8 y las posibles modificaciones) domiciliaria para pacientes a los que no es posible cubrir sus necesidades nutricionales con alimentos de consumo ordinario, a causa de su situación clínica.
+
+
+El suministro de los productos dietéticos que se precisen para el tratamiento ambulatorio de los beneficiarios se realizará en oficinas de farmacia, a través de receta oficial.
+
+
+Atendiendo a sus peculiaridades, estas prestaciones son objeto de regulación en normas y disposiciones específicas.
+
+
+
+
+Subir
+
+
+
+
+
+
+[Bloque 6: #A4]
+
+
+4. Prestaciones por traslados de enfermos.
+
+
+4.1 Objeto.
+
+
+La prestación por traslado de enfermos tiene por objeto facilitar el transporte sanitario no urgente de titulares y beneficiarios del ISFAS para recibir asistencia sanitaria y, en determinados supuestos, atender la compensación de gastos de transporte en medios ordinarios, manutención y estancia del paciente y, en su caso, de un acompañante, mediante ayudas suplementarias, en las condiciones y con los límites que se establecen en la presente Resolución.
+
+
+Quedan excluidos de estas prestaciones:
+
+
+a) Los traslados de ámbito internacional y de repatriación de enfermos.
+
+
+b) Los traslados que se realicen para recibir asistencia por servicios distintos a los asignados, salvo en situación de urgencia vital.
+
+
+c) Los traslados que se realicen en el ámbito de la asistencia sanitaria atribuida a la Sanidad Militar en los supuestos establecidos en la 
+## Disposición adicional quinta de la Ley 39/2007 de 19 de noviembre
+, de la carrera militar y en el 
+artículo 102 de la Ley 29/2014, de 28 de noviembre
+, de Régimen del Personal de la Guardia Civil.
+
+
+4.2 Transporte Sanitario no Urgente.
+
+
+4.2.1 Normas generales.
+
+
+A) Contenido. El transporte sanitario no urgente consiste en el desplazamiento de enfermos o accidentados que no se encuentran en situación de urgencia o emergencia y que, por causas exclusivamente clínicas, están incapacitados para desplazarse en los medios ordinarios de transporte a un centro sanitario para recibir asistencia sanitaria o a su domicilio tras recibir la atención sanitaria correspondiente, y que pueden precisar o no atención sanitaria durante el trayecto.
+
+
+B) Tipos de traslados. El transporte sanitario no urgente, según el origen y destino del traslado del paciente, así como por el carácter de periodicidad, comprende los siguientes tipos de traslados:
+
+
+1. Traslado puntual del paciente desde su domicilio a un centro sanitario o desde un centro sanitario a su domicilio.
+
+
+2. Traslados periódicos del paciente desde su domicilio a un centro sanitario o desde un centro sanitario a su domicilio.
+
+
+3. Traslado de un paciente a su municipio de residencia bien a su domicilio o a otro centro sanitario, cuando hubiera recibido asistencia urgente en otro municipio en el que se encontrara desplazado transitoriamente, siempre que su situación clínica haga necesaria la utilización de transporte sanitario.
+
+
+Se entiende por domicilio del paciente el lugar de residencia habitual o temporal.
+
+
+En todo caso, los centros sanitarios tanto de origen como de destino deben tener el carácter de servicios asignados, en función de la modalidad asistencial de adscripción del beneficiario.
+
+
+C) Criterios clínicos de indicación o prescripción. El transporte sanitario no urgente está sujeto a prescripción del médico responsable de la asistencia de los correspondientes servicios asignados.
+
+
+La prescripción del transporte sanitario no urgente debe estar motivada, exclusivamente, por un problema de salud y no por cualquier otra causa y requerirá inexcusablemente la existencia de una deficiencia física, sensorial, cognitiva, intelectual o mental del paciente, sea temporal o permanente, que le cause imposibilidad para poder desplazarse de forma autónoma y que, a juicio del facultativo prescriptor, no le permita utilizar los medios ordinarios de transporte públicos o privados.
+
+
+Para la prescripción de transporte sanitario no urgente el médico prescriptor valorará el estado de salud y el grado de autonomía del paciente para poder desplazarse en medios de transporte ordinarios entre su domicilio y un centro sanitario, o viceversa, independientemente del problema de salud que esté en el origen del tratamiento.
+
+
+D) Situaciones en que el paciente puede llevar acompañante. Siempre que la situación del paciente lo requiera podrá ir acompañado para el transporte sanitario no urgente.
+
+
+La indicación de acompañante para el transporte sanitario no urgente se realizará a juicio del facultativo prescriptor de este transporte, que valorará si la edad o la situación clínica del paciente lo requiere y tendrá especialmente en cuenta las siguientes circunstancias:
+
+
+1. Paciente con discapacidad cognitiva, sensorial, intelectual o mental que limite su comprensión y su comunicación con el medio, o pueda alterar su conducta, durante su traslado.
+
+
+2. Paciente que, a causa de su enfermedad o accidente, se encuentre en el momento del traslado en una situación de gran deterioro físico o psíquico.
+
+
+Los pacientes menores de 16 años irán siempre con acompañante, salvo aquellos de edad comprendida entre 14 y 16 años que dispongan de una autorización escrita de su representante legal para realizar dicho trasladado sin acompañante.
+
+
+4.2.2 Especificidades en función de la Modalidad asistencial de adscripción del paciente.
+
+
+A) Modalidades de asistencia por Servicios públicos de Salud o por Entidades de Seguro. Los asegurados del ISFAS adscritos a los servicios de la red sanitaria pública tendrán acceso al transporte sanitario no urgente, en las condiciones establecidas en el ámbito del Servicio de Salud de la correspondiente Comunidad Autónoma o del INGESA, en el caso de Ceuta y Melilla, conforme a los procedimientos establecidos en sus propias normas.
+
+
+Los titulares y beneficiarios adscritos a una modalidad de asistencia por Entidades de Seguro concertadas obtendrán la prestación a través de los medios de la correspondiente Entidad, con sujeción a las condiciones y requisitos que se establezcan en el concierto suscrito con el ISFAS, vigente en el momento en que se efectúe el traslado.
+
+
+Las peticiones se gestionarán directamente por los interesados ante los Servicios de Salud de cada Comunidad Autónoma, o del INGESA, o ante la Entidad de Seguro de adscripción, según los casos.
+
+
+B) Modalidad de Atención especializada por Servicios de Sanidad Militar. Los beneficiarios del ISFAS adscritos al régimen de colaboración concertada con la Sanidad Militar, tendrán acceso al transporte sanitario no urgente a través de los correspondientes medios concertados.
+
+
+La necesidad de transporte sanitario se justificará mediante la prescripción escrita del médico de los servicios asignados responsable de la asistencia que deberá valorar tanto el estado de salud como el grado de autonomía del paciente para poder desplazarse en medios de transporte ordinarios, entre su domicilio y un centro sanitario, o viceversa.
+
+
+La prescripción se ajustará a los criterios establecidos en el apartado 4.2.1.C).
+
+
+En el caso de traslados periódicos, cuando la imposibilidad para poder desplazarse de forma autónoma por causas clínicas desaparezca como criterio de indicación de transporte sanitario no urgente y los pacientes puedan utilizar los medios de transporte ordinario, dicho transporte sanitario se suspenderá a partir de ese momento, independientemente de la duración o tipo de atención sanitaria que se esté llevando a cabo.
+
+
+La indicación de acompañante para el transporte sanitario no urgente se realizará a juicio del facultativo prescriptor de este transporte que valorará si la edad o la situación clínica del paciente lo requieren, atendiendo a los criterios previstos en el apartado 4.2.1.D).
+
+
+Las solicitudes se realizarán directamente a los servicios de transporte concertado o a la Delegación del ISFAS.
+
+
+4.3 Ayudas por traslados en medios ordinarios.
+
+
+4.3.1 Objeto. Las ayudas por traslados en medios ordinarios tienen por objeto atender los gastos de desplazamiento en medios de transporte no sanitario u ordinarios, hospedaje y manutención de titulares y beneficiarios del ISFAS y, en su caso, de un acompañante, cuando sea preciso el desplazamiento a otra provincia para su asistencia sanitaria o con el fin de completar estudios o tratamientos incluidos en la cartera de servicios comunes del Sistema Nacional de Salud, en los supuestos y con los requisitos previstos en la presente Resolución.
+
+
+Se consideran medios de transporte ordinarios el automóvil, el autobús, el ferrocarril o, si procediese por tratarse de provincias insulares o la ciudad de Melilla, el barco o el avión y en la Ciudad de Ceuta el barco o el helicóptero de línea regular, en determinadas circunstancias (fallo de la línea marítima en pacientes con cita previa concertada o pacientes a los que su médico prescriptor se lo indique, justificando que las condiciones físicas del paciente puedan verse perjudicadas por un viaje de mayor duración).
+
+
+4.3.2 Ayudas para gastos de transporte en medios ordinarios.
+
+
+A) Modalidades de asistencia por Servicios públicos de Salud o por Entidades de Seguro. Los asegurados del ISFAS adscritos a los servicios de la red sanitaria pública o a Entidades de Seguro concertadas únicamente tendrán acceso a las ayudas o prestaciones para gastos de transporte en medios ordinarios, previstas en el ámbito del Servicio de Salud de la correspondiente Comunidad Autónoma o del INGESA, en el caso de Ceuta y Melilla, o bien en los conciertos vigentes en cada momento, con sujeción a las condiciones y requisitos que sean de aplicación, según el caso.
+
+
+B) Modalidad de Atención especializada por Servicios de Sanidad Militar. Serán objeto de reintegro o reembolso a través del ISFAS los gastos de transporte en medios ordinarios por desplazamientos interprovinciales que deban realizar los pacientes adscritos al régimen de colaboración concertada con la Sanidad Militar para su asistencia por otros servicios asignados, al no disponerse de los medios requeridos en el Hospital de la Defensa de su provincia de residencia.
+
+
+El importe de la prestación será igual al que se haya abonado por el billete en cualquier línea regular de autobús o ferrocarril o, tratándose de territorio extrapeninsular, barco o avión, en clase segunda, turista, normal o única. En el caso de Ceuta, se considerará el helicóptero de línea regular, en determinadas circunstancias (fallo de la línea marítima en pacientes con cita previa concertada o que tengan unas condiciones físicas que les pueda perjudicar el viaje de más larga duración)
+
+
+Cuando el viaje se realice en una clase superior, o en caso de utilización de vehículo particular, se abonará una ayuda económica por importe equivalente al precio del trayecto en tren o autobús de línea regular, en clase normal o turista.
+
+
+4.3.3 Ayuda para gastos de hospedaje y de manutención del paciente. Tendrán acceso a las ayudas para gastos de hospedaje y de manutención exclusivamente los pacientes que hayan accedido al transporte sanitario no urgente o a prestaciones para gastos de transporte en medios ordinarios, con los límites que se establecen en el Anexo 1.
+
+
+Cuando la asistencia se preste en régimen de internamiento hospitalario, sólo se tendrá acceso a la ayuda para gastos de manutención correspondiente a los días del desplazamiento.
+
+
+Para determinar el importe de la prestación, se tendrán en cuenta los siguientes criterios:
+
+
+a) Cuando el desplazamiento de ida y vuelta se realice en un solo día, se tendrá derecho a la «ayuda para manutención».
+
+
+b) En general, se tendrá derecho a la ayuda por gastos de hospedaje y manutención por los días que el enfermo deba permanecer fuera de su residencia, excluido el de regreso, en el que únicamente se reconocerá la ayuda para manutención, sirviendo como referencia las fechas reflejadas en los billetes o justificantes del desplazamiento, cuando éste se realice el mismo día en que esté programada la asistencia.
+
+
+En caso contrario, para determinar los días de estancia se tendrá en cuenta que el desplazamiento podrá realizarse el día previo a la fecha prevista para el ingreso hospitalario o la asistencia en régimen ambulatorio, cuando estuvieran programados en horario de mañana (antes de las 15 horas) o en desplazamientos superiores a 200 kilómetros, por lo que se tendrá derecho a la ayuda por hospedaje y manutención para ese día.
+
+
+Asimismo, se tomará como fecha de referencia para el regreso la del alta hospitalaria o la fecha de la asistencia ambulatoria, salvo en desplazamientos superiores a 200 kilómetros, supuesto en que podrá tomarse como referencia el día siguiente.
+
+
+Cuando en los informes no se haga constar el tramo horario en el que tuvo lugar la asistencia, se considerará que se llevó a cabo en el de mañana.
+
+
+c) Cuando se programen actuaciones sucesivas por los servicios a los que hubiera sido derivado el paciente, dentro de un intervalo de hasta 72 horas, y siempre que el desplazamiento realizado fuera superior a 200 kilómetros, podrá reconocerse la prestación por hospedaje y manutención, sin solución de continuidad, hasta la fecha en que se lleve a cabo la nueva valoración, que se tomará como referencia para determinar el día de regreso.
+
+
+4.3.4 Ayudas para gastos de acompañante. En el caso beneficiarios menores de 18 años, con discapacidad superior al 65% o cuando su situación clínica haga indispensable la presencia de un acompañante, de conformidad con la prescripción emitida por el médico de los servicios asignados responsable de la asistencia, y siempre que hayan accedido a prestaciones para transporte sanitario no urgente o para gastos de transporte en medios ordinarios y la persona que acompañe al paciente se desplace y permanezca efectivamente con él, podrán reconocerse las siguientes ayudas:
+
+
+A) Ayuda por transporte del acompañante. Se reconocerá esta prestación exclusivamente cuando el desplazamiento del paciente se realice en líneas regulares de transporte público.
+
+
+La ayuda será igual al importe efectivamente abonado por el billete en cualquier línea regular de autobús o ferrocarril o tratándose de territorio extrapeninsular, barco, avión o helicóptero de línea regular en el caso de Ceuta, cuando se autorice al afiliado y si se cumplen determinadas circunstancias, en segunda clase, turista, normal o única. Si se utiliza una clase superior, la ayuda tendrá como importe máximo el coste del billete en la clase que, entre las enumeradas como utilizables, exista en el medio de transporte empleado. Si se utilizase barco, avión o helicóptero de línea regular en el caso de Ceuta, sin corresponder este medio de transporte, el importe máximo de la ayuda se calculará sobre el coste del billete en la línea de ferrocarril o de barco alternativa de tarifa más elevada para cada una de las clases indicadas.
+
+
+En el caso de pacientes adscritos a una Entidad de Seguro, cuando se establezcan ayudas para gastos de transporte de acompañante en los Conciertos vigentes, únicamente se tendrá acceso a estas prestaciones a cargo de la Entidad.
+
+
+B) Ayuda para gastos de hospedaje y manutención del acompañante. Siempre que el enfermo tenga derecho a percibir la ayuda por gastos de hospedaje y manutención, y sea imprescindible la presencia de un acompañante, conforme a los criterios señalados anteriormente, éste tendrá derecho a percibir idéntica ayuda.
+
+
+Además, se reconocerá la ayuda para hospedaje y manutención de un acompañante, cuando el paciente deba desplazarse a una provincia distinta a la de residencia por indisponibilidad de los medios requeridos para su adecuada asistencia en régimen de internamiento hospitalario.
+
+
+No obstante, en el caso de pacientes adscritos a una Entidad de Seguro, en los supuestos en que se establezcan prestaciones específicas en los Conciertos vigentes, únicamente se tendrá acceso a las prestaciones a cargo de la Entidad.
+
+
+Para determinar el importe de la prestación, se tendrán en cuenta los criterios establecidos en el apartado 4.3.3 de la presente Resolución.
+
+
+4.4 Ayudas en caso de asistencia por accidente en acto de servicio o enfermedad profesional.
+
+
+4.4.1 Gastos para transporte de enfermos. Exclusivamente, en el caso de titulares adscritos a la red sanitaria pública, los gastos de transporte por desplazamientos para recibir asistencia por lesiones derivadas de accidente en acto de servicio o por enfermedad profesional, se atenderán por cuenta del ISFAS. En este supuesto se atenderá el coste derivado de la utilización de los medios que se indiquen, teniendo en cuenta que la utilización de vehículo propio dará lugar al pago de una ayuda equivalente al coste del trayecto en tren o autobús de línea regular.
+
+
+Para los titulares adscritos a otras modalidades asistenciales, será aplicable lo dispuesto con carácter general en el apartado 4.3.3.
+
+
+4.4.2 Gastos de acompañante. Los titulares tendrán derecho a las ayudas por gastos de un acompañante previstas en el apartado 4.3.4, cuando precisen asistencia en régimen de internamiento hospitalario por accidente en acto de servicio y no cuenten con familiares de primer grado de parentesco en la provincia donde se encuentre el hospital, por lo que resulte obligado el desplazamiento del acompañante desde la provincia en la que resida.
+
+
+El acompañante deberá autorizar al ISFAS para que pueda verificar el municipio en el que tiene fijada su residencia habitual.
+
+
+En los demás supuestos, será aplicable lo dispuesto con carácter general en el apartado 4.3.4.
+
+
+4.5 Procedimiento.
+
+
+Las ayudas por traslados en medios ordinarios y con ocasión de accidentes en acto de servicio reguladas en la presente Resolución se solicitarán a través de la Sede Electrónica del ISFAS o mediante el formulario normalizado que podrá obtenerse en las Delegaciones del ISFAS y a través de la página web de este Instituto, al que deberá unirse la siguiente documentación:
+
+
+a) En el caso de beneficiarios adscritos a una Entidad de Seguro o a la Red sanitaria pública, documento que acredite que el transporte del paciente se ha realizado por cuenta de la Entidad de Seguro o del Servicio de Salud de la correspondiente Comunidad Autónoma o del INGESA.
+
+
+b) Cuando se trate de pacientes acogidos al régimen de colaboración concertada con la Sanidad Militar, informe de los servicios asignados, en el que se justifique la necesidad del desplazamiento, especificando los medios de transporte requeridos.
+
+
+c) Cuando se soliciten ayudas suplementarias para manutención y hospedaje de pacientes o para gastos de acompañante, informe del médico que corresponda en función de la modalidad asistencial de adscripción del titular, en el que se justifique la necesidad de un acompañante, e informe del centro en el que se lleve a cabo la asistencia, indicando la fecha de la atención dispensada y si se ha llevado a cabo en horario de mañana o tarde.
+
+
+d) Billetes o justificantes de los gastos de transporte cuyo reintegro se solicite.
+
+
+En los expedientes, la Delegación del ISFAS incorporará una «hoja de liquidación», ajustada al modelo incluido en el Anexo 2.
+
+
+
+
+Subir
+
+
+
+
+
+
+[Bloque 7: #A5]
+
+
+5. Prestación ortoprotésica.
+
+
+5.1 Consideraciones generales.
+
+
+Según se establece en los 
+artículos 8 y 17 de la Ley 16/2003, de 28 de mayo
+, de cohesión y calidad del Sistema Nacional de Salud, la prestación ortoprotésica realizada mediante dispensación ambulatoria se incluye en la cartera común suplementaria, a diferencia de la prestación ortoprotésica utilizada en centros sanitarios que comprende fundamentalmente los implantes quirúrgicos, y se facilitará directamente o dará lugar a ayudas económicas, en los casos y de acuerdo con las normas que se establezcan por parte de las Administraciones sanitarias competentes.
+
+
+El 
+Real Decreto 1030/2006, de 15 de septiembre
+, por el que se establece la cartera de servicios comunes del Sistema Nacional de Salud y el procedimiento para su actualización, recoge en su anexo VI el contenido de la prestación ortoprotésica, tanto los implantes quirúrgicos que se encuadran en la cartera de servicios básica, como las ortoprótesis externas incluidas en la cartera suplementaria, determinando en ambos casos los grupos y subgrupos que la integran y, en el caso de las ortoprótesis externas, también los códigos homologados que identifican las respectivas categorías de productos.
+
+
+El 
+Real Decreto 1506/2012, de 2 de noviembre
+, por el que se regula la cartera común suplementaria de prestación ortoprotésica del Sistema Nacional de Salud y se fijan las bases para el establecimiento de los importes máximos de financiación en prestación ortoprotésica, delimita el contenido de la prestación ortoprotésica suplementaria ambulatoria, determinando las medidas para el establecimiento de los importes máximos de financiación en toda la prestación ortoprotésica, de acuerdo con lo previsto en el 
+artículo 124 de la Ley 53/2002, de 30 de diciembre
+, de medidas fiscales, administrativas y del orden social.
+
+
+La 
+Orden SCB/45/2019, de 22 de enero
+, por la que se modifica el 
+anexo VI del Real Decreto 1030/2006, de 15 de septiembre
+, por el que se establece la cartera de servicios comunes del Sistema Nacional de Salud y el procedimiento para su actualización, se regula el procedimiento de inclusión, alteración y exclusión de la oferta de productos ortoprotésicos y se determinan los coeficientes de corrección, viene a dar una nueva redacción al anexo VI del citado 
+Real Decreto 1030/2006
+. Además establece el importe máximo de financiación de cada tipo de producto, que será de aplicación cuando sean dispensados a usuarios del Sistema Nacional de Salud, incluyendo los titulares y beneficiarios protegidos por el ISFAS y demás mutualidades de funcionarios, puesto que los productos son de precio libre a los restantes efectos, y regula la Oferta de productos y los coeficientes de corrección que determinarán sus precios de Oferta.
+
+
+La citada 
+Orden SCB/45/2019, de 22 de enero
+, y posteriormente la 
+Orden SCB/480/2019, de 26 de abril
+, por la que se modifican los 
+anexos I, III y VI del Real Decreto 1030/2006, de 15 de septiembre
+, por el que se establece la cartera de servicios comunes del Sistema Nacional de Salud y el procedimiento para su actualización, también modifican el catálogo común de la prestación ortoprotésica suplementaria, determinando los tipos de productos de sillas de ruedas, órtesis, ortoprótesis especiales y prótesis distintas de las de miembros, en el que se actualiza la denominación y codificación de los grupos y subgrupos, mientras que los códigos homologados del citado anexo VI se transforman en códigos alfanuméricos de 6 caracteres que identifican las categorías de productos, con el fin de simplificar la codificación.
+
+
+La 
+Orden SND/44/2022, de 27 de enero
+, por la que se actualiza, en lo relativo al catálogo común de prótesis externas de miembro superior y miembro inferior, ortoprótesis para agenesias, sillas de ruedas, ortesis y productos para la terapia del linfedema, el 
+Anexo VI del real Decreto 1030/2006, de 15 de septiembre
+, por la que se establece la cartera de servicios comunes del Sistema Nacional de Salud y el procedimiento para su actualización, incluyendo en esta Orden las prótesis externas de miembro superior y miembro inferior y de ortoprótesis para agenesia, incorporación de un nuevo tipo de prendas para el tratamiento del linfedema y además de un nuevo tipo de silla de ruedas para personas con patología medular de cualquier etiología o enfermedad neuromuscular, así como la vida media de los productos y su importe máximo de financiación.
+
+
+5.2 Conceptos.
+
+
+5.2.1 Implante quirúrgico: Producto sanitario diseñado para ser implantado total o parcialmente en el cuerpo humano mediante intervención quirúrgica y destinado a permanecer allí después de dicha intervención. Tiene finalidad terapéutica cuando sustituye total o parcialmente una estructura corporal o una función fisiológica que presenta algún defecto o anomalía, o bien tiene finalidad diagnóstica.
+
+
+Los productos destinados a permanecer menos de 30 días no se consideran incluidos en el apartado de implantes quirúrgicos.
+
+
+5.2.2 Ortoprótesis externa: Producto sanitario no implantable que requiere una elaboración a medida, una adaptación individualizada al usuario o un ajuste básico. Comprende los siguientes apartados:
+
+
+a) Prótesis externa: Ortoprótesis externa dirigida a sustituir total o parcialmente un órgano o una estructura corporal o su función.
+
+
+b) Silla de ruedas: Ortoprótesis externa con la consideración de vehículo individual para permitir el traslado de una persona que haya perdido de forma permanente la capacidad de marcha funcional, adecuado a su grado de discapacidad.
+
+
+c) Ortesis: Ortoprótesis externa que va destinada a modificar las condiciones estructurales o funcionales del sistema neuromuscular o del esqueleto.
+
+
+d) Ortoprótesis especial: Ortoprótesis externa que modifica o sustituye una estructura corporal o su función o facilita la deambulación sin que pueda considerarse incluido en los apartados anteriores.
+
+
+5.3 Beneficiarios y entidad responsable.
+
+
+5.3.1 Tendrán acceso a la prestación ortoprotésica suplementaria a cargo ISFAS los beneficiarios de la asistencia sanitaria, conforme a lo dispuesto en el artículo 52 
+Reglamento General de la Seguridad Social de las Fuerzas Armadas, aprobado por Real Decreto 1726/2007, de 21 de diciembre
+, acogidos al Concierto de asistencia sanitaria con Entidades de Seguro y al régimen de colaboración concertada con la Sanidad Militar.
+
+
+5.3.2 Los titulares y beneficiarios adscritos a los servicios públicos de salud recibirán la prestación ortoprotésica a través del Servicio de Salud de su Comunidad Autónoma, en las mismas condiciones que el resto de la población protegida por ese Servicio, de conformidad con lo previsto en la 
+## Disposición adicional segunda del Real Decreto 1506/2012, de 2 de noviembre
+.
+
+
+5.3.3 Los implantes quirúrgicos, que forman parte de la cartera común básica de servicios asistenciales, se suministrarán y financiarán por los correspondientes servicios asignados en función de la Modalidad Asistencial de adscripción del titular, con un contenido análogo al que se fija en el del 
+Real Decreto 1030/2006, de 15 de septiembre
+, por el que se establece la cartera de servicios comunes del Sistema Nacional de Salud y el procedimiento para su actualización.
+
+
+5.4 Alcance y contenido de la prestación ortoprotésica gestionada por el ISFAS.
+
+
+5.4.1 Productos incluidos. La prestación ortoprotésica del ISFAS atiende las ortoprótesis externas de dispensación ambulatoria incluidas en la cartera común suplementaria de la prestación ortoprotésica del Sistema Nacional de Salud que comprende: prótesis externas, sillas de ruedas, ortesis y ortoprótesis especiales.
+
+
+Serán financiables a través de la prestación ortoprotésica del ISFAS los productos que se encuadren en alguno de los tipos de productos recogidos en el Catálogo común de Ortoprótesis externas del Sistema Nacional de Salud, incluido en el anexo VI del citado 
+Real Decreto 1030/2006, de 15 de septiembre
+.
+
+
+5.4.2 Límite de la prestación. La prestación que corresponda a un producto no podrá superar el Importe Máximo de Financiación (IMF) fijado para el tipo de producto en el que sea encuadrable. Este importe máximo incluirá los costes de elaboración a medida, la adaptación al paciente, los márgenes del establecimiento y los impuestos que, en el caso de Canarias, Ceuta y Melilla, se reajustarán al régimen fiscal específico.
+
+
+Cuando concluya el desarrollo y sea aplicable en el conjunto del Sistema Nacional de Salud la Oferta de productos ortoprotésicos a la que se alude en el apartado 5.6, se atenderá la financiación de los productos no elaborados a medida que se recojan en la Oferta, por el importe que se fije a cada producto en la misma, que nunca será superior al IMF que corresponda al tipo de producto, con la salvedad prevista en el apartado 5.7.
+
+
+En el caso de productos elaborados a medida, se financiarán aquellos encuadrables en alguno de los tipos de productos incluidos en el Catálogo común de Ortoprótesis externas del Sistema Nacional de Salud, hasta el respectivo IMF.
+
+
+También serán objeto de la prestación ortoprotésica la renovación de los artículos incluidos en el Catálogo y su reparación, en las condiciones y con los requisitos previstos en los apartados 5.9.5 y 5.9.6, salvo que el motivo de las mismas sea una mala utilización por parte del beneficiario o su deseo de sustituir el artículo, a pesar de estar en condiciones de uso.
+
+
+5.4.3 Exclusiones. No constituyen parte de esta prestación los artículos ortoprotésicos destinados a uso deportivo, ni los utilizados con finalidad estética que no guarden relación con accidente, enfermedad o malformación congénita, ni aquellos de los que se realice publicidad dirigida al público en general.
+
+
+Quedan excluidos de la prestación ortoprotésica, con carácter general, los artículos que no figuren en el Catálogo común de Ortoprótesis externas del Sistema Nacional de Salud ni sean encuadrables en ninguno de los tipos recogidos en el mismo, los efectos y accesorios, los artículos ortopédicos destinados a uso deportivo, y los productos publicitarios.
+
+
+Asimismo se consideran excluidos de la prestación:
+
+
+a) Las fajas preventivas.
+
+
+b) Las ortesis de pie.
+
+
+c) Las rodilleras elaboradas en tejido elástico sin flejes.
+
+
+d) Los sujetadores postoperatorios.
+
+
+e) Las sillas de ruedas manuales con ruedas grandes delanteras maniobradas por los dos brazos y las sillas de ruedas propulsadas por el pie.
+
+
+5.4.4 Catálogo de Ortoprótesis externas. En el ámbito de la prestación ortoprotésica del ISFAS será aplicable el Catálogo común de ortoprótesis externas del Sistema Nacional de Salud, que se reproduce en el Anexo 6, donde se detallan los grupos (codificados con cuatro caracteres) y subgrupos (seis caracteres) en los que quedan agrupados, los códigos homologados (seis caracteres) y los códigos de los tipos de productos (codificados con siete caracteres).
+
+
+Asimismo para cada tipo de producto se indica:
+
+
+a) El nivel de elaboración que precisa, diferenciando si requiere un ajuste básico (BAS) o una adaptación individualizada al usuario (ADAP), con su respectivo grado de complejidad, si es un producto a medida (MED) o si se trata de un componente, accesorio o recambio (COMP), también con su correspondiente grado de complejidad.
+
+
+b) La vida media de cada uno de los Tipos de productos expresada en meses que es el tiempo medio de duración de un producto en condiciones normales de uso.
+
+
+c) El Importe Máximo de Financiación con IVA del 10% (IMF) y el Importe Máximo de Financiación sin impuestos (IMF s/i) al objeto de que pueda obtenerse el IMF para Canarias, Ceuta y Melilla, aplicando los impuestos específicos.
+
+
+5.5 Importes máximos de financiación (IMF).
+
+
+5.5.1 El IMF es la cuantía máxima fijada para cada tipo de producto a efectos de su financiación a través de la prestación ortoprotésica en el Sistema Nacional de Salud y, por tanto, del ISFAS conforme a lo previsto en el apartado 5.4.2, e incluye los márgenes de la distribución y de los establecimientos y los impuestos, así como los costes de adaptación o elaboración individualizada, en su caso, de acuerdo con lo previsto en el 
+Real Decreto 1506/2012, de 2 de noviembre
+.
+
+
+5.5.2 Cuando además de un Tipo de producto se prescriban determinados componentes adicionales por el correspondiente especialista, el IMF del producto final se calculará sumando el IMF del tipo de la parte principal del producto y el de los componentes adicionales que requiera para su correcta utilización, teniendo en cuenta que el IMF de la parte principal del producto engloba los costes de la elaboración y adaptación del conjunto de la ortoprótesis externa, así como los asociados a la incorporación de los diferentes componentes adicionales.
+
+
+5.6 Oferta de productos ortoprotésicos del Sistema Nacional de Salud.
+
+
+5.6.1 La «Oferta de productos ortoprotésicos del Sistema Nacional de Salud» (Oferta), que se establece en el 
+artículo 4 del Real Decreto 1506/2012, de 2 de noviembre
+, y se desarrolla en la 
+Orden SCB/45/2019, de 22 de enero
+, recogerá los productos ortoprotésicos no elaborados a medida que se clasifiquen en los tipos de productos del Catálogo común de Ortoprótesis externas.
+
+
+La información de los productos incluidos en la Oferta se recogerá en el nomenclátor de la prestación ortoprotésica que la Dirección General de Cartera Básica de Servicios del Sistema Nacional de Salud y Farmacia, en su momento, pondrá a disposición del ISFAS.
+
+
+En la 
+orden SND/44/2022, de 27 de enero
+, se termina de concreta la Oferta que se establece en el artículo 4 del Real Decreto anteriormente nombrado, donde se recoge los productos ortoprotésicos, la mayoría de ellos elaborados a medida, de miembros superiores e inferiores y ortoprótesis para agenesias.
+
+
+5.6.2 Una vez concluida el desarrollo de la Oferta y de aplicación en el conjunto del Sistema Nacional de Salud, sólo serán financiables a través de la prestación ortoprotésica los productos ortoprotésicos incluidos en la Oferta y, por tanto, en el nomenclátor de la prestación ortoprotésica, sin perjuicio de lo previsto en el apartado 5.7 al amparo de la previsión recogida en el 
+artículo 5.5 del Real Decreto 1506/2012, de 2 de noviembre
+.
+
+
+Por tanto, los precios que se reflejan en la Oferta serán el referente para la prestación ortoprotésica del ISFAS y determinarán el importe máximo financiable para los artículos no elaborados a medida.
+
+
+En el caso de productos elaborados a medida, serán objeto de prestaciones aquellos encuadrables en uno de los tipos de productos recogidos en el Catálogo común de Ortoprótesis externas. El importe de la prestación vendrá determinado por el importe facturado, siempre que no supere el respectivo IMF que será el límite máximo financiable. Este importe máximo incluirá los costes de elaboración a medida, la adaptación al paciente, los márgenes del establecimiento y los impuestos.
+
+
+5.7 Supuesto especial.
+
+
+Conforme a la previsión recogida en el artículo 5.5. del Real Decreto 1506/2012, de 3 de diciembre, cuando el especialista de los servicios asignados prescriba al beneficiario un determinado producto comprendido en alguno de los Tipos de productos incluidos en el Catálogo común de Ortoprótesis externas, pero que no se encuentre incluido en la Oferta exclusivamente por superar el importe máximo de financiación o tratarse de un producto a medida, el beneficiario podrá adquirir el producto indicado, pero deberá abonar la diferencia entre el importe máximo de financiación correspondiente al tipo de producto y el precio de venta del producto adquirido, además de la aportación que le corresponda, aplicada sobre el importe máximo de financiación de su tipo de producto.
+
+
+En este caso no podrá atenderse la prestación mediante el procedimiento de pago directo al proveedor.
+
+
+5.8 Condiciones generales de acceso.
+
+
+5.8.1 Indicación médica. La indicación o prescripción médica de un tipo de producto incluido en el Catálogo común de Ortoprótesis externas, deberá ser formulada por un médico de los servicios de Atención Especializada asignados, en función de la Modalidad Asistencial a la que esté adscrito el beneficiario, concretamente por un especialista en la materia correspondiente a la patología que justifique la prescripción.
+
+
+A fin de garantizar el uso racional, para la indicación se atenderá a criterios de individualización fundados en las condiciones de salud y de calidad de vida del paciente, tales como edad, evolución previsible de la patología o discapacidad, situación laboral y social, grado de autonomía personal y acceso a servicios de la comunidad, y otros de análoga significación.
+
+
+5.8.2 Establecimientos dispensadores.
+
+
+A) Los establecimientos sanitarios dispensadores y adaptadores de productos ortoprotésicos que opten por dispensar productos a cargo del Sistema Nacional de Salud deberán asumir todas las condiciones establecidas en la normativa reguladora de la prestación ortoprotésica del Sistema Nacional de Salud y no podrán cobrar al beneficiario cantidades adicionales a la aportación que, en su caso, le pudiera corresponder en función del Tipo de producto, salvo que el interesado opte por acogerse a lo previsto en el apartado 5.7 precedente.
+
+
+B) Con el fin de garantizar la calidad de la prestación, los productos sanitarios incluidos como prestación ortoprotésica, para poder ser suministrados y utilizados, deben cumplir los requisitos contemplados en la legislación vigente que les resulte de aplicación.
+
+
+C) La entrega de prótesis externas, las sillas de ruedas, órtesis y ortoprótesis especiales al usuario ha de ir acompañada de la información preceptiva establecida en la normativa de productos sanitarios, del certificado de garantía y de una hoja informativa en lenguaje comprensible y accesible para personas con discapacidad, con las recomendaciones precisas para la mejor conservación del mismo en condiciones de utilización normal y las advertencias para evitar su mal uso. Todo ello, sin perjuicio de lo dispuesto en el 
+Texto refundido de la Ley General para la Defensa de los Consumidores y Usuarios
+, aprobado por el 
+Real Decreto Legislativo 1/2007, de 16 de noviembre
+, y otras leyes complementarias.
+
+
+5.9 Requisitos específicos adicionales para prótesis externas.
+
+
+5.9.1 Requisitos de la Prescripción. En la prescripción de productos ortoprotésicos deberán constar los siguientes datos:
+
+
+a) Responsable de la prescripción: Datos de identificación del facultativo (Nombre, n.º de colegiado, centro sanitario y servicio).
+
+
+b) Beneficiario usuario: Datos de identificación; Clave del Colectivo al que pertenece que para el ISFAS es TSI 006 (asignada a usuarios de mutualidades de funcionarios); fecha de nacimiento; peso y talla, si procede.
+
+
+c) Motivo de la prescripción: Accidente de trabajo o servicio, accidente de tráfico, accidente deportivo, otro tipo de accidente (especificar), malformación congénita, enfermedad u otro origen (especificar).
+
+
+d) Diagnóstico: Discapacidad o patología que justifica la prescripción; patologías concomitantes que influyan en la prescripción. Si tiene o no incapacidad permanente para la marcha y cualquier otra información clínica de interés.
+
+
+e) Valoración social (cuando proceda): Actividades que realiza: laborales, ocio, etc., medio en el que vive u otras circunstancias que puedan influir en la prescripción o renovación de los productos.
+
+
+f) Prescripción: Fecha; producto o Tipo de producto; clase de prescripción (primera prescripción, renovación y la justificación del motivo, reparación); recomendaciones de uso. Cuando sea necesario indicar productos de varios Tipos diferentes para el mismo usuario para componer una misma prescripción final global, todos ellos se indicarán conjuntamente constituyendo a todos los efectos una única prescripción.
+
+
+g) Firma del responsable de la prescripción.
+
+
+h) Revisiones que hayan de realizarse.
+
+
+5.9.2 Adaptación y dispensación.
+
+
+A) La adaptación y dispensación de los productos ortoprotésicos se realizará en los establecimientos autorizados por la administración competente de la correspondiente comunidad autónoma o ciudad autónoma que, de acuerdo con lo dispuesto en el 
+artículo 3.4 del Real Decreto 1506/2012, de 2 de noviembre
+, podrán determinar los requisitos específicos en función del grado de complejidad de la elaboración de los Tipos de productos que puede proporcionar cada uno de ellos a los usuarios del Sistema Nacional de Salud, a fin de que se salvaguarde una correcta elaboración y adaptación de la prestación prescrita al usuario. En todo caso, se tratará de establecimientos sanitarios que cuenten con la correspondiente autorización sanitaria, de acuerdo con lo dispuesto en el 
+Real Decreto 1277/2003, de 10 de octubre
+, por el que se establecen las bases generales sobre autorización de centros, servicios y establecimientos sanitarios.
+
+
+B) Los establecimientos sólo podrán dispensar productos pertenecientes al Tipo de producto indicado por el facultativo en el documento de prescripción. En caso de que la prescripción se hubiera realizado por producto, podrán dispensar y adaptar otro del mismo Tipo incluido en la Oferta y que el facultativo prescriptor no hubiera indicado nada en contra de la sustitución.
+
+
+C) Siempre que se trate de productos realizados a medida o que requieren una adaptación individualizada al usuario se tendrá en cuenta que:
+
+
+i. Correrán a cargo del establecimiento cuantas rectificaciones imputables a la elaboración y adaptación sean precisas.
+
+
+ii. En la elaboración de los productos, el establecimiento se ajustará a las indicaciones consignadas por el especialista prescriptor.
+
+
+iii. El facultativo que haya realizado la indicación dará el visto bueno de forma expresa al producto entregado al usuario, tras comprobar que se ajusta a las necesidades del mismo y que está adecuadamente adaptado.
+
+
+5.9.3 Prestaciones para sillas de ruedas. Podrán reconocerse prestaciones para sillas de ruedas exclusivamente a beneficiarios con patologías o discapacidades que les impidan la marcha funcional de forma permanente.
+
+
+Excepcionalmente se reconocerán las prestaciones para sillas de ruedas de propulsión eléctrica y dirección eléctrica para beneficiarios con limitaciones funcionales graves del aparato locomotor por enfermedad, malformación o accidente, que cumplan todos y cada uno de los siguientes requisitos:
+
+
+a) Incapacidad permanente para la marcha independiente.
+
+
+b) Incapacidad funcional permanente para la propulsión de sillas manuales con las extremidades superiores.
+
+
+c) Suficiente capacidad visual, mental y de control que les permita el manejo de sillas de ruedas eléctricas y que ello no suponga un riesgo añadido para su integridad y la de otras personas.
+
+
+Las limitaciones funcionales de los miembros superiores asociadas habitualmente a la edad, que no obedezcan a enfermedad, malformación o accidente, no darán lugar a prestaciones para sillas eléctricas.
+
+
+En el caso de adquisición de una silla de ruedas con motor eléctrico para su utilización por beneficiarios que no reúnan los requisitos exigidos, podrá reconocerse la ayuda correspondiente a una silla autopropulsable ligera.
+
+
+Las prestaciones para silla de ruedas están sujetas a un plazo de renovación, por lo que en caso de reconocerse una ayuda para adquisición de cualquier tipo de silla de ruedas no podrá reconocerse una ayuda para otra de silla de ruedas de cualquier tipo hasta que no haya trascurrido el plazo de vida media establecido y siempre que se establezca la correspondiente indicación motivada por el desgaste o deterioro derivado de un uso normal del producto, salvo que la sustitución venga impuesta por variaciones en la situación clínica del paciente.
+
+
+5.9.4 Prestaciones para prótesis mioeléctricas de miembro superior. Podrán reconocerse prestaciones para prótesis mioeléctricas de miembro superior, prescritas exclusivamente por los servicios de Rehabilitación de los hospitales, a pacientes mayores de dos años amputados unilaterales o bilaterales, que cumplan todos los requisitos siguientes:
+
+
+1. Tener suficiente capacidad mental y de control mioeléctrico que les permita el manejo de la prótesis de forma segura y eficaz.
+
+
+2. Desarrollar actividades de la vida diaria o laborales en las que la utilización de la prótesis mioeléctrica les supondría una ventaja respecto al uso de una prótesis funcional o pasiva.
+
+
+3. Participar en un programa de rehabilitación para su adiestramiento.
+
+
+4. Disponer de un entorno familiar o supervisión externa que favorezca un uso adecuado y continuado de la prótesis en los niños y personas dependientes.
+
+
+5.9.5 Reparaciones. Tendrán la consideración de «reparaciones» la sustitución o reposición de cualquiera de los componentes de productos recogidos en el Catálogo común de Ortoprótesis externas, que presenten deterioro o desgaste que no sea debido a un mal uso, siempre que haya transcurrido el plazo de garantía establecido en cada caso.
+
+
+Quedan excluidas de las ayudas contempladas en el presente apartado las reparaciones de:
+
+
+– Grupo 06 33 Calzados ortopédicos.
+
+
+– Grupo 06 30 Prótesis distintas de las de miembros.
+
+
+– Grupo 12 03 Productos de apoyo para caminar, manejados por un brazo.
+
+
+– Grupo 12 06 Productos de apoyo para caminar, manejados por dos brazos.
+
+
+– Grupo 04 06 Productos para la terapia del linfedema.
+
+
+– Grupo 04 07 Productos para la prevención y tratamiento de cicatrices patológicas.
+
+
+– Grupo 04 90 Complementos para las prendas de compresión.
+
+
+– Grupo 04 33 Productos de apoyo para la prevención de úlceras por presión.
+
+
+La ayuda económica que podrá reconocerse por una reparación será equivalente al coste facturado, sin que pueda superar en ningún caso el 50% del importe de la prestación máxima asignada al correspondiente producto en el citado Catálogo. Cuando el objeto de la reparación sea la sustitución de un componente deteriorado incluido en el Catálogo común de Ortoprótesis externas, el límite de la prestación para la reparación vendrá determinado por el IMF asignado al componente.
+
+
+Las reparaciones no incidirán en los plazos de renovación.
+
+
+5.9.6 Renovaciones. Las ortoprótesis externas podrán renovarse cuando por el correspondiente especialista se prescriba la sustitución del producto, motivada por el desgaste o deterioro derivado de un uso normal y siempre que haya transcurrido el plazo de vida media establecido en el Catálogo común de Ortoprótesis externas. Para realizar el cómputo de los plazos se tendrá en cuenta la fecha de la factura.
+
+
+No se reconocerán prestaciones para la renovación de una ortoprótesis cuando el motivo de la misma sea una mala utilización por parte del beneficiario o su deseo de sustituir el artículo, a pesar de estar en condiciones de uso.
+
+
+No se exigirá límite temporal alguno en caso de variación de la talla, u otra condición esencial de la ortoprótesis, o bien por modificaciones relevantes en la situación clínica del paciente que impidan la utilización de la prótesis que tuviera adaptada, circunstancias que serán acreditadas mediante la presentación del informe del correspondiente médico especialista. La última factura se tendrá en cuenta a la hora de realizar el cómputo del plazo de cualquier otra renovación posterior.
+
+
+5.9.7 Aportación. En tanto se establezcan los límites de la aportación de la prestación ortoprotésica suplementaria, previstos en el 
+artículo 9.3 del Real Decreto 1506/2012, de 2 de noviembre
+, se aplicará la aportación que recogida en el 
+anexo VI del Real Decreto 1030/2006, de 15 de septiembre
+, si bien serán de aplicación las exenciones de aportación previstas en el artículo 9.4 del mencionado 
+Real Decreto 1506/2012, de 2 de noviembre
+.
+
+
+Quedan sujetos a aportación a cargo del beneficiario los siguientes subgrupos de órtesis y ortoprótesis especiales, con el importe que se indica:
+
+
+06 03 06 Ortesis lumbo-sacras. Aportación del usuario: 30 euros.
+
+
+06 03 09 Ortesis toraco-lumbo-sacras (dorso-lumbares). Aportación del usuario: 30 euros).
+
+
+06 03 12 Ortesis cervicales. Aportación del usuario: 30 euros.
+
+
+06 03 15 Ortesis cérvico-torácicas. Aportación del usuario: 30 euros.
+
+
+06 03 18 Ortesis cérvico-toraco-lumbo-sacras. Aportación del usuario: 30 euros.
+
+
+06 06 03 Ortesis de dedos. Aportación del usuario: 12 euros.
+
+
+06 06 06 Ortesis de mano. Aportación del usuario: 12 euros.
+
+
+06 06 12 Ortesis de muñeca y mano. Aportación del usuario: 30 euros.
+
+
+06 06 13 Ortesis de muñeca, mano y dedos. Aportación del usuario: 30 euros.
+
+
+06 06 15 Ortesis de codo. Aportación del usuario: 30 euros.
+
+
+06 06 20 Ortesis de antebrazo. Aportación del usuario: 30 euros.
+
+
+06 06 24 Ortesis de hombro y codo. Aportación del usuario: 30 euros.
+
+
+06 06 27 Ortesis de hombro, codo y muñeca. Aportación del usuario: 30 euros.
+
+
+06 12 06 Ortesis de tobillo y pie (tibiales). Aportación del usuario: 30 euros.
+
+
+06 12 09 Ortesis de rodilla. Aportación del usuario: 30 euros.
+
+
+06 12 12 Ortesis de rodilla, tobillo y pie (femorales). Aportación del usuario: 30 euros.
+
+
+06 12 15 Ortesis de cadera, incluyendo órtesis de abducción. Aportación del usuario: 30 euros.
+
+
+06 12 18 Ortesis de cadera, rodilla, tobillo y pie. Aportación del usuario: 30 euros.
+
+
+06 33 90 Calzados ortopédicos para grandes deformidades. Aportación del usuario: 36 euros.
+
+
+12 03 09 Muletas de codo con soporte en antebrazo. Aportación del usuario: 12 euros.
+
+
+12 03 16 Muletas con tres o más patas. Aportación del usuario: 12 euros.
+
+
+12 06 00 Andadores. Aportación del usuario: 30 euros.
+
+
+04 06 06 Prendas de compresión para brazos, piernas y otras partes del cuerpo para linfedemas de miembros superiores, linfedemas graves de miembros inferiores y linfedemas de tronco. Aportación del usuario: 30 euros.
+
+
+04 07 00 Prendas de compresión para brazos, piernas y otras partes del cuerpo para quemados y grandes queloides. Aportación del usuario: 30 euros.
+
+
+04 33 00 Cojines para prevenir las úlceras por presión. Aportación del usuario: 30 euros.
+
+
+04 48 06 Aparatos de bipedestación. Aportación del usuario: 30 euros.
+
+
+04 48 21 Planos inclinables. Aportación del usuario: 30 euros.
+
+
+5.9.8 Acto de servicio. En el caso de suministro de prótesis externas, sillas de ruedas, ortesis, ortoprótesis para agenesias y ortoprótesis especiales, para los titulares que lo requieran, como consecuencia de un acto de servicio, serán financiadas en su totalidad, aquellas que se encuentren incluidas en el Catálogo del ISFAS de Ortoprótesis externas o en la Cartera de Servicios del Sistema Nacional de Salud (SNS).
+
+
+En este supuesto, el reconocimiento de la correspondiente prestación corresponderá a la Subdirección de Prestaciones.
+
+
+La renovación de las prestaciones queda sujeta a lo dispuesto con carácter general en el apartado 5.9.6.
+
+
+5.10 Procedimiento para la tramitación y reconocimiento de prestaciones ortoprotésicas.
+
+
+5.10.1 Modalidades de Abono.
+
+
+A) Con carácter general las prestaciones ortoprotésicas se harán efectivas mediante el reembolso o reintegro de los gastos abonados previamente por los beneficiarios, sin que pueda superarse el IMF que corresponda.
+
+
+B) Podrá autorizarse la modalidad de abono directo al establecimiento dispensador, siempre que conste su conformidad. La factura que se emita para su abono directo por el ISFAS, en ningún caso podrá reflejar un importe superior al IMF y en la misma se hará constar el código del tipo de producto, la descripción del artículo o concepto que puede dar lugar al reconocimiento de la prestación, el importe, desglosando los impuestos y la aportación abonada por el beneficiario, cuyo importe se reflejará deducido del importe final.
+
+
+No será aplicable el pago directo en el supuesto especial previsto en el apartado 5.7.
+
+
+5.10.2 Procedimiento administrativo. Las prestaciones ortoprotésicas se solicitarán a través de la Sede Electrónica del ISFAS o mediante el formulario normalizado que se obtendrá en la Delegación del ISFAS o a través de la página web de este Instituto, al que se unirá la siguiente documentación:
+
+
+a) Informe médico con la prescripción del correspondiente especialista de los servicios asignados en función de la Modalidad asistencial a la que esté adscrito el beneficiario, ajustado al modelo recogido en el Anexo 4, en el que se incluirá la información que se indica en el apartado 5.9.1.
+
+
+b) Factura con los requisitos exigidos en el apartado 1.3.3, en la que constará el nombre del paciente, el código del tipo de producto que corresponda, la descripción del artículo o concepto dispensado y adaptado y el importe, desglosando los impuestos.
+
+
+c) Justificación del pago de la factura, salvo que se solicite el pago al proveedor.
+
+
+d) Cuando se solicite el abono directo al centro o establecimiento dispensador, se indicarán los datos de su cuenta bancaria para realizar el abono y se acreditará su conformidad.
+
+
+Se someterán a la valoración del Asesor Médico los expedientes relativos a prestaciones para ortoprótesis externas de los grupos o subgrupos que se determinen por la Subdirección de Prestaciones.
+
+
+Tras la valoración de los datos recogidos en el expediente, se dictará la correspondiente resolución.
+
+
+
+
+Subir
+
+
+
+
+
+
+[Bloque 8: #A6]
+
+
+6. Prestaciones sanitarias complementarias.
+
+
+6.1 Contenido.
+
+
+Las prestaciones sanitarias complementarias son las que quedan recogidas en el Anexo 5 de esta Resolución donde, al mismo tiempo, se establecen sus límites, las condiciones que habrán de cumplirse para el acceso a cada una, la documentación exigible y, en su caso, los plazos de renovación.
+
+
+Se trata de prestaciones que se configuran como ayudas económicas para prótesis y determinadas actuaciones bucodentales, ayudas oculares y otras ayudas técnicas que tradicionalmente han sido objeto de prestaciones sanitarias a cargo del ISFAS. Las prestaciones tendrán el límite máximo que se establece para cada una, si bien, en ningún caso superarán el importe abonado por el beneficiario.
+
+
+El contenido y alcance de las prestaciones será el mismo, con independencia de la contingencia de la que derive su necesidad.
+
+
+6.2 Prescripción y dispensación.
+
+
+En los apartados específicos para cada prestación se detallan las particularidades sobre prescripción facultativa y dispensación.
+
+
+Los productos sanitarios y servicios odontológicos o protésicos que pueden dan lugar al reconocimiento de las prestaciones requieren todos ellos adaptación individual, lo que imposibilita, con carácter general, que la adquisición/venta se realice por internet.
+
+
+Asimismo, la normativa sanitaria general establece que los establecimientos que realicen la venta al público de productos que requieran una adaptación individualizada, deberán contar con el equipamiento necesario para realizar tal adaptación y disponer de un profesional cuya titulación acredite una cualificación adecuada a estas funciones.
+
+
+El incumplimiento de alguna de las condiciones exigidas en relación con la prescripción facultativa y la dispensación será causa de denegación de la prestación.
+
+
+6.3 Adquisiciones y servicios en otro Estado de la Unión Europea.
+
+
+Los expedientes exclusivamente referidos a prestaciones complementarias incluidas en el Anexo 5 para prótesis y determinadas actuaciones bucodentales, ayudas oculares y otras ayudas técnicas, por adquisiciones y servicios realizados en otro Estado Miembro de la Unión Europea y también en los países del EEE (Islandia, Liechtenstein y Noruega) y Suiza, se tramitarán y gestionarán como cualquier expediente de prestaciones complementarias, de manera que se resolverán por el órgano competente para el reconocimiento de las mismas conforme a lo dispuesto en la Resolución 4B0/38106/2019, de 11 de abril, sobre delegación de competencias.
+
+
+6.4 Procedimiento.
+
+
+Las solicitudes se realizarán a través de la Sede Electrónica del ISFAS o mediante formulario normalizado que se obtendrá en la Delegación del ISFAS o a través de la página web, al que se unirá la documentación justificativa establecida en cada caso.
+
+
+
+
+Subir
+
+
+
+
+
+
+[Bloque 9: #dt]
+
+
+## Disposición transitoria primera.
+
+
+Mantendrán el acceso a la prestación para Hospitalización Psiquiátrica prevista en el apartado 2.2 los titulares y beneficiarios que, a 31 de diciembre de 2019 se encontraran adscritos a la Modalidad de Asistencia por Servicios públicos de Salud con antecedentes de ingreso previo o en curso que hubieran sido atendidos con esta prestación.
+
+
+
+
+Subir
+
+
+
+
+
+
+[Bloque 10: #dt-2]
+
+
+## Disposición transitoria segunda.
+
+
+La presente Resolución establece un marco normativo estable para la tramitación de las ayudas que regula, señalando como preferente la presentación de solicitudes a través de la Sede Electrónica del ISFAS, si bien en el momento actual no están habilitados todos los procedimientos y desarrollos técnicos que permiten la completa presentación de la solicitud y la documentación complementaria. De esta manera, dichos procedimientos no podrán realizarse a través de la Sede Electrónica hasta que estén plenamente operativos. De esa circunstancia se dará la oportuna difusión. Hasta ese momento, las solicitudes y la documentación se podrán presentar por correo ordinario o presencialmente, sin necesidad de que los documentos sean originales.
+
+
+
+
+Subir
+
+
+
+
+
+
+[Bloque 11: #dd]
+
+
+Disposición derogatoria.
+
+
+A la entrada en vigor de la presente Resolución quedarán sin efecto:
+
+
+A) La Resolución 4B0/38303/2020, de 30 de septiembre, del Instituto Social de las Fuerzas Armadas, sobre Cartera de Servicios de Asistencia Sanitaria del ISFAS.
+
+
+B) Cualquier disposición o norma interna sobre la materia objeto de la presente Resolución que hubiera sido dictada por cualquier órgano del ISFAS que contravenga lo establecido en esta.
+
+
+
+
+Subir
+
+
+
+
+
+
+[Bloque 12: #df]
+
+
+## Disposición final primera. Modificación de la Instrucción 4B0/19065/2010, de 15 de diciembre, de la Gerencia del Instituto Social de las Fuerzas Armadas, por la que se regulan las prestaciones sociales del ISFAS.
+
+
+En el apartado primero del artículo 1.8.4 «Facturas» de la Instrucción 4B0/19065/2010 de 15 de diciembre, por la que se regulan las prestaciones sociales del ISFAS, queda redactado como sigue:
+
+
+
+
+«Las facturas deberán reunir los requisitos legales y reglamentariamente exigibles. En el caso de prestaciones que se hagan efectivas por reintegro de gastos, debe quedar constancia del pago previo de las facturas o, en su caso, acompañarse del recibo acreditativo del abono de su importe.»
+
+
+
+
+
+
+Subir
+
+
+
+
+
+
+[Bloque 13: #df-2]
+
+
+## Disposición final segunda.
+
+
+Esta Resolución entrará en vigor el día siguiente a su publicación.
+
+
+
+
+Subir
+
+
+
+
+
+
+[Bloque 14: #fi]
+
+
+Madrid, 2 de junio de 2022.–El Secretario General Gerente, José Luis Modrego Navarro.
+
+
+
+
+Subir
+
+
+
+
+
+
+[Bloque 15: #a1]
+
+
+ANEXO 1
+
+
+Límites de las ayudas por traslado de enfermos, salud mental y productos sanitarios para diabéticos
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Prestación
+
+
+Límite de la ayuda
+
+
+
+
+
+
+
+
+
+
+Ayuda para gastos de hospedaje y manutención.
+
+
+25 euros por día.
+
+
+
+
+
+
+Ayuda para manutención.
+
+
+12 euros por día.
+
+
+
+
+
+
+Ayuda por transporte ordinario de acompañante.
+
+
+Importe de los billetes del medio de transporte utilizado.
+
+
+
+
+
+
+Hospitalización psiquiátrica en régimen de internamiento (ayuda por cada estancia).
+
+
+95 euros.
+
+
+
+
+
+
+Hospitalización psiquiátrica en régimen de hospital de día (ayuda por cada estancia diurna).
+
+
+49 euros.
+
+
+
+
+
+
+Psicoterapia (importe máximo por cada sesión).
+
+
+42,43 euros.
+
+
+
+
+
+
+Agujas para inyectores de insulina (importe mensual máximo).
+
+
+30,37 euros.
+
+
+
+
+
+
+Material fungible para bombas de insulina (importe mensual máximo).
+
+
+290,90 euros.
+
+
+
+
+
+
+Reflectómetro (ayuda por equipo).
+
+
+54,70 euros.
+
+
+
+
+
+
+Sistema de monitorización de glucosa mediante sensores (Tipo flash).
+
+
+
+
+50 euros por sensor.
+
+
+Límite: 13 sensores cada seis meses.
+
+
+
+
+
+
+
+
+
+
+
+
+Subir
+
+
+
+
+
+
+[Bloque 16: #a2]
+
+
+ANEXO 2
+
+
+
+
+
+
+
+
+
+
+Subir
+
+
+
+
+
+
+[Bloque 17: #a3]
+
+
+ANEXO 3
+
+
+Protocolo de solicitud para la autorización de dispensación de bombas infusión subcutánea continua de insulina
+
+
+1. DATOS DEL PACIENTE
+
+
+Apellidos y nombre:
+
+
+N.° de Afiliación al ISFAS del titular:
+
+
+Entidad Médica de adscripción:
+
+
+Dirección de contacto:
+
+
+Telf. de contacto: .................... Correo electrónico: .....................
+
+
+2. DATOS DEL FACULTATIVO ESPECIALISTA EN ENDOCRINOLOGíA y NUTRICIÓN SOLICITANTE
+
+
+Apellidos y nombre:
+
+
+N.° de Colegiado:
+
+
+Dirección de contacto:
+
+
+Telf. de contacto: ..................... Correo electrónico: .......................
+
+
+3. DATOS DEL CENTRO DISPENSADOR (Datos a cumplimentar por el Centro)
+
+
+Nombre del Hospital o Clínica:
+
+
+Dirección:
+
+
+Localidad y provincia:
+
+
+Teléfono de contacto:
+
+
+Correo electrónico:
+
+
+4. DATOS DE LA BOMBA DE INSULINA (Datos a cumplimentar por el Centro)
+
+
+Marca:
+
+
+Modelo:
+
+
+Casa Comercial o distribuidor:
+
+
+Importe:
+
+
+5. INDICACIÓN
+
+
+Requisitos que han de cumplir los pacientes los pacientes a los que se prescribe la bomba portátil de infusión subcutánea de insulina:
+
+
+Con carácter general, los pacientes susceptibles de utilización de este tipo de bombas han de tener la suficiente capacidad intelectual para leer y retener información y realizar los ajustes necesarios en la dosis de insulina.
+
+
+Señálese a continuación cada una de las situaciones concurrentes en las que se encuentre el paciente:
+
+
+☐ Paciente diagnosticado de Diabetes mellitus tipo 1.
+
+
+ Año diagnóstico: ..........
+
+
+☐ Paciente diabética en gestación o en planificación de embarazo con mal control a pesar del tratamiento intensivo.
+
+
+☐ Ha realizado un programa educativo sobre el cuidado en la diabetes.
+
+
+☐ Ha mantenido un programa de inyecciones múltiples, como mínimo tres diarias, con autoajustes frecuentes de la dosis de insulina.
+
+
+ Fecha en que inició el tratamiento con inyecciones múltiples ..................
+
+
+☐ Ha realizado autocontroles de glucemia, con una frecuencia media de cuatro controles diarios durante los dos meses previos a la indicación de la bomba.
+
+
+☐ Se ha mantenido en régimen de inyecciones múltiples, experimentando durante el mismo las siguientes circunstancias:
+
+
+ ☐ Hemoglobina glucosilada > 7,0%.
+
+
+ ☐ Historia de hipoglucemia reciente.
+
+
+ ☐ Amplias variaciones en la glucemia preprandial.
+
+
+ ☐ Fenómeno del alba con glucemias que superen los 200 mg/dl.
+
+
+ ☐ Historia de desviaciones glucémicas severas.
+
+
+
+
+Subir
+
+
+
+
+
+
+[Bloque 18: #a4]
+
+
+ANEXO 4
+
+
+Modelo de informe para prescripción de ortoprótesis externas
+
+
+
+
+
+
+
+
+
+
+Subir
+
+
+
+
+
+
+[Bloque 19: #a5]
+
+
+ANEXO 5
+
+
+Prestaciones sanitarias complementarias
+
+
+1. Prestaciones dentarias.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Ayudas para prostodoncia o rehabilitación protésica
+
+
+
+
+Límite de la ayuda
+
+
+–
+
+
+Euros
+
+
+
+
+
+
+
+
+
+
+
+
+Rehabilitación mediante prótesis completa.
+
+
+560
+
+
+
+
+
+
+Rehabilitación mediante prótesis superior o inferior.
+
+
+280
+
+
+
+
+
+
+Rehabilitación mediante piezas dentarias, fundas o coronas (cada una).
+
+
+35
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Otras prestaciones dentarias
+
+
+
+
+Límite de la ayuda
+
+
+–
+
+
+Euros
+
+
+
+
+
+
+
+
+
+
+
+
+Tratamiento con implante osteointegrado (cada uno, hasta un máximo de seis).
+
+
+120
+
+
+
+
+
+
+Empaste, obturaciones o reconstrucciones (cada uno).
+
+
+20
+
+
+
+
+
+
+Endodoncia (cada pieza tratada).
+
+
+40
+
+
+
+
+
+
+Tratamiento de ortodoncia iniciado antes de los 18 años.
+
+
+500
+
+
+
+
+
+
+Tartrectomía o limpieza de boca.
+
+
+12
+
+
+
+
+
+
+
+
+Delimitación y condiciones de acceso:
+
+
+A) Los tratamientos odontológicos incluidos entre las prestaciones objeto de los Conciertos suscritos por el ISFAS con Entidades de Seguro no podrán ser objeto de las ayudas establecidas en el presente Anexo, a favor de los titulares y beneficiarios acogidos a esos Conciertos.
+
+
+B) Quedan excluidas las piezas, fundas o coronas provisionales, por su naturaleza puramente estética.
+
+
+C) Las ayudas para rehabilitación con prótesis dentarias tienen por objeto atender la cobertura del correspondiente tratamiento, con los límites establecidos, y alcanzará tanto a las actuaciones clínicas precisas como al coste de la correspondiente prótesis.
+
+
+El conjunto de las ayudas para tratamientos de rehabilitación con prótesis dentarias estarán sujetas a un plazo de renovación de tres años, de forma que la máxima ayuda que podrá reconocerse a un beneficiario por cualquier tipo de tratamiento de rehabilitación con prótesis dentarias (completa, superior, inferior o por piezas fundas o coronas) será de 560 € cada tres años, a contar retrospectivamente desde la fecha de la solicitud.
+
+
+La ayuda por rehabilitación con prótesis completa será incompatible con otras prestaciones dentarias, con la excepción de las ayudas por implantes osteointegrados.
+
+
+D) La ayuda por endodoncia incluye la ayuda por el empaste u obturación de la pieza tratada (aunque no se haga constar expresamente en la factura), por entenderse que toda endodoncia concluye con el cierre de la cavidad mediante el correspondiente empaste u obturación.
+
+
+E) Los tratamientos reparadores sobre la dentición temporal no serán objeto de ayudas.
+
+
+F) Los tratamientos de ortodoncia iniciados antes de los 18 años, podrán ser objeto de ayudas económicas, que se abonarán por una sola vez y para un único tratamiento. Si el beneficiario ha cumplido los 18 años habrá de aportarse informe del especialista, en el que constará la fecha de inicio del tratamiento.
+
+
+G) La ayuda para implantes osteointegrados sólo se podrá reconocer para un máximo de seis implantes por cada beneficiario de la misma, de forma que los beneficiarios a los que ya se les haya reconocido la ayuda correspondiente a seis implantes no podrán ser objeto de nuevas prestaciones por este concepto. Estas ayudas son compatibles con las ayudas para rehabilitación protésica.
+
+
+H) La ayuda para tartrectomía sólo se podrá reconocer una vez cada año natural y, conforme a lo dispuesto en el apartado A) precedente, a ella no podrán acceder los beneficiarios con asistencia completa por una Entidad de Seguro.
+
+
+I) La solicitud de la correspondiente prestación deberá acompañarse de factura del odontólogo o estomatólogo en la que deberá figurar el detalle del tratamiento efectuado y demás requisitos exigibles.
+
+
+En las facturas por tratamientos de rehabilitación con prótesis dentarias, de conformidad con lo previsto en la 
+## Disposición adicional duodécima del Texto refundido de la Ley de garantías y uso racional de los medicamentos y productos sanitarios, aprobado por el Real Decreto Legislativo 1/2015, de 24 de julio
+, se deben desglosar todos los conceptos, detallando expresamente el coste de la prótesis correspondiente al coste del laboratorio protésico. Cuando se aporte factura emitida por un protésico dental, deberá aportarse también la factura o el informe del odontólogo o estomatólogo que hubiera realizado el tratamiento de rehabilitación con prótesis.
+
+
+2. Prestaciones oculares.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Prestaciones por gafas o lentillas
+
+
+
+
+Límite de la ayuda
+
+
+–
+
+
+Euros
+
+
+
+
+
+
+
+
+
+
+
+
+Gafas completas (de lejos o cerca).
+
+
+42
+
+
+
+
+
+
+Sustitución de cristal de lejos o cerca (unidad).
+
+
+15
+
+
+
+
+
+
+Gafas completas bifocales o progresivas.
+
+
+84
+
+
+
+
+
+
+Sustitución de cristal bifocal/progresivo (unidad).
+
+
+36
+
+
+
+
+
+
+Lentilla (unidad).
+
+
+33
+
+
+
+
+
+
+Lentillas desechables (ayuda anual).
+
+
+66
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Otras prestaciones oculares
+
+
+
+
+Límite de la ayuda
+
+
+–
+
+
+Euros
+
+
+
+
+
+
+
+
+
+
+
+
+Ayudas para la baja visión (gafas telelupa, lupas, filtros, microscopios).
+
+
+180
+
+
+
+
+
+
+Sustitución de cristal telelupa.
+
+
+40
+
+
+
+
+
+
+Lente terapéutica (unidad).
+
+
+62
+
+
+
+
+
+
+Técnicas de Cirugía Refractiva (tratamiento de cada ojo).
+
+
+200
+
+
+
+
+
+
+
+
+Delimitación y condiciones de acceso:
+
+
+A) Para el acceso a prestaciones por Gafas o Lentillas será preciso que la graduación óptica requerida sea igual o superior a 0,5 dioptrías.
+
+
+B) Las ayudas para gafas, sustitución de cristales y lentillas, de cualquier tipo, son incompatibles entre sí, pudiendo reconocerse solo una de ellas por cada año natural a favor del mismo beneficiario.
+
+
+En el caso de la sustitución de cristales y de las lentillas, podrán reconocerse ayudas para dos unidades como máximo, por beneficiario y año natural, pero en cualquier caso se mantendrá la incompatibilidad con otras ayudas para gafas o lentillas.
+
+
+Las lentes ortoqueratológicas son lentes de uso nocturno que intentan corregir la miopía mediante aplanamiento corneal. No compensan el defecto de refracción como las lentillas convencionales y en consecuencia no son lentes terapéuticas ni están incluidas en ninguna de las prestaciones oculares susceptibles de ayuda.
+
+
+Si las lentillas fueran desechables, la ayuda máxima a conceder por este concepto será de 66 € por año natural y beneficiario, debiendo solicitarse de una sola vez para su concesión.
+
+
+Se tendrá en cuenta la fecha de la factura para el control de estos límites.
+
+
+C) Las solicitudes relativas a ayudas para gafas, cristales y lentillas deberán acompañarse de la correspondiente factura y, salvo en el caso de las lentillas terapéuticas, del informe en el que se refleje la corrección óptica requerida por el beneficiario.
+
+
+D) Las lentes terapéuticas no tienen como finalidad corregir defectos de refracción (finalidad óptica) sino proteger una córnea lesionada y tiene las siguientes indicaciones: protección de la córnea, mantenimiento del balance hídrico, liberación de fármacos, regeneración del epitelio, alteración del paso de la luz y vendaje.
+
+
+La solicitud deberá acompañarse del informe de un especialista en oftalmología
+
+
+E) Podrán acceder a las prestaciones para ayudas ópticas para la baja visión los beneficiarios que presenten una agudeza visual igual o inferior a 0,3 (3/10) con corrección, en el mejor ojo, o un campo visual inferior a 10° desde el punto de fijación.
+
+
+En este caso, la solicitud deberá acompañarse del informe de un especialista en oftalmología, en el que se detallará la agudeza visual del beneficiario y, en su caso, el campo visual.
+
+
+Se reconocerá un máximo de dos prestaciones para ayudas ópticas para la baja visión por año natural.
+
+
+F) Los tratamientos mediante técnicas de cirugía refractiva darán lugar a una ayuda económica exclusivamente en el caso de beneficiarios con defectos de refracción estabilizados, por tanto, con edad superior a 21 años, y siempre que se requiera una corrección igual o superior a 4 dioptrías. Cuando exista un defecto combinado el defecto más severo deberá alcanzar el límite señalado.
+
+
+La solicitud habrá de acompañarse de informe médico de un especialista en Oftalmología, en el que deberá constar el diagnóstico, la corrección óptica requerida y la técnica terapéutica utilizada, así como de la correspondiente factura, con los requisitos legales ya señalados para estas prestaciones.
+
+
+El importe de la ayuda económica por cirugía refractiva será equivalente al 50% del coste del tratamiento sin que, en ningún caso, esta ayuda pueda superar el límite de 200 € por el tratamiento de cada ojo.
+
+
+3. Otras ayudas técnicas.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Prestación
+
+
+
+
+Límite de la ayuda
+
+
+–
+
+
+Euros
+
+
+
+
+
+
+
+
+
+
+
+
+Audífono (para beneficiarios mayores de 26 años).
+
+
+423
+
+
+
+
+
+
+Laringófono.
+
+
+Coste, según factura
+
+
+
+
+
+
+Cánulas de plata para traqueotomía y laringuectomía.
+
+
+Coste, según factura
+
+
+
+
+
+
+
+
+Delimitación y condiciones de acceso:
+
+
+A) El período mínimo de renovación ordinaria de estas prestaciones será de 4 años desde la fecha de factura, excepto para las cánulas de plata para traqueotomía que no estarán sujetas a plazos de renovación.
+
+
+B) En el caso de que los artículos precisen algún tipo de reparación, ésta podrá ser objeto de una ayuda económica cuyo importe será, como máximo, del 50% de la ayuda establecida para su adquisición. Las ayudas para reparación no incidirán en los plazos de renovación.
+
+
+C) La ayuda para audífono, prevista en este Anexo, será incompatible con la prestación de audífono prevista en el Catálogo común de Ortoprótesis externas para menores de 26 años, por lo que sólo se tendrá acceso a la misma a partir de esa edad.
+
+
+Cuando se prescriba la adaptación bilateral de audífonos, ambos podrán ser objeto de ayuda económica.
+
+
+D) En los expedientes relativos a solicitudes de cánulas de plata para traqueotomía y laringuectomía el informe del especialista deberá justificar la necesidad de este tipo de cánulas.
+
+
+E) En todos los casos, las solicitudes deberán acompañarse de informe médico de prescripción y de la correspondiente factura, con los requisitos legales establecidos.
+
+
+
+
+Subir
+
+
+
+
+
+
+[Bloque 20: #a6]
+
+
+ANEXO 6
+
+
+Catálogo común de ortoprótesis externas
+
+
+Grupo: 06 18 Prótesis de miembro superior, incluidas las mioeléctricas para pacientes mayores de dos años amputados unilaterales o bilaterales, prescritas exclusivamente por los servicios de Rehabilitación de los hospitales en la forma en que determinen las Comunidades Autónomas, Instituto Nacional de Gestión Sanitaria y las Mutualidades de Funcionarios en su respectivo ámbito de gestión, a los pacientes que cumplan todos los requisitos siguientes:
+
+
+1. Tener suficiente capacidad mental y de control mioeléctrico que les permita el manejo de la prótesis de forma segura y eficaz.
+
+
+2. Desarrollar actividades de la vida diaria o laborales en las que la utilización de la prótesis mioeléctrica les supondría una ventaja respecto al uso de una prótesis funcional o pasiva.
+
+
+3. Participar en un programa de rehabilitación para su adiestramiento.
+
+
+4. Disponer de un entorno familiar o supervisión externa que favorezca un uso adecuado y continuado de la prótesis en los niños y personas dependientes.
+
+
+Para la prescripción de prótesis mioeléctricas se seguirán los protocolos que al efecto establezcan las administraciones sanitarias competentes.
+
+
+Subgrupo: 06 18 03 Prótesis parciales de mano, incluyendo las prótesis de dedo
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Categorías (Código homologado
+
+
+y descripción)
+
+
+
+
+Tipos de productos (Código y descripción)
+
+
+Elaboración
+
+
+
+
+Vida media
+
+
+–
+
+
+Meses
+
+
+
+
+
+
+IMF
+
+
+(importe máximo de financiación)
+
+
+
+
+IMF si (sin impuestos)
+
+
+
+
+
+
+
+
+
+
+PSM 000 Prótesis para amputación parcial de mano.
+
+
+PSM 000A Prótesis pasiva para amputación parcial de mano, a medida, con guante de PVC incluido.
+
+
+MED
+
+
+36
+
+
+917,58
+
+
+834,16
+
+
+
+
+
+
+PSM 000B Prótesis pasiva para amputación parcial de mano, a medida, con guante de silicona incluido.
+
+
+MED
+
+
+36
+
+
+1.026,23
+
+
+932,94
+
+
+
+
+
+
+PSM 000C Prótesis para amputación parcial de mano con funcionalidad del pulgar conservada, a medida (Prescribir además un guante).
+
+
+MED
+
+
+36
+
+
+843,19
+
+
+766,54
+
+
+
+
+
+
+PSM 010 Prótesis pasiva para amputación de un dedo (epítesis).
+
+
+PSM 010A Prótesis pasiva de silicona para amputación de dedo índice o medio con pulgar conservado, a medida (Especial prescripción).
+
+
+MED
+
+
+36
+
+
+2.416,40
+
+
+2.196,73
+
+
+
+
+
+
+
+
+Subgrupo: 06 18 06 Prótesis de desarticulación de muñeca 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Categorías (Código homologado
+
+
+y descripción)
+
+
+
+
+Tipos de productos (Código y descripción)
+
+
+Elaboración
+
+
+
+
+Vida media
+
+
+–
+
+
+Meses
+
+
+
+
+IMF
+
+
+IMF si
+
+
+
+
+
+
+
+
+
+
+PSN 000 Prótesis pasiva de desarticulación de muñeca.
+
+
+PSN 000A Prótesis pasiva de desarticulación de muñeca, a medida, con encaje infracondilar exterior rígido de antebrazo, sistema de suspensión, mano pasiva y guante (Prescribir, si lo precisa, un encaje interior y/o vaina).
+
+
+MED
+
+
+36
+
+
+2.166,38
+
+
+1.969,44
+
+
+
+
+
+
+PSN 000B Prótesis pasiva de desarticulación de muñeca, a medida, con encaje supracondilar exterior rígido de antebrazo, mano pasiva y guante (Prescribir además un encaje interior y/o vaina).
+
+
+MED
+
+
+36
+
+
+2.013,49
+
+
+1.830,45
+
+
+
+
+
+
+PSN 010 Prótesis mecánica de desarticulación de muñeca.
+
+
+PSN 010A Prótesis mecánica de desarticulación de muñeca, a medida, con encaje infracondilar exterior rígido de antebrazo (Prescribir además un sistema de suspensión, un sistema de accionamiento cinemático, un terminal a elección y, si lo precisa, un encaje interior y/o vaina y un guante).
+
+
+MED
+
+
+36
+
+
+1.344,38
+
+
+1.222,16
+
+
+
+
+
+
+PSN 010B Prótesis mecánica de desarticulación de muñeca, a medida, con encaje supracondilar exterior rígido de antebrazo (Prescribir además un encaje interior y/o vaina, un sistema de accionamiento cinemático, un terminal a elección y, si lo precisa, un guante).
+
+
+MED
+
+
+36
+
+
+1.503,75
+
+
+1.367,05
+
+
+
+
+
+
+PSN 020 Prótesis mioeléctrica de desarticulación de muñeca.
+
+
+PSN 020A Prótesis mioeléctrica de desarticulación de muñeca, a medida, con encaje infracondilar exterior rígido de antebrazo (Prescribir además un sistema de suspensión, electrodos, baterías, un cargador, un terminal a elección y, si lo precisa, caja de conexión para alojamiento de la batería, un encaje interior y/o vaina y un guante).
+
+
+MED
+
+
+36
+
+
+2.811,45
+
+
+2.555,86
+
+
+
+
+
+
+PSN 020B Prótesis mioeléctrica de desarticulación de muñeca, a medida, con encaje supracondilar exterior rígido de antebrazo (Prescribir además un encaje interior y/o vaina, electrodos, baterías, un cargador, un terminal a elección y, si lo precisa, caja de conexión para alojamiento de la batería y un guante).
+
+
+MED
+
+
+36
+
+
+2.882,37
+
+
+2.620,34
+
+
+
+
+
+
+PSN 900 Encaje para prótesis de desarticulación de muñeca.
+
+
+PSN 900A Encaje infracondilar exterior rígido para prótesis mecánica de desarticulación de muñeca, a medida. Incluye adaptación y alineación.
+
+
+MED
+
+
+24
+
+
+1.314,38
+
+
+1.194,89
+
+
+
+
+
+
+PSN 900B Encaje supracondilar exterior rígido para prótesis mecánica de desarticulación de muñeca, a medida. Incluye adaptación y alineación.
+
+
+MED
+
+
+24
+
+
+1.473,75
+
+
+1.339,77
+
+
+
+
+
+
+PSN 900C Encaje infracondilar exterior rígido con cajeado para electrodos para prótesis mioeléctrica de desarticulación de muñeca, a medida. Incluye adaptación y alineación.
+
+
+MED
+
+
+24
+
+
+2.711,45
+
+
+2.464,95
+
+
+
+
+
+
+PSN 900D Encaje supracondilar exterior rígido con cajeado para electrodos para prótesis mioeléctrica de desarticulación de muñeca, a medida. Incluye adaptación y alineación.
+
+
+MED
+
+
+24
+
+
+2.782,37
+
+
+2.529,43
+
+
+
+
+
+
+PSN 900E Encaje infracondilar interior en termoplástico blando para prótesis pasiva o mecánica de desarticulación de muñeca, a medida.
+
+
+MED
+
+
+24
+
+
+412,50
+
+
+375,00
+
+
+
+
+
+
+PSN 900F Encaje infracondilar interior en silicona para prótesis pasiva o mecánica de desarticulación de muñeca, a medida.
+
+
+MED
+
+
+24
+
+
+872,73
+
+
+793,39
+
+
+
+
+
+
+PSN 900G Encaje infracondilar interior en termoplástico blando con cajeado para electrodos para prótesis mioeléctrica de desarticulación de muñeca, a medida.
+
+
+MED
+
+
+24
+
+
+412,50
+
+
+375,00
+
+
+
+
+
+
+PSN 900H Encaje infracondilar interior en silicona con cajeado para electrodos para prótesis mioeléctrica de desarticulación de muñeca, a medida.
+
+
+MED
+
+
+24
+
+
+878,17
+
+
+798,34
+
+
+
+
+
+
+PSN 900I Encaje supracondilar interior en termoplástico blando para prótesis pasiva o mecánica de desarticulación de muñeca, a medida.
+
+
+MED
+
+
+24
+
+
+412,50
+
+
+375,00
+
+
+
+
+
+
+PSN 900J Encaje supracondilar interior en silicona para prótesis pasiva o mecánica de desarticulación de muñeca, a medida.
+
+
+MED
+
+
+24
+
+
+987,80
+
+
+898,00
+
+
+
+
+
+
+PSN 900K Encaje supracondilar interior en termoplástico blando con cajeado para electrodos para prótesis mioeléctrica de desarticulación de muñeca, a medida.
+
+
+MED
+
+
+24
+
+
+412,50
+
+
+375,00
+
+
+
+
+
+
+PSN 900L Encaje supracondilar interior en silicona con cajeado para electrodos para prótesis mioeléctrica de desarticulación de muñeca, a medida.
+
+
+MED
+
+
+24
+
+
+990,00
+
+
+900,00
+
+
+
+
+
+
+
+
+Subgrupo: 06 18 09 Prótesis transradial (por debajo del codo) 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Categorías (Código homologado
+
+
+y descripción)
+
+
+
+
+Tipos de productos (Código y descripción)
+
+
+Elaboración
+
+
+
+
+Vida media
+
+
+–
+
+
+Meses
+
+
+
+
+IMF
+
+
+IMF si
+
+
+
+
+
+
+
+
+
+
+PSA 000 Prótesis pasiva transradial.
+
+
+PSA 000A Prótesis pasiva transradial, a medida, con encaje infracondilar exterior rígido, estructura endoesquelética, cubierta de espuma, media y articulación de muñeca (Prescribir además un sistema de suspensión, una mano pasiva, un guante a elección y, si lo precisa, un encaje interior y/o vaina).
+
+
+MED
+
+
+36
+
+
+2.636,15
+
+
+2.396,50
+
+
+
+
+
+
+PSA 000B Prótesis pasiva transradial, a medida, con encaje supracondilar exterior rígido, estructura endoesquelética, cubierta de espuma, media y articulación de muñeca (Prescribir además un encaje interior y/o vaina, una mano pasiva y un guante a elección).
+
+
+MED
+
+
+36
+
+
+2.794,09
+
+
+2.540,08
+
+
+
+
+
+
+PSA 000C Prótesis pasiva transradial, a medida, con encaje infracondilar exterior rígido, estructura exoesquelética y articulación de muñeca (Prescribir además un sistema de suspensión, una mano pasiva, un guante a elección y, si lo precisa, un encaje interior y/o vaina).
+
+
+MED
+
+
+36
+
+
+2.206,38
+
+
+2.005,80
+
+
+
+
+
+
+PSA 000D Prótesis pasiva transradial, a medida, con encaje supracondilar exterior rígido, estructura exoesquelética y articulación de muñeca (Prescribir además un encaje interior y/o vaina, una mano pasiva y un guante a elección).
+
+
+MED
+
+
+36
+
+
+2.364,33
+
+
+2.149,39
+
+
+
+
+
+
+PSA 010 Prótesis mecánica transradial.
+
+
+PSA 010A Prótesis mecánica transradial, a medida, con encaje infracondilar exterior rígido y estructura exoesquelética (Prescribir además un sistema de accionamiento cinemático, un sistema de suspensión, una articulación de muñeca, un terminal a elección y, si lo precisa, un encaje interior y/o vaina y un guante).
+
+
+MED
+
+
+36
+
+
+2.157,38
+
+
+1.961,25
+
+
+
+
+
+
+PSA 010B Prótesis mecánica transradial, a medida, con encaje supracondilar exterior rígido y estructura exoesquelética (Prescribir además un encaje interior y/o vaina, un sistema de accionamiento cinemático, una articulación de muñeca, un terminal a elección y, si lo precisa, un guante).
+
+
+MED
+
+
+36
+
+
+2.315,32
+
+
+2.104,84
+
+
+
+
+
+
+PSA 020 Prótesis mioeléctrica transradial.
+
+
+PSA 020A Prótesis mioeléctrica transradial, a medida, con encaje infracondilar exterior rígido y estructura exoesquelética (Prescribir además un sistema de suspensión, electrodos, baterías, un cargador, una articulación de muñeca, un terminal a elección y, si lo precisa, caja de conexión para alojamiento de la batería un encaje interior y/o vaina, y un guante).
+
+
+MED
+
+
+36
+
+
+3.989,37
+
+
+3.626,70
+
+
+
+
+
+
+PSA 020B Prótesis mioeléctrica transradial, a medida, con encaje supracondilar exterior rígido y estructura exoesquelética (Prescribir además un encaje interior y/o vaina, electrodos, baterías, un cargador, una articulación de muñeca, un terminal a elección y, si lo precisa, caja de conexión para alojamiento de la batería y un guante).
+
+
+MED
+
+
+36
+
+
+4.142,21
+
+
+3.765,65
+
+
+
+
+
+
+PSA 900 Encaje para prótesis transradial.
+
+
+PSA 900A Encaje infracondilar exterior rígido para prótesis pasiva o mecánica transradial, a medida. Incluye adaptación y alineación.
+
+
+MED
+
+
+24
+
+
+1.427,57
+
+
+1.297,79
+
+
+
+
+
+
+PSA 900B Encaje supracondilar exterior rígido para prótesis pasiva o mecánica transradial, a medida. Incluye adaptación y alineación.
+
+
+MED
+
+
+24
+
+
+1.585,51
+
+
+1.441,37
+
+
+
+
+
+
+PSA 900C Encaje infracondilar exterior rígido con cajeado para electrodos para prótesis mioeléctrica transradial, a medida. Incluye adaptación y alineación.
+
+
+MED
+
+
+24
+
+
+3.169,56
+
+
+2.881,42
+
+
+
+
+
+
+PSA 900D Encaje supracondilar exterior rígido con cajeado para electrodos para prótesis mioeléctrica transradial, a medida. Incluye adaptación y alineación.
+
+
+MED
+
+
+24
+
+
+3.322,39
+
+
+3.020,35
+
+
+
+
+
+
+PSA 900E Encaje infracondilar interior en termoplástico blando para prótesis pasiva o mecánica transradial, a medida.
+
+
+MED
+
+
+24
+
+
+412,50
+
+
+375,00
+
+
+
+
+
+
+PSA 900F Encaje infracondilar interior en silicona para prótesis pasiva o mecánica transradial, a medida.
+
+
+MED
+
+
+24
+
+
+984,50
+
+
+895,00
+
+
+
+
+
+
+PSA 900G Encaje infracondilar interior en termoplástico blando con cajeado para electrodos para prótesis mioeléctrica transradial, a medida.
+
+
+MED
+
+
+24
+
+
+412,50
+
+
+375,00
+
+
+
+
+
+
+PSA 900H Encaje infracondilar interior en silicona con cajeado para electrodos para prótesis mioeléctrica transradial, a medida.
+
+
+MED
+
+
+24
+
+
+990,00
+
+
+900,00
+
+
+
+
+
+
+PSA 900I Encaje supracondilar interior en termoplástico blando para prótesis pasiva o mecánica transradial, a medida.
+
+
+MED
+
+
+24
+
+
+412,50
+
+
+375,00
+
+
+
+
+
+
+PSA 900J Encaje supracondilar interior en silicona para prótesis pasiva o mecánica transradial, a medida.
+
+
+MED
+
+
+24
+
+
+984,50
+
+
+895,00
+
+
+
+
+
+
+PSA 900K Encaje supracondilar interior en termoplástico blando con cajeado para electrodos para prótesis mioeléctrica transradial, a medida.
+
+
+MED
+
+
+24
+
+
+412,50
+
+
+375,00
+
+
+
+
+
+
+PSA 900L Encaje supracondilar interior en silicona con cajeado para electrodos para prótesis mioeléctrica transradial, a medida.
+
+
+MED
+
+
+24
+
+
+990,00
+
+
+900,00
+
+
+
+
+
+
+PSA 910 Otros componentes de prótesis transradial.
+
+
+PSA 910A Cubierta de espuma para prótesis endoesquelética transradial, a medida.
+
+
+MED
+
+
+12
+
+
+369,36
+
+
+335,78
+
+
+
+
+
+
+PSA 910B Media para prótesis endoesquelética transradial.
+
+
+MED
+
+
+6
+
+
+45,00
+
+
+40,91
+
+
+
+
+
+
+PSA 910C Estructura exoesquelética para prótesis transradial, a medida.
+
+
+MED
+
+
+12
+
+
+689,82
+
+
+627,11
+
+
+
+
+
+
+
+
+ Subgrupo: 06 18 12 Prótesis de desarticulación de codo
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Categorías (Código homologado
+
+
+y descripción)
+
+
+
+
+Tipos de productos (Código y descripción)
+
+
+Elaboración
+
+
+
+
+Vida media
+
+
+–
+
+
+Meses
+
+
+
+
+IMF
+
+
+IMF si
+
+
+
+
+
+
+
+
+
+
+PSC 000 Prótesis pasiva de desarticulación de codo.
+
+
+PSC 000A Prótesis pasiva de desarticulación de codo, a medida, con encaje exterior rígido, estructura exoesquelética, articulación de muñeca y articulación de codo (Prescribir además un sistema de suspensión, una mano pasiva, un guante a elección y, si lo precisa, un encaje interior y/o vaina).
+
+
+MED
+
+
+36
+
+
+3.408,47
+
+
+3.098,61
+
+
+
+
+
+
+PSC 010 Prótesis mecánica de desarticulación de codo.
+
+
+PSC 010A Prótesis mecánica de desarticulación de codo, a medida, con encaje exterior rígido y estructura exoesquelética (Prescribir además un sistema de suspensión, un sistema de accionamiento cinemático, una articulación de codo, una articulación de muñeca, un terminal a elección y, si lo precisa, un encaje interior y/o vaina y un guante).
+
+
+MED
+
+
+36
+
+
+2.882,88
+
+
+2.620,80
+
+
+
+
+
+
+PSC 020 Prótesis mioeléctrica de desarticulación de codo.
+
+
+PSC 020A Prótesis mioeléctrica de desarticulación de codo, a medida, con encaje exterior rígido y estructura exoesquelética (Prescribir además un sistema de suspensión, electrodos, baterías, un cargador, una articulación de codo mecánica de barras externas, una articulación de muñeca, un terminal a elección y, si lo precisa, caja de conexión para alojamiento de la batería, un encaje interior y/o vaina y un guante).
+
+
+MED
+
+
+36
+
+
+4.546,49
+
+
+4.133,17
+
+
+
+
+
+
+PSC 900 Encaje para prótesis de desarticulación de codo.
+
+
+PSC 900A Encaje exterior rígido para prótesis pasiva o mecánica de desarticulación de codo, a medida. Incluye adaptación y alineación.
+
+
+MED
+
+
+24
+
+
+1.968,78
+
+
+1.789,80
+
+
+
+
+
+
+PSC 900B Encaje exterior rígido con cajeado para electrodos para prótesis mioeléctrica de desarticulación de codo, a medida. Incluye adaptación y alineación.
+
+
+MED
+
+
+24
+
+
+3.522,39
+
+
+3.202,17
+
+
+
+
+
+
+PSC 900C Encaje interior en termoplástico blando para prótesis pasiva o mecánica de desarticulación de codo, a medida.
+
+
+MED
+
+
+24
+
+
+462,00
+
+
+420,00
+
+
+
+
+
+
+PSC 900D Encaje interior en silicona para prótesis pasiva o mecánica de desarticulación de codo, a medida.
+
+
+MED
+
+
+24
+
+
+1.129,84
+
+
+1.027,13
+
+
+
+
+
+
+PSC 900E Encaje interior en termoplástico blando con cajeado para electrodos para prótesis mioeléctrica de desarticulación de codo, a medida.
+
+
+MED
+
+
+24
+
+
+462,00
+
+
+420,00
+
+
+
+
+
+
+PSC 900F Encaje interior en silicona con cajeado para electrodos para prótesis mioeléctrica de desarticulación de codo, a medida.
+
+
+MED
+
+
+24
+
+
+1.155,00
+
+
+1.050,00
+
+
+
+
+
+
+PSC 910 Otros componentes de prótesis de desarticulación de codo.
+
+
+PSC 910A Estructura exoesquelética para desarticulación de codo, a medida.
+
+
+MED
+
+
+24
+
+
+864,10
+
+
+785,55
+
+
+
+
+
+
+
+
+ Subgrupo: 06 18 15 Prótesis transhumeral (por encima del codo)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Categorías (Código homologado
+
+
+y descripción)
+
+
+
+
+Tipos de productos (Código y descripción)
+
+
+Elaboración
+
+
+
+
+Vida media
+
+
+–
+
+
+Meses
+
+
+
+
+IMF
+
+
+IMF si
+
+
+
+
+
+
+
+
+
+
+PSB 000 Prótesis pasiva transhumeral.
+
+
+PSB 000A Prótesis pasiva transhumeral, a medida, con encaje exterior rígido, estructura endoesquelética, cubierta de espuma y media (Prescribir además un sistema de suspensión, una articulación de codo pasiva, una articulación de muñeca pasiva, una mano pasiva, un guante a elección y, si lo precisa, un encaje interior y/o vaina).
+
+
+MED
+
+
+36
+
+
+3.296,13
+
+
+2.996,48
+
+
+
+
+
+
+PSB 000B Prótesis pasiva transhumeral, a medida, con encaje exterior rígido y estructura exoesquelética, articulación de muñeca y articulación de codo (Prescribir además un sistema de suspensión, una mano pasiva, un guante a elección y, si lo precisa, un encaje interior y/o vaina).
+
+
+MED
+
+
+36
+
+
+3.607,14
+
+
+3.279,22
+
+
+
+
+
+
+PSB 010 Prótesis mecánica transhumeral.
+
+
+PSB 010A Prótesis mecánica transhumeral, a medida, con encaje exterior rígido y estructura exoesquelética (Prescribir además un sistema de accionamiento cinemático, un sistema de suspensión, una articulación de codo, una articulación de muñeca, un terminal a elección y, si lo precisa, un encaje interior y/o vaina y un guante).
+
+
+MED
+
+
+36
+
+
+3.081,55
+
+
+2.801,41
+
+
+
+
+
+
+PSB 020 Prótesis mioeléctrica transhumeral.
+
+
+PSB 020A Prótesis mioeléctrica transhumeral, a medida, con encaje exterior rígido y estructura exoesquelética (Prescribir además un sistema de suspensión, electrodos, baterías, un cargador, una articulación de codo, una articulación de muñeca, un terminal a elección y, si lo precisa, caja de conexión para alojamiento de la batería, un encaje interior y/o vaina y un guante).
+
+
+MED
+
+
+36
+
+
+4.858,89
+
+
+4.417,17
+
+
+
+
+
+
+PSB 900 Encaje para prótesis transhumeral.
+
+
+PSB 900A Encaje exterior rígido para prótesis pasiva o mecánica transhumeral, a medida. Incluye adaptación y alineación.
+
+
+MED
+
+
+24
+
+
+1.975,05
+
+
+1.795,50
+
+
+
+
+
+
+PSB 900B Encaje exterior rígido con cajeado para electrodos para prótesis mioeléctrica transhumeral, a medida. Incluye adaptación y alineación.
+
+
+MED
+
+
+24
+
+
+3.622,39
+
+
+3.293,08
+
+
+
+
+
+
+PSB 900C Encaje interior en termoplástico blando para prótesis pasiva o mecánica transhumeral, a medida.
+
+
+MED
+
+
+24
+
+
+462,00
+
+
+420,00
+
+
+
+
+
+
+PSB 900D Encaje interior en silicona para prótesis pasiva o mecánica transhumeral, a medida.
+
+
+MED
+
+
+24
+
+
+1.117,33
+
+
+1.015,75
+
+
+
+
+
+
+PSB 900E Encaje interior en termoplástico blando con cajeado para electrodos para prótesis mioeléctrica transhumeral, a medida.
+
+
+MED
+
+
+24
+
+
+462,00
+
+
+420,00
+
+
+
+
+
+
+PSB 900F Encaje interior en silicona con cajeado para electrodos para prótesis mioeléctrica transhumeral, a medida.
+
+
+MED
+
+
+24
+
+
+1.155,00
+
+
+1.050,00
+
+
+
+
+
+
+PSB 910 Otros componentes de prótesis transhumeral.
+
+
+PSB 910A Cubierta de espuma para prótesis endoesquelética transhumeral, a medida.
+
+
+MED
+
+
+12
+
+
+368,72
+
+
+335,20
+
+
+
+
+
+
+PSB 910B Media para prótesis endoesquelética transhumeral.
+
+
+MED
+
+
+6
+
+
+45,00
+
+
+40,91
+
+
+
+
+
+
+PSB 910C Estructura exoesquelética para prótesis transhumeral, a medida.
+
+
+MED
+
+
+12
+
+
+1.046,50
+
+
+951,36
+
+
+
+
+
+
+
+
+ Subgrupo: 06 18 18 Prótesis de desarticulación de hombro
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Categorías (Código homologado
+
+
+y descripción)
+
+
+
+
+Tipos de productos (Código y descripción)
+
+
+Elaboración
+
+
+
+
+Vida media
+
+
+–
+
+
+Meses
+
+
+
+
+IMF
+
+
+IMF si
+
+
+
+
+
+
+
+
+
+
+PSH 000 Prótesis pasiva de desarticulación de hombro.
+
+
+PSH 000A Prótesis pasiva de desarticulación de hombro, a medida, con encaje exterior rígido, estructura endoesquelética, cubierta de espuma, media, articulación de codo, articulación de muñeca y sistema de suspensión (Prescribir además una articulación de hombro, una mano pasiva, un guante a elección y, si lo precisa, un encaje interior y/o vaina).
+
+
+MED
+
+
+36
+
+
+3.688,33
+
+
+3.353,03
+
+
+
+
+
+
+PSH 000B Prótesis pasiva de desarticulación de hombro, a medida, con encaje exterior rígido, estructura exoesquelética, articulación de codo, articulación de muñeca y sistema de suspensión (Prescribir además una articulación de hombro, una mano pasiva a elección y, si lo precisa, un encaje interior y/o vaina y un guante).
+
+
+MED
+
+
+36
+
+
+3.446,16
+
+
+3.132,87
+
+
+
+
+
+
+PSH 010 Prótesis mioeléctrica de desarticulación de hombro.
+
+
+PSH 010A Prótesis mioeléctrica de desarticulación de hombro, a medida, con encaje exterior rígido, estructura exoesquelética y sistema de suspensión (Prescribir además electrodos y/o microllave, baterías, un cargador, una articulación de hombro, una articulación de codo, una articulación de muñeca, un terminal a elección y, si lo precisa, caja de conexión para alojamiento de la batería, un encaje interior y/o vaina y un guante).
+
+
+MED
+
+
+36
+
+
+3.796,88
+
+
+3.451,71
+
+
+
+
+
+
+PSH 900 Encaje para prótesis de desarticulación de hombro.
+
+
+PSH 900A Encaje exterior rígido para prótesis pasiva de desarticulación de hombro, a medida. Incluye adaptación y alineación.
+
+
+MED
+
+
+24
+
+
+1.153,69
+
+
+1.048,81
+
+
+
+
+
+
+PSH 900B Encaje exterior rígido con cajeado para electrodos para prótesis mioeléctrica de desarticulación de hombro, a medida. Incluye adaptación y alineación.
+
+
+MED
+
+
+24
+
+
+1.880,00
+
+
+1.709,09
+
+
+
+
+
+
+PSH 900C Encaje interior en termoplástico blando para prótesis pasiva de desarticulación de hombro, a medida.
+
+
+MED
+
+
+24
+
+
+462,00
+
+
+420,00
+
+
+
+
+
+
+PSH 900D Encaje interior en silicona para prótesis pasiva de desarticulación de hombro, a medida.
+
+
+MED
+
+
+24
+
+
+1.197,58
+
+
+1.088,71
+
+
+
+
+
+
+PSH 900E Encaje interior en termoplástico blando con cajeado para electrodos para prótesis mioeléctrica de desarticulación de hombro, a medida.
+
+
+MED
+
+
+24
+
+
+462,00
+
+
+420,00
+
+
+
+
+
+
+PSH 900F Encaje interior en silicona con cajeado para electrodos para prótesis mioeléctrica de desarticulación de hombro, a medida.
+
+
+MED
+
+
+24
+
+
+1.210,00
+
+
+1.100,00
+
+
+
+
+
+
+PSH 910 Otros componentes de prótesis de desarticulación de hombro.
+
+
+PSH 910A Sistema de suspensión para desarticulación de hombro.
+
+
+COMP1
+
+
+24
+
+
+386,84
+
+
+351,67
+
+
+
+
+
+
+PSH 910B Cubierta de espuma para prótesis endoesquelética de desarticulación de hombro, a medida.
+
+
+MED
+
+
+12
+
+
+430,50
+
+
+391,36
+
+
+
+
+
+
+PSH 910C Media para prótesis endoesquelética de desarticulación de hombro.
+
+
+MED
+
+
+6
+
+
+45,00
+
+
+40,91
+
+
+
+
+
+
+PSH 910D Estructura exoesquelética para prótesis de desarticulación de hombro, a medida.
+
+
+MED
+
+
+12
+
+
+1.310,04
+
+
+1.190,95
+
+
+
+
+
+
+
+
+ Subgrupo: 06 18 21 Prótesis de amputación del cuarto superior (interescapulotorácicas) (PACS)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Categorías (Código homologado
+
+
+y descripción)
+
+
+
+
+Tipos de productos (Código y descripción)
+
+
+Elaboración
+
+
+
+
+Vida media
+
+
+–
+
+
+Meses
+
+
+
+
+IMF
+
+
+IMF si
+
+
+
+
+
+
+
+
+
+
+PST 000 Prótesis pasiva interescapulotorácica.
+
+
+PST 000A Prótesis pasiva interescapulotorácica, a medida, con doble encaje, estructura endoesquelética, cubierta de espuma, media, articulación de codo, articulación de muñeca y sistema de suspensión (Prescribir además una articulación de hombro, una mano pasiva, un guante a elección y, si lo precisa, una vaina).
+
+
+MED
+
+
+36
+
+
+5.853,04
+
+
+5.320,95
+
+
+
+
+
+
+PST 000B Prótesis pasiva interescapulotorácica, a medida, con doble encaje, estructura exoesquelética, articulación de codo, articulación de muñeca y sistema de suspensión (Prescribir además una articulación de hombro, una mano pasiva, un guante a elección y, si lo precisa, una vaina).
+
+
+MED
+
+
+36
+
+
+5.596,15
+
+
+5.087,41
+
+
+
+
+
+
+PST 010 Prótesis mioeléctrica interescapulotorácica.
+
+
+PST 010A Prótesis mioeléctrica interescapulotorácica, a medida, con doble encaje, estructura exoesquelética y sistema de suspensión (Prescribir además electrodos y/o microllave o transductor lineal, baterías, un cargador, una articulación de hombro, una articulación de codo, una articulación de muñeca, un terminal a elección, un guante y, si lo precisa, caja de conexión para alojamiento de la batería y una vaina).
+
+
+MED
+
+
+36
+
+
+6.960,54
+
+
+6.327,76
+
+
+
+
+
+
+PST 900 Encaje para prótesis interescapulotorácica.
+
+
+PST 900A Doble encaje para prótesis interescapulotorácica, a medida. Incluye adaptación y alineación.
+
+
+MED
+
+
+24
+
+
+3.069,54
+
+
+2.790,49
+
+
+
+
+
+
+PST 900B Doble encaje con cajeado para electrodos para prótesis mioeléctrica interescapulotorácica, a medida. Incluye adaptación y alineación.
+
+
+MED
+
+
+24
+
+
+4.809,53
+
+
+4.372,30
+
+
+
+
+
+
+PST 910 Otros componentes de prótesis interescapulotorácica.
+
+
+PST 910A Sistema de suspensión para prótesis interescapulotorácica, a medida.
+
+
+MED
+
+
+24
+
+
+481,71
+
+
+437,92
+
+
+
+
+
+
+PST 910B Cubierta de espuma para prótesis endoesquelética interescapulotorácica, a medida.
+
+
+MED
+
+
+12
+
+
+434,67
+
+
+395,15
+
+
+
+
+
+
+PST 910C Media para prótesis endoesquelética interescapulotorácica.
+
+
+MED
+
+
+6
+
+
+45,00
+
+
+40,91
+
+
+
+
+
+
+PST 910D Estructura exoesquelética para prótesis interescapulotorácica, a medida.
+
+
+MED
+
+
+12
+
+
+1.449,30
+
+
+1.317,55
+
+
+
+
+
+
+PST 910E Estructura endoesquelética para prótesis interescapulotorácica, a medida.
+
+
+MED
+
+
+12
+
+
+1.148,60
+
+
+1.044,18
+
+
+
+
+
+
+PST 910F Relleno cosmético de compensación de cintura escapular, a medida.
+
+
+MED
+
+
+24
+
+
+495,00
+
+
+450,00
+
+
+
+
+
+
+
+
+ Subgrupo: 06 18 24 Prótesis de mano (terminales)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Categorías (Código homologado
+
+
+y descripción)
+
+
+
+
+Tipos de productos (Código y descripción)
+
+
+Elaboración
+
+
+
+
+Vida media
+
+
+–
+
+
+Meses
+
+
+
+
+IMF
+
+
+IMF si
+
+
+
+
+
+
+
+
+
+
+PSO 000 Mano pasiva.
+
+
+PSO 000A Mano pasiva, de adulto.
+
+
+COMP1
+
+
+24
+
+
+302,82
+
+
+275,29
+
+
+
+
+
+
+PSO 000B Mano pasiva, de adulto, con pulgar en resorte.
+
+
+COMP2
+
+
+24
+
+
+445,26
+
+
+404,78
+
+
+
+
+
+
+PSO 000C Mano pasiva, infantil.
+
+
+COMP1
+
+
+24
+
+
+332,33
+
+
+302,12
+
+
+
+
+
+
+PSO 010 Mano mecánica.
+
+
+PSO 010A Mano de tracción cinemática, de adulto.
+
+
+COMP3
+
+
+24
+
+
+604,38
+
+
+549,44
+
+
+
+
+
+
+PSO 010B Mano de tracción cinemática, infantil.
+
+
+COMP3
+
+
+24
+
+
+732,90
+
+
+666,27
+
+
+
+
+
+
+PSO 020 Mano eléctrica.
+
+
+PSO 020A Mano eléctrica de función constante.
+
+
+COMP3
+
+
+24
+
+
+6.699,12
+
+
+6.090,11
+
+
+
+
+
+
+PSO 020B Mano eléctrica de función variable.
+
+
+COMP3
+
+
+24
+
+
+10.158,90
+
+
+9.235,36
+
+
+
+
+
+
+PSO 020C Mano eléctrica con sistema de control sensórico de la presión, de adulto, incluido el procesador programable.
+
+
+COMP3
+
+
+24
+
+
+12.264,35
+
+
+11.149,41
+
+
+
+
+
+
+PSO 020D Mano eléctrica, infantil.
+
+
+COMP3
+
+
+24
+
+
+8.723,48
+
+
+7.930,44
+
+
+
+
+
+
+PSO 020E Mano eléctrica multiarticulada para uso por amputados bilaterales en la extremidad dominante (Especial prescripción y de acuerdo a un protocolo).
+
+
+COMP3
+
+
+60
+
+
+30.800,00
+
+
+28.000,00
+
+
+
+
+
+
+PSO 900 Guante cosmético para prótesis de mano.
+
+
+PSO 900A Guante estándar de PVC, de adulto, para prótesis pasiva o mecánica.
+
+
+COMP2
+
+
+6
+
+
+226,92
+
+
+206,29
+
+
+
+
+
+
+PSO 900B Guante estándar de PVC, infantil, para prótesis pasiva o mecánica.
+
+
+COMP2
+
+
+6
+
+
+226,92
+
+
+206,29
+
+
+
+
+
+
+PSO 900C Guante estándar de silicona, de adulto, para prótesis pasiva o mecánica.
+
+
+COMP2
+
+
+6
+
+
+481,86
+
+
+438,05
+
+
+
+
+
+
+PSO 900D Guante estándar de silicona, infantil, para prótesis pasiva o mecánica.
+
+
+COMP2
+
+
+6
+
+
+481,86
+
+
+438,05
+
+
+
+
+
+
+PSO 900E Guante estándar de PVC con recubrimiento especial.
+
+
+COMP2
+
+
+12
+
+
+472,61
+
+
+429,65
+
+
+
+
+
+
+PSO 900F Guante estándar de PVC, de adulto, para prótesis mioeléctrica.
+
+
+COMP2
+
+
+6
+
+
+229,39
+
+
+208,54
+
+
+
+
+
+
+PSO 900G Guante estándar de PVC, infantil, para prótesis mioeléctrica.
+
+
+COMP2
+
+
+6
+
+
+341,05
+
+
+310,05
+
+
+
+
+
+
+
+
+ Subgrupo: 06 18 27 Pinzas y dispositivos funcionales (terminales)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Categorías (Código homologado
+
+
+y descripción)
+
+
+
+
+Tipos de productos (Código y descripción)
+
+
+Elaboración
+
+
+
+
+Vida media
+
+
+–
+
+
+Meses
+
+
+
+
+IMF
+
+
+IMF si
+
+
+
+
+
+
+
+
+
+
+PSZ 000 Pinza mecánica.
+
+
+PSZ 000A Pinza mecánica estándar, de adulto.
+
+
+COMP2
+
+
+24
+
+
+529,21
+
+
+481,10
+
+
+
+
+
+
+PSZ 000B Pinza mecánica estándar, infantil.
+
+
+COMP2
+
+
+24
+
+
+647,45
+
+
+588,59
+
+
+
+
+
+
+PSZ 000C Pinza mecánica con estructura reforzada.
+
+
+COMP2
+
+
+24
+
+
+1.877,11
+
+
+1.706,46
+
+
+
+
+
+
+PSZ 010 Pinza eléctrica.
+
+
+PSZ 010A Pinza eléctrica de función constante.
+
+
+COMP3
+
+
+24
+
+
+8.387,70
+
+
+7.625,18
+
+
+
+
+
+
+PSZ 010B Pinza eléctrica de función variable.
+
+
+COMP3
+
+
+24
+
+
+10.791,45
+
+
+9.810,41
+
+
+
+
+
+
+
+
+ Subgrupo: 06 18 30 Articulaciones de muñeca
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Categorías (Código homologado
+
+
+y descripción)
+
+
+
+
+Tipos de productos (Código y descripción)
+
+
+Elaboración
+
+
+
+
+Vida media
+
+
+–
+
+
+Meses
+
+
+
+
+IMF
+
+
+IMF si
+
+
+
+
+
+
+
+
+
+
+PSU 000 Articulación de muñeca para terminal pasivo.
+
+
+PSU 000A Articulación de muñeca para terminal pasivo, endoesquelética.
+
+
+COMP1
+
+
+24
+
+
+131,41
+
+
+119,46
+
+
+
+
+
+
+PSU 000B Articulación de muñeca para terminal pasivo, exoesquelética.
+
+
+COMP1
+
+
+24
+
+
+69,00
+
+
+62,73
+
+
+
+
+
+
+PSU 010 Articulación de muñeca para terminal mecánico.
+
+
+PSU 010A Articulación de muñeca para terminal mecánico redonda.
+
+
+COMP1
+
+
+24
+
+
+184,45
+
+
+167,68
+
+
+
+
+
+
+PSU 010B Articulación de muñeca con enganche en bayoneta multiposicional.
+
+
+COMP1
+
+
+24
+
+
+796,74
+
+
+724,31
+
+
+
+
+
+
+PSU 010C Articulación de muñeca con enganche en bayoneta para terminal mecánico con flexo-extensión.
+
+
+COMP1
+
+
+24
+
+
+1.308,82
+
+
+1.189,84
+
+
+
+
+
+
+PSU 020 Articulación de muñeca para terminal eléctrico.
+
+
+PSU 020A Articulación de muñeca para terminal eléctrico de acoplamiento rápido.
+
+
+COMP3
+
+
+24
+
+
+584,71
+
+
+531,55
+
+
+
+
+
+
+PSU 020B Articulación de muñeca para terminal eléctrico con función pronosupinadora.
+
+
+COMP3
+
+
+24
+
+
+1.029,60
+
+
+936,00
+
+
+
+
+
+
+PSU 020C Articulación de muñeca para terminal eléctrico, infantil con pronosupinación pasiva.
+
+
+COMP3
+
+
+24
+
+
+1.605,08
+
+
+1.459,16
+
+
+
+
+
+
+PSU 020D Articulación de muñeca para mano eléctrica multiarticulada (Especial prescripción y de acuerdo a un protocolo).
+
+
+COMP3
+
+
+24
+
+
+4.290,00
+
+
+3.900,00
+
+
+
+
+
+
+
+
+ Subgrupo: 06 18 33 Articulaciones de codo
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Categorías (Código homologado
+
+
+y descripción)
+
+
+
+
+Tipos de productos (Código y descripción)
+
+
+Elaboración
+
+
+
+
+Vida media
+
+
+–
+
+
+Meses
+
+
+
+
+IMF
+
+
+IMF si
+
+
+
+
+
+
+
+
+
+
+PSD 000 Articulación de codo pasiva.
+
+
+PSD 000A Articulación de codo con bloqueo pasivo para estructura endoesquelética.
+
+
+COMP1
+
+
+24
+
+
+492,10
+
+
+447,36
+
+
+
+
+
+
+PSD 010 Articulación de codo mecánica.
+
+
+PSD 010A Articulación de codo mecánica con bloqueo de flexo- extensión.
+
+
+COMP2
+
+
+24
+
+
+1.893,26
+
+
+1.721,15
+
+
+
+
+
+
+PSD 010B Articulación de codo mecánica con bloqueo de flexo- extensión y flexión asistida.
+
+
+COMP2
+
+
+24
+
+
+4.388,25
+
+
+3.989,32
+
+
+
+
+
+
+PSD 010C Articulación de codo mecánica con bloqueo de flexo- extensión, flexión asistida y cableado interno para prótesis mioeléctricas.
+
+
+COMP2
+
+
+24
+
+
+5.092,13
+
+
+4.629,21
+
+
+
+
+
+
+PSD 010D Articulación de codo mecánica con bloqueo de flexo- extensión electrónico, flexión asistida y cableado interno para prótesis mioeléctricas.
+
+
+COMP2
+
+
+24
+
+
+8.374,24
+
+
+7.612,95
+
+
+
+
+
+
+PSD 010E Articulación de codo mecánica con barras externas con bloqueo de flexo-extensión para desarticulación de codo o muñón humeral largo.
+
+
+COMP2
+
+
+24
+
+
+1.864,83
+
+
+1.695,30
+
+
+
+
+
+
+PSD 010F Articulación de codo mecánica con barras externas con bloqueo de flexo-extensión y flexión asistida para desarticulación de codo o muñón humeral largo.
+
+
+COMP2
+
+
+24
+
+
+2.649,99
+
+
+2.409,08
+
+
+
+
+
+
+PSD 010G Articulación de codo mecánica multiplicadora.
+
+
+COMP2
+
+
+24
+
+
+476,59
+
+
+433,26
+
+
+
+
+
+
+PSD 010H Articulación de codo mecánica con bloqueo dentado.
+
+
+COMP2
+
+
+24
+
+
+766,00
+
+
+696,36
+
+
+
+
+
+
+PSD 010I Articulación de codo de fricción.
+
+
+COMP2
+
+
+24
+
+
+995,79
+
+
+905,26
+
+
+
+
+
+
+PSD 020 Articulación de codo eléctrica.
+
+
+PSD 020A Articulación de codo eléctrica con bloqueo para múltiples posiciones y flexión asistida.
+
+
+COMP3
+
+
+24
+
+
+10.194,92
+
+
+9.268,11
+
+
+
+
+
+
+PSD 020B Articulación de codo con control de flexo-extensión programable y proporcional, para uso por amputados bilaterales en la extremidad dominante (Especial prescripción y de acuerdo a un protocolo).
+
+
+COMP3
+
+
+60
+
+
+43.352,78
+
+
+39.411,62
+
+
+
+
+
+
+
+
+ Subgrupo: 06 18 36 Articulaciones de hombro
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Categorías (Código homologado
+
+
+y descripción)
+
+
+
+
+Tipos de productos (Código y descripción)
+
+
+Elaboración
+
+
+
+
+Vida media
+
+
+–
+
+
+Meses
+
+
+
+
+IMF
+
+
+IMF si
+
+
+
+
+
+
+
+
+
+
+PSR 000 Articulación de hombro para prótesis endoesquelética.
+
+
+PSR 000A Articulación de hombro pasiva multiposicional.
+
+
+COMP2
+
+
+24
+
+
+427,95
+
+
+389,05
+
+
+
+
+
+
+PSR 000B Articulación de hombro pasiva de flexo-extensión y abducción/aducción.
+
+
+COMP2
+
+
+24
+
+
+403,32
+
+
+366,65
+
+
+
+
+
+
+PSR 000C Articulación de hombro pasiva de flexo-extensión y bloqueo.
+
+
+COMP2
+
+
+24
+
+
+2.500,28
+
+
+2.272,98
+
+
+
+
+
+
+
+
+Subgrupo: 06 18 90 Componentes generales de prótesis de miembro superior 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Categorías (Código homologado
+
+
+y descripción)
+
+
+
+
+Tipos de productos (Código y descripción)
+
+
+Elaboración
+
+
+
+
+Vida media
+
+
+–
+
+
+Meses
+
+
+
+
+IMF
+
+
+IMF si
+
+
+
+
+
+
+
+
+
+
+PSG 900 Vaina (liner), sistema de suspensión y sistema de accionamiento de prótesis de miembro superior.
+
+
+PSG 900A Vaina interna (liner) de silicona para prótesis de miembro superior.
+
+
+COMP1
+
+
+6
+
+
+902,79
+
+
+820,72
+
+
+
+
+
+
+PSG 900B Vaina interna (liner) de silicona para prótesis de miembro superior, a medida, para usuarios con características especiales que no permiten adaptar las prefabricadas.
+
+
+MED
+
+
+6
+
+
+1.431,65
+
+
+1.301,50
+
+
+
+
+
+
+PSG 900C Sistema de suspensión mediante arnés para prótesis de miembro superior, a medida.
+
+
+MED
+
+
+6
+
+
+312,27
+
+
+283,88
+
+
+
+
+
+
+PSG 900D Vaina interna (liner) de silicona con sistema de suspensión distal (para pin) para prótesis de miembro superior.
+
+
+COMP1
+
+
+6
+
+
+764,75
+
+
+695,23
+
+
+
+
+
+
+PSG 900E Vaina interna (liner) de silicona para válvula de succión para prótesis de miembro superior.
+
+
+COMP1
+
+
+6
+
+
+750,00
+
+
+681,82
+
+
+
+
+
+
+PSG 900F Válvula de succión para prótesis de miembro superior.
+
+
+COMP1
+
+
+24
+
+
+221,60
+
+
+201,45
+
+
+
+
+
+
+PSG 900G Sistema de anclaje para vaina para prótesis de miembro superior (pin).
+
+
+COMP3
+
+
+24
+
+
+419,78
+
+
+381,62
+
+
+
+
+
+
+PSG 900H Sistema de anclaje para vaina para prótesis de miembro superior con conexión distal (tipo cordón o tipo adhesivo).
+
+
+COMP3
+
+
+24
+
+
+308,92
+
+
+280,84
+
+
+
+
+
+
+PSG 900I Sistema de accionamiento cinemático para prótesis de miembro superior, a medida.
+
+
+MED
+
+
+6
+
+
+414,88
+
+
+377,16
+
+
+
+
+
+
+PSG 910 Batería, cargador y electrodo de prótesis de miembro superior.
+
+
+PSG 910A Batería de litio para prótesis de miembro superior (par).
+
+
+COMP0
+
+
+9
+
+
+1.411,81
+
+
+1.283,46
+
+
+
+
+
+
+PSG 910B Batería integral de litio con conector externo para la carga (unidad).
+
+
+COMP2
+
+
+9
+
+
+1.331,40
+
+
+1.210,36
+
+
+
+
+
+
+PSG 910C Batería integral de litio con conector externo para la carga, para prótesis mioeléctrica con mano multiarticulada (unidad).
+
+
+COMP2
+
+
+9
+
+
+1.653,87
+
+
+1.503,52
+
+
+
+
+
+
+PSG 910D Cargador de baterías de litio para prótesis de miembro superior.
+
+
+COMP0
+
+
+36
+
+
+799,32
+
+
+726,65
+
+
+
+
+
+
+PSG 910E Cargador para batería integral de litio para prótesis de miembro superior.
+
+
+COMP0
+
+
+36
+
+
+937,59
+
+
+852,35
+
+
+
+
+
+
+PSG 910F Cargador para batería integral de litio para prótesis mioeléctrica con mano multiarticulada.
+
+
+COMP0
+
+
+36
+
+
+984,05
+
+
+894,60
+
+
+
+
+
+
+PSG 910G Electrodo de doble canal (unidad) para prótesis de miembro superior.
+
+
+COMP2
+
+
+24
+
+
+1.122,73
+
+
+1.020,66
+
+
+
+
+
+
+PSG 910H Electrodo digital (unidad) para prótesis de miembro superior.
+
+
+COMP2
+
+
+24
+
+
+1.713,00
+
+
+1.557,27
+
+
+
+
+
+
+PSG 910I Cable para electrodo de doble canal para prótesis de miembro superior.
+
+
+COMP2
+
+
+24
+
+
+144,06
+
+
+130,96
+
+
+
+
+
+
+PSG 910J Cable para electrodo digital para prótesis de miembro superior.
+
+
+COMP2
+
+
+24
+
+
+147,20
+
+
+133,82
+
+
+
+
+
+
+PSG 910K Cable de batería para prótesis de miembro superior.
+
+
+COMP2
+
+
+24
+
+
+97,56
+
+
+88,69
+
+
+
+
+
+
+PSG 910L Caja de conexión para alojamiento de batería para prótesis de miembro superior.
+
+
+COMP3
+
+
+36
+
+
+212,81
+
+
+193,46
+
+
+
+
+
+
+PSG 920 Otros componentes generales de prótesis de miembro superior.
+
+
+PSG 920A Transductor lineal para prótesis de miembro superior.
+
+
+COMP2
+
+
+24
+
+
+1.304,27
+
+
+1.185,70
+
+
+
+
+
+
+PSG 920B Unidad de giro eléctrica para prótesis de miembro superior.
+
+
+COMP3
+
+
+24
+
+
+3.192,08
+
+
+2.901,89
+
+
+
+
+
+
+PSG 920C Procesador de 4 canales para prótesis de miembro superior.
+
+
+COMP3
+
+
+24
+
+
+2.316,56
+
+
+2.105,96
+
+
+
+
+
+
+PSG 920D Conector coaxial y corona para prótesis mioeléctrica.
+
+
+COMP3
+
+
+24
+
+
+278,85
+
+
+253,50
+
+
+
+
+
+
+PSG 920E Unidad de control infantil para prótesis de miembro superior.
+
+
+COMP3
+
+
+24
+
+
+2.003,81
+
+
+1.821,65
+
+
+
+
+
+
+PSG 920F Microllave de balancín o tracción para prótesis de miembro superior.
+
+
+COMP2
+
+
+24
+
+
+605,57
+
+
+550,52
+
+
+
+
+
+
+PSG 920G Cable para microllave para prótesis de miembro superior.
+
+
+COMP2
+
+
+24
+
+
+127,50
+
+
+115,91
+
+
+
+
+
+
+PSG 920H Microllave de presión para prótesis de miembro superior.
+
+
+COMP2
+
+
+24
+
+
+692,22
+
+
+629,29
+
+
+
+
+
+
+PSG 920I Sistema BOA para encaje de prótesis de miembro superior.
+
+
+COMP2
+
+
+12
+
+
+472,44
+
+
+429,41
+
+
+
+
+
+
+
+
+ Grupo: 06 24 Prótesis de miembro inferior
+
+
+Subgrupo: 06 24 03 Prótesis parciales de pie, incluyendo prótesis de dedos
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Categorías (Código homologado
+
+
+y descripción)
+
+
+
+
+Tipos de productos (Código y descripción)
+
+
+Elaboración
+
+
+
+
+Vida media
+
+
+–
+
+
+Meses
+
+
+
+
+IMF
+
+
+IMF si
+
+
+
+
+
+
+
+
+
+
+PIP 000 Prótesis para amputación parcial o total de dedos del pie.
+
+
+PIP 000A Prótesis para amputación total del primer dedo del pie.
+
+
+MED
+
+
+12
+
+
+186,66
+
+
+169,69
+
+
+
+
+
+
+PIP 000B Relleno protésico para amputación parcial o total de los dedos centrales.
+
+
+MED
+
+
+12
+
+
+195,60
+
+
+177,82
+
+
+
+
+
+
+PIP 010 Prótesis para amputación transmetatarsiana o de desarticulación de Lisfranc.
+
+
+PIP 010A Prótesis para amputación transmetatarsiana o desarticulación de Lisfranc. Plantilla con reconstrucción del arco transverso y fijación adecuada.
+
+
+MED
+
+
+12
+
+
+297,00
+
+
+270,00
+
+
+
+
+
+
+PIP 010B Prótesis para amputación transmetatarsiana o de Lisfranc. Botín con plantilla de reconstrucción del arco y relleno de antepié.
+
+
+MED
+
+
+18
+
+
+505,40
+
+
+459,45
+
+
+
+
+
+
+PIP 010C Prótesis para amputación transmetatarsiana o de Lisfranc en silicona con relleno protésico anterior.
+
+
+MED
+
+
+18
+
+
+1.485,00
+
+
+1.350,00
+
+
+
+
+
+
+PIP 020 Prótesis para la amputación de Chopart.
+
+
+PIP 020A Prótesis para la amputación de Chopart. Botín y relleno anterior de material elástico.
+
+
+MED
+
+
+24
+
+
+679,99
+
+
+618,17
+
+
+
+
+
+
+PIP 020B Prótesis para la amputación de Chopart. Botín con relleno anatómico y cubierta cosmética.
+
+
+MED
+
+
+24
+
+
+1.130,03
+
+
+1.027,30
+
+
+
+
+
+
+PIP 020C Prótesis para amputación de Chopart en silicona con relleno protésico anterior.
+
+
+MED
+
+
+24
+
+
+1.657,42
+
+
+1.506,75
+
+
+
+
+
+
+PIP 020D Prótesis para amputación de Chopart. Encaje laminado en resina acrílica y puntera elástica.
+
+
+MED
+
+
+24
+
+
+1.386,66
+
+
+1.260,60
+
+
+
+
+
+
+PIP 020E Prótesis para amputación de Chopart. Encaje laminado en resina acrílica con relleno anatómico y cubierta cosmética.
+
+
+MED
+
+
+24
+
+
+1.647,37
+
+
+1.497,61
+
+
+
+
+
+
+PIP 030 Prótesis para la amputación de Pirogoff.
+
+
+PIP 030A Prótesis para la amputación de Pirogoff con encaje laminado con relleno protésico anterior en material elástico y base acumuladora de energía.
+
+
+MED
+
+
+24
+
+
+1.626,70
+
+
+1.478,82
+
+
+
+
+
+
+PIP 030B Prótesis para la amputación de Pirogoff con encaje laminado con relleno anatómico y cubierta cosmética.
+
+
+MED
+
+
+24
+
+
+1.830,26
+
+
+1.663,87
+
+
+
+
+
+
+PIP 030C Prótesis para la amputación de Pirogoff de silicona, con relleno anterior y base acumuladora de energía.
+
+
+MED
+
+
+24
+
+
+3.025,00
+
+
+2.750,00
+
+
+
+
+
+
+
+
+ Subgrupo: 06 24 06 Prótesis de desarticulación del tobillo
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Categorías (Código homologado
+
+
+y descripción)
+
+
+
+
+Tipos de productos (Código y descripción)
+
+
+Elaboración
+
+
+
+
+Vida media
+
+
+–
+
+
+Meses
+
+
+
+
+IMF
+
+
+IMF si
+
+
+
+
+
+
+
+
+
+
+PIB 000 Prótesis de desarticulación del tobillo tipo Syme.
+
+
+PIB 000A Prótesis (encaje) de desarticulación de tobillo tipo Syme, con encaje laminado (Prescribir además un pie tipo Syme a elección y, si lo precisa, una vaina de silicona, un sistema de suspensión y una calceta).
+
+
+MED
+
+
+24
+
+
+1.219,41
+
+
+1.108,55
+
+
+
+
+
+
+PIB 000B Prótesis (encaje) de desarticulación de tobillo tipo Syme, con encaje laminado bivalvo (Prescribir además un pie tipo Syme a elección y, si lo precisa, una vaina de silicona y una calceta).
+
+
+MED
+
+
+24
+
+
+1.245,71
+
+
+1.132,46
+
+
+
+
+
+
+PIB 000C Prótesis (encaje) de desarticulación de tobillo tipo Syme, con encaje externo rígido y encaje interior flexible en termoplástico blando (Prescribir además un pie tipo Syme a elección y, si lo precisa, un sistema de suspensión y una calceta).
+
+
+MED
+
+
+24
+
+
+1.346,51
+
+
+1.224,10
+
+
+
+
+
+
+PIB 000D Prótesis (encaje) de desarticulación de tobillo tipo Syme, con encaje externo rígido y encaje interior flexible en silicona (Prescribir además un pie tipo Syme a elección y, si lo precisa, una calceta).
+
+
+MED
+
+
+24
+
+
+1.678,98
+
+
+1.526,35
+
+
+
+
+
+
+PIB 900 Vaina (liner) para prótesis de desarticulación de tobillo tipo Syme.
+
+
+PIB 900A Vaina (liner) de silicona para prótesis de desarticulación de tobillo tipo Syme, a medida.
+
+
+MED
+
+
+12
+
+
+1.534,50
+
+
+1.395,00
+
+
+
+
+
+
+PIB 900B Vaina (liner) de silicona para prótesis de desarticulación de tobillo tipo Syme.
+
+
+COMP1
+
+
+12
+
+
+561,00
+
+
+510,00
+
+
+
+
+
+
+
+
+Subgrupo: 06 24 09 Prótesis transtibiales (por debajo de la rodilla) 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Categorías (Código homologado
+
+
+y descripción)
+
+
+
+
+Tipos de productos (Código y descripción)
+
+
+Elaboración
+
+
+
+
+Vida media
+
+
+–
+
+
+Meses
+
+
+
+
+IMF
+
+
+IMF si
+
+
+
+
+
+
+
+
+
+
+PIT 000 Prótesis transtibial con encaje PTB.
+
+
+PIT 000A Prótesis transtibial con encaje PTB (Prescribir además una estructura endoesquelética, un sistema de suspensión, un pie a elección y, si lo precisa, una rodillera de suspensión, una funda, una media o cubierta cosmética y una calceta).
+
+
+MED
+
+
+24
+
+
+1.411,26
+
+
+1.282,96
+
+
+
+
+
+
+PIT 000B Prótesis transtibial con encaje PTB y estructura exoesquelética (Prescribir además un sistema de suspensión, un pie a elección y, si lo precisa, una rodillera de suspensión y una calceta).
+
+
+MED
+
+
+24
+
+
+2.324,85
+
+
+2.113,50
+
+
+
+
+
+
+PIT 010 Prótesis transtibial con encaje TSB.
+
+
+PIT 010A Prótesis transtibial con encaje TSB (Prescribir además una estructura endoesquelética, un sistema de suspensión, un pie a elección y, si lo precisa, una vaina, una funda, una media o cubierta cosmética y una calceta).
+
+
+MED
+
+
+24
+
+
+1.485,12
+
+
+1.350,11
+
+
+
+
+
+
+PIT 010B Prótesis transtibial con encaje TSB y estructura exoesquelética (Prescribir además un sistema de suspensión, un pie a elección y, si lo precisa, una vaina y una calceta).
+
+
+MED
+
+
+24
+
+
+2.392,74
+
+
+2.175,22
+
+
+
+
+
+
+PIT 020 Prótesis transtibial con encaje KBM.
+
+
+PIT 020A Prótesis transtibial con encaje KBM (Prescribir además una estructura endoesquelética, un pie a elección y, si lo precisa, una vaina, una rodillera de suspensión, una funda y una media o cubierta cosmética y una calceta).
+
+
+MED
+
+
+24
+
+
+1.522,35
+
+
+1.383,95
+
+
+
+
+
+
+PIT 020B Prótesis transtibial con encaje KBM y estructura exoesquelética (Prescribir además un pie a elección y, si lo precisa, una vaina, una rodillera de suspensión y una calceta).
+
+
+MED
+
+
+24
+
+
+2.343,81
+
+
+2.130,74
+
+
+
+
+
+
+
+
+PIT 900 Estructura para prótesis
+
+
+transtibial.
+
+
+
+
+PIT 900A Estructura endoesquelética para prótesis transtibial, para usuarios hasta 45 kg de peso.
+
+
+COMP2
+
+
+24
+
+
+831,64
+
+
+756,04
+
+
+
+
+
+
+PIT 900B Estructura endoesquelética para prótesis transtibial, para usuarios entre 45 y 66 kg de peso.
+
+
+COMP2
+
+
+24
+
+
+855,01
+
+
+777,28
+
+
+
+
+
+
+PIT 900C Estructura endoesquelética para prótesis transtibial, para usuarios entre 66 y 100 kg de peso.
+
+
+COMP2
+
+
+24
+
+
+865,82
+
+
+787,11
+
+
+
+
+
+
+PIT 900D Estructura endoesquelética para prótesis transtibial, para usuarios entre 100 y 125 kg de peso.
+
+
+COMP2
+
+
+24
+
+
+931,51
+
+
+846,83
+
+
+
+
+
+
+PIT 900E Estructura endoesquelética para prótesis transtibial, para usuarios entre 125 y 166 kg de peso.
+
+
+COMP2
+
+
+24
+
+
+1.064,93
+
+
+968,12
+
+
+
+
+
+
+PIT 900F Estructura exoesquelética para prótesis transtibial.
+
+
+MED
+
+
+24
+
+
+1.276,00
+
+
+1.160,00
+
+
+
+
+
+
+PIT 910 Encaje tibial.
+
+
+PIT 910A Encaje PTB. Incluye adaptación y alineación.
+
+
+MED
+
+
+12
+
+
+1.558,33
+
+
+1.416,66
+
+
+
+
+
+
+PIT 910B Encaje TSB. Incluye adaptación y alineación.
+
+
+MED
+
+
+12
+
+
+1.667,42
+
+
+1.515,84
+
+
+
+
+
+
+PIT 910C Encaje KBM. Incluye adaptación y alineación.
+
+
+MED
+
+
+12
+
+
+1.731,58
+
+
+1.574,16
+
+
+
+
+
+
+PIT 910D Encaje interno en termoplástico blando o semigoma para prótesis transtibial.
+
+
+MED
+
+
+12
+
+
+451,92
+
+
+410,84
+
+
+
+
+
+
+PIT 920 Vaina (liner) para prótesis transtibial.
+
+
+PIT 920A Vaina interna (liner) de silicona para prótesis transtibial.
+
+
+COMP2
+
+
+6
+
+
+512,97
+
+
+466,34
+
+
+
+
+
+
+PIT 920B Vaina interna (liner) de uretano para prótesis transtibial.
+
+
+COMP2
+
+
+6
+
+
+486,69
+
+
+442,45
+
+
+
+
+
+
+PIT 920C Vaina interna (liner) en gel para prótesis transtibial.
+
+
+COMP2
+
+
+6
+
+
+439,45
+
+
+399,50
+
+
+
+
+
+
+PIT 920D Vaina interna (liner) de silicona para prótesis transtibial, a medida, para usuarios con características especiales que no permiten adaptar las prefabricadas.
+
+
+MED
+
+
+6
+
+
+1.595,00
+
+
+1.450,00
+
+
+
+
+
+
+PIT 920E Vaina (liner) pediátrica para prótesis transtibial.
+
+
+COMP2
+
+
+6
+
+
+717,82
+
+
+652,56
+
+
+
+
+
+
+PIT 930 Sistemas de suspensión mecánicos para prótesis transtibial.
+
+
+PIT 930A Correa de suspensión para PTB.
+
+
+COMP1
+
+
+12
+
+
+132,00
+
+
+120,00
+
+
+
+
+
+
+PIT 930B Correa de suspensión para PTB, a medida.
+
+
+MED
+
+
+12
+
+
+189,20
+
+
+172,00
+
+
+
+
+
+
+PIT 930C Corselete femoral con barras articuladas.
+
+
+MED
+
+
+12
+
+
+707,03
+
+
+642,75
+
+
+
+
+
+
+PIT 930D Rodillera de suspensión elástica tipo neopreno o tejido.
+
+
+COMP1
+
+
+12
+
+
+64,17
+
+
+58,34
+
+
+
+
+
+
+PIT 930E Rodillera de suspensión para vacío.
+
+
+COMP1
+
+
+6
+
+
+162,80
+
+
+148,00
+
+
+
+
+
+
+PIT 940 Sistemas de suspensión de vacío pasivo para prótesis transtibial.
+
+
+PIT 940A Suspensión por válvula de una vía manual para prótesis transtibial.
+
+
+COMP2
+
+
+18
+
+
+97,90
+
+
+89,00
+
+
+
+
+
+
+PIT 940B Suspensión por válvula de una vía automática para prótesis transtibial.
+
+
+COMP2
+
+
+18
+
+
+127,32
+
+
+115,75
+
+
+
+
+
+
+PIT 940C Sistema de suspensión hipobárica mediante vaina interna (liner) de silicona con un aro de sellado, para prótesis transtibial.
+
+
+COMP2
+
+
+6
+
+
+770,00
+
+
+700,00
+
+
+
+
+
+
+PIT 940D Sistema de suspensión hipobárica mediante vaina interna (liner) de silicona con más de un aro de sellado, para prótesis transtibial.
+
+
+COMP2
+
+
+6
+
+
+855,48
+
+
+777,71
+
+
+
+
+
+
+PIT 950 Sistemas de suspensión de vacío activo para prótesis transtibial.
+
+
+PIT 950A Sistema de suspensión de vacío activo de alta presión mecánico, para prótesis transtibial.
+
+
+COMP2
+
+
+24
+
+
+1.870,00
+
+
+1.700,00
+
+
+
+
+
+
+PIT 960 Otros componentes y accesorios de prótesis transtibiales.
+
+
+PIT 960A Funda cosmética externa para prótesis endoesquelética transtibial.
+
+
+MED
+
+
+12
+
+
+272,85
+
+
+248,05
+
+
+
+
+
+
+PIT 960B Media para prótesis endoesquelética transtibial.
+
+
+COMP1
+
+
+12
+
+
+32,82
+
+
+29,84
+
+
+
+
+
+
+PIT 960C Cubierta cosmética de revestimiento en PVC para prótesis endoesquelética transtibial.
+
+
+COMP2
+
+
+12
+
+
+540,54
+
+
+491,40
+
+
+
+
+
+
+PIT 960D Cubierta cosmética de revestimiento en silicona para prótesis endoesquelética transtibial.
+
+
+COMP2
+
+
+12
+
+
+770,00
+
+
+700,00
+
+
+
+
+
+
+PIT 960E Copas distales para muñones cónicos.
+
+
+COMP 1
+
+
+12
+
+
+242,00
+
+
+220,00
+
+
+
+
+
+
+
+
+Subgrupo: 06 24 12 Prótesis de desarticulación de rodilla 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Categorías (Código homologado
+
+
+y descripción)
+
+
+
+
+Tipos de productos (Código y descripción)
+
+
+Elaboración
+
+
+
+
+Vida media
+
+
+–
+
+
+Meses
+
+
+
+
+IMF
+
+
+IMF si
+
+
+
+
+
+
+
+
+
+
+PIR 000 Prótesis de desarticulación de rodilla con apoyo distal.
+
+
+PIR 000A Prótesis de desarticulación de rodilla con encaje externo con apoyo distal (Prescribir además estructura endoesquelética, un encaje interno y/o vaina, una articulación de rodilla, un pie a elección y, si lo precisa, un sistema de suspensión, una funda, una media o cubierta cosmética y una calceta).
+
+
+MED
+
+
+24
+
+
+1.948,54
+
+
+1.771,40
+
+
+
+
+
+
+PIR 000B Prótesis de desarticulación de rodilla con encaje externo con apoyo distal y estructura exoesquelética (Prescribir además un encaje interno y/o vaina, una articulación de rodilla, un pie a elección y, si lo precisa, un sistema de suspensión y una calceta).
+
+
+MED
+
+
+24
+
+
+2.887,04
+
+
+2.624,58
+
+
+
+
+
+
+PIR 010 Prótesis de desarticulación de rodilla con apoyo isquiático.
+
+
+PIR 010A Prótesis de desarticulación de rodilla con encaje externo con apoyo isquiático (Prescribir además estructura endoesquelética, un encaje interno y/o vaina, una articulación de rodilla, un pie a elección y, si lo precisa, un sistema de suspensión, una funda, una media o cubierta cosmética y una calceta).
+
+
+MED
+
+
+24
+
+
+2.034,60
+
+
+1.849,64
+
+
+
+
+
+
+PIR 010B Prótesis de desarticulación de rodilla con encaje externo con apoyo isquiático y estructura exoesquelética (Prescribir además un encaje interno y/o vaina, una articulación de rodilla, un pie a elección y, si lo precisa, un sistema de suspensión y una calceta).
+
+
+MED
+
+
+24
+
+
+3.017,04
+
+
+2.742,76
+
+
+
+
+
+
+PIR 900 Estructura para prótesis de desarticulación de rodilla.
+
+
+PIR 900A Estructura endoesquelética para prótesis de desarticulación de rodilla, para usuarios hasta 45 kg de peso.
+
+
+COMP2
+
+
+24
+
+
+967,86
+
+
+879,87
+
+
+
+
+
+
+PIR 900B Estructura endoesquelética para prótesis de desarticulación de rodilla, para usuarios entre 45 y 66 kg de peso.
+
+
+COMP2
+
+
+24
+
+
+1.018,29
+
+
+925,72
+
+
+
+
+
+
+PIR 900C Estructura endoesquelética para prótesis de desarticulación de rodilla, para usuarios entre 66 y 100 kg de peso.
+
+
+COMP2
+
+
+24
+
+
+1.054,04
+
+
+958,22
+
+
+
+
+
+
+PIR 900D Estructura endoesquelética para prótesis de desarticulación de rodilla, para usuarios entre 100 y 125 kg de peso.
+
+
+COMP2
+
+
+24
+
+
+1.098,37
+
+
+998,52
+
+
+
+
+
+
+PIR 900E Estructura endoesquelética para prótesis de desarticulación de rodilla, para usuarios entre 125 y 166 kg de peso.
+
+
+COMP2
+
+
+24
+
+
+1.116,70
+
+
+1.015,18
+
+
+
+
+
+
+PIR 900F Estructura exoesquelética para prótesis de desarticulación de rodilla.
+
+
+MED
+
+
+24
+
+
+1.390,40
+
+
+1.264,00
+
+
+
+
+
+
+PIR 910 Encaje para prótesis de desarticulación de rodilla.
+
+
+PIR 910A Encaje externo para prótesis de desarticulación de rodilla con apoyo distal. Incluye adaptación y alineación.
+
+
+MED
+
+
+12
+
+
+2.168,28
+
+
+1.971,16
+
+
+
+
+
+
+PIR 910B Encaje externo para prótesis de desarticulación de rodilla con apoyo isquiático. Incluye adaptación y alineación.
+
+
+MED
+
+
+12
+
+
+2.316,78
+
+
+2.106,16
+
+
+
+
+
+
+PIR 910C Encaje interno en termoplástico blando o semigoma para prótesis de desarticulación de rodilla.
+
+
+MED
+
+
+12
+
+
+815,83
+
+
+741,66
+
+
+
+
+
+
+PIR 910D Encaje interno en silicona para prótesis de desarticulación de rodilla.
+
+
+MED
+
+
+12
+
+
+1.862,67
+
+
+1.693,34
+
+
+
+
+
+
+PIR 920 Vaina (liner) para prótesis de desarticulación de rodilla.
+
+
+PIR 920A Vaina interna (liner) de silicona para prótesis de desarticulación de rodilla.
+
+
+COMP2
+
+
+6
+
+
+692,11
+
+
+629,19
+
+
+
+
+
+
+PIR 920B Vaina interna (liner) de uretano para prótesis de desarticulación de rodilla.
+
+
+COMP2
+
+
+6
+
+
+486,69
+
+
+442,45
+
+
+
+
+
+
+PIR 920C Vaina interna (liner) de gel para prótesis de desarticulación de rodilla.
+
+
+COMP2
+
+
+6
+
+
+506,66
+
+
+460,60
+
+
+
+
+
+
+PIR 920D Vaina interna (liner) de silicona para prótesis de desarticulación de rodilla, a medida, para usuarios con características especiales que no permiten adaptar las prefabricadas.
+
+
+MED
+
+
+6
+
+
+1.650,00
+
+
+1.500,00
+
+
+
+
+
+
+PIR 920E Vaina interna (liner) pediátrica para prótesis de desarticulación de rodilla.
+
+
+COMP2
+
+
+6
+
+
+717,82
+
+
+652,56
+
+
+
+
+
+
+ 
+
+
+PIR 930A Funda cosmética externa para prótesis endoesquelética de desarticulación de rodilla.
+
+
+MED
+
+
+12
+
+
+385,00
+
+
+350,00
+
+
+
+
+
+
+ 
+
+
+PIR 930B Media para prótesis endoesquelética de desarticulación de rodilla.
+
+
+COMP1
+
+
+12
+
+
+35,31
+
+
+32,10
+
+
+
+
+
+
+ 
+
+
+PIR 930C Cubierta cosmética de revestimiento en PVC para prótesis endoesquelética de desarticulación de rodilla.
+
+
+COMP2
+
+
+12
+
+
+621,50
+
+
+565,00
+
+
+
+
+
+
+ 
+
+
+PIR 930D Cubierta cosmética de revestimiento en silicona para prótesis endoesquelética de desarticulación de rodilla.
+
+
+COMP2
+
+
+12
+
+
+1.045,00
+
+
+950,00
+
+
+
+
+
+
+
+
+ Subgrupo: 06 24 15 Prótesis transfemorales (por encima de la rodilla)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Categorías (Código homologado
+
+
+y descripción)
+
+
+
+
+Tipos de productos (Código y descripción)
+
+
+Elaboración
+
+
+
+
+Vida media
+
+
+–
+
+
+Meses
+
+
+
+
+IMF
+
+
+IMF si
+
+
+
+
+
+
+
+
+
+
+PIF 000 Prótesis transfemoral con encaje cuadrangular.
+
+
+PIF 000A Prótesis transfemoral con encaje cuadrangular (Prescribir además una estructura endoesquelética, un sistema de suspensión, una articulación de rodilla, un pie a elección y, si lo precisa, un encaje interno y/o vaina, una funda, una media o cubierta cosmética y una calceta).
+
+
+MED
+
+
+24
+
+
+2.134,89
+
+
+1.940,81
+
+
+
+
+
+
+PIF 000B Prótesis transfemoral con encaje cuadrangular y estructura exoesquelética (Prescribir además un sistema de suspensión, una articulación de rodilla, un pie a elección y, si lo precisa, un encaje interno y/o vaina y una calceta).
+
+
+MED
+
+
+24
+
+
+3.189,62
+
+
+2.899,65
+
+
+
+
+
+
+PIF 010 Prótesis transfemoral con encaje cuadrangular ISNY.
+
+
+PIF 010A Prótesis transfemoral con encaje cuadrangular ISNY (Prescribir además una estructura endoesquelética, un sistema de suspensión, una articulación de rodilla, un pie a elección y, si lo precisa, una vaina, una funda, una media o cubierta cosmética y una calceta).
+
+
+MED
+
+
+24
+
+
+2.391,72
+
+
+2.174,29
+
+
+
+
+
+
+PIF 010B Prótesis transfemoral con encaje cuadrangular ISNY y estructura exoesquelética (Prescribir además un sistema de suspensión, una articulación de rodilla, un pie a elección y, si lo precisa, una vaina y una calceta).
+
+
+MED
+
+
+24
+
+
+3.649,21
+
+
+3.317,46
+
+
+
+
+
+
+PIF 020 Prótesis transfemoral con encaje CAT-CAM.
+
+
+PIF 020A Prótesis transfemoral con encaje CAT-CAM (Prescribir además una estructura endoesquelética, un sistema de suspensión, una articulación de rodilla, un pie a elección y, si lo precisa, un encaje interno y/o vaina, una funda, una media o cubierta cosmética y una calceta).
+
+
+MED
+
+
+24
+
+
+2.460,57
+
+
+2.236,88
+
+
+
+
+
+
+PIF 020B Prótesis transfemoral con encaje CAT-CAM y estructura exoesquelética (Prescribir además un sistema de suspensión, una articulación de rodilla, un pie a elección y, si lo precisa, un encaje interno y/o vaina y una calceta).
+
+
+MED
+
+
+24
+
+
+3.677,53
+
+
+3.343,21
+
+
+
+
+
+
+PIF 030 Prótesis transfemoral con encaje CAT-CAM ISNY.
+
+
+PIF 030A Prótesis transfemoral con encaje CAT-CAM ISNY (Prescribir además una estructura endoesquelética, un sistema de suspensión, una articulación de rodilla, un pie a elección y, si lo precisa, una vaina, una funda, una media o cubierta cosmética y una calceta).
+
+
+MED
+
+
+24
+
+
+3.198,67
+
+
+2.907,88
+
+
+
+
+
+
+PIF 030B Prótesis transfemoral con encaje CAT-CAM ISNY y estructura exoesquelética (Prescribir además un sistema de suspensión, una articulación de rodilla, un pie a elección y, si lo precisa, una vaina y una calceta).
+
+
+MED
+
+
+24
+
+
+4.261,43
+
+
+3.874,03
+
+
+
+
+
+
+PIF 040 Prótesis transfemoral con encaje de contacto total.
+
+
+PIF 040A Prótesis transfemoral con encaje externo de contacto total (Prescribir además una estructura endoesquelética, un sistema de suspensión, una articulación de rodilla, un pie a elección y, si lo precisa, un encaje interno y/o vaina, una funda, una media o cubierta cosmética y una calceta).
+
+
+MED
+
+
+24
+
+
+2.296,77
+
+
+2.087,97
+
+
+
+
+
+
+PIF 900 Estructura para prótesis transfemoral.
+
+
+PIF 900A Estructura endoesquelética para prótesis transfemorales, para usuarios hasta 45 kg de peso.
+
+
+COMP2
+
+
+24
+
+
+980,69
+
+
+891,54
+
+
+
+
+
+
+PIF 900B Estructura endoesquelética para prótesis transfemorales, para usuarios entre 45 y 66 kg de peso.
+
+
+COMP2
+
+
+24
+
+
+921,12
+
+
+837,38
+
+
+
+
+
+
+PIF 900C Estructura endoesquelética para prótesis transfemorales, para usuarios entre 66 y 100 kg de peso.
+
+
+COMP2
+
+
+24
+
+
+1.068,71
+
+
+971,55
+
+
+
+
+
+
+PIF 900D Estructura endoesquelética para prótesis transfemorales, para usuarios entre 100 y 125 kg de peso.
+
+
+COMP2
+
+
+24
+
+
+1.101,12
+
+
+1.001,02
+
+
+
+
+
+
+PIF 900E Estructura endoesquelética para prótesis transfemorales, para usuarios entre 125 y 166 kg de peso.
+
+
+COMP2
+
+
+24
+
+
+1.124,95
+
+
+1.022,68
+
+
+
+
+
+
+PIF 900F Estructura exoesquelética para prótesis transfemorales.
+
+
+MED
+
+
+24
+
+
+1.564,20
+
+
+1.422,00
+
+
+
+
+
+
+PIF 910 Encaje femoral.
+
+
+PIF 910A Encaje externo cuadrangular. Incluye adaptación y alineación.
+
+
+MED
+
+
+12
+
+
+2.337,50
+
+
+2.125,00
+
+
+
+
+
+
+PIF 910B Encaje externo cuadrangular ISNY. Incluye adaptación y alineación.
+
+
+MED
+
+
+12
+
+
+2.744,50
+
+
+2.495,00
+
+
+
+
+
+
+PIF 910C Encaje externo CAT-CAM. Incluye adaptación y alineación.
+
+
+MED
+
+
+12
+
+
+2.707,83
+
+
+2.461,66
+
+
+
+
+
+
+PIF 910D Encaje externo CAT-CAM ISNY. Incluye adaptación y alineación.
+
+
+MED
+
+
+12
+
+
+3.138,67
+
+
+2.853,34
+
+
+
+
+
+
+PIF 910E Encaje externo de contacto total para prótesis transfemoral. Incluye adaptación y alineación.
+
+
+MED
+
+
+12
+
+
+2.678,50
+
+
+2.435,00
+
+
+
+
+
+
+PIF 910F Encaje interno de termoplástico blando o semigoma para prótesis transfemoral.
+
+
+MED
+
+
+12
+
+
+491,33
+
+
+446,66
+
+
+
+
+
+
+PIF 920 Vaina (liner) para prótesis transfemoral.
+
+
+PIF 920A Vaina interna (liner) de silicona para prótesis transfemoral.
+
+
+COMP2
+
+
+6
+
+
+585,75
+
+
+532,50
+
+
+
+
+
+
+PIF 920B Vaina interna (liner) en gel para prótesis transfemoral.
+
+
+COMP2
+
+
+6
+
+
+575,83
+
+
+523,48
+
+
+
+
+
+
+PIF 920C Vaina interna (liner) de silicona para prótesis transfemoral, a medida, para usuarios con características especiales que no permiten adaptar las prefabricadas.
+
+
+MED
+
+
+6
+
+
+1.595,00
+
+
+1.450,00
+
+
+
+
+
+
+PIF 920D Vaina interna (liner) pediátrica para prótesis transfemoral.
+
+
+COMP2
+
+
+6
+
+
+717,82
+
+
+652,56
+
+
+
+
+
+
+PIF 930 Sistemas de suspensión mecánicos para prótesis transfemoral*.
+
+
+PIF 930A Sistema de suspensión con cinturón y correa lateral para prótesis transfemoral.
+
+
+MED
+
+
+12
+
+
+187,79
+
+
+170,72
+
+
+
+
+
+
+PIF 930B Sistema de suspensión con cinturón, correa lateral y medial y poleilla para prótesis transfemoral.
+
+
+MED
+
+
+12
+
+
+272,36
+
+
+247,60
+
+
+
+
+
+
+PIF 930C Sistema de suspensión por correa distal para prótesis transfemoral.
+
+
+COMP2
+
+
+6
+
+
+298,85
+
+
+271,68
+
+
+
+
+
+
+PIF 930D Sistema de sujeción femoral elástico tipo neopreno o tejido para prótesis transfemoral.
+
+
+COMP0
+
+
+18
+
+
+154,06
+
+
+140,05
+
+
+
+
+
+
+PIF 940 Sistemas de suspensión de vacío pasivos para prótesis transfemoral*.
+
+
+PIF 940A Suspensión por válvula de una vía manual para prótesis transfemoral.
+
+
+COMP2
+
+
+18
+
+
+97,90
+
+
+89,00
+
+
+
+
+
+
+PIF 940B Suspensión por válvula de una vía automática para prótesis transfemoral.
+
+
+COMP2
+
+
+18
+
+
+127,32
+
+
+115,75
+
+
+
+
+
+
+PIF 940C Sistema de suspensión hipobárica mediante vaina interna (liner) de silicona con un aro de sellado, para prótesis transfemoral.
+
+
+COMP2
+
+
+6
+
+
+770,00
+
+
+700,00
+
+
+
+
+
+
+PIF 940D Sistema de suspensión hipobárica mediante vaina interna (liner) de silicona con más de un aro de sellado, para prótesis transfemoral.
+
+
+COMP2
+
+
+6
+
+
+985,81
+
+
+896,19
+
+
+
+
+
+
+PIF 950 Sistemas de suspensión de vacío activo para prótesis transfemoral*.
+
+
+PIF 950A Sistema de suspensión de vacío activo de alta presión mecánico, para prótesis transfemoral.
+
+
+COMP2
+
+
+24
+
+
+2.266,00
+
+
+2.060,00
+
+
+
+
+
+
+PIF 960 Otros componentes y accesorios de prótesis transfemorales.
+
+
+PIF 960A Funda cosmética para prótesis endoesquelética transfemoral.
+
+
+MED
+
+
+12
+
+
+550,00
+
+
+500,00
+
+
+
+
+
+
+PIF 960B Media para prótesis endoesquelética transfemoral.
+
+
+COMP1
+
+
+12
+
+
+42,24
+
+
+38,40
+
+
+
+
+
+
+PIF 960C Cubierta cosmética de revestimiento en PVC para prótesis endoesquelética transfemoral.
+
+
+COMP2
+
+
+12
+
+
+605,00
+
+
+550,00
+
+
+
+
+
+
+PIF 960D Cubierta cosmética de revestimiento en silicona para prótesis endoesquelética transfemoral.
+
+
+COMP2
+
+
+12
+
+
+935,00
+
+
+850,00
+
+
+
+
+
+
+
+
+
+
+
+
+* Estos sistemas de suspensión se podrán utilizar también para las prótesis de desarticulación de rodilla.
+
+
+
+
+
+
+
+
+
+
+ Subgrupo: 06 24 18 Prótesis de desarticulación de cadera
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Categorías (Código homologado
+
+
+y descripción)
+
+
+
+
+Tipos de productos (Código y descripción)
+
+
+Elaboración
+
+
+
+
+Vida media
+
+
+–
+
+
+Meses
+
+
+
+
+IMF
+
+
+IMF si
+
+
+
+
+
+
+
+
+
+
+PIC 000 Prótesis de desarticulación de cadera con encaje pélvico.
+
+
+PIC 000A Prótesis de desarticulación de cadera con encaje pélvico (Prescribir además una estructura endoesquelética, una articulación de cadera, una articulación de rodilla, un pie a elección y, si lo precisa, un encaje interno, una funda y una media).
+
+
+MED
+
+
+24
+
+
+3.174,35
+
+
+2.885,77
+
+
+
+
+
+
+PIC 900 Estructura para prótesis de desarticulación de cadera.
+
+
+PIC 900A Estructura endoesquelética para prótesis de desarticulación de cadera, para usuarios hasta 45 kg de peso.
+
+
+COMP2
+
+
+24
+
+
+1.697,30
+
+
+1.543,00
+
+
+
+
+
+
+PIC 900B Estructura endoesquelética para prótesis de desarticulación de cadera, para usuarios entre 45 y 66 kg de peso.
+
+
+COMP2
+
+
+24
+
+
+1.741,30
+
+
+1.583,00
+
+
+
+
+
+
+PIC 900C Estructura endoesquelética para prótesis de desarticulación de cadera, para usuarios entre 66 y 100 kg de peso.
+
+
+COMP2
+
+
+24
+
+
+1.763,30
+
+
+1.603,00
+
+
+
+
+
+
+PIC 900D Estructura endoesquelética para prótesis de desarticulación de cadera, para usuarios entre 100 y 125 kg de peso.
+
+
+COMP2
+
+
+24
+
+
+1.795,20
+
+
+1.632,00
+
+
+
+
+
+
+PIC 900E Estructura endoesquelética para prótesis de desarticulación de cadera, para usuarios entre 125 y 166 kg de peso.
+
+
+COMP2
+
+
+24
+
+
+1.815,00
+
+
+1.650,00
+
+
+
+
+
+
+PIC 910 Encaje para prótesis de desarticulación de cadera.
+
+
+PIC 910A Encaje externo para prótesis de desarticulación de cadera. Incluye adaptación y alineación.
+
+
+MED
+
+
+12
+
+
+3.556,67
+
+
+3.233,34
+
+
+
+
+
+
+PIC 910B Encaje interno en termoplástico blando o semigoma para prótesis de desarticulación de cadera.
+
+
+MED
+
+
+12
+
+
+870,83
+
+
+791,66
+
+
+
+
+
+
+PIC 910C Encaje interno de silicona para prótesis de desarticulación de cadera.
+
+
+MED
+
+
+12
+
+
+2.457,58
+
+
+2.234,16
+
+
+
+
+
+
+PIC 920 Otros componentes y accesorios de prótesis de desarticulación de cadera.
+
+
+PIC 920A Funda cosmética para prótesis de desarticulación de cadera.
+
+
+MED
+
+
+12
+
+
+586,29
+
+
+532,99
+
+
+
+
+
+
+PIC 920B Media para prótesis de desarticulación de cadera.
+
+
+MED
+
+
+12
+
+
+99,87
+
+
+90,79
+
+
+
+
+
+
+
+
+ Subgrupo: 06 24 21 Prótesis de hemipelvectomía
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Categorías (Código homologado
+
+
+y descripción)
+
+
+
+
+Tipos de productos (Código y descripción)
+
+
+Elaboración
+
+
+
+
+Vida media
+
+
+–
+
+
+Meses
+
+
+
+
+IMF
+
+
+IMF si
+
+
+
+
+
+
+
+
+
+
+PIV 000 Prótesis de hemipelvectomía con encaje pélvico.
+
+
+PIV 000A Prótesis de hemipelvectomía con encaje pélvico (Prescribir además una estructura endoesquelética, una articulación de cadera, una articulación de rodilla, un pie a elección y, si lo precisa, un encaje interno, una funda y una media).
+
+
+MED
+
+
+24
+
+
+3.382,87
+
+
+3.075,34
+
+
+
+
+
+
+PIV 900 Estructura para prótesis de hemipelvectomía.
+
+
+PIV 900A Estructura endoesquelética para prótesis de hemipelvectomía, para usuarios hasta 45 kg de peso.
+
+
+COMP2
+
+
+24
+
+
+1.723,70
+
+
+1.567,00
+
+
+
+
+
+
+PIV 900B Estructura endoesquelética para prótesis de hemipelvectomía, para usuarios entre 45 y 66 kg de peso.
+
+
+COMP2
+
+
+24
+
+
+1.767,70
+
+
+1.607,00
+
+
+
+
+
+
+PIV 900C Estructura endoesquelética para prótesis de hemipelvectomía, para usuarios entre 66 y 100 kg de peso.
+
+
+COMP2
+
+
+24
+
+
+1.789,70
+
+
+1.627,00
+
+
+
+
+
+
+PIV 900D Estructura endoesquelética para prótesis de hemipelvectomía, para usuarios entre 100 y 125 kg de peso.
+
+
+COMP2
+
+
+24
+
+
+1.832,60
+
+
+1.666,00
+
+
+
+
+
+
+PIV 900E Estructura endoesquelética para prótesis de hemipelvectomía, para usuarios entre 125 y 166 kg de peso.
+
+
+COMP2
+
+
+24
+
+
+1.849,10
+
+
+1.681,00
+
+
+
+
+
+
+PIV 910 Encaje para prótesis de hemipelvectomía.
+
+
+PIV 910A Encaje externo para prótesis de hemipelvectomía. Incluye adaptación y alineación.
+
+
+MED
+
+
+12
+
+
+3.721,67
+
+
+3.383,34
+
+
+
+
+
+
+PIV 910B Encaje interno en termoplástico blando o semigoma para prótesis de hemipelvectomía.
+
+
+MED
+
+
+12
+
+
+906,58
+
+
+824,16
+
+
+
+
+
+
+PIV 910C Encaje interno de silicona para prótesis de hemipelvectomía.
+
+
+MED
+
+
+12
+
+
+2.731,67
+
+
+2.483,34
+
+
+
+
+
+
+PIV 920 Otros componentes y accesorios de prótesis de hemipelvectomía.
+
+
+PIV 920A Funda cosmética para prótesis de hemipelvectomía.
+
+
+MED
+
+
+12
+
+
+590,35
+
+
+536,68
+
+
+
+
+
+
+PIV 920B Media para prótesis de hemipelvectomía.
+
+
+MED
+
+
+12
+
+
+101,52
+
+
+92,29
+
+
+
+
+
+
+
+
+Subgrupo: 06 24 27 Pies protésicos 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Categorías (Código homologado
+
+
+y descripción)
+
+
+
+
+Tipos de productos (Código y descripción)
+
+
+Elaboración
+
+
+
+
+Vida media
+
+
+–
+
+
+Meses
+
+
+
+
+IMF
+
+
+IMF si
+
+
+
+
+
+
+
+
+
+
+PIE 000 Pie no articulado.
+
+
+PIE 000A Pie no articulado (SACH) de adulto, de impacto bajo a moderado.
+
+
+COMP1
+
+
+24
+
+
+158,84
+
+
+144,40
+
+
+
+
+
+
+PIE 000B Pie no articulado (SACH) pediátrico, de impacto bajo a moderado.
+
+
+COMP1
+
+
+24
+
+
+248,80
+
+
+226,18
+
+
+
+
+
+
+PIE 000C Pie no articulado (SACH) de quilla corta o dinámico, de impacto bajo a moderado.
+
+
+COMP1
+
+
+24
+
+
+318,00
+
+
+289,09
+
+
+
+
+
+
+PIE 000D Pie no articulado geriátrico, de impacto bajo.
+
+
+COMP1
+
+
+24
+
+
+198,92
+
+
+180,84
+
+
+
+
+
+
+PIE 000E Pie básico tipo Syme, de impacto bajo.
+
+
+COMP1
+
+
+24
+
+
+879,93
+
+
+799,94
+
+
+
+
+
+
+PIE 000F Pie especial tipo Syme, de impacto moderado a alto.
+
+
+COMP1
+
+
+24
+
+
+1.383,29
+
+
+1.257,54
+
+
+
+
+
+
+PIE 010 Pie articulado.
+
+
+PIE 010A Pie articulado monoaxial, de impacto bajo a moderado.
+
+
+COMP1
+
+
+24
+
+
+458,68
+
+
+416,98
+
+
+
+
+
+
+PIE 010B Pie de articulación e impulsión mediante sistema elástico interno, de impacto bajo a moderado.
+
+
+COMP1
+
+
+24
+
+
+669,22
+
+
+608,38
+
+
+
+
+
+
+PIE 010C Pie de eje múltiple, de impacto moderado a alto.
+
+
+COMP1
+
+
+24
+
+
+769,29
+
+
+699,35
+
+
+
+
+
+
+PIE 010D Pie con regulación de altura de tacón, de impacto bajo a moderado.
+
+
+COMP1
+
+
+24
+
+
+2.297,19
+
+
+2.088,35
+
+
+
+
+
+
+PIE 020 Pie dinámico.
+
+
+PIE 020A Pie almacenador de energía de adulto, de impacto bajo.
+
+
+COMP2
+
+
+24
+
+
+721,26
+
+
+655,69
+
+
+
+
+
+
+PIE 020B Pie almacenador de energía de adulto, de impacto moderado.
+
+
+COMP2
+
+
+24
+
+
+1.294,08
+
+
+1.176,44
+
+
+
+
+
+
+PIE 020C Pie almacenador de energía de adulto, de impacto alto.
+
+
+COMP2
+
+
+24
+
+
+2.204,74
+
+
+2.004,31
+
+
+
+
+
+
+PIE 020D Pie almacenador de energía pediátrico, de impacto bajo.
+
+
+COMP2
+
+
+24
+
+
+1.122,14
+
+
+1.020,13
+
+
+
+
+
+
+PIE 020E Pie almacenador de energía pediátrico, de impacto moderado.
+
+
+COMP2
+
+
+24
+
+
+1.223,41
+
+
+1.112,19
+
+
+
+
+
+
+PIE 020F Pie almacenador de energía pediátrico, de impacto alto (especial prescripción).
+
+
+COMP2
+
+
+24
+
+
+1.438,69
+
+
+1.307,90
+
+
+
+
+
+
+PIE 020G Pie almacenador de energía regulable en altura.
+
+
+COMP2
+
+
+24
+
+
+2.495,30
+
+
+2.268,45
+
+
+
+
+
+
+
+
+Los pies protésicos de bajo impacto están indicados para los usuarios considerados K1/clase 1, los de impacto moderado para K2/clase 2, los de impacto alto para K3/clase 3 y los de impacto muy alto para K4/clase 4.
+
+
+Subgrupo: 06 24 30 Rotadores
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Categorías (Código homologado
+
+
+y descripción)
+
+
+
+
+Tipos de productos (Código y descripción)
+
+
+Elaboración
+
+
+
+
+Vida media
+
+
+–
+
+
+Meses
+
+
+
+
+IMF
+
+
+IMF si
+
+
+
+
+
+
+
+
+
+
+PIO 000 Rotador.
+
+
+PIO 000A Rotador para prótesis transfemorales.
+
+
+COMP2
+
+
+36
+
+
+598,56
+
+
+544,15
+
+
+
+
+
+
+PIO 010 Dispositivo de amortiguación y fuerzas de torsión.
+
+
+PIO 010A Dispositivo de amortiguación y fuerzas de torsión. Incluye alineación.
+
+
+COMP2
+
+
+36
+
+
+932,25
+
+
+847,50
+
+
+
+
+
+
+
+
+Subgrupo: 06 24 33 Articulaciones de rodilla 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Categorías (Código homologado
+
+
+y descripción)
+
+
+
+
+Tipos de productos (Código y descripción)
+
+
+Elaboración
+
+
+
+
+Vida media
+
+
+–
+
+
+Meses
+
+
+
+
+IMF
+
+
+IMF si
+
+
+
+
+
+
+
+
+
+
+PIL 000 Articulación de rodilla exoesquelética monocéntrica para adulto.
+
+
+PIL 000A Articulación de rodilla exoesquelética monocéntrica mecánica, con bloqueo manual a voluntad.
+
+
+COMP2
+
+
 30
-29
-A
-A
-Grupo                :
-Grupo                :
-N.C.D.               :
-N.C.D.               :
-  28.142,64
-  25.509,48
-C. Específico      :
-C. Específico      :
-**6*815**
-0***542**
-TEJADA MIGUEL,OLGA
-BEATRIZ
-FERNANDEZ DE BOBADILLA
-GASCO,BLANCA ELENA
-Cód. identificación:
-Cód. identificación:
-Apellidos y Nombre:
-Apellidos y Nombre:
-PUESTO ADJUDICADO ADJUDICATARIO PUESTO LIBERADO
-(03/14.115/22)
-
-LUNES 18 DE JULIO DE 2022B.O.C.M. Núm. 169 Pág. 15
-BOCM-20220718-1
-BOLETÍN OFICIAL DE LA COMUNIDAD DE MADRIDBOCM
-I. COMUNIDAD DE MADRID
-A) Disposiciones Generales
-Vicepresidencia, Consejería de Educación y Universidades
-1 DECRETO 61/2022, de 13 de julio, del Consejo de Gobierno, por el que se esta-
-blece para la Comunidad de Madrid la ordenación y el currículo de la etapa de
-Educación Primaria.
-La Ley Orgánica 2/2006, de 3 de mayo, de Educación, tras su modificación por la Ley
-Orgánica 3/2020, de 29 de diciembre, por la que se modifica la Ley Orgánica 2/2006, de 3
-de mayo, de Educación, define el currículo como el conjunto de objetivos, competencias,
-contenidos, métodos pedagógicos y criterios de evaluación de cada una de las enseñanzas.
-El capítulo III del título preliminar, referido al currículo y a la distribución de competen-
-cias, dispone que con el fin de asegurar una formación común y garantizar la validez de los
-títulos correspondientes, el Gobierno, previa consulta a las Comunidades Autónomas, fija-
-rá, en relación con los objetivos, competencias, contenidos y criterios de evaluación, los as-
-pectos básicos del currículo que constituyen las enseñanzas mínimas. En desarrollo de ese
-imperativo legal, se ha aprobado el Real Decreto 157/2022, de 1 de marzo, por el que se es-
-tablece la ordenación y las enseñanzas mínimas de la Educación Primaria. En su artícu-
-lo 11.3 dispone que las administraciones educativas establecerán, conforme a lo dispuesto
-en este Real Decreto, el currículo de la Educación Primaria, del que formarán parte las en-
-señanzas mínimas fijadas en el mismo.
-A su vez, de acuerdo con el artículo 11.4 del Real Decreto mencionado, a los centros
-docentes les corresponde concretar el currículo determinado por la administración educati-
-va, e incorporarlo a su proyecto educativo, que impulsará y desarrollará los principios, ob-
-jetivos y la metodología propia para un aprendizaje adecuado.
-De conformidad con lo anteriormente expuesto, el objeto de este Decreto es determi-
-nar la ordenación y establecer el currículo de la etapa de Educación Primaria de la Comu-
-nidad de Madrid. En torno a las diferentes áreas de aprendizaje, se determinan las compe-
-tencias específicas, los criterios de evaluación y los contenidos para cada una de ellas.
-Las enseñanzas mínimas marcadas en el Real Decreto 157/2022, de 1 de marzo, re-
-quieren, en la Comunidad de Madrid, el 60 por ciento de los horarios escolares, conforme
-a lo establecido en su artículo 11.3. El 40 por ciento restante, suma y configura un currícu-
-lo con contenidos indispensables y necesarios para conseguir una formación idónea en el
-alumnado madrileño.
-En virtud de lo anterior, se propondrán al alumnado, desde los primeros años, activi-
-dades educativas que posibiliten un dominio de la expresión y la comprensión oral y escri-
-ta, de la lectura, del razonamiento lógico-matemático, del análisis y de la posibilidad de so-
-lucionar una situación problemática, competencias propias de las áreas de Lengua
-Castellana y Literatura, y Matemáticas, necesarias para los aprendizajes de las demás áreas.
-El currículo de la Comunidad de Madrid reconoce el valor del español como lengua
-universal, y subraya la importancia del conocimiento de otras lenguas, particularmente de
-la lengua inglesa, pues su aprendizaje ofrece nuevas y amplias oportunidades para el alum-
-nado. Además, con el fin de fomentar la competencia plurilingüe, la Comunidad de Madrid
-incorpora al currículo de esta etapa el área de Segunda Lengua Extranjera, que el alumno
-podrá cursar en todos los ciclos que la componen.
-Asimismo, la Comunidad de Madrid mantiene la división actual entre el área de Cien-
-cias de la Naturaleza y el área de Ciencias Sociales, pues el objeto del estudio de cada una
-se corresponde con ámbitos de conocimiento diferenciados. En concreto, el área de Cien-
-cias de la Naturaleza engloba dos bloques de conocimiento, el relacionado con la cultura
-científica y el que se centra en la tecnología y la digitalización. El área de Ciencias Socia-
-les, por su parte, se ocupa del acercamiento a las sociedades y territorios, con especial aten-
-ción al conocimiento del entorno madrileño en el primer ciclo y al del conjunto de España
-en el segundo; el tercer ciclo invita al conocimiento del entorno físico y social europeo y
-del resto del mundo.
-Cabe señalar, igualmente, la importancia que la Comunidad de Madrid otorga al área
-de Educación Física para desarrollar hábitos de vida saludable y favorecer un adecuado de-
-
-LUNES 18 DE JULIO DE 2022Pág. 16 B.O.C.M. Núm. 169
-BOCM-20220718-1
-BOLETÍN OFICIAL DE LA COMUNIDAD DE MADRIDBOCM
-sarrollo físico y corporal, que se concreta en una dedicación horaria muy superior a la que
-establece, para la citada área, el Real Decreto 157/2022, de 1 de marzo.
-Respecto al desarrollo curricular del área de Educación Artística, permitirá que el
-alumnado aprenda las distintas formas culturales y artísticas de la sociedad, y en cuanto al
-área de Educación en Valores Cívicos y Éticos, se impartirá en quinto curso de la etapa.
-Con el fin de fomentar el desarrollo de la competencia digital, la Comunidad de Madrid
-añade al currículo de Educación Primaria el área de Tecnología y Robótica. Al igual que el
-área de Segunda Lengua Extranjera, podrá impartirse en todos los cursos de la etapa.
-La libertad de las familias para elegir la enseñanza de religión se reconoce en este De-
-creto. Los centros la impartirán en horario lectivo y en condiciones de igualdad con las de-
-más áreas. No obstante, se asegura, con garantías de calidad, la atención educativa para el
-alumnado que no la curse.
-Por último, se recogen en esta norma otras disposiciones referidas a aspectos esencia-
-les relacionados con la ordenación de la etapa, tales como el horario lectivo, los proyectos
-integrados, la promoción, la evaluación, la atención a las diferencias individuales o la auto-
-nomía de los centros.
-El presente Decreto se adecúa a los principios de buena regulación: necesidad, efica-
-cia, proporcionalidad, seguridad jurídica y transparencia previstos en el artículo 129 de la
-Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común de las Adminis-
-traciones Públicas, y en el artículo 2 del Decreto 52/2021, de 24 de marzo, del Consejo de
-Gobierno, por el que se regula y simplifica el procedimiento de elaboración de las disposi-
-ciones normativas de carácter general de la Comunidad de Madrid.
-Conforme a los principios de necesidad y eficacia, esta norma responde al interés ge-
-neral de ordenar, de acuerdo a lo dispuesto en el Real Decreto 157/2022, de 1 de marzo, el
-currículo de la etapa de Educación Primaria en la Comunidad de Madrid, siendo el instru-
-mento más eficaz para dar respuesta al artículo 6.5 de la Ley Orgánica 2/2006, de 3 de
-mayo, y su desarrollo posterior según indica el artículo 11.3 del Real Decreto 157/2022, de
-1 de marzo, en los que se determina que las administraciones educativas establecerán el
-currículo de la Educación Primaria. Se identifican, además, de forma clara, los fines perse-
-guidos y se garantiza su consecución. La disposición final primera dicta que lo dispuesto en
-este Decreto se implantará para los cursos primero, tercero y quinto en el curso esco-
-lar 2022-2023, y para los cursos segundo, cuarto y sexto en el curso escolar 2023-2024.
-Atendiendo al principio de proporcionalidad, contiene la regulación imprescindible
-para atender la necesidad a cubrir, pues su contenido se ajusta a lo referido en el citado ar-
-tículo 11.3 del Real Decreto 157/2022, de 1 de marzo, y, de acuerdo con el principio de se-
-guridad jurídica, genera un marco normativo estable, predecible, integrado, claro y de cer-
-tidumbre, y se incardina, de manera coherente, en el ordenamiento jurídico. El principio de
-transparencia se cumple igualmente, al haberse garantizado en la tramitación del Decreto el
-acceso sencillo, universal y actualizado a los documentos generados a lo largo de su trami-
-tación, y en especial con el trámite de audiencia e información pública, que ha posibilitado
-que los potenciales destinatarios tengan una participación activa en la elaboración de esta
-norma. Por último, el principio de eficiencia también se cumple, puesto que su aprobación
-no supone cargas administrativas innecesarias a los ciudadanos en general, ni a las familias
-y alumnos en particular.
-Para la elaboración de este Decreto, se han solicitado los informes preceptivos de coor-
-dinación y calidad normativa, los informes de la Consejería de Familia, Juventud y Políti-
-ca Social sobre los impactos de carácter social, de las secretarías generales técnicas de las
-diferentes consejerías, de la Secretaría General Técnica de la Consejería de Educación, Uni-
-versidades, Ciencia y Portavocía, el dictamen del Consejo Escolar de la Comunidad de
-Madrid, el informe del Consejo de Atención a la Infancia y Adolescencia y el informe de la
-Abogacía General de la Comunidad de Madrid.
-La Comunidad de Madrid es competente, en virtud del artículo 29 de su Estatuto de
-Autonomía, en el desarrollo legislativo y ejecución de la enseñanza en toda su extensión, ni-
-veles y grados, modalidades y especialidades, de acuerdo con lo dispuesto en el artículo 27
-de la Constitución Española y leyes orgánicas que, conforme a su artículo 81.1 lo desarro-
-llen, y sin perjuicio de las facultades que atribuye al Estado el artículo 149.
-En virtud de cuanto antecede, de conformidad con lo dispuesto en el artículo 21 g) de la
-Ley 1/1983, de 13 de diciembre, de Gobierno y Administración de la Comunidad de Madrid,
-a propuesta del vicepresidente, consejero de Educación y Universidades, de acuerdo con la
-Comisión Jurídica Asesora de la Comunidad de Madrid y previa deliberación, el Consejo de
-Gobierno, en su reunión del día 13 de julio de 2022.
-
-LUNES 18 DE JULIO DE 2022B.O.C.M. Núm. 169 Pág. 17
-BOCM-20220718-1
-BOLETÍN OFICIAL DE LA COMUNIDAD DE MADRIDBOCM
-DISPONE
-
-## Artículo 1
-Objeto
-El presente Decreto tiene por objeto establecer la ordenación y el currículo de la etapa
-de Educación Primaria de la Comunidad de Madrid, en desarrollo del Real Decre-
-to 157/2022, de 1 de marzo, por el que se establecen la ordenación y las enseñanzas míni-
-mas de la Educación Primaria.
-
-## Artículo 2
-Ámbito de aplicación
-Será de aplicación en los centros docentes públicos y privados de la Comunidad de
-Madrid, debidamente autorizados, que impartan las enseñanzas de Educación Primaria.
-
-## Artículo 3
-Principios generales de la etapa
-1. La etapa de Educación Primaria forma parte de la enseñanza básica, de carácter
-obligatorio y gratuito, comprende tres ciclos de dos años académicos de duración cada uno
-y, en general, se cursará entre los seis y los doce años de edad.
-2. La acción educativa en esta etapa procurará la integración de las distintas expe-
-riencias y aprendizajes del alumnado con una visión global y se adaptará a sus ritmos de
-trabajo.
-3. En la Educación Primaria, la orientación y la acción tutorial acompañarán el pro-
-ceso educativo del alumnado.
-
-## Artículo 4
-Elementos curriculares
-El artículo 6.1 de la Ley Orgánica 2/2006, de 3 de mayo, de Educación, establece que
-el currículo lo conforman el conjunto de objetivos, competencias, contenidos, métodos pe-
-dagógicos y criterios de evaluación de cada una de las enseñanzas. El artículo 2 del Real
-Decreto 157/2022, de 1 de marzo, define objetivos, competencias clave, competencias es-
-pecíficas y criterios de evaluación.
-A efectos de este Decreto se entiende por:
-a) Contenidos: conocimientos, destrezas y actitudes cuyo aprendizaje por parte del
-alumnado se hace necesario para la adquisición de las competencias específicas de
-cada área.
-b) Contenidos transversales: conocimientos, destrezas y actitudes que, de manera
-transversal, se deben incorporar al proceso de enseñanza y aprendizaje en todas
-las áreas.
-c) Métodos pedagógicos: conjunto de acciones y técnicas didácticas que el profeso-
-rado coordina con el objetivo de guiar a su alumnado hacia la consecución de las
-competencias específicas de cada área y, en definitiva, acercarlo al perfil de sali-
-da de la Educación Primaria.
-
-## Artículo 5
-Objetivos de la etapa
-La Educación Primaria contribuirá a desarrollar las siguientes capacidades:
-a) Conocer y apreciar los valores y las normas de convivencia, aprender a obrar po-
-niéndose en el lugar del otro, prepararse para el ejercicio activo de la ciudadanía
-y respetar los derechos humanos, así como su participación en una sociedad de-
-mocrática.
-b) Desarrollar hábitos de trabajo individual y de equipo, de esfuerzo y de responsabi-
-lidad en el estudio, así como actitudes de confianza en sí mismo, sentido crítico,
-iniciativa personal, curiosidad, interés y creatividad en el aprendizaje, y espíritu
-emprendedor.
-
-LUNES 18 DE JULIO DE 2022Pág. 18 B.O.C.M. Núm. 169
-BOCM-20220718-1
-BOLETÍN OFICIAL DE LA COMUNIDAD DE MADRIDBOCM
-c) Adquirir habilidades para la resolución pacífica de conflictos y la prevención de la
-violencia, que les permitan desenvolverse con autonomía en el ámbito escolar y
-familiar, así como en los grupos sociales con los que se relacionan.
-d) Conocer, comprender y respetar las diferentes culturas y las diferencias entre las
-personas, la igualdad de derechos y oportunidades de hombres y mujeres, y la no
-discriminación de personas por motivos de etnia, orientación o identidad sexual,
-religión o creencias, discapacidad u otras condiciones.
-e) Conocer y utilizar de manera apropiada la lengua española y desarrollar hábitos de
-lectura.
-f) Adquirir en, al menos, la lengua inglesa, la competencia comunicativa básica que
-les permita expresar y comprender mensajes sencillos y desenvolverse en situa-
-ciones cotidianas en este idioma.
-g) Desarrollar las competencias matemáticas básicas e iniciarse en la resolución de
-problemas que requieran la realización de operaciones elementales de cálculo, co-
-nocimientos geométricos y estimaciones, así como ser capaces de aplicarlos a las
-situaciones de su vida cotidiana.
-h) Conocer los aspectos fundamentales de las Ciencias de la Naturaleza, las Ciencias
-Sociales, la Geografía, la Historia y la Cultura.
-i) Desarrollar las competencias tecnológicas básicas e iniciarse en su utilización,
-para el aprendizaje, desarrollando un espíritu crítico ante su funcionamiento y los
-mensajes que reciben y elaboran.
-j) Utilizar diferentes representaciones y expresiones artísticas e iniciarse en la cons-
-trucción de propuestas visuales y audiovisuales.
-k) Valorar la higiene y la salud, aceptar el propio cuerpo y el de los otros, respetar las
-diferencias y utilizar la educación física, el deporte y la alimentación como me-
-dios para favorecer el desarrollo personal y social.
-l) Conocer y valorar los animales más próximos al ser humano y adoptar modos de
-comportamiento que favorezcan la empatía y su cuidado.
-m) Desarrollar sus capacidades afectivas en todos los ámbitos de la personalidad y en
-sus relaciones con las demás personas, así como una actitud contraria a la violen-
-cia, a los prejuicios y estereotipos de cualquier tipo.
-n) Desarrollar hábitos cotidianos de movilidad activa autónoma saludable, fomen-
-tando la educación vial y actitudes de respeto que incidan en la prevención de los
-accidentes de tráfico.
-
-## Artículo 6
-Competencias clave y perfil de salida
-1. Las competencias clave, de acuerdo con el Real Decreto 157/2022, de 1 de mar-
-zo, a efectos de este Decreto, son las siguientes:
-a) Competencia en comunicación lingüística.
-b) Competencia plurilingüe.
-c) Competencia matemática y competencia en ciencia, tecnología e ingeniería.
-d) Competencia digital.
-e) Competencia personal, social y de aprender a aprender.
-f) Competencia ciudadana.
-g) Competencia emprendedora.
-h) Competencia en conciencia y expresión culturales.
-2. Las competencias clave se caracterizan por su transversalidad, no existe jerarquía
-alguna entre ellas, ni puede establecerse una correspondencia exclusiva con una única área,
-sino que engloban los aprendizajes de las distintas áreas y, a su vez, se adquieren a partir de
-las competencias específicas propias de cada área.
-3. El perfil de salida determina el nivel esperado al término de la educación obliga-
-toria. Se establece un perfil de salida esperado al finalizar la Educación Primaria en el
-Anexo I de este Decreto. A cada una de las competencias clave se asocian unos descripto-
-res operativos que, en conjunto, concretan las capacidades que el alumnado debe adquirir
-al término de la etapa de Educación Primaria.
-4. La concreción de los currículos que los centros acuerden en sus proyectos educa-
-tivos, dentro de los límites fijados en este Decreto y en la normativa que lo desarrolle, ten-
-drán como referente el perfil de salida diseñado para la Educación Primaria.
-
-LUNES 18 DE JULIO DE 2022B.O.C.M. Núm. 169 Pág. 19
-BOCM-20220718-1
-BOLETÍN OFICIAL DE LA COMUNIDAD DE MADRIDBOCM
-
-## Artículo 7
-Áreas
-1. El alumnado de Educación Primaria cursará las siguientes áreas en todos los cur-
-sos de la etapa:
-a) Ciencias de la Naturaleza.
-b) Ciencias Sociales.
-c) Educación Artística.
-d) Educación Física.
-e) Lengua Castellana y Literatura.
-f) Lengua Extranjera: Inglés.
-g) Matemáticas.
-2. En quinto curso se añadirá a las anteriores el área de Educación en Valores Cívi-
-cos y Éticos.
-3. La enseñanza de la religión se impartirá en todos los cursos de la etapa y se ajus-
-tará a lo establecido en el artículo 8 de este Decreto.
-4. Los centros de la Comunidad de Madrid podrán completar su oferta formativa en
-todos o alguno de los seis cursos de la etapa con las siguientes áreas:
-a) Segunda Lengua Extranjera.
-b) Tecnología y Robótica.
-La oferta formativa constará en el proyecto educativo de centro. En ningún caso su-
-pondrá un aumento adicional de los recursos disponibles, y se respetará lo establecido en la
-norma básica sobre especialidades y requisitos de titulación para impartir docencia, así
-como lo dispuesto en el artículo 28 de este Decreto.
-5. En el Anexo II de este Decreto se fijan y describen las competencias específicas
-de cada área, así como los criterios de evaluación asociados y los contenidos, elementos
-curriculares que, con carácter prescriptivo, se tendrán en cuenta en la elaboración de las
-programaciones didácticas de cada curso.
-
-## Artículo 8
-Enseñanzas de religión
-1. De conformidad con el Real Decreto 157/2022, de 1 de marzo, las enseñanzas de
-religión se incluirán en la Educación Primaria de acuerdo con lo establecido en la disposi-
-ción adicional segunda de la Ley Orgánica 2/2006, de 3 de mayo.
-2. Al inicio de la etapa, los padres o tutores legales podrán manifestar la voluntad de
-que sus hijos reciban o no enseñanzas de religión. Dicha decisión será susceptible de ser
-modificada al comienzo de cada curso académico.
-3. Asimismo, se garantizará que dichas enseñanzas se impartan en horario lectivo y
-en condiciones de igualdad con las demás áreas. La evaluación de la enseñanza de la religión
-católica se realizará en los mismos términos y con los mismos efectos que la de las otras
-áreas de Educación Primaria. La evaluación de la enseñanza de las diferentes confesiones re-
-ligiosas se ajustará a lo establecido en los acuerdos de cooperación suscritos por el Estado.
-4. Con el fin de garantizar el principio de igualdad y la libre concurrencia entre todo
-el alumnado, las calificaciones que se hubieran obtenido en la evaluación de las enseñan-
-zas de religión no se computarán en las convocatorias en las que deban entrar en concurren-
-cia los expedientes académicos.
-5. Los centros docentes dispondrán las medidas organizativas para que el alumnado
-que no curse las enseñanzas de religión pueda recibir la debida atención educativa. Esta aten-
-ción se planificará y programará por parte de cada centro, y se dirigirá al desarrollo de las
-competencias clave a través de la realización de proyectos significativos para el alumnado y
-de la resolución colaborativa de problemas, y al refuerzo de la autoestima, la autonomía, la li-
-bertad, la reflexión y la responsabilidad. Las actividades que se propongan al efecto se carac-
-terizarán por su transversalidad y, en ningún caso, comportarán el aprendizaje de contenidos
-curriculares asociados al conocimiento del hecho religioso ni a cualquier área de la etapa.
-
-## Artículo 9
-Enseñanzas en lengua extranjera.
-1. Los centros docentes podrán impartir las áreas del currículo, a excepción de Ma-
-temáticas y Lengua Castellana y Literatura, en lengua extranjera, sin que ello suponga mo-
-
-LUNES 18 DE JULIO DE 2022Pág. 20 B.O.C.M. Núm. 169
-BOCM-20220718-1
-BOLETÍN OFICIAL DE LA COMUNIDAD DE MADRIDBOCM
-dificación alguna del currículo establecido en este Decreto. En este caso, se procurará que
-a lo largo de la etapa los alumnos adquieran la terminología propia de las áreas en la lengua
-extranjera y en castellano.
-2. Los centros también podrán impartir únicamente el bloque I o el bloque II del área
-de Educación Artística en lengua extranjera, en los mismos términos que en el apartado an-
-terior.
-3. En los centros en los que se impartan alguna de las áreas o bloques en lengua ex-
-tranjera se priorizará la comprensión y expresión oral en dicha lengua, y la lengua castella-
-na se utilizará, en caso necesario, como apoyo a la lengua extranjera.
-4. El inglés será, con carácter general, el idioma en el que se impartan esas áreas o
-bloques en lengua extranjera. No obstante, se contemplará la posibilidad de que se impar-
-tan en el idioma de Segunda Lengua Extranjera, siempre que esta se incluya como área en
-la oferta educativa del centro.
-5. En los centros sostenidos con fondos públicos, el profesorado que imparta áreas en
-inglés o en el idioma de Segunda Lengua Extranjera deberá acreditar estar en posesión de un
-título o certificado equivalente al nivel C1 del Marco Común Europeo de Referencia de las
-Lenguas, o bien estar en posesión de la habilitación lingüística vigente para el desempeño de
-puestos bilingües de la Comunidad de Madrid en el idioma o idiomas en que dichas áreas se
-impartan.
-6. En los centros privados no sostenidos con fondos públicos, el profesorado que im-
-parta áreas en inglés o en el idioma de Segunda Lengua Extranjera deberá acreditar estar en
-posesión de un título o certificado equivalente al nivel C1 del Marco Común Europeo de
-Referencia de las Lenguas en el idioma o idiomas en que dichas áreas se impartan.
-7. Los centros que tengan autorizados algunos de los Programas Bilingües de la Co-
-munidad de Madrid se ajustarán a las condiciones y requisitos marcados en la normativa
-que a tal efecto se determine.
-
-## Artículo 10
-Principios pedagógicos
-1. El artículo 6 del Real Decreto 157/2022, de 1 de marzo, determina los principios
-pedagógicos de la etapa de Educación Primaria.
-2. En esta etapa se pondrá, además, especial énfasis en garantizar la equidad educa-
-tiva. En todo caso, se considerará el nivel de desarrollo del alumnado y sus características
-individuales, y se asegurará una atención educativa personalizada.
-3. Los principios pedagógicos orientarán la elección de los métodos pedagógicos por
-parte de los centros para el desarrollo del proceso de enseñanza-aprendizaje, así como las
-actividades curriculares que se propongan. Tendrán en cuenta, además del currículo esta-
-blecido en el Anexo II, los contenidos transversales que se describen en el artículo 11 de
-este Decreto.
-
-## Artículo 11
-Contenidos transversales
-1. Se integrarán de manera transversal los contenidos necesarios para que se eduque
-a los escolares en el respeto a la igualdad de oportunidades entre mujeres y hombres, y en
-la convicción de que la garantía de esa igualdad radica en compartir los mismos derechos y
-los mismos deberes.
-2. Se fomentará el aprendizaje de la prevención y resolución pacífica de conflictos en
-todos los ámbitos de la vida personal, familiar y social, así como de los valores que susten-
-tan la libertad, la justicia, la igualdad, la paz, la democracia, el respeto a los derechos huma-
-nos, a la discapacidad y el rechazo a cualquier forma de violencia, terrorismo o xenofobia.
-3. Se incorporarán, a su vez, contenidos de carácter transversal relacionados con la
-salud y estilos de vida responsable, el cuidado del medio ambiente, con el reconocimiento
-de posibles situaciones de riesgo derivadas de la utilización de las tecnologías de la infor-
-mación y la comunicación, así como con la protección ante emergencias y catástrofes.
-4. Se fomentarán acciones y valores de respeto, deportividad y trabajo en equipo en
-todas las actividades deportivas, con la finalidad de prevenir actitudes y conductas antide-
-portivas.
-5. Los centros educativos promoverán acciones para la mejora de la convivencia, la
-tolerancia, la prudencia, el autocontrol, el diálogo y la empatía. Asimismo, garantizarán la
-inclusión de contenidos transversales relacionados con la igualdad y la no discriminación.
-
-LUNES 18 DE JULIO DE 2022B.O.C.M. Núm. 169 Pág. 21
-BOCM-20220718-1
-BOLETÍN OFICIAL DE LA COMUNIDAD DE MADRIDBOCM
-6. Se diseñarán situaciones de aprendizaje que permitan afianzar en el alumnado el
-espíritu emprendedor, la creatividad, la autonomía, la iniciativa, el trabajo en equipo y la
-confianza en sí mismo.
-7. Se incorporarán en las programaciones didácticas contenidos transversales rela-
-cionados con la educación vial y de primeros auxilios, al objeto de prevenir accidentes.
-
-## Artículo 12
-Horario
-1. Con carácter general, los centros escolares de la Comunidad de Madrid que im-
-parten Educación Primaria adoptarán el horario lectivo que figura en el Anexo III del pre-
-sente Decreto.
-2. El horario lectivo dedicado a la impartición del conjunto de las áreas se fija en un
-mínimo de 22,5 horas semanales, a las que se sumarán un mínimo de 2,5 horas semanales
-repartidas en períodos de recreo diarios de 30 minutos.
-3. La regulación sobre la organización de los Programas Bilingües en centros públi-
-cos y en centros privados concertados respetará, para cada área, la dedicación horaria mí-
-nima determinada en el Anexo IV de este Decreto.
-4. A su vez, los centros que incorporen en su oferta educativa las áreas de Tecnolo-
-gía y Robótica y/o Segunda Lengua Extranjera en todos o alguno de los cursos de la etapa,
-respetarán el horario mínimo establecido en el citado Anexo IV, de tal forma que la dedi-
-cación horaria oscilará entre 0,7 5 y 3 horas semanales para los cursos de 1.
-o,2 . o,3 . o,4 . o
-y6 .o y entre 0,75 y 2 horas semanales en 5. o curso, con independencia de que se opte por
-incorporar una o ambas áreas en cada curso.
-5. El horario de las áreas se organizará en sesiones lectivas que tendrán una duración
-no inferior a 0,75 horas semanales, ni superior a una hora.
-
-## Artículo 13
-Proyectos integrado
-1. El proyecto integrado se concretará en la implementación de situaciones de apren-
-dizaje y actividades variadas que giren en torno a un tema de interés o eje común, de dura-
-ción variable. Permitirá la reorganización de espacios y tiempos durante su desarrollo, y po-
-drá integrar contenidos transversales y abarcar la movilización de contenidos de una o de
-varias áreas. Su carácter interdisciplinar posibilitará la participación conjunta de distintos
-grupos de alumnos y profesores en un mismo proyecto integrado en diferentes espacios de
-aprendizaje.
-2. En desarrollo del artículo 12.4 del Real Decreto 157/2022, de 1 de marzo, el por-
-centaje del horario lectivo del que podrán disponer los centros para el desarrollo de proyec-
-tos integrados se determina en un máximo de un 9 por ciento del total del horario lectivo
-semanal. En virtud de lo anterior, los centros podrán dedicar entre 0,7 5 y 2 horas semana-
-les de las 22,5 horas totales a la puesta en práctica de estos proyectos, dedicación horaria
-que podrá superarse proporcionalmente si se aumenta el total del horario lectivo estableci-
-do con carácter general.
-3. La dedicación horaria atribuida al desarrollo de cada uno de los proyectos integra-
-dos que se diseñen se concretará en los propios proyectos, y se reflejará en los documentos
-institucionales que correspondan.
-4. Los proyectos integrados se decidirán por parte del centro al inicio de cada curso
-escolar, y se incluirán en los documentos organizativos propios de programación o planifi-
-cación anual. A su vez, serán evaluados a su finalización.
-5. En desarrollo de este artículo, el titular de la consejería con competencia en mate-
-ria de educación regulará las condiciones y el procedimiento para que los centros puedan
-diseñar e implantar proyectos integrados, que se asentarán en los principios de autonomía
-de centro, equidad y observancia de la ordenación académica establecida en este Decreto.
-
-## Artículo 14
-Atención a las diferencias individuales
-1. Con el objetivo de garantizar la equidad y, por consiguiente, asegurar la inclusión,
-la intervención educativa en esta etapa pondrá especial énfasis en la atención individuali-
-zada, en la realización de diagnósticos precoces y en el establecimiento de mecanismos de
-apoyo y refuerzo que favorezcan la promoción de curso de todo el alumnado. El titular de
-
-LUNES 18 DE JULIO DE 2022Pág. 22 B.O.C.M. Núm. 169
-BOCM-20220718-1
-BOLETÍN OFICIAL DE LA COMUNIDAD DE MADRIDBOCM
-la consejería en materia de educación reglamentará al respecto, al objeto de que los centros
-puedan adoptar las medidas necesarias para responder a las necesidades educativas concre-
-tas de su alumnado, teniendo en cuenta sus diferentes ritmos y estilos de aprendizaje.
-2. Las medidas que se adopten por parte de los centros estarán orientadas a la conse-
-cución de las capacidades esperadas al término de la Educación Primaria de acuerdo con el
-perfil de salida, y a la consecución de los objetivos de la etapa. Estas medidas se adoptarán
-tan pronto como se detecten las dificultades de aprendizaje, y serán tanto organizativas
-como curriculares o metodológicas. Entre ellas podrán considerarse el apoyo educativo en
-el grupo ordinario, los agrupamientos flexibles o las adaptaciones del currículo.
-3. Se favorecerá la flexibilización de métodos pedagógicos en la enseñanza y eva-
-luación de la lengua extranjera, especialmente con aquel alumnado que presente dificulta-
-des en su comprensión y expresión. Igualmente, se establecerán las medidas más adecua-
-das para que los procesos asociados a la evaluación del aprendizaje de cada alumno se
-adapten a sus necesidades.
-
-## Artículo 15
-Alumnado con necesidades educativas especiales
-1. A fin de atender al alumnado con necesidades educativas especiales y permitir el
-máximo desarrollo posible de las competencias específicas y de las competencias clave, la
-consejería con competencia en materia de educación establecerá, mediante desarrollo regla-
-mentario, el procedimiento que enmarcará la realización de adaptaciones curriculares que
-se aparten significativamente de los elementos curriculares establecidos en este Decreto.
-2. En el caso de este alumnado, los referentes para la evaluación de los aprendizajes
-serán los criterios de evaluación establecidos en las adaptaciones curriculares que se reali-
-cen, sin que resulte impedimento para promocionar de ciclo o etapa.
-3. De conformidad con el artículo 17.1 del Real Decreto 157/2022, de 1 de marzo,
-se podrá flexibilizar el tiempo de permanencia en la etapa, de tal modo que cuando las cir-
-cunstancias personales del alumnado con necesidades educativas especiales lo aconsejen
-para la consecución de los objetivos de la enseñanza básica, se podrá prolongar un curso
-adicional su escolarización en Educación Primaria, sin perjuicio de lo establecido en el ar-
-tículo 20.2 de este Decreto. Estas circunstancias, que podrán ser permanentes o transitorias,
-deberán estar suficientemente acreditadas.
-4. El titular de la consejería competente en materia de educación regulará el proce-
-dimiento por el que se autorice la permanencia de un curso más en la etapa de Educación
-Primaria para el alumnado con necesidades educativas especiales.
-5. Entre las medidas de atención educativa que los centros podrán determinar para
-este alumnado, se atenderá a lo dispuesto en el capítulo III del título II de la Ley 1/2022,
-de 10 de febrero, Maestra de Libertad de Elección Educativa de la Comunidad de Madrid.
-
-## Artículo 16
-Alumnado con dificultades específicas de aprendizaje
-1. Se adoptarán las medidas necesarias para identificar al alumnado con dificultades
-específicas de aprendizaje y valorar de forma temprana sus necesidades.
-2. La identificación y la valoración de las necesidades educativas de este alumnado,
-así como la determinación de las propuestas de intervención, se realizará lo más temprano
-posible y en los términos que se determinen en el desarrollo reglamentario que se lleve a
-cabo por parte de la consejería con competencia en materia de educación.
-3. Entre las medidas de atención educativa a considerar por los centros, se incluirá la
-aplicación de las que garanticen el acceso a la evaluación del alumnado con dificultades de
-aprendizaje.
-
-## Artículo 17
-Alumnado con integración tardía en el sistema educativo español
-1. De acuerdo al artículo 19 del Real Decreto 157/2022, de 1 de marzo, la escolari-
-zación del alumnado que se incorpora tardíamente al sistema educativo español se realiza-
-rá atendiendo a sus circunstancias, conocimientos, edad e historial académico. Cuando pre-
-senten graves carencias de conocimiento de la lengua española, recibirán una atención
-específica que será, en todo caso, simultánea a su escolarización en los grupos ordinarios,
-con los que compartirán el mayor tiempo posible del horario lectivo semanal.
-
-LUNES 18 DE JULIO DE 2022B.O.C.M. Núm. 169 Pág. 23
-BOCM-20220718-1
-BOLETÍN OFICIAL DE LA COMUNIDAD DE MADRIDBOCM
-2. Los centros podrán determinar como medida específica para este alumnado, una
-vez incorporados al mismo y siempre que se observe un desfase en su nivel curricular de un
-ciclo o más, la escolarización en un curso inferior al que le correspondería por edad. Para
-este alumnado se adoptarán medidas específicas de atención educativa que faciliten su in-
-clusión y la recuperación de su desfase, al objeto de poder continuar con aprovechamiento
-sus estudios. En el caso de superar dicho desfase, se incorporarán al grupo que le corres-
-pondería por edad.
-
-## Artículo 18
-Alumnado con altas capacidades intelectuales
-1. De conformidad con lo dispuesto en el artículo 20 del Real Decreto 157/2022, de 1
-de marzo, la escolarización del alumnado con altas capacidades intelectuales se podrá fle-
-xibilizar, de tal forma que se pueda reducir un curso académico la duración de las enseñan-
-zas de Educación Primaria cuando se prevea que esta medida específica es la más adecua-
-da para el desarrollo de su equilibrio personal y socialización.
-2. A su vez, entre las medidas educativas específicas para este alumnado, los centros
-diseñarán e implementarán planes individualizados de enriquecimiento curricular, que con-
-sistirán en la planificación de actuaciones concretas en torno a objetivos, metodología y ac-
-tividades apropiadas a sus necesidades educativas, y contribuirán, con ello, al máximo de-
-sarrollo de sus capacidades.
-3. Los centros podrán proponer la participación del alumnado con necesidades edu-
-cativas específicas por altas capacidades intelectuales en el Programa de Enriquecimiento
-Educativo de alumnos con Altas Capacidades de la Comunidad de Madrid.
-
-## Artículo 19
-Evaluación
-1. La evaluación de los aprendizajes del alumnado en la etapa de Educación Prima-
-ria será global, continua y formativa. Tendrá en cuenta el grado de desarrollo de las com-
-petencias y su avance en el aprendizaje.
-2. En el contexto de la evaluación continua, cuando el avance de un alumno no sea el
-adecuado se establecerán las medidas de atención educativa que se precisen. Estas medidas
-deberán adoptarse tan pronto como se detecten las dificultades y estarán dirigidas a garanti-
-zar la adquisición de los aprendizajes imprescindibles para continuar el proceso educativo.
-3. El desarrollo reglamentario de las orientaciones para que los centros docentes pue-
-dan elaborar planes individualizados de refuerzo o de enriquecimiento curricular que per-
-mitan mejorar el nivel del alumnado que lo requiera corresponde a la consejería con com-
-petencia en materia educativa.
-4. Los centros docentes utilizarán, de manera generalizada, instrumentos de evalua-
-ción variados y adaptados a las distintas situaciones de aprendizaje que permitan la evalua-
-ción objetiva de todo el alumnado.
-5. El equipo docente, coordinado por el tutor del grupo, se responsabilizará de los re-
-sultados que, de forma colegiada y en una única sesión, se acordarán al finalizar cada cur-
-so escolar.
-6. Al terminar cada uno de los ciclos, el tutor del grupo emitirá un informe sobre el
-grado de desarrollo de las competencias clave por parte de cada alumno, indicando, en su
-caso, las medidas de refuerzo que se deben contemplar en el ciclo o etapa siguiente.
-7. Con el fin de garantizar la continuidad del proceso de formación del alumnado,
-cada alumno dispondrá al finalizar la etapa de un informe sobre su evolución y el grado de
-desarrollo de las competencias clave.
-8. Se garantizará el derecho del alumnado a una evaluación objetiva, y a que su de-
-dicación, esfuerzo y rendimiento sean valorados y reconocidos con objetividad, para lo que
-se establecerán los oportunos procedimientos.
-9. El profesorado evaluará tanto los aprendizajes del alumnado como los procesos de
-enseñanza y su propia práctica docente.
-
-## Artículo 20
-Promoción
-1. Al final de cada ciclo, el equipo docente adoptará las decisiones correspondientes
-sobre la promoción del alumnado de manera colegiada, tomando especialmente en consi-
-deración la información y las conclusiones del maestro tutor.
-
-LUNES 18 DE JULIO DE 2022Pág. 24 B.O.C.M. Núm. 169
-BOCM-20220718-1
-BOLETÍN OFICIAL DE LA COMUNIDAD DE MADRIDBOCM
-2. Entre los criterios a considerar para decidir la promoción, se tendrá en cuenta, con
-carácter prioritario, los resultados de la evaluación de los aprendizajes de las áreas, en es-
-pecial, los de las áreas de Lengua Castellana y Literatura, y Matemáticas. En el caso de la
-promoción de sexto curso, el perfil de salida de la etapa indicado en el Anexo I de este De-
-creto orientará las decisiones a tomar.
-3. El equipo docente decidirá la permanencia de un año más en el ciclo si se consi-
-dera necesaria para favorecer el desarrollo del alumno, siempre que se hayan aplicado con
-anterioridad medidas de atención educativa. En ese caso, se organizará un plan específico
-de refuerzo curricular para que, durante el curso de permanencia de un año más, pueda al-
-canzar el grado esperado de adquisición de los aprendizajes correspondientes.
-4. La decisión de no promoción solo se podrá adoptar una vez durante la etapa y ten-
-drá, en todo caso, carácter excepcional; podrá adoptarse una segunda vez en el caso del
-alumnado con necesidades educativas especiales, de acuerdo con lo estipulado en el artícu-
-lo 15.3.
-5. Los padres o tutores legales deberán participar y apoyar la evolución educativa de
-sus hijos o tutelados, así como conocer las decisiones del profesorado relativas a la evalua-
-ción de los aprendizajes y la promoción. Tendrán, además, derecho de acceso a los docu-
-mentos oficiales de evaluación y a las pruebas y documentos de las evaluaciones que se rea-
-licen, en la parte referida al alumno en calidad de interesado.
-
-## Artículo 21
-Documentos oficiales de evaluación
-1. Los documentos oficiales de evaluación en la etapa de Educación Primaria son las
-actas de evaluación, el expediente académico, el historial académico, el informe de final de
-etapa y el informe personal por traslado.
-2. El historial académico y el informe personal por traslado se consideran documen-
-tos básicos para garantizar la movilidad del alumnado.
-3. La consejería con competencia en materia de educación establecerá las caracterís-
-ticas de los informes de finales de ciclo y etapa a los que se refieren al artículo 19.6 y 19.7
-de este Decreto.
-4. Los documentos oficiales de evaluación recogerán la norma que regula el currícu-
-lo en la Comunidad de Madrid.
-
-## Artículo 22
-Actas de evaluación
-1. Las actas de evaluación se extenderán para cada uno de los cursos y se cerrarán al
-término del período lectivo. Comprenderán, al menos, la relación nominal del alumnado
-que compone el grupo, los resultados de la evaluación de los aprendizajes de las diferentes
-áreas y las decisiones sobre promoción y, en su caso, permanencia.
-2. Los resultados de la evaluación se expresarán en los términos siguientes: Insufi-
-ciente (IN) para las calificaciones negativas y Suficiente (SU), Bien (BI), Notable (NT) o
-Sobresaliente (SB) para las calificaciones positivas.
-3. Las actas de evaluación serán firmadas por el tutor del grupo y llevarán el visto
-bueno del director del centro.
-
-## Artículo 23
-Expediente académico
-1. El expediente académico recogerá, al menos, los datos de identificación del cen-
-tro y del alumno, así como la información relativa al proceso de evaluación de su aprendi-
-zaje. Se abrirá en el momento de su incorporación al centro y acopiará los resultados de la
-evaluación de las áreas, las decisiones de promoción, las medidas de atención educativa,
-entre ellas, las adaptaciones curriculares que se hayan aplicado.
-2. Cada centro docente custodiará y archivará los expedientes académicos del alum-
-nado que haya cursado estudios de Educación Primaria en el mismo.
-3. La inspección educativa supervisará los expedientes académicos del alumnado.
-
-LUNES 18 DE JULIO DE 2022B.O.C.M. Núm. 169 Pág. 25
-BOCM-20220718-1
-BOLETÍN OFICIAL DE LA COMUNIDAD DE MADRIDBOCM
-
-## Artículo 24
-Historial académico
-1. El historial académico llevará el visto bueno del director del centro y tendrá valor
-acreditativo de los estudios realizados. Recogerá, como mínimo, los datos identificativos
-del alumno, las áreas cursadas en cada uno de los años de escolarización, las medidas
-curriculares y organizativas aplicadas, los resultados de la evaluación, las decisiones sobre
-promoción y permanencia, la información relativa a los cambios de centro y las fechas en
-que se han producido los diferentes aspectos reseñados. Deberá figurar, asimismo, la indi-
-cación de las áreas que se han cursado con adaptaciones curriculares.
-2. El historial académico de Educación Primaria se entregará a los padres o tutores
-del alumno al finalizar esta etapa. Igualmente, se enviará una copia del mismo y del infor-
-me final de etapa al centro de educación secundaria en el que el alumno vaya a proseguir
-sus estudios, previa petición de este último.
-
-## Artículo 25
-Informe personal por traslado
-1. En el caso de que el alumno se traslade a otro centro antes de finalizar la etapa, el
-centro de origen remitirá al de destino, a petición de este, el informe personal por traslado,
-junto con una copia del historial académico. El centro receptor abrirá el correspondiente ex-
-pediente académico. La matriculación adquirirá carácter definitivo una vez recibida la do-
-cumentación anterior.
-2. El informe personal por traslado contendrá los resultados de las evaluaciones que
-se hubieran realizado, la descripción de la aplicación, en su caso, de las medidas curricu-
-lares y organizativas pertinentes, y todas aquellas observaciones que se consideren oportu-
-nas acerca del avance general del alumno.
-
-## Artículo 26
-Autenticidad, seguridad y confidencialidad
-1. El titular de la consejería competente en materia de educación establecerá, me-
-diante un desarrollo reglamentario posterior, los procedimientos oportunos que garanticen
-la autenticidad de los documentos oficiales de evaluación, la integridad de los datos reco-
-gidos en los mismos y su supervisión y custodia, así como su conservación y traslado en
-caso de supresión o extinción del centro.
-2. En lo referente a la obtención de los datos personales del alumnado, a la cesión de
-los mismos de unos centros a otros y a la seguridad y confidencialidad de estos, se estará a
-lo dispuesto en la legislación vigente en materia de protección de datos de carácter perso-
-nal y, en todo caso, a lo establecido en la disposición adicional vigesimotercera de la Ley
-Orgánica 2/2006, de 3 de mayo.
-3. Los documentos oficiales de evaluación y procedimientos de validación asociados,
-descritos en los apartados anteriores, podrán sustituirse por otros equivalentes realizados por
-medios electrónicos, informáticos o telemáticos, siempre que quede garantizada su autenti-
-cidad, integridad, conservación, y se cumplan las garantías y los requisitos establecidos por
-la Ley Orgánica 3/2018, de 5 de diciembre, de Protección de Datos Personales y garantía de
-los derechos digitales, por la Ley 39/2015, de 1 de octubre, del Procedimiento Administra-
-tivo Común de las Administraciones Públicas, y por la normativa que las desarrolla.
-4. El expediente electrónico del alumnado estará constituido, al menos, por los datos
-contenidos en los documentos oficiales de evaluación, y contendrá la estructura y formato que
-determine el Ministerio con competencia educativa, según lo dispuesto en el artículo 30.5 del
-Real Decreto 157/2022, de 1 de marzo.
-
-## Artículo 27
-Evaluación de diagnóstico
-En el cuarto curso de Educación Primaria todos los centros realizarán una evaluación
-de diagnóstico de las competencias adquiridas por su alumnado, de carácter informativo,
-formativo y orientador para los propios centros, el profesorado, el alumnado y sus familias
-o tutores legales, y para el conjunto de la comunidad educativa.
-
-LUNES 18 DE JULIO DE 2022Pág. 26 B.O.C.M. Núm. 169
-BOCM-20220718-1
-BOLETÍN OFICIAL DE LA COMUNIDAD DE MADRIDBOCM
-
-## Artículo 28
-Autonomía de los centros
-1. Los centros dispondrán de autonomía pedagógica, de organización y de gestión,
-en los términos recogidos en la Ley Orgánica 2/2006, de 3 de mayo, en las normas que la
-desarrollan, así como en lo dispuesto en este Decreto y en su normativa de desarrollo.
-2. Los centros decidirán su oferta formativa y fijarán la concreción del currículo. En
-virtud de ello, considerada la disposición transitoria primera del Real Decreto 157/2022,
-de 1 de marzo, gozan de autonomía pedagógica para decidir e incorporar a sus planes de es-
-tudio las áreas de Segunda Lengua Extranjera y/o Tecnología y Robótica, en función de los
-recursos disponibles. En este caso, se ajustarán a los límites de dedicación horaria determi-
-nados en el Anexo IV de este Decreto.
-3. Los contenidos del área de Tecnología y Robótica se presentarán al alumnado,
-preferentemente, por el profesorado que imparta, a su vez, el área de Ciencias de la Natu-
-raleza. No obstante, el área de Tecnología y Robótica también podrá impartirse por el res-
-to del profesorado del centro que cuente con la debida especialización o habilitación para
-impartir docencia en Educación Primaria.
-4. Sin perjuicio de lo dispuesto en el apartado 2 de este artículo, los centros podrán
-modificar la dedicación horaria de las áreas establecidas en el Anexo III, de acuerdo con la
-regulación que determine el titular de la consejería competente en materia de educación. En
-todo caso, las modificaciones horarias que a tal efecto se autoricen respetarán el horario mí-
-nimo que se dicta en el Anexo IV para cada una de esas áreas.
-5. Si se dispone de los recursos necesarios y se cumplen los requisitos reseñados en
-el artículo 9 de este Decreto, los centros tienen autonomía para impartir las áreas o bloques
-del currículo en una lengua extranjera; esta decisión se asentará en el principio de continui-
-dad en el tiempo.
-6. A su vez, el titular de la consejería con competencia en materia de educación, me-
-diante desarrollo reglamentario, favorecerá la elaboración de modelos abiertos de progra-
-mación docente y de materiales didácticos que atiendan las distintas necesidades del alum-
-nado y del profesorado.
-7. Los centros tendrán autonomía para organizar los espacios y los tiempos, y para
-promover y acordar metodologías que favorezcan la enseñanza personalizada y mejoren los
-resultados de aprendizaje de todo el alumnado.
-8. Para garantizar la continuidad del proceso de formación y una transición y evolu-
-ción positiva desde la Educación Primaria a la Educación Secundaria Obligatoria, los cen-
-tros establecerán mecanismos para favorecer la coordinación entre ambas etapas.
-
-## Artículo 29
-Calendario escolar
-El calendario escolar, que fijará anualmente la consejería con competencia en materia
-educativa, comprenderá un mínimo de 175 días lectivos para la etapa de Educación Primaria.
-
-## DISPOSICIÓN ADICIONAL ÚNICA
-Régimen de conciertos educativos
-1. El régimen previsto en el Decreto 3/2021, de 13 de enero, del Consejo de Gobier-
-no, por el que se modifica el Decreto 31/2019, de 9 de abril, por el que se regula el régimen
-de conciertos educativos en la Comunidad de Madrid, será de aplicación a todos los con-
-ciertos educativos vigentes en el momento de la entrada en vigor del mencionado Decreto,
-con independencia de que tuvieran un plazo de vigencia diferente al ordinario fijado me-
-diante acuerdo entre la administración y los centros educativos, salvo renuncia expresa de
-su titular, manifestada en el plazo de quince días hábiles a contar desde la entrada en vigor
-de este Decreto.
-2. De forma análoga, aquellos convenios suscritos con centros privados por acuer-
-dos específicos con la administración educativa para la financiación de enseñanzas poso-
-bligatorias serán renovados, con la conformidad de los titulares, por el período que corres-
-ponda, de modo que su vigencia final abarque la totalidad del actual período de conciertos.
-
-LUNES 18 DE JULIO DE 2022B.O.C.M. Núm. 169 Pág. 27
-BOCM-20220718-1
-BOLETÍN OFICIAL DE LA COMUNIDAD DE MADRIDBOCM
-
-## DISPOSICIÓN TRANSITORIA PRIMERA
-Aplicabilidad del Decreto 89/2014, de 24 de julio, del Consejo de Gobierno,
-por el que se establece para la Comunidad de Madrid el Currículo
-de la Educación Primaria
-1. Lo dispuesto en el Decreto 89/2014, de 24 de julio, del Consejo de Gobierno, por
-el que se establece para la Comunidad de Madrid el currículo de la Educación Primaria, y
-su desarrollo, será de aplicación en los cursos segundo, cuarto y sexto de la etapa durante
-el año académico 2022-2023.
-2. No obstante lo anterior, los estándares de aprendizaje evaluables que figuran en
-los Anexos del citado Decreto 89/2014, de 24 de julio, tendrán carácter orientativo para los
-cursos segundo, cuarto y sexto durante el curso escolar 2022-2023.
-
-## DISPOSICIÓN TRANSITORIA SEGUNDA
-Aplicabilidad del Real Decreto 984/2021, de 16 de noviembre,
-por el que se regulan la evaluación y la promoción en la Educación Primaria,
-así como la evaluación, la promoción y la titulación en la Educación Secundaria
-Obligatoria, el Bachillerato y la Formación Profesional
-De acuerdo con la disposición transitoria segunda del Real Decreto 157/2022, de 1 de
-marzo, el Real Decreto 984/2021, de 16 de noviembre, por el que se regulan la evaluación
-y la promoción en la Educación Primaria, así como la evaluación, la promoción y la titula-
-ción en la Educación Secundaria Obligatoria, el Bachillerato y la Formación Profesional,
-se aplicará, en su integridad, a los cursos de segundo, cuarto y sexto de Educación Prima-
-ria durante el curso académico 2022-2023.
-
-## DISPOSICIÓN TRANSITORIA TERCERA
-Vigencia de la modificación horaria de las áreas
-Aquellos centros que al amparo de la Orden 3814/2014, de 29 de diciembre, de la Con-
-sejería de Educación, Juventud y Deporte, por la que se desarrolla la autonomía de los centros
-educativos en la organización de los planes de estudio de Educación Primaria en la Comuni-
-dad de Madrid, hubieran aplicado con anterioridad al comienzo del curso escolar 2022-2023
-modificaciones sobre el horario lectivo a las que se refiere el artículo 3 de la citada orden para
-los cursos primero, tercero y quinto de Educación Primaria, podrán mantener, con carácter
-transitorio hasta nueva regulación normativa en sustitución de la anterior, esa dedicación ho-
-raria en dichos cursos, siempre que se respete el horario mínimo establecido en el Anexo IV
-del presente Decreto.
-
-## DISPOSICIÓN TRANSITORIA CUARTA
-Vigencia de otras normas sobre la materia
-En las materias para cuya regulación remite el presente Decreto a ulterior desarrollo
-normativo, en tanto no sea dictado, serán de aplicación, en cada caso, las normas vigentes a
-la fecha de entrada en vigor de este Decreto, siempre que no se opongan a lo dispuesto en él.
-
-## DISPOSICIÓN DEROGATORIA ÚNICA
-Derogación normativa
-De manera expresa, queda derogado el Decreto 89/2014, de 24 de julio, del Consejo
-de Gobierno, por el que se establece para la Comunidad de Madrid el currículo de la Edu-
-cación Primaria, sin perjuicio de lo establecido en la disposición transitoria primera de este
-Decreto.
-
-LUNES 18 DE JULIO DE 2022Pág. 28 B.O.C.M. Núm. 169
-BOCM-20220718-1
-BOLETÍN OFICIAL DE LA COMUNIDAD DE MADRIDBOCM
-
-## DISPOSICIÓN FINAL PRIMERA
-Calendario de implantación
-Lo dispuesto en este Decreto se implantará para los cursos primero, tercero y quinto
-en el curso escolar 2022-2023, y para los cursos de segundo, cuarto y sexto en el año aca-
-démico 2023-2024.
-
-## DISPOSICIÓN FINAL SEGUNDA
-Habilitación para el desarrollo normativo
-Se habilita al titular de la consejería con competencias en materia de educación para dic-
-tar cuantas disposiciones sean necesarias para el desarrollo de lo dispuesto en este Decreto.
-
-## DISPOSICIÓN FINAL TERCERA
-Entrada en vigor
-El presente Decreto entrará en vigor el día siguiente al de su publicación en el B OLE-
-TÍN OFICIAL DE LA COMUNIDAD DE MADRID.
-Madrid, a 13 de julio de 2022.
-El Vicepresidente, Consejero de Educación y Universidades,
-ENRIQUE OSSORIO CRESPO
-La Presidenta,
-ISABEL DÍAZ AYUSO
-
-LUNES 18 DE JULIO DE 2022B.O.C.M. Núm. 169 Pág. 29
-BOCM-20220718-1
-BOLETÍN OFICIAL DE LA COMUNIDAD DE MADRIDBOCM
-
-## ANEXO I 
-Perfil de salida 
- 
-El perfil de salida al término de la Educación Primaria es la herramienta que permite la identificación del nivel de aprendizaje esperado 
-en el alumnado al completar esta fase de su itinerario formativo. Se concibe como el elemento que debe fundamentar las decisiones 
-curriculares, así como las orientaciones metodológicas que guían la práctica educativa. Debe ser, además, el referente último de la 
-evaluación de los aprendizajes del alumnado y ha de considerarse en  la toma de decisiones sobre la promoción a la etapa de 
-Educación Secundaria Obligatoria.  
-A cada una de las competencias clave se asocian unos descriptores operativos que orie ntan sobre las capacida des que debiera 
-adquirir el alumnado al finalizar la etapa. Estos descriptores han sido el referente para determinar las competencias específicas de 
-cada área; la correlación entre los descriptores operativos y las competencias específicas conlle va que, de la valoración de estas 
-últimas a través de los criterios de evaluación asociados, pueda concluirse el grado de adquisición de las competencias clave y, por 
-tanto, la consecución de los objetivos previstos para la etapa de Educación Primaria.  
-En el anexo I del Real Decreto 157/2022, de 1 de marzo, se describen las competencias clave y los descriptores operativos que, con 
-carácter prescriptivo, se exigen al término de la enseñanza básica. A continuación, para cada una de las citadas competencias, se 
-presentan los descriptores op erativos que orientan sob re el grado de desarro llo competencial esperado al  término de la etapa de  
-Educación Primaria en la Comunidad de Madrid: 
- 
-a) Competencia en comunicación lingüística (CCL) 
-Descriptores operativos 
-CCL1. Expresa hecho s, conceptos, pensamientos, opinione s o sentimientos de forma oral, escri ta, signada o mul timodal, con 
-claridad y adecuación a diferentes contextos cotid ianos de su entorno personal,  social y educativo , y participa con respeto en 
-interacciones de comunicación , tanto para intercambiar in formación y crear conocimiento como para construir vínculos 
-personales.  
-CCL2. Comprende, interpreta y valora textos orales, escritos, signados o multimodales sencillos de los ámbitos personal, social, 
-y educativo, con acompañamiento puntual, para participar en contextos cotidianos para construir conocimiento.  
-CCL3. Localiza, selecciona y contrasta, con el debido acompa ñamiento, información sencilla procedente de dos o más fuentes, 
-evaluando su fiabilidad y utilidad en función de los objetivos de lectura, y la integra y transforma en conocimiento para comunicarla 
-adoptando un punto de vista creativo, crítico y personal.  
-CCL4. Lee obras diversa s adecuadas a su desarrollo madurativo, seleccionando aquellas qu e mejor se ajustan a sus gustos e 
-intereses; reconoce el patrimonio literario como fuente de disfrute y aprendizaje; y moviliza su experiencia personal y lectora para 
-construir y compartir su interpretación de las obras y para crear textos de intención literaria a partir de modelos sencillos.  
-CCL5. Pone sus prácticas comunicativas al servicio de la convivencia, la  gestión dialogada de los co nflictos y la igualdad de 
-derechos de todas las personas, para favorecer un uso eficaz y no discriminatorio de los diferentes sistemas de comunicación.  
- 
-b) Competencia plurilingüe (CP)  
-Descriptores operativos 
-CP1. Usa, al menos, una le ngua, además de la lengua propia, en su caso, y el español, p ara responder a necesidades 
-comunicativas sencillas y prede cibles, de manera ad ecuada tanto a su desarrollo e inte reses como a situaci ones y contextos 
-cotidianos de los ámbitos personal, social y educativo.  
-CP2. A partir de sus experiencias, reconoce las diferentes lenguas y experimenta estrategias que, de manera guiada, le permiten 
-realizar transferencias sencill as entre distintas lenguas para  comunicarse en contextos cotidia nos y ampliar su repertorio  del 
-lenguaje.  
-CP3. Conoce y respeta la variedad de las lenguas presentes en su entorno, reconociendo y comprendiendo su valor como factor 
-de diálogo, para mejorar la convivencia.  
- 
-
-LUNES 18 DE JULIO DE 2022Pág. 30 B.O.C.M. Núm. 169
-BOCM-20220718-1
-BOLETÍN OFICIAL DE LA COMUNIDAD DE MADRIDBOCM
-c) Competencia matemática y competencia en ciencia, tecnología e ingeniería (STEM)  
-Descriptores operativos 
-STEM1. Utiliza, de manera guiada, algunos métodos inductivos y deductivos propios del razonamiento matemático en situaciones 
-conocidas, y selecciona y emplea algunas estrategias para resolver problemas reflexionando sobre las soluciones obtenidas. 
-STEM2. Utiliza el pensamiento científico para entender y explicar algunos de los fenómenos que ocurren a su alrededor, con uso 
-de herramientas e instrumentos adecuados, planteándose preguntas y realizando experimentos sencillos de forma guiada. 
-STEM3. Realiza, de forma guiada, proyectos, diseñando, fabricando y evaluando diferentes prototipos o modelos, adaptándose 
-ante la incertidumbre, para generar un producto creativo con un objetivo concreto, procurando la participación de todo el grupo.  
-STEM4. Interpreta y transmite los elementos más relevantes de  algunos métodos y resulta dos científicos, matemáticos y 
-tecnológicos de forma clara y vera z, utilizando la terminología cie ntífica apropiada, en dif erentes formatos (dibujos, diagrama s, 
-gráficos, símbolos…) y aprovechando de forma crítica y responsabl e la cultura digital pa ra compartir y construir nuevos 
-conocimientos. 
-STEM5. Participa en acciones fundamentadas científicamente para promover la salud y preservar el medio ambiente y los seres 
-vivos.  
- 
-d) Competencia digital (CD)  
-Descriptores operativos 
-CD1. Realiza búsquedas gui adas en internet y ha ce uso de estrategias sen cillas para el tratamiento digita l de la información 
-(palabras clave, sel ección de información relev ante, organización de da tos...) con una actitud crítica  sobre los contenidos 
-obtenidos. 
-CD2. Crea, integra y reelabora  contenidos digita les en distintos formatos (texto, tabla , imagen, audio, vídeo, programa 
-informático...) mediante el uso de diferentes herramientas digitales para expresar ideas, sentimientos y conocimientos, respetando 
-la propiedad intelectual y los derechos de autor de los contenidos que reutiliza.  
-CD3. Participa en actividades y/o proyectos escolares mediante el  uso de herramientas o plataformas virtuales que le permitan 
-construir nuevo conocimiento, comunicarse, trabajar en grupo, y compartir datos y contenidos en entornos digitales restringidos 
-y supervisados de manera segura y responsable ante su uso.  
-CD4. Conoce los rie sgos y adopta, con la  orientación del docen te, medidas preventivas al  usar las tecnolog ías digitales para 
-proteger los dispositivos, los datos personales, la salud y el medioambiente, y se inicia en la adopción de hábitos saludables de 
-las mismas.  
-CD5. Se inicia en el desarrollo de soluciones digitales sencillas y sostenible s (reutilización de materia les tecnológicos, 
-programación informática por bloques, robótica educativa… ) para resolver pro blemas concretos o reto s propuestos de manera 
-creativa, solicitando ayuda en caso necesario.  
- 
-e) Competencia personal, social y de aprender a aprender (CPSAA)  
-Descriptores operativos 
-CPSAA1. Es consciente de las propias emociones, ideas y comportamientos personales y emplea estrategias para gestionarlas 
-en situaciones de tensión o conflicto, adaptándose a los cambios y armonizándolos para alcanzar sus propios objetivos.  
-CPSAA2. Conoce los riesgos más relevantes y los principales activos para la salud, adopta estilos de vida saludable, y detecta y 
-busca apoyo ante situaciones negativas. 
-CPSAA3. Reconoce y respeta las emociones y experiencias de los demás, participa activamente en el trabajo en grupo, asume 
-las responsabilidades individuales asignadas y emplea estrategias dirigidas a la consecución de objetivos compartidos.  
-CPSAA4. Reconoce el valor del esfuerzo y la dedicación personal para la mejora de su aprendizaje y adopta posturas críticas en 
-procesos de reflexión guiados.  
-CPSAA5. Planea objetivos a corto plazo, utiliza estrategias de aprendizaje autónomo y participa en procesos de autoevaluación 
-y evaluación conjunta, reconociendo sus limitaciones y sabiendo buscar ayuda en el proceso de construcción del conocimiento.  
- 
-
-LUNES 18 DE JULIO DE 2022B.O.C.M. Núm. 169 Pág. 31
-BOCM-20220718-1
-BOLETÍN OFICIAL DE LA COMUNIDAD DE MADRIDBOCM
-f) Competencia ciudadana (CC) 
-Descriptores operativos 
-CC1. Entiende los procesos históricos y sociales más relevantes relativos a su identidad y cultura, reflexiona sobre las normas de 
-convivencia, y las aplica de manera constructiva, dialogante e inclusiva en cualquier contexto. 
-CC2. Participa en actividades de su entorno cercano, en la toma de decisiones y la resolución de los conflictos de forma dialogada 
-y respetuosa con los principios y valores de la Unión Europea y la Constitución Española, los derechos humanos y de la infancia, 
-el valor a la diversidad y de la ig ualdad entre hombres y muj eres, la cohesión soc ial y los Objetivos de Desarrollo Sostenible 
-acordados por la ONU. 
-CC3. Reflexiona y dialoga sobre valores y problemas de la actualidad, comprendiendo la necesidad de respetar diferentes culturas 
-y creencias, cuidar el entorno, de rechazar prejuicios, y de oponerse a cualquier forma de discriminación y violencia. 
-CC4. Comprende las relaciones entre las acciones humanas y el entorno, y se inicia en la adopción de estilos de vida adecuados, 
-para conservar la biodiversidad.  
- 
-g) Competencia emprendedora (CE)  
-Descriptores operativos 
-CE1. Reconoce necesidades inherentes a los retos que debe afrontar y elabora ideas originales, utilizando destrezas creativas y 
-tomando conciencia de las consecuencias y efectos qu e las ideas pudieran gene rar en el entono, pa ra proponer soluciones 
-valiosas que respondan a las necesidades detectadas.  
-CE2. Identifica fortalezas y de bilidades propias utilizando  estrategias de autoconoci miento, y se inicia en  el conocimiento de 
-elementos económicos y financieros básicos, aplicándolos a situaciones y problemas de la vida cotidiana.  
-CE3. Crea ideas planifica tareas, colabora con otros y en equipo, valora el proceso realizado y el resultado obtenido para llevar a 
-cabo iniciativas de emprendimiento, y considera la experiencia como una oportunidad para aprender. 
- 
-h) Competencia en conciencia y expresión culturales (CCEC)  
-Descriptores operativos 
-CCEC1. Reconoce y ap recia los aspectos fundamen tales del patrimonio cultural y artí stico, comprendiendo las diferencias 
-culturales y la necesidad de respetarlas. 
-CCEC2. Reconoce especificidades e intencionalidades de la s manifestaciones artísticas y culturales más destacadas del 
-patrimonio, y se interesa  por ellas, identificando los medios y soportes, así como los lenguajes y elementos técnicos que las 
-caracterizan.  
-CCEC3. Expresa ideas, opiniones, sentimientos y emociones de forma creativa, empleando distin tos lenguajes artísticos y 
-culturales, integrando su propio cuerpo, interactuando con el entorno y desarrollando sus capacidades afectivas.  
-CCEC4. Experimenta de forma creativa con diferentes medios y soportes, y diversas técnicas plásticas, visuales, audiovisuales, 
-sonoras o corporales, para elaborar propuestas artísticas y culturales. 
- 
-
-LUNES 18 DE JULIO DE 2022Pág. 32 B.O.C.M. Núm. 169
-BOCM-20220718-1
-BOLETÍN OFICIAL DE LA COMUNIDAD DE MADRIDBOCM
-
-## ANEXO II 
-Áreas de Educación Primaria 
-Con independencia de lo establecido en el presente anexo, el desarrollo curricular que compete a los centros educativos incorporará 
-los elementos curriculares de la s enseñanzas mínimas establecidas en el Real Decreto  157/2022, de 1 de marzo. Los términos: 
-perspectiva de género, sexista, ecosocial, ecodependencia y socioafectivo, entre otros, incluidos en el Real Decreto 157/2022, de 1 
-de marzo, serán de aplicación de acuerdo con lo dispuesto en el apartado 4 del artículo 6 de la Ley Orgánica de Educación 2/2006, 
-de 3 de mayo, de Educación. 
-Ciencias de la Naturaleza 
-El área de Ciencias de la Naturaleza en Educación Primaria tiene como finalidad que los alumnos desarrollen actitudes responsables 
-y respetuosas con el mundo en el que viven.  
-Además, los retos del mundo actual demandan una educación orientada a que el alumnado comprenda los grandes problemas a los 
-que nos enfrentamos y adquiera conceptos, destrezas y actitude s relacionados con el uso segu ro y fiable de las fuentes de 
-información y con el cuidado del medio ambiente. 
-Es por ello que el desarrollo de una cultura científica basada en la indagación y formulación de hipótesis y búsqueda de respuestas 
-acertadas, forma una ciudadanía  capaz de tomar deci siones ante diferentes situa ciones. Proporcionar un  aprendizaje bien 
-estructurado al alumnado le ayudará a comprender mejor el mundo en el que vive. El conocimiento de la biología de los ecosistemas 
-se tratará en esta área. 
-Otro de los ámbitos que conforman esta área se refiere a la digitalización. Es necesario que en el entorno de aprendizaje se asienten 
-las bases de un uso seguro, eficaz y responsable de la tecnología. El currículo del área se organiza en torno a la adquisición gradual 
-de las competencias esp ecíficas que se definen para la etapa. Para cada uno de  los ciclos se descri ben criterios de evaluación 
-asociados a cada competencia específica, así como contenidos relacionados.  
-La primera de las compe tencias básicas aspira a preparar al alumnado para desenvolverse y utilizar los dispositivos y recursos 
-digitales para su aprendizaje, y que estos se lleven cabo de manera segura y responsable. La segunda competencia, partiendo de 
-la curiosidad del al umnado, se orienta a utilizar di ferentes técnicas e instrume ntos del pensamiento cie ntífico para interpreta r y 
-explicar hechos y fenóme nos del mundo que le rodea. La tercera competenci a se centra en la el aboración de proyectos 
-interdisciplinares basados en actividades para dar respuesta a un reto o problema del entorno, utilizando técnicas propias del 
-pensamiento de diseño o el pensamiento co mputacional. La cuarta competencia va dirigida a tomar con ciencia del cuerpo, de las 
-emociones y sentimientos, desarrollando hábitos que favorezcan la salud. La quinta competencia se orienta ha cia el conocimiento 
-de los diferentes eleme ntos y sistemas que forman el me dio natural, social y cultural, esta bleciendo relaciones entre los mismo s, 
-como primer paso para comprender y valorar su riqueza. Y, por último, la sexta competencia se centra en el análisis de las causas 
-y consecuencias de la intervención humana en el entorno. 
-Respecto a los contenidos, se diferencian dos bloques, el de «Cultura científica» y el de «Tecnología y digitalización». El bloque A, 
-«Cultura científica», se centra en los temas relacionados con el ámbito científico y la investigación que permiten en el alumnado el 
-desarrollo de destrezas y estrategias propias del pensamiento científico, lo qu e favorecerá la indagación y el descubrimiento d el 
-entorno cercano y el reconocimiento de l valor de la ciencia en nuestra  sociedad. A su vez, este bloque  envuelve lo s contenidos 
-relacionados con la salud y el funcionamiento del cuerpo humano, las relaciones entre los seres vivos, y de estos con el entorno, así 
-como los relacionados con el efecto de las fuerzas y la energía sobre la materia. 
-Por su parte, el bloque B, «Tecnología y di gitalización», se centra en el desarrollo de las estrate gias propias del pensamiento de 
-diseño y pensamiento computacional para que el alumnado maneje, de forma básica, herramientas y recursos digitales como medios 
-de aprendizaje, y pueda comunicarse en un entorno digital de manera responsable. Las competencias específicas de esta área se 
-identifican con las competencias 1, 2, 3, 4, 5 y 6 reconocidas para el  área de Conocimiento del Medio Natural, Social y Cultural en 
-el Real Decreto 157/2022, de 1 de marzo. Las competencias específicas 5 y 6 se comparten co n el área de Ciencias Sociales, si 
-bien en el área de Ciencias de la Naturaleza se centran en capacidades relacionadas con el entorno natural.  
-A continuación, se relacion an los criterios de evaluación asociados a cada una de las seis competencia s y los contenidos 
-relacionados para cada ciclo. 
- 
-
-LUNES 18 DE JULIO DE 2022B.O.C.M. Núm. 169 Pág. 33
-BOCM-20220718-1
-BOLETÍN OFICIAL DE LA COMUNIDAD DE MADRIDBOCM
-PRIMER CICLO 
-COMPETENCIAS ESPECÍFICAS CRITERIOS DE EVALUACIÓN 
-1. Utilizar dispositivos y recursos digitales de forma 
-segura, responsable y eficiente, para buscar 
-información, comunicarse y trabajar de manera 
-individual, en equipo y en red para reelaborar y crear 
-contenido digital. 
-1.1. Utilizar dispositivos y recursos digitales de forma segura.  
-1.2. Iniciar la búsqueda guiada de in formación de forma i ndividual o 
-en equipo , contrastando la información  de algunas fuentes 
-seleccionadas. 
-2. Plantear y dar respuesta a cuestiones científicas 
-sencillas, utilizando diferentes técnicas, instrumentos 
-y modelos propios del pensamiento científico, para 
-interpretar y explicar hechos y fenómenos que 
-ocurren en el medio.  
-2.1. Mostrar curiosidad por objetos, he chos y fenómenos cercanos, 
-formulando preguntas con base en obse rvaciones guiadas y 
-realizando predicciones. 
-2.2. Buscar información sencilla de diferentes fuentes seguras y 
-fiables de forma guiada, utilizándola en investigaciones 
-relacionadas con el medio.  
-2.3. Participar en experimentos pa utados o guiados, cuando la 
-investigación lo requiera, utilizando técnica s sencillas de 
-indagación, empleando de forma segura los in strumentos y 
-registrando las observaciones de forma clara y objetiva. 
-2.4. Proponer respuestas a las preguntas planteadas, comparando la 
-información y los resultados obten idos con las predicciones 
-realizadas. 
-2.5. Comunicar de forma oral o gráfica el resultado de la s 
-investigaciones, explica ndo los pasos genera les seguidos con 
-ayuda de un guion. 
-3. Resolver problemas a través de proyectos de diseño 
-y de la aplicación del pensamiento computacional, 
-generando nuevos productos según necesidades. 
-3.1. Realizar, de forma guiada, un producto final sencillo que dé 
-solución a un problema de necesidad, uso y diseño, probando en 
-equipo diferentes prototipos y utilizando de forma segura los 
-materiales adecuados. 
-3.2. Presentar de forma oral o gráfica el producto final de los 
-proyectos de diseño, explicando lo s pasos seguidos con ayuda 
-de un guion. 
-3.3. Mostrar interés por el pensamiento computacional, participando 
-en la resolución guiada de problemas sencillos de programación. 
-4. Conocer y tomar conciencia del cuerpo, así como de 
-las emociones y sentimientos propios y ajenos, 
-aplicando el conocimiento científico para favorecer la 
-salud física y mental. 
-4.1. Identificar las emocion es propias y las de los demás, 
-entendiendo las relaciones familiares y escola res a las que 
-pertenecen y reconociendo l as acciones que favorezcan estas 
-relaciones.  
-4.2. Reconocer estilos de vida saludables valo rando la importancia 
-de una alimentación variada, equilibrada y saludable, la higiene, 
-el ejercicio físico, el contacto con la naturaleza, el descanso y el 
-uso adecuado de las tecnologías. 
-5. Identificar las características de los diferentes 
-elementos o sistemas del medio natural, analizando 
-su organización y propiedades, y estableciendo 
-relaciones entre los mismos, para reconocer el valor 
-del patrimonio natural, conservarlo y mejorarlo. 
-5.1. Reconocer las características, la organización y las propiedades 
-de los elementos del me dio natural, a través de  la indagación, 
-utilizando diversas herramie ntas y procesos ade cuados de 
-conocimiento y descubrimiento de forma pautada. 
-5.2. Reconocer conexion es pautadas, sencil las y directas entre 
-diferentes elementos del medio n atural, social y cultural por 
-medio de la observación, la manipulación y la experimentación.  
-5.3. Mostrar actitudes de respeto ante el patrimonio natural.  
- 
- 
-
-LUNES 18 DE JULIO DE 2022Pág. 34 B.O.C.M. Núm. 169
-BOCM-20220718-1
-BOLETÍN OFICIAL DE LA COMUNIDAD DE MADRIDBOCM
-COMPETENCIAS ESPECÍFICAS CRITERIOS DE EVALUACIÓN 
-6. Identificar las causas y consecuencias de la 
-intervención humana en el entorno, desde los puntos 
-de vista social, económico, cultural, tecnológico y 
-ambiental, para mejorar la capacidad de afrontar 
-problemas, buscar soluciones y actuar en su 
-resolución, fomentando el respeto, el cuidado y la 
-protección de las personas y del planeta. 
-6.1. Mostrar estilos de vida adecuados y valorar la importancia del 
-respeto, los cuidados y la protección de los elementos y seres del 
-planeta, identificando la relación de la vida de las personas con 
-sus acciones sobre los elementos y recursos del medio como el 
-suelo y el agua. 
-6.2. Identificar algún hito tecnológico de algunas de las etapas de la 
-historia de la humanidad. 
-CONTENIDOS 
-BLOQUES CONOCIMIENTOS, DESTREZAS Y ACTITUDES 
-A. Cultura científica 
-Iniciación en la 
-actividad científica 
-- Procedimientos de indagación y formula ción de hipót esis adecuados a las 
-necesidades de la in vestigación (obser vación en el tiemp o y espacio, 
-identificación y clasificación, búsqueda de patrones...). 
-- Instrumentos y dispositivo s apropiados para realiz ar observaciones y 
-mediciones, usados con segurid ad y de acuerdo con la s necesidades de las 
-diferentes investigaciones. 
-- Vocabulario científico básico. 
-- Curiosidad e iniciativa en la actividad científica.  
-- Las profesiones relacionadas con la ciencia y la tecnología. Referentes científicos.  
-- Importancia del cuidado del planeta.  
-La vida en nuestro 
-planeta 
-- Necesidades básicas de los seres vivos, incluido el ser humano, y la diferencia 
-con los objetos inertes. 
-- Adaptación de los seres vivos a su hábitat. Definición de hábitat. 
-- Clasificación e identificació n de los seres vivos, in cluido el ser humano, de 
-acuerdo con sus características observables. 
-/g120 Identificación de las partes principales del cu erpo humano y su 
-funcionamiento. 
-/g120 Descripción, de forma genera l, de las funcion es de nutrición, relación y 
-reproducción en el ser humano. 
-/g120 El reino de los animales. Características y clasificación: 
-/g16 Identificación de la s característic as que diferencian a los animales de 
-otros seres vivos. 
-/g16 Diferenciación entre animales domésticos (perro, gato…) y salvajes (león, 
-tigre…). Observación e identificación de algunos animales de estos grupos. 
-/g16 Clasificación de los animales según el medio en el cual habitan: terrestres, 
-acuáticos, aéreos. Identificación de algunos animales de estos grupos. 
-/g16 Identificación de las cara cterísticas que diferencian a los animales 
-vertebrados de los invertebrados. 
-/g16 Conocimiento de las características generales de los distintos grupos de 
-animales vertebrados: mamíferos, aves, reptiles, anfibios y peces. 
-/g16 Conocimiento de l as características de los grupos de animales 
-invertebrados. 
-/g16 Clasificación de los anim ales por su forma de al imentación: omnívoros, 
-carnívoros y herbívoros. Identificación de algu nos animales de estos 
-grupos. 
-/g120 El reino de las plantas. Características y clasificación: 
-
-LUNES 18 DE JULIO DE 2022B.O.C.M. Núm. 169 Pág. 35
-BOCM-20220718-1
-BOLETÍN OFICIAL DE LA COMUNIDAD DE MADRIDBOCM
-/g16 Identificación y observación de las característica s que diferencian los 
-tipos de plantas (árbol, arbusto y hierba). 
-/g16 Observación e identificación de algunas plan tas silvestres y otras 
-cultivadas. 
-/g16 Identificación de las partes de las plantas. 
-/g16 Diferenciación entre plantas de hoja caduca y de hoja perenne. 
-/g16 Conocimiento de la forma de reproducción de las plantas (flores, frutos y 
-semilla). 
-/g16 Identificación y explicación de la diferencia entre las plantas con flor y las 
-plantas sin flor. 
-- Las relaciones entre los se res humanos, los animales y las plantas. Cuidado y 
-respeto a los seres vivos y al  entorno en el que viven , evitando la degradación 
-del suelo, el aire o el agua. Cuidados específicos de animales y plantas. 
-- Hábitos saludables relacionados con el cuidado físico del ser humano: higiene 
-básica, alimentación variada, equilibrada, ejercici o físico, contacto con la 
-naturaleza, descanso, ocio activo y saludable y cuidado del cuerpo como medio 
-para prevenir posibles riesgos y enfermedades. 
-- Hábitos saludables: identificación de las propias emo ciones y respeto a las de 
-los demás. Los afectos. 
-Materia, fuerzas y 
-energía 
-- La luz y el sonido como formas de energía. Fuentes y uso en la vida cotidiana. 
-- Propiedades observables de los materiales (color, forma, plasticidad, dureza…), 
-su procedencia y su uso en objetos o situaciones de la vida cotidiana de acuerdo 
-con las necesidades de diseño y uso para los que fueron fabricados. 
-- Identificación de alguna s máquinas y aparatos de la  vida cotidian a: utilidad y 
-funcionamiento. 
-- Las sustancias puras y las mezclas. Identificación de  mezclas homogéneas y 
-heterogéneas. Separación de  mezclas heterogéneas mediante distintos 
-métodos. 
-- Estructuras resistentes, estables y útiles. 
-B. Tecnología y 
-digitalización 
-Uso de los 
-recursos digitales 
-con 
-responsabilidad 
-- Dispositivos y recursos del e ntorno digital de apre ndizaje de acuerdo con las 
-necesidades del contexto educativo. Pautas básicas de uso de los dispositivos. 
-- Recursos digitales para comun icarse con personas co nocidas en entornos 
-conocidos y seguros. 
-- Búsqueda guiada de infor mación contrastando la información de algunas 
-fuentes seleccionadas. 
-Proyectos de 
-diseño y 
-pensamiento 
-computacional 
-- Fases de los proyectos de diseño: prototipado, prueba y comunicación. 
-- Materiales y técnicas adecuados a la consecución de un proyecto de diseño. 
-- Iniciación en la programación a través de recursos analógicos o digitales 
-adaptados al nivel lector del alumnado (actividades desenchufadas, plataformas 
-digitales de iniciación en la programación, robótica educativa...). 
-- Estrategias básicas de trabajo en equipo. 
-Evolución de la 
-tecnología y la 
-digitalización en 
-las diversas etapas 
-de la historia de la 
-humanidad 
-- La tecnología en las etapas de la humanidad y la contribución de ésta a la vida 
-diaria. 
-
-LUNES 18 DE JULIO DE 2022Pág. 36 B.O.C.M. Núm. 169
-BOCM-20220718-1
-BOLETÍN OFICIAL DE LA COMUNIDAD DE MADRIDBOCM
-SEGUNDO CICLO 
-COMPETENCIAS ESPECÍFICAS CRITERIOS DE EVALUACIÓN 
-1. Utilizar dispositivos y recursos digitales de 
-forma segura, responsable y eficiente, 
-para buscar información, comunicarse y 
-trabajar de manera individual, en equipo y 
-en red, para reelaborar y crear contenido 
-digital.  
-1.1. Utilizar dispositivos y recursos digitales, de acuerdo con las necesidades del 
-contexto educativo de forma seg ura y responsable, buscando información, 
-comunicándose y trabajando de forma individual y en equipo, reelaborando 
-y creando contenidos digitales sencillos. 
-2. Plantear y dar respuesta a cuestiones 
-científicas sencillas, utilizando diferentes 
-técnicas, instrumentos y modelos propios 
-del pensamiento científico, para 
-interpretar y explicar hechos y fenómenos 
-que ocurren en el medio.  
-2.1 Formular preguntas y realizar pre dicciones razonadas, demo strando 
-curiosidad por el medio cercano, basándose en la observación sistemática 
-y la formulación de hipótesis propias del método experimental. 
-2.2 Buscar y seleccionar informa ción de diferentes fue ntes seguras y fiables, 
-utilizándola en investig aciones relaci onadas con el med io y adquiriendo 
-léxico científico básico.  
-2.3 Realizar experimentos guiados, cuando la  investigación lo requiera, 
-utilizando diferentes técnicas de indagació n, inducción y modelos, 
-empleando de forma segura i nstrumentos y disp ositivos, reali zando 
-observaciones objetivas y med iciones precisas y registrándolas 
-correctamente. 
-2.4 Proponer posibles respu estas a las preguntas plante adas, a través de la 
-interpretación de la información y los resultados obtenidos, comparándolos 
-con las predicciones realizadas. 
-2.5 Presentar los resultados de las investigacion es en diferentes formatos, 
-utilizando lenguaje científico básico o aplicado, exp licando los pasos 
-generales seguidos, aportando argumentos para defender los resultados de 
-la investigación. 
-3. Resolver problemas a través de proyectos 
-de diseño y de la aplicación del 
-pensamiento computacional, generando 
-nuevos productos según necesidades.  
-3.1 Construir en equipo un producto final sencillo que dé solución a un problema 
-de necesidad, uso  y diseño, pro poniendo posibles soluciones, probando 
-diferentes prototipos y utilizando de forma segura las herramientas, técnicas 
-y materiales adecuados. 
-3.2 Presentar el producto final de los proyectos de diseño en diferentes formatos 
-(oral, escrito, esquemas, mapas conceptuales, PowerPoint…) y explicando 
-los pasos seguidos. 
-3.3 Resolver, de forma guiad a, problemas sencillos de programación, 
-comprobando si la respuesta se ajusta al propósito, modificando algoritmos 
-de acuerdo con los principios básicos del pensamiento computacional. 
-4. Conocer y tomar conciencia del cuerpo, 
-así como de las emociones y sentimientos 
-propios y ajenos, aplicando el 
-conocimiento científico para favorecer la 
-salud física y mental. 
-4.1 Mostrar actitudes que fomenten la s eguridad emocional y afectiva , 
-identificando las emociones propias y las de los demás, mostrando empatía 
-y estableciendo relaciones adecuadas. 
-4.2 Identificar de forma consciente algunos indicios derivados de las relaciones 
-entre las emociones y los principales sistemas y aparatos del cuerpo. 
-4.3 Identificar hábitos de vida saludables valorando la importancia de la higiene, 
-una alimentación variada y equilibrada, el ejercicio físico, el ocio activo y el 
-descanso. 
-5. Identificar las características de los 
-diferentes elementos o sistemas del 
-medio natural, analizando su organización 
-y propiedades, y estableciendo relaciones 
-entre los mismos, para reconocer el valor 
-del patrimonio natural, conservarlo y 
-mejorarlo. 
-5.1 Identificar las características,  la organización y las propiedades  de los 
-elementos del  medio natural, a través  de la indagación  y utilizando las 
-herramientas y procesos adecuados. 
-5.2 Identificar conexiones sencillas entre diferentes elementos del medio natural 
-mostrando comprensión de las relaciones que se establecen. 
-5.3 Proteger el patrimonio natural y valorarlo, adoptando conductas respetuosas 
-para su disfrute y proponiendo acciones para su conservación y mejora. 
-
-LUNES 18 DE JULIO DE 2022B.O.C.M. Núm. 169 Pág. 37
-BOCM-20220718-1
-BOLETÍN OFICIAL DE LA COMUNIDAD DE MADRIDBOCM
-COMPETENCIAS ESPECÍFICAS CRITERIOS DE EVALUACIÓN 
-6. Identificar las causas y consecuencias de 
-la intervención humana en el entorno, 
-desde los puntos de vista social, 
-económico, cultural, tecnológico y 
-ambiental, para mejorar la capacidad de 
-afrontar problemas, buscar soluciones y 
-actuar en su resolución fomentando 
-respeto, el cuidado y la protección de las 
-personas y del planeta. 
-6.1 Identificar problemas sociales y medioambientales, las interrelaciones que 
-existen entre la salud y cuidado del planeta, proponer posibles soluciones y 
-poner en práctica estilos de vida adecuados, reconociendo comportamientos 
-respetuosos de cuidado, protección del entorno cercano y uso responsable 
-de los recursos naturales, expresando los cambios positivo s y negativos 
-causados en el medio por la acción humana. 
-6.2 Conocer y mostrar hábitos de vida adecuados, con respeto, cuidados y 
-protección del planeta, identificando la relación de la vida de las personas 
-con sus acciones sobre los elementos y recursos del medio. 
-6.3 Conocer algunos hitos tecn ológicos y sus consecuencias a lo largo de las 
-etapas de la historia de la humanidad. 
-CONTENIDOS 
-BLOQUES CONOCIMIENTOS, DESTREZAS Y ACTITUDES 
-A. Cultura científica 
-Iniciación en la 
-actividad científica 
-- Procedimientos de indagación y formulación de hipótesis adecuados a las 
-necesidades de la investigación (observación en el tiempo y espacio, identificación 
-y clasificación, búsqueda de patrones, creación de modelos, investigación a través 
-de búsqueda de información, experimentos con control de variables...). 
-- Instrumentos y dispositivos apropiados para realizar observaciones y mediciones 
-precisas, usados con seguridad, de acuerdo con las necesidades de la investigación. 
-- Vocabulario científico básico y adecuado a su edad, de tipo técnico y aplicado , 
-relacionado con las diferentes investigaciones. 
-- Fomento de la curiosidad,  la iniciativa y la constancia en  la realizaci ón de las 
-diferentes investigaciones. 
-- El ensayo y error como parte de los inicios de la actividad científica. 
-- Avances en el pasado relacionados con la ciencia y la tecnología que han 
-contribuido a transformar nuestra sociedad mostrando modelos que incorporen 
-la igualdad entre hombres y mujeres.   
-- La importancia del uso de la ciencia y la tecnología para ayudar a comprender 
-las causas de las propias acciones, tomar decisiones razonadas y realizar tareas 
-de forma más eficiente. 
-La vida en nuestro 
-planeta 
-- Los reinos de la naturale za desde un punto de vista general, basado en el 
-estudio y análisis de las características de diferentes ecosistemas. Identificación 
-de algunos ecosistemas (prade ra, charca, bosque, litoral  y ciudad) y los seres 
-vivos que en ellos habitan. 
-- Características propi as de los animales que pe rmiten su clasificación y 
-diferenciación en subgrupos relacionados con su capacidad adaptativa al medio: 
-obtención de energía, relación con el entorno y perpetuación de la especie. 
-/g120 Clasificación de los animales según el tipo de alimentación y sistemas implicados 
-en la función de nutrición: respiratorio, digestivo, circulatorio y excretor. 
-/g120 Los animales y su relación co n el entorno: ó rganos de los sentidos, aparato 
-locomotor y sistema nervioso. 
-/g120 Clasificación de los animales según su tipo de reproducción (sexual y asexual) 
-y forma de reproducción (vivíparos, ovíparos y ovovivíparos). 
-- Características propias de las plantas que permiten su clasificación en relación con 
-su capacidad adaptativa al medio: obtención de energía (fotosíntesis), relación con 
-el entorno y perpetuación de la especie (reproducción sexual y asexual). 
-- Los ecosistemas como lugar donde intervi enen factores bióticos y abióticos, 
-manteniéndose un equilibrio entre los diferentes elementos y recursos. Importancia 
-de la biodiversidad. Factores estresant es y nocivos para el equilibrio de los 
-ecosistemas. 
-- Las funciones y servicios de los ecosistemas. 
-
-LUNES 18 DE JULIO DE 2022Pág. 38 B.O.C.M. Núm. 169
-BOCM-20220718-1
-BOLETÍN OFICIAL DE LA COMUNIDAD DE MADRIDBOCM
-- Ejemplos de buenos y malos usos de los recursos naturales de nuestro planeta 
-y sus consecuencias. 
-- Las formas del relieve más relevantes. 
-- Clasificación elemental de las rocas. 
-- Las funciones vitales del ser hu mano: características generales de las células, 
-tejidos, órganos, sistemas y apara tos implicados en las funciones de nutrición, 
-relación y reproducción. 
-- La relación entre las emociones y los principales sistemas y aparatos del cuerpo. 
-- Hábitos de vida saludables: la importan cia de la higiene, una alimentación 
-variada y equilibrada, el ejercicio físico, el ocio activo y el descanso. 
-- Hábitos saludables: identificación de las propias emociones y respeto por las de 
-los demás. Sensibilidad y aceptación de la diversidad presente en  el aula y en 
-la sociedad. 
-Materia, fuerzas y 
-energía 
-- El calor y la temperatura. Cambios de estado, efectos del calor sobre diferentes 
-materiales, materiales conductores y ai slantes, instrumentos de medición y 
-aplicaciones en la vida cotidiana. 
-- Los cambios reversibles e irr eversibles que experimen ta la materia desde un 
-estado inicial a uno final identificando los pr ocesos y transformaciones que 
-experimenta en situaciones de la vida cotidiana. 
-- Fuerzas de contacto y a distancia. Las fuerzas y sus efectos. 
-- Herramientas, máquinas e instrumentos. Propiedades de las máquinas simples 
-y su efecto sobre las fuerzas. Aplicacio nes y usos en la vida cotidiana. 
-Diferencias entre las máquinas simples y las compuestas. Importantes 
-descubrimientos e inventos. 
-- Las sustancias puras y la s mezclas. Tipos de mezclas. Separación de las 
-mezclas homogéneas mediante distintos métodos. 
-B. Tecnología y 
-digitalización 
-Uso de los 
-recursos digitales 
-con 
-responsabilidad 
-- Dispositivos y recursos digitales. Estrategias de búsqueda guiada de 
-información segura y eficiente en internet (valoración, discriminación, selección 
-y organización). 
-- Reglas básicas de seguridad y privacidad para navegar por internet. 
-- Recursos y plataformas dig itales restringidas y seguras para comunicarse con 
-otras personas. Etiq ueta digital, reglas b ásicas de cortesía y respeto y 
-estrategias para resolver problemas en la comunicación digital. 
-- Estrategias para fomenta r un buen uso digital. Reconocimiento de los riesgos 
-asociados a un uso inadecua do y poco seguro de las tecnologías digitales 
-(tiempo exc esivo de uso, ciberacoso, acceso  a contenidos inadecuados, 
-publicidad y correos no deseados, etc.), y estrategias de actuación. 
-Proyectos de 
-diseño y 
-pensamiento 
-computacional 
-- Fases de los proyectos de diseño: diseño, prototipado, prueba y comunicación. 
-- Materiales, herramientas y objetos adecuados a la consecución de un proyecto 
-de diseño. 
-- Técnicas sencillas de  trabajo en equipo y estrategias para la gestión de 
-conflictos.  
-- Iniciación en la program ación a través de recursos analógicos (actividades 
-desenchufadas) o digitales  (plataformas digitales de iniciación en la 
-programación, aplicaciones de programación por bloques, robótica educativa...). 
-Evolución de la 
-tecnología y la 
-digitalización en 
-las diversas 
-etapas de la 
-historia de la 
-humanidad 
-- Hitos tecnológicos en cada etapa de la historia de la humanidad. 
-- Beneficios y perjuicios de algunas herramientas, máqu inas e instrumentos a lo 
-largo de la historia. 
-
-LUNES 18 DE JULIO DE 2022B.O.C.M. Núm. 169 Pág. 39
-BOCM-20220718-1
-BOLETÍN OFICIAL DE LA COMUNIDAD DE MADRIDBOCM
-TERCER CICLO 
-COMPETENCIAS ESPECÍFICAS CRITERIOS DE EVALUACIÓN 
-1. Utilizar dispositivos y recursos digitales de 
-forma segura, responsable y eficiente, 
-para buscar información, comunicarse y 
-trabajar de manera individual, en equipo y 
-en red, y para reelaborar y crear 
-contenido digital. 
-1.1. Utilizar recursos digitales de  acuerdo con las necesida des del contexto 
-educativo de forma responsa ble, segura, eficiente y autónoma, buscando 
-información, comunicándose y trabajando de forma indivi dual, en equipo y 
-en red, reelaborando y creando contenidos digitales sencillos. 
-2. Plantear y dar respuesta a cuestiones 
-científicas sencillas, utilizando diferentes 
-técnicas, instrumentos y modelos propios 
-del pensamiento científico, para 
-interpretar y explicar hechos y fenómenos 
-que ocurren en el medio. 
-2.1 Formular pregunta s y realizar predicciones razonadas sobre el medio 
-mostrando y manteniendo la curiosida d, aplicando una metodología 
-hipotético-inductiva. 
-2.2 Buscar, seleccionar y contrastar información, de diferentes fuentes seguras 
-y fiables, usando l os criterios de fiabili dad de fuentes, adqu iriendo léxico 
-científico básico, y utilizándol a en investigaciones relacionadas con el 
-medio.  
-2.3 Diseñar y realizar experim entos guiados, cuando la  investigación lo 
-requiera, utilizando diferentes técnicas de indagación y modelos, empleando 
-de forma segura los in strumentos y dispositivos apropiados, realizando 
-observaciones obje tivas y estructuradas y mediciones precisas y 
-registrándolas correctamente. 
-2.4 Proponer posibles respuesta s a las preguntas pl anteadas, a través del 
-análisis y la interpretación de la  información y los resultados obtenidos, 
-valorando la coherencia de las posibles soluciones y comparándolas con las 
-predicciones realizadas. 
-2.5 Comunicar los resultados de las investigaciones adaptando el mensaje y el 
-formato a la audienci a a la que va dirigido, utilizando lenguaje científico o 
-aplicado y explicando los pasos seguidos  de forma pormenorizada y 
-aportando argumentos para defender las propue stas que considere 
-veraces. 
-3. Resolver problemas a través de proyectos 
-de diseño y de la aplicación del 
-pensamiento computacional, generando 
-nuevos productos según necesidades.     
-3.1 Plantear problemas de necesid ad, uso y diseño que se resuelvan con la 
-creación de un prototipo  o solución digital, evaluan do necesidades del 
-entorno y estableciendo objetivos concretos. 
-3.2 Diseñar posibles soluciones a los problemas planteados de acuerdo con 
-técnicas sencillas de los proyectos de diseño y pensamiento computacional, 
-mediante estrategias básicas de gestión de proyectos conjuntos, teniendo 
-en cuenta los recursos necesarios y estableciendo criterios concretos para 
-evaluar el proyecto, verificando si la  solución cumple los criterios objetivos 
-de validez y calidad establecidos. 
-3.3 Desarrollar un producto final que dé solución a un  problema de diseño, 
-probando en equipo diferentes prototipos o soluciones digitales y utilizando 
-de forma segura las herra mientas, dispositivos, técnicas y materiales 
-adecuados. 
-3.4 Comunicar el diseño de un producto final, adaptando el mensaje y el formato 
-a la audiencia, explicando los pasos segui dos, justificando por qué ese 
-prototipo o solución digital cumple con  los requisitos del proyecto y 
-proponiendo posibles retos para futuros proyectos. 
-4. Conocer y tomar conciencia del cuerpo, 
-así como de las emociones y sentimientos 
-propios y ajenos, aplicando el 
-conocimiento científico para favorecer la 
-salud física y mental. 
-4.1 Promover actitudes que fomenten la  seguridad emocional, gestionando las 
-emociones propias y respeta ndo las de los demás, reflexionando ante los 
-usos de la tecnología y la gestión del tiempo libre. 
-4.2 Adoptar estilos de vida saludable s valorando la importancia de una 
-alimentación variada y equilibrada, el ejercicio físico, el contacto con la 
-naturaleza, el descanso, el ocio, la higiene, la prevención de enfermedades 
-y el uso adecuado de nuevas tecnologías. 
-
-LUNES 18 DE JULIO DE 2022Pág. 40 B.O.C.M. Núm. 169
-BOCM-20220718-1
-BOLETÍN OFICIAL DE LA COMUNIDAD DE MADRIDBOCM
-COMPETENCIAS ESPECÍFICAS CRITERIOS DE EVALUACIÓN 
-5. Identificar las características de los 
-diferentes elementos o sistemas del 
-medio natural, analizando su organización 
-y propiedades, y estableciendo relaciones 
-entre los mismos, para reconocer el valor 
-del patrimonio natural, conservarlo y 
-mejorarlo. 
-5.1 Identificar y analizar las características, la organi zación y las propiedades 
-de los elementos del medio natural, a través de la indagación, utilizando las 
-herramientas y procesos adecuados.  
-5.2 Establecer cone xiones sencillas mediante hi pótesis e inducción entre 
-diferentes elementos del med io natural mostrando  comprensión de las 
-relaciones que se establecen e iniciando razonamiento hipotético-deductivo. 
-5.3 Valorar, proteger y mostrar actitudes de conservación y mejora del 
-patrimonio natural y cultural.  
-6. Identificar las causas y consecuencias de 
-la intervención humana en el entorno, 
-desde los puntos de vista social, 
-económico, cultural, tecnológico y 
-ambiental, para mejorar la capacidad de 
-afrontar problemas, buscar soluciones y 
-actuar en su resolución fomentando el 
-respeto, el cuidado y la protección de las 
-personas y del planeta. 
-6.1 Promover estilos de vida adecuados y consecuentes con el respeto, los 
-cuidados, y la protección de las personas y del planeta, a partir del análisis 
-de la intervención humana en el entorno. 
-6.2 Participar en la búsque da, contraste y evaluación de propuestas para 
-afrontar problemas, buscar soluciones y actuar para su resolución. Conocer 
-algunos hitos tecnológicos y digitales, y sus consecuencias, a lo largo de las 
-etapas de la historia de la humanidad. 
-CONTENIDOS 
-BLOQUES CONOCIMIENTOS, DESTREZAS Y ACTITUDES 
-A. Cultura científica 
-Iniciación en la 
-actividad científica 
-- Fases de la investigación científica (observación sistemática, formulación de 
-preguntas, hipótesis y predicciones, planificación y realización de experimentos 
-y modelos, control de variables y muestras, recogida y análisis de información y 
-datos, comunicación y presentación de resultados...). 
-- Instrumentos y dispositivos apropiados para realizar observaciones y mediciones 
-precisas, usados en condiciones de seguridad, de acuerdo con las necesidades 
-de la investigación. 
-- Vocabulario científico, técn ico y aplicado básic o, adecuado a su edad, 
-relacionado con las diferentes investigaciones. 
-- Fomento de la curiosidad, la iniciativa, la constancia y el sentido de la 
-responsabilidad en la realización de las diferentes investigaciones. 
-- El ensayo y error en el método científico. 
-- La ciencia, la tecnología y la ingeniería. Profesiones actuales relacionadas. 
-- La relación entre los av ances en matemáticas, ciencia, ing eniería y tecnología 
-para comprender la evolución de la sociedad en el ámbito científico-tecnológico. 
-La vida en 
-nuestro planeta 
-- El ser humano y sus necesidades vitales : obtención de energía (procesos 
-metabólicos), interacción con el entorno y reproducción. 
-/g120 Identificación y localización de los órganos, aparatos y sistemas implicados en 
-la función de nutrición: respiratorio, digestivo, circulatorio y excretor. 
-/g120 Identificación y localización de los órganos implicados en la función de relación: 
-órganos de los sentidos, sistema ne rvioso (nervios, neuronas y cerebro) y 
-aparato locomotor (esqueleto y musculatura). 
-/g120 Identificación y localización de los órganos imp licados en la  función de 
-reproducción: aparato s reproductores masculino y femenino. Fecundación, 
-desarrollo embrionario y parto. 
-- Los cambios que conllevan la pubertad y la adolescen cia para aceptarlos de 
-forma positiva tanto en uno mismo como en los demás. Educación afectiva. 
-- Pautas para una alimentación saluda ble: menús saludables y equilibrados, la 
-importancia de la c esta de la compra y del etiquetado de  los productos 
-alimenticios para conocer sus nutrientes y su aporte energético. 
-
-LUNES 18 DE JULIO DE 2022B.O.C.M. Núm. 169 Pág. 41
-BOCM-20220718-1
-BOLETÍN OFICIAL DE LA COMUNIDAD DE MADRIDBOCM
-- Otros aspectos que favorecen la salud: hábitos y rutinas de sueño, prevención y 
-consecuencias del con sumo de drogas, ap rovechamiento del tiempo libre o de 
-ocio, uso responsable de dispositivos electrónicos, relaciones sociales 
-adecuadas y fomento de los cuidados a personas, con e special hincapié en las 
-personas mayores. 
-- Pautas para la prevención de riesgos y accidentes. Conocimiento de actuaciones 
-básicas de primeros auxilios. 
-- Clasificación básica de rocas y minerales. Usos y explotación de los recursos 
-geológicos. 
-- Procesos geológicos básicos de formación y modelado del relieve. 
-Materia, fuerzas y 
-energía 
-- Propiedades de la mate ria: generales (masa, vol umen…) y específicas (color, 
-dureza, densidad…). 
-- Masa y volumen. Instrumentos para calcular la masa y la capacidad de un objeto. 
-Concepto de densidad y su relación con la flotabilidad de un objeto en un líquido. 
-- La energía eléctrica. Fuente s, transformaciones, transferencia  y uso en la vida 
-cotidiana. Los circuitos eléctricos y las estructuras robotizadas. 
-- Las formas de energía, la s fuentes y las transformaci ones. Las fuentes de 
-energías renovables y no re novables y su influencia en la contribución al 
-desarrollo de la sociedad. 
-- Artefactos voladores. Principios básicos del vuelo. 
-- Artefactos marinos. Principios básicos de flotabilidad e inmersión. 
-- Artefactos terrestres. Principios básicos del movimiento a travé s del rozamiento 
-y de la rodadura. 
-B. Tecnología y 
-digitalización 
-Uso de los 
-recursos digitales 
-con 
-responsabilidad 
-- Dispositivos y recu rsos digitales. Estrategias de búsquedas de información 
-seguras y eficientes en  internet (valoración, di scriminación, selección, 
-organización y propiedad intelectual). 
-- Estrategias de recogida, almacenamiento y representación de datos para facilitar 
-su comprensión y análisis. 
-- Reglas básicas de seguridad, privacidad y buen uso de la tecnología para 
-navegar por internet y para proteger el entorno digital personal de aprendizaje. 
-- Recursos y plataformas digitales restringidas y seguras pa ra comunicarse con 
-otras personas. Etiqueta digital, reglas básicas de cortesía y respeto y estrategias 
-para resolver problemas en la comunicación digital. 
-- Estrategias para fomentar un buen uso. Reconocimiento de los riesgos asociados 
-a un uso inadecuado y poco seguro de las tecnologías digitales (tiempo excesivo 
-de uso, ciberacoso, dependencia tecnológica, acceso a contenidos inadecuados, 
-etc.), y estrategias de actuación. 
-Proyectos de 
-diseño y 
-pensamiento 
-computacional 
-- Fases de los pro yectos de diseño: identificación de nece sidades, diseño, 
-prototipado, prueba, evaluación y comunicación. 
-- Fases del pensamiento comp utacional (descomposición de una tarea en partes 
-más sencillas, reconocimi ento de patrones y crea ción de algoritmos sencillos 
-para la resolución del problema...). 
-- Materiales, herramientas, objetos, dispositivos y recursos digitales (programación 
-por bloques, sensores, motores, simuladores, impre soras 3D) seguros y 
-adecuados a la consecución del proyecto. 
-- Estrategias de aprendizaje: ensayo-error. 
-Evolución de la 
-tecnología y la 
-digitalización en 
-las diversas 
-etapas de la 
-historia de la 
-humanidad 
-- Cronología de los principales hitos de la revol ución digital: el chip, el circuito 
-electrónico, los programas informáticos, los ordenadores personales, internet, el 
-correo electrónico, los teléfonos inteligentes, los robots y la cibernética. 
-
-LUNES 18 DE JULIO DE 2022Pág. 42 B.O.C.M. Núm. 169
-BOCM-20220718-1
-BOLETÍN OFICIAL DE LA COMUNIDAD DE MADRIDBOCM
- Ciencias Sociales 
- 
-El área de Ciencias Sociales en Educación Primaria tiene c omo finalidad que los alumnos se desarrollen como personas 
-responsables y respetuosa s con el mundo en el  que viven y aprendan los valores democrá ticos que defiende la Constitución 
-Española. 
-El currículo del área se organiza  en torno a la adqui sición de las competenci as específicas a lo larg o de la etapa; los criteri os de 
-evaluación determinarán su consecución, una vez asimilados los contenidos. 
-La primera de las competencias básicas se orienta hacia el conocimiento de los diferentes elementos y sistemas que conforman la 
-sociedad. La segunda competencia se centra en el análisis de las causas y consecuencias de la intervención humana en el entorno, 
-para buscar soluciones consecuentes con el respeto, cuidado y protección de las personas y del planeta. La tercera competencia se 
-dirige al conocimiento de los rasgos de las distintas sociedades y su historia, la relación entre las diferentes épocas y la identificación 
-de las acciones y hechos más destacados en cada una de  ellas. Estos aspectos resultan  fundamentales pa ra que el alumnado 
-comprenda la forma en la que el pasado contribuye a la configuración del presente. La cuarta competencia se centra en la pluralidad 
-como un rasgo característico de las sociedades contemporáneas y la vida en democracia. Por último, la quinta competencia pone el 
-énfasis en la participación de los alumnos en la sociedad, de forma eficaz y constructiva, desde el respeto a los valores democráticos, 
-los derechos humanos y del niño y los principios y valores de la Constitución Española y de la Unión Europea. 
-Respecto a los contenidos, se estructuran en un único  bloque «Sociedades y territorios» que abarca situaciones del pasado y del 
-presente y del entorno nacional y mundial, para entender la evolución de las sociedades a lo largo del tiempo y del espacio. Ayuda, 
-por otro lado, a que el alumnado conozca las in teracciones entre la actividad humana y el med io y el impacto que generan en el 
-medio ambiente.  
-Las competencias específicas 5, 6, 7, 8 y 9 descritas para el área de Conocimiento del Medio Natural, Social y Cultural en el anexo 
-I del Real Decreto 157/2022, de 1 de marzo, se identifican con las competencias específicas 1, 2, 3, 4 y 5 de esta área 
-respectivamente. Las competencias específicas 5 y 6 del citado real decreto comparten capacidades comunes del área de Ciencias 
-de la Naturaleza y del ár ea de Ciencias Sociales, aun que en el primer caso se centran en el  medio natural y en el segundo en el  
-social y cultural, y así se observa en la presentación del currículo adjunto: 
- 
-PRIMER CICLO 
-COMPETENCIAS ESPECÍFICAS CRITERIOS DE EVALUACIÓN 
-1. Identificar las características de los diferentes 
-elementos o sistemas del medio, analizando 
-su organización y propiedades y 
-estableciendo relaciones entre los mismos, 
-para reconocer el valor del patrimonio cultural 
-y natural, conservarlo y mejorarlo. 
-1.1. Reconocer las características, la organización y las propiedades de los 
-elementos del medio a través de la indagaci ón, utilizando las 
-herramientas y procesos adecuados de forma pautada. 
-1.2. Reconocer conexiones sencillas y directas entre diferentes elementos 
-del medio a través de la observación, la manipulación y la 
-experimentación. 
-1.3. Mostrar actitudes de respeto ante el patrimonio natural y cultural.  
-2. Identificar las causas y consecuencias de la 
-intervención humana en el entorno, desde los 
-puntos de vista social, económico, cultural, 
-tecnológico y ambiental, para mejorar la 
-capacidad de afrontar problemas, buscar 
-soluciones y actuar en su resolución 
-fomentando el respeto, el cuidado y la 
-protección de las personas y del planeta. 
-2.1. Mostrar estilos de vida adecuados y valorar la importancia del respeto, 
-los cuidados, y la pr otección de los elementos y seres del planeta, 
-identificando la relaci ón de la vida d e las personas con  sus acciones 
-sobre los elementos y recursos del medio, como el suelo y el agua. 
-3. Observar, comprender e interpretar 
-continuidades y cambios del medio, 
-analizando relaciones de causalidad, 
-simultaneidad y sucesión, para explicar y 
-valorar las relaciones entre diferentes 
-elementos y acontecimientos. 
-3.1. Ordenar temporalmente hechos del entorno cercano, empleando 
-nociones básicas de medida y sucesión. 
-3.2. Conocer personas y grupos sociales relevantes de la historia, así como 
-formas de vida del pasado y sus creencias, incorporando referentes de 
-igualdad entre hombres y mujeres. 
- 
-
-LUNES 18 DE JULIO DE 2022B.O.C.M. Núm. 169 Pág. 43
-BOCM-20220718-1
-BOLETÍN OFICIAL DE LA COMUNIDAD DE MADRIDBOCM
-COMPETENCIAS ESPECÍFICAS CRITERIOS DE EVALUACIÓN 
-4. Reconocer y valorar la pluralidad mostrando 
-empatía y respeto por otras culturas para 
-contribuir a la mejora de una sociedad en 
-continua transformación y al logro de los 
-valores de integración europea. 
-4.1. Recoger información acerca de manifestaciones culturales del entorno, 
-mostrando respeto, valorando su diversidad y riqueza, y apreciándolas 
-como fuente de aprendizaje. 
-4.2. Mostrar actitudes que foment en la igualdad,  el respeto, la libertad y 
-todas las conductas no discriminatorias, reconociendo modelos 
-positivos en el entorno cercano e identificar las cualidades individuales 
-adecuadas para vivir en sociedad. 
-5. Participar en el entorno y la vida social de 
-forma eficaz y constructiva desde el respeto a 
-los valores democráticos, los derechos 
-humanos y de la infancia y los principios y 
-valores de la Constitución española y la Unión 
-Europea, valorando la función del Estado y 
-sus instituciones en el mantenimiento de la 
-paz y la seguridad ciudadana. 
-5.1. Establecer acuerdos de forma democrática como parte de la sociedad, 
-identificando las respon sabilidades individua les y empleando un 
-lenguaje respetuoso. 
-5.2. Identificar instituciones cercanas, señalando y valorando las funciones 
-que realizan en pro de una buena convivencia. 
-5.3. Conocer e interiorizar normas básicas para la convivencia en el uso de 
-los espacios públicos, especialmente como peatones o como usuarios 
-de los medios de locomoción, tomando conciencia de la importancia de 
-la movilidad segura y saludable tanto para las pe rsonas como para el 
-planeta. 
-CONTENIDOS 
-BLOQUES CONOCIMIENTOS, DESTREZAS Y ACTITUDES 
-A. Sociedades y 
-territorios 
-Retos del mundo 
-actual 
-- La Tierra en el universo. Elementos, movimientos y dinámicas relacionados con la 
-Tierra y el universo y sus con secuencias en la vida diaria  y en el entorno. 
-Secuencias temporales y cambios estacionales. 
-- La vida en la Tierra. Fen ómenos atmosféricos y su re percusión en los ciclos 
-biológicos y en la vida diaria. Observación y registro de datos atmosféricos. 
-- Existencia y distribución del agua en la Tierra: océanos, mares, ríos y lagos. 
-- Identificación de las principales unidades del relieve: isla, archipiélago, península, 
-montaña, cordillera, llanura, meseta, valle, río… 
-- La Comunidad de Madrid: situación, relieve, ríos… 
-- Retos sobre situaciones cotidianas. Funciones básicas del pensamiento espacial y 
-temporal para la interacción con el medio y la resolución de situaciones de la vida 
-cotidiana. Itinerarios y trayectos, puntos cardinales, desplazamientos y viajes. 
-Sociedades en el 
-tiempo 
-- La percepción del tiempo. Medida del tiempo en la  vida cotidiana: año, mes, 
-semana, día y hora. El ciclo vital y las relaciones intergeneracionales. 
-- Uso de objetos y artefactos de la vida cotidiana como fuentes para reflexionar sobre 
-el cambio y la continuidad, las causas y consecuencias. 
-- Recursos y medios analógicos y digitales. Las fuentes orales. La historia local y la 
-biografía familiar; mujeres y hombres como sujetos de la historia. 
-- Las expresiones y prod ucciones artísticas a través del  tiempo. El patrimonio 
-material e inmaterial local. Principales monumentos de la Comunidad de Madrid. 
-- Acercamiento a los hitos históricos, costumbres y tradiciones de la Comunidad de 
-Madrid. 
-Alfabetización 
-cívica 
-- La vida en sociedad. La familia. Compromisos, participación y normas en el entorno 
-familiar, vecinal y escolar. Prevención, gestión y resolución dialogada de conflictos. 
-- La vida en sociedad. Espacios, recu rsos y servicios del e ntorno. Formas y modos 
-de interacción soci al en espacios públicos con referentes de  igualdad entre 
-hombres y mujeres. Relaciones humanas.  
-- Ciudades y pueblos más importantes de la Comunidad de Madrid. 
-
-LUNES 18 DE JULIO DE 2022Pág. 44 B.O.C.M. Núm. 169
-BOCM-20220718-1
-BOLETÍN OFICIAL DE LA COMUNIDAD DE MADRIDBOCM
-- Identidad y cultura: existencia  de realidades difere ntes y aproximación a las 
-distintas etnoculturas presentes en el entorno. La con vivencia con los demás y el 
-rechazo a las actitudes discriminatorias. Cultura de paz y no violencia en libertad. 
-- Ocupación y trabajo. Identificación de las p rincipales actividades profesionales y 
-laborales en el entorno y, de manera específica, en la Comunidad de Madrid. 
-- Igualdad y conducta no  discriminatoria . Igualdad entre hombres y mujeres y 
-empatía entre personas.  
-- Seguridad vial. La ciudad como espacio de convivencia. No rmas básicas en los 
-desplazamientos como peatones o como usua rios de los medios de locomoción. 
-Significado de algunas señales de tráfico. 
-Conciencia social 
-y medioambiental 
-- Conocimiento de nuestro entorno. Paisajes naturale s y paisajes humanizados, y 
-sus elementos. La acción humana sobre el medio y sus consecuencias. 
-- Responsabilidad social y medioambiental. Acciones pa ra la conservación, mejora 
-y uso de los bienes comunes.  El maltrato animal y su pr evención. Prácticas de 
-respeto hacia el entorno más cercano.   
-- Estilos de vida adecu ados. El uso responsable del ag ua, la movilidad segura y 
-saludable, y la prevención y la gestión de los residuos. 
- 
-SEGUNDO CICLO 
-COMPETENCIAS ESPECÍFICAS CRITERIOS DE EVALUACIÓN 
-1. Identificar las características de los diferentes 
-elementos o sistemas del medio, analizando 
-su organización y propiedades y 
-estableciendo relaciones entre los mismos, 
-para reconocer el valor del patrimonio cultural 
-y natural, conservarlo y mejorarlo.  
-1.1. Identificar las características, la organización y las propiedades  de los 
-elementos del  medio a través de  la indagación  y utilizando las 
-herramientas y procesos adecuados. 
-1.2. Identificar conexiones sencillas entre diferentes elementos del medio 
-mostrando comprensión de las relaciones que se establecen. 
-1.3. Proteger el patrimonio natural y cultural y valorarlo, adoptando 
-conductas respetuosas para su disfrute y proponiendo acciones para su 
-conservación y mejora. 
-2. Identificar las causas y consecuencias de la 
-intervención humana en el entorno, desde los 
-puntos de vista social, económico, cultural, 
-tecnológico y ambiental, para mejorar la 
-capacidad de afrontar problemas, buscar 
-soluciones y actuar en su resolución 
-fomentando el respeto, el cuidado y la 
-protección de las personas y del planeta. 
-2.1 Identificar problemas sociales y medioambienta les, proponer posibles 
-soluciones y poner en práctica estilos de vida adecuados, reconociendo 
-comportamientos respetuosos de cuidado y protección del entorno y uso 
-adecuado de los recursos naturales, y expresando los cambios positivos 
-y negativos causados en el medio por la acción humana. 
-3. Observar, comprender e interpretar 
-continuidades y cambios del medio analizando 
-relaciones de causalidad, simultaneidad y 
-sucesión, para explicar y valorar las relaciones 
-entre diferentes elementos y acontecimientos. 
-3.1 Identificar hechos desde la Preh istoria hasta la Edad Antigua, 
-empleando las nociones de causalidad, simultaneidad y sucesión. 
-3.2 Conocer personas, grupos sociales relevantes y formas de vida de las 
-sociedades desde la Pr ehistoria hasta la Edad Antigua, incorporando 
-referentes de igualdad entre hombres y mujeres. 
-4. Reconocer y valorar la pluralidad mostrando 
-empatía y respeto por otras culturas para 
-contribuir a la mejora de una sociedad en 
-continua transformación y al logro de los 
-valores de integración europea. 
-4.1 Analizar la importancia demográfica, cultural y económica de las 
-migraciones en la actualidad, valorando con respeto y empatía la 
-aportación de la diversidad y el mestizaje. 
-4.2 Valorar positivamente la s acciones que fomentan  la igualdad y las 
-conductas no discriminatorias, reconociendo referentes de igualdad 
-entre hombres y mujeres a lo largo de la historia. 
- 
-
-LUNES 18 DE JULIO DE 2022B.O.C.M. Núm. 169 Pág. 45
-BOCM-20220718-1
-BOLETÍN OFICIAL DE LA COMUNIDAD DE MADRIDBOCM
-COMPETENCIAS ESPECÍFICAS CRITERIOS DE EVALUACIÓN 
-5. Participar en el entorno y la vida social de 
-forma eficaz y constructiva desde el respeto a 
-los valores democráticos, los derechos 
-humanos y de la infancia y los principios y 
-valores de la Constitución española y la Unión 
-Europea, valorando la función del Estado y 
-sus instituciones en el mantenimiento de la 
-paz y la seguridad ciudadana.  
-5.1 Realizar actividades en la comunidad escolar, asumiendo 
-responsabilidades y estableciendo acuerdos de forma democrática.  
-5.2 Conocer los principales órganos de gobierno y funciones de diversas 
-administraciones y servi cios públicos, va lorando la import ancia de su 
-gestión para la seguridad ciudadana y la participación democrática. 
-5.3 Interiorizar normas básicas para la convivencia en  el uso de los 
-espacios públicos como peatones o como usuar ios de los medios de 
-locomoción, identificando las señales de tráfico y tomando conciencia 
-de la importancia de una movilidad segura y saludable tanto para las 
-personas como para el planeta. 
-CONTENIDOS 
-BLOQUES CONOCIMIENTOS, DESTREZAS Y ACTITUDES 
-A. Sociedades y 
-territorios 
-Retos del mundo 
-actual 
-- La Tierra y las catástrofes naturales. Elementos, movimientos, dinámicas que 
-ocurren en el universo y su relación con fenómenos físicos que afectan a la Tierra 
-y repercuten en la vida diaria y en el entorno. 
-- Conocimiento del espacio. Represe ntación del espaci o. Representación de la 
-Tierra a través del globo terráqueo, lo s mapas y otros recursos digitales. Mapas y 
-planos en distintas escal as. Técnicas de orientación mediante la observación de 
-los elementos del medio físico y otros medios de localización espacial. 
-- Los límites geográficos de España. Mares y océanos que la rodean. Islas y 
-archipiélagos. Localización en el mapa. 
-- Vertientes hidrográficas peni nsulares y principales ríos. Cuencas hidrográficas 
-peninsulares Localización en el mapa de España de los principales ríos de la 
-Península Ibérica. 
-- Formas de relieve y accidentes geográficos. Principales un idades del relieve de 
-España y localización en el mapa de las principales cordilleras y montañas. 
-- El clima y el pais aje. Los fenómenos atmosféricos. Toma y reg istro de datos 
-meteorológicos y su representaci ón gráfica y visual. La s Tecnologías de la 
-Información Geográfica (TIG). Re lación entre las zonas clim áticas y la diversidad 
-de paisajes. Los tipos de clima en España. 
-- Retos demográfico s. Ocupación y distribución de la población en el espacio y 
-análisis de los principales problemas y retos demográficos. Representación gráfica 
-y cartográfica de la población. La organización del territorio en España y en Europa. 
-Las Comunidades Autónomas: localización. 
-- Desigualdad y acceso a lo s recursos. Usos del espacio po r el ser humano y 
-evolución de las actividade s productivas. Sectores de pr oducción de España. El 
-valor, el control del dinero y los medios de pago.  
-Sociedades en el 
-tiempo 
-- El tiempo histórico. Nociones temp orales y cronología. Uti lización de los números 
-romanos para indicar los siglos. La datación por siglos, antes y después de Cristo. 
-Ubicación temporal de l as grandes etapas históric as (Prehistoria, Edad Antigua, 
-Edad Media, Edad Moderna y Edad Contemporánea).  
-- Las fuentes históricas: clasificaci ón y utilización de las distintas fuentes (orales, 
-escritas, patrimoniales) como vía para el anális is de los cambi os y permanencias 
-en la localidad a lo largo de la historia. La Arqueología. Las huellas de la historia en 
-lugares, edificios, objetos, oficios o tradiciones de la localidad. 
-- Iniciación en la investigación y en  los métodos de trabajo para la realización de 
-proyectos, que analicen hechos, asuntos y temas de relevancia actual con visión 
-histórica, contextualizándolos en la época correspondie nte (Prehistoria y Edad 
-Antigua), como la supervivencia y la alimentación, la  vivienda, los intercambios 
-comerciales (de dónde viene el dinero, los trabajos no remunerados), la explotación 
-de bienes comunes y recursos o los avances técnicos: 
-/g120 La Península Ibérica en la Prehistoria: 
-
-LUNES 18 DE JULIO DE 2022Pág. 46 B.O.C.M. Núm. 169
-BOCM-20220718-1
-BOLETÍN OFICIAL DE LA COMUNIDAD DE MADRIDBOCM
-/g16 El Paleolítico, el Neolítico y la Edad de los Metales. 
-/g16 Culturas prerromanas autóctonas: celtas e íberos. 
-/g120 La Península Ibérica en la Edad Antigua: 
-/g16 Los p ueblos colonizadores del Med iterráneo (fenicios, griegos y 
-cartagineses). 
-/g16 La Hispania Romana. 
-/g16 La caída del Imperio romano: Influencia de las invasiones bárbaras. 
-- La acción de muj eres y hombres como sujetos en  la historia. Interpretación del 
-papel de los individuos y de lo s distintos grupos sociale s: relaciones, conflictos, 
-creencias y condicionantes en cada época  histórica. Las raíces clásicas y 
-judeocristianas de Occidente. 
-- Las expresiones artíst icas y culturales pr ehistóricas y de la  Antigüedad y su 
-contextualización histórica con referentes de igualdad entre hombres y mujeres. La 
-función del arte y la cultura en el mundo  de la Prehistoria y la Edad Antigua. 
-Identificar algunas expresiones artísticas de estos periodos en España. 
-- El patrimonio natural y cultural. Los espacios protegidos, culturales y naturales. Su 
-uso, cuidado y conservación. 
-- Hitos históricos, costumbres y tradiciones de la Comunidad de Madrid. 
-Alfabetización 
-cívica 
-- Compromisos y normas para la vida en sociedad. 
-- Las costumbres, tradiciones y man ifestaciones de diferentes culturas del entorno. 
-Respeto por la diversidad. La cultura de paz y no violencia en libertad. 
-- La organización política y territorial de España. 
-- Ciudades y pueblos más importantes de España. 
-- Organización y funciona miento de la sociedad. La s principales instituciones y 
-entidades del entorno local, regional y nacional y los servicios públicos que prestan. 
-Estructura administrativa de España. 
-- Seguridad vial. La ciudad como espacio de convivencia. Normas de circulación, 
-señales y marcas viales. Movilidad segura y saludable como pe atones o como 
-usuarios de los medios de locomoción. Significado de las señales de tráfico. 
-Conciencia social 
-y medioambiental 
-- El cambio climático. Introducción a las causas y consecuencias del cambio 
-climático, y su impacto en los paisajes de la Tierra. Medida s de mitigación y de 
-adaptación. 
-- Responsabilidad social y medioambi ental. Relación entre seres vivos y 
-ecosistemas y entre personas, sociedades y medio natural.  
-- La transformación y la degrad ación de los ecosistemas naturales por la acción 
-humana. Conservaci ón y protección de la naturaleza. El maltrato animal y su 
-prevención. 
-- Estilos de vida adecuados. El con sumo y la produc ción responsable , la 
-alimentación equilibrada, el uso eficiente del agua y la energía, la movilidad segura 
-y saludable y la prevención y la gestión de los residuos. 
- 
-
-LUNES 18 DE JULIO DE 2022B.O.C.M. Núm. 169 Pág. 47
-BOCM-20220718-1
-BOLETÍN OFICIAL DE LA COMUNIDAD DE MADRIDBOCM
-TERCER CICLO 
-COMPETENCIAS ESPECÍFICAS CRITERIOS DE EVALUACIÓN 
-1. Identificar las características de los diferentes 
-elementos o sistemas del medio analizando su 
-organización y propiedades y estableciendo 
-relaciones entre los mismos, para reconocer el 
-valor del patrimonio cultural y natural, 
-conservarlo y mejorarlo.  
-1.1. Identificar y analizar las características, la organ ización y las 
-propiedades de los elementos del medio a través de la indagación 
-utilizando las herramientas y procesos adecuados. 
-1.2. Establecer conexiones sencillas en tre diferentes elementos del medio 
-mostrando comprensión de las relaciones que se establecen. 
-1.3. Valorar, proteger y mostrar actitudes de conserv ación y mejora del 
-patrimonio natural y cu ltural a través de prop uestas y acciones que 
-reflejen compromisos y conductas de mejora.  
-2. Identificar las causas y consecuencias de la 
-intervención humana en el entorno, desde los 
-puntos de vista social, económico, cultural, 
-tecnológico y ambiental, para mejorar la 
-capacidad de afrontar problemas, buscar 
-soluciones y actuar en su resolución 
-fomentando el respeto, el cuidado y la 
-protección de las personas y del planeta. 
-2.1 Promover estilos de vida adecuados y consecuentes con el respeto, los 
-cuidados y la pro tección de las pe rsonas y del plan eta, a partir del 
-análisis de la intervención humana en el entorno. 
-2.2 Participar en la búsqueda, contraste y evaluación de  propuestas para 
-afrontar problemas sociales y med ioambientales, buscar soluciones y 
-actuar para su resolución, a partir de l análisis de las causas y 
-consecuencias de la intervención humana en el entorno. 
-3. Observar, comprender e interpretar 
-continuidades y cambios del medio, 
-analizando relaciones de causalidad, 
-simultaneidad y sucesión, para explicar y 
-valorar las relaciones entre diferentes 
-elementos y acontecimientos. 
-3.1 Analizar relaciones de caus alidad, simultaneidad y sucesión entre 
-diferentes elementos del medio desde la Ed ad Media hasta la 
-actualidad, situando cronológicamente los hechos. 
-3.2 Conocer personas, grupos sociales relevantes y formas de vida de las 
-sociedades desde la Edad Media hasta la actualidad, con referentes de 
-igualdad entre hombres y mujeres a lo largo de la historia, situándolas 
-cronológicamente e identificando rasgos significativos sociales en 
-distintas épocas de la historia. 
-4. Reconocer y valorar la pluralidad mostrando 
-empatía y respeto por otras culturas para 
-contribuir a la mejora de una sociedad en 
-continua transformación y al logro de los 
-valores de integración europea. 
-4.1 Analizar los procesos geogr áficos, históricos y cul turales que han 
-conformado la sociedad actual, valorando la unión social y la libertad, 
-mostrando empatía y respeto por otras culturas y manteniendo 
-referentes de la igualdad. 
-4.2 Promover actitudes de igualdad y c onductas no discriminatorias , 
-apoyadas en la libertad, analizando y contrastando diferentes modelos 
-en nuestra sociedad. 
-5. Participar en el entorno y la vida social de 
-forma eficaz y constructiva desde el respeto a 
-los valores democráticos, los derechos 
-humanos y de la infancia y los principios y 
-valores de la Constitución española y la Unión 
-Europea, valorando la función del Estado y 
-sus instituciones en el mantenimiento de la 
-paz y la seguridad ciudadana. 
-5.1 Resolver de forma pacífica los conflictos, promoviendo una interacción 
-respetuosa, explicando y ejercitando las principales normas, derechos, 
-deberes y libertades que forman parte de la Constitución española y de 
-la de Unión Europea, y conociendo la fun ción que el Estado y sus 
-instituciones desempeñan en el mantenimiento de la paz, la seguridad 
-ciudadana y el reconocimiento de las víctimas de violencia. 
-5.2 Explicar el funcionamie nto general de los órg anos de gobierno del 
-municipio, de las comunidades autónomas, del Estado español y de la 
-Unión Europea, valorando su s funciones y la ge stión de los servicios 
-públicos para la ciudadanía. 
-
-LUNES 18 DE JULIO DE 2022Pág. 48 B.O.C.M. Núm. 169
-BOCM-20220718-1
-BOLETÍN OFICIAL DE LA COMUNIDAD DE MADRIDBOCM
-CONTENIDOS 
-BLOQUES CONOCIMIENTOS, DESTREZAS Y ACTITUDES 
-A. Sociedades y 
-territorios 
-Retos del mundo 
-actual 
-- El futuro de la Tierra y de l universo. Los fenómenos físicos relacionados con la 
-Tierra y el universo y su repercusión en la vida diaria y en el entorno. La exploración 
-espacial y la observación del cielo; la contaminación lumínica. 
-- El clima y el planeta. Introducción a la dinámica atmosférica y a las grandes áreas 
-climáticas del mundo. Los principales ecosistemas y sus paisajes. 
-- El entorno natural. La diversi dad geográfica de Espa ña y de Europa. 
-Representación gráfica, visual  y cartográfica a través de medios y recursos 
-analógicos y digitales usando las Tecnologías de la Información Geográfica (TIG). 
-- Formas de relieve y acci dentes geográficos. Localización en el mapa de España 
-de las unidades del relieve. 
-- Vertientes y cuencas hidrográficas peninsulares. Localización en  el mapa de 
-España de los ríos de la Península Ibérica, su nacim iento, desembocadura y 
-afluentes más importantes. 
-- Los límites geográficos de Europa: conocimiento y localización en el mapa. 
-- Los ríos y cordilleras más importantes de Europa. 
-- Países europeos y sus capitales. 
-- Principales países, ciudades, ríos y cord illeras de Hispanoamérica y otros países 
-del mundo. 
-- Migraciones y pluralidad cultural. Las principales variables demográficas en la 
-historia y su representación grá fica. Los comportamientos de  la población y su 
-evolución. Los movimientos migratorios y la apreciación de la diversidad cultural. 
-Contraste entre zonas urbana s y despoblación rural . Mayores núcleos de 
-población de España y Europa, l as zonas más densamente pobladas y los 
-principales movimientos migratorios. 
-- Ciudadanía activa. Fundamentos y principios para la orga nización política y 
-gestión del territorio en Esp aña. Participación soci al y ciudadana. Las 
-Comunidades Autónomas: sus provincias y capitales. 
-- Igualdad entre personas. Hombres y mujeres en los distintos ámbitos: académico, 
-profesional, social y cultur al. Acciones para la igualdad efectiva apoyado en la 
-libertad.  
-Sociedades en el 
-tiempo 
-- La línea del tiempo: las edades de la historia de España. 
-- Las fuentes históricas: clasificación y util ización de las distinta s fuentes (orales, 
-escritas, patrimoniales). Temas de  relevancia en la hi storia (Edad Media, Edad 
-Moderna y Edad Contemporánea), el papel representado por los sujetos históricos 
-(individuales y colectivos), acontecimientos y procesos: 
-/g120 El comienzo de la Edad Media en la Península Ibérica (Hispania visigoda). 
-/g120 Los musulmanes en la Península Ibérica. 
-/g120 Los reinos cristianos en la Edad Media. La Reconquista. 
-/g120 Los Reyes Católicos. El descubrimiento de América. 
-/g120 España en la Edad Moderna. El siglo XVIII. Los Borbones en España. 
-/g120 España en la Edad Contemporánea. El siglo XIX. 
-/g120 España en la Edad Contemporánea. El siglo XX y XXI. 
-- El papel de la mujer en la historia y los principales movimientos en defensa de sus 
-derechos. Situación actual y retos de futuro con referentes de igualdad entre 
-hombres y mujeres. 
-
-LUNES 18 DE JULIO DE 2022B.O.C.M. Núm. 169 Pág. 49
-BOCM-20220718-1
-BOLETÍN OFICIAL DE LA COMUNIDAD DE MADRIDBOCM
-- La memoria democrática. An álisis multicausal del proces o de construcción de la 
-democracia en España. La Con stitución de 1978. Fórmulas  para la participación 
-de la ciudadanía en la vida pública. 
-- Las expresiones artísticas y culturales medievales, modernas y contemporáneas y 
-su contextualización histórica con referentes de igualdad entre hombres y mujeres. 
-La función del arte y la cultura en el mundo medieval, moderno y contemporáneo. 
-La España de las tres culturas: el j udaísmo, el cristianismo y el islam. 
-- El patrimonio natural y cultura l como bien y recurso;  su uso, cuidado y 
-conservación. 
-- Historia, costumbres y tradiciones de la Comunidad de Madrid y de España.  
-Alfabetización 
-cívica 
-- Historia y cultura de las minorías étnicas pre sentes en nuestro país, 
-particularmente las pro pias del pueblo gitano . Reconocimiento de  la diversidad 
-cultural y de lenguas de España. 
-- Los principios y valores de los derechos humanos y de la infancia y la Constitución 
-española, derechos y deberes de la ciudadanía. La contribución del Estado y sus 
-instituciones a la paz, la seguridad y la cooperación internacional para el desarrollo. 
-- La cultura de paz y no violencia en li bertad. El pensamiento crítico como 
-herramienta para el análisis de los conflictos de interese s. El reconocimiento de 
-las víctimas de la violencia. 
-- La organización polític a. Principales entid ades políticas y administrativas del 
-entorno local, autonómico y nacional en España. Sistemas de representación y de 
-participación política. 
-- España y Europa. Las principales instituciones de España y de la Unión Europea, 
-de sus valores y de sus funciones. Lo s ámbitos de acción de las instituciones 
-europeas y su repercu sión en el entor no. Los principal es símbolos de la Unión 
-Europea. 
-Conciencia social y 
-medioambiental 
-- El cambio climático de  lo local a lo global: cau sas y consecuencias. Medidas de 
-mitigación y adaptación. 
-- Responsabilidad social y medioambiental. Relación en tre seres vivos y 
-ecosistemas y entre personas, sociedades y medio natural. 
-- Los recursos naturales y su cuidado. La actividad humana sob re el espacio y la 
-explotación de los recursos. La actividad económica y la distribución de la riqueza: 
-desigualdad social y regional en e l mundo y en España. Los Objetivos de 
-Desarrollo Sostenible. 
-- Agenda Urbana. El desarrollo urb ano y el cuidado de  los recursos naturales. La 
-ciudad como espacio de convivencia.  
-- La influencia de los merc ados (de bienes, financiero y lab oral) en la vida de l a 
-ciudadanía. Los agentes e conómicos y los de rechos laborales con referentes de 
-igualdad entre hom bres y mujeres. El valor social de los impuestos. 
-Responsabilidad social y ambiental de las empresas. Publ icidad, consumo 
-adecuado (necesidades y deseos) y derechos del consumidor. 
-- Importancia de la planificación de los ingresos, gastos, ahorro, etc. para favorecer 
-un consumo adecuado. 
-- Estilos de vida adecuados: los límites del planeta y el agotamiento de recursos. La 
-huella ecológica. 
- 
-
-LUNES 18 DE JULIO DE 2022Pág. 50 B.O.C.M. Núm. 169
-BOCM-20220718-1
-BOLETÍN OFICIAL DE LA COMUNIDAD DE MADRIDBOCM
-Educación Artística 
- 
-El área de Educación Artística en Educación Primaria contribuye al de sarrollo del alumnado al ab arcar las dimensiones sensorial, 
-intelectual, social, emocional, afectiva, estética y crea tiva de la personalidad . Favorece el desarrollo de la atención, estimu la la 
-percepción, la inteligencia, la memoria a corto y largo plazo, potencia la imaginación, la emotividad y la creatividad. 
-A su vez, con ella se espera qu e el alumnado disfrute de las pri ncipales manifestaciones culturales y artísticas de su entorno y al 
-mismo tiempo se inicie en la creación de sus propias obras, lo que contribuirá a su formación personal y sentido estético. Es un área 
-que permite el acercamiento a diferen tes lenguajes, artes y disciplinas, por lo que resulta fundame ntal la aproximación al trab ajo a 
-partir de herramientas, instrumen tos y materiales variados que de sarrollen la dimensión lúdica , creativa y social de las artes.  El 
-alumnado tomará conciencia de  que las diferentes expresiones artísticas proyectan actitudes, creencias, idea s y sentimientos. S e 
-debe recordar que los avances de la ciencia neurológica han demostrado los beneficios de una formación artística en el desarrollo 
-de la inteligencia y el pensamiento creativo y visual.   
-La estructura del área pivota sob re cuatro competencias específicas. A cada competencia se asoci an, para cada ciclo, criterios de 
-evaluación que permitirán su valoración. Completan el currículo de cada ciclo los contenidos relacionados. 
-Los contenidos se organizan en dos bloques, el Bloque I «Música y danza» y el Bloque  II «Educación plástica y visual». A su vez , 
-estos bloques se concretan en  tres apartados fundamentales, dos de ellos, comun es: «Recepción y an álisis» y «Creación e 
-interpretación», a los que se suman uno más propio de ca da bloque: «Música y artes escénicas», para el primer bloque, y «Artes 
-plásticas, visuales y audiovisuales», para el segundo. Cada uno de estos bloques y apartados se relaciona con ámbitos culturales y 
-artísticos específicos con características propias, aunque en el proceso de enseñanza y aprendizaje se atenderá a una concepción 
-que atienda las diferentes manifestaciones culturales y artísticas del momento actual y de épocas anteriores. 
-Los dos ejes comunes a ambos bloques: «Recepción y análisis» y «Creación e interpretación» merecen una atención especial. En 
-el primero se incluyen todos aquellos aspectos vinculados con el desarrollo de co ntenidos, destrezas y actitudes relacionados c on 
-el reconocimiento, recepción y observación  sensitiva, visual, audi tiva y corporal. El segundo eje se relaciona con la creación y la 
-interpretación; se refiere a la exp resión creativa de idea s, sentimientos y emocion es mediante la explora ción, el conocimiento,  la 
-ejecución y la utilización creativa de diferentes código s, elementos, herramientas, instrumentos, materiales, medios, recursos,  
-soportes, programas, aplicaciones y técnicas culturales y artísticas.  
-En el anexo I del Real Decreto 157/2022, de 1 de marzo, se describen las competencias específ icas vinculadas a esta área. A 
-continuación, se presen tan los criterios de evaluac ión asociados a cada un a de ellas, ordenados po r ciclo, y los contenidos 
-relacionados.  
- 
-PRIMER CICLO 
-COMPETENCIAS ESPECÍFICAS CRITERIOS DE EVALUACIÓN 
-1. Descubrir propuestas artísticas de 
-diferentes géneros, estilos, épocas 
-y culturas, para desarrollar la 
-curiosidad y el respeto por la 
-diversidad. 
-1.1. Descubrir propuestas artísticas de  diferentes géneros, estilos, épocas y culturas, 
-mostrando curiosidad y respeto por las mismas, así como el respeto a la libertad 
-de expresión artística. 
-1.2. Describir manifestaciones cultura les y artísticas del entorno próximo, explorando 
-sus características. 
-1.3. Aproximarse a la lectura  del arte en sus con textos culturales e históricos 
-comprendiendo su significado y función.  
-2. Investigar sobre manifestaciones 
-culturales y artísticas y sus épocas, 
-empleando diversos canales, 
-medios y técnicas, para disfrutar de 
-ellas, entender su valor y empezar 
-a desarrollar una sensibilidad 
-artística propia. 
-2.1. Seleccionar y aplicar estrategias elementales para la búsqueda guiada de 
-información sobre manifestaci ones culturales y artíst icas del entorno próximo, a 
-través de canales y medios de acceso sencillos, tanto de forma individual como en 
-grupo.  
-2.2. Reconocer el ementos característicos básicos de distintas manifestaciones 
-culturales y artísticas que forman parte del patrimonio, indi cando los canales, 
-medios y técnicas empleados e identificando diferencias y similitudes de diversos 
-entornos, del local al autonómico. 
- 
-
-LUNES 18 DE JULIO DE 2022B.O.C.M. Núm. 169 Pág. 51
-BOCM-20220718-1
-BOLETÍN OFICIAL DE LA COMUNIDAD DE MADRIDBOCM
-COMPETENCIAS ESPECÍFICAS CRITERIOS DE EVALUACIÓN 
-3. Expresar y comunicar de manera 
-creativa ideas, sentimientos y 
-emociones, experimentando con 
-las posibilidades del sonido, la 
-imagen, el cuerpo y los medios 
-digitales, para producir obras 
-propias. 
-3.1. Producir obras propias de manera guiada, utilizando algunas de las posibilidades 
-expresivas del cue rpo (gesto y movimiento ), el sonido, la imagen y los medios 
-digitales básicos, y mostrando confi anza en las capacid ades propias, entre ellas 
-danza, teatro, música, pintura… 
-3.2. Expresar de forma guiada ideas, valores, sentimientos y emociones a través de 
-manifestaciones artísticas sencillas, experimentando con los diferentes lenguajes 
-e instrumentos a su alcance. 
-4. Participar del diseño, la elaboración 
-y la difusión de producciones 
-culturales y artísticas individuales o 
-colectivas, teniendo en cuenta el 
-proceso y asumiendo diferentes 
-funciones en la consecución de un 
-resultado final, para desarrollar la 
-creatividad y la noción de autoría.  
-4.1. Participar de manera guiada en el diseño de producciones culturales y artísticas 
-elementales, trabajando en grupo.  
-4.2. Diseñar y elaborar, de ma nera guiada, producciones  culturales y artísticas 
-elementales de carácter individual. 
-4.3. Tomar parte en el proceso  de producciones cultura les y artísticas de forma 
-respetuosa y utilizan do elementos básicos de di ferentes lenguajes y técnicas 
-artísticas. 
-4.4. Compartir los proyectos creativo s, explicando el proceso y el resultado final 
-obtenido, valorando las experiencias propias y las de los demás. 
-CONTENIDOS 
-BLOQUE I 
-Música y danza 
-CONOCIMIENTOS, DESTREZAS Y ACTITUDES 
-A. Recepción y 
-análisis 
-- Principales propuestas artísticas musicales vocales e instrumentales de diferentes corrientes estéticas, 
-procedencias y épocas producidas por creadores y creadoras locales, regionales y nacionales.  
-- Recepción y apreciación de obras artísticas. 
-- Normas elementales de comportamiento y actitud en la recepción de propuestas artísticas musicales 
-y de las artes escénicas en diferentes lugares. El silencio como elemento y condición indispensable 
-para el mantenimiento de la atención durante la recepción y la práctica musical.  
-- Vocabulario específico básico de la música y las artes escénicas. 
-- Recursos digitales básicos para la  música y las artes escénica s.  Estrategias elementales de 
-búsqueda, difusión y filtrado de información de manera responsable. Consecuencias sobre la difusión 
-de obras sin consentimiento.  
-B. Creación e 
-interpretación 
-- Fases del proceso creativo: planificación guiada y e xperimentación: prepara ción, generación y 
-resultado. Ejecución individual y en grupo.  
-- Profesiones vinculadas con la música y las artes escénicas. 
-- Valoración, respeto e interés, tanto por e l proceso como por el pr oducto final, en producciones 
-musicales y escénicas. 
- 
-
-LUNES 18 DE JULIO DE 2022Pág. 52 B.O.C.M. Núm. 169
-BOCM-20220718-1
-BOLETÍN OFICIAL DE LA COMUNIDAD DE MADRIDBOCM
-BLOQUE I 
-Música y danza 
-CONOCIMIENTOS, DESTREZAS Y ACTITUDES 
-C. Música y artes 
-escénicas  
-- El sonido y sus cualidades básica s, tono, duración, timbre e intensidad,  discriminación auditiva, 
-clasificación y representación de diversidad de so nidos y líneas melódicas a través de diferentes 
-grafías.  
-- La voz, cualidades y registros de la voz como instrumento y recurso expresivo, partiendo de la canción 
-y de sus posibilidades para interpretar, crear e imp rovisar. Los instrumentos musi cales y principales 
-familias: viento, cuerda y percusión y agrupacione s: coros, bandas y orquestas. Distinguir tipos de 
-voces e instrumentos. Discriminación visual y auditiva. Objetos sonoros, cotidiáfonos. 
-- El carácter y el tempo: reconocimiento y capacidad de relación tras la escucha de obras musicales.  
-- Práctica instrumental, vocal y corporal: aproximación a la experimentación e interpretación sencilla de 
-piezas vocales e instrumen tales de diferentes épocas, estilos y culturas a partir de las propias 
-posibilidades sonoras y expresivas de forma individual o en distintos agrupamientos.  
-- Construcción asistida de instrumentos con materiales del entorno, domésticos y reciclados.  
-- Lenguajes musicales b ásicos: conocimiento y apli cación de sus conceptos elementales en la 
-interpretación y creación de propuestas musicale s vocales e instrumentales sencillas que contengan 
-procedimientos musicales de repetición, variación y contraste. Juegos rítmicos con instrumentos de 
-diferentes tipos.  
-- El cuerpo y sus posibilidades motrices: interés por la experimentación a travé s de ejecuciones 
-individuales y grupales vinculadas con el movimiento, la danza, la dramatización y la representación 
-teatral como medio de expresión y diversión. El cuerpo como instrumento de expresión de emociones 
-y forma de interacción social.  
-- Técnicas dramáticas y dancísticas elementales. Nociones bá sicas del lenguaje expre sivo y 
-representación dramáticas elementales. Iniciación a la danza y coreografías sencillas. 
-- Capacidades expresivas y creativas básicas de la expresión corporal y dramática. El mimo, el teatro, 
-la danza y el baile como for mas de interacción social. Valora ción y respeto por su aportación al 
-patrimonio cultural. 
-BLOQUE II 
-Educación plástica y 
-visual 
-CONOCIMIENTOS, DESTREZAS Y ACTITUDES 
-A. Recepción y 
-análisis 
-- Principales propuestas artísticas de diferentes corrientes estéticas, procedencias y épocas producidas 
-por creadores y creadoras locales, regionales y nacionales para valorar el patrimonio artístico.  
-- Recepción y apreciación de obras artísticas. 
-- Normas elementales de comportamiento y respeto en la recepción de propuestas artísticas, plásticas, 
-visuales y audiovisuales en  diferentes lugares . El silencio como elemento y condición indispensable 
-para el mantenimiento de la atención durante la recepción.  
-- Vocabulario específico básico de las artes plásticas, visuales y las artes audiovisuales. 
-- Recursos digitales básicos para las artes plásticas, visuales y la s artes audiovis uales. Estrategias 
-elementales de búsqueda de información de manera responsable. Consecuencias sobre la difusión de 
-imágenes propias o ajenas sin consentimiento.  
-B. Creación e 
-interpretación 
-- Fases del proceso creativo: planificación guiada y e xperimentación: prepara ción, generación y 
-resultado. Ejecución individual y grupal.  
-- Profesiones vinculadas con las artes plásticas, visuales y audiovisuales.  
-- Valoración, respeto e interés tanto por el proceso como por el producto final en producciones pláticas, 
-visuales y audiovisuales.  
- 
-
-LUNES 18 DE JULIO DE 2022B.O.C.M. Núm. 169 Pág. 53
-BOCM-20220718-1
-BOLETÍN OFICIAL DE LA COMUNIDAD DE MADRIDBOCM
-BLOQUE II 
-Educación plástica y 
-visual 
-CONOCIMIENTOS, DESTREZAS Y ACTITUDES 
-C. Artes plásticas, 
-visuales y 
-audiovisuales 
-- Las artes visuales. La imagen en el mundo actual: técnicas y estrategias básicas de lectura. Distintas 
-manifestaciones de las artes visuales.   
-- Elementos configurativos básicos del lenguaje visual: punto, línea, plano, textura, color.  
-- Materiales, instrumentos, soportes y técnicas elementales utilizados en la expresión plástica y visual.  
-- Medios, soportes y materiales de expresión plástica y visua l. Técnicas bidimensionales y 
-tridimensionales básicas de composición, equilibrio y proporción en dibujos y modelados sencillos.   
-- Herramientas adecuadas para el registro de imagen y sonido. 
-- Estrategias y técnicas bá sicas de composición de historias audiov isuales sencillas con intención 
-comunicativa.  
-- Nociones básicas sobre el cine. El cine de animación como género y sus características. 
-- Respeto y valoración de  las manifestaciones artísticas más importantes del patrimonio cultural y 
-artístico, español y local.   
- 
-SEGUNDO CICLO 
-COMPETENCIAS ESPECÍFICAS CRITERIOS DE EVALUACIÓN 
-1. Descubrir propuestas artísticas de 
-diferentes géneros, estilos, épocas y 
-culturas, para desarrollar la 
-curiosidad y el respeto por la 
-diversidad. 
-1.1. Reconocer propuestas artísticas de diferentes géneros, estilos, épocas y 
-culturas, mostrando curiosidad y respeto por las mismas. 
-1.2. Describir manifestaciones culturales y artísticas, explora ndo sus características 
-y estableciendo relaciones básicas entre ellas. 
-1.3. Aproximarse a la lectura y el análisis del arte en su situación histórica 
-comprendiendo su significado y función.  
-2. Investigar sobre manifestaciones 
-culturales y artísticas y sus épocas, 
-empleando diversos canales, medios 
-y técnicas, para disfrutar de ellas, 
-entender su valor y empezar a 
-desarrollar una sensibilidad artística 
-propia. 
-2.1. Seleccionar y aplicar estrategias básicas para la búsqueda guiada de información 
-sobre manifestaciones culturales y artísticas, a travé s de canales y medios de 
-acceso sencillos, tanto de forma individual como grupal. 
-2.2. Distinguir elementos característico s básicos de manifes taciones culturales y 
-artísticas que forman parte del patrimonio, indi cando los canales, medios y 
-técnicas utilizados, analizando sus diferencias y similitudes y reflexionando sobre 
-las sensaciones producidas, con actitud de interés y respeto. 
-3. Expresar y comunicar de manera 
-creativa ideas, sentimientos y 
-emociones, experimentando con las 
-posibilidades del sonido, la imagen, 
-el cuerpo y los medios digitales, para 
-producir obras propias. 
-3.1. Producir obras propias de manera guiada, utilizando algunas de las posibilidades 
-expresivas del cuerpo (gesto y movimiento), el sonido, la imagen y los medios 
-digitales básicos, y mostrando confianza en las capacidades propias, entre ellas 
-danza, teatro, música, pintura… 
-3.2. Expresar con creatividad ide as, sentimientos y emociones a través de 
-manifestaciones artísticas básicas, experimentando con los diferentes lenguajes 
-e instrumentos a su alcance. 
- 
-
-LUNES 18 DE JULIO DE 2022Pág. 54 B.O.C.M. Núm. 169
-BOCM-20220718-1
-BOLETÍN OFICIAL DE LA COMUNIDAD DE MADRIDBOCM
-COMPETENCIAS ESPECÍFICAS CRITERIOS DE EVALUACIÓN 
-4. Participar del diseño, la elaboración 
-y la difusión de producciones 
-culturales y artísticas individuales o 
-colectivas, teniendo en cuenta el 
-proceso y asumiendo diferentes 
-funciones en la consecución de un 
-resultado final, para desarrollar la 
-creatividad y la noción de autoría. 
-4.1. Participar de manera guiada en el diseño de producciones culturales y artísticas, 
-trabajando en grupo en la consecución de un resultado final planificado y 
-asumiendo diferentes funciones.  
-4.2. Participar en el proceso de producciones culturales y artísticas, de forma creativa 
-y respetuosa, utilizando elementos básicos de  diferentes lengua jes y técnicas 
-artísticas. 
-4.3. Compartir los proyectos c reativos, empleando estrate gias comunicativas 
-básicas, explicando el  proceso y el resultad o final obtenido, res petando y 
-valorando las experiencias propias y las de los demás. 
-4.4. Diseñar y elaborar producc iones culturales y artística s propias, de carácter 
-individual y grupal, de acuerdo a su desarrollo evolutivo. 
-CONTENIDOS 
-BLOQUE I 
-Música y danza  
-CONOCIMIENTOS, DESTREZAS Y ACTITUDES 
-A. Recepción y 
-análisis 
-- Propuestas artísticas de diferentes corrientes estéticas, procedencias y épocas producidas por 
-creadores y creadoras locales, regionales y nacionales. 
-- Recepción y apreciación de obras artísticas. 
-- Normas comunes de compo rtamiento y actitud positiva  en la recepción de propuestas artísticas 
-musicales y escénicas en diferentes lugares. El silencio como elemento y condición indispensable para 
-el mantenimiento de la atención durante la recepción y la práctica musical. 
-- Vocabulario específico de uso común en la música y en las artes escénicas. 
-- Recursos digitales de uso común para la música y las artes escénicas.  
-- Estrategias básicas de análisis de propuestas artísticas musicales y artes escénicas.  
-B. Creación e 
-interpretación 
-- Fases del proceso creativo: planificación, interpretación y experimentación. 
-- Profesiones vinculadas con la música y las artes escénicas.  
-- Respeto, interés y val oración tanto por el proceso como por el  producto final en producciones 
-musicales y escénicas.  
- 
-
-LUNES 18 DE JULIO DE 2022B.O.C.M. Núm. 169 Pág. 55
-BOCM-20220718-1
-BOLETÍN OFICIAL DE LA COMUNIDAD DE MADRIDBOCM
-BLOQUE I 
-Música y danza  
-CONOCIMIENTOS, DESTREZAS Y ACTITUDES 
-C. Música y artes 
-escénicas  
-- El sonido y sus cualidades (tono, duración, timbre e i ntensidad): identificación visual y auditiva y 
-representación elemental de diversidad de sonid os. Estructuras rítmico- melódicas a través de 
-diferentes grafías.  
-- La voz y los in strumentos musicales. Agru paciones: (coros, bandas, orquestas) y familias: (viento, 
-cuerda, percusión). Identificación visual y auditiva. Objetos sonoros. Cotidiáfonos.  
-- El carácter, el tempo y el compás, tras la escucha de obras musicales. 
-- Práctica instrumental, vocal y corporal: experimentación, interp retación e improvisa ción de piezas 
-vocales e instrumentales de diferente época, estilos y culturas a partir de sus posibilidades sonoras y 
-expresivas de forma individual o en distintos agrupamientos.  
-- Construcción guiada de instrumentos. Práctica instrumental.  
-- Lenguajes musicales: conocimiento y aplicación de sus conceptos básicos en la interpretación y en la 
-improvisación de propuestas  musicales vocales e instrumen tales que contengan procedimientos 
-compositivos: repetición, imitación, variación y desarrol lo. El silencio como  elemento fundamental de 
-la música.  
-- Aplicaciones informáticas básicas de grabación y edición de audio.  
-- El cuerpo y sus posibilidades motrices y creativas: interés por la experimenta ción a través de 
-ejecuciones i ndividuales y grupales vinculadas con el mo vimiento, la danza, la dramatización y la 
-representación teatral como medios de expresión y diversión. 
-- Técnicas dramáticas y dancísticas de  uso común. Lenguajes expresiv os básicos. Improvisación 
-guiada. 
-- Capacidades expresivas y creativas de uso común de la expresión corporal y dramática. 
-- Elementos básicos de la representación escénica. 
-BLOQUE II 
-Educación plástica y 
-visual 
-CONOCIMIENTOS, DESTREZAS Y ACTITUDES 
-A. Recepción y 
-análisis 
-- Propuestas artísticas de diferentes corrientes estéticas de las artes plásticas, visuales y audiovisuales, 
-procedencias y épocas producidas por creadores y creadoras locales, regionales y nacionales. 
-- Recepción y apreciación de obras artísticas. 
-- Normas comunes de comportamien to y actitud en la recepción de prop uestas artísticas plásticas, 
-visuales y audiovisuales en diferentes lugares.  
-- Vocabulario específico de uso común en las artes plásticas, visuales y audiovisuales. 
-- Recursos digitales de uso común para las artes plásticas, visuales y las artes audiovisuales. 
-- Análisis de obras artísticas. 
-B. Creación e 
-interpretación 
-- Fases del proceso creativo: planificación, interpretación y experimentación. 
-- Profesiones vinculadas con las artes plásticas, visuales y las artes audiovisuales.   
-- Respeto, interés y valoración, tanto por el proceso como por el producto final en producciones 
-plásticas, visuales y audiovisuales.  
- 
-
-LUNES 18 DE JULIO DE 2022Pág. 56 B.O.C.M. Núm. 169
-BOCM-20220718-1
-BOLETÍN OFICIAL DE LA COMUNIDAD DE MADRIDBOCM
-BLOQUE II 
-Educación plástica y 
-visual 
-CONOCIMIENTOS, DESTREZAS Y ACTITUDES 
-C. Artes plásticas, 
-visuales y 
-audiovisuales 
-- Las artes visuales . La imagen en el mundo  actual: técnicas y estrategi as básicas de lectura e 
-interpretación (análisis y realización) de los elementos que la componen. 
-- Elementos configurativos básicos del lenguaje visual y sus posibilidades expresivas y comunicativas: 
-punto, línea, plano, textura, color. Elementos configurativos del lenguaje visual.  
-- Materiales, instrumentos, soportes y técnicas de uso común utilizados en la expresión plástica y visual. 
-- Medios, soportes y materia les de expresión plá stica y visual. Técnicas bidimensionales y 
-tridimensionales en  dibujos y mod elados sencillos utilizando elementos básicos de comp osición, 
-equilibrio y proporción.   
-- Técnicas, materiales y recursos informáticos y tecnol ógicos básicos: su aplicación para la captura, 
-creación y manipulación de producciones plásticas y visuales de manera responsable.  
-- Registro y edición bá sica de elementos audi ovisuales: conceptos, tecnol ogías, técnicas y recursos 
-elementales y de manejo sencillo.   
-- Técnicas de uso común de composición de historias audiovisuales.  
-- El cine como forma de narración. El cine de animación como género.   
-- Géneros y formatos básicos de producciones audiovisuales.  
-- Manifestaciones básicas vin culadas a la expresi ón plástica, visual y a las artes audiovisuales de 
-diferentes lugares, épocas y estilos, incluidas las contemporáneas. Obras artísticas más relevantes del 
-patrimonio cultural y artístico español. 
-- Producciones multimodales: iniciación en la realización con diversas herramientas. Reconocimiento de 
-características elementales del lenguaje audiovisual multimodal. 
-- Normas básicas de comportamiento y respeto ante las producciones propias y de los demás.  
- 
-TERCER CICLO 
-COMPETENCIAS ESPECÍFICAS CRITERIOS DE EVALUACIÓN 
-1. Descubrir propuestas artísticas de 
-diferentes géneros, estilos, 
-épocas y culturas, para 
-desarrollar la curiosidad y el 
-respeto por la diversidad. 
-1.1. Distinguir propuestas artísticas de  diferentes géneros, estilos, épocas y culturas, 
-mostrando curiosidad y respeto por las mismas. 
-1.2. Describir manifestaciones culturales y artíst icas, explorando  sus características, 
-estableciendo relaciones entre ellas y valorando la diversidad que las genera. 
-1.3. Aproximarse a la lectura, análisis e interpretación del arte en sus situaciones 
-culturales e históricas comprendiendo su significado y función social. 
-2. Investigar sobre manifestaciones 
-culturales y artísticas y sus 
-épocas, empleando diversos 
-canales, medios y técnicas, para 
-disfrutar de ellas, entender su 
-valor y empezar a desarrollar una 
-sensibilidad artística propia.  
-2.1. Seleccionar y aplicar métodos para la búsqueda de  información sobre 
-manifestaciones culturales y artísticas, a través de di versos canales y medios de 
-acceso, tanto de forma individual como grupal. 
-2.2. Comparar el significado y los elementos característicos de distintas manifestaciones 
-culturales y artísticas que forman parte del patrimonio, anal izando los canales, 
-medios y técnicas vinculados a ellas, así como sus diferencias y similitudes. 
-2.3. Valorar las sensacion es y emociones produc idas por diferente s manifestaciones 
-culturales y artísticas, a pa rtir del análisis y la comprensión de dichas 
-manifestaciones. 
- 
-
-LUNES 18 DE JULIO DE 2022B.O.C.M. Núm. 169 Pág. 57
-BOCM-20220718-1
-BOLETÍN OFICIAL DE LA COMUNIDAD DE MADRIDBOCM
-COMPETENCIAS ESPECÍFICAS CRITERIOS DE EVALUACIÓN 
-3. Expresar y comunicar de manera 
-creativa ideas, sentimientos y 
-emociones, experimentando con 
-las posibilidades del sonido, la 
-imagen, el cuerpo y los medios 
-digitales, para producir obras 
-propias. 
-3.1. Producir obras propias bá sicas, utilizando las po sibilidades expresivas del cuerpo, 
-el sonido, la imagen y lo s medios digitales básicos, mostrando confianza en las 
-capacidades de uno mismo, entre ellas danza, teatro, música, pintura…. 
-3.2. Expresar con creatividad ide as, sentimientos y emocion es a través de diversas 
-manifestaciones artísticas, utilizando los di ferentes lenguajes e instrumentos a su 
-alcance, mostrando confianza en las propi as capacidades y perfeccionando la 
-ejecución. 
-4. Participar del diseño, la 
-elaboración y la difusión de 
-producciones culturales y 
-artísticas individuales o 
-colectivas, teniendo en cuenta el 
-proceso y asumiendo diferentes 
-funciones en la consecución de 
-un resultado final, para desarrollar 
-la creatividad y la noción de 
-autoría.  
-4.1. Planificar y diseñar producciones culturales y artíst icas colectivas, trabajando de 
-forma grupal en la con secución de un  resultado final, asumiendo diferentes 
-funciones. 
-4.2. Participar activamente en el pro ceso de producciones culturales y artísticas, de 
-forma creativa y respetuosa, utilizando elementos de diferentes lenguajes y técnicas 
-artísticas. 
-4.3. Compartir los proyectos creat ivos, comunicándolos a través de di versos medios, 
-explicando el proceso y el  resultado final obtenido, y respetando y valorando las 
-experiencias de uno mismo y de los demás. 
-4.4. Diseñar y elaborar produ cciones culturales y artística s de carácter individual, 
-considerado su madurez. 
-CONTENIDOS 
-BLOQUE I 
-Música y danza 
-CONOCIMIENTOS, DESTREZAS Y ACTITUDES 
-A. Recepción y 
-análisis 
-- Propuestas artísticas de diferentes corrientes estéticas, procedencia s y épocas producidas por 
-creadoras y creadores locales, regionales, nacionales e internacionales.  
-- Recepción y apreciación de obras artísticas. 
-- Normas de comportamiento y actitud en la recepción de propuestas artísticas y musicales en diferentes 
-lugares. El silencio como elemento y con dición indispensable para el mantenimiento de la atención 
-durante la recepción y la práctica musical.  
-- Vocabulario específico de la música y las artes escénicas. 
-- Recursos digitales de uso común para la música y las artes escénicas.  
-- Análisis de obras artísticas. 
-B. Creación e 
-interpretación 
-- Fases del proceso creativo: planificación, interpretación, experimentación y evaluación. 
-- Profesiones vinculadas con la música y las artes escénicas.  
-- Evaluación, respeto, interés  y valoración, tanto por el proceso como por el producto final en 
-producciones musicales y escénicas. 
-- Uso responsable de banco s de imágenes y sonid os: respeto a las li cencias de uso y distribución de 
-contenidos generados por otros. Plagio y derechos de autor. 
- 
-
-LUNES 18 DE JULIO DE 2022Pág. 58 B.O.C.M. Núm. 169
-BOCM-20220718-1
-BOLETÍN OFICIAL DE LA COMUNIDAD DE MADRIDBOCM
-BLOQUE I 
-Música y danza 
-CONOCIMIENTOS, DESTREZAS Y ACTITUDES 
-C. Música y artes 
-escénicas  
-- El sonido y sus cualidades (tono, duraci ón, timbre e intensida d): identificación vis ual y auditiva, 
-clasificación y representación de diversidad de  sonidos y estructuras rítmico- melódicas a través de 
-diferentes grafías.  
-- La voz y los instrumen tos musicales. Familias (viento, cuerda, percusión y agrupaciones (coros, 
-bandas, orquestas). Cl asificación. Identificación visual y au ditiva. Instrumento s digitales y no 
-convencionales. Cotidiáfonos.  
-- El carácter, el tempo, el compás, los géneros musicales, la  textura, la armonía y la forma tras la 
-escucha de obras musicales. 
-- Práctica instrumental, vocal y corporal: experimenta ción, exploración crea tiva, interpretación, 
-improvisación de piezas vocales e instrumentales de diferente época, estilos y culturas y composición 
-a partir de sus posibilidades sonoras y expresivas de forma individual o en distintos agrupamientos, de 
-acuerdo a su desarrollo evolutivo.  
-- Construcción de instrumentos. Práctica instrumental.   
-- Lenguajes musicales: conocimiento y aplicación de sus conceptos fundamentales en la interpretación 
-y en la improvisación  de propuestas musicales vocal es e instrumentales que contengan 
-procedimientos composi tivos: repetición, imitación , variación y desarrollo . El silencio en  la música 
-como elemento fundamental.  
-- Aplicaciones informáticas de grab ación, edición de audi o y edición de partituras: utilización en la 
-audición, conocimiento, interpretación, grabación, reproducción, improvisación y creación de obras.  
-- El cuerpo y sus posibilidades motrices, dramáticas y creativas: interés en la experimentación a través 
-de ejecuciones individuales y grupales vinculadas con el m ovimiento, la danza, la dramatización y la 
-representación teatral como medio de comunicación, expresión, diversión y fomento de la creatividad. 
-- Técnicas básicas dramáticas y dancísticas. Nociones elementales. Lenguajes expresivos. Introducción 
-a los métodos interpretativos. Improvisación guiada y creativa. 
-- Capacidades expresivas y creativas de la expresión corporal y dramática. 
-- Elementos de la representación y creación escénica.  
-- Aproximación a los géneros escénicos. Valoración de la importancia de la interpretación dramática en 
-el proceso artístico y del patrimonio cultural vinculado a las artes escénicas.   
-BLOQUE II 
-Educación plástica y 
-visual 
-CONOCIMIENTOS, DESTREZAS Y ACTITUDES 
-A. Recepción y 
-análisis 
-- Obras artísticas, plásticas, visuales y audiovisuales de diferentes corrientes estéticas, procedencias y 
-épocas producidas por creadores locales, regionales, nacionales e internacionales. 
-- Recepción y apreciación de obras artísticas. 
-- Normas de comportami ento y actitud en la recepción de propue stas artísticas plásticas, visuales y 
-audiovisuales en diferentes lugares. El silencio como elemento y con dición indispensable para el 
-mantenimiento de la atención durante la recepción. 
-- Vocabulario específico de las artes plásticas, visuales y las artes audiovisuales. 
-- Recursos digitales de uso común para las artes plásticas, visuales y las artes audiovisuales.  
-- Estrategias básicas de análisis de obras artísticas. 
-B. Creación e 
-interpretación 
-- El proceso creativo. 
-- Profesiones vinculadas con las artes plásticas y visuales y las artes audiovisuales.  
-- Evaluación, respeto, interés y valoración tanto por el proceso como por el producto final en 
-producciones plásticas, visuales, audiovisuales. 
-- Uso responsable de bancos de imágenes y sonido s: respeto a las li cencias de uso y distribución de 
-contenidos generados por otros. Plagio y derechos de autor. 
- 
-
-LUNES 18 DE JULIO DE 2022B.O.C.M. Núm. 169 Pág. 59
-BOCM-20220718-1
-BOLETÍN OFICIAL DE LA COMUNIDAD DE MADRIDBOCM
-BLOQUE II 
-Educación plástica y 
-visual 
-CONOCIMIENTOS, DESTREZAS Y ACTITUDES 
-C. Artes plásticas, 
-visuales y 
-audiovisuales 
-- Artes visuales. La imagen en el mundo actual: técnicas y estrategias de lectura de los elementos que 
-la componen, análisis e interpretación.  
-- Elementos configurativos de l lenguaje visual y sus posibilidades expresivas y comunicativas: punto, 
-línea, plano, textura, color.  
-- Materiales, instrumentos, soportes y técnicas en la expresión plástica y visual.  
-- Medios, soportes y materiales de exp resión plástica y visual. Técnicas bidimensionales y 
-tridimensionales en dibujos y modelados incluidos los formatos artísticos contemporáneos.  
-- Elementos geométricos fundamentales. Nociones básicas para la creación de obras relacionadas con 
-el dibujo técnico. 
-- Técnicas, materiales y recu rsos informáticos y tecnológico s: su aplicación para la captura, creación, 
-manipulación y difusión de obras plásticas y visuales de manera responsable.  
-- Registro y edición de elem entos audiovisuales: conceptos, tecnologías, técnicas y recursos 
-elementales y de manejo sencillo. 
-- Estrategias y técnicas de co mposición de historias sencillas  audiovisuales de maner a individual y 
-grupal, con intención comunicativa y expresiva, para ser recreadas, narradas y grabadas.  
-- El cine: origen e historia. Nociones elementales del lenguaje cinematográfico y audiovisual. Visionado 
-de propuestas icónicas, cinematográficas y audiovisuales. 
-- Géneros y formatos de producciones  audiovisuales. Nociones elementa les sobre estilo s, géneros y 
-formatos audiovisuales: imagen fija y en movimiento. Ficción y no ficción.   
-- Producciones multimodales: realización con diversas herramientas. 
-- Características del lenguaje audiovisual multimodal.  
-- Las herramientas y las técnicas básicas de animación. El cine de animación como género. Creación, 
-montaje y difusión de una película, sencilla, de animación. 
- 
-
-LUNES 18 DE JULIO DE 2022Pág. 60 B.O.C.M. Núm. 169
-BOCM-20220718-1
-BOLETÍN OFICIAL DE LA COMUNIDAD DE MADRIDBOCM
-Educación Física 
- 
-El área de Educación Física en la etapa de Ed ucación Primaria propone trabajar sobre aspectos fundamentales que contribuyen a 
-cimentar una competencia que va más allá de lo motriz, pe ro toma como base este ámbito fundamental para  el desarrollo del 
-individuo. 
-Estos aspectos esenciales que contribuyen a consolidar esta competencia son, entre otros, un estilo de vida adecuado, el 
-conocimiento de su propio cuerpo, adoptar actitudes de  respeto y cuidado de lo s diferentes entor nos en los qu e se práctica la 
-actividad física o el desarrollo de los procesos de toma de decisión que intervienen en la resolución de problemas motrices. 
-La estructura del área se asienta  sobre cinco competencias específicas. A cada competencia se asocian, para cada ciclo, criteri os 
-de evaluación que permitirán su valoración. Se completa el currículo con los contenidos relacionados. 
-La primera competencia trata de forma más precisa y en profundidad el cuerpo, pretende sentar las bases para que el alumno 
-adquiera un estilo de vida activo y adecuado, que pueda consolidar en la etapa de Educación Secundaria y perpetuar a lo largo de 
-su vida. La segunda competencia busca adaptar y combinar los elementos propios del cuerpo en relación co n el movimiento: 
-esquema corporal, las capacidades físicas, perceptivo-motrices, coordinativas y las habilidades y destrezas motrices con el objetivo 
-de poder aplicar los proc esos de percepción, decisión y ejecución necesari as para desarrollar prácti cas motrices en diferentes 
-contextos de la vida. A su vez, la tercera competencia se orienta a que estos procesos sean regulados por el alumnado durante la 
-etapa de forma autónoma e in teraccionando con sus compañeros de manera adecuada con  el objetivo de  contribuir a una 
-convivencia positiva. Por otra parte, como queda recogido en la cuarta competencia, el al umnado debe conocer diferentes 
-actividades lúdicas, físico depo rtivas y artístico expresivas propias de la cultura motriz, con el objetivo de que sean capaces  de 
-incorporarlas en situaci ones motrices de uso cotidiano. La qui nta competencia, por último, abor da la actividad física en distin tos 
-contextos, que pueden encontrarse tanto en el medio urba no como en el natural, po r lo que el alumno de be ser respetuoso con el 
-medio en el que se realice la actividad física. 
-Para contribuir al desarrollo de las capacidades descritas en las competencias específicas, es imprescindible adquirir y movilizar los 
-contenidos de todos los bloques del área, de manera coordinada. Se diferencian los siguientes: «Vida activa y saludable», «Organización 
-y gestión de la actividad física», «Resolución de problemas en si tuaciones motrices», «regulación emocional e interacción social en 
-situaciones motrices», «Manifestaciones de la cultura motriz» e «Interacción eficiente y adecuada con el entorno».  
-Los criterios de evaluación para cada uno de los ciclos reve larán el producto fin al esperado, los pr ocesos y las actitudes que 
-acompañan a esa producción final. Los instrumentos de evaluación serán variados y de mejora continua. 
-En resumen, el área de Educación Física debe promover contextos escolares para el conocimiento y aceptación del cuerpo y del de 
-los demás, para saber interactuar a través del uso de diferentes formas de expresión y comunicación mediante el movimiento corporal 
-y de aprender gracias al trabajo conjunto, estimulando el conocimiento, la comunicación, la socialización, la creatividad, sensibilidad, 
-el control de las emociones y el mantenimiento de una vida activa y adecuada. 
-  
-PRIMER CICLO 
-COMPETENCIAS ESPECÍFICAS CRITERIOS DE EVALUACIÓN 
-1. Adoptar un estilo de vida activo y adecuado, 
-practicando regularmente actividades físicas, 
-lúdicas y deportivas, adoptando 
-comportamientos que potencien la salud, así 
-como medidas de responsabilidad durante la 
-práctica motriz.  
-1.1. Identificar los desplaz amientos activos como práctica saludable, 
-conociendo sus beneficios físicos y sociales para el establecimiento de 
-un estilo de vida activo. 
-1.2. Explorar las posibilidades de la propia motricidad y de la de los demás a 
-través del juego, aplicando en distintas situaciones cotidianas medidas 
-básicas de cuidado de la salud personal a través de la higiene corporal, 
-el descanso, la educación postural y la alimentación. 
-1.3. Participar en juegos de activación y vuelta a la calma, reconociendo su 
-utilidad para adaptar el cuerpo a la actividad física y evitar lesiones, así 
-como recuperar el equilibrio psic osomático después del esfuerzo 
-manteniendo la calma y sabiendo cómo actuar en caso de que se 
-produzca algún accidente en contextos de práctica motriz. Tomando 
-medidas de seguridad previas a la práctica motriz y utilizando los 
-diferentes materiales de forma correcta. 
-1.4. Conocer los valores positivos que fomenta la práctica motriz, realizada 
-ya sea de manera indiv idual como compartida, reconociendo, 
-vivenciando y disfrutando sus benefic ios en contextos variados, y 
-respetando a todos los partici pantes con independencia de sus 
-diferencias. 
-
-LUNES 18 DE JULIO DE 2022B.O.C.M. Núm. 169 Pág. 61
-BOCM-20220718-1
-BOLETÍN OFICIAL DE LA COMUNIDAD DE MADRIDBOCM
-COMPETENCIAS ESPECÍFICAS CRITERIOS DE EVALUACIÓN 
-2. Adaptar los elementos propios del esquema 
-corporal, las capacidades físicas, perceptivo-
-motrices y coordinativas, así como las 
-habilidades y destrezas motrices, aplicando 
-procesos de percepción, decisión y ejecución, 
-para dar respuesta a las demandas de 
-proyectos motores y de prácticas motrices con 
-distintas finalidades en contextos de la vida 
-diaria. 
-2.1. Reconocer la importanc ia de establecer metas y objetivos claros, 
-conocer los recursos materi ales, los roles de los participantes y las 
-reglas básicas a la hora de desarrollar proyectos motores de carácter 
-individual o grupal, valorando su consecución a partir de un análisis 
-de los resultados obtenidos, ya sean de proceso o finales. 
-2.2. Adoptar decisiones en conte xtos de práctica motriz de manera 
-ajustada según las circunsta ncias personales, materiales y 
-ambientales. 
-2.3. Descubrir, reconocer y emplear lo s componentes cualitativos y 
-cuantitativos de la motricidad de  manera lúdica responsable e 
-integrada en diferentes situaciones y contextos, mejorando 
-progresivamente su control y su dominio corporal. 
-3. Desarrollar procesos de regulación e interacción 
-en el marco de la práctica motriz, haciendo uso 
-de habilidades sociales y actitudes de respeto, 
-trabajo en equipo y deportividad, con 
-independencia de las diferencias y de las 
-habilidades de los participantes, para contribuir 
-a la convivencia.  
-3.1. Identificar y reconocer la s emociones que se producen durante el 
-juego, intentando gestionarlas, disfrutando de la actividad física. 
-3.2. Respetar las normas consensuadas, así como las reglas de juego, y 
-actuar desde los parámetros de la deportividad y el juego limpio, 
-gestionando la tolerancia a la  frustración y aceptando las 
-características y niveles de los participantes, así como los roles de 
-juego asignado. 
-3.3. Participar en las práctic as motrices cotidianas, co menzando a 
-desarrollar habilidades sociales de acogida, ayu da y colaboración , 
-iniciándose en la resolución  de conflictos personales fomentando el 
-dialogo y la mejora de la convivencia.  
-4. Reconocer y practicar diferentes 
-manifestaciones lúdicas, físico-deportivas y 
-artístico-expresivas propias de la cultura motriz, 
-valorando su influencia y sus aportaciones a la 
-cultura para integrarlas en las situaciones 
-motrices que se utilizan regularmente en la vida 
-cotidiana. 
-4.1. Participar activamente en la rep roducción de juegos y otras 
-manifestaciones artístico-expresivas de carácter cultural del entorno, 
-valorando su componente lúdico- festivo y disfrutando de su puesta 
-en práctica. 
-4.2. Conocer y valorar los logros de personas y distintos colectivos 
-referentes del deporte de ambos géneros, reconociendo el esfuerzo, 
-la dedicación su actitud ante la derrota y l os sacrificios requeridos 
-para alcanzar dichos éxitos. 
-4.3. Adecuar los distintos usos comunicativos de la corporalidad (gestos, 
-muecas, representación de personaje s) y sus manifestaciones a 
-diferentes ritmos y contextos expresivos. 
-5. Valorar diferentes medios naturales y urbanos 
-como contextos de práctica motriz, 
-interactuando con ellos y comprendiendo la 
-importancia de su conservación, adoptando 
-medidas de responsabilidad durante la práctica 
-de juegos y actividades físico-deportivas, para 
-realizar una práctica eficiente y respetuosa con 
-el entorno y participar en su cuidado y mejora. 
-5.1. Participar en actividades lúdico- recreativas de forma segura en los 
-entornos natural y urbano y en contextos terrestres o acuáticos, 
-conociendo otros usos desde la motricidad y adoptando actitudes de 
-cuidado y conservación de dichos entornos. 
- 
-
-LUNES 18 DE JULIO DE 2022Pág. 62 B.O.C.M. Núm. 169
-BOCM-20220718-1
-BOLETÍN OFICIAL DE LA COMUNIDAD DE MADRIDBOCM
-CONTENIDOS 
-BLOQUES CONOCIMIENTOS, DESTREZAS Y ACTITUDES 
-A. Vida activa y 
-saludable 
-- Salud física: efectos físico s beneficiosos de un estilo de vida activo. Alimentación saludable e 
-hidratación. Educación postural en situaciones cotidianas. Cuidado del cuerpo: higiene personal y 
-el descanso tras la actividad física. 
-- Salud mental: bienestar personal y en el entorno a través de la motricidad. Conocimiento de uno 
-mismo e identificación de fortalezas y debilidades en todos los ámbitos (social, físico y mental). La 
-actividad motriz como ayuda para la regulación de las emociones, la autoestima y para combatir 
-el estrés. 
-- Salud social: la actividad física como práctica social saludable. Derechos de los niños en el deporte 
-escolar. Respeto hacia todas las personas con independencia de sus características personales. 
-La actividad física como medio para la resolución de conflictos y para fomentar valores. 
-B. Organización y 
-gestión de la actividad 
-física 
-- Elección de la práctica física: vivencia de diversas experiencias corporales en distintos contextos, 
-de forma individual y en grupo. 
-- Cuidado del material utilizado en la actividad a desarrollar. 
-- Preparación de la práctica motriz: vestimenta deportiva adecuada y hábitos generales de higiene 
-corporal. 
-- Planificación y regulaci ón guiada de proyecto s motores sencillo s: objetivos o metas, 
-conocimientos previos, recu rsos materiales y ambie ntales, participantes y sus roles, reglas y 
-aspectos didácticos básicos. 
-- Prevención de accidentes en las prácticas motrices: juegos de activación, calentamiento y vuelta 
-a la calma. Medidas de seguridad previas a la práctica motriz. Correcta utilización de los diferentes 
-materiales a utilizar. 
-C. Resolución de 
-problemas en 
-situaciones motrices 
-- Toma de decisiones: adecuación de las acciones a las capacidades y las limitaciones personales 
-en situaciones motrices in dividuales. Coordinación de  acciones con compañero s en situaciones 
-conjuntas. Adecuación  de la acción a la ubicación del adversario en  situaciones motrices de 
-persecución y de interacción con un móvil. Selección de la posición corpor al o la distancia 
-adecuadas en situaciones de op osición de contacto. Sele cción de acciones para  mantener la 
-posesión, recuperar el móvil o evitar que el atacante progrese en situaciones motrices de 
-colaboración-oposición de persecución y de interacción con un móvil. 
-- Capacidades perceptivo- motrices en contextos de práctica: in tegración del es quema corporal; 
-conciencia corporal, lateralidad (utilización de los segmentos dominantes) y su proyección en el 
-espacio; coordinación óculo-pédica y óculo-manual; equilibrio estático y dinámico. 
-- Capacidades físicas desde el ámbito lúdico y el juego. 
-- Habilidades y destrezas motrices básicas genéricas: locomotrices, (correr, trepar, rodar) no 
-locomotrices (girar, saltar, balancearse, colgarse) y manipulativas (lanzar, recepcionar, golpear, botar). 
-- Creatividad motriz: variación y adecua ción de la acción m otriz ante estímulos internos (sistema 
-interoceptivo) y estímulos externos (sistema exteroceptivo). 
-D. Regulación emocional 
-e interacción social en 
-situaciones motrices 
-- Gestión emocional: estrategias de identificación, experimentación, regulación y manifestación de 
-emociones, pensamientos y sentimientos con una conducta asertiva a partir de experiencias 
-motrices. 
-- Habilidades sociales: verbal ización de emociones derivada s de la interacción e n contextos 
-motrices. Asertividad y autonomía emocional. 
-- Respeto de las reglas de juego, a las normas y a los compañeros. Tolerancia a la frustración. 
-- Conductas que favorezcan la convivencia y la igualdad y de respeto a los demás, en situaciones 
-motrices: cooperación, toma de decisiones, capacidad de relación, estrategias de identificación de 
-conductas discriminatorias. Adaptación a las diferentes capacidades. 
-- Gestión del conflicto: iniciarse en  el conocimiento de estra tegias para solucionar situaciones 
-conflictivas establecimiento de med idas guiadas para solucionar la situación problemática y 
-acuerdos para adoptarlas. 
-
-LUNES 18 DE JULIO DE 2022B.O.C.M. Núm. 169 Pág. 63
-BOCM-20220718-1
-BOLETÍN OFICIAL DE LA COMUNIDAD DE MADRIDBOCM
-BLOQUES CONOCIMIENTOS, DESTREZAS Y ACTITUDES 
-E. Manifestaciones de la 
-cultura motriz 
-- Aportaciones de la cul tura motriz a la herencia  cultural. Los jue gos y las danzas como 
-manifestación de la pr opia cultura. Juegos populares de Madrid: el aro, las cha pas, el clavo, 
-canicas, tabas, pídola, rana … 
-- Usos comunicativos de la corporalidad: gesto s, muecas, posturas y ot ros. Representación de 
-personajes y animales. 
-- Práctica de actividades rítmico-musi cales con carácter artístico- expresivo. Representar 
-movimiento a partir de estímulos rítmicos o musicales. Bailes sencillos. 
-- Deporte e igualdad: referentes en el deporte de distintos sexos.  
-F. Interacción eficiente y 
-cuidadosa con el 
-entorno 
-- Normas de uso: educación vial para peatones. Movilidad segura y saludable. Normas básicas de 
-comportamiento para una movilidad segura, atendiendo al medio que se utilice (bicicleta, patinete, 
-transporte público). 
-- Posibilidades motrices de los esp acios de juego y esparcimiento in fantil. Experimentar todas las 
-posibilidades del medio para la práctica motriz. 
-- El material y sus posibilidades de uso para el desarrollo de la motricidad. Conocimiento, práctica 
-y experimentación de diferentes materiales en función del objetivo motriz. 
-- Realización de actividades físicas seguras en el medio natural y urbano. 
-- Cuidado del entorno próximo y de  los animales y plantas que en él viven, como servicio a la 
-comunidad, durante la práctica segura de actividades físicas en el medio natural y urbano. Normas 
-básicas del cuidado y respeto al medio natural. 
-- Uso eficiente y respetuoso de las instalaciones deportivas del entorno. 
- 
-SEGUNDO CICLO 
-COMPETENCIAS ESPECÍFICAS CRITERIOS DE EVALUACIÓN 
-1. Adoptar un estilo de vida activo y adecuado, 
-practicando regularmente actividades físicas, 
-lúdicas y deportivas, adoptando comportamientos 
-que potencien la salud, así como medidas que 
-fomenten la responsabilidad durante la práctica 
-motriz.  
-1.1. Reconocer la actividad física  como alternati va de ocio saludable, 
-identificando desplaza mientos activos y cono ciendo los efectos 
-beneficiosos a nivel fí sico, social y mental que posee adoptar un 
-estilo de vida activo. 
-1.2. Aplicar medidas de educación p ostural, alimentación saludable, 
-higiene corporal y preparación de la práct ica motriz, asumiendo 
-responsabilidades y generando hábi tos y rutinas en situaciones 
-cotidianas. 
-1.3. Tomar medidas de precaución, previa y durante la práctica motriz y 
-prevención de lesion es en relación con la  conservación y al 
-mantenimiento del material en el marco de distintas prácticas físico-
-deportivas, conocien do protocolos básicos de actuación ante 
-accidentes que se puedan producir en este contexto. 
-1.4. Reconocer la propia imagen corporal y la de los demás, identificar 
-las propias fortalezas y deb ilidades ante mensajes nocivos, 
-aceptando y respetando las di ferencias individuales que puedan 
-existir, superando y rechazando las conductas discriminatorias que 
-se puedan producir en contextos de práctica motriz. 
- 
-
-LUNES 18 DE JULIO DE 2022Pág. 64 B.O.C.M. Núm. 169
-BOCM-20220718-1
-BOLETÍN OFICIAL DE LA COMUNIDAD DE MADRIDBOCM
-COMPETENCIAS ESPECÍFICAS CRITERIOS DE EVALUACIÓN 
-2. Adaptar los elementos propios del esquema 
-corporal, las capacidades físicas, perceptivo-
-motrices y coordinativas, así como las habilidades 
-y destrezas motrices, aplicando procesos de 
-percepción, decisión y ejecución, para dar 
-respuesta a las demandas de proyectos motores y 
-de prácticas motrices con distintas finalidades en 
-contextos de la vida diaria. 
-2.1. Llevar a cabo proyectos motores de carácter individual o grupal, 
-empleando estrategias de monitorización y seguimiento que permitan 
-analizar los resultados obtenidos. 
-2.2. Adoptar decisiones en si tuaciones lúdicas, juegos y actividades 
-deportivas, ajustándose a las demandas derivadas de los objetivos 
-motores, de las características del grupo y de la lógica interna de 
-situaciones individuales o grupales de oposición y de colaboración-
-oposición, en contextos simulados de actuación. 
-2.3. Emplear los componentes cualitativos y cuantitativos de la motricidad 
-de manera eficiente y creativa en distintos contextos y situaciones 
-motrices, adquiriendo un control y dominio corporal sobre ellos. 
-3. Desarrollar procesos de regulación e interacción 
-en el marco de la práctica motriz, haciendo uso de 
-habilidades sociales y actitudes de respeto, 
-trabajo en equipo y deportividad, con 
-independencia de las diferencias de los 
-participantes, para contribuir a la convivencia.  
-3.1. Mostrar una disposición positiva h acia la práctica fí sica y hacia el 
-esfuerzo, controlando la  impulsividad y las emociones que surjan 
-en contextos de actividad motriz. Estab lecer estrategias para una 
-adecuada regulación de las emociones. 
-3.2. Respetar las normas consensuadas en clase, así como las reglas 
-de juego, a los ad versarios, compañeros, árbitros, espectadores y 
-profesores y actuar desde los pa rámetros de la depo rtividad y el 
-juego limpio, valorando la aportación de los participantes. 
-3.3. Desarrollar habilidades sociales de  acogida, ayuda y colaboración 
-al participar en prácticas motrices variada s, resolviendo los 
-conflictos, mostrando un compromiso frente a las actuaciones 
-discriminatorias y cualquier tipo de violencia. 
-4. Reconocer y practicar diferentes manifestaciones 
-lúdicas, físico-deportivas y artístico-expresivas 
-propias de la cultura motriz, valorando su 
-influencia y sus aportaciones a la cultura, para 
-integrarlas en las situaciones motrices que se 
-utilizan regularmente en la vida cotidiana. 
-4.1. Participar activamente en juegos motores y otras manifestaciones 
-artístico-expresivas con arraigo en la cultura tradicional o actual, así 
-como otros procedentes de diversa s culturas, contextualizando su 
-origen, su aparición y su transmisión a lo largo del tiempo y 
-valorando su importa ncia, repercusión e influencia en las 
-sociedades pasadas y presentes. 
-4.2. Apreciar los logros de personas y colectivos referentes del deporte, 
-reconociendo el esfuerzo, la dedicación y los sacrificios requeridos 
-para alcanzar el éxito y su actitud ante la derrota o los objetivos no 
-conseguidos. 
-4.3. Estimar el esfuerzo como valor para conseguir un objetivo. 
-4.4. Asumir una visión abierta  del deporte a pa rtir del conocimiento de 
-distintas ligas, acercánd ose al deport e federado e identificando 
-comportamientos contrarios a la convivencia independientemente 
-del contexto en el que tengan lugar. 
-4.5. Reproducir distintas combinaciones de movimientos o coreografías 
-individuales y grupales que incorporen prácticas comunicativas que 
-transmitan sentimientos, emociones o ideas a travé s del cuerpo, 
-empleando los distinto s recursos expresivos y rítmicos de la 
-corporalidad. 
-5. Valorar diferentes medios naturales y urbanos 
-como contextos de práctica motriz, interactuando 
-con ellos y comprendiendo la importancia de su 
-conservación, adoptando medidas de 
-responsabilidad durante la práctica de juegos y 
-actividades físico-deportivas, para realizar una 
-práctica eficiente y respetuosa con el entorno y 
-participar en su cuidado y mejora. 
-5.1. Desarrollar y explorar de forma consciente, respetuosa y controlada por 
-el docente una práctica motriz segura en contextos naturales y urbanos 
-de carácter terrestre o acuático, adecuando las acciones al análisis de 
-cada situación y aplicando medidas de conservación ambiental. 
-
-LUNES 18 DE JULIO DE 2022B.O.C.M. Núm. 169 Pág. 65
-BOCM-20220718-1
-BOLETÍN OFICIAL DE LA COMUNIDAD DE MADRIDBOCM
-CONTENIDOS 
-BLOQUES CONOCIMIENTOS, DESTREZAS Y ACTITUDES 
-A. Vida activa y saludable 
-- Salud física: efectos físicos y psicológicos beneficiosos de un  estilo de vida activo. 
-Características de al imentos naturales, proc esados y ultra procesados. Educación e higiene 
-postural en acciones motrices habituales. Factores básicos que inciden en el cuidado del cuerpo 
-(alimentación adecuada, acti vidad física diaria, de scanso, uso excesivo de las pantallas, 
-mantenimiento de la salud, equilibrio emocional). 
-- Salud mental: respeto y aceptación del propio cuerpo. Autoconocimiento e identificación de las 
-propias fortalezas y debilidades ante mensajes nocivos para el mantenimiento de un concepto 
-saludable sobre el cuerpo, posibilidades y limitaciones en todos los ámbitos, tanto reales como 
-virtuales para el mantenimiento o la mejora de un equilibrio (social, físico y mental). 
-- Salud social: la actividad física como hábito y alternativa de salud frente a formas de ocio 
-nocivas. Límites para evitar una com petitividad desmedida. Aceptación de distintas tipologías 
-corporales, para practicar, en igualdad, diversidad de actividades físico-deportivas. 
-B. Organización y gestión 
-de la actividad física 
-- Elección de la práctica física: usos y finalidades catárticos lúdico- recreativos y cooperativos. 
-Respeto a las elecciones de los demás. 
-- Cuidado y preparación del material según la actividad a desarrollar. 
-- Pautas de higiene personal relacionadas con la actividad física. 
-- Planificación y regulación de proyectos motores: mecanismos básic os para ejecutar lo 
-planificado. 
-- Prevención de accide ntes en las prácticas motrices: mecanismos de pre vención y control 
-corporal para la prevenc ión de lesiones. Medid as de seguridad, previas  y durante la práctica 
-motriz, normas bás icas de actuación ante posibles lesiones. Correcta util ización de los 
-diferentes materiales a utilizar. 
-C. Resolución de 
-problemas en 
-situaciones motrices 
-- Toma de decisiones: di stribución racional del esfuerzo en situaciones motrices individuales. 
-Ubicación en el espacio en situaciones grupales . Ubicación en el espacio  y reubicación tras 
-cada acción en situaciones motrices de persecución y de interacción con un móvil. Anticipación 
-a las decisiones ofensivas de l adversario en situaci ones de oposición de contacto. Pase a 
-compañeros desmarcados o en situación ventajosa  en situaciones m otrices de colaboración -
-oposición de persecución y de interacción con un móvil. 
-- Capacidades perceptivo-motrices en contexto de  práctica: integración del esquema corporal, 
-control tónico-postural e independencia segmen taria en situaciones motri ces. Definición de la 
-lateralidad. Coordinación dinámica general y segmentaria, automatización de movimientos. 
-- Capacidades condicional es: capacidades físicas básicas (fuerza, resistencia, velocidad, 
-flexibilidad). 
-- Habilidades y destrezas motrice s básicas genéricas: lo comotrices, no locomotrices y 
-manipulativas. Combinación de habilidades. 
-- Creatividad motriz: variación y adecu ación de la acción motriz ante estímulos internos y 
-externos (cambios de posición, movimientos de sus compañeros, percepción de móviles y sus 
-trayectorias, situaciones de colaboración y oposición). 
-D. Regulación emocional e 
-interacción social en 
-situaciones motrices 
-- Gestión emocional: reconocimiento de emociones, pensamien tos y sentimientos y 
-establecimiento de estrategias para una adec uada regulación de las emociones a partir de 
-experiencias motrices. 
-- Habilidades sociales: escucha activa, diálogo y estrategias de neg ociación mediada y de 
-acuerdo para la resolución de con flictos en contextos motrices, de sarrollo de conductas 
-asertivas y de confianza en uno mismo. 
-- Concepto de deportivid ad, aceptación de las normas del juego, respeto al adv ersario, a los 
-compañeros, a los árbitros, espectadores y profesores. 
-- Conductas contrarias a la con vivencia, en situaciones motrices (discriminación por cuestiones 
-de competencia motriz, etnia, género u otras): efectos negativos y estrategias de identificación, 
-abordaje y evitación (tratamiento y solución para afrontar las consecuencias perjudiciales). 
- 
-
-LUNES 18 DE JULIO DE 2022Pág. 66 B.O.C.M. Núm. 169
-BOCM-20220718-1
-BOLETÍN OFICIAL DE LA COMUNIDAD DE MADRIDBOCM
-BLOQUES CONOCIMIENTOS, DESTREZAS Y ACTITUDES 
-E. Manifestaciones de la 
-cultura motriz 
-- Aportaciones de la cul tura motriz a la herenci a cultural. Los juegos  y las danzas como 
-manifestación de la interculturalidad. Juegos populares de Españ a: bolos, chito… d anzas 
-populares: chotis, jotas, sevillanas, sardanas… 
-- Usos comunicativos de la corporalidad: comunicación de sensaciones, sentimientos, emociones 
-e ideas simples. Representación de escenas cotidianas. 
-- Práctica de actividades rítmico- musicales con carácter expr esivo. Representar movimientos a 
-partir de estímulos rítmicos o musicales. Coreografías sencillas (Promoroaca, Minoesika). 
-- Deporte e igualdad ligas masculinas, femeninas y mixtas de distintos deportes. Referentes en 
-el deporte de distintos géneros. Personajes relevantes, en el dep orte; identificación con las 
-diferentes disciplinas que practican. 
-- La cultura del esfuerzo para conseguir un objetivo. 
-F. Interacción eficiente y 
-cuidadosa con el 
-entorno 
-- Normas de uso: educación via l para bicicletas, patine s y patinetes. Movilidad segura y 
-saludable. Uso de los elementos de seguridad (casco, luces, guantes, chalecos). Normas 
-básicas de circulación, (circular por la derecha, en fila, señales básicas). 
-- Espacios naturales en el contexto urbano: uso, disfrute seguro y mantenimiento. Conceptos 
-básicos del uso responsable de los elementos lúdicos urbanos (cuidado de los materiales). 
-- Estado del material para actividades en el medio natural y urbano: valoración previa y actuación 
-ante desperfectos. Mantenimiento, limpieza y reparación de los materiales. 
-- Prevención y sensibilización sobre la generación de residuos y su correcta gestión. Diferencias 
-entre tipos de residuos y conocimiento de su gestión. Normas básicas de reciclaje y cuidado del 
-medio. 
-- Realización de actividades fí sicas seguras en el med io natural y urbano. Diferentes 
-posibilidades de actividad física  que nos proporcio na el medio natura l (senderismo, kayak, 
-escalada…). 
-- Cuidado del entorno próximo y de los animales y plantas que en él conviven, durante la práctica 
-de actividades físicas en el medio natural y urbano. Prácticas esenciales de cuidado del medio 
-natural (recogida de material y desperdicios utilizados en la práctica motriz). 
- 
- 
-TERCER CICLO 
-COMPETENCIAS ESPECÍFICAS CRITERIOS DE EVALUACIÓN 
-1. Adoptar un estilo de vida activo y 
-adecuado practicando regularmente 
-actividades físicas, lúdicas y deportivas, 
-adoptando comportamientos que 
-potencien la salud, así como medidas 
-que fomenten la responsabilidad 
-durante la práctica motriz.  
-1.1. Reconocer los efectos beneficiosos a nivel físico, social y mental de la 
-actividad física como paso previo para su integración en la vida diaria. 
-1.2. Integrar los procesos de activación corporal, dosificación del esfuerzo, 
-relajación e higiene en la  práctica de actividades motrices, interiorizando las 
-rutinas propias de una práctica motriz saludable y responsable. 
-1.3. Adoptar medidas de  seguridad antes, durante y de spués de la práctica de 
-actividad física, conocer los primeros auxilios fundamentales, reconocimiento 
-básico y el proto colo PAS (proteger, avis ar, socorrer) reconociendo los 
-contextos de riesgo y actuando con precaución ante ellos. 
-1.4. Identificar y abordar conductas vinculada s al ámbito corporal, la actividad 
-física y el deporte que resultan perjudiciales pa ra la salud o afectan 
-negativamente a la convivencia, adoptando posturas de rechazo a la violencia, 
-a la discriminación y a la desigualdad, en los en tornos sociales, tanto reales 
-como virtuales, y evitando activamente su reproducción. 
- 
-
-LUNES 18 DE JULIO DE 2022B.O.C.M. Núm. 169 Pág. 67
-BOCM-20220718-1
-BOLETÍN OFICIAL DE LA COMUNIDAD DE MADRIDBOCM
-COMPETENCIAS ESPECÍFICAS CRITERIOS DE EVALUACIÓN 
-2. Adaptar los elementos propios del 
-esquema corporal, las capacidades 
-físicas, perceptivo-motrices y 
-coordinativas, así como las habilidades 
-y destrezas motrices, aplicando 
-procesos de percepción, decisión y 
-ejecución, para dar respuesta a las 
-demandas de proyectos motores y de 
-prácticas motrices con distintas 
-finalidades en contextos de la vida 
-diaria. 
-2.1. Desarrollar proyectos motores de carácter individua l o grupal , definiendo 
-metas, secuenciando acciones, introduciendo cambios, si es preciso, durante 
-el proceso, y generando producciones motrices de calidad, valorando el grado 
-de ajuste al proceso seguido y al resultado obtenido. 
-2.2. Aplicar principios básico s de toma de decisiones en situaciones lúdicas, 
-juegos modificados y activida des deportivas a partir de  la anticipación, 
-ajustándolos a las demandas derivadas de los objetivos motores y a la lógica 
-interna de situaciones indi viduales, de colaboración , de oposición y de 
-colaboración-oposición, en contextos reales o sim ulados de actuación, 
-reflexionando sobre las soluciones obtenidas. 
-2.3. Adquirir un control y dominio cor poral, empleando  los componentes 
-cualitativos y cuantita tivos de la motricidad de mane ra eficiente y creativa y 
-haciendo frente a las de mandas de resolución de prob lemas en situaciones 
-motrices transferibles a su espacio vivenci al. Tomar concien cia de la 
-importancia de la atención selectiva y la anticipación perceptiva en situaciones 
-de juego regladas y su transferencia a situaciones cotidianas. 
-3. Desarrollar procesos de regulación e 
-interacción en el marco de la práctica 
-motriz, haciendo uso de habilidades 
-sociales y actitudes de, respeto, trabajo 
-en equipo y deportividad, con 
-independencia de las diferencias de 
-habilidad de los participantes, para 
-contribuir a la convivencia.  
-3.1. Participar en actividades motrices, desde la regul ación de su actuac ión, con 
-predisposición, esfuerzo , perseverancia y men talidad de crecimiento, 
-controlando la impulsiv idad, gestionando las emo ciones (introspección, 
-motivación) y expresánd olas de forma asertiva. Gestionar estrategias para 
-superar las diferencias individuales en una práctica lúdica. 
-3.2. Respetar las normas consensuadas, así como las reg las de juego, y actuar 
-desde los parámetros de la  deportividad y el jueg o limpio, reconociendo la 
-derrota como parte del mismo y las actuaciones de compañeros y rivales. 
-3.3. Poner en marcha actuaciones que se opongan  a acciones contrarias a la 
-buena práctica deportiva, aquellas que mu estren una amenaza a la misma 
-(hábitos no adecuados, conductas violentas y manipulación del juego). 
-3.4. Convivir mostrando en el contexto de las prá cticas motrices habilidades 
-sociales, de diálogo en la resolución de conflictos y respeto ante cualquier tipo 
-de diversidad, haciendo especial hincapié en el fomento de la igualdad. 
-4. Reconocer y practicar diferentes 
-manifestaciones lúdicas, físico-
-deportivas y artístico-expresivas 
-propias de la cultura motriz, valorando 
-su influencia y sus aportaciones a la 
-cultura, para integrarlas en las 
-situaciones motrices que se utilizan 
-regularmente en la vida cotidiana. 
-4.1. Participar activamente en juegos motores y otras manifestaciones artístico -
-expresivas con arraigo en la cultura, tradicional o actual, así como otros 
-procedentes de diversas culturas, reco nociendo y tran smitiendo su valor 
-cultural y su potencial como  espacio generador de buenas relaciones entre 
-personas con orígenes di ferentes y entendie ndo las ventajas de su 
-conservación. 
-4.2. Valorar el deporte como fenómeno cultural y los comportamientos 
-discriminatorios que a veces suceden en su contexto, rechazándolos y 
-adoptando actitudes que eviten su reproducción en el futuro y que persigan la 
-equidad.  
-4.3. Reconocer el esfuerzo, la dedicación y los sacrificios de personas y colectivos 
-referentes del deporte, ne cesarios para alcanzar un rendimiento deportivo 
-ejemplar, su respuesta y su actitud ante la competición, el éxito o la derrota. 
-4.4. Reproducir y crear comp osiciones con o sin sop orte musical, y comunicar 
-diferentes sensaciones, emociones e ideas, de forma estética y creativa, 
-desde el uso de los recursos rítmicos y expresivos de la motricidad. 
- 
-
-LUNES 18 DE JULIO DE 2022Pág. 68 B.O.C.M. Núm. 169
-BOCM-20220718-1
-BOLETÍN OFICIAL DE LA COMUNIDAD DE MADRIDBOCM
-COMPETENCIAS ESPECÍFICAS CRITERIOS DE EVALUACIÓN 
-5. Valorar diferentes medios naturales y 
-urbanos como contextos de práctica 
-motriz, interactuando con ellos y 
-comprendiendo la importancia de su 
-conservación, adoptando medidas de 
-responsabilidad durante la práctica de 
-juegos y actividades físico-deportivas, 
-para realizar una práctica eficiente y 
-respetuosa con el entorno y participar 
-en su cuidado y mejora. 
-5.1. Adaptar las acciones motrices a la incertidumbre propia del medio natural y 
-urbano en contextos terrestres o acuáticos  de forma eficiente y segura, 
-valorando sus posibilida des para la práctica de  actividad física y actuando 
-desde una visión cuidadosa del entorno y comunitaria. 
- 
- 
-CONTENIDOS 
-BLOQUES CONOCIMIENTOS, DESTREZAS Y ACTITUDES 
-A. Vida activa y 
-saludable 
-- Salud física: efectos físicos, psicológicos y sociales beneficiosos del estilo de vida activo. Impacto 
-de alimentos ultra procesados y bebidas energéticas o azucaradas. Educación higiénico postural 
-en acciones motrices específicas. Responsabilidad personal en el cuidado del cuerpo. 
-- Salud mental: Consolidación y ajuste realista del concepto de uno mismo, teniendo en cuenta la 
-igualdad. Respeto y aceptación del propio cuerpo y de l aspecto corporal de  los demás. Visión 
-crítica de las imágenes ajustadas o distorsionadas ofrecidas en los entornos sociales, tanto reales 
-como virtuales, que ayudan o entorpecen el manteni miento o la mejora de u n equilibrio social, 
-físico y mental. 
-- Vida saludable : aproximación a los efectos de  los malos hábitos relacion ados con la salud e 
-influencia en la práctica de actividad física. La  exigencia del deporte profesional. Aceptación de 
-distintas tipologías corporales pa ra practicar en igualdad, actividad es físico-deportivas según la 
-competencia motriz. 
-B. Organización y 
-gestión de la actividad 
-física 
-- Usos y finalidades: catárticos, lúdico-recreativos, competitivos y agonísticos. 
-- Actitudes consumistas en  torno al equipamiento. Análisis de  la adquisición de material para la 
-práctica físico-deportiva. 
-- Hábitos autónomos de higiene corporal en acciones cotidianas. 
-- Planificación y regulación de proyectos motores: seguimiento y valora ción durante el proceso y 
-evaluación del resultado. 
-- Toma de medidas (previas y du rante) de prevenció n de accidentes en  las prácticas motrices: 
-calentamiento general, conciencia y responsabilidad en función de los requerimientos de la tarea 
-y vuelta a la calma. Importancia  de respetar las norm as de segurid ad. Compromiso de 
-responsabilidad hacia la seguridad de uno mismo y de los demás. Co rrecta utilización de 
-materiales. 
-- Actuaciones básicas ante accidentes durante la práctica de actividades físicas. Posición lateral de 
-seguridad. Primeros auxilios básicos: mantener la calma, c onductas PAS (proteger, avisar, 
-socorrer). 
- 
-
-LUNES 18 DE JULIO DE 2022B.O.C.M. Núm. 169 Pág. 69
-BOCM-20220718-1
-BOLETÍN OFICIAL DE LA COMUNIDAD DE MADRIDBOCM
-BLOQUES CONOCIMIENTOS, DESTREZAS Y ACTITUDES 
-C. Resolución de 
-problemas en 
-situaciones motrices 
-- Toma de decisiones: sel ección de acciones en función del entorno en situaciones motrices 
-individuales. Selección  de acciones para  el ajuste espacio- temporal en la interacción con los 
-compañeros. Selección de  zonas de envío del móvil desd e donde sea difícil devolverlo, en 
-situaciones motrices de pe rsecución y de intera cción con un móvi l. Selección adecuada d e las 
-habilidades motrices en situaciones de oposición de contacto. Desmarque y ubicación en un lugar 
-desde el que se constituya un apoyo para los demás en situaciones motrice s de colaboración -
-oposición de persecución y de interacción con un móvil. 
-- Capacidades perceptivo- motrices en contexto de práctica: in tegración del esquema corporal; 
-equilibrio estático y dinámico en  situaciones complejas crecientes ; organización espacial del 
-propio cuerpo y de sus compañeros (percepción de  distancias y trayectorias, or ientación en el 
-espacio), temporal (simultaneidad y sucesión de acciones ) y espacio- temporal (ritmo, ajuste 
-perceptivo en el envío y en la intercepción de trayectorias de móviles). 
-- Capacidades condicionales: capacidades físicas básicas y resultantes (coord inación, equilibrio y 
-agilidad). 
-- Iniciación de las habilidades motrices específicas asociadas a la técnica y táctica en actividades 
-físico-deportivas: aspectos principales. Iniciación a la práctica deportiva, gestos técnicos básicos. 
-- Creatividad motriz: identificación de estímul os internos o externos que  exijan un reajuste 
-instantáneo de la acción motriz. Adaptación del movimiento a diferentes entornos y situaciones de 
-colaboración y oposición. 
-D. Regulación emocional 
-e interacción social en 
-situaciones motrices 
-- Gestión emocional que pueda desencade nar actitudes, conductas y esta dos que dificultan el 
-desarrollo personal y escolar: ansiedad, estrés, ira, tristeza y situaciones motrices. Estrategias de 
-afrontamiento y gestión: Introspección, motivación, capacidad de expres ión, (asertividad), como 
-medio para superar las diferencias individuales en una práctica, lúdica o deportiva de todos y para 
-todos. 
-- Habilidades sociales: estrategias de trabajo en e quipo para la resolución de conflictos en 
-situaciones motrices colectivas. Respeto y tolerancia a la s diferencias individuales, adjudicación 
-de roles, liderazgo, aceptación de responsabilidades. 
-- Concepto de fairplay o <<juego limpio>>. Aceptación y entendimiento de las normas de juego, de 
-la derrota como parte del mismo, respeto a todos los agentes del ámbito deportivo. 
-- Acciones que muestren una ame naza a la práctica deport iva. Hábitos no adecuados , conductas 
-violentas, manipulación del juego. 
-- Identificación, abordaje y rechazo de conductas discriminatorias y contrarias a la convivencia en 
-situaciones motrices.  
-E. Manifestaciones de la 
-cultura motriz 
-- Aportaciones de la cultura  motriz, los juegos, a la herencia cultural de cada país y al conjunto 
-global del planeta. Los deportes como seña de identidad cultural. Juegos populares de diferentes 
-etnias y culturas: Coge r tu cola (Nigeria), Bokwele (Zaire), El conejo a la pata coja (Tailandia), 
-Tirar seis (México),… 
-- Usos comunicativos de la corporalidad : comunicación de sensacion es, sentimientos, emociones 
-e ideas complejas. El significado de diferentes movimientos, posturas. Lenguaje corporal. 
-- Práctica de actividades rítmico -musicales con carácter e xpresivo. Danzas y bailes de l mundo: 
-Minoesika, Big Jhon, Promoroaca, Polka,… 
-- Deporte e igualdad en el deporte amateur y profesional. Deportes asociados a hombres y mujeres. 
-- Deportes olímpicos y paralímpicos, historia e institucion es asociadas a los Juegos Olímpicos y 
-Paralímpicos. Categorías, deportes, diversidad funcional y su capacidad para desarrollar cualquier 
-disciplina deportiva. 
-- La cultura del esfuerzo para conseguir una meta. 
- 
-
-LUNES 18 DE JULIO DE 2022Pág. 70 B.O.C.M. Núm. 169
-BOCM-20220718-1
-BOLETÍN OFICIAL DE LA COMUNIDAD DE MADRIDBOCM
-BLOQUES CONOCIMIENTOS, DESTREZAS Y ACTITUDES 
-F. Interacción eficiente y 
-cuidadosa con el 
-entorno 
-- Normas de uso: la educación vial desde la actividad física y deportiva. Movilidad segura y 
-saludable Convivencia armoniosa y pacífica entre los distintos medios de locomoción y el peatón. 
-Puesta en práctica de las normas básicas de circulación. 
-- Transporte activo seguro y no contaminante: bic icletas, patines, patinetes. Normas de uso 
-responsable y seguro del material y el entorno, conocimient os de mecánica bá sica, (pinchazos, 
-ajuste de sillín…). 
-- Previsión de riesgos de accide nte durante la práctica en el medio natura l y urbano: valoración 
-previa y actuación. Preparación y eva luación de los posibles riesg os que pueden darse en la 
-actividad física en el medio na tural y conocimiento de una corre cta gestión de los mismos. 
-Previsión de riesgos y actuacio nes en caso de accide nte (evaluación de riesgo s y maniobras 
-básicas de primeros auxilios, técnica PAS (proteger, avisar, socorrer). 
-- Consumo adecuado: Búsqueda, construcción, reparación y reutilización de elementos y materiales 
-para la práctica motriz. 
-- Práctica de actividades  físicas con cierto grado de autonomía en el medio natural y urbano: 
-senderismo, escalada, piragüismo, barranquismo, parques de aventura, bicicleta. 
-- Cuidado del entorno próximo y de los animales y plantas que en él convive n, durante la práctica 
-de actividad física en diferentes contextos e instalaciones en el medio natural u urbano. Prácticas 
-esenciales de cuidado del medio natural (recogida del material y desperdicios utilizados). 
- 
-
-LUNES 18 DE JULIO DE 2022B.O.C.M. Núm. 169 Pág. 71
-BOCM-20220718-1
-BOLETÍN OFICIAL DE LA COMUNIDAD DE MADRIDBOCM
-Lengua Castellana y Literatura  
- 
-El área de Lengua Castellana y Literatura en la Educación Primaria tiene como finalidad el desarrollo en el alumnado de estrategias 
-básicas relacionadas con ha blar, escuchar, le er y escribir de forma in tegrada en lengua castellana. La Comunidad de  Madrid se 
-muestra especialmente implicada en la relevancia de estos aprendizajes que contribuirán al desarrollo del alumnado, la ampliación 
-de sus posibilidades comunicativas y la  toma de conciencia de la proyección internacional del es pañol como veh ículo para la 
-comunicación en diferentes ámbitos académicos, comerciales, artísticos o culturales.   
-En ese sentido, se deb erá proporcionar al alum nado herramientas que le pe rmitan convertirse en person as cultas, críticas y bien  
-informadas, capaces de ha cer un uso eficaz de la s palabras, con capacida d de transformar la informació n en conocimiento y de 
-aprender por sí mismas, in formarse, colaborar y trabajar en equipo, libres y creativas. El currícul o del área se organiza en to rno a 
-diez competencias específicas, cuya adquisición debe producirse de manera gradual a lo largo de la etapa y siempre respetando los 
-procesos individuales del alumnado. La gradación entre ciclos se establece en función de la complejidad de  los textos, de los 
-contextos, de las habilidades de interpretación o de producción requeridas, del grado de autonomía co nferido a los alumnos y de l 
-metalenguaje necesario para la reflexión sobre los usos. 
-La primera de las competen cias específicas se orienta al reconocimie nto de la diversid ad de lenguas y di alectos, del entorno y de 
-España, con el objetivo de  fomentar en el alumnado actitudes de aprecio y respeto  hacia la pluralidad. Un segundo grupo de 
-competencias, de la segunda a la quinta, se relacion an con la adquisición y consolidación del códi go escrito, atendiendo al ámbito 
-personal, educativo y social  del alumnado, asegurando que los aprendizajes se realicen a pa rtir de la reflexi ón, comprensión o 
-producción de textos mediante la interacción oral y escrita. La competencia sexta sienta las bases de la alfabetización informacional, 
-respondiendo a la necesidad de enseñar a leer todo tipo de textos, con distintos propósitos de lectura, así como estrategias para la 
-búsqueda y selección de información fiable en la red. 
-Las competencias séptima y octava se vinculan con la literatura, la adquisición del hábito le ctor autónomo y el inicio del desarrollo 
-de habilidades de interpretación de textos literarios. 
-De igual relevancia resulta n las competencias novena y déci ma, que atienden a una p rimera aproximación a la  reflexión sobre la 
-lengua y sus usos, y a una adecuada comunicación, que deberá centrar sus prácticas en la técnica del diálogo. 
-Para contribuir a la adquisición de las capacidades descritas en las competencias específicas, es imprescindible aplicar y movilizar 
-los contenidos de todos los bloques del área de manera coordinada. Dichos contenidos se agrupan en los siguientes bloques: «Las 
-lenguas y sus hablantes», «Comunicación», «Educación literaria» y «Reflexión sobre la lengua y sus usos en el marco de propuestas 
-de producción y comprensión de textos orales, escritos o multimodales». Los aprendizajes de Lengua Castellana y Literatura deben 
-entenderse como un proceso cuyo fin último es formar personas capaces de comunicarse en español de manera eficaz. Por ello, se 
-deberán proponer situaciones de aprendizaje contextualizadas, significativas y relevantes que permitan trabajar de forma graduada 
-y proporcionada todos los contenidos incluidos en el currículo. 
-De igual manera, con el objet ivo de determinar el avan ce en el grado de adquisición de las competencias específicas del área, se 
-establecen los criterios de evaluación para cada uno de los ciclos de la etapa. La respuesta a estos criterios deberá tener en cuenta 
-tanto los productos finales espera dos como los procesos y actitu des que acompañan su elab oración. Para ello, se utilizarán 
-herramientas e instrumentos de evaluación variados. En el an exo I del Real Decreto 157/2022, de  1 de marzo, se describen las 
-competencias específicas de esta  área. A continuación , se presentan los criterios de evaluación asociad os a cada una de ellas, 
-ordenados por ciclo, y los contenidos relacionados.  
- 
-PRIMER CICLO 
-COMPETENCIAS ESPECÍFICAS CRITERIOS DE EVALUACIÓN 
-1. Reconocer la diversidad de lenguas del mundo a 
-partir de las propias y de las existentes en España, 
-para favorecer la reflexión, identificar y rechazar 
-prejuicios sobre ellas y para valorar dicha 
-diversidad como fuente de riqueza cultural. 
-1.1. Mostrar interés y respeto a las distintas lenguas y variedades 
-dialectales de su entorno, valorando la igualdad en las diferencias. 
-1.2. Reconocer, de manera  acompañada y en contextos próximos, 
-algunos prejuicios sobre la lengua y la cultura muy frecuentes. 
-2. Comprender e interpretar textos orales y 
-multimodales, identificando el sentido general y la 
-información más relevante y valorando con ayuda 
-aspectos formales y de contenido básicos, para 
-construir conocimiento y responder a diferentes 
-necesidades comunicativas. 
-2.1. Comprender el sentido de textos orales y multimo dales sencillos, 
-reconociendo las ideas principales y los mensajes explícitos y los 
-mensajes implícitos más sencillos, e in iciando, de manera 
-acompañada, la valorac ión del contenido y de  los elementos no 
-verbales más elementales. 
- 
-
-LUNES 18 DE JULIO DE 2022Pág. 72 B.O.C.M. Núm. 169
-BOCM-20220718-1
-BOLETÍN OFICIAL DE LA COMUNIDAD DE MADRIDBOCM
-COMPETENCIAS ESPECÍFICAS CRITERIOS DE EVALUACIÓN 
-3. Producir textos orales y multimodales, con 
-coherencia, claridad y registro adecuados, para 
-expresar ideas, sentimientos y conceptos; 
-construir conocimiento; establecer vínculos 
-personales; y participar con autonomía en 
-interacciones orales variadas. 
-3.1. Producir textos orales y multimodales coherentes, con planificación 
-acompañada y utilizando recursos no verbales elementales. 
-3.2. Participar en interacciones ora les espontáneas, incorporando 
-estrategias elementales de escucha activa y de cortesía.  
-4. Comprender e interpretar textos escritos y 
-multimodales, reconociendo el sentido global, las 
-ideas principales y la información explícita e 
-implícita, y realizando con ayuda reflexiones 
-elementales sobre aspectos formales y de 
-contenido, para adquirir y construir conocimiento y 
-para responder a necesidades e intereses 
-comunicativos diversos. 
-4.1. Comprender el sentido global y la información relevante de textos 
-cercanos, escritos y multimodales, a p artir de estrategias básicas 
-de comprensión antes, durante y después de la lectura. 
-4.2. Analizar, de manera acompañada, el contenido y aspectos 
-formales y no formales elementales de textos escritos y 
-multimodales sencillos, valorando su contenido y estructura. 
-5. Producir textos escritos y multimodales, con 
-corrección gramatical y ortográfica básicas, 
-secuenciando correctamente los contenidos y 
-aplicando estrategias elementales de planificación, 
-textualización, revisión y edición, para construir 
-conocimiento y para dar respuesta a demandas 
-comunicativas concretas. 
-5.1. Producir textos escrit os y multimodales sencillo s y coherentes en 
-distintos soportes, desde las diferentes eta pas del proceso 
-evolutivo de la  escritura, ajustándose  a modelos dados y 
-movilizando, de manera  acompañada, estr ategias elementales, 
-individuales o grupales, de planificación, textualización y revisión. 
-6. Buscar, seleccionar y contrastar información 
-procedente de dos o más fuentes, de forma 
-planificada evaluando su fiabilidad y reconociendo 
-algunos riesgos de manipulación y desinformación, 
-para transformarla en conocimiento y para 
-comunicarla, adoptando un punto de vista personal 
-y respetuoso con la propiedad intelectual. 
-6.1. Localizar, seleccionar y contrastar información de distintas fuentes, 
-incluidas las digita les, citándolas y recreándolas mediante la 
-adaptación de modelos dados. 
-6.2. Compartir los resultados de un proceso de investigación sencillo, 
-individual o grupal, sobre algún tema de interés personal, realizado 
-de manera acompañada. 
-6.3. Adoptar hábitos de uso c rítico, seguro y adecuado de las 
-tecnologías digitales en relación con la búsqueda y la comunicación 
-de la información. 
-7. Leer de manera autónoma obras diversas 
-seleccionadas atendiendo a sus gustos e 
-intereses, compartiendo las experiencias de 
-lectura, para iniciar la construcción de la identidad 
-lectora y para fomentar el gusto por la lectura 
-como fuente de placer.  
-7.1. Leer con autonomía textos de distintos autores y autoras acordes 
-con sus gustos e intereses, seleccionados de manera 
-acompañada, desde las diferentes etapas del proceso evolutivo de 
-la lectura. 
-7.2. Compartir oralmente la experiencia y disfrute por la lectura 
-participando en comunidades lectoras de ámbito escolar. 
-8. Leer, interpretar y analizar, de manera 
-acompañada, obras o fragmentos literarios 
-adecuados a su desarrollo, estableciendo 
-relaciones entre ellos e identificando el género 
-literario y sus convenciones fundamentales, para 
-iniciarse en el reconocimiento de la literatura como 
-manifestación artística y fuente de placer, 
-conocimiento e inspiración para crear textos de 
-intención literaria. 
-8.1. Escuchar y leer textos orales y escritos de la literatura infantil, que 
-recojan diversidad de autores y autoras, estableciendo de manera 
-acompañada relaciones elemental es entre ellos y con otras 
-manifestaciones artísticas o culturales. 
-8.2. Producir, de manera acompañada, textos sencillos individuales o 
-en grupo con intención literaria, adaptados a las diferentes etapas 
-del proceso evolutivo de la escritura, ajustándose a modelos dados, 
-en distintos soportes y compleme ntándolos con otros lenguajes 
-artísticos. 
- 
-
-LUNES 18 DE JULIO DE 2022B.O.C.M. Núm. 169 Pág. 73
-BOCM-20220718-1
-BOLETÍN OFICIAL DE LA COMUNIDAD DE MADRIDBOCM
-COMPETENCIAS ESPECÍFICAS CRITERIOS DE EVALUACIÓN 
-9. Reflexionar de forma guiada sobre el lenguaje a 
-partir de procesos de producción y comprensión 
-de textos en contextos significativos, utilizando la 
-terminología elemental adecuada, para iniciarse en 
-el desarrollo de la conciencia de la lengua y para 
-mejorar las destrezas de producción y 
-comprensión oral y escrita. 
-9.1. Formular conclusiones elementales sobre  el funcionamiento de la 
-lengua, prestando especi al atención a la con cordancia y a las 
-relaciones de significad o entre las palabra s, a partir de la 
-observación, comparación y transformaci ón de palabras y 
-enunciados, en un  proceso acompañado  de producción o 
-comprensión de textos en contextos significativos. 
-9.2. Revisar y mejorar los textos propios y subsanar algunos problemas 
-de comprensión lectora, de manera acompañada, a partir de la 
-reflexión metalingüística e interlingüística y usando la terminología 
-de la lengua básica adecuada. 
-10. Poner las propias prácticas comunicativas al 
-servicio de la convivencia utilizando un lenguaje 
-adecuado y eficaz.  
-10.1. Rechazar los usos del lenguaje discriminatorios, identificados a 
-partir de la reflexión grupal acompañada, sobre los aspectos 
-elementales, verbales y no verbales, de la comunicación, teniendo 
-en cuenta referentes de igualdad entre hombres y mujeres. 
-10.2. Movilizar, con la plan ificación y el acompañamiento necesarios, 
-estrategias elementales para la escucha activa, la comunicación 
-asertiva y el diálogo.  
- 
- 
-CONTENIDOS 
-BLOQUES CONOCIMIENTOS, DESTREZAS Y ACTITUDES 
-A. Las lenguas y sus hablantes 
-- Biografía de la lengua pe rsonal, reflexión sobre el mapa de lenguas del aula y la 
-pluralidad de lenguas existentes. 
-- La diversidad cultura l y de las lenguas como riqueza y herramie nta de reflexión 
-interlingüística mostrando actitudes de respeto. 
-- Identificación, con acompañamiento, de prejuicios sobre las lenguas. Identificación 
-de modelos positivos. 
-- Uso de un lenguaje no discriminatorio y respetuoso con las diferencias. 
-B. Comunicación 
-Contexto 
-- Incidencia de los componentes (situación, participantes, intención ) en el acto 
-comunicativo; durante las conversaciones, proponiendo temas, aportando 
-opiniones, respondiendo a pre guntas y respetando los turno s de palabra y los 
-puntos de vista de los demás. 
-Géneros 
-discursivos 
-- Tipologías textuales e intención comunicativa: la  narración (de cuentos, sucesos, 
-anécdotas o experie ncias vividas de manera comprensible y estructurada, 
-utilizando de forma adecuada  los tiempos verbale s), la descripción (de 
-ilustraciones, fotografías, imágen es, objetos, per sonas, anim ales, lugares o 
-escenas del mundo real y de ficción) y el diálogo.  
-- Propiedades textuales: estrategias elementales para la coherencia y la cohesión. 
-- Géneros discursivos propios del ámbito personal y educativo. Contenido y forma. 
-Procesos 
-- Interacción oral: interacción ora l adecuada en con textos informales o en 
-situaciones en el au la, escucha activa, la asertividad, la resol ución de conflictos 
-mediante el diálogo y la  cortesía del lenguaje. La expresión y escucha empática 
-de necesidades, vivencias y emociones propias y ajenas, para hacer sugerencias 
-o peticiones, pedir o ag radecer ayuda, manifestar un a queja, formular deseos, 
-expresar alegría o tristeza, saludar o despedirse. 
-- Comprensión oral: identificación de las ideas más relevantes, análisis de los mensajes 
-e interpretación del sentido global. Detección de usos claramente discriminatorios del 
-
-LUNES 18 DE JULIO DE 2022Pág. 74 B.O.C.M. Núm. 169
-BOCM-20220718-1
-BOLETÍN OFICIAL DE LA COMUNIDAD DE MADRIDBOCM
-lenguaje verbal y no verbal. Identificación de los elementos básicos de la comunicación 
-no verbal (postura, gestos, expresión facial, contacto visual). 
-- Producción oral: Interés por expresarse oralment e con corrección y claridad, 
-utilizando una pronunciación y entonación adecuadas y formulando correctamente 
-las preguntas. Ampliación del vocabulario. Actitud postural . Construcción y 
-comunicación de con ocimiento mediante la planificación y pro ducción de textos 
-orales y multimodales sencillos (descripci ones, relatos e informaciones). La 
-fantasía y la libertad del escritor y del artista. 
-- Comprensión lectora: estrategias elementales de comprensión lectora antes, durante 
-y después de la lectura. Identificación del argumento, del contexto en el que sucede la 
-narración, de las ideas más relevantes e interpretación del sentido global. Identificación 
-de elementos gráficos y paratextuales (ilustraciones, imágenes, colores, variaciones 
-tipográficas etc.) al servicio de la comprensión. Lectura compartida y expresiva con 
-entonación y ritmo de acuerdo al nivel madurativo, iniciándose en el respeto a algunos 
-signos de puntuación (punto, coma, signos de admiración y de interrogación). 
-Detección de usos claramente discriminatorios del lenguaje verbal y no verbal. 
-Identificación de modelos positivos. 
-- Producción escrita: Ortografía natural y convenciones del código escrito en copias, 
-dictados o textos de creación au tónoma, (linealidad y di reccionalidad de la 
-escritura. Estrategias elementale s para la iniciación en el reconocimiento de 
-algunas reglas ortográficas: uso de mayúsculas, signos  de puntuación, etc. ). 
-Coherencia textual. Cuidado en  la presentación de las producciones y de los 
-materiales con los que se trabaja. 
-- Estrategias elementales, indivi duales o grupales, de plan ificación, textualización, 
-revisión y autocorrección de textos. Dibujar lo que se lee, escribir lo que se ve. Uso 
-de elementos gráficos y pa ratextuales elementales. Escritura en soporte digital 
-acompañada. 
-- Alfabetización mediática e informacional: estrategias elementales para la 
-búsqueda guiada de información sencilla en fuentes documentales variadas y con 
-distintos soportes y formatos. Pensamiento analítico y crítico para valorar la calidad 
-y utilidad de la información  recabada y comunicación de la información. 
-Reconocimiento de autoría, respeto por las producciones ajenas. Uso guiado de la 
-biblioteca, así como de recursos digitales del aula. 
-C. Educación literaria 
-- Lectura guiada de obras o fragmentos vari ados y diversos de la literatura infantil 
-adecuados a sus intereses y organizados en itinerarios lectores. 
-- Estrategias para la interpretación acompañada y compartida de las obras a través 
-de conversaciones literarias. 
-- Relación, de manera acompañada, entre los elementos constitutivos esenciales de 
-la obra literaria (tema, personaje s, argumento, espacio) y la construcción 
-acompañada del sentido de la obra. 
-- Relación de los textos leídos y otras manifestaciones artísticas y culturales.  
-- Inicio de la construcción de los itinerarios lectores individuales. Estrategias para la 
-expresión de gustos e intereses. 
-- Lectura expresiva, dramatización o interpretación de fragmentos atendiendo a los 
-procesos de comprensión y al nivel de desarrollo. 
-- Creación guiada y de acuerdo a su nivel, de textos de intención literaria (cuentos, 
-poemas…), de textos asociados a imágenes como: anuncios, carteles, cómics, chistes, 
-con una función concreta: informar, narrar, describir, animar a una determinada 
-acción…, a partir de pautas o modelos dados, utilizando los recursos léxicos, 
-sintácticos, fónicos y rítmicos. Estrategias para la revisión de las producciones propias, 
-ya sean resultado de copias o dictados o de creaciones autónomas. 
-- Uso acompañado de la biblioteca de aula o de centro como escenario de 
-actividades literarias compartidas. Los libros ilustrados como fuente de disfrute y 
-de aprendizaje de la lectura, y su conexión con la realidad, con la fantasía y 
-con las demás artes. 
-
-LUNES 18 DE JULIO DE 2022B.O.C.M. Núm. 169 Pág. 75
-BOCM-20220718-1
-BOLETÍN OFICIAL DE LA COMUNIDAD DE MADRIDBOCM
-D. Reflexión sobre la lengua y sus usos 
-en el marco de propuestas de 
-producción y comprensión de textos 
-orales, escritos o multimodales 
-- Establecimiento de generalizaciones  sobre aspectos de la lengua elementales, 
-prestando especial ate nción a la existencia  de distintos tipos de palabras 
-(sustantivo, verbo, adjetivo) y a las relaciones de concordancia de género y que se 
-establecen entre algunas de ellas, utilizando el metalenguaje específico básico. 
-- Diferencias elementales ent re lengua oral y lengua escrita. Los sonidos y su 
-escritura. Correspondencias regulares entre fonema y grafía en  el ámbito de la 
-ortografía fonética o natural (/k/, /z/, /g/, /r/). Palabras sencilla s que contienen los 
-grupos inseparables /bl-/ y /br-/ y los grupos /m.b/ y /n.v/. 
-- Procedimientos elementales de adquisici ón de vocabula rio. Reflexión 
-contextualizada sobre la relación de significado (polisemia, sinónima y antonimia) 
-entre unas palabras y otras. Clases de palabras y concordancia. 
-- Relación entre intención comunicativa y modalidad oracional. 
-- Mecanismos elementales de coherencia y cohesión textual, con especial atención 
-a los conectores tempora les referidos a hecho s o circunstancias en presente, 
-pasado o futuro. 
-- Signos básicos de puntuación como mecanismo para organizar el texto escrito. La 
-utilidad del punto y sus implicaci ones ortográficas. Identificación y uso elemental 
-de la coma en las enumeraciones, y de los signos de interrogación y exclamación. 
- 
-SEGUNDO CICLO 
-COMPETENCIAS ESPECÍFICAS CRITERIOS DE EVALUACIÓN 
-1. Reconocer la diversidad de lenguas del mundo 
-a partir de las propias y de las existentes en 
-España, para favorecer la reflexión, identificar y 
-rechazar prejuicios sobre ellas y para valorar 
-dicha diversidad como fuente de riqueza 
-cultural. 
-1.1. Mostrar interés y respeto a las di stintas lenguas y variedades 
-dialectales de su entorno, identificando algunas expresiones de uso 
-cotidiano. 
-1.2. Identificar, con cierta autonomí a y en contextos pró ximos, prejuicios 
-sobre las lenguas frecuentes, aportando alternativas y reconociendo la 
-diversidad de estas en su entorno como una fuente de riqueza cultural. 
-1.3. Conocer la historia del español como lengua universal. 
-2. Comprender e interpretar textos orales y 
-multimodales, identificando el sentido general y 
-la información más relevante y valorando con 
-ayuda aspectos formales y de contenido 
-básicos, para construir conocimiento y 
-responder a diferentes necesidades 
-comunicativas. 
-2.1. Comprender el sentido de texto s orales y multimodales sencillos, 
-reconociendo las ideas princi pales, los mensa jes explícitos y los 
-mensajes implícitos más sen cillos, y avanzando , en la valoración 
-crítica del contenido y de los elementos no verbales elementales. 
-3. Producir textos orales y multimodales, con 
-coherencia, claridad y registro adecuados, para 
-expresar ideas, sentimientos y conceptos; 
-construir conocimiento; establecer vínculos 
-personales; y participar con autonomía en 
-interacciones orales variadas. 
-3.1. Producir textos orales y multimodales coherentes, con planificación, 
-ajustando el discurso a la situación comunicativa y utilizando recursos 
-no verbales básicos. 
-3.2. Participar en interacciones orales espontáneas o regladas, 
-incorporando estrategias básicas de escucha activa y de cortesía. 
-4. Comprender e interpretar textos escritos y 
-multimodales, reconociendo el sentido global, 
-las ideas principales y la información explícita e 
-implícita, y realizando con ayuda reflexiones 
-elementales sobre aspectos formales y de 
-contenido, para adquirir y construir 
-conocimiento y para responder a necesidades 
-e intereses comunicativos diversos. 
-4.1. Comprender el sentido gl obal y la información  relevante de texto s 
-sencillos, escritos y multimodales, real izando inferencias a partir de 
-estrategias básicas de comp rensión antes, durante y después de la 
-lectura. 
-4.2. Analizar el contenido y aspectos formal es y no formales elementales 
-de textos escritos y multimodales, valorando su contenido y estructura 
-e iniciándose en la evaluación de su fiabilidad. 
-
-LUNES 18 DE JULIO DE 2022Pág. 76 B.O.C.M. Núm. 169
-BOCM-20220718-1
-BOLETÍN OFICIAL DE LA COMUNIDAD DE MADRIDBOCM
-COMPETENCIAS ESPECÍFICAS CRITERIOS DE EVALUACIÓN 
-5. Producir textos escritos y multimodales, con 
-corrección gramatical y ortográfica básicas, 
-secuenciando correctamente los contenidos y 
-aplicando estrategias elementales de 
-planificación, textualización, revisión y edición, 
-para construir conocimiento y para dar 
-respuesta a demandas comunicativas 
-concretas. 
-5.1. Producir textos escritos y multimodal es sencillos, con  coherencia y 
-adecuación, en distintos soportes, iniciándose en el uso de las normas 
-gramaticales y ortográficas más sencillas de manera acompañada, en 
-la movilización de estra tegias sencillas, individua les o grupales, de 
-planificación, textualización y revisión. 
-6. Buscar, seleccionar y contrastar información 
-procedente de dos o más fuentes, de forma 
-planificada, evaluando su fiabilidad y 
-reconociendo algunos riesgos de manipulación 
-y desinformación, para transformarla en 
-conocimiento y para comunicarla, adoptando 
-un punto de vista personal y respetuoso con la 
-propiedad intelectual. 
-6.1. Localizar, seleccionar y contrastar información de  distintas fuentes, 
-incluidas las digitale s, citándolas y recreánd olas mediante la 
-adaptación de modelos dados. 
-6.2. Compartir los resultados de un proceso de inves tigación sencillo, 
-individual o grupa l, sobre algún tema de  interés personal o social y 
-medioambiental, realizado de manera acompañada. 
-6.3. Adoptar hábitos de uso crít ico, seguro y saludable de las tecnologías 
-digitales en relación  con la búsque da y la comunic ación de la 
-información. 
-7. Leer de manera autónoma obras diversas 
-seleccionadas atendiendo a sus gustos e 
-intereses, compartiendo las experiencias de 
-lectura, para iniciar la construcción de la 
-identidad lectora, para fomentar el gusto por la 
-lectura como fuente de placer. 
-7.1. Leer con autonomía o de forma acompañada textos de diversos autores, 
-ajustados a sus gustos e intereses y seleccionados con creciente 
-autonomía, avanzando en la construcción de su identidad lectora. 
-7.2. Compartir la experiencia de lectura, en soportes diversos, participando 
-en comunidades lectoras en el ámbito escolar. 
-8. Leer, interpretar y analizar, de manera 
-acompañada, obras o fragmentos literarios 
-adecuados a su desarrollo, estableciendo 
-relaciones entre ellos e identificando el género 
-literario y sus convenciones fundamentales, 
-para iniciarse en el reconocimiento de la 
-literatura como manifestación artística y fuente 
-de placer, conocimiento e inspiración para 
-crear textos de intención literaria. 
-8.1. Escuchar y leer textos variados de la literat ura infantil universal, que 
-recojan diversidad de autores, relacionándolos en función de temas y 
-aspectos elementales del  género literario , e interpretándolos y 
-relacionándolos con otras manifestaciones artísticas o culturales. 
-8.2. Producir textos sencillos individuales o en grupo con intención literaria, 
-recreando de manera personal los model os dados, en distintos 
-soportes y complementándolos con otros lenguajes artísticos. 
-9. Reflexionar de forma guiada sobre el lenguaje 
-a partir de procesos de producción y 
-comprensión de textos en contextos 
-significativos, utilizando la terminología 
-elemental adecuada, para iniciarse en el 
-desarrollo de la conciencia de la lengua y para 
-mejorar las destrezas de producción y 
-comprensión oral y escrita. 
-9.1. Formular conclusiones elementales sobre el funcionamiento de la lengua, 
-prestando especial atención a la relación entre sustantivos, adjetivos y 
-verbos, a partir de la obs ervación, comparación y transformación de 
-palabras, enunciados y te xtos, en un proceso de producción o 
-comprensión de textos en contextos significativos. 
-9.2. Revisar y mejorar los textos propios y ajenos y subsanar algunos 
-problemas de comprensión lectora, a partir de la reflexión metalingüística 
-e interlingüística y usando la terminología básica adecuada. 
-10. Poner las propias prácticas comunicativas al 
-servicio de la convivencia utilizando un 
-lenguaje adecuado y eficaz. 
-10.1. Rechazar los usos del lenguaje discriminatorios a través de la palabra 
-a partir de la reflexión grupal acompañada sobre los aspectos básicos, 
-verbales y no verbales, de la comunicación, teniendo en cuenta 
-referentes de igualdad entre hombres y mujeres. 
-10.2. Movilizar, con la planificación y el acompañamie nto necesarios, 
-estrategias básicas para la escucha activa, la comunicación asertiva, 
-el consenso y el diálogo. 
-
-LUNES 18 DE JULIO DE 2022B.O.C.M. Núm. 169 Pág. 77
-BOCM-20220718-1
-BOLETÍN OFICIAL DE LA COMUNIDAD DE MADRIDBOCM
-CONTENIDOS 
-BLOQUES CONOCIMIENTOS, DESTREZAS Y ACTITUDES 
-A. Las lenguas y sus hablantes 
-- Biografía de la lengua personal y reflexión sobre el mapa de las lenguas del centro y la 
-pluralidad de lenguas existentes. 
-- La diversidad cultural y del lenguaje como riqueza y herramienta de reflexión, 
-mostrando actitudes de respeto. 
-- Identificación de prejuicios sobre las lenguas. 
-- Uso de un lenguaje no discriminatorio y respetuoso con las diferencias. Identificación 
-de modelos positivos. 
-B. Comunicación 
-Contexto 
-- Incidencia de los componentes (situación , participantes, prop ósito comunicativo, 
-canal) en el acto comu nicativo, durante la participación en conv ersaciones y 
-coloquios, expresando con orden y coherencia opiniones propias, escuchando las 
-de los demás, dando explicaciones y siguiendo las normas establecidas para una 
-correcta comunicación. 
-Géneros 
-discursivos 
-- Tipologías textuale s: la narración de acontecimientos,  historias, procesos 
-sencillos, etc., la descripción, gradualmente más detallada de objetos, lugares, 
-escenas, etc., el diálogo y la exposici ón de hechos, experiencias personales o 
-temas cercanos o del entorno, previamente preparados. 
-- Propiedades textuales: estrategias básicas para la coherencia y la cohesión. 
-- Géneros discursivos propios del ámbito personal, social y educativo. Contenido y 
-forma. 
-Procesos 
-- Interacción oral: interacción  oral adecuada (orden y coherencia al exponer 
-opiniones e ideas) en  contextos formales e informales, para hacer peticiones, 
-resolver dudas, solicitar repeticiones, agradecer una colaboración, tomar el turno 
-de palabra, formular deseos, etc., mediante la escu cha activa, la asertiv idad, la 
-resolución de conflictos mediante el diálogo y la cortesía. La expresión y escucha 
-empática de necesida des, vivencias y emociones propias y ajenas mostrando 
-actitudes de respeto hacia los diferentes interlocutores. 
-- Comprensión ora l: identificación de las ideas más relevan tes, análisis de los 
-mensajes e interpretación del sentido global realizando las inferencias necesarias. 
-Detección de posibles usos discriminatorios del lengua je verbal y no verbal. 
-Identificación de modelos positivos. 
-- Estrategias de interpretación de elementos básicos de la c omunicación no verbal 
-(postura, gestos, expresión facial, contacto visual) du rante los procesos de 
-interacción y comprensión. 
-- Producción oral: el ementos básicos de la prosodia (p ausas, pronunciación, 
-entonación adecuada…) y de la comunicación  no verbal. Construcción, 
-comunicación y valoración de conocimiento mediante la planificación y producción 
-de textos orales y multimodales para relatar acontecimientos o sucesos, inventar 
-o modificar historias, resumir textos escuchados, expresar opiniones sobre temas 
-cercanos, responder a preguntas, etc. Adecuación de la expresión a la intención, 
-teniendo en cuenta al interlocutor y el asunto a tratar.  
-- Comprensión lectora: estrategias de comprensión lectora antes, durante y después 
-de la lectura. Identificación de las ideas más relevantes, resumen del argumento, 
-análisis del contexto, relación entre las ilustraciones y el contenido del texto, 
-reconocimiento del vocabulario e in terpretación del sentido global, realizando las 
-inferencias necesarias. Iden tificación de elementos gráficos y paratextuales 
-(ilustraciones, diseños, color es, fotografías, variaciones tipo gráficas, infografías, 
-etc.) al servicio de la comprensión.  
-- Lectura compartida y enton ada. Detección de posibl es usos discriminatorios del 
-lenguaje verbal y no verbal. Identificación de modelos positivos. 
-- Lectura individual de textos breves, narrativos, poéticos…con entonación, fluidez, 
-ritmo y respeto hacia los signos de puntuación (punto, coma, punto y coma, puntos 
-suspensivos, signos de admiración e interrogación).  
-
-LUNES 18 DE JULIO DE 2022Pág. 78 B.O.C.M. Núm. 169
-BOCM-20220718-1
-BOLETÍN OFICIAL DE LA COMUNIDAD DE MADRIDBOCM
-- Producción escrita: convenciones del código escrito y ortografía reglada básica en 
-copias, dictados o textos de  creación autónoma. C oherencia y cohesión textual. 
-Presentación cuidada (limpieza, claridad, precisión y orden en los escritos). 
-- Estrategias básicas, individual es o grupales, de planifi cación, textualización, 
-revisión y autocorrección de textos sencillos con distintos propósitos comunicativos 
-(cartas, noticias, invitaciones, formularios, textos narrati vos como biografías, 
-diarios personales, cuentos, etc.). Uso de elementos gráficos y paratextuales 
-básicos al servicio de la comprensión y la org anización del texto. Escritura en 
-soporte digital acompañada. 
-- Estrategias básicas para el uso  de fuentes documental es diversas, en diferentes 
-formatos, incluidos los digitale s, para mejorar la comprens ión y la producción de 
-los textos. 
-- Alfabetización mediática e informacional: estrategias básicas para la organización, 
-comparación, reelaboración y búsqueda guiada de información (acceso a las 
-fuentes adecuadas, búsqueda y recuperación de la información, discriminación de 
-la información válida de la no válida, etc.) en fuentes documentales variadas y con 
-distintos soportes y formatos. Reconocimie nto de autoría y respeto hacia las 
-producciones ajenas. Comparación y comunicación creativa de la información. Uso 
-de la biblioteca, así como de recursos digitales del aula. 
-C. Educación literaria 
-- Lectura acompañada de ob ras o fragmentos variados y di versos de la literatura 
-infantil, adecuados a sus intereses y organizados en itinerarios lectores.  
-- Estrategias básicas para la interpretación acompañada y compartida de las obras 
-a través de conversaciones literarias. 
-- Relación, de manera acompañada, entre los elementos constitutivos esenciales de 
-la obra literaria (tema, protagonistas, personajes secundarios, argumento, espacio) 
-y la construcción del sentido de la obra. 
-- Análisis guiado de los recursos expresivos y sus efectos en la recepción del texto. 
-- Relación entre los textos leídos y otras manifestaciones artísticas y culturales.  
-- Construcción de la identidad lectora. Estrateg ias para la expres ión de gustos e 
-intereses e iniciación a la valoración argumentada de las obras. 
-- Lectura expresiva, dramatización o interpretación de fragmentos atendiendo a los 
-procesos de comprensión y al nivel de desarrollo empleando recursos lingüísticos 
-y no lingüísticos (voz, cuerpo, movimiento). 
-- Creación guiada y de acuerdo a su nivel, de textos de intención literaria de manera 
-libre (cuentos, poemas…), y de textos asociados a imá genes como: anuncios, 
-carteles, cómics, chistes, con una función  concreta: informar, narrar, describir, 
-animar a una determinada acción… a partir de pautas o mod elos dados o 
-recreando textos literarios, utilizando los recursos léxic os, sintácticos, fónicos y 
-rítmicos. Estrategias para la revisión de las producciones propias, ya sean 
-resultado de copias o dictados o de creaciones autónomas. 
-- Uso acom pañado de la biblio teca de aula o de cen tro como escenario de 
-actividades literarias compartidas. Los libros ilustrados como fuente de disfrute y 
-de aprendizaje de la lectura y su conexión con la realidad, con la fantasía y 
-con las demás artes. 
-- Principales autores de la  literatura española de las distintas épocas. Obras más 
-relevantes. 
-
-LUNES 18 DE JULIO DE 2022B.O.C.M. Núm. 169 Pág. 79
-BOCM-20220718-1
-BOLETÍN OFICIAL DE LA COMUNIDAD DE MADRIDBOCM
-BLOQUES CONOCIMIENTOS, DESTREZAS Y ACTITUDES 
-D. Reflexión sobre la lengua y sus usos 
-en el marco de propuestas de 
-producción y comprensión de textos 
-orales, escritos o multimodales 
-- Establecimiento de gene ralizaciones sobre aspectos de la lengua elementales a 
-partir de la observación, comparación y transformación de enunciados, prestando 
-especial atención a las relaciones que se establecen entre sustantivos, adjetivos y 
-verbos. 
-- Aproximación a la lengua como sistema con distintos ni veles: sonidos y letras, 
-palabras, oraciones y textos. Observación y comparación de unidades 
-comunicativas básicas. Reglas ortográficas (b/v, g/j, ll/y, r/rr, h; c/qu, z/c, d/z, s/z) 
-en palabras de uso frecuente. 
-- Procedimientos elementale s de adquisición de voca bulario. Similitudes y 
-diferencias de forma y signi ficado (polisemia, sinonimia, an tonimia, prefijos y 
-sufijos: aumentativos, diminutivos) entre palabras de la misma familia léxica o 
-semántica. Clases d e palabras: sustantivos, artícul os y otros determinantes, 
-pronombres personales básicos, adjetivos calificativos y verbos. 
-- Relación entre intención comunicativa y modalidad oracional. 
-- Mecanismos elementales de coh erencia y cohesión, con especial atención a las 
-repeticiones y sinónimos, y al orden de oraciones y párrafos. 
-- Los signos de puntuación (pu nto, coma, punto y coma, dos puntos, interrogación 
-y exclamación) como mecanismos para organizar el texto escrito y para expresar 
-la intención comunicativa. 
-- Estrategias elementales para el uso guiado de diccionarios, en distintos soportes. 
- 
-TERCER CICLO 
-COMPETENCIAS ESPECÍFICAS CRITERIOS DE EVALUACIÓN 
-1. Reconocer la diversidad de las lenguas del mundo a 
-partir de las propias y de las existentes en España, para 
-favorecer la reflexión, identificar y rechazar prejuicios 
-sobre ellas y para valorar dicha diversidad como fuente 
-de riqueza cultural. 
-1.1. Mostrar interés y respeto a las distintas lenguas y variedades 
-dialectales, identificando las características fundamentales de 
-las de su entorno geográfico, así como algunos rasgos de los 
-dialectos y lenguas familiares del alumnado. 
-1.2. Conocer y valorar la importancia del es pañol como lengua 
-universal, sus orígenes e historia. 
-1.3. Detectar, con autonomía cre ciente y en context os próximos, 
-prejuicios del lenguaje frecuentes, aportando alternativas, 
-reconociendo modelos positivos y valorando la diversidad de 
-las lenguas del mundo como una fuente de riqueza cultural. 
-1.4. Conocer la historia del espa ñol como lengua universal, del 
-latín a las lenguas romances y su expansión desde la 
-Península Ibérica hacia América y otros continentes. 
-2. Comprender e interpretar textos orales y multimodales, 
-identificando el sentido general y la información más 
-relevante y valorando con ayuda aspectos formales y 
-de contenido básicos, para construir conocimiento y 
-responder a diferentes necesidades comunicativas. 
-2.1. Comprender el sentido de textos orales y multimodales 
-sencillos, reconociendo las ide as principales y los mensajes 
-explícitos e implícitos, valorando su contenido y los elementos 
-no verbales elementales y, algunos elementos formales 
-elementales. 
-3. Producir textos orales y multimodales, con coherencia, 
-claridad y registro adecuados, para expresar ideas, 
-sentimientos y conceptos; construir conocimiento; 
-establecer vínculos personales; y participar con 
-autonomía en interacciones orales variadas. 
-3.1. Producir textos orales y mul timodales, de manera autónoma, 
-coherente y fluida, en contextos formales sencillos y utilizando 
-correctamente recursos verbales y no verbales básicos. 
-3.2. Participar en interacci ones orales espontáneas o regladas, 
-incorporando estrategias se ncillas de escucha activa, de 
-cortesía y de cooperación conversacional. 
-
-LUNES 18 DE JULIO DE 2022Pág. 80 B.O.C.M. Núm. 169
-BOCM-20220718-1
-BOLETÍN OFICIAL DE LA COMUNIDAD DE MADRIDBOCM
-COMPETENCIAS ESPECÍFICAS CRITERIOS DE EVALUACIÓN 
-4. Comprender e interpretar textos escritos y 
-multimodales, reconociendo el sentido global, las ideas 
-principales y la información explícita e implícita, y 
-realizando con ayuda reflexiones elementales sobre 
-aspectos formales y de contenido, para adquirir y 
-construir conocimiento y para responder a necesidades 
-e intereses comunicativos diversos. 
-4.1. Comprender el sentido global y la información relevante de 
-textos escritos y multimodales, realizando inferencias, a partir 
-de estrategias básicas de comp rensión antes, durante y 
-después de la lectura. 
-4.2. Analizar, de manera acompañad a, el contenido y aspectos 
-formales y no formales elementales de textos escritos y 
-multimodales, valorando su con tenido y estructura y 
-evaluando su calidad, fiabilidad e idoneidad en función del 
-propósito de lectura. 
-5. Producir textos escritos y multimodales, con corrección 
-gramatical y ortográfica básicas, secuenciando 
-correctamente los contenidos y aplicando estrategias 
-elementales de planificación, textualización, revisión y 
-edición, para construir conocimiento y para dar 
-respuesta a demandas comunicativas concretas. 
-5.1. Producir textos escritos y multimodal es de relativa 
-complejidad, con coherencia y adecuación, en distintos 
-soportes, progresando en el uso de la s normas gramaticales 
-y ortográficas básicas al servicio de la cohesión textual y 
-movilizando estrategias sencillas, individuales o grupales, de 
-planificación, textualización, revisión y edición. 
-6. Buscar, seleccionar y contrastar información 
-procedente de dos o más fuentes, de forma planificada, 
-evaluando su fiabilidad y reconociendo algunos riesgos 
-de manipulación y desinformación, para transformarla 
-en conocimiento y para comunicarla de manera 
-creativa, adoptando un punto de vista personal y 
-respetuoso con la propiedad intelectual. 
-6.1. Localizar, seleccionar y contrastar informació n de distintas 
-fuentes, incluidas las digitales, citándola s y recreándolas 
-mediante la adaptación creativa de modelos dados. 
-6.2. Compartir los resultados de un pr oceso de investigación 
-sencillo, individual o grupal, sob re algún tema de int erés 
-personal o social y medioambiental. 
-6.3. Adoptar hábitos de uso crít ico, seguro y adecuado de las 
-tecnologías digitales en relación con  la búsqueda y la 
-comunicación de la información. 
-7. Leer de manera autónoma obras diversas 
-seleccionadas atendiendo a sus gustos e intereses, 
-compartiendo las experiencias de lectura, para iniciar la 
-construcción de la identidad lectora, para fomentar el 
-gusto por la lectura como fuente de placer. 
-7.1. Leer de manera autónoma textos de diversos autores 
-ajustados a sus gustos e intereses, avanzando en la 
-construcción de su identidad lectora. 
-7.2. Compartir la experien cia de lectura, en  soportes diversos, 
-participando en comunidades lectoras en el ámbito escolar o 
-social. 
-8. Leer, interpretar y analizar, de manera acompañada, 
-obras o fragmentos literarios adecuados a su 
-desarrollo, estableciendo relaciones entre ellos e 
-identificando el género literario y sus convenciones 
-fundamentales, para iniciarse en el reconocimiento de 
-la literatura como manifestación artística y fuente de 
-placer, conocimiento e inspiración para crear textos de 
-intención literaria. 
-8.1. Escuchar y leer textos literarios ad ecuados a su edad, que 
-recojan diversidad de auto res y autoras, relacionándolos en 
-función de los tema s y de aspectos elementales de cada 
-género literario, e interpre tándolos, valorándolos y 
-relacionándolos con otras manifestaciones artísticas o 
-culturales de manera progresivamente autónoma. 
-8.2. Producir, de manera autónoma, textos sencillos individuales o 
-grupales con intención literaria, reelaborando con creatividad 
-los modelos dados, en  distintos soportes y 
-complementándolos con otros lenguajes artísticos. 
- 
-
-LUNES 18 DE JULIO DE 2022B.O.C.M. Núm. 169 Pág. 81
-BOCM-20220718-1
-BOLETÍN OFICIAL DE LA COMUNIDAD DE MADRIDBOCM
-COMPETENCIAS ESPECÍFICAS CRITERIOS DE EVALUACIÓN 
-9. Reflexionar sobre el lenguaje a partir de procesos de 
-producción y comprensión de textos en contextos 
-significativos, utilizando la terminología elemental 
-adecuada, para iniciarse en el desarrollo de la 
-conciencia de la lengua y para mejorar las destrezas de 
-producción y comprensión oral y escrita. 
-9.1. Establecer generali zaciones sobre asp ectos básicos del 
-funcionamiento de la leng ua de manera acompañada, 
-formulando hipótesis y buscando contraejemplos, a partir de 
-la observación, comparación y transformació n de palabras, 
-enunciados y textos, en un proceso de producción o 
-comprensión de textos en contextos significativos. 
-9.2. Revisar y mejorar los textos propios y ajenos y subsanar 
-algunos problemas de comp rensión lectora, de manera 
-autónoma, a partir de la reflexión metalingüística e 
-interlingüística y usando la terminología básica adecuada. 
-10. Poner las propias prácticas comunicativas al servicio 
-de la convivencia utilizando un lenguaje adecuado y 
-eficaz.  
-10.1. Rechazar los usos del lenguaje discriminatorio a través de la 
-palabra, identificados mediante la  reflexión grupal 
-acompañada, sobre distintos aspecto s, verbales y no 
-verbales, de la comunicación, teniendo en cuenta referentes 
-de igualdad entre hombres y mujeres. 
-10.2. Movilizar con planificación, estrategias básicas para la 
-escucha activa, la comu nicación asertiva y la deliberación 
-argumentada mediante el diálogo. 
- 
- 
-CONTENIDOS 
-BLOQUES CONOCIMIENTOS, DESTREZAS Y ACTITUDES 
-A. Las lenguas y sus hablantes 
-- Biografía de la lengua p ersonal y reflexión sobre el mapa de las lenguas del 
-entorno y la pluralidad de las existentes. 
-- Mapa del español en el mu ndo. El español como lengua universal. La Real 
-Academia Española de la lengua.  Orígenes e historia de la lengu a española. 
-Lenguas muertas en España: griego y latín.  
-- La diversidad cultural y el lenguaje como riqueza y herrami enta de reflexión 
-interlingüística. Aproximación a las lenguas de signos. Actitudes de respeto hacia 
-las diferentes lenguas y sus interlocutores. 
-- Estrategias de identificación de prejuicios del lenguaje. Identificación de modelos 
-positivos. 
-- Uso de un lenguaje no discri minatorio y respetuoso con las diferencias. 
-Conocimiento sobre la s distintas formas de comunicación utilizadas por las 
-personas con discapacidad. 
-B. Comunicación 
-Contexto 
-- Interacciones entre los componentes de l hecho comun icativo (situación, 
-participantes, propósito comunicativo, canal, registro), respeto a las estrategias de 
-cortesía lingüística.  
-Géneros 
-discursivos 
-- Tipologías textuales: la  narración, la de scripción, el diálogo, la  exposición y la 
-argumentación.  
-- Propiedades textuales: estrateg ias básicas para la co herencia, cohesión y 
-adecuación. 
-- Géneros discursivos propios del ámbito personal, social y educativo. Contenido y 
-forma. Estrategias para la selección del género discursivo adecuado a la intención 
-comunicativa, modelos orientad os al desarrollo de la capacidad creativa en la 
-escritura. Redes sociales y sus riesgos. 
-Procesos - Interacción oral: interacción oral y ad ecuada en contextos formales e informales, 
-transmitiendo ideas con clari dad, participando en deba tes e intercambios de 
-
-LUNES 18 DE JULIO DE 2022Pág. 82 B.O.C.M. Núm. 169
-BOCM-20220718-1
-BOLETÍN OFICIAL DE LA COMUNIDAD DE MADRIDBOCM
-manera constructiva, confrontando las propias opiniones o aportando argumentos 
-mediante la escucha activa, la asertividad, el diálogo y la cortesía. La expresión y 
-escucha empática de necesi dades, vivencias y emocion es propias y ajenas, 
-mostrando actitudes de respeto hacia los diferentes interlocutores. 
-- Comprensión oral: identificación de las ideas más relevantes e inte rpretación del 
-sentido global realizando las inferencias necesarias en narraciones, descripciones, 
-informaciones, instrucciones, argumentaciones. Re spuesta a preguntas 
-concernientes a la c omprensión literal, i nterpretativa y crítica. Valoración crítica. 
-Detección de usos discrimina torios del lenguaje verbal y no verbal. Identificación 
-de modelos positivos.  
-- Producción oral: elementos de la prosodia (entonación, dicción: articulación, ritmo, 
-volumen…) y de la comunicación no verb al. Construcción, comunicació n y 
-valoración crítica de conocimiento mediante la planificación y producción de textos 
-orales y multimodales con au tonomía. Adecuación del uso  de la lengua a las 
-distintas finalidades y a las diferentes necesidades comunicativas.  
-- Comprensión lectora: estrategias de comprensión lectora antes, durante y después 
-de la lectura. Identificación de las ideas más relevantes e interpretación del sentido 
-global, activación de conocimientos previos, relectura, parafraseo, visión general 
-del texto, identi ficación de términos, conceptos confu sos o palabras clave, 
-formulación de preguntas, deducción del significado de palabras y expresiones con 
-ayuda del contexto, realizand o las inferencias neces arias. Valoración crítica. 
-Identificación de elementos gráficos y paratextuales al servicio de la comprensión. 
-Lectura compartida y expresiva. De tección de usos di scriminatorios del lenguaje 
-verbal y no verbal.  
-- Estrategias de uso gradualmente autónomo de recursos lingü ísticos diversos, en 
-diferentes soportes, incluidos los digitales, para mejorar la comprensión de textos. 
-- Producción escrita: ortograf ía reglada en la textualización y la  autocorrección de 
-textos escritos y multimodales de relativa complejida d, con distintos propósitos 
-comunicativos tale s como diarios, c artas, correos electrónicos, biografías, 
-informes, pequeños poemas, descripciones... Coherencia, cohesión y adecuación 
-textual en copias, dictados o textos de crea ción autónoma. Estrategias básicas, 
-individuales o grupales, de planificación, textualización, revisión y autocorrección. 
-Comentarios de texto (tema, resumen, estructura…). Presentación cuidada con 
-limpieza, claridad, precisión y ord en en los escritos. Uso de elementos gráficos y 
-paratextuales al servicio de la comprensión. Escritura en soporte digital. 
-- Alfabetización mediática e informacional: estrategias para la búsqueda y selección 
-de información (toma notas, elabo ra esquemas, guiones, mapas conceptuales, 
-sigue un plan de trab ajo, expresa conclusiones con claridad etc.) en distintas 
-fuentes documentales y con distintos soportes y formatos, entre ellos el periódico. 
-Reconocimiento de autoría y respeto por la s producciones ajenas. Comparación, 
-organización y valoración crítica de la información. Uso autónomo de la biblioteca, 
-así como de recursos digitales del aula. 
-C. Educación literaria 
-- Lectura autónoma de ob ras o fragmentos variados y diversos de la literatura 
-adecuados a su edad y organizados en itinerarios lectores. 
-- Estrategia para la interpretación de las obras a través de conversaciones literarias. 
-- Relación, entre los elementos constitutivos de la obra literaria (tema, protagonistas, 
-personajes secundarios, ar gumento, espacio) y la construcció n del sentido de la 
-obra. 
-- Análisis de la relación entre  los elementos básicos del género literario y la 
-construcción del sentido de  la obra. Característica s fundamentales de textos 
-literarios narrativos, poéticos y dramáticos. 
-- Estrategias básicas para  la interpretación autónoma de los textos literarios. El 
-lenguaje figurado (símiles y metáforas), las personificaciones, las hipérboles y los 
-juegos de palabras. Refranes, aforis mos y greguerías para profundizar en el 
-sentido y posibilidades del lenguaje El uso de comp araciones, metáforas, 
-aumentativos, diminutivos y sinónimos en textos literarios. 
-- Relación entre los textos leídos y otras manifestaciones artísticas y culturales. Los 
-
-LUNES 18 DE JULIO DE 2022B.O.C.M. Núm. 169 Pág. 83
-BOCM-20220718-1
-BOLETÍN OFICIAL DE LA COMUNIDAD DE MADRIDBOCM
-libros ilustrados como fuente de disfrute y de aprendizaje de la lectura y su 
-conexión con la realidad, con la fantasía y con las demás artes. 
-- Avance en la construcción de la identidad lectora. Estrategias para la expresión de 
-gustos e intereses y para la valoración crítica elemental de las obras. 
-- Lectura expresiva, dramatización o interpretación de fragmentos atendiendo a los 
-procesos de comprensión y al nivel de desarrollo. 
-- Creación de textos de intenci ón literaria (cuentos, po emas, canciones, pequeñas 
-obras teatrales) de man era libre y a partir de  la recreación y ap ropiación de los 
-modelos dados utilizando recursos léxicos, sintácticos, fónicos y rítmicos en dichas 
-producciones. 
-- Uso autónomo de la biblioteca de aula o de centro como escenario de actividades 
-literarias compartidas. 
-- Principales autores de la literatura españo la y universal en la s distintas épocas. 
-Obras más relevantes.  
-D. Reflexión sobre la lengua y sus usos 
-en el marco de propuestas de 
-producción y comprensión de textos 
-orales, escritos o multimodales. 
-- Establecimiento de gen eralizaciones sobre asp ectos lingüísticos elementales a 
-partir de la observación, comparación y transformación de palabras y enunciados 
-(sustitución, inserción, supresión, camb io de orden, man ipulación), formulación y 
-comprobación de hipótesis y contrastes con otras lenguas.  
-- Aproximación a la lengua  como sistema con distintos ni veles: sonidos y letras, 
-palabras (sustantivos, de terminantes artículos: de mostrativos, posesivos, 
-indefinidos, numerale s, interrogativos y exclamativ os; pronombres, adverbios, 
-locuciones adverbiales, preposiciones, con junciones, interjecciones, verbos y 
-adjetivos) oraciones (tipo s) y textos. Observación y compara ción de unidades 
-comunicativas básicas. Relaciones fundamentales entre los esquemas semánticos 
-y sintácticos de la oración. Uso de la sintaxis correcta  en los escritos propios. 
-Reconocimiento de sintagmas sencillos. 
-- Procedimientos básicos de adquisición de vocabulario. Mecanismos léxicos 
-básicos para la formación de palabras. Familias de palabras, palabras derivadas, 
-homónimas. 
-- Relación entre intención  comunicativa y modalidad  oracional (enunciativas, 
-exclamativas, interrogativas…). 
-- Mecanismos básicos de coherenc ia y cohesión, con espe cial atención a las 
-sustituciones pronominales y a la  correlación temporal est ablecida mediante los 
-distintos tiempos verbales.  Conjugación de los verbos. La voz pasiva. 
-- Estrategias de observa ción y formulación de gene ralizaciones sobre la 
-acentuación. Sílabas tónicas y átonas, diptongos, triptongo s e hiatos. Palabras 
-agudas, llanas, esdrúj ulas y sobresdrújulas. Reglas de acentuaci ón de los 
-interrogativos, exclamativos y las palabras compuestas.  
-- Los signos de puntuación ( el punto y seguido, el pu nto y aparte, el punto final, el 
-punto después de las abreviaturas y detrás de paréntesis o comillas cuando cierran 
-períodos; la coma; los dos puntos y los puntos suspensivos en todos sus usos; los 
-signos de interrogació n y de exclamación; la raya para señal ar cada una de las 
-intervenciones de un dialogo; el guio n para separar una palabra que no cabe 
-completa en una línea o rengl ón y las comillas para reproducir citas textuales) 
-como mecanismos para organizar el texto y expresar intención comunicativa. 
- 
-
-LUNES 18 DE JULIO DE 2022Pág. 84 B.O.C.M. Núm. 169
-BOCM-20220718-1
-BOLETÍN OFICIAL DE LA COMUNIDAD DE MADRIDBOCM
-Lengua Extranjera: Inglés 
- 
-El aprendizaje de difere ntes lenguas supone un requis ito imprescindible para poder desenvolve rse en el mundo q ue nos rodea y 
-relacionarnos con personas e instituciones de todos los continentes. Conocidas las características de la sociedad, el aprendizaje de 
-idiomas distintos al castellano, lengua veh icular en la que se imparten las enseñanzas en  la Comunidad de Madrid, se vuelve 
-indispensable. 
-El área de Lengua Extranjera: Inglés, tiene como finalidad favorecer y ampliar las posibilidades comunicativas del alumnado en el 
-citado idioma y contribuir al desarrollo de las habilidades para participar en entornos comunicativos en los que sea necesario su uso. 
- Las destrezas relacionadas con la competencia plur ilingüe implican la capacidad de utiliza r, en distintas formas y modos de 
-comunicación, las lenguas que se conocen, estableciendo conexiones y transferencias entre ellas. En este caso, la inferencia entre 
-el idioma castellano y el inglés se hace necesaria. Las actitudes, por su parte, permitirán valorar y respetar la diversidad de lenguas, 
-y encaminarán un proceso formativo que anime a continuar aprendiendo otras, además del inglés, a lo largo de la vida.  
-El currículo del área se organiza en torn o al desarrollo de las comp etencias específicas, cuya adquisición debe adaptarse a las  
-circunstancias, intereses, ma durez y desarrollo del alumnado. Constituyen, pues, el punto de partida en  la adquisición formal d el 
-idioma inglés durante la etapa. Será imprescindible basar el aprendizaje en los repertorios y experiencias del alumnado, facilitando 
-su participación en actos de comunicación sencillos, a través de actividades y estrategias comunicativas de comprensión, producción 
-e interacción y fomentando la motivación y la reflexión sobre el funcionamiento de la lengua inglesa.   
-Las capacidades de las competencias específicas se adquirirá n con la movilización de lo s contenidos del área. Los criterios de 
-evaluación asociados a las compete ncias específicas de terminarán el nivel de con secución de las mismas  para cada uno de los 
-ciclos. 
-En relación con los con tenidos, se organizan en cuatro bloques. A los tres prescriptivos que se reconocen en el real decreto que 
-establece para esta etapa las enseñanzas mínimas, la Comun idad de Madrid suma  un cuarto. El bloque «Comunicación» incluye 
-los contenidos necesarios para el desarrollo de actividades y estrategias comunicativas de comprensión, producción e interacción y 
-búsqueda guiada de in formación. El bloque «Plurilingüismo» abarca los contenidos relacionados con el repertorio del lenguaje 
-personal del alumno y la refle xión sobre el funcionamiento de las lenguas, en general, y de l inglés, en particula r. El bloque 
-«Interculturalidad» integra los contenidos acerca de las culturas vehiculadas a través del inglés, y su aprecio como oportunidad de 
-enriquecimiento y desarrollo de actitudes de interés por conocer y comprender otras lengua s y culturas. El último bloque, distintivo 
-de la Comunidad de Madrid, presenta los «Contenidos sintáctico-discursivos» del idioma inglés que deberán tratarse en esta etapa. 
-En conclusión, la adquisición de la lengua inglesa en esta etapa, debe ser un proceso ameno, divertido, práctico y de creación de la 
-lengua, que amplíe las posibilidades comunicativas de los alumnos, les permita ser más autónomos en su aprendizaje y desarrolle 
-la curiosidad por el conocimiento de otras realidades sociales y culturales. 
-En el anexo I del Real Decreto 157/2022, de 1 de marzo, se describen las competencias específicas de esta área. A continuación, 
-se presentan esas competencias asociadas a los criterios de evaluación por ciclo, así como los contenidos relacionados.  
- 
- 
-PRIMER CICLO 
-COMPETENCIAS ESPECÍFICAS CRITERIOS DE EVALUACIÓN 
-1. Comprender el sentido general e información 
-específica y predecible de textos breves y 
-sencillos, expresados de forma clara y en la 
-lengua estándar, haciendo uso de diversas 
-estrategias y recurriendo, cuando sea 
-necesario, al uso de distintos tipos de apoyo, 
-para desarrollar el repertorio del lenguaje y 
-para responder a necesidades comunicativas 
-cotidianas. 
-1.1. Reconocer e interpretar palabras y expresiones habituales en textos 
-orales, escritos y multimodales breve s y sencillos sobre temas 
-frecuentes y cotidianos de relevancia p ersonal y próximos a su 
-experiencia, expresa dos de forma comprensib le, clara, sencilla y 
-directa y en lengua estándar. 
-1.2. Seleccionar y apli car de forma guiada e strategias elementales en 
-situaciones comunicativas cotidianas y de relevancia para el alumnado 
-con el fin de captar la idea global e identific ar elementos específicos 
-con ayuda de elementos de la lengua y del contexto y el cotexto. 
- 
-
-LUNES 18 DE JULIO DE 2022B.O.C.M. Núm. 169 Pág. 85
-BOCM-20220718-1
-BOLETÍN OFICIAL DE LA COMUNIDAD DE MADRIDBOCM
-COMPETENCIAS ESPECÍFICAS CRITERIOS DE EVALUACIÓN 
-2. Producir textos sencillos de manera 
-comprensible y estructurada, mediante el 
-empleo de estrategias como la planificación o 
-la compensación, para expresar mensajes 
-breves relacionados con necesidades 
-inmediatas y responder a propósitos 
-comunicativos cotidianos. 
-2.1. Expresar oralmente frases cortas y sen cillas con información básica 
-sobre asuntos cotidianos y de relevancia para  el alumnado, utilizando 
-de forma guiada rec ursos verbales y no verbales, recurriendo a 
-modelos y estructuras previamente presentados y prestando atención 
-al ritmo, la acentuación y la entonación en lengua inglesa. 
-2.2. Escribir palabras, expresiones conocidas y frases a partir de modelos y 
-con una finalidad específica, a través de  herramientas analógicas y 
-digitales, usando léxico y estructuras elementales de la lengua inglesa 
-sobre asuntos cotidianos y de relevancia personal para el alumnado. 
-2.3. Seleccionar y apli car de forma guiada, estrateg ias básicas para 
-producir mensajes breves y sencillos en in glés, adecuados a las 
-intenciones comunicativa s usando, con ayuda , recursos y apoyos 
-físicos o digitales en función de las necesidades de cada momento. 
-3. Interactuar con otras personas usando 
-expresiones cotidianas, recurriendo a 
-estrategias de colaboración y empleando 
-recursos analógicos y digitales, para 
-responder a necesidades inmediatas de su 
-interés en intercambios comunicativos 
-respetuosos con las normas de cortesía. 
-3.1. Participar, de forma guiada , en situaciones interactivas elementales 
-sobre temas cotidianos, preparadas previamente, a través de diversos 
-soportes, apoyándose en recursos tales como la repetición, el r itmo 
-pausado o el lenguaje no verbal, y mostrando empatía. 
-3.2. Seleccionar y utilizar, de forma guiada y en entornos próximos, 
-estrategias elementales p ara saludar, despedirse  y presentarse; 
-expresar mensajes sencillos y breves; y formular y contestar preguntas 
-básicas para la comunicación en lengua inglesa. 
-4. Participar en situaciones predecibles, usando 
-estrategias y conocimientos para procesar y 
-transmitir información básica y sencilla, con el 
-fin de facilitar la comunicación. 
-4.1. Interpretar y explicar, de forma  guiada, información básica de 
-conceptos, comunicaciones y textos breves y sencill os en situaciones 
-en las que atender a la diversidad, mostrando empatía e interés por los 
-interlocutores e interlocutoras y por los problemas de entendimiento en 
-su entorno inmediato, apoyándose en diversos recursos y soportes. 
-5. Reconocer y usar los repertorios lingüísticos 
-personales entre distintas lenguas, 
-reflexionando sobre su funcionamiento e 
-identificando las estrategias y conocimientos 
-propios, para mejorar la respuesta a 
-necesidades comunicativas concretas en 
-situaciones conocidas. 
-5.1. Comparar y contrastar similitudes y diferencias evidentes entre distintas 
-lenguas reflexionando, de forma guiada, sobre aspectos elementales 
-de su funcionamiento. 
-5.2. Identificar y aplicar, de forma guiada, conocimien tos y estrategias de 
-mejora de su capacidad de comunicar y de aprender la lengua 
-extranjera, con apoyo de otros participantes y de soportes analógicos y 
-digitales. 
-5.3. Identificar y explicar, de manera guiada, avances y dificultades 
-elementales en el proceso de aprendizaje de la lengua extranjera. 
-6. Apreciar y respetar la diversidad de otros 
-contextos a partir de la lengua extranjera, 
-identificando y valorando las diferencias y 
-semejanzas entre lenguas y culturas, para 
-aprender a gestionar situaciones entre 
-diferentes culturas. 
-6.1. Mostrar interés por la  comunicación entre diferentes culturas, 
-identificando y analizando, de forma guiada, las discriminaciones y los 
-prejuicios más comunes, en situaciones cotidianas y habituales. 
-6.2. Reconocer y apreciar la diversidad de otros contextos relacionados con 
-la lengua extran jera, mostrando inter és por conocer lo s elementos 
-fundamentales de la lengua y su cultura.  
-
-LUNES 18 DE JULIO DE 2022Pág. 86 B.O.C.M. Núm. 169
-BOCM-20220718-1
-BOLETÍN OFICIAL DE LA COMUNIDAD DE MADRIDBOCM
-CONTENIDOS 
-BLOQUES CONOCIMIENTOS, DESTREZAS Y ACTITUDES 
-A. Comunicación 
-- Autoconfianza en el uso de la lengua extranjera. El error como parte del proceso de aprendizaje y 
-como instrumento de mejora. 
-- Iniciación en las estrategi as elementales para la comprensión y la producción (vuelve a leer el 
-texto, usa su conocimiento previo, lee entre líneas, usa las pistas del contexto, piensa en voz alta, 
-resume, ubica las pa labras clave, hace predicciones, visualiza, imita, repite…) de textos orales, 
-escritos y multimodales breves, sencillos y contextualizados en lengua inglesa.  
-- Funciones comunicativas elementales a decuadas al ámbito y al contexto: saludar, despedirse, 
-presentar y presentarse, dar las gracias, pedir permiso o ayuda...; identificar las características de 
-personas, objetos y luga res; responder a pregunta s concretas sobre cue stiones cotidianas en 
-inglés; expresar el tiempo, la cantidad y el espacio. 
-- Modelos contextuales elementa les en la comprensión y prod ucción de textos orales, escritos y 
-multimodales, breves y sencill os, tales como felicitaciones, notas, listas o avisos, cu entos, 
-comics… con alto contenido visual, siguiendo modelos y cuidando su presentación. Identificación 
-y comprensión de pala bras clave e ideas pri ncipales. Estrategias intera ctivas, un intercambio 
-verbal y colectivo de ideas.  
-- Unidades del leng uaje element ales y significados asociados a dichas estructuras tales como 
-expresión de la entidad y sus propiedades, cantidad y número, afirmación, exclamación, negación, 
-interrogación en lengua inglesa. 
-- Léxico elemental de alta frecuencia y de interés para el alumnado relativo a relaciones personales 
-básicas, vivienda, lugares y entornos cercanos. Emisión de palabras y mensajes breves y sencillos 
-con una pronunciación, entonación, acentuación y ritmo correcto. Participación en conversaciones 
-de aula. Estrategias para la comprensión de palabras clave y mensajes sencillos producidos con 
-distintos acentos en la lengua inglesa. 
-- Iniciación en patrones sono ros y acentuales elementales. Diferencias fonéticas básicas de la 
-lengua inglesa a través de grupos de sonidos, palabras y oraciones sencillas. Palabras que 
-comparten un patrón común, que rimen y fonemas finales. Ca nciones, rimas, retahílas, 
-trabalenguas, chistes básicos, poesías, acompañadas de gestos faciales, corporales y mímica. 
-- Iniciación en convenciones ortográficas elementales. El sonido y nombre de las letras del alfabeto. 
-Uso de mayúsculas, punto y otros signos de puntuación. 
-- Convenciones y estrateg ias conversacionales elementales verbales o no verbales (gestos, 
-expresiones faciales, posturas corporales...) de uso común en formato síncrono (cara a cara, por 
-teléfono, video llamada, videoconferencia) o asíncrono, en las que se estable ce contacto social 
-(plataformas, apps, redes sociales) para iniciar, man tener y terminar la comu nicación, tomar y 
-ceder la palabra, preguntar y responder, etc. 
-- Herramientas analógicas y digitales elementales para la comprensión y producción oral, escrita y 
-multimodal. Uso guiado, limitado y responsable de las herramientas digitales. 
-B. Plurilingüismo 
-- Estrategias y técnicas elementales de detección de las carencias comunicativas y las limitaciones 
-derivadas del nivel de competencia en la lengua extranjera y en las demás lenguas del repertorio 
-del lenguaje propio, tales como la re petición, imitación, la solicitud de aclaraciones, la búsqueda 
-de recursos para entender el discurso, la comunicación no verbal… 
-- Iniciación a las estrategia s elementales para identificar y utilizar u nidades del lenguaje (léxico, 
-morfosintaxis, patrones sonoros, etc.) tales como la transferencia y aplicación de estrategias de la 
-lengua materna, uso de imág enes, vocabulario, diag ramas, mapas mentales básicos, pósteres, 
-diccionarios personales con imágenes, canciones… a partir de la comparaci ón de las lenguas y 
-variedades que conforman el repertorio del lenguaje  personal. 
- 
-
-LUNES 18 DE JULIO DE 2022B.O.C.M. Núm. 169 Pág. 87
-BOCM-20220718-1
-BOLETÍN OFICIAL DE LA COMUNIDAD DE MADRIDBOCM
-BLOQUES CONOCIMIENTOS, DESTREZAS Y ACTITUDES 
-C. Interculturalidad 
-- La lengua extranjera c omo medio de comunicaci ón y relación con personas de otros países. 
-Realidades sociales y cul turales de otras lenguas, respeto y tolerancia po r el interlocutor, sus 
-costumbres, tradiciones y su cultura. 
-- Aspectos del lenguaje, de la cultura y de la sociedad, elementales y más significativos relativos a 
-las costumbres y la vida cotidiana en países donde se habla la lengua extranjera. 
-- Iniciación en las estrategias básicas de uso comú n para entender y apreciar la diversidad de la 
-lengua, la cultura y el arte, a partir de val ores sociales y medioambi entales y democráticos. La 
-realidad de las lenguas del aula como fuente de riqueza cultural. 
-- Iniciación en las estrategias básicas de detección de usos discriminatorios del lenguaje verbal y 
-no verbal. 
-D. Contenidos sintáctico-
-discursivos 
-- Expresión de relaciones lógicas: conjunción (and); disyunción (or). 
-- Afirmación: affirmative sentences; Yes (+tag). 
-- Negación: negative sentences with not, no (Adj.). 
-- Exclamación: exclamatory sentences (e.g. I love bananas!); How + Adjective (e.g. How beautiful!). 
-- Interrogación: Wh- questions (What; Where; How many; who). Auxiliary verbs in questions: to be; 
-to do. 
-- Expresión del tiempo: presente (simple present). 
-- Expresión del aspecto: puntual (simple tenses); durativo (present con tinuous); habitual (simple 
-tenses [+Adverb eg. always, everyday]). 
-- Expresión de la modalidad: permiso (can), capacidad (can), obligación (have (got) to); imperative. 
-- Expresión de la existe ncia (to be; there is/are); la entidad (noun s, pronouns, articles, 
-demonstratives); la cualidad ([very]+) Adj.). 
-- Expresión de la cantidad: (singula r/plural; cardinal numbers up to two digits;  ordinal numbers up 
-to one digit; quantity: many, some, more, (a) little, more. Degree: very. 
-- Expresión del espacio: prepositions and adverbs of location, position. 
-- Expresiones temporales: divisions (e.g . summer) indications of time (e.g. now, tomorrow); 
-frequency (e.g. sometimes, on Saturdays); prepositions and adverbs of time. 
-- Expresión del modo: Adv. of manner (e.g. slowly, well). 
-- Expresión de la posesión: I have got (I’ve got); preposición of. 
-- Expresión de gustos y preferencias: I like/I don’t like; I like verb- ing. 
- 
-SEGUNDO CICLO 
-COMPETENCIAS ESPECÍFICAS CRITERIOS DE EVALUACIÓN 
-1. Comprender el sentido general e 
-información específica y predecible de 
-textos breves y sencillos, expresados 
-de forma clara y en la lengua estándar, 
-haciendo uso de diversas estrategias y 
-recurriendo, cuando sea necesario, al 
-uso de distintos tipos de apoyo, para 
-desarrollar el repertorio del lenguaje y 
-para responder a necesidades 
-comunicativas cotidianas. 
-1.1. Reconocer e interpretar el sentido global, así como palabras y frases 
-previamente indicadas, en textos orales, escritos y multimodales, breves y 
-sencillos, sobre temas frecuentes y cotidianos de relevancia personal y 
-próximos a su experiencia , así como de textos de ficción adecuados al nivel 
-de desarrollo del al umnado, expresados de forma comp rensible, clara y en 
-lengua estándar a través de distintos soportes. 
-1.2. Seleccionar y aplicar, de forma guiada, estrategias adecuadas en situaciones 
-comunicativas cotidianas y de relevancia para el alumnado, para captar el 
-sentido global y procesar informaciones explícitas en textos breves y sencillos 
-sobre temas familiares en lengua inglesa. 
- 
-
-LUNES 18 DE JULIO DE 2022Pág. 88 B.O.C.M. Núm. 169
-BOCM-20220718-1
-BOLETÍN OFICIAL DE LA COMUNIDAD DE MADRIDBOCM
-COMPETENCIAS ESPECÍFICAS CRITERIOS DE EVALUACIÓN 
-2. Producir textos sencillos de manera 
-comprensible y estructurada, mediante 
-el empleo de estrategias como la 
-planificación o la compensación, para 
-expresar mensajes breves relacionados 
-con necesidades inmediatas y 
-responder a propósitos comunicativos 
-cotidianos. 
-2.1. Expresar oralmente frases cortas con in formación básica sobre asuntos 
-cotidianos y de relev ancia para el alumnado, utilizando, de  forma guiada, 
-recursos verbales y no verbales, prestando atención al ritmo, la acentuación y 
-la entonación propios del inglés. 
-2.2. Redactar textos muy breves y sencillos, con adec uación a la situación 
-comunicativa propuesta, a partir de modelos y a travé s de herramientas 
-analógicas y digitales, us ando estructuras y léxico elemental de la lengua 
-inglesa, sobre asuntos cotidianos y de relevancia personal para el alumnado. 
-2.3. Seleccionar y aplicar, de forma guiada, estrategias p ara producir mensajes 
-breves y sencillos en in glés, adecuados a las intenciones comunicativas, 
-usando, con ayuda, recursos y ap oyos físicos o digitale s en función de las 
-necesidades de cada momento. 
-3. Interactuar con otras personas usando 
-expresiones cotidianas, recurriendo a 
-estrategias de colaboración y 
-empleando recursos analógicos y 
-digitales, para responder a necesidades 
-inmediatas de su interés en 
-intercambios comunicativos 
-respetuosos con las normas de 
-cortesía. 
-3.1. Participar en situaciones interactivas br eves y sencillas sobre temas 
-cotidianos, de relevancias personales y próximas a su experiencia, preparadas 
-previamente, a través de diversos soportes, apoyándos e en recursos tales 
-como la repetició n, el ritmo pausad o o el lenguaje no  verbal, y mostrando 
-respeto por la cortesía del lenguaje y la etiqueta digital. 
-3.2. Seleccionar y utilizar, de forma guiada y en situaciones cotidianas, estrategias 
-elementales para saludar, despedirse y presenta rse; expresar mensajes 
-breves; y formular y contestar preguntas sencillas en lengua inglesa. 
-4. Participar en situaciones predecibles, 
-usando estrategias y conocimientos 
-para procesar y transmitir información 
-básica y sencilla, con el fin de facilitar la 
-comunicación. 
-4.1. Interpretar y explicar textos, conceptos y comunicaciones breves y sencillas, 
-de forma guiada, en situaciones en las que atender a la diversidad, mostrando 
-empatía e interés por los interlocutores e interlocutoras y por los problemas de 
-entendimiento en su entorno más próximo, apoyándose en diversos recursos 
-y soportes. 
-4.2. Seleccionar y aplicar, de forma guiada, estrategias elementales que ayuden a 
-crear puentes y facil iten la comprensión y pro ducción de in formación y la 
-comunicación, usando, con ayuda, recurs os y apoyos físicos o digitales en 
-función de las necesidades de cada momento. 
-5. Reconocer y usar los repertorios 
-lingüísticos personales entre distintas 
-lenguas, reflexionando sobre su 
-funcionamiento e identificando las 
-estrategias y conocimientos propios, 
-para mejorar la respuesta a 
-necesidades comunicativas concretas 
-en situaciones conocidas. 
-5.1. Comparar y contrastar las simi litudes y diferencias entre distintas lenguas 
-reflexionando, de forma guiada, sobre aspectos básicos de su funcionamiento. 
-5.2. Utilizar y diferenciar, de forma guiada, los con ocimientos y estrategias de 
-mejora de su capacidad de comunicar y de aprender la lengua extranjera, con 
-apoyo de otros participantes y de soportes analógicos y digitales. 
-5.3. Registrar y aplicar, de manera guiada, los avances y dificultades elementales 
-en el proceso de apre ndizaje de la lengua extra njera, reconociendo los 
-aspectos que ayudan a mejorar y participand o en actividades de 
-autoevaluación y coevaluación, como las propuestas en el Portfolio Euro peo 
-de las Lenguas (PEL). 
- 
-
-LUNES 18 DE JULIO DE 2022B.O.C.M. Núm. 169 Pág. 89
-BOCM-20220718-1
-BOLETÍN OFICIAL DE LA COMUNIDAD DE MADRIDBOCM
-COMPETENCIAS ESPECÍFICAS CRITERIOS DE EVALUACIÓN 
-6. Apreciar y respetar la diversidad de 
-otros contextos a partir de la lengua 
-extranjera identificando y valorando las 
-diferencias y semejanzas entre lenguas 
-y culturas, para aprender a gestionar 
-situaciones entre diferentes culturas.  
-6.1. Actuar con respeto en situacion es con difere ntes culturas , identificando y 
-comparando semejanzas y diferencias elementales entr e lenguas y culturas, 
-y mostrando rechazo frente a discriminaciones y prejuicios y de cualquier tipo 
-en contextos comunicativos cotidianos y habituales. 
-6.2. Reconocer y apreciar la diversidad de otros países donde se habla la lengua 
-extranjera como fuente de enriquecimiento personal, mostrando interés por 
-comprender elementos de  su lengua y su cultura y que fomenten la 
-convivencia pacífica y el respeto por los demás. 
-6.3. Seleccionar y aplicar, de forma guiada, estrategias básicas para entender y 
-apreciar los aspectos más relevantes de la diversidad de la lengua, lingüística, 
-de la cultura y el arte. 
-CONTENIDOS  
-BLOQUES CONOCIMIENTOS, DESTREZAS Y ACTITUDES 
-A. Comunicación 
-- Autoconfianza y reflexión sobre el  aprendizaje. El erro r como parte in tegrante del proceso de 
-aprendizaje y como instrumento de mejora.  
-- Estrategias básicas de uso común para la comprensión y la producción (vuelve a leer el texto, usa 
-su conocimiento previo, lee entre líneas, usa las pistas del contexto, piensa en voz alta, resume, 
-ubica las palabras clave, hace predicciones, visualiza, analiza imágenes y fotos, imita, repite…) 
-de textos orales, escritos y multimodales breves, sencillos y contextualizados en lengua inglesa. 
-- Conocimientos, destreza s y actitudes elementales que permi ten iniciarse en actividades de 
-participación en situaciones cotidianas básicas, en las que se utilicen gradu almente estrategias 
-comunicativas que ayuden a resolver conflictos, mejorar la comunicación o servir de enlace entre 
-varios interlocutores en la misma  o en diferentes lenguas, crear relacion es, llegar a acuer dos, 
-salvar las diferencias culturales…mediante actitudes de empatía y colaboración mutua.  
-- Funciones comunicativas bási cas de uso común adecuadas al ámbito y al contexto: saludar, 
-despedirse, disculparse, agradecer, pedir u ofrecer ayuda, presentar y presentarse, expresar los 
-gustos y las preferencias, el acuerdo o desacuerdo, el sentimiento, la intención; describir personas, 
-actividades, objetos y lugares; pedir e intercambiar información sobr e cuestiones cotidianas; 
-describir rutinas; dar indicaciones e instrucciones; expresar el tiempo, la cantidad y el espacio en 
-lengua inglesa.  
-- Modelos contextuales y géneros discursivos básicos de uso común en la comprensión, producción 
-y coproducción de textos orales, escritos y multimodales, breves y sencillos, literarios y no literarios 
-en lengua inglesa, tales como cuentos, leyendas, artículos, emails, comics, folletos, instrucciones, 
-normas, avisos o conversaciones reguladoras de la convivencia, con relativa corrección fonética, 
-utilizando conectores sencillos, cuidando su presentación y revisando y autocorrigiendo los textos 
-producidos. Iden tificación y comprensión de  palabras clave e ideas principales. Estrategias 
-interactivas, un intercambio verbal y colectivo de ideas. 
-- Unidades del lenguaje básicas de uso común y significados asociados a dichas estructuras, tales 
-como expresión de  la entid ad y sus propiedades, cantidad y nú mero, espacio y la s relaciones 
-espaciales, afirmación, exclamación, negación, interrogación en lengua inglesa. 
-- Léxico elemental de alta frecuencia y de interés para el alumnado relativo a relaciones personales 
-próximas, vivienda, lugares y entornos cercanos en inglés. Emisión de palab ras clave, frases e 
-información de mensajes breves con una pronunciación, ace ntuación, entonación y ritmo 
-correctos. Estrategias para la comprensión de mensajes p roducidos con distintos acentos de la 
-lengua inglesa. 
-- Patrones sonoros, acentuales y de entonación básicos de uso común, y funciones comunicativas 
-generales asociadas a dichos patrones. Diferencias fonéticas básicas de la lengua inglesa a través 
-de palabras, oraci ones sencillas, cancio nes, rimas, retahílas, trabale nguas, chistes básicos, 
-poesías, quintillas cómi cas (Limerick), acompañados de  gestos faciales, corporales y mímica. 
-Lectura, deletreo y recono cimiento de palabras que compa rten un patrón común, que rimen y 
-fonemas finales. 
-- Convenciones ortográficas bá sicas de uso común y signi ficados asociados a los formatos y 
-
-LUNES 18 DE JULIO DE 2022Pág. 90 B.O.C.M. Núm. 169
-BOCM-20220718-1
-BOLETÍN OFICIAL DE LA COMUNIDAD DE MADRIDBOCM
-elementos gráficos. El so nido y nombre de las letras del alfabeto. Deletre o. Uso correcto de la 
-puntuación, las mayúsculas y los apóstrofes. 
-- Convenciones y estrateg ias conversacionales básicas verbales o no verbales (gestos, contacto 
-físico, expresiones faci ales, posturas corporales...) de uso común, en formato síncrono (cara a 
-cara, por teléfono, video lla mada, videoconferencia ) o asíncrono o en las que se establece 
-contacto social (plataformas, apps, redes sociales) para iniciar, manten er y terminar la 
-comunicación, tomar y ceder la palabra, pedir y dar indicaciones en inglés, etc. 
-- Recursos para el apre ndizaje y estrategias el ementales de búsqueda guiada de información en 
-medios analógicos y digitales. (contexto, conocimiento previo, identificación de información básica, 
-filtrar resultados, elegir los términos precisos, utilizar la  búsqueda avanzada, completar y 
-contrastar los datos, valorar y seleccionar la información...) 
-- Herramientas analógicas y digitales básicas de  uso común para la comprensión, producción y 
-coproducción oral, escrita y multimodal; y plataform as virtuales de inter acción y colaboración 
-educativa. Uso guiado, limitado y responsable de las herramientas digitales. 
-B. Plurilingüismo 
-- Estrategias y técnicas de co mpensación de las carencias comunicativas (petición de repetición, 
-aclaración, búsqueda de recurso s para entender el discu rso, descripcione s, comunicación no 
-verbal...) para responder a una n ecesidad elemental, a pesa r de las limitacion es derivadas del 
-nivel de competencia en la lengua extranjera y en las demás lenguas. Interés y curiosidad por las 
-lenguas, conocimiento de su funcionamiento desde el respeto, la tolerancia y la empatía. 
-- Estrategias básicas de uso común para iden tificar, retener, recuperar y utilizar unidades del 
-lenguaje (léxico, morfosintaxis, patrones sonoros, etc.) tales como la transferencia y aplicación de 
-estrategias de la lengua castellana, uso de imágenes, diagramas, pósteres, fichas de vocabulario, 
-diccionarios personales de im ágenes, mapas men tales, canciones… a partir de la comparación 
-de las lenguas y variedades que conforman el repertorio lingüístico personal. 
-- Iniciación a estrategias y he rramientas básicas de evaluación de uno m ismo y de los demás , 
-analógicas y digitales, in dividuales y grupales. Rúbricas, diarios de cla se, porfolios, escalas de 
-estimación, bloc de autoevaluación, listas de cotejo... 
-- Léxico y expresiones elementales para comprender enunciados sobre la comunicación, la lengua 
-y el aprendizaje (metalenguaje).  Estrategias metalingüísticas de inferencia a partir de las pistas 
-contextuales, tales como el tema general; otra s palabras del discu rso (redundancias, an áforas, 
-paralelismos); la estructura gramatical; la morfología (análisis de los prefijos, sufijos, composición, 
-etc.); la entonación (habla) y la puntuación (escritura). 
-C. Interculturalidad 
-- La lengua extranjera como medio de  comunicación y relación con pers onas de otros países, y 
-como medio para conocer culturas y modos de vida diferentes. La curiosidad por el conocimiento 
-de otras realidades sociales y culturales, de otras lenguas, partiendo de posiciones de respeto y 
-tolerancia por el interlocutor, sus cos tumbres, tradiciones, conven ciones sociales, normas de 
-cortesía, valores y su cultura. 
-- Interés en la participaci ón en intercambios comunicativos pl anificados, a través de diferentes 
-medios (cartas, e-mails, video  llamadas, videoconferenci as, presentaciones, co -
-presentaciones…) con estudiantes de la lengua extranjera. 
-- Aspectos de la lengua, la cultura y la sociedad más significativos relativos a las costumbres, la 
-vida cotidiana y las relaci ones interpersonales bá sicas en países donde se habla la lengua 
-extranjera. La música y la literatura in glesas como símbolos de iden tidad cultural y vehículo 
-motivador de transmisión de culturas y conocimientos. Fórmulas de  cortesía adecuadas en los 
-intercambios sociales. 
-- Estrategias básicas de uso común para entender y apreciar las diversas lenguas, artes y culturas, 
-a partir de valores sociales y medioambientales y democráticos. La realidad de las diversas lenguas 
-del aula como fuente de riqueza cultural. 
-- Estrategias básicas de uso común de detección de usos discriminatorios del lenguaje verbal y no 
-verbal. 
- 
-BLOQUES CONOCIMIENTOS, DESTREZAS Y ACTITUDES 
-
-LUNES 18 DE JULIO DE 2022B.O.C.M. Núm. 169 Pág. 91
-BOCM-20220718-1
-BOLETÍN OFICIAL DE LA COMUNIDAD DE MADRIDBOCM
-D. Contenidos sintáctico-
-discursivos 
-- Expresión de relaciones lógi cas: Conjunción (and); di syunción (or); oposi ción (but); causa 
-(because); finalidad (to-infinitive, eg. I did it to help her). 
-- Afirmación: affirmative sentences; Yes (+tag). 
-- Exclamación: What + noun (e.g. What fun!); How + Adjective (e.g . How excitin g!); exclamatory 
-sentences (e.g. I love rainbows!). 
-- Negación: negative sentences with not, never; No (adj.) nobody, nothing. No (+ negative tag). 
-- Interrogación: Wh- questions; Auxiliary verbs in questions: to do, to be, to have. 
-- Expresión del tiempo: presente (simple present; present continuous), pasado (simple past); futuro 
-(going to). 
-- Expresión del aspecto: puntual (simple tenses); durativo (present con tinuous); habitual (simple 
-tenses [+Adverb eg. always, everyday]); incoativo (start-ing); terminativo (finish-ing). 
-- Expresión de la modalidad: factualidad (declarative sentences); capacidad (can); obligación (have 
-(got) to; imperative); sugerencia (should); permiso (can); intención (going to). 
-- Expresión de la existencia (to be; there is/there are); la entidad (nouns, pronouns, articles, 
-demonstratives); la cualidad (very + Adj.); la comparación (comparatives and superlatives: as Adj. 
-as; taller [than]; the smallest). 
-- Expresión de la cantidad: singular/plural; cardinal numbers up to three digits; ordinal numbers up 
-to two digits. Quantity: man y, all, some, many, a lot, (a) little, more, half, a bottle/cup/glass/piece 
-of. Degree: very, enough. 
-- Expresión del espacio: prepositions, prepositional phrases, adverbs of location, position, distance, 
-motion, direction and origin. 
-- Expresiones temporales: points (e.g. quarter past five); divisions (e.g. half an hour, summer), and 
-indications of time (e.g. now, tomorrow (morning); duration (e.g. for two days); anteriority (before); 
-posteriority (after); sequence (first, then...); frequency (e.g. sometimes, on Fridays); prepositions, 
-prepositional phrases and adverbs of time. 
-- Expresión del modo: Adv. of manner (e.g. slowly, well, quickly, carefully). 
-- Expresión de la posesión: I have got (I’ve got); preposición of; genitivo sajón (‘s); possessives. 
-- Expresión de gustos y preferencias: I like/I don’t like; I like verb- ing; I love.       
- 
-TERCER CICLO 
-COMPETENCIAS ESPECÍFICAS CRITERIOS DE EVALUACIÓN 
-1. Comprender el sentido general e información 
-específica y predecible de textos breves y 
-sencillos, expresados de forma clara y en la 
-lengua estándar, haciendo uso de diversas 
-estrategias y recurriendo, cuando sea 
-necesario, al uso de distintos tipos de apoyo, 
-para desarrollar el repertorio del lenguaje y 
-para responder a necesidades comunicativas 
-cotidianas. 
-1.1. Reconocer, interpretar y analizar el sentido global, así como palabras y 
-frases específicas de textos orales, escri tos y multimodales breves y 
-sencillos sobre temas frecuentes y cotidianos de relevancia personal y 
-ámbitos próximos a su experiencia, así como de textos literarios 
-adecuados al nivel  de desarrollo  del alumnado, expresados de forma 
-comprensible, clara y en lengua estándar a través de distintos soportes. 
-1.2. Seleccionar, organiza r y aplicar, de forma guiada, estrategias y 
-conocimientos adecuado s en situaciones comun icativas cotidianas y 
-de relevancia para el alumnado para captar el sentido global y procesar 
-informaciones explícitas en textos diversos en lengua inglesa. 
- 
-
-LUNES 18 DE JULIO DE 2022Pág. 92 B.O.C.M. Núm. 169
-BOCM-20220718-1
-BOLETÍN OFICIAL DE LA COMUNIDAD DE MADRIDBOCM
-COMPETENCIAS ESPECÍFICAS CRITERIOS DE EVALUACIÓN 
-2. Producir textos sencillos de manera 
-comprensible y estructurada, mediante el 
-empleo de estrategias como la planificación o 
-la compensación, para expresar mensajes 
-breves relacionados con necesidades 
-inmediatas y responder a propósitos 
-comunicativos cotidianos. 
-2.1. Expresar oralmente textos breves y sencillos, previamente preparados, 
-sobre asuntos cotidianos y de relevancia para el alumnado, utilizando, 
-de forma guiada, recursos verbales y no  verbales, y usando formas y 
-estructuras básicas y de uso frecuente propias de la lengua extranjera. 
-2.2. Organizar y redactar textos bre ves y sencillos, previamente 
-preparados, con ad ecuación a la situación comunicativa propuesta, a 
-través de herramientas analógic as y digitales, y usando estructuras y 
-léxico básico de uso común sobre asuntos cotidianos y frecuentes, de 
-relevancia personal para el alumnado y próximos a su experiencia en 
-lengua inglesa. 
-2.3. Seleccionar, organizar y apl icar, de forma guiad a, conocimientos y 
-estrategias para preparar y producir textos en inglés, adecuados a las 
-intenciones comunicativas, la s características con textuales y la 
-tipología textual, usando,  con ayuda, recursos fí sicos o digitales en 
-función de la tarea y las necesidades de cada momento. 
-3. Interactuar con otras personas usando 
-expresiones cotidianas, recurriendo a 
-estrategias de colaboración y empleando 
-recursos analógicos y digitales, para 
-responder a necesidades inmediatas de su 
-interés en intercambios comunicativos 
-respetuosos con las normas de cortesía. 
-3.1. Planificar y participar en  situaciones intera ctivas breves y sencillas 
-sobre temas cotidian os, de relevancia personal y próximos a su 
-experiencia, a travé s de diversos sop ortes, apoyándose en recursos 
-tales como la repetic ión, el ritmo pausado o el lenguaje no verbal, y 
-mostrando respeto por la cortesía del lenguaje y la etiqueta digital, así 
-como por las diferente s necesidades, idea s y motivaciones de los 
-interlocutores e interlocutoras. 
-3.2. Seleccionar, organizar y utilizar, de  forma guiada y en situaciones 
-cotidianas, estrategias elementales para saludar, despedirse y 
-presentarse; formular y contestar preguntas sencillas; expresar 
-mensajes, e iniciar y terminar la comunicación en lengua inglesa. 
-4. Participar en situaciones predecibles, usando 
-estrategias y conocimientos para procesar y 
-transmitir información básica y sencilla, con el 
-fin de facilitar la comunicación. 
-4.1. Inferir y explicar textos, conceptos y comunicaciones breves y sencillas, 
-de forma guiada, en  situaciones en las que atender a la diversidad, 
-mostrando respeto por los interlocutores e interl ocutoras y por las 
-lenguas empleadas, e interés por participar en la solución de problemas 
-de comprensión y de entendimiento en su entorno próximo, 
-apoyándose en diversos recursos y soportes. 
-4.2. Seleccionar y aplicar, de forma guiada, estrategias básicas que ayuden 
-a crear puentes, faciliten la comprensión, la producción de información 
-y la comunicación, adecuadas a las intenciones comunicativas, usando, 
-con ayuda, recursos y apoy os físicos o digitales en  función de las 
-necesidades de cada momento. 
-5. Reconocer y usar los repertorios lingüísticos 
-personales entre distintas lenguas, 
-reflexionando sobre su funcionamiento e 
-identificando las estrategias y conocimientos 
-propios, para mejorar la respuesta a 
-necesidades comunicativas concretas en 
-situaciones conocidas. 
-5.1. Comparar y contrastar las similitudes y difere ncias entre distintas 
-lenguas reflexiona ndo de manera progresivamente au tónoma sobre 
-aspectos básicos de su funcionamiento. 
-5.2. Utilizar y diferenciar de forma autónoma los conocimientos y estrategias de 
-mejora de su capacidad de comunicar y de aprender la lengua extranjera, 
-con apoyo de otros participantes y de soportes analógicos y digitales. 
-5.3. Registrar y utilizar, de manera guiada, los avances y dificultades en el 
-proceso de aprendizaje de la le ngua extranjera, reco nociendo los 
-aspectos que ayudan a mejorar y realizando actividades de 
-autoevaluación y coevaluaci ón, como las propuesta s en el Portfolio 
-Europeo de las Lenguas (PEL) o en un diario de aprendizaje. 
-
-LUNES 18 DE JULIO DE 2022B.O.C.M. Núm. 169 Pág. 93
-BOCM-20220718-1
-BOLETÍN OFICIAL DE LA COMUNIDAD DE MADRIDBOCM
-COMPETENCIAS ESPECÍFICAS CRITERIOS DE EVALUACIÓN 
-6. Apreciar y respetar la diversidad de otros 
-contextos a partir de la lengua extranjera 
-identificando y valorando las diferencias y 
-semejanzas entre lenguas y culturas, para 
-aprender a gestionar situaciones entre 
-diferentes culturas.  
-6.1. Actuar con aprecio y res peto en situaciones en tre diferentes culturas, 
-construyendo vínculos entre  las diversas lenguas y culturas, y 
-mostrando rechazo ante cualquier tipo de discriminación y prejuicio en 
-contextos comunicativos cotidianos y habituales. 
-6.2. Aceptar y respetar la  diversidad de otros países donde se habla la 
-lengua extranjera como fuente de enriquecimiento personal, mostrando 
-interés por comprender  elementos de su le ngua y su cultura, que 
-fomenten el respeto por los recursos naturales y la democracia. 
-6.3. Seleccionar y aplic ar, de forma guiada, estrategias básicas para 
-entender y apreciar la diversidad de la lengua, la cultura y el arte. 
-CONTENIDOS 
-BLOQUES CONOCIMIENTOS, DESTREZAS Y ACTITUDES 
-A. Comunicación 
-- Autoconfianza. El error como instrumento de mejora como parte del proceso de aprendizaje. 
-- Estrategias básicas para la comprensión, la planificación y la producción (vuelve a leer el texto, 
-usa su conocimiento previo, lee entre líneas, piensa en voz alta,  resume, ubica las palabras clave, 
-hace prediccione s, visualiza, analiza imágenes y fotos, identifica la información general y los 
-detalles específicos, inferencia el significado de palabras y frases nuevas según el contexto, imita, 
-repite…) de textos orales (instrucciones, explicaciones, conversaciones…) escritos y multimodales 
-breves, sencillos y contextualizados en lengua inglesa.  
-- Conocimientos, destrezas y actitudes que permiten iniciar se en actividades de  participación en 
-situaciones co tidianas básicas en las que se utilicen estrategias comunicativas que ayuden a 
-resolver conflictos, mejorar la comunicación o servir de enlace entre varios in terlocutores en la 
-misma o en diferente s lenguas, crear re laciones, llegar a acu erdos, salvar las diferencias 
-culturales…fomentando actitudes de respeto y colaboración mutua. 
-- Funciones comunicativas básicas  adecuadas al ámbito y al  contexto: saludar, despedirse, 
-disculparse, agradecer, pedir u ofrecer ayuda, presentar y presentarse, expresar los gustos y las 
-preferencias, el acuerdo o desacuerdo, el sen timiento, la intención ; describir personas, 
-actividades;  situar eventos en el  tiempo, situar objetos, personas y lugar es en el espacio;  pedir 
-e intercambiar informaci ón sobre cuestione s cotidianas; des cribir rutinas; da r indicaciones e 
-instrucciones; expresar la pertenencia y la cantidad en lengua inglesa.  
-- Expresiones cotidianas de uso frecuente en conversaciones dirigidas y espontáneas de temática 
-variada con fluidez, utilizando frases más largas y co nectores simples. Estrategias para formular 
-y contestar a preguntas. Normas de cortesía básica. 
-- Modelos contextuales y géneros discursivo s básicos en la comprensión, producción y 
-coproducción (con relativa corre cción fonética, utilizando conectores sencill os,  cuidando  y 
-revisando su presentación) de textos orales, escritos y multimodales, breves y sencillos, literarios 
-(cuentos, fábulas, leyendas, canciones, poemas, obras de teatro, rimas…) y no literarios (noticias, 
-biografías, recetas, normas, avisos pu blicitarios, comics, cartas,  emails….) en inglés: 
-características y reconocimien to del contexto, organ ización y estructuración según la estructura 
-interna.  
-- Unidades del lenguaje básicos y significados asociados a dichas unidades, tales como expresión 
-de la entidad y sus propiedade s, cantidad y número , el espacio y las re laciones espaciales, el 
-tiempo, la afirmación, la negación, la interro gación y la exclamaci ón, relaciones lógicas 
-elementales propias de la lengua inglesa. 
-- Léxico básico y de  interés para e l alumnado, relativo a id entificación personal, relaciones 
-interpersonales próximas, (familiares, amistad, escolares…) lugares y e ntornos cercanos, ocio y 
-tiempo libre, vida cotidiana. Emisión de palab ras clave, oraciones, mensajes, expresiones 
-cotidianas de uso frecuente con una pronunciación, acentuación, entonación y ritmo correctos 
-utilizando conectores simples en lengua inglesa.  
-- Patrones sonoros, acentuales, rítmico s y de entonación básicos, y funciones comunicativas 
-generales asociad as a dichos patro nes. Aspectos fonológicos: sonidos, ritmo, entonación y 
-acentuación de palabras en  frases de uso frecuen te en el aula, a través de canciones, rimas, 
-
-LUNES 18 DE JULIO DE 2022Pág. 94 B.O.C.M. Núm. 169
-BOCM-20220718-1
-BOLETÍN OFICIAL DE LA COMUNIDAD DE MADRIDBOCM
-trabalenguas, chistes, adiv inanzas, poesías, quin tillas cómicas (Lim erick)… acompañados de 
-gestos faciales, corporales y mímica. Lectura, deletreo, reconocimiento y emisión de palabras que 
-comparten un patrón común, pa labras que rimen y fonem as finales. Compren sión de mensajes 
-producidos con distintos acentos de la lengua inglesa. 
-- Convenciones ortográficas básicas de la lengua inglesa y significados asociados a los formatos y 
-elementos gráficos. Uso correcto de la puntuación y los apóstrofes.  
-- Convenciones y estrategias con versacionales básicas verbales o no verbales (gestos, contacto 
-físico, expresiones faci ales, posturas corporales...) de uso común, en formato síncrono (cara a 
-cara, por teléfono, video llamada, videoconfe rencia…) o asíncrono o en las que se establece 
-contacto social (plataformas, apps, redes sociales) , para iniciar, manten er y terminar la 
-comunicación, tomar y ceder la palabra, pedir y dar aclaraci ones y explicaciones, comparar y 
-contrastar, colaborar, etc. 
-- Recursos para el apren dizaje y estrategias para la búsqueda guiada de información en medios 
-analógicos y digitales. (Contexto, conocimiento previo, identificación de información básica, filtrar 
-resultados, elegir los términos precisos, utilizar la búsqueda avanzada, completar y contrastar los 
-datos, valorar y seleccionar la información...). 
-- Propiedad intelectual de las fuentes consultadas y contenidos utilizados.  
-- Herramientas analógicas y digitales básicas para la comprensión, producción y coproducción oral, 
-escrita y multimodal, y plata formas virtuales de int eracción y colaboración  educativa (aulas 
-virtuales, videoconferencias, h erramientas digitale s colaborativas...) para el  aprendizaje, la 
-comunicación y el desa rrollo de proyectos con hablantes o estudiantes de la lengua extranjera. 
-Uso guiado, limitado y responsable de las herramientas digitales. 
-B. Plurilingüismo 
-- Estrategias y técnicas de co mpensación de las carencias comunicativas (petición de repetición, 
-aclaración, búsqueda de recurso s para entender el discu rso, descripcione s, comunicación no 
-verbal...) para resp onder eficazmente a una necesidad concreta, a pesa r de las limitaciones 
-derivadas del nivel de competencia en la lengua  extranjera y en las demás lenguas. Interés y 
-curiosidad por las lenguas, conocimiento de su funcionamiento desde el respeto, la tolerancia y la 
-empatía. 
-- Estrategias básicas para identificar, organizar, retener, recuperar y utilizar unidades del lenguaje 
-(léxico, morfosintaxis, patro nes sonoros, etc.) uso de imágenes, diagr amas, pósteres, fichas de 
-vocabulario, diccionarios pe rsonales de imágene s, mapas mentales, canciones… a partir de la 
-comparación de las leng uas como por ejemplo med iante la transferenci a y aplicación de 
-estrategias de la lengua castellana y variedades que conforman el repertorio del lenguaje 
-personal. 
-- Estrategias y herramientas básicas de evaluación de uno mismo y de los demás , analógicas y 
-digitales, individuales y grupales. Rúbricas, diarios de clase, porfolios, escalas de estimación, bloc 
-de autoevaluación, listas de cotejo… 
-- Léxico y expresiones básicos de uso común para comprender enunciados sobre la comunicación, 
-la l engua, el aprendizaje y las herramientas de comu nicación y aprendizaje (metalenguaje).  
-Estrategias metalingüísticas de inferencia a partir de las pistas contextual es, tales como el tema 
-general; otras palabras del discurso (redundanci as, anáforas, paralel ismos); la estructura 
-gramatical; la morfología (análisis de los prefijos, sufijos, composición, etc.); la entonación (habla) 
-y la puntuación (escritura). 
-- Comparación elemen tal entre lenguas a partir de elementos de la lengua extranjera y otras 
-lenguas: origen y parentescos. Interés y curiosidad por las lengua s, conocimiento de su 
-funcionamiento desde el respeto y la tolerancia. 
- 
-
-LUNES 18 DE JULIO DE 2022B.O.C.M. Núm. 169 Pág. 95
-BOCM-20220718-1
-BOLETÍN OFICIAL DE LA COMUNIDAD DE MADRIDBOCM
-BLOQUES CONOCIMIENTOS, DESTREZAS Y ACTITUDES 
-C. Interculturalidad 
-- La lengua extranjera como medio de comunicación y relación con personas de otros países, como 
-forma de acceder a nueva información y como medio para conocer cult uras y modos de vida 
-diferentes. La curiosida d por el conocimien to de otras r ealidades sociales y cul turales, de otras 
-lenguas, partiendo de  posiciones de resp eto y tolerancia por el  interlocutor, sus costumbres, 
-tradiciones, convenciones sociales, normas de cortesía, valores y su cultura. 
-- Valoración positiva e interés por establecer contactos y comunicarse a través de diferentes medios 
-(soporte papel o di gital: cartas, e-mails, video  llamadas, videoconfe rencias, presentaciones, co -
-presentaciones…) con hablantes o estudiante s de la lengua extranj era. Valoración del 
-enriquecimiento personal que supone la relación con personas pertenecientes a otras culturas.  
-- Aspectos de la lengua, la cultura y la sociedad relativos a las costumbres, la vida cotidiana y las 
-relaciones personales, las convenciones sociales básicas de uso común, el lenguaje no verbal, la 
-cortesía del lenguaje y la etiqueta digital propias de países do nde se habla la lengua extranjera. 
-La música y la literatura inglesas como símbolos de iden tidad cultural y vehículo motivador de 
-transmisión de culturas y conocimientos. 
-- Estrategias básicas para  entender y apreciar las div ersas lenguas, arte s y culturas , a partir de 
-valores sociales y medioambientales y democráticos. La realidad de las lenguas del aula como fuente 
-de riqueza cultural. 
-- Estrategias de detección de usos discriminatorios del lenguaje verbal y no verbal. 
-D. Contenidos sintáctico-
-discursivos 
-- Expresión de relaciones lógicas: Conjunción (and); di syunción (or); oposi ción (but); causa 
-(because); finalidad (to-infinitive, eg. I did it to help her); relacion es temporales (when; before; 
-after). 
-- Afirmación: affirmative sentences; Yes (+tag). 
-- Exclamación: What + no un, e.g. What a view! How + Adjective, e.g. How lovely! Exclamatory 
-sentences, e.g.  I love olives! 
-- Negación: negative sentences with not, never, no (Adj.) nobody, nothing; No (+ negative tag). 
-- Interrogación: Wh- questions; Auxiliary verbs in questions: to do, to be, to have, will. 
-- Expresión del tiempo: presente (simple present; present continuous); pasado (simple past); futuro 
-(going to, will). 
-- Expresión del aspecto: puntual (simple tenses); durativo (present con tinuous); habitual (simple 
-tenses [+Adverb eg. always, everyday]); incoativo (start-ing); terminativo (finish-ing). 
-- Expresión de la modalidad: factualidad (declarative sentences); capacidad (can); obligación (have 
-(got) to; imperative); permiso (can); intención (going to). 
-- Expresión de la existenci a (to be; there i s/there are); la entidad (nouns, pronouns, articles, 
-demonstratives); la cualidad (very + Adj.); la comparación (comparatives and superlatives: as Adj. 
-as; bigger (than); the smallest). 
-- Expresión de la cantidad: singular/plural; cardinal numbers up to four digits; ordinal numbers up to 
-two digits. Quantity: all, (too) many, a lot, (a) little, more, (too) much, half, a bottle/cup/glass/piece 
-of. Degree: very, too, enough. 
-- Expresión del espacio: prepositions, prepositio nal phrases and adverbs of location, pos ition, 
-distance, motion, direction and origin and arrangement. 
-- Expresiones temporales: points (e.g. quarter past five); divisions (e.g. half an hour, summer), and 
-indications of time (e.g. now, tomorrow (morning); duration (e.g. for two days); anteriority (before); 
-posteriority (after); sequence (first, then...) simultaneously (at the same time); frequency (e.g. 
-sometimes, on Sundays); prepositions, prepositional phrases and adverbs of time. 
-- Expresión del modo: Adv. of manner, (e.g. slowly, well, quickly, carefully). 
-- Expresión de la posesión: I have got (I’ve got); preposición of; genitivo sajón (‘s); possessives. 
-- Expresión de gustos y preferencias: I like/I don’t like; I like verb- ing; I love/I hate. 
- 
-
-LUNES 18 DE JULIO DE 2022Pág. 96 B.O.C.M. Núm. 169
-BOCM-20220718-1
-BOLETÍN OFICIAL DE LA COMUNIDAD DE MADRIDBOCM
-Matemáticas 
- 
-El carácter instrumental de las matemáticas relaciona esta área con la mayoría de campos del conocimiento, de las ciencias hasta 
-la interpretación de los diferentes lenguajes, como el musical, o de la s manifestaciones artísticas, pues abarca aspectos como el 
-dominio del espacio, el tiempo, la  proporción, optimización de recu rsos, el análisis de i ncertidumbre o el  manejo de la tecnolo gía 
-digital.  
-Además de ese carácter instrumental, las matemáticas poseen un valor propio como campo de conocimiento, que se concreta en la 
-determinación de un área específica en las diferentes enseñanzas, en este caso en la Educación Primaria, cuya dedicación horaria 
-ha sido ampliada considerablemente por este currículo en relación con la dedicación horaria asignada por el Real Decreto 157/2022, 
-de 1 de marzo.  
-El currículo del área de matemáticas se en camina a conseguir, por un lado, el desarrollo máximo de las potencialidades en todo el 
-alumnado y por otra, la alfabetización matemática, es decir, la adquisición de los conocimientos, las habilidades y las herramientas 
-precisas para resolver los problemas planteados, interpretar las soluciones en el contexto y tomar decisiones estratégicas.  
-Los descriptores operativos de las competencias clave que orientan el perfil del alumno en la Educación Primaria han sido el soporte 
-por el que se han configurado las competencias específicas de esta área. Esas competencias específicas se ordenan en cinco ejes: 
-destrezas sociales, resolución de problemas, razon amiento y prueba, conexiones y comuni cación y representación. La resolución 
-de problemas es uno de los ejes fundamentales de la enseñanza de las matemáticas, es una actividad cotidiana en nuestro quehacer 
-diario, que se lleva a la prác tica mientras se responde a otros ejes de la competenci a matemática como el  razonamiento y el 
-pensamiento computacional, la representación de objetos matemáticos y el manejo o la comunicación. 
-Respecto a los criterios de evaluación y los contenidos, se gradúan por ciclos, y se vertebran en torno a las competencias específicas. 
-Como en el resto de las áreas, no  existe una vinculación unívoca y directa entre criterios de evaluación y contenidos, pero sí cada 
-competencia específica se valora con unos criterios de evaluación relacionados. 
-Los contenidos, que incluyen con ocimientos, destrezas y actitudes, se organizan en seis bloques. A continuación, se presenta un  
-resumen conceptual de cada bloque. 
-«Números y operaciones» se centra en el desarrollo cognitivo de habilidades basadas en la comprensión, la representación y el uso 
-de números y operaciones. 
-«Medida» se relaciona con la comp rensión y comparación de atributos de los objeto s del mundo natural. Se  centra en aspectos 
-como entender y elegir la s unidades adecuadas para estimar, medir y compara r; utilizar instrumentos pre cisos para realizar 
-mediciones; y comprender las relaciones entre magnitudes mediante la experimentación. 
-«Geometría» resulta fundamental para comprender y apreciar los aspectos geométricos del entorno cercano en un primer momento 
-y, por inferencia, del entorno lejano y desconocido. Identificar, representar y clasificar formas, descubrir sus propiedades y relaciones, 
-describir sus movimientos y razonar con ellas constituyen contenidos imprescindibles de este bloque. 
-«Álgebra» acerca el lenguaje en el que se comunican la s matemáticas. Reconocer patrones y relaciones entre variables, expresar 
-regularidades o modelizar situaciones con expresiones simbólicas son el fundamento del bloque en cuestión. 
-«Estadística y probabilidad» se rel aciona con el razonamiento y la interpretación  de datos y la valoraci ón crítica y la toma de  
-decisiones a partir de informa ción estadística, además de la comprensión y comu nicación de fenómenos aleatorios en situaciones 
-de la vida cotidiana. 
-«Actitudes y aprendizaje» aúna conocimientos, destrezas y actitudes esenciales para que mejore el rendimiento del alumnado en el 
-campo matemático, acepte los errores como fruto del aprendizaje y valore el esfuerzo y la superación. La metodología a aplicar en 
-esta área debe conceder especial dedicación a la manipulación, y abordarse desde la experimentación, en especial en los primeros 
-años en los que el alumno se caracteriza por tener un pensamiento concreto asentado, lejos aún del pensamiento formal en el que 
-se inician las primeras abstracciones. Los recursos digitales representan un aliado seguro para afrontar el área, también la propuesta 
-de situaciones de aprendizaje qu e propicien la reflexión , el razonamiento, el  establecimiento de conexion es, la comunicación y la 
-representación. El uso de diferentes metodologías didácticas que potencien en el alumnado el estímulo p or aprender y generen 
-curiosidad contribuirá al desarrollo efectivo de las competencias. 
-La descripción de las competencias específicas de esta área se determina en el anexo I del Real Decreto 157/2022, de 1 de marzo. 
-A continuación, se presentan los criterios de  evaluación asociados a cada competencia específica para cada ciclo, así como los 
-contenidos relacionados. 
- 
-
-LUNES 18 DE JULIO DE 2022B.O.C.M. Núm. 169 Pág. 97
-BOCM-20220718-1
-BOLETÍN OFICIAL DE LA COMUNIDAD DE MADRIDBOCM
-PRIMER CICLO 
-COMPETENCIAS ESPECÍFICAS CRITERIOS DE EVALUACIÓN 
-1. Interpretar situaciones de la vida cotidiana 
-proporcionando una representación matemática de las 
-mismas mediante conceptos, herramientas y 
-estrategias, para analizar la información más relevante.  
-1.1. Comprender las preguntas planteadas a través de diferentes 
-estrategias o herramientas, reconociendo la  información 
-contenida en problemas de la vida cotidiana. 
-1.2. Proporcionar ejempl os de representaci ones de situaciones 
-problematizadas sencillas, con recu rsos manipulativos y 
-gráficos que ayuden en la resolución de un problema de la vida 
-cotidiana. 
-2. Resolver situaciones problematizadas, aplicando 
-diferentes técnicas, estrategias y formas de 
-razonamiento, para explorar distintas maneras de 
-proceder, obtener soluciones y asegurar su validez 
-desde un punto de vista formal y en relación con el 
-contexto planteado. 
-2.1. Emplear algunas estrategias adecuadas en la resolución de 
-problemas. 
-2.2. Obtener posibles soluciones a pro blemas de forma guiada, 
-aplicando estrategias básicas de resolución. 
-2.3. Describir verbalmente la idoneidad de la s soluciones de un 
-problema a partir de las preguntas previamente planteadas. 
-3. Explorar, formular y comprobar conjeturas sencillas o 
-plantear problemas de tipo matemático en situaciones 
-basadas en la vida cotidiana, de forma guiada, 
-reconociendo el valor del razonamiento y la 
-argumentación, para contrastar su validez, adquirir e 
-integrar nuevo conocimiento. 
-3.1. Realizar conjeturas mate máticas sencillas, identificando 
-patrones, propiedades y relaciones de forma guiada. 
-3.2. Dar ejemplos de probl emas a partir de situaciones cotidianas 
-que se resuelven matemáticamente. 
-4. Utilizar el pensamiento computacional, organizando 
-datos, descomponiendo en partes, reconociendo 
-patrones, generalizando e interpretando, modificando y 
-creando algoritmos de forma guiada, para modelizar y 
-automatizar situaciones de la vida cotidiana. 
-4.1. Describir rutinas y actividades sen cillas de la vida cotidiana 
-que se realicen paso a paso, util izando principios básicos del 
-pensamiento computacional de forma guiada. 
-4.2. Emplear herramientas tecnológi cas adecuadas, de forma 
-guiada, en el proceso de resolución de problemas. 
-5. Reconocer y utilizar conexiones entre las diferentes 
-ideas matemáticas, así como identificar las 
-matemáticas implicadas en otras áreas o en la vida 
-cotidiana, relacionando conceptos y procedimientos, 
-para interpretar situaciones y contextos diversos. 
-5.1. Reconocer conexiones entre los diferentes elementos 
-matemáticos, aplicando conocimientos y experiencias propios.  
-5.2. Reconocer las matemáticas presentes en la vida cotidiana y en 
-otras áreas, estableciendo conexiones sencillas entre ellas. 
-6. Comunicar y representar, de forma individual y grupal, 
-conceptos, procedimientos y resultados matemáticos, 
-utilizando el lenguaje oral, escrito y gráfico, y la 
-terminología apropiados, para dar significado y 
-permanencia a las ideas matemáticas. 
-6.1. Reconocer lenguaje mate mático sencillo prese nte en la vida 
-cotidiana adquiriendo vocabulario específico básico. 
-6.2. Explicar ideas y proceso s matemáticos sencillos, los pasos 
-seguidos en la resolución de un  problema o los resultados 
-matemáticos, de forma verbal o gráfica. 
-7. Desarrollar destrezas personales que ayuden a 
-enfrentarse a retos matemáticos, fomentando la 
-confianza en las propias posibilidades, aceptando el 
-error como parte del proceso de aprendizaje y 
-adaptándose a las situaciones de incertidumbre, para 
-mejorar la constancia y disfrutar en el aprendizaje de 
-las matemáticas.  
-7.1. Reconocer las destreza s personales propias al abordar retos 
-matemáticos, pidiendo ayuda solo cuando sea necesario. 
-7.2. Expresar actitudes positiv as ante retos matemáticos, 
-valorando el error, como una oportunidad de aprendizaje. 
- 
-
-LUNES 18 DE JULIO DE 2022Pág. 98 B.O.C.M. Núm. 169
-BOCM-20220718-1
-BOLETÍN OFICIAL DE LA COMUNIDAD DE MADRIDBOCM
-COMPETENCIAS ESPECÍFICAS CRITERIOS DE EVALUACIÓN 
-8. Desarrollar destrezas sociales, reconociendo y 
-respetando a los compañeros y participar en equipos 
-de trabajo para fomentar un adecuado desarrollo 
-personal y social. 
-8.1. Participar respetuosamente en  el trabajo en equipo, 
-estableciendo relaciones saludables basadas en el respeto, la 
-libertad, la igualdad y la resolución pacífica de conflictos. 
-8.2. Aceptar la tarea y el rol asignado en el trabajo en equipo, 
-cumpliendo con las responsabi lidades individuales y 
-contribuyendo a la consecución de los objetivos del grupo. 
- 
- 
-CONTENIDOS 
-BLOQUES CONOCIMIENTOS, DESTREZAS Y ACTITUDES 
-A. Números y 
-operaciones 
-Conteo 
-- Estrategias variadas de conteo (series ascendentes y descendentes de cadencia 
-1, 2, 3, 4, 5, 10, 20, 50, 100 a partir de un número dado; anterior y posterior de un 
-número natural dado) recuento sistemático, en situaciones de la vida cotidiana en 
-cantidades hasta el 999, y de los diez primeros números ordinales. 
-Cantidad 
-- Estimaciones razonadas de cantidades en contextos de resolución de problemas. 
-- Lectura, escritura (con cifras y letras), representación (incluida la recta numérica 
-y con materiales manipulativos), composición, descomposición aditiva, 
-atendiendo al valor posicional, y recomposición; estableciendo equivalencias 
-entre centenas, decenas y unidades de números naturales hasta 999. 
-- Representación de una misma cantidad de distintas formas (manipulativa, gráfica 
-o numérica) y estrategias de elección de la representación adecuada para cada 
-situación o problema. 
-Operaciones 
-- Estrategias de cálculo mental de sumas y restas con números naturales hasta 
-999. 
-- Términos de las operaciones matemáticas.  
-- Suma y resta de números naturales en el campo numérico inferior a 999 
-resueltas con flexibilidad y sentido utilizando correctamente los términos de: 
-sumando, suma, minuendo, sustraendo, diferencia y su utilidad en situaciones 
-contextualizadas, aplicando estrategias y herramientas de resolución y 
-propiedades. 
-Relaciones 
-- Sistema de numeración de base diez (hasta el 999) identificando el valor 
-posicional de las cifras y estableciendo equivalencias entre centenas, decenas y 
-unidades: aplicación de las relaciones que genera en las operaciones. 
-- Números naturales en contextos de la vida cotidiana: comparación y ordenación. 
-Diferencia entre números pares e impares. Anterior y posterior a un número 
-dado. Relaciones entre tres números. 
-- Relaciones entre la suma y la resta: aplicación en contextos cotidianos. 
-Educación 
-financiera 
-- Sistema monetario europeo: monedas (de céntimos y de 1, 2 euros) y billetes de 
-euro (5, 10, 20, 50 y 100), valor y equivalencia entre monedas y billetes, así como 
-entre dos conjuntos apropiados de monedas o billetes de un total de hasta 50 €. 
-- Concepto de: ingreso de dinero, ahorro monetario y gastos económicos. 
- 
-
-LUNES 18 DE JULIO DE 2022B.O.C.M. Núm. 169 Pág. 99
-BOCM-20220718-1
-BOLETÍN OFICIAL DE LA COMUNIDAD DE MADRIDBOCM
-BLOQUES CONOCIMIENTOS, DESTREZAS Y ACTITUDES 
-B. Medida  
-Magnitud 
-- Atributos mensurables de los objetos (longitud, masa, capacidad), distancias y 
-tiempos. Distinción entre largo, ancho y alto en objetos tridimensionales.  
-- Unidades convencionales (metro, kilo y litro, segundo), y no convencionales (dedos, 
-palmos, pies, pasos, lápices, folios…) en situaciones de la vida cotidiana. 
-- Unidades de medida de tiempo (año, mes, semana, día, hora, minuto, segundo) 
-en situaciones de la vida cotidiana.  
-Medición 
-- Procesos para medir mediante repetición de una unidad y mediante la utilización 
-de instrumentos convencionales (reglas, cintas métricas, balanzas, calendarios, 
-relojes analógicos y digitales…) y no convencionales en contextos familiares. 
-Estimación y 
-relaciones 
-- Estrategias de comparación directa (midiendo longitudes o distancias apropiadas; 
-reconociendo entre diversos cuerpos los que pesan aproximadamente un kilo; 
-comparando dos recipientes de parecida capacidad mediante trasvases) y 
-ordenación de medidas de la misma magnitud. 
-- Estimación de medidas (distancias, tamaños, masas, capacidades y tiempos) por 
-comparación directa con otras medidas, señalando qué unidad de medida es la 
-más apropiada para expresarla. 
-C. Geometría 
-Figuras 
-geométricas de 
-dos y tres 
-dimensiones 
-- Figuras geométricas sencillas de dos o tres dimensiones en objetos de la vida 
-cotidiana: identificación y clasificación atendiendo a sus elementos. 
-- Estrategias y técnicas de construcción de figuras geométricas sencillas de una, 
-dos o tres dimensiones: líneas rectas, paralelas, perpendiculares, abiertas, 
-cerradas, curvas, mixtas y poligonales, polígonos (cuadrado, triángulo, 
-rectángulo, círculo) y cuerpos  geométricos (esfera, cil indro y cono, cubo y 
-prisma), de forma manipulativa. 
-- Vocabulario geométrico básico: descripción verbal de los elementos y las 
-propiedades de figuras geométricas sencillas, utilizando con propiedad los 
-conceptos de lado y vértice en un polígono. 
-- Propiedades de figuras geométricas de dos dimensiones: exploración mediante 
-materiales manipulables y herramientas digitales. 
-Localización y 
-sistemas de 
-representación 
-- Posición relativa de objetos en el espacio e interpretación de movimientos: 
-descripción en referencia a uno mismo a través de vocabulario adecuado (arriba, 
-abajo, delante, detrás, entre, más cerca que, menos cerca que, más lejos que, 
-menos lejos que…). 
-Visualización, 
-razonamiento y 
-modelización 
-geométrica 
-- Modelos geométricos en la resolución de problemas relacionados con los otros 
-bloques. 
-- Relaciones geométricas: reconocimiento en el entorno. 
-D. Álgebra 
-Patrones 
-- Estrategias para la identificación, descripción oral, descubrimiento de elementos 
-ocultos y extensión de secuencias a partir de las regularidades en una colección 
-de números, figuras o imágenes. 
-Modelo 
-matemático 
-- Proceso guiado de modelización (dibujos, esquemas, diagramas, objetos 
-manipulables, dramatizaciones...) en la comprensión y resolución de problemas 
-de la vida cotidiana. 
-Relaciones y 
-funciones 
-- Expresión de relaciones de igualdad y desigualdad mediante los signos = y ≠; > 
-y <, en el campo numérico inferior a 999. 
-- Representación de la igualdad como expresión de una relación de equivalencia 
-entre dos elementos y obtención de datos sencillos desconocidos (representados 
-por medio de un símbolo) en cualquiera de los dos elementos. 
-Pensamiento 
-computacional 
-- Estrategias para la interpretación de algoritmos sencillos (rutinas, instrucciones 
-con pasos ordenados…). 
-
-LUNES 18 DE JULIO DE 2022Pág. 100 B.O.C.M. Núm. 169
-BOCM-20220718-1
-BOLETÍN OFICIAL DE LA COMUNIDAD DE MADRIDBOCM
-BLOQUES CONOCIMIENTOS, DESTREZAS Y ACTITUDES 
-E. Estadística y 
-probabilidad 
-Organización y 
-análisis de datos 
-- Estrategias de reconocimiento de los principales elementos y extracción de la 
-información relevante de gráficos estadísticos sencillos de la vida cotidiana 
-(pictogramas, gráficas de barras...). 
-- Estrategias sencillas para la recogida, clasificación y recuento de datos 
-cualitativos y cuantitativos en muestras pequeñas. 
-- Representación de datos obtenidos a través de recuentos mediante gráficos 
-estadísticos sencillos y recursos manipulables y tecnológicos. 
-- Diferenciación entre imposible, seguro y posible pero no seguro. 
-F. Actitudes y 
-aprendizaje 
-Creencias, 
-actitudes 
-valoración 
-personal  
-- Valoración de la superación, del esfuerzo, del triunfo y aceptación del error: 
-curiosidad e iniciativa en el aprendizaje de las matemáticas. 
-Trabajo en equipo, 
-inclusión, respeto 
-y diversidad 
-- Identificación y rechazo de actitudes discriminatorias ante las diferencias 
-individuales presentes en el aula. Actitudes de aceptación de la diversidad del 
-grupo. 
-- Participación activa en el trabajo en equipo: interacción positiva y respeto por el 
-trabajo de los demás. 
-- Contribución de las matemáticas a los distintos ámbitos del conocimiento 
-humano. 
- 
-SEGUNDO CICLO 
-COMPETENCIAS ESPECÍFICAS CRITERIOS DE EVALUACIÓN 
-1. Interpretar situaciones de la vida cotidiana 
-proporcionando una representación matemática de las 
-mismas mediante conceptos, herramientas y estrategias, 
-para analizar la información más relevante. 
-1.1. Interpretar, de forma verbal o gráfica, problemas de la vida 
-cotidiana, comprendiendo las preguntas planteadas a 
-través de diferentes estrategias o herramientas, incluidas 
-las tecnologías. 
-1.2. Producir representaciones matemáticas, a través de 
-esquemas o diagramas que ayuden en la resolución de una 
-situación problematizada. 
-2. Resolver situaciones problematizadas, aplicando 
-diferentes técnicas, estrategias y formas de 
-razonamiento, para explorar distintas maneras de 
-proceder, obtener soluciones y asegurar su validez desde 
-un punto de vista formal y en relación con el contexto 
-planteado. 
-2.1. Comparar entre diferentes estrategias para resolver un 
-problema de forma pautada. 
-2.2. Obtener posibles soluciones de un problema siguiendo 
-alguna estrategia conocida. 
-2.3. Demostrar la corrección matemática de las soluciones de 
-un problema y su coherencia en el contexto planteado. 
-3. Explorar, formular y comprobar conjeturas sencillas o 
-plantear problemas de tipo matemático en situaciones 
-basadas en la vida cotidiana, de forma guiada, 
-reconociendo el valor del razonamiento y la 
-argumentación, para contrastar su validez, adquirir e 
-integrar nuevo conocimiento. 
-3.1. Analizar conjeturas matemáticas sencillas identificando 
-patrones, propiedades y relaciones de forma pautada. 
-3.2. Dar ejemplos de problemas sobre situaciones cotidianas que 
-se resuelven matemáticamente. 
- 
-
-LUNES 18 DE JULIO DE 2022B.O.C.M. Núm. 169 Pág. 101
-BOCM-20220718-1
-BOLETÍN OFICIAL DE LA COMUNIDAD DE MADRIDBOCM
-COMPETENCIAS ESPECÍFICAS CRITERIOS DE EVALUACIÓN 
-4. Utilizar el pensamiento computacional, organizando 
-datos, descomponiendo en partes, reconociendo 
-patrones, generalizando e interpretando, modificando y 
-creando algoritmos de forma guiada, para modelizar y 
-automatizar situaciones de la vida cotidiana. 
-4.1. Automatizar situaciones sencillas de la vida cotidiana que se 
-realicen paso a paso o sigan una rutina, utilizando de forma 
-pautada principios básicos del pensamiento computacional. 
-4.2. Emplear herramientas tecnológicas adecuadas en el proceso 
-de resolución de problemas. 
-5. Reconocer y utilizar conexiones entre las diferentes ideas 
-matemáticas, así como identificar las matemáticas 
-implicadas en otras áreas o en la vida cotidiana, 
-relacionando conceptos y procedimientos, para 
-interpretar situaciones y contextos diversos. 
-5.1. Realizar conexiones entre los diferentes elementos 
-matemáticos, aplicando conocimientos y experiencias 
-propios. 
-5.2. Interpretar situaciones en contextos diversos, reconociendo 
-las conexiones entre las matemáticas y la vida cotidiana. 
-6. Comunicar y representar, de forma individual y grupal 
-conceptos, procedimientos y resultados matemáticos, 
-utilizando el lenguaje oral, escrito, gráfico, y la 
-terminología apropiados, para dar significado y 
-permanencia a las ideas matemáticas. 
-6.1. Reconocer lenguaje matemático sencillo presente en la vida 
-cotidiana en diferentes formatos, adquiriendo vocabulario 
-específico básico y mostrando comprensión del mensaje. 
-6.2. Explicar los procesos e ideas matemáticas, los pasos 
-seguidos en la resolución de un problema o los resultados 
-obtenidos, utilizando lenguaje matemático sencillo en 
-diferentes formatos. 
-7. Desarrollar destrezas personales que ayuden a 
-enfrentarse a retos matemáticos, fomentando la 
-confianza en las propias posibilidades, aceptando el error 
-como parte del proceso de aprendizaje y adaptándose a 
-las situaciones de incertidumbre, para mejorar la 
-constancia y disfrutar en el aprendizaje de las 
-matemáticas. 
-7.1. Identificar las destrezas personales al abordar retos 
-matemáticos, pidiendo ayuda solo cuando sea necesario y 
-desarrollando así la autoconfianza. 
-7.2. Mostrar actitudes positivas ante retos matemáticos tales 
-como el esfuerzo y la flexibilidad, valorando el error como 
-una oportunidad de aprendizaje. 
-8. Desarrollar destrezas sociales, reconociendo y 
-respetando a los compañeros y participar en equipos de 
-trabajo para fomentar un adecuado desarrollo personal y 
-social.  
-8.1. Trabajar en equipo activa y respetuosamente, 
-comunicándose adecuadamente y estableciendo relaciones 
-basadas en la igualdad, la libertad y la resolución pacífica 
-de conflictos. 
-8.2. Participar en el reparto de tareas, asumiendo y respetando 
-las responsabilidades individuales asignadas y empleando 
-estrategias de colaboración y sencillas de trabajo en equipo 
-dirigidas a la consecución de objetivos compartidos. 
-
-LUNES 18 DE JULIO DE 2022Pág. 102 B.O.C.M. Núm. 169
-BOCM-20220718-1
-BOLETÍN OFICIAL DE LA COMUNIDAD DE MADRIDBOCM
-CONTENIDOS 
-BLOQUES CONOCIMIENTOS, DESTREZAS Y ACTITUDES 
-A. Números y 
-operaciones 
-Conteo 
-- Estrategias variadas de co nteo (series ascendentes y descendentes de 
-cadencia 2, 10,100, 1000, 10000, a partir de cualquier número, y de cadencia 5, 
-25, 50 a partir de un número múltiplo de 5, 25 y 50, recuento sistemático, 
-intercalando números naturales entre otros números dados, ordenando 
-números utilizando los signos “<” y “>” y adaptación del conteo al tamaño de los 
-números en situaciones de la vida cotidiana en cantidades hasta el 99.999. 
-- Manejo, en situaciones de la vida cotidiana, de los treinta primeros números 
-ordinales. 
-- Numeración romana en situaciones de la vida cotidiana. 
-Cantidad 
-- Estrategias y técnicas de interpretación y manipulación del orden de 
-magnitud de los números identificando el significado y valor posicional de 
-cada cifra estableciendo equivalencias (milésimas, centésimas, décimas, 
-unidades, decenas, centenas, millares, decenas de millar). 
-- Los números decimales. Tratamiento en contextos cercanos al alumnado. 
-- Estimaciones y aproximaciones razonadas de cantidades en contextos de 
-resolución de problemas. 
-- Lectura, escritura y representación (incluida la recta numérica y con 
-materiales manipulativos), composición, descomposición aditiva y aditivo -
-multiplicativa y recomposición de números naturales hasta 99.999. 
-- Lectura, escritura y representación de fracciones propias (menor que la unidad) 
-con denominador hasta 12 en contextos de la vida cotidiana e impropias, 
-identificando los términos de las fracciones (numerador y denominador).  
-Operaciones 
-- Estrategias de cálculo mental de sumas y restas con números naturales y 
-fracciones. 
-- Términos de las operaciones matemáticas.  
-- Estrategias de cálculo mental  de multiplicación y división de números 
-naturales. 
-- Estrategias de reconocimiento de qué operaciones simples (suma, resta, 
-multiplicación, división como reparto y partición) son útiles para resolver 
-situaciones contextualizadas, identificando correctamente los términos 
-propios de las mismas. 
-- Construcción de las tablas de multiplicar apoyándose en número de veces, 
-suma repetida o disposición en cuadrículas. 
-- Suma, resta, multiplicación y divis ión de números naturales resueltas con 
-flexibilidad y sentido en situaciones contextualizadas: estrategias y 
-herramientas de resolución y propiedades de cada una de ellas (conmutativa, 
-asociativa, distributiva, elemento neutro y nulo). 
-- Sumas y restas sencillas con números decimales. 
-- Representación de divisiones como fracciones, calculando mitad, tercera 
-parte, cuarta parte de números pares múltiplos de 3 y 4 respectivamente. 
-- Aplicación del orden de operaciones (suma/resta y multiplicación/división) en 
-números naturales 
-Relaciones 
-- Sistema de numeración de base diez (hasta el 99.999) identificando el valor 
-posicional de las cifras   y estableciendo equivalencias entre decenas de 
-millar, millares, centenas, decena s, unidades, décimas, centésima y 
-milésimas: aplicación de las relaciones que genera en las operaciones. 
-- Números naturales y fracciones en contextos de la vida cotidiana: 
-comparación y ordenación, y equivalencias entre fracciones y números 
-decimales exactos y periódicos. 
-- Relaciones entre la suma y la resta, y la multiplicación y la división: aplicación 
-en contextos cotidianos. 
-
-LUNES 18 DE JULIO DE 2022B.O.C.M. Núm. 169 Pág. 103
-BOCM-20220718-1
-BOLETÍN OFICIAL DE LA COMUNIDAD DE MADRIDBOCM
-Educación financiera 
-- Cálculo y estimación de cantidades y cambios (equivalencias entre euros y 
-céntimos de euro) en problemas de la vida cotidiana: ingresos, gastos y 
-ahorro. Decisiones de compra responsable. 
-- Presupuesto personal. Planificación de ingresos y gastos. 
-B. Medida  
-Magnitud 
-- Atributos mensurables de los objetos (longitud, masa, capacidad, superficie, 
-volumen y amplitud del ángulo). 
-- Unidades convencionales (km, hm, dam, m, dm cm, mm; Tn, kg, hg, dag, g, 
-dg, cg, mg; kl, hl, dal, l, dl, cl y ml) y no convencionales en situaciones de la 
-vida cotidiana, utilizando las abreviaturas de las diferentes unidades. Medida 
-del tiempo (año, mes, semana, día, hora, minutos y segundos) y 
-determinación de la duración de periodos de tiempo. 
-Medición 
-- Estrategias para realizar mediciones con instrumentos y unidades no 
-convencionales (repetición de una unidad, uso de cuadrículas y materiales 
-manipulativos) y convencionales. 
-- Procesos de medición mediante instrumentos convencionales (regla, cinta 
-métrica, balanzas, reloj analógico y digital) expresando las mediciones de 
-forma compleja e incompleja. 
-Estimación y relaciones 
-- Estrategias de comparación y ordenación de medidas de la misma magnitud 
-(km, hm, dam, m, dm cm, mm; Tn, kg, hg, dag, g, dg, cg, mg; kl, hl, dal, l, 
-dl, cl y ml) aplicación de equivalencias entre unidades en problemas de la 
-vida cotidiana que impliquen convertir en unidades más pequeñas. 
-- Estimación de medidas de longitud, masa, capacidad y tiempo por comparación 
-y buscando estrategias de equivalencias entre unidades de las mismas 
-magnitudes. 
-- Evaluación de resultados de mediciones y estimaciones o cálculos (suma y 
-resta) de medidas. 
-C. Geometría  
-Figuras geométricas de 
-dos y tres dimensiones 
-- Figuras geométricas de dos o tres dimensiones en objetos de la vida 
-cotidiana: identificación y clasificación atendiendo a sus elementos y a las 
-relaciones entre ellos. 
-- Estrategias y técnicas de construcción de figuras geométricas de dos 
-dimensiones por composición y descomposición, mediante materiales 
-manipulables, instrumentos de dibujo (regla, escuadra, cartabón, compás, 
-transportador de ángulos...) y aplicaciones informáticas. 
-- Vocabulario: Punto, recta (paralelas, perpendic ulares coincidentes y 
-secantes), semirrecta, segme nto, ángulo (agudo,  recto, obtuso), polígono 
-(regulares, irregulares, sus  propiedades y clasificaci ón según lados y 
-ángulos), elementos de los polígonos (lado, vértice, ángulo), circunferencia 
-(diámetro, radio, cuerda, arco) y círculo, poliedros( prismas, cubos, esferas, 
-pirámides, cilindros) y sus elementos (caras, vértices, aristas); simetría, 
-perímetro y área, descripción verbal de los elementos y las propiedades de 
-figuras geométricas sencillas.  
-- Propiedades de figuras geométricas de dos y tres dimensiones: exploración 
-mediante materiales manipulables (cuadrículas, geoplanos, policubos, etc.) 
-y el manejo de herramientas digitales (programas de geometría dinámica, 
-realidad aumentada, robótica educativa, etc.). 
-Localización y sistemas 
-de representación 
-- Descripción de la posición relativa de objetos en el espacio o de sus 
-representaciones, utilizando vocabulario geométrico adecuado (paralelo, 
-perpendicular, oblicuo, derecha, izquierda, al lado de, encima de, arriba a la 
-derecha, arriba a la izquierda, abajo a la derecha, abajo a la izquierda, subir, 
-bajar, girar a la derecha, girar a la izquierda, etc.). 
-- Descripción verbal e interpretación de m ovimientos (dirección, sentido, 
-distancia, giros y simetrías), en relación a uno mismo o a otros puntos de 
-referencia, utilizando vocabulario geométrico adecuado. 
-- Interpretación de itinerarios en planos, utilizando soportes físicos y virtuales. 
-
-LUNES 18 DE JULIO DE 2022Pág. 104 B.O.C.M. Núm. 169
-BOCM-20220718-1
-BOLETÍN OFICIAL DE LA COMUNIDAD DE MADRIDBOCM
-Movimientos y 
-transformaciones 
-- Identificación de figuras transformadas mediante traslaciones y simetrías en 
-situaciones de la vida cotidiana. 
-- Generación de figuras transformadas a partir de simetrías y traslaciones de 
-un patrón inicial y predicción del resultado. 
-Visualización, 
-razonamiento y 
-modelización 
-geométrica 
-- Estrategias para el cálculo de perímetros de figuras planas y utilización en la 
-resolución de problemas de la vida cotidiana. 
-- Modelos geométricos en la resolución de problemas relacionados con los 
-otros bloques. 
-- Reconocimiento de relaciones geométricas en campos ajenos a la clase de 
-matemáticas, como el arte, las ciencias y la vida cotidiana. 
-D. Álgebra 
-Patrones 
-- Identificación, descripción verbal, representación y predicción razonada de 
-términos a partir de las regularidades en una colección de números, figuras 
-o imágenes. 
-Modelo matemático 
-- Proceso pautado de modelización usando representaciones matemáticas 
-(gráficas, tablas...) para facilitar la comprensión y la resolución de problemas 
-de la vida cotidiana. 
-Relaciones y funciones 
-- Relaciones de igualdad y desigualdad y uso de los signos = y ≠ entre 
-expresiones que incluyan operaciones y sus propiedades. 
-- La igualdad como expresión de una relación de equivalencia entre dos 
-elementos y obtención de datos sencillos desconocidos (representados por 
-medio de un símbolo) en cualquiera de los dos elementos. 
-- Representación de la relación <<mayor que>> y <<menor que>>, y uso de 
-los signos < y > en el campo numérico inferior a 99.999. 
-Pensamiento 
-computacional 
-- Estrategias para la interpretación y modificación de algoritmos sencillos 
-(reglas de juegos, instrucciones secuenciales, bucles, patrones repetitivos, 
-programación por bloques, robótica educativa...). 
-E. Estadística y 
-probabilidad 
-Organización y análisis 
-de datos 
-- Gráficos estadísticos de la vida cotidiana (pictogramas, gráficas de barras, 
-histogramas...): lectura e interpretación. 
-- Estrategias sencillas para la recogida, clasificación y organización de datos 
-cualitativos o cuantitativos discretos en muestras pequeñas mediante 
-calculadora y aplicaciones informáticas sencillas. Frecuencia absoluta: 
-interpretación. 
-- Gráficos estadísticos sencillos (d iagrama de barras y pictogramas) para 
-representar datos, seleccionando el más conveniente mediante recursos 
-tradicionales y aplicaciones informáticas sencillas. 
-- La moda: interpretación como el dato más frecuente. 
-- Comparación gráfica de dos conjuntos de datos para establecer relaciones y 
-extraer conclusiones. 
-Incertidumbre 
-- La probabilidad como medida subjetiva de la incertidumbre. Reconocimiento 
-de la incertidumbre en situaciones de la vida cotidiana y mediante la 
-realización de experimentos. 
-- Identificación de suceso seguro, suceso posible y suceso imposible. 
-- Diferenciación entre posible y probable. 
-- Comparación de la probabilidad de dos sucesos de forma intuitiva. 
-Inferencia - Formulación de conjeturas a partir de los datos recogidos y analizados, 
-dándoles sentido en el contexto de estudio. 
- 
-
-LUNES 18 DE JULIO DE 2022B.O.C.M. Núm. 169 Pág. 105
-BOCM-20220718-1
-BOLETÍN OFICIAL DE LA COMUNIDAD DE MADRIDBOCM
-BLOQUES CONOCIMIENTOS, DESTREZAS Y ACTITUDES 
-F. Actitudes y 
-aprendizaje 
-Creencias, actitudes y 
-valoración personal  
-- Valoración de la superación, del esfuerzo, del triunfo y aceptación del error. 
-Iniciativa y tolerancia ante la frustración en el aprendizaje de las matemáticas. 
-- Fomento de la autonomía y estrategias para la toma de decisiones en 
-situaciones de resolución de problemas. 
-Trabajo en equipo, 
-inclusión, respeto y 
-diversidad 
-- Sensibilidad y respeto ante las diferencias individuales presentes en el aula: 
-identificación y rechazo de actitudes discriminatorias. 
-- Participación activa en el trabajo en equipo, escucha activa y respeto por el 
-trabajo de los demás. 
-- Reconocimiento y comprensión de las experiencias de los demás ante las 
-matemáticas. 
-- Valoración de la contribución de las matemáticas a los distintos ámbitos del 
-conocimiento humano.  
- 
-TERCER CICLO 
-COMPETENCIAS ESPECÍFICAS CRITERIOS DE EVALUACIÓN 
-1. Interpretar situaciones de la vida cotidiana 
-proporcionando una representación matemática de las 
-mismas mediante conceptos, herramientas y estrategias, 
-para analizar la información más relevante. 
-1.1. Comprender problemas de la vida cotidiana a través de la 
-reformulación de la pregunta, de forma verbal y gráfica. 
-1.2. Elaborar representaciones matemáticas que ayuden en la 
-búsqueda y elección de es trategias y herramientas, 
-incluidas las tecnologías, para la resolución de una 
-situación problematizada. 
-2. Resolver situaciones problematizadas, aplicando 
-diferentes técnicas, estrategias y formas de 
-razonamiento, para explorar distintas maneras de 
-proceder, obtener soluciones y asegurar su validez 
-desde un punto de vista formal y en relación con el 
-contexto planteado. 
-2.1. Seleccionar entre diferentes estrategias para resolver un 
-problema, justificando la elección. 
-2.2. Obtener posibles soluciones de un problema, seleccionando 
-entre varias estrategias conocidas de forma autónoma. 
-2.3. Comprobar la corrección matemática de las soluciones de 
-un problema y su coherencia en el contexto planteado. 
-3. Explorar, formular y comprobar conjeturas sencillas o 
-plantear problemas de tipo matemático en situaciones 
-basadas en la vida cotidiana, de forma guiada, 
-reconociendo el valor del razonamiento y la 
-argumentación, para contrastar su validez, adquirir e 
-integrar nuevo conocimiento. 
-3.1. Formular conjeturas matemáticas sencillas identificando 
-patrones, propiedades y relaciones de forma guiada. 
-3.2. Plantear nuevos problemas sobre situaciones cotidianas que 
-se resuelvan matemáticamente. 
-4. Utilizar el pensamiento computacional, organizando 
-datos, descomponiendo en partes, reconociendo 
-patrones, generalizando e interpretando, modificando y 
-creando algoritmos de forma guiada, para modelizar y 
-automatizar situaciones de la vida cotidiana. 
-4.1. Modelizar situaciones de la vida cotidiana utilizando, de forma 
-pautada, principios básicos del pensamiento computacional. 
-4.2. Emplear herramientas tecnológ icas adecuadas en la 
-investigación y resolución de problemas. 
-5. Reconocer y utilizar conexiones entre las diferentes ideas 
-matemáticas, así como identificar las matemáticas 
-implicadas en otras áreas o en la vida cotidiana, 
-relacionando conceptos y procedimientos, para 
-interpretar situaciones y contextos diversos. 
-5.1. Utilizar conexiones entre diferentes elementos matemáticos 
-movilizando conocimientos y experiencias propios. 
-5.2. Utilizar las conexiones entre las matemáticas, otras áreas y 
-la vida cotidiana pa ra resolver proble mas en contextos no 
-matemáticos. 
- 
-
-LUNES 18 DE JULIO DE 2022Pág. 106 B.O.C.M. Núm. 169
-BOCM-20220718-1
-BOLETÍN OFICIAL DE LA COMUNIDAD DE MADRIDBOCM
-COMPETENCIAS ESPECÍFICAS CRITERIOS DE EVALUACIÓN 
-6. Comunicar y representar, de forma individual y grupal, 
-conceptos, procedimientos y resultados matemáticos, 
-utilizando el lenguaje oral, escrito, gráfico y la 
-terminología apropiados, para dar significado y 
-permanencia a las ideas matemáticas. 
-6.1. Interpretar el lenguaje matemático sencillo prese nte en la 
-vida cotidiana en diferentes formato s, adquiriendo 
-vocabulario apropiado y m ostrando la comprensión del 
-mensaje. 
-6.2. Comunicar en diferentes formatos las conjeturas y procesos 
-matemáticos, utilizando lenguaje matemático adecuado. 
-7. Desarrollar destrezas personales que ayuden a 
-enfrentarse a retos matemáticos, fomentando la 
-confianza en las propias posibilidades, aceptando el error 
-como parte del proceso de aprendizaje y adaptándose a 
-las situaciones de incertidumbre, para mejorar la 
-constancia y disfrutar en el aprendizaje de las 
-matemáticas. 
-7.1. Regular las destrezas personales y reconocer algunas 
-fortalezas y debilidades, desa rrollando así la autoconfianza 
-al abordar nuevos retos matemáticos. 
-7.2. Elegir actitudes positiva s ante nuevos reto s matemáticos, 
-tales como la constancia y la responsabilidad, valorando el 
-error como una oportunidad de aprendizaje. 
-8. Desarrollar destrezas sociales, reconociendo y 
-respetando a los compañeros y participar en equipos de 
-trabajo para fomentar un adecuado desarrollo personal y 
-social. 
-8.1. Trabajar en equipo activa, res petuosa y responsablemente, 
-mostrando iniciativa, comunicá ndose de forma efectiva, 
-valorando la diversidad y estableciendo relaciones basadas 
-en el respeto, la igualdad, la libertad y la resolución pacífica 
-de conflictos. 
-8.2. Colaborar en el reparto de tareas, asumiendo y respetando 
-las responsabilidades individuales asignad as y empleando 
-estrategias de colaboración sencillas dirigidas a la 
-consecución de objetivos compartidos. 
-CONTENIDOS 
-BLOQUES CONOCIMIENTOS, DESTREZAS Y ACTITUDES 
-A. Números y 
-operaciones 
-Conteo 
-- Estrategias variadas de conteo, recuento sistemático y adaptación del conteo 
-al tamaño de los números naturales en situaciones de la vida cotidiana. 
-- Diferencias entre números naturales, enteros, racionales y reales. Número Pi 
-(π). 
-Cantidad 
-- Estrategias y técnicas de interpretación y manipulación del orden de magnitud 
-de los números. 
-- Estimaciones y aproximaciones razonadas de cantidades en contextos de 
-resolución de problemas. 
-- Lectura, escritura y representación (incluida la recta numérica y con materiales 
-manipulativos), composición, descomposición, recomposición y ordenación de 
-números naturales, enteros y decimales hasta las milésimas. 
-- Fracciones y decimales para expresar cantidades en contextos de la vida 
-cotidiana y elección de la mejor representación para cada situación o 
-problema. 
-Operaciones 
-- Estrategias de cálculo mental con números naturales, fracciones y decimales. 
-- Estrategias de reconocimiento de qué operaciones simples o combinadas 
-(suma, resta, multiplicación, división) son útiles para resolver situaciones 
-contextualizadas. 
-- Estrategias de factorización en número s primos (número primo, número 
-compuesto). Potencia como producto de factores iguales. Cuadrados y cubos. 
-- Estrategias de resolución de operaciones aritméticas (con números naturales, 
-decimales y fracciones), aplicando jerarquía de operaciones (paréntesis y 
-corchetes), con flexibilidad y sentido: mentalmente, de manera escrita o con 
-calculadora; utilidad en situaciones contextualizadas y propiedades. 
-
-LUNES 18 DE JULIO DE 2022B.O.C.M. Núm. 169 Pág. 107
-BOCM-20220718-1
-BOLETÍN OFICIAL DE LA COMUNIDAD DE MADRIDBOCM
-Relaciones 
-- Sistema de numeración de base diez (números naturales y decimales hasta las 
-milésimas): aplicación de las relaciones que genera en las operaciones. 
-- Números naturales, fracciones y decimales hasta las milésimas en contextos 
-de la vida cotidiana: comparación y ordenación de números: naturales y 
-racionales. 
-- Relaciones entre las operaciones aritméticas: aplicación en contextos 
-cotidianos. 
-- Relación de divisibilidad: múltiplos y divisores (reglas de divisibilidad por 2, 3, 5 
-y 10; mínimo común múltiplo y máximo común divisor). 
-- Relación entre fracciones sencillas (equivalencias, simplificación, amplificación 
-de fracciones, reducción de fracc iones a común denominador), decimales y 
-porcentajes. 
-Razonamiento 
-proporcional 
-- Situaciones proporcionales y no proporcionales en problemas de la vida 
-cotidiana: identificación como comparación multiplicativa entre magnitudes. 
-- Resolución de problemas de proporcionalidad, (regla de tres, reducción a la 
-unidad e igualdad entre proporciones), porcentajes y escalas de la vida 
-cotidiana, mediante la igualdad entre razones, la reducción a la unidad o el uso 
-de coeficientes de proporcionalidad. 
-Educación financiera 
-- Resolución de problemas relacionados con el consumo (valor/precio, 
-calidad/precio y mejor precio) y con el dinero: precios, intereses y rebajas. 
-- Planificación del gasto personal. Préstamos y depósitos. 
-B. Medida  
-Magnitud 
-- Unidades convencionales del Sistema Métrico Decimal (longitud, masa, 
-capacidad, volumen y superficie), tiempo y grado (ángulos) en contextos de la 
-vida cotidiana: selección y uso de las unidades adecuadas. 
-Medición - Instrumentos (analógicos o digitales) y unidades adecuadas para medir 
-longitudes, objetos, ángulos y tiempos: selección y uso. 
-Estimación y 
-relaciones 
-- Estrategias de comparación y ordenación de medidas, expresadas de forma 
-simple o compleja, de la misma magnitud, aplicando las equivalencias entre 
-unidades (sistema métrico decimal) en problemas de la vida cotidiana. 
-- Relación entre el sistema métrico decimal y el sistema de numeración decimal. 
-- Estimación de medidas de longitud, capacidad, masa, volumen, de ángulos 
-y superficies por comparación. 
-- Evaluación de resultados de mediciones y estimaciones o cálculos de medidas, 
-razonando si son o no posibles. 
-C. Geometría  
-Figuras geométricas 
-de dos y tres 
-dimensiones 
-- Figuras geométricas en objetos de la vida cotidiana: identificación y clasificación 
-atendiendo a sus elementos (caras, ángulos, aristas, vértices en los 
-tridimensionales) y a las relaciones entre ellos. 
-- Técnicas de construcción de fi guras geométricas por composición y 
-descomposición, mediante materiales manipulables, instrumentos de dibujo 
-(regla, cartabón, compás, transportador de ángulos…) y aplicaciones informáticas. 
-- Vocabulario geométrico: descripción verbal de los elementos y las propiedades 
-de figuras geométricas. 
-- Propiedades de figuras geométricas: exploración mediante materiales 
-manipulables (cuadrículas, geoplanos, policubos, etc.) y herramientas digitales 
-(programas de geometría dinámica, realidad aumentada, robótica educativa, 
-etc.). 
-Localización y 
-sistemas de 
-- Localización y desplazamientos en planos y mapas a partir de puntos de 
-referencia (incluidos los puntos cardinales), direcciones y cálculo de distancias 
-
-LUNES 18 DE JULIO DE 2022Pág. 108 B.O.C.M. Núm. 169
-BOCM-20220718-1
-BOLETÍN OFICIAL DE LA COMUNIDAD DE MADRIDBOCM
-representación (escalas): descripción e interpretación con el vocabulario adecuado en 
-soportes físicos y virtuales. 
-- Descripción de posiciones y movimientos en el primer cuadrante del sistema 
-de coordenadas cartesiano. 
-Movimientos y 
-transformaciones 
-- Transformaciones mediante giros, traslaciones y simetrías en situaciones de la 
-vida cotidiana: identificación de figuras transformadas, generación a partir de 
-patrones iniciales y predicción del resultado. 
-- Semejanza en situaciones de la vida cotidiana: identificación de figuras 
-semejantes, generación a partir de patrones iniciales y predicción del resultado. 
-Visualización, 
-razonamiento y 
-modelización 
-geométrica 
-- Cálculo de áreas y perímetros de figuras planas y volúmenes. 
-- Modelos geométricos en la resolución de problemas relacionados con los otros 
-bloques. 
-- Elaboración de conjeturas sobre propiedades geométricas, utilizando 
-instrumentos de dibujo (regla, cartabón, compás, transportador de ángulos…), 
-y programas de geometría dinámica. 
-- Las ideas y las relaciones geométricas en el arte, las ciencias y la vida cotidiana. 
-D. Álgebra 
-Patrones 
-- Estrategias de identificación, representación (verbal o mediante tablas, gráficos 
-y notaciones inventadas) y predicción razonada de términos a partir de las 
-regularidades en una colección de números, figuras o imágenes. 
-- Creación de patrones recurrentes a partir de regularidades o de otros patrones 
-utilizando números, figuras o imágenes. 
-Modelo matemático - Proceso de modelización a partir de problemas de la vida cotidiana, usando 
-representaciones matemáticas. 
-Relaciones y 
-funciones 
-- Relaciones de igualdad y desigualdad y uso de signos < y >. Determinación 
-de datos desconocidos (representados por medio de una letra o un símbolo) 
-en expresiones sencillas relacionadas mediante estos signos y los signos de 
-= y ≠. 
-Pensamiento 
-computacional 
-- Estrategias para la interpretación, modificación y creación de algoritmos 
-sencillos (secuencias de pasos ordenados, esquemas, simulaciones, patrones 
-repetitivos, bucles, instrucciones anidadas y condicionales, representaciones 
-computacionales, programación por bloques, robótica educativa...). 
-E. Estadística y 
-probabilidad 
-Organización y 
-análisis de datos 
-- Conjuntos de datos y gráficos estadísticos de la vida cotidiana: descripción, 
-interpretación y análisis crítico. 
-- Estrategias para la realización de un estudio estadístico sencillo: formulación 
-de preguntas recogida, registro y organización de datos cualitativos y 
-cuantitativos procedentes de diferentes experimentos (encuestas, mediciones, 
-observaciones…). Tablas de frecuencias absolutas y relativas: interpretación. 
-- Gráficos estadísticos sencillos (diagrama de barras, diagrama de sectores, 
-histograma, etc.): representación de datos mediante recursos tradicionales y 
-tecnológicos y selección del más conveniente. 
-- Medidas de centralización (media, moda y mediana): interpretación, cálculo y 
-aplicación. 
-- Medidas de dispersión (rango): cálculo e interpretación. 
-- Calculadora y otros recursos digitales, como la hoja de cálculo, para organizar 
-la información estadística y realizar diferentes visualizaciones de los datos. 
-- Relación y comparación de dos conjuntos de datos a partir de su representación 
-gráfica: formulación de conjeturas, análisis de la dispersión y obtención de 
-conclusiones. 
-
-LUNES 18 DE JULIO DE 2022B.O.C.M. Núm. 169 Pág. 109
-BOCM-20220718-1
-BOLETÍN OFICIAL DE LA COMUNIDAD DE MADRIDBOCM
-Incertidumbre 
-- La incertidumbre en situaciones de la vida cotidiana: cuantificación y estimación 
-subjetiva y mediante la comprobación de la estabilización de las frecuencias 
-relativas en experimentos aleatorios repetitivos. 
-- Cálculo de probabilidades en experimentos, comparaciones o investigaciones 
-en los que sea aplicable la regla de Laplace: aplicación de técnicas básicas del 
-conteo. 
-Inferencia 
-- Identificación de un conjunto de datos como muestra de un conjunto más 
-grande y reflexión sobre la población a la que es posible aplicar las 
-conclusiones de investigaciones estadísticas sencillas. 
-F. Actitudes y 
-aprendizaje 
-Actitudes y 
-valoración personal  
-- Valoración de la superación, del esfuerzo, del triunfo y aceptación del error en 
-el aprendizaje. Estrategias de mejora de la constancia y el sentido de la 
-responsabilidad hacia el aprendizaje de las matemáticas. 
-- Flexibilidad cognitiva, adaptación y cambio de estrategia en caso necesario. 
-Valoración del error como oportunidad de aprendizaje. 
-Trabajo en equipo, 
-inclusión, respeto y 
-diversidad 
-- Respeto por las producciones matemáticas de los demás.  
-- Aplicación de técnicas sencillas de colaboración para el trabajo en equipo y 
-estrategias para la gestión de conflictos, promoción de conductas adecuadas.  
-- Valoración de la contribución de las matemáticas a los distintos ámbitos del 
-conocimiento humano. 
- 
-
-LUNES 18 DE JULIO DE 2022Pág. 110 B.O.C.M. Núm. 169
-BOCM-20220718-1
-BOLETÍN OFICIAL DE LA COMUNIDAD DE MADRIDBOCM
-Educación en Valores Cívicos y Éticos 
- 
-Esta área tiene como finalidad contribuir al desarrollo de la personalidad. Ayudará a adquirir los conocimientos, destrezas y actitudes 
-necesarios para que el alumnado se com prometa con los valores, principios y normas propios de la democracia reconocidos en la 
-Constitución Española, en la Unión Europea y en los diferentes Tratados internacionales a los que España está adscrita. El alumnado 
-tomará conciencia de su identidad, y reflexionará sobre cuestiones fundamentales para la convivencia en sociedad pues, en último 
-término, se pretende que asuma con responsabilidad las normas y valores que definen una sociedad libre.  
-El área se imparte en quinto curso, y se organiza en cuatro ámbitos competenciales. El primero es el del conocimiento y autonomía 
-personal con el objetivo de que el alumnado sea consciente de  su libertad.  El segundo, el de la  comprensión del marco social d e 
-convivencia y el compromi so con los principios, valores y normas que lo rigen . El tercero se refiere a la  enseñanza del cuidado  y 
-protección de la naturaleza y del entorno. Finalmente, el cuarto ámbito se ocupa de desarrollar un aprendizaje sobre los problemas 
-de distinta índole. A su vez, cad a uno de estos ámbitos se divide en dos niveles integrados: uno teórico, dirigido a la comprensión 
-significativa de con ceptos y cuestiones relevante s, y un segundo más práctico, centrado en enseñar a los alumnos los rasgos 
-característicos de la sociedad española. La adquisición de cada una de las competencias esp ecíficas se evaluará con los criteri os 
-de evaluación asociados.  
-Por su parte, los contenidos del área se distribuyen en tres bloques. En el primero de ellos, se centra en que el alumno sea consciente 
-de aquello que le constituye y diferencia como persona. Pondrá a prueba su capacidad para afrontar las situaciones que le afecten, 
-cercanas, relacionadas con distintos ámbitos, tales como su autoestima, prevención de acoso o influencia de las redes sociales.  
-El segundo de los bloques, se encamina a que el alum no interiorice la i mportancia de la cultura y costumbres de su identidad, 
-reconozca las distintas estru cturas y relaciones que consti tuyen su entorno social  y reflexione sobre el lo. El bloque tercero, trata 
-sobre la comprensión de las relaciones que se pro ducen entre la forma de  vida de cada uno y su circunstancia. El fin es la 
-identificación y el análisis de los grandes problemas sociales y medioambientales, así como la forma de afrontarlos.  
-Para terminar, la metodología a utilizar estará orientada a la interiorización de los valores que pretende transmitir el área. Por ello, 
-se asentará en la participación con respeto, y la libertad de expre sión, como ejes fundamentales. En el anexo I del Real Decret o 
-157/2022, de 1 de marzo, se describen las competencias del área. A continuación, se presenta n los criterios de ev aluación y los  
-contenidos asociados.  
- 
-COMPETENCIAS ESPECÍFICAS CRITERIOS DE EVALUACIÓN 
-1. Deliberar y argumentar sobre 
-problemas referidos a sí mismo y su 
-entorno, buscando y analizando 
-información fiable y generando una 
-actitud reflexiva al respecto, para 
-promover el conocimiento de uno 
-mismo y la autonomía moral. 
-1.1. Construir un adecuado concepto de sí mismo en rel ación con los demás y la 
-naturaleza, organizando y generando, i nformación analógica y digital acerca 
-de los rasgos relativos a la identidad, diferencia y dignidad de las personas. 
-1.2. Identificar y expresar emoci ones, afectos y deseo s, mostrando confianza en 
-las propias capaci dades al servicio de la con secución motivada de fines 
-personales y de grupo. 
-1.3. Generar una posición autónoma medi ante el ejerc icio de la toma de 
-decisiones, el uso de conceptos positivos y el diálogo respetuoso con otros, 
-en torno a distintos valores y modos de vida, así como a problemas 
-relacionados con el uso seguro de las redes y medios de comunicación, las 
-conductas adictivas, la prevención del abus o y el acoso escol ar, y el respeto 
-a la intimidad personal. 
- 
-
-LUNES 18 DE JULIO DE 2022B.O.C.M. Núm. 169 Pág. 111
-BOCM-20220718-1
-BOLETÍN OFICIAL DE LA COMUNIDAD DE MADRIDBOCM
-COMPETENCIAS ESPECÍFICAS CRITERIOS DE EVALUACIÓN 
-2. Actuar e interactuar de acuerdo con 
-normas y valores, reconociendo su 
-importancia para la vida y aplicándolos 
-de manera efectiva y argumentada en 
-distintos contextos, para promover una 
-convivencia, justa, respetuosa y 
-pacífica. 
-2.1. Promover y demostrar un modo de convivencia justa, respetuosa y pacífica a 
-partir de la investigació n y comprensión de la s relaciones del ser humano , 
-mediante el uso de  los conceptos de le y, civismo, respeto, democracia, 
-justicia, paz y libertad. 
-2.2. Interactuar con otros adoptando, de  forma motivada y au tónoma, conductas 
-orientadas por val ores comunes, a partir del conocimien to de los derechos 
-humanos y los principios constitucionales fundamental es, en relación con 
-contextos y problemas concretos, así como por una consideración de diálogo 
-acerca de cómo debemos relacionarnos con los demás. 
-2.3. Reflexionar y asumir un compromiso activo y crítico con valores relativos a la 
-solidaridad y el respeto a los demás, analizando cuestiones relacionadas con 
-la desigualdad y la pobreza, el hecho multicultural, la diversidad humana y los 
-fenómenos migratorios. 
-2.4. Contribuir a generar un a convivencia respetuosa, no discriminatoria , libre y 
-comprometida con el logro de la igua ldad, y con la erradicación de todo tipo 
-de violencia, a partir del con ocimiento y análisis crítico de la sociedad , 
-mostrando referentes de igualdad. 
-2.5. Comprender y valorar los principios de justicia, solidaridad, seguridad y paz, a 
-la vez que el respeto a las libertades básica s, a partir del análisis y la 
-ponderación de las políticas y acciones de ayuda y colaboración internacional, 
-de defensa para la pa z y de seguridad ciudadan a, ejercidas por el Estado y 
-sus instituciones, los organismos internaciones, las ONG y ONGD y la propia 
-ciudadanía. 
-3. Comprender las relaciones entre el 
-individuo, la sociedad y la naturaleza, 
-a través del conocimiento y la 
-reflexión sobre los problemas sociales 
-y medioambientales, para 
-comprometerse con el respeto, 
-cuidado y protección de las personas 
-y el planeta. 
-3.1 Evaluar diferentes alternativas con que frenar el cambio climático y lograr los 
-Objetivos de Desarrollo Sostenible, identificando causas y problemas sociales 
-y medioambientales, y justifi cando argumentalmente el de ber de proteger y 
-cuidar la naturaleza. 
-3.2 Comprometerse activamente con valores, prácticas y actitudes afectivas 
-consecuentes con el respeto, cuidado y protección de las personas, en 
-especial los mayores,  también con los animales y el p laneta, a través de la 
-participación en actividades que promuevan un consumo adecuado  y un uso 
-adecuado del suelo, el aire, el agua, la energía, la movilidad segura, saludable, 
-y la prevención y gestión de residuos, reconociendo el papel de las personas, 
-colectivos y entidades comprometidas con la protección del entorno. 
-4. Desarrollar destrezas personales y 
-sociales con las personas y con el 
-entorno, para apreciarlos, cuidarlos y 
-respetarlos.  
-4.1. Gestionar equilibradamente las destrezas personal es y sociales para 
-desarrollar una actitud de estima y cuida do de sí mismo, de  los demás y del 
-entorno, identificando, analiz ando y expresando l as propias emociones y 
-reconociendo y valorando los de otras personas, en distintos contextos y en 
-relación con actividades de  reflexión ind ividual o grupal dialogada sobre 
-cuestiones sociales.  
- 
-
-LUNES 18 DE JULIO DE 2022Pág. 112 B.O.C.M. Núm. 169
-BOCM-20220718-1
-BOLETÍN OFICIAL DE LA COMUNIDAD DE MADRIDBOCM
-CONTENIDOS 
-BLOQUES CONOCIMIENTOS, DESTREZAS Y ACTITUDES 
-A. Conocimiento y 
-autonomía personal  
-- El pensamiento crítico. El conocimi ento de sí mismo. La reflexi ón y la expresión de los 
-pensamientos. 
-- La naturaleza humana y la identidad personal. Igualdad y diferencia entre las personas.  
-- La libertad y el determinismo. 
-- Emociones y sentimientos. La autoestima.  
-- La educación afectivo-sexual.  
-- Deseos y razones. La voluntad y el juicio moral. Autonomía y responsabilidad. Capacidades y 
-talento. La motivación. El esfuerzo y afán de supe ración. La responsabi lidad. El trabajo en 
-equipo. El deseo de colaboración. 
-- La ética como guía de nues tras acciones. El debate en t orno a lo valioso y a los valores. 
-Capacidad de expresar opinion es escuchando y respetando a los demás.  Las normas, las 
-virtudes y los sentimientos morales.  
-- La dimensión trascendente del ser humano. El hecho religioso o su ausencia. El sentido de la 
-vida y reflexión sobre la muerte. El bien y el mal. La  belleza y la felicidad.  La búsqueda de la 
-verdad; la mentira. La salud, la  enfermedad y la ética científica. Acercamiento a las raíces 
-morales de Occidente y de otras culturas. 
-- El propio proyecto personal: la diversidad de valo res, fines y modelos de vida. Independencia 
-de criterio en la toma de decisiones. Actitud positiva y capacidad de diálogo en la búsqueda de 
-soluciones a situaciones conflictivas. 
-- La influencia y el uso crít ico y responsable de los me dios y las redes de com unicación. La 
-prevención del abuso y el ciberacoso. El resp eto a la intimidad. Lo s límites a la libertad de 
-expresión. Las conductas adictivas. 
-B. Sociedad, justicia y 
-democracia 
-- Las virtudes del diálogo y las normas de la argumentación. La toma democrática de decisiones.  
-- Fundamentos de la vida en sociedad. La  empatía con los demás. Los afectos. La familia. La 
-amistad y el amor. El cuidado a las personas mayores. 
-- Las reglas de conviven cia. Moralidad, legali dad y conducta cívica. El papel de las fuerzas y 
-agentes de seguridad.  
-- Principios y valores constitu cionales y democráticos. El pro blema de la justicia. La toma 
-democrática de decisiones.  La Constitución española de 1 978. Derechos y deberes 
-reconocidos a los españoles. El ter rorismo. El Estado de Bie nestar. El respeto a los bienes 
-públicos. Los impuestos. 
-- El Estado de Derecho como garantía para la democracia y la libertad. 
-- Los derechos humanos y de la infancia y su relevancia ética.  
-- La desigualdad económica. La pobreza y la explotación. Espíritu de trabajo y colaboración. 
-- La igualdad entre mujeres y hombres. La prevención de los abusos y la violencia. Impulso de la 
-conducta no discriminatoria, igualitaria y libre. 
-- El respeto por las minorías y las identidades de diferentes culturas. Interculturalidad y 
-migraciones. Relación con los demás. Tolerancia. Aceptación del otro. Desarrollo de habilidades 
-sociales. El respeto a la li bertad individual. La libertad de pensami ento, de conciencia, de 
-religión, de opinión y de expresión.  La superación de los prejuicios sociales. 
-- La paz y no violencia. La contribución del Estado y su s instituciones a la paz, la seguridad y la 
-cooperación internacional. La seguridad del ciudadano. Valoración de la defensa como un 
-compromiso cívico y solidario al servicio de la paz. La protección civil y la colaboración ciudadana 
-frente a los desastres. El papel de las ONG y ONGD. La resolución pacífica de los conflictos. 
-C. Cuidado del medio 
-ambiente 
-- La empatía, el cuidado y el aprecio hacia los seres vivos y el medio natural. El maltrato animal 
-y su prevención. El respeto a los bienes de la naturaleza. El respeto y protección a los animales 
-en general y particularmente los que viven en entornos domésticos. 
-- La acción humana en la naturaleza. Ecosistemas y sociedades: interdependencia, relación entre 
-seres vivos y ecosistemas e interrelación.  
-- Los límites del planeta y el cambio climático.  
-- El deber y la obligación legal de proteger y cuidar del planeta.  
-- Hábitos y actividades p ara el logro de los Objetivos de Desarrollo So stenible. El consumo 
-adecuado. El uso del suelo, del aire, del agua y de la energía. La movilidad segura, saludable y 
-responsable con el medio ambiente. La prevención y la gestión de los residuos.  
-
-LUNES 18 DE JULIO DE 2022B.O.C.M. Núm. 169 Pág. 113
-BOCM-20220718-1
-BOLETÍN OFICIAL DE LA COMUNIDAD DE MADRIDBOCM
-Segunda Lengua Extranjera 
- 
-La Comunidad de Madrid , consciente de la importa ncia y el beneficio que supone para el alumnado el aprendiza je de diferentes 
-lenguas, incluye en el  currículo de la etapa  de Educación Primaria el  área Segunda Lengua Extranjera, cuya finalidad esencial e s 
-favorecer y ampliar las posibilidades comunicativas de los alumnos, así como contribuir al desarrollo de las habilidades para participar 
-en diversos entornos comunicativos. Esta área contribuye al desarrollo de la competencia clave «plurilingüismo», pues suma al inglés 
-el conocimiento de una segund a lengua extranjera, a elegir por los centros entre las opciones de alemán, francés, portugués o 
-italiano, en función de los recursos disponibles y con respeto a lo establecido en la normativa básica sobre especialidades del cuerpo 
-de maestros y requisitos de titulación para impartir docencia en centros privados. 
-El desarrollo de la competencia plurilingüe implica una serie de destrezas relacionadas con la capacida d de utilizar, en distin tas 
-formas y modos de comunicación, las diversas lenguas que se conocen, estableciendo conexiones y transferencias entre ellas. Por 
-ello, el profesor de esta  área procurará que se esta blezcan las inferencia s necesarias entre el castell ano, lengua vehicular de  las 
-enseñanzas que se imparten en la Comunidad de Madrid , el inglés y la leng ua en la que se imparta el  área Segunda lengua 
-extranjera.  Las actitudes, por su parte, permitirán valorar y respetar la diversidad de lenguas, y encaminarán un proceso formativo 
-que anime a continuar ampliando el conocimiento de otros idiomas a lo largo de la vida. 
-El currículo del área se organiza en torno al  desarrollo de las comp etencias específicas, cuya adquisició n debe adaptarse a la 
-madurez, desarrollo, intere ses y motivación del alumnad o. Será imprescindible asentar el aprendizaje en los repertorios y 
-experiencias del lenguaje personales de cada alumno, la participación en situaciones comunicativas sencillas y la reflexión sobre el 
-funcionamiento de las lenguas,  a través de actividades y estrateg ias comunicativas de comprensi ón, producción , interacción y 
-mediación. 
-Las capacidades de las competencias específicas se adquirirá n con la movilización de lo s contenidos del área. Los criterios de 
-evaluación asociados a las competencias específicas determinarán el nivel de consecución de las mismas.  
-En relación con los contenidos, se organizan en cuatro bloques. El bloque «Comunicación» abarca los contenidos necesarios para 
-el desarrollo de actividades comunicativas de comprensión, producción, interacción, mediación y búsqueda guiada de información. 
-El bloque «Plurilingüismo» integra los contenidos relacionados con el repertorio del lenguaje personal del alumno y la reflexión sobre 
-el funcionamiento de las lenguas.  El bloque «Diferentes culturas» agrupa los contenidos conectados con el aprecio, interés y respeto 
-por otras lenguas y su cultura. El último bloque incluye los «Contenidos sintácticos discursivos» de las diferentes lenguas: alemán, 
-francés, portugués e italiano. 
-Deberán proponerse situaciones de aprendizaje contextualizadas, significativas y relevantes que tengan en cuenta los intereses del 
-alumnado. 
-En conclusión, el aprendizaje de una segunda lengua extranjera debe ser un proceso que amplíe las posibilidades comunicativas 
-del alumnado y desarrolle la curiosidad por el conocimiento de otras realidades sociales y culturales. 
- 
-Descripción de las competencias específicas del área 
- 
-1. Adquirir estrategias que faciliten la comprensión  del sentido general e información concreta y previsib le de pequeños textos  
-sencillos, expresados de forma cla ra y en lengua estándar como medio para comunicar necesidades habituales y desarrollar el 
-repertorio del lenguaje personal. 
-En la etapa de la Educación Primaria, la comprensión es una habilidad comunicativa que debe desarrollarse a partir de textos breves 
-y sencillos, orales, escritos y multimodales, sobre temas cotidianos, de  importancia personal para el  alumnado y expresados de 
-forma clara. Para ello, los alumnos deberán adquirir estrategias que faciliten dicha comprensión y estén adaptadas a sus necesidades 
-y desarrollo evolutivo.  
-Entre las estrategias de comp rensión más útiles se encuentran el  lenguaje no verbal , las imágenes, la repetición o la relectura , 
-haciendo uso de la in formación contextual (elementos extrali ngüísticos) y cotextual (ele mentos lingüísticos) que permitan al 
-alumnado comprobar la hipótesis inicial acerca del sentido global del texto, así como plantear hipótesis alternativas si fuera necesario. 
-Asimismo, la búsqueda de información, en soportes tanto analógicos como digitales, constituye un método de gran utilidad para la 
-comprensión, pues pe rmite contrastar, validar y sustentar la  información. Los proce sos de comprensión requieren situaciones 
-basadas en el dialogo que favorezcan la construcción de un saber conjunto.  
-Esta competencia específica se relaciona con los siguientes descriptores del perfil de salida: CCL2, CCL3, CP1, CP2, STEM1, CD1, 
-CPSAA5, CCEC2. 
-2. Desarrollar la producció n oral, escrita y multimodal de textos breves, sencillos, comprensibles y estructurados sobre temas 
-cotidianos y de relevancia per sonal para el alumnado, utilizan do estrategias como la  planificación o la comp ensación a través d el 
-lenguaje verbal y no verbal. 
-Los procesos de producción engloban la expresión oral como la escrita y la multimodal y deben fomentar la creatividad, la libertad y 
-la claridad expositiva.  Su desarrollo debe dar luga r a la redacción y exposición de  textos breves, pequeñas descripciones o 
-
-LUNES 18 DE JULIO DE 2022Pág. 114 B.O.C.M. Núm. 169
-BOCM-20220718-1
-BOLETÍN OFICIAL DE LA COMUNIDAD DE MADRIDBOCM
-anécdotas sencillas, narracione s básicas de textos que expresen hechos y sentimientos cotidianos sobre temas de importancia 
-personal para el alumnado. Asimismo, se fomentará el uso de herramien tas digitales y analógicas y la búsqueda guiada de 
-información en internet como fuente de documentación.  
-En su formato multimodal, la pro ducción incluye el uso conjunto de di ferentes recursos para produc ir significado: la escritura,  la 
-imagen, el sonido, los gestos, etc. La destreza en las prod ucciones más formales en diferentes soportes no se adquiere de forma  
-natural, sino que es producto del proceso de aprendizaje. Las estrategias que permiten la mejora de la producción, tanto formal como 
-informal, en la Educa ción Primaria comprenden, entre otras, la planificación y la compensación a través del lenguaje verbal y n o 
-verbal. 
-Esta competencia específica correlaciona con los siguientes descriptores del perfil de sal ida: CCL1, CP1, CP2, STEM1, CD2, 
-CPSAA5, CE1, CCEC4. 
-3. Participar en intercambios comunicativos para expresar o responder a necesidades inmediatas en situaciones de interés para el 
-alumnado, mediante el uso  de expresiones habitua les, estrategias de colab oración mutua y recursos analógicos y digitales, 
-mostrando respeto por las normas de cortesía establecidas. 
-En esta etapa de la educación se espera que los intercambios de información sean breves y sencillos y aborden temas cotidianos, 
-predecibles y de importancia personal para el alumnado. Esta competencia específica es fundamental en el aprendizaje, pues incluye 
-estrategias de inicio, mantenimiento o conclusión de conversaciones básicas, así como estrategias elementales para indicar que no 
-se ha entendido el mensaje y solicitar su repetición . Además, la adquisición de las normas y principios que rigen la cortesía d el 
-lenguaje y la etiqueta digital fomentaran en el alumnado la responsabilidad y el respeto mutuo.  
-Esta competencia específica se con ecta con los siguientes descrip tores del perfil de salida : CCL5, CP1, CP2, STEM1, CPSAA3, 
-CC3, CE1. 
-4. Actuar como intermediario en contextos predecibles y cotidianos, para procesar y transmitir información básica y sencilla, utilizando 
-estrategias y conocimientos que faciliten la comunicación. 
-Durante los procesos de intermediación, el alumnado debe actuar, interceder y ayudar a construir o expresar mensajes no solo entre 
-lenguas distintas, sino también entre distintas modalidades o registros dentro de una misma lengua con diferentes interlocutores. El 
-alumnado deberá adquir ir estrategias que le pe rmitan lograr una comunicación  eficaz, que favorezca la participación y el respet o 
-entre todas las personas implicadas en el acto comunicativo.  
-En Educación Primaria, se debe fomentar la comprensión y la transmisión de información sencilla entre usuarios o a partir de textos 
-en formatos analógicos o digitales sobre asuntos cotidianos y de importancia personal, conocidos previamente por el alumnado.  
-Esta competencia específica conecta con los siguientes descriptores del perfil de salida: CCL5, CP1, CP2, CP3, STEM1, CPSAA1, 
-CPSAA3, CCEC1. 
-5. Reflexionar sobre el funcionamiento de las distintas lenguas, reconociendo, utilizando y enriqueciendo el repertorio del lenguaje 
-personal, usando los conocimientos previos y desarrollando las estrategias necesarias que faciliten la comunicación en situaciones 
-cotidianas. 
-En la Educación Primaria, el alumnado se inicia en el enfoque plurilingüe y en la reflexión sobre las lenguas. Es durante esta etapa 
-cuando empieza a establecer las conexiones entre las distintas lenguas de sus repertorios individuales, analizando sus semejanzas 
-y diferencias. Esta reflexión sobre las lenguas y su funcionamiento implica que el alumnado entienda sus relaciones, tome conciencia 
-de sus conocimientos y estrategias e identifique sus fortalezas y carencias en el terreno del lenguaje y de la comunicación.  
-Asimismo, el aprendizaje de distintas lenguas fomenta valores positivos de respeto y aprecio hacia la diversidad de las lenguas del 
-entorno. De igual manera, el uso de los dispositivos y herramientas tanto analógicas como digitales facilitan la ampliación de nuevos 
-contenidos sobre el repertorio lingüístico personal y mejora el aprendizaje de otras lenguas.  
-Esta competencia específica se conecta con los siguientes descriptores del perfil de salida: CP2, STEM1, CD2, CPSAA1, 
-CPSAA5. 
-6. Identificar las diferencias y seme janzas entre las di ferentes lenguas, valor ando y respetando su diversidad como medio para 
-gestionar situaciones interculturales. 
-La conciencia de diversas lenguas proporciona al alumnado la posibilidad de relacionar distintas culturas. Además, sienta las bases 
-para el desarrollo de una sensibilidad artística y cultural, y la capacidad de identificar y utilizar una gran variedad de estrategias que 
-le permitan establecer rel aciones con personas de otras culturas. Estas situacione s permiten al alumnado abrirse a nuevas 
-experiencias, ideas, sociedades y culturas, mostran do interés por comprend er elementos culturales y comunicativos básicos que 
-fomenten valores como la convivencia, el respeto por los demás y el cuidado del medio ambiente.  
-Esta competencia específica se relaciona con los siguientes descriptores del perfil de salida: CCL5, CP3, CPSAA1, CPSAA3, CC3, 
-CCEC1. 
- 
-
-LUNES 18 DE JULIO DE 2022B.O.C.M. Núm. 169 Pág. 115
-BOCM-20220718-1
-BOLETÍN OFICIAL DE LA COMUNIDAD DE MADRIDBOCM
-COMPETENCIAS ESPECÍFICAS CRITERIOS DE EVALUACIÓN 
-1. Adquirir estrategias que faciliten la comprensión 
-del sentido general e información concreta y 
-previsible de pequeños textos sencillos, 
-expresados de forma clara y en lengua estándar 
-como medio para comunicar necesidades 
-habituales y desarrollar el repertorio del lenguaje 
-personal. 
-1.1 Comprender e interpretar el sentido global, así como palabras de uso 
-frecuente y frases previamente indicadas en textos orales, escritos y 
-multimodales breves y sencillos sob re temas habituales, de 
-relevancia personal y próximos a su experiencia, adecuados al nivel 
-de desarrollo del al umnado, expresados de manera comprensible, 
-clara y en lengua está ndar a través de disti ntos soportes, incluidos 
-los audiovisuales e informáticos. 
-1.2 Aplicar de forma guiada estrategias adecuadas para captar el sentido 
-global y procesar informaciones explícitas en textos breves y sencillos 
-sobre temas familiares, en situaciones comunicativas cotidianas y de 
-relevancia para el alumnado. 
-2.  Desarrollar la producción oral, escrita y 
-multimodal de textos breves, sencillos, 
-comprensibles y estructurados sobre temas 
-cotidianos y de relevancia personal para el 
-alumnado, utilizando estrategias como la 
-planificación o la compensación a través del 
-lenguaje verbal y no verbal. 
-2.1 Atender al ritmo, la acentuación y la entonación durante la expresión 
-oral de frases cortas con información básica sobre asuntos cotidianos 
-y de relevancia para el alumnado, utilizando de forma guiada recursos 
-verbales y no verbales. 
-2.2 Producir textos muy breves y sencillos, adecuados a la situación 
-comunicativa propuesta, a partir de modelos y a través de 
-herramientas analógica s y digitales, us ando estructuras y léxico 
-elemental sobre asuntos cotidianos y de relevancia personal para el 
-alumnado. 
-2.3 Utilizar de forma guia da estrategias que fac iliten la producción de 
-mensajes breves y sencillos adecuados a las intenciones 
-comunicativas usando, con ayuda, recursos y apoyos físicos o 
-digitales en función de las necesidades de cada momento. 
-3. Participar en intercambios comunicativos para 
-expresar o responder a necesidades inmediatas 
-en situaciones de interés para el alumnado, 
-mediante el uso de expresiones habituales, 
-estrategias de colaboración mutua y recursos 
-analógicos y digitales, mostrando respeto por las 
-normas de cortesía establecidas. 
-3.1 Participar en situaciones interactivas breves y sencillas sobre temas 
-cotidianos, de relevanc ia personal y próxima a su experiencia, 
-preparadas previamente, a través de diversos soportes, apoyándose 
-en recursos tales como la repetición, el ritmo pausado o el lenguaje 
-no verbal, y mostrando respeto por la cortesía  del lenguaje y la 
-etiqueta digital. 
-3.2 Seleccionar y utilizar, de forma guiada y en  situaciones cotidianas, 
-estrategias elementale s para saludar, des pedirse y presentarse; 
-expresar mensajes breves; y formular y contestar preguntas sencillas. 
-4. Actuar como intermediario en contextos 
-predecibles y cotidianos, para procesar y 
-transmitir información básica y sencilla, 
-utilizando estrategias y conocimientos que 
-faciliten la comunicación. 
-4.1 Mostrar empatía e interés po r los interlocutores y por los problemas 
-de entendimiento en  su entorno más próximo , apoyándose en 
-diversos recursos y sop ortes para interpreta r y explicar textos, 
-conceptos y comunicaciones breves y sencillas, de forma guiada, en 
-situaciones en las que atender a la diversidad. 
-4.2 Adquirir estrategias elementales que ayuden a crear puentes y 
-faciliten la comprensi ón y producción de información y la 
-comunicación, usand o, con ayuda, recur sos y apoyos fís icos o 
-digitales en función de las necesidades de cada momento. 
- 
-
-LUNES 18 DE JULIO DE 2022Pág. 116 B.O.C.M. Núm. 169
-BOCM-20220718-1
-BOLETÍN OFICIAL DE LA COMUNIDAD DE MADRIDBOCM
-COMPETENCIAS ESPECÍFICAS CRITERIOS DE EVALUACIÓN 
-5. Reflexionar sobre el funcionamiento de las 
-distintas lenguas, reconociendo, utilizando y 
-enriqueciendo los repertorios del lenguaje 
-personal, usando los conocimientos previos y 
-desarrollando las estrategias necesarias que 
-faciliten la comunicación en situaciones 
-cotidianas. 
-5.1 Desarrollar destrezas perso nales que ayuden a enfrentarse al 
-aprendizaje de otra leng ua, fomentando la confia nza en las propias 
-posibilidades, aceptando el er ror como parte del proceso de 
-aprendizaje y adaptánd ose ante situaciones de incertidumbre, para 
-disfrutar en el aprendizaje de una segunda lengua. 
-5.2 Analizar las similitude s y diferencias en tre distintas lenguas 
-reflexionando, de forma gu iada, sobre aspectos básicos de su 
-funcionamiento. 
-5.3 Utilizar y diferenciar, de forma guiada, los conocimientos y estrategias 
-de mejora de su capacidad de comunicar y de aprender una segunda 
-extranjera, con apoyo de otros participantes y de soportes analógicos 
-y digitales. 
-5.4 Registrar y aplicar, de manera guiada, los avances y dificultades 
-elementales del aprendizaje de la lengua extranjera, reconociendo los 
-aspectos que ayudan a mejorar, participando en actividades de 
-autoevaluación y eva luación, como las propu estas en el Portfol io 
-Europeo de las Lenguas (PEL). 
-6. Identificar las diferencias y semejanzas entre las 
-diferentes lenguas, valorando y respetando su 
-diversidad como medio para gestionar 
-situaciones interculturales. 
-6.1 Mostrar respeto en diversas situaciones, identificando y comparando 
-semejanzas y diferencias  elementales entre le nguas y culturas en 
-diferentes contextos comunicativos cotidianos y habituales. 
-6.2 Reconocer y apreciar la  diversidad de pa íses donde se habla la 
-segunda lengua extranjera como fuente de enriquecimiento personal, 
-mostrando interés por compre nder elementos culturales y del 
-lenguaje elemental y habitual que fomenten el respeto por los demás. 
-6.3 Reconocer y aplicar estrategias básicas para entender y apreciar los 
-aspectos más relevantes de la diversidad del lenguaje, de la cultura 
-y del arte.  
- 
-CONTENIDOS 
-BLOQUES CONOCIMIENTOS, DESTREZAS Y ACTITUDES 
-A. Comunicación 
-- El error como parte integrante del proceso y como instrumento de mejora. Confianza 
-y reflexión sobre el aprendizaje, las propias posibilidades y la prioridad de la intención 
-comunicativa. 
-- Estrategias básicas de uso común  (contexto visual, conocimien to previo del tema, 
-identificación de información básica, deducción del significado de palabras y frases 
-nuevas por el contexto…)  para la comprensión y la  producción de textos orales, 
-escritos y multimodales breves, sencillos y contextualizados. 
-- Conocimientos, destreza s y actitudes elementales que permiten iniciarse en 
-actividades de comunicación en situaciones cotidianas básicas, en las que se utilicen 
-gradualmente estrategias que ayuden a resolver conflictos, mejorar la comunicación 
-o servir de enlace entre varios interlocutores en la misma o en diferentes lenguas, 
-crear relaciones y llegar a acuerdos, fomentando actitudes de colaboración mutua.  
-- Funciones comunicativas básicas de uso común adecuadas al ámbito y al contexto: 
-saludar, despedirse, presentar y presentarse; describir personas, objetos y lugares; 
-pedir e intercambiar inform ación sobre cuestion es cotidianas; describir ru tinas; dar 
-indicaciones e instrucciones; expresar el tiempo, la cantidad y el espacio.  
-- Modelos contextuales y géne ros discursivos básicos de uso común en la 
-comprensión, producción y coproducción de textos ora les, escritos y multimodales, 
-breves y sencillos, literarios y no liter arios, tales como cuentos, leyendas, artículos, 
-noticias, cartas, emails, foll etos, instrucciones, no rmas, avisos o conversaciones 
-reguladoras de la convivencia. 
-
-LUNES 18 DE JULIO DE 2022B.O.C.M. Núm. 169 Pág. 117
-BOCM-20220718-1
-BOLETÍN OFICIAL DE LA COMUNIDAD DE MADRIDBOCM
-- Unidades lingüísticas básicas de  uso común y signific ados asociados a dichas 
-estructuras, tales como exp resión de la entidad y sus propiedades, cantidad y 
-número, espacio y las rel aciones espaciales, afirmación, exclamación, negación, 
-interrogación.  
-- Léxico elemental, de alta fr ecuencia y de interés pa ra el alumnado relativ o a 
-situaciones cotidianas, temas habituales, relaciones personales próximas (familiares, 
-de amistad, escolares…) vivie nda, lugares y entornos cercanos, aplicando los 
-conocimientos adquiridos sobre los mismos a una comprensión adecuada del texto. 
-- Patrones sonoros, acentuales y de  entonación básic os de uso común, y funciones 
-comunicativas genera les asociadas a dichos patrones. Aspectos fonológicos: 
-sonidos, ritmo, entonación y acentuación de palabras en frases de uso frecuente en 
-el aula, a través de rimas, retahílas, trabalenguas, ca nciones, adivinanzas…  
-acompañados de gestos y mímica. Lectura, deletreo y reconocimiento de palabras 
-que comparten un patrón común, palabras que rimen y fonemas finales. 
-- Convenciones ortográficas básicas de uso común y significa dos asociados a los 
-formatos y elementos gráficos.  
-- Convenciones y estrategias con versacionales básicas verbales o no verbales 
-(gestos, contacto físico…) de uso común, en formato síncrono (cara a cara, teléfono, 
-videollamada.)  o asíncrono en las que se es tablece contacto social, para iniciar, 
-mantener y terminar la comun icación, tomar y ceder la  palabra, pedir y dar 
-indicaciones.  
-- Recursos para el aprendiza je y estrategias elementales de búsqueda guiada de 
-información en medio s analógicos y digitales (filtrar resultados, elegir los términos 
-precisos y utilizar la búsqueda avanzada, completar y contrastar los datos, valorar y 
-seleccionar la información...). 
-- Herramientas analógicas y di gitales básicas de uso común  para la comprensión, 
-producción y coproducción ora l, escrita y multimodal; y plataformas virtuales de 
-interacción y colaboración educativa. 
-B. Plurilingüismo 
-- Estrategias y técnicas de compensación de las carencias comunicativas (petición de 
-repetición, aclaración o discurso más lento, descr ipciones, utilización de 
-comunicación no verbal: gestos, dibujos…) para responder a una necesidad 
-elemental, a pe sar de las limitaciones derivadas del ni vel de competencia en la 
-lengua extranjera y en las lenguas familiares.  
-- Estrategias básicas de uso común para identificar, retener, recupera r y utilizar 
-unidades del lengua je (léxico, morfosintax is, patrones sonoros, etc.) us o de 
-imágenes visuales, diagramas, fichas de vocabulario, mapas semánticos, 
-diccionarios personales, a partir de su repertorio lingüístico.  
-- Iniciación al uso de estrategias y herramientas básicas de uso común de evaluación, 
-analógicas y digitales, individuales y grupales. Rúbricas, diarios de clase, porfolios, 
-escalas de estimación, bloc de autoevaluación, listas de cotejo... 
-- Léxico y expresiones ele mentales para comprender enunciados sobre la 
-comunicación, la leng ua y el aprendiz aje (metalenguaje). La ens eñanza de 
-estrategias metalingüísticas de inferencia a partir de  las pistas contextuales, tales 
-como el tema general; otras palabras del discurso  (redundancias, anáforas, 
-paralelismos); la estructura gramatical; la morfología (análisis de los prefijos, sufijos, 
-composición, etc.); la entonación (habla) y la puntuación (escritura). 
-C. Diferentes culturas 
-- La segunda lengua extranjera como medio de comunicación y relación con personas de 
-otros países, como medio para conocer culturas y modos de vida diferentes. Comprensión 
-de mensajes emitidos por hablantes de otras lenguas, con distintos acentos.  
-- Interés en la partici pación en intercamb ios comunicativos plan ificados, a través de 
-diferentes medios (soporte papel o medios digitales), con estudiantes de la segunda 
-lengua extranjera. Valoració n del enriquecimiento  personal que supone la relación 
-con personas de otras culturas. 
-- Iniciación a patrones culturales elementales propios de la segunda lengua extranjera.  
-Fórmulas de cortesía adecuadas en los intercambios sociales. 
-
-LUNES 18 DE JULIO DE 2022Pág. 118 B.O.C.M. Núm. 169
-BOCM-20220718-1
-BOLETÍN OFICIAL DE LA COMUNIDAD DE MADRIDBOCM
-- Aspectos de la lengua, de la cultura y de la sociedad elementales, relativos a las 
-costumbres, la vida cotidiana y las relaciones inter personales básicas en países 
-donde se habla esta segunda lengua extranjera. 
-- Estrategias básicas de uso comú n para entender y apreci ar la diversidad del 
-lenguaje, de la cultura y del arte.   
-D. Contenidos 
-sintáctico- 
-discursivos  
-Francés 
-- Expresión de relaciones lógicas: conjunción (et); disyunción ( ou); oposición (mais); 
-causa (parce que); finalidad (pour + Inf.); comparación (aussi/plus/moins que). 
-- Relaciones temporales (quand, d ´abord, ensuite, après). 
-- Exclamación (ortografía, curva entonativa). 
-- Negación (ne...pas, ne...jamais). 
-- Interrogación: ortografía; curva en tonativa; mots interrogatifs (qu ´est- ce que, qui, 
-quand, comment, pourquoi, combien de, où, comment, est- ce que); réponse: oui, 
-non. 
-- Expresión del tiempo: presente; pasado (passé composé, passé récent: venir de + 
-Inf.); futuro: futur proche (aller + Inf.). 
-- Expresión del aspecto: puntual (phrases simples); durativo (être en train de + Inf.). 
-- Expresión de la modalidad: factualidad ( phrases déclaratives); capa cidad (pouvoir, 
-ne pas pouvoir); po sibilidad/propabilidad (( ne pas) pouvoir, peut- être); necesidad 
-(avoir besoin de qqch., avoir besoin de + Inf.); obligación / prohibición (on doit/on ne 
-peut pas + Inf.); permiso (est-ce quon peut? Je peux?); intención/deseo (futur proche, 
-verbe vouloir). 
-- Expresión de la existencia (p resentativos (cest, ce sont), il y a); la entidad (articles 
-(un, une, des; le, la, l, les), noms, pronoms sujets, pronoms ton iques, adjectifs 
-démonstratifs; la cuali dad ((très +) Adj.); la pos esión (cest à / ce sont à + pron. 
-tóniques)). 
-- Expresión de la cantidad: (sing ulier/pluriel; numéros cardinaux jusqu´à 100; articles 
-partitifs (du, de la, de l´, des); empleo de «de» en oraciones negativas (ex: je n´ai pas 
-de pain); Adv. de cantidad y medidas: tout(-e), tous, beaucoup, (un) peu de, la moitié 
-de, une bouteille/un verre/une pièce/une assiette de; le degr é: très, beaucoup, trop, 
-assez. 
-- Expresión del espacio (prépositions et adverbes de  lieu, position, distance, 
-mouvement, direction, provenance, destination). 
-- Expresión del tiempo: puntual (jours de la semaine, en + mois de lannée, au mois de, 
-en / au + saisons, la date); indicaciones de tiempo (maintenant, après, aujourd ´hui, 
-demain, tôt, tard); du ración (pendant + expressi on de temps); anterior idad (avant); 
-posterioridad (après); secuenci ación (d´abord, ensui te); simultaneidad (quand); 
-frecuencia (le(s) + jour de la semaine). 
-- Expresión del modo: adverbes de manière ((très) bien, mal; avec + nom). 
-Alemán 
-- Expresión de relaciones lógicas: conjunció n (und); disyunción  (oder); oposición 
-(aber); causa (weil ); finalidad (um- Infinitiv, z. b. Ich habe es gemacht um ihr zu 
-helfen); comparación (so Adj. wie; kleiner (als); der größte)  
-- Relaciones temporales (wenn; bevor; nachdem).  
-- Afirmación (affirmativen Sätzen; Ja (+affirmative Zeichen) 
-- Exclamación (Welch + Nomen, z. b. Welch unerwartete Üb erraschung!; Wie + Adj., 
-z. b. Wie gut!; Ausrufe Sätzen, e.g. Das ist teuer! ). 
-- Negación (negative Sätze mit  nicht, nie, nicht (Adjektiv), ni emand, nichts; Nein (+ 
-negative Zeichen)  
-- Interrogación (Fragesätze und einfache Fragewörter) 
-- Expresión del tiempo: pasado (Perfekt, Präteritum); presente (Präsens); futuro 
-(werden).  
-
-LUNES 18 DE JULIO DE 2022B.O.C.M. Núm. 169 Pág. 119
-BOCM-20220718-1
-BOLETÍN OFICIAL DE LA COMUNIDAD DE MADRIDBOCM
-- Expresión del aspecto: puntual (Perfekt); durativo (Präsens und Präteritum); habitual 
-(+ Adv, z. b. immer, jeden Ta g); incoativo (beginnen zu –en); terminativo (aufhören 
-zu –en). 
-- Expresión de la modalidad : factualidad (Aussa gesätzen); capaci dad (mögen); 
-posibilidad ( können); necesidad (sollen; müsse n); obligación (müssen; Imperativ); 
-permiso (können; dürfen); intención (werden -en; wollen). - Expresión de la existencia 
-(es gibt); la entidad (Nomen und Pronomen, Artikelwört er, Demonstrativartikeln); la 
-cualidad ((sehr+) Adj).  
-- Expresión de la cantidad (Singu lar/ Plural; Kardinalzah len bis auf vier Ziffern; 
-Ordinalzahlen bis auf hundertster. Quantität: alle, viele, manche, einige, mancherlei, 
-ein bißchen, mehr, ein halber, eine Flasche/ Tasse /ein Glas/Stück von. Grad: sehr, 
-zu viel, genüg).  
-- Expresión del espacio (Lo kale Präpositionen und Ad verbien Bereich, Gegenseite, 
-Lage, Nähe, Punkt). 
-- Expresión del tiempo (Stundenzählung (z. b. viertel vor acht); Stunde nteilung und 
-Jahrezeiten (z. b. Viertelstu nde, Sommer), und Ausdr uck von Zeit (z. b. nun, jetz, 
-morgen); Dauer (z. b. während drei Jahren); Vorzeitigkeit (vor); Nachzeitigkeit (nach); 
-Aufeinanderfolge (Vorher, Davor); Gleichzeitigkeit (zur selben Zeit); Häufigkeit (z. b. 
-manchmal, am Sonntags). 
-- Expresión del modo (Modaladverbien, z. b. langsam, gut). 
-Italiano 
-- Expresión de relaciones ló gicas: conjunción (e); disyunci ón (o); oposición (ma); 
-causa (perché); finalidad (per/a + Inf.); condición (se); comparación (più (di); come; il 
-più grande).  
-- Relaciones temporales (quando, prima, dopo). 
-- Interrogación (totali; parziali introdotte da come, dove, quan do, perché, quanto, chi, 
-che, cosa, che cosa, quale). 
-- Afirmación (proforma sì, frasi dichiarative affermative).  
-- Negación (proforma no, frasi dichiarative negative con non, mai, niente, nessuno/a). 
-- Exclamación ((che) + agg., p.es. Che bello!; V, p.es. Guarda!). 
-- Expresión del tiempo: presente (presente); pasado (imperfetto e perfetto composto); 
-futuro (presente e futuro).  
-- Expresión del aspecto: pun tual (v. puntuali, p.es. pa rtire); durativo (presente e 
-imperfetto; stare + gerundio; con tinuare a + Inf.); habitual (presente e imperfetto (+ 
-avv. p.es. sempre); incoativo (cominciare a/iniziare a +Inf.); terminativo (finire di+Inf.; 
-perfetto composto). 
-- Expresión de la modalidad : factualidad (frasi dichiarative affermative e negative); 
-capacidad ((non) potere; (non) sap ere); posibilidad (prese nte potere; forse (+ 
-presente e futuro)); necesi dad (presente dovere; avere  bisogno di + N / Inf.); 
-obligación (presente dov ere; imperativo); intención  (presente e condizionale 
-semplice di verbi volitivi + N / Inf.; futuro; pensare di +Inf.). 
-- Expresión de la existencia (cè; ecco); la entidad (nomi, pronomi, articoli e 
-dimostrativi); la cualidad (molto + agg.; –issimo/a). 
-- Expresión de la cantidad (numero: singolare/plurale; numerali cardinali fino a quattro 
-cifre e ordinali fino a due cifre. Quantità: tutto, molto, poco, troppo, tanto, un po(di), 
-nessuno/a, alcuni/e, niente, qualco sa, qualche, più, meno, solo, una tazza/un 
-bicchiere/ una bottiglia/un pezzo di... Grado: poco, molto, troppo).  
-- Expresión del espacio (preposizioni, avv. ed espressioni che indicano luogo, 
-posizione, distanza, movimento, direzione, origine e disposizione. 
-- Expresión del tiempo (lora (p. es. le tre e mezza); divisione (p. es il lunedi, a febbraio) 
-e collocazione nel tempo (p. es. ora, ieri, domani); durata (p. es. per due giorni); 
-anteriorità (prima); posteriorità (dopo); contemporaneità (quando, durante); sequenza 
-(prima… poi ... dopo); intermittenza (qualche volta); frequenza (p.es. di solito, mai). 
-- Expresión del modo (avverbi di modo, p.es. lentamente, bene). 
-
-LUNES 18 DE JULIO DE 2022Pág. 120 B.O.C.M. Núm. 169
-BOCM-20220718-1
-BOLETÍN OFICIAL DE LA COMUNIDAD DE MADRIDBOCM
-Portugués 
-- Expresión de relaciones lógicas: conjunción (e); disyunción (ou); oposición (mas); 
-causa (porque); finalidad (para + Inf.); comparación  (mais/ menos (do) que; maior; 
-grau do Adj. e do Adv.).  
-- Relaciones temporales (quando; antes/ depois de + Inf.).  
-- Afirmación (sentenças declarativas afirmativas; Sim + frase (p. e. Sim, tenho três.).  
-- Interrogación (quem; (o) que; qual; onde; de quem; quanto; como; porquê). 
-- Negación (frases decla rativas negativas; Não (+ Verbo conjugado  do enunciado 
-anterior); nenhum; ninguém; nada). 
-- Exclamación: frases exclamativas (Que gelado tão bom! Tantos carros!). 
-- Expresión del tiempo: pasado (pre térito imperfeito e perfeito); presente (presente); 
-futuro (ir + Inf.; futuro do presente).  
-- Expresión del aspecto: puntual (verbos não durativos, p. e. nascer; perfeito); durativo 
-(estar + gerúndio); habi tual (presente do in dicativo (+ Adv., p. e. sempre; 
-geralmente); incoativo (començar a + Inf.); terminativo (deixar de + Inf.). 
-- Expresión de la modalidad: factualidad (sentenças declarativas); capacidad (posso; 
-pode; é capaz de); posi bilidad (podia); necesid ad (precisar (de); necessitar); 
-obligación (ter de/que; dever + Inf.); permiso (posso; po de); intención (quero; tenho 
-de; gostava). 
-- Expresión de la existenci a (ter/ haver); la e ntidad (substantivos; pronomes; artigos; 
-demonstrativos); la cualidad ((muito +) Adj.).  
-- Expresión de la cantidad (Singu lar/plural; Numerais até quatro dígitos, ordinais até 
-dois dígitos. Quantidade: muito(s); pouco(s); tudo. Grado: muito; tão). 
-- Expresión del espacio (expressões, preposições e locuções prepositivas de lugar e 
-de movimento).  
-- Expresión del tiempo (expressões, preposiçõe s e locuções de tempo (horas (p. e. 
-dez menos um quarto), d ivisões (p. e. meia hora; verão) e indicações (p. e. agora; 
-amanhâ) de tempo; duração (p. e. dura nte dois dias); anterioridade (antes); 
-posterioridade (depois); seqü ência (primeiro em segui da); simultaneidade (ao 
-mesmo tempo); freqüência (p. e. às vezes; aos domingos). 
-- Expresión del modo (express ões, preposições e locuç ões prepositivas de modo; 
-bem; mal; assim). 
- 
-
-LUNES 18 DE JULIO DE 2022B.O.C.M. Núm. 169 Pág. 121
-BOCM-20220718-1
-BOLETÍN OFICIAL DE LA COMUNIDAD DE MADRIDBOCM
-Tecnología y Robótica 
- 
-La Comunidad de Madrid  incorpora al currículo de la etapa el áre a de Tecnología y Robótica con la finalidad de re sponder a las 
-necesidades de una sociedad en pleno desarro llo tecnológico, aproximar a las nuevas generaciones,  nacidas y crecidas como 
-nativos digitales, a la rob ótica, en general, y al con ocimiento de ámbitos íntimamente ligados a el la (electricidad, mecánica y  
-pensamiento computacional), así como el acercamiento a otras disciplinas como la inteligencia artificial, el internet de las cosas y la 
-realidad virtual o aumentada.  
-Las competencias específicas del área se encuentran ligadas principalmente a la ciencia, la tecnología, la ingeniería, las artes y las 
-matemáticas, las llamadas disciplinas STEAM. El desarrollo de estas competencias permitirá que el alumnado adquiera capacidad 
-de reflexión, optimice la resolución de problemas y trabaje en equipo para generar proyectos tecnológicos que impulsen la autonomía, 
-la creatividad y el aprendizaje individual como grupal, básicos para su futuro profesional.  
-El currículo del área se ordena en torn o a seis competencias específicas. Su adquisición gradual deberá respetar los procesos 
-individuales de maduración del alumnado. Las tres primeras competencias se orientan a la resolución de problemas a través de la  
-robótica educativa en general, y persiguen desarrollar en los alumnos el pensamiento computacional, la mecánica y la electricidad; 
-además de la conexión de dispositivos a internet. En consonancia con ella s, la cuarta competencia específica pretende que el 
-alumnado conozca las posibilidades de la inteligencia artificial y su importancia en el desarrollo de diferentes procesos tecnológicos. 
-La quinta, por su pa rte, promueve el uso re sponsable de las tecnologías digitales y la adquisición de estrategias que faciliten  la 
-búsqueda de información de forma sel ectiva, segura y eficaz. Por último , la sexta competencia se vincula  con la realidad virtua l o 
-aumentada y se orienta a la consecución de una enseñanza-aprendizaje más interactiva y enriquecedora. 
-Para determinar el grado de ad quisición de las competencias específicas del área, se establecen los cri terios de evaluación, qu e 
-tendrán en cuenta el proceso de  elaboración de productos finales, la  resolución de problemas, el desarrol lo de proyectos, la 
-implementación de sistema s eléctricos, mecánicos, pro gramables, la construcción de prototipos, el dise ño y la comunicación de 
-ideas. 
-Los contenidos se dividen en  seis bloques: «Pensamiento compu tacional», «Mecánica-Ingeniería  (Diseño)», «Electricidad», 
-«Inteligencia artificial», «Internet de las cosas» y «Realidad virtual o aumentada».  
-En conclusión, el áre a pretende ofrecer una visión de la Tecnología y la Robótica, promovien do situaciones de aprendizaje que 
-fomenten la participación del alumnado, inspirar soluciones a problemas reales pla nteados a través de la  tecnología, fomentar e l 
-espíritu científico, y promover los usos saludables que requiere esta disciplina y la tecnología en su conjunto. 
- 
-Descripción de las competencias específicas del área 
- 
-1. Utilizar el pensamiento computacional para la resolución de problemas, generando un producto creativo y original que responda 
-a cada uno de los retos planteados o generados a través de la observación del entorno. 
-Esta competencia hace referen cia a la aplicación de los pri ncipios del pensamiento computacional en el proceso de diseño, 
-simulación o creación de sistemas capaces de realizar funciones de forma autónoma.  
-A lo largo de la historia, la sociedad se ha visto obligada a realizar tareas para poder sobrevivir. Con el tiempo y el desarro llo de la 
-tecnología, estas tareas se han mecanizado para mejorar la productividad. La tecnología, y la programación en particular, suponen 
-la adaptación de la s máquinas a las neces idades del hombre generan do procesos automáticos que mej oran los resultados de la 
-producción y mejoran la calidad de vida de las personas. De igual manera, los rápidos cambios de las sociedades actuales requieren 
-que la tecnología se adapte y actualice constantemente. 
-Con la programación y la re solución de problemas en el ámbito de la informática se d esarrolla el pensamiento computacional, un 
-pensamiento universal, que favorece la resolución de problemas mediante la aplicación de conce ptos informáticos. Esto implica 
-actuaciones dirigidas a conocer lo s elementos básicos de la  programación por bloques (movimiento, apariencia, sonido, eventos, 
-mensajes, control, bucles, con dicionantes, sensores, operadores, variables, listas, bloques propios, controladores de aparatos 
-externos…). 
-Esta competencia específica se relaciona con los siguientes descriptores del perfil de salida: CCL1, CP1, STEM1, STEM2, STEM3, 
-STEM4, STEM5, CD1, CD2, CD3, CD4, CD5, CPSAA3, CPSAA4, CPSAA5, CC3, CE1, CE3. 
-2. Resolver problemas plan teados aplicando los conocimientos de mecánica, electricid ad, diseño y programaci ón, desarrollando 
-soluciones automatizadas, diseñando o construyendo sistemas de control programables y/o robóticos adecuados a su nivel. 
-El término tecnología proviene del vocablo griego Téchne (técnica o arte), y se define como la capacidad para realizar un producto 
-determinado. La técnica y el arte conllevan pensamiento, refle xión, creatividad, diseño, planificación, habilidades, procedimientos, 
-expresión y valoración de todo el proceso. 
-Esta competencia hace referencia a los procesos de  diseño, construcción manual o fabricación mecánica de prototipos, utilizando 
-recursos mecánicos y electrónicos, así como máquinas de corte o fabricación 3D. De igual manera, incluye la programación de los 
-
-LUNES 18 DE JULIO DE 2022Pág. 122 B.O.C.M. Núm. 169
-BOCM-20220718-1
-BOLETÍN OFICIAL DE LA COMUNIDAD DE MADRIDBOCM
-artefactos y prototipos para el  desarrollo automatizado. Se requieren habilidades y de strezas relacionadas con el uso de las 
-herramientas y máquinas, así como actitudes de motivación e interés por el trabajo y la calidad del mismo. 
-Por lo tanto, la adqui sición de esta competencia se concreta en la realización de  un producto final a pa rtir de los conocimient os 
-adquiridos y su posterior presentación, ya sea con elementos gráficos o mediante exposición oral. En todo momento se deben aplicar 
-normas de seguridad con materiales y máquinas que eviten posibles riesgos para el alumnado. 
-La competencia descrita se vin cula con los siguientes descriptores del perfil de salida: CC L1, STEM1, STEM2, STEM3, STEM4, 
-STEM5, CD1, CD2, CD3, CD4, CD5, CPSAA2, CPSAA4, CPSAA5, CE1, CE3. 
-3. Observar, comprender e interpretar las distintas situaciones del entorno para identificar problemas y buscar soluciones, actuando 
-de manera individual y en grupo en su resolución, poniendo en práctica la interconexión digital de dispositivos con internet. 
-El concepto «Internet de las cosas» (IoT), se refiere al proceso que permite conectar elementos físicos cotidianos a internet: objetos 
-y dispositivos conectado s, es decir, «cosas» que están equipadas con sen sores, software y otras tecnologías que les permiten 
-transmitir y recibir datos. 
-Dicho proceso, tiene cuatro etapas clave: capturar los datos a través de sensores, compartir los datos usando las conexiones de red 
-disponibles, procesar los datos mediante un software específico y actuar a partir de los datos acumulados de todos los dispositivos 
-de una red de IoT. 
-La relevancia de esta competencia  está marcada por su capaci dad para facilitar la observación, comprensión e interpretación de 
-nuestro entorno y para intentar hacerlo cada día mejor. Tras su consecución, el alumnado adquiere las habilidades necesarias para 
-utilizar diferentes sensores y dispositivos, solucionar problemas observados y actuar de manera grupal; para ello seguirá los procesos 
-de definición, ideación, prototipado y testeo. 
-Esta competencia especifica correla ciona con los siguientes descriptores del perfil de sal ida: STEM1, STEM2, STEM3, STEM4, 
-STEM5, CD1, CD2, CD3, CD4, CD5, CPSAA4, CPSAA5, CC3, CE1, CE3. 
-4. Conocer y valorar las posi bilidades que tiene la inteligencia artificial para  actuar con las máquinas  o sistemas de manera q ue 
-faciliten el trabajo y lo mejoren gradualmente. 
-La inteligencia artificial se concibe como un conjunto de tecnologías que se combinan para que los dispositivos o máquinas puedan 
-percibir, analizar datos y actuar autónomamente. 
-La inteligencia artificial (IA) tiene la capacidad de desarrollar prácticas de enseñanza y aprendizaje innovadoras y motivadoras para 
-el alumnado. 
-Se considera esta competencia como el punto de inicio en el uso de las tecnologías emergentes con inteligencia artificial (IA) y big 
-data, su incorporación en la automatización de procesos en sistemas tecnológicos de distintos tipos, debe tener un sentido de buen 
-uso. 
-El desarrollo de esta competencia permitirá al alumnado identificar la presencia de la IA en su entorno cercano, (asistentes virtuales, 
-aplicaciones, aparatos domésticos, procesadores de datos…) y le proporcionará los recursos y conocimientos necesarios para utilizar 
-esta tecnología integrando programaciones en robots o sistemas que les permitan actuar de forma autómata. 
-Se vincula esta competencia  con los siguientes descri ptores del perfil de salida: CP1, STEM1, STEM2, STEM3, STEM4, STEM5, 
-CD1, CD2, CD3, CD4, CD5, CPSAA4, CPSAA5, CC3, CE1, CE3. 
-5. Manejar los dispositivos y herramientas de forma segura y responsable para trabajar de forma individual o conjunta de acuerdo a 
-las necesidades del contexto educativo. 
-La tecnología y el acceso a internet se han convertido en los medios de comunicación, de interacción y de acceso a la información 
-más utilizados por la sociedad actual, proporciona ndo conocimientos y herrami entas que facilitan la ge stión de las actividades 
-cotidianas, el entretenimiento y el aprendizaje. Suponen, por tanto, una parte indispensable de nuestra vida y cada vez están más 
-presentes en la de los alumnos.  
-La variedad de dispos itivos y aplicaciones, así como  las posibilidades de conexión que existen  en la actualidad  hacen necesario  
-educar digitalmente, potenciando el uso seguro y responsable de los recursos tecnológicos que cada escolar utilice de acuerdo con 
-sus necesidades de aprendizaje. 
-Esta competencia pretende desarrollar estrategias que ayuden al alumnado a desenvolverse en un entorno digital en el que además 
-del manejo de los dispositivos y la búsqueda de información en la red, comprenda y valore el us o que se da a la tecnología. A s u 
-vez, contribuye al desarrollo  de habilidades de interpretació n, de organización y de análisi s de la información, así como permi te 
-adquirir estrategias que promueven el uso seguro del entorno digital, la toma de conciencia de los riesgos y la gestión de los mismos, 
-de la forma más autónoma posible, aprendiendo a evitarlos o minimizarlos.  
-De manera directa, la competencia conecta con los sig uientes descriptores del pe rfil de salida: CC L1, CCL2, CCL3, STEM4, 
-CPSAA2, CPSAA5, CD1, CD2, CD3, CD4, CD5, CE3. 
-6. Conocer y utilizar los distintos sistemas y aplicaciones de realidad virtual o aumentada para explorar el entorno y disfrutar de un 
-aprendizaje interactivo y enriquecedor. 
-
-LUNES 18 DE JULIO DE 2022B.O.C.M. Núm. 169 Pág. 123
-BOCM-20220718-1
-BOLETÍN OFICIAL DE LA COMUNIDAD DE MADRIDBOCM
-La sexta competencia capacita a los alumnos en el proceso de adquisición de los recursos tecnológicos necesarios para realizar un 
-aprendizaje interactivo y práctico que potencie su interés y motivación, mejorando su rendimiento académico. 
-La realidad aumentada (RA) describe un conjunto de tecnologías que permiten la combinación de elementos virtuales y físicos para 
-ofrecer experiencias interactivas en tiempo real, utiliza disp ositivos para adentrarse en el entorno virtua l y permite acceder a 
-contenidos complejos de transmisión en un entorno real. Su pone la inmersión en una simulación digital que crea un mundo virtual  
-en el que se pueden manipular los objetos e interactuar con ellos. 
-La realidad virtual y la  aumentada facilitan el pro ceso de aprendizaje aportando contenidos basados en la experiencia, con la 
-singularidad de concreción y realismo que n os ofrece esta tecnología, y aportan  un elemento motivador para el  alumnado a la vez  
-que permiten su integración  en todas las áreas a travé s de una metodología emp írica. Asimismo, facilita el conocimiento, la 
-utilización, el manejo de aplicaciones y software específico que permite la inmersión en el entorno virtual. De igual manera, implica 
-la creación de conten idos, marcadores y códigos QR, BIDI, etc. que mezclen  imágenes reales y virtuales para conseguir mejor 
-percepción, interacción y aprendizaje por parte del alumnado. 
-Esta competencia específica se conecta con los siguientes descriptores del perfil de salida: CCL2, STEM1, STEM2, STEM3, STEM4, 
-STEM5, CD1, CD2, CD3, CD4, CD5, CPSAA3, CPSAA4, CPSAA5, CC3, CE1, CE3. 
- 
-COMPETENCIAS ESPECÍFICAS CRITERIOS DE EVALUACIÓN 
-1. Utilizar el pensamiento computacional para la 
-resolución de problemas, generando un 
-producto creativo y original que responda a 
-cada uno de los retos planteados o generados 
-a través de la observación del entorno. 
-1.1. Conocer los fundamentos básicos de la programación por bloques. 
-1.2. Realizar un conjunto de operaciones sistem áticas o algoritmos que 
-cumplan un patrón previamente fijado para el funcionamiento correcto 
-del programa. 
-1.3. Recabar información del entorno que n os permita obtener datos 
-necesarios para generar un producto que dé una solución tecnológica 
-sobre una situación concreta. 
-2. Resolver problemas planteados aplicando los 
-conocimientos de mecánica, electricidad, 
-diseño y programación, desarrollando 
-soluciones automatizadas, diseñando o 
-construyendo sistemas de control 
-programables y/o robóticos adecuados a su 
-nivel. 
-2.1. Aplicar los conocimientos elementales de electricidad y mecánica para 
-el montaje de artefactos. 
-2.2. Realizar, de forma guiada, un producto final sencillo que dé solución a 
-un problema de diseño , probando en equipo, diferentes prototipos y 
-utilizando de forma segura los materiales de mecánica, electricidad o 
-programación. 
-2.3. Mostrar de forma oral o gráfi ca el producto final de los proyectos de 
-diseño, explicando los pasos seguidos y la finalidad del proyecto. 
-2.4. Desarrollar diseños en 2D o en 3D utilizando técnicas de prototipado o 
-distintas aplicaciones informáticas para c onstruir un objeto 
-determinado. 
-3. Observar, comprender e interpretar las 
-distintas situaciones del entorno para identificar 
-problemas y buscar soluciones, actuando de 
-manera individual y en grupo en su resolución, 
-poniendo en práctica la interconexión digital de 
-dispositivos con internet. 
-3.1. Conocer los proce sos que permiten conectar el ementos físicos a 
-internet. 
-3.2. Utilizar el volumen de  datos que generan lo s dispositivos conectados 
-para realizar un análisis de estos y utilizar esta información. 
-4. Conocer y valorar las posibilidades que tiene la 
-inteligencia artificial para actuar con las 
-máquinas o sistemas de manera que faciliten el 
-trabajo y lo mejoren gradualmente. 
- 
-4.1. Conocer aplicaciones informáticas o tecnológicas digitales emergentes 
-sobre la inteligencia artificial.  
-4.2. Integrar programaciones en las máquinas o sistemas que permitan su 
-autonomía de forma responsable. 
- 
-
-LUNES 18 DE JULIO DE 2022Pág. 124 B.O.C.M. Núm. 169
-BOCM-20220718-1
-BOLETÍN OFICIAL DE LA COMUNIDAD DE MADRIDBOCM
-COMPETENCIAS ESPECÍFICAS CRITERIOS DE EVALUACIÓN 
-5. Manejar los dispositivos y herramientas de 
-forma segura y responsable para trabajar de 
-forma individual o conjunta de acuerdo a las 
-necesidades del contexto educativo. 
-5.1. Utilizar los dispositivos y las herramientas de forma segura de acuerdo 
-con las necesidades del contexto educativo. 
-5.2. Buscar de forma segura y eficiente información para crear contenidos 
-digitales, trabajando de manera individual y conjunta. 
-6. Conocer y utilizar los distintos sistemas y 
-aplicaciones de realidad virtual o aumentada 
-para explorar el entorno y disfrutar de un 
-aprendizaje interactivo y enriquecedor. 
-6.1. Utilizar los distintos sistema s de realidad virtual o aumentada para 
-facilitar los procesos de aprendizaje. 
-6.2. Crear proyectos en los que incluyan la real idad virtual o aumentada 
-como recurso. 
- 
-CONTENIDOS  
-BLOQUES CONOCIMIENTOS, DESTREZAS Y ACTITUDES 
-A. Pensamiento 
-computacional 
-- Iniciación a la program ación a través de recursos analógicos (actividade s desenchufadas) y de 
-recursos digitales (plataformas digitales de programación por bloques) adaptados al nivel lector del 
-alumnado. 
-- Interpretación y ejecu ción de algoritmos se ncillos (rutinas, instrucciones con pasos ordenad os, 
-reglas de juegos, instrucciones, secuencias, patrones repetitivos, programación por bloques). 
-- Fundamentos de la prog ramación: bucles, condicionales, operadores, mensajes, variables, 
-funciones, eventos, depuración (debugging). 
-- Extensiones de programación por bloques y aplicación a la robótica ed ucativa (música, dibujo, 
-sensor de vídeo, texto a voz, traductor…). 
-- Fases del pensamiento computacional: Descomposición  de una tarea en pa rtes más sencillas, 
-reconocimiento de patrones y creación de algoritmos sencillos para la resolución del problema. 
-- Proceso de modelizació n de forma guiada (dibuj os, esquemas, diagramas, obj etos manipulables, 
-dramatizaciones...) en la comprensión y resolución de problemas de la vida cotidiana.  
-- Mostrar interés por el pe nsamiento computacional participando en la res olución de problemas de 
-programación. 
-- Estrategias básicas de trabajo en equipo. 
-B. Mecánica–
-Ingeniería (Diseño) 
-- Herramientas y útiles necesari os para la fabricación y montaje de artefactos. Funcionamiento de 
-engranajes y poleas. 
-- Técnicas de diseño y fabricación manual y mecánica.  
-- Técnicas de diseño y fabricación digital. Impresión 3D y corte. 
-- Herramientas de diseño asistido por dispositivo tecnológico, para la representación en 2D y 3D y/o 
-fabricación de piezas aplicadas a proyectos. 
-- Diseño y construcción de robots sencillos. 
-- Técnicas sencillas para el trabajo en equipo y estrategias para la gestión de conflictos. Respeto de 
-las normas y cuidado en el uso de las herramientas. 
-C. Electricidad 
-- Electricidad y electrónica básica: cables y conectores, actuadores, circuitos, sensores, motores, baterías 
-(fuentes de energía). 
-- Energía y movimiento.  Energías renovables y su influencia en la contribución al desarrollo de la sociedad.  
-- Primeros diseños y aplicación en proyectos. 
-- Fomento de la curiosidad, interés, motivación e in iciativa en el desarrollo y la realización de las 
-actividades. 
- 
-BLOQUES CONOCIMIENTOS, DESTREZAS Y ACTITUDES 
-
-LUNES 18 DE JULIO DE 2022B.O.C.M. Núm. 169 Pág. 125
-BOCM-20220718-1
-BOLETÍN OFICIAL DE LA COMUNIDAD DE MADRIDBOCM
-D. Inteligencia artificial 
-(IA) 
-- La inteligencia artificial como respuesta del aprendizaje a través de la obtención de datos y creación 
-de patrones. Principios para la utilización de la IA. 
-- Estrategias para el aprendizaje automático o aprendizaje de las máquinas. 
-- Uso de aplicaciones informáticas sencillas para ordenador y dispositivos móviles e introducción a la 
-inteligencia artificial. 
-E. Internet de las 
-cosas (IoT) 
-- Funcionamiento de la red. Regl as básicas para la utilización de los recursos de forma segura y 
-eficiente trabajando de forma in dividual, en equipo y en red y estrategias para resolver problemas 
-en la comunicación digital. 
-- Dispositivos conectables. Pautas para la instalación de dispositivos que puedan conectarse entre sí 
-y controlarse de forma centralizada desde un ordenador, tablet o móvil.  
-- Sistemas de control programado y uso de simuladores y dispositivos. 
-F. Realidad virtual o 
-aumentada 
-- Uso de aplicaciones y softwa re específico que permita recrea r la realidad y da r vida a los objetos 
-para su estudio. 
-- Iniciación a la edición y creación de códigos QR o contenidos con realidad aumentada. 
-- Desarrollo de marcadores para aplicaciones de realidad virtual, aumentada y mixta. 
- 
-  
-
-LUNES 18 DE JULIO DE 2022Pág. 126 B.O.C.M. Núm. 169
-BOCM-20220718-1
-http://www.bocm.es BOLETÍN OFICIAL DE LA COMUNIDAD DE MADRID D. L.: M. 19.462-1983      ISSN 1989-4791
-BOLETÍN OFICIAL DE LA COMUNIDAD DE MADRIDBOCM
-
-## ANEXO III 
-HORARIO LECTIVO SEMANAL 
-ÁREAS 
-HORAS LECTIVAS SEMANALES 
-1º 2º 3º 4º 5º 6º 
-Ciencias de la Naturaleza 1,5 1,5 1,5 2 1,5 2 
-Ciencias Sociales 1,5 1,5 1,5 2 1,5 2 
-Educación Artística 2 2 2 2 1,5 2 
-Educación Física 2,5 2,5 2,5 2,5 2,5 2,5 
-Educación en Valores Cívicos y Éticos 0 0 0 0 1,5 0 
-Lengua Castellana y Literatura 5,25 5,25 5,25 5 5 5 
-Lengua Extranjera: Inglés 3 3 3 3 3 3 
-Matemáticas 5,25 5,25 5,25 4,5 4,5 4,5 
-Religión 1,5 1,5 1,5 1,5 1,5 1,5 
-TOTAL 22,5 22,5 22,5 22,5 22,5 22,5 
- 
- 
-
-## ANEXO IV 
-HORARIO LECTIVO SEMANAL MÍNIMO 
-ÁREAS Horas lectivas semanales 
-1º 2º 3º 4º 5º 6º 
-Ciencias de la Naturaleza 1,5 1,5 1,5 1,5 1,5 1,5 
-Ciencias Sociales 1,5 1,5 1,5 1,5 1,5 1,5 
-Educación Artística 1,75 1,75 1,75 1,75 1,5 2 
-Educación Física 2 2 2 2 2 1,75 
-Educación en Valores Cívicos y Éticos 
-    
-1,5 
- 
-Lengua Castellana y Literatura 4,25 4,25 4,25 4,25 4 4,25 
-Lengua Extranjera: Inglés 3 3 3 3 3 3 
-Matemáticas 4 4 4 4 4 4 
-Religión 1,5 1,5 1,5 1,5 1,5 1,5 
-(03/14.735/22)
+
+
+765,71
+
+
+696,10
+
+
+
+
+
+
+PIL 000B Articulación de rodilla exoesquelética monocéntrica mecánica, con dispositivo de recuperación de la extensión, control de la fase de balanceo y bloqueo a la carga.
+
+
+COMP2
+
+
+30
+
+
+854,16
+
+
+776,51
+
+
+
+
+
+
+PIL 010 Articulación de rodilla endoesquelética monocéntrica para adulto.
+
+
+PIL 010A Articulación de rodilla endoesquelética monocéntrica mecánica, con bloqueo manual a voluntad.
+
+
+COMP2
+
+
+30
+
+
+409,76
+
+
+372,51
+
+
+
+
+
+
+PIL 010B Articulación de rodilla endoesquelética monocéntrica mecánica, con dispositivo de recuperación de la extensión y bloqueo a la carga.
+
+
+COMP2
+
+
+30
+
+
+935,00
+
+
+850,00
+
+
+
+
+
+
+PIL 010C Articulación de rodilla endoesquelética monocéntrica mecánica, con dispositivo de recuperación de la extensión, control de la fase de balanceo y bloqueo a la carga.
+
+
+COMP2
+
+
+30
+
+
+951,19
+
+
+864,72
+
+
+
+
+
+
+PIL 010D Articulación de rodilla endoesquelética monocéntrica mecánica, con control de la fase de balanceo, bloqueo a la carga y con opción de añadir bloqueo manual a voluntad.
+
+
+COMP2
+
+
+30
+
+
+1.070,88
+
+
+973,53
+
+
+
+
+
+
+PIL 010E Articulación de rodilla endoesquelética monocéntrica neumática, con control regulable de la fase de balanceo y bloqueo a la carga, para nivel de actividad de bajo a moderado.
+
+
+COMP2
+
+
+30
+
+
+2.103,65
+
+
+1.912,41
+
+
+
+
+
+
+PIL 010F Articulación de rodilla endoesquelética monocéntrica neumática, con control regulable de la fase de balanceo y bloqueo a la carga, para nivel de actividad de alto a muy alto.
+
+
+COMP2
+
+
+30
+
+
+2.530,44
+
+
+2.300,40
+
+
+
+
+
+
+PIL 010G Articulación de rodilla endoesquelética monocéntrica hidráulica, con control de la fase de balanceo.
+
+
+COMP2
+
+
+30
+
+
+3.227,33
+
+
+2.933,94
+
+
+
+
+
+
+PIL 010H Articulación de rodilla endoesquelética monocéntrica hidráulica, con control de la fase de balanceo y del frenado en la fase de apoyo.
+
+
+COMP2
+
+
+30
+
+
+3.901,46
+
+
+3.546,78
+
+
+
+
+
+
+PIL 010I Articulación de rodilla endoesquelética con sistema hidráulico rotativo para fase de balanceo y del frenado en la fase de apoyo.
+
+
+COMP2
+
+
+30
+
+
+4.080,32
+
+
+3.709,38
+
+
+
+
+
+
+PIL 020 Articulación de rodilla endoesquelética monocéntrica pediátrica.
+
+
+PIL 020A Articulación de rodilla endoesquelética monocéntrica mecánica, con dispositivo de recuperación de la extensión, pediátrica.
+
+
+COMP2
+
+
+30
+
+
+989,26
+
+
+899,33
+
+
+
+
+
+
+PIL 030 Articulación de rodilla endoesquelética policéntrica para adulto.
+
+
+PIL 030A Articulación de rodilla endoesquelética policéntrica mecánica, de entre tres y cinco ejes, con dispositivo de recuperación de la extensión.
+
+
+COMP2
+
+
+30
+
+
+1.436,81
+
+
+1.306,19
+
+
+
+
+
+
+PIL 030B Articulación de rodilla endoesquelética policéntrica mecánica, de más de cinco ejes, con dispositivo de recuperación de la extensión.
+
+
+COMP2
+
+
+30
+
+
+2.159,53
+
+
+1.963,21
+
+
+
+
+
+
+PIL 030C Articulación de rodilla endoesquelética policéntrica neumática, con control regulable de la fase de balanceo y bloqueo a la carga.
+
+
+COMP2
+
+
+30
+
+
+2.210,32
+
+
+2.009,38
+
+
+
+
+
+
+PIL 030D Articulación de rodilla endoesquelética policéntrica hidráulica, con control de la fase de balanceo y del frenado en la fase de apoyo. Especial prescripción.
+
+
+COMP2
+
+
+30
+
+
+4.396,19
+
+
+3.996,54
+
+
+
+
+
+
+PIL 040 Articulación de rodilla endoesquelética policéntrica pediátrica.
+
+
+PIL 040A Articulación de rodilla endoesquelética policéntrica mecánica, con dispositivo de recuperación de la extensión, pediátrica.
+
+
+COMP2
+
+
+30
+
+
+2.282,09
+
+
+2.074,63
+
+
+
+
+
+
+PIL 040B Articulación de rodilla endoesquelética policéntrica hidráulica, con control de la fase de balanceo, pediátrica.
+
+
+COMP2
+
+
+30
+
+
+2.528,85
+
+
+2.298,95
+
+
+
+
+
+
+PIL 050 Articulación de rodilla endoesquelética para muñones largos o desarticulación de rodilla.
+
+
+PIL 050A Articulación de rodilla endoesquelética para muñones largos o desarticulación de rodilla, mecánica, de cuatro ejes, con bloqueo manual a voluntad.
+
+
+COMP2
+
+
+30
+
+
+1.599,87
+
+
+1.454,43
+
+
+
+
+
+
+PIL 050B Articulación de rodilla endoesquelética para muñones largos o desarticulación de rodilla, mecánica, de cuatro ejes, con dispositivo de recuperación de la extensión, para nivel de actividad de bajo a moderado.
+
+
+COMP2
+
+
+30
+
+
+1.531,07
+
+
+1.391,88
+
+
+
+
+
+
+PIL 050C Articulación de rodilla endoesquelética para muñones largos o desarticulación de rodilla, mecánica, de cuatro ejes, con dispositivo de recuperación de la extensión, para nivel de actividad de alto a muy alto.
+
+
+COMP2
+
+
+30
+
+
+1.436,90
+
+
+1.306,27
+
+
+
+
+
+
+PIL 050D Articulación de rodilla endoesquelética para muñones largos o desarticulación de rodilla, neumática, de cuatro ejes, con control regulable de la fase de balanceo.
+
+
+COMP2
+
+
+30
+
+
+2.441,00
+
+
+2.219,09
+
+
+
+
+
+
+PIL 050E Articulación de rodilla endoesquelética para muñones largos o desarticulación de rodilla, neumática, de cuatro ejes, con control regulable de la fase de balanceo y bloqueo a la carga.
+
+
+COMP2
+
+
+30
+
+
+2.410,91
+
+
+2.191,74
+
+
+
+
+
+
+PIL 050F Articulación de rodilla endoesquelética para muñones largos o desarticulación de rodilla, hidráulica, de cuatro ejes, con control regulable de la fase de balanceo.
+
+
+COMP2
+
+
+30
+
+
+3.098,97
+
+
+2.817,25
+
+
+
+
+
+
+PIL 050G Articulación de rodilla endoesquelética para muñones largos o desarticulación de rodilla, hidráulica, de cuatro ejes, con control regulable de la fase de balanceo y del frenado en la fase de apoyo.
+
+
+COMP2
+
+
+30
+
+
+4.396,19
+
+
+3.996,54
+
+
+
+
+
+
+PIL 060 Articulación de rodilla endoesquelética monocéntrica con control mediante microprocesador para adulto.
+
+
+PIL 060A Articulación de rodilla endoesquelética monocéntrica, con control mediante microprocesador de la fase de balanceo y del frenado en la fase de apoyo. (Especial prescripción y de acuerdo a un protocolo).
+
+
+COMP3
+
+
+72
+
+
+26.412,32
+
+
+24.011,20
+
+
+
+
+
+
+
+
+Las articulaciones de nivel de actividad baja están indicadas para usuarios considerados K1/clase 1, los de actividad moderada para K2/clase 2, los de actividad alta para K3/clase 3 y los de actividad muy alta para K4/clase 4.
+
+
+Subgrupo: 06 24 36 Articulaciones de cadera
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Categorías (Código homologado
+
+
+y descripción)
+
+
+
+
+Tipos de productos (Código y descripción)
+
+
+Elaboración
+
+
+
+
+Vida media
+
+
+–
+
+
+Meses
+
+
+
+
+IMF
+
+
+IMF si
+
+
+
+
+
+
+
+
+
+
+PID 000 Articulación de cadera endoesquelética.
+
+
+PID 000A Articulación de cadera endoesquelética monocéntrica libre.
+
+
+COMP2
+
+
+30
+
+
+623,03
+
+
+566,39
+
+
+
+
+
+
+PID 000B Articulación de cadera endoesquelética monocéntrica libre, con bloqueo manual a voluntad.
+
+
+COMP2
+
+
+30
+
+
+750,00
+
+
+681,82
+
+
+
+
+
+
+PID 000C Articulación de cadera endoesquelética monocéntrica, con dispositivo interior de extensión incorporado y con sistema de alineación y anclaje anterior.
+
+
+COMP2
+
+
+30
+
+
+1.984,43
+
+
+1.804,03
+
+
+
+
+
+
+PID 000D Articulación de cadera endoesquelética monocéntrica, con asistente a la extensión, pediátrica.
+
+
+COMP2
+
+
+30
+
+
+1.022,09
+
+
+929,17
+
+
+
+
+
+
+PID 000E Articulación de cadera endoesquelética policéntrica.
+
+
+COMP2
+
+
+30
+
+
+5.415,23
+
+
+4.922,94
+
+
+
+
+
+
+
+
+Subgrupo: 06 24 48 Prótesis provisionales para movilización temprana en amputación de miembro inferior
+
+
+ (Prescribir además el resto de los componentes necesarios para completar la correspondiente prótesis, que se reutilizarán para la prótesis definitiva)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Categorías (Código homologado
+
+
+y descripción)
+
+
+
+
+Tipos de productos (Código y descripción)
+
+
+Elaboración
+
+
+
+
+Vida media
+
+
+–
+
+
+Meses
+
+
+
+
+IMF
+
+
+IMF si
+
+
+
+
+
+
+
+
+
+
+PIM 000 Encaje provisional para prótesis de miembro inferior*.
+
+
+PIM 000A Encaje provisional para prótesis de desarticulación de tobillo. Incluye adaptación y alineación.
+
+
+MED
+
+
+-
+
+
+632,50
+
+
+575,00
+
+
+
+
+
+
+PIM 000B Encaje provisional para prótesis transtibial. Incluye adaptación y alineación.
+
+
+MED
+
+
+-
+
+
+854,59
+
+
+776,90
+
+
+
+
+
+
+PIM 000C Encaje provisional para prótesis de desarticulación de rodilla. Incluye adaptación y alineación.
+
+
+MED
+
+
+-
+
+
+1.050,28
+
+
+954,80
+
+
+
+
+
+
+PIM 000D Encaje provisional graduable para prótesis transfemoral. Incluye adaptación y alineación.
+
+
+MED
+
+
+-
+
+
+1.155,00
+
+
+1.050,00
+
+
+
+
+
+
+PIM 000E Encaje provisional para prótesis de desarticulación de cadera. Incluye adaptación y alineación.
+
+
+MED
+
+
+-
+
+
+1.320,00
+
+
+1.200,00
+
+
+
+
+
+
+PIM 010 Vaina (liner) conformadora y reductora de muñón.
+
+
+PIM 010A Vaina (liner) conformadora y reductora de muñón para amputación transtibial.
+
+
+COMP2
+
+
+6
+
+
+357,50
+
+
+325,00
+
+
+
+
+
+
+PIM 010B Vaina (liner) conformadora y reductora de muñón para desarticulación de rodilla.
+
+
+COMP2
+
+
+6
+
+
+432,56
+
+
+393,24
+
+
+
+
+
+
+PIM 010C Vaina (liner) conformadora y reductora de muñón para amputación transfemoral.
+
+
+COMP2
+
+
+6
+
+
+462,00
+
+
+420,00
+
+
+
+
+
+
+
+
+
+
+
+
+* Prescripción única para la elaboración y adaptación de los encajes provisionales necesarios hasta la prescripción del encaje definitivo.
+
+
+
+
+
+
+
+
+
+
+ Subgrupo: 06 24 99 Componentes generales de prótesis de miembro inferior
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Categorías (Código homologado
+
+
+y descripción)
+
+
+
+
+Tipos de productos (Código y descripción)
+
+
+Elaboración
+
+
+
+
+Vida media
+
+
+–
+
+
+Meses
+
+
+
+
+IMF
+
+
+IMF si
+
+
+
+
+
+
+
+
+
+
+PIG 900 Componentes generales de los sistemas de suspensión.
+
+
+PIG 900A Lanzadera con pin para prótesis de miembro inferior.
+
+
+COMP2
+
+
+24
+
+
+317,58
+
+
+288,71
+
+
+
+
+
+
+PIG 900B Pin para lanzadera para prótesis de miembro inferior.
+
+
+COMP1
+
+
+24
+
+
+49,52
+
+
+45,02
+
+
+
+
+
+
+PIG 900C Lanzadera con cordón para prótesis de miembro inferior.
+
+
+COMP2
+
+
+12
+
+
+121,99
+
+
+110,90
+
+
+
+
+
+
+PIG 900D Lanzadera con pin para vaina interna (liner) pediátrica para prótesis de miembro inferior.
+
+
+COMP2
+
+
+24
+
+
+242,00
+
+
+220,00
+
+
+
+
+
+
+PIG 900E Pin para lanzadera para vaina interna (liner) pediátrica para prótesis de miembro inferior.
+
+
+COMP1
+
+
+24
+
+
+48,29
+
+
+43,90
+
+
+
+
+
+
+PIG 900F Membrana de succión hipobárica para prótesis de miembro inferior.
+
+
+COMP1
+
+
+6
+
+
+214,31
+
+
+194,83
+
+
+
+
+
+
+PIG 910 Calcetas.
+
+
+PIG 910A Calceta por debajo de la rodilla para prótesis de miembro inferior.
+
+
+COMP1
+
+
+6
+
+
+27,36
+
+
+24,87
+
+
+
+
+
+
+PIG 910B Calceta por encima de la rodilla para prótesis de miembro inferior.
+
+
+COMP1
+
+
+6
+
+
+35,01
+
+
+31,83
+
+
+
+
+
+
+PIG 920 Almohadilla.
+
+
+PIG 920A Almohadilla de silicona o gel para prótesis de miembro inferior.
+
+
+COMP1
+
+
+6
+
+
+41,61
+
+
+37,83
+
+
+
+
+
+
+PIG 930 Sistema BOA.
+
+
+PIG 930A Sistema BOA para encaje de prótesis de miembro inferior.
+
+
+COMP2
+
+
+12
+
+
+537,26
+
+
+488,42
+
+
+
+
+
+
+PIG 940 Vaina (liner) preparada para acoplar pin distal.
+
+
+PIG 940A Vaina (liner) de silicona preparada para acoplar pin distal para prótesis transtibial.
+
+
+COMP2
+
+
+12
+
+
+542,97
+
+
+493,61
+
+
+
+
+
+
+PIG 940B Vaina (liner) en gel preparada para acoplar pin distal para prótesis transtibial.
+
+
+COMP2
+
+
+12
+
+
+469,45
+
+
+426,77
+
+
+
+
+
+
+PIG 940C Vaina (liner) de silicona preparada para acoplar pin distal, pediátrica, para prótesis transtibial.
+
+
+COMP2
+
+
+12
+
+
+838,82
+
+
+762,56
+
+
+
+
+
+
+PIG 940D Vaina (liner) de silicona preparada para acoplar pin distal para prótesis transfemoral.
+
+
+COMP2
+
+
+12
+
+
+615,75
+
+
+559,77
+
+
+
+
+
+
+PIG 940E Vaina (liner) en gel preparada para acoplar pin distal para prótesis transfemoral.
+
+
+COMP2
+
+
+12
+
+
+605,83
+
+
+550,75
+
+
+
+
+
+
+PIG 940F Vaina (liner) de silicona preparada para acoplar pin distal, pediátrica, para prótesis transfemoral.
+
+
+COMP2
+
+
+12
+
+
+838,82
+
+
+762,56
+
+
+
+
+
+
+
+
+ Grupo: 06 90 Ortoprótesis para agenesias
+
+
+Subgrupo: 06 90 00 Ortoprótesis para agenesias
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Categorías (Código homologado
+
+
+y descripción)
+
+
+
+
+Tipos de productos (Código y descripción)
+
+
+Elaboración
+
+
+
+
+Vida media
+
+
+–
+
+
+Meses
+
+
+
+
+IMF
+
+
+IMF si
+
+
+
+
+
+
+
+
+
+
+PPA 000 Ortoprótesis para agenesia longitudinal de miembro inferior con miembro residual*.
+
+
+PPA 000A Ortoprótesis endoesquelética o exoesquelética tibial con encaje rígido y estructura para agenesia con miembro residual, a medida (Prescribir además un pie a elección y, si lo precisa, un encaje interno, una articulación ortésica de rodilla, una funda, una media o cubierta cosmética y una calceta).
+
+
+MED
+
+
+24
+
+
+2.600,14
+
+
+2.363,76
+
+
+
+
+
+
+PPA 000B Ortoprótesis endoesquelética o exoesquelética femoral con encaje rígido y estructura para agenesia con miembro residual, a medida (Prescribir además un encaje interno, una articulación de rodilla, un pie a elección y, si lo precisa, una funda, una media o cubierta cosmética y una calceta).
+
+
+MED
+
+
+24
+
+
+3.718,00
+
+
+3.380,00
+
+
+
+
+
+
+
+
+
+
+* Para las agenesias de miembro superior y las transversales de miembro inferior se prescribirán las prótesis para amputaciones del nivel correspondiente.
+
+
+
+
+
+
+
+
+ Grupo: 06 30 Prótesis distintas a las prótesis de miembros
+
+
+Subgrupo: 06 30 18 Prótesis de mama en casos de traumatismo, enfermedad o malformación congénita (no se considera incluido el sujetador post-operatorio)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Categorías (Código homologado
+
+
+y descripción)
+
+
+
+
+Tipos de productos (Código y descripción)
+
+
+Elaboración
+
+
+
+
+Vida media
+
+
+–
+
+
+Meses
+
+
+
+
+IMF
+
+
+IMF si
+
+
+
+
+
+
+
+
+
+
+PDM 000 Prótesis externa de mama incluida, si lo precisa, la funda.
+
+
+PDM 000A Prótesis externa de mama, en silicona sólida.
+
+
+BAS
+
+
+24
+
+
+186,49
+
+
+169,54
+
+
+
+
+
+
+PDM 000B Prótesis externa de mama, en silicona ligera.
+
+
+BAS
+
+
+24
+
+
+200,52
+
+
+182,29
+
+
+
+
+
+
+PDM 000C Prótesis externa de mama, en silicona ultraligera.
+
+
+BAS
+
+
+24
+
+
+212,87
+
+
+193,52
+
+
+
+
+
+
+PDM 010 Prótesis parcial externa de mama.
+
+
+PDM 010A Prótesis parcial externa de mama.
+
+
+ADAP1
+
+
+24
+
+
+161,70
+
+
+147,00
+
+
+
+
+
+
+
+
+Subgrupo: 06 30 30 Prótesis de restauración facial, incluyendo las de nariz y/o los pabellones auriculares y/o globos oculares en casos de traumatismo, enfermedad o malformación congénita 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Categorías (Código homologado
+
+
+y descripción)
+
+
+
+
+Tipos de productos (Código y descripción)
+
+
+Elaboración
+
+
+
+
+Vida media
+
+
+–
+
+
+Meses
+
+
+
+
+IMF
+
+
+IMF si
+
+
+
+
+
+
+
+
+
+
+PDC 000 Prótesis ocular.
+
+
+PDC 000A Prótesis ocular externa para cavidad anoftálmica (enucleación o evisceración), a medida.
+
+
+MED
+
+
+24
+
+
+1.033,65
+
+
+939,68
+
+
+
+
+
+
+PDC 000B Prótesis ocular externa para cavidad no anoftálmica tipo cascarilla, a medida.
+
+
+MED
+
+
+24
+
+
+1.215,84
+
+
+1.105,31
+
+
+
+
+
+
+PDC 010 Prótesis de restauración de órbita.
+
+
+PDC 010A Epítesis de restauración de órbita no implantosoportada, a medida (incluye prótesis ocular).
+
+
+MED
+
+
+24
+
+
+2.067,35
+
+
+1.879,41
+
+
+
+
+
+
+PDC 010B Epítesis de restauración de órbita implantosoportada con dos implantes, a medida (incluye prótesis ocular) (*).
+
+
+MED
+
+
+24
+
+
+3.075,05
+
+
+2.795,50
+
+
+
+
+
+
+PDC 020 Prótesis corneal.
+
+
+PDC 020A Lente corneal protésica.
+
+
+ADAP2
+
+
+12
+
+
+556,37
+
+
+505,79
+
+
+
+
+
+
+PDC 030 Pabellón auricular.
+
+
+PDC 030A Epítesis de pabellón auricular no implantosoportada, a medida.
+
+
+MED
+
+
+24
+
+
+1.503,95
+
+
+1.367,23
+
+
+
+
+
+
+PDC 030B Epítesis de pabellón auricular implantosoportada con dos implantes, a medida (*).
+
+
+MED
+
+
+24
+
+
+2.512,35
+
+
+2.283,95
+
+
+
+
+
+
+PDC 040 Prótesis de restauración de la nariz.
+
+
+PDC 040A Epítesis nasal no implantosoportada, a medida.
+
+
+MED
+
+
+24
+
+
+1.989,38
+
+
+1.808,53
+
+
+
+
+
+
+PDC 040B Epítesis nasal implantosoportada con tres implantes, a medida.(*).
+
+
+MED
+
+
+24
+
+
+3.484,88
+
+
+3.168,07
+
+
+
+
+
+
+PDC 050 Prótesis facial.
+
+
+PDC 050A Epítesis facial no implantosoportada para pequeños defectos, a medida.
+
+
+MED
+
+
+24
+
+
+550,00
+
+
+500,00
+
+
+
+
+
+
+PDC 060 Prótesis facial-orbito-naso-palatina.
+
+
+PDC 060A Epítesis facial-orbito-naso-palatina no implantosoportada, a medida.
+
+
+MED
+
+
+18
+
+
+SP
+
+
+SP
+
+
+
+
+
+
+PDC 060B Epítesis facial-orbito-naso-palatina implantosoportada, a medida.
+
+
+MED
+
+
+18
+
+
+SP
+
+
+SP
+
+
+
+
+
+
+
+
+
+
+
+
+(*) En el caso de las epítesis implantosoportadas que requieran mayor número de implantes, al IMF se le sumará el valor de cada implante adicional que precise (500 € por implante mecánico y 800 € por implante magnético).
+
+
+
+
+
+
+
+
+
+
+Subgrupo: 06 30 33 Prótesis de maxilares 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Categorías (Código homologado
+
+
+y descripción)
+
+
+
+
+Tipos de productos (Código y descripción)
+
+
+Elaboración
+
+
+
+
+Vida media
+
+
+–
+
+
+Meses
+
+
+
+
+IMF
+
+
+IMF si
+
+
+
+
+
+
+
+
+
+
+PDP 000 Prótesis de maxilar superior.
+
+
+PDP 000A Prótesis de maxilar superior no implantosoportada, a medida, para malformaciones congénitas, grandes traumatismos y procesos oncológicos, que afectan a la cavidad oral.
+
+
+MED
+
+
+18
+
+
+SP
+
+
+SP
+
+
+
+
+
+
+PDP 000B Prótesis de maxilar superior implantosoportada, a medida, para pacientes con procesos oncológicos que afectan a la cavidad oral que impliquen la pérdida de dientes relacionada directamente con la patología o su tratamiento, y pacientes con malformaciones congénitas que cursan con anodoncia (fisurados, malformaciones linfáticas, displasia ectodérmica, síndromes craneofaciales, etc.).
+
+
+MED
+
+
+18
+
+
+SP
+
+
+SP
+
+
+
+
+
+
+PDP 010 Prótesis de maxilar inferior.
+
+
+PDP 010A Prótesis de maxilar inferior no implantosoportada, a medida, para malformaciones congénitas, grandes traumatismos y procesos oncológicos, que afectan a la cavidad oral.
+
+
+MED
+
+
+18
+
+
+SP
+
+
+SP
+
+
+
+
+
+
+PDP 010B Prótesis de maxilar inferior implantosoportada, a medida, para pacientes con procesos oncológicos que afectan a la cavidad oral que impliquen la pérdida de dientes relacionada directamente con la patología o su tratamiento, y pacientes con malformaciones congénitas que cursan con anodoncia (fisurados, malformaciones linfáticas, displasia ectodérmica, síndromes craneofaciales, etc.).
+
+
+MED
+
+
+18
+
+
+SP
+
+
+SP
+
+
+
+
+
+
+
+
+Grupo 22 06 Prótesis Auditivas
+
+
+ Subgrupo: 22 06 00 Audífonos para pacientes hipoacúsicos, de cero a veintiséis años de edad
+
+
+– Requisitos: Personas de cero a veintiséis años de edad con hipoacusia bilateral neurosensorial, transmisiva o mixta, permanente, no susceptible de otros tratamientos, con una pérdida de audición superior a 40 dB en el mejor de los oídos (valor obtenido promediando las frecuencias de 500, 1.000 y 2.000 Hz). Las administraciones sanitarias competentes vincularán la financiación de los audífonos y de los moldes a programas de detección precoz, tratamiento completo y seguimiento de la hipoacusia, así como al estilo de vida de los pacientes.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Categorías (Código homologado
+
+
+y descripción)
+
+
+
+
+Tipos de productos (Código y descripción)
+
+
+Elaboración
+
+
+
+
+Vida media
+
+
+–
+
+
+Meses
+
+
+
+
+IMF
+
+
+IMF si
+
+
+
+
+
+
+
+
+
+
+PAA 000 Audífono digital intra-auricular.
+
+
+PAA 000A Audífono intra-auricular IIC (
+invisible in the canal
+).
+
+
+ADAP3
+
+
+48
+
+
+1.500,00
+
+
+1.363,64
+
+
+
+
+
+
+PAA 000B Audífono intra-auricular CIC (
+completely in the canal
+).
+
+
+ADAP3
+
+
+48
+
+
+1.500,00
+
+
+1.363,64
+
+
+
+
+
+
+PAA 000C Audífono intra-auricular ITC (
+in the canal
+).
+
+
+ADAP3
+
+
+48
+
+
+1.500,00
+
+
+1.363,64
+
+
+
+
+
+
+PAA 000D Audífono intra-auricular ITE (
+in the ear
+).
+
+
+ADAP3
+
+
+48
+
+
+1.500,00
+
+
+1.363,64
+
+
+
+
+
+
+PAA 010 Audífono digital retro-auricular.
+
+
+PAA 010A Audífono retro-auricular RITE/RIC (
+receiver in the ear/canal
+).
+
+
+ADAP2
+
+
+60
+
+
+1.200,00
+
+
+1.090,91
+
+
+
+
+
+
+PAA 010B Audífono retro-auricular BTE (
+behind the ear
+).
+
+
+ADAP2
+
+
+48
+
+
+1.200,00
+
+
+1.090,91
+
+
+
+
+
+
+PAA 010C Audífono retro-auricular BTE superpotente (
+power
+).
+
+
+ADAP2
+
+
+48
+
+
+1.200,00
+
+
+1.090,91
+
+
+
+
+
+
+PAA 020 Sistemas bi-cross.
+
+
+PAA 020A Sistema bi-cross de audífono intra-auricular.
+
+
+ADAP3
+
+
+48
+
+
+2.250,00
+
+
+2.045,45
+
+
+
+
+
+
+PAA 020B Sistema bi-cross de audífono retro-auricular.
+
+
+ADAP2
+
+
+60
+
+
+1.800,00
+
+
+1.636,36
+
+
+
+
+
+
+PAA 030 Varillas, diademas o bandas auditivas.
+
+
+PAA 030A Varilla o diadema auditiva aérea/ósea.
+
+
+ADAP2
+
+
+60
+
+
+1.200,00
+
+
+1.090,91
+
+
+
+
+
+
+PAA 030B Banda elástica suave con procesador de conducción ósea incorporado para niños, previo a cirugía.
+
+
+ADAP2
+
+
+84
+
+
+5.171,25
+
+
+4.701,14
+
+
+
+
+
+
+
+
+Se facilitarán los audífonos con telebobina con capacidad de conexión con sistemas de inducción magnética, integrada en los mismos, en caso de que el paciente lo solicite y las características del dispositivo lo permitan.
+
+
+Subgrupo: 22 06 90: Moldes adaptadores y otros componentes de audífonos para pacientes que cumplan los requisitos para recibir audífonos
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Categorías (Código homologado
+
+
+y descripción)
+
+
+
+
+Tipos de productos (Código y descripción)
+
+
+Elaboración
+
+
+
+
+Vida media
+
+
+–
+
+
+Meses
+
+
+
+
+IMF
+
+
+IMF si
+
+
+
+
+
+
+
+
+
+
+PAM 000 Molde adaptador para audífono.
+
+
+PAM 000A Molde adaptador para audífono retroauricular BTE/BTE superpotente (unidad).
+
+
+COMP0
+
+
+24
+
+
+33
+
+
+30,00
+
+
+
+
+
+
+PAM 000B Micromolde para audífono retro-auricular RITE/RIC (unidad).
+
+
+COMP0
+
+
+24
+
+
+44
+
+
+40,00
+
+
+
+
+
+
+PAM 000C Molde con auricular integrado para audífono retro-auricular RITE/RIC (unidad).
+
+
+COMP2
+
+
+24
+
+
+121
+
+
+110,00
+
+
+
+
+
+
+PAM 010 Otros componentes para audífonos.
+
+
+PAM 010A Tubo auricular para audífono retro-auricular RITE/RIC (incluye adaptador estándar).
+
+
+COMP0
+
+
+12
+
+
+77
+
+
+70,00
+
+
+
+
+
+
+
+
+Subgrupo: 22 06 99 Recambios de componentes externos de implantes auditivos
+
+
+ El procedimiento de acceso a los recambios que establezca cada administración sanitaria incluirá el mecanismo que considere más adecuado para la activación, programación y revisiones que precise. La solicitud de inclusión en la Oferta de un producto perteneciente a uno de las categorías PAI 010 y PAI 030 requiere que venga acompañada o se disponga ya en la Oferta de sus correspondientes componentes de los tipos pertenecientes a las categorías PAI 020 y PAI 040, respectivamente.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Categorías (Código homologado
+
+
+y descripción)
+
+
+
+
+Tipos de productos (Código y descripción)
+
+
+Elaboración
+
+
+
+
+Vida media
+
+
+–
+
+
+Meses
+
+
+
+
+IMF
+
+
+IMF si
+
+
+
+
+
+
+
+
+
+
+PAI 000 Sistema básico completo para implante de conducción ósea.
+
+
+PAI 000A Sistema básico para implante de conducción ósea percutáneo (Incluye procesador, pilas* y soporte técnico).
+
+
+EMP0
+
+
+84
+
+
+4.730,00
+
+
+4.300,00
+
+
+
+
+
+
+PAI 000B Sistema básico para implante de conducción ósea transcutáneos activo (Incluye procesador, pilas* y soporte técnico).
+
+
+EMP0
+
+
+84
+
+
+4.730,00
+
+
+4.300,00
+
+
+
+
+
+
+PAI 000C Sistema básico para implante de conducción ósea transcutáneos pasivo (Incluye procesador, pilas* y soporte técnico).
+
+
+EMP0
+
+
+84
+
+
+4.730,00
+
+
+4.300,00
+
+
+
+
+
+
+PAI 010 Sistema básico completo para implante coclear.
+
+
+PAI 010A Sistema básico completo retroauricular para implante coclear (Incluye procesador, dos cables, antena/bobina, imán, portapilas y/o portabaterías si los precisa, pilas* o dos juegos de baterías recargables, cargador de baterías en su caso, mando a distancia y soporte técnico).
+
+
+EMP0
+
+
+84
+
+
+7.700,00
+
+
+7.000,00
+
+
+
+
+
+
+PAI 010B Sistema básico completo corporal para implante coclear (Incluye procesador, dos cables, antena/bobina, imán, portapilas y/o portabaterías si los precisa, pilas* o dos juegos de baterías recargables, cargador de baterías en su caso, mando a distancia y soporte técnico).
+
+
+EMP0
+
+
+84
+
+
+7.700,00
+
+
+7.000,00
+
+
+
+
+
+
+PAI 010C Sistema básico completo de unidad única para implante coclear (Incluye procesador, imán, portapilas y/o portabaterías si los precisa, pilas* o dos juegos de baterías recargables, cargador de baterías en su caso, mando a distancia y soporte técnico).
+
+
+EMP0
+
+
+84
+
+
+7.700,00
+
+
+7.000,00
+
+
+
+
+
+
+PAI 010D Sistema básico completo electroacústico para implante coclear (Incluye procesador, unidad acústica, molde, dos cables, imán, antena/bobina, portapilas y/o portabaterías si los precisa, pilas* o dos juegos de baterías recargables, cargador de baterías en su caso, mando a distancia y soporte técnico).
+
+
+EMP0
+
+
+84
+
+
+8.580,00
+
+
+7.800,00
+
+
+
+
+
+
+PAI 020 Otros componentes externos para implante coclear.
+
+
+PAI 020A Micrófono para implante coclear.
+
+
+EMP0
+
+
+48
+
+
+176,00
+
+
+160,00
+
+
+
+
+
+
+PAI 020B Antena/bobina con imán para implante coclear.
+
+
+EMP0
+
+
+24
+
+
+367,50
+
+
+334,09
+
+
+
+
+
+
+PAI 020C Cable para solución corporal para implante coclear, para niños y para usuarios con características especiales.
+
+
+EMP0
+
+
+24
+
+
+152,88
+
+
+138,98
+
+
+
+
+
+
+PAI 020D Cable para solución retroauricular para implante coclear.
+
+
+EMP0
+
+
+24
+
+
+115,01
+
+
+104,55
+
+
+
+
+
+
+PAI 030 Sistema básico completo para implante de tronco cerebral.
+
+
+PAI 030A Sistema básico completo para implante de tronco cerebral (Incluye procesador, dos cables, antena/bobina, imán, portapilas y/o portabaterías si los precisa, pilas* o dos juegos de baterías recargables, cargador de baterías en su caso, mando a distancia y soporte técnico).
+
+
+EMP0
+
+
+84
+
+
+9.542,50
+
+
+8.675,00
+
+
+
+
+
+
+PAI 040 Otros componentes externos para implante de tronco cerebral.
+
+
+PAI 040A Micrófono para implante de tronco cerebral.
+
+
+EMP0
+
+
+48
+
+
+176,00
+
+
+160,00
+
+
+
+
+
+
+PAI 040B Antena/bobina para implante de tronco cerebral.
+
+
+EMP0
+
+
+24
+
+
+367,50
+
+
+334,09
+
+
+
+
+
+
+PAI 040C Cable para solución corporal para implante de tronco cerebral, para niños y para usuarios con características especiales.
+
+
+EMP0
+
+
+24
+
+
+152,88
+
+
+138,98
+
+
+
+
+
+
+PAI 040D Cable para solución retroauricular para implante de tronco cerebral.
+
+
+EMP0
+
+
+24
+
+
+115,01
+
+
+104,55
+
+
+
+
+
+
+PAI 050 Sistema básico completo para implante de oído medio.
+
+
+PAI 050A Sistema básico para implante de oído medio con procesador externo (Incluye procesador, pilas* y soporte técnico).
+
+
+EMP0
+
+
+84
+
+
+4.070,00
+
+
+3.700,00
+
+
+
+
+
+
+PAI 050B Sistema básico completo para implante de oído medio con procesador externo (Incluye procesador, cargador de baterías, mando a distancia y soporte técnico).
+
+
+EMP0
+
+
+84
+
+
+5.390,00
+
+
+4.900,00
+
+
+
+
+
+
+PAI 050C Sistema básico completo para implante de oído medio totalmente implantable (Incluye cargador de baterías, mando a distancia y soporte técnico).
+
+
+EMP0
+
+
+84
+
+
+1.540,00
+
+
+1.400,00
+
+
+
+
+
+
+
+
+
+
+
+
+* Las empresas facilitarán pilas en cantidad suficiente para tres años, en una sola entrega o de forma gradual, con el fin de asegurar las mejores condiciones de uso. Con carácter general, para calcular el número de pilas se considera que:
+
+
+– Los productos de los tipos incluidos en la categoría PAI 000 Sistema básico completo para implante de conducción ósea, precisan 36 pilas al año.
+
+
+– Los productos de los tipos incluidos en las categorías PAI 010 Sistema básico completo para implante coclear y PAI 030 Sistema básico completo para implante de tronco cerebral requieren 360 pilas al año.
+
+
+– Los productos del tipo PAI 050A Sistema básico para implante de oído medio con procesador externo precisan 60 pilas al año. No obstante, el número de pilas a entregar dependerá del tiempo de duración de cada una de ellas informado por el fabricante.
+
+
+
+
+
+
+
+
+
+
+ Se facilitarán los procesadores con telebobina con capacidad de conexión con sistemas de inducción magnética, integrada en los mismos, en caso de que el paciente lo solicite y las características del dispositivo lo permitan.
+
+
+Grupo: 89 99 Otros recambios de componentes externos de implantes quirúrgicos
+
+
+Subgrupo: 89 99 00 Recambios de componentes externos del estimulador diafragmático o electroestimulador del nervio frénico
+
+
+El procedimiento de acceso a los recambios que establezca cada administración sanitaria competente incluirá los seguimientos y las revisiones que se precisen.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Categorías (Código homologado
+
+
+y descripción)
+
+
+
+
+
+
+Tipos de productos (Código y descripción)
+
+
+
+
+
+
+Elaboración
+
+
+
+
+
+
+Vida media
+
+
+–
+
+
+Meses
+
+
+
+
+
+
+IMF
+
+
+
+
+
+
+IMF si
+
+
+
+
+
+
+
+
+
+
+
+
+PRI 000 Sistema básico completo para estimulador diafragmático o electroestimulador del nervio frénico.
+
+
+PRI 000A Sistema básico completo para estimulador diafragmático o electroestimulador del nervio frénico (Incluye un controlador de estímulos, un módulo de programación, dos baterías externas de níquel manganeso, un cargador especial para las baterías externas, dos baterías recargables, un cargador para batería recargable, 4 antenas, 4 cables y una funda).
+
+
+
+
+EMP0
+
+
+
+
+
+
+96
+
+
+
+
+
+
+36.038,09
+
+
+
+
+
+
+32.761,90
+
+
+
+
+
+
+
+
+PRI 010 Otros componentes externos para estimulador diafragmático o electroestimulador del nervio frénico.
+
+
+PRI 010A Antena para estimulador diafragmático (unidad).
+
+
+EMP0
+
+
+24
+
+
+632,50
+
+
+575,00
+
+
+
+
+
+
+PRI 010B Cable de transferencia de energía para estimulador diafragmático (unidad).
+
+
+EMP0
+
+
+24
+
+
+339,90
+
+
+309,00
+
+
+
+
+
+
+PRI 010C Batería de níquel manganeso para estimulador diafragmático (unidad).
+
+
+EMP0
+
+
+24
+
+
+541,20
+
+
+492,00
+
+
+
+
+
+
+
+
+Grupo: 12 22 Sillas de ruedas de propulsión manual (no se consideran incluidas las sillas de ruedas manuales con ruedas grandes delanteras maniobradas por los dos brazos, las sillas de ruedas propulsadas con el pie, ni las sillas de ruedas con motor, salvo las incluidas en el grupo 12 23) 
+
+
+Subgrupo: 12 22 00 Sillas de ruedas manuales para personas con patologías o discapacidades que les impidan la marcha funcional de forma permanente
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Categorías (Código homologado
+
+
+y descripción)
+
+
+
+
+Tipos de productos (Código y descripción)
+
+
+Elaboración
+
+
+
+
+Vida media
+
+
+–
+
+
+Meses
+
+
+
+
+IMF
+
+
+IMF si
+
+
+
+
+
+
+
+
+
+
+SRM 000 Silla de ruedas manual no autopropulsable no plegable (rígida).
+
+
+SRM 000A Silla de ruedas manual no autopropulsable no plegable (rígida), con reposabrazos desmontables y/o abatibles y reposapiés abatibles y regulables.
+
+
+BAS
+
+
+48
+
+
+258,15
+
+
+234,68
+
+
+
+
+
+
+SRM 000B Silla de ruedas manual no autopropulsable no plegable (rígida), con reposabrazos desmontables y/o abatibles y reposapiés abatibles y regulables, para usuarios de más de 130 kg.
+
+
+BAS
+
+
+48
+
+
+549,87
+
+
+499,88
+
+
+
+
+
+
+SRM 010 Silla de ruedas manual no autopropulsable plegable.
+
+
+SRM 010A Silla de ruedas manual no autopropulsable plegable, con reposabrazos desmontables y/o abatibles y reposapiés abatibles y regulables.
+
+
+BAS
+
+
+36
+
+
+258,15
+
+
+234,68
+
+
+
+
+
+
+SRM 010B Silla de ruedas manual no autopropulsable plegable, con reposabrazos desmontables y/o abatibles y reposapiés abatibles y regulables, con respaldo reclinable.
+
+
+BAS
+
+
+36
+
+
+358,15
+
+
+325,59
+
+
+
+
+
+
+SRM 010C Silla de ruedas manual no autopropulsable plegable, con reposabrazos desmontables y/o abatibles y reposapiés abatibles y regulables, para usuarios de más de 130 kg.
+
+
+BAS
+
+
+36
+
+
+549,87
+
+
+499,88
+
+
+
+
+
+
+SRM 020 Silla de ruedas manual no autopropulsable plegable o rígida, infantil.
+
+
+SRM 020A Silla de ruedas manual no autopropulsable plegable, infantil, para alteraciones funcionales, tipo paraguas.
+
+
+BAS
+
+
+24
+
+
+515,17
+
+
+468,34
+
+
+
+
+
+
+SRM 020B Silla de ruedas manual no autopropulsable, desmontable, de plegado en libro, basculante, infantil ajustable al crecimiento del niño.
+
+
+ADAP2
+
+
+24
+
+
+1.618,94
+
+
+1.471,76
+
+
+
+
+
+
+SRM 020C Silla de ruedas manual no autopropulsable, plegable o rígida, basculante, infantil, para alteraciones neurológicas graves.
+
+
+ADAP2
+
+
+24
+
+
+2.146,79
+
+
+1.951,63
+
+
+
+
+
+
+SRM 030 Silla de ruedas manual autopropulsable no plegable (rígida).
+
+
+SRM 030A Silla de ruedas manual autopropulsable no plegable (rígida), con reposabrazos desmontables y/o abatibles y reposapiés abatibles y regulables.
+
+
+BAS
+
+
+36
+
+
+258,15
+
+
+234,68
+
+
+
+
+
+
+SRM 030B Silla de ruedas manual autopropulsable no plegable (rígida), con reposabrazos desmontables y/o abatibles y reposapiés abatibles y regulables, para usuarios de más de 130 kg.
+
+
+BAS
+
+
+36
+
+
+549,87
+
+
+499,88
+
+
+
+
+
+
+SRM 030C Silla de ruedas manual autopropulsable no plegable (rígida), de verticalización, con sistema de sujeción en rodilla, para usuarios activos con lesión medular congénita o adquirida y antecedentes de úlcera por decúbito recidivante a pesar de tratamiento quirúrgico (especial prescripción).
+
+
+ADAP1
+
+
+36
+
+
+3.157,55
+
+
+2.870,50
+
+
+
+
+
+
+SRM 030D Silla de ruedas manual autopropulsable no plegable (rígida), con reposabrazos desmontables y/o abatibles y/o protectores de ropa, reposapiés fijos o abatibles y regulables, con ruedas de desmontaje rápido, de material ligero para usuarios activos, con patología medular de cualquier etiología o enfermedades neuromusculares (especial prescripción).
+
+
+ADAP1
+
+
+36
+
+
+2.000,85
+
+
+1.818,95
+
+
+
+
+
+
+
+
+
+
+SRM 040 Silla de ruedas manual autopropulsable plegable.
+
+
+SRM 040A Silla de ruedas manual autopropulsable y plegable, con reposabrazos desmontables y/o abatibles y reposapiés abatibles y regulables.
+
+
+BAS
+
+
+36
+
+
+258,15
+
+
+234,68
+
+
+
+
+
+
+SRM 040B Silla de ruedas manual autopropulsable y plegable, con reposabrazos desmontables y/o abatibles y reposapiés abatibles y regulables, con respaldo reclinable.
+
+
+BAS
+
+
+36
+
+
+478,85
+
+
+435,32
+
+
+
+
+
+
+SRM 040C Silla de ruedas manual autopropulsable y plegable, con reposabrazos desmontables y/o abatibles y reposapiés abatibles y regulables, para usuarios de más de 130 kg.
+
+
+BAS
+
+
+24
+
+
+549,87
+
+
+499,88
+
+
+
+
+
+
+SRM 040D Silla de ruedas manual autopropulsable y plegable, con reposabrazos desmontables y/o abatibles y reposapiés abatibles y regulables, con ruedas de desmontaje rápido, de material ligero.
+
+
+ADAP1
+
+
+36
+
+
+413,23
+
+
+375,66
+
+
+
+
+
+
+SRM 040E Silla de ruedas manual autopropulsable y plegable, con reposabrazos desmontables y/o abatibles y reposapiés abatibles y regulables, con ruedas de desmontaje rápido, de material ligero, infantil.
+
+
+ADAP1
+
+
+36
+
+
+900,00
+
+
+818,18
+
+
+
+
+
+
+SRM 040F Silla de ruedas manual autopropulsable y plegable, con reposabrazos desmontables y/o abatibles, reposapiés abatibles y regulables, con ruedas de desmontaje rápido, de material ligero para usuarios activos, con patología medular de cualquier etiología o enfermedades neuromusculares (especial prescripción).
+
+
+ADAP1
+
+
+36
+
+
+2.000,85
+
+
+1.818,95
+
+
+
+
+
+
+SRM 050 Chasis y silla basculante para alteraciones neurológicas graves.
+
+
+SRM 050A Chasis posicionador basculante, incluyendo ruedas y frenos, susceptible de adaptaciones especiales, para alteraciones neurológicas graves (especial prescripción).
+
+
+ADAP3
+
+
+36
+
+
+1.604,08
+
+
+1.458,25
+
+
+
+
+
+
+SRM 050B Chasis posicionador basculante, de material ligero, incluyendo ruedas y frenos, susceptible de adaptaciones especiales, para alteraciones neurológicas graves (especial prescripción).
+
+
+ADAP3
+
+
+36
+
+
+1.936,00
+
+
+1.760,00
+
+
+
+
+
+
+SRM 050C Silla basculante, con asiento y respaldo reclinable, reposacabezas, reposabrazos extraíbles, reposapiés elevables, y control postural de tronco, para alteraciones neurológicas graves (especial prescripción).
+
+
+ADAP2
+
+
+36
+
+
+2.574,79
+
+
+2.340,72
+
+
+
+
+
+
+
+
+A aquellas personas que por su elevada obesidad no puedan utilizar sillas de los tipos SRM 000B, SRM 010C, SRM 030B y SRM 040C, se les podrá prescribir una silla de ruedas a medida, con importe según presupuesto.
+
+
+Grupo: 12 23 Sillas de ruedas motorizadas
+
+
+Subgrupo: 12 23 06 Sillas de ruedas de propulsión eléctrica y dirección eléctrica
+
+
+Requisitos: Limitaciones funcionales graves del aparato locomotor por enfermedad, malformación o accidente que cumplan todos y cada uno de los requisitos siguientes:
+
+
+a) Incapacidad permanente para la marcha independiente.
+
+
+b) Incapacidad funcional permanente para la propulsión de sillas de ruedas manuales con las extremidades superiores.
+
+
+c) Suficiente capacidad visual, mental y de control que les permita el manejo de sillas de ruedas eléctricas y ello no suponga un riesgo añadido para su integridad y la de otras personas.
+
+
+Observaciones: A aquellas personas que por su elevada obesidad no puedan utilizar sillas del Tipo SRE 000C, se les podrá prescribir una silla de ruedas a medida, con importe según presupuesto.
+
+
+Para la prescripción de las sillas de propulsión eléctrica se han de tener en cuenta los criterios que se recogen en los protocolos que se establezcan por el responsable de la prestación ortoprotésica.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Categorías (Código homologado
+
+
+y descripción)
+
+
+
+
+Tipos de productos (Código y descripción)
+
+
+Elaboración
+
+
+
+
+Vida media
+
+
+–
+
+
+Meses
+
+
+
+
+IMF
+
+
+IMF si
+
+
+
+
+
+
+
+
+
+
+SRE 000 Silla de ruedas eléctrica.
+
+
+SRE 000A Silla de ruedas eléctrica estándar.
+
+
+ADAP2
+
+
+48
+
+
+3.520,00
+
+
+3.200,00
+
+
+
+
+
+
+SRE 000B Silla de ruedas eléctrica, infantil.
+
+
+ADAP2
+
+
+48
+
+
+4.015,00
+
+
+3.650,00
+
+
+
+
+
+
+SRE 000C Silla de ruedas eléctrica, para usuarios de más de 130 kg.
+
+
+ADAP2
+
+
+60
+
+
+4.725,72
+
+
+4.296,11
+
+
+
+
+
+
+SRE 000D Silla de ruedas eléctrica, con basculación manual.
+
+
+ADAP2
+
+
+60
+
+
+4.125,00
+
+
+3.750,00
+
+
+
+
+
+
+SRE 000E Silla de ruedas eléctrica, con basculación manual, infantil.
+
+
+ADAP2
+
+
+60
+
+
+4.620,00
+
+
+4.200,00
+
+
+
+
+
+
+SRE 000F Silla de ruedas eléctrica, con basculación electrónica.
+
+
+ADAP2
+
+
+60
+
+
+4.455,00
+
+
+4.050,00
+
+
+
+
+
+
+SRE 000G Silla de ruedas eléctrica, con basculación electrónica, infantil.
+
+
+ADAP2
+
+
+60
+
+
+4.950,00
+
+
+4.500,00
+
+
+
+
+
+
+
+
+ Grupo: 12 24 Accesorios para sillas de ruedas
+
+
+Requisitos Personas con patologías o discapacidades que les impidan la marcha funcional de forma permanente.
+
+
+Subgrupo: 12 24 15 Mesas o bandejas portátiles
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Categorías (Código homologado
+
+
+y descripción)
+
+
+
+
+Tipos de productos (Código y descripción)
+
+
+Elaboración
+
+
+
+
+Vida media
+
+
+–
+
+
+Meses
+
+
+
+
+IMF
+
+
+IMF si
+
+
+
+
+
+
+
+
+
+
+SAB 000 Bandeja desmontable especial.
+
+
+SAB 000A Bandeja desmontable especial.
+
+
+COMP1
+
+
+36
+
+
+117,29
+
+
+106,63
+
+
+
+
+
+
+
+
+Subgrupo: 12 24 24. Baterías
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Categorías (Código homologado
+
+
+y descripción)
+
+
+
+
+Tipos de productos (Código y descripción)
+
+
+Elaboración
+
+
+
+
+Vida media
+
+
+–
+
+
+Meses
+
+
+
+
+IMF
+
+
+IMF si
+
+
+
+
+
+
+
+
+
+
+SAT 000 Batería para silla de ruedas eléctrica.
+
+
+SAT 000A Batería para silla de ruedas eléctrica (par) de menos de 50A.
+
+
+COMP0
+
+
+12
+
+
+416,05
+
+
+378,23
+
+
+
+
+
+
+SAT 000B Batería para silla de ruedas eléctrica (par) de 50 A.
+
+
+COMP0
+
+
+12
+
+
+460,05
+
+
+418,23
+
+
+
+
+
+
+SAT 000C Batería para silla de ruedas eléctrica (par) de 60 A.
+
+
+COMP0
+
+
+12
+
+
+566,37
+
+
+514,89
+
+
+
+
+
+
+SAT 000D Batería para silla de ruedas eléctrica (par) de 70 A
+
+
+COMP0
+
+
+12
+
+
+668,23
+
+
+607,49
+
+
+
+
+
+
+
+
+ Subgrupo: 12 24 89. Otros accesorios para sillas de ruedas
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Categorías (Código homologado
+
+
+y descripción)
+
+
+
+
+Tipos de productos (Código y descripción)
+
+
+Elaboración
+
+
+
+
+Vida media
+
+
+–
+
+
+Meses
+
+
+
+
+IMF
+
+
+IMF si
+
+
+
+
+
+
+
+
+
+
+SRA 000 Apoyo postural para silla de ruedas, incluidos tacos y correas.
+
+
+SRA 000A Apoyos laterales para la cabeza (par).
+
+
+COMP2
+
+
+24
+
+
+156,06
+
+
+141,87
+
+
+
+
+
+
+SRA 000B Apoyos laterales para el tronco fijos (par).
+
+
+COMP1
+
+
+24
+
+
+127,05
+
+
+115,50
+
+
+
+
+
+
+SRA 000C Apoyos laterales para el tronco abatibles (par).
+
+
+COMP2
+
+
+24
+
+
+166,00
+
+
+150,91
+
+
+
+
+
+
+SRA 000D Cuña niveladora de pelvis (unidad).
+
+
+COMP1
+
+
+24
+
+
+59,33
+
+
+53,94
+
+
+
+
+
+
+SRA 000E Taco abductor (unidad).
+
+
+COMP1
+
+
+24
+
+
+70,93
+
+
+64,48
+
+
+
+
+
+
+SRA 000F Cincha para la cabeza.
+
+
+COMP1
+
+
+24
+
+
+63,87
+
+
+58,06
+
+
+
+
+
+
+SRA 000G Chaleco de fijación.
+
+
+COMP2
+
+
+24
+
+
+101,92
+
+
+92,65
+
+
+
+
+
+
+SRA 000H Arnés de hombros.
+
+
+COMP1
+
+
+24
+
+
+90,00
+
+
+81,82
+
+
+
+
+
+
+SRA 000I Cinturón de 4 puntos.
+
+
+COMP1
+
+
+24
+
+
+88,07
+
+
+80,06
+
+
+
+
+
+
+SRA 000J Cinturón o arnés pélvico.
+
+
+COMP1
+
+
+24
+
+
+125,09
+
+
+113,72
+
+
+
+
+
+
+SRA 000K Cinchas para pies (par).
+
+
+COMP1
+
+
+24
+
+
+53,76
+
+
+48,87
+
+
+
+
+
+
+SRA 000L Soporte de fluido (unidad).
+
+
+COMP1
+
+
+24
+
+
+62,00
+
+
+56,36
+
+
+
+
+
+
+SRA 010 Reposacabezas.
+
+
+SRA 010A Reposacabezas fijo.
+
+
+COMP1
+
+
+24
+
+
+85,01
+
+
+77,28
+
+
+
+
+
+
+SRA 010B Reposacabezas con apoyo occipital o total, fijo u orientable.
+
+
+COMP1
+
+
+24
+
+
+187,14
+
+
+170,13
+
+
+
+
+
+
+SRA 010C Reposacabezas con apoyo occipital o total, orientable con brazo de una articulación ajustable en altura y profundidad.
+
+
+COMP3
+
+
+24
+
+
+495,00
+
+
+450,00
+
+
+
+
+
+
+SRA 010D Reposacabezas con apoyo occipital o total, orientable con brazo acodado de dos articulaciones, ajustable en altura y profundidad.
+
+
+COMP3
+
+
+24
+
+
+610,67
+
+
+555,15
+
+
+
+
+
+
+SRA 020 Sistema para autopropulsión con un solo brazo.
+
+
+SRA 020A Sistema de doble aro para autopropulsión con un solo brazo.
+
+
+COMP0
+
+
+36
+
+
+383,70
+
+
+348,82
+
+
+
+
+
+
+SRA 020B Palanca.
+
+
+COMP0
+
+
+36
+
+
+431,26
+
+
+392,05
+
+
+
+
+
+
+SRA 030 Otros accesorios.
+
+
+SRA 030A Mando especial de mentón para silla de ruedas eléctrica.
+
+
+COMP3
+
+
+48
+
+
+1.552,57
+
+
+1.411,43
+
+
+
+
+
+
+SRA 030B Otro mando especial para silla de ruedas eléctrica, de acuerdo con los protocolos de los responsables de prestación ortoprotésica (especial prescripción).
+
+
+COMP3
+
+
+48
+
+
+SP
+
+
+SP
+
+
+
+
+
+
+SRA 030C Sistema doble amputado.
+
+
+COMP0
+
+
+36
+
+
+65,85
+
+
+59,86
+
+
+
+
+
+
+SRA 030D Dispositivo especial para respirador.
+
+
+COMP0
+
+
+36
+
+
+162,00
+
+
+147,27
+
+
+
+
+
+
+SRA 030E Dispositivo para bombona de oxígeno.
+
+
+COMP0
+
+
+36
+
+
+83,78
+
+
+76,16
+
+
+
+
+
+
+SRA 030F Subebordillos para silla de ruedas eléctrica.
+
+
+COMP1
+
+
+48
+
+
+216,84
+
+
+197,13
+
+
+
+
+
+
+SRA 030G Rueda antivuelco para silla de ruedas manual.
+
+
+COMP1
+
+
+36
+
+
+49,62
+
+
+45,11
+
+
+
+
+
+
+SRA 030H Alargador de freno.
+
+
+COMP0
+
+
+36
+
+
+20,00
+
+
+18,18
+
+
+
+
+
+
+SRA 030I Base rígida para silla de ruedas.
+
+
+COMP0
+
+
+36
+
+
+51,49
+
+
+46,81
+
+
+
+
+
+
+
+
+ Subgrupo: 12 24 90 Recambios y componentes para sillas de ruedas
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Categorías (Código homologado
+
+
+y descripción)
+
+
+
+
+Tipos de productos (Código y descripción)
+
+
+Elaboración
+
+
+Vida media
+
+
+IMF
+
+
+IMF si
+
+
+
+
+
+
+
+
+
+
+SRC 000 Reposabrazos especial.
+
+
+SRC 000A Reposabrazos de cazoleta.
+
+
+COMP1
+
+
+36
+
+
+108,63
+
+
+98,75
+
+
+
+
+
+
+SRC 000B Reposabrazos envolvente con soporte palmar.
+
+
+COMP1
+
+
+36
+
+
+151,75
+
+
+137,95
+
+
+
+
+
+
+SRC 000C Reposabrazos regulable en altura.
+
+
+COMP0
+
+
+36
+
+
+129,38
+
+
+117,62
+
+
+
+
+
+
+SRC 010 Reposapiés especial.
+
+
+SRC 010A Reposapiés único.
+
+
+COMP1
+
+
+36
+
+
+103,00
+
+
+93,64
+
+
+
+
+
+
+SRC 010B Reposapiés con cazoleta (par).
+
+
+COMP2
+
+
+36
+
+
+193,00
+
+
+175,45
+
+
+
+
+
+
+SRC 010C Reposapiés con elevación manual para silla de ruedas manual o eléctrica (par).
+
+
+COMP1
+
+
+36
+
+
+313,92
+
+
+285,38
+
+
+
+
+
+
+SRC 010D Reposapiés con elevación eléctrica para silla de ruedas eléctricas (par).
+
+
+COMP1
+
+
+36
+
+
+843,76
+
+
+767,05
+
+
+
+
+
+
+SRC 020 Asiento-respaldo postural con carcasa, a medida.
+
+
+SRC 020A Asiento-respaldo postural con carcasa, a medida previo molde.
+
+
+MED
+
+
+24
+
+
+2.500,00
+
+
+2.272,73
+
+
+
+
+
+
+SRC 020B Asiento postural con carcasa, a medida previo molde.
+
+
+MED
+
+
+24
+
+
+1.291,64
+
+
+1.174,22
+
+
+
+
+
+
+SRC 020C Respaldo postural con carcasa, a medida previo molde.
+
+
+MED
+
+
+24
+
+
+1.320,00
+
+
+1.200,00
+
+
+
+
+
+
+SRC 030 Asiento-respaldo postural modular.
+
+
+SRC 030A Plataforma rígida ajustable para asiento postural modular.
+
+
+COMP1
+
+
+36
+
+
+238,50
+
+
+216,82
+
+
+
+
+
+
+SRC 030B Asiento postural modular.
+
+
+COMP3
+
+
+24
+
+
+754,00
+
+
+685,45
+
+
+
+
+
+
+SRC 030C Respaldo postural modular.
+
+
+COMP3
+
+
+24
+
+
+847,00
+
+
+770,00
+
+
+
+
+
+
+
+
+ Grupo: 06 03 Ortesis de columna vertebral
+
+
+Exclusiones No se consideran incluidas las fajas preventivas.
+
+
+Subgrupo: 06 03 06 Ortesis lumbo-sacras (Aportación del usuario: 30 euros)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Categorías (Código homologado
+
+
+y descripción)
+
+
+
+
+Tipos de productos (Código y descripción)
+
+
+Elaboración
+
+
+
+
+Vida media
+
+
+–
+
+
+Meses
+
+
+
+
+IMF
+
+
+IMF si
+
+
+
+
+
+
+
+
+
+
+OTL 000 Ortesis lumbo-sacra semirrígida.
+
+
+OTL 000A Ortesis lumbo-sacra semirrígida elástica con flejes posteriores.
+
+
+BAS
+
+
+24
+
+
+68,28
+
+
+62,07
+
+
+
+
+
+
+OTL 000B Ortesis lumbo-sacra semirrígida en tejido no elástico.
+
+
+BAS
+
+
+24
+
+
+88,20
+
+
+80,18
+
+
+
+
+
+
+OTL 000C Ortesis lumbo-sacra semirrígida en tejido elástico o no elástico para abdomen péndulo.
+
+
+ADAP1
+
+
+24
+
+
+99,00
+
+
+90,00
+
+
+
+
+
+
+OTL 000D Ortesis lumbo-sacra semirrígida para eventración y/u ostomía.
+
+
+ADAP1
+
+
+24
+
+
+99,00
+
+
+90,00
+
+
+
+
+
+
+OTL 000E Ortesis lumbo-sacra semirrígida, a medida, para usuarios con características especiales que no permiten adaptar las prefabricadas.
+
+
+MED
+
+
+24
+
+
+290,95
+
+
+264,50
+
+
+
+
+
+
+OTL 010 Ortesis lumbo-sacra rígida.
+
+
+OTL 010A Ortesis lumbo-sacra rígida, prefabricada.
+
+
+ADAP2
+
+
+24
+
+
+277,31
+
+
+252,10
+
+
+
+
+
+
+OTL 010B Ortesis lumbo-sacra rígida en termoplástico, a medida.
+
+
+MED
+
+
+24
+
+
+538,49
+
+
+489,54
+
+
+
+
+
+
+OTL 010C Ortesis lumbo-sacra Knight.
+
+
+ADAP1
+
+
+24
+
+
+186,30
+
+
+169,36
+
+
+
+
+
+
+OTL 010D Ortesis lumbo-sacra con armazón rígido posterior y tejido elástico.
+
+
+ADAP1
+
+
+24
+
+
+218,10
+
+
+198,27
+
+
+
+
+
+
+
+
+ Subgrupo: 06 03 09. Ortesis toraco-lumbo-sacras (dorso-lumbares) (Aportación del usuario: 30 euros)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Categorías (Código homologado
+
+
+y descripción)
+
+
+
+
+Tipos de productos (Código y descripción)
+
+
+Elaboración
+
+
+
+
+Vida media
+
+
+–
+
+
+Meses
+
+
+
+
+IMF
+
+
+IMF si
+
+
+
+
+
+
+
+
+
+
+OTD 000 Ortesis toraco-lumbar semirrígida.
+
+
+OTD 000A Ortesis toraco-lumbar semirrígida.
+
+
+ADAP1
+
+
+24
+
+
+104,50
+
+
+95,00
+
+
+
+
+
+
+OTD 000B Ortesis toraco-lumbar semirrígida para abdomen péndulo.
+
+
+ADAP1
+
+
+24
+
+
+104,50
+
+
+95,00
+
+
+
+
+
+
+OTD 000C Ortesis toraco-lumbar semirrígida, a medida, para usuarios con características especiales que no permiten adaptar las prefabricadas.
+
+
+MED
+
+
+24
+
+
+242,18
+
+
+220,16
+
+
+
+
+
+
+OTD 010 Ortesis para pectus carinatum (tórax en quilla) o excavatum.
+
+
+OTD 010A Corsé para pectus carinatum (tórax en quilla) o pectus excavatum, a medida.
+
+
+MED
+
+
+12
+
+
+647,65
+
+
+588,77
+
+
+
+
+
+
+OTD 010B Ortesis para pectus carinatum (tórax en quilla), prefabricada.
+
+
+ADAP2
+
+
+12
+
+
+495,00
+
+
+450,00
+
+
+
+
+
+
+OTD 020 Ortesis toraco-lumbar rígida.
+
+
+OTD 020A Ortesis toraco-lumbar rígida monovalva para inmovilización en termoplástico, prefabricada.
+
+
+ADAP2
+
+
+24
+
+
+275,00
+
+
+250,00
+
+
+
+
+
+
+OTD 020B Ortesis toraco-lumbar rígida bivalva con apoyo esternal para inmovilización en termoplástico, prefabricada.
+
+
+ADAP2
+
+
+24
+
+
+448,13
+
+
+407,39
+
+
+
+
+
+
+OTD 020C Ortesis toraco-lumbar rígida para inmovilización en termoplástico, a medida.
+
+
+MED
+
+
+24
+
+
+688,57
+
+
+625,97
+
+
+
+
+
+
+OTD 020D Ortesis toraco-lumbar Taylor, prefabricada.
+
+
+ADAP1
+
+
+24
+
+
+214,19
+
+
+194,72
+
+
+
+
+
+
+OTD 020E Ortesis toraco-lumbar con armazón rígido posterior y tejido elástico.
+
+
+ADAP1
+
+
+24
+
+
+341,00
+
+
+310,00
+
+
+
+
+
+
+OTD 030 Corsé rígido para cifolordosis.
+
+
+OTD 030A Corsé rígido de corrección progresiva para cifolordosis, a medida.
+
+
+MED
+
+
+12
+
+
+988,80
+
+
+898,91
+
+
+
+
+
+
+OTD 030B Corsé rígido de corrección progresiva para cifolordosis articulado, a medida.
+
+
+MED
+
+
+12
+
+
+988,80
+
+
+898,91
+
+
+
+
+
+
+OTD 040 Corsé para escoliosis, a medida.
+
+
+OTD 040A Corsé de Stagnara o Lyones, a medida.
+
+
+MED
+
+
+12
+
+
+977,66
+
+
+888,78
+
+
+
+
+
+
+OTD 040B Corsé de Cheneau, con almohadillas de presión, a medida.
+
+
+MED
+
+
+12
+
+
+1.048,49
+
+
+953,17
+
+
+
+
+
+
+OTD 040C Corsé de Michel, a medida.
+
+
+MED
+
+
+12
+
+
+910,80
+
+
+828,00
+
+
+
+
+
+
+OTD 050 Corsé tipo Boston.
+
+
+OTD 050A Corsé tipo Boston, en termoplástico con aperturas de expansión y almohadillas de presión, con módulo prefabricado.
+
+
+ADAP3
+
+
+12
+
+
+880,00
+
+
+800,00
+
+
+
+
+
+
+OTD 050B Corsé tipo Boston, en termoplástico con aperturas de expansión y almohadillas de presión, talla especial.
+
+
+ADAP3
+
+
+12
+
+
+894,83
+
+
+813,48
+
+
+
+
+
+
+OTD 050C Corsé tipo Boston blando.
+
+
+ADAP2
+
+
+12
+
+
+816,42
+
+
+742,20
+
+
+
+
+
+
+OTD 050D Corsé tipo Boston, en termoplástico con aperturas de expansión y almohadillas de presión, a medida.
+
+
+MED
+
+
+12
+
+
+909,65
+
+
+826,95
+
+
+
+
+
+
+OTD 060 Ortesis de uso nocturno.
+
+
+OTD 060A Ortesis de inclinación lateral de uso nocturno, a medida.
+
+
+MED
+
+
+12
+
+
+1.024,89
+
+
+931,72
+
+
+
+
+
+
+OTD 060B Corsé de termoplástico con sistema de presión en 3 puntos y zonas de expansión de uso nocturno (tipo Providence o similar), a medida.
+
+
+MED
+
+
+12
+
+
+1.049,07
+
+
+953,70
+
+
+
+
+
+
+OTD 070 Ortesis de Kallabis.
+
+
+OTD 070A Ortesis de Kallabis de tres puntos.
+
+
+ADAP2
+
+
+12
+
+
+188,99
+
+
+171,81
+
+
+
+
+
+
+OTD 080 Ortesis de hiperextensión.
+
+
+OTD 080A Ortesis de hiperextensión de Jewett.
+
+
+ADAP2
+
+
+24
+
+
+216,37
+
+
+196,70
+
+
+
+
+
+
+OTD 080B Ortesis de hiperextensión cruciforme.
+
+
+ADAP2
+
+
+12
+
+
+225,37
+
+
+204,88
+
+
+
+
+
+
+OTD 080C Ortesis de hiperextensión basculante.
+
+
+ADAP2
+
+
+12
+
+
+234,37
+
+
+213,06
+
+
+
+
+
+
+OTD 090 Lecho postural.
+
+
+OTD 090A Lecho postural Denis Browne para escoliosis del lactante.
+
+
+ADAP1
+
+
+12
+
+
+442,63
+
+
+402,39
+
+
+
+
+
+
+OTD 090B Lecho postural en termoplástico, a medida previo molde.
+
+
+MED
+
+
+12
+
+
+600,46
+
+
+545,87
+
+
+
+
+
+
+
+
+Subgrupo: 06 03 12 Ortesis cervicales (Aportación del usuario: 30 euros)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Categorías (Código homologado
+
+
+y descripción)
+
+
+
+
+Tipos de productos (Código y descripción)
+
+
+Elaboración
+
+
+
+
+Vida media
+
+
+–
+
+
+Meses
+
+
+
+
+IMF
+
+
+IMF si
+
+
+
+
+
+
+
+
+
+
+OTC 000 Ortesis cervical semirrígida.
+
+
+OTC 000A Soporte cervical semirrígido en termoplástico blando con refuerzo, bivalvo, con apoyo mentoniano.
+
+
+ADAP1
+
+
+24
+
+
+43,20
+
+
+39,27
+
+
+
+
+
+
+OTC 010 Ortesis cervical rígida.
+
+
+OTC 010A Ortesis cervical rígida en termoplástico, con apoyo occipital y mentoniano regulable o no.
+
+
+ADAP1
+
+
+24
+
+
+179,28
+
+
+162,98
+
+
+
+
+
+
+
+
+Subgrupo: 06 03 15 Ortesis cérvico-torácicas (Aportación del usuario: 30 euros)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Categorías (Código homologado
+
+
+y descripción)
+
+
+
+
+Tipos de productos (Código y descripción)
+
+
+Elaboración
+
+
+
+
+Vida media
+
+
+–
+
+
+Meses
+
+
+
+
+IMF
+
+
+IMF si
+
+
+
+
+
+
+
+
+
+
+OTT 000 Ortesis cervical tipo Somi.
+
+
+OTT 000A Soporte cervical tipo Somi.
+
+
+ADAP2
+
+
+24
+
+
+289,10
+
+
+262,82
+
+
+
+
+
+
+OTT 010 Minerva larga.
+
+
+OTT 010A Minerva larga, a medida previo molde.
+
+
+MED
+
+
+24
+
+
+592,63
+
+
+538,75
+
+
+
+
+
+
+OTT 010B Minerva larga, prefabricada.
+
+
+ADAP2
+
+
+24
+
+
+410,56
+
+
+373,24
+
+
+
+
+
+
+OTT 020 Chaleco para halo.
+
+
+OTT 020A Chaleco para halo.
+
+
+ADAP3
+
+
+24
+
+
+273,85
+
+
+248,95
+
+
+
+
+
+
+
+
+Subgrupo: 06 03 18 Ortesis cérvico-toraco-lumbo-sacras (Aportación del usuario: 30 euros)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Categorías (Código homologado
+
+
+y descripción)
+
+
+
+
+Tipos de productos (Código y descripción)
+
+
+Elaboración
+
+
+
+
+Vida media
+
+
+–
+
+
+Meses
+
+
+
+
+IMF
+
+
+IMF si
+
+
+
+
+
+
+
+
+
+
+OTS 000 Corsé de Milwaukee.
+
+
+OTS 000A Corsé de Milwaukee con cesta pélvica en cuero y placas correctoras, a medida.
+
+
+MED
+
+
+12
+
+
+1.190,97
+
+
+1.082,70
+
+
+
+
+
+
+OTS 000B Corsé de Milwaukee con cesta pélvica en termoplástico y placas correctoras, a medida.
+
+
+MED
+
+
+12
+
+
+822,82
+
+
+748,02
+
+
+
+
+
+
+OTS 900 Supraestructura.
+
+
+OTS 900A Supraestructura de corsé de Milwaukee adaptada a otro tipo de corsé.
+
+
+ADAP3
+
+
+12
+
+
+340,02
+
+
+309,11
+
+
+
+
+
+
+OTS 910 Cambio de cesta pélvica.
+
+
+OTS 910A Cesta pélvica en cuero para corsé de Milwaukee, a medida.
+
+
+MED
+
+
+12
+
+
+850,95
+
+
+773,59
+
+
+
+
+
+
+OTS 910B Cesta pélvica en termoplástico para corsé de Milwaukee, a medida.
+
+
+MED
+
+
+12
+
+
+482,80
+
+
+438,91
+
+
+
+
+
+
+
+
+ Grupo: 06 06 Ortesis de miembro superior
+
+
+Subgrupo: 06 06 03 Ortesis de dedos (Aportación del usuario: 12 euros)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Categorías (Código homologado
+
+
+y descripción)
+
+
+
+
+Tipos de productos (Código y descripción)
+
+
+Elaboración
+
+
+
+
+Vida media
+
+
+–
+
+
+Meses
+
+
+
+
+IMF
+
+
+IMF si
+
+
+
+
+
+
+
+
+
+
+OSD 000 Ortesis pasiva para dedo pulgar.
+
+
+OSD 000A Ortesis pasiva rígida para mantener el pulgar en oposición o abducción, prefabricada.
+
+
+ADAP1
+
+
+24
+
+
+68,50
+
+
+62,27
+
+
+
+
+
+
+OSD 000B Ortesis pasiva en termoplástico para mantener el pulgar en oposición o abducción, a medida.
+
+
+MED
+
+
+24
+
+
+87,60
+
+
+79,64
+
+
+
+
+
+
+OSD 010 Ortesis pasiva para dedo.
+
+
+OSD 010A Ortesis pasiva rígida para inmovilización de dedo, prefabricada.
+
+
+BAS
+
+
+24
+
+
+25,29
+
+
+22,99
+
+
+
+
+
+
+OSD 010B Ortesis pasiva en termoplástico para inmovilización de dedo, a medida.
+
+
+MED
+
+
+24
+
+
+44,29
+
+
+40,26
+
+
+
+
+
+
+OSD 020 Ortesis activa para dedo pulgar.
+
+
+OSD 020A Ortesis activa para dedo pulgar, prefabricada.
+
+
+ADAP1
+
+
+12
+
+
+73,16
+
+
+66,51
+
+
+
+
+
+
+OSD 030 Ortesis activa flexora/extensora para dedo.
+
+
+OSD 030A Ortesis activa extensora para dedo.
+
+
+ADAP1
+
+
+12
+
+
+42,64
+
+
+38,76
+
+
+
+
+
+
+OSD 030B Ortesis activa flexora para dedo.
+
+
+ADAP1
+
+
+12
+
+
+42,64
+
+
+38,76
+
+
+
+
+
+
+
+
+Subgrupo: 06 06 06 Ortesis de mano (Aportación del usuario: 12 euros)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Categorías (Código homologado
+
+
+y descripción)
+
+
+
+
+Tipos de productos (Código y descripción)
+
+
+Elaboración
+
+
+
+
+Vida media
+
+
+–
+
+
+Meses
+
+
+
+
+IMF
+
+
+IMF si
+
+
+
+
+
+
+
+
+
+
+OSM 000 Ortesis pasiva para mantener las articulaciones metacarpofalángicas en una posición determinada.
+
+
+OSM 000A Ortesis pasiva para mantener las articulaciones metacarpofalángicas en una posición determinada, prefabricada.
+
+
+ADAP1
+
+
+24
+
+
+107,80
+
+
+98,00
+
+
+
+
+
+
+OSM 000B Ortesis pasiva para mantener las articulaciones metacarpofalángicas en una posición determinada, a medida.
+
+
+MED
+
+
+24
+
+
+116,13
+
+
+105,57
+
+
+
+
+
+
+OSM 000C Ortesis pasiva progresiva para llevar las articulaciones metacarpofalángicas a una posición determinada.
+
+
+ADAP1
+
+
+24
+
+
+121,97
+
+
+110,88
+
+
+
+
+
+
+OSM 010 Ortesis activa flexora o extensora de articulaciones metacarpofalángicas.
+
+
+OSM 010A Ortesis activa extensora de articulaciones metacarpofalángicas.
+
+
+ADAP1
+
+
+24
+
+
+122,55
+
+
+111,41
+
+
+
+
+
+
+OSM 010B Ortesis activa flexora de articulaciones metacarpofalángicas.
+
+
+ADAP1
+
+
+24
+
+
+122,55
+
+
+111,41
+
+
+
+
+
+
+OSM 010C Ortesis activa flexora de articulaciones metacarpofalángicas y aditamento extensor de dedo/s.
+
+
+ADAP1
+
+
+24
+
+
+146,56
+
+
+133,24
+
+
+
+
+
+
+OSM 010D Ortesis activa extensora de articulaciones metacarpofalángicas y aditamento extensor/abductor del pulgar.
+
+
+ADAP1
+
+
+24
+
+
+148,90
+
+
+135,36
+
+
+
+
+
+
+OSM 010E Ortesis activa flexora de articulaciones metacarpofalángicas y aditamento extensor/abductor del pulgar.
+
+
+ADAP1
+
+
+24
+
+
+148,90
+
+
+135,36
+
+
+
+
+
+
+
+
+Subgrupo: 06 06 12 Ortesis de muñeca y mano (Aportación del usuario: 30 euros)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Categorías (Código homologado
+
+
+y descripción)
+
+
+
+
+Tipos de productos (Código y descripción)
+
+
+Elaboración
+
+
+
+
+Vida media
+
+
+–
+
+
+Meses
+
+
+
+
+IMF
+
+
+IMF si
+
+
+
+
+
+
+
+
+
+
+OSN 000 Ortesis pasiva de muñeca.
+
+
+OSN 000A Ortesis pasiva de muñeca.
+
+
+ADAP1
+
+
+24
+
+
+61,60
+
+
+56,00
+
+
+
+
+
+
+OSN 010 Ortesis activa de muñeca.
+
+
+OSN 010A Ortesis activa de muñeca.
+
+
+ADAP1
+
+
+18
+
+
+140,31
+
+
+127,55
+
+
+
+
+
+
+OSN 020 Ortesis activa flexora o extensora de las articulaciones metacarpofalángicas con estabilización de la articulación de la muñeca.
+
+
+OSN 020A Ortesis activa flexora de las articulaciones metacarpofalángicas con estabilización de la articulación de la muñeca.
+
+
+ADAP1
+
+
+18
+
+
+199,00
+
+
+180,91
+
+
+
+
+
+
+OSN 020B Ortesis activa extensora de las articulaciones metacarpofalángicas con estabilización de la articulación de la muñeca.
+
+
+ADAP1
+
+
+18
+
+
+199,00
+
+
+180,91
+
+
+
+
+
+
+
+
+ Subgrupo: 06 06 13 Ortesis de muñeca, mano y dedos (Aportación del usuario: 30 euros)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Categorías (Código homologado
+
+
+y descripción)
+
+
+
+
+Tipos de productos (Código y descripción)
+
+
+Elaboración
+
+
+
+
+Vida media
+
+
+–
+
+
+Meses
+
+
+
+
+IMF
+
+
+IMF si
+
+
+
+
+
+
+
+
+
+
+OSU 000 Ortesis pasiva de muñeca, mano y dedo/s.
+
+
+OSU 000A Ortesis pasiva de muñeca, mano y dedo/s, prefabricada.
+
+
+ADAP2
+
+
+24
+
+
+125,92
+
+
+114,47
+
+
+
+
+
+
+OSU 000B Ortesis pasiva de muñeca, mano y dedo/s, a medida.
+
+
+MED
+
+
+24
+
+
+168,98
+
+
+153,62
+
+
+
+
+
+
+OSU 010 Ortesis activa de muñeca, mano y dedo/s.
+
+
+OSU 010A Ortesis activa para flexión dorsal de muñeca, extensión o flexión de articulaciones metacarpofalángicas e interfalángicas, con o sin dispositivo abductor del pulgar, prefabricada.
+
+
+ADAP1
+
+
+12
+
+
+247,12
+
+
+224,65
+
+
+
+
+
+
+OSU 010B Ortesis activa para flexión dorsal de muñeca, extensión o flexión de articulaciones metacarpofalángicas e interfalángicas, con o sin dispositivo abductor del pulgar, a medida.
+
+
+MED
+
+
+12
+
+
+370,80
+
+
+337,09
+
+
+
+
+
+
+
+
+Subgrupo: 06 06 15 Ortesis de codo (Aportación del usuario: 30 euros)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Categorías (Código homologado
+
+
+y descripción)
+
+
+
+
+Tipos de productos (Código y descripción)
+
+
+Elaboración
+
+
+
+
+Vida media
+
+
+–
+
+
+Meses
+
+
+
+
+IMF
+
+
+IMF si
+
+
+
+
+
+
+
+
+
+
+OSC 000 Ortesis pasiva de codo.
+
+
+OSC 000A Ortesis pasiva de codo sin articulación, prefabricada.
+
+
+ADAP1
+
+
+24
+
+
+165,57
+
+
+150,52
+
+
+
+
+
+
+OSC 000B Ortesis pasiva de codo sin articulación, a medida.
+
+
+MED
+
+
+24
+
+
+205,78
+
+
+187,07
+
+
+
+
+
+
+OSC 010 Ortesis activa de codo.
+
+
+OSC 010A Ortesis activa de codo para flexión y/o extensión con articulación regulable incluida, prefabricada.
+
+
+ADAP1
+
+
+18
+
+
+331,89
+
+
+301,72
+
+
+
+
+
+
+OSC 010B Ortesis activa de codo para flexión y/o extensión, a medida (Prescribir además una articulación regulable a elección).
+
+
+MED
+
+
+18
+
+
+368,39
+
+
+334,90
+
+
+
+
+
+
+
+
+Subgrupo: 06 06 20 Ortesis de antebrazo (Aportación del usuario: 30 euros)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Categorías (Código homologado
+
+
+y descripción)
+
+
+
+
+Tipos de productos (Código y descripción)
+
+
+Elaboración
+
+
+
+
+Vida media.
+
+
+Meses
+
+
+
+
+IMF
+
+
+IMF si
+
+
+
+
+
+
+
+
+
+
+OSA 000 Ortesis pasiva de antebrazo.
+
+
+OSA 000A Ortesis pasiva de antebrazo, prefabricada.
+
+
+ADAP1
+
+
+24
+
+
+111,24
+
+
+101,13
+
+
+
+
+
+
+OSA 000B Ortesis pasiva de antebrazo, a medida.
+
+
+MED
+
+
+24
+
+
+169,28
+
+
+153,89
+
+
+
+
+
+
+
+
+Subgrupo: 06 06 24 Ortesis de hombro y codo (Aportación del usuario: 30 euros)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Categorías (Código homologado
+
+
+y descripción)
+
+
+
+
+Tipos de productos (Código y descripción)
+
+
+Elaboración
+
+
+
+
+Vida media.
+
+
+Meses
+
+
+
+
+IMF
+
+
+IMF si
+
+
+
+
+
+
+
+
+
+
+OSB 000 Ortesis pasiva de brazo.
+
+
+OSB 000A Ortesis pasiva para inmovilización ósea de brazo en termoplástico, prefabricada.
+
+
+ADAP1
+
+
+24
+
+
+151,80
+
+
+138,00
+
+
+
+
+
+
+OSB 000B Ortesis pasiva para inmovilización ósea de brazo en termoplástico, a medida.
+
+
+MED
+
+
+24
+
+
+239,91
+
+
+218,10
+
+
+
+
+
+
+
+
+Subgrupo: 06 06 27 Ortesis de hombro, codo y muñeca (Aportación del usuario: 30 euros)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Categorías (Código homologado
+
+
+y descripción)
+
+
+
+
+Tipos de productos (Código y descripción)
+
+
+Elaboración
+
+
+
+
+Vida media.
+
+
+Meses
+
+
+
+
+IMF
+
+
+IMF si
+
+
+
+
+
+
+
+
+
+
+OSH 000 Ortesis pasiva de hombro, codo y muñeca, sin articulación.
+
+
+OSH 000A Ortesis pasiva para mantener hombro, codo y muñeca en una posición determinada.
+
+
+ADAP1
+
+
+24
+
+
+270,60
+
+
+246,00
+
+
+
+
+
+
+OSH 000B Ortesis pasiva para subluxación de hombro.
+
+
+ADAP1
+
+
+24
+
+
+132,48
+
+
+120,44
+
+
+
+
+
+
+OSH 010 Ortesis de hombro, codo y muñeca, con articulaciones.
+
+
+OSH 010A Ortesis pasiva de hombro, codo y muñeca con articulación de codo.
+
+
+ADAP1
+
+
+24
+
+
+322,73
+
+
+293,39
+
+
+
+
+
+
+OSH 010B Ortesis multiarticulada pasiva para control de articulaciones de hombro, codo y muñeca.
+
+
+ADAP1
+
+
+24
+
+
+496,56
+
+
+451,42
+
+
+
+
+
+
+OSH 010C Ortesis multiarticulada activa para control de articulaciones de hombro, codo y muñeca.
+
+
+ADAP2
+
+
+24
+
+
+737,00
+
+
+670,00
+
+
+
+
+
+
+OSH 020 Ortesis pasiva para parálisis del plexo braquial, obstétrica o infantil.
+
+
+OSH 020A Ortesis pasiva para parálisis del plexo braquial, obstétrica o infantil, prefabricada.
+
+
+ADAP2
+
+
+12
+
+
+231,50
+
+
+210,45
+
+
+
+
+
+
+OSH 020B Ortesis pasiva para parálisis del plexo braquial, obstétrica o infantil, a medida.
+
+
+MED
+
+
+12
+
+
+376,17
+
+
+341,97
+
+
+
+
+
+
+
+
+Subgrupo: 0 06 36 Articulaciones de codo (Aportación del usuario: 0 euros)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Categorías (Código homologado
+
+
+y descripción)
+
+
+
+
+Tipos de productos (Código y descripción)
+
+
+Elaboración
+
+
+
+
+Vida media.
+
+
+Meses
+
+
+
+
+IMF
+
+
+IMF si
+
+
+
+
+
+
+
+
+
+
+OSO 000 Articulación de codo
+
+
+OSO 000A Articulación de codo mecánica monocéntrica.
+
+
+COMP0
+
+
+24
+
+
+72,73
+
+
+66,12
+
+
+
+
+
+
+OSO 000B Articulación de codo mecánica policéntrica.
+
+
+COMP0
+
+
+24
+
+
+128,32
+
+
+116,65
+
+
+
+
+
+
+OSO 000C Articulación de codo tipo tornillo sin fin.
+
+
+COMP2
+
+
+24
+
+
+87,45
+
+
+79,50
+
+
+
+
+
+
+OSO 000D Articulación de codo tipo cremallera o rueda dentada.
+
+
+COMP0
+
+
+24
+
+
+195,84
+
+
+178,04
+
+
+
+
+
+
+OSO 000E Articulación de codo dinámica y activa.
+
+
+COMP0
+
+
+24
+
+
+364,73
+
+
+331,57
+
+
+
+
+
+
+
+
+ Grupo: 06 12 Ortesis de miembro inferior
+
+
+Exclusiones No se consideran incluidas las ortesis de pie ni las rodilleras en tejido elástico sin flejes.
+
+
+Subgrupo: 06 12 06 Ortesis de tobillo y pie (tibiales) (Aportación del usuario: 30 euros)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Categorías (Código homologado
+
+
+y descripción)
+
+
+
+
+Tipos de productos (Código y descripción)
+
+
+Elaboración
+
+
+
+
+Vida media
+
+
+–
+
+
+Meses
+
+
+
+
+IMF
+
+
+IMF si
+
+
+
+
+
+
+
+
+
+
+OIT 000 Ortesis posterior pasiva tibial.
+
+
+OIT 000A Ortesis posterior pasiva tibial.
+
+
+ADAP2
+
+
+24
+
+
+136,06
+
+
+123,69
+
+
+
+
+
+
+OIT 010 Ortesis de Denis Browne.
+
+
+OIT 010A Ortesis Denis Browne, para menores de 3 años (Prescribir además un botín o bota).
+
+
+ADAP1
+
+
+24
+
+
+57,90
+
+
+52,64
+
+
+
+
+
+
+OIT 010B Ortesis Denis Browne articulada, para menores de 3 años (Prescribir además un botín o bota).
+
+
+ADAP1
+
+
+24
+
+
+96,54
+
+
+87,76
+
+
+
+
+
+
+OIT 020 Botín multiarticulado.
+
+
+OIT 020A Botín multiarticulado (unidad).
+
+
+ADAP1
+
+
+12
+
+
+111,14
+
+
+101,04
+
+
+
+
+
+
+OIT 030 Ortesis para inmovilización de la articulación tibio-tarsiana.
+
+
+OIT 030A Ortesis no articulada para inmovilización medio-lateral y de la flexo-extensión de la articulación tibio-tarsiana.
+
+
+ADAP1
+
+
+24
+
+
+110,00
+
+
+100,00
+
+
+
+
+
+
+OIT 040 Ortesis tibial de marcha en descarga.
+
+
+OIT 040A Ortesis tibial de marcha en descarga.
+
+
+ADAP1
+
+
+24
+
+
+259,26
+
+
+235,69
+
+
+
+
+
+
+OIT 050 Ortesis de control medio-lateral de la articulación tibio-tarsiana.
+
+
+OIT 050A Ortesis de control medio-lateral de la articulación tibio-tarsiana con dos hemivalvas y cámara de aire o gel.
+
+
+BAS
+
+
+24
+
+
+99,72
+
+
+90,65
+
+
+
+
+
+
+OIT 050B Ortesis de control medio-lateral de la articulación tibio-tarsiana con sistema de contención.
+
+
+BAS
+
+
+24
+
+
+53,90
+
+
+49,00
+
+
+
+
+
+
+OIT 050C Ortesis dinámica para ligamentos laterales del tobillo.
+
+
+BAS
+
+
+24
+
+
+89,73
+
+
+81,57
+
+
+
+
+
+
+OIT 060 Ortesis dinámica antiequino.
+
+
+OIT 060A Ortesis posterior antiequino, «Rancho Los Amigos», prefabricada.
+
+
+ADAP1
+
+
+24
+
+
+127,26
+
+
+115,69
+
+
+
+
+
+
+OIT 060B Ortesis posterior antiequino, «Rancho Los Amigos», a medida.
+
+
+MED
+
+
+24
+
+
+246,85
+
+
+224,41
+
+
+
+
+
+
+OIT 060C Ortesis antiequino, dinámica, en alambre de acero anclada a zapato.
+
+
+ADAP2
+
+
+24
+
+
+168,30
+
+
+153,00
+
+
+
+
+
+
+OIT 060D Ortesis antiequino, dinámica con tensor elástico anterior.
+
+
+BAS
+
+
+24
+
+
+124,98
+
+
+113,62
+
+
+
+
+
+
+OIT 060E Bitutor de Klenzack, a medida (unidad).
+
+
+MED
+
+
+24
+
+
+433,58
+
+
+394,16
+
+
+
+
+
+
+OIT 060F Ortesis tibial antiequino termoconformada, a medida.
+
+
+MED
+
+
+24
+
+
+233,48
+
+
+212,25
+
+
+
+
+
+
+OIT 060G Ortesis tibial antiequino termoconformada con valva anterior, a medida.
+
+
+MED
+
+
+24
+
+
+285,03
+
+
+259,12
+
+
+
+
+
+
+OIT 060H Ortesis posterior dinámica antiequino, con fleje lateral y plantilla termoplástica para interior de zapato.
+
+
+ADAP1
+
+
+24
+
+
+234,66
+
+
+213,33
+
+
+
+
+
+
+OIT 070 Ortesis dinámica antiequino tipo DAFO.
+
+
+OIT 070A Ortesis supramaleolar tipo DAFO envolvente para control de prono-supinación, con o sin dorsiflexión, para paciente neurológico infantil, a medida.
+
+
+MED
+
+
+12
+
+
+407,61
+
+
+370,55
+
+
+
+
+
+
+OIT 070B Ortesis supramaleolar tipo DAFO envolvente en medio-pie flexible para bloqueo de flexión plantar, para paciente neurológico infantil, a medida.
+
+
+MED
+
+
+12
+
+
+407,61
+
+
+370,55
+
+
+
+
+
+
+OIT 070C Ortesis supramaleolar tipo DAFO envolvente en medio-pie flexible con botín interior para bloqueo de flexión plantar, para paciente neurológico infantil, a medida.
+
+
+MED
+
+
+12
+
+
+493,72
+
+
+448,84
+
+
+
+
+
+
+OIT 070D Ortesis supramaleolar tipo DAFO envolvente en medio-pie flexible con botín interior para bloqueo de flexión plantar y apoyo prepatelar, para paciente neurológico infantil, a medida.
+
+
+MED
+
+
+12
+
+
+640,93
+
+
+582,66
+
+
+
+
+
+
+OIT 070E Ortesis supramaleolar tipo DAFO envolvente en medio-pie, flexible con botín interior, para bloqueo de flexión plantar, articulada, para paciente neurológico infantil, a medida.
+
+
+MED
+
+
+12
+
+
+503,54
+
+
+457,76
+
+
+
+
+
+
+OIT 070F Ortesis supramaleolar tipo DAFO envolvente en medio-pie, flexible con botín interior, para bloqueo de flexión plantar, articulada, para paciente neurológico infantil con hiperextensión de rodilla, a medida.
+
+
+MED
+
+
+12
+
+
+572,04
+
+
+520,04
+
+
+
+
+
+
+OIT 070G Ortesis supramaleolar tipo DAFO envolvente para control de prono-supinación, con o sin dorsiflexión, para paciente neurológico infantil, prefabricada.
+
+
+ADAP1
+
+
+12
+
+
+154,35
+
+
+140,32
+
+
+
+
+
+
+OIT 070H Ortesis supramaleolar tipo DAFO envolvente para control de prono-supinación, con bloqueo de la flexión plantar y articulación Tamarack, que asiste a la dorsiflexión, para paciente neurológico infantil, a medida.
+
+
+MED
+
+
+12
+
+
+677,40
+
+
+615,82
+
+
+
+
+
+
+OIT 080 Bitutor corto.
+
+
+OIT 080A Bitutor corto, a medida (unidad) (Prescribir además, si lo precisa, una articulación de tobillo a elección)
+
+
+MED
+
+
+24
+
+
+325,20
+
+
+295,64
+
+
+
+
+
+
+OIT 090 Polaina desde el tobillo hasta debajo de la rodilla.
+
+
+OIT 090A Polaina desde el tobillo hasta debajo de la rodilla, a medida.
+
+
+MED
+
+
+24
+
+
+212,56
+
+
+193,24
+
+
+
+
+
+
+OIT 100 Ortesis funcional tipo PTB (
+Patellar Tendon Bearing
+).
+
+
+OIT 100A Ortesis funcional tipo PTB (
+Patellar TendonBearing
+), prefabricada.
+
+
+ADAP2
+
+
+24
+
+
+207,28
+
+
+188,44
+
+
+
+
+
+
+OIT 100B Ortesis funcional tipo PTB (
+Patellar TendonBearing
+), a medida.
+
+
+MED
+
+
+24
+
+
+422,72
+
+
+384,29
+
+
+
+
+
+
+OIT 110 Ortesis para la descarga del pie, con apoyo de tendón rotuliano.
+
+
+OIT 110A Ortesis para la descarga del pie, con apoyo en tendón rotuliano y estribo deslizante, con alza contralateral, a medida.
+
+
+MED
+
+
+24
+
+
+469,69
+
+
+426,99
+
+
+
+
+
+
+OIT 900 Botín.
+
+
+OIT 900A Botín de cuero moldeado para adaptar a ortesis, a medida.
+
+
+MED
+
+
+24
+
+
+270,96
+
+
+246,33
+
+
+
+
+
+
+OIT 900B Botín para Denis Browne para menores de 3 años
+
+
+COMP1
+
+
+6
+
+
+78,11
+
+
+71,01
+
+
+
+
+
+
+OIT 910 Bota tipo boxer para adaptar a ortesis de marcha (par).
+
+
+OIT 910A Bota tipo boxer para adaptar a ortesis de marcha. Hasta el número 23 (par).
+
+
+COMP1
+
+
+12
+
+
+132,00
+
+
+120,00
+
+
+
+
+
+
+OIT 910B Bota tipo boxer para adaptar a ortesis de marcha. Números 24 al 29 (par).
+
+
+COMP1
+
+
+12
+
+
+137,50
+
+
+125,00
+
+
+
+
+
+
+OIT 910C Bota tipo boxer para adaptar a ortesis de marcha. Números 30 al 33 (par).
+
+
+COMP1
+
+
+12
+
+
+145,20
+
+
+132,00
+
+
+
+
+
+
+OIT 910D Bota tipo boxer para adaptar a ortesis de marcha. Números 34 al 37 (par).
+
+
+COMP1
+
+
+12
+
+
+152,90
+
+
+139,00
+
+
+
+
+
+
+OIT 910E Bota tipo boxer para adaptar a ortesis de marcha. Números 38 y superiores (par).
+
+
+COMP1
+
+
+12
+
+
+159,50
+
+
+145,00
+
+
+
+
+
+
+OIT 920 Correa en «T» para antivalgo o antivaro.
+
+
+OIT 920A Correa en «T» para antivalgo o antivaro.
+
+
+COMP0
+
+
+24
+
+
+50,29
+
+
+45,72
+
+
+
+
+
+
+
+
+Subgrupo: 06 12 09 Ortesis de rodilla (Aportación del usuario: 30 euros)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Categorías (Código homologado
+
+
+y descripción)
+
+
+
+
+Tipos de productos (Código y descripción)
+
+
+Elaboración
+
+
+
+
+Vida media
+
+
+–
+
+
+Meses
+
+
+
+
+IMF
+
+
+IMF si
+
+
+
+
+
+
+
+
+
+
+OIR 000 Ortesis pasiva para la inmovilización de la rodilla.
+
+
+OIR 000A Ortesis pasiva para la inmovilización de rodilla sin articulación.
+
+
+BAS
+
+
+24
+
+
+98,45
+
+
+89,50
+
+
+
+
+
+
+OIR 000B Ortesis pasiva para la inmovilización de rodilla con articulación.
+
+
+ADAP1
+
+
+24
+
+
+137,39
+
+
+124,90
+
+
+
+
+
+
+OIR 010 Ortesis para la articulación de la rodilla, con sistema de estabilización (varillas, flejes, etc.).
+
+
+OIR 010A Ortesis para la articulación de rodilla, con sistema de estabilización.
+
+
+BAS
+
+
+24
+
+
+75,90
+
+
+69,00
+
+
+
+
+
+
+OIR 010B Ortesis para la articulación de rodilla, con sistema de estabilización y rodete rotuliano de compresión intermitente.
+
+
+BAS
+
+
+24
+
+
+87,59
+
+
+79,63
+
+
+
+
+
+
+OIR 020 Ortesis de rodilla estabilizadora con articulación graduable de flexo-extensión.
+
+
+OIR 020A Ortesis de rodilla estabilizadora con articulación monocéntrica graduable de flexo-extensión.
+
+
+ADAP1
+
+
+24
+
+
+210,10
+
+
+191,00
+
+
+
+
+
+
+OIR 020B Ortesis de rodilla estabilizadora con articulación policéntrica graduable de flexo-extensión.
+
+
+ADAP1
+
+
+24
+
+
+272,59
+
+
+247,81
+
+
+
+
+
+
+OIR 030 Ortesis para el control mediolateral y de flexo-extensión de la rodilla.
+
+
+OIR 030A Ortesis de rodilla para control de genu recurvatum.
+
+
+ADAP1
+
+
+24
+
+
+377,30
+
+
+343,00
+
+
+
+
+
+
+OIR 030B Ortesis de rodilla para el control de inestabilidad mediolateral (varo-valgo).
+
+
+ADAP1
+
+
+24
+
+
+390,17
+
+
+354,70
+
+
+
+
+
+
+OIR 030C Ortesis para el control mediolateral y de flexo-extensión de la rodilla (ligamento cruzado anterior (LCA) y/o posterior (LCP)).
+
+
+ADAP1
+
+
+24
+
+
+417,52
+
+
+379,56
+
+
+
+
+
+
+OIR 030D Ortesis para el control mediolateral y/o de flexo-extensión de la rodilla, a medida, bajo protocolo.
+
+
+MED
+
+
+24
+
+
+575,04
+
+
+522,76
+
+
+
+
+
+
+
+
+ Subgrupo: 06 12 12 Ortesis de rodilla, tobillo y pie (femorales) (Aportación del usuario: 30 euros)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Categorías (Código homologado
+
+
+y descripción)
+
+
+
+
+Tipos de productos (Código y descripción)
+
+
+Elaboración
+
+
+
+
+Vida media
+
+
+–
+
+
+Meses
+
+
+
+
+IMF
+
+
+IMF si
+
+
+
+
+
+
+
+
+
+
+OIF 000 Ortesis de valva posterior de muslo y pierna rígida.
+
+
+OIF 000A Ortesis para extensión de rodilla mediante valva posterior de muslo, pierna y pie, con galápago de tracción sobre rodilla, en termoplástico, a medida.
+
+
+MED
+
+
+24
+
+
+350,09
+
+
+318,26
+
+
+
+
+
+
+OIF 000B Ortesis para extensión de rodilla mediante valva posterior de muslo, pierna y pie, con dispositivo de tracción dinámica sobre rodilla, en termoplástico, a medida.
+
+
+MED
+
+
+24
+
+
+436,67
+
+
+396,97
+
+
+
+
+
+
+OIF 010 Ortesis de abducción.
+
+
+OIF 010A Ortesis de abducción de tobillo a muslo con pletina graduable, a medida.
+
+
+MED
+
+
+24
+
+
+419,79
+
+
+381,63
+
+
+
+
+
+
+OIF 020 Muslera conformada en termoplástico.
+
+
+OIF 020A Muslera conformada en termoplástico, a medida.
+
+
+MED
+
+
+24
+
+
+215,19
+
+
+195,63
+
+
+
+
+
+
+OIF 030 Ortesis estabilizadora de rodilla.
+
+
+OIF 030A Ortesis de rodilla a pie con apoyo anterior en tendón rotuliano y supracondilar, a medida.
+
+
+MED
+
+
+24
+
+
+381,49
+
+
+346,81
+
+
+
+
+
+
+OIF 040 Ortesis correctora dinámica genu-valgo o varo.
+
+
+OIF 040A Ortesis genu-valgo o varo, con barra externa o interna unida a bota, aro de muslo y galápago elástico para corrección dinámica (unidad), a medida.
+
+
+MED
+
+
+24
+
+
+356,94
+
+
+324,49
+
+
+
+
+
+
+OIF 050 Ortesis de Grenier.
+
+
+OIF 050A Ortesis de Grenier con dos valvas mediales de muslo, a medida.
+
+
+MED
+
+
+24
+
+
+326,67
+
+
+296,97
+
+
+
+
+
+
+OIF 060 Ortesis femoral QTB (
+Quadrilateral Thigh Bearing
+).
+
+
+OIF 060A Ortesis funcional QTB (
+Quadrilateral Thigh Bearing
+) en termoplástico, a medida (Prescribir además una articulación de rodilla y una articulación de tobillo a elección).
+
+
+MED
+
+
+24
+
+
+551,86
+
+
+501,69
+
+
+
+
+
+
+
+
+ Subgrupo: 06 12 15 Ortesis de cadera, incluyendo ortesis de abducción (Aportación del usuario: 30 euros)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Categorías (Código homologado
+
+
+y descripción)
+
+
+
+
+Tipos de productos (Código y descripción)
+
+
+Elaboración
+
+
+
+
+Vida media
+
+
+–
+
+
+Meses
+
+
+
+
+IMF
+
+
+IMF si
+
+
+
+
+
+
+
+
+
+
+OIC 000 Ortesis de inmovilización de cadera sin articulación.
+
+
+OIC 000A Ortesis de inmovilización de cadera sin articulación, a medida.
+
+
+MED
+
+
+24
+
+
+513,12
+
+
+466,47
+
+
+
+
+
+
+OIC 000B Ortesis de inmovilización de cadera sin articulación, prefabricada.
+
+
+ADAP1
+
+
+24
+
+
+353,41
+
+
+321,28
+
+
+
+
+
+
+OIC 010 Ortesis para la displasia congénita de cadera.
+
+
+OIC 010A Ortesis para mantener caderas en abducción (tipo Frejka o similar).
+
+
+ADAP1
+
+
+24
+
+
+96,06
+
+
+87,33
+
+
+
+
+
+
+OIC 010B Ortesis para mantener caderas en abducción y rotación externa mediante arnés con tirantes (Arnés de Pavlik).
+
+
+ADAP1
+
+
+12
+
+
+132,63
+
+
+120,57
+
+
+
+
+
+
+OIC 010C Ortesis multiarticulada para mantener caderas en abducción y rotación externa de forma independiente.
+
+
+ADAP2
+
+
+24
+
+
+733,07
+
+
+666,43
+
+
+
+
+
+
+OIC 020 Ortesis modular desrotadora de cadera.
+
+
+OIC 020A Ortesis modular desrotadora de cadera, a medida.
+
+
+MED
+
+
+24
+
+
+331,46
+
+
+301,33
+
+
+
+
+
+
+OIC 030 Ortesis de Atlanta (o del Hospital Scottish Rite en Atlanta).
+
+
+OIC 030A Ortesis de Atlanta (o del Hospital Scottish Rite en Atlanta), a medida.
+
+
+MED
+
+
+24
+
+
+660,00
+
+
+600,00
+
+
+
+
+
+
+OIC 040 Ortesis modular de abducción de cadera.
+
+
+OIC 040A Ortesis modular de abducción de cadera regulable con control de la flexo-extensión.
+
+
+ADAP2
+
+
+24
+
+
+579,87
+
+
+527,15
+
+
+
+
+
+
+
+
+ Subgrupo: 06 12 18 Ortesis de cadera, rodilla, tobillo y pie (Aportación del usuario: 30 euros)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Categorías (Código homologado
+
+
+y descripción)
+
+
+
+
+Tipos de productos (Código y descripción)
+
+
+Elaboración
+
+
+
+
+Vida media
+
+
+–
+
+
+Meses
+
+
+
+
+IMF
+
+
+IMF si
+
+
+
+
+
+
+
+
+
+
+OIE 000 Bitutor femoral metálico.
+
+
+OIE 000A Bitutor femoral metálico con aros, a medida (unidad) (Prescribir además articulación de rodilla y articulación de tobillo a elección y, si lo precisa, un botín).
+
+
+MED
+
+
+24
+
+
+891,12
+
+
+810,11
+
+
+
+
+
+
+OIE 000B Bitutor femoral metálico con muslera de apoyo isquiático, a medida (unidad) (Prescribir además articulación de rodilla y articulación de tobillo a elección y, si lo precisa, un botín).
+
+
+MED
+
+
+24
+
+
+991,99
+
+
+901,81
+
+
+
+
+
+
+OIE 000C Bitutor femoral metálico, con encaje cuadrangular, a medida (unidad) (Prescribir además articulación de rodilla y articulación de tobillo a elección y, si lo precisa, un botín).
+
+
+MED
+
+
+24
+
+
+1.107,88
+
+
+1.007,16
+
+
+
+
+
+
+OIE 000D Bitutor femoral metálico con cinturón pélvico, a medida (unidad) (Prescribir además articulación de cadera, articulación rodilla y articulación de tobillo a elección y, si lo precisa, un botín).
+
+
+MED
+
+
+24
+
+
+1.009,04
+
+
+917,31
+
+
+
+
+
+
+OIE 000E Bitutor femoral metálico con muslera de apoyo isquiático y cinturón pélvico, a medida (unidad) (Prescribir además articulación de cadera, articulación de rodilla y articulación de tobillo a elección y, si lo precisa, un botín).
+
+
+MED
+
+
+24
+
+
+1.109,91
+
+
+1.009,01
+
+
+
+
+
+
+OIE 000F Bitutor femoral metálico con encaje cuadrangular y cinturón pélvico, a medida (unidad) (Prescribir además articulación de cadera, articulación rodilla y articulación de tobillo a elección y, si lo precisa, un botín).
+
+
+MED
+
+
+24
+
+
+1.225,80
+
+
+1.114,36
+
+
+
+
+
+
+OIE 010 Monotutor femoral.
+
+
+OIE 010A Monotutor femoral laminado en resina con articulación de rodilla y articulación de tobillo o ballesta, a medida.
+
+
+MED
+
+
+24
+
+
+3.410,00
+
+
+3.100,00
+
+
+
+
+
+
+OIE 020 Ortesis femoral.
+
+
+OIE 020A Ortesis termoconformada al vacío desde pie a tercio proximal de muslo, a medida (TPV) (Prescribir además una articulación de rodilla y una articulación de tobillo a elección).
+
+
+MED
+
+
+24
+
+
+790,96
+
+
+719,05
+
+
+
+
+
+
+OIE 030 Ortesis tipo Swash.
+
+
+OIE 030A Ortesis de abducción variable desrotadora femoral (tipo Swash), infantil.
+
+
+ADAP3
+
+
+24
+
+
+956,97
+
+
+869,97
+
+
+
+
+
+
+OIE 040 Ortesis femoral de abducción en acero de Tachdjian.
+
+
+OIE 040A Ortesis femoral de abducción de Tachdjian (unilateral) en acero, a medida, con encaje trilateral, articulación en rodilla, control de rotación, estribo de marcha, mecanismo distractor del pie y alza contralateral.
+
+
+MED
+
+
+24
+
+
+1.200,03
+
+
+1.090,94
+
+
+
+
+
+
+OIE 050 Ortesis desrotadora femoral.
+
+
+OIE 050A Ortesis desrotadora femoral (tipo twister) (unidad).
+
+
+ADAP2
+
+
+18
+
+
+252,67
+
+
+229,70
+
+
+
+
+
+
+OIE 050B Ortesis desrotadora femoral en tejido elástico (unidad).
+
+
+ADAP1
+
+
+18
+
+
+40,70
+
+
+37,00
+
+
+
+
+
+
+OIE 900 Dispositivo estabilizador y reciprocador para adaptar a ortesis de marcha bilateral.
+
+
+OIE 900A Dispositivo estabilizador y reciprocador para adaptar a ortesis de marcha bilateral (Prescribir además una ortesis de marcha bilateral a elección).
+
+
+ADAP3
+
+
+36
+
+
+2.750,00
+
+
+2.500,00
+
+
+
+
+
+
+
+
+Subgrupo: 06 12 21 Articulaciones de tobillo (Aportación del usuario: 0 euros)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Categorías (Código homologado
+
+
+y descripción)
+
+
+
+
+Tipos de productos (Código y descripción)
+
+
+Elaboración
+
+
+
+
+Vida media
+
+
+–
+
+
+Meses
+
+
+
+
+IMF
+
+
+IMF si
+
+
+
+
+
+
+
+
+
+
+OIO 000 Articulación de tobillo.
+
+
+OIO 000A Articulación rígida de tobillo libre.
+
+
+COMP1
+
+
+24
+
+
+125,40
+
+
+114,00
+
+
+
+
+
+
+OIO 000B Articulación rígida de tobillo, con control del movimiento dorsal y plantar.
+
+
+COMP1
+
+
+24
+
+
+140,80
+
+
+128,00
+
+
+
+
+
+
+OIO 000C Articulación flexible de tobillo con asistencia del movimiento de flexión dorsal y/o plantar.
+
+
+COMP1
+
+
+24
+
+
+129,80
+
+
+118,00
+
+
+
+
+
+
+OIO 000D Articulación rígida de tobillo con asistencia dinámica del movimiento de flexión dorsal y/o plantar tipo Klenzack.
+
+
+COMP1
+
+
+24
+
+
+129,01
+
+
+117,28
+
+
+
+
+
+
+OIO 000E Articulación flexible de tobillo con asistencia del movimiento de flexión dorsal y/o plantar variable.
+
+
+COMP1
+
+
+24
+
+
+264,00
+
+
+240,00
+
+
+
+
+
+
+OIO 000F Articulación flexible de tobillo con asistencia del movimiento de flexión dorsal y/o plantar con tope posterior.
+
+
+COMP1
+
+
+24
+
+
+135,30
+
+
+123,00
+
+
+
+
+
+
+
+
+Subgrupo: 06 12 24 Articulaciones de rodilla (Aportación del usuario: 0 euros)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Categorías (Código homologado
+
+
+y descripción)
+
+
+
+
+Tipos de productos (Código y descripción)
+
+
+Elaboración
+
+
+
+
+Vida media
+
+
+–
+
+
+Meses
+
+
+
+
+IMF
+
+
+IMF si
+
+
+
+
+
+
+
+
+
+
+OIA 000 Articulación de rodilla libre.
+
+
+OIA 000A Articulación de rodilla libre.
+
+
+COMP1
+
+
+24
+
+
+163,19
+
+
+148,35
+
+
+
+
+
+
+OIA 000B Articulación de rodilla libre con eje desplazado.
+
+
+COMP1
+
+
+24
+
+
+278,40
+
+
+253,09
+
+
+
+
+
+
+OIA 000C Articulación de rodilla libre con asistencia a la extensión.
+
+
+COMP1
+
+
+24
+
+
+554,65
+
+
+504,23
+
+
+
+
+
+
+OIA 010 Articulación de rodilla con cierre de anillas.
+
+
+OIA 010A Articulación de rodilla con cierre de anillas.
+
+
+COMP1
+
+
+24
+
+
+301,80
+
+
+274,36
+
+
+
+
+
+
+OIA 020 Articulación de rodilla con cierre suizo.
+
+
+OIA 020A Articulación de rodilla con cierre suizo con o sin sistema de amortiguación.
+
+
+COMP2
+
+
+24
+
+
+435,11
+
+
+395,55
+
+
+
+
+
+
+OIA 030 Articulación de rodilla policéntrica.
+
+
+OIA 030A Articulación de rodilla policéntrica.
+
+
+COMP1
+
+
+24
+
+
+484,37
+
+
+440,34
+
+
+
+
+
+
+OIA 040 Articulación de rodilla progresiva.
+
+
+OIA 040A Articulación de rodilla progresiva dentada con bloqueo en la flexión.
+
+
+COMP1
+
+
+24
+
+
+580,80
+
+
+528,00
+
+
+
+
+
+
+
+
+Subgrupo: 06 12 27 Articulaciones de cadera (Aportación del usuario: 0 euros)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Categorías (Código homologado
+
+
+y descripción)
+
+
+
+
+Tipos de productos (Código y descripción)
+
+
+Elaboración
+
+
+
+
+Vida media
+
+
+–
+
+
+Meses
+
+
+
+
+IMF
+
+
+IMF si
+
+
+
+
+
+
+
+
+
+
+OID 000 Articulación de cadera libre.
+
+
+OID 000A Articulación de cadera libre, en acero.
+
+
+COMP1
+
+
+24
+
+
+264,29
+
+
+240,26
+
+
+
+
+
+
+OID 000B Articulación de cadera libre, en acero, con movimiento de abducción.
+
+
+COMP1
+
+
+24
+
+
+324,86
+
+
+295,33
+
+
+
+
+
+
+OID 010 Articulación de cadera con cierre de anillas.
+
+
+OID 010A Articulación de cadera con cierre de anillas.
+
+
+COMP1
+
+
+24
+
+
+254,43
+
+
+231,30
+
+
+
+
+
+
+OID 010B Articulación de cadera con cierre de anillas y movimiento de abducción.
+
+
+COMP1
+
+
+24
+
+
+324,86
+
+
+295,33
+
+
+
+
+
+
+
+
+Subgrupo 06 12 90: Recambios y componentes para ortesis de miembro inferior (Aportación del usuario: 0 euros)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Categorías (Código homologado
+
+
+y descripción)
+
+
+
+
+Tipos de productos (Código y descripción)
+
+
+Elaboración
+
+
+
+
+Vida media
+
+
+–
+
+
+Meses
+
+
+
+
+IMF
+
+
+IMF si
+
+
+
+
+
+
+
+
+
+
+OIS 900 Recambios y componentes para ortesis de miembro inferior.
+
+
+OIS 900A Cinturón pélvico para ortesis de miembro inferior.
+
+
+COMP0
+
+
+24
+
+
+117,92
+
+
+107,20
+
+
+
+
+
+
+OIS 900B Cinturón pélvico con soporte glúteo.
+
+
+COMP0
+
+
+24
+
+
+160,36
+
+
+145,78
+
+
+
+
+
+
+OIS 900C Barra para ortesis de miembro inferior.
+
+
+COMP0
+
+
+24
+
+
+23,61
+
+
+21,46
+
+
+
+
+
+
+OIS 900D Estribo para ortesis de miembro inferior.
+
+
+COMP0
+
+
+24
+
+
+63,27
+
+
+57,52
+
+
+
+
+
+
+OIS 900E Galápago, prefabricado.
+
+
+COMP0
+
+
+18
+
+
+17,07
+
+
+15,52
+
+
+
+
+
+
+OIS 900F Galápago, a medida.
+
+
+MED
+
+
+24
+
+
+110,00
+
+
+100,00
+
+
+
+
+
+
+
+
+ Grupo: 06 33 Calzados ortopédicos
+
+
+Subgrupo: 06 33 90 Calzados ortopédicos para grandes deformidades (Aportación del usuario: 36 euros)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Categorías (Código homologado
+
+
+y descripción)
+
+
+
+
+Tipos de productos (Código y descripción)
+
+
+Elaboración
+
+
+
+
+Vida media
+
+
+–
+
+
+Meses
+
+
+
+
+IMF
+
+
+IMF si
+
+
+
+
+
+
+
+
+
+
+OCO 000 Calzado de plastazote, licra, fibra elástica o similar (par).
+
+
+OCO 000A Calzado ortopédico en plastazote, licra, fibra elástica o similar para deformidades en pies diabéticos, artríticos y neuropáticos (par).
+
+
+BAS
+
+
+12
+
+
+97,93
+
+
+89,03
+
+
+
+
+
+
+OCO 010 Calzado a medida.
+
+
+OCO 010A Calzado ortopédico, a medida, previo molde, para grandes deformidades (par).
+
+
+MED
+
+
+12
+
+
+728,56
+
+
+662,33
+
+
+
+
+
+
+
+
+ Grupo: 12 03 Productos de apoyo para caminar manejados por un brazo
+
+
+Subgrupo: 12 03 09 Muletas de codo con soporte en antebrazo (Aportación del usuario: 12 euros)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Categorías (Código homologado
+
+
+y descripción)
+
+
+
+
+Tipos de productos (Código y descripción)
+
+
+Elaboración
+
+
+
+
+Vida media
+
+
+–
+
+
+Meses
+
+
+
+
+IMF
+
+
+IMF si
+
+
+
+
+
+
+
+
+
+
+EMS 000 Muleta con soporte en antebrazo y empuñadura anatómica.
+
+
+EMS 000A Muleta con soporte en antebrazo y empuñadura anatómica con o sin abrazadera (unidad).
+
+
+BAS
+
+
+36
+
+
+23,82
+
+
+21,65
+
+
+
+
+
+
+
+
+Subgrupo: 12 03 16 Muletas con tres o más patas (Aportación del usuario: 12 euros)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Categorías (Código homologado
+
+
+y descripción)
+
+
+
+
+Tipos de productos (Código y descripción)
+
+
+Elaboración
+
+
+
+
+Vida media
+
+
+–
+
+
+Meses
+
+
+
+
+IMF
+
+
+IMF si
+
+
+
+
+
+
+
+
+
+
+EMT 000 Muleta con tres o más patas.
+
+
+EMT 000A Muleta con tres o más patas.
+
+
+BAS
+
+
+36
+
+
+44,97
+
+
+40,88
+
+
+
+
+
+
+
+
+Grupo: 12 06 Productos de apoyo para caminar manejados por los dos brazos
+
+
+ Subgrupo: 12 06 00 Andadores (Aportación del usuario: 30 euros)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Categorías (Código homologado
+
+
+y descripción)
+
+
+
+
+Tipos de productos (Código y descripción)
+
+
+Elaboración
+
+
+
+
+Vida media
+
+
+–
+
+
+Meses
+
+
+
+
+IMF
+
+
+IMF si
+
+
+
+
+
+
+
+
+
+
+EAN 000 Andador sin ruedas.
+
+
+EAN 000A Andador fijo regulable en altura.
+
+
+BAS
+
+
+36
+
+
+75,53
+
+
+68,66
+
+
+
+
+
+
+EAN 000B Andador plegable de altura regulable.
+
+
+BAS
+
+
+36
+
+
+82,40
+
+
+74,91
+
+
+
+
+
+
+EAN 000C Andador deambulador plegable de altura regulable.
+
+
+BAS
+
+
+36
+
+
+104,46
+
+
+94,96
+
+
+
+
+
+
+EAN 010 Andador con ruedas.
+
+
+EAN 010A Andador de ruedas delanteras y tacos traseros, para niños y adultos.
+
+
+BAS
+
+
+36
+
+
+93,91
+
+
+85,37
+
+
+
+
+
+
+EAN 010B Andador de ruedas delanteras y tacos traseros con asiento, para niños y adultos.
+
+
+BAS
+
+
+36
+
+
+101,48
+
+
+92,25
+
+
+
+
+
+
+EAN 010C Andador con ruedas delanteras giratorias y traseras con freno, con o sin asiento (rollator), para niños y adultos.
+
+
+BAS
+
+
+36
+
+
+130,52
+
+
+118,65
+
+
+
+
+
+
+EAN 020 Andador con control postural de tronco y pelvis.
+
+
+EAN 020A Andador con control postural de tronco y pelvis, graduable en altura y con freno, para niños y adultos.
+
+
+ADAP2
+
+
+36
+
+
+1.414,01
+
+
+1.285,46
+
+
+
+
+
+
+EAN 030 Andador anteroposterior.
+
+
+EAN 030A Andador anteroposterior graduable en altura, con asiento abatible y freno, para niños y adultos.
+
+
+ADAP2
+
+
+36
+
+
+837,36
+
+
+761,24
+
+
+
+
+
+
+
+
+Grupo: 04 06 Productos para la terapia del linfedema
+
+
+ Subgrupo: 04 06 06 Prendas de compresión para brazos, piernas y otras partes del cuerpo para linfedema de miembros superiores, linfedemas graves de miembros inferiores y linfedemas de tronco 8 se podrán indicar dos unidades de cada producto en cada prescripción) (Aportación del usuario: 30 euros)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Categorías (Código homologado
+
+
+y descripción)
+
+
+
+
+Tipos de productos (Código y descripción)
+
+
+Elaboración
+
+
+
+
+Vida media
+
+
+–
+
+
+Meses
+
+
+
+
+IMF
+
+
+IMF si
+
+
+
+
+
+
+
+
+
+
+EPL 000 Soporte de cuello para linfedema.
+
+
+EPL 000A Soporte de cuello para linfedema, a medida.
+
+
+MED
+
+
+6
+
+
+132,41
+
+
+120,37
+
+
+
+
+
+
+EPL 010 Máscara para linfedema.
+
+
+EPL 010A Máscara abierta para linfedema, a medida.
+
+
+MED
+
+
+6
+
+
+313,98
+
+
+285,44
+
+
+
+
+
+
+EPL 010B Máscara abierta con banda labial para linfedema, a medida.
+
+
+MED
+
+
+6
+
+
+334,36
+
+
+303,96
+
+
+
+
+
+
+EPL 010C Máscara con apertura para ojos, nariz y boca para linfedema, a medida.
+
+
+MED
+
+
+6
+
+
+421,27
+
+
+382,97
+
+
+
+
+
+
+EPL 020 Camiseta para linfedema.
+
+
+EPL 020A Camiseta sin mangas para linfedema de tronco, a medida.
+
+
+MED
+
+
+6
+
+
+278,93
+
+
+253,57
+
+
+
+
+
+
+EPL 020B Camiseta con mangas largas para linfedema de tronco, a medida.
+
+
+MED
+
+
+6
+
+
+469,49
+
+
+426,81
+
+
+
+
+
+
+EPL 030 Soporte de mama para afectación linfática.
+
+
+EPL 030A Soporte de mama para afectación linfática, prefabricado.
+
+
+ADAP1
+
+
+6
+
+
+140,00
+
+
+127,27
+
+
+
+
+
+
+EPL 040 Guantelete y guante para linfedema.
+
+
+EPL 040A Guantelete para linfedema, a medida.
+
+
+MED
+
+
+6
+
+
+52,53
+
+
+47,75
+
+
+
+
+
+
+EPL 040B Guantelete para linfedema, prefabricado.
+
+
+BAS
+
+
+6
+
+
+31,74
+
+
+28,85
+
+
+
+
+
+
+EPL 040C Guante sin protección distal para linfedema, a medida.
+
+
+MED
+
+
+6
+
+
+150,07
+
+
+136,43
+
+
+
+
+
+
+EPL 040D Guante sin protección distal para linfedema, prefabricado.
+
+
+ADAP1
+
+
+6
+
+
+125,85
+
+
+114,41
+
+
+
+
+
+
+EPL 040E Guante con protección distal para linfedema, a medida.
+
+
+MED
+
+
+6
+
+
+157,61
+
+
+143,28
+
+
+
+
+
+
+EPL 040F Guante hasta el codo sin protección distal para linfedema, a medida.
+
+
+MED
+
+
+6
+
+
+175,25
+
+
+159,32
+
+
+
+
+
+
+EPL 040G Guante hasta el codo con protección distal para linfedema, a medida.
+
+
+MED
+
+
+6
+
+
+181,21
+
+
+164,74
+
+
+
+
+
+
+EPL 050 Manga para linfedema.
+
+
+EPL 050A Manga para linfedema, a medida.
+
+
+MED
+
+
+6
+
+
+108,70
+
+
+98,82
+
+
+
+
+
+
+EPL 050B Manga para linfedema, prefabricada.
+
+
+BAS
+
+
+6
+
+
+105,60
+
+
+96,00
+
+
+
+
+
+
+EPL 050C Manga con guantelete para linfedema, a medida.
+
+
+MED
+
+
+6
+
+
+147,94
+
+
+134,49
+
+
+
+
+
+
+EPL 050D Manga con guantelete para linfedema, prefabricada.
+
+
+ADAP1
+
+
+6
+
+
+109,69
+
+
+99,72
+
+
+
+
+
+
+EPL 050E Manga con guante para linfedema, a medida.
+
+
+MED
+
+
+6
+
+
+232,57
+
+
+211,43
+
+
+
+
+
+
+EPL 050F Manga abarcando el hombro para linfedema, a medida.
+
+
+MED
+
+
+6
+
+
+154,47
+
+
+140,43
+
+
+
+
+
+
+EPL 050G Manga abarcando el hombro para linfedema, prefabricada.
+
+
+ADAP1
+
+
+6
+
+
+121,79
+
+
+110,72
+
+
+
+
+
+
+EPL 050H Manga abarcando el hombro con guantelete para linfedema, a medida.
+
+
+MED
+
+
+6
+
+
+213,66
+
+
+194,24
+
+
+
+
+
+
+EPL 050I Manga abarcando el hombro con guantelete para linfedema, prefabricada.
+
+
+ADAP1
+
+
+6
+
+
+174,96
+
+
+159,05
+
+
+
+
+
+
+EPL 050J Manga abarcando el hombro con guante para linfedema, a medida.
+
+
+MED
+
+
+6
+
+
+298,73
+
+
+271,57
+
+
+
+
+
+
+EPL 060 Guante con dedos para pie para linfedema.
+
+
+EPL 060A Guante sin protección distal para pie para linfedema, a medida.
+
+
+MED
+
+
+6
+
+
+149,67
+
+
+136,06
+
+
+
+
+
+
+EPL 060B Guante con protección distal para pie para linfedema, a medida.
+
+
+MED
+
+
+6
+
+
+152,14
+
+
+138,31
+
+
+
+
+
+
+EPL 070 Media para linfedema.
+
+
+EPL 070A Media hasta la rodilla para linfedema, a medida.
+
+
+MED
+
+
+6
+
+
+106,82
+
+
+97,11
+
+
+
+
+
+
+EPL 070B Media hasta la rodilla para linfedema, prefabricada.
+
+
+ADAP1
+
+
+6
+
+
+84,44
+
+
+76,76
+
+
+
+
+
+
+EPL 070C Media entera para linfedema, a medida.
+
+
+MED
+
+
+6
+
+
+165,44
+
+
+150,40
+
+
+
+
+
+
+EPL 070D Media entera para linfedema, prefabricada.
+
+
+ADAP1
+
+
+6
+
+
+109,14
+
+
+99,22
+
+
+
+
+
+
+
+
+EPL 070E Media entera con sujeción a la cintura para linfedema, a
+
+
+medida.
+
+
+
+
+MED
+
+
+6
+
+
+173,03
+
+
+157,30
+
+
+
+
+
+
+EPL 080 Panty para linfedema.
+
+
+EPL 080A Panty de una extremidad para linfedema, a medida.
+
+
+MED
+
+
+6
+
+
+282,15
+
+
+256,50
+
+
+
+
+
+
+EPL 080B Panty de una extremidad para linfedema, prefabricado.
+
+
+ADAP1
+
+
+6
+
+
+246,63
+
+
+224,21
+
+
+
+
+
+
+EPL 080C Panty (de dos piernas) para linfedema, a medida.
+
+
+MED
+
+
+6
+
+
+353,67
+
+
+321,52
+
+
+
+
+
+
+EPL 080D Panty (de dos piernas) para linfedema, prefabricado.
+
+
+ADAP1
+
+
+6
+
+
+319,06
+
+
+290,05
+
+
+
+
+
+
+EPL 090 Pantalón para linfedema.
+
+
+EPL 090A Pantalón de pernera corta para linfedema, a medida.
+
+
+MED
+
+
+6
+
+
+251,82
+
+
+228,93
+
+
+
+
+
+
+EPL 090B Pantalón para linfedema, a medida.
+
+
+MED
+
+
+6
+
+
+309,79
+
+
+281,63
+
+
+
+
+
+
+EPL 100 Prenda autoajustable para linfedema de miembro superior.
+
+
+EPL 100A Guantelete autoajustable de baja elasticidad o inelástico, prefabricado.
+
+
+ADAP1
+
+
+12
+
+
+52,89
+
+
+48,08
+
+
+
+
+
+
+EPL 100B Guante autoajustable de baja elasticidad o inelástico, a medida.
+
+
+MED
+
+
+12
+
+
+143,29
+
+
+130,26
+
+
+
+
+
+
+EPL 100C Prenda para brazo autoajustable de baja elasticidad o inelástica, a medida.
+
+
+MED
+
+
+12
+
+
+298,62
+
+
+271,47
+
+
+
+
+
+
+EPL 100D Prenda para brazo autoajustable de baja elasticidad o inelástica, prefabricada.
+
+
+ADAP1
+
+
+12
+
+
+159,85
+
+
+145,32
+
+
+
+
+
+
+EPL 110 Prenda autoajustable para linfedema de miembro inferior.
+
+
+EPL 110A Prenda para pie incluyendo tobillo autoajustable de baja elasticidad o inelástica, a medida.
+
+
+MED
+
+
+12
+
+
+64,78
+
+
+58,89
+
+
+
+
+
+
+EPL 110B Prenda para pie incluyendo tobillo autoajustable de baja elasticidad o inelástica, prefabricada.
+
+
+ADAP1
+
+
+12
+
+
+54,67
+
+
+49,70
+
+
+
+
+
+
+EPL 110C Prenda para pierna por debajo de la rodilla incluyendo pie autoajustable de baja elasticidad o inelástica, a medida.
+
+
+MED
+
+
+12
+
+
+428,93
+
+
+389,94
+
+
+
+
+
+
+EPL 110D Prenda para pierna por debajo de la rodilla incluyendo pie autoajustable de baja elasticidad o inelástica, prefabricada.
+
+
+ADAP1
+
+
+12
+
+
+128,61
+
+
+116,92
+
+
+
+
+
+
+EPL 110E Prenda para pierna por debajo de la rodilla autoajustable de baja elasticidad o inelástica, a medida.
+
+
+MED
+
+
+12
+
+
+320,03
+
+
+290,94
+
+
+
+
+
+
+EPL 110F Prenda para muslo autoajustable de baja elasticidad o inelástica, a medida.
+
+
+MED
+
+
+12
+
+
+230,66
+
+
+209,69
+
+
+
+
+
+
+EPL 110G Prenda para muslo autoajustable de baja elasticidad o inelástica, prefabricada.
+
+
+ADAP1
+
+
+12
+
+
+140,00
+
+
+127,27
+
+
+
+
+
+
+EPL 110H Prenda para muslo incluyendo rodilla autoajustable de baja elasticidad o inelástica, a medida.
+
+
+MED
+
+
+12
+
+
+326,18
+
+
+296,53
+
+
+
+
+
+
+EPL 110I Prenda para muslo incluyendo rodilla autoajustable de baja elasticidad o inelástica, prefabricada.
+
+
+ADAP1
+
+
+12
+
+
+143,98
+
+
+130,89
+
+
+
+
+
+
+EPL 110J Prenda para pierna entera incluyendo pie autoajustable de baja elasticidad o inelástica, a medida.
+
+
+MED
+
+
+12
+
+
+734,88
+
+
+668,07
+
+
+
+
+
+
+EPL 110K Prenda para pierna entera incluyendo pie autoajustable de baja elasticidad o inelástica, prefabricada.
+
+
+ADAP1
+
+
+12
+
+
+293,70
+
+
+267,00
+
+
+
+
+
+
+EPL 110L Prenda para pierna entera autoajustable de baja elasticidad o inelástica, a medida.
+
+
+MED
+
+
+12
+
+
+500,50
+
+
+455,00
+
+
+
+
+
+
+
+
+El IMF de los tipos de productos a medida del subgrupo 04 06 06, a excepción de los tipos incluidos en las categorías EPL 100 y EPL 110, hace referencia a la fabricación de dichos productos en tejido circular. En caso de que se prescriba tejido plano, el correspondiente IMF se incrementará en un 15%.
+
+
+Grupo: 04 07 Productos para la prevención y tratamiento de cicatrices patológicas
+
+
+Subgrupo: 04 07 00 Prendas de compresión para brazos, piernas y otras partes del cuerpo (Aportación del usuario: 30 euros)
+
+
+Requisitos: Exclusivamente para quemados y grandes queloides.
+
+
+Observaciones: Se podrán indicar dos unidades de cada producto en cada prescripción.
+
+
+El IMF de los tipos de productos a medida del subgrupo 04 07 00 hace referencia a la fabricación de dichos productos en tejido circular. En caso de que se prescriba tejido plano, el correspondiente IMF se incrementará en un 15 %.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Categorías (Código homologado
+
+
+y descripción)
+
+
+
+
+Tipos de productos (Código y descripción)
+
+
+Elaboración
+
+
+
+
+Vida media
+
+
+–
+
+
+Meses
+
+
+
+
+IMF
+
+
+IMF si
+
+
+
+
+
+
+
+
+
+
+EPQ 000 Soporte de cuello y/o mentón para quemados y grandes queloides.
+
+
+EPQ 000A Soporte de cuello para quemados y grandes queloides, a medida.
+
+
+MED
+
+
+6
+
+
+132,41
+
+
+120,37
+
+
+
+
+
+
+EPQ 000B Soporte de mentón para quemados y grandes queloides, a medida.
+
+
+MED
+
+
+6
+
+
+174,10
+
+
+158,27
+
+
+
+
+
+
+EPQ 000C Soporte de cuello y mentón para quemados y grandes queloides, a medida.
+
+
+MED
+
+
+6
+
+
+245,50
+
+
+223,18
+
+
+
+
+
+
+EPQ 010 Máscara para quemados y grandes queloides.
+
+
+EPQ 010A Máscara abierta para quemados y grandes queloides, a medida.
+
+
+MED
+
+
+6
+
+
+313,98
+
+
+285,44
+
+
+
+
+
+
+EPQ 010B Máscara abierta con banda labial para quemados y grandes queloides, a medida.
+
+
+MED
+
+
+6
+
+
+334,36
+
+
+303,96
+
+
+
+
+
+
+EPQ 010C Máscara con apertura para ojos, nariz y boca para quemados y grandes queloides, a medida.
+
+
+MED
+
+
+6
+
+
+421,27
+
+
+382,97
+
+
+
+
+
+
+EPQ 010D Máscara de termoplástico con silicona para quemados y grandes queloides, a medida.
+
+
+MED
+
+
+6
+
+
+1.277,46
+
+
+1.161,33
+
+
+
+
+
+
+EPQ 020 Camiseta para quemados y grandes queloides.
+
+
+EPQ 020A Camiseta sin mangas para quemados y grandes queloides, a medida.
+
+
+MED
+
+
+6
+
+
+278,93
+
+
+253,57
+
+
+
+
+
+
+EPQ 020B Camiseta con mangas cortas para quemados y grandes queloides, a medida.
+
+
+MED
+
+
+6
+
+
+419,54
+
+
+381,40
+
+
+
+
+
+
+EPQ 020C Camiseta con mangas largas para quemados y grandes queloides, a medida.
+
+
+MED
+
+
+6
+
+
+469,49
+
+
+426,81
+
+
+
+
+
+
+EPQ 030 Tronco para quemados y grandes queloides.
+
+
+EPQ 030A Tronco sin mangas para quemados y grandes queloides, a medida.
+
+
+MED
+
+
+6
+
+
+472,20
+
+
+429,27
+
+
+
+
+
+
+EPQ 030B Tronco con mangas cortas para quemados y grandes queloides, a medida.
+
+
+MED
+
+
+6
+
+
+567,47
+
+
+515,88
+
+
+
+
+
+
+EPQ 030C Tronco con mangas largas para quemados y grandes queloides, a medida.
+
+
+MED
+
+
+6
+
+
+580,35
+
+
+527,59
+
+
+
+
+
+
+EPQ 040 Guantelete y guante para quemados y grandes queloides.
+
+
+EPQ 040A Guantelete para quemados y grandes queloides, a medida.
+
+
+MED
+
+
+6
+
+
+52,53
+
+
+47,75
+
+
+
+
+
+
+EPQ 040B Guante sin protección distal para quemados y grandes queloides, a medida.
+
+
+MED
+
+
+6
+
+
+150,07
+
+
+136,43
+
+
+
+
+
+
+EPQ 040C Guante con protección distal para quemados y grandes queloides, a medida.
+
+
+MED
+
+
+6
+
+
+157,61
+
+
+143,28
+
+
+
+
+
+
+EPQ 040D Guante hasta el codo sin protección distal para quemados y grandes queloides, a medida.
+
+
+MED
+
+
+6
+
+
+175,25
+
+
+159,32
+
+
+
+
+
+
+EPQ 040E Guante hasta el codo con protección distal para quemados y grandes queloides, a medida.
+
+
+MED
+
+
+6
+
+
+181,21
+
+
+164,74
+
+
+
+
+
+
+EPQ 050 Manga para quemados y grandes queloides.
+
+
+EPQ 050A Manga para quemados y grandes queloides, a medida.
+
+
+MED
+
+
+6
+
+
+108,70
+
+
+98,82
+
+
+
+
+
+
+EPQ 050B Manga con guantelete para quemados y grandes queloides, a medida.
+
+
+MED
+
+
+6
+
+
+147,94
+
+
+134,49
+
+
+
+
+
+
+EPQ 050C Manga con guante para quemados y grandes queloides, a medida.
+
+
+MED
+
+
+6
+
+
+232,57
+
+
+211,43
+
+
+
+
+
+
+EPQ 050D Manga abarcando el hombro para quemados y grandes queloides, a medida.
+
+
+MED
+
+
+6
+
+
+154,47
+
+
+140,43
+
+
+
+
+
+
+EPQ 050E Manga abarcando el hombro con guantelete para quemados y grandes queloides, a medida.
+
+
+MED
+
+
+6
+
+
+213,66
+
+
+194,24
+
+
+
+
+
+
+EPQ 050F Manga abarcando el hombro con guante para quemados y grandes queloides, a medida.
+
+
+MED
+
+
+6
+
+
+298,73
+
+
+271,57
+
+
+
+
+
+
+EPQ 060 Guante con dedos para pie para quemados y grandes queloides.
+
+
+EPQ 060A Guante con dedos sin protección distal para pie para quemados y grandes queloides, a medida.
+
+
+MED
+
+
+6
+
+
+149,67
+
+
+136,06
+
+
+
+
+
+
+EPQ 060B Guante con dedos con protección distal para pie para quemados y grandes queloides, a medida.
+
+
+MED
+
+
+6
+
+
+152,14
+
+
+138,31
+
+
+
+
+
+
+EPQ 070 Media para quemados y grandes queloides.
+
+
+EPQ 070A Media hasta la rodilla para quemados y grandes queloides, a medida.
+
+
+MED
+
+
+6
+
+
+106,82
+
+
+97,11
+
+
+
+
+
+
+EPQ 070B Media entera para quemados y grandes queloides, a medida.
+
+
+MED
+
+
+6
+
+
+165,44
+
+
+150,40
+
+
+
+
+
+
+EPQ 070C Media entera con sujeción a la cintura para quemados y grandes queloides, a medida.
+
+
+MED
+
+
+6
+
+
+173,03
+
+
+157,30
+
+
+
+
+
+
+EPQ 080 Panty para quemados y grandes queloides.
+
+
+EPQ 080A Panty de una extremidad para quemados y grandes queloides, a medida.
+
+
+MED
+
+
+6
+
+
+282,15
+
+
+256,50
+
+
+
+
+
+
+EPQ 080B Panty (de dos piernas) para quemados y grandes queloides, a medida.
+
+
+MED
+
+
+6
+
+
+353,67
+
+
+321,52
+
+
+
+
+
+
+EPQ 090 Pantalón para quemados y grandes queloides.
+
+
+EPQ 090A Pantalón de pernera corta para quemados y grandes queloides, a medida.
+
+
+MED
+
+
+6
+
+
+251,82
+
+
+228,93
+
+
+
+
+
+
+EPQ 090B Pantalón para quemados y grandes queloides, a medida.
+
+
+MED
+
+
+6
+
+
+309,79
+
+
+281,63
+
+
+
+
+
+
+EPQ 100 Tobillera para quemados y grandes queloides.
+
+
+EPQ 100A Tobillera para quemados y grandes queloides, a medida.
+
+
+MED
+
+
+6
+
+
+82,96
+
+
+75,42
+
+
+
+
+
+
+
+
+ Grupo: 04 90 Complementos para las prendas de compresión
+
+
+Subgrupo: 04 90 00 Complementos para las prendas de compresión para linfedema, quemados y grandes queloides) (Aportación del usuario: 0 euros)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Categorías (Código homologado
+
+
+y descripción)
+
+
+
+
+Tipos de productos (Código y descripción)
+
+
+Elaboración
+
+
+
+
+Vida media
+
+
+–
+
+
+Meses
+
+
+
+
+IMF
+
+
+IMF si
+
+
+
+
+
+
+
+
+
+
+EPC 000 Cierre para prendas de compresión.
+
+
+EPC 000A Cierre de cremallera, a medida.
+
+
+MED
+
+
+6
+
+
+30,42
+
+
+27,65
+
+
+
+
+
+
+EPC 000B Cierre de corchetes, a medida.
+
+
+MED
+
+
+6
+
+
+18,46
+
+
+16,78
+
+
+
+
+
+
+EPC 000C Cierre de velcro, a medida.
+
+
+MED
+
+
+6
+
+
+17,99
+
+
+16,35
+
+
+
+
+
+
+EPC 010 Adaptaciones para prendas de compresión.
+
+
+EPC 010A Apertura de mamas, a medida.
+
+
+MED
+
+
+6
+
+
+18,46
+
+
+16,78
+
+
+
+
+
+
+EPC 010B Confección de copas, a medida.
+
+
+MED
+
+
+6
+
+
+14,47
+
+
+13,15
+
+
+
+
+
+
+EPC 010C Confección de bolsa escrotal, a medida.
+
+
+MED
+
+
+6
+
+
+55,00
+
+
+50,00
+
+
+
+
+
+
+EPC 010D Adaptación anatómica articular, a medida.
+
+
+MED
+
+
+6
+
+
+23,67
+
+
+21,52
+
+
+
+
+
+
+EPC 010E Adaptación textil, a medida.
+
+
+MED
+
+
+6
+
+
+34,13
+
+
+31,03
+
+
+
+
+
+
+EPC 010F Inserción de bolsillo, a medida.
+
+
+MED
+
+
+6
+
+
+35,00
+
+
+31,82
+
+
+
+
+
+
+EPC 010G Almohadillas linfáticas, a medida.
+
+
+MED
+
+
+6
+
+
+33,69
+
+
+30,63
+
+
+
+
+
+
+EPC 020 Otros complementos para prendas de compresión.
+
+
+EPC 020A Banda proximal de sujeción para prendas de compresión para linfedema, a medida.
+
+
+MED
+
+
+6
+
+
+36,52
+
+
+33,20
+
+
+
+
+
+
+EPC 020B Soporte de silicona para quemados y grandes queloides, a medida.
+
+
+MED
+
+
+6
+
+
+16,96
+
+
+15,42
+
+
+
+
+
+
+EPC 020C Banda adicional de sujeción para prendas autoajustables de baja elasticidad o inelásticas para linfedema, prefabricada.
+
+
+COMP0
+
+
+12
+
+
+32,74
+
+
+29,76
+
+
+
+
+
+
+EPC 020D Funda de protección para el brazo para uso con prendas autoajustables de compresión.
+
+
+COMP0
+
+
+12
+
+
+26,44
+
+
+24,04
+
+
+
+
+
+
+EPC 020E Funda de protección para la pierna para uso con prendas autoajustables de compresión.
+
+
+COMP0
+
+
+12
+
+
+32,91
+
+
+29,92
+
+
+
+
+
+
+EPC 020F Almohadilla acolchada para linfedema de la zona genital para hombre, prefabricada.
+
+
+COMP0
+
+
+12
+
+
+88,94
+
+
+80,85
+
+
+
+
+
+
+EPC 020G Almohadilla acolchada para linfedema de la zona genital para mujer, prefabricada.
+
+
+COMP0
+
+
+12
+
+
+76,78
+
+
+69,80
+
+
+
+
+
+
+EPC 020H Almohadilla acolchada para linfedema del pecho unilateral, prefabricada.
+
+
+COMP0
+
+
+12
+
+
+56,76
+
+
+51,60
+
+
+
+
+
+
+EPC 020I Almohadilla acolchada para linfedema de pecho bilateral, prefabricada.
+
+
+COMP0
+
+
+12
+
+
+164,01
+
+
+149,10
+
+
+
+
+
+
+EPC 020J Almohadilla acolchada para linfedema de la fosa axilar, prefabricada.
+
+
+COMP0
+
+
+12
+
+
+37,03
+
+
+33,66
+
+
+
+
+
+
+EPC 020K Almohadilla acolchada para linfedema del abdomen, prefabricada.
+
+
+COMP0
+
+
+12
+
+
+53,90
+
+
+49,00
+
+
+
+
+
+
+EPC 020L Almohadilla acolchada para linfedema del tobillo, prefabricada.
+
+
+COMP0
+
+
+12
+
+
+41,03
+
+
+37,30
+
+
+
+
+
+
+EPC 020M Almohadilla acolchada para linfedema del dorso de la mano, prefabricada.
+
+
+COMP0
+
+
+12
+
+
+33,88
+
+
+30,80
+
+
+
+
+
+
+
+
+ Grupo: 04 33 Productos de apoyo para la prevención de las úlceras por presión (productos antidecúbitos)
+
+
+Subgrupo: 04 33 00 Cojines para prevenir las úlceras por presión (Aportación del usuario: 30 euros)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Categorías (Código homologado
+
+
+y descripción)
+
+
+
+
+Tipos de productos (Código y descripción)
+
+
+Elaboración
+
+
+
+
+Vida media
+
+
+–
+
+
+Meses
+
+
+
+
+IMF
+
+
+IMF si
+
+
+
+
+
+
+
+
+
+
+ECJ 000 Cojín para prevenir las úlceras por presión, de una sola pieza de silicona, gel u otros materiales.
+
+
+ECJ 000A Cojín para prevenir las úlceras por presión, de una sola pieza de silicona, gel u otros materiales, para usuarios de sillas de ruedas con alto riesgo de úlcera por presión.
+
+
+BAS
+
+
+36
+
+
+115,97
+
+
+105,43
+
+
+
+
+
+
+ECJ 010 Cojín para prevenir las úlceras por presión, modular, de diferentes materiales con base firme.
+
+
+ECJ 010A Cojín para prevenir las úlceras por presión, modular, de diferentes materiales con base firme, para usuarios de sillas de ruedas con patología medular de cualquier etiología o daño cerebral adquirido.
+
+
+ADAP1
+
+
+36
+
+
+355,47
+
+
+323,15
+
+
+
+
+
+
+ECJ 020 Cojín para prevenir las úlceras por presión, con múltiples celdas de aire, u otros materiales, independientes unidas por una base.
+
+
+ECJ 020A Cojín para prevenir las úlceras por presión, con múltiples celdas de aire u otros materiales, independientes unidas por una base, para usuarios de sillas de ruedas con patología medular de cualquier etiología o daño cerebral adquirido.
+
+
+ADAP1
+
+
+36
+
+
+677,77
+
+
+616,15
+
+
+
+
+
+
+
+
+ Grupo: 04 48 Equipo para el entrenamiento del movimiento, la fuerza y el equilibrio
+
+
+Requisitos: Exclusivamente para pacientes lesionados medulares, parálisis cerebral, traumatismos craneoencefálicos, mielomeningocele, distrofias musculares progresivas y enfermedades neurodegenerativas.
+
+
+Subgrupo: 04 48 06 Aparatos de bipedestación (Aportación del usuario: 30 euros)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Categorías (Código homologado
+
+
+y descripción)
+
+
+
+
+Tipos de productos (Código y descripción)
+
+
+Elaboración
+
+
+
+
+Vida media
+
+
+–
+
+
+Meses
+
+
+
+
+IMF
+
+
+IMF si
+
+
+
+
+
+
+
+
+
+
+EBI 000 Aparato de bipedestación.
+
+
+EBI 000A Bipedestador de niño.
+
+
+ADAP1
+
+
+24
+
+
+1.705,80
+
+
+1.550,73
+
+
+
+
+
+
+EBI 000B Bipedestador de adulto.
+
+
+ADAP1
+
+
+36
+
+
+2.282,91
+
+
+2.075,37
+
+
+
+
+
+
+
+
+Subgrupo: 04 48 21 Planos inclinables (Aportación del usuario: 30 euros)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Categorías (Código homologado
+
+
+y descripción)
+
+
+
+
+Tipos de productos (Código y descripción)
+
+
+Elaboración
+
+
+
+
+Vida media
+
+
+–
+
+
+Meses
+
+
+
+
+IMF
+
+
+IMF si
+
+
+
+
+
+
+
+
+
+
+EPI 000 Plano inclinado.
+
+
+EPI 000A Plano inclinado prono/supino para niños.
+
+
+ADAP1
+
+
+36
+
+
+1.769,27
+
+
+1.608,43
+
+
+
+
+
+
+
+
+ADAP = Adaptación individualizada al usuario (ADAP1: De complejidad baja, ADAP2: De complejidad media, ADAP3: De complejidad alta).
+
+
+BAS = Ajuste básico al usuario.
+
+
+COMP = Componentes, accesorios o recambios (COMP0: Componente constituyente de una ortoprótesis externa, accesorio o recambio de complejidad básica; COMP1: De complejidad baja; COMP2: De complejidad media; COMP3: De complejidad alta).
+
+
+EMP0 = Componentes externos de implantes quirúrgicos dispensados por la empresa que los comercializa, a los que no se aplican los coeficientes de corrección, por lo que el precio de empresa será el precio de Oferta.
+
+
+IMF = Importes máximos de financiación.
+
+
+IMF si = Importes máximos de financiación sin impuestos.
+
+
+MED = Elaboración a medida. No se ofertarán los productos correspondientes a estos tipos por estar elaborados a medida.
+
+
+SP = Tipo de producto sin IMF. Los productos de este tipo se financiarán al precio de Oferta, que en el caso de los productos a medida es el que refleje el establecimiento dispensador en la factura.
+
+
+
+
+Subir

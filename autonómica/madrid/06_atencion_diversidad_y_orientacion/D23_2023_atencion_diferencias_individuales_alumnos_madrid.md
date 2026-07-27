@@ -328,10 +328,10 @@ alumnado.
 VIERNES 24 DE MARZO DE 2023B.O.C.M. Núm. 71 Pág. 15
 BOLETÍN OFICIAL DE LA COMUNIDAD DE MADRIDBOCM
 
-# Título I
+# Título Título
 Atención Educativa
 
-### Capítulo I
+### Capítulo Capítulo
 Identificación de barreras para el aprendizaje y la participación
 y determinación de necesidades educativas
 
@@ -406,7 +406,7 @@ en el capítulo II de este título, los centros informarán igualmente a los pad
 tantes legales del alumnado sobre las medidas más adecuadas para atender las diferencias
 individuales de sus hijos o tutelados.
 
-### Capítulo II
+### Capítulo Capítulo
 Atención educativa al alumnado
 
 ## Artículo 7
@@ -876,10 +876,10 @@ porarse al primer ciclo de la etapa en un curso inferior al que le corresponder�
 sin perjuicio de su incorporación obligada a la etapa de Educación Primaria en el año natu-
 ral en el cumpla los seis años.
 
-# Título II
+# Título Título
 Recursos para la atención a las diferencias individuales del alumnado
 
-### Capítulo I
+### Capítulo Capítulo
 Recursos para una educación de calidad
 
 ## Artículo 27
@@ -906,7 +906,7 @@ cesidad específica de apoyo educativo, así como otros profesionales cualificad
 mine el titular de la consejería competente en materia de educación para atender a la
 diversidad del alumnado.
 
-### Capítulo II
+### Capítulo Capítulo
 Servicios y profesionales especializados en orientación educativa
 
 ## Artículo 29
@@ -1005,7 +1005,7 @@ biantes de la comunidad educativa. Corresponde al titular de la consejería comp
 materia de educación facilitar la coordinación entre los distintos elementos que conforman
 esta red.
 
-# Título III
+# Título Título
 Participación de la comunidad educativa
 
 ## Artículo 30
@@ -1046,7 +1046,7 @@ BOLETÍN OFICIAL DE LA COMUNIDAD DE MADRIDBOCM
 se establezcan con diferentes entidades e instituciones sin ánimo de lucro relacionadas con
 la atención a las diferencias individuales del alumnado, según corresponda.
 
-# Título IV
+# Título Título
 Plan de atención a las diferencias individuales del alumnado
 
 ## Artículo 32
@@ -1138,7 +1138,7 @@ va de este plan, y asesorará a la dirección de los centros en su elaboración,
 lización, y al profesorado en su aplicación efectiva, desde indicadores y criterios de calidad
 de buenas prácticas educativas.
 
-# Título V
+# Título Título
 Formación, investigación e innovación
 
 ## Artículo 36

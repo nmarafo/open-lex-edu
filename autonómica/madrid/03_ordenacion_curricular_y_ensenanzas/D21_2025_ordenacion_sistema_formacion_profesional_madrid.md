@@ -41,7 +41,7 @@ gula la ordenación y organización del Sistema de Formación Profesional de la
 Comunidad de Madrid.
 ÍNDICE
 
-### Capítulo I. Disposiciones generales
+### Capítulo Capítulo
 
 ## Artículo 1. Objeto y ámbito de aplicación.
 
@@ -50,7 +50,7 @@ Comunidad de Madrid.
 ## Artículo 3. Ejes principales del Sistema de Formación Profesional de la Comunidad
 de Madrid.
 
-### Capítulo II. Ordenación de la oferta del Sistema de Formación Profesional
+### Capítulo Capítulo
 
 ## Artículo 4. Oferta del Sistema de Formación Profesional.
 
@@ -79,7 +79,7 @@ do superior.
 
 ## Artículo 16. Dobles titulaciones.
 
-### Capítulo III. Modalidades, ofertas específicas y regímenes
+### Capítulo Capítulo
 Sección 1.
 a Modalidades.
 
@@ -107,7 +107,7 @@ Sección 3.a Regímenes.
 
 ## Artículo 25. Regímenes general e intensivo.
 
-### Capítulo IV. Acceso y admisión
+### Capítulo Capítulo
 Sección 1.
 a Acceso
 
@@ -136,7 +136,7 @@ dos con fondos públicos.
 
 ## Artículo 35. Convalidaciones.
 
-### Capítulo V. Fase de formación en empresa u organismo equiparado
+### Capítulo Capítulo
 
 ## Artículo 36. Currículo y fase de formación en empresa u organismo equiparado.
 
@@ -152,7 +152,7 @@ dos con fondos públicos.
 
 ## Artículo 42. Exención de la fase de formación en empresa u organismo equiparado.
 
-### Capítulo VI. Evaluación. Acreditaciones y titulaciones.
+### Capítulo Capítulo
 Sección 1.
 a Evaluación.
 
@@ -191,7 +191,7 @@ experiencia laboral u otras vías no formales e informales.
 
 ## Artículo 58. Organización del procedimiento.
 
-### Capítulo VII. Centros del Sistema de Formación Profesional
+### Capítulo Capítulo
 Sección 1.a Autorizaciones.
 
 ## Artículo 59. Centros del Sistema de Formación Profesional.
@@ -231,13 +231,13 @@ a Planificación de la oferta en centros del sistema de formación profesional.
 ## Artículo 71. Planificación y programación de la oferta del Sistema de Formación
 Profesional.
 
-### Capítulo VIII. Orientación profesional y educativa
+### Capítulo Capítulo
 
 ## Artículo 72. Información y orientación profesional.
 
 ## Artículo 73. Orientación educativa y atención a las diferencias individuales.
 
-### Capítulo IX. Evaluación y calidad del Sistema de Formación Profesional de la Co-
+### Capítulo Capítulo
 munidad de Madrid
 
 ## Artículo 74. Evaluación y calidad del Sistema de Formación Profesional de la Co-
@@ -377,7 +377,7 @@ la Comisión Jurídica Asesora de la Comunidad de Madrid, previa deliberación, 
 de Gobierno, en su reunión del día 21 de mayo de 2025,
 DISPONE
 
-### Capítulo I
+### Capítulo Capítulo
 Disposiciones generales
 
 ## Artículo 1
@@ -437,7 +437,7 @@ Europea u otros organismos, especialmente en proyectos de cooperación e interca
 bio de buenas prácticas, de innovación y de emprendimiento, con el fin de mejorar
 la competencia profesional, la empleabilidad y la formación en lenguas extranjeras.
 
-### Capítulo II
+### Capítulo Capítulo
 Ordenación de la oferta del Sistema de Formación Profesional
 
 ## Artículo 4
@@ -754,7 +754,7 @@ d) La parte de optatividad equivalente a la de un ciclo formativo.
 cluyan en una única secuencia formativa dos cursos de especialización, ambos de grado me-
 dio o de grado superior, que pudieran ser complementarios.
 
-### Capítulo III
+### Capítulo Capítulo
 Modalidades, ofertas específicas y regímenes
 SECCIÓN 1.a
 Modalidades
@@ -1076,7 +1076,7 @@ licitar autorización a la dirección general competente según el tipo de centr
 JUEVES 22 DE MAYO DE 2025B.O.C.M. Núm. 121 Pág. 27
 BOLETÍN OFICIAL DE LA COMUNIDAD DE MADRIDBOCM
 
-### Capítulo IV
+### Capítulo Capítulo
 Acceso y admisión
 SECCIÓN 1.a
 Acceso
@@ -1378,7 +1378,7 @@ sean por centros o entidades cuyo objetivo principal sea la educación y la form
 JUEVES 22 DE MAYO DE 2025Pág. 32 B.O.C.M. Núm. 121
 BOLETÍN OFICIAL DE LA COMUNIDAD DE MADRIDBOCM
 
-### Capítulo V
+### Capítulo Capítulo
 Fase de formación en empresa u organismo equiparado
 
 ## Artículo 36
@@ -1600,7 +1600,7 @@ podrá aportar la experiencia laboral de los cinco años anteriores al momento d
 3. La justificación de la experiencia laboral se realizará de conformidad con lo esta-
 blecido en el apartado 3 del artículo 177 del Real Decreto 659/2023, de 18 de julio.
 
-### Capítulo VI
+### Capítulo Capítulo
 Evaluación. Acreditaciones y titulaciones
 SECCIÓN 1.a
 Evaluación
@@ -1960,7 +1960,7 @@ dimiento administrativo abierto de forma permanente, conforme a lo establecido e
 tulo VI del Real Decreto 659/2023, de 18 de julio, y en la normativa vigente de la Comuni-
 dad de Madrid.
 
-### Capítulo VII
+### Capítulo Capítulo
 Centros del Sistema de Formación Profesional
 SECCIÓN 1.a
 Autorizaciones
@@ -2378,7 +2378,7 @@ sobre los ejes principales de la formación profesional. La programación deber�
 incorporación de ofertas de formación que respondan a necesidades sobrevenidas, además
 de las iniciativas previstas.
 
-### Capítulo VIII
+### Capítulo Capítulo
 Orientación profesional y educativa
 
 ## Artículo 72
@@ -2425,7 +2425,7 @@ condiciones personales sean especialmente sensibles a los riesgos derivados de l
 ción en la empresa, a fin de adoptar las medidas preventivas y de protección necesarias, de
 conformidad con lo dispuesto en la normativa de prevención de riesgos laborales.
 
-### Capítulo IX
+### Capítulo Capítulo
 Evaluación y calidad del Sistema de Formación Profesional
 de la Comunidad de Madrid
 

@@ -32,7 +32,6 @@ relaciones:
 # Decreto 65/2022, de 20 de julio, por el que se establece la ordenación y el currículo de la Educación Secundaria Obligatoria en la Comunidad de Madrid
 
 JUEVES 21 DE JULIO DE 2022Pág. 14 B.O.C.M. Núm. 172
-BOCM-20220721-1
 BOLETÍN OFICIAL DE LA COMUNIDAD DE MADRIDBOCM
 I. COMUNIDAD DE MADRID
 A) Disposiciones Generales
@@ -87,7 +86,6 @@ afectados por la información, resulta esencial para el cumplimiento de los obje
 blecidos.
 
 JUEVES 21 DE JULIO DE 2022B.O.C.M. Núm. 172 Pág. 15
-BOCM-20220721-1
 BOLETÍN OFICIAL DE LA COMUNIDAD DE MADRIDBOCM
 Se pretende continuar avanzando en materia de transparencia, buen gobierno y calidad
 en la gestión interna, así como mejorar las relaciones con los grupos de interés de la Comu-
@@ -149,7 +147,6 @@ rías, de la Dirección General de Función Pública, de la Secretaría General 
 Consejería de Presidencia, Justicia e Interior y el informe de la Abogacía General.
 
 JUEVES 21 DE JULIO DE 2022Pág. 16 B.O.C.M. Núm. 172
-BOCM-20220721-1
 BOLETÍN OFICIAL DE LA COMUNIDAD DE MADRIDBOCM
 El artículo 32.3 de Ley Orgánica 3/1983, de 25 de febrero, de Estatuto de Autonomía
 de la Comunidad de Madrid, establece que la Comunidad de Madrid adoptará las medidas
@@ -167,7 +164,7 @@ En su virtud, a propuesta del Consejero de Presidencia, Justicia e Interior, pre
 beración, el Consejo de Gobierno, en su reunión del día 20 de julio de 2022,
 DISPONE
 
-### Capítulo I
+### Capítulo Capítulo
 Disposiciones generales
 
 ## Artículo 1
@@ -211,7 +208,6 @@ o Toda persona que esté o haya estado en contacto con ella por motivo de su ac-
 tividad laboral, entendiéndose por tal aquella cuya actividad laboral o profe-
 
 JUEVES 21 DE JULIO DE 2022B.O.C.M. Núm. 172 Pág. 17
-BOCM-20220721-1
 BOLETÍN OFICIAL DE LA COMUNIDAD DE MADRIDBOCM
 sional, presente o pasada, haya permitido obtener información sobre posibles
 infracciones en el ámbito de la Administración pública de la Comunidad de
@@ -253,7 +249,7 @@ Comunidad de Madrid, recibidas a través del “Canal del Informante” y remiti
 rección general competente en materia de transparencia y buen gobierno, sin perjuicio de las
 competencias atribuidas en esta materia a la referida dirección general.
 
-### Capítulo II
+### Capítulo Capítulo
 Régimen general del tratamiento y gestión de informaciones
 sobre posibles infracciones
 
@@ -272,7 +268,6 @@ especial los de carácter personal, informes, origen de las informaciones o ante
 dentes a los que tenga acceso durante el desempeño de sus funciones. Este deber
 
 JUEVES 21 DE JULIO DE 2022Pág. 18 B.O.C.M. Núm. 172
-BOCM-20220721-1
 BOLETÍN OFICIAL DE LA COMUNIDAD DE MADRIDBOCM
 subsistirá aun después de finalizada la relación con la Administración pública de
 la Comunidad de Madrid, o con el correspondiente centro directivo con compe-
@@ -334,7 +329,6 @@ aquellos que estén o hayan estado en contacto con ella por motivo de su activid
 en los términos previstos en el apartado c) del artículo 3 de este Decreto.
 
 JUEVES 21 DE JULIO DE 2022B.O.C.M. Núm. 172 Pág. 19
-BOCM-20220721-1
 BOLETÍN OFICIAL DE LA COMUNIDAD DE MADRIDBOCM
 El acceso identificado, mediante usuario y contraseña o a través de la utilización de un
 sistema de identificación digital válido, permitirá también acceder a un espacio restringido
@@ -365,7 +359,7 @@ el desempeño ordinario de sus funciones.
 dencialidad y respeto al trámite que, en su caso, se haya iniciado, y a cuanta información
 derive del mismo, tenga conocimiento o pueda acceder.
 
-### Capítulo III
+### Capítulo Capítulo
 Condiciones generales del tratamiento de las informaciones
 sobre posibles infracciones
 
@@ -397,7 +391,6 @@ todo caso, el informante deberá anonimizar aquellos documentos y datos relacion
 la información comunicada a los efectos de la debida confidencialidad, sin perjuicio de
 
 JUEVES 21 DE JULIO DE 2022Pág. 20 B.O.C.M. Núm. 172
-BOCM-20220721-1
 BOLETÍN OFICIAL DE LA COMUNIDAD DE MADRIDBOCM
 aquellos que sean mínimamente necesarios para llevar a cabo la investigación pertinente. A
 través del “Canal del Informante” se remitirá un acuse de recibo de la comunicación pre-
@@ -460,7 +453,6 @@ c) Cuando la información tenga carácter genérico y no se refiera a hechos o d
 concretos contrastables.
 
 JUEVES 21 DE JULIO DE 2022B.O.C.M. Núm. 172 Pág. 21
-BOCM-20220721-1
 BOLETÍN OFICIAL DE LA COMUNIDAD DE MADRIDBOCM
 d) Cuando respecto de los mismos hechos y conductas se hayan realizado anterior-
 mente actuaciones de investigación que se encuentren ya cerradas.
@@ -508,7 +500,7 @@ se deroga la Directiva 95/46/CE (Reglamento general de protección de datos), as
 la Ley Orgánica 3/2018, de 5 de diciembre, de Protección de Datos Personales y garantía
 de los derechos digitales, especialmente su artículo 24.
 
-### Capítulo IV
+### Capítulo Capítulo
 Medidas de protección de informantes y afectados
 
 ## Artículo 14
@@ -521,7 +513,6 @@ dos directa o indirectamente por aquellas, evitando en especial posibles perjuic
 sonas investigadas u objeto de actuaciones de inspección, a los informantes y también para
 
 JUEVES 21 DE JULIO DE 2022Pág. 22 B.O.C.M. Núm. 172
-BOCM-20220721-1
 BOLETÍN OFICIAL DE LA COMUNIDAD DE MADRIDBOCM
 la salvaguardia de la eficacia del procedimiento jurisdiccional o administrativo que, en su
 caso, se pudiera iniciar en consecuencia.
@@ -582,7 +573,6 @@ de las informaciones sobre posibles infracciones en el ámbito de la Administrac
 ca de la Comunidad de Madrid, en relación al personal a su servicio.
 
 JUEVES 21 DE JULIO DE 2022B.O.C.M. Núm. 172 Pág. 23
-BOCM-20220721-1
 http://www.bocm.es BOLETÍN OFICIAL DE LA COMUNIDAD DE MADRID D. L.: M. 19.462-1983      ISSN 1989-4791
 BOLETÍN OFICIAL DE LA COMUNIDAD DE MADRIDBOCM
 
@@ -620,7 +610,6 @@ ISABEL DÍAZ AYUSO
 (03/15.227/22)
 
 MARTES 26 DE JULIO DE 2022Pág. 14 B.O.C.M. Núm. 176
-BOCM-20220726-1
 BOLETÍN OFICIAL DE LA COMUNIDAD DE MADRIDBOCM
 I. COMUNIDAD DE MADRID
 A) Disposiciones Generales
@@ -677,7 +666,6 @@ la obtención de nuevas modalidades e impartición de modalidades en los centros
 diciones de simultaneidad para cursar el Bachillerato y las enseñanzas profesionales de Mú-
 
 MARTES 26 DE JULIO DE 2022B.O.C.M. Núm. 176 Pág. 15
-BOCM-20220726-1
 BOLETÍN OFICIAL DE LA COMUNIDAD DE MADRIDBOCM
 sica y Danza se abordan en las disposiciones adicionales, así como el reconocimiento de los
 premios extraordinarios o la oferta de otros programas.
@@ -731,11 +719,10 @@ des, oída la Comisión Jurídica Asesora de la Comunidad de Madrid, previa deli
 Consejo de Gobierno, en su reunión del día 20 de julio de 2022,
 
 MARTES 26 DE JULIO DE 2022Pág. 16 B.O.C.M. Núm. 176
-BOCM-20220726-1
 BOLETÍN OFICIAL DE LA COMUNIDAD DE MADRIDBOCM
 DISPONE
 
-### Capítulo I
+### Capítulo Capítulo
 Disposiciones generales
 
 ## Artículo 1
@@ -787,7 +774,6 @@ lizarse de forma ocasional y como apoyo. Las actividades de aprendizaje prioriza
 comprensión, la expresión y la interacción oral en la lengua extranjera objeto de estudio.
 
 MARTES 26 DE JULIO DE 2022B.O.C.M. Núm. 176 Pág. 17
-BOCM-20220726-1
 BOLETÍN OFICIAL DE LA COMUNIDAD DE MADRIDBOCM
 
 ## Artículo 5
@@ -814,7 +800,7 @@ tre el profesorado que le imparta clase, a un profesor tutor.
 6. La jefatura de estudios, en colaboración con los profesionales de orientación edu-
 cativa, coordinará las actuaciones de los profesores tutores.
 
-### Capítulo II
+### Capítulo Capítulo
 Organización y currículo
 SECCIÓN 1.a
 Organización
@@ -847,7 +833,6 @@ porcionar una formación de carácter específico vinculada a la modalidad elegi
 te en un ámbito de conocimiento amplio, desarrolle aquellas competencias con una mayor
 
 MARTES 26 DE JULIO DE 2022Pág. 18 B.O.C.M. Núm. 176
-BOCM-20220726-1
 BOLETÍN OFICIAL DE LA COMUNIDAD DE MADRIDBOCM
 relación con el mismo, prepare para una variedad de estudios posteriores y favorezca la in-
 serción en un determinado campo laboral.
@@ -908,7 +893,6 @@ a) Análisis Musical I.
 b) Artes Escénicas I.
 
 MARTES 26 DE JULIO DE 2022B.O.C.M. Núm. 176 Pág. 19
-BOCM-20220726-1
 BOLETÍN OFICIAL DE LA COMUNIDAD DE MADRIDBOCM
 c) Coro y Técnica Vocal I.
 d) Cultura Audiovisual.
@@ -965,7 +949,6 @@ e) Literatura Universal.
 f) Matemáticas Aplicadas a las Ciencias Sociales I.
 
 MARTES 26 DE JULIO DE 2022Pág. 20 B.O.C.M. Núm. 176
-BOCM-20220726-1
 BOLETÍN OFICIAL DE LA COMUNIDAD DE MADRIDBOCM
 2. Igualmente, en segundo, cursará, a su elección, Latín II o Matemáticas Aplicadas
 a las Ciencias Sociales II, así como otras dos materias específicas de modalidad, que elegi-
@@ -1023,7 +1006,6 @@ manal asignado a cada una se establecen en el anexo I.
 güe se regirán por lo establecido en la disposición adicional segunda.
 
 MARTES 26 DE JULIO DE 2022B.O.C.M. Núm. 176 Pág. 21
-BOCM-20220726-1
 BOLETÍN OFICIAL DE LA COMUNIDAD DE MADRIDBOCM
 SECCIÓN 2.a
 Currículo
@@ -1065,7 +1047,7 @@ h) Competencia en conciencia y expresión culturales.
 2. La concreción curricular que los centros incorporen en sus proyectos educativos
 tendrán como referente los descriptores operativos de las competencias clave.
 
-### Capítulo III
+### Capítulo Capítulo
 Autonomía de los centros
 
 ## Artículo 19
@@ -1080,7 +1062,6 @@ pedagógica y organizativa de los centros, favorecerá el trabajo en equipo del 
 estimulará la actividad investigadora a partir de su práctica docente.
 
 MARTES 26 DE JULIO DE 2022Pág. 22 B.O.C.M. Núm. 176
-BOCM-20220726-1
 BOLETÍN OFICIAL DE LA COMUNIDAD DE MADRIDBOCM
 3. En virtud de esa autonomía y dentro de la regulación y límites establecidos en la
 presente norma y en los términos y condiciones que establezca el titular de la Consejería
@@ -1114,7 +1095,7 @@ competencias en materia de Educación. En los centros sostenidos con fondos púb
 poco supondrá incremento de profesorado ni de las ratios generales fijadas para cada ejer-
 cicio en los Presupuestos Generales de la Comunidad de Madrid.
 
-### Capítulo IV
+### Capítulo Capítulo
 Evaluación
 SECCIÓN 1.a
 Características generales de la evaluación
@@ -1141,7 +1122,6 @@ rrespondientes.
 das, que se celebrará en el plazo establecido al efecto por el calendario escolar vigente.
 
 MARTES 26 DE JULIO DE 2022B.O.C.M. Núm. 176 Pág. 23
-BOCM-20220726-1
 BOLETÍN OFICIAL DE LA COMUNIDAD DE MADRIDBOCM
 6. El profesorado evaluará tanto los aprendizajes del alumnado como los procesos de
 enseñanza y su propia práctica docente, con el fin de mejorar los procesos de enseñanza y
@@ -1202,7 +1182,6 @@ berán matricularse en las materias pendientes del curso anterior. Los centros o
 las consiguientes actividades de recuperación y evaluación de las materias pendientes.
 
 MARTES 26 DE JULIO DE 2022Pág. 24 B.O.C.M. Núm. 176
-BOCM-20220726-1
 BOLETÍN OFICIAL DE LA COMUNIDAD DE MADRIDBOCM
 5. En el anexo III se recogen las materias de ambos cursos entre las que existe con-
 tinuidad por requerir para cursar una materia en el segundo curso conocimientos incluidos
@@ -1229,7 +1208,7 @@ gunas materias de dicho curso podrán optar por matricularse en ellas sin necesi
 sar de nuevo las materias superadas o por repetir el curso completo.
 
 ## Artículo 24
-Título de Bachiller
+# Título Título
 1. El título de Bachiller acredita el logro de los objetivos establecidos para la etapa
 y la adquisición de las competencias correspondientes.
 2. Para obtener el título de Bachiller será necesaria la evaluación positiva en todas
@@ -1261,7 +1240,6 @@ tuyen la educación superior establecidas en el artículo 3.5 de la Ley Orgánic
 de mayo.
 
 MARTES 26 DE JULIO DE 2022B.O.C.M. Núm. 176 Pág. 25
-BOCM-20220726-1
 BOLETÍN OFICIAL DE LA COMUNIDAD DE MADRIDBOCM
 
 ## Artículo 25
@@ -1322,7 +1300,6 @@ uno de ellos en las distintas materias, así como las decisiones sobre promoció
 cia y titulación.
 
 MARTES 26 DE JULIO DE 2022Pág. 26 B.O.C.M. Núm. 176
-BOCM-20220726-1
 BOLETÍN OFICIAL DE LA COMUNIDAD DE MADRIDBOCM
 2. Los resultados de la evaluación de las materias reflejados en estas actas se expre-
 sarán mediante calificaciones numéricas de cero a diez sin decimales. Se considerarán ne-
@@ -1386,7 +1363,6 @@ nota media normalizada, así como la información relativa a los cambios de cent
 chas en que se han producido los diferentes hitos.
 
 MARTES 26 DE JULIO DE 2022B.O.C.M. Núm. 176 Pág. 27
-BOCM-20220726-1
 BOLETÍN OFICIAL DE LA COMUNIDAD DE MADRIDBOCM
 2. Tras finalizar la etapa, el historial académico de Bachillerato se entregará al alum-
 no o, en caso de que fuese menor de edad, a sus padres o tutores legales. Esta circunstancia
@@ -1431,7 +1407,7 @@ das en el expediente académico del alumno.
 y esté en disposición de obtener el título de Bachiller incluirá la nota media en la etapa y la
 nota media normalizada que figure en su expediente académico.
 
-### Capítulo V
+### Capítulo Capítulo
 Atención a la diversidad
 
 ## Artículo 32
@@ -1447,7 +1423,6 @@ instrumentos y en su caso los tiempos y apoyos que aseguren una correcta evaluac
 tos alumnos.
 
 MARTES 26 DE JULIO DE 2022Pág. 28 B.O.C.M. Núm. 176
-BOCM-20220726-1
 BOLETÍN OFICIAL DE LA COMUNIDAD DE MADRIDBOCM
 3. Se establecerán medidas de apoyo educativo para el alumnado con dificultades
 específicas de aprendizaje. En particular, se establecerán para este alumnado medidas de
@@ -1508,7 +1483,6 @@ pia de la materia en ambas lenguas.
 dimiento de autorización del programa de enseñanza bilingüe en los centros docentes.
 
 MARTES 26 DE JULIO DE 2022B.O.C.M. Núm. 176 Pág. 29
-BOCM-20220726-1
 BOLETÍN OFICIAL DE LA COMUNIDAD DE MADRIDBOCM
 4. De conformidad con el artículo 86.2 de la Ley Orgánica 2/2006, de 3 de mayo, el
 hecho de que en un centro sostenido con fondos públicos se impartan materias en lenguas
@@ -1566,7 +1540,6 @@ torizar a los centros a impartir las modalidades y, en su caso, vías de Bachill
 en el artículo 6 de este decreto.
 
 MARTES 26 DE JULIO DE 2022Pág. 30 B.O.C.M. Núm. 176
-BOCM-20220726-1
 BOLETÍN OFICIAL DE LA COMUNIDAD DE MADRIDBOCM
 2. Asimismo, establecerá el número mínimo de alumnos que se requiere para que los
 centros públicos y privados concertados puedan impartir cada una de las modalidades y vías
@@ -1620,7 +1593,6 @@ duzcan a la obtención de los títulos de Graduado en Educación Secundaria Obli
 Bachiller.
 
 MARTES 26 DE JULIO DE 2022B.O.C.M. Núm. 176 Pág. 31
-BOCM-20220726-1
 BOLETÍN OFICIAL DE LA COMUNIDAD DE MADRIDBOCM
 
 ## DISPOSICIÓN DEROGATORIA ÚNICA
@@ -1658,7 +1630,6 @@ La Presidenta,
 ISABEL DÍAZ AYUSO
 
 MARTES 26 DE JULIO DE 2022Pág. 32 B.O.C.M. Núm. 176
-BOCM-20220726-1
 BOLETÍN OFICIAL DE LA COMUNIDAD DE MADRIDBOCM
 
 ## ANEXO I 
@@ -1801,7 +1772,6 @@ materia)
  
 
 MARTES 26 DE JULIO DE 2022B.O.C.M. Núm. 176 Pág. 33
-BOCM-20220726-1
 BOLETÍN OFICIAL DE LA COMUNIDAD DE MADRIDBOCM
 Organización del segundo curso de Bachillerato 
  
@@ -1955,7 +1925,6 @@ materia)
   
 
 MARTES 26 DE JULIO DE 2022Pág. 34 B.O.C.M. Núm. 176
-BOCM-20220726-1
 BOLETÍN OFICIAL DE LA COMUNIDAD DE MADRIDBOCM
 
 ## ANEXO II 
@@ -2007,7 +1976,6 @@ Asimismo, a partir de ese proceso de análi sis, el alumnado puede expresar una 
 fundamentada a través de reseñas, comentarios o críticas musi cales, utilizando un vocabulario 
 
 MARTES 26 DE JULIO DE 2022B.O.C.M. Núm. 176 Pág. 35
-BOCM-20220726-1
 BOLETÍN OFICIAL DE LA COMUNIDAD DE MADRIDBOCM
 adecuado y difundiendo el res ultado a través de diversos medios, analógicos y digitales, 
 respetando los derechos de autor y la propiedad intelectual. 
@@ -2060,7 +2028,6 @@ Junto a este análisis, la descripción de las características de los elementos
 obra (ritmo, melodía, armonía, timbre, componentes expres ivos, etc.) potencia la conexión entre 
 
 MARTES 26 DE JULIO DE 2022Pág. 36 B.O.C.M. Núm. 176
-BOCM-20220726-1
 BOLETÍN OFICIAL DE LA COMUNIDAD DE MADRIDBOCM
 los aprendizajes sobre teoría musical y su reconocimiento perceptivo, proporcionando, además, la 
 posibilidad de realizar comparaciones entre los rasgos que definen diversas composiciones. 
@@ -2113,7 +2080,6 @@ empleando los elementos y las estructuras musical es más adecuadas, para crear 
 sencillas y realizar improvisaciones. 
 
 MARTES 26 DE JULIO DE 2022B.O.C.M. Núm. 176 Pág. 37
-BOCM-20220726-1
 BOLETÍN OFICIAL DE LA COMUNIDAD DE MADRIDBOCM
 Comprender la música a través de  su visión analítica permite al alumnado reconocer los 
 elementos sobre los que se construye la obra. Al mismo tie mpo, favorece la interiorización de 
@@ -2165,7 +2131,6 @@ composición a través de la escucha activa y con apoyo de la partitura.
 estudio de partituras, analizando sus elementos constitutivos. 
 
 MARTES 26 DE JULIO DE 2022Pág. 38 B.O.C.M. Núm. 176
-BOCM-20220726-1
 BOLETÍN OFICIAL DE LA COMUNIDAD DE MADRIDBOCM
 Competencia específica 2. 
 2.1. Analizar, de forma guiada, obras musi cales, identificando la es tructura formal y los 
@@ -2217,7 +2182,6 @@ fraseo, clímax, comienzos (tétic o-anacrúsico) y finales. Identificación en 
 compactados, arpegiados y bajo Alberti.  
 
 MARTES 26 DE JULIO DE 2022B.O.C.M. Núm. 176 Pág. 39
-BOCM-20220726-1
 BOLETÍN OFICIAL DE LA COMUNIDAD DE MADRIDBOCM
 /g120 Textura: identificación auditi va y/o en partitura de mono dia, homofonía, melodía 
 acompañada y contrapunto.  
@@ -2269,7 +2233,6 @@ digitales, respetando los derechos de autor y la propiedad intelectual.
 Competencia específica 4. 
 
 MARTES 26 DE JULIO DE 2022Pág. 40 B.O.C.M. Núm. 176
-BOCM-20220726-1
 BOLETÍN OFICIAL DE LA COMUNIDAD DE MADRIDBOCM
 4.1. Realizar improvisaciones se ncillas o pequeñas composicione s, en proyectos musicales 
 grupales, utilizando los procedimientos compositivos fundamentales y apl icando patrones 
@@ -2322,7 +2285,6 @@ partes o movimientos, dinámicas, ornamentación, agrupaciones tímbricas…
 /g120 Patologías frecuentes tratadas con música. 
 
 MARTES 26 DE JULIO DE 2022B.O.C.M. Núm. 176 Pág. 41
-BOCM-20220726-1
 BOLETÍN OFICIAL DE LA COMUNIDAD DE MADRIDBOCM
 /g120 Técnicas aplicadas en musicoterapia: cantos, d anza, cuencos tibetanos, 
 improvisación… 
@@ -2377,7 +2339,6 @@ aunque sin descuidar la evolución histórica de las distintas escuelas de inter
 contenidos incluidos en el cuarto bloque, «Repres entación y escenificación», son muy semejantes 
 
 MARTES 26 DE JULIO DE 2022Pág. 42 B.O.C.M. Núm. 176
-BOCM-20220726-1
 BOLETÍN OFICIAL DE LA COMUNIDAD DE MADRIDBOCM
 en ambos cursos, pero aportando una mayor complejidad en el segundo. Este cuarto bloque es 
 probablemente el más relevante y el que más dedicación de trabajo en el aula requiere, ya que los 
@@ -2431,7 +2392,6 @@ reproducciones analógicas o digitales. Resultarán también de utilidad el come
 imágenes y la consulta de fuentes bibliográficas. 
 
 MARTES 26 DE JULIO DE 2022B.O.C.M. Núm. 176 Pág. 43
-BOCM-20220726-1
 BOLETÍN OFICIAL DE LA COMUNIDAD DE MADRIDBOCM
 El descubrimiento de formas de expresión distintas de aquel las con las que está más 
 familiarizado enriquecerá el imaginario del alumnado, aportándole ideas y técnicas para aplicar en 
@@ -2484,7 +2444,6 @@ construcción de escenas que m uestren todo tipo de personaj es, situaciones y c
 dramáticos. 
 
 MARTES 26 DE JULIO DE 2022Pág. 44 B.O.C.M. Núm. 176
-BOCM-20220726-1
 BOLETÍN OFICIAL DE LA COMUNIDAD DE MADRIDBOCM
 Tanto la asimilación de técni cas de interpretación como la representación de obras dentro o 
 fuera del aula hacen neces aria la adquisición de otras estrategi as y destrezas que ayuden al 
@@ -2539,7 +2498,6 @@ papel del espectador como receptor activo y valorador cr ítico. Se ha de aprove
 experiencia para profundizar en la noción de público y descubrir su tipología. 
 
 MARTES 26 DE JULIO DE 2022B.O.C.M. Núm. 176 Pág. 45
-BOCM-20220726-1
 BOLETÍN OFICIAL DE LA COMUNIDAD DE MADRIDBOCM
 La vivencia de la catarsis, el extrañamiento, la identificac ión y la participación favorece, 
 además, la comprensión del proceso de recepción y puede funcionar como elemento motivador en 
@@ -2590,7 +2548,6 @@ explicando de forma argumentada las posibles diferencias entre ellos.
 Competencia específica 5. 
 
 MARTES 26 DE JULIO DE 2022Pág. 46 B.O.C.M. Núm. 176
-BOCM-20220726-1
 BOLETÍN OFICIAL DE LA COMUNIDAD DE MADRIDBOCM
 5.1. Identificar el tipo de públ ico al que se dirige un es pectáculo determinado, basando los 
 argumentos en el análisis de la obra y en las reacciones del público.  
@@ -2641,7 +2598,6 @@ objetos, musical, dancístico, de interior, de calle.
 E. La recepción en las artes escénicas. 
 
 MARTES 26 DE JULIO DE 2022B.O.C.M. Núm. 176 Pág. 47
-BOCM-20220726-1
 BOLETÍN OFICIAL DE LA COMUNIDAD DE MADRIDBOCM
 – El público: concepto y tipologías.  
 – La recepción teatral: catarsis, extrañamiento y participación. 
@@ -2691,7 +2647,6 @@ presupuestos artísticos y la recepción de la obra.
 Contenidos. 
 
 MARTES 26 DE JULIO DE 2022Pág. 48 B.O.C.M. Núm. 176
-BOCM-20220726-1
 BOLETÍN OFICIAL DE LA COMUNIDAD DE MADRIDBOCM
 A. Patrimonio escénico. 
 – Las artes escénicas y su historia: cambios y transformaciones. 
@@ -2742,7 +2697,6 @@ puesta en escena.
 BIOLOGÍA 
 
 MARTES 26 DE JULIO DE 2022B.O.C.M. Núm. 176 Pág. 49
-BOCM-20220726-1
 BOLETÍN OFICIAL DE LA COMUNIDAD DE MADRIDBOCM
  
 La biología es una disciplina cuyos avances  se han visto acelerad os notablemente en las 
@@ -2797,7 +2751,6 @@ frescos (verduras, frutas, leche fresc a, etc.) con alimentos ultra pro cesados 
 snacks, lácteos azucarados, etc.) en relación a los contenidos del bloque de «Biomoléculas». Esta 
 
 MARTES 26 DE JULIO DE 2022Pág. 50 B.O.C.M. Núm. 176
-BOCM-20220726-1
 BOLETÍN OFICIAL DE LA COMUNIDAD DE MADRIDBOCM
 situación permitiría integrar en el  aprendizaje, la investigación, estrategias de trabajo y prácticas 
 en el laboratorio desarrollando as í, las competencias específicas 3, 5 y 6 de la materia. Al final de 
@@ -2849,7 +2802,6 @@ esencial, entre otros, para la revisión por pares del trabajo de investigación
 el que se sustenta el rigor y la veracidad de la ciencia. Aunque el pensamiento crítico debe 
 
 MARTES 26 DE JULIO DE 2022B.O.C.M. Núm. 176 Pág. 51
-BOCM-20220726-1
 BOLETÍN OFICIAL DE LA COMUNIDAD DE MADRIDBOCM
 comenzar a trabajarse desde la s primeras etapas educativas, alcanza un grado de desarrollo 
 significativo en Bachillerato y el progreso en esta competencia específica contribuye a su mejora. 
@@ -2903,7 +2855,6 @@ sociedad adopte un modelo de desarro llo, que constituye uno de lo s mayores y m
 retos a los que se enfrenta la humanidad actualmente. Para poder hacer realidad este ambicioso 
 
 MARTES 26 DE JULIO DE 2022Pág. 52 B.O.C.M. Núm. 176
-BOCM-20220726-1
 BOLETÍN OFICIAL DE LA COMUNIDAD DE MADRIDBOCM
 objetivo es necesario co nseguir que la sociedad alc ance una comprensión profunda del 
 funcionamiento de los sistemas biológicos para así poder aprec iar su valor. De esta forma, se 
@@ -2956,7 +2907,6 @@ Competencia específica 2.
 materia, localizando y citan do fuentes de forma adecuada; se leccionando, organizando y 
 
 MARTES 26 DE JULIO DE 2022B.O.C.M. Núm. 176 Pág. 53
-BOCM-20220726-1
 BOLETÍN OFICIAL DE LA COMUNIDAD DE MADRIDBOCM
 analizando críticamente la información. 
 2.2. Contrastar y justificar la veracidad de información relaciona da con la materia, utilizando 
@@ -3007,7 +2957,6 @@ incorporación en la dieta.
 – La relación entre los bioelementos y biomoléculas y la salud. Estilos de vida saludables. 
 
 MARTES 26 DE JULIO DE 2022Pág. 54 B.O.C.M. Núm. 176
-BOCM-20220726-1
 BOLETÍN OFICIAL DE LA COMUNIDAD DE MADRIDBOCM
 B. Genética molecular y herencia. 
 – Identificación del ADN como portador de la información genética. Concepto de gen. 
@@ -3057,7 +3006,6 @@ E. Biotecnología.
 molecular, Organismos Modificados Genéticamente (OMG), CRISPR-CAS9, etc. 
 
 MARTES 26 DE JULIO DE 2022B.O.C.M. Núm. 176 Pág. 55
-BOCM-20220726-1
 BOLETÍN OFICIAL DE LA COMUNIDAD DE MADRIDBOCM
 – Importancia y repercusiones de la biotecnología: aplicacio nes en salud, agricultura, medio 
 ambiente, nuevos materiales, industria ali mentaria, etc. El papel destacado de los 
@@ -3109,7 +3057,6 @@ se recomienda abordarla de una mane ra práctica basada en la resol ución de pr
 realización de proyectos e investigaciones, fomentando la colaboración. Además, es conveniente 
 
 MARTES 26 DE JULIO DE 2022Pág. 56 B.O.C.M. Núm. 176
-BOCM-20220726-1
 BOLETÍN OFICIAL DE LA COMUNIDAD DE MADRIDBOCM
 conectarla de forma signific ativa tanto con la realidad del al umnado, como con otras disciplinas 
 vinculadas a las ciencias en un enfoque interdisciplinar. 
@@ -3161,7 +3108,6 @@ importancia que el alumnado des arrolle un espíritu crítico y co ntraste y eva
 obtenida. 
 
 MARTES 26 DE JULIO DE 2022B.O.C.M. Núm. 176 Pág. 57
-BOCM-20220726-1
 BOLETÍN OFICIAL DE LA COMUNIDAD DE MADRIDBOCM
 La información veraz debe ser también seleccionada según su relevancia y organizada para 
 poder responder de forma clara a las cuestiones formuladas . Además, dada la madurez 
@@ -3214,7 +3160,6 @@ desenvolverse frente a situaciones de incertidumbre y cambios acelerados, partic
 en la sociedad y afrontar los retos del siglo XXI. 
 
 MARTES 26 DE JULIO DE 2022Pág. 58 B.O.C.M. Núm. 176
-BOCM-20220726-1
 BOLETÍN OFICIAL DE LA COMUNIDAD DE MADRIDBOCM
 Esta competencia específica se  conecta con los siguientes descriptores recogidos en el 
 anexo I del Real Decreto 243/2022, de 5 de abril: CCL3, STEM1, STEM2, CD1, CD5, CPSAA5, 
@@ -3265,7 +3210,6 @@ materia o con trabajos científicos transmitiéndolas de forma clara y rigurosa,
 terminología y el formato adecuados (modelos, gráficos, tablas, vídeos, informes, diagramas, 
 
 MARTES 26 DE JULIO DE 2022B.O.C.M. Núm. 176 Pág. 59
-BOCM-20220726-1
 BOLETÍN OFICIAL DE LA COMUNIDAD DE MADRIDBOCM
 fórmulas, esquemas y símbolos, entre otros) y herramientas digitales. 
 1.3. Argumentar sobre aspectos relac ionados con los contenidos de la materia, defendiendo una 
@@ -3318,7 +3262,6 @@ Competencia específica 6.
 6.1. Relacionar los grandes eventos de la his toria terrestre con determinad os elementos del 
 
 MARTES 26 DE JULIO DE 2022Pág. 60 B.O.C.M. Núm. 176
-BOCM-20220726-1
 BOLETÍN OFICIAL DE LA COMUNIDAD DE MADRIDBOCM
 registro geológico y con los suces os que ocurren en la actualid ad utilizando los principios 
 geológicos básicos y el razonamiento lógico. 
@@ -3372,7 +3315,6 @@ C. Historia de la Tierra y la vida.
 absoluta y relativa. 
 
 MARTES 26 DE JULIO DE 2022B.O.C.M. Núm. 176 Pág. 61
-BOCM-20220726-1
 BOLETÍN OFICIAL DE LA COMUNIDAD DE MADRIDBOCM
 /g120 Métodos de datación directos  e indirectos. Radioisótopos. 
 − La historia de la Tierra: princ ipales acontecimientos geológicos. 
@@ -3427,7 +3369,6 @@ responsable.
 E. Fisiología e histología animal. 
 
 MARTES 26 DE JULIO DE 2022Pág. 62 B.O.C.M. Núm. 176
-BOCM-20220726-1
 BOLETÍN OFICIAL DE LA COMUNIDAD DE MADRIDBOCM
 − La función de nutrición: import ancia biológica y estructura s implicadas en diferentes grupos 
 taxonómicos. 
@@ -3481,7 +3422,6 @@ forman parte del día a día de nuestro mundo, ya que multitud de aspectos está
 la actividad científica, tanto en campos sanitarios como tecnológicos o divulgativos.  
 
 MARTES 26 DE JULIO DE 2022B.O.C.M. Núm. 176 Pág. 63
-BOCM-20220726-1
 BOLETÍN OFICIAL DE LA COMUNIDAD DE MADRIDBOCM
 La materia de Ciencias Generales ofre ce al alumnado una formació n básica en las cuatro 
 disciplinas científicas fun damentales para que adquieran la base suficiente para comprender los 
@@ -3536,7 +3476,6 @@ de «Las fuerzas que rigen el  universo y las fuerzas que nos  mueven», «El si
 desarrollar ejemplos de futuros escenarios viables y busca r obras escritas y películas que traten 
 
 MARTES 26 DE JULIO DE 2022Pág. 64 B.O.C.M. Núm. 176
-BOCM-20220726-1
 BOLETÍN OFICIAL DE LA COMUNIDAD DE MADRIDBOCM
 sobre esta temática. La actividad planteada perseguiría como resultado final, la elaboración de un 
 producto en forma de informe escrito, investigación u obra audiovisual , y contribuiría a desarrollas 
@@ -3589,7 +3528,6 @@ mantenimiento, promoción y mejora de la salud, así como la pre vención de la 
 existe un estrecho vínculo entre el bienestar humano y la conservación de los pi lares sobre los 
 
 MARTES 26 DE JULIO DE 2022B.O.C.M. Núm. 176 Pág. 65
-BOCM-20220726-1
 BOLETÍN OFICIAL DE LA COMUNIDAD DE MADRIDBOCM
 que este se sustenta. 
 La adquisición y desarrollo de esta competencia específi ca permitirá al alumnado 
@@ -3642,7 +3580,6 @@ I del Real Decreto 243/2022, de 5 de abril: CCL1, CCL2, STEM4, CD3, CPSAA4, CC1,
 información contrastada y establecer colaboraciones. 
 
 MARTES 26 DE JULIO DE 2022Pág. 66 B.O.C.M. Núm. 176
-BOCM-20220726-1
 BOLETÍN OFICIAL DE LA COMUNIDAD DE MADRIDBOCM
 La comunicación y la cola boración son componentes inherentes al proceso de avance 
 científico. Parte de este proceso  comunicativo implica bus car y seleccionar información científica 
@@ -3692,7 +3629,6 @@ físicos, químicos, biológicos y geológicos, modificando las co nclusiones o 
 utilizadas si la solución no es viable, o ante nuevos datos aportados. 
 
 MARTES 26 DE JULIO DE 2022B.O.C.M. Núm. 176 Pág. 67
-BOCM-20220726-1
 BOLETÍN OFICIAL DE LA COMUNIDAD DE MADRIDBOCM
 Competencia específica 5. 
 5.1. Reconocer la ciencia como un área de co nocimiento global, analiza ndo la interrelación e 
@@ -3746,7 +3682,6 @@ tabla periódica. Reconocimiento de su importancia histórica y actual.
 /g120 Números cuánticos. Configuración el ectrónica y sistema periódico. 
 
 MARTES 26 DE JULIO DE 2022Pág. 68 B.O.C.M. Núm. 176
-BOCM-20220726-1
 BOLETÍN OFICIAL DE LA COMUNIDAD DE MADRIDBOCM
 /g120 Propiedades periódicas: radio atómico, radio iónico, ener gía de ionización, afinidad 
 electrónica, electronegatividad.  
@@ -3801,7 +3736,6 @@ relaciones tróficas. Resolución de problemas relacionados.
 Pirámides ecológicas. 
 
 MARTES 26 DE JULIO DE 2022B.O.C.M. Núm. 176 Pág. 69
-BOCM-20220726-1
 BOLETÍN OFICIAL DE LA COMUNIDAD DE MADRIDBOCM
 /g120 Sucesiones ecológicas. 
 – Principales problemas medioambientales (calentamiento global, agujero de la capa de ozono, 
@@ -3856,7 +3790,6 @@ la geología o la ingeniería.
 y torsión. 
 
 MARTES 26 DE JULIO DE 2022Pág. 70 B.O.C.M. Núm. 176
-BOCM-20220726-1
 BOLETÍN OFICIAL DE LA COMUNIDAD DE MADRIDBOCM
 – Fuerzas fundamentales de la natura leza: los procesos físico s más relevantes del entorno 
 natural, como los fenómenos electromagnéticos, el movimiento de los planetas o los procesos 
@@ -3909,7 +3842,6 @@ Se recomienda al docente la elaboración de actividades diversas, en las que el 
 capaz de interiorizar lo s roles correspondientes a distintas manifestaciones culturales, de manera 
 
 MARTES 26 DE JULIO DE 2022B.O.C.M. Núm. 176 Pág. 71
-BOCM-20220726-1
 BOLETÍN OFICIAL DE LA COMUNIDAD DE MADRIDBOCM
 tal que se convierta en parte viva de la recreación artística. A es te respecto, resulta conveniente 
 seleccionar un repertorio rico y variado, considerando múltiples referencias culturales.  
@@ -3962,7 +3894,6 @@ La improvisación vocal y expresión corporal ha de constituir un medio para que
 relajación, la desinhibición y la  búsqueda de la confianza en los demás, el alumnado explore su 
 
 MARTES 26 DE JULIO DE 2022Pág. 72 B.O.C.M. Núm. 176
-BOCM-20220726-1
 BOLETÍN OFICIAL DE LA COMUNIDAD DE MADRIDBOCM
 propia voz y reconozca su propi o sonido y el sonido de sus compañeros, y sean capaces de 
 valorar la diversidad y gestionar sus incertidumbres e insegurid ades. La aceptación de la voz 
@@ -4016,7 +3947,6 @@ a situaciones profesionales artísticas  y de gestión. En este sentido,  tanto 
 desempeño de alguna de las funciones  de la producción artística (preproducción, organización de 
 
 MARTES 26 DE JULIO DE 2022B.O.C.M. Núm. 176 Pág. 73
-BOCM-20220726-1
 BOLETÍN OFICIAL DE LA COMUNIDAD DE MADRIDBOCM
 ensayos, apoyo técnico o difusió n) permitirán al alumnado rec onocer sus aptitudes y descubrir 
 distintas oportunidades de desarrollo perso nal, social, académico o profe sional ligadas al ámbito 
@@ -4064,7 +3994,6 @@ B. Técnica vocal.
 – Fundamentos para el cuidado de la voz y postura del cuerpo. 
 
 MARTES 26 DE JULIO DE 2022Pág. 74 B.O.C.M. Núm. 176
-BOCM-20220726-1
 BOLETÍN OFICIAL DE LA COMUNIDAD DE MADRIDBOCM
 – Identificación de los elementos de la pro ducción vocal: respiració n, emisión, articulación, 
 resonancias y dinámica. Diferencias entre la voz natural y la voz impostada. 
@@ -4114,7 +4043,6 @@ de desarrollo personal, social, académico o profesional.
 Contenidos. 
 
 MARTES 26 DE JULIO DE 2022B.O.C.M. Núm. 176 Pág. 75
-BOCM-20220726-1
 BOLETÍN OFICIAL DE LA COMUNIDAD DE MADRIDBOCM
 A. Análisis. 
 – La relación texto-música. 
@@ -4165,7 +4093,6 @@ cognitivos, culturales, emocionales y afectivos.
 La formación de esta materia se estructura en cuatro bloques de contenidos. 
 
 MARTES 26 DE JULIO DE 2022Pág. 76 B.O.C.M. Núm. 176
-BOCM-20220726-1
 BOLETÍN OFICIAL DE LA COMUNIDAD DE MADRIDBOCM
 En el primer bloque – Hitos y contemporaneidad de la fotografía y el audiovisual. Formatos 
 audiovisuales. – acercará al alumnado al  conocimiento de la histori a de la fotografía y el 
@@ -4220,7 +4147,6 @@ importantes piezas que aportan calidad a un producto aud iovisual. Pero de igual
 importante que el alumnado conozca, aunque sea a un nivel básico, los medios técnicos con los 
 
 MARTES 26 DE JULIO DE 2022B.O.C.M. Núm. 176 Pág. 77
-BOCM-20220726-1
 BOLETÍN OFICIAL DE LA COMUNIDAD DE MADRIDBOCM
 que se debe contar para una creación de esta índole: soportes , micrófonos, accesorios para 
 cámaras, etc. 
@@ -4274,7 +4200,6 @@ I del Real Decreto 243/2022, de 5 de abril: CCL1, CCL2, STEM2, CD1, CCEC1, CCEC2
 banda de sonido y evaluando el rigor ético y formal de los procedimientos, para 
 
 MARTES 26 DE JULIO DE 2022Pág. 78 B.O.C.M. Núm. 176
-BOCM-20220726-1
 BOLETÍN OFICIAL DE LA COMUNIDAD DE MADRIDBOCM
 expresar y comunicar ideas, opiniones y sentimientos y construir una personalidad 
 abierta y amplia. 
@@ -4328,7 +4253,6 @@ que se le asocian, es mu y importante que el alumnado aprenda a diseñar producc
 audiovisuales a partir de la  elección previa, consciente e i nformada, del público al que quiere 
 
 MARTES 26 DE JULIO DE 2022B.O.C.M. Núm. 176 Pág. 79
-BOCM-20220726-1
 BOLETÍN OFICIAL DE LA COMUNIDAD DE MADRIDBOCM
 dirigirse. Para ello, debe plant earse tanto la adecuación del lengu aje a emplear, como los medios 
 técnicos a utilizar y el formato en el que encuadrarlas. 
@@ -4381,7 +4305,6 @@ las diferentes posibilidades para resolver un problema sobrevenido.
 técnicas, herramientas y convecc iones del lenguaje neces arias, valorando el trabajo 
 
 MARTES 26 DE JULIO DE 2022Pág. 80 B.O.C.M. Núm. 176
-BOCM-20220726-1
 BOLETÍN OFICIAL DE LA COMUNIDAD DE MADRIDBOCM
 colaborativo e intentando cons eguir un resultado final ajus tado al proyecto preparado 
 previamente. 
@@ -4436,7 +4359,6 @@ Richard Avedon, Mario Testino, John Heartfield, Josep Renau, Man Ray, entre otro
 /g131 El año pasado en Marienbad de Alain Res nais, Lars von Trier, Thomas Vinterberg, 
 
 MARTES 26 DE JULIO DE 2022B.O.C.M. Núm. 176 Pág. 81
-BOCM-20220726-1
 BOLETÍN OFICIAL DE LA COMUNIDAD DE MADRIDBOCM
 Lone Scherfing. 
 /g131 Género histórico, bél ico, drama, cine negro, western , ciencia ficción, comedia, 
@@ -4492,7 +4414,6 @@ tercios, la regla del horizo nte, la proporción áurea, espac ios positivos y e
 enfoque total y selectivo, textura, volumen, perspectiva, iluminación. 
 
 MARTES 26 DE JULIO DE 2022Pág. 82 B.O.C.M. Núm. 176
-BOCM-20220726-1
 BOLETÍN OFICIAL DE LA COMUNIDAD DE MADRIDBOCM
 – Simbología y psicología del color. Ejemplos de aplicación en grandes obras del cine y la 
 fotografía. 
@@ -4546,7 +4467,6 @@ habilidades requeridas.
 – Fases de trabajo: preproducción, rodaje y postproducción. 
 
 MARTES 26 DE JULIO DE 2022B.O.C.M. Núm. 176 Pág. 83
-BOCM-20220726-1
 BOLETÍN OFICIAL DE LA COMUNIDAD DE MADRIDBOCM
 /g120 Guiones originales. Adaptaciones. 
 /g120 Castings. 
@@ -4600,7 +4520,6 @@ mundo no solo a través del estud io atento y analítico, también  interviene n
 reinventando la realidad. El dibuj o, además de servir para realiza r las primeras exteriorizaciones 
 
 MARTES 26 DE JULIO DE 2022Pág. 84 B.O.C.M. Núm. 176
-BOCM-20220726-1
 BOLETÍN OFICIAL DE LA COMUNIDAD DE MADRIDBOCM
 de nuestros pensamientos y emociones , es íntimo y directo, liber ador en su inmediatez; en 
 definitiva, es nuestro primer intento de apropiarnos del espa cio. El trazo, el gesto del artista, 
@@ -4655,7 +4574,6 @@ elegida.
  
 
 MARTES 26 DE JULIO DE 2022B.O.C.M. Núm. 176 Pág. 85
-BOCM-20220726-1
 BOLETÍN OFICIAL DE LA COMUNIDAD DE MADRIDBOCM
 Competencias específicas. 
 1. Comprender el dibujo como forma de conocimiento, comunicación y expresión, 
@@ -4708,7 +4626,6 @@ realidad, para ir avanzando hacia una  expresión gráfica personal q ue pueda i
 imaginación. 
 
 MARTES 26 DE JULIO DE 2022Pág. 86 B.O.C.M. Núm. 176
-BOCM-20220726-1
 BOLETÍN OFICIAL DE LA COMUNIDAD DE MADRIDBOCM
 Esta competencia específica se conecta con los siguientes descriptores recogidos en el anexo 
 I del Real Decreto 243/2022, de 5 de abril: CPSAA1.1, CPSAA1.2, CC1, CC2, CCEC3.1. 
@@ -4762,7 +4679,6 @@ desapercibido. Como todo método, el dibujo necesita una constancia en el trabaj
 se llegan a conseguir la destreza y la habilidad necesarias para emplearlo en nuestros proyectos. 
 
 MARTES 26 DE JULIO DE 2022B.O.C.M. Núm. 176 Pág. 87
-BOCM-20220726-1
 BOLETÍN OFICIAL DE LA COMUNIDAD DE MADRIDBOCM
 Al mismo tiempo que método de conoc imiento, el dibujo es método de expresión. Al avanzar 
 en su práctica, el trazo y el  gesto se vuelven más personales, ll egando a ser nuestras huellas 
@@ -4815,7 +4731,6 @@ del proyecto que está creando, as í como la relevancia de asumir res ponsabili
 opiniones de los demás. Todo este proceso ayuda a descubrir al alumnado que  debe adaptar la 
 
 MARTES 26 DE JULIO DE 2022Pág. 88 B.O.C.M. Núm. 176
-BOCM-20220726-1
 BOLETÍN OFICIAL DE LA COMUNIDAD DE MADRIDBOCM
 planificación inicial ante posibles dificultades o cambios exigidos por el propio diseño de la 
 producción. 
@@ -4863,7 +4778,6 @@ incorporando, de forma guiada, procedimientos o técnicas uti lizados en referen
 de interés para el alumnado. 
 
 MARTES 26 DE JULIO DE 2022B.O.C.M. Núm. 176 Pág. 89
-BOCM-20220726-1
 BOLETÍN OFICIAL DE LA COMUNIDAD DE MADRIDBOCM
 Competencia específica 6. 
 6.1. Emplear con intenciones comunicativas o expresivas los mecanismos de la percepción visual, 
@@ -4916,7 +4830,6 @@ dibujo (s.XIV y XV).
 /g131 Las Academias. El c oleccionismo (s.XVII y XVIII). 
 
 MARTES 26 DE JULIO DE 2022Pág. 90 B.O.C.M. Núm. 176
-BOCM-20220726-1
 BOLETÍN OFICIAL DE LA COMUNIDAD DE MADRIDBOCM
 /g120 Obras más representativas de diferentes artistas. Gitotto, Gentil e de Fabriano, Pisanello, 
 Piero de la Francesca, Paolo Uccelo, Leonardo da Vinci, Mig uel Ángel, Tiziano, Rafael, 
@@ -4969,7 +4882,6 @@ D. La luz, el claroscuro y el color
 – Síntesis aditiva y síntesis sustractiva. Color luz-color pigmento. 
 
 MARTES 26 DE JULIO DE 2022B.O.C.M. Núm. 176 Pág. 91
-BOCM-20220726-1
 BOLETÍN OFICIAL DE LA COMUNIDAD DE MADRIDBOCM
 – Naturaleza, percepción, psicología y simbología del color. 
 – Monocromía, bicromía y tricromía. Aplicaciones básicas del color en el dibujo. 
@@ -5020,7 +4932,6 @@ posibilidades expresivas de formas y texturas, emple ando con correcci ón y des
 recursos del dibujo. 
 
 MARTES 26 DE JULIO DE 2022Pág. 92 B.O.C.M. Núm. 176
-BOCM-20220726-1
 BOLETÍN OFICIAL DE LA COMUNIDAD DE MADRIDBOCM
 3.3. Apreciar la relación entre luz, color y textura para poder integ rar esta conexión en las 
 producciones gráficas propias , aportando valores expresi vos intencionados en sus 
@@ -5073,7 +4984,6 @@ Competencia específica 9.
 elegido, y organizando y distribuyendo las tareas de forma adecuada. 
 
 MARTES 26 DE JULIO DE 2022B.O.C.M. Núm. 176 Pág. 93
-BOCM-20220726-1
 BOLETÍN OFICIAL DE LA COMUNIDAD DE MADRIDBOCM
 9.2. Realizar, con decisión y ac titud positiva, proyectos gráficos , respetando las aportaciones de 
 los demás, afrontando los retos que  surjan y evaluando tanto la  planificación como las 
@@ -5124,7 +5034,6 @@ E. La figura humana.
 /g120 Del canon griego a la representación de la figura humana en el siglo XX. 
 
 MARTES 26 DE JULIO DE 2022Pág. 94 B.O.C.M. Núm. 176
-BOCM-20220726-1
 BOLETÍN OFICIAL DE LA COMUNIDAD DE MADRIDBOCM
 – Nociones básicas de anatomía artística. 
 – Estudio del movimiento en la figura humana (Matisse, Duchamp, Peter Jansen, entre otros). 
@@ -5177,7 +5086,6 @@ con los contenidos necesarios para la resoluci ón gráfica de problemas geomét
 aplicaciones en diferentes ramas del conocimiento y se profundiza al ll egar al segundo curso. Se 
 
 MARTES 26 DE JULIO DE 2022B.O.C.M. Núm. 176 Pág. 95
-BOCM-20220726-1
 BOLETÍN OFICIAL DE LA COMUNIDAD DE MADRIDBOCM
 potenciará el uso del cr oquis o dibujo a mano alzada, com o herramienta para las figuras de 
 análisis en los problemas a resolver. 
@@ -5230,7 +5138,6 @@ manera gráfica, aplicando métodos in ductivos y deductivos con rig or y valora
 la precisión, claridad y el trabajo bien hecho. 
 
 MARTES 26 DE JULIO DE 2022Pág. 96 B.O.C.M. Núm. 176
-BOCM-20220726-1
 BOLETÍN OFICIAL DE LA COMUNIDAD DE MADRIDBOCM
 Esta competencia específica se conecta con los siguientes descriptores recogidos en el anexo 
 I del Real Decreto 243/2022, de 5 de abril: CCL2, STEM1, STEM2, STEM4, CPSAA1.1, CPSAA5, 
@@ -5283,7 +5190,6 @@ STEM2, STEM3, STEM4, CD1, CD2, CD3, CE3, CEC4.
 Dibujo Técnico I. 
 
 MARTES 26 DE JULIO DE 2022B.O.C.M. Núm. 176 Pág. 97
-BOCM-20220726-1
 BOLETÍN OFICIAL DE LA COMUNIDAD DE MADRIDBOCM
 Criterios de evaluación. 
 Competencia específica 1. 
@@ -5337,7 +5243,6 @@ Competencia específica 4.
 producción para garantizar la calidad e interpretación de la información. 
 
 MARTES 26 DE JULIO DE 2022Pág. 98 B.O.C.M. Núm. 176
-BOCM-20220726-1
 BOLETÍN OFICIAL DE LA COMUNIDAD DE MADRIDBOCM
 4.2. Documentar gráficamente objeto s sencillos mediante sus vista s acotadas aplicando la 
 normativa UNE e ISO en la utili zación de sintaxis, escalas y formatos, valorando la 
@@ -5389,7 +5294,6 @@ Determinación del plano. Pertenencia.
 para obtener la verdadera magnitud. 
 
 MARTES 26 DE JULIO DE 2022B.O.C.M. Núm. 176 Pág. 99
-BOCM-20220726-1
 BOLETÍN OFICIAL DE LA COMUNIDAD DE MADRIDBOCM
 – Sistema de planos acotados. Fundamentos y elementos básicos . Identificación de elementos 
 para su interpretación en planos. 
@@ -5441,7 +5345,6 @@ potencia de un punto con respecto a la circunferencia con una actitud de rigor e
 problemas. 
 
 MARTES 26 DE JULIO DE 2022Pág. 100 B.O.C.M. Núm. 176
-BOCM-20220726-1
 BOLETÍN OFICIAL DE LA COMUNIDAD DE MADRIDBOCM
 2.6. Conocer el origen y traz ar curvas cónicas, identificando su s principales elementos y sus 
 rectas tangentes, aplicando propiedades y métodos de construcción, mostrando interés por la 
@@ -5494,7 +5397,6 @@ resolución de problemas en los sistemas de representación.
 – Curvas cónicas: elipse, hipérbola y parábola.  
 
 MARTES 26 DE JULIO DE 2022B.O.C.M. Núm. 176 Pág. 101
-BOCM-20220726-1
 BOLETÍN OFICIAL DE LA COMUNIDAD DE MADRIDBOCM
 /g120 Origen, propiedades y método s de construcción. Trazado con y sin herramientas 
 digitales. Aplicaciones. 
@@ -5548,7 +5450,6 @@ presentación de proyectos.
 – Dibujo vectorial:  
 
 MARTES 26 DE JULIO DE 2022Pág. 102 B.O.C.M. Núm. 176
-BOCM-20220726-1
 BOLETÍN OFICIAL DE LA COMUNIDAD DE MADRIDBOCM
 /g120 2D: dibujo y edición, crea ción bloques, visibilidad de capas. 
 /g120 3D: inserción y edición sólidos, gal erías y bibliotecas de modelos. Texturas. 
@@ -5601,7 +5502,6 @@ Por último, en el bloque «Herramientas digitales para el diseño» se pretende
 sea capaz de utilizar diferentes programas y herramientas digitales en 2D y 3D en proyectos 
 
 MARTES 26 DE JULIO DE 2022B.O.C.M. Núm. 176 Pág. 103
-BOCM-20220726-1
 BOLETÍN OFICIAL DE LA COMUNIDAD DE MADRIDBOCM
 artísticos o de diseño, adq uiriendo un conocimiento básico que le permita experimentar y, 
 posteriormente y de forma autónoma, actualizar continuamente su s habilidades digitales y 
@@ -5657,7 +5557,6 @@ exploración y el descubrimiento, de analizar el uso de curvas, polígonos  y tr
 geométricas en el contexto de la s culturas en las que se  han empleado, para llegar a un 
 
 MARTES 26 DE JULIO DE 2022Pág. 104 B.O.C.M. Núm. 176
-BOCM-20220726-1
 BOLETÍN OFICIAL DE LA COMUNIDAD DE MADRIDBOCM
 conocimiento más amplio y rico de las manifestaciones artísticas  del pasado y presente. Esta 
 amplitud de conocimiento fomentará en el alumnado disfrutar con el  análisis y la identificación de 
@@ -5710,7 +5609,6 @@ material del diseño. Se trata de in iciar al alumnado en un tipo de rep resenta
 fundamentales son la funcionalidad,  la operatividad y la universali dad, pues el dibujo normalizado 
 
 MARTES 26 DE JULIO DE 2022B.O.C.M. Núm. 176 Pág. 105
-BOCM-20220726-1
 BOLETÍN OFICIAL DE LA COMUNIDAD DE MADRIDBOCM
 debe ser portador de información útil, eficaz para ser aplicada y altamente codificada mediante 
 normas internacionales para que sea interpretado de forma inequívoca.  
@@ -5760,7 +5658,6 @@ Competencia específica 5.
 aplicándolos a la realización de proyectos de diseño. 
 
 MARTES 26 DE JULIO DE 2022Pág. 106 B.O.C.M. Núm. 176
-BOCM-20220726-1
 BOLETÍN OFICIAL DE LA COMUNIDAD DE MADRIDBOCM
 5.2. Iniciarse en el modelado en 3D mediante el diseño de esculturas o instalaciones, valorando su 
 potencial como herramienta de creación. 
@@ -5813,7 +5710,6 @@ Finalidad de los distintos sistemas de representación.
 /g120 Desarrollo en el plano de cuerpos geométricos sencillos. 
 
 MARTES 26 DE JULIO DE 2022B.O.C.M. Núm. 176 Pág. 107
-BOCM-20220726-1
 BOLETÍN OFICIAL DE LA COMUNIDAD DE MADRIDBOCM
 – Fundamentos de sistema axonométrico ortogon al y oblicuo (perspectiva caballera). 
 Representación de cuerpos geométricos sencillos. 
@@ -5863,7 +5759,6 @@ Competencia específica 3.
 3.1. Dibujar en las perspectivas, isométrica y caballera, formas volumétricas incorporando curvas. 
 
 MARTES 26 DE JULIO DE 2022Pág. 108 B.O.C.M. Núm. 176
-BOCM-20220726-1
 BOLETÍN OFICIAL DE LA COMUNIDAD DE MADRIDBOCM
 3.2. Diseñar espacios o escenografía s aplicando la perspec tiva cónica, representa ndo las luces y 
 sombras de los objetos contenidos y reflexionando sobre el proceso realizado y el resultado 
@@ -5915,7 +5810,6 @@ caballera. Aplicación al diseño de formas tridimensionales.
 /g120 Sólidos compuestos. 
 
 MARTES 26 DE JULIO DE 2022B.O.C.M. Núm. 176 Pág. 109
-BOCM-20220726-1
 BOLETÍN OFICIAL DE LA COMUNIDAD DE MADRIDBOCM
 /g120 Diseño aditivo y sustractivo de piezas y volúmenes. 
 – Estructuras poliédricas. Los sólidos platónicos. Aplicación en la arquitectura y el diseño. 
@@ -5968,7 +5862,6 @@ gráfico, el conocimiento y creación de tipografías y logotipos hasta las dist
 las arquitecturas de interior aplicabl es a campos tan dispares co mo viviendas o el  escaparatismo. 
 
 MARTES 26 DE JULIO DE 2022Pág. 110 B.O.C.M. Núm. 176
-BOCM-20220726-1
 BOLETÍN OFICIAL DE LA COMUNIDAD DE MADRIDBOCM
 El diseño rodea nuestra vida y es el reflejo de nuestras inqui etudes, necesidades, y de nuestra 
 identidad cultural y artística. 
@@ -6022,7 +5915,6 @@ través de la propuesta de activid ades con diferentes agrupaci ones que en cada
 un tipo de aprendizaje, autónomo e introspectivo o cooperativo asum iendo su responsabilidad 
 
 MARTES 26 DE JULIO DE 2022B.O.C.M. Núm. 176 Pág. 111
-BOCM-20220726-1
 BOLETÍN OFICIAL DE LA COMUNIDAD DE MADRIDBOCM
 dentro de un grupo. Estas difere ntes agrupaciones nos van a aproximar a uno de sus objetivos, 
 contextualizar el aprendizaje en el mundo profesional. Las actividades se van a organizar 
@@ -6074,7 +5966,6 @@ documentales de diversos tipos, así como compartir el análisis de los propios 
 comunicando sus conclusiones mediante producciones orales, escritas o multimodales. 
 
 MARTES 26 DE JULIO DE 2022Pág. 112 B.O.C.M. Núm. 176
-BOCM-20220726-1
 BOLETÍN OFICIAL DE LA COMUNIDAD DE MADRIDBOCM
 Esta competencia específica se conecta con los siguientes descriptores recogidos en el anexo 
 I del Real Decreto 243/2022, de 5 de abril: CCL1, CCL3, STEM1, STEM2, CD1, CPSAA4, CC1 y 
@@ -6128,7 +6019,6 @@ en grupo como una forma de enriq uecimiento personal y como una  manera de antic
 posibles proyecciones profesionales, integrándose en equipos de trabajo que se organicen y den 
 
 MARTES 26 DE JULIO DE 2022B.O.C.M. Núm. 176 Pág. 113
-BOCM-20220726-1
 BOLETÍN OFICIAL DE LA COMUNIDAD DE MADRIDBOCM
 una respuesta diversa a los problemas que vayan surgiendo en el desarrollo de proyectos de 
 diseño. Haciendo énfasis en el intercambio de ideas y la empatía, y aplicando estas soluciones 
@@ -6178,7 +6068,6 @@ Competencia específica 1.
 tridimensionales, percibiéndolos como productos susceptibles de transformaciones y mejoras. 
 
 MARTES 26 DE JULIO DE 2022Pág. 114 B.O.C.M. Núm. 176
-BOCM-20220726-1
 BOLETÍN OFICIAL DE LA COMUNIDAD DE MADRIDBOCM
 1.2. Explicar en los objetos de diseño las dimensione s simbólicas y sem ánticas propias de su 
 lenguaje, identificando sus e lementos sintácticos y constituti vos con actitud receptiva y 
@@ -6230,7 +6119,6 @@ actividad humana, poniendo en valor los pr oyectos innovadores y transformadores
 sociedad. 
 
 MARTES 26 DE JULIO DE 2022B.O.C.M. Núm. 176 Pág. 115
-BOCM-20220726-1
 BOLETÍN OFICIAL DE LA COMUNIDAD DE MADRIDBOCM
 6.4. Realizar un proyecto de diseño inclusivo, priorizando su ade cuación a una o varias 
 diversidades funcionales conc retas, utilizando de manera creativa las configuraciones 
@@ -6283,7 +6171,6 @@ B. El diseño: configuración formal y metodología.
 – Diseño y función. 
 
 MARTES 26 DE JULIO DE 2022Pág. 116 B.O.C.M. Núm. 176
-BOCM-20220726-1
 BOLETÍN OFICIAL DE LA COMUNIDAD DE MADRIDBOCM
 – El lenguaje visual: 
 /g120 Teoría de la percepción. Leyes de la Gestalt. 
@@ -6335,7 +6222,6 @@ ECONOMÍA
  
 
 MARTES 26 DE JULIO DE 2022B.O.C.M. Núm. 176 Pág. 117
-BOCM-20220726-1
 BOLETÍN OFICIAL DE LA COMUNIDAD DE MADRIDBOCM
 La Economía es una disciplina que ayuda a comprender la realidad en la que vivimos, ofrece 
 útiles enfoques que enriquecen el pensamiento y elevan nuestra capac idad de acción, y anima a 
@@ -6389,7 +6275,6 @@ clase mediante una exposición oral con ayuda de alguna herramienta  multimedia.
 podría culminar con un debate guiado por el docente.  
 
 MARTES 26 DE JULIO DE 2022Pág. 118 B.O.C.M. Núm. 176
-BOCM-20220726-1
 BOLETÍN OFICIAL DE LA COMUNIDAD DE MADRIDBOCM
 A modo orientativo de cómo pueden plantearse estas actividades que promueve la Economía, 
 se presenta el siguiente ejemplo:  
@@ -6443,7 +6328,6 @@ papel regulador del sector público y las medidas de política económica que ll
 los posibles fallos del Estado. 
 
 MARTES 26 DE JULIO DE 2022B.O.C.M. Núm. 176 Pág. 119
-BOCM-20220726-1
 BOLETÍN OFICIAL DE LA COMUNIDAD DE MADRIDBOCM
 Esta competencia específica se conecta con los siguientes descriptores recogidos en el anexo 
 I del Real Decreto 243/2022, de 5 de abril: CCL2, CCL3, STEM2, CPSAA4, CC3, CE1 y CE2. 
@@ -6495,7 +6379,6 @@ investigación y la experimentación, utilizando herramientas del análisis econ
 teniendo en cuenta los factores que condicionan las decisiones de los agentes 
 
 MARTES 26 DE JULIO DE 2022Pág. 120 B.O.C.M. Núm. 176
-BOCM-20220726-1
 BOLETÍN OFICIAL DE LA COMUNIDAD DE MADRIDBOCM
 económicos, para facilitar la comprensión de esos problemas y plantear soluciones 
 innovadoras que respondan a necesidades.  
@@ -6547,7 +6430,6 @@ repercusión.
 3.3. Conocer las principales macromagnitudes, analizando sus relaciones. 
 
 MARTES 26 DE JULIO DE 2022B.O.C.M. Núm. 176 Pág. 121
-BOCM-20220726-1
 BOLETÍN OFICIAL DE LA COMUNIDAD DE MADRIDBOCM
 3.4. Comprender y analizar la procedenci a de las principales fuentes  de ingresos y gastos del 
 Estado, y diferenciar los conc eptos de déficit público y deuda púb lica identificando los efectos 
@@ -6600,7 +6482,6 @@ eficacia y la eficiencia. Riesgo e incertidumbre.
 /g120 Problemas que debe resol ver todo sistema económico.  
 
 MARTES 26 DE JULIO DE 2022Pág. 122 B.O.C.M. Núm. 176
-BOCM-20220726-1
 BOLETÍN OFICIAL DE LA COMUNIDAD DE MADRIDBOCM
 /g120 Economía de mercado.  
 /g120 Economía de planificación central. 
@@ -6654,7 +6535,6 @@ Estado y su justificación. La política económica y sus efectos.
 /g120 El estado del bienestar: orígenes, ca racterísticas, modalidades y financiación.  
 
 MARTES 26 DE JULIO DE 2022B.O.C.M. Núm. 176 Pág. 123
-BOCM-20220726-1
 BOLETÍN OFICIAL DE LA COMUNIDAD DE MADRIDBOCM
 /g120 El déficit público, la deuda pública y sus efectos. 
 – La política monetaria y la est abilidad de precios. El Banco Centr al Europeo. Funcionamiento 
@@ -6708,7 +6588,6 @@ más generales a un ámbito más concreto, cercano y co nocido por el alumnado, 
 ello la adquisición de aprendizajes significativos. 
 
 MARTES 26 DE JULIO DE 2022Pág. 124 B.O.C.M. Núm. 176
-BOCM-20220726-1
 BOLETÍN OFICIAL DE LA COMUNIDAD DE MADRIDBOCM
 Es conveniente que la materia se  desarrolle de una forma teó rico-práctica. Esto supone que, 
 incluso los contenidos teór icos y más generales de la materia puedan ser aplicados a supuestos 
@@ -6762,7 +6641,6 @@ de decisiones racionales; o de tipo filosófico y ético, como la reflexión sob
 felicidad. 
 
 MARTES 26 DE JULIO DE 2022B.O.C.M. Núm. 176 Pág. 125
-BOCM-20220726-1
 BOLETÍN OFICIAL DE LA COMUNIDAD DE MADRIDBOCM
 Esta competencia específica se conecta con los siguientes descriptores recogidos en el anexo 
 I del Real Decreto 243/2022, de 5 de abril: CCL2, STEM2, CPSAA1.2, CPSAA5, CC4, CE1 y CE2. 
@@ -6814,7 +6692,6 @@ para comprender las respuestas que las em presas ofrecen a los desafíos actuale
 proponer alternativas y nuevas soluciones a dichos desafíos. 
 
 MARTES 26 DE JULIO DE 2022Pág. 126 B.O.C.M. Núm. 176
-BOCM-20220726-1
 BOLETÍN OFICIAL DE LA COMUNIDAD DE MADRIDBOCM
 La rápida transformación tecnológica, económica y social está provocando cambios profundos 
 en la actividad empresarial lo cual  obliga a las empresas a adap tarse e innovar para sobrevivir en 
@@ -6866,7 +6743,6 @@ Competencia específica 5.
 estrategias empresariales llevadas a cabo por estas  y analizando su evolución, así como los 
 
 MARTES 26 DE JULIO DE 2022B.O.C.M. Núm. 176 Pág. 127
-BOCM-20220726-1
 BOLETÍN OFICIAL DE LA COMUNIDAD DE MADRIDBOCM
 modelos de negocio desarro llados poniendo en valor, con sentido crítico, su actividad 
 empresarial. 
@@ -6920,7 +6796,6 @@ Posibilidades de Producción.
 /g120 Otras alternativas de anális is de la realidad social.  
 
 MARTES 26 DE JULIO DE 2022Pág. 128 B.O.C.M. Núm. 176
-BOCM-20220726-1
 BOLETÍN OFICIAL DE LA COMUNIDAD DE MADRIDBOCM
 /g120 Perspectiva sociológica: el grupo social c omo unidad de análisis económico. 
 – Los individuos y el comportamiento racional.  
@@ -6973,7 +6848,6 @@ en el alumnado, el desarrollo de actitudes responsables o el afi anzamiento de l
 puesta en acción de todos los procesos de toma de decisiones que intervienen en la resolución de 
 
 MARTES 26 DE JULIO DE 2022B.O.C.M. Núm. 176 Pág. 129
-BOCM-20220726-1
 BOLETÍN OFICIAL DE LA COMUNIDAD DE MADRIDBOCM
 situaciones motrices. Por otro lado, la Educación Física en Bachillerato  adquiere un carácter 
 propedéutico. En este sentido, el aumento vertiginos o de la oferta formativa y laboral relacionada 
@@ -7026,7 +6900,6 @@ desde una visión de sostenibilid ad y su carácter compartido des de una perspe
 del entorno. 
 
 MARTES 26 DE JULIO DE 2022Pág. 130 B.O.C.M. Núm. 176
-BOCM-20220726-1
 BOLETÍN OFICIAL DE LA COMUNIDAD DE MADRIDBOCM
 Las actividades que integren los procesos orientados a la adquisición de las competencias 
 han de abordarse desde difere ntes perspectivas que incorpore n el movimiento como recurso, 
@@ -7080,7 +6953,6 @@ exposición a las pantallas.
 Esta competencia específica se conecta con los siguientes descriptores recogidos en el anexo 
 
 MARTES 26 DE JULIO DE 2022B.O.C.M. Núm. 176 Pág. 131
-BOCM-20220726-1
 BOLETÍN OFICIAL DE LA COMUNIDAD DE MADRIDBOCM
 I del Real Decreto 243/2022, de 5 de abril: STEM2, STEM5, CD1, CD4, CPSAA1.1, CPSAA1.2, 
 CPSAA5 y CE3. 
@@ -7136,7 +7008,6 @@ realicen en el centro, así como los espacios de interacción en los que se repr
 la difusión de manifestaciones deportivas que no están afectadas por estereotipos. 
 
 MARTES 26 DE JULIO DE 2022Pág. 132 B.O.C.M. Núm. 176
-BOCM-20220726-1
 BOLETÍN OFICIAL DE LA COMUNIDAD DE MADRIDBOCM
 Esta competencia específica se conecta con los siguientes descriptores recogidos en el anexo 
 I del Real Decreto 243/2022, de 5 de abril: CCL5, CPSAA1.1, CPSAA2, CPSAA5 y CC3. 
@@ -7191,7 +7062,6 @@ interacción con el entorno, en el que también se incluyen las actividades comp
 extraescolares tan vinculadas con este tipo de experiencias. 
 
 MARTES 26 DE JULIO DE 2022B.O.C.M. Núm. 176 Pág. 133
-BOCM-20220726-1
 BOLETÍN OFICIAL DE LA COMUNIDAD DE MADRIDBOCM
 Esta competencia específica se conecta con los siguientes descriptores recogidos en el anexo 
 I del Real Decreto 243/2022, de 5 de abril: STEM5, CPSAA1.2, CPSAA2, CC4 y CE1. 
@@ -7245,7 +7115,6 @@ a lo largo del proceso.
 desarrollo de diversas prác ticas motrices con autonomía, haciendo uso efectivo de las 
 
 MARTES 26 DE JULIO DE 2022Pág. 134 B.O.C.M. Núm. 176
-BOCM-20220726-1
 BOLETÍN OFICIAL DE LA COMUNIDAD DE MADRIDBOCM
 habilidades sociales de diálogo en la resolución de conflictos, con actitud reflexiva y crítica 
 ante acciones violentas o discriminatorias. 
@@ -7299,7 +7168,6 @@ similares).
 /g120 Prácticas de actividad física que tienen efe ctos negativos para la salud.  
 
 MARTES 26 DE JULIO DE 2022B.O.C.M. Núm. 176 Pág. 135
-BOCM-20220726-1
 BOLETÍN OFICIAL DE LA COMUNIDAD DE MADRIDBOCM
 /g120 Prácticas de actividad física con efe ctos positivos sobre la salud: la práctica de la bicicleta 
 como medio de transporte habitual. 
@@ -7353,7 +7221,6 @@ actividades de oposición.
 /g120 Oportunidad, pertinencia y riesgo de las ac ciones en las actividade s físico-deportivas de 
 
 MARTES 26 DE JULIO DE 2022Pág. 136 B.O.C.M. Núm. 176
-BOCM-20220726-1
 BOLETÍN OFICIAL DE LA COMUNIDAD DE MADRIDBOCM
 contacto a partir del análisis de los puntos fuertes y debilidades del rival.  
 /g120 Desempeño de roles variados en procedimientos o sistemas tácticos que se llevan a cabo 
@@ -7407,7 +7274,6 @@ bailes de salón, técnicas de dramatización, etc.
 (ejemplos como el absurdmob, el flashmob, el smartmob, etc.). 
 
 MARTES 26 DE JULIO DE 2022B.O.C.M. Núm. 176 Pág. 137
-BOCM-20220726-1
 BOLETÍN OFICIAL DE LA COMUNIDAD DE MADRIDBOCM
 – Deporte y género. 
 /g120 Estereotipos en contextos fís icos y deportivos. Presencia en medios de comunicación. 
@@ -7460,7 +7326,6 @@ incluso, la supervivencia de una compañía. Por todo ello, se trabajan cuestion
 la existencia, las características y los tipos de organización y funcionamiento de las empresas, así 
 
 MARTES 26 DE JULIO DE 2022Pág. 138 B.O.C.M. Núm. 176
-BOCM-20220726-1
 BOLETÍN OFICIAL DE LA COMUNIDAD DE MADRIDBOCM
 como la responsabilidad so cial corporativa (RSC) o los fac tores que influyen en la toma de 
 decisiones. 
@@ -7516,7 +7381,6 @@ y 5 de este currículo.
  
 
 MARTES 26 DE JULIO DE 2022B.O.C.M. Núm. 176 Pág. 139
-BOCM-20220726-1
 BOLETÍN OFICIAL DE LA COMUNIDAD DE MADRIDBOCM
 Competencias específicas. 
 1.  Analizar la actividad empresarial y empre ndedora, reconociendo el poder de 
@@ -7567,7 +7431,6 @@ la innovación y el afán de mejora continua y de adaptación al entorno; per o 
 necesidades e incrementar el bienestar social. 
 
 MARTES 26 DE JULIO DE 2022Pág. 140 B.O.C.M. Núm. 176
-BOCM-20220726-1
 BOLETÍN OFICIAL DE LA COMUNIDAD DE MADRIDBOCM
 Esta competencia específica se conecta con los siguientes descriptores recogidos en el anexo 
 I del Real Decreto 243/2022, de 5 de abril: CCL2, CCL3, STEM2, STEM4, CPSAA4, CC3 y CE1. 
@@ -7619,7 +7482,6 @@ reflexionando sobre el valor la innovación y la digitalización.
 tendencias y tecnologías que tienen un alto impacto en la economía. 
 
 MARTES 26 DE JULIO DE 2022B.O.C.M. Núm. 176 Pág. 141
-BOCM-20220726-1
 BOLETÍN OFICIAL DE LA COMUNIDAD DE MADRIDBOCM
 Competencia específica 2. 
 2.1. Valorar la capacidad de ada ptación ágil, responsabl e y sostenible de las empresas a los 
@@ -7674,7 +7536,6 @@ interpretando los resultados de los distintos escenarios tratados.
  
 
 MARTES 26 DE JULIO DE 2022Pág. 142 B.O.C.M. Núm. 176
-BOCM-20220726-1
 BOLETÍN OFICIAL DE LA COMUNIDAD DE MADRIDBOCM
 Contenidos. 
 A. La empresa y su entorno. 
@@ -7729,7 +7590,6 @@ historias . Caso real. Otras metodologías.
 – Otras herramientas para innovar en model os de negocio y de gestión. 
 
 MARTES 26 DE JULIO DE 2022B.O.C.M. Núm. 176 Pág. 143
-BOCM-20220726-1
 BOLETÍN OFICIAL DE LA COMUNIDAD DE MADRIDBOCM
 D. Estrategia empresarial y métodos de análisis de la realidad empresarial: estudio de 
 casos y simulación. 
@@ -7783,7 +7643,6 @@ a cualquier circunstancia, sin descuidar entre tanto la educación de las emocio
 torno al arte y la belleza, aspectos fundamentales en la formación integral del alumnado.  
 
 MARTES 26 DE JULIO DE 2022Pág. 144 B.O.C.M. Núm. 176
-BOCM-20220726-1
 BOLETÍN OFICIAL DE LA COMUNIDAD DE MADRIDBOCM
 Los contenidos se encuentran distribuidos en tres grandes bloques. Así, tras un primer bloque 
 dedicado a la reflexión en torno a la propia actividad filosófic a y a su carácter inmanente a la 
@@ -7838,7 +7697,6 @@ forma cuasi natural en la adole scencia, requiere de un cauce formal  y metodol�
 específico y una tradición cultural que facilite al alumnado la expresión y el análisis de sus 
 
 MARTES 26 DE JULIO DE 2022B.O.C.M. Núm. 176 Pág. 145
-BOCM-20220726-1
 BOLETÍN OFICIAL DE LA COMUNIDAD DE MADRIDBOCM
 inquietudes vitales y existencial es. De ahí la conveniencia de que las grandes preguntas acerca 
 de la realidad, de la propia ent idad e identidad humana, y de sus relaciones teóricas, prácticas y 
@@ -7894,7 +7752,6 @@ del conocimiento, a través del estudio de la lógica formal, de la arg umentaci
 métodos del conocimiento racional. El objetivo es que el alumnado produzca y reconozca 
 
 MARTES 26 DE JULIO DE 2022Pág. 146 B.O.C.M. Núm. 176
-BOCM-20220726-1
 BOLETÍN OFICIAL DE LA COMUNIDAD DE MADRIDBOCM
 argumentos lógica y retóricamente correctos y bien fundados, as í como que detecte falacias, 
 sesgos y prejuicios en difere ntes entornos comunicativos. Es nec esario también que el alumnado 
@@ -7950,7 +7807,6 @@ profundamente puede proporcionar al alumnado una educación adecuada par a el ej
 ciudadanía democrática. 
 
 MARTES 26 DE JULIO DE 2022B.O.C.M. Núm. 176 Pág. 147
-BOCM-20220726-1
 BOLETÍN OFICIAL DE LA COMUNIDAD DE MADRIDBOCM
 Esta competencia específica se conecta con los siguientes descriptores recogidos en el anexo 
 I del Real Decreto 243/2022, de 5 de abril: CCL5, CC1, CC2 y CC3. 
@@ -8005,7 +7861,6 @@ I del Real Decreto 243/2022, de 5 de abril: CCL2, CCL3, CPSAA4, CC1, CC3, CC4 y 
 exposición crítica y dialéctica de distintas posiciones filosóficamente pertinentes en la 
 
 MARTES 26 DE JULIO DE 2022Pág. 148 B.O.C.M. Núm. 176
-BOCM-20220726-1
 BOLETÍN OFICIAL DE LA COMUNIDAD DE MADRIDBOCM
 interpretación y resolución de los mismos, para desarrollar el juicio propio y la 
 autonomía moral. 
@@ -8059,7 +7914,6 @@ Criterios de evaluación.
 Competencia específica 1. 
 
 MARTES 26 DE JULIO DE 2022B.O.C.M. Núm. 176 Pág. 149
-BOCM-20220726-1
 BOLETÍN OFICIAL DE LA COMUNIDAD DE MADRIDBOCM
 1.1. Reconocer la radicalidad  y trascendencia de los probl emas filosóficos mediante su 
 reconocimiento, análisis y reformulación en textos y otro s medios de expresión, tanto 
@@ -8111,7 +7965,6 @@ Competencia específica 8.
 éticos y políticos fundamentales y de actualidad, considerando las distintas posiciones en 
 
 MARTES 26 DE JULIO DE 2022Pág. 150 B.O.C.M. Núm. 176
-BOCM-20220726-1
 BOLETÍN OFICIAL DE LA COMUNIDAD DE MADRIDBOCM
 disputa y elaborando, argumenta ndo, exponiendo y sometiendo al diálogo con los demás las 
 propias tesis al respecto. 
@@ -8163,7 +8016,6 @@ B. Conocimiento y realidad.
 /g120 Teorías de la verdad. 
 
 MARTES 26 DE JULIO DE 2022B.O.C.M. Núm. 176 Pág. 151
-BOCM-20220726-1
 BOLETÍN OFICIAL DE LA COMUNIDAD DE MADRIDBOCM
 /g120 La crisis del ideal ilustr ado y el relativismo posmoderno. 
 /g120 La desinformación y el fenómen o de la «posverdad». 
@@ -8218,7 +8070,6 @@ entre el individuo y el Estado . El derecho al trabajo y a la propiedad: el prob
 distribución de la riqueza. El debate político contemporáneo: libera lismo, utilitarismo y 
 
 MARTES 26 DE JULIO DE 2022Pág. 152 B.O.C.M. Núm. 176
-BOCM-20220726-1
 BOLETÍN OFICIAL DE LA COMUNIDAD DE MADRIDBOCM
 comunitarismo. 
 – Ideales, utopías y distopías. Los movimientos sociales y políticos. 
@@ -8272,7 +8123,6 @@ matemática de leyes y principios, los instrumentos de laboratorio y las herrami
 que puedan facilitar la co mprensión de los conceptos y fenómenos. También se trabajarán 
 
 MARTES 26 DE JULIO DE 2022B.O.C.M. Núm. 176 Pág. 153
-BOCM-20220726-1
 BOLETÍN OFICIAL DE LA COMUNIDAD DE MADRIDBOCM
 valores tales como el respeto, el trabajo en equipo, el rechaz o hacia actitudes que muestren 
 cualquier tipo de discriminación y el compromiso con la sostenibilidad. 
@@ -8325,7 +8175,6 @@ Esta competencia específica se conecta con los siguientes descriptores recogido
 I del Real Decreto 243/2022, de 5 de abril: STEM2, STEM5, CPSAA2 y CC4. 
 
 MARTES 26 DE JULIO DE 2022Pág. 154 B.O.C.M. Núm. 176
-BOCM-20220726-1
 BOLETÍN OFICIAL DE LA COMUNIDAD DE MADRIDBOCM
 3. Utilizar el lenguaje de la física con la formulación matemática de sus principios, 
 magnitudes, unidades, ecuaciones, etc., para establecer una comunicación adecuada 
@@ -8377,7 +8226,6 @@ Finalmente, se debe plasmar la in formación en informes que recoj an todo este 
 permitiría a los estudiantes formar, en un futuro, parte de la comunidad científica.  
 
 MARTES 26 DE JULIO DE 2022B.O.C.M. Núm. 176 Pág. 155
-BOCM-20220726-1
 BOLETÍN OFICIAL DE LA COMUNIDAD DE MADRIDBOCM
 Esta competencia específica se conecta con los siguientes descriptores recogidos en el anexo 
 I del Real Decreto 243/2022, de 5 de abril: STEM1, CPSAA3.2, CC4 y CE3. 
@@ -8429,7 +8277,6 @@ reales o ideales.
 Competencia específica 4.  
 
 MARTES 26 DE JULIO DE 2022Pág. 156 B.O.C.M. Núm. 176
-BOCM-20220726-1
 BOLETÍN OFICIAL DE LA COMUNIDAD DE MADRIDBOCM
 4.1. Consultar, elaborar e intercambiar materiale s científicos y divulgativos  en distintos formatos 
 con otros miembros del entorn o de aprendizaje, utilizando de forma autónoma y eficiente 
@@ -8483,7 +8330,6 @@ estos ámbitos en la industria, la tecnología, la economía y en la sociedad.
 /g120 Historia y composición del Universo.  
 
 MARTES 26 DE JULIO DE 2022B.O.C.M. Núm. 176 Pág. 157
-BOCM-20220726-1
 BOLETÍN OFICIAL DE LA COMUNIDAD DE MADRIDBOCM
 B. Campo electromagnético. 
 – Estudios de los campos el éctrico y magnético: tratamiento vectorial, determinación de las 
@@ -8538,7 +8384,6 @@ visible.
 /g120 Velocidad de propagación de la luz. Índice de refracción.  
 
 MARTES 26 DE JULIO DE 2022Pág. 158 B.O.C.M. Núm. 176
-BOCM-20220726-1
 BOLETÍN OFICIAL DE LA COMUNIDAD DE MADRIDBOCM
 /g120 Fenómenos luminosos: Reflexión y refracción de la luz y sus leyes. Estudio cualitativo de 
 la dispersión, interferencia, difracción y polarización. 
@@ -8590,7 +8435,6 @@ Educación Secundaria Obligatoria y que forman parte del bagaje cu ltural cient�
 Esta materia servirá de preparación al alumnado para los estudios superiores de aquellos 
 
 MARTES 26 DE JULIO DE 2022B.O.C.M. Núm. 176 Pág. 159
-BOCM-20220726-1
 BOLETÍN OFICIAL DE LA COMUNIDAD DE MADRIDBOCM
 estudiantes que deseen el egir una formación científic a avanzada en el curs o siguiente, un curso 
 en el cual Física y Química se  desdoblará en dos materi as diferentes, una par a cada disciplina 
@@ -8645,7 +8489,6 @@ los que se estudiaron en la etapa anterior, profundizando más en el trabajo, la
 energía mecánica y su conservac ión; así como en los aspectos  básicos de Termodinámica que 
 
 MARTES 26 DE JULIO DE 2022Pág. 160 B.O.C.M. Núm. 176
-BOCM-20220726-1
 BOLETÍN OFICIAL DE LA COMUNIDAD DE MADRIDBOCM
 permiten entender el funcionamiento de sistemas termodinámicos simple s y sus aplicaciones más 
 inmediatas. Todo ello encaminado a comprender la importanci a del concepto de energía en 
@@ -8698,7 +8541,6 @@ entorno, a la formulación de preguntas e hipótes is y a la validación de las 
 través de la experimentación, la indagación y la búsqueda de evidencias. 
 
 MARTES 26 DE JULIO DE 2022B.O.C.M. Núm. 176 Pág. 161
-BOCM-20220726-1
 BOLETÍN OFICIAL DE LA COMUNIDAD DE MADRIDBOCM
 El alumnado ha de desarrollar habilidades para observar des de una óptica científica los 
 fenómenos naturales y para plante arse sus posibles explicaciones a partir de los procedimientos 
@@ -8753,7 +8595,6 @@ digitales. En la actualidad muchos de los recursos necesarios para la en señanz
 de la física y la química pueden  encontrarse en distintas pla taformas digitales de contenidos, por 
 
 MARTES 26 DE JULIO DE 2022Pág. 162 B.O.C.M. Núm. 176
-BOCM-20220726-1
 BOLETÍN OFICIAL DE LA COMUNIDAD DE MADRIDBOCM
 lo que su uso autónomo facilita el  desarrollo de procesos cognitivos de nivel super ior y propicia la 
 comprensión, la elaboración de juic ios, la creatividad y el des arrollo personal. Su uso crítico y 
@@ -8805,7 +8646,6 @@ adecuados de los medios y produc tos científicos y tecnológico s que la socied
 disposición. 
 
 MARTES 26 DE JULIO DE 2022B.O.C.M. Núm. 176 Pág. 163
-BOCM-20220726-1
 BOLETÍN OFICIAL DE LA COMUNIDAD DE MADRIDBOCM
 Asimismo, esta competencia específica  se desarrolla a través de la participación activa del 
 alumnado en proyectos que involucren la toma de decisiones y la  ejecución de acciones 
@@ -8856,7 +8696,6 @@ aprendizaje, reales y virtuale s, utilizando de forma autónoma y eficiente rec 
 tradicionales y digitales, con rigor y respeto y analizando críticamente las aportaciones ajenas. 
 
 MARTES 26 DE JULIO DE 2022Pág. 164 B.O.C.M. Núm. 176
-BOCM-20220726-1
 BOLETÍN OFICIAL DE LA COMUNIDAD DE MADRIDBOCM
 4.2. Trabajar de forma autónoma y versátil, in dividualmente y en equip o, en la consulta de 
 información y la creación de contenidos, utilizando con criterio las fuentes y herramientas más 
@@ -8908,7 +8747,6 @@ enlace covalente: sustancias moleculares y redes covalentes.
 metálico. 
 
 MARTES 26 DE JULIO DE 2022B.O.C.M. Núm. 176 Pág. 165
-BOCM-20220726-1
 BOLETÍN OFICIAL DE LA COMUNIDAD DE MADRIDBOCM
 – Nomenclatura de sustancias simple s, iones y compuestos químicos inorgánicos mediante las 
 normas establecidas por la IUPAC como herramienta de comunicaci ón en la comunidad 
@@ -8961,7 +8799,6 @@ compuestos nitrogenados).
 D. Cinemática. 
 
 MARTES 26 DE JULIO DE 2022Pág. 166 B.O.C.M. Núm. 176
-BOCM-20220726-1
 BOLETÍN OFICIAL DE LA COMUNIDAD DE MADRIDBOCM
 – Empleo del razonamiento lógico- matemático y la experimentación para ju stificar la necesidad 
 de definir un sistema de referenci a y de interpretar y describir las variables cinemáticas en 
@@ -9016,7 +8853,6 @@ razonamiento lógico-matemático.
 constante, interpretación gráfica del trabajo de una fuerza variable. 
 
 MARTES 26 DE JULIO DE 2022B.O.C.M. Núm. 176 Pág. 167
-BOCM-20220726-1
 BOLETÍN OFICIAL DE LA COMUNIDAD DE MADRIDBOCM
 /g120 Potencia. Rendimiento o eficiencia de un sistema mecánico o eléctrico. 
 – Energía potencial y energía cinética de un si stema sencillo: aplicación a la conservación de la 
@@ -9069,7 +8905,6 @@ profesionales vinculados al arte.
 La materia de Fundamentos Artísticos gira en torno a los siguientes ejes principales: 
 
 MARTES 26 DE JULIO DE 2022Pág. 168 B.O.C.M. Núm. 176
-BOCM-20220726-1
 BOLETÍN OFICIAL DE LA COMUNIDAD DE MADRIDBOCM
 – El análisis de producciones artíst icas a lo largo de la historia, y la interpretación de las claves 
 y códigos propios de la época o corriente estética en el que han sido creadas. 
@@ -9123,7 +8958,6 @@ Competencias específicas.
 diferencias entre distintos periodos históricos o contextos culturales. 
 
 MARTES 26 DE JULIO DE 2022B.O.C.M. Núm. 176 Pág. 169
-BOCM-20220726-1
 BOLETÍN OFICIAL DE LA COMUNIDAD DE MADRIDBOCM
 El concepto de arte sigue a día  de hoy abriendo debates polémic os. Su significado es un 
 elemento vivo, cambiante, que ha ido modificándose a lo largo de la historia de la humanidad. No 
@@ -9177,7 +9011,6 @@ influencias y proyecciones, para valorarlas como testimonios de una época y una
 cultura y como elementos del patrimonio. 
 
 MARTES 26 DE JULIO DE 2022Pág. 170 B.O.C.M. Núm. 176
-BOCM-20220726-1
 BOLETÍN OFICIAL DE LA COMUNIDAD DE MADRIDBOCM
 La mejor manera de apreciar y respetar las obr as que componen el patrimonio artístico 
 consiste en conocer en profun didad, no solo sus produccione s, sino su contexto. Mediante 
@@ -9231,7 +9064,6 @@ Esta competencia específica se  conecta con los siguient es descriptores: CCL1,
 CC1, CC3, CCEC1 y CCEC2. 
 
 MARTES 26 DE JULIO DE 2022B.O.C.M. Núm. 176 Pág. 171
-BOCM-20220726-1
 BOLETÍN OFICIAL DE LA COMUNIDAD DE MADRIDBOCM
 7. Elaborar con creatividad proyectos artísticos investigando est ilos, técnicas y 
 lenguajes multidisciplinares y seleccionando y aplicando los más adecuados, para dar 
@@ -9281,7 +9113,6 @@ conceptos, sentimientos y emoc iones, a partir de obras de arti stas de distinta
 estilos, analizando las distintas interpretaciones que se han dado de ellas. 
 
 MARTES 26 DE JULIO DE 2022Pág. 172 B.O.C.M. Núm. 176
-BOCM-20220726-1
 BOLETÍN OFICIAL DE LA COMUNIDAD DE MADRIDBOCM
 5.2. Analizar producciones artístic as de diversos periodos y estil os, vinculándolas creativamente 
 con experiencias vitales propias y ajenas y valorándolas com o herramientas potenciadoras 
@@ -9334,7 +9165,6 @@ Fidias, la Escuela de Rodas, la Escuela de Tralles, la Escuela, la Escuela de P�
 Baja Edad Media. 
 
 MARTES 26 DE JULIO DE 2022B.O.C.M. Núm. 176 Pág. 173
-BOCM-20220726-1
 BOLETÍN OFICIAL DE LA COMUNIDAD DE MADRIDBOCM
 – El renacer del arte clásico en la  arquitectura, pintura y escultura: del trecento al cinquecento. 
 Giotto, Duccio, Boticelli, Brune lleschi, Donatello, Rafael Sanz io, Michelangelo Bounarrotti, 
@@ -9390,7 +9220,6 @@ Claude Monet y Pierre-Auguste Renoir, entre otros) al documental de naturaleza.
 Leonora Carrington y Max Ernst, entre otros. 
 
 MARTES 26 DE JULIO DE 2022Pág. 174 B.O.C.M. Núm. 176
-BOCM-20220726-1
 BOLETÍN OFICIAL DE LA COMUNIDAD DE MADRIDBOCM
 – Influencias posteriores en el art e, el cine y la publicidad. 
 F. Naturaleza y sociedad en el arte.  
@@ -9443,7 +9272,6 @@ Geología y Ciencias Ambientales de segundo curso de Bachill erato es una materi
 modalidad del Bachillerato de Ciencias  y Tecnología que el al umnado podrá elegir para ampliar 
 
 MARTES 26 DE JULIO DE 2022B.O.C.M. Núm. 176 Pág. 175
-BOCM-20220726-1
 BOLETÍN OFICIAL DE LA COMUNIDAD DE MADRIDBOCM
 los conocimientos y destrezas  relacionados con las disciplina s científicas del mismo nombre. 
 Esta materia también busca que los alumnos comprend an, a través de la evidencia científica, 
@@ -9497,7 +9325,6 @@ tanto, formatos particulares para la  comunicación dentro de estas como mapas (
 hidrográficos, geológicos, de vegetación, etc.), cortes, diagramas de flujo, entre otros. 
 
 MARTES 26 DE JULIO DE 2022Pág. 176 B.O.C.M. Núm. 176
-BOCM-20220726-1
 BOLETÍN OFICIAL DE LA COMUNIDAD DE MADRIDBOCM
 El desarrollo de esta competencia  específica permite que el alumnado se familiarice con 
 dichos formatos y adquiera una visión completa y forje sus propias conclusiones sobre elementos 
@@ -9549,7 +9376,6 @@ conclusiones de determinados trabaj os científicos o divulgativos comprendiendo
 adecúan a los resultados observables. 
 
 MARTES 26 DE JULIO DE 2022B.O.C.M. Núm. 176 Pág. 177
-BOCM-20220726-1
 BOLETÍN OFICIAL DE LA COMUNIDAD DE MADRIDBOCM
 El desarrollo de esta competencia es pecífica conlleva movilizar el pensamiento crítico, el 
 razonamiento lógico, las destrezas comunicativas y la utilización de recursos tecnológicos y 
@@ -9601,7 +9427,6 @@ la historia geológica, hacer predicciones e identificar posibles riesgos geoló
 una zona determinada. 
 
 MARTES 26 DE JULIO DE 2022Pág. 178 B.O.C.M. Núm. 176
-BOCM-20220726-1
 BOLETÍN OFICIAL DE LA COMUNIDAD DE MADRIDBOCM
 Los fenómenos geológicos ocurren a escalas y a lo lar go de periodos de tiempo con 
 frecuencia inabarcables para su observación directa. Sin embarg o, el análisis minucioso del 
@@ -9650,7 +9475,6 @@ y la labor de las personas dedicadas a ella, entendiendo la  investigación como
 interdisciplinar en constante evolución. 
 
 MARTES 26 DE JULIO DE 2022B.O.C.M. Núm. 176 Pág. 179
-BOCM-20220726-1
 BOLETÍN OFICIAL DE LA COMUNIDAD DE MADRIDBOCM
 Competencia específica 4. 
 4.1. Explicar fenómenos relacionad os con los contenidos de la  materia de Geología y Ciencias 
@@ -9702,7 +9526,6 @@ actúan sobre ellas y con otros factores.
 /g120 Estructuras geológicas: pliegues y fallas. 
 
 MARTES 26 DE JULIO DE 2022Pág. 180 B.O.C.M. Núm. 176
-BOCM-20220726-1
 BOLETÍN OFICIAL DE LA COMUNIDAD DE MADRIDBOCM
 – Procesos geológicos internos y riesgos naturales asociados:  relación con las actividades 
 humanas. Importancia de la ordenación territorial. 
@@ -9754,7 +9577,6 @@ G. Recursos minerales y energéticos.
 – Impacto ambiental y social de la  explotación de diferentes recurs os (hídricos, paisajísticos, 
 
 MARTES 26 DE JULIO DE 2022B.O.C.M. Núm. 176 Pág. 181
-BOCM-20220726-1
 BOLETÍN OFICIAL DE LA COMUNIDAD DE MADRIDBOCM
 mineros, energéticos, edáfic os, etc.). Importancia de su  extracción, uso y consumo 
 responsables. 
@@ -9809,7 +9631,6 @@ vegetal, edáfica e hidrográfica. Por  su parte, el último bloque, «La ordena
 enfoque social y ambiental», aborda el análisis de las actividades  económicas y la sociedad 
 
 MARTES 26 DE JULIO DE 2022Pág. 182 B.O.C.M. Núm. 176
-BOCM-20220726-1
 BOLETÍN OFICIAL DE LA COMUNIDAD DE MADRIDBOCM
 española como agentes transformado res del territorio en el que se insertan, indagando en la 
 causa-efecto de los procesos  y los desequilibrios que se expresan sobre el espacio geográfico 
@@ -9862,7 +9683,6 @@ CC4, CE1.
 fuentes de información visuales, para apreciar la riqueza de los paisajes naturales y 
 
 MARTES 26 DE JULIO DE 2022B.O.C.M. Núm. 176 Pág. 183
-BOCM-20220726-1
 BOLETÍN OFICIAL DE LA COMUNIDAD DE MADRIDBOCM
 humanizados y valorar el respeto al medio ambiente como principio de las relaciones 
 entre los ecosistemas naturales y la acción humana. 
@@ -9916,7 +9736,6 @@ cada fenómeno. Es decir, delimitando regiones, categorías o tipologías , y re
 problema de los límites y de las áreas de transición. 
 
 MARTES 26 DE JULIO DE 2022Pág. 184 B.O.C.M. Núm. 176
-BOCM-20220726-1
 BOLETÍN OFICIAL DE LA COMUNIDAD DE MADRIDBOCM
 Esta competencia específica se conecta con los siguientes descriptores recogidos en el anexo 
 I del Real Decreto 243/202 2, de 5 de abril: CCL1, STEM1,  STEM2, CD1, CD2, CD5, CC3, CE1 y 
@@ -9967,7 +9786,6 @@ Competencia específica 1.
 información que trate de los retos sociales presentes y futuros. 
 
 MARTES 26 DE JULIO DE 2022B.O.C.M. Núm. 176 Pág. 185
-BOCM-20220726-1
 BOLETÍN OFICIAL DE LA COMUNIDAD DE MADRIDBOCM
 1.2. Debatir sobre los retos naturales y soci ales de España, utilizando estrategias orales con 
 apoyo digital de gráficos, imágenes y cartografía, y manejando datos rigurosos. 
@@ -10017,7 +9835,6 @@ XXI.
 – Análisis y comentario de fuentes geográficas:  
 
 MARTES 26 DE JULIO DE 2022Pág. 186 B.O.C.M. Núm. 176
-BOCM-20220726-1
 BOLETÍN OFICIAL DE LA COMUNIDAD DE MADRIDBOCM
 /g120 Interpretación de imágenes, cartografía y datos. 
 /g120 Interpretación causal de datos, gráficos y mapas: tendencias pasadas, presentes y 
@@ -10072,7 +9889,6 @@ móviles.
 /g120 Variedad edáfica y características  de los suelos españoles. 
 
 MARTES 26 DE JULIO DE 2022B.O.C.M. Núm. 176 Pág. 187
-BOCM-20220726-1
 BOLETÍN OFICIAL DE LA COMUNIDAD DE MADRIDBOCM
 – La red hídrica.  
 /g120 Variedad hídrica peninsular e insular: aguas superficiales y subterráneas.  
@@ -10128,7 +9944,6 @@ poblamiento, hábitat y parcelas.
 /g120 Las prácticas en los espacios forestales. 
 
 MARTES 26 DE JULIO DE 2022Pág. 188 B.O.C.M. Núm. 176
-BOCM-20220726-1
 BOLETÍN OFICIAL DE LA COMUNIDAD DE MADRIDBOCM
 /g120 El valor social, ambiental y económico de los productos agroalimentarios y forestales de 
 cercanía: indagación de huellas ecológicas y de la estructura social y laboral.  
@@ -10183,7 +9998,6 @@ van intrínsecamente ligadas a la tradición y la herencia  cultural de la Antig
 educación humanista sitúa a las personas y su dignidad como valores fundamentales, guiándolas 
 
 MARTES 26 DE JULIO DE 2022B.O.C.M. Núm. 176 Pág. 189
-BOCM-20220726-1
 BOLETÍN OFICIAL DE LA COMUNIDAD DE MADRIDBOCM
 en la adquisición de las competen cias que necesitan para partic ipar de forma efectiva en los 
 procesos democráticos, en el diálogo intercultural y en la soci edad en general. A través del 
@@ -10236,7 +10050,6 @@ estudiarán con más detalle las características, autores y obras de los princi
 literarios. 
 
 MARTES 26 DE JULIO DE 2022Pág. 190 B.O.C.M. Núm. 176
-BOCM-20220726-1
 BOLETÍN OFICIAL DE LA COMUNIDAD DE MADRIDBOCM
 El cuarto bloque, «La antigua Grecia» , comprende el estudio de lo s principales hitos de la 
 historia de Grecia como parte esencial  de la historia y cultura de la sociedad actual y la reflexión 
@@ -10291,7 +10104,6 @@ revisión, apreciando su valor para la transmisión de conocimientos entre difer
 épocas. 
 
 MARTES 26 DE JULIO DE 2022B.O.C.M. Núm. 176 Pág. 191
-BOCM-20220726-1
 BOLETÍN OFICIAL DE LA COMUNIDAD DE MADRIDBOCM
 Es preciso, además, que el alumnado aprenda a desarroll ar habilidades de explicación y 
 justificación de la traducción elaborada, atendiendo tanto a los mecanismos y estructuras 
@@ -10345,7 +10157,6 @@ carácter lingüístico y no lingüístico, ofreciendo la posibilidad de compara
 distintos enfoques interpretativos, discutiendo sus respectivas fortalezas y debilidades. 
 
 MARTES 26 DE JULIO DE 2022Pág. 192 B.O.C.M. Núm. 176
-BOCM-20220726-1
 BOLETÍN OFICIAL DE LA COMUNIDAD DE MADRIDBOCM
 La lectura de textos griegos supone generalmente acceder a textos que no están relacionados 
 con la experiencia del alumnado, de ahí que sea necesaria la  adquisición de herramientas de 
@@ -10400,7 +10211,6 @@ presente y se transmiten a las generaciones futuras. Es, además, como sucede co
 clásica, fuente de inspiración par a la creatividad y la innovaci ón, y genera productos culturales 
 
 MARTES 26 DE JULIO DE 2022B.O.C.M. Núm. 176 Pág. 193
-BOCM-20220726-1
 BOLETÍN OFICIAL DE LA COMUNIDAD DE MADRIDBOCM
 contemporáneos y futuros, por lo que conocerlo e identificarlo favorece su comprensión y la de su 
 evolución y su relación a lo largo del tiempo. 
@@ -10452,7 +10262,6 @@ Competencia específica 3.
 índole y de creciente complej idad, aplicando estrategias de análisis y reflexión que impliquen 
 
 MARTES 26 DE JULIO DE 2022Pág. 194 B.O.C.M. Núm. 176
-BOCM-20220726-1
 BOLETÍN OFICIAL DE LA COMUNIDAD DE MADRIDBOCM
 movilizar la propia experiencia, comprender el mundo y la condici ón humana y desarrollar la 
 sensibilidad estética y el hábito lector. 
@@ -10506,7 +10315,6 @@ oraciones compuestas.
 /g120 Las oraciones simples: oraci ones atributivas y predicativas. 
 
 MARTES 26 DE JULIO DE 2022B.O.C.M. Núm. 176 Pág. 195
-BOCM-20220726-1
 BOLETÍN OFICIAL DE LA COMUNIDAD DE MADRIDBOCM
 /g120 La oración compuesta: concepto de  coordinación y subordinación. 
 – Formas no personales del verbo. 
@@ -10560,7 +10368,6 @@ comunicación, la lengua, el aprendizaje y las herramientas de co municación y 
 C. Educación literaria. 
 
 MARTES 26 DE JULIO DE 2022Pág. 196 B.O.C.M. Núm. 176
-BOCM-20220726-1
 BOLETÍN OFICIAL DE LA COMUNIDAD DE MADRIDBOCM
 – Etapas y vías de transmisión de la literatura gri ega: introducción a lo s géneros y autores 
 principales.  
@@ -10614,7 +10421,6 @@ Neoclasicismo.
 – Obras públicas y urbanismo: construcción, conservación, preservación y restauración.  
 
 MARTES 26 DE JULIO DE 2022B.O.C.M. Núm. 176 Pág. 197
-BOCM-20220726-1
 BOLETÍN OFICIAL DE LA COMUNIDAD DE MADRIDBOCM
 – Nacimiento del teatro occi dental: el espacio es cénico, las represe ntaciones y festivales 
 teatrales, su evolución y pervivencia en la actualidad. Vocabulario teatral de ayer y hoy. 
@@ -10667,7 +10473,6 @@ Competencia específica 3.
 complejidad, a través del análisis y reflexión que impliquen movil izar la experiencia personal, 
 
 MARTES 26 DE JULIO DE 2022Pág. 198 B.O.C.M. Núm. 176
-BOCM-20220726-1
 BOLETÍN OFICIAL DE LA COMUNIDAD DE MADRIDBOCM
 comprender el mundo y la condición humana y desarro llar la sensibilidad estética y el hábito 
 lector. 
@@ -10721,7 +10526,6 @@ subordinadas.
 – Uso autónomo de las estrategias de trad ucción: formulación de expec tativas a partir del 
 
 MARTES 26 DE JULIO DE 2022B.O.C.M. Núm. 176 Pág. 199
-BOCM-20220726-1
 BOLETÍN OFICIAL DE LA COMUNIDAD DE MADRIDBOCM
 entorno textual (título, re sumen explicativo del texto, obra…) y del propi o texto (campos 
 temáticos, familias de palabras , etc.), así como a partir del  contexto; conocimie nto del tema; 
@@ -10775,7 +10579,6 @@ transmitir los textos griegos.
 – Interés hacia la literatura como fuente de placer y de conocimiento del mundo. 
 
 MARTES 26 DE JULIO DE 2022Pág. 200 B.O.C.M. Núm. 176
-BOCM-20220726-1
 BOLETÍN OFICIAL DE LA COMUNIDAD DE MADRIDBOCM
 – Respeto de la propiedad intelec tual y derechos de autor sobre  las fuentes consultadas y 
 contenidos utilizados: herramientas para el tratamiento de datos bibliográficos y recursos para 
@@ -10828,7 +10631,6 @@ HISTORIA DEL ARTE
  
 
 MARTES 26 DE JULIO DE 2022B.O.C.M. Núm. 176 Pág. 201
-BOCM-20220726-1
 BOLETÍN OFICIAL DE LA COMUNIDAD DE MADRIDBOCM
 El estudio durante el segundo curso de Bachille rato está vinculado con el logro de los 
 objetivos de etapa, especialmente, el  de la adquisición de sens ibilidad artística. Asimismo, 
@@ -10885,7 +10687,6 @@ alumno vaya creando su propio imaginario, se podría impulsar la contemplación 
 completando la docencia en el aula  con salidas en las que se  despierte el interés de los 
 
 MARTES 26 DE JULIO DE 2022Pág. 202 B.O.C.M. Núm. 176
-BOCM-20220726-1
 BOLETÍN OFICIAL DE LA COMUNIDAD DE MADRIDBOCM
 estudiantes por la valoració n y conservación del patrimonio. No obstante, las visitas virtuales 
 pueden ser una útil alternativa ante la imposibilidad de no poder materializarse esta observación 
@@ -10939,7 +10740,6 @@ como una forma de comunicación y expresión estética con reglas y pautas propi
 originan, vulneran y recrean de muy variados modos a tenor de cada época, cultura, género, estilo 
 
 MARTES 26 DE JULIO DE 2022B.O.C.M. Núm. 176 Pág. 203
-BOCM-20220726-1
 BOLETÍN OFICIAL DE LA COMUNIDAD DE MADRIDBOCM
 o artista individual. Estas reg las pueden referirse a patrones formales  y pautas técnicas (simetría, 
 proporción, equilibrio de la composición, tensión entre elementos, ruptura con las propias pautas, 
@@ -10993,7 +10793,6 @@ pasado y el presente, retomándose en ocasiones, y con otros lenguaj es, para da
 movimientos artísticos. 
 
 MARTES 26 DE JULIO DE 2022Pág. 204 B.O.C.M. Núm. 176
-BOCM-20220726-1
 BOLETÍN OFICIAL DE LA COMUNIDAD DE MADRIDBOCM
 Esta competencia específica se conecta con los siguientes descriptores recogidos en el anexo 
 I del Real Decreto 243/2022, de 5 de abril: CPSAA4, CC1, CC2, CC3, CCEC1, CCEC2, CCEC3.2. 
@@ -11046,7 +10845,6 @@ La historia del arte es uno de los mejores escenarios en los que  formar al alum
 logro de un adecuado concepto de sí mismo, a través, por ejemplo, de la reflexión sobre las 
 
 MARTES 26 DE JULIO DE 2022B.O.C.M. Núm. 176 Pág. 205
-BOCM-20220726-1
 BOLETÍN OFICIAL DE LA COMUNIDAD DE MADRIDBOCM
 distintas formas de representac ión humana a lo largo del tiempo. Esta necesidad de hacerse 
 visible, proyectarse e identificarse a través  de la imagen es una const ante histórico-cultural que 
@@ -11097,7 +10895,6 @@ comparativo de obras de diversas é pocas y de la explicación de las relaciones
 préstamos, continuidad y ruptura que se producen entre estilos, autores y movimientos. 
 
 MARTES 26 DE JULIO DE 2022Pág. 206 B.O.C.M. Núm. 176
-BOCM-20220726-1
 BOLETÍN OFICIAL DE LA COMUNIDAD DE MADRIDBOCM
 Competencia específica 5. 
 5.1. Elaborar comentarios histórico-artísticos de distintas obras de arte a partir del conocimiento y 
@@ -11148,7 +10945,6 @@ género del retrato. La evolución en la imagen del artista.
 – Arte e identidad grupal: escuelas, re gionalismos y búsqueda de identidad. 
 
 MARTES 26 DE JULIO DE 2022B.O.C.M. Núm. 176 Pág. 207
-BOCM-20220726-1
 BOLETÍN OFICIAL DE LA COMUNIDAD DE MADRIDBOCM
 – La representación de la mujer en el arte desde una perspectiva crítica. 
 – La mujer como artista. 
@@ -11202,7 +10998,6 @@ Frómista, Catedral de Santiago de Compostela y Catedral de Pisa.
 Tomás del claustro de Santo Domingo de Silos , tímpano del Juicio Final de Santa Fe de 
 
 MARTES 26 DE JULIO DE 2022Pág. 208 B.O.C.M. Núm. 176
-BOCM-20220726-1
 BOLETÍN OFICIAL DE LA COMUNIDAD DE MADRIDBOCM
 Conques, Pórtico de la Gloria  de la Catedral de Santiago , capitel historiado de la Última 
 Cena del claustro de San Juan de la Peña.  
@@ -11258,7 +11053,6 @@ Greco: Adoración del nombre de Jesús, El entierro del Señor de Orgaz, Vista d
 Maderno, fachada de San Pedro del Vaticano ; Bernini, Plaza de San Pedro del Vaticano ; 
 
 MARTES 26 DE JULIO DE 2022B.O.C.M. Núm. 176 Pág. 209
-BOCM-20220726-1
 BOLETÍN OFICIAL DE LA COMUNIDAD DE MADRIDBOCM
 Borromini, San Carlos de las Cuatro Fuentes ; Le Vau, Mansart y Le Nôtre, Palacio de 
 Versalles. La decoración rococó. 
@@ -11314,7 +11108,6 @@ y Sullivan, Auditorium de Chicago ; Arquitectura del hi erro: Gustav Eiffel, Tor
 Modernismo: Gaudí, Sagrada Familia de Barcelona. 
 
 MARTES 26 DE JULIO DE 2022Pág. 210 B.O.C.M. Núm. 176
-BOCM-20220726-1
 BOLETÍN OFICIAL DE LA COMUNIDAD DE MADRIDBOCM
 /g120 Escultura. Las transformaci ones arquitectónicas y la  escultura academicista. La 
 renovación escultórica: Rodin, El pensador y Los burgueses de Calais ; Camille Claudel, 
@@ -11369,7 +11162,6 @@ Kong.
 /g120 Arquitectura posmoderna: Utzon, Ópera de Sidney. 
 
 MARTES 26 DE JULIO DE 2022B.O.C.M. Núm. 176 Pág. 211
-BOCM-20220726-1
 BOLETÍN OFICIAL DE LA COMUNIDAD DE MADRIDBOCM
 /g120 Deconstrucción: Gehry, Museo Guggenheim de Bilbao; Zaza Hadid, Centro Heydar Aliyev 
 en Bakú. 
@@ -11423,7 +11215,6 @@ El cuarto bloque, «Transición y democ racia. Los retos del mundo actual», pre
 de los últimos decenios de España en los que acabó la dic tadura y se implantó un régimen 
 
 MARTES 26 DE JULIO DE 2022Pág. 212 B.O.C.M. Núm. 176
-BOCM-20220726-1
 BOLETÍN OFICIAL DE LA COMUNIDAD DE MADRIDBOCM
 democrático. Igualmente, se abordan los principales desafíos a los que España, como miembro de 
 la Unión Europea y de la ec onomía global, ha de enfrentars e tratando de buscar una solución 
@@ -11478,7 +11269,6 @@ la Historia social, tercer y cuarto subepígrafe), co ntribuyendo a desarrolla r
 específicas 1, 5 y 7.  
 
 MARTES 26 DE JULIO DE 2022B.O.C.M. Núm. 176 Pág. 213
-BOCM-20220726-1
 BOLETÍN OFICIAL DE LA COMUNIDAD DE MADRIDBOCM
  
 Competencias específicas. 
@@ -11532,7 +11322,6 @@ El alumnado debe aplicar una perspectiva que impl ique una mirada crítica a la 
 progreso, a sus planteamientos fil osóficos y económicos y a sus derivac iones políticas. Asimismo, 
 
 MARTES 26 DE JULIO DE 2022Pág. 214 B.O.C.M. Núm. 176
-BOCM-20220726-1
 BOLETÍN OFICIAL DE LA COMUNIDAD DE MADRIDBOCM
 se deben considerar las consecuencias que han generado el crecimiento económico. El estudio de 
 la modernización económica exige, pues, poner en contacto las estructuras a largo plazo con otras 
@@ -11586,7 +11375,6 @@ cartográfica, deduciendo cómo su ubicación le ha permitid o formar parte de l
 itinerarios históricos de la human idad y de los procesos clave que han ocurrido en torno a sus 
 
 MARTES 26 DE JULIO DE 2022B.O.C.M. Núm. 176 Pág. 215
-BOCM-20220726-1
 BOLETÍN OFICIAL DE LA COMUNIDAD DE MADRIDBOCM
 dimensiones geográficas: el Mediter ráneo, el Atlántico y la Euro pa continental y nuestros vínculos 
 históricos con Hispanoamérica. Val orar e interpretar el le gado histórico y cultural permite al 
@@ -11641,7 +11429,6 @@ significados, asumiendo como una responsabilidad su conservación y su utilizaci
 fortalecimiento de la cohesión social. 
 
 MARTES 26 DE JULIO DE 2022Pág. 216 B.O.C.M. Núm. 176
-BOCM-20220726-1
 BOLETÍN OFICIAL DE LA COMUNIDAD DE MADRIDBOCM
 Esta competencia específica se conecta con los siguientes descriptores recogidos en el anexo 
 I del Real Decreto 243/2022, de 5 de abril: STEM3, CPSAA1.1, CPSAA3.1, CPSAA3.2, CC1, CC3, 
@@ -11694,7 +11481,6 @@ España y la influencia de distintas corrientes políticas, us ando la bibliogra
 fuentes plurales. 
 
 MARTES 26 DE JULIO DE 2022B.O.C.M. Núm. 176 Pág. 217
-BOCM-20220726-1
 BOLETÍN OFICIAL DE LA COMUNIDAD DE MADRIDBOCM
 5.3. Emplear el rigor metodológico de la historia en el est udio de las reformas estructurales que 
 acometió la Segunda República, id entificando sus logros y sus errores, así como las 
@@ -11748,7 +11534,6 @@ Modelos de repoblación. Organización estamental.
 /g120 Sociedad, economía y cultura de  los siglos XVI y XVII.  
 
 MARTES 26 DE JULIO DE 2022Pág. 218 B.O.C.M. Núm. 176
-BOCM-20220726-1
 BOLETÍN OFICIAL DE LA COMUNIDAD DE MADRIDBOCM
 /g120 La Guerra de Sucesión. La Paz de Utrec ht. Los pactos de familia.  
 /g120 La nueva Monarquía borbónica. Los decretos de Nueva Planta. Modelo de Estado y 
@@ -11803,7 +11588,6 @@ Institucionalización del régimen. Relaciones internacionales y etapas polític
 durante el Franquismo en España y en el exilio.  
 
 MARTES 26 DE JULIO DE 2022B.O.C.M. Núm. 176 Pág. 219
-BOCM-20220726-1
 BOLETÍN OFICIAL DE LA COMUNIDAD DE MADRIDBOCM
 /g120 Identificación de los retos, logros, dificulta des y resistencias del fin de la dictadura. 
 D. Transición y democracia en España. Los retos del Mundo Actual.  
@@ -11858,7 +11642,6 @@ del deber de no repetirlos. Rec onocimiento, reparación y digni ficación de la
 la violencia y el terrorismo en España. El terrorismo de ETA.  
 
 MARTES 26 DE JULIO DE 2022Pág. 220 B.O.C.M. Núm. 176
-BOCM-20220726-1
 BOLETÍN OFICIAL DE LA COMUNIDAD DE MADRIDBOCM
 – Historia económica:  
 /g120 La transición al capitalis mo en España. Los debates his toriográficos acerca de la 
@@ -11912,7 +11695,6 @@ principal objetivo de la materia de Historia de la Filosofía consis te en facil
 comprensión de esta conexión, co ntribuyendo así, de manera signi ficativa, a su conocimiento del 
 
 MARTES 26 DE JULIO DE 2022B.O.C.M. Núm. 176 Pág. 221
-BOCM-20220726-1
 BOLETÍN OFICIAL DE LA COMUNIDAD DE MADRIDBOCM
 presente. Un presente que cobra  sentido cuando lo interpretamos co mo el resultado de estas dos 
 fuerzas que se complementan y mutu amente se transforman: los acont ecimientos históricos y el 
@@ -11968,7 +11750,6 @@ su defensa de ideas y valores de carácter universal. La clase se dividirá en g
 preparará argumentos so bre el siguiente tema: ¿Existe un concepto de belleza objetivo y 
 
 MARTES 26 DE JULIO DE 2022Pág. 222 B.O.C.M. Núm. 176
-BOCM-20220726-1
 BOLETÍN OFICIAL DE LA COMUNIDAD DE MADRIDBOCM
 universal? El alumnado tratará de apoyar sus afirmaci ones en imágenes de todo tipo: retratos 
 pictóricos, fotografías de per sonajes célebres, campañas de publicidad, publicaciones en redes 
@@ -12023,7 +11804,6 @@ y efectividad, tanto en el ámbito de las ciencias, como en el de la  vida cotid
 condición necesaria para la forma ción del propio juicio perso nal. Es, pues, necesario que el 
 
 MARTES 26 DE JULIO DE 2022B.O.C.M. Núm. 176 Pág. 223
-BOCM-20220726-1
 BOLETÍN OFICIAL DE LA COMUNIDAD DE MADRIDBOCM
 alumnado, tanto en el trabajo con textos y documentos, como en el di álogo filosófico con los 
 demás, emplee argumentos correctos  y bien fundados, aprecia ndo el rigor argumentativo y 
@@ -12077,7 +11857,6 @@ del pensamiento y promover u na actitud tolerante y comprometida con la resoluci
 racional y dialogada de los conflictos. 
 
 MARTES 26 DE JULIO DE 2022Pág. 224 B.O.C.M. Núm. 176
-BOCM-20220726-1
 BOLETÍN OFICIAL DE LA COMUNIDAD DE MADRIDBOCM
 La filosofía, a diferencia de otros ámbitos de conocimiento, se presenta radicalmente abierta y 
 disputada en todas sus áreas , algo que no tiene por qué ser interpretado como defecto o 
@@ -12132,7 +11911,6 @@ sin perder de vista de dónde vienen  y lo que ocurrirá después: las consecuen
 pensamiento e, incluso, de sus errores. 
 
 MARTES 26 DE JULIO DE 2022B.O.C.M. Núm. 176 Pág. 225
-BOCM-20220726-1
 BOLETÍN OFICIAL DE LA COMUNIDAD DE MADRIDBOCM
 Esta competencia específica se conecta con los siguientes descriptores recogidos en el anexo 
 I del Real Decreto 243/2022, de 5 de abril: CCL2, CC1, CC2, CC3 y CCEC1. 
@@ -12186,7 +11964,6 @@ I del Real Decreto 243/2022, de 5 de abril: CPSAA4, CC1, CC2, CC3, CC4 y CE1.
 2º BACHILLERATO. 
 
 MARTES 26 DE JULIO DE 2022Pág. 226 B.O.C.M. Núm. 176
-BOCM-20220726-1
 BOLETÍN OFICIAL DE LA COMUNIDAD DE MADRIDBOCM
 Criterios de evaluación. 
 Competencia específica 1. 
@@ -12240,7 +12017,6 @@ del análisis y exposición crítica de las condiciones cultural es que han perm
 la aparición y evolución de dichos problemas en distintos momentos de la historia. 
 
 MARTES 26 DE JULIO DE 2022B.O.C.M. Núm. 176 Pág. 227
-BOCM-20220726-1
 BOLETÍN OFICIAL DE LA COMUNIDAD DE MADRIDBOCM
 5.2. Comprender la dimensión temporal y universal de los problemas fil osóficos más importantes, 
 comparando mediante esquemas u otros  productos o actividades el  tratamiento filosófico que 
@@ -12292,7 +12068,6 @@ científica.
 Thomas Hobbes a la Ilustración. Newton y el problema de la naturaleza. 
 
 MARTES 26 DE JULIO DE 2022Pág. 228 B.O.C.M. Núm. 176
-BOCM-20220726-1
 BOLETÍN OFICIAL DE LA COMUNIDAD DE MADRIDBOCM
 – La cuestión del origen y fundamento de la sociedad y el  poder. Del pensamiento político 
 medieval a la teoría del contrato social según Thomas Hobbes, Jo hn Locke y Jean-Jacques 
@@ -12347,7 +12122,6 @@ primeros se caracterizan por su disposi ción cronológica, mientras que los dos
 una vocación temática. 
 
 MARTES 26 DE JULIO DE 2022B.O.C.M. Núm. 176 Pág. 229
-BOCM-20220726-1
 BOLETÍN OFICIAL DE LA COMUNIDAD DE MADRIDBOCM
 El primer bloque, titulado «La crisis del Antiguo Régimen. Liberalismo y nacionalismo» , 
 analiza las bases políticas  e intelectuales de las transformacione s que se produjeron a finales del 
@@ -12402,7 +12176,6 @@ sea consciente de las ca usas y consecuencias de los grandes procesos gestad os 
 Edad Contemporánea y le ayude a ordena r su estructura mental histó rica. Sin embargo, el bloque 
 
 MARTES 26 DE JULIO DE 2022Pág. 230 B.O.C.M. Núm. 176
-BOCM-20220726-1
 BOLETÍN OFICIAL DE LA COMUNIDAD DE MADRIDBOCM
 F se puede desarrollar de forma sincrónica, es decir, aportando la cuestión pertinente al bloque de 
 contenido que se trata, o de forma diacrónica, a final de curso, para tener una visión general y 
@@ -12458,7 +12231,6 @@ ideológicas y teleológicas der ivadas de determinados modelos teórico s. Igua
 comparado de los procesos de transformación más significativos, así co mo de la evolución de los 
 
 MARTES 26 DE JULIO DE 2022B.O.C.M. Núm. 176 Pág. 231
-BOCM-20220726-1
 BOLETÍN OFICIAL DE LA COMUNIDAD DE MADRIDBOCM
 principales sistemas pol íticos hasta el presente, resulta necesario para que el alumnado 
 identifique las variables y factores que intervienen en su desa rrollo y, sobre todo, valore los logros 
@@ -12513,7 +12285,6 @@ El nuevo ideal de ciudadanía que es tablecieron los regímenes li berales puso 
 la acción política y social  a la noción de igualdad, un conce pto que, desde entonces, ha ido 
 
 MARTES 26 DE JULIO DE 2022Pág. 232 B.O.C.M. Núm. 176
-BOCM-20220726-1
 BOLETÍN OFICIAL DE LA COMUNIDAD DE MADRIDBOCM
 incorporando significaciones diferentes y contra puestas. El alumnado debe identificar y relacionar 
 las múltiples variables y los fac tores que han determinado dichos cambios con re specto a los 
@@ -12569,7 +12340,6 @@ cómo este afecta al entorno lo cal y a la vida cotidiana. Para ello  es esencia
 de procesos asociados a la informac ión, especialmente en entornos digitales, que le permitan 
 
 MARTES 26 DE JULIO DE 2022B.O.C.M. Núm. 176 Pág. 233
-BOCM-20220726-1
 BOLETÍN OFICIAL DE LA COMUNIDAD DE MADRIDBOCM
 disponer de fuentes fiables y veraces, discriminar contenidos falaces, falsos o irrelevantes y 
 percibir cualquier sesg o ideológico e in tencionado. Es necesario prestar  atención a la evolución 
@@ -12625,7 +12395,6 @@ otras la literatura y el cine,  debe tomar conciencia del poder y capacidad de m
 ideas, interpretando las di stintas experiencias históricas a las que, desde la Ilustración a nuestros 
 
 MARTES 26 DE JULIO DE 2022Pág. 234 B.O.C.M. Núm. 176
-BOCM-20220726-1
 BOLETÍN OFICIAL DE LA COMUNIDAD DE MADRIDBOCM
 días, han dado lugar dichas ideas, utopías e imaginarios. Todo ello implica introducirse en los 
 principales debates historiográfic os, aún vigentes, en torno a los movimientos sociales, los 
@@ -12678,7 +12447,6 @@ historia contemporánea, as í como de los movimientos de acción y reacción qu
 generado. 
 
 MARTES 26 DE JULIO DE 2022B.O.C.M. Núm. 176 Pág. 235
-BOCM-20220726-1
 BOLETÍN OFICIAL DE LA COMUNIDAD DE MADRIDBOCM
 1.4. Entender el significado histórico de las tr ansiciones políticas y de los procesos de 
 democratización de la Edad Contemporánea como fundamento y garantía para la convivencia 
@@ -12731,7 +12499,6 @@ Competencia específica 7.
 que han desempeñado el pensamient o y las ideologías en la  transformación de la realidad, 
 
 MARTES 26 DE JULIO DE 2022Pág. 236 B.O.C.M. Núm. 176
-BOCM-20220726-1
 BOLETÍN OFICIAL DE LA COMUNIDAD DE MADRIDBOCM
 desde los orígenes de la Edad  Contemporánea hasta la actua lidad, comprendiendo dicho 
 fenómeno a través del trabajo so bre textos históricos e historiográ ficos y de fuentes literarias, 
@@ -12785,7 +12552,6 @@ B. La economía contemporánea hasta la Primera Guerra Mundial.
 /g120 Causas de la expans ión colonial.  
 
 MARTES 26 DE JULIO DE 2022B.O.C.M. Núm. 176 Pág. 237
-BOCM-20220726-1
 BOLETÍN OFICIAL DE LA COMUNIDAD DE MADRIDBOCM
 /g120 El reparto de Asia y África. La Confere ncia de Berlín. Otros enclaves coloniales. 
 /g120 Consecuencias del colonialismo. 
@@ -12839,7 +12605,6 @@ ciberamenazas y armas de destrucción masiva.
 /g120 Éxodos masivos de población. . Los refu giados. Nuevo concepto de refugiado.  
 
 MARTES 26 DE JULIO DE 2022Pág. 238 B.O.C.M. Núm. 176
-BOCM-20220726-1
 BOLETÍN OFICIAL DE LA COMUNIDAD DE MADRIDBOCM
 /g120 El desarrollo tecnológico y digital  y los nuevos retos del futuro económico, social y laboral. 
 – El nuevo orden mundial:  
@@ -12895,7 +12660,6 @@ permanencias en los ciclos vitales y en la organización social del mundo contem
 – Historia social:  
 
 MARTES 26 DE JULIO DE 2022B.O.C.M. Núm. 176 Pág. 239
-BOCM-20220726-1
 BOLETÍN OFICIAL DE LA COMUNIDAD DE MADRIDBOCM
 /g120 La evolución histórica de la clase trabajadora y de las organizaciones obreras: 
 experiencias y conflictos en defen sa de los derechos laboral es y la mejora de las 
@@ -12950,7 +12714,6 @@ enfoque práctico de la materia. Asimismo, la interpretación y la dramatizació
 cuerpo y diferentes instrumentos musicales permite n la comprensión de la  música y la danza 
 
 MARTES 26 DE JULIO DE 2022Pág. 240 B.O.C.M. Núm. 176
-BOCM-20220726-1
 BOLETÍN OFICIAL DE LA COMUNIDAD DE MADRIDBOCM
 desde la experimentación y la exp eriencia propias. Además, el es tudio de las épocas en los que 
 se han desarrollado estas artes facilitará la comprensión de la s transformaciones de los gustos 
@@ -13004,7 +12767,6 @@ Competencias específicas.
 evolución a lo largo de la historia a través del análisis de las fuentes de estudio 
 
 MARTES 26 DE JULIO DE 2022B.O.C.M. Núm. 176 Pág. 241
-BOCM-20220726-1
 BOLETÍN OFICIAL DE LA COMUNIDAD DE MADRIDBOCM
 disponibles, para reconocer sus rasgos estilísticos y su función en una determinada 
 época. 
@@ -13057,7 +12819,6 @@ CCEC4.1 y CCEC4.2.
 4. Investigar sobre los principales compositores, intérpretes y obras de la historia de la 
 
 MARTES 26 DE JULIO DE 2022Pág. 242 B.O.C.M. Núm. 176
-BOCM-20220726-1
 BOLETÍN OFICIAL DE LA COMUNIDAD DE MADRIDBOCM
 música y de la danza, utilizando fuentes  de información fiables, para analizar las 
 diferentes corrientes interpretativas y reflexio nar sobre la riqueza del patrimonio 
@@ -13109,7 +12870,6 @@ carácter interdisciplinar.
 2.2. Analizar la importancia del patrimonio musical, escénico y artístico como expresión de una 
 
 MARTES 26 DE JULIO DE 2022B.O.C.M. Núm. 176 Pág. 243
-BOCM-20220726-1
 BOLETÍN OFICIAL DE LA COMUNIDAD DE MADRIDBOCM
 época, valorando la responsabilidad sobre su conservación y difusión. 
 Competencia específica 3. 
@@ -13160,7 +12920,6 @@ C. Música y danza .
 – Técnicas sencillas de interpretación de o bras adaptadas o fr agmentos musicales 
 
 MARTES 26 DE JULIO DE 2022Pág. 244 B.O.C.M. Núm. 176
-BOCM-20220726-1
 BOLETÍN OFICIAL DE LA COMUNIDAD DE MADRIDBOCM
 representativos del repertorio musical correspondientes a algunos de los periodos estudiados. 
 – Práctica de danzas sencillas de diferentes per iodos históricos. Desde los bailes medievales y 
@@ -13214,7 +12973,6 @@ orígenes del ballet clásico y su relación con la ópera.
 /g120 La reforma de la ópera seria y la aparición de la ópera bufa. Estudio crítico de las 
 
 MARTES 26 DE JULIO DE 2022B.O.C.M. Núm. 176 Pág. 245
-BOCM-20220726-1
 BOLETÍN OFICIAL DE LA COMUNIDAD DE MADRIDBOCM
 características comunes de los personajes bufos. 
 /g120 La sonata y su influencia en la música instrumental de la época (Haydn, Mozart, entre 
@@ -13266,7 +13024,6 @@ complejos. Al mismo tiempo, el a prendizaje del latín propici a un considerable
 vocabulario que los alumnos co mprenden y pueden emplear con propiedad, tanto en español 
 
 MARTES 26 DE JULIO DE 2022Pág. 246 B.O.C.M. Núm. 176
-BOCM-20220726-1
 BOLETÍN OFICIAL DE LA COMUNIDAD DE MADRIDBOCM
 como en otras lenguas, e implic a la adquisición de hábitos de análi sis lingüístico y de técnicas de 
 traducción que les serán muy útiles en el aprendizaje de idiomas. 
@@ -13322,7 +13079,6 @@ interpretación y producci ón de textos complejos, en español y en otras lengu
 desarrollo de la competencia en comunicación lingüística y de la competencia plurilingüe. 
 
 MARTES 26 DE JULIO DE 2022B.O.C.M. Núm. 176 Pág. 247
-BOCM-20220726-1
 BOLETÍN OFICIAL DE LA COMUNIDAD DE MADRIDBOCM
 La metodología que escoja el  profesorado para que los alumnos aprendan los distintos 
 contenidos de la materia debe variar en función de la diversidad del aula pero, en cualquier caso, 
@@ -13378,7 +13134,6 @@ que resulten esenciales para co nocer el contexto y el sentido del  texto. La in
 resulta aquí imprescindible, así como una guía para el uso de recurs os y fuentes bibliográficas de 
 
 MARTES 26 DE JULIO DE 2022Pág. 248 B.O.C.M. Núm. 176
-BOCM-20220726-1
 BOLETÍN OFICIAL DE LA COMUNIDAD DE MADRIDBOCM
 utilidad. Todo ello con la finalidad última de prom over el ejercicio de reflexión sobre la lengua que 
 se halla en la base del arte y la técnica de la traducción. 
@@ -13432,7 +13187,6 @@ interpretación que favorezcan la  autonomía progresiva con relación a la prop
 emisión de juicios críticos de valor. La interpretaci ón de textos latinos conlleva la comprensión y el 
 
 MARTES 26 DE JULIO DE 2022B.O.C.M. Núm. 176 Pág. 249
-BOCM-20220726-1
 BOLETÍN OFICIAL DE LA COMUNIDAD DE MADRIDBOCM
 reconocimiento de su carácter fundacional de la civilización occidental, asumiendo la aproximación 
 a los textos como un proceso dinámico que tiene en cuenta des de el conocimiento sobre el 
@@ -13487,7 +13241,6 @@ equilibrio entre sacar provecho del patrimonio cultural en el presente y preserv
 las generaciones futuras. En este  sentido, la preservación del patrimonio cultural latino requiere el 
 
 MARTES 26 DE JULIO DE 2022Pág. 250 B.O.C.M. Núm. 176
-BOCM-20220726-1
 BOLETÍN OFICIAL DE LA COMUNIDAD DE MADRIDBOCM
 compromiso de una ciudadanía in teresada en conservar su valor. La investigación acerca de la 
 pervivencia de la herencia del mundo  romano, así como de los procesos de preservación, 
@@ -13542,7 +13295,6 @@ básicas de la lengua latina, co mparándolas con las de las leng uas del repert
 propio y asimilando los aspectos morfológicos, sintácticos y léxicos elementales del latín. 
 
 MARTES 26 DE JULIO DE 2022B.O.C.M. Núm. 176 Pág. 251
-BOCM-20220726-1
 BOLETÍN OFICIAL DE LA COMUNIDAD DE MADRIDBOCM
 1.16. Registrar los progresos y dificultades de aprendiz aje de la lengua latina, seleccionando las 
 estrategias más adecuadas y eficaces para superar esas dificul tades y consolidar su 
@@ -13595,7 +13347,6 @@ inspiración, analizando producci ones culturales y artísticas pos teriores a p
 dados. 
 
 MARTES 26 DE JULIO DE 2022Pág. 252 B.O.C.M. Núm. 176
-BOCM-20220726-1
 BOLETÍN OFICIAL DE LA COMUNIDAD DE MADRIDBOCM
 5.2. Investigar, de manera guiada, el patrimonio hist órico, arqueológico, artístico y cultural 
 heredado de la civilización latina,  actuando de forma adecuada y respetuosa e interesándose 
@@ -13650,7 +13401,6 @@ memoria, la resolución de problemas y la capacidad de análisis y síntesis.
 – Estrategias y herramientas para la evaluación, la autoevaluación y la coevaluación. 
 
 MARTES 26 DE JULIO DE 2022B.O.C.M. Núm. 176 Pág. 253
-BOCM-20220726-1
 BOLETÍN OFICIAL DE LA COMUNIDAD DE MADRIDBOCM
 B. Plurilingüismo. 
 – Sistemas de escritura a lo largo de la historia. 
@@ -13703,7 +13453,6 @@ recursos para evitar el plagio.
 D. La antigua Roma. 
 
 MARTES 26 DE JULIO DE 2022Pág. 254 B.O.C.M. Núm. 176
-BOCM-20220726-1
 BOLETÍN OFICIAL DE LA COMUNIDAD DE MADRIDBOCM
 – Geografía del proceso de expansió n de Roma desde su nacimiento hasta la desaparición del 
 Imperio romano. 
@@ -13754,7 +13503,6 @@ latín, incluidas las formas menos  frecuentes e irregulares, as í como la form
 adverbios.  
 
 MARTES 26 DE JULIO DE 2022B.O.C.M. Núm. 176 Pág. 255
-BOCM-20220726-1
 BOLETÍN OFICIAL DE LA COMUNIDAD DE MADRIDBOCM
 1.4. Conjugar las formas personales, en voz activa y pasiva, de los verbos regulares e 
 irregulares, así como los verbos deponentes. 
@@ -13811,7 +13559,6 @@ dados.
 Competencia específica 3. 
 
 MARTES 26 DE JULIO DE 2022Pág. 256 B.O.C.M. Núm. 176
-BOCM-20220726-1
 BOLETÍN OFICIAL DE LA COMUNIDAD DE MADRIDBOCM
 3.1. Interpretar y comentar textos y fragmentos literarios de diversa índole de creciente 
 complejidad, aplicando los conocimient os adquiridos sobre la lengua y la literatura latinas y la 
@@ -13865,7 +13612,6 @@ usuales e irregulares): sistema casual y declinaciones.
 frecuentes. 
 
 MARTES 26 DE JULIO DE 2022B.O.C.M. Núm. 176 Pág. 257
-BOCM-20220726-1
 BOLETÍN OFICIAL DE LA COMUNIDAD DE MADRIDBOCM
 – Estructuras oracionales.  
 /g120 La concordancia. 
@@ -13918,7 +13664,6 @@ adecuado del vocabulario como instrumento básico en la comunicación.
 proyectos con estudiantes de latín a nivel transnacional. 
 
 MARTES 26 DE JULIO DE 2022Pág. 258 B.O.C.M. Núm. 176
-BOCM-20220726-1
 BOLETÍN OFICIAL DE LA COMUNIDAD DE MADRIDBOCM
 – Terminología lingüística: expresiones y léxico específico para reflexionar y compartir la 
 reflexión sobre la comunicación, la lengua, el aprendizaje y las herramientas de comunicación 
@@ -13970,7 +13715,6 @@ I con textos leídos en Latín II, en especial con los contenidos referentes a:
 diferentes culturas y épocas. Soportes de escritura: tipos y preservación. 
 
 MARTES 26 DE JULIO DE 2022B.O.C.M. Núm. 176 Pág. 259
-BOCM-20220726-1
 BOLETÍN OFICIAL DE LA COMUNIDAD DE MADRIDBOCM
 – La mitología clásica en manifestaciones literarias y artísticas. 
 – La romanización de Hispania y las huellas de su pervivencia. 
@@ -14024,7 +13768,6 @@ que les dotan de sentido y detect ar sus sesgos ideológicos. De ahí que el des
 competencia lectora en Bachillerat o implique incidir en la motivac ión, el compromiso y las 
 
 MARTES 26 DE JULIO DE 2022Pág. 260 B.O.C.M. Núm. 176
-BOCM-20220726-1
 BOLETÍN OFICIAL DE LA COMUNIDAD DE MADRIDBOCM
 prácticas de lectura, junto co n el conocimiento y uso de las estrategias que deben desplegarse 
 antes, durante y después del acto lector.  
@@ -14079,7 +13822,6 @@ diversidad lingüística tanto para valorar los significado s culturales que se 
 para profundizar en el co nocimiento del funcionamiento de la s lenguas y sus variedades, 
 
 MARTES 26 DE JULIO DE 2022B.O.C.M. Núm. 176 Pág. 261
-BOCM-20220726-1
 BOLETÍN OFICIAL DE LA COMUNIDAD DE MADRIDBOCM
 facilitando la reflexión interlin güística y la comunicación co n hablantes de otras lenguas. El 
 desarrollo de esta competencia en el aula va, por tanto, mucho más allá de situar en un mapa las 
@@ -14134,7 +13876,6 @@ académico y profesional ulterior. Requieren conoc er las claves de los gén ero
 específicos y proponer al alumnad o actividades que le permitan  afrontar de manera periódica 
 
 MARTES 26 DE JULIO DE 2022Pág. 262 B.O.C.M. Núm. 176
-BOCM-20220726-1
 BOLETÍN OFICIAL DE LA COMUNIDAD DE MADRIDBOCM
 producciones orales sobre temas de relevancia ciudadana, científica o cultural, o vinculados a los 
 contenidos curriculares. Dichas secuencias didácticas ate nderán de manera recursiva y 
@@ -14189,7 +13930,6 @@ que han cristalizado las prácticas comunicativas escritas propias de los difere
 los géneros discursivos. En Bachi llerato cobran especial relevanc ia los géneros académicos 
 
 MARTES 26 DE JULIO DE 2022B.O.C.M. Núm. 176 Pág. 263
-BOCM-20220726-1
 BOLETÍN OFICIAL DE LA COMUNIDAD DE MADRIDBOCM
 (disertaciones, ensayos, informes o comentarios críticos, entre otro s) que reclaman la integración 
 de diferentes miradas, campos del saber o disciplinas. El alumnado, por tanto, ha de manejar con 
@@ -14243,7 +13983,6 @@ individual, y propiciando momentos de reflexión que permitan estable cer relaci
 textos leídos. 
 
 MARTES 26 DE JULIO DE 2022Pág. 264 B.O.C.M. Núm. 176
-BOCM-20220726-1
 BOLETÍN OFICIAL DE LA COMUNIDAD DE MADRIDBOCM
 Ello supone ampliar las formas de disfrute, la diversidad y la  complejidad de los textos 
 apreciados –incluido el contacto con formas literarias actuales impresas y digitales y con prácticas 
@@ -14298,7 +14037,6 @@ lingüística, para aumentar el repertorio comunicativo y para mejorar las destr
 de producción oral y escrita como de comprensión e interpretación crítica. 
 
 MARTES 26 DE JULIO DE 2022B.O.C.M. Núm. 176 Pág. 265
-BOCM-20220726-1
 BOLETÍN OFICIAL DE LA COMUNIDAD DE MADRIDBOCM
 Para que el estudio sistemáti co de la lengua sea út il, debe promover la competencia 
 metalingüística del alumnado y vinculars e con los usos reales y co ntextualizados propios de los 
@@ -14351,7 +14089,6 @@ investigación sobre los derechos lingüísticos y diversos modelos de convivenc
 lenguas. 
 
 MARTES 26 DE JULIO DE 2022Pág. 266 B.O.C.M. Núm. 176
-BOCM-20220726-1
 BOLETÍN OFICIAL DE LA COMUNIDAD DE MADRIDBOCM
 Competencia específica 2. 
 2.1. Identificar el sentido global, la estruc tura, la información relevante en función de las 
@@ -14404,7 +14141,6 @@ contemporánea, en soporte papel y digital, y dejar constancia del pro greso del
 y cultural personal mediante  la explicación argumentada de los criterios de selección de las 
 
 MARTES 26 DE JULIO DE 2022B.O.C.M. Núm. 176 Pág. 267
-BOCM-20220726-1
 BOLETÍN OFICIAL DE LA COMUNIDAD DE MADRIDBOCM
 lecturas, las formas de acceso a la cultura literaria y de la experiencia de lectura. 
 7.2. Compartir la experiencia lectora , oralmente o por escrito, con precisión léxica y corrección 
@@ -14458,7 +14194,6 @@ A. Las lenguas y sus hablantes.
 – Desarrollo sociohistórico de las lenguas habladas en España y su situación actual. 
 
 MARTES 26 DE JULIO DE 2022Pág. 268 B.O.C.M. Núm. 176
-BOCM-20220726-1
 BOLETÍN OFICIAL DE LA COMUNIDAD DE MADRIDBOCM
 – Estudio lingüístico comparativo de las variedades geográficas de las lenguas: el castellano y 
 sus dialectos, el catalá n, valenciano y balear, el gallego, el  euskera, en manifestaciones 
@@ -14512,7 +14247,6 @@ selección y retención de la información relevante.
 académico. Los textos periodísticos orales. Los textos multimodales. 
 
 MARTES 26 DE JULIO DE 2022B.O.C.M. Núm. 176 Pág. 269
-BOCM-20220726-1
 BOLETÍN OFICIAL DE LA COMUNIDAD DE MADRIDBOCM
 – Producción oral formal: planific ación y búsqueda de informació n, textualización y revisión. 
 Adecuación a la audiencia  y al tiempo de exposición.  Elementos no verbales. Rasgos 
@@ -14564,7 +14298,6 @@ bibliográficas, etc.
 distinguiendo entre literatura canónica y de consumo, clásicos y bestsellers.  
 
 MARTES 26 DE JULIO DE 2022Pág. 270 B.O.C.M. Núm. 176
-BOCM-20220726-1
 BOLETÍN OFICIAL DE LA COMUNIDAD DE MADRIDBOCM
 – Comunicación de la experiencia  lectora utilizando un metalenguaj e específico y atendiendo a 
 aspectos temáticos, género y subgénero, elementos de la estruc tura y el estilo y valores 
@@ -14619,7 +14352,6 @@ sintáctico y semántico. Estudio de sus unidades.
 su significado: la derivación, la composición y la parasíntesis. 
 
 MARTES 26 DE JULIO DE 2022B.O.C.M. Núm. 176 Pág. 271
-BOCM-20220726-1
 BOLETÍN OFICIAL DE LA COMUNIDAD DE MADRIDBOCM
 /g120 Caracterización morfológica del verbo,  su estructura morfológica. 
 – Análisis de las catego rías gramaticales. Palabras variables: sustantivo, adjetivo, 
@@ -14672,7 +14404,6 @@ diferentes, ajustándose a las co nvenciones propias de cada género  discursivo
 fluidez, rigor, coherencia, cohesió n y el registro adecuado, en diferentes soportes, utilizando 
 
 MARTES 26 DE JULIO DE 2022Pág. 272 B.O.C.M. Núm. 176
-BOCM-20220726-1
 BOLETÍN OFICIAL DE LA COMUNIDAD DE MADRIDBOCM
 de manera eficaz recursos verbales y no verbales. 
 3.2. Participar de manera activa y adecuada en in teracciones orales (formales  e informales) y en 
@@ -14726,7 +14457,6 @@ apreciación estética de las obras.
 8.2. Desarrollar proyectos de investi gación, obteniendo la informac ión de fuentes en distintos 
 
 MARTES 26 DE JULIO DE 2022B.O.C.M. Núm. 176 Pág. 273
-BOCM-20220726-1
 BOLETÍN OFICIAL DE LA COMUNIDAD DE MADRIDBOCM
 soportes, que se concreten en una exposición oral, un ensayo o una presentación multimodal, 
 con precisión léxica y co rrección gramatical y ortográfic a, estableciendo vínculos 
@@ -14781,7 +14511,6 @@ lingüística.
 B. Comunicación. 
 
 MARTES 26 DE JULIO DE 2022Pág. 274 B.O.C.M. Núm. 176
-BOCM-20220726-1
 BOLETÍN OFICIAL DE LA COMUNIDAD DE MADRIDBOCM
 Análisis y profundización en las estrategias de producción, comprensión y análisis crítico de textos 
 orales, escritos y multimodales de diferentes ámbitos con atenció n conjunta a los siguientes 
@@ -14834,7 +14563,6 @@ de fiabilidad, calidad y per tinencia; análisis, valora ción, reorganización 
 información en esquemas propios  y transformación en conocimie nto; comunicación y difusión 
 
 MARTES 26 DE JULIO DE 2022B.O.C.M. Núm. 176 Pág. 275
-BOCM-20220726-1
 BOLETÍN OFICIAL DE LA COMUNIDAD DE MADRIDBOCM
 de la información reelaborada de manera creativa y respetuosa con la propiedad intelectual. 
 La gestión de contenidos, el almacenamiento y la recuperación de la información relevante.  
@@ -14886,7 +14614,6 @@ dictadura; (3) literatura española e hispanoamericana contemporánea, atendiend
 contenidos: 
 
 MARTES 26 DE JULIO DE 2022Pág. 276 B.O.C.M. Núm. 176
-BOCM-20220726-1
 BOLETÍN OFICIAL DE LA COMUNIDAD DE MADRIDBOCM
 – Trayectoria histórica de la literatura en castellano del último cuarto del siglo XIX y de los siglos 
 XX y XXI: 
@@ -14941,7 +14668,6 @@ complemento predicativo, complemento de régimen.
 /g120 Las funciones extraoracionales: vocativo y complemento oracional.  
 
 MARTES 26 DE JULIO DE 2022B.O.C.M. Núm. 176 Pág. 277
-BOCM-20220726-1
 BOLETÍN OFICIAL DE LA COMUNIDAD DE MADRIDBOCM
 /g120 Los valores de se.  
 – Relación entre la estructura se mántica (significados verbales  y argumentos) y sintáctica 
@@ -14996,7 +14722,6 @@ conocimientos, destrezas y actitudes que se refieren a la cultura que la lengua 
 estudiada transmite. El bloque «Co municación», incluye los conocimie ntos, las destrezas y las 
 
 MARTES 26 DE JULIO DE 2022Pág. 278 B.O.C.M. Núm. 176
-BOCM-20220726-1
 BOLETÍN OFICIAL DE LA COMUNIDAD DE MADRIDBOCM
 actitudes necesarios para desarrollar las actividades lingü ísticas de co mprensión, producción, 
 interacción y mediación.  
@@ -15050,7 +14775,6 @@ expresados en la lengua estándar. La comprensión, en este nivel, impl ica ente
 los textos y extraer las ideas prin cipales y las líneas argumentales  más destacadas, así como 
 
 MARTES 26 DE JULIO DE 2022B.O.C.M. Núm. 176 Pág. 279
-BOCM-20220726-1
 BOLETÍN OFICIAL DE LA COMUNIDAD DE MADRIDBOCM
 valorar de manera crítica el contenido, la in tención, los rasgos discursivos y ciertos matices, como 
 la ironía o el uso estético de la lengua. Para ello, es necesario activar la s estrategias más 
@@ -15106,7 +14830,6 @@ digitales, para responder a propósitos comunicativos en intercambios respetuoso
 las normas de cortesía.  
 
 MARTES 26 DE JULIO DE 2022Pág. 280 B.O.C.M. Núm. 176
-BOCM-20220726-1
 BOLETÍN OFICIAL DE LA COMUNIDAD DE MADRIDBOCM
 La interacción implica a dos o más participa ntes en la construcción de un discurso. Se 
 considera el origen del  lenguaje y comprende funcione s interpersonales, cooperativas y 
@@ -15161,7 +14884,6 @@ experiencias del alumnado con la s lenguas que conoce sirven de base para la amp
 mejora del aprendizaje de lengu as nuevas y lo ayudan a desarroll ar y enriquecer su repertorio 
 
 MARTES 26 DE JULIO DE 2022B.O.C.M. Núm. 176 Pág. 281
-BOCM-20220726-1
 BOLETÍN OFICIAL DE LA COMUNIDAD DE MADRIDBOCM
 lingüístico plurilingüe y su cu riosidad y sensibilización cultural. En la etapa de Bachillerato, es 
 imprescindible que el alumnado reflexione sobre el funcionamiento de las lenguas y compare de 
@@ -15216,7 +14938,6 @@ los medios de comunicación, así como de textos de ficción, sobre temas genera
 específicos, de relevancia personal o de interés público. 
 
 MARTES 26 DE JULIO DE 2022Pág. 282 B.O.C.M. Núm. 176
-BOCM-20220726-1
 BOLETÍN OFICIAL DE LA COMUNIDAD DE MADRIDBOCM
 1.3. Seleccionar, organizar y aplicar las estrategias y conocimientos adecuados para comprender 
 la información global y específica, y distinguir la intención y las opiniones, tanto implícitas 
@@ -15271,7 +14992,6 @@ participantes y de soportes analógicos y digitales.
 5.3. Registrar y reflexionar sobre lo s progresos y dificultades de aprendizaje de la lengua 
 
 MARTES 26 DE JULIO DE 2022B.O.C.M. Núm. 176 Pág. 283
-BOCM-20220726-1
 BOLETÍN OFICIAL DE LA COMUNIDAD DE MADRIDBOCM
 extranjera, seleccionando las estr ategias más adecuadas y efica ces para superar esas 
 dificultades y consolidar el aprendizaje, realizando actividade s de planificación del propio 
@@ -15324,7 +15044,6 @@ social y de enriquecimiento personal: consulta de fue ntes de información en le
 extranjera.  
 
 MARTES 26 DE JULIO DE 2022Pág. 284 B.O.C.M. Núm. 176
-BOCM-20220726-1
 BOLETÍN OFICIAL DE LA COMUNIDAD DE MADRIDBOCM
 – Interés e iniciativa en la realización de intercambios co municativos a través de diferentes 
 medios con hablantes o estudiantes de la lengua extranjera, as í como por conocer 
@@ -15380,7 +15099,6 @@ espacio y las relaciones espac iales, el tiempo y las relaciones temporales, la 
 negación, la interrogación y la exclamación, relaciones lógicas. 
 
 MARTES 26 DE JULIO DE 2022B.O.C.M. Núm. 176 Pág. 285
-BOCM-20220726-1
 BOLETÍN OFICIAL DE LA COMUNIDAD DE MADRIDBOCM
 – Léxico común y especializado de interés para el alumnado, relativo a tiempo y espacio; 
 estados, eventos y acontecimient os; actividades, procedimiento s y procesos; relaciones 
@@ -15436,7 +15154,6 @@ fenómenos y acontecimientos; dar instrucciones y consejos; narrar acontecimient
 puntuales y habituales, describir estados y situaciones  presentes y expresar sucesos futuros 
 
 MARTES 26 DE JULIO DE 2022Pág. 286 B.O.C.M. Núm. 176
-BOCM-20220726-1
 BOLETÍN OFICIAL DE LA COMUNIDAD DE MADRIDBOCM
 y de predicciones a corto, medio  y largo plazo; expresar emociones; expresar la opinión; 
 expresar argumentaciones; reformular, presentar las opiniones de otros, resumir. 
@@ -15493,7 +15210,6 @@ moins…plus); consecuencia (si bien que, de telle mani ère que, de façon à c
 distributivas (tantôt…tantôt, bien….bien); condición (si, même si + Indic ., à condition de + 
 
 MARTES 26 DE JULIO DE 2022B.O.C.M. Núm. 176 Pág. 287
-BOCM-20220726-1
 BOLETÍN OFICIAL DE LA COMUNIDAD DE MADRIDBOCM
 Inf., à condition de, à moins de + inf., au/dans le cas où (+ conditionnel));  estilo indirecto 
 (rapporter des informations , des opinions) ;  reformular  (c’est à dire)  ; resumir (bref, en 
@@ -15550,7 +15266,6 @@ well as);  disyunción (either…or); oposición/concesión ( although; however)
 less/more + Adj./Adv. (than); the  better of the two; the best ever) ; resultado/correlación 
 
 MARTES 26 DE JULIO DE 2022Pág. 288 B.O.C.M. Núm. 176
-BOCM-20220726-1
 BOLETÍN OFICIAL DE LA COMUNIDAD DE MADRIDBOCM
 (so; so that; the more…the better); condición (if; unless; in case); estilo indirecto (reported 
 information, instructions, advice, offers, suggestions, promises, commands, wishes). 
@@ -15607,7 +15322,6 @@ volitivi + cong.)); prohibición (proibire di +Inf. semplice; non + futuro sempl
 /g120 Expresión de la existencia (p.es. dovrebbe esserci  stato; ecco fatto);  la entidad (nomi 
 
 MARTES 26 DE JULIO DE 2022B.O.C.M. Núm. 176 Pág. 289
-BOCM-20220726-1
 BOLETÍN OFICIAL DE LA COMUNIDAD DE MADRIDBOCM
 contabili / massa / collettivi/ co mposti; pronomi (relativi, rif lessivi, tonici); determinanti);  la 
 cualidad (p.es. parecchio stanco; difficile da fare). 
@@ -15663,7 +15377,6 @@ permitido que + Conj.); prohibi ción ((não) ser possível/ perm itido que + Co
 /g120 Expresión de la existencia (p.e. faltar, acontecer);  la entidad (substantivos 
 
 MARTES 26 DE JULIO DE 2022Pág. 290 B.O.C.M. Núm. 176
-BOCM-20220726-1
 BOLETÍN OFICIAL DE LA COMUNIDAD DE MADRIDBOCM
 contáveisl/massivos /coletivos/compostos; pronomes (relativos, reflex ivos átonos/tônicos, 
 determinantes); la cualidad (p.e. bem nervoso; hábil em línguas). 
@@ -15718,7 +15431,6 @@ organizando de manera coherente in formación e ideas de diversas fue ntes y jus
 propias opiniones sobre asunt os de relevancia personal o de interés público conocidos por el 
 
 MARTES 26 DE JULIO DE 2022B.O.C.M. Núm. 176 Pág. 291
-BOCM-20220726-1
 BOLETÍN OFICIAL DE LA COMUNIDAD DE MADRIDBOCM
 alumnado, haciendo un uso ético del lenguaje, respetando la pro piedad intelectual y evitando 
 el plagio.  
@@ -15772,7 +15484,6 @@ habla la lengua extranjera y adecuarse a ella favoreciendo y justificando el des
 cultura compartida.  
 
 MARTES 26 DE JULIO DE 2022Pág. 292 B.O.C.M. Núm. 176
-BOCM-20220726-1
 BOLETÍN OFICIAL DE LA COMUNIDAD DE MADRIDBOCM
 6.3. Aplicar de forma sistemática es trategias para defender y aprecia r la diversidad lingüística, 
 cultural y artística. 
@@ -15826,7 +15537,6 @@ obteniendo la información por diferentes medios.
 – Estrategias para entender y apreciar la diversidad lingüística, cultural y artística. 
 
 MARTES 26 DE JULIO DE 2022B.O.C.M. Núm. 176 Pág. 293
-BOCM-20220726-1
 BOLETÍN OFICIAL DE LA COMUNIDAD DE MADRIDBOCM
 – Estrategias de prevención, det ección, rechazo y actuación ant e usos discriminatorios del 
 lenguaje verbal y no verbal. 
@@ -15883,7 +15593,6 @@ ocupacional,
 formatos, patrones y elementos gráficos. 
 
 MARTES 26 DE JULIO DE 2022Pág. 294 B.O.C.M. Núm. 176
-BOCM-20220726-1
 BOLETÍN OFICIAL DE LA COMUNIDAD DE MADRIDBOCM
 /g120 Reconocimiento de los valores asociados a convenciones  de formato, tipográficas, 
 ortográficas y de puntuació n comunes y menos habitual es, así como abreviaturas y 
@@ -15939,7 +15648,6 @@ brauchen); obligación (brauchen/nicht brauchen);  permiso (dürfen; können, la
 intención (denken zu –en). 
 
 MARTES 26 DE JULIO DE 2022B.O.C.M. Núm. 176 Pág. 295
-BOCM-20220726-1
 BOLETÍN OFICIAL DE LA COMUNIDAD DE MADRIDBOCM
 /g120 Expresión de la existencia (z.B. es soll gegeben haben ); la entidad ( nicht 
 zählbare/Sammelbezeichnungen / zusammengesetzten Nomen ; Pronomen (Relativ-
@@ -15996,7 +15704,6 @@ pron. relativos compuestos (sur laquelle, grâce à leque l, avec/sans lequel, e
 lesquels, à qui, à côté duquel)); la cualidad; la posesión. 
 
 MARTES 26 DE JULIO DE 2022Pág. 296 B.O.C.M. Núm. 176
-BOCM-20220726-1
 BOLETÍN OFICIAL DE LA COMUNIDAD DE MADRIDBOCM
 /g120 Expresión de la cantidad: environ, à peu près, plus ou moins, le double, le triple…, un/ 
 des tas de; artículos partitivos,  Adv. de cantidad y medid as; y del grado (extrêmement, 
@@ -16052,7 +15759,6 @@ as I am concerned, Frankly speaking… etc.
 /g120 Reformular ideas y resumirlas: To put it in another way, So what I am really saying is, All 
 
 MARTES 26 DE JULIO DE 2022B.O.C.M. Núm. 176 Pág. 297
-BOCM-20220726-1
 BOLETÍN OFICIAL DE LA COMUNIDAD DE MADRIDBOCM
 in all…. 
 – Patrones sonoros, acentuales, rítmicos y de entonación y si gnificados e intenciones 
@@ -16108,7 +15814,6 @@ contemporaneamente); seque nza (p.es inoltre ... poi... in fine); intermittenza 
 talvolta); frequenza (p.es. di rado)). 
 
 MARTES 26 DE JULIO DE 2022Pág. 298 B.O.C.M. Núm. 176
-BOCM-20220726-1
 BOLETÍN OFICIAL DE LA COMUNIDAD DE MADRIDBOCM
 /g120 Expresión del modo (avverbi di modo: p.es. di proposito, a dirotto, perbene). 
 – Patrones sonoros, acentuales, rítmicos y de entonación, y significados e intenciones 
@@ -16165,7 +15870,6 @@ conclusão); simultaneidad e (no mesmo tempo que, atual mente); frequência (p. 
 vez por dia, regularmente).  
 
 MARTES 26 DE JULIO DE 2022B.O.C.M. Núm. 176 Pág. 299
-BOCM-20220726-1
 BOLETÍN OFICIAL DE LA COMUNIDAD DE MADRIDBOCM
 /g120 Expresión del modo (expressões, preposições e locuções prepositivas de modo, p .e. em 
 excesso; ao gosto). 
@@ -16218,7 +15922,6 @@ el trabajo a realizar entre tod os los participantes . Primeramente, habría que
 como 4 o 5 fragmentos de cancio nes de cualquier época y estilo musical. Se cambiará la letra de 
 
 MARTES 26 DE JULIO DE 2022Pág. 300 B.O.C.M. Núm. 176
-BOCM-20220726-1
 BOLETÍN OFICIAL DE LA COMUNIDAD DE MADRIDBOCM
 las mismas para que se adapte a la situación escénica pro puesta y se inventarán breves 
 intervenciones teatrales de unión entre los fragmentos musica les. Cada fragmento se trabajará 
@@ -16270,7 +15973,6 @@ I del Real Decreto 243/2022, de 5 de abril: CCL1, CCL2, STEM2, CPSAA1.1, CCEC2.
 aproximación a la obra y adquiriendo de forma progresiva habilidades de 
 
 MARTES 26 DE JULIO DE 2022B.O.C.M. Núm. 176 Pág. 301
-BOCM-20220726-1
 BOLETÍN OFICIAL DE LA COMUNIDAD DE MADRIDBOCM
 decodificación e integración del lenguaje musical, para realizar improvisaciones o 
 ejecutar con autonomía obras musicales sencillas. 
@@ -16321,7 +16023,6 @@ Competencia específica 1.
 aplicando estrategias de escucha activa y utilizando un vocabulario específico adecuado. 
 
 MARTES 26 DE JULIO DE 2022Pág. 302 B.O.C.M. Núm. 176
-BOCM-20220726-1
 BOLETÍN OFICIAL DE LA COMUNIDAD DE MADRIDBOCM
 1.2. Describir las sensaciones que genera la música y su  posible vinculación con las 
 características de la obra, reflexionand o sobre aspectos subjetivos in herentes a la escucha 
@@ -16374,7 +16075,6 @@ relacionados con la altura, la duración, la intensidad y el timbre.
 – La armonía:  
 
 MARTES 26 DE JULIO DE 2022B.O.C.M. Núm. 176 Pág. 303
-BOCM-20220726-1
 BOLETÍN OFICIAL DE LA COMUNIDAD DE MADRIDBOCM
 /g120 El fenómeno físico armóni co Definición y características.  
 /g120 El círculo de quintas;  
@@ -16429,7 +16129,6 @@ Escénicas I y II, de las que es ta materia es complementaria, junto a otras con
 evidentemente vinculada, como Li teratura Universal o Lengua Cas tellana y Literatura. En este 
 
 MARTES 26 DE JULIO DE 2022Pág. 304 B.O.C.M. Núm. 176
-BOCM-20220726-1
 BOLETÍN OFICIAL DE LA COMUNIDAD DE MADRIDBOCM
 caso, la lectura habitual de textos dramáticos aporta oportunidade s indudables para la mejora 
 tanto de la expresión oral como de la  escrita, dada la peculiar naturaleza textual de este género 
@@ -16485,7 +16184,6 @@ El cuarto epígrafe («Estrategi as de análisis, interpretac ión y creación d
 propone diversas estrategias meto dológicas para explorar en profundidad los textos dramáticos 
 
 MARTES 26 DE JULIO DE 2022B.O.C.M. Núm. 176 Pág. 305
-BOCM-20220726-1
 BOLETÍN OFICIAL DE LA COMUNIDAD DE MADRIDBOCM
 estudiados. Todas ellas inciden en el trabajo activo de los alum nos: por un lado, desde el análisis 
 de las obras, que no se limitará al estudio estilístico, sino que indag ará en el papel del teatro para 
@@ -16540,7 +16238,6 @@ guiada y compartida en el aula -o  en un espacio escénico-, y que irán acompa�
 conjunto de textos y representaciones que permitirán tanto su contextualización histórica y cultural 
 
 MARTES 26 DE JULIO DE 2022Pág. 306 B.O.C.M. Núm. 176
-BOCM-20220726-1
 BOLETÍN OFICIAL DE LA COMUNIDAD DE MADRIDBOCM
 como su inscripción en la tradic ión literaria y escénica, el  acceso a la historia de sus 
 interpretaciones y el diálogo con otras formas artísticas clásicas y contemporáneas. 
@@ -16595,7 +16292,6 @@ construcción compartida de la interpretación de las obras, incluyendo el anál
 los textos dramáticos y sus di versas puestas en escena y ent endiendo las funciones y los efectos 
 
 MARTES 26 DE JULIO DE 2022B.O.C.M. Núm. 176 Pág. 307
-BOCM-20220726-1
 BOLETÍN OFICIAL DE LA COMUNIDAD DE MADRIDBOCM
 de las distintas convenciones a partir de las cuales se construye el  teatro. Asimismo, la 
 indagación, investigación y comparación constantes entre distintas obras, sus puestas en escena, 
@@ -16650,7 +16346,6 @@ también las voces no occidentales, se  hace inexcusable una rec onstrucción de
 incorpore unas y otras al tiempo que indaga en las causas de su exclusión. Si la literatura y el arte 
 
 MARTES 26 DE JULIO DE 2022Pág. 308 B.O.C.M. Núm. 176
-BOCM-20220726-1
 BOLETÍN OFICIAL DE LA COMUNIDAD DE MADRIDBOCM
 son agentes determinantes en la co nstrucción de los imaginarios, la  educación literaria, en este 
 caso en torno al género dra mático, debe incorporar habilidades de lectura, interpretación y 
@@ -16703,7 +16398,6 @@ estructuras, personajes, lenguaj e, recursos expresivos y valore s éticos y est
 muestre la implicación y la respuesta personal del lector en la lectura. 
 
 MARTES 26 DE JULIO DE 2022B.O.C.M. Núm. 176 Pág. 309
-BOCM-20220726-1
 BOLETÍN OFICIAL DE LA COMUNIDAD DE MADRIDBOCM
 3.3. Elaborar de manera individual o colectiva una exposición multimodal que sitúe los textos 
 teatrales leídos o vistos en su  horizonte histórico-cultural y que ofrezca una panorámica de 
@@ -16755,7 +16449,6 @@ personaje en el teatro moderno.
 2. Temas y formas de la literatura dramática. 
 
 MARTES 26 DE JULIO DE 2022Pág. 310 B.O.C.M. Núm. 176
-BOCM-20220726-1
 BOLETÍN OFICIAL DE LA COMUNIDAD DE MADRIDBOCM
 2.1. El teatro del Yo: los personajes como modelos vitales. 
 – Teatro biográfico: la construcci ón del sujeto teatral y la indagación en los grandes 
@@ -16807,7 +16500,6 @@ especializadas.
 – Participación activa en el circuito literario, lector y teatral en contexto presencial y digital. 
 
 MARTES 26 DE JULIO DE 2022B.O.C.M. Núm. 176 Pág. 311
-BOCM-20220726-1
 BOLETÍN OFICIAL DE LA COMUNIDAD DE MADRIDBOCM
 – Definición de los gustos dramátic os personales, diversificando el corpus leído o visto en tanto 
 que espectador, atendiendo a los circuitos culturales del teatro. 
@@ -16860,7 +16552,6 @@ formas de expresión, se establece un diálogo entre textos clásic os y contemp
 llegar a conformar un mapa cultural  de referencias para el alumnado. En todo caso, se hace 
 
 MARTES 26 DE JULIO DE 2022Pág. 312 B.O.C.M. Núm. 176
-BOCM-20220726-1
 BOLETÍN OFICIAL DE LA COMUNIDAD DE MADRIDBOCM
 necesario no descuidar el  eje cronológico para que estas referencias se inscriban con claridad en 
 la tradición artística y literaria universal, con su cadena de influencias. 
@@ -16915,7 +16606,6 @@ Competencias específicas.
 relaciones internas de los eleme ntos constitutivos del género y sus funciones en las 
 
 MARTES 26 DE JULIO DE 2022B.O.C.M. Núm. 176 Pág. 313
-BOCM-20220726-1
 BOLETÍN OFICIAL DE LA COMUNIDAD DE MADRIDBOCM
 obras como a las relaciones externas de las obras con su contexto de producción y su 
 inscripción en la tradición cultural, para ensanc har las posibilidades de disfrute de la 
@@ -16970,7 +16660,6 @@ CCEC2 y CCEC3.1.
 reconociendo semejanzas y diferencias en función de sus respectivos contextos de 
 
 MARTES 26 DE JULIO DE 2022Pág. 314 B.O.C.M. Núm. 176
-BOCM-20220726-1
 BOLETÍN OFICIAL DE LA COMUNIDAD DE MADRIDBOCM
 producción y de la interrelación entre literatu ra y sociedad, para constatar la existencia 
 de universales temáticos y cauces formales recurrentes a lo largo de la historia de la 
@@ -17024,7 +16713,6 @@ entre ellos, así como el lugar que en el mismo ocupan las obras  más relevante
 literario universal. 
 
 MARTES 26 DE JULIO DE 2022B.O.C.M. Núm. 176 Pág. 315
-BOCM-20220726-1
 BOLETÍN OFICIAL DE LA COMUNIDAD DE MADRIDBOCM
 Esta competencia específica se conecta con los siguientes descriptores recogidos en el anexo 
 I del Real Decreto 243/2022, de 5 de abr il: CCL4, CD2, CD3, CC1, CCEC1, CCEC2, CCEC 4.1 y 
@@ -17076,7 +16764,6 @@ argumentando oralmente o por escrito los elementos de semejanza y contraste, tan
 relativo a aspectos temáticos  y de contenido, como fo rmales y expresivos, atendiendo 
 
 MARTES 26 DE JULIO DE 2022Pág. 316 B.O.C.M. Núm. 176
-BOCM-20220726-1
 BOLETÍN OFICIAL DE LA COMUNIDAD DE MADRIDBOCM
 también a sus valores éticos y estéticos. 
 3.2 Desarrollar proyectos de in vestigación que se concreten en una exposición oral, un ensayo o 
@@ -17128,7 +16815,6 @@ Paul Celan, Cesare Pavese, Jacques Prévert y Sylvia Plath.
 1.2. Literatura testimonial y biogr áfica: diarios, cartas, memori as, autobiografías, autoficción, 
 
 MARTES 26 DE JULIO DE 2022B.O.C.M. Núm. 176 Pág. 317
-BOCM-20220726-1
 BOLETÍN OFICIAL DE LA COMUNIDAD DE MADRIDBOCM
 etc. 
 – La novela europea del siglo XVIII. La novela epistolar del siglo XVIII: Los sufrimientos del 
@@ -17183,7 +16869,6 @@ Wells, Ray Bradbury y George Orwell. Anthony Burgess.
 3.2 Mundos observados: cuento y novela. Bildungsroman o novela de formación. Espacios 
 
 MARTES 26 DE JULIO DE 2022Pág. 318 B.O.C.M. Núm. 176
-BOCM-20220726-1
 BOLETÍN OFICIAL DE LA COMUNIDAD DE MADRIDBOCM
 privados, espacios públicos: afe ctos íntimos y lazos sociales. Desigualdades, discriminación, 
 violencias. Guerra y revolución.  Migraciones e identidades cultu rales. Colonialismo y 
@@ -17239,7 +16924,6 @@ B. Estrategias de análisis, interpretación, recrea ción y valoración crític
 compartida: 
 
 MARTES 26 DE JULIO DE 2022B.O.C.M. Núm. 176 Pág. 319
-BOCM-20220726-1
 BOLETÍN OFICIAL DE LA COMUNIDAD DE MADRIDBOCM
 – Construcción compartida de la interpretación de las obras a través de discusiones o 
 conversaciones literarias. 
@@ -17293,7 +16977,6 @@ destrezas matemáticas, co mo el razonamiento, la modelización, el pensamiento 
 la resolución de problemas. 
 
 MARTES 26 DE JULIO DE 2022Pág. 320 B.O.C.M. Núm. 176
-BOCM-20220726-1
 BOLETÍN OFICIAL DE LA COMUNIDAD DE MADRIDBOCM
 En continuidad con la Educac ión Secundaria Obligatoria, los contenidos de la materia 
 Matemáticas se orientan a la comprensión de conceptos y procedi mientos matemáticos junto con 
@@ -17350,7 +17033,6 @@ estadística descriptiva y el cálc ulo de probabilidades, mientras que las Mate
 más en los modelos de probabilidad, que conforman la base de la estadística inferencial.  
 
 MARTES 26 DE JULIO DE 2022B.O.C.M. Núm. 176 Pág. 321
-BOCM-20220726-1
 BOLETÍN OFICIAL DE LA COMUNIDAD DE MADRIDBOCM
 Además, de forma transversal, el paso de Ma temáticas I a Matemáticas II comportará una 
 profundización en los procesos  de razonamiento lógico-matemátic o, así como en su expresión 
@@ -17403,7 +17085,6 @@ argumentación, la creatividad y el uso de herramientas tecnológicas, para gene
 nuevo conocimiento matemático.  
 
 MARTES 26 DE JULIO DE 2022Pág. 322 B.O.C.M. Núm. 176
-BOCM-20220726-1
 BOLETÍN OFICIAL DE LA COMUNIDAD DE MADRIDBOCM
 La formulación de conjeturas y la generación de problemas de contenido matemático son dos 
 componentes importantes y si gnificativos del curríc ulo de Matemáticas y están  consideradas una 
@@ -17457,7 +17138,6 @@ modelizar, resolver problemas y desarrollar la cap acidad crítica, creativa e i
 en situaciones diversas. 
 
 MARTES 26 DE JULIO DE 2022B.O.C.M. Núm. 176 Pág. 323
-BOCM-20220726-1
 BOLETÍN OFICIAL DE LA COMUNIDAD DE MADRIDBOCM
 Observar relaciones y establece r conexiones matemáticas es un aspecto clave del quehacer 
 matemático. El aumento de los conocimientos matemáticos y de la destreza para utilizar un amplio 
@@ -17511,7 +17191,6 @@ con la existencia de una aptitu d innata para las matemáticas. El desarrollo de
 conlleva identificar y gestionar las propias emociones en el proceso de aprendizaje de las 
 
 MARTES 26 DE JULIO DE 2022Pág. 324 B.O.C.M. Núm. 176
-BOCM-20220726-1
 BOLETÍN OFICIAL DE LA COMUNIDAD DE MADRIDBOCM
 matemáticas, reconocer las fuentes de estrés, ser perseverante en la consecución de los 
 objetivos, pensar de forma crítica y creativa, crear fortaleza y mantener una actitud positiva ante 
@@ -17560,7 +17239,6 @@ Competencia específica 7.
 seleccionando las tecnologías más adecuadas. 
 
 MARTES 26 DE JULIO DE 2022B.O.C.M. Núm. 176 Pág. 325
-BOCM-20220726-1
 BOLETÍN OFICIAL DE LA COMUNIDAD DE MADRIDBOCM
 7.2. Seleccionar y utilizar diversas formas de representación, va lorando su utilidad para compartir 
 información. 
@@ -17612,7 +17290,6 @@ coseno en la resolución de triángulos y de problemas geométricos de contexto 
 /g120 Límite de una función en un punto: cá lculo gráfico y analít ico. Resolución de 
 
 MARTES 26 DE JULIO DE 2022Pág. 326 B.O.C.M. Núm. 176
-BOCM-20220726-1
 BOLETÍN OFICIAL DE LA COMUNIDAD DE MADRIDBOCM
 indeterminaciones sencillas (0/0, k/0,  - , 1∞). Límites laterales. 
 /g120 Límite de una función en el infini to: cálculo gráfico y analít ico. Resolución de 
@@ -17667,7 +17344,6 @@ límite.
 – Modelo matemático. 
 
 MARTES 26 DE JULIO DE 2022B.O.C.M. Núm. 176 Pág. 327
-BOCM-20220726-1
 BOLETÍN OFICIAL DE LA COMUNIDAD DE MADRIDBOCM
 /g120 Relaciones cuantitativas en situaciones sencillas: es trategias de identificación y 
 determinación de la clase o clases de funciones que pueden modelizarlas. 
@@ -17723,7 +17399,6 @@ Morgan).
 /g120 Cálculo de probabilidades en experimentos simples: la regla de Laplace en situaciones de 
 
 MARTES 26 DE JULIO DE 2022Pág. 328 B.O.C.M. Núm. 176
-BOCM-20220726-1
 BOLETÍN OFICIAL DE LA COMUNIDAD DE MADRIDBOCM
 equiprobabilidad y en combinación con diferentes técnicas de recuento. 
 /g120 Cálculo de la probabilidad del suceso complementario y de la unión y la intersección de 
@@ -17774,7 +17449,6 @@ problemas.
 Competencia específica 4. 
 
 MARTES 26 DE JULIO DE 2022B.O.C.M. Núm. 176 Pág. 329
-BOCM-20220726-1
 BOLETÍN OFICIAL DE LA COMUNIDAD DE MADRIDBOCM
 4.1. Interpretar, modelizar y resol ver situaciones de la vida co tidiana y de la ciencia y la 
 tecnología, utilizando el pensamiento computacional, modific ando, creando y generalizando 
@@ -17825,7 +17499,6 @@ de las propiedades.
 /g120 Producto mixto de tres vectores en el espa cio: definición, propiedades y aplicaciones. 
 
 MARTES 26 DE JULIO DE 2022Pág. 330 B.O.C.M. Núm. 176
-BOCM-20220726-1
 BOLETÍN OFICIAL DE LA COMUNIDAD DE MADRIDBOCM
 /g120 Estrategias para operar con números reales,  vectores y matrices: cálculo mental o escrito 
 en los casos sencillos y con herramientas tecnológicas en los casos más complicados. 
@@ -17880,7 +17553,6 @@ C. Geometría en el plano y el espacio.
 – Formas geométricas de dos  y tres dimensiones. 
 
 MARTES 26 DE JULIO DE 2022B.O.C.M. Núm. 176 Pág. 331
-BOCM-20220726-1
 BOLETÍN OFICIAL DE LA COMUNIDAD DE MADRIDBOCM
 /g120 Objetos geométricos de tres di mensiones: análisis de las propiedades y determinación de 
 sus atributos. 
@@ -17936,7 +17608,6 @@ indeterminados) de, como máximo, tres ecuaciones lineales con tres incógnitas.
 /g120 Resolución de sistemas de ecuac iones en diferentes contextos. 
 
 MARTES 26 DE JULIO DE 2022Pág. 332 B.O.C.M. Núm. 176
-BOCM-20220726-1
 BOLETÍN OFICIAL DE LA COMUNIDAD DE MADRIDBOCM
 /g120 Resolución de ecuaciones matriciales mediante el uso de la matriz inversa y mediante su 
 transformación en un sistema de ecuaciones lineales. 
@@ -17991,7 +17662,6 @@ problemas y tareas matemáticas.
 – Inclusión, respeto y diversidad. 
 
 MARTES 26 DE JULIO DE 2022B.O.C.M. Núm. 176 Pág. 333
-BOCM-20220726-1
 BOLETÍN OFICIAL DE LA COMUNIDAD DE MADRIDBOCM
 /g120 Destrezas de comunicación efectivas para el éxito en el aprendizaje de las matemáticas. 
 /g120 Valoración de la contribución de las Matemáticas y el papel de matemáticos a lo largo de 
@@ -18045,7 +17715,6 @@ realiza con arreglo a la adquisi ción gradual de las competencias esp ecíficas
 intrínseco al saber matemátic o. Así, en lo que respecta a la aritmética y el álgebra, en 
 
 MARTES 26 DE JULIO DE 2022Pág. 334 B.O.C.M. Núm. 176
-BOCM-20220726-1
 BOLETÍN OFICIAL DE LA COMUNIDAD DE MADRIDBOCM
 Matemáticas Aplicadas a las Ciencias Sociales I se trabajan co njuntos de números reales, y en 
 Matemáticas aplicadas a las Ciencias Sociales II se  incide en conjuntos más abstractos como las 
@@ -18099,7 +17768,6 @@ CPSAA5 y CE3.
 razonamiento y la argumentación para contrastar su idoneidad.  
 
 MARTES 26 DE JULIO DE 2022B.O.C.M. Núm. 176 Pág. 335
-BOCM-20220726-1
 BOLETÍN OFICIAL DE LA COMUNIDAD DE MADRIDBOCM
 El análisis de las soluciones obtenidas en la resolución de un problema potencia la reflexión 
 crítica, el razonamiento y la  argumentación. La interpretación de las soluciones y conclusiones 
@@ -18153,7 +17821,6 @@ comprensión de los problemas. Percibir las Matemáticas como un tod o implica e
 conexiones internas y reflexionar sobre ellas, tanto las existent es entre los bloques de contenidos 
 
 MARTES 26 DE JULIO DE 2022Pág. 336 B.O.C.M. Núm. 176
-BOCM-20220726-1
 BOLETÍN OFICIAL DE LA COMUNIDAD DE MADRIDBOCM
 como entre las matemáticas de un mismo o distintos niveles o las de diferentes etapas educativas. 
 El desarrollo de esta competencia co nlleva enlazar las nuevas ideas  matemáticas con ideas 
@@ -18207,7 +17874,6 @@ I del Real Decreto 243/2022, de 5 de abr il: CCL1, CCL3, CP1, STEM2, STEM4, CD2,
 CCEC3.2. 
 
 MARTES 26 DE JULIO DE 2022B.O.C.M. Núm. 176 Pág. 337
-BOCM-20220726-1
 BOLETÍN OFICIAL DE LA COMUNIDAD DE MADRIDBOCM
 9. Utilizar destrezas personales y sociales, y o rganizando activamente el trabajo en 
 equipos heterogéneos, aprendiendo del error como parte del proceso de aprendizaje y 
@@ -18258,7 +17924,6 @@ Competencia específica 5.
 matemáticas. 
 
 MARTES 26 DE JULIO DE 2022Pág. 338 B.O.C.M. Núm. 176
-BOCM-20220726-1
 BOLETÍN OFICIAL DE LA COMUNIDAD DE MADRIDBOCM
 5.2. Resolver problemas, estableci endo y aplicando conexiones  entre las diferentes ideas 
 matemáticas. 
@@ -18309,7 +17974,6 @@ B. Medida y geometría.
 /g120 Límite de una función en un punto: cá lculo gráfico y analít ico. Resolución de 
 
 MARTES 26 DE JULIO DE 2022B.O.C.M. Núm. 176 Pág. 339
-BOCM-20220726-1
 BOLETÍN OFICIAL DE LA COMUNIDAD DE MADRIDBOCM
 indeterminaciones sencillas (0/0, k/0, ∞–∞, 1∞). Límites laterales. 
 /g120 Límite de una función en el i nfinito: cálculo gráfico y analítico. Resolución de 
@@ -18364,7 +18028,6 @@ razonamiento lógico.
 D. Estadística. 
 
 MARTES 26 DE JULIO DE 2022Pág. 340 B.O.C.M. Núm. 176
-BOCM-20220726-1
 BOLETÍN OFICIAL DE LA COMUNIDAD DE MADRIDBOCM
 – Organización y aná lisis de datos. 
 /g120 Variable estadística unidimensional: concepto, tipos, diferen cia entre distribución y 
@@ -18420,7 +18083,6 @@ matemáticas, en grupos heterogéneos.
 de preguntas o solicitud y prestación de ayuda cuando sea necesario. 
 
 MARTES 26 DE JULIO DE 2022B.O.C.M. Núm. 176 Pág. 341
-BOCM-20220726-1
 BOLETÍN OFICIAL DE LA COMUNIDAD DE MADRIDBOCM
 /g120 Valoración de la contribución  de las Matemáticas y el papel de matemáticos a lo largo de 
 la historia en el avance de las Ciencias Sociales. 
@@ -18469,7 +18131,6 @@ terminología y el rigor apropiados.
 8.2. Reconocer y emplear el lenguaje mate mático en diferentes co ntextos, comunicando la 
 
 MARTES 26 DE JULIO DE 2022Pág. 342 B.O.C.M. Núm. 176
-BOCM-20220726-1
 BOLETÍN OFICIAL DE LA COMUNIDAD DE MADRIDBOCM
 información con precisión y rigor. 
 Competencia específica 9. 
@@ -18522,7 +18183,6 @@ laterales.
 la misma; cálculo de los co eficientes de una función para que  cumpla una serie de 
 
 MARTES 26 DE JULIO DE 2022B.O.C.M. Núm. 176 Pág. 343
-BOCM-20220726-1
 BOLETÍN OFICIAL DE LA COMUNIDAD DE MADRIDBOCM
 propiedades. 
 /g120 La derivada como razón de cambio en res olución de problemas de optimización en 
@@ -18577,7 +18237,6 @@ D. Estadística.
 – Incertidumbre. 
 
 MARTES 26 DE JULIO DE 2022Pág. 344 B.O.C.M. Núm. 176
-BOCM-20220726-1
 BOLETÍN OFICIAL DE LA COMUNIDAD DE MADRIDBOCM
 /g120 Cálculo de probabilidades en experimentos compuestos. Proba bilidad condicionada e 
 independencia de sucesos aleatorios. Diagramas de árbol y tablas de contingencia. 
@@ -18631,7 +18290,6 @@ capacidad de análisis e interpretación de la realidad para poder adaptarse a u
 llenas de incertidumbre, además de disp oner de las competencias necesarias para aprender por 
 
 MARTES 26 DE JULIO DE 2022B.O.C.M. Núm. 176 Pág. 345
-BOCM-20220726-1
 BOLETÍN OFICIAL DE LA COMUNIDAD DE MADRIDBOCM
 sí mismo. Las Matemáticas dese mpeñan un papel fundamental para modelizar, analizar y 
 comprender los fenómenos de múlti ples campos de conoci miento: sociales, educativos, 
@@ -18687,7 +18345,6 @@ programación lineal. Y en lo que toca a la probabilidad y la es tadística, se 
 descriptiva unidimensional y bidi mensional, así como el cálculo de probabilidades y la inferencia 
 
 MARTES 26 DE JULIO DE 2022Pág. 346 B.O.C.M. Núm. 176
-BOCM-20220726-1
 BOLETÍN OFICIAL DE LA COMUNIDAD DE MADRIDBOCM
 estadística. Adicionalmente, la relación de contenidos persigue que el alumnado que curse 
 Matemáticas Generales en 1º de Bachillerato se encuentre en condiciones  de seguir la materia 
@@ -18742,7 +18399,6 @@ I del Real Decreto 243/20 22, de 5 de abril: STEM1, STEM2, STEM3, CD2, CD5, CPSA
 CPSAA5 y CE3. 
 
 MARTES 26 DE JULIO DE 2022B.O.C.M. Núm. 176 Pág. 347
-BOCM-20220726-1
 BOLETÍN OFICIAL DE LA COMUNIDAD DE MADRIDBOCM
 2. Verificar la validez de las posibles soluciones de un problema empleando el 
 razonamiento y la argumentación para contrastar su idoneidad.  
@@ -18796,7 +18452,6 @@ comprensión de los problemas. Percibir las matemáticas como un tod o implica e
 conexiones internas y reflexionar sobre ellas, tanto las existentes  entre los bloques de contenidos 
 
 MARTES 26 DE JULIO DE 2022Pág. 348 B.O.C.M. Núm. 176
-BOCM-20220726-1
 BOLETÍN OFICIAL DE LA COMUNIDAD DE MADRIDBOCM
 del propio curso como de di ferentes etapas educativas. El des arrollo de esta competencia 
 conlleva enlazar las nuevas ideas matemáticas con ideas previas , reconocer y utilizar las 
@@ -18849,7 +18504,6 @@ I del Real Decreto 243/2022, de 5 de abril: CCL1, CCL3, CP1, STEM2, STEM4, CD2 y
 9. Utilizar destrezas personales y sociales, y o rganizando activamente el trabajo en 
 
 MARTES 26 DE JULIO DE 2022B.O.C.M. Núm. 176 Pág. 349
-BOCM-20220726-1
 BOLETÍN OFICIAL DE LA COMUNIDAD DE MADRIDBOCM
 equipos heterogéneos, aprendiendo del error como parte del proceso de aprendizaje y 
 afrontando situaciones de incertidumbre, para perseverar en la consecución de 
@@ -18899,7 +18553,6 @@ Competencia específica 6.
 y aplicando conexiones entre el mundo real, otras áreas de conocimiento y las matemáticas. 
 
 MARTES 26 DE JULIO DE 2022Pág. 350 B.O.C.M. Núm. 176
-BOCM-20220726-1
 BOLETÍN OFICIAL DE LA COMUNIDAD DE MADRIDBOCM
 6.2. Analizar la aportación de las matemáticas al progreso de la humanidad, reflexionando sobre 
 su contribución en la propues ta de soluciones a situaciones co mplejas y a los retos que se 
@@ -18951,7 +18604,6 @@ B. Medida y geometría.
 /g120 Estudio de la variación absoluta y de la variación media. 
 
 MARTES 26 DE JULIO DE 2022B.O.C.M. Núm. 176 Pág. 351
-BOCM-20220726-1
 BOLETÍN OFICIAL DE LA COMUNIDAD DE MADRIDBOCM
 /g120 Concepto de derivada: definició n a partir del estudio del cam bio en diferentes contextos. 
 Análisis e interpretación con medios tecnológicos. 
@@ -19004,7 +18656,6 @@ E. Estadística.
 frecuencias y representaciones gráficas. Tipos de variables (cua litativa y cuantitativa 
 
 MARTES 26 DE JULIO DE 2022Pág. 352 B.O.C.M. Núm. 176
-BOCM-20220726-1
 BOLETÍN OFICIAL DE LA COMUNIDAD DE MADRIDBOCM
 discreta o continua). Medidas de centralización, dispersión y posición. 
 /g120 Organización de los datos pro cedente de variables bidimensionales: distribución conjunta, 
@@ -19060,7 +18711,6 @@ de preguntas o solicitud y prestación de ayuda cuando sea necesario.
 la historia en el avance de la humanidad. 
 
 MARTES 26 DE JULIO DE 2022B.O.C.M. Núm. 176 Pág. 353
-BOCM-20220726-1
 BOLETÍN OFICIAL DE LA COMUNIDAD DE MADRIDBOCM
 /g120 Reconocimiento de las aportac iones de los matemáticos españoles (Mª Andresa 
 Casamayor, Miguel de Guzmán, Pedro Puig Adam o Julio Rey Pastor entre otros) al 
@@ -19115,7 +18765,6 @@ posibilidades expresivas de las tecnologí as, tanto en el aspecto de producció
 Por último, el bloque relativo a los «Ev entos culturales y artísticos»,  tiene un doble objetivo: dar a 
 
 MARTES 26 DE JULIO DE 2022Pág. 354 B.O.C.M. Núm. 176
-BOCM-20220726-1
 BOLETÍN OFICIAL DE LA COMUNIDAD DE MADRIDBOCM
 conocer los distintos tipos de eventos  relacionados con la cultura y el arte, y reflexionar sobre el 
 papel y la repercusión que tie nen en el mercado del arte, el turi smo cultural y el compromiso con 
@@ -19169,7 +18818,6 @@ características de distintos medio s de expresión, así como de lo s diferente
 culturales a los que pertenecen, ayudarán al alumnado a identificar la s relaciones entre el artista, 
 
 MARTES 26 DE JULIO DE 2022B.O.C.M. Núm. 176 Pág. 355
-BOCM-20220726-1
 BOLETÍN OFICIAL DE LA COMUNIDAD DE MADRIDBOCM
 su obra y su entorno históri co y cultural. De igual forma, des cubrirá la variedad de funciones que 
 toda actividad cultural tiene, y ha tenido, tanto a nivel individual, cu mpliendo con las necesidades 
@@ -19223,7 +18871,6 @@ existentes, y gracias a las co nexiones entre distintos tipos de le nguajes. Pod
 particularidades y argumentar las diferentes intencionalidades de dichas producciones. 
 
 MARTES 26 DE JULIO DE 2022Pág. 356 B.O.C.M. Núm. 176
-BOCM-20220726-1
 BOLETÍN OFICIAL DE LA COMUNIDAD DE MADRIDBOCM
 Esta competencia específica se conecta con los siguientes descriptores recogidos en el anexo 
 I del Real Decreto 243/2022, de 5 de abril: CCL3, STEM2, CPSAA5, CC1, CCEC1 y CCEC2. 
@@ -19275,7 +18922,6 @@ se implique no solo como espec tador, sino como participante ac tivo, promoviend
 compromiso personal y social. 
 
 MARTES 26 DE JULIO DE 2022B.O.C.M. Núm. 176 Pág. 357
-BOCM-20220726-1
 BOLETÍN OFICIAL DE LA COMUNIDAD DE MADRIDBOCM
 Esta competencia específica se conecta con los siguientes descriptores recogidos en el anexo 
 I del Real Decreto 243/2022, de 5 de abril: CCL3, STEM2, CPSAA3.1, CC1, CC3, CC4, CCEC1 y 
@@ -19327,7 +18973,6 @@ respeto, identificando su valor ex presivo y comunicativo tanto de la individual
 personas creadoras, como de la sociedad en la que se producen. 
 
 MARTES 26 DE JULIO DE 2022Pág. 358 B.O.C.M. Núm. 176
-BOCM-20220726-1
 BOLETÍN OFICIAL DE LA COMUNIDAD DE MADRIDBOCM
 5.2. Explicar algunas de las rep ercusiones sociales y económicas de la cultura y el arte sobre la 
 sociedad actual. 
@@ -19378,7 +19023,6 @@ urbanismo. Diseño para un urbanismo de la vida cotidiana y para la diversidad.
 D. El arte dentro del arte. 
 
 MARTES 26 DE JULIO DE 2022B.O.C.M. Núm. 176 Pág. 359
-BOCM-20220726-1
 BOLETÍN OFICIAL DE LA COMUNIDAD DE MADRIDBOCM
 − Arte primitivo, oriental, precolombino  y africano. Su papel co mo inspiración para las 
 vanguardias. 
@@ -19428,7 +19072,6 @@ La materia de Proyectos Artísticos pone en prá ctica el saber hacer y saber se
 contenidos esenciales están ligad os a la organización y ges tión de proyectos artísticos, viene a 
 
 MARTES 26 DE JULIO DE 2022Pág. 360 B.O.C.M. Núm. 176
-BOCM-20220726-1
 BOLETÍN OFICIAL DE LA COMUNIDAD DE MADRIDBOCM
 reforzar de forma práctica el uso de la creatividad, el emprendimiento y la iniciación a la creación 
 de proyectos artísticos entre otros. 
@@ -19482,7 +19125,6 @@ impacto, social y económ ico. Diseñar proyectos artísticos y culturales que r
 necesidad comunicativa y expresiva compartida, involuc rando al mayor número de participantes, 
 
 MARTES 26 DE JULIO DE 2022B.O.C.M. Núm. 176 Pág. 361
-BOCM-20220726-1
 BOLETÍN OFICIAL DE LA COMUNIDAD DE MADRIDBOCM
 para poner en valor la diversidad social y cultural, preferentemente en el entorno local. Si la 
 determinación del objetivo que ha de cubrirse se ha realizado contan do con la participación de 
@@ -19536,7 +19178,6 @@ La planificación de los proyectos ha de ser riguros a y realista y, a su vez, q
 flexible. Se ha de garantizar el cumplimiento de los plazos estab lecidos y la adecuación a los 
 
 MARTES 26 DE JULIO DE 2022Pág. 362 B.O.C.M. Núm. 176
-BOCM-20220726-1
 BOLETÍN OFICIAL DE LA COMUNIDAD DE MADRIDBOCM
 recursos disponibles . Por otro lado, la organización del plan de trabajo no debe resultar un 
 impedimento para el desarrollo de la creatividad. 
@@ -19589,7 +19230,6 @@ vertientes en lo relativo a los documentos – textuales, visuales, sonoros, aud
 otro tipo – que hayan podido ser utiliz ados o generados en el marco  del proyecto: por una parte, 
 
 MARTES 26 DE JULIO DE 2022B.O.C.M. Núm. 176 Pág. 363
-BOCM-20220726-1
 BOLETÍN OFICIAL DE LA COMUNIDAD DE MADRIDBOCM
 todos aquellos que aportan una base teórica, informativa o inspira dora; por otra, los que han sido 
 elaborados para dar respuest a a las necesidades concreta s de cada una de las fases del 
@@ -19640,7 +19280,6 @@ entorno.
 del público receptor y ana lizando el logro de la intención inicial planteada, así como la 
 
 MARTES 26 DE JULIO DE 2022Pág. 364 B.O.C.M. Núm. 176
-BOCM-20220726-1
 BOLETÍN OFICIAL DE LA COMUNIDAD DE MADRIDBOCM
 pertinencia de las soluciones puestas en práctica ante las dificultades afrontadas a lo largo del 
 proceso. 
@@ -19692,7 +19331,6 @@ storyboard…
 ‒ De la fase de idea o boceto a la creación del proyecto ar tístico. prototipos, maquetas, y 
 
 MARTES 26 DE JULIO DE 2022B.O.C.M. Núm. 176 Pág. 365
-BOCM-20220726-1
 BOLETÍN OFICIAL DE LA COMUNIDAD DE MADRIDBOCM
 proyecto o producto final acabado. 
 ‒ Prototipado del proyecto. Creació n de modelos o maquetas, prototipos, fotos, videos... 
@@ -19745,7 +19383,6 @@ La materia de Química se encuentra dentro de las disciplinas STEM, por lo que e
 metodología se trabajará de manera global todo el conjunto de las disciplinas científicas, dado que 
 
 MARTES 26 DE JULIO DE 2022Pág. 366 B.O.C.M. Núm. 176
-BOCM-20220726-1
 BOLETÍN OFICIAL DE LA COMUNIDAD DE MADRIDBOCM
 es necesario subrayar la relació n de la Química con otras asignat uras, especialmente Física, 
 Tecnología e Ingeniería y Biología y Geología, así como las repercusiones que la disciplina objeto 
@@ -19798,7 +19435,6 @@ observación de la realidad. Así, el alumnado que estudie esta disciplina debe 
 identificar los principios bás icos de la química que  justifican que los sistemas materiales tengan 
 
 MARTES 26 DE JULIO DE 2022B.O.C.M. Núm. 176 Pág. 367
-BOCM-20220726-1
 BOLETÍN OFICIAL DE LA COMUNIDAD DE MADRIDBOCM
 determinadas propiedades y aplic aciones de acuerdo con su composic ión y que existe una base 
 fundamental de carácter químico en el fondo de cada una de las cuestiones medioambientales 
@@ -19851,7 +19487,6 @@ Esta competencia específica se conecta con los siguientes descriptores recogido
 I del Real Decreto 243/2022, de 5 de abril: STEM1, STEM5, CPSAA5 y CE2. 
 
 MARTES 26 DE JULIO DE 2022Pág. 368 B.O.C.M. Núm. 176
-BOCM-20220726-1
 BOLETÍN OFICIAL DE LA COMUNIDAD DE MADRIDBOCM
 5. Aplicar técnicas de trabajo propias de las  ciencias experimentales y el razonamiento 
 lógico-matemático en la resolución de problemas de química y en la interpretación de 
@@ -19904,7 +19539,6 @@ la sociedad, el progreso de la ciencia, la tecn ología y la economía, identifi
 en el campo de la química que han sido fundamentales en estos aspectos. 
 
 MARTES 26 DE JULIO DE 2022B.O.C.M. Núm. 176 Pág. 369
-BOCM-20220726-1
 BOLETÍN OFICIAL DE LA COMUNIDAD DE MADRIDBOCM
 1.2. Describir los principales proce sos químicos que suceden en el  entorno y las propiedades de 
 los sistemas materiales a partir de los conoci mientos, destrezas y actit udes propios de las 
@@ -19959,7 +19593,6 @@ y la diversidad de pensamiento y co nsolidando habilidades so ciales positivas e
 equipos de trabajo. 
 
 MARTES 26 DE JULIO DE 2022Pág. 370 B.O.C.M. Núm. 176
-BOCM-20220726-1
 BOLETÍN OFICIAL DE LA COMUNIDAD DE MADRIDBOCM
 5.4. Representar y visualizar de forma eficiente los conceptos de química que presenten mayores 
 dificultades utilizando herra mientas digitales y recursos variados, incluyendo experiencias de 
@@ -20013,7 +19646,6 @@ macroscópicas.
 valencia (RPECV) y teoría de enlace de valencia: hibridación de orbita les. Configuración 
 
 MARTES 26 DE JULIO DE 2022B.O.C.M. Núm. 176 Pág. 371
-BOCM-20220726-1
 BOLETÍN OFICIAL DE LA COMUNIDAD DE MADRIDBOCM
 geométrica de compuestos moleculares . Polaridad del enlace y de la molécula. Propiedades 
 de las sustancias químicas con enlace covalente y características de los sólidos covalentes y 
@@ -20070,7 +19702,6 @@ que se produce la hidrólisis de una sal.
 – Reacciones entre ácidos y ba ses. Concepto de neutralización. Volumetrías ácido-base. 
 
 MARTES 26 DE JULIO DE 2022Pág. 372 B.O.C.M. Núm. 176
-BOCM-20220726-1
 BOLETÍN OFICIAL DE LA COMUNIDAD DE MADRIDBOCM
 – Ácidos y bases relevantes a ni vel industrial y de consumo, co n especial incidencia en el 
 proceso de la conservación del medioambiente. 
@@ -20124,7 +19755,6 @@ enriquecer los recursos de cualqui er persona dispuesta al es tudio o a la produ
 artísticas. 
 
 MARTES 26 DE JULIO DE 2022B.O.C.M. Núm. 176 Pág. 373
-BOCM-20220726-1
 BOLETÍN OFICIAL DE LA COMUNIDAD DE MADRIDBOCM
 La materia Técnicas de Expresi ón Gráfico-plástica aporta los co nocimientos relativos a los 
 recursos, las técnicas, los procedi mientos y las aplicaciones inst rumentales que hacen posible la 
@@ -20178,7 +19808,6 @@ materiales en el periodo hi stórico mexicano de los años 20 sobre las manifest
 contemporáneas. Para ello, se debería situar el avance y desarro llo de la investigación científica 
 
 MARTES 26 DE JULIO DE 2022Pág. 374 B.O.C.M. Núm. 176
-BOCM-20220726-1
 BOLETÍN OFICIAL DE LA COMUNIDAD DE MADRIDBOCM
 a principios del siglo XX en relación con los aglutinante s hechos de resinas sintéticas 
 polimerizadas y el contexto de la s necesidades técnicas y expresivas de pintores muralistas 
@@ -20233,7 +19862,6 @@ con la apuesta consciente por  la conservación y el cuidado del patrimonio art�
 un diálogo respetuoso entre ambas vertientes. 
 
 MARTES 26 DE JULIO DE 2022B.O.C.M. Núm. 176 Pág. 375
-BOCM-20220726-1
 BOLETÍN OFICIAL DE LA COMUNIDAD DE MADRIDBOCM
 Esta competencia específica se  conecta con los siguientes descriptores recogidos en el 
 anexo I del Real Decreto 243/2022, de 5 de abril, CCL3, STEM2, CD1, CPSAA2, CC1, CC2, 
@@ -20287,7 +19915,6 @@ Cuando los proyectos son colectivos, es important e planificar igual mente la pa
 los distintos miembros del grupo, val orando sus debilidades y fortalezas, con el fin de integrar las 
 
 MARTES 26 DE JULIO DE 2022Pág. 376 B.O.C.M. Núm. 176
-BOCM-20220726-1
 BOLETÍN OFICIAL DE LA COMUNIDAD DE MADRIDBOCM
 experiencias compartidas y favorec er unas dinámicas de trab ajo eficaces, respetuosas, 
 empáticas y enriquecedoras. 
@@ -20341,7 +19968,6 @@ también el momento de evaluar el respeto hacia la propiedad intelectual del  pr
 como de establecer paralelismos entre el  trabajo realizado y a otros similares pertenecientes al 
 
 MARTES 26 DE JULIO DE 2022B.O.C.M. Núm. 176 Pág. 377
-BOCM-20220726-1
 BOLETÍN OFICIAL DE LA COMUNIDAD DE MADRIDBOCM
 mundo real, reflexionando sobre las posibilidades profesionales derivadas del conocimiento y 
 aplicación solvente de las diferentes técnicas gráfico-plásticas, lo que supondrá un incentivo en el 
@@ -20393,7 +20019,6 @@ produzcan diferencias de opinión entre los miembros del grupo.
 materiales reciclados cuando sea posible. 
 
 MARTES 26 DE JULIO DE 2022Pág. 378 B.O.C.M. Núm. 176
-BOCM-20220726-1
 BOLETÍN OFICIAL DE LA COMUNIDAD DE MADRIDBOCM
 Competencia específica 5. 
 5.1. Evaluar los diferentes productos gráfico- plásticos, argumentando con la terminología 
@@ -20446,7 +20071,6 @@ trabajos.
 ‒ Estampación plana. Método planográfico. Litografí a. Método permeográfico. Serigrafía. 
 
 MARTES 26 DE JULIO DE 2022B.O.C.M. Núm. 176 Pág. 379
-BOCM-20220726-1
 BOLETÍN OFICIAL DE LA COMUNIDAD DE MADRIDBOCM
 Método electrónico. Copy art. 
 ‒ Análisis técnico y procedimental de obr a gráfica realizada con técnicas de grabado y 
@@ -20497,7 +20121,6 @@ una actitud de compromiso creciente. De este modo, se favorece la creación de v
 entorno educativo y otros sectores sociales, económicos o de investigación. 
 
 MARTES 26 DE JULIO DE 2022Pág. 380 B.O.C.M. Núm. 176
-BOCM-20220726-1
 BOLETÍN OFICIAL DE LA COMUNIDAD DE MADRIDBOCM
 A tenor de este enfoque competen cial y práctico, la propu esta de actividades ligadas a 
 proyectos interdisciplinares en las que el alumnado pue da explorar, descubrir, experimentar y 
@@ -20549,7 +20172,6 @@ para fabricar productos de calidad que den r espuesta a problemas y tareas plant
 desde un enfoque responsable y ético. 
 
 MARTES 26 DE JULIO DE 2022B.O.C.M. Núm. 176 Pág. 381
-BOCM-20220726-1
 BOLETÍN OFICIAL DE LA COMUNIDAD DE MADRIDBOCM
 La competencia se refiere a la capacidad para seleccionar lo s materiales más adecuados 
 para la creación de productos en fu nción de sus caracterí sticas, así como realizar la evaluación 
@@ -20604,7 +20226,6 @@ científicas. Esta competencia específica tiene como objetivo, por un lado, que
 las herramientas adquiridas en matemáticas  o los fundamentos de la física o la química para 
 
 MARTES 26 DE JULIO DE 2022Pág. 382 B.O.C.M. Núm. 176
-BOCM-20220726-1
 BOLETÍN OFICIAL DE LA COMUNIDAD DE MADRIDBOCM
 calcular magnitudes y va riables de problemas mecánicos, el éctricos, electrónicos, automatización 
 o para desarrollar programas, y por otro, que se utilice la experimentación, a través de montajes o 
@@ -20656,7 +20277,6 @@ Tecnología e Ingeniería I.
 Criterios de evaluación. 
 
 MARTES 26 DE JULIO DE 2022B.O.C.M. Núm. 176 Pág. 383
-BOCM-20220726-1
 BOLETÍN OFICIAL DE LA COMUNIDAD DE MADRIDBOCM
 Competencia específica 1. 
 1.1. Investigar y diseñar proyectos  que muestren de forma gráfica la creación y mejora de un 
@@ -20708,7 +20328,6 @@ paso a paso de la ejecución de un programa a partir del estado inicial y predic
 final tras su ejecución. 
 
 MARTES 26 DE JULIO DE 2022Pág. 384 B.O.C.M. Núm. 176
-BOCM-20220726-1
 BOLETÍN OFICIAL DE LA COMUNIDAD DE MADRIDBOCM
 Competencia específica 6. 
 6.1. Evaluar los distintos sistemas  de generación de energía eléc trica y mercado s energéticos, 
@@ -20760,7 +20379,6 @@ D. Sistemas eléctricos y electrónicos
 /g120 Interpretación y representación esquematiz ada de circuitos eléctricos. 
 
 MARTES 26 DE JULIO DE 2022B.O.C.M. Núm. 176 Pág. 385
-BOCM-20220726-1
 BOLETÍN OFICIAL DE LA COMUNIDAD DE MADRIDBOCM
 /g120 Cálculo, montaje y experimentación física  o simulada de circuitos eléctricos. 
 /g120 Motores eléctricos de corriente c ontinua: características y funcionamiento. 
@@ -20812,7 +20430,6 @@ Competencia específica 1.
 forma continua, utilizando modelos de gestión cooperativos y flexibles. 
 
 MARTES 26 DE JULIO DE 2022Pág. 386 B.O.C.M. Núm. 176
-BOCM-20220726-1
 BOLETÍN OFICIAL DE LA COMUNIDAD DE MADRIDBOCM
 1.2. Comunicar y difundir de forma cl ara y comprensible proyectos elaborados y presentarlos con 
 la documentación técnica necesaria. 
@@ -20864,7 +20481,6 @@ A. Proyectos de investigación y desarrollo.
 seguimiento y evaluación de los resultados. 
 
 MARTES 26 DE JULIO DE 2022B.O.C.M. Núm. 176 Pág. 387
-BOCM-20220726-1
 BOLETÍN OFICIAL DE LA COMUNIDAD DE MADRIDBOCM
 /g120 Documentación técnica de un proye cto: memorias, pliegos de co ndiciones, presupuestos 
 y planos. Características y contenido básico. 
@@ -20918,7 +20534,6 @@ D. Sistemas eléctricos y electrónicos.
 /g120 Valores instantáneos, medios y efic aces. Diagrama de Fresnel. 
 
 MARTES 26 DE JULIO DE 2022Pág. 388 B.O.C.M. Núm. 176
-BOCM-20220726-1
 BOLETÍN OFICIAL DE LA COMUNIDAD DE MADRIDBOCM
 /g120 Ley de Ohm en corriente al terna. Impedancia, factor de potencia. Triángulo de potencias.  
 /g120 Cálculo, montaje o simulación.  
@@ -20968,7 +20583,6 @@ Primero, el volumen se debe contemplar desde una  perspectiva de observac ión, 
 cómo el sujeto entiende la realidad de los objetos tridimensionales. 
 
 MARTES 26 DE JULIO DE 2022B.O.C.M. Núm. 176 Pág. 389
-BOCM-20220726-1
 BOLETÍN OFICIAL DE LA COMUNIDAD DE MADRIDBOCM
 En segundo lugar, desde una perspectiva de síntesis, es decir, de cómo se pueden simplificar 
 y representar los objetos tridimensionales aplicando los conocimientos del dibujo técnico y artístico 
@@ -21024,7 +20638,6 @@ orden interno que organiza esas formas, e intenta rá descubrir alguna estructur
 puede aplicar a las mismas. Fi nalmente, se quedará con uno de los objetos seleccionados y 
 
 MARTES 26 DE JULIO DE 2022Pág. 390 B.O.C.M. Núm. 176
-BOCM-20220726-1
 BOLETÍN OFICIAL DE LA COMUNIDAD DE MADRIDBOCM
 elaborará una composición tridimens ional con arcilla o poliestireno, a par tir de los esquemas o 
 estructuras descubiertas previamente, en la que procurará reflejar esa impresión de armonía que 
@@ -21077,7 +20690,6 @@ alternativas a la representaci ón de objetos y obras tridimens ionales, obviand
 estilísticos o decorativos. De este modo, puede generar, en un proceso de abstracción, objetos 
 
 MARTES 26 DE JULIO DE 2022B.O.C.M. Núm. 176 Pág. 391
-BOCM-20220726-1
 BOLETÍN OFICIAL DE LA COMUNIDAD DE MADRIDBOCM
 volumétricos dotados de signific ado, atendiendo a la relación entre imagen y contenido, así como 
 entre forma, estructura y función comunicativa, con distintos niveles de iconicidad. 
@@ -21131,7 +20743,6 @@ resto del equipo y respetando la s realizaciones y opini ones de los demás. As�
 valorar la metodología proyectual como una forma de desarrollar el pensamiento divergente para 
 
 MARTES 26 DE JULIO DE 2022Pág. 392 B.O.C.M. Núm. 176
-BOCM-20220726-1
 BOLETÍN OFICIAL DE LA COMUNIDAD DE MADRIDBOCM
 la resolución creativa de problemas, así como identificar el trabaj o en equipo como fuente de 
 riqueza creativa y favorecer su desarrollo personal y su autoestima. 
@@ -21183,7 +20794,6 @@ los objetivos planteados y el  producto final obtenido, y explicando las posible
 entre ellos. 
 
 MARTES 26 DE JULIO DE 2022B.O.C.M. Núm. 176 Pág. 393
-BOCM-20220726-1
 BOLETÍN OFICIAL DE LA COMUNIDAD DE MADRIDBOCM
 Contenidos. 
 A. Técnicas y materiales de configuración. 
@@ -21238,7 +20848,6 @@ ideación y realización de obra original.
 producción y recepción de obras de arte volumétricas. 
 
 MARTES 26 DE JULIO DE 2022Pág. 394 B.O.C.M. Núm. 176
-BOCM-20220726-1
 BOLETÍN OFICIAL DE LA COMUNIDAD DE MADRIDBOCM
 ‒ El respeto de la propiedad intelectu al. Tradición, inspiración, plagio y apropiación. 
 ‒ Diferentes perspectivas para el análisis. Fuentes bibliográficas y digitales  de acceso a obras 
@@ -21272,7 +20881,6 @@ materia. Estudios profesionales vinculados con los conocimientos de la materia.
   
 
 MARTES 26 DE JULIO DE 2022B.O.C.M. Núm. 176 Pág. 395
-BOCM-20220726-1
 http://www.bocm.es BOLETÍN OFICIAL DE LA COMUNIDAD DE MADRID D. L.: M. 19.462-1983      ISSN 1989-4791
 BOLETÍN OFICIAL DE LA COMUNIDAD DE MADRIDBOCM
 
