@@ -29,7 +29,6 @@ relaciones:
   afecta_a_articulos: []
 ---
 
-
 # Decreto 32/2019, de 9 de abril, por el que se establece el marco regulador de la convivencia en los centros docentes de la Comunidad de Madrid
 
 ## Preámbulo

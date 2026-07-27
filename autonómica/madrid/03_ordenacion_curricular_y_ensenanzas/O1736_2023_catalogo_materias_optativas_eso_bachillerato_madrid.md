@@ -28,6 +28,7 @@ relaciones:
   modificado_por: []
   afecta_a_articulos: []
 ---
+
 ## Preámbulo
 
 # Orden 1736/2023, de 23 de mayo, por la que se aprueba el catálogo de materias optativas en ESO y Bachillerato

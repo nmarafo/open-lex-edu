@@ -28,6 +28,7 @@ relaciones:
   modificado_por: []
   afecta_a_articulos: []
 ---
+
 ## Preámbulo
 
 # Orden 457/2023, de 16 de febrero, sobre autonomía pedagógica y de organización en el Bachillerato

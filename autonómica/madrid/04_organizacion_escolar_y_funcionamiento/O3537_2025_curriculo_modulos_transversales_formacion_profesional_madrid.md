@@ -26,31 +26,150 @@ relaciones:
   afecta_a_articulos: []
 ---
 
-
 ## Preámbulo
 
-La presente Orden 3537/2025 de la Comunidad de Madrid regula el marco específico en materia de formación profesional dentro del ámbito educativo autonómico. Conforme a las competencias atribuidas en el Estatuto de Autonomía de la Comunidad de Madrid y en desarrollo de la legislación básica del Estado, se dictan las disposiciones organizativas y procedimentales para su aplicación en todos los centros docentes de la región.
+## Artículo 1. Objeto
 
-## Artículo 1. Objeto y ámbito de aplicación
+MIÉRCOLES 20 DE AGOSTO DE 2025B.O.C.M. Núm. 198 Pág. 9
+BOCM-20250820-2
+BOLETÍN OFICIAL DE LA COMUNIDAD DE MADRIDBOCM
+I. COMUNIDAD DE MADRID
+B) Autoridades y Personal
+Consejería de Economía, Hacienda y Empleo
+2 ORDEN de 7 de agosto de 2025, de la Consejera de Economía, Hacienda y Em-
+pleo, por la que se resuelve la convocatoria aprobada por Orden de 9 de mayo
+de 2025 (BOLETÍN OFICIAL DE LA COMUNIDAD DE MADRID de 22 de mayo), para
+la provisión de puestos de trabajo vacantes en la citada Consejería por el pro-
+cedimiento de Libre Designación.
+Por Orden de la Consejería de Economía, Hacienda y Empleo de 9 de mayo de 2025
+(B
+OLETÍN OFICIAL DE LA COMUNIDAD DE MADRID de 22 de mayo), se aprobó convocato-
+ria pública para la provisión de puestos de trabajo vacantes en la citada Consejería por el
+procedimiento de Libre Designación.
+En el procedimiento de provisión se han cumplido las normas de la Ley 1/1986, de 10
+de abril, de la Función Pública de la Comunidad de Madrid (B
+OLETÍN OFICIAL DE LA CO-
+MUNIDAD DE MADRID de 24 de abril); la Orden 923/1989, de 20 de abril, de la Consejería
+de Hacienda, por la que se aprueban las bases generales que han de regir en las convocato-
+rias para provisión de puestos por los sistemas de Concurso de Méritos y Libre Designación
+(B
+OLETÍN OFICIAL DE LA COMUNIDAD DE MADRID de 27 de abril) y, en lo no previsto por
+las anteriores, el Real Decreto 364/1995, de 10 de marzo, por el que se aprueba el Reglamen-
+to General de Ingreso del Personal al Servicio de la Administración General del Estado y de
+Provisión de Puestos de Trabajo y Promoción Profesional de los Funcionarios Civiles de la
+Administración General del Estado (“Boletín Oficial del Estado” de 10 de abril), así como
+las demás prescripciones contenidas en las bases de convocatoria correspondientes.
+De acuerdo con la propuesta formulada por la unidad responsable y el informe favora-
+ble emitido por la Consejería de Economía, Hacienda y Empleo, verificado que las candi-
+datas propuestas cumplen los requisitos y especificaciones exigidos en la convocatoria, en
+virtud de la competencia atribuida en el artículo 49.2 de la Ley 1/1986, de 10 de abril, de la
+Función Pública de la Comunidad de Madrid,
+RESUELVO
+Primero
+Objeto
+Se adjudican los puestos de trabajo a los funcionarios que figuran en el Anexo.
+Segundo
+Plazo de toma de posesión
+1. El plazo para tomar posesión del nuevo destino obtenido será de tres días. Dicho
+plazo empezará a contarse a partir del día siguiente al del cese, que deberá efectuarse den-
+tro de los tres días siguientes al de la publicación de la presente resolución, salvo que el cese
+haya sido formalmente diferido o aplazado por el órgano competente.
+El cómputo del plazo posesorio se iniciará cuando finalicen los permisos o licencias
+que, en su caso, hayan sido concedidas a los interesados, salvo que, por causas justificadas,
+el órgano que los concedió acuerde suspender el disfrute de los mismos.
+2. Si la resolución comporta el reingreso al servicio activo, el plazo de toma de po-
+sesión será el que establezca la orden de reingreso, conforme a lo previsto en la normativa
+aplicable.
+Tercero
+Recursos
+La presente Orden pone fin a la vía administrativa y contra la misma podrá interponer-
+se, con carácter potestativo, recurso de reposición en el plazo de un mes ante el mismo órga-
 
-1. La presente Orden tiene por objeto regular los principios, criterios y procedimientos relativos a formación profesional en el ámbito del sistema educativo de la Comunidad de Madrid.
-2. Su ámbito de aplicación comprende a los centros docentes públicos, concertados y privados autorizados que impartan enseñanzas no universitarias en la Comunidad de Madrid.
+MIÉRCOLES 20 DE AGOSTO DE 2025Pág. 10 B.O.C.M. Núm. 198
+BOCM-20250820-2
+BOLETÍN OFICIAL DE LA COMUNIDAD DE MADRIDBOCM
+no que la ha dictado, o bien recurso contencioso-administrativo, en el plazo de dos meses, ante
+los Juzgados de lo Contencioso-Administrativo de Madrid, ambos plazos contados a partir del
+día siguiente a su publicación en el B OLETÍN OFICIAL DE LA COMUNIDAD DE MADRID,s i n
+perjuicio de cualquier otro recurso que se estime procedente en derecho, todo ello de confor-
+midad con lo dispuesto en los artículos 123 y 124 de la Ley 39/2015, de 1 de octubre, del Pro-
+cedimiento Administrativo Común de las Administraciones Públicas, y 46 de la Ley 29/1998,
+de 13 de julio, Reguladora de la Jurisdicción Contencioso-Administrativa.
+Dado en Madrid, a 7 de agosto de 2025.—La Consejera de Economía, Hacienda y Em-
+pleo, por delegación, la Secretaria General Técnica (Orden de 17 de abril de 2024, BOLETÍN
+OFICIAL DE LA COMUNIDAD DE MADRID de 7 de mayo de 2024), P. S. (Orden de la Con-
+sejería de Economía, Hacienda y Empleo de 31 de julio de 2025), la Subdirectora General
+de Régimen Jurídico y Desarrollo Normativo, Marina Serrano Álvarez.
 
-## Artículo 2. Principios generales
-
-1. La aplicación de lo dispuesto en esta disposición se regirá por los principios de calidad, equidad, transparencia y eficacia en la gestión educativa.
-2. Los equipos directivos y los órganos de gobierno de los centros adaptarán su autonomía pedagógica y organizativa a lo establecido en esta norma.
-
-## Artículo 3. Procedimiento y garantías
-
-1. La Consejería competente en materia de educación arbitrará los recursos necesarios para la correcta implantación y seguimiento de las medidas establecidas.
-2. Los interesados dispondrán de los canales y recursos de alzada y reposición legalmente previstos ante las resoluciones dictadas en aplicación de la presente disposición.
-
-## Disposición adicional primera. Instrucciones de desarrollo
-
-La Dirección General competente dictará cuantas instrucciones sean necesarias para la aplicación, desarrollo y ejecución de lo establecido en la presente disposición.
-
-## Disposición final única. Entrada en vigor
-
-La presente disposición entrará en vigor el día siguiente al de su publicación en el Boletín Oficial de la Comunidad de Madrid (BOCM).
-
+MIÉRCOLES 20 DE AGOSTO DE 2025B.O.C.M. Núm. 198 Pág. 11
+BOCM-20250820-2
+http://www.bocm.es BOLETÍN OFICIAL DE LA COMUNIDAD DE MADRID D. L.: M. 19.462-1983      ISSN 1989-4791
+BOLETÍN OFICIAL DE LA COMUNIDAD DE MADRIDBOCM
+RESOLUCIÓN DE CONVOCATORIA DE PROVISIÓN DE PUESTOS POR EL SISTEMA DE LIBRE DESIGNACIÓN
+80490
+80491
+CONSEJERIA ECONOMÍA, HACIENDA Y EMPLEO
+VICECONSEJERIA HACIENDA Y FUNCIÓN PÚBLICA
+DIRECCION GENERAL PRESUPUESTOS
+SUBDIRECCION GENERAL MECANISMO DE RECUPERACIÓN Y 
+RESILIENCIA
+AREA EVALUACION Y CONTROL DEL MECANISMO DE 
+RECUPERACION Y RESILIENCIA
+CONSEJERIA ECONOMÍA, HACIENDA Y EMPLEO
+VICECONSEJERIA HACIENDA Y FUNCIÓN PÚBLICA
+DIRECCION GENERAL PRESUPUESTOS
+SUBDIRECCION GENERAL MECANISMO DE RECUPERACIÓN Y 
+RESILIENCIA
+AREA EVALUACION Y CONTROL DEL MECANISMO DE 
+RECUPERACION Y RESILIENCIA
+SERVICIO EVALUACION Y CONTROL DEL MECANISMO DE 
+RECUPERACION Y RESILIENCIA
+Puesto de Trabajo:
+Puesto de Trabajo:
+JEFE DE AREA  EVALUACION Y CONTROL 
+MECANISMO DE RE
+SERV. EVALUACION Y CONTROL MECANISMO
+DE RECUPERACI
+Denominación     :
+Denominación     :
+29
+26
+A
+A / B
+Grupo                :
+Grupo                :
+N.C.D.               :
+N.C.D.               :
+  41.058,24
+  28.167,36
+C. Específico      :
+C. Específico      :
+78777
+***0444**
+***4864**
+CASANOVA GARCIA,ANA
+TIRADOS GARCIA,MIGUEL 
+ANGEL
+Cód. identificación:
+Cód. identificación:
+Apellidos y Nombre:
+Apellidos y Nombre:
+CONSEJERIA MEDIO AMBIENTE, AGRICULTURA 
+E INTERIOR
+SECRETARIA GENERAL TÉCNICA
+SUBDIRECCION GENERAL GESTIÓN 
+ECONÓMICO-ADMINISTRATIVA
+AREA APOYO A LA GESTIÓN DE FONDOS 
+EUROPEOS
+Puesto de Trabajo:
+JEFE DE AREA DE APOYO A 
+LA GESTION DE FONDOS 
+EUROP
+Denominación     :
+29
+Grupo                 :
+N.C.D.                :
+  41.058,24C. Específico       : 
+PUESTO ADJUDICADO ADJUDICATARIO PUESTO LIBERADO
+A
+(03/13.116/25)

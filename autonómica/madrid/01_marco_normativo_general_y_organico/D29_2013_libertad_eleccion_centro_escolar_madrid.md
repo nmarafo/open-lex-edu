@@ -25,6 +25,7 @@ relaciones:
   modificado_por: []
   afecta_a_articulos: []
 ---
+
 ## Preámbulo
 
 ## Artículo 1. Objeto

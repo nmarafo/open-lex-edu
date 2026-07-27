@@ -28,6 +28,7 @@ relaciones:
   modificado_por: []
   afecta_a_articulos: []
 ---
+
 ## Preámbulo
 
 MARTES 7 DE FEBRERO DE 2023B.O.C.M. Núm. 32 Pág. 21

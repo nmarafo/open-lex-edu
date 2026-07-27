@@ -29,7 +29,6 @@ relaciones:
   afecta_a_articulos: []
 ---
 
-
 Texto consolidado
 : «Última actualización, publicada el 29/06/2010»
 

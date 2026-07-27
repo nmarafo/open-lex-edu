@@ -29,7 +29,6 @@ relaciones:
   afecta_a_articulos: []
 ---
 
-
 JUEVES 9 DE JUNIO DE 2022B.O.C.M. Núm. 136 Pág. 1
 SUMARIO
 BOLETÍN OFICIAL

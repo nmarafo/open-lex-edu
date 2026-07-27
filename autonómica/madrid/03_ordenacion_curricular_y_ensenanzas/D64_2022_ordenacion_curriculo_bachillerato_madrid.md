@@ -29,7 +29,6 @@ relaciones:
   afecta_a_articulos: []
 ---
 
-
 MARTES 26 DE JULIO DE 2022B.O.C.M. Núm. 176 Pág. 1
 SUMARIO
 BOLETÍN OFICIAL

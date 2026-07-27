@@ -28,6 +28,7 @@ relaciones:
   modificado_por: []
   afecta_a_articulos: []
 ---
+
 ## Preámbulo
 
 # Decreto 21/2025, de 21 de mayo, por el que se establece la ordenación del Sistema de Formación Profesional en la Comunidad de Madrid

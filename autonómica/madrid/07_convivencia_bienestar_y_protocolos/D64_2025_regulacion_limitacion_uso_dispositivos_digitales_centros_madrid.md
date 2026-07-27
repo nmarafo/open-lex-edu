@@ -28,6 +28,7 @@ relaciones:
   modificado_por: []
   afecta_a_articulos: []
 ---
+
 ## Preámbulo
 
 # Decreto 64/2025, de 23 de julio, por el que se regula y limita el uso de dispositivos digitales en centros educativos sostenidos con fondos públicos

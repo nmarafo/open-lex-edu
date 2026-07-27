@@ -29,7 +29,6 @@ relaciones:
   afecta_a_articulos: []
 ---
 
-
 # Resolución de 2 de diciembre de 2025, de instrucciones sobre admisión de alumnos para el curso 2026-2027
 
 ## Preámbulo

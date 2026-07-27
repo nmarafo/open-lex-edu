@@ -28,6 +28,7 @@ relaciones:
   modificado_por: []
   afecta_a_articulos: []
 ---
+
 ## Preámbulo
 
 MIÉRCOLES 25 DE JUNIO DE 2025B.O.C.M. Núm. 150 Pág. 1

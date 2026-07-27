@@ -28,6 +28,7 @@ relaciones:
   modificado_por: []
   afecta_a_articulos: []
 ---
+
 ## Preámbulo
 
 MIÉRCOLES 31 DE MAYO DE 2023Pág. 90 B.O.C.M. Núm. 128

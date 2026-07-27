@@ -28,6 +28,7 @@ relaciones:
   modificado_por: []
   afecta_a_articulos: []
 ---
+
 ## Preámbulo
 
 # Decreto 65/2022, de 20 de julio, por el que se establece la ordenación y el currículo de la Educación Secundaria Obligatoria en la Comunidad de Madrid

@@ -27,31 +27,60 @@ relaciones:
   afecta_a_articulos: []
 ---
 
-
 ## Preámbulo
 
-La presente Orden 460/2023 de la Comunidad de Madrid regula el marco específico en materia de educación infantil dentro del ámbito educativo autonómico. Conforme a las competencias atribuidas en el Estatuto de Autonomía de la Comunidad de Madrid y en desarrollo de la legislación básica del Estado, se dictan las disposiciones organizativas y procedimentales para su aplicación en todos los centros docentes de la región.
+# Orden 460/2023, de 17 de febrero, de la Consejería de Educación, Universidades, Ciencia y Portavocía, por la que se regula la organización, funcionamiento y evaluación en Educación Infantil
 
-## Artículo 1. Objeto y ámbito de aplicación
 
-1. La presente Orden tiene por objeto regular los principios, criterios y procedimientos relativos a educación infantil en el ámbito del sistema educativo de la Comunidad de Madrid.
-2. Su ámbito de aplicación comprende a los centros docentes públicos, concertados y privados autorizados que impartan enseñanzas no universitarias en la Comunidad de Madrid.
+## Artículo 1. Objeto
 
-## Artículo 2. Principios generales
-
-1. La aplicación de lo dispuesto en esta disposición se regirá por los principios de calidad, equidad, transparencia y eficacia en la gestión educativa.
-2. Los equipos directivos y los órganos de gobierno de los centros adaptarán su autonomía pedagógica y organizativa a lo establecido en esta norma.
-
-## Artículo 3. Procedimiento y garantías
-
-1. La Consejería competente en materia de educación arbitrará los recursos necesarios para la correcta implantación y seguimiento de las medidas establecidas.
-2. Los interesados dispondrán de los canales y recursos de alzada y reposición legalmente previstos ante las resoluciones dictadas en aplicación de la presente disposición.
-
-## Disposición adicional primera. Instrucciones de desarrollo
-
-La Dirección General competente dictará cuantas instrucciones sean necesarias para la aplicación, desarrollo y ejecución de lo establecido en la presente disposición.
-
-## Disposición final única. Entrada en vigor
-
-La presente disposición entrará en vigor el día siguiente al de su publicación en el Boletín Oficial de la Comunidad de Madrid (BOCM).
-
+LUNES 27 DE FEBRERO DE 2023Pág. 12 B.O.C.M. Núm. 49
+BOCM-20230227-1
+http://www.bocm.es BOLETÍN OFICIAL DE LA COMUNIDAD DE MADRID D. L.: M. 19.462-1983      ISSN 1989-4791
+BOLETÍN OFICIAL DE LA COMUNIDAD DE MADRIDBOCM
+I. COMUNIDAD DE MADRID
+B) Autoridades y Personal
+Vicepresidencia, Consejería de Educación y Universidades
+1 ACUERDO de 23 de febrero de 2023, del Consejo de Gobierno, por el que se
+cesa a doña Visitación López-Miranda González como vocal del Consejo de
+Ciencia y Tecnología de la Comunidad de Madrid, en representación de la Uni-
+versidad Rey Juan Carlos, y se nombra, en su sustitución, a don Fernando Enri-
+que García Muiña.
+La Comunidad de Madrid, de conformidad con lo establecido en el artículo 26.1.20 de
+su Estatuto de Autonomía, tiene competencia exclusiva en materia de investigación cientí-
+fica y técnica de interés para la Comunidad de Madrid.
+En virtud de lo previsto en el Estatuto, se promulgó la Ley 5/1998, de 7 de mayo, de
+Fomento de la Investigación Científica y la Innovación Tecnológica, que regula de forma
+global la actuación de los poderes públicos de la Comunidad de Madrid en materia de in-
+vestigación científica e innovación tecnológica.
+La citada Ley 5/1998, de 7 de mayo, determina que el Consejo de Ciencia y Tecnolo-
+gía estará integrado por representantes de las universidades, centros de investigación, em-
+presas y agentes sociales, fundaciones relacionadas con la materia y científicos de reconoci-
+do prestigio y experiencia en el ámbito de la investigación e innovación. Los representantes
+de las universidades serán designados por sus Rectores, siendo propuestos los restantes vo-
+cales del Consejo por la Asamblea de Madrid. Todos ellos deberán ser nombrados por el
+Consejo de Gobierno de la Comunidad de Madrid.
+De conformidad con la normativa reguladora de este órgano, el Rector de la Universi-
+dad Rey Juan Carlos ha propuesto la sustitución de doña Visitación López-Miranda Gon-
+zález, nombrada por Acuerdo de Consejo de Gobierno de 20 de enero de 2021, por don Fer-
+nando Enrique García Muiña.
+En virtud de todo lo señalado, de conformidad con lo dispuesto en el artículo 5.2 de la
+Ley 5/1998, de 7 de mayo, y de acuerdo con el artículo 50.2 de la Ley 1/1983, de 13 de di-
+ciembre, de Gobierno y Administración de la Comunidad de Madrid, el Consejo de Gobier-
+no de la Comunidad de Madrid, a propuesta del Vicepresidente, Consejero de Educación y
+Universidades, en su reunión del día 23 de febrero de 2023,
+ACUERDA
+Primero
+El cese de doña Visitación López-Miranda González como vocal del Consejo de Cien-
+cia y Tecnología de la Comunidad de Madrid, en representación de la Universidad Rey Juan
+Carlos, agradeciéndole los servicios prestados.
+Segundo
+El nombramiento, en su sustitución, de don Fernando Enrique García Muiña como vo-
+cal del Consejo de Ciencia y Tecnología de la Comunidad de Madrid, en representación de
+la Universidad Rey Juan Carlos.
+Madrid, a 23 de febrero de 2023.
+El Vicepresidente, Consejero de Educación y Universidades,
+ENRIQUE OSSORIO CRESPO
+La Presidenta,
+ISABEL DÍAZ AYUSO
+(03/3.262/23)

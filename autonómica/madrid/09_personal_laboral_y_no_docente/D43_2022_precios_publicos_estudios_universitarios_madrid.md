@@ -28,6 +28,7 @@ relaciones:
   modificado_por: []
   afecta_a_articulos: []
 ---
+
 ## Preámbulo
 
 # Decreto 43/2022, de 29 de junio, por el que se establecen los precios públicos por estudios universitarios en la Comunidad de Madrid
