@@ -13,8 +13,8 @@ boletin: BOCM
 numero_boletin: '86'
 estado: Vigente
 redaccion: original
-fuente_oficial: https://gestiona.comunidad.madrid/wleg_pub/servlet/Servidor?opcion=VerHtml&nmnorma=8095
-fuente_pdf_oficial: http://www.bocm.es/boletin/CM_Orden_BOCM/2013/04/12/BOCM-20130412-1.PDF
+fuente_oficial: https://www.bocm.es/boletin/CM_Orden_BOCM/2013/04/12/BOCM-20130412-1.PDF
+fuente_pdf_oficial: https://www.bocm.es/boletin/CM_Orden_BOCM/2013/04/12/BOCM-20130412-1.PDF
 clasificacion:
   categoria_canonica: 01_marco_normativo_general_y_organico
   subcategoria: Marco normativo general
@@ -30,10 +30,13 @@ relaciones:
   afecta_a_articulos: []
 ---
 
-
 ## Preámbulo
 
-B.O.C.M. Núm. 86
+**Decreto 29/2013, de 11 de abril, del Consejo de Gobierno, de libertad de elección de centro escolar en la Comunidad de Madrid**
+
+BOCM
+I. COMUNIDAD DE MADRID
+A) Disposiciones Generales
 Consejería de Educación, Juventud y Deporte
 1
 DECRETO 29/2013, de 11 de abril, del Consejo de Gobierno, de libertad de elec-
@@ -79,18 +82,18 @@ de abril de 2013,
 DISPONE
 
 # Capítulo I
+
 Disposiciones generales
 
 ## Artículo 1
-Objeto y ámbito de aplicación
 
+Objeto y ámbito de aplicación
 1.
 Este Decreto tiene por objeto establecer el régimen para el ejercicio de la libertad
 de elección de centro escolar sostenido con fondos públicos por parte de las familias, de for-
 ma que se garantice, en el ámbito de la Comunidad de Madrid, el derecho recogido en el ar-
 tículo 27 de la Constitución española.
-
-B.O.C.M. Núm. 86
+BOCM
 2.
 El presente Decreto será de aplicación en los centros docentes sostenidos con fon-
 dos públicos que imparten segundo ciclo de Educación Infantil, Educación Primaria, Edu-
@@ -98,8 +101,8 @@ cación Secundaria Obligatoria, Bachillerato y Educación Especial en el ámbito
 munidad de Madrid.
 
 ## Artículo 2
-Principios generales
 
+Principios generales
 La libertad de elección de centros docentes sostenidos con fondos públicos, que se
 ejercerá a través del proceso de admisión de alumnos, se fundamenta en los siguientes prin-
 cipios:
@@ -134,18 +137,19 @@ deberán facilitar la información necesaria para permitir una elección libre y
 ponsable por parte de las familias.
 
 # Capítulo II
+
 Ejercicio de la libertad de elección de centro
 
 ## Artículo 3
-Zona única educativa
 
+Zona única educativa
 La libertad de elección de un centro escolar sostenido con fondos públicos podrá ejer-
 cerse en todo el territorio de la Comunidad de Madrid, que queda configurada a tales efec-
 tos como una zona única educativa.
 
 ## Artículo 4
-Programación anual de la oferta educativa
 
+Programación anual de la oferta educativa
 1.
 Corresponde a la Consejería competente en materia de Educación garantizar la
 efectividad del derecho a la libre elección de centro educativo, mediante la programación
@@ -158,13 +162,12 @@ sos de admisión, sin perjuicio de los criterios establecidos en la Ley Orgánic
 de mayo, de Educación.
 
 ## Artículo 5
-Oferta de plazas escolares
 
+Oferta de plazas escolares
 1.
 La Administración educativa fijará, dentro de los límites legales permitidos, el nú-
 mero de alumnos por unidad escolar que se utilizará en el proceso de admisión. Cualquier
-
-B.O.C.M. Núm. 86
+BOCM
 modificación de dicho número de alumnos deberá ser autorizada por la Administración
 educativa.
 2.
@@ -179,8 +182,8 @@ en los términos que se establezca plazas para alumnos cuyas altas calificacione
 su excelencia académica.
 
 ## Artículo 6
-Adscripción de centros
 
+Adscripción de centros
 1.
 Con el fin de facilitar la continuidad en la escolarización de los alumnos, la Con-
 sejería competente en materia de Educación podrá determinar, en su caso, la adscripción de
@@ -201,8 +204,8 @@ neamente en enseñanzas regladas de música o de danza, o sigan programas deport
 alto rendimiento.
 
 ## Artículo 7
-Información a las familias
 
+Información a las familias
 1.
 Para favorecer la igualdad de oportunidades y promover la calidad y la adecuada
 elección de centro, la Consejería competente en materia de Educación pondrá a disposición
@@ -223,8 +226,8 @@ centro sostenido con fondos públicos se dará adecuada publicidad a la normativ
 ra del proceso de admisión de alumnos.
 
 ## Artículo 8
-Presentación de solicitudes de admisión
 
+Presentación de solicitudes de admisión
 1.
 Las solicitudes de plaza escolar se presentarán según el modelo oficial que esta-
 blezca la Consejería competente en materia de Educación.
@@ -235,15 +238,15 @@ bién podrán incluirse otros centros alternativos, por orden de preferencia.
 3.
 La solicitud de admisión será presentada en el centro que se elija como primera
 opción dentro del plazo que fije la Consejería competente en materia de Educación.
-
-B.O.C.M. Núm. 86
+BOCM
 
 # Capítulo III
+
 Criterios de admisión
 
 ## Artículo 9
-Criterios de admisión
 
+Criterios de admisión
 1.
 En aquellos centros docentes donde haya suficientes plazas disponibles para aten-
 der todas las solicitudes que se reciban serán admitidos todos los alumnos solicitantes.
@@ -315,14 +318,13 @@ h)
 Sorteo público ante el órgano competente para la admisión.
 
 ## Artículo 10
-Admisión de alumnos con necesidades educativas especiales en centros ordinarios,
 
+Admisión de alumnos con necesidades educativas especiales en centros ordinarios,
 unidades de Educación Especial en centros ordinarios o centros específicos
 de Educación Especial
 La escolarización de alumnos con necesidades educativas especiales en centros ordi-
 narios, en unidades de Educación Especial en centros ordinarios o en centros específicos de
-
-B.O.C.M. Núm. 86
+BOCM
 Educación Especial requerirá resolución de la Consejería competente en materia de Educa-
 ción, que tendrá en cuenta las preferencias de las familias, los dictámenes de los equipos de
 orientación educativa y psicopedagógica o departamentos de orientación y los informes es-
@@ -330,11 +332,12 @@ pecializados, así como las necesidades de los alumnos y las condiciones y posib
 atención de los centros.
 
 # Capítulo IV
+
 Participación de los centros
 
 ## Artículo 11
-Funciones de los centros en el proceso de admisión de alumnos
 
+Funciones de los centros en el proceso de admisión de alumnos
 1.
 Corresponderá a los órganos competentes de los centros escolares sostenidos con
 fondos públicos la gestión de la admisión de alumnos.
@@ -344,8 +347,8 @@ quier otro organismo, ya sea la Consejería competente en materia de Educación,
 tos o, en su caso, Servicios de Apoyo a la Escolarización.
 
 ## Artículo 12
-Admisión y matriculación de alumnos
 
+Admisión y matriculación de alumnos
 1.
 Los centros docentes sostenidos con fondos públicos llevarán a cabo el proceso de
 admisión y matriculación de alumnos previamente al inicio de cada curso escolar median-
@@ -367,8 +370,8 @@ podrá remitir la solicitud al correspondiente Servicio de Apoyo a la Escolariza
 milia lo solicita.
 
 ## Artículo 13
-Servicios de Apoyo a la Escolarización
 
+Servicios de Apoyo a la Escolarización
 1.
 La Consejería competente en materia de Educación determinará el número y la
 composición de los Servicios de Apoyo a la Escolarización, que estarán organizados de
@@ -391,15 +394,15 @@ que lo regulan y propuesta a la Administración educativa de las medidas que est
 men adecuadas.
 d)
 Cualesquiera otras que determine la Consejería competente en materia de Educación.
-
-B.O.C.M. Núm. 86
+BOCM
 
 # Capítulo V
+
 Garantías de la libertad de elección de centro
 
 ## Artículo 14
-Recursos y reclamaciones
 
+Recursos y reclamaciones
 1.
 Los acuerdos y decisiones sobre admisión de alumnos podrán ser objeto, según
 corresponda, de recurso de alzada o reclamación ante el correspondiente Director de Área
@@ -452,8 +455,7 @@ La Consejera de Educación, Juventud y Deporte,
 LUCÍA FIGAR DE LACALLE
 El Presidente,
 IGNACIO GONZÁLEZ GONZÁLEZ
-
-B.O.C.M. Núm. 86
+BOCM
 ANEXO I
 BAREMO DE ADMISIÓN DE ALUMNOS EN CENTROS SOSTENIDOS
 CON FONDOS PÚBLICOS QUE IMPARTEN SEGUNDO CICLO
@@ -522,8 +524,7 @@ Mayor puntuación en el apartado de otra circunstancia acordada por el centro se
 gún criterios públicos y objetivos.
 8.
 Sorteo público ante el Consejo Escolar del centro.
-
-B.O.C.M. Núm. 86
+BOCM
 ANEXO II
 BAREMO DE ADMISIÓN DE ALUMNOS PARA CURSAR EL BACHILLERATO
 SOSTENIDO CON FONDOS PÚBLICOS
@@ -593,10 +594,9 @@ Mayor puntuación obtenida en el apartado de hijo o hermano de antiguo alumno
 del centro solicitado.
 6.
 Mayor puntuación obtenida en el apartado de familia numerosa.
-
-B.O.C.M. Núm. 86
 http://www.bocm.es
 D. L.: M. 19.462-1983      ISSN 1989-4791
+BOCM
 7.
 Mayor puntuación obtenida en el apartado de renta de la unidad familiar.
 8.

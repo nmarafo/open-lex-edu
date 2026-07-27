@@ -31,11 +31,13 @@ relaciones:
   afecta_a_articulos: []
 ---
 
-**Decreto 32/2019, de 9 de abril, por el que se establece el marco regulador de la convivencia en los centros docentes de la Comunidad de Madrid**
-
 ## Preámbulo
 
-B.O.C.M. Núm. 86
+**Decreto 32/2019, de 9 de abril, por el que se establece el marco regulador de la convivencia en los centros docentes de la Comunidad de Madrid**
+
+BOCM
+I. COMUNIDAD DE MADRID
+A) Disposiciones Generales
 Consejería de Transportes, Vivienda e Infraestructuras
 2
 DECRETO 35/2019, de 9 de abril, del Consejo de Gobierno, por el que se modifi-
@@ -90,8 +92,7 @@ permiten garantizar en todo caso los derechos de los usuarios, ha parecido conve
 blecer la posibilidad de que los servicios previamente contratados puedan ser realizados con
 contratación por plaza y pago individual. Asimismo, en ellos las tarifas tendrán el carácter
 de máximas de forma que el usuario podrá conocer el precio del servicio antes de su realiza-
-
-B.O.C.M. Núm. 86
+BOCM
 ción y se podrá recoger a los viajeros en municipios distintos de aquellos en los que se en-
 cuentran domiciliadas las autorizaciones siempre que el destino del servicio se encuentre en
 el municipio en el que está domiciliada la autorización de transporte interurbana.
@@ -152,8 +153,7 @@ cupos o contingentes específicos, conforme a los cuales la relación resultante
 ro de habitantes de derecho sea inferior a los límites establecidos en el apartado anterior, en
 el marco de un plan de reordenación del sector que contemple la amortización de parte de las
 existentes, o cuando se hayan aprobado normas limitativas a su plena utilización.
-
-B.O.C.M. Núm. 86
+BOCM
 Asimismo, en los casos en que las circunstancias existentes entre la oferta y la deman-
 da de los servicios de transporte público de viajeros en vehículo de turismo lo aconsejen al
 existir un desequilibrio entre ambas, los municipios podrán establecer planes de amortiza-
@@ -232,8 +232,7 @@ Documentación de las solicitudes de licencia
 1.
 Para la obtención de la licencia de autotaxi, junto a la correspondiente solicitud,
 se acreditarán los siguientes datos o documentos salvo que ya consten en poder de la Admi-
-
-B.O.C.M. Núm. 86
+BOCM
 nistración o el solicitante haya expresado su consentimiento para que sean consultados o re-
 cabados por la Administración, presumiéndose que los interesados autorizan dicha consul-
 ta u obtención cuando no conste su oposición expresa al respecto:
@@ -306,8 +305,7 @@ ocasión del transporte.
 Los municipios podrán exigir, además, en la correspondiente Ordenanza, todos aque-
 llos datos o documentos que estimen precisos para comprobar el cumplimiento de los re-
 quisitos que hayan establecido conforme a lo dispuesto en el artículo 10.2”.
-
-B.O.C.M. Núm. 86
+BOCM
 Seis.
 Se modifica el segundo párrafo del apartado 1 del artículo 16 que queda redac-
 tado en los siguientes términos:
@@ -379,8 +377,7 @@ El artículo 22 queda redactado en los siguientes términos:
 Número de plazas
 El número de plazas de los vehículos a los que hayan de referirse las licencias de auto-
 taxi no podrá ser superior a nueve incluida la del conductor, debiendo figurar dicha capaci-
-
-B.O.C.M. Núm. 86
+BOCM
 dad en el permiso de circulación del vehículo conforme a la legislación en vigor en materia
 de tráfico.
 Los vehículos adaptados, de acuerdo a la normativa vigente en materia de accesibilidad,
@@ -449,8 +446,7 @@ b)
 No padecer enfermedad infectocontagiosa o impedimento físico o psíquico que
 imposibilite o dificulte el normal ejercicio de la profesión, así como no ser consu-
 midor habitual de estupefacientes o bebidas alcohólicas.
-
-B.O.C.M. Núm. 86
+BOCM
 c)
 No desempeñar simultáneamente otros trabajos que afecten a su capacidad física
 para la conducción o que repercutan negativamente sobre la seguridad vial.
@@ -524,8 +520,7 @@ A fin de garantizar el cumplimiento del régimen tarifario, en los servicios en 
 las tarifas tengan carácter de máximas, el precio se calculará en base a los parámetros uti-
 lizados, por el Ayuntamiento de que se trate, para calcular las rutas en este tipo de servi-
 cios, que los facilitará a todos aquéllos que se los requieran, velando por su buen uso.
-
-B.O.C.M. Núm. 86
+BOCM
 En todo caso, en el módulo luminoso del vehículo se visualizará que el mismo realiza
 un servicio previamente contratado.
 En ningún caso, cualquiera que sea el servicio realizado se podrá exigir el pago de su-
@@ -603,8 +598,7 @@ El servicio se considerará iniciado en todo caso en el momento y lugar de reco-
 gida del usuario, excepto cuando se trate de un servicio previamente contratado por radio-
 taxi, teléfono o cualquier medio telemático, que se considerará iniciado en el lugar de par-
 tida del vehículo”.
-
-B.O.C.M. Núm. 86
+BOCM
 Veintidós.
 Se modifica el primer párrafo del artículo 46 que queda redactado en los
 siguientes términos:
@@ -677,8 +671,7 @@ c)
 La manipulación del taxímetro o de sus elementos, o de otros instrumentos de con-
 trol que sea obligatorio llevar en el vehículo, con objeto de alterar su funciona-
 miento o modificar sus mediciones.
-
-B.O.C.M. Núm. 86
+BOCM
 d)
 La negativa u obstrucción a la actuación de los órganos municipales competentes,
 de los Servicios de Inspección o de los Cuerpos encargados de la vigilancia del
@@ -749,8 +742,7 @@ servicios que las ordenanzas determinen.
 que, en su caso, se establezcan por los municipios.
 7.a Las condiciones técnicas y de seguridad exigibles al vehículo adscrito a la li-
 cencia, así como el color de la pintura exterior y los distintivos previstos, en
-
-B.O.C.M. Núm. 86
+BOCM
 cada caso, por los distintos municipios. Se considerará, asimismo, incluida
 en esta condición la prestación del servicio con un vehículo que cumpla las
 prescripciones técnicas sobre accesibilidad de personas con movilidad redu-
@@ -818,10 +810,9 @@ Color y distintivos de los vehículos
 Los titulares de vehículos con licencia municipal de autotaxi deberán adecuar sus
 vehículos a lo que se dispone en el artículo 25 en el plazo máximo de dos años, contados
 desde la entrada en vigor del presente Decreto.
-
-B.O.C.M. Núm. 86
 http://www.bocm.es
 D. L.: M. 19.462-1983      ISSN 1989-4791
+BOCM
 
 ## DISPOSICIÓN TRANSITORIA SEGUNDA
 
