@@ -1,24 +1,28 @@
 ---
 id: norm-mad-d29-2013
-titulo: "Decreto 29/2013, de 11 de abril, del Consejo de Gobierno, de libertad de elección de centro escolar en la Comunidad de Madrid"
+titulo: Decreto 29/2013, de 11 de abril, del Consejo de Gobierno, de libertad de elección
+  de centro escolar en la Comunidad de Madrid
 jurisdiccion: Madrid
 ambito: Autonómico
-organo_emisor: Consejería de Educación, Ciencia y Universidades de la Comunidad de Madrid
+organo_emisor: Consejería de Educación, Juventud y Deporte
 tipo_disposicion: Decreto
-numero_disposicion: "29/2013"
-fecha_disposicion: "2013-04-11"
-fecha_publicacion: "2013-04-12"
+numero_disposicion: 29/2013
+fecha_disposicion: '2013-04-11'
+fecha_publicacion: '2013-04-12'
 boletin: BOCM
+numero_boletin: '86'
 estado: Vigente
 redaccion: original
-fuente_oficial: "https://www.bocm.es"
+fuente_oficial: https://gestiona.comunidad.madrid/wleg_pub/servlet/Servidor?opcion=VerHtml&nmnorma=8095
+fuente_pdf_oficial: http://www.bocm.es/boletin/CM_Orden_BOCM/2013/04/12/BOCM-20130412-1.PDF
 clasificacion:
   categoria_canonica: 01_marco_normativo_general_y_organico
-  subcategoria: "Marco normativo general"
+  subcategoria: Marco normativo general
 tags:
-  - libertad_eleccion
-  - centros_docentes
-  - madrid
+- libertad_eleccion
+- admision_alumnado
+- centros_docentes
+- madrid
 relaciones:
   desarrolla: []
   modifica_a: []
@@ -26,154 +30,578 @@ relaciones:
   afecta_a_articulos: []
 ---
 
+
 ## Preámbulo
 
-## Artículo 1. Objeto
-
-Entre las funciones que el artículo 3.f) de la Ley 39/1995, de Organización del CIS, atribuye al Centro de Investigaciones Sociológicas está la de contribuir a la formación de investigadores en ciencias sociales. Por ello, la Presidencia del mismo ha resuelto convocar el XXII Curso de Posgrado de Formación de Especialistas en Investigación Social Aplicada y Análisis de Datos 2013-2014, con arreglo a las siguientes bases:
-
-
-Primera. Objeto.
-
-
-El curso tiene como finalidad contribuir a la formación de titulados universitarios superiores en las técnicas de investigación social, dando especial relevancia a la recogida de datos y al análisis, interpretación y presentación de los mismos, todo ello con una orientación esencialmente práctica. Para ello, se ofertan 24 plazas que serán adjudicadas mediante la selección de los candidatos que reúnan los requisitos exigidos en esta convocatoria.
-
-
-Segunda. Contenido.
-
-
-El curso, de carácter presencial, se estructura en dos módulos:
-
-
-Módulo 1. La recogida de datos y la investigación mediante encuestas.
-
-
-Módulo 2. Análisis e interpretación de datos de encuesta. Incluye cursos de técnicas de análisis estadístico de datos, bivariables y multivariables.
-
-
-Las enseñanzas de cada módulo incluyen clases teóricas y prácticas. La realización de ejercicios prácticos estará tutorizada por profesores y por profesionales del CIS.
-
-
-El contenido de cada módulo podrá experimentar ligeras variaciones en función de las necesidades organizativas del curso. Los detalles sobre el programa docente podrán consultarse en www.cis.es.
-
-
-Tercera. Régimen académico.
-
-
-El curso, de aproximadamente 300 horas lectivas, dará comienzo a mediados de octubre de 2013 y finalizará en septiembre de 2014. Las sesiones de trabajo tendrán lugar entre tres y cuatro días por semana, en horario de 17 a 20 horas. Ocasionalmente, la carga lectiva podría variar en función de la realización de actividades complementarias o de ajuste de cuadros docentes.
-
-
-Toda la actividad del programa docente e investigador será desarrollada en la sede del CIS. La dirección del curso estará a cargo de Luis Ayuso, profesor de la Universidad de Málaga, y la coordinación del mismo será realizada por Leire Salazar, profesora de la UNED.
-
-
-El profesorado incluye a profesores de universidad, profesionales del ámbito de las empresas de investigación social y técnicos del CIS, todos ellos especialistas en las distintas áreas que abarca el programa.
-
-
-Cuarta. Solicitudes y requisitos.
-
-
-El curso está dirigido a licenciados o graduados con adecuada formación en ciencias sociales. La admisión requiere estar en posesión de un título universitario español u otro expedido por una institución de educación superior perteneciente al Espacio Europeo de Educación Superior (EEES).
-
-
-Podrán ser admitidos titulados en instituciones educativas ajenas al EEES que acrediten un nivel de formación equivalente a los correspondientes títulos universitarios españoles y que faculten, en el país expedidor del título, para el acceso a enseñanzas de posgrado.
-
-
-Los interesados deberán presentar una solicitud, dirigida al Sr. Presidente del CIS, en el Registro General del Centro de Investigaciones Sociológicas (calle Montalbán, número 8, 3.ª planta, 28014 Madrid), o remitirla en la forma prevista en el artículo 38 de la Ley 30/1992, de 26 de noviembre, de Régimen Jurídico de las Administraciones Públicas y del Procedimiento Administrativo Común.
-
-
-Asimismo, siempre que se posea un certificado de firma electrónica válida, se podrá presentar la solicitud a través de la Sede Electrónica del Centro de Investigaciones Sociológicas, https://sedempr.gob.es/info/es/sede/subsedes/cis.html, utilizando para ello la aplicación informática disponible a este efecto dentro de la Sede Electrónica del Ministerio de la Presidencia –en la página web https://sedempr.gob.es/info/index.html– de acuerdo con lo establecido en la Orden PRE/1009/2010, de 23 de abril, por la que se regula el Registro Electrónico del Ministerio de la Presidencia.
-
-
-El plazo de admisión de solicitudes finaliza el día 4 de septiembre de 2013.
-
-
-La solicitud constará de la siguiente documentación:
-
-
-a) Instancia dirigida al Sr. Presidente del CIS (anexo I), en www.cis.es
-
-
-b) 
-Currículum vitae
- del solicitante donde se especifiquen los siguientes puntos: I) Datos personales; II) Formación académica; III) Experiencia investigadora (cursos de doctorado, DEA, becas, etc.; IV) Experiencia profesional; V) Publicaciones; VI) Conocimientos informáticos; VII) Idiomas.
-
-
-c) Certificación académica en la que consten las calificaciones obtenidas en las asignaturas cursadas, y donde se especifique que se tienen aprobadas todas las materias correspondientes al título de graduado o licenciado.
-
-
-d) Una carta de presentación, de no más de 500 palabras, en la que se describa el aprovechamiento que se espera hacer del curso de posgrado.
-
-
-e) Acreditación documental de los puntos II, III, IV, V, VI y VII del currículum.
-
-
-f) Una fotografía tamaño carnet.
-
-
-Quinta. Selección.
-
-
-Una Comisión de valoración, designada por la Presidencia del Centro de Investigaciones Sociológicas, llevará a cabo la selección de candidatos. La Comisión examinará y valorará las solicitudes teniendo en cuenta tanto la formación académica como los méritos acreditados. En el proceso de selección se valorará: titulación, expediente académico, curriculum y motivación de la elección del curso expresada en la carta de presentación. Para los no hispanohablantes será necesario acreditar conocimiento avanzado de la lengua española.
-
-
-Sexta. Criterios de evaluación.
-
-
-La evaluación y selección de las solicitudes se realizará en concurrencia competitiva y tomando en consideración la documentación aportada en la solicitud, que se valorará de la siguiente manera:
-
-
-1. Expediente académico del título universitario y adecuación de la titulación al objeto del curso: hasta 4 puntos.
-
-
-2. Formación complementaria y experiencia investigadora: hasta 2 puntos.
-
-
-3. Publicaciones y congresos: hasta 1 punto.
-
-
-4. Experiencia profesional: hasta 1 punto.
-
-
-5. Herramientas informáticas para el análisis de datos: hasta 1 punto.
-
-
-6. Idiomas: hasta 1 punto.
-
-
-La relación de los candidatos seleccionados, cuyo número máximo será de 24, y de los beneficiarios de las becas, se dará a conocer a través de la página web del CIS, www.cis.es, no más tarde del día 4 de octubre de 2013.
-
-
-El importe total de la matrícula será de 2.000 euros, que se abonarán del modo siguiente: 300 euros antes del día 15 de octubre de 2013 y 1.700 euros entre el 7 y el 12 de enero de 2014. El ingreso se realizará mediante transferencia bancaria al Centro de Investigaciones Sociológicas, La Caixa, agencia urbana de Madrid, paseo de la Castellana, 51, cuenta corriente 2100-5731-74-0200142128.
-
-
-Una vez efectuados los ingresos correspondientes, no se tendrá derecho a ningún tipo de devolución posterior ni de acceso al sistema de becas.
-
-
-El CIS concederá dos becas por el valor total del curso académico y seis becas parciales. Las becas se concederán atendiendo a los méritos académicos del candidato, la idoneidad de su perfil y su situación profesional. Los alumnos que obtengan una de las becas parciales realizarán un primer pago de 200 euros y un segundo pago de 800 euros, en la fecha y forma previstas para el resto de los alumnos. El disfrute de las becas conllevará la obligación del cumplimiento de los requisitos exigidos en la base séptima para la obtención del diploma. En caso de incumplimiento perderán su condición de becario y deberán abonar la totalidad de la matrícula.
-
-
-Octava. Diploma.
-
-
-Los alumnos que completen con éxito los dos módulos del curso obtendrán el «Diploma de Especialista en Investigación Social Aplicada y Análisis de Datos» del Centro de Investigaciones Sociológicas. Los requisitos exigidos para la obtención de este diploma son:
-
-
-a) Asistencia regular a las clases, tanto las teóricas como las prácticas, y demás actividades complementarias, exigiéndose un mínimo del 90 % de horas de asistencia por módulo.
-
-
-b) Cumplimiento de las fechas de entrega de los ejercicios prácticos.
-
-
-c) Evaluación positiva de las pruebas de aptitud correspondientes a cada módulo. En cada módulo se tendrá en cuenta la calificación de cada asignatura y se realizará una prueba de evaluación específica.
-
-
-Novena.
-
-
-La inscripción en el curso implica la aceptación de las presentes bases y de las normas de funcionamiento que establezca el CIS.
-
-
-Madrid, 15 de abril de 2013.–El Presidente del Centro de Investigaciones Sociológicas. Félix Requena Santos.
-
-
-Aquí aparece una imagen en el original. Consulte el documento PDF oficial y auténtico.
+B.O.C.M. Núm. 86
+Consejería de Educación, Juventud y Deporte
+1
+DECRETO 29/2013, de 11 de abril, del Consejo de Gobierno, de libertad de elec-
+ción de centro escolar en la Comunidad de Madrid.
+La Constitución española establece, entre los principios básicos que desarrollan el de-
+recho a la educación, el derecho de los padres, según sus convicciones, para educar a sus
+hijos menores. La libertad de las familias para elegir el centro escolar de sus hijos debe, en
+consecuencia, erigirse en postulado básico del que se deriven cuantas disposiciones norma-
+tivas regulen la admisión de los alumnos en los centros sostenidos con fondos públicos.
+Las diversas Leyes de educación vigentes a lo largo de los últimos años han reconoci-
+do de manera genérica esa libertad de las familias, instando a las Administraciones educa-
+tivas a hacerla efectiva. No obstante, la zonificación territorial de los procesos de escolari-
+zación y su gran complejidad administrativa, así como la falta de información objetiva y
+comprensible acerca de los distintos centros educativos, se han convertido, de hecho, en
+obstáculos que limitan o incluso imposibilitan en la práctica el ejercicio de esa libertad, dis-
+minuyendo con ello la calidad de nuestro sistema educativo, íntimamente relacionada con
+el derecho de las familias a elegir para sus hijos un centro escolar acorde con sus propios
+valores y sus expectativas de formación humana y académica.
+La Comunidad de Madrid, consciente de esa vinculación y de la demanda creciente de
+la sociedad madrileña de una mayor y más efectiva libertad de elección en la educación, es-
+tablece el marco regulador necesario para su ejercicio por parte de las familias. El presen-
+te Decreto introduce, con dicho fin, una nueva normativa reguladora de los procesos de ad-
+misión de alumnos en centros sostenidos con fondos públicos que asegura de forma efectiva
+la libertad de elección mediante la eliminación de las zonas de escolarización, incrementa la
+participación de las familias y sus garantías de acceso a una información precisa sobre las ca-
+racterísticas de los centros y de los proyectos educativos, otorga mayor protagonismo a los
+centros, simplifica el procedimiento de admisión, y, en definitiva, eleva la libertad de elección,
+junto con la calidad de la educación y la excelencia académica, a la categoría de fundamen-
+tos básicos y objetivos últimos del sistema educativo de la Comunidad de Madrid.
+La regulación contenida en este Decreto parte de los criterios recogidos en la legisla-
+ción básica sobre escolarización en centros públicos y privados concertados, en especial en
+los artículos 84 a 88 de la Ley Orgánica 2/2006, de 3 de mayo, de Educación.
+El presente Decreto ha sido dictaminado por el Consejo Escolar de la Comunidad de
+Madrid, de acuerdo con el artículo 2.1.b) de la Ley 12/1999, de 29 de abril, de Creación del
+Consejo Escolar de la Comunidad de Madrid, modificada por el artículo 29 de la Ley 9/2010,
+de 23 de diciembre.
+En virtud de lo anterior, de conformidad con lo dispuesto en los artículos 29.1 del Es-
+tatuto de Autonomía de la Comunidad de Madrid, y 21 de la Ley 1/1983, de 13 de diciem-
+bre, de Gobierno y Administración de la Comunidad de Madrid, a propuesta de la Conse-
+jera de Educación, Juventud y Deporte, de acuerdo con el Consejo Consultivo de la
+Comunidad de Madrid y previa deliberación del Consejo de Gobierno, en su reunión del día 11
+de abril de 2013,
+DISPONE
+
+# Capítulo I
+Disposiciones generales
+
+## Artículo 1
+Objeto y ámbito de aplicación
+
+1.
+Este Decreto tiene por objeto establecer el régimen para el ejercicio de la libertad
+de elección de centro escolar sostenido con fondos públicos por parte de las familias, de for-
+ma que se garantice, en el ámbito de la Comunidad de Madrid, el derecho recogido en el ar-
+tículo 27 de la Constitución española.
+
+B.O.C.M. Núm. 86
+2.
+El presente Decreto será de aplicación en los centros docentes sostenidos con fon-
+dos públicos que imparten segundo ciclo de Educación Infantil, Educación Primaria, Edu-
+cación Secundaria Obligatoria, Bachillerato y Educación Especial en el ámbito de la Co-
+munidad de Madrid.
+
+## Artículo 2
+Principios generales
+
+La libertad de elección de centros docentes sostenidos con fondos públicos, que se
+ejercerá a través del proceso de admisión de alumnos, se fundamenta en los siguientes prin-
+cipios:
+a)
+Derecho a la educación de calidad sostenida con fondos públicos. Todos los alum-
+nos incluidos en las edades de enseñanza obligatoria tienen derecho a una plaza
+escolar sostenida con fondos públicos que les garantice una educación de calidad.
+b)
+Igualdad de oportunidades. La escolarización en las enseñanzas a las que se refiere
+este Decreto tendrá como objetivo la igualdad de oportunidades de los alumnos
+madrileños, con independencia de su lugar de residencia. En ningún caso habrá
+discriminación por razón de nacimiento, raza, sexo, religión, opinión o cualquier
+otra condición o circunstancia personal o social.
+c)
+Pluralidad de la oferta educativa. La autonomía de los centros escolares para defi-
+nir proyectos educativos específicos que responden de forma efectiva a las deman-
+das expresadas por las familias es un factor determinante de la calidad de la ense-
+ñanza.
+d)
+Excelencia académica. El reconocimiento del esfuerzo y la excelencia académica
+de los alumnos, con atención a las especiales características de cada edad y etapa
+educativa, serán tenidos en cuenta en el proceso de escolarización de los mismos.
+e)
+Compromiso de las familias. La matriculación de un alumno en un centro sosteni-
+do con fondos públicos supondrá el conocimiento y el respeto de su proyecto edu-
+cativo y, en su caso, de su carácter propio y sus normas de funcionamiento, que
+deberán respetar a su vez los derechos de los alumnos y sus familias reconocidos
+en la Constitución y en las Leyes.
+f)
+Transparencia informativa. La Administración educativa y los centros educativos
+deberán facilitar la información necesaria para permitir una elección libre y res-
+ponsable por parte de las familias.
+
+# Capítulo II
+Ejercicio de la libertad de elección de centro
+
+## Artículo 3
+Zona única educativa
+
+La libertad de elección de un centro escolar sostenido con fondos públicos podrá ejer-
+cerse en todo el territorio de la Comunidad de Madrid, que queda configurada a tales efec-
+tos como una zona única educativa.
+
+## Artículo 4
+Programación anual de la oferta educativa
+
+1.
+Corresponde a la Consejería competente en materia de Educación garantizar la
+efectividad del derecho a la libre elección de centro educativo, mediante la programación
+anual de la oferta educativa de manera que se asegure la existencia de una oferta suficien-
+te y plural de plazas escolares en centros sostenidos con fondos públicos.
+2.
+Para ello, la Consejería competente en materia de Educación tendrá en cuenta las
+preferencias por los proyectos educativos expresadas por las familias en anteriores proce-
+sos de admisión, sin perjuicio de los criterios establecidos en la Ley Orgánica 2/2006, de 3
+de mayo, de Educación.
+
+## Artículo 5
+Oferta de plazas escolares
+
+1.
+La Administración educativa fijará, dentro de los límites legales permitidos, el nú-
+mero de alumnos por unidad escolar que se utilizará en el proceso de admisión. Cualquier
+
+B.O.C.M. Núm. 86
+modificación de dicho número de alumnos deberá ser autorizada por la Administración
+educativa.
+2.
+En la escolarización de alumnos con necesidad específica de apoyo educativo o
+con necesidades de compensación educativa, la Consejería competente en materia de Edu-
+cación articulará las medidas necesarias para facilitar su escolarización, incluyendo, en su
+caso, la reserva de plazas para estos alumnos, teniendo siempre en cuenta las preferencias
+de escolarización manifestadas por las familias.
+3.
+De igual modo, la Consejería competente en materia de Educación podrá reservar
+en los términos que se establezca plazas para alumnos cuyas altas calificaciones acrediten
+su excelencia académica.
+
+## Artículo 6
+Adscripción de centros
+
+1.
+Con el fin de facilitar la continuidad en la escolarización de los alumnos, la Con-
+sejería competente en materia de Educación podrá determinar, en su caso, la adscripción de
+centros a efectos de escolarización.
+2.
+Para salvaguardar el ejercicio efectivo del derecho a la libre elección de centro, di-
+chas adscripciones se llevarán a cabo, con carácter general, mediante el procedimiento de
+adscripción múltiple.
+3.
+En los procedimientos de admisión de alumnos en centros docentes públicos, así
+como en las enseñanzas sostenidas con fondos públicos impartidas en los centros concerta-
+dos, tendrán prioridad los alumnos que procedan de los centros adscritos a efectos de esco-
+larización, estando ambas etapas educativas sostenidas con fondos públicos. Dicha priori-
+dad se hará compatible con la reserva de plaza establecida para los alumnos con necesidad
+específica de apoyo educativo o con necesidades de compensación educativa, así como para
+los alumnos que hayan demostrado su excelencia académica, estén matriculados simultá-
+neamente en enseñanzas regladas de música o de danza, o sigan programas deportivos de
+alto rendimiento.
+
+## Artículo 7
+Información a las familias
+
+1.
+Para favorecer la igualdad de oportunidades y promover la calidad y la adecuada
+elección de centro, la Consejería competente en materia de Educación pondrá a disposición
+de las familias, de forma fácilmente accesible, la información relevante correspondiente a
+todos los centros sostenidos con fondos públicos de la Comunidad de Madrid, entre la que
+se incluirá, entre otros aspectos, información sobre los resultados obtenidos por todos los
+centros en las pruebas externas que se determinen.
+2.
+Los centros docentes sostenidos con fondos públicos facilitarán a las familias la
+información propia sobre dichos resultados, así como sobre sus programas educativos, los
+recursos de que disponen y los servicios complementarios que prestan. Igualmente, elabo-
+rarán y harán públicos su reglamento de régimen interior y normas de conducta, así como
+su proyecto educativo, que en el caso de los centros privados concertados incorporará el ca-
+rácter propio de los mismos.
+3.
+Para facilitar el proceso y la participación de las familias en la admisión, en cada
+centro sostenido con fondos públicos se dará adecuada publicidad a la normativa regulado-
+ra del proceso de admisión de alumnos.
+
+## Artículo 8
+Presentación de solicitudes de admisión
+
+1.
+Las solicitudes de plaza escolar se presentarán según el modelo oficial que esta-
+blezca la Consejería competente en materia de Educación.
+2.
+La solicitud de admisión será firmada por los padres o representantes legales del
+alumno si es menor de edad. En ella se indicará el centro solicitado en primer lugar y tam-
+bién podrán incluirse otros centros alternativos, por orden de preferencia.
+3.
+La solicitud de admisión será presentada en el centro que se elija como primera
+opción dentro del plazo que fije la Consejería competente en materia de Educación.
+
+B.O.C.M. Núm. 86
+
+# Capítulo III
+Criterios de admisión
+
+## Artículo 9
+Criterios de admisión
+
+1.
+En aquellos centros docentes donde haya suficientes plazas disponibles para aten-
+der todas las solicitudes que se reciban serán admitidos todos los alumnos solicitantes.
+2.
+Cuando el número de solicitantes sea superior al de vacantes existentes, las soli-
+citudes de admisión se atenderán por los centros educativos aplicando los siguientes crite-
+rios, cuya puntuación aparece recogida en los Anexos I y II del presente Decreto:
+a)
+Existencia de hermanos matriculados en el centro o padres o representantes lega-
+les del alumno que trabajen en el mismo.
+b)
+Domicilio familiar o del lugar de trabajo de uno de los padres o representantes le-
+gales del alumno ubicado en el municipio en el que está situado el centro solicita-
+do o, en el caso del municipio de Madrid, ubicado en el distrito municipal en el
+que está situado el centro solicitado.
+c)
+Renta anual de la unidad familiar.
+d)
+Discapacidad legalmente reconocida del alumno solicitante, de los padres, herma-
+nos o, en su caso, de los representantes legales del alumno.
+e)
+Condición de antiguo alumno, del centro para el que se solicita plaza, del padre,
+madre o de los representantes legales del alumno, o alguno de los hermanos del
+solicitante.
+f)
+Situación de familia numerosa.
+g)
+Otra circunstancia, que podrá ser coincidente con algunos de los restantes criterios
+de admisión, acordada por el órgano del centro competente en materia de admi-
+sión según criterios públicos y objetivos.
+Los criterios recogidos en los apartados a) a d) anteriores tendrán la consideración de
+criterios prioritarios.
+3.
+Para las enseñanzas de Bachillerato, además de los criterios establecidos en el
+apartado anterior, se valorará el expediente académico del solicitante.
+4.
+Los alumnos que estén matriculados en enseñanzas regladas de música o de dan-
+za y deseen cursar simultáneamente enseñanzas de Educación Secundaria tendrán prioridad
+para ser admitidos en los centros de Educación Secundaria que la Administración educati-
+va determine. El mismo tratamiento se aplicará a los alumnos que sigan programas depor-
+tivos de alto rendimiento.
+5.
+En el caso de que existan dos o más solicitudes de admisión de hermanos en un
+mismo centro docente para las etapas sostenidas con fondos públicos a las que se refiere
+este Decreto, cuando uno de ellos resulte admitido se concederá a los demás la puntuación
+por el apartado de hermanos matriculados en el centro.
+6.
+En caso de empate, se aplicarán los siguientes criterios de desempate en el orden
+que se indica:
+a)
+Mayor puntuación obtenida en el apartado de hermanos matriculados en el centro
+solicitado o padres o representantes legales del alumno que trabajen en el mismo.
+b)
+Mayor puntuación en el apartado de domicilio familiar o del lugar de trabajo.
+c)
+Mayor puntuación obtenida en el apartado de discapacidad del alumno solicitante,
+de los padres, hermanos o, en su caso, de los representantes legales del alumno.
+d)
+Mayor puntuación obtenida en el apartado de hijo o hermano de antiguo alumno
+del centro solicitado.
+e)
+Mayor puntuación obtenida en el apartado de familia numerosa.
+f)
+Mayor puntuación obtenida en el apartado de renta de la unidad familiar.
+g)
+Mayor puntuación en el apartado de otra circunstancia, acordada por el órgano del
+centro competente en materia de admisión según criterios públicos y objetivos.
+h)
+Sorteo público ante el órgano competente para la admisión.
+
+## Artículo 10
+Admisión de alumnos con necesidades educativas especiales en centros ordinarios,
+
+unidades de Educación Especial en centros ordinarios o centros específicos
+de Educación Especial
+La escolarización de alumnos con necesidades educativas especiales en centros ordi-
+narios, en unidades de Educación Especial en centros ordinarios o en centros específicos de
+
+B.O.C.M. Núm. 86
+Educación Especial requerirá resolución de la Consejería competente en materia de Educa-
+ción, que tendrá en cuenta las preferencias de las familias, los dictámenes de los equipos de
+orientación educativa y psicopedagógica o departamentos de orientación y los informes es-
+pecializados, así como las necesidades de los alumnos y las condiciones y posibilidades de
+atención de los centros.
+
+# Capítulo IV
+Participación de los centros
+
+## Artículo 11
+Funciones de los centros en el proceso de admisión de alumnos
+
+1.
+Corresponderá a los órganos competentes de los centros escolares sostenidos con
+fondos públicos la gestión de la admisión de alumnos.
+2.
+Tendrá carácter subsidiario la participación en los procesos de admisión de cual-
+quier otro organismo, ya sea la Consejería competente en materia de Educación, Ayuntamien-
+tos o, en su caso, Servicios de Apoyo a la Escolarización.
+
+## Artículo 12
+Admisión y matriculación de alumnos
+
+1.
+Los centros docentes sostenidos con fondos públicos llevarán a cabo el proceso de
+admisión y matriculación de alumnos previamente al inicio de cada curso escolar median-
+te el procedimiento y calendario que se establezca por parte de la Consejería competente en
+materia de Educación.
+2.
+Una vez iniciado el curso escolar, las solicitudes de plaza escolar que pudieran
+producirse por traslado del domicilio familiar a un municipio o, en el caso del municipio de
+Madrid, a un distrito municipal, distinto de aquel en el que el alumno estuviera escolariza-
+do, por la incorporación al sistema educativo de la Comunidad de Madrid o por cualesquie-
+ra otras causas razonablemente justificadas a juicio del centro docente en el que el alumno
+solicita ser admitido, podrán presentarse en dicho centro o en el correspondiente Servicio
+de Apoyo a la Escolarización.
+3.
+En el caso de solicitudes presentadas una vez iniciado el curso escolar, de confor-
+midad con lo establecido en el apartado anterior, si en el centro solicitado existen plazas va-
+cantes, el centro admitirá la solicitud y matriculará al alumno. Si no hay vacantes, el centro
+podrá remitir la solicitud al correspondiente Servicio de Apoyo a la Escolarización si la fa-
+milia lo solicita.
+
+## Artículo 13
+Servicios de Apoyo a la Escolarización
+
+1.
+La Consejería competente en materia de Educación determinará el número y la
+composición de los Servicios de Apoyo a la Escolarización, que estarán organizados de
+conformidad con lo establecido en el artículo 86.2 de la Ley Orgánica 2/2006, de 3 de mayo,
+de Educación.
+2.
+Los Servicios de Apoyo a la Escolarización tendrán las siguientes funciones:
+a)
+Informar a las familias y a los alumnos sobre los centros públicos y concertados,
+los servicios y enseñanzas que ofrecen y las plazas disponibles en los mismos.
+b)
+Garantizar la escolarización de los alumnos que no hayan obtenido plaza en nin-
+guno de los centros solicitados. A tal efecto, informarán a los padres, los tutores
+o, en su caso, los alumnos acerca de los centros docentes con plazas vacantes, para
+que opten por alguna de ellas, salvaguardando, en todo caso, el ejercicio efectivo
+del derecho a la libre elección de centro por parte de las familias.
+c)
+Supervisión del proceso de admisión de alumnos, el cumplimiento de las normas
+que lo regulan y propuesta a la Administración educativa de las medidas que esti-
+men adecuadas.
+d)
+Cualesquiera otras que determine la Consejería competente en materia de Educación.
+
+B.O.C.M. Núm. 86
+
+# Capítulo V
+Garantías de la libertad de elección de centro
+
+## Artículo 14
+Recursos y reclamaciones
+
+1.
+Los acuerdos y decisiones sobre admisión de alumnos podrán ser objeto, según
+corresponda, de recurso de alzada o reclamación ante el correspondiente Director de Área
+Territorial, en el plazo de un mes a partir de la publicación de la lista definitiva de alumnos
+admitidos, cuya resolución podrá ser recurrida ante la vía contencioso-administrativa.
+2.
+Siempre que se trate de etapas de escolarización obligatoria, cualquiera que fuere
+la resolución adoptada, se deberá garantizar la adecuada escolarización del alumno.
+
+## DISPOSICIÓN ADICIONAL ÚNICA
+
+Admisión de alumnos para cursar enseñanzas distintas
+a las reguladas en el presente Decreto
+La regulación en la Comunidad de Madrid de la admisión de alumnos en centros pú-
+blicos o sostenidos con fondos públicos en enseñanzas o etapas educativas distintas de las
+incluidas en el ámbito de aplicación establecido en el artículo 1.2 del presente Decreto, se
+realizará por la Consejería competente en materia de Educación.
+
+## DISPOSICIÓN TRANSITORIA ÚNICA
+
+Actuaciones previas a la constitución de los Servicios de Apoyo a la Escolarización
+Con el fin de garantizar el derecho a la escolarización de los alumnos, a partir de la en-
+trada en vigor del presente Decreto, las Comisiones de Escolarización existentes durante el
+curso 2012-2013 desarrollarán transitoriamente las funciones encomendadas a los Servi-
+cios de Apoyo a la Escolarización. Dicha actuación finalizará una vez que se constituyan
+los Servicios de Apoyo a la Escolarización.
+
+## DISPOSICIÓN DEROGATORIA ÚNICA
+
+Disposiciones derogadas
+Quedan derogadas cuantas disposiciones de igual o inferior rango se opongan al pre-
+sente Decreto y en particular los artículos 5, 6 y 7 de la Orden 1848/2005, de 4 de abril, de
+la Consejería de Educación, por la que se establece el procedimiento para la admisión de
+alumnos en centros docentes sostenidos con fondos públicos de segundo ciclo de Educa-
+ción Infantil, Educación Primaria, Educación Secundaria y Educación Especial.
+
+## DISPOSICIÓN FINAL PRIMERA
+
+Habilitación para el desarrollo normativo
+Se habilita al titular de la Consejería competente en materia de Educación para dictar las
+disposiciones necesarias para el desarrollo y ejecución de lo dispuesto en el presente Decreto.
+
+## DISPOSICIÓN FINAL SEGUNDA
+
+Entrada en vigor
+El presente Decreto entrará en vigor el día siguiente al de su publicación en el BOLE-
+TÍN OFICIAL DE LA COMUNIDAD DE MADRID.
+Madrid, a 11 de abril de 2013.
+La Consejera de Educación, Juventud y Deporte,
+LUCÍA FIGAR DE LACALLE
+El Presidente,
+IGNACIO GONZÁLEZ GONZÁLEZ
+
+B.O.C.M. Núm. 86
+ANEXO I
+BAREMO DE ADMISIÓN DE ALUMNOS EN CENTROS SOSTENIDOS
+CON FONDOS PÚBLICOS QUE IMPARTEN SEGUNDO CICLO
+DE EDUCACIÓN INFANTIL, EDUCACIÓN PRIMARIA, EDUCACIÓN
+SECUNDARIA OBLIGATORIA Y EDUCACIÓN ESPECIAL
+Criterios prioritarios
+1.
+Hermanos matriculados en el centro o padres o representantes legales de los alum-
+nos que trabajen en el mismo.
+— Uno o varios hermanos matriculados en el centro solicitado o padre, madre o re-
+presentante legal del alumno que trabajen en el mismo: 10 puntos.
+2.
+Domicilio familiar o lugar de trabajo de padres o representantes legales del alumno.
+a)
+Domicilio familiar o del lugar de trabajo de uno de los padres o representantes le-
+gales del alumno ubicado en el municipio en el que está situado el centro solicita-
+do: 4 puntos.
+b)
+En el caso del municipio de Madrid, además de la puntuación obtenida por el apar-
+tado a) anterior, si el domicilio familiar o lugar de trabajo de uno de los padres o
+representantes legales del alumno está ubicado en el mismo distrito municipal que
+el centro solicitado: 0,5 puntos.
+c)
+Domicilio familiar o del lugar de trabajo de uno cualquiera de los padres o repre-
+sentante legal del alumno situado en un municipio de la Comunidad de Madrid
+distinto al del centro solicitado: 2 puntos.
+3.
+Renta.
+— Padre, madre o representante legal beneficiario de la ayuda de la Renta Mínima de
+Inserción: 2 puntos.
+4.
+Existencia de discapacidad física, psíquica y/o sensorial legalmente acreditada del
+alumno solicitante, de los padres, hermanos o, en su caso, del representante legal del alum-
+no: 1,5 puntos.
+Criterios complementarios
+5.
+Condición de antiguo alumno del padre, madre o representante legal del alumno,
+o alguno de los hermanos del solicitante del centro para el que se solicita plaza: 1,5 puntos.
+6.
+Situación de familia numerosa:
+— Familia numerosa general: 1,5 puntos.
+— Familia numerosa especial: 2,5 puntos.
+7.
+Otra circunstancia, que podrá ser coincidente con algunos de los restantes crite-
+rios de admisión, acordada por el centro según criterios públicos y objetivos: 1 punto.
+Criterios de desempate
+Los empates que, en su caso, se produzcan se dirimirán aplicando los criterios en el or-
+den que a continuación se exponen.
+1.
+Mayor puntuación obtenida en el apartado de hermanos matriculados en el centro so-
+licitado o padres o representantes legales de los alumnos que trabajen en el mismo.
+2.
+Mayor puntuación obtenida en el apartado de domicilio familiar o lugar de trabajo.
+3.
+Mayor puntuación obtenida en el apartado de discapacidad del alumno solicitante,
+de los padres, hermanos o, en su caso, del representante legal del alumno.
+4.
+Mayor puntuación obtenida en el apartado de hijo o hermano de antiguo alumno
+del centro solicitado.
+5.
+Mayor puntuación obtenida en el apartado de familia numerosa.
+6.
+Mayor puntuación obtenida en el apartado de renta de la unidad familiar.
+7.
+Mayor puntuación en el apartado de otra circunstancia acordada por el centro se-
+gún criterios públicos y objetivos.
+8.
+Sorteo público ante el Consejo Escolar del centro.
+
+B.O.C.M. Núm. 86
+ANEXO II
+BAREMO DE ADMISIÓN DE ALUMNOS PARA CURSAR EL BACHILLERATO
+SOSTENIDO CON FONDOS PÚBLICOS
+Criterios prioritarios
+1.
+Hermanos matriculados en el centro o padres o representantes legales de los alum-
+nos que trabajen en el mismo.
+— Uno o varios hermanos matriculados en el centro solicitado o padre, madre o re-
+presentante legal del alumno que trabajen en el mismo: 10 puntos.
+2.
+Domicilio familiar o lugar de trabajo de los padres o representantes legales de los
+alumnos.
+a)
+Domicilio familiar o del lugar de trabajo de uno de los padres o representantes le-
+gales del alumno ubicado en el municipio en el que está situado el centro solicita-
+do: 4 puntos.
+b)
+En el caso del municipio de Madrid, además de la puntuación obtenida por el apar-
+tado a) anterior, si el domicilio familiar o lugar de trabajo de uno de los padres o
+representantes legales del alumno está ubicado en el mismo distrito municipal que
+el centro solicitado: 0,5 puntos.
+c)
+Domicilio familiar o del lugar de trabajo de uno cualquiera de los padres o repre-
+sentante legal del alumno situado en un municipio de la Comunidad de Madrid
+distinto al del centro solicitado: 2 puntos.
+3.
+Renta.
+— Padre, madre o representante legal del alumno beneficiario de la ayuda de la Renta
+Mínima de Inserción: 2 puntos.
+4.
+Existencia de discapacidad física, psíquica y/o sensorial legalmente acreditada del
+alumno solicitante, de los padres, hermanos o, en su caso, del representante legal del alum-
+no: 1,5 puntos.
+5.
+Expediente académico (referido al último curso finalizado):
+— Nota media mayor o igual a 9: 10 puntos.
+— Nota media mayor o igual a 8 y menor a 9: 8 puntos.
+— Nota media mayor o igual a 7 y menor a 8: 6 puntos.
+— Nota media mayor o igual a 6 y menor a 7: 4 puntos.
+Criterios complementarios
+6.
+Condición de antiguo alumno del padre, madre o representante legal del alumno,
+o alguno de los hermanos del solicitante del centro para el que se solicita plaza: 1 punto.
+7.
+Situación de familia numerosa:
+— Familia numerosa general: 1,5 puntos.
+— Familia numerosa especial: 2,5 puntos.
+8.
+Otra circunstancia, que podrá ser coincidente con algunos de los restantes crite-
+rios de admisión, acordada por el centro según criterios públicos y objetivos: 1 punto.
+Criterios de desempate
+Los empates que, en su caso, se produzcan se dirimirán aplicando los criterios en el or-
+den que a continuación se exponen:
+1.
+Mayor puntuación obtenida en el apartado de hermanos matriculados en el centro
+solicitado o padres o representantes legales de los alumnos que trabajen en el mismo.
+2.
+Mayor puntuación obtenida en el apartado de valoración del expediente académico.
+3.
+Mayor puntuación obtenida en el apartado de proximidad del domicilio familiar o
+del lugar de trabajo.
+4.
+Mayor puntuación obtenida en el apartado de discapacidad del alumno solicitante,
+de los padres, hermanos o, en su caso, del representante legal del alumno.
+5.
+Mayor puntuación obtenida en el apartado de hijo o hermano de antiguo alumno
+del centro solicitado.
+6.
+Mayor puntuación obtenida en el apartado de familia numerosa.
+
+B.O.C.M. Núm. 86
+http://www.bocm.es
+D. L.: M. 19.462-1983      ISSN 1989-4791
+7.
+Mayor puntuación obtenida en el apartado de renta de la unidad familiar.
+8.
+Mayor puntuación en el apartado de otra circunstancia acordada por el centro se-
+gún criterios públicos y objetivos.
+9.
+Sorteo público ante el Consejo Escolar del centro.
+(03/11.999/13)

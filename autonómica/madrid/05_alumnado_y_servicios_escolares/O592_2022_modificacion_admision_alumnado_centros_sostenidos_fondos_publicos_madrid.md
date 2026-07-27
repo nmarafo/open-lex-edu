@@ -1,30 +1,35 @@
 ---
 id: norm-mad-o592-2022
-titulo: "Orden 592/2022, de 16 de marzo, de la Consejería de Educación, Universidades, Ciencia y Portavocía, por la que se modifica la Orden 1240/2013 en relación con los criterios de baremación en la admisión de alumnos"
+titulo: Orden 592/2022, de 16 de marzo, de la Consejería de Educación, Universidades,
+  Ciencia y Portavocía, por la que se modifica la Orden 1240/2013 en relación con
+  los criterios de baremación en la admisión de alumnos
 jurisdiccion: Madrid
 ambito: Autonómico
-organo_emisor: Consejería de Educación, Ciencia y Universidades de la Comunidad de Madrid
+organo_emisor: Consejería de Educación, Ciencia y Universidades de la Comunidad de
+  Madrid
 tipo_disposicion: Orden
-numero_disposicion: "592/2022"
-fecha_disposicion: "2022-03-16"
-fecha_publicacion: "2022-03-24"
+numero_disposicion: 592/2022
+fecha_disposicion: '2022-03-16'
+fecha_publicacion: '2022-03-24'
 boletin: BOCM
 estado: Vigente
 redaccion: original
-fuente_oficial: "https://www.bocm.es"
+fuente_oficial: https://www.bocm.es
 clasificacion:
   categoria_canonica: 05_alumnado_y_servicios_escolares
-  subcategoria: "Admisión de alumnado"
+  subcategoria: Admisión de alumnado
 tags:
-  - admision_alumnado
-  - baremacion
-  - madrid
+- admision_alumnado
+- baremacion
+- madrid
 relaciones:
   desarrolla: []
   modifica_a: []
   modificado_por: []
   afecta_a_articulos: []
 ---
+
+**Orden 592/2022, de 16 de marzo, de la Consejería de Educación, Universidades, Ciencia y Portavocía, por la que se modifica la Orden 1240/2013 en relación con los criterios de baremación en la admisión de alumnos**
 
 ## Preámbulo
 

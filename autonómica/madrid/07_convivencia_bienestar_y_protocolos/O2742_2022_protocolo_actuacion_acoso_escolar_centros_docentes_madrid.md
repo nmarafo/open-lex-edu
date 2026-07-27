@@ -1,31 +1,36 @@
 ---
 id: norm-mad-o2742-2022
-titulo: "Orden 2742/2022, de 16 de septiembre, de la Consejería de Educación, Universidades, Ciencia y Portavocía, por la que se aprueba el protocolo de prevención y actuación ante situaciones de acoso escolar en centros docentes de la Comunidad de Madrid"
+titulo: Orden 2742/2022, de 16 de septiembre, de la Consejería de Educación, Universidades,
+  Ciencia y Portavocía, por la que se aprueba el protocolo de prevención y actuación
+  ante situaciones de acoso escolar en centros docentes de la Comunidad de Madrid
 jurisdiccion: Madrid
 ambito: Autonómico
-organo_emisor: Consejería de Educación, Ciencia y Universidades de la Comunidad de Madrid
+organo_emisor: Consejería de Educación, Ciencia y Universidades de la Comunidad de
+  Madrid
 tipo_disposicion: Orden
-numero_disposicion: "2742/2022"
-fecha_disposicion: "2022-09-16"
-fecha_publicacion: "2022-09-26"
+numero_disposicion: 2742/2022
+fecha_disposicion: '2022-09-16'
+fecha_publicacion: '2022-09-26'
 boletin: BOCM
 estado: Vigente
 redaccion: original
-fuente_oficial: "https://www.bocm.es"
+fuente_oficial: https://www.bocm.es
 clasificacion:
   categoria_canonica: 07_convivencia_bienestar_y_protocolos
-  subcategoria: "Protocolos de acoso escolar"
+  subcategoria: Protocolos de acoso escolar
 tags:
-  - acoso_escolar
-  - convivencia
-  - protocolo
-  - madrid
+- acoso_escolar
+- convivencia
+- protocolo
+- madrid
 relaciones:
   desarrolla: []
   modifica_a: []
   modificado_por: []
   afecta_a_articulos: []
 ---
+
+**Orden 2742/2022, de 16 de septiembre, de la Consejería de Educación, Universidades, Ciencia y Portavocía, por la que se aprueba el protocolo de prevención y actuación ante situaciones de acoso escolar en centros docentes de la Comunidad de Madrid**
 
 ## Preámbulo
 

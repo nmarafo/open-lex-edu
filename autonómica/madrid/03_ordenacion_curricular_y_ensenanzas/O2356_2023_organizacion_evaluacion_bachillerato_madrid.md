@@ -1,31 +1,36 @@
 ---
 id: norm-mad-o2356-2023
-titulo: "Orden 2356/2023, de 6 de julio, de la Consejería de Educación, Universidades, Ciencia y Portavocía, por la que se fijan las normas relativas a la evaluación, promoción y titulación en Bachillerato en la Comunidad de Madrid"
+titulo: Orden 2356/2023, de 6 de julio, de la Consejería de Educación, Universidades,
+  Ciencia y Portavocía, por la que se fijan las normas relativas a la evaluación,
+  promoción y titulación en Bachillerato en la Comunidad de Madrid
 jurisdiccion: Madrid
 ambito: Autonómico
-organo_emisor: Consejería de Educación, Ciencia y Universidades de la Comunidad de Madrid
+organo_emisor: Consejería de Educación, Ciencia y Universidades de la Comunidad de
+  Madrid
 tipo_disposicion: Orden
-numero_disposicion: "2356/2023"
-fecha_disposicion: "2023-07-06"
-fecha_publicacion: "2023-07-14"
+numero_disposicion: 2356/2023
+fecha_disposicion: '2023-07-06'
+fecha_publicacion: '2023-07-14'
 boletin: BOCM
 estado: Vigente
 redaccion: original
-fuente_oficial: "https://www.bocm.es"
+fuente_oficial: https://www.bocm.es
 clasificacion:
   categoria_canonica: 03_ordenacion_curricular_y_ensenanzas
-  subcategoria: "Bachillerato"
+  subcategoria: Bachillerato
 tags:
-  - bachillerato
-  - evaluacion
-  - titulacion
-  - madrid
+- bachillerato
+- evaluacion
+- titulacion
+- madrid
 relaciones:
   desarrolla: []
   modifica_a: []
   modificado_por: []
   afecta_a_articulos: []
 ---
+
+**Orden 2356/2023, de 6 de julio, de la Consejería de Educación, Universidades, Ciencia y Portavocía, por la que se fijan las normas relativas a la evaluación, promoción y titulación en Bachillerato en la Comunidad de Madrid**
 
 ## Preámbulo
 

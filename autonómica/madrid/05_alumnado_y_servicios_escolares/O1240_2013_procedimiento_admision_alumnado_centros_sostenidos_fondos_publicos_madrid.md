@@ -1,30 +1,35 @@
 ---
 id: norm-mad-o1240-2013
-titulo: "Orden 1240/2013, de 17 de abril, de la Consejería de Educación, Juventud y Deporte, por la que se establece el procedimiento para la admisión de alumnos en centros docentes sostenidos con fondos públicos de la Comunidad de Madrid"
+titulo: Orden 1240/2013, de 17 de abril, de la Consejería de Educación, Juventud y
+  Deporte, por la que se establece el procedimiento para la admisión de alumnos en
+  centros docentes sostenidos con fondos públicos de la Comunidad de Madrid
 jurisdiccion: Madrid
 ambito: Autonómico
-organo_emisor: Consejería de Educación, Ciencia y Universidades de la Comunidad de Madrid
+organo_emisor: Consejería de Educación, Ciencia y Universidades de la Comunidad de
+  Madrid
 tipo_disposicion: Orden
-numero_disposicion: "1240/2013"
-fecha_disposicion: "2013-04-17"
-fecha_publicacion: "2013-04-22"
+numero_disposicion: 1240/2013
+fecha_disposicion: '2013-04-17'
+fecha_publicacion: '2013-04-22'
 boletin: BOCM
 estado: Vigente
 redaccion: original
-fuente_oficial: "https://www.bocm.es"
+fuente_oficial: https://www.bocm.es
 clasificacion:
   categoria_canonica: 05_alumnado_y_servicios_escolares
-  subcategoria: "Admisión de alumnado"
+  subcategoria: Admisión de alumnado
 tags:
-  - admision_alumnado
-  - centros_publicos
-  - madrid
+- admision_alumnado
+- centros_publicos
+- madrid
 relaciones:
   desarrolla: []
   modifica_a: []
   modificado_por: []
   afecta_a_articulos: []
 ---
+
+**Orden 1240/2013, de 17 de abril, de la Consejería de Educación, Juventud y Deporte, por la que se establece el procedimiento para la admisión de alumnos en centros docentes sostenidos con fondos públicos de la Comunidad de Madrid**
 
 ## Preámbulo
 

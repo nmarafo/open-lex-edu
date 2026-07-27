@@ -1,31 +1,36 @@
 ---
 id: norm-mad-o2808-2023
-titulo: "Orden 2808/2023, de 31 de julio, de la Consejería de Educación, Ciencia y Universidades, por la que se regula la gestión telemática y desarrollo del proceso de admisión de alumnos en ESO y Bachillerato"
+titulo: Orden 2808/2023, de 31 de julio, de la Consejería de Educación, Ciencia y
+  Universidades, por la que se regula la gestión telemática y desarrollo del proceso
+  de admisión de alumnos en ESO y Bachillerato
 jurisdiccion: Madrid
 ambito: Autonómico
-organo_emisor: Consejería de Educación, Ciencia y Universidades de la Comunidad de Madrid
+organo_emisor: Consejería de Educación, Ciencia y Universidades de la Comunidad de
+  Madrid
 tipo_disposicion: Orden
-numero_disposicion: "2808/2023"
-fecha_disposicion: "2023-07-31"
-fecha_publicacion: "2023-08-08"
+numero_disposicion: 2808/2023
+fecha_disposicion: '2023-07-31'
+fecha_publicacion: '2023-08-08'
 boletin: BOCM
 estado: Vigente
 redaccion: original
-fuente_oficial: "https://www.bocm.es"
+fuente_oficial: https://www.bocm.es
 clasificacion:
   categoria_canonica: 05_alumnado_y_servicios_escolares
-  subcategoria: "Admisión de alumnado"
+  subcategoria: Admisión de alumnado
 tags:
-  - admision_alumnado
-  - eso
-  - bachillerato
-  - madrid
+- admision_alumnado
+- eso
+- bachillerato
+- madrid
 relaciones:
   desarrolla: []
   modifica_a: []
   modificado_por: []
   afecta_a_articulos: []
 ---
+
+**Orden 2808/2023, de 31 de julio, de la Consejería de Educación, Ciencia y Universidades, por la que se regula la gestión telemática y desarrollo del proceso de admisión de alumnos en ESO y Bachillerato**
 
 ## Preámbulo
 

@@ -4876,6 +4876,7 @@ normas:
     subcategoria: Marco normativo general
     tags:
     - libertad_eleccion
+    - admision_alumnado
     - centros_docentes
     - madrid
     path: autonómica/madrid/01_marco_normativo_general_y_organico/D29_2013_libertad_eleccion_centro_escolar_madrid.md
@@ -4893,29 +4894,29 @@ normas:
     categoria_canonica: 01_marco_normativo_general_y_organico
     subcategoria: Marco normativo general
     tags:
-    - libertad_de_eleccion
-    - derecho_a_la_educacion
-    - concierto_educativo
-    - comunidad_de_madrid
+    - libertad_eleccion
+    - educacion
+    - madrid
+    - lomloe
     path: autonómica/madrid/01_marco_normativo_general_y_organico/L1_2022_maestra_libertad_eleccion_educativa_madrid.md
   norm-mad-l2-2010:
     id: norm-mad-l2-2010
     codigo_sintetizado: ''
-    titulo: Ley 2/2010, de 15 de junio, de Autoridad del Profesor en la Comunidad
+    titulo: Ley 2/2010, de 15 de junio, de Autoridad del Profesor de la Comunidad
       de Madrid
     jurisdiccion: Madrid
     ambito: Autonómico
     tipo_disposicion: Ley
-    fecha_publicacion: '2010-06-25'
+    fecha_publicacion: '2010-06-29'
     estado: Vigente
     redaccion: original
     categoria_canonica: 01_marco_normativo_general_y_organico
-    subcategoria: Funcionarios de carrera
+    subcategoria: Marco normativo general
     tags:
     - autoridad_profesor
+    - convivencia
     - profesorado
-    - comunidad_de_madrid
-    - presuncion_de_veracidad
+    - madrid
     path: autonómica/madrid/01_marco_normativo_general_y_organico/L2_2010_autoridad_profesor_comunidad_madrid.md
   norm-mad-d149-2000:
     id: norm-mad-d149-2000

@@ -1,27 +1,29 @@
 ---
 id: norm-mad-r2-12-2025
-titulo: "Resolución de 2 de diciembre de 2025, de instrucciones sobre admisión de alumnos para el curso 2026-2027"
+titulo: Resolución de 2 de diciembre de 2025, de instrucciones sobre admisión de alumnos
+  para el curso 2026-2027
 jurisdiccion: Madrid
 ambito: Autonómico
-organo_emisor: Consejería de Educación, Ciencia y Universidades de la Comunidad de Madrid
+organo_emisor: Consejería de Educación, Ciencia y Universidades de la Comunidad de
+  Madrid
 tipo_disposicion: Resolución
-numero_disposicion: "02/12/2025"
-fecha_disposicion: "2025-12-02"
-fecha_publicacion: "2025-12-09"
+numero_disposicion: 02/12/2025
+fecha_disposicion: '2025-12-02'
+fecha_publicacion: '2025-12-09'
 boletin: BOCM
-numero_boletin: "292"
+numero_boletin: '292'
 estado: Vigente
 redaccion: original
-fuente_oficial: "https://www.bocm.es/boletin/CM_Orden_BOCM/2025/12/09/BOCM-20251209-19.PDF"
-fuente_pdf_oficial: "https://www.bocm.es/boletin/CM_Orden_BOCM/2025/12/09/BOCM-20251209-19.PDF"
+fuente_oficial: https://www.bocm.es/boletin/CM_Orden_BOCM/2025/12/09/BOCM-20251209-19.PDF
+fuente_pdf_oficial: https://www.bocm.es/boletin/CM_Orden_BOCM/2025/12/09/BOCM-20251209-19.PDF
 clasificacion:
   categoria_canonica: 05_alumnado_y_servicios_escolares
-  subcategoria: "Admisión y escolarización del alumnado"
+  subcategoria: Admisión y escolarización del alumnado
 tags:
-  - admision_de_alumnos
-  - calendario_escolar
-  - baremo
-  - comunidad_de_madrid
+- admision_de_alumnos
+- calendario_escolar
+- baremo
+- comunidad_de_madrid
 relaciones:
   desarrolla: []
   modifica_a: []
@@ -29,19 +31,15 @@ relaciones:
   afecta_a_articulos: []
 ---
 
-# Resolución de 2 de diciembre de 2025, de instrucciones sobre admisión de alumnos para el curso 2026-2027
+**Resolución de 2 de diciembre de 2025, de instrucciones sobre admisión de alumnos para el curso 2026-2027**
 
 ## Preámbulo
 
-## Artículo 1. Objeto
-
-
-MARTES 9 DE DICIEMBRE DE 2025Pág. 118 B.O.C.M. Núm. 293
-BOLETÍN OFICIAL DE LA COMUNIDAD DE MADRIDBOCM
-I. COMUNIDAD DE MADRID
+B.O.C.M. Núm. 293
 C) Otras Disposiciones
 Consejería de Educación, Ciencia y Universidades
-19 RESOLUCIÓN de 26 de noviembre de 2025, de la Viceconsejería de Política y
+19
+RESOLUCIÓN de 26 de noviembre de 2025, de la Viceconsejería de Política y
 Organización Educativa, por la que se dictan instrucciones sobre la participa-
 ción en el proceso de admisión de alumnos en centros docentes sostenidos con
 fondos públicos que imparten Segundo Ciclo de Educación Infantil, Educación
@@ -65,11 +63,13 @@ SECCIÓN PRIMERA
 Disposiciones de carácter general
 Primera
 Ámbito de aplicación
-1. La presente resolución será de aplicación en los centros educativos públicos y pri-
+1.
+La presente resolución será de aplicación en los centros educativos públicos y pri-
 vados que impartan las siguientes etapas y enseñanzas, siempre que estén sostenidas con
 fondos públicos: segundo ciclo de Educación Infantil, Educación Primaria, Educación Se-
 cundaria Obligatoria, Bachillerato y Educación Especial.
-2. Quedan excluidos del ámbito de aplicación el centro integrado de enseñanzas ar-
+2.
+Quedan excluidos del ámbito de aplicación el centro integrado de enseñanzas ar-
 tísticas de Música y Educación Secundaria “Federico Moreno Torroba”, de Madrid y el
 centro integrado de enseñanzas artísticas de Música y de Educación Primaria y Secundaria
 “Padre Antonio Soler”, de San Lorenzo de El Escorial, así como el Centro Regional de En-
@@ -77,26 +77,30 @@ señanzas Integradas “Sagrado Corazón de Jesús”, dependiente de la Comunid
 que serán objeto de regulaciones específicas.
 Segunda
 Gestión informática del proceso de admisión de alumnos
-1. Todos los centros docentes sostenidos con fondos públicos y la administración
+1.
+Todos los centros docentes sostenidos con fondos públicos y la administración
 educativa utilizarán el Sistema Integral de Gestión Educativa Raíces para la aplicación y
 desarrollo de estas instrucciones.
-2. El anexo IV de la presente resolución recoge las principales actuaciones y fechas
+2.
+El anexo IV de la presente resolución recoge las principales actuaciones y fechas
 límite que han de ser tenidas en cuenta por las familias, los centros, los Servicios de Apo-
 yo a la Escolarización (en lo sucesivo SAE), las Direcciones de Área Territorial (en lo su-
 cesivo DAT) y demás unidades relacionadas con el proceso de admisión.
-3. El Sistema Integral de Gestión Educativa Raíces dispone de distintos perfiles de
+3.
+El Sistema Integral de Gestión Educativa Raíces dispone de distintos perfiles de
 acceso y gestión que serán asignados a los centros educativos y a las distintas unidades ad-
 
-MARTES 9 DE DICIEMBRE DE 2025B.O.C.M. Núm. 293 Pág. 119
-BOLETÍN OFICIAL DE LA COMUNIDAD DE MADRIDBOCM
+B.O.C.M. Núm. 293
 ministrativas implicadas en el proceso de admisión para posibilitar el desarrollo de las ac-
 tuaciones.
 Tercera
 Servicios de Apoyo a la Escolarización
-1. El capítulo II de la Orden 1240/2013, de 17 de abril, de la Consejería de Educa-
+1.
+El capítulo II de la Orden 1240/2013, de 17 de abril, de la Consejería de Educa-
 ción, Juventud y Deporte, regula la posibilidad de establecer Servicios de Apoyo a la Esco-
 larización en las DAT, sus funciones y composición.
-2. Las DAT revisarán y actualizarán a través del Sistema Integral de Gestión Educa-
+2.
+Las DAT revisarán y actualizarán a través del Sistema Integral de Gestión Educa-
 tiva Raíces el número, la distribución y la ubicación de los SAE teniendo en cuenta las ne-
 cesidades y características de su ámbito de gestión. Igualmente, harán pública en su página
 web y enviarán a los centros educativos sostenidos con fondos públicos la relación actuali-
@@ -105,7 +109,8 @@ su ámbito de autonomía organizativa, las DAT también determinarán la organiz
 SAE con la finalidad de agilizar y facilitar la escolarización de los alumnos con necesida-
 des educativas especiales (en lo sucesivo NEE). Los centros educativos harán pública en su
 página web la ubicación del SAE al que corresponde el centro.
-3. Los SAE estarán integrados por:
+3.
+Los SAE estarán integrados por:
 Presidente: Un representante de la administración educativa.
 Vocales:
 — Un representante de uno de los ayuntamientos que correspondan al ámbito de ac-
@@ -115,7 +120,8 @@ tuación del SAE.
 — Un integrante de un Consejo Escolar de un centro público elegido en representa-
 ción de los padres de alumnos.
 — Un profesor en activo destinado en un centro público.
-4. Para facilitar el desarrollo de las funciones encomendadas, los SAE contarán con
+4.
+Para facilitar el desarrollo de las funciones encomendadas, los SAE contarán con
 el apoyo técnico que proporcione la correspondiente Dirección de Área Territorial y, en su
 caso, el respectivo ayuntamiento.
 SECCIÓN SEGUNDA
@@ -123,54 +129,63 @@ Adscripciones entre centros a efectos de escolarización
 Cuarta
 Revisión de la zonificación y de las adscripciones entre centros a efectos
 de escolarización
-1. Los centros educativos y las DAT, aplicarán el calendario de actuaciones inclui-
+1.
+Los centros educativos y las DAT, aplicarán el calendario de actuaciones inclui-
 do en el Anexo IV de la presente resolución para facilitar la revisión de la zonificación y de
 las adscripciones entre centros con fines de escolarización. En el caso de la zonificación
 existente para Educación Secundaria Obligatoria y Bachillerato en centros públicos, la re-
 visión que realicen las DAT permitirá diferenciar, en caso necesario, entre ambas etapas
 educativas.
-2. El principal objetivo de las adscripciones entre centros es facilitar la continuidad
+2.
+El principal objetivo de las adscripciones entre centros es facilitar la continuidad
 de los alumnos en enseñanzas sostenidas con fondos públicos en general, y en las enseñan-
 zas de centros públicos bilingües en lengua inglesa en particular. Por ello, teniendo en cuen-
 ta la implantación del programa de centros públicos bilingües en lengua inglesa en la Co-
 munidad de Madrid, así como la existencia de los programas de enseñanza en lengua
 francesa y alemana en centros públicos, las DAT revisarán las adscripciones entre centros
 tomando en consideración los siguientes criterios:
-2.1. Colegios públicos que hayan implantado el programa bilingüe en lengua ingle-
+2.1.
+Colegios públicos que hayan implantado el programa bilingüe en lengua ingle-
 sa en sexto curso de Educación Primaria:
-2.1.1. En aquellos municipios con más de un Instituto de Educación Secundaria (en
+2.1.1.
+En aquellos municipios con más de un Instituto de Educación Secundaria (en
 lo sucesivo, IES) bilingüe, estarán adscritos de manera preferente a un IES bilingüe. En es-
 tos casos, la adscripción múltiple bilingüe tendrá un carácter limitado y podrá incluir, como
 máximo, la totalidad de los IES bilingües existentes en el mismo municipio.
 
-MARTES 9 DE DICIEMBRE DE 2025Pág. 120 B.O.C.M. Núm. 293
-BOLETÍN OFICIAL DE LA COMUNIDAD DE MADRIDBOCM
-2.1.2. En aquellos municipios que cuenten únicamente con un IES bilingüe, los co-
+B.O.C.M. Núm. 293
+2.1.2.
+En aquellos municipios que cuenten únicamente con un IES bilingüe, los co-
 legios públicos bilingües estarán adscritos de manera preferente a dicho instituto. En estos
 casos la posible adscripción múltiple bilingüe de dichos centros tendrá igualmente carácter
 limitado y podrá incluir IES bilingües ubicados en otros municipios próximos.
-2.1.3. En aquellos municipios que no cuenten con ningún IES bilingüe, tanto la ads-
+2.1.3.
+En aquellos municipios que no cuenten con ningún IES bilingüe, tanto la ads-
 cripción preferente como la adscripción múltiple bilingüe podrán realizarse, de forma limi-
 tada, en institutos de otros municipios próximos.
-2.1.4. En aquellos municipios en los que todos los IES sean bilingües y, por tanto,
+2.1.4.
+En aquellos municipios en los que todos los IES sean bilingües y, por tanto,
 esté garantizada la continuidad en el programa bilingüe de todos los alumnos procedentes
 de colegios públicos bilingües tal y como establece la Orden 1240/2013, de 17 de abril, de
 la Consejería de Educación, Juventud y Deporte, una vez analizadas las circunstancias de
 planificación, oferta educativa y capacidad de los centros, las DAT podrán no efectuar ads-
 cripciones de carácter preferente entre centros bilingües y podrán establecer la adscripción
 múltiple ordinaria entre todos los colegios públicos y los IES existentes en el municipio.
-2.2. En el caso de los colegios públicos que durante el curso 2025-2026 cuentan con
+2.2.
+En el caso de los colegios públicos que durante el curso 2025-2026 cuentan con
 alumnos de sexto curso de Educación Primaria que cursan el programa de enseñanza de len-
 gua francesa o de lengua alemana, con el fin de facilitar la continuidad de dichas enseñan-
 zas los centros podrán estar adscritos en la modalidad de adscripción única o en la de ads-
 cripción múltiple, según aconseje la planificación educativa, a IES que cuenten con sección
 lingüística en lengua francesa o alemana.
-2.3. En aquellos municipios que cuentan con un solo IES, todos los colegios públi-
+2.3.
+En aquellos municipios que cuentan con un solo IES, todos los colegios públi-
 cos de dicho municipio podrán estar adscritos a dicho instituto en la modalidad de adscrip-
 ción única con el fin de facilitar la continuidad educativa en el mismo municipio de los
 alumnos escolarizados en sexto curso de Educación Primaria y de los alumnos escolariza-
 dos en quinto curso de Educación Primaria a los que se apliquen medidas de flexibilización.
-2.4. Los colegios públicos de Educación Infantil y Primaria autorizados para impar-
+2.4.
+Los colegios públicos de Educación Infantil y Primaria autorizados para impar-
 tir Educación Secundaria Obligatoria podrán estar adscritos a IES para cursar Educación
 Secundaria Obligatoria o Bachillerato según la modalidad preferente o la modalidad múlti-
 ple. Igualmente, aquellos IES que no imparten enseñanzas de Bachillerato podrán estar ads-
@@ -182,7 +197,8 @@ instituto antes del 20 de febrero de 2026 a través del Sistema Integral de Gest
 va Raíces la información relativa a la previsión de alumnos que pasarán al IES. En el caso
 de alumnos que finalizarán Educación Secundaria Obligatoria durante el curso 2025-2026,
 también indicarán la modalidad o vía de Bachillerato solicitada por cada uno de ellos.
-2.5. Los centros privados sostenidos con fondos públicos autorizados para impartir
+2.5.
+Los centros privados sostenidos con fondos públicos autorizados para impartir
 Educación Primaria, que no cuenten con Educación Secundaria Obligatoria, podrán estar
 adscritos a otros centros para cursar la Educación Secundaria Obligatoria según la modali-
 dad preferente o la modalidad múltiple teniendo en cuenta la planificación de la oferta edu-
@@ -192,7 +208,8 @@ ción preferente a otro centro para cursar Educación Secundaria Obligatoria com
 centro al que están adscritos antes del 20 de febrero de 2026 a través del Sistema Integral
 de Gestión Educativa Raíces la información relativa a la previsión de alumnos que finali-
 zarán Educación Primaria durante el curso 2025-2026.
-2.6. Los centros privados sostenidos con fondos públicos autorizados para impartir
+2.6.
+Los centros privados sostenidos con fondos públicos autorizados para impartir
 Educación Secundaria Obligatoria, pero que no cuenten con Bachillerato sostenido con fon-
 dos públicos, podrán estar adscritos para cursar Bachillerato a otros centros privados con
 Bachillerato sostenido con fondos públicos según la modalidad preferente o la modalidad
@@ -203,17 +220,20 @@ cos comunicarán a dicho centro antes del 20 de febrero de 2026 a través del Si
 gral de Gestión Educativa Raíces la información relativa a la previsión de alumnos que fi-
 nalizarán Educación Secundaria Obligatoria durante el curso 2025-2026 así como la
 modalidad o vía de Bachillerato solicitada por cada uno de ellos.
-2.7. Se comprobará que aquellos centros que deban estar adscritos a otros centros en
+2.7.
+Se comprobará que aquellos centros que deban estar adscritos a otros centros en
 la modalidad de adscripción múltiple estén adscritos, al menos, a dos centros.
 
-MARTES 9 DE DICIEMBRE DE 2025B.O.C.M. Núm. 293 Pág. 121
-BOLETÍN OFICIAL DE LA COMUNIDAD DE MADRIDBOCM
-2.8. Se revisará y comprobará que todas las adscripciones se produzcan entre centros
+B.O.C.M. Núm. 293
+2.8.
+Se revisará y comprobará que todas las adscripciones se produzcan entre centros
 y entre enseñanzas sostenidas con fondos públicos.
-2.9. Se recordará a todos los centros adscritos a otros a nivel superior que es impres-
+2.9.
+Se recordará a todos los centros adscritos a otros a nivel superior que es impres-
 cindible tener a todos los alumnos grabados en el Sistema Integral de Gestión Educativa
 Raíces ya que de lo contrario no será posible que dicha adscripción surta efecto.
-3. Las DAT informarán a los centros sostenidos con fondos públicos ubicados en su
+3.
+Las DAT informarán a los centros sostenidos con fondos públicos ubicados en su
 ámbito de gestión acerca del proceso de revisión de las adscripciones y el plazo para la rea-
 lización de propuestas de actualización de las mismas. En el caso de los centros públicos,
 las DAT revisarán de oficio las adscripciones existentes e introducirán las modificaciones
@@ -224,7 +244,8 @@ SECCIÓN TERCERA
 Proceso ordinario de admisión de alumnos
 Quinta
 Participación en el proceso ordinario de admisión de alumnos
-1. Deberán presentar solicitud de admisión para el curso escolar 2026-2027 los
+1.
+Deberán presentar solicitud de admisión para el curso escolar 2026-2027 los
 alumnos que:
 — Se incorporen por primera vez a centros sostenidos con fondos públicos que im-
 partan segundo ciclo de Educación Infantil o Educación Primaria.
@@ -252,7 +273,8 @@ ello, desde los SAE se le asignará una plaza escolar en la fase final del proce
 admisión.
 — Deseen cambiar de centro en cualquiera de las etapas y enseñanzas incluidas en el
 ámbito de aplicación de la presente resolución.
-2. No deberán presentar solicitud de admisión para el curso escolar 2026-2027 los
+2.
+No deberán presentar solicitud de admisión para el curso escolar 2026-2027 los
 alumnos que:
 — Continúen cursando enseñanzas en la misma modalidad de escolarización y en el
 mismo centro o cambien de etapa educativa dentro de un mismo centro o recinto
@@ -264,11 +286,11 @@ ria, así como de los colegios públicos de Educación Infantil, Primaria y Secu
 ria que tengan adscripción única a otro centro y quieran hacer uso de la prioridad
 que ello les confiere.
 
-MARTES 9 DE DICIEMBRE DE 2025Pág. 122 B.O.C.M. Núm. 293
-BOLETÍN OFICIAL DE LA COMUNIDAD DE MADRIDBOCM
+B.O.C.M. Núm. 293
 Sexta
 Oferta de plazas escolares para el proceso ordinario de admisión
-1. La Consejería de Educación, Ciencia y Universidades establecerá la oferta de pla-
+1.
+La Consejería de Educación, Ciencia y Universidades establecerá la oferta de pla-
 zas escolares de todos los centros y enseñanzas sostenidas con fondos públicos para el cur-
 so 2026-2027, a través de las DAT con la participación de los centros educativos. La ofer-
 ta de plazas escolares será recogida en el Sistema Integral de Gestión Educativa Raíces,
@@ -279,7 +301,8 @@ En la oferta de plazas escolares se especificarán las vacantes reservadas, en a
 la normativa vigente, para alumnos con NEE y para alumnos con necesidad de compensación
 educativa por desventaja social. En el caso de los IES que cuenten con sección lingüística en
 lengua francesa o alemana, la oferta de plazas vacantes también incluirá dicha opción.
-2. La Comunidad de Madrid ofrece un puesto escolar sostenido con fondos públicos
+2.
+La Comunidad de Madrid ofrece un puesto escolar sostenido con fondos públicos
 a todos los solicitantes a partir del primer curso del segundo ciclo de Educación Infantil, aun-
 que dichas enseñanzas no tienen carácter obligatorio. En el caso del segundo ciclo de Edu-
 cación Infantil y del primer y segundo curso de Educación Primaria, la oferta inicial de pla-
@@ -292,7 +315,8 @@ tros únicos de localidad, así como centros que no cuenten con la posibilidad d
 tar el número de unidades, las DAT podrán autorizar, antes de la adjudicación de plaza
 escolar, que la citada oferta inicial de plazas se incremente hasta un 10 % en el número de
 alumnos por grupo.
-3. En Educación Secundaria Obligatoria, la oferta inicial de plazas escolares se calcu-
+3.
+En Educación Secundaria Obligatoria, la oferta inicial de plazas escolares se calcu-
 lará aplicando la ratio de 25 alumnos por grupo. Los centros privados sostenidos con fondos
 públicos en la etapa de Educación Primaria calcularán la oferta inicial de plazas en el primer
 curso de la Educación Secundaria Obligatoria teniendo en cuenta los alumnos ya escolariza-
@@ -300,7 +324,8 @@ dos en el centro en el sexto curso. En los casos de centros que cuenten con una 
 perior de plazas escolares, centros únicos de localidad o no sea posible incrementar el núme-
 ro de unidades, las DAT podrán autorizar, antes de la adjudicación de plaza escolar, que la
 citada ratio se incremente hasta un 10 % en el número de alumnos por grupo.
-4. La Orden 1240/2013, de 17 de abril, establece y cuantifica en su artículo 14 la re-
+4.
+La Orden 1240/2013, de 17 de abril, establece y cuantifica en su artículo 14 la re-
 serva de plazas para alumnos con NEE y necesidad de compensación educativa, que se lle-
 vará a cabo en el primer nivel educativo sostenido con fondos públicos en cada centro. Sin
 perjuicio del carácter global de dicha reserva, que abarca los dos perfiles de alumnos a los
@@ -317,22 +342,24 @@ plazas en el primer nivel educativo sostenido con fondos públicos por unidad es
 la escolarización de alumnos con NEE, de las cuales, al menos dos, estarán destinadas a fa-
 cilitar la escolarización de los alumnos que corresponda con el perfil o perfiles de atención
 preferente del centro.
-5. Con el fin de facilitar su escolarización, los alumnos en situación de acogimiento
+5.
+Con el fin de facilitar su escolarización, los alumnos en situación de acogimiento
 familiar debidamente acreditado por la Dirección General de Infancia, Familia y Fomento
 de la Natalidad, así como aquellos cuya guarda o tutela sea ostentada por dicha Dirección
 General, serán escolarizados con cargo a la reserva de plaza para alumnos con necesidad de
 compensación educativa.
-6. En los centros privados sostenidos con fondos públicos que, en el mismo centro o
+6.
+En los centros privados sostenidos con fondos públicos que, en el mismo centro o
 recinto escolar, cuenten con unidades de primer ciclo de Educación Infantil financiadas me-
 diante convenio y con unidades concertadas de segundo ciclo de Educación Infantil, debe-
 rá tenerse en cuenta para determinar la oferta de plazas escolares el número de plazas nece-
 sarias para atender a los alumnos escolarizados en último curso del primer ciclo (2 años),
 
-MARTES 9 DE DICIEMBRE DE 2025B.O.C.M. Núm. 293 Pág. 123
-BOLETÍN OFICIAL DE LA COMUNIDAD DE MADRIDBOCM
+B.O.C.M. Núm. 293
 deduciéndolas del total de plazas autorizadas en primer curso del segundo ciclo (3 años), y
 así se reflejará en el Sistema Integral de Gestión Educativa Raíces.
-7. La previsión de la oferta inicial de unidades y plazas vacantes podrá variar como con-
+7.
+La previsión de la oferta inicial de unidades y plazas vacantes podrá variar como con-
 secuencia del desarrollo del proceso extraordinario de admisión para el curso 2025-2026. Tam-
 bién podrá ser modificada antes de la adjudicación de plaza escolar para el curso 2026-2027 pre-
 via solicitud del centro y una vez autorizada por la Dirección de Área Territorial
@@ -340,18 +367,21 @@ correspondiente, que analizará la demanda efectiva de plazas escolares para los
 sos y centros educativos.
 Séptima
 Presentación de solicitudes en el proceso ordinario de admisión
-1. El plazo para la presentación de solicitudes de participación en el proceso ordina-
+1.
+El plazo para la presentación de solicitudes de participación en el proceso ordina-
 rio de admisión de alumnos para el curso 2026-2027 comprenderá del 11 al 25 de marzo
 de 2026, ambas fechas inclusive.
 Durante el plazo de presentación de solicitudes ordinarias se deshabilitará el acceso a
 la Secretaría Virtual para la gestión de la solicitud extraordinaria del curso 2025-2026. En
 este período solo será posible presentar la solicitud extraordinaria para el curso indicado,
 de forma presencial en el centro o el SAE que corresponda.
-2. Con el fin de facilitar la participación y desarrollo del proceso de admisión exis-
+2.
+Con el fin de facilitar la participación y desarrollo del proceso de admisión exis-
 ten varias opciones para la presentación de las solicitudes de admisión de alumnos para el
 curso 2026-2027: presentación telemática o entrega presencial en el centro solicitado en
 primera opción.
-a) Presentación telemática, opción que facilita y agiliza el proceso de admisión, así
+a)
+Presentación telemática, opción que facilita y agiliza el proceso de admisión, así
 como el acceso al seguimiento e información sobre su desarrollo. La solicitud se
 dirigirá al primer centro que se incluya en la misma. Para la presentación de soli-
 citudes por vía telemática las familias utilizarán la Secretaría Virtual del Sistema
@@ -390,14 +420,15 @@ acceso a los padres, madres o tutores legales que aún no dispongan de las mis-
 mas y tengan a sus hijos matriculados en centros sostenidos con fondos públi-
 cos durante el curso 2025-2026.
 
-MARTES 9 DE DICIEMBRE DE 2025Pág. 124 B.O.C.M. Núm. 293
-BOLETÍN OFICIAL DE LA COMUNIDAD DE MADRIDBOCM
-b) En aquellos casos en los que la solicitud de admisión no se presente por vía tele-
+B.O.C.M. Núm. 293
+b)
+En aquellos casos en los que la solicitud de admisión no se presente por vía tele-
 mática, podrá ser entregada presencialmente en el centro educativo solicitado en
 primer lugar o bien ser dirigida a dicho centro a través de los procedimientos con-
 templados en la Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo
 Común de las Administraciones Públicas.
-3. La solicitud de admisión será cumplimentada y firmada por ambos padres, madres
+3.
+La solicitud de admisión será cumplimentada y firmada por ambos padres, madres
 o tutores legales del alumno, salvo si se acredita la imposibilidad de hacerlo, en cuyo caso
 deberá presentarse declaración responsable según modelo recogido en la página web de ad-
 misión de alumnos de la Comunidad de Madrid. La presentación de la declaración respon-
@@ -405,28 +436,32 @@ sable se reflejará en la solicitud de admisión.
 Las solicitudes que incluyan nombres y apellidos con partículas, deben grabarse tal y
 como aparezcan en los documentos oficiales: DNI, NIE, certificado del Registro Civil o li-
 bro de familia.
-4. Además del centro solicitado en primera opción, en la solicitud podrán incluirse,
+4.
+Además del centro solicitado en primera opción, en la solicitud podrán incluirse,
 de forma priorizada, hasta otros cinco centros educativos más sostenidos con fondos públi-
 cos. Por ello, con la finalidad de facilitar el ejercicio del principio de elección de centro, es
 conveniente que las familias valoren la posibilidad de incluir varios centros en su solicitud.
-5. A excepción de los alumnos que procedan de colegios públicos con adscripción
+5.
+A excepción de los alumnos que procedan de colegios públicos con adscripción
 única autorizados para impartir el programa de lengua francesa o lengua alemana, los solici-
 tantes de plaza escolar en la sección lingüística en lengua francesa o alemana de un centro
 público de Educación Secundaria deberán presentar una solicitud de admisión en la que se
 señalará específicamente dicha opción. Si además se desea solicitar plaza ordinaria en dicho
 centro, dicha petición también se incluirá de forma diferenciada en la solicitud de admisión.
-6. En las solicitudes de admisión para cursar Bachillerato en el curso 2026-2027 solo
+6.
+En las solicitudes de admisión para cursar Bachillerato en el curso 2026-2027 solo
 podrá incluirse una modalidad y, en su caso, vía de Bachillerato.
-7. Los centros públicos que durante el curso 2025-2026 están autorizados a impartir
+7.
+Los centros públicos que durante el curso 2025-2026 están autorizados a impartir
 Educación Secundaria Obligatoria y están adscritos mediante adscripción única a un insti-
 tuto que imparte Bachillerato, marcarán en el Sistema Integral de Gestión Educativa Raí-
-ces antes del 20 de febrero de 2026 la previsión de alumnos de 4.
-o de ESO que tienen in-
+ces antes del 20 de febrero de 2026 la previsión de alumnos de 4.o de ESO que tienen in-
 tención de hacer efectiva dicha adscripción indicando la opción de Bachillerato que dichos
 alumnos desearían cursar. Los colegios públicos que tengan adscripción única a un IES de-
 berán informar, en el mismo plazo, a través de Raíces, los alumnos de sexto de Educación
 Primaria que vayan a pasar a Educación Secundaria Obligatoria.
-8. En cumplimiento de la normativa vigente, Ley 39/2015, de 1 de octubre, del Pro-
+8.
+En cumplimiento de la normativa vigente, Ley 39/2015, de 1 de octubre, del Pro-
 cedimiento Administrativo Común de las Administraciones Públicas, la administración edu-
 cativa realizará, a través del Sistema Integral de Gestión Educativa Raíces, las consultas re-
 lativas a la información disponible sobre las circunstancias alegadas en la solicitud, evitando
@@ -436,7 +471,8 @@ otras administraciones, en cuyo caso la solicitud deberá ir acompañada por la 
 ción acreditativa necesaria para la justificación de los criterios de baremación por los que se
 aspire a obtener puntuación. En el anexo III de la presente Resolución se recoge la informa-
 ción específica para facilitar la baremación de los diferentes criterios de admisión.
-9. Las familias que acrediten la previsión de cambio de domicilio dentro de la Co-
+9.
+Las familias que acrediten la previsión de cambio de domicilio dentro de la Co-
 munidad de Madrid o de traslado a la misma motivado por la movilidad forzosa de cual-
 quiera de los padres, madres o tutores legales, una discapacidad sobrevenida de cualquiera
 de los miembros de la familia o a un cambio de residencia derivado de actos de violencia
@@ -446,21 +482,22 @@ domicilio laboral o familiar previsto en la Comunidad de Madrid, y se les asigna
 tuación correspondiente, indicándose el domicilio actual a efectos de comunicación.
 Octava
 Baremación de las solicitudes de admisión
-1. Durante el plazo de presentación de solicitudes, todos los centros sostenidos con
+1.
+Durante el plazo de presentación de solicitudes, todos los centros sostenidos con
 fondos públicos procederán diariamente a grabar, recuperar, revisar y consolidar, a través
 del Sistema Integral de Gestión Educativa Raíces, todas las solicitudes de admisión en las
 que el centro figure en primer lugar y procederán a su baremación. Por ello, todos los cen-
 tros deberán revisar sistemáticamente el Sistema Integral de Gestión Educativa Raíces y ex-
 tremar la diligencia en la comprobación, recuperación y revisión de las solicitudes y de la
 
-MARTES 9 DE DICIEMBRE DE 2025B.O.C.M. Núm. 293 Pág. 125
-BOLETÍN OFICIAL DE LA COMUNIDAD DE MADRIDBOCM
+B.O.C.M. Núm. 293
 documentación adjuntada antes de consolidarlas, adoptando las medidas de seguridad ade-
 cuadas para preservar la confidencialidad de la documentación, conforme a la normativa vi-
 gente en materia de protección de datos.
 Todas las solicitudes presentadas a través de la Secretaría Virtual han de ser consoli-
 dadas, tanto si resultan estimadas como desestimadas.
-2. El centro solicitado en primer lugar baremará tanto los criterios comunes de ad-
+2.
+El centro solicitado en primer lugar baremará tanto los criterios comunes de ad-
 misión como los criterios específicos de admisión aplicables al centro.
 Además, cada uno de los centros incluidos en una solicitud baremará los criterios es-
 pecíficos alegados por las familias aplicables al propio centro. A este fin, en su solicitud de
@@ -491,7 +528,8 @@ permite al Consejo Escolar o titular del centro asignar puntuación adicional, l
 y adjuntarán la información que permita a los centros comprobar su veracidad. Durante el
 proceso de baremación de solicitudes, los centros afectados comprobarán y, en su caso, va-
 lidarán, la puntuación correspondiente a dichos criterios.
-3. Con el fin de facilitar el desarrollo del proceso de baremación y de consulta infor-
+3.
+Con el fin de facilitar el desarrollo del proceso de baremación y de consulta infor-
 mática a otras administraciones o unidades, es necesario que todas las solicitudes a las que
 se refiere el apartado anterior sean recuperadas y baremadas mediante el Sistema Integral
 de Gestión Educativa Raíces a medida que se vayan recibiendo, lo que permitirá que todos
@@ -502,32 +540,35 @@ des, adoptando las medidas de seguridad adecuadas para preservar la confidencial
 la documentación, conforme a la normativa vigente en materia de protección de datos, para
 posibilitar que los otros centros puedan proceder, en su caso, a baremar los criterios espe-
 cíficos que les correspondan.
-4. En cumplimiento del calendario recogido en el anexo IV, una vez grabadas y ana-
+4.
+En cumplimiento del calendario recogido en el anexo IV, una vez grabadas y ana-
 lizadas las solicitudes se hará pública a través de la Secretaría Virtual la información pro-
 visional relativa a los alumnos que han solicitado el centro en primera opción, así como el
 plazo de reclamación a dicha información. Todos los solicitantes que tengan acceso a la Se-
 cretaría Virtual podrán consultar la información sobre las solicitudes recibidas por el cen-
 tro solicitado en primera opción, independientemente de la forma en la que hayan presen-
 tado la solicitud de admisión. Para ello, en el caso de los solicitantes que hayan entregado
-la solicitud de forma presencial es necesario quela solicitud haya sido ya grabada por el cen-
+la solicitud de forma presencial es necesario que la solicitud haya sido ya grabada por el cen-
 tro en el Sistema Integral de Gestión Educativa Raíces. No obstante, lo anterior, para facili-
 tar la consulta del estado de su solicitud, las familias pueden acceder mediante un formula-
 rio habilitado para tal fin en la Secretaría Virtual, en el que deben introducir el NIF del padre,
 madre o tutor legal, fecha de nacimiento del alumno solicitante y código de centro de prime-
 ra opción. En ese caso, no se tendrá acceso a los listados, solo al estado de su solicitud.
-5. Las reclamaciones relativas al listado de participantes serán presentadas a través
+5.
+Las reclamaciones relativas al listado de participantes serán presentadas a través
 de la Secretaría Virtual cuando la solicitud haya sido presentada por vía telemática. En el
 
-MARTES 9 DE DICIEMBRE DE 2025Pág. 126 B.O.C.M. Núm. 293
-BOLETÍN OFICIAL DE LA COMUNIDAD DE MADRIDBOCM
+B.O.C.M. Núm. 293
 caso de las solicitudes entregadas de forma presencial, las reclamaciones serán presentadas
 en el centro solicitado en primera opción.
-6. Posteriormente y según calendario recogido en el anexo IV, se hará pública a tra-
+6.
+Posteriormente y según calendario recogido en el anexo IV, se hará pública a tra-
 vés de la Secretaría Virtual la información relativa a las puntuaciones provisionales obteni-
 das, así como el plazo de reclamación a las mismas. La información reflejará, en su caso,
 el resultado de las reclamaciones presentadas a los listados provisionales de alumnos parti-
 cipantes en el centro a las que se refiere el punto anterior.
-7. Las posibles reclamaciones a las puntuaciones provisionales de las solicitudes pre-
+7.
+Las posibles reclamaciones a las puntuaciones provisionales de las solicitudes pre-
 sentadas por vía telemática serán presentadas por las familias a través de la Secretaría Vir-
 tual. En el caso de las solicitudes entregadas de forma presencial las reclamaciones serán pre-
 sentadas en el centro que corresponda al criterio o puntuación que motive la reclamación.
@@ -542,7 +583,8 @@ Integral de Gestión Educativa Raíces para la adjudicación de plaza escolar en
 Por ello, los centros y las familias pondrán especial atención en el proceso de baremación
 de las solicitudes presentadas, así como en su caso, de las posibles reclamaciones presenta-
 das a las puntuaciones provisionales.
-8. En el caso de las solicitudes de plaza escolar de alumnos sometidos a medidas de
+8.
+En el caso de las solicitudes de plaza escolar de alumnos sometidos a medidas de
 protección, con el fin de preservar el preceptivo anonimato, la solicitud solo se podrá pre-
 sentar de forma presencial y los centros procederán del siguiente modo:
 — Solo deben figurar los datos y la firma de aquel tutor legal que haya acreditado la
@@ -558,75 +600,95 @@ se en el día y el mes, respetando siempre el año de nacimiento del alumno.
 tos correctos del alumno.
 Novena
 Sorteo para resolver situaciones de empate
-1. Con el fin de unificar para el conjunto de centros sostenidos con fondos públicos
+1.
+Con el fin de unificar para el conjunto de centros sostenidos con fondos públicos
 el sorteo que permita resolver posibles empates en puntuación entre varios solicitantes de
 plaza escolar, la Consejería de Educación, Ciencia y Universidades llevará a cabo el 8 de
 abril de 2026 la siguiente actuación, que tendrá carácter público y de la que se levantará el
 acta correspondiente:
-a) Se extraerán aleatoriamente cuatro bolas de un conjunto de diez, numeradas del 0
+a)
+Se extraerán aleatoriamente cuatro bolas de un conjunto de diez, numeradas del 0
 al 9. Antes de proceder a cada extracción se volverá a introducir la bola extraída
 con anterioridad.
-b) El resultado obtenido al colocar de izquierda a derecha y en el mismo orden de ex-
+b)
+El resultado obtenido al colocar de izquierda a derecha y en el mismo orden de ex-
 tracción, las cifras a las que se refiere el párrafo anterior se dividirá entre diez mil.
 La cifra obtenida será comunicada a los centros educativos a través de las DAT y será
 incluida, para información de las familias, en la página web de la Comunidad de Madrid, a
 través del portal de Administración Digital de la Comunidad de Madrid, así como en la pá-
 gina web de los propios centros y será incorporada al Sistema Integral de Gestión Educati-
 va Raíces.
-2. Cuando en un centro sea necesario realizar el desempate entre varias solicitudes,
+2.
+Cuando en un centro sea necesario realizar el desempate entre varias solicitudes,
 el Sistema Integral de Gestión Educativa Raíces elaborará una relación ordenada alfabéti-
 camente con las solicitudes que están en situación de empate y asignará a cada una de ellas,
 correlativamente, un número natural, comenzando por el 1 y terminando por la última de
 las solicitudes empatadas.
 
-MARTES 9 DE DICIEMBRE DE 2025B.O.C.M. Núm. 293 Pág. 127
-BOLETÍN OFICIAL DE LA COMUNIDAD DE MADRIDBOCM
-3. Se calculará el número natural que resulta al eliminar las cifras decimales del nú-
+B.O.C.M. Núm. 293
+3.
+Se calculará el número natural que resulta al eliminar las cifras decimales del nú-
 mero que se obtiene sumando uno al producto del resultado obtenido en el apartado 1.b) por
 el número total de solicitudes empatadas.
-4. Las plazas vacantes disponibles se adjudicarán comenzando por la solicitud de la
+4.
+Las plazas vacantes disponibles se adjudicarán comenzando por la solicitud de la
 relación a la que se refiere el apartado 2, correspondiente con el número que se determine
-conforme a lo dispuesto en el apartad o3yc o n t i n u ando, hasta agotar las plazas vacantes,
+conforme a lo dispuesto en el apartado 3 y continuando, hasta agotar las plazas vacantes,
 por aquellas solicitudes a las que corresponden los siguientes números según el orden cre-
 ciente de la serie numérica.
-5. A los efectos de lo establecido en el apartado anterior se considerará que el núme-
+5.
+A los efectos de lo establecido en el apartado anterior se considerará que el núme-
 ro 1 es el siguiente al número total de solicitudes empatadas.
-6. Las operaciones anteriores se realizarán mediante el Sistema Integral de Gestión
+6.
+Las operaciones anteriores se realizarán mediante el Sistema Integral de Gestión
 Educativa Raíces, que permitirá resolver los casos de desempate que afecten a cada centro
 y adjudicar las plazas disponibles. Los centros harán público el resultado del sorteo desti-
 nado a posibilitar la resolución de los casos de empate.
 Décima
 Adjudicación de plaza escolar
-1. La adjudicación de las plazas escolares se realizará con el objetivo de intentar
+1.
+La adjudicación de las plazas escolares se realizará con el objetivo de intentar
 atender a la primera opción señalada por las familias en su solicitud. A continuación, si ello
 no ha sido posible, se procurará adjudicar plaza escolar en alguno de los restantes centros
 incluidos en la solicitud. Por ello, es esencial que los solicitantes valoren especialmente la
 decisión sobre el centro solicitado en primera opción, así como, en el caso de los alumnos
 que deben cambiar de centro, la conveniencia de incluir varios centros o completar la soli-
 citud hasta el número máximo de centros que admite.
-2. Los alumnos procedentes de centros con adscripción única que no haya presenta-
+2.
+Los alumnos procedentes de centros con adscripción única que no haya presenta-
 do una solicitud de admisión para otros centros, obtendrá plaza de forma directa en el cen-
 tro de adscripción única.
-3. En el caso de las solicitudes recibidas y que no correspondan a alumnos con NEE
+3.
+En el caso de las solicitudes recibidas y que no correspondan a alumnos con NEE
 o necesidad de compensación educativa, la adjudicación de las plazas ofertadas en cada
 centro aplicará el siguiente orden de prioridad:
-1. Alumnos procedentes de centros con adscripción múltiple ordinaria:
-1.1. Solicitudes que han pedido el centro en primera opción.
-1.2. Solicitudes que han pedido el centro en otras opciones sin diferenciar por orden
+1.
+Alumnos procedentes de centros con adscripción múltiple ordinaria:
+1.1.
+Solicitudes que han pedido el centro en primera opción.
+1.2.
+Solicitudes que han pedido el centro en otras opciones sin diferenciar por orden
 de petición.
-2. Alumnos procedentes de centros con adscripción múltiple bilingüe:
-2.1. Solicitudes que han pedido el centro en primera opción.
-2.2. Solicitudes que han pedido el centro en otras opciones sin diferenciar por orden
+2.
+Alumnos procedentes de centros con adscripción múltiple bilingüe:
+2.1.
+Solicitudes que han pedido el centro en primera opción.
+2.2.
+Solicitudes que han pedido el centro en otras opciones sin diferenciar por orden
 de petición.
-3. Alumnos procedentes de centros no adscritos:
-3.1. Solicitudes que han pedido el centro en primera opción.
-3.2. Solicitudes que han pedido el centro en otras opciones sin diferenciar por orden
+3.
+Alumnos procedentes de centros no adscritos:
+3.1.
+Solicitudes que han pedido el centro en primera opción.
+3.2.
+Solicitudes que han pedido el centro en otras opciones sin diferenciar por orden
 de petición.
 Dentro de cada uno de estos grupos, las solicitudes serán ordenadas según la puntua-
 ción obtenida en cada centro solicitado.
 En caso de empate en puntuación entre varias solicitudes dentro del mismo grupo, se
 aplicarán los criterios de desempate recogidos en la normativa vigente.
-4. Como se indica en la Instrucción octava, los centros y las familias tienen la posi-
+4.
+Como se indica en la Instrucción octava, los centros y las familias tienen la posi-
 bilidad de comprobar y, en su caso, reclamar al proceso de baremación provisional de soli-
 citudes, que constituye un elemento esencial en el proceso de adjudicación de plaza esco-
 lar. Por ello, sin perjuicio de los derechos en materia de presentación de recursos que la
@@ -635,11 +697,11 @@ cación de la misma se inadmitirán aquellos recursos correspondientes a solicit
 yan obtenido plaza en alguno de los centros solicitados salvo que el recurso incluya o se re-
 fiera a alguna otra circunstancia derivada del proceso de adjudicación de plaza y que haga
 necesaria su revisión.
-5. Las solicitudes de plaza escolar que no puedan ser atendidas en ninguno de los
+5.
+Las solicitudes de plaza escolar que no puedan ser atendidas en ninguno de los
 centros solicitados y correspondan a alumnos que tengan que ser preceptivamente escola-
 
-MARTES 9 DE DICIEMBRE DE 2025Pág. 128 B.O.C.M. Núm. 293
-BOLETÍN OFICIAL DE LA COMUNIDAD DE MADRIDBOCM
+B.O.C.M. Núm. 293
 rizados para el curso escolar 2026-2027, continuarán su tramitación por parte del SAE que
 corresponda. Estas familias podrán realizar, si lo desean, dentro del plazo establecido, una
 solicitud complementaria de admisión preferentemente de forma telemática a través de la
@@ -664,11 +726,13 @@ recogidas por los centros hasta el día 20 de mayo y las posteriores a esta fech
 el SAE atendiendo en todos los casos al orden de llegada.
 — Finalmente, adjudicarán plaza escolar a los alumnos que tengan que ser escolari-
 zados para el curso 2026-2027 y no hayan presentado solicitud de admisión.
-6. En el caso de alumnos ya escolarizados en el mismo municipio que soliciten vo-
+6.
+En el caso de alumnos ya escolarizados en el mismo municipio que soliciten vo-
 luntariamente cambio de centro y a los que no se haya podido adjudicar plaza escolar en al-
 guno de los centros solicitados, los SAE no les asignarán nuevo centro y permanecerán es-
 colarizados en el centro actual.
-7. A lo largo de proceso ordinario de admisión se podrá acceder a través de la Secre-
+7.
+A lo largo de proceso ordinario de admisión se podrá acceder a través de la Secre-
 taría Virtual a la siguiente información, obtenida del Sistema Integral de Gestión Educati-
 va Raíces y que respeta la normativa en materia de protección de datos:
 — Oferta educativa de cada centro en las etapas sostenidas con fondos públicos antes
@@ -695,27 +759,30 @@ licitaron en primera opción como si lo solicitaron en otro orden de prioridad y
 obtenido plaza en el centro.
 — Alumnos ordinarios no admitidos en cada centro una vez generados por el Sistema
 Integral de Gestión Educativa Raíces.
-8. También se podrá acceder, a través de los respectivos SAE, a la información rela-
+8.
+También se podrá acceder, a través de los respectivos SAE, a la información rela-
 tiva a la adjudicación de plaza escolar a los alumnos que no presenten necesidades educa-
 tivas especiales y que hayan sido escolarizados por dicho servicio.
 
-MARTES 9 DE DICIEMBRE DE 2025B.O.C.M. Núm. 293 Pág. 129
-BOLETÍN OFICIAL DE LA COMUNIDAD DE MADRIDBOCM
+B.O.C.M. Núm. 293
 SECCIÓN CUARTA
 Escolarización de alumnos con necesidades educativas especiales o con necesidad
 de compensación educativa en el período ordinario
 Decimoprimera
 Escolarización de alumnos con necesidades educativas especiales. Aspectos generales
-1. La escolarización de dichos alumnos se realizará de conformidad con lo estable-
+1.
+La escolarización de dichos alumnos se realizará de conformidad con lo estable-
 cido en el Decreto 23/2023, de 22 de marzo.
-2. Para ello es esencial determinar lo antes posible el número de alumnos que pre-
+2.
+Para ello es esencial determinar lo antes posible el número de alumnos que pre-
 sentan o pudieran presentar NEE y que será necesario escolarizar en cada localidad en las
 distintas etapas y enseñanzas, lo que requiere agilizar e intensificar el intercambio de infor-
 mación entre la red de orientación especializada y las unidades administrativas de las DAT
 con funciones asignadas. La estimación del volumen de alumnos con NEE que será preci-
 so escolarizar en cada uno de los cursos de las distintas etapas será tenida en cuenta por cada
 DAT a la hora de reservar las plazas para estos alumnos.
-3. La diversidad de necesidades y situaciones existentes en las distintas zonas de la
+3.
+La diversidad de necesidades y situaciones existentes en las distintas zonas de la
 Comunidad de Madrid hace necesario que cada DAT adapte el número, ubicación y recur-
 sos de los SAE de modo que se facilite la escolarización de los alumnos que presentan o pu-
 dieran presentar NEE. Para ello valorarán la posibilidad de instituir uno o varios SAE es-
@@ -727,17 +794,20 @@ y garantía de la participación de las familias. Para ello, la red de orientaci
 proporcionará a todos los alumnos con NEE que participen en el proceso ordinario de ad-
 misión, previa petición de las familias, el modelo anexo V que se adjuntará a la solicitud de
 admisión.
-4. Las solicitudes de admisión de alumnos con NEE, dirigidas al centro elegido en
+4.
+Las solicitudes de admisión de alumnos con NEE, dirigidas al centro elegido en
 primera opción, podrán presentarse a través de alguna de las opciones recogidas en la ins-
 trucción séptima, adjuntando en todos los casos el modelo anexo V.
-5. Las solicitudes de admisión de alumnos que hayan cumplimentado el apartado re-
+5.
+Las solicitudes de admisión de alumnos que hayan cumplimentado el apartado re-
 lativo a la posible presencia de NEE serán detectadas por el Equipo Directivo o titular del
 centro solicitado en primera opción. Los SAE detectarán dichas solicitudes y trasladarán a
 la red de orientación especializada la necesidad de iniciar o concluir la evaluación psicope-
 dagógica de aquellos alumnos que en su solicitud hubieran consignado la posible presencia
 de NEE. Una vez finalizada la evaluación y el posterior informe psicopedagógico, las con-
 clusiones se recogerán en el anexo V, que será trasladado al SAE correspondiente.
-6. Los centros educativos recuperarán las solicitudes de los alumnos que presentan
+6.
+Los centros educativos recuperarán las solicitudes de los alumnos que presentan
 o pudieran presentar NEE y las baremarán. Los SAE y los centros educativos mantendrán
 la oportuna coordinación para garantizar que todos los alumnos sean escolarizados confor-
 me al perfil que finalmente corresponda. En el caso de que algún SAE detecte que la soli-
@@ -745,27 +815,30 @@ citud de un alumno con posibles NEE finalmente no se corresponda con dicho perfi
 pueda optar a las plazas reservadas para NEE, deberá reflejarlo antes del 4 de mayo de 2026
 en el Sistema Integral de Gestión Educativa Raíces para que pueda participar en el proceso
 ordinario de adjudicación de vacantes.
-7. La escolarización de los alumnos con NEE se realizará por los respectivos SAE a
+7.
+La escolarización de los alumnos con NEE se realizará por los respectivos SAE a
 través del Sistema Integral de Gestión Educativa Raíces, se llevará a cabo de forma perso-
 nalizada y tendrá en cuenta el perfil de cada alumno, la prioridad de centros solicitada por
 la familia, la puntuación obtenida en el proceso de baremación de solicitudes y la reserva
 de plaza para dichos alumnos en cada centro sostenido con fondos públicos.
-8. Como se recoge en el Anexo IV, la asignación provisional de una plaza escolar a
+8.
+Como se recoge en el Anexo IV, la asignación provisional de una plaza escolar a
 los alumnos con NEE se realizará por parte de los SAE hasta el 4 de mayo de 2026 y ten-
 drá en cuenta el resultado de las reclamaciones presentadas a la baremación provisional. A
 este fin, los centros informarán previamente al SAE correspondiente sobre el resultado de
 las reclamaciones recibidas. La información sobre la asignación provisional de las plazas a
 los alumnos con NEE será accesible para las familias a través de la Secretaría Virtual y del
 SAE correspondiente el 5 de mayo de 2026.
-9 . D u r a n t el o sd í a s6 ,7y8d em a y od e2026, se abrirá un plazo para realizar alega-
+9.
+Durante los días 6, 7 y 8 de mayo de 2026, se abrirá un plazo para realizar alega-
 ciones a la plaza obtenida, así como, en su caso, para presentar en el SAE que corresponda
 una solicitud complementaria de centros para aquellos alumnos con NEE que no hayan ob-
 
-MARTES 9 DE DICIEMBRE DE 2025Pág. 130 B.O.C.M. Núm. 293
-BOLETÍN OFICIAL DE LA COMUNIDAD DE MADRIDBOCM
+B.O.C.M. Núm. 293
 tenido plaza escolar en ninguno de los centros solicitados y hayan de ser preceptivamente
 escolarizados para el curso 2026-2027.
-10. La escolarización de los alumnos con discapacidad motora, discapacidad auditi-
+10.
+La escolarización de los alumnos con discapacidad motora, discapacidad auditi-
 va o trastorno del espectro autista que requieran recursos de difícil generalización o meto-
 dologías específicas de accesibilidad cognitiva, sensorial y social se realizará en un centro
 de atención preferente para dicho perfil. A este fin, el listado de centros de atención prefe-
@@ -774,7 +847,8 @@ trastorno de espectro del autismo será difundido a través de la página web de
 alumnos de la Comunidad de Madrid antes de que se inicie el periodo de presentación de
 solicitudes de admisión. Igualmente será difundido el listado de centros que cuentan con
 perfil de Técnico Educativo III, Graduado en Enfermería o Graduado en Fisioterapia.
-11. Finalizada la escolarización de los alumnos que presentan NEE, las DAT podrán
+11.
+Finalizada la escolarización de los alumnos que presentan NEE, las DAT podrán
 determinar la continuidad de la reserva de plazas no adjudicadas durante el proceso extraor-
 dinario. A este fin, los SAE encargados de la escolarización NEE realizarán la oportuna
 propuesta a la respectiva Dirección de Área Territorial. Las plazas reservadas para alumnos
@@ -784,19 +858,22 @@ lares en el proceso ordinario de escolarización.
 Decimosegunda
 Escolarización de alumnos con necesidades educativas especiales en la modalidad de
 Educación Especial
-1. La escolarización de alumnos en la modalidad Educación Especial podrá realizar-
+1.
+La escolarización de alumnos en la modalidad Educación Especial podrá realizar-
 se en centros específicos de educación especial o en unidades de educación especial ubica-
 das en centros ordinarios de Educación Infantil y Primaria y requiere contar con la oportu-
 na resolución previa favorable para la modalidad de Educación Especial emitida por el
 titular de la Dirección de Área Territorial que corresponda, de acuerdo con lo establecido
 en la normativa vigente.
-2. Con la finalidad de facilitar la elección por parte de las familias, el listado de cen-
+2.
+Con la finalidad de facilitar la elección por parte de las familias, el listado de cen-
 tros de Educación Especial sostenidos con fondos públicos y de centros ordinarios de titu-
 laridad pública que cuenten con unidades de Educación Especial, así como las etapas edu-
 cativas ofertadas en cada uno de ellos, será difundido a través de la página web de admisión
 de alumnos de la Comunidad de Madrid antes de que se inicie el periodo de presentación
 de solicitudes de admisión.
-3. Dado el carácter global e integrador de las distintas etapas educativas en las que
+3.
+Dado el carácter global e integrador de las distintas etapas educativas en las que
 se ordenan las enseñanzas de Educación Especial: Educación Infantil Especial, Educación
 Básica Obligatoria y Talleres Formativos, y la posibilidad de los centros de constituir gru-
 pos funcionales con alumnos de diferentes edades que permitan ofrecer una respuesta ade-
@@ -804,29 +881,33 @@ cuada al perfil y necesidades de cada alumno, la oferta inicial de vacantes se r
 manera global para cada etapa educativa. Todo ello sin perjuicio de la posterior matricula-
 ción de cada alumno en el curso que le corresponda por edad según lo dispuesto en la Or-
 den 2808/2023, de 30 de julio.
-4. De forma análoga al resto de alumnos con NEE, las solicitudes de admisión para
+4.
+De forma análoga al resto de alumnos con NEE, las solicitudes de admisión para
 la modalidad de Educación Especial siempre irán dirigidas al centro elegido en primera op-
 ción y podrán presentarse a través de alguna de las opciones recogidas en la instrucción sép-
 tima. Incluirán de forma priorizada centros que cuenten con dicha modalidad de escolari-
 zación y en todos los casos se adjuntará el modelo anexo V.
-5. La escolarización de los alumnos con NEE en la modalidad de Educación Espe-
+5.
+La escolarización de los alumnos con NEE en la modalidad de Educación Espe-
 cial se realizará según lo establecido en el artículo 4 de la Orden 2808/2023, de 30 de julio
 y de modo análogo al resto de solicitudes de alumnos con NEE se realizará por los SAE de
 forma personalizada a través del Sistema Integral de Gestión Educativa Raíces.
 Decimotercera
 Escolarización de alumnos con necesidad de compensación educativa
-1. Las solicitudes de plaza escolar que hayan señalado la necesidad de compensación
+1.
+Las solicitudes de plaza escolar que hayan señalado la necesidad de compensación
 educativa por desventaja social serán analizadas por el centro solicitado en primera opción.
 Para su adjudicación, el centro realizará consulta al SAE y, de manera coordinada, resolve-
 rán al respecto.
-2. Durante el proceso de adjudicación, las plazas reservadas para alumnos con nece-
+2.
+Durante el proceso de adjudicación, las plazas reservadas para alumnos con nece-
 sidad de compensación educativa por desventaja social que no hayan sido necesarias para
 
-MARTES 9 DE DICIEMBRE DE 2025B.O.C.M. Núm. 293 Pág. 131
-BOLETÍN OFICIAL DE LA COMUNIDAD DE MADRIDBOCM
+B.O.C.M. Núm. 293
 resolver las solicitudes de dicho perfil, decaerán como vacantes de reserva para estos alum-
 nos y se utilizarán para escolarizar al resto de alumnos solicitantes de plaza escolar.
-3. Con el fin de facilitar su escolarización y atención educativa, los alumnos solici-
+3.
+Con el fin de facilitar su escolarización y atención educativa, los alumnos solici-
 tantes de plaza escolar que se encuentren en situación de acogimiento familiar debidamen-
 te acreditado por la Dirección General de Infancia, Familia y Fomento de la Natalidad o
 cuya guarda o tutela sea ostentada por la citada Dirección General serán escolarizados con
@@ -840,18 +921,23 @@ SECCIÓN QUINTA
 Información para las familias
 Decimocuarta
 Información para las familias en el proceso ordinario de admisión
-1. Previamente al inicio del proceso de presentación de solicitudes de admisión de
+1.
+Previamente al inicio del proceso de presentación de solicitudes de admisión de
 alumnos para el curso escolar 2026/2027, todos los centros sostenidos con fondos públicos
 deberán hacer pública a través de las plataformas informativas de cada centro y de su pági-
 na web la siguiente información con el fin de que las familias tengan acceso a la misma:
-a) Las líneas básicas del proyecto educativo del centro que incluya, en su caso, el ca-
+a)
+Las líneas básicas del proyecto educativo del centro que incluya, en su caso, el ca-
 rácter propio.
-b) Las normas de organización, funcionamiento y convivencia.
-c) La relación de programas educativos que se desarrollan en el centro, de las activida-
+b)
+Las normas de organización, funcionamiento y convivencia.
+c)
+La relación de programas educativos que se desarrollan en el centro, de las activida-
 des complementarias y extraescolares que tengan carácter habitual, los recursos per-
 sonales y materiales con los que cuenta el centro para facilitar la atención educativa
 de sus alumnos, así como los servicios complementarios que ofrece el centro.
-d) La información básica sobre el proceso de admisión, que incluirá:
+d)
+La información básica sobre el proceso de admisión, que incluirá:
 — La oferta de vacantes prevista en la fecha de inicio del plazo de presentación
 de solicitudes de admisión.
 — Los supuestos y circunstancias aprobados por el centro para la adjudicación
@@ -859,30 +945,33 @@ del criterio complementario.
 — La información relativa a las adscripciones de su centro en relación con otros
 centros.
 — La ubicación del SAE que corresponda al centro.
-e) Otras informaciones de interés sobre el centro, de conformidad con lo establecido
+e)
+Otras informaciones de interés sobre el centro, de conformidad con lo establecido
 en la Resolución conjunta de 4 de diciembre de 2023, de las Viceconsejerías de
 Política Educativa y de Organización Educativa, sobre la información a las fami-
 lias que deben contener las páginas web de los centros educativos de la Comuni-
 dad de Madrid, en cumplimiento de la Ley 1/2022, de 10 de febrero, Maestra de
 Libertad de Elección Educativa de la Comunidad de Madrid.
-2. Con anterioridad al inicio del período de presentación de solicitudes de plaza esco-
+2.
+Con anterioridad al inicio del período de presentación de solicitudes de plaza esco-
 lar, las familias podrán obtener información sobre el proceso de admisión y los centros ads-
 critos a través de la Secretaría Virtual y la página web de los centros educativos. En el caso
 de los colegios públicos y en su caso, los centros privados sostenidos con fondos públicos,
 cada centro informará a las familias de los alumnos que cursan sexto curso de Educación Pri-
 maria acerca de los centros adscritos con el fin de que éstas puedan decidir si hacen uso de
 la prioridad que ello supone de cara al proceso de admisión para el curso 2026-2027.
-3. La información sobre los distintos procedimientos y los requisitos aplicables en
+3.
+La información sobre los distintos procedimientos y los requisitos aplicables en
 cada caso se incluirá en la página web de la Comunidad de Madrid siendo aconsejable que
 las familias realicen las gestiones oportunas para disponer de un procedimiento válido para
 la presentación de solicitudes por vía telemática.
-4. A lo largo del proceso de admisión, las familias podrán acceder a través de la Se-
+4.
+A lo largo del proceso de admisión, las familias podrán acceder a través de la Se-
 cretaría Virtual a la información que se detalla en la instrucción décima en las fechas que
 aparecen recogidas en el anexo IV, respetando en todo momento el cumplimiento de la nor-
 mativa vigente en materia de protección de datos.
 
-MARTES 9 DE DICIEMBRE DE 2025Pág. 132 B.O.C.M. Núm. 293
-BOLETÍN OFICIAL DE LA COMUNIDAD DE MADRIDBOCM
+B.O.C.M. Núm. 293
 Con el fin de facilitar a las familias que no puedan acceder a la Secretaría Virtual la in-
 formación no publicable correspondiente a su solicitud de admisión, podrán consultarla
 personalmente en el centro solicitado en primer lugar una vez acreditada su identidad. En
@@ -895,10 +984,12 @@ SECCIÓN SEXTA
 Matriculación de alumno
 Decimoquinta
 Matriculación de alumnos en el proceso ordinario de admisión
-1. Los alumnos admitidos en las diferentes enseñanzas sostenidas con fondos públi-
+1.
+Los alumnos admitidos en las diferentes enseñanzas sostenidas con fondos públi-
 cos realizarán su matriculación en los respectivos centros educativos durante los plazos y
 períodos establecidos para cada una de ellas en el anexo IV.
-2. En el marco de la normativa aplicable en materia de protección de datos de carác-
+2.
+En el marco de la normativa aplicable en materia de protección de datos de carác-
 ter personal y con la finalidad de simplificar la recogida y tratamiento de información, en
 el proceso de matriculación los centros deberán limitarse a solicitar únicamente los datos
 estrictamente necesarios para el ejercicio de la función educativa. Asimismo, se abstendrán
@@ -906,7 +997,8 @@ de requerir a las familias información que ya esté en poder de la administraci
 centro o que ya haya sido previamente aportada por las familias. Los datos recabados de-
 berán ser adecuados, pertinentes y limitados a lo necesario en relación con los fines para los
 que se tratan.
-3. En aplicación de lo dispuesto en el artículo 10.7 de la Orden 1240/2013, de 17 de
+3.
+En aplicación de lo dispuesto en el artículo 10.7 de la Orden 1240/2013, de 17 de
 abril, la relación de solicitantes no admitidos en un centro sostenido con fondos públicos,
 ordenada según la puntuación obtenida por cada alumno dentro de cada grupo de adscrip-
 ción y prioridad de solicitud, seguirá vigente hasta la fecha de inicio las actividades lecti-
@@ -923,50 +1015,58 @@ SECCIÓN SÉPTIMA
 Proceso extraordinario de admisión
 Decimosexta
 Proceso extraordinario de admisión de alumnos
-1. El proceso extraordinario de admisión de alumnos se realizará de conformidad
+1.
+El proceso extraordinario de admisión de alumnos se realizará de conformidad
 con lo establecido en el artículo 16 de la Orden 1240/2013, de 17 de abril, de la Consejería
 de Educación, Juventud y Deporte.
-2. Los SAE dispondrán, durante el período extraordinario de admisión, una vez ter-
+2.
+Los SAE dispondrán, durante el período extraordinario de admisión, una vez ter-
 minado el plazo de matriculación, el 25 de junio de 2026 en Educación Infantil, Primaria y
 Especial y el 3 de julio de 2026 en Educación Secundaria Obligatoria y Bachillerato, de in-
 formación actualizada relativa a las vacantes existentes en todos los cursos y enseñanzas en
 los centros sostenidos con fondos públicos a través del Sistema Integral de Gestión Educa-
 tiva Raíces. Los centros educativos y los SAE correspondientes mantendrán la necesaria
 coordinación para garantizar la adecuada asignación de las vacantes.
-3. La solicitud para participar en el proceso extraordinario de admisión para el cur-
+3.
+La solicitud para participar en el proceso extraordinario de admisión para el cur-
 so 2026-2027, según modelo específico incluido en la página web de la Comunidad de
 Madrid, podrá presentarse de forma presencial o telemática a partir del 25 de junio de 2026
 en Educación Infantil, Primaria y Especial y el 3 julio de 2026 en Educación Secundaria
 Obligatoria y Bachillerato en los centros educativos para el curso de la etapa solicitado y se
 
-MARTES 9 DE DICIEMBRE DE 2025B.O.C.M. Núm. 293 Pág. 133
-BOLETÍN OFICIAL DE LA COMUNIDAD DE MADRIDBOCM
+B.O.C.M. Núm. 293
 resolverá con la asignación de plaza vacante si esta existiera o con la derivación en el Sis-
 tema Integral de Gestión Educativa Raíces al SAE que corresponda en caso de que no exis-
 tiera plaza vacante. La solicitud también puede presentarse presencialmente en el SAE que
 corresponda.
-4. Excepcionalmente, con el fin de facilitar en el proceso de admisión extraordinario el
+4.
+Excepcionalmente, con el fin de facilitar en el proceso de admisión extraordinario el
 agrupamiento en un mismo centro escolar de varios hermanos, pertenecientes o no a familias
 numerosas, una vez iniciado el curso escolar, se llevará a cabo el siguiente procedimiento:
-a) El procedimiento se iniciará mediante solicitud de los padres, madres o tutores le-
+a)
+El procedimiento se iniciará mediante solicitud de los padres, madres o tutores le-
 gales, dirigida al director del Área Territorial correspondiente, en la que se comu-
 nicará la existencia de la condición de hermano o de familia numerosa y se acom-
 pañará del título de familia numerosa, o información o acreditación que
 corresponda en cada caso. A la solicitud deberá acompañarse la conformidad del
 centro educativo de que se trate.
-b) La Dirección de Área Territorial deberá valorar el procedimiento seguido, si han
+b)
+La Dirección de Área Territorial deberá valorar el procedimiento seguido, si han
 sido respetados los derechos del menor y de la familia y se han tenido en cuenta
 las condiciones del centro escolar.
-c) A la vista de la solicitud presentada, el titular de la Dirección de Área Territorial
+c)
+A la vista de la solicitud presentada, el titular de la Dirección de Área Territorial
 correspondiente autorizará o denegará la escolarización de los hijos de la unidad
 familiar en el mismo centro.
-5. En el caso de los alumnos que desconozcan o pudieran presentar graves carencias
+5.
+En el caso de los alumnos que desconozcan o pudieran presentar graves carencias
 en el conocimiento de la lengua española y deban escolarizarse por primera vez en la Co-
 munidad de Madrid a partir de tercer curso de Educación Primaria o en Educación Secun-
 daria Obligatoria, los centros educativos o el SAE, según corresponda, les informarán y
 ofrecerán la posibilidad de escolarización temporal en un aula de enlace en centros sosteni-
 dos con fondos públicos.
-6. Durante el curso escolar, para los alumnos que se encuentren en situación de aco-
+6.
+Durante el curso escolar, para los alumnos que se encuentren en situación de aco-
 gimiento familiar debidamente acreditado por la Dirección General de Infancia, Familia y
 Fomento de la Natalidad o cuya guarda o tutela sea ostentada por la citada Dirección Ge-
 neral se podrá solicitar el cambio de centro por razones de proximidad al lugar de residen-
@@ -975,7 +1075,8 @@ SECCIÓN OCTAVA
 Disposiciones finales
 Decimoséptima
 Custodia y archivo de las solicitudes y de la documentación
-1. Los criterios para la custodia y archivo de las solicitudes de admisión y de la do-
+1.
+Los criterios para la custodia y archivo de las solicitudes de admisión y de la do-
 cumentación en papel del proceso de admisión son los siguientes: las solicitudes de admi-
 sión y la información serán grabadas y almacenadas en el Sistema Integral de Gestión Edu-
 cativa Raíces, garantizando su conservación segura y confidencial.
@@ -984,21 +1085,24 @@ tadas en formato papel, los centros y los SAE adoptarán las medidas necesarias 
 chivo y custodia con el objetivo de garantizar la protección de los datos personales conte-
 nidos en dichos documentos:
 — SAE:
-• Alumnos a los que se les asigna plaza: la documentación se remite al centro en
+•
+Alumnos a los que se les asigna plaza: la documentación se remite al centro en
 el que el alumno haya sido admitido.
-• Alumnos a los que no se asigna plaza y que se mantienen escolarizados en su
+•
+Alumnos a los que no se asigna plaza y que se mantienen escolarizados en su
 centro de origen: se mantendrá archivada en el SAE durante el siguiente curso
 escolar.
 — Centros que admiten alumnos procedentes o derivados de los SAE:
-• Alumnos que finalmente se matriculen en el centro: se archivará en su expe-
+•
+Alumnos que finalmente se matriculen en el centro: se archivará en su expe-
 diente personal.
-• Alumnos que finalmente no se matriculen en el centro: se mantendrá archivada
+•
+Alumnos que finalmente no se matriculen en el centro: se mantendrá archivada
 en el centro durante el siguiente curso escolar.
 Una vez superado el período de custodia y archivo de las solicitudes y documentación
 asociada presentadas en papel, el centro y el SAE, según corresponda, deberán proceder a
 
-MARTES 9 DE DICIEMBRE DE 2025Pág. 134 B.O.C.M. Núm. 293
-BOLETÍN OFICIAL DE LA COMUNIDAD DE MADRIDBOCM
+B.O.C.M. Núm. 293
 su destrucción aplicando las medidas de seguridad necesarias para preservar la privacidad
 y confidencialidad de la información conforme a la normativa vigente en materia de pro-
 tección de datos personales.
@@ -1019,10 +1123,8 @@ dio, según corresponda.
 Madrid, a 26 de noviembre de 2025.—El Viceconsejero de Política y Organización
 Educativa, José Carlos Fernández Borreguero.
 
-MARTES 9 DE DICIEMBRE DE 2025B.O.C.M. Núm. 293 Pág. 135
-BOLETÍN OFICIAL DE LA COMUNIDAD DE MADRIDBOCM
-
-## ANEXO I 
+B.O.C.M. Núm. 293
+ANEXO I 
  
 BAREMO DE SOLICITUDES PARA EL PROCESO DE ADMISIÓN DE ALUMNOS PARA 
 EL CURSO 2026/2027 EN CENTROS SOSTENIDOS CON FONDOS PÚBLICOS. 
@@ -1063,7 +1165,7 @@ contabilizará a los efectos de aplicación del presente criterio de admisión.
 1º Familia numerosa general: 10 puntos. 
 2º Familia numerosa especial: 11 puntos. 
  
-6. Alumno solicitante nacido de parto  múltiple: 3 puntos. 
+6. Alumno solicitante nacido de parto múltiple: 3 puntos. 
  
 7. Alumno solicitante perteneciente a familia monoparental: 3 puntos. 
  
@@ -1074,8 +1176,7 @@ alumno solicitante, de los padres, hermanos o, en su caso, de los tutores legale
 alumno: 7 puntos. 
  
 
-MARTES 9 DE DICIEMBRE DE 2025Pág. 136 B.O.C.M. Núm. 293
-BOLETÍN OFICIAL DE LA COMUNIDAD DE MADRIDBOCM
+B.O.C.M. Núm. 293
 10. Condición de víctima de violencia de género o del terrorismo: 2 puntos. 
  
 11. Condición de antiguo alumno del propio alumno, de los padres, tutores legales o de 
@@ -1098,7 +1199,7 @@ trabajo de alguno de los padres o tutores legales del alumno.
 3. Mayor puntuación obtenida en el apartado de renta de la unidad familiar. 
 4. Mayor puntuación en el apartado de padres o tutores legales del alumno que trabajen 
 en el mismo centro para el que se solicita plaza. 
-5. Mayor puntuación en el apartado alumno pe rteneciente a familia numerosa. 
+5. Mayor puntuación en el apartado alumno perteneciente a familia numerosa. 
 6. Mayor puntuación en el apartado alumno solicitante nacido de parto múltiple. 
 7. Mayor puntuación en el apartado alumno solicitante perteneciente a familia 
 monoparental. 
@@ -1128,10 +1229,8 @@ criterios objetivos y que deben ser hechos públicos por el centro.
  
  
 
-MARTES 9 DE DICIEMBRE DE 2025B.O.C.M. Núm. 293 Pág. 137
-BOLETÍN OFICIAL DE LA COMUNIDAD DE MADRIDBOCM
-
-## ANEXO II 
+B.O.C.M. Núm. 293
+ANEXO II 
  
 BAREMO DE SOLICITUDES PARA EL PROCESO DE ADMISIÓN DE ALUMNOS PARA 
 EL CURSO 2026/2027 EN BACHILLERATO SOSTENIDO CON FONDOS PÚBLICOS 
@@ -1139,7 +1238,8 @@ EL CURSO 2026/2027 EN BACHILLERATO SOSTENIDO CON FONDOS PÚBLICOS
  
 Criterios prioritarios: 
  
-1. Hermanos matriculados en el centro.  
+1. 
+Hermanos matriculados en el centro.  
 En caso de que haya un hermano matriculado en el centro solicitado: 15 puntos. 
 En caso de que haya dos o más hermanos matriculados en el centro solicitado: 30 
 puntos. 
@@ -1154,7 +1254,8 @@ Domicilio o lugar de trabajo de uno cualquiera de los padres o tutores legales d
 alumno situado en un municipio de la Comunidad de Madrid distinto al del centro 
 solicitado: 8 puntos. 
  
-3. Renta de la unidad familiar. 
+3. 
+Renta de la unidad familiar. 
 Alguno de los padres o tutores legales del alumno es beneficiario de la ayuda de la 
 Renta Mínima de Inserción o del Ingreso Mínimo Vital: 12 puntos. 
  
@@ -1171,7 +1272,8 @@ establezca la consejería competente en materia de Educación.
 5.   Padres o tutores legales del alumno que trabajen en el mismo centro para el que solicita 
 plaza: 10 puntos.  
  
-6. Alumno solicitante perteneciente a familia numerosa. El concebido no nacido se 
+6. 
+Alumno solicitante perteneciente a familia numerosa. El concebido no nacido se 
 contabilizará a los efectos de aplicación del presente criterio de admisión. 
 1º Familia numerosa general: 10 puntos. 
 2º Familia numerosa especial: 11 puntos. 
@@ -1183,8 +1285,7 @@ contabilizará a los efectos de aplicación del presente criterio de admisión.
 9.   Alumno solicitante en situación de acogimiento familiar: 3 puntos. 
  
 
-MARTES 9 DE DICIEMBRE DE 2025Pág. 138 B.O.C.M. Núm. 293
-BOLETÍN OFICIAL DE LA COMUNIDAD DE MADRIDBOCM
+B.O.C.M. Núm. 293
 10. Existencia de discapacidad física, psíquica o sensorial legalmente acreditada del alumno 
 solicitante, de los padres, hermanos o, en su caso, de los tutores legales del alumno: 7  
 puntos. 
@@ -1237,10 +1338,8 @@ criterios objetivos y que deben ser hechos públicos por el centro.
  
  
 
-MARTES 9 DE DICIEMBRE DE 2025B.O.C.M. Núm. 293 Pág. 139
-BOLETÍN OFICIAL DE LA COMUNIDAD DE MADRIDBOCM
-
-## ANEXO III 
+B.O.C.M. Núm. 293
+ANEXO III 
  
 CRITERIOS PARA LA BAREMACIÓN DE SOLICITUDES PARA EL PROCESO DE 
 ADMISIÓN DE ALUMNOS PARA EL CURSO 2026/2027 EN CENTROS SOSTENIDOS 
@@ -1261,19 +1360,19 @@ correspondiente a dicho criterio o criterios.
  
 a) Hermanos matriculados en el centro: 
  
-/g120 Las familias indicarán dicha circunstancia para el centro o centros concretos en la 
+ Las familias indicarán dicha circunstancia para el centro o centros concretos en la 
 solicitud. Dicha información deberá estar referida al período de presentación de 
 solicitudes de admisión. Los centros comprobarán la información aportada y, en su 
 caso, asignarán la puntuación correspondiente. 
  
-/g120 Con el fin de favorecer el agrupamiento familiar, en el caso de la existencia de dos o 
+ Con el fin de favorecer el agrupamiento familiar, en el caso de la existencia de dos o 
 más solicitudes de hermanos en un mismo centro cuando en el proceso de 
 adjudicación de plaza alguno de ellos vaya a figurar entre los alumnos admitidos en el 
 centro, se concederá puntuación por este apartado al resto de los hermanos 
 solicitantes. Dicha puntuación tendrá efecto en el proceso de adjudicación de plazas 
 escolares en el centro. 
  
-/g120 Los alumnos en situación de acogimiento familiar debidamente acreditado por la 
+ Los alumnos en situación de acogimiento familiar debidamente acreditado por la 
 Dirección General de Infancia, Familia y Fomento de la Natalidad o cuya guarda o 
 tutela sea ostentada por la citada Dirección General, obtendrán plaza escolar con 
 cargo a las plazas reservadas para alumnos con necesidades específicas de apoyo 
@@ -1284,7 +1383,7 @@ corresponda por el presente apartado.
  
 b)  Proximidad del domicilio familiar o lugar de trabajo: 
  
-/g120 Con el fin de garantizar que todos los solicitantes de plaza escolar cuyo domicilio 
+ Con el fin de garantizar que todos los solicitantes de plaza escolar cuyo domicilio 
 familiar esté situado en la Comunidad de Madrid puedan obtener la máxima 
 puntuación por el concepto de proximidad para dichas enseñanzas, aquellos 
 solicitantes que residan en municipios que no cuenten con ningún centro sostenido 
@@ -1292,20 +1391,19 @@ con fondos públicos que imparta segundo ciclo de Educación Infantil, Educació
 Especial, Educación Primaria y/o Educación Secundaria Obligatoria obtendrán 12 
 puntos cuando soliciten plaza escolar para cursar alguna de dichas enseñanzas en 
 
-MARTES 9 DE DICIEMBRE DE 2025Pág. 140 B.O.C.M. Núm. 293
-BOLETÍN OFICIAL DE LA COMUNIDAD DE MADRIDBOCM
+B.O.C.M. Núm. 293
 centros educativos situados en el municipio próximo en el que de forma habitual se 
 escolaricen dichos alumnos. Las DAT adoptarán las medidas oportunas a través del 
 Sistema Integral de Gestión Educativa Raíces para que pueda aplicarse este criterio. 
  
-/g120 Las familias indicarán el domicilio elegido a efectos de baremación en la solicitud. La 
-Comunidad de Madrid consultará, por medios  electrónicos, el domicilio familiar. En 
+ Las familias indicarán el domicilio elegido a efectos de baremación en la solicitud. La 
+Comunidad de Madrid consultará, por medios electrónicos, el domicilio familiar. En 
 caso de manifestar oposición expresa a la consulta de datos será necesario aportar 
 la copia del certificado o volante de empadronamiento de la unidad familiar. En caso 
 de elegir el domicilio laboral se deberá presentar la certificación del lugar de trabajo 
 o documento equivalente en el que se indique el domicilio laboral. 
  
-/g120 Se tomará en consideración, indistintamente, y a elección de la familia el domicilio 
+ Se tomará en consideración, indistintamente, y a elección de la familia el domicilio 
 familiar o el lugar de trabajo de cualquiera de los padres, madres o tutores legales del 
 alumno. En el caso de las solicitudes que aleguen a efectos de baremación un 
 domicilio laboral que esté afectado durante el período de presentación de solicitudes 
@@ -1315,7 +1413,7 @@ laboral, deberá ser único para todos los centros incluidos en la solicitud.
 El domicilio indicado será el que se utilice como referencia para la baremación en 
 todos los centros incluidos en la solicitud. 
  
-/g120 Las familias que acrediten la previsión de cambio de domicilio dentro de la Comunidad 
+ Las familias que acrediten la previsión de cambio de domicilio dentro de la Comunidad 
 de Madrid o de traslado a la misma motivado por la movilidad forzosa de cualquiera de 
 los padres, madres o tutores legales, una discapacidad sobrevenida de cualquiera de 
 los miembros de la familia o a un cambio de residencia derivado de actos de violencia 
@@ -1325,7 +1423,7 @@ fehacientemente el domicilio laboral o familiar previsto en la Comunidad de Madr
 se les asignará la puntuación correspondiente, indicándose el domicilio actual a 
 efectos de comunicación.  
  
-/g120 De acuerdo con el Código Civil (artículo 40 y 154), salvo pérdida de la patria potestad 
+ De acuerdo con el Código Civil (artículo 40 y 154), salvo pérdida de la patria potestad 
 por parte de los padres, madres o tutores legales debidamente documentada, el 
 domicilio de los hijos menores y no emancipados, necesariamente y por imperativo 
 legal, es: 
@@ -1335,22 +1433,21 @@ potestad.
 separación, divorcio o nulidad matrimonial. 
 3. El del tutor del alumno que legalmente ostente la patria potestad.        
  
-/g120 Los alumnos en situación de acogimiento familiar debidamente acreditado por la 
+ Los alumnos en situación de acogimiento familiar debidamente acreditado por la 
 Dirección General de Infancia, Familia y Fomento de la Natalidad harán constar, en su 
 caso, el domicilio familiar o laboral de la familia acogedora.  
  
-/g120 No se admitirá como domicilio a efectos de escolarización, el de parientes o familiares 
+ No se admitirá como domicilio a efectos de escolarización, el de parientes o familiares 
 en ninguna línea ni grado de consanguinidad o afinidad que no pertenezcan a la 
 unidad familiar. 
  
  
  
 
-MARTES 9 DE DICIEMBRE DE 2025B.O.C.M. Núm. 293 Pág. 141
-BOLETÍN OFICIAL DE LA COMUNIDAD DE MADRIDBOCM
+B.O.C.M. Núm. 293
 c) Renta de la unidad familiar: 
                                 
-/g120 Se asignará puntuación por este apartado a aquellos solicitantes cuyo padre, madre o 
+ Se asignará puntuación por este apartado a aquellos solicitantes cuyo padre, madre o 
 tutor legal del alumno sean beneficiarios y perciban la Renta Mínima de Inserción o el 
 Ingreso Mínimo Vital en el período de presentación de las solicitudes. Para ello es 
 necesario indicar dicha circunstancia en la solicitud. La Comunidad de Madrid 
@@ -1359,7 +1456,7 @@ Renta Mínima de Inserción o el Ingreso Mínimo Vital. En caso de manifestar
 oposición expresa a la consulta de datos será necesario aportar la documentación 
 que la acredite fehacientemente. 
  
-/g120 Aquellos solicitantes que señalen la situación de ser beneficiarios de la Renta Mínima 
+ Aquellos solicitantes que señalen la situación de ser beneficiarios de la Renta Mínima 
 de Inserción o el Ingreso Mínimo Vital y se opongan a la consulta sin aportar la 
 documentación justificativa de dicha situación, según corresponda en cada caso, no 
 podrán obtener puntuación por el citado criterio de admisión ni tampoco podrán ser 
@@ -1367,7 +1464,7 @@ tenidos en cuenta en el caso de un posible desempate por dicho apartado.
  
 d) Padres o tutores legales que trabajen en el mismo centro para el que solicita plaza: 
  
-/g120 Para acreditar la condición de padre, madre o tutor legal del alumno que trabaje en el 
+ Para acreditar la condición de padre, madre o tutor legal del alumno que trabaje en el 
 centro deberá indicar dicha circunstancia en la solicitud y será necesario adjuntar a la 
 solicitud la siguiente información: Nombre, apellidos y NIF o NIE, del padre, madre o 
 tutor legal del alumno solicitante y la denominación del puesto laboral desempeñado 
@@ -1378,14 +1475,14 @@ caso, asignarán la puntuación correspondiente.
  
 e)  Alumno solicitante perteneciente a familia numerosa: 
  
-/g120 Para acreditar la situación de familia numerosa deberá indicar tal circunstancia en la 
+ Para acreditar la situación de familia numerosa deberá indicar tal circunstancia en la 
 solicitud. La Comunidad de Madrid consultará, por medios electrónicos, la 
 documentación para aquellos solicitantes que ya tengan reconocida dicha situación. 
 En caso de manifestar oposición expresa a la consulta se aportará el título o carné 
 actualizado de familia numerosa en el que figurará reflejado si se trata de una familia 
 numerosa de tipo general o especial.  
  
-/g120 El concebido no nacido se contabilizará a los efectos de aplicación del presente criterio 
+ El concebido no nacido se contabilizará a los efectos de aplicación del presente criterio 
 de admisión. Para ello es necesario aportar certificación médica oficial que acredite el 
 embarazo en el momento de la presentación de la solicitud de admisión, semana de 
 gestación y la fecha prevista para el nacimiento. En la misma certificación aparecerá, 
@@ -1397,18 +1494,17 @@ fotocopia del título o carné de familia numerosa y certificación médica acre
 gestación que, conforme a lo establecido en el párrafo anterior, justifique el cambio de 
 categoría. 
  
-/g120 En el caso de que la familia solicitante aún no tenga el título de familia numerosa 
+ En el caso de que la familia solicitante aún no tenga el título de familia numerosa 
 también es necesario que aporte documentación por no ser todavía posible realizar 
 
-MARTES 9 DE DICIEMBRE DE 2025Pág. 142 B.O.C.M. Núm. 293
-BOLETÍN OFICIAL DE LA COMUNIDAD DE MADRIDBOCM
+B.O.C.M. Núm. 293
 dicha consulta por medios electrónicos: información sobre los datos obrantes en el 
 Registro Civil, documentación acreditativa que corresponda o, en su caso, copia del 
 libro de familia y/o certificado individual de todos los miembros de la unidad familiar.  
  
 f) Alumno solicitante nacido de parto múltiple:  
  
-/g120 Para acreditar que el alumno ha nacido de parto múltiple deberá indicar dicha 
+ Para acreditar que el alumno ha nacido de parto múltiple deberá indicar dicha 
 circunstancia en la solicitud y será necesario aportar información sobre los datos 
 obrantes en el Registro Civil, documentación acreditativa que corresponda o, en su 
 caso, copia del libro de familia y/o certificado individual de todos los miembros de la 
@@ -1416,7 +1512,7 @@ unidad familiar.
  
 g) Alumno solicitante perteneciente a familia monoparental:  
  
-/g120 A efectos del proceso de admisión de alumnos se considera familia monoparental 
+ A efectos del proceso de admisión de alumnos se considera familia monoparental 
 aquella constituida por un solo ascendiente, con el que vive el alumno, y que es el 
 único sustentador de la familia. De esta manera, se entiende que un alumno sujeto a 
 patria potestad prorrogada o tutela, pertenece a una familia con la condición de 
@@ -1431,14 +1527,14 @@ individual de todos los miembros de la unidad familiar.
  
 h) Alumno solicitante en situación de acogimiento familiar:  
  
-/g120 Para acreditar la situación de acogimiento del solicitante deberá indicar dicha 
+ Para acreditar la situación de acogimiento del solicitante deberá indicar dicha 
 circunstancia en la solicitud y aportar copia de la documentación administrativa que la 
 justifique. 
  
 i) Discapacidad física, psíquica o sensorial del alumno solicitante, padres, hermanos 
 o tutores legales: 
  
-/g120 Se deberá indicar tal circunstancia en la solicitud para que la administración 
+ Se deberá indicar tal circunstancia en la solicitud para que la administración 
 competente realice la consulta electrónica correspondiente. En caso de manifestar 
 oposición expresa a la consulta de datos, será necesario acreditar dicha circunstancia 
 mediante la presentación de los correspondientes certificados e informes emitidos por 
@@ -1454,35 +1550,34 @@ de discapacidad igual o superior al 33 %.
  
  
 
-MARTES 9 DE DICIEMBRE DE 2025B.O.C.M. Núm. 293 Pág. 143
-BOLETÍN OFICIAL DE LA COMUNIDAD DE MADRIDBOCM
+B.O.C.M. Núm. 293
 j) Condición de víctima de violencia de género o del terrorismo: 
  
-/g120 La condición de víctima de violencia de género podrá acreditarse conforme a lo 
+ La condición de víctima de violencia de género podrá acreditarse conforme a lo 
 establecido en el artículo 23 de la Ley Orgánica 1/2004, de 28 de diciembre, de 
 medidas de protección integral contra la violencia de género, mediante títulos de 
 carácter judicial o administrativo según corresponda. 
-/g120 Los solicitantes acreditarán la condición de víctima del terrorismo mediante la 
+ Los solicitantes acreditarán la condición de víctima del terrorismo mediante la 
 presentación del certificado que emite el Ministerio del Interior.  
  
 k) Valoración del expediente académico (último curso finalizado) exclusivamente para 
 la admisión a las enseñanzas de Bachillerato: 
  
-/g120 Las familias indicarán dicha circunstancia para el centro o centros concretos en la 
+ Las familias indicarán dicha circunstancia para el centro o centros concretos en la 
 solicitud. 
  
-/g120 En cumplimiento de lo dispuesto en el anexo II del Decreto 29/2013, de 11 de abril, del 
+ En cumplimiento de lo dispuesto en el anexo II del Decreto 29/2013, de 11 de abril, del 
 Consejo de Gobierno, de libertad de elección de centro escolar en la Comunidad de 
 Madrid, modificado y actualizado por el Decreto 244/2021, de 29 de diciembre, el 
 centro valorará el expediente académico de los solicitantes en el último curso 
 finalizado y superado en el Sistema Educativo Español. El expediente académico se 
 acreditará mediante certificación académica personal o documentación equivalente. 
  
-/g120 Procedimiento para el cálculo de la nota media. Se utilizarán las calificaciones 
+ Procedimiento para el cálculo de la nota media. Se utilizarán las calificaciones 
 numéricas de todas las materias o, en su caso, ámbitos, que integran el último curso 
 finalizado y superado. 
  
-/g120 Complementariamente a lo anterior, para valorar los resultados académicos en el 
+ Complementariamente a lo anterior, para valorar los resultados académicos en el 
 acceso al Bachillerato de Artes se realizará una valoración adicional de las 
 calificaciones obtenidas en materias relacionadas directamente con esta modalidad, 
 que podrá suponer como máximo un punto y medio adicional. Dicha valoración se 
@@ -1491,25 +1586,24 @@ realizará según lo recogido en el Sistema Integral de Gestión Educativa Raíc
 l)  Condición de antiguo alumno del propio alumno, de los padres, tutores legales o 
 de alguno de los hermanos del solicitante, en el centro en el que se solicita plaza: 
  
-/g120 Dicho criterio se aplicará cuando el propio alumno solicitante, o el padre, madre, tutor 
+ Dicho criterio se aplicará cuando el propio alumno solicitante, o el padre, madre, tutor 
 legal o alguno de los hermanos del alumno tenga la condición de antiguo alumno del 
 centro para el que se solicita plaza por haber estado escolarizados en el mismo con 
 anterioridad al curso actual. Los solicitantes indicarán dicha circunstancia en la 
 solicitud y adjuntarán la información o, en su defecto, la documentación que permita al 
 centro su fácil comprobación. 
  
-m)   Para determinar la aplicación del criterio complementario que permite al centro    
+m)  Para determinar la aplicación del criterio complementario que permite al centro    
 asignar puntuación adicional por otra circunstancia que podrá ser coincidente con 
 algunos de los restantes criterios de admisión, acordada por el órgano del centro 
 competente en materia de admisión según criterios públicos y objetivos: 
  
-/g120 Los criterios acordados, que podrán ser coincidentes con otros criterios recogidos en 
+ Los criterios acordados, que podrán ser coincidentes con otros criterios recogidos en 
 el baremo, junto a la documentación necesaria para acreditarlos, deberán ser 
 expuestos públicamente en la página web de cada centro antes del inicio del plazo de 
 admisión de solicitudes. Cada centro solo podrá adjudicar puntuación a cada 
 
-MARTES 9 DE DICIEMBRE DE 2025Pág. 144 B.O.C.M. Núm. 293
-BOLETÍN OFICIAL DE LA COMUNIDAD DE MADRIDBOCM
+B.O.C.M. Núm. 293
 solicitante por una circunstancia de entre las aprobadas por el centro. La puntuación 
 no podrá ser fraccionada o modificada. Las familias indicarán dicha circunstancia para 
 el centro o centros concretos en la solicitud y adjuntarán la información o 
@@ -1522,26 +1616,24 @@ que permita resolver posibles empates en puntuación entre varios solicitantes d
 escolar, la Consejería de Educación, Ciencia y Universidades llevará a cabo el sorteo que se 
 describe en la Instrucción novena. 
 
-MARTES 9 DE DICIEMBRE DE 2025B.O.C.M. Núm. 293 Pág. 145
-BOLETÍN OFICIAL DE LA COMUNIDAD DE MADRIDBOCM
-
-## ANEXO IV 
+B.O.C.M. Núm. 293
+ANEXO IV 
  
 CALENDARIO DE ACTUACIONES PARA EL PROCESO ORDINARIO DE ADMISIÓN DE 
 ALUMNOS PARA EL CURSO 2026/2027 
  
  
 RESUMEN DE LAS ACTUACIONES A REALIZAR, PERFILES Y 
-RESPONSABLES CALENDARIO 
+RESPONSABLES 
+CALENDARIO 
 Las DAT acceden a través de la aplicación informática de gestión a la 
 zonificación, así como a las adscripciones de los centros.  
 A partir del 9 de 
 enero de 2026 
 Las DAT revisan y actualizan, a través del Sistema Integral de 
-Gestión E
-ducativa Raíces, la zonificación de los centros públicos que 
+Gestión Educativa Raíces, la zonificación de los centros públicos que 
 incluye la posibilidad de diferenciar, en caso necesario, la zonificación 
-existente para E.S.O. y Bachillerato. Igualmente  revisarán las 
+existente para E.S.O. y Bachillerato. Igualmente revisarán las 
 adscripciones de los centros públicos para el curso 2026/2027 y la 
 organización y ubicación de los SAE. 
 Hasta el 23 de 
@@ -1560,31 +1652,28 @@ parte de las respectivas Direcciones Generales.
 Del 2 al 6 de 
 febrero de 2026 
 En los centros públicos, autorización de grupos en cada centro por 
-parte de las DA
-T a partir de las comunicaciones recibidas de las 
+parte de las DAT a partir de las comunicaciones recibidas de las 
 respectivas Direcciones Generales.  
 En los centros privados sostenidos con fondos públicos, distribución 
 por la titularidad del centro de unidades por nivel educativo para cada 
-etapa, en función de las uni
-dades de c oncierto aprobadas en la 
+etapa, en función de las unidades de concierto aprobadas en la 
 valoración provisional por la Dirección General competente. 
 Del 9 al 13 de 
 febrero de 2026 
 Las DAT analizan las propuestas recibidas, revisan las propuestas 
-provisionales de adscripción y graban en la aplicación informát ica de 
+provisionales de adscripción y graban en la aplicación informática de 
 gestión las adscripciones entre centros que se aplicarán en el 
 proceso de admisión para el curso 2026/2027.  
 Hasta el 10 de 
 febrero de 2026 
 Los centros con adscripción única a otros centros verifican que han 
-informado en el Sistema Integral de Gestión Educa tiva Raíces a 
+informado en el Sistema Integral de Gestión Educativa Raíces a 
 todos los alumnos que finalizan sus enseñanzas en el centro. 
 Hasta el 20 de 
 febrero de 2026 
 Elaboración por parte de los centros de la propuesta de vacantes 
 para el proceso ordinario de admisión. Se consignarán de manera 
-diferenciad
-a respecto al resto de vacantes las bilingües para p rimer 
+diferenciada respecto al resto de vacantes las bilingües para primer 
 curso de ESO en IES que cuentan con sección lingüística en lengua 
 francesa o alemana, y, según corresponda, la reserva de plaza para 
 alumnos con NEE y necesidades de compensación educativa. 
@@ -1596,11 +1685,11 @@ autorizada.
 Hasta el 6 de 
 marzo de 2026 
 
-MARTES 9 DE DICIEMBRE DE 2025Pág. 146 B.O.C.M. Núm. 293
-BOLETÍN OFICIAL DE LA COMUNIDAD DE MADRIDBOCM
+B.O.C.M. Núm. 293
  
 RESUMEN DE LAS ACTUACIONES A REALIZAR, PERFILES Y 
-RESPONSABLES CALENDARIO 
+RESPONSABLES 
+CALENDARIO 
 Distribución a las DAT y a los SAE de las solicitudes de admisión y 
 los cuadernillos informativos. 
 Hasta el 27 de 
@@ -1613,18 +1702,18 @@ La Secretaría Virtual y los centros, a través de su página web,
 difunden la información correspondiente al proceso de admisión, que 
 incluirá la oferta de vacantes, la información sobre centros adscritos, 
 así como las circunstancias y requisitos aprobados por el centro para 
-la adjudicación  de la puntuación adicional relativa al criterio 
+la adjudicación de la puntuación adicional relativa al criterio 
 complementario. 
 9 de marzo de 
 2026 
 Las familias pueden acceder a través de la página web de admisión 
-de alumnos  de la Comunidad de Madrid, a los lis tados de centros 
+de alumnos de la Comunidad de Madrid, a los listados de centros 
 para la atención preferente de alumnos con NEE. 
 10 de marzo de 
 2026 
 Plazo de presentación de solicitudes para el proceso de admisión.  
 Las solicitudes se presentarán preferentemente de forma telemática. 
-En caso de dificultad o im posibilidad técnica se podrán entregar 
+En caso de dificultad o imposibilidad técnica se podrán entregar 
 presencialmente en el primer centro incluido en la solicitud. 
 Los centros graban las solicitudes entregadas de forma presencial a 
 medida que las van recibiendo. 
@@ -1639,17 +1728,16 @@ los centros.
 10 de abril de 
 2026 
 Se hace pública la información provisional de todos los alumnos que 
-han solicitado el centro en primer a opción. Se podrá consultar, a 
+han solicitado el centro en primera opción. Se podrá consultar, a 
 través de la Secretaría Virtual, si entre las instancias de admisión del 
 centro incluido como primera opción se encuentra la del solicitante. 
-Aquellos que no
- tengan acceso a la Secretaría Virtual podrán realizar 
-esa consulta  de manera presencial, y previa identificación, en el 
+Aquellos que no tengan acceso a la Secretaría Virtual podrán realizar 
+esa consulta de manera presencial, y previa identificación, en el 
 centro solicitado en primera opción. 
 14 de abril de 
 2026 
 Plazo de reclamaciones a través de la Secretaría Virtual o de forma 
-presencial, en fun ción de la opción elegida para la presentación de 
+presencial, en función de la opción elegida para la presentación de 
 solicitudes, a la información provisional de alumnos solicitantes. Las 
 reclamaciones surtirán efecto a través de la publicación provisional de 
 solicitudes baremadas. 
@@ -1666,19 +1754,26 @@ secretaría del centro solicitado en primer lugar.
 23 de abril de 
 2026 
 
-MARTES 9 DE DICIEMBRE DE 2025B.O.C.M. Núm. 293 Pág. 147
-BOLETÍN OFICIAL DE LA COMUNIDAD DE MADRIDBOCM
+B.O.C.M. Núm. 293
  
 RESUMEN DE LAS ACTUACIONES A REALIZAR, PERFILES Y 
-RESPONSABLES CALENDARIO 
+RESPONSABLES 
+CALENDARIO 
 Plazo de reclamaciones a través de la Secretaría Virtual o de forma 
-presencial, en función de la opción elegida para la presentació n de 
+presencial, en función de la opción elegida para la presentación de 
 solicitudes, a la puntuación provisional obtenida en cada centro 
 incluido en las solicitudes de admisión. 
 24, 27 y 28 de 
 abril de 2026 
 Los SAE responsables de la escolarización de los alumnos con NEE 
-en cada DAT elaboran las propuestas de escolarización 
+en 
+cada 
+DAT 
+elaboran 
+las 
+propuestas 
+de 
+escolarización 
 considerando el perfil específico del alumno, la baremación 
 obtenida, la solicitud priorizada de centros presentada por la familia 
 y la reserva de vacantes para estos alumnos. 
@@ -1711,8 +1806,8 @@ Fin del proceso extraordinario de escolarización para el curso
 14 de mayo de 
 2026 
 Fecha límite para que los centros puedan solicitar al director del 
-Área Territorial la modificación, e n unidade s y cursos concretos y 
-específicamente justificado s, del n úmero de alumnos por unidad 
+Área Territorial la modificación, en unidades y cursos concretos y 
+específicamente justificados, del número de alumnos por unidad 
 escolar, lo que repercutirá directamente en el número de vacantes 
 de la edad correspondiente. 
 18 de mayo de 
@@ -1737,31 +1832,30 @@ plaza en el mismo.
 27 de mayo de 
 2026 
 
-MARTES 9 DE DICIEMBRE DE 2025Pág. 148 B.O.C.M. Núm. 293
-BOLETÍN OFICIAL DE LA COMUNIDAD DE MADRIDBOCM
+B.O.C.M. Núm. 293
  
  
  
 RESUMEN DE LAS ACTUACIONES A REALIZAR, PERFILES Y 
-RESPONSABLES CALENDARIO 
+RESPONSABLES 
+CALENDARIO 
 Plazo voluntario para realizar solicitud complementaria de admisión 
-exclusivamente para alumnos que hayan participado en el pro ceso 
+exclusivamente para alumnos que hayan participado en el proceso 
 de admisión, no hayan obtenido plaza escolar en ninguno de los 
 centros solicitados y no dispongan de plaza para el curso 
 2026/2027. 
 Las solicitudes se presentarán preferentemente de forma telemática 
 a través de la Secretaría Virtual del centro que figure como primera 
-opción en la solicitud.  También puede presentarse presencialmente 
+opción en la solicitud. También puede presentarse presencialmente 
 en el SAE que corresponda al centro solicitado en primera opción. 
  28 y 29 de mayo 
 de 2026 
 Adjudicación automática de plaza escolar, en función de las 
-vacantes disponibles,  para lo s alumnos que hayan presentado 
+vacantes disponibles, para los alumnos que hayan presentado 
 solicitud complementaria.  
 5 de junio de 2026 
 Adjudicación de plaza escolar por los SAE a los alumnos que no 
-hayan podido ser admitidos en ninguna de las opc
-iones solicitadas y 
+hayan podido ser admitidos en ninguna de las opciones solicitadas y 
 no disponga de plaza para el curso 2026/2027, así como a las 
 solicitudes duplicadas, las que contengan datos erróneos y las 
 presentadas fuera de plazo o no presentadas que no dispongan de 
@@ -1777,31 +1871,35 @@ Secundaria.
 Del 11 de junio al 
 3 de julio de 2026 
 Inicio del plazo de presentación de solicitudes para proceso 
-extraordinario de admisión 
-en Educación Infantil, Primaria y Especial 
+extraordinario de admisión en Educación Infantil, Primaria y Especial 
 para el curso 2026/2027. 
 25 de junio de 
 2026 
 Inicio del plazo de presentación de solicitudes para proceso 
-extraordinario de admisión  en Educación Secundari a Obligatoria y 
+extraordinario de admisión en Educación Secundaria Obligatoria y 
 Bachillerato para el curso 2026/2027. 
 3 de julio de 2026 
 Todos los centros enviarán al Ayuntamiento o Junta Municipal 
 respectiva la relación de todos los alumnos que no continúen en el 
-centro y cuya documentación académica no haya  sido solicitada por 
-otro centro por si correspondieran a casos de alumnos 
+centro y cuya documentación académica no haya sido solicitada por 
+otro 
+centro 
+por 
+si correspondieran 
+a casos 
+de 
+alumnos 
 desescolarizados o de absentismo escolar. 
-Asimismo, los centros remit irán copia de dichas comunicaciones a 
+Asimismo, los centros remitirán copia de dichas comunicaciones a 
 su respectiva DAT. 
 30 de octubre de 
 2026 
  
 
-MARTES 9 DE DICIEMBRE DE 2025B.O.C.M. Núm. 293 Pág. 149
-http://www.bocm.es BOLETÍN OFICIAL DE LA COMUNIDAD DE MADRID D. L.: M. 19.462-1983      ISSN 1989-4791
-BOLETÍN OFICIAL DE LA COMUNIDAD DE MADRIDBOCM
-
-## ANEXO V 
+B.O.C.M. Núm. 293
+http://www.bocm.es
+D. L.: M. 19.462-1983      ISSN 1989-4791
+ANEXO V 
  ALUMNOS QUE PRESENTAN NECESIDADES EDUCATIVAS ESPECIALES  
 INFORMACIÓN PARA EL PROCESO DE ADMISIÓN 
 MUY IMPORTANTE:  
@@ -1827,24 +1925,25 @@ ETAPA/CURSO:
 3. DATOS PARA EL PROCESO DE ADMISIÓN PARA EL CURSO 2026/2027 
  
 MODALIDAD DE ESCOLARIZACIÓN 
-/g133 CENTRO ORDINARIO 
-/g133 Presenta necesidades educativas especiales           SÍ                     NO   
-/g133 EDUCACION ESPECIAL 
-/g133 Unidad de Educación Especial en centro ordinario 
-/g133 Centro de Educación Especial 
+ CENTRO ORDINARIO 
+ Presenta necesidades educativas especiales           SÍ                     NO   
+ EDUCACION ESPECIAL 
+ Unidad de Educación Especial en centro ordinario 
+ Centro de Educación Especial 
  
 CENTRO ORDINARIO DE ATENCIÓN PREFERENTE 
-/g133 Discapacidad Auditiva 
-/g133 Discapacidad Motora 
-/g133 Trastorno del espectro autista 
-/g133 Apoyo extenso y especializado (requiere en todos los casos contar 
+ Discapacidad Auditiva 
+ Discapacidad Motora 
+ Trastorno del espectro autista 
+ Apoyo extenso y especializado (requiere en todos los casos contar 
 previamente con informe técnico favorable)  
  
 ETAPA Y CURSO PARA EL QUE SOLICITA ESCOLARIZACIÓN 
 Etapa:  
 Curso:  
  
-El orientador Vº Bº director EOEP-jefe de departamento 
+El orientador 
+Vº Bº director EOEP-jefe de departamento 
 orientación, director del centro 
  
  
@@ -1854,5 +1953,6 @@ Fdo.: _________________________
 Fdo.: _________________________ 
  
  
-DESTINATARIO SERVICIO DE APOYO A LA ESCOLARIZACIÓN_________________________ 
+DESTINATARIO 
+SERVICIO DE APOYO A LA ESCOLARIZACIÓN_________________________ 
 (03/19.697/25)

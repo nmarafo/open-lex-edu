@@ -1,30 +1,35 @@
 ---
 id: norm-mad-o1149-2018
-titulo: "Orden 1149/2018, de 4 de abril, de la Consejería de Educación e Investigación, por la que se regula la organización y el funcionamiento de los centros públicos de Educación Especial en la Comunidad de Madrid"
+titulo: Orden 1149/2018, de 4 de abril, de la Consejería de Educación e Investigación,
+  por la que se regula la organización y el funcionamiento de los centros públicos
+  de Educación Especial en la Comunidad de Madrid
 jurisdiccion: Madrid
 ambito: Autonómico
-organo_emisor: Consejería de Educación, Ciencia y Universidades de la Comunidad de Madrid
+organo_emisor: Consejería de Educación, Ciencia y Universidades de la Comunidad de
+  Madrid
 tipo_disposicion: Orden
-numero_disposicion: "1149/2018"
-fecha_disposicion: "2018-04-04"
-fecha_publicacion: "2018-04-16"
+numero_disposicion: 1149/2018
+fecha_disposicion: '2018-04-04'
+fecha_publicacion: '2018-04-16'
 boletin: BOCM
 estado: Vigente
 redaccion: original
-fuente_oficial: "https://www.bocm.es"
+fuente_oficial: https://www.bocm.es
 clasificacion:
   categoria_canonica: 06_atencion_diversidad_y_orientacion
-  subcategoria: "Educación especial"
+  subcategoria: Educación especial
 tags:
-  - educacion_especial
-  - centros_educativos
-  - madrid
+- educacion_especial
+- centros_educativos
+- madrid
 relaciones:
   desarrolla: []
   modifica_a: []
   modificado_por: []
   afecta_a_articulos: []
 ---
+
+**Orden 1149/2018, de 4 de abril, de la Consejería de Educación e Investigación, por la que se regula la organización y el funcionamiento de los centros públicos de Educación Especial en la Comunidad de Madrid**
 
 ## Preámbulo
 

@@ -1,30 +1,35 @@
 ---
 id: norm-mad-o1312-2021
-titulo: "Orden 1312/2021, de 7 de mayo, de la Consejería de Educación y Juventud, por la que se establece el calendario escolar para los centros docentes no universitarios de la Comunidad de Madrid"
+titulo: Orden 1312/2021, de 7 de mayo, de la Consejería de Educación y Juventud, por
+  la que se establece el calendario escolar para los centros docentes no universitarios
+  de la Comunidad de Madrid
 jurisdiccion: Madrid
 ambito: Autonómico
-organo_emisor: Consejería de Educación, Ciencia y Universidades de la Comunidad de Madrid
+organo_emisor: Consejería de Educación, Ciencia y Universidades de la Comunidad de
+  Madrid
 tipo_disposicion: Orden
-numero_disposicion: "1312/2021"
-fecha_disposicion: "2021-05-07"
-fecha_publicacion: "2021-05-18"
+numero_disposicion: 1312/2021
+fecha_disposicion: '2021-05-07'
+fecha_publicacion: '2021-05-18'
 boletin: BOCM
 estado: Vigente
 redaccion: original
-fuente_oficial: "https://www.bocm.es"
+fuente_oficial: https://www.bocm.es
 clasificacion:
   categoria_canonica: 02_gestion_y_administracion_centros
-  subcategoria: "Calendario escolar y jornada"
+  subcategoria: Calendario escolar y jornada
 tags:
-  - calendario_escolar
-  - jornada_lectiva
-  - madrid
+- calendario_escolar
+- jornada_lectiva
+- madrid
 relaciones:
   desarrolla: []
   modifica_a: []
   modificado_por: []
   afecta_a_articulos: []
 ---
+
+**Orden 1312/2021, de 7 de mayo, de la Consejería de Educación y Juventud, por la que se establece el calendario escolar para los centros docentes no universitarios de la Comunidad de Madrid**
 
 ## Preámbulo
 
@@ -448,7 +453,6 @@ CSA.
  
 Durante la vigencia del presente Acuerdo, cualquier modificación aplicable a la jornada ordinaria de 
 los funcionarios afectará al horario ordinario del personal del CBCM de igual manera. Para que 
-
 
 MARTES 18 DE MAYO DE 2021Pág. 18 B.O.C.M. Núm. 117
 BOCM-20210518-1

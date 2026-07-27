@@ -1,31 +1,37 @@
 ---
 id: norm-mad-o893-2022
-titulo: "Orden 893/2022, de 21 de abril, de la Consejería de Educación, Universidades, Ciencia y Portavocía, por la que se regulan los procedimientos de evaluación, matrícula y acreditación académica en las enseñanzas de Formación Profesional en la Comunidad de Madrid"
+titulo: Orden 893/2022, de 21 de abril, de la Consejería de Educación, Universidades,
+  Ciencia y Portavocía, por la que se regulan los procedimientos de evaluación, matrícula
+  y acreditación académica en las enseñanzas de Formación Profesional en la Comunidad
+  de Madrid
 jurisdiccion: Madrid
 ambito: Autonómico
-organo_emisor: Consejería de Educación, Ciencia y Universidades de la Comunidad de Madrid
+organo_emisor: Consejería de Educación, Ciencia y Universidades de la Comunidad de
+  Madrid
 tipo_disposicion: Orden
-numero_disposicion: "893/2022"
-fecha_disposicion: "2022-04-21"
-fecha_publicacion: "2022-04-29"
+numero_disposicion: 893/2022
+fecha_disposicion: '2022-04-21'
+fecha_publicacion: '2022-04-29'
 boletin: BOCM
 estado: Vigente
 redaccion: original
-fuente_oficial: "https://www.bocm.es"
+fuente_oficial: https://www.bocm.es
 clasificacion:
   categoria_canonica: 04_organizacion_escolar_y_funcionamiento
-  subcategoria: "Formación Profesional"
+  subcategoria: Formación Profesional
 tags:
-  - formacion_profesional
-  - evaluacion
-  - matricula
-  - madrid
+- formacion_profesional
+- evaluacion
+- matricula
+- madrid
 relaciones:
   desarrolla: []
   modifica_a: []
   modificado_por: []
   afecta_a_articulos: []
 ---
+
+**Orden 893/2022, de 21 de abril, de la Consejería de Educación, Universidades, Ciencia y Portavocía, por la que se regulan los procedimientos de evaluación, matrícula y acreditación académica en las enseñanzas de Formación Profesional en la Comunidad de Madrid**
 
 ## Preámbulo
 

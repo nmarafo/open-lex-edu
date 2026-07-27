@@ -1,25 +1,28 @@
 ---
 id: norm-mad-o460-2023
-titulo: "Orden 460/2023, de 17 de febrero, de la Consejería de Educación, Universidades, Ciencia y Portavocía, por la que se regulan los aspectos de organización, funcionamiento y evaluación en la etapa de Educación Infantil en la Comunidad de Madrid"
+titulo: Orden 460/2023, de 17 de febrero, de la Consejería de Educación, Universidades,
+  Ciencia y Portavocía, por la que se regulan los aspectos de organización, funcionamiento
+  y evaluación en la etapa de Educación Infantil en la Comunidad de Madrid
 jurisdiccion: Madrid
 ambito: Autonómico
-organo_emisor: Consejería de Educación, Ciencia y Universidades de la Comunidad de Madrid
+organo_emisor: Consejería de Educación, Ciencia y Universidades de la Comunidad de
+  Madrid
 tipo_disposicion: Orden
-numero_disposicion: "460/2023"
-fecha_disposicion: "2023-02-17"
-fecha_publicacion: "2023-02-27"
+numero_disposicion: 460/2023
+fecha_disposicion: '2023-02-17'
+fecha_publicacion: '2023-02-27'
 boletin: BOCM
 estado: Vigente
 redaccion: original
-fuente_oficial: "https://www.bocm.es"
+fuente_oficial: https://www.bocm.es
 clasificacion:
   categoria_canonica: 03_ordenacion_curricular_y_ensenanzas
-  subcategoria: "Educación Infantil"
+  subcategoria: Educación Infantil
 tags:
-  - educacion_infantil
-  - evaluacion
-  - organizacion
-  - madrid
+- educacion_infantil
+- evaluacion
+- organizacion
+- madrid
 relaciones:
   desarrolla: []
   modifica_a: []
@@ -30,7 +33,6 @@ relaciones:
 ## Preámbulo
 
 # Orden 460/2023, de 17 de febrero, de la Consejería de Educación, Universidades, Ciencia y Portavocía, por la que se regula la organización, funcionamiento y evaluación en Educación Infantil
-
 
 ## Artículo 1. Objeto
 
